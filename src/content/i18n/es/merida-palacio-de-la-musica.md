@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: merida-palacio-de-la-musica
-srcHash: '7d12045f517d'
+srcHash: '74fd9bd722ff'
 title: 'Palacio de la Música: guía de viaje de Mérida (4.8★)'
 description: En la Calle 58 del Centro de Mérida, a pocos pasos de la Plaza Grande y del Parque Santa Lucía, el Palacio de la Música está dedicado a la música mexicana. Tiene 4.8★ en 3,756 reseñas. Aquí encontrará qué opinan los visitantes, el horario y consejos útiles.
 quickAnswer: En la Calle 58 del Centro de Mérida, a pocos pasos de la Plaza Grande y del Parque Santa Lucía, se encuentra el Palacio de la Música, un museo dedicado a la música mexicana. Abre de miércoles a domingo, de 10am a 4pm, y cierra los lunes y martes. Calcule entre hora y media y dos horas para la visita. Si quiere evitar el calor del mediodía y los grupos que llegan más tarde, procure estar allí hacia las 10am.

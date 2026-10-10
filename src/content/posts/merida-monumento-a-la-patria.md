@@ -1,59 +1,91 @@
 ---
-title: "Monumento a La Patria: Merida Travel Guide (4.8★)"
-description: "Monumento a La Patria stands in a traffic circle on Paseo de Montejo in Mérida's Centro, a carved stone homage to Mexican history by Colombian sculptor Rómulo Rozo. 4.8★ (12,987 reviews) — what visitors say, hours, and tips."
-country: "Mexico"
-region: "Merida"
-category: "attraction"
-pubDate: "2026-10-04T07:46:04.135Z"
+title: 'Monumento a La Patria: Merida Travel Guide (4.8★)'
+description: >-
+  Monumento a La Patria stands in a traffic circle on Paseo de Montejo in
+  Mérida's Centro, a carved stone homage to Mexican history by Colombian
+  sculptor Rómulo Rozo. 4.8★ (12,997 reviews) — what visitors say, hours, and
+  tips.
+country: Mexico
+region: Merida
+category: attraction
+pubDate: '2026-10-04T07:46:04.135Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Monumento_a_la_Patria%2C_M%C3%A9rida_Yucat%C3%A1n_-_panoramio.jpg/3840px-Monumento_a_la_Patria%2C_M%C3%A9rida_Yucat%C3%A1n_-_panoramio.jpg"
-  credit: "Photo: panza.rayada / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Monumento_a_la_Patria,_M%C3%A9rida_Yucat%C3%A1n_-_panoramio.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Monumento_a_la_Patria%2C_M%C3%A9rida_Yucat%C3%A1n_-_panoramio.jpg/3840px-Monumento_a_la_Patria%2C_M%C3%A9rida_Yucat%C3%A1n_-_panoramio.jpg
+  credit: 'Photo: panza.rayada / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Monumento_a_la_Patria,_M%C3%A9rida_Yucat%C3%A1n_-_panoramio.jpg
+  via: act
   focus:
     x: 60
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Monumento_a_la_Patria%2C_M%C3%A9rida_Yucatan_Mexico_2018.jpg/3840px-Monumento_a_la_Patria%2C_M%C3%A9rida_Yucatan_Mexico_2018.jpg"
-    credit: "Photo: amanderson2 / Wikimedia Commons (CC BY 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Monumento_a_la_Patria,_M%C3%A9rida_Yucatan_Mexico_2018.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Monumento_a_la_Patria%2C_M%C3%A9rida_Yucatan_Mexico_2018.jpg/3840px-Monumento_a_la_Patria%2C_M%C3%A9rida_Yucatan_Mexico_2018.jpg
+    credit: 'Photo: amanderson2 / Wikimedia Commons (CC BY 2.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Monumento_a_la_Patria,_M%C3%A9rida_Yucatan_Mexico_2018.jpg
 place:
-  id: "ChIJPY87yFFxVo8RiQ6YIilCT8w"
-  name: "Monumento a La Patria"
-  address: "P.º de Montejo 438, Centro, 97050 Mérida, Yuc., Mexico"
+  id: ChIJPY87yFFxVo8RiQ6YIilCT8w
+  name: Monumento a La Patria
+  address: 'P.º de Montejo 438, Centro, 97050 Mérida, Yuc., Mexico'
   rating: 4.8
-  userRatingsTotal: 12987
-  googleMapsUrl: "https://maps.google.com/?cid=14722058451338923657&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 12997
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14722058451338923657&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 20.9897159
   lng: -89.61684679999999
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "merida"
-  - "top attraction"
-quickAnswer: "Monumento a La Patria stands in a traffic circle on Paseo de Montejo in Mérida's Centro, a carved stone homage to Mexican history by Colombian sculptor Rómulo Rozo. It's open 24 hours with no gate, and it's lit up after dark, so come in the cooler evening or early morning and give it 20 to 40 minutes."
+  - merida
+  - top attraction
+quickAnswer: >-
+  Monumento a La Patria stands in a traffic circle on Paseo de Montejo in
+  Mérida's Centro, a carved stone homage to Mexican history by Colombian
+  sculptor Rómulo Rozo. It's open 24 hours with no gate, and it's lit up after
+  dark, so come in the cooler evening or early morning and give it 20 to 40
+  minutes.
 faq:
-  - q: "Where exactly is Monumento a La Patria in Mérida?"
-    a: "It stands in a roundabout on Paseo de Montejo at number 438, in Mérida's Centro, on the boulevard's northern stretch. You reach it on foot via marked crossings from the surrounding streets."
-  - q: "What time is it open?"
-    a: "It's an outdoor monument listed as open 24 hours every day, with no gate. Floodlights come on after dark, and many visitors think that's the best time to see the carvings."
-  - q: "How long should I spend there?"
-    a: "Allow 20 to 40 minutes to walk the full circle and look at the carved panels. Add more time if you're combining it with a walk down Paseo de Montejo past Palacio Cantón."
-  - q: "What is the monument actually showing?"
-    a: "Colombian artist Rómulo Rozo carved it as a homage to Mexican history in a Maya-inspired style. Hundreds of figures cover the pre-Hispanic era through to modern Mexico. Look for the national eagle on the front and the sacred ceiba tree on the reverse."
-  - q: "Is it a good stop with kids or on a bike?"
-    a: "Yes, but hold children's hands when crossing, because traffic circles the island. On Sunday mornings the Biciruta closes parts of Paseo de Montejo to cars, which makes cycling or walking there much easier. Check the current route before you go."
+  - q: Where exactly is Monumento a La Patria in Mérida?
+    a: >-
+      It stands in a roundabout on Paseo de Montejo at number 438, in Mérida's
+      Centro, on the boulevard's northern stretch. You reach it on foot via
+      marked crossings from the surrounding streets.
+  - q: What time is it open?
+    a: >-
+      It's an outdoor monument listed as open 24 hours every day, with no gate.
+      Floodlights come on after dark, and many visitors think that's the best
+      time to see the carvings.
+  - q: How long should I spend there?
+    a: >-
+      Allow 20 to 40 minutes to walk the full circle and look at the carved
+      panels. Add more time if you're combining it with a walk down Paseo de
+      Montejo past Palacio Cantón.
+  - q: What is the monument actually showing?
+    a: >-
+      Colombian artist Rómulo Rozo carved it as a homage to Mexican history in a
+      Maya-inspired style. Hundreds of figures cover the pre-Hispanic era
+      through to modern Mexico. Look for the national eagle on the front and the
+      sacred ceiba tree on the reverse.
+  - q: Is it a good stop with kids or on a bike?
+    a: >-
+      Yes, but hold children's hands when crossing, because traffic circles the
+      island. On Sunday mornings the Biciruta closes parts of Paseo de Montejo
+      to cars, which makes cycling or walking there much easier. Check the
+      current route before you go.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-10'
 ---
 
 ## A History Lesson Carved in the Middle of Traffic

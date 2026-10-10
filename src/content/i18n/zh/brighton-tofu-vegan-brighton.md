@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: brighton-tofu-vegan-brighton
-srcHash: 'e7c6bc0d368e'
+srcHash: 'ed8500f0ecfa'
 title: Tofu Vegan：布莱顿用餐好去处（5.0★）
-description: Tofu Vegan Brighton是一家全素餐厅，藏身布莱顿市中心巷弄区（The Lanes）的窄巷之中，地址为15 Meeting House Lane。餐厅评分5.0★（937条评价），本文汇总食客评价、营业时间与实用贴士。
+description: Tofu Vegan Brighton是一家全素餐厅，藏身布莱顿市中心巷弄区（The Lanes）的窄巷之中，地址为15 Meeting House Lane。餐厅评分5.0★（949条评价），本文汇总食客评价、营业时间与实用贴士。
 quickAnswer: Tofu Vegan Brighton是一家全素餐厅，位于布莱顿市中心巷弄区（The Lanes），地址为15 Meeting House Lane，周围尽是窄窄的小巷。餐厅价格中等，除周二外每天中午开门，周四至周六营业到11pm。吃完饭不妨散步去英皇阁（Royal Pavilion）或海滨，步行都只需几分钟。
 faq:
   - q: Tofu Vegan Brighton的具体位置在哪里？

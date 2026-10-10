@@ -1,9 +1,9 @@
 ---
 lang: ko
 slug: brighton-tofu-vegan-brighton
-srcHash: 'e7c6bc0d368e'
+srcHash: 'ed8500f0ecfa'
 title: '토푸 비건: 브라이턴에서 꼭 들러 볼 비건 맛집 (5.0★)'
-description: 토푸 비건 브라이턴(Tofu Vegan Brighton)은 브라이턴 중심가의 좁은 골목 지구 더 레인스(The Lanes)에 있는 완전 비건 레스토랑으로, 주소는 15 Meeting House Lane입니다. 평점 5.0★(리뷰 937개)과 방문객 후기, 영업시간, 알아 두면 좋은 팁을 한데 모았습니다.
+description: 토푸 비건 브라이턴(Tofu Vegan Brighton)은 브라이턴 중심가의 좁은 골목 지구 더 레인스(The Lanes)에 있는 완전 비건 레스토랑으로, 주소는 15 Meeting House Lane입니다. 평점 5.0★(리뷰 949개)과 방문객 후기, 영업시간, 알아 두면 좋은 팁을 한데 모았습니다.
 quickAnswer: 토푸 비건 브라이턴(Tofu Vegan Brighton)은 브라이턴 중심가 더 레인스(The Lanes)의 좁은 골목 안, 15 Meeting House Lane에 자리한 완전 비건 레스토랑입니다. 가격은 중간 정도입니다. 화요일을 제외하고 매일 정오에 문을 열며, 목요일부터 토요일까지는 밤 11시까지 영업합니다. 걸어서 몇 분이면 닿는 로열 파빌리온(Royal Pavilion)이나 해변 산책과 함께 일정을 짜 보시기 바랍니다.
 faq:
   - q: 토푸 비건 브라이턴은 정확히 어디에 있나요?

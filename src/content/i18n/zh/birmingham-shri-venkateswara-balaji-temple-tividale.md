@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: birmingham-shri-venkateswara-balaji-temple-tividale
-srcHash: '2093e0336878'
+srcHash: '8335e5cba245'
 title: 蒂维代尔斯里文卡特斯瓦拉（巴拉吉）神庙：伯明翰旅行指南
-description: 斯里文卡特斯瓦拉（巴拉吉）神庙位于奥尔德伯里蒂维代尔的101 Dudley Road East，距伯明翰市中心以西约8英里。评分4.9★（10,609条评价）。本文汇总游客评价、开放时间和参观贴士。
+description: 斯里文卡特斯瓦拉（巴拉吉）神庙位于奥尔德伯里蒂维代尔的101 Dudley Road East，距伯明翰市中心以西约8英里。评分4.9★（10,613条评价）。本文汇总游客评价、开放时间和参观贴士。
 quickAnswer: 斯里文卡特斯瓦拉（巴拉吉）神庙（Shri Venkateswara (Balaji) Temple）位于奥尔德伯里（Oldbury）蒂维代尔（Tividale）的101 Dudley Road East，距伯明翰市中心以西约8英里。周末从上午10点到晚上9点人一直很多，建议挑工作日的上午（9点–下午1点）或傍晚（下午5点–晚上9点）前往。神庙中午会闭门：工作日为下午1点–5点，周末为下午2:30–4点，安排行程时请避开这段时间。
 faq:
   - q: 什么时候去蒂维代尔巴拉吉神庙人最少？

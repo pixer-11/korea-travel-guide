@@ -1,57 +1,86 @@
 ---
-title: "Tofu Vegan: Where to Eat in Brighton (5.0★)"
-description: "Tofu Vegan Brighton is a fully vegan restaurant at 15 Meeting House Lane, in the narrow alleys of The Lanes in central Brighton. 5.0★ (937 reviews) — what visitors say, hours, and tips."
-country: "United Kingdom"
-region: "Brighton"
-category: "restaurant"
-pubDate: "2026-10-10T07:42:52.585Z"
+title: 'Tofu Vegan: Where to Eat in Brighton (5.0★)'
+description: >-
+  Tofu Vegan Brighton is a fully vegan restaurant at 15 Meeting House Lane, in
+  the narrow alleys of The Lanes in central Brighton. 5.0★ (949 reviews) — what
+  visitors say, hours, and tips.
+country: United Kingdom
+region: Brighton
+category: restaurant
+pubDate: '2026-10-10T07:42:52.585Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tofu_Vegan%2C_Meeting_House_Lane%2C_Brighton_2026-04-10.jpg/3840px-Tofu_Vegan%2C_Meeting_House_Lane%2C_Brighton_2026-04-10.jpg"
-  credit: "Photo: Andy Li / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Tofu_Vegan,_Meeting_House_Lane,_Brighton_2026-04-10.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tofu_Vegan%2C_Meeting_House_Lane%2C_Brighton_2026-04-10.jpg/3840px-Tofu_Vegan%2C_Meeting_House_Lane%2C_Brighton_2026-04-10.jpg
+  credit: 'Photo: Andy Li / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Tofu_Vegan,_Meeting_House_Lane,_Brighton_2026-04-10.jpg
+  via: act
   focus:
     x: 60
-    y: 25
+    'y': 25
 gallery: []
 place:
-  id: "ChIJXZO-XKyFdUgRxePiQtQj1QY"
-  name: "Tofu Vegan Brighton"
-  address: "15 Meeting House Ln, Brighton and Hove, Brighton BN1 1HB, UK"
+  id: ChIJXZO-XKyFdUgRxePiQtQj1QY
+  name: Tofu Vegan Brighton
+  address: '15 Meeting House Ln, Brighton and Hove, Brighton BN1 1HB, UK'
   rating: 5
-  userRatingsTotal: 937
+  userRatingsTotal: 949
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=492339128829141957&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=492339128829141957&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 50.822260799999995
   lng: -0.14034249999999998
-  phone: "+44 1273 526085"
+  phone: +44 1273 526085
   openingHours:
-    - "Monday: 12:00 – 10:00 PM"
-    - "Tuesday: Closed"
-    - "Wednesday: 12:00 – 10:00 PM"
-    - "Thursday: 12:00 – 11:00 PM"
-    - "Friday: 12:00 – 11:00 PM"
-    - "Saturday: 12:00 – 11:00 PM"
-    - "Sunday: 12:00 – 9:30 PM"
+    - 'Monday: 12:00 – 10:00 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 12:00 – 10:00 PM'
+    - 'Thursday: 12:00 – 11:00 PM'
+    - 'Friday: 12:00 – 11:00 PM'
+    - 'Saturday: 12:00 – 11:00 PM'
+    - 'Sunday: 12:00 – 9:30 PM'
 tags:
-  - "brighton"
-  - "vegetarian"
-quickAnswer: "Tofu Vegan Brighton is a fully vegan restaurant at 15 Meeting House Lane, in the narrow alleys of The Lanes in central Brighton. It is moderately priced, opens at noon every day except Tuesday, and stays open until 11pm Thursday to Saturday. Pair it with a walk to the Royal Pavilion or the seafront, both a few minutes away on foot."
+  - brighton
+  - vegetarian
+quickAnswer: >-
+  Tofu Vegan Brighton is a fully vegan restaurant at 15 Meeting House Lane, in
+  the narrow alleys of The Lanes in central Brighton. It is moderately priced,
+  opens at noon every day except Tuesday, and stays open until 11pm Thursday to
+  Saturday. Pair it with a walk to the Royal Pavilion or the seafront, both a
+  few minutes away on foot.
 faq:
-  - q: "Where exactly is Tofu Vegan Brighton?"
-    a: "It's at 15 Meeting House Lane, BN1 1HB, in The Lanes in central Brighton. The lane is named after the Friends Meeting House at its western end near Ship Street. It's about a 12–15 minute walk downhill from Brighton station."
-  - q: "Is Tofu Vegan Brighton open on Tuesdays?"
-    a: "No, Tuesday is its only closed day. It opens at 12pm on every other day. It closes at 10pm on Monday and Wednesday, 11pm Thursday to Saturday, and 9:30pm on Sunday."
-  - q: "Is everything on the menu vegan?"
-    a: "Yes. It's a fully vegan restaurant built around tofu. If you have allergies, especially to soy, ask staff for allergen information, which UK restaurants must provide on request."
-  - q: "How long should I allow for a meal?"
-    a: "Around 60–90 minutes for a relaxed sit-down meal, longer if you're sharing several dishes. The Royal Pavilion, North Laine and the seafront are all within a short walk, so it's easy to fit into a half-day."
-  - q: "Do I need to book?"
-    a: "It's a small restaurant in the Lanes and could fill up on Friday and Saturday evenings. Check the restaurant's own website or social channels to see whether it takes reservations, especially if you're coming as a group."
+  - q: Where exactly is Tofu Vegan Brighton?
+    a: >-
+      It's at 15 Meeting House Lane, BN1 1HB, in The Lanes in central Brighton.
+      The lane is named after the Friends Meeting House at its western end near
+      Ship Street. It's about a 12–15 minute walk downhill from Brighton
+      station.
+  - q: Is Tofu Vegan Brighton open on Tuesdays?
+    a: >-
+      No, Tuesday is its only closed day. It opens at 12pm on every other day.
+      It closes at 10pm on Monday and Wednesday, 11pm Thursday to Saturday, and
+      9:30pm on Sunday.
+  - q: Is everything on the menu vegan?
+    a: >-
+      Yes. It's a fully vegan restaurant built around tofu. If you have
+      allergies, especially to soy, ask staff for allergen information, which UK
+      restaurants must provide on request.
+  - q: How long should I allow for a meal?
+    a: >-
+      Around 60–90 minutes for a relaxed sit-down meal, longer if you're sharing
+      several dishes. The Royal Pavilion, North Laine and the seafront are all
+      within a short walk, so it's easy to fit into a half-day.
+  - q: Do I need to book?
+    a: >-
+      It's a small restaurant in the Lanes and could fill up on Friday and
+      Saturday evenings. Check the restaurant's own website or social channels
+      to see whether it takes reservations, especially if you're coming as a
+      group.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-10'
 ---
 
 ## A table in the twittens

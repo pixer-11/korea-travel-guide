@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: mexico-city-basilica-of-our-lady-of-guadalupe
-srcHash: '9fbb5ca25e54'
+srcHash: 'a67dd82ce3f3'
 title: 'Basílica de Nuestra Señora de Guadalupe: guía de viaje de la Ciudad de México'
-description: 'La Basílica de Nuestra Señora de Guadalupe se encuentra en la Villa de Guadalupe, en la alcaldía Gustavo A. Madero de la Ciudad de México, a unos 6 km al norte del Zócalo. 4.8★ (188,022 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'La Basílica de Nuestra Señora de Guadalupe se encuentra en la Villa de Guadalupe, en la alcaldía Gustavo A. Madero de la Ciudad de México, a unos 6 km al norte del Zócalo. 4.8★ (188,181 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: La Basílica de Nuestra Señora de Guadalupe se encuentra en la Villa de Guadalupe, en la alcaldía Gustavo A. Madero de la Ciudad de México, a unos 6 km al norte del Zócalo. Lo más sencillo es tomar la Línea 6 del Metro hasta la estación La Villa-Basílica y caminar un breve trecho. Conviene reservar entre dos y tres horas para recorrer la basílica moderna, la Antigua Basílica, visiblemente inclinada, y las capillas del cerro del Tepeyac. Para evitar las peores aglomeraciones, llegue temprano un día entre semana. Tenga presente, además, que el 12 de diciembre se celebra la gran peregrinación del año.
 faq:
   - q: ¿Cómo se llega en Metro a la Basílica de Nuestra Señora de Guadalupe?

@@ -1,34 +1,34 @@
 ---
 title: "Ritsurin Garden: Takamatsu Travel Guide (4.5★)"
-description: "Ritsurin Garden is a 17th-century feudal lord's stroll garden in Ritsurin-chō, Takamatsu, about 2 km south of JR Takamatsu Station, with ponds, arched bridges, a teahouse and a wooden boat ride. 4.5★ (16,296 reviews) — what visitors say, hours, and tips."
-country: "Japan"
-region: "Takamatsu"
-category: "attraction"
+description: Ritsurin Garden is a 17th-century feudal lord's stroll garden in Ritsurin-chō, Takamatsu, about 2 km south of JR Takamatsu Station, with ponds, arched bridges, a teahouse and a wooden boat ride. 4.5★ (16,296 reviews) — what visitors say, hours, and tips.
+country: Japan
+region: Takamatsu
+category: attraction
 pubDate: "2026-10-10T16:02:48.598Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Ritsurin_park16s3200.jpg/1920px-Ritsurin_park16s3200.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Ritsurin_park16s3200.jpg/1920px-Ritsurin_park16s3200.jpg
   credit: "Photo: 663highland / Wikimedia Commons (CC BY 2.5)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Ritsurin_park16s3200.jpg"
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Ritsurin_park16s3200.jpg
   focus:
     x: 50
-    y: 50
+    "y": 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Ritsurin_Garden%2C_Takamatsu_3-27_%2826295171020%29.jpg/3840px-Ritsurin_Garden%2C_Takamatsu_3-27_%2826295171020%29.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Ritsurin_Garden%2C_Takamatsu_3-27_%2826295171020%29.jpg/3840px-Ritsurin_Garden%2C_Takamatsu_3-27_%2826295171020%29.jpg
     credit: "Photo: KimonBerlin / Wikimedia Commons (CC BY-SA 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Ritsurin_Garden,_Takamatsu_3-27_(26295171020).jpg"
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Ritsurin_Garden,_Takamatsu_3-27_(26295171020).jpg
 place:
-  id: "ChIJUc4SILrrUzURFEFMQod9v7g"
-  name: "Ritsurin Garden"
-  address: "1-chōme-20-16 Ritsurinchō, Takamatsu, Kagawa 760-0073, Japan"
+  id: ChIJUc4SILrrUzURFEFMQod9v7g
+  name: Ritsurin Garden
+  address: 1-chōme-20-16 Ritsurinchō, Takamatsu, Kagawa 760-0073, Japan
   rating: 4.5
   userRatingsTotal: 16296
-  googleMapsUrl: "https://maps.google.com/?cid=13312497043416826132&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=13312497043416826132&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 34.3299036
   lng: 134.0457696
-  phone: "+81 87-833-7411"
+  phone: +81 87-833-7411
   openingHours:
     - "Monday: 6:00 AM – 5:30 PM"
     - "Tuesday: 6:00 AM – 5:30 PM"
@@ -38,7 +38,7 @@ place:
     - "Saturday: 6:00 AM – 6:30 PM"
     - "Sunday: 6:00 AM – 5:30 PM"
   busyness:
-    updated: 2026-10-10
+    updated: 2026-10-10T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -56,22 +56,22 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_67377639646f514d46454652557a5572724c49533463554a496843"
+    venueId: ven_67377639646f514d46454652557a5572724c49533463554a496843
 tags:
-  - "takamatsu"
-  - "top attraction"
-quickAnswer: "Ritsurin Garden is a 17th-century feudal lord's stroll garden in Ritsurin-chō, Takamatsu, about 2 km south of JR Takamatsu Station, with ponds, arched bridges, a teahouse and a wooden boat ride. Its hours change by month, from 5:30am–7pm in summer to 7am–5pm in December and January; in October it is 6am–5:30pm. Come between 7am and 9am for the quietest paths, and avoid 10am–4pm on weekends, when it is busiest."
+  - takamatsu
+  - top attraction
+quickAnswer: Ritsurin Garden is a 17th-century feudal lord's stroll garden in Ritsurin-chō, Takamatsu, about 2 km south of JR Takamatsu Station, with ponds, arched bridges, a teahouse and a wooden boat ride. Its hours are 6am–5:30pm every day, except Saturday, when it stays open until 6:30pm. Come between 7am and 9am for the quietest paths, and avoid 10am–4pm on weekends, when it is busiest.
 faq:
-  - q: "When is the quietest time to visit Ritsurin Garden?"
-    a: "Between 7am and 9am, on both weekdays and weekends. Avoid 10am–4pm on weekends, which is the busiest stretch."
-  - q: "What are Ritsurin Garden's opening hours?"
-    a: "It opens at 6am every day. It closes at 5:30pm, except on Saturday, when it stays open until 6:30pm."
-  - q: "How do I get to Ritsurin Garden from Takamatsu Station?"
-    a: "Take a bus south along Chūō-dōri to the east gate, or walk for about 25 minutes. You can also take the Kotoden Kotohira Line to Ritsurin-Kōen Station, or the JR Kōtoku Line to Ritsurin-Kōen-Kitaguchi Station by the north gate."
-  - q: "How long should I spend at Ritsurin Garden?"
-    a: "Allow about 90 minutes to two hours for the south garden loop. Add more time for tea at Kikugetsu-tei or the wasen boat ride."
-  - q: "What is there to do near Ritsurin Garden?"
-    a: "Tamamo Park and the Takamatsu Castle ruins are near the port, and ferries to Naoshima leave from there too. There are also plenty of sanuki udon counters around the city."
+  - q: When is the quietest time to visit Ritsurin Garden?
+    a: Between 7am and 9am, on both weekdays and weekends. Avoid 10am–4pm on weekends, which is the busiest stretch.
+  - q: What are Ritsurin Garden's opening hours?
+    a: It opens at 6am every day. It closes at 5:30pm, except on Saturday, when it stays open until 6:30pm.
+  - q: How do I get to Ritsurin Garden from Takamatsu Station?
+    a: Take a bus south along Chūō-dōri to the east gate, or walk for about 25 minutes. You can also take the Kotoden Kotohira Line to Ritsurin-Kōen Station, or the JR Kōtoku Line to Ritsurin-Kōen-Kitaguchi Station by the north gate.
+  - q: How long should I spend at Ritsurin Garden?
+    a: Allow about 90 minutes to two hours for the south garden loop. Add more time for tea at Kikugetsu-tei or the wasen boat ride.
+  - q: What is there to do near Ritsurin Garden?
+    a: Tamamo Park and the Takamatsu Castle ruins are near the port, and ferries to Naoshima leave from there too. There are also plenty of sanuki udon counters around the city.
 aiGenerated: true
 draft: false
 ---
@@ -96,9 +96,9 @@ Points to aim for:
 
 ## Beating the weekend crowds
 
-This is one of Shikoku's busiest sights. Plan your timing around that. Opening time changes by month (6am in October), and the calmest window is 7am–9am on weekdays and weekends alike. On weekends, try not to arrive between 10am and 4pm, when groups fill the narrow bridges and the Hiraiho viewpoint.
+This is one of Shikoku's busiest sights. Plan your timing around that. The garden opens at 6am every day, and the calmest window is 7am–9am on weekdays and weekends alike. On weekends, try not to arrive between 10am and 4pm, when groups fill the narrow bridges and the Hiraiho viewpoint.
 
-An early start pays off twice. The ponds tend to be stillest in the morning, which is when Engetsu-kyō's reflection works best. Closing time moves with the month too: 5:30pm in October, 7pm in summer and 5pm in winter. Buy your ticket at the gate; current prices are posted there and on the official site.
+An early start pays off twice. The ponds tend to be stillest in the morning, which is when Engetsu-kyō's reflection works best. Closing time is 5:30pm most days, except on Saturday, when the garden stays open until 6:30pm. Buy your ticket at the gate; current prices are posted there and on the official site.
 
 Some etiquette that matters here:
 

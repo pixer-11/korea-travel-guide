@@ -1,45 +1,54 @@
 ---
-title: "Dogo Onsen Main Building: Matsuyama Travel Guide (4.2★)"
-description: "Dogo Onsen Main Building in Matsuyama's Dogo district is a three-storey wooden bathhouse from 1894, open daily 6:00am to 11:00pm, a short walk from Dogo Onsen tram station. 4.2★ (16,758 reviews) — what visitors say, hours, and tips."
-country: "Japan"
-region: "Matsuyama"
+title: 'Dogo Onsen Main Building: Matsuyama Travel Guide (4.2★)'
+description: >-
+  Dogo Onsen Main Building in Matsuyama's Dogo district is a three-storey wooden
+  bathhouse from 1894, open daily 6:00am to 11:00pm, a short walk from Dogo
+  Onsen tram station. 4.2★ (16,763 reviews) — what visitors say, hours, and
+  tips.
+country: Japan
+region: Matsuyama
 category: attraction
-pubDate: "2026-10-10T14:59:56.031Z"
+pubDate: '2026-10-10T14:59:56.031Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Dogo_Onsen_Honkan_%28Main_building%29%2C_%E9%81%93%E5%BE%8C%E6%B8%A9%E6%B3%89_%E6%9C%AC%E9%A4%A8_-_panoramio_%288%29.jpg/3840px-Dogo_Onsen_Honkan_%28Main_building%29%2C_%E9%81%93%E5%BE%8C%E6%B8%A9%E6%B3%89_%E6%9C%AC%E9%A4%A8_-_panoramio_%288%29.jpg"
-  credit: "Photo: z tanuki / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Dogo_Onsen_Honkan_(Main_building),_%E9%81%93%E5%BE%8C%E6%B8%A9%E6%B3%89_%E6%9C%AC%E9%A4%A8_-_panoramio_(8).jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Dogo_Onsen_Honkan_%28Main_building%29%2C_%E9%81%93%E5%BE%8C%E6%B8%A9%E6%B3%89_%E6%9C%AC%E9%A4%A8_-_panoramio_%288%29.jpg/3840px-Dogo_Onsen_Honkan_%28Main_building%29%2C_%E9%81%93%E5%BE%8C%E6%B8%A9%E6%B3%89_%E6%9C%AC%E9%A4%A8_-_panoramio_%288%29.jpg
+  credit: 'Photo: z tanuki / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Dogo_Onsen_Honkan_(Main_building),_%E9%81%93%E5%BE%8C%E6%B8%A9%E6%B3%89_%E6%9C%AC%E9%A4%A8_-_panoramio_(8).jpg
+  via: act
   focus:
     x: 45
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/5/57/Dogo_Onsen_Honkan_%28Main_building%29%2C_%E9%81%93%E5%BE%8C%E6%B8%A9%E6%B3%89_%E6%9C%AC%E9%A4%A8_-_panoramio.jpg"
-    credit: "Photo: z tanuki / Wikimedia Commons (CC BY 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Dogo_Onsen_Honkan_(Main_building),_%E9%81%93%E5%BE%8C%E6%B8%A9%E6%B3%89_%E6%9C%AC%E9%A4%A8_-_panoramio.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/5/57/Dogo_Onsen_Honkan_%28Main_building%29%2C_%E9%81%93%E5%BE%8C%E6%B8%A9%E6%B3%89_%E6%9C%AC%E9%A4%A8_-_panoramio.jpg
+    credit: 'Photo: z tanuki / Wikimedia Commons (CC BY 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Dogo_Onsen_Honkan_(Main_building),_%E9%81%93%E5%BE%8C%E6%B8%A9%E6%B3%89_%E6%9C%AC%E9%A4%A8_-_panoramio.jpg
 place:
-  id: "ChIJ84F-kHjmTzURebGHHI1YWXw"
-  name: "Dogo Onsen Main Building"
-  address: "5-6 Dōgoyunomachi, Matsuyama, Ehime 790-0842, Japan"
+  id: ChIJ84F-kHjmTzURebGHHI1YWXw
+  name: Dogo Onsen Main Building
+  address: '5-6 Dōgoyunomachi, Matsuyama, Ehime 790-0842, Japan'
   rating: 4.2
-  userRatingsTotal: 16758
-  googleMapsUrl: "https://maps.google.com/?cid=8960290296722600313&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 16763
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=8960290296722600313&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 33.8520748
   lng: 132.7864098
-  phone: "+81 89-921-5141"
+  phone: +81 89-921-5141
   openingHours:
-    - "Monday: 6:00 AM – 11:00 PM"
-    - "Tuesday: 6:00 AM – 11:00 PM"
-    - "Wednesday: 6:00 AM – 11:00 PM"
-    - "Thursday: 6:00 AM – 11:00 PM"
-    - "Friday: 6:00 AM – 11:00 PM"
-    - "Saturday: 6:00 AM – 11:00 PM"
-    - "Sunday: 6:00 AM – 11:00 PM"
+    - 'Monday: 6:00 AM – 11:00 PM'
+    - 'Tuesday: 6:00 AM – 11:00 PM'
+    - 'Wednesday: 6:00 AM – 11:00 PM'
+    - 'Thursday: 6:00 AM – 11:00 PM'
+    - 'Friday: 6:00 AM – 11:00 PM'
+    - 'Saturday: 6:00 AM – 11:00 PM'
+    - 'Sunday: 6:00 AM – 11:00 PM'
   busyness:
-    updated: 2026-10-10
+    updated: 2026-10-10T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -62,24 +71,45 @@ place:
       - 18
       - 19
       - 20
-    venueId: "ven_775857593149484847626552557a546d6a486b2d4634384a496843"
+    venueId: ven_775857593149484847626552557a546d6a486b2d4634384a496843
 tags:
-  - "matsuyama"
-  - "old quarter"
-quickAnswer: "Dogo Onsen Main Building in Matsuyama's Dogo district is a three-storey wooden bathhouse from 1894, open daily 6:00am to 11:00pm, a short walk from Dogo Onsen tram station. Measured foot traffic puts the quieter window at 7am–11pm on both weekdays and weekends. The weekend crush runs 12pm–9pm, so if you go on a Saturday or Sunday, aim for the early morning or late evening."
+  - matsuyama
+  - old quarter
+quickAnswer: >-
+  Dogo Onsen Main Building in Matsuyama's Dogo district is a three-storey wooden
+  bathhouse from 1894, open daily 6:00am to 11:00pm, a short walk from Dogo
+  Onsen tram station. Measured foot traffic puts the quieter window at 7am–11pm
+  on both weekdays and weekends. The weekend crush runs 12pm–9pm, so if you go
+  on a Saturday or Sunday, aim for the early morning or late evening.
 faq:
-  - q: "When is the quietest time to visit Dogo Onsen Main Building?"
-    a: "Measured foot traffic shows 7am–11pm as the quieter window on both weekdays and weekends. Avoid weekends between 12pm and 9pm, which is the busiest stretch. Early morning after the 6am opening or late evening are the calmest choices."
-  - q: "What are the opening hours?"
-    a: "It's open daily from 6:00am to 11:00pm, including weekends. Ticket sales stop before closing, so arrive with time to spare."
-  - q: "How do I get there from central Matsuyama?"
-    a: "Take the Iyotetsu tram to Dogo Onsen Station at the end of the line. From there, walk about five minutes through the Dogo Haikara-dori shopping arcade to 5-6 Dogoyunomachi."
-  - q: "How long should I spend there?"
-    a: "Allow 60–90 minutes for a bath and time in the second-floor rest hall. Allow longer if you book a private third-floor room or join the Yushinden walk-through."
-  - q: "What else is nearby?"
-    a: "Within walking distance you'll find the modern Asuka-no-Yu annex, Tsubaki-no-Yu, the Botchan Karakuri Clock, Isaniwa Shrine and Dogo Park. Matsuyama Castle is a short tram ride away."
+  - q: When is the quietest time to visit Dogo Onsen Main Building?
+    a: >-
+      Measured foot traffic shows 7am–11pm as the quieter window on both
+      weekdays and weekends. Avoid weekends between 12pm and 9pm, which is the
+      busiest stretch. Early morning after the 6am opening or late evening are
+      the calmest choices.
+  - q: What are the opening hours?
+    a: >-
+      It's open daily from 6:00am to 11:00pm, including weekends. Ticket sales
+      stop before closing, so arrive with time to spare.
+  - q: How do I get there from central Matsuyama?
+    a: >-
+      Take the Iyotetsu tram to Dogo Onsen Station at the end of the line. From
+      there, walk about five minutes through the Dogo Haikara-dori shopping
+      arcade to 5-6 Dogoyunomachi.
+  - q: How long should I spend there?
+    a: >-
+      Allow 60–90 minutes for a bath and time in the second-floor rest hall.
+      Allow longer if you book a private third-floor room or join the Yushinden
+      walk-through.
+  - q: What else is nearby?
+    a: >-
+      Within walking distance you'll find the modern Asuka-no-Yu annex,
+      Tsubaki-no-Yu, the Botchan Karakuri Clock, Isaniwa Shrine and Dogo Park.
+      Matsuyama Castle is a short tram ride away.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-10'
 ---
 
 ## A bathhouse with a drum on its roof

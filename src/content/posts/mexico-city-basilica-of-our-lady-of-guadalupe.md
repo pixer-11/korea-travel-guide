@@ -1,47 +1,78 @@
 ---
-title: "Basilica of Our Lady of Guadalupe: Mexico City Travel Guide"
-description: "The Basilica of Our Lady of Guadalupe is in Villa de Guadalupe, in Mexico City's Gustavo A. Madero borough, about 6 km north of the Zócalo. 4.8★ (188,022 reviews) — what visitors say, hours, and tips."
-country: "Mexico"
-region: "Mexico City"
-category: "attraction"
-pubDate: "2026-10-05T16:23:26.604Z"
+title: 'Basilica of Our Lady of Guadalupe: Mexico City Travel Guide'
+description: >-
+  The Basilica of Our Lady of Guadalupe is in Villa de Guadalupe, in Mexico
+  City's Gustavo A. Madero borough, about 6 km north of the Zócalo. 4.8★
+  (188,181 reviews) — what visitors say, hours, and tips.
+country: Mexico
+region: Mexico City
+category: attraction
+pubDate: '2026-10-05T16:23:26.604Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Mexico_city_Insigne_y_Nacional_Bas%C3%ADlica_de_Santa_Mar%C3%ADa_de_Guadalupe.JPG/1920px-Mexico_city_Insigne_y_Nacional_Bas%C3%ADlica_de_Santa_Mar%C3%ADa_de_Guadalupe.JPG"
-  credit: "Photo: Arne Müseler / Wikimedia Commons (CC BY-SA 3.0 de)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Mexico_city_Insigne_y_Nacional_Bas%C3%ADlica_de_Santa_Mar%C3%ADa_de_Guadalupe.JPG"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Mexico_city_Insigne_y_Nacional_Bas%C3%ADlica_de_Santa_Mar%C3%ADa_de_Guadalupe.JPG/1920px-Mexico_city_Insigne_y_Nacional_Bas%C3%ADlica_de_Santa_Mar%C3%ADa_de_Guadalupe.JPG
+  credit: 'Photo: Arne Müseler / Wikimedia Commons (CC BY-SA 3.0 de)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Mexico_city_Insigne_y_Nacional_Bas%C3%ADlica_de_Santa_Mar%C3%ADa_de_Guadalupe.JPG
   focus:
     x: 60
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJxak0Kpz50YURsGoopfnqoCE"
-  name: "Basilica of Our Lady of Guadalupe"
-  address: "Fray Juan de Zumárraga No. 2, Villa Gustavo A. Madero, Gustavo A. Madero, 07050 Ciudad de México, CDMX, Mexico"
+  id: ChIJxak0Kpz50YURsGoopfnqoCE
+  name: Basilica of Our Lady of Guadalupe
+  address: >-
+    Fray Juan de Zumárraga No. 2, Villa Gustavo A. Madero, Gustavo A. Madero,
+    07050 Ciudad de México, CDMX, Mexico
   rating: 4.8
-  userRatingsTotal: 188022
-  googleMapsUrl: "https://maps.google.com/?cid=2423194957463972528&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 188181
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2423194957463972528&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 19.4847584
   lng: -99.1178893
-  phone: "+52 55 6532 9123"
+  phone: +52 55 6532 9123
 tags:
-  - "mexico city"
-  - "historic site"
-quickAnswer: "The Basilica of Our Lady of Guadalupe is in Villa de Guadalupe, in Mexico City's Gustavo A. Madero borough, about 6 km north of the Zócalo. The easiest way there is Metro Line 6 to La Villa-Basílica station, then a short walk. Give it two to three hours to see the modern basilica, the tilting Old Basilica and the chapels on Tepeyac hill. Arrive early on a weekday to avoid the heaviest crowds, and remember that 12 December is the year's huge pilgrimage day."
+  - mexico city
+  - historic site
+quickAnswer: >-
+  The Basilica of Our Lady of Guadalupe is in Villa de Guadalupe, in Mexico
+  City's Gustavo A. Madero borough, about 6 km north of the Zócalo. The easiest
+  way there is Metro Line 6 to La Villa-Basílica station, then a short walk.
+  Give it two to three hours to see the modern basilica, the tilting Old
+  Basilica and the chapels on Tepeyac hill. Arrive early on a weekday to avoid
+  the heaviest crowds, and remember that 12 December is the year's huge
+  pilgrimage day.
 faq:
-  - q: "How do I get to the Basilica of Our Lady of Guadalupe by Metro?"
-    a: "Take Metro Line 6 to La Villa-Basílica station, then walk a short way to the plaza. From the historic centre, take Line 3 north and change to Line 6 at Deportivo 18 de Marzo."
-  - q: "How long should I spend at the basilica?"
-    a: "Two to three hours lets you see the modern basilica and the tilma, the tilting Old Basilica, the climb up Tepeyac hill to the Capilla del Cerrito, and the tiled Capilla del Pocito."
-  - q: "How do I see the image of the Virgin up close?"
-    a: "The tilma hangs behind the altar of the modern basilica. You view it from moving walkways set into the floor below the altar. Flash photography isn't allowed."
-  - q: "Should I visit on 12 December?"
-    a: "Only if you want to see the huge feast-day pilgrimage. Millions arrive around 11 and 12 December and the area is extremely crowded. Any other time of year is much easier for sightseeing."
-  - q: "Is there a dress code?"
-    a: "It's a working church, so wear clothes that cover your shoulders, take your hat off inside, and keep quiet during Mass, which runs throughout the day."
+  - q: How do I get to the Basilica of Our Lady of Guadalupe by Metro?
+    a: >-
+      Take Metro Line 6 to La Villa-Basílica station, then walk a short way to
+      the plaza. From the historic centre, take Line 3 north and change to Line
+      6 at Deportivo 18 de Marzo.
+  - q: How long should I spend at the basilica?
+    a: >-
+      Two to three hours lets you see the modern basilica and the tilma, the
+      tilting Old Basilica, the climb up Tepeyac hill to the Capilla del
+      Cerrito, and the tiled Capilla del Pocito.
+  - q: How do I see the image of the Virgin up close?
+    a: >-
+      The tilma hangs behind the altar of the modern basilica. You view it from
+      moving walkways set into the floor below the altar. Flash photography
+      isn't allowed.
+  - q: Should I visit on 12 December?
+    a: >-
+      Only if you want to see the huge feast-day pilgrimage. Millions arrive
+      around 11 and 12 December and the area is extremely crowded. Any other
+      time of year is much easier for sightseeing.
+  - q: Is there a dress code?
+    a: >-
+      It's a working church, so wear clothes that cover your shoulders, take
+      your hat off inside, and keep quiet during Mass, which runs throughout the
+      day.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-10'
 ---
 
 ## A plaza built for millions

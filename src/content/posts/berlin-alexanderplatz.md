@@ -1,51 +1,85 @@
 ---
-title: "Alexanderplatz: Berlin Travel Guide (4.3★)"
-description: "Alexanderplatz is the big open square in Berlin's Mitte district, next to the Alexanderplatz S-Bahn and U-Bahn station (U2, U5, U8 and several S-Bahn lines). 4.3★ (246,461 reviews) — what visitors say, hours, and tips."
-country: "Germany"
-region: "Berlin"
-category: "hidden-gem"
-pubDate: "2026-10-10T07:42:44.378Z"
+title: 'Alexanderplatz: Berlin Travel Guide (4.3★)'
+description: >-
+  Alexanderplatz is the big open square in Berlin's Mitte district, next to the
+  Alexanderplatz S-Bahn and U-Bahn station (U2, U5, U8 and several S-Bahn
+  lines). 4.3★ (246,456 reviews) — what visitors say, hours, and tips.
+country: Germany
+region: Berlin
+category: hidden-gem
+pubDate: '2026-10-10T07:42:44.378Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Alexanderplatz_in_Berlin_-_Panorama.jpg/3840px-Alexanderplatz_in_Berlin_-_Panorama.jpg"
-  credit: "Photo: Christian Wolf (www.c-w-design.de) / Wikimedia Commons (CC BY-SA 3.0 de)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Alexanderplatz_in_Berlin_-_Panorama.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Alexanderplatz_in_Berlin_-_Panorama.jpg/3840px-Alexanderplatz_in_Berlin_-_Panorama.jpg
+  credit: >-
+    Photo: Christian Wolf (www.c-w-design.de) / Wikimedia Commons (CC BY-SA 3.0
+    de)
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Alexanderplatz_in_Berlin_-_Panorama.jpg
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Bahnhof_Berlin_Alexanderplatz_November_2013.jpg/3840px-Bahnhof_Berlin_Alexanderplatz_November_2013.jpg"
-    credit: "Photo: Arild Vågen / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Bahnhof_Berlin_Alexanderplatz_November_2013.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Bahnhof_Berlin_Alexanderplatz_November_2013.jpg/3840px-Bahnhof_Berlin_Alexanderplatz_November_2013.jpg
+    credit: 'Photo: Arild Vågen / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Bahnhof_Berlin_Alexanderplatz_November_2013.jpg
 place:
-  id: "ChIJbygR2x5OqEcRbhbkZsMB_DA"
-  name: "Alexanderplatz"
-  address: "Mitte, 10178 Berlin, Germany"
+  id: ChIJbygR2x5OqEcRbhbkZsMB_DA
+  name: Alexanderplatz
+  address: 'Mitte, 10178 Berlin, Germany'
   rating: 4.3
-  userRatingsTotal: 246461
-  googleMapsUrl: "https://maps.google.com/?cid=3529698146708100718&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 246456
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3529698146708100718&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 52.521981399999994
   lng: 13.413305999999999
 tags:
-  - "berlin"
-  - "old quarter"
-quickAnswer: "Alexanderplatz is the big open square in Berlin's Mitte district, next to the Alexanderplatz S-Bahn and U-Bahn station (U2, U5, U8 and several S-Bahn lines). Give it 30–60 minutes for the World Clock, the Fountain of Friendship between Peoples and the GDR facades, and longer if you book a timed slot up the TV tower. From there it's a short walk west to St. Mary's Church, the Red Town Hall and Museum Island."
+  - berlin
+  - old quarter
+quickAnswer: >-
+  Alexanderplatz is the big open square in Berlin's Mitte district, next to the
+  Alexanderplatz S-Bahn and U-Bahn station (U2, U5, U8 and several S-Bahn
+  lines). Give it 30–60 minutes for the World Clock, the Fountain of Friendship
+  between Peoples and the GDR facades, and longer if you book a timed slot up
+  the TV tower. From there it's a short walk west to St. Mary's Church, the Red
+  Town Hall and Museum Island.
 faq:
-  - q: "How do I get to Alexanderplatz?"
-    a: "Take the U2, U5 or U8 U-Bahn, or the S3, S5, S7 or S9 S-Bahn, to Alexanderplatz station. Regional trains and several tram lines also stop there, and you come out directly onto the square."
-  - q: "How long should I spend at Alexanderplatz?"
-    a: "30–60 minutes covers the World Clock, the Fountain of Friendship between Peoples and the GDR-era buildings. Add a timed TV tower visit, or the walk west to Marienkirche, the Rotes Rathaus and Museum Island, and it easily fills half a day."
-  - q: "Do I need to book the TV tower in advance?"
-    a: "Booking a timed ticket on the official Fernsehturm website is the reliable option, especially on clear days and weekends. Current prices and opening times are posted there."
-  - q: "Is there a Christmas market at Alexanderplatz?"
-    a: "Yes. In December the square hosts a Christmas market with wooden stalls, mulled wine and rides. It's one of the most central in Berlin and gets very busy in the evenings."
-  - q: "What is nearby?"
-    a: "St. Mary's Church, the Neptune Fountain and the Rotes Rathaus are just west of the TV tower. Beyond them are the Nikolaiviertel and Museum Island, about 10–15 minutes on foot, and Hackescher Markt is a similar walk northwest."
+  - q: How do I get to Alexanderplatz?
+    a: >-
+      Take the U2, U5 or U8 U-Bahn, or the S3, S5, S7 or S9 S-Bahn, to
+      Alexanderplatz station. Regional trains and several tram lines also stop
+      there, and you come out directly onto the square.
+  - q: How long should I spend at Alexanderplatz?
+    a: >-
+      30–60 minutes covers the World Clock, the Fountain of Friendship between
+      Peoples and the GDR-era buildings. Add a timed TV tower visit, or the walk
+      west to Marienkirche, the Rotes Rathaus and Museum Island, and it easily
+      fills half a day.
+  - q: Do I need to book the TV tower in advance?
+    a: >-
+      Booking a timed ticket on the official Fernsehturm website is the reliable
+      option, especially on clear days and weekends. Current prices and opening
+      times are posted there.
+  - q: Is there a Christmas market at Alexanderplatz?
+    a: >-
+      Yes. In December the square hosts a Christmas market with wooden stalls,
+      mulled wine and rides. It's one of the most central in Berlin and gets
+      very busy in the evenings.
+  - q: What is nearby?
+    a: >-
+      St. Mary's Church, the Neptune Fountain and the Rotes Rathaus are just
+      west of the TV tower. Beyond them are the Nikolaiviertel and Museum
+      Island, about 10–15 minutes on foot, and Hackescher Markt is a similar
+      walk northwest.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-10'
 ---
 
 Come up the steps from the station and the square opens out flat and grey, paved edge to edge, with the TV tower's concrete shaft standing just west of it. Trams cut across the paving with a warning bell. Berliners call the place "Alex", and most of them are only crossing it on the way somewhere else.

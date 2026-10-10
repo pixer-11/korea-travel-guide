@@ -1,40 +1,46 @@
 ---
-title: "Bosque de Chapultepec: Mexico City Travel Guide (4.7★)"
-description: "Bosque de Chapultepec is a 686-hectare forest park in Mexico City's Miguel Hidalgo borough, open Tuesday to Sunday from 5am to 6pm and closed on Mondays. 4.7★ (268,242 reviews) — what visitors say, hours, and tips."
-country: "Mexico"
-region: "Mexico City"
-category: "attraction"
-pubDate: "2026-10-06T07:38:31.196Z"
+title: 'Bosque de Chapultepec: Mexico City Travel Guide (4.7★)'
+description: >-
+  Bosque de Chapultepec is a 686-hectare forest park in Mexico City's Miguel
+  Hidalgo borough, open Tuesday to Sunday from 5am to 6pm and closed on Mondays.
+  4.7★ (268,313 reviews) — what visitors say, hours, and tips.
+country: Mexico
+region: Mexico City
+category: attraction
+pubDate: '2026-10-06T07:38:31.196Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Puerta_de_los_leones_en_Chapultepec_2.jpg/1920px-Puerta_de_los_leones_en_Chapultepec_2.jpg"
-  credit: "Photo: EneasMx / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Puerta_de_los_leones_en_Chapultepec_2.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Puerta_de_los_leones_en_Chapultepec_2.jpg/1920px-Puerta_de_los_leones_en_Chapultepec_2.jpg
+  credit: 'Photo: EneasMx / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Puerta_de_los_leones_en_Chapultepec_2.jpg
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery: []
 place:
-  id: "ChIJP1dJRVf_0YURr8MZosHl4kI"
-  name: "Bosque de Chapultepec"
-  address: "Miguel Hidalgo, Mexico City, CDMX, Mexico"
+  id: ChIJP1dJRVf_0YURr8MZosHl4kI
+  name: Bosque de Chapultepec
+  address: 'Miguel Hidalgo, Mexico City, CDMX, Mexico'
   rating: 4.7
-  userRatingsTotal: 268242
-  googleMapsUrl: "https://maps.google.com/?cid=4819667171050898351&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 268313
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4819667171050898351&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 19.4194815
   lng: -99.18945579999999
-  phone: "+52 55 5212 2171"
+  phone: +52 55 5212 2171
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 5:00 AM – 6:00 PM"
-    - "Wednesday: 5:00 AM – 6:00 PM"
-    - "Thursday: 5:00 AM – 6:00 PM"
-    - "Friday: 5:00 AM – 6:00 PM"
-    - "Saturday: 5:00 AM – 6:00 PM"
-    - "Sunday: 5:00 AM – 6:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 5:00 AM – 6:00 PM'
+    - 'Wednesday: 5:00 AM – 6:00 PM'
+    - 'Thursday: 5:00 AM – 6:00 PM'
+    - 'Friday: 5:00 AM – 6:00 PM'
+    - 'Saturday: 5:00 AM – 6:00 PM'
+    - 'Sunday: 5:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-10-06
+    updated: 2026-10-06T00:00:00.000Z
     weekdayQuiet:
       - 7
     weekendQuiet:
@@ -48,24 +54,42 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_496b346c48736f5a4d3872525559305f6656524a6431504a496843"
+    venueId: ven_496b346c48736f5a4d3872525559305f6656524a6431504a496843
 tags:
-  - "mexico city"
-  - "park"
-quickAnswer: "Bosque de Chapultepec is a 686-hectare forest park in Mexico City's Miguel Hidalgo borough, open Tuesday to Sunday from 5am to 6pm and closed on Mondays. It's quietest between 7am and 8am every day. On weekends, crowds stay heavy from 10am to 6pm, so get there early and do the castle or the Museo Nacional de Antropología first."
+  - mexico city
+  - park
+quickAnswer: >-
+  Bosque de Chapultepec is a 686-hectare forest park in Mexico City's Miguel
+  Hidalgo borough, open Tuesday to Sunday from 5am to 6pm and closed on Mondays.
+  It's quietest between 7am and 8am every day. On weekends, crowds stay heavy
+  from 10am to 6pm, so get there early and do the castle or the Museo Nacional
+  de Antropología first.
 faq:
-  - q: "When is the quietest time to visit Bosque de Chapultepec?"
-    a: "Between 7am and 8am, on weekdays and weekends. On weekends it stays busy from 10am to 6pm, so arriving early makes a big difference."
-  - q: "Is Bosque de Chapultepec open on Mondays?"
-    a: "No. The park is closed on Mondays. It opens Tuesday to Sunday from 5am to 6pm, and the castle and most museums inside are also closed on Mondays."
-  - q: "Which Metro station is closest?"
-    a: "Chapultepec station on Line 1 lets you out at the foot of the castle hill. For the Museo Nacional de Antropología, take Line 7 to Auditorio."
-  - q: "How much time do I need?"
-    a: "Plan a full day if you want to see Castillo de Chapultepec and the Anthropology museum. A morning is enough for a walk, the lake and the Niños Héroes monument."
-  - q: "What's near the park?"
-    a: "Polanco is just to the north, and Roma and Condesa are a short walk southeast. Paseo de la Reforma runs along the northern edge toward the city centre."
+  - q: When is the quietest time to visit Bosque de Chapultepec?
+    a: >-
+      Between 7am and 8am, on weekdays and weekends. On weekends it stays busy
+      from 10am to 6pm, so arriving early makes a big difference.
+  - q: Is Bosque de Chapultepec open on Mondays?
+    a: >-
+      No. The park is closed on Mondays. It opens Tuesday to Sunday from 5am to
+      6pm, and the castle and most museums inside are also closed on Mondays.
+  - q: Which Metro station is closest?
+    a: >-
+      Chapultepec station on Line 1 lets you out at the foot of the castle hill.
+      For the Museo Nacional de Antropología, take Line 7 to Auditorio.
+  - q: How much time do I need?
+    a: >-
+      Plan a full day if you want to see Castillo de Chapultepec and the
+      Anthropology museum. A morning is enough for a walk, the lake and the
+      Niños Héroes monument.
+  - q: What's near the park?
+    a: >-
+      Polanco is just to the north, and Roma and Condesa are a short walk
+      southeast. Paseo de la Reforma runs along the northern edge toward the
+      city centre.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-10'
 ---
 
 ## A forest with a castle on top

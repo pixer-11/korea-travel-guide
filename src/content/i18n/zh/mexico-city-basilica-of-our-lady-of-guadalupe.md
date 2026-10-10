@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: mexico-city-basilica-of-our-lady-of-guadalupe
-srcHash: '9fbb5ca25e54'
+srcHash: 'a67dd82ce3f3'
 title: 瓜达卢佩圣母大教堂：墨西哥城旅行指南
-description: 瓜达卢佩圣母大教堂坐落在墨西哥城古斯塔沃·A·马德罗区（Gustavo A. Madero）的瓜达卢佩镇（Villa de Guadalupe），距宪法广场（Zócalo）以北约6 km。评分4.8★（188,022条评价），本文汇总游客评价、开放时间和参观建议。
+description: 瓜达卢佩圣母大教堂坐落在墨西哥城古斯塔沃·A·马德罗区（Gustavo A. Madero）的瓜达卢佩镇（Villa de Guadalupe），距宪法广场（Zócalo）以北约6 km。评分4.8★（188,181条评价），本文汇总游客评价、开放时间和参观建议。
 quickAnswer: 瓜达卢佩圣母大教堂坐落在墨西哥城古斯塔沃·A·马德罗区的瓜达卢佩镇，距宪法广场以北约6 km。最方便的去法是乘地铁6号线到La Villa-Basílica站，下车步行片刻即到。新大教堂、地基倾斜的旧教堂和特佩亚克山上的几座礼拜堂都值得一看，建议预留两到三小时。想避开最拥挤的人潮，最好挑工作日早点去。另外别忘了，每年12月12日是规模最大的朝圣日。
 faq:
   - q: 怎样乘地铁前往瓜达卢佩圣母大教堂？

@@ -1,45 +1,53 @@
 ---
-title: "Shri Venkateswara (Balaji) Temple, Tividale: Birmingham Travel Guide"
-description: "Shri Venkateswara (Balaji) Temple, Tividale stands at 101 Dudley Road East in Tividale, Oldbury, about 8 miles west of Birmingham city centre. 4.9★ (10,609 reviews) — what visitors say, hours, and tips."
-country: "United Kingdom"
-region: "Birmingham"
-category: "attraction"
-pubDate: "2026-10-10T07:42:46.438Z"
+title: 'Shri Venkateswara (Balaji) Temple, Tividale: Birmingham Travel Guide'
+description: >-
+  Shri Venkateswara (Balaji) Temple, Tividale stands at 101 Dudley Road East in
+  Tividale, Oldbury, about 8 miles west of Birmingham city centre. 4.9★ (10,613
+  reviews) — what visitors say, hours, and tips.
+country: United Kingdom
+region: Birmingham
+category: attraction
+pubDate: '2026-10-10T07:42:46.438Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Gopuram_and_vimana_at_Shri_Venkateswara_%28Balaji%29_Temple_United_Kingdom.jpg/3840px-Gopuram_and_vimana_at_Shri_Venkateswara_%28Balaji%29_Temple_United_Kingdom.jpg"
-  credit: "Photo: David Davies from Birmingham, UK / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Gopuram_and_vimana_at_Shri_Venkateswara_(Balaji)_Temple_United_Kingdom.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Gopuram_and_vimana_at_Shri_Venkateswara_%28Balaji%29_Temple_United_Kingdom.jpg/3840px-Gopuram_and_vimana_at_Shri_Venkateswara_%28Balaji%29_Temple_United_Kingdom.jpg
+  credit: 'Photo: David Davies from Birmingham, UK / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Gopuram_and_vimana_at_Shri_Venkateswara_(Balaji)_Temple_United_Kingdom.jpg
+  via: act
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Vimanam_on_Lord_Murugan%27s_shrine_at_Shri_Venkateswara_%28Balaji%29_Temple_United_Kingdom.jpg/3840px-Vimanam_on_Lord_Murugan%27s_shrine_at_Shri_Venkateswara_%28Balaji%29_Temple_United_Kingdom.jpg"
-    credit: "Photo: David Davies from Birmingham, UK / Wikimedia Commons (CC BY-SA 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Vimanam_on_Lord_Murugan%27s_shrine_at_Shri_Venkateswara_(Balaji)_Temple_United_Kingdom.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Vimanam_on_Lord_Murugan%27s_shrine_at_Shri_Venkateswara_%28Balaji%29_Temple_United_Kingdom.jpg/3840px-Vimanam_on_Lord_Murugan%27s_shrine_at_Shri_Venkateswara_%28Balaji%29_Temple_United_Kingdom.jpg
+    credit: 'Photo: David Davies from Birmingham, UK / Wikimedia Commons (CC BY-SA 2.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Vimanam_on_Lord_Murugan%27s_shrine_at_Shri_Venkateswara_(Balaji)_Temple_United_Kingdom.jpg
 place:
-  id: "ChIJ7xBFuX-XcEgRoImlH5YoPOA"
-  name: "Shri Venkateswara (Balaji) Temple, Tividale"
-  address: "101 Dudley Rd E, Tividale, Oldbury B69 3DU, UK"
+  id: ChIJ7xBFuX-XcEgRoImlH5YoPOA
+  name: 'Shri Venkateswara (Balaji) Temple, Tividale'
+  address: '101 Dudley Rd E, Tividale, Oldbury B69 3DU, UK'
   rating: 4.9
-  userRatingsTotal: 10609
-  googleMapsUrl: "https://maps.google.com/?cid=16157834188339644832&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 10613
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16157834188339644832&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 52.5133313
   lng: -2.0300477
-  phone: "+44 121 544 2256"
+  phone: +44 121 544 2256
   openingHours:
-    - "Monday: 9:00 AM – 1:00 PM, 5:00 – 9:00 PM"
-    - "Tuesday: 9:00 AM – 1:00 PM, 5:00 – 9:00 PM"
-    - "Wednesday: 9:00 AM – 1:00 PM, 5:00 – 9:00 PM"
-    - "Thursday: 9:00 AM – 1:00 PM, 5:00 – 9:00 PM"
-    - "Friday: 9:00 AM – 1:00 PM, 5:00 – 9:00 PM"
-    - "Saturday: 9:00 AM – 2:30 PM, 4:00 – 9:00 PM"
-    - "Sunday: 9:00 AM – 2:30 PM, 4:00 – 9:00 PM"
+    - 'Monday: 9:00 AM – 1:00 PM, 5:00 – 9:00 PM'
+    - 'Tuesday: 9:00 AM – 1:00 PM, 5:00 – 9:00 PM'
+    - 'Wednesday: 9:00 AM – 1:00 PM, 5:00 – 9:00 PM'
+    - 'Thursday: 9:00 AM – 1:00 PM, 5:00 – 9:00 PM'
+    - 'Friday: 9:00 AM – 1:00 PM, 5:00 – 9:00 PM'
+    - 'Saturday: 9:00 AM – 2:30 PM, 4:00 – 9:00 PM'
+    - 'Sunday: 9:00 AM – 2:30 PM, 4:00 – 9:00 PM'
   busyness:
-    updated: 2026-10-10
+    updated: 2026-10-10T00:00:00.000Z
     weekendBusy:
       - 10
       - 11
@@ -50,24 +58,41 @@ place:
       - 18
       - 19
       - 20
-    venueId: "ven_414f506f5935486c6d496f52674563582d5875464278374a496843"
+    venueId: ven_414f506f5935486c6d496f52674563582d5875464278374a496843
 tags:
-  - "birmingham"
-  - "historic site"
-quickAnswer: "Shri Venkateswara (Balaji) Temple, Tividale stands at 101 Dudley Road East in Tividale, Oldbury, about 8 miles west of Birmingham city centre. Go on a weekday morning (9am–1pm) or evening (5pm–9pm), because weekends stay busy from 10am to 9pm. Weekdays it closes 1pm–5pm, and weekends 2:30pm–4pm, so plan around that gap."
+  - birmingham
+  - historic site
+quickAnswer: >-
+  Shri Venkateswara (Balaji) Temple, Tividale stands at 101 Dudley Road East in
+  Tividale, Oldbury, about 8 miles west of Birmingham city centre. Go on a
+  weekday morning (9am–1pm) or evening (5pm–9pm), because weekends stay busy
+  from 10am to 9pm. Weekdays it closes 1pm–5pm, and weekends 2:30pm–4pm, so plan
+  around that gap.
 faq:
-  - q: "When is the quietest time to visit Balaji Temple Tividale?"
-    a: "Weekends are busy from 10am to 9pm, so choose a weekday. Weekday sessions run 9am–1pm and 5pm–9pm."
-  - q: "Is the temple open all day?"
-    a: "No. It closes 1pm–5pm on weekdays and 2:30pm–4pm on Saturdays and Sundays. Arrive within one of the two sessions."
-  - q: "Can non-Hindus visit, and are tours available?"
-    a: "Yes. Visitors are welcome if they dress modestly and remove their shoes. Guided tours must be booked in advance with the temple."
-  - q: "How do I get there from Birmingham?"
-    a: "Drive via the M5 (junction 2, Oldbury) to 101 Dudley Rd E, B69 3DU. Alternatively, take a train from New Street to Sandwell & Dudley or Dudley Port, then a taxi or local bus for the last stretch."
-  - q: "What else is nearby?"
-    a: "The Black Country Living Museum and Dudley Castle and Zoo are a few miles west in Dudley. Both are good for the hours when the temple is closed."
+  - q: When is the quietest time to visit Balaji Temple Tividale?
+    a: >-
+      Weekends are busy from 10am to 9pm, so choose a weekday. Weekday sessions
+      run 9am–1pm and 5pm–9pm.
+  - q: Is the temple open all day?
+    a: >-
+      No. It closes 1pm–5pm on weekdays and 2:30pm–4pm on Saturdays and Sundays.
+      Arrive within one of the two sessions.
+  - q: 'Can non-Hindus visit, and are tours available?'
+    a: >-
+      Yes. Visitors are welcome if they dress modestly and remove their shoes.
+      Guided tours must be booked in advance with the temple.
+  - q: How do I get there from Birmingham?
+    a: >-
+      Drive via the M5 (junction 2, Oldbury) to 101 Dudley Rd E, B69 3DU.
+      Alternatively, take a train from New Street to Sandwell & Dudley or Dudley
+      Port, then a taxi or local bus for the last stretch.
+  - q: What else is nearby?
+    a: >-
+      The Black Country Living Museum and Dudley Castle and Zoo are a few miles
+      west in Dudley. Both are good for the hours when the temple is closed.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-10'
 ---
 
 ## A Tirupati temple in the Black Country

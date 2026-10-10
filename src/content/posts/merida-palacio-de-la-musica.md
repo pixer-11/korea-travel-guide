@@ -1,56 +1,78 @@
 ---
-title: "Palacio de la Música: Merida Travel Guide (4.8★)"
-description: "Palacio de la Música is a museum of Mexican music on Calle 58 in Mérida's Centro, a short walk from Plaza Grande and Parque Santa Lucía. 4.8★ (3,756 reviews) — what visitors say, hours, and tips."
-country: "Mexico"
-region: "Merida"
-category: "attraction"
-pubDate: "2026-10-05T16:17:33.809Z"
+title: 'Palacio de la Música: Merida Travel Guide (4.8★)'
+description: >-
+  Palacio de la Música is a museum of Mexican music on Calle 58 in Mérida's
+  Centro, a short walk from Plaza Grande and Parque Santa Lucía. 4.8★ (3,771
+  reviews) — what visitors say, hours, and tips.
+country: Mexico
+region: Merida
+category: attraction
+pubDate: '2026-10-05T16:17:33.809Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Vista_del_Palacio_de_la_M%C3%BAsica%2C_M%C3%A9rida%2C_Yucat%C3%A1n_12.jpg/3840px-Vista_del_Palacio_de_la_M%C3%BAsica%2C_M%C3%A9rida%2C_Yucat%C3%A1n_12.jpg"
-  credit: "Photo: Luis Alvaz / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Vista_del_Palacio_de_la_M%C3%BAsica,_M%C3%A9rida,_Yucat%C3%A1n_12.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Vista_del_Palacio_de_la_M%C3%BAsica%2C_M%C3%A9rida%2C_Yucat%C3%A1n_12.jpg/3840px-Vista_del_Palacio_de_la_M%C3%BAsica%2C_M%C3%A9rida%2C_Yucat%C3%A1n_12.jpg
+  credit: 'Photo: Luis Alvaz / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Vista_del_Palacio_de_la_M%C3%BAsica,_M%C3%A9rida,_Yucat%C3%A1n_12.jpg
+  via: act
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery: []
 place:
-  id: "ChIJdfpoaGFxVo8RFMNFg45baP4"
-  name: "Palacio de la Música"
-  address: "C. 58, Parque Santa Lucia, Centro, 97000 Mérida, Yuc., Mexico"
+  id: ChIJdfpoaGFxVo8RFMNFg45baP4
+  name: Palacio de la Música
+  address: 'C. 58, Parque Santa Lucia, Centro, 97000 Mérida, Yuc., Mexico'
   rating: 4.8
-  userRatingsTotal: 3756
-  googleMapsUrl: "https://maps.google.com/?cid=18332002950857474836&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 3771
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=18332002950857474836&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 20.968626600000004
   lng: -89.6217277
-  phone: "+52 999 923 0641"
+  phone: +52 999 923 0641
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: Closed"
-    - "Wednesday: 10:00 AM – 4:00 PM"
-    - "Thursday: 10:00 AM – 4:00 PM"
-    - "Friday: 10:00 AM – 4:00 PM"
-    - "Saturday: 10:00 AM – 4:00 PM"
-    - "Sunday: 10:00 AM – 4:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 10:00 AM – 4:00 PM'
+    - 'Thursday: 10:00 AM – 4:00 PM'
+    - 'Friday: 10:00 AM – 4:00 PM'
+    - 'Saturday: 10:00 AM – 4:00 PM'
+    - 'Sunday: 10:00 AM – 4:00 PM'
 tags:
-  - "merida"
-  - "museum"
-quickAnswer: "Palacio de la Música is a museum of Mexican music on Calle 58 in Mérida's Centro, a short walk from Plaza Grande and Parque Santa Lucía. It opens Wednesday to Sunday, 10am to 4pm, and is closed Monday and Tuesday. Plan on one and a half to two hours, and arrive near 10am if you want to beat the midday heat and the later groups."
+  - merida
+  - museum
+quickAnswer: >-
+  Palacio de la Música is a museum of Mexican music on Calle 58 in Mérida's
+  Centro, a short walk from Plaza Grande and Parque Santa Lucía. It opens
+  Wednesday to Sunday, 10am to 4pm, and is closed Monday and Tuesday. Plan on
+  one and a half to two hours, and arrive near 10am if you want to beat the
+  midday heat and the later groups.
 faq:
-  - q: "What days is Palacio de la Música open?"
-    a: "Wednesday to Sunday, 10am to 4pm. It is closed on Monday and Tuesday."
-  - q: "How long should I spend there?"
-    a: "Allow one and a half to two hours to take in the galleries and the listening stations. Don't arrive after 3pm, because it closes at 4pm."
-  - q: "Where exactly is it and how do I get there?"
-    a: "It's on Calle 58 beside Parque Santa Lucía in Mérida's Centro. That's about a ten-minute walk north of Plaza Grande. From Paseo de Montejo, a short Uber or Didi ride is easiest."
-  - q: "Is the museum good for non-Spanish speakers?"
-    a: "Yes, because much of it is about listening to recordings. Expect a lot of the wall text in Spanish, though, so a camera-translation app helps."
-  - q: "What can I combine it with nearby?"
-    a: "Parque Santa Lucía is next door, and its Thursday-evening Serenata Yucateca brings trova to life. Teatro José Peón Contreras, Plaza Grande, the cathedral and Casa de Montejo are all within a few blocks."
+  - q: What days is Palacio de la Música open?
+    a: 'Wednesday to Sunday, 10am to 4pm. It is closed on Monday and Tuesday.'
+  - q: How long should I spend there?
+    a: >-
+      Allow one and a half to two hours to take in the galleries and the
+      listening stations. Don't arrive after 3pm, because it closes at 4pm.
+  - q: Where exactly is it and how do I get there?
+    a: >-
+      It's on Calle 58 beside Parque Santa Lucía in Mérida's Centro. That's
+      about a ten-minute walk north of Plaza Grande. From Paseo de Montejo, a
+      short Uber or Didi ride is easiest.
+  - q: Is the museum good for non-Spanish speakers?
+    a: >-
+      Yes, because much of it is about listening to recordings. Expect a lot of
+      the wall text in Spanish, though, so a camera-translation app helps.
+  - q: What can I combine it with nearby?
+    a: >-
+      Parque Santa Lucía is next door, and its Thursday-evening Serenata
+      Yucateca brings trova to life. Teatro José Peón Contreras, Plaza Grande,
+      the cathedral and Casa de Montejo are all within a few blocks.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-10'
 ---
 
 ## A city's soundtrack, under one roof

@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: merida-palacio-de-la-musica
-srcHash: '7d12045f517d'
+srcHash: '74fd9bd722ff'
 title: 梅里达音乐宫（Palacio de la Música）旅行指南（4.8★）
-description: 音乐宫（Palacio de la Música）是一座墨西哥音乐博物馆，位于梅里达老城区的58街（Calle 58），步行即可到达大广场和圣露西亚公园。评分4.8★（3,756条评价），这里汇总了游客评价、开放时间和参观建议。
+description: 音乐宫（Palacio de la Música）是一座墨西哥音乐博物馆，位于梅里达老城区的58街（Calle 58），步行即可到达大广场和圣露西亚公园。评分4.8★（3,771条评价），这里汇总了游客评价、开放时间和参观建议。
 quickAnswer: 音乐宫（Palacio de la Música）坐落在梅里达老城区（Centro）的58街（Calle 58），是一座以墨西哥音乐为主题的博物馆，离大广场（Plaza Grande）和圣露西亚公园（Parque Santa Lucía）都只有几步路。博物馆周三至周日上午10点至下午4点开放，周一、周二闭馆。参观大约需要一个半到两个小时。想避开正午的酷热和后来的旅行团，最好在上午10点左右到达。
 faq:
   - q: 音乐宫哪几天开放？

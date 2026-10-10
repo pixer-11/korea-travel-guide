@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: mexico-city-mexico-city-metropolitan-cathedral
-srcHash: '907a369b1cef'
+srcHash: '412c76814e3c'
 title: 墨西哥城大都会主教座堂旅行指南（4.7★）
-description: 墨西哥城大都会主教座堂坐落在历史中心区（Centro Histórico）宪法广场（Zócalo，Plaza de la Constitución）北侧，整面广场北边都是它。公布的开放时间为每天9am至5:30pm。评分4.7★（24,262条评价），本文汇总游客评价、开放时间和参观建议。
+description: 墨西哥城大都会主教座堂坐落在历史中心区（Centro Histórico）宪法广场（Zócalo，Plaza de la Constitución）北侧，整面广场北边都是它。公布的开放时间为每天9am至5:30pm。评分4.7★（24,288条评价），本文汇总游客评价、开放时间和参观建议。
 quickAnswer: 墨西哥城大都会主教座堂坐落在历史中心区（Centro Histórico）宪法广场（Zócalo，Plaza de la Constitución）北侧，整面广场北边都是它。公布的开放时间为每天9am至5:30pm。不论工作日还是周末，9am到11am都是人最少的时段，最适合前往；周末12pm到5pm游客最多，最好避开。在教堂里参观大约需要一小时，如果顺道去隔壁的大神庙（Templo Mayor），就要多留些时间。
 faq:
   - q: 墨西哥城大都会主教座堂什么时候人最少？

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: merida-monumento-a-la-patria
-srcHash: 'efc74d93e414'
+srcHash: '294576573fe2'
 title: 'Monumento a la Patria: guía de viaje de Mérida (4.8★)'
-description: 'En una glorieta del Paseo de Montejo, en el Centro de Mérida, se alza el Monumento a la Patria, homenaje en piedra tallada a la historia de México obra del escultor colombiano Rómulo Rozo. 4.8★ (12,987 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En una glorieta del Paseo de Montejo, en el Centro de Mérida, se alza el Monumento a la Patria, homenaje en piedra tallada a la historia de México obra del escultor colombiano Rómulo Rozo. 4.8★ (12,997 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En una glorieta del Paseo de Montejo, en el Centro de Mérida, se alza el Monumento a la Patria, un homenaje en piedra tallada a la historia de México que firmó el escultor colombiano Rómulo Rozo. No tiene reja y permanece abierto las 24 horas. Al anochecer se ilumina, así que conviene visitarlo por la tarde-noche o a primera hora de la mañana, cuando hace menos calor, y dedicarle entre 20 y 40 minutos.
 faq:
   - q: ¿Dónde se encuentra exactamente el Monumento a la Patria en Mérida?

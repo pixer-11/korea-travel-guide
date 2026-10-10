@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: mexico-city-coyoacan-market
-srcHash: '53d0aae94e19'
+srcHash: '2f69d0682d98'
 title: 'Mercado de Coyoacán: guía de viaje de Ciudad de México (4.5★)'
-description: 'El Mercado de Coyoacán es un mercado cubierto de dos plantas situado en la calle Ignacio Allende, en Coyoacán (Ciudad de México), a unas tres cuadras del Museo Frida Kahlo. 4.5★ (56,173 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'El Mercado de Coyoacán es un mercado cubierto de dos plantas situado en la calle Ignacio Allende, en Coyoacán (Ciudad de México), a unas tres cuadras del Museo Frida Kahlo. 4.5★ (56,210 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Mercado de Coyoacán es un mercado cubierto de dos plantas. Se encuentra en la calle Ignacio Allende, en Coyoacán (Ciudad de México), a unas tres cuadras del Museo Frida Kahlo. Abrió sus puertas en 1921. Su fama se debe sobre todo a los puestos de tostadas, rodeados de otros de frutas y verduras, artesanía y recuerdos. Abre a las 7am. Si quiere asegurarse un banco antes de que llegue la multitud del fin de semana, su mejor opción es ir una mañana entre semana.
 faq:
   - q: ¿Cómo se llega al Mercado de Coyoacán?

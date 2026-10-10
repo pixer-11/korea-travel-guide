@@ -1,9 +1,9 @@
 ---
 lang: ja
 slug: brighton-tofu-vegan-brighton
-srcHash: 'e7c6bc0d368e'
+srcHash: 'ed8500f0ecfa'
 title: トーフ・ヴィーガン・ブライトン：ブライトンで食事をするなら（5.0★）
-description: トーフ・ヴィーガン・ブライトン（Tofu Vegan Brighton）は、ブライトン中心部ザ・レーンズの細い路地にある完全ヴィーガンのレストランです。所在地は15 Meeting House Lane、評価は5.0★（937件）。訪れた人の声や営業時間、楽しみ方のコツをまとめました。
+description: トーフ・ヴィーガン・ブライトン（Tofu Vegan Brighton）は、ブライトン中心部ザ・レーンズの細い路地にある完全ヴィーガンのレストランです。所在地は15 Meeting House Lane、評価は5.0★（949件）。訪れた人の声や営業時間、楽しみ方のコツをまとめました。
 quickAnswer: トーフ・ヴィーガン・ブライトン（Tofu Vegan Brighton）は、ブライトン中心部にあるザ・レーンズ（The Lanes）の細い路地に店を構える、完全ヴィーガンのレストランです。所在地は15 Meeting House Laneです。価格帯は中程度です。火曜日以外は毎日正午に開店し、木曜日から土曜日は11pmまで営業しています。ロイヤル・パビリオンや海岸沿いまではどちらも歩いて数分なので、散策と組み合わせるのがおすすめです。
 faq:
   - q: トーフ・ヴィーガン・ブライトンの正確な場所はどこですか？

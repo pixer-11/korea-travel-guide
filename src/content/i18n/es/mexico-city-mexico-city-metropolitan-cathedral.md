@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: mexico-city-mexico-city-metropolitan-cathedral
-srcHash: '907a369b1cef'
+srcHash: '412c76814e3c'
 title: 'Catedral Metropolitana de la Ciudad de México: guía de viaje (4.7★)'
 description: En el Centro Histórico, todo el lado norte del Zócalo (Plaza de la Constitución) lo ocupa la Catedral Metropolitana de la Ciudad de México, que abre a diario de 9am a 5:30pm. Tiene 4.7★ con 24,262 reseñas. Aquí encontrará horarios, consejos y la opinión de quienes ya la han visitado.
 quickAnswer: En el Centro Histórico, todo el lado norte del Zócalo (Plaza de la Constitución) lo ocupa la Catedral Metropolitana de la Ciudad de México. Según el horario publicado, abre todos los días de 9am a 5:30pm. Entre semana y también los fines de semana, las horas más tranquilas van de 9am a 11am. Conviene evitar las tardes de sábado y domingo, de 12pm a 5pm, porque es cuando más gente hay. Para recorrer el interior basta con una hora, aunque necesitará más si suma el Templo Mayor, que está justo al lado.

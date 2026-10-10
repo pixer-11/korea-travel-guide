@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: berlin-alexanderplatz
-srcHash: '72b987c2ceae'
+srcHash: '9d009461c078'
 title: 'Alexanderplatz: guía de viaje de Berlín (4.3★)'
-description: Junto a la estación de S-Bahn y U-Bahn del mismo nombre (U2, U5, U8 y varias líneas de S-Bahn), Alexanderplatz es la gran plaza abierta del distrito berlinés de Mitte. Con 4.3★ (246,461 reseñas), aquí encontrará lo que opinan los visitantes, los horarios y consejos prácticos.
+description: Junto a la estación de S-Bahn y U-Bahn del mismo nombre (U2, U5, U8 y varias líneas de S-Bahn), Alexanderplatz es la gran plaza abierta del distrito berlinés de Mitte. Con 4.3★ (246,456 reseñas), aquí encontrará lo que opinan los visitantes, los horarios y consejos prácticos.
 quickAnswer: En pleno distrito de Mitte, junto a la estación de S-Bahn y U-Bahn que lleva su nombre (U2, U5, U8 y varias líneas de S-Bahn), se extiende Alexanderplatz, la gran plaza abierta de Berlín. Bastan entre 30 y 60 minutos para ver el Reloj Mundial, la Fuente de la Amistad entre los Pueblos y las fachadas de la época de la RDA. Si reserva una franja horaria para subir a la torre de televisión, necesitará más tiempo. Desde allí, un corto paseo hacia el oeste le lleva a la iglesia de Santa María, al Ayuntamiento Rojo y a la Isla de los Museos.
 faq:
   - q: ¿Cómo se llega a Alexanderplatz?

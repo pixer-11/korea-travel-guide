@@ -1,44 +1,53 @@
 ---
-title: "Parque de Santa Ana: Merida Travel Guide (4.6★)"
-description: "Parque de Santa Ana is a shaded square at Calle 60 and Calle 45 in Mérida's Centro, facing the 18th-century Iglesia de Santa Ana with the Santa Ana market food stalls beside it. 4.6★ (13,061 reviews) — what visitors say, hours, and tips."
-country: "Mexico"
-region: "Merida"
-category: "attraction"
-pubDate: "2026-10-06T08:00:57.426Z"
+title: 'Parque de Santa Ana: Merida Travel Guide (4.6★)'
+description: >-
+  Parque de Santa Ana is a shaded square at Calle 60 and Calle 45 in Mérida's
+  Centro, facing the 18th-century Iglesia de Santa Ana with the Santa Ana market
+  food stalls beside it. 4.6★ (13,068 reviews) — what visitors say, hours, and
+  tips.
+country: Mexico
+region: Merida
+category: attraction
+pubDate: '2026-10-06T08:00:57.426Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Parque_de_Santa_Ana_nocturno%2C_M%C3%A9rida%2C_Yucat%C3%A1n_06.jpg/3840px-Parque_de_Santa_Ana_nocturno%2C_M%C3%A9rida%2C_Yucat%C3%A1n_06.jpg"
-  credit: "Photo: Isaacvp / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Parque_de_Santa_Ana_nocturno,_M%C3%A9rida,_Yucat%C3%A1n_06.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Parque_de_Santa_Ana_nocturno%2C_M%C3%A9rida%2C_Yucat%C3%A1n_06.jpg/3840px-Parque_de_Santa_Ana_nocturno%2C_M%C3%A9rida%2C_Yucat%C3%A1n_06.jpg
+  credit: 'Photo: Isaacvp / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Parque_de_Santa_Ana_nocturno,_M%C3%A9rida,_Yucat%C3%A1n_06.jpg
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Parque_de_Santa_Ana_nocturno%2C_M%C3%A9rida%2C_Yucat%C3%A1n_11.jpg/3840px-Parque_de_Santa_Ana_nocturno%2C_M%C3%A9rida%2C_Yucat%C3%A1n_11.jpg"
-    credit: "Photo: Isaacvp / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Parque_de_Santa_Ana_nocturno,_M%C3%A9rida,_Yucat%C3%A1n_11.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Parque_de_Santa_Ana_nocturno%2C_M%C3%A9rida%2C_Yucat%C3%A1n_11.jpg/3840px-Parque_de_Santa_Ana_nocturno%2C_M%C3%A9rida%2C_Yucat%C3%A1n_11.jpg
+    credit: 'Photo: Isaacvp / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Parque_de_Santa_Ana_nocturno,_M%C3%A9rida,_Yucat%C3%A1n_11.jpg
 place:
-  id: "ChIJb0nabV5xVo8RWRDQlUNmCDM"
-  name: "Parque de Santa Ana"
-  address: "C. 60 y 45, Parque Santa Ana, Centro, 97000 Mérida, Yuc., Mexico"
+  id: ChIJb0nabV5xVo8RWRDQlUNmCDM
+  name: Parque de Santa Ana
+  address: 'C. 60 y 45, Parque Santa Ana, Centro, 97000 Mérida, Yuc., Mexico'
   rating: 4.6
-  userRatingsTotal: 13061
-  googleMapsUrl: "https://maps.google.com/?cid=3677301536210292825&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 13068
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3677301536210292825&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 20.975855199999998
   lng: -89.62116999999999
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-10-06
+    updated: 2026-10-06T00:00:00.000Z
     weekdayBusy:
       - 20
       - 21
@@ -51,24 +60,44 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_4d44436d4e556c5144525752386f5678355662616e30624a496843"
+    venueId: ven_4d44436d4e556c5144525752386f5678355662616e30624a496843
 tags:
-  - "merida"
-  - "park"
-quickAnswer: "Parque de Santa Ana is a shaded square at Calle 60 and Calle 45 in Mérida's Centro, facing the 18th-century Iglesia de Santa Ana with the Santa Ana market food stalls beside it. It's open 24 hours and free to walk into. Weekends are busy from 9am to 11pm, so come on a weekday if you want a bench without hunting for one."
+  - merida
+  - park
+quickAnswer: >-
+  Parque de Santa Ana is a shaded square at Calle 60 and Calle 45 in Mérida's
+  Centro, facing the 18th-century Iglesia de Santa Ana with the Santa Ana market
+  food stalls beside it. It's open 24 hours and free to walk into. Weekends are
+  busy from 9am to 11pm, so come on a weekday if you want a bench without
+  hunting for one.
 faq:
-  - q: "Where exactly is Parque de Santa Ana in Mérida?"
-    a: "It's at the corner of Calle 60 and Calle 45 in the Centro, about eight blocks north of the Plaza Grande on Calle 60 and two blocks west of where Paseo de Montejo begins at Calle 47."
-  - q: "When is the quietest time to visit?"
-    a: "Weekends are busiest, with crowds from 9am to 11pm on Saturdays and Sundays. Come on a weekday for more space, and avoid the midday heat by visiting in the early morning or the evening."
-  - q: "Is the park open at night?"
-    a: "Yes. The square is open 24 hours every day. Evenings are popular because the church is lit and the food stalls stay busy."
-  - q: "What should I eat at the Santa Ana stalls?"
-    a: "Try Yucatecan staples like cochinita pibil, panuchos, salbutes and sopa de lima, with horchata or agua de chaya on the side. Carry pesos in small notes, as many stalls take cash only."
-  - q: "How long should I spend here?"
-    a: "Allow 30 minutes to see the church and the square, or about an hour if you're eating. It fits easily into a walk along Calle 60 that also takes in Santa Lucía and the Plaza Grande."
+  - q: Where exactly is Parque de Santa Ana in Mérida?
+    a: >-
+      It's at the corner of Calle 60 and Calle 45 in the Centro, about eight
+      blocks north of the Plaza Grande on Calle 60 and two blocks west of where
+      Paseo de Montejo begins at Calle 47.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekends are busiest, with crowds from 9am to 11pm on Saturdays and
+      Sundays. Come on a weekday for more space, and avoid the midday heat by
+      visiting in the early morning or the evening.
+  - q: Is the park open at night?
+    a: >-
+      Yes. The square is open 24 hours every day. Evenings are popular because
+      the church is lit and the food stalls stay busy.
+  - q: What should I eat at the Santa Ana stalls?
+    a: >-
+      Try Yucatecan staples like cochinita pibil, panuchos, salbutes and sopa de
+      lima, with horchata or agua de chaya on the side. Carry pesos in small
+      notes, as many stalls take cash only.
+  - q: How long should I spend here?
+    a: >-
+      Allow 30 minutes to see the church and the square, or about an hour if
+      you're eating. It fits easily into a walk along Calle 60 that also takes
+      in Santa Lucía and the Plaza Grande.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-10'
 ---
 
 ## A plaza built around a church

@@ -1,44 +1,55 @@
 ---
-title: "Mexico City Metropolitan Cathedral: Travel Guide (4.7★)"
-description: "The Mexico City Metropolitan Cathedral fills the north side of the Zócalo (Plaza de la Constitución) in the Centro Histórico, and its listed hours are 9am to 5:30pm every day. 4.7★ (24,262 reviews) — what visitors say, hours, and tips."
-country: "Mexico"
-region: "Mexico City"
-category: "attraction"
-pubDate: "2026-10-04T07:39:53.621Z"
+title: 'Mexico City Metropolitan Cathedral: Travel Guide (4.7★)'
+description: >-
+  The Mexico City Metropolitan Cathedral fills the north side of the Zócalo
+  (Plaza de la Constitución) in the Centro Histórico, and its listed hours are
+  9am to 5:30pm every day. 4.7★ (24,288 reviews) — what visitors say, hours, and
+  tips.
+country: Mexico
+region: Mexico City
+category: attraction
+pubDate: '2026-10-04T07:39:53.621Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Catedral_y_Sagrario_Metropolitano_33.jpg/1920px-Catedral_y_Sagrario_Metropolitano_33.jpg"
-  credit: "Photo: Ulisesmorales / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Catedral_y_Sagrario_Metropolitano_33.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Catedral_y_Sagrario_Metropolitano_33.jpg/1920px-Catedral_y_Sagrario_Metropolitano_33.jpg
+  credit: 'Photo: Ulisesmorales / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Catedral_y_Sagrario_Metropolitano_33.jpg
   focus:
     x: 40
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Choir_-_Metropolitan_Cathedral_of_Mexico_City_-_Mexico_2024.jpg/3840px-Choir_-_Metropolitan_Cathedral_of_Mexico_City_-_Mexico_2024.jpg"
-    credit: "Photo: José Luiz / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Choir_-_Metropolitan_Cathedral_of_Mexico_City_-_Mexico_2024.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Choir_-_Metropolitan_Cathedral_of_Mexico_City_-_Mexico_2024.jpg/3840px-Choir_-_Metropolitan_Cathedral_of_Mexico_City_-_Mexico_2024.jpg
+    credit: 'Photo: José Luiz / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Choir_-_Metropolitan_Cathedral_of_Mexico_City_-_Mexico_2024.jpg
 place:
-  id: "ChIJ4a8nxjL50YURJ19RJ_A9T5E"
-  name: "Mexico City Metropolitan Cathedral"
-  address: "Pl. de la Constitución S/N, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX, Mexico"
+  id: ChIJ4a8nxjL50YURJ19RJ_A9T5E
+  name: Mexico City Metropolitan Cathedral
+  address: >-
+    Pl. de la Constitución S/N, Centro Histórico de la Cdad. de México, Centro,
+    Cuauhtémoc, 06000 Ciudad de México, CDMX, Mexico
   rating: 4.7
-  userRatingsTotal: 24262
-  googleMapsUrl: "https://maps.google.com/?cid=10470655760320782119&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 24288
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10470655760320782119&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 19.4343942
   lng: -99.13308239999999
-  phone: "+52 55 4165 4052"
+  phone: +52 55 4165 4052
   openingHours:
-    - "Monday: 9:00 AM – 5:30 PM"
-    - "Tuesday: 9:00 AM – 5:30 PM"
-    - "Wednesday: 9:00 AM – 5:30 PM"
-    - "Thursday: 9:00 AM – 5:30 PM"
-    - "Friday: 9:00 AM – 5:30 PM"
-    - "Saturday: 9:00 AM – 5:30 PM"
-    - "Sunday: 9:00 AM – 5:30 PM"
+    - 'Monday: 9:00 AM – 5:30 PM'
+    - 'Tuesday: 9:00 AM – 5:30 PM'
+    - 'Wednesday: 9:00 AM – 5:30 PM'
+    - 'Thursday: 9:00 AM – 5:30 PM'
+    - 'Friday: 9:00 AM – 5:30 PM'
+    - 'Saturday: 9:00 AM – 5:30 PM'
+    - 'Sunday: 9:00 AM – 5:30 PM'
   busyness:
-    updated: 2026-10-04
+    updated: 2026-10-04T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 10
@@ -51,24 +62,45 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_45355439415f4a5239314a52555930354c6a786e3861344a496843"
+    venueId: ven_45355439415f4a5239314a52555930354c6a786e3861344a496843
 tags:
-  - "mexico city"
-  - "top attraction"
-quickAnswer: "The Mexico City Metropolitan Cathedral fills the north side of the Zócalo (Plaza de la Constitución) in the Centro Histórico, and its listed hours are 9am to 5:30pm every day. Go between 9am and 11am, which is the quietest window on both weekdays and weekends. Avoid weekend afternoons from 12pm to 5pm, when it is at its busiest. Allow about an hour inside, longer if you add the Templo Mayor next door."
+  - mexico city
+  - top attraction
+quickAnswer: >-
+  The Mexico City Metropolitan Cathedral fills the north side of the Zócalo
+  (Plaza de la Constitución) in the Centro Histórico, and its listed hours are
+  9am to 5:30pm every day. Go between 9am and 11am, which is the quietest window
+  on both weekdays and weekends. Avoid weekend afternoons from 12pm to 5pm, when
+  it is at its busiest. Allow about an hour inside, longer if you add the Templo
+  Mayor next door.
 faq:
-  - q: "When is the quietest time to visit the Mexico City Metropolitan Cathedral?"
-    a: "Between 9am and 11am, on both weekdays and weekends. Avoid weekends from 12pm to 5pm, which is the busiest stretch."
-  - q: "How do I get to the cathedral by Metro?"
-    a: "Take Line 2 to Zócalo/Tenochtitlan station, which opens onto the Plaza de la Constitución. The cathedral fills the north side of the square."
-  - q: "How long should I spend there?"
-    a: "About an hour covers the nave, the side chapels and the Altar of the Kings. Allow half a day if you add the Templo Mayor and the Palacio Nacional, both on the same square."
-  - q: "Can I visit during Mass?"
-    a: "Yes, but stay in the side aisles, keep quiet and don't cross the front of the nave. Wear clothing that covers your shoulders and knees, and remove your hat once inside."
-  - q: "What else is nearby?"
-    a: "The Templo Mayor ruins are a two-minute walk to the northeast. The Palacio Nacional with its Diego Rivera murals is on the east side of the Zócalo. The Gran Hotel Ciudad de México is on the southwest corner, and Madero street leads west to the Palacio de Bellas Artes."
+  - q: When is the quietest time to visit the Mexico City Metropolitan Cathedral?
+    a: >-
+      Between 9am and 11am, on both weekdays and weekends. Avoid weekends from
+      12pm to 5pm, which is the busiest stretch.
+  - q: How do I get to the cathedral by Metro?
+    a: >-
+      Take Line 2 to Zócalo/Tenochtitlan station, which opens onto the Plaza de
+      la Constitución. The cathedral fills the north side of the square.
+  - q: How long should I spend there?
+    a: >-
+      About an hour covers the nave, the side chapels and the Altar of the
+      Kings. Allow half a day if you add the Templo Mayor and the Palacio
+      Nacional, both on the same square.
+  - q: Can I visit during Mass?
+    a: >-
+      Yes, but stay in the side aisles, keep quiet and don't cross the front of
+      the nave. Wear clothing that covers your shoulders and knees, and remove
+      your hat once inside.
+  - q: What else is nearby?
+    a: >-
+      The Templo Mayor ruins are a two-minute walk to the northeast. The Palacio
+      Nacional with its Diego Rivera murals is on the east side of the Zócalo.
+      The Gran Hotel Ciudad de México is on the southwest corner, and Madero
+      street leads west to the Palacio de Bellas Artes.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-10'
 ---
 
 ## A facade that took centuries

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: belfast-peace-wall-belfast
-srcHash: 'be9ff7ec530c'
+srcHash: '42f86e6baaa6'
 title: 'Muro de la Paz: guía de viaje de Belfast (4.5★)'
-description: 'El Muro de la Paz de Belfast recorre Cupar Way, en el oeste de la ciudad, entre Shankill Road y Falls Road, y su horario indicado es de 7am a 7pm todos los días. 4.5★ (4,006 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'El Muro de la Paz de Belfast recorre Cupar Way, en el oeste de la ciudad, entre Shankill Road y Falls Road, y su horario indicado es de 7am a 7pm todos los días. 4.5★ (4,007 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Muro de la Paz (Peace Wall) de Belfast se extiende a lo largo de Cupar Way, en el oeste de la ciudad, entre Shankill Road y Falls Road. Su horario indicado es de 7am a 7pm todos los días. Entre semana, la zona está tranquila durante toda la jornada. El fin de semana, en cambio, conviene evitar la franja de 11am a 5pm, cuando los recorridos en taxi llegan uno detrás de otro. Calcule entre 30 y 45 minutos de visita y, si desea dejar un mensaje, lleve su propio rotulador.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Muro de la Paz?

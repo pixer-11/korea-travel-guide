@@ -1,22 +1,22 @@
 ---
 title: "Matsuyama General Park: Travel Guide (4.2★)"
-description: "Matsuyama General Park is a large hillside park in the Asahigaoka district of western Matsuyama, Ehime. 4.2★ (1,121 reviews) — what visitors say, hours, and tips."
-country: "Japan"
-region: "Matsuyama"
-category: "attraction"
+description: Matsuyama General Park is a large hillside park in the Asahigaoka district of western Matsuyama, Ehime. 4.2★ (1,121 reviews) — what visitors say, hours, and tips.
+country: Japan
+region: Matsuyama
+category: attraction
 pubDate: "2026-10-10T14:59:57.059Z"
 gallery: []
 place:
-  id: "ChIJTXNPKI_vTzURgza20MSMbww"
-  name: "Matsuyama General Park"
-  address: "Japan, 〒791-8024 Ehime, Matsuyama, Asahigaoka, 1-chōme, 外１５"
+  id: ChIJTXNPKI_vTzURgza20MSMbww
+  name: Matsuyama General Park
+  address: Japan, 〒791-8024 Ehime, Matsuyama, Asahigaoka, 1-chōme, 外１５
   rating: 4.2
   userRatingsTotal: 1121
-  googleMapsUrl: "https://maps.google.com/?cid=896089627813099139&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=896089627813099139&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 33.8421726
   lng: 132.7367155
-  phone: "+81 89-923-9439"
+  phone: +81 89-923-9439
   openingHours:
     - "Monday: 9:00 AM – 5:00 PM"
     - "Tuesday: 9:00 AM – 5:00 PM"
@@ -26,7 +26,7 @@ place:
     - "Saturday: 9:00 AM – 5:00 PM"
     - "Sunday: 9:00 AM – 5:00 PM"
   busyness:
-    updated: 2026-10-10
+    updated: 2026-10-10T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 16
@@ -37,32 +37,32 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_7777624d534d3032617a6752557a54765f494b504e58544a496843"
+    venueId: ven_7777624d534d3032617a6752557a54765f494b504e58544a496843
 tags:
-  - "matsuyama"
-  - "park"
-quickAnswer: "Matsuyama General Park is a large hillside park in the Asahigaoka district of western Matsuyama, Ehime. It has an observation tower looking out over the city, a big children's playground and a grove of cherry trees. It's open 9:00 AM–5:00 PM daily and stays quiet all day on weekdays, so skip weekends between 10am and 4pm if you want space."
+  - matsuyama
+  - park
+quickAnswer: Matsuyama General Park is a large hillside park in the Asahigaoka district of western Matsuyama, Ehime. It has an observation tower looking out over the city, a big children's playground and a grove of cherry trees. It's open 9:00 AM–5:00 PM daily and stays quiet all day on weekdays, so skip weekends between 10am and 4pm if you want space.
 faq:
-  - q: "When is the quietest time to visit Matsuyama General Park?"
-    a: "Weekdays are quiet the whole time it's open, 9am–5pm. On weekends it's busiest from 10am to 4pm, so arrive at the 9am opening if a weekend is your only option."
-  - q: "What are the opening hours?"
-    a: "It's open 9:00 AM–5:00 PM every day, Monday to Sunday. Because it closes at 5pm, sunset and night views aren't possible."
-  - q: "How do I get there from central Matsuyama?"
-    a: "The park is in Asahigaoka, on a hill on the western side of the city. A taxi or car is the easiest way up, and there's parking for drivers. If you're going by bus, check current Iyotetsu routes toward Asahigaoka and expect an uphill walk."
-  - q: "When is cherry blossom season at the park?"
-    a: "The cherry grove usually blooms from late March into early April. Check the Ehime blossom forecast for the year you're travelling."
-  - q: "How long should I spend there?"
-    a: "Allow two to three hours for the tower, the paths and a picnic. With children using the large playground, it can take half a day."
+  - q: When is the quietest time to visit Matsuyama General Park?
+    a: Weekdays are quiet the whole time it's open, 9am–5pm. On weekends it's busiest from 10am to 4pm, so arrive at the 9am opening if a weekend is your only option.
+  - q: What are the opening hours?
+    a: It's open 9:00 AM–5:00 PM every day, Monday to Sunday. Because it closes at 5pm, sunset and night views aren't possible.
+  - q: How do I get there from central Matsuyama?
+    a: The park is in Asahigaoka, on a hill on the western side of the city. A taxi or car is the easiest way up, and there's parking for drivers. If you're going by bus, check current Iyotetsu routes toward Asahigaoka and expect an uphill walk.
+  - q: When is cherry blossom season at the park?
+    a: The cherry grove usually blooms from late March into early April. Check the Ehime blossom forecast for the year you're travelling.
+  - q: How long should I spend there?
+    a: Allow two to three hours for the tower, the paths and a picnic. With children using the large playground, it can take half a day.
 aiGenerated: true
 draft: false
 heroImage:
   url: https://upload.wikimedia.org/wikipedia/commons/8/8a/Matsuyama_General_Park_20240703_%284%29.jpg
-  credit: 'Photo: CT-May / Wikimedia Commons (CC0)'
+  credit: "Photo: CT-May / Wikimedia Commons (CC0)"
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Matsuyama_General_Park_20240703_(4).jpg
   focus:
     x: 65
-    'y': 40
+    "y": 40
 ---
 
 ## A hill on the city's western edge
@@ -89,7 +89,7 @@ Outside that window, the trees still give shade along the paths. In early summer
 
 ## When to come up
 
-The observation tower and park office keep 9:00 AM–5:00 PM hours, extended to 9:00 PM from July to September. The hilltop observation plaza was recognised as a Japan Night View Heritage site in 2022, so in summer the sunset and the lit-up city are part of the appeal.
+The observation tower and park office keep 9:00 AM–5:00 PM hours year-round. The hilltop observation plaza was recognised as a Japan Night View Heritage site in 2022, though the park's daily closing time means the sunset and lit-up city views associated with that recognition aren't accessible during visiting hours.
 
 - **Weekdays:** quiet the whole time it's open, 9am–5pm. Any weekday slot works.
 - **Weekends:** busiest from 10am to 4pm. Try not to arrive in the middle of that window, because that's when families fill the playground and the paths.
@@ -103,7 +103,7 @@ The address is 1-chōme Asahigaoka, Matsuyama, Ehime. The park is outside the co
 
 If you'd rather use public transport, check current Iyotetsu bus routes toward Asahigaoka before you set out. Expect an uphill walk from the stop. Drivers will find parking at the park.
 
-It works well as a half-day trip combined with Matsuyama Castle. See the castle from below in the morning, then look back at it from the tower in the afternoon. Outside July to September the tower closes at 5pm, so plan the afternoon around that.
+It works well as a half-day trip combined with Matsuyama Castle. See the castle from below in the morning, then look back at it from the tower in the afternoon. The tower closes at 5pm every day, so plan the afternoon around that.
 
 ## Picnic manners on the slope
 

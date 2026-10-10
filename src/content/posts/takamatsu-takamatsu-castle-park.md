@@ -1,35 +1,35 @@
 ---
 title: "Takamatsu Castle Park: Travel Guide (4.0★)"
-description: "Takamatsu Castle Park sits beside Kotoden Takamatsu-Chikko Station in central Takamatsu, about a five-minute walk from JR Takamatsu Station. 4.0★ (4,130 reviews) — what visitors say, hours, and tips."
-country: "Japan"
-region: "Takamatsu"
-category: "hidden-gem"
+description: Takamatsu Castle Park sits beside Kotoden Takamatsu-Chikko Station in central Takamatsu, about a five-minute walk from JR Takamatsu Station. 4.0★ (4,130 reviews) — what visitors say, hours, and tips.
+country: Japan
+region: Takamatsu
+category: hidden-gem
 pubDate: "2026-10-10T16:02:51.684Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/1/1e/Takamatsu-Castle.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/1/1e/Takamatsu-Castle.jpg
   credit: "Photo: Toto-tarou / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Takamatsu-Castle.jpg"
-  via: "act"
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Takamatsu-Castle.jpg
+  via: act
   focus:
     x: 45
-    y: 50
+    "y": 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Takamatsu_Castle_-_Tamamo_Park_20211125_08.jpg/3840px-Takamatsu_Castle_-_Tamamo_Park_20211125_08.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Takamatsu_Castle_-_Tamamo_Park_20211125_08.jpg/3840px-Takamatsu_Castle_-_Tamamo_Park_20211125_08.jpg
     credit: "Photo: 先従隗始 / Wikimedia Commons (CC0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Takamatsu_Castle_-_Tamamo_Park_20211125_08.jpg"
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Takamatsu_Castle_-_Tamamo_Park_20211125_08.jpg
 place:
-  id: "ChIJK3mVCYfrUzURNl7XQRlvOB4"
-  name: "Takamatsu Castle Park"
-  address: "2-1 Tamamochō, Takamatsu, Kagawa 760-0030, Japan"
+  id: ChIJK3mVCYfrUzURNl7XQRlvOB4
+  name: Takamatsu Castle Park
+  address: 2-1 Tamamochō, Takamatsu, Kagawa 760-0030, Japan
   rating: 4
   userRatingsTotal: 4130
-  googleMapsUrl: "https://maps.google.com/?cid=2177612574103133750&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=2177612574103133750&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 34.350315699999996
   lng: 134.0516188
-  phone: "+81 87-851-1521"
+  phone: +81 87-851-1521
   openingHours:
     - "Monday: 7:00 AM – 5:00 PM"
     - "Tuesday: 7:00 AM – 5:00 PM"
@@ -39,7 +39,7 @@ place:
     - "Saturday: 7:00 AM – 5:00 PM"
     - "Sunday: 7:00 AM – 5:00 PM"
   busyness:
-    updated: 2026-10-10
+    updated: 2026-10-10T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -54,22 +54,22 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_34424f766c525158376c4e52557a5572665943566d334b4a496843"
+    venueId: ven_34424f766c525158376c4e52557a5572665943566d334b4a496843
 tags:
-  - "takamatsu"
-  - "old quarter"
-quickAnswer: "Takamatsu Castle Park sits beside Kotoden Takamatsu-Chikko Station in central Takamatsu, about a five-minute walk from JR Takamatsu Station. It holds the stone walls, turrets and seawater moat of a castle completed in 1590. Gate times change by month (in October the west gate opens at 6am), and it's quietest from 7am to 9am. Avoid weekend afternoons, which stay busy from 10am until closing."
+  - takamatsu
+  - old quarter
+quickAnswer: Takamatsu Castle Park sits beside Kotoden Takamatsu-Chikko Station in central Takamatsu, about a five-minute walk from JR Takamatsu Station. It holds the stone walls, turrets and seawater moat of a castle completed in 1590. Gates open at 7am every day, and it's quietest from 7am to 9am. Avoid weekend afternoons, which stay busy from 10am until closing.
 faq:
-  - q: "When is the quietest time to visit Takamatsu Castle Park?"
-    a: "It's quietest from 7am to 9am on both weekdays and weekends. On weekends it stays busy from 10am until closing, so arrive at opening if you want the paths to yourself."
-  - q: "How do I get to Takamatsu Castle Park?"
-    a: "Kotoden Takamatsu-Chikko Station is right next to the park walls. JR Takamatsu Station and the Sunport ferry terminal are each a short walk away."
-  - q: "What are the opening hours?"
-    a: "Gate times change by month and differ between the west and east gates; in October the west gate opens at 6am. The park closes from 29 to 31 December, and last entry comes before closing."
-  - q: "How long should I spend there?"
-    a: "About an hour covers a loop of the moat, the Tenshudai keep base and the turrets. Allow longer if you go inside Hiunkaku or feed the sea bream."
-  - q: "What's nearby?"
-    a: "Ritsurin Garden is a short train ride away, the Sanuki udon shops in the city's covered arcades are close by, and ferries to Naoshima and Shodoshima leave from the nearby port."
+  - q: When is the quietest time to visit Takamatsu Castle Park?
+    a: It's quietest from 7am to 9am on both weekdays and weekends. On weekends it stays busy from 10am until closing, so arrive at opening if you want the paths to yourself.
+  - q: How do I get to Takamatsu Castle Park?
+    a: Kotoden Takamatsu-Chikko Station is right next to the park walls. JR Takamatsu Station and the Sunport ferry terminal are each a short walk away.
+  - q: What are the opening hours?
+    a: The gates open at 7am and close at 5pm every day. Last entry comes before closing.
+  - q: How long should I spend there?
+    a: About an hour covers a loop of the moat, the Tenshudai keep base and the turrets. Allow longer if you go inside Hiunkaku or feed the sea bream.
+  - q: What's nearby?
+    a: Ritsurin Garden is a short train ride away, the Sanuki udon shops in the city's covered arcades are close by, and ferries to Naoshima and Shodoshima leave from the nearby port.
 aiGenerated: true
 draft: false
 ---
@@ -112,11 +112,11 @@ If you arrive by ferry from Naoshima, Shodoshima or the other islands, the Sunpo
 
 ## Timing an early visit
 
-The early opening hour is what sets this place apart. Gate times change with the month and differ between the west and east gates; in October the west gate opens at 6am, earlier than many city parks. The park closes from 29 to 31 December. It's quietest between 7am and 9am on both weekdays and weekends. At that hour the paths around the Tenshudai are mostly empty, and you can walk the moat edge without weaving around groups.
+The early opening hour is what sets this place apart. The gates open at 7am every day, earlier than many city parks. It's quietest between 7am and 9am on both weekdays and weekends. At that hour the paths around the Tenshudai are mostly empty, and you can walk the moat edge without weaving around groups.
 
 Weekends are a different story. From 10am right through to closing, the park stays busy, with families at the fish-feeding spots and tour groups on the ramparts. Try not to plan a slow weekend wander for the middle of the day. If a weekend is your only option, go at opening and you'll be done before the crowds build.
 
-Closing time, which also moves with the month, catches people out. Late-afternoon light on the turrets looks tempting, but last entry comes before closing, so don't leave it until 4:45.
+Closing time, at 5pm every day, catches people out. Late-afternoon light on the turrets looks tempting, but last entry comes before closing, so don't leave it until 4:45.
 
 ## Paying, feeding and moving like the regulars
 

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: matsuyama-matsuyama-castle
-srcHash: 'cff5a1b1e724'
+srcHash: '8c4c7e63fe46'
 title: 'Castillo de Matsuyama: guía de viaje (4.5★)'
-description: 'En lo alto del monte Katsuyama, en pleno centro de Matsuyama (Ehime), se alza este castillo al que se sube en telesilla, en teleférico o a pie, con un paseo de 20–30 minutos desde la calle comercial Okaido. 4.5★ (17,271 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En lo alto del monte Katsuyama, en pleno centro de Matsuyama (Ehime), se alza este castillo al que se sube en telesilla, en teleférico o a pie, con un paseo de 20–30 minutos desde la calle comercial Okaido. 4.5★ (17,272 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En lo alto del monte Katsuyama, en pleno centro de Matsuyama (Ehime), se alza este castillo al que se sube en telesilla, en teleférico o a pie, con un paseo de 20–30 minutos desde la calle comercial Okaido. La torre del homenaje abre a las 9:00 AM y, durante casi todo el año, cierra a las 5:00 PM; en agosto el cierre se retrasa a las 5:30 PM, mientras que en diciembre y enero se adelanta a las 4:30 PM. El tercer miércoles de diciembre permanece cerrada. Entre semana, la franja más tranquila va de 9am a 10am; los fines de semana conviene evitar el intervalo de 11am a 3pm, cuando se concentra la mayor afluencia.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Castillo de Matsuyama?

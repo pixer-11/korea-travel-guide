@@ -1,41 +1,47 @@
 ---
-title: "Peace Wall: Belfast Travel Guide (4.5★)"
-description: "Peace Wall Belfast runs along Cupar Way in west Belfast, between the Shankill Road and the Falls Road, and the listed hours are 7am to 7pm every day. 4.5★ (4,006 reviews) — what visitors say, hours, and tips."
-country: "United Kingdom"
-region: "Belfast"
-category: "attraction"
-pubDate: "2026-10-10T07:42:47.461Z"
+title: 'Peace Wall: Belfast Travel Guide (4.5★)'
+description: >-
+  Peace Wall Belfast runs along Cupar Way in west Belfast, between the Shankill
+  Road and the Falls Road, and the listed hours are 7am to 7pm every day. 4.5★
+  (4,007 reviews) — what visitors say, hours, and tips.
+country: United Kingdom
+region: Belfast
+category: attraction
+pubDate: '2026-10-10T07:42:47.461Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/a/ad/The_Alexandra_Park_peace_wall%2C_Belfast_-_panoramio.jpg"
-  credit: "Photo: Keith Ruffles / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:The_Alexandra_Park_peace_wall,_Belfast_-_panoramio.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/a/ad/The_Alexandra_Park_peace_wall%2C_Belfast_-_panoramio.jpg
+  credit: 'Photo: Keith Ruffles / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:The_Alexandra_Park_peace_wall,_Belfast_-_panoramio.jpg
+  via: act
   focus:
     x: 30
-    y: 55
+    'y': 55
 gallery: []
 place:
-  id: "ChIJocs3r2YIYUgRni0qXnEacAc"
-  name: "Peace Wall Belfast"
-  address: "15 Cupar Way, Belfast BT13 2RX, UK"
+  id: ChIJocs3r2YIYUgRni0qXnEacAc
+  name: Peace Wall Belfast
+  address: '15 Cupar Way, Belfast BT13 2RX, UK'
   rating: 4.5
-  userRatingsTotal: 4006
-  googleMapsUrl: "https://maps.google.com/?cid=535957429870538142&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 4007
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=535957429870538142&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 54.6009653
   lng: -5.9564281999999995
-  phone: "+44 7592 173372"
+  phone: +44 7592 173372
   openingHours:
-    - "Monday: 7:00 AM – 7:00 PM"
-    - "Tuesday: 7:00 AM – 7:00 PM"
-    - "Wednesday: 7:00 AM – 7:00 PM"
-    - "Thursday: 7:00 AM – 7:00 PM"
-    - "Friday: 7:00 AM – 7:00 PM"
-    - "Saturday: 7:00 AM – 7:00 PM"
-    - "Sunday: 7:00 AM – 7:00 PM"
+    - 'Monday: 7:00 AM – 7:00 PM'
+    - 'Tuesday: 7:00 AM – 7:00 PM'
+    - 'Wednesday: 7:00 AM – 7:00 PM'
+    - 'Thursday: 7:00 AM – 7:00 PM'
+    - 'Friday: 7:00 AM – 7:00 PM'
+    - 'Saturday: 7:00 AM – 7:00 PM'
+    - 'Sunday: 7:00 AM – 7:00 PM'
   busyness:
-    updated: 2026-10-10
+    updated: 2026-10-10T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -54,24 +60,45 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_63416361456e587130696e52675559495932723373636f4a496843"
+    venueId: ven_63416361456e587130696e52675559495932723373636f4a496843
 tags:
-  - "belfast"
-  - "historic site"
-quickAnswer: "Peace Wall Belfast runs along Cupar Way in west Belfast, between the Shankill Road and the Falls Road, and the listed hours are 7am to 7pm every day. On weekdays it stays calm all day. On weekends, try not to come between 11am and 5pm, when the taxi tours arrive one after another. Give it 30–45 minutes and bring your own marker pen if you want to add a message."
+  - belfast
+  - historic site
+quickAnswer: >-
+  Peace Wall Belfast runs along Cupar Way in west Belfast, between the Shankill
+  Road and the Falls Road, and the listed hours are 7am to 7pm every day. On
+  weekdays it stays calm all day. On weekends, try not to come between 11am and
+  5pm, when the taxi tours arrive one after another. Give it 30–45 minutes and
+  bring your own marker pen if you want to add a message.
 faq:
-  - q: "When is the quietest time to visit the Peace Wall?"
-    a: "On weekdays it stays quiet across the whole of its listed hours, from 7am to 7pm. On weekends, avoid 11am to 5pm, when the taxi tours bunch up. Come before 11am or late in the afternoon instead."
-  - q: "How do I get to the Peace Wall from Belfast city centre?"
-    a: "Walk about 20–25 minutes from City Hall, out along the Falls Road or up the Shankill Road. You can also take the Glider G1 bus west along the Falls Road and walk north to 15 Cupar Way. Most visitors come as part of a black taxi political tour."
-  - q: "Can I write on the Peace Wall?"
-    a: "Yes, adding a message is expected. Bring your own thick permanent marker, find clear space, and never write over someone else's message or a mural. Messages of peace fit the wall. Partisan slogans don't."
-  - q: "How long should I spend at the Peace Wall?"
-    a: "Allow 30–45 minutes at the wall itself. A walking loop that takes in the Falls Road and Shankill Road murals takes about two hours."
-  - q: "What is near the Peace Wall?"
-    a: "The International Wall and the Bobby Sands mural on Sevastopol Street are on the Falls side, along with Clonard Monastery. The Shankill Road murals are on the other side. Everything is within walking distance of Cupar Way."
+  - q: When is the quietest time to visit the Peace Wall?
+    a: >-
+      On weekdays it stays quiet across the whole of its listed hours, from 7am
+      to 7pm. On weekends, avoid 11am to 5pm, when the taxi tours bunch up. Come
+      before 11am or late in the afternoon instead.
+  - q: How do I get to the Peace Wall from Belfast city centre?
+    a: >-
+      Walk about 20–25 minutes from City Hall, out along the Falls Road or up
+      the Shankill Road. You can also take the Glider G1 bus west along the
+      Falls Road and walk north to 15 Cupar Way. Most visitors come as part of a
+      black taxi political tour.
+  - q: Can I write on the Peace Wall?
+    a: >-
+      Yes, adding a message is expected. Bring your own thick permanent marker,
+      find clear space, and never write over someone else's message or a mural.
+      Messages of peace fit the wall. Partisan slogans don't.
+  - q: How long should I spend at the Peace Wall?
+    a: >-
+      Allow 30–45 minutes at the wall itself. A walking loop that takes in the
+      Falls Road and Shankill Road murals takes about two hours.
+  - q: What is near the Peace Wall?
+    a: >-
+      The International Wall and the Bobby Sands mural on Sevastopol Street are
+      on the Falls side, along with Clonard Monastery. The Shankill Road murals
+      are on the other side. Everything is within walking distance of Cupar Way.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-10'
 ---
 
 ## Concrete below, steel above, mesh on top

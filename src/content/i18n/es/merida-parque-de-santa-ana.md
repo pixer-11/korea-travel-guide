@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: merida-parque-de-santa-ana
-srcHash: 'e84ef999d974'
+srcHash: '27ba80e31328'
 title: 'Parque de Santa Ana: guía de viaje de Mérida (4.6★)'
-description: 'En el Centro de Mérida, en la esquina de la Calle 60 con la Calle 45, el Parque de Santa Ana es una plaza con sombra situada frente a la Iglesia de Santa Ana, del siglo XVIII, y junto a las cocinas del mercado de Santa Ana. 4.6★ (13,061 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En el Centro de Mérida, en la esquina de la Calle 60 con la Calle 45, el Parque de Santa Ana es una plaza con sombra situada frente a la Iglesia de Santa Ana, del siglo XVIII, y junto a las cocinas del mercado de Santa Ana. 4.6★ (13,068 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En el Centro de Mérida, en la esquina de la Calle 60 con la Calle 45, el Parque de Santa Ana es una plaza con sombra situada frente a la Iglesia de Santa Ana, del siglo XVIII, y junto a las cocinas del mercado de Santa Ana. Está abierto las 24 horas y la entrada es gratuita. Los fines de semana hay mucha gente de 9am a 11pm. Si quiere sentarse en una banca sin tener que buscarla, conviene ir entre semana.
 faq:
   - q: ¿Dónde está exactamente el Parque de Santa Ana en Mérida?

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: mexico-city-bosque-de-chapultepec
-srcHash: '1464600c4db8'
+srcHash: 'da25c1f25d41'
 title: 'Bosque de Chapultepec: guía de viaje de Ciudad de México (4.7★)'
-description: En la alcaldía Miguel Hidalgo de Ciudad de México se extiende el Bosque de Chapultepec, un parque boscoso de 686 hectáreas que abre de martes a domingo de 5am a 6pm y cierra los lunes. Con 4.7★ (268,242 reseñas), aquí encontrará la opinión de los visitantes, los horarios y consejos útiles.
+description: En la alcaldía Miguel Hidalgo de Ciudad de México se extiende el Bosque de Chapultepec, un parque boscoso de 686 hectáreas que abre de martes a domingo de 5am a 6pm y cierra los lunes. Con 4.7★ (268,313 reseñas), aquí encontrará la opinión de los visitantes, los horarios y consejos útiles.
 quickAnswer: En la alcaldía Miguel Hidalgo de Ciudad de México se extiende el Bosque de Chapultepec, un parque boscoso de 686 hectáreas. Abre de martes a domingo de 5am a 6pm y cierra los lunes. Todos los días, la hora más tranquila es entre las 7am y las 8am. Los fines de semana la afluencia es intensa de 10am a 6pm, así que conviene llegar temprano y visitar primero el castillo o el Museo Nacional de Antropología.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Bosque de Chapultepec?

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: matsuyama-dogo-onsen-main-building
-srcHash: '94e8079b29b9'
+srcHash: 'e4d4f1498304'
 title: 'Edificio principal de Dogo Onsen: guía de viaje de Matsuyama (4.2★)'
-description: En el barrio de Dogo, en Matsuyama, se alza el edificio principal de Dogo Onsen, una casa de baños de madera de tres plantas construida en 1894. Abre todos los días de 6:00am a 11:00pm y se encuentra a pocos pasos de la estación de tranvía Dogo Onsen. Con una valoración de 4.2★ (16,758 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
+description: En el barrio de Dogo, en Matsuyama, se alza el edificio principal de Dogo Onsen, una casa de baños de madera de tres plantas construida en 1894. Abre todos los días de 6:00am a 11:00pm y se encuentra a pocos pasos de la estación de tranvía Dogo Onsen. Con una valoración de 4.2★ (16,763 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
 quickAnswer: El edificio principal de Dogo Onsen es una casa de baños de madera de tres plantas que data de 1894 y se encuentra en el barrio de Dogo, en Matsuyama. Abre a diario de 6:00am a 11:00pm y queda a un breve paseo de la estación de tranvía Dogo Onsen. Según los datos de afluencia, la franja más tranquila va de 7am a 11pm, tanto entre semana como en fin de semana. Los sábados y domingos, la mayor aglomeración se concentra entre las 12pm y las 9pm, de modo que conviene acudir a primera hora de la mañana o ya entrada la noche.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el edificio principal de Dogo Onsen?

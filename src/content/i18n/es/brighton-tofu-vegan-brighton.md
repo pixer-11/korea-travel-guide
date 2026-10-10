@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: brighton-tofu-vegan-brighton
-srcHash: 'e7c6bc0d368e'
+srcHash: 'ed8500f0ecfa'
 title: 'Tofu Vegan: dónde comer en Brighton (5.0★)'
-description: En el número 15 de Meeting House Lane, entre las estrechas callejuelas de The Lanes, en pleno centro de Brighton, se encuentra Tofu Vegan Brighton, un restaurante íntegramente vegano. Con una valoración de 5.0★ (937 reseñas), le contamos qué opinan los visitantes, cuál es su horario y algunos consejos.
+description: En el número 15 de Meeting House Lane, entre las estrechas callejuelas de The Lanes, en pleno centro de Brighton, se encuentra Tofu Vegan Brighton, un restaurante íntegramente vegano. Con una valoración de 5.0★ (949 reseñas), le contamos qué opinan los visitantes, cuál es su horario y algunos consejos.
 quickAnswer: En el número 15 de Meeting House Lane, entre las estrechas callejuelas de The Lanes, en pleno centro de Brighton, se encuentra Tofu Vegan Brighton, un restaurante íntegramente vegano. Sus precios son moderados. Abre a mediodía todos los días salvo el martes y, de jueves a sábado, no cierra hasta las 11pm. La visita puede completarse con un paseo hasta el Pabellón Real (Royal Pavilion) o el paseo marítimo, ambos a pocos minutos a pie.
 faq:
   - q: ¿Dónde está exactamente Tofu Vegan Brighton?

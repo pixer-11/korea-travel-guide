@@ -1,31 +1,31 @@
 ---
 title: "Matsuyama Castle: Travel Guide (4.5★)"
-description: "Matsuyama Castle sits on top of Mount Katsuyama in central Matsuyama, Ehime, and you reach it by chairlift, ropeway or a 20–30 minute walk up from the Okaido shopping street. 4.5★ (17,271 reviews) — what visitors say, hours, and tips."
-country: "Japan"
-region: "Matsuyama"
+description: Matsuyama Castle sits on top of Mount Katsuyama in central Matsuyama, Ehime, and you reach it by chairlift, ropeway or a 20–30 minute walk up from the Okaido shopping street. 4.5★ (17,272 reviews) — what visitors say, hours, and tips.
+country: Japan
+region: Matsuyama
 category: attraction
 pubDate: "2026-10-10T14:59:53.936Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Matsuyama_Castle.jpg/3840px-Matsuyama_Castle.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Matsuyama_Castle.jpg/3840px-Matsuyama_Castle.jpg
   credit: "Photo: Drivephotographer / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Matsuyama_Castle.jpg"
-  via: "act"
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Matsuyama_Castle.jpg
+  via: act
   focus:
     x: 65
-    y: 35
+    "y": 35
 gallery: []
 place:
-  id: "ChIJG4z5T-vlTzURgnujh60lGEo"
-  name: "Matsuyama Castle"
-  address: "1 Marunouchi, Matsuyama, Ehime 790-0008, Japan"
+  id: ChIJG4z5T-vlTzURgnujh60lGEo
+  name: Matsuyama Castle
+  address: 1 Marunouchi, Matsuyama, Ehime 790-0008, Japan
   rating: 4.5
-  userRatingsTotal: 17271
-  googleMapsUrl: "https://maps.google.com/?cid=5339058785482931074&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 17272
+  googleMapsUrl: https://maps.google.com/?cid=5339058785482931074&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 33.845576799999996
   lng: 132.7655346
-  phone: "+81 89-921-4873"
+  phone: +81 89-921-4873
   openingHours:
     - "Monday: 9:00 AM – 4:30 PM"
     - "Tuesday: 9:00 AM – 4:30 PM"
@@ -35,7 +35,7 @@ place:
     - "Saturday: 9:00 AM – 4:30 PM"
     - "Sunday: 9:00 AM – 4:30 PM"
   busyness:
-    updated: 2026-10-10
+    updated: 2026-10-10T00:00:00.000Z
     weekdayQuiet:
       - 9
     weekendBusy:
@@ -43,24 +43,25 @@ place:
       - 12
       - 13
       - 14
-    venueId: "ven_6f45476c3036686a756e6752557a546c762d54357a34474a496843"
+    venueId: ven_6f45476c3036686a756e6752557a546c762d54357a34474a496843
 tags:
-  - "matsuyama"
-  - "hidden gem"
-quickAnswer: "Matsuyama Castle sits on top of Mount Katsuyama in central Matsuyama, Ehime, and you reach it by chairlift, ropeway or a 20–30 minute walk up from the Okaido shopping street. The keep opens at 9:00 AM and closes at 5:00 PM for most of the year (5:30 PM in August, 4:30 PM in December and January); it shuts on the third Wednesday of December. On weekdays it's calmest from 9am to 10am, and on weekends you should avoid 11am to 3pm, when the crowds are heaviest."
+  - matsuyama
+  - hidden gem
+quickAnswer: Matsuyama Castle sits on top of Mount Katsuyama in central Matsuyama, Ehime, and you reach it by chairlift, ropeway or a 20–30 minute walk up from the Okaido shopping street. The keep opens at 9:00 AM and closes at 4:30 PM every day of the year. On weekdays it's calmest from 9am to 10am, and on weekends you should avoid 11am to 3pm, when the crowds are heaviest.
 faq:
-  - q: "When is the quietest time to visit Matsuyama Castle?"
-    a: "On weekdays, 9am to 10am is the quietest window, so take the first lift up. On weekends, avoid 11am to 3pm, which is the busiest stretch."
-  - q: "What are Matsuyama Castle's opening hours?"
-    a: "The keep is open 9:00 AM to 4:30 PM every day of the week. Last entry is before closing, so give yourself time to get up the hill."
-  - q: "How do I get to Matsuyama Castle from Matsuyama Station?"
-    a: "Take the Iyotetsu city tram to Okaido stop, about ten minutes, then walk a few minutes to the ropeway station. From there, ride the ropeway or chairlift, or hike one of the trails up Mount Katsuyama."
-  - q: "Should I take the ropeway or the chairlift?"
-    a: "They run side by side from the same station. The chairlift is open-air with dangling legs and gives the better views. The enclosed ropeway is better with bags, small children or in rain. Either way, expect about a ten-minute walk to the keep from the top."
-  - q: "How long should I spend at Matsuyama Castle?"
-    a: "Allow two to three hours for the ride up, the keep's interior and the summit grounds. Add time if you're walking down past Ninomaru Historic Garden."
+  - q: When is the quietest time to visit Matsuyama Castle?
+    a: On weekdays, 9am to 10am is the quietest window, so take the first lift up. On weekends, avoid 11am to 3pm, which is the busiest stretch.
+  - q: What are Matsuyama Castle's opening hours?
+    a: The keep is open 9:00 AM to 4:30 PM every day of the week. Last entry is before closing, so give yourself time to get up the hill.
+  - q: How do I get to Matsuyama Castle from Matsuyama Station?
+    a: Take the Iyotetsu city tram to Okaido stop, about ten minutes, then walk a few minutes to the ropeway station. From there, ride the ropeway or chairlift, or hike one of the trails up Mount Katsuyama.
+  - q: Should I take the ropeway or the chairlift?
+    a: They run side by side from the same station. The chairlift is open-air with dangling legs and gives the better views. The enclosed ropeway is better with bags, small children or in rain. Either way, expect about a ten-minute walk to the keep from the top.
+  - q: How long should I spend at Matsuyama Castle?
+    a: Allow two to three hours for the ride up, the keep's interior and the summit grounds. Add time if you're walking down past Ninomaru Historic Garden.
 aiGenerated: true
 draft: false
+updatedDate: "2026-10-10"
 ---
 
 ## A castle you reach on a dangling seat
@@ -98,7 +99,7 @@ Both lifts drop you about ten minutes' walk below the keep. You'll still climb s
 
 This place is well visited, so timing matters more than anything else. **On weekdays, the quietest window is 9am to 10am.** If you're on the first lift up, you can climb the keep's staircases without a line behind you. **On weekends, avoid 11am to 3pm.** That's when tour groups and families pile up at the gates and on the narrow interior stairs.
 
-The keep opens at 9:00 AM. It closes at 5:00 PM for most of the year, at 5:30 PM in August and at 4:30 PM in December and January, and it shuts on the third Wednesday of December. Last entry comes before closing, so don't start up the hill late in the afternoon. Current ticket prices are posted at the ropeway station and the keep entrance.
+The keep opens at 9:00 AM and closes at 4:30 PM every day of the year. Last entry comes before closing, so don't start up the hill late in the afternoon. Current ticket prices are posted at the ropeway station and the keep entrance.
 
 Inside the keep, follow these customs:
 

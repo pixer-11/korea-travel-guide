@@ -1,59 +1,90 @@
 ---
-title: "Coyoacan Market: Mexico City Travel Guide (4.5★)"
-description: "Coyoacan Market (Mercado de Coyoacán) is a two-storey covered market on Ignacio Allende in Coyoacán, Mexico City, about three blocks from the Frida Kahlo Museum. 4.5★ (56,173 reviews) — what visitors say, hours, and tips."
-country: "Mexico"
-region: "Mexico City"
-category: "hidden-gem"
-pubDate: "2026-10-05T07:39:55.938Z"
+title: 'Coyoacan Market: Mexico City Travel Guide (4.5★)'
+description: >-
+  Coyoacan Market (Mercado de Coyoacán) is a two-storey covered market on
+  Ignacio Allende in Coyoacán, Mexico City, about three blocks from the Frida
+  Kahlo Museum. 4.5★ (56,210 reviews) — what visitors say, hours, and tips.
+country: Mexico
+region: Mexico City
+category: hidden-gem
+pubDate: '2026-10-05T07:39:55.938Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/9/9f/Coyoacan_Market.jpg"
-  credit: "Photo: Manuel Ortiz Hernández / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Coyoacan_Market.jpg"
-  via: "act"
+  url: 'https://upload.wikimedia.org/wikipedia/commons/9/9f/Coyoacan_Market.jpg'
+  credit: 'Photo: Manuel Ortiz Hernández / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Coyoacan_Market.jpg'
+  via: act
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Mexico_City-_puppet_painter_outside_Mercado_de_Coyoacan.jpg/3840px-Mexico_City-_puppet_painter_outside_Mercado_de_Coyoacan.jpg"
-    credit: "Photo: Thayne Tuason / Wikimedia Commons (CC BY 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Mexico_City-_puppet_painter_outside_Mercado_de_Coyoacan.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Mexico_City-_puppet_painter_outside_Mercado_de_Coyoacan.jpg/3840px-Mexico_City-_puppet_painter_outside_Mercado_de_Coyoacan.jpg
+    credit: 'Photo: Thayne Tuason / Wikimedia Commons (CC BY 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Mexico_City-_puppet_painter_outside_Mercado_de_Coyoacan.jpg
 place:
-  id: "ChIJeYLOZMT_0YURFEhp2ubb43c"
-  name: "Coyoacan Market"
-  address: "Ignacio Allende s/n, Del Carmen, Coyoacán, 04100 Ciudad de México, CDMX, Mexico"
+  id: ChIJeYLOZMT_0YURFEhp2ubb43c
+  name: Coyoacan Market
+  address: >-
+    Ignacio Allende s/n, Del Carmen, Coyoacán, 04100 Ciudad de México, CDMX,
+    Mexico
   rating: 4.5
-  userRatingsTotal: 56173
-  googleMapsUrl: "https://maps.google.com/?cid=8638990294780037140&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 56210
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=8638990294780037140&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 19.3527374
   lng: -99.16163739999999
   openingHours:
-    - "Monday: 7:00 AM – 6:00 AM"
-    - "Tuesday: 7:00 AM – 6:00 AM"
-    - "Wednesday: 7:00 AM – 5:00 PM"
-    - "Thursday: 7:00 AM – 6:00 PM"
-    - "Friday: 7:00 AM – 6:00 PM"
-    - "Saturday: 7:00 AM – 6:00 PM"
-    - "Sunday: 7:00 AM – 6:00 PM"
+    - 'Monday: 7:00 AM – 6:00 AM'
+    - 'Tuesday: 7:00 AM – 6:00 AM'
+    - 'Wednesday: 7:00 AM – 5:00 PM'
+    - 'Thursday: 7:00 AM – 6:00 PM'
+    - 'Friday: 7:00 AM – 6:00 PM'
+    - 'Saturday: 7:00 AM – 6:00 PM'
+    - 'Sunday: 7:00 AM – 6:00 PM'
 tags:
-  - "mexico city"
-  - "local market"
-quickAnswer: "Coyoacan Market (Mercado de Coyoacán) is a two-storey covered market on Ignacio Allende in Coyoacán, Mexico City, about three blocks from the Frida Kahlo Museum. It has been trading since 1921 and is best known for its tostada counters, with produce, crafts and souvenir stalls around them. It opens at 7am, and weekday mornings are your best chance of a stool before the weekend crowds arrive."
+  - mexico city
+  - local market
+quickAnswer: >-
+  Coyoacan Market (Mercado de Coyoacán) is a two-storey covered market on
+  Ignacio Allende in Coyoacán, Mexico City, about three blocks from the Frida
+  Kahlo Museum. It has been trading since 1921 and is best known for its tostada
+  counters, with produce, crafts and souvenir stalls around them. It opens at
+  7am, and weekday mornings are your best chance of a stool before the weekend
+  crowds arrive.
 faq:
-  - q: "How do I get to Coyoacan Market?"
-    a: "It's on Ignacio Allende in Coyoacán. The nearest Metro is Coyoacán station on Line 3, which is about a 20 to 25 minute walk away. Many visitors take a ride-hail car to central Coyoacán instead. The market is about three blocks south of the Frida Kahlo Museum."
-  - q: "What should I eat at Coyoacan Market?"
-    a: "Tostadas are the main draw, especially at the well-known Tostadas Coyoacán counter. Popular toppings are tinga de pollo, pata, ceviche, shrimp and octopus. Agua fresca, quesadillas and esquites nearby are also worth trying."
-  - q: "What are the opening hours?"
-    a: "It opens at 7am daily. It closes at 6pm Thursday to Sunday and at 5pm on Wednesday. Monday and Tuesday listings are unclear, so go in the daytime. Smaller stalls often pack up before the official close."
-  - q: "How long should I spend there?"
-    a: "Allow about 30 minutes for a tostada stop. Allow an hour or more to also browse the produce, craft and souvenir stalls across both floors."
-  - q: "What else is near Coyoacan Market?"
-    a: "The Museo Frida Kahlo (Casa Azul) is three blocks north. The Jardín Centenario, Plaza Hidalgo and the Parroquia de San Juan Bautista are a short walk south. The Museo Casa de León Trotsky is a longer walk away."
+  - q: How do I get to Coyoacan Market?
+    a: >-
+      It's on Ignacio Allende in Coyoacán. The nearest Metro is Coyoacán station
+      on Line 3, which is about a 20 to 25 minute walk away. Many visitors take
+      a ride-hail car to central Coyoacán instead. The market is about three
+      blocks south of the Frida Kahlo Museum.
+  - q: What should I eat at Coyoacan Market?
+    a: >-
+      Tostadas are the main draw, especially at the well-known Tostadas Coyoacán
+      counter. Popular toppings are tinga de pollo, pata, ceviche, shrimp and
+      octopus. Agua fresca, quesadillas and esquites nearby are also worth
+      trying.
+  - q: What are the opening hours?
+    a: >-
+      It opens at 7am daily. It closes at 6pm Thursday to Sunday and at 5pm on
+      Wednesday. Monday and Tuesday listings are unclear, so go in the daytime.
+      Smaller stalls often pack up before the official close.
+  - q: How long should I spend there?
+    a: >-
+      Allow about 30 minutes for a tostada stop. Allow an hour or more to also
+      browse the produce, craft and souvenir stalls across both floors.
+  - q: What else is near Coyoacan Market?
+    a: >-
+      The Museo Frida Kahlo (Casa Azul) is three blocks north. The Jardín
+      Centenario, Plaza Hidalgo and the Parroquia de San Juan Bautista are a
+      short walk south. The Museo Casa de León Trotsky is a longer walk away.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-10'
 ---
 
 Calle Ignacio Allende narrows as it runs south from the Frida Kahlo Museum, and the market fills most of a block along it. Step under the roof and the light drops. Aisles run in a grid, stalls are packed shoulder to shoulder, and painted signs hang above each counter. The place has been trading since 1921. It feels like a working neighbourhood market that also happens to feed a lot of visitors, not like a tourist attraction.

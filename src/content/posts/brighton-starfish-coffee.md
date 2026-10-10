@@ -1,57 +1,82 @@
 ---
-title: "Starfish & Coffee: Where to Eat in Brighton (4.8★)"
-description: "Starfish & Coffee is a well-rated, mid-range brunch restaurant at 32 Egremont Place in Brighton's Kemptown, a short walk from Queen's Park and the Royal Pavilion."
-country: "United Kingdom"
-region: "Brighton"
-category: "restaurant"
-pubDate: "2026-10-10T07:42:48.487Z"
+title: 'Starfish & Coffee: Where to Eat in Brighton (4.8★)'
+description: >-
+  Starfish & Coffee is a well-rated, mid-range brunch restaurant at 32 Egremont
+  Place in Brighton's Kemptown, a short walk from Queen's Park and the Royal
+  Pavilion.
+country: United Kingdom
+region: Brighton
+category: restaurant
+pubDate: '2026-10-10T07:42:48.487Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Starfish_%26_Coffee%2C_Brighton_2023-08-04.jpg/3840px-Starfish_%26_Coffee%2C_Brighton_2023-08-04.jpg"
-  credit: "Photo: Andy Li / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Starfish_%26_Coffee,_Brighton_2023-08-04.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Starfish_%26_Coffee%2C_Brighton_2023-08-04.jpg/3840px-Starfish_%26_Coffee%2C_Brighton_2023-08-04.jpg
+  credit: 'Photo: Andy Li / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Starfish_%26_Coffee,_Brighton_2023-08-04.jpg
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery: []
 place:
-  id: "ChIJ-yjI9KKFdUgRVIlwRdYgVco"
-  name: "Starfish & Coffee"
-  address: "32 Egremont Pl, Brighton and Hove, Brighton BN2 0GA, UK"
+  id: ChIJ-yjI9KKFdUgRVIlwRdYgVco
+  name: Starfish & Coffee
+  address: '32 Egremont Pl, Brighton and Hove, Brighton BN2 0GA, UK'
   rating: 4.8
-  userRatingsTotal: 1677
+  userRatingsTotal: 1682
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=14579595473341942100&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14579595473341942100&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 50.823422900000004
   lng: -0.1286507
-  phone: "+44 1273 230635"
+  phone: +44 1273 230635
   openingHours:
-    - "Monday: 8:30 AM – 3:00 PM"
-    - "Tuesday: 8:30 AM – 3:00 PM"
-    - "Wednesday: 8:30 AM – 3:00 PM"
-    - "Thursday: 8:30 AM – 3:00 PM"
-    - "Friday: 8:30 AM – 3:00 PM"
-    - "Saturday: 9:00 AM – 3:00 PM"
-    - "Sunday: 9:00 AM – 3:00 PM"
+    - 'Monday: 8:30 AM – 3:00 PM'
+    - 'Tuesday: 8:30 AM – 3:00 PM'
+    - 'Wednesday: 8:30 AM – 3:00 PM'
+    - 'Thursday: 8:30 AM – 3:00 PM'
+    - 'Friday: 8:30 AM – 3:00 PM'
+    - 'Saturday: 9:00 AM – 3:00 PM'
+    - 'Sunday: 9:00 AM – 3:00 PM'
 tags:
-  - "brighton"
-  - "breakfast"
-quickAnswer: "Starfish & Coffee is a well-rated, mid-range brunch restaurant at 32 Egremont Place in Brighton's Kemptown, a short walk from Queen's Park and the Royal Pavilion. It opens 8:30am–3pm Monday to Friday and 9am–3pm at weekends, so plan it as breakfast or an early lunch. Weekday mornings near opening are your best chance of walking straight in."
+  - brighton
+  - breakfast
+quickAnswer: >-
+  Starfish & Coffee is a well-rated, mid-range brunch restaurant at 32 Egremont
+  Place in Brighton's Kemptown, a short walk from Queen's Park and the Royal
+  Pavilion. It opens 8:30am–3pm Monday to Friday and 9am–3pm at weekends, so
+  plan it as breakfast or an early lunch. Weekday mornings near opening are your
+  best chance of walking straight in.
 faq:
-  - q: "What are Starfish & Coffee's opening hours?"
-    a: "Monday to Friday it opens 8:30am–3pm, and Saturday and Sunday 9am–3pm. There's no evening service on any day."
-  - q: "Where is Starfish & Coffee and how do I get there?"
-    a: "It's at 32 Egremont Place, Brighton BN2 0GA, in Kemptown. From Brighton station it's roughly a 25–30 minute walk via the Royal Pavilion and Edward Street. Buses along Edward Street and Eastern Road get you closer."
-  - q: "When should I go to avoid a wait?"
-    a: "Weekdays right at the 8:30am opening are usually the easiest time. At weekends, arriving at 9am beats the mid-morning brunch rush."
-  - q: "Can I pay by card and should I tip?"
-    a: "Contactless card and phone payments are standard in Brighton cafés. Tipping is optional. Around 10% is customary for table service unless a service charge is already on the bill."
-  - q: "What's nearby to combine with a visit?"
-    a: "Queen's Park is a few minutes north. St James's Street, Kemp Town village and Marine Parade are just south, and the Royal Pavilion and Palace Pier are 10–20 minutes' walk west."
+  - q: What are Starfish & Coffee's opening hours?
+    a: >-
+      Monday to Friday it opens 8:30am–3pm, and Saturday and Sunday 9am–3pm.
+      There's no evening service on any day.
+  - q: Where is Starfish & Coffee and how do I get there?
+    a: >-
+      It's at 32 Egremont Place, Brighton BN2 0GA, in Kemptown. From Brighton
+      station it's roughly a 25–30 minute walk via the Royal Pavilion and Edward
+      Street. Buses along Edward Street and Eastern Road get you closer.
+  - q: When should I go to avoid a wait?
+    a: >-
+      Weekdays right at the 8:30am opening are usually the easiest time. At
+      weekends, arriving at 9am beats the mid-morning brunch rush.
+  - q: Can I pay by card and should I tip?
+    a: >-
+      Contactless card and phone payments are standard in Brighton cafés.
+      Tipping is optional. Around 10% is customary for table service unless a
+      service charge is already on the bill.
+  - q: What's nearby to combine with a visit?
+    a: >-
+      Queen's Park is a few minutes north. St James's Street, Kemp Town village
+      and Marine Parade are just south, and the Royal Pavilion and Palace Pier
+      are 10–20 minutes' walk west.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-10'
 ---
 
 ## A brunch address on a Kemptown side street
