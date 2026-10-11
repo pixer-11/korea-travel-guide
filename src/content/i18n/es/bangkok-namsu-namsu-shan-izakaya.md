@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bangkok-namsu-namsu-shan-izakaya
-srcHash: '330148bf33ee'
+srcHash: '4cb2975d3eb1'
 title: 'Namsu (Namsu Shan Izakaya): guía de viaje de Bangkok'
 description: Namsu (Namsu Shan Izakaya) es un izakaya de cocina shan con espíritu japonés, dirigido por la chef Honey Rae Zenang.
 quickAnswer: Namsu (Namsu Shan Izakaya) es un izakaya de cocina shan con espíritu japonés, dirigido por la chef Honey Rae Zenang. Hace poco se trasladó a la planta superior del Rangoon Tea House, cerca de Thong Lor, en Bangkok. Lo ideal es ir por la noche y probar los sabores del Triángulo de Oro con alguno de los sakes de su carta, una de las más amplias de la ciudad. Como el traslado es reciente, conviene confirmar el horario y reservar antes de salir.
@@ -66,4 +66,4 @@ El Rangoon Tea House está justo en la planta baja, lo que ofrece un comienzo de
 
 Después, en Thong Lor y en el vecino Ekkamai no faltan bares para tomar la última copa, muchos de ellos a un corto trayecto. Si aún le apetece algo japonés, el soi está lleno de opciones: la oferta gastronómica japonesa de Sukhumvit se extiende desde aquí hacia el oeste, en dirección a Phrom Phong.
 
-Para Namsu en sí, calcule unas dos horas. Es tiempo suficiente para pedir varias tandas de platillos y explorar con calma la carta de sakes.
+Para Namsu en sí, dese tiempo de sobra. Es tiempo suficiente para pedir varias tandas de platillos y explorar con calma la carta de sakes.

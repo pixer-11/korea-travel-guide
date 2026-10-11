@@ -1,19 +1,19 @@
 ---
 lang: es
 slug: berlin-mustafa-s-gemuse-kebap
-srcHash: '26eb7b647748'
+srcHash: '2c3589cb6431'
 title: 'Mustafa''s Gemüse Kebap: dónde comer en Berlín (4.2★)'
 description: En Mehringdamm 33, en pleno Kreuzberg (Berlín) y a pocos pasos de la estación de U-Bahn Mehringdamm (U6 y U7), se encuentra Mustafa's Gemüse Kebap, un diminuto quiosco de comida para llevar famoso por sus kebabs de pollo repletos de verduras a la plancha. Con 4.2★ (22,378 reseñas), aquí encontrará lo que opinan los visitantes, el horario y algunos consejos.
-quickAnswer: En Mehringdamm 33, en pleno Kreuzberg (Berlín) y a pocos pasos de la estación de U-Bahn Mehringdamm (U6 y U7), se encuentra Mustafa's Gemüse Kebap, un diminuto quiosco de comida para llevar famoso por sus kebabs de pollo repletos de verduras a la plancha. Entre semana, la cola es más corta de 11am a 11pm; los fines de semana, de 11am a 1pm. Conviene evitar los sábados y domingos de 1pm a 11pm, cuando se forman las colas más largas. Tenga en cuenta, además, que los viernes no abre hasta las 2pm.
+quickAnswer: En Mehringdamm 33, en pleno Kreuzberg (Berlín) y a pocos pasos de la estación de U-Bahn Mehringdamm (U6 y U7), se encuentra Mustafa's Gemüse Kebap, un diminuto quiosco de comida para llevar famoso por sus kebabs de pollo repletos de verduras a la plancha. Entre semana, la cola es más corta fuera de las horas punta del almuerzo y la cena; los fines de semana, de 11am a 1pm. Conviene evitar los sábados y domingos de 1pm a 11pm, cuando se forman las colas más largas. Tenga en cuenta, además, que los viernes no abre hasta las 2pm.
 faq:
   - q: ¿Cuál es el momento más tranquilo para ir a Mustafa's Gemüse Kebap?
-    a: Entre semana, la franja más tranquila va de 11am a 11pm. Los fines de semana, lo mejor es acudir de 11am a 1pm y evitar el tramo de 1pm a 11pm, cuando la cola alcanza su máxima longitud. Recuerde que los viernes no abre hasta las 2pm.
+    a: Entre semana, hay menos gente fuera de las horas punta del almuerzo y la cena. Los fines de semana, lo mejor es acudir de 11am a 1pm y evitar el tramo de 1pm a 11pm, cuando la cola alcanza su máxima longitud. Recuerde que los viernes no abre hasta las 2pm.
   - q: ¿Cómo se llega a Mustafa's Gemüse Kebap?
     a: Hay que tomar la U6 o la U7 hasta la estación de Mehringdamm, en Kreuzberg. Desde allí, basta un breve paseo por la misma calle para llegar al quiosco, situado en Mehringdamm 33.
   - q: ¿Hay sitio para sentarse?
     a: No. Se trata de un pequeño quiosco con ventanilla, así que lo habitual es comer de pie por los alrededores o llevarse el kebab al Viktoriapark, a unos 15 minutos a pie.
   - q: ¿Hasta qué hora abre?
-    a: De lunes a miércoles cierra a las 11:30pm; jueves y domingos, a las 12:30am, y viernes y sábados, a las 2:30am. Abre todos los días a las 11am, salvo los viernes, en que lo hace a las 2pm.
+    a: De lunes a miércoles cierra a las 11:30pm; jueves y domingos, algo más tarde, y viernes y sábados, a las 2:30am. Abre todos los días a las 11am, salvo los viernes, en que lo hace a las 2pm.
   - q: ¿Qué más hay por la zona?
     a: En el mismo tramo de Mehringdamm se encuentra Curry 36, un conocido puesto de currywurst. El Bergmannkiez, el mercado Marheineke Markthalle y el Viktoriapark quedan a poca distancia a pie.
 ---
@@ -39,7 +39,7 @@ Es una comida económica y saciante: con un kebab hay de sobra para almorzar. Si
 
 ## Cómo sobrellevar la cola de Mehringdamm
 
-Conocer la afluencia de público facilita elegir el momento. **Entre semana, el quiosco está más tranquilo de 11am a 11pm**, de modo que ir de lunes a jueves, casi a cualquier hora, resulta mejor que hacerlo en fin de semana. **Los sábados y domingos, lo ideal es llegar entre las 11am y la 1pm.** Procure no presentarse esos días entre la 1pm y las 11pm: es cuando la fila se extiende más a lo largo de la acera.
+Conocer la afluencia de público facilita elegir el momento. **Entre semana, el quiosco está más tranquilo fuera de las horas punta del almuerzo y la cena**, de modo que ir de lunes a jueves, casi a cualquier hora, resulta mejor que hacerlo en fin de semana. **Los sábados y domingos, lo ideal es llegar entre las 11am y la 1pm.** Procure no presentarse esos días entre la 1pm y las 11pm: es cuando la fila se extiende más a lo largo de la acera.
 
 Así funciona la cola:
 
@@ -52,7 +52,7 @@ Tenga servilletas a mano y no se ponga su mejor camisa, porque con tanta verdura
 
 ## Un horario que se alarga hasta la madrugada
 
-El quiosco está pensado para el hambre nocturna y su horario se prolonga hasta muy tarde. De lunes a miércoles abre de 11am a 11:30pm. Los jueves y domingos también abre a las 11am, pero no cierra hasta las 12:30am.
+El quiosco está pensado para el hambre nocturna y su horario se prolonga hasta muy tarde. De lunes a miércoles abre de 11am a 11:30pm. Los jueves y domingos permanece abierto hasta aún más entrada la noche.
 
 El viernes es la excepción: el quiosco no abre a las 11am, sino a las **2pm**, por lo que no sirve para almorzar ese día, aunque permanece abierto hasta las 2:30am. El sábado es la jornada más larga, de 11am a 2:30am, lo que lo convierte en una parada cómoda al final de una noche de fiesta en Kreuzberg.
 

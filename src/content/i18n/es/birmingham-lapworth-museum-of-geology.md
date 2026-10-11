@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: birmingham-lapworth-museum-of-geology
-srcHash: 'af214e9a2706'
+srcHash: '955208338951'
 title: 'Museo de Geología Lapworth: guía de viaje de Birmingham (4.7★)'
 description: En el edificio Aston Webb del campus de Edgbaston de la Universidad de Birmingham, a pocos minutos a pie de la estación University, se encuentra el Museo de Geología Lapworth. Con una valoración de 4.7★ (1,454 reseñas), aquí encontrará las opiniones de los visitantes, el horario y algunos consejos.
 quickAnswer: El Museo de Geología Lapworth (Lapworth Museum of Geology) ocupa parte del edificio Aston Webb, en el campus de Edgbaston de la Universidad de Birmingham, a pocos minutos a pie de la estación de tren University. Entre sus fondos destacan los fósiles silúricos de la caliza de Wenlock de Dudley, además de minerales, gemas y cristales. Para recorrerlo bastan una o dos horas. Abre de lunes a viernes de 10am a 4pm y los fines de semana de 12pm a 5pm. Toda la franja del fin de semana, de 12pm a 5pm, es el momento más tranquilo para visitarlo.
@@ -39,7 +39,7 @@ Calcule entre 60 y 90 minutos para la visita. Las familias necesitarán algo má
 
 El horario cambia el fin de semana. De lunes a viernes, el museo abre de 10am a 4pm. Los sábados y domingos abre y cierra más tarde, de 12pm a 5pm.
 
-El fin de semana es cuando hay más calma. Durante toda la franja de apertura del sábado y el domingo, de 12pm a 5pm, la afluencia se mantiene baja. Por eso, una tarde de fin de semana es la opción más sencilla para contemplar los fósiles sin prisas. Entre semana, en periodo lectivo, el campus bulle de estudiantes, y llegar a las 10am le permitirá aprovechar al máximo una jornada más corta.
+El fin de semana es cuando hay más calma. Las tardes de fin de semana la afluencia suele ser menor que entre semana. Por eso, una tarde de fin de semana es la opción más sencilla para contemplar los fósiles sin prisas. Entre semana, en periodo lectivo, el campus bulle de estudiantes, y llegar a las 10am le permitirá aprovechar al máximo una jornada más corta.
 
 ## Cómo llegar y moverse por el campus
 

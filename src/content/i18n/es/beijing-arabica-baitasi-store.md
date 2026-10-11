@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: beijing-arabica-baitasi-store
-srcHash: 'fa2294a98c97'
+srcHash: '9a6d1f418ece'
 title: '% Arabica Baitasi Store: guía de viaje de Pekín'
 description: '% Arabica Baitasi Store en Pekín, China, es un local nuevo y muy comentado: qué es, dónde queda y cómo visitarlo.'
 quickAnswer: '% Arabica Baitasi Store es una cafetería minimalista nacida en Kioto, instalada en el barrio de hutongs de Baitasi, en Pekín, a pocos pasos del Templo de la Estupa Blanca. Es conocida por su patio abierto de diseño francés, que conserva intacta la vieja estructura de madera y los muros de ladrillo gris, y forma parte de una pequeña ola de cafeterías de diseño que están revitalizando este antiguo barrio. Conviene ir un día laborable por la mañana si se quiere disfrutar del patio en soledad; antes de acercarse, conviene confirmar el horario vigente.'
@@ -18,7 +18,7 @@ faq:
     a: Se puede combinar con una visita al propio Templo de la Estupa Blanca y con un paseo por los callejones del hutong cercano, donde hay además otras tiendas de diseño independientes y cafeterías.
 ---
 
-No hay que esperar una carta amplia ni una propuesta gastronómica elaborada; en todo el mundo, % Arabica mantiene una oferta muy acotada: espresso, lattes y pocos asientos. Aquí el atractivo no está tanto en la variedad como en los quince minutos que se pasan con una taza en la mano en ese patio, viendo cómo la luz recorre el ladrillo antiguo.
+No hay que esperar una carta amplia ni una propuesta gastronómica elaborada; en todo el mundo, % Arabica mantiene una oferta muy acotada: espresso, lattes y poco más. Los asientos también son escasos. Aquí el atractivo no está tanto en la variedad como en los quince minutos que se pasan con una taza en la mano en ese patio, viendo cómo la luz recorre el ladrillo antiguo.
 
 El barrio se huele antes de verse la cafetería: ladrillo templado por el carbón, polvo de los callejones del hutong y el aroma tenue de incienso que llega desde el patio del Templo de la Estupa Blanca, a pocos minutos a pie. Después se dobla una esquina y el ladrillo gris da paso a un logotipo blanco con el símbolo "%", vidrio y madera clara: la estética característica de % Arabica, instalada de forma casi chocante en uno de los barrios más antiguos que sobreviven en Pekín.
 
@@ -40,7 +40,7 @@ Eso convierte a % Arabica en algo más parecido a una parada dentro de un paseo 
 
 ## Qué esperar en el interior
 
-No hay que esperar una carta amplia ni una propuesta gastronómica elaborada; en todo el mundo, % Arabica mantiene una oferta muy acotada: espresso, lattes y pocos asientos. Aquí el atractivo no está tanto en la variedad como en los quince minutos que se pasan con una taza en la mano en ese patio, viendo cómo la luz recorre el ladrillo antiguo.
+No hay que esperar una carta amplia ni una propuesta gastronómica elaborada; en todo el mundo, % Arabica mantiene una oferta muy acotada: espresso, lattes y poco más. Los asientos también son escasos. Aquí el atractivo no está tanto en la variedad como en los quince minutos que se pasan con una taza en la mano en ese patio, viendo cómo la luz recorre el ladrillo antiguo.
 
 Los asientos son limitados, como suele ocurrir en todas las sucursales de % Arabica. En una tarde despejada, el patio al aire libre se llena rápido de gente tan interesada en la arquitectura como en el café.
 

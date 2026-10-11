@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: cairns-cairns-aquarium
-srcHash: 'fc393f65aa49'
+srcHash: '06f1ea294e4f'
 title: 'Cairns Aquarium: guía de viaje (4.6★)'
 description: En el número 5 de Florence St, en Cairns City y a pocos pasos de la Esplanade, el Cairns Aquarium reúne más de 16.000 ejemplares repartidos en 9 ecosistemas, desde los ríos del interior hasta el arrecife. Con una valoración de 4.6★ (7466 reseñas), le contamos qué opinan los visitantes, sus horarios y algunos consejos.
 quickAnswer: A pocos pasos de la Esplanade, en el número 5 de Florence St (Cairns City), el Cairns Aquarium alberga más de 16.000 ejemplares repartidos en 9 ecosistemas que van de los ríos del interior al arrecife. Según nuestros datos de afluencia, el edificio registra menos público entre las 9:30 y las 15:30. Los fines de semana conviene evitar la franja de 11:00 a 14:00, que es la de mayor concurrencia.
@@ -38,7 +38,7 @@ El acuario abre todos los días de 9:30 a 15:30. Antes de ir, consulte la web of
 
 Nuestros datos de afluencia no dejan lugar a dudas. Entre semana, el número de visitantes se mantiene bajo durante toda la franja de 9:30 a 15:30, de modo que cualquier momento del día es bueno.
 
-Los fines de semana la cosa se complica. Procure no llegar entre las 11:00 y las 14:00, cuando los grupos familiares llenan las galerías y la cafetería se abarrota. Si va a primera hora de la mañana o a partir de las 14:00, tendrá más espacio frente al cristal para hacer fotos sin reflejos de otras personas.
+Los fines de semana la cosa se complica. Procure no llegar en las horas centrales del día, cuando los grupos familiares llenan las galerías y la cafetería se abarrota. Si va a primera hora de la mañana o a partir de las 14:00, tendrá más espacio frente al cristal para hacer fotos sin reflejos de otras personas.
 
 ## Cómo aprovechar mejor la visita
 

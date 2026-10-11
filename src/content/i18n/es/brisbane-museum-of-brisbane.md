@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: brisbane-museum-of-brisbane
-srcHash: 'c67d8bb30d7b'
+srcHash: 'a3922d91843a'
 title: 'Museo de Brisbane: guía de viaje (4.5★)'
 description: El Museo de Brisbane ocupa la planta 3 del Ayuntamiento de Brisbane, en 64 Adelaide St, frente a King George Square, en pleno centro de la ciudad, y abre todos los días de 10am a 5pm. Con una valoración de 4.5★ en 3,540 reseñas, aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
 quickAnswer: El Museo de Brisbane (Museum of Brisbane) se encuentra en la planta 3 del Ayuntamiento de Brisbane (Brisbane City Hall), en 64 Adelaide St, frente a King George Square y en el corazón del distrito central de negocios (CBD). Abre todos los días de 10am a 5pm. Los fines de semana, la franja más tranquila va de 10am a 11am, y es también el mejor momento para conseguir plaza en la visita a la torre del reloj.
@@ -56,7 +56,7 @@ El museo ofrece también visitas guiadas por el ayuntamiento, en las que se expl
 
 ## Reservar la torre antes de que se llene el día
 
-Como las plazas para la torre son limitadas, lo primero es asegurarse la suya. Estas son las claves para entrar sin perder tiempo:
+Como las plazas para la torre son limitadas, lo primero es asegurarse la suya. Estos son algunos pasos prácticos que le ayudarán:
 
 - **Reserve primero la torre del reloj.** Hágalo por internet o en el mostrador de recepción de la planta 3 en cuanto llegue. Después, recorra las salas mientras espera su turno.
 - **Consulte los precios en la fuente.** La entrada, las visitas y el posible coste de las exposiciones especiales figuran en la web oficial del museo y en recepción.

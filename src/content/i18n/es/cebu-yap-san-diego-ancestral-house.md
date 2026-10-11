@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: cebu-yap-san-diego-ancestral-house
-srcHash: '633d76bd2086'
+srcHash: 'a3dc6584d8a9'
 title: 'Casa Ancestral Yap-San Diego: guía de viaje de Cebú (4.4★)'
 description: En el distrito de Parián de Cebú, en 155 Mabini St, se conserva la Casa Ancestral Yap-San Diego, vivienda de un comerciante de finales del siglo XVII que abre todos los días de 9:00 a 19:00. Tiene 4.4★ (2,022 reseñas). Aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
 quickAnswer: En 155 Mabini St, dentro del distrito de Parián de la ciudad de Cebú, se levanta la Casa Ancestral Yap-San Diego. Esta vivienda de un comerciante data de finales del siglo XVII y abre todos los días de 9:00 a 19:00. Calcule entre 45 minutos y una hora para recorrerla. Lo ideal es llegar a las 9:00 un día laborable. Si va en fin de semana, evite la franja de 11:00 a 16:00, que es cuando más gente hay.
@@ -48,7 +48,7 @@ Desde allí se puede recorrer a pie el resto del Cebú antiguo:
 - **Casa Jesuita de 1730 (Jesuit House of 1730):** antigua residencia de los jesuitas de la época colonial, también en la zona del Parián
 - **Calle Colón (Colon Street):** considerada a menudo la calle más antigua de Filipinas, justo al otro lado del barrio
 
-Todo ello da para una cómoda media jornada a pie. Como la casa Yap-San Diego abre a las 9:00, lo lógico es empezar por ella.
+Todo ello da para una cómoda media jornada a pie. Empiece por la casa Yap-San Diego, ya que es la primera parada de este recorrido.
 
 ## Cómo evitar las aglomeraciones
 

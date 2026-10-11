@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: hobart-royal-tasmanian-botanical-gardens
-srcHash: '574fc581c02f'
+srcHash: 'ffb347db834b'
 title: 'Real Jardín Botánico de Tasmania: guía de viaje de Hobart'
 description: El Real Jardín Botánico de Tasmania (Royal Tasmanian Botanical Gardens) ocupa parte del Queens Domain de Hobart, en Lower Domain Road, a unos 2 km del centro de la ciudad, y abre todos los días de 8am a 5pm. Con una valoración de 4.7★ (7,810 reseñas), aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
 quickAnswer: El Real Jardín Botánico de Tasmania (Royal Tasmanian Botanical Gardens) se encuentra en el Queens Domain de Hobart, en Lower Domain Road, a unos 2 km del centro, y abre todos los días de 8am a 5pm. Entre semana reina la calma durante toda la jornada. Los fines de semana, en cambio, las horas más tranquilas van de 8am a 10am y la mayor afluencia se concentra entre 11am y 4pm.
@@ -46,7 +46,7 @@ Junto a la entrada principal de Lower Domain Road hay un aparcamiento. Las tarde
 
 Las puertas abren a las 8am y cierran a las 5pm todos los días de la semana. Tenga en cuenta que la última entrada no coincide con la hora de cierre, de modo que lo ideal es ir regresando hacia la salida hacia las 4:30pm.
 
-Entre semana el ambiente es tranquilo desde la apertura hasta el cierre, por lo que cualquier día laborable resulta una buena elección. Los fines de semana, las horas más apacibles van de 8am a 10am. Procure no llegar un sábado o un domingo entre las 11am y las 4pm: es entonces cuando se llenan las praderas, crece la cola de la cafetería y escasea el aparcamiento.
+Entre semana el ambiente suele ser más tranquilo en general, por lo que cualquier día laborable resulta una buena elección. Los fines de semana, las horas más apacibles van de 8am a 10am. Procure no llegar un sábado o un domingo entre las 11am y las 4pm: es entonces cuando se llenan las praderas, crece la cola de la cafetería y escasea el aparcamiento.
 
 Cada estación ofrece un paisaje distinto. En primavera, de septiembre a noviembre, el Jardín Japonés se cubre de flores y los parterres se llenan de bulbos. En otoño, hacia abril, los árboles de hoja caduca de las plantaciones de clima frío se tiñen de rojo y dorado. Los inviernos de Hobart son fríos, pero rara vez extremos, y el jardín permanece abierto todo el año.
 

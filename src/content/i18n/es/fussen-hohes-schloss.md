@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: fussen-hohes-schloss
-srcHash: 'fe2836a4d637'
+srcHash: '6dbce50b769b'
 title: 'Hohes Schloss: guía de viaje de Füssen (4.5★)'
 description: 'Sobre el casco antiguo de Füssen, a un corto paseo cuesta arriba desde la estación, se alza el Hohes Schloss, un castillo del gótico tardío con muros pintados en el patio, una galería de arte regional del siglo XVI y una torre con vistas al Lech y a los Alpes. 4.5★ (2,752 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Sobre el casco antiguo de Füssen, a un corto paseo cuesta arriba desde la estación, se alza el Hohes Schloss, un castillo del gótico tardío. Conserva muros pintados en el patio, una galería de arte regional del siglo XVI y una torre desde la que se contemplan el Lech y los Alpes. Abre de martes a domingo, de 10am a 5pm, y cierra los lunes. Durante el fin de semana hay mucha gente a lo largo de todo el horario de apertura, de 10am–5pm, así que conviene ir entre el martes y el viernes.
@@ -50,7 +50,7 @@ El inconveniente son los fines de semana. Sábados y domingos hay gente durante 
 
 ## Cómo recorrer el castillo
 
-Las salas de la galería se suceden una tras otra y los visitantes las recorren más o menos en el mismo orden. Si alguna está llena, siga adelante y vuelva después: cuando un grupo avanza, suele quedar espacio libre. La visita transcurre normalmente así:
+Las salas de la galería se suceden una tras otra y los visitantes las recorren más o menos en el mismo orden. Si alguna está llena, siga adelante y vuelva después: cuando un grupo avanza, suele quedar espacio libre. Estos son algunos datos prácticos que conviene saber:
 
 - **Entradas**: se compran en el propio castillo. Consulte los precios vigentes en la web oficial de los museos de Füssen o en la taquilla; aquí no figuran.
 - **Fotografía**: las normas pueden variar entre el patio y las galerías. Busque los carteles antes de sacar la cámara entre las tablas pintadas.

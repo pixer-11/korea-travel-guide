@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: canberra-australian-war-memorial
-srcHash: 'b126cec8f2fe'
+srcHash: 'e2122c2ea661'
 title: 'Memorial de Guerra Australiano (Australian War Memorial): guía de viaje de Canberra (4.8★)'
 description: 'En lo alto de Anzac Parade, en el barrio de Campbell (Canberra), el Memorial de Guerra Australiano reúne un santuario nacional y uno de los mayores museos del país, con entrada general gratuita. 4.8★ (14,612 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En lo alto de Anzac Parade, en el barrio de Campbell (Canberra), el Memorial de Guerra Australiano (Australian War Memorial) reúne un santuario nacional y uno de los mayores museos del país, con entrada general gratuita. Los días laborables entre las 10am y las 4pm son los más tranquilos; los fines de semana conviene evitar la franja de 11am–3pm, cuando hay más afluencia. Reserve al menos tres horas para la visita y quédese hasta el final de la jornada para asistir a la ceremonia del Last Post.
@@ -41,7 +41,7 @@ En las galerías situadas debajo y detrás se encuentran:
 
 Los datos de afluencia no dejan lugar a dudas: los días laborables entre las 10am y las 4pm son los más tranquilos. Los fines de semana procure no llegar entre las 11am y las 3pm. Es la hora punta, en la que el Salón de la Memoria y las grandes galerías de aviones se llenan de gente.
 
-Si va en sábado, llegue a la hora de apertura, recorra primero el Área Conmemorativa y deje las galerías para después. Como aquí no se indica el horario de apertura, consúltelo en la web oficial antes de ir.
+Si va en sábado, llegue a la hora de apertura, recorra primero el Área Conmemorativa y deje las galerías para después. Consulte el horario de apertura vigente en la web oficial antes de ir.
 
 Todos los días, a la hora del cierre, se celebra en el Área Conmemorativa la ceremonia del Last Post (Last Post Ceremony). En ella se relata la historia de una de las personas inscritas en la Lista y a continuación interviene un corneta. El acto atrae a su propio público, así que, si desea situarse en primera fila, acuda con antelación al Estanque de la Reflexión.
 

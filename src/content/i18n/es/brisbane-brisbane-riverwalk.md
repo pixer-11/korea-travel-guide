@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: brisbane-brisbane-riverwalk
-srcHash: '4a03ac86d12c'
+srcHash: '17250a50ebe5'
 title: 'Brisbane Riverwalk: guía de viaje'
 description: Desde el extremo de Eagle Street, en el centro de Brisbane, el Brisbane Riverwalk bordea el río Brisbane hasta New Farm y pasa por Howard Smith Wharves y el Story Bridge.
 quickAnswer: Desde el extremo de Eagle Street, en el centro de Brisbane, el Brisbane Riverwalk bordea el río Brisbane hasta New Farm y pasa por Howard Smith Wharves y el Story Bridge. Es gratuito y cuenta con carriles independientes para peatones y ciclistas. El trayecto de ida lleva entre 45 minutos y 1,5 horas. Conviene recorrerlo hacia el atardecer, cuando los últimos rayos del sol iluminan los acantilados de Kangaroo Point (Kangaroo Point Cliffs), en la orilla opuesta.
@@ -24,7 +24,7 @@ Pocas formas hay tan sencillas de comprender la disposición de Brisbane. No cue
 
 ## El recorrido
 
-El paseo arranca en la ciudad en torno a Eagle Street, concretamente en la dirección 45D Eagle St, Brisbane City. Desde allí sigue la orilla del río aguas abajo.
+El paseo arranca en la ciudad en torno a Eagle Street. Desde allí sigue la orilla del río aguas abajo.
 
 Camino de New Farm se pasa por los siguientes lugares:
 

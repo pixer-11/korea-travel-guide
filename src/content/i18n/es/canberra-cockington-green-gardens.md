@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: canberra-cockington-green-gardens
-srcHash: '385c90b0257f'
+srcHash: '2119c3339532'
 title: 'Cockington Green Gardens: guía de viaje de Canberra (4.4★)'
 description: En el 11 de Gold Creek Rd, en Nicholls, dentro del distrito de Gold Creek al norte de Canberra, Cockington Green Gardens reúne desde hace décadas un pueblo en miniatura y un parque ajardinado. Con 4.4★ en 4,222 reseñas, aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
 quickAnswer: En el 11 de Gold Creek Rd, en Nicholls, dentro del distrito de Gold Creek al norte de Canberra, se encuentra Cockington Green Gardens, un veterano pueblo en miniatura rodeado de un parque ajardinado. Para recorrer las maquetas y los jardines y hacer una parada en la cafetería conviene reservar entre una hora y media y dos horas. Si busca tranquilidad, elija un día laborable, cuando el parque está apacible de 9:30am a 5pm. Evite en cambio los fines de semana entre las 10am y las 4pm, que es cuando se concentra más gente.
@@ -64,7 +64,7 @@ Los datos de afluencia son muy fáciles de aprovechar. De lunes a viernes el par
 
 Los fines de semana la situación cambia. Procure no llegar entre las 10am y las 4pm un sábado o un domingo. Es la franja de mayor afluencia: las familias abarrotan los senderos, se forma cola en el tren y la gente se agolpa ante las maquetas más fotografiadas.
 
-En fin de semana, el momento tranquilo va de 4:30pm a 5pm. No disponemos de horarios confirmados, así que consulte en la web oficial la hora de cierre de ese día antes de contar con una visita a última hora. Sería una pena conducir hasta allí y encontrarse la puerta cerrada a las 4:45pm.
+En fin de semana, el momento tranquilo suele llegar más avanzada la tarde, cerca de la hora de cierre. No disponemos de horarios confirmados, así que consulte en la web oficial la hora de cierre de ese día antes de contar con una visita a última hora. Sería una pena conducir hasta allí y encontrarse la puerta cerrada a las 4:45pm.
 
 ## Cómo recorrer los jardines
 

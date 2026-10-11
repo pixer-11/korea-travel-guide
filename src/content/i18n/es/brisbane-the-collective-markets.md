@@ -1,15 +1,15 @@
 ---
 lang: es
 slug: brisbane-the-collective-markets
-srcHash: '5e7a54125e03'
+srcHash: '019377f6cc71'
 title: 'The Collective Markets: guía de viaje de Brisbane (4.2★)'
 description: En Little Stanley Street, en pleno South Bank (South Brisbane), The Collective Markets reúne artesanía, joyería, arte, decoración y ropa de creadores locales el viernes de 5–9pm, el sábado de 10am–9pm y el domingo de 9am–4pm. Con 4.2★ (1,270 reseñas), aquí encontrará la opinión de los visitantes, los horarios y consejos prácticos.
-quickAnswer: The Collective Markets ocupa Little Stanley Street, en South Bank (South Brisbane). Allí se venden artesanía, joyería, arte, artículos para el hogar y ropa de fabricación local el viernes de 5–9pm, el sábado de 10am–9pm y el domingo de 9am–4pm. De lunes a jueves permanece cerrado. Como los fines de semana la mayor afluencia se concentra entre las 9am y las 9pm, la tarde del viernes es la única sesión que queda fuera de esa franja.
+quickAnswer: The Collective Markets ocupa Little Stanley Street, en South Bank (South Brisbane). Allí se venden artesanía, joyería, arte, artículos para el hogar y ropa de fabricación local el viernes de 5–9pm, el sábado de 10am–9pm y el domingo de 9am–4pm. De lunes a jueves permanece cerrado. Como las sesiones del sábado y del domingo suelen estar concurridas de principio a fin, la tarde del viernes es la única que escapa a esa afluencia.
 faq:
   - q: ¿Qué horario tiene The Collective Markets?
     a: Abre el viernes de 5:00–9:00pm, el sábado de 10:00am–9:00pm y el domingo de 9:00am–4:00pm. De lunes a jueves está cerrado. En torno a los días festivos el horario puede variar, así que conviene consultar los canales oficiales del mercado antes de desplazarse expresamente.
   - q: ¿Cuál es el momento más tranquilo para ir?
-    a: No se ha registrado ninguna franja tranquila durante el fin de semana. Los sábados y domingos, la mayor afluencia va de las 9am a las 9pm, lo que abarca todo el horario de apertura. La tarde del viernes, de 5–9pm, es la única sesión que escapa a ese pico, de modo que es la mejor opción si quiere curiosear con holgura.
+    a: No se ha registrado ninguna franja tranquila durante el fin de semana. Las sesiones del sábado y del domingo suelen estar concurridas de principio a fin. La tarde del viernes, de 5–9pm, es la única sesión que escapa a ese pico, de modo que es la mejor opción si quiere curiosear con holgura.
   - q: ¿Cómo se llega a The Collective Markets?
     a: El mercado se encuentra en Little Stanley Street, en South Bank (South Brisbane). A pie, puede cruzar el puente Victoria (Victoria Bridge) desde Queen Street o el puente Goodwill (Goodwill Bridge) desde el Jardín Botánico. También tiene la opción de tomar el tren hasta las estaciones de South Bank o South Brisbane, el autobús hasta la estación Cultural Centre de la red de carriles bus, o bien uno de los ferris fluviales hasta South Bank.
   - q: ¿Cuánto tiempo conviene dedicarle?
@@ -75,9 +75,9 @@ Los precios no son uniformes. Cada artesano fija los suyos y suele indicarlos en
 
 ## Cómo esquivar las aglomeraciones del fin de semana
 
-Las cifras no dejan lugar a dudas. Los fines de semana, la mayor afluencia se registra entre las 9am y las 9pm, es decir, durante todo el horario de apertura del sábado y del domingo. No existe, por tanto, ninguna franja tranquila a la que apuntar.
+Las cifras no dejan lugar a dudas. Tanto la sesión del sábado como la del domingo suelen estar concurridas de principio a fin, por lo que no existe una franja tranquila fiable en ninguno de los dos días del fin de semana.
 
-Si busca espacio para curiosear y tiempo para charlar con los vendedores, la tarde del viernes es la única sesión fuera de ese margen, lo que la convierte en la apuesta más segura para una visita sosegada. Si solo puede acudir en fin de semana, cuente con aceras abarrotadas y organícese en consecuencia.
+Si busca espacio para curiosear y tiempo para charlar con los vendedores, la tarde del viernes es la única sesión que escapa a esa afluencia, lo que la convierte en la apuesta más segura para una visita sosegada. Si solo puede acudir en fin de semana, cuente con aceras abarrotadas y organícese en consecuencia.
 
 En fin de semana, algunos trucos ayudan:
 

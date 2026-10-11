@@ -1,13 +1,13 @@
 ---
 lang: es
 slug: hamburg-miniatur-wunderland
-srcHash: '047c797e1e4f'
+srcHash: 'c506e89a0e60'
 title: 'Miniatur Wunderland: guía de viaje de Hamburgo (4.8★)'
 description: En la Speicherstadt de Hamburgo, a pocos pasos de la estación de metro Baumwall (U3), un almacén de ladrillo rojo situado en Kehrwieder 2 alberga en varias plantas Miniatur Wunderland, la maqueta ferroviaria más grande del mundo. Con una valoración de 4.8★ (115,062 reseñas), recogemos la opinión de los visitantes, los horarios y algunos consejos.
-quickAnswer: La maqueta ferroviaria más grande del mundo, Miniatur Wunderland, ocupa varias plantas de un almacén de ladrillo rojo en Kehrwieder 2, en plena Speicherstadt de Hamburgo y a pocos pasos de la estación de metro Baumwall (U3). Conviene comprar por internet una entrada con hora asignada y reservar entre tres y cuatro horas para la visita. Es mejor no acudir el fin de semana entre las 11am y las 11pm. Los momentos más tranquilos son el sábado a primera hora, desde la apertura de las 8am, y la última hora del viernes, de 6pm a 7pm.
+quickAnswer: La maqueta ferroviaria más grande del mundo, Miniatur Wunderland, ocupa varias plantas de un almacén de ladrillo rojo en Kehrwieder 2, en plena Speicherstadt de Hamburgo y a pocos pasos de la estación de metro Baumwall (U3). Conviene comprar por internet una entrada con hora asignada y reservar entre tres y cuatro horas para la visita. Es mejor no acudir el fin de semana desde media mañana hasta primera hora de la noche. Los momentos más tranquilos son el sábado a primera hora, desde la apertura de las 8am, y la última hora del viernes, de 6pm a 7pm.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar Miniatur Wunderland?
-    a: Entre semana, la hora con menos gente es de 6pm a 7pm, aunque solo puede aprovecharse el viernes, ya que de lunes a jueves el museo cierra a las 6pm. En fin de semana, lo ideal es llegar el sábado a la apertura de las 8am. La franja de mayor afluencia del fin de semana va de las 11am a las 11pm, así que conviene evitarla.
+    a: Entre semana, la hora con menos gente es de 6pm a 7pm, aunque solo puede aprovecharse el viernes, ya que de lunes a jueves el museo cierra a las 6pm. En fin de semana, lo ideal es llegar el sábado a la apertura de las 8am. La franja de mayor afluencia del fin de semana va desde media mañana hasta primera hora de la noche, así que conviene evitarla.
   - q: ¿Cómo se llega a Miniatur Wunderland en transporte público?
     a: Hay que tomar la línea U3 hasta Baumwall. Desde allí, tras cruzar el puente sobre el canal, se llega en menos de diez minutos a pie a Kehrwieder 2/Block D, en la Speicherstadt. También puede bajarse en Messberg (U1), aunque el paseo es algo más largo.
   - q: ¿Hace falta reservar las entradas con antelación?
@@ -46,7 +46,7 @@ El horario cambia mucho según el día:
 - **Sábado:** 8am–medianoche
 - **Domingo:** 8:30am–8pm
 
-Al tratarse de una de las atracciones más visitadas de Alemania, evitar las aglomeraciones es fundamental. Los fines de semana, la mayor afluencia se concentra entre las 11am y las 11pm. Si solo puede ir un sábado, llegue a la apertura de las 8am y recorra las salas grandes antes de la avalancha de media mañana. Entre semana, la franja más tranquila es de 6pm a 7pm.
+Al tratarse de una de las atracciones más visitadas de Alemania, evitar las aglomeraciones es fundamental. Los fines de semana, la mayor afluencia se concentra desde media mañana hasta primera hora de la noche. Si solo puede ir un sábado, llegue a la apertura de las 8am y recorra las salas grandes antes de la avalancha de media mañana. Entre semana, la franja más tranquila es de 6pm a 7pm.
 
 Como el viernes es el único día que abre hasta tan tarde, una entrada para la tarde de ese día le permitirá terminar la visita en la hora de mayor calma.
 

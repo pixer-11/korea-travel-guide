@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: busan-yongdusan-park
-srcHash: '47597b32ab93'
+srcHash: 'a26164ffa264'
 title: 'Parque Yongdusan: Guía de viaje de Busan (4,3★)'
 description: El parque Yongdusan es el espacio verde en la colina de Busan situado en Jung-gu, conocido sobre todo por la Torre de Busan y sus vistas de la ciudad y el puerto. 4,3★ (6.575 reseñas) — lo que dicen los visitantes, horarios y consejos.
 quickAnswer: 'El parque Yongdusan es el espacio verde en la colina de Busan situado en Jung-gu, conocido sobre todo por la Torre de Busan y sus vistas de la ciudad y el puerto. Está abierto las 24 horas, así que aprovecha para ir temprano: los fines de semana el momento más tranquilo es entre las 7 y las 8 de la mañana, mientras que las mañanas y tardes de días de semana (7am–11pm) también se mantienen manejables. Evita la avalancha de 10am a 9pm los fines de semana si quieres disfrutar de las escaleras mecánicas y los miradores sin agobios.'
@@ -38,7 +38,7 @@ Como el parque nunca cierra, no hay puerta ni entrada para los terrenos en sí; 
 
 ## Qué ver una vez arriba
 
-La Torre de Busan es el punto de referencia obvio, con sus 129 metros de altura y visible desde buena parte del casco antiguo. El mirador ofrece una vista panorámica del puerto de Busan (Busan Harbor), las grúas contenedoras del puerto y, en días despejados, la silueta de Gwangalli y las colinas más allá.
+La Torre de Busan es el punto de referencia obvio, visible desde buena parte del casco antiguo. El mirador ofrece una vista panorámica del puerto de Busan (Busan Harbor), las grúas contenedoras del puerto y, en días despejados, la silueta de Gwangalli y las colinas más allá.
 
 Debajo de la torre, los senderos del parque están salpicados de monumentos que vale la pena detenerse a ver:
 
@@ -64,7 +64,7 @@ El parque Yongdusan es una de las atracciones más visitadas del centro de Busan
 
 - Ve temprano. Las mañanas de días de semana, o esa estrecha ventana de 7am a 8am los fines de semana, son tu mejor oportunidad de encontrar senderos vacíos.
 - Sáltate las escaleras si andas corto de tiempo: las escaleras mecánicas o el ascensor de Lotte Department Store te ahorran bastante esfuerzo.
-- Paga la entrada de la torre en la taquilla; se acepta tanto efectivo como tarjeta, y rara vez es necesario reservar con antelación fuera de las semanas de temporada alta.
+- Compra la entrada de la torre allí mismo; rara vez es necesario reservar con antelación fuera de las semanas de temporada alta.
 - Combínalo con Nampo-dong y el mercado Gukje, ambos a poca distancia caminando, para que la colina sea una parada más dentro de un recorrido más amplio y no una excursión aparte.
 - El error que comete la mayoría de los visitantes es llegar al mediodía en fin de semana esperando un paseo tranquilo por la colina: es el tramo más concurrido de toda la semana aquí.
 

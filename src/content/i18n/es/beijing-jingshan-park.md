@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: beijing-jingshan-park
-srcHash: '3fe3782e28bb'
+srcHash: '8425f3df16f9'
 title: 'Parque Jingshan: Guía de viaje de Pekín (4,6★)'
 description: 'El parque Jingshan se encuentra justo al norte de la Ciudad Prohibida, en el distrito de Xicheng, Pekín, y su colina central ofrece el mejor mirador sobre los tejados dorados del palacio. 4,6★ (1.527 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El parque Jingshan se encuentra justo al norte de la Ciudad Prohibida, en el distrito de Xicheng, Pekín, y su colina central ofrece el mejor mirador sobre los tejados dorados del palacio. El momento más tranquilo es entre las 7:00 y las 11:00, tanto entre semana como los fines de semana; conviene evitar el mediodía y hasta las 22:00 los fines de semana, cuando los senderos se llenan de gente. Conviene reservar entre 45 y 60 minutos para la subida y el pabellón mirador.
@@ -30,7 +30,7 @@ Si el tiempo apremia, conviene saltarse los pabellones laterales. Solo con Wanch
 
 La puerta sur del parque queda justo enfrente de la puerta Shenwumen (Puerta Norte) de la Ciudad Prohibida, al otro lado de la calle, por lo que resulta la parada natural tras visitar el palacio. La estación de Shichahai, de la Línea 8 del metro, está a 15 minutos a pie hacia el noroeste; la estación Beihai North, de la Línea 6, queda más cerca, a unos 10 minutos.
 
-El parque ocupa 57 acres, distribuidos de forma simétrica alrededor de la colina central. Más allá de las cimas, merece la pena buscar:
+El parque está distribuido de forma simétrica alrededor de la colina central. Más allá de las cimas, merece la pena buscar:
 
 - El palacio Chonghua y el pabellón Fuxiang, antiguos edificios del jardín imperial situados en el lado este
 - El sitio del árbol de acacia (locust tree), cerca de la puerta este

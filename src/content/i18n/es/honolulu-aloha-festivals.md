@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: honolulu-aloha-festivals
-srcHash: 'ae44374a9ebe'
+srcHash: 'cf1959e1e6e5'
 title: 'Aloha Festivals en Honolulu: fechas, entradas y recinto'
 description: Los Aloha Festivals de Honolulu se anunciaron para septiembre de 2026, el año de su 80.º aniversario, con la investidura de la Corte Real, la fiesta callejera de Waikīkī y el Desfile Floral.
 quickAnswer: 'Los Aloha Festivals, que en 2026 cumplían 80 años, estaban previstos para septiembre de ese año en Oʻahu. Honolulu concentraba sus citas más emblemáticas: la investidura de la Corte Real, una gran fiesta callejera en Waikīkī y el Desfile Floral (Floral Parade). El primer anuncio no incluía las fechas concretas, el recorrido del desfile ni la información sobre entradas. Buena parte de la celebración suele ser gratuita, incluido el desfile si se ve desde la calle. Las mayores aglomeraciones se forman a lo largo del recorrido y en la fiesta de Waikīkī, y los bordillos se llenan mucho antes del comienzo.'
@@ -61,6 +61,6 @@ Para la gente de la isla, el Desfile Floral es de esas citas en las que hay que 
 - En la fiesta callejera de Waikīkī conviene llevar efectivo para los puestos de comida, ya que en los más pequeños no siempre se acepta tarjeta.
 - Los locales no se disfrazan para el desfile, sino que lo viven con naturalidad. Es habitual llevar un lei de plumeria o de maile, que no se considera un disfraz.
 - En la investidura de la Corte Real, los cantos y el protocolo se viven con auténtico respeto. No es un momento para hacerse fotos, y el público guarda silencio durante las partes ceremoniales.
-- El error típico del turista es presentarse justo a la hora anunciada para el desfile, cuando los mejores sitios del bordillo ya están ocupados. Los locales toman posiciones al menos con una hora de antelación.
+- El error típico del turista es presentarse justo a la hora anunciada para el desfile, cuando los mejores sitios del bordillo ya están ocupados.
 
 Los días del festival, moverse a pie o en transporte público resulta más práctico que ir en coche. Con los cortes de tráfico, encontrar aparcamiento cerca del recorrido es una lotería, y mientras dura el desfile los autobuses se desvían para evitar la avenida Kalākaua.

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: florence-florence-marathon
-srcHash: 'b10685d46731'
+srcHash: '18062aad9dc9'
 title: 'Maratón de Florencia: fechas, inscripción y recorrido (Florencia)'
 description: El 29 November 2026 se celebra el Maratón de Florencia (Estra Firenze Marathon), que atraviesa el centro de la ciudad por la Piazza del Duomo, la Piazza della Signoria y el Ponte Vecchio y termina en la Piazza Santa Croce.
 quickAnswer: El 29 November 2026 se celebra el Maratón de Florencia (Estra Firenze Marathon). Su recorrido atraviesa el centro de la ciudad, pasa por la Piazza del Duomo, la Piazza della Signoria y el Ponte Vecchio y termina en la Piazza Santa Croce. La inscripción y los dorsales se gestionan en la web oficial de la carrera. Antes de reservar el viaje, consulte allí los horarios, la recogida de dorsales y las condiciones de participación.
@@ -26,7 +26,7 @@ La meta se sitúa en la Piazza Santa Croce. Esta plaza es un amplio rectángulo 
 
 ## Cómo llegar al recorrido
 
-La mayoría de los visitantes llega a Santa Maria Novella, la principal estación de tren de Florencia. Desde allí, el centro histórico se recorre cómodamente a pie, y hasta Santa Croce, al este, hay unos 20 a 25 minutos andando.
+La mayoría de los visitantes llega a Santa Maria Novella, la principal estación de tren de Florencia. Desde allí, el centro histórico se recorre cómodamente a pie, y Santa Croce, al otro lado del centro, queda a una distancia que puede recorrerse andando.
 
 - **Aeropuerto de Florencia (Peretola):** la línea T2 del tranvía lleva al centro y deja cerca de la estación.
 - **Aeropuerto de Pisa:** hay trenes regulares hasta Santa Maria Novella.
@@ -56,4 +56,4 @@ Consejos para el público:
 
 El café se toma a la manera local. En los bares, el espresso se bebe de pie en la barra, y en muchos locales primero se paga en la cassa (caja) y luego se entrega el tique en el mostrador. Sentarse a una mesa puede salir más caro.
 
-Para la cena posterior a la carrera, reserve mesa. Esa noche, las trattorie de los alrededores de Santa Croce y las del Oltrarno, al otro lado del río, se llenan de corredores. Para reponer fuerzas, nada como los clásicos toscanos: la bistecca alla fiorentina, la ribollita y la pappa al pomodoro. Reserve también un día para los Uffizi, pero compre la entrada por separado y con antelación.
+Para la cena posterior a la carrera, reserve mesa. Esa noche, las trattorie de los alrededores de Santa Croce y las del Oltrarno, al otro lado del río, se llenan de corredores y sirven platos clásicos de la cocina toscana. Reserve también un día para los Uffizi, pero compre la entrada por separado y con antelación.

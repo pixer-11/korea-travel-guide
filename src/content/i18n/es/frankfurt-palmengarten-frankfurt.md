@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: frankfurt-palmengarten-frankfurt
-srcHash: '93d862774837'
+srcHash: '6614991d7b55'
 title: 'Palmengarten: guía de viaje de Fráncfort (4.7★)'
 description: En plena Siesmayerstraße, en el barrio de Westend, el Palmengarten de Fráncfort es un jardín botánico del siglo XIX situado a pocos pasos de la estación de U-Bahn Westend (U6, U7). Con una valoración de 4.7★ (23,847 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y algunos consejos prácticos.
 quickAnswer: En plena Siesmayerstraße, en el barrio de Westend, el Palmengarten de Fráncfort es un jardín botánico del siglo XIX situado a pocos pasos de la estación de U-Bahn Westend (U6, U7). Entre semana reina la tranquilidad durante todo el horario de apertura, de 9am a 7pm. El fin de semana conviene llegar a las 9am y evitar la franja de 12pm a 6pm, que es la de mayor afluencia.
@@ -49,6 +49,6 @@ Este jardín es uno de los favoritos de las familias de Fráncfort, así que má
 
 - **Empiece por los invernaderos.** Nada más cruzar la entrada, diríjase al Tropicarium y a la Casa de las Palmeras. Allí es donde se forman las colas, mientras que las praderas exteriores absorben mucho mejor a la multitud.
 - **Consulte precios y actividades en internet.** Las tarifas vigentes figuran en la web oficial del Palmengarten y en la taquilla. En la web también aparecen las exposiciones de temporada de orquídeas y flores, que atraen a más público los días en que se celebran.
-- **No se salga de los caminos.** Los parterres son plantaciones científicas etiquetadas, no praderas para hacer pícnic. Los alemanes suelen respetar a rajatabla las normas de los jardines, y el personal le llamará la atención si pisa fuera del sendero.
+- **No se salga de los caminos.** Los parterres son plantaciones científicas etiquetadas, no praderas para hacer pícnic. El personal pide a los visitantes que no pisen los parterres y le llamará la atención si pisa fuera del sendero.
 - **Vístase por capas.** En los invernaderos tropicales hace calor y mucha humedad, así que tendrá que quitarse la chaqueta al entrar y volver a ponérsela al salir.
 - **Salga por la puerta del otro extremo.** Si abandona el recinto por el lado norte, entrará directamente en el Grüneburgpark. Es una buena forma de rematar la visita sin tener que volver por la entrada principal.

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: dubai-najwa-karam-live-in-dubai
-srcHash: '65edb971fdef'
+srcHash: 'a9497b8d45ef'
 title: 'Najwa Karam en vivo en Dubái: fecha, entradas y recinto (Dubái)'
 description: 'Najwa Karam en vivo en Dubái: el 2 de octubre de 2026, en el Coca-Cola Arena de City Walk (Dubái). Las entradas se vendieron a través de la plataforma oficial de venta del recinto.'
 quickAnswer: 'La fecha anunciada para Najwa Karam en vivo en Dubái era el 2 de octubre de 2026, con la gran estrella libanesa sobre el escenario del Coca-Cola Arena. El recinto se encuentra dentro de City Walk. Desde el centro de Dubái se llega con un trayecto corto en taxi o combinando el metro con un paseo. Las entradas se vendieron a través de la plataforma oficial de venta del recinto, con varias categorías de asientos: desde el nivel superior hasta las zonas preferentes junto al escenario.'
@@ -30,7 +30,7 @@ City Walk es un barrio cómodo de recorrer a pie, de edificios bajos y con calle
 
 ## Cómo llegar y dónde aparcar
 
-El Coca-Cola Arena cuenta con un aparcamiento propio de varias plantas, unido a City Walk. Sin embargo, en las noches de grandes conciertos se llena enseguida, y a la salida las colas pueden alargarse mucho. La estación de metro más cercana es Business Bay, en la Línea Roja (Red Line). Desde allí, City Walk no queda a un paseo directo: hace falta un trayecto adicional en taxi o en vehículo con conductor.
+El Coca-Cola Arena cuenta con un aparcamiento propio de varias plantas, unido a City Walk. Sin embargo, en las noches de grandes conciertos se llena enseguida, y a la salida las colas pueden alargarse mucho. City Walk no queda a un paseo directo de las estaciones de metro más cercanas, por lo que la mayoría de quienes se desplazan en metro necesitan igualmente un trayecto adicional en taxi o en vehículo con conductor para llegar al recinto.
 
 La mayoría del público llega en taxi o en vehículo con conductor hasta el punto de bajada de City Walk más próximo al recinto. Desde Downtown Dubai o Business Bay el trayecto suele ser corto, aunque al terminar el espectáculo miles de personas salen a la carretera al mismo tiempo.
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: adelaide-botanic-park
-srcHash: 'e03744132855'
+srcHash: 'da0b99c828e8'
 title: 'Botanic Park: guía de viaje de Adelaida (4.7★)'
 description: En el East End de Adelaida, sobre Plane Tree Drive, se extiende Botanic Park, una gran pradera abierta junto al Jardín Botánico y al zoológico de la ciudad. Con una valoración de 4.7★ (2,153 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
 quickAnswer: En el East End de Adelaida, sobre Plane Tree Drive, se extiende Botanic Park, una gran pradera abierta junto al Jardín Botánico de Adelaida (Adelaide Botanic Garden) y al zoológico de Adelaida (Adelaide Zoo). Su fama se debe a unas higueras de Moreton Bay centenarias y a los eventos que acoge, como el festival WOMADelaide y el cine al aire libre de verano. Entre semana reina la calma durante toda la jornada (8am–5pm). Los fines de semana conviene llegar entre las 9am y las 10am, ya que de 11am a 5pm el césped se llena.
@@ -65,7 +65,7 @@ En el parque rigen unas cuantas costumbres sencillas. Si las respeta, su visita 
 - **Llévese la basura.** Las papeleras se llenan rápido los fines de semana concurridos, y los pájaros darán con cualquier cosa que deje atrás.
 - **Deje sitio a los demás.** Las tardes de fin de semana con mucha gente, lo que se espera es que nadie acapare todo un tramo de sombra.
 
-El momento de la visita es lo que más influye. Entre semana, el parque se mantiene tranquilo de 8am a 5pm sin interrupción, así que podrá elegir la sombra que prefiera. Los fines de semana, en cambio, la situación es muy distinta. Procure no llegar después de las 11am un sábado o un domingo, porque desde esa hora hasta las 5pm los mejores sitios bajo las higueras ya estarán ocupados.
+El momento de la visita es lo que más influye. Entre semana, el parque se mantiene tranquilo, así que podrá elegir la sombra que prefiera. Los fines de semana, en cambio, la situación es muy distinta. Procure no llegar después de las 11am un sábado o un domingo, porque desde esa hora hasta las 5pm los mejores sitios bajo las higueras ya estarán ocupados.
 
 Si solo puede ir en fin de semana, llegue a la hora de apertura e intente estar allí entre las 9am y las 10am.
 

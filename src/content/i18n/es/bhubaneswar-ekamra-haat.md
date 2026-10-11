@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bhubaneswar-ekamra-haat
-srcHash: 'cc30c5dce6f2'
+srcHash: 'a6ce35a6ebdb'
 title: 'Ekamra Haat: Guía de viaje de Bhubaneswar (4,3★)'
 description: 'Ekamra Haat, en Bhubaneswar, es un bazar artesanal permanente al aire libre situado en Madhusudan Marg, en la Unidad 3 de Ekamra Vihar, donde los puestos de artesanos venden textiles de telar manual, pinturas y piezas de metal de Odisha. 4,3★ (9.257 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Ekamra Haat, en Bhubaneswar, es un bazar artesanal permanente al aire libre situado en Madhusudan Marg, en la Unidad 3 de Ekamra Vihar, donde los puestos de artesanos venden textiles de telar manual, pinturas y piezas de metal de Odisha. Abre todos los días de 11:00 a 21:00. El momento con menos gente es entre las 11:00 y las 12:00, tanto entre semana como los fines de semana, y la afluencia de público el fin de semana aumenta entre las 14:00 y las 21:00.
@@ -63,7 +63,7 @@ Cada puesto es independiente, así que las reglas cambian de una mesa a otra.
 - **Revise el tejido.** En el caso del ikat, dele la vuelta a la tela. En el ikat verdadero, sea doble o simple, el patrón se ve en ambos lados.
 - **Pida que se lo enrollen.** El pattachitra y las aplicaciones se conservan mejor enrollados que doblados. Los vendedores están acostumbrados a envolverlos para el viaje.
 
-Unas pocas palabras en oriya sirven de mucho. "Kete?" (¿cuánto cuesta?) arranca una sonrisa, igual que un simple "dhanyabad" (gracias) al despedirse.
+Unas pocas palabras en oriya sirven de mucho. Preguntar «¿cuánto cuesta?» en oriya arranca una sonrisa, igual que un simple "dhanyabad" (gracias) al despedirse.
 
 ## Cuando el haat se convierte en recinto de eventos
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: glasgow-riverside-museum
-srcHash: '30f204fcef2d'
+srcHash: '0f81f9053f87'
 title: 'Museo Riverside (Riverside Museum): guía de viaje de Glasgow (4.7★)'
 description: 'En el muelle de Pointhouse (Pointhouse Quay), en el barrio de Partick, donde el río Kelvin desemboca en el Clyde, se encuentra el Museo Riverside de Glasgow, a unos 10 o 15 minutos a pie de la estación de Partick. 4.7★ (21,209 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Museo Riverside se levanta en el muelle de Pointhouse (Pointhouse Quay), en el barrio glasgowiano de Partick, justo donde el río Kelvin se une al Clyde. Desde la estación de Partick se llega a pie en unos 10 o 15 minutos. Los días laborables hay poca gente durante todo el horario, de 10am a 5pm (los viernes abre a las 11am). Los fines de semana la mayor afluencia se concentra entre las 11am y las 5pm, así que, si va en sábado, conviene llegar a la apertura de las 10am.
@@ -71,6 +71,6 @@ Todos los días se cierra a las 5pm. Como el personal empieza a dirigir al públ
 
 ## Cuánto tiempo dedicarle
 
-Con dos horas se recorre la sala principal sin prisas. Si sube al Glenlee, añada unos 45 minutos más. Y si va con niños que descubren las pantallas interactivas y las calles, tres horas pueden pasar volando.
+Con dos horas se recorre la sala principal sin prisas. Si sube al Glenlee, añada unos 45 minutos más. Y si va con niños a los que las pantallas interactivas y las calles les fascinan, tres horas pueden pasar volando.
 
 Puede completar la visita con un paseo junto al Clyde o con Kelvingrove para pasar un día entero en el West End. El contraste entre ambos edificios es notable: Kelvingrove es de arenisca roja y data de 1901, mientras que Riverside, de metal plegado, llegó un siglo después.

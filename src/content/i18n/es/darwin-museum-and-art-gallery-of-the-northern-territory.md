@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: darwin-museum-and-art-gallery-of-the-northern-territory
-srcHash: '06866a69ac85'
+srcHash: 'c8a5eccc3e79'
 title: 'Museo y Galería de Arte del Territorio del Norte: guía de viaje de Darwin'
 description: En el 19 Conacher St de The Gardens, en Darwin, se encuentra el Museo y Galería de Arte del Territorio del Norte, junto al puerto y entre el centro de la ciudad y Fannie Bay. Tiene una valoración de 4.6★ (4035 reseñas). Aquí encontrará lo que opinan los visitantes, además de horarios y consejos.
 quickAnswer: En el 19 Conacher St de The Gardens, en Darwin, se encuentra el Museo y Galería de Arte del Territorio del Norte, junto al puerto y entre el centro de la ciudad y Fannie Bay. Abre todos los días de 10am a 4pm. Entre semana, la franja más tranquila va de 3pm a 4pm. Los fines de semana, en cambio, la mayor afluencia se da de 10am a 2pm. Lo ideal es dedicarle entre dos y tres horas una tarde entre semana.
@@ -29,7 +29,7 @@ Lo mejor es empezar por el arte. Las colecciones de los pueblos aborígenes y de
 Después del arte, la mayoría de los visitantes se dirige a estas salas:
 
 - **Ciclón Tracy.** Esta sala está dedicada a la tormenta que arrasó Darwin en la Nochebuena de 1974. En una sala de sonido a oscuras se reproduce una grabación del viento. Es un ruido que el visitante no olvida fácilmente.
-- **Sweetheart.** Se trata de un cocodrilo marino disecado de unos cinco metros de largo. En los años setenta se hizo famoso por atacar embarcaciones en los cursos de agua de la región del río Finniss.
+- **Sweetheart.** Se trata de un cocodrilo marino disecado de unos cinco metros de largo. En los años setenta se hizo famoso por atacar embarcaciones.
 - **Ciencias naturales.** Aquí se exponen fósiles y ejemplares de la fauna del Top End, desde especies marinas hasta aves.
 - **Sala marítima.** Recorre la historia de la navegación e incluye embarcaciones ligadas al pasado perlero y comercial de la región.
 

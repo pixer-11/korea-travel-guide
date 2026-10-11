@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: glasgow-cafe-gandolfi
-srcHash: '37230663a5ef'
+srcHash: '452d88fb1cc7'
 title: 'Cafe Gandolfi: guía de viaje de Glasgow (4.6★)'
 description: En el 64 de Albion Street, en la Merchant City de Glasgow, se encuentra Cafe Gandolfi, un bistró de larga fama. Con 4.6★ (1,785 reseñas), aquí encontrará la opinión de los visitantes, el horario y algunos consejos.
 quickAnswer: En el 64 de Albion Street, en plena Merchant City de Glasgow, se encuentra Cafe Gandolfi, un bistró de larga fama. De martes a sábado sirve desde el desayuno hasta la cena tardía. Los lunes y los domingos cierra a las 4pm. Si va en fin de semana, el momento más tranquilo es el sábado de 4pm a 5pm, y conviene evitar la franja de 2pm a 10pm.
@@ -22,7 +22,7 @@ faq:
 
 Lo primero que llama la atención es el mobiliario. Cafe Gandolfi abrió sus puertas en 1979 en un edificio de Albion Street que en otro tiempo formó parte del antiguo mercado del queso de Glasgow. Las sillas, las mesas y los bancos son obra de Tim Stead, escultor de la región escocesa de los Borders, que los talló en una madera maciza de formas orgánicas. Cada superficie parece esculpida, no ensamblada.
 
-Al levantar la vista se descubren unos techos altos y unas ventanas con cristales de colores. El ambiente recuerda al de un bistró de los de antes, no al de un hotel de diseño impecable. El local cuenta con bar completo, y los vegetarianos pueden elegir de verdad entre varias opciones en lugar de conformarse con un único plato testimonial. Los precios son moderados para el centro de Glasgow, y en la entrada puede consultarse la carta con los precios vigentes.
+Al levantar la vista se descubren unos techos altos y unas ventanas con cristales de colores. El ambiente recuerda al de un bistró de los de antes, no al de un hotel de diseño impecable. El local cuenta con bar completo, y los vegetarianos pueden elegir de verdad entre varias opciones en lugar de conformarse con un único plato testimonial. Los precios son moderados para el centro de Glasgow.
 
 ## Cómo llegar a Albion Street
 

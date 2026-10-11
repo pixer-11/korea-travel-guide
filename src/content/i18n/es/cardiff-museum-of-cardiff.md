@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: cardiff-museum-of-cardiff
-srcHash: '0fa30d78432d'
+srcHash: '3cbb76d2dbc6'
 title: 'Museo de Cardiff: guía de viaje (4.4★)'
 description: 'En pleno centro de Cardiff, el Museo de Cardiff ocupa la Antigua Biblioteca de The Hayes, justo enfrente de las calles comerciales de St David''s y a pocos minutos a pie de la estación de Cardiff Central. 4.4★ (912 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En pleno centro de Cardiff, el Museo de Cardiff (Museum of Cardiff) ocupa la Antigua Biblioteca (Old Library) de The Hayes, justo enfrente de las calles comerciales de St David's y a pocos minutos a pie de la estación de Cardiff Central. Sus expositores interactivos recorren la historia de la ciudad. Abre de lunes a sábado, de 10:00 a 16:00, y cierra los domingos. Calcule entre 60 y 90 minutos de visita y procure llegar antes de media tarde para que el cierre de las 16:00 no le obligue a salir con prisas.
@@ -65,7 +65,7 @@ Algunas costumbres prácticas:
 
 - **Consulte las condiciones de acceso** en la web oficial del museo antes de ir, ya que las exposiciones y los actos especiales pueden alterar la programación.
 - **Pague con tarjeta.** El pago sin contacto se acepta en casi todo el centro de Cardiff, incluidas la tienda y los puestos del mercado cercano.
-- **Al salir, almuerce en el Mercado de Cardiff.** Lo clásico es pedir los pastelitos galeses recién hechos en los puestos de plancha.
+- **Al salir, almuerce en el Mercado de Cardiff**, cuyos puestos ofrecen una buena variedad de opciones.
 - **Diga «diolch»** (gracias) si le apetece probar algo de galés. Tanto el personal como quienes le rodeen sabrán apreciarlo.
 
 ## Cuánto tiempo dedicarle

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: berlin-brandenburg-gate
-srcHash: 'b31698cd145c'
+srcHash: '13e3d8f1bb8f'
 title: 'Puerta de Brandeburgo: guía de viaje de Berlín (4.7★)'
 description: En la Pariser Platz, en pleno distrito berlinés de Mitte, se alza la Puerta de Brandeburgo. Con 4.7★ (190,364 reseñas), le contamos qué opinan los visitantes, cuándo ir y algunos consejos prácticos.
 quickAnswer: La Puerta de Brandeburgo se alza en la Pariser Platz, en el distrito berlinés de Mitte. Como monumento al aire libre, puede cruzarse gratis y a cualquier hora. La estación Brandenburger Tor (U5 y S-Bahn S1, S2, S25, S26) tiene la salida justo al lado. Para la puerta en sí bastan entre 30 y 45 minutos. Es uno de los lugares más visitados de Alemania, así que, si quiere fotografías sin aglomeraciones, venga a primera hora de la mañana o ya entrada la noche.
@@ -75,7 +75,7 @@ La plaza se reconstruyó tras la reunificación, y merece la pena recorrerla sin
 
 ## Adónde ir después
 
-La puerta se disfruta más como una parada dentro de un recorrido por el centro de Berlín. A pocos minutos a pie hacia el norte se encuentra el Reichstag, con su cúpula de cristal; para visitarla hay que registrarse previamente en la web del Bundestag. Un corto paseo hacia el sur le llevará al Monumento a los Judíos de Europa Asesinados, con su campo de 2,711 estelas de hormigón.
+La puerta se disfruta más como una parada dentro de un recorrido por el centro de Berlín. A pocos minutos a pie hacia el norte se encuentra el Reichstag, con su cúpula de cristal; para visitarla hay que registrarse previamente en la web del Bundestag. Un corto paseo hacia el sur le llevará al Monumento a los Judíos de Europa Asesinados, con su campo de estelas de hormigón.
 
 Al oeste de la puerta se abre el Tiergarten, y la Straße des 17. Juni conduce hasta la Columna de la Victoria. Hacia el este, Unter den Linden pasa ante la Universidad Humboldt y la Ópera Estatal camino de la Isla de los Museos.
 

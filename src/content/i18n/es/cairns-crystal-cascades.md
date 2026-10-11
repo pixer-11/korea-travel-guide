@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: cairns-crystal-cascades
-srcHash: 'd113b404c997'
+srcHash: '4fb3c245f902'
 title: 'Crystal Cascades: guía de viaje de Cairns (4.7★)'
 description: 'En Redlynch, a unos 20 minutos en coche del centro de Cairns, el arroyo Freshwater Creek forma Crystal Cascades, una sucesión de pequeñas cascadas y pozas de agua dulce en plena selva tropical. Se llega desde el aparcamiento situado al final de Redlynch Intake Road por un breve sendero pavimentado. 4.7★ (1,948 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En Redlynch, a unos 20 minutos en coche del centro de Cairns, el arroyo Freshwater Creek forma Crystal Cascades, una sucesión de pequeñas cascadas y pozas de agua dulce en plena selva tropical. Se accede por un breve sendero pavimentado que parte del aparcamiento situado al final de Redlynch Intake Road. Los fines de semana, la mayor afluencia se concentra entre las 9am y las 6pm. Según los datos, el único momento tranquilo del fin de semana es de 8pm a 10pm, ya de noche; por eso, si quiere bañarse, conviene ir entre semana o llegar antes de la hora punta diurna del fin de semana.
@@ -49,7 +49,7 @@ En los meses secos, más o menos de mayo a octubre, el caudal baja, el agua est�
 
 ## Cómo evitar las aglomeraciones del fin de semana
 
-Es un lugar de baño muy popular entre los vecinos, y los fines de semana se nota. Procure no llegar entre las 9am y las 6pm un sábado o un domingo: el aparcamiento se llena y las pozas próximas al inicio del sendero se abarrotan.
+Es un lugar de baño muy popular entre los vecinos, y los fines de semana se nota. Procure no llegar entre las 9am y las 8pm un sábado o un domingo: el aparcamiento se llena y las pozas próximas al inicio del sendero se abarrotan.
 
 El único momento tranquilo del fin de semana es de 8pm a 10pm. A esa hora ya ha anochecido en el desfiladero, así que se presta a un breve paseo con linterna, no a un baño. Para bañarse, lo mejor es ir entre semana o, si va en fin de semana, llegar temprano, antes de la avalancha.
 

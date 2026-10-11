@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: alice-springs-anzac-hill
-srcHash: 'ab1710f4f4a6'
+srcHash: 'c2620c11e150'
 title: 'ANZAC Hill: guía de viaje de Alice Springs (4.6★)'
 description: En el extremo norte del centro de Alice Springs se alza ANZAC Hill, un mirador gratuito coronado por un monumento a los caídos que se inauguró el Día de Anzac de 1934. Con 4.6★ (1,206 reseñas), reunimos aquí las opiniones de los visitantes, los horarios y algunos consejos.
 quickAnswer: En el extremo norte del centro de Alice Springs se alza ANZAC Hill, un mirador gratuito en lo alto de una colina. Lo corona un monumento a los caídos que se inauguró el Día de Anzac de 1934 y está abierto las 24 horas. El mejor momento para ir es el atardecer, cuando los MacDonnell Ranges se tiñen de color. Los fines de semana, las horas más tranquilas van de 7am a 9am. Se puede subir en coche hasta el aparcamiento de la cima o a pie por el empinado sendero Lions Walk, que parte de Wills Terrace.
@@ -42,7 +42,7 @@ Lleve agua para la subida, incluso en invierno. El camino carece de sombra y, en
 
 ## Cómo esquivar las multitudes
 
-Como la colina nunca cierra, usted elige cuándo ir. Eso sí, la afluencia sigue una pauta clara. Los fines de semana, la cima está concurrida de 9am a 9pm. Quien llegue en plena franja encontrará el aparcamiento lleno y gente a lo largo de toda la barandilla.
+Como la colina nunca cierra, usted elige cuándo ir. Eso sí, la afluencia sigue una pauta clara. Los fines de semana, la cima recibe un flujo constante de visitantes a lo largo del día. Quien llegue en plena franja encontrará el aparcamiento lleno y gente a lo largo de toda la barandilla.
 
 Los fines de semana, el momento más tranquilo va de 7am a 9am. A esas horas, el sol ilumina las montañas desde el este y, en los meses más cálidos, la temperatura todavía resulta soportable. Además, a primera hora la colina parece más un hallazgo apacible que una parada de autobuses turísticos.
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: frankfurt-main-tower
-srcHash: '649ae7c406b6'
+srcHash: '88667c353c4e'
 title: 'MAIN TOWER: guía de viaje de Fráncfort (4.6★)'
 description: 'Con sus 200 metros, el MAIN TOWER se alza en la Neue Mainzer Straße, en pleno distrito financiero de Fráncfort, y es el único rascacielos de la ciudad con un mirador público al aire libre en la azotea. Valoración de 4.6★ (7,571 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'En la Neue Mainzer Straße, en pleno distrito financiero de Fráncfort, se levanta el MAIN TOWER: un rascacielos de 200 metros y el único de la ciudad cuya azotea acoge un mirador público al aire libre. Entre semana, la franca más tranquila va de 7pm a 10pm, y los viernes y sábados el horario se alarga hasta las 11pm. Si sube tarde, verá el perfil urbano iluminado con muy poca gente alrededor.'
@@ -36,7 +36,7 @@ Venir en coche no es buena idea. El distrito financiero está muy congestionado,
 
 ## El control tipo aeropuerto antes del ascensor
 
-La visita no empieza arriba, sino a pie de calle. Como se trata de la torre de un banco en pleno funcionamiento, los visitantes deben pasar un control de seguridad muy parecido al de un aeropuerto: el equipaje pasa por un escáner y las personas, por un arco detector.
+La visita no empieza arriba, sino a pie de calle. Como se trata de una torre de oficinas en pleno funcionamiento, los visitantes deben pasar un control de seguridad muy parecido al de un aeropuerto: el equipaje pasa por un escáner y las personas, por un arco detector.
 
 Lo mejor es ir ligero de carga. Las maletas grandes y los bultos voluminosos pueden dar problemas, así que deje el equipaje en el hotel o en las taquillas de la estación central (Hauptbahnhof). Las navajas y objetos similares, mejor no llevarlos.
 
@@ -73,7 +73,7 @@ El último acceso se permite antes de la hora oficial de cierre, y el tiempo pue
 
 Es uno de los lugares de Fráncfort con más reseñas, y el cuello de botella no está en la plataforma sino en el control de seguridad. Algunos hábitos ayudan:
 
-- **Compre la entrada en la web oficial, si existe esa opción.** El precio vigente figura allí y en la taquilla de la entrada. Reservar con antelación suele ahorrar tiempo de pie ante el mostrador.
+- **Compre la entrada en la web oficial, si existe esa opción.** Los precios figuran en la web y en la taquilla de la entrada. Reservar con antelación suele ahorrar tiempo de pie ante el mostrador.
 - **Lleve el bolso preparado para abrirlo** y reúna el móvil, las llaves y las monedas para que el escáner funcione con agilidad.
 - **Pague con tarjeta.** En Alemania los pequeños comercios siguen prefiriendo el efectivo, pero una gran atracción como esta acepta tarjeta en taquilla.
 - **Lleve una prenda de abrigo y sujétese el sombrero.** En la azotea hace bastante más frío y viento que a pie de calle, incluso en verano.

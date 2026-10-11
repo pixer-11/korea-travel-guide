@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: bangkok-namsu-namsu-shan-izakaya
-srcHash: '330148bf33ee'
+srcHash: '4cb2975d3eb1'
 title: Namsu（Namsu Shan Izakaya）：曼谷旅行指南
 description: Namsu（Namsu Shan Izakaya）由主厨Honey Rae Zenang主理，是一家把掸邦风味和日式居酒屋结合起来的餐厅。
 quickAnswer: Namsu（Namsu Shan Izakaya）由主厨Honey Rae Zenang主理，是一家把掸邦风味和日式居酒屋结合起来的餐厅。餐厅最近搬到了曼谷通罗（Thong Lor）附近的仰光茶馆（Rangoon Tea House）楼上。建议晚上去，金三角风味配上曼谷数一数二的长清酒单，很值得一试。因为刚搬过去不久，出发前最好先确认营业时间，并提前订位。
@@ -66,4 +66,4 @@ Namsu刚搬过去，地图上的定位和一些旧信息可能还是之前的地
 
 吃完饭，通罗和旁边的伊卡迈有很多酒吧，可以再去喝一杯，不少都是坐车一会儿就到。如果还想吃日本料理，这条巷子里到处都是。素坤逸一带的日料店从这里一直往西开到澎蓬（Phrom Phong）。
 
-在Namsu本身大约留出两个小时。这样可以吃上好几轮菜，也能好好研究清酒单，不用赶时间。
+在Namsu本身要留出充足的时间。这样可以吃上好几轮菜，也能好好研究清酒单，不用赶时间。

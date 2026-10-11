@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: belfast-black-sheep-coffee
-srcHash: 'b3db8c30db2f'
+srcHash: '7e86a35c52c3'
 title: 'Black Sheep Coffee: guía de viaje de Belfast (4.3★)'
 description: En pleno centro de Belfast, entre Cornmarket y el Albert Memorial Clock, se encuentra el Black Sheep Coffee de Ann Street. Con una valoración de 4.3★ (144 reseñas), le contamos qué opinan los visitantes, además de su horario y algunos consejos.
 quickAnswer: El Black Sheep Coffee de Ann Street está en el centro de Belfast, entre Cornmarket y el Albert Memorial Clock. Esta cadena de precios asequibles destaca por servir robusta, cuando la mayoría de las cafeterías de especialidad solo trabajan con arábica. Los fines de semana, la franja más tranquila va de 7am a 9am. Conviene evitarla de 11am a 6pm, cuando llega el aluvión de gente que sale de compras.
@@ -45,7 +45,7 @@ La carta es la habitual de la cadena: la conocida gama de cafés a base de espre
 - **Un flat white o un latte.** El cuerpo y la menor acidez del robusta resisten bien la leche.
 - **Un espresso solo.** Es la prueba más sincera si nunca ha probado el robusta a propósito.
 - **Café con hielo.** Es un clásico de la carta de la cadena, y en frío el robusta se percibe con claridad.
-- **Un gofre o un dulce.** Black Sheep es conocida por sus gofres dulces, que acompañan a su bollería; consulte la pizarra para ver qué ofrece este local.
+- **Un dulce o algo de bollería.** Consulte la pizarra para ver qué ofrece este local.
 
 Un aviso sobre la cafeína: el robusta suele contener bastante más que el arábica. Si es usted sensible a ella, una sola dosis le hará más efecto del habitual.
 

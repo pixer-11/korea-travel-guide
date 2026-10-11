@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: brighton-royal-pavilion
-srcHash: 'dbbd2509a8bb'
+srcHash: '5af6f30ca0f7'
 title: 'Pabellón Real (Royal Pavilion): guía de viaje de Brighton (4.6★)'
 description: 'Construido para el rey Jorge IV, el Pabellón Real de Brighton es un palacio costero de estilo Regencia que luce cúpulas bulbosas y minaretes en el exterior, mientras que en su interior abundan los dragones y los salones de inspiración china. 4.6★ (13,676 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Construido para el rey Jorge IV, el Pabellón Real (Royal Pavilion) de Brighton es un palacio costero de estilo Regencia que luce cúpulas bulbosas y minaretes en el exterior, mientras que en su interior abundan los dragones y los salones de inspiración china. Abre todos los días de 10am a 5:15pm. Si busca la menor afluencia posible, acuda un día laborable entre las 10am y las 11am y evite los fines de semana de 12pm a 5pm.
@@ -28,7 +28,7 @@ En sus orígenes, el edificio no era más que una modesta villa junto al mar des
 
 La visita recorre los salones de gala en un único sentido. La decoración cambia a cada paso, y el conjunto resulta más teatral que solemne.
 
-- **El Comedor de Gala (Banqueting Room)**: su gran atracción es la lámpara de araña. Pesa alrededor de una tonelada y cuelga de las garras de un dragón plateado, bajo un techo en el que se pintó un gigantesco platanero.
+- **El Comedor de Gala (Banqueting Room)**: una lámpara de araña que pesa alrededor de una tonelada cuelga de las garras de un dragón plateado, bajo un techo en el que se pintó un gigantesco platanero.
 - **La Sala de Música (Music Room)**: bajo una bóveda de escamas doradas penden lámparas de cristal con forma de flor de loto. En 1975 sufrió graves daños a causa de un incendio provocado, y su minuciosa restauración se prolongó durante años.
 - **La Galería Larga (Long Gallery)**: constituye el eje de la casa. Sus paredes están cubiertas de motivos de bambú pintados en rosa y azul, y las barandillas de la escalera, aunque imitan el bambú, son en realidad de hierro fundido.
 - **Los dormitorios de la planta superior**: más tranquilos y sobrios. Entre ellos figuran estancias vinculadas a la reina Victoria, que nunca llegó a encariñarse con el palacio.

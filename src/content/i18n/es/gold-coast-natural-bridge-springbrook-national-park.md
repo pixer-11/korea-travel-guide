@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: gold-coast-natural-bridge-springbrook-national-park
-srcHash: '44359a13d8a1'
+srcHash: 'c75f5252355d'
 title: 'Natural Bridge, Parque Nacional de Springbrook: guía de viaje de la Gold Coast'
 description: En el valle de Numinbah, junto a Bakers Rd y a una hora de coche de la Gold Coast hacia el interior, se encuentra Natural Bridge, en el Parque Nacional de Springbrook. Con una valoración de 4.8★ (4,439 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
 quickAnswer: Natural Bridge se encuentra en el Parque Nacional de Springbrook, junto a Bakers Rd, en el valle de Numinbah. Desde la Gold Coast se llega en aproximadamente una hora de coche hacia el interior. El mejor momento para visitarlo es de 7am a 8am, la franja más tranquila tanto entre semana como en fin de semana. Los fines de semana de 10am a 10pm hay mucha más gente, en parte porque por la noche se suman quienes acuden a ver las luciérnagas.
@@ -48,7 +48,7 @@ En el valle se pierde la cobertura móvil, así que descargue el mapa antes de s
 
 Natural Bridge es un lugar muy conocido y suele llenarse. La franja más tranquila es de 7am a 8am, cualquier día de la semana; a esa hora es frecuente tener el mirador para uno solo.
 
-No vaya en fin de semana entre las 10am y las 10pm. Es el periodo de mayor afluencia, porque coinciden los visitantes diurnos con quienes acuden de noche a ver las luciérnagas. Si lo que le interesa son las luciérnagas, una tarde entre semana estará menos concurrida que un sábado.
+No vaya en fin de semana. Es el periodo de mayor afluencia, porque coinciden los visitantes diurnos con quienes acuden de noche a ver las luciérnagas. Si lo que le interesa son las luciérnagas, una tarde entre semana estará menos concurrida que un sábado.
 
 Las normas para observar las luciérnagas son estrictas, pero fáciles de cumplir:
 

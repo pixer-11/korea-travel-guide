@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: brisbane-queensland-museum-kurilpa
-srcHash: 'a607974f26c6'
+srcHash: '7113c6b11fdb'
 title: 'Queensland Museum Kurilpa: guía de viaje de Brisbane (4.6★)'
 description: El Queensland Museum Kurilpa es el museo estatal de historia natural, ciencia y cultura. Con 4.6★ (10,309 reseñas), aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
 quickAnswer: El Queensland Museum Kurilpa es el museo de historia natural, ciencia y cultura del estado. Se encuentra en el Queensland Cultural Centre, en South Brisbane, a poca distancia a pie del centro (CBD) cruzando el puente Victoria (Victoria Bridge). Abre todos los días de 9:30am a 5pm. Entre semana, la franja más tranquila es de 4pm a 5pm. Los fines de semana conviene evitar el horario de 11am a 4pm, cuando registra la mayor afluencia.
@@ -43,7 +43,7 @@ Desde la ciudad, basta con cruzar a pie el Victoria Bridge desde el final de Que
 
 ## Cómo esquivar las multitudes del fin de semana
 
-El museo recibe muchos visitantes, y la afluencia sigue el ritmo del calendario escolar y de los fines de semana. Los sábados y domingos, lo mejor es no llegar entre las 11am y las 4pm, que es cuando se llenan las salas y el SparkLab. La opción más recomendable para el fin de semana consiste en presentarse en la puerta a la apertura, a las 9:30am, y subir a las plantas superiores antes de que lleguen las familias.
+El museo recibe muchos visitantes, y la afluencia sigue el ritmo del calendario escolar y de los fines de semana. Los sábados y domingos, lo mejor es no llegar entre las 11am y las 4pm, cuando las salas y el SparkLab registran la mayor afluencia. La opción más recomendable para el fin de semana consiste en presentarse en la puerta a la apertura, a las 9:30am, y subir a las plantas superiores antes de que lleguen las familias.
 
 Entre semana, la hora más tranquila va de 4pm a 5pm. Como el museo cierra todos los días a las 5pm, ese tiempo solo da para una o dos salas. Un buen plan es pasar la mañana en la vecina Queensland Art Gallery y acercarse después para disfrutar de una última hora sin aglomeraciones.
 

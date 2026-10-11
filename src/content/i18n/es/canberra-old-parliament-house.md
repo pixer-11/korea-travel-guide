@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: canberra-old-parliament-house
-srcHash: '44829e7ae7ba'
+srcHash: '03da7dda08f3'
 title: 'Antiguo Parlamento (Old Parliament House): guía de viaje de Canberra (4.6★)'
 description: En el barrio de Parkes, en Canberra, se alza el Antiguo Parlamento (Old Parliament House). Este edificio blanco de 1927 acogió durante 61 años el Parlamento Federal de Australia y hoy alberga el Museo de la Democracia Australiana. Tiene una valoración de 4.6★ (5,513 reseñas). Aquí encontrará las opiniones de los visitantes, el horario y varios consejos.
 quickAnswer: El Antiguo Parlamento (Old Parliament House) es un edificio blanco de 1927 situado en Parkes, en Canberra. Durante 61 años fue la sede del Parlamento Federal de Australia y hoy alberga el Museo de la Democracia Australiana (Museum of Australian Democracy). Abre todos los días de 9am a 5pm. Entre semana hay poca gente durante toda la jornada. Los fines de semana conviene no llegar entre las 12pm y las 3pm, que es cuando hay más afluencia.
@@ -75,4 +75,4 @@ Algunas costumbres le serán útiles:
 - **Siéntese en los escaños donde esté permitido.** Al ver la cámara desde el asiento de un diputado raso se comprenden las dimensiones de la sala.
 - **Deje los jardines de rosas para el final.** Tras unas horas a cubierto, son un lugar sosegado donde sentarse.
 
-En Australia lo habitual es pagar con tarjeta o sin contacto, y en la cafetería y la tienda funciona igual. No se espera propina.
+En la cafetería y la tienda se aceptan los medios de pago habituales. No se espera propina.

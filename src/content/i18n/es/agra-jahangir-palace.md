@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: agra-jahangir-palace
-srcHash: '0b463ccb3526'
+srcHash: 'c502232af4a5'
 title: 'Palacio de Jahangir: guía de viaje de Agra (4.5★)'
 description: 'Dentro del Fuerte de Agra, en la zona de Rakabganj, se alza el Palacio de Jahangir (Jahangiri Mahal), una gran residencia de arenisca roja a la que se accede por la Puerta de Amar Singh con la misma entrada del fuerte. 4.5★ (453 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Dentro del Fuerte de Agra, en la zona de Rakabganj, se alza el Palacio de Jahangir (Jahangiri Mahal), una gran residencia de arenisca roja a la que se accede por la Puerta de Amar Singh con la misma entrada del fuerte. Conviene dedicarle entre 30 y 45 minutos. Según el horario publicado, abre de 7:00 AM a 6:00 PM y cierra los viernes. Si quiere disfrutar de sus patios casi en soledad, lo mejor es ir a primera hora de la mañana.
@@ -22,7 +22,7 @@ faq:
 
 Ante la fachada, sobre el césped, descansa un gran cuenco de piedra labrada. Es el Hauz-i-Jahangiri, que se talló en un único bloque para el emperador Jahangir. Tras él se extiende un largo frente de arenisca roja con incrustaciones de mármol blanco. En cada esquina se alzan chhatris rematados por cúpulas, y en el centro se abre una profunda portada.
 
-El palacio lo mandó construir Akbar a finales del siglo XVI, sobre todo para las mujeres de la casa real. Es la mayor residencia del Fuerte de Agra y debe su nombre al hijo y heredero de Akbar.
+El palacio lo mandó construir Akbar a finales del siglo XVI como una de las principales residencias del Fuerte de Agra. Es la mayor residencia del Fuerte de Agra y debe su nombre al hijo y heredero de Akbar.
 
 ## Leer la piedra
 

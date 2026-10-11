@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: chamonix-telepherique-aiguille-du-midi
-srcHash: '5fa6f8795bc3'
+srcHash: '3fe29ddc357d'
 title: 'Teleférico de la Aiguille du Midi: guía de viaje de Chamonix (4.7★)'
 description: Desde el extremo sur del centro de Chamonix, el teleférico de la Aiguille du Midi sube en dos tramos hasta una cumbre de 3,842 metros situada frente al Mont Blanc. Con una valoración de 4.7★ (16,547 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
 quickAnswer: Desde el extremo sur del centro de Chamonix, el teleférico de la Aiguille du Midi (Téléphérique Aiguille du Midi) sube en dos tramos hasta una cumbre de 3,842 metros situada frente al Mont Blanc. Lo más recomendable es reservar por internet con antelación un billete con hora asignada y elegir la cabina más temprana posible, porque las mañanas suelen ser las más despejadas. Calcule media jornada para la visita. Haga el tiempo que haga en el pueblo, lleve ropa de abrigo de verdad y gafas de sol.
@@ -74,7 +74,7 @@ En verano funciona otra telecabina, la Panoramic Mont-Blanc, que cruza los glaci
 
 ## Cómo conseguir plaza y embarcar sin contratiempos
 
-Se trata de uno de los lugares más visitados de los Alpes franceses, y todo está organizado para gestionar grandes afluencias. Así funciona el sistema:
+Se trata de uno de los lugares más visitados de los Alpes franceses, y todo está organizado para gestionar grandes afluencias.
 
 - **Reserve por internet un billete con hora asignada.** El teleférico lo gestiona la Compagnie du Mont-Blanc, que vende en su página web billetes con hora de embarque; las tarifas vigentes se publican allí y en la taquilla. En las semanas de mayor afluencia del verano, las plazas de venta directa pueden agotarse antes de media mañana.
 - **Valore un pase para varios remontes.** Si va a pasar varios días, el Mont Blanc Multipass incluye este teleférico y otros del valle, entre ellos el tren de Montenvers hasta la Mer de Glace. Compárelo con los billetes sueltos en la página oficial.

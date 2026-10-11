@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: central-stone-slab-street
-srcHash: '1961b28313f1'
+srcHash: 'f8ae541f93be'
 title: 'Calle de las Losas de Piedra (Stone Slab Street): guía de viaje de Central (4.2★)'
 description: En Central, Hong Kong, se llama Calle de las Losas de Piedra (Stone Slab Street) a Pottinger Street, un callejón empinado y escalonado de losas de granito irregulares. Está flanqueado por pequeños puestos y sube desde Queen's Road Central hacia Hollywood Road. Tiene 4.2★ (997 reseñas). Aquí encontrará las opiniones de los visitantes, los horarios y algunos consejos.
 quickAnswer: En Central, Hong Kong, se conoce como Calle de las Losas de Piedra (Stone Slab Street) a Pottinger Street. Es un callejón empinado y escalonado, pavimentado con losas de granito irregulares y bordeado de pequeños puestos, que sube desde Queen's Road Central hacia Hollywood Road. Al tratarse de una vía pública, está abierta las 24 horas, y recorrerla lleva entre 15 y 30 minutos. Tai Kwun, Graham Street y la escalera mecánica de Mid-Levels quedan a pocos minutos, así que conviene combinar la visita con cualquiera de ellos.
@@ -67,7 +67,7 @@ A la hora del almuerzo, entre semana, los oficinistas de Central inundan las cal
 
 ## Una mañana completa
 
-La Calle de las Losas de Piedra se encuentra en pleno circuito a pie del Central histórico. Aun así, la mayoría de los visitantes apenas la conoce: suben por la escalera mecánica, a una manzana de distancia, y ni siquiera se asoman a los escalones. Dedique entre 15 y 30 minutos a la calle y después continúe:
+La Calle de las Losas de Piedra se encuentra en pleno circuito a pie del Central histórico. Aun así, la mayoría de los visitantes apenas la conoce: suben por la escalera mecánica, a una manzana de distancia, y ni siquiera se asoman a los escalones. Dedique un rato a recorrer la calle con calma y después continúe:
 
 - **Tai Kwun**: en Hollywood Road, el antiguo complejo de la Comisaría Central, ya restaurado, acoge hoy un centro de arte y patrimonio.
 - **Mercado de Graham Street**: uno de los mercados callejeros más antiguos de la ciudad, a un corto paseo hacia el oeste.

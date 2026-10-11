@@ -11573,5 +11573,32 @@
       "getting": "直岛本身没有机场，最近的机场是高松机场（TAK），从那里可以转乘巴士或电车前往渡轮码头。大多数游客选择乘坐渡轮前往直岛，可从冈山附近的宇野港出发（约20分钟），也可从四国的高松港出发（普通船约50分钟，高速船约25分钟），两条航线均抵达宫浦港。",
       "days": "如果想不紧不慢地游览主要美术馆、艺术之家以及一两个村落，建议安排约2天时间；若只想参观宫浦港附近的一两个景点，安排一整天也足够了。"
     }
+  },
+  "Okayama": {
+    "en": {
+      "blurb": "Okayama is best known for Korakuen, one of Japan's three great landscape gardens, and for its well-preserved castle town, yet it sits quietly in the shadow of flashier neighbours like Hiroshima and Osaka. It also serves as the gateway to Kurashiki's canal district and the art islands of the Seto Inland Sea, making it more of a strategic base than a single-stop destination.",
+      "getting": "Most travellers arrive by shinkansen on the Sanyo line, with Okayama Station sitting ~45 minutes from Shin-Osaka and ~3.5 hours from Tokyo. There is also a small regional airport, Okayama Momotaro Airport (OKJ), with domestic flights to Tokyo Haneda and a handful of other hubs, connected to the city centre by airport bus.",
+      "days": "Plan on 1 to 2 days: enough to cover Korakuen Garden, Okayama Castle and a half-day side trip to nearby Kurashiki."
+    },
+    "ko": {
+      "blurb": "오카야마는 일본 3대 정원 중 하나인 고라쿠엔과 옛 모습을 고스란히 간직한 성곽 마을로 가장 잘 알려져 있지만, 히로시마나 오사카처럼 좀 더 화려한 이웃 도시들에 가려져 조용히 존재감을 드러내지 않는 곳이다. 동시에 구라시키의 운하 거리와 세토 내해의 예술 섬들로 향하는 관문 역할도 하고 있어, 단독 목적지라기보다는 여행의 전략적 거점으로 삼기에 좋은 도시다.",
+      "getting": "대부분의 여행자는 산요 신칸센을 타고 오카야마에 도착하며, 오카야마역은 신오사카에서 약 45분, 도쿄에서 약 3시간 30분 거리에 있다. 작은 지방 공항인 오카야마 모모타로 공항(OKJ)도 있어 도쿄 하네다를 비롯한 몇몇 국내 주요 도시와 연결되며, 시내까지는 공항버스로 이동할 수 있다.",
+      "days": "1~2일 정도면 충분하다. 고라쿠엔 정원과 오카야마성을 둘러보고, 반나절 정도를 할애해 인근 구라시키까지 다녀올 수 있는 일정이다."
+    },
+    "ja": {
+      "blurb": "岡山といえば、日本三名園のひとつである後楽園と、情緒ある城下町として知られていますが、広島や大阪といった華やかな都市の陰に隠れて、意外と静かな存在です。実は岡山は、倉敷の美観地区や瀬戸内海のアートの島々への玄関口でもあり、一箇所だけの観光地というより、周辺を巡るための拠点として活躍してくれる街です。",
+      "getting": "多くの旅行者は山陽新幹線を利用して岡山入りします。岡山駅は新大阪からおよそ45分、東京からは約3.5時間の距離です。また、小規模な地方空港である岡山桃太郎空港(OKJ)もあり、東京羽田をはじめいくつかの主要都市への国内線が発着しています。空港からは市内中心部までリムジンバスで移動できます。",
+      "days": "滞在期間は1〜2日が目安です。後楽園や岡山城を巡り、半日ほどかけて近郊の倉敷まで足を延ばすには十分な時間です。"
+    },
+    "es": {
+      "blurb": "Okayama es conocida sobre todo por Korakuen, uno de los tres grandes jardines paisajísticos de Japón, y por su casco histórico de ciudad-castillo muy bien conservado, aunque suele pasar desapercibida a la sombra de vecinos más llamativos como Hiroshima y Osaka. La ciudad también funciona como puerta de entrada al barrio de los canales de Kurashiki y a las islas del arte del Mar Interior de Seto, por lo que es más una base estratégica que un destino para visitar de forma aislada.",
+      "getting": "La mayoría de los viajeros llega en shinkansen por la línea Sanyo: la estación de Okayama se encuentra a unos 45 minutos de Shin-Osaka y a unas 3,5 horas de Tokio. También hay un pequeño aeropuerto regional, el Aeropuerto Okayama Momotaro (OKJ), con vuelos domésticos a Tokio Haneda y a otros pocos destinos, conectado con el centro de la ciudad mediante autobús aeroportuario.",
+      "days": "Calcula entre 1 y 2 días: tiempo suficiente para recorrer el Jardín Korakuen, el Castillo de Okayama y hacer una excursión de medio día a la cercana Kurashiki."
+    },
+    "zh": {
+      "blurb": "冈山最为人熟知的,是日本三大名园之一的后乐园,以及保存完好的城下町风貌,不过相比广岛、大阪这些更耀眼的邻居,它的存在感显得低调得多。同时,冈山也是前往仓敷运河老街以及濑户内海艺术群岛的门户,与其说是一个值得专程打卡的目的地,它更像是一个理想的旅行据点。",
+      "getting": "大多数游客会乘坐山阳新干线抵达冈山:从新大阪出发约45分钟,从东京出发约3.5小时。冈山也有一座小型地方机场——冈山桃太郎机场(OKJ),提供往返东京羽田及其他少数枢纽城市的国内航班,机场巴士可直达市区。",
+      "days": "建议安排1到2天:足以游览后乐园、冈山城,并留出半天时间前往邻近的仓敷一日游。"
+    }
   }
 }

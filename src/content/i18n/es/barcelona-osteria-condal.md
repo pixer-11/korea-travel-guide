@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: barcelona-osteria-condal
-srcHash: '85349113a10e'
+srcHash: 'cd6e4412e931'
 title: 'Osteria Condal: dónde comer en Barcelona'
 description: Osteria Condal es uno de los restaurantes inaugurados en 2026 en Sant Antoni, en Barcelona.
 quickAnswer: Osteria Condal es uno de los restaurantes inaugurados en 2026 en Sant Antoni, en Barcelona. Ocupa el antiguo local de Tickets y Teatro, y al frente de su cocina está Paolo Casagrande, el chef que ostenta tres estrellas Michelin en Lasarte. Por ser una apertura reciente y muy solicitada, conviene consultar el horario vigente y reservar a través de los canales oficiales del restaurante antes de acudir.
@@ -56,7 +56,7 @@ En Barcelona se come tarde, y una hora que a usted le parezca temprana puede ser
 
 En los restaurantes de Barcelona lo habitual es pagar con tarjeta, y el pago sin contacto funciona prácticamente en todas partes. La propina no se espera como en Norteamérica. Lo normal es redondear la cuenta o dejar una pequeña cantidad si el servicio ha sido bueno, y nadie le reclamará más.
 
-Si no habla castellano ni catalán, un sencillo *bona nit* («buenas noches» en catalán) al entrar siempre se agradece. Para pedir la cuenta, diga *el compte, si us plau*. No se la traerán hasta que la pida, porque aquí la sobremesa forma parte de la comida.
+Si no habla castellano ni catalán, un sencillo *bona nit* («buenas noches» en catalán) al entrar siempre se agradece. Para pedir la cuenta, basta con un sencillo «la cuenta, por favor». No se la traerán hasta que la pida, porque aquí la sobremesa forma parte de la comida.
 
 ## Aprovechar la velada en el barrio
 

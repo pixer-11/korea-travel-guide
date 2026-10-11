@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: adana-world-rak-festival
-srcHash: 'cd22264d32e9'
+srcHash: '012d5c39e4a7'
 title: 'Festival Mundial del Rakı en Adana: fechas, entradas y lugar'
 description: 'El sábado 12 de diciembre de 2026, Adana celebra el Festival Mundial del Rakı: toda una noche de kebab, música y baile en plena calle, en torno al bazar de Kazancılar, en el casco antiguo.'
 quickAnswer: El sábado 12 de diciembre de 2026, Adana celebra el Festival Mundial del Rakı (World Rakı Festival). Durante toda la noche, las calles que rodean el bazar de Kazancılar, en el casco antiguo, se llenan de kebab, música y baile. La cita se repite cada año la noche del segundo sábado de diciembre. Antes de viajar, conviene consultar en la fuente oficial del festival el programa definitivo, los límites del recinto y la venta de entradas, si la hubiera.
@@ -26,7 +26,7 @@ Imagine el viejo corazón comercial de Adana, con sus edificios bajos de piedra 
 
 ## Fechas y entradas para 2026
 
-La edición de 2026 se celebra el sábado 12 de diciembre. La regla es fácil de recordar, porque el festival tiene lugar todos los años la noche del segundo sábado de diciembre. Como se prolonga toda la noche, la fiesta continúa pasada la medianoche hasta la mañana del domingo.
+La regla es fácil de recordar, porque el festival tiene lugar todos los años la noche del segundo sábado de diciembre. Como se prolonga toda la noche, la fiesta continúa pasada la medianoche hasta la mañana del domingo.
 
 Las entradas dependen de cómo organice su velada cada local. Las calles son públicas, pero los restaurantes y meyhanes de la zona gestionan sus propias mesas y reservas. Consulte en la fuente oficial del festival los horarios, los límites del recinto y las entradas. Si tiene un restaurante en mente, reserve mesa directamente con él.
 

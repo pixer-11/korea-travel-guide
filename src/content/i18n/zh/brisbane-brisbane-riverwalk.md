@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: brisbane-brisbane-riverwalk
-srcHash: '4a03ac86d12c'
+srcHash: '17250a50ebe5'
 title: 布里斯班河滨步道旅行指南
 description: 布里斯班河滨步道（Brisbane Riverwalk）从布里斯班市中心的鹰街（Eagle Street）一端出发，沿布里斯班河一路延伸，途经霍华德·史密斯码头和故事桥，最终抵达新农场（New Farm）。
 quickAnswer: 布里斯班河滨步道（Brisbane Riverwalk）从布里斯班市中心的鹰街（Eagle Street）一端出发，沿布里斯班河途经霍华德·史密斯码头（Howard Smith Wharves）和故事桥（Story Bridge），一直通到新农场（New Farm）。步道免费开放，行人和骑行者各走各的车道。单程需预留45分钟至1.5小时。最好赶在日落前后来走，那时对岸的袋鼠角悬崖（Kangaroo Point Cliffs）正映着最后一抹余晖。
@@ -24,7 +24,7 @@ faq:
 
 ## 步道走向
 
-步道的市区一端位于鹰街一带，登记地址为45D Eagle St, Brisbane City。从这里出发，步道贴着河岸向下游延伸。
+步道的市区一端位于鹰街一带。从这里出发，步道贴着河岸向下游延伸。
 
 往新农场方向走，沿途会经过：
 

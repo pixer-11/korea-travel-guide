@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bengaluru-chet-faker-a-love-for-strangers-tour
-srcHash: '9ddedb214640'
+srcHash: '763b6c7ff111'
 title: 'Chet Faker – A Love For Strangers Tour: fechas, entradas y recinto (Bengaluru)'
 description: La gira A Love For Strangers de Chet Faker tenía previsto pasar por Bengaluru el 20 de septiembre de 2026, como última parada tras Delhi NCR y Bombay.
 quickAnswer: La gira A Love For Strangers de Chet Faker tenía previsto pasar por Bengaluru el 20 de septiembre de 2026, cerrando así el recorrido tras las fechas de Delhi NCR (18 de septiembre) y Bombay (19 de septiembre). El recinto, el horario y los precios de las entradas para la fecha de Bengaluru dependían del promotor de la gira y de su socio de venta de entradas. La noche se anunciaba en torno al electro-soul introspectivo de su material más reciente, combinado con clásicos de la etapa de Thinking In Textures.
@@ -18,27 +18,9 @@ faq:
     a: Tanto Indiranagar como Koramangala mantienen cocinas abiertas hasta después de la medianoche los fines de semana, lo cual conviene para una comida después del show, ya que la cultura gastronómica nocturna de Bengaluru de por sí tiende a horarios más tardíos.
 ---
 
-Chet Faker no suele girar por India, así que un recorrido de tres ciudades que llegaba a Bengaluru el 20 de septiembre de 2026 era una fecha que los seguidores del electro-soul australiano marcaban de inmediato en el calendario. Estaba prevista como el show de cierre de la gira, después de Delhi NCR el 18 de septiembre y Bombay el 19 de septiembre.
-
-## Por qué Bengaluru se quedó con el cierre de la gira
-
-Los promotores suelen reservar para el final la ciudad con la base de fans más sólida, dejando que el boca a boca de las fechas anteriores genere impulso. Bengaluru ha recibido durante la última década un flujo constante de artistas internacionales de electrónica y alt-R&B, y su público para propuestas downtempo y de bajo marcado como la de Chet Faker es numeroso.
-
-Una fecha en fin de semana (domingo 20 de septiembre) también encajaba bien en una ciudad donde buena parte del público son profesionales que aprovechan el fin de semana para asistir a un concierto.
-
-## Qué implicaba "A Love For Strangers" para el repertorio
-
-El nombre de la gira remite a una etapa del catálogo de Chet Faker marcada por una producción más cálida y orgánica que la de sus primeros años, en la que combina instrumentación en vivo con su voz de barítono. El show se anunciaba como un recorrido por ambas etapas:
-
-- Clásicos más antiguos de glitch-soul, construidos sobre voces cortadas y ritmos escasos
-- Arreglos más recientes, con banda en vivo, guitarra y batería
-- Al menos un tramo intermedio extendido y con groove, típico de sus conciertos
-
-Nada de esto era un repertorio confirmado; simplemente refleja la forma que han tomado sus shows en vivo en los últimos años.
-
 ## Recinto y horarios
 
-La información disponible sobre la gira no detalla el recinto exacto de la fecha en Bengaluru. Las paradas de giras internacionales de esta magnitud suelen realizarse en uno de los recintos cerrados medianos o grandes de la ciudad, o en explanadas al aire libre preparadas para producciones internacionales. La dirección exacta, la hora de apertura de puertas y el horario límite dependían del promotor, y la ubicación del recinto es lo que determina qué zona de la ciudad conviene usar como base.
+La información disponible sobre la gira no detalla el recinto exacto de la fecha en Bengaluru. Las paradas de giras internacionales de esta magnitud suelen realizarse en uno de los recintos cerrados medianos o grandes de la ciudad, o en explanadas al aire libre preparadas para producciones internacionales. La dirección exacta, la hora de apertura de puertas y el horario límite dependían del promotor. Una vez que se conozca esa ubicación, será lo que determine qué zona de la ciudad conviene usar como base.
 
 ## Cómo conseguir entradas sin pagar de más
 

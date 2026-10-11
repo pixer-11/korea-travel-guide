@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: cairns-cairns-botanic-gardens
-srcHash: 'ebd9110b689c'
+srcHash: 'fc06cf8ba5c3'
 title: 'Jardín Botánico de Cairns: guía de viaje (4.7★)'
 description: 'El Jardín Botánico de Cairns se encuentra en 78-96 Collins Ave, en el barrio de Edge Hill, a unos 4km al norte del centro de Cairns, y abre todos los días de 7:30am a 5:30pm. 4.7★ (5,513 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Jardín Botánico de Cairns se encuentra en 78-96 Collins Ave, en el barrio de Edge Hill, a unos 4km al norte del centro de Cairns, y abre todos los días de 7:30am a 5:30pm. Conviene reservar entre dos y tres horas para recorrer el Flecker Garden, la pasarela hasta los Centenary Lakes y, si se anima, el sendero Red Arrow. Los fines de semana, la mayor afluencia se concentra entre las 8am y las 2pm, así que lo mejor es ir un sábado o domingo por la tarde, o bien entre semana.
@@ -47,7 +47,7 @@ Por esta zona discurre el Gondwana Evolutionary Trail, que recorre por orden la 
 
 El mejor ejercicio de Cairns empieza en el límite del jardín. El sendero Red Arrow asciende hacia el Mount Whitfield Conservation Park y describe un circuito de unos 1.3km, casi todo de escaleras empinadas y zigzags bajo la selva. A media subida, un mirador ofrece vistas sobre la ciudad en dirección a Trinity Inlet.
 
-El recorrido es corto, pero con la humedad tropical se suda de lo lindo. Lleve agua y calzado con buen agarre, y calcule entre 45 minutos y una hora. Quienes estén en buena forma pueden adentrarse más en el parque por el circuito Blue Arrow, mucho más largo. Muchos vecinos tienen el Red Arrow como su entrenamiento matutino habitual, así que, si sube justo después de la apertura de las 7:30am, compartirá los escalones con ellos.
+El recorrido es corto, pero con la humedad tropical se suda de lo lindo. Lleve agua y calzado con buen agarre, y calcule entre 45 minutos y una hora. Quienes estén en buena forma pueden adentrarse más en el parque por el circuito Blue Arrow, mucho más largo. Muchos vecinos tienen el Red Arrow como su entrenamiento matutino habitual, así que, si sube a primera hora de la mañana, cuente con compartir los escalones con ellos.
 
 ## Cómo llegar a Edge Hill
 

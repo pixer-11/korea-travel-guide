@@ -29981,11 +29981,11 @@
   "at": "2026-09-28T15:59:45.642Z"
  },
  "zh/agra-jahangir-palace": {
-  "hash": "c35984365dea",
+  "hash": "84f8a7c61e2b",
   "score": 1,
   "registerBreak": false,
-  "worst": "两代帝王的建筑放在一起对比，审美取向的变化一目了然。",
-  "at": "2026-09-28T16:00:12.891Z"
+  "worst": "阿格拉堡内的宫室以它规模最大。",
+  "at": "2026-10-11T00:24:36.091Z"
  },
  "zh/austin-neill-cochran-house-museum": {
   "hash": "af3c07d4c50b",
@@ -30009,11 +30009,11 @@
   "at": "2026-09-28T16:01:03.250Z"
  },
  "ko/agra-jahangir-palace": {
-  "hash": "d471eed260b7",
+  "hash": "4d5d69372135",
   "score": 1,
   "registerBreak": false,
-  "worst": "동쪽 테라스를 따라 걸어 보면 이 사암 궁전이 샤자한의 흰 대리석 누각들과 어떻게 나란히 서 있는지 알 수 있습니다.",
-  "at": "2026-09-28T16:01:08.751Z"
+  "worst": "이웃 문화의 어법으로 지은 무굴 궁전",
+  "at": "2026-10-11T00:24:24.593Z"
  },
  "ko/bangkok-post-malone-the-big-ass-stadium-world-tour": {
   "hash": "a102af9a309d",
@@ -30772,11 +30772,11 @@
   "at": "2026-09-30T16:27:05.586Z"
  },
  "es/adelaide-botanic-park": {
-  "hash": "5681cde11ef1",
+  "hash": "9c7b94c31b07",
   "score": 1,
   "registerBreak": false,
-  "worst": "sus raíces tabulares, de un tono gris, se despliegan por el suelo como si fueran hormigón vertido",
-  "at": "2026-10-01T10:02:03.999Z"
+  "worst": "El parque es el vecino abierto, casi sin vallas a la vista, del Jardín Botánico de Adelaida.",
+  "at": "2026-10-11T00:23:54.511Z"
  },
  "es/bocaue-my-chemical-romance-manila-concert": {
   "hash": "618939009315",
@@ -30786,11 +30786,11 @@
   "at": "2026-10-01T10:02:09.457Z"
  },
  "ja/adelaide-botanic-park": {
-  "hash": "fc8c7df0f897",
+  "hash": "8fdd11b3cab6",
   "score": 1,
   "registerBreak": false,
-  "worst": "生きている木なので、やさしく扱うよう公園から呼びかけられています。",
-  "at": "2026-10-01T10:02:17.068Z"
+  "worst": "モートンベイ・イチジクは小さな実を落とし、その実はピクニックシートにしみを作るうえ、鳥も寄せつけます。",
+  "at": "2026-10-11T00:24:02.110Z"
  },
  "ja/bocaue-my-chemical-romance-manila-concert": {
   "hash": "6df576990a7d",
@@ -30800,11 +30800,11 @@
   "at": "2026-10-01T10:02:18.351Z"
  },
  "ko/adelaide-botanic-park": {
-  "hash": "3baf5eeb9cd6",
-  "score": 1,
+  "hash": "97e3d2d7c6f3",
+  "score": 0,
   "registerBreak": false,
   "worst": "",
-  "at": "2026-10-01T10:02:23.123Z"
+  "at": "2026-10-11T00:24:17.995Z"
  },
  "ko/bocaue-lany-soft-world-tour": {
   "hash": "ddd3b431e455",
@@ -30814,11 +30814,11 @@
   "at": "2026-10-01T10:02:24.249Z"
  },
  "zh/adelaide-botanic-park": {
-  "hash": "dcdecc6dfa44",
+  "hash": "5c50aef61da5",
   "score": 1,
   "registerBreak": false,
-  "worst": "莫顿湾榕会掉落小果子，不仅会弄脏野餐垫，还会招来鸟儿。",
-  "at": "2026-10-01T10:02:26.843Z"
+  "worst": "这座公园则是它开阔通透、几乎感觉不到围栏的邻居。",
+  "at": "2026-10-11T00:24:30.946Z"
  },
  "zh/beijing-beijing-marathon": {
   "hash": "e530bde43afc",
@@ -31311,11 +31311,11 @@
   "at": "2026-10-05T07:59:49.213Z"
  },
  "ko/adana-world-rak-festival": {
-  "hash": "9f2e9b2abc25",
+  "hash": "54afc2c4d6e4",
   "score": 1,
   "registerBreak": false,
   "worst": "비행기는 이제 추쿠로바 국제공항(Çukurova International Airport)에 내립니다.",
-  "at": "2026-10-05T07:59:51.189Z"
+  "at": "2026-10-11T00:24:17.089Z"
  },
  "ko/antalya-international-antalya-piano-festival": {
   "hash": "a7f67490fc2a",
@@ -32513,5 +32513,40 @@
   "registerBreak": false,
   "worst": "想弄明白这座城市如何夹在群山与大海之间，没有比这里更好的地方了。",
   "at": "2026-10-10T20:26:21.958Z"
+ },
+ "es/adana-world-rak-festival": {
+  "hash": "81a0ee3cf831",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Ponerlo directamente sobre el rakı solo se considera de mal gusto.",
+  "at": "2026-10-11T00:23:47.535Z"
+ },
+ "es/agra-jahangir-palace": {
+  "hash": "ccdcc7167425",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "abre de 7:00 AM a 6:00 PM los lunes, martes, miércoles, jueves, sábados y domingos",
+  "at": "2026-10-11T00:23:59.519Z"
+ },
+ "ja/adana-world-rak-festival": {
+  "hash": "4e6cc47af32b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "自分のグラスの底を相手よりも少し低い位置で当てましょう。さりげなく敬意を示すしぐさです。",
+  "at": "2026-10-11T00:24:00.931Z"
+ },
+ "ja/agra-jahangir-palace": {
+  "hash": "125db6d7a5e2",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "さまざまな様式が混ざり合っていることこそ、この建物を訪れる理由です。",
+  "at": "2026-10-11T00:24:08.587Z"
+ },
+ "zh/adana-world-rak-festival": {
+  "hash": "77d818338609",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "阿达纳本是一座以烤肉闻名的城市，每年却有一个晚上会变成拉克酒之城。",
+  "at": "2026-10-11T00:24:25.759Z"
  }
 }

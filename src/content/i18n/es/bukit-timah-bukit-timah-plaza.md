@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bukit-timah-bukit-timah-plaza
-srcHash: '822a8390d35f'
+srcHash: '5ff7f72cce94'
 title: 'Bukit Timah Plaza: Guía de Viaje (4.0★)'
 description: 'Bukit Timah Plaza es un centro comercial de barrio de varios pisos ubicado en 1 Jalan Anak Bukit, en Bukit Timah, Singapur, junto a la estación de metro Beauty World de la Downtown Line. 4.0★ (1.990 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Bukit Timah Plaza es un centro comercial de barrio de varios pisos ubicado en 1 Jalan Anak Bukit, en Bukit Timah, Singapur, junto a la estación de metro Beauty World de la Downtown Line. Abre todos los días de 10:00 a 22:00 y cuenta con un supermercado, opciones de comida informal, tiendas especializadas y numerosos centros educativos. Entre semana está tranquilo a cualquier hora. Los fines de semana conviene evitar el tramo de 11:00 a 20:00 y visitarlo, en cambio, entre las 21:00 y las 22:00.
@@ -43,7 +43,7 @@ Esas aulas marcan el ambiente del lugar. Después de clase y durante los fines d
 
 ## Cómo elegir el momento de la visita según el horario escolar
 
-La afluencia de público sigue aquí el calendario escolar. Entre semana, el centro comercial permanece tranquilo durante todo su horario, de 10:00 a 22:00, por lo que cualquier hora es adecuada. Esto convierte a los días laborables en el momento más cómodo para recorrerlo con calma.
+La afluencia de público sigue aquí el calendario escolar. Entre semana, el centro comercial suele estar más tranquilo, por lo que la mayoría de las horas son adecuadas. Esto convierte a los días laborables en el momento más cómodo para recorrerlo con calma.
 
 Los fines de semana son distintos. Conviene evitar el horario de 11:00 a 20:00, cuando coinciden las clases de refuerzo, las compras familiares y la afluencia del almuerzo. Si el fin de semana es la única opción disponible, lo mejor es venir entre las 21:00 y las 22:00, la hora más tranquila antes del cierre a las 22:00.
 

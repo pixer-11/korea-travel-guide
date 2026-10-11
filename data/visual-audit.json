@@ -17787,6 +17787,36 @@
   "reason": "publish gate: Church facade visible with foreground plants, representative view",
   "at": "2026-10-06T14:21:33.394Z"
  },
+ "okayama-hayashibara-museum-of-art\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Gate_-_Hayashibara_Museum_of_Art_-_DSC01773.JPG/1920px-Gate_-_Hayashibara_Museum_of_Art_-_DSC01773.JPG": {
+  "slug": "okayama-hayashibara-museum-of-art",
+  "verdict": "MATCH",
+  "reason": "publish gate: Traditional Japanese building plausibly representing this museum's exterior",
+  "at": "2026-10-11T00:20:02.269Z"
+ },
+ "okayama-kurashiki-bikan-historical-quarter\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/161015_At_Kurashiki_Bikan_historical_quarter_Kurashiki_Okayama_pref_Japan01s3.jpg/3840px-161015_At_Kurashiki_Bikan_historical_quarter_Kurashiki_Okayama_pref_Japan01s3.jpg": {
+  "slug": "okayama-kurashiki-bikan-historical-quarter",
+  "verdict": "MATCH",
+  "reason": "publish gate: Canal, bridge, willows match Kurashiki Bikan Historical Quarter scenery",
+  "at": "2026-10-11T00:20:02.320Z"
+ },
+ "okayama-okayama-castle\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/%E5%B2%A1%E5%B1%B1%E5%9F%8E_Okayama_Castle_-_panoramio.jpg/3840px-%E5%B2%A1%E5%B1%B1%E5%9F%8E_Okayama_Castle_-_panoramio.jpg": {
+  "slug": "okayama-okayama-castle",
+  "verdict": "MATCH",
+  "reason": "publish gate: Castle visible in background, representative view of attraction",
+  "at": "2026-10-11T00:20:02.245Z"
+ },
+ "okayama-okayama-korakuen\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Okayama_Korakuen_%E5%B2%A1%E5%B1%B1%E5%BE%8C%E6%A8%82%E5%9C%92_-_panoramio.jpg/3840px-Okayama_Korakuen_%E5%B2%A1%E5%B1%B1%E5%BE%8C%E6%A8%82%E5%9C%92_-_panoramio.jpg": {
+  "slug": "okayama-okayama-korakuen",
+  "verdict": "MATCH",
+  "reason": "publish gate: Garden pathway with signage, plausible Korakuen scene",
+  "at": "2026-10-11T00:20:02.206Z"
+ },
+ "okayama-okayama-orient-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/160319_Okayama_Orient_Museum_Okayama_Japan02n.jpg/1920px-160319_Okayama_Orient_Museum_Okayama_Japan02n.jpg": {
+  "slug": "okayama-okayama-orient-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior view of distinctive museum building in Okayama",
+  "at": "2026-10-11T00:20:02.294Z"
+ },
  "okinawa-chatan-steam-seafood\u0001https://fastly.4sqi.net/img/general/original/11141029_9576yXdaVYCMS2fYlxQsix84hZbWpCYcOjV6ZOhFw1w.jpg": {
   "slug": "okinawa-chatan-steam-seafood",
   "verdict": "MATCH",

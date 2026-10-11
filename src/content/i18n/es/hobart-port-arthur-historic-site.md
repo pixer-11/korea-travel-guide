@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: hobart-port-arthur-historic-site
-srcHash: '1b2700b7b0bb'
+srcHash: 'f5ab79c213fa'
 title: 'Sitio Histórico de Port Arthur: guía de viaje desde Hobart (4.6★)'
 description: Antiguo presidio en la península de Tasmania (Tasman Peninsula), el Sitio Histórico de Port Arthur queda a unos 90 minutos en coche al sureste de Hobart por la Arthur Highway. Con una valoración de 4.6★ (11,611 reseñas), aquí encontrará la opinión de los visitantes, los horarios y algunos consejos.
 quickAnswer: En la península de Tasmania (Tasman Peninsula), a unos 90 minutos en coche al sureste de Hobart por la Arthur Highway, se conserva el antiguo presidio que hoy es el Sitio Histórico de Port Arthur. Conviene reservarle el día entero. Abre todos los días de 9am a 5pm, y quien llega hacia las 9am tiene tiempo de sobra para hacer el crucero por la bahía, recorrer las ruinas principales y visitar la Isla de los Muertos (Isle of the Dead) antes del cierre.
@@ -61,7 +61,7 @@ El recinto es amplio y las laderas están cubiertas de hierba. Algunos senderos 
 
 ## Respeto en el recinto
 
-Port Arthur recibe a muchísimos visitantes, obtiene siempre muy buenas valoraciones y se le trata como el monumento que es. Pero su dolor no se limita a la época de los presidiarios. En 1996 un tiroteo masivo acabó aquí con la vida de 35 personas. Donde estaba el Broad Arrow Café, lugar en el que murieron muchas de ellas, se encuentra hoy el Jardín Conmemorativo (Memorial Garden).
+Port Arthur recibe a muchísimos visitantes, obtiene siempre muy buenas valoraciones, pero merece más cuidado del que esa popularidad podría hacer pensar. Pero su dolor no se limita a la época de los presidiarios. En 1996 un tiroteo masivo acabó aquí con la vida de 35 personas. Donde estaba el Broad Arrow Café, lugar en el que murieron muchas de ellas, se encuentra hoy el Jardín Conmemorativo (Memorial Garden).
 
 Se pide a los visitantes que tengan presentes algunas normas:
 

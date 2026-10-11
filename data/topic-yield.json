@@ -54,8 +54,8 @@
    "hits": 3
   },
   "hidden gem": {
-   "attempts": 109,
-   "hits": 71
+   "attempts": 110,
+   "hits": 72
   },
   "breakfast": {
    "attempts": 48,
@@ -392,7 +392,27 @@
   "Uushigiin Uver Deer Stones": {
    "attempts": 1,
    "hits": 0
+  },
+  "Kibitsu Shrine": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Korakuen Garden": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Okayama Castle": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Hayashibara Museum of Art": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Okayama Orient Museum": {
+   "attempts": 1,
+   "hits": 1
   }
  },
- "updated": "2026-10-10T17:46:00.519Z"
+ "updated": "2026-10-11T00:20:02.333Z"
 }

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bangkok-iris-wild-iris
-srcHash: 'ae0ba2ba0659'
+srcHash: '7559672f5d69'
 title: 'Iris & Wild Iris: guía de viaje de Bangkok'
 description: Iris & Wild Iris es un bar y restaurante en azotea de inspiración riviera que ocupa los pisos 29 y 30 del So/ Bangkok, en North Sathorn Road, frente al parque Lumphini.
 quickAnswer: 'Iris & Wild Iris es un bar y restaurante en azotea de inspiración riviera que ocupa los pisos 29 y 30 del So/ Bangkok, en North Sathorn Road, frente al parque Lumphini. Conviene reservar con antelación y llegar antes del atardecer: así verá el parque con luz de día y, después, la ciudad iluminada. Como el local es nuevo, tanto el horario como la política de reservas pueden cambiar, de modo que es recomendable confirmar ambos directamente antes de ir.'
@@ -38,7 +38,7 @@ Para esta guía no se han podido confirmar la carta, la oferta de bebidas ni los
 
 ## La hora de Lumphini
 
-Lo mejor es planificar la visita en torno al anochecer. Por la cercanía de Bangkok al ecuador, el sol se pone casi a la misma hora durante todo el año, entre las seis y las seis y media aproximadamente. Por eso una sola reserva permite disfrutar de dos paisajes.
+Lo mejor es planificar la visita en torno al anochecer. Por la cercanía de Bangkok al ecuador, el sol se pone casi a la misma hora durante todo el año, entre las seis y las seis y media. Por eso una sola reserva permite disfrutar de dos paisajes.
 
 Llegue cuando todavía haya luz. A sus pies se despliegan el lago, la arboleda y los senderos para correr del parque, mientras las torres de Silom se agolpan en el lado sur. A medida que cae la luz, el verde se vuelve negro y las avenidas que lo bordean se encienden con hileras de faros.
 

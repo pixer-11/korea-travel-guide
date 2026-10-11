@@ -1,74 +1,74 @@
 ---
 lang: es
 slug: takayama-takayama-autumn-festival-hachiman-matsuri
-srcHash: 'fad860a8367a'
-title: 'Festival de Otoño de Takayama (Hachiman Matsuri): fechas, entradas y ubicación (Takayama)'
-description: El Festival de Otoño de Takayama (Hachiman Matsuri) se celebra en Takayama, Japón, del 9 al 10 de octubre de 2026. Qué es, cuándo y dónde se celebra, y cómo organizar la visita.
-quickAnswer: El Festival de Otoño de Takayama (Hachiman Matsuri) se celebra del 9 al 10 de octubre de 2026 en el casco antiguo de Takayama, con epicentro en el santuario Sakurayama Hachimangu y las calles de Kami-ninomachi. Se puede ver desde la calle de forma gratuita, y los mejores puntos de observación son los alrededores del santuario el primer día y la calle Ojin-dori durante el desfile de carrozas. Antes de viajar, conviene confirmar los horarios y el recorrido exacto de las carrozas en la web oficial de turismo de Takayama.
+srcHash: '3707fdc58c6b'
+title: 'Festival de Otoño de Takayama (Hachiman Matsuri): fechas, entradas y recinto (Takayama)'
+description: Las fechas anunciadas del Festival de Otoño de Takayama (Hachiman Matsuri), en Japón, eran el 9 y el 10 de octubre de 2026. El centro de la celebración era el santuario Sakurayama Hachimangu.
+quickAnswer: Las fechas anunciadas del Festival de Otoño de Takayama (Hachiman Matsuri) eran el 9 y el 10 de octubre de 2026. La fiesta se celebraba en el casco antiguo de Takayama, en torno al santuario Sakurayama Hachimangu y las calles de Kami-ninomachi. Verlo desde la calle era gratis. Las mejores vistas estaban junto al recinto del santuario el primer día y a lo largo de Ojin-dori cuando las carrozas desfilaban por la ciudad. El horario exacto de las carrozas dependía del programa de 2026.
 faq:
-  - q: ¿Cuáles son las fechas del Festival de Otoño de Takayama en 2026?
-    a: Se celebra el 9 y el 10 de octubre de 2026. El primer día se concentra en el recinto del santuario y por la noche tiene lugar un desfile de carrozas iluminadas; el segundo día es el desfile diurno principal por el casco antiguo.
-  - q: ¿Hace falta entrada para ver el festival?
-    a: No, presenciar el desfile de carrozas desde la calle es gratuito. Solo existen opciones de pago para ciertas exhibiciones de carrozas o, algunos años, para asientos reservados, algo que varía según el año, por lo que conviene consultar la web oficial.
-  - q: ¿Cuál es el mejor lugar para ver el desfile?
-    a: La calle Ojin-dori y la zona justo frente al santuario Sakurayama Hachimangu ofrecen las mejores vistas. Se recomienda llegar entre 60 y 90 minutos antes de la hora prevista de inicio, especialmente para la iluminación nocturna del primer día.
-  - q: ¿Cómo se llega a Takayama para el festival?
-    a: Se puede tomar el tren de larga distancia (limited express) de JR desde Nagoya (unas 2 horas) o desde Toyama (aproximadamente 1,5 horas), o un autobús interurbano desde Tokio, Kioto u Osaka. Desde la estación de Takayama, el santuario y el casco antiguo quedan a 15-20 minutos a pie.
-  - q: ¿Es lo mismo que el festival de primavera de Takayama?
-    a: No. El Hachiman Matsuri de octubre pertenece al santuario Sakurayama Hachimangu, mientras que el festival de primavera, el Sanno Matsuri de abril, pertenece a otro santuario (Hie Jinja) situado al otro lado del río.
+  - q: ¿Cuáles eran las fechas del Festival de Otoño de Takayama en 2026?
+    a: Del 9 al 10 de octubre de 2026. El primer día giraba en torno al recinto del santuario y a una procesión nocturna de carrozas iluminadas. El segundo día estaba reservado para el gran desfile diurno por el casco antiguo.
+  - q: ¿Hacía falta entrada para ver el festival?
+    a: No. Ver la procesión de carrozas desde la calle era gratis. Solo se pagaba por algunas exposiciones de carrozas o por los asientos reservados que se ofrecían ocasionalmente, y esto cambiaba de un año a otro.
+  - q: ¿Cuál era el mejor sitio para ver el desfile?
+    a: Las vistas más despejadas se tenían en Ojin-dori y justo delante del santuario Sakurayama Hachimangu. El público solía ocupar su sitio entre 60-90 minutos antes del comienzo previsto, sobre todo para la iluminación nocturna del primer día.
+  - q: ¿Cómo se llegaba a Takayama para el festival?
+    a: En tren expreso limitado de JR desde Nagoya (unas 2 horas) o desde Toyama (alrededor de 1.5 horas), o bien en autobús de carretera desde Tokio, Kioto u Osaka. Desde la estación de Takayama hasta el santuario y el casco antiguo había un paseo de 15-20 minutos.
+  - q: ¿Es la misma fiesta que el festival de primavera de Takayama?
+    a: No. El Hachiman Matsuri, en octubre, pertenece al santuario Sakurayama Hachimangu. El de primavera, el Sanno Matsuri de abril, corresponde a otro santuario, el Hie (Hie Jinja), situado en la otra orilla del río.
 ---
 
-Cada mes de octubre, once carrozas de madera con la altura de un edificio de dos plantas salen de sus almacenes en el casco antiguo de Takayama y toman las calles que rodean el santuario Sakurayama Hachimangu. Se trata del Hachiman Matsuri, la mitad otoñal de los dos grandes festivales de Takayama, que atrae a multitudes que acuden sobre todo por las carrozas, aunque estas y el santuario resultan aquí inseparables.
+Cada mes de octubre, once carrozas de madera tan altas como una casa de dos plantas salen de sus almacenes en el casco antiguo de Takayama y se adueñan de las calles que rodean el santuario Sakurayama Hachimangu. Es el Hachiman Matsuri, la mitad otoñal de las dos grandes fiestas de Takayama. Quienes acuden en masa vienen sobre todo por las carrozas y no tanto por el santuario, aunque aquí resulta imposible separar lo uno de lo otro.
 
-## Qué es realmente el festival
+## En qué consiste el festival
 
-El Hachiman Matsuri es el festival de otoño del santuario Sakurayama Hachimangu y se celebra todos los años el 9 y el 10 de octubre. Su equivalente de primavera, el Sanno Matsuri de abril, pertenece a un santuario distinto situado al otro lado del río, por lo que ambos festivales no son una repetición el uno del otro.
+El Hachiman Matsuri es la fiesta de otoño del santuario Sakurayama Hachimangu y se celebra cada año el 9 y el 10 de octubre. Su equivalente primaveral, el Sanno Matsuri de abril, pertenece a otro santuario situado en la otra orilla del río. No se trata, por tanto, de dos ediciones de la misma fiesta.
 
-Las carrozas, llamadas yatai, están lacadas, talladas y decoradas con herrajes y textiles que algunas familias han conservado durante siglos. Unas pocas llevan marionetas mecánicas, los karakuri, que actúan sobre la carroza durante el desfile, manejadas mediante hilos y palancas por titiriteros ocultos en su interior.
+Las carrozas reciben el nombre de *yatai*. Están lacadas y talladas, y las adornan piezas de metal y tejidos que algunas familias llevan siglos conservando. Unas pocas transportan *karakuri*, marionetas mecánicas que actúan en lo alto de la carroza durante la procesión. Las manejan titiriteros ocultos en su interior mediante cuerdas y palancas.
 
-Según el año y las condiciones meteorológicas, suelen participar entre nueve y once carrozas, ya que algunas permanecen resguardadas si amenaza lluvia. Conviene confirmar en la web oficial la lista de carrozas y el calendario de apariciones de cada año, pues puede cambiar cerca de la fecha del festival.
+Según el año y el tiempo, suelen salir nueve u once carrozas, ya que algunas permanecen a cubierto cuando amenaza lluvia. La lista de carrozas participantes puede cambiar en los días previos, de modo que la composición exacta de 2026 dependía de las condiciones de esas dos jornadas.
 
-## Fechas y ritmo de los días
+## Fechas y desarrollo de cada jornada
 
-En 2026 el festival tiene lugar el 9 y el 10 de octubre. El primer día se centra en el recinto del santuario, donde se reúnen las carrozas, y por la noche se suman la iluminación de las carrozas y los farolillos para un desfile nocturno.
+Las fechas anunciadas para 2026 eran el 9 y el 10 de octubre. El primer día se concentraba en el recinto del santuario, donde se reúnen las carrozas, y por la noche estaba prevista una procesión de carrozas iluminadas y faroles.
 
-El segundo día es el desfile diurno principal, cuando el conjunto de carrozas recorre las calles del casco antiguo acompañado de músicos, un santuario portátil (mikoshi) y asistentes vestidos con trajes tradicionales. Ambos días congregan grandes multitudes, así que conviene llegar con tiempo suficiente para encontrar un buen sitio en lugar de esperar acceder directamente a las vallas.
+El segundo día correspondía al gran desfile diurno. La procesión completa de carrozas recorría las calles del casco antiguo junto con músicos, un santuario portátil (*mikoshi*) y acompañantes con indumentaria tradicional. Las dos jornadas suelen atraer a multitudes, y los puestos de observación junto a las vallas se llenan mucho antes de que lleguen las carrozas.
 
-- Día 1 (9 de octubre): las carrozas se reúnen en el santuario; por la noche, iluminación y actuaciones de karakuri
-- Día 2 (10 de octubre): desfile diurno de carrozas por el casco antiguo y procesión del mikoshi
+- Día 1 (9 de oct.): reunión de carrozas en el santuario, iluminación nocturna y actuaciones de *karakuri*
+- Día 2 (10 de oct.): procesión diurna de carrozas por el casco antiguo y desfile del *mikoshi*
 
-Los horarios exactos de inicio varían ligeramente de un año a otro y dependen de los planes de contingencia por mal tiempo, por lo que conviene revisar el calendario oficial para conocer la programación hora a hora vigente.
+Las horas de inicio varían ligeramente de un año a otro y dependen de los planes alternativos en caso de mal tiempo, así que el horario detallado cambia en cada edición.
 
-## Cómo encontrar sitio sin necesidad de entrada
+## Un buen sitio sin necesidad de entrada
 
-No existe entrada para ver el desfile desde la calle: es un festival público y la gente se agolpa gratuitamente a lo largo del recorrido. Lo que sí tiene coste es el acceso para ver de cerca ciertas carrozas en los pabellones de exhibición, así como los asientos reservados si el ayuntamiento los habilita para el recorrido del desfile.
+Para ver la procesión desde la calle no se necesita entrada: es una fiesta pública y el público se agolpa gratis a lo largo del recorrido. Lo que sí tiene coste es contemplar de cerca algunas carrozas en las salas de exposición, así como los asientos reservados que el ayuntamiento instale en el recorrido, si los hay.
 
-- Mejor zona para ver el desfile gratis: la calle Ojin-dori y las calles frente al santuario Sakurayama Hachimangu
-- Conviene llegar al menos entre 60 y 90 minutos antes de la hora prevista de inicio para asegurar buena visibilidad
-- El acceso al santuario se satura especialmente justo antes de que se iluminen las carrozas la noche del primer día
+- Mejores puntos gratuitos: Ojin-dori y las calles situadas frente al santuario Sakurayama Hachimangu
+- Para tener buena visibilidad, el público suele instalarse entre 60-90 minutos antes del comienzo de la procesión
+- Los alrededores del acceso al santuario alcanzan su máxima aglomeración justo antes de que se iluminen las carrozas nocturnas del primer día
 
-Para quienes prefieran un asiento garantizado en lugar de estar de pie entre la multitud, conviene comprobar si el ayuntamiento o el santuario ofrecen ese año asientos reservados de pago, una opción que ha variado según los años y no está garantizada.
+Algunos años, el ayuntamiento o el santuario han ofrecido zonas de pago con asiento reservado, pero la oferta ha variado y no existe en todas las ediciones.
 
-## Karakuri: el espectáculo de marionetas dentro del desfile
+## *Karakuri*: el teatro de marionetas dentro del desfile
 
-Este es el detalle que distingue al festival de Takayama de un simple desfile de carrozas. Algunas yatai llevan karakuri ningyo, muñecos mecánicos que giran, bailan o se transforman durante la actuación, manejados por titiriteros que tiran de hasta treinta hilos desde el interior de la estructura de la carroza.
+Este es el detalle que distingue la fiesta de Takayama de un simple desfile de carrozas. Algunos *yatai* llevan *karakuri ningyo*, muñecos mecánicos que dan volteretas, bailan o se transforman en plena actuación. Desde el interior del armazón de la carroza, los titiriteros los accionan tirando de hasta treinta cuerdas.
 
-Las actuaciones de karakuri tienen lugar en puntos concretos del festival, normalmente cuando una carroza se detiene frente al santuario o en una parada designada del recorrido. Cada una dura solo unos minutos, así que quien quiera verlas debe situarse cerca del frente del público en una de esas paradas, en lugar de en mitad del recorrido, donde las carrozas simplemente van pasando.
+Las actuaciones de *karakuri* tienen lugar en momentos concretos del festival, normalmente cuando una carroza se detiene ante el santuario o en una parada señalada del recorrido. Cada una dura apenas unos minutos. Se aprecian mucho mejor desde las primeras filas en una de esas paradas que a mitad de la procesión, donde las carrozas se limitan a pasar.
 
-## El santuario Sakurayama Hachimangu y el entorno del casco antiguo
+## El santuario Sakurayama Hachimangu y el casco antiguo
 
-El punto central del festival es el santuario Sakurayama Hachimangu, situado en el extremo norte del distrito histórico y protegido del casco antiguo de Takayama. El propio santuario se encuentra a poca distancia cuesta arriba de las calles comerciales de Kami-ninomachi y Sanmachi Suji, donde antiguos comercios de madera de la era Edo albergan hoy fábricas de sake, tiendas de miso y establecimientos de artesanía.
+El eje de la fiesta es el santuario Sakurayama Hachimangu, en el extremo norte del casco antiguo protegido de Takayama. Se llega tras una breve subida desde las calles comerciales de Kami-ninomachi y Sanmachi Suji, donde las fachadas de madera de época Edo albergan hoy destilerías de sake, tiendas de miso y comercios de artesanía.
 
-Fuera de los días de festival, el santuario alberga también el Takayama Yatai Kaikan, un pabellón que exhibe durante todo el año, por rotación, varias de las carrozas de cerca. Visitar este pabellón antes o después del festival es una buena manera de estudiar con calma las tallas de las carrozas y los mecanismos de los karakuri, ya que durante el desfile en sí las carrozas están en movimiento y acordonadas.
+Fuera de los días de fiesta, en el recinto del santuario se encuentra también el Takayama Yatai Kaikan, una sala de exposiciones que muestra de cerca, por turnos y durante todo el año, varios *yatai*. Allí se pueden observar con calma las tallas de las carrozas y los mecanismos de los *karakuri*, algo imposible durante el desfile, cuando están en movimiento y separados del público por cordones.
 
 ## Cómo llegar a Takayama
 
-Takayama se encuentra en las montañas de la prefectura de Gifu, a la que se llega en tren de larga distancia (limited express) de JR desde Nagoya (unas 2 horas) o desde Toyama (aproximadamente 1,5 horas), o bien en autobús interurbano desde Tokio, Kioto y Osaka. Desde la estación de Takayama, el casco antiguo y el santuario quedan a 15-20 minutos a pie, y el día del festival la afluencia de gente hace que los taxis circulen despacio.
+Takayama se encuentra en las montañas de Gifu. Se llega en tren expreso limitado de JR desde Nagoya (unas 2 horas) o desde Toyama (alrededor de 1.5 horas), o bien en autobús de carretera desde Tokio, Kioto y Osaka. Desde la estación de Takayama, el casco antiguo y el santuario quedan a 15-20 minutos a pie. En los días de desfile, las multitudes hacen que los taxis avancen con lentitud.
 
-- Estación más cercana: la estación JR de Takayama, en la línea Takayama
-- A pie desde la estación hasta el santuario: unos 20 minutos atravesando el casco antiguo
-- Los hoteles de Takayama se llenan con bastante antelación para el 9 y 10 de octubre, así que conviene reservar alojamiento con tiempo o considerar hospedarse en las cercanas Gero o Furukawa y desplazarse en el día
+- Estación más cercana: estación JR de Takayama, en la línea principal Takayama
+- Trayecto a pie de la estación al santuario: unos 20 minutos a través del casco antiguo
+- Los hoteles de Takayama suelen agotarse con mucha antelación para el 9-10 de octubre; las cercanas Gero y Furukawa son bases habituales para quienes vienen a pasar el día
 
-## Cómo confirmar los detalles
+## Detalles sujetos a cambios
 
-Dado que la lista de carrozas, los horarios exactos del desfile y las posibles opciones de asientos reservados pueden cambiar de un año a otro, conviene tomar esta guía como punto de partida para planificar y no como palabra final. Antes de cerrar los planes de viaje, conviene confirmar horarios y entradas en la web oficial de turismo del ayuntamiento de Takayama o en el portal turístico de Hida Takayama, especialmente para conocer la hora exacta en que arranca el desfile del segundo día.
+La lista de carrozas, los horarios exactos de las procesiones y la oferta de asientos reservados cambian de un año a otro. La hora de inicio de la procesión del segundo día es el dato que más varía. Las principales fuentes de información turística de la zona son la web de turismo del ayuntamiento de Takayama y el portal turístico de Hida Takayama.

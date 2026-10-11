@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: barcelona-osteria-condal
-srcHash: '85349113a10e'
+srcHash: 'cd6e4412e931'
 title: 巴塞罗那吃什么：Osteria Condal
 description: Osteria Condal是巴塞罗那圣安东尼（Sant Antoni）街区2026年新开的一家餐厅。
 quickAnswer: Osteria Condal是巴塞罗那圣安东尼（Sant Antoni）街区2026年新开的一家餐厅，店址就是当年Tickets和Teatro所在的地方。主厨Paolo Casagrande在Lasarte手握米其林三星。餐厅刚开业，一位难求，出发前请务必通过官方渠道确认最新营业时间并提前订位。
@@ -56,7 +56,7 @@ faq:
 
 巴塞罗那的餐厅普遍可以刷卡，非接触支付几乎处处通用。这里没有北美那样的小费惯例：服务满意的话，凑个整或留一点零钱就很常见，不会有人追着你多要。
 
-不会说西班牙语或加泰罗尼亚语也没关系，进门时用加泰罗尼亚语道一声*bona nit*（晚上好），总会让人心生好感。结账时说*el compte, si us plau*。在这里，饭后坐着慢慢聊本就是用餐的一部分，所以你不开口，账单是不会送上来的。
+不会说西班牙语或加泰罗尼亚语也没关系，进门时用加泰罗尼亚语道一声*bona nit*（晚上好），总会让人心生好感。结账时简单说一句“请结账”就行。在这里，饭后坐着慢慢聊本就是用餐的一部分，所以你不开口，账单是不会送上来的。
 
 ## 顺便逛逛这片街区
 
