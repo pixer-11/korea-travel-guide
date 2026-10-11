@@ -42,6 +42,8 @@ const PARROQUIA = ['Monday: 9:00 AM – 2:00 PM, 4:00 – 7:00 PM', 'Tuesday: 9:
   'Saturday: 9:00 AM – 2:00 PM', 'Sunday: Closed'];
 const MIDDAY_BREAK_FRI = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Saturday', 'Sunday']
   .map((d) => `${d}: 9:00 AM – 9:00 PM`).concat(['Friday: 7:30 AM – 12:00 PM, 3:00 – 9:00 PM']);
+const LUNCH_DINNER = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
+  .map((d) => `${d}: 11:30 AM – 2:30 PM, 5:30 – 10:00 PM`);
 // 자금성: 월요일만 휴관, 화~일 개관 — 'closed every Monday'가 참인 배치.
 const PALACE = [
   'Monday: Closed', 'Tuesday: 8:30 AM – 4:30 PM', 'Wednesday: 8:30 AM – 4:30 PM',
@@ -267,6 +269,16 @@ const cases = [
   // (3) 낮 휴식이 있는 날의 "오후 1시에 가면 닫혀 있다" 는 시간 이야기다.
   ['FP-midday-break-clock-time (should be CLEAN)', post(MIDDAY_BREAK_FRI,
     'Turn up at 1pm on a Friday and the gates will be closed.'), 0],
+  // 검증 에이전트(10-12): 위 세 수정이 진짜 휴무를 놓치거나 새 오탐을 만들지 않는가.
+  ['TP-closed-sundays-until-further-notice (must FLAG)', post(FORT, 'The fort is closed Sundays until further notice.'), 1],
+  ['TP-closed-mondays-and-tuesdays-from-a-date (must FLAG)', post(FORT, 'It is closed Mondays and Tuesdays from 1 November.'), 1],
+  ['FP-closed-for-weekend-markets (should be CLEAN)', post(FORT, 'The road is closed for weekend markets.'), 0],
+  ['FP-closed-during-the-weekend-festival (should be CLEAN)', post(FORT, 'The square is closed during the weekend festival, so plan around it.'), 0],
+  ['TP-closed-over-the-weekend-open (must FLAG)', post(FORT, 'The fort is closed over the weekend.'), 1],
+  ['TP-split-day-restaurant-closed-monday-with-time-word (must FLAG)', post(LUNCH_DINNER,
+    'Don\'t come on a Monday: the restaurant is closed and doesn\'t reopen until Tuesday at 11:30am.'), 1],
+  ['TP-split-day-closed-monday-evenings-elsewhere (must FLAG)', post(LUNCH_DINNER,
+    'Mondays the place is closed — evenings the rest of the week are busy.'), 1],
   // (4) 목록 끝 '**Sunday:** closed' 와 다음 문단 첫머리 'Saturday is…' 는 한 주장이 아니다.
   ['FP-closed-list-end-then-next-paragraph-day (should be CLEAN)', post(PARROQUIA,
     '- **Saturday:** 9am to 2pm only\n- **Sunday:** closed\n\nSaturday is the day to be careful.'), 0],

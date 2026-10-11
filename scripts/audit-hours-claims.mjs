@@ -174,12 +174,14 @@ export function hoursProblems(raw) {
   // a new clause: "closed Sundays and Mondays, and Saturdays from 8am to 7pm
   // are the busiest" (Brisbane), "closed on Sunday, and Saturday between 10am
   // and 2pm is the busiest" (San Miguel) — both correct, both held (10-12).
-  const TIME_SPAN_NEXT = `(?!\\s+(?:from|between|after|before|until|till)\\b)`;
+  // A CLOCK time only: "closed Sundays until further notice" and "closed Mondays
+  // and Tuesdays from 1 November" are whole-day closures and stay claims (review, 10-12).
+  const TIME_SPAN_NEXT = `(?![^\\S\\n]+(?:from|between|after|before|until|till)[^\\S\\n]+(?:\\d{1,2}(?::\\d{2})?[^\\S\\n]*(?:am|pm|a\\.m\\.|p\\.m\\.)|noon|midday)\\b)`;
   // directOnly: accept only the explicit "closed (on) <day>" form, not a "closed"
   // that merely sits near the day. Used for a day that is OPEN but short (see
   // partialDays below), where the nearby form is how a half-day closure reads.
   const TIME_OF_DAY = /\b(?:mornings?|afternoons?|evenings?|nights?|noon|midday|lunch(?:time)?|already|by\s+then|by\s+the\s+time|after\s+\d|by\s+\d|\d{1,2}(?::\d{2})?\s*(?:am|pm|a\.m\.|p\.m\.)|\d{1,2}:\d{2})\b/i;
-  const claimsClosedOn = (d, text, shortDay = false) => {
+  const claimsClosedOn = (d, text, shortDay = false, breaks = null) => {
     // "closed TO something" is an access restriction, not an opening hour. The
     // Phnom Penh riverside promenade is a car-free walking street: "on a
     // Saturday or Sunday you'll find the section that's closed to cars" says
@@ -212,7 +214,11 @@ export function hoursProblems(raw) {
     // "closed at weekends" / "over the weekend" too (Khustai, 10-12: with "at"
     // between them the weekend stayed a word, and the Friday before it was
     // paired with "closed" — a correct guide held from its first publish).
-    text = text.replace(new RegExp(`(closed${H}+${ADV})(?:(?:at|over|during|for)${H}+)?(?:the${H}+)?weekends?\\b`, 'gi'), '$1Saturday and Sunday');
+    text = text.replace(new RegExp(`(closed${H}+${ADV})weekends?\\b`, 'gi'), '$1Saturday and Sunday');
+    // With a preposition the weekend is often an adjective ("closed for weekend
+    // markets", "during the weekend festival") — rewrite only when the weekend
+    // ends the clause (review, 10-12).
+    text = text.replace(new RegExp(`(closed${H}+${ADV})(?:at|over|during|for)${H}+(?:the${H}+)?weekends?\\b(?=${H}*(?:[.,;:!?)—–]|\\n|$)|${H}+(?:and|or|so|but|too|when|except|unless)\\b)`, 'gi'), '$1Saturday and Sunday');
     // "closed Sundays" — the day AFTER the word owns the claim. Checked first,
     // because "3–10pm on Saturdays, and closed Sundays" otherwise reads as a
     // claim about Saturday: the gap between "Saturdays" and "closed" is just
@@ -239,6 +245,16 @@ export function hoursProblems(raw) {
       const T = TIME_OF_DAY.source;
       const timedClosure = new RegExp(`${T}[^;.!?\\n]{0,60}\\bclosed\\b|\\bclosed\\b[^;,.!?\\n]{0,40}${T}`, 'i');
       text = text.split(/(?<=[.!?\n])/).filter((s) => !(dayRe.test(s) && timedClosure.test(s)
+        && !/\b(?:all|whole|entire)[\s-]+day\b/i.test(s))).join('');
+    }
+    if (breaks) {
+      const dayRe = new RegExp(`\\b${d}s?\\b`, 'i');
+      const lo = Math.min(...breaks.map((r) => r[0])), hi = Math.max(...breaks.map((r) => r[1]));
+      const inBreak = (s) => [...s.matchAll(/\b(\d{1,2})(?::(\d{2}))?\s*(am|pm|a\.m\.|p\.m\.)/gi)].some(([, h, m, ap]) => {
+        const t = ((Number(h) % 12) + (/p/i.test(ap) ? 12 : 0)) * 60 + Number(m || 0);
+        return t > lo && t < hi && !breaks.some(([a, b]) => t >= a && t < b);
+      });
+      text = text.split(/(?<=[.!?\n])/).filter((s) => !(dayRe.test(s) && /\bclosed\b/i.test(s) && inBreak(s)
         && !/\b(?:all|whole|entire)[\s-]+day\b/i.test(s))).join('');
     }
     // Strip every fully-stated "closed <days…>" claim about OTHER days, list
@@ -315,20 +331,24 @@ export function hoursProblems(raw) {
   //      only knows whole days (see SCOPE_SHIFT's partial-closure note), so on
   //      a short day a sentence tied to a time of day is not a day claim.
   const partialDays = new Set();
+  const breakRanges = new Map();
   if (widest) {
     for (const p of open) {
       if (!p.ranges.length) continue;
       const s = Math.min(...p.ranges.map((r) => r[0]));
       const e = Math.max(...p.ranges.map((r) => r[1]));
-      // A day with a midday break is short too: "turn up at 1pm on a Friday and
-      // the gates will be closed" is right for 7:30am–12pm, 3–9pm (Yas Island's
-      // Heritage Village, held from its first publish, 10-12).
-      if (p.ranges.length > 1 || e <= widest[1] - 180 || s >= widest[0] + 180) partialDays.add(p.day);
+      if (e <= widest[1] - 180 || s >= widest[0] + 180) partialDays.add(p.day);
+      // A day with a midday break: "turn up at 1pm on a Friday and the gates
+      // will be closed" is right for 7:30am–12pm, 3–9pm (Yas Island's Heritage
+      // Village, held from its first publish, 10-12). Only a clock time that
+      // falls IN the break excuses the sentence — "Mondays the place is closed —
+      // evenings the rest of the week are busy" is still a whole-day claim.
+      if (p.ranges.length > 1) breakRanges.set(p.day, p.ranges);
     }
   }
 
   for (const d of DAYS) {
-    const claimsClosed = claimsClosedOn(d, closureProse, partialDays.has(d));
+    const claimsClosed = claimsClosedOn(d, closureProse, partialDays.has(d), breakRanges.get(d));
     const isClosed = closedDays.includes(d);
     if (claimsClosed && !isClosed) found.push(`prose says closed ${d}, fact box lists it as open`);
     if (!claimsClosed && isClosed && new RegExp(`\\b${d}\\b`, 'i').test(prose)) {
