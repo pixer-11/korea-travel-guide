@@ -55,3 +55,39 @@ test('경보 문턱은 사흘 — 이틀은 조용하고 사흘은 운다', () =
   const ran3 = new Set(week.map(dayOf).filter((d) => !['2026-09-04', '2026-09-05', '2026-09-06'].includes(d)));
   assert.ok(missedDays([{ file: 'a.yml', slotTimes: week, ranDays: ran3 }], { now: NOW }).total >= MISSED_DAY_LIMIT);
 });
+
+// 2026-10-11: 자정을 넘긴 지각을 누락으로 셌다 (runTimes 로 슬롯별 판정)
+test('자정을 넘겨 돈 지각 실행은 누락이 아니다', () => {
+  const now = Date.parse('2026-10-11T00:00:00Z');
+  const slots = ['2026-10-04', '2026-10-05', '2026-10-06', '2026-10-07', '2026-10-08', '2026-10-09', '2026-10-10']
+    .map((d) => Date.parse(`${d}T08:30:00Z`)); // 17:30 KST
+  // 10-05 슬롯은 10-05 17:14 UTC(= 10-06 02:14 KST)에 돌았다
+  const runs = slots.map((s, i) => s + (i === 1 ? 8.7 * 3600e3 : 6 * 3600e3));
+  const r = missedDays([{ file: 'smoke.yml', slotTimes: slots, runTimes: runs }], { now });
+  assert.equal(r.total, 0, JSON.stringify(r.perWorkflow));
+});
+
+test('그날 첫 슬롯부터 24시간 안에 실행이 없으면 그날로 잡는다', () => {
+  const now = Date.parse('2026-10-11T00:00:00Z');
+  const slots = ['2026-10-07', '2026-10-08', '2026-10-09'].map((d) => Date.parse(`${d}T07:11:00Z`));
+  const runs = [slots[0] + 3600e3, slots[2] + 3600e3]; // 10-08 슬롯만 아무것도 없다
+  const r = missedDays([{ file: 'a.yml', slotTimes: slots, runTimes: runs }], { now });
+  assert.deepEqual(r.perWorkflow[0].days, ['2026-10-08']);
+});
+
+test('창(24시간)이 지나기 전에는 판정을 미룬다', () => {
+  const slot = Date.parse('2026-10-10T08:30:00Z');
+  const before = missedDays([{ file: 'a.yml', slotTimes: [slot], runTimes: [] }], { now: slot + 10 * 3600e3 });
+  assert.equal(before.total, 0);
+  const after = missedDays([{ file: 'a.yml', slotTimes: [slot], runTimes: [] }], { now: slot + 25 * 3600e3 });
+  assert.equal(after.total, 1);
+});
+
+test('하루 두 번 슬롯이 다음 슬롯을 넘겨 늦어도 그날은 된 것이다', () => {
+  const now = Date.parse('2026-10-11T00:00:00Z');
+  const slots = [];
+  for (const d of ['2026-10-08', '2026-10-09']) slots.push(Date.parse(`${d}T08:45:00Z`), Date.parse(`${d}T13:20:00Z`));
+  const runs = slots.map((s) => s + 6 * 3600e3); // 매번 6시간 지각 — 둘째 실행은 다음 날 KST
+  const r = missedDays([{ file: 'live-checks.yml', slotTimes: slots, runTimes: runs }], { now });
+  assert.equal(r.total, 0, JSON.stringify(r.perWorkflow));
+});

@@ -15,6 +15,41 @@
 
 const kstDay = (t) => new Date(t + 9 * 3600e3).toISOString().slice(0, 10);
 
+// 예약된 날의 첫 슬롯부터 이 시간 안에 실행이 하나라도 있으면 그날 일은 된 것이다.
+// 깃허브 스케줄러는 08-26 이후 4~7시간 늦고, 구조 발화도 그 안에 뜬다.
+export const DAY_WINDOW_H = 24;
+
+/**
+ * 예약된 날(KST) 중, 그날 첫 슬롯부터 24시간 안에 어떤 트리거로도 실행이 없었던 날.
+ *
+ * 2026-10-11: 슬롯의 KST 날짜와 실행의 KST 날짜를 맞대던 방식은 실제로 돈 실행
+ * 3건을 "누락"으로 셌다 — smoke.yml 10-05 17:30 슬롯은 10-06 02:14 에,
+ * affiliate-status 16:11 슬롯은 다음 날 00:57 에, marketing-review 일요일 20:25
+ * 슬롯은 월요일 00:51 에 돌았다. 자정을 넘긴 지각이라 제 날짜가 비어 보였을 뿐이다.
+ * "슬롯과 다음 슬롯 사이"로 재 보니 이번엔 하루 여러 슬롯(live-checks 2회,
+ * 감시견 매시)이 다음 슬롯을 넘긴 지각 때문에 매일 울었다 — 그래서 날 단위,
+ * 그날 첫 슬롯에서 24시간 창이다. 매일 같은 시각 슬롯이면 다음 날 실행은 그 창
+ * 밖이라 남의 날을 대신 채우지 않는다.
+ * @param {number[]} slotTimes  모든 슬롯(ms), 순서 무관
+ * @param {number[]} runTimes   모든 트리거 실행의 created 시각(ms)
+ */
+export function slotsNotServed(slotTimes, runTimes, { now = Date.now(), since = 0 } = {}) {
+  const firstOfDay = new Map();
+  for (const s of slotTimes) {
+    if (s < since || s > now) continue;
+    const d = kstDay(s);
+    if (!firstOfDay.has(d) || s < firstOfDay.get(d)) firstOfDay.set(d, s);
+  }
+  const win = DAY_WINDOW_H * 3600e3;
+  const gone = [];
+  for (const [d, first] of firstOfDay) {
+    if (runTimes.some((t) => t >= first - 60e3 && t < first + win)) continue;
+    if (now - first < win) continue; // 아직 창 안 — 판정 보류
+    gone.push(d);
+  }
+  return gone.sort();
+}
+
 /**
  * @param {Array<{file:string, skip?:string, slotTimes?:number[], ranDays?:Set<string>}>} rows
  * @param {{now?:number, recentDays?:number}} opts
@@ -26,6 +61,11 @@ export function missedDays(rows, { now = Date.now(), recentDays = 7 } = {}) {
   const perWorkflow = [];
   for (const r of rows) {
     if (r.skip || !r.slotTimes?.length) continue;
+    if (Array.isArray(r.runTimes)) {
+      const gone = slotsNotServed(r.slotTimes, r.runTimes, { now, since });
+      if (gone.length) perWorkflow.push({ file: r.file, days: gone });
+      continue;
+    }
     const scheduled = [...new Set(r.slotTimes.filter((t) => t >= since).map(kstDay))];
     // 오늘은 아직 진행 중이다 — 아직 안 온 슬롯을 누락이라 부르면 매일 아침 운다.
     const gone = scheduled.filter((d) => d !== today && !(r.ranDays ?? new Set()).has(d)).sort();

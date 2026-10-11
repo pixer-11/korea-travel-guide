@@ -143,6 +143,8 @@ for (const file of files) {
   rows.push({
     file, days: (Date.now() - start) / 86400e3, slots: sorted.length, ran: delays.length, missed, extra,
     slotTimes: sorted, ranDays,
+    // Every trigger's run time: missedDays judges slot by slot, not by date.
+    runTimes: allRuns.map((r) => Date.parse(r.created_at)).filter((t) => t >= start),
     med: sd.length ? sd[Math.floor(sd.length / 2)] : null,
     max: sd.length ? sd[sd.length - 1] : null,
     over60: sd.filter((d) => d > 60).length,

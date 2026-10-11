@@ -29,6 +29,7 @@ import { join } from 'node:path';
 import yaml from 'js-yaml';
 import { srcHashOfPostFile } from './lib/src-hash.mjs';
 import { paragraphDiff, recordRepair, pruneRecords, loadRecords, saveRecords, cleanRepairOutput } from './lib/prose-patch.mjs';
+import { recordBacksQuote } from './lib/record-claim.mjs';
 
 const POSTS = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
 const AUDIT = fileURLToPath(new URL('../data/full-audit.json', import.meta.url));
@@ -106,6 +107,13 @@ for (const row of rows) {
   // Only act on findings whose quoted span is still present — the post may have
   // been rewritten since the audit ran.
   let live = row.prose.filter((f) => f.quote && body.includes(f.quote));
+  // The post's own address or event days, called "invented" because the
+  // auditor was never shown them (lib/record-claim, 10-11): not a defect.
+  live = live.filter((f) => {
+    const backed = f.type === 'invented-specifics' && recordBacksQuote(f.quote, fm);
+    if (backed) console.log(`   ✓ the post's own address or event dates, not repaired: « ${String(f.quote).slice(0, 70)} »`);
+    return !backed;
+  });
   // An "invented" hours/price finding whose numbers all appear in the venue's
   // own record is the auditor disagreeing with live data, not a defect — the
   // writer was instructed to state those (writer.mjs). Repairing them hedges

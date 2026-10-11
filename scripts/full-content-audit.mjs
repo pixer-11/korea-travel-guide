@@ -14,6 +14,10 @@ import './lib/env.mjs';
 import { heroTierReason } from './lib/event-hero-tier.mjs';
 import regionCovers from '../data/region-covers.json' with { type: 'json' };
 import { crowdClaimSupported } from './lib/crowd-claim.mjs';
+import { recordBacksQuote, recordFactLines } from './lib/record-claim.mjs';
+
+/** An "invented" finding that only repeats the post's own address or event days. */
+const backedByRecord = (issue, data) => issue?.type === 'invented-specifics' && recordBacksQuote(issue.quote, data);
 import { tellSpans } from './lib/ai-tells.mjs';
 import { readFile, writeFile, readdir } from 'node:fs/promises';
 import { existsSync, readFileSync } from 'node:fs';
@@ -77,8 +81,10 @@ async function editorCheck(post) {
 // post has no place data (events, placeless guides) — then nothing is exempt.
 function verifiedBlock(post) {
   const pl = post.data.place;
-  if (!pl) return '';
-  const lines = [];
+  // Address and the event's own facts: without them the check called the
+  // venue's address and the event's dates "invented" (lib/record-claim, 10-11).
+  const lines = recordFactLines(post.data);
+  if (!pl) return lines.length ? `VERIFIED DATA (the post's own record — statements agreeing with this are facts, never "invented"):\n${lines.join('\n')}\n\n` : '';
   if (Array.isArray(pl.openingHours) && pl.openingHours.length) lines.push(`opening hours: ${pl.openingHours.join('; ')}`);
   if (pl.priceLevel != null) lines.push(`price level (0-4): ${pl.priceLevel}`);
   if (pl.rating != null) lines.push(`rating: ${pl.rating} (${pl.userRatingsTotal ?? '?'} reviews)`);
@@ -154,7 +160,14 @@ async function main() {
         // on 09-05 and 09-12 and kept being re-sent after the daily patrol had
         // already judged those very heroes CITY-TIER on 09-13 — the third-tier
         // city photo the owner approved on 2026-09-11. Re-read the store.
-        const carriedRow = { ...prev.result, carriedFrom: prev.at };
+        // The slug goes with it: the stored result has none, and repair-prose
+        // only takes rows that name their post — 186 carried findings sat in
+        // the queue unrepairable from 09-12 on (10-11).
+        const carriedRow = { slug: p.slug, ...prev.result, carriedFrom: prev.at };
+        if (carriedRow.prose) {
+          carriedRow.prose = carriedRow.prose.filter((i) => !backedByRecord(i, p.data));
+          if (!carriedRow.prose.length) delete carriedRow.prose;
+        }
         const heroNow = p.data.heroImage?.url;
         const v = heroNow ? vision[`${p.slug}\x01${heroNow}`] : null;
         if (carriedRow.image && v && v.verdict !== 'MISMATCH') {
@@ -225,7 +238,7 @@ async function main() {
         // one fact this site has and others do not. Checked against the
         // numbers here, in the direction the sentence claims, so a genuinely
         // wrong claim ("quietest" at a measured-busy hour) still stands.
-        const kept = issues.filter((i) => !crowdClaimSupported(i.quote, p.data.place?.busyness));
+        const kept = issues.filter((i) => !crowdClaimSupported(i.quote, p.data.place?.busyness) && !backedByRecord(i, p.data));
         const vetoed = issues.length - kept.length;
         if (vetoed) console.log(`    · ${p.slug}: ${vetoed} crowd claim(s) match the measured hours — not a finding`);
         if (kept.length) { r.prose = kept; proseBad++; }
