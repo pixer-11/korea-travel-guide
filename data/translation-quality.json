@@ -32548,5 +32548,26 @@
   "registerBreak": false,
   "worst": "阿达纳本是一座以烤肉闻名的城市，每年却有一个晚上会变成拉克酒之城。",
   "at": "2026-10-11T00:24:25.759Z"
+ },
+ "es/jakarta-avenged-sevenfold-jakarta-2026": {
+  "hash": "4d7478dbaf64",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-11T01:19:21.580Z"
+ },
+ "ja/jakarta-avenged-sevenfold-jakarta-2026": {
+  "hash": "5ab64416a3fc",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "海外からの来場者は通常パスポートを身分証として使い、その記載内容は予約情報と完全に一致している必要があるのが一般的です。",
+  "at": "2026-10-11T01:19:32.648Z"
+ },
+ "ko/takayama-takayama-autumn-festival-hachiman-matsuri": {
+  "hash": "09bd079b29d5",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "다카야마 축제가 단순한 수레 행렬과 다른 점이 바로 여기에 있습니다.",
+  "at": "2026-10-11T01:20:31.928Z"
  }
 }

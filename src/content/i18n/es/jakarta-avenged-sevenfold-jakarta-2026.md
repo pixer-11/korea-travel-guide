@@ -1,64 +1,64 @@
 ---
 lang: es
 slug: jakarta-avenged-sevenfold-jakarta-2026
-srcHash: '7ad5ae9e0841'
-title: 'Avenged Sevenfold en Yakarta 2026: fechas, entradas y recinto (Yakarta)'
-description: El concierto de Avenged Sevenfold en Yakarta está anunciado para el 10 de octubre de 2026 en el Jakarta International Stadium (JIS), situado en Tanjung Priok, al norte de la ciudad.
-quickAnswer: El concierto de Avenged Sevenfold en Yakarta está anunciado para el 10 de octubre de 2026 en el Jakarta International Stadium (JIS), situado en Tanjung Priok, al norte de la ciudad. Compre las entradas exclusivamente por los canales oficiales. Antes de salir, decida también cómo va a volver, porque abandonar el JIS tras un gran espectáculo es lo más complicado de toda la noche.
+srcHash: '0a22de66829f'
+title: 'Avenged Sevenfold en Yakarta 2026: fecha, entradas y estadio (Yakarta)'
+description: El concierto de Avenged Sevenfold en Yakarta estaba programado para el 10 de octubre de 2026 en el Jakarta International Stadium (JIS), situado en Tanjung Priok, en el norte de Yakarta.
+quickAnswer: 'La fecha anunciada para el concierto de Avenged Sevenfold en Yakarta era el 10 de octubre de 2026, en el Jakarta International Stadium (JIS), en Tanjung Priok (Yakarta Norte). Tras un gran espectáculo, lo más complicado de la noche suele ser salir del JIS: cuando el público se marcha, las calles y las aplicaciones de transporte se saturan.'
 faq:
-  - q: ¿Cuándo y dónde actúa Avenged Sevenfold en Yakarta en 2026?
-    a: El concierto está anunciado para el sábado 10 de octubre de 2026 en el Jakarta International Stadium (JIS), situado en Tanjung Priok, al norte de Yakarta. Los horarios y las entradas deben confirmarse en la web oficial.
-  - q: ¿Cómo se llega al Jakarta International Stadium?
-    a: 'Hay tres opciones: tomar el tren de cercanías KRL Commuter Line hasta la estación de Tanjung Priok y continuar en autobús o en un vehículo de transporte con conductor, utilizar las líneas de TransJakarta que van hacia el JIS o reservar un trayecto con Gojek o Grab. Desde el centro de Yakarta conviene calcular al menos una hora. Planifique bien la vuelta, ya que al terminar el concierto las carreteras se colapsan y las aplicaciones de transporte se saturan.'
-  - q: ¿Hace falta documentación para entrar al concierto?
-    a: En los grandes conciertos de estadio de Indonesia es habitual que las entradas sean nominativas y que se compruebe la identidad del asistente. A veces, además, hay que canjear la entrada por una pulsera antes de acceder. Los visitantes extranjeros deben asegurarse de que los datos de su pasaporte coinciden con los de la reserva y leer las instrucciones oficiales de acceso.
-  - q: ¿Dónde conviene alojarse para un concierto en el JIS?
-    a: Las zonas del norte de Yakarta, como Kelapa Gading o Ancol, quedan mucho más cerca del estadio que Sudirman, Thamrin o Kemang, algo que se nota muchísimo a la hora de volver de madrugada.
+  - q: ¿Cuándo y dónde tocaba Avenged Sevenfold en Yakarta en 2026?
+    a: La fecha anunciada era el sábado 10 de octubre de 2026, en el Jakarta International Stadium (JIS), en Tanjung Priok (Yakarta Norte).
+  - q: ¿Cómo se llegaba al Jakarta International Stadium?
+    a: Los trenes de cercanías de la KRL Commuter Line llegan hasta la estación de Tanjung Priok, y el resto del camino se cubre en autobús o con transporte por aplicación. Varias líneas de TransJakarta circulan también en dirección al JIS, y Gojek y Grab dan servicio en la zona. Desde el centro de Yakarta, el trayecto dura como mínimo una hora, y tras los grandes conciertos tanto las calles como las aplicaciones de transporte se saturan.
+  - q: ¿Hacía falta documento de identidad para entrar al concierto?
+    a: En Indonesia, los grandes conciertos en estadios suelen funcionar con entradas nominativas y control de identidad en el acceso; en algunos, además, la entrada electrónica se canjea por una pulsera en un punto habilitado. Para los visitantes extranjeros, el documento habitual es el pasaporte, y por lo general el nombre que figura en él debe coincidir con el de la reserva.
+  - q: ¿Dónde convenía alojarse para un concierto en el JIS?
+    a: Zonas del norte de Yakarta como Kelapa Gading o Ancol quedan mucho más cerca del estadio que Sudirman, Thamrin o Kemang, algo que se nota muchísimo en el regreso a altas horas de la noche.
   - q: ¿Qué tiempo hace en Yakarta en octubre?
-    a: Octubre suele ser caluroso y húmedo. Además, con él empieza normalmente la temporada de lluvias, y los chaparrones al anochecer son frecuentes. Lleve un chubasquero ligero y, si piensa llevar paraguas, consulte antes la normativa del estadio sobre bolsos y objetos.
+    a: Octubre suele ser caluroso y húmedo, y normalmente marca el inicio de la temporada de lluvias, con chubascos frecuentes al anochecer. Entre la multitud, un poncho ligero resulta más manejable que un paraguas, y algunos estadios prohíben directamente los paraguas.
 ---
 
 ## Una banda de metal en un estadio de 80.000 localidades
 
-La cita es el 10 de octubre de 2026. Para esa fecha está anunciada la actuación de Avenged Sevenfold, la banda de rock estadounidense, en el Jakarta International Stadium. Este recinto de acero y cristal se alza en el extremo norte de la ciudad, junto al puerto de Tanjung Priok. Como los detalles de un estadio pueden cambiar, confirme horarios y entradas en la web oficial.
+La fecha anunciada era el 10 de octubre de 2026. El cartel situaba a la banda estadounidense de rock Avenged Sevenfold en el Jakarta International Stadium, un recinto de acero y cristal levantado en el extremo norte de la ciudad, junto al puerto de Tanjung Priok.
 
-El grupo nació en Huntington Beach (California) en 1999. Su discografía abarca desde el metalcore de doble guitarra de *City of Evil* y *Nightmare* hasta el ambicioso y experimental *Life Is But a Dream...*. Cabe esperar un público que se sabe de memoria cada armonía de guitarra de «Bat Country» y «Hail to the King». El anuncio no incluye ningún repertorio, así que cualquier pronóstico sobre las canciones no pasa de ser una conjetura de los seguidores.
+El grupo se formó en 1999 en Huntington Beach (California). Su discografía abarca desde el metalcore a dos guitarras de *City of Evil* y *Nightmare* hasta el extenso y experimental *Life Is But a Dream...*. Sus seguidores suelen saberse de memoria cada armonía de guitarra de «Bat Country» y «Hail to the King». El anuncio no incluía repertorio, así que cualquier pronóstico sobre las canciones no pasaba de ser una conjetura de los fans.
 
-## El Jakarta International Stadium por dentro
+## Dentro del Jakarta International Stadium
 
-Inaugurado en 2022, el JIS es el estadio del club de fútbol Persija Jakarta. Tiene capacidad para unas 82.000 personas y cuenta con techo retráctil, algo que muy pocos estadios del Sudeste Asiático pueden ofrecer. Sus cuatro graderías son muy empinadas, de modo que incluso desde los anfiteatros superiores el campo queda más cerca que en los antiguos estadios con pista de atletismo.
+Inaugurado en 2022, el JIS es el estadio del club de fútbol Persija Jakarta. Tiene capacidad para unas 82.000 personas y cuenta con techo retráctil, algo que muy pocos estadios del Sudeste Asiático poseen. Sus gradas se elevan con fuerte pendiente en los cuatro lados, de modo que incluso los anfiteatros superiores quedan más cerca del campo que en los antiguos estadios con pista de atletismo.
 
-El recinto se encuentra en Papanggo, en el distrito de Tanjung Priok, muy lejos de las zonas hoteleras de Sudirman, Thamrin y Kemang. Esa distancia condiciona toda la velada. Con tráfico normal, desde el centro de Yakarta se tarda como mínimo una hora, y aún más un sábado por la tarde, que es justo el día de la semana en que cae el 10 de octubre de 2026.
+El estadio se encuentra en Papanggo, en Tanjung Priok, muy lejos de las zonas hoteleras de Sudirman, Thamrin y Kemang, y esa distancia condiciona toda la velada. Desde el centro de Yakarta, el trayecto lleva como mínimo una hora con tráfico normal, y aún más un sábado por la tarde. El 10 de octubre de 2026 caía en sábado.
 
-## Cómo llegar a Tanjung Priok y cómo volver
+## Cómo ir a Tanjung Priok y volver
 
-Existen tres opciones razonables para llegar al JIS:
+Para llegar al JIS hay tres opciones realistas:
 
-- **KRL Commuter Line:** los trenes de cercanías llegan hasta la estación de Tanjung Priok, desde donde se continúa en autobús, en un vehículo de transporte con conductor o a pie.
-- **TransJakarta:** la red de autobuses urbanos tiene líneas que van hacia el JIS. El pago se hace con tarjeta sin contacto o mediante la aplicación, nunca en efectivo.
-- **Aplicaciones de transporte:** los coches y mototaxis de Gojek y Grab funcionan bien para llegar. Lo difícil es el regreso.
+- **KRL Commuter Line:** los trenes llegan hasta la estación de Tanjung Priok. Desde allí se continúa en autobús, con transporte por aplicación o a pie.
+- **TransJakarta:** la red de autobuses de la ciudad tiene líneas en dirección al JIS. El billete se paga con tarjeta sin contacto o mediante la aplicación, nunca en efectivo.
+- **Transporte por aplicación:** los coches y mototaxis de Gojek y Grab funcionan bien a la ida. Las complicaciones llegan a la vuelta.
 
-Cuando termina un concierto con el aforo completo, miles de personas piden un vehículo a la vez desde las mismas pocas calles. Las tarifas se disparan, los conductores cancelan y el tráfico se paraliza. Lo habitual es que le recojan antes si se aleja unas cuantas manzanas del estadio antes de hacer la reserva. Acuerde también de antemano un punto de encuentro con su grupo, porque los datos móviles se ralentizan cuando todo el público sube vídeos al mismo tiempo.
+Al terminar un concierto con el estadio lleno, miles de personas piden un vehículo a la vez desde las mismas pocas calles. Los precios se disparan, los conductores cancelan y el tráfico se colapsa. Alejarse unas cuantas manzanas del estadio antes de solicitar el viaje suele agilizar la recogida. A los grupos que acuerdan de antemano un punto de encuentro también les va mejor, ya que los datos móviles se ralentizan cuando todo el público publica vídeos al mismo tiempo.
 
-## Cómo comprar entradas sin llevarse un disgusto
+## Comprar entradas sin llevarse un disgusto
 
-Compre únicamente a través de los canales que indiquen el promotor y la banda. Confirme horarios y entradas en la web oficial y siga las cuentas oficiales en redes sociales para conocer las normas del recinto. En Indonesia, las ofertas de reventa en redes sociales son la forma más habitual en que los aficionados pierden dinero con los grandes conciertos.
+En Indonesia, la forma más habitual de perder dinero con un gran concierto son las ofertas de reventa en redes sociales. Las entradas adquiridas fuera de los canales de venta del propio promotor son las que más riesgo corren de ser falsas o de haberse usado ya.
 
-En los grandes conciertos de estadio de Indonesia suele exigirse que cada entrada lleve un nombre y un documento de identidad. También es frecuente un paso de canje: antes de entrar, la entrada electrónica se cambia por una pulsera. Si viaja desde el extranjero, procure que los datos de su pasaporte coincidan exactamente con los de la reserva. Consulte en las instrucciones oficiales qué documentos se aceptan y dónde se realiza el canje, si lo hubiera.
+Los grandes conciertos en estadios indonesios suelen exigir que cada entrada lleve un nombre y un documento de identidad. También es frecuente un paso de canje previo al acceso, en el que la entrada electrónica se cambia por una pulsera. Para quienes llegan del extranjero, el documento habitual es el pasaporte, y por lo general sus datos deben coincidir exactamente con los de la reserva.
 
-## Normas para la noche del concierto en el JIS
+## Normas de la noche del concierto en el JIS
 
-Algunas costumbres locales le harán la noche más llevadera.
+Algunas costumbres locales hacen la noche más llevadera.
 
-- **Pague de forma digital:** en los puestos de comida y de merchandising de toda Yakarta lo normal es pagar con códigos QRIS, GoPay, OVO o tarjeta. Por si falla la cobertura, lleve algunas rupias en billetes pequeños.
-- **Vístase para el calor y la lluvia:** en Yakarta, la temporada de lluvias suele empezar en octubre. Las tardes son calurosas y húmedas, y los aguaceros al anochecer son frecuentes. Entre la multitud, un chubasquero ligero resulta más práctico que un paraguas, y algunos estadios directamente los prohíben.
-- **Consulte la normativa sobre bolsos:** en Indonesia, el personal de seguridad de los estadios registra los bolsos en la entrada. Antes de preparar sus cosas, lea la lista oficial de objetos prohibidos.
-- **Coma antes de ir:** con el estadio lleno, las colas para comprar comida son largas. Si cena bien cerca del hotel, no tendrá que conformarse con lo que quede en los puestos a altas horas de la noche.
+- **Pago digital:** en los puestos de comida y de artículos oficiales de toda Yakarta lo normal es pagar con códigos QRIS, GoPay, OVO o tarjeta. Unas cuantas rupias en billetes pequeños sirven de reserva por si se pierde la cobertura.
+- **Calor y lluvia:** octubre suele marcar el comienzo de la temporada de lluvias en Yakarta. Las tardes son calurosas y húmedas, y los aguaceros al anochecer son frecuentes. Entre la multitud, un poncho ligero es más manejable que un paraguas, y algunos estadios prohíben directamente los paraguas.
+- **Bolsos:** en Indonesia, el personal de seguridad de los estadios registra los bolsos en la entrada, y cada recinto tiene su propia lista de objetos prohibidos.
+- **Comida:** con el estadio lleno, las colas para comer son largas. Una comida en condiciones cerca del hotel es mejor opción que depender de lo que quede disponible a última hora de la noche.
 
-Las colas del merchandising suelen ser más cortas mientras actúa el grupo telonero, cuando la mayoría del público aún está buscando su sitio.
+Las colas de artículos oficiales suelen ser más cortas mientras actúa el telonero, cuando la mayoría del público todavía está buscando su sitio.
 
-## Cómo organizar el viaje en torno al concierto
+## Organizar el viaje en torno al concierto
 
-Si llega en avión, el Aeropuerto Internacional Soekarno-Hatta está al oeste de la ciudad. El tren del aeropuerto le llevará al centro de Yakarta, y desde allí tendrá que seguir hacia el norte para llegar al estadio. Alojarse en el norte de Yakarta, en la zona de Kelapa Gading o Ancol, acorta mucho el trayecto de vuelta en comparación con los distritos financieros del sur.
+El Aeropuerto Internacional Soekarno-Hatta está al oeste de la ciudad. El tren del aeropuerto llega hasta el centro de Yakarta, y el estadio queda bastante más al norte. Alojarse en el norte de Yakarta, en Kelapa Gading o Ancol, acorta mucho el trayecto de vuelta tras el concierto en comparación con los distritos financieros del sur.
 
-Para el día anterior o el siguiente, Ancol, en el frente marítimo al este del JIS, ofrece playas, el parque temático Dunia Fantasi y restaurantes de marisco. A poca distancia hacia el suroeste se encuentra Kota Tua, el antiguo barrio colonial neerlandés, con la plaza Fatahillah y el Museo de Historia de Yakarta. Resérvese un día tranquilo después del concierto: con el tráfico nocturno para salir de Tanjung Priok, pocos consiguen acostarse temprano.
+Ancol, en el litoral al este del JIS, ofrece playas, el parque temático Dunia Fantasi y restaurantes de marisco para el día anterior o el siguiente. A poca distancia hacia el suroeste se encuentra Kota Tua, el antiguo barrio colonial neerlandés, con la plaza Fatahillah y el Museo de Historia de Yakarta. Con el tráfico nocturno que hay para salir de Tanjung Priok, pocos se acuestan temprano después de un concierto en el estadio, así que a la mayoría de los visitantes les sienta bien un día tranquilo a continuación.
