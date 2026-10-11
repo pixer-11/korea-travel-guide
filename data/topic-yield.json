@@ -2,7 +2,7 @@
  "_note": "Per-topic search→post yield, written by scripts/generate.mjs (scripts/lib/topic-yield.mjs). Seeded 2026-08-23 from the 08-17..23 publish/bulk logs; counts halve past 200 so recent runs weigh more.",
  "topics": {
   "local restaurant": {
-   "attempts": 101,
+   "attempts": 111,
    "hits": 14
   },
   "historic site": {
@@ -54,16 +54,16 @@
    "hits": 3
   },
   "hidden gem": {
-   "attempts": 110,
-   "hits": 72
+   "attempts": 124,
+   "hits": 74
   },
   "breakfast": {
    "attempts": 49,
    "hits": 5
   },
   "trendy cafe": {
-   "attempts": 121,
-   "hits": 10
+   "attempts": 128,
+   "hits": 11
   },
   "street food": {
    "attempts": 102,
@@ -86,8 +86,8 @@
    "hits": 0
   },
   "top attraction": {
-   "attempts": 95,
-   "hits": 68
+   "attempts": 98,
+   "hits": 69
   },
   "grill": {
    "attempts": 39,
@@ -412,7 +412,87 @@
   "Okayama Orient Museum": {
    "attempts": 1,
    "hits": 1
+  },
+  "Erdene Zuu Monastery": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Olgii Central Mosque": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Gobi Museum of Nature and History": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Friendship Monument": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Kharagiin Monastery": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Kharakhorum Museum": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Gorkhi-Terelj National Park": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Chinggis Khaan National Museum": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Dashchoilin Monastery": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Zaisan Memorial": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Narantuul Market": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Bogd Khan Palace Museum": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Central Museum of Mongolian Dinosaurs": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Sükhbaatar Square": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Aryabal Meditation Temple": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Yolyn Am": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Zanabazar Museum of Fine Arts": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "State Department Store": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Choijin Lama Temple Museum": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "National Museum of Mongolia": {
+   "attempts": 1,
+   "hits": 1
   }
  },
- "updated": "2026-10-11T07:56:51.617Z"
+ "updated": "2026-10-11T14:24:51.993Z"
 }

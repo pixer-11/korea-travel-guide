@@ -11735,5 +11735,113 @@
       "getting": "车车尔勒格的小型本地机场并无定期航班，因此几乎所有游客都是走陆路前来：每天都有班车从乌兰巴托的龙巴士站（Dragon Bus Terminal）出发，沿着大部分路段已铺设的公路行驶，全程大约需要8到11小时，具体视路况而定。司机和合乘吉普车走同一条路线，大约7小时即可到达；从西部过来的旅客，通常会搭乘往返首都的长途班车，途经此地转乘。",
       "days": "建议安排大约1到2天的时间，游览寺院、博物馆和小镇本身；如果打算以车车尔勒格为据点，前往周边杭爱地区进行一日游，则需要预留更多时间。"
     }
+  },
+  "Darkhan": {
+    "en": {
+      "blurb": "Darkhan is Mongolia's second largest city, a planned industrial centre raised from the steppe in 1961 with help from the Soviet Union and other socialist allies. It mixes Soviet era apartment blocks and factories with ger districts on the fringe, and sits at a crossing point of the country's main road and rail routes north toward Russia.",
+      "getting": "Darkhan has no commercial airport of its own, so most travellers fly into Chinggis Khaan International Airport (ULN) near Ulaanbaatar and continue overland. From there, Darkhan is reached by train on the Trans-Mongolian Railway via Darkhan-1 station, or by road coach from the capital, with the journey taking roughly ~4 to 6 hours depending on the mode and number of stops.",
+      "days": "~1 day is enough to cover Darkhan's main sights, including its museums, main square, and Buddhist temple, making it a worthwhile stopover between Ulaanbaatar and destinations further north like Sukhbaatar or Erdenet."
+    },
+    "ko": {
+      "blurb": "다르항은 몽골에서 두 번째로 큰 도시로, 1961년 소련을 비롯한 사회주의 우방국들의 지원을 받아 초원 위에 세워진 계획 공업도시입니다. 소련 시대의 아파트 단지와 공장들이 외곽의 게르 지역과 뒤섞여 있으며, 러시아로 향하는 몽골의 주요 도로와 철도가 교차하는 지점에 자리 잡고 있습니다.",
+      "getting": "다르항에는 자체 상업 공항이 없어, 대부분의 여행객은 울란바토르 인근의 칭기즈칸 국제공항(ULN)으로 입국한 뒤 육로로 이동합니다. 공항에서 다르항까지는 시베리아 횡단철도의 지선인 다르항-1역을 통해 기차로 가거나, 수도에서 출발하는 시외버스를 이용할 수 있으며, 이동 수단과 경유지 수에 따라 대략 4~6시간 정도 소요됩니다.",
+      "days": "다르항의 박물관, 중앙 광장, 불교 사원 등 주요 볼거리를 둘러보기에는 하루 정도면 충분합니다. 울란바토르와 수흐바타르, 에르데네트 등 북쪽 지역 사이를 오가는 길에 들르기 좋은 경유지입니다."
+    },
+    "ja": {
+      "blurb": "ダルハンはモンゴル第二の都市で、1961年にソビエト連邦や他の社会主義諸国の協力を得て、草原の中に築かれた計画的な工業都市です。ソビエト時代の集合住宅や工場群と、郊外に広がるゲル地区が混在する独特の街並みを持ち、国内の主要な道路と鉄道がロシア方面へ向かって交差する地点に位置しています。",
+      "getting": "ダルハンには独自の商業空港がないため、多くの旅行者はウランバートル近郊のチンギスハーン国際空港（ULN）に到着し、そこから陸路で移動します。空港からダルハンへは、シベリア鉄道（モンゴル縦貫鉄道）に乗ってダルハン第一駅（Darkhan-1）まで行く方法か、首都からの長距離バスを利用する方法があり、移動手段や停車回数によって所要時間はおよそ4～6時間となります。",
+      "days": "ダルハンの見どころを巡るには1日程度で十分です。博物館や中央広場、仏教寺院などを訪れることができ、ウランバートルからスーホバートルやエルデネトといった北部の目的地へ向かう途中に立ち寄るのにも最適な街です。"
+    },
+    "es": {
+      "blurb": "Darkhan es la segunda ciudad más grande de Mongolia, un centro industrial planificado que surgió de la estepa en 1961 con la ayuda de la Unión Soviética y otros países aliados del bloque socialista. Combina bloques de apartamentos y fábricas de la era soviética con barrios de gers en las afueras, y se ubica en un punto de cruce de las principales rutas viales y ferroviarias del país hacia el norte, en dirección a Rusia.",
+      "getting": "Darkhan no cuenta con aeropuerto comercial propio, por lo que la mayoría de los viajeros llega al Aeropuerto Internacional Chinggis Khaan (ULN), cerca de Ulaanbaatar, y continúa el trayecto por tierra. Desde allí, se puede llegar a Darkhan en tren por el Ferrocarril Transmongol, vía la estación de Darkhan-1, o en autobús de larga distancia desde la capital, con un viaje que dura aproximadamente entre 4 y 6 horas, según el medio de transporte y la cantidad de paradas.",
+      "days": "Con ~1 día alcanza para recorrer los principales atractivos de Darkhan, incluidos sus museos, la plaza principal y el templo budista, lo que la convierte en una parada que vale la pena entre Ulaanbaatar y destinos más al norte, como Sukhbaatar o Erdenet."
+    },
+    "zh": {
+      "blurb": "达尔汗是蒙古第二大城市，1961年在苏联及其他社会主义盟友的协助下，在草原上拔地而起的一座规划工业城市。这里既有苏联时代风格的居民楼和工厂，也有分布在城市边缘的蒙古包聚居区，同时还是蒙古通往俄罗斯的主要公路和铁路干线的交汇点。",
+      "getting": "达尔汗本身没有商业机场，因此大多数旅客会先飞抵乌兰巴托附近的成吉思汗国际机场（ULN），再转乘陆路交通前往。从乌兰巴托出发，可乘坐途经达尔汗一号站（Darkhan-1）的中蒙俄铁路列车，也可选择长途客车，具体耗时视交通方式和停靠站数而定，大约需要4到6小时。",
+      "days": "大约1天时间便足以游览达尔汗的主要景点，包括当地的博物馆、中心广场以及一座佛教寺庙。这里也是从乌兰巴托前往苏赫巴托尔（Sukhbaatar）或额尔登特（Erdenet）等北部城市途中，值得一游的中途停留站。"
+    }
+  },
+  "Gobi Gurvansaikhan National Park": {
+    "en": {
+      "blurb": "Gobi Gurvansaikhan National Park is Mongolia's largest protected area, a vast swath of the Gobi Desert where towering singing sand dunes, sheer ice-filled gorges and wind-carved cliffs sit side by side. It shelters rare wildlife such as snow leopards, argali sheep and Siberian ibex across a landscape of extremes, from scorching summer days to bitter winter nights.",
+      "getting": "Most travellers fly from Ulaanbaatar's Chinggis Khaan International Airport to Dalanzadgad Airport (DLZ), a flight of around one hour, then continue to the park by pre-arranged jeep or tour vehicle. An overland route by road also exists, but it takes considerably longer and is generally reserved for those with extra time or their own expedition vehicle.",
+      "days": "Plan for at least 4 to 6 days to cover the park's main highlights, including the Khongoryn Els dunes, Yolyn Am valley and the Flaming Cliffs, plus the travel time to and from Dalanzadgad."
+    },
+    "ko": {
+      "blurb": "고비 구르반사이한 국립공원은 몽골에서 가장 넓은 자연보호구역으로, 광활한 고비 사막 한가운데 우뚝 솟은 노래하는 모래언덕과 얼음으로 가득한 협곡, 바람이 깎아낸 기암절벽이 한자리에 모여 있습니다. 눈표범, 아르갈리 양, 시베리안 아이벡스 같은 희귀 야생동물이 이곳에 서식하며, 타는 듯한 여름 낮과 매섭게 추운 겨울밤이 극명하게 교차하는 혹독한 환경을 품고 있습니다.",
+      "getting": "대부분의 여행자는 울란바토르 칭기즈칸 국제공항에서 비행기를 타고 약 1시간 거리의 달란자드가드 공항(DLZ)까지 이동한 뒤, 미리 예약한 지프나 투어 차량으로 공원까지 들어갑니다. 육로로 이동하는 방법도 있지만 시간이 훨씬 오래 걸리기 때문에, 일정에 여유가 있거나 자신의 탐험용 차량을 가진 여행자에게 적합합니다.",
+      "days": "홍고린 엘스 모래언덕, 욜린 암 협곡, 플레이밍 클리프 등 공원의 주요 명소를 둘러보려면 달란자드가드를 오가는 이동 시간을 포함해 최소 4~6일 정도의 일정을 잡는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "ゴビ・グルワンサイハン国立公園は、モンゴル最大の自然保護区であり、ゴビ砂漠の広大な一帯に、鳴き砂で知られる巨大な砂丘、氷を抱く険しい渓谷、風が削り出した断崖が隣り合って広がっています。夏の灼熱の日々から冬の厳しい寒夜まで、極端な気候が織りなすこの大地には、ユキヒョウ、アルガリ(大型野生羊)、シベリアアイベックスといった貴重な野生動物たちが生息しています。",
+      "getting": "多くの旅行者は、ウランバートルのチンギスハーン国際空港からダランザドガド空港(DLZ)まで約1時間のフライトで移動し、そこから事前に手配したジープやツアー車両で公園へ向かいます。陸路で向かうルートもありますが、時間がかなりかかるため、余裕のある日程を組める人や自分の遠征車両を持つ人向けと言えるでしょう。",
+      "days": "ホンゴリン・エルスの大砂丘、ヨリーン・アム渓谷、フレーミング・クリフス(炎の崖)など、公園の主要な見どころを巡るには、ダランザドガドまでの往復の移動時間を含めて、最低でも4日から6日程度の日程を組むことをおすすめします。"
+    },
+    "es": {
+      "blurb": "El Parque Nacional Gobi Gurvansaikhan es la mayor área protegida de Mongolia, una extensa franja del desierto de Gobi donde imponentes dunas de arena cantoras, profundos desfiladeros repletos de hielo y acantilados esculpidos por el viento conviven uno junto al otro. Alberga fauna poco común, como leopardos de las nieves, argalíes y íbices siberianos, en un paisaje de extremos, que va desde abrasadores días de verano hasta gélidas noches de invierno.",
+      "getting": "La mayoría de los viajeros vuela desde el Aeropuerto Internacional Chinggis Khaan de Ulán Bator hasta el Aeropuerto de Dalanzadgad (DLZ), un trayecto de aproximadamente una hora, para luego continuar hacia el parque en un jeep o vehículo turístico previamente contratado. También existe una ruta terrestre por carretera, aunque toma considerablemente más tiempo y suele quedar reservada para quienes disponen de tiempo extra o cuentan con su propio vehículo de expedición.",
+      "days": "Conviene reservar al menos entre 4 y 6 días para recorrer los principales atractivos del parque, incluidas las dunas de Khongoryn Els, el valle de Yolyn Am y los Acantilados Llameantes, sin contar el tiempo de traslado hacia y desde Dalanzadgad."
+    },
+    "zh": {
+      "blurb": "戈壁古尔班赛汗国家公园是蒙古最大的自然保护区，坐落在广袤的戈壁沙漠之中。这里既有高耸的\"鸣沙\"沙丘，又有布满冰层的幽深峡谷，还有被风雕琢出奇特造型的悬崖，地貌之丰富令人惊叹。公园内栖息着雪豹、阿尔泰盘羊和西伯利亚野山羊等珍稀野生动物，而气候同样极端——盛夏酷热难耐，寒冬彻骨刺骨。",
+      "getting": "大多数游客会选择从乌兰巴托的成吉思汗国际机场飞往达兰扎德嘎德机场（DLZ），航程约一小时，再换乘事先安排好的吉普车或旅游用车前往公园。虽然也可以选择陆路前往，但耗时要长得多，通常只适合时间充裕或拥有自备越野车的旅行者。",
+      "days": "建议至少安排4到6天时间，以便游览公园内的主要景点，包括洪戈尔沙丘（Khongoryn Els）、约隆大峡谷（Yolyn Am）以及火焰崖（Flaming Cliffs），同时还需计入往返达兰扎德嘎德的路途时间。"
+    }
+  },
+  "Terelj": {
+    "en": {
+      "blurb": "Gorkhi-Terelj National Park is a landscape of granite outcrops, pine forest and open steppe valleys, dotted with ger camps just beyond the edge of Ulaanbaatar. It is one of Mongolia's most visited protected areas, prized as an easy escape into alpine scenery without a long overland journey.",
+      "getting": "Travellers typically fly into Ulaanbaatar's Chinggis Khaan International Airport (UBN), then continue by road: the park has no rail or air link of its own. From the capital, buses, taxis or private tours cover the paved route east, with the journey taking ~1.5 to 2 hours depending on the exact destination within the park.",
+      "days": "Most visitors allow 1 to 2 days, enough time for a day trip to sights like Turtle Rock and Aryabal Monastery, or an overnight stay in a ger camp for horse riding and hiking at a slower pace."
+    },
+    "ko": {
+      "blurb": "고르히-테렐지 국립공원은 화강암 바위산과 소나무 숲, 드넓은 스텝 계곡이 어우러진 풍경 속에 게르 캠프들이 곳곳에 자리한 곳으로, 울란바토르 외곽에서 멀지 않은 거리에 펼쳐져 있다. 몽골에서 가장 많은 방문객이 찾는 보호구역 중 하나로, 긴 육로 여정 없이도 알파인 풍경 속으로 손쉽게 떠날 수 있는 곳으로 손꼽힌다.",
+      "getting": "여행자들은 보통 울란바토르의 칭기스 칸 국제공항(UBN)으로 입국한 뒤 육로로 이동한다. 공원 자체에는 철도나 항공 노선이 없기 때문이다. 수도에서는 버스, 택시, 또는 프라이빗 투어를 이용해 동쪽으로 포장도로를 따라 이동하며, 공원 내 정확한 목적지에 따라 이동 시간은 약 1시간 30분에서 2시간 정도 걸린다.",
+      "days": "대부분의 여행자는 1~2일 정도 일정을 잡는다. 거북바위(터틀 록)와 아리야발 사원 같은 명소를 둘러보는 당일 여행이라면 충분한 시간이며, 좀 더 여유롭게 말을 타거나 트레킹을 즐기고 싶다면 게르 캠프에서 하룻밤을 묵는 것도 좋은 방법이다."
+    },
+    "ja": {
+      "blurb": "ゴルヒ・テレルジ国立公園は、花崗岩の岩山と松林、そして開けたステップの谷が織り成す風景の中に、ゲルキャンプが点在する場所で、ウランバートルの喧騒からほんの少し離れただけの場所に広がっています。モンゴルで最も人気の高い自然保護区の一つで、長時間の陸路移動をせずに手軽にアルパインの絶景を楽しめる避暑地として評価されています。",
+      "getting": "旅行者はまずウランバートルのチンギスハーン国際空港(UBN)へ飛び、そこから陸路で向かうのが一般的です。公園自体には鉄道も空港もありません。首都からはバス、タクシー、または貸切ツアーで東へ舗装路を進み、公園内の目的地によって所要時間はおよそ1.5~2時間です。",
+      "days": "多くの旅行者は1~2日の滞在を見込んでいます。これは、タートルロックやアリャバル僧院などの見どころを巡る日帰り旅行には十分な時間で、ゲルキャンプに一泊してゆったりと乗馬やハイキングを楽しむのにも適した長さです。"
+    },
+    "es": {
+      "blurb": "El Parque Nacional Gorkhi-Terelj despliega un paisaje de afloramientos de granito, bosques de pinos y amplios valles de estepa, salpicado de campamentos de gers a las puertas mismas de Ulán Bator. Se trata de una de las áreas protegidas más visitadas de Mongolia, apreciada como una escapada sencilla hacia paisajes alpinos sin necesidad de largas travesías por tierra.",
+      "getting": "Lo habitual es llegar en avión al Aeropuerto Internacional Chinggis Khaan de Ulán Bator (UBN) y continuar luego por carretera, ya que el parque no cuenta con conexión ferroviaria ni aérea propia. Desde la capital, autobuses, taxis o tours privados recorren la ruta asfaltada hacia el este, con un trayecto de entre 1,5 y 2 horas aproximadamente, según el destino exacto dentro del parque.",
+      "days": "La mayoría de los visitantes reserva entre 1 y 2 días, tiempo suficiente para una excursión de un día a lugares como la Roca de la Tortuga y el Monasterio de Aryabal, o para pasar una noche en un campamento de gers y disfrutar con más calma de paseos a caballo y senderismo."
+    },
+    "zh": {
+      "blurb": "戈尔希-特勒尔吉国家公园坐落在乌兰巴托近郊，是一片由花岗岩山石、松林和开阔草原峡谷构成的自然景观，游牧包（蒙古包）营地点缀其间。作为蒙古最受欢迎的自然保护区之一，这里因无需长途跋涉即可轻松领略高原风光而备受青睐。",
+      "getting": "游客通常先飞抵乌兰巴托成吉思汗国际机场（UBN），之后再转陆路前往，因为公园本身并无铁路或航空连接。从市区出发，可乘坐巴士、出租车或参加私人旅行团，沿铺装公路向东行驶，视公园内具体目的地而定，车程约1.5至2小时。",
+      "days": "大多数游客会安排1到2天的行程，足以进行一次一日游，参观龟石和阿里雅巴勒寺等景点，或是入住蒙古包营地过夜，以更悠闲的节奏体验骑马和徒步活动。"
+    }
+  },
+  "Ulaanbaatar": {
+    "en": {
+      "blurb": "Ulaanbaatar is a city of jarring contrasts: glass towers and Soviet-era apartment blocks ring a valley where gers still cluster on the hillsides, and the world's biggest Genghis Khan statue stands just an hour's drive away on the open steppe. As the coldest capital on earth and the gateway to the Gobi Desert and nomadic heartland beyond, it works less as a destination in itself and more as the hinge between modern Mongolia and the wilderness that surrounds it.",
+      "getting": "Most travellers fly into Chinggis Khaan International Airport (UBN), Mongolia's main international gateway, located around 50km south of the city centre, with transfers into town taking roughly 1 hour. Overland arrivals typically come via the Trans-Mongolian Railway, which calls at Ulaanbaatar's central railway station on routes linking Moscow, Beijing and the Russian and Chinese border crossings.",
+      "days": "Budget ~2-3 days to cover the main sights: Sukhbaatar Square, the Gandan Monastery, the national museums and a half-day trip out to the Genghis Khan Statue Complex, before heading further afield into the countryside."
+    },
+    "ko": {
+      "blurb": "울란바토르는 극명한 대조로 가득한 도시다. 유리로 뒤덮인 고층 빌딩과 소비에트 시대의 아파트 단지가 계곡을 에워싸고 있지만, 그 언덕 비탈에는 여전히 게르(몽골 전통 텐트)들이 모여 있으며, 차로 한 시간만 가면 드넓은 초원 위에 세계에서 가장 큰 칭기즈 칸 동상이 서 있다. 지구상에서 가장 추운 수도이자 고비 사막과 그 너머 유목민의 땅으로 향하는 관문인 울란바토르는, 목적지 그 자체라기보다는 현대 몽골과 그를 둘러싼 광활한 자연을 잇는 경첩 같은 도시다.",
+      "getting": "대부분의 여행자는 몽골의 주요 국제공항인 칭기즈 칸 국제공항(UBN)을 통해 입국한다. 공항은 시내 중심에서 남쪽으로 약 50km 떨어져 있으며, 시내까지는 대략 1시간 정도 소요된다. 육로로 입국하는 경우에는 주로 시베리아 횡단-몽골 횡단 철도를 이용하는데, 이 노선은 모스크바와 베이징, 그리고 러시아·중국 국경 통과 지점을 연결하며 울란바토르 중앙역에 정차한다.",
+      "days": "수흐바타르 광장, 간단 사원, 국립박물관, 그리고 칭기즈 칸 동상 단지로의 반나절 여행 등 주요 명소를 둘러보려면 대략 2~3일 정도를 잡으면 된다. 그 후에는 좀 더 먼 시골 지역으로 떠나보는 것도 좋다."
+    },
+    "ja": {
+      "blurb": "ウランバートルは、強烈なコントラストが共存する街だ。ガラス張りの高層ビルとソビエト時代の団地が立ち並ぶ盆地を取り囲むように、丘の斜面にはいまもゲルが点在し、車でわずか1時間の大草原には、世界最大のチンギス・ハーン像がそびえている。世界で最も寒い首都であり、ゴビ砂漠やその先に広がる遊牧の大地への玄関口でもあるこの街は、目的地そのものというよりも、近代モンゴルと周囲の大自然とをつなぐ蝶番のような存在だ。",
+      "getting": "多くの旅行者は、モンゴル最大の国際空港であるチンギスハーン国際空港(UBN)を利用する。市街中心部から南へ約50km離れた場所にあり、市内までの移動には1時間ほどかかる。陸路で訪れる場合は、モスクワや北京、ロシア・中国国境の各都市を結ぶシベリア横断鉄道(モンゴル縦貫鉄道)を利用するのが一般的で、列車はウランバートル中央駅に停車する。",
+      "days": "主要な見どころを巡るには、2〜3日ほど見ておきたい。スフバートル広場、ガンダン寺院、各国立博物館、そして半日かけて訪れるチンギス・ハーン騎馬像コンプレックスなどを回ったら、いよいよ郊外の草原地帯へと足を伸ばそう。"
+    },
+    "es": {
+      "blurb": "Ulán Bator es una ciudad de contrastes brutales: torres de cristal y bloques de apartamentos de la era soviética rodean un valle donde todavía se agrupan gers en las colinas, y la estatua de Gengis Kan más grande del mundo se alza a solo una hora en coche, en plena estepa abierta. Como la capital más fría del planeta y la puerta de entrada al desierto de Gobi y al corazón nómada que se extiende más allá, funciona menos como un destino en sí mismo y más como la bisagra entre la Mongolia moderna y la naturaleza salvaje que la rodea.",
+      "getting": "La mayoría de los viajeros llega por el Aeropuerto Internacional Chinggis Khaan (UBN), la principal puerta de entrada internacional de Mongolia, ubicado a unos 50 km al sur del centro de la ciudad, desde donde el traslado al centro toma aproximadamente 1 hora. Las llegadas por tierra suelen hacerse a través del Ferrocarril Transmongoliano, que hace parada en la estación central de trenes de Ulán Bator, en rutas que conectan Moscú, Pekín y los cruces fronterizos ruso y chino.",
+      "days": "Conviene reservar entre 2 y 3 días para recorrer los principales atractivos: la Plaza Sukhbaatar, el Monasterio de Gandan, los museos nacionales y una excursión de medio día al Complejo de la Estatua de Gengis Kan, antes de aventurarse más allá hacia el campo."
+    },
+    "zh": {
+      "blurb": "乌兰巴托是一座充满强烈反差的城市：玻璃幕墙高楼与苏联时代的公寓楼环绕着一片山谷，而蒙古包依然成群地散落在周边的山坡上；距市区仅一小时车程的开阔草原上，还矗立着世界最大的成吉思汗雕像。作为地球上最寒冷的首都，也是通往戈壁沙漠和广袤游牧腹地的门户，乌兰巴托与其说是一个目的地，不如说是连接现代蒙古与周边荒野的枢纽。",
+      "getting": "大多数游客会飞抵成吉思汗国际机场（UBN），这是蒙古主要的国际门户机场，位于市中心以南约50公里处，前往市区大约需要1小时车程。陆路入境通常经由跨蒙古铁路，该线路连接莫斯科、北京以及中俄边境口岸，并停靠乌兰巴托市中心火车站。",
+      "days": "建议安排约2-3天游览主要景点：苏赫巴托广场、甘丹寺、各大国家博物馆，以及用半天时间前往成吉思汗雕像景区，之后再前往更远的乡村地区继续行程。"
+    }
   }
 }

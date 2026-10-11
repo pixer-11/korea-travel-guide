@@ -32653,5 +32653,89 @@
   "registerBreak": false,
   "worst": "据客流数据，周六、周日从上午9点到下午6点全天都很清静，用不着一大早赶去抢在人潮前面。",
   "at": "2026-10-11T07:49:23.614Z"
+ },
+ "es/cotai-the-ritz-carlton-cafe": {
+  "hash": "5b19f759a0c4",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "El horario es muy amplio: ahora mismo abre a las 7am y cierra a las 10:30pm, igual todos...",
+  "at": "2026-10-11T14:27:17.190Z"
+ },
+ "es/gobi-gurvansaikhan-national-park-yolyn-am-canyon": {
+  "hash": "9f0d7aa79949",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Antaño ese hielo resistía hasta bien entrado el verano.",
+  "at": "2026-10-11T14:27:18.310Z"
+ },
+ "es/khustai-national-park-gorkhi-terelj-national-park": {
+  "hash": "9a38aaff08cd",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "- **Desplazamientos:** una vez dentro, muévase en el sentido de las agujas del relo",
+  "at": "2026-10-11T14:27:19.394Z"
+ },
+ "ja/cotai-the-ritz-carlton-cafe": {
+  "hash": "f0b15a07274c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "現在は毎日同じで、7amに開店し10:30pmに閉店します。",
+  "at": "2026-10-11T14:27:25.619Z"
+ },
+ "ja/gobi-gurvansaikhan-national-park-yolyn-am-canyon": {
+  "hash": "34f44521d767",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-11T14:27:26.522Z"
+ },
+ "ja/khustai-national-park-gorkhi-terelj-national-park": {
+  "hash": "dbbd1eb3ccb3",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-11T14:27:27.375Z"
+ },
+ "ko/cotai-the-ritz-carlton-cafe": {
+  "hash": "c274226eab49",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "거기서 조금만 더 가면 코타이를 찾는 방문객 대부분이 그냥 지나쳐 버리는 식탁에 앉을 수 있습니다.",
+  "at": "2026-10-11T14:27:33.860Z"
+ },
+ "ko/gobi-gurvansaikhan-national-park-yolyn-am-canyon": {
+  "hash": "59b7ea69e4fe",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "욜린암이라는 이름은 '수염수리의 골짜기'라는 뜻입니다.",
+  "at": "2026-10-11T14:27:34.913Z"
+ },
+ "ko/khustai-national-park-gorkhi-terelj-national-park": {
+  "hash": "8e1926ccbecc",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "타히는 유일하게 남은 진정한 야생마 종으로, 야생에서는 한때 자취를 감췄다가 이곳에 다시 방사되었습니다.",
+  "at": "2026-10-11T14:27:36.251Z"
+ },
+ "zh/cotai-the-ritz-carlton-cafe": {
+  "hash": "76522a1ac561",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "离开度假城的主要动线，一步就迈进了丽思卡尔顿水准的酒店餐厅",
+  "at": "2026-10-11T14:27:43.418Z"
+ },
+ "zh/gobi-gurvansaikhan-national-park-yolyn-am-canyon": {
+  "hash": "355ce87bb90e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "车开进国家公园后，一直到步道起点的停车场为止。",
+  "at": "2026-10-11T14:27:44.445Z"
+ },
+ "zh/khustai-national-park-gorkhi-terelj-national-park": {
+  "hash": "1222eecd9fe5",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "住两晚的话，还能痛痛快快地骑一趟马。",
+  "at": "2026-10-11T14:27:45.474Z"
  }
 }

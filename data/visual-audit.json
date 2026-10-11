@@ -6002,6 +6002,12 @@
   "reason": "publish gate: Night view of Cotai Strip with City of Dreams sign",
   "at": "2026-10-06T14:26:23.403Z"
  },
+ "cotai-the-ritz-carlton-cafe\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/MC_%E6%BE%B3%E9%96%80_Macao_%E8%B7%AF%E6%B0%B9%E5%9F%8E_Cotai_Galaxy_Promenade_hotel_%E6%BE%B3%E9%96%80%E9%BA%97%E6%80%9D%E5%8D%A1%E7%88%BE%E9%A0%93%E9%85%92%E5%BA%97_The_Ritz-Carlton_Cafe_Macau_restaurant_interior_round_table_March_2026_N13P_01.jpg/3840px-thumbnail.jpg": {
+  "slug": "cotai-the-ritz-carlton-cafe",
+  "verdict": "MATCH",
+  "reason": "publish gate: Elegant restaurant interior, plausible upscale cafe setting",
+  "at": "2026-10-11T14:24:51.740Z"
+ },
  "cotai-the-venetian-macao\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/MC_%E6%BE%B3%E9%96%80_Macau_%E8%B7%AF%E6%B0%B9_Taipa_%E9%87%91%E5%85%89%E5%A4%A7%E9%81%93_Cotai_hotel_shuttle_view_November_2019_SS2_07_The_Venetian_Macao_bridge.jpg/1920px-MC_%E6%BE%B3%E9%96%80_Macau_%E8%B7%AF%E6%B0%B9_Taipa_%E9%87%91%E5%85%89%E5%A4%A7%E9%81%93_Cotai_hotel_shuttle_view_November_2019_SS2_07_The_Venetian_Macao_bridge.jpg": {
   "slug": "cotai-the-venetian-macao",
   "verdict": "MATCH",
@@ -7686,6 +7692,12 @@
   "reason": "Hindu temple with characteristic architecture, pond, red-til",
   "reasonKo": "힌두 사원, 특징적 건축, 연못, 빨간 기와",
   "at": "2026-08-15T13:11:13.650Z"
+ },
+ "gobi-gurvansaikhan-national-park-yolyn-am-canyon\u0001https://upload.wikimedia.org/wikipedia/commons/9/94/Yolyn_Am_08.jpg": {
+  "slug": "gobi-gurvansaikhan-national-park-yolyn-am-canyon",
+  "verdict": "MATCH",
+  "reason": "publish gate: Narrow rocky canyon with ice, matches Yolyn Am",
+  "at": "2026-10-11T14:24:51.865Z"
  },
  "gold-coast-burleigh-head-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Burleigh_Heads_and_Tallebudgera_Creek.JPG/1920px-Burleigh_Heads_and_Tallebudgera_Creek.JPG": {
   "slug": "gold-coast-burleigh-head-national-park",
@@ -12184,6 +12196,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Ornate interior room with bed, representative of palace interior",
   "at": "2026-08-20T09:18:53.751Z"
+ },
+ "khustai-national-park-gorkhi-terelj-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Gorkhi-Terelj_National_Parkl%2C_2011_%2825%29.jpg/3840px-Gorkhi-Terelj_National_Parkl%2C_2011_%2825%29.jpg": {
+  "slug": "khustai-national-park-gorkhi-terelj-national-park",
+  "verdict": "MATCH",
+  "reason": "publish gate: Mongolian steppe with ger camp, plausible park scene",
+  "at": "2026-10-11T14:24:51.698Z"
  },
  "khustai-national-park-khustain-nuruu-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Khustain_Nuruu_National_Park.jpg/1920px-Khustain_Nuruu_National_Park.jpg": {
   "slug": "khustai-national-park-khustain-nuruu-national-park",
@@ -25154,6 +25172,12 @@
   "reason": "patrol replace: Filthy Animal storefront clearly visible, Tempe street",
   "at": "2026-10-01T23:39:29.479Z"
  },
+ "terelj-aryapala-temple-meditation-center\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Aryapala_Initiation_and_Meditation_Center_Temple.JPG/3840px-Aryapala_Initiation_and_Meditation_Center_Temple.JPG": {
+  "slug": "terelj-aryapala-temple-meditation-center",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows temple building with mountains, matches Terelj location",
+  "at": "2026-10-11T14:24:51.840Z"
+ },
  "termez-eco-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Eco_Park_in_Tashkent.jpg/3840px-Eco_Park_in_Tashkent.jpg": {
   "slug": "termez-eco-park",
   "verdict": "MATCH",
@@ -26198,6 +26222,48 @@
   "reason": "Iconic dome fountain at Saheliyon ki Bari, Udaipur",
   "reasonKo": "우다이푸르 사헬리욘 키 바리의 상징적 분수",
   "at": "2026-08-03T14:41:09.973Z"
+ },
+ "ulaanbaatar-chinggis-khaan-national-museum-mongolia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Chinggis_Khaan_National_Museum_front_2023.jpg/3840px-Chinggis_Khaan_National_Museum_front_2023.jpg": {
+  "slug": "ulaanbaatar-chinggis-khaan-national-museum-mongolia",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior view of distinctive museum building, representative hero shot",
+  "at": "2026-10-11T14:24:51.979Z"
+ },
+ "ulaanbaatar-choijin-lama-temple-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Choijin_Lama_Museum%2C_Ulaanbaatar%2C_Mongolia_%2848788604416%29.jpg/3840px-Choijin_Lama_Museum%2C_Ulaanbaatar%2C_Mongolia_%2848788604416%29.jpg": {
+  "slug": "ulaanbaatar-choijin-lama-temple-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Choijin Lama Temple with Ulaanbaatar skyline backdrop",
+  "at": "2026-10-11T14:24:51.957Z"
+ },
+ "ulaanbaatar-gandantegchinlen-monastery\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Gandantegchinlen_Monastery_%282024%29.jpg/1920px-Gandantegchinlen_Monastery_%282024%29.jpg": {
+  "slug": "ulaanbaatar-gandantegchinlen-monastery",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Gandantegchinlen Monastery exterior in Ulaanbaatar, representative view",
+  "at": "2026-10-11T14:24:51.792Z"
+ },
+ "ulaanbaatar-manzushir-monastery\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Manzushir_Monastery.jpg/1920px-Manzushir_Monastery.jpg": {
+  "slug": "ulaanbaatar-manzushir-monastery",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of traditional monastery building, matches venue type",
+  "at": "2026-10-11T14:24:51.767Z"
+ },
+ "ulaanbaatar-state-department-store\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Ikh_Delguur_2023.jpg/1920px-Ikh_Delguur_2023.jpg": {
+  "slug": "ulaanbaatar-state-department-store",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of State Department Store building, Ulaanbaatar",
+  "at": "2026-10-11T14:24:51.931Z"
+ },
+ "ulaanbaatar-sukhbaatar-square\u0001https://upload.wikimedia.org/wikipedia/commons/c/c9/Chinggis_Square.jpg": {
+  "slug": "ulaanbaatar-sukhbaatar-square",
+  "verdict": "MATCH",
+  "reason": "publish gate: Aerial view of Sükhbaatar Square with city backdrop",
+  "at": "2026-10-11T14:24:51.817Z"
+ },
+ "ulaanbaatar-zanabazar-museum-of-fine-arts\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/The_Fine_Arts_Zanabazar_Museum.jpg/1920px-The_Fine_Arts_Zanabazar_Museum.jpg": {
+  "slug": "ulaanbaatar-zanabazar-museum-of-fine-arts",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of museum building with visible name signage",
+  "at": "2026-10-11T14:24:51.908Z"
  },
  "uluwatu-my-dear-clara\u0001https://fastly.4sqi.net/img/general/original/504861612_kdoOE7FPCKxwqO79rzse7qgZFvDutud3ueOA2_e3vh4.jpg": {
   "slug": "uluwatu-my-dear-clara",
