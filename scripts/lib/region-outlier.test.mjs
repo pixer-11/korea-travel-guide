@@ -430,3 +430,26 @@ test('Path 3 역방향: 자기 구역 글이 1편뿐이면 퍼짐을 못 재니 
   ];
   assert.deepEqual(findRegionOutliers(posts).map((h) => h.post.file), []);
 });
+
+test('declaredRegionInAddress: a declared region the address names wins over the searched one (Mongolia, 10-11)', async () => {
+  const { declaredRegionInAddress } = await import('./region-outlier.mjs');
+  const mn = ['Ulaanbaatar', 'Kharkhorin', 'Murun', 'Erdenet', 'Dalanzadgad'];
+  assert.equal(declaredRegionInAddress('6R2R+F9Q, Kharkhorin, Ovorkhangai, Mongolia', mn, 'Erdenet'), 'Kharkhorin');
+  assert.equal(declaredRegionInAddress('Travel St 1, CHD - 4 khoroo, Ulaanbaatar 15160, Mongolia', mn, 'Dalanzadgad'), 'Ulaanbaatar');
+  // the searched region is in the address too, or nothing / two are named: keep it
+  assert.equal(declaredRegionInAddress('Main St, Murun, Khovsgol, Mongolia', mn, 'Murun'), null);
+  assert.equal(declaredRegionInAddress('Harhorin, Ovorkhangai, Mongolia', mn, 'Murun'), null);
+  // the street is named after one region, the town is another: the town counts
+  assert.equal(declaredRegionInAddress('Ulaanbaatar Rd, Erdenet, Mongolia', mn, 'Dalanzadgad'), 'Erdenet');
+  assert.equal(declaredRegionInAddress('Kharkhorin, Erdenet, Mongolia', mn, 'Dalanzadgad'), null); // two towns named
+  // a street named after a region is not that region
+  assert.equal(declaredRegionInAddress('12 Ulaanbaatar Rd, Sainshand, Mongolia', mn, 'Dalanzadgad'), null);
+  // a region that already has live posts is regionAtBirth's to judge; the country-named region never moves a guide
+  assert.equal(declaredRegionInAddress('6R2R+F9Q, Kharkhorin, Mongolia', mn, 'Erdenet', { settled: new Set(['Kharkhorin']) }), null);
+  assert.equal(declaredRegionInAddress('18 Marina Gardens Dr, Singapore 018953', ['Singapore', 'Marina Bay'], 'Marina Bay', { country: 'Singapore' }), null);
+  // diacritics fold, and the searched region is not mistaken for a street
+  assert.equal(declaredRegionInAddress('Andifli, 07580 Kaş/Antalya, Türkiye', ['Kas', 'Antalya'], 'Kas'), null);
+  assert.equal(declaredRegionInAddress('391 Orchard Road, Singapore 238872', ['Singapore', 'Orchard Road'], 'Orchard Road', { country: 'Singapore' }), null);
+  // whole words only
+  assert.equal(declaredRegionInAddress('Murunbayar St, Dalanzadgad', ['Murun', 'Dalanzadgad'], 'Ulaanbaatar'), 'Dalanzadgad');
+});

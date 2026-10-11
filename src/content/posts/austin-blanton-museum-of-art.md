@@ -56,14 +56,14 @@ place:
 tags:
   - "austin"
   - "museum"
-quickAnswer: "The Blanton Museum of Art sits on the University of Texas at Austin campus, right at the corner of Martin Luther King Jr Blvd and Congress Avenue downtown, and it's the state's largest university art museum. Weekends run 10am to 6pm calmest, with Saturday's late close at 8pm turning into the busiest stretch from 11am to 8pm. Budget two to three hours, closed Mondays, and plan around Ellsworth Kelly's freestanding chapel building, Austin, which is ticketed separately from the main galleries."
+quickAnswer: "The Blanton Museum of Art sits on the University of Texas at Austin campus, right at the corner of Martin Luther King Jr Blvd and Congress Avenue downtown, and it's the state's largest university art museum. At weekends the calmest time is the first hour after the 10am opening; from 11am the galleries stay busy, on Saturdays right through to the 8pm close. Budget two to three hours, closed Mondays, and plan around Ellsworth Kelly's freestanding chapel building, Austin, which is ticketed separately from the main galleries."
 faq:
   - q: "How much time should I budget for the Blanton Museum of Art?"
     a: "Plan on two to three hours for the main galleries and the short walk to the Austin building, longer if a special exhibition is on."
   - q: "Is the Blanton Museum of Art open on Mondays?"
     a: "No, it's closed Mondays. Tuesday through Sunday it opens at 10am, closing at 5pm most days and 8pm on Saturdays."
   - q: "What is the quietest time to visit?"
-    a: "On weekends, the calmest window is 10am to 6pm; try to avoid arriving after 11am on Saturday, when crowds build steadily through the 8pm close."
+    a: "On weekends, the calmest time is the first hour after the 10am opening; from 11am crowds build, and on Saturdays they hold through the 8pm close."
   - q: "Do I need a separate ticket for the Ellsworth Kelly building, Austin?"
     a: "Yes, Austin requires its own timed ticket separate from general museum admission, and capacity is limited, so it's worth arranging early in your visit."
   - q: "Where is the Blanton Museum of Art in relation to downtown Austin?"
@@ -100,7 +100,7 @@ There's no religious program attached to it despite the chapel-like cruciform sh
 
 The museum's hours aren't identical across the week, and it matters for planning. Tuesday through Friday and Sunday it closes at 5pm, while Saturday stretches to 8pm, the only evening opening all week.
 
-That extra Saturday window is also the busiest stretch, with crowds building from 11am through to closing at 8pm. If you want the galleries without the Saturday evening crowd, weekend visits are calmest in the 10am to 6pm window before the after-dinner crowd arrives.
+That extra Saturday window is also the busiest stretch, with crowds building from 11am through to closing at 8pm. If you want the galleries without the crowd, come at the 10am opening: the first hour is the calmest of the weekend.
 
 The museum is closed Mondays entirely, so don't build it into a Monday campus itinerary the way you might the Capitol or nearby UT landmarks, which keep more conventional hours.
 
@@ -122,6 +122,6 @@ Two to three hours covers the permanent collection at an unhurried pace, plus th
 
 Because this is a university museum, its rhythms follow the academic calendar as much as tourist patterns. Weekday mornings tend to be quieter before student groups and school tours arrive later in the day, though there's no published data narrowing this further.
 
-Given the popularity of the museum among visitors generally, arriving at opening on a weekday is a reasonable way to see the main galleries before tour groups build through midday. If Saturday is your only option, aim for the 10am to 6pm calmer window rather than the evening crowd that builds from 11am onward and holds until the 8pm close.
+Given the popularity of the museum among visitors generally, arriving at opening on a weekday is a reasonable way to see the main galleries before tour groups build through midday. If Saturday is your only option, arrive at the 10am opening, before the crowd that builds from 11am and holds until the 8pm close.
 
 Tickets are sold at the front desk and typically online in advance as well; buying ahead is worth it if you specifically want a slot to see Austin, since capacity there is limited by the building's small interior. Check the museum's official hours before visiting, particularly around university holidays when hours can shift from the standard weekly schedule listed here.

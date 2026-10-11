@@ -82,29 +82,15 @@ quickAnswer: >-
   day.
 faq:
   - q: What are the hours for Top of The Rock?
-    a: >-
-      Open daily 8am to midnight, with last elevator access typically about an
-      hour before closing — confirm the exact cutoff when you book, as it can
-      shift seasonally.
+    a: Open daily 8am to midnight, with last elevator access typically about an hour before closing — confirm the exact cutoff when you book, as it can shift seasonally.
   - q: When is the quietest time to visit?
-    a: >-
-      Measured crowd data shows the calmest windows are right at opening and
-      later in the evening (roughly 8am–11pm on both weekdays and weekends),
-      while 4pm–8pm on weekends is the busiest stretch to avoid.
+    a: Measured crowd data shows the calmest windows are right at opening and later in the evening (8am–9am and 10pm–11pm on weekdays, 8am–12pm and 9pm–11pm on weekends), while 4pm–8pm on weekends is the busiest stretch to avoid.
   - q: How do I get there by subway?
-    a: >-
-      Take the B, D, F, or M train to 47–50 Sts–Rockefeller Center, which exits
-      almost directly into the building; the 6 train (51st St) and E/M (Fifth
-      Ave–53rd St) are both a short walk.
+    a: Take the B, D, F, or M train to 47–50 Sts–Rockefeller Center, which exits almost directly into the building; the 6 train (51st St) and E/M (Fifth Ave–53rd St) are both a short walk.
   - q: Should I book tickets in advance?
-    a: >-
-      Yes — this is one of New York's most-visited observation decks, and
-      timed-entry tickets booked online in advance are the reliable way in;
-      walk-up lines on weekend afternoons can be long.
+    a: Yes — this is one of New York's most-visited observation decks, and timed-entry tickets booked online in advance are the reliable way in; walk-up lines on weekend afternoons can be long.
   - q: How long should I spend there?
-    a: >-
-      Plan for 60–90 minutes to cover all three observation levels (67, 69, and
-      70) rather than rushing through for a quick photo.
+    a: Plan for 60–90 minutes to cover all three observation levels (67, 69, and 70) rather than rushing through for a quick photo.
 aiGenerated: true
 draft: false
 updatedDate: '2026-09-25'

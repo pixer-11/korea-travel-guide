@@ -70,32 +70,15 @@ quickAnswer: >-
   uneven jungle and broken stone.
 faq:
   - q: How do I get to My Son from Da Nang?
-    a: >-
-      It's about a 1.5-hour drive southwest, either by joining a group tour with
-      van pickup, hiring a private car, or riding a motorbike if you're
-      comfortable on rural roads. Most Da Nang-based tours also swing through
-      Hoi An.
+    a: It's about a 1.5-hour drive southwest, either by joining a group tour with van pickup, hiring a private car, or riding a motorbike if you're comfortable on rural roads. Most Da Nang-based tours also swing through Hoi An.
   - q: What's the quietest time to visit?
-    a: >-
-      Foot-traffic data shows 7am–5pm on both weekdays and weekends is generally
-      calm, but the real crush hits weekends between 9am and 1pm when tour buses
-      cluster. Arrive at or near opening (6am) for the emptiest towers and
-      softest light.
+    a: Foot-traffic data shows 7am–8am and 4pm–5pm on both weekdays and weekends are generally calm, but the real crush hits weekends between 9am and 1pm when tour buses cluster. Arrive at or near opening (6am) for the emptiest towers and softest light.
   - q: How long should I spend at My Son?
-    a: >-
-      Budget at least an hour walking the site itself, plus the on-site museum,
-      and factor in 1.5–3 hours of transit each way depending on your starting
-      point. Many visitors treat it as a half-day trip combined with Hoi An.
+    a: Budget at least an hour walking the site itself, plus the on-site museum, and factor in 1.5–3 hours of transit each way depending on your starting point. Many visitors treat it as a half-day trip combined with Hoi An.
   - q: Is My Son worth visiting if I've already seen Angkor Wat or similar ruins?
-    a: >-
-      Yes, though temper expectations on scale — My Son is smaller and more
-      weathered, its charm lying in the intimate jungle setting, Cham-specific
-      carving style, and visible bomb damage that tells its own history.
+    a: Yes, though temper expectations on scale — My Son is smaller and more weathered, its charm lying in the intimate jungle setting, Cham-specific carving style, and visible bomb damage that tells its own history.
   - q: What should I wear or bring?
-    a: >-
-      Closed, sturdy shoes for uneven brick and dirt paths, a hat and water
-      since shade is limited among the towers, and cash in Vietnamese dong for
-      entrance fees and any small vendors on site.
+    a: Closed, sturdy shoes for uneven brick and dirt paths, a hat and water since shade is limited among the towers, and cash in Vietnamese dong for entrance fees and any small vendors on site.
 aiGenerated: true
 draft: false
 updatedDate: '2026-09-01'

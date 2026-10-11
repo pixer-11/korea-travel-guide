@@ -66,7 +66,7 @@ faq:
   - q: "How do I get to Nongnooch Pattaya Garden?"
     a: "It's in Na Chom Thian, Sattahip District, south of central Pattaya. Most visitors arrive by taxi, songthaew, or a booked tour transfer; there's no direct public bus route from central Pattaya."
   - q: "What's the quietest time to visit?"
-    a: "Both weekdays and early weekend hours (8am–6pm) run calmer overall, but the safest bet is arriving right at the 8am opening on any day, since weekends get heavily crowded from 11am to 4pm."
+    a: "Both weekdays and early weekend hours (8am–10am and 5pm–6pm) run calmer overall, but the safest bet is arriving right at the 8am opening on any day, since weekends get heavily crowded from 11am to 4pm."
   - q: "How long should I plan to spend there?"
     a: "At least three to four hours to see a few themed gardens plus one show. A full half-day covers the elephant show, cultural performance, and lunch on-site."
   - q: "Is it worth visiting on a weekend?"

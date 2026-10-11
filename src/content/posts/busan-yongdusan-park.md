@@ -71,12 +71,7 @@ place:
 tags:
   - busan
   - park
-quickAnswer: >-
-  Yongdusan Park is Busan's hilltop green space in Jung-gu, best known for Busan
-  Tower and its city-and-harbor views. It's open 24 hours, so slip in early —
-  weekends are calmest between 7am and 8am, while weekday mornings and evenings
-  (7am–11pm) stay manageable too. Avoid the 10am–9pm weekend crush if you want
-  the escalators and viewpoints to yourself.
+quickAnswer: Yongdusan Park is Busan's hilltop green space in Jung-gu, best known for Busan Tower and its city-and-harbor views. It's open 24 hours, so slip in early — weekends are calmest between 7am and 8am, while weekday mornings and evenings (7am–8am and 10pm–11pm) stay manageable too. Avoid the 10am–9pm weekend crush if you want the escalators and viewpoints to yourself.
 faq:
   - q: How do I get to Yongdusan Park by subway?
     a: >-

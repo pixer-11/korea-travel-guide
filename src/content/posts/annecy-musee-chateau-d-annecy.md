@@ -55,7 +55,7 @@ place:
 tags:
   - annecy
   - top attraction
-quickAnswer: The Musée-Château d'Annecy sits on the hill above the old town, an easy 10-minute walk from Annecy's canals, and holds regional art, sculpture, and rotating contemporary exhibitions inside a genuinely restored medieval castle. It's open daily except Tuesday, 10:30am–6pm. Aim for 1–2pm on any day to dodge the crowds, especially on weekends when 11am–6pm gets busy.
+quickAnswer: The Musée-Château d'Annecy sits on the hill above the old town, an easy 10-minute walk from Annecy's canals, and holds regional art, sculpture, and rotating contemporary exhibitions inside a genuinely restored medieval castle. It's open daily except Tuesday, 10:30am–6pm. Aim for 1–2pm on any day to dodge the crowds, especially on weekends when 11am–1pm and 2pm–6pm get busy.
 faq:
   - q: What are the opening hours?
     a: 10:30am–6pm every day except Tuesday, when the museum is fully closed.

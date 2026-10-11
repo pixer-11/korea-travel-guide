@@ -77,7 +77,7 @@ faq:
       add 30–45 minutes if you climb to the Yen Ngua Mountain viewpoint.
   - q: What's the quietest time to visit?
     a: >-
-      Weekdays are calm all day (7am–5pm). On weekends, go right at opening,
+      Weekdays are calm 7am–9am and 4pm–5pm. On weekends, go right at opening,
       7am–8am, before tour buses arrive between 9am and 2pm.
   - q: How do I get to Hoa Lu from Ninh Binh city?
     a: >-
@@ -124,7 +124,7 @@ Inside the temples, dim light filters through wooden lattice screens onto lacque
 
 The site opens daily from 7am to 5pm, every day of the week. Spring (February–April) brings soft, hazy light and cooler air; summer gets hot and humid by mid-morning.
 
-Weekends tend to draw noticeably more visitors than weekdays, particularly through the late morning and early afternoon. Weekday visits stay comfortably calm across the whole 7am–5pm window.
+Weekends tend to draw noticeably more visitors than weekdays, particularly through the late morning and early afternoon. Weekday visits stay comfortably calm 7am–9am and 4pm–5pm.
 
 If you can only come on a weekend, arrive right at 7am and you'll have the courtyards nearly to yourself for that first hour.
 

@@ -54,7 +54,7 @@ place:
 tags:
   - "harbin"
   - "park"
-quickAnswer: "Zhaolin Park in Harbin's Daoli District is a small lakeside garden best known for its winter ice-lantern displays and, in warmer months, its quiet boating lake and flower beds. It's an easy add-on to Zhongyang Street or the Flood Control Monument, and it stays genuinely under-the-radar compared to Ice and Snow World. Weekends are calmest from 5pm to 10pm; avoid the 7am–11pm stretch when crowds build."
+quickAnswer: "Zhaolin Park in Harbin's Daoli District is a small lakeside garden best known for its winter ice-lantern displays and, in warmer months, its quiet boating lake and flower beds. It's an easy add-on to Zhongyang Street or the Flood Control Monument, and it stays genuinely under-the-radar compared to Ice and Snow World. Weekends are calmest from 6pm to 10pm; avoid the 7am–12pm, 2pm–6pm and 10pm–11pm stretches when crowds build."
 faq:
   - q: "Where exactly is Zhaolin Park?"
     a: "At 377 Sen Lin Jie in Daoli District, Harbin, a short walk from the southern end of Zhongyang Street's pedestrian shopping area."

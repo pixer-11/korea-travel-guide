@@ -75,38 +75,18 @@ place:
 tags:
   - matsuyama
   - old quarter
-quickAnswer: >-
-  Dogo Onsen Main Building in Matsuyama's Dogo district is a three-storey wooden
-  bathhouse from 1894, open daily 6:00am to 11:00pm, a short walk from Dogo
-  Onsen tram station. Measured foot traffic puts the quieter window at 7am–11pm
-  on both weekdays and weekends. The weekend crush runs 12pm–9pm, so if you go
-  on a Saturday or Sunday, aim for the early morning or late evening.
+quickAnswer: Dogo Onsen Main Building in Matsuyama's Dogo district is a three-storey wooden bathhouse from 1894, open daily 6:00am to 11:00pm, a short walk from Dogo Onsen tram station. Measured foot traffic puts the quieter windows at 7am–10am and 10pm–11pm on weekdays and 7am–9am and 10pm–11pm on weekends. The weekend crush runs 12pm–9pm, so if you go on a Saturday or Sunday, aim for the early morning or late evening.
 faq:
   - q: When is the quietest time to visit Dogo Onsen Main Building?
-    a: >-
-      Measured foot traffic shows 7am–11pm as the quieter window on both
-      weekdays and weekends. Avoid weekends between 12pm and 9pm, which is the
-      busiest stretch. Early morning after the 6am opening or late evening are
-      the calmest choices.
+    a: Measured foot traffic shows 7am–10am and 10pm–11pm as the quieter windows on weekdays and 7am–9am and 10pm–11pm on weekends. Avoid weekends between 12pm and 9pm, which is the busiest stretch. Early morning after the 6am opening or late evening are the calmest choices.
   - q: What are the opening hours?
-    a: >-
-      It's open daily from 6:00am to 11:00pm, including weekends. Ticket sales
-      stop before closing, so arrive with time to spare.
+    a: It's open daily from 6:00am to 11:00pm, including weekends. Ticket sales stop before closing, so arrive with time to spare.
   - q: How do I get there from central Matsuyama?
-    a: >-
-      Take the Iyotetsu tram to Dogo Onsen Station at the end of the line. From
-      there, walk about five minutes through the Dogo Haikara-dori shopping
-      arcade to 5-6 Dogoyunomachi.
+    a: Take the Iyotetsu tram to Dogo Onsen Station at the end of the line. From there, walk about five minutes through the Dogo Haikara-dori shopping arcade to 5-6 Dogoyunomachi.
   - q: How long should I spend there?
-    a: >-
-      Allow 60–90 minutes for a bath and time in the second-floor rest hall.
-      Allow longer if you book a private third-floor room or join the Yushinden
-      walk-through.
+    a: Allow 60–90 minutes for a bath and time in the second-floor rest hall. Allow longer if you book a private third-floor room or join the Yushinden walk-through.
   - q: What else is nearby?
-    a: >-
-      Within walking distance you'll find the modern Asuka-no-Yu annex,
-      Tsubaki-no-Yu, the Botchan Karakuri Clock, Isaniwa Shrine and Dogo Park.
-      Matsuyama Castle is a short tram ride away.
+    a: Within walking distance you'll find the modern Asuka-no-Yu annex, Tsubaki-no-Yu, the Botchan Karakuri Clock, Isaniwa Shrine and Dogo Park. Matsuyama Castle is a short tram ride away.
 aiGenerated: true
 draft: false
 updatedDate: '2026-10-10'
@@ -137,7 +117,7 @@ Ask about a look at the Yushinden on the way out. It is the private bath wing bu
 
 ## Getting in without the weekend scrum
 
-The doors are open 6:00am–11:00pm every day of the week. Measured foot traffic marks 7am–11pm as the quieter window on both weekdays and weekends, so a weekday visit is calmer at almost any hour. Don't turn up on a weekend between 12pm and 9pm. That's when queues spill toward the arcade and the rest halls fill.
+The doors are open 6:00am–11:00pm every day of the week. Measured foot traffic marks 7am–10am and 10pm–11pm as the quieter windows on weekdays and 7am–9am and 10pm–11pm on weekends. Don't turn up on a weekend between 12pm and 9pm. That's when queues spill toward the arcade and the rest halls fill.
 
 Two moves work well. You can be there for the 6am drum and the first bathers. Or you can come after dinner, when day-trippers have gone back to central Matsuyama. Ticket sales end before the 11pm close, so don't push it to the last minute.
 

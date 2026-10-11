@@ -42,14 +42,14 @@ place:
 tags:
   - banlung
   - park
-quickAnswer: Virachey National Park, northeast of Banlung in Ratanakiri province, is one of Cambodia's largest and wildest protected areas, spanning jungle, grassy lowlands and upland savannah toward the Laos border. It's still genuinely under-the-radar, so weekends stay calm from 7am–9pm; the crush, such as it is, comes 10am–3pm. Budget at least two full days if you want to trek beyond the ranger station, since this isn't a drive-through park.
+quickAnswer: Virachey National Park, northeast of Banlung in Ratanakiri province, is one of Cambodia's largest and wildest protected areas, spanning jungle, grassy lowlands and upland savannah toward the Laos border. It's still genuinely under-the-radar, so weekends stay calm from 7am–8am, 9am–10am and 7pm–9pm; the crush, such as it is, comes 10am–3pm. Budget at least two full days if you want to trek beyond the ranger station, since this isn't a drive-through park.
 faq:
   - q: How do I get to Virachey National Park from Banlung?
     a: It's roughly a 45-minute to one-hour drive northeast of Banlung town, arranged through the park's ranger office or a Banlung-based trekking operator.
   - q: How many days do I need at Virachey?
     a: Plan at least two days; most treks run two to four days with jungle camping, since trails aren't set up for quick day visits.
   - q: When is the quietest time to visit?
-    a: Weekends stay calm across the full 7am-9pm window; if you want to avoid even the modest weekend uptick, aim outside 10am-3pm.
+    a: Weekends stay calm across 7am-8am, 9am-10am and 7pm-9pm; if you want to avoid even the modest weekend uptick, aim outside 10am-3pm.
   - q: What's the best season to trek Virachey?
     a: Dry season, roughly November to April, offers passable trails and rivers. Wet season (May-October) brings mud, swollen rivers and heavier leech activity.
   - q: Can I hike independently without a guide?

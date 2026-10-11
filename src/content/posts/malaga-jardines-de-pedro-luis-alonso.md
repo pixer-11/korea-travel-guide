@@ -91,9 +91,9 @@ The address is C. Guillén Sotelo, 31, in Distrito Centro, directly in front of 
 
 The garden never closes; it's open 24 hours every day of the week, though there's no lighting drama at night, just streetlamps and the building floodlights next door.
 
-- Quietest weekend window: 7am-4pm
+- Quietest weekend window: 7am-8am and 1pm-4pm
 - Quietest weekday window: 9pm-11pm
-- Busiest weekend stretch: 9am-10pm, when cruise groups and Alcazaba visitors pass through
+- Busiest weekend stretch: 9am-12pm, 6pm-7pm and 8pm-10pm, when cruise groups and Alcazaba visitors pass through
 
 If you're combining it with the Alcazaba or Gibralfaro, come early morning before the heat and the tour groups both arrive.
 

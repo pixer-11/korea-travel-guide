@@ -47,7 +47,7 @@ place:
 tags:
   - "taiping"
   - "museum"
-quickAnswer: "Perak Museum in Taiping is Malaysia's oldest museum, an 1833-style colonial building packed with natural history specimens, tribal artefacts and Perak's tin-mining history. It's open daily 9am–5pm; go on a weekend, since crowds barely build even at midday. Budget 45–60 minutes, more if you linger over the taxidermy hall."
+quickAnswer: "Perak Museum in Taiping is Malaysia's oldest museum, an 1833-style colonial building packed with natural history specimens, tribal artefacts and Perak's tin-mining history. It's open daily 9am–5pm; go on a weekend early, since it's quiet 9am–10am and crowds build only 12pm–2pm. Budget 45–60 minutes, more if you linger over the taxidermy hall."
 faq:
   - q: "What are the opening hours for Perak Museum?"
     a: "It's open every day of the week, including weekends, from 9:00 AM to 5:00 PM."

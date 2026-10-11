@@ -80,30 +80,15 @@ quickAnswer: >-
   arrival within opening hours is your best bet for a calmer visit.
 faq:
   - q: How long should I spend at Chin Swee Caves Temple?
-    a: >-
-      Plan for 45 minutes to see the main pagoda and shrine halls, or up to 90
-      minutes if you want to climb every tier and linger in the quieter upper
-      terraces.
+    a: Plan for 45 minutes to see the main pagoda and shrine halls, or up to 90 minutes if you want to climb every tier and linger in the quieter upper terraces.
   - q: What's the quietest time to visit?
-    a: >-
-      The temple is open 7am–7pm every day and stays relatively calm through
-      most of that window. The one time to avoid is the weekend crowd surge
-      between 10am and 6pm.
+    a: The temple is open 7am–7pm every day and stays relatively calm 7am–10am and 6pm–7pm on weekdays and 7am–9am and 6pm–7pm on weekends. The one time to avoid is the weekend crowd surge between 10am and 6pm.
   - q: How do I get to Chin Swee Caves Temple without a car?
-    a: >-
-      There's no direct public bus to the gate at Exit 68 near Genting Sempah.
-      Taxis and ride-hail apps from Genting Highlands or Kuala Lumpur are the
-      most reliable options.
+    a: There's no direct public bus to the gate at Exit 68 near Genting Sempah. Taxis and ride-hail apps from Genting Highlands or Kuala Lumpur are the most reliable options.
   - q: Is there an entrance fee?
-    a: >-
-      Entry policies and any fees can change, so confirm current details on-site
-      or with your hotel before visiting. Donations for incense or offerings are
-      typically cash-based.
+    a: Entry policies and any fees can change, so confirm current details on-site or with your hotel before visiting. Donations for incense or offerings are typically cash-based.
   - q: Can I combine it with a Genting Highlands day trip?
-    a: >-
-      Yes — it sits just below Genting on the old hill road, so most visitors
-      stop here in the morning before heading up to the resort's rides, casinos,
-      and cable car.
+    a: Yes — it sits just below Genting on the old hill road, so most visitors stop here in the morning before heading up to the resort's rides, casinos, and cable car.
 aiGenerated: true
 draft: false
 updatedDate: '2026-09-02'
@@ -138,7 +123,7 @@ Budget 45 minutes if you're moving quickly, or up to 90 if you want to wander ev
 
 The temple is open daily from 7am to 7pm, with no variation across the week. Weekends get genuinely crowded between 10am and 6pm, when tour buses and day-trippers from Kuala Lumpur pile in.
 
-If you can, aim for the early morning hours right after opening, or the early evening before closing. Both weekdays and weekends are calmest across that same 7am–7pm window outside the weekend midday rush. Overcast or drizzly days are common given the elevation, so bring a light jacket regardless of season.
+If you can, aim for the early morning hours right after opening, or the early evening before closing. Weekdays are calmest 7am–10am and 6pm–7pm, and weekends are calmest 7am–9am and 6pm–7pm, outside the weekend midday rush. Overcast or drizzly days are common given the elevation, so bring a light jacket regardless of season.
 
 ## How to visit like a local
 

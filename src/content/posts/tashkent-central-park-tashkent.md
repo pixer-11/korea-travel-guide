@@ -62,7 +62,7 @@ place:
 tags:
   - "tashkent"
   - "night view"
-quickAnswer: "Central Park Tashkent (formerly the Mirzo Ulugbek/Telman park) is a leafy amusement and recreation park on Movarounnahr Street, open daily 10am–11pm. It's a quieter, under-the-radar choice compared to Tashkent's bigger attractions, with the calmest hours on weekdays 10am–12pm and weekend mornings 11am–4pm. Budget two to three hours for rides, a lakeside walk, and an evening stroll once the fountains light up."
+quickAnswer: "Central Park Tashkent (formerly the Mirzo Ulugbek/Telman park) is a leafy amusement and recreation park on Movarounnahr Street, open daily 10am–11pm. It's a quieter, under-the-radar choice compared to Tashkent's bigger attractions, with the calmest hours on weekdays 10am–12pm and weekend mornings 11am–12pm. Budget two to three hours for rides, a lakeside walk, and an evening stroll once the fountains light up."
 faq:
   - q: "What are the opening hours for Central Park Tashkent?"
     a: "It's open daily from 10:00 AM to 11:00 PM, with no weekly closing day, so evenings and mornings are both options."

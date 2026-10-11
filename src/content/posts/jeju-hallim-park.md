@@ -78,7 +78,7 @@ faq:
       days — always confirm on the day if you're visiting a public holiday.
   - q: When is the quietest time to visit?
     a: >-
-      Weekdays stay calm throughout the day (9am–6pm). On weekends, try to
+      Weekdays stay calm 9am–11am and 5pm–6pm. On weekends, try to
       arrive right at 9am, since crowds build steadily from noon to 5pm.
   - q: How do I get to Hallim Park without a car?
     a: >-
@@ -120,7 +120,7 @@ Hallim Park sits at 300 Hallim-ro, Hallim-eup, on Jeju's northwest coast, about 
 
 The park runs 9am to 6:30pm every day of the week, with no listed closures. Give yourself 2 to 3 hours to cover the caves, gardens and village without feeling rushed.
 
-Weekday mornings and afternoons both stay comparatively calm, since the quiet window stretches across the whole 9am–6pm day. Weekends are a different story, traffic through the park builds steadily from noon and stays heavy until around 5pm.
+Weekday mornings and late afternoons both stay comparatively calm, since the quiet windows run 9am–11am and 5pm–6pm. Weekends are a different story, traffic through the park builds steadily from noon and stays heavy until around 5pm.
 
 If you're set on a weekend visit, arrive right at 9am to walk the caves before the tour groups catch up.
 

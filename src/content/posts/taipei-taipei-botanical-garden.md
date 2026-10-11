@@ -56,7 +56,7 @@ place:
 tags:
   - taipei
   - park
-quickAnswer: Taipei Botanical Garden is a free, open-air escape in Zhongzheng District, best entered near Xiaonanmen Station (MRT Songshan-Xindian Line) and open daily 5:30am–9pm. Weekdays after 6pm are the calmest window; on weekends the whole day from 7am–9pm stays busy, so aim for the earliest hour. Give it 45–90 minutes to loop the lotus ponds and Herb Garden before or after visiting the National Museum of History next door.
+quickAnswer: Taipei Botanical Garden is a free, open-air escape in Zhongzheng District, best entered near Xiaonanmen Station (MRT Songshan-Xindian Line) and open daily 5:30am–9pm. Weekdays after 6pm are the calmest window; on weekends 9am–6pm stays busy, so aim for the earliest hour. Give it 45–90 minutes to loop the lotus ponds and Herb Garden before or after visiting the National Museum of History next door.
 faq:
   - q: How do I get to Taipei Botanical Garden?
     a: Take the MRT to Xiaonanmen Station (Songshan–Xindian Line) and walk about 5 minutes; it's right next to the National Museum of History in Zhongzheng District.

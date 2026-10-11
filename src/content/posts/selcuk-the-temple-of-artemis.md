@@ -62,7 +62,7 @@ faq:
   - q: "How long should I plan to spend there?"
     a: "Most visitors need 20–30 minutes, since only one reconstructed column and scattered fragments remain."
   - q: "When is the quietest time to visit?"
-    a: "Any time in the 8am–7pm window on weekdays is calm, and weekends stay quiet too except between 2pm and 6pm, when tour groups peak."
+    a: "Weekdays are calm 8am–10am and 6pm–7pm, and weekends stay quiet too from 8am–11am and 6pm–7pm, but are busy between 2pm and 6pm, when tour groups peak."
   - q: "How do I get there from central Selçuk or Ephesus?"
     a: "It's about a 20-minute walk from central Selçuk's train station, or roughly 3km (a short taxi/dolmuş ride) from the Ephesus archaeological site."
   - q: "What else can I see nearby?"
@@ -100,7 +100,7 @@ Wear shoes you don't mind getting muddy near the water's edge, especially after 
 
 ## When to go
 
-The site is open daily from 8am to 7pm, with no midday closure. Weekday mornings are consistently the quietest stretch, and weekends stay calm right through the same 8am–7pm window too, except for one predictable dip. Tour groups tend to cluster on weekend afternoons, busiest from about 2pm to 6pm, so aim earlier if you want the field to yourself.
+The site is open daily from 8am to 7pm, with no midday closure. Weekday mornings are consistently the quietest stretch, and weekends stay calm 8am–11am and 6pm–7pm too. Tour groups tend to cluster on weekend afternoons, busiest from about 2pm to 6pm, so aim earlier if you want the field to yourself.
 
 Spring brings the storks back to nest on the column, which is arguably the best reason to time a visit for April through June.
 

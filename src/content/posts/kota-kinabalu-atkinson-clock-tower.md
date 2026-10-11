@@ -80,29 +80,15 @@ quickAnswer: >-
   hour, since crowd data shows weekends stay calm all day.
 faq:
   - q: How much time should I budget for the Atkinson Clock Tower?
-    a: >-
-      About 10–15 minutes for the tower itself. Most visitors combine it with
-      the nearby Signal Hill Observatory Platform for a half-hour to an hour
-      total.
+    a: About 10–15 minutes for the tower itself. Most visitors combine it with the nearby Signal Hill Observatory Platform for a half-hour to an hour total.
   - q: Is there an entrance fee?
-    a: >-
-      No, it's free to view from the street and surrounding grounds — there's no
-      ticket booth or gate.
+    a: No, it's free to view from the street and surrounding grounds — there's no ticket booth or gate.
   - q: When is the quietest time to visit?
-    a: >-
-      Weekdays between 12pm and 1pm are the calmest. On weekends, crowds stay
-      fairly steady all day (7am–7pm), with the busiest hours generally 9am to
-      6pm.
+    a: Weekdays between 12pm and 1pm are the calmest. On weekends, crowds stay fairly steady all day (7am–7pm), with the busiest hours generally 9am to 12pm and 1pm to 6pm.
   - q: How do I get there from downtown Kota Kinabalu?
-    a: >-
-      It's an easy 10-minute walk from the Gaya Street/Atkinson roundabout area
-      up Jalan Bukit Bendera (Signal Hill Road), or a short Grab/taxi ride from
-      most hotels.
+    a: It's an easy 10-minute walk from the Gaya Street/Atkinson roundabout area up Jalan Bukit Bendera (Signal Hill Road), or a short Grab/taxi ride from most hotels.
   - q: What else is nearby?
-    a: >-
-      The Signal Hill Observatory Platform is a few minutes further uphill, and
-      Gaya Street's market area is an easy walk away — both pair well with a
-      clock tower visit.
+    a: The Signal Hill Observatory Platform is a few minutes further uphill, and Gaya Street's market area is an easy walk away — both pair well with a clock tower visit.
 aiGenerated: true
 draft: false
 updatedDate: '2026-09-07'
@@ -142,7 +128,7 @@ Midday heat is the real obstacle here, not crowds. Kota Kinabalu sits close to t
 This isn't a hidden spot, it's a well-known stop on KK's short list of historic landmarks, so plan around the crowds rather than expecting solitude.
 
 - **Quietest time:** the midday heat naturally thins out foot traffic, so visiting outside that stretch tends to feel calmer than the early morning or evening windows.
-- **Weekends:** crowd patterns stay steady and manageable across the whole 7am–7pm window, though the busiest stretch is generally 9am to 6pm.
+- **Weekends:** crowd patterns stay steady and manageable across the whole 7am–7pm window, though the busiest stretches are generally 9am to 12pm and 1pm to 6pm.
 - **Cost and payment:** it's free to view; no tickets, no vendors on site, so bring water rather than cash.
 - **Etiquette:** it's a working memorial and small public garden, not a photo prop. Keep off any roped-off sections and don't climb the base for pictures.
 - **Local name:** locals and taxi drivers know it simply as "the clock tower" near Signal Hill (Bukit Bendera), so use that phrasing if asking for directions.

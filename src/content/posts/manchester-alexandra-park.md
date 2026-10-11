@@ -74,16 +74,11 @@ place:
 tags:
   - manchester
   - park
-quickAnswer: >-
-  Alexandra Park is a 60-acre Victorian park on Russell Street in south
-  Manchester, between Whalley Range and Moss Side, with a lake, sports pitches
-  and play areas, and it is open 6am to midnight every day. Weekdays stay calm
-  through the whole 7am–11pm window. At weekends the busy stretch runs 8am–6pm,
-  so come early or in the evening if you want the paths to yourself.
+quickAnswer: Alexandra Park is a 60-acre Victorian park on Russell Street in south Manchester, between Whalley Range and Moss Side, with a lake, sports pitches and play areas, and it is open 6am to midnight every day. Weekdays stay calm 7am–9am and 10pm–11pm. At weekends the busy stretch runs 8am–6pm, so come early or in the evening if you want the paths to yourself.
 faq:
   - q: When is the quietest time to visit Alexandra Park?
     a: >-
-      On weekdays it stays quiet across the whole 7am–11pm window. At weekends
+      On weekdays it stays quiet 7am–9am and 10pm–11pm. At weekends
       the busiest period is 8am–6pm, so for a calm visit go before 8am or after
       6pm.
   - q: What are Alexandra Park's opening hours?
@@ -134,8 +129,8 @@ Outside carnival, the park's character comes from regular local use. You'll see 
 
 Gates are listed as open 6am to midnight, seven days a week. That leaves plenty of room to avoid the busy periods:
 
-- **Weekdays:** quiet across the whole 7am–11pm window, so almost any time suits.
-- **Weekends:** also quiet from 7am–11pm by our crowd data, but the busiest stretch is 8am–6pm. Try not to arrive mid-morning or mid-afternoon on a Saturday or Sunday if you want an empty bench by the lake.
+- **Weekdays:** quiet 7am–9am and 10pm–11pm, so almost any time suits.
+- **Weekends:** also quiet from 7am–8am and 9pm–11pm by our crowd data, but the busiest stretch is 8am–6pm. Try not to arrive mid-morning or mid-afternoon on a Saturday or Sunday if you want an empty bench by the lake.
 - **Early starts:** 6am to 8am at weekends gives you the paths before the crowds build.
 
 A few habits help you blend in. Keep dogs under control near the play areas and the lake birds. Use the bins, or take your litter home after a picnic, because the lawns get heavy use. Cyclists share paths with walkers, so keep left and stay alert on the main promenades.

@@ -97,7 +97,7 @@ Treat it as several small parks joined together. Walking the paths takes you fro
 
 Timing matters more here than at almost any sight in Puebla. The gates open at 6:00 AM every day of the week. On weekdays, the calmest stretch is 7am–9am, after the first runners arrive but before the day properly starts.
 
-Weekends follow a different shape. The busiest hours are 9am–7pm, and that is the stretch to avoid if you want the trails to yourself. The weekend crowd data marks 7am–9pm as the quiet window overall. Read alongside the busy hours, that leaves the hour before 9am and the last two hours before the 9:00 PM close as your best bets.
+Weekends follow a different shape. The busiest hours are 9am–7pm, and that is the stretch to avoid if you want the trails to yourself. The weekend crowd data marks 7am–8am and 8pm–9pm as the quiet windows overall. Read alongside the busy hours, that leaves the hour before 9am and the last two hours before the 9:00 PM close as your best bets.
 
 Puebla sits at roughly 2,100 metres, so early mornings are often cool even when afternoons get warm. Bring a layer for a dawn visit, and wear sunscreen later in the day, because the sun at this altitude is stronger than the air temperature suggests.
 

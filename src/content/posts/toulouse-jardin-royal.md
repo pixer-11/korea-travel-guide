@@ -66,7 +66,7 @@ faq:
   - q: "Is there an entry fee for Jardin Royal?"
     a: "No, entry is free and the garden is open daily from 8am to 9pm."
   - q: "When is the quietest time to visit?"
-    a: "Weekdays are calm throughout the day (9am-9pm). On weekends, arrive before 2pm to beat the busiest stretch, which runs from 2pm to 7pm."
+    a: "Weekdays are calm in the morning and evening (9am-11am and 8pm-9pm). On weekends, arrive before 2pm to beat the busiest stretch, which runs from 2pm to 7pm."
   - q: "How long should I plan to spend there?"
     a: "20-30 minutes for Jardin Royal alone, or 30-40 minutes if you extend the walk into the adjoining Grand Rond and Jardin des Plantes."
   - q: "How do I get to Jardin Royal by metro?"

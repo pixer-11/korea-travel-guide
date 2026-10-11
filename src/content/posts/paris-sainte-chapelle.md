@@ -56,7 +56,7 @@ faq:
   - q: "How do I get to Sainte-Chapelle?"
     a: "Take Metro Line 4 to Cité station, a two-minute walk, or RER B/C to Saint-Michel–Notre-Dame, about five minutes away. It's on Île de la Cité at 10 Bd du Palais."
   - q: "When is the quietest time to visit?"
-    a: "Crowd patterns show the site runs steady 9am–7pm on weekdays with no sharp lull, but weekends specifically get heavy between 1pm and 5pm. A weekday morning arrival is the safest bet to avoid the worst of it."
+    a: "Crowd patterns show the site is quiet 9am–10am and 5pm–7pm on weekdays and busy 1pm–3pm, but weekends specifically get heavy between 1pm and 5pm. A weekday morning arrival is the safest bet to avoid the worst of it."
   - q: "How much does it cost and do I need to book ahead?"
     a: "Check current prices on the official site before going, as they change; a combined ticket with the Conciergerie next door is usually available. Booking a timed slot online is strongly recommended over walking up."
   - q: "How long should I spend there?"
@@ -79,7 +79,7 @@ Sainte-Chapelle shares its courtyard with the Palais de Justice, so there's an a
 - Nearest stop: Cité (Line 4), a two-minute walk
 - Also close: Saint-Michel–Notre-Dame (RER B/C), about 5 minutes
 - Open daily 9am–7pm; no early or late slots
-- Weekends run heavy throughout the day; the calmest hours are the same 9am–7pm window on quieter weekdays, so a weekday morning arrival is your best bet
+- Weekends run heavy 1pm–5pm; the calmest hours are 9am–10am and 5pm–7pm on quieter weekdays, so a weekday morning arrival is your best bet
 - Buy timed tickets online in advance; the on-site queue for walk-ups can run 45+ minutes in season
 
 A combined ticket with the neighboring Conciergerie is usually available and worth it if you're doing both same day.

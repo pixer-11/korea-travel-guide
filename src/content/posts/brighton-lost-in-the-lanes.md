@@ -65,7 +65,7 @@ tags:
 quickAnswer: "Lost in the Lanes is a minimalist, mid-range café on Nile Street in Brighton's Lanes, serving wholesome breakfasts, lunches and take-outs from 9am every day. It stays open until 11pm Thursday to Saturday, and the calmest weekday slot is 5pm–6pm on those late Thursday and Friday evenings. On weekends, avoid 11am–9pm and come for breakfast at 9am."
 faq:
   - q: "When is the quietest time to visit Lost in the Lanes?"
-    a: "On weekdays it's quietest 5pm–6pm, which only applies on Thursday and Friday because it closes at 5pm on other weekdays. On weekends, avoid 11am–9pm, the busiest period, and arrive at 9am opening instead."
+    a: "On weekdays it's quietest 5pm–6pm, which only applies on Thursday and Friday because it closes at 5pm on other weekdays. On weekends, avoid 11am–4pm and 5pm–9pm, the busiest periods, and arrive at 9am opening instead."
   - q: "Is Lost in the Lanes open for dinner?"
     a: "Yes, but only Thursday, Friday and Saturday, when it stays open until 11pm. Monday to Wednesday and Sunday it closes at 5pm."
   - q: "How do I get to Lost in the Lanes from Brighton station?"

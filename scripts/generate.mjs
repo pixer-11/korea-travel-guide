@@ -71,6 +71,8 @@ let USED_TOPIC_KEYS = new Set();
 // Committed posts in the region gate's shape, for regionAtBirth() — read once
 // per run, so this run's own guides are never each other's alibi.
 let REGION_POSTS = [];
+// Each country's declared regions (data/countries.json), for declaredRegionInAddress.
+const DECLARED_REGIONS = new Map();
 // Posts whose in-body photo failed for a TRANSIENT reason this run (Commons
 // 429 after retries, a fetch that threw). Retried once at the end of the run
 // by retryInBodyPhotos(); a miss there is final and the weekly patrol's job.
@@ -309,6 +311,7 @@ async function main() {
 
   const { targets } = JSON.parse(await readFile(TARGETS_FILE, 'utf8'));
   const { countries } = JSON.parse(await readFile(COUNTRIES_FILE, 'utf8'));
+  for (const c of countries ?? []) DECLARED_REGIONS.set(c.name, c.regions ?? []);
   const onlyCountry = (process.env.COUNTRY || '').trim(); // optional: fill one country
   let activeCountries = (countries ?? []).filter((c) => c.active);
   if (onlyCountry) {
@@ -1079,7 +1082,7 @@ async function buildLivePost(target) {
   let place = null;
   let hero = null;
   LAST_HERO_VERDICT = null;
-  const { regionAtBirth } = await import('./lib/region-outlier.mjs');
+  const { regionAtBirth, declaredRegionInAddress } = await import('./lib/region-outlier.mjs');
   const searched = target;
   for (const cand of results) {
     target = searched;
@@ -1092,7 +1095,13 @@ async function buildLivePost(target) {
     // and the guide was filed under Hac Sa — then the writer, seeing the
     // address disagree, invented "often listed under Hac Sa" (2026-10-08).
     // Ask the region gate now, before the slug, title and article exist.
-    const moved = regionAtBirth(cand, target, REGION_POSTS);
+    // A declared region with no live post yet has no peers to compare with;
+    // its name in the address still says where the place is (Mongolia, 10-11).
+    const moved = regionAtBirth(cand, target, REGION_POSTS)
+      ?? declaredRegionInAddress(cand.address, DECLARED_REGIONS.get(target.country), target.region, {
+        country: target.country,
+        settled: new Set(REGION_POSTS.filter((p) => p.country === target.country && !p.draft).map((p) => p.region)),
+      });
     if (moved && moved !== target.region) {
       console.log(`  🧭  "${cand.name}" — searched under ${target.region}, but its address/coordinates say ${moved}; filing it there`);
       target = { ...searched, region: moved };
@@ -1309,8 +1318,22 @@ async function buildLivePost(target) {
   // quickAnswer and FAQ, not just the sidebar box. Big AI-citation signal.
   // %24 so an end hour of 24 reads as 12am (midnight), not 12pm.
   const hr12 = (h) => { const x = ((h % 24) + 24) % 24; return `${x % 12 || 12}${x < 12 ? 'am' : 'pm'}`; };
-  const span = (a) => (a && a.length ? `${hr12(Math.min(...a))}–${hr12(Math.max(...a) + 1)}` : null);
-  const bz = place.busyness;
+  // Each run of consecutive hours is its own window. Min-to-max made one window
+  // out of separate hours: quiet at 10 and 17 reached the writer as "10am–6pm",
+  // the busiest stretch of the day in between, and the Blanton guide told
+  // readers that was the calm time (owner, 2026-10-12; Marina Bay's 7 and 20
+  // became "7am–9pm", Leipzig's 7 and 22 "7am–11pm").
+  const span = (a) => {
+    const xs = [...new Set(a ?? [])].sort((x, y) => x - y);
+    if (!xs.length) return null;
+    const runs = [];
+    for (const h of xs) { const r = runs.at(-1); if (r && h === r[1] + 1) r[1] = h; else runs.push([h, h]); }
+    return runs.map(([s, e]) => `${hr12(s)}–${hr12(e + 1)}`).join(' and ');
+  };
+  // An hour stored as both quiet and busy is busy (src/lib/busyness resolveBusyness,
+  // what the page's own crowd box shows): the Blanton's 5pm was in both lists.
+  const { resolveBusyness } = await import('../src/lib/busyness.mjs');
+  const bz = place.busyness && { ...place.busyness, ...resolveBusyness(place.busyness) };
   // BestTime reports foot traffic around the venue, which does not stop when the
   // doors do — a café that opens at 11 still has a quiet 7–9am on the pavement
   // outside. The writer is told to quote these hours verbatim, so an unfiltered

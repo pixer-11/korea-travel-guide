@@ -68,28 +68,15 @@ quickAnswer: >-
   ride and the 268 steps up to the Tian Tan Buddha.
 faq:
   - q: What are the opening hours for Po Lin Monastery?
-    a: >-
-      It's open daily from 9:00 AM to 6:00 PM, with no variation across the week
-      — plan your cable car timing around this window.
+    a: It's open daily from 9:00 AM to 6:00 PM, with no variation across the week — plan your cable car timing around this window.
   - q: When is the quietest time to visit?
-    a: >-
-      The site stays comparatively calm across its full 9am–6pm hours on both
-      weekdays and weekends, as long as you avoid the 10am–4pm weekend peak when
-      tour groups converge.
+    a: The site stays comparatively calm 9am–11am and 5pm–6pm on weekdays and 9am–10am and 5pm–6pm on weekends, as long as you avoid the 10am–4pm weekend peak when tour groups converge.
   - q: How do I get to Po Lin Monastery from central Hong Kong?
-    a: >-
-      Take the MTR Tung Chung Line to Tung Chung station, then either the Ngong
-      Ping 360 cable car (about 25 minutes) or bus 23, both ending near the
-      monastery.
+    a: Take the MTR Tung Chung Line to Tung Chung station, then either the Ngong Ping 360 cable car (about 25 minutes) or bus 23, both ending near the monastery.
   - q: How long should I spend there?
-    a: >-
-      Plan for three to four hours total, including the cable car ride, the
-      climb to the Big Buddha, and time to explore the monastery grounds and
-      Ngong Ping Village.
+    a: Plan for three to four hours total, including the cable car ride, the climb to the Big Buddha, and time to explore the monastery grounds and Ngong Ping Village.
   - q: Is there anywhere to eat nearby?
-    a: >-
-      Yes — the monastery runs an on-site vegetarian restaurant serving set
-      meals, and Ngong Ping Village has tea shops and casual food stalls.
+    a: Yes — the monastery runs an on-site vegetarian restaurant serving set meals, and Ngong Ping Village has tea shops and casual food stalls.
 aiGenerated: true
 updatedDate: '2026-09-04'
 ---
@@ -124,7 +111,7 @@ Wear shoes you can climb steps in, sandals are common but the ascent is steeper 
 
 Opening hours run 9am to 6pm every day of the week, so there's no early-morning or evening slot to sneak in outside that window. The real variable is crowds, not hours.
 
-Weekends between 10am and 4pm are the peak crush, when tour buses and cable car queues both hit their worst. Weekdays stay comparatively calm across the full 9am–6pm window, and weekends are calmer too if you avoid that midday surge.
+Weekends between 10am and 4pm are the peak crush, when tour buses and cable car queues both hit their worst. Weekdays stay comparatively calm 9am–11am and 5pm–6pm, and weekends are calmer too if you avoid that 10am–4pm surge.
 
 Autumn and winter (October to February) bring cooler, clearer weather and better odds of an unobstructed view from the Buddha's platform. Summer is humid, and typhoon season can shut the cable car entirely, so build in flexibility if you're visiting July through September.
 

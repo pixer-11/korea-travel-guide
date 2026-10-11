@@ -77,25 +77,15 @@ quickAnswer: >-
   the interior.
 faq:
   - q: How do I get to Kanazawa Castle Park?
-    a: >-
-      It's a short walk or Kanazawa Loop Bus ride from Kanazawa Station; get off
-      at the Kenrokuen-shita/Kanazawa Castle stop and walk across the bridge
-      into the park.
+    a: It's a short walk or Kanazawa Loop Bus ride from Kanazawa Station; get off at the Kenrokuen-shita/Kanazawa Castle stop and walk across the bridge into the park.
   - q: What are the opening hours?
-    a: '7:00 AM to 6:00 PM every day, with no listed variation by day of the week.'
+    a: 7:00 AM to 6:00 PM every day, with no listed variation by day of the week.
   - q: When is it least crowded?
-    a: >-
-      Traffic runs steady throughout the 7am–6pm hours with no distinct quiet
-      window; the clearest advice is to avoid 11am–4pm on weekends, when crowds
-      peak.
+    a: Traffic is quiet 7am–9am and 5pm–6pm; the clearest advice is to avoid 11am–4pm on weekends, when crowds peak.
   - q: How long should I plan for a visit?
-    a: >-
-      60–90 minutes covers the grounds and turret exteriors; add 20-30 minutes
-      if you tour the Hishi Yagura and Gojukken Nagaya interiors.
+    a: 60–90 minutes covers the grounds and turret exteriors; add 20-30 minutes if you tour the Hishi Yagura and Gojukken Nagaya interiors.
   - q: Is it worth combining with Kenrokuen Garden?
-    a: >-
-      Yes, they connect by a bridge and most visitors do both in one trip;
-      combined tickets are usually available on site.
+    a: Yes, they connect by a bridge and most visitors do both in one trip; combined tickets are usually available on site.
 aiGenerated: true
 updatedDate: '2026-09-06'
 ---

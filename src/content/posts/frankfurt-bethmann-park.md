@@ -98,7 +98,7 @@ Berger Straße starts right outside. It's one of Frankfurt's best-known streets 
 
 This is a popular park, so treat it like one. On weekdays the quietest window is 7am–8am. That's when you're most likely to have the pond and pavilion to yourself, or close to it.
 
-Weekends follow a clear pattern. From 12pm to 8pm the paths fill and the benches by the water get taken. Our weekend data marks 7am–11pm as the quiet span overall, so the morning before noon is your best chance for a calm visit.
+Weekends follow a clear pattern. From 12pm to 8pm the paths fill and the benches by the water get taken. Our weekend data marks 7am–9am and 10pm–11pm as the quiet spans overall, so the early morning, 7am–9am, is your best chance for a calm visit.
 
 How to behave inside:
 

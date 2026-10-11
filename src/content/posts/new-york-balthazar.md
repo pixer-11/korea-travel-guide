@@ -116,7 +116,7 @@ Portions are generous, pricing sits in the upper-mid range for New York dining, 
 
 ## When to go
 
-The measured foot-traffic pattern here is unusually clear: weekends get genuinely packed between 2pm and 6pm, when brunch stragglers overlap with the early dinner crowd, so avoid arriving in that window unless you enjoy waiting at the bar. Quieter stretches run 8am–11pm on weekdays and 9am–11pm on weekends, a weekday breakfast, a mid-morning coffee-and-pastry stop, or a 9pm dinner seating will all feel noticeably calmer than the midday crush.
+The measured foot-traffic pattern here is unusually clear: weekends get genuinely packed between 2pm and 6pm, when brunch stragglers overlap with the early dinner crowd, so avoid arriving in that window unless you enjoy waiting at the bar. Quieter stretches run 8am–9am and 10pm–11pm on weekdays and 9am–11am and 9pm–11pm on weekends, a weekday breakfast, a mid-morning coffee-and-pastry stop, or a 9pm dinner seating will all feel noticeably calmer than the midday crush.
 
 The room is open daily until midnight (from 8am Monday–Friday, 9am Saturday and Sunday), so a late dinner is a legitimate, and often more comfortable, option.
 

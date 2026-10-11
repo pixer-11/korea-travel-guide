@@ -49,12 +49,12 @@ place:
 tags:
   - zhangjiajie
   - top attraction
-quickAnswer: Zhangjiajie National Forest Park is the sandstone pillar wonderland that inspired the floating mountains in "Avatar" — plan a full day (or two) riding the Bailong Elevator and Yangjiajie cable car through the Wulingyuan Scenic Area. Go early on weekends if you can, since the park runs 7am–11pm on Saturdays and Sundays and gets busiest right at opening; the calmer stretch on weekends tends to be 10am onward. Base yourself in Zhangjiajie City or Wulingyuan town, and budget the better part of a week if you want to combine it with the separate Tianmen Mountain glass skywalk across town.
+quickAnswer: Zhangjiajie National Forest Park is the sandstone pillar wonderland that inspired the floating mountains in "Avatar" — plan a full day (or two) riding the Bailong Elevator and Yangjiajie cable car through the Wulingyuan Scenic Area. Go early on weekends if you can, since the park is busy 7am–9am, 10am–1pm and 10pm–11pm on Saturdays and Sundays; the calmer stretches on weekends tend to be 1pm–2pm, 3pm–5pm and 7pm–10pm. Base yourself in Zhangjiajie City or Wulingyuan town, and budget the better part of a week if you want to combine it with the separate Tianmen Mountain glass skywalk across town.
 faq:
   - q: How long should I spend at Zhangjiajie National Forest Park?
     a: A minimum of one full day covers the highlights via cable car and elevator, but two days lets you split between Yuanjiajie/Tianzi and the quieter Yangjiajie and Golden Whip Stream areas without rushing.
   - q: When is it quietest?
-    a: On weekends the park is open 7am–11pm and busiest near opening; the calmer window starts around 10am. On weekdays, arriving right at gate-opening is generally your best bet for thinner crowds.
+    a: On weekends the park is busy 7am–9am, 10am–1pm and 10pm–11pm; the calmer windows are 1pm–2pm, 3pm–5pm and 7pm–10pm. On weekdays, arriving right at gate-opening is generally your best bet for thinner crowds.
   - q: Is this the same place as the Tianmen Mountain glass skywalk?
     a: No — Tianmen Mountain with its cliff-hanging walkway and glass skywalk is a separate mountain near Zhangjiajie city. Zhangjiajie National Forest Park is a different site in the Wulingyuan Scenic Area, known for its sandstone pillars.
   - q: How do I get around inside the park?
@@ -95,7 +95,7 @@ Wear real hiking shoes. Trails are stone steps, often wet, and some routes invol
 
 Spring (April–May) and autumn (October–November) bring the clearest skies and most comfortable hiking temperatures. Summer is hot, humid, and crowded with domestic tour groups; winter can bring fog and occasional ice on higher trails, but also near-empty paths and eerie, atmospheric views.
 
-Weekends run 7am–11pm and are busiest right at opening, so if you're visiting on a Saturday or Sunday, know that the calmer window tends to start around 10am. Weekday mornings, arriving right when gates open is usually your quietest option.
+Weekends are busy 7am–9am, 10am–1pm and 10pm–11pm, so if you're visiting on a Saturday or Sunday, know that the calmer windows tend to be 1pm–2pm, 3pm–5pm and 7pm–10pm. Weekday mornings, arriving right when gates open is usually your quietest option.
 
 ## How to visit like a local
 

@@ -95,7 +95,7 @@ Labels are in English and Filipino, and the pacing feels more like a well-organi
 
 The museum is open daily from 9am to 6pm, so there's no early-closing day to plan around here, a rarity worth appreciating.
 
-If you're visiting on a weekend, aim for the 9am–5pm window, which measured foot traffic shows is the calmer stretch. Try to avoid rolling in between 3pm and 5pm on Saturday or Sunday, when visitor numbers climb toward the day's peak.
+If you're visiting on a weekend, aim for the 9am–10am or 1pm–3pm windows, which measured foot traffic shows are the calmer stretches. Try to avoid rolling in between 3pm and 5pm on Saturday or Sunday, when visitor numbers climb toward the day's peak.
 
 Weekday mornings tend to be a safe, unhurried bet if your itinerary allows it.
 

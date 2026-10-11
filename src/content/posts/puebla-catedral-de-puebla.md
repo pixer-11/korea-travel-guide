@@ -64,10 +64,10 @@ place:
 tags:
   - "puebla"
   - "historic site"
-quickAnswer: "Catedral de Puebla stands on the south side of the Zócalo in Puebla's Centro Histórico, and it is free to walk in when no service is running; give it 45 minutes to an hour. By measured foot traffic, the quietest window is 7am–11pm on both weekdays and weekends, while weekends get busiest from 8am–8pm. So for the calmest nave, go on a weekday."
+quickAnswer: "Catedral de Puebla stands on the south side of the Zócalo in Puebla's Centro Histórico, and it is free to walk in when no service is running; give it 45 minutes to an hour. By measured foot traffic, the quietest windows are 7am–8am and 8pm–11pm on both weekdays and weekends, while weekends get busiest from 8am–8pm. So for the calmest nave, go on a weekday."
 faq:
   - q: "When is the quietest time to visit Catedral de Puebla?"
-    a: "Measured foot-traffic data puts the quietest window at 7am–11pm on both weekdays and weekends. Weekends are busiest from 8am–8pm, so a weekday visit is the calmest option."
+    a: "Measured foot-traffic data puts the quietest windows at 7am–8am and 8pm–11pm on both weekdays and weekends. Weekends are busiest from 8am–8pm, so a weekday visit is the calmest option."
   - q: "How long should I spend inside?"
     a: "Around 45 minutes to an hour covers the nave, the octagonal high altar, the Altar de los Reyes and the side chapels. Allow longer if you also want to see the Biblioteca Palafoxiana next door."
   - q: "Can I visit during Mass?"
@@ -109,7 +109,7 @@ Nobody asks you to believe it. But it explains the angel imagery you will find a
 
 ## Timing your visit around the crowds
 
-Our measured foot-traffic data is unusually clear here. The quietest window runs from 7am–11pm on weekdays and on weekends. That covers essentially the whole day, so the real deciding factor is which day you choose.
+Our measured foot-traffic data is unusually clear here. The quietest windows run from 7am–8am and 8pm–11pm on weekdays and on weekends. That covers essentially the whole day, so the real deciding factor is which day you choose.
 
 Weekends are the problem. From 8am–8pm on Saturdays and Sundays, the cathedral is at its busiest, with families, tour groups and Mass-goers all in the nave together. If you only have a weekend, try to avoid the middle of that window. A weekday visit gives you the chapels with far fewer people in your sightline.
 

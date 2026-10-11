@@ -66,7 +66,7 @@ faq:
   - q: "How many steps are there to Diamond Beach?"
     a: "The staircase runs several hundred steps down the cliff — plan on 15-20 minutes descending and closer to 30 minutes climbing back, longer with rest stops in the heat."
   - q: "When is the quietest time to visit?"
-    a: "The beach stays calm through most of its 7am–6pm hours on both weekdays and weekends; the one window to avoid is 10am–3pm on weekends, when tour groups peak."
+    a: "The beach stays calm 7am–9am and 4pm–6pm on both weekdays and weekends; the windows to avoid are 10am–2pm on weekdays and 10am–3pm on weekends, when tour groups peak."
   - q: "Can you swim at Diamond Beach?"
     a: "Wading near shore is fine on calm days, but currents are strong — this isn't considered a safe swimming beach, so stay shallow and skip it if the surf looks rough."
   - q: "How do I get to Diamond Beach without a car?"
@@ -106,7 +106,7 @@ Give yourself a good two hours minimum, twenty minutes down, unhurried beach tim
 
 ## When to go
 
-Gates run 6am to 6pm every day, so there's no early sunrise or late sunset access. Crowd data for the beach shows it stays relatively calm across a full 7am–6pm window on both weekdays and weekends.
+Gates run 6am to 6pm every day, so there's no early sunrise or late sunset access. Crowd data for the beach shows it stays relatively calm from 7am–9am and 4pm–6pm on both weekdays and weekends.
 
 The exception is 10am to 3pm on weekends, when tour groups and day-trippers stack up on the staircase and sand. If you can, aim for the first or last couple of hours the gate is open.
 

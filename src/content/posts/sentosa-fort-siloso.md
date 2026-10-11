@@ -62,7 +62,7 @@ faq:
   - q: How long should I spend at Fort Siloso?
     a: Plan on at least two hours to see the Surrender Chambers, gun batteries, tunnels, and Skywalk without rushing; history buffs often stay closer to three.
   - q: When is Fort Siloso least crowded?
-    a: Weekdays are quiet throughout the 9am-6pm opening hours. On weekends, arrive between 9am and 11am before tour groups build up; try to avoid the 2pm-6pm stretch.
+    a: Weekdays are quiet 9am-10am and 5pm-6pm during the 9am-6pm opening hours. On weekends, arrive between 9am and 11am before tour groups build up; try to avoid the 2pm-6pm stretch.
   - q: Is Fort Siloso good for kids?
     a: Yes, the interactive touchscreens, real artillery you can approach, and the Skywalk boardwalk keep most kids engaged, though the Surrender Chambers' wartime themes suit older children better.
   - q: What else is near Fort Siloso?

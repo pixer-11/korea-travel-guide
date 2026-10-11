@@ -137,7 +137,7 @@ Come with small bills and coins (most stalls are cash-first, though card accepta
 
 Skip the urge to photograph vendors up close without asking; a quick nod or "gwaenchanayo?" (is it okay?) before snapping a shot goes over far better. The mistake most visitors make is treating this like a sightseeing stop and rushing through in ten minutes, locals treat it as a browsing, grazing experience, buying a little from several stalls rather than a lot from one.
 
-If you want the calmest version of the market, go on a weekday and stay within that 7am–7pm window rather than showing up right at 5am when it's mostly wholesale activity, or on a weekend afternoon when it's at its most packed.
+If you want the calmest version of the market, go on a weekday and stay within those 7am–9am and 6pm–7pm windows rather than showing up right at 5am when it's mostly wholesale activity, or on a weekend afternoon when it's at its most packed.
 
 ## Nearby to pair with it
 

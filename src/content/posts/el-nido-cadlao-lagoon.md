@@ -59,7 +59,7 @@ place:
 tags:
   - el nido
   - park
-quickAnswer: Cadlao Lagoon is a quiet, jade-green pocket of water tucked against Cadlao Island's cliffs, reachable only by boat from El Nido town. It's not on the standard Island Hopping A-D routes, so go with a private banca or ask a tour operator to add it — mornings before 9am or the 7am–10pm weekend window are calmest. Budget half a day round-trip including boat time and swimming.
+quickAnswer: Cadlao Lagoon is a quiet, jade-green pocket of water tucked against Cadlao Island's cliffs, reachable only by boat from El Nido town. It's not on the standard Island Hopping A-D routes, so go with a private banca or ask a tour operator to add it — weekend mornings 7am–8am or the 5pm–10pm weekend window are calmest. Budget half a day round-trip including boat time and swimming.
 faq:
   - q: How do I get to Cadlao Lagoon?
     a: Only by boat — charter a private banca from El Nido town or Corong-Corong beach, or book a customized tour, since it's not included on the standard Island Hopping Tour A–D routes. The ride takes about 20–30 minutes each way.

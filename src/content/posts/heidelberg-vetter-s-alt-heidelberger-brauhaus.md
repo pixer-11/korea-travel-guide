@@ -82,32 +82,15 @@ quickAnswer: >-
   you should avoid weekends between 1pm and 11pm, when it is at its busiest.
 faq:
   - q: When is the quietest time to visit Vetter's Alt Heidelberger Brauhaus?
-    a: >-
-      The quietest stretch is 11am–11pm on weekdays, and the same window applies
-      on weekends. Avoid weekends between 1pm and 11pm, which is the busiest
-      period. For a weekend visit, arriving at the 11am opening gets you in
-      before the rush.
+    a: The quietest stretches are 11am–1pm and 10pm–11pm on weekdays, and 11am–12pm on weekends. Avoid weekends between 1pm and 11pm, which is the busiest period. For a weekend visit, arriving at the 11am opening gets you in before the rush.
   - q: What are the opening hours?
-    a: >-
-      It opens at 11am every day. It closes at midnight from Sunday to Thursday
-      and at 1am on Friday and Saturday.
+    a: It opens at 11am every day. It closes at midnight from Sunday to Thursday and at 1am on Friday and Saturday.
   - q: How do I get there from Bismarckplatz?
-    a: >-
-      Walk east along Hauptstraße to the Marktplatz, then turn towards the river
-      onto Steingasse. Number 9 is about halfway down, near the Alte Brücke. The
-      walk takes around 15 to 20 minutes. Alternatively, take a bus to the
-      Rathaus/Bergbahn stop, which is a short walk away.
+    a: Walk east along Hauptstraße to the Marktplatz, then turn towards the river onto Steingasse. Number 9 is about halfway down, near the Alte Brücke. The walk takes around 15 to 20 minutes. Alternatively, take a bus to the Rathaus/Bergbahn stop, which is a short walk away.
   - q: What should I order?
-    a: >-
-      Have the house draft beer with beer-hall classics like sausages, schnitzel
-      or pretzels. Vetter 33, a strong bock that once held the Guinness record
-      for world's strongest beer, is the famous one, but it is meant for slow
-      sipping.
+    a: Have the house draft beer with beer-hall classics like sausages, schnitzel or pretzels. Vetter 33, a strong bock that once held the Guinness record for world's strongest beer, is the famous one, but it is meant for slow sipping.
   - q: What can I combine it with nearby?
-    a: >-
-      The Alte Brücke is at the end of Steingasse, and the Heiliggeistkirche and
-      Marktplatz are at the other end. The Bergbahn funicular up to Heidelberg
-      Castle leaves from Kornmarkt, a short walk away.
+    a: The Alte Brücke is at the end of Steingasse, and the Heiliggeistkirche and Marktplatz are at the other end. The Bergbahn funicular up to Heidelberg Castle leaves from Kornmarkt, a short walk away.
 aiGenerated: true
 draft: false
 updatedDate: '2026-10-03'
@@ -150,7 +133,7 @@ For a group on a weekend evening, try to book ahead. Check the official website 
 
 Vetter's opens at 11am every day. It closes at midnight from Sunday to Thursday and at 1am on Friday and Saturday. That gives you plenty of choice, so the question is mostly how much noise you want.
 
-Weekdays are the easy option: 11am–11pm is the quietest stretch. The weekend crunch is what to avoid. Between 1pm and 11pm on Saturdays and Sundays the hall fills up, and finding seats for a group gets harder.
+Weekdays are the easy option: 11am–1pm and 10pm–11pm are the quietest stretches. The weekend crunch is what to avoid. Between 1pm and 11pm on Saturdays and Sundays the hall fills up, and finding seats for a group gets harder.
 
 If a weekend is your only chance, an 11am lunch right at opening lets you get in before the 1pm rush. On a Friday or Saturday, the late hours until 1am are good for a nightcap after dinner elsewhere.
 

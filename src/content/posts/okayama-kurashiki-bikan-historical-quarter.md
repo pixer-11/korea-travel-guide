@@ -71,7 +71,7 @@ faq:
   - q: "How do I get to Kurashiki Bikan Historical Quarter from Okayama?"
     a: "Take the JR San'yō Line from Okayama Station to Kurashiki Station, which takes about 15–17 minutes. Then leave by the south exit and walk 10–15 minutes down Kurashiki Chūō-dōri to the canal."
   - q: "When is the quietest time to visit?"
-    a: "Measured foot traffic marks 7am–11pm as the quietest window on both weekdays and weekends. Weekends are busiest from 10am to 7pm, so on Saturdays and Sundays aim for before 10am or after 7pm."
+    a: "Measured foot traffic marks 7am–8am and 10pm–11pm as the quietest windows on both weekdays and weekends. Weekends are busiest from 10am to 7pm, so on Saturdays and Sundays aim for before 10am or after 7pm."
   - q: "How long should I spend there?"
     a: "Half a day covers the canal, the side lanes and one museum. With the Ōhara Museum of Art, Ivy Square, Achi Shrine and an evening walk, plan a full day or stay overnight."
   - q: "Is the quarter open at night?"
@@ -133,7 +133,7 @@ Shops and cafés keep their own hours, which are much shorter than the 24-hour s
 
 Timing matters most on weekends, and the foot-traffic data is clear. Weekends are busiest from 10am to 7pm. That's when tour groups arrive and people bunch up on the bridges for photos.
 
-The quietest window measured is 7am–11pm on both weekdays and weekends. Within it, the stretches before 10am and after 7pm are the calmest. Stay overnight and you can walk the canal at 7am while the shutters are still down.
+The quietest windows measured are 7am–8am and 10pm–11pm on both weekdays and weekends. Within it, the stretches before 10am and after 7pm are the calmest. Stay overnight and you can walk the canal at 7am while the shutters are still down.
 
 A few habits help:
 

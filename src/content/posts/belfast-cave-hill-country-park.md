@@ -57,7 +57,7 @@ tags:
 quickAnswer: "Cave Hill Country Park sits on the Antrim Road in north Belfast: a basalt hillside open 24 hours, with trails climbing past caves and an Iron Age fort to Napoleon's Nose, with Belfast Castle on its lower slopes. Allow 2–3 hours for the full loop. On weekends, start at 8am: footfall builds from 10am and stays busy until 8pm."
 faq:
   - q: "When is the quietest time to visit Cave Hill Country Park?"
-    a: "On weekends, the measured quietest window is 8am–8pm and the busiest is 10am–8pm. Crowds build from 10am, so starting at 8am gets you the calmest trails. No weekday crowd data is available."
+    a: "On weekends, the measured quietest window is 8am–10am and the busiest is 10am–1pm and 6pm–8pm. Crowds build from 10am, so starting at 8am gets you the calmest trails. No weekday crowd data is available."
   - q: "How do I get to Cave Hill from Belfast city centre?"
     a: "Take a Translink Metro 1 bus up the Antrim Road and get off near Belfast Castle or Belfast Zoo, then walk uphill. If you're driving, park at Belfast Castle."
   - q: "How long does the Cave Hill walk take?"
@@ -94,7 +94,7 @@ If you're driving, use the car parks at Belfast Castle or the zoo entrance. The 
 
 ## Timing the climb and sharing the summit
 
-The park is open 24 hours, but the cliff-edge paths are unlit and drop sharply. Plan to walk in daylight. On weekends, measured footfall puts the quietest window at 8am–8pm and the busiest at 10am–8pm. In practice, crowds build from 10am and stay until evening. Set off at 8am and you'll have McArt's Fort mostly to yourself before the mid-morning wave arrives.
+The park is open 24 hours, but the cliff-edge paths are unlit and drop sharply. Plan to walk in daylight. On weekends, measured footfall puts the quietest window at 8am–10am and the busiest at 10am–1pm and 6pm–8pm. In practice, crowds build from 10am and stay until evening. Set off at 8am and you'll have McArt's Fort mostly to yourself before the mid-morning wave arrives.
 
 How people use the hill:
 

@@ -79,30 +79,15 @@ quickAnswer: >-
   yourself.
 faq:
   - q: When is the quietest time to visit Clara-Zetkin-Park?
-    a: >-
-      Weekend crowd data shows the busiest period is 11am–8pm. The quiet weekend
-      window is listed as 7am–11pm, so go before 11am or after 8pm for the
-      calmest experience. No weekday data is available.
+    a: Weekend crowd data shows the busiest period is 11am–8pm. The quiet weekend windows are listed as 7am–8am and 10pm–11pm, so go 7am–8am or 10pm–11pm for the calmest experience. No weekday data is available.
   - q: How do I get to Clara-Zetkin-Park from Leipzig city centre?
-    a: >-
-      Walk south-west from the Neues Rathaus through Johannapark, which takes
-      roughly 15 to 20 minutes. You can also take tram 10 or 11 along
-      Karl-Liebknecht-Straße and walk west into the park.
+    a: Walk south-west from the Neues Rathaus through Johannapark, which takes roughly 15 to 20 minutes. You can also take tram 10 or 11 along Karl-Liebknecht-Straße and walk west into the park.
   - q: Is Clara-Zetkin-Park open at night?
-    a: >-
-      Yes. The park is listed as open 24 hours every day, and summer evenings at
-      the Sachsenbrücke are popular.
+    a: Yes. The park is listed as open 24 hours every day, and summer evenings at the Sachsenbrücke are popular.
   - q: How long should I spend in the park?
-    a: >-
-      One to two hours covers a loop along Anton-Bruckner-Allee past the
-      bandstand, the Schubert monument and the café. Give it longer if you want
-      a picnic or an evening at the Sachsenbrücke.
+    a: One to two hours covers a loop along Anton-Bruckner-Allee past the bandstand, the Schubert monument and the café. Give it longer if you want a picnic or an evening at the Sachsenbrücke.
   - q: What is there to do nearby?
-    a: >-
-      Johannapark adjoins the north end and leads back to the Neues Rathaus. The
-      Südvorstadt's Karl-Liebknecht-Straße to the east has bars and restaurants,
-      Schleußig lies across the flood channel to the west, and the Scheibenholz
-      racecourse is on the southern edge.
+    a: Johannapark adjoins the north end and leads back to the Neues Rathaus. The Südvorstadt's Karl-Liebknecht-Straße to the east has bars and restaurants, Schleußig lies across the flood channel to the west, and the Scheibenholz racecourse is on the southern edge.
 aiGenerated: true
 draft: false
 updatedDate: '2026-10-05'
@@ -153,7 +138,7 @@ If you're only in town for one evening, walk the allee to the bridge and stay a 
 
 This is one of Leipzig's most visited green spaces. At its peak, the lawns nearest the café and bandstand fill up completely.
 
-Weekend crowd data puts the busiest stretch at **11am–8pm**. Try not to turn up in the middle of a sunny Saturday afternoon expecting an empty meadow. The quietest weekend window is listed as **7am–11pm**, and the calm comes at its two ends.
+Weekend crowd data puts the busiest stretch at **11am–8pm**. Try not to turn up in the middle of a sunny Saturday afternoon expecting an empty meadow. The quietest weekend windows are listed as **7am–8am** and **10pm–11pm**, and the calm comes at the day's two ends.
 
 - **Before 11am:** dog walkers, runners and dew on the grass. Good for photos along the allee.
 - **After 8pm:** the day crowd thins, and on summer nights the bridge picks up a different, looser crowd.

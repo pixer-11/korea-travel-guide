@@ -137,7 +137,7 @@ El Retiro is open every day from 6am to midnight, and it's consistently one of t
 
 That crunch lands on weekends between 12pm and 10pm, when families, joggers, cyclists and tour groups all converge on the same central paths and the lakeside area in particular gets loud and slow-moving. If you want the wide avenues to yourself, an early weekday morning is your best bet.
 
-- Quietest overall: 7am–11pm, any day
+- Quietest overall: 7am–10am and 10pm–11pm, any day
 - Busiest stretch to avoid: weekends, 12pm–10pm
 - Early morning (before 9am) is when locals come to run or walk dogs before work
 

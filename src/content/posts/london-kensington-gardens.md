@@ -71,17 +71,11 @@ place:
 tags:
   - london
   - park
-quickAnswer: >-
-  Kensington Gardens is a royal park in Kensington, west London, open 6am–9:30pm
-  every day, with Kensington Palace, the Albert Memorial, the Peter Pan statue
-  and the Diana, Princess of Wales Memorial Playground all inside it. The
-  nearest Tube stops are Queensway and Lancaster Gate (Central line) or High
-  Street Kensington (Circle and District lines). The quiet window runs 7am–9pm,
-  and at weekends you should avoid 11am–7pm, when it is busiest.
+quickAnswer: Kensington Gardens is a royal park in Kensington, west London, open 6am–9:30pm every day, with Kensington Palace, the Albert Memorial, the Peter Pan statue and the Diana, Princess of Wales Memorial Playground all inside it. The nearest Tube stops are Queensway and Lancaster Gate (Central line) or High Street Kensington (Circle and District lines). The quiet windows run 7am–10am and 8pm–9pm on weekdays and 7am–9am and 8pm–9pm at weekends, and at weekends you should avoid 11am–7pm, when it is busiest.
 faq:
   - q: When is the quietest time to visit Kensington Gardens?
     a: >-
-      The quiet window is 7am–9pm on both weekdays and weekends. At weekends,
+      The quiet windows are 7am–10am and 8pm–9pm on weekdays and 7am–9am and 8pm–9pm on weekends. At weekends,
       avoid 11am–7pm, the busiest stretch. Early mornings after the 6am opening
       are the calmest.
   - q: What are the opening hours of Kensington Gardens?
@@ -150,7 +144,7 @@ The Serpentine Galleries show contemporary art in two buildings. Serpentine Sout
 
 ## When to go: early mornings and weekends
 
-The crowd data for Kensington Gardens marks 7am–9pm as the quiet window on both weekdays and weekends. On a weekday you'll rarely have to share much more than a path.
+The crowd data for Kensington Gardens marks 7am–10am and 8pm–9pm as the quiet windows on weekdays, and 7am–9am and 8pm–9pm on weekends. On a weekday you'll rarely have to share much more than a path.
 
 Weekends are different. Try not to arrive between 11am and 7pm on a Saturday or Sunday, when the park is at its busiest. The playground gate and the Italian Gardens fill first. If a weekend is your only option, go early. The gates open at 6am, and by 7am the Broad Walk mostly belongs to dog walkers and runners. Or come after 7pm, while there's still time before the 9:30pm close.
 

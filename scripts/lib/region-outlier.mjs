@@ -396,3 +396,35 @@ export function regionAtBirth(cand, { country, region }, committed, opts = {}) {
   const hit = findRegionOutliers([...peers, me], opts).find((h) => h.post === me);
   return hit?.evidence?.region ?? null;
 }
+
+/**
+ * The one declared region of the country that the address names, when it is
+ * not the searched one. regionAtBirth compares a candidate with the region's
+ * live posts, so a region with none yet has nothing to compare against:
+ * Mongolia's country fill searched "museum in Dalanzadgad", "in Murun" and "in
+ * Erdenet" and got the National Museum (Ulaanbaatar) and two Kharkhorin sights,
+ * addresses saying so — Kharkhorin is a declared region with no post yet, so
+ * all three were written under the wrong city and held (2026-10-11).
+ * Whole-word, case-insensitive; null when the address names the searched region,
+ * none of the others, or more than one.
+ * @param {string} address
+ * @param {string[]} declared  the country's regions (data/countries.json)
+ * @param {string} current     the searched region
+ */
+export function declaredRegionInAddress(address, declared, current, { country = '', settled = new Set() } = {}) {
+  // Only a region with NO live post yet may be named here. One that has posts is
+  // regionAtBirth's to judge — and run after it, this fallback moved 113 of
+  // 2,048 live guides that fit where they were: nearly every Singapore, Hong
+  // Kong or Macau address ends in a declared region that is also the country,
+  // and provinces and emirates (Antalya, Dubai, Abu Dhabi) contain other
+  // declared regions (review, 10-12; 0 with this limit, Kharkhorin still moves).
+  const fold = (s) => ` ${String(s || '').normalize('NFD').replace(/\p{M}/gu, '').toLowerCase().replace(/[^\p{L}\p{N}]+/gu, ' ').trim()} `;
+  const raw = fold(address);
+  const has = (txt, r) => txt.includes(fold(r));
+  if (!current || has(raw, current)) return null;
+  // A region's name followed by a street word is a street ("Ulaanbaatar Rd" in
+  // another town), not the place's city — drop those before matching.
+  const a = raw.replace(/ [\p{L}\p{N}]+ (?=(?:rd|road|st|street|ave|avenue|blvd|boulevard|ln|lane|gudamj|highway|hwy) )/gu, ' ');
+  const named = (declared || []).filter((r) => r !== current && r !== country && !settled.has(r) && has(a, r));
+  return named.length === 1 ? named[0] : null;
+}

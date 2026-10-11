@@ -1,73 +1,73 @@
 ---
 lang: es
 slug: austin-blanton-museum-of-art
-srcHash: 'b638424ad8fd'
-title: 'Museo de Arte Blanton: Guía de viaje de Austin (4.7★)'
-description: 'El Museo de Arte Blanton se encuentra en el campus de la Universidad de Texas en Austin, justo en la esquina de Martin Luther King Jr Blvd y Congress Avenue, en el centro de la ciudad, y es el museo de arte universitario más grande del estado. 4.7★ (3,749 reseñas): lo que dicen los visitantes, horarios y consejos.'
-quickAnswer: El Museo de Arte Blanton se encuentra en el campus de la Universidad de Texas en Austin, justo en la esquina de Martin Luther King Jr Blvd y Congress Avenue, en el centro de la ciudad, y es el museo de arte universitario más grande del estado. Los fines de semana, el horario de 10am a 6pm es el más tranquilo, mientras que el cierre tardío del sábado a las 8pm convierte el tramo de 11am a 8pm en el más concurrido de la semana. Conviene reservar entre dos y tres horas, tener en cuenta que el museo cierra los lunes, y planificar la visita al edificio independiente de Ellsworth Kelly, Austin, cuya entrada se compra por separado de las galerías principales.
+srcHash: '9696e4bde730'
+title: 'Museo de Arte Blanton: guía de viaje de Austin (4.7★)'
+description: En pleno campus de la Universidad de Texas en Austin, en la esquina de Martin Luther King Jr Blvd con Congress Avenue, se alza el Museo de Arte Blanton, el mayor museo universitario de arte del estado. Con 4.7★ (3,749 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
+quickAnswer: En pleno campus de la Universidad de Texas en Austin, en la esquina de Martin Luther King Jr Blvd con Congress Avenue, en el centro de la ciudad, se alza el Museo de Arte Blanton (Blanton Museum of Art), el mayor museo universitario de arte del estado. Los fines de semana, el momento más tranquilo es la primera hora tras la apertura de las 10am; a partir de las 11am las salas se llenan y, los sábados, siguen concurridas hasta el cierre de las 8pm. Reserve entre dos y tres horas para la visita y tenga en cuenta que cierra los lunes. Organícese también en función de Austin, el edificio exento que Ellsworth Kelly concibió a modo de capilla y que requiere una entrada distinta de la de las salas principales.
 faq:
-  - q: ¿Cuánto tiempo debo reservar para visitar el Museo de Arte Blanton?
-    a: Conviene calcular entre dos y tres horas para las galerías principales y el breve paseo hasta el edificio Austin, más tiempo si hay alguna exposición especial en cartel.
-  - q: ¿Abre el Museo de Arte Blanton los lunes?
-    a: No, los lunes permanece cerrado. De martes a domingo abre a las 10am, y cierra a las 5pm la mayoría de los días, salvo los sábados, cuando el cierre se extiende hasta las 8pm.
+  - q: ¿Cuánto tiempo conviene dedicar al Museo de Arte Blanton?
+    a: Calcule entre dos y tres horas para recorrer las salas principales y dar el breve paseo hasta el edificio Austin; algo más si hay alguna exposición temporal.
+  - q: ¿Abre los lunes el Museo de Arte Blanton?
+    a: No, los lunes permanece cerrado. De martes a domingo abre a las 10am y cierra a las 5pm casi todos los días, salvo los sábados, que cierra a las 8pm.
   - q: ¿Cuál es el momento más tranquilo para visitarlo?
-    a: Los fines de semana, la franja más tranquila va de 10am a 6pm; conviene evitar llegar después de las 11am el sábado, cuando la afluencia aumenta de forma constante hasta el cierre a las 8pm.
-  - q: ¿Necesito una entrada aparte para el edificio Austin de Ellsworth Kelly?
-    a: Sí, Austin requiere una entrada propia con horario asignado, distinta de la entrada general al museo, y su capacidad es limitada, por lo que conviene gestionarla al principio de la visita.
-  - q: ¿Dónde está el Museo de Arte Blanton respecto al centro de Austin?
-    a: Se ubica en 200 E Martin Luther King Jr Blvd, dentro del campus de la Universidad de Texas, a poca distancia a pie del Capitolio del Estado de Texas siguiendo Congress Avenue.
+    a: Los fines de semana, la primera hora tras la apertura de las 10am es la más tranquila. A partir de las 11am aumenta la afluencia y, los sábados, se mantiene hasta el cierre de las 8pm.
+  - q: ¿Hace falta una entrada aparte para Austin, el edificio de Ellsworth Kelly?
+    a: Sí. Austin requiere una entrada propia con horario, distinta de la entrada general del museo, y su aforo es limitado, así que conviene reservarla al principio de la visita.
+  - q: ¿Dónde se encuentra el Museo de Arte Blanton con respecto al centro de Austin?
+    a: Está en 200 E Martin Luther King Jr Blvd, dentro del campus de la Universidad de Texas, a un agradable paseo del Capitolio del Estado de Texas por Congress Avenue.
 ---
 
-La mayoría de los visitantes llega pensando en un solo edificio y termina pasando toda una tarde en dos. En realidad, el Blanton son dos sitios distintos: el museo principal, con su campus de dos edificios dedicados a las galerías renacentistas, americanas, latinoamericanas y de arte antiguo, y, a un corto paseo hacia el sur, Austin, la estructura independiente de Ellsworth Kelly, que funciona como una obra de arte que se recorre por dentro, no como una capilla en el sentido religioso.
+Casi todo el mundo llega pensando en un solo edificio y acaba pasando la tarde entre dos. En realidad, el Blanton se compone de dos espacios. Por un lado está el museo principal, repartido en dos edificios con salas dedicadas al Renacimiento, al arte estadounidense, al latinoamericano y a la Antigüedad. Por otro, a pocos pasos hacia el sur, se encuentra Austin, la construcción independiente de Ellsworth Kelly: más que una capilla en sentido religioso, es una obra de arte en la que uno entra.
 
-## Ubicado en un campus, no en una calle cualquiera
+## Un museo dentro de un campus, no en una calle cualquiera
 
-La dirección es 200 E Martin Luther King Jr Blvd, aunque el museo se percibe más como una puerta de entrada a la Universidad de Texas que como un edificio aislado. Se sitúa en la esquina sureste del campus, a pocos minutos a pie de los terrenos del Capitolio del Estado de Texas.
+Aunque su dirección oficial es 200 E Martin Luther King Jr Blvd, el museo se percibe más como una puerta de entrada a la Universidad de Texas que como un edificio aislado. Ocupa el extremo sureste del campus, a pocos minutos a pie de los jardines del Capitolio del Estado de Texas (Texas State Capitol).
 
-Congress Avenue pasa justo por delante, así que si ya está en el centro puede llegar caminando desde el Capitolio en menos de quince minutos. Hay estacionamiento con parquímetro en las calles cercanas, pero el garaje propio del museo, en Trinity Street, es la opción más práctica los días de semana, cuando los estacionamientos del campus se llenan de estudiantes.
+Como Congress Avenue pasa justo por delante, quien ya esté en el centro puede subir caminando desde el Capitolio en menos de quince minutos. En los alrededores hay aparcamiento en la calle con parquímetro, pero entre semana, cuando los estudiantes llenan los estacionamientos del campus, resulta más cómodo dejar el coche en el garaje del propio museo, en Trinity Street.
 
-## Lo que realmente hay en las paredes
+## Qué cuelga realmente de sus paredes
 
-La colección permanente abarca desde la pintura europea renacentista y barroca hasta el arte estadounidense del siglo XX, e incluye uno de los fondos de arte latinoamericano más importantes entre los museos de Estados Unidos. Una sala dedicada a las antigüedades griegas y romanas completa el extremo más antiguo de este recorrido cronológico.
+La colección permanente abarca desde la pintura europea del Renacimiento y del Barroco hasta el arte estadounidense del siglo XX, e incluye uno de los fondos de arte latinoamericano más importantes de los museos de Estados Unidos. Una sala de antigüedades griegas y romanas completa el recorrido por los periodos más remotos.
 
-La colección de arte latinoamericano es, a nivel nacional, el verdadero sello distintivo del museo, formada a lo largo de décadas y no reunida para una sola exposición. No conviene pasar de largo en busca de las salas europeas "famosas": esta es la colección que atrae a curadores y a otros museos hasta Austin específicamente para verla.
+Lo que distingue de verdad al museo a escala nacional es su colección latinoamericana, reunida a lo largo de décadas y no montada para una exposición puntual. No pase por ella a toda prisa en busca de las salas europeas «famosas»: precisamente esta colección es la que atrae a Austin a comisarios y a profesionales de otros museos.
 
-## Austin, el edificio que se recorre por dentro
+## Austin, el edificio en el que se entra
 
-Ellsworth Kelly diseñó esta estructura independiente al final de su vida, y se inauguró aquí tras su muerte, situada a un corto paseo de las galerías principales, sobre su propio terreno de césped. En el interior, ventanas de vidrio de colores en las cuatro paredes proyectan paneles de luz cambiantes sobre los suelos de piedra y una escultura de madera en forma de tótem.
+Ellsworth Kelly diseñó esta construcción exenta en la última etapa de su vida, y se inauguró aquí después de su muerte. Se levanta sobre su propia parcela de césped, a poca distancia de las salas principales. En su interior, las vidrieras de colores de los cuatro muros proyectan franjas de luz cambiantes sobre el suelo de piedra y sobre una escultura totémica de madera.
 
-A pesar de su forma cruciforme, que recuerda a una capilla, no tiene ningún programa religioso asociado: se presenta como una obra de arte independiente que se experimenta permaneciendo unos minutos de pie en su interior.
+Pese a su planta en forma de cruz, propia de una capilla, no tiene ninguna función religiosa. Se presenta como una obra de arte autónoma que se vive permaneciendo unos minutos en su interior.
 
-- Austin requiere una entrada con horario asignado, separada de la entrada general, así que conviene conseguir ambas al llegar
-- Las visitas suelen ser breves: lo habitual son entre diez y quince minutos
-- La mejor luz suele darse en un día despejado, ya que es el vidrio el que hace todo el trabajo
+- Austin exige una entrada con horario, distinta de la entrada general, así que conviene adquirir ambas al llegar
+- Las visitas son breves: la mayoría de la gente pasa dentro entre diez y quince minutos
+- Los días despejados suelen ofrecer la mejor luz, ya que todo el efecto depende de las vidrieras
 
-## Cómo manejar la excepción del sábado
+## Cómo aprovechar el horario especial del sábado
 
-El horario del museo no es el mismo todos los días de la semana, y esto conviene tenerlo en cuenta al planificar. De martes a viernes y los domingos, el museo cierra a las 5pm, mientras que el sábado se extiende hasta las 8pm, la única apertura nocturna de toda la semana.
+El horario del museo varía a lo largo de la semana, y eso influye en la planificación. De martes a viernes y el domingo cierra a las 5pm, mientras que el sábado abre hasta las 8pm; es la única apertura nocturna de la semana.
 
-Esa franja extra del sábado es también la más concurrida, con una afluencia que crece desde las 11am hasta el cierre a las 8pm. Si prefiere recorrer las galerías sin la multitud del sábado por la noche, las visitas de fin de semana son más tranquilas entre las 10am y las 6pm, antes de que llegue el público de después de la cena.
+Esa franja adicional del sábado es también la de mayor afluencia: el público aumenta desde las 11am y no disminuye hasta el cierre de las 8pm. Si prefiere recorrer las salas sin aglomeraciones, llegue a la apertura de las 10am, porque la primera hora es la más tranquila del fin de semana.
 
-El museo cierra por completo los lunes, así que no conviene incluirlo en un itinerario de campus para ese día, a diferencia del Capitolio u otros puntos de interés cercanos de la UT, que mantienen horarios más convencionales.
+Los lunes el museo permanece cerrado todo el día. No lo incluya, por tanto, en un itinerario de lunes por el campus, como sí podría hacer con el Capitolio o con otros lugares emblemáticos cercanos de la universidad, cuyos horarios son más convencionales.
 
-## El pozo de luz y el patio, que merecen una mirada atenta
+## La luz y el patio
 
-Entre los dos edificios principales del museo hay un patio abierto que la mayoría de los visitantes atraviesa rápido en su camino hacia la siguiente galería. Vale la pena recorrerlo con más calma, ya que el diseño busca ofrecer vistas de esculturas y vegetación entre las colecciones cubiertas, en lugar de tratar el trayecto entre alas como un simple espacio de paso.
+Entre los dos edificios principales se abre un patio que la mayoría de los visitantes atraviesa sin detenerse camino de la siguiente sala. Merece la pena recorrerlo con más calma: se diseñó para que, entre una colección y otra, se vislumbren esculturas y vegetación, de modo que el paso de un ala a otra no sea un espacio muerto.
 
-Las propias galerías principales cuentan con buena iluminación natural en varios tramos, una decisión deliberada de la curaduría, sobre todo en las salas de pintura europea y estadounidense, por lo que las visitas al mediodía suelen mostrar los cuadros en su mejor momento.
+Algunas zonas de las salas principales reciben abundante luz natural, una decisión curatorial deliberada, sobre todo en las salas de pintura europea y estadounidense. Por eso, a mediodía los lienzos suelen lucir mejor que nunca.
 
-## Cómo aprovechar al máximo una sola visita
+## Cómo sacar el máximo partido a una sola visita
 
-Entre dos y tres horas bastan para recorrer con calma la colección permanente y llegar hasta Austin. Si hay una exposición especial en cartel, conviene sumar entre treinta y cuarenta y cinco minutos más, ya que suelen ocupar una ala completa e independiente.
+Con dos o tres horas se recorre sin prisas la colección permanente y queda tiempo para acercarse a Austin. Si hay alguna exposición temporal, añada entre treinta y cuarenta y cinco minutos más, ya que estas muestras suelen ocupar un ala completa.
 
-- Si se está formando fila para la exposición especial, conviene comenzar por ahí, ya que suele atraer a mucha gente desde temprano
-- Deje Austin para el final, así no tendrá que apresurarse por llegar a su franja horaria asignada
-- La tienda del museo, cerca de la entrada, merece una parada al salir, con una selección especialmente buena vinculada a la colección de arte latinoamericano
+- Si empieza a formarse cola, comience por la exposición temporal, que suele atraer al público desde primera hora
+- Deje Austin para el final y así no tendrá que apresurarse para llegar a tiempo a su turno
+- Al salir, eche un vistazo a la tienda del museo, junto a la entrada: su oferta relacionada con la colección latinoamericana es mejor de lo habitual
 
-## Cómo planificar la visita como quien estudia allí
+## Cómo organizarse igual que un estudiante de la casa
 
-Al tratarse de un museo universitario, sus ritmos siguen tanto el calendario académico como los patrones turísticos habituales. Las mañanas de días de semana suelen ser más tranquilas, antes de que lleguen los grupos de estudiantes y las excursiones escolares más tarde en el día, aunque no existen datos publicados que permitan precisar esto con más detalle.
+Al tratarse de un museo universitario, su ritmo depende tanto del calendario académico como de las pautas del turismo. Las mañanas entre semana suelen ser más tranquilas, antes de que lleguen los grupos de estudiantes y las visitas escolares, aunque no existen datos publicados que permitan precisarlo más.
 
-Dada la popularidad del museo entre los visitantes en general, llegar a la hora de apertura en un día de semana es una buena manera de ver las galerías principales antes de que los grupos turísticos se acumulen hacia el mediodía. Si el sábado es la única opción disponible, conviene apuntar a la franja más tranquila de 10am a 6pm, en lugar de la multitud vespertina que crece desde las 11am y se mantiene hasta el cierre a las 8pm.
+Dada la popularidad del museo entre el público en general, llegar a la hora de apertura un día laborable es una buena manera de ver las salas principales antes de que los grupos organizados vayan llenándolas hacia el mediodía. Si solo puede ir el sábado, preséntese a la apertura de las 10am, antes de la afluencia que comienza a las 11am y se mantiene hasta el cierre de las 8pm.
 
-Las entradas se venden en el mostrador de recepción y, por lo general, también en línea con antelación; comprarlas por adelantado vale la pena especialmente si se busca un horario concreto para ver Austin, ya que la capacidad allí es limitada debido al pequeño interior del edificio. Conviene verificar el horario oficial del museo antes de la visita, sobre todo en fechas cercanas a festivos universitarios, cuando el horario puede diferir del calendario semanal estándar aquí descrito.
+Las entradas se venden en la taquilla y, por lo general, también por internet con antelación. Comprarlas por adelantado compensa si quiere asegurarse un turno para Austin, cuyo aforo es limitado por las reducidas dimensiones del edificio. Antes de ir, consulte el horario oficial del museo, sobre todo en periodos de vacaciones universitarias, cuando puede apartarse del horario semanal habitual que aquí se indica.

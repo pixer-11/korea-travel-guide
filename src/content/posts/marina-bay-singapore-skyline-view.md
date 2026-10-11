@@ -67,31 +67,15 @@ quickAnswer: >-
   weekends, which is when it fills up.
 faq:
   - q: How do I get to Singapore Skyline View?
-    a: >-
-      Take the MRT to Bayfront Station on the Circle or Downtown Line. Follow
-      the signs to The Shoppes at Marina Bay Sands and go out the waterfront
-      side to the promenade at 10 Bayfront Ave. You can also walk over the Helix
-      Bridge from the Marina Centre side.
+    a: Take the MRT to Bayfront Station on the Circle or Downtown Line. Follow the signs to The Shoppes at Marina Bay Sands and go out the waterfront side to the promenade at 10 Bayfront Ave. You can also walk over the Helix Bridge from the Marina Centre side.
   - q: When is the quietest time to visit?
-    a: >-
-      There's no weekday data. On weekends the quietest window is listed as
-      7am–9pm, and the busiest is 4pm–11pm, so weekend mornings are the best
-      bet. Avoid weekend evenings if you want space at the railing.
+    a: There's no weekday data. On weekends the quietest window is listed as 7am–8am, and the busiest are 4pm–5pm and 8pm–11pm, so weekend mornings are the best bet. Avoid weekend evenings if you want space at the railing.
   - q: Is it open at night?
-    a: >-
-      Yes. It's open 24 hours every day. That means you can come late for the
-      lit-up skyline after the 4pm–11pm weekend rush has cleared.
+    a: Yes. It's open 24 hours every day. That means you can come late for the lit-up skyline after the 4pm–11pm weekend rush has cleared.
   - q: How long should I spend there?
-    a: >-
-      Twenty minutes is enough for the view and photos. Give it about an hour if
-      you're waiting for sunset, the night lights or the Spectra show. Check the
-      Marina Bay Sands official site for current showtimes.
+    a: Twenty minutes is enough for the view and photos. Give it about an hour if you're waiting for sunset, the night lights or the Spectra show. Check the Marina Bay Sands official site for current showtimes.
   - q: What else is nearby?
-    a: >-
-      The ArtScience Museum is right beside it, and the Helix Bridge, Gardens by
-      the Bay and the Sands SkyPark Observation Deck are all within walking
-      distance. The Merlion and the Fullerton Hotel are on the other side of the
-      bay loop.
+    a: The ArtScience Museum is right beside it, and the Helix Bridge, Gardens by the Bay and the Sands SkyPark Observation Deck are all within walking distance. The Merlion and the Fullerton Hotel are on the other side of the bay loop.
 aiGenerated: true
 draft: false
 updatedDate: '2026-10-09'
@@ -113,7 +97,7 @@ Coming from the Marina Centre side, you can cross the Helix Bridge. Its steel st
 
 There's no weekday crowd data for this spot, but the weekend figures are clear. On weekends the busiest stretch runs from 4pm–11pm. That's when the sunset crowd and the evening light-show audience line the waterfront.
 
-The quietest weekend window is listed as 7am–9pm. Because that overlaps the evening peak, the safe reading is mornings. Arrive after 7am and you'll have the railing almost to yourself, with soft light falling on the towers opposite.
+The quietest weekend window is listed as 7am–8am. Because that overlaps the evening peak, the safe reading is mornings. Arrive after 7am and you'll have the railing almost to yourself, with soft light falling on the towers opposite.
 
 Night is the classic view, as the office towers stay lit over the black water. If you want the night skyline without the crowd, come late, after the 11pm weekend peak has cleared.
 
