@@ -32,6 +32,16 @@ const FORT = [
   'Monday: 10:00 AM – 5:00 PM', 'Tuesday: Closed', 'Wednesday: Closed',
   'Thursday: 10:00 AM – 5:00 PM', 'Friday: 10:00 AM – 5:00 PM', 'Saturday: 10:00 AM – 5:00 PM', 'Sunday: 10:00 AM – 5:00 PM',
 ];
+// 10-12 격리 4편의 실데이터 형태.
+const WEEKDAYS_ONLY = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday']
+  .map((d) => `${d}: 8:30 AM – 5:30 PM`).concat(['Saturday: Closed', 'Sunday: Closed']);
+const TEMPLE_SUN_MON = ['Monday: Closed', 'Tuesday: 6:30 AM – 7:15 PM', 'Wednesday: 6:30 AM – 7:15 PM',
+  'Thursday: 6:30 AM – 7:15 PM', 'Friday: 6:30 AM – 7:15 PM', 'Saturday: 6:30 AM – 7:15 PM', 'Sunday: Closed'];
+const PARROQUIA = ['Monday: 9:00 AM – 2:00 PM, 4:00 – 7:00 PM', 'Tuesday: 9:00 AM – 2:00 PM, 4:00 – 7:00 PM',
+  'Wednesday: 9:00 AM – 2:00 PM, 4:00 – 7:00 PM', 'Thursday: 9:00 AM – 2:00 PM', 'Friday: 9:00 AM – 2:00 PM, 4:00 – 7:00 PM',
+  'Saturday: 9:00 AM – 2:00 PM', 'Sunday: Closed'];
+const MIDDAY_BREAK_FRI = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Saturday', 'Sunday']
+  .map((d) => `${d}: 9:00 AM – 9:00 PM`).concat(['Friday: 7:30 AM – 12:00 PM, 3:00 – 9:00 PM']);
 // 자금성: 월요일만 휴관, 화~일 개관 — 'closed every Monday'가 참인 배치.
 const PALACE = [
   'Monday: Closed', 'Tuesday: 8:30 AM – 4:30 PM', 'Wednesday: 8:30 AM – 4:30 PM',
@@ -242,6 +252,26 @@ const cases = [
   // 역방향(코덱스): "나머지 엿새, 월요일 포함" 은 다시 요일을 짚는다 — 월요일이 열려 있으면 잡는다.
   ['TP-other-days-including-open-day (must FLAG)', post(AGRA,
     'The bazaar opens Sundays and is closed the other six days, including Monday.', 'Agra Bazaar'), 1],
+  // 10-12 몽골·호주·멕시코·UAE 4편이 맞는 문장으로 격리돼 한 번도 공개되지 못했다.
+  // (1) "closed at weekends" — at 이 끼면 주말이 두 요일로 안 풀려 앞의 금요일과 짝지어졌다.
+  ['FP-weekdays-then-closed-at-weekends (should be CLEAN)', post(WEEKDAYS_ONLY,
+    'Its visitor centre currently opens Monday to Friday, 8:30am–5:30pm, and is closed at weekends, so plan a weekday trip.'), 0],
+  ['TP-closed-at-weekends-but-open (must FLAG)', post(FORT, 'The fort is closed at weekends.'), 1],
+  // (2) 휴무 요일 목록 뒤에 ", and 토요일 from/between …" 이 오면 토요일은 새 절의 주어다.
+  ['FP-closed-list-then-day-from-hours (should be CLEAN)', post(TEMPLE_SUN_MON,
+    'It is closed Sundays and Mondays, and Saturdays from 8am to 7pm are the busiest stretch, so a weekday visit works better.'), 0],
+  ['FP-closed-sunday-then-saturday-between (should be CLEAN)', post(PARROQUIA,
+    'It is listed as closed on Sunday, and Saturday between 10am and 2pm is the busiest stretch to avoid.'), 0],
+  ['TP-closed-list-really-includes-open-day (must FLAG)', post(TEMPLE_SUN_MON,
+    'It is closed Sundays, Mondays and Saturdays.'), 1],
+  // (3) 낮 휴식이 있는 날의 "오후 1시에 가면 닫혀 있다" 는 시간 이야기다.
+  ['FP-midday-break-clock-time (should be CLEAN)', post(MIDDAY_BREAK_FRI,
+    'Turn up at 1pm on a Friday and the gates will be closed.'), 0],
+  // (4) 목록 끝 '**Sunday:** closed' 와 다음 문단 첫머리 'Saturday is…' 는 한 주장이 아니다.
+  ['FP-closed-list-end-then-next-paragraph-day (should be CLEAN)', post(PARROQUIA,
+    '- **Saturday:** 9am to 2pm only\n- **Sunday:** closed\n\nSaturday is the day to be careful.'), 0],
+  ['TP-midday-break-day-said-closed (must FLAG)', post(MIDDAY_BREAK_FRI,
+    'The village is closed on Fridays.'), 1],
 ];
 
 let fail = 0;

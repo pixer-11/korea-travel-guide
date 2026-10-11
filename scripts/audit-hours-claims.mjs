@@ -170,6 +170,11 @@ export function hoursProblems(raw) {
   // closures ("closed Sunday mornings") land here too, deliberately: the fact
   // box only knows whole days, so a half-day claim cannot contradict it.
   const SCOPE_SHIFT = `(?!\\s+(?:hours?|times?|schedules?|openings?|closings?|mornings?|afternoons?|evenings?|nights?|crowds?|visitors?|queues?|lines?|tickets?|entry|admission|prices?|rates?|brunch|lunch|dinner|traffic|services?)\\b)`;
+  // In a day LIST after "closed", a day followed at once by a time span starts
+  // a new clause: "closed Sundays and Mondays, and Saturdays from 8am to 7pm
+  // are the busiest" (Brisbane), "closed on Sunday, and Saturday between 10am
+  // and 2pm is the busiest" (San Miguel) — both correct, both held (10-12).
+  const TIME_SPAN_NEXT = `(?!\\s+(?:from|between|after|before|until|till)\\b)`;
   // directOnly: accept only the explicit "closed (on) <day>" form, not a "closed"
   // that merely sits near the day. Used for a day that is OPEN but short (see
   // partialDays below), where the nearby form is how a half-day closure reads.
@@ -204,7 +209,10 @@ export function hoursProblems(raw) {
     // so only the adjacent form is rewritten. "closed Mondays and weekends" is
     // knowingly left undetected — a missed flag costs a warning, a false one
     // costs an LLM rewrite of a healthy article and a quarantined post.
-    text = text.replace(new RegExp(`(closed${H}+${ADV})weekends?\\b`, 'gi'), '$1Saturday and Sunday');
+    // "closed at weekends" / "over the weekend" too (Khustai, 10-12: with "at"
+    // between them the weekend stayed a word, and the Friday before it was
+    // paired with "closed" — a correct guide held from its first publish).
+    text = text.replace(new RegExp(`(closed${H}+${ADV})(?:(?:at|over|during|for)${H}+)?(?:the${H}+)?weekends?\\b`, 'gi'), '$1Saturday and Sunday');
     // "closed Sundays" — the day AFTER the word owns the claim. Checked first,
     // because "3–10pm on Saturdays, and closed Sundays" otherwise reads as a
     // claim about Saturday: the gap between "Saturdays" and "closed" is just
@@ -214,7 +222,10 @@ export function hoursProblems(raw) {
     // another day name — correctly for most sentences, wrongly for a list. So
     // a run of day names joined by commas/and, directly after "closed", claims
     // every day in it.
-    if (new RegExp(`closed\\s+${ADV}(?:(?:${DAY_ALT})s?\\b${SCOPE_SHIFT}(?:,\\s*(?:and\\s+)?|\\s+and\\s+))*${d}s?\\b${SCOPE_SHIFT}`, 'i').test(text)) return true;
+    // On one line only (H, not \s): "- **Sunday:** closed" ending a list and the
+    // next paragraph opening "Saturday is the day to be careful" read as
+    // "closed Saturday" (San Miguel, 10-12).
+    if (new RegExp(`closed${H}+${ADV}(?:(?:${DAY_ALT})s?\\b${SCOPE_SHIFT}(?:,${H}*(?:and${H}+)?|${H}+and${H}+))*${d}s?\\b${SCOPE_SHIFT}${TIME_SPAN_NEXT}`, 'i').test(text)) return true;
     // On a SHORT day (see (ii) below) a sentence that pins the closure to a
     // time of day is about the hours, not the day: "arrive on the afternoon
     // bus on a Monday and the market will already be closed". Only those
@@ -309,7 +320,10 @@ export function hoursProblems(raw) {
       if (!p.ranges.length) continue;
       const s = Math.min(...p.ranges.map((r) => r[0]));
       const e = Math.max(...p.ranges.map((r) => r[1]));
-      if (e <= widest[1] - 180 || s >= widest[0] + 180) partialDays.add(p.day);
+      // A day with a midday break is short too: "turn up at 1pm on a Friday and
+      // the gates will be closed" is right for 7:30am–12pm, 3–9pm (Yas Island's
+      // Heritage Village, held from its first publish, 10-12).
+      if (p.ranges.length > 1 || e <= widest[1] - 180 || s >= widest[0] + 180) partialDays.add(p.day);
     }
   }
 
