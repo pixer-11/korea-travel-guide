@@ -11600,5 +11600,140 @@
       "getting": "大多数游客会乘坐山阳新干线抵达冈山:从新大阪出发约45分钟,从东京出发约3.5小时。冈山也有一座小型地方机场——冈山桃太郎机场(OKJ),提供往返东京羽田及其他少数枢纽城市的国内航班,机场巴士可直达市区。",
       "days": "建议安排1到2天:足以游览后乐园、冈山城,并留出半天时间前往邻近的仓敷一日游。"
     }
+  },
+  "Dalanzadgad": {
+    "en": {
+      "blurb": "Dalanzadgad is the capital of Mongolia's Ömnögovi province and the main staging post for travellers heading into the Gobi Desert, sitting close to Gurvan Saikhan National Park with its dunes, gorges and fossil-rich badlands. It is a small, practical town rather than a sightseeing destination in itself, valued chiefly as the last proper base with shops, guesthouses and fuel before the open steppe.",
+      "getting": "Most travellers fly into Dalanzadgad Airport (DLZ) on the roughly one-hour domestic route from Ulaanbaatar's Chinggis Khaan International Airport; there is no railway this far south, so the alternative is a long overland drive or bus journey of around 10 to 12 hours on the paved highway from the capital.",
+      "days": "Most visitors treat Dalanzadgad as a one-night staging point, allowing ~1 day to arrange onward transport before continuing into the national park and surrounding Gobi sites."
+    },
+    "ko": {
+      "blurb": "달란자드가드는 몽골 south 지방인 어믄고비 아이막의 주도이자, 고비 사막으로 떠나는 여행자들의 주요 관문 역할을 하는 도시입니다. 모래언덕과 협곡, 화석이 풍부한 황무지로 유명한 고르왕 사이한 국립공원과 가까운 거리에 있습니다. 이곳 자체는 관광 명소라기보다 작고 실용적인 소도시로, 광활한 초원 지대로 떠나기 전 상점과 게스트하우스, 주유소를 갖춘 마지막 제대로 된 거점으로서 가치가 있습니다.",
+      "getting": "대부분의 여행자는 울란바토르의 칭기스칸 국제공항에서 약 1시간 걸리는 국내선을 타고 달란자드가드 공항(DLZ)으로 들어옵니다. 이렇게 남쪽까지 이어지는 철도는 없기 때문에, 비행기를 타지 않는다면 수도에서 포장도로를 따라 약 10~12시간이 걸리는 장거리 육로 이동(자동차나 버스)이 유일한 대안입니다.",
+      "days": "대부분의 방문객은 달란자드가드를 하룻밤 머무는 경유지로 활용하며, 국립공원과 주변 고비 지역으로 이동하기 전 다음 교통편을 준비하는 데 약 하루 정도를 할애합니다."
+    },
+    "ja": {
+      "blurb": "ダランザドガドは、モンゴル・ウムヌゴビ県の県都であり、ゴビ砂漠を目指す旅行者にとっての主要な中継地です。砂丘や渓谷、化石の宝庫として知られる荒涼とした大地が広がるゴルワンサイハン国立公園にも近接しています。町自体には観光名所と呼べるようなものはなく、どちらかと言えば実用的な小さな町ですが、商店やゲストハウス、ガソリンスタンドが揃う「大草原に出る前の最後の拠点」として重宝されています。",
+      "getting": "多くの旅行者は、ウランバートルのチンギスハーン国際空港からダランザドガド空港(DLZ)まで、片道1時間ほどの国内線を利用して訪れます。この地域まで鉄道は通っていないため、陸路を選ぶ場合は首都から舗装道路を10〜12時間ほどかけて車やバスで移動することになります。",
+      "days": "ほとんどの旅行者は、ダランザドガドを1泊程度の中継地として利用します。国立公園やその周辺のゴビの見どころへ向かう前に、ここで1日ほど滞在して、その先の移動手段を手配するのが一般的です。"
+    },
+    "es": {
+      "blurb": "Dalanzadgad es la capital de la provincia de Ömnögovi, en Mongolia, y el principal punto de partida para quienes se dirigen al desierto de Gobi, ya que se encuentra muy cerca del Parque Nacional Gurvan Saikhan, con sus dunas, cañones y tierras baldías repletas de fósiles. No es un destino turístico en sí mismo, sino una ciudad pequeña y funcional, valorada sobre todo por ser la última base con tiendas, hospedajes y combustible antes de adentrarse en la estepa abierta.",
+      "getting": "La mayoría de los viajeros llega al Aeropuerto de Dalanzadgad (DLZ) en un vuelo doméstico de aproximadamente una hora desde el Aeropuerto Internacional Chinggis Khaan de Ulán Bator; no hay ferrocarril que llegue tan al sur, así que la alternativa es un largo trayecto por tierra, en coche o autobús, de entre 10 y 12 horas por la carretera pavimentada desde la capital.",
+      "days": "La mayoría de los visitantes utiliza Dalanzadgad como punto de parada de una sola noche, dedicando alrededor de un día a organizar el transporte antes de continuar hacia el parque nacional y los demás sitios de la región de Gobi."
+    },
+    "zh": {
+      "blurb": "达兰扎德嘎德是蒙古南戈壁省的首府，也是旅行者前往戈壁沙漠的主要中转站，毗邻以沙丘、峡谷和富含化石的荒漠地貌闻名的南戈壁国家公园（Gurvan Saikhan National Park）。这里本身算不上什么观光胜地，只是一座实用的小城，但凭借齐全的商店、民宿和加油站，成为进入茫茫草原之前最后一个像样的补给点，因而格外重要。",
+      "getting": "大多数旅行者选择乘坐国内航班抵达达兰扎德嘎德机场（DLZ），从乌兰巴托的成吉思汗国际机场出发，航程约一小时。由于这里地处蒙古南部，没有铁路可达，另一种选择是走陆路，沿着从首都延伸出来的柏油公路，乘车或大巴行驶约10到12小时。",
+      "days": "大多数游客只把达兰扎德嘎德当作一个中转站，停留约1天安排后续交通，然后继续前往国家公园及周边的戈壁景点。"
+    }
+  },
+  "Khustai National Park": {
+    "en": {
+      "blurb": "Khustai National Park protects the rolling steppe and river valleys where the takhi, the world's last truly wild horse, was reintroduced after vanishing from the wild entirely. Beyond the herds grazing along the Tuul River, the park's grasslands and low mountains also shelter red deer, wolves, marmots and a scattering of ancient stone monuments.",
+      "getting": "There is no airport, rail line or regular public bus serving the park directly: travellers reach it by road from Ulaanbaatar, a drive of roughly 100 km that takes around 1.5 to 2.5 hours depending on traffic and conditions, with the final few kilometres on an unpaved track. Most visitors arrange a private car, taxi or organised tour from the capital, since independent public transport options are limited.",
+      "days": "A single day trip from Ulaanbaatar is enough to see the horses and visit the small museum, but an overnight stay in a ger camp allows for an evening and early morning wildlife walk, when the takhi are most active."
+    },
+    "ko": {
+      "blurb": "후스타이 국립공원은 완만한 초원과 강 계곡을 보호하는 곳으로, 야생에서 완전히 사라졌던 세계 유일의 진짜 야생말 타키가 다시 방사된 지역이다. 톨 강을 따라 풀을 뜯는 말 무리 외에도, 공원의 초원과 낮은 산지에는 붉은사슴, 늑대, 마멋이 살고 있으며 곳곳에 고대 석상 유적도 흩어져 있다.",
+      "getting": "공원까지 직접 연결되는 공항, 철도, 정기 대중버스는 없다. 여행자들은 울란바토르에서 육로로 이동해야 하며, 약 100km 거리를 교통 상황과 도로 여건에 따라 1.5~2.5시간 정도 달리게 된다. 마지막 몇 킬로미터는 비포장도로다. 독립적인 대중교통 수단이 제한적이기 때문에, 대부분의 방문객은 수도에서 개인 차량이나 택시, 또는 단체 투어를 이용한다.",
+      "days": "울란바토르에서 당일치기로 다녀오면 말들을 구경하고 작은 박물관도 둘러볼 수 있지만, 게르 캠프에서 하룻밤을 묵으면 타키가 가장 활발히 움직이는 저녁과 새벽 시간대에 야생동물 탐방을 즐길 수 있다."
+    },
+    "ja": {
+      "blurb": "フスタイ国立公園は、一度は野生から完全に姿を消しながらも再導入を果たした、世界最後の真の野生馬「タヒ」の生息地である、なだらかな草原と川沿いの谷を守っている。トール川沿いに群れるタヒの姿だけでなく、公園内に広がる草原と低い山々には、アカシカやオオカミ、マーモットなども生息し、点在する古代の石碑もひっそりと歴史を物語っている。",
+      "getting": "この公園には空港も鉄道も定期運行の公共バスもなく、ウランバートルから陸路で向かうしかない。距離は約100kmで、交通状況や道路事情によって1.5~2.5時間ほどかかり、最後の数キロは未舗装路となる。個人で利用できる公共交通機関がほとんどないため、多くの旅行者は首都で車やタクシーを手配するか、ツアーに参加して訪れている。",
+      "days": "ウランバートルからの日帰り旅行でも、馬の群れを見たり小さな博物館を訪れたりするには十分だが、ゲルキャンプに一泊すれば、タヒの活動が最も活発になる夕方や早朝の時間帯に、野生動物観察の散策を楽しむことができる。"
+    },
+    "es": {
+      "blurb": "El Parque Nacional de Khustai protege la estepa ondulante y los valles fluviales donde se reintrodujo el takhi, el último caballo verdaderamente salvaje del mundo, tras haber desaparecido por completo de su hábitat natural. Más allá de las manadas que pastan a lo largo del río Tuul, los pastizales y las montañas bajas del parque también albergan ciervos rojos, lobos, marmotas y un puñado de antiguos monumentos de piedra.",
+      "getting": "El parque no cuenta con aeropuerto, línea de ferrocarril ni servicio regular de autobús público que llegue directamente hasta él: los viajeros deben acceder por carretera desde Ulán Bator, un trayecto de unos 100 km que dura entre 1,5 y 2,5 horas según el tráfico y el estado del camino, con los últimos kilómetros sobre una pista sin asfaltar. La mayoría de los visitantes opta por contratar un coche privado, un taxi o un tour organizado desde la capital, ya que las opciones de transporte público independiente son limitadas.",
+      "days": "Una excursión de un solo día desde Ulán Bator es suficiente para ver a los caballos y visitar el pequeño museo, pero pasar la noche en un campamento de gers permite disfrutar de una caminata para observar fauna al atardecer y a primera hora de la mañana, cuando los takhi están más activos."
+    },
+    "zh": {
+      "blurb": "呼斯台国家公园保护着一片起伏的草原和河谷地带，普氏野马（takhi）——世界上最后一种真正意义上的野马——曾一度在野外绝迹，后来正是在这里得以重新引入自然。除了在图拉河沿岸觅食的马群外，公园内的草原和低矮山地还栖息着马鹿、狼、旱獭，以及散落其间的古老石像。",
+      "getting": "公园没有机场、铁路，也没有直达的公共汽车：游客通常需要从乌兰巴托驱车前往，全程约100公里，根据路况和交通状况，大约需要1.5到2.5小时，最后几公里为未铺砌的土路。由于独立出行的公共交通选择有限，大多数游客会选择从首都包车、乘坐出租车，或参加当地的旅行团前往。",
+      "days": "从乌兰巴托出发一日往返即可看到野马群并参观小型博物馆，但若在蒙古包营地留宿一夜，则能赶上傍晚和清晨的观野生动物时段，这正是普氏野马最为活跃的时刻。"
+    }
+  },
+  "Lake Khuvsgul": {
+    "en": {
+      "blurb": "Lake Khuvsgul is Mongolia's deepest lake and holds nearly 70% of the country's fresh water, its clear blue waters ringed by taiga forest and mountains near the Russian border. Known as the \"Mother Sea\" and often called the younger sibling of Siberia's Lake Baikal, it feels more alpine Siberia than classic Mongolian steppe.",
+      "getting": "Most travellers fly from Ulaanbaatar to Mörön Airport (MXV), a journey of roughly 1 to 1.5 hours, then continue by road for ~2 to 3 hours to reach Khatgal on the lake's southern shore; overland buses from Ulaanbaatar to Mörön are cheaper but take around 12 hours or more. From Mörön, onward transport to the lake is typically arranged via shared taxi, van, or private hire.",
+      "days": "Plan on ~4 to 7 days total from Ulaanbaatar, covering the return journey to and from Mörön plus 2 to 4 days at the lake itself for horseback riding, hiking, and nomad or reindeer-herder visits."
+    },
+    "ko": {
+      "blurb": "홉스골 호수는 몽골에서 가장 깊은 호수로, 나라 전체 담수의 거의 70%를 담고 있습니다. 러시아 국경 인근, 타이가 숲과 산으로 둘러싸인 맑고 푸른 물빛이 인상적입니다. \"어머니의 바다\"라 불리며 흔히 시베리아 바이칼 호수의 동생 격으로 여겨지는 이곳은, 전형적인 몽골 초원보다는 시베리아의 고산 지대 분위기에 더 가깝습니다.",
+      "getting": "대부분의 여행자는 울란바토르에서 비행기로 1~1.5시간가량 이동해 모론 공항(MXV)에 도착한 뒤, 다시 육로로 약 2~3시간을 달려 호수 남쪽 기슭의 하트갈에 도착합니다. 울란바토르에서 모론까지 가는 육로 버스는 더 저렴하지만 12시간 이상 소요됩니다. 모론에서 호수까지는 보통 합승 택시, 밴, 또는 전용 차량을 이용해 이동합니다.",
+      "days": "울란바토르 왕복 일정을 포함해 전체적으로 약 4~7일을 계획하시면 됩니다. 모론까지 오가는 이동 시간 외에, 호수에서 승마, 하이킹, 유목민 및 순록 유목민 방문 등을 즐기려면 2~4일 정도를 호수 자체에 할애하는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "フブスグル湖はモンゴル最深の湖であり、国内の淡水のほぼ70%を蓄えている。澄んだ青い水面はタイガの森と山々に囲まれ、ロシア国境に近い場所に位置する。「母なる海」として知られ、シベリアのバイカル湖の“妹”とも呼ばれるこの湖は、典型的なモンゴル草原というより、どこかアルプス的なシベリアの風景を思わせる。",
+      "getting": "多くの旅行者は、ウランバートルからムルン空港(MXV)まで飛行機で移動する。所要時間はおよそ1~1.5時間。そこから陸路でさらに2~3時間ほど走れば、湖の南岸にあるハトガルに到着する。ウランバートルからムルンへは長距離バスも運行しており、料金は安いものの、12時間以上かかることが多い。ムルンから湖までの移動は、通常、乗り合いタクシーやバン、あるいはハイヤーを利用して手配する。",
+      "days": "ウランバートルからの往復も含めると、全体で4~7日程度を見込んでおきたい。そのうち湖での滞在は2~4日ほどで、乗馬やハイキング、遊牧民やトナカイ飼育民の暮らしを訪ねる時間に充てられる。"
+    },
+    "es": {
+      "blurb": "El lago Khuvsgul es el lago más profundo de Mongolia y contiene casi el 70% del agua dulce del país, con sus aguas azules y cristalinas rodeadas de bosques de taiga y montañas cerca de la frontera con Rusia. Conocido como el \"Mar Madre\" y considerado a menudo el hermano menor del lago Baikal de Siberia, su paisaje evoca más la Siberia alpina que la típica estepa mongola.",
+      "getting": "La mayoría de los viajeros vuela desde Ulán Bator hasta el aeropuerto de Mörön (MXV), un trayecto de aproximadamente 1 a 1,5 horas, y luego continúa por carretera unas 2 a 3 horas más hasta llegar a Khatgal, en la orilla sur del lago. Los autobuses terrestres desde Ulán Bator hasta Mörön son más económicos, pero tardan alrededor de 12 horas o más. Desde Mörön, el transporte hacia el lago suele organizarse mediante taxi compartido, furgoneta o servicio privado.",
+      "days": "Conviene reservar entre 4 y 7 días en total desde Ulán Bator, contando el trayecto de ida y vuelta a Mörön más unos 2 a 4 días en el propio lago para montar a caballo, hacer senderismo y visitar a familias nómadas o criadores de renos."
+    },
+    "zh": {
+      "blurb": "库苏古尔湖是蒙古最深的湖泊,蓄积了全国近70%的淡水资源。湖水清澈碧蓝,四周环绕着泰加林和山脉,紧邻俄罗斯边境。它被誉为\"母亲海\",常被称作西伯利亚贝加尔湖的\"小妹妹\",整体氛围更接近西伯利亚高原风光,而非典型的蒙古草原景色。",
+      "getting": "大多数游客会选择从乌兰巴托飞往穆伦机场(MXV),航程约1到1.5小时,之后再经陆路行驶约2到3小时,抵达湖南岸的哈特嘎勒。若选择从乌兰巴托到穆伦的长途汽车,价格更便宜,但耗时约12小时甚至更久。从穆伦出发前往湖区,通常可以乘坐拼车、面包车或包车前往。",
+      "days": "从乌兰巴托出发,建议总行程安排4到7天,其中包括往返穆伦的路程,外加在湖区停留2到4天,体验骑马、徒步,以及探访游牧民或驯鹿牧民的生活。"
+    }
+  },
+  "Murun": {
+    "en": {
+      "blurb": "Murun is the capital of Khuvsgul province, a grid of paved streets and modest provincial buildings set among steppe and river valleys in Mongolia's far north. It is not a destination in itself but the last proper town before the wilderness: the launch point for Khuvsgul Lake, its forested shores, and the reindeer-herding communities further north.",
+      "getting": "Most travellers fly into Murun Airport (MXV) from Ulaanbaatar, a journey of around 1.5 to 2 hours; overland buses and minivans from the capital's Dragon Center terminal also run but typically take 12 to 24 hours on mixed paved and unpaved roads. From Murun, onward travel to Khatgal and Khuvsgul Lake is by jeep or shared van over roughly 100km of mostly unpaved road, a journey of ~3 to 4 hours.",
+      "days": "Plan on 1 day in Murun itself to arrange permits, supplies, and onward transport, since it functions as a staging post rather than a place to linger."
+    },
+    "ko": {
+      "blurb": "무룬은 훕스굴 아이막의 주도로, 몽골 최북단의 초원과 강 계곡 사이에 자리한 격자형 포장도로와 소박한 지방 건물들로 이루어진 도시다. 그 자체로 여행의 목적지는 아니지만, 황무지로 들어가기 전 마지막으로 거쳐 가는 제대로 된 도시 역할을 한다. 훕스굴 호수와 그 숲으로 둘러싸인 호숫가, 그리고 더 북쪽에 있는 순록 유목민 공동체로 떠나는 여정의 출발점이다.",
+      "getting": "대부분의 여행자는 울란바타르에서 무룬 공항(MXV)까지 비행기로 이동하며, 소요 시간은 약 1시간 30분에서 2시간 정도다. 수도의 드래곤 센터 터미널에서 출발하는 육로 버스와 미니밴도 운행되지만, 포장도로와 비포장도로가 섞인 길을 12시간에서 24시간가량 달려야 한다. 무룬에서 하트갈과 훕스굴 호수까지는 대부분 비포장도로인 약 100km 구간을 지프나 합승 밴으로 이동하며, 이 여정은 약 3~4시간 걸린다.",
+      "days": "무룬에서는 허가증 발급, 물자 조달, 다음 이동 수단 준비를 위해 하루 정도 머무는 것이 적당하다. 이곳은 오래 머무는 곳이 아니라 경유지로서의 역할을 하는 도시이기 때문이다."
+    },
+    "ja": {
+      "blurb": "ムルンはフブスグル県の県都で、モンゴル最北の草原と河谷地帯に、舗装された街路と控えめな地方行政の建物が格子状に広がる町だ。町自体が目的地というわけではなく、この先に待つ荒野への最後のまともな町、すなわちフブスグル湖とその森に覆われた湖岸、さらに北方のトナカイ遊牧民の暮らす地域へ向かう起点である。",
+      "getting": "多くの旅行者はウランバートルからムルン空港(MXV)まで飛行機で移動する。所要時間は1.5〜2時間ほどだ。首都のドラゴンセンター・ターミナルから出る長距離バスやミニバンでの陸路移動も可能だが、舗装路と未舗装路が混在する道を12〜24時間かけて走ることになる。ムルンからハツガルおよびフブスグル湖へは、ジープや乗り合いバンで約100kmのほとんど未舗装の道を進み、所要時間は3〜4時間ほどとなる。",
+      "days": "ムルンでは許可証の取得や物資の調達、その先への交通手段の手配のために1日を見込んでおくとよい。ここは長居する場所ではなく、あくまで次の目的地への中継地点として機能する町だからだ。"
+    },
+    "es": {
+      "blurb": "Murun es la capital de la provincia de Khuvsgul, un trazado de calles pavimentadas y edificios provinciales modestos, rodeado de estepa y valles fluviales en el extremo norte de Mongolia. No es un destino en sí mismo, sino la última población propiamente dicha antes de adentrarse en la naturaleza salvaje: el punto de partida hacia el lago Khuvsgul, sus orillas boscosas y las comunidades de pastores de renos que viven más al norte.",
+      "getting": "La mayoría de los viajeros llega al aeropuerto de Murun (MXV) en vuelo desde Ulán Bator, un trayecto de aproximadamente 1,5 a 2 horas; también circulan autobuses y furgonetas por carretera desde la terminal Dragon Center de la capital, aunque suelen tardar entre 12 y 24 horas por caminos que combinan tramos pavimentados y sin asfaltar. Desde Murun, para continuar hacia Khatgal y el lago Khuvsgul hay que tomar un todoterreno o una furgoneta compartida que recorre unos 100 km, en su mayoría por pistas sin pavimentar, un viaje de entre 3 y 4 horas.",
+      "days": "Conviene reservar 1 día en Murun para gestionar permisos, abastecerse de provisiones y organizar el transporte hacia el siguiente destino, ya que la ciudad funciona más como punto de paso que como lugar para quedarse."
+    },
+    "zh": {
+      "blurb": "穆伦（Murun）是库苏古尔省（Khuvsgul）的省会，坐落在蒙古最北部的草原与河谷之间，街道呈棋盘状分布，两旁是朴素的省级建筑。它本身并非旅行目的地，而是进入荒野前最后一座像样的城镇：是前往库苏古尔湖（Khuvsgul Lake）、湖畔森林，以及更北边驯鹿游牧部落的出发点。",
+      "getting": "大多数游客会从乌兰巴托（Ulaanbaatar）搭乘飞机抵达穆伦机场（MXV），飞行时间约1.5到2小时；也可以选择从首都龙城客运站（Dragon Center）出发的长途汽车或面包车，但这种陆路方式通常需要12到24小时，且路况为铺装与非铺装路面混合。从穆伦出发，前往哈特嘎（Khatgal）和库苏古尔湖需乘坐吉普车或拼车，行驶约100公里的多为未铺装道路，耗时约3到4小时。",
+      "days": "建议在穆伦停留1天，用于办理通行证、采购补给并安排后续交通，因为这里更像是一个中转站，而非值得久留之地。"
+    }
+  },
+  "Tsetserleg": {
+    "en": {
+      "blurb": "Tsetserleg is the pine-forested capital of Arkhangai province, tucked beneath a cliff of volcanic rock in the Khangai mountains rather than out on the open steppe most visitors picture. It is widely regarded as one of Mongolia's most liveable provincial towns, with a 17th-century monastery, a small museum built into the rock face, and easy access to nomadic countryside without the crowds of better-known stops.",
+      "getting": "There is no scheduled air service to Tsetserleg's small local airstrip, so almost everyone arrives overland: daily buses run from Ulaanbaatar's Dragon Bus Terminal on a mostly paved road, with the trip taking roughly ~8-11 hours depending on conditions. Drivers and shared jeeps cover the same route in around ~7 hours, and travellers coming from the west typically connect via long-distance coaches that pass through on their way to and from the capital.",
+      "days": "Plan on ~1-2 days to see the monastery, museum and town itself, plus extra time if you intend to use Tsetserleg as a base for day trips into the surrounding Khangai countryside."
+    },
+    "ko": {
+      "blurb": "체체를렉은 아르항가이 주의 주도로, 사람들이 흔히 떠올리는 탁 트인 초원 지대가 아니라 항가이 산맥의 화산암 절벽 아래 자리 잡은 소나무 숲의 도시다. 몽골에서 가장 살기 좋은 지방 소도시 중 하나로 꼽히며, 17세기에 지어진 사원과 암벽에 파묻히듯 지어진 작은 박물관이 있고, 유명 관광지 특유의 인파 없이도 유목민의 전원 풍경을 쉽게 접할 수 있다.",
+      "getting": "체체를렉의 소규모 활주로에는 정기 항공편이 없어, 거의 모든 여행객이 육로로 이동한다. 울란바토르의 드래곤 버스 터미널에서 매일 버스가 운행되며, 대부분 포장도로를 달리는 이 노선은 도로 사정에 따라 약 8~11시간이 걸린다. 개인 기사나 합승 지프를 이용하면 같은 구간을 약 7시간 만에 주파할 수 있고, 서부 지역에서 오는 여행객들은 보통 수도를 오가는 장거리 버스를 갈아타고 이곳을 경유한다.",
+      "days": "사원과 박물관, 시내를 둘러보는 데는 약 1~2일이면 충분하며, 체체를렉을 거점 삼아 주변 항가이 전원 지역으로 당일치기 여행을 계획한다면 추가로 시간을 더 잡아두는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "ツェツェルレグは、アルハンガイ県の県都でありながら、多くの旅行者がイメージするような広々とした草原地帯とは異なり、ハンガイ山脈の火山岩の崖の下、松林に抱かれるようにして広がる町だ。17世紀の僧院や、岩壁に組み込まれるように建てられた小さな博物館があり、有名な観光地にありがちな人混みを避けながら、遊牧民の暮らす田園地帯へも気軽に足を運べることから、モンゴルの地方都市の中でも特に暮らしやすい町として高く評価されている。",
+      "getting": "ツェツェルレグには小さな地方飛行場があるものの、定期便は就航していないため、ほとんどの旅行者は陸路で訪れることになる。ウランバートルのドラゴン・バスターミナルからは毎日バスが運行しており、道のりはほぼ舗装されているが、道路状況によって所要時間はおよそ8〜11時間ほどかかる。運転手付きの車や乗り合いジープを利用すれば同じルートを約7時間で移動できる。西部方面から来る旅行者は、首都との間を行き来する長距離バスを途中で乗り継ぐのが一般的だ。",
+      "days": "僧院や博物館、町並みを見て回るだけなら1〜2日ほど見ておくとよいだろう。ツェツェルレグを拠点に、周辺のハンガイの田園地帯へ日帰り旅行をするつもりなら、さらに日数を加えておくことをおすすめする。"
+    },
+    "es": {
+      "blurb": "Tsetserleg es la capital, cubierta de pinos, de la provincia de Arkhangai, resguardada bajo un acantilado de roca volcánica en las montañas Khangai, muy lejos de la estepa abierta que la mayoría de los visitantes imagina. Está considerada como una de las ciudades provinciales más agradables de Mongolia para vivir, con un monasterio del siglo XVII, un pequeño museo construido directamente en la pared rocosa y un fácil acceso a la campiña nómada sin las multitudes de los destinos más conocidos.",
+      "getting": "La pequeña pista de aterrizaje local de Tsetserleg no cuenta con vuelos regulares, así que casi todo el mundo llega por tierra: hay autobuses diarios que salen de la Terminal de Autobuses Dragon en Ulán Bator por una carretera mayormente pavimentada, con un trayecto de entre ~8 y 11 horas según las condiciones del camino. Los conductores particulares y los jeeps compartidos cubren la misma ruta en unas ~7 horas, y quienes viajan desde el oeste suelen conectar mediante autocares de larga distancia que pasan por la ciudad en su recorrido hacia y desde la capital.",
+      "days": "Conviene reservar entre ~1 y 2 días para visitar el monasterio, el museo y recorrer la ciudad, además de tiempo adicional si piensas usar Tsetserleg como base para hacer excursiones de un día por la campiña circundante de Khangai."
+    },
+    "zh": {
+      "blurb": "车车尔勒格是阿尔泰省（实为呼和省——应为“阿尔汗盖省”）的省会，坐落在松林环绕之中，依偎在杭爱山一处火山岩崖壁之下，与多数游客印象中那片辽阔无垠的草原截然不同。这里被普遍认为是蒙古最宜居的省会城市之一：一座17世纪的寺院、一座嵌入岩壁的小型博物馆，以及便捷可达的游牧乡野风光，却没有热门景点常见的人潮。",
+      "getting": "车车尔勒格的小型本地机场并无定期航班，因此几乎所有游客都是走陆路前来：每天都有班车从乌兰巴托的龙巴士站（Dragon Bus Terminal）出发，沿着大部分路段已铺设的公路行驶，全程大约需要8到11小时，具体视路况而定。司机和合乘吉普车走同一条路线，大约7小时即可到达；从西部过来的旅客，通常会搭乘往返首都的长途班车，途经此地转乘。",
+      "days": "建议安排大约1到2天的时间，游览寺院、博物馆和小镇本身；如果打算以车车尔勒格为据点，前往周边杭爱地区进行一日游，则需要预留更多时间。"
+    }
   }
 }

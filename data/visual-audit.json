@@ -5556,6 +5556,12 @@
   "reason": "event-mode back-audit: Live concert stage photo, representative of a music festival event",
   "at": "2026-08-07T13:03:03.536Z"
  },
+ "chicago-lou-mitchell-s\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/LOU_MITCHELL%C2%B4S_-_panoramio.jpg/3840px-LOU_MITCHELL%C2%B4S_-_panoramio.jpg": {
+  "slug": "chicago-lou-mitchell-s",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior storefront with sign, representative restaurant view",
+  "at": "2026-10-11T07:44:49.474Z"
+ },
  "chicago-medinah-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Medinah_Temple%2C_Wabash_Avenue%2C_River_North%2C_Chicago%2C_IL_-_52907572547.jpg/1920px-Medinah_Temple%2C_Wabash_Avenue%2C_River_North%2C_Chicago%2C_IL_-_52907572547.jpg": {
   "slug": "chicago-medinah-temple",
   "verdict": "MATCH",
@@ -5879,6 +5885,12 @@
   "reason": "publish gate: Shows picnic tables and BBQ pits at the park",
   "at": "2026-10-06T14:29:43.130Z"
  },
+ "coloane-village-tin-hau-temple-coloane\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Tin_Hau_Temple%2C_Coloane_17-10-2023%283%29.jpg/3840px-Tin_Hau_Temple%2C_Coloane_17-10-2023%283%29.jpg": {
+  "slug": "coloane-village-tin-hau-temple-coloane",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows traditional temple building with incense burner, matches Tin Hau Temple",
+  "at": "2026-10-11T07:44:49.510Z"
+ },
  "cologne-cologne-cathedral\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Cologne_Germany_Cologne-Cathedral-West-Facade-01.jpg/3840px-Cologne_Germany_Cologne-Cathedral-West-Facade-01.jpg": {
   "slug": "cologne-cologne-cathedral",
   "verdict": "MATCH",
@@ -5977,6 +5989,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Interior shot of Galaxy Macau mall with fountain",
   "at": "2026-10-08T07:38:55.392Z"
+ },
+ "cotai-le-jardin\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Le_Jardin_09-06-2024.jpg/3840px-Le_Jardin_09-06-2024.jpg": {
+  "slug": "cotai-le-jardin",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows garden park grounds with gate, representative of venue",
+  "at": "2026-10-11T07:56:51.573Z"
  },
  "cotai-the-cotai-strip\u0001https://upload.wikimedia.org/wikipedia/commons/5/51/Macau_Cotai_Strip_%2812469090953%29.jpg": {
   "slug": "cotai-the-cotai-strip",
@@ -6189,6 +6207,12 @@
   "reasonKo": "현대적 카페 인테리어, 이탈리안 브랜드",
   "at": "2026-08-04T12:22:37.166Z"
  },
+ "dalanzadgad-national-museum-of-mongolia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/National_Museum_of_Mongolia_%282023%29.jpg/1920px-National_Museum_of_Mongolia_%282023%29.jpg": {
+  "slug": "dalanzadgad-national-museum-of-mongolia",
+  "verdict": "MATCH",
+  "reason": "publish gate: Museum building exterior with Mongolian script, representative hero shot",
+  "at": "2026-10-11T07:44:49.454Z"
+ },
  "dallas-epik-high-3-0-tour\u0001https://upload.wikimedia.org/wikipedia/commons/7/7f/Epik_High_in_Everland.jpg": {
   "slug": "dallas-epik-high-3-0-tour",
   "verdict": "MATCH",
@@ -6221,6 +6245,12 @@
   "verdict": "MATCH",
   "reason": "Waterfall with Korean signage, Damyang attraction",
   "at": "2026-07-27T12:46:42.016Z"
+ },
+ "darkhan-amarbayasgalant-monastery\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Amarbayasgalant_monastery_temple_01.JPG/1920px-Amarbayasgalant_monastery_temple_01.JPG": {
+  "slug": "darkhan-amarbayasgalant-monastery",
+  "verdict": "MATCH",
+  "reason": "publish gate: Representative exterior view of the monastery building",
+  "at": "2026-10-11T07:56:51.598Z"
  },
  "darwin-darwin-military-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Darwin_Military_Museum%2C_September_2025_03.jpg/1920px-Darwin_Military_Museum%2C_September_2025_03.jpg": {
   "slug": "darwin-darwin-military-museum",
@@ -6869,6 +6899,12 @@
   "reason": "Taraw Cliff with village below, El Nido Philippines",
   "reasonKo": "엘니도 타라우 절벽과 해변 마을",
   "at": "2026-08-10T14:01:39.284Z"
+ },
+ "erdenet-erdene-zuu-monastery\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/%C5%9Awi%C4%85tynia_Zachodnia_w_klasztorze_Erdene_Dzuu_01.jpg/1920px-%C5%9Awi%C4%85tynia_Zachodnia_w_klasztorze_Erdene_Dzuu_01.jpg": {
+  "slug": "erdenet-erdene-zuu-monastery",
+  "verdict": "MATCH",
+  "reason": "publish gate: Mongolian Buddhist temple matches monastery architecture style.",
+  "at": "2026-10-11T07:56:51.537Z"
  },
  "fergana-al-farg-oniy-haykali\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Ahmad_Al-Farg%27oniy_haykali.jpg/3840px-Ahmad_Al-Farg%27oniy_haykali.jpg": {
   "slug": "fergana-al-farg-oniy-haykali",
@@ -12149,6 +12185,12 @@
   "reason": "publish gate: Ornate interior room with bed, representative of palace interior",
   "at": "2026-08-20T09:18:53.751Z"
  },
+ "khustai-national-park-khustain-nuruu-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Khustain_Nuruu_National_Park.jpg/1920px-Khustain_Nuruu_National_Park.jpg": {
+  "slug": "khustai-national-park-khustain-nuruu-national-park",
+  "verdict": "MATCH",
+  "reason": "publish gate: Representative steppe/mountain landscape matching Khustai National Park scenery",
+  "at": "2026-10-11T07:44:49.529Z"
+ },
  "kobe-ikuta-shrine\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Ikuta_Shrine_honden.jpg/1920px-Ikuta_Shrine_honden.jpg": {
   "slug": "kobe-ikuta-shrine",
   "verdict": "MATCH",
@@ -13394,6 +13436,12 @@
   "verdict": "MISMATCH",
   "reason": "Aerial view of manta rays, not restaurant venue",
   "at": "2026-07-25T02:45:53.097Z"
+ },
+ "lake-khuvsgul-khuvsgul-lake\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/ISS067-E-879_-_View_of_Earth.jpg/1920px-ISS067-E-879_-_View_of_Earth.jpg": {
+  "slug": "lake-khuvsgul-khuvsgul-lake",
+  "verdict": "MATCH",
+  "reason": "publish gate: Satellite view plausibly shows Khuvsgul Lake frozen landscape",
+  "at": "2026-10-11T07:44:49.609Z"
  },
  "langkawi-dataran-lang\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Langkawi_Eagle_Square_-_Dataran_Lang_%2811129976185%29.jpg/1920px-Langkawi_Eagle_Square_-_Dataran_Lang_%2811129976185%29.jpg": {
   "slug": "langkawi-dataran-lang",
@@ -16403,6 +16451,12 @@
   "reason": "publish gate: Full facade view of Nymphenburg Palace, representative hero shot",
   "at": "2026-10-02T14:02:01.375Z"
  },
+ "murun-kharakhorum-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Kharakhorum_Museum.jpg/1920px-Kharakhorum_Museum.jpg": {
+  "slug": "murun-kharakhorum-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of Kharkhorum Museum building with signage visible",
+  "at": "2026-10-11T07:44:49.629Z"
+ },
  "nagoya-asian-games-2026\u0001https://upload.wikimedia.org/wikipedia/commons/0/09/Asian_Games_Hangzhou_2023_-_19.jpg": {
   "slug": "nagoya-asian-games-2026",
   "verdict": "MISMATCH",
@@ -17799,6 +17853,12 @@
   "reason": "publish gate: Canal, bridge, willows match Kurashiki Bikan Historical Quarter scenery",
   "at": "2026-10-11T00:20:02.320Z"
  },
+ "okayama-ohara-museum-of-art\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/080727_Ohara_Museum_of_Art_Kurashiki_Okayama_pref_Japan01s3.jpg/3840px-080727_Ohara_Museum_of_Art_Kurashiki_Okayama_pref_Japan01s3.jpg": {
+  "slug": "okayama-ohara-museum-of-art",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows museum's classical facade and entrance gate, representative view",
+  "at": "2026-10-11T07:44:31.575Z"
+ },
  "okayama-okayama-castle\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/%E5%B2%A1%E5%B1%B1%E5%9F%8E_Okayama_Castle_-_panoramio.jpg/3840px-%E5%B2%A1%E5%B1%B1%E5%9F%8E_Okayama_Castle_-_panoramio.jpg": {
   "slug": "okayama-okayama-castle",
   "verdict": "MATCH",
@@ -17816,6 +17876,18 @@
   "verdict": "MATCH",
   "reason": "publish gate: Exterior view of distinctive museum building in Okayama",
   "at": "2026-10-11T00:20:02.294Z"
+ },
+ "okayama-okayama-prefectural-museum-of-art\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/250505_Okayama_Prefectural_Museum_of_Art_Okayama_Japan01s3.jpg/1920px-250505_Okayama_Prefectural_Museum_of_Art_Okayama_Japan01s3.jpg": {
+  "slug": "okayama-okayama-prefectural-museum-of-art",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of museum building, representative view",
+  "at": "2026-10-11T07:44:49.393Z"
+ },
+ "okayama-sawa-no-ike-pond\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/%E6%BE%A4%E4%B9%8B%E6%B1%A0_Sawa-no-ike_Pond_-_panoramio.jpg/3840px-%E6%BE%A4%E4%B9%8B%E6%B1%A0_Sawa-no-ike_Pond_-_panoramio.jpg": {
+  "slug": "okayama-sawa-no-ike-pond",
+  "verdict": "MATCH",
+  "reason": "publish gate: Pond, garden landscape matches Japanese garden attraction view",
+  "at": "2026-10-11T07:44:49.431Z"
  },
  "okinawa-chatan-steam-seafood\u0001https://fastly.4sqi.net/img/general/original/11141029_9576yXdaVYCMS2fYlxQsix84hZbWpCYcOjV6ZOhFw1w.jpg": {
   "slug": "okinawa-chatan-steam-seafood",
@@ -25839,6 +25911,12 @@
   "verdict": "MATCH",
   "reason": "patrol replace: Trang An karst landscape with limestone cliffs, water",
   "at": "2026-10-08T15:04:58.713Z"
+ },
+ "tsetserleg-taikhar-rock\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Taikhar_chuluu.jpg/1920px-Taikhar_chuluu.jpg": {
+  "slug": "tsetserleg-taikhar-rock",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Taikhar Rock landmark with visitors, representative view",
+  "at": "2026-10-11T07:44:49.552Z"
  },
  "tsim-sha-tsui-hong-kong-palace-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Hong_Kong_Palace_Museum_2022.jpg/1920px-Hong_Kong_Palace_Museum_2022.jpg": {
   "slug": "tsim-sha-tsui-hong-kong-palace-museum",

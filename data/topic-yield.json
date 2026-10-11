@@ -6,12 +6,12 @@
    "hits": 14
   },
   "historic site": {
-   "attempts": 103,
-   "hits": 66
+   "attempts": 108,
+   "hits": 69
   },
   "park": {
-   "attempts": 120,
-   "hits": 76
+   "attempts": 122,
+   "hits": 78
   },
   "viewpoint": {
    "attempts": 67,
@@ -30,16 +30,16 @@
    "hits": 5
   },
   "museum": {
-   "attempts": 188,
-   "hits": 114
+   "attempts": 195,
+   "hits": 117
   },
   "noodles": {
    "attempts": 53,
    "hits": 1
   },
   "old quarter": {
-   "attempts": 103,
-   "hits": 50
+   "attempts": 106,
+   "hits": 51
   },
   "local market": {
    "attempts": 193,
@@ -58,8 +58,8 @@
    "hits": 72
   },
   "breakfast": {
-   "attempts": 48,
-   "hits": 4
+   "attempts": 49,
+   "hits": 5
   },
   "trendy cafe": {
    "attempts": 121,
@@ -86,11 +86,11 @@
    "hits": 0
   },
   "top attraction": {
-   "attempts": 90,
-   "hits": 65
+   "attempts": 95,
+   "hits": 68
   },
   "grill": {
-   "attempts": 38,
+   "attempts": 39,
    "hits": 0
   },
   "design shop": {
@@ -414,5 +414,5 @@
    "hits": 1
   }
  },
- "updated": "2026-10-11T02:39:15.623Z"
+ "updated": "2026-10-11T07:56:51.617Z"
 }

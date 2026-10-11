@@ -32569,5 +32569,89 @@
   "registerBreak": false,
   "worst": "다카야마 축제가 단순한 수레 행렬과 다른 점이 바로 여기에 있습니다.",
   "at": "2026-10-11T01:20:31.928Z"
+ },
+ "es/chicago-lou-mitchell-s": {
+  "hash": "d8400676d7e3",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Según los datos de afluencia, el fin de semana es cuando más se llena, y eso durante",
+  "at": "2026-10-11T07:48:45.022Z"
+ },
+ "es/coloane-village-tin-hau-temple-coloane": {
+  "hash": "674a4a493c3d",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-11T07:48:45.844Z"
+ },
+ "es/dalanzadgad-national-museum-of-mongolia": {
+  "hash": "0673e531261b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Según los datos de afluencia, los sábados y domingos hay poca gente durante toda la jornada",
+  "at": "2026-10-11T07:48:46.973Z"
+ },
+ "ja/chicago-lou-mitchell-s": {
+  "hash": "bb9fa03c2ed9",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "来店者数の計測データを見ると、週末は午前7時〜午後2時の営業中ずっと混んでいます。",
+  "at": "2026-10-11T07:48:52.463Z"
+ },
+ "ja/coloane-village-tin-hau-temple-coloane": {
+  "hash": "394b6ec3e6b8",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "中国の伝統では、一段高くなった敷居を踏むのはよくないとされているので、上に立たないでください。",
+  "at": "2026-10-11T07:48:57.842Z"
+ },
+ "ja/dalanzadgad-national-museum-of-mongolia": {
+  "hash": "b4878b03b9e7",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "混雑データでは土曜も日曜も9:00〜18:00を通して空いており、朝早くから並ぶ必要はありません。",
+  "at": "2026-10-11T07:48:59.064Z"
+ },
+ "ko/chicago-lou-mitchell-s": {
+  "hash": "6119a0069ef2",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "방문객 수를 측정한 자료를 보면 주말에는 오전 7시부터 오후 2시까지 내내 가장 붐빕니다.",
+  "at": "2026-10-11T07:49:03.058Z"
+ },
+ "ko/coloane-village-tin-hau-temple-coloane": {
+  "hash": "2eada5abe1ad",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "입구의 문턱은 넘어서 들어가세요.",
+  "at": "2026-10-11T07:49:06.885Z"
+ },
+ "ko/dalanzadgad-national-museum-of-mongolia": {
+  "hash": "63d313ba6425",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "혼잡도 자료를 보면 토요일과 일요일에는 오전 9시부터 오후 6시까지 하루 종일 한산하므로 굳이 아침 일찍 서두를 필요가 없습니다.",
+  "at": "2026-10-11T07:49:08.319Z"
+ },
+ "zh/chicago-lou-mitchell-s": {
+  "hash": "87495cdc1bae",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "如果有人沿着队伍派发免费小零食，尽管收下。",
+  "at": "2026-10-11T07:49:13.672Z"
+ },
+ "zh/coloane-village-tin-hau-temple-coloane": {
+  "hash": "12141b5b7404",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "路环是靠海为生的人一手建起来的。",
+  "at": "2026-10-11T07:49:18.278Z"
+ },
+ "zh/dalanzadgad-national-museum-of-mongolia": {
+  "hash": "a9fa8794ab17",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "据客流数据，周六、周日从上午9点到下午6点全天都很清静，用不着一大早赶去抢在人潮前面。",
+  "at": "2026-10-11T07:49:23.614Z"
  }
 }
