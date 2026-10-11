@@ -19,7 +19,11 @@ heroImage:
   focus:
     x: 55
     'y': 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/13778742_aTr6aHFD8GtZEm5ZrRnp7n3B2BAoQQCmgE8_1LpNUz8.jpg"
+    credit: "Photo: Foursquare user content (Senado Square (議事亭前地))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4bb31d70715eef3b91f185bb"
 place:
   id: ChIJhSGVke96ATQR91vVZIEul-0
   name: Senado Square

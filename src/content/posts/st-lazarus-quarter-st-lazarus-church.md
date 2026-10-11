@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/23942522_ewJoGaPiBnXuI0Z8eLkJM8lWiJg4mdDb2pMMcAQCAOc.jpg"
+    credit: "Photo: Foursquare user content (St. Lazarus' Church)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/5a449767a4b51b6378f1ff7a"
 place:
   id: "ChIJiwHU5-Z6ATQRcHWrksW2kDM"
   name: "St. Lazarus' Church"

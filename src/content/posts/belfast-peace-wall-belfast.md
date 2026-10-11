@@ -19,7 +19,11 @@ heroImage:
   focus:
     x: 30
     'y': 55
-gallery: []
+gallery:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/1/15/The_Alexandra_Park_peace_wall%2C_Belfast_-_panoramio_%282%29.jpg"
+    credit: "Photo: Keith Ruffles / Wikimedia Commons (CC BY 3.0)"
+    license: "wikimedia"
+    source: "https://commons.wikimedia.org/wiki/File:The_Alexandra_Park_peace_wall,_Belfast_-_panoramio_(2).jpg"
 place:
   id: ChIJocs3r2YIYUgRni0qXnEacAc
   name: Peace Wall Belfast

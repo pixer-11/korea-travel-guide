@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 48
     y: 35
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/1669881_KaaUdi6fn2-NsJE_ZRXKpge3FWDQc5avpY6-l-_dq_M.jpg"
+    credit: "Photo: Foursquare user content (Chelsea Garden)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/66fe8cb01786f04e0ab6dac7"
 place:
   id: "ChIJ8wH2MgBxATQRitsnwATO1f0"
   name: "Chelsea Garden"

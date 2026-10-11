@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 80
     "y": 50
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/1235005_g_MxDi1hAGFCXcQ1CnNsxao_W9nNjvdH6SyJsQDaCbw.jpg"
+    credit: "Photo: Foursquare user content (Chichu Art Museum (地中美術館))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b738fedf964a52018b42de3"
 place:
   id: ChIJ4WHu5yvuUzURCXiEZmVSozw
   name: Chichu Art Museum

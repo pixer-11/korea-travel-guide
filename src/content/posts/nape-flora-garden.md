@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 55
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/564648774_1SrBqmfFB-OcQiQrd5lEt1Cra-D4YakMmnsurIZ3e1c.jpg"
+    credit: "Photo: Foursquare user content (Jardim da Flora (二龍喉公園))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4c4d0dfa74e81b8d3eca3107"
 place:
   id: "ChIJx8q3a956ATQROm6HmKuwqwY"
   name: "Flora Garden"

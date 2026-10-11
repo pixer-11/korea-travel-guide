@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 45
     y: 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/81933423_HQOylBwYGwryWZKMBfLHy3JnjWBo5p3JmyGI6hcTchc.jpg"
+    credit: "Photo: Foursquare user content (大賽車博物館 / Museu do Grande Prémio / Grand Prix Museum)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b9b86a6f964a5200d0d36e3"
 place:
   id: "ChIJsQpyWNx6ATQRGKVNdefjq8c"
   name: "Macao Grand Prix Museum"

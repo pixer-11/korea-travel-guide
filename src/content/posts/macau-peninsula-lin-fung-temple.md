@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/1726257_mik_NFrKLf5LRpBpC21HbWhoEfx2k8KMHlB2LFWnuBE.jpg"
+    credit: "Photo: Foursquare user content (Lin Fong Temple (蓮峰廟))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4dc93a771838e695fbe3da62"
 place:
   id: "ChIJa3notBh7ATQRgU0qrHaowJk"
   name: "Lin Fung Temple"

@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/2938446_YjWGiQh5nOk2ae-MI_Cv7qPCPY4bR_LyNkFzR6Epp_Q.jpg"
+    credit: "Photo: Foursquare user content (Pak Tai Temple (北帝廟))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4dbe7f39f7b1ab37dd8db31c"
 place:
   id: "ChIJMWKRUglwATQRapFzJ6qhjtg"
   name: "Pak Tai Temple"

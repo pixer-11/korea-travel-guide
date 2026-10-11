@@ -18,7 +18,11 @@ heroImage:
   focus:
     x: 50
     'y': 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/42130096_Tgl_xTlbiI93iP8OJrWkt2Yvdx2EN4a8Pj2mqhgUPxc.jpg"
+    credit: "Photo: Foursquare user content (Leadenhall Market)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4ac518eff964a52062ad20e3"
 place:
   id: ChIJURt2jFIDdkgRsxERfqYhtSo
   name: Leadenhall Market

@@ -5,7 +5,11 @@ country: Japan
 region: Matsuyama
 category: attraction
 pubDate: "2026-10-10T14:59:57.059Z"
-gallery: []
+gallery:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Matsuyama_Central_Park_Pool.jpg/3840px-Matsuyama_Central_Park_Pool.jpg"
+    credit: "Photo: Drivephotographer / Wikimedia Commons (CC0)"
+    license: "wikimedia"
+    source: "https://commons.wikimedia.org/wiki/File:Matsuyama_Central_Park_Pool.jpg"
 place:
   id: ChIJTXNPKI_vTzURgza20MSMbww
   name: Matsuyama General Park

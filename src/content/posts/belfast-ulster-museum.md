@@ -18,7 +18,11 @@ heroImage:
   focus:
     x: 55
     'y': 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/1411462530_EiyQ3NE2OfokDcCPFJ4U9I_4Lq-Wqgd6Zo0ij9M_4qo.jpg"
+    credit: "Photo: Foursquare user content (Ulster Museum)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4bf0422df831c92849cd01f2"
 place:
   id: ChIJ2XBr8u4IYUgRp-Da33URhrM
   name: Ulster Museum

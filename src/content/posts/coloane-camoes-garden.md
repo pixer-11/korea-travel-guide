@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 50
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/73626039_aip0raVj1YhAeFlHXJOff8iwMDfTs4J7e7JkVFenBWY.jpg"
+    credit: "Photo: Foursquare user content (Camoes Square (白鴿巢公園))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4c4bf6a446240f47030c12f4"
 place:
   id: "ChIJgyjcj-R6ATQRXEFQdPH1OCQ"
   name: "Camoes Garden"

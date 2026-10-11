@@ -19,7 +19,11 @@ heroImage:
   focus:
     x: 50
     'y': 50
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/48382350_RWx9JxL9a0xE7maWXyub_KLWXaXixFpxR7JrwLrUheg.jpg"
+    credit: "Photo: Foursquare user content (Starfish & Coffee)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/5971b54a1755622947af1447"
 place:
   id: ChIJ-yjI9KKFdUgRVIlwRdYgVco
   name: Starfish & Coffee

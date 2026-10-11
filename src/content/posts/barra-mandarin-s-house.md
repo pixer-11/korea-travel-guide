@@ -17,7 +17,11 @@ heroImage:
   focus:
     x: 40
     'y': 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/1387007568_hdBsroh4hXjQzRkuilcN7dHt26J5Qr5bg_4uzKtwRys.jpg"
+    credit: "Photo: Foursquare user content (Mandarin's House (鄭家大屋))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4d6a5c19de28224b7cbf4ebe"
 place:
   id: ChIJY7hKMvJ6ATQRBme1oAsJ8-M
   name: Mandarin's House

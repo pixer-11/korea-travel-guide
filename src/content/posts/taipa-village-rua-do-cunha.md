@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/62766162_N-EQLRoZV8OMh42qcTgs8YuldcxT9uJisd7FSwR0yIA.jpg"
+    credit: "Photo: Foursquare user content (Rua do Cunha (官也街))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4db51726fc607e0aa2397833"
 place:
   id: "ChIJHX64T6xxATQRxbVykc5Tswk"
   name: "Rua do Cunha"

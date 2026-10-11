@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 60
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/81933423_QnjaKEmaswWAVAKA53oGQutWPfoXccnwLY-sQqfGWfI.jpg"
+    credit: "Photo: Foursquare user content (Na Tcha Temple (大三巴哪吒庙))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4e7d68e8dab47614f25ba575"
 place:
   id: "ChIJJU4OW-R6ATQRqdUGer9JjWg"
   name: "Na Tcha Temple"

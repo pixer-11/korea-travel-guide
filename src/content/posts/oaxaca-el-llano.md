@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 42
     y: 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/303527_2XopMJfwzHoBfsXHehFRmsM8PGzXinT3hAToGiMg294.jpg"
+    credit: "Photo: Foursquare user content (Paseo Juárez El Llano)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4bd3148aa8b3a593f4fe685f"
 place:
   id: "ChIJmU11Njoix4URDQR6GJahMOY"
   name: "El Llano"

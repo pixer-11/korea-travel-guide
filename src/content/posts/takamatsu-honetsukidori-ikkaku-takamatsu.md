@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/1408827787_nQzlhIdnILtGjIbnpr6CqCZF0AE8h7trzglHCH3ISEM.jpg"
+    credit: "Photo: Foursquare user content (Ikkaku (骨付鳥 一鶴 高松店))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4bd6dd527b1876b03c1c8d86"
 place:
   id: "ChIJe8NJvJrrUzURC3ckN2iEIYU"
   name: "Honetsukidori Ikkaku Takamatsu"

@@ -19,7 +19,11 @@ heroImage:
   focus:
     x: 50
     'y': 55
-gallery: []
+gallery:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Mercado_Lucas_de_Galvez%2C_M%C3%A9rida%2C_Yucat%C3%A1n%2C_Junio_2024.jpg/3840px-Mercado_Lucas_de_Galvez%2C_M%C3%A9rida%2C_Yucat%C3%A1n%2C_Junio_2024.jpg"
+    credit: "Photo: edenpictures / Wikimedia Commons (CC BY 2.0)"
+    license: "wikimedia"
+    source: "https://commons.wikimedia.org/wiki/File:Mercado_Lucas_de_Galvez,_M%C3%A9rida,_Yucat%C3%A1n,_Junio_2024.jpg"
 place:
   id: ChIJK7w8VWNxVo8RxcFbc4RCPCc
   name: Mercado Mérida

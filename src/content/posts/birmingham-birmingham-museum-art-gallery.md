@@ -18,7 +18,11 @@ heroImage:
   focus:
     x: 45
     'y': 40
-gallery: []
+gallery:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Birmingham_Museum_and_Art_Gallery_bridge.jpg/3840px-Birmingham_Museum_and_Art_Gallery_bridge.jpg"
+    credit: "Photo: The wub / Wikimedia Commons (CC BY-SA 4.0)"
+    license: "wikimedia"
+    source: "https://commons.wikimedia.org/wiki/File:Birmingham_Museum_and_Art_Gallery_bridge.jpg"
 place:
   id: ChIJo0dMkYy8cEgRRJR-gJ-142Y
   name: Birmingham Museum & Art Gallery

@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 50
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/8115578_DGPtAAXYb-5gLHmJK1insidvOcYXe2x42Z0naL8TpKA.jpg"
+    credit: "Photo: Foursquare user content (Taipa Central Park (氹仔中央公園))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/50ed51aae4b0114e7199c63f"
 place:
   id: "ChIJQ1PGsaB6ATQRnH27tHdtdUk"
   name: "Taipa Central Park"

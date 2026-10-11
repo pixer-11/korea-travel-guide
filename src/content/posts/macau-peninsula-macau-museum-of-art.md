@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 50
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/554534777_DWlnG2-G5v8XXZLQjBZfxrmtCPijhiIQJnIhCCOVnHU.jpg"
+    credit: "Photo: Foursquare user content (Macao Museum of Art 澳門藝術博物館)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4d257abd002f5481b749a1f3"
 place:
   id: "ChIJ_7H0gMR6ATQRhmPltTeeQeQ"
   name: "Macau Museum of Art"

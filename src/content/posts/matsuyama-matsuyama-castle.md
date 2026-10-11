@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 65
     "y": 35
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/142343203_1C-NYH15AWaToTZKz_7LIZCunpDHQQYGbS0sRSST8l8.jpg"
+    credit: "Photo: Foursquare user content (Matsuyama Castle (松山城))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b68f42ff964a520b5942be3"
 place:
   id: ChIJG4z5T-vlTzURgnujh60lGEo
   name: Matsuyama Castle

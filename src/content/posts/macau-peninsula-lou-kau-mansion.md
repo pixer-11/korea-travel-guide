@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/40186998_y14F_N1g99l2pURxuTGQtM2dfyL_Rew8ZCLxSPc6vzo.jpg"
+    credit: "Photo: Foursquare user content (Lou Kau Mansion (盧家大屋))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4d5269639ffc236a9ebb2ca7"
 place:
   id: "ChIJeTvgi-V6ATQRorIsb8cNCGg"
   name: "Lou Kau Mansion"

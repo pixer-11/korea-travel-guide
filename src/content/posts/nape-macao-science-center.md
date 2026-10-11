@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 55
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/554534777_g86UT9rFEKPzJqYKu04zo5dCREq_tKx0QYTKez7plOs.jpg"
+    credit: "Photo: Foursquare user content (Macao Science Center 澳門科學館 (澳門科學館))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4c5d06476ebe2d7f9fe6d12e"
 place:
   id: "ChIJ2RqAJsR6ATQRuUkpNAQLTo8"
   name: "Macao Science Center"

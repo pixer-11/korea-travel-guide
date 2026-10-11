@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 35
-gallery: []
+gallery:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/20260716_Templo_de_Kun_Iam.jpg/3840px-20260716_Templo_de_Kun_Iam.jpg"
+    credit: "Photo: Yumeto / Wikimedia Commons (CC BY-SA 4.0)"
+    license: "wikimedia"
+    source: "https://commons.wikimedia.org/wiki/File:20260716_Templo_de_Kun_Iam.jpg"
 place:
   id: "ChIJhaahDSB7ATQRNWDzzw5ulC4"
   name: "Templo de Kun Iam"

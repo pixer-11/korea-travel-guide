@@ -19,7 +19,11 @@ heroImage:
   focus:
     x: 50
     'y': 50
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/71286609_flvqceoOvjUT9UoTaGx7dcIJ65KJ_PdVeVKe-_n-CKE.jpg"
+    credit: "Photo: Foursquare user content (Lilau Square (亞婆井前地))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4ed3168299114b488b41d340"
 place:
   id: ChIJt8CWOvJ6ATQR4ktOptblOSA
   name: Lilau Square
