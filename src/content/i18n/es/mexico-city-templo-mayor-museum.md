@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: mexico-city-templo-mayor-museum
-srcHash: '58972298223a'
+srcHash: '8961785311f8'
 title: 'Museo del Templo Mayor: guía de viaje de Ciudad de México (4.8★)'
-description: 'En la calle Seminario, en pleno Centro Histórico de Ciudad de México y a un paso del Zócalo y de la Catedral Metropolitana, el Museo del Templo Mayor reúne en una sola visita las ruinas excavadas del gran templo mexica y el museo que custodia sus hallazgos. 4.8★ (35,096 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En la calle Seminario, en pleno Centro Histórico de Ciudad de México y a un paso del Zócalo y de la Catedral Metropolitana, el Museo del Templo Mayor reúne en una sola visita las ruinas excavadas del gran templo mexica y el museo que custodia sus hallazgos. 4.8★ (35,119 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En la calle Seminario, en pleno Centro Histórico de Ciudad de México y a un paso del Zócalo y de la Catedral Metropolitana, el Museo del Templo Mayor reúne en una sola visita las ruinas excavadas del gran templo mexica y el museo que custodia sus hallazgos. Abre de martes a domingo, de 9am a 5pm, y cierra los lunes. Entre semana, de 9am a 10am, es cuando hay más calma; los fines de semana conviene evitar la franja de 11am a 5pm.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Museo del Templo Mayor?

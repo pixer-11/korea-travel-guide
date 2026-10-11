@@ -1,58 +1,83 @@
 ---
-title: "Paseo Santa Lucía: Monterrey Travel Guide (4.8★)"
-description: "Paseo Santa Lucía is a 2.5 km man-made river walk in Centro, Monterrey, running from the Macroplaza museums east to Parque Fundidora. 4.8★ (1,099 reviews) — what visitors say, hours, and tips."
-country: "Mexico"
-region: "Monterrey"
-category: "hidden-gem"
-pubDate: "2026-10-04T13:27:48.697Z"
+title: 'Paseo Santa Lucía: Monterrey Travel Guide (4.8★)'
+description: >-
+  Paseo Santa Lucía is a 2.5 km man-made river walk in Centro, Monterrey,
+  running from the Macroplaza museums east to Parque Fundidora. 4.8★ (1,106
+  reviews) — what visitors say, hours, and tips.
+country: Mexico
+region: Monterrey
+category: hidden-gem
+pubDate: '2026-10-04T13:27:48.697Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Monterrey_HDR.jpg/1920px-Monterrey_HDR.jpg"
-  credit: "Photo: Rick González / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Monterrey_HDR.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Monterrey_HDR.jpg/1920px-Monterrey_HDR.jpg
+  credit: 'Photo: Rick González / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Monterrey_HDR.jpg'
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/e/e8/Paseo_Santa_Luc%C3%ADa_-_Santa_Luc%C3%ADa_Riverwalk.jpg"
-    credit: "Photo: México en Fotos, A.C. / Wikimedia Commons (CC BY-SA 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Paseo_Santa_Luc%C3%ADa_-_Santa_Luc%C3%ADa_Riverwalk.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/e/e8/Paseo_Santa_Luc%C3%ADa_-_Santa_Luc%C3%ADa_Riverwalk.jpg
+    credit: 'Photo: México en Fotos, A.C. / Wikimedia Commons (CC BY-SA 2.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Paseo_Santa_Luc%C3%ADa_-_Santa_Luc%C3%ADa_Riverwalk.jpg
 place:
-  id: "ChIJvaGztvy_YoYR_kQUKTQuLAw"
-  name: "Paseo Santa Lucía"
-  address: "C. Diego de Montemayor 543-539, Centro, 64000 Monterrey, N.L., Mexico"
+  id: ChIJvaGztvy_YoYR_kQUKTQuLAw
+  name: Paseo Santa Lucía
+  address: 'C. Diego de Montemayor 543-539, Centro, 64000 Monterrey, N.L., Mexico'
   rating: 4.8
-  userRatingsTotal: 1099
-  googleMapsUrl: "https://maps.google.com/?cid=877126828992775422&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1106
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=877126828992775422&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 25.6709747
   lng: -100.3061182
   openingHours:
-    - "Monday: 10:00 AM – 9:00 PM"
-    - "Tuesday: 10:00 AM – 9:00 PM"
-    - "Wednesday: 10:00 AM – 9:00 PM"
-    - "Thursday: 10:00 AM – 9:00 PM"
-    - "Friday: 10:00 AM – 9:00 PM"
-    - "Saturday: 10:00 AM – 9:00 PM"
-    - "Sunday: 10:00 AM – 9:00 PM"
+    - 'Monday: 10:00 AM – 9:00 PM'
+    - 'Tuesday: 10:00 AM – 9:00 PM'
+    - 'Wednesday: 10:00 AM – 9:00 PM'
+    - 'Thursday: 10:00 AM – 9:00 PM'
+    - 'Friday: 10:00 AM – 9:00 PM'
+    - 'Saturday: 10:00 AM – 9:00 PM'
+    - 'Sunday: 10:00 AM – 9:00 PM'
 tags:
-  - "monterrey"
-  - "hidden gem"
-quickAnswer: "Paseo Santa Lucía is a 2.5 km man-made river walk in Centro, Monterrey, running from the Macroplaza museums east to Parque Fundidora. Go late afternoon to walk or take the boat. Daily hours are 10am to 9pm, and evening light under the bridges with Cerro de la Silla on the skyline is the best part."
+  - monterrey
+  - hidden gem
+quickAnswer: >-
+  Paseo Santa Lucía is a 2.5 km man-made river walk in Centro, Monterrey,
+  running from the Macroplaza museums east to Parque Fundidora. Go late
+  afternoon to walk or take the boat. Daily hours are 10am to 9pm, and evening
+  light under the bridges with Cerro de la Silla on the skyline is the best
+  part.
 faq:
-  - q: "Where does Paseo Santa Lucía start and end?"
-    a: "The western end is on Calle Diego de Montemayor in Centro, behind the Museo de Historia Mexicana at the Macroplaza. The eastern end is at Parque Fundidora, near Horno 3. The canal is roughly 2.5 km long."
-  - q: "How do I get there by metro?"
-    a: "For the western end, take Line 2 to Zaragoza station and walk east across the Macroplaza to the museums. For the eastern end, Line 1's Parque Fundidora station is the closest stop."
-  - q: "What are the opening hours?"
-    a: "10am to 9pm every day, Monday through Sunday, with no shorter days listed."
-  - q: "How long should I spend there?"
-    a: "Walking the full length takes about 40 minutes to an hour. Plan two to three hours if you're adding the boat, a museum at the Macroplaza or time in Parque Fundidora."
-  - q: "What is the best time of year to visit?"
-    a: "November to February is the most comfortable time for walking. In the hot months, roughly May to September, start in the late afternoon or take the boat instead of walking."
+  - q: Where does Paseo Santa Lucía start and end?
+    a: >-
+      The western end is on Calle Diego de Montemayor in Centro, behind the
+      Museo de Historia Mexicana at the Macroplaza. The eastern end is at Parque
+      Fundidora, near Horno 3. The canal is roughly 2.5 km long.
+  - q: How do I get there by metro?
+    a: >-
+      For the western end, take Line 2 to Zaragoza station and walk east across
+      the Macroplaza to the museums. For the eastern end, Line 1's Parque
+      Fundidora station is the closest stop.
+  - q: What are the opening hours?
+    a: '10am to 9pm every day, Monday through Sunday, with no shorter days listed.'
+  - q: How long should I spend there?
+    a: >-
+      Walking the full length takes about 40 minutes to an hour. Plan two to
+      three hours if you're adding the boat, a museum at the Macroplaza or time
+      in Parque Fundidora.
+  - q: What is the best time of year to visit?
+    a: >-
+      November to February is the most comfortable time for walking. In the hot
+      months, roughly May to September, start in the late afternoon or take the
+      boat instead of walking.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-11'
 ---
 
 ## A river built on a founding spring

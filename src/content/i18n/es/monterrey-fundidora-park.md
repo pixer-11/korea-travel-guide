@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: monterrey-fundidora-park
-srcHash: '9d9870baf18d'
+srcHash: 'c7f145a4c486'
 title: 'Parque Fundidora: guía de viaje por Monterrey (4.8★)'
-description: En los terrenos de la antigua fundidora de acero de Monterrey, en la colonia Obrera, se extiende el Parque Fundidora, un gran parque público que abre todos los días de 6:00 AM a 10:00 PM. Con 4.8★ (146,071 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y algunos consejos.
+description: En los terrenos de la antigua fundidora de acero de Monterrey, en la colonia Obrera, se extiende el Parque Fundidora, un gran parque público que abre todos los días de 6:00 AM a 10:00 PM. Con 4.8★ (146,150 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y algunos consejos.
 quickAnswer: En los terrenos de la antigua fundidora de acero de Monterrey, en la colonia Obrera, se extiende el Parque Fundidora, un gran parque público que abre todos los días de 6:00 AM a 10:00 PM. Conviene reservarle al menos media jornada para recorrer los senderos entre los hornos conservados y subir a Horno3, desde donde se contempla el Cerro de la Silla. Puede llegar a pie por el Paseo Santa Lucía o en la Línea 1 del Metro, hasta la estación Parque Fundidora.
 faq:
   - q: ¿Cuál es el horario del Parque Fundidora?

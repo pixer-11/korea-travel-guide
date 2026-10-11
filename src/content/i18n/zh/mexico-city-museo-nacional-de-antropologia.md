@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: mexico-city-museo-nacional-de-antropologia
-srcHash: '1071d411bccf'
+srcHash: '41b9ec8a19e4'
 title: 墨西哥国家人类学博物馆：墨西哥城旅行指南
-description: 墨西哥国家人类学博物馆（Museo Nacional de Antropología）坐落在墨西哥城查普尔特佩克森林公园内，紧邻改革大道，与波兰科区隔路相望。评分4.8★（92,348条评价）。本文汇总游客评价、开放时间与参观建议。
+description: 墨西哥国家人类学博物馆（Museo Nacional de Antropología）坐落在墨西哥城查普尔特佩克森林公园内，紧邻改革大道，与波兰科区隔路相望。评分4.8★（92,473条评价）。本文汇总游客评价、开放时间与参观建议。
 quickAnswer: 墨西哥国家人类学博物馆（Museo Nacional de Antropología）坐落在墨西哥城查普尔特佩克森林公园（Bosque de Chapultepec）内，紧邻改革大道（Paseo de la Reforma），北边就是波兰科区（Polanco）。墨西哥最重要的前西班牙时期艺术珍品都收藏在这里，阿兹特克太阳石和奥尔梅克巨石头像都在其中。博物馆周二至周日9:00—17:00开放，周一闭馆。周末10:00—17:00人满为患，最好工作日前往，或者9:00开门时就到。
 faq:
   - q: 什么时候去墨西哥国家人类学博物馆人最少？

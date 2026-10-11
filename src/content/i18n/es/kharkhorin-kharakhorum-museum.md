@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: kharkhorin-kharakhorum-museum
-srcHash: 'db1a9aeaa035'
+srcHash: 'a11e192d9771'
 title: 'Museo de Karakórum: guía de viaje de Kharkhorin (4.5★)'
-description: En Kharkhorin, provincia de Övörkhangai, este pequeño y moderno museo permite imaginar cómo era en el siglo XIII la capital del Imperio mongol gracias a los hallazgos de las excavaciones y a una gran maqueta de la ciudad amurallada. Con una valoración de 4.5★ (740 reseñas), aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
+description: En Kharkhorin, provincia de Övörkhangai, este pequeño y moderno museo permite imaginar cómo era en el siglo XIII la capital del Imperio mongol gracias a los hallazgos de las excavaciones y a una gran maqueta de la ciudad amurallada. Con una valoración de 4.5★ (741 reseñas), aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
 quickAnswer: En Kharkhorin, provincia de Övörkhangai, el Museo de Karakórum es un espacio moderno y de dimensiones reducidas que permite imaginar cómo era en el siglo XIII la capital del Imperio mongol. Para ello se vale de los objetos hallados en las excavaciones y de una gran maqueta de la ciudad amurallada. Conviene reservarle entre 1 y 1,5 horas y completar la visita con el cercano monasterio de Erdene Zuu. Actualmente abre todos los días de 9am a 6pm, aunque el horario varía a lo largo del año, por lo que es aconsejable comprobarlo antes de salir.
 faq:
   - q: ¿Cuánto tiempo hace falta para visitar el Museo de Karakórum?

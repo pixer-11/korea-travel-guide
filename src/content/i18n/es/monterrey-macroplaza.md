@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: monterrey-macroplaza
-srcHash: '0093cfc10a46'
+srcHash: 'df71603dc3fb'
 title: 'Macroplaza: guía de viaje de Monterrey (4.7★)'
-description: En el Centro de Monterrey, la Macroplaza es una enorme plaza pública que se extiende desde el Palacio de Gobierno hasta el MARCO. Con 4.7★ (91,218 reseñas), aquí encontrará la opinión de los visitantes, los horarios y algunos consejos.
+description: En el Centro de Monterrey, la Macroplaza es una enorme plaza pública que se extiende desde el Palacio de Gobierno hasta el MARCO. Con 4.7★ (91,260 reseñas), aquí encontrará la opinión de los visitantes, los horarios y algunos consejos.
 quickAnswer: En el Centro de Monterrey, la Macroplaza es una enorme plaza pública que se extiende desde el Palacio de Gobierno hasta el MARCO. Permanece abierta las 24 horas y las estaciones más cercanas son Zaragoza y Padre Mier, de la Línea 2 del Metro. Para librarse del calor más intenso, conviene recorrerla temprano por la mañana o ya de noche. Después vale la pena quedarse a contemplar el láser del Faro del Comercio sobre la ciudad.
 faq:
   - q: ¿Cómo se llega a la Macroplaza en transporte público?

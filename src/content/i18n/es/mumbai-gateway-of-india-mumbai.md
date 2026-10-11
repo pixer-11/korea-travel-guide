@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: mumbai-gateway-of-india-mumbai
-srcHash: 'dcfda992fca5'
+srcHash: '14d4d970c31f'
 title: 'Puerta de la India: guía de viaje de Bombay (4.6★)'
-description: 'Frente al hotel Taj Mahal Palace, en el paseo marítimo de Apollo Bandar, se alza la Puerta de la India (Gateway of India), en el barrio de Colaba, al sur de Bombay. 4.6★ (388,235 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'Frente al hotel Taj Mahal Palace, en el paseo marítimo de Apollo Bandar, se alza la Puerta de la India (Gateway of India), en el barrio de Colaba, al sur de Bombay. 4.6★ (388,817 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Frente al hotel Taj Mahal Palace, en el paseo marítimo de Apollo Bandar, se alza la Puerta de la India (Gateway of India), en el barrio de Colaba, al sur de Bombay. Es uno de los monumentos más visitados del país. Conviene llegar a primera hora o viajar en los meses frescos, de octubre a febrero. Para ver el arco bastan entre 45 minutos y una hora. Si piensa tomar el ferri a las cuevas de Elefanta desde los embarcaderos contiguos, reserve media jornada.
 faq:
   - q: ¿Cómo se llega a la Puerta de la India?

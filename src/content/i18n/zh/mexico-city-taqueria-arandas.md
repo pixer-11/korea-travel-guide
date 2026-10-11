@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: mexico-city-taqueria-arandas
-srcHash: '719ebdf0f836'
+srcHash: '70f591638f14'
 title: 阿兰达斯塔可店（Taqueria Arandas）：墨西哥城觅食好去处（4.2★）
-description: 阿兰达斯塔可店位于墨西哥城历史中心区的Av. 5 de Mayo 46，离宪法广场只有几个街区，每天24小时营业。评分4.2★（11,599条评价），食客评价、营业时间和实用贴士都在这里。
+description: 阿兰达斯塔可店位于墨西哥城历史中心区的Av. 5 de Mayo 46，离宪法广场只有几个街区，每天24小时营业。评分4.2★（11,604条评价），食客评价、营业时间和实用贴士都在这里。
 quickAnswer: 阿兰达斯塔可店（Taqueria Arandas）地处墨西哥城历史中心区（Centro Histórico），地址是Av. 5 de Mayo 46，步行几个街区就到宪法广场（Zócalo），每天24小时营业。想少排队，不论哪天，7am至10am之间去最合适。周末12pm至11pm是客流高峰，最好错开。
 faq:
   - q: 什么时候去阿兰达斯塔可店人最少？

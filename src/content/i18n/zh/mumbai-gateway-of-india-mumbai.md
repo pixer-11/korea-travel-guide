@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: mumbai-gateway-of-india-mumbai
-srcHash: 'dcfda992fca5'
+srcHash: '14d4d970c31f'
 title: 印度门：孟买旅行指南（4.6★）
-description: 印度门坐落在孟买南部科拉巴（Colaba）的阿波罗码头（Apollo Bandar）海滨，与泰姬玛哈酒店隔路相望。评分4.6★（388,235条评价），这里汇总了游客评价、开放时间和实用贴士。
+description: 印度门坐落在孟买南部科拉巴（Colaba）的阿波罗码头（Apollo Bandar）海滨，与泰姬玛哈酒店隔路相望。评分4.6★（388,817条评价），这里汇总了游客评价、开放时间和实用贴士。
 quickAnswer: 印度门坐落在孟买南部科拉巴（Colaba）的阿波罗码头（Apollo Bandar）海滨，正对泰姬玛哈酒店。它是全印度游客最多的地标之一，最好一早前往，或者挑10月至次年2月的凉爽季节去。单看这座拱门，留出45分钟到1小时就够了。如果还打算从旁边的码头坐船去象岛石窟，就得预留半天。
 faq:
   - q: 怎么去印度门？

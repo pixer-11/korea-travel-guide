@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: mexico-city-palacio-de-bellas-artes
-srcHash: '31627e67589f'
+srcHash: '1ea23b7ae464'
 title: 墨西哥城美术宫旅行指南（4.8★）
-description: 墨西哥城美术宫（Palacio de Bellas Artes）坐落在历史中心区阿拉梅达中央公园的东端，评分4.8★（195,778条评价）。本文汇总游客评价、开放时间与参观建议。
+description: 墨西哥城美术宫（Palacio de Bellas Artes）坐落在历史中心区阿拉梅达中央公园的东端，评分4.8★（195,914条评价）。本文汇总游客评价、开放时间与参观建议。
 quickAnswer: 墨西哥城美术宫（Palacio de Bellas Artes）位于历史中心区（Centro Histórico）阿拉梅达中央公园（Alameda Central）的东端，馆内藏有迭戈·里维拉、奥罗斯科和西凯罗斯的壁画。从地铁Bellas Artes站（2号线、8号线）出来，步行片刻即到。美术宫每天上午11点至下午6点开放，周日提前到上午8点开门。建议工作日上午11点至下午1点前往，或在周日上午8点至11点之间参观；周末下午1点至6点人最多，最好避开。
 faq:
   - q: 什么时候去美术宫人最少？

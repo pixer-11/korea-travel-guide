@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: chicago-lou-mitchell-s
-srcHash: 'dd9f368f67ab'
+srcHash: '635ceace95cb'
 title: 'Lou Mitchell''s: dónde comer en Chicago (4.6★)'
-description: En el 565 W Jackson Blvd, en el West Loop de Chicago y a pocos pasos de Union Station, Lou Mitchell's sirve desayunos y almuerzos desde 1923. Tiene una valoración de 4.6★ (4,989 reseñas). Aquí encontrará la opinión de los visitantes, los horarios y algunos consejos.
+description: En el 565 W Jackson Blvd, en el West Loop de Chicago y a pocos pasos de Union Station, Lou Mitchell's sirve desayunos y almuerzos desde 1923. Tiene una valoración de 4.6★ (4,991 reseñas). Aquí encontrará la opinión de los visitantes, los horarios y algunos consejos.
 quickAnswer: En el 565 W Jackson Blvd, en pleno West Loop de Chicago y a un corto paseo de Union Station, se encuentra Lou Mitchell's, un clásico *diner* que sirve desayunos y almuerzos desde 1923. Actualmente solo abre de miércoles a domingo. Entre semana empieza a servir a las 6am y el fin de semana a las 7am, y todos los días cierra a las 2pm. Los sábados y domingos hay mucha gente durante toda la franja de 7am–2pm, así que lo más sensato es ir una mañana de miércoles a viernes.
 faq:
   - q: ¿Cuándo hay menos gente en Lou Mitchell's?

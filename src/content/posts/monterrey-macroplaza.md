@@ -1,58 +1,87 @@
 ---
-title: "Macroplaza: Monterrey Travel Guide (4.7★)"
-description: "Macroplaza in Centro, Monterrey is a huge public square that runs from the Palacio de Gobierno down to MARCO. 4.7★ (91,218 reviews) — what visitors say, hours, and tips."
-country: "Mexico"
-region: "Monterrey"
-category: "attraction"
-pubDate: "2026-10-06T14:22:32.300Z"
+title: 'Macroplaza: Monterrey Travel Guide (4.7★)'
+description: >-
+  Macroplaza in Centro, Monterrey is a huge public square that runs from the
+  Palacio de Gobierno down to MARCO. 4.7★ (91,260 reviews) — what visitors say,
+  hours, and tips.
+country: Mexico
+region: Monterrey
+category: attraction
+pubDate: '2026-10-06T14:22:32.300Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Macroplaza_de_Monterrey_y_alrededores_-_6.jpg/1920px-Macroplaza_de_Monterrey_y_alrededores_-_6.jpg"
-  credit: "Photo: ProtoplasmaKid / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Macroplaza_de_Monterrey_y_alrededores_-_6.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Macroplaza_de_Monterrey_y_alrededores_-_6.jpg/1920px-Macroplaza_de_Monterrey_y_alrededores_-_6.jpg
+  credit: 'Photo: ProtoplasmaKid / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Macroplaza_de_Monterrey_y_alrededores_-_6.jpg
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/4/4d/Macroplaza_Monterrey_2022_-_7.jpg"
-    credit: "Photo: ProtoplasmaKid / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Macroplaza_Monterrey_2022_-_7.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/4/4d/Macroplaza_Monterrey_2022_-_7.jpg
+    credit: 'Photo: ProtoplasmaKid / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Macroplaza_Monterrey_2022_-_7.jpg'
 place:
-  id: "ChIJBffI7yu-YoYRIle_B5Sdf9U"
-  name: "Macroplaza"
-  address: "Centro, 64000 Monterrey, N.L., Mexico"
+  id: ChIJBffI7yu-YoYRIle_B5Sdf9U
+  name: Macroplaza
+  address: 'Centro, 64000 Monterrey, N.L., Mexico'
   rating: 4.7
-  userRatingsTotal: 91218
-  googleMapsUrl: "https://maps.google.com/?cid=15384188111231604514&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 91260
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15384188111231604514&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 25.6692292
   lng: -100.30991929999999
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "monterrey"
-  - "historic site"
-quickAnswer: "Macroplaza in Centro, Monterrey is a huge public square that runs from the Palacio de Gobierno down to MARCO. It's open 24 hours, and the nearest stops are Zaragoza and Padre Mier on Metro Line 2. Walk it early in the morning or after dark to avoid the worst of the heat, then stay to see the Faro del Comercio's laser over the city."
+  - monterrey
+  - historic site
+quickAnswer: >-
+  Macroplaza in Centro, Monterrey is a huge public square that runs from the
+  Palacio de Gobierno down to MARCO. It's open 24 hours, and the nearest stops
+  are Zaragoza and Padre Mier on Metro Line 2. Walk it early in the morning or
+  after dark to avoid the worst of the heat, then stay to see the Faro del
+  Comercio's laser over the city.
 faq:
-  - q: "How do I get to Macroplaza by public transport?"
-    a: "Take Metro Line 2. Zaragoza station is at the southern end of the plaza, near the Palacio Municipal and MARCO. Padre Mier station is closer to the middle section."
-  - q: "Is Macroplaza open at night?"
-    a: "Yes, the plaza is open 24 hours every day. Evening is a good time to go, because the Faro del Comercio's green laser sweeps over the city and the cathedral facade is lit up."
-  - q: "How long should I spend at Macroplaza?"
-    a: "Allow about an hour to walk from the Palacio de Gobierno to MARCO with photo stops. Add an hour or two for each museum, and more if you continue along the Paseo Santa Lucía."
-  - q: "What is the best time of year to visit?"
-    a: "October to April is the most comfortable time for walking. In summer, Monterrey's heat makes midday on the open paving tough, so go in the early morning or after sunset."
-  - q: "What's nearby?"
-    a: "MARCO, the Museo Metropolitano, the Museo de Historia Mexicana and the Museo del Noreste are all on or next to the plaza. The Paseo Santa Lucía riverwalk starts on the east side, and Barrio Antiguo's cafés and bars are just south-east of the cathedral."
+  - q: How do I get to Macroplaza by public transport?
+    a: >-
+      Take Metro Line 2. Zaragoza station is at the southern end of the plaza,
+      near the Palacio Municipal and MARCO. Padre Mier station is closer to the
+      middle section.
+  - q: Is Macroplaza open at night?
+    a: >-
+      Yes, the plaza is open 24 hours every day. Evening is a good time to go,
+      because the Faro del Comercio's green laser sweeps over the city and the
+      cathedral facade is lit up.
+  - q: How long should I spend at Macroplaza?
+    a: >-
+      Allow about an hour to walk from the Palacio de Gobierno to MARCO with
+      photo stops. Add an hour or two for each museum, and more if you continue
+      along the Paseo Santa Lucía.
+  - q: What is the best time of year to visit?
+    a: >-
+      October to April is the most comfortable time for walking. In summer,
+      Monterrey's heat makes midday on the open paving tough, so go in the early
+      morning or after sunset.
+  - q: What's nearby?
+    a: >-
+      MARCO, the Museo Metropolitano, the Museo de Historia Mexicana and the
+      Museo del Noreste are all on or next to the plaza. The Paseo Santa Lucía
+      riverwalk starts on the east side, and Barrio Antiguo's cafés and bars are
+      just south-east of the cathedral.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-11'
 ---
 
 ## A Square Measured in Blocks

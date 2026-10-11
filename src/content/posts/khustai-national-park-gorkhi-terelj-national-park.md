@@ -1,62 +1,90 @@
 ---
-title: "Gorkhi Terelj National Park: Khustai National Park Travel Guide"
-description: "Gorkhi Terelj National Park sits in the granite hills northeast of Ulaanbaatar. 4.6★ (2,320 reviews) — what visitors say, hours, and tips."
-country: "Mongolia"
-region: "Khustai National Park"
-category: "hidden-gem"
-pubDate: "2026-10-11T14:24:51.658Z"
+title: 'Gorkhi Terelj National Park: Khustai National Park Travel Guide'
+description: >-
+  Gorkhi Terelj National Park sits in the granite hills northeast of
+  Ulaanbaatar. 4.6★ (2,321 reviews) — what visitors say, hours, and tips.
+country: Mongolia
+region: Khustai National Park
+category: hidden-gem
+pubDate: '2026-10-11T14:24:51.658Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Gorkhi-Terelj_National_Parkl%2C_2011_%2825%29.jpg/3840px-Gorkhi-Terelj_National_Parkl%2C_2011_%2825%29.jpg"
-  credit: "Photo: Pierre André Leclercq / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Gorkhi-Terelj_National_Parkl,_2011_(25).jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Gorkhi-Terelj_National_Parkl%2C_2011_%2825%29.jpg/3840px-Gorkhi-Terelj_National_Parkl%2C_2011_%2825%29.jpg
+  credit: 'Photo: Pierre André Leclercq / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Gorkhi-Terelj_National_Parkl,_2011_(25).jpg
+  via: act
   focus:
     x: 55
-    y: 55
+    'y': 55
 gallery: []
 place:
-  id: "ChIJacyvxKjIlV0RK_2DJbZnlUc"
-  name: "Gorkhi Terelj National Park"
-  address: "Энхтайвны Өргөн Чөлөө 206, Улаанбаатар, Mongolia"
+  id: ChIJacyvxKjIlV0RK_2DJbZnlUc
+  name: Gorkhi Terelj National Park
+  address: 'Энхтайвны Өргөн Чөлөө 206, Улаанбаатар, Mongolia'
   rating: 4.6
-  userRatingsTotal: 2320
-  googleMapsUrl: "https://maps.google.com/?cid=5158142980233887019&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2321
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5158142980233887019&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 48.1660429
   lng: 107.73594849999999
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Closed"
-    - "Sunday: Closed"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Closed'
+    - 'Sunday: Closed'
   busyness:
-    updated: 2026-10-11
+    updated: 2026-10-11T00:00:00.000Z
     weekdayBusy:
       - 7
       - 15
       - 21
-    venueId: "ven_63556c6e5a624a44325f4b5230566c496a4b78767963614a496843"
+    venueId: ven_63556c6e5a624a44325f4b5230566c496a4b78767963614a496843
 tags:
-  - "khustai national park"
-  - "hidden gem"
-quickAnswer: "Gorkhi Terelj National Park sits in the granite hills northeast of Ulaanbaatar. It is a different place from Khustai National Park, which lies west of the city and is where you go to see wild takhi horses. Pick a weekday for Terelj, because its Google listing currently shows it closed on Saturdays and Sundays, and check the official channels before you leave."
+  - khustai national park
+  - hidden gem
+quickAnswer: >-
+  Gorkhi Terelj National Park sits in the granite hills northeast of
+  Ulaanbaatar. It is a different place from Khustai National Park, which lies
+  west of the city and is where you go to see wild takhi horses. Pick a weekday
+  for Terelj, because its Google listing currently shows it closed on Saturdays
+  and Sundays, and check the official channels before you leave.
 faq:
-  - q: "Are Gorkhi Terelj and Khustai the same national park?"
-    a: "No. Gorkhi-Terelj is northeast of Ulaanbaatar and is known for its granite rocks, larch forest and the Tuul River. Khustai Nuruu is roughly 100 km west of the city and is known for its reintroduced Przewalski's horses (takhi)."
-  - q: "How do I get to Gorkhi Terelj from Ulaanbaatar?"
-    a: "Most visitors go with a hired driver, a guesthouse tour or a ger camp transfer. The park is roughly 50–70 km away, and city traffic usually makes the drive take longer than the distance suggests. Public transport is limited, so book your return before you set off."
-  - q: "Which days can I visit?"
-    a: "Its Google listing currently shows it open 24 hours Monday to Friday and closed on Saturday and Sunday. Park hours change with the season, so check the official information before you go."
-  - q: "How long should I spend in Terelj?"
-    a: "You can see Turtle Rock and Aryabal Meditation Temple on a day trip. One or two nights in a ger camp gives you time for horse riding and quiet mornings by the river."
-  - q: "What is worth seeing nearby?"
-    a: "The Chinggis Khaan Equestrian Statue at Tsonjin Boldog makes an easy stop on the road between the city and the park. Khustai National Park, home of the takhi, is a separate overnight trip west of Ulaanbaatar."
+  - q: Are Gorkhi Terelj and Khustai the same national park?
+    a: >-
+      No. Gorkhi-Terelj is northeast of Ulaanbaatar and is known for its granite
+      rocks, larch forest and the Tuul River. Khustai Nuruu is roughly 100 km
+      west of the city and is known for its reintroduced Przewalski's horses
+      (takhi).
+  - q: How do I get to Gorkhi Terelj from Ulaanbaatar?
+    a: >-
+      Most visitors go with a hired driver, a guesthouse tour or a ger camp
+      transfer. The park is roughly 50–70 km away, and city traffic usually
+      makes the drive take longer than the distance suggests. Public transport
+      is limited, so book your return before you set off.
+  - q: Which days can I visit?
+    a: >-
+      Its Google listing currently shows it open 24 hours Monday to Friday and
+      closed on Saturday and Sunday. Park hours change with the season, so check
+      the official information before you go.
+  - q: How long should I spend in Terelj?
+    a: >-
+      You can see Turtle Rock and Aryabal Meditation Temple on a day trip. One
+      or two nights in a ger camp gives you time for horse riding and quiet
+      mornings by the river.
+  - q: What is worth seeing nearby?
+    a: >-
+      The Chinggis Khaan Equestrian Statue at Tsonjin Boldog makes an easy stop
+      on the road between the city and the park. Khustai National Park, home of
+      the takhi, is a separate overnight trip west of Ulaanbaatar.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-11'
 ---
 
 ## Two parks, opposite sides of the city

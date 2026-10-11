@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: mexico-city-palacio-de-bellas-artes
-srcHash: '31627e67589f'
+srcHash: '1ea23b7ae464'
 title: 'Palacio de Bellas Artes: guía de viaje de Ciudad de México (4.8★)'
-description: En el extremo oriente de la Alameda Central, en pleno Centro Histórico de Ciudad de México, se alza el Palacio de Bellas Artes. Con 4.8★ (195,778 reseñas), aquí encontrará la opinión de los visitantes, los horarios y consejos útiles.
+description: En el extremo oriente de la Alameda Central, en pleno Centro Histórico de Ciudad de México, se alza el Palacio de Bellas Artes. Con 4.8★ (195,914 reseñas), aquí encontrará la opinión de los visitantes, los horarios y consejos útiles.
 quickAnswer: En el extremo oriente de la Alameda Central, en pleno Centro Histórico de Ciudad de México, se alza el Palacio de Bellas Artes. Sus muros guardan murales de Diego Rivera, Orozco y Siqueiros, y la estación Bellas Artes del Metro (Líneas 2 y 8) queda a pocos pasos. Abre todos los días de 11:00 a 18:00, aunque los domingos lo hace desde las 8:00. Conviene ir entre semana de 11:00 a 13:00 o el domingo de 8:00 a 11:00. Es mejor evitar las tardes del fin de semana, de 13:00 a 18:00.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Palacio de Bellas Artes?

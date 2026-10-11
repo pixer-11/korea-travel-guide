@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: monterrey-paseo-santa-lucia
-srcHash: '0474cbd54197'
+srcHash: 'c9708fca4e56'
 title: 'Paseo Santa Lucía: guía de viaje de Monterrey (4.8★)'
-description: 'En el Centro de Monterrey, el Paseo Santa Lucía es un río artificial de 2.5 km que une los museos de la Macroplaza con el Parque Fundidora, al oriente. Tiene 4.8★ (1,099 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En el Centro de Monterrey, el Paseo Santa Lucía es un río artificial de 2.5 km que une los museos de la Macroplaza con el Parque Fundidora, al oriente. Tiene 4.8★ (1,106 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En el Centro de Monterrey, el Paseo Santa Lucía es un río artificial de 2.5 km que va de los museos de la Macroplaza al Parque Fundidora, hacia el oriente. Conviene ir al final de la tarde, ya sea para recorrerlo a pie o en lancha. Abre a diario de 10am a 9pm. Lo mejor llega con la luz del atardecer bajo los puentes, mientras el Cerro de la Silla se recorta en el horizonte.
 faq:
   - q: ¿Dónde empieza y dónde termina el Paseo Santa Lucía?

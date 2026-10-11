@@ -1,44 +1,55 @@
 ---
-title: "Templo Mayor Museum: Mexico City Travel Guide (4.8★)"
-description: "The Templo Mayor Museum sits on Seminario street in Mexico City's Centro Histórico, right beside the Zócalo and the Metropolitan Cathedral, and one visit covers both the excavated ruins of the Aztec Great Temple and the museum that holds its finds. 4.8★ (35,096 reviews) — what visitors say, hours, and tips."
-country: "Mexico"
-region: "Mexico City"
-category: "hidden-gem"
-pubDate: "2026-10-04T07:51:35.528Z"
+title: 'Templo Mayor Museum: Mexico City Travel Guide (4.8★)'
+description: >-
+  The Templo Mayor Museum sits on Seminario street in Mexico City's Centro
+  Histórico, right beside the Zócalo and the Metropolitan Cathedral, and one
+  visit covers both the excavated ruins of the Aztec Great Temple and the museum
+  that holds its finds. 4.8★ (35,119 reviews) — what visitors say, hours, and
+  tips.
+country: Mexico
+region: Mexico City
+category: hidden-gem
+pubDate: '2026-10-04T07:51:35.528Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Templo_Mayor_50.jpg/1920px-Templo_Mayor_50.jpg"
-  credit: "Photo: GAED / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Templo_Mayor_50.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Templo_Mayor_50.jpg/1920px-Templo_Mayor_50.jpg
+  credit: 'Photo: GAED / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Templo_Mayor_50.jpg'
   focus:
     x: 50
-    y: 55
+    'y': 55
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Colecci%C3%B3n_del_Museo_del_Templo_Mayor_-_2025_-_31.jpg/3840px-Colecci%C3%B3n_del_Museo_del_Templo_Mayor_-_2025_-_31.jpg"
-    credit: "Photo: ProtoplasmaKid / Wikimedia Commons (CC BY 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Colecci%C3%B3n_del_Museo_del_Templo_Mayor_-_2025_-_31.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Colecci%C3%B3n_del_Museo_del_Templo_Mayor_-_2025_-_31.jpg/3840px-Colecci%C3%B3n_del_Museo_del_Templo_Mayor_-_2025_-_31.jpg
+    credit: 'Photo: ProtoplasmaKid / Wikimedia Commons (CC BY 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Colecci%C3%B3n_del_Museo_del_Templo_Mayor_-_2025_-_31.jpg
 place:
-  id: "ChIJ3dGBci350YURsDYUZcq-kIw"
-  name: "Templo Mayor Museum"
-  address: "Seminario 8, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06060 Ciudad de México, CDMX, Mexico"
+  id: ChIJ3dGBci350YURsDYUZcq-kIw
+  name: Templo Mayor Museum
+  address: >-
+    Seminario 8, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc,
+    06060 Ciudad de México, CDMX, Mexico
   rating: 4.8
-  userRatingsTotal: 35096
-  googleMapsUrl: "https://maps.google.com/?cid=10128805338444740272&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 35119
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10128805338444740272&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 19.434603799999998
   lng: -99.13188099999999
-  phone: "+52 55 4040 5600"
+  phone: +52 55 4040 5600
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 9:00 AM – 5:00 PM"
-    - "Wednesday: 9:00 AM – 5:00 PM"
-    - "Thursday: 9:00 AM – 5:00 PM"
-    - "Friday: 9:00 AM – 5:00 PM"
-    - "Saturday: 9:00 AM – 5:00 PM"
-    - "Sunday: 9:00 AM – 5:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 9:00 AM – 5:00 PM'
+    - 'Wednesday: 9:00 AM – 5:00 PM'
+    - 'Thursday: 9:00 AM – 5:00 PM'
+    - 'Friday: 9:00 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 5:00 PM'
+    - 'Sunday: 9:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-10-04
+    updated: 2026-10-04T00:00:00.000Z
     weekdayQuiet:
       - 9
     weekdayBusy:
@@ -51,24 +62,42 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_77496b2d71635a555944735255593035336963424764334a496843"
+    venueId: ven_77496b2d71635a555944735255593035336963424764334a496843
 tags:
-  - "mexico city"
-  - "hidden gem"
-quickAnswer: "The Templo Mayor Museum sits on Seminario street in Mexico City's Centro Histórico, right beside the Zócalo and the Metropolitan Cathedral, and one visit covers both the excavated ruins of the Aztec Great Temple and the museum that holds its finds. It opens 9am to 5pm Tuesday to Sunday and is closed Mondays. It's calmest from 9am to 10am on weekdays, and best avoided between 11am and 5pm at weekends."
+  - mexico city
+  - hidden gem
+quickAnswer: >-
+  The Templo Mayor Museum sits on Seminario street in Mexico City's Centro
+  Histórico, right beside the Zócalo and the Metropolitan Cathedral, and one
+  visit covers both the excavated ruins of the Aztec Great Temple and the museum
+  that holds its finds. It opens 9am to 5pm Tuesday to Sunday and is closed
+  Mondays. It's calmest from 9am to 10am on weekdays, and best avoided between
+  11am and 5pm at weekends.
 faq:
-  - q: "When is the quietest time to visit the Templo Mayor Museum?"
-    a: "It's quietest from 9am to 10am on weekdays, right after opening. Avoid weekends from 11am to 5pm, when it's busiest."
-  - q: "Is the Templo Mayor Museum open on Mondays?"
-    a: "No. It's closed every Monday. From Tuesday to Sunday it opens 9am to 5pm."
-  - q: "How do I get to the Templo Mayor?"
-    a: "Take Metro Line 2 to Zócalo/Tenochtitlan. Walk to the Metropolitan Cathedral's northeast corner, and the entrance is on Seminario, about five minutes from the station."
-  - q: "How long should I spend there?"
-    a: "Allow two and a half to three hours. That's about an hour on the outdoor walkway over the ruins and an hour and a half or more in the museum's eight halls."
-  - q: "What is there to see nearby?"
-    a: "The Metropolitan Cathedral and Zócalo are next door. Palacio Nacional has Diego Rivera murals, and both the Antiguo Colegio de San Ildefonso and the Secretaría de Educación Pública have more murals, all within a few blocks."
+  - q: When is the quietest time to visit the Templo Mayor Museum?
+    a: >-
+      It's quietest from 9am to 10am on weekdays, right after opening. Avoid
+      weekends from 11am to 5pm, when it's busiest.
+  - q: Is the Templo Mayor Museum open on Mondays?
+    a: No. It's closed every Monday. From Tuesday to Sunday it opens 9am to 5pm.
+  - q: How do I get to the Templo Mayor?
+    a: >-
+      Take Metro Line 2 to Zócalo/Tenochtitlan. Walk to the Metropolitan
+      Cathedral's northeast corner, and the entrance is on Seminario, about five
+      minutes from the station.
+  - q: How long should I spend there?
+    a: >-
+      Allow two and a half to three hours. That's about an hour on the outdoor
+      walkway over the ruins and an hour and a half or more in the museum's
+      eight halls.
+  - q: What is there to see nearby?
+    a: >-
+      The Metropolitan Cathedral and Zócalo are next door. Palacio Nacional has
+      Diego Rivera murals, and both the Antiguo Colegio de San Ildefonso and the
+      Secretaría de Educación Pública have more murals, all within a few blocks.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-11'
 ---
 
 ## A temple under the city's main square

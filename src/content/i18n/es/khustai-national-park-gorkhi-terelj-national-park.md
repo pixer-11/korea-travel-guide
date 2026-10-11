@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: khustai-national-park-gorkhi-terelj-national-park
-srcHash: '6c0d848d24f5'
+srcHash: 'b84dd06ce392'
 title: 'Parque Nacional Gorkhi-Terelj y Parque Nacional Khustai: guía de viaje'
-description: Entre las colinas de granito al noreste de Ulán Bator se extiende el Parque Nacional Gorkhi-Terelj. Con una valoración de 4.6★ (2,320 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
+description: Entre las colinas de granito al noreste de Ulán Bator se extiende el Parque Nacional Gorkhi-Terelj. Con una valoración de 4.6★ (2,321 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
 quickAnswer: El Parque Nacional Gorkhi-Terelj se encuentra entre colinas de granito al noreste de Ulán Bator. No debe confundirse con el Parque Nacional Khustai, situado al oeste de la ciudad, que es adonde hay que ir para ver los caballos salvajes takhi. Para Terelj conviene elegir un día laborable, ya que su ficha de Google indica actualmente que cierra sábados y domingos. Antes de salir, consulte también los canales oficiales.
 faq:
   - q: ¿Gorkhi-Terelj y Khustai son el mismo parque nacional?

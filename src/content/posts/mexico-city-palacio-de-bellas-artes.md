@@ -1,44 +1,55 @@
 ---
-title: "Palacio de Bellas Artes: Mexico City Travel Guide (4.8★)"
-description: "Palacio de Bellas Artes sits at the east end of the Alameda Central in Mexico City's Centro Histórico. 4.8★ (195,778 reviews) — what visitors say, hours, and tips."
-country: "Mexico"
-region: "Mexico City"
-category: "hidden-gem"
-pubDate: "2026-10-05T07:50:21.318Z"
+title: 'Palacio de Bellas Artes: Mexico City Travel Guide (4.8★)'
+description: >-
+  Palacio de Bellas Artes sits at the east end of the Alameda Central in Mexico
+  City's Centro Histórico. 4.8★ (195,914 reviews) — what visitors say, hours,
+  and tips.
+country: Mexico
+region: Mexico City
+category: hidden-gem
+pubDate: '2026-10-05T07:50:21.318Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bellas_Artes_01.jpg/1920px-Bellas_Artes_01.jpg"
-  credit: "Photo: Xavier Quetzalcoatl Contreras Castillo / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Bellas_Artes_01.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bellas_Artes_01.jpg/1920px-Bellas_Artes_01.jpg
+  credit: >-
+    Photo: Xavier Quetzalcoatl Contreras Castillo / Wikimedia Commons (CC BY-SA
+    3.0)
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Bellas_Artes_01.jpg'
   focus:
     x: 50
-    y: 35
+    'y': 35
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/8/85/Mexico_City_Palacio_de_bellas_artes.jpg"
-    credit: "Photo: Jeses / Wikimedia Commons (CC BY-SA 2.5)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Mexico_City_Palacio_de_bellas_artes.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/8/85/Mexico_City_Palacio_de_bellas_artes.jpg
+    credit: 'Photo: Jeses / Wikimedia Commons (CC BY-SA 2.5)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Mexico_City_Palacio_de_bellas_artes.jpg
 place:
-  id: "ChIJTQGqdSv50YURz-imDdIQ2Bc"
-  name: "Palacio de Bellas Artes"
-  address: "Av. Juárez S/N, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06050 Ciudad de México, CDMX, Mexico"
+  id: ChIJTQGqdSv50YURz-imDdIQ2Bc
+  name: Palacio de Bellas Artes
+  address: >-
+    Av. Juárez S/N, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc,
+    06050 Ciudad de México, CDMX, Mexico
   rating: 4.8
-  userRatingsTotal: 195778
-  googleMapsUrl: "https://maps.google.com/?cid=1718141752200063183&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 195914
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1718141752200063183&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 19.4352
   lng: -99.1412
-  phone: "+52 528 647 6500"
+  phone: +52 528 647 6500
   openingHours:
-    - "Monday: 11:00 AM – 6:00 PM"
-    - "Tuesday: 11:00 AM – 6:00 PM"
-    - "Wednesday: 11:00 AM – 6:00 PM"
-    - "Thursday: 11:00 AM – 6:00 PM"
-    - "Friday: 11:00 AM – 6:00 PM"
-    - "Saturday: 11:00 AM – 6:00 PM"
-    - "Sunday: 8:00 AM – 6:00 PM"
+    - 'Monday: 11:00 AM – 6:00 PM'
+    - 'Tuesday: 11:00 AM – 6:00 PM'
+    - 'Wednesday: 11:00 AM – 6:00 PM'
+    - 'Thursday: 11:00 AM – 6:00 PM'
+    - 'Friday: 11:00 AM – 6:00 PM'
+    - 'Saturday: 11:00 AM – 6:00 PM'
+    - 'Sunday: 8:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-10-05
+    updated: 2026-10-05T00:00:00.000Z
     weekdayQuiet:
       - 11
       - 12
@@ -52,24 +63,45 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_634232514964446d692d7a5255593035765364714751544a496843"
+    venueId: ven_634232514964446d692d7a5255593035765364714751544a496843
 tags:
-  - "mexico city"
-  - "old quarter"
-quickAnswer: "Palacio de Bellas Artes sits at the east end of the Alameda Central in Mexico City's Centro Histórico. Inside are murals by Diego Rivera, Orozco and Siqueiros, and it's a short walk from Bellas Artes Metro (Lines 2 and 8). It opens daily from 11am to 6pm and from 8am on Sundays. Go on a weekday between 11am and 1pm, or on Sunday between 8am and 11am, and avoid weekend afternoons from 1pm to 6pm."
+  - mexico city
+  - old quarter
+quickAnswer: >-
+  Palacio de Bellas Artes sits at the east end of the Alameda Central in Mexico
+  City's Centro Histórico. Inside are murals by Diego Rivera, Orozco and
+  Siqueiros, and it's a short walk from Bellas Artes Metro (Lines 2 and 8). It
+  opens daily from 11am to 6pm and from 8am on Sundays. Go on a weekday between
+  11am and 1pm, or on Sunday between 8am and 11am, and avoid weekend afternoons
+  from 1pm to 6pm.
 faq:
-  - q: "When is the quietest time to visit Palacio de Bellas Artes?"
-    a: "On weekdays it's quietest from 11am to 1pm. At weekends the calm window is 8am to 11am, which only works on Sunday because it opens at 8am that day. Avoid weekends from 1pm to 6pm, when it's busiest."
-  - q: "How do I get to Palacio de Bellas Artes by Metro?"
-    a: "Take Line 2 or Line 8 to Bellas Artes station. It comes up right beside the building at the east end of the Alameda Central."
-  - q: "How long should I spend inside?"
-    a: "Allow 90 minutes to two hours for the murals on the upper floors and the Art Deco interior. Add a performance if you want to see the theatre and its Tiffany glass curtain."
-  - q: "Which murals should I not miss?"
-    a: "Diego Rivera's Man, Controller of the Universe, Orozco's Catharsis, Siqueiros's New Democracy and Rufino Tamayo's two panels on Mexican nationality."
-  - q: "What's nearby?"
-    a: "The Alameda Central, the Palacio Postal, the Torre Latinoamericana and the Casa de los Azulejos on Avenida Madero are all nearby. The Sears building café terrace across Avenida Juárez gives the best view of the dome."
+  - q: When is the quietest time to visit Palacio de Bellas Artes?
+    a: >-
+      On weekdays it's quietest from 11am to 1pm. At weekends the calm window is
+      8am to 11am, which only works on Sunday because it opens at 8am that day.
+      Avoid weekends from 1pm to 6pm, when it's busiest.
+  - q: How do I get to Palacio de Bellas Artes by Metro?
+    a: >-
+      Take Line 2 or Line 8 to Bellas Artes station. It comes up right beside
+      the building at the east end of the Alameda Central.
+  - q: How long should I spend inside?
+    a: >-
+      Allow 90 minutes to two hours for the murals on the upper floors and the
+      Art Deco interior. Add a performance if you want to see the theatre and
+      its Tiffany glass curtain.
+  - q: Which murals should I not miss?
+    a: >-
+      Diego Rivera's Man, Controller of the Universe, Orozco's Catharsis,
+      Siqueiros's New Democracy and Rufino Tamayo's two panels on Mexican
+      nationality.
+  - q: What's nearby?
+    a: >-
+      The Alameda Central, the Palacio Postal, the Torre Latinoamericana and the
+      Casa de los Azulejos on Avenida Madero are all nearby. The Sears building
+      café terrace across Avenida Juárez gives the best view of the dome.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-11'
 ---
 
 ## Marble outside, Art Deco inside

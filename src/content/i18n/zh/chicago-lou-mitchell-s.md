@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: chicago-lou-mitchell-s
-srcHash: 'dd9f368f67ab'
+srcHash: '635ceace95cb'
 title: 芝加哥美食之选：Lou Mitchell's（4.6★）
-description: Lou Mitchell's位于芝加哥西环区（West Loop）565 W Jackson Blvd，自1923年起专营早餐和午餐，步行到联合车站（Union Station）只需几分钟。评分4.6★（4,989条评价），本文汇总食客评价、营业时间和实用建议。
+description: Lou Mitchell's位于芝加哥西环区（West Loop）565 W Jackson Blvd，自1923年起专营早餐和午餐，步行到联合车站（Union Station）只需几分钟。评分4.6★（4,991条评价），本文汇总食客评价、营业时间和实用建议。
 quickAnswer: Lou Mitchell's是一家只供应早餐和午餐的美式小餐馆，地址为芝加哥西环区（West Loop）565 W Jackson Blvd。餐馆1923年开业，离联合车站（Union Station）步行不远。目前每周只在周三至周日营业，工作日早上6点开门，周末早上7点开门，下午2点打烊。周末从7am到2pm一直人多，想吃得从容些，最好挑周三到周五的上午去。
 faq:
   - q: 什么时候去Lou Mitchell's人最少？

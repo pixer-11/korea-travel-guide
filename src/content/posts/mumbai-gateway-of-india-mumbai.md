@@ -1,51 +1,82 @@
 ---
-title: "Gateway Of India: Mumbai Travel Guide (4.6★)"
-description: "The Gateway Of India stands on the Apollo Bandar waterfront in Colaba, south Mumbai, directly opposite the Taj Mahal Palace hotel. 4.6★ (388,235 reviews) — what visitors say, hours, and tips."
-country: "India"
-region: "Mumbai"
-category: "hidden-gem"
-pubDate: "2026-09-28T07:45:51.372Z"
+title: 'Gateway Of India: Mumbai Travel Guide (4.6★)'
+description: >-
+  The Gateway Of India stands on the Apollo Bandar waterfront in Colaba, south
+  Mumbai, directly opposite the Taj Mahal Palace hotel. 4.6★ (388,817 reviews) —
+  what visitors say, hours, and tips.
+country: India
+region: Mumbai
+category: hidden-gem
+pubDate: '2026-09-28T07:45:51.372Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Panoramic_view_of_Taj_Palace_Hotel_and_Taj_Tower_with_the_iconic_Gateway_of_India_in_the_background.jpg/3840px-Panoramic_view_of_Taj_Palace_Hotel_and_Taj_Tower_with_the_iconic_Gateway_of_India_in_the_background.jpg"
-  credit: "Photo: iMahesh / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Panoramic_view_of_Taj_Palace_Hotel_and_Taj_Tower_with_the_iconic_Gateway_of_India_in_the_background.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Panoramic_view_of_Taj_Palace_Hotel_and_Taj_Tower_with_the_iconic_Gateway_of_India_in_the_background.jpg/3840px-Panoramic_view_of_Taj_Palace_Hotel_and_Taj_Tower_with_the_iconic_Gateway_of_India_in_the_background.jpg
+  credit: 'Photo: iMahesh / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Panoramic_view_of_Taj_Palace_Hotel_and_Taj_Tower_with_the_iconic_Gateway_of_India_in_the_background.jpg
+  via: act
   focus:
     x: 78
-    y: 55
+    'y': 55
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/3/3a/Mumbai_03-2016_30_Gateway_of_India.jpg"
-    credit: "Photo: A.Savin / Wikimedia Commons (FAL)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Mumbai_03-2016_30_Gateway_of_India.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/3/3a/Mumbai_03-2016_30_Gateway_of_India.jpg
+    credit: 'Photo: A.Savin / Wikimedia Commons (FAL)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Mumbai_03-2016_30_Gateway_of_India.jpg
 place:
-  id: "ChIJrVwNOsfR5zsRPHOcIKclCsc"
-  name: "Gateway Of India Mumbai"
-  address: "Apollo Bandar, Colaba, Mumbai, Maharashtra, India"
+  id: ChIJrVwNOsfR5zsRPHOcIKclCsc
+  name: Gateway Of India Mumbai
+  address: 'Apollo Bandar, Colaba, Mumbai, Maharashtra, India'
   rating: 4.6
-  userRatingsTotal: 388235
-  googleMapsUrl: "https://maps.google.com/?cid=14342317363051655996&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 388817
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14342317363051655996&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 18.9219841
   lng: 72.8346543
 tags:
-  - "mumbai"
-  - "old quarter"
-quickAnswer: "The Gateway Of India stands on the Apollo Bandar waterfront in Colaba, south Mumbai, directly opposite the Taj Mahal Palace hotel. It's one of the most-visited landmarks in the country, so go early in the day or in the cool months from October to February. Give the arch 45 minutes to an hour, or half a day if you're taking the ferry to Elephanta Caves from the jetties beside it."
+  - mumbai
+  - old quarter
+quickAnswer: >-
+  The Gateway Of India stands on the Apollo Bandar waterfront in Colaba, south
+  Mumbai, directly opposite the Taj Mahal Palace hotel. It's one of the
+  most-visited landmarks in the country, so go early in the day or in the cool
+  months from October to February. Give the arch 45 minutes to an hour, or half
+  a day if you're taking the ferry to Elephanta Caves from the jetties beside
+  it.
 faq:
-  - q: "How do I get to the Gateway Of India?"
-    a: "Take a local train to Churchgate (Western line) or CSMT (Central and Harbour lines), then a short metered taxi or app cab to Apollo Bandar in Colaba. From CSMT, it's also a walk of roughly half an hour south through Kala Ghoda."
-  - q: "How long should I spend there?"
-    a: "Give the arch and plaza 45 minutes to an hour. If you add the ferry to Elephanta Caves, which takes about an hour each way, plan on half a day."
-  - q: "When is the best time to visit?"
-    a: "October to February has the most comfortable weather. Arriving early in the day usually beats the tour groups. Evenings, especially at weekends, are the liveliest, when the low sun warms the yellow stone."
-  - q: "Can I take the Elephanta Caves ferry from here?"
-    a: "Yes. Ferries to Elephanta leave from the jetties right beside the Gateway. Buy tickets at the official booths, confirm the last boat back, and expect services to be suspended in rough monsoon seas between June and September."
-  - q: "What is nearby?"
-    a: "The Taj Mahal Palace hotel stands directly opposite. Colaba Causeway market and Leopold Cafe are a short walk away, and the Chhatrapati Shivaji Maharaj Vastu Sangrahalaya and the Kala Ghoda arts district are a little further north."
+  - q: How do I get to the Gateway Of India?
+    a: >-
+      Take a local train to Churchgate (Western line) or CSMT (Central and
+      Harbour lines), then a short metered taxi or app cab to Apollo Bandar in
+      Colaba. From CSMT, it's also a walk of roughly half an hour south through
+      Kala Ghoda.
+  - q: How long should I spend there?
+    a: >-
+      Give the arch and plaza 45 minutes to an hour. If you add the ferry to
+      Elephanta Caves, which takes about an hour each way, plan on half a day.
+  - q: When is the best time to visit?
+    a: >-
+      October to February has the most comfortable weather. Arriving early in
+      the day usually beats the tour groups. Evenings, especially at weekends,
+      are the liveliest, when the low sun warms the yellow stone.
+  - q: Can I take the Elephanta Caves ferry from here?
+    a: >-
+      Yes. Ferries to Elephanta leave from the jetties right beside the Gateway.
+      Buy tickets at the official booths, confirm the last boat back, and expect
+      services to be suspended in rough monsoon seas between June and September.
+  - q: What is nearby?
+    a: >-
+      The Taj Mahal Palace hotel stands directly opposite. Colaba Causeway
+      market and Leopold Cafe are a short walk away, and the Chhatrapati Shivaji
+      Maharaj Vastu Sangrahalaya and the Kala Ghoda arts district are a little
+      further north.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-11'
 ---
 
 ## An arch built to face the water

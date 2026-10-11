@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: mong-kok-618-shanghai-street
-srcHash: '9744d31dba6a'
+srcHash: '729af31fc3e3'
 title: '618 Shanghai Street: guía de viaje de Mong Kok (4.0★)'
-description: 'En Mong Kok, el 618 Shanghai Street es una hilera de casas-tienda de Kowloon anteriores a la guerra que la Autoridad de Renovación Urbana de Hong Kong restauró y convirtió en un conjunto de restaurantes y comercios. Valoración de 4.0★ (519 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En Mong Kok, el 618 Shanghai Street es una hilera de casas-tienda de Kowloon anteriores a la guerra que la Autoridad de Renovación Urbana de Hong Kong restauró y convirtió en un conjunto de restaurantes y comercios. Valoración de 4.0★ (520 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En pleno Mong Kok, el 618 Shanghai Street reúne una hilera de casas-tienda de Kowloon anteriores a la guerra, restauradas por la Autoridad de Renovación Urbana de Hong Kong y reconvertidas en un conjunto de restaurantes y comercios. Abre todos los días de 11am a 11pm y su dirección oficial es 2/F, 618 Shanghai St. Se llega a pie desde la estación de MTR de Mong Kok caminando hacia el oeste. Conviene reservar entre 30 y 60 minutos para la visita y consultar antes qué locales hay en ese momento, porque las tiendas y los restaurantes del interior van cambiando.
 faq:
   - q: ¿Qué es el 618 Shanghai Street?

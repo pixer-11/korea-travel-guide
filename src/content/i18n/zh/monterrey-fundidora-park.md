@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: monterrey-fundidora-park
-srcHash: '9d9870baf18d'
+srcHash: 'c7f145a4c486'
 title: 蒙特雷芬迪多拉公园旅行指南（4.8★）
-description: 芬迪多拉公园（Parque Fundidora）坐落在蒙特雷奥夫雷拉区，前身是当地的老钢铁厂，如今是一座大型公共公园，每天6:00 AM至10:00 PM开放。评分4.8★（146,071条评价），本文汇总游客评价、开放时间和游览建议。
+description: 芬迪多拉公园（Parque Fundidora）坐落在蒙特雷奥夫雷拉区，前身是当地的老钢铁厂，如今是一座大型公共公园，每天6:00 AM至10:00 PM开放。评分4.8★（146,150条评价），本文汇总游客评价、开放时间和游览建议。
 quickAnswer: 芬迪多拉公园（Parque Fundidora）位于蒙特雷奥夫雷拉区（Obrera），由当年的钢铁厂旧址改建而成，是一座大型公共公园，每天6:00 AM至10:00 PM开放。建议至少留出半天：在保留下来的高炉之间沿步道漫步，登上三号高炉博物馆（Horno3）远眺马鞍山（Cerro de la Silla）。前往公园可以沿圣卢西亚河滨步道（Paseo Santa Lucía）步行，也可以乘地铁1号线到芬迪多拉公园站（Parque Fundidora）。
 faq:
   - q: 芬迪多拉公园的开放时间是怎样的？

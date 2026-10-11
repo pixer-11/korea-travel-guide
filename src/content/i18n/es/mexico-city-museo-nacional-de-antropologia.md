@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: mexico-city-museo-nacional-de-antropologia
-srcHash: '1071d411bccf'
+srcHash: '41b9ec8a19e4'
 title: 'Museo Nacional de Antropología: guía de viaje por la Ciudad de México'
-description: En pleno Bosque de Chapultepec, sobre Paseo de la Reforma y en el límite de Polanco, se encuentra el Museo Nacional de Antropología de la Ciudad de México. Tiene una valoración de 4.8★ (92,348 reseñas). Aquí encontrará la opinión de los visitantes, los horarios y consejos prácticos.
+description: En pleno Bosque de Chapultepec, sobre Paseo de la Reforma y en el límite de Polanco, se encuentra el Museo Nacional de Antropología de la Ciudad de México. Tiene una valoración de 4.8★ (92,473 reseñas). Aquí encontrará la opinión de los visitantes, los horarios y consejos prácticos.
 quickAnswer: El Museo Nacional de Antropología se encuentra sobre Paseo de la Reforma, dentro del Bosque de Chapultepec y en el límite de Polanco, en la Ciudad de México. Alberga la colección de arte prehispánico más importante del país, con piezas como la Piedra del Sol mexica y una cabeza colosal olmeca. Abre de martes a domingo de 9am a 5pm y cierra los lunes. Como los fines de semana se llena entre las 10am y las 5pm, conviene visitarlo entre semana o llegar a las 9am.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Museo Nacional de Antropología?

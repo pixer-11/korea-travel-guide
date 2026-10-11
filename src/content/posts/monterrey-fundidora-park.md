@@ -1,55 +1,86 @@
 ---
-title: "Fundidora Park: Monterrey Travel Guide (4.8★)"
-description: "Fundidora Park (Parque Fundidora) is a large public park on the grounds of Monterrey's old steel foundry in the Obrera neighbourhood, open daily from 6:00 AM to 10:00 PM. 4.8★ (146,071 reviews) — what visitors say, hours, and tips."
-country: "Mexico"
-region: "Monterrey"
-category: "attraction"
-pubDate: "2026-10-04T07:48:47.921Z"
+title: 'Fundidora Park: Monterrey Travel Guide (4.8★)'
+description: >-
+  Fundidora Park (Parque Fundidora) is a large public park on the grounds of
+  Monterrey's old steel foundry in the Obrera neighbourhood, open daily from
+  6:00 AM to 10:00 PM. 4.8★ (146,150 reviews) — what visitors say, hours, and
+  tips.
+country: Mexico
+region: Monterrey
+category: attraction
+pubDate: '2026-10-04T07:48:47.921Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Parque_Fundidora%2C_Monterrey1.jpg/1920px-Parque_Fundidora%2C_Monterrey1.jpg"
-  credit: "Photo: México en Fotos / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Parque_Fundidora,_Monterrey1.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Parque_Fundidora%2C_Monterrey1.jpg/1920px-Parque_Fundidora%2C_Monterrey1.jpg
+  credit: 'Photo: México en Fotos / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Parque_Fundidora,_Monterrey1.jpg'
   focus:
     x: 55
-    y: 40
+    'y': 40
 gallery: []
 place:
-  id: "ChIJg1Qm_2GVYoYRqKnDgwfUexs"
-  name: "Fundidora Park"
-  address: "Adolfo Prieto S/N, Obrera, 64010 Monterrey, N.L., Mexico"
+  id: ChIJg1Qm_2GVYoYRqKnDgwfUexs
+  name: Fundidora Park
+  address: 'Adolfo Prieto S/N, Obrera, 64010 Monterrey, N.L., Mexico'
   rating: 4.8
-  userRatingsTotal: 146071
-  googleMapsUrl: "https://maps.google.com/?cid=1980409589899962792&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 146150
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1980409589899962792&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 25.6786569
   lng: -100.2842344
-  phone: "+52 81 8126 8500"
+  phone: +52 81 8126 8500
   openingHours:
-    - "Monday: 6:00 AM – 10:00 PM"
-    - "Tuesday: 6:00 AM – 10:00 PM"
-    - "Wednesday: 6:00 AM – 10:00 PM"
-    - "Thursday: 6:00 AM – 10:00 PM"
-    - "Friday: 6:00 AM – 10:00 PM"
-    - "Saturday: 6:00 AM – 10:00 PM"
-    - "Sunday: 6:00 AM – 10:00 PM"
+    - 'Monday: 6:00 AM – 10:00 PM'
+    - 'Tuesday: 6:00 AM – 10:00 PM'
+    - 'Wednesday: 6:00 AM – 10:00 PM'
+    - 'Thursday: 6:00 AM – 10:00 PM'
+    - 'Friday: 6:00 AM – 10:00 PM'
+    - 'Saturday: 6:00 AM – 10:00 PM'
+    - 'Sunday: 6:00 AM – 10:00 PM'
 tags:
-  - "monterrey"
-  - "top attraction"
-quickAnswer: "Fundidora Park (Parque Fundidora) is a large public park on the grounds of Monterrey's old steel foundry in the Obrera neighbourhood, open daily from 6:00 AM to 10:00 PM. Plan at least half a day: walk the trails among the preserved furnaces, go up Horno3 for views of Cerro de la Silla, and arrive on foot along the Paseo Santa Lucía riverwalk or by Metro Line 1 to Parque Fundidora station."
+  - monterrey
+  - top attraction
+quickAnswer: >-
+  Fundidora Park (Parque Fundidora) is a large public park on the grounds of
+  Monterrey's old steel foundry in the Obrera neighbourhood, open daily from
+  6:00 AM to 10:00 PM. Plan at least half a day: walk the trails among the
+  preserved furnaces, go up Horno3 for views of Cerro de la Silla, and arrive on
+  foot along the Paseo Santa Lucía riverwalk or by Metro Line 1 to Parque
+  Fundidora station.
 faq:
-  - q: "What are Fundidora Park's opening hours?"
-    a: "The park is open every day of the week from 6:00 AM to 10:00 PM. Attractions inside, such as Horno3 and Parque Plaza Sésamo, set their own hours, so check their official websites separately."
-  - q: "How do I get to Fundidora Park by Metro?"
-    a: "Take Metro Line 1 to Parque Fundidora station, which lets you out at the park's northern side. Y Griega station, one stop on, is also within walking distance. You can also walk about 2.5 km from the Macroplaza along the Paseo Santa Lucía riverwalk."
-  - q: "How long should I spend at Fundidora Park?"
-    a: "Allow two to three hours for the main paths, the lake and the furnaces. Make it half a day if you add Horno3 and its summit ride, and a full day if you're also walking Paseo Santa Lucía or taking children to Plaza Sésamo."
-  - q: "When is the best time to visit Fundidora Park?"
-    a: "The cooler months from November to March are the most comfortable. Year-round, early mornings after the 6:00 AM opening and evenings before the 10:00 PM close avoid the strongest midday heat. Weekdays are calmer than weekends, when families fill the park."
-  - q: "What is there to see besides the park itself?"
-    a: "Inside or beside the grounds are Horno3 (the steel museum in a former blast furnace), Parque Plaza Sésamo, Centro de las Artes with the Cineteca and Fototeca, Cintermex, Auditorio Citibanamex and Arena Monterrey."
+  - q: What are Fundidora Park's opening hours?
+    a: >-
+      The park is open every day of the week from 6:00 AM to 10:00 PM.
+      Attractions inside, such as Horno3 and Parque Plaza Sésamo, set their own
+      hours, so check their official websites separately.
+  - q: How do I get to Fundidora Park by Metro?
+    a: >-
+      Take Metro Line 1 to Parque Fundidora station, which lets you out at the
+      park's northern side. Y Griega station, one stop on, is also within
+      walking distance. You can also walk about 2.5 km from the Macroplaza along
+      the Paseo Santa Lucía riverwalk.
+  - q: How long should I spend at Fundidora Park?
+    a: >-
+      Allow two to three hours for the main paths, the lake and the furnaces.
+      Make it half a day if you add Horno3 and its summit ride, and a full day
+      if you're also walking Paseo Santa Lucía or taking children to Plaza
+      Sésamo.
+  - q: When is the best time to visit Fundidora Park?
+    a: >-
+      The cooler months from November to March are the most comfortable.
+      Year-round, early mornings after the 6:00 AM opening and evenings before
+      the 10:00 PM close avoid the strongest midday heat. Weekdays are calmer
+      than weekends, when families fill the park.
+  - q: What is there to see besides the park itself?
+    a: >-
+      Inside or beside the grounds are Horno3 (the steel museum in a former
+      blast furnace), Parque Plaza Sésamo, Centro de las Artes with the Cineteca
+      and Fototeca, Cintermex, Auditorio Citibanamex and Arena Monterrey.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-11'
 ---
 
 ## A steelworks that turned into a park

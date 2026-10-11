@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: monterrey-macroplaza
-srcHash: '0093cfc10a46'
+srcHash: 'df71603dc3fb'
 title: 宏伟广场：蒙特雷旅行指南（4.7★）
-description: 宏伟广场（Macroplaza）坐落于蒙特雷市中心（Centro），是一座规模庞大的公共广场，北起州政府宫，南至蒙特雷当代艺术博物馆（MARCO）。评分4.7★（91,218条评价），游客口碑、开放时间与实用贴士尽在本文。
+description: 宏伟广场（Macroplaza）坐落于蒙特雷市中心（Centro），是一座规模庞大的公共广场，北起州政府宫，南至蒙特雷当代艺术博物馆（MARCO）。评分4.7★（91,260条评价），游客口碑、开放时间与实用贴士尽在本文。
 quickAnswer: 宏伟广场（Macroplaza）位于蒙特雷市中心（Centro），这座巨型公共广场从州政府宫一路向南延伸到蒙特雷当代艺术博物馆（MARCO）。广场24小时开放，最近的地铁站是2号线的萨拉戈萨站（Zaragoza）和帕德雷米尔站（Padre Mier）。想避开最毒的日头，不妨清晨或入夜后再来逛。逛完别急着走，留下来看商业灯塔（Faro del Comercio）的激光划过城市夜空。
 faq:
   - q: 乘公共交通如何前往宏伟广场？

@@ -1,60 +1,90 @@
 ---
-title: "618 Shanghai Street: Mong Kok Travel Guide (4.0★)"
-description: "618 Shanghai Street in Mong Kok is a row of pre-war Kowloon shophouses that Hong Kong's Urban Renewal Authority restored and turned into a dining and retail block. 4.0★ (519 reviews) — what visitors say, hours, and tips."
-country: "Hong Kong"
-region: "Mong Kok"
-category: "hidden-gem"
-pubDate: "2026-10-02T07:44:41.509Z"
+title: '618 Shanghai Street: Mong Kok Travel Guide (4.0★)'
+description: >-
+  618 Shanghai Street in Mong Kok is a row of pre-war Kowloon shophouses that
+  Hong Kong's Urban Renewal Authority restored and turned into a dining and
+  retail block. 4.0★ (520 reviews) — what visitors say, hours, and tips.
+country: Hong Kong
+region: Mong Kok
+category: hidden-gem
+pubDate: '2026-10-02T07:44:41.509Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/HK_MK_%E6%97%BA%E8%A7%92_Mong_Kok_%E4%B8%8A%E6%B5%B7%E8%A1%97_618_Shanghai_Street_%E8%98%87%E5%AA%BD_%E8%98%87%E5%AA%BD%E9%A6%AC%E4%BE%86%E8%A5%BF%E4%BA%9E%E8%8C%B6%E9%A4%90%E5%AE%A4_Semua_Semua_Restaurant_November_2025_N13P_01.jpg/3840px-HK_MK_%E6%97%BA%E8%A7%92_Mong_Kok_%E4%B8%8A%E6%B5%B7%E8%A1%97_618_Shanghai_Street_%E8%98%87%E5%AA%BD_%E8%98%87%E5%AA%BD%E9%A6%AC%E4%BE%86%E8%A5%BF%E4%BA%9E%E8%8C%B6%E9%A4%90%E5%AE%A4_Semua_Semua_Restaurant_November_2025_N13P_01.jpg"
-  credit: "Photo: Belsadnay Boratdm Sandsy / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:HK_MK_%E6%97%BA%E8%A7%92_Mong_Kok_%E4%B8%8A%E6%B5%B7%E8%A1%97_618_Shanghai_Street_%E8%98%87%E5%AA%BD_%E8%98%87%E5%AA%BD%E9%A6%AC%E4%BE%86%E8%A5%BF%E4%BA%9E%E8%8C%B6%E9%A4%90%E5%AE%A4_Semua_Semua_Restaurant_November_2025_N13P_01.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/HK_MK_%E6%97%BA%E8%A7%92_Mong_Kok_%E4%B8%8A%E6%B5%B7%E8%A1%97_618_Shanghai_Street_%E8%98%87%E5%AA%BD_%E8%98%87%E5%AA%BD%E9%A6%AC%E4%BE%86%E8%A5%BF%E4%BA%9E%E8%8C%B6%E9%A4%90%E5%AE%A4_Semua_Semua_Restaurant_November_2025_N13P_01.jpg/3840px-HK_MK_%E6%97%BA%E8%A7%92_Mong_Kok_%E4%B8%8A%E6%B5%B7%E8%A1%97_618_Shanghai_Street_%E8%98%87%E5%AA%BD_%E8%98%87%E5%AA%BD%E9%A6%AC%E4%BE%86%E8%A5%BF%E4%BA%9E%E8%8C%B6%E9%A4%90%E5%AE%A4_Semua_Semua_Restaurant_November_2025_N13P_01.jpg
+  credit: 'Photo: Belsadnay Boratdm Sandsy / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:HK_MK_%E6%97%BA%E8%A7%92_Mong_Kok_%E4%B8%8A%E6%B5%B7%E8%A1%97_618_Shanghai_Street_%E8%98%87%E5%AA%BD_%E8%98%87%E5%AA%BD%E9%A6%AC%E4%BE%86%E8%A5%BF%E4%BA%9E%E8%8C%B6%E9%A4%90%E5%AE%A4_Semua_Semua_Restaurant_November_2025_N13P_01.jpg
+  via: act
   focus:
     x: 55
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/374741_rQNHtnsMg_MJvOZNbOe6intHeEMgxchylmGSisBkHFM.jpg"
-    credit: "Photo: Foursquare user content (618 Shanghai Street (618上海街))"
-    license: "foursquare"
-    source: "https://foursquare.com/v/5de0c59d616eb4000839cd78"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/374741_rQNHtnsMg_MJvOZNbOe6intHeEMgxchylmGSisBkHFM.jpg
+    credit: 'Photo: Foursquare user content (618 Shanghai Street (618上海街))'
+    license: foursquare
+    source: 'https://foursquare.com/v/5de0c59d616eb4000839cd78'
 place:
-  id: "ChIJxdvp8McABDQRepxNG9SVh20"
-  name: "618 Shanghai Street"
-  address: "2/F, 618 Shanghai St, Mong Kok, Kowloon, Hong Kong"
+  id: ChIJxdvp8McABDQRepxNG9SVh20
+  name: 618 Shanghai Street
+  address: '2/F, 618 Shanghai St, Mong Kok, Kowloon, Hong Kong'
   rating: 4
-  userRatingsTotal: 519
-  googleMapsUrl: "https://maps.google.com/?cid=7892441610213760122&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 520
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=7892441610213760122&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.3196117
   lng: 114.1681713
-  phone: "+852 2618 8980"
+  phone: +852 2618 8980
   openingHours:
-    - "Monday: 11:00 AM – 11:00 PM"
-    - "Tuesday: 11:00 AM – 11:00 PM"
-    - "Wednesday: 11:00 AM – 11:00 PM"
-    - "Thursday: 11:00 AM – 11:00 PM"
-    - "Friday: 11:00 AM – 11:00 PM"
-    - "Saturday: 11:00 AM – 11:00 PM"
-    - "Sunday: 11:00 AM – 11:00 PM"
+    - 'Monday: 11:00 AM – 11:00 PM'
+    - 'Tuesday: 11:00 AM – 11:00 PM'
+    - 'Wednesday: 11:00 AM – 11:00 PM'
+    - 'Thursday: 11:00 AM – 11:00 PM'
+    - 'Friday: 11:00 AM – 11:00 PM'
+    - 'Saturday: 11:00 AM – 11:00 PM'
+    - 'Sunday: 11:00 AM – 11:00 PM'
 tags:
-  - "mong kok"
-  - "old quarter"
-quickAnswer: "618 Shanghai Street in Mong Kok is a row of pre-war Kowloon shophouses that Hong Kong's Urban Renewal Authority restored and turned into a dining and retail block. It is open daily from 11am to 11pm, and the listed address is 2/F, 618 Shanghai St. Walk west from Mong Kok MTR, give yourself 30 to 60 minutes, and check the current tenant list before you go, because the shops and restaurants inside change."
+  - mong kok
+  - old quarter
+quickAnswer: >-
+  618 Shanghai Street in Mong Kok is a row of pre-war Kowloon shophouses that
+  Hong Kong's Urban Renewal Authority restored and turned into a dining and
+  retail block. It is open daily from 11am to 11pm, and the listed address is
+  2/F, 618 Shanghai St. Walk west from Mong Kok MTR, give yourself 30 to 60
+  minutes, and check the current tenant list before you go, because the shops
+  and restaurants inside change.
 faq:
-  - q: "What is 618 Shanghai Street?"
-    a: "It is a row of pre-war tong lau shophouses on Shanghai Street in Mong Kok. The Urban Renewal Authority restored them and converted them into a block of shops and restaurants. The listed address is 2/F, 618 Shanghai St, Mong Kok, Kowloon."
-  - q: "How do I get there from the MTR?"
-    a: "Take the Tsuen Wan or Kwun Tong line to Mong Kok station. Leave towards Argyle Street and Langham Place, then walk west past Nathan Road to Shanghai Street. The walk takes about five to ten minutes."
-  - q: "What are the opening hours?"
-    a: "The block is listed as open every day from 11am to 11pm, with no closing day. Individual restaurants inside may stop serving earlier, so check with the tenant you plan to visit."
-  - q: "How long should I spend there?"
-    a: "Allow 30 to 60 minutes to look at the façade and walk the floors. Allow longer if you eat inside. Most visitors combine it with a walk south along Shanghai Street towards Yau Ma Tei and Temple Street Night Market."
-  - q: "What else is nearby?"
-    a: "Langham Place is close to Mong Kok MTR. Ladies' Market on Tung Choi Street is east across Nathan Road. The kitchenware shops of lower Shanghai Street and Temple Street Night Market are a walk south in Yau Ma Tei."
+  - q: What is 618 Shanghai Street?
+    a: >-
+      It is a row of pre-war tong lau shophouses on Shanghai Street in Mong Kok.
+      The Urban Renewal Authority restored them and converted them into a block
+      of shops and restaurants. The listed address is 2/F, 618 Shanghai St, Mong
+      Kok, Kowloon.
+  - q: How do I get there from the MTR?
+    a: >-
+      Take the Tsuen Wan or Kwun Tong line to Mong Kok station. Leave towards
+      Argyle Street and Langham Place, then walk west past Nathan Road to
+      Shanghai Street. The walk takes about five to ten minutes.
+  - q: What are the opening hours?
+    a: >-
+      The block is listed as open every day from 11am to 11pm, with no closing
+      day. Individual restaurants inside may stop serving earlier, so check with
+      the tenant you plan to visit.
+  - q: How long should I spend there?
+    a: >-
+      Allow 30 to 60 minutes to look at the façade and walk the floors. Allow
+      longer if you eat inside. Most visitors combine it with a walk south along
+      Shanghai Street towards Yau Ma Tei and Temple Street Night Market.
+  - q: What else is nearby?
+    a: >-
+      Langham Place is close to Mong Kok MTR. Ladies' Market on Tung Choi Street
+      is east across Nathan Road. The kitchenware shops of lower Shanghai Street
+      and Temple Street Night Market are a walk south in Yau Ma Tei.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-11'
 ---
 
 ## A Row of Tong Lau That Survived

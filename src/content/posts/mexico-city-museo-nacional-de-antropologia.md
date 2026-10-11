@@ -1,45 +1,57 @@
 ---
-title: "Museo Nacional de Antropología: Mexico City Travel Guide"
-description: "The Museo Nacional de Antropología sits on Paseo de la Reforma inside Bosque de Chapultepec, on the edge of Polanco in Mexico City. 4.8★ (92,348 reviews) — what visitors say, hours, and tips."
-country: "Mexico"
-region: "Mexico City"
-category: "attraction"
-pubDate: "2026-10-05T16:21:22.847Z"
+title: 'Museo Nacional de Antropología: Mexico City Travel Guide'
+description: >-
+  The Museo Nacional de Antropología sits on Paseo de la Reforma inside Bosque
+  de Chapultepec, on the edge of Polanco in Mexico City. 4.8★ (92,473 reviews) —
+  what visitors say, hours, and tips.
+country: Mexico
+region: Mexico City
+category: attraction
+pubDate: '2026-10-05T16:21:22.847Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/M%C3%A1scara_prehisp%C3%A1nica_-_Museo_Nacional_de_Antropolog%C3%ADa_%28M%C3%A9xico%29_08.jpg/3840px-M%C3%A1scara_prehisp%C3%A1nica_-_Museo_Nacional_de_Antropolog%C3%ADa_%28M%C3%A9xico%29_08.jpg"
-  credit: "Photo: Juan Carlos Fonseca Mata / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:M%C3%A1scara_prehisp%C3%A1nica_-_Museo_Nacional_de_Antropolog%C3%ADa_(M%C3%A9xico)_08.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/M%C3%A1scara_prehisp%C3%A1nica_-_Museo_Nacional_de_Antropolog%C3%ADa_%28M%C3%A9xico%29_08.jpg/3840px-M%C3%A1scara_prehisp%C3%A1nica_-_Museo_Nacional_de_Antropolog%C3%ADa_%28M%C3%A9xico%29_08.jpg
+  credit: 'Photo: Juan Carlos Fonseca Mata / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:M%C3%A1scara_prehisp%C3%A1nica_-_Museo_Nacional_de_Antropolog%C3%ADa_(M%C3%A9xico)_08.jpg
+  via: act
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Museo_Nacional_de_Antropolog%C3%ADa_-_Wiki_takes_Antropolog%C3%ADa_021.jpg/3840px-Museo_Nacional_de_Antropolog%C3%ADa_-_Wiki_takes_Antropolog%C3%ADa_021.jpg"
-    credit: "Photo: Photograph by Mike Peel (www.mikepeel.net). / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Museo_Nacional_de_Antropolog%C3%ADa_-_Wiki_takes_Antropolog%C3%ADa_021.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Museo_Nacional_de_Antropolog%C3%ADa_-_Wiki_takes_Antropolog%C3%ADa_021.jpg/3840px-Museo_Nacional_de_Antropolog%C3%ADa_-_Wiki_takes_Antropolog%C3%ADa_021.jpg
+    credit: >-
+      Photo: Photograph by Mike Peel (www.mikepeel.net). / Wikimedia Commons (CC
+      BY-SA 4.0)
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Museo_Nacional_de_Antropolog%C3%ADa_-_Wiki_takes_Antropolog%C3%ADa_021.jpg
 place:
-  id: "ChIJScjIILQB0oURJMVub-MaI4Q"
-  name: "Museo Nacional de Antropología"
-  address: "Av. P.º de la Reforma s/n, Polanco, Bosque de Chapultepec I Secc, Miguel Hidalgo, 11560 Ciudad de México, CDMX, Mexico"
+  id: ChIJScjIILQB0oURJMVub-MaI4Q
+  name: Museo Nacional de Antropología
+  address: >-
+    Av. P.º de la Reforma s/n, Polanco, Bosque de Chapultepec I Secc, Miguel
+    Hidalgo, 11560 Ciudad de México, CDMX, Mexico
   rating: 4.8
-  userRatingsTotal: 92348
-  googleMapsUrl: "https://maps.google.com/?cid=9521483601320789284&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 92473
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9521483601320789284&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 19.426003200000004
   lng: -99.1862786
-  phone: "+52 55 5553 6332"
+  phone: +52 55 5553 6332
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 9:00 AM – 5:00 PM"
-    - "Wednesday: 9:00 AM – 5:00 PM"
-    - "Thursday: 9:00 AM – 5:00 PM"
-    - "Friday: 9:00 AM – 5:00 PM"
-    - "Saturday: 9:00 AM – 5:00 PM"
-    - "Sunday: 9:00 AM – 5:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 9:00 AM – 5:00 PM'
+    - 'Wednesday: 9:00 AM – 5:00 PM'
+    - 'Thursday: 9:00 AM – 5:00 PM'
+    - 'Friday: 9:00 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 5:00 PM'
+    - 'Sunday: 9:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-10-05
+    updated: 2026-10-05T00:00:00.000Z
     weekendBusy:
       - 10
       - 11
@@ -48,24 +60,47 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_513449614d2d6275564d4a52556f3042514c49496a63534a496843"
+    venueId: ven_513449614d2d6275564d4a52556f3042514c49496a63534a496843
 tags:
-  - "mexico city"
-  - "museum"
-quickAnswer: "The Museo Nacional de Antropología sits on Paseo de la Reforma inside Bosque de Chapultepec, on the edge of Polanco in Mexico City. It holds Mexico's greatest collection of pre-Hispanic art, including the Aztec Sun Stone and an Olmec colossal head. It opens Tuesday to Sunday from 9am to 5pm and closes Mondays. Weekends are packed from 10am to 5pm, so go on a weekday or get there at 9am."
+  - mexico city
+  - museum
+quickAnswer: >-
+  The Museo Nacional de Antropología sits on Paseo de la Reforma inside Bosque
+  de Chapultepec, on the edge of Polanco in Mexico City. It holds Mexico's
+  greatest collection of pre-Hispanic art, including the Aztec Sun Stone and an
+  Olmec colossal head. It opens Tuesday to Sunday from 9am to 5pm and closes
+  Mondays. Weekends are packed from 10am to 5pm, so go on a weekday or get there
+  at 9am.
 faq:
-  - q: "When is the quietest time to visit the Museo Nacional de Antropología?"
-    a: "Weekends are busiest from 10am to 5pm, so go Tuesday to Friday if you can. On a Saturday or Sunday, be at the door when it opens at 9am, before the 10am rush. It is closed on Mondays."
-  - q: "How do I get to the museum by public transport?"
-    a: "Auditorio station on Metro Line 7 is the closest, a short walk along Paseo de la Reforma. Chapultepec station on Line 1 is a longer walk through the park. Metrobús Line 7 also runs along Reforma past the entrance."
-  - q: "How long should I spend there?"
-    a: "Allow at least three hours for the main ground-floor halls: Mexica, Teotihuacan, Maya and the Gulf Coast. To see the upstairs ethnography floor properly, plan on most of a day."
-  - q: "What are the highlights I shouldn't miss?"
-    a: "The Sun Stone and the Coatlicue statue in the Sala Mexica, the Olmec colossal head and the Pakal tomb reproduction in the Maya hall. Spend a few minutes under the 'El Paraguas' fountain canopy in the central courtyard too."
-  - q: "What else is nearby?"
-    a: "The museum is inside Bosque de Chapultepec. Museo Tamayo and Museo de Arte Moderno are within walking distance, and so are Castillo de Chapultepec and the Chapultepec lake. Polanco's restaurants are just to the north."
+  - q: When is the quietest time to visit the Museo Nacional de Antropología?
+    a: >-
+      Weekends are busiest from 10am to 5pm, so go Tuesday to Friday if you can.
+      On a Saturday or Sunday, be at the door when it opens at 9am, before the
+      10am rush. It is closed on Mondays.
+  - q: How do I get to the museum by public transport?
+    a: >-
+      Auditorio station on Metro Line 7 is the closest, a short walk along Paseo
+      de la Reforma. Chapultepec station on Line 1 is a longer walk through the
+      park. Metrobús Line 7 also runs along Reforma past the entrance.
+  - q: How long should I spend there?
+    a: >-
+      Allow at least three hours for the main ground-floor halls: Mexica,
+      Teotihuacan, Maya and the Gulf Coast. To see the upstairs ethnography
+      floor properly, plan on most of a day.
+  - q: What are the highlights I shouldn't miss?
+    a: >-
+      The Sun Stone and the Coatlicue statue in the Sala Mexica, the Olmec
+      colossal head and the Pakal tomb reproduction in the Maya hall. Spend a
+      few minutes under the 'El Paraguas' fountain canopy in the central
+      courtyard too.
+  - q: What else is nearby?
+    a: >-
+      The museum is inside Bosque de Chapultepec. Museo Tamayo and Museo de Arte
+      Moderno are within walking distance, and so are Castillo de Chapultepec
+      and the Chapultepec lake. Polanco's restaurants are just to the north.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-11'
 ---
 
 ## Under the Umbrella

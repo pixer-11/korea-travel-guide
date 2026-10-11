@@ -1,26 +1,33 @@
 ---
 title: 'Taqueria Arandas: Where to Eat in Mexico City (4.2★)'
-description: Taqueria Arandas sits at Av. 5 de Mayo 46 in Mexico City's Centro Histórico, a few blocks from the Zócalo, and it is open 24 hours every day. 4.2★ (11,599 reviews) — what visitors say, hours, and tips.
+description: >-
+  Taqueria Arandas sits at Av. 5 de Mayo 46 in Mexico City's Centro Histórico, a
+  few blocks from the Zócalo, and it is open 24 hours every day. 4.2★ (11,604
+  reviews) — what visitors say, hours, and tips.
 country: Mexico
 region: Mexico City
 category: restaurant
 pubDate: '2026-10-04T13:44:41.664Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/6480196_wEDYQ92nzFs-cG4zAbyyves2O-Ehoe75nZw6j4wkTw0.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/6480196_wEDYQ92nzFs-cG4zAbyyves2O-Ehoe75nZw6j4wkTw0.jpg
   credit: 'Photo: Foursquare user content (Arandas Taqueria)'
   license: foursquare
-  source: https://foursquare.com/v/4dc1b5e98877c00d6adf16d5
+  source: 'https://foursquare.com/v/4dc1b5e98877c00d6adf16d5'
   focus:
     x: 35
     'y': 45
 place:
   id: ChIJ-ShvOC350YUR87Tj8la5vB0
   name: Taqueria Arandas
-  address: Av. 5 de Mayo 46, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX, Mexico
+  address: >-
+    Av. 5 de Mayo 46, Centro Histórico de la Cdad. de México, Centro,
+    Cuauhtémoc, 06000 Ciudad de México, CDMX, Mexico
   rating: 4.2
-  userRatingsTotal: 11599
+  userRatingsTotal: 11604
   priceLevel: 2
-  googleMapsUrl: https://maps.google.com/?cid=2142791305814848755&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2142791305814848755&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 19.4343233
   lng: -99.1358652
@@ -65,19 +72,35 @@ place:
 tags:
   - mexico city
   - street food
-quickAnswer: Taqueria Arandas sits at Av. 5 de Mayo 46 in Mexico City's Centro Histórico, a few blocks from the Zócalo, and it is open 24 hours every day. For the shortest wait, go between 7am and 10am on any day. On weekends, avoid 12pm to 11pm, when it is at its busiest.
+quickAnswer: >-
+  Taqueria Arandas sits at Av. 5 de Mayo 46 in Mexico City's Centro Histórico, a
+  few blocks from the Zócalo, and it is open 24 hours every day. For the
+  shortest wait, go between 7am and 10am on any day. On weekends, avoid 12pm to
+  11pm, when it is at its busiest.
 faq:
   - q: When is the quietest time to visit Taqueria Arandas?
-    a: Between 7am and 10am, on weekdays and weekends alike. Avoid weekends from 12pm to 11pm, which is the busiest stretch.
+    a: >-
+      Between 7am and 10am, on weekdays and weekends alike. Avoid weekends from
+      12pm to 11pm, which is the busiest stretch.
   - q: Is Taqueria Arandas open late at night?
-    a: Yes. It is listed as open 24 hours, seven days a week.
+    a: 'Yes. It is listed as open 24 hours, seven days a week.'
   - q: How do I get there by Metro?
-    a: Allende station (Line 2) is the closest, a couple of blocks north. Zócalo/Tenochtitlan (Line 2) and Bellas Artes (Lines 2 and 8) are also a short walk along Avenida 5 de Mayo.
+    a: >-
+      Allende station (Line 2) is the closest, a couple of blocks north.
+      Zócalo/Tenochtitlan (Line 2) and Bellas Artes (Lines 2 and 8) are also a
+      short walk along Avenida 5 de Mayo.
   - q: What kind of food does it serve?
-    a: Casual taco-truck-style fare at budget-to-mid-range prices. It's a no-frills outpost of a long-running chain. Prices are posted on the menu at the counter.
+    a: >-
+      Casual taco-truck-style fare at budget-to-mid-range prices. It's a
+      no-frills outpost of a long-running chain. Prices are posted on the menu
+      at the counter.
   - q: What's nearby?
-    a: The Zócalo, the Metropolitan Cathedral, the Templo Mayor, the Casa de los Azulejos, the Torre Latinoamericana and the Palacio de Bellas Artes are all within walking distance.
+    a: >-
+      The Zócalo, the Metropolitan Cathedral, the Templo Mayor, the Casa de los
+      Azulejos, the Torre Latinoamericana and the Palacio de Bellas Artes are
+      all within walking distance.
 aiGenerated: true
+updatedDate: '2026-10-11'
 ---
 
 ## Tacos on Avenida 5 de Mayo

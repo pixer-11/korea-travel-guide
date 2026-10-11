@@ -1,55 +1,84 @@
 ---
 title: 'Kharakhorum Museum: Kharkhorin Travel Guide (4.5★)'
-description: Kharakhorum Museum in Kharkhorin, Övörkhangai, is the compact modern museum that shows you what the Mongol Empire's 13th-century capital looked like, through excavated finds and a large scale model of the walled city. 4.5★ (740 reviews) — what visitors say, hours, and tips.
-country: "Mongolia"
+description: >-
+  Kharakhorum Museum in Kharkhorin, Övörkhangai, is the compact modern museum
+  that shows you what the Mongol Empire's 13th-century capital looked like,
+  through excavated finds and a large scale model of the walled city. 4.5★ (741
+  reviews) — what visitors say, hours, and tips.
+country: Mongolia
 region: Kharkhorin
-category: "attraction"
+category: attraction
 pubDate: '2026-10-11T17:51:11.173Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Kharakhorum_Museum.jpg/1920px-Kharakhorum_Museum.jpg"
-  credit: "Photo: Chongkian / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Kharakhorum_Museum.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Kharakhorum_Museum.jpg/1920px-Kharakhorum_Museum.jpg
+  credit: 'Photo: Chongkian / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Kharakhorum_Museum.jpg'
   focus:
     x: 55
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJb1wNJPftnF0RTKdBxGObDKs"
-  name: "Kharakhorum Museum"
-  address: "5RWQ+4M9 Khushuu Tsaidam Rd, Harhorin, Ovorkhangai, Mongolia"
+  id: ChIJb1wNJPftnF0RTKdBxGObDKs
+  name: Kharakhorum Museum
+  address: '5RWQ+4M9 Khushuu Tsaidam Rd, Harhorin, Ovorkhangai, Mongolia'
   rating: 4.5
-  userRatingsTotal: 740
-  googleMapsUrl: "https://maps.google.com/?cid=12325397133002909516&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 741
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=12325397133002909516&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 47.1952935
   lng: 102.83922489999999
-  phone: "+976 7032 7811"
+  phone: +976 7032 7811
   openingHours:
-    - "Monday: 9:00 AM – 6:00 PM"
-    - "Tuesday: 9:00 AM – 6:00 PM"
-    - "Wednesday: 9:00 AM – 6:00 PM"
-    - "Thursday: 9:00 AM – 6:00 PM"
-    - "Friday: 9:00 AM – 6:00 PM"
-    - "Saturday: 9:00 AM – 6:00 PM"
-    - "Sunday: 9:00 AM – 6:00 PM"
+    - 'Monday: 9:00 AM – 6:00 PM'
+    - 'Tuesday: 9:00 AM – 6:00 PM'
+    - 'Wednesday: 9:00 AM – 6:00 PM'
+    - 'Thursday: 9:00 AM – 6:00 PM'
+    - 'Friday: 9:00 AM – 6:00 PM'
+    - 'Saturday: 9:00 AM – 6:00 PM'
+    - 'Sunday: 9:00 AM – 6:00 PM'
 tags:
   - kharkhorin
   - museum
-quickAnswer: Kharakhorum Museum in Kharkhorin, Övörkhangai, is the compact modern museum that shows you what the Mongol Empire's 13th-century capital looked like, through excavated finds and a large scale model of the walled city. Give it 1–1.5 hours and pair it with Erdene Zuu Monastery nearby. At the moment it opens 9am–6pm every day, but museum hours shift through the year, so check before you set out.
+quickAnswer: >-
+  Kharakhorum Museum in Kharkhorin, Övörkhangai, is the compact modern museum
+  that shows you what the Mongol Empire's 13th-century capital looked like,
+  through excavated finds and a large scale model of the walled city. Give it
+  1–1.5 hours and pair it with Erdene Zuu Monastery nearby. At the moment it
+  opens 9am–6pm every day, but museum hours shift through the year, so check
+  before you set out.
 faq:
   - q: How long do I need at the Kharakhorum Museum?
-    a: Around 1–1.5 hours covers the galleries and the scale model comfortably. Add another 1–2 hours if you're also visiting Erdene Zuu Monastery nearby, which most people do.
+    a: >-
+      Around 1–1.5 hours covers the galleries and the scale model comfortably.
+      Add another 1–2 hours if you're also visiting Erdene Zuu Monastery nearby,
+      which most people do.
   - q: What are the opening hours?
-    a: At the moment it opens 9am–6pm, Monday to Sunday. Museum hours can change through the year and on holidays, so confirm before travelling, especially outside summer.
+    a: >-
+      At the moment it opens 9am–6pm, Monday to Sunday. Museum hours can change
+      through the year and on holidays, so confirm before travelling, especially
+      outside summer.
   - q: How do I get to Kharkhorin from Ulaanbaatar?
-    a: It's roughly 360 km west by paved road, usually 6–7 hours. Buses leave from Ulaanbaatar's Dragon bus station; many visitors come on a driver-guided Orkhon Valley tour instead. Drivers in town all know the museum.
+    a: >-
+      It's roughly 360 km west by paved road, usually 6–7 hours. Buses leave
+      from Ulaanbaatar's Dragon bus station; many visitors come on a
+      driver-guided Orkhon Valley tour instead. Drivers in town all know the
+      museum.
   - q: Should I visit the museum before or after Erdene Zuu?
-    a: Before. The museum's scale model and excavated finds show you the layout of the old Karakorum, which makes the monastery, its reused stone and the empty field outside much easier to understand.
+    a: >-
+      Before. The museum's scale model and excavated finds show you the layout
+      of the old Karakorum, which makes the monastery, its reused stone and the
+      empty field outside much easier to understand.
   - q: What else is near the museum?
-    a: Erdene Zuu Monastery and its wall of 108 stupas, the granite Turtle Rocks that once marked the city's edges, and the Mongol Empire monument on the hill above town are all within a short drive.
+    a: >-
+      Erdene Zuu Monastery and its wall of 108 stupas, the granite Turtle Rocks
+      that once marked the city's edges, and the Mongol Empire monument on the
+      hill above town are all within a short drive.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-11'
 ---
 ## A capital you can only see in miniature
 
