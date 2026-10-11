@@ -2471,7 +2471,6 @@
   "takamatsu-ritsurin-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Ritsurin_park16s3200.jpg/1920px-Ritsurin_park16s3200.jpg": 1920,
   "takamatsu-takamatsu-castle-park\u0001https://upload.wikimedia.org/wikipedia/commons/1/1e/Takamatsu-Castle.jpg": 1632,
   "matsuyama-matsuyama-general-park\u0001https://upload.wikimedia.org/wikipedia/commons/8/8a/Matsuyama_General_Park_20240703_%284%29.jpg": 3600,
-  "singapore-bar-kap-house-of-tan-yeok-nee\u0001https://fastly.4sqi.net/img/general/original/13010698_V9HLqmUHRy_CL-TucVqq3D9EFLquoOzbl-R0jPplGuI.jpg": 1440,
   "alice-springs-anzac-hill\u0001https://fastly.4sqi.net/img/general/original/8906098_1wmLqvjGPwYmwunsGYEtxQvSSSEDC0W3KJFcoBqQ6_s.jpg": 1920,
   "okayama-hayashibara-museum-of-art\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Gate_-_Hayashibara_Museum_of_Art_-_DSC01773.JPG/1920px-Gate_-_Hayashibara_Museum_of_Art_-_DSC01773.JPG": 1920,
   "okayama-kurashiki-bikan-historical-quarter\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/161015_At_Kurashiki_Bikan_historical_quarter_Kurashiki_Okayama_pref_Japan01s3.jpg/3840px-161015_At_Kurashiki_Bikan_historical_quarter_Kurashiki_Okayama_pref_Japan01s3.jpg": 3840,
@@ -2497,7 +2496,10 @@
   "ulaanbaatar-manzushir-monastery\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Manzushir_Monastery.jpg/1920px-Manzushir_Monastery.jpg": 1920,
   "ulaanbaatar-state-department-store\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Ikh_Delguur_2023.jpg/1920px-Ikh_Delguur_2023.jpg": 1920,
   "ulaanbaatar-sukhbaatar-square\u0001https://upload.wikimedia.org/wikipedia/commons/c/c9/Chinggis_Square.jpg": 1800,
-  "ulaanbaatar-zanabazar-museum-of-fine-arts\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/The_Fine_Arts_Zanabazar_Museum.jpg/1920px-The_Fine_Arts_Zanabazar_Museum.jpg": 1920
+  "ulaanbaatar-zanabazar-museum-of-fine-arts\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/The_Fine_Arts_Zanabazar_Museum.jpg/1920px-The_Fine_Arts_Zanabazar_Museum.jpg": 1920,
+  "kharkhorin-erdene-zuu-monastery\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/%C5%9Awi%C4%85tynia_Zachodnia_w_klasztorze_Erdene_Dzuu_01.jpg/1920px-%C5%9Awi%C4%85tynia_Zachodnia_w_klasztorze_Erdene_Dzuu_01.jpg": 1920,
+  "kharkhorin-kharakhorum-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Kharakhorum_Museum.jpg/1920px-Kharakhorum_Museum.jpg": 1920,
+  "ulaanbaatar-national-museum-of-mongolia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/National_Museum_of_Mongolia_%282023%29.jpg/1920px-National_Museum_of_Mongolia_%282023%29.jpg": 1920
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -2581,13 +2583,6 @@
    "width": 760,
    "attempts": 4,
    "nextTry": "2026-09-13",
-   "flaggedAt": "2026-08-16",
-   "lastResult": "no-wider"
-  },
-  "naples-city-view": {
-   "width": 1024,
-   "attempts": 8,
-   "nextTry": "2026-10-11",
    "flaggedAt": "2026-08-16",
    "lastResult": "no-wider"
   },
@@ -2740,15 +2735,15 @@
   },
   "istanbul-lina-anatolian": {
    "width": 1024,
-   "attempts": 3,
-   "nextTry": "2026-10-11",
+   "attempts": 4,
+   "nextTry": "2026-10-18",
    "flaggedAt": "2026-09-17",
    "lastResult": "no-wider"
   },
   "jakarta-esa": {
    "width": 1080,
-   "attempts": 3,
-   "nextTry": "2026-10-11",
+   "attempts": 4,
+   "nextTry": "2026-10-18",
    "flaggedAt": "2026-09-17",
    "lastResult": "no-wider"
   },
@@ -2789,8 +2784,8 @@
   },
   "istanbul-bosphorus-view-point": {
    "width": 875,
-   "attempts": 2,
-   "nextTry": "2026-10-11",
+   "attempts": 3,
+   "nextTry": "2026-10-18",
    "flaggedAt": "2026-09-21",
    "lastResult": "no-wider"
   },
@@ -3027,5 +3022,5 @@
    "flaggedAt": "2026-10-05"
   }
  },
- "updated": "2026-10-11T14:34:18.071Z"
+ "updated": "2026-10-11T23:07:18.833Z"
 }

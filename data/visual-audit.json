@@ -2290,6 +2290,12 @@
   "reason": "patrol reject: Religious offering scene, not a roastery/cafe venue",
   "at": "2026-08-20T19:57:56.622Z"
  },
+ "bangkok-roast8ry-song-wat\u0001https://fastly.4sqi.net/img/general/original/1365730110_r8dDQGA0Aah1y7IAeXqdz1UJ3ZJ0bwCtrwzFil7sFqg.jpg": {
+  "slug": "bangkok-roast8ry-song-wat",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Building under construction with scaffolding, not representative",
+  "at": "2026-10-11T23:04:48.464Z"
+ },
  "bangkok-roast8ry-song-wat\u0001https://fastly.4sqi.net/img/general/original/136749475_cz7jJLl1cqSXpSvC1AJe5nP7y8nUg0YWZxQMZgdYdk8.jpg": {
   "slug": "bangkok-roast8ry-song-wat",
   "verdict": "MISMATCH",
@@ -2308,17 +2314,35 @@
   "reason": "patrol reject: Buddhist temple, not a trendy cafe/roastery",
   "at": "2026-08-23T19:47:30.830Z"
  },
+ "bangkok-roast8ry-song-wat\u0001https://fastly.4sqi.net/img/general/original/14243708_4kmPEOZ6NbUtEOClZkys2uw1uOSUqvVbO0tE33Fs8Hg.jpg": {
+  "slug": "bangkok-roast8ry-song-wat",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Photo of a text sign/notice, not the venue",
+  "at": "2026-10-11T23:04:50.166Z"
+ },
  "bangkok-roast8ry-song-wat\u0001https://fastly.4sqi.net/img/general/original/16925602_O4RPWJfpgXIJ5EhHbof64aL5CAC6qzcNA325A4--KLY.jpg": {
   "slug": "bangkok-roast8ry-song-wat",
   "verdict": "MISMATCH",
   "reason": "patrol reject: Thai temple architecture, not a trendy roastery cafe",
   "at": "2026-08-23T19:47:25.731Z"
  },
+ "bangkok-roast8ry-song-wat\u0001https://fastly.4sqi.net/img/general/original/21066725_LIAms8S_wImFI3dEJZ--OAecALJYaDEMh8idJj34Ekc.jpg": {
+  "slug": "bangkok-roast8ry-song-wat",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Thai temple mural, not a Bangkok cafe/roastery",
+  "at": "2026-10-11T23:04:44.761Z"
+ },
  "bangkok-roast8ry-song-wat\u0001https://fastly.4sqi.net/img/general/original/22205054_rmHEd75wGtdnX6sJEM_cZwI8gWtNh_lhE_emOcfcs8E.jpg": {
   "slug": "bangkok-roast8ry-song-wat",
   "verdict": "MISMATCH",
   "reason": "patrol reject: Thai temple, unrelated to a Bangkok cafe/roastery venue",
   "at": "2026-08-20T19:57:53.283Z"
+ },
+ "bangkok-roast8ry-song-wat\u0001https://fastly.4sqi.net/img/general/original/25379620_UdYPYm-jBEUDw5Hm8l975zvXRnloRujpDALQlgeTLU0.jpg": {
+  "slug": "bangkok-roast8ry-song-wat",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Buddhist temple interior, unrelated to trendy cafe venue",
+  "at": "2026-10-11T23:04:46.402Z"
  },
  "bangkok-roast8ry-song-wat\u0001https://fastly.4sqi.net/img/general/original/74337666_E-qBQIl8PrjHArauSMXTwB--mYuGThlswdEIY6Wj0pw.jpg": {
   "slug": "bangkok-roast8ry-song-wat",
@@ -7762,8 +7786,8 @@
  "goyang-charlie-puth-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Charlie_Puth%2C_Regency_Ballroom%2C_San_Francisco_%28Nine_Track_Mind_Tour%29_1.jpg/3840px-Charlie_Puth%2C_Regency_Ballroom%2C_San_Francisco_%28Nine_Track_Mind_Tour%29_1.jpg": {
   "slug": "goyang-charlie-puth-concert",
   "verdict": "MATCH",
-  "reason": "patrol replace: Concert performance with stage lighting, audience present",
-  "at": "2026-10-09T23:25:59.830Z"
+  "reason": "patrol replace: Concert performance with stage lighting and musicians",
+  "at": "2026-10-11T23:05:06.749Z"
  },
  "goyang-charlie-puth-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Charlie_Puth%2C_Regency_Ballroom%2C_San_Francisco_%28Nine_Track_Mind_Tour%29_2.jpg/3840px-Charlie_Puth%2C_Regency_Ballroom%2C_San_Francisco_%28Nine_Track_Mind_Tour%29_2.jpg": {
   "slug": "goyang-charlie-puth-concert",
@@ -12134,6 +12158,18 @@
   "reason": "publish gate: Ornate temple roof gable, consistent with Wat Sampov Pram",
   "at": "2026-08-27T18:22:48.369Z"
  },
+ "kharkhorin-erdene-zuu-monastery\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/%C5%9Awi%C4%85tynia_Zachodnia_w_klasztorze_Erdene_Dzuu_01.jpg/1920px-%C5%9Awi%C4%85tynia_Zachodnia_w_klasztorze_Erdene_Dzuu_01.jpg": {
+  "slug": "kharkhorin-erdene-zuu-monastery",
+  "verdict": "MATCH",
+  "reason": "patrol re-check: Genuine temple building matching Erdene Zuu Monastery architecture",
+  "at": "2026-10-11T23:05:16.136Z"
+ },
+ "kharkhorin-kharakhorum-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Kharakhorum_Museum.jpg/1920px-Kharakhorum_Museum.jpg": {
+  "slug": "kharkhorin-kharakhorum-museum",
+  "verdict": "MATCH",
+  "reason": "patrol re-check: Exterior of Kharkhorum Museum with sign, plausible venue photo",
+  "at": "2026-10-11T23:05:17.920Z"
+ },
  "khiva-islam-khoja-minaret\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/%E6%97%A7%E5%B8%82%E8%A1%97%E5%9C%B0%E3%81%A8Islam_Khoja_Minaret_2023.jpg/3840px-%E6%97%A7%E5%B8%82%E8%A1%97%E5%9C%B0%E3%81%A8Islam_Khoja_Minaret_2023.jpg": {
   "slug": "khiva-islam-khoja-minaret",
   "verdict": "MATCH",
@@ -13874,8 +13910,8 @@
  "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia\u0001https://upload.wikimedia.org/wikipedia/commons/e/ee/Vladimir_leonov_motogp.jpg": {
   "slug": "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia",
   "verdict": "MATCH",
-  "reason": "patrol replace: MotoGP racer at circuit with safety barriers",
-  "at": "2026-10-09T23:27:52.117Z"
+  "reason": "patrol replace: MotoGP motorcycle racing at circuit with safety barriers",
+  "at": "2026-10-11T23:05:57.296Z"
  },
  "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Alvaro_Bautista-motogp-2015.JPG/3840px-Alvaro_Bautista-motogp-2015.JPG": {
   "slug": "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia",
@@ -16800,6 +16836,12 @@
   "reasonKo": "소렌토 해변, 나폴리 시내 아님",
   "at": "2026-08-06T14:58:51.964Z"
  },
+ "naples-city-view\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Panorama_view_of_bay_and_the_city_Naples%2C_Campania%2C_Italy%2C_May_2005_%2852104979928%29.jpg/3840px-Panorama_view_of_bay_and_the_city_Naples%2C_Campania%2C_Italy%2C_May_2005_%2852104979928%29.jpg": {
+  "slug": "naples-city-view",
+  "verdict": "MATCH",
+  "reason": "width upgrade: Panoramic Naples cityscape with Vesuvius, representative city view",
+  "at": "2026-10-11T23:07:03.889Z"
+ },
  "naples-mercato-pignasecca\u0001https://upload.wikimedia.org/wikipedia/commons/6/60/Fish_at_Mercato_Pignasecca_%284122802618%29.jpg": {
   "slug": "naples-mercato-pignasecca",
   "verdict": "MATCH",
@@ -18810,6 +18852,12 @@
   "verdict": "MATCH",
   "reason": "patrol replace: Concert stage with professional lighting setup",
   "at": "2026-10-10T22:52:27.364Z"
+ },
+ "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/5_Seconds_of_Summer_First_USA_Acoustic_IMG_3668_%2814851973025%29.jpg/3840px-5_Seconds_of_Summer_First_USA_Acoustic_IMG_3668_%2814851973025%29.jpg": {
+  "slug": "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Live band performance on stage with professional lighting",
+  "at": "2026-10-11T23:06:25.380Z"
  },
  "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/5_Seconds_of_Summer_First_USA_Acoustic_IMG_3665_%2814665446017%29.jpg/3840px-5_Seconds_of_Summer_First_USA_Acoustic_IMG_3665_%2814665446017%29.jpg": {
   "slug": "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour",
@@ -22911,6 +22959,12 @@
   "reason": "patrol replace: Plausibly shows BABYMONSTER members at event",
   "at": "2026-10-08T14:58:59.189Z"
  },
+ "singapore-bar-kap-house-of-tan-yeok-nee\u0001https://fastly.4sqi.net/img/general/original/13010698_Hf0GShQLVAPB_qq2gxFliSd0_F6fyfY60nL_sp4jQZk.jpg": {
+  "slug": "singapore-bar-kap-house-of-tan-yeok-nee",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Asian noodle dish, not Peranakan cuisine of Tan Yeok Nee",
+  "at": "2026-10-11T23:06:35.219Z"
+ },
  "singapore-bar-kap-house-of-tan-yeok-nee\u0001https://fastly.4sqi.net/img/general/original/13010698_V9HLqmUHRy_CL-TucVqq3D9EFLquoOzbl-R0jPplGuI.jpg": {
   "slug": "singapore-bar-kap-house-of-tan-yeok-nee",
   "verdict": "WEAK",
@@ -26246,6 +26300,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Exterior of traditional monastery building, matches venue type",
   "at": "2026-10-11T14:24:51.767Z"
+ },
+ "ulaanbaatar-national-museum-of-mongolia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/National_Museum_of_Mongolia_%282023%29.jpg/1920px-National_Museum_of_Mongolia_%282023%29.jpg": {
+  "slug": "ulaanbaatar-national-museum-of-mongolia",
+  "verdict": "MATCH",
+  "reason": "patrol re-check: Exterior of National Museum of Mongolia building, representative view",
+  "at": "2026-10-11T23:06:43.069Z"
  },
  "ulaanbaatar-state-department-store\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Ikh_Delguur_2023.jpg/1920px-Ikh_Delguur_2023.jpg": {
   "slug": "ulaanbaatar-state-department-store",

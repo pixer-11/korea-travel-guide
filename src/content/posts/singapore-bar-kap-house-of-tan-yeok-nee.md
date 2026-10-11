@@ -29,6 +29,7 @@ heroImage:
   focus:
     x: 50
     'y': 50
+draft: true
 ---
 
 Walk along Penang Road past the shopping malls and office towers of the Dhoby Ghaut stretch, and the House of Tan Yeok Nee still stops people mid-stride. It's one of the last surviving traditional Teochew courtyard mansions in Singapore, built in the 1880s for a wealthy gambier and pepper trader, and its granite pillars and swooping roofline look nothing like the glass buildings around it.
