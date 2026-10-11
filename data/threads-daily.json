@@ -81,30 +81,31 @@
     "tokyo-miss-international-2026",
     "chamonix-parc-de-merlet",
     "berlin-neues-museum",
-    "washington-dc-lincoln-memorial"
+    "washington-dc-lincoln-memorial",
+    "madrid-puerta-de-alcala"
   ],
-  "lastSentDay": "2026-10-11",
+  "lastSentDay": "2026-10-12",
   "material": {
-    "day": "2026-10-11",
-    "slug": "washington-dc-lincoln-memorial",
-    "title": "Lincoln Memorial: Washington DC Travel Guide (4.8★)",
+    "day": "2026-10-12",
+    "slug": "madrid-puerta-de-alcala",
+    "title": "Puerta de Alcalá: Madrid Travel Guide (4.7★)",
     "urls": [
-      "https://wanderatlasguides.com/og/social/2026-10-11-washington-dc-lincoln-memorial-1.jpg",
-      "https://wanderatlasguides.com/og/social/2026-10-11-washington-dc-lincoln-memorial-2.jpg",
-      "https://wanderatlasguides.com/og/social/2026-10-11-washington-dc-lincoln-memorial-3.jpg",
-      "https://wanderatlasguides.com/og/social/2026-10-11-washington-dc-lincoln-memorial-4.jpg"
+      "https://wanderatlasguides.com/og/social/2026-10-12-madrid-puerta-de-alcala-1.jpg",
+      "https://wanderatlasguides.com/og/social/2026-10-12-madrid-puerta-de-alcala-2.jpg",
+      "https://wanderatlasguides.com/og/social/2026-10-12-madrid-puerta-de-alcala-3.jpg",
+      "https://wanderatlasguides.com/og/social/2026-10-12-madrid-puerta-de-alcala-4.jpg"
     ],
-    "igCaption": "36 Doric columns, a 19-foot Lincoln, two speeches carved in stone, and a sightline straight down the National Mall to the Capitol. Go at sunrise and have the steps almost to yourself.\n\n#LincolnMemorial #WashingtonDC #UnitedStates #travelguide #travel #wanderatlas #NationalMall #TravelTips #USTravel #HistoryTravel\n📷 Photo: Martin Falbisoner / Wikimedia Commons (CC BY-SA 3.0)\n📷 Photo: Frank Schulenburg / Wikimedia Commons (CC BY-SA 4.0)",
-    "thOption": "Daniel Chester French's 19-foot Lincoln statue is assembled so seamlessly you have to search for the joints. Would you have spotted them without knowing?",
-    "link": "https://wanderatlasguides.com/posts/washington-dc-lincoln-memorial/"
+    "igCaption": "Granite below, limestone above, lion heads and cherubs carved into the stone — Madrid's Puerta de Alcalá has been watching traffic circle since 1778. Come early, skip the weekend crowds, and don't forget the song everyone in Madrid knows by heart.\n\n#PuertadeAlcala #Madrid #Spain #travelguide #travel #wanderatlas #PuertaDeAlcala #TravelGuide #RetiroPark #CityLandmarks\n📷 Photo: Fernando Pascullo / Wikimedia Commons (CC BY-SA 4.0)\n📷 Photo: Carlos Delgado / Wikimedia Commons (CC BY-SA 3.0)",
+    "thOption": "There's a 1986 song so famous that Spaniards still hum it when you mention this gate. Have you ever had a place's theme song stuck in your head before visiting?",
+    "link": "https://wanderatlasguides.com/posts/madrid-puerta-de-alcala/"
   },
   "social": {
-    "thDay": "2026-10-11",
-    "thId": "17958120345251632",
-    "igDay": "2026-10-09",
-    "igId": "18019720868731445",
-    "thSlug": "washington-dc-lincoln-memorial",
-    "igSlug": "chamonix-parc-de-merlet",
+    "thDay": "2026-10-12",
+    "thId": "17960666847233635",
+    "igDay": "2026-10-12",
+    "igId": "17879712945553425",
+    "thSlug": "madrid-puerta-de-alcala",
+    "igSlug": "madrid-puerta-de-alcala",
     "history": [
       {
         "day": "2026-10-10",
@@ -115,6 +116,12 @@
         "day": "2026-10-11",
         "slug": "washington-dc-lincoln-memorial",
         "thId": "17958120345251632"
+      },
+      {
+        "day": "2026-10-12",
+        "slug": "madrid-puerta-de-alcala",
+        "thId": "17960666847233635",
+        "igId": "17879712945553425"
       }
     ]
   }
