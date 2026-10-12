@@ -11,16 +11,6 @@ eventRecurring: true
 eventOrganizer:
   name: International Table Tennis Federation
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/a/a7/ITTF_World_Tour_2017_German_Open_Kallberg_Anton_01.jpg
-  credit: 'Photo: Peter Porai-Koshits / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:ITTF_World_Tour_2017_German_Open_Kallberg_Anton_01.jpg
-  focus:
-    x: 50
-    'y': 32
-    top: 27
-    bottom: 37
 gallery: []
 tags:
   - istanbul

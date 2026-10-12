@@ -10,16 +10,6 @@ eventEndDate: '2026-11-01'
 eventRecurring: true
 eventVenue: QSNCC
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Concert_%40_Gamescom_2012_%287816684968%29.jpg/3840px-Concert_%40_Gamescom_2012_%287816684968%29.jpg
-  credit: 'Photo: Sergey Galyonkin from Raleigh, USA / Wikimedia Commons (CC BY-SA 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Concert_@_Gamescom_2012_(7816684968).jpg
-  focus:
-    x: 61
-    'y': 35
-    top: 31
-    bottom: 39
 gallery: []
 tags:
   - bangkok

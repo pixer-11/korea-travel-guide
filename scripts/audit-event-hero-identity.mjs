@@ -112,7 +112,12 @@ for (const f of readdirSync(DIR).filter((f) => f.endsWith('.md'))) {
   const fileToks = new Set(toks(name));
   // Deduplicated: "Hanoi Jazztival 2026 in Hanoi" against Hanoi_traffic.jpg
   // scored two hits for one word and walked past review.
-  const hit = [...new Set(toks(title).filter((t) => fileToks.has(t)))];
+  // A long word also matches its own inflection: "Dani Pedrosa MotoGP
+  // Australia 2015" is the Australian Grand Prix (flagged 2026-10-12, the one
+  // right photo among seven). Six letters at least, so "young" never matches
+  // "youngfathers".
+  const same = (t) => fileToks.has(t) || [...fileToks].some((f) => Math.min(f.length, t.length) >= 6 && (f.startsWith(t) || t.startsWith(f)));
+  const hit = [...new Set(toks(title).filter(same))];
   if (hit.length >= 2) continue;   // the filename names this event; nothing to review
   // The owner's rule (09-07): any photo of the performer is right for their
   // post. A file that names the act in full, or one the patrol took from the
@@ -143,6 +148,31 @@ for (const w of (LIST ? weak : fresh)) {
   console.log(`${w.known ? '·' : 'EVENT-HERO-IDENTITY:'} ${w.slug}.md — photo: ${w.name.slice(0, 90)}`);
   console.log(`    ↳ post : ${w.title}`);
   console.log(`    ↳ shared word(s): ${w.hit.join(', ') || 'none'}`);
+}
+
+// --reject takes every fresh finding off its post with reject-hero, which also
+// records the refusal so the patrol cannot put the same file back. Events
+// publish photoless by policy, so the cost of a wrong call is a brand plate
+// until the patrol finds another photo; the cost of a right call left as a
+// warning was a different event's picture live for a day. On 2026-10-12 six
+// of the seven findings were wrong photos (Brett Young and Young Fathers for
+// Young Posse, TAEMIN for a K-pop tribute show, Gamescom Cologne 2012 for
+// gamescom asia Bangkok, a German Open player for the World Youth
+// Championships, the Kala Ghoda festival for NO ART Mumbai).
+// A hero a person pinned (set-hero → data/hero-pins.json) is never touched.
+if (process.argv.includes('--reject') && fresh.length) {
+  const { execFileSync } = await import('node:child_process');
+  const { fileURLToPath } = await import('node:url');
+  const pinsPath = new URL('../data/hero-pins.json', import.meta.url);
+  const pins = existsSync(pinsPath) ? JSON.parse(readFileSync(pinsPath, 'utf8')) : {};
+  for (const w of fresh) {
+    if (pins[w.slug]) { console.log(`  keep ${w.slug} — pinned by hand`); continue; }
+    try {
+      execFileSync(process.execPath, [fileURLToPath(new URL('./reject-hero.mjs', import.meta.url)), w.slug,
+        `--reason=filename shares ${w.hit.length ? 'only "' + w.hit.join(', ') + '"' : 'no word'} with the event title (audit-event-hero-identity --reject)`], { stdio: 'inherit' });
+    } catch (e) { console.log(`  ✗ ${w.slug}: reject-hero failed (${e.message.slice(0, 80)})`); }
+  }
+  process.exit(0);
 }
 
 // --record writes the CURRENT unreviewed set into the baseline. The seeding

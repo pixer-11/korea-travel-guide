@@ -890,6 +890,7 @@ jobs:
       # wired anywhere — the audit found a "$100 phở" draft every run and
       # nothing acted. It calls the model only for a post that has an amount.
       - name: Repair content the audits would flag
+        id: repairs
         continue-on-error: true
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
@@ -897,14 +898,30 @@ jobs:
           rc=0
           node scripts/repair-rating-floor.mjs || rc=1
           node scripts/repair-money-claims.mjs --limit 10 || rc=1
+          # An event hero whose filename names a different event comes off here
+          # (reject-hero, recorded so the patrol cannot restore it) instead of
+          # waiting in the warning below for a person — 6 of 7 such warnings on
+          # 2026-10-12 were another act's or another event's photo.
+          node scripts/audit-event-hero-identity.mjs --reject || rc=1
           exit $rc
+
+      - name: Warn if a content repair failed
+        if: steps.repairs.outcome == 'failure'
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          echo "::warning::a content repair (rating floor / invented prices / other-event heroes) failed — see the step log"
+          [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
+          TXT='⚠️ 자동 수리 단계 실패 (평점 미달·지어낸 가격·다른 행사 사진 중 하나) — GitHub Actions 로그 확인 필요'
+          curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage"             --data-urlencode "chat_id=$TELEGRAM_CHAT_ID" --data-urlencode "text=$TXT" > /dev/null || true
 
       - name: Push what the content repairs changed
         if: always()
         run: |
-          if ! git diff --quiet -- src/content/posts; then
-            git add src/content/posts
-            git commit -m "fix: rating-floor holds + invented prices removed ($(date -u +%Y-%m-%d))"
+          if ! git diff --quiet -- src/content/posts data/visual-audit.json; then
+            git add src/content/posts data/visual-audit.json
+            git commit -m "fix: rating-floor holds, invented prices, other-event heroes removed ($(date -u +%Y-%m-%d))"
             bash scripts/git-push-retry.sh
           fi
 

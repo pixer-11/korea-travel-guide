@@ -13,16 +13,6 @@ eventPerformer:
   name: Young Posse
   kind: group
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/3/37/Brett_Young_in_concert_in_July_2017.jpg
-  credit: 'Photo: Jana Beamer / Wikimedia Commons (CC BY 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Brett_Young_in_concert_in_July_2017.jpg
-  focus:
-    x: 44
-    'y': 22
-    top: 10
-    bottom: 33
 gallery: []
 tags:
   - barcelona

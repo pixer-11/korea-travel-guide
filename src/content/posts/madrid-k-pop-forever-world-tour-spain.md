@@ -9,16 +9,6 @@ eventStartDate: '2026-01-01'
 eventEndDate: '2026-12-31'
 eventRecurring: false
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/1/1b/Taemin_at_K-POP_Concert_in_October_2015_02.jpg
-  credit: 'Photo: 위드태민::WithTaemin随行 / Wikimedia Commons (CC BY 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Taemin_at_K-POP_Concert_in_October_2015_02.jpg
-  focus:
-    x: 49
-    'y': 17
-    top: 2
-    bottom: 32
 gallery: []
 tags:
   - madrid

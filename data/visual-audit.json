@@ -2134,9 +2134,9 @@
  },
  "bangkok-gamescom-asia-x-thailand-game-show-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Concert_%40_Gamescom_2012_%287816684968%29.jpg/3840px-Concert_%40_Gamescom_2012_%287816684968%29.jpg": {
   "slug": "bangkok-gamescom-asia-x-thailand-game-show-2026",
-  "verdict": "MATCH",
-  "reason": "event publish gate: Concert stage performance, matches event type generically",
-  "at": "2026-10-12T00:00:21.653Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: Gamescom Cologne 2012 concert, not gamescom asia Bangkok",
+  "at": "2026-10-12T02:00:45.105Z"
  },
  "bangkok-hidden-bangkok-tours\u0001https://fastly.4sqi.net/img/general/original/431587360_0J4hSetrtmzYN_zP4oVOjE6E93KUpCBKO5OpiwiaUDs.jpg": {
   "slug": "bangkok-hidden-bangkok-tours",
@@ -2954,9 +2954,9 @@
  },
  "barcelona-young-posse-pilot3-world-tour-barcelona\u0001https://upload.wikimedia.org/wikipedia/commons/3/37/Brett_Young_in_concert_in_July_2017.jpg": {
   "slug": "barcelona-young-posse-pilot3-world-tour-barcelona",
-  "verdict": "MATCH",
-  "reason": "event publish gate: Performer singing with guitar on stage, concert event",
-  "at": "2026-10-12T00:03:01.940Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: Brett Young, not Young Posse",
+  "at": "2026-10-12T02:00:45.370Z"
  },
  "barra-chapel-of-our-lady-of-penha\u0001https://upload.wikimedia.org/wikipedia/commons/6/6f/Chapel_of_Our_Lady_of_Penha%2C_Macau_-_panoramio.jpg": {
   "slug": "barra-chapel-of-our-lady-of-penha",
@@ -10613,9 +10613,9 @@
  },
  "istanbul-ittf-world-youth-championships-table-tennis\u0001https://upload.wikimedia.org/wikipedia/commons/a/a7/ITTF_World_Tour_2017_German_Open_Kallberg_Anton_01.jpg": {
   "slug": "istanbul-ittf-world-youth-championships-table-tennis",
-  "verdict": "MATCH",
-  "reason": "event publish gate: Table tennis athlete in action, matches event type",
-  "at": "2026-10-12T00:10:10.924Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: ITTF German Open 2017 player, not the World Youth Championships",
+  "at": "2026-10-12T02:00:45.897Z"
  },
  "istanbul-kinu\u0001https://fastly.4sqi.net/img/general/original/382824581_n8tY4mL9rQfEFjw4Qqmrdjt8YC8csa9Pj-KI_44gTI0.jpg": {
   "slug": "istanbul-kinu",
@@ -15269,9 +15269,9 @@
  },
  "madrid-k-pop-forever-world-tour-spain\u0001https://upload.wikimedia.org/wikipedia/commons/1/1b/Taemin_at_K-POP_Concert_in_October_2015_02.jpg": {
   "slug": "madrid-k-pop-forever-world-tour-spain",
-  "verdict": "MATCH",
-  "reason": "event publish gate: K-pop performer on stage, fits concert event",
-  "at": "2026-10-12T00:03:26.096Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: TAEMIN 2015, not the K-Pop Forever tribute show",
+  "at": "2026-10-12T02:00:46.151Z"
  },
  "madrid-mache\u0001https://fastly.4sqi.net/img/general/original/32101378_gcOv6AR0z-1KO78aIpwOYrYVA5JAwbxs3S1e6ff2KAc.jpg": {
   "slug": "madrid-mache",
@@ -16884,9 +16884,9 @@
  },
  "mumbai-no-art-mumbai-festival\u0001https://upload.wikimedia.org/wikipedia/commons/2/29/Art_%286%29.jpg": {
   "slug": "mumbai-no-art-mumbai-festival",
-  "verdict": "MATCH",
-  "reason": "event publish gate: Shows art festival installation and crowd event scene",
-  "at": "2026-10-12T00:07:51.366Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: Kala Ghoda Arts Festival street art, not NO ART Mumbai",
+  "at": "2026-10-12T02:00:46.416Z"
  },
  "mumbai-paradox-museum-mumbai\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Paradox_Museum_in_Mumbai.jpg/3840px-Paradox_Museum_in_Mumbai.jpg": {
   "slug": "mumbai-paradox-museum-mumbai",
@@ -19335,9 +19335,9 @@
  },
  "paris-young-posse-pilot-3-1st-flight-to-eur\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Young_Fathers_concert_Portland.jpg/3840px-Young_Fathers_concert_Portland.jpg": {
   "slug": "paris-young-posse-pilot-3-1st-flight-to-eur",
-  "verdict": "MATCH",
-  "reason": "event publish gate: Performers on stage singing, valid concert hero image",
-  "at": "2026-10-12T00:01:19.790Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: Young Fathers, not Young Posse",
+  "at": "2026-10-12T02:00:45.635Z"
  },
  "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/2/27/5_Seconds_of_Summer_2014.jpg": {
   "slug": "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour",

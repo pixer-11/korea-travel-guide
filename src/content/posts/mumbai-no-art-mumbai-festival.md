@@ -10,14 +10,6 @@ eventEndDate: '2026-11-25'
 eventRecurring: false
 eventVenue: Bayview Lawns
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/2/29/Art_%286%29.jpg
-  credit: 'Photo: AmanAgrahari01 / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Art_(6).jpg
-  focus:
-    x: 60
-    'y': 50
 gallery: []
 tags:
   - mumbai
