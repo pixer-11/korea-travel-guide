@@ -5,8 +5,10 @@
   "quality": 5
  },
  "search": {
-  "spent": 0,
-  "byJob": {}
+  "spent": 1,
+  "byJob": {
+   "fill": 1
+  }
  },
- "updated": "2026-10-12T04:15:03.050Z"
+ "updated": "2026-10-12T04:16:25.844Z"
 }

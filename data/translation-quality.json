@@ -17520,40 +17520,33 @@
   "worst": "이곳은 조용히 숨겨진 명소가 아니라 폰다 사원 순례길에서 잘 알려진 코스이기 때문에...",
   "at": "2026-10-12T03:41:06.453Z"
  },
- "ko/goyang-bigbang-2026-2027-world-tour-xx-cosmos-goyang-opening-shows": {
-  "hash": "4b9bd9531cae",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "고양종합운동장은 서울 서북쪽과 맞닿아 있는 고양시에 위치해 있어서, 먼 지방으로의 이동이라기보다는...",
-  "at": "2026-08-25T08:27:28.062Z"
- },
  "ko/goyang-ilsan-lake-park": {
-  "hash": "3ef963b463dc",
+  "hash": "0003579c6ca8",
   "score": 1,
   "registerBreak": false,
   "worst": "산책로를 조깅객과 아침 운동을 하는 어르신들에게 거의 양보받다시피 하고 싶다면 평일 개장 시간에 맞춰 가세요.",
-  "at": "2026-08-15T06:04:32.999Z"
+  "at": "2026-10-12T04:17:50.646Z"
  },
  "ko/granada-alhambra": {
-  "hash": "411dacece785",
+  "hash": "f839af5298ab",
   "score": 1,
   "registerBreak": false,
   "worst": "거의 158,000명에 달하는 리뷰어들로부터 4.8점의 평점을 받은 것은 우연이 아닙니다",
-  "at": "2026-08-15T06:04:32.435Z"
+  "at": "2026-10-12T04:17:55.179Z"
  },
  "ko/granada-generalife": {
-  "hash": "748b03abf664",
+  "hash": "3ff0b8cfc205",
   "score": 1,
   "registerBreak": false,
-  "worst": "헤네랄리페는 알함브라 나머지 구역과 개장 시간이 같아서, 계획을 세우기에 시간대가 꽤 넉넉한 편입니다.",
-  "at": "2026-08-15T08:29:34.672Z"
+  "worst": "유동인구를 측정한 자료를 보면 평일과 주말 모두 이른 아침과 늦은 저녁 시간대가 가장 한산합니다.",
+  "at": "2026-10-12T04:17:56.586Z"
  },
  "ko/granada-mirador-de-san-nicolas": {
-  "hash": "34ab2bc36977",
+  "hash": "307ac49a37f8",
   "score": 1,
   "registerBreak": false,
-  "worst": "이곳의 실제 유동 인구 패턴은 확연히 뚜렷합니다.",
-  "at": "2026-08-15T06:04:38.825Z"
+  "worst": "유명한 골든아워 전망과 한산하고 조용한 광장, 이 둘을 동시에 누릴 수는 없으니 하나를 선택해야 합니다.",
+  "at": "2026-10-12T04:17:58.438Z"
  },
  "ko/granada-nasrid-palaces": {
   "hash": "3a64d7fc5557",
@@ -17562,103 +17555,75 @@
   "worst": "그라나다 주민들과 재방문객들은 이 티켓 예약이야말로 전체 방문 과정에서 가장 어려운 부분이라는 것을, 걷는 것보다 더 어렵다는 것을 잘 알고 있습니다.",
   "at": "2026-09-14T15:43:09.974Z"
  },
- "ko/guangzhou-chen-clan-ancestral-hall": {
-  "hash": "6155742ce3f1",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "조각이 어찌나 깊은지 거의 조소에 가깝게 읽히는 목조 병풍, 벽면에 새겨 넣은 새와 꽃 문양의 회색 벽돌 부조",
-  "at": "2026-08-15T06:04:44.067Z"
- },
  "ko/guangzhou-guangdong-museum": {
-  "hash": "eec6e026254e",
+  "hash": "f0bc24b0a323",
   "score": 1,
   "registerBreak": false,
-  "worst": "내부로 들어가면 소박한 리뷰 수에서 짐작할 수 있는 것보다 훨씬 알찬 소장품을 만나게 됩니다.",
-  "at": "2026-08-16T11:01:34.987Z"
+  "worst": "건물 자체만으로도 걸어갈 가치가 있습니다.",
+  "at": "2026-10-12T04:18:14.841Z"
  },
  "ko/guangzhou-guangzhou-restaurant": {
-  "hash": "2973dd959eae",
+  "hash": "46b1754814de",
   "score": 1,
   "registerBreak": false,
-  "worst": "둥근 테이블, 다른 무엇보다 먼저 나오는 차, 이런 서비스를 수천 번은 해봤을 법한 노련한 직원들이 그 분위기를 만들어냅니다.",
-  "at": "2026-08-15T08:29:38.612Z"
+  "worst": "광저우주가는 우연히 지나가다 발견하게 되는 그런 곳이 아닙니다.",
+  "at": "2026-10-12T04:18:08.603Z"
  },
  "ko/guangzhou-huacheng-square": {
-  "hash": "64927e8add49",
+  "hash": "d530083810be",
   "score": 1,
   "registerBreak": false,
-  "worst": "화청광장은 주변 명소들에 비해 그야말로 잘 알려지지 않은 곳이라, 대부분의 사람들이 이곳을 목적지가 아닌 통로로 여깁니다",
-  "at": "2026-08-15T06:04:53.193Z"
+  "worst": "광장은 이 모든 곳을 잇는 연결 조직과 같으며, 그저 지나치기보다 잠시 멈춰 서서 즐길 가치가 있는 이유가 바로 여기에 있습니다.",
+  "at": "2026-10-12T04:18:11.579Z"
  },
  "ko/guilin-xijie-pedestrian-street": {
-  "hash": "f8274de22b00",
+  "hash": "852323e4c511",
   "score": 1,
   "registerBreak": false,
   "worst": "원래는 리강 유람선을 타야 볼 수 있는 그 풍경을 말이죠.",
-  "at": "2026-08-15T10:30:53.101Z"
- },
- "ko/gyeongju-donggung-palace-wolji-pond": {
-  "hash": "a2e3879ed7e4",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "가장 한산한 시간대는 야간 조명이 켜지는 시점 바로 직전으로, 하늘이 완전히 어두워지기 전 아직 푸른빛이 남아 있을 때",
-  "at": "2026-08-15T06:05:04.263Z"
+  "at": "2026-10-12T04:18:15.849Z"
  },
  "ko/gyeongju-gyeongju-national-museum": {
-  "hash": "e197cc1efe1d",
+  "hash": "5e5ea867db00",
   "score": 1,
   "registerBreak": false,
   "worst": "일정로에서 이어지는 긴 진입로를 따라 걷다 보면 가장 먼저 눈에 들어오는 것은 박물관이 얼마나 여유롭게 공간을 쓰고 있는가 하는 점이다",
-  "at": "2026-08-15T06:05:25.903Z"
+  "at": "2026-10-12T04:18:19.578Z"
  },
  "ko/gyeongju-history": {
-  "hash": "2feeeab963ea",
+  "hash": "dc149445f851",
   "score": 1,
   "registerBreak": false,
-  "worst": "그동안 입장료가 무료였던 만큼 시내 관광과 점심 식사 사이에 부담 없이 들를 수 있는 곳입니다.",
-  "at": "2026-08-15T08:29:46.099Z"
+  "worst": "유네스코는 경주 역사 유적 지구와 별도로 불국사(Bulguksa Temple), 석굴암(Seokguram Grotto)을 세계문화유산으로 지정했는데",
+  "at": "2026-10-12T04:18:20.148Z"
  },
  "ko/gyeongju-hwangnidan-gil": {
-  "hash": "c65014addb58",
+  "hash": "f690067cc553",
   "score": 1,
   "registerBreak": false,
-  "worst": "소규모 독립 상점 중에는 현금을 선호하는 곳도 있으니 현금 결제만 되는 곳이 일반적이라고 단정하지는 마세요.",
-  "at": "2026-08-15T06:05:09.633Z"
+  "worst": "시내에 있는 옛 동해선 경주역은 만약 이곳에 기차가 선다면 훨씬 가깝습니다.",
+  "at": "2026-10-12T04:18:26.032Z"
  },
  "ko/gyeongju-seokguram": {
-  "hash": "5a981ad772eb",
+  "hash": "bc944a02ad13",
   "score": 1,
   "registerBreak": false,
-  "worst": "주말은 이야기가 다릅니다.",
-  "at": "2026-08-15T06:05:40.240Z"
- },
- "ko/gyeongju-seongdong-market": {
-  "hash": "faf900368cb3",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "유동인구 측정 결과를 보면 평일과 주말 모두 오전 7시부터 오후 7시까지는 비교적 한산한 편이며...",
-  "at": "2026-08-15T06:05:13.784Z"
+  "worst": "폐장 전 마지막 한 시간인 오후 5시~6시는 주말 중에서도 가장 한산한 시간대로 꾸준히 꼽힙니다.",
+  "at": "2026-10-12T04:18:27.023Z"
  },
  "ko/gyeongju-woljeonggyo-bridge": {
-  "hash": "5e3ccf1d8222",
+  "hash": "1ba6f5a56241",
   "score": 1,
   "registerBreak": false,
-  "worst": "오늘날 이곳을 찾을 가치가 있는 이유는 역사적 배경뿐만 아니라 디자인 때문이기도 합니다.",
-  "at": "2026-08-15T06:05:16.259Z"
- },
- "ko/gyeongju-yangdong-folk-village": {
-  "hash": "3347ed8a5a7e",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "마을은 낮 시간대에 정해진 시간대로 운영되니, 출발 전에 현재 운영 시간을 확인해두는 것이 좋습니다.",
-  "at": "2026-08-15T09:02:06.322Z"
+  "worst": "다만 지상에는 풀로 덮인 성벽 외에는 남아 있는 것이 거의 없어서, 오래 머물기보다는 배경 지식을 위해 짧게 둘러보는 정도로 충분합니다.",
+  "at": "2026-10-12T04:18:21.554Z"
  },
  "ko/gyeongju-yangdongmaeul-gil": {
-  "hash": "48929095f909",
+  "hash": "f335a2c892b3",
   "score": 1,
   "registerBreak": false,
-  "worst": "관광버스로 붐비는 번잡함 없이 조선시대 마을의 분위기를 느끼고 싶은 이들에게 진정한 숨은 보석 같은 대안이 됩니다.",
-  "at": "2026-08-15T06:05:30.298Z"
+  "worst": "특히 가을(10~11월)에는 주변 산자락이 흙벽과 어우러져 물들어가는 풍경이 인상적이며",
+  "at": "2026-10-12T04:18:27.068Z"
  },
  "ko/ha-long-bay-halong-bay": {
   "hash": "7f0188411aff",
@@ -33068,11 +33033,11 @@
   "at": "2026-10-12T01:47:41.556Z"
  },
  "es/kurashiki-kurashiki-bikan-historical-quarter": {
-  "hash": "54760200fe90",
+  "hash": "6761c4a64aa7",
   "score": 1,
   "registerBreak": false,
-  "worst": "Pocos lugares de la prefectura de Okayama acumulan tantas reseñas, así que no espere encontrarlo vacío.",
-  "at": "2026-10-12T02:42:20.435Z"
+  "worst": "Al ser uno de los lugares con más reseñas de toda la prefectura de Okayama, no cuente...",
+  "at": "2026-10-12T04:17:27.459Z"
  },
  "es/kurashiki-ohara-museum-of-art": {
   "hash": "95ca6dab3aa4",
@@ -33089,11 +33054,11 @@
   "at": "2026-10-12T02:42:25.253Z"
  },
  "ja/kurashiki-kurashiki-bikan-historical-quarter": {
-  "hash": "d567e1f210da",
+  "hash": "bdc8ab4941e6",
   "score": 1,
   "registerBreak": false,
-  "worst": "週末はとくに時間帯選びが大切で、人出のデータもそれをはっきり示しています。",
-  "at": "2026-10-12T02:42:26.597Z"
+  "worst": "岡山から日帰りで訪れるより近くに宿をとるべき理由は、何よりこの夜の景色にあります。",
+  "at": "2026-10-12T04:17:32.769Z"
  },
  "ja/kurashiki-ohara-museum-of-art": {
   "hash": "6d1db3ad728e",
@@ -33110,11 +33075,11 @@
   "at": "2026-10-12T02:42:28.991Z"
  },
  "ko/kurashiki-kurashiki-bikan-historical-quarter": {
-  "hash": "98700e02fb20",
+  "hash": "dc08c2dd4dba",
   "score": 1,
   "registerBreak": false,
-  "worst": "이 시간에는 상점 대부분이 문을 닫으니 쇼핑보다는 산책을 즐긴다고 생각하시는 것이 좋습니다.",
-  "at": "2026-10-12T02:42:36.530Z"
+  "worst": "주말에는 무엇보다 시간 선택이 중요하며, 유동 인구 자료도 이를 분명히 보여 줍니다.",
+  "at": "2026-10-12T04:17:36.962Z"
  },
  "ko/kurashiki-ohara-museum-of-art": {
   "hash": "7a441673aba7",
@@ -33131,11 +33096,11 @@
   "at": "2026-10-12T02:42:48.058Z"
  },
  "zh/kurashiki-kurashiki-bikan-historical-quarter": {
-  "hash": "e04501c02a3d",
+  "hash": "4b7e9aafef86",
   "score": 1,
   "registerBreak": false,
-  "worst": "周末出行，时间安排最为关键，人流数据也说得很清楚：周末上午10点至晚上7点最拥挤。",
-  "at": "2026-10-12T02:42:49.265Z"
+  "worst": "周末出行，时间安排最关键，人流数据也说明了这一点：周末上午10点至晚上7点最为拥挤。",
+  "at": "2026-10-12T04:17:38.151Z"
  },
  "zh/kurashiki-ohara-museum-of-art": {
   "hash": "fdbfb021859f",
@@ -33745,5 +33710,271 @@
   "registerBreak": false,
   "worst": "채식주의자도 구색 맞추기용 메뉴 하나에 만족할 필요 없이 제대로 골라 먹을 수 있습니다.",
   "at": "2026-10-12T03:41:11.159Z"
+ },
+ "ko/cuttack-odisha-masters-super-100": {
+  "hash": "52a31f9c109a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "경기 수는 줄지만 걸린 것은 훨씬 커집니다.",
+  "at": "2026-10-12T04:17:40.617Z"
+ },
+ "ko/fethiye-gemiler-island": {
+  "hash": "9f0e19e77922",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "다리도 없고 정해진 페리 시간표도 없습니다. 그날 배를 모는 사람의 사정에 맡길 수밖에 없으니",
+  "at": "2026-10-12T04:17:40.730Z"
+ },
+ "ko/gold-coast-burleigh-head-national-park": {
+  "hash": "b83446bd6017",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "8am–7pm 사이가 가장 붐빕니다.",
+  "at": "2026-10-12T04:17:41.659Z"
+ },
+ "ko/dubai-suteki": {
+  "hash": "3acb11b09a34",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이 그룹은 두바이에서 메뉴를 넓게 펼치기보다 한 가지 아이디어를 끝까지 밀어붙이는 콘셉트형 레스토랑 바람을 이끌어 온 외식 기업들과 같은 계열에 속합니다.",
+  "at": "2026-10-12T04:17:43.032Z"
+ },
+ "ko/goa-naval-aviation-museum": {
+  "hash": "a974d731a162",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "그 뒤로 펼쳐진 잔디밭에는 退役한 헬기와 미사일, 레이더 장비가 곳곳에 놓여 있는데",
+  "at": "2026-10-12T04:17:44.410Z"
+ },
+ "ko/gili-islands-gili-meno-beach": {
+  "hash": "1099249d0ba8",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "길리 트라왕안은 비치 바로 들썩이고, 길리 아이르에는 적당한 예산의 여행자들이 모여듭니다.",
+  "at": "2026-10-12T04:17:46.223Z"
+ },
+ "ko/gold-coast-cafe-gold-coast": {
+  "hash": "85040bd6656c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "오후 2:30이면 문을 닫기 때문에 2:20에 와서 아침 식사를 제대로 주문하는 것은 주방에 무리한 부탁입니다.",
+  "at": "2026-10-12T04:17:46.413Z"
+ },
+ "ko/gold-coast-natural-bridge-springbrook-national-park": {
+  "hash": "376829656ea2",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "빛을 받으면 반딧불이가 빛을 약하게 줄입니다.",
+  "at": "2026-10-12T04:17:46.955Z"
+ },
+ "ko/gold-coast-snapper-rocks": {
+  "hash": "72129dc77e6a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-12T04:17:49.265Z"
+ },
+ "ko/gold-coast-ernest-junction-railway-tunnel": {
+  "hash": "c82df4ead3a5",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "지금은 터널으로 이어지는 절개지를 수풀이 다시 뒤덮어서 실제보다 더 오래된 곳처럼 느껴집니다.",
+  "at": "2026-10-12T04:17:49.871Z"
+ },
+ "ko/goyang-gyeongdong-market": {
+  "hash": "d63581d2cbcf",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-12T04:17:49.964Z"
+ },
+ "ko/goyang-bukhansanseong-fortress": {
+  "hash": "ec44456e83be",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "산의 고양 쪽 사면이라 서울 쪽 탐방로와는 찾는 사람들도 조금 다릅니다.",
+  "at": "2026-10-12T04:17:53.966Z"
+ },
+ "ko/goyang-the-weeknd-hyundai-card-super-concert-28": {
+  "hash": "ca5eb9f5cb0b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "여러 개의 출입구와 넓은 주차장, 가까운 지하철역 등 대규모 관객을 맞을 시설을 갖추고 있습니다.",
+  "at": "2026-10-12T04:17:57.957Z"
+ },
+ "ko/goyang-si-khalid-concert": {
+  "hash": "c3cde4ee1d80",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "콘서트 관람객이 얼마나 늦게 빠져나가는지, 그리고 12월 밤에는 막차 시간이 얼마나 빠듯할 수 있는지를 생각하면 숙박을 고려해 볼 만합니다.",
+  "at": "2026-10-12T04:17:58.152Z"
+ },
+ "ko/granada-parque-de-las-ciencias": {
+  "hash": "b80bf28f9024",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "본관 전시실이 붐비는 속도보다 천체투영관 회차가 매진되는 속도가 더 빠릅니다.",
+  "at": "2026-10-12T04:17:59.077Z"
+ },
+ "ko/guadalajara-guadalajara-s-cathedral": {
+  "hash": "89590aa1e31f",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이른 시간에 내부를 먼저 둘러보고 해 질 무렵에 다시 오는 일정을 추천합니다.",
+  "at": "2026-10-12T04:18:00.274Z"
+ },
+ "ko/granada-jardines-del-triunfo": {
+  "hash": "d434ffae151a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "수많은 방문객들에게서 매우 높은 평점을 받은 곳이다 보니, 하루 중 대부분의 시간에 사람들과 함께하게 될 것이라 생각하면 됩니다.",
+  "at": "2026-10-12T04:18:00.616Z"
+ },
+ "ko/guadalajara-mercado-libertad-san-juan-de-dios": {
+  "hash": "1eece51b6644",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "작은 주방이 수십 곳이나 됩니다. 그 앞을 지나가면 집집마다 요리사와 종업원들이 큰 소리로 손님을 부릅니다.",
+  "at": "2026-10-12T04:18:01.907Z"
+ },
+ "ko/goyang-lany-concert": {
+  "hash": "9822eb72e783",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "킨텍스 주변 거리는 전시장 지구라는 이름에서 떠올리는 것보다 훨씬 쾌적합니다.",
+  "at": "2026-10-12T04:18:02.682Z"
+ },
+ "ko/guadalajara-fiestas-de-octubre-guadalajara": {
+  "hash": "53fc5797b0ce",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "무대는 모두 할리스코주입니다.",
+  "at": "2026-10-12T04:18:04.201Z"
+ },
+ "ko/guanajuato-mercado-hidalgo": {
+  "hash": "ebadb073b778",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "역사학자들은 이를 전설로 보지만, 건물의 규모를 보면 정말 기차역 대합실 같은 느낌이 듭니다.",
+  "at": "2026-10-12T04:18:05.502Z"
+ },
+ "ko/guadalajara-alcalde": {
+  "hash": "f4e517260725",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "현재 메뉴나 운영 방식에 관한 정보는 받지 못했기 때문에 요리를 소개하지는 않겠습니다.",
+  "at": "2026-10-12T04:18:05.914Z"
+ },
+ "ko/guadalajara-regional-museum-of-guadalajara": {
+  "hash": "3d64f2c9b8a6",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이곳을 찾을 이유의 절반은 건물 그 자체입니다.",
+  "at": "2026-10-12T04:18:06.075Z"
+ },
+ "ko/guadalajara-plaza-de-la-liberacion": {
+  "hash": "c575a8e535e5",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "할리스코 주 정부 청사인 정부 청사(Palacio de Gobierno)는 광장 남쪽에서 광장을 마주하고 있습니다.",
+  "at": "2026-10-12T04:18:07.416Z"
+ },
+ "ko/guadalajara-jardin-hidalgo": {
+  "hash": "b0594dd9a7ee",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "집계된 혼잡 시간대는 주말의 이 시간대뿐이므로, 그 밖의 시간에는 한결 여유로울 것입니다.",
+  "at": "2026-10-12T04:18:10.100Z"
+ },
+ "ko/guanajuato-monumento-al-pipila": {
+  "hash": "719c374cca17",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이곳에서는 45분에서 1시간 정도 머무를 생각을 하시면 되고, 해넘이까지 보려면 시간을 더 넉넉히 잡으셔야 합니다.",
+  "at": "2026-10-12T04:18:12.806Z"
+ },
+ "ko/guangzhou-temple-of-the-six-banyan-trees": {
+  "hash": "e85a88c17f16",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "겉으로는 팔각형의 9층 탑이지만, 중간층(메자닌)까지 세어보면 실제 내부 층수는 17층에 달합니다.",
+  "at": "2026-10-12T04:18:12.890Z"
+ },
+ "ko/guangzhou-guangzhou-tv-tower": {
+  "hash": "34758fbe1da8",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "가장 큰 볼거리는 여러 높이에 층층이 배치된 전망대로, 상층부에는 유리 바닥과 야외 스카이워크 구간이 있습니다.",
+  "at": "2026-10-12T04:18:14.046Z"
+ },
+ "ko/guia-chapel-of-our-lady-of-guia": {
+  "hash": "6ff9ec85183e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "박물관에서 재현한 모습이 아니라, 여러 문화가 뒤섞였던 초기 마카오의 실제 모습을 이 벽들이 그대로 보여 줍니다.",
+  "at": "2026-10-12T04:18:14.117Z"
+ },
+ "ko/guilin-elephant-trunk-hill": {
+  "hash": "2fe7443e802a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이런 명명들 치고는 보기 드물게 이름과 실제 모습이 딱 맞아떨어지는 경우입니다.",
+  "at": "2026-10-12T04:18:15.060Z"
+ },
+ "ko/guilin-reed-flute-cave": {
+  "hash": "d257790859ca",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "당나라 시대부터 구이린은 내륙 여행길의 경유지였고, 당시 사람들도 지금 여행자들이 휴대폰으로 사진을 남기듯 붓으로 자신의 감상을 새겨 넣곤 했습니다.",
+  "at": "2026-10-12T04:18:15.701Z"
+ },
+ "ko/guia-guia-fortress-and-lighthouse": {
+  "hash": "d67c5966e350",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-12T04:18:16.947Z"
+ },
+ "ko/gurugram-fred-again-india-debut-tour": {
+  "hash": "bd2d9b91011b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "정작 골치 아픈 것은 공연이 끝난 뒤입니다. 수천 명이 동시에 차량 호출 앱을 켜는 탓에 요금이 치솟고 출입구 앞에서는 배차가 좀처럼 되지 않습니다.",
+  "at": "2026-10-12T04:18:16.949Z"
+ },
+ "ko/guwahati-guwahati-masters-super-100": {
+  "hash": "88e3833dd444",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "슈퍼 100은 세계배드민턴연맹(BWF) 월드투어의 입문 등급입니다. 떠오르는 선수들은 이 대회에서 랭킹 포인트를 쌓으며",
+  "at": "2026-10-12T04:18:17.292Z"
+ },
+ "ko/gyeongju-cheomseongdae-observatory": {
+  "hash": "16ed9d75d3cd",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "대부분의 사진은 부지가 얼마나 트여 있는지를 잘라내기 때문에 탑이 실제보다 웅장해 보이게 됩니다.",
+  "at": "2026-10-12T04:18:18.242Z"
+ },
+ "ko/guilin-yangshuo-park": {
+  "hash": "d00e3da2bf7b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "어느 쪽이든 드는 비용은 시간뿐이니, 유료 관광지로 가득한 이 마을에서는 그것만으로도 나름의 안도감을 줍니다.",
+  "at": "2026-10-12T04:18:19.783Z"
+ },
+ "ko/ha-giang-ha-giang-market": {
+  "hash": "3ff798f30dab",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "특히 월요일에 낭패를 보는 경우가 많습니다. 월요일 오후 버스로 하노이에서 도착한다면 시장은 이미 문을 닫은 뒤일 것입니다.",
+  "at": "2026-10-12T04:18:27.398Z"
+ },
+ "ko/ha-long-bay-dau-go-cave": {
+  "hash": "5b99c213cccd",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "다만 이렇게 늦은 시간에 동굴에 들르는 배는 드무니, 이 시간을 염두에 두신다면 먼저 운항사에 확인하시기 바랍니다.",
+  "at": "2026-10-12T04:18:28.474Z"
  }
 }
