@@ -40,6 +40,9 @@ const TEMPLE_SUN_MON = ['Monday: Closed', 'Tuesday: 6:30 AM – 7:15 PM', 'Wedne
 const PARROQUIA = ['Monday: 9:00 AM – 2:00 PM, 4:00 – 7:00 PM', 'Tuesday: 9:00 AM – 2:00 PM, 4:00 – 7:00 PM',
   'Wednesday: 9:00 AM – 2:00 PM, 4:00 – 7:00 PM', 'Thursday: 9:00 AM – 2:00 PM', 'Friday: 9:00 AM – 2:00 PM, 4:00 – 7:00 PM',
   'Saturday: 9:00 AM – 2:00 PM', 'Sunday: Closed'];
+// 10월의 오카야마 고라쿠엔: 구글은 겨울 시간(8am–5pm)만 보여 준다.
+const KORAKUEN_OCT = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
+  .map((d) => `${d}: 8:00 AM – 5:00 PM`);
 const MIDDAY_BREAK_FRI = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Saturday', 'Sunday']
   .map((d) => `${d}: 9:00 AM – 9:00 PM`).concat(['Friday: 7:30 AM – 12:00 PM, 3:00 – 9:00 PM']);
 const LUNCH_DINNER = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
@@ -284,6 +287,18 @@ const cases = [
     '- **Saturday:** 9am to 2pm only\n- **Sunday:** closed\n\nSaturday is the day to be careful.'), 0],
   ['TP-midday-break-day-said-closed (must FLAG)', post(MIDDAY_BREAK_FRI,
     'The village is closed on Fridays.'), 1],
+  // (5) 10-12 고라쿠엔·데시마: 구글 영업시간은 '지금 계절' 하나뿐. 월 범위로 못박은
+  //     문장의 시각은 다른 계절의 사실이다 — 오탐이면 refresh 수리기가 거짓으로 고친다.
+  ['FP-seasonal-hours-month-day-range (should be CLEAN)', post(KORAKUEN_OCT,
+    'The garden opens 7:30am–6pm from March 20 to September 30 and 8am–5pm from October 1 to March 19.'), 0],
+  ['FP-seasonal-hours-month-range (should be CLEAN)', post(KORAKUEN_OCT,
+    'It opens 10am–6pm from March to September and 8am–5pm from October to February.'), 0],
+  ['TP-out-of-hours-time-no-season (must FLAG)', post(KORAKUEN_OCT,
+    'Arrive at 7am for the quietest paths.'), 1],
+  ['TP-single-month-is-not-a-season (must FLAG)', post(KORAKUEN_OCT,
+    'In March, arrive at 7am for the plum blossoms.'), 1],
+  ['TP-season-in-other-sentence-does-not-excuse (must FLAG)', post(KORAKUEN_OCT,
+    'Hours change from March to September. Arrive at 7am for the quietest paths.'), 1],
 ];
 
 let fail = 0;

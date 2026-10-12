@@ -28,6 +28,10 @@ import { requireExamined } from './lib/examined.mjs';
 
 const DIR = 'src/content/posts';
 const DAYS = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+// "from March to September", "March 20 to September 30", "December–February".
+// Two month names joined by a range word — a bare "in March" is not a season.
+const MONTH = String.raw`(?:Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|June?|July?|Aug(?:ust)?|Sep(?:t(?:ember)?)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?)`;
+const SEASON_RANGE = new RegExp(String.raw`\b${MONTH}\b(?:\s+\d{1,2})?\s*(?:to|through|until|till|–|-)\s*(?:\d{1,2}\s+)?${MONTH}\b`, 'i');
 
 /** "8:00 AM" / "5 PM" / "10:30pm" → minutes since midnight, or null. */
 const toMin = (h, m, mer) => {
@@ -123,6 +127,17 @@ export function hoursProblems(raw) {
       // Needs BOTH the expectation and its reversal in the same sentence; a bare
       // "arrive at 7pm expecting a short queue" is still advice and still checked.
       if (/^[^.]*\bexpecting\b[^.]*\b(instead|outside|turned away|locked|closed|shut)\b/i.test(after)) continue;
+      // A time in a sentence pinned to a MONTH RANGE is another season's hour.
+      // The fact box is Google's current-season snapshot: in October Okayama
+      // Korakuen shows 8am–5pm, and "7:30am–6pm from March 20 to September 30"
+      // is the official summer schedule. On 2026-10-12 both pilot guides
+      // (Korakuen, Teshima Art Museum) were flagged for exactly that, and the
+      // nightly refresh's fixer would have rewritten the correct seasonal
+      // hours into "8am–5pm every day of the year" — a false fact.
+      const sStart = Math.max(prose.lastIndexOf('.', m.index), prose.lastIndexOf('\n', m.index)) + 1;
+      const sEndRaw = prose.slice(m.index).search(/[.\n]/);
+      const sentence = prose.slice(sStart, sEndRaw < 0 ? prose.length : m.index + sEndRaw);
+      if (SEASON_RANGE.test(sentence)) continue;
       seen.add(min);
       const ok = open.some((p) => inAnyRange(min, p.ranges));
       if (!ok) found.push(`prose says ${m[0]}, outside every day's hours (${lines[0]} … )`);
