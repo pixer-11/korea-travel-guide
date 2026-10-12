@@ -2498,13 +2498,6 @@
   "worst": "El Fuerte Aguada acumula más de 100.000 reseñas de visitantes, y no es casualidad",
   "at": "2026-08-15T03:20:34.205Z"
  },
- "es/goa-goa-market": {
-  "hash": "e8ed137eb120",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "Al entrar, te llega de golpe toda la carga sensorial de un mercado goano en pleno funcionamiento",
-  "at": "2026-08-15T03:20:40.049Z"
- },
  "es/goa-naval-aviation-museum": {
   "hash": "2cd29d419c0a",
   "score": 1,
@@ -9903,13 +9896,6 @@
   "registerBreak": false,
   "worst": "早朝か夕方に訪れることはもはや選択肢のひとつではなく、必須の対策になります。",
   "at": "2026-08-15T06:25:27.801Z"
- },
- "ja/goa-goa-market": {
-  "hash": "594612806693",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "小さく、密集していて、飾り気がない――それこそがこの市場の魅力です。",
-  "at": "2026-08-15T02:51:32.393Z"
  },
  "ja/goa-naval-aviation-museum": {
   "hash": "3b6ed3d5fe9d",
@@ -17506,13 +17492,6 @@
   "worst": "포트 아구아다는 이유 있게 10만 건이 훌쩍 넘는 방문객 리뷰를 기록하고 있습니다",
   "at": "2026-10-12T03:41:06.659Z"
  },
- "ko/goa-goa-market": {
-  "hash": "9c2df339df07",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "이른 저녁 혼잡 시간대야말로 놓치지 말아야 할 볼거리입니다.",
-  "at": "2026-10-12T03:41:09.539Z"
- },
  "ko/goa-shri-nageshi-temple": {
   "hash": "83394b7fd473",
   "score": 1,
@@ -18312,95 +18291,88 @@
   "at": "2026-10-12T12:40:58.605Z"
  },
  "ko/kanazawa-kenroku-en": {
-  "hash": "41ccbf61a0e0",
+  "hash": "df3d631871c1",
   "score": 1,
   "registerBreak": false,
-  "worst": "인접한 가나자와 성에서 부유한 가가 번을 다스리던 마에다 가문이 1620년대부터 약 200년에 걸쳐 조성한 이 정원은...",
-  "at": "2026-08-15T06:11:11.101Z"
- },
- "ko/kanazawa-kourin-sushi": {
-  "hash": "4afc3023adf7",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "코린 스시의 메뉴는 이런 제철 특선과 기본 니기리 스시를 함께 갖추고 있어, 1월에 벨트 위에 오르는 것과 7월에",
-  "at": "2026-08-15T06:11:16.089Z"
+  "worst": "13대 마에다 번주가 씨앗부터 심어 키운 나무로, 정원에서 가장 오래되고 조형미가 뛰어난 나무 중 하나입니다.",
+  "at": "2026-10-12T16:51:52.931Z"
  },
  "ko/kanchanaburi-erawan-national-park": {
-  "hash": "affef1eec970",
+  "hash": "96688f98e778",
   "score": 1,
   "registerBreak": false,
-  "worst": "더 조용하고 보람 있는 상단 구간이 늦은 도착의 첫 번째 희생양이 됩니다.",
-  "at": "2026-08-15T06:11:14.209Z"
+  "worst": "더 조용하고 만족스러운 상단 구간이야말로 늦게 도착했을 때 가장 먼저 포기하게 되는 부분입니다.",
+  "at": "2026-10-12T16:51:56.739Z"
  },
  "ko/kaohsiung-dome-of-light": {
-  "hash": "b825961acfe9",
+  "hash": "78e04e9bb2d7",
   "score": 1,
   "registerBreak": false,
-  "worst": "돔을 보러 일부러 개찰구를 통과하는 사람은 없습니다 — 이지카드나 1회용 토큰으로 다른 MRT 이용과 마찬가지로 태그",
-  "at": "2026-08-15T08:32:49.276Z"
+  "worst": "개찰구를 빠져나오면서 그저 흔한 지하철 역사를 기대하겠지만, 천장을 보는 순간 발걸음이 멈춥니다",
+  "at": "2026-10-12T16:51:59.201Z"
  },
  "ko/kaohsiung-kaohsiung-central-park": {
-  "hash": "86ce623fb3ba",
+  "hash": "4c238f8fa43d",
   "score": 1,
   "registerBreak": false,
-  "worst": "16,000개가 넘는 리뷰에서 별점 4.5를 기록한 이곳은 아는 사람만 아는 숨은 명소가 아니라 이 도시에서",
-  "at": "2026-08-15T06:11:16.743Z"
+  "worst": "그 잎사귀들은 정오에도 빛이 동전처럼 부서져 바닥에 떨어질 만큼 촘촘하다.",
+  "at": "2026-10-12T16:52:00.757Z"
  },
  "ko/kas-kas-old-town": {
-  "hash": "4e51f349f1b6",
+  "hash": "8b2808196a1f",
   "score": 1,
   "registerBreak": false,
-  "worst": "방문 시기별 혼잡도 데이터가 꽤 흥미롭습니다.",
-  "at": "2026-08-15T06:11:21.427Z"
+  "worst": "최소 한 시간은 잡아두시되, 바다 전망이 펼쳐지는 막다른 골목들을 따라가다 보면 두세 시간쯤은 훌쩍 지나가기 마련입니다.",
+  "at": "2026-10-12T16:52:03.710Z"
  },
  "ko/katong-east-coast-park": {
-  "hash": "c4a031650121",
+  "hash": "e390e8831523",
   "score": 1,
   "registerBreak": false,
   "worst": "공원은 매일 24시간 문을 닫지 않습니다.",
-  "at": "2026-08-15T08:32:38.707Z"
+  "at": "2026-10-12T16:52:05.962Z"
  },
  "ko/katong-katong-park": {
-  "hash": "c4fff4f9e2a6",
+  "hash": "2d88b5b99cff",
   "score": 1,
   "registerBreak": false,
-  "worst": "이곳의 핵심은 나지막한 콘크리트 구조물로, 옛 포트 토마호크(Fort Tomahawk)의 대포 진지가 그대로 남아...",
-  "at": "2026-08-15T06:11:23.957Z"
+  "worst": "매립으로 해안선이 더 밖으로 밀려나기 전, 이 일대는 실제 해변이었고 도시로 진입하는 길목을 지키던 해안 요새들이 늘어선 지역의 일부였습니다.",
+  "at": "2026-10-12T16:52:06.395Z"
  },
  "ko/kennedy-town-belcher-bay-park": {
-  "hash": "b6ea1eff32c3",
+  "hash": "993852e80573",
   "score": 1,
   "registerBreak": false,
-  "worst": "공원은 케네디 타운의 해변 프라야를 따라 자리해 있어 MTR에서 걸어서 쉽게 갈 수 있습니다.",
-  "at": "2026-08-15T06:11:25.113Z"
+  "worst": "멀리서는 컨테이너선과 소형 여객선들이 그린 아일랜드(Green Island)를 지나쳐 흘러갑니다.",
+  "at": "2026-10-12T16:52:11.489Z"
  },
  "ko/kenting-eluanbi-lighthouse": {
-  "hash": "e9034ed5fdd8",
+  "hash": "02e66aacb3e5",
   "score": 1,
   "registerBreak": false,
-  "worst": "그러니 목표는 사람을 피하는 게 아니라 잘 관리하며 즐기는 것입니다.",
-  "at": "2026-08-15T06:11:28.523Z"
+  "worst": "적대적인 현지 세력을 막기 위해 대포와 해자까지 갖추고 있었습니다.",
+  "at": "2026-10-12T16:52:14.017Z"
  },
  "ko/kenting-kenting-national-park": {
-  "hash": "eff4dd4b1a59",
-  "score": 0,
+  "hash": "68bb8773bc8e",
+  "score": 1,
   "registerBreak": false,
-  "worst": "",
-  "at": "2026-08-15T08:32:40.447Z"
+  "worst": "대부분의 방문객은 가오슝(Kaohsiung)을 거쳐 컨딩에 도착하며, 자동차나 버스로 약 2시간 남쪽으로 이동한다.",
+  "at": "2026-10-12T16:52:12.952Z"
  },
  "ko/kep-angkor-national-museum": {
-  "hash": "9936c36d6f2e",
+  "hash": "a0384d0fb478",
   "score": 1,
   "registerBreak": false,
-  "worst": "이런 배경 지식 없이 사원을 보면 그저 인상적인 돌무더기로 보일 뿐이지만, 알고 보면 조각 하나하나를 읽어낼 수 있게 됩니다.",
-  "at": "2026-09-04T12:12:02.315Z"
+  "worst": "플래시 촬영이 필요한 전시실은 아예 건너뛰세요 — 대부분의 구역에서 카메라 사용이 금지되어 있습니다",
+  "at": "2026-10-12T16:52:14.904Z"
  },
  "ko/khiva-itchan-kala": {
-  "hash": "b790a263acb0",
+  "hash": "5d711030044e",
   "score": 1,
   "registerBreak": false,
-  "worst": "청록색과 갈색이 어우러진 칼타 미노르(Kalta Minor) 미나렛은 가장 먼저 시선을 위로 끌어당기는 곳입니다",
-  "at": "2026-08-15T08:32:42.643Z"
+  "worst": "칸(khan)이 세상을 떠난 1855년에 공사가 중단되었습니다.",
+  "at": "2026-10-12T16:52:20.707Z"
  },
  "ko/khiva-nurullaboy-palace": {
   "hash": "b42329868e45",
@@ -24289,13 +24261,6 @@
   "worst": "这时选择清晨或傍晚出行就不仅仅是可选项,而是必要之举了。",
   "at": "2026-08-15T03:51:22.091Z"
  },
- "zh/goa-goa-market": {
-  "hash": "3033ade1290d",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "人流数据显示，工作日上午9点到11点这段时间最为清静，很适合想悠闲逛逛、不用在鱼摊前挤来挤去的人。",
-  "at": "2026-08-15T12:03:10.512Z"
- },
  "zh/goa-naval-aviation-museum": {
   "hash": "2257ca2e81e6",
   "score": 1,
@@ -29287,13 +29252,6 @@
   "worst": "결과물을 먹는 것뿐만 아니라 요리가 만들어지는 과정을 지켜보는 것 자체를 위해 공간이 설계되어 있습니다.",
   "at": "2026-09-25T08:04:24.358Z"
  },
- "zh/ha-giang-ha-giang-market": {
-  "hash": "0d1d27df9741",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "这也说明了它的性质：一个游客觉得好用的普通市场，从来没打算把自己变成旅游景点。",
-  "at": "2026-09-25T08:04:26.430Z"
- },
  "es/austin-texas-farmers-market-at-mueller": {
   "hash": "f9dcff85b5bb",
   "score": 1,
@@ -32445,11 +32403,11 @@
   "at": "2026-10-11T14:27:34.913Z"
  },
  "ko/khustai-national-park-gorkhi-terelj-national-park": {
-  "hash": "8e1926ccbecc",
+  "hash": "a5e2d20f8eda",
   "score": 1,
   "registerBreak": false,
-  "worst": "타히는 유일하게 남은 진정한 야생마 종으로, 야생에서는 한때 자취를 감췄다가 이곳에 다시 방사되었습니다.",
-  "at": "2026-10-11T14:27:36.251Z"
+  "worst": "워낙 거대해서 방문객들은 말의 몸통 안으로 걸어 올라가 머리 위 전망대까지 갈 수 있습니다.",
+  "at": "2026-10-12T16:52:25.062Z"
  },
  "zh/cotai-the-ritz-carlton-cafe": {
   "hash": "76522a1ac561",
@@ -33809,13 +33767,6 @@
   "worst": "어느 쪽이든 드는 비용은 시간뿐이니, 유료 관광지로 가득한 이 마을에서는 그것만으로도 나름의 안도감을 줍니다.",
   "at": "2026-10-12T04:18:19.783Z"
  },
- "ko/ha-giang-ha-giang-market": {
-  "hash": "3ff798f30dab",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "특히 월요일에 낭패를 보는 경우가 많습니다. 월요일 오후 버스로 하노이에서 도착한다면 시장은 이미 문을 닫은 뒤일 것입니다.",
-  "at": "2026-10-12T04:18:27.398Z"
- },
  "ko/ha-long-bay-dau-go-cave": {
   "hash": "5b99c213cccd",
   "score": 1,
@@ -33955,13 +33906,6 @@
   "registerBreak": false,
   "worst": "공원은 24시간 개방되는 것으로 안내되어 있지만 한밤중에 올 일은 없습니다.",
   "at": "2026-10-12T07:11:42.574Z"
- },
- "ko/ha-long-bay-ha-long-market": {
-  "hash": "484747812bec",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "주말 혼잡은 따로 언급될 정도이지만 평일은 그렇지 않으니, 평일 아침은 대체로 한산한 편입니다.",
-  "at": "2026-10-12T07:11:43.237Z"
  },
  "ko/hac-sa-lou-lim-ioc-garden": {
   "hash": "a7ea24f79938",
@@ -35363,26 +35307,12 @@
   "worst": "지금 이스탄불 루프톱 업계에서 이런 조건을 갖춘 곳은 순식간에 자리가 찹니다.",
   "at": "2026-10-12T12:40:09.372Z"
  },
- "ko/istanbul-lina-anatolian": {
-  "hash": "8de33a39ef1c",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "방문 일정을 맞춰서라도 앉을 만한 자리는 바다를 향한 테이블이니, 예약할 때 그런 자리가 있는지 꼭 물어보시기 바랍니다.",
-  "at": "2026-10-12T12:40:12.614Z"
- },
  "ko/jakarta-taman-mini-indonesia-indah": {
   "hash": "24414db23702",
   "score": 1,
   "registerBreak": false,
   "worst": "호수 위를 가로지르는 케이블카(스카이리프트, Skylift)에서 내려다보는 풍경이 가장 좋습니다.",
   "at": "2026-10-12T12:40:12.733Z"
- },
- "ko/istanbul-sen-den-restaurant": {
-  "hash": "dbf9fea5246c",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "다만 이 일대의 한 건물은 상점 사이에 입구가 숨어 있어 지나치기 쉽습니다.",
-  "at": "2026-10-12T12:40:14.302Z"
  },
  "ko/jeonju-deokjin-park": {
   "hash": "c63f12332646",
@@ -35475,13 +35405,6 @@
   "worst": "테이블이 아직 비어 있고 차도 두 번 식지 않았을 만큼 여유로운 시간대입니다",
   "at": "2026-10-12T12:40:39.282Z"
  },
- "ko/jordan-spicy-salt-hk": {
-  "hash": "ec280af7d1ed",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "측정된 데이터에 따르면 한산한 시간대는 주말 오후 4시~9시이고, 반대로 오후 7시~11시는 가장 붐비는",
-  "at": "2026-10-12T12:40:40.192Z"
- },
  "ko/jumeirah-souk-madinat-jumeirah": {
   "hash": "f8f619095adc",
   "score": 1,
@@ -35565,5 +35488,306 @@
   "registerBreak": false,
   "worst": "이곳은 가나자와 문화 관광 코스에서 이미 잘 알려진 명소이지, 숨겨진 비밀 장소가 아닙니다.",
   "at": "2026-10-12T12:40:58.764Z"
+ },
+ "ko/guangzhou-yuexiu-park": {
+  "hash": "39e0f741247a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "그래서 지켜야 할 예절도 간단합니다. 함께 쓰는 산책로에서는 오른쪽으로 다니시고...",
+  "at": "2026-10-12T16:51:47.064Z"
+ },
+ "ko/jakarta-5-seconds-of-summer-jakarta": {
+  "hash": "bf3483fd4774",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "호주 출신 네 명의 멤버가 단 하루, 실내 공연장 한 곳에서 무대를 꾸몄습니다.",
+  "at": "2026-10-12T16:51:50.268Z"
+ },
+ "ko/istanbul-liminal": {
+  "hash": "3202323e1823",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "부분마다 칵테일이 무엇을 참조하고 무엇을 뒤집을 수 있는지에 대해 서로 다른 발상을 바탕으로 삼은 것으로 보입니다.",
+  "at": "2026-10-12T16:51:50.453Z"
+ },
+ "ko/jakarta-elio": {
+  "hash": "a0163aabfc28",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이 주방이 처음부터 그런 방식을 염두에 두고 설계된 것이 분명하기 때문입니다.",
+  "at": "2026-10-12T16:51:50.458Z"
+ },
+ "ko/kampong-glam-kampong-glam-cafe": {
+  "hash": "a03c6ca9d402",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이곳 위치의 진짜 가치는 주변 볼거리에 있습니다.",
+  "at": "2026-10-12T16:51:51.448Z"
+ },
+ "ko/jinju-lantern-festival": {
+  "hash": "4ecf5fc9bd98",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "보통 진남루 다리 일대에는 부교가 놓여 등불 사이로 강을 건너 볼 수도 있습니다.",
+  "at": "2026-10-12T16:51:51.581Z"
+ },
+ "ko/jeonju-jeonju-hanok-village-restaurant-jeonju-is-jeonju": {
+  "hash": "cf8233866541",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "비빔밥과 참기름은 빌린 비단옷과 잘 어울리지 않으니, 한복은 식사 전에 빌려 입는 것이 좋습니다.",
+  "at": "2026-10-12T16:51:52.308Z"
+ },
+ "ko/izmir-scappi": {
+  "hash": "e22c61f27077",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "호텔 레스토랑이 새로움보다 야심을 드러내고 싶을 때 빌려 오기 좋은 이름이지요.",
+  "at": "2026-10-12T16:51:52.488Z"
+ },
+ "ko/kanazawa-kanazawa-castle-park": {
+  "hash": "76205a731add",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "다만 오전 7시 개장 직후나 오후 4시 이후에 도착하면 확실히 여유롭게 둘러볼 수 있으며",
+  "at": "2026-10-12T16:51:52.751Z"
+ },
+ "ko/kanchanaburi-hellfire-pass-interpretive-centre": {
+  "hash": "ae7cb46c049d",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "사람의 손으로 하나하나 깎아낸, 높은 곳은 12미터에 이르는 이 절벽 사이에 서면 바로 헬파이어 패스 한복판에",
+  "at": "2026-10-12T16:51:54.474Z"
+ },
+ "ko/kanazawa-higashi-chaya-district": {
+  "hash": "13ab9270469a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이 역사의 우연 덕분에 이 거리는 거의 원형 그대로 남아있을 수 있었습니다.",
+  "at": "2026-10-12T16:51:55.710Z"
+ },
+ "ko/kaohsiung-bigbang-20th-anniversary-world-tour": {
+  "hash": "b36cbb7b946c",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-12T16:51:57.569Z"
+ },
+ "ko/kanazawa-omicho-market": {
+  "hash": "099f04e0aa44",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "날씨만 괜찮다면 걸어서 15~20분 정도면 도착합니다.",
+  "at": "2026-10-12T16:51:57.833Z"
+ },
+ "ko/kansas-city-1587-prime": {
+  "hash": "fd18c6280b51",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "저희가 확인할 수 있는 전체 메뉴나 가격은 아직 공개되지 않았습니다.",
+  "at": "2026-10-12T16:51:59.524Z"
+ },
+ "ko/kaohsiung-fo-guang-shan-buddha-museum": {
+  "hash": "13f9dda041cc",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "사찰의 전통을 따른 것이면서도 실제로 맛도 좋습니다.",
+  "at": "2026-10-12T16:52:00.462Z"
+ },
+ "ko/kaohsiung-kaohsiung-city-temple-of-confucius": {
+  "hash": "6d7389b09619",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "가능하다면 문의 정중앙을 통해 곧장 걸어 들어가고 싶겠지만, 전통적으로 이 통로는 학자와 관리들만 지나도록 정해져 있어...",
+  "at": "2026-10-12T16:52:02.127Z"
+ },
+ "ko/kaohsiung-kaohsiung-museum-of-fine-arts": {
+  "hash": "c1bd6fa484bb",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "미술관은 가오슝 시내에서 북서쪽으로 떨어진 구산구(Gushan District)에 자리하고 있어서, 지하철 노선에서 다소 벗어나 있습니다.",
+  "at": "2026-10-12T16:52:02.142Z"
+ },
+ "ko/kanchanaburi-sai-yok-national-park": {
+  "hash": "1ebaf1ee94c6",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "그만큼 넓은 석회암 동굴 공간이 기다리고 있습니다.",
+  "at": "2026-10-12T16:52:02.343Z"
+ },
+ "ko/kaohsiung-treasure-the-stage-2026-new-wave-live": {
+  "hash": "27b5a082b668",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "촬영과 녹화 규정은 주변 팬들이 아니라 티켓 약관과 공연장이 정합니다.",
+  "at": "2026-10-12T16:52:03.202Z"
+ },
+ "ko/kaohsiung-bts-world-tour-arirang-in-kaohsiung": {
+  "hash": "b7a004dffd5d",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "공항역(R4)에서 R17역까지 레드 라인 한 번으로 갈아타지 않고 갈 수 있습니다.",
+  "at": "2026-10-12T16:52:04.705Z"
+ },
+ "ko/kaohsiung-shoushan-love-lookout": {
+  "hash": "1a1318ad93a0",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "그 멋진 사진을 얻는 대가로 다른 모든 사람들과 난간을 함께 나눠 써야 한다는 점은 감수해야 합니다.",
+  "at": "2026-10-12T16:52:04.861Z"
+ },
+ "ko/kas-lycian-civilization-museum": {
+  "hash": "ea08b217be9a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "석관 전시실은 박물관의 핵심이니 서둘러 출구로 향하다 자칫 지나치기 쉬운 만큼, 그냥 지나치지 말고 천천히",
+  "at": "2026-10-12T16:52:04.953Z"
+ },
+ "ko/kas-patara-ancient-city": {
+  "hash": "94c0de169bb0",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이곳이 바로 파타라입니다. 한때 리키아 동맹의 주요 항구였던 이곳은 지금은 유적지가 어찌나 넓은지",
+  "at": "2026-10-12T16:52:05.919Z"
+ },
+ "ko/kaohsiung-post-malone-big-ass-world-tour": {
+  "hash": "f8ab274ef06e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "알려진 바에 따르면 이 패널만으로 단지 전체에 전력을 공급하고, 남는 전기는 전력망으로 되돌려 보낼 수 있다고 합니다.",
+  "at": "2026-10-12T16:52:07.634Z"
+ },
+ "ko/kennedy-town-lo-pan-temple": {
+  "hash": "6684ca01431f",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "마을이나 씨족이 아니라 건설업계의 재정 지원으로 지어졌다는 점이 지금도 건물 곳곳에 남아 있습니다.",
+  "at": "2026-10-12T16:52:07.927Z"
+ },
+ "ko/kennedy-town-old-hong-kong": {
+  "hash": "6e1d2d0ed83b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "만족한 사람들은 향수를 느끼며 풍경을 즐기는 곳으로 여겼고, 아쉬워한 사람들은 본격적인 어트랙션을 기대했던 경우였습니다.",
+  "at": "2026-10-12T16:52:09.081Z"
+ },
+ "ko/kenting-hengchun-old-street": {
+  "hash": "6b16fd136f4c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "컨딩에 묵고 있다면 메인스트리트의 인파에 지쳤을 때 저녁 식사 삼아 헝춘까지 다녀오기 좋고...",
+  "at": "2026-10-12T16:52:10.431Z"
+ },
+ "ko/katong-sri-senpaga-vinayagar-temple": {
+  "hash": "c8f4a51a554f",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "입장료는 없으며, 입구에서 누군가 나서서 방문객다운 행동을 강요하지도 않습니다.",
+  "at": "2026-10-12T16:52:12.664Z"
+ },
+ "ko/kenting-kenting-national-forest-recreation-area": {
+  "hash": "4efc81fdc3de",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "속도를 늦추세요, 눈이 어둠에 적응하는 데는 잠깐 시간이 필요합니다.",
+  "at": "2026-10-12T16:52:14.816Z"
+ },
+ "ko/kenting-hengchun-south-gate": {
+  "hash": "f8399120e2d4",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이 성문은 저평가된, 더 큰 볼거리의 작은 한 부분일 뿐입니다.",
+  "at": "2026-10-12T16:52:16.669Z"
+ },
+ "ko/kharkhorin-kharakhorum-museum": {
+  "hash": "8f43c8c56f9f",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-12T16:52:18.528Z"
+ },
+ "ko/kep-popokvil-waterfall": {
+  "hash": "40f921176a18",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "공원은 매일 24시간 개방으로 안내되어 있어 문을 닫는 시간이 없습니다.",
+  "at": "2026-10-12T16:52:18.769Z"
+ },
+ "ko/kep-wat-sampov-pram": {
+  "hash": "2eceefcf0d91",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "방문객 평점이 4.5점에 이르는 것을 보면, 이곳을 찾아온 사람들에게 깊은 사랑을 받고 있다는 것을 알 수 있습니다.",
+  "at": "2026-10-12T16:52:19.507Z"
+ },
+ "ko/kharkhorin-orkhon-waterfall": {
+  "hash": "4204c8045cbc",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "낙차는 대부분의 자료에서 약 20미터로 소개하며, 절벽 가장자리에는 난간이 따로 없습니다.",
+  "at": "2026-10-12T16:52:19.645Z"
+ },
+ "ko/khiva-islam-khoja-minaret": {
+  "hash": "927135f7b68f",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "대부분의 방문객이 저지르는 실수는 이곳을 바깥에서 사진 한 장 찍고 지나가는 5분짜리 코스로만 여기는 것입니다.",
+  "at": "2026-10-12T16:52:20.157Z"
+ },
+ "ko/khiva-kalta-minor-minaret": {
+  "hash": "e8a66c30a91a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "무하마드 아민 칸(Muhammad Amin Khan)은 1851년 이 미나렛을 짓기 시작하면서, 완성되면 꼭대기에서 부하라(Bukhara)까지 보일",
+  "at": "2026-10-12T16:52:21.721Z"
+ },
+ "ko/kharkhorin-erdene-zuu-monastery": {
+  "hash": "c1460d8985e9",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "남아 있는 건물들이 군데군데 모여 있는 까닭은 1937년 숙청 때 사원 건물 대부분이 파괴되었기 때문입니다.",
+  "at": "2026-10-12T16:52:22.527Z"
+ },
+ "ko/khiva-toshhovli-palace": {
+  "hash": "f795c4f1d3aa",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "알라쿨리 칸이 1830년대에 이 궁전을 지시한 이유는 옛 쿠냐아르크 성채가 자신의 가족과 행정 기구를 수용하기에 너무 비좁게",
+  "at": "2026-10-12T16:52:23.894Z"
+ },
+ "ko/khiva-juma-mosque": {
+  "hash": "346bdd400adb",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "평일 이른 아침이 조용한 분위기를 즐기기에 비교적 안전한 선택입니다.",
+  "at": "2026-10-12T16:52:24.643Z"
+ },
+ "ko/kep-kep-national-park": {
+  "hash": "1a0f7a466e7e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "일부러 찾아갈 만한 가치는 그 보상에 있습니다.",
+  "at": "2026-10-12T16:52:24.692Z"
+ },
+ "ko/khiva-khiva-ichan-kala": {
+  "hash": "daf1079a4df2",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "바로 이 거리감이 이찬칼라를 특별하게 만드는 이유입니다.",
+  "at": "2026-10-12T16:52:25.818Z"
+ },
+ "ko/khiva-kuhna-ark": {
+  "hash": "92c840ff0328",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이는 아쉬운 선택입니다. 안으로 들어서면 웅장함은 어느새 아늑함으로 바뀌어...",
+  "at": "2026-10-12T16:52:27.682Z"
+ },
+ "ko/khustai-national-park-khustain-nuruu-national-park": {
+  "hash": "d9b7fb9d58f9",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "오는 길에 스치는 가축 말과는 생김새가 전혀 다릅니다.",
+  "at": "2026-10-12T16:52:32.381Z"
  }
 }
