@@ -63,8 +63,7 @@ faq:
   - q: "Is there a dress code for the grounds?"
     a: "No dress code is posted for walking the grounds, but modest clothing is expected because members arrive dressed formally to worship. Leave beachwear and gym gear for South Bank."
 aiGenerated: true
-draft: true
-heldReason: hours
+draft: false
 ---
 
 ## A White Spire on River Terrace

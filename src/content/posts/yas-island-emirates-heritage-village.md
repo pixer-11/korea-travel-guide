@@ -50,8 +50,7 @@ faq:
   - q: "What else is nearby?"
     a: "Marina Mall is next door. The Corniche beach and promenade run east from the Breakwater, and Emirates Palace and Qasr Al Watan are a short drive west."
 aiGenerated: true
-draft: true
-heldReason: hours
+draft: false
 ---
 
 ## Palm fronds against a glass skyline

@@ -49,8 +49,7 @@ faq:
   - q: "What is the best season to visit?"
     a: "June to September, when the grass is green and the tracks are easiest to drive. July and August can bring afternoon storms. Winter is very cold."
 aiGenerated: true
-draft: true
-heldReason: hours
+draft: false
 ---
 
 ## Horses on the ridgelines

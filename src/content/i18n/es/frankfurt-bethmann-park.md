@@ -7,7 +7,7 @@ description: El Bethmannpark se encuentra en Friedberger Landstraße 8, en Frán
 quickAnswer: El Bethmannpark se encuentra en Friedberger Landstraße 8, en Fráncfort, justo donde el centro (Innenstadt) linda con los barrios de Nordend y Bornheim. Este parque vallado de 3 hectáreas debe su atractivo principal a un jardín chino con puentes y un pabellón a orillas del agua. Entre semana, la franja más tranquila va de 7am a 8am. Los fines de semana conviene evitar el intervalo de 12pm–8pm, cuando la afluencia alcanza su punto máximo.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Bethmannpark?
-    a: Entre semana, la franja más tranquila va de 7am a 8am. Los fines de semana, lo mejor es ir por la mañana, antes del mediodía, y evitar el intervalo de 12pm–8pm, que es el de mayor afluencia.
+    a: Entre semana, la franja más tranquila va de 7am a 8am. Los fines de semana, lo mejor es ir a primera hora de la mañana, de 7am a 9am, y evitar el intervalo de 12pm–8pm, que es el de mayor afluencia.
   - q: ¿Cómo se llega al Bethmannpark en transporte público?
     a: La estación de U-Bahn más cercana es Merianplatz, en la línea U4, a un breve paseo por la Berger Straße. Konstablerwache queda a unos diez minutos a pie.
   - q: ¿Cuánto tiempo conviene dedicarle?

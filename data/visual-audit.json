@@ -21197,6 +21197,12 @@
   "reasonKo": "산야 난산 문화관광지의 전형적 건축",
   "at": "2026-08-13T14:04:44.842Z"
  },
+ "sapa-sa-pa-stone-church\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Sa_Pa_Church.jpg/3840px-Sa_Pa_Church.jpg": {
+  "slug": "sapa-sa-pa-stone-church",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Sa Pa Stone Church clearly amid plaza and mountains",
+  "at": "2026-10-12T00:16:18.101Z"
+ },
  "sapa-sapa-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Park_bij_Sapa_Legend_Hotel_%26_Spa.jpg/3840px-Park_bij_Sapa_Legend_Hotel_%26_Spa.jpg": {
   "slug": "sapa-sapa-park",
   "verdict": "MATCH",

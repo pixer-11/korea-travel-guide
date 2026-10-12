@@ -14,19 +14,19 @@
    "hits": 78
   },
   "viewpoint": {
-   "attempts": 67,
+   "attempts": 68,
    "hits": 9
   },
   "art gallery": {
-   "attempts": 62,
+   "attempts": 63,
    "hits": 9
   },
   "night view": {
-   "attempts": 57,
+   "attempts": 58,
    "hits": 8
   },
   "waterfront": {
-   "attempts": 46,
+   "attempts": 47,
    "hits": 5
   },
   "museum": {
@@ -34,7 +34,7 @@
    "hits": 117
   },
   "noodles": {
-   "attempts": 53,
+   "attempts": 54,
    "hits": 1
   },
   "old quarter": {
@@ -46,11 +46,11 @@
    "hits": 76
   },
   "bookshop": {
-   "attempts": 32,
+   "attempts": 33,
    "hits": 6
   },
   "seafood": {
-   "attempts": 71,
+   "attempts": 72,
    "hits": 3
   },
   "hidden gem": {
@@ -58,7 +58,7 @@
    "hits": 74
   },
   "breakfast": {
-   "attempts": 49,
+   "attempts": 50,
    "hits": 5
   },
   "trendy cafe": {
@@ -70,19 +70,19 @@
    "hits": 18
   },
   "bakery": {
-   "attempts": 38,
+   "attempts": 39,
    "hits": 2
   },
   "bar": {
-   "attempts": 37,
+   "attempts": 38,
    "hits": 0
   },
   "vegetarian": {
-   "attempts": 42,
+   "attempts": 43,
    "hits": 2
   },
   "concept cafe": {
-   "attempts": 34,
+   "attempts": 35,
    "hits": 0
   },
   "top attraction": {
@@ -90,11 +90,11 @@
    "hits": 69
   },
   "grill": {
-   "attempts": 39,
+   "attempts": 40,
    "hits": 0
   },
   "design shop": {
-   "attempts": 33,
+   "attempts": 34,
    "hits": 0
   },
   "Sisowath Quay Riverside": {
@@ -492,7 +492,27 @@
   "National Museum of Mongolia": {
    "attempts": 1,
    "hits": 1
+  },
+  "Muong Hoa Valley": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Cat Cat Village": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Fansipan Cable Car": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Ham Rong Mountain": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Sapa Stone Church": {
+   "attempts": 1,
+   "hits": 1
   }
  },
- "updated": "2026-10-11T14:24:51.993Z"
+ "updated": "2026-10-12T00:16:18.136Z"
 }

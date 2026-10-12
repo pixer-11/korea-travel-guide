@@ -68,8 +68,7 @@ faq:
   - q: "What is nearby?"
     a: "The Jardín Allende is directly in front. The Casa de Allende history museum is on the corner of the square, and the Templo de San Rafael is right next to the church."
 aiGenerated: true
-draft: true
-heldReason: hours
+draft: false
 ---
 
 ## Pink stone over the Jardín
