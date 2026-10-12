@@ -6086,5 +6086,29 @@
    "x": 50,
    "y": 40
   }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Istanbul_asv2020-02_img55_View_of_Be%C5%9Fikta%C5%9F.jpg/3840px-Istanbul_asv2020-02_img55_View_of_Be%C5%9Fikta%C5%9F.jpg": {
+  "w": 3840,
+  "h": 1920,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mumbai_03-2016_52_Dharavi_near_Mahim_Junction.jpg/3840px-Mumbai_03-2016_52_Dharavi_near_Mahim_Junction.jpg": {
+  "w": 3840,
+  "h": 2560,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/7/79/Winter_in_Tashkent_7.JPG": {
+  "w": 1701,
+  "h": 1276,
+  "focus": {
+   "x": 50,
+   "y": 35
+  }
  }
 }

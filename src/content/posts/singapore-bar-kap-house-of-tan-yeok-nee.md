@@ -22,14 +22,13 @@ faq:
     a: Yes. As a recently opened venue in a heritage-protected building, opening hours and booking details are best confirmed directly before you go rather than assumed.
 aiGenerated: true
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/13010698_V9HLqmUHRy_CL-TucVqq3D9EFLquoOzbl-R0jPplGuI.jpg
+  url: https://fastly.4sqi.net/img/general/original/13010698_5Y6pLXS4DInpkgZ4PTs_rH1lLXg9WhAC_7dvA7V2xzA.jpg
   credit: 'Photo: Foursquare user content (Bar Kap)'
   license: foursquare
   source: https://foursquare.com/v/6a103a9b1f5c827b0ccbeeb0
   focus:
-    x: 50
-    'y': 50
-draft: true
+    x: 45
+    'y': 65
 ---
 
 Walk along Penang Road past the shopping malls and office towers of the Dhoby Ghaut stretch, and the House of Tan Yeok Nee still stops people mid-stride. It's one of the last surviving traditional Teochew courtyard mansions in Singapore, built in the 1880s for a wealthy gambier and pepper trader, and its granite pillars and swooping roofline look nothing like the glass buildings around it.

@@ -13,6 +13,14 @@ eventOrganizer:
   name: Uzexpocentre
   url: https://www.uzexpocentre.uz
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/7/79/Winter_in_Tashkent_7.JPG'
+  credit: 'Photo: Guidecity / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Winter_in_Tashkent_7.JPG'
+  focus:
+    x: 50
+    y: 35
 gallery: []
 tags:
   - tashkent

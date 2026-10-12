@@ -10,6 +10,14 @@ eventEndDate: '2026-11-25'
 eventRecurring: false
 eventVenue: Bayview Lawns
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mumbai_03-2016_52_Dharavi_near_Mahim_Junction.jpg/3840px-Mumbai_03-2016_52_Dharavi_near_Mahim_Junction.jpg'
+  credit: 'Photo: A.Savin / Wikimedia Commons (FAL)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Mumbai_03-2016_52_Dharavi_near_Mahim_Junction.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - mumbai

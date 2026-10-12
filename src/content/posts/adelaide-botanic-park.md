@@ -1,41 +1,39 @@
 ---
-title: "Botanic Park: Adelaide Travel Guide (4.7★)"
-description: "Botanic Park is a wide, open lawn on Plane Tree Drive in Adelaide's city East End, next to the Adelaide Botanic Garden and Adelaide Zoo. 4.7★ (2,153 reviews) — what visitors say, hours, and tips."
-country: "Australia"
-region: "Adelaide"
-category: "attraction"
-pubDate: "2026-10-01T07:50:56.964Z"
+title: 'Botanic Park: Adelaide Travel Guide (4.7★)'
+description: Botanic Park is a wide, open lawn on Plane Tree Drive in Adelaide's city East End, next to the Adelaide Botanic Garden and Adelaide Zoo. 4.7★ (2,153 reviews) — what visitors say, hours, and tips.
+country: Australia
+region: Adelaide
+category: attraction
+pubDate: '2026-10-01T07:50:56.964Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/9/97/Glass_Sculpture%2C_Botanic_Park%2C_Adelaide%2C_South_Australia_-_panoramio.jpg"
-  credit: "Photo: Alfresco24 / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Glass_Sculpture,_Botanic_Park,_Adelaide,_South_Australia_-_panoramio.jpg"
-  via: "act"
+  url: https://fastly.4sqi.net/img/general/original/357879_pJk8aj1Rd8fVVm_Irh0fTPc56vXL4tj7eJpBh38bMT4.jpg
+  credit: 'Photo: Foursquare user content (Botanic Park)'
+  license: foursquare
+  source: https://foursquare.com/v/50161b71e4b01bcdb305c048
   focus:
-    x: 55
-    y: 45
-gallery: []
+    x: 50
+    'y': 50
 place:
-  id: "ChIJ9_KfSjDJsGoRVNPX_sEO2VY"
-  name: "Botanic Park"
-  address: "Plane Tree Dr, Adelaide SA 5000, Australia"
+  id: ChIJ9_KfSjDJsGoRVNPX_sEO2VY
+  name: Botanic Park
+  address: Plane Tree Dr, Adelaide SA 5000, Australia
   rating: 4.7
   userRatingsTotal: 2153
-  googleMapsUrl: "https://maps.google.com/?cid=6258049383575049044&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=6258049383575049044&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -34.914499899999996
   lng: 138.6107008
-  phone: "+61 8 8222 9311"
+  phone: +61 8 8222 9311
   openingHours:
-    - "Monday: 7:30 AM – 5:30 PM"
-    - "Tuesday: 7:30 AM – 5:30 PM"
-    - "Wednesday: 7:30 AM – 5:30 PM"
-    - "Thursday: 7:30 AM – 5:30 PM"
-    - "Friday: 7:30 AM – 5:30 PM"
-    - "Saturday: 9:00 AM – 5:30 PM"
-    - "Sunday: 9:00 AM – 5:30 PM"
+    - 'Monday: 7:30 AM – 5:30 PM'
+    - 'Tuesday: 7:30 AM – 5:30 PM'
+    - 'Wednesday: 7:30 AM – 5:30 PM'
+    - 'Thursday: 7:30 AM – 5:30 PM'
+    - 'Friday: 7:30 AM – 5:30 PM'
+    - 'Saturday: 9:00 AM – 5:30 PM'
+    - 'Sunday: 9:00 AM – 5:30 PM'
   busyness:
-    updated: 2026-10-01
+    updated: 2026-10-01T00:00:00.000Z
     weekdayQuiet:
       - 8
       - 9
@@ -49,22 +47,22 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_5956324f45735f58504e56526f47734a446a53664b5f394a496843"
+    venueId: ven_5956324f45735f58504e56526f47734a446a53664b5f394a496843
 tags:
-  - "adelaide"
-  - "park"
-quickAnswer: "Botanic Park is a wide, open lawn on Plane Tree Drive in Adelaide's city East End, next to the Adelaide Botanic Garden and Adelaide Zoo. It's best known for its century-old Moreton Bay fig trees and for hosting WOMADelaide and summer outdoor cinema. Weekdays are calm all day (8am–5pm). On weekends, come between 9am and 10am, because the lawns fill from 11am to 5pm."
+  - adelaide
+  - park
+quickAnswer: Botanic Park is a wide, open lawn on Plane Tree Drive in Adelaide's city East End, next to the Adelaide Botanic Garden and Adelaide Zoo. It's best known for its century-old Moreton Bay fig trees and for hosting WOMADelaide and summer outdoor cinema. Weekdays are calm all day (8am–5pm). On weekends, come between 9am and 10am, because the lawns fill from 11am to 5pm.
 faq:
-  - q: "When is the quietest time to visit Botanic Park?"
-    a: "On weekdays it stays quiet from 8am to 5pm. On weekends, come between 9am and 10am. It's busiest on Saturdays and Sundays from 11am to 5pm, when the shady spots under the figs fill up."
-  - q: "What are Botanic Park's opening hours?"
-    a: "Monday to Friday, 7:30am to 5:30pm. Saturday and Sunday, 9:00am to 5:30pm. Ticketed evening events like outdoor cinema have their own access set by the organisers."
-  - q: "How do I get to Botanic Park from the Adelaide CBD?"
-    a: "Walk east along North Terrace and turn up Frome Road towards Plane Tree Drive, or take the North Terrace tram to the Botanic Garden end. The free Adelaide Connector bus also loops through the area."
-  - q: "Is Botanic Park the same as the Adelaide Botanic Garden?"
-    a: "No, but they sit side by side and paths join them. The Botanic Garden is the planted, curated garden with glasshouses. Botanic Park is the open lawn with the giant Moreton Bay figs, used for picnics and events like WOMADelaide."
-  - q: "What's nearby?"
-    a: "Adelaide Zoo is on Plane Tree Drive right beside the park. The River Torrens path is just north. The Art Gallery of South Australia, the South Australian Museum and the State Library line North Terrace a short walk west."
+  - q: When is the quietest time to visit Botanic Park?
+    a: On weekdays it stays quiet from 8am to 5pm. On weekends, come between 9am and 10am. It's busiest on Saturdays and Sundays from 11am to 5pm, when the shady spots under the figs fill up.
+  - q: What are Botanic Park's opening hours?
+    a: Monday to Friday, 7:30am to 5:30pm. Saturday and Sunday, 9:00am to 5:30pm. Ticketed evening events like outdoor cinema have their own access set by the organisers.
+  - q: How do I get to Botanic Park from the Adelaide CBD?
+    a: Walk east along North Terrace and turn up Frome Road towards Plane Tree Drive, or take the North Terrace tram to the Botanic Garden end. The free Adelaide Connector bus also loops through the area.
+  - q: Is Botanic Park the same as the Adelaide Botanic Garden?
+    a: No, but they sit side by side and paths join them. The Botanic Garden is the planted, curated garden with glasshouses. Botanic Park is the open lawn with the giant Moreton Bay figs, used for picnics and events like WOMADelaide.
+  - q: What's nearby?
+    a: Adelaide Zoo is on Plane Tree Drive right beside the park. The River Torrens path is just north. The Art Gallery of South Australia, the South Australian Museum and the State Library line North Terrace a short walk west.
 aiGenerated: true
 draft: false
 ---

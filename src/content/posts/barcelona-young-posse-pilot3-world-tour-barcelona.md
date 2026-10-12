@@ -13,7 +13,6 @@ eventPerformer:
   name: Young Posse
   kind: group
 eventFactsAsked: true
-gallery: []
 tags:
   - barcelona
   - event
@@ -31,6 +30,16 @@ faq:
     a: Plaça Espanya and the area around Sants station are popular. Both are a short metro or train ride from the venue and have good links to the rest of the city and the airport.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/d/d0/Brett_Young_in_concert_2015.jpg
+  credit: 'Photo: Max Goldberg / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Brett_Young_in_concert_2015.jpg
+  focus:
+    x: 38
+    'y': 23
+    top: 14
+    bottom: 32
 ---
 
 ## A club show, not an arena

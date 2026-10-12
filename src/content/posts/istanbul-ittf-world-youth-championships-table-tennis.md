@@ -11,6 +11,14 @@ eventRecurring: true
 eventOrganizer:
   name: International Table Tennis Federation
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Istanbul_asv2020-02_img55_View_of_Be%C5%9Fikta%C5%9F.jpg/3840px-Istanbul_asv2020-02_img55_View_of_Be%C5%9Fikta%C5%9F.jpg'
+  credit: 'Photo: A.Savin / Wikimedia Commons (FAL)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Istanbul_asv2020-02_img55_View_of_Be%C5%9Fikta%C5%9F.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - istanbul

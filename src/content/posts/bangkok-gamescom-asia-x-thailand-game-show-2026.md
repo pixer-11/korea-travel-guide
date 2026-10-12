@@ -10,7 +10,6 @@ eventEndDate: '2026-11-01'
 eventRecurring: true
 eventVenue: QSNCC
 eventFactsAsked: true
-gallery: []
 tags:
   - bangkok
   - event
@@ -28,6 +27,14 @@ faq:
     a: Benjakitti Forest Park is right beside QSNCC, and Lumphini Park is a short walk along Rama IV. The Sukhumvit and Asok restaurant area is one MRT stop away, and Khlong Toei Market is close by.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/World_of_Warcraft_concert_stage_at_Gamescom_2013_%289588475585%29.jpg/3840px-World_of_Warcraft_concert_stage_at_Gamescom_2013_%289588475585%29.jpg
+  credit: 'Photo: Sergey Galyonkin from Raleigh, USA / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:World_of_Warcraft_concert_stage_at_Gamescom_2013_(9588475585).jpg
+  focus:
+    x: 50
+    'y': 40
 ---
 
 ## Two shows under one roof

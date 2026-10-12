@@ -399,6 +399,12 @@
   "reason": "patrol reject: Generic beach sunset, not restaurant venue",
   "at": "2026-10-01T23:21:30.335Z"
  },
+ "adelaide-botanic-park\u0001https://fastly.4sqi.net/img/general/original/357879_pJk8aj1Rd8fVVm_Irh0fTPc56vXL4tj7eJpBh38bMT4.jpg": {
+  "slug": "adelaide-botanic-park",
+  "verdict": "MATCH",
+  "reason": "width upgrade: Canopy view of trees, plausible for botanic park",
+  "at": "2026-10-12T22:23:05.408Z"
+ },
  "adelaide-botanic-park\u0001https://upload.wikimedia.org/wikipedia/commons/9/97/Glass_Sculpture%2C_Botanic_Park%2C_Adelaide%2C_South_Australia_-_panoramio.jpg": {
   "slug": "adelaide-botanic-park",
   "verdict": "MATCH",
@@ -2137,11 +2143,29 @@
   "reason": "patrol replace: Modern Bangkok restaurant interior with contemporary design",
   "at": "2026-09-24T22:40:15.610Z"
  },
+ "bangkok-gamescom-asia-x-thailand-game-show-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/World_of_Warcraft_concert_stage_at_Gamescom_2013_%289588475393%29.jpg/3840px-World_of_Warcraft_concert_stage_at_Gamescom_2013_%289588475393%29.jpg": {
+  "slug": "bangkok-gamescom-asia-x-thailand-game-show-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated object, not event, team, or venue",
+  "at": "2026-10-12T22:09:45.968Z"
+ },
+ "bangkok-gamescom-asia-x-thailand-game-show-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/World_of_Warcraft_concert_stage_at_Gamescom_2013_%289588475585%29.jpg/3840px-World_of_Warcraft_concert_stage_at_Gamescom_2013_%289588475585%29.jpg": {
+  "slug": "bangkok-gamescom-asia-x-thailand-game-show-2026",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Gaming event stage setup with World of Warcraft branding",
+  "at": "2026-10-12T22:09:49.504Z"
+ },
  "bangkok-gamescom-asia-x-thailand-game-show-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Concert_%40_Gamescom_2012_%287816684968%29.jpg/3840px-Concert_%40_Gamescom_2012_%287816684968%29.jpg": {
   "slug": "bangkok-gamescom-asia-x-thailand-game-show-2026",
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: Gamescom Cologne 2012 concert, not gamescom asia Bangkok",
   "at": "2026-10-12T02:00:45.105Z"
+ },
+ "bangkok-gamescom-asia-x-thailand-game-show-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/World_of_Warcraft_concert_stage_at_Gamescom_2013_%289591269118%29.jpg/3840px-World_of_Warcraft_concert_stage_at_Gamescom_2013_%289591269118%29.jpg": {
+  "slug": "bangkok-gamescom-asia-x-thailand-game-show-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated drum close-up, not gaming event or venue",
+  "at": "2026-10-12T22:09:40.828Z"
  },
  "bangkok-hidden-bangkok-tours\u0001https://fastly.4sqi.net/img/general/original/431587360_0J4hSetrtmzYN_zP4oVOjE6E93KUpCBKO5OpiwiaUDs.jpg": {
   "slug": "bangkok-hidden-bangkok-tours",
@@ -2962,6 +2986,30 @@
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: Brett Young, not Young Posse",
   "at": "2026-10-12T02:00:45.370Z"
+ },
+ "barcelona-young-posse-pilot3-world-tour-barcelona\u0001https://upload.wikimedia.org/wikipedia/commons/d/d0/Brett_Young_in_concert_2015.jpg": {
+  "slug": "barcelona-young-posse-pilot3-world-tour-barcelona",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Performer with guitar on stage, plausible for concert event",
+  "at": "2026-10-12T22:10:27.975Z"
+ },
+ "barcelona-young-posse-pilot3-world-tour-barcelona\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Young_Fathers_concert_Portland.jpg/3840px-Young_Fathers_concert_Portland.jpg": {
+  "slug": "barcelona-young-posse-pilot3-world-tour-barcelona",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: identity: Commons places this in Portland, post says Barcelona",
+  "at": "2026-10-12T22:10:16.941Z"
+ },
+ "barcelona-young-posse-pilot3-world-tour-barcelona\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Young_Oceans_Live_in_Concert_2018.jpg/3840px-Young_Oceans_Live_in_Concert_2018.jpg": {
+  "slug": "barcelona-young-posse-pilot3-world-tour-barcelona",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: identity: Commons places this in Nashville, post says Barcelona",
+  "at": "2026-10-12T22:10:19.842Z"
+ },
+ "barcelona-young-posse-pilot3-world-tour-barcelona\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Neil_young_hp.jpg/3840px-Neil_young_hp.jpg": {
+  "slug": "barcelona-young-posse-pilot3-world-tour-barcelona",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: identity: Commons places this in United Kingdom, post says Spain",
+  "at": "2026-10-12T22:10:23.244Z"
  },
  "barra-chapel-of-our-lady-of-penha\u0001https://upload.wikimedia.org/wikipedia/commons/6/6f/Chapel_of_Our_Lady_of_Penha%2C_Macau_-_panoramio.jpg": {
   "slug": "barra-chapel-of-our-lady-of-penha",
@@ -4529,6 +4577,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Museum display case of pottery artifacts, visible storage exhibit",
   "at": "2026-10-01T07:53:41.073Z"
+ },
+ "cambridge-the-fitzwilliam-museum\u0001https://upload.wikimedia.org/wikipedia/commons/4/49/Fitzwilliam_Museum.JPG": {
+  "slug": "cambridge-the-fitzwilliam-museum",
+  "verdict": "MATCH",
+  "reason": "width upgrade: Exterior facade of Fitzwilliam Museum, representative view",
+  "at": "2026-10-12T22:22:47.573Z"
  },
  "cambridge-the-fitzwilliam-museum\u0001https://upload.wikimedia.org/wikipedia/commons/6/68/FitzwilliamMuseum.jpg": {
   "slug": "cambridge-the-fitzwilliam-museum",
@@ -7916,8 +7970,8 @@
  "goyang-charlie-puth-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Charlie_Puth%2C_Regency_Ballroom%2C_San_Francisco_%28Nine_Track_Mind_Tour%29_1.jpg/3840px-Charlie_Puth%2C_Regency_Ballroom%2C_San_Francisco_%28Nine_Track_Mind_Tour%29_1.jpg": {
   "slug": "goyang-charlie-puth-concert",
   "verdict": "MATCH",
-  "reason": "patrol replace: Concert performance with stage lighting and musicians",
-  "at": "2026-10-11T23:05:06.749Z"
+  "reason": "patrol replace: Concert performance with stage lighting, venue context",
+  "at": "2026-10-12T22:10:47.217Z"
  },
  "goyang-charlie-puth-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Charlie_Puth%2C_Regency_Ballroom%2C_San_Francisco_%28Nine_Track_Mind_Tour%29_2.jpg/3840px-Charlie_Puth%2C_Regency_Ballroom%2C_San_Francisco_%28Nine_Track_Mind_Tour%29_2.jpg": {
   "slug": "goyang-charlie-puth-concert",
@@ -9974,6 +10028,18 @@
   "reason": "patrol reject: Hong Kong skyline, unrelated to badminton event",
   "at": "2026-10-12T00:33:39.963Z"
  },
+ "hue-hong-kong-open-badminton-note-vietnam-international-series\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Vista_del_Puerto_de_Victoria_desde_Sky100%2C_Hong_Kong%2C_2013-08-09%2C_DD_10.JPG/3840px-Vista_del_Puerto_de_Victoria_desde_Sky100%2C_Hong_Kong%2C_2013-08-09%2C_DD_10.JPG": {
+  "slug": "hue-hong-kong-open-badminton-note-vietnam-international-series",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Hong Kong skyline, not badminton event or venue",
+  "at": "2026-10-12T22:11:44.200Z"
+ },
+ "hue-hong-kong-open-badminton-note-vietnam-international-series\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Hong_Kong_Island_Panorama_%282%29.jpg/3840px-Hong_Kong_Island_Panorama_%282%29.jpg": {
+  "slug": "hue-hong-kong-open-badminton-note-vietnam-international-series",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Hong Kong skyline, unrelated to badminton event",
+  "at": "2026-10-12T22:11:45.778Z"
+ },
  "hue-hong-kong-open-badminton-note-vietnam-international-series\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Hong_Pak_Court_Gateball_court_202011.jpg/3840px-Hong_Pak_Court_Gateball_court_202011.jpg": {
   "slug": "hue-hong-kong-open-badminton-note-vietnam-international-series",
   "verdict": "MISMATCH",
@@ -9985,6 +10051,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Hong Kong skyline, unrelated to badminton event",
   "at": "2026-10-12T00:33:41.383Z"
+ },
+ "hue-hong-kong-open-badminton-note-vietnam-international-series\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Kowloon_Waterfront%2C_Hong_Kong%2C_2013-08-09%2C_DD_05.jpg/3840px-Kowloon_Waterfront%2C_Hong_Kong%2C_2013-08-09%2C_DD_05.jpg": {
+  "slug": "hue-hong-kong-open-badminton-note-vietnam-international-series",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Taxis in Hong Kong, unrelated to badminton event",
+  "at": "2026-10-12T22:11:42.499Z"
  },
  "hue-hong-kong-open-badminton-note-vietnam-international-series\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Kowloon_Waterfront%2C_Hong_Kong%2C_2013-08-09%2C_DD_03.jpg/3840px-Kowloon_Waterfront%2C_Hong_Kong%2C_2013-08-09%2C_DD_03.jpg": {
   "slug": "hue-hong-kong-open-badminton-note-vietnam-international-series",
@@ -10663,11 +10735,35 @@
   "reason": "publish gate: Exterior of Istanbul Modern with signage and sculpture",
   "at": "2026-09-27T07:51:59.881Z"
  },
+ "istanbul-ittf-world-youth-championships-table-tennis\u0001https://upload.wikimedia.org/wikipedia/commons/2/28/ITTF_World_Tour_2017_German_Open_Hirano_Miu_04.jpg": {
+  "slug": "istanbul-ittf-world-youth-championships-table-tennis",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: identity: Commons places this in Germany, post says Turkey",
+  "at": "2026-10-12T22:12:18.011Z"
+ },
+ "istanbul-ittf-world-youth-championships-table-tennis\u0001https://upload.wikimedia.org/wikipedia/commons/4/46/ITTF_World_Tour_2017_German_Open_Gu_Yuting_01.jpg": {
+  "slug": "istanbul-ittf-world-youth-championships-table-tennis",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: identity: Commons places this in Germany, post says Turkey",
+  "at": "2026-10-12T22:12:21.557Z"
+ },
  "istanbul-ittf-world-youth-championships-table-tennis\u0001https://upload.wikimedia.org/wikipedia/commons/a/a7/ITTF_World_Tour_2017_German_Open_Kallberg_Anton_01.jpg": {
   "slug": "istanbul-ittf-world-youth-championships-table-tennis",
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: ITTF German Open 2017 player, not the World Youth Championships",
   "at": "2026-10-12T02:00:45.897Z"
+ },
+ "istanbul-ittf-world-youth-championships-table-tennis\u0001https://upload.wikimedia.org/wikipedia/commons/b/bf/ITTF_World_Tour_2017_German_Open_Morizono_Masataka_03.jpg": {
+  "slug": "istanbul-ittf-world-youth-championships-table-tennis",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: identity: Commons places this in Germany, post says Turkey",
+  "at": "2026-10-12T22:12:14.915Z"
+ },
+ "istanbul-ittf-world-youth-championships-table-tennis\u0001https://upload.wikimedia.org/wikipedia/commons/c/cf/ITTF_World_Tour_2017_German_Open_Sun_Mingyang_02.jpg": {
+  "slug": "istanbul-ittf-world-youth-championships-table-tennis",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: identity: Commons places this in Germany, post says Turkey",
+  "at": "2026-10-12T22:12:24.576Z"
  },
  "istanbul-kinu\u0001https://fastly.4sqi.net/img/general/original/382824581_n8tY4mL9rQfEFjw4Qqmrdjt8YC8csa9Pj-KI_44gTI0.jpg": {
   "slug": "istanbul-kinu",
@@ -14275,7 +14371,7 @@
   "slug": "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia",
   "verdict": "MATCH",
   "reason": "patrol replace: MotoGP motorcycle racing at circuit with safety barriers",
-  "at": "2026-10-11T23:05:57.296Z"
+  "at": "2026-10-12T22:13:23.404Z"
  },
  "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Alvaro_Bautista-motogp-2015.JPG/3840px-Alvaro_Bautista-motogp-2015.JPG": {
   "slug": "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia",
@@ -16277,6 +16373,30 @@
   "reason": "patrol reject: Street dancing scene, unrelated to marathon event",
   "at": "2026-10-12T00:39:00.883Z"
  },
+ "mexico-city-rock-n-roll-mexico-city-half-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/4/43/Rock_Marathon%2C_Koryazhma_19.08.2012_%2805%29.JPG": {
+  "slug": "mexico-city-rock-n-roll-mexico-city-half-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated casual scene, not marathon event or venue",
+  "at": "2026-10-12T22:15:40.362Z"
+ },
+ "mexico-city-rock-n-roll-mexico-city-half-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/9/99/Rock_Marathon%2C_Koryazhma_19.08.2012_%2809%29.JPG": {
+  "slug": "mexico-city-rock-n-roll-mexico-city-half-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Concert band, not a marathon running event",
+  "at": "2026-10-12T22:15:34.152Z"
+ },
+ "mexico-city-rock-n-roll-mexico-city-half-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/a/a0/Rock_Marathon%2C_Koryazhma_19.08.2012_%2802%29.JPG": {
+  "slug": "mexico-city-rock-n-roll-mexico-city-half-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated people with umbrella, not marathon related",
+  "at": "2026-10-12T22:15:38.277Z"
+ },
+ "mexico-city-rock-n-roll-mexico-city-half-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/d/dd/Rock_Marathon%2C_Koryazhma_19.08.2012_%2801%29.JPG": {
+  "slug": "mexico-city-rock-n-roll-mexico-city-half-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Russian text rock concert, unrelated to Mexico City marathon",
+  "at": "2026-10-12T22:15:36.265Z"
+ },
  "mexico-city-rock-n-roll-mexico-city-half-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Rock_%27n%27_Roll_San_Diego_Marathon_CA163_2025.jpg/3840px-Rock_%27n%27_Roll_San_Diego_Marathon_CA163_2025.jpg": {
   "slug": "mexico-city-rock-n-roll-mexico-city-half-marathon",
   "verdict": "MISMATCH",
@@ -16951,6 +17071,18 @@
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: Kala Ghoda Arts Festival street art, not NO ART Mumbai",
   "at": "2026-10-12T02:00:46.416Z"
+ },
+ "mumbai-no-art-mumbai-festival\u0001https://upload.wikimedia.org/wikipedia/commons/3/3f/Buildings_in_Mumbai_%2822964%29.jpg": {
+  "slug": "mumbai-no-art-mumbai-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Residential building, unrelated to art festival venue",
+  "at": "2026-10-12T22:16:10.766Z"
+ },
+ "mumbai-no-art-mumbai-festival\u0001https://upload.wikimedia.org/wikipedia/commons/5/5e/Crazy_cock_Whiskey_Bottles.jpg": {
+  "slug": "mumbai-no-art-mumbai-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Whisky bottles unrelated to art festival venue",
+  "at": "2026-10-12T22:16:09.321Z"
  },
  "mumbai-paradox-museum-mumbai\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Paradox_Museum_in_Mumbai.jpg/3840px-Paradox_Museum_in_Mumbai.jpg": {
   "slug": "mumbai-paradox-museum-mumbai",
@@ -17647,6 +17779,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows Purana Qila's iconic gate and fort walls",
   "at": "2026-09-29T07:38:20.908Z"
+ },
+ "new-delhi-purana-qila\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Purana_Qila_in_New_Delhi_12.jpg/3840px-Purana_Qila_in_New_Delhi_12.jpg": {
+  "slug": "new-delhi-purana-qila",
+  "verdict": "MATCH",
+  "reason": "width upgrade: Shows Purana Qila facade, gardens, authentic landmark view",
+  "at": "2026-10-12T22:22:31.799Z"
  },
  "new-delhi-safdarjung-tomb-delhi\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Safdarjung_tomb_new_delhi_rj.jpg/3840px-Safdarjung_tomb_new_delhi_rj.jpg": {
   "slug": "new-delhi-safdarjung-tomb-delhi",
@@ -19421,6 +19559,12 @@
   "reason": "event publish gate: Performer on stage, valid for tour hero image",
   "at": "2026-10-08T00:39:15.128Z"
  },
+ "paris-young-posse-pilot-3-1st-flight-to-eur\u0001https://upload.wikimedia.org/wikipedia/commons/3/37/Brett_Young_in_concert_in_July_2017.jpg": {
+  "slug": "paris-young-posse-pilot-3-1st-flight-to-eur",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Musician performing on stage with guitar",
+  "at": "2026-10-12T22:17:11.113Z"
+ },
  "paris-young-posse-pilot-3-1st-flight-to-eur\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Young_Fathers_concert_Portland.jpg/3840px-Young_Fathers_concert_Portland.jpg": {
   "slug": "paris-young-posse-pilot-3-1st-flight-to-eur",
   "verdict": "MISMATCH",
@@ -19432,6 +19576,12 @@
   "verdict": "MATCH",
   "reason": "patrol replace: Band members at event backdrop with sponsor logos",
   "at": "2026-10-07T23:49:41.598Z"
+ },
+ "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/7/7d/5_Seconds_of_Summer_Metro_Theatre_25_Nov_2012.jpg": {
+  "slug": "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Band performing on stage at concert venue",
+  "at": "2026-10-12T22:17:25.574Z"
  },
  "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/9/93/5_Seconds_of_Summer_11_15_2014_-25_%2815187260193%29.jpg": {
   "slug": "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour",
@@ -23695,6 +23845,12 @@
   "reason": "patrol replace: Plausibly shows BABYMONSTER members at event",
   "at": "2026-10-08T14:58:59.189Z"
  },
+ "singapore-bar-kap-house-of-tan-yeok-nee\u0001https://fastly.4sqi.net/img/general/original/13010698_5Y6pLXS4DInpkgZ4PTs_rH1lLXg9WhAC_7dvA7V2xzA.jpg": {
+  "slug": "singapore-bar-kap-house-of-tan-yeok-nee",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Upscale Asian cuisine plating, trendy dining setting",
+  "at": "2026-10-12T22:19:06.321Z"
+ },
  "singapore-bar-kap-house-of-tan-yeok-nee\u0001https://fastly.4sqi.net/img/general/original/13010698_Hf0GShQLVAPB_qq2gxFliSd0_F6fyfY60nL_sp4jQZk.jpg": {
   "slug": "singapore-bar-kap-house-of-tan-yeok-nee",
   "verdict": "MISMATCH",
@@ -24184,6 +24340,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Unrelated building, not Clarke Quay venue or performer",
   "at": "2026-10-12T00:43:43.191Z"
+ },
+ "singapore-toy-story-peaceminusone-the-first-fan\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Clarke_Quay%2C_Singapore%2C_at_night_-_20150308.jpg/3840px-Clarke_Quay%2C_Singapore%2C_at_night_-_20150308.jpg": {
+  "slug": "singapore-toy-story-peaceminusone-the-first-fan",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Clarke Quay waterfront at night, Singapore.",
+  "at": "2026-10-12T22:20:04.063Z"
  },
  "singapore-toy-story-peaceminusone-the-first-fan\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Shanghai_Toy_Story_Land.jpg/3840px-Shanghai_Toy_Story_Land.jpg": {
   "slug": "singapore-toy-story-peaceminusone-the-first-fan",
@@ -24835,6 +24997,12 @@
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: right market but a dark, blurred night shot through a car windscreen — not usable as a hero",
   "at": "2026-10-12T14:55:29.476Z"
+ },
+ "tagaytay-tagaytay-city-market\u0001https://fastly.4sqi.net/img/general/original/21875077_XDF696rMPjNXnngatNSOEaBXVBPvffxJ8dK8hHdCQm4.jpg": {
+  "slug": "tagaytay-tagaytay-city-market",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Night market with fresh produce, tropical fruits displayed",
+  "at": "2026-10-12T22:20:10.494Z"
  },
  "tagaytay-tagaytay-city-market\u0001https://fastly.4sqi.net/img/general/original/48562173_GMhWA4-x96xCofnoWI7vvmh5oF5YTtFrbTxp_Ad68wA.jpg": {
   "slug": "tagaytay-tagaytay-city-market",

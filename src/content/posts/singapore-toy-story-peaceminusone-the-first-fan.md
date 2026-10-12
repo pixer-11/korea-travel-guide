@@ -10,7 +10,6 @@ eventEndDate: '2026-11-11'
 eventRecurring: false
 eventVenue: Clarke Quay
 eventFactsAsked: true
-gallery: []
 tags:
   - singapore
   - event
@@ -28,6 +27,14 @@ faq:
     a: Fort Canning Park is next door, Hong Lim Market & Food Centre is a short walk away for hawker food, and Boat Quay and Robertson Quay sit downstream and upstream along the river.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Clarke_Quay%2C_Singapore%2C_at_night_-_20150308.jpg/3840px-Clarke_Quay%2C_Singapore%2C_at_night_-_20150308.jpg
+  credit: 'Photo: C1815. / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Clarke_Quay,_Singapore,_at_night_-_20150308.jpg
+  focus:
+    x: 50
+    'y': 45
 ---
 
 Woody and Buzz have spent three decades as Pixar's best-known double act. Here they share the room with a daisy, the flower G-Dragon has used as the emblem of PEACEMINUSONE. From October 16 to November 11, 2026, that crossover sets up at Clarke Quay, the run of old riverside warehouses along the Singapore River.

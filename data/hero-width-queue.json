@@ -2574,7 +2574,13 @@
   "frankfurt-main-tower\u0001https://fastly.4sqi.net/img/general/original/494865232_nPXcwFDvoZaIOdLP2v2usoaFby-oVCySZivFEU8Ztos.jpg": 1920,
   "chiba-chiba-park\u0001https://upload.wikimedia.org/wikipedia/commons/b/b7/Watauchi-ike_of_Chiba_Park_20110412a.jpg": 3000,
   "shanghai-shanghai-museum\u0001https://upload.wikimedia.org/wikipedia/commons/e/e6/%C2%B7%CB%99%C2%B7ChinaUli2010%C2%B7.%C2%B7_Shanghai_-_panoramio_%285%29.jpg": 2048,
-  "ulaanbaatar-ulaanbaatar-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Ulaanbaatar_Park.jpg/3840px-Ulaanbaatar_Park.jpg": 3840
+  "ulaanbaatar-ulaanbaatar-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Ulaanbaatar_Park.jpg/3840px-Ulaanbaatar_Park.jpg": 3840,
+  "bangkok-gamescom-asia-x-thailand-game-show-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/World_of_Warcraft_concert_stage_at_Gamescom_2013_%289588475585%29.jpg/3840px-World_of_Warcraft_concert_stage_at_Gamescom_2013_%289588475585%29.jpg": 3840,
+  "barcelona-young-posse-pilot3-world-tour-barcelona\u0001https://upload.wikimedia.org/wikipedia/commons/d/d0/Brett_Young_in_concert_2015.jpg": 2584,
+  "paris-young-posse-pilot-3-1st-flight-to-eur\u0001https://upload.wikimedia.org/wikipedia/commons/3/37/Brett_Young_in_concert_in_July_2017.jpg": 2011,
+  "singapore-bar-kap-house-of-tan-yeok-nee\u0001https://fastly.4sqi.net/img/general/original/13010698_5Y6pLXS4DInpkgZ4PTs_rH1lLXg9WhAC_7dvA7V2xzA.jpg": 1440,
+  "singapore-toy-story-peaceminusone-the-first-fan\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Clarke_Quay%2C_Singapore%2C_at_night_-_20150308.jpg/3840px-Clarke_Quay%2C_Singapore%2C_at_night_-_20150308.jpg": 3840,
+  "tagaytay-tagaytay-city-market\u0001https://fastly.4sqi.net/img/general/original/21875077_XDF696rMPjNXnngatNSOEaBXVBPvffxJ8dK8hHdCQm4.jpg": 1920
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -2873,8 +2879,8 @@
   },
   "barcelona-chambacu": {
    "width": 1103,
-   "attempts": 1,
-   "nextTry": "2026-10-11",
+   "attempts": 2,
+   "nextTry": "2026-10-19",
    "flaggedAt": "2026-09-24",
    "lastResult": "no-wider"
   },
@@ -2892,26 +2898,8 @@
    "flaggedAt": "2026-09-24",
    "lastResult": "no-wider"
   },
-  "new-delhi-purana-qila": {
-   "width": 1024,
-   "attempts": 0,
-   "nextTry": "2026-09-29",
-   "flaggedAt": "2026-09-29"
-  },
-  "cambridge-the-fitzwilliam-museum": {
-   "width": 1117,
-   "attempts": 0,
-   "nextTry": "2026-09-30",
-   "flaggedAt": "2026-09-30"
-  },
   "bangkok-iris-wild-iris": {
    "width": 1080,
-   "attempts": 0,
-   "nextTry": "2026-10-01",
-   "flaggedAt": "2026-10-01"
-  },
-  "adelaide-botanic-park": {
-   "width": 800,
    "attempts": 0,
    "nextTry": "2026-10-01",
    "flaggedAt": "2026-10-01"
@@ -3097,5 +3085,5 @@
    "flaggedAt": "2026-10-05"
   }
  },
- "updated": "2026-10-12T16:56:29.375Z"
+ "updated": "2026-10-12T22:23:05.423Z"
 }

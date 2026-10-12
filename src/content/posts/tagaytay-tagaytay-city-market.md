@@ -57,7 +57,14 @@ faq:
   - q: How long should I spend at the market?
     a: Around 45 minutes to an hour for a browse and a few purchases. Allow longer if you're shopping to cook at a rental. Afterwards you can head to the ridge for Picnic Grove or the Taal viewpoints.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/21875077_XDF696rMPjNXnngatNSOEaBXVBPvffxJ8dK8hHdCQm4.jpg
+  credit: 'Photo: Foursquare user content (Tagaytay City Fruit Market)'
+  license: foursquare
+  source: https://foursquare.com/v/5cf23ad90d173f002c29c3c4
+  focus:
+    x: 40
+    'y': 50
 ---
 
 ## A working market on a tourist ridge
