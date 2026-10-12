@@ -93,7 +93,7 @@ There's a routine here and staff explain it at the entrance.
 - **Silence:** conversation carries under the shell, and visitors keep it to whispers or nothing.
 - **The approach:** a curving path loops through woodland before the entrance. Walk all of it, because it sets up the view.
 
-Crowd measurements show weekends are busy for the whole day, 10am–4pm. Going on a weekday is the simplest way to get space on the floor. At the moment it opens 10am–4pm and closes on Tuesdays. Hours shift through the year and there are extra closures in winter, so check the official site for this month's schedule.
+Crowd measurements show weekends are busy for the whole day, 10am–4pm. Going on a weekday is the simplest way to get space on the floor. It opens 10am–5pm from March to September and 10am–4pm from October to February, and closes on Tuesdays; from December to February it also closes Wednesdays and Thursdays. The official site has this month's schedule.
 
 ## Rounding out the island day
 

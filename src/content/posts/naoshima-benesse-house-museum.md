@@ -46,7 +46,7 @@ faq:
   - q: "How do I get to Benesse House Museum from the ferry?"
     a: "Ferries from Uno Port (Okayama) and Takamatsu Port arrive at Miyanoura Port. Take the town bus to Tsutsuji-so and transfer to the free Benesse Art Site shuttle, or rent a bicycle or e-bike near the port. The last stretch is uphill."
   - q: "What are the opening hours?"
-    a: "Google currently lists it open 8am–9pm every day of this week. Museum hours shift through the year and some dates are closed, so check the official Benesse Art Site website for this month's schedule."
+    a: "Google currently lists it open 8am–9pm every day of this week. The museum is open every day of the year, 8am–9pm with last entry at 8pm; the official Benesse Art Site website posts any change."
   - q: "How long should I spend there?"
     a: "Allow one to two hours inside, plus extra time to walk down to Yayoi Kusama's yellow Pumpkin and the outdoor sculptures along the shore."
   - q: "Do I need to book tickets in advance?"
@@ -90,7 +90,7 @@ This museum keeps long hours. At the moment Google lists it open 8am–9pm every
 
 The usual pattern for day-trippers is to cram museums in around midday and leave on an afternoon ferry. So the hours near opening, and the evening once the day-trip crowd heads back to port, tend to feel calmer. That is reasoning from ferry logic, not a measurement. Seeing the neon and Ando's concrete after dark is a different experience from a bright afternoon.
 
-Museum hours shift through the year and some dates close. The official Benesse Art Site site has this month's schedule.
+The museum is open every day of the year, 8am–9pm, with last entry at 8pm. The official Benesse Art Site site posts any change.
 
 ## Reaching Gotanji on the south coast
 

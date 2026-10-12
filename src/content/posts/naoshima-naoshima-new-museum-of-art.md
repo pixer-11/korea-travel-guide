@@ -42,7 +42,7 @@ faq:
   - q: "What days is it open?"
     a: "At the moment it opens Tuesday to Sunday, 10am–4:30pm, and is closed on Mondays. The schedule can change around public holidays, so check the official Benesse Art Site Naoshima site before you go."
   - q: "Do I need to book tickets in advance?"
-    a: "Yes, booking is strongly recommended. Naoshima's major museums use timed online tickets. Reserve on the official Benesse Art Site site, which also lists the current price."
+    a: "Tickets are sold online and at the museum. Buying online on the official Benesse Art Site site is the safer choice in busy seasons; the site also lists the current price."
   - q: "How long should I spend there?"
     a: "Plan 1.5–2 hours for the museum. Add a few more hours for the nearby Art House Project, Minamidera and the Ando Museum in Honmura."
   - q: "What is the museum known for?"
@@ -59,9 +59,9 @@ You can see his hand right away. There is bare, smooth concrete, light comes in 
 
 Chichu leans toward a few Western masters. This museum's collection and rotating exhibitions focus on contemporary artists from Japan and the wider Asian region. If you have already seen the Monets and the Turrell at Chichu, this is the other half of the story.
 
-## Why it still feels quiet
+## Why it is worth the climb
 
-Most visitors to Naoshima head straight for the yellow pumpkin and Chichu. Many of them never climb the hill in Honmura. Because the museum is so new, it hasn't made it into most first-trip plans yet, and that is the reason to go now.
+Most visitors to Naoshima head straight for the yellow pumpkin and Chichu. The New Museum sits on the hill in Honmura, a short walk from the Art House Project, so it fits into the same half day.
 
 The visitors who do come tend to rate it highly. They mention the scale of the galleries and the calm between rooms, without the shoulder-to-shoulder feel of the big-name sites in peak season.
 
@@ -91,7 +91,7 @@ Arriving at 10am and starting with this museum works well. From there you can wa
 
 This museum is run by Benesse Art Site Naoshima, and it follows the same rules as the island's other museums.
 
-- **Reserve ahead.** Naoshima's major museums use timed online tickets, and walk-up entry isn't guaranteed. Buy your ticket on the official Benesse Art Site site, where the current price is listed.
+- **Buy online in busy seasons.** Tickets are sold online and at the museum; online is the safer choice at weekends and in holiday periods. The official Benesse Art Site site lists the current price.
 - **Mind the photo rules.** Photography is usually restricted inside the galleries. Staff will tell you where it's allowed, and the outdoor views are generally fine.
 - **Keep your voice down.** Ando's concrete carries sound, and other visitors came for the silence.
 - **Carry your bag the right way.** Large bags may need to go in lockers. Pack light for the day.
