@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: toulouse-jardin-royal
-srcHash: '5583a102d418'
+srcHash: '9b6977467c49'
 title: 'Jardin Royal: guía de viaje de Toulouse (4,6★)'
 description: 'El Jardin Royal es el jardín público más antiguo de Toulouse, situado en la esquina de Rue Ozenne y Allées Jules Guesde, cerca del Grand Rond. Abre todos los días de 8:00 a 21:00 y la entrada es gratuita. 4,6★ (2.110 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Jardin Royal es el jardín público más antiguo de Toulouse, situado en la esquina de Rue Ozenne y Allées Jules Guesde, cerca del Grand Rond. Abre todos los días de 8:00 a 21:00 y la entrada es gratuita. Las mañanas entre semana y los fines de semana antes de las 14:00 son los momentos más tranquilos para contemplar el estanque, los árboles exóticos y la estatua de Saint-Exupéry; conviene evitar la franja de 14:00 a 19:00 los fines de semana, cuando se llena de gente. La visita dura entre 20 y 30 minutos y se combina fácilmente con un paseo por el Grand Rond y el Jardin des Plantes, que están justo al lado.
@@ -9,7 +9,7 @@ faq:
   - q: ¿Hay que pagar entrada para visitar el Jardin Royal?
     a: No, la entrada es gratuita y el jardín abre todos los días de 8:00 a 21:00.
   - q: ¿Cuál es el momento más tranquilo para visitarlo?
-    a: Entre semana el jardín se mantiene tranquilo durante todo el día (9:00-21:00). Los fines de semana conviene llegar antes de las 14:00 para evitar la franja de mayor afluencia, que va de 14:00 a 19:00.
+    a: Entre semana el jardín se mantiene tranquilo por la mañana y a última hora de la tarde (9:00-11:00 y 20:00-21:00). Los fines de semana conviene llegar antes de las 14:00 para evitar la franja de mayor afluencia, que va de 14:00 a 19:00.
   - q: ¿Cuánto tiempo hay que reservar para la visita?
     a: Entre 20 y 30 minutos si solo se visita el Jardin Royal, o entre 30 y 40 minutos si se amplía el paseo hasta el Grand Rond y el Jardin des Plantes, que están conectados.
   - q: ¿Cómo se llega al Jardin Royal en metro?

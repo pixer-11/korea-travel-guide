@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: ninh-binh-hoa-lu-ancient-capital
-srcHash: '6161bb5150e3'
+srcHash: 'cf87ffee245d'
 title: 'Antigua Capital de Hoa Lu: Guía de Viaje de Ninh Binh (4,3★)'
 description: 'A unos 12 km al noroeste de la ciudad de Ninh Binh, Hoa Lu fue la sede en el siglo X de las primeras dinastías independientes de Vietnam, con dos templos reconstruidos (Dinh Tien Hoang y Le Dai Hanh) enmarcados por macizos de piedra caliza. 4,3★ (12.402 reseñas): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: A unos 12 km al noroeste de la ciudad de Ninh Binh, la Antigua Capital de Hoa Lu fue la sede en el siglo X de las primeras dinastías independientes de Vietnam, con dos templos reconstruidos (Dinh Tien Hoang y Le Dai Hanh) enmarcados por macizos de piedra caliza. Abre todos los días de 7:00 a 17:00; los fines de semana conviene llegar justo a la apertura (entre las 7:00 y las 8:00) para evitar la avalancha de autobuses turísticos de 9:00 a 14:00. Calcule entre 1 y 1,5 horas de visita, y combínela el mismo día con un paseo en barca por Trang An o Tam Coc.
@@ -9,7 +9,7 @@ faq:
   - q: ¿Cuánto tiempo hay que dedicarle a la Antigua Capital de Hoa Lu?
     a: Calcule entre 1 y 1,5 horas para ver los dos templos principales y los restos de la ciudadela; si sube al mirador de la montaña Yen Ngua, añada entre 30 y 45 minutos más.
   - q: ¿Cuál es el momento más tranquilo para visitarla?
-    a: Los días de semana son tranquilos durante todo el horario (7:00 a 17:00). Los fines de semana, conviene ir justo a la apertura, entre las 7:00 y las 8:00, antes de que lleguen los autobuses turísticos entre las 9:00 y las 14:00.
+    a: Los días de semana son tranquilos de 7:00 a 9:00 y de 16:00 a 17:00. Los fines de semana, conviene ir justo a la apertura, entre las 7:00 y las 8:00, antes de que lleguen los autobuses turísticos entre las 9:00 y las 14:00.
   - q: ¿Cómo se llega a Hoa Lu desde la ciudad de Ninh Binh?
     a: Está a unos 12 km al noroeste, a unos 20 minutos en coche, ya sea en scooter, en coche privado o con un tour organizado de día completo; no hay autobús ni tren directo.
   - q: ¿Se puede combinar Hoa Lu con otros lugares de Ninh Binh en un solo día?
@@ -47,7 +47,7 @@ Dentro de los templos, una luz tenue se filtra a través de celosías de madera 
 
 El recinto abre todos los días, de 7:00 a 17:00. La primavera (de febrero a abril) trae una luz suave y neblinosa junto con un aire más fresco; en verano, el calor y la humedad aprietan ya a media mañana.
 
-Los fines de semana suelen atraer notablemente más visitantes que los días de semana, sobre todo a última hora de la mañana y primera de la tarde. Los días de semana, en cambio, se mantienen tranquilos durante toda la franja de 7:00 a 17:00.
+Los fines de semana suelen atraer notablemente más visitantes que los días de semana, sobre todo a última hora de la mañana y primera de la tarde. Los días de semana, en cambio, se mantienen tranquilos de 7:00 a 9:00 y de 16:00 a 17:00.
 
 Si solo se puede ir en fin de semana, conviene llegar justo a las 7:00: durante esa primera hora, los patios quedan casi para uno solo.
 

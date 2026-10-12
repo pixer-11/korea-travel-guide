@@ -1,13 +1,13 @@
 ---
 lang: es
 slug: manchester-alexandra-park
-srcHash: '77f68d3f8c4f'
+srcHash: '4242593c0b04'
 title: 'Alexandra Park: guía de viaje de Mánchester (4.6★)'
 description: En el sur de Mánchester, entre Whalley Range y Moss Side, el parque victoriano Alexandra Park ocupa 60 acres en Russell Street. Tiene un lago, campos deportivos y zonas de juego infantiles, y abre todos los días de 6am a medianoche. Con una valoración de 4.6★ (4,571 reseñas), aquí encontrará las opiniones de los visitantes, el horario y varios consejos.
-quickAnswer: En el sur de Mánchester, entre Whalley Range y Moss Side, el parque victoriano Alexandra Park ocupa 60 acres en Russell Street. Cuenta con un lago, campos deportivos y zonas de juego infantiles, y abre todos los días de 6am a medianoche. Entre semana el ambiente es tranquilo durante toda la franja de 7am–11pm. El fin de semana, en cambio, la mayor afluencia se concentra de 8am–6pm, así que conviene ir temprano o al anochecer si se quieren tener los senderos casi para uno mismo.
+quickAnswer: En el sur de Mánchester, entre Whalley Range y Moss Side, el parque victoriano Alexandra Park ocupa 60 acres en Russell Street. Cuenta con un lago, campos deportivos y zonas de juego infantiles, y abre todos los días de 6am a medianoche. Entre semana el ambiente es tranquilo de 7am–9am y de 10pm–11pm. El fin de semana, en cambio, la mayor afluencia se concentra de 8am–6pm, así que conviene ir temprano o al anochecer si se quieren tener los senderos casi para uno mismo.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar Alexandra Park?
-    a: Entre semana, el parque está tranquilo durante toda la franja de 7am–11pm. Los fines de semana la mayor afluencia se da de 8am–6pm, así que, si busca calma, vaya antes de las 8am o después de las 6pm.
+    a: Entre semana, el parque está tranquilo de 7am–9am y de 10pm–11pm. Los fines de semana la mayor afluencia se da de 8am–6pm, así que, si busca calma, vaya antes de las 8am o después de las 6pm.
   - q: ¿Cuál es el horario de Alexandra Park?
     a: Según el horario publicado, abre todos los días de la semana de 6am a medianoche.
   - q: ¿Cómo se llega a Alexandra Park desde el centro de Mánchester?
@@ -45,8 +45,8 @@ El resto del año, el carácter del parque lo define el uso cotidiano de los vec
 
 Según el horario publicado, las puertas abren de 6am a medianoche los siete días de la semana. Hay, por tanto, margen de sobra para esquivar las horas de mayor afluencia:
 
-- **Entre semana:** reina la tranquilidad durante toda la franja de 7am–11pm, así que casi cualquier momento es bueno.
-- **Fines de semana:** según nuestros datos de afluencia, el ambiente también es tranquilo de 7am–11pm, aunque la franja más concurrida va de 8am–6pm. Si un sábado o un domingo quiere encontrar un banco libre junto al lago, procure no llegar a media mañana ni a media tarde.
+- **Entre semana:** reina la tranquilidad de 7am–9am y de 10pm–11pm, así que casi cualquier momento es bueno.
+- **Fines de semana:** según nuestros datos de afluencia, el ambiente también es tranquilo de 7am–8am y de 9pm–11pm, aunque la franja más concurrida va de 8am–6pm. Si un sábado o un domingo quiere encontrar un banco libre junto al lago, procure no llegar a media mañana ni a media tarde.
 - **Madrugar:** los fines de semana, entre las 6am y las 8am, podrá disfrutar de los senderos antes de que llegue la gente.
 
 Algunas costumbres le ayudarán a integrarse. Cerca de las zonas de juego y de las aves del lago, mantenga al perro bajo control. Como las praderas soportan mucho uso, tire la basura en las papeleras o llévesela a casa después del pícnic. Ciclistas y peatones comparten los senderos, de modo que circule por la izquierda y preste atención en los paseos principales.

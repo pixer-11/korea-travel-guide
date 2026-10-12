@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: hong-kong-po-lin-monastery
-srcHash: '024b7832640b'
+srcHash: 'caa0db15203b'
 title: 'Monasterio Po Lin: Guía de viaje de Hong Kong (4,5★)'
 description: 'El Monasterio Po Lin, en la isla de Lantau, abre todos los días de 9:00 a 18:00, y la forma más tranquila de visitarlo es tomar el primer teleférico de Ngong Ping 360 y llegar al Gran Buda antes de las 10:00. 4,5★ (10.473 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Monasterio Po Lin, en la isla de Lantau, abre todos los días de 9:00 a 18:00, y la forma más tranquila de visitarlo es tomar el primer teleférico de Ngong Ping 360 y llegar al Gran Buda antes de las 10:00. Los fines de semana entre las 10:00 y las 16:00 se llena de grupos turísticos, así que conviene ir a primera hora o después de las 16:00. Reserva medio día, incluyendo el trayecto en teleférico y los 268 escalones hasta el Buda de Tian Tan.
@@ -9,7 +9,7 @@ faq:
   - q: ¿Cuál es el horario del Monasterio Po Lin?
     a: Abre todos los días de 9:00 a 18:00, sin variaciones a lo largo de la semana; organiza el horario de tu teleférico en función de esta franja.
   - q: ¿Cuándo es el momento más tranquilo para visitarlo?
-    a: El lugar se mantiene relativamente tranquilo durante toda la franja de 9:00 a 18:00, tanto en días de semana como en fines de semana, siempre que evites el pico de fin de semana entre las 10:00 y las 16:00, cuando convergen los grupos turísticos.
+    a: El lugar se mantiene relativamente tranquilo de 9:00 a 11:00 y de 17:00 a 18:00 los días de semana, y de 9:00 a 10:00 y de 17:00 a 18:00 los fines de semana, siempre que evites el pico de fin de semana entre las 10:00 y las 16:00, cuando convergen los grupos turísticos.
   - q: ¿Cómo llego al Monasterio Po Lin desde el centro de Hong Kong?
     a: Toma la línea Tung Chung del MTR hasta la estación de Tung Chung y, desde allí, el teleférico Ngong Ping 360 (unos 25 minutos) o el autobús 23, ambos con parada cerca del monasterio.
   - q: ¿Cuánto tiempo debería dedicarle?
@@ -49,7 +49,7 @@ Lleva calzado con el que puedas subir escalones: las sandalias son habituales, p
 
 El horario de apertura es de 9:00 a 18:00 todos los días de la semana, así que no hay ningún hueco a primera hora de la mañana ni por la noche fuera de esa franja. La verdadera variable son las multitudes, no el horario.
 
-Los fines de semana entre las 10:00 y las 16:00 son el momento de mayor aglomeración, cuando los autobuses turísticos y las colas del teleférico están en su peor punto. Los días de semana se mantienen relativamente tranquilos durante toda la franja de 9:00 a 18:00, y los fines de semana también son más tranquilos si evitas ese pico de mediodía.
+Los fines de semana entre las 10:00 y las 16:00 son el momento de mayor aglomeración, cuando los autobuses turísticos y las colas del teleférico están en su peor punto. Los días de semana se mantienen relativamente tranquilos de 9:00 a 11:00 y de 17:00 a 18:00, y los fines de semana también son más tranquilos si evitas ese pico de 10:00 a 16:00.
 
 El otoño y el invierno (de octubre a febrero) traen un clima más fresco y despejado, con mejores probabilidades de tener una vista sin obstrucciones desde la plataforma del Buda. El verano es húmedo, y la temporada de tifones puede cerrar por completo el teleférico, así que conviene tener flexibilidad si visitas entre julio y septiembre.
 

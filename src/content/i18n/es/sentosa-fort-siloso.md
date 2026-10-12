@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: sentosa-fort-siloso
-srcHash: '5192ed17a9e3'
+srcHash: 'a05d92755d6a'
 title: 'Fort Siloso: Guía de viaje de Sentosa (4,6★)'
 description: 'Fort Siloso, el fuerte costero de la Segunda Guerra Mundial restaurado en Sentosa, se encuentra en el extremo occidental de Siloso Road y abre todos los días de 9:00 a 18:00. 4,6★ (2.611 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Fort Siloso, el fuerte costero de la Segunda Guerra Mundial restaurado en Sentosa, se encuentra en el extremo occidental de Siloso Road y abre todos los días de 9:00 a 18:00. Las mañanas de fin de semana entre las 9:00 y las 11:00 son el momento más tranquilo, así que aprovecha esa franja si quieres tener las baterías de artillería y los túneles para ti solo. Reserva al menos dos horas para recorrer todo el recinto, y más si te apasiona la historia militar.
@@ -11,7 +11,7 @@ faq:
   - q: ¿Cuánto tiempo conviene dedicarle a Fort Siloso?
     a: Calcula al menos dos horas para ver las Cámaras de la Rendición, las baterías de artillería, los túneles y el Skywalk sin prisas; los aficionados a la historia suelen quedarse casi tres.
   - q: ¿Cuándo hay menos afluencia en Fort Siloso?
-    a: Entre semana suele haber poca gente durante todo el horario de apertura, de 9:00 a 18:00. Los fines de semana, llega entre las 9:00 y las 11:00, antes de que se acumulen los grupos turísticos; procura evitar el tramo de 14:00 a 18:00.
+    a: Entre semana suele haber poca gente de 9:00 a 10:00 y de 17:00 a 18:00, dentro del horario de apertura de 9:00 a 18:00. Los fines de semana, llega entre las 9:00 y las 11:00, antes de que se acumulen los grupos turísticos; procura evitar el tramo de 14:00 a 18:00.
   - q: ¿Es Fort Siloso adecuado para niños?
     a: Sí, las pantallas táctiles interactivas, la artillería real a la que se puede acceder y la pasarela Skywalk mantienen entretenidos a la mayoría de los niños, aunque las Cámaras de la Rendición, por su temática bélica, resultan más apropiadas para niños mayores.
   - q: ¿Qué más hay cerca de Fort Siloso?

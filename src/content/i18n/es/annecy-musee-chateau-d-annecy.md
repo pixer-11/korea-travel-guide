@@ -1,10 +1,10 @@
 ---
 lang: es
 slug: annecy-musee-chateau-d-annecy
-srcHash: 'd3de4718bceb'
+srcHash: 'c168210b5483'
 title: 'Musée-Château d''Annecy: guía de viaje (4,1★)'
 description: 'El Musée-Château d''Annecy corona la colina que domina el casco antiguo, a solo 10 minutos a pie de los canales de Annecy, y alberga arte regional, escultura y exposiciones temporales de arte contemporáneo dentro de un castillo medieval auténticamente restaurado. 4,1★ (5.783 reseñas): lo que dicen los visitantes, horarios y consejos.'
-quickAnswer: El Musée-Château d'Annecy corona la colina que domina el casco antiguo, a solo 10 minutos a pie de los canales de Annecy, y alberga arte regional, escultura y exposiciones temporales de arte contemporáneo dentro de un castillo medieval auténticamente restaurado. Abre todos los días excepto los martes, de 10:30 a 18:00. Lo mejor es ir entre la 13:00 y las 14:00 cualquier día para evitar las aglomeraciones, sobre todo los fines de semana, cuando el tramo de 11:00 a 18:00 se llena de gente.
+quickAnswer: El Musée-Château d'Annecy corona la colina que domina el casco antiguo, a solo 10 minutos a pie de los canales de Annecy, y alberga arte regional, escultura y exposiciones temporales de arte contemporáneo dentro de un castillo medieval auténticamente restaurado. Abre todos los días excepto los martes, de 10:30 a 18:00. Lo mejor es ir entre la 13:00 y las 14:00 cualquier día para evitar las aglomeraciones, sobre todo los fines de semana, cuando los tramos de 11:00 a 13:00 y de 14:00 a 18:00 se llenan de gente.
 faq:
   - q: ¿Cuál es el horario de apertura?
     a: Abre de 10:30 a 18:00 todos los días excepto los martes, cuando el museo permanece completamente cerrado.

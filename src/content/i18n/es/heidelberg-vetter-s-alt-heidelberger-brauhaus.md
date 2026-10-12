@@ -1,13 +1,13 @@
 ---
 lang: es
 slug: heidelberg-vetter-s-alt-heidelberger-brauhaus
-srcHash: 'c44593d1147f'
+srcHash: 'f852c7d1efba'
 title: 'Vetter''s Alt Heidelberger Brauhaus: dónde comer en Heidelberg'
 description: 'En el número 9 de la Steingasse, en pleno casco antiguo (Altstadt) de Heidelberg y a pocos pasos del Puente Viejo, la tradicional cervecería Vetter''s Alt Heidelberger Brauhaus sirve cerveza de barril de elaboración propia con salchichas, escalopes y pretzels a precios moderados. Valoración de 4.6★ (6,676 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En el número 9 de la Steingasse, en pleno casco antiguo (Altstadt) de Heidelberg y a pocos pasos del Puente Viejo, se encuentra Vetter's Alt Heidelberger Brauhaus, una cervecería tradicional que sirve su propia cerveza de barril con salchichas, escalopes y pretzels a precios moderados. Abre todos los días a las 11am. Entre semana resulta más fácil conseguir mesa. Conviene evitar el fin de semana entre la 1pm y las 11pm, cuando registra su máxima afluencia.
 faq:
   - q: ¿Cuándo hay menos gente en Vetter's Alt Heidelberger Brauhaus?
-    a: La franja más tranquila va de 11am a 11pm entre semana, y en fin de semana se aplica ese mismo horario. Lo mejor es evitar el sábado y el domingo entre la 1pm y las 11pm, el periodo de mayor afluencia. Si solo puede ir en fin de semana, llegue a la apertura de las 11am y se adelantará a la avalancha.
+    a: Las franjas más tranquilas van de 11am a 1pm y de 10pm a 11pm entre semana, y de 11am a 12pm en fin de semana. Lo mejor es evitar el sábado y el domingo entre la 1pm y las 11pm, el periodo de mayor afluencia. Si solo puede ir en fin de semana, llegue a la apertura de las 11am y se adelantará a la avalancha.
   - q: ¿Cuál es el horario de apertura?
     a: Abre todos los días a las 11am. De domingo a jueves cierra a medianoche, y los viernes y sábados, a la 1am.
   - q: ¿Cómo se llega desde Bismarckplatz?
@@ -56,7 +56,7 @@ Si va en grupo un fin de semana por la noche, procure reservar con antelación. 
 
 Vetter's abre todos los días a las 11am. De domingo a jueves cierra a medianoche, y los viernes y sábados, a la 1am. Con un horario tan amplio, la elección depende sobre todo del bullicio que esté dispuesto a soportar.
 
-Lo más sencillo es ir entre semana: la franja de 11am a 11pm es la más tranquila. Lo que hay que evitar son las horas punta del fin de semana. Los sábados y domingos, entre la 1pm y las 11pm, el local se llena y encontrar sitio para un grupo se complica.
+Lo más sencillo es ir entre semana: las franjas de 11am a 1pm y de 10pm a 11pm son las más tranquilas. Lo que hay que evitar son las horas punta del fin de semana. Los sábados y domingos, entre la 1pm y las 11pm, el local se llena y encontrar sitio para un grupo se complica.
 
 Si el fin de semana es su única oportunidad, almuerce a las 11am, nada más abrir, y se adelantará a la avalancha de la 1pm. Los viernes y sábados, la ampliación del horario hasta la 1am permite tomar la última copa después de haber cenado en otro sitio.
 

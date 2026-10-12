@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: pattaya-nongnooch-pattaya-garden
-srcHash: '929ef116ff9b'
+srcHash: 'd05ff3ec05f7'
 title: 'Jardín Nongnooch Pattaya: Guía de viaje (4.6★)'
 description: 'El Jardín Nongnooch Pattaya, un parque botánico de 500 acres en Na Chom Thian, distrito de Sattahip, al sur del centro de Pattaya, abre todos los días de 8:00 a 18:00 y conviene visitarlo justo a la apertura. 4.6★ (44,349 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Jardín Nongnooch Pattaya, un parque botánico de 500 acres en Na Chom Thian, distrito de Sattahip, al sur del centro de Pattaya, abre todos los días de 8:00 a 18:00 y conviene visitarlo justo a la apertura. Los fines de semana se llena entre las 11:00 y las 16:00, así que llegar temprano te permite recorrer los jardines de topiarios y cactus sin gente antes de que lleguen los autobuses turísticos. Si además quieres ver el espectáculo de elefantes y el show cultural, calcula al menos medio día.
@@ -9,7 +9,7 @@ faq:
   - q: ¿Cómo se llega al Jardín Nongnooch Pattaya?
     a: Se encuentra en Na Chom Thian, distrito de Sattahip, al sur del centro de Pattaya. La mayoría de los visitantes llega en taxi, songthaew o con un traslado de tour reservado, ya que no existe una línea de autobús público directa desde el centro de Pattaya.
   - q: ¿Cuál es el mejor momento para ir sin aglomeraciones?
-    a: Tanto los días entre semana como las primeras horas del fin de semana (8:00–18:00) resultan más tranquilos en general, pero lo más seguro es llegar justo a la apertura, a las 8:00, cualquier día, ya que los fines de semana se llena mucho entre las 11:00 y las 16:00.
+    a: Tanto los días entre semana como las horas tempranas y finales del fin de semana (8:00–10:00 y 17:00–18:00) resultan más tranquilos en general, pero lo más seguro es llegar justo a la apertura, a las 8:00, cualquier día, ya que los fines de semana se llena mucho entre las 11:00 y las 16:00.
   - q: ¿Cuánto tiempo conviene reservar para la visita?
     a: Al menos de tres a cuatro horas para ver algunos jardines temáticos y un espectáculo. Medio día completo permite ver el show de elefantes, la actuación cultural y almorzar en el lugar.
   - q: ¿Vale la pena ir en fin de semana?

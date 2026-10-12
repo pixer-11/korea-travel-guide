@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: new-york-top-of-the-rock
-srcHash: '904e9907e5f9'
+srcHash: 'b67e90be888f'
 title: 'Top of The Rock: Guía de viaje de Nueva York (4.7★)'
 description: Top of The Rock, el mirador ubicado en los pisos 67 a 70 del Rockefeller Center, abre todos los días de 8am a medianoche (el último ascensor suele salir alrededor de las 11pm), y es más tranquilo si vas justo a las 8am o más tarde en la noche — evita el tramo de 4pm a 8pm los fines de semana, cuando el mirador se llena más rápido. 4.7★ (91,356 reseñas) — lo que dicen los visitantes, horarios y consejos.
 quickAnswer: Top of The Rock, el mirador ubicado en los pisos 67 a 70 del Rockefeller Center, abre todos los días de 8am a medianoche (el último ascensor suele salir alrededor de las 11pm), y es más tranquilo si vas justo a las 8am o más tarde en la noche — evita el tramo de 4pm a 8pm los fines de semana, cuando el mirador se llena más rápido. Reserva un boleto con hora asignada en línea con anticipación; este es uno de los miradores con más reseñas de la ciudad, y las filas sin reserva las tardes de fin de semana pueden quitarte una hora de tu día.
@@ -9,7 +9,7 @@ faq:
   - q: ¿Cuál es el horario de Top of The Rock?
     a: Abre todos los días de 8am a medianoche, y el acceso al último ascensor suele ser aproximadamente una hora antes del cierre — confirma la hora exacta al reservar, ya que puede variar según la temporada.
   - q: ¿Cuál es el momento más tranquilo para visitarlo?
-    a: Los datos medidos de afluencia muestran que las franjas más tranquilas son justo a la apertura y más tarde en la noche (aproximadamente de 8am a 11pm, tanto entre semana como los fines de semana), mientras que de 4pm a 8pm los fines de semana es el tramo más concurrido, que conviene evitar.
+    a: Los datos medidos de afluencia muestran que las franjas más tranquilas son justo a la apertura y más tarde en la noche (de 8am a 9am y de 10pm a 11pm entre semana, y de 8am a 12pm y de 9pm a 11pm los fines de semana), mientras que de 4pm a 8pm los fines de semana es el tramo más concurrido, que conviene evitar.
   - q: ¿Cómo llego en metro?
     a: Toma el tren B, D, F o M hasta 47–50 Sts–Rockefeller Center, cuya salida da casi directamente al edificio; el tren 6 (51st St) y el E/M (Fifth Ave–53rd St) también están a poca distancia caminando.
   - q: ¿Debo reservar boletos con anticipación?

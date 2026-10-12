@@ -833,6 +833,12 @@
     "es": "Fukuoka",
     "zh": "福冈"
   },
+  "Funabashi": {
+    "ko": "후나바시",
+    "ja": "船橋",
+    "es": "Funabashi",
+    "zh": "船桥"
+  },
   "Füssen": {
     "ko": "퓌센",
     "ja": "フュッセン",
@@ -1481,6 +1487,12 @@
     "es": "Le Castellet",
     "zh": "勒卡斯特莱"
   },
+  "Leicester": {
+    "ko": "레스터",
+    "ja": "レスター",
+    "es": "Leicester",
+    "zh": "莱斯特"
+  },
   "Leipzig": {
     "ko": "라이프치히",
     "ja": "ライプツィヒ",
@@ -1775,6 +1787,12 @@
     "es": "Múnich",
     "zh": "慕尼黑"
   },
+  "Muntinlupa": {
+    "ko": "문틴루파",
+    "ja": "ムンティンルパ",
+    "es": "Muntinlupa",
+    "zh": "蒙廷卢帕"
+  },
   "Murun": {
     "ko": "무릉",
     "ja": "ムルン",
@@ -1840,6 +1858,12 @@
     "ja": "南投",
     "es": "Nantou",
     "zh": "南投"
+  },
+  "Naoshima": {
+    "ko": "나오시마",
+    "ja": "直島",
+    "es": "Naoshima",
+    "zh": "直岛"
   },
   "Naples": {
     "ko": "나폴리",
@@ -2033,6 +2057,12 @@
     "es": "Ciudad de Pasay",
     "zh": "帕塞市"
   },
+  "Pathum Thani": {
+    "ko": "파툼타니",
+    "ja": "パトゥムターニー",
+    "es": "Pathum Thani",
+    "zh": "巴吞他尼"
+  },
   "Pattaya": {
     "ko": "파타야",
     "ja": "パタヤ",
@@ -2068,6 +2098,12 @@
     "ja": "フィリピン",
     "es": "Filipinas",
     "zh": "菲律宾"
+  },
+  "Phillip Island": {
+    "ko": "필립 아일랜드",
+    "ja": "フィリップ島",
+    "es": "Isla Phillip",
+    "zh": "菲利普岛"
   },
   "Phnom Penh": {
     "ko": "프놈펜",
@@ -2938,11 +2974,5 @@
     "ja": "張家界",
     "es": "Zhangjiajie",
     "zh": "张家界"
-  },
-  "Naoshima": {
-    "ko": "나오시마",
-    "ja": "直島",
-    "es": "Naoshima",
-    "zh": "直岛"
   }
 }

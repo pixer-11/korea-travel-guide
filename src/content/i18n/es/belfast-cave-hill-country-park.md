@@ -1,13 +1,13 @@
 ---
 lang: es
 slug: belfast-cave-hill-country-park
-srcHash: '636ef904098c'
+srcHash: '9ad64e62fe68'
 title: 'Cave Hill Country Park: guía de viaje de Belfast (4.8★)'
 description: En el norte de Belfast, junto a Antrim Road, el Cave Hill Country Park ocupa una ladera de basalto abierta las 24 horas. Sus senderos pasan junto a cuevas y un fuerte de la Edad del Hierro hasta subir a la Nariz de Napoleón, y en la parte baja se alza el castillo de Belfast. Tiene una valoración de 4.8★ (653 reseñas). Aquí encontrará opiniones de visitantes, horarios y consejos.
 quickAnswer: En el norte de Belfast, junto a Antrim Road, el Cave Hill Country Park ocupa una ladera de basalto abierta las 24 horas. Sus senderos pasan junto a cuevas y un fuerte de la Edad del Hierro hasta subir a la Nariz de Napoleón, y en la parte baja se alza el castillo de Belfast. Para completar el circuito entero conviene reservar entre 2 y 3 horas. Los fines de semana es mejor empezar a las 8am, porque la afluencia de gente aumenta a partir de las 10am y no baja hasta las 8pm.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Cave Hill Country Park?
-    a: Los fines de semana, según las mediciones, la franja más tranquila va de 8am a 8pm y la de mayor afluencia, de 10am a 8pm. Como la gente empieza a llegar a partir de las 10am, quien salga a las 8am encontrará los senderos mucho más despejados. No hay datos de afluencia para los días laborables.
+    a: Los fines de semana, según las mediciones, la franja más tranquila va de 8am a 10am y la de mayor afluencia, de 10am a 1pm y de 6pm a 8pm. Como la gente empieza a llegar a partir de las 10am, quien salga a las 8am encontrará los senderos mucho más despejados. No hay datos de afluencia para los días laborables.
   - q: ¿Cómo se llega a Cave Hill desde el centro de Belfast?
     a: Tome el autobús 1 de Translink Metro, que sube por Antrim Road, y bájese cerca del castillo de Belfast (Belfast Castle) o del zoo de Belfast (Belfast Zoo). Desde allí hay que seguir a pie cuesta arriba. Si va en coche, puede aparcar en el castillo de Belfast.
   - q: ¿Cuánto se tarda en recorrer Cave Hill?
@@ -42,7 +42,7 @@ Quien vaya en coche puede dejarlo en los aparcamientos del castillo o de la entr
 
 ## Cuándo subir y cómo compartir la cima
 
-Aunque el parque abre las 24 horas, los caminos que bordean el acantilado carecen de iluminación y caen a pico, por lo que conviene caminar de día. Los fines de semana, según las mediciones de afluencia, la franja más tranquila va de 8am a 8pm y la más concurrida, de 10am a 8pm. En la práctica, la gente empieza a llegar a partir de las 10am y no se marcha hasta la tarde.
+Aunque el parque abre las 24 horas, los caminos que bordean el acantilado carecen de iluminación y caen a pico, por lo que conviene caminar de día. Los fines de semana, según las mediciones de afluencia, la franja más tranquila va de 8am a 10am y la más concurrida, de 10am a 1pm y de 6pm a 8pm. En la práctica, la gente empieza a llegar a partir de las 10am y no se marcha hasta la tarde.
 
 Si sale a las 8am, tendrá el fuerte de McArt casi para usted solo antes de que llegue la oleada de media mañana.
 

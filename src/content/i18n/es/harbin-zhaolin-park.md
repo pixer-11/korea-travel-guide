@@ -1,10 +1,10 @@
 ---
 lang: es
 slug: harbin-zhaolin-park
-srcHash: 'c94aea63cec1'
+srcHash: '440591687ca8'
 title: 'Parque Zhaolin: Guía de viaje de Harbin'
 description: El parque Zhaolin, en el distrito de Daoli de Harbin, es un pequeño jardín junto al lago conocido sobre todo por sus exhibiciones invernales de faroles de hielo y, en los meses cálidos, por su tranquilo lago para botes y sus parterres de flores.
-quickAnswer: El parque Zhaolin, en el distrito de Daoli de Harbin, es un pequeño jardín junto al lago conocido sobre todo por sus exhibiciones invernales de faroles de hielo y, en los meses cálidos, por su tranquilo lago para botes y sus parterres de flores. Es un complemento fácil a una visita a la calle Zhongyang (Zhongyang Street) o al Monumento al Control de Inundaciones, y sigue siendo un lugar genuinamente poco frecuentado en comparación con Ice and Snow World. Los fines de semana, el momento más tranquilo es de 5 a 10 de la noche; conviene evitar el tramo de 7 de la mañana a 11 de la noche, cuando se concentran las multitudes.
+quickAnswer: El parque Zhaolin, en el distrito de Daoli de Harbin, es un pequeño jardín junto al lago conocido sobre todo por sus exhibiciones invernales de faroles de hielo y, en los meses cálidos, por su tranquilo lago para botes y sus parterres de flores. Es un complemento fácil a una visita a la calle Zhongyang (Zhongyang Street) o al Monumento al Control de Inundaciones, y sigue siendo un lugar genuinamente poco frecuentado en comparación con Ice and Snow World. Los fines de semana, el momento más tranquilo es de 6 a 10 de la noche; conviene evitar los tramos de 7 de la mañana a 12 del mediodía, de 2 a 6 de la tarde y de 10 a 11 de la noche, cuando se concentran las multitudes.
 faq:
   - q: ¿Dónde está exactamente el parque Zhaolin?
     a: En el número 377 de Sen Lin Jie, en el distrito de Daoli, Harbin, a poca distancia a pie del extremo sur de la zona peatonal comercial de la calle Zhongyang (Zhongyang Street).

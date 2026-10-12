@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: selcuk-the-temple-of-artemis
-srcHash: '23a5dfb33b6f'
+srcHash: 'd35b2ae20850'
 title: 'Templo de Artemisa: guía de viaje de Selçuk (4,2★)'
 description: 'El yacimiento del Templo de Artemisa en Selçuk es un terreno abierto y gratuito donde una sola columna reconstruida señala el lugar donde se alzó una de las Siete Maravillas del Mundo Antiguo. 4,2★ (6.299 reseñas): qué opinan los visitantes, horarios y consejos.'
 quickAnswer: 'El yacimiento del Templo de Artemisa en Selçuk es un terreno abierto y gratuito donde una sola columna reconstruida señala el lugar donde se alzó una de las Siete Maravillas del Mundo Antiguo. Abre todos los días de 8:00 a 19:00, y el momento más tranquilo para visitarlo es cualquier mañana entre semana, bien antes de la avalancha de fin de semana entre las 14:00 y las 18:00. Calcula entre 20 y 30 minutos: es una parada breve y sobrecogedora, no una ruina para pasar media jornada.'
@@ -11,7 +11,7 @@ faq:
   - q: ¿Cuánto tiempo conviene reservar para la visita?
     a: La mayoría de los visitantes necesita entre 20 y 30 minutos, ya que solo quedan una columna reconstruida y algunos fragmentos dispersos.
   - q: ¿Cuál es el momento más tranquilo para ir?
-    a: Cualquier hora entre las 8:00 y las 19:00 entre semana resulta tranquila, y los fines de semana también se mantienen calmados salvo entre las 14:00 y las 18:00, cuando se concentran los grupos turísticos.
+    a: Entre semana resulta tranquilo de 8:00 a 10:00 y de 18:00 a 19:00, y los fines de semana también se mantienen calmados de 8:00 a 11:00 y de 18:00 a 19:00, pero hay mucha afluencia entre las 14:00 y las 18:00, cuando se concentran los grupos turísticos.
   - q: ¿Cómo se llega desde el centro de Selçuk o desde Éfeso?
     a: Se llega caminando en unos 20 minutos desde la estación de tren del centro de Selçuk, o bien desde el yacimiento arqueológico de Éfeso, a unos 3 km (un breve trayecto en taxi o dolmuş).
   - q: ¿Qué más se puede ver cerca?
@@ -47,7 +47,7 @@ Conviene calzar algo que no importe embarrar cerca del agua, sobre todo después
 
 ## Cuándo ir
 
-El yacimiento abre todos los días de 8:00 a 19:00, sin cierre a mediodía. Las mañanas entre semana son sistemáticamente el momento más tranquilo, y los fines de semana también se mantienen calmados durante ese mismo horario de 8:00 a 19:00, salvo por un bajón predecible. Los grupos turísticos tienden a concentrarse las tardes de fin de semana, con más afluencia entre las 14:00 y las 18:00, así que conviene ir más temprano si se quiere tener el campo para uno mismo.
+El yacimiento abre todos los días de 8:00 a 19:00, sin cierre a mediodía. Las mañanas entre semana son sistemáticamente el momento más tranquilo, y los fines de semana también se mantienen calmados de 8:00 a 11:00 y de 18:00 a 19:00. Los grupos turísticos tienden a concentrarse las tardes de fin de semana, con más afluencia entre las 14:00 y las 18:00, así que conviene ir más temprano si se quiere tener el campo para uno mismo.
 
 En primavera regresan las cigüeñas a anidar sobre la columna, lo cual es quizás la mejor razón para planear la visita entre abril y junio.
 

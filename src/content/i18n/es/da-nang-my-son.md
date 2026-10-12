@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: da-nang-my-son
-srcHash: 'd581fe5f564c'
+srcHash: '3e17b66aa8d2'
 title: 'My Son: guía de viaje desde Da Nang (4.5★)'
 description: 'My Son es un conjunto de templos hinduistas de ladrillo rojo, ya erosionados por el tiempo, construidos por el reino de Champa entre los siglos IV y XIV, a unos 40 minutos de Hoi An o 1.5 horas al suroeste de Da Nang. 4.5★ (12,888 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: My Son es un conjunto de templos hinduistas de ladrillo rojo, ya erosionados por el tiempo, construidos por el reino de Champa entre los siglos IV y XIV, a unos 40 minutos de Hoi An o 1.5 horas al suroeste de Da Nang. Abre todos los días de 6am a 5pm; conviene llegar justo a la apertura o después de las 3pm para evitar la avalancha de autobuses turísticos que se concentra entre las 9am y la 1pm los fines de semana. Calcule medio día, contando el traslado, y use calzado adecuado, ya que el terreno es selva irregular y piedra rota.
@@ -9,7 +9,7 @@ faq:
   - q: ¿Cómo llego a My Son desde Da Nang?
     a: El trayecto en auto hacia el suroeste toma alrededor de 1.5 horas. Puede sumarse a un tour grupal con recogida en van, contratar un auto privado o ir en moto si se siente cómodo en carreteras rurales. La mayoría de los tours que salen de Da Nang también pasan por Hoi An.
   - q: ¿Cuál es el horario más tranquilo para visitar?
-    a: Los datos de afluencia muestran que, tanto entre semana como los fines de semana, el horario de 7am a 5pm suele ser tranquilo, pero la verdadera avalancha llega los fines de semana entre las 9am y la 1pm, cuando se concentran los autobuses turísticos. Llegar a la apertura, a las 6am, o cerca de esa hora garantiza las torres más vacías y la luz más suave.
+    a: Los datos de afluencia muestran que, tanto entre semana como los fines de semana, las franjas de 7am a 8am y de 4pm a 5pm suelen ser tranquilas, pero la verdadera avalancha llega los fines de semana entre las 9am y la 1pm, cuando se concentran los autobuses turísticos. Llegar a la apertura, a las 6am, o cerca de esa hora garantiza las torres más vacías y la luz más suave.
   - q: ¿Cuánto tiempo debería dedicarle a My Son?
     a: Calcule al menos una hora para recorrer el sitio en sí, más el museo que hay en el lugar, y sume entre 1.5 y 3 horas de traslado en cada trayecto, según su punto de partida. Muchos visitantes lo tratan como una excursión de medio día combinada con Hoi An.
   - q: ¿Vale la pena visitar My Son si ya conozco Angkor Wat u otras ruinas similares?

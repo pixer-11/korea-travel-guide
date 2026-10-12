@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: gyeongju-seongdong-market
-srcHash: 'd3887b689255'
+srcHash: '5b729310e5ed'
 title: 'Mercado Seongdong: Guía de Viaje de Gyeongju (4,1★)'
 description: 'Cerca de la zona de la estación de tren, en el casco antiguo de Gyeongju, el mercado Seongdong es un mercado cubierto de productos frescos y comida, genuino y sin pulir, más que una atracción turística; abre todos los días de 5:00 a 19:00. 4,1★ (2.405 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Cerca de la zona de la estación de tren, en el casco antiguo de Gyeongju, el mercado Seongdong es un mercado cubierto de productos frescos y comida, genuino y sin pulir, más que una atracción turística; abre todos los días de 5:00 a 19:00. Para tener espacio para moverte, ve un día entre semana por la mañana, ya que los fines de semana entre las 10:00 y las 18:00 se concentra la mayor multitud. Calcula una hora para recorrer los callejones, comer algo de pie en los puestos y comprar fruta o banchan para llevar a tu alojamiento.
@@ -52,7 +52,7 @@ Lleva billetes pequeños y monedas: la mayoría de los puestos funcionan sobre t
 
 Evita fotografiar a los vendedores de cerca sin pedir permiso; un simple gesto con la cabeza o un "gwaenchanayo?" (¿está bien?) antes de sacar la foto siempre cae mucho mejor. El error más común de los visitantes es tratar esto como una parada turística y recorrerlo a las carreras en diez minutos, cuando los locales lo viven como una experiencia de ir mirando y picando, comprando un poco en varios puestos en lugar de mucho en uno solo.
 
-Si buscas la versión más tranquila del mercado, ve un día laborable y muévete dentro de esa franja de 7:00 a 19:00, en vez de presentarte justo a las 5:00, cuando la actividad es sobre todo mayorista, o un fin de semana por la tarde, cuando está en su punto más concurrido.
+Si buscas la versión más tranquila del mercado, ve un día laborable y muévete dentro de las franjas de 7:00 a 9:00 y de 18:00 a 19:00, en vez de presentarte justo a las 5:00, cuando la actividad es sobre todo mayorista, o un fin de semana por la tarde, cuando está en su punto más concurrido.
 
 ## Qué visitar cerca
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: genting-highlands-chin-swee-caves-temple
-srcHash: '062cbc021976'
+srcHash: '8363e54110f4'
 title: 'Templo de las Cuevas Chin Swee: guía de viaje de Genting Highlands'
 description: 'El Templo de las Cuevas Chin Swee es un complejo budista de 28 acres aferrado a una ladera a 1.400 metros de altitud, justo debajo de Genting Highlands, abierto todos los días de 7:00 a 19:00. 4,6★ (11.070 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'El Templo de las Cuevas Chin Swee es un complejo budista de 28 acres aferrado a una ladera a 1.400 metros de altitud, justo debajo de Genting Highlands, abierto todos los días de 7:00 a 19:00. Conviene reservar entre 45 y 90 minutos para recorrerlo: la pagoda escalonada, el arqueado Puente del Arcoíris y los empinados tramos de escaleras que pasan junto a santuarios y estanques de koi son lo más destacado. Los fines de semana, entre las 10:00 y las 18:00, se llena de verdad, así que llegar temprano o al final del horario de apertura es la mejor forma de disfrutar de una visita más tranquila.'
@@ -9,7 +9,7 @@ faq:
   - q: ¿Cuánto tiempo conviene dedicar al Templo de las Cuevas Chin Swee?
     a: Calcula unos 45 minutos para ver la pagoda principal y las salas del santuario, o hasta 90 minutos si quieres subir todos los niveles y disfrutar con calma de las terrazas superiores, más tranquilas.
   - q: ¿Cuál es el momento más tranquilo para visitarlo?
-    a: El templo abre todos los días de 7:00 a 19:00 y se mantiene relativamente tranquilo durante casi todo ese horario. El único momento que conviene evitar es la avalancha de visitantes del fin de semana, entre las 10:00 y las 18:00.
+    a: El templo abre todos los días de 7:00 a 19:00 y se mantiene relativamente tranquilo de 7:00 a 10:00 y de 18:00 a 19:00 entre semana, y de 7:00 a 9:00 y de 18:00 a 19:00 los fines de semana. El único momento que conviene evitar es la avalancha de visitantes del fin de semana, entre las 10:00 y las 18:00.
   - q: ¿Cómo llegar al Templo de las Cuevas Chin Swee sin coche?
     a: No hay ningún autobús público que llegue directamente hasta la puerta, en la salida 68, cerca de Genting Sempah. Los taxis y las aplicaciones de transporte privado desde Genting Highlands o Kuala Lumpur son las opciones más fiables.
   - q: ¿Hay que pagar entrada?
@@ -48,7 +48,7 @@ Con 45 minutos basta para una visita ágil; si prefieres recorrer todos los nive
 
 El templo abre todos los días de 7:00 a 19:00, sin variaciones a lo largo de la semana. Los fines de semana, entre las 10:00 y las 18:00, se llena de verdad con autocares turísticos y visitantes de un día procedentes de Kuala Lumpur.
 
-Si puedes elegir, aprovecha las primeras horas justo después de la apertura o el final de la tarde antes del cierre: tanto entre semana como en fin de semana, esas franjas dentro del horario de 7:00 a 19:00 son las más tranquilas, siempre que se evite el ajetreo del mediodía en fin de semana. Los días nublados o con llovizna son habituales dada la altitud, así que conviene llevar una chaqueta ligera sea cual sea la temporada.
+Si puedes elegir, aprovecha las primeras horas justo después de la apertura o el final de la tarde antes del cierre: entre semana, los momentos más tranquilos son de 7:00 a 10:00 y de 18:00 a 19:00, y los fines de semana, de 7:00 a 9:00 y de 18:00 a 19:00, fuera del ajetreo del mediodía en fin de semana. Los días nublados o con llovizna son habituales dada la altitud, así que conviene llevar una chaqueta ligera sea cual sea la temporada.
 
 ## Cómo visitarlo como un local
 

@@ -1,15 +1,15 @@
 ---
 lang: es
 slug: zhangjiajie-zhangjiajie-national-forest-park
-srcHash: '53afeabb37b2'
+srcHash: '63546e0cbc3b'
 title: 'Parque Forestal Nacional de Zhangjiajie: Guía de viaje (4.7★)'
 description: 'El Parque Forestal Nacional de Zhangjiajie es un paraíso de columnas de arenisca que inspiró las montañas flotantes de "Avatar". Reserva un día completo, o dos, para recorrer el Ascensor Bailong y el teleférico de Yangjiajie en la Zona Escénica de Wulingyuan. 4.7★ (1.240 reseñas): opiniones de los visitantes, horarios y consejos.'
-quickAnswer: 'El Parque Forestal Nacional de Zhangjiajie es un paraíso de columnas de arenisca que inspiró las montañas flotantes de "Avatar". Conviene reservar un día completo, o incluso dos, para recorrer el Ascensor Bailong y el teleférico de Yangjiajie por la Zona Escénica de Wulingyuan. Si puedes, ve temprano los fines de semana: el parque abre de 7:00 a 23:00 los sábados y domingos, y la mayor afluencia se concentra justo a la apertura, por lo que el tramo más tranquilo suele empezar a partir de las 10:00. Instálate en la ciudad de Zhangjiajie o en el pueblo de Wulingyuan, y calcula casi una semana completa si quieres combinar la visita con la pasarela de cristal del monte Tianmen, que se encuentra en otra zona de la ciudad.'
+quickAnswer: 'El Parque Forestal Nacional de Zhangjiajie es un paraíso de columnas de arenisca que inspiró las montañas flotantes de "Avatar". Conviene reservar un día completo, o incluso dos, para recorrer el Ascensor Bailong y el teleférico de Yangjiajie por la Zona Escénica de Wulingyuan. Si puedes, ve temprano los fines de semana: el parque tiene mucha afluencia de 7:00 a 9:00, de 10:00 a 13:00 y de 22:00 a 23:00 los sábados y domingos, por lo que los tramos más tranquilos suelen ser de 13:00 a 14:00, de 15:00 a 17:00 y de 19:00 a 22:00. Instálate en la ciudad de Zhangjiajie o en el pueblo de Wulingyuan, y calcula casi una semana completa si quieres combinar la visita con la pasarela de cristal del monte Tianmen, que se encuentra en otra zona de la ciudad.'
 faq:
   - q: ¿Cuánto tiempo debería dedicar al Parque Forestal Nacional de Zhangjiajie?
     a: Con un día completo basta para cubrir lo más destacado usando el teleférico y el ascensor, pero si dispones de dos días podrás repartirlos entre Yuanjiajie/Tianzi y las zonas más tranquilas de Yangjiajie y el Arroyo del Látigo Dorado, sin tener que apresurarte.
   - q: ¿Cuándo hay menos gente?
-    a: Los fines de semana el parque abre de 7:00 a 23:00 y la mayor afluencia se da justo al abrir; el tramo más tranquilo comienza alrededor de las 10:00. Entre semana, lo mejor suele ser llegar justo cuando abren las puertas, para evitar aglomeraciones.
+    a: Los fines de semana el parque tiene mucha afluencia de 7:00 a 9:00, de 10:00 a 13:00 y de 22:00 a 23:00; los tramos más tranquilos son de 13:00 a 14:00, de 15:00 a 17:00 y de 19:00 a 22:00. Entre semana, lo mejor suele ser llegar justo cuando abren las puertas, para evitar aglomeraciones.
   - q: ¿Es el mismo lugar que la pasarela de cristal del monte Tianmen?
     a: No. El monte Tianmen, con su pasarela colgada del acantilado y su pasarela de cristal, es una montaña aparte, cercana a la ciudad de Zhangjiajie. El Parque Forestal Nacional de Zhangjiajie es otro emplazamiento distinto, dentro de la Zona Escénica de Wulingyuan, célebre por sus columnas de arenisca.
   - q: ¿Cómo me muevo dentro del parque?
@@ -48,7 +48,7 @@ Usa calzado de senderismo de verdad. Los senderos son de escalones de piedra, a 
 
 La primavera (abril-mayo) y el otoño (octubre-noviembre) traen los cielos más despejados y las temperaturas más agradables para caminar. El verano es caluroso, húmedo y está abarrotado de grupos turísticos nacionales; el invierno puede traer niebla y algo de hielo en los senderos más altos, pero también caminos casi vacíos y vistas de una atmósfera inquietante y hermosa.
 
-Los fines de semana el parque abre de 7:00 a 23:00 y la mayor afluencia se concentra justo a la apertura, así que si visitas en sábado o domingo, ten en cuenta que el tramo más tranquilo suele empezar hacia las 10:00. Entre semana, llegar justo cuando abren las puertas suele ser la opción con menos gente.
+Los fines de semana el parque tiene mucha afluencia de 7:00 a 9:00, de 10:00 a 13:00 y de 22:00 a 23:00, así que si visitas en sábado o domingo, ten en cuenta que los tramos más tranquilos suelen ser de 13:00 a 14:00, de 15:00 a 17:00 y de 19:00 a 22:00. Entre semana, llegar justo cuando abren las puertas suele ser la opción con menos gente.
 
 ## Cómo visitarlo como un local
 

@@ -1,17 +1,17 @@
 ---
 lang: es
 slug: banlung-virachey-national-park
-srcHash: '1653de629a62'
+srcHash: 'bacb95ad6dc8'
 title: 'Parque Nacional Virachey: Guía de viaje de Banlung (4.3★)'
 description: 'Al noreste de Banlung, en la provincia de Ratanakiri, el Parque Nacional Virachey es una de las áreas protegidas más grandes y salvajes de Camboya, con selva, llanuras herbosas y sabana de altura hacia la frontera con Laos. 4.3★ (198 reseñas): lo que dicen los visitantes, horarios y consejos.'
-quickAnswer: Al noreste de Banlung, en la provincia de Ratanakiri, el Parque Nacional Virachey es una de las áreas protegidas más grandes y salvajes de Camboya, con selva, llanuras herbosas y sabana de altura hacia la frontera con Laos. Sigue siendo un lugar realmente poco conocido, por lo que los fines de semana se mantienen tranquilos de 7:00 a 21:00; la mayor afluencia, si se le puede llamar así, ocurre entre las 10:00 y las 15:00. Si quiere hacer trekking más allá del puesto de guardabosques, reserve al menos dos días completos, ya que este no es un parque para recorrer en coche.
+quickAnswer: Al noreste de Banlung, en la provincia de Ratanakiri, el Parque Nacional Virachey es una de las áreas protegidas más grandes y salvajes de Camboya, con selva, llanuras herbosas y sabana de altura hacia la frontera con Laos. Sigue siendo un lugar realmente poco conocido, por lo que los fines de semana se mantienen tranquilos de 7:00 a 8:00, de 9:00 a 10:00 y de 19:00 a 21:00; la mayor afluencia, si se le puede llamar así, ocurre entre las 10:00 y las 15:00. Si quiere hacer trekking más allá del puesto de guardabosques, reserve al menos dos días completos, ya que este no es un parque para recorrer en coche.
 faq:
   - q: ¿Cómo se llega al Parque Nacional Virachey desde Banlung?
     a: El trayecto hacia el noreste desde la ciudad de Banlung dura entre 45 minutos y una hora, y se organiza a través de la oficina de guardabosques del parque o de un operador de trekking con sede en Banlung.
   - q: ¿Cuántos días necesito para visitar Virachey?
     a: Conviene planificar al menos dos días, ya que la mayoría de los trekkings duran de dos a cuatro días con acampada en la selva, pues los senderos no están pensados para visitas rápidas de un solo día.
   - q: ¿Cuál es el momento más tranquilo para visitar?
-    a: Los fines de semana se mantienen tranquilos durante toda la franja de 7:00 a 21:00; si quiere evitar incluso el ligero repunte del fin de semana, procure ir fuera del horario de 10:00 a 15:00.
+    a: Los fines de semana se mantienen tranquilos de 7:00 a 8:00, de 9:00 a 10:00 y de 19:00 a 21:00; si quiere evitar incluso el ligero repunte del fin de semana, procure ir fuera del horario de 10:00 a 15:00.
   - q: ¿Cuál es la mejor época para hacer trekking en Virachey?
     a: La estación seca, aproximadamente de noviembre a abril, ofrece senderos y ríos en buen estado. La estación de lluvias (de mayo a octubre) trae barro, ríos crecidos y más presencia de sanguijuelas.
   - q: ¿Puedo hacer la ruta por mi cuenta, sin guía?

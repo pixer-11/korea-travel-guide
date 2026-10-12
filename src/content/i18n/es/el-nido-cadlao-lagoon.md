@@ -1,10 +1,10 @@
 ---
 lang: es
 slug: el-nido-cadlao-lagoon
-srcHash: '29ce63c7f5c2'
+srcHash: '112b2f3814b7'
 title: 'Laguna de Cadlao: Guía de viaje de El Nido (4.8★)'
 description: 'La laguna de Cadlao es un tranquilo rincón de agua color jade escondido entre los acantilados de la isla Cadlao, al que solo se llega en barco desde el pueblo de El Nido. 4.8★ (227 reseñas): opiniones de los visitantes, horarios y consejos.'
-quickAnswer: La laguna de Cadlao es un tranquilo rincón de agua color jade escondido entre los acantilados de la isla Cadlao, al que solo se llega en barco desde el pueblo de El Nido. No forma parte de las rutas estándar de Island Hopping A-D, así que conviene ir en una banca privada o pedirle a un operador turístico que la incluya en el recorrido; las mañanas antes de las 9 h o la franja de fin de semana de 7 h a 22 h son los momentos más tranquilos. Calcule medio día para la excursión completa, incluyendo el trayecto en barco y el tiempo de baño.
+quickAnswer: La laguna de Cadlao es un tranquilo rincón de agua color jade escondido entre los acantilados de la isla Cadlao, al que solo se llega en barco desde el pueblo de El Nido. No forma parte de las rutas estándar de Island Hopping A-D, así que conviene ir en una banca privada o pedirle a un operador turístico que la incluya en el recorrido; las mañanas de fin de semana de 7 h a 8 h o la franja de fin de semana de 17 h a 22 h son los momentos más tranquilos. Calcule medio día para la excursión completa, incluyendo el trayecto en barco y el tiempo de baño.
 faq:
   - q: ¿Cómo se llega a la laguna de Cadlao?
     a: 'Solo en barco: hay que fletar una banca privada desde el pueblo de El Nido o la playa de Corong-Corong, o reservar un tour personalizado, ya que no está incluida en las rutas estándar del Island Hopping Tour A-D. El trayecto dura entre 20 y 30 minutos en cada dirección.'

@@ -1,17 +1,17 @@
 ---
 lang: es
 slug: bangkok-king-power-mahanakhon
-srcHash: '28dfdc91a261'
+srcHash: 'f8dba7fe2114'
 title: 'King Power Mahanakhon: Guía de viaje de Bangkok (4.7★)'
 description: 'King Power Mahanakhon es el rascacielos de cristal pixelado con la "muesca" de Bangkok, en Naradhiwas Rajanagarindra Road, en Silom, sede del mirador más alto de Tailandia (SkyWalk) a 1,030 pies, con suelo de cristal y bar en la azotea al aire libre. 4.7★ (29,907 reseñas): qué dicen los visitantes, horarios y consejos.'
-quickAnswer: King Power Mahanakhon es el rascacielos de cristal pixelado con la "muesca" de Bangkok, en Naradhiwas Rajanagarindra Road, en Silom, sede del mirador más alto de Tailandia (SkyWalk) a 1,030 pies, con suelo de cristal y bar en la azotea al aire libre. Toma el BTS hasta la estación Chong Nonsi y entra directamente por la salida conectada al skywalk. Ve una tarde despejada, cerca del atardecer, para ver cómo el cielo pasa del ocaso al horizonte nocturno iluminado de la ciudad; hay afluencia constante todo el día (10am–11pm), pero se dispara especialmente los fines de semana entre las 5pm y las 7pm, así que un horario más temprano o más tardío te dará más espacio junto al cristal.
+quickAnswer: King Power Mahanakhon es el rascacielos de cristal pixelado con la "muesca" de Bangkok, en Naradhiwas Rajanagarindra Road, en Silom, sede del mirador más alto de Tailandia (SkyWalk) a 1,030 pies, con suelo de cristal y bar en la azotea al aire libre. Toma el BTS hasta la estación Chong Nonsi y entra directamente por la salida conectada al skywalk. Ve una tarde despejada, cerca del atardecer, para ver cómo el cielo pasa del ocaso al horizonte nocturno iluminado de la ciudad; entre semana hay poca afluencia (10am–11am y 10pm–11pm), pero se dispara especialmente los fines de semana entre las 5pm y las 7pm, así que un horario más temprano o más tardío te dará más espacio junto al cristal.
 faq:
   - q: ¿Cómo llego a King Power Mahanakhon?
     a: 'Toma la línea Silom del BTS hasta la estación Chong Nonsi: un skywalk elevado conecta la estación directamente con la torre, así que no tienes que lidiar con el tráfico de la calle.'
   - q: ¿Qué se puede hacer dentro?
     a: 'La atracción principal es Mahanakhon SkyWalk: un piso de observación interior alrededor de los pisos 74 y 75, una terraza abierta en la azotea cerca de la cima con una sección de suelo de cristal, y un bar en la azotea para tomar algo con vistas.'
   - q: ¿Cuál es el momento menos concurrido para visitar?
-    a: La torre tiene bastante actividad durante todo su horario de 10am a 11pm, pero los fines de semana entre las 5pm y las 7pm es cuando hay más aglomeración. Ve en día de semana, o temprano o tarde en el día, para tener más espacio en el suelo de cristal y en las barandillas.
+    a: La torre tiene bastante actividad entre semana de 12pm a 2pm y de 5pm a 8pm, pero los fines de semana entre las 5pm y las 7pm es cuando hay más aglomeración. Ve en día de semana, o temprano o tarde en el día, para tener más espacio en el suelo de cristal y en las barandillas.
   - q: ¿Cuánto tiempo debería pasar allí?
     a: Calcula entre 60 y 90 minutos para recorrer con comodidad el piso interior, la azotea al aire libre y tomar algo en el bar sin sentirte apurado.
   - q: ¿Vale la pena ir al atardecer?

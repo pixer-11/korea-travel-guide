@@ -1,13 +1,13 @@
 ---
 lang: es
 slug: leipzig-clara-zetkin-park
-srcHash: 'c15b11ff08c0'
+srcHash: '17dc86dc81ac'
 title: 'Clara-Zetkin-Park: guía de viaje de Leipzig (4.7★)'
 description: El Clara-Zetkin-Park es el gran parque central de Leipzig. Se llega dando un paseo corto hacia el suroeste desde el centro (Innenstadt), entre los barrios de Südvorstadt y Schleußig, y permanece abierto las 24 horas con entrada gratuita. Tiene una valoración de 4.7★ (10,029 reseñas); aquí encontrará opiniones de visitantes, horarios y consejos.
 quickAnswer: A un paseo corto al suroeste del centro (Innenstadt), entre los barrios de Südvorstadt y Schleußig, se extiende el Clara-Zetkin-Park, el gran parque central de Leipzig. Abre las 24 horas y la entrada es gratuita. Entre sus atractivos figuran senderos boscosos, un templete histórico donde se celebran conciertos en verano, un café al aire libre y un monumento a Schubert. Los fines de semana, la mayor afluencia se concentra de 11am a 8pm; si prefiere disfrutar del césped casi en solitario, acuda antes de las 11am o después de las 8pm.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Clara-Zetkin-Park?
-    a: Según los datos de afluencia de fin de semana, el periodo de mayor concurrencia va de 11am–8pm. La franja tranquila del fin de semana figura como 7am–11pm, de modo que la experiencia más sosegada se obtiene antes de las 11am o después de las 8pm. No hay datos disponibles para los días laborables.
+    a: Según los datos de afluencia de fin de semana, el periodo de mayor concurrencia va de 11am–8pm. Las franjas tranquilas del fin de semana figuran como 7am–8am y 10pm–11pm, de modo que la experiencia más sosegada se obtiene de 7am–8am o de 10pm–11pm. No hay datos disponibles para los días laborables.
   - q: ¿Cómo se llega al Clara-Zetkin-Park desde el centro de Leipzig?
     a: Desde el Nuevo Ayuntamiento (Neues Rathaus), camine hacia el suroeste atravesando el Johannapark; el trayecto dura aproximadamente entre 15 y 20 minutos. Otra opción es tomar el tranvía 10 u 11 por la Karl-Liebknecht-Straße y caminar después hacia el oeste hasta el parque.
   - q: ¿Abre el Clara-Zetkin-Park por la noche?
@@ -63,7 +63,7 @@ Si solo dispone de una tarde en la ciudad, recorra la avenida hasta el puente y 
 
 Se trata de uno de los espacios verdes más concurridos de Leipzig. En las horas punta, las praderas más próximas al café y al templete se llenan por completo.
 
-Según los datos de afluencia de fin de semana, el tramo de mayor concurrencia va de **11am–8pm**. No conviene presentarse en plena tarde de un sábado soleado con la esperanza de encontrar una pradera vacía. La franja más tranquila del fin de semana figura como **7am–11pm**, y la calma se concentra en sus dos extremos.
+Según los datos de afluencia de fin de semana, el tramo de mayor concurrencia va de **11am–8pm**. No conviene presentarse en plena tarde de un sábado soleado con la esperanza de encontrar una pradera vacía. Las franjas más tranquilas del fin de semana figuran como **7am–8am** y **10pm–11pm**, y la calma se concentra en los dos extremos del día.
 
 - **Antes de las 11am:** paseadores de perros, corredores y rocío sobre la hierba. Es un buen momento para hacer fotografías a lo largo de la avenida.
 - **Después de las 8pm:** el público diurno se dispersa y, en las noches de verano, el puente atrae a una concurrencia distinta y más desenfadada.

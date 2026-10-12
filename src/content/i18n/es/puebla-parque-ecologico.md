@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: puebla-parque-ecologico
-srcHash: '24d512ab0608'
+srcHash: '99542b09384e'
 title: 'Parque Ecológico: guía de viaje de Puebla (4.6★)'
 description: En la colonia Azcarate, sobre la Calle 24 Sur, el Parque Ecológico de Puebla ocupa 58 hectáreas con ciclovías, instalaciones deportivas, juegos infantiles, un aviario y jardines botánicos. Con 4.6★ y 30,216 reseñas, aquí encontrará la opinión de los visitantes, los horarios y algunos consejos.
 quickAnswer: En la colonia Azcarate, sobre la Calle 24 Sur, el Parque Ecológico de Puebla ocupa 58 hectáreas con ciclovías, instalaciones deportivas, juegos infantiles, un aviario y jardines botánicos. Abre todos los días de 6:00 AM a 9:00 PM. Si busca senderos tranquilos, vaya entre semana de 7am–9am; los fines de semana procure no llegar entre las 9am y las 7pm, que es cuando más gente hay.
@@ -38,7 +38,7 @@ Conviene verlo como varios parques pequeños unidos entre sí. Al recorrer los s
 
 En pocos lugares de Puebla importa tanto la hora como aquí. Las puertas abren a las 6:00 AM todos los días de la semana. Entre semana, el tramo más tranquilo va de 7am–9am: los primeros corredores ya han llegado, pero el día todavía no ha arrancado del todo.
 
-Los fines de semana el ritmo cambia. Las horas de mayor afluencia son de 9am–7pm, y es justo el periodo que debe evitar si quiere los senderos casi para usted. Según los datos de afluencia del fin de semana, la franja tranquila abarca en general de 7am–9pm. Si se cruza esa información con las horas punta, las mejores opciones son la hora previa a las 9am y las dos últimas horas antes del cierre de las 9:00 PM.
+Los fines de semana el ritmo cambia. Las horas de mayor afluencia son de 9am–7pm, y es justo el periodo que debe evitar si quiere los senderos casi para usted. Según los datos de afluencia del fin de semana, las franjas tranquilas son, en general, de 7am–8am y de 8pm–9pm. Si se cruza esa información con las horas punta, las mejores opciones son la hora previa a las 9am y las dos últimas horas antes del cierre de las 9:00 PM.
 
 Puebla se encuentra a unos 2,100 metros de altitud, por lo que a primera hora suele hacer fresco aunque las tardes sean cálidas. Si va al amanecer, lleve una prenda de abrigo; más tarde, póngase protector solar, porque a esta altura el sol pega con más fuerza de lo que hace pensar la temperatura.
 

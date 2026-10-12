@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: new-york-balthazar
-srcHash: '6ee28e66fbd7'
+srcHash: 'bc3ec08f2557'
 title: 'Balthazar: dónde comer en Nueva York'
 description: 'En el 80 de Spring St, en SoHo, Balthazar es la brasserie neoyorquina de estilo parisino por excelencia: banquetas de cuero rojo, barandillas de latón, una barra de mariscos, steak frites y un mostrador de panadería abierto todo el día.'
 quickAnswer: 'En el 80 de Spring St, en SoHo, Balthazar es la brasserie neoyorquina de estilo parisino por excelencia: banquetas de cuero rojo, barandillas de latón, una barra de mariscos, steak frites y un mostrador de panadería abierto todo el día. Abre de 8 a. m. a medianoche entre semana (desde las 9 a. m. los fines de semana) y su hora más concurrida es de 2 a 6 p. m. los fines de semana, así que conviene ir una mañana de entre semana o reservar para última hora de la noche si se busca algo de tranquilidad.'
@@ -9,7 +9,7 @@ faq:
   - q: ¿Hace falta reserva para ir a Balthazar?
     a: Se recomienda encarecidamente, sobre todo para cenar de jueves a domingo. A veces se consigue sitio en la barra sin reserva, pero las mesas se llenan enseguida, ya que esta brasserie está siempre concurrida.
   - q: ¿Cuál es el momento más tranquilo para ir?
-    a: Los tramos más tranquilos son de 8 a. m. a 11 p. m. entre semana y de 9 a. m. a 11 p. m. los fines de semana. Conviene evitar el horario de 2 a 6 p. m. los fines de semana, cuando se solapan el público del brunch y el de la cena temprana.
+    a: Los tramos más tranquilos son de 8 a 9 a. m. y de 10 a 11 p. m. entre semana, y de 9 a 11 a. m. y de 9 a 11 p. m. los fines de semana. Conviene evitar el horario de 2 a 6 p. m. los fines de semana, cuando se solapan el público del brunch y el de la cena temprana.
   - q: ¿Cómo se llega a Balthazar en metro?
     a: Tomando la línea 6 hasta Spring Street, a unos dos minutos a pie. La estación de Prince Street, servida por las líneas N/R/W, queda a unos seis minutos caminando y además deja cerca de las tiendas de Broadway.
   - q: ¿Cuánto cuesta comer allí?
@@ -40,7 +40,7 @@ Las raciones son generosas, los precios se ubican en el rango medio-alto para lo
 
 ## Cuándo ir
 
-El patrón de afluencia medido aquí es inusualmente claro: los fines de semana se llenan de verdad entre las 2 y las 6 p. m., cuando los rezagados del brunch se cruzan con los primeros comensales de la cena, así que conviene evitar ese horario a menos que no importe esperar en la barra. Los tramos más tranquilos van de 8 a. m. a 11 p. m. entre semana y de 9 a. m. a 11 p. m. los fines de semana: un desayuno entre semana, una parada a media mañana para tomar café con algo dulce, o una cena a las 9 p. m. resultan notablemente más calmados que la hora punta del mediodía.
+El patrón de afluencia medido aquí es inusualmente claro: los fines de semana se llenan de verdad entre las 2 y las 6 p. m., cuando los rezagados del brunch se cruzan con los primeros comensales de la cena, así que conviene evitar ese horario a menos que no importe esperar en la barra. Los tramos más tranquilos van de 8 a 9 a. m. y de 10 a 11 p. m. entre semana, y de 9 a 11 a. m. y de 9 a 11 p. m. los fines de semana: un desayuno entre semana, una parada a media mañana para tomar café con algo dulce, o una cena a las 9 p. m. resultan notablemente más calmados que la hora punta del mediodía.
 
 El local abre todos los días hasta medianoche (desde las 8 a. m. de lunes a viernes, y desde las 9 a. m. sábados y domingos), por lo que una cena tardía es una opción totalmente válida y, a menudo, más cómoda.
 

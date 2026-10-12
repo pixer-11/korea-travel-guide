@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: nusa-penida-diamond-beach
-srcHash: 'ab4dac191f88'
+srcHash: 'e3e5d42ec0f3'
 title: 'Diamond Beach: Guía de viaje de Nusa Penida (4.7★)'
 description: Diamond Beach se encuentra en la costa sureste de Nusa Penida, cerca del pueblo de Pejukutan, a la que se llega bajando una empinada escalera (unos 300 escalones o más) tallada en el acantilado hasta la arena blanca y el agua turquesa. 4.7★ (9,580 reseñas) — lo que dicen los visitantes, horarios y consejos.
 quickAnswer: Diamond Beach se encuentra en la costa sureste de Nusa Penida, cerca del pueblo de Pejukutan, a la que se llega bajando una empinada escalera (unos 300 escalones o más) tallada en el acantilado hasta la arena blanca y el agua turquesa. Está abierta todos los días de 6am a 6pm; llega justo a la apertura o después de las 3pm para evitar la avalancha de 10am a 3pm los fines de semana. Calcula medio día si tienes en cuenta el descenso, el tiempo en la playa y la subida de vuelta.
@@ -9,7 +9,7 @@ faq:
   - q: ¿Cuántos escalones hay hasta Diamond Beach?
     a: 'La escalera baja varios cientos de escalones por el acantilado: calcula 15-20 minutos para el descenso y cerca de 30 minutos para la subida, más tiempo si haces paradas para descansar por el calor.'
   - q: ¿Cuál es el momento más tranquilo para visitarla?
-    a: La playa se mantiene tranquila durante la mayor parte de su horario de 7am a 6pm, tanto en días de semana como los fines de semana; la única franja que conviene evitar es de 10am a 3pm los fines de semana, cuando los grupos turísticos alcanzan su punto máximo.
+    a: La playa se mantiene tranquila de 7am a 9am y de 4pm a 6pm, tanto en días de semana como los fines de semana; las franjas que conviene evitar son de 10am a 2pm entre semana y de 10am a 3pm los fines de semana, cuando los grupos turísticos alcanzan su punto máximo.
   - q: ¿Se puede nadar en Diamond Beach?
     a: 'Meterse en la orilla está bien en días de mar calmada, pero las corrientes son fuertes: no se considera una playa segura para nadar, así que quédate en aguas poco profundas y evítalo si el mar se ve agitado.'
   - q: ¿Cómo llego a Diamond Beach sin coche?
@@ -47,7 +47,7 @@ Reserva al menos dos horas: veinte minutos de bajada, tiempo sin prisas en la pl
 
 ## Cuándo ir
 
-Las puertas abren de 6am a 6pm todos los días, así que no hay acceso temprano al amanecer ni tardío al atardecer. Los datos de afluencia de la playa muestran que se mantiene relativamente tranquila durante toda la franja de 7am a 6pm, tanto en días de semana como los fines de semana.
+Las puertas abren de 6am a 6pm todos los días, así que no hay acceso temprano al amanecer ni tardío al atardecer. Los datos de afluencia de la playa muestran que se mantiene relativamente tranquila de 7am a 9am y de 4pm a 6pm, tanto en días de semana como los fines de semana.
 
 La excepción es de 10am a 3pm los fines de semana, cuando los grupos turísticos y los visitantes de un día se acumulan en la escalera y en la arena. Si puedes, apunta a las primeras o últimas horas en que la entrada está abierta.
 

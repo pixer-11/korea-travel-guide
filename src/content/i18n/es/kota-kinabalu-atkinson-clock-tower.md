@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kota-kinabalu-atkinson-clock-tower
-srcHash: 'a876b353034c'
+srcHash: '1a91dfdac7da'
 title: 'Torre del Reloj Atkinson: guía de viaje de Kota Kinabalu (4,3★)'
 description: 'La Torre del Reloj Atkinson es un pequeño hito de madera de 1905 situado en Signal Hill Road, en pleno centro de Kota Kinabalu, y merece una parada de 10 a 15 minutos camino de la plataforma de observación de Signal Hill. 4,3★ (1.645 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: La Torre del Reloj Atkinson es un pequeño hito de madera de 1905 situado en Signal Hill Road, en pleno centro de Kota Kinabalu, y merece una parada de 10 a 15 minutos camino de la plataforma de observación de Signal Hill. Abre todos los días de 7:00 a 19:00 y se puede ver desde fuera de forma gratuita. Lo mejor es ir a mediodía entre semana (el momento más tranquilo es de 12:00 a 13:00) o en cualquier hora del fin de semana, ya que los datos de afluencia muestran que los sábados y domingos se mantiene la calma durante todo el día.
@@ -11,7 +11,7 @@ faq:
   - q: ¿Hay que pagar entrada?
     a: No, se puede ver gratis desde la calle y los alrededores; no hay taquilla ni verja.
   - q: ¿Cuál es el momento más tranquilo para ir?
-    a: Entre semana, de 12:00 a 13:00, es cuando hay más calma. Los fines de semana la afluencia se mantiene bastante estable durante todo el día (de 7:00 a 19:00), aunque las horas de mayor concurrencia suelen ser de 9:00 a 18:00.
+    a: Entre semana, de 12:00 a 13:00, es cuando hay más calma. Los fines de semana la afluencia se mantiene bastante estable durante todo el día (de 7:00 a 19:00), aunque las horas de mayor concurrencia suelen ser de 9:00 a 12:00 y de 13:00 a 18:00.
   - q: ¿Cómo se llega desde el centro de Kota Kinabalu?
     a: Se llega fácilmente en 10 minutos a pie desde la zona de la rotonda de Gaya Street/Atkinson, subiendo por Jalan Bukit Bendera (Signal Hill Road), o en un breve trayecto en Grab o taxi desde la mayoría de los hoteles.
   - q: ¿Qué más hay cerca?
@@ -53,7 +53,7 @@ Aquí el verdadero obstáculo es el calor de mediodía, no las aglomeraciones. K
 No se trata de un rincón escondido, sino de una parada muy conocida dentro de la breve lista de monumentos históricos de Kota Kinabalu, así que conviene organizar la visita en torno a la afluencia de gente en lugar de esperar encontrarla en soledad.
 
 - **Momento más tranquilo:** el calor del mediodía reduce de forma natural el número de visitantes, por lo que ir en esa franja suele resultar más tranquilo que hacerlo a primera hora de la mañana o al atardecer.
-- **Fines de semana:** la afluencia se mantiene estable y manejable durante toda la franja de 7:00 a 19:00, aunque el tramo de mayor actividad suele ser de 9:00 a 18:00.
+- **Fines de semana:** la afluencia se mantiene estable y manejable durante toda la franja de 7:00 a 19:00, aunque los tramos de mayor actividad suelen ser de 9:00 a 12:00 y de 13:00 a 18:00.
 - **Coste y pago:** la visita es gratuita; no hay entradas ni vendedores en el lugar, así que conviene llevar agua en lugar de dinero en efectivo.
 - **Comportamiento:** se trata de un monumento conmemorativo en funcionamiento y de un pequeño jardín público, no de un decorado para fotos, así que hay que respetar las zonas acordonadas y no subirse a la base para las imágenes.
 - **Nombre local:** los habitantes de la zona y los taxistas la conocen simplemente como "la torre del reloj" cerca de Signal Hill (Bukit Bendera), así que conviene usar esa expresión al pedir indicaciones.

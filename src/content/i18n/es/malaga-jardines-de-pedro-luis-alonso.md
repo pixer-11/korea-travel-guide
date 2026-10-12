@@ -1,15 +1,15 @@
 ---
 lang: es
 slug: malaga-jardines-de-pedro-luis-alonso
-srcHash: '9a01e3d8982a'
+srcHash: '8787440fb81b'
 title: 'Jardines de Pedro Luis Alonso: Guía de viaje de Málaga (4,5★)'
 description: 'Los Jardines de Pedro Luis Alonso se encuentran junto al Ayuntamiento de Málaga, en el Distrito Centro: un jardín pequeño y formal de setos recortados, rosaledas y un estanque de nenúfares, abierto las 24 horas y de entrada gratuita. 4,5★ (1.457 reseñas): opiniones de los visitantes, horarios y consejos.'
-quickAnswer: 'Los Jardines de Pedro Luis Alonso se encuentran junto al Ayuntamiento de Málaga, en el Distrito Centro: un jardín pequeño y formal de setos recortados, rosaledas y un estanque de nenúfares, abierto las 24 horas y de entrada gratuita. El momento más tranquilo es el fin de semana entre las 7:00 y las 16:00; entre semana, las noches de 21:00 a 23:00 también son tranquilas. Basta con dedicarle entre 15 y 20 minutos de camino hacia la Alcazaba o el puerto.'
+quickAnswer: 'Los Jardines de Pedro Luis Alonso se encuentran junto al Ayuntamiento de Málaga, en el Distrito Centro: un jardín pequeño y formal de setos recortados, rosaledas y un estanque de nenúfares, abierto las 24 horas y de entrada gratuita. El momento más tranquilo es el fin de semana de 7:00 a 8:00 y de 13:00 a 16:00; entre semana, las noches de 21:00 a 23:00 también son tranquilas. Basta con dedicarle entre 15 y 20 minutos de camino hacia la Alcazaba o el puerto.'
 faq:
   - q: ¿Es gratuita la entrada a los Jardines de Pedro Luis Alonso?
     a: Sí, es un jardín público abierto, sin taquilla ni verja, accesible las 24 horas del día.
   - q: ¿Cuál es el momento más tranquilo para visitarlo?
-    a: Los fines de semana entre las 7:00 y las 16:00 son los más tranquilos; entre semana, el tramo de 21:00 a 23:00 registra la menor afluencia.
+    a: Los fines de semana, las franjas de 7:00 a 8:00 y de 13:00 a 16:00 son las más tranquilas; entre semana, el tramo de 21:00 a 23:00 registra la menor afluencia.
   - q: ¿Cuánto tiempo conviene dedicarle?
     a: Con 15 o 20 minutos la mayoría de los visitantes tiene suficiente; más tiempo si se quiere descansar junto al estanque de nenúfares.
   - q: ¿Qué hay cerca?
@@ -32,9 +32,9 @@ La dirección es C. Guillén Sotelo, 31, en el Distrito Centro, justo enfrente d
 
 El jardín nunca cierra: permanece abierto las 24 horas todos los días de la semana, aunque de noche no hay ninguna iluminación espectacular, solo las farolas de la calle y los focos del edificio contiguo.
 
-- Franja más tranquila en fin de semana: de 7:00 a 16:00
+- Franja más tranquila en fin de semana: de 7:00 a 8:00 y de 13:00 a 16:00
 - Franja más tranquila entre semana: de 21:00 a 23:00
-- Tramo de más afluencia en fin de semana: de 9:00 a 22:00, cuando pasan los grupos de cruceros y los visitantes de la Alcazaba
+- Tramo de más afluencia en fin de semana: de 9:00 a 12:00, de 18:00 a 19:00 y de 20:00 a 22:00, cuando pasan los grupos de cruceros y los visitantes de la Alcazaba
 
 Si piensas combinar la visita con la Alcazaba o el Gibralfaro, ven a primera hora de la mañana, antes de que lleguen el calor y los grupos turísticos.
 

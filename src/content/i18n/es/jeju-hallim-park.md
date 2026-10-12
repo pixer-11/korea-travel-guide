@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: jeju-hallim-park
-srcHash: 'd88bac050115'
+srcHash: '8a1c20bf6ef2'
 title: 'Hallim Park: Guía de viaje de Jeju (4,4★)'
 description: 'En la costa oeste de Jeju, Hallim Park reúne dos cuevas de lava, jardines subtropicales, un pequeño zoológico y una aldea folclórica en un solo recorrido a pie: calcula entre 2 y 3 horas. 4,4★ (6.209 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'En la costa oeste de Jeju, Hallim Park reúne dos cuevas de lava, jardines subtropicales, un pequeño zoológico y una aldea folclórica en un solo recorrido a pie: calcula entre 2 y 3 horas. Abre todos los días de 9:00 a 18:30, y el momento más tranquilo para visitarlo es una mañana entre semana, ya que los fines de semana la afluencia aumenta de forma constante entre el mediodía y las 17:00. Compra la entrada en la puerta y usa calzado que no te importe rozar con la roca de las cuevas.'
@@ -11,7 +11,7 @@ faq:
   - q: ¿Cuál es el horario de apertura?
     a: Hallim Park abre todos los días de 9:00 a 18:30, sin días de cierre indicados; aun así, conviene confirmar el horario ese mismo día si tu visita coincide con un feriado.
   - q: ¿Cuál es el momento de menor afluencia para visitarlo?
-    a: Entre semana la tranquilidad se mantiene durante todo el día (9:00–18:00). Los fines de semana, conviene llegar justo a las 9:00, ya que la afluencia aumenta de forma constante entre el mediodía y las 17:00.
+    a: Entre semana la tranquilidad se mantiene de 9:00 a 11:00 y de 17:00 a 18:00. Los fines de semana, conviene llegar justo a las 9:00, ya que la afluencia aumenta de forma constante entre el mediodía y las 17:00.
   - q: ¿Cómo se llega a Hallim Park sin auto?
     a: Hay autobuses interurbanos que salen de la terminal de Jeju City y paran cerca de la entrada, aunque el servicio es poco frecuente; para la mayoría de los visitantes, alquilar un auto o tomar un taxi resulta más confiable.
   - q: ¿Qué hay cerca para armar una excursión de medio día?
@@ -44,7 +44,7 @@ Hallim Park se ubica en 300 Hallim-ro, Hallim-eup, en la costa noroeste de Jeju,
 
 El parque funciona todos los días de 9:00 a 18:30, sin cierres indicados. Conviene reservar entre 2 y 3 horas para recorrer las cuevas, los jardines y la aldea sin sentir apuro.
 
-Tanto las mañanas como las tardes de los días de semana se mantienen relativamente tranquilas, ya que la franja de calma se extiende durante todo el horario de 9:00 a 18:00. Los fines de semana la historia cambia: el flujo de visitantes dentro del parque aumenta de forma constante desde el mediodía y se mantiene alto hasta cerca de las 17:00.
+Tanto las mañanas como el final de la tarde de los días de semana se mantienen relativamente tranquilos, ya que las franjas de calma van de 9:00 a 11:00 y de 17:00 a 18:00. Los fines de semana la historia cambia: el flujo de visitantes dentro del parque aumenta de forma constante desde el mediodía y se mantiene alto hasta cerca de las 17:00.
 
 Si la visita solo puede ser en fin de semana, conviene llegar justo a las 9:00 para recorrer las cuevas antes de que lleguen los grupos turísticos.
 

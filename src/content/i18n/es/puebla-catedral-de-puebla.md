@@ -1,13 +1,13 @@
 ---
 lang: es
 slug: puebla-catedral-de-puebla
-srcHash: '7c11bf4b52db'
+srcHash: 'ea73dfee8dfb'
 title: 'Catedral de Puebla: guía de viaje (4.8★)'
 description: 'En el costado sur del Zócalo, en pleno Centro Histórico de Puebla, se alza la catedral, cuya entrada es gratuita siempre que no haya oficio en curso; dedíquele entre 45 minutos y una hora. 4.8★ (19,514 reseñas): opiniones de los visitantes, horarios y consejos.'
-quickAnswer: La Catedral de Puebla ocupa el costado sur del Zócalo, en el Centro Histórico de la ciudad. Si no hay ningún oficio en curso, se puede entrar gratis, y basta con reservar entre 45 minutos y una hora para recorrerla. Según los datos de afluencia medidos, la franja más tranquila va de 7am–11pm tanto entre semana como en fin de semana, aunque los sábados y domingos la máxima afluencia se concentra de 8am–8pm. Si busca la nave en calma, lo mejor es ir entre semana.
+quickAnswer: La Catedral de Puebla ocupa el costado sur del Zócalo, en el Centro Histórico de la ciudad. Si no hay ningún oficio en curso, se puede entrar gratis, y basta con reservar entre 45 minutos y una hora para recorrerla. Según los datos de afluencia medidos, las franjas más tranquilas van de 7am–8am y de 8pm–11pm tanto entre semana como en fin de semana, aunque los sábados y domingos la máxima afluencia se concentra de 8am–8pm. Si busca la nave en calma, lo mejor es ir entre semana.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar la Catedral de Puebla?
-    a: Según los datos de afluencia medidos, la franja más tranquila va de 7am–11pm tanto entre semana como en fin de semana. Los sábados y domingos, la máxima afluencia se registra de 8am–8pm, de modo que la opción más tranquila es ir entre semana.
+    a: Según los datos de afluencia medidos, las franjas más tranquilas van de 7am–8am y de 8pm–11pm tanto entre semana como en fin de semana. Los sábados y domingos, la máxima afluencia se registra de 8am–8pm, de modo que la opción más tranquila es ir entre semana.
   - q: ¿Cuánto tiempo conviene dedicar al interior?
     a: Con unos 45 minutos o una hora se pueden ver la nave, el altar mayor octogonal, el Altar de los Reyes y las capillas laterales. Si además quiere visitar la Biblioteca Palafoxiana, que está justo al lado, calcule algo más de tiempo.
   - q: ¿Se puede visitar durante la misa?
@@ -47,7 +47,7 @@ Nadie le pide que se lo crea. Aun así, la historia explica la abundancia de im�
 
 ## Cómo elegir el momento para evitar las aglomeraciones
 
-En este caso, nuestros datos de afluencia medidos son especialmente claros. La franja más tranquila va de 7am–11pm, tanto entre semana como en fin de semana. Como eso abarca prácticamente todo el día, lo que de verdad marca la diferencia es el día elegido.
+En este caso, nuestros datos de afluencia medidos son especialmente claros. Las franjas más tranquilas van de 7am–8am y de 8pm–11pm, tanto entre semana como en fin de semana. Como eso abarca prácticamente todo el día, lo que de verdad marca la diferencia es el día elegido.
 
 El inconveniente está en los fines de semana. Los sábados y domingos, de 8am–8pm, la catedral alcanza su máxima afluencia: familias, grupos organizados y fieles que asisten a misa coinciden en la nave. Si solo dispone del fin de semana, procure evitar la parte central de esa franja. Entre semana, en cambio, podrá recorrer las capillas con mucha menos gente delante.
 

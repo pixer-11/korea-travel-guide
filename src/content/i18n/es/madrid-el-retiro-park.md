@@ -1,15 +1,15 @@
 ---
 lang: es
 slug: madrid-el-retiro-park
-srcHash: '381a90ab430e'
+srcHash: '99cb73c0f1c3'
 title: 'Parque del Retiro: guía de viaje de Madrid (4,8★)'
 description: 'El Parque del Retiro se encuentra en el distrito madrileño de Retiro, a 15 minutos a pie al este de Sol y a un paso del Prado. 4,8★ (215.657 reseñas): lo que dicen los visitantes, horarios y consejos.'
-quickAnswer: El Parque del Retiro se encuentra en el distrito madrileño de Retiro, a 15 minutos a pie al este de Sol y a un paso del Prado. Abre todos los días de 6:00 a 00:00 y la entrada es gratuita; las horas más tranquilas van de 7:00 a 23:00 tanto entre semana como los fines de semana, antes de que llegue la avalancha de familias, patinadores y músicos callejeros de los fines de semana entre las 12:00 y las 22:00. Conviene reservar al menos dos horas, más si se quiere remar en el lago.
+quickAnswer: El Parque del Retiro se encuentra en el distrito madrileño de Retiro, a 15 minutos a pie al este de Sol y a un paso del Prado. Abre todos los días de 6:00 a 00:00 y la entrada es gratuita; las horas más tranquilas van de 7:00 a 10:00 y de 22:00 a 23:00, tanto entre semana como los fines de semana; conviene evitar la avalancha de familias, patinadores y músicos callejeros de los fines de semana entre las 12:00 y las 22:00. Conviene reservar al menos dos horas, más si se quiere remar en el lago.
 faq:
   - q: ¿Cuál es el horario del Parque del Retiro?
     a: Abre todos los días de 6:00 a 00:00, sin variación según el día de la semana.
   - q: ¿Cuál es el mejor momento para visitar El Retiro sin aglomeraciones?
-    a: Tanto entre semana como los fines de semana, el parque permanece tranquilo de 7:00 a 23:00; la verdadera avalancha de visitantes se concentra únicamente los fines de semana entre las 12:00 y las 22:00.
+    a: Tanto entre semana como los fines de semana, el parque permanece tranquilo de 7:00 a 10:00 y de 22:00 a 23:00; la verdadera avalancha de visitantes se concentra únicamente los fines de semana entre las 12:00 y las 22:00.
   - q: ¿Cómo se llega al Parque del Retiro en metro?
     a: Se puede tomar la Línea 2 hasta la estación de Retiro o la Línea 9 hasta Ibiza; ambas dejan justo en el borde del parque. También se puede llegar caminando 15 minutos desde la Puerta del Sol.
   - q: ¿Cuánto tiempo conviene dedicarle a El Retiro?
@@ -42,11 +42,11 @@ Cerca de allí, los senderos del sur del parque adquieren los domingos un ambien
 
 ## Cuándo se llena el parque y cuándo no
 
-El Retiro abre todos los días de 6:00 a 00:00 y es, de forma constante, una de las atracciones más visitadas de Madrid, por lo que elegir bien el horario importa más que en un parque más tranquilo. La franja de calma va de 7:00 a 23:00 tanto entre semana como los fines de semana, así que la mayor parte del día resulta manejable si se evita el momento exacto de mayor afluencia.
+El Retiro abre todos los días de 6:00 a 00:00 y es, de forma constante, una de las atracciones más visitadas de Madrid, por lo que elegir bien el horario importa más que en un parque más tranquilo. Las franjas de calma van de 7:00 a 10:00 y de 22:00 a 23:00, tanto entre semana como los fines de semana, así que conviene ajustar la visita a esas horas para evitar la mayor afluencia.
 
 Ese pico llega los fines de semana entre las 12:00 y las 22:00, cuando familias, corredores, ciclistas y grupos turísticos convergen en los mismos paseos centrales, y la zona del lago en particular se vuelve ruidosa y de circulación lenta. Para tener las anchas avenidas casi para uno mismo, lo mejor es venir temprano un día laborable.
 
-- Momento más tranquilo en general: de 7:00 a 23:00, cualquier día
+- Momento más tranquilo en general: de 7:00 a 10:00 y de 22:00 a 23:00, cualquier día
 - Franja más concurrida, a evitar: fines de semana, de 12:00 a 22:00
 - A primera hora de la mañana (antes de las 9:00) es cuando los vecinos vienen a correr o a pasear al perro antes de ir a trabajar
 

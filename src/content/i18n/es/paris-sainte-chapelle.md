@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: paris-sainte-chapelle
-srcHash: 'e61445c00417'
+srcHash: 'd0dc1974889d'
 title: 'Sainte-Chapelle: Guía de viaje de París (4.6★)'
 description: 'La Sainte-Chapelle se ubica en la Île de la Cité, en el número 10 del Bd du Palais, dentro del mismo recinto amurallado que el Palais de Justice, y su momento de mayor afluencia es los fines de semana entre las 13:00 y las 17:00. 4.6★ (50.186 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: La Sainte-Chapelle se ubica en la Île de la Cité, en el número 10 del Bd du Palais, dentro del mismo recinto amurallado que el Palais de Justice, y su momento de mayor afluencia es los fines de semana entre las 13:00 y las 17:00. Para que las vidrieras realmente resplandezcan, conviene llegar justo a la apertura (9:00) un día de semana soleado. Calcule entre 45 minutos y una hora para la visita, y reserve una entrada con horario en línea, ya que no existe una puerta separada para saltarse la fila.
@@ -9,7 +9,7 @@ faq:
   - q: ¿Cómo se llega a la Sainte-Chapelle?
     a: Puede tomar la Línea 4 del metro hasta la estación Cité, a dos minutos a pie, o el RER B/C hasta Saint-Michel–Notre-Dame, a unos cinco minutos. Se encuentra en la Île de la Cité, en el número 10 del Bd du Palais.
   - q: ¿Cuál es el momento con menos afluencia para visitarla?
-    a: Los patrones de afluencia muestran que entre semana el flujo se mantiene estable de 9:00 a 19:00 sin una caída marcada, pero los fines de semana se registra una fuerte concentración entre las 13:00 y las 17:00. Llegar un día de semana por la mañana es la opción más segura para evitar lo peor de las multitudes.
+    a: Los patrones de afluencia muestran que entre semana hay poca afluencia de 9:00 a 10:00 y de 17:00 a 19:00, y mucha de 13:00 a 15:00, pero los fines de semana se registra una fuerte concentración entre las 13:00 y las 17:00. Llegar un día de semana por la mañana es la opción más segura para evitar lo peor de las multitudes.
   - q: ¿Cuánto cuesta y hace falta reservar con antelación?
     a: Antes de ir, conviene revisar los precios actuales en el sitio oficial, ya que pueden cambiar; suele haber disponible una entrada combinada con la Conciergerie, situada al lado. Se recomienda encarecidamente reservar un horario en línea en lugar de presentarse sin cita.
   - q: ¿Cuánto tiempo conviene dedicarle a la visita?
@@ -31,7 +31,7 @@ La Sainte-Chapelle comparte patio con el Palais de Justice, por lo que hay un co
 - Parada más cercana: Cité (Línea 4), a dos minutos a pie
 - También cerca: Saint-Michel–Notre-Dame (RER B/C), a unos 5 minutos
 - Abierto todos los días de 9:00 a 19:00; no hay franjas horarias tempranas ni nocturnas
-- Los fines de semana hay mucha afluencia durante todo el día; las horas más tranquilas siguen siendo esa misma franja de 9:00 a 19:00, pero en días de semana con menos gente, así que llegar un día laborable por la mañana es la mejor opción
+- Los fines de semana hay mucha afluencia de 13:00 a 17:00; las horas más tranquilas son de 9:00 a 10:00 y de 17:00 a 19:00 en los días de semana con menos gente, así que llegar un día laborable por la mañana es la mejor opción
 - Conviene comprar las entradas con horario asignado en línea y con antelación, ya que la fila en el sitio para quienes llegan sin reserva puede superar los 45 minutos en temporada alta
 
 Suele haber disponible una entrada combinada con la Conciergerie, situada al lado, que vale la pena si se piensa visitar ambos lugares el mismo día.

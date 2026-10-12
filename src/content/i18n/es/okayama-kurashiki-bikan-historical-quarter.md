@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: okayama-kurashiki-bikan-historical-quarter
-srcHash: '87a178a216cc'
+srcHash: '1ae593ae9f1b'
 title: 'Barrio histórico de Bikan en Kurashiki: guía de viaje de Okayama'
 description: 'El barrio histórico de Bikan es un antiguo distrito de comerciantes en Kurashiki (prefectura de Okayama), a orillas de un canal y a unos 15 minutos a pie al sur de la estación JR de Kurashiki. Valoración de 4.4★ (27,927 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: A orillas de un canal y a unos 15 minutos a pie al sur de la estación JR de Kurashiki se extiende el barrio histórico de Bikan, antiguo distrito de comerciantes de esta ciudad de la prefectura de Okayama. Sus calles no cierran nunca. Los fines de semana, la mayor afluencia se concentra entre las 10am–7pm, de modo que conviene evitar esa franja. Si llega entre las 7am y las 10am o después de las 7pm, podrá contemplar los sauces y los almacenes de paredes blancas sin aglomeraciones.
@@ -9,7 +9,7 @@ faq:
   - q: ¿Cómo se llega al barrio histórico de Bikan desde Okayama?
     a: En la estación de Okayama, tome la línea JR San'yō hasta la estación de Kurashiki; el trayecto dura unos 15–17 minutos. Una vez allí, utilice la salida sur y camine 10–15 minutos por Kurashiki Chūō-dōri hasta llegar al canal.
   - q: ¿Cuál es el momento más tranquilo para la visita?
-    a: Según las mediciones de afluencia, la franja más tranquila es la de 7am–11pm, tanto entre semana como en fin de semana. Como los fines de semana la mayor concentración de visitantes se da de 10am a 7pm, los sábados y domingos le conviene ir antes de las 10am o después de las 7pm.
+    a: Según las mediciones de afluencia, las franjas más tranquilas son las de 7am–8am y 10pm–11pm, tanto entre semana como en fin de semana. Como los fines de semana la mayor concentración de visitantes se da de 10am a 7pm, los sábados y domingos le conviene ir antes de las 10am o después de las 7pm.
   - q: ¿Cuánto tiempo conviene dedicarle?
     a: En media jornada da tiempo a recorrer el canal y las callejuelas laterales y a visitar un museo. Si quiere incluir el Museo de Arte Ōhara, Ivy Square, el santuario Achi y un paseo nocturno, calcule un día completo o pase allí la noche.
   - q: ¿Se puede visitar el barrio de noche?
@@ -69,7 +69,7 @@ Tiendas y cafeterías tienen horarios propios, mucho más reducidos que los de u
 
 Elegir bien la hora es crucial sobre todo los fines de semana, y los datos de afluencia no dejan lugar a dudas. Sábados y domingos, el momento de mayor ajetreo va de 10am a 7pm. Es entonces cuando llegan los grupos organizados y la gente se apiña en los puentes para hacerse fotos.
 
-Según las mediciones, la franja más tranquila es la de 7am–11pm, tanto entre semana como en fin de semana. Dentro de ella, los momentos de mayor calma son antes de las 10am y después de las 7pm. Si pernocta en la zona, podrá recorrer el canal a las 7am, con las persianas de los comercios todavía bajadas.
+Según las mediciones, las franjas más tranquilas son las de 7am–8am y 10pm–11pm, tanto entre semana como en fin de semana. Dentro de ella, los momentos de mayor calma son antes de las 10am y después de las 7pm. Si pernocta en la zona, podrá recorrer el canal a las 7am, con las persianas de los comercios todavía bajadas.
 
 Algunas costumbres le facilitarán la visita:
 
