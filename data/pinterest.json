@@ -23,7 +23,8 @@
     "Australia": "1103100571170824743",
     "United Kingdom": "1103100571170833551",
     "Macau": "1103100571170862899",
-    "Mexico": "1103100571170872293"
+    "Mexico": "1103100571170872293",
+    "Germany": "1103100571170878259"
   },
   "pinned": {
     "amalfi-coast-positano": "1103100502523648064",
@@ -427,7 +428,11 @@
     "singapore-byd-singapore-international-marathon-standard-chartered-singapore-mara": "1103100502529072003",
     "taipei-babymonster-world-tour-choom": "1103100502529072006",
     "taipei-le-sserafim-pureflow-tour": "1103100502529072009",
-    "truong-yen-trang-an-marathon": "1103100502529072013"
+    "truong-yen-trang-an-marathon": "1103100502529072013",
+    "berlin-artms-berlin-2026": "1103100502529121785",
+    "berlin-mcnd-berlin-2026": "1103100502529121787",
+    "berlin-taemin-berlin-2026": "1103100502529121790",
+    "dubai-trevor-noah-live-in-dubai": "1103100502529121791"
   },
   "magnetPinned": {
     "magnet:itinerary:bangkok-3-days": "1103100502524165822",
