@@ -1,5 +1,5 @@
 ---
-title: "Kurashiki Bikan Historical Quarter: Kurashiki Travel Guide"
+title: "Kurashiki Bikan Historical Quarter: Travel Guide"
 description: "Kurashiki Bikan Historical Quarter is a canal-side old merchant district in Kurashiki, Okayama Prefecture, about a 15-minute walk south of JR Kurashiki Station. 4.4★ (27,927 reviews) — what visitors say, hours, and tips."
 country: "Japan"
 region: "Kurashiki"

@@ -1358,7 +1358,13 @@ jobs:
           # the daily queue held ~3,900, and the stock wording told the owner to
           # add cities. generate.mjs prints UNDER_TARGET so we can say which pool.
           UNDER=$(grep -o '^UNDER_TARGET cap=[0-9]* .*' /tmp/gen.log 2>/dev/null | head -1 | sed 's/^UNDER_TARGET cap=[0-9]* //' || true)
-          if [ -n "${TARGET_PER_COUNTRY:-}" ]; then
+          # A hand-dispatched CITY run counts only that city's targets: the
+          # Sapa pilot run (2026-10-12) reported "남은 발행 후보 19개 — 도시 추가가
+          # 필요합니다" while the daily queue held thousands.
+          RUN_CITY="${{ inputs.city }}"
+          if [ -n "$RUN_CITY" ]; then
+            export ZERO_NOTE="ℹ️ 이 실행은 ${RUN_CITY} 한 도시만 대상 — 남은 후보 ${QUEUE:-?}개는 그 도시 몫입니다(전체 발행 큐와 무관, 도시 추가 불필요). "
+          elif [ -n "${TARGET_PER_COUNTRY:-}" ]; then
             if [ "${QUEUE:-x}" = "0" ] && [ "${UNDER:-none}" = "none" ]; then
               export ZERO_NOTE="✅ 백필 완료 — 모든 나라가 국가별 목표 ${TARGET_PER_COUNTRY}편을 채웠습니다. 이 작업은 이제 할 일이 없어 그냥 지나갑니다(정상)."
             elif [ "${QUEUE:-x}" = "0" ]; then
