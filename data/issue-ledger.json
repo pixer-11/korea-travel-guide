@@ -1,12 +1,6 @@
 {
   "validate-content": {},
-  "audit-translations": {
-    "broken-syllable posts/ko/guangzhou-yuexiu-park.md": {
-      "since": "2026-10-12",
-      "last": "2026-10-12",
-      "seen": 1
-    }
-  },
+  "audit-translations": {},
   "audit-hours-claims": {
     "HOURS-CONTRADICTION okayama-okayama-korakuen.md": {
       "since": "2026-10-12",
