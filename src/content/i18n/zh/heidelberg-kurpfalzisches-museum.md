@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: heidelberg-kurpfalzisches-museum
-srcHash: '34f643c126c0'
+srcHash: '8edc556318d7'
 title: 普法尔茨选帝侯博物馆：海德堡旅行指南（4.5★）
-description: 普法尔茨选帝侯博物馆（Kurpfälzisches Museum）是海德堡的城市博物馆，坐落在老城步行区 Hauptstraße 97 的巴洛克式莫拉斯宫内，从俾斯麦广场往东步行约10分钟即到。评分4.5★（993条评价），本文汇总游客评价、开放时间和参观建议。
+description: 普法尔茨选帝侯博物馆（Kurpfälzisches Museum）是海德堡的城市博物馆，坐落在老城步行区 Hauptstraße 97 的巴洛克式莫拉斯宫内，从俾斯麦广场往东步行约10分钟即到。评分4.5★（992条评价），本文汇总游客评价、开放时间和参观建议。
 quickAnswer: 普法尔茨选帝侯博物馆（Kurpfälzisches Museum）是海德堡的城市博物馆，馆址在老城步行区 Hauptstraße 97 的巴洛克式莫拉斯宫（Palais Morass），从俾斯麦广场（Bismarckplatz）往东步行约10分钟即到。周末上午11点至下午6点游客较多，建议上午10点一开门就进馆，或者改在工作日前往。博物馆目前周二至周日开放，周一闭馆。
 faq:
   - q: 什么时候去普法尔茨选帝侯博物馆人最少？

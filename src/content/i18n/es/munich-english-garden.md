@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: munich-english-garden
-srcHash: '47da9c04f4d1'
+srcHash: '35d740a9971c'
 title: 'Jardín Inglés: guía de viaje de Múnich (4.7★)'
-description: Al norte del casco antiguo de Múnich, entre Schwabing y el Isar, se extiende el Jardín Inglés (Englischer Garten), un inmenso parque del siglo XVIII que alberga la ola surfeable del Eisbach, la cervecería al aire libre de la Torre China y el Seehaus, a orillas del lago. Con 4.7★ (69,661 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
+description: Al norte del casco antiguo de Múnich, entre Schwabing y el Isar, se extiende el Jardín Inglés (Englischer Garten), un inmenso parque del siglo XVIII que alberga la ola surfeable del Eisbach, la cervecería al aire libre de la Torre China y el Seehaus, a orillas del lago. Con 4.7★ (69,743 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
 quickAnswer: Al norte del casco antiguo de Múnich, entre Schwabing y el Isar, se extiende el Jardín Inglés (Englischer Garten), un inmenso parque del siglo XVIII. En su interior se encuentran la ola surfeable del Eisbach, la cervecería al aire libre de la Torre China y el Seehaus, junto al lago. Los fines de semana, la franja más tranquila va de 7am a 8am, mientras que entre las 11am y las 9pm hay mucha afluencia. Conviene, por tanto, madrugar si se quieren disfrutar los senderos y las vistas desde el Monopteros. Para llegar a la zona central del parque, lo más práctico es bajarse en las estaciones Universität o Giselastraße de las líneas U3/U6; al extremo sur se puede ir a pie desde Odeonsplatz.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Jardín Inglés?

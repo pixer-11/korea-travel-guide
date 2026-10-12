@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: munich-english-garden
-srcHash: '47da9c04f4d1'
+srcHash: '35d740a9971c'
 title: 慕尼黑英国花园旅行指南（4.7★）
-description: 英国花园（Englischer Garten）始建于18世纪，从慕尼黑老城一路向北延伸，夹在施瓦宾区与伊萨尔河之间，园内有艾斯巴赫河冲浪点、中国塔啤酒花园和湖畔的Seehaus餐厅。评分4.7★（69,661条评价），本文汇总游客评价、开放时间与游览建议。
+description: 英国花园（Englischer Garten）始建于18世纪，从慕尼黑老城一路向北延伸，夹在施瓦宾区与伊萨尔河之间，园内有艾斯巴赫河冲浪点、中国塔啤酒花园和湖畔的Seehaus餐厅。评分4.7★（69,743条评价），本文汇总游客评价、开放时间与游览建议。
 quickAnswer: 英国花园（Englischer Garten）始建于18世纪，从慕尼黑老城一路向北延伸，夹在施瓦宾区与伊萨尔河之间。艾斯巴赫河冲浪点、中国塔啤酒花园和湖畔的Seehaus餐厅都在园内。周日的7am至8am人最少，11am至9pm最热闹。想独享林间小路和希腊圆亭的风景，最好早点去。去公园中部可乘U3/U6在Universität（大学站）或Giselastraße站下车，去南端则可从音乐厅广场（Odeonsplatz）步行前往。
 faq:
   - q: 什么时候去英国花园人最少？

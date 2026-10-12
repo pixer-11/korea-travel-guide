@@ -1,37 +1,46 @@
 ---
-title: "English Garden: Munich Travel Guide (4.7★)"
-description: "The English Garden (Englischer Garten) is a huge 18th-century park running north from Munich's old town between Schwabing and the Isar, with the Eisbach surf wave, the Chinese Tower beer garden and the lakeside Seehaus all inside it. 4.7★ (69,661 reviews) — what visitors say, hours, and tips."
-country: "Germany"
-region: "Munich"
-category: "attraction"
-pubDate: "2026-10-05T07:48:20.481Z"
+title: 'English Garden: Munich Travel Guide (4.7★)'
+description: >-
+  The English Garden (Englischer Garten) is a huge 18th-century park running
+  north from Munich's old town between Schwabing and the Isar, with the Eisbach
+  surf wave, the Chinese Tower beer garden and the lakeside Seehaus all inside
+  it. 4.7★ (69,743 reviews) — what visitors say, hours, and tips.
+country: Germany
+region: Munich
+category: attraction
+pubDate: '2026-10-05T07:48:20.481Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Monopteros_in_the_English_Garden_in_Munich%2C_seen_from_across_the_Schwabinger_Bach%2C_20251110_0900_6057.jpg/3840px-Monopteros_in_the_English_Garden_in_Munich%2C_seen_from_across_the_Schwabinger_Bach%2C_20251110_0900_6057.jpg"
-  credit: "Photo: Jakub Hałun / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Monopteros_in_the_English_Garden_in_Munich,_seen_from_across_the_Schwabinger_Bach,_20251110_0900_6057.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Monopteros_in_the_English_Garden_in_Munich%2C_seen_from_across_the_Schwabinger_Bach%2C_20251110_0900_6057.jpg/3840px-Monopteros_in_the_English_Garden_in_Munich%2C_seen_from_across_the_Schwabinger_Bach%2C_20251110_0900_6057.jpg
+  credit: 'Photo: Jakub Hałun / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Monopteros_in_the_English_Garden_in_Munich,_seen_from_across_the_Schwabinger_Bach,_20251110_0900_6057.jpg
+  via: act
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Monopteros_in_the_English_Garden_in_Munich%2C_seen_from_across_the_Schwabinger_Bach%2C_20251110_0858_6053.jpg/3840px-Monopteros_in_the_English_Garden_in_Munich%2C_seen_from_across_the_Schwabinger_Bach%2C_20251110_0858_6053.jpg"
-    credit: "Photo: Jakub Hałun / Wikimedia Commons (CC BY 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Monopteros_in_the_English_Garden_in_Munich,_seen_from_across_the_Schwabinger_Bach,_20251110_0858_6053.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Monopteros_in_the_English_Garden_in_Munich%2C_seen_from_across_the_Schwabinger_Bach%2C_20251110_0858_6053.jpg/3840px-Monopteros_in_the_English_Garden_in_Munich%2C_seen_from_across_the_Schwabinger_Bach%2C_20251110_0858_6053.jpg
+    credit: 'Photo: Jakub Hałun / Wikimedia Commons (CC BY 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Monopteros_in_the_English_Garden_in_Munich,_seen_from_across_the_Schwabinger_Bach,_20251110_0858_6053.jpg
 place:
-  id: "ChIJayv4lZd1nkcR0e_vfGLfm8k"
-  name: "English Garden"
-  address: "Munich, Germany"
+  id: ChIJayv4lZd1nkcR0e_vfGLfm8k
+  name: English Garden
+  address: 'Munich, Germany'
   rating: 4.7
-  userRatingsTotal: 69661
-  googleMapsUrl: "https://maps.google.com/?cid=14527450637109555153&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 69743
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14527450637109555153&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 48.164232299999995
   lng: 11.6055522
-  phone: "+49 89 38666390"
+  phone: +49 89 38666390
   busyness:
-    updated: 2026-10-05
+    updated: 2026-10-05T00:00:00.000Z
     weekendQuiet:
       - 7
     weekendBusy:
@@ -45,24 +54,50 @@ place:
       - 18
       - 19
       - 20
-    venueId: "ven_6b386d664c4766765f653052636b6e31645a6c347679614a496843"
+    venueId: ven_6b386d664c4766765f653052636b6e31645a6c347679614a496843
 tags:
-  - "munich"
-  - "park"
-quickAnswer: "The English Garden (Englischer Garten) is a huge 18th-century park running north from Munich's old town between Schwabing and the Isar, with the Eisbach surf wave, the Chinese Tower beer garden and the lakeside Seehaus all inside it. On weekends it's quietest from 7am to 8am and busy from 11am to 9pm, so go early for the paths and the Monopteros view. Use U3/U6 Universität or Giselastraße for the middle of the park, or walk from Odeonsplatz to the southern tip."
+  - munich
+  - park
+quickAnswer: >-
+  The English Garden (Englischer Garten) is a huge 18th-century park running
+  north from Munich's old town between Schwabing and the Isar, with the Eisbach
+  surf wave, the Chinese Tower beer garden and the lakeside Seehaus all inside
+  it. On weekends it's quietest from 7am to 8am and busy from 11am to 9pm, so go
+  early for the paths and the Monopteros view. Use U3/U6 Universität or
+  Giselastraße for the middle of the park, or walk from Odeonsplatz to the
+  southern tip.
 faq:
-  - q: "When is the quietest time to visit the English Garden?"
-    a: "On weekends it's quietest from 7am to 8am. It's busiest from 11am to 9pm, so if you want empty paths and the Monopteros to yourself, go early. If you can only come in the afternoon, head north of Kleinhesseloher See."
-  - q: "How do I get to the English Garden by U-Bahn?"
-    a: "For the middle of the park and the Chinese Tower, take U3/U6 to Universität or Giselastraße. For the Eisbach wave at the southern tip, walk from Odeonsplatz through the Hofgarten, or take tram 18 or bus 100 to Nationalmuseum/Haus der Kunst. For the lake, use Münchner Freiheit."
-  - q: "How much time should I spend in the English Garden?"
-    a: "Plan on half a day to walk from the Eisbach surfers to the Monopteros, the Chinese Tower and the Seehaus on the lake, with a beer garden stop. To see the quieter northern half, a bike and a full day make more sense, since the park has 78km of paths."
-  - q: "Can I swim in the Eisbach?"
-    a: "It's not a good idea. The current is strong and the channel runs into tunnels, and people have drowned there. Watch the surfers from the Prinzregentenstraße bridge instead."
-  - q: "Can I bring my own food to the beer gardens?"
-    a: "Yes. In traditional Bavarian beer gardens such as those at the Chinese Tower and on the lake, you can bring a picnic to the bare self-service tables. Tables with cloths or table service are for buying from the house, and drinks are bought at the counter."
+  - q: When is the quietest time to visit the English Garden?
+    a: >-
+      On weekends it's quietest from 7am to 8am. It's busiest from 11am to 9pm,
+      so if you want empty paths and the Monopteros to yourself, go early. If
+      you can only come in the afternoon, head north of Kleinhesseloher See.
+  - q: How do I get to the English Garden by U-Bahn?
+    a: >-
+      For the middle of the park and the Chinese Tower, take U3/U6 to
+      Universität or Giselastraße. For the Eisbach wave at the southern tip,
+      walk from Odeonsplatz through the Hofgarten, or take tram 18 or bus 100 to
+      Nationalmuseum/Haus der Kunst. For the lake, use Münchner Freiheit.
+  - q: How much time should I spend in the English Garden?
+    a: >-
+      Plan on half a day to walk from the Eisbach surfers to the Monopteros, the
+      Chinese Tower and the Seehaus on the lake, with a beer garden stop. To see
+      the quieter northern half, a bike and a full day make more sense, since
+      the park has 78km of paths.
+  - q: Can I swim in the Eisbach?
+    a: >-
+      It's not a good idea. The current is strong and the channel runs into
+      tunnels, and people have drowned there. Watch the surfers from the
+      Prinzregentenstraße bridge instead.
+  - q: Can I bring my own food to the beer gardens?
+    a: >-
+      Yes. In traditional Bavarian beer gardens such as those at the Chinese
+      Tower and on the lake, you can bring a picnic to the bare self-service
+      tables. Tables with cloths or table service are for buying from the house,
+      and drinks are bought at the counter.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-12'
 ---
 
 ## Meadows Where Soldiers Once Drilled

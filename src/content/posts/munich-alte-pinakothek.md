@@ -1,40 +1,45 @@
 ---
-title: "Alte Pinakothek: Munich Travel Guide (4.7★)"
-description: "The Alte Pinakothek is Munich's Old Masters gallery on Barer Straße in the Maxvorstadt museum quarter, with about 900 paintings on show from Dürer to Rubens. 4.7★ (13,487 reviews) — what visitors say, hours, and tips."
-country: "Germany"
-region: "Munich"
-category: "attraction"
-pubDate: "2026-10-04T13:28:53.831Z"
+title: 'Alte Pinakothek: Munich Travel Guide (4.7★)'
+description: >-
+  The Alte Pinakothek is Munich's Old Masters gallery on Barer Straße in the
+  Maxvorstadt museum quarter, with about 900 paintings on show from Dürer to
+  Rubens. 4.7★ (13,526 reviews) — what visitors say, hours, and tips.
+country: Germany
+region: Munich
+category: attraction
+pubDate: '2026-10-04T13:28:53.831Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Alte_Pinakothek_2009.jpg/1920px-Alte_Pinakothek_2009.jpg"
-  credit: "Photo: Photo: Andreas Praefcke / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Alte_Pinakothek_2009.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Alte_Pinakothek_2009.jpg/1920px-Alte_Pinakothek_2009.jpg
+  credit: 'Photo: Photo: Andreas Praefcke / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Alte_Pinakothek_2009.jpg'
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery: []
 place:
-  id: "ChIJ12nAjO51nkcRt8DRlE8kWIE"
-  name: "Alte Pinakothek"
-  address: "Barer Str. 27, 80333 München, Germany"
+  id: ChIJ12nAjO51nkcRt8DRlE8kWIE
+  name: Alte Pinakothek
+  address: 'Barer Str. 27, 80333 München, Germany'
   rating: 4.7
-  userRatingsTotal: 13487
-  googleMapsUrl: "https://maps.google.com/?cid=9320239353061032119&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 13526
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9320239353061032119&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 48.1483311
   lng: 11.5699755
-  phone: "+49 89 23805216"
+  phone: +49 89 23805216
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 10:00 AM – 8:00 PM"
-    - "Wednesday: 10:00 AM – 8:00 PM"
-    - "Thursday: 10:00 AM – 6:00 PM"
-    - "Friday: 10:00 AM – 6:00 PM"
-    - "Saturday: 10:00 AM – 6:00 PM"
-    - "Sunday: 10:00 AM – 6:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 10:00 AM – 8:00 PM'
+    - 'Wednesday: 10:00 AM – 8:00 PM'
+    - 'Thursday: 10:00 AM – 6:00 PM'
+    - 'Friday: 10:00 AM – 6:00 PM'
+    - 'Saturday: 10:00 AM – 6:00 PM'
+    - 'Sunday: 10:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-10-04
+    updated: 2026-10-04T00:00:00.000Z
     weekendBusy:
       - 10
       - 11
@@ -44,24 +49,45 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_4549576b38456c5244387452636b6e31354f6a416e32314a496843"
+    venueId: ven_4549576b38456c5244387452636b6e31354f6a416e32314a496843
 tags:
-  - "munich"
-  - "museum"
-quickAnswer: "The Alte Pinakothek is Munich's Old Masters gallery on Barer Straße in the Maxvorstadt museum quarter, with about 900 paintings on show from Dürer to Rubens. It's closed Mondays and stays open until 8pm on Tuesdays and Wednesdays. Weekends are busy the whole day, 10am–6pm, so a weekday visit, ideally one of those late evenings, is the better plan."
+  - munich
+  - museum
+quickAnswer: >-
+  The Alte Pinakothek is Munich's Old Masters gallery on Barer Straße in the
+  Maxvorstadt museum quarter, with about 900 paintings on show from Dürer to
+  Rubens. It's closed Mondays and stays open until 8pm on Tuesdays and
+  Wednesdays. Weekends are busy the whole day, 10am–6pm, so a weekday visit,
+  ideally one of those late evenings, is the better plan.
 faq:
-  - q: "When is the quietest time to visit the Alte Pinakothek?"
-    a: "Weekends are busy for the whole day, from 10am to 6pm, so avoid Saturdays and Sundays if you can. Go on a weekday instead. Tuesday and Wednesday evenings are the best bet because the museum stays open until 8pm, after most groups have left."
-  - q: "Is the Alte Pinakothek open on Mondays?"
-    a: "No. It's closed on Mondays. It opens 10am to 8pm on Tuesdays and Wednesdays and 10am to 6pm from Thursday to Sunday."
-  - q: "How do I get to the Alte Pinakothek?"
-    a: "Tram 27 stops at Pinakotheken, right outside. You can also take the U2 to Theresienstraße, or the U2 or U8 to Königsplatz, and walk about ten minutes. Bus 100 also stops nearby."
-  - q: "How long should I spend there?"
-    a: "Allow two to three hours for the highlights, including the Dürer self-portrait, Altdorfer's Battle of Alexander and the Rubens hall. Allow half a day if you want to see every school properly."
-  - q: "What else is nearby?"
-    a: "The Pinakothek der Moderne and Museum Brandhorst are both a few minutes' walk away in the Kunstareal. Königsplatz and the Glyptothek are a short walk south."
+  - q: When is the quietest time to visit the Alte Pinakothek?
+    a: >-
+      Weekends are busy for the whole day, from 10am to 6pm, so avoid Saturdays
+      and Sundays if you can. Go on a weekday instead. Tuesday and Wednesday
+      evenings are the best bet because the museum stays open until 8pm, after
+      most groups have left.
+  - q: Is the Alte Pinakothek open on Mondays?
+    a: >-
+      No. It's closed on Mondays. It opens 10am to 8pm on Tuesdays and
+      Wednesdays and 10am to 6pm from Thursday to Sunday.
+  - q: How do I get to the Alte Pinakothek?
+    a: >-
+      Tram 27 stops at Pinakotheken, right outside. You can also take the U2 to
+      Theresienstraße, or the U2 or U8 to Königsplatz, and walk about ten
+      minutes. Bus 100 also stops nearby.
+  - q: How long should I spend there?
+    a: >-
+      Allow two to three hours for the highlights, including the Dürer
+      self-portrait, Altdorfer's Battle of Alexander and the Rubens hall. Allow
+      half a day if you want to see every school properly.
+  - q: What else is nearby?
+    a: >-
+      The Pinakothek der Moderne and Museum Brandhorst are both a few minutes'
+      walk away in the Kunstareal. Königsplatz and the Glyptothek are a short
+      walk south.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-12'
 ---
 
 ## A long brick palace built for paintings

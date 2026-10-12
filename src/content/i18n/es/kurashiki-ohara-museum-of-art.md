@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: kurashiki-ohara-museum-of-art
-srcHash: '72f0e4341265'
+srcHash: '7a2f0fb1c2cf'
 title: 'Museo de Arte Ōhara: guía de viaje de Kurashiki (4.4★)'
-description: Fundado en 1930 en pleno barrio histórico de Bikan, en Kurashiki, el Museo de Arte Ōhara fue el primer museo privado de Japón dedicado al arte occidental y se encuentra a unos 15 minutos a pie de la estación JR de Kurashiki. Con una valoración de 4.4★ (3,380 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
+description: Fundado en 1930 en pleno barrio histórico de Bikan, en Kurashiki, el Museo de Arte Ōhara fue el primer museo privado de Japón dedicado al arte occidental y se encuentra a unos 15 minutos a pie de la estación JR de Kurashiki. Con una valoración de 4.4★ (3,382 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
 quickAnswer: Fundado en 1930 en pleno barrio histórico de Bikan, en Kurashiki, el Museo de Arte Ōhara fue el primer museo privado de Japón dedicado al arte occidental y se encuentra a unos 15 minutos a pie de la estación JR de Kurashiki. Para recorrer el edificio principal y las galerías de artesanía y de arte asiático conviene reservar entre 2 y 3 horas; el Anexo permanece cerrado por tiempo indefinido. Actualmente abre de martes a domingo, de 9am–5pm, y cierra los lunes. Si va en fin de semana, llegue justo a las 9am para adelantarse a la aglomeración de 10am–4pm.
 faq:
   - q: ¿Cómo se llega al Museo de Arte Ōhara desde Okayama?

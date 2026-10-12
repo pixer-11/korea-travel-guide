@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: edinburgh-national-museum-of-scotland
-srcHash: 'b209afc83f30'
+srcHash: 'c7e7ed70e3c7'
 title: 'Museo Nacional de Escocia: guía de viaje de Edimburgo (4.8★)'
-description: En Chambers Street, en plena Ciudad Vieja de Edimburgo y a pocos pasos de la Royal Mile, se encuentra el Museo Nacional de Escocia, cuya entrada general es gratuita. Con una valoración de 4.8★ (60,129 reseñas), le contamos qué opinan los visitantes, los horarios y algunos consejos.
+description: En Chambers Street, en plena Ciudad Vieja de Edimburgo y a pocos pasos de la Royal Mile, se encuentra el Museo Nacional de Escocia, cuya entrada general es gratuita. Con una valoración de 4.8★ (60,143 reseñas), le contamos qué opinan los visitantes, los horarios y algunos consejos.
 quickAnswer: En Chambers Street, en plena Ciudad Vieja (Old Town) de Edimburgo y a pocos pasos de la Royal Mile, se encuentra el Museo Nacional de Escocia, cuya entrada general es gratuita. Lo ideal es llegar a las 10am, porque la franja de 10am–11am es la más tranquila todos los días. Los fines de semana, en cambio, se llena de 12pm a 4pm. Calcule entre dos y tres horas para la visita. El horario actual es de 10am–5pm, aunque conviene consultar la web oficial antes de ir.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Museo Nacional de Escocia?

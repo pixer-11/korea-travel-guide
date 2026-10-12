@@ -1,45 +1,53 @@
 ---
-title: "Dianatempel: Munich Travel Guide (4.7★)"
-description: "The Dianatempel is the domed Renaissance pavilion at the centre of Munich's Hofgarten in Altstadt-Lehel, a two-minute walk from Odeonsplatz U-Bahn station. 4.7★ (730 reviews) — what visitors say, hours, and tips."
-country: "Germany"
-region: "Munich"
-category: "attraction"
-pubDate: "2026-10-04T13:53:51.379Z"
+title: 'Dianatempel: Munich Travel Guide (4.7★)'
+description: >-
+  The Dianatempel is the domed Renaissance pavilion at the centre of Munich's
+  Hofgarten in Altstadt-Lehel, a two-minute walk from Odeonsplatz U-Bahn
+  station. 4.7★ (733 reviews) — what visitors say, hours, and tips.
+country: Germany
+region: Munich
+category: attraction
+pubDate: '2026-10-04T13:53:51.379Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Dianatempel%2C_Munich%2C_20251110_0810_5989.jpg/3840px-Dianatempel%2C_Munich%2C_20251110_0810_5989.jpg"
-  credit: "Photo: Jakub Hałun / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Dianatempel,_Munich,_20251110_0810_5989.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Dianatempel%2C_Munich%2C_20251110_0810_5989.jpg/3840px-Dianatempel%2C_Munich%2C_20251110_0810_5989.jpg
+  credit: 'Photo: Jakub Hałun / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Dianatempel,_Munich,_20251110_0810_5989.jpg
+  via: act
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Dianatempel%2C_Hofgarten%2C_M%C3%BAnich%2C_Alemania%2C_2023-12-03%2C_DD_05.jpg/3840px-Dianatempel%2C_Hofgarten%2C_M%C3%BAnich%2C_Alemania%2C_2023-12-03%2C_DD_05.jpg"
-    credit: "Photo: Diego Delso / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Dianatempel,_Hofgarten,_M%C3%BAnich,_Alemania,_2023-12-03,_DD_05.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Dianatempel%2C_Hofgarten%2C_M%C3%BAnich%2C_Alemania%2C_2023-12-03%2C_DD_05.jpg/3840px-Dianatempel%2C_Hofgarten%2C_M%C3%BAnich%2C_Alemania%2C_2023-12-03%2C_DD_05.jpg
+    credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Dianatempel,_Hofgarten,_M%C3%BAnich,_Alemania,_2023-12-03,_DD_05.jpg
 place:
-  id: "ChIJF2pQDI11nkcRL6I3jGhnupw"
-  name: "Dianatempel"
-  address: "Hofgartenstraße 6, 80539 München-Altstadt-Lehel, Germany"
+  id: ChIJF2pQDI11nkcRL6I3jGhnupw
+  name: Dianatempel
+  address: 'Hofgartenstraße 6, 80539 München-Altstadt-Lehel, Germany'
   rating: 4.7
-  userRatingsTotal: 730
-  googleMapsUrl: "https://maps.google.com/?cid=11293452714311655983&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 733
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=11293452714311655983&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 48.1429632
   lng: 11.5800153
-  phone: "+49 89 179080"
+  phone: +49 89 179080
   openingHours:
-    - "Monday: 7:00 AM – 10:00 PM"
-    - "Tuesday: 7:00 AM – 10:00 PM"
-    - "Wednesday: 7:00 AM – 10:00 PM"
-    - "Thursday: 7:00 AM – 10:00 PM"
-    - "Friday: 7:00 AM – 10:00 PM"
-    - "Saturday: 7:00 AM – 10:00 PM"
-    - "Sunday: 7:00 AM – 10:00 PM"
+    - 'Monday: 7:00 AM – 10:00 PM'
+    - 'Tuesday: 7:00 AM – 10:00 PM'
+    - 'Wednesday: 7:00 AM – 10:00 PM'
+    - 'Thursday: 7:00 AM – 10:00 PM'
+    - 'Friday: 7:00 AM – 10:00 PM'
+    - 'Saturday: 7:00 AM – 10:00 PM'
+    - 'Sunday: 7:00 AM – 10:00 PM'
   busyness:
-    updated: 2026-10-04
+    updated: 2026-10-04T00:00:00.000Z
     weekdayQuiet:
       - 11
       - 12
@@ -52,24 +60,42 @@ place:
       - 13
       - 14
       - 20
-    venueId: "ven_7770756e68476a3349364c52636b6e31314944517032464a496843"
+    venueId: ven_7770756e68476a3349364c52636b6e31314944517032464a496843
 tags:
-  - "munich"
-  - "historic site"
-quickAnswer: "The Dianatempel is the domed Renaissance pavilion at the centre of Munich's Hofgarten in Altstadt-Lehel, a two-minute walk from Odeonsplatz U-Bahn station. The garden is open daily from 7am to 10pm. It's quietest from 11am to 1pm on weekdays and from 7am to 8am on weekends, and busiest on weekends from 10am to 9pm."
+  - munich
+  - historic site
+quickAnswer: >-
+  The Dianatempel is the domed Renaissance pavilion at the centre of Munich's
+  Hofgarten in Altstadt-Lehel, a two-minute walk from Odeonsplatz U-Bahn
+  station. The garden is open daily from 7am to 10pm. It's quietest from 11am to
+  1pm on weekdays and from 7am to 8am on weekends, and busiest on weekends from
+  10am to 9pm.
 faq:
-  - q: "When is the quietest time to visit the Dianatempel?"
-    a: "On weekdays it's quietest from 11am to 1pm. On weekends the quiet window is 7am to 8am. Avoid weekends between 10am and 9pm, the busiest period, if you want space."
-  - q: "How do I get to the Dianatempel?"
-    a: "Take the U-Bahn to Odeonsplatz (U3, U6, U4 or U5). Walk through the Hofgartentor gate and follow the main gravel path to the centre of the Hofgarten, about two minutes."
-  - q: "What are the opening hours?"
-    a: "The Hofgarten, where the pavilion stands, is open daily from 7am to 10pm."
-  - q: "How long should I spend there?"
-    a: "About 15 to 20 minutes for the pavilion, or longer if a musician is playing or dancers are using the floor on a summer evening. Combine it with the Residenz, Odeonsplatz and the Englischer Garten for a half-day."
-  - q: "Why do musicians play inside the Dianatempel?"
-    a: "The dome reflects sound back to the centre of the pavilion, so one instrument sounds much fuller there. That's why buskers choose it and why dance groups use it on summer evenings."
+  - q: When is the quietest time to visit the Dianatempel?
+    a: >-
+      On weekdays it's quietest from 11am to 1pm. On weekends the quiet window
+      is 7am to 8am. Avoid weekends between 10am and 9pm, the busiest period, if
+      you want space.
+  - q: How do I get to the Dianatempel?
+    a: >-
+      Take the U-Bahn to Odeonsplatz (U3, U6, U4 or U5). Walk through the
+      Hofgartentor gate and follow the main gravel path to the centre of the
+      Hofgarten, about two minutes.
+  - q: What are the opening hours?
+    a: 'The Hofgarten, where the pavilion stands, is open daily from 7am to 10pm.'
+  - q: How long should I spend there?
+    a: >-
+      About 15 to 20 minutes for the pavilion, or longer if a musician is
+      playing or dancers are using the floor on a summer evening. Combine it
+      with the Residenz, Odeonsplatz and the Englischer Garten for a half-day.
+  - q: Why do musicians play inside the Dianatempel?
+    a: >-
+      The dome reflects sound back to the centre of the pavilion, so one
+      instrument sounds much fuller there. That's why buskers choose it and why
+      dance groups use it on summer evenings.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-12'
 ---
 
 Eight gravel paths run through the Hofgarten and all of them end at the same place. At the centre stands an open stone pavilion with arched sides and a copper-green dome. A bronze figure stands on top of the dome. That is the Dianatempel. The garden around it is laid out so that every route brings you here.

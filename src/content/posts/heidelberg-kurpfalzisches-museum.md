@@ -1,45 +1,54 @@
 ---
-title: "Kurpfälzisches Museum: Heidelberg Travel Guide (4.5★)"
-description: "The Kurpfälzisches Museum is Heidelberg's city museum, set in the baroque Palais Morass at Hauptstraße 97 in the Altstadt pedestrian zone, about a 10-minute walk east of Bismarckplatz. 4.5★ (993 reviews) — what visitors say, hours, and tips."
-country: "Germany"
-region: "Heidelberg"
-category: "attraction"
-pubDate: "2026-10-12T08:03:20.457Z"
+title: 'Kurpfälzisches Museum: Heidelberg Travel Guide (4.5★)'
+description: >-
+  The Kurpfälzisches Museum is Heidelberg's city museum, set in the baroque
+  Palais Morass at Hauptstraße 97 in the Altstadt pedestrian zone, about a
+  10-minute walk east of Bismarckplatz. 4.5★ (992 reviews) — what visitors say,
+  hours, and tips.
+country: Germany
+region: Heidelberg
+category: attraction
+pubDate: '2026-10-12T08:03:20.457Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Sammlung_Kurpf%C3%A4lzisches_Museum_Heidelberg_7.jpg/3840px-Sammlung_Kurpf%C3%A4lzisches_Museum_Heidelberg_7.jpg"
-  credit: "Photo: LoKiLeCh / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Sammlung_Kurpf%C3%A4lzisches_Museum_Heidelberg_7.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Sammlung_Kurpf%C3%A4lzisches_Museum_Heidelberg_7.jpg/3840px-Sammlung_Kurpf%C3%A4lzisches_Museum_Heidelberg_7.jpg
+  credit: 'Photo: LoKiLeCh / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Sammlung_Kurpf%C3%A4lzisches_Museum_Heidelberg_7.jpg
+  via: act
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/0/0a/Sammlung_Kurpf%C3%A4lzisches_Museum_Heidelberg_10.jpg"
-    credit: "Photo: LoKiLeCh / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Sammlung_Kurpf%C3%A4lzisches_Museum_Heidelberg_10.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/0/0a/Sammlung_Kurpf%C3%A4lzisches_Museum_Heidelberg_10.jpg
+    credit: 'Photo: LoKiLeCh / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Sammlung_Kurpf%C3%A4lzisches_Museum_Heidelberg_10.jpg
 place:
-  id: "ChIJNd8c9wTBl0cRKLXkSJOLVs8"
-  name: "Kurpfälzisches Museum"
-  address: "Hauptstraße 97, 69117 Heidelberg-Altstadt, Germany"
+  id: ChIJNd8c9wTBl0cRKLXkSJOLVs8
+  name: Kurpfälzisches Museum
+  address: 'Hauptstraße 97, 69117 Heidelberg-Altstadt, Germany'
   rating: 4.5
-  userRatingsTotal: 993
-  googleMapsUrl: "https://maps.google.com/?cid=14940282278547600680&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 992
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14940282278547600680&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 49.411342
   lng: 8.7029391
-  phone: "+49 6221 5834020"
+  phone: +49 6221 5834020
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 10:00 AM – 6:00 PM"
-    - "Wednesday: 10:00 AM – 6:00 PM"
-    - "Thursday: 10:00 AM – 6:00 PM"
-    - "Friday: 10:00 AM – 6:00 PM"
-    - "Saturday: 10:00 AM – 6:00 PM"
-    - "Sunday: 10:00 AM – 6:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 10:00 AM – 6:00 PM'
+    - 'Wednesday: 10:00 AM – 6:00 PM'
+    - 'Thursday: 10:00 AM – 6:00 PM'
+    - 'Friday: 10:00 AM – 6:00 PM'
+    - 'Saturday: 10:00 AM – 6:00 PM'
+    - 'Sunday: 10:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-10-12
+    updated: 2026-10-12T00:00:00.000Z
     weekdayBusy:
       - 14
       - 15
@@ -52,24 +61,44 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_3873564c4f4a536b584c4b5263306c425477396338644e4a496843"
+    venueId: ven_3873564c4f4a536b584c4b5263306c425477396338644e4a496843
 tags:
-  - "heidelberg"
-  - "museum"
-quickAnswer: "The Kurpfälzisches Museum is Heidelberg's city museum, set in the baroque Palais Morass at Hauptstraße 97 in the Altstadt pedestrian zone, about a 10-minute walk east of Bismarckplatz. Weekends are busy from 11am to 6pm, so come when it opens at 10am or on a weekday. At the moment it opens Tuesday to Sunday and is closed Monday."
+  - heidelberg
+  - museum
+quickAnswer: >-
+  The Kurpfälzisches Museum is Heidelberg's city museum, set in the baroque
+  Palais Morass at Hauptstraße 97 in the Altstadt pedestrian zone, about a
+  10-minute walk east of Bismarckplatz. Weekends are busy from 11am to 6pm, so
+  come when it opens at 10am or on a weekday. At the moment it opens Tuesday to
+  Sunday and is closed Monday.
 faq:
-  - q: "When is the quietest time to visit the Kurpfälzisches Museum?"
-    a: "Weekends are busiest from 11am to 6pm, so on a Saturday or Sunday arrive at the 10am opening. A weekday visit, Tuesday to Friday, avoids the weekend peak altogether."
-  - q: "Is the Kurpfälzisches Museum open on Mondays?"
-    a: "Not at the moment. Currently it is closed on Monday and opens 10am to 6pm Tuesday to Sunday. Museum hours change during the year and on holidays, so check the official website first."
-  - q: "How do I get to the Kurpfälzisches Museum?"
-    a: "It is at Hauptstraße 97 in Heidelberg-Altstadt. Take a tram or bus to Bismarckplatz, then walk about 10 minutes east along the pedestrian Hauptstraße."
-  - q: "How long should I spend there?"
-    a: "Plan on 90 minutes to two hours to see the Mauer jaw cast, the Riemenschneider altar, the Roman finds and the Romantic-era paintings."
-  - q: "What is nearby?"
-    a: "Universitätsplatz and the Peterskirche are a few minutes east. Beyond them are the Heiliggeistkirche, the Marktplatz, the Old Bridge and the castle funicular at Kornmarkt."
+  - q: When is the quietest time to visit the Kurpfälzisches Museum?
+    a: >-
+      Weekends are busiest from 11am to 6pm, so on a Saturday or Sunday arrive
+      at the 10am opening. A weekday visit, Tuesday to Friday, avoids the
+      weekend peak altogether.
+  - q: Is the Kurpfälzisches Museum open on Mondays?
+    a: >-
+      Not at the moment. Currently it is closed on Monday and opens 10am to 6pm
+      Tuesday to Sunday. Museum hours change during the year and on holidays, so
+      check the official website first.
+  - q: How do I get to the Kurpfälzisches Museum?
+    a: >-
+      It is at Hauptstraße 97 in Heidelberg-Altstadt. Take a tram or bus to
+      Bismarckplatz, then walk about 10 minutes east along the pedestrian
+      Hauptstraße.
+  - q: How long should I spend there?
+    a: >-
+      Plan on 90 minutes to two hours to see the Mauer jaw cast, the
+      Riemenschneider altar, the Roman finds and the Romantic-era paintings.
+  - q: What is nearby?
+    a: >-
+      Universitätsplatz and the Peterskirche are a few minutes east. Beyond them
+      are the Heiliggeistkirche, the Marktplatz, the Old Bridge and the castle
+      funicular at Kornmarkt.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-12'
 ---
 
 ## A palace on the shopping street

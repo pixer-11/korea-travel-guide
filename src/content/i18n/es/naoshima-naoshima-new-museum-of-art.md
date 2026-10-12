@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: naoshima-naoshima-new-museum-of-art
-srcHash: 'b3d6cbf6e841'
+srcHash: '3f4626a4b960'
 title: 'Nuevo Museo de Arte de Naoshima: guía de viaje (4.5★)'
-description: En el distrito de Honmura, en Naoshima, se encuentra el Nuevo Museo de Arte de Naoshima. Con 4.5★ (556 reseñas), le contamos qué opinan los visitantes, cuáles son sus horarios y algunos consejos útiles.
+description: En el distrito de Honmura, en Naoshima, se encuentra el Nuevo Museo de Arte de Naoshima. Con 4.5★ (557 reseñas), le contamos qué opinan los visitantes, cuáles son sus horarios y algunos consejos útiles.
 quickAnswer: El Nuevo Museo de Arte de Naoshima se encuentra en Honmura, uno de los distritos de la isla. Es el edificio más reciente de Tadao Ando en Naoshima y está dedicado al arte contemporáneo de Japón y del resto de Asia. Actualmente abre de martes a domingo, de 10am a 4:30pm, y cierra los lunes. Conviene combinar la visita con el Art House Project de Honmura y consultar la web oficial de Benesse Art Site Naoshima para las entradas antes de subir al ferri.
 faq:
   - q: ¿Cómo se llega al Nuevo Museo de Arte de Naoshima?

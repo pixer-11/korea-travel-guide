@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: munich-deutsches-museum
-srcHash: 'ec019951e5c0'
+srcHash: '4222403b71bd'
 title: 德意志博物馆：慕尼黑旅行指南（4.5★）
-description: 德意志博物馆坐落在慕尼黑市中心伊萨尔河上的博物馆岛（Museumsinsel）。小岛四周是砾石河岸，从伊萨尔门（Isartor）S-Bahn站步行约十分钟即到。评分4.5★（44,070条评价），本文汇总游客评价、开放时间和参观建议。
+description: 德意志博物馆坐落在慕尼黑市中心伊萨尔河上的博物馆岛（Museumsinsel）。小岛四周是砾石河岸，从伊萨尔门（Isartor）S-Bahn站步行约十分钟即到。评分4.5★（44,167条评价），本文汇总游客评价、开放时间和参观建议。
 quickAnswer: 德意志博物馆位于慕尼黑市中心伊萨尔河上的博物馆岛（Museumsinsel）。小岛四周是砾石河岸，从伊萨尔门（Isartor）S-Bahn站步行约十分钟即到。博物馆每天9am至5pm开放。工作日最好在9am至11am之间到达，周末则在9am–10am之间。周末11am至5pm人最多，尽量避开。参观时间至少留出半天。
 faq:
   - q: 什么时候去德意志博物馆人最少？

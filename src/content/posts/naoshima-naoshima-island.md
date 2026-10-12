@@ -1,50 +1,81 @@
 ---
-title: "Naoshima Island: Travel Guide (4.4★)"
-description: "Naoshima Island is a small island in Kagawa's Seto Inland Sea. 4.4★ (379 reviews) — what visitors say, hours, and tips."
-country: "Japan"
-region: "Naoshima"
-category: "hidden-gem"
-pubDate: "2026-10-12T07:07:47.839Z"
+title: 'Naoshima Island: Travel Guide (4.4★)'
+description: >-
+  Naoshima Island is a small island in Kagawa's Seto Inland Sea. 4.4★ (380
+  reviews) — what visitors say, hours, and tips.
+country: Japan
+region: Naoshima
+category: hidden-gem
+pubDate: '2026-10-12T07:07:47.839Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/2/2b/Benesse_House_beach%2C_Naoshima_island_-_Jul_23%2C_2009.jpg"
-  credit: "Photo: Joi Ito / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Benesse_House_beach,_Naoshima_island_-_Jul_23,_2009.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/2/2b/Benesse_House_beach%2C_Naoshima_island_-_Jul_23%2C_2009.jpg
+  credit: 'Photo: Joi Ito / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Benesse_House_beach,_Naoshima_island_-_Jul_23,_2009.jpg
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Naoshima_%287046724589%29.jpg/3840px-Naoshima_%287046724589%29.jpg"
-    credit: "Photo: KimonBerlin / Wikimedia Commons (CC BY-SA 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Naoshima_(7046724589).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Naoshima_%287046724589%29.jpg/3840px-Naoshima_%287046724589%29.jpg
+    credit: 'Photo: KimonBerlin / Wikimedia Commons (CC BY-SA 2.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Naoshima_(7046724589).jpg'
 place:
-  id: "ChIJ7w_z0dHxUzURRSc6fI9jlQQ"
-  name: "Naoshima Island"
-  address: "Naoshima Island, Naoshima, Kagawa District, Kagawa 761-3110, Japan"
+  id: ChIJ7w_z0dHxUzURRSc6fI9jlQQ
+  name: Naoshima Island
+  address: 'Naoshima Island, Naoshima, Kagawa District, Kagawa 761-3110, Japan'
   rating: 4.4
-  userRatingsTotal: 379
-  googleMapsUrl: "https://maps.google.com/?cid=330279615597258565&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  userRatingsTotal: 380
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=330279615597258565&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   lat: 34.4574202
   lng: 133.9865766
 tags:
-  - "naoshima"
-  - "local market"
-quickAnswer: "Naoshima Island is a small island in Kagawa's Seto Inland Sea. Visitors come for its art museums, its Tadao Ando buildings and the sculptures set along its shoreline. Get there by ferry from Uno Port in Okayama or Takamatsu Port in Kagawa, book Chichu Art Museum online before you travel, and stay at least one night so you can see both Honmura and the Benesse museum area without rushing."
+  - naoshima
+  - local market
+quickAnswer: >-
+  Naoshima Island is a small island in Kagawa's Seto Inland Sea. Visitors come
+  for its art museums, its Tadao Ando buildings and the sculptures set along its
+  shoreline. Get there by ferry from Uno Port in Okayama or Takamatsu Port in
+  Kagawa, book Chichu Art Museum online before you travel, and stay at least one
+  night so you can see both Honmura and the Benesse museum area without rushing.
 faq:
-  - q: "How do I get to Naoshima?"
-    a: "Take the JR Uno Line from Okayama to Uno Station and catch the roughly 20-minute ferry to Miyanoura Port. You can also sail from Takamatsu Port, which is close to JR Takamatsu Station, by car ferry or high-speed boat. Check return times before you leave, because sailings are limited."
-  - q: "Do I need to book Chichu Art Museum in advance?"
-    a: "Yes. Chichu uses timed-entry reservations made online, and slots can sell out. Book first, then plan the rest of your day around your time slot. The official Benesse Art Site Naoshima website has current booking details and prices."
-  - q: "Is a day trip to Naoshima enough?"
-    a: "A day trip covers either the south-coast museums (Chichu, Lee Ufan, Benesse House) or the Honmura Art House Project, but not both comfortably. One night gives you time for both, plus an evening at the I♥湯 bathhouse in Miyanoura."
-  - q: "Should I rent a bike or use the bus on Naoshima?"
-    a: "Both work. The town bus links Miyanoura, Honmura and the Benesse area, and a shuttle continues to the south-coast museums. Electric-assist bikes from shops near Miyanoura Port help on the steep hills and let you avoid crowded buses after a ferry arrives."
-  - q: "Are Naoshima's museums open every day?"
-    a: "No. The major museums usually close one day a week, often Monday, and the schedule can change around holidays. Check the official Benesse Art Site calendar before you choose a date."
+  - q: How do I get to Naoshima?
+    a: >-
+      Take the JR Uno Line from Okayama to Uno Station and catch the roughly
+      20-minute ferry to Miyanoura Port. You can also sail from Takamatsu Port,
+      which is close to JR Takamatsu Station, by car ferry or high-speed boat.
+      Check return times before you leave, because sailings are limited.
+  - q: Do I need to book Chichu Art Museum in advance?
+    a: >-
+      Yes. Chichu uses timed-entry reservations made online, and slots can sell
+      out. Book first, then plan the rest of your day around your time slot. The
+      official Benesse Art Site Naoshima website has current booking details and
+      prices.
+  - q: Is a day trip to Naoshima enough?
+    a: >-
+      A day trip covers either the south-coast museums (Chichu, Lee Ufan,
+      Benesse House) or the Honmura Art House Project, but not both comfortably.
+      One night gives you time for both, plus an evening at the I♥湯 bathhouse in
+      Miyanoura.
+  - q: Should I rent a bike or use the bus on Naoshima?
+    a: >-
+      Both work. The town bus links Miyanoura, Honmura and the Benesse area, and
+      a shuttle continues to the south-coast museums. Electric-assist bikes from
+      shops near Miyanoura Port help on the steep hills and let you avoid
+      crowded buses after a ferry arrives.
+  - q: Are Naoshima's museums open every day?
+    a: >-
+      No. The major museums usually close one day a week, often Monday, and the
+      schedule can change around holidays. Check the official Benesse Art Site
+      calendar before you choose a date.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-12'
 ---
 
 A yellow pumpkin covered in black dots sits at the end of a concrete pier, with the Seto Inland Sea all around it. That pumpkin is Yayoi Kusama's, and it is probably the best-known picture of Naoshima. The rest of the island is quieter than that photo suggests. It is a fishing island with steep green hills, small ports and old wooden houses, and museums have been built into its slopes.

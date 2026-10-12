@@ -1,54 +1,78 @@
 ---
-title: "Naoshima New Museum of Art: Travel Guide (4.5★)"
-description: "The Naoshima New Museum of Art sits in the Honmura district of Naoshima. 4.5★ (556 reviews) — what visitors say, hours, and tips."
-country: "Japan"
-region: "Naoshima"
-category: "hidden-gem"
-pubDate: "2026-10-12T07:07:48.865Z"
+title: 'Naoshima New Museum of Art: Travel Guide (4.5★)'
+description: >-
+  The Naoshima New Museum of Art sits in the Honmura district of Naoshima. 4.5★
+  (557 reviews) — what visitors say, hours, and tips.
+country: Japan
+region: Naoshima
+category: hidden-gem
+pubDate: '2026-10-12T07:07:48.865Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Naoshima_New_Museum_of_Art_2025.jpg/1920px-Naoshima_New_Museum_of_Art_2025.jpg"
-  credit: "Photo: Fotointheworld / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Naoshima_New_Museum_of_Art_2025.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Naoshima_New_Museum_of_Art_2025.jpg/1920px-Naoshima_New_Museum_of_Art_2025.jpg
+  credit: 'Photo: Fotointheworld / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Naoshima_New_Museum_of_Art_2025.jpg'
   focus:
     x: 55
-    y: 40
+    'y': 40
 gallery: []
 place:
-  id: "ChIJKbu9xS3xUzUROoVsQa4mnro"
-  name: "Naoshima New Museum of Art"
-  address: "Japan, 〒761-3110 Kagawa, Kagawa District, Naoshima, ⾹川郡直島町 3299-73"
+  id: ChIJKbu9xS3xUzUROoVsQa4mnro
+  name: Naoshima New Museum of Art
+  address: 'Japan, 〒761-3110 Kagawa, Kagawa District, Naoshima, ⾹川郡直島町 3299-73'
   rating: 4.5
-  userRatingsTotal: 556
-  googleMapsUrl: "https://maps.google.com/?cid=13447228067238675770&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 557
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13447228067238675770&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 34.4579956
   lng: 133.99872
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 10:00 AM – 4:30 PM"
-    - "Wednesday: 10:00 AM – 4:30 PM"
-    - "Thursday: 10:00 AM – 4:30 PM"
-    - "Friday: 10:00 AM – 4:30 PM"
-    - "Saturday: 10:00 AM – 4:30 PM"
-    - "Sunday: 10:00 AM – 4:30 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 10:00 AM – 4:30 PM'
+    - 'Wednesday: 10:00 AM – 4:30 PM'
+    - 'Thursday: 10:00 AM – 4:30 PM'
+    - 'Friday: 10:00 AM – 4:30 PM'
+    - 'Saturday: 10:00 AM – 4:30 PM'
+    - 'Sunday: 10:00 AM – 4:30 PM'
 tags:
-  - "naoshima"
-  - "old quarter"
-quickAnswer: "The Naoshima New Museum of Art sits in the Honmura district of Naoshima. It is Tadao Ando's newest building on the island, and it shows contemporary art from Japan and across Asia. At the moment it opens Tuesday to Sunday, 10am–4:30pm, and is closed Mondays, so pair it with Honmura's Art House Project and check the official Benesse Art Site Naoshima site for tickets before you take the ferry."
+  - naoshima
+  - old quarter
+quickAnswer: >-
+  The Naoshima New Museum of Art sits in the Honmura district of Naoshima. It is
+  Tadao Ando's newest building on the island, and it shows contemporary art from
+  Japan and across Asia. At the moment it opens Tuesday to Sunday, 10am–4:30pm,
+  and is closed Mondays, so pair it with Honmura's Art House Project and check
+  the official Benesse Art Site Naoshima site for tickets before you take the
+  ferry.
 faq:
-  - q: "How do I get to the Naoshima New Museum of Art?"
-    a: "Take a ferry from Uno Port (Okayama) or Takamatsu Port to Miyanoura on Naoshima. Then ride the town bus to Honmura. Some passenger boats from Uno go straight to Honmura Port."
-  - q: "What days is it open?"
-    a: "At the moment it opens Tuesday to Sunday, 10am–4:30pm, and is closed on Mondays. The schedule can change around public holidays, so check the official Benesse Art Site Naoshima site before you go."
-  - q: "Do I need to book tickets in advance?"
-    a: "Tickets are sold online and at the museum. Buying online on the official Benesse Art Site site is the safer choice in busy seasons; the site also lists the current price."
-  - q: "How long should I spend there?"
-    a: "Plan 1.5–2 hours for the museum. Add a few more hours for the nearby Art House Project, Minamidera and the Ando Museum in Honmura."
-  - q: "What is the museum known for?"
-    a: "It opened in 2025 and is Tadao Ando's tenth building on Naoshima. It focuses on contemporary art from Japan and across Asia."
+  - q: How do I get to the Naoshima New Museum of Art?
+    a: >-
+      Take a ferry from Uno Port (Okayama) or Takamatsu Port to Miyanoura on
+      Naoshima. Then ride the town bus to Honmura. Some passenger boats from Uno
+      go straight to Honmura Port.
+  - q: What days is it open?
+    a: >-
+      At the moment it opens Tuesday to Sunday, 10am–4:30pm, and is closed on
+      Mondays. The schedule can change around public holidays, so check the
+      official Benesse Art Site Naoshima site before you go.
+  - q: Do I need to book tickets in advance?
+    a: >-
+      Tickets are sold online and at the museum. Buying online on the official
+      Benesse Art Site site is the safer choice in busy seasons; the site also
+      lists the current price.
+  - q: How long should I spend there?
+    a: >-
+      Plan 1.5–2 hours for the museum. Add a few more hours for the nearby Art
+      House Project, Minamidera and the Ando Museum in Honmura.
+  - q: What is the museum known for?
+    a: >-
+      It opened in 2025 and is Tadao Ando's tenth building on Naoshima. It
+      focuses on contemporary art from Japan and across Asia.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-12'
 ---
 
 ## Ando's tenth building on the island

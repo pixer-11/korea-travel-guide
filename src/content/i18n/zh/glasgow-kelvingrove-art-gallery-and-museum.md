@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: glasgow-kelvingrove-art-gallery-and-museum
-srcHash: '69d2260d9387'
+srcHash: '0b76f86e8339'
 title: 凯文格罗夫艺术博物馆：格拉斯哥旅行指南
-description: 凯文格罗夫艺术博物馆位于格拉斯哥西区的阿盖尔街（Argyle Street），紧邻凯文格罗夫公园，从凯文霍尔（Kelvinhall）地铁站步行即到。评分4.7★（25,980条评价），这里汇总了游客口碑、开放时间和参观贴士。
+description: 凯文格罗夫艺术博物馆位于格拉斯哥西区的阿盖尔街（Argyle Street），紧邻凯文格罗夫公园，从凯文霍尔（Kelvinhall）地铁站步行即到。评分4.7★（25,984条评价），这里汇总了游客口碑、开放时间和参观贴士。
 quickAnswer: 凯文格罗夫艺术博物馆位于格拉斯哥西区的阿盖尔街（Argyle Street），紧邻凯文格罗夫公园，从凯文霍尔（Kelvinhall）地铁站步行即到。常设展区免费参观。工作日上午10点至中午12点、下午4点至5点人最少，周末中午12点到下午5点则是最拥挤的时段。建议预留两到三小时。
 faq:
   - q: 什么时候去凯文格罗夫艺术博物馆人最少？

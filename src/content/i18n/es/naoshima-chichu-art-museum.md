@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: naoshima-chichu-art-museum
-srcHash: '3cab7073caef'
+srcHash: '0ffb82055406'
 title: 'Museo de Arte Chichu: guía de viaje de Naoshima (4.4★)'
-description: El Museo de Arte Chichu se encuentra en Naoshima, la isla del arte a la que se llega en ferri desde Takamatsu, y para visitarlo hay que reservar por internet una entrada con hora asignada. Con 4.4★ (4,749 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
+description: El Museo de Arte Chichu se encuentra en Naoshima, la isla del arte a la que se llega en ferri desde Takamatsu, y para visitarlo hay que reservar por internet una entrada con hora asignada. Con 4.4★ (4,752 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
 quickAnswer: 'El Museo de Arte Chichu se encuentra en Naoshima, la isla del arte a la que se llega en ferri desde Takamatsu. Para entrar es imprescindible reservar por internet, con antelación, una entrada con hora asignada. Abre de 10am–5pm y la última entrada se admite una hora antes del cierre. Cierra los lunes, salvo cuando el lunes es festivo: en ese caso abre ese día y cierra al siguiente. Los fines de semana hay mucha afluencia de 10am–4pm, así que conviene ir entre semana si es posible. Calcule entre dos y tres horas de visita, sin contar el trayecto en ferri.'
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Museo de Arte Chichu?

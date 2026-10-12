@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: edinburgh-national-museum-of-scotland
-srcHash: 'b209afc83f30'
+srcHash: 'c7e7ed70e3c7'
 title: 苏格兰国家博物馆：爱丁堡旅行指南（4.8★）
-description: 苏格兰国家博物馆位于爱丁堡旧城的钱伯斯街（Chambers Street），步行到皇家英里大道（Royal Mile）只需几分钟，常设展免费参观。评分4.8★（60,129条评价），本文汇总游客口碑、开放时间和参观建议。
+description: 苏格兰国家博物馆位于爱丁堡旧城的钱伯斯街（Chambers Street），步行到皇家英里大道（Royal Mile）只需几分钟，常设展免费参观。评分4.8★（60,143条评价），本文汇总游客口碑、开放时间和参观建议。
 quickAnswer: 苏格兰国家博物馆位于爱丁堡旧城的钱伯斯街（Chambers Street），步行到皇家英里大道只需几分钟，常设展免费参观。建议上午10点到：每天上午10点至11点人最少，周末中午12点至下午4点则人潮拥挤。参观时间可以预留两到三个小时。目前开放时间为上午10点至下午5点，出发前请先上官网确认。
 faq:
   - q: 什么时候去苏格兰国家博物馆人最少？

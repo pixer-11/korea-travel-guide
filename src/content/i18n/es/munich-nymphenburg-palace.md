@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: munich-nymphenburg-palace
-srcHash: '9bdc26d08113'
+srcHash: '69d540f05e56'
 title: 'Palacio de Nymphenburg: guía de viaje de Múnich (4.6★)'
-description: En el distrito muniqués de Neuhausen-Nymphenburg, a unos 20 minutos al oeste del centro en el tranvía 17, se alza el Palacio de Nymphenburg. Con una valoración de 4.6★ (40,563 reseñas), aquí encontrará qué opinan los visitantes, los horarios y consejos útiles.
+description: En el distrito muniqués de Neuhausen-Nymphenburg, a unos 20 minutos al oeste del centro en el tranvía 17, se alza el Palacio de Nymphenburg. Con una valoración de 4.6★ (40,690 reseñas), aquí encontrará qué opinan los visitantes, los horarios y consejos útiles.
 quickAnswer: El Palacio de Nymphenburg se encuentra en el distrito de Neuhausen-Nymphenburg, en Múnich, y desde el centro se llega en unos 20 minutos hacia el oeste con el tranvía 17. Abre todos los días de 9am a 6pm. Para recorrer las salas del palacio, el museo de carruajes y los jardines conviene reservar entre 3 y 4 horas. Entre semana hay tranquilidad durante toda la jornada; los fines de semana, en cambio, lo mejor es llegar entre las 9am y las 10am y evitar la franja de 11am a 5pm, cuando se concentra la mayor afluencia.
 faq:
   - q: ¿Cómo se llega al Palacio de Nymphenburg desde el centro de Múnich?

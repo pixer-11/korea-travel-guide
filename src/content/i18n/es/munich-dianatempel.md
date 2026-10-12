@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: munich-dianatempel
-srcHash: '4b1be4efc42a'
+srcHash: 'ccddf85b6ef9'
 title: 'Dianatempel: guía de viaje de Múnich (4.7★)'
-description: 'En el centro del Hofgarten de Múnich, en el barrio de Altstadt-Lehel, se alza el Dianatempel, un pabellón renacentista con cúpula situado a dos minutos a pie de la estación de U-Bahn de Odeonsplatz. Valoración de 4.7★ (730 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En el centro del Hofgarten de Múnich, en el barrio de Altstadt-Lehel, se alza el Dianatempel, un pabellón renacentista con cúpula situado a dos minutos a pie de la estación de U-Bahn de Odeonsplatz. Valoración de 4.7★ (733 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En el centro del Hofgarten de Múnich, en el barrio de Altstadt-Lehel, se alza el Dianatempel (templo de Diana), un pabellón renacentista coronado por una cúpula. Se llega en dos minutos a pie desde la estación de U-Bahn de Odeonsplatz. El jardín abre todos los días de 7am a 10pm. Los momentos de mayor calma son de 11am a 1pm entre semana y de 7am a 8am los fines de semana; la mayor afluencia se concentra los fines de semana de 10am a 9pm.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Dianatempel?

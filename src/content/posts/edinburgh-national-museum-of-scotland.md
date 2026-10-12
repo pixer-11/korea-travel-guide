@@ -1,40 +1,47 @@
 ---
-title: "National Museum of Scotland: Edinburgh Travel Guide (4.8★)"
-description: "The National Museum of Scotland sits on Chambers Street in Edinburgh's Old Town, a short walk from the Royal Mile, and general admission is free. 4.8★ (60,129 reviews) — what visitors say, hours, and tips."
-country: "United Kingdom"
-region: "Edinburgh"
-category: "attraction"
-pubDate: "2026-10-12T08:03:22.514Z"
+title: 'National Museum of Scotland: Edinburgh Travel Guide (4.8★)'
+description: >-
+  The National Museum of Scotland sits on Chambers Street in Edinburgh's Old
+  Town, a short walk from the Royal Mile, and general admission is free. 4.8★
+  (60,143 reviews) — what visitors say, hours, and tips.
+country: United Kingdom
+region: Edinburgh
+category: attraction
+pubDate: '2026-10-12T08:03:22.514Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Museum_of_Scotland.jpg/1920px-Museum_of_Scotland.jpg"
-  credit: "Photo: No machine-readable author provided. / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Museum_of_Scotland.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Museum_of_Scotland.jpg/1920px-Museum_of_Scotland.jpg
+  credit: >-
+    Photo: No machine-readable author provided. / Wikimedia Commons (CC BY-SA
+    3.0)
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Museum_of_Scotland.jpg'
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJIeS60YTHh0gRw7W-8gMnzIg"
-  name: "National Museum of Scotland"
-  address: "Chambers St, Edinburgh EH1 1JF, UK"
+  id: ChIJIeS60YTHh0gRw7W-8gMnzIg
+  name: National Museum of Scotland
+  address: 'Chambers St, Edinburgh EH1 1JF, UK'
   rating: 4.8
-  userRatingsTotal: 60129
-  googleMapsUrl: "https://maps.google.com/?cid=9857296582318142915&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 60143
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9857296582318142915&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 55.9469995
   lng: -3.1905666
-  phone: "+44 300 123 6789"
+  phone: +44 300 123 6789
   openingHours:
-    - "Monday: 10:00 AM – 5:00 PM"
-    - "Tuesday: 10:00 AM – 5:00 PM"
-    - "Wednesday: 10:00 AM – 5:00 PM"
-    - "Thursday: 10:00 AM – 5:00 PM"
-    - "Friday: 10:00 AM – 5:00 PM"
-    - "Saturday: 10:00 AM – 5:00 PM"
-    - "Sunday: 10:00 AM – 5:00 PM"
+    - 'Monday: 10:00 AM – 5:00 PM'
+    - 'Tuesday: 10:00 AM – 5:00 PM'
+    - 'Wednesday: 10:00 AM – 5:00 PM'
+    - 'Thursday: 10:00 AM – 5:00 PM'
+    - 'Friday: 10:00 AM – 5:00 PM'
+    - 'Saturday: 10:00 AM – 5:00 PM'
+    - 'Sunday: 10:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-10-12
+    updated: 2026-10-12T00:00:00.000Z
     weekdayQuiet:
       - 10
     weekendQuiet:
@@ -44,24 +51,43 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_67497a6e4d67382d5737775267306848545930365365494a496843"
+    venueId: ven_67497a6e4d67382d5737775267306848545930365365494a496843
 tags:
-  - "edinburgh"
-  - "museum"
-quickAnswer: "The National Museum of Scotland sits on Chambers Street in Edinburgh's Old Town, a short walk from the Royal Mile, and general admission is free. Arrive at 10am: 10am–11am is the quietest hour every day, and weekends get crowded from 12pm to 4pm. Allow two to three hours. It currently opens 10am–5pm, but check the official site before you go."
+  - edinburgh
+  - museum
+quickAnswer: >-
+  The National Museum of Scotland sits on Chambers Street in Edinburgh's Old
+  Town, a short walk from the Royal Mile, and general admission is free. Arrive
+  at 10am: 10am–11am is the quietest hour every day, and weekends get crowded
+  from 12pm to 4pm. Allow two to three hours. It currently opens 10am–5pm, but
+  check the official site before you go.
 faq:
-  - q: "When is the quietest time to visit the National Museum of Scotland?"
-    a: "10am–11am is the quietest hour on weekdays and on weekends. Weekends are busiest between 12pm and 4pm, so arrive at opening if you can."
-  - q: "How long should I spend there?"
-    a: "Allow two to three hours for the highlights, such as Dolly the sheep, the Lewis Chessmen and the Grand Gallery. Covering every floor properly takes most of a day."
-  - q: "How do I get there from Edinburgh Waverley?"
-    a: "It's roughly a 15-minute walk uphill through the Old Town to Chambers Street (EH1 1JF). Lothian buses also stop nearby on South Bridge and George IV Bridge."
-  - q: "What are the opening hours?"
-    a: "At the moment it opens 10am–5pm every day. Hours can change around holidays, so check the official website before your visit."
-  - q: "What is nearby?"
-    a: "Greyfriars Bobby and Greyfriars Kirkyard are around the corner. The Royal Mile is a few minutes north, and the Grassmarket is just downhill below Edinburgh Castle."
+  - q: When is the quietest time to visit the National Museum of Scotland?
+    a: >-
+      10am–11am is the quietest hour on weekdays and on weekends. Weekends are
+      busiest between 12pm and 4pm, so arrive at opening if you can.
+  - q: How long should I spend there?
+    a: >-
+      Allow two to three hours for the highlights, such as Dolly the sheep, the
+      Lewis Chessmen and the Grand Gallery. Covering every floor properly takes
+      most of a day.
+  - q: How do I get there from Edinburgh Waverley?
+    a: >-
+      It's roughly a 15-minute walk uphill through the Old Town to Chambers
+      Street (EH1 1JF). Lothian buses also stop nearby on South Bridge and
+      George IV Bridge.
+  - q: What are the opening hours?
+    a: >-
+      At the moment it opens 10am–5pm every day. Hours can change around
+      holidays, so check the official website before your visit.
+  - q: What is nearby?
+    a: >-
+      Greyfriars Bobby and Greyfriars Kirkyard are around the corner. The Royal
+      Mile is a few minutes north, and the Grassmarket is just downhill below
+      Edinburgh Castle.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-12'
 ---
 
 ## Two buildings, one ticketless door

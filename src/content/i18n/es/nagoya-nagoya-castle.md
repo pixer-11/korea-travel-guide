@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: nagoya-nagoya-castle
-srcHash: '13d8ee6f9615'
+srcHash: '58c9b7731c32'
 title: 'Castillo de Nagoya: guía de viaje (4.2★)'
 description: El Castillo de Nagoya está en el distrito de Naka (Naka Ward), a pocos pasos de la estación Nagoya-jo de la línea Meijo. Tiene una valoración de 4.2★ en 45,554 reseñas. Aquí encontrará las opiniones de los visitantes, los horarios y consejos útiles.
 quickAnswer: El Castillo de Nagoya está en el distrito de Naka (Naka Ward), en Nagoya, a pocos pasos de la estación Nagoya-jo de la línea Meijo. Abre todos los días de 9:00am a 4:30pm. El mejor momento para visitarlo es de 9am a 10am, la hora más tranquila tanto entre semana como en fin de semana. Si va en fin de semana, procure no llegar entre 11am y 4pm, que es cuando el recinto recibe más gente.

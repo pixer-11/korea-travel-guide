@@ -1,44 +1,52 @@
 ---
-title: "Kelvingrove Art Gallery and Museum: Glasgow Travel Guide"
-description: "Kelvingrove Art Gallery and Museum sits on Argyle Street in Glasgow's West End, beside Kelvingrove Park and a short walk from Kelvinhall Subway station. 4.7★ (25,980 reviews) — what visitors say, hours, and tips."
-country: "United Kingdom"
-region: "Glasgow"
-category: "attraction"
-pubDate: "2026-10-12T08:03:21.485Z"
+title: 'Kelvingrove Art Gallery and Museum: Glasgow Travel Guide'
+description: >-
+  Kelvingrove Art Gallery and Museum sits on Argyle Street in Glasgow's West
+  End, beside Kelvingrove Park and a short walk from Kelvinhall Subway station.
+  4.7★ (25,984 reviews) — what visitors say, hours, and tips.
+country: United Kingdom
+region: Glasgow
+category: attraction
+pubDate: '2026-10-12T08:03:21.485Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Kelvingrove_Art_Gallery_and_Museum_-_aerial_-_2025-04-17.jpg/1920px-Kelvingrove_Art_Gallery_and_Museum_-_aerial_-_2025-04-17.jpg"
-  credit: "Photo: 瑞丽江的河水 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Kelvingrove_Art_Gallery_and_Museum_-_aerial_-_2025-04-17.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Kelvingrove_Art_Gallery_and_Museum_-_aerial_-_2025-04-17.jpg/1920px-Kelvingrove_Art_Gallery_and_Museum_-_aerial_-_2025-04-17.jpg
+  credit: 'Photo: 瑞丽江的河水 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Kelvingrove_Art_Gallery_and_Museum_-_aerial_-_2025-04-17.jpg
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kelvingrove_Art_Gallery_and_Museum%2C_Glasgow%2C_interior_2.jpg/3840px-Kelvingrove_Art_Gallery_and_Museum%2C_Glasgow%2C_interior_2.jpg"
-    credit: "Photo: LornaMCampbell / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Kelvingrove_Art_Gallery_and_Museum,_Glasgow,_interior_2.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kelvingrove_Art_Gallery_and_Museum%2C_Glasgow%2C_interior_2.jpg/3840px-Kelvingrove_Art_Gallery_and_Museum%2C_Glasgow%2C_interior_2.jpg
+    credit: 'Photo: LornaMCampbell / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Kelvingrove_Art_Gallery_and_Museum,_Glasgow,_interior_2.jpg
 place:
-  id: "ChIJ6ZTla9FFiEgR_p_K8XyyWFI"
-  name: "Kelvingrove Art Gallery and Museum"
-  address: "Argyle St, Glasgow G3 8AG, UK"
+  id: ChIJ6ZTla9FFiEgR_p_K8XyyWFI
+  name: Kelvingrove Art Gallery and Museum
+  address: 'Argyle St, Glasgow G3 8AG, UK'
   rating: 4.7
-  userRatingsTotal: 25980
-  googleMapsUrl: "https://maps.google.com/?cid=5933688758762905598&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 25984
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5933688758762905598&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 55.868589099999994
   lng: -4.2906039
-  phone: "+44 141 276 9599"
+  phone: +44 141 276 9599
   openingHours:
-    - "Monday: 10:00 AM – 5:00 PM"
-    - "Tuesday: 10:00 AM – 5:00 PM"
-    - "Wednesday: 10:00 AM – 5:00 PM"
-    - "Thursday: 10:00 AM – 5:00 PM"
-    - "Friday: 11:00 AM – 5:00 PM"
-    - "Saturday: 10:00 AM – 5:00 PM"
-    - "Sunday: 11:00 AM – 5:00 PM"
+    - 'Monday: 10:00 AM – 5:00 PM'
+    - 'Tuesday: 10:00 AM – 5:00 PM'
+    - 'Wednesday: 10:00 AM – 5:00 PM'
+    - 'Thursday: 10:00 AM – 5:00 PM'
+    - 'Friday: 11:00 AM – 5:00 PM'
+    - 'Saturday: 10:00 AM – 5:00 PM'
+    - 'Sunday: 11:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-10-12
+    updated: 2026-10-12T00:00:00.000Z
     weekdayQuiet:
       - 10
       - 11
@@ -49,24 +57,47 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_494657797958384b5f705f52674569464639616c545a364a496843"
+    venueId: ven_494657797958384b5f705f52674569464639616c545a364a496843
 tags:
-  - "glasgow"
-  - "museum"
-quickAnswer: "Kelvingrove Art Gallery and Museum sits on Argyle Street in Glasgow's West End, beside Kelvingrove Park and a short walk from Kelvinhall Subway station. General entry is free, and it's calmest on weekdays between 10am and 12pm or 4pm and 5pm; weekend afternoons from 12pm to 5pm are the busiest stretch. Give it two to three hours."
+  - glasgow
+  - museum
+quickAnswer: >-
+  Kelvingrove Art Gallery and Museum sits on Argyle Street in Glasgow's West
+  End, beside Kelvingrove Park and a short walk from Kelvinhall Subway station.
+  General entry is free, and it's calmest on weekdays between 10am and 12pm or
+  4pm and 5pm; weekend afternoons from 12pm to 5pm are the busiest stretch. Give
+  it two to three hours.
 faq:
-  - q: "When is the quietest time to visit Kelvingrove Art Gallery and Museum?"
-    a: "On weekdays it's calmest between 10am and 12pm and from 4pm to 5pm. Weekend afternoons, from 12pm to 5pm, are the busiest. Note that it currently opens at 11am on Fridays and Sundays."
-  - q: "How do I get to Kelvingrove by public transport?"
-    a: "Take the Glasgow Subway to Kelvinhall, then walk a few minutes east along Argyle Street. Partick station, served by both the Subway and ScotRail, is a slightly longer walk."
-  - q: "How long should I spend at Kelvingrove?"
-    a: "Two to three hours covers the main sights: the Floating Heads, the Dalí, the Spitfire, the Scottish painting galleries and the Mackintosh rooms. Allow longer if you want to catch the lunchtime organ recital or walk in Kelvingrove Park."
-  - q: "Do I need to book tickets?"
-    a: "No booking is needed for general entry, which is free and has a donation box. Some special exhibitions charge and may be timed; details and prices are on the Glasgow Life website."
-  - q: "What is near Kelvingrove Art Gallery and Museum?"
-    a: "Kelvingrove Park is right behind it, and the University of Glasgow and its Hunterian Museum are just up the hill. The Finnieston restaurant strip is on Argyle Street, and the Riverside Museum is a walk down the River Kelvin."
+  - q: When is the quietest time to visit Kelvingrove Art Gallery and Museum?
+    a: >-
+      On weekdays it's calmest between 10am and 12pm and from 4pm to 5pm.
+      Weekend afternoons, from 12pm to 5pm, are the busiest. Note that it
+      currently opens at 11am on Fridays and Sundays.
+  - q: How do I get to Kelvingrove by public transport?
+    a: >-
+      Take the Glasgow Subway to Kelvinhall, then walk a few minutes east along
+      Argyle Street. Partick station, served by both the Subway and ScotRail, is
+      a slightly longer walk.
+  - q: How long should I spend at Kelvingrove?
+    a: >-
+      Two to three hours covers the main sights: the Floating Heads, the Dalí,
+      the Spitfire, the Scottish painting galleries and the Mackintosh rooms.
+      Allow longer if you want to catch the lunchtime organ recital or walk in
+      Kelvingrove Park.
+  - q: Do I need to book tickets?
+    a: >-
+      No booking is needed for general entry, which is free and has a donation
+      box. Some special exhibitions charge and may be timed; details and prices
+      are on the Glasgow Life website.
+  - q: What is near Kelvingrove Art Gallery and Museum?
+    a: >-
+      Kelvingrove Park is right behind it, and the University of Glasgow and its
+      Hunterian Museum are just up the hill. The Finnieston restaurant strip is
+      on Argyle Street, and the Riverside Museum is a walk down the River
+      Kelvin.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-12'
 ---
 
 ## Red sandstone and a hall full of heads

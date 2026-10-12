@@ -1,45 +1,53 @@
 ---
-title: "Kurashiki Bikan Historical Quarter: Travel Guide"
-description: "Kurashiki Bikan Historical Quarter is a canal-side old merchant district in Kurashiki, Okayama Prefecture, about a 15-minute walk south of JR Kurashiki Station. 4.4★ (27,927 reviews) — what visitors say, hours, and tips."
-country: "Japan"
-region: "Kurashiki"
-category: "hidden-gem"
-pubDate: "2026-10-11T00:20:06.306Z"
+title: 'Kurashiki Bikan Historical Quarter: Travel Guide'
+description: >-
+  Kurashiki Bikan Historical Quarter is a canal-side old merchant district in
+  Kurashiki, Okayama Prefecture, about a 15-minute walk south of JR Kurashiki
+  Station. 4.4★ (27,962 reviews) — what visitors say, hours, and tips.
+country: Japan
+region: Kurashiki
+category: hidden-gem
+pubDate: '2026-10-11T00:20:06.306Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/161015_At_Kurashiki_Bikan_historical_quarter_Kurashiki_Okayama_pref_Japan01s3.jpg/3840px-161015_At_Kurashiki_Bikan_historical_quarter_Kurashiki_Okayama_pref_Japan01s3.jpg"
-  credit: "Photo: 663highland / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:161015_At_Kurashiki_Bikan_historical_quarter_Kurashiki_Okayama_pref_Japan01s3.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/161015_At_Kurashiki_Bikan_historical_quarter_Kurashiki_Okayama_pref_Japan01s3.jpg/3840px-161015_At_Kurashiki_Bikan_historical_quarter_Kurashiki_Okayama_pref_Japan01s3.jpg
+  credit: 'Photo: 663highland / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:161015_At_Kurashiki_Bikan_historical_quarter_Kurashiki_Okayama_pref_Japan01s3.jpg
+  via: act
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/161015_At_Kurashiki_Bikan_historical_quarter_Kurashiki_Okayama_pref_Japan02s3.jpg/3840px-161015_At_Kurashiki_Bikan_historical_quarter_Kurashiki_Okayama_pref_Japan02s3.jpg"
-    credit: "Photo: 663highland / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:161015_At_Kurashiki_Bikan_historical_quarter_Kurashiki_Okayama_pref_Japan02s3.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/161015_At_Kurashiki_Bikan_historical_quarter_Kurashiki_Okayama_pref_Japan02s3.jpg/3840px-161015_At_Kurashiki_Bikan_historical_quarter_Kurashiki_Okayama_pref_Japan02s3.jpg
+    credit: 'Photo: 663highland / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:161015_At_Kurashiki_Bikan_historical_quarter_Kurashiki_Okayama_pref_Japan02s3.jpg
 place:
-  id: "ChIJ1do4lkdWUTURvg3rFkFpzhE"
-  name: "Kurashiki Bikan Historical Quarter"
-  address: "1 Chome-4 Central, Kurashiki, Okayama 710-0046, Japan"
+  id: ChIJ1do4lkdWUTURvg3rFkFpzhE
+  name: Kurashiki Bikan Historical Quarter
+  address: '1 Chome-4 Central, Kurashiki, Okayama 710-0046, Japan'
   rating: 4.4
-  userRatingsTotal: 27927
-  googleMapsUrl: "https://maps.google.com/?cid=1283078672125463998&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 27962
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1283078672125463998&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 34.5957392
   lng: 133.77176509999998
-  phone: "+81 86-421-0224"
+  phone: +81 86-421-0224
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-10-11
+    updated: 2026-10-11T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 22
@@ -62,24 +70,45 @@ place:
       - 16
       - 17
       - 18
-    venueId: "ven_45687a70466b46723367765255545557646b6c346f64314a496843"
+    venueId: ven_45687a70466b46723367765255545557646b6c346f64314a496843
 tags:
-  - "okayama"
-  - "hidden gem"
-quickAnswer: "Kurashiki Bikan Historical Quarter is a canal-side old merchant district in Kurashiki, Okayama Prefecture, about a 15-minute walk south of JR Kurashiki Station. The streets are open around the clock. On weekends, avoid 10am–7pm: that's when it's busiest. Come between 7am and 10am or after 7pm to see the willows and white-walled storehouses without the crowds."
+  - okayama
+  - hidden gem
+quickAnswer: >-
+  Kurashiki Bikan Historical Quarter is a canal-side old merchant district in
+  Kurashiki, Okayama Prefecture, about a 15-minute walk south of JR Kurashiki
+  Station. The streets are open around the clock. On weekends, avoid 10am–7pm:
+  that's when it's busiest. Come between 7am and 10am or after 7pm to see the
+  willows and white-walled storehouses without the crowds.
 faq:
-  - q: "How do I get to Kurashiki Bikan Historical Quarter from Okayama?"
-    a: "Take the JR San'yō Line from Okayama Station to Kurashiki Station, which takes about 15–17 minutes. Then leave by the south exit and walk 10–15 minutes down Kurashiki Chūō-dōri to the canal."
-  - q: "When is the quietest time to visit?"
-    a: "Measured foot traffic marks 7am–8am and 10pm–11pm as the quietest windows on both weekdays and weekends. Weekends are busiest from 10am to 7pm, so on Saturdays and Sundays aim for before 10am or after 7pm."
-  - q: "How long should I spend there?"
-    a: "Half a day covers the canal, the side lanes and one museum. With the Ōhara Museum of Art, Ivy Square, Achi Shrine and an evening walk, plan a full day or stay overnight."
-  - q: "Is the quarter open at night?"
-    a: "Yes, the streets are open 24 hours, and the canal is lamp-lit after dark. Shops, cafés and museums keep much shorter hours, so check each one before you go."
-  - q: "What else is nearby?"
-    a: "The Ōhara Museum of Art, Ivy Square (the former spinning mill), Achi Shrine on Tsurugatayama hill, the Kurashiki Museum of Folkcraft and the Japan Rural Toy Museum are all within walking distance."
+  - q: How do I get to Kurashiki Bikan Historical Quarter from Okayama?
+    a: >-
+      Take the JR San'yō Line from Okayama Station to Kurashiki Station, which
+      takes about 15–17 minutes. Then leave by the south exit and walk 10–15
+      minutes down Kurashiki Chūō-dōri to the canal.
+  - q: When is the quietest time to visit?
+    a: >-
+      Measured foot traffic marks 7am–8am and 10pm–11pm as the quietest windows
+      on both weekdays and weekends. Weekends are busiest from 10am to 7pm, so
+      on Saturdays and Sundays aim for before 10am or after 7pm.
+  - q: How long should I spend there?
+    a: >-
+      Half a day covers the canal, the side lanes and one museum. With the Ōhara
+      Museum of Art, Ivy Square, Achi Shrine and an evening walk, plan a full
+      day or stay overnight.
+  - q: Is the quarter open at night?
+    a: >-
+      Yes, the streets are open 24 hours, and the canal is lamp-lit after dark.
+      Shops, cafés and museums keep much shorter hours, so check each one before
+      you go.
+  - q: What else is nearby?
+    a: >-
+      The Ōhara Museum of Art, Ivy Square (the former spinning mill), Achi
+      Shrine on Tsurugatayama hill, the Kurashiki Museum of Folkcraft and the
+      Japan Rural Toy Museum are all within walking distance.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-12'
 ---
 
 ## Willows, stone and black-and-white walls

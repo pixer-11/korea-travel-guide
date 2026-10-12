@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: naoshima-naoshima-island
-srcHash: '2f8c4ed2ee3a'
+srcHash: '0769bc0bf055'
 title: 'Isla de Naoshima: guía de viaje (4.4★)'
-description: 'Naoshima es una pequeña isla de Kagawa situada en el mar interior de Seto. 4.4★ (379 reseñas): opiniones de los visitantes, horarios y consejos prácticos.'
+description: 'Naoshima es una pequeña isla de Kagawa situada en el mar interior de Seto. 4.4★ (380 reseñas): opiniones de los visitantes, horarios y consejos prácticos.'
 quickAnswer: Naoshima es una pequeña isla de Kagawa situada en el mar interior de Seto. Quienes la visitan acuden atraídos por sus museos de arte, sus edificios de Tadao Ando y las esculturas que salpican la costa. Se llega en ferri desde el puerto de Uno, en Okayama, o desde el puerto de Takamatsu, en Kagawa. Conviene reservar por internet la entrada al Museo de Arte Chichu antes de viajar y pasar al menos una noche en la isla para recorrer con calma tanto Honmura como la zona de los museos Benesse.
 faq:
   - q: ¿Cómo se llega a Naoshima?

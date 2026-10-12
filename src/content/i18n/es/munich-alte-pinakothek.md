@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: munich-alte-pinakothek
-srcHash: 'fab71b86bdfa'
+srcHash: '8d3717df8380'
 title: 'Alte Pinakothek: guía de viaje de Múnich (4.7★)'
-description: 'En plena Barer Straße, dentro del barrio de museos de Maxvorstadt, la Alte Pinakothek reúne a los grandes maestros de la pintura en Múnich: unas 900 obras expuestas, de Durero a Rubens. 4.7★ (13,487 reseñas). Opiniones de los visitantes, horarios y consejos.'
+description: 'En plena Barer Straße, dentro del barrio de museos de Maxvorstadt, la Alte Pinakothek reúne a los grandes maestros de la pintura en Múnich: unas 900 obras expuestas, de Durero a Rubens. 4.7★ (13,526 reseñas). Opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En plena Barer Straße, dentro del barrio de museos de Maxvorstadt, la Alte Pinakothek es la pinacoteca muniquesa de los grandes maestros, con unas 900 obras expuestas que van de Durero a Rubens. Cierra los lunes, mientras que martes y miércoles abre hasta las 8pm. Los fines de semana hay mucha gente durante toda la jornada, de 10am a 6pm. Conviene, por tanto, elegir un día laborable y, a ser posible, aprovechar una de esas dos tardes de cierre tardío.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar la Alte Pinakothek?

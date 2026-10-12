@@ -1,42 +1,49 @@
 ---
-title: "Chichu Art Museum: Naoshima Travel Guide (4.4★)"
-description: Chichu Art Museum sits on Naoshima, the art island a ferry ride from Takamatsu, and you need a timed ticket booked online in advance. 4.4★ (4,749 reviews) — what visitors say, hours, and tips.
+title: 'Chichu Art Museum: Naoshima Travel Guide (4.4★)'
+description: >-
+  Chichu Art Museum sits on Naoshima, the art island a ferry ride from
+  Takamatsu, and you need a timed ticket booked online in advance. 4.4★ (4,752
+  reviews) — what visitors say, hours, and tips.
 country: Japan
 region: Naoshima
 category: attraction
-pubDate: "2026-10-10T16:02:49.631Z"
+pubDate: '2026-10-10T16:02:49.631Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/150505_Chichu_Art_Museum_Naoshima_Island_Kagawa_pref_Japan01s3.jpg/1920px-150505_Chichu_Art_Museum_Naoshima_Island_Kagawa_pref_Japan01s3.jpg
-  credit: "Photo: 663highland / Wikimedia Commons (CC BY 2.5)"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/150505_Chichu_Art_Museum_Naoshima_Island_Kagawa_pref_Japan01s3.jpg/1920px-150505_Chichu_Art_Museum_Naoshima_Island_Kagawa_pref_Japan01s3.jpg
+  credit: 'Photo: 663highland / Wikimedia Commons (CC BY 2.5)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:150505_Chichu_Art_Museum_Naoshima_Island_Kagawa_pref_Japan01s3.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:150505_Chichu_Art_Museum_Naoshima_Island_Kagawa_pref_Japan01s3.jpg
   focus:
     x: 80
-    "y": 50
+    'y': 50
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/1235005_g_MxDi1hAGFCXcQ1CnNsxao_W9nNjvdH6SyJsQDaCbw.jpg"
-    credit: "Photo: Foursquare user content (Chichu Art Museum (地中美術館))"
-    license: "foursquare"
-    source: "https://foursquare.com/v/4b738fedf964a52018b42de3"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/1235005_g_MxDi1hAGFCXcQ1CnNsxao_W9nNjvdH6SyJsQDaCbw.jpg
+    credit: 'Photo: Foursquare user content (Chichu Art Museum (地中美術館))'
+    license: foursquare
+    source: 'https://foursquare.com/v/4b738fedf964a52018b42de3'
 place:
   id: ChIJ4WHu5yvuUzURCXiEZmVSozw
   name: Chichu Art Museum
-  address: 3449-1, Naoshima, Kagawa District, Kagawa 761-3110, Japan
+  address: '3449-1, Naoshima, Kagawa District, Kagawa 761-3110, Japan'
   rating: 4.4
-  userRatingsTotal: 4749
-  googleMapsUrl: https://maps.google.com/?cid=4369426658944645129&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 4752
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4369426658944645129&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 34.447747899999996
   lng: 133.9847175
   phone: +81 87-892-3755
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 10:00 AM – 5:00 PM"
-    - "Wednesday: 10:00 AM – 5:00 PM"
-    - "Thursday: 10:00 AM – 5:00 PM"
-    - "Friday: 10:00 AM – 5:00 PM"
-    - "Saturday: 10:00 AM – 5:00 PM"
-    - "Sunday: 10:00 AM – 5:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 10:00 AM – 5:00 PM'
+    - 'Wednesday: 10:00 AM – 5:00 PM'
+    - 'Thursday: 10:00 AM – 5:00 PM'
+    - 'Friday: 10:00 AM – 5:00 PM'
+    - 'Saturday: 10:00 AM – 5:00 PM'
+    - 'Sunday: 10:00 AM – 5:00 PM'
   busyness:
     updated: 2026-10-10T00:00:00.000Z
     weekdayBusy:
@@ -56,20 +63,41 @@ place:
 tags:
   - naoshima
   - museum
-quickAnswer: Chichu Art Museum sits on Naoshima, the art island a ferry ride from Takamatsu, and you need a timed ticket booked online in advance. It opens 10am–5pm, with last entry an hour before closing, and it closes on Mondays (on a Monday holiday it opens and closes the next day). Weekends are busy from 10am–4pm, so go on a weekday if you can, and plan on two to three hours plus the ferry.
+quickAnswer: >-
+  Chichu Art Museum sits on Naoshima, the art island a ferry ride from
+  Takamatsu, and you need a timed ticket booked online in advance. It opens
+  10am–5pm, with last entry an hour before closing, and it closes on Mondays (on
+  a Monday holiday it opens and closes the next day). Weekends are busy from
+  10am–4pm, so go on a weekday if you can, and plan on two to three hours plus
+  the ferry.
 faq:
   - q: When is the quietest time to visit Chichu Art Museum?
-    a: Weekends are busy from 10am–4pm, which covers most of the opening day. A weekday visit, Tuesday to Friday, is the better choice. On weekends, book the earliest or latest slot available.
+    a: >-
+      Weekends are busy from 10am–4pm, which covers most of the opening day. A
+      weekday visit, Tuesday to Friday, is the better choice. On weekends, book
+      the earliest or latest slot available.
   - q: Do I need to book tickets in advance?
-    a: Yes. Entry is by timed ticket booked on the official Chichu website, where the current price is posted. Weekend slots sell out first.
+    a: >-
+      Yes. Entry is by timed ticket booked on the official Chichu website, where
+      the current price is posted. Weekend slots sell out first.
   - q: How do I get from Takamatsu to Chichu Art Museum?
-    a: Take a Shikoku Kisen ferry from Takamatsu Port to Miyanoura Port on Naoshima. Then ride the town bus to Tsutsuji-so and change to the Benesse shuttle to the museum. You can also rent a bike, ideally electric, at the port.
+    a: >-
+      Take a Shikoku Kisen ferry from Takamatsu Port to Miyanoura Port on
+      Naoshima. Then ride the town bus to Tsutsuji-so and change to the Benesse
+      shuttle to the museum. You can also rent a bike, ideally electric, at the
+      port.
   - q: How long should I spend there?
-    a: Two to three hours covers the galleries, the Chichu Garden and the café. Add ferry and bus time, and pair it with the nearby Lee Ufan Museum or Benesse House Museum for a full day trip.
+    a: >-
+      Two to three hours covers the galleries, the Chichu Garden and the café.
+      Add ferry and bus time, and pair it with the nearby Lee Ufan Museum or
+      Benesse House Museum for a full day trip.
   - q: What days is it closed?
-    a: It's closed on Mondays and open Tuesday to Sunday, 10am–5pm. Check the official calendar for extra closures around public holidays.
+    a: >-
+      It's closed on Mondays and open Tuesday to Sunday, 10am–5pm. Check the
+      official calendar for extra closures around public holidays.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-12'
 ---
 
 ## A museum you walk down into

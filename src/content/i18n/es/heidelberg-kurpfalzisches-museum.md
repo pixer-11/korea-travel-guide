@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: heidelberg-kurpfalzisches-museum
-srcHash: '34f643c126c0'
+srcHash: '8edc556318d7'
 title: 'Kurpfälzisches Museum: guía de viaje de Heidelberg (4.5★)'
-description: El Kurpfälzisches Museum, museo municipal de Heidelberg, ocupa el barroco Palais Morass, en la Hauptstraße 97, dentro de la zona peatonal del casco antiguo y a unos 10 minutos a pie al este de Bismarckplatz. Con una valoración de 4.5★ (993 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
+description: El Kurpfälzisches Museum, museo municipal de Heidelberg, ocupa el barroco Palais Morass, en la Hauptstraße 97, dentro de la zona peatonal del casco antiguo y a unos 10 minutos a pie al este de Bismarckplatz. Con una valoración de 4.5★ (992 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
 quickAnswer: El museo municipal de Heidelberg, el Kurpfälzisches Museum, se aloja en el barroco Palais Morass, en la Hauptstraße 97. Está en plena zona peatonal del casco antiguo (Altstadt), a unos 10 minutos a pie al este de Bismarckplatz. Como los fines de semana hay mucha afluencia entre las 11:00 y las 18:00, conviene llegar a la apertura, a las 10:00, o elegir un día laborable. Actualmente abre de martes a domingo y cierra los lunes.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Kurpfälzisches Museum?

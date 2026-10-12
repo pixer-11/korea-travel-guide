@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: heidelberg-kurpfalzisches-museum
-srcHash: '34f643c126c0'
+srcHash: '8edc556318d7'
 title: '쿠어팔츠 박물관: 하이델베르크 여행 가이드 (4.5★)'
 description: 쿠어팔츠 박물관(Kurpfälzisches Museum)은 하이델베르크의 시립 박물관입니다. 구시가지 보행자 거리 Hauptstraße 97의 바로크 저택 모라스 궁(Palais Morass)에 있으며, 비스마르크 광장(Bismarckplatz)에서 동쪽으로 걸어서 10분쯤 걸립니다. 리뷰 993건에서 4.5★를 받은 이곳의 방문객 후기와 운영 시간, 관람 팁을 정리했습니다.
 quickAnswer: 쿠어팔츠 박물관(Kurpfälzisches Museum)은 하이델베르크의 시립 박물관입니다. 구시가지 보행자 거리 Hauptstraße 97에 있는 바로크 저택 모라스 궁(Palais Morass)을 쓰고 있으며, 비스마르크 광장(Bismarckplatz)에서 동쪽으로 걸어서 10분쯤 걸립니다. 주말에는 오전 11시부터 오후 6시까지 붐비므로 개관 시각인 오전 10시에 맞춰 가거나 평일에 찾는 것이 좋습니다. 현재는 화요일부터 일요일까지 문을 열고 월요일에는 쉽니다.

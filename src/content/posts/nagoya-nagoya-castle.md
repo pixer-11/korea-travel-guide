@@ -1,44 +1,49 @@
 ---
-title: "Nagoya Castle: Travel Guide (4.2★)"
-description: "Nagoya Castle sits in Naka Ward, Nagoya, a short walk from Nagoya-jo Station on the Meijo Line. 4.2★ (45,554 reviews) — what visitors say, hours, and tips."
-country: "Japan"
-region: "Nagoya"
-category: "hidden-gem"
-pubDate: "2026-09-30T07:43:17.090Z"
+title: 'Nagoya Castle: Travel Guide (4.2★)'
+description: >-
+  Nagoya Castle sits in Naka Ward, Nagoya, a short walk from Nagoya-jo Station
+  on the Meijo Line. 4.2★ (45,755 reviews) — what visitors say, hours, and tips.
+country: Japan
+region: Nagoya
+category: hidden-gem
+pubDate: '2026-09-30T07:43:17.090Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Nagoya_Castle_7.jpg/1920px-Nagoya_Castle_7.jpg"
-  credit: "Photo: Bariston / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Nagoya_Castle_7.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Nagoya_Castle_7.jpg/1920px-Nagoya_Castle_7.jpg
+  credit: 'Photo: Bariston / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Nagoya_Castle_7.jpg'
   focus:
     x: 68
-    y: 35
+    'y': 35
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/4/45/Nagoya_Castle%28Larger%29.jpg"
-    credit: "Photo: Base64 / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Nagoya_Castle(Larger).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/4/45/Nagoya_Castle%28Larger%29.jpg
+    credit: 'Photo: Base64 / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Nagoya_Castle(Larger).jpg'
 place:
-  id: "ChIJse-wx8t2A2ARd6Z1knjp07k"
-  name: "Nagoya Castle"
-  address: "1-1 Honmaru, Naka Ward, Nagoya, Aichi 460-0031, Japan"
+  id: ChIJse-wx8t2A2ARd6Z1knjp07k
+  name: Nagoya Castle
+  address: '1-1 Honmaru, Naka Ward, Nagoya, Aichi 460-0031, Japan'
   rating: 4.2
-  userRatingsTotal: 45554
-  googleMapsUrl: "https://maps.google.com/?cid=13390302821165147767&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 45755
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13390302821165147767&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 35.184750099999995
   lng: 136.89968829999998
-  phone: "+81 52-231-1700"
+  phone: +81 52-231-1700
   openingHours:
-    - "Monday: 9:00 AM – 4:30 PM"
-    - "Tuesday: 9:00 AM – 4:30 PM"
-    - "Wednesday: 9:00 AM – 4:30 PM"
-    - "Thursday: 9:00 AM – 4:30 PM"
-    - "Friday: 9:00 AM – 4:30 PM"
-    - "Saturday: 9:00 AM – 4:30 PM"
-    - "Sunday: 9:00 AM – 4:30 PM"
+    - 'Monday: 9:00 AM – 4:30 PM'
+    - 'Tuesday: 9:00 AM – 4:30 PM'
+    - 'Wednesday: 9:00 AM – 4:30 PM'
+    - 'Thursday: 9:00 AM – 4:30 PM'
+    - 'Friday: 9:00 AM – 4:30 PM'
+    - 'Saturday: 9:00 AM – 4:30 PM'
+    - 'Sunday: 9:00 AM – 4:30 PM'
   busyness:
-    updated: 2026-09-30
+    updated: 2026-09-30T00:00:00.000Z
     weekdayQuiet:
       - 9
     weekendQuiet:
@@ -49,24 +54,43 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_6b3730706a6e6b315a36645241324132743878772d65734a496843"
+    venueId: ven_6b3730706a6e6b315a36645241324132743878772d65734a496843
 tags:
-  - "nagoya"
-  - "old quarter"
-quickAnswer: "Nagoya Castle sits in Naka Ward, Nagoya, a short walk from Nagoya-jo Station on the Meijo Line. It opens daily from 9:00am to 4:30pm, and the best time to go is 9am–10am, the quietest hour on weekdays and weekends. Try not to arrive between 11am and 4pm on a weekend, when the grounds are at their busiest."
+  - nagoya
+  - old quarter
+quickAnswer: >-
+  Nagoya Castle sits in Naka Ward, Nagoya, a short walk from Nagoya-jo Station
+  on the Meijo Line. It opens daily from 9:00am to 4:30pm, and the best time to
+  go is 9am–10am, the quietest hour on weekdays and weekends. Try not to arrive
+  between 11am and 4pm on a weekend, when the grounds are at their busiest.
 faq:
-  - q: "When is the quietest time to visit Nagoya Castle?"
-    a: "Between 9am and 10am, on both weekdays and weekends. Avoid 11am to 4pm on weekends, which is the busiest window on the grounds."
-  - q: "Can you go inside the main keep?"
-    a: "The main keep has been closed since 2018 ahead of a planned wooden reconstruction. The Hommaru Palace next to it is open and is the main interior to see. Check the official Nagoya Castle website for the keep's current status."
-  - q: "What are the opening hours?"
-    a: "The castle is open every day from 9:00am to 4:30pm. Arrive with enough time to walk through the palace before closing."
-  - q: "How do I get there by subway?"
-    a: "Take the Meijo Line to Nagoya-jo Station (formerly Shiyakusho) and use Exit 7 for the East Gate. You can also take the Tsurumai Line to Sengen-cho Station and walk about ten minutes to the Main (West) Gate."
-  - q: "How long should I spend at Nagoya Castle?"
-    a: "Allow two to three hours for the palace, the stone walls, the Ninomaru Garden and a meal at Kinshachi Yokocho. About 90 minutes covers the palace and the main grounds."
+  - q: When is the quietest time to visit Nagoya Castle?
+    a: >-
+      Between 9am and 10am, on both weekdays and weekends. Avoid 11am to 4pm on
+      weekends, which is the busiest window on the grounds.
+  - q: Can you go inside the main keep?
+    a: >-
+      The main keep has been closed since 2018 ahead of a planned wooden
+      reconstruction. The Hommaru Palace next to it is open and is the main
+      interior to see. Check the official Nagoya Castle website for the keep's
+      current status.
+  - q: What are the opening hours?
+    a: >-
+      The castle is open every day from 9:00am to 4:30pm. Arrive with enough
+      time to walk through the palace before closing.
+  - q: How do I get there by subway?
+    a: >-
+      Take the Meijo Line to Nagoya-jo Station (formerly Shiyakusho) and use
+      Exit 7 for the East Gate. You can also take the Tsurumai Line to
+      Sengen-cho Station and walk about ten minutes to the Main (West) Gate.
+  - q: How long should I spend at Nagoya Castle?
+    a: >-
+      Allow two to three hours for the palace, the stone walls, the Ninomaru
+      Garden and a meal at Kinshachi Yokocho. About 90 minutes covers the palace
+      and the main grounds.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-12'
 ---
 
 Two golden fish-tigers crown the roof of the keep, one at each end of the ridge, and they catch the light from well outside the moat. These are the kinshachi, the gilded shachihoko that Nagoya puts on its souvenirs, manhole covers and castle-themed everything. Seeing them over the stone walls of Nagoya Castle tells you what the city thinks of itself.

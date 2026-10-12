@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: glasgow-kelvingrove-art-gallery-and-museum
-srcHash: '69d2260d9387'
+srcHash: '0b76f86e8339'
 title: 'Kelvingrove Art Gallery and Museum: guía de viaje de Glasgow'
-description: En Argyle Street, en pleno West End de Glasgow, el Kelvingrove Art Gallery and Museum linda con Kelvingrove Park y queda a pocos pasos de la estación de metro de Kelvinhall. Con una valoración de 4.7★ (25,980 reseñas), recogemos aquí la opinión de los visitantes, los horarios y algunos consejos.
+description: En Argyle Street, en pleno West End de Glasgow, el Kelvingrove Art Gallery and Museum linda con Kelvingrove Park y queda a pocos pasos de la estación de metro de Kelvinhall. Con una valoración de 4.7★ (25,984 reseñas), recogemos aquí la opinión de los visitantes, los horarios y algunos consejos.
 quickAnswer: El Kelvingrove Art Gallery and Museum se encuentra en Argyle Street, en el West End de Glasgow, junto a Kelvingrove Park y a un corto paseo de la estación de metro de Kelvinhall. La entrada general es gratuita. Entre semana, los momentos más tranquilos van de 10:00 a 12:00 y de 16:00 a 17:00; las tardes del fin de semana, de 12:00 a 17:00, son la franja de mayor afluencia. Conviene reservarle entre dos y tres horas.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Kelvingrove Art Gallery and Museum?

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: munich-deutsches-museum
-srcHash: 'ec019951e5c0'
+srcHash: '4222403b71bd'
 title: 'Deutsches Museum: guía de viaje de Múnich (4.5★)'
 description: En pleno centro de Múnich, el Deutsches Museum ocupa la Museumsinsel, una isla del río Isar de orillas de grava situada a unos diez minutos a pie de la estación de S-Bahn de Isartor. Con 4.5★ y 44,070 reseñas, aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
 quickAnswer: En pleno centro de Múnich, el Deutsches Museum ocupa la Museumsinsel, una isla del río Isar de orillas de grava situada a unos diez minutos a pie de la estación de S-Bahn de Isartor. Abre todos los días de 9am a 5pm. Entre semana conviene llegar de 9am a 11am, y los fines de semana, de 9am a 10am. Evite los sábados y domingos de 11am a 5pm y reserve como mínimo media jornada para la visita.

@@ -1,44 +1,51 @@
 ---
-title: "Deutsches Museum: Munich Travel Guide (4.5★)"
-description: "Deutsches Museum stands on Museumsinsel, a gravel-banked island in the Isar river in central Munich, about a ten-minute walk from Isartor S-Bahn station. 4.5★ (44,070 reviews) — what visitors say, hours, and tips."
-country: "Germany"
-region: "Munich"
-category: "hidden-gem"
-pubDate: "2026-10-02T14:20:16.575Z"
+title: 'Deutsches Museum: Munich Travel Guide (4.5★)'
+description: >-
+  Deutsches Museum stands on Museumsinsel, a gravel-banked island in the Isar
+  river in central Munich, about a ten-minute walk from Isartor S-Bahn station.
+  4.5★ (44,167 reviews) — what visitors say, hours, and tips.
+country: Germany
+region: Munich
+category: hidden-gem
+pubDate: '2026-10-02T14:20:16.575Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Deutsches_Museum_Portrait_4.jpg/1920px-Deutsches_Museum_Portrait_4.jpg"
-  credit: "Photo: Burkhard Mücke / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Deutsches_Museum_Portrait_4.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Deutsches_Museum_Portrait_4.jpg/1920px-Deutsches_Museum_Portrait_4.jpg
+  credit: 'Photo: Burkhard Mücke / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Deutsches_Museum_Portrait_4.jpg'
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Deutsches_Museum_Munich_2014_01.jpg/3840px-Deutsches_Museum_Munich_2014_01.jpg"
-    credit: "Photo: Julian Herzog (Website) / Wikimedia Commons (CC BY 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Deutsches_Museum_Munich_2014_01.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Deutsches_Museum_Munich_2014_01.jpg/3840px-Deutsches_Museum_Munich_2014_01.jpg
+    credit: 'Photo: Julian Herzog (Website) / Wikimedia Commons (CC BY 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Deutsches_Museum_Munich_2014_01.jpg
 place:
-  id: "ChIJ01CaE2PfnUcRUpb8Ylg-UXo"
-  name: "Deutsches Museum"
-  address: "Museumsinsel 1, 80538 München, Germany"
+  id: ChIJ01CaE2PfnUcRUpb8Ylg-UXo
+  name: Deutsches Museum
+  address: 'Museumsinsel 1, 80538 München, Germany'
   rating: 4.5
-  userRatingsTotal: 44070
-  googleMapsUrl: "https://maps.google.com/?cid=8813894495079536210&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 44167
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=8813894495079536210&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 48.1298707
   lng: 11.5834522
-  phone: "+49 89 2179333"
+  phone: +49 89 2179333
   openingHours:
-    - "Monday: 9:00 AM – 5:00 PM"
-    - "Tuesday: 9:00 AM – 5:00 PM"
-    - "Wednesday: 9:00 AM – 5:00 PM"
-    - "Thursday: 9:00 AM – 5:00 PM"
-    - "Friday: 9:00 AM – 5:00 PM"
-    - "Saturday: 9:00 AM – 5:00 PM"
-    - "Sunday: 9:00 AM – 5:00 PM"
+    - 'Monday: 9:00 AM – 5:00 PM'
+    - 'Tuesday: 9:00 AM – 5:00 PM'
+    - 'Wednesday: 9:00 AM – 5:00 PM'
+    - 'Thursday: 9:00 AM – 5:00 PM'
+    - 'Friday: 9:00 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 5:00 PM'
+    - 'Sunday: 9:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-10-02
+    updated: 2026-10-02T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 10
@@ -51,24 +58,42 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_6f58552d676c59386270555263556e66503245614331304a496843"
+    venueId: ven_6f58552d676c59386270555263556e66503245614331304a496843
 tags:
-  - "munich"
-  - "hidden gem"
-quickAnswer: "Deutsches Museum stands on Museumsinsel, a gravel-banked island in the Isar river in central Munich, about a ten-minute walk from Isartor S-Bahn station. It opens 9am to 5pm every day. Arrive between 9am and 11am on weekdays (9am–10am at weekends), avoid weekends from 11am to 5pm, and set aside at least half a day."
+  - munich
+  - hidden gem
+quickAnswer: >-
+  Deutsches Museum stands on Museumsinsel, a gravel-banked island in the Isar
+  river in central Munich, about a ten-minute walk from Isartor S-Bahn station.
+  It opens 9am to 5pm every day. Arrive between 9am and 11am on weekdays
+  (9am–10am at weekends), avoid weekends from 11am to 5pm, and set aside at
+  least half a day.
 faq:
-  - q: "When is the quietest time to visit the Deutsches Museum?"
-    a: "On weekdays it's calmest between 9am and 11am. At weekends the quiet window is only 9am to 10am. Try not to come on Saturdays or Sundays between 11am and 5pm, when it's at its busiest."
-  - q: "What are the opening hours?"
-    a: "It's open 9am to 5pm every day of the week, Monday to Sunday."
-  - q: "How do I get to the Deutsches Museum?"
-    a: "Take any S-Bahn to Isartor and walk about ten minutes to Ludwigsbrücke. Or take tram 16 to the Deutsches Museum stop. Fraunhoferstraße (U1/U2) is also close, via Corneliusbrücke."
-  - q: "How long should I spend there?"
-    a: "Three to four hours suits a focused visit to two or three themes. A full day is better if you read the displays closely. Because it closes at 5pm, start in the morning."
-  - q: "Are all the exhibitions open?"
-    a: "No. The museum is in the middle of a long renovation and some halls are closed. The official website lists which exhibitions are open right now, so check it before you go."
+  - q: When is the quietest time to visit the Deutsches Museum?
+    a: >-
+      On weekdays it's calmest between 9am and 11am. At weekends the quiet
+      window is only 9am to 10am. Try not to come on Saturdays or Sundays
+      between 11am and 5pm, when it's at its busiest.
+  - q: What are the opening hours?
+    a: 'It''s open 9am to 5pm every day of the week, Monday to Sunday.'
+  - q: How do I get to the Deutsches Museum?
+    a: >-
+      Take any S-Bahn to Isartor and walk about ten minutes to Ludwigsbrücke. Or
+      take tram 16 to the Deutsches Museum stop. Fraunhoferstraße (U1/U2) is
+      also close, via Corneliusbrücke.
+  - q: How long should I spend there?
+    a: >-
+      Three to four hours suits a focused visit to two or three themes. A full
+      day is better if you read the displays closely. Because it closes at 5pm,
+      start in the morning.
+  - q: Are all the exhibitions open?
+    a: >-
+      No. The museum is in the middle of a long renovation and some halls are
+      closed. The official website lists which exhibitions are open right now,
+      so check it before you go.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-12'
 ---
 
 ## An island given over to machines

@@ -1,44 +1,53 @@
 ---
-title: "Nymphenburg Palace: Munich Travel Guide (4.6★)"
-description: "Nymphenburg Palace sits in Munich's Neuhausen-Nymphenburg district, about 20 minutes west of the centre on Tram 17. 4.6★ (40,563 reviews) — what visitors say, hours, and tips."
-country: "Germany"
-region: "Munich"
-category: "attraction"
-pubDate: "2026-10-02T14:02:02.361Z"
+title: 'Nymphenburg Palace: Munich Travel Guide (4.6★)'
+description: >-
+  Nymphenburg Palace sits in Munich's Neuhausen-Nymphenburg district, about 20
+  minutes west of the centre on Tram 17. 4.6★ (40,690 reviews) — what visitors
+  say, hours, and tips.
+country: Germany
+region: Munich
+category: attraction
+pubDate: '2026-10-02T14:02:02.361Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Image-Schloss_Nymphenburg_Munich_CC_edit3.jpg/1920px-Image-Schloss_Nymphenburg_Munich_CC_edit3.jpg"
-  credit: "Photo: Original: Richard Bartz, Munich aka Makro Freak Derivative / Wikimedia Commons (CC BY-SA 2.5)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Image-Schloss_Nymphenburg_Munich_CC_edit3.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Image-Schloss_Nymphenburg_Munich_CC_edit3.jpg/1920px-Image-Schloss_Nymphenburg_Munich_CC_edit3.jpg
+  credit: >-
+    Photo: Original: Richard Bartz, Munich aka Makro Freak Derivative /
+    Wikimedia Commons (CC BY-SA 2.5)
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Image-Schloss_Nymphenburg_Munich_CC_edit3.jpg
   focus:
     x: 50
-    y: 35
+    'y': 35
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/430265461_BG4W_MrdI043iw8ScWkcLTEqjgUs3QoPkeszjpH_xf8.jpg"
-    credit: "Photo: Foursquare user content (Nymphenburg Palace (Schloss Nymphenburg))"
-    license: "foursquare"
-    source: "https://foursquare.com/v/4ade0cc5f964a520f66821e3"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/430265461_BG4W_MrdI043iw8ScWkcLTEqjgUs3QoPkeszjpH_xf8.jpg
+    credit: 'Photo: Foursquare user content (Nymphenburg Palace (Schloss Nymphenburg))'
+    license: foursquare
+    source: 'https://foursquare.com/v/4ade0cc5f964a520f66821e3'
 place:
-  id: "ChIJLWiif8x3nkcRZm0epRZWTCc"
-  name: "Nymphenburg Palace"
-  address: "Neuhausen-Nymphenburg, 80638 Munich, Germany"
+  id: ChIJLWiif8x3nkcRZm0epRZWTCc
+  name: Nymphenburg Palace
+  address: 'Neuhausen-Nymphenburg, 80638 Munich, Germany'
   rating: 4.6
-  userRatingsTotal: 40563
-  googleMapsUrl: "https://maps.google.com/?cid=2831732920968703334&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 40690
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2831732920968703334&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 48.1582675
   lng: 11.5033143
-  phone: "+49 89 179080"
+  phone: +49 89 179080
   openingHours:
-    - "Monday: 9:00 AM – 6:00 PM"
-    - "Tuesday: 9:00 AM – 6:00 PM"
-    - "Wednesday: 9:00 AM – 6:00 PM"
-    - "Thursday: 9:00 AM – 6:00 PM"
-    - "Friday: 9:00 AM – 6:00 PM"
-    - "Saturday: 9:00 AM – 6:00 PM"
-    - "Sunday: 9:00 AM – 6:00 PM"
+    - 'Monday: 9:00 AM – 6:00 PM'
+    - 'Tuesday: 9:00 AM – 6:00 PM'
+    - 'Wednesday: 9:00 AM – 6:00 PM'
+    - 'Thursday: 9:00 AM – 6:00 PM'
+    - 'Friday: 9:00 AM – 6:00 PM'
+    - 'Saturday: 9:00 AM – 6:00 PM'
+    - 'Sunday: 9:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-10-02
+    updated: 2026-10-02T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 17
@@ -51,24 +60,43 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_634354575a527065306d5a52636b6e337838666969574c4a496843"
+    venueId: ven_634354575a527065306d5a52636b6e337838666969574c4a496843
 tags:
-  - "munich"
-  - "top attraction"
-quickAnswer: "Nymphenburg Palace sits in Munich's Neuhausen-Nymphenburg district, about 20 minutes west of the centre on Tram 17. It's open 9am–6pm daily, and the palace rooms, carriage museum and gardens together take 3–4 hours. Weekdays are calm all day, but on weekends go at 9am–10am and avoid 11am–5pm, when crowds are heaviest."
+  - munich
+  - top attraction
+quickAnswer: >-
+  Nymphenburg Palace sits in Munich's Neuhausen-Nymphenburg district, about 20
+  minutes west of the centre on Tram 17. It's open 9am–6pm daily, and the palace
+  rooms, carriage museum and gardens together take 3–4 hours. Weekdays are calm
+  all day, but on weekends go at 9am–10am and avoid 11am–5pm, when crowds are
+  heaviest.
 faq:
-  - q: "How do I get to Nymphenburg Palace from central Munich?"
-    a: "Take Tram 17 from Hauptbahnhof or Karlsplatz (Stachus) to the Schloss Nymphenburg stop. The ride takes about 20 minutes, then you walk a few minutes along the canal to the entrance."
-  - q: "When is the quietest time to visit?"
-    a: "On weekdays, crowds stay low throughout opening hours, 9am to 6pm. On weekends, the quiet window is 9am to 10am. Avoid 11am to 5pm on Saturdays and Sundays, which is the busiest stretch."
-  - q: "How long should I spend there?"
-    a: "Plan on 3 to 4 hours for the palace rooms, Marstallmuseum and a walk to the Amalienburg. If you only see the main palace, allow about 90 minutes."
-  - q: "Are the park pavilions always open?"
-    a: "No. The Amalienburg, Badenburg, Pagodenburg and Magdalenenklause usually open only during the summer season. Check the Bavarian Palace Administration website before you plan around them."
-  - q: "What else is nearby?"
-    a: "The Botanical Garden borders the palace park to the north. The Hirschgarten beer garden is a short walk south."
+  - q: How do I get to Nymphenburg Palace from central Munich?
+    a: >-
+      Take Tram 17 from Hauptbahnhof or Karlsplatz (Stachus) to the Schloss
+      Nymphenburg stop. The ride takes about 20 minutes, then you walk a few
+      minutes along the canal to the entrance.
+  - q: When is the quietest time to visit?
+    a: >-
+      On weekdays, crowds stay low throughout opening hours, 9am to 6pm. On
+      weekends, the quiet window is 9am to 10am. Avoid 11am to 5pm on Saturdays
+      and Sundays, which is the busiest stretch.
+  - q: How long should I spend there?
+    a: >-
+      Plan on 3 to 4 hours for the palace rooms, Marstallmuseum and a walk to
+      the Amalienburg. If you only see the main palace, allow about 90 minutes.
+  - q: Are the park pavilions always open?
+    a: >-
+      No. The Amalienburg, Badenburg, Pagodenburg and Magdalenenklause usually
+      open only during the summer season. Check the Bavarian Palace
+      Administration website before you plan around them.
+  - q: What else is nearby?
+    a: >-
+      The Botanical Garden borders the palace park to the north. The
+      Hirschgarten beer garden is a short walk south.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-12'
 ---
 
 ## A summer house that kept growing

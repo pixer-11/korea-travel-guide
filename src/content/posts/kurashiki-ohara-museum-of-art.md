@@ -1,45 +1,54 @@
 ---
-title: "Ōhara Museum of Art: Kurashiki Travel Guide (4.4★)"
-description: "The Ōhara Museum of Art sits in Kurashiki's Bikan Historical Quarter, about a 15-minute walk from JR Kurashiki Station, and it was Japan's first private museum centred on Western art, open since 1930. 4.4★ (3,380 reviews) — what visitors say, hours, and tips."
-country: "Japan"
-region: "Kurashiki"
-category: "hidden-gem"
-pubDate: "2026-10-11T07:44:31.557Z"
+title: 'Ōhara Museum of Art: Kurashiki Travel Guide (4.4★)'
+description: >-
+  The Ōhara Museum of Art sits in Kurashiki's Bikan Historical Quarter, about a
+  15-minute walk from JR Kurashiki Station, and it was Japan's first private
+  museum centred on Western art, open since 1930. 4.4★ (3,382 reviews) — what
+  visitors say, hours, and tips.
+country: Japan
+region: Kurashiki
+category: hidden-gem
+pubDate: '2026-10-11T07:44:31.557Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/080727_Ohara_Museum_of_Art_Kurashiki_Okayama_pref_Japan01s3.jpg/3840px-080727_Ohara_Museum_of_Art_Kurashiki_Okayama_pref_Japan01s3.jpg"
-  credit: "Photo: 663highland / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:080727_Ohara_Museum_of_Art_Kurashiki_Okayama_pref_Japan01s3.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/080727_Ohara_Museum_of_Art_Kurashiki_Okayama_pref_Japan01s3.jpg/3840px-080727_Ohara_Museum_of_Art_Kurashiki_Okayama_pref_Japan01s3.jpg
+  credit: 'Photo: 663highland / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:080727_Ohara_Museum_of_Art_Kurashiki_Okayama_pref_Japan01s3.jpg
+  via: act
   focus:
     x: 50
-    y: 35
+    'y': 35
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/211203_Ohara_Museum_of_Art_Kurashiki_Okayama_pref_Japan01s3.jpg/3840px-211203_Ohara_Museum_of_Art_Kurashiki_Okayama_pref_Japan01s3.jpg"
-    credit: "Photo: 663highland / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:211203_Ohara_Museum_of_Art_Kurashiki_Okayama_pref_Japan01s3.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/211203_Ohara_Museum_of_Art_Kurashiki_Okayama_pref_Japan01s3.jpg/3840px-211203_Ohara_Museum_of_Art_Kurashiki_Okayama_pref_Japan01s3.jpg
+    credit: 'Photo: 663highland / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:211203_Ohara_Museum_of_Art_Kurashiki_Okayama_pref_Japan01s3.jpg
 place:
-  id: "ChIJVVXFlUdWUTUR0eP250FshZ0"
-  name: "Ōhara Museum of Art"
-  address: "1-chōme-1-15 Chūō, Kurashiki, Okayama 710-8575, Japan"
+  id: ChIJVVXFlUdWUTUR0eP250FshZ0
+  name: Ōhara Museum of Art
+  address: '1-chōme-1-15 Chūō, Kurashiki, Okayama 710-8575, Japan'
   rating: 4.4
-  userRatingsTotal: 3380
-  googleMapsUrl: "https://maps.google.com/?cid=11350597466177594321&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 3382
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=11350597466177594321&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 34.596100799999995
   lng: 133.7706557
-  phone: "+81 86-422-0005"
+  phone: +81 86-422-0005
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 9:00 AM – 5:00 PM"
-    - "Wednesday: 9:00 AM – 5:00 PM"
-    - "Thursday: 9:00 AM – 5:00 PM"
-    - "Friday: 9:00 AM – 5:00 PM"
-    - "Saturday: 9:00 AM – 5:00 PM"
-    - "Sunday: 9:00 AM – 5:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 9:00 AM – 5:00 PM'
+    - 'Wednesday: 9:00 AM – 5:00 PM'
+    - 'Thursday: 9:00 AM – 5:00 PM'
+    - 'Friday: 9:00 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 5:00 PM'
+    - 'Sunday: 9:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-10-11
+    updated: 2026-10-11T00:00:00.000Z
     weekdayBusy:
       - 12
       - 13
@@ -50,24 +59,48 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_305a687346303532506530525554555764556c465856564a496843"
+    venueId: ven_305a687346303532506530525554555764556c465856564a496843
 tags:
-  - "okayama"
-  - "old quarter"
-quickAnswer: "The Ōhara Museum of Art sits in Kurashiki's Bikan Historical Quarter, about a 15-minute walk from JR Kurashiki Station, and it was Japan's first private museum centred on Western art, open since 1930. Plan 2–3 hours for the main building and the craft and Asian galleries; the Annex is closed long-term. At the moment it opens 9am–5pm Tuesday to Sunday and is closed Mondays; on weekends, steer clear of the 10am–4pm crush by arriving right at 9am."
+  - okayama
+  - old quarter
+quickAnswer: >-
+  The Ōhara Museum of Art sits in Kurashiki's Bikan Historical Quarter, about a
+  15-minute walk from JR Kurashiki Station, and it was Japan's first private
+  museum centred on Western art, open since 1930. Plan 2–3 hours for the main
+  building and the craft and Asian galleries; the Annex is closed long-term. At
+  the moment it opens 9am–5pm Tuesday to Sunday and is closed Mondays; on
+  weekends, steer clear of the 10am–4pm crush by arriving right at 9am.
 faq:
-  - q: "How do I get to the Ōhara Museum of Art from Okayama?"
-    a: "Take the JR San'yō Line from Okayama Station to Kurashiki Station, a short ride. Then walk about 15 minutes from the south exit down Chūō-dōri to the canal in the Bikan Historical Quarter. The museum is at 1-chōme-1-15 Chūō."
-  - q: "When is the quietest time to visit?"
-    a: "Weekends are busiest from 10am to 4pm, so on a Saturday or Sunday arrive at the 9am opening and see the main building first. A weekday visit, Tuesday to Friday, is the better choice if you have it. The museum is currently closed on Mondays."
-  - q: "How long should I spend there?"
-    a: "Allow about an hour for the main building's Western collection. Plan 2–3 hours if you also want the Craft Art Gallery and the Asiatic Art Gallery, which share the same ticket. The Annex is closed long-term."
-  - q: "What are the must-see works?"
-    a: "El Greco's Annunciation and Monet's Water Lilies are in the main building, along with Gauguin, Matisse, Modigliani and Rodin. Across the canal, the Craft Art Gallery holds ceramics by Hamada Shōji, Kawai Kanjirō and Bernard Leach, plus prints by Munakata Shikō."
-  - q: "What else is nearby?"
-    a: "The museum sits on the canal in the Bikan Historical Quarter. Café El Greco is next door, the red-brick Ivy Square is across the river, and the Ōhashi House merchant residence is a short walk south."
+  - q: How do I get to the Ōhara Museum of Art from Okayama?
+    a: >-
+      Take the JR San'yō Line from Okayama Station to Kurashiki Station, a short
+      ride. Then walk about 15 minutes from the south exit down Chūō-dōri to the
+      canal in the Bikan Historical Quarter. The museum is at 1-chōme-1-15 Chūō.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekends are busiest from 10am to 4pm, so on a Saturday or Sunday arrive
+      at the 9am opening and see the main building first. A weekday visit,
+      Tuesday to Friday, is the better choice if you have it. The museum is
+      currently closed on Mondays.
+  - q: How long should I spend there?
+    a: >-
+      Allow about an hour for the main building's Western collection. Plan 2–3
+      hours if you also want the Craft Art Gallery and the Asiatic Art Gallery,
+      which share the same ticket. The Annex is closed long-term.
+  - q: What are the must-see works?
+    a: >-
+      El Greco's Annunciation and Monet's Water Lilies are in the main building,
+      along with Gauguin, Matisse, Modigliani and Rodin. Across the canal, the
+      Craft Art Gallery holds ceramics by Hamada Shōji, Kawai Kanjirō and
+      Bernard Leach, plus prints by Munakata Shikō.
+  - q: What else is nearby?
+    a: >-
+      The museum sits on the canal in the Bikan Historical Quarter. Café El
+      Greco is next door, the red-brick Ivy Square is across the river, and the
+      Ōhashi House merchant residence is a short walk south.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-12'
 ---
 
 Stone columns rise above a canal lined with willows. That is the façade of the Ōhara Museum of Art: a Greek-temple front with Ionic columns, set down among the white-walled storehouses of Kurashiki. Two Rodin bronzes stand guard by the entrance. The building looks like it was shipped in from another century and another continent, and in a sense the collection was.

@@ -1,9 +1,9 @@
 ---
 lang: ja
 slug: heidelberg-kurpfalzisches-museum
-srcHash: '34f643c126c0'
+srcHash: '8edc556318d7'
 title: プファルツ選帝侯博物館：ハイデルベルク旅行ガイド（4.5★）
-description: プファルツ選帝侯博物館（Kurpfälzisches Museum）は、旧市街の歩行者天国にあるバロック様式の邸宅、モラス宮（Palais Morass、Hauptstraße 97）を館舎とするハイデルベルクの市立博物館です。ビスマルク広場から東へ徒歩約10分です。評価は4.5★（993件のレビュー）。来館者の声や開館時間、訪問のコツをまとめました。
+description: プファルツ選帝侯博物館（Kurpfälzisches Museum）は、旧市街の歩行者天国にあるバロック様式の邸宅、モラス宮（Palais Morass、Hauptstraße 97）を館舎とするハイデルベルクの市立博物館です。ビスマルク広場から東へ徒歩約10分です。評価は4.5★（992件のレビュー）。来館者の声や開館時間、訪問のコツをまとめました。
 quickAnswer: プファルツ選帝侯博物館（Kurpfälzisches Museum）は、ハイデルベルクの市立博物館です。旧市街の歩行者天国に建つバロック様式の邸宅、モラス宮（Palais Morass、Hauptstraße 97）の中にあり、ビスマルク広場（Bismarckplatz）から東へ歩いて10分ほどです。週末は11時から18時まで混み合うので、開館直後の10時か平日に訪れるのがおすすめです。現在の開館日は火曜から日曜で、月曜は休館です。
 faq:
   - q: プファルツ選帝侯博物館がいちばん空いているのはいつですか？
