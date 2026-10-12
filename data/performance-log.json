@@ -1880,5 +1880,200 @@
         "delta": -11
       }
     ]
+  },
+  {
+    "week": "2026-10-12",
+    "pageviews": 5843,
+    "visits": 5690,
+    "top": [
+      {
+        "path": "/",
+        "views": 57
+      },
+      {
+        "path": "/zh/posts/beijing-china-open-tennis/",
+        "views": 44
+      },
+      {
+        "path": "/ko/",
+        "views": 36
+      },
+      {
+        "path": "/zh/tools/when-to-go/south-korea/",
+        "views": 27
+      },
+      {
+        "path": "/ja/posts/shanghai-rolex-shanghai-masters/",
+        "views": 23
+      },
+      {
+        "path": "/zh/tools/when-to-go/france/september/",
+        "views": 20
+      },
+      {
+        "path": "/zh/posts/chinatown-chinatown-complex/",
+        "views": 17
+      },
+      {
+        "path": "/zh/posts/chiang-mai-night-bazaar-chiang-mai/",
+        "views": 16
+      },
+      {
+        "path": "/ko/flights/",
+        "views": 15
+      },
+      {
+        "path": "/zh/posts/chiang-mai-yi-peng-lantern-festival-loy-krathong/",
+        "views": 15
+      },
+      {
+        "path": "/zh/posts/katong-katong-park/",
+        "views": 14
+      },
+      {
+        "path": "/zh/posts/shanghai-rolex-shanghai-masters/",
+        "views": 14
+      },
+      {
+        "path": "/zh/",
+        "views": 14
+      },
+      {
+        "path": "/zh/posts/paris-basilique-du-sacre-c-ur-de-montmartre/",
+        "views": 13
+      },
+      {
+        "path": "/posts/bangkok-bts-world-tour-arirang-in-bangkok/",
+        "views": 11
+      },
+      {
+        "path": "/posts/madrid-puerta-de-alcala/",
+        "views": 11
+      },
+      {
+        "path": "/ja/regions/rothenburg-ob-der-tauber/",
+        "views": 11
+      },
+      {
+        "path": "/posts/melbourne-melbourne-cup/",
+        "views": 10
+      },
+      {
+        "path": "/zh/posts/paris-notre-dame-cathedral-of-paris/",
+        "views": 9
+      },
+      {
+        "path": "/posts/jakarta-babymonster-jakarta-concert/",
+        "views": 9
+      },
+      {
+        "path": "/ko/events/",
+        "views": 9
+      },
+      {
+        "path": "/posts/bangkok-bigbang-world-tour-xx-cosmos-in-bangkok/",
+        "views": 9
+      },
+      {
+        "path": "/posts/hong-kong-the-weeknd-after-hours-til-dawn-tour/",
+        "views": 9
+      },
+      {
+        "path": "/posts/berlin-neues-museum/",
+        "views": 9
+      },
+      {
+        "path": "/zh/posts/tashkent-hazrati-imam-complex/",
+        "views": 9
+      },
+      {
+        "path": "/zh/posts/seoul-seoul-forest-park/",
+        "views": 8
+      },
+      {
+        "path": "/zh/posts/mandalika-pertamina-grand-prix-of-indonesia-motogp-mandalika/",
+        "views": 8
+      },
+      {
+        "path": "/zh/posts/wan-chai-golden-bauhinia-square/",
+        "views": 8
+      },
+      {
+        "path": "/posts/putrajaya-putra-mosque/",
+        "views": 8
+      },
+      {
+        "path": "/posts/washington-dc-lincoln-memorial/",
+        "views": 8
+      }
+    ],
+    "risers": [
+      {
+        "path": "/zh/tools/when-to-go/south-korea/",
+        "delta": 27
+      },
+      {
+        "path": "/ja/posts/shanghai-rolex-shanghai-masters/",
+        "delta": 23
+      },
+      {
+        "path": "/zh/tools/when-to-go/france/september/",
+        "delta": 20
+      },
+      {
+        "path": "/zh/posts/chinatown-chinatown-complex/",
+        "delta": 17
+      },
+      {
+        "path": "/zh/posts/chiang-mai-night-bazaar-chiang-mai/",
+        "delta": 16
+      },
+      {
+        "path": "/ko/flights/",
+        "delta": 15
+      },
+      {
+        "path": "/zh/posts/chiang-mai-yi-peng-lantern-festival-loy-krathong/",
+        "delta": 15
+      },
+      {
+        "path": "/zh/posts/katong-katong-park/",
+        "delta": 14
+      }
+    ],
+    "fallers": [
+      {
+        "path": "/ko/my-trip/",
+        "delta": -159
+      },
+      {
+        "path": "/ko/events/",
+        "delta": -81
+      },
+      {
+        "path": "/ko/essentials/visa/",
+        "delta": -62
+      },
+      {
+        "path": "/ko/free/trip-checklist/",
+        "delta": -61
+      },
+      {
+        "path": "/ko/itinerary/barcelona-3-days/",
+        "delta": -60
+      },
+      {
+        "path": "/essentials/money/",
+        "delta": -58
+      },
+      {
+        "path": "/essentials/visa/",
+        "delta": -54
+      },
+      {
+        "path": "/ko/essentials/luggage-storage/",
+        "delta": -54
+      }
+    ]
   }
 ]
