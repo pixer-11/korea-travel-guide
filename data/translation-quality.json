@@ -17325,18 +17325,11 @@
   "at": "2026-10-12T02:43:57.079Z"
  },
  "ko/fethiye-ancient-city-of-telmessos": {
-  "hash": "7e49c4f2ed53",
+  "hash": "91d62c448aa1",
   "score": 1,
   "registerBreak": false,
   "worst": "기둥과 박공이 마치 절벽에 신전 정면을 통째로 붙여 놓은 듯 바위에 그대로 조각되어 있습니다.",
-  "at": "2026-09-28T17:14:23.468Z"
- },
- "ko/fethiye-gemiler-island": {
-  "hash": "d2b6078ab5da",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "이런 자유로움은 특권일 뿐 부서지기 쉬운 벽 위에 올라가도 된다는 초대가 아닙니다.",
-  "at": "2026-09-28T17:14:19.475Z"
+  "at": "2026-10-12T03:40:12.268Z"
  },
  "ko/florence-basilica-of-santa-croce-in-florence": {
   "hash": "540217f8bf77",
@@ -17472,74 +17465,60 @@
   "at": "2026-09-28T17:15:06.957Z"
  },
  "ko/genoa-porto-antico": {
-  "hash": "da955da9ce78",
+  "hash": "8196766e5a00",
   "score": 1,
   "registerBreak": false,
-  "worst": "아이들은 유리 돔 안에 열대 식물과 나비들이 사는 바이오스피어에 특히 끌려 하는데, 해안에서 살짝 떨어진 물 위에 떠 있습니다.",
-  "at": "2026-08-15T10:30:35.761Z"
+  "worst": "유동인구 데이터를 보면 당일치기 여행객들이 몰려들기 전인 주말 이른 아침이 가장 한산합니다.",
+  "at": "2026-10-12T03:40:53.107Z"
  },
  "ko/genoa-royal-palace-museum": {
-  "hash": "73c7942a2935",
+  "hash": "a560aece14ae",
   "score": 1,
   "registerBreak": false,
   "worst": "천장은 우의화(寓意畵)의 무게에 짓눌린 듯하고, 문틀에는 조각된 아칸서스 잎 장식이 넘쳐흐릅니다.",
-  "at": "2026-08-15T06:04:26.783Z"
+  "at": "2026-10-12T03:40:49.819Z"
  },
  "ko/genting-highlands-genting-skyworlds-theme-park": {
-  "hash": "4e9fb7b5aeca",
+  "hash": "de8b28b03880",
   "score": 1,
   "registerBreak": false,
-  "worst": "겐팅 스카이월드는 조용히 숨겨진 명소가 아니라 확실히 대중적이고 방문객이 많은 어트랙션입니다",
-  "at": "2026-08-15T06:04:20.385Z"
+  "worst": "그러니 혼잡을 피하기보다 관리하는 것이 더 현명한 접근입니다",
+  "at": "2026-10-12T03:41:02.445Z"
  },
  "ko/genting-highlands-resorts-world-genting": {
-  "hash": "7bb6854508d6",
+  "hash": "9813237989e8",
   "score": 1,
   "registerBreak": false,
-  "worst": "카지노 외에도, 산 정상의 날씨는 예고 없이 안개가 끼거나 비가 내릴 수 있어 날씨가 서늘하거나 궂은 날에는...",
-  "at": "2026-08-15T06:04:19.086Z"
- },
- "ko/gili-islands-gili-meno-beach": {
-  "hash": "1dc2791c06fa",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "길리 트라왕안이 해변 바로 활기가 넘치고, 길리 아이르가 중간 수준의 관광객을 끌어모으는 반면",
-  "at": "2026-08-15T06:04:22.768Z"
+  "worst": "단일 명소라기보다는 하나의완결된 수직 도시라 할 만하며, 바로 그런 이유로 동남아시아 전역에서 관광객이 몰려듭니다.",
+  "at": "2026-10-12T03:40:53.708Z"
  },
  "ko/gili-islands-gili-trawangan-beach": {
-  "hash": "1775f29b39f7",
+  "hash": "9a510dbcb633",
   "score": 1,
   "registerBreak": false,
-  "worst": "방문객들이 가장 흔히 저지르는 실수는 개발이 집중된 항구 인근 해변가에만 머무는 것입니다.",
-  "at": "2026-08-15T06:04:23.271Z"
+  "worst": "길리 트라왕안은 모터 달린 교통수단이 전혀 없이 운영되며, 바로 이 사실 하나가 이 해변의 분위기 전체를 만들어냅니다.",
+  "at": "2026-10-12T03:40:56.308Z"
  },
  "ko/goa-fort-aguada": {
-  "hash": "5d321b06a991",
+  "hash": "3154d5549ebc",
   "score": 1,
   "registerBreak": false,
   "worst": "포트 아구아다는 이유 있게 10만 건이 훌쩍 넘는 방문객 리뷰를 기록하고 있습니다",
-  "at": "2026-08-15T06:04:30.221Z"
+  "at": "2026-10-12T03:41:06.659Z"
  },
  "ko/goa-goa-market": {
-  "hash": "d04110d01dba",
+  "hash": "9c2df339df07",
   "score": 1,
   "registerBreak": false,
-  "worst": "생선은 이 시장의 심장과도 같은 존재입니다.",
-  "at": "2026-08-15T10:30:50.992Z"
- },
- "ko/goa-naval-aviation-museum": {
-  "hash": "6b951857faa5",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "관광객들이 가장 흔히 하는 실수는 이곳을 20분짜리 빠른 사진 명소로 여기는 것입니다.",
-  "at": "2026-08-15T06:04:28.470Z"
+  "worst": "이른 저녁 혼잡 시간대야말로 놓치지 말아야 할 볼거리입니다.",
+  "at": "2026-10-12T03:41:09.539Z"
  },
  "ko/goa-shri-nageshi-temple": {
-  "hash": "178a5d3c4963",
+  "hash": "83394b7fd473",
   "score": 1,
   "registerBreak": false,
-  "worst": "주말에 존재하지도 않는 한산한 틈을 찾으려 애쓰기보다는, 그냥 평일 이른 시간에 찾아가...",
-  "at": "2026-08-15T10:30:51.496Z"
+  "worst": "이곳은 조용히 숨겨진 명소가 아니라 폰다 사원 순례길에서 잘 알려진 코스이기 때문에...",
+  "at": "2026-10-12T03:41:06.453Z"
  },
  "ko/goyang-bigbang-2026-2027-world-tour-xx-cosmos-goyang-opening-shows": {
   "hash": "4b9bd9531cae",
@@ -30415,11 +30394,11 @@
   "at": "2026-09-28T17:14:38.233Z"
  },
  "ko/fujairah-fujairah-museum": {
-  "hash": "26ca2cb6e9b8",
+  "hash": "488d7d594015",
   "score": 1,
   "registerBreak": false,
-  "worst": "발굴 현장을 소개하는 전시 패널은 서둘러 지나치지 마세요. 이 부분이야말로 에미리트의 나머지 풍경이",
-  "at": "2026-09-28T17:14:39.550Z"
+  "worst": "이 박물관의 가치는 그 구체성에 있습니다. 걸프 지역 역사를 두루 다루는 개괄적인 전시가 아니라, 푸자이라 고유의 고고학적 기록을 보여주기 때문입니다.",
+  "at": "2026-10-12T03:40:28.875Z"
  },
  "ko/fujairah-shees-park": {
   "hash": "2ab481e2ff32",
@@ -33451,5 +33430,320 @@
   "registerBreak": false,
   "worst": "엽서마다 등장하는 왕관 모양 첨탑이 바로 이 성당의 것입니다.",
   "at": "2026-10-12T02:43:58.575Z"
+ },
+ "ko/cozumel-margaritaville-cozumel": {
+  "hash": "4ff849248bec",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이런 기록은 대개 약속한 만큼은 해낸다는 뜻입니다.",
+  "at": "2026-10-12T03:40:13.037Z"
+ },
+ "ko/dusseldorf-kaiserpfalz-kaiserswerth": {
+  "hash": "735cc77b1b7f",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "성의 잔해와 강 풍경, 그리고 전원 풍경이라는 편집부의 한 줄 평이 이곳을 잘 요약해 줍니다.",
+  "at": "2026-10-12T03:40:13.704Z"
+ },
+ "ko/florence-ponte-vecchio": {
+  "hash": "e53997dab17c",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-12T03:40:14.422Z"
+ },
+ "ko/foxborough-bts-world-tour": {
+  "hash": "b49d3bdf019f",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "미국프로풋볼(NFL) 경기장이나 콘서트 스타디움의 가방 규정은 반입 가능한 가방 크기를 상당히 엄격하게 제한하는 편입니다.",
+  "at": "2026-10-12T03:40:15.074Z"
+ },
+ "ko/florence-florence-marathon": {
+  "hash": "0128fd720da4",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "최소한의 기능만 갖춘 레이싱화보다는 접지력이 괜찮은 신발로 훈련하시기 바랍니다.",
+  "at": "2026-10-12T03:40:17.923Z"
+ },
+ "ko/frankfurt-am-main-frankfurter-buchmesse": {
+  "hash": "5c0fe78ded8c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "온라인 티켓은 디지털 티켓입니다.",
+  "at": "2026-10-12T03:40:19.118Z"
+ },
+ "ko/frankfurt-bethmann-park": {
+  "hash": "062a1dec4de5",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "저희 주말 데이터상으로는 전반적으로 오전 7시~9시와 밤 10시~11시가 한산한 시간대로 나타나므로",
+  "at": "2026-10-12T03:40:19.766Z"
+ },
+ "ko/frankfurt-am-main-frankfurt-marathon": {
+  "hash": "1bdc6abec6c0",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "사방을 빽빽하게 메운 관중에 둘러싸인 채 조명 아래에서 결승선을 통과하게 됩니다.",
+  "at": "2026-10-12T03:40:22.059Z"
+ },
+ "ko/frankfurt-palmengarten-frankfurt": {
+  "hash": "f31885535a3f",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "구역을 옮겨 다닐 때마다 안경에 김이 서릴 각오를 하시는 것이 좋습니다.",
+  "at": "2026-10-12T03:40:23.198Z"
+ },
+ "ko/frankfurt-frankfurter-romer": {
+  "hash": "6d59551238da",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "현지인들은 당연하게 그렇게 합니다.",
+  "at": "2026-10-12T03:40:24.244Z"
+ },
+ "ko/frankfurt-senckenberg-nature-museum": {
+  "hash": "858f18e01640",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "사실상 문을 여는 시간 내내 한산하다는 뜻입니다.",
+  "at": "2026-10-12T03:40:24.351Z"
+ },
+ "ko/frankfurt-nct-127-wayv-tour": {
+  "hash": "647de33e449a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "월요일이라는 요일 하나가 여행 전체의 모양을 정합니다.",
+  "at": "2026-10-12T03:40:26.322Z"
+ },
+ "ko/frankfurt-main-tower": {
+  "hash": "c7b641920b28",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "초고층 빌딩은 대개 가장 좋은 층을 유리벽 안에 둡니다.",
+  "at": "2026-10-12T03:40:27.253Z"
+ },
+ "ko/frankfurt-kaffeehaus-goldene-waage": {
+  "hash": "e908683095d7",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "금액을 올림하거나 10% 정도를 더 얹습니다.",
+  "at": "2026-10-12T03:40:27.486Z"
+ },
+ "ko/fremantle-fremantle-prison": {
+  "hash": "d240df69ad1b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "유동 인구 측정 결과를 보면 답이 분명합니다.",
+  "at": "2026-10-12T03:40:30.655Z"
+ },
+ "ko/frankfurt-wtt-champions-germany": {
+  "hash": "650b3c8012c4",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "방문객 가운데에는 교통이 편한 중앙역 근처나 메세(Messe) 주변에 묵는 사람이 많습니다.",
+  "at": "2026-10-12T03:40:31.771Z"
+ },
+ "ko/fukuoka-fukuoka-international-marathon": {
+  "hash": "f9a45d71b696",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "선두 그룹이 다가오는데 차도로 내려서는 것만큼은 확실히 눈총을 받는 실수입니다.",
+  "at": "2026-10-12T03:40:31.846Z"
+ },
+ "ko/fujairah-steki": {
+  "hash": "3461b312eb04",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "시간 여유를 두고 넉넉히 배를 비운 채 방문해 보시기 바랍니다.",
+  "at": "2026-10-12T03:40:34.643Z"
+ },
+ "ko/fremantle-wa-shipwrecks-museum": {
+  "hash": "57b01cd0b50f",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "인양된 선체 목재는 전용 전시관에 다시 조립되어 서 있습니다.",
+  "at": "2026-10-12T03:40:35.520Z"
+ },
+ "ko/fujairah-fujairah-heritage-village": {
+  "hash": "47ea2bcfa9e5",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "출입구 안에 가만히 서 있어도 되고, 안내판을 차분히 읽을 수도 있으며, 다른 사람의 팔꿈치가 끼어들지 않은 사진도 찍을 수 있습니다.",
+  "at": "2026-10-12T03:40:35.722Z"
+ },
+ "ko/fussen-benediktinerkloster-st-mang": {
+  "hash": "d676ba96f454",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "마그누스는 8세기에 강 위쪽의 바로 이 자리에 정착한 선교 수도사였습니다.",
+  "at": "2026-10-12T03:40:36.790Z"
+ },
+ "ko/fussen-hohenschwangau-castle": {
+  "hash": "83bb30099a60",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "두 성의 투어가 가장 크게 다른 점이 바로 이것입니다.",
+  "at": "2026-10-12T03:40:37.687Z"
+ },
+ "ko/fukuoka-fukuoka-marathon": {
+  "hash": "bae90574a24b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이 대회를 규정하는 것은 달리는 방향입니다.",
+  "at": "2026-10-12T03:40:39.645Z"
+ },
+ "ko/fukuoka-tanga-market": {
+  "hash": "4436d135551c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이곳은 지금도 현역으로 돌아가는 아케이드 시장입니다.",
+  "at": "2026-10-12T03:40:40.212Z"
+ },
+ "ko/funabashi-boynextdoor-japan-concert": {
+  "hash": "65d530c950ef",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "도쿄역의 게이요선 승강장은 지하 깊숙한 곳에 있어 메인 중앙 홀에서 한참을 걸어야 하므로 이동 시간이 넉넉히 듭니다.",
+  "at": "2026-10-12T03:40:43.331Z"
+ },
+ "ko/fussen-neuschwanstein-castle": {
+  "hash": "9e109d7fe95c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "바이에른의 다른 어느 곳보다도 이곳에서는 방문 시간이 중요합니다.",
+  "at": "2026-10-12T03:40:44.104Z"
+ },
+ "ko/fussen-hohes-schloss": {
+  "hash": "874d2a3e4268",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "사람들이 고개를 젖히고 올려다보는 것은 바로 나무로 짠 격자 천장입니다.",
+  "at": "2026-10-12T03:40:44.112Z"
+ },
+ "ko/fussen-restaurant-madame-plusch": {
+  "hash": "651eafa24bfa",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "슈페츨레를 혼자 먹으려고 시키면 곁들이 요리 한 접시가 나올 뿐입니다.",
+  "at": "2026-10-12T03:40:44.511Z"
+ },
+ "ko/fussen-walderlebniszentrum-ziegelwies": {
+  "hash": "a49c1c090a11",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이 인파는 오전 늦게부터 점점 늘어납니다.",
+  "at": "2026-10-12T03:40:44.690Z"
+ },
+ "ko/gapyeong-jarasum-jazz-festival": {
+  "hash": "f85e83452a09",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "물에 둘러싸인 평평한 잔디밭을 떠올려 보시기 바랍니다.",
+  "at": "2026-10-12T03:40:45.768Z"
+ },
+ "ko/fukuoka-ohori-park-japanese-garden": {
+  "hash": "eb7b10f3d30c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "면적이 1.2에이커 남짓한 작은 정원이지만, 한눈에 전체가 들어오지 않도록 설계되어...",
+  "at": "2026-10-12T03:40:46.107Z"
+ },
+ "ko/genoa-porta-soprana": {
+  "hash": "73ac73d93c16",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "즉, 진짜 기초 위에 정성껏 재현해 올린 구조물이라고 보시면 됩니다.",
+  "at": "2026-10-12T03:40:47.247Z"
+ },
+ "ko/gangneung-jumunjin-lighthouse": {
+  "hash": "4421960dbcbf",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "주변 절벽과 계단이 인기 드라마 '쓸쓸하고 찬란하神 - 도깨비'에 등장했기 때문입니다.",
+  "at": "2026-10-12T03:40:48.275Z"
+ },
+ "ko/genoa-piazza-caricamento": {
+  "hash": "43812dee37bc",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "제노바는 한때 대표적인 해양 공화국이었고, 그 부(富)가 바로 이곳으로 상륙했습니다.",
+  "at": "2026-10-12T03:40:50.331Z"
+ },
+ "ko/genoa-villa-durazzo-pallavicini": {
+  "hash": "56ce496dcf8a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "특히 사진 촬영을 즐기는 사람들은 이른 시간대를 선호하는데, 인공 호수가 길이 붐비기 전 아침의 평평한 빛을 받아 아름답게 비치기 때문입니다.",
+  "at": "2026-10-12T03:40:51.327Z"
+ },
+ "ko/genting-highlands-chin-swee-caves-temple": {
+  "hash": "909b502b8193",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "접지력이 좋은 신발을 신으세요. 계단이 가파르고 안개로 젖어 있을 때도 있으며 그 수도 상당히 많습니다",
+  "at": "2026-10-12T03:40:51.607Z"
+ },
+ "ko/gangneung-gangmun-sotdae-bridge": {
+  "hash": "86c5c040dfa1",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "잠깐 2분만 돌아가면 되는 길이지만, 걸음을 멈추고 고개를 들어 바라보는 사람에게는 충분한 보상이 돌아옵니다.",
+  "at": "2026-10-12T03:40:52.525Z"
+ },
+ "ko/genting-highlands-skytropolis-indoor-theme-park": {
+  "hash": "d452d3fdf0b8",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "스카이트로폴리스는 숨겨진 명소가 아니라 이미 잘 알려져 있고 방문객이 많은 리조트 시설이므로, 남모르게 찾아가야 할 곳이라기보다는 혼잡한 시간대만 피해서 방문 시점을 잘 맞추는 것이 현명한 전략입니다.",
+  "at": "2026-10-12T03:40:54.797Z"
+ },
+ "ko/genting-highlands-genting-highlands-premium-outlets": {
+  "hash": "a9a282c34714",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "매장 사이를 걷다 보면 산악 기후가 그대로 함께합니다.",
+  "at": "2026-10-12T03:40:55.007Z"
+ },
+ "ko/genoa-porta-dei-vacca": {
+  "hash": "62172d56748c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "엽서에 나올 법한 광장이 아니라 구시가지 가장자리, 항구가 실제로 돌아가는 곳에 자리 잡고 있다는 점도 한몫합니다.",
+  "at": "2026-10-12T03:40:55.707Z"
+ },
+ "ko/gili-islands-gili-trawangan-sunset-beach": {
+  "hash": "f06f7865985e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "섬이 적도 부근에 위치한 만큼 연중 대략 오후 6시경이 이 시간대입니다.",
+  "at": "2026-10-12T03:40:56.906Z"
+ },
+ "ko/glasgow-kibble-palace": {
+  "hash": "60fcc91105ef",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "방문객 수를 측정해 보면 가장 한산한 때는 평일 오전 10시~11시입니다.",
+  "at": "2026-10-12T03:41:00.732Z"
+ },
+ "ko/george-town-george-town-festival-2026-beyond-boundaries": {
+  "hash": "0778ef17e5f3",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "사람들은 공연을 보러 오지만, 이곳에 오래 머물게 만드는 것은 배경입니다. 몫의 절반은 공간이 해냅니다.",
+  "at": "2026-10-12T03:41:03.451Z"
+ },
+ "ko/glasgow-riverside-museum": {
+  "hash": "be422b6cff03",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "다만 이곳의 진짜 매력은 전시물의 밀도에 있습니다.",
+  "at": "2026-10-12T03:41:05.184Z"
+ },
+ "ko/glasgow-cafe-gandolfi": {
+  "hash": "8904a1b2334d",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "채식주의자도 구색 맞추기용 메뉴 하나에 만족할 필요 없이 제대로 골라 먹을 수 있습니다.",
+  "at": "2026-10-12T03:41:11.159Z"
  }
 }
