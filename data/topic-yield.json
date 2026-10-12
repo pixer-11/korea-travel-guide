@@ -6,12 +6,12 @@
    "hits": 14
   },
   "historic site": {
-   "attempts": 114,
+   "attempts": 120,
    "hits": 70
   },
   "park": {
-   "attempts": 125,
-   "hits": 80
+   "attempts": 128,
+   "hits": 81
   },
   "viewpoint": {
    "attempts": 68,
@@ -30,8 +30,8 @@
    "hits": 5
   },
   "museum": {
-   "attempts": 101,
-   "hits": 61
+   "attempts": 107,
+   "hits": 62
   },
   "noodles": {
    "attempts": 54,
@@ -62,11 +62,11 @@
    "hits": 5
   },
   "trendy cafe": {
-   "attempts": 128,
+   "attempts": 138,
    "hits": 11
   },
   "street food": {
-   "attempts": 102,
+   "attempts": 116,
    "hits": 18
   },
   "bakery": {
@@ -530,5 +530,5 @@
    "hits": 1
   }
  },
- "updated": "2026-10-12T08:03:15.611Z"
+ "updated": "2026-10-12T09:46:56.416Z"
 }

@@ -17807,159 +17807,124 @@
   "worst": "캐빈은 완전히 밀폐되어 있고 냉방이 가동되는데, 이는... 생각보다 훨씨 중요한 요소입니다.",
   "at": "2026-10-12T08:08:14.854Z"
  },
- "ko/hong-kong-hong-kong-park": {
-  "hash": "15711558f266",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "그 결과는 거의 연극적으로 느껴집니다: 콘크리트 산책로가 인공 절벽 사이로 굽이치고, 연꽃 연못은 스카이라인을 비추며",
-  "at": "2026-10-12T08:08:19.032Z"
- },
- "ko/hong-kong-nan-lian-garden": {
-  "hash": "b8c1402b0c7e",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "실제 방문객 수 데이터를 보면 분명합니다.",
-  "at": "2026-08-15T06:07:07.415Z"
- },
  "ko/hong-kong-po-lin-monastery": {
-  "hash": "a952bffda4e0",
+  "hash": "10ec431aa32a",
   "score": 1,
   "registerBreak": false,
-  "worst": "이 시간 외에 몰래 들어갈 수 있는 이른 아침이나 저녁 시간대는 없습니다.",
-  "at": "2026-08-15T06:07:24.837Z"
- },
- "ko/hong-kong-tim-ho-wan-central": {
-  "hash": "b1f480f84381",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "식당 자체의 방문객 데이터가 명확한 답을 제시합니다: 평일에는 오전 9시부터 오후 9시까지...",
-  "at": "2026-08-15T06:07:23.636Z"
+  "worst": "사진으로 수백 번을 봤다 해도, 란타우의 초록빛 산등성이를 배경으로 한 불상의 압도적인 규모는 실제로 보면 마음을 흔들어놓습니다.",
+  "at": "2026-10-12T09:17:38.549Z"
  },
  "ko/hong-kong-victoria-harbour": {
-  "hash": "5bdaeb13acdf",
+  "hash": "048fc59d52ae",
   "score": 1,
   "registerBreak": false,
-  "worst": "빅토리아 하버는 홍콩 스카이라인이 지금과 같은 모습을 갖게 된 이유 그 자체입니다.",
-  "at": "2026-08-15T08:30:34.068Z"
+  "worst": "방문객들이 가장 많이 하는 실수는 하버를 5분짜리 사진 촬영 장소로만 여기는 것입니다.",
+  "at": "2026-10-12T09:17:47.462Z"
  },
  "ko/hong-kong-victoria-peak-lookout-point": {
-  "hash": "a2df1a7c7f10",
+  "hash": "61a13768a7c4",
   "score": 1,
   "registerBreak": false,
-  "worst": "이곳을 \"공식\" 스카이 테라스 전망대로 오해하는 함정에 빠지지 마세요 — 아닙니다.",
-  "at": "2026-08-15T06:07:29.445Z"
+  "worst": "이곳을 \"공식\" 스카이 테라스 전망대라고 착각하지 마세요. 이곳은 그런 곳이 아니며, 바로 그 점이 매력입니다.",
+  "at": "2026-10-12T09:17:47.609Z"
  },
  "ko/hsinchu-green-world-ecological-farm": {
-  "hash": "02a34133999c",
+  "hash": "e3e6438d511e",
   "score": 1,
   "registerBreak": false,
-  "worst": "주말 오전 10시 이후에 도착해 모든 것을 다 보려는 방문객들은 폐장 직전 마지막 한 시간을 정신없이 보내게 됩니다.",
-  "at": "2026-08-15T06:07:26.997Z"
+  "worst": "신주 지역에서 리뷰가 가장 많이 달린 명소 중 하나로, 그 규모 또한 이름값을 합니다.",
+  "at": "2026-10-12T09:17:51.065Z"
  },
  "ko/hsinchu-hsinchu-zoo": {
-  "hash": "6ad5ebfb2e31",
+  "hash": "8c1bcf240db6",
   "score": 1,
   "registerBreak": false,
-  "worst": "이는 운영시간 대부분을 차지합니다 — 따라서 주말에 방문한다면 오전 9시 개장 시간에 맞춰 도착하는 것이",
-  "at": "2026-08-15T06:07:32.720Z"
+  "worst": "이는 다른 어떤 실수보다도 방문객들이 자주 저지르는 실수입니다.",
+  "at": "2026-10-12T09:17:50.832Z"
  },
  "ko/hua-hin-khao-hin-lek-fai": {
-  "hash": "64eb519a0e0e",
+  "hash": "1e67cda4c0fe",
   "score": 1,
   "registerBreak": false,
-  "worst": "카오 힌 렉 파이는 \"후아힌에서 전망 좋은 곳이 어디냐\"고 물으면 누구나 손꼽는 언덕입니다.",
-  "at": "2026-08-15T06:07:33.821Z"
+  "worst": "아래에서 본 후아힌은 해변도로와 시장 노점들이지만, 정상에서 보면 항구와 지붕들, 언덕을 향해 뻗어나가는 초록빛 풍경까지 도시 전체가 한눈에 펼쳐집니다.",
+  "at": "2026-10-12T09:17:57.239Z"
  },
  "ko/hualien-hualien-cultural-and-creative-industries-park": {
-  "hash": "8ff1e2fe43e3",
+  "hash": "5c004e15f69f",
   "score": 1,
   "registerBreak": false,
   "worst": "그러니 나 혼자만의 공간이 되기를 기대하기보다는, 비결은 비밀스러운 정보가 아니라 방문 타이밍에 있다는 점을 기억해두는 것이 좋습니다.",
-  "at": "2026-08-16T11:01:31.666Z"
+  "at": "2026-10-12T09:17:54.259Z"
  },
  "ko/hualien-hualien-railway-culture-park": {
-  "hash": "151d38d1c0b6",
+  "hash": "2c9ec4d1c04e",
   "score": 1,
   "registerBreak": false,
-  "worst": "처마가 깊게 드리운 나지막한 목조 관사 건물, 붉은 벽돌로 된 기계 공장, 녹슨 회전판(턴테이블)과...",
-  "at": "2026-08-15T06:07:32.149Z"
+  "worst": "이곳은 눈에 띄는 단 하나의 볼거리보다는 공간 전체에 쌓인 분위기 때문에 찾게 되는 곳입니다.",
+  "at": "2026-10-12T09:17:54.380Z"
  },
  "ko/hue-hue-imperial-city": {
-  "hash": "c358bf783965",
+  "hash": "af93a27b2658",
   "score": 1,
   "registerBreak": false,
-  "worst": "베이징 자금성을 다소 참고하되 베트남식 풍수와 규모에 맞춰 조성되었죠.",
-  "at": "2026-08-15T06:07:34.456Z"
+  "worst": "한 변이 약 2km에 달하는 성벽과 해자 안에는 궁전, 왕실 사당, 정원, 그리고 오직 황제와 그 가족, 환관만이 출입할 수 있었던 자금성 유적이 자리하고 있습니다.",
+  "at": "2026-10-12T09:17:57.133Z"
  },
  "ko/hue-maison-trang": {
-  "hash": "ab526af05c77",
+  "hash": "3894d4ae542f",
   "score": 1,
   "registerBreak": false,
-  "worst": "4,300개가 넘는 리뷰에서 4.8점을 받은 것은 규모를 막론하고 어느 식당에나 이례적으로 높은 수치인데...",
-  "at": "2026-08-15T10:31:15.677Z"
+  "worst": "4,300개가 넘는 리뷰에서 4.8점을 받은 것은 규모를 막론하고 어느 식당에나 이례적으로 높은 수치인데",
+  "at": "2026-10-12T09:17:57.185Z"
  },
  "ko/hue-phinholic": {
-  "hash": "2e13ea406179",
+  "hash": "d1b5c662e777",
   "score": 1,
   "registerBreak": false,
-  "worst": "반나절 코스를 짜기에 좋습니다: 오전에는 시타델(Citadel), 한낮에는 핀홀릭에서 휴식...",
-  "at": "2026-08-15T06:07:51.884Z"
+  "worst": "북쪽 강변의 시타델(Citadel) 근처에 머무르고 있다면 짱띠엔교나 푸쑤언교를 건너 남쪽으로 도보 10~15분 정도 더 이동하면 됩니다.",
+  "at": "2026-10-12T09:17:58.693Z"
  },
  "ko/hue-vietnamese-food-hue-local-food-fastfood-22-restaurant-hue": {
-  "hash": "059b2a894655",
+  "hash": "0a34a414e82f",
   "score": 1,
   "registerBreak": false,
-  "worst": "이곳처럼 회전이 빠르고 손님이 많은 식당은 영업 시간 내내 계속 음식을 조리하기 때문에, 신선도와 대기 시간을 생각하면...",
-  "at": "2026-08-15T06:07:36.258Z"
- },
- "ko/hyderabad-chowmahalla-palace": {
-  "hash": "115288682058",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "초우마할라를 찾는 이유는 정문을 들어서는 순간 킬와트 로드의 소음이 거짓말처럼 사라지는 그 순간 때문입니다.",
-  "at": "2026-08-15T06:07:41.343Z"
+  "worst": "리뷰 2,000건 이상에 평점 4.9라는 기록은, 시타델 주변에 관광객 대상 식당이 즐비한 이 도시에서 좀처럼 보기 드문 성과입니다.",
+  "at": "2026-10-12T09:18:00.028Z"
  },
  "ko/hyderabad-golconda-fort": {
-  "hash": "b658b37bb15f",
+  "hash": "21eeac0f8059",
   "score": 1,
   "registerBreak": false,
-  "worst": "골콘다를 부(富)의 대명사로 만든 다이아몬드 무역 — 코이누르(Koh-i-Noor)도 이곳을 거쳐 갔다고 전해집니다 — 을 떠올리면",
-  "at": "2026-08-15T06:08:07.941Z"
+  "worst": "이곳은 늘 하이데라바드에서 가장 많이 찾는 유적지 중 하나로, 좁은 출입구와 계단은 금방 병목현상을 일으킵니다.",
+  "at": "2026-10-12T09:18:00.922Z"
  },
  "ko/ibiza-castle-of-ibiza": {
-  "hash": "e32d938c17fe",
+  "hash": "429b97c5a884",
   "score": 1,
   "registerBreak": false,
-  "worst": "무언가를 눈으로 확인하기도 전에 공기부터 달라지는 것을 느끼게 됩니다.",
-  "at": "2026-08-15T06:07:46.411Z"
+  "worst": "이는 카탈루냐인과 아라곤인, 그리고 이후 해적의 습격에 대비해 요새 전체를 보강한 르네상스 시대 군사 기술자들에 의해 수 세기",
+  "at": "2026-10-12T09:18:07.535Z"
  },
  "ko/ibiza-cova-de-can-marca": {
-  "hash": "aaf4fca3438a",
+  "hash": "16a9c4b00139",
   "score": 1,
   "registerBreak": false,
   "worst": "굽이 평평한 발이 막힌 신발을 신으면 확실히 편합니다.",
-  "at": "2026-08-15T06:07:53.313Z"
+  "at": "2026-10-12T09:18:02.802Z"
  },
  "ko/ibiza-dalt-vila": {
-  "hash": "e8aeeac79d90",
+  "hash": "a51865afdedb",
   "score": 1,
   "registerBreak": false,
-  "worst": "공공 도로로서 하루 24시간 개방되어 있는 만큼, 입장권 없이 언제든 낮이든 밤이든 자유롭게 방문할 수 있습니다.",
-  "at": "2026-09-05T10:46:07.496Z"
- },
- "ko/ibiza-streetxo-ibiza": {
-  "hash": "fab4612bd4ad",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "월드 50 베스트 생태계를 챙겨보거나 스트리트XO의 마드리드나 런던 지점을 방문해본 이들에게는",
-  "at": "2026-08-15T06:08:11.522Z"
+  "worst": "공교롭게도 이 저녁 시간대는 돌담이 가장 따뜻한 빛으로 물드는 시간이기도 하니, 굳이 무언가를 포기하는 선택이 아닙니다.",
+  "at": "2026-10-12T09:18:03.373Z"
  },
  "ko/iloilo-iloilo-city-garden-of-love": {
-  "hash": "8dfc92ed5e1e",
+  "hash": "04507e10afbf",
   "score": 1,
   "registerBreak": false,
-  "worst": "산책로를 따라 걸으며 나무 그늘 아래 벤치를 찾아 소규모 조경을 감상해 보세요.",
-  "at": "2026-08-15T06:07:53.857Z"
+  "worst": "대신 이곳이 주는 것은 숨 돌릴 여유입니다.",
+  "at": "2026-10-12T09:18:11.823Z"
  },
  "ko/iloilo-molo-mansion": {
   "hash": "8133f7d87900",
@@ -33908,11 +33873,11 @@
   "at": "2026-10-12T04:18:28.474Z"
  },
  "es/naoshima-benesse-house-museum": {
-  "hash": "35ae2b74bf09",
-  "score": 0,
+  "hash": "ae761328c6a0",
+  "score": 1,
   "registerBreak": false,
-  "worst": "",
-  "at": "2026-10-12T07:11:07.751Z"
+  "worst": "Según Google, actualmente lo hace todos los días de la semana de 8am–9pm.",
+  "at": "2026-10-12T09:16:51.011Z"
  },
  "es/naoshima-naoshima-island": {
   "hash": "f5a1a53ed7b1",
@@ -33922,18 +33887,18 @@
   "at": "2026-10-12T07:11:08.905Z"
  },
  "es/naoshima-naoshima-new-museum-of-art": {
-  "hash": "a1ddfc04c081",
+  "hash": "84948e1c3f8a",
   "score": 1,
   "registerBreak": false,
-  "worst": "Para quien ya haya contemplado los Monet y el Turrell de Chichu, este museo completa el relato con la otra mitad.",
-  "at": "2026-10-12T07:11:15.308Z"
+  "worst": "Cuidado con el equipaje.",
+  "at": "2026-10-12T09:16:52.107Z"
  },
  "ja/naoshima-benesse-house-museum": {
-  "hash": "d9702e5f63b4",
-  "score": 1,
+  "hash": "a33f6879925d",
+  "score": 0,
   "registerBreak": false,
-  "worst": "現在Googleでは、毎日8am–9pmの開館と掲載されています。",
-  "at": "2026-10-12T07:11:16.447Z"
+  "worst": "",
+  "at": "2026-10-12T09:16:57.107Z"
  },
  "ja/naoshima-naoshima-island": {
   "hash": "f82644f0efd2",
@@ -33943,18 +33908,18 @@
   "at": "2026-10-12T07:11:20.499Z"
  },
  "ja/naoshima-naoshima-new-museum-of-art": {
-  "hash": "e94be490ee14",
+  "hash": "63091fdbbd6e",
   "score": 1,
   "registerBreak": false,
-  "worst": "宮浦港では朝のフェリーがまだ乗客を降ろしている頃なので、そのあいだに集落へ歩いて下っていけます。",
-  "at": "2026-10-12T07:11:21.748Z"
+  "worst": "見終えたら、朝のフェリーがまだ宮浦で乗客を降ろしている頃に、坂を下って集落へ向かえます。",
+  "at": "2026-10-12T09:16:58.421Z"
  },
  "ko/naoshima-benesse-house-museum": {
-  "hash": "2730fa02628b",
-  "score": 0,
+  "hash": "67258d7dd3ee",
+  "score": 1,
   "registerBreak": false,
-  "worst": "",
-  "at": "2026-10-12T07:11:22.765Z"
+  "worst": "안도 다다오는 바다를 내려다보는 비탈에 이 미술관을 앉혔습니다.",
+  "at": "2026-10-12T09:17:03.980Z"
  },
  "ko/naoshima-naoshima-island": {
   "hash": "3415d333b449",
@@ -33964,11 +33929,11 @@
   "at": "2026-10-12T07:11:23.852Z"
  },
  "zh/naoshima-benesse-house-museum": {
-  "hash": "5896bf53b647",
+  "hash": "28a29643be3c",
   "score": 1,
   "registerBreak": false,
-  "worst": "这只是根据渡轮时刻推测出来的，并非实际统计。",
-  "at": "2026-10-12T07:11:25.090Z"
+  "worst": "这只是根据渡轮时刻做出的推测，并非实际统计。",
+  "at": "2026-10-12T09:17:13.512Z"
  },
  "zh/naoshima-naoshima-island": {
   "hash": "20b15ea89913",
@@ -33978,11 +33943,11 @@
   "at": "2026-10-12T07:11:26.138Z"
  },
  "zh/naoshima-naoshima-new-museum-of-art": {
-  "hash": "582b8c9c74b0",
+  "hash": "db790f460fbf",
   "score": 1,
   "registerBreak": false,
-  "worst": "美术馆开馆不久，还没进入多数人首次到访的行程清单，这恰恰是现在就该去的理由。",
-  "at": "2026-10-12T07:11:34.141Z"
+  "worst": "如果你已经在地中美术馆看过莫奈和特瑞尔，那么这里正好补上故事的另一半。",
+  "at": "2026-10-12T09:17:20.758Z"
  },
  "ko/guangzhou-chen-clan-ancestral-hall": {
   "hash": "3d94c5742f6f",
@@ -34544,13 +34509,6 @@
   "worst": "다가가며 바라보는 모나(MONA)는 박물관처럼 보이지 않습니다.",
   "at": "2026-10-12T08:07:56.554Z"
  },
- "ko/hoi-an-central-market-hoi-an": {
-  "hash": "9b61c598dda1",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "리뷰 400개도 안 되는 수에서 나온 거의 완벽한 현지 평점, 그리고 아직 잘 알려지지 않았다는 명성까지 갖춘 이곳은",
-  "at": "2026-10-12T08:07:59.715Z"
- },
  "ko/hoi-an-quan-cong-temple": {
   "hash": "bbe927d9d6eb",
   "score": 1,
@@ -34578,13 +34536,6 @@
   "registerBreak": false,
   "worst": "어디에도 딱히 \"도착\"하지 않은 채로 이동이 이어지는 셈입니다.",
   "at": "2026-10-12T08:08:04.513Z"
- },
- "ko/hong-kong-ankoma": {
-  "hash": "a33a2030cac6",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "지금 앙코마를 특별하게 만드는 것은 바로 타이밍과 이력이 함께 쌓였다는 점입니다.",
-  "at": "2026-10-12T08:08:04.837Z"
  },
  "ko/hong-kong-brunch-club": {
   "hash": "9089169fdccb",
@@ -34621,13 +34572,6 @@
   "worst": "관람객이 돈을 날리는 가장 흔한 경로가 SNS에 올라온 재판매 티켓입니다.",
   "at": "2026-10-12T08:08:12.029Z"
  },
- "ko/hong-kong-il-presidente": {
-  "hash": "07d6ade9d0a0",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "일 프레지덴테는 차가운 거리감을 추구하지 않습니다. 대신 따뜻함과 광택, 그리고 1980년대 이탈리아의 화려함을 향한 윙크를 담아냈습니다.",
-  "at": "2026-10-12T08:08:16.399Z"
- },
  "ko/hong-kong-janice-vidal-out-of-frame-world-tour-hong-kong": {
   "hash": "ff72b1f526ba",
   "score": 1,
@@ -34648,5 +34592,313 @@
   "registerBreak": false,
   "worst": "보르도, 호주, 칠레에서 온 와인 수입업체들이 차슈나 딤섬을 잔 단위로 파는 홍콩 레스토랑 그룹들과 나란히 자리합니다.",
   "at": "2026-10-12T08:08:23.080Z"
+ },
+ "es/teshima-teshima-art-museum": {
+  "hash": "86ec19455284",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "los fines de semana hay mucha gente durante toda la jornada, de 10am a 4pm",
+  "at": "2026-10-12T09:16:56.236Z"
+ },
+ "ja/teshima-teshima-art-museum": {
+  "hash": "05e713d18e8d",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "混雑状況の計測によると、週末は午前10時〜午後4時まで一日中混み合います。",
+  "at": "2026-10-12T09:16:59.508Z"
+ },
+ "ko/naoshima-naoshima-new-museum-of-art": {
+  "hash": "1b858b687ebb",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "건물은 땅 위로 솟지 않도록 경사면에 안기듯 앉아 있습니다.",
+  "at": "2026-10-12T09:17:07.737Z"
+ },
+ "ko/teshima-teshima-art-museum": {
+  "hash": "9fd2b0ed14c7",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "혼잡도 측정 결과를 보면 주말에는 오전 10시부터 오후 4시까지 하루 종일 붐빕니다.",
+  "at": "2026-10-12T09:17:12.325Z"
+ },
+ "zh/teshima-teshima-art-museum": {
+  "hash": "b0751ae24279",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "最好穿一双不怕被人看到的袜子。",
+  "at": "2026-10-12T09:17:24.981Z"
+ },
+ "ko/ho-chi-minh-city-ben-nghe-street-food": {
+  "hash": "e42f968d0356",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "대부분의 손님들처럼 1인당 몇 가지씩 주문해 함께 나눠 드시면 좋습니다.",
+  "at": "2026-10-12T09:17:28.276Z"
+ },
+ "ko/ho-chi-minh-city-la-scene": {
+  "hash": "7d94391ea9eb",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "오전 늦게는 창으로 햇살이 들고 에스프레소 머신이 쉭쉭 소리를 내며, 몇몇 손님은 노트북을 펼쳐 둡니다.",
+  "at": "2026-10-12T09:17:28.422Z"
+ },
+ "ko/hoi-an-nhan-s-kitchen": {
+  "hash": "7acf153fb39a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "특히 호이안에 관광객이 가장 몰리는 건기(2월~7월)에는 더욱 그렇습니다.",
+  "at": "2026-10-12T09:17:29.431Z"
+ },
+ "ko/hong-kong-hong-kong-disneyland": {
+  "hash": "9776b66c8395",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "그래서 개장 시각, 아니 입구가 열리기도 전에 도착하는 것이 가장 좋은 전략입니다.",
+  "at": "2026-10-12T09:17:29.601Z"
+ },
+ "ko/ho-chi-minh-city-nom": {
+  "hash": "5162c1111715",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "남들이 축구 리그 순위표를 챙겨 보듯 미쉐린 셀렉티드 목록을 꼼꼼히 챙겨 보는 진지한 미식가들 사이에서는",
+  "at": "2026-10-12T09:17:30.616Z"
+ },
+ "ko/hong-kong-hong-kong-museum-of-art": {
+  "hash": "13b52b823673",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "목요일에는 문이 아예 열리지 않으니 이날로는 일정을 짜지 마십시오.",
+  "at": "2026-10-12T09:17:30.652Z"
+ },
+ "ko/hong-kong-joji-solaris-tour": {
+  "hash": "7694e50eab19",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "스탠딩 구역이라면 일찍 도착할수록 무대 가까이 설 수 있습니다. 바닥에 경사가 없어 앞사람과 눈높이가 같기 때문입니다.",
+  "at": "2026-10-12T09:17:30.938Z"
+ },
+ "ko/hong-kong-khalid-asia-tour-hong-kong": {
+  "hash": "0d5063903c0a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이 두 곳의 정보를 믿으시면 됩니다.",
+  "at": "2026-10-12T09:17:31.626Z"
+ },
+ "ko/ho-chi-minh-city-hai-s-restaurant": {
+  "hash": "caf8240d3652",
+  "score": 2,
+  "registerBreak": false,
+  "worst": "6:00에서 7:00pm 사이에 도착하면 기다리지 않고 바로 자리를 잡을 수 있고",
+  "at": "2026-10-12T09:17:32.371Z"
+ },
+ "ko/ho-chi-minh-city-yakiuo-ishikawa": {
+  "hash": "a361da04c128",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "모든 연출은 감각을 속이도록 설계되어 있습니다.",
+  "at": "2026-10-12T09:17:34.616Z"
+ },
+ "ko/hong-kong-mamamoo-4ward-tour": {
+  "hash": "1ceae14cbf7f",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "전달받은 정보에 그런 내용이 없었기 때문입니다.",
+  "at": "2026-10-12T09:17:35.607Z"
+ },
+ "ko/hong-kong-nct-127-world-tour-neo-city-the-redline-in-hong-kong": {
+  "hash": "6c37fad8a0ba",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "앙코르가 끝난 뒤 역으로 몰리는 첫 인파를 피하는 팬도 많습니다.",
+  "at": "2026-10-12T09:17:35.774Z"
+ },
+ "ko/hong-kong-mirror-12-as-1-live-2026": {
+  "hash": "9c4b20844256",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "그래서 무대가 얼마나 잘 보이는지는 좌석 배치에 크게 좌우되며, 홍콩 콜리세움에서보다 대형 스크린의 비중이 훨씬 큽니다.",
+  "at": "2026-10-12T09:17:36.564Z"
+ },
+ "ko/hong-kong-prudential-hong-kong-tennis-open": {
+  "hash": "110340df048d",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-12T09:17:36.697Z"
+ },
+ "ko/hong-kong-socio": {
+  "hash": "9bfb9e7901e3",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이 바의 전체 콘셉트가 주변 주방들과의 관계에 달려 있다 보니, 이웃한 가게들은 단순한 배경이 아니라 사실상 공급업체",
+  "at": "2026-10-12T09:17:37.834Z"
+ },
+ "ko/hong-kong-simple-plan-bigger-than-you-think-tour": {
+  "hash": "b1cc32cb7ad1",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "판매처를 직접 검색하기보다는 공식 사이트에서 시간과 티켓 정보를 확인한 뒤 그곳의 링크를 이용하시기 바랍니다.",
+  "at": "2026-10-12T09:17:37.915Z"
+ },
+ "ko/hong-kong-montana": {
+  "hash": "3ad36607fde3",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "바 레오네를 만든 로렌초 안티노리와 시몬 카포랄레 듀오가, 세계 50대 바에 여러 차례 이름을 올린 바르셀로나의 바 립스의 그림자 아래",
+  "at": "2026-10-12T09:17:42.477Z"
+ },
+ "ko/hong-kong-stray-kids-world-tour-run-it-hong-kong": {
+  "hash": "0574d431de44",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "수요가 많은 공연일수록 소셜 미디어에 올라오는 양도 제안은 의심부터 하는 팬이 많습니다.",
+  "at": "2026-10-12T09:17:42.787Z"
+ },
+ "ko/hong-kong-standard-chartered-hong-kong-marathon": {
+  "hash": "e9e82abdf234",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "관람은 무료이고, 대회의 분위기를 만드는 것도 관중입니다.",
+  "at": "2026-10-12T09:17:43.375Z"
+ },
+ "ko/hong-kong-the-weeknd-after-hours-til-dawn-tour": {
+  "hash": "c44ba50b53be",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "개폐식 지붕을 갖춘 원형 경기장 구조로 이 정도 규모의 콘서트라면 수만 명을 수용할 수 있으며",
+  "at": "2026-10-12T09:17:46.292Z"
+ },
+ "ko/hong-kong-terrace-boulud": {
+  "hash": "e51d0a4904b9",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이곳의 성격은 위치가 거의 다 결정합니다.",
+  "at": "2026-10-12T09:17:46.349Z"
+ },
+ "ko/hong-kong-vaundy-asia-arena-tour-horo-in-hong-kong": {
+  "hash": "c6cbce5ddcf6",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이러한 세부 정보는 주최사와 예매처가 티켓 소지자에게 안내하는 부분이었습니다.",
+  "at": "2026-10-12T09:17:49.657Z"
+ },
+ "ko/hong-kong-tanaka": {
+  "hash": "46987c6781fa",
+  "score": 2,
+  "registerBreak": false,
+  "worst": "처녀 암소 일본 흑우에서 나오는 마쓰사카 규, 단 하나의 식재료를 중심으로 만들어진 식당입니다.",
+  "at": "2026-10-12T09:17:50.158Z"
+ },
+ "ko/hsinchu-leofoo-village-theme-park": {
+  "hash": "2a757509970c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이곳은 야시장처럼 현지인들이 자신만의 아지트로 여기는 곳이 아니어서, 특별한 뒷길이나 요령 같은 것은 없습니다.",
+  "at": "2026-10-12T09:17:51.468Z"
+ },
+ "ko/honolulu-aloha-festivals": {
+  "hash": "1a22241c88dd",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "시끌벅적하고 색채가 넘치며, 관광객을 위해 연출한 루아우와는 확연히 다른 진짜 현지 축제입니다.",
+  "at": "2026-10-12T09:17:51.938Z"
+ },
+ "ko/hua-hin-hua-hin-night-market": {
+  "hash": "a87962deb5fe",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이 시간대에는 통로가 어깨를 부딪힐 정도로 꽉 차고, 좋은 해산물 좌석도 금세 다 차버립니다.",
+  "at": "2026-10-12T09:17:52.078Z"
+ },
+ "ko/hua-hin-khao-sam-roi-yot-national-park": {
+  "hash": "803bfc1e34e1",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "입구까지 바로 데려다주는 대중버스는 없어서, 대부분 방문객은 차를 렌트하거나 투어에 참여하거나...",
+  "at": "2026-10-12T09:17:52.281Z"
+ },
+ "ko/hua-hin-mrigadayavan-palace": {
+  "hash": "d762b3411b00",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "건물 안에서는 신발을 벗어야 하지만, 건물 사이 통로는 고르지 않은 자갈과 나무뿌리로 덮여 있으니 걸을 때는 발이 잘 감싸지는 신발을 신으시기 바랍니다.",
+  "at": "2026-10-12T09:17:52.933Z"
+ },
+ "ko/hua-hin-rajabhakti-park": {
+  "hash": "4611f6bb357c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "목덜미로 느껴지는 \"작은 역사 수업\" 같은 느낌을 줍니다.",
+  "at": "2026-10-12T09:17:53.091Z"
+ },
+ "ko/hua-hin-wat-hua-hin": {
+  "hash": "a5b4ea3710a8",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "리뷰 천 건이 훌쩍 넘는 수에서 나온 4.5점이라는 평점을 보면 왓 후아힌은 평가가 좋은 곳이지만",
+  "at": "2026-10-12T09:17:53.586Z"
+ },
+ "ko/hue-an-dinh-palace": {
+  "hash": "572195ef6d4f",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "한적한 방을 만나려면 숨은 명소를 찾기보다 시간을 잘 맞추셔야 합니다.",
+  "at": "2026-10-12T09:17:54.753Z"
+ },
+ "ko/hue-hong-kong-open-badminton-note-vietnam-international-series": {
+  "hash": "f8cc443a261e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "확인된 정보에 따르면 대회 장소는 후에 시내이지만, 구체적인 경기장 이름은 나와 있지 않습니다.",
+  "at": "2026-10-12T09:17:55.617Z"
+ },
+ "ko/hue-dong-ba-market": {
+  "hash": "d60dfa224237",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "상인들이 아직 농산물을 진열하고 있고 통로도 더 넓은 개장 직후에 방문하면, 북적이는 모습이 아니라 실제로 돌아가는 시장의 모습을 볼 수 있는 가장 좋은 방법입니다.",
+  "at": "2026-10-12T09:17:55.846Z"
+ },
+ "ko/hualien-farglory-ocean-park": {
+  "hash": "2d6bd208649c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "관건은 방문 시각이 아니라 어떤 요일을 고르느냐입니다.",
+  "at": "2026-10-12T09:17:58.287Z"
+ },
+ "ko/hyderabad-charminar-market": {
+  "hash": "85ffe7f9e444",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "유동 인구 데이터를 보면 주말에는 오전 9시부터 오후 7시 사이가 가장 한산합니다.",
+  "at": "2026-10-12T09:17:59.484Z"
+ },
+ "ko/hyderabad-purani-haveli": {
+  "hash": "c45137f3dcbb",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "무굴 양식의 아치와 층층이 솟은 첨탑이 즐비한 이 동네에서 유럽풍 외관을 마주하게 될 줄은 아무도 예상하지 못할 것입니다.",
+  "at": "2026-10-12T09:18:01.412Z"
+ },
+ "ko/hue-thien-mu-pagoda": {
+  "hash": "3238cc5603a1",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "종루: 강 몇 마일 밖에서도 들린다는 커다란 청동 종이 걸려 있습니다",
+  "at": "2026-10-12T09:18:01.925Z"
+ },
+ "ko/hue-hue-festival-2026-autumn-festival": {
+  "hash": "8152ef2d1e21",
+  "score": 2,
+  "registerBreak": false,
+  "worst": "이 축제를 주말 한 번의 큰 행사로 여기는 사람이 많지만, 가장 흔한 오해입니다.",
+  "at": "2026-10-12T09:18:02.444Z"
+ },
+ "ko/ibiza-las-dalias-de-ibiza": {
+  "hash": "19f54848a173",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "손님들이 바르셀로나에서 오는 배를 타고 기타를 메고 오던 시절은 지났고 지금은 대부분 렌터카를 타고 오지만",
+  "at": "2026-10-12T09:18:03.707Z"
  }
 }

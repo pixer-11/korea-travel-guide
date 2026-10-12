@@ -26030,6 +26030,12 @@
   "reason": "publish gate: Shows temple building with mountains, matches Terelj location",
   "at": "2026-10-11T14:24:51.840Z"
  },
+ "terelj-mongolian-military-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Mongolian_Military_Museum.jpg/1920px-Mongolian_Military_Museum.jpg": {
+  "slug": "terelj-mongolian-military-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of Mongolian Military Museum building with signage",
+  "at": "2026-10-12T09:12:06.077Z"
+ },
  "termez-eco-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Eco_Park_in_Tashkent.jpg/3840px-Eco_Park_in_Tashkent.jpg": {
   "slug": "termez-eco-park",
   "verdict": "MATCH",
@@ -27158,6 +27164,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Aerial view of Sükhbaatar Square with city backdrop",
   "at": "2026-10-11T14:24:51.817Z"
+ },
+ "ulaanbaatar-ulaanbaatar-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/National_Garden_Park_%28Ulaanbaatar%29_2.jpg/3840px-National_Garden_Park_%28Ulaanbaatar%29_2.jpg": {
+  "slug": "ulaanbaatar-ulaanbaatar-park",
+  "verdict": "MATCH",
+  "reason": "publish gate: Representative playground park scene, plausible for Ulaanbaatar park",
+  "at": "2026-10-12T09:46:56.383Z"
  },
  "ulaanbaatar-zanabazar-museum-of-fine-arts\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/The_Fine_Arts_Zanabazar_Museum.jpg/1920px-The_Fine_Arts_Zanabazar_Museum.jpg": {
   "slug": "ulaanbaatar-zanabazar-museum-of-fine-arts",
