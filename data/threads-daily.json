@@ -82,29 +82,30 @@
     "chamonix-parc-de-merlet",
     "berlin-neues-museum",
     "washington-dc-lincoln-memorial",
-    "madrid-puerta-de-alcala"
+    "madrid-puerta-de-alcala",
+    "mong-kok-dim-dim-sum-mong-kok"
   ],
-  "lastSentDay": "2026-10-12",
+  "lastSentDay": "2026-10-13",
   "material": {
-    "day": "2026-10-12",
-    "slug": "madrid-puerta-de-alcala",
-    "title": "Puerta de Alcalá: Madrid Travel Guide (4.7★)",
+    "day": "2026-10-13",
+    "slug": "mong-kok-dim-dim-sum-mong-kok",
+    "title": "Dim Dim Sum: Where to Eat in Mong Kok (4.0★)",
     "urls": [
-      "https://wanderatlasguides.com/og/social/2026-10-12-madrid-puerta-de-alcala-1.jpg",
-      "https://wanderatlasguides.com/og/social/2026-10-12-madrid-puerta-de-alcala-2.jpg",
-      "https://wanderatlasguides.com/og/social/2026-10-12-madrid-puerta-de-alcala-3.jpg",
-      "https://wanderatlasguides.com/og/social/2026-10-12-madrid-puerta-de-alcala-4.jpg"
+      "https://wanderatlasguides.com/og/social/2026-10-13-mong-kok-dim-dim-sum-mong-kok-1.jpg",
+      "https://wanderatlasguides.com/og/social/2026-10-13-mong-kok-dim-dim-sum-mong-kok-2.jpg",
+      "https://wanderatlasguides.com/og/social/2026-10-13-mong-kok-dim-dim-sum-mong-kok-3.jpg",
+      "https://wanderatlasguides.com/og/social/2026-10-13-mong-kok-dim-dim-sum-mong-kok-4.jpg"
     ],
-    "igCaption": "Granite below, limestone above, lion heads and cherubs carved into the stone — Madrid's Puerta de Alcalá has been watching traffic circle since 1778. Come early, skip the weekend crowds, and don't forget the song everyone in Madrid knows by heart.\n\n#PuertadeAlcala #Madrid #Spain #travelguide #travel #wanderatlas #PuertaDeAlcala #TravelGuide #RetiroPark #CityLandmarks\n📷 Photo: Fernando Pascullo / Wikimedia Commons (CC BY-SA 4.0)\n📷 Photo: Carlos Delgado / Wikimedia Commons (CC BY-SA 3.0)",
-    "thOption": "There's a 1986 song so famous that Spaniards still hum it when you mention this gate. Have you ever had a place's theme song stuck in your head before visiting?",
-    "link": "https://wanderatlasguides.com/posts/madrid-puerta-de-alcala/"
+    "igCaption": "Mong Kok's Dim Dim Sum skips the trolley-cart tradition for a fast, checklist-order dim sum spot open 10am to midnight daily. Shrimp dumplings, char siu polo buns, and egg tarts await — just don't over-order on the first round.\n\n#DimDimSumMongKok #MongKok #HongKong #foodie #travel #wanderatlas #DimSum #FoodTravel #HongKongEats #TravelGuide\n📷 Photo: FHSING MAgasdk / Wikimedia Commons (CC0)\n📷 Photo: Kaims GUW Huamf 2928 / Wikimedia Commons (CC BY-SA 4.0)",
+    "thOption": "Dim Dim Sum hands you a paper checklist and pencil instead of a waiter — would you rather tick boxes for speed or wait for someone to take your order?",
+    "link": "https://wanderatlasguides.com/posts/mong-kok-dim-dim-sum-mong-kok/"
   },
   "social": {
-    "thDay": "2026-10-12",
-    "thId": "17960666847233635",
+    "thDay": "2026-10-13",
+    "thId": "18107715131186745",
     "igDay": "2026-10-12",
     "igId": "17879712945553425",
-    "thSlug": "madrid-puerta-de-alcala",
+    "thSlug": "mong-kok-dim-dim-sum-mong-kok",
     "igSlug": "madrid-puerta-de-alcala",
     "history": [
       {
@@ -122,6 +123,11 @@
         "slug": "madrid-puerta-de-alcala",
         "thId": "17960666847233635",
         "igId": "17879712945553425"
+      },
+      {
+        "day": "2026-10-13",
+        "slug": "mong-kok-dim-dim-sum-mong-kok",
+        "thId": "18107715131186745"
       }
     ]
   }
