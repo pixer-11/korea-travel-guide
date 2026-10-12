@@ -13,7 +13,6 @@ eventPerformer:
   name: TAEMIN
   kind: person
 eventFactsAsked: true
-gallery: []
 tags:
   - berlin
   - event
@@ -31,6 +30,16 @@ faq:
     a: Mercedes-Platz has restaurants, bars and a cinema right by the venue. The East Side Gallery stretch of the Berlin Wall and the Oberbaum Bridge are a few minutes' walk away.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/3/39/Taemin_at_Dream_Concert_2015_06.jpg
+  credit: 'Photo: 위드태민::WithTaemin随行 / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Taemin_at_Dream_Concert_2015_06.jpg
+  focus:
+    x: 57
+    'y': 22
+    top: 0
+    bottom: 44
 ---
 
 ## A dance-heavy solo show on Mercedes-Platz

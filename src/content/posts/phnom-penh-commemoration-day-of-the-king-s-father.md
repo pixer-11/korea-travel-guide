@@ -12,6 +12,14 @@ eventOffers:
   free: true
   currency: KHR
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/2016_Phnom_Penh%2C_Wat_Phnom_%2807%29.jpg/3840px-2016_Phnom_Penh%2C_Wat_Phnom_%2807%29.jpg'
+  credit: 'Photo: Marcin Konsek / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:2016_Phnom_Penh,_Wat_Phnom_(07).jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - phnom penh

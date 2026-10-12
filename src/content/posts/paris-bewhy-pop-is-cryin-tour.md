@@ -13,7 +13,6 @@ eventPerformer:
   name: BewhY
   kind: person
 eventFactsAsked: true
-gallery: []
 tags:
   - paris
   - event
@@ -31,6 +30,16 @@ faq:
     a: Rue Oberkampf and rue Jean-Pierre Timbaud are packed with bars and cheap places to eat. The Cirque d'Hiver is two minutes away, and Canal Saint-Martin is about a fifteen-minute walk north.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/d/d3/170722_Bewhy_%EB%B9%84%EC%99%80%EC%9D%B4_02.jpg
+  credit: 'Photo: photomami / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:170722_Bewhy_%EB%B9%84%EC%99%80%EC%9D%B4_02.jpg
+  focus:
+    x: 46
+    'y': 19
+    top: 7
+    bottom: 30
 ---
 
 ## A Korean rapper under a pagoda roof

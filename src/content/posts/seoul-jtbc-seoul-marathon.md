@@ -13,7 +13,6 @@ eventOrganizer:
   name: JTBC
   url: http://marathon.jtbc.com/
 eventFactsAsked: true
-gallery: []
 tags:
   - seoul
   - event
@@ -31,6 +30,14 @@ faq:
     a: Mostly by Seoul Metro. Roads along the course close for several hours, but the subway runs as usual. Supporters often ride between two or three cheering points with a T-money card.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/5/5b/Korea-Seoul_International_Marathon-03.jpg
+  credit: 'Photo: hojusaram / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Korea-Seoul_International_Marathon-03.jpg
+  focus:
+    x: 60
+    'y': 50
 ---
 
 ## A Sunday morning when Seoul gives up its roads

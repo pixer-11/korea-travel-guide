@@ -13,6 +13,14 @@ eventOrganizer:
   name: Matchroom Sport
   url: https://matchroom.com/
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/ISKCON_Temple._Leicester._Formerly_HSBC_%26_Midland_Bank.jpg/1280px-ISKCON_Temple._Leicester._Formerly_HSBC_%26_Midland_Bank.jpg'
+  credit: 'Photo: Anne and David (Public domain)'
+  license: wikimedia
+  source: 'File:ISKCON Temple. Leicester. Formerly HSBC & Midland Bank.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - leicester

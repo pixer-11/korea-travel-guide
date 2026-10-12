@@ -12,6 +12,14 @@ eventOrganizer:
   name: Badminton World Federation
   url: https://corporate.bwfbadminton.com
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/1_taipei_sunrise_panorama_dxr_edit_pangen_141215_1.jpg/3840px-1_taipei_sunrise_panorama_dxr_edit_pangen_141215_1.jpg'
+  credit: 'Photo: Chensiyuan, edit by DXR / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:1_taipei_sunrise_panorama_dxr_edit_pangen_141215_1.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - taipei

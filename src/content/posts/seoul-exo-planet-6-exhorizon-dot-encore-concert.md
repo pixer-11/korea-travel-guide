@@ -16,7 +16,6 @@ eventPerformer:
   name: EXO
   kind: group
 eventFactsAsked: true
-gallery: []
 tags:
   - seoul
   - event
@@ -34,6 +33,16 @@ faq:
     a: Recording is normally prohibited at Korean concerts, and staff patrol the aisles to stop it. Fans mostly keep their phones away and focus on lightsticks and fanchants.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/e/e2/Chanyeol_during_the_Exo_Planet_5_%E2%80%93_Exploration_concert_on_December_2019_%282%29.jpg
+  credit: 'Photo: ggbye1127 / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Chanyeol_during_the_Exo_Planet_5_%E2%80%93_Exploration_concert_on_December_2019_(2).jpg
+  focus:
+    x: 40
+    'y': 26
+    top: 5
+    bottom: 47
 ---
 
 ## Three nights under the Olympic dome

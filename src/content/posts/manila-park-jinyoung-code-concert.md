@@ -13,6 +13,14 @@ eventPerformer:
   name: Park Jinyoung
   kind: person
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Museo_de_la_iglesia_de_San_Agust%C3%ADn%2C_Manila%2C_Filipinas%2C_2023-08-27%2C_DD_91-93_HDR.jpg/3840px-Museo_de_la_iglesia_de_San_Agust%C3%ADn%2C_Manila%2C_Filipinas%2C_2023-08-27%2C_DD_91-93_HDR.jpg'
+  credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Museo_de_la_iglesia_de_San_Agust%C3%ADn,_Manila,_Filipinas,_2023-08-27,_DD_91-93_HDR.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - manila

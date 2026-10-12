@@ -13,7 +13,6 @@ eventPerformer:
   name: Janice Vidal
   kind: person
 eventFactsAsked: true
-gallery: []
 tags:
   - hong kong
   - event
@@ -31,6 +30,14 @@ faq:
     a: Hung Hom's side streets have plenty of local cafés and noodle shops. Whampoa, one stop away on the Tuen Ma Line, is another popular pre-show dining area.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/e/eb/Hong_Kong_Coliseum_2008.jpg
+  credit: 'Photo: Baycrest / Wikimedia Commons (CC BY-SA 2.5)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Hong_Kong_Coliseum_2008.jpg
+  focus:
+    x: 50
+    'y': 45
 ---
 
 ## Three nights, one round room

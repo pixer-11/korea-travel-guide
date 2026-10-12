@@ -12,6 +12,14 @@ eventOrganizer:
   name: World Table Tennis
   url: https://worldtabletennis.com
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Skyline_Frankfurt_am_Main_2015.jpg/3840px-Skyline_Frankfurt_am_Main_2015.jpg'
+  credit: 'Photo: Christian Wolf (www.c-w-design.de) / Wikimedia Commons (CC BY-SA 3.0 de)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Skyline_Frankfurt_am_Main_2015.jpg'
+  focus:
+    x: 50
+    y: 40
 gallery: []
 tags:
   - frankfurt

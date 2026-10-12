@@ -60,7 +60,7 @@ Traffic converges hard on race mornings, since the road network into the circuit
 
 ## What race weekend actually looks like
 
-Friday and Saturday bring free practice and qualifying sessions across the Moto3, Moto2, and MotoGP classes, plus support races that keep the grandstands busy from morning through late afternoon. Sunday is race day, with the feature MotoGP race typically run in the afternoon to avoid the worst of the midday heat.
+A race weekend here typically brings free practice and qualifying sessions across the Moto3, Moto2, and MotoGP classes on Friday and Saturday, plus support races that keep the grandstands busy from morning through late afternoon. Sunday is race day, with the feature MotoGP race usually held in the afternoon to avoid the worst of the midday heat.
 
 Tropical heat and humidity are normal even in October. This is the dry season on Lombok, but the sun over an open grandstand is intense by midday. Covered grandstand sections typically sell out fastest for exactly this reason.
 

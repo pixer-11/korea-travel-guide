@@ -34,15 +34,15 @@ aiGenerated: true
 draft: true
 heldFinal: 'duplicate of mandalika-pertamina-grand-prix-of-indonesia-motogp-mandalika: the same race at the Mandalika circuit, filed under Lombok. Retired 2026-10-05, its URL 301s to the kept twin.'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/e/ee/Vladimir_leonov_motogp.jpg
-  credit: 'Photo: Motonews / Wikimedia Commons (CC BY-SA 3.0)'
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Alvaro_Bautista-motogp-2015.JPG/3840px-Alvaro_Bautista-motogp-2015.JPG
+  credit: 'Photo: Alberto-g-rovi / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Vladimir_leonov_motogp.jpg
+  source: https://commons.wikimedia.org/wiki/File:Alvaro_Bautista-motogp-2015.JPG
   focus:
-    x: 54
-    'y': 40
-    top: 32
-    bottom: 47
+    x: 50
+    'y': 25
+    top: 17
+    bottom: 33
 ---
 
 ## A street-style track beside the sea

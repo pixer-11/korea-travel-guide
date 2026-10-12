@@ -2553,50 +2553,50 @@
  "queue": {
   "abu-dhabi-art-house-cafe": {
    "width": 1080,
-   "attempts": 10,
-   "nextTry": "2026-10-12",
+   "attempts": 11,
+   "nextTry": "2026-10-19",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "ajman-souryana-restaurant-and-cafe": {
    "width": 1100,
-   "attempts": 10,
-   "nextTry": "2026-10-12",
+   "attempts": 11,
+   "nextTry": "2026-10-19",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "goa-fort-aguada": {
    "width": 960,
-   "attempts": 10,
-   "nextTry": "2026-10-12",
+   "attempts": 11,
+   "nextTry": "2026-10-19",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "hue-maison-trang": {
    "width": 1080,
-   "attempts": 10,
-   "nextTry": "2026-10-12",
+   "attempts": 11,
+   "nextTry": "2026-10-19",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "jeonju-jeonju-hanok-village-cafe-masirange": {
    "width": 1080,
-   "attempts": 10,
-   "nextTry": "2026-10-12",
+   "attempts": 11,
+   "nextTry": "2026-10-19",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "phuket-day-night-of-phuket": {
    "width": 1080,
-   "attempts": 10,
-   "nextTry": "2026-10-12",
+   "attempts": 11,
+   "nextTry": "2026-10-19",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "provence-lavender-sunflower-field": {
    "width": 1080,
-   "attempts": 10,
-   "nextTry": "2026-10-12",
+   "attempts": 11,
+   "nextTry": "2026-10-19",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
@@ -2609,8 +2609,8 @@
   },
   "el-nido-taraw-cliff": {
    "width": 960,
-   "attempts": 9,
-   "nextTry": "2026-10-12",
+   "attempts": 10,
+   "nextTry": "2026-10-19",
    "flaggedAt": "2026-08-10",
    "lastResult": "no-wider"
   },

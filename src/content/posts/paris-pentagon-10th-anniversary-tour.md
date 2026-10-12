@@ -13,6 +13,14 @@ eventPerformer:
   name: Pentagon
   kind: group
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Paris_Night.jpg/3840px-Paris_Night.jpg'
+  credit: 'Photo: Benh LIEU SONG / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Paris_Night.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - paris

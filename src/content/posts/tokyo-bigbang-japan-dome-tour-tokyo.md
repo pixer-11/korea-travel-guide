@@ -13,7 +13,6 @@ eventPerformer:
   name: BIGBANG
   kind: group
 eventFactsAsked: true
-gallery: []
 tags:
   - tokyo
   - event
@@ -31,6 +30,16 @@ faq:
     a: Tokyo Dome Hotel is next to the venue. Iidabashi, Ochanomizu and Jimbocho are short rides away, and many K-pop fans stay near Shin-Okubo, Tokyo's Koreatown on the JR Yamanote Line.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/4/47/%C3%98ystein_Greni_Bigbang_EnergiM%C3%B8lla.jpg
+  credit: 'Photo: Jose Sa / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:%C3%98ystein_Greni_Bigbang_EnergiM%C3%B8lla.jpg
+  focus:
+    x: 52
+    'y': 26
+    top: 20
+    bottom: 32
 ---
 
 ## Three nights under the Big Egg

@@ -5982,5 +5982,109 @@
    "x": 50,
    "y": 50
   }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Artificial_Archipelagos%2C_Dubai%2C_United_Arab_Emirates_ISS022-E-024940_lrg.jpg/3840px-Artificial_Archipelagos%2C_Dubai%2C_United_Arab_Emirates_ISS022-E-024940_lrg.jpg": {
+  "w": 3840,
+  "h": 2550,
+  "focus": {
+   "x": 25,
+   "y": 25
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Skyline_Frankfurt_am_Main_2015.jpg/3840px-Skyline_Frankfurt_am_Main_2015.jpg": {
+  "w": 3840,
+  "h": 2698,
+  "focus": {
+   "x": 50,
+   "y": 40
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/2/23/Hanoi_Vietnam_Mausoleum-of-Ho-Chi-Minh-03.jpg": {
+  "w": 3349,
+  "h": 2233,
+  "focus": {
+   "x": 50,
+   "y": 40
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Panoramic_view_of_Istanbul-_Yeni_Cami_%28The_New_Mosque%29%2C_Galata_Bridge._Turkey%2C_Southeastern_Europe.jpg/3840px-Panoramic_view_of_Istanbul-_Yeni_Cami_%28The_New_Mosque%29%2C_Galata_Bridge._Turkey%2C_Southeastern_Europe.jpg": {
+  "w": 3840,
+  "h": 1713,
+  "focus": {
+   "x": 65,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/ISKCON_Temple._Leicester._Formerly_HSBC_%26_Midland_Bank.jpg/1280px-ISKCON_Temple._Leicester._Formerly_HSBC_%26_Midland_Bank.jpg": {
+  "w": 1280,
+  "h": 853,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Macau_Night_1.jpg/3840px-Macau_Night_1.jpg": {
+  "w": 3840,
+  "h": 2302,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Museo_de_la_iglesia_de_San_Agust%C3%ADn%2C_Manila%2C_Filipinas%2C_2023-08-27%2C_DD_91-93_HDR.jpg/3840px-Museo_de_la_iglesia_de_San_Agust%C3%ADn%2C_Manila%2C_Filipinas%2C_2023-08-27%2C_DD_91-93_HDR.jpg": {
+  "w": 3840,
+  "h": 2850,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/1/10/Milano%2C_Duomo_with_Milan_Cathedral_and_Galleria_Vittorio_Emanuele_II%2C_2016.jpg": {
+  "w": 3048,
+  "h": 1786,
+  "focus": {
+   "x": 65,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Paris_Night.jpg/3840px-Paris_Night.jpg": {
+  "w": 3840,
+  "h": 1212,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/2016_Phnom_Penh%2C_Wat_Phnom_%2807%29.jpg/3840px-2016_Phnom_Penh%2C_Wat_Phnom_%2807%29.jpg": {
+  "w": 3840,
+  "h": 2801,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/1_taipei_sunrise_panorama_dxr_edit_pangen_141215_1.jpg/3840px-1_taipei_sunrise_panorama_dxr_edit_pangen_141215_1.jpg": {
+  "w": 3840,
+  "h": 2166,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/View_of_Ulaanbaatar_02.jpg/3840px-View_of_Ulaanbaatar_02.jpg": {
+  "w": 3840,
+  "h": 2204,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/2/20/View_of_Ulaanbaatar_03.jpg": {
+  "w": 3664,
+  "h": 2228,
+  "focus": {
+   "x": 50,
+   "y": 40
+  }
  }
 }

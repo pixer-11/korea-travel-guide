@@ -5,7 +5,6 @@ country: Spain
 region: Barcelona
 category: trendy
 pubDate: '2026-09-09'
-gallery: []
 tags:
   - barcelona
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What are Superauto's opening hours?
     a: Not fixed here since it's a new opening; check their official hours and days of service before you go, as all-day concepts can still vary by weekday.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/1406284961__sjpTu64E9ZMkKcgZyGaHbNY9tiwrL33uW8_GzMAzLI.jpg
+  credit: 'Photo: Foursquare user content (Superauto)'
+  license: foursquare
+  source: https://foursquare.com/v/69bda11f492d146f616f626d
+  focus:
+    x: 55
+    'y': 35
 ---
 
 ## What Superauto actually is

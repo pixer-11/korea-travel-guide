@@ -15,6 +15,14 @@ eventPerformer:
   name: PLAVE
   kind: group
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Macau_Night_1.jpg/3840px-Macau_Night_1.jpg'
+  credit: 'Photo: Philip Nalangan / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Macau_Night_1.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - macau

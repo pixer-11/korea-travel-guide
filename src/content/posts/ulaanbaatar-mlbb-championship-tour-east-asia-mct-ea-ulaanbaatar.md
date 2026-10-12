@@ -12,6 +12,14 @@ eventOrganizer:
   name: MOONTON Games
   url: https://www.moonton.com
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/View_of_Ulaanbaatar_02.jpg/3840px-View_of_Ulaanbaatar_02.jpg'
+  credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:View_of_Ulaanbaatar_02.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - ulaanbaatar

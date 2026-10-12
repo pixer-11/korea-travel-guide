@@ -16,16 +16,15 @@ eventPerformer:
   kind: person
 eventFactsAsked: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/2/2d/So_Ji-sub_at_2011_Busan_International_Film_Festival.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/2011%EB%B6%80%EC%82%B0%EA%B5%AD%EC%A0%9C%EC%98%81%ED%99%94%EC%A0%9C_-_%EC%86%8C%EC%A7%80%EC%84%AD%2C%ED%95%9C%ED%9A%A8%EC%A3%BC_%281%29.jpg/3840px-2011%EB%B6%80%EC%82%B0%EA%B5%AD%EC%A0%9C%EC%98%81%ED%99%94%EC%A0%9C_-_%EC%86%8C%EC%A7%80%EC%84%AD%2C%ED%95%9C%ED%9A%A8%EC%A3%BC_%281%29.jpg
   credit: 'Photo: 4season_santa / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:So_Ji-sub_at_2011_Busan_International_Film_Festival.jpg
+  source: https://commons.wikimedia.org/wiki/File:2011%EB%B6%80%EC%82%B0%EA%B5%AD%EC%A0%9C%EC%98%81%ED%99%94%EC%A0%9C_-_%EC%86%8C%EC%A7%80%EC%84%AD,%ED%95%9C%ED%9A%A8%EC%A3%BC_(1).jpg
   focus:
-    x: 32
-    'y': 19
-    top: 6
-    bottom: 32
-gallery: []
+    x: 21
+    'y': 26
+    top: 18
+    bottom: 33
 tags:
   - macau
   - event
@@ -42,8 +41,6 @@ faq:
   - q: Where do fans usually stay?
     a: Many stay at The Londoner or at the linked Cotai resorts, such as The Venetian and The Parisian, so they can walk back to their room indoors after the show without queuing for a taxi.
 aiGenerated: true
-draft: true
-heldReason: wrong-venue-photo
 ---
 
 ## Saturday night under a fake Big Ben

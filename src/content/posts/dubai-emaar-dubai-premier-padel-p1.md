@@ -12,6 +12,14 @@ eventOrganizer:
   name: Premier Padel
   url: https://premierpadel.com
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Artificial_Archipelagos%2C_Dubai%2C_United_Arab_Emirates_ISS022-E-024940_lrg.jpg/3840px-Artificial_Archipelagos%2C_Dubai%2C_United_Arab_Emirates_ISS022-E-024940_lrg.jpg'
+  credit: 'Photo: Member of the Expedition 22 crew. / Wikimedia Commons (Public domain)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Artificial_Archipelagos,_Dubai,_United_Arab_Emirates_ISS022-E-024940_lrg.jpg'
+  focus:
+    x: 25
+    y: 25
 gallery: []
 tags:
   - dubai

@@ -70,7 +70,7 @@ Many fans spend practice days walking the circuit, then settle in one place for 
 
 Bathurst is in the Central Tablelands, roughly 200 kilometres west of Sydney. The usual drive is the Great Western Highway over the Blue Mountains, through Katoomba and Lithgow. It takes about three hours on a normal day.
 
-Race week is not a normal day. Thousands of cars, caravans and trailers head the same way on the days before the event. Leaving Sydney midweek, early in the morning, usually beats the Friday rush.
+Race week is not a normal day. Thousands of cars, caravans and trailers usually head the same way on the days before the event. Leaving Sydney midweek, early in the morning, usually beats the Friday rush.
 
 NSW TrainLink runs rail and coach services from Sydney to Bathurst. In town, the circuit sits on the south-western edge, close enough to the centre that many visitors walk or use event shuttles.
 

@@ -13,6 +13,14 @@ eventOrganizer:
   name: Chinggis Khaan National Museum
   url: https://chinggismuseum.com/en
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/2/20/View_of_Ulaanbaatar_03.jpg'
+  credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:View_of_Ulaanbaatar_03.jpg'
+  focus:
+    x: 50
+    y: 40
 gallery: []
 tags:
   - ulaanbaatar

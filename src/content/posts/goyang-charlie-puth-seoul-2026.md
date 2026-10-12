@@ -51,7 +51,7 @@ Set times, gates, ticket tiers and any support acts were not part of the announc
 
 ## Getting to Goyang Stadium
 
-Goyang sits northwest of central Seoul, in Gyeonggi Province, and is best known to visitors for Ilsan Lake Park and the Kintex convention halls rather than as a nightlife district. That makes it a stadium-show town: people arrive, watch the concert, and head back toward Seoul.
+Goyang sits northwest of central Seoul, in Gyeonggi Province. Visitors know it best for Ilsan Lake Park and the Kintex convention halls rather than as a nightlife district. That makes it a stadium-show town: people come in, watch the concert, and head back toward Seoul.
 
 The city is connected to the Seoul subway network, so most international fans stay in Seoul (Hongdae, Myeongdong or the Hongik University area are common choices) and travel out for the night. Depending on where the stadium gates and shuttle points are set up, the trip takes 45 minutes to an hour each way from central Seoul stations.
 

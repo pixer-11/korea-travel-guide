@@ -15,7 +15,6 @@ eventPerformer:
   name: wave to earth
   kind: group
 eventFactsAsked: true
-gallery: []
 tags:
   - singapore
   - event
@@ -33,6 +32,14 @@ faq:
     a: Kallang Wave Mall is part of the Sports Hub and has a food court and casual restaurants. Old Airport Road Food Centre, a well-known hawker centre, is a short taxi ride east.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/5/52/Singapore_Indoor_Stadium.jpg
+  credit: 'Photo: Exec8 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Singapore_Indoor_Stadium.jpg
+  focus:
+    x: 50
+    'y': 55
 ---
 
 ## One night in Kallang

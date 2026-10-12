@@ -59,7 +59,7 @@ En los puestos de comida se pagaba casi siempre con tarjeta, y los terminales co
 
 ## Alrededores de Gapyeong entre concierto y concierto
 
-La isla está muy cerca de algunos de los lugares más visitados de Gyeonggi-do:
+La isla queda cerca de algunos de los lugares más visitados de Gyeonggi-do:
 
 - **Isla Nami (Namiseom)**: a un corto trayecto río abajo, en ferri desde el embarcadero de Gapyeong. Sus avenidas arboladas se tiñen de dorado en octubre
 - **Petite France**: un parque temático que recrea un pueblo francés, en la carretera hacia el lago Cheongpyeong

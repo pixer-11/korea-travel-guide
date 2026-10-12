@@ -9,6 +9,14 @@ eventStartDate: '2026-10-18'
 eventEndDate: '2026-10-18'
 eventRecurring: true
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/2/23/Hanoi_Vietnam_Mausoleum-of-Ho-Chi-Minh-03.jpg'
+  credit: 'Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Hanoi_Vietnam_Mausoleum-of-Ho-Chi-Minh-03.jpg'
+  focus:
+    x: 50
+    y: 40
 gallery: []
 tags:
   - hanoi
