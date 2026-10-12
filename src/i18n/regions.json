@@ -12010,5 +12010,32 @@
       "getting": "菲利普岛本身没有机场或火车站，大多数游客会自驾从墨尔本出发，沿南吉普斯兰高速公路（South Gippsland Highway）和菲利普岛路（Phillip Island Road）前行，经圣雷莫（San Remo）大桥上岛，全程大约1.5到2小时。没有车的游客可以从南十字星车站（Southern Cross Station）搭乘V/Line长途巴士前往，通常需要在库维鲁普（Koo Wee Rup）换乘一次，行程视换乘情况约需3到4小时。",
       "days": "大多数游客会安排1到2天的行程，这样既能在黄昏时欣赏企鹅归巢，也有足够时间白天环岛游览诺比斯角（The Nobbies）、考拉保护区（Koala Conservation Reserve）以及岛上的各个海滩。"
     }
+  },
+  "Kurashiki": {
+    "en": {
+      "blurb": "Kurashiki is best known for its Bikan Historical Quarter, a canal district of white-walled Edo-period warehouses, willow-lined waterways and converted merchant houses that now hold cafes, museums and shops. Its mix of preserved Japanese townscape and Western-style brick architecture, a legacy of its textile and denim industry, has made it one of the Seto Inland Sea region's most distinctive heritage towns.",
+      "getting": "Most travellers arrive via Okayama Momotaro Airport (OKJ) or Okayama Station, then continue to Kurashiki Station on the JR Sanyo Main Line, a ride of ~17 minutes. From the airport itself, buses run to Kurashiki Station, with the trip taking roughly 30 to 50 minutes depending on the route.",
+      "days": "Allow ~1 to 2 days: a half-day covers the Bikan Historical Quarter's canal walk, museums and shopping streets, while a second day allows time for a river boat ride, side trips to nearby Kojima or simply a slower pace through the old town."
+    },
+    "ko": {
+      "blurb": "구라시키는 시라카베(백벽) 창고들이 늘어선 에도 시대 운하 지구, 비칸 역사 지구로 가장 잘 알려져 있습니다. 버드나무가 드리운 수로와 옛 상인 가옥을 개조한 건물들이 지금은 카페, 박물관, 상점으로 쓰이고 있죠. 일본 전통 마을 경관과 서양식 벽돌 건축이 공존하는 독특한 모습은 이 지역 섬유·데님 산업의 유산이기도 한데, 이 덕분에 구라시키는 세토 내해 지역에서 가장 개성 있는 역사 도시로 자리매김했습니다.",
+      "getting": "대부분의 여행자는 오카야마 모모타로 공항(OKJ)이나 오카야마역을 통해 도착한 뒤, JR 산요 본선을 타고 약 17분 거리의 구라시키역으로 이동합니다. 공항에서 바로 갈 경우에는 구라시키역까지 운행하는 버스를 이용할 수 있으며, 노선에 따라 소요 시간은 대략 30분에서 50분 정도입니다.",
+      "days": "1~2일 정도를 추천합니다. 반나절이면 비칸 역사 지구의 운하 산책과 박물관, 쇼핑 거리를 둘러볼 수 있고, 하루를 더 투자하면 강배 유람을 즐기거나 인근 고지마로 짧게 다녀오거나, 혹은 느긋하게 옛 마을 분위기를 즐길 시간을 가질 수 있습니다."
+    },
+    "ja": {
+      "blurb": "倉敷といえば、やはり美観地区が有名です。江戸時代の白壁の蔵が並び、柳が水面に揺れる運河沿いには、かつての商家を改装したカフェや美術館、ショップが軒を連ねています。昔ながらの町並みと、繊維・デニム産業の繁栄が生んだ西洋風の煉瓦建築とが調和した独特の景観は、瀬戸内でもひときわ個性的な歴史の町としての魅力を倉敷に与えています。",
+      "getting": "多くの旅行者は岡山桃太郎空港(OKJ)または岡山駅を経由し、そこからJR山陽本線で倉敷駅へ向かいます。乗車時間は約17分です。空港からは倉敷駅行きのバスも運行しており、ルートによって所要時間は30分から50分ほどです。",
+      "days": "滞在の目安は1〜2日です。半日あれば美観地区の運河沿いの散策や美術館、商店街を巡ることができ、2日目には川舟流しを楽しんだり、近隣の児島へ足を延ばしたり、あるいはのんびりと古い町並みを歩いて過ごすのもおすすめです。"
+    },
+    "es": {
+      "blurb": "Kurashiki es conocida sobre todo por su Barrio Histórico de Bikan, un distrito de canales con almacenes de paredes blancas de la era Edo, vías de agua bordeadas de sauces y antiguas casas de comerciantes reconvertidas hoy en cafeterías, museos y tiendas. Esta mezcla de un paisaje urbano japonés bien conservado con arquitectura de ladrillo de estilo occidental —herencia de su industria textil y del denim— ha convertido a la ciudad en uno de los destinos patrimoniales más singulares de la región del Mar Interior de Seto.",
+      "getting": "La mayoría de los viajeros llega a través del Aeropuerto Okayama Momotaro (OKJ) o de la Estación de Okayama, para luego continuar hasta la Estación de Kurashiki por la Línea Principal JR Sanyo, un trayecto de unos 17 minutos. Desde el propio aeropuerto también hay autobuses que van directamente a la Estación de Kurashiki, con una duración de entre 30 y 50 minutos según la ruta.",
+      "days": "Se recomienda dedicarle entre 1 y 2 días: medio día es suficiente para recorrer los canales del Barrio Histórico de Bikan, visitar sus museos y pasear por las calles comerciales, mientras que un segundo día permite disfrutar de un paseo en barca por el río, hacer una excursión a la cercana Kojima o simplemente explorar el casco antiguo con más calma."
+    },
+    "zh": {
+      "blurb": "仓敷最负盛名的,是其美观地区——一片运河街区，白墙林立的江户时代仓库、垂柳掩映的水道，以及由老商家宅邸改造而成的咖啡馆、博物馆与商铺鳞次栉比。这里既保留着日式老城风貌，又融入了西式砖造建筑，后者正是当地纺织与牛仔布产业留下的印记，使仓敷成为濑户内海地区最具特色的历史名城之一。",
+      "getting": "大多数游客会先抵达冈山桃太郎机场（OKJ）或冈山站，再转乘JR山阳本线前往仓敷站，车程约17分钟。若从机场出发，也可搭乘巴士直达仓敷站，视路线不同，车程大约为30至50分钟。",
+      "days": "建议安排1至2天行程：半天时间即可漫步美观地区的运河沿岸，参观博物馆并逛逛购物老街；若有第二天，则可以体验乘船游运河、前往附近的儿岛一日游，或是放慢脚步，细细品味这座老城的韵味。"
+    }
   }
 }

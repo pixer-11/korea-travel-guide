@@ -1,70 +1,70 @@
 ---
 lang: es
 slug: sapa-sapa-park
-srcHash: 'f68138fbcaa7'
-title: 'Parque de Sapa: Guía de viaje (4.2★)'
-description: 'El parque de Sapa es una pequeña plaza verde abierta las 24 horas en el centro de la ciudad de Sapa, ideal para una pausa tranquila de 20-30 minutos entre caminatas o visitas al mercado. 4.2★ (928 reseñas): lo que dicen los visitantes, horarios y consejos.'
-quickAnswer: El parque de Sapa es una pequeña plaza verde abierta las 24 horas en el centro de la ciudad de Sapa, ideal para una pausa tranquila de 20-30 minutos entre caminatas o visitas al mercado. Conviene ir entre las 7:00 y las 8:00 de la mañana los días laborables para disfrutar a solas de los bancos y la vista del lago; las noches de fin de semana, de 17:00 a 23:00, son las más concurridas. La entrada es gratuita, se puede llegar caminando desde la mayoría de los hoteles, y conviene verlo como un lugar de descanso más que como una atracción principal.
+srcHash: '33d930811651'
+title: 'Parque de Sapa: guía de viaje (4.2★)'
+description: En pleno centro de Sapa, este pequeño parque abre las 24 horas y permite descansar con calma unos 20-30 minutos entre una caminata y una visita al mercado. Tiene 4.2★ (928 reseñas); aquí encontrará las opiniones de los visitantes, el horario y algunos consejos.
+quickAnswer: En pleno centro de Sapa, el Parque de Sapa (Sapa Park) es una pequeña plaza arbolada que abre las 24 horas y se presta a un descanso tranquilo de 20-30 minutos entre una caminata y una visita al mercado. Si quiere tener los bancos para usted solo, vaya entre semana de 7am-8am. Las tardes y noches del fin de semana, de 5pm-11pm, son las de mayor afluencia. La entrada es gratuita y se llega a pie desde la mayoría de los hoteles. Conviene verlo como un lugar de paso para reponer fuerzas, no como una atracción principal.
 faq:
-  - q: ¿Cuánto cuesta visitar el parque de Sapa?
-    a: 'No tiene coste de entrada: es un parque público por el que se puede pasear libremente, las 24 horas del día.'
+  - q: ¿Cuánto cuesta visitar el Parque de Sapa?
+    a: La entrada es gratuita. Se trata de un parque público que puede recorrer libremente las 24 horas del día.
   - q: ¿Cuál es el momento más tranquilo para visitarlo?
-    a: Los días laborables entre las 7:00 y las 8:00 de la mañana es cuando hay menos visitantes. Las noches de fin de semana, de 17:00 a 23:00, son las más concurridas, así que conviene evitar esa franja si se busca una visita tranquila.
-  - q: ¿Cuánto tiempo debería dedicarle al parque de Sapa?
-    a: La mayoría de los visitantes le dedican entre 20 y 30 minutos, tiempo suficiente para recorrer el camino circular, sentarse junto al lago y comprar algún tentempié a un vendedor cercano.
-  - q: ¿Cómo se llega al parque de Sapa?
-    a: Está ubicado en el centro, en Đ. Thạch Sơn, en la ciudad de Sapa, a solo 5-10 minutos a pie de la plaza principal, la iglesia y el mercado central. No hace falta metro ni autobús.
+    a: Entre semana, de 7am a 8am, es cuando menos visitantes hay. Las tardes y noches del fin de semana, de 5pm a 11pm, son las de mayor afluencia, así que conviene evitarlas si busca una visita tranquila.
+  - q: ¿Cuánto tiempo conviene dedicarle?
+    a: La mayoría de los visitantes pasa allí 20-30 minutos, tiempo suficiente para recorrer los senderos, sentarse en un banco y comprar algo de comer en algún puesto cercano.
+  - q: ¿Cómo se llega al Parque de Sapa?
+    a: Se encuentra en pleno centro de Sapa, en Đ. Thạch Sơn. La iglesia de piedra y la plaza del pueblo quedan a uno o dos minutos, y el lago de Sapa y el mercado central, a un corto paseo. No necesitará metro ni autobús.
   - q: ¿Qué más hay cerca?
-    a: El lago de Sapa, la Iglesia de Piedra de Sapa y el mercado central están todos a poca distancia a pie, por lo que resulta fácil combinarlos en un mismo recorrido por la ciudad.
+    a: El lago de Sapa, la iglesia de piedra de Sapa y el mercado central quedan a poca distancia a pie, así que resulta fácil visitarlos todos en un mismo recorrido por el pueblo.
 ---
 
 ## Por qué ir
 
-El parque de Sapa no será el motivo por el que reserve un viaje a Lào Cai. Se trata de una modesta plaza con senderos pavimentados, bancos y un pequeño lago en Đ. Thạch Sơn, justo en el corazón de la ciudad de Sapa.
+Nadie organiza un viaje a Lào Cai por el Parque de Sapa (Sapa Park). Se trata de un modesto rincón con senderos pavimentados, árboles y bancos en Đ. Thạch Sơn, en pleno corazón de Sapa y a pocos pasos de la iglesia de piedra.
 
-Lo que ofrece es un respiro. Después del trayecto en curvas desde el valle o de una caminata matutina entre los campos de arroz en terrazas, este es el lugar donde sentarse, observar cómo la niebla se desplaza entre los picos circundantes y dejar que las piernas se recuperen.
+Lo que ofrece es un respiro. Tras la carretera de curvas cerradas que sube desde el valle, o después de una mañana de caminata entre arrozales en terrazas, aquí puede sentarse a contemplar la niebla que se desliza sobre las cumbres de alrededor mientras las piernas se recuperan.
 
-## Qué encontrará en realidad
+## Qué encontrará realmente
 
-El parque gira en torno a un modesto lago que a menudo refleja las nubes bajas que suelen cubrir Sapa por las tardes. A su alrededor se extienden caminos pavimentados bordeados de árboles y algún que otro banco.
+Entre los árboles discurren caminos pavimentados, con algunos bancos repartidos aquí y allá. La franja verde se extiende hacia el noreste entre las calles Xuân Viên y Thạch Sơn hasta el extremo sur del lago de Sapa (Sa Pa Lake), de modo que el paseo continúa por el césped de la orilla. Casi todas las tardes, las nubes bajas que atraviesan Sapa suelen pasar justo por encima.
 
-Aquí se mezclan vecinos y visitantes por motivos sencillos:
+Vecinos y visitantes coinciden aquí por motivos sencillos:
 
-- Practicar taichí o estirar por la mañana, antes de que la ciudad despierte
-- Parejas y familias que se fotografían con el lago de fondo
-- Vendedores que ofrecen maíz asado, boniatos y bebidas cerca de los bordes
-- Un punto de descanso antes o después de subir hacia la iglesia o el mercado
+- Practicar taichí o estiramientos por la mañana, antes de que el pueblo despierte
+- Hacerse fotos en pareja o en familia entre la iglesia y el parque
+- Comprar maíz asado, boniatos y bebidas a los vendedores que se instalan en los bordes
+- Descansar antes o después de subir a la iglesia o al mercado
 
-No hay puerta de entrada ni horario fijo: permanece abierto las 24 horas, todos los días. Eso le da flexibilidad: sirve igual para una parada al amanecer, un descanso a la sombra al mediodía o un paseo nocturno entre farolas.
+No hay taquilla ni horario de visita: el parque abre las 24 horas, todos los días. Esa libertad permite elegir entre una parada al amanecer, una pausa a la sombra a mediodía o un paseo nocturno a la luz de los faroles.
 
 ## Cómo llegar
 
-La ciudad de Sapa es compacta, y el parque se encuentra cerca de su centro, a poca distancia a pie de la mayoría de los hoteles situados alrededor de la plaza principal y de la zona del lago de Sapa. Si se hospeda cerca de la iglesia o del mercado central, el paseo le llevará entre 5 y 10 minutos.
+Sapa es un pueblo pequeño, y el parque se encuentra cerca del centro. Desde la mayoría de los hoteles situados en torno a la plaza principal y al lago de Sapa se llega dando un paseo corto. Si se aloja junto a la iglesia, lo tendrá a uno o dos minutos; desde el mercado central, calcule unos diez.
 
-No hay metro ni línea de autobús de la que preocuparse: Sapa es una ciudad de montaña, y todo lo interesante se concentra a poca distancia a pie. Si se aloja más lejos, un taxi o un Grab desde las afueras del centro tardará solo unos minutos.
+No tendrá que preocuparse por líneas de metro ni de autobús. Sapa es un pueblo de montaña y todo lo que merece la pena queda a poca distancia a pie. Si su alojamiento está a las afueras, un taxi o un coche de Grab le dejará allí en pocos minutos.
 
 ## Cuándo ir
 
-Al tratarse de un lugar poco conocido más que de una atracción destacada, aquí no tendrá que lidiar con las multitudes que suele haber en los miradores de Sapa o en la estación del teleférico. Aun así, el horario influye en la experiencia.
+Se trata de un lugar poco conocido, no de un gran reclamo, así que no encontrará las aglomeraciones de los miradores de Sapa o de la estación del teleférico. Aun así, el momento elegido influye en la experiencia.
 
-Las mañanas entre semana suelen ser las más tranquilas, ideales si quiere disfrutar a solas de los bancos y del lago. Las noches de fin de semana suelen atraer a más gente, cuando vecinos y turistas se reúnen después de cenar.
+Las mañanas entre semana suelen ser las más tranquilas, por lo que conviene elegirlas si quiere los bancos para usted solo. Las tardes y noches del fin de semana atraen a más gente, ya que vecinos y turistas se reúnen allí después de cenar.
 
-El factor que más influye es el clima de Sapa. La niebla y la llovizna son habituales durante todo el año, y tanto el lago como las colinas del parque lucen más evocadores —a veces incluso más bonitos— bajo un cielo cubierto que bajo un cielo azul despejado.
+Pero lo que más cuenta es el tiempo. La niebla y la llovizna son habituales durante todo el año. Bajo las nubes bajas, el parque y las colinas que se alzan detrás del pueblo cobran un aire más melancólico y, a veces, resultan más bonitos que con un cielo azul y uniforme.
 
-## Cómo visitarlo como un local
+## Cómo visitarlo como un vecino más
 
-Conviene tratar el parque de Sapa como una pausa, no como un destino, y organizar el tiempo en consecuencia.
+Plantéese el Parque de Sapa como una pausa y no como un destino, y organice el tiempo en consecuencia.
 
-- Llegue entre las 7:00 y las 8:00 de la mañana en día laborable para encontrar los caminos casi vacíos y el agua en calma
-- Evite las noches de fin de semana después de las 17:00 si busca tranquilidad, ya que suele ser el momento de mayor afluencia
-- Lleve algo de efectivo (dong vietnamitas) para los vendedores de tentempiés, ya que en los puestos al aire libre no suele aceptarse tarjeta
-- Evite montar sesiones de fotos elaboradas en las horas punta de la tarde-noche; los vecinos usan los bancos para descansar de verdad, no solo como decorado
-- Combínelo con un breve paseo hasta el lago de Sapa o la iglesia de piedra, en lugar de convertirlo en una visita aparte
+- Llegue entre semana de 7am-8am para encontrar los senderos casi vacíos y el agua en calma
+- Si busca tranquilidad, evite las tardes del fin de semana a partir de las 5pm, que suelen ser las horas de más afluencia
+- Lleve billetes pequeños (dongs vietnamitas) para los vendedores, porque en los puestos al aire libre no se suele pagar con tarjeta
+- No monte sesiones de fotos complicadas en las horas punta de la tarde, ya que los vecinos usan los bancos para descansar de verdad y no como simple decorado
+- En lugar de convertirlo en una salida independiente, combínelo con un breve paseo hasta el lago de Sapa o la iglesia de piedra
 
-El error más habitual entre los visitantes es esperar encontrar una atracción ajardinada y con entrada de pago, a la altura de los miradores de montaña de Sapa. En realidad es una plaza urbana con zona verde: su valor está en la comodidad y la calma, no en el espectáculo.
+El error más frecuente consiste en esperar una atracción ajardinada, con entrada de pago y a la altura de los miradores de montaña de Sapa. En realidad es una plaza con zonas verdes que vale por lo práctica y lo tranquila que resulta, no por su espectacularidad.
 
-## Qué visitar cerca
+## Qué combinar en los alrededores
 
-El parque de Sapa rinde más si se integra en un recorrido a pie que si se visita de forma aislada. El mercado central, la Iglesia de Piedra de Sapa y el paseo junto al lago quedan todos a fácil alcance caminando.
+El parque luce más como parte de un recorrido a pie que como visita aislada. El mercado central, la iglesia de piedra de Sapa y el paseo junto al lago quedan a un corto paseo.
 
-Si va a pasar varios días en la zona, resérvelo para una mañana o una tarde de poca actividad entre salidas más exigentes, como una caminata hasta el pueblo de Cat Cat, un trayecto en teleférico hacia el Fansipan o un paseo por el mercado. Es el tipo de lugar que premia diez minutos con calma más que una visita apresurada, y como no cierra nunca, puede encajarlo en cualquier hueco de su agenda.
+Si pasa varios días en Sapa, reserve el parque para una mañana o una tarde de poco ajetreo entre salidas más exigentes, como la caminata hasta la aldea de Cat Cat, el trayecto en teleférico hacia el Fansipan o una vuelta por el mercado. Es un sitio para disfrutar sin prisa durante diez minutos, no para visitarlo a la carrera. Y como nunca cierra, puede encajarlo en cualquier hueco de su agenda.

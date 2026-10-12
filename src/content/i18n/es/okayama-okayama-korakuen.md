@@ -1,84 +1,84 @@
 ---
 lang: es
 slug: okayama-okayama-korakuen
-srcHash: '545e5e1d0a31'
+srcHash: '4d01023a63d0'
 title: 'Okayama Korakuen: guía de viaje (4.4★)'
-description: 'En el distrito de Kita, en Okayama, se encuentra Korakuen, un jardín de paseo que figura entre los Tres Grandes Jardines de Japón y al que se llega desde la estación JR de Okayama con un breve trayecto en tranvía y un corto paseo. 4.4★ (16,997 reseñas): opiniones de los visitantes, horarios y consejos.'
-quickAnswer: Korakuen es un jardín de paseo del distrito de Kita, en Okayama, y figura entre los Tres Grandes Jardines de Japón. Desde la estación JR de Okayama se llega con un breve trayecto en tranvía y un corto paseo. Entre semana reina la calma durante toda la jornada (8am–5pm). El fin de semana conviene llegar entre las 8am–9am, ya que de 10am–4pm se llena de gente. Calcule entre 1.5–2 horas de visita, o algo más si piensa cruzar el puente hasta el castillo de Okayama.
+description: 'Okayama Korakuen, uno de los Tres Grandes Jardines de Japón, es un jardín de paseo situado en el distrito de Kita (Okayama), al que se llega desde la estación JR de Okayama con un breve trayecto en tranvía y un corto paseo. 4.4★ (16,997 reseñas): opiniones de los visitantes, horarios y consejos.'
+quickAnswer: Okayama Korakuen es un jardín de paseo del distrito de Kita, en Okayama, y figura entre los Tres Grandes Jardines de Japón. Desde la estación JR de Okayama se llega con un breve trayecto en tranvía y un corto paseo a pie. Del 20 de marzo al 30 de septiembre abre de 7:30am a 6pm, y del 1 de octubre al 19 de marzo, de 8am a 5pm. Entre semana hay poca gente durante todo el día. Los fines de semana conviene llegar en la primera hora tras la apertura, porque entre las 10am y las 4pm se llena. Calcule entre 1.5 y 2 horas de visita, o más si piensa cruzar el puente hasta el castillo de Okayama.
 faq:
-  - q: ¿Cuál es el momento más tranquilo para visitar Korakuen?
-    a: Entre semana reina la calma durante toda la jornada, de 8am a 5pm. El fin de semana conviene llegar entre las 8am y las 9am y evitar la franja de 10am–4pm, que es la de mayor afluencia.
+  - q: ¿Cuál es el momento más tranquilo para visitar Okayama Korakuen?
+    a: Entre semana hay poca gente durante todo el día, de 8am a 5pm. Los fines de semana, llegue entre las 8am y las 9am y evite la franja de 10am a 4pm, que es la de mayor afluencia.
   - q: ¿Cómo se llega a Korakuen desde la estación JR de Okayama?
-    a: Tome el tranvía de Okaden (línea Higashiyama) hasta Shiroshita y camine después unos 10 minutos. También puede ir en un autobús de Okaden hasta Korakuen-mae o hacer a pie el trayecto desde la estación, que dura unos 25 minutos.
+    a: Tome el tranvía de Okaden (línea Higashiyama) hasta Shiroshita y camine unos 10 minutos. También puede ir en un autobús de Okaden hasta Korakuen-mae o recorrer a pie los unos 25 minutos que lo separan de la estación.
   - q: ¿Cuánto tiempo conviene dedicar a Korakuen?
-    a: Calcule entre 1.5–2 horas para hacer el circuito, subir a Yuishinzan y tomar un té. Si piensa cruzar el puente hasta el castillo de Okayama, añada una hora o más.
+    a: Calcule entre 1.5 y 2 horas para el circuito, la subida a Yuishinzan y una pausa para tomar té. Si piensa cruzar el puente hasta el castillo de Okayama, añada al menos una hora más.
   - q: ¿Se pueden ver las grullas?
-    a: Las grullas de Manchuria viven en un cercado dentro del jardín, de modo que normalmente pueden verse. Por tradición, el día de Año Nuevo se las deja salir al césped; consulte en la web oficial las fechas de este año.
+    a: Sí, normalmente se pueden ver, porque las grullas de corona roja viven en un cercado dentro del jardín. Por tradición, el día de Año Nuevo se las suelta en las praderas; consulte las fechas de este año en la web oficial.
   - q: ¿Cuál es el horario de apertura?
-    a: Actualmente abre de 8am–5pm, aunque el horario varía según la estación y en algunos meses hay iluminaciones nocturnas. Consulte en la web oficial de Korakuen el horario de este mes.
+    a: Del 20 de marzo al 30 de septiembre, de 7:30am a 6pm; del 1 de octubre al 19 de marzo, de 8am a 5pm. En algunos meses hay iluminaciones nocturnas con horario ampliado, cuyas fechas se publican en la web oficial de Korakuen.
 ---
 
-## El jardín de un señor feudal en una isla fluvial
+## Un jardín señorial en una isla fluvial
 
-Korakuen ocupa un banco de arena en medio del río Asahi. En la orilla opuesta, los muros negros del castillo de Okayama asoman por encima de las copas de los árboles. De hecho, el jardín se concibió para que su señor pudiera contemplar el castillo desde su propio estanque.
+Okayama Korakuen ocupa un banco de arena en medio del río Asahi. Desde la orilla opuesta, los muros negros del castillo de Okayama asoman por encima de las copas de los árboles. El jardín se concibió precisamente para que su señor pudiera contemplar el castillo desde su propio estanque.
 
-Las obras las inició en 1687 Ikeda Tsunamasa, daimio de Okayama, y concluyeron hacia 1700. Se trata de un jardín de tipo *kaiyū-shiki*, es decir, pensado para recorrerse en circuito. En cada recodo del sendero se descubre una nueva perspectiva: el agua, una colina o algún tejado a lo lejos.
+Ikeda Tsunamasa, daimio de Okayama, emprendió las obras en 1687, que concluyeron hacia 1700. Se trata de un jardín de tipo *kaiyū-shiki*, es decir, pensado para recorrerse en circuito. A cada recodo del sendero se abre una nueva perspectiva de agua, de colina o de algún tejado lejano.
 
-Las inundaciones de 1934 y los bombardeos de 1945 lo dejaron muy maltrecho. Su restauración posterior se basó en pinturas y documentos del período Edo. Hoy, junto con Kenroku-en, en Kanazawa, y Kairaku-en, en Mito, forma parte de los Tres Grandes Jardines de Japón.
+Las inundaciones de 1934 y los bombardeos de 1945 lo dañaron gravemente. Después se restauró a partir de pinturas y documentos del período Edo. Hoy, junto con Kenroku-en, en Kanazawa, y Kairaku-en, en Mito, forma parte de los Tres Grandes Jardines de Japón.
 
-## Cómo interpretar el trazado
+## Cómo entender su trazado
 
-El jardín resulta más abierto de lo que la mayoría de los visitantes imagina. Buena parte del terreno está cubierta por amplias praderas de césped muy bien recortado, algo poco habitual en un jardín japonés. Gracias a ellas, la mirada alcanza sin obstáculos el castillo y las colinas que se extienden más allá de los muros.
+El jardín resulta más abierto de lo que la mayoría de los visitantes imagina. Buena parte del terreno está cubierta por amplias praderas de césped muy recortado, algo poco habitual en un jardín japonés. Gracias a ellas, la mirada alcanza sin obstáculos el castillo y las colinas que se extienden más allá de los muros.
 
 Puntos de referencia para orientarse:
 
-- **Sawa-no-ike**: el gran estanque central, salpicado de islotes y con faroles de piedra en sus orillas
-- **Yuishinzan**: una colina artificial a cuya cima se sube por un sendero en espiral; conviene empezar por aquí para abarcar todo el conjunto
-- **Enyō-tei**: la residencia del señor, desde la que se compuso la vista clásica del estanque
-- **Ryūten**: un pequeño pabellón de descanso, abierto por los lados, cuyo suelo atraviesa un arroyo entre piedras planas
+- **Sawa-no-ike**: el gran estanque central, con islotes y linternas de piedra en sus orillas
+- **Yuishinzan**: una colina artificial cuyo sendero sube en espiral hasta la cima; conviene subir primero para hacerse una idea del conjunto
+- **Enyō-tei**: la residencia del señor, desde donde se encuadraba la vista clásica del estanque
+- **Ryūten**: un pequeño pabellón de descanso abierto, bajo cuyo suelo corre un arroyo entre piedras planas
 - **Campos de té y arrozales**: todavía se cultivan y recuerdan que esto fue una finca productiva
-- **Los bosquecillos de ciruelos y cerezos** y el arcedal de **Chishio-no-mori**, cada uno en su mejor momento en una estación distinta
+- **Los bosquecillos de ciruelos y cerezos** y el arcedal **Chishio-no-mori**, cada uno en su mejor momento en una estación distinta
 
 ## Las grullas de Korakuen
 
-El verdadero emblema del jardín son sus grullas. Dentro del recinto, en un cercado, viven grullas de Manchuria (*tanchō*), de cuerpo blanco, plumas negras en el cuello y una mancha roja en la coronilla. En Japón, esta ave simboliza la longevidad.
+El verdadero emblema del jardín son las grullas. Dentro del recinto hay un cercado donde viven grullas de corona roja (*tanchō*). Destacan por su cuerpo blanco, las plumas negras del cuello y la mancha roja de la cabeza, y en Japón simbolizan la longevidad.
 
-La bandada mantiene un vínculo muy antiguo con el jardín. Por tradición, el día de Año Nuevo, y también en algunas otras fechas, se deja salir a las grullas a pasear por el césped, y mucha gente acude a verlas. Si viaja en Año Nuevo, consulte el calendario de este año en la web oficial del jardín. El resto del año suelen poder verse en su cercado.
+La bandada mantiene un vínculo antiguo con el jardín. Por tradición, el día de Año Nuevo, y también en algunas otras fechas, se las deja pasear por las praderas, un espectáculo que atrae a numerosos curiosos. Si su visita coincide con el Año Nuevo, consulte el calendario de este año en la web oficial del jardín. Cualquier otro día, lo normal es poder verlas en su cercado.
 
 ## Cuándo hacer el recorrido
 
-Entre semana todo resulta más sencillo, porque la afluencia se mantiene en su nivel más bajo durante toda la jornada, de 8am a 5pm. Una tarde de martes es tan tranquila como una mañana de martes.
+Entre semana todo resulta más sencillo. La afluencia se mantiene en su nivel más bajo durante toda la jornada, de 8am a 5pm, y un martes por la tarde es tan tranquilo como un martes por la mañana.
 
-El fin de semana la situación cambia y el margen de calma es breve: solo de 8am–9am. Los sábados y domingos procure no llegar entre las 10am y las 4pm, cuando los senderos del estanque y la cima de Yuishinzan se llenan de gente. Actualmente el jardín abre de 8am a 5pm, aunque el horario varía según la estación. En algunos meses también se organizan iluminaciones nocturnas, así que conviene consultar en la web oficial el horario del mes.
+Los fines de semana la cosa cambia. La franja tranquila es breve: solo de 8am a 9am. Procure no llegar entre las 10am y las 4pm un sábado o un domingo, ya que los senderos del estanque y la cima de Yuishinzan se llenan de gente. Del 20 de marzo al 30 de septiembre el jardín abre de 7:30am a 6pm, y del 1 de octubre al 19 de marzo, de 8am a 5pm. En algunos meses se organizan iluminaciones nocturnas con horario ampliado; consulte las fechas en la web oficial.
 
 Cada estación tiene su atractivo:
 
-- **Final del invierno:** ciruelos en flor
+- **Final del invierno:** flor del ciruelo
 - **Primavera:** cerezos junto al río
-- **Verano:** césped verde y lotos en los estanques
-- **Otoño:** arces que cambian de color en Chishio-no-mori
+- **Verano:** praderas verdes y lotos en los estanques
+- **Otoño:** el cambio de color de los arces en Chishio-no-mori
 
 ## Cómo llegar desde la estación de Okayama
 
-La opción más cómoda es el tranvía eléctrico de Okayama (Okaden). En la parada situada frente a la estación JR de Okayama, tome la línea Higashiyama hasta **Shiroshita**. Desde allí, un paseo de unos 10 minutos hacia el este, dejando atrás el castillo, le llevará hasta el río.
+La forma más cómoda es el tranvía eléctrico de Okayama (Okaden). En la parada situada frente a la estación JR de Okayama, tome la línea Higashiyama hasta **Shiroshita**. Desde allí hay unos 10 minutos a pie hacia el este, dejando atrás el castillo, hasta llegar al río.
 
-Los autobuses de Okaden hasta la parada **Korakuen-mae** dejan más cerca de la puerta principal. A pie, el trayecto completo desde la estación dura unos 25 minutos por calles anchas y llanas. Como la estación JR de Okayama es parada del Shinkansen de la línea Sanyō, una visita de media jornada encaja fácilmente entre dos trenes.
+Los autobuses de Okaden que paran en **Korakuen-mae** le dejan más cerca de la puerta principal. Ir a pie desde la estación lleva unos 25 minutos por calles anchas y llanas. Como la estación JR de Okayama es parada del Shinkansen de la línea Sanyō, una visita de media jornada encaja bien entre dos trenes.
 
 ## Cómo recorrer el jardín como es debido
 
 Algunas costumbres facilitan la visita, tanto a usted como a los jardineros.
 
-- **Compre la entrada en la puerta.** Si tiene previsto visitar también el castillo de Okayama, pregunte por la entrada combinada. Los precios figuran en la taquilla.
-- **No pise el césped.** Está acordonado o señalizado, y se cuida para realzar las vistas, no para hacer pícnics.
-- **Recorra el circuito en un solo sentido.** En algunos tramos los senderos son estrechos, y así evitará tener que apartarse continuamente para dejar pasar a los grupos que vienen de frente.
-- **Siéntese un rato en Ryūten.** La gente se detiene aquí a escuchar el arroyo. En los pabellones de descanso se espera que se hable en voz baja.
-- **Incluya el castillo en su plan.** Salga por la puerta sur y cruce el puente Tsukimi: en pocos minutos llegará al castillo de Okayama.
-- **Busque la casa de té.** Hacer una pausa en el paseo con un matcha y un dulce de temporada es una costumbre muy extendida.
+- **Compre la entrada en la puerta.** Si piensa visitar también el castillo de Okayama, pregunte por la entrada combinada. Los precios figuran en la taquilla.
+- **No pise el césped.** Está acordonado o señalizado, y se cuida para la contemplación, no para hacer pícnics.
+- **Recorra el circuito en un solo sentido.** Algunos tramos del sendero son estrechos, y así evitará tener que apartarse continuamente para dejar paso a los grupos que vienen de frente.
+- **Siéntese un rato en Ryūten.** La gente se detiene aquí para escuchar el arroyo. En los pabellones de descanso se espera que se hable en voz baja.
+- **Incluya el castillo en sus planes.** Salga por la puerta sur y cruce el puente Tsukimi: en pocos minutos estará en el castillo de Okayama.
+- **Busque la casa de té.** Tomar un matcha con un dulce de temporada es una forma habitual de hacer una pausa en el paseo.
 
 ## Más allá de los muros del jardín
 
-Korakuen forma parte de un conjunto cultural compacto, y el resto de los lugares quedan a poca distancia a pie.
+Korakuen forma parte de un núcleo cultural compacto cuyos demás puntos de interés pueden visitarse a pie.
 
-Justo al otro lado del río se alza el castillo de Okayama, conocido como *U-jō* o «castillo del Cuervo» por su revestimiento negro. Cerca de la puerta principal del jardín se encuentra el Museo Prefectural de Okayama, dedicado a la historia local. Un poco más al norte, el Museo de Arte Yumeji está consagrado a la obra del pintor Takehisa Yumeji.
+Justo al otro lado del río se alza el castillo de Okayama, apodado *U-jō* o «castillo del Cuervo» por su revestimiento negro. Cerca de la puerta principal del jardín se encuentra el Museo Prefectural de Okayama, dedicado a la historia local. Algo más al norte está el Museo de Arte Yumeji, consagrado al pintor Takehisa Yumeji.
 
-De vuelta a la estación, busque los *kibi dango*. Estas tiernas bolitas de mijo son el recuerdo clásico de Okayama y están ligadas a la leyenda popular de Momotarō, que la ciudad ha hecho suya.
+De regreso a la estación, busque los *kibi dango*. Estas tiernas bolitas de mijo son el recuerdo clásico de Okayama y están ligadas a la leyenda popular de Momotarō, que la ciudad ha hecho suya.
