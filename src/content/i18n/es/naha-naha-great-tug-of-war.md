@@ -1,77 +1,77 @@
 ---
 lang: es
 slug: naha-naha-great-tug-of-war
-srcHash: 'a7af3a333f83'
-title: 'Gran Tira y Afloja de Naha: fechas, entradas y ubicación (Naha)'
-description: El Gran Tira y Afloja de Naha se celebra el 11 de octubre de 2026 en Naha (Okinawa), en el cruce de Kumoji de la Ruta 58. La entrada es libre y no hace falta entrada.
-quickAnswer: El Gran Tira y Afloja de Naha se celebra el 11 de octubre de 2026 en Naha (Okinawa), en el cruce de Kumoji de la Ruta 58. Es gratuito y no se necesitan entradas. Lo más práctico es bajarse del monorraíl Yui Rail en Kencho-mae o en Asahibashi y llegar a pie hasta la cuerda. Antes de salir, conviene consultar los horarios en la web oficial.
+srcHash: 'b669d2ede80d'
+title: 'Gran Tira y Afloja de Naha: fecha, entradas y lugar (Naha)'
+description: El Gran Tira y Afloja de Naha tenía fecha el 11 de octubre de 2026, en el cruce de Kumoji de la Ruta 58 de Naha (Okinawa). La entrada era libre y no hacían falta entradas.
+quickAnswer: El Gran Tira y Afloja de Naha estaba programado para el 11 de octubre de 2026 en el cruce de Kumoji, sobre la Ruta 58 de Naha (Okinawa). La entrada era libre y no se necesitaban entradas. Las estaciones del Yui Rail más cercanas son Kencho-mae y Asahibashi, y desde ambas se llega a la cuerda en un breve paseo.
 faq:
-  - q: ¿Cuándo se celebra el Gran Tira y Afloja de Naha en 2026?
-    a: Tendrá lugar el domingo 11 de octubre de 2026, coincidiendo con el fin de semana del Festival de Naha. En la web oficial del festival se confirman los horarios de inicio y cualquier aplazamiento por mal tiempo.
-  - q: ¿Hay que comprar entradas para el Gran Tira y Afloja de Naha?
-    a: No. El acceso es gratuito y no existen entradas. El público puede seguirlo desde la calle y sumarse al tirón agarrando las cuerdas laterales.
-  - q: ¿Dónde se celebra exactamente y cómo se llega?
-    a: El escenario es el cruce de Kumoji, en la Ruta 58, en pleno centro de Naha. Como la calzada se cierra al tráfico, lo mejor es tomar el Yui Rail hasta la estación de Kencho-mae o la de Asahibashi y continuar a pie.
-  - q: ¿Los visitantes pueden tirar de la cuerda de verdad?
-    a: Sí. Basta con situarse junto a alguna de las cuerdas laterales finas que salen de la principal, esperar la señal oficial y tirar con todos los demás al grito de «¡Haiya!». El equipo, Este u Oeste, depende del lado del cruce en el que uno se encuentre.
-  - q: ¿Qué sucede cuando termina el tirón?
-    a: La gente corta trozos de la cuerda de paja y se los lleva a casa como amuleto. Quien quiera uno debe llevar unas tijeras pequeñas. Después se puede seguir a pie hasta Kokusai-dori y el Mercado Público de Makishi.
+  - q: ¿Cuándo era el Gran Tira y Afloja de Naha en 2026?
+    a: La fecha anunciada era el 11 de octubre de 2026, domingo, durante el fin de semana del Festival de Naha. En años anteriores, los tifones de octubre obligaron a los organizadores a cambiar la fecha del tirón.
+  - q: ¿Hacían falta entradas para el Gran Tira y Afloja de Naha?
+    a: No. El acceso era libre y no había entradas. El público podía mirar desde la calle y sumarse al tirón en las cuerdas laterales.
+  - q: ¿Dónde se celebraba exactamente y cómo se llegaba?
+    a: El tirón tenía como escenario el cruce de Kumoji, en la Ruta 58, en el centro de Naha. Las estaciones de Kencho-mae y Asahibashi, del Yui Rail, quedan a poca distancia a pie, y la calle se cierra al tráfico durante el evento.
+  - q: ¿Podían los visitantes tirar de la cuerda?
+    a: 'Sí. Los visitantes podían agarrar alguna de las cuerdas laterales finas que salen de la cuerda principal y tirar a la señal oficial, coreando «¡Haiya!» con todos los demás. El lado del cruce en el que uno se encontraba determinaba su equipo: Este u Oeste.'
+  - q: ¿Qué ocurre después del tirón?
+    a: Por tradición, la gente corta trozos de la cuerda de paja y se los lleva a casa para atraer la buena suerte. Kokusai-dori y el mercado público de Makishi quedan a poca distancia a pie.
 ---
 
 ## Una cuerda tan gruesa como un coche
 
-Ese día, la calle entera se convierte en cuerda. La Ruta 58, principal arteria de Naha, se cierra al tráfico para el Gran Tira y Afloja. A lo largo de su eje se extiende una soga de paja de arroz trenzada de unos 200 metros, cuyo cuerpo central supera en altura a muchas de las personas que se colocan a su lado. En 1995, Guinness la reconoció como la mayor cuerda de paja del mundo.
+El día del tira y afloja, la cuerda ocupa la calle de lado a lado. La Ruta 58 (Route 58), principal arteria de Naha, se cierra al tráfico para el Gran Tira y Afloja. Trenzada con paja de arroz, la cuerda mide unos 200 metros, y su cuerpo central supera en altura a muchas de las personas que se colocan a su lado. En 1995, Guinness la reconoció como la cuerda de paja más grande del mundo.
 
-De la soga principal salen, como si fueran costillas, cientos de cuerdas laterales más finas. Son esas las que se agarran en realidad. Las dos mitades se enfrentan a ambos lados del cruce de Kumoji: un equipo representa al Este y el otro al Oeste, mientras decenas de miles de personas se apiñan a uno y otro lado.
+Del cuerpo principal salen, como si fueran costillas, cientos de cuerdas laterales más finas, y es de ellas de donde tira realmente la gente. Las dos mitades se enfrentan en el cruce de Kumoji: un equipo representa al Este y el otro al Oeste. A ambos lados suelen agolparse decenas de miles de personas.
 
 ## Fecha, entradas y el cruce de Kumoji
 
-En 2026, el tirón se celebra el domingo **11 de octubre de 2026**. Suele coincidir con el puente del Día del Deporte de Japón y forma parte del Festival de Naha, de programa más amplio.
+La fecha anunciada para la edición de 2026 era el **11 de octubre de 2026**, domingo. El tirón suele coincidir con el puente del Día del Deporte de Japón y forma parte del Festival de Naha, más amplio.
 
-- **Entradas:** no hay. El acceso es gratuito y el público puede verlo desde la calle y participar en el tirón.
-- **Lugar:** cruce de Kumoji (久茂地交差点), en la Ruta 58, en el centro de Naha. Queda a poca distancia a pie del extremo occidental de Kokusai-dori.
-- **Horarios:** en la web oficial del Festival de Naha se confirman la hora de inicio, los cortes de tráfico y cualquier aplazamiento por tifón.
+- **Entradas:** no había. El acceso era libre, y el público podía mirar desde la calle y sumarse al tirón.
+- **Lugar:** el cruce de Kumoji (久茂地交差点), en la Ruta 58, en pleno centro de Naha y a poca distancia a pie del extremo occidental de Kokusai-dori.
+- **Horario:** la Ruta 58 se cierra al tráfico durante el tirón, y un tifón puede obligar a aplazarlo.
 
-En octubre todavía pueden llegar tifones a Okinawa, y los organizadores ya han tenido que cambiar la fecha en otras ocasiones por el tiempo. Es recomendable consultar la fuente oficial al planificar el viaje y también la misma mañana del evento.
+En octubre todavía pueden llegar tifones a Okinawa, y los organizadores ya han tenido que trasladar el tirón en otras ocasiones por el mal tiempo.
 
-## La barra kanuchi y la ceremonia previa
+## El pasador kanuchi y la ceremonia previa
 
-Tirar es lo último que se hace. Antes hay que unir las dos mitades, que terminan cada una en un gran lazo. Ambos lazos se acercan y se traban con una pesada barra de madera llamada *kanuchi-bō* (カヌチ棒). Para pasarla por los dos hace falta una multitud de hombres que levantan y empujan. El momento es todo un espectáculo y un buen motivo para llegar con antelación.
+Tirar es lo último. Antes hay que unir las dos mitades. Por tradición, cada una termina en un gran lazo, y para unirlas se traban ambos lazos con una pesada barra de madera llamada *kanuchi-bō* (カヌチ棒). Hacerla pasar por los dos lazos suele exigir que un buen grupo de hombres levante y empuje a la vez, y eso ya es todo un espectáculo.
 
-Antes de eso, los *shitaku* se suben a la cuerda. Se trata de intérpretes disfrazados que encarnan a héroes de la historia y las leyendas de Ryukyu. También se alzan unos estandartes, los *hata-gashira*, montados en altos mástiles que sus portadores mantienen en equilibrio contra el viento. Gongs y tambores marcan el ritmo de principio a fin. La tradición se remonta a la época del Reino de Ryukyu, y su versión callejera actual se recuperó en 1971.
+Antes aún, es costumbre que los *shitaku* se suban a la cuerda. Se trata de intérpretes disfrazados que encarnan a héroes de la historia y las leyendas de Ryukyu. Se alzan también unos estandartes llamados *hata-gashira*, montados en altos mástiles que sus portadores mantienen en equilibrio contra el viento. Gongs y tambores marcan el ritmo sin descanso. La tradición se remonta a la época del Reino de Ryukyu, y la versión callejera actual se recuperó en 1971.
 
-## Manos a la obra: cómo participar en el tirón
+## Manos a la cuerda: cómo sumarse al tirón
 
-Cualquiera puede tirar, y casi todo el mundo lo hace. Así funciona sobre el terreno:
+Cualquiera puede tirar, y casi todo el mundo lo hace. Sobre el terreno, el desarrollo suele ser este:
 
-- **Colóquese junto a una cuerda lateral.** Abra paso hacia alguna de las ramificaciones finas del cuerpo principal. El lado del cruce en el que esté determinará su equipo.
-- **Espere la señal.** Nadie tira antes del inicio oficial. Cuando suenen los gongs y estalle el griterío del público, échese hacia atrás y afiance los pies.
-- **Aprenda el grito.** Se corea *«¡Haiya! ¡Haiya!»* al compás de cada tirón. Únase a él.
-- **Tenga en cuenta la multitud.** Hay muchísima gente y hace calor. Si va con niños o le incomodan las aglomeraciones, es preferible mirar desde los márgenes y no desde el centro del cruce.
+- **Colocarse junto a una cuerda lateral.** Los participantes avanzan hacia alguna de las cuerdas finas que salen del cuerpo principal. El lado del cruce en el que uno se encuentre determina su equipo.
+- **Esperar la señal.** Nadie tira hasta el inicio oficial. Cuando empiezan los gongs y el grito de la multitud, todos se echan hacia atrás y afianzan los pies.
+- **El grito.** Se corea *«¡Haiya! ¡Haiya!»* al compás de cada tirón.
+- **El gentío.** Se aprieta mucho y hace calor. Las familias con niños y quienes no soportan las aglomeraciones suelen quedarse en los márgenes, lejos del centro del cruce.
 
-La competición tiene un límite de tiempo, de modo que no se prolonga hasta que uno de los bandos se rinde. Si ningún equipo consigue desplazar la cuerda lo suficiente, puede acabar en empate. Conviene llevar calzado cerrado, porque la calle está abarrotada y los pisotones son frecuentes. Unos guantes también ayudan, ya que la paja resulta áspera para las manos desnudas.
+La competición tiene un tiempo límite, de modo que no se prolonga hasta que uno de los bandos se rinde. Si ningún equipo consigue desplazar la cuerda lo suficiente, puede terminar en empate. Conviene llevar calzado cerrado, porque la calle está abarrotada y es fácil recibir pisotones. Los guantes también ayudan, ya que la paja resulta áspera para las manos desnudas.
 
 ## En Yui Rail hasta Kumoji
 
-Con la Ruta 58 cerrada a los coches durante el evento, el monorraíl Yui Rail es la forma más sencilla de llegar. Hay dos estaciones a una distancia que se cubre bien a pie:
+Como la Ruta 58 se cierra a los coches durante el evento, el monorraíl Yui Rail es la forma más cómoda de llegar. Hay dos estaciones a distancia de paseo:
 
-- **Estación de Kencho-mae (県庁前):** la más próxima a Kumoji y al extremo occidental de Kokusai-dori. Basta con caminar hacia la Ruta 58 y seguir a la gente.
-- **Estación de Asahibashi (旭橋):** junto a la terminal de autobuses de Naha. Desde allí, un corto paseo hacia el norte por la Ruta 58 lleva hasta el cruce.
+- **Estación Kencho-mae (県庁前):** la más próxima a Kumoji y al extremo occidental de Kokusai-dori. La Ruta 58 queda a pocos pasos.
+- **Estación Asahibashi (旭橋):** junto a la terminal de autobuses de Naha (Naha Bus Terminal). Desde allí se sube a pie por la Ruta 58 hacia el norte hasta el cruce en un breve paseo.
 
-Ese día los trenes van llenísimos, y también se forman colas en las máquinas expendedoras. Para evitarlas, lo mejor es una tarjeta IC como OKICA o Suica, puesto que el Yui Rail acepta las principales tarjetas IC del país. No compensa ir en coche: las calles cercanas se cortan y los aparcamientos del centro de Naha se llenan.
+Ese día los trenes van llenísimos y suele haber colas en las máquinas expendedoras. Con una tarjeta IC como OKICA o Suica se evitan, porque el Yui Rail admite las principales tarjetas IC de todo el país. Ir en coche no compensa: las calles próximas al recinto se cierran y los aparcamientos del centro de Naha se llenan.
 
-Si se aloja cerca de Kokusai-dori, vaya andando. El cruce está en el extremo occidental de la calle y, desde la mayoría de los hoteles de la zona, se llega antes a pie que en tren.
+Desde los hoteles de Kokusai-dori, lo más sencillo es caminar. El cruce está en el extremo occidental de la calle, y desde la mayoría de los hoteles de la zona se llega antes a pie que en tren.
 
 ## Un trozo de cuerda como recuerdo
 
-Una vez terminado el tirón, la soga no sigue entera mucho tiempo. La gente corta tramos de paja para llevárselos a casa, pues se cree que un pedazo de la cuerda del Gran Tira y Afloja trae buena suerte y salud durante todo el año. Muchos vecinos guardan una hebra en algún rincón de casa.
+Terminado el tirón, la cuerda no dura entera mucho tiempo. La gente corta trozos de paja para llevárselos a casa, pues se cree que un fragmento de la cuerda del Gran Tira y Afloja da buena suerte y salud durante todo el año. Muchos vecinos guardan una hebra en algún rincón de su casa.
 
-Si quiere uno, lleve unas tijeras pequeñas o una navaja plegable y quédese cerca de la cuerda al acabar. Hay que darse prisa, porque la soga principal se despedaza enseguida. Si vuela ese mismo día, no pase objetos cortantes por el control de seguridad del aeropuerto: guárdelos en el equipaje facturado.
+Quienes quieren un trozo suelen llevar unas tijeras pequeñas o una navaja plegable y se quedan cerca de la cuerda al acabar. El cuerpo principal se despedaza en un abrir y cerrar de ojos. Las cuchillas no pueden pasar el control de seguridad del aeropuerto, así que, si el vuelo es el mismo día, deben ir en el equipaje facturado.
 
 ## Alrededor del tirón: Kokusai-dori y el Festival de Naha
 
-El tira y afloja es el acto central del Festival de Naha, que se desarrolla ese mismo fin de semana. Durante las fiestas, Kokusai-dori suele acoger desfiles y danzas eisa con tambores. El programa oficial del festival detalla qué actividades hay y dónde.
+El tira y afloja es el acto central del Festival de Naha, que se celebra ese mismo fin de semana. Durante el festival, Kokusai-dori suele acoger desfiles y danzas eisa al son de los tambores.
 
-Cuando la multitud empiece a dispersarse, camine hacia el este por Kokusai-dori y desvíese por las galerías cubiertas de Heiwa-dori e Ichiba-hondori. Desembocan en el Mercado Público de Makishi, cuya planta baja vende pescado y cerdo. En los restaurantes del piso superior cocinan lo que se haya comprado abajo.
+Caminando hacia el este por Kokusai-dori se entra en las galerías cubiertas de Heiwa-dori e Ichiba-hondori. Estas desembocan en el mercado público de Makishi (Makishi Public Market), cuya planta baja vende pescado y cerdo; en los restaurantes del piso de arriba cocinan lo que se haya comprado abajo.
 
-Para terminar en un lugar más tranquilo, la calle empedrada de alfarería de Tsuboya queda a poca distancia a pie. El castillo de Shuri está a unas pocas paradas del Yui Rail, en la estación de Shuri, y es una buena excursión matinal antes de pasar la tarde junto a la cuerda.
+Para un ambiente más tranquilo, un poco más allá se encuentra la calle empedrada de la cerámica de Tsuboya. El castillo de Shuri queda a unas pocas paradas de Yui Rail, en la estación de Shuri: una buena excursión matinal antes de pasar la tarde junto a la cuerda.

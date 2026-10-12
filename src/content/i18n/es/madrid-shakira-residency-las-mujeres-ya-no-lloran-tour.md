@@ -1,56 +1,56 @@
 ---
 lang: es
 slug: madrid-shakira-residency-las-mujeres-ya-no-lloran-tour
-srcHash: '56ac48bda518'
+srcHash: '4829e733e92c'
 title: 'Residencia de Shakira (Las Mujeres Ya No Lloran Tour): fechas, entradas y recinto (Madrid)'
-description: Residencia de Shakira (Las Mujeres Ya No Lloran Tour) en Madrid, España, del 18 de septiembre al 11 de octubre de 2026. Qué es, cuándo y dónde se celebra, y cómo organizar la visita en torno a ella.
-quickAnswer: 'La residencia de Shakira en Madrid, dentro de la gira Las Mujeres Ya No Lloran Tour, se extiende a lo largo de doce noches: el 18, 19, 20, 25, 26 y 27 de septiembre, y el 2, 3, 4, 9, 10 y 11 de octubre de 2026. Conviene confirmar las entradas y los horarios exactos de apertura de puertas en la web oficial de la gira, ya que las plataformas de reventa no siempre ofrecen información fiable. Reserva alojamiento con antelación: doce fechas significan doce oleadas distintas de fans llegando a la ciudad.'
+description: La residencia madrileña de Shakira dentro del Las Mujeres Ya No Lloran Tour tenía como fechas anunciadas del 18 de septiembre al 11 de octubre de 2026. En total se anunciaron doce noches.
+quickAnswer: 'Shakira anunció doce noches en Madrid para su residencia del Las Mujeres Ya No Lloran Tour: el 18, 19, 20, 25, 26 y 27 de septiembre y el 2, 3, 4, 9, 10 y 11 de octubre de 2026. La venta de entradas se concentraba en la web oficial de la gira, mientras que los datos de las plataformas de reventa sobre ubicaciones y precios no siempre eran fiables. Las doce fechas se agrupaban en cuatro bloques de viernes a domingo, así que los fans que llegaban de fuera se repartían entre cuatro fines de semana distintos.'
 faq:
-  - q: ¿Cuáles son las fechas exactas de la residencia de Shakira en Madrid?
-    a: '18, 19 y 20 de septiembre de 2026, y 2, 3, 4, 9, 10 y 11 de octubre de 2026, además del 25, 26 y 27 de septiembre: doce noches en total, organizadas en bloques de tres noches con pausas entre ellos.'
-  - q: ¿Dónde compro las entradas y consulto el recinto?
-    a: Confirma el horario, el recinto exacto y las entradas en la web oficial de la gira; los mercados secundarios pueden mostrar precios o ubicaciones de asientos incorrectos.
-  - q: ¿Hay alguna fecha de la residencia mejor que otra para evitar aglomeraciones?
-    a: Es probable que las fechas de octubre (2-11) reúnan a menos fans llegados de fuera que el fin de semana de apertura (18-20 de septiembre), que suele atraer la mayor afluencia de público viajero.
-  - q: ¿Con cuánta antelación debería reservar el hotel?
-    a: 'Reserva con antelación: los precios de los hoteles cercanos al recinto suelen dispararse en las fechas concretas de cada concierto, así que elegir una fecha flexible dentro de la residencia puede ahorrarte dinero.'
-  - q: ¿Qué opciones hay cerca para cenar antes del concierto?
-    a: Los restaurantes cercanos al recinto suelen llenarse cerca de las 21:00; cenar más temprano o esperar a después del concierto normalmente permite evitar las aglomeraciones.
+  - q: ¿Cuáles eran las fechas exactas de la residencia de Shakira en Madrid?
+    a: El 18, 19, 20, 25, 26 y 27 de septiembre de 2026 y el 2, 3, 4, 9, 10 y 11 de octubre de 2026. Eran doce noches en total, agrupadas en bloques de tres con pausas entre uno y otro.
+  - q: ¿Dónde se compraban las entradas y se consultaba la información del recinto?
+    a: La venta de entradas de la residencia se concentraba en la web oficial de la gira. En conciertos de esta envergadura, los portales de reventa pueden mostrar ubicaciones o precios erróneos.
+  - q: ¿Había alguna fecha más recomendable que otra para evitar aglomeraciones?
+    a: Los primeros fines de semana de una residencia suelen atraer al mayor número de visitantes. Por eso se esperaba que el bloque inicial (18-20 de septiembre) estuviera más concurrido que las fechas de octubre (2-11).
+  - q: ¿Con cuánta antelación había que buscar hotel?
+    a: Cerca de los grandes recintos de Madrid, los precios hoteleros suelen dispararse en las fechas concretas de cada concierto, no durante todo el mes. En el caso de esta residencia, los picos coincidían con las doce noches anunciadas.
+  - q: ¿Qué opciones había cerca para cenar antes del concierto?
+    a: Como en Madrid se cena tarde, los restaurantes próximos a los recintos suelen llenarse hacia las 9pm. Cenar antes o después del espectáculo suele bastar para librarse de las aglomeraciones.
 ---
 
-Doce noches, una artista, una sola ciudad: esa es la magnitud de esta residencia. Shakira, la cantante colombiana ganadora de premios Grammy y Grammy Latino, eligió Madrid para ofrecer una serie extendida de conciertos de su gira Las Mujeres Ya No Lloran Tour, en lugar de una única fecha aislada en un estadio.
+Doce noches con una sola artista y en una sola ciudad: esa era la magnitud de esta residencia. En lugar de un único concierto en un estadio, la cantante colombiana Shakira, ganadora de premios Grammy y Grammy Latinos, eligió Madrid para una larga serie de actuaciones del Las Mujeres Ya No Lloran Tour. Las fechas anunciadas iban del 18 de septiembre al 11 de octubre de 2026.
 
 ## Las fechas
 
-La residencia se organiza en dos bloques separados por una semana, no son noches consecutivas:
+El calendario no se anunció en noches consecutivas, sino en bloques de tres noches separados por una semana:
 
 - 18, 19 y 20 de septiembre
 - 25, 26 y 27 de septiembre
 - 2, 3 y 4 de octubre
 - 9, 10 y 11 de octubre
 
-Este patrón —tres noches, una pausa, tres noches más, y así sucesivamente— sugiere que los días libres se destinan al descanso o a otros compromisos de la gira, así que no conviene asumir que se trata de un tramo corrido a la hora de reservar los vuelos. Elige primero tu fecha y organiza el viaje en torno a ella, sin dar por hecho que una noche es intercambiable con otra.
+Todos los bloques caían en viernes, sábado y domingo. Con esta pauta de tres noches, una pausa y otras tres, los días laborables quedaban libres, lo que hacía pensar en jornadas de descanso o en otros compromisos de la gira. Cada noche era un concierto independiente y no formaba parte de una tirada continua.
 
-## Entradas y acceso al recinto
+## Entradas y acceso
 
-Las residencias de varias noches de esta envergadura suelen vender las entradas por niveles de precio, y en ocasiones las primeras fechas resultan más económicas que las de cierre, a medida que aumenta la demanda. Antes de comprar en cualquier plataforma secundaria, conviene confirmar el horario y las entradas en la web oficial.
+En las residencias de varias noches de esta escala, las entradas suelen venderse con precios escalonados, y a veces las primeras fechas resultan más baratas que las últimas a medida que crece la demanda. En espectáculos de este tipo, los portales de reventa pueden mostrar ubicaciones o precios erróneos.
 
-Algunos aspectos prácticos que se aplican a cualquier concierto de esta magnitud en un estadio o pabellón de Madrid:
+Hay algunas cuestiones prácticas comunes a cualquier gran concierto en un estadio o pabellón de Madrid:
 
-- Las puertas suelen abrir bastante antes de la hora anunciada para el inicio del concierto; en los espectáculos de gran aforo en Madrid es habitual que primero actúen los teloneros.
-- Lleva la entrada física o en el móvil vinculada a la plataforma usada en la compra, ya que el personal del recinto escanea las entradas en varios puntos de control en eventos de este tamaño.
-- El metro y los autobuses en las inmediaciones de los grandes recintos de Madrid suelen ampliar su horario en noches de grandes eventos, aunque conviene no darlo por sentado sin consultar antes el aviso específico del operador de transporte para la fecha que tengas.
+- Las puertas suelen abrirse mucho antes de la hora anunciada de la actuación, y en los conciertos multitudinarios de Madrid es habitual que actúen antes uno o varios teloneros.
+- Cada entrada, física o móvil, va vinculada a la plataforma en la que se compró, y en eventos de este tamaño el personal del recinto la escanea en varios puntos de control.
+- En las noches de grandes eventos, el metro y los autobuses que dan servicio a los principales recintos madrileños suelen ampliar su horario, y el operador de transporte publica avisos para cada fecha.
 
-## Cómo organizarse ante una residencia de doce fechas
+## Cómo organizarse en una serie de doce fechas
 
-Con tantas noches de por medio, los precios de los hoteles cercanos al recinto tienden a dispararse justo en las fechas de los conciertos, en lugar de mantenerse estables durante todo el mes. Si tu viaje no depende de una fecha concreta, reservar una noche que no sea viernes ni sábado dentro de este tramo puede suponer un ahorro notable en el alojamiento.
+Cerca de los recintos de Madrid, los precios de los hoteles suelen dispararse en los días de concierto en vez de mantenerse estables a lo largo del mes. Las doce noches anunciadas caían en viernes, sábado o domingo, que suelen ser las más caras de la semana. Los fans que llegan en avión desde Latinoamérica y otros países europeos tienden a concentrarse en el primer fin de semana de una residencia.
 
-Los fans que llegan desde Latinoamérica y otras partes de Europa suelen concentrarse en el fin de semana de apertura (18-20 de septiembre), por lo que las fechas de octubre podrían ofrecer un ambiente algo más tranquilo en las calles y bares de los alrededores antes del concierto.
+Por eso se esperaba que el bloque del 18-20 de septiembre atrajera al mayor número de visitantes, mientras que en torno a las fechas de octubre las calles y los bares estarían más tranquilos.
 
-## Moverse entre el público como un local
+## Moverse entre el público como un habitual
 
-Los aficionados a los conciertos en Madrid suelen cenar tarde, a menudo después de las 21:00, así que los restaurantes cercanos al recinto se llenan justo antes de la apertura de puertas, más que a media tarde. Si quieres conseguir mesa sin esperar, cena antes o resérvate la comida para después del concierto, ya que en España las cocinas suelen seguir sirviendo hasta bien pasada la medianoche en noches de eventos.
+En Madrid, el público local suele cenar tarde, a menudo después de las 9pm. Por eso los restaurantes cercanos a los grandes recintos no se llenan a media tarde, sino justo antes de la apertura de puertas. Quien cena antes, o después del concierto, normalmente no tiene que esperar mesa, ya que en España las cocinas suelen seguir abiertas pasada la medianoche en las noches de eventos.
 
-El efectivo sigue funcionando en todas partes, pero el pago sin contacto con tarjeta y el pago móvil son la norma en bares y quioscos alrededor de los grandes recintos de Madrid, así que no hace falta llevar mucho dinero encima.
+El efectivo se acepta en todas partes, aunque en los bares y quioscos que rodean los principales recintos de Madrid lo habitual es pagar con tarjeta sin contacto o con el móvil.
 
-En cuanto a los puestos de merchandising, las colas suelen ser más largas en la hora previa al inicio del concierto, así que conviene echar un vistazo durante la primera franja de apertura de puertas, en lugar de esperar a los últimos veinte minutos.
+En los puestos de merchandising, las colas suelen ser más largas durante la hora previa al inicio del concierto. Justo después de la apertura de puertas suele haber mucha menos gente que en los últimos veinte minutos.

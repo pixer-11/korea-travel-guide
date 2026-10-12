@@ -512,7 +512,19 @@
   "Sapa Stone Church": {
    "attempts": 1,
    "hits": 1
+  },
+  "Lee Ufan Museum": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Art House Project": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Yellow Pumpkin": {
+   "attempts": 1,
+   "hits": 0
   }
  },
- "updated": "2026-10-12T00:16:18.136Z"
+ "updated": "2026-10-12T01:39:11.334Z"
 }
