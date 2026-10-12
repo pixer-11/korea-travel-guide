@@ -4507,6 +4507,12 @@
   "reason": "publish gate: Rainforest creek with rocks matches Crystal Cascades scenery",
   "at": "2026-09-28T16:50:40.928Z"
  },
+ "cairns-rusty-s-markets\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Rusty%27s_Markets%2C_Cairns%2C_Australia_in_May_02.jpg/3840px-Rusty%27s_Markets%2C_Cairns%2C_Australia_in_May_02.jpg": {
+  "slug": "cairns-rusty-s-markets",
+  "verdict": "MATCH",
+  "reason": "publish gate: Busy fruit market stalls, representative of Rusty's Markets",
+  "at": "2026-10-12T08:03:15.559Z"
+ },
  "cairns-the-chambers\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Mulgrave_Gallery%2C_formerly_Mulgrave_Shire_Council_Chambers%2C_Cairns%2C_2025%2C_01.jpg/3840px-Mulgrave_Gallery%2C_formerly_Mulgrave_Shire_Council_Chambers%2C_Cairns%2C_2025%2C_01.jpg": {
   "slug": "cairns-the-chambers",
   "verdict": "MATCH",
@@ -6285,6 +6291,12 @@
   "reason": "publish gate: Museum building exterior with Mongolian script, representative hero shot",
   "at": "2026-10-11T07:44:49.454Z"
  },
+ "dalanzadgad-ongi-monastery\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Ongii_Monastery_19.jpg/1920px-Ongii_Monastery_19.jpg": {
+  "slug": "dalanzadgad-ongi-monastery",
+  "verdict": "MATCH",
+  "reason": "publish gate: Monastery buildings in Mongolian desert landscape, representative view",
+  "at": "2026-10-12T08:03:15.414Z"
+ },
  "dallas-epik-high-3-0-tour\u0001https://upload.wikimedia.org/wikipedia/commons/7/7f/Epik_High_in_Everland.jpg": {
   "slug": "dallas-epik-high-3-0-tour",
   "verdict": "MATCH",
@@ -6944,6 +6956,12 @@
   "verdict": "MATCH",
   "reason": "patrol replace: Fresh oysters and seafood dish plausibly from Edinburgh rest",
   "at": "2026-10-01T23:25:33.612Z"
+ },
+ "edinburgh-national-museum-of-scotland\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Museum_of_Scotland.jpg/1920px-Museum_of_Scotland.jpg": {
+  "slug": "edinburgh-national-museum-of-scotland",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of National Museum of Scotland building, representative view",
+  "at": "2026-10-12T08:03:15.529Z"
  },
  "edinburgh-royal-mile\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/High_Street%2C_Edinburgh.JPG/1920px-High_Street%2C_Edinburgh.JPG": {
   "slug": "edinburgh-royal-mile",
@@ -7754,6 +7772,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Exterior storefront clearly showing Cafe Gandolfi signage and entrance",
   "at": "2026-10-01T14:57:09.612Z"
+ },
+ "glasgow-kelvingrove-art-gallery-and-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Kelvingrove_Art_Gallery_and_Museum_-_aerial_-_2025-04-17.jpg/1920px-Kelvingrove_Art_Gallery_and_Museum_-_aerial_-_2025-04-17.jpg": {
+  "slug": "glasgow-kelvingrove-art-gallery-and-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Aerial view of Kelvingrove Art Gallery and Museum building",
+  "at": "2026-10-12T08:03:15.501Z"
  },
  "glasgow-kibble-palace\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Glasgow_Botanic_Gardens_-_Kibble_Palace_11092018.jpg/3840px-Glasgow_Botanic_Gardens_-_Kibble_Palace_11092018.jpg": {
   "slug": "glasgow-kibble-palace",
@@ -8864,6 +8888,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows exterior facade with statue of the venue's building",
   "at": "2026-10-04T13:41:03.950Z"
+ },
+ "heidelberg-kurpfalzisches-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Sammlung_Kurpf%C3%A4lzisches_Museum_Heidelberg_7.jpg/3840px-Sammlung_Kurpf%C3%A4lzisches_Museum_Heidelberg_7.jpg": {
+  "slug": "heidelberg-kurpfalzisches-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Museum artwork/relief display, representative of museum exhibits",
+  "at": "2026-10-12T08:03:15.472Z"
  },
  "heidelberg-vetter-s-alt-heidelberger-brauhaus\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Vetter%27s_Alt_Heidelberger_Brauhaus_%2855058224681%29.jpg/3840px-Vetter%27s_Alt_Heidelberger_Brauhaus_%2855058224681%29.jpg": {
   "slug": "heidelberg-vetter-s-alt-heidelberger-brauhaus",
@@ -12416,6 +12446,12 @@
   "reason": "patrol re-check: Exterior of Kharkhorum Museum with sign, plausible venue photo",
   "at": "2026-10-11T23:05:17.920Z"
  },
+ "kharkhorin-orkhon-waterfall\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Ulaan_Tsutgalan_Waterfall_%282026%29.jpg/1920px-Ulaan_Tsutgalan_Waterfall_%282026%29.jpg": {
+  "slug": "kharkhorin-orkhon-waterfall",
+  "verdict": "MATCH",
+  "reason": "publish gate: Representative waterfall and canyon view, matches venue type",
+  "at": "2026-10-12T08:03:15.305Z"
+ },
  "khiva-islam-khoja-minaret\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/%E6%97%A7%E5%B8%82%E8%A1%97%E5%9C%B0%E3%81%A8Islam_Khoja_Minaret_2023.jpg/3840px-%E6%97%A7%E5%B8%82%E8%A1%97%E5%9C%B0%E3%81%A8Islam_Khoja_Minaret_2023.jpg": {
   "slug": "khiva-islam-khoja-minaret",
   "verdict": "MATCH",
@@ -13585,6 +13621,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows museum's classical facade and entrance gate, representative view",
   "at": "2026-10-11T07:44:31.575Z"
+ },
+ "kurashiki-shinkeien\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/211203_Shinkeien_garden_Kurashiki_Okayama_pref_Japan03s3.jpg/3840px-211203_Shinkeien_garden_Kurashiki_Okayama_pref_Japan03s3.jpg": {
+  "slug": "kurashiki-shinkeien",
+  "verdict": "MATCH",
+  "reason": "publish gate: Japanese garden stone water basin, matches hidden-gem venue",
+  "at": "2026-10-12T08:03:15.383Z"
  },
  "kyoto-arashiyama-bamboo-forest\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Bamboo_Forest%2C_Arashiyama%2C_Kyoto%2C_Japan.jpg/1920px-Bamboo_Forest%2C_Arashiyama%2C_Kyoto%2C_Japan.jpg": {
   "slug": "kyoto-arashiyama-bamboo-forest",
@@ -16972,6 +17014,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Full facade view of Nymphenburg Palace, representative hero shot",
   "at": "2026-10-02T14:02:01.375Z"
+ },
+ "munich-wiener-platz\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Wiener_Platz_in_M%C3%BCnchen-Haidhausen.jpg/3840px-Wiener_Platz_in_M%C3%BCnchen-Haidhausen.jpg": {
+  "slug": "munich-wiener-platz",
+  "verdict": "MATCH",
+  "reason": "publish gate: Representative plaza view with maypole, buildings, cafes in Munich",
+  "at": "2026-10-12T08:03:15.589Z"
  },
  "muntinlupa-yves-2026-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Yves_%2855265302920%29.jpg/3840px-Yves_%2855265302920%29.jpg": {
   "slug": "muntinlupa-yves-2026-tour",
@@ -26788,6 +26836,12 @@
   "reason": "patrol re-check: Waterfront promenade plaza with skyline view, consistent with venue",
   "at": "2026-08-16T20:35:40.804Z"
  },
+ "tsonjin-boldog-danzanravjaa-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Danzanravjaa_Museum_of_Sainshand-4.jpg/1920px-Danzanravjaa_Museum_of_Sainshand-4.jpg": {
+  "slug": "tsonjin-boldog-danzanravjaa-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Mongolian-style ornate gate, plausible entrance to museum grounds",
+  "at": "2026-10-12T08:03:15.444Z"
+ },
  "tulum-el-castillo\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/El_Castillo_front_view_-_Tulum_Maya_site%2C_QR.jpg/3840px-El_Castillo_front_view_-_Tulum_Maya_site%2C_QR.jpg": {
   "slug": "tulum-el-castillo",
   "verdict": "MATCH",
@@ -27955,6 +28009,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Exterior storefront of Fish & Forest restaurant, York",
   "at": "2026-10-05T07:44:01.544Z"
+ },
+ "york-heavenly-desserts-york\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Heavenly_Desserts_Blake_Street_York_Dec25.jpg/3840px-Heavenly_Desserts_Blake_Street_York_Dec25.jpg": {
+  "slug": "york-heavenly-desserts-york",
+  "verdict": "MATCH",
+  "reason": "publish gate: Storefront exterior with signage, representative hero shot",
+  "at": "2026-10-12T08:03:15.351Z"
  },
  "york-museum-gardens\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/York_Museum_Gardens_24.08.2013.jpg/3840px-York_Museum_Gardens_24.08.2013.jpg": {
   "slug": "york-museum-gardens",
