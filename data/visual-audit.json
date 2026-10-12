@@ -17254,12 +17254,6 @@
   "reason": "publish gate: Exterior view of modern concrete museum building, representative",
   "at": "2026-10-12T07:07:46.878Z"
  },
- "naoshima-teshima-art-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Teshima_Art_Museum_exterior_view_201310.jpg/1920px-Teshima_Art_Museum_exterior_view_201310.jpg": {
-  "slug": "naoshima-teshima-art-museum",
-  "verdict": "MATCH",
-  "reason": "publish gate: Shows Teshima Art Museum's distinctive white curved exterior",
-  "at": "2026-10-12T07:07:46.901Z"
- },
  "nape-flora-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Flora_Garden_03.jpg/1920px-Flora_Garden_03.jpg": {
   "slug": "nape-flora-garden",
   "verdict": "MATCH",
@@ -25993,6 +25987,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Entrance archway with Eco Park sign, representative venue exterior",
   "at": "2026-08-22T09:19:53.723Z"
+ },
+ "teshima-teshima-art-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Teshima_Art_Museum_exterior_view_201310.jpg/1920px-Teshima_Art_Museum_exterior_view_201310.jpg": {
+  "slug": "teshima-teshima-art-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Teshima Art Museum's distinctive white curved exterior",
+  "at": "2026-10-12T07:07:46.901Z"
  },
  "tioman-tioman-island\u0001https://upload.wikimedia.org/wikipedia/commons/d/d5/Tioman_island_%283679435126%29.jpg": {
   "slug": "tioman-tioman-island",

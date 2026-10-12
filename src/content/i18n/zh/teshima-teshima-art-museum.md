@@ -1,6 +1,6 @@
 ---
 lang: zh
-slug: naoshima-teshima-art-museum
+slug: teshima-teshima-art-museum
 srcHash: '8ea1746c8102'
 title: 丰岛美术馆：直岛旅行指南（4.6★）
 description: 丰岛美术馆位于丰岛唐柜地区。从直岛宫浦港搭渡轮到丰岛家浦港，再坐巴士或骑电动自行车上坡，很快就能到。评分4.6★（2,456条评价），本文汇总游客评价、开放时间和参观建议。

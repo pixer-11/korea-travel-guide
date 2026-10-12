@@ -1,8 +1,8 @@
 ---
-title: "Teshima Art Museum: Naoshima Travel Guide (4.6★)"
+title: "Teshima Art Museum: Travel Guide (4.6★)"
 description: "Teshima Art Museum sits on Teshima island in the Karato district, a short ferry hop from Naoshima's Miyanoura port to Teshima's Ieura port, then a bus or e-bike ride uphill. 4.6★ (2,456 reviews) — what visitors say, hours, and tips."
 country: "Japan"
-region: "Naoshima"
+region: "Teshima"
 category: "attraction"
 pubDate: "2026-10-12T07:07:49.889Z"
 heroImage:

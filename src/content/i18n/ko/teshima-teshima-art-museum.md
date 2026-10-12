@@ -1,6 +1,6 @@
 ---
 lang: ko
-slug: naoshima-teshima-art-museum
+slug: teshima-teshima-art-museum
 srcHash: '8ea1746c8102'
 title: '테시마 미술관: 나오시마 여행 가이드 (4.6★)'
 description: 테시마 미술관은 나오시마 옆 섬인 테시마의 가라토 지구에 있습니다. 나오시마 미야노우라항에서 배를 타고 테시마 이에우라항으로 잠깐 건너간 뒤, 버스나 전기자전거로 언덕을 올라가면 됩니다. 평점 4.6★(리뷰 2,456개)을 받은 이곳의 방문 후기와 운영 시간, 관람 팁을 정리했습니다.

@@ -1,6 +1,6 @@
 ---
 lang: ja
-slug: naoshima-teshima-art-museum
+slug: teshima-teshima-art-museum
 srcHash: '8ea1746c8102'
 title: 豊島美術館：直島旅行ガイド（4.6★）
 description: 豊島美術館は、直島の宮浦港からフェリーで豊島の家浦港へ渡り、バスか電動自転車で坂を上った先の唐櫃地区にあります。評価4.6★（2,456件のレビュー）。訪れた人の声、開館時間、旅のコツをまとめました。
