@@ -60,7 +60,14 @@ export const SHARES = { publish: 40, backfill: 25, refresh: 20, quality: 15 };
 export const SEARCH_DAILY_CAP = Number(process.env.PLACES_SEARCH_DAILY_CAP || 100);
 export const SEARCH_SHARES = { publish: 55, fill: 35, other: 10 };
 
-const today = () => new Date().toISOString().slice(0, 10);
+// Google's daily quotas reset at midnight Pacific Time, not UTC — 16:00 KST
+// in summer, 17:00 KST in winter. Keyed by the UTC date, the ledger read
+// "19/100" at 10:33 KST on 2026-10-12 while Google had already refused the
+// day: the pilot runs between 09:00 and 16:00 KST believed in a fresh budget
+// that the previous afternoon's publish and bulk runs had spent. The day here
+// is Google's day.
+export const quotaDay = (d = new Date()) => d.toLocaleDateString('en-CA', { timeZone: 'America/Los_Angeles' });
+const today = () => quotaDay();
 
 async function load() {
   try {
