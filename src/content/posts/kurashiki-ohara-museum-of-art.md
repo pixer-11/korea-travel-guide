@@ -1,8 +1,8 @@
 ---
-title: "Ōhara Museum of Art: Okayama Travel Guide (4.4★)"
+title: "Ōhara Museum of Art: Kurashiki Travel Guide (4.4★)"
 description: "The Ōhara Museum of Art sits in Kurashiki's Bikan Historical Quarter, about a 15-minute walk from JR Kurashiki Station, and it was Japan's first private museum centred on Western art, open since 1930. 4.4★ (3,380 reviews) — what visitors say, hours, and tips."
 country: "Japan"
-region: "Okayama"
+region: "Kurashiki"
 category: "hidden-gem"
 pubDate: "2026-10-11T07:44:31.557Z"
 heroImage:

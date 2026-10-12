@@ -13574,6 +13574,18 @@
   "reason": "publish gate: Pond, gardens, and cityscape match Suizenji Jojuen Garden setting",
   "at": "2026-09-15T07:45:53.345Z"
  },
+ "kurashiki-kurashiki-bikan-historical-quarter\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/161015_At_Kurashiki_Bikan_historical_quarter_Kurashiki_Okayama_pref_Japan01s3.jpg/3840px-161015_At_Kurashiki_Bikan_historical_quarter_Kurashiki_Okayama_pref_Japan01s3.jpg": {
+  "slug": "kurashiki-kurashiki-bikan-historical-quarter",
+  "verdict": "MATCH",
+  "reason": "publish gate: Canal, bridge, willows match Kurashiki Bikan Historical Quarter scenery",
+  "at": "2026-10-11T00:20:02.320Z"
+ },
+ "kurashiki-ohara-museum-of-art\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/080727_Ohara_Museum_of_Art_Kurashiki_Okayama_pref_Japan01s3.jpg/3840px-080727_Ohara_Museum_of_Art_Kurashiki_Okayama_pref_Japan01s3.jpg": {
+  "slug": "kurashiki-ohara-museum-of-art",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows museum's classical facade and entrance gate, representative view",
+  "at": "2026-10-11T07:44:31.575Z"
+ },
  "kyoto-arashiyama-bamboo-forest\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Bamboo_Forest%2C_Arashiyama%2C_Kyoto%2C_Japan.jpg/1920px-Bamboo_Forest%2C_Arashiyama%2C_Kyoto%2C_Japan.jpg": {
   "slug": "kyoto-arashiyama-bamboo-forest",
   "verdict": "MATCH",
@@ -18380,18 +18392,6 @@
   "verdict": "MATCH",
   "reason": "publish gate: Traditional Japanese building plausibly representing this museum's exterior",
   "at": "2026-10-11T00:20:02.269Z"
- },
- "okayama-kurashiki-bikan-historical-quarter\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/161015_At_Kurashiki_Bikan_historical_quarter_Kurashiki_Okayama_pref_Japan01s3.jpg/3840px-161015_At_Kurashiki_Bikan_historical_quarter_Kurashiki_Okayama_pref_Japan01s3.jpg": {
-  "slug": "okayama-kurashiki-bikan-historical-quarter",
-  "verdict": "MATCH",
-  "reason": "publish gate: Canal, bridge, willows match Kurashiki Bikan Historical Quarter scenery",
-  "at": "2026-10-11T00:20:02.320Z"
- },
- "okayama-ohara-museum-of-art\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/080727_Ohara_Museum_of_Art_Kurashiki_Okayama_pref_Japan01s3.jpg/3840px-080727_Ohara_Museum_of_Art_Kurashiki_Okayama_pref_Japan01s3.jpg": {
-  "slug": "okayama-ohara-museum-of-art",
-  "verdict": "MATCH",
-  "reason": "publish gate: Shows museum's classical facade and entrance gate, representative view",
-  "at": "2026-10-11T07:44:31.575Z"
  },
  "okayama-okayama-castle\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/%E5%B2%A1%E5%B1%B1%E5%9F%8E_Okayama_Castle_-_panoramio.jpg/3840px-%E5%B2%A1%E5%B1%B1%E5%9F%8E_Okayama_Castle_-_panoramio.jpg": {
   "slug": "okayama-okayama-castle",

@@ -1,6 +1,6 @@
 ---
 lang: ja
-slug: okayama-kurashiki-bikan-historical-quarter
+slug: kurashiki-kurashiki-bikan-historical-quarter
 srcHash: '1ae593ae9f1b'
 title: 倉敷美観地区：岡山の旅行ガイド
 description: 倉敷美観地区は、JR倉敷駅から南へ歩いて15分ほどの場所にある、運河沿いに古い商家が残る岡山県倉敷市の町並みです。評価は4.4★（口コミ27,927件）。訪れた人の声や時間帯、楽しみ方のコツをご紹介します。

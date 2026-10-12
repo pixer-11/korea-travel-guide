@@ -2185,6 +2185,27 @@
     },
     {
       "country": "Japan",
+      "region": "Kurashiki",
+      "topic": "Kurashiki Ivy Square",
+      "category": "attraction",
+      "query": "Kurashiki Ivy Square"
+    },
+    {
+      "country": "Japan",
+      "region": "Kurashiki",
+      "topic": "Achi Shrine",
+      "category": "hidden-gem",
+      "query": "Achi Shrine Kurashiki"
+    },
+    {
+      "country": "Japan",
+      "region": "Kurashiki",
+      "topic": "Ohashi House",
+      "category": "hidden-gem",
+      "query": "Ohashi House Kurashiki"
+    },
+    {
+      "country": "Japan",
       "region": "Naoshima",
       "topic": "Art House Project",
       "category": "hidden-gem",

@@ -1,6 +1,6 @@
 ---
 lang: zh
-slug: okayama-kurashiki-bikan-historical-quarter
+slug: kurashiki-kurashiki-bikan-historical-quarter
 srcHash: '1ae593ae9f1b'
 title: 仓敷美观历史地区：冈山旅行指南
 description: 仓敷美观历史地区位于冈山县仓敷市，是一片沿运河而建的古老商人街区，从JR仓敷站往南步行约15分钟即到。评分4.4★（27,927条评价），游客口碑、开放时间与游览建议尽在本文。

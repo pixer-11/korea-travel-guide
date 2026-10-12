@@ -1,6 +1,6 @@
 ---
 lang: ko
-slug: okayama-ohara-museum-of-art
+slug: kurashiki-ohara-museum-of-art
 srcHash: '3635655b9415'
 title: '오하라 미술관: 오카야마 여행 가이드 (4.4★)'
 description: 구라시키 미관지구에 자리한 오하라 미술관은 1930년에 문을 연 일본 최초의 사립 미술관으로, JR 구라시키역에서 걸어서 15분 정도 걸립니다. 평점 4.4★(리뷰 3,380건)을 받은 이곳의 방문객 평가와 운영 시간, 관람 팁을 정리했습니다.

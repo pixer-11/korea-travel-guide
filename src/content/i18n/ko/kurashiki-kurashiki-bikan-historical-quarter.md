@@ -1,6 +1,6 @@
 ---
 lang: ko
-slug: okayama-kurashiki-bikan-historical-quarter
+slug: kurashiki-kurashiki-bikan-historical-quarter
 srcHash: '1ae593ae9f1b'
 title: '구라시키 미관지구: 오카야마 여행 가이드'
 description: 구라시키 미관지구는 오카야마현 구라시키시에 있는 옛 상인 마을로, 운하를 따라 펼쳐져 있으며 JR 구라시키역에서 남쪽으로 걸어서 15분 정도 걸립니다. 평점 4.4★(리뷰 27,927개)를 받은 이곳의 방문객 후기와 운영 시간, 여행 팁을 정리했습니다.

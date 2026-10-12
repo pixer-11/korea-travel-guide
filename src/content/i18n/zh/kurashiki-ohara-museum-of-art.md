@@ -1,6 +1,6 @@
 ---
 lang: zh
-slug: okayama-ohara-museum-of-art
+slug: kurashiki-ohara-museum-of-art
 srcHash: '3635655b9415'
 title: 大原美术馆：冈山旅行指南（4.4★）
 description: 大原美术馆坐落在仓敷美观地区，从JR仓敷站步行约15分钟即到。它于1930年开馆，是日本历史最悠久的私立美术馆。4.4★（3,380条评价），本文汇总游客评价、开放时间和参观建议。

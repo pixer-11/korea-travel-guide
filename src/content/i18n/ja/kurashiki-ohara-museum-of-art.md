@@ -1,6 +1,6 @@
 ---
 lang: ja
-slug: okayama-ohara-museum-of-art
+slug: kurashiki-ohara-museum-of-art
 srcHash: '3635655b9415'
 title: 大原美術館：岡山観光ガイド（4.4★）
 description: 大原美術館は、JR倉敷駅から徒歩約15分の倉敷美観地区にあります。1930年に開館した、日本で最も古い私立美術館です。評価は4.4★（3,380件の口コミ）。訪れた人の声や開館時間、楽しみ方のコツをまとめました。

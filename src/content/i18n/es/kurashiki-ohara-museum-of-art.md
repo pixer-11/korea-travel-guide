@@ -1,6 +1,6 @@
 ---
 lang: es
-slug: okayama-ohara-museum-of-art
+slug: kurashiki-ohara-museum-of-art
 srcHash: '3635655b9415'
 title: 'Museo de Arte Ōhara: guía de viaje de Okayama (4.4★)'
 description: Fundado en 1930, el Museo de Arte Ōhara es el museo privado más antiguo de Japón y se encuentra en el Barrio Histórico de Bikan, en Kurashiki, a unos 15 minutos a pie de la estación JR de Kurashiki. Tiene una valoración de 4.4★ (3,380 reseñas). Aquí encontrará las opiniones de los visitantes, los horarios y algunos consejos.

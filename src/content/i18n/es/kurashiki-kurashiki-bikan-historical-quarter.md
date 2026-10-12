@@ -1,6 +1,6 @@
 ---
 lang: es
-slug: okayama-kurashiki-bikan-historical-quarter
+slug: kurashiki-kurashiki-bikan-historical-quarter
 srcHash: '1ae593ae9f1b'
 title: 'Barrio histórico de Bikan en Kurashiki: guía de viaje de Okayama'
 description: 'El barrio histórico de Bikan es un antiguo distrito de comerciantes en Kurashiki (prefectura de Okayama), a orillas de un canal y a unos 15 minutos a pie al sur de la estación JR de Kurashiki. Valoración de 4.4★ (27,927 reseñas): opiniones de los visitantes, horarios y consejos.'

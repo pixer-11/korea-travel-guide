@@ -77,7 +77,7 @@ What it offers is a breather. After the switchback drive up from the valley or a
 
 ## What you'll actually find
 
-Paved walkways run between trees and a scattering of benches, and the low cloud that rolls through Sapa on most afternoons often drifts right over it.
+Paved walkways run between trees and a scattering of benches. The green strip runs northeast between Xuân Viên and Thạch Sơn streets to the southern tip of Sa Pa Lake, so the lakeside lawns are a continuation of the same walk. The low cloud that rolls through Sapa on most afternoons often drifts right over it.
 
 Locals and visitors mix here for low-key reasons:
 

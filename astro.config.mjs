@@ -572,6 +572,13 @@ export function regionRedirects() {
   for (const p of ['', '/ko', '/ja', '/es', '/zh']) {
     lines.push(`${p}/posts/lijiang-lijiang-old-town/ ${p}/posts/lijiang-old-town-of-lijiang/ 301`);
   }
+  // Kurashiki Bikan and the Ohara Museum (2026-10-12): born in the Okayama
+  // pilot run tagged Okayama, though both are in Kurashiki, a separate city
+  // 17 km west. Kurashiki became a region; the slugs followed after one day.
+  for (const p of ['', '/ko', '/ja', '/es', '/zh']) {
+    lines.push(`${p}/posts/okayama-kurashiki-bikan-historical-quarter/ ${p}/posts/kurashiki-kurashiki-bikan-historical-quarter/ 301`);
+    lines.push(`${p}/posts/okayama-ohara-museum-of-art/ ${p}/posts/kurashiki-ohara-museum-of-art/ 301`);
+  }
   // Chichu Art Museum (2026-10-11): born in the Takamatsu pilot run tagged
   // Takamatsu, though the museum is on Naoshima, a ferry ride away (its own
   // text said so). Naoshima became a region of its own; the slug followed
