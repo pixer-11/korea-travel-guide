@@ -1,6 +1,6 @@
 ---
 title: "Ōhara Museum of Art: Okayama Travel Guide (4.4★)"
-description: "The Ōhara Museum of Art sits in Kurashiki's Bikan Historical Quarter, about a 15-minute walk from JR Kurashiki Station, and it is Japan's oldest private museum, open since 1930. 4.4★ (3,380 reviews) — what visitors say, hours, and tips."
+description: "The Ōhara Museum of Art sits in Kurashiki's Bikan Historical Quarter, about a 15-minute walk from JR Kurashiki Station, and it was Japan's first private museum centred on Western art, open since 1930. 4.4★ (3,380 reviews) — what visitors say, hours, and tips."
 country: "Japan"
 region: "Okayama"
 category: "hidden-gem"
@@ -54,14 +54,14 @@ place:
 tags:
   - "okayama"
   - "old quarter"
-quickAnswer: "The Ōhara Museum of Art sits in Kurashiki's Bikan Historical Quarter, about a 15-minute walk from JR Kurashiki Station, and it is Japan's oldest private museum, open since 1930. Plan 2–3 hours for the main building, the annex and the craft galleries. At the moment it opens 9am–5pm Tuesday to Sunday and is closed Mondays; on weekends, steer clear of the 10am–4pm crush by arriving right at 9am."
+quickAnswer: "The Ōhara Museum of Art sits in Kurashiki's Bikan Historical Quarter, about a 15-minute walk from JR Kurashiki Station, and it was Japan's first private museum centred on Western art, open since 1930. Plan 2–3 hours for the main building and the craft and Asian galleries; the Annex is closed long-term. At the moment it opens 9am–5pm Tuesday to Sunday and is closed Mondays; on weekends, steer clear of the 10am–4pm crush by arriving right at 9am."
 faq:
   - q: "How do I get to the Ōhara Museum of Art from Okayama?"
     a: "Take the JR San'yō Line from Okayama Station to Kurashiki Station, a short ride. Then walk about 15 minutes from the south exit down Chūō-dōri to the canal in the Bikan Historical Quarter. The museum is at 1-chōme-1-15 Chūō."
   - q: "When is the quietest time to visit?"
     a: "Weekends are busiest from 10am to 4pm, so on a Saturday or Sunday arrive at the 9am opening and see the main building first. A weekday visit, Tuesday to Friday, is the better choice if you have it. The museum is currently closed on Mondays."
   - q: "How long should I spend there?"
-    a: "Allow about an hour for the main building's Western collection. Plan 2–3 hours if you also want the Annex, the Craft Art Gallery and the Asiatic Art Gallery, which share the same ticket."
+    a: "Allow about an hour for the main building's Western collection. Plan 2–3 hours if you also want the Craft Art Gallery and the Asiatic Art Gallery, which share the same ticket. The Annex is closed long-term."
   - q: "What are the must-see works?"
     a: "El Greco's Annunciation and Monet's Water Lilies are in the main building, along with Gauguin, Matisse, Modigliani and Rodin. Across the canal, the Craft Art Gallery holds ceramics by Hamada Shōji, Kawai Kanjirō and Bernard Leach, plus prints by Munakata Shikō."
   - q: "What else is nearby?"
@@ -74,7 +74,7 @@ Stone columns rise above a canal lined with willows. That is the façade of the 
 
 ## A textile fortune and a painter with a budget
 
-The museum opened in 1930 and is Japan's oldest private art museum. It was founded by Ōhara Magosaburō, the industrialist behind the Kurashiki spinning business that made this town rich.
+The museum opened in 1930 as Japan's first private museum centred on Western art. It was founded by Ōhara Magosaburō, the industrialist behind the Kurashiki spinning business that made this town rich.
 
 The buying was done by his friend, the painter Kojima Torajirō. Ōhara sent him to Europe, and Kojima came back with works so that Japanese artists could see Western painting without sailing to Paris. Once you know that, the collection reads as a deliberate teaching kit, not a rich man's trophy shelf.
 
@@ -97,7 +97,7 @@ Most visitors do the main building and leave. That is a mistake: the ticket cove
 
 Here the dark timber beams and thick walls frame the Japanese folk-craft (mingei) movement. You will find ceramics by Hamada Shōji, Kawai Kanjirō and Bernard Leach, and woodblock prints by Munakata Shikō. The Asiatic Art Gallery sits in the same complex with older pieces from across Asia.
 
-The Annex, behind the main building, picks up the Japanese story. It covers modern and contemporary Japanese painting, the "modern Japanese paintings" half of the museum's reputation. Budget 2–3 hours if you want all of it without hurrying.
+The Annex, behind the main building, normally holds modern and contemporary Japanese painting, but the museum lists it as closed long-term. Check the official site before you plan around it. Budget 2–3 hours for the galleries that are open if you want all of them without hurrying.
 
 ## Getting to the Bikan Quarter
 
@@ -120,7 +120,7 @@ How to work around it:
 
 ## Inside the galleries: the house rules
 
-Buy one ticket at the entrance, then keep it with you. You will show it again at the Annex and the craft galleries across the canal. The current price is posted at the ticket window and on the museum's official site.
+Buy one ticket at the entrance, then keep it with you. You will show it again at the craft galleries across the canal. The current price is posted at the ticket window and on the museum's official site.
 
 A few things that are standard here:
 

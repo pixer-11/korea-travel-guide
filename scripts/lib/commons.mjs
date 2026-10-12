@@ -51,12 +51,18 @@ export const cleanCommonsUrl = (u) =>
 // same normalisation tokens() does, minus the length filter. Words of 1-2
 // characters are noise as search anchors (why tokens() drops them) but they
 // are identity inside a hyphenated name: "U-Know" is not "know".
+// Accent fold shared by every comparison in this file. Đ/đ has no NFD
+// decomposition, so without the explicit map "Đà Lạt" folded to "a lat".
+// Both sides of a comparison must go through this: on 2026-10-12 the Sapa
+// run compared the folded anchor "muong" against the raw file title
+// "mường hoa valley" and rejected all 14 geotagged Mường Hoa photos.
+export const fold = (s = '') =>
+  String(s).replace(/[Đđ]/g, 'd').normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+
 export const allWords = (s = '') =>
-  String(s)
-    // Fold accents BEFORE stripping non-ASCII, else "Tiësto" splits into
-    // "ti" + "sto" and neither is the act (2026-08-15).
-    .normalize('NFD').replace(/[̀-ͯ]/g, '')
-    .toLowerCase()
+  // Fold accents BEFORE stripping non-ASCII, else "Tiësto" splits into
+  // "ti" + "sto" and neither is the act (2026-08-15).
+  fold(s)
     .replace(/[^a-z0-9\s]/g, ' ')
     .split(/\s+/)
     .filter(Boolean);
@@ -140,7 +146,7 @@ export const keyToken = (s = '', exclude = '') => {
   // exemption — "Live at F1" must not anchor on "f1".
   // Accents fold first ("Tiësto" → "tiesto", not "ti"), and a hyphenated
   // lead word is one name ("U-Know" → "u-know", not "know").
-  const folded = String(s).normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+  const folded = fold(s);
   const leadRaw = folded.match(/^[^a-z0-9]*([a-z0-9]+(?:-[a-z0-9]+)*)/)?.[1] || '';
   const leadCore = leadRaw.replace(/-/g, '');
   if (leadRaw.includes('-') && leadCore.length >= 3 && !bad(leadCore)) return leadRaw;
@@ -178,9 +184,9 @@ const stem = (w) => w.replace(/(?:es|s)$/i, '');
 // for containing "de", and requiring it rejected every real photo of the race.
 const NAME_STOP = new Set(['de', 'del', 'la', 'las', 'los', 'the', 'of', 'and', 'el', 'le', 'les', 'da', 'do', 'di']);
 const namesSubjectNotVantage = (title, subject) => {
-  const words = String(subject || '').toLowerCase().match(/[\p{L}\p{N}]{2,}/gu) || [];
+  const words = fold(subject).match(/[\p{L}\p{N}]{2,}/gu) || [];
   if (!words.length) return true;
-  const hay = title.toLowerCase();
+  const hay = fold(title);
   const haystack = (hay.match(/[\p{L}\p{N}]{2,}/gu) || []).map(stem);
 
   // Short names must match whole: "Cloud Gate" with one word missing is a
@@ -233,8 +239,8 @@ export function heroTitleProblem(fileName, subject, { event = false } = {}) {
   if (UNUSABLE_SUBJECT.test(fileName)) return 'unusable';   // construction, signage, plans
   if (event) { const a = archiveYearProblem(fileName); if (a) return a; }
   if (!namesSubjectNotVantage(fileName, subject)) {
-    const words = String(subject || '').toLowerCase().match(/[\p{L}\p{N}]{2,}/gu) || [];
-    const hay = (fileName.toLowerCase().match(/[\p{L}\p{N}]{2,}/gu) || []).map(stem);
+    const words = fold(subject).match(/[\p{L}\p{N}]{2,}/gu) || [];
+    const hay = (fold(fileName).match(/[\p{L}\p{N}]{2,}/gu) || []).map(stem);
     return words.every((w) => hay.includes(stem(w))) ? 'vantage' : 'off-subject';
   }
   return '';
@@ -659,12 +665,12 @@ export async function commonsBest(query, { mustInclude = [], used, allowPortrait
   const cands = await commonsCandidates(query, 14, subject, near);
   if (!cands.length) return null;
   const qtok = tokens(query);
-  const must = mustInclude.map((s) => String(s).toLowerCase()).filter(Boolean);
+  const must = mustInclude.map((s) => fold(s)).filter(Boolean);
   // crossCheck: require the image title to share ≥minCross tokens with these words
   // (usually the full event name). Guards an anchor-only search — "david" alone
   // must match ≥2 event-name tokens, so a "Michelangelo David" statue is rejected
   // but "Magomed Ankalaev at UFC Fight Night" (ankalaev+ufc+fight+night) passes.
-  const cross = crossCheck && minCross > 0 ? new Set(crossCheck.map((t) => String(t).toLowerCase())) : null;
+  const cross = crossCheck && minCross > 0 ? new Set(crossCheck.map((t) => fold(t))) : null;
 
   const eligible = cands
     .map((c, i) => {
@@ -676,7 +682,7 @@ export async function commonsBest(query, { mustInclude = [], used, allowPortrait
       // tokens means the title is just the act + a date ("Itzy 241023") → accept
       // even at crossN=1, so ITZY/BIGBANG-style real photos aren't false-rejected.
       const foreignN = cross ? [...ttok].filter((t) => !cross.has(t) && !/^\d+$/.test(t)).length : 0;
-      const titleLc = c.title.toLowerCase();
+      const titleLc = fold(c.title);
       // Space-insensitive on BOTH sides: a K-pop act stored as "LeeHi" must
       // match Commons files named "Lee Hi …" (and vice versa). Without this
       // the anchor guard rejected every real photo of an artist whose romanized

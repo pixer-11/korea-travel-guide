@@ -63,9 +63,9 @@ faq:
   - q: "How long should I spend there?"
     a: "Allow 60–90 minutes for the keep and grounds. Add about two hours if you're also visiting Korakuen across the Tsukimi-bashi bridge."
   - q: "Is the castle original?"
-    a: "Mostly not. The keep is a 1966 concrete reconstruction after it burned in 1945. The Tsukimi-yagura turret and some of the stone walls are original."
+    a: "Mostly not. The keep is a 1966 concrete reconstruction after it burned in 1945. Two turrets, the Tsukimi-yagura and the Nishinomaru Nishite-yagura, and some of the stone walls are original."
   - q: "What are the opening hours?"
-    a: "Currently 9am–5:30pm, but hours shift through the year, so check the official site for this month's times."
+    a: "9am–5:30pm, with later opening on some event nights. It closes December 29–31, so check the official site around the New Year."
 aiGenerated: true
 draft: false
 ---
@@ -74,7 +74,7 @@ draft: false
 
 The keep is black, and that's why it has its nickname. Okayama Castle is known as U-jō, the "Crow Castle", because of the dark lacquered boards that cover its walls. Gilded shachihoko (fish-shaped roof ornaments) on the roof ridges stand out against them. The Asahi River curls around the base, and Korakuen, one of Japan's three great gardens, lies on the far bank.
 
-Ukita Hideie finished the castle in 1597. The keep burned in the 1945 air raids, and the one you climb today is a concrete reconstruction from 1966. One original building survives: the Tsukimi-yagura, a moon-viewing turret that is now an Important Cultural Property. Part of the stone walling dates from the Ukita era, so keep an eye on the rough, irregular stonework near the base.
+Ukita Hideie finished the castle in 1597. The keep burned in the 1945 air raids, and the one you climb today is a concrete reconstruction from 1966. Two original buildings survive, both now Important Cultural Properties: the Tsukimi-yagura, a moon-viewing turret inside the main enclosure, and the Nishinomaru Nishite-yagura, a turret west of the main enclosure that is easy to miss. Part of the stone walling dates from the Ukita era, so keep an eye on the rough, irregular stonework near the base.
 
 ## Inside the keep
 
@@ -97,7 +97,7 @@ From Korakuen, the Tsukimi-bashi bridge brings you over the river right to the c
 
 Weekdays are the easy choice here. Measured foot traffic shows the castle quiet on weekdays from 9am–5pm. Weekends are a different story: between 10am and 4pm the elevator queue grows and the costume corner fills up. If a weekend is your only option, be at the gate when it opens at 9am, or come late in the afternoon.
 
-At the moment the keep is open 9am–5:30pm. Castle hours shift through the year and can change for special events, so check this month's times on the official site. Some practical points:
+The keep is open 9am–5:30pm, later on some event nights, and closes December 29–31. Check the official site for event evenings. Some practical points:
 
 - **Tickets:** the counter sells castle-only tickets and a combined ticket with Korakuen. If you plan to see both, buy the combined one. Prices are posted at the gate.
 - **Tram fare:** ICOCA and other IC cards work on the tram. Tap when you get off at the front door.

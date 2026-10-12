@@ -57,7 +57,7 @@ place:
 tags:
   - "okayama"
   - "Korakuen Garden"
-quickAnswer: "Okayama Korakuen is a stroll garden in Kita Ward, Okayama, a short tram ride and walk from JR Okayama Station, and it ranks among Japan's Three Great Gardens. On weekdays it stays quiet all day (8am–5pm). On weekends, come at 8am–9am, because 10am–4pm is when it fills up. Give it 1.5–2 hours, and longer if you cross the bridge to Okayama Castle."
+quickAnswer: "Okayama Korakuen is a stroll garden in Kita Ward, Okayama, a short tram ride and walk from JR Okayama Station, and it ranks among Japan's Three Great Gardens. It opens 7:30am–6pm from March 20 to September 30 and 8am–5pm from October 1 to March 19. On weekdays it stays quiet all day. On weekends, come in the first hour after opening, because 10am–4pm is when it fills up. Give it 1.5–2 hours, and longer if you cross the bridge to Okayama Castle."
 faq:
   - q: "When is the quietest time to visit Okayama Korakuen?"
     a: "On weekdays it is quiet all day, from 8am to 5pm. On weekends, arrive between 8am and 9am, and avoid 10am–4pm, which is the busiest stretch."
@@ -68,7 +68,7 @@ faq:
   - q: "Can I see the cranes?"
     a: "Red-crowned cranes live in an enclosure inside the garden, so you can usually see them. They are traditionally let out onto the lawns on New Year's Day; check the official site for this year's dates."
   - q: "What are the opening hours?"
-    a: "Currently 8am–5pm, but the hours change with the season and there are evening illuminations in some months. Check the official Korakuen site for this month's times."
+    a: "7:30am–6pm from March 20 to September 30, and 8am–5pm from October 1 to March 19. Some months add evening illuminations with later hours; the official Korakuen site lists those dates."
 aiGenerated: true
 draft: false
 ---
@@ -104,7 +104,7 @@ The flock has a long link to the garden. On New Year's Day the cranes are tradit
 
 Weekdays are the easy option. Foot traffic stays at its lowest all day, from 8am to 5pm. A Tuesday afternoon is as calm as a Tuesday morning.
 
-Weekends work differently. The quiet window is short, just 8am–9am. Try not to arrive between 10am and 4pm on a Saturday or Sunday, because the pond paths and the top of Yuishinzan get crowded. At the moment the garden opens 8am to 5pm, but hours change with the season. The garden also holds evening illuminations in some months, so check the official site for this month's times.
+Weekends work differently. The quiet window is short, just 8am–9am. Try not to arrive between 10am and 4pm on a Saturday or Sunday, because the pond paths and the top of Yuishinzan get crowded. The garden opens 7:30am–6pm from March 20 to September 30 and 8am–5pm from October 1 to March 19. Some months add evening illuminations with later hours, so check the official site for those dates.
 
 Each season brings something different:
 

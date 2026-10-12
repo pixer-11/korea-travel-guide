@@ -1084,12 +1084,18 @@ async function buildLivePost(target) {
   LAST_HERO_VERDICT = null;
   const { regionAtBirth, declaredRegionInAddress } = await import('./lib/region-outlier.mjs');
   const searched = target;
+  // Why each candidate fell out BEFORE the photo search. These used to drop
+  // silently and the skip line still said "no verified photo" — the Sapa run
+  // of 2026-10-12 blamed photos for Cat Cat Village when no candidate had
+  // reached the photo step at all.
+  const dropped = [];
   for (const cand of results) {
     target = searched;
-    if (!checkPlace(cand, { country: target.country }).ok) continue;
+    const chk = checkPlace(cand, { country: target.country });
+    if (!chk.ok) { dropped.push(`${cand.name}: ${(chk.reasons || ['place check']).join('/')}`); continue; }
     // English-site guard: a name with no Latin letters would make a Hangul slug.
-    if (!/[a-z0-9]/i.test(cand.name || '')) continue;
-    if (cand.id && USED_PLACE_IDS.has(cand.id)) continue;
+    if (!/[a-z0-9]/i.test(cand.name || '')) { dropped.push(`${cand.name}: no Latin name`); continue; }
+    if (cand.id && USED_PLACE_IDS.has(cand.id)) { dropped.push(`${cand.name}: used this run`); continue; }
     // The region is the venue's, not the query's. A template search for "best
     // museum in Hac Sa Macau" answered with the Macao Museum on the peninsula,
     // and the guide was filed under Hac Sa — then the writer, seeing the
@@ -1186,7 +1192,10 @@ async function buildLivePost(target) {
     break;
   }
   if (!place) {
-    console.log(`  ⏭️   skip "${target.query}" — no candidate venue with a verified photo`);
+    const why = dropped.length === results.length
+      ? `no candidate reached the photo step (${dropped.slice(0, 3).join('; ')})`
+      : 'no candidate venue with a verified photo';
+    console.log(`  ⏭️   skip "${target.query}" — ${why}`);
     return null;
   }
   if (place.id) USED_PLACE_IDS.add(place.id);
