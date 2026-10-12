@@ -1,8 +1,5 @@
-Places 예산: backfill 몫 23회 (오늘 사용 13/100)
+Places 예산: backfill 몫 19회 (오늘 사용 17/100)
 Priority: 241 itinerary stop(s) queued first
-  – cairns-rusty-s-markets.md: nothing new (resting 60d)
-  – munich-wiener-platz.md: nothing new (resting 60d)
-  – dalanzadgad-ongi-monastery.md: nothing new (resting 60d)
-  – kharkhorin-orkhon-waterfall.md: nothing new (resting 60d)
+  – tagaytay-tagaytay-city-market.md: nothing new (resting 60d)
 
-BACKFILL RESULT: updated 0, backlog-updated 0, already-complete 1412, no-new-data 655, no-place 823, closed-quarantined 0, quota-429 0, api-error 0, api-calls 4, remaining-askable 0 (APPLIED).
+BACKFILL RESULT: updated 0, backlog-updated 0, already-complete 1412, no-new-data 655, no-place 823, closed-quarantined 0, quota-429 0, api-error 0, api-calls 1, remaining-askable 0 (APPLIED).
