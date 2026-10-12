@@ -1,13 +1,4 @@
-Places 예산: backfill 몫 25회 (오늘 사용 1/100)
+Places 예산: backfill 몫 16회 (오늘 사용 11/100)
 Priority: 241 itinerary stop(s) queued first
-  – ulaanbaatar-state-department-store.md: nothing new (resting 60d)
-  – khustai-national-park-gorkhi-terelj-national-park.md: nothing new (resting 60d)
-  – monterrey-paseo-santa-lucia.md: nothing new (resting 60d)
-  – mumbai-gateway-of-india-mumbai.md: nothing new (resting 60d)
-  – ulaanbaatar-manzushir-monastery.md: nothing new (resting 60d)
-  – gobi-gurvansaikhan-national-park-yolyn-am-canyon.md: nothing new (resting 60d)
-  – monterrey-macroplaza.md: nothing new (resting 60d)
-  – sapa-sa-pa-stone-church.md: nothing new (resting 60d)
-  – ulaanbaatar-sukhbaatar-square.md: nothing new (resting 60d)
 
-BACKFILL RESULT: updated 0, backlog-updated 0, already-complete 1401, no-new-data 649, no-place 823, closed-quarantined 0, quota-429 0, api-error 0, api-calls 9, remaining-askable 0 (APPLIED).
+BACKFILL RESULT: updated 0, backlog-updated 0, already-complete 1401, no-new-data 649, no-place 823, closed-quarantined 0, quota-429 0, api-error 0, api-calls 0, remaining-askable 0 (APPLIED).
