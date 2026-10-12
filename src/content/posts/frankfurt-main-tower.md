@@ -1,41 +1,22 @@
 ---
 title: 'MAIN TOWER: Frankfurt Travel Guide (4.6★)'
-description: >-
-  MAIN TOWER is the 200-metre skyscraper on Neue Mainzer Straße in Frankfurt's
-  banking district, and the only high-rise in the city with a public open-air
-  observation deck on its roof. 4.6★ (7,571 reviews) — what visitors say, hours,
-  and tips.
+description: MAIN TOWER is the 200-metre skyscraper on Neue Mainzer Straße in Frankfurt's banking district, and the only high-rise in the city with a public open-air observation deck on its roof. 4.6★ (7,571 reviews) — what visitors say, hours, and tips.
 country: Germany
 region: Frankfurt
 category: attraction
 pubDate: '2026-10-02T14:04:05.677Z'
-heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Westhafen_Tower_with_river_Main_-_Frankfurt_-_Germany_-_04.jpg/3840px-Westhafen_Tower_with_river_Main_-_Frankfurt_-_Germany_-_04.jpg
-  credit: 'Photo: Norbert Nagel / Wikimedia Commons (CC BY-SA 3.0)'
-  license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Westhafen_Tower_with_river_Main_-_Frankfurt_-_Germany_-_04.jpg
-  via: act
-  focus:
-    x: 57
-    'y': 35
 gallery:
-  - url: >-
-      https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Skyline_Frankfurt_am_Main_2015.jpg/3840px-Skyline_Frankfurt_am_Main_2015.jpg
-    credit: >-
-      Photo: Christian Wolf (www.c-w-design.de) / Wikimedia Commons (CC BY-SA
-      3.0 de)
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Skyline_Frankfurt_am_Main_2015.jpg/3840px-Skyline_Frankfurt_am_Main_2015.jpg
+    credit: 'Photo: Christian Wolf (www.c-w-design.de) / Wikimedia Commons (CC BY-SA 3.0 de)'
     license: wikimedia
-    source: 'https://commons.wikimedia.org/wiki/File:Skyline_Frankfurt_am_Main_2015.jpg'
+    source: https://commons.wikimedia.org/wiki/File:Skyline_Frankfurt_am_Main_2015.jpg
 place:
   id: ChIJX0usKIcPvUcRex4ytC72h58
   name: MAIN TOWER
-  address: 'Neue Mainzer Str. 52–58, 60311 Frankfurt am Main, Germany'
+  address: Neue Mainzer Str. 52–58, 60311 Frankfurt am Main, Germany
   rating: 4.6
   userRatingsTotal: 7571
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=11495427254338592379&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=11495427254338592379&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 50.112539999999996
   lng: 8.672139999999999
@@ -78,43 +59,29 @@ place:
 tags:
   - frankfurt
   - top attraction
-quickAnswer: >-
-  MAIN TOWER is the 200-metre skyscraper on Neue Mainzer Straße in Frankfurt's
-  banking district, and the only high-rise in the city with a public open-air
-  observation deck on its roof. It is calmest on weekday evenings from 7pm to
-  10pm, and Friday and Saturday hours run to 11pm, so a late visit gets you the
-  lit skyline with the fewest people.
+quickAnswer: MAIN TOWER is the 200-metre skyscraper on Neue Mainzer Straße in Frankfurt's banking district, and the only high-rise in the city with a public open-air observation deck on its roof. It is calmest on weekday evenings from 7pm to 10pm, and Friday and Saturday hours run to 11pm, so a late visit gets you the lit skyline with the fewest people.
 faq:
   - q: When is the quietest time to visit Main Tower?
-    a: >-
-      On weekdays it is calmest from 7pm to 10pm. Monday to Thursday the tower
-      closes at 9pm, so that means 7pm until closing; on Friday it stays open
-      until 11pm. On weekends the crowd data shows a quiet window across the
-      whole day, 10am to 11pm, with no specific peak flagged.
+    a: On weekdays it is calmest from 7pm to 10pm. Monday to Thursday the tower closes at 9pm, so that means 7pm until closing; on Friday it stays open until 11pm. On weekends the crowd data shows a quiet window across the whole day, 10am to 11pm, with no specific peak flagged.
   - q: How do I get to Main Tower by public transport?
-    a: >-
-      Take the S-Bahn to Taunusanlage, or the U-Bahn (U1–U5, U8) to
-      Willy-Brandt-Platz. Either way it is a short walk to Neue Mainzer Str.
-      52–58. From Frankfurt Airport, the S-Bahn reaches Taunusanlage directly.
+    a: Take the S-Bahn to Taunusanlage, or the U-Bahn (U1–U5, U8) to Willy-Brandt-Platz. Either way it is a short walk to Neue Mainzer Str. 52–58. From Frankfurt Airport, the S-Bahn reaches Taunusanlage directly.
   - q: What are the opening hours?
-    a: >-
-      10am to 9pm Sunday to Thursday, and 10am to 11pm on Friday and Saturday.
-      Last entry is earlier than closing. The open-air deck can shut at short
-      notice in storms or high wind, so check the official site on bad-weather
-      days.
-  - q: 'Is there a security check, and what should I leave behind?'
-    a: >-
-      Yes. It is an airport-style check at street level with a bag scanner and a
-      walk-through detector. Leave large luggage at your hotel or in station
-      lockers, and leave pocket knives and similar items behind.
+    a: 10am to 9pm Sunday to Thursday, and 10am to 11pm on Friday and Saturday. Last entry is earlier than closing. The open-air deck can shut at short notice in storms or high wind, so check the official site on bad-weather days.
+  - q: Is there a security check, and what should I leave behind?
+    a: Yes. It is an airport-style check at street level with a bag scanner and a walk-through detector. Leave large luggage at your hotel or in station lockers, and leave pocket knives and similar items behind.
   - q: How long should I plan for the visit?
-    a: >-
-      Allow about an hour, including security, the lift and a full lap of the
-      platform. Add time if you stop in the lobby to see Bill Viola's video
-      installation and Stephan Huber's mosaic.
+    a: Allow about an hour, including security, the lift and a full lap of the platform. Add time if you stop in the lobby to see Bill Viola's video installation and Stephan Huber's mosaic.
 aiGenerated: true
 draft: false
 updatedDate: '2026-10-02'
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/494865232_nPXcwFDvoZaIOdLP2v2usoaFby-oVCySZivFEU8Ztos.jpg
+  credit: 'Photo: Foursquare user content (Main Tower)'
+  license: foursquare
+  source: https://foursquare.com/v/4c8a2f1c1107b71303b1853a
+  focus:
+    x: 50
+    'y': 50
 ---
 ## A roof you can stand on, 198 metres up
 

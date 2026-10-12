@@ -5,16 +5,7 @@ country: India
 region: Goa
 category: hidden-gem
 pubDate: '2026-08-14T08:43:13.519Z'
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Villagers%27_market_at_Saligao_Goa%2C_India.jpg/3840px-Villagers%27_market_at_Saligao_Goa%2C_India.jpg
-  credit: 'Photo: Fredericknoronha / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Villagers%27_market_at_Saligao_Goa,_India.jpg
-gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/A_village_market_at_Saligao%2C_Goa%2C_India.jpg/3840px-A_village_market_at_Saligao%2C_Goa%2C_India.jpg
-    credit: 'Photo: Fredericknoronha / Wikimedia Commons (CC BY-SA 4.0)'
-    license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:A_village_market_at_Saligao,_Goa,_India.jpg
+gallery: []
 place:
   id: ChIJxYLafGDBvzsRBHixifGQNbE
   name: Goa Market
@@ -70,6 +61,7 @@ faq:
   - q: What should I buy or try there?
     a: Look for fresh kingfish and prawns, Goan chorizo sausage, kokum, dried bombil, and local chillies. Bring cash, as most stalls don't accept cards.
 aiGenerated: true
+draft: true
 ---
 ## Why go
 

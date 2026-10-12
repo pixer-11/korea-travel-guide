@@ -5,19 +5,7 @@ country: China
 region: Shanghai
 category: attraction
 pubDate: '2026-08-05T11:35:03.865Z'
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Shanghai_East_Museum_-_54129437258.jpg/3840px-Shanghai_East_Museum_-_54129437258.jpg
-  credit: 'Photo: viatorimperi / Wikimedia Commons (CC BY-SA 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Shanghai_East_Museum_-_54129437258.jpg
-  focus:
-    x: 40
-    'y': 45
-gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Shanghai_East_Museum_-_54133196051.jpg/3840px-Shanghai_East_Museum_-_54133196051.jpg
-    credit: 'Photo: viatorimperi / Wikimedia Commons (CC BY-SA 2.0)'
-    license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Shanghai_East_Museum_-_54133196051.jpg
+gallery: []
 place:
   id: ChIJPWUSbWlwsjURbNvIw3tOTE0
   name: Shanghai Museum
@@ -54,6 +42,14 @@ faq:
     a: The museum sits at the edge of People's Square, within walking distance of the Shanghai Grand Theatre, the Shanghai Urban Planning Exhibition Center, and Nanjing Road's pedestrian shopping street.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/e/e6/%C2%B7%CB%99%C2%B7ChinaUli2010%C2%B7.%C2%B7_Shanghai_-_panoramio_%285%29.jpg
+  credit: 'Photo: ·˙·ChinaUli2010·.· / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:%C2%B7%CB%99%C2%B7ChinaUli2010%C2%B7.%C2%B7_Shanghai_-_panoramio_(5).jpg
+  focus:
+    x: 55
+    'y': 35
 ---
 
 ## Why go

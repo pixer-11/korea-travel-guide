@@ -200,6 +200,7 @@ export async function resolveHero({ namedVenue, region, topic, place, country = 
     // another country.
     const lead = await wikipediaLeadImage(namedVenue, {
       used,
+      region: reg,
       near: place?.lat && place?.lng ? { lat: place.lat, lng: place.lng } : null,
     });
     if (lead) return mark(lead, used);
@@ -229,6 +230,7 @@ export async function resolveHero({ namedVenue, region, topic, place, country = 
     // taken somewhere other than the venue, and often has no coordinates.
     const identity = eventMode ? {} : {
       subject: namedVenue,
+      region: reg,
       near: place?.lat && place?.lng ? { lat: place.lat, lng: place.lng } : null,
     };
     // Full name (+region, then bare), then an anchor-ONLY search that finds the real

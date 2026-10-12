@@ -8,12 +8,6 @@ country: Japan
 region: Chiba
 category: attraction
 pubDate: '2026-07-26T07:49:31.193Z'
-heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Chiba_Port_Park_20111028-004.jpg/1920px-Chiba_Port_Park_20111028-004.jpg
-  credit: 'Photo: 掬茶 / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Chiba_Port_Park_20111028-004.jpg'
 gallery: []
 place:
   id: ChIJw83NILyEImARVSC9KiyK4AI
@@ -72,6 +66,14 @@ faq:
 aiGenerated: true
 draft: false
 updatedDate: '2026-08-31'
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/b/b7/Watauchi-ike_of_Chiba_Park_20110412a.jpg
+  credit: 'Photo: 掬茶 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Watauchi-ike_of_Chiba_Park_20110412a.jpg
+  focus:
+    x: 50
+    'y': 40
 ---
 ## Why go
 

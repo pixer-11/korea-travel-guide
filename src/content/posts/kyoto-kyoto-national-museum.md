@@ -13,11 +13,7 @@ heroImage:
   focus:
     x: 40
     y: 35
-gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/d/d5/National_Museum_of_Modern_Art_Kyoto_2010.jpg"
-    credit: "Photo: Wiiii / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:National_Museum_of_Modern_Art_Kyoto_2010.jpg"
+gallery: []
 place:
   id: "ChIJt1kBRcoIAWAR00msugECEYw"
   name: "Kyoto National Museum"

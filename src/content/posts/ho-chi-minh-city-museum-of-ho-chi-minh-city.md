@@ -18,13 +18,7 @@ heroImage:
   focus:
     x: 50
     'y': 40
-gallery:
-  - url: >-
-      https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Palacio_de_la_Reunificaci%C3%B3n%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_25.JPG/3840px-Palacio_de_la_Reunificaci%C3%B3n%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_25.JPG
-    credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 3.0)'
-    license: wikimedia
-    source: >-
-      https://commons.wikimedia.org/wiki/File:Palacio_de_la_Reunificaci%C3%B3n,_Ciudad_Ho_Chi_Minh,_Vietnam,_2013-08-14,_DD_25.JPG
+gallery: []
 place:
   id: ChIJlel-En4vdTERc64rKNBbyy0
   name: Museum of Ho Chi Minh City

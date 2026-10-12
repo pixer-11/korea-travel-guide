@@ -8,24 +8,7 @@ country: Vietnam
 region: Ha Giang
 category: hidden-gem
 pubDate: '2026-09-24T07:38:11.372Z'
-heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/0/0e/Rural_market_sellers_in_Ha_Giang_province_in_2014.jpg
-  credit: 'Photo: Vuong Tri Binh / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Rural_market_sellers_in_Ha_Giang_province_in_2014.jpg
-  via: act
-  focus:
-    x: 40
-    'y': 55
-gallery:
-  - url: >-
-      https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Ha_Giang_market-_Dong_Van_market.jpg/3840px-Ha_Giang_market-_Dong_Van_market.jpg
-    credit: 'Photo: Nghia Bui- Zonitrip / Wikimedia Commons (CC BY-SA 4.0)'
-    license: wikimedia
-    source: >-
-      https://commons.wikimedia.org/wiki/File:Ha_Giang_market-_Dong_Van_market.jpg
+gallery: []
 place:
   id: ChIJpeuiRjV4zDYR1niISWKhiC4
   name: Hà Giang Market
@@ -97,7 +80,7 @@ faq:
       ask "bao nhiêu?" (how much?). Light haggling is fine for clothes and
       souvenirs, but not for food. Nobody expects a tip.
 aiGenerated: true
-draft: false
+draft: true
 updatedDate: '2026-09-24'
 ---
 

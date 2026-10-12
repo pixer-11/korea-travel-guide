@@ -5,20 +5,7 @@ country: "Vietnam"
 region: "Ha Long Bay"
 category: "hidden-gem"
 pubDate: "2026-09-22T07:42:03.633Z"
-heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Local_merchants_in_Ha_Long_Bay.jpg/3840px-Local_merchants_in_Ha_Long_Bay.jpg"
-  credit: "Photo: Radek Kucharski / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Local_merchants_in_Ha_Long_Bay.jpg"
-  via: "act"
-  focus:
-    x: 55
-    y: 45
-gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Floating_Market_in_Fishing_Village_in_Ha_Long_Bay%2C_Vietnam_-_panoramio.jpg/3840px-Floating_Market_in_Fishing_Village_in_Ha_Long_Bay%2C_Vietnam_-_panoramio.jpg"
-    credit: "Photo: Michelle Maria / Wikimedia Commons (CC BY 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Floating_Market_in_Fishing_Village_in_Ha_Long_Bay,_Vietnam_-_panoramio.jpg"
+gallery: []
 place:
   id: "ChIJJcSvehhYSjERnvYvfSKkmoI"
   name: "Ha Long Market"
@@ -66,7 +53,7 @@ faq:
   - q: "Can I eat seafood right there at the market?"
     a: "The market sells raw seafood for cooking elsewhere; if you want to eat it prepared, ask a nearby restaurant or bring it back to a kitchen at your accommodation."
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## What's actually there

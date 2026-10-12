@@ -103,6 +103,10 @@ for (const { f, data } of candidates) {
       // name match was enough: 10-11 Matsuyama Castle's gallery got Bitchu
       // Matsuyama Castle, 150 km away in Okayama.
       near: place.lat != null && place.lng != null ? { lat: place.lat, lng: place.lng } : null,
+      // A city-and-kind name ("Ulaanbaatar Park") is identity only as the
+      // unbroken phrase — see placeKindOnly in lib/commons (2026-10-12).
+      subject: place.name,
+      region: data.region,
     });
     if (wiki?.url) cands.push({ ...wiki, license: 'wikimedia' });
   } catch {}

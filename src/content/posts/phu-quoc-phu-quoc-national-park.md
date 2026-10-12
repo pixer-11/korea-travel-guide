@@ -5,14 +5,6 @@ country: Vietnam
 region: Phu Quoc
 category: attraction
 pubDate: '2026-08-21T08:16:38.687Z'
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Phu_quoc_plage_sao.jpg/1280px-Phu_quoc_plage_sao.jpg
-  credit: 'Photo: ntt / Wikimedia Commons (CC BY-SA 3.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Phu_quoc_plage_sao.jpg
-  focus:
-    x: 50
-    'y': 50
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Rough_road_at_north-east_of_Phu_Quoc.JPG/1920px-Rough_road_at_north-east_of_Phu_Quoc.JPG
     credit: 'Photo: Tonbi ko / Wikimedia Commons (CC BY-SA 4.0)'
@@ -44,7 +36,7 @@ faq:
   - q: What should I bring?
     a: Proper closed-toe shoes for slippery granite, water, snacks, sun protection, and a full fuel tank — there's little infrastructure once you're inside the park.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

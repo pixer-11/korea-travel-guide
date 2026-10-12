@@ -14,11 +14,7 @@ heroImage:
   focus:
     x: 55
     y: 45
-gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Adelaide_%28AU%29%2C_Botanic_Garden_--_2019_--_0660.jpg/3840px-Adelaide_%28AU%29%2C_Botanic_Garden_--_2019_--_0660.jpg"
-    credit: "Photo: Dietmar Rabich / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Adelaide_(AU),_Botanic_Garden_--_2019_--_0660.jpg"
+gallery: []
 place:
   id: "ChIJ9_KfSjDJsGoRVNPX_sEO2VY"
   name: "Botanic Park"

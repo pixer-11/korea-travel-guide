@@ -531,10 +531,15 @@
  },
  "al-ain-al-ain-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Al_Ain_Palace_Museum.jpg/3840px-Al_Ain_Palace_Museum.jpg": {
   "slug": "al-ain-al-ain-museum",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: different place: Commons file is another site of the same kind (place-kind-only name; checked by Commons category + distance 2026-10-12)",
+  "at": "2026-10-12T14:52:29.276Z"
+ },
+ "al-ain-al-ain-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Al_Ain_Museum.jpg/3840px-Al_Ain_Museum.jpg": {
+  "slug": "al-ain-al-ain-museum",
   "verdict": "MATCH",
-  "reason": "Authentic Emirati fort architecture, Al Ain landmark",
-  "reasonKo": "알 아인의 정통 요새 건축",
-  "at": "2026-08-19T13:27:47.424Z"
+  "reason": "patrol replace: Building facade matches Al Ain Museum architecture",
+  "at": "2026-10-12T14:52:49.569Z"
  },
  "al-ain-al-ain-oasis\u0001https://fastly.4sqi.net/img/general/original/39456452_KiRe7yZh5T3PV8FwGPzDx2ERR144IBp9GI2lJpnewUA.jpg": {
   "slug": "al-ain-al-ain-oasis",
@@ -5479,11 +5484,23 @@
   "reason": "publish gate: Exterior building view plausible for park cultural center",
   "at": "2026-09-17T07:36:55.094Z"
  },
- "chiba-chiba-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Chiba_Port_Park_20111028-004.jpg/1920px-Chiba_Port_Park_20111028-004.jpg": {
+ "chiba-chiba-park\u0001https://upload.wikimedia.org/wikipedia/commons/2/2d/Stn_Chiba_%282017%29-JR-Chiba_Park_Ent.jpg": {
+  "slug": "chiba-chiba-park",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shows Chiba Station entrance, not Chiba Park itself",
+  "at": "2026-10-12T14:52:56.515Z"
+ },
+ "chiba-chiba-park\u0001https://upload.wikimedia.org/wikipedia/commons/b/b7/Watauchi-ike_of_Chiba_Park_20110412a.jpg": {
   "slug": "chiba-chiba-park",
   "verdict": "MATCH",
-  "reason": "Park scene with modern building, Chiba cityscape",
-  "at": "2026-07-27T12:46:21.696Z"
+  "reason": "hand-picked: Watauchi Pond in Chiba Park with the Chiba monorail (Category:Chiba Park) — Park scene with pond, cherry blossoms, bridge, representative view",
+  "at": "2026-10-12T14:57:07.528Z"
+ },
+ "chiba-chiba-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Chiba_Port_Park_20111028-004.jpg/1920px-Chiba_Port_Park_20111028-004.jpg": {
+  "slug": "chiba-chiba-park",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: different place: Commons file is another site of the same kind (place-kind-only name; checked by Commons category + distance 2026-10-12)",
+  "at": "2026-10-12T14:52:29.301Z"
  },
  "chiba-hiyodori-zaka\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Hiyodori-zaka_%28J%C5%8Dnai-ch%C5%8D%2C_Sakura%29_01.jpg/1920px-Hiyodori-zaka_%28J%C5%8Dnai-ch%C5%8D%2C_Sakura%29_01.jpg": {
   "slug": "chiba-hiyodori-zaka",
@@ -7200,11 +7217,17 @@
   "reason": "publish gate: Exterior facade showing venue name and entrance clearly",
   "at": "2026-10-03T12:45:08.576Z"
  },
- "frankfurt-main-tower\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Westhafen_Tower_with_river_Main_-_Frankfurt_-_Germany_-_04.jpg/3840px-Westhafen_Tower_with_river_Main_-_Frankfurt_-_Germany_-_04.jpg": {
+ "frankfurt-main-tower\u0001https://fastly.4sqi.net/img/general/original/494865232_nPXcwFDvoZaIOdLP2v2usoaFby-oVCySZivFEU8Ztos.jpg": {
   "slug": "frankfurt-main-tower",
   "verdict": "MATCH",
-  "reason": "publish gate: Shows Main Tower skyscraper in Frankfurt skyline",
-  "at": "2026-10-02T14:04:02.688Z"
+  "reason": "patrol replace: Frankfurt skyline at dusk from high vantage point",
+  "at": "2026-10-12T14:53:06.266Z"
+ },
+ "frankfurt-main-tower\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Westhafen_Tower_with_river_Main_-_Frankfurt_-_Germany_-_04.jpg/3840px-Westhafen_Tower_with_river_Main_-_Frankfurt_-_Germany_-_04.jpg": {
+  "slug": "frankfurt-main-tower",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: different place: Commons file is another site of the same kind (place-kind-only name; checked by Commons category + distance 2026-10-12)",
+  "at": "2026-10-12T14:52:29.329Z"
  },
  "frankfurt-nct-127-wayv-tour\u0001https://upload.wikimedia.org/wikipedia/commons/6/61/%EC%A7%81%EC%BA%A0_170915_%EB%A1%AF%EB%8D%B0_%EB%A9%B4%EC%84%B8%EC%A0%90_%ED%8C%A8%EB%B0%80%EB%A6%AC_%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C_NCT_127_-_Summer_127_21s.png": {
   "slug": "frankfurt-nct-127-wayv-tour",
@@ -7811,12 +7834,17 @@
   "reasonKo": "고아의 역사적 요새 유적지",
   "at": "2026-08-03T12:47:57.581Z"
  },
+ "goa-goa-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Goa_--_Market_at_a_village%2C_Saligao._2021.jpg/3840px-Goa_--_Market_at_a_village%2C_Saligao._2021.jpg": {
+  "slug": "goa-goa-market",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shows a festive event, not a market scene",
+  "at": "2026-10-12T14:53:20.073Z"
+ },
  "goa-goa-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Villagers%27_market_at_Saligao_Goa%2C_India.jpg/3840px-Villagers%27_market_at_Saligao_Goa%2C_India.jpg": {
   "slug": "goa-goa-market",
-  "verdict": "MATCH",
-  "reason": "metadata veto: Commons names Goa (vision said: Outdoor fair/festival, not a market venue)",
-  "reasonKo": null,
-  "at": "2026-08-14T16:51:00.202Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: different place: Commons file is another site of the same kind (place-kind-only name; checked by Commons category + distance 2026-10-12)",
+  "at": "2026-10-12T14:52:29.353Z"
  },
  "goa-naval-aviation-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Entrance_to_Naval_Aviation_Museum_building.jpg/3840px-Entrance_to_Naval_Aviation_Museum_building.jpg": {
   "slug": "goa-naval-aviation-museum",
@@ -8410,9 +8438,15 @@
  },
  "ha-giang-ha-giang-market\u0001https://upload.wikimedia.org/wikipedia/commons/0/0e/Rural_market_sellers_in_Ha_Giang_province_in_2014.jpg": {
   "slug": "ha-giang-ha-giang-market",
-  "verdict": "MATCH",
-  "reason": "publish gate: Outdoor market stall with vegetables, plausible Ha Giang scene",
-  "at": "2026-09-24T07:38:10.384Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: different place: Commons file is another site of the same kind (place-kind-only name; checked by Commons category + distance 2026-10-12)",
+  "at": "2026-10-12T14:52:29.378Z"
+ },
+ "ha-giang-ha-giang-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Ha_Giang_market-_Dong_Van_market.jpg/3840px-Ha_Giang_market-_Dong_Van_market.jpg": {
+  "slug": "ha-giang-ha-giang-market",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Depicts community gathering, not a market venue",
+  "at": "2026-10-12T14:53:31.073Z"
  },
  "ha-long-bay-dau-go-cave\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Dau_Go_cave%2C_H%E1%BA%A1_Long_Bay%2C_Vietnam_%2854146979492%29.jpg/3840px-Dau_Go_cave%2C_H%E1%BA%A1_Long_Bay%2C_Vietnam_%2854146979492%29.jpg": {
   "slug": "ha-long-bay-dau-go-cave",
@@ -8422,9 +8456,9 @@
  },
  "ha-long-bay-ha-long-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Local_merchants_in_Ha_Long_Bay.jpg/3840px-Local_merchants_in_Ha_Long_Bay.jpg": {
   "slug": "ha-long-bay-ha-long-market",
-  "verdict": "MATCH",
-  "reason": "publish gate: Vendor boat on Ha Long Bay, plausible market scene",
-  "at": "2026-09-22T07:41:58.646Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: different place: Commons file is another site of the same kind (place-kind-only name; checked by Commons category + distance 2026-10-12)",
+  "at": "2026-10-12T14:52:29.400Z"
  },
  "ha-long-bay-halong-bay\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ha_Long_Bay_in_2019.jpg/1920px-Ha_Long_Bay_in_2019.jpg": {
   "slug": "ha-long-bay-halong-bay",
@@ -19595,9 +19629,15 @@
  },
  "pattaya-pattaya-park-night-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/DFC_4733_Night_market_scene_in_Pattaya_street_vendors_parked_scooters_and_people_browsing_under_bright_shop_signs.jpg/3840px-DFC_4733_Night_market_scene_in_Pattaya_street_vendors_parked_scooters_and_people_browsing_under_bright_shop_signs.jpg": {
   "slug": "pattaya-pattaya-park-night-market",
-  "verdict": "MATCH",
-  "reason": "publish gate: Night market street scene in Pattaya, representative view",
-  "at": "2026-09-23T07:37:55.806Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: different place: Commons file is another site of the same kind (place-kind-only name; checked by Commons category + distance 2026-10-12)",
+  "at": "2026-10-12T14:52:29.422Z"
+ },
+ "pattaya-pattaya-park-night-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Pattaya_Park_Night_Market_et_colline_de_Khao_Phra_Tamnak%2C_Pattaya_%282016%29.jpg/3840px-Pattaya_Park_Night_Market_et_colline_de_Khao_Phra_Tamnak%2C_Pattaya_%282016%29.jpg": {
+  "slug": "pattaya-pattaya-park-night-market",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Daytime city skyline, not a night market scene",
+  "at": "2026-10-12T14:54:10.635Z"
  },
  "pattaya-pattaya-walking-street\u0001https://upload.wikimedia.org/wikipedia/commons/5/53/Walking_street%2Cpattaya%2CTHAILAND_-_panoramio.jpg": {
   "slug": "pattaya-pattaya-walking-street",
@@ -20096,9 +20136,9 @@
  },
  "phu-quoc-phu-quoc-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Phu_quoc_plage_sao.jpg/1280px-Phu_quoc_plage_sao.jpg": {
   "slug": "phu-quoc-phu-quoc-national-park",
-  "verdict": "MATCH",
-  "reason": "publish gate: Coastal beach and forested hills plausible for Phu Quoc National Park",
-  "at": "2026-08-21T08:16:27.695Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: different place: Commons file is another site of the same kind (place-kind-only name; checked by Commons category + distance 2026-10-12)",
+  "at": "2026-10-12T14:52:29.493Z"
  },
  "phu-quoc-phu-quoc-prison-history-museum\u0001https://fastly.4sqi.net/img/general/original/18746189_RkiM85314AzfKqx9-UywnLmcPEy5Poue1tQ7Z0dvh3g.jpg": {
   "slug": "phu-quoc-phu-quoc-prison-history-museum",
@@ -23147,11 +23187,17 @@
   "reasonKo": "상하이 박물관의 독특한 UFO형 건축물",
   "at": "2026-08-05T15:00:43.563Z"
  },
- "shanghai-shanghai-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Shanghai_East_Museum_-_54129437258.jpg/3840px-Shanghai_East_Museum_-_54129437258.jpg": {
+ "shanghai-shanghai-museum\u0001https://upload.wikimedia.org/wikipedia/commons/e/e6/%C2%B7%CB%99%C2%B7ChinaUli2010%C2%B7.%C2%B7_Shanghai_-_panoramio_%285%29.jpg": {
   "slug": "shanghai-shanghai-museum",
   "verdict": "MATCH",
-  "reason": "width upgrade: Ancient bronze artifact, plausible museum exhibit close-up",
-  "at": "2026-08-19T20:10:34.070Z"
+  "reason": "hand-picked: Shanghai Museum's bronze-ding building seen from People's Square (Category:Shanghai Museum) — Shows Shanghai Museum building with park foreground",
+  "at": "2026-10-12T14:57:01.057Z"
+ },
+ "shanghai-shanghai-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Shanghai_East_Museum_-_54129437258.jpg/3840px-Shanghai_East_Museum_-_54129437258.jpg": {
+  "slug": "shanghai-shanghai-museum",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: different place: Commons file is another site of the same kind (place-kind-only name; checked by Commons category + distance 2026-10-12)",
+  "at": "2026-10-12T14:52:29.468Z"
  },
  "shanghai-shanghai-old-street\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Xiaodongmen_%28Shanghai_Old_Street%29_20231211155420.jpg/3840px-Xiaodongmen_%28Shanghai_Old_Street%29_20231211155420.jpg": {
   "slug": "shanghai-shanghai-old-street",
@@ -24802,11 +24848,23 @@
   "reasonKo": "타갈타이에서의 타알화산 대표 풍경",
   "at": "2026-08-13T14:04:49.867Z"
  },
+ "tagaytay-tagaytay-city-market\u0001https://fastly.4sqi.net/img/general/original/21875077_DPZk2q22I96w_Iy5FW9bRVGvOBzM0FIbrbdBRYsPWeg.jpg": {
+  "slug": "tagaytay-tagaytay-city-market",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: right market but a dark, blurred night shot through a car windscreen — not usable as a hero",
+  "at": "2026-10-12T14:55:29.476Z"
+ },
+ "tagaytay-tagaytay-city-market\u0001https://fastly.4sqi.net/img/general/original/48562173_GMhWA4-x96xCofnoWI7vvmh5oF5YTtFrbTxp_Ad68wA.jpg": {
+  "slug": "tagaytay-tagaytay-city-market",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Isolated plate of fruit, not a market scene",
+  "at": "2026-10-12T14:54:26.881Z"
+ },
  "tagaytay-tagaytay-city-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Tagaytay_City_Souvenirs%2C_Cavite%2C_Jul_2025.jpg/3840px-Tagaytay_City_Souvenirs%2C_Cavite%2C_Jul_2025.jpg": {
   "slug": "tagaytay-tagaytay-city-market",
-  "verdict": "MATCH",
-  "reason": "publish gate: Souvenir stall with Tagaytay-branded goods, representative market view",
-  "at": "2026-09-27T07:39:35.703Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: different place: Commons file is another site of the same kind (place-kind-only name; checked by Commons category + distance 2026-10-12)",
+  "at": "2026-10-12T14:52:29.446Z"
  },
  "taguig-june-eatery\u0001https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Menomonee_Falls_June_2026_13_%28Poppy_%26_Thyme_and_The_Alumni_Club_Tavern_%26_Eatery%29.jpg/3840px-Menomonee_Falls_June_2026_13_%28Poppy_%26_Thyme_and_The_Alumni_Club_Tavern_%26_Eatery%29.jpg": {
   "slug": "taguig-june-eatery",
@@ -27167,9 +27225,15 @@
  },
  "ulaanbaatar-ulaanbaatar-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/National_Garden_Park_%28Ulaanbaatar%29_2.jpg/3840px-National_Garden_Park_%28Ulaanbaatar%29_2.jpg": {
   "slug": "ulaanbaatar-ulaanbaatar-park",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: different place: Commons file is another site of the same kind (place-kind-only name; checked by Commons category + distance 2026-10-12)",
+  "at": "2026-10-12T14:52:29.250Z"
+ },
+ "ulaanbaatar-ulaanbaatar-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Ulaanbaatar_Park.jpg/3840px-Ulaanbaatar_Park.jpg": {
+  "slug": "ulaanbaatar-ulaanbaatar-park",
   "verdict": "MATCH",
-  "reason": "publish gate: Representative playground park scene, plausible for Ulaanbaatar park",
-  "at": "2026-10-12T09:46:56.383Z"
+  "reason": "patrol replace: Park pathway, grass, trees, Ulaanbaatar skyline visible",
+  "at": "2026-10-12T14:54:40.020Z"
  },
  "ulaanbaatar-zanabazar-museum-of-fine-arts\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/The_Fine_Arts_Zanabazar_Museum.jpg/1920px-The_Fine_Arts_Zanabazar_Museum.jpg": {
   "slug": "ulaanbaatar-zanabazar-museum-of-fine-arts",

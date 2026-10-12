@@ -5,20 +5,7 @@ country: "Thailand"
 region: "Pattaya"
 category: "hidden-gem"
 pubDate: "2026-09-23T07:37:55.788Z"
-heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/DFC_4733_Night_market_scene_in_Pattaya_street_vendors_parked_scooters_and_people_browsing_under_bright_shop_signs.jpg/3840px-DFC_4733_Night_market_scene_in_Pattaya_street_vendors_parked_scooters_and_people_browsing_under_bright_shop_signs.jpg"
-  credit: "Photo: PattayaPatrol / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:DFC_4733_Night_market_scene_in_Pattaya_street_vendors_parked_scooters_and_people_browsing_under_bright_shop_signs.jpg"
-  via: "act"
-  focus:
-    x: 50
-    y: 50
-gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/DFC_5395_Night_market_stall_in_Pattaya_Thailand_-_a_vendor_waits_behind_a_colorful_display_of_fresh_fruit_and_street_food_under_warm_lights.jpg/3840px-DFC_5395_Night_market_stall_in_Pattaya_Thailand_-_a_vendor_waits_behind_a_colorful_display_of_fresh_fruit_and_street_food_under_warm_lights.jpg"
-    credit: "Photo: PattayaPatrol / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:DFC_5395_Night_market_stall_in_Pattaya_Thailand_-_a_vendor_waits_behind_a_colorful_display_of_fresh_fruit_and_street_food_under_warm_lights.jpg"
+gallery: []
 place:
   id: "ChIJ6Znh81yWAjERiAEGKA8wTP8"
   name: "Pattaya Park Night Market"
@@ -77,7 +64,7 @@ faq:
   - q: "Is this a local favorite or mainly for tourists?"
     a: "It's a genuinely popular, well-reviewed market that draws large crowds rather than being an under-the-radar spot, so expect a busy, tourist-friendly atmosphere, especially in the evening."
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 Under one long corrugated roof, rows of stalls press close enough that you can smell grilled skewers from three aisles over. This is Pattaya Park Night Market, and despite the name it opens at noon, not nightfall.

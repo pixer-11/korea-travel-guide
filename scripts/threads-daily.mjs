@@ -327,7 +327,7 @@ try {
   // The event-mode vision gate below still judges every candidate.
   const isEvent = post.fm.category === 'event';
   const q = isEvent ? venueName : `${venueName} ${region}`;
-  for (const c of rank(await commonsCandidates(q, 8, isEvent ? '' : venueName, isEvent ? null : at))) {
+  for (const c of rank(await commonsCandidates(q, 8, isEvent ? '' : venueName, isEvent ? null : at, { region: isEvent ? '' : region }))) {
     cands.push({ url: c.url, credit: c.credit });
   }
   // Venues: the same Foursquare/Flickr sources the site's photo pipeline uses.

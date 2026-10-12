@@ -183,6 +183,44 @@ const stem = (w) => w.replace(/(?:es|s)$/i, '');
 // Connectives carry no identity — "Gran Premio DE Aragón" is not more specific
 // for containing "de", and requiring it rejected every real photo of the race.
 const NAME_STOP = new Set(['de', 'del', 'la', 'las', 'los', 'the', 'of', 'and', 'el', 'le', 'les', 'da', 'do', 'di']);
+// A name made of nothing but the city and a KIND of place — "Ulaanbaatar
+// Park", "Hanoi Market", "Central Square" — names no particular place. Every
+// word of it is also in the file name of every other park in that city, so the
+// word test below passed "National Garden Park (Ulaanbaatar)", 2.3km away, as a
+// photo of Ulaanbaatar Park, and vision cannot tell one park from another
+// (2026-10-12, live on the home page). Such a name proves identity only when a
+// file carries it as the PHRASE, in order and unbroken.
+const PLACE_KIND = new Set([
+  'park', 'garden', 'square', 'market', 'bazaar', 'museum', 'gallery', 'beach',
+  'lake', 'river', 'temple', 'church', 'cathedral', 'mosque', 'pagoda', 'shrine',
+  'monastery', 'palace', 'castle', 'fort', 'fortress', 'tower', 'bridge', 'mall',
+  'plaza', 'street', 'road', 'avenue', 'station', 'stadium', 'arena', 'zoo',
+  'aquarium', 'library', 'theatre', 'theater', 'hall', 'center', 'centre', 'city',
+  'town', 'old', 'central', 'national', 'public', 'people', 'peoples', 'night',
+  'walking', 'waterfront', 'promenade', 'bay', 'hill', 'mountain', 'island',
+  'port', 'harbour', 'harbor', 'pier', 'art', 'arts', 'history', 'memorial',
+  'monument', 'statue', 'village', 'quarter', 'district', 'downtown', 'main',
+  'grand', 'great', 'new', 'botanical', 'botanic', 'amusement', 'children',
+  'childrens', 'family', 'sports', 'cultural', 'culture', 'heritage',
+].map(stem));
+// CamelCase split first: "PeoplesHistoryMuseum.JPG" is three words; and the
+// possessive joins up, so "People's" and "Peoples" are one word.
+const nameWords = (s) => (fold(String(s ?? '').replace(/['’]/g, '').replace(/(\p{Ll})(\p{Lu})/gu, '$1 $2')).match(/[\p{L}\p{N}]{2,}/gu) || []).filter((w) => !NAME_STOP.has(w)).map(stem);
+export function placeKindOnly(subject, region = '') {
+  const reg = new Set(nameWords(region));
+  const words = nameWords(subject);
+  return words.length > 0 && words.every((w) => reg.has(w) || PLACE_KIND.has(w));
+}
+export function namesPhrase(title, subject) {
+  const want = nameWords(subject);
+  const have = nameWords(title);
+  if (!want.length) return false;
+  for (let i = 0; i + want.length <= have.length; i++) {
+    if (want.every((w, j) => have[i + j] === w)) return true;
+  }
+  return false;
+}
+
 const namesSubjectNotVantage = (title, subject) => {
   const words = fold(subject).match(/[\p{L}\p{N}]{2,}/gu) || [];
   if (!words.length) return true;
@@ -257,7 +295,8 @@ const haversine = (a, b, c, d) => {
 // enough for a city-scale subject, far short of "another country".
 const SAME_PLACE_KM = 30;
 
-export async function commonsCandidates(query, limit = 10, subject = '', near = null) {
+export async function commonsCandidates(query, limit = 10, subject = '', near = null, { region = '' } = {}) {
+  const phraseOnly = !!subject && placeKindOnly(subject, region);
   // Ask for far more than we need. The filters below are aggressive on purpose,
   // and a Cloud Gate search that returned 8 rows kept only 1 of them — a
   // carousel needs several. Over-fetching costs one request either way.
@@ -299,6 +338,7 @@ export async function commonsCandidates(query, limit = 10, subject = '', near = 
     })
     .filter(usableFile)
     .filter((c) => namesSubjectNotVantage(c.title, subject))
+    .filter((c) => !phraseOnly || namesPhrase(c.title, subject))
     .sort((a, b) => a.index - b.index);
 
   // With coordinates, the geo-limited search is the ONLY search. Falling back to
@@ -529,7 +569,7 @@ const BORING =
 // article FOR the place. Only free Commons files pass (non-free en-wiki logos
 // resolve as missing on Commons and are dropped). Returns a commonsBest-shaped
 // candidate or null; callers fall back to commonsBest search.
-export async function wikipediaLeadImage(name, { used, minWidth = 1200, near = null } = {}) {
+export async function wikipediaLeadImage(name, { used, minWidth = 1200, near = null, region = '' } = {}) {
   if (!name) return null;
   // '|' is MediaWiki's MULTI-TITLE separator: "Earth House | Restaurant |
   // Wine Bar" queried the generic 'Restaurant' and 'Wine bar' articles and a
@@ -557,6 +597,9 @@ export async function wikipediaLeadImage(name, { used, minWidth = 1200, near = n
   // title must share a token with the query (guards "Foo Cafe" → unrelated page).
   const qtok = new Set(tokens(name));
   if (!tokens(page.title || '').some((t) => qtok.has(t))) return null;
+  // "Ulaanbaatar Park" redirecting to Ulaanbaatar, or to some other park: a
+  // city-and-kind name only counts when the article carries that exact name.
+  if (placeKindOnly(name, region) && !namesPhrase(page.title || '', name)) return null;
   if (BORING.test(page.pageimage)) return null;
   // Same archival guard as commonsBest — underscores defeat BORING's \b
   // anchors ('Comiket_Special_1978.jpg' passed), and a lead image can be a
@@ -656,13 +699,13 @@ export function containsRespaced(text, needle) {
   return false;
 }
 
-export async function commonsBest(query, { mustInclude = [], used, allowPortrait = false, minWidth = 1200, crossCheck = null, minCross = 0, subject = '', near = null, event = false } = {}) {
+export async function commonsBest(query, { mustInclude = [], used, allowPortrait = false, minWidth = 1200, crossCheck = null, minCross = 0, subject = '', near = null, event = false, region = '' } = {}) {
   // subject/near were added to commonsCandidates for the Instagram carousel and,
   // for a while, ONLY the carousel passed them — so the vantage test and the
   // geo limit did nothing at all on the path that picks the hero image every
   // article is published with. An empty subject makes namesSubjectNotVantage
   // return true for everything, so the filter was not merely weaker, it was off.
-  const cands = await commonsCandidates(query, 14, subject, near);
+  const cands = await commonsCandidates(query, 14, subject, near, { region });
   if (!cands.length) return null;
   const qtok = tokens(query);
   const must = mustInclude.map((s) => fold(s)).filter(Boolean);

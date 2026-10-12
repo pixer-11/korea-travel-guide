@@ -18,13 +18,7 @@ heroImage:
   license: wikimedia
   source: >-
     https://commons.wikimedia.org/wiki/File:Jeju_Island_20141129_10_(15926202611).jpg
-gallery:
-  - url: >-
-      https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Museum_of_Ethnology%2C_Osaka_-_A_model_of_private_house_in_Jeju_Island%2C_South_Korea.jpg/3840px-National_Museum_of_Ethnology%2C_Osaka_-_A_model_of_private_house_in_Jeju_Island%2C_South_Korea.jpg
-    credit: 'Photo: Yanajin33 / Wikimedia Commons (CC BY-SA 3.0)'
-    license: wikimedia
-    source: >-
-      https://commons.wikimedia.org/wiki/File:National_Museum_of_Ethnology,_Osaka_-_A_model_of_private_house_in_Jeju_Island,_South_Korea.jpg
+gallery: []
 place:
   id: ChIJVSkvCznjDDURxEceY37fW2A
   name: Jeju National Museum
