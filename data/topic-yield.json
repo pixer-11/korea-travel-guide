@@ -6,12 +6,12 @@
    "hits": 14
   },
   "historic site": {
-   "attempts": 108,
+   "attempts": 109,
    "hits": 69
   },
   "park": {
-   "attempts": 122,
-   "hits": 78
+   "attempts": 123,
+   "hits": 79
   },
   "viewpoint": {
    "attempts": 68,
@@ -30,20 +30,20 @@
    "hits": 5
   },
   "museum": {
-   "attempts": 195,
-   "hits": 117
+   "attempts": 196,
+   "hits": 118
   },
   "noodles": {
    "attempts": 54,
    "hits": 1
   },
   "old quarter": {
-   "attempts": 106,
-   "hits": 51
+   "attempts": 107,
+   "hits": 52
   },
   "local market": {
-   "attempts": 193,
-   "hits": 76
+   "attempts": 194,
+   "hits": 77
   },
   "bookshop": {
    "attempts": 33,
@@ -54,7 +54,7 @@
    "hits": 3
   },
   "hidden gem": {
-   "attempts": 124,
+   "attempts": 125,
    "hits": 74
   },
   "breakfast": {
@@ -86,7 +86,7 @@
    "hits": 0
   },
   "top attraction": {
-   "attempts": 98,
+   "attempts": 99,
    "hits": 69
   },
   "grill": {
@@ -524,7 +524,11 @@
   "Yellow Pumpkin": {
    "attempts": 1,
    "hits": 0
+  },
+  "Benesse House Museum": {
+   "attempts": 1,
+   "hits": 1
   }
  },
- "updated": "2026-10-12T04:16:25.844Z"
+ "updated": "2026-10-12T07:07:46.941Z"
 }

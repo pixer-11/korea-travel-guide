@@ -17230,11 +17230,35 @@
   "reason": "patrol replace: Sun Moon Lake landscape with boats and mountains",
   "at": "2026-08-22T15:24:18.687Z"
  },
+ "naoshima-benesse-house-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/150505_Benesse_House_Museum_Naoshima_Kagawa_pref_Japan01b3s5.jpg/3840px-150505_Benesse_House_Museum_Naoshima_Kagawa_pref_Japan01b3s5.jpg": {
+  "slug": "naoshima-benesse-house-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Benesse House Museum terrace overlooking Seto Inland Sea view",
+  "at": "2026-10-12T07:07:46.817Z"
+ },
  "naoshima-chichu-art-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/150505_Chichu_Art_Museum_Naoshima_Island_Kagawa_pref_Japan01s3.jpg/1920px-150505_Chichu_Art_Museum_Naoshima_Island_Kagawa_pref_Japan01s3.jpg": {
   "slug": "naoshima-chichu-art-museum",
   "verdict": "MATCH",
   "reason": "publish gate: Shows museum entrance wall and gate, consistent with venue",
   "at": "2026-10-10T16:02:48.647Z"
+ },
+ "naoshima-naoshima-island\u0001https://upload.wikimedia.org/wikipedia/commons/2/2b/Benesse_House_beach%2C_Naoshima_island_-_Jul_23%2C_2009.jpg": {
+  "slug": "naoshima-naoshima-island",
+  "verdict": "MATCH",
+  "reason": "publish gate: Beach and coastline plausibly representative of Naoshima Island",
+  "at": "2026-10-12T07:07:46.854Z"
+ },
+ "naoshima-naoshima-new-museum-of-art\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Naoshima_New_Museum_of_Art_2025.jpg/1920px-Naoshima_New_Museum_of_Art_2025.jpg": {
+  "slug": "naoshima-naoshima-new-museum-of-art",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior view of modern concrete museum building, representative",
+  "at": "2026-10-12T07:07:46.878Z"
+ },
+ "naoshima-teshima-art-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Teshima_Art_Museum_exterior_view_201310.jpg/1920px-Teshima_Art_Museum_exterior_view_201310.jpg": {
+  "slug": "naoshima-teshima-art-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Teshima Art Museum's distinctive white curved exterior",
+  "at": "2026-10-12T07:07:46.901Z"
  },
  "nape-flora-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Flora_Garden_03.jpg/1920px-Flora_Garden_03.jpg": {
   "slug": "nape-flora-garden",
@@ -18392,6 +18416,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Traditional Japanese building plausibly representing this museum's exterior",
   "at": "2026-10-11T00:20:02.269Z"
+ },
+ "okayama-miyama-park\u0001https://upload.wikimedia.org/wikipedia/commons/d/df/Miyama_Park_entrance.jpg": {
+  "slug": "okayama-miyama-park",
+  "verdict": "MATCH",
+  "reason": "publish gate: Welcome topiary sign at Miyama Park, Okayama",
+  "at": "2026-10-12T07:07:46.922Z"
  },
  "okayama-okayama-castle\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/%E5%B2%A1%E5%B1%B1%E5%9F%8E_Okayama_Castle_-_panoramio.jpg/3840px-%E5%B2%A1%E5%B1%B1%E5%9F%8E_Okayama_Castle_-_panoramio.jpg": {
   "slug": "okayama-okayama-castle",
