@@ -46,3 +46,9 @@ test('됭 is allowed only inside 베르됭 — 됭장 is still a typo (Codex, 10
 test('allows 아녤리 (Agnelli) — the fixer deleted the Turin translation for it every publish (10-05)', () => {
   assert.deepEqual(koBrokenSyllables('옥상에 오르면 아녤리 미술관과 라 피스타'), []);
 });
+
+test('allows the Chinese-loanword syllables 몐·폔 (사몐다오 沙面岛, 2026-10-12)', () => {
+  assert.deepEqual(koBrokenSyllables('광저우 타워와 사몐다오(沙面岛)까지 지하철로 갑니다. 폔'), []);
+  // the guard still bites next to them
+  assert.equal(koBrokenSyllables('사몐다오 쀍').length, 1);
+});

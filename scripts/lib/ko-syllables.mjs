@@ -26,7 +26,11 @@ const KO_WANSUNG = new Set(readFileSync(new URL('../../src/data/ko-wansung.txt',
 // 녤: 아녤리 (Agnelli — Turin's Pinacoteca Agnelli on the Lingotto roof), the
 // standard spelling; the fixer deleted turin-club-to-club-c2c-festival for it
 // on 2026-10-05 and every retranslation wrote it again.
-export const KO_EXTENDED_OK = new Set([...'웻똠쩻뻄뻭녓얙뻉뜽냣셱췩뱡녤']);
+// 몐·폔: the standard Korean spelling of Chinese mian/pian (외래어 표기법 —
+// 사몐다오 沙面岛). Outside KS X 1001, so a Guangzhou guide's correct
+// translation was deleted as "broken" (2026-10-12). The rest of that
+// table's ㅖ-row (볜 뎬 롄 녠 톈) is already in the 2,350.
+export const KO_EXTENDED_OK = new Set([...'웻똠쩻뻄뻭녓얙뻉뜽냣셱췩뱡녤몐폔']);
 // Whole words, for a syllable that is a typo everywhere else: 됭 is 된 mangled
 // in 됭장 (Codex, 10-03), but 베르됭 (Verdun — Nicholas of Verdun, goldsmith of
 // Cologne's Shrine of the Three Kings) is the standard spelling; the Cologne
