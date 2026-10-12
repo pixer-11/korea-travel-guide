@@ -6302,12 +6302,6 @@
   "reasonKo": "현대적 카페 인테리어, 이탈리안 브랜드",
   "at": "2026-08-04T12:22:37.166Z"
  },
- "dalanzadgad-national-museum-of-mongolia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/National_Museum_of_Mongolia_%282023%29.jpg/1920px-National_Museum_of_Mongolia_%282023%29.jpg": {
-  "slug": "dalanzadgad-national-museum-of-mongolia",
-  "verdict": "MATCH",
-  "reason": "publish gate: Museum building exterior with Mongolian script, representative hero shot",
-  "at": "2026-10-11T07:44:49.454Z"
- },
  "dalanzadgad-ongi-monastery\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Ongii_Monastery_19.jpg/1920px-Ongii_Monastery_19.jpg": {
   "slug": "dalanzadgad-ongi-monastery",
   "verdict": "MATCH",
@@ -7042,12 +7036,6 @@
   "reason": "Taraw Cliff with village below, El Nido Philippines",
   "reasonKo": "엘니도 타라우 절벽과 해변 마을",
   "at": "2026-08-10T14:01:39.284Z"
- },
- "erdenet-erdene-zuu-monastery\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/%C5%9Awi%C4%85tynia_Zachodnia_w_klasztorze_Erdene_Dzuu_01.jpg/1920px-%C5%9Awi%C4%85tynia_Zachodnia_w_klasztorze_Erdene_Dzuu_01.jpg": {
-  "slug": "erdenet-erdene-zuu-monastery",
-  "verdict": "MATCH",
-  "reason": "publish gate: Mongolian Buddhist temple matches monastery architecture style.",
-  "at": "2026-10-11T07:56:51.537Z"
  },
  "fergana-al-farg-oniy-haykali\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Ahmad_Al-Farg%27oniy_haykali.jpg/3840px-Ahmad_Al-Farg%27oniy_haykali.jpg": {
   "slug": "fergana-al-farg-oniy-haykali",
@@ -17060,12 +17048,6 @@
   "verdict": "MATCH",
   "reason": "event publish gate: Performer singing on stage with microphone at event",
   "at": "2026-10-12T00:08:27.600Z"
- },
- "murun-kharakhorum-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Kharakhorum_Museum.jpg/1920px-Kharakhorum_Museum.jpg": {
-  "slug": "murun-kharakhorum-museum",
-  "verdict": "MATCH",
-  "reason": "publish gate: Exterior of Kharkhorum Museum building with signage visible",
-  "at": "2026-10-11T07:44:49.629Z"
  },
  "nagoya-asian-games-2026\u0001https://upload.wikimedia.org/wikipedia/commons/0/09/Asian_Games_Hangzhou_2023_-_19.jpg": {
   "slug": "nagoya-asian-games-2026",
