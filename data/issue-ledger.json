@@ -1,5 +1,11 @@
 {
-  "validate-content": {},
+  "validate-content": {
+    "ENDED-EVENT-ADVICE singapore-formula-1-singapore-grand-prix-2026.md": {
+      "since": "2026-10-12",
+      "last": "2026-10-12",
+      "seen": 1
+    }
+  },
   "audit-translations": {},
   "audit-hours-claims": {}
 }
