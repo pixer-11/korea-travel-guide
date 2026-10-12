@@ -1,5 +1,11 @@
 {
-  "validate-content": {},
+  "validate-content": {
+    "CITY kurashiki-kurashiki-bikan-historical-quarter.md": {
+      "since": "2026-10-12",
+      "last": "2026-10-12",
+      "seen": 1
+    }
+  },
   "audit-translations": {},
   "audit-hours-claims": {
     "HOURS-CONTRADICTION okayama-okayama-korakuen.md": {
