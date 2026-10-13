@@ -22,13 +22,13 @@ faq:
     a: Allow about two hours for dinner, or around an hour for drinks around sunset. Add time before or after for a walk in Lumphini Park or a second stop in Silom.
 aiGenerated: true
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/503264127_6UyTWY3tWPCArZzvFh2XUCt89TzbhqIe14BHZdB1P2w.jpg
+  url: https://fastly.4sqi.net/img/general/original/503264127_Y3cACDK_h8aM9HsC6h2hVEaAk4KVGlMnBf_9LatbMOI.jpg
   credit: 'Photo: Foursquare user content (Iris & Wild Iris)'
   license: foursquare
   source: https://foursquare.com/v/69a41a9d6786db4b4a55a2b9
   focus:
-    x: 45
-    'y': 45
+    x: 50
+    'y': 50
 ---
 ## Thirty Floors Above the Park
 

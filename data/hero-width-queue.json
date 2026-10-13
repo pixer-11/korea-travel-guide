@@ -2593,7 +2593,9 @@
   "heidelberg-kornmarkt\u0001https://upload.wikimedia.org/wikipedia/commons/e/e4/Kornmarkt_Heidelberg.jpg": 2000,
   "munich-alter-hof\u0001https://upload.wikimedia.org/wikipedia/commons/b/b8/Alter_Hof_%28Munich%29_-_panoramio.jpg": 2048,
   "teshima-teshima-yokoo-house\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Teshima_Yokoo_House_2025.jpg/1920px-Teshima_Yokoo_House_2025.jpg": 1920,
-  "ulaanbaatar-bogd-khan-uul\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Bogd_Khan_%2823005337582%29.jpg/3840px-Bogd_Khan_%2823005337582%29.jpg": 3840
+  "ulaanbaatar-bogd-khan-uul\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Bogd_Khan_%2823005337582%29.jpg/3840px-Bogd_Khan_%2823005337582%29.jpg": 3840,
+  "bangkok-gamescom-asia-x-thailand-game-show-2026\u0001https://upload.wikimedia.org/wikipedia/commons/d/d9/Gamescom_2025.jpg": 1366,
+  "paris-young-posse-pilot-3-1st-flight-to-eur\u0001https://upload.wikimedia.org/wikipedia/commons/d/d0/Brett_Young_in_concert_2015.jpg": 2584
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -2899,23 +2901,17 @@
   },
   "istanbul-lina-anatolian-kitchen": {
    "width": 1024,
-   "attempts": 1,
-   "nextTry": "2026-10-13",
+   "attempts": 2,
+   "nextTry": "2026-10-20",
    "flaggedAt": "2026-09-24",
    "lastResult": "no-wider"
   },
   "kyoto-kurama-fire-festival": {
    "width": 1024,
-   "attempts": 1,
-   "nextTry": "2026-10-13",
+   "attempts": 2,
+   "nextTry": "2026-10-20",
    "flaggedAt": "2026-09-24",
    "lastResult": "no-wider"
-  },
-  "bangkok-iris-wild-iris": {
-   "width": 1080,
-   "attempts": 0,
-   "nextTry": "2026-10-01",
-   "flaggedAt": "2026-10-01"
   },
   "goyang-lany-concert": {
    "width": 750,
@@ -2925,9 +2921,10 @@
   },
   "beijing-beijing-marathon": {
    "width": 1024,
-   "attempts": 0,
-   "nextTry": "2026-10-01",
-   "flaggedAt": "2026-10-01"
+   "attempts": 1,
+   "nextTry": "2026-10-20",
+   "flaggedAt": "2026-10-01",
+   "lastResult": "no-wider"
   },
   "hong-kong-clockenflap-music-arts-festival": {
    "width": 800,
@@ -3098,5 +3095,5 @@
    "flaggedAt": "2026-10-05"
   }
  },
- "updated": "2026-10-13T15:14:58.703Z"
+ "updated": "2026-10-13T23:33:08.372Z"
 }

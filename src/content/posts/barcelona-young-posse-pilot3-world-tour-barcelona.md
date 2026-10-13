@@ -13,6 +13,14 @@ eventPerformer:
   name: Young Posse
   kind: group
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Estadi_Ol%C3%ADmpic_Llu%C3%ADs_Companys_-_Barcelona%2C_Spain_-_Jan_2007.jpg/3840px-Estadi_Ol%C3%ADmpic_Llu%C3%ADs_Companys_-_Barcelona%2C_Spain_-_Jan_2007.jpg'
+  credit: 'Photo: Diliff / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Estadi_Ol%C3%ADmpic_Llu%C3%ADs_Companys_-_Barcelona,_Spain_-_Jan_2007.jpg'
+  focus:
+    x: 50
+    y: 50
 tags:
   - barcelona
   - event

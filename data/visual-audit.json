@@ -2149,6 +2149,18 @@
   "reason": "patrol replace: Modern Bangkok restaurant interior with contemporary design",
   "at": "2026-09-24T22:40:15.610Z"
  },
+ "bangkok-gamescom-asia-x-thailand-game-show-2026\u0001https://upload.wikimedia.org/wikipedia/commons/d/d9/Gamescom_2025.jpg": {
+  "slug": "bangkok-gamescom-asia-x-thailand-game-show-2026",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Cosplayers at gaming event venue, QSNCC Bangkok",
+  "at": "2026-10-13T23:23:47.617Z"
+ },
+ "bangkok-gamescom-asia-x-thailand-game-show-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/World_of_Warcraft_concert_stage_at_Gamescom_2013_%289588475141%29.jpg/3840px-World_of_Warcraft_concert_stage_at_Gamescom_2013_%289588475141%29.jpg": {
+  "slug": "bangkok-gamescom-asia-x-thailand-game-show-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated subject: decorative bird prop, not event/venue",
+  "at": "2026-10-13T23:23:44.595Z"
+ },
  "bangkok-gamescom-asia-x-thailand-game-show-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/World_of_Warcraft_concert_stage_at_Gamescom_2013_%289588475393%29.jpg/3840px-World_of_Warcraft_concert_stage_at_Gamescom_2013_%289588475393%29.jpg": {
   "slug": "bangkok-gamescom-asia-x-thailand-game-show-2026",
   "verdict": "MISMATCH",
@@ -2194,9 +2206,9 @@
  },
  "bangkok-iris-wild-iris\u0001https://fastly.4sqi.net/img/general/original/503264127_Y3cACDK_h8aM9HsC6h2hVEaAk4KVGlMnBf_9LatbMOI.jpg": {
   "slug": "bangkok-iris-wild-iris",
-  "verdict": "MISMATCH",
-  "reason": "patrol reject: audit: High-rise cityscape view, not Bangkok venue interior",
-  "at": "2026-10-01T23:22:35.628Z"
+  "verdict": "MATCH",
+  "reason": "width upgrade: Table setting with city view, representative of trendy rooftop venue",
+  "at": "2026-10-13T23:32:21.817Z"
  },
  "bangkok-jason-mraz-bangkok-2026\u0001https://upload.wikimedia.org/wikipedia/commons/1/1d/Jason_Mraz.jpg": {
   "slug": "bangkok-jason-mraz-bangkok-2026",
@@ -2987,6 +2999,12 @@
   "reason": "patrol replace: Plated dessert with whipped cream, citrus, trendy Barcelona ",
   "at": "2026-10-01T23:23:06.518Z"
  },
+ "barcelona-young-posse-pilot3-world-tour-barcelona\u0001https://upload.wikimedia.org/wikipedia/commons/3/33/Za%21_na_Sala_Salamandra_2012.jpg": {
+  "slug": "barcelona-young-posse-pilot3-world-tour-barcelona",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Different band/event performing, not Young Posse PILOT3",
+  "at": "2026-10-13T23:25:15.198Z"
+ },
  "barcelona-young-posse-pilot3-world-tour-barcelona\u0001https://upload.wikimedia.org/wikipedia/commons/3/37/Brett_Young_in_concert_in_July_2017.jpg": {
   "slug": "barcelona-young-posse-pilot3-world-tour-barcelona",
   "verdict": "MISMATCH",
@@ -3004,6 +3022,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: identity: Commons places this in Portland, post says Barcelona",
   "at": "2026-10-12T22:10:16.941Z"
+ },
+ "barcelona-young-posse-pilot3-world-tour-barcelona\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Neil_Young_long_view.jpg/3840px-Neil_Young_long_view.jpg": {
+  "slug": "barcelona-young-posse-pilot3-world-tour-barcelona",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: identity: Commons places this in United Kingdom, post says Spain",
+  "at": "2026-10-13T23:25:13.480Z"
  },
  "barcelona-young-posse-pilot3-world-tour-barcelona\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Young_Oceans_Live_in_Concert_2018.jpg/3840px-Young_Oceans_Live_in_Concert_2018.jpg": {
   "slug": "barcelona-young-posse-pilot3-world-tour-barcelona",
@@ -8000,8 +8024,8 @@
  "goyang-charlie-puth-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Charlie_Puth%2C_Regency_Ballroom%2C_San_Francisco_%28Nine_Track_Mind_Tour%29_1.jpg/3840px-Charlie_Puth%2C_Regency_Ballroom%2C_San_Francisco_%28Nine_Track_Mind_Tour%29_1.jpg": {
   "slug": "goyang-charlie-puth-concert",
   "verdict": "MATCH",
-  "reason": "patrol replace: Concert performance with stage lighting, venue context",
-  "at": "2026-10-12T22:10:47.217Z"
+  "reason": "patrol replace: Concert performance with stage lighting setup",
+  "at": "2026-10-13T23:25:33.289Z"
  },
  "goyang-charlie-puth-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Charlie_Puth%2C_Regency_Ballroom%2C_San_Francisco_%28Nine_Track_Mind_Tour%29_2.jpg/3840px-Charlie_Puth%2C_Regency_Ballroom%2C_San_Francisco_%28Nine_Track_Mind_Tour%29_2.jpg": {
   "slug": "goyang-charlie-puth-concert",
@@ -14418,8 +14442,8 @@
  "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia\u0001https://upload.wikimedia.org/wikipedia/commons/e/ee/Vladimir_leonov_motogp.jpg": {
   "slug": "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia",
   "verdict": "MATCH",
-  "reason": "patrol replace: MotoGP motorcycle racing at circuit with safety barriers",
-  "at": "2026-10-12T22:13:23.404Z"
+  "reason": "patrol replace: MotoGP motorcycle racing at circuit venue",
+  "at": "2026-10-13T23:27:11.816Z"
  },
  "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Alvaro_Bautista-motogp-2015.JPG/3840px-Alvaro_Bautista-motogp-2015.JPG": {
   "slug": "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia",
@@ -19625,11 +19649,29 @@
   "reason": "hand-reviewed: filename shares only \"young\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-13T07:15:54.000Z"
  },
+ "paris-young-posse-pilot-3-1st-flight-to-eur\u0001https://upload.wikimedia.org/wikipedia/commons/d/d0/Brett_Young_in_concert_2015.jpg": {
+  "slug": "paris-young-posse-pilot-3-1st-flight-to-eur",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Performer on stage at concert venue",
+  "at": "2026-10-13T23:28:35.726Z"
+ },
  "paris-young-posse-pilot-3-1st-flight-to-eur\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Young_Fathers_concert_Portland.jpg/3840px-Young_Fathers_concert_Portland.jpg": {
   "slug": "paris-young-posse-pilot-3-1st-flight-to-eur",
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: Young Fathers, not Young Posse",
   "at": "2026-10-12T02:00:45.635Z"
+ },
+ "paris-young-posse-pilot-3-1st-flight-to-eur\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Young_Oceans_Live_in_Concert_2018.jpg/3840px-Young_Oceans_Live_in_Concert_2018.jpg": {
+  "slug": "paris-young-posse-pilot-3-1st-flight-to-eur",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: identity: Commons places this in Nashville, post says Paris",
+  "at": "2026-10-13T23:28:28.453Z"
+ },
+ "paris-young-posse-pilot-3-1st-flight-to-eur\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Neil_young_hp.jpg/3840px-Neil_young_hp.jpg": {
+  "slug": "paris-young-posse-pilot-3-1st-flight-to-eur",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: identity: Commons places this in United Kingdom, post says France",
+  "at": "2026-10-13T23:28:31.359Z"
  },
  "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/2/27/5_Seconds_of_Summer_2014.jpg": {
   "slug": "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour",
@@ -19641,7 +19683,7 @@
   "slug": "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour",
   "verdict": "MATCH",
   "reason": "patrol replace: Band performing on stage at concert venue",
-  "at": "2026-10-12T22:17:25.574Z"
+  "at": "2026-10-13T23:28:46.336Z"
  },
  "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/9/93/5_Seconds_of_Summer_11_15_2014_-25_%2815187260193%29.jpg": {
   "slug": "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour",
