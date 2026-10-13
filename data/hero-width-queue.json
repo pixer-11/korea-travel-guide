@@ -2572,9 +2572,6 @@
   "chiba-chiba-park\u0001https://upload.wikimedia.org/wikipedia/commons/b/b7/Watauchi-ike_of_Chiba_Park_20110412a.jpg": 3000,
   "shanghai-shanghai-museum\u0001https://upload.wikimedia.org/wikipedia/commons/e/e6/%C2%B7%CB%99%C2%B7ChinaUli2010%C2%B7.%C2%B7_Shanghai_-_panoramio_%285%29.jpg": 2048,
   "ulaanbaatar-ulaanbaatar-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Ulaanbaatar_Park.jpg/3840px-Ulaanbaatar_Park.jpg": 3840,
-  "bangkok-gamescom-asia-x-thailand-game-show-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/World_of_Warcraft_concert_stage_at_Gamescom_2013_%289588475585%29.jpg/3840px-World_of_Warcraft_concert_stage_at_Gamescom_2013_%289588475585%29.jpg": 3840,
-  "barcelona-young-posse-pilot3-world-tour-barcelona\u0001https://upload.wikimedia.org/wikipedia/commons/d/d0/Brett_Young_in_concert_2015.jpg": 2584,
-  "paris-young-posse-pilot-3-1st-flight-to-eur\u0001https://upload.wikimedia.org/wikipedia/commons/3/37/Brett_Young_in_concert_in_July_2017.jpg": 2011,
   "singapore-bar-kap-house-of-tan-yeok-nee\u0001https://fastly.4sqi.net/img/general/original/13010698_5Y6pLXS4DInpkgZ4PTs_rH1lLXg9WhAC_7dvA7V2xzA.jpg": 1440,
   "singapore-toy-story-peaceminusone-the-first-fan\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Clarke_Quay%2C_Singapore%2C_at_night_-_20150308.jpg/3840px-Clarke_Quay%2C_Singapore%2C_at_night_-_20150308.jpg": 3840,
   "tagaytay-tagaytay-city-market\u0001https://fastly.4sqi.net/img/general/original/21875077_XDF696rMPjNXnngatNSOEaBXVBPvffxJ8dK8hHdCQm4.jpg": 1920,
@@ -2584,7 +2581,8 @@
   "mexico-city-rock-n-roll-mexico-city-half-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/a/ac/Mexico_City_Marathon_2018.jpg": 2846,
   "mumbai-no-art-mumbai-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mumbai_03-2016_52_Dharavi_near_Mahim_Junction.jpg/3840px-Mumbai_03-2016_52_Dharavi_near_Mahim_Junction.jpg": 3840,
   "new-delhi-purana-qila\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Purana_Qila_in_New_Delhi_12.jpg/3840px-Purana_Qila_in_New_Delhi_12.jpg": 3840,
-  "tashkent-beautyexpo-uzbekistan-2026\u0001https://upload.wikimedia.org/wikipedia/commons/7/79/Winter_in_Tashkent_7.JPG": 1701
+  "tashkent-beautyexpo-uzbekistan-2026\u0001https://upload.wikimedia.org/wikipedia/commons/7/79/Winter_in_Tashkent_7.JPG": 1701,
+  "sapa-muong-hoa-valley\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/M%C6%B0%E1%BB%9Dng_Hoa_Valley_06.jpg/3840px-M%C6%B0%E1%BB%9Dng_Hoa_Valley_06.jpg": 3840
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -3089,5 +3087,5 @@
    "flaggedAt": "2026-10-05"
   }
  },
- "updated": "2026-10-13T01:41:07.889Z"
+ "updated": "2026-10-13T07:16:11.364Z"
 }
