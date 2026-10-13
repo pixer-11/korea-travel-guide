@@ -2151,9 +2151,9 @@
  },
  "bangkok-gamescom-asia-x-thailand-game-show-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/World_of_Warcraft_concert_stage_at_Gamescom_2013_%289588475585%29.jpg/3840px-World_of_Warcraft_concert_stage_at_Gamescom_2013_%289588475585%29.jpg": {
   "slug": "bangkok-gamescom-asia-x-thailand-game-show-2026",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Gaming event stage setup with World of Warcraft branding",
-  "at": "2026-10-12T22:09:49.504Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"gamescom\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-13T07:15:53.640Z"
  },
  "bangkok-gamescom-asia-x-thailand-game-show-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Concert_%40_Gamescom_2012_%287816684968%29.jpg/3840px-Concert_%40_Gamescom_2012_%287816684968%29.jpg": {
   "slug": "bangkok-gamescom-asia-x-thailand-game-show-2026",
@@ -2989,9 +2989,9 @@
  },
  "barcelona-young-posse-pilot3-world-tour-barcelona\u0001https://upload.wikimedia.org/wikipedia/commons/d/d0/Brett_Young_in_concert_2015.jpg": {
   "slug": "barcelona-young-posse-pilot3-world-tour-barcelona",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Performer with guitar on stage, plausible for concert event",
-  "at": "2026-10-12T22:10:27.975Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"young\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-13T07:15:53.822Z"
  },
  "barcelona-young-posse-pilot3-world-tour-barcelona\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Young_Fathers_concert_Portland.jpg/3840px-Young_Fathers_concert_Portland.jpg": {
   "slug": "barcelona-young-posse-pilot3-world-tour-barcelona",
@@ -19567,9 +19567,9 @@
  },
  "paris-young-posse-pilot-3-1st-flight-to-eur\u0001https://upload.wikimedia.org/wikipedia/commons/3/37/Brett_Young_in_concert_in_July_2017.jpg": {
   "slug": "paris-young-posse-pilot-3-1st-flight-to-eur",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Musician performing on stage with guitar",
-  "at": "2026-10-12T22:17:11.113Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"young\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-13T07:15:54.000Z"
  },
  "paris-young-posse-pilot-3-1st-flight-to-eur\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Young_Fathers_concert_Portland.jpg/3840px-Young_Fathers_concert_Portland.jpg": {
   "slug": "paris-young-posse-pilot-3-1st-flight-to-eur",
