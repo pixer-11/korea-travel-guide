@@ -27391,6 +27391,12 @@
   "reasonKo": "우다이푸르 사헬리욘 키 바리의 상징적 분수",
   "at": "2026-08-03T14:41:09.973Z"
  },
+ "ulaanbaatar-bogd-khan-uul\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Bogd_Khan_%2823005337582%29.jpg/3840px-Bogd_Khan_%2823005337582%29.jpg": {
+  "slug": "ulaanbaatar-bogd-khan-uul",
+  "verdict": "MATCH",
+  "reason": "publish gate: Plausible natural landscape with trees/rocks matching Bogd Khan Uul",
+  "at": "2026-10-13T09:06:09.736Z"
+ },
  "ulaanbaatar-chinggis-khaan-national-museum-mongolia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Chinggis_Khaan_National_Museum_front_2023.jpg/3840px-Chinggis_Khaan_National_Museum_front_2023.jpg": {
   "slug": "ulaanbaatar-chinggis-khaan-national-museum-mongolia",
   "verdict": "MATCH",

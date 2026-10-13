@@ -6,15 +6,15 @@
    "hits": 14
   },
   "historic site": {
-   "attempts": 123,
+   "attempts": 124,
    "hits": 73
   },
   "park": {
-   "attempts": 133,
-   "hits": 84
+   "attempts": 140,
+   "hits": 85
   },
   "viewpoint": {
-   "attempts": 69,
+   "attempts": 83,
    "hits": 9
   },
   "art gallery": {
@@ -42,7 +42,7 @@
    "hits": 54
   },
   "local market": {
-   "attempts": 117,
+   "attempts": 118,
    "hits": 42
   },
   "bookshop": {
@@ -70,7 +70,7 @@
    "hits": 18
   },
   "bakery": {
-   "attempts": 42,
+   "attempts": 53,
    "hits": 3
   },
   "bar": {
@@ -530,5 +530,5 @@
    "hits": 1
   }
  },
- "updated": "2026-10-13T08:14:27.651Z"
+ "updated": "2026-10-13T09:06:09.766Z"
 }

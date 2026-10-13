@@ -35901,5 +35901,26 @@
   "registerBreak": false,
   "worst": "周末12:00–20:00最好别去。这是一天中最拥挤的时段，长椅上坐满了人，城堡下的草坪也挤满了野餐的游客。",
   "at": "2026-10-13T08:19:14.732Z"
+ },
+ "ja/ulaanbaatar-bogd-khan-uul": {
+  "hash": "348a7ff5c331",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "標高が上がるにつれて森はまばらになり、約2,256メートルの山頂ツェツェー・グン峰の周辺は岩場と高山ツンドラに変わります。",
+  "at": "2026-10-13T09:07:25.218Z"
+ },
+ "ko/ulaanbaatar-bogd-khan-uul": {
+  "hash": "b4b70793be24",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "정상은 날씨가 아래와 전혀 다릅니다.",
+  "at": "2026-10-13T09:07:30.862Z"
+ },
+ "zh/ulaanbaatar-bogd-khan-uul": {
+  "hash": "ecd975d5d1d1",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-13T09:07:31.803Z"
  }
 }
