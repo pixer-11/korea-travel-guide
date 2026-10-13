@@ -34,7 +34,7 @@
    "hits": 62
   },
   "noodles": {
-   "attempts": 55,
+   "attempts": 56,
    "hits": 1
   },
   "old quarter": {
@@ -50,7 +50,7 @@
    "hits": 6
   },
   "seafood": {
-   "attempts": 73,
+   "attempts": 84,
    "hits": 3
   },
   "hidden gem": {
@@ -74,7 +74,7 @@
    "hits": 3
   },
   "bar": {
-   "attempts": 40,
+   "attempts": 41,
    "hits": 0
   },
   "vegetarian": {
@@ -530,5 +530,5 @@
    "hits": 1
   }
  },
- "updated": "2026-10-13T09:06:09.766Z"
+ "updated": "2026-10-13T15:13:05.905Z"
 }
