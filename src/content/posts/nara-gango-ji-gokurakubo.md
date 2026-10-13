@@ -1,45 +1,51 @@
 ---
-title: "Gango-ji (Gokurakubo): Nara Travel Guide (4.2★)"
-description: "Gango-ji (Gokurakubo) sits in Nara's Naramachi district, about a 15-minute walk south of Kintetsu Nara Station, and is open daily from 9:00am to 4:30pm. 4.2★ (2,303 reviews) — what visitors say, hours, and tips."
-country: "Japan"
-region: "Nara"
-category: "hidden-gem"
-pubDate: "2026-09-30T07:50:58.582Z"
+title: 'Gango-ji (Gokurakubo): Nara Travel Guide (4.2★)'
+description: >-
+  Gango-ji (Gokurakubo) sits in Nara's Naramachi district, about a 15-minute
+  walk south of Kintetsu Nara Station, and is open daily from 9:00am to 4:30pm.
+  4.2★ (2,312 reviews) — what visitors say, hours, and tips.
+country: Japan
+region: Nara
+category: hidden-gem
+pubDate: '2026-09-30T07:50:58.582Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/2/2b/Gango-ji_Gokurakubo.jpg"
-  credit: "Photo: Bernard Gagnon / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Gango-ji_Gokurakubo.jpg"
-  via: "act"
+  url: 'https://upload.wikimedia.org/wikipedia/commons/2/2b/Gango-ji_Gokurakubo.jpg'
+  credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Gango-ji_Gokurakubo.jpg'
+  via: act
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/6/63/Roof_tiles_of_the_Gokurakub%C5%8D_%28Main_Hall%29_at_Gang%C5%8D-ji_temple_in_Nara%2C_Japan.jpg"
-    credit: "Photo: ONO Masanobu / Wikimedia Commons (CC0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Roof_tiles_of_the_Gokurakub%C5%8D_(Main_Hall)_at_Gang%C5%8D-ji_temple_in_Nara,_Japan.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/6/63/Roof_tiles_of_the_Gokurakub%C5%8D_%28Main_Hall%29_at_Gang%C5%8D-ji_temple_in_Nara%2C_Japan.jpg
+    credit: 'Photo: ONO Masanobu / Wikimedia Commons (CC0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Roof_tiles_of_the_Gokurakub%C5%8D_(Main_Hall)_at_Gang%C5%8D-ji_temple_in_Nara,_Japan.jpg
 place:
-  id: "ChIJX1ebvos5AWAR3SkIMOj72Cg"
-  name: "Gango-ji (Gokurakubo)"
-  address: "Japan, 〒630-8392 奈良県奈良市中院町１１"
+  id: ChIJX1ebvos5AWAR3SkIMOj72Cg
+  name: Gango-ji (Gokurakubo)
+  address: 'Japan, 〒630-8392 奈良県奈良市中院町１１'
   rating: 4.2
-  userRatingsTotal: 2303
-  googleMapsUrl: "https://maps.google.com/?cid=2943379331143444957&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2312
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2943379331143444957&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 34.6778098
   lng: 135.8314526
-  phone: "+81 742-23-1377"
+  phone: +81 742-23-1377
   openingHours:
-    - "Monday: 9:00 AM – 4:30 PM"
-    - "Tuesday: 9:00 AM – 4:30 PM"
-    - "Wednesday: 9:00 AM – 4:30 PM"
-    - "Thursday: 9:00 AM – 4:30 PM"
-    - "Friday: 9:00 AM – 4:30 PM"
-    - "Saturday: 9:00 AM – 4:30 PM"
-    - "Sunday: 9:00 AM – 4:30 PM"
+    - 'Monday: 9:00 AM – 4:30 PM'
+    - 'Tuesday: 9:00 AM – 4:30 PM'
+    - 'Wednesday: 9:00 AM – 4:30 PM'
+    - 'Thursday: 9:00 AM – 4:30 PM'
+    - 'Friday: 9:00 AM – 4:30 PM'
+    - 'Saturday: 9:00 AM – 4:30 PM'
+    - 'Sunday: 9:00 AM – 4:30 PM'
   busyness:
-    updated: 2026-09-30
+    updated: 2026-09-30T00:00:00.000Z
     weekdayQuiet:
       - 9
     weekendQuiet:
@@ -49,24 +55,41 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_674332376a4f4d496b53335241574135736f76626531584a496843"
+    venueId: ven_674332376a4f4d496b53335241574135736f76626531584a496843
 tags:
-  - "nara"
-  - "old quarter"
-quickAnswer: "Gango-ji (Gokurakubo) sits in Nara's Naramachi district, about a 15-minute walk south of Kintetsu Nara Station, and is open daily from 9:00am to 4:30pm. It's calmest from 9am to 10am on both weekdays and weekends. Try not to come between 12pm and 4pm on weekends, when the crowds are heaviest."
+  - nara
+  - old quarter
+quickAnswer: >-
+  Gango-ji (Gokurakubo) sits in Nara's Naramachi district, about a 15-minute
+  walk south of Kintetsu Nara Station, and is open daily from 9:00am to 4:30pm.
+  It's calmest from 9am to 10am on both weekdays and weekends. Try not to come
+  between 12pm and 4pm on weekends, when the crowds are heaviest.
 faq:
-  - q: "When is the quietest time to visit Gango-ji?"
-    a: "9am to 10am, on both weekdays and weekends. Avoid 12pm to 4pm on weekends, which is the busiest period."
-  - q: "What are the opening hours?"
-    a: "9:00am to 4:30pm, every day of the week. Arrive well before closing so you have time to enter and walk the grounds."
-  - q: "How do I get to Gango-ji from the station?"
-    a: "It's about a 15-minute walk south from Kintetsu Nara Station, via Sarusawa Pond and into Naramachi. From JR Nara Station, allow about 20 minutes."
-  - q: "How long should I spend there?"
-    a: "45 minutes to an hour covers both halls, the stone Buddha field and the garden. It pairs easily with a walk around Naramachi."
-  - q: "What makes Gango-ji historically important?"
-    a: "It is the successor to Asuka-dera, Japan's first Buddhist temple. Its roofs still carry tiles from that original temple. The Gokurakudo and Zenshitsu halls are National Treasures within the Historic Monuments of Ancient Nara World Heritage Site."
+  - q: When is the quietest time to visit Gango-ji?
+    a: >-
+      9am to 10am, on both weekdays and weekends. Avoid 12pm to 4pm on weekends,
+      which is the busiest period.
+  - q: What are the opening hours?
+    a: >-
+      9:00am to 4:30pm, every day of the week. Arrive well before closing so you
+      have time to enter and walk the grounds.
+  - q: How do I get to Gango-ji from the station?
+    a: >-
+      It's about a 15-minute walk south from Kintetsu Nara Station, via Sarusawa
+      Pond and into Naramachi. From JR Nara Station, allow about 20 minutes.
+  - q: How long should I spend there?
+    a: >-
+      45 minutes to an hour covers both halls, the stone Buddha field and the
+      garden. It pairs easily with a walk around Naramachi.
+  - q: What makes Gango-ji historically important?
+    a: >-
+      It is the successor to Asuka-dera, Japan's first Buddhist temple. Its
+      roofs still carry tiles from that original temple. The Gokurakudo and
+      Zenshitsu halls are National Treasures within the Historic Monuments of
+      Ancient Nara World Heritage Site.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-13'
 ---
 
 ## Roof tiles older than Nara itself

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: edinburgh-palace-of-holyroodhouse
-srcHash: 'dbcdec45ce66'
+srcHash: '81709b32268a'
 title: 'Palacio de Holyroodhouse: guía de viaje de Edimburgo (4.6★)'
-description: 'Residencia oficial del monarca en Escocia, el Palacio de Holyroodhouse se alza al final de la Milla Real (Royal Mile), en Canongate, dentro de la Ciudad Vieja de Edimburgo. 4.6★ (23,621 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'Residencia oficial del monarca en Escocia, el Palacio de Holyroodhouse se alza al final de la Milla Real (Royal Mile), en Canongate, dentro de la Ciudad Vieja de Edimburgo. 4.6★ (23,629 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Al final de la Milla Real (Royal Mile), en Canongate, dentro de la Ciudad Vieja de Edimburgo, se encuentra el Palacio de Holyroodhouse, residencia oficial del monarca en Escocia. Conviene reservar entre 1.5 y 2 horas para recorrer los Aposentos de Estado, las estancias de María Estuardo y las ruinas de la Abadía de Holyrood. Los fines de semana registran la mayor afluencia de 10am a 5pm, así que es preferible ir un lunes, jueves o viernes, o llegar a la apertura de las 9:30am.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Palacio de Holyroodhouse?

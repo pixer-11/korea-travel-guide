@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: edinburgh-princes-street-gardens
-srcHash: 'af697c2ac533'
+srcHash: '387848bf5bfa'
 title: 'Jardines de Princes Street: guía de viaje de Edimburgo (4.7★)'
-description: En pleno centro de Edimburgo, los Jardines de Princes Street (Princes Street Gardens) ocupan un largo valle verde entre Princes Street, en la Ciudad Nueva, y la roca sobre la que se alza el castillo, a pocos pasos de la estación de Waverley. Con 4.7★ (27,300 reseñas), aquí encontrará la opinión de los visitantes, los horarios y consejos prácticos.
+description: En pleno centro de Edimburgo, los Jardines de Princes Street (Princes Street Gardens) ocupan un largo valle verde entre Princes Street, en la Ciudad Nueva, y la roca sobre la que se alza el castillo, a pocos pasos de la estación de Waverley. Con 4.7★ (27,301 reseñas), aquí encontrará la opinión de los visitantes, los horarios y consejos prácticos.
 quickAnswer: En pleno centro de Edimburgo, los Jardines de Princes Street (Princes Street Gardens) ocupan un largo valle verde entre Princes Street, en la Ciudad Nueva, y la Castle Rock, la roca que sostiene el castillo de Edimburgo. La estación de Waverley queda a pocos pasos. Las horas más tranquilas son de 7am–10am cualquier día y, entre semana, también de 8pm–9pm. Los fines de semana conviene evitar la franja de 12pm–8pm, cuando el césped se llena de gente.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar los Jardines de Princes Street?

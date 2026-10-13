@@ -1,44 +1,52 @@
 ---
-title: "Palace of Holyroodhouse: Edinburgh Travel Guide (4.6★)"
-description: "The Palace of Holyroodhouse is the monarch's official residence in Scotland, at the bottom of the Royal Mile on Canongate in Edinburgh's Old Town. 4.6★ (23,621 reviews) — what visitors say, hours, and tips."
-country: "United Kingdom"
-region: "Edinburgh"
-category: "attraction"
-pubDate: "2026-10-13T08:14:27.931Z"
+title: 'Palace of Holyroodhouse: Edinburgh Travel Guide (4.6★)'
+description: >-
+  The Palace of Holyroodhouse is the monarch's official residence in Scotland,
+  at the bottom of the Royal Mile on Canongate in Edinburgh's Old Town. 4.6★
+  (23,629 reviews) — what visitors say, hours, and tips.
+country: United Kingdom
+region: Edinburgh
+category: attraction
+pubDate: '2026-10-13T08:14:27.931Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Holyrood_Palace_-_aerial_-_2025-04-19_01_%28cropped%29.jpg/1920px-Holyrood_Palace_-_aerial_-_2025-04-19_01_%28cropped%29.jpg"
-  credit: "Photo: 瑞丽江的河水 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Holyrood_Palace_-_aerial_-_2025-04-19_01_(cropped).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Holyrood_Palace_-_aerial_-_2025-04-19_01_%28cropped%29.jpg/1920px-Holyrood_Palace_-_aerial_-_2025-04-19_01_%28cropped%29.jpg
+  credit: 'Photo: 瑞丽江的河水 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Holyrood_Palace_-_aerial_-_2025-04-19_01_(cropped).jpg
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Edinburgh_Palace_of_Holyroodhouse_from_Salisbury_Crags_20211019.jpg/3840px-Edinburgh_Palace_of_Holyroodhouse_from_Salisbury_Crags_20211019.jpg"
-    credit: "Photo: Daniel Kraft / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Edinburgh_Palace_of_Holyroodhouse_from_Salisbury_Crags_20211019.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Edinburgh_Palace_of_Holyroodhouse_from_Salisbury_Crags_20211019.jpg/3840px-Edinburgh_Palace_of_Holyroodhouse_from_Salisbury_Crags_20211019.jpg
+    credit: 'Photo: Daniel Kraft / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Edinburgh_Palace_of_Holyroodhouse_from_Salisbury_Crags_20211019.jpg
 place:
-  id: "ChIJA6CjF3e4h0gR1vlnGdvUqyc"
-  name: "Palace of Holyroodhouse"
-  address: "Canongate, Edinburgh EH8 8DX, UK"
+  id: ChIJA6CjF3e4h0gR1vlnGdvUqyc
+  name: Palace of Holyroodhouse
+  address: 'Canongate, Edinburgh EH8 8DX, UK'
   rating: 4.6
-  userRatingsTotal: 23621
-  googleMapsUrl: "https://maps.google.com/?cid=2858612425985882582&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 23629
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2858612425985882582&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 55.9527138
   lng: -3.1722723999999998
-  phone: "+44 303 123 7306"
+  phone: +44 303 123 7306
   openingHours:
-    - "Monday: 9:30 AM – 6:00 PM"
-    - "Tuesday: Closed"
-    - "Wednesday: Closed"
-    - "Thursday: 9:30 AM – 6:00 PM"
-    - "Friday: 9:30 AM – 6:00 PM"
-    - "Saturday: 9:30 AM – 6:00 PM"
-    - "Sunday: 9:30 AM – 6:00 PM"
+    - 'Monday: 9:30 AM – 6:00 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: Closed'
+    - 'Thursday: 9:30 AM – 6:00 PM'
+    - 'Friday: 9:30 AM – 6:00 PM'
+    - 'Saturday: 9:30 AM – 6:00 PM'
+    - 'Sunday: 9:30 AM – 6:00 PM'
   busyness:
-    updated: 2026-10-13
+    updated: 2026-10-13T00:00:00.000Z
     weekdayBusy:
       - 10
       - 11
@@ -55,24 +63,48 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_637971557664476e6c763152673068346533466a4336414a496843"
+    venueId: ven_637971557664476e6c763152673068346533466a4336414a496843
 tags:
-  - "edinburgh"
-  - "historic site"
-quickAnswer: "The Palace of Holyroodhouse is the monarch's official residence in Scotland, at the bottom of the Royal Mile on Canongate in Edinburgh's Old Town. Plan 1.5–2 hours for the State Apartments, Mary, Queen of Scots' chambers and the ruined Holyrood Abbey. Weekends are busiest from 10am to 5pm, so choose a Monday, Thursday or Friday, or get there at the 9:30am opening."
+  - edinburgh
+  - historic site
+quickAnswer: >-
+  The Palace of Holyroodhouse is the monarch's official residence in Scotland,
+  at the bottom of the Royal Mile on Canongate in Edinburgh's Old Town. Plan
+  1.5–2 hours for the State Apartments, Mary, Queen of Scots' chambers and the
+  ruined Holyrood Abbey. Weekends are busiest from 10am to 5pm, so choose a
+  Monday, Thursday or Friday, or get there at the 9:30am opening.
 faq:
-  - q: "When is the quietest time to visit the Palace of Holyroodhouse?"
-    a: "Weekends are busiest from 10am to 5pm, so avoid Saturday and Sunday in that window. Your best bet is a Monday, Thursday or Friday, ideally arriving at the 9:30am opening. It's currently closed Tuesday and Wednesday."
-  - q: "How long do I need at Holyroodhouse?"
-    a: "Allow 1.5–2 hours for the State Apartments, Mary, Queen of Scots' chambers and Holyrood Abbey. Add more if you visit the garden or the Queen's Gallery, or plan to climb Arthur's Seat afterwards."
-  - q: "How do I get there from Edinburgh Waverley or the Castle?"
-    a: "From Waverley it's about a 15–20 minute walk via the Royal Mile or Calton Road. From Edinburgh Castle, walk about a mile downhill along the Royal Mile. Lothian Bus 35 also runs along Canongate to the palace."
-  - q: "Is the palace ever closed to visitors?"
-    a: "Yes. It closes when the royal family is in residence, notably during Holyrood Week around late June and early July, and for official events. Opening days also change through the year, so check the Royal Collection Trust website before you go."
-  - q: "What is there to see nearby?"
-    a: "The Scottish Parliament is directly opposite. The Queen's Gallery is next door and hosts Royal Collection exhibitions. Holyrood Park and Arthur's Seat rise right behind the palace, and the rest of the Royal Mile leads uphill to Edinburgh Castle."
+  - q: When is the quietest time to visit the Palace of Holyroodhouse?
+    a: >-
+      Weekends are busiest from 10am to 5pm, so avoid Saturday and Sunday in
+      that window. Your best bet is a Monday, Thursday or Friday, ideally
+      arriving at the 9:30am opening. It's currently closed Tuesday and
+      Wednesday.
+  - q: How long do I need at Holyroodhouse?
+    a: >-
+      Allow 1.5–2 hours for the State Apartments, Mary, Queen of Scots' chambers
+      and Holyrood Abbey. Add more if you visit the garden or the Queen's
+      Gallery, or plan to climb Arthur's Seat afterwards.
+  - q: How do I get there from Edinburgh Waverley or the Castle?
+    a: >-
+      From Waverley it's about a 15–20 minute walk via the Royal Mile or Calton
+      Road. From Edinburgh Castle, walk about a mile downhill along the Royal
+      Mile. Lothian Bus 35 also runs along Canongate to the palace.
+  - q: Is the palace ever closed to visitors?
+    a: >-
+      Yes. It closes when the royal family is in residence, notably during
+      Holyrood Week around late June and early July, and for official events.
+      Opening days also change through the year, so check the Royal Collection
+      Trust website before you go.
+  - q: What is there to see nearby?
+    a: >-
+      The Scottish Parliament is directly opposite. The Queen's Gallery is next
+      door and hosts Royal Collection exhibitions. Holyrood Park and Arthur's
+      Seat rise right behind the palace, and the rest of the Royal Mile leads
+      uphill to Edinburgh Castle.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-13'
 ---
 
 ## Where the Royal Mile runs out

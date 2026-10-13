@@ -1,9 +1,9 @@
 ---
 lang: ko
 slug: nape-macau-fisherman-s-wharf
-srcHash: '1cbeb2e3f92e'
+srcHash: '469b2abda49f'
 title: '마카오 피셔맨즈 워프: 나페(NAPE) 여행 가이드 (4.1★)'
-description: 마카오 피셔맨즈 워프(Macau Fisherman's Wharf)는 나페(NAPE)의 닥터 쑨얏센 대로(Av. Dr. Sun Yat Sen)에 있으며, 외항 페리 터미널에서 걸어서 금방 닿습니다. 평점 4.1★(리뷰 6,495개)를 받은 이곳의 방문객 후기와 운영 시간, 여행 팁을 정리했습니다.
+description: 마카오 피셔맨즈 워프(Macau Fisherman's Wharf)는 나페(NAPE)의 닥터 쑨얏센 대로(Av. Dr. Sun Yat Sen)에 있으며, 외항 페리 터미널에서 걸어서 금방 닿습니다. 평점 4.1★(리뷰 6,505개)를 받은 이곳의 방문객 후기와 운영 시간, 여행 팁을 정리했습니다.
 quickAnswer: 마카오 피셔맨즈 워프(Macau Fisherman's Wharf)는 나페(NAPE)의 닥터 쑨얏센 대로(Av. Dr. Sun Yat Sen)에 있습니다. 외항 페리 터미널(Outer Harbour Ferry Terminal)에서 걸어서 금방 닿는 거리입니다. 야외 단지는 24시간 개방됩니다. 항구를 따라 유럽풍과 중국풍으로 꾸민 건물 외관이 늘어서 있고, 로마식 원형극장과 호텔, 카지노, 상점, 레스토랑도 모여 있습니다. 둘러보는 데는 1~2시간 정도 걸립니다. 건물 외관에 조명이 켜진 모습을 보고 싶다면 해 질 무렵에 방문하세요.
 faq:
   - q: 홍콩에서 페리를 타고 왔다면 마카오 피셔맨즈 워프까지 어떻게 가나요?

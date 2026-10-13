@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: heidelberg-old-bridge-heidelberg
-srcHash: '590d1401d1c5'
+srcHash: 'cc129f413a3a'
 title: 'Puente Viejo: guía de viaje de Heidelberg (4.8★)'
-description: El Puente Viejo de Heidelberg cruza el Neckar y une el casco antiguo con Neuenheim. Tiene una valoración de 4.8★ (18,516 reseñas). Aquí encontrará las opiniones de los visitantes, el horario y varios consejos.
+description: El Puente Viejo de Heidelberg cruza el Neckar y une el casco antiguo con Neuenheim. Tiene una valoración de 4.8★ (18,517 reseñas). Aquí encontrará las opiniones de los visitantes, el horario y varios consejos.
 quickAnswer: El Puente Viejo (Alte Brücke) de Heidelberg cruza el Neckar para unir el casco antiguo (Altstadt) con el barrio de Neuenheim. Esta pasarela peatonal de arenisca roja data de 1788 y ofrece vistas directas al Castillo de Heidelberg, en lo alto. Según Google, está abierto las 24 horas. Si busca la travesía más tranquila, venga a primera hora de la mañana o ya entrada la noche. Después suba por el Camino de la Serpiente (Schlangenweg) hasta el Camino de los Filósofos (Philosophenweg), desde donde se contempla el puente a sus pies.
 faq:
   - q: ¿Cómo se llega al Puente Viejo desde la estación central de Heidelberg (Hauptbahnhof)?

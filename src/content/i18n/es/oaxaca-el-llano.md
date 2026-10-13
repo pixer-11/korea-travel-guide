@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: oaxaca-el-llano
-srcHash: 'b02051084bb4'
+srcHash: '3284f9b0f63b'
 title: 'El Llano: guía de viaje de Oaxaca (4.5★)'
 description: Abierto las 24 horas en el Centro de Oaxaca de Juárez, El Llano (oficialmente Parque Juárez) queda a unos 15 minutos a pie del Zócalo, en dirección noreste. Con 4.5★ y 20,943 reseñas, aquí encontrará la opinión de los visitantes, los horarios y algunos consejos.
 quickAnswer: 'Oficialmente se llama Parque Juárez, pero todos lo conocen como El Llano: un parque urbano del Centro de Oaxaca de Juárez que abre las 24 horas y se encuentra a unos 15 minutos a pie del Zócalo, hacia el noreste. Los fines de semana, la hora más tranquila va de 7am a 8am. Conviene evitar la franja de 2pm a 11pm los sábados y domingos, que es cuando más gente lo visita.'

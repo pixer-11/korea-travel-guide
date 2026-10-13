@@ -1,44 +1,53 @@
 ---
-title: "Memorium Nuremberg Trials: Travel Guide (4.6★)"
-description: "Memorium Nuremberg Trials is the exhibition and visitor entrance for Courtroom 600 in Nuremberg's Palace of Justice, at Bärenschanzstraße 72 in the city's western Gostenhof/Bärenschanze area, a short walk from Bärenschanze U-Bahn station (U1). 4.6★ (6,464 reviews) — what visitors say, hours, and tips."
-country: "Germany"
-region: "Nuremberg"
-category: "hidden-gem"
-pubDate: "2026-10-02T14:26:40.646Z"
+title: 'Memorium Nuremberg Trials: Travel Guide (4.6★)'
+description: >-
+  Memorium Nuremberg Trials is the exhibition and visitor entrance for Courtroom
+  600 in Nuremberg's Palace of Justice, at Bärenschanzstraße 72 in the city's
+  western Gostenhof/Bärenschanze area, a short walk from Bärenschanze U-Bahn
+  station (U1). 4.6★ (6,509 reviews) — what visitors say, hours, and tips.
+country: Germany
+region: Nuremberg
+category: hidden-gem
+pubDate: '2026-10-02T14:26:40.646Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Nuremberg_-_justice_palace_2012_%28aka%29.jpg/1920px-Nuremberg_-_justice_palace_2012_%28aka%29.jpg"
-  credit: "Photo: André Karwath aka Aka / Wikimedia Commons (CC BY-SA 2.5)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Nuremberg_-_justice_palace_2012_(aka).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Nuremberg_-_justice_palace_2012_%28aka%29.jpg/1920px-Nuremberg_-_justice_palace_2012_%28aka%29.jpg
+  credit: 'Photo: André Karwath aka Aka / Wikimedia Commons (CC BY-SA 2.5)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Nuremberg_-_justice_palace_2012_(aka).jpg
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/f/f5/Memorium_Nuremberg_Trials_%282011%29.jpg"
-    credit: "Photo: Einaz80 / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Memorium_Nuremberg_Trials_(2011).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/f/f5/Memorium_Nuremberg_Trials_%282011%29.jpg
+    credit: 'Photo: Einaz80 / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Memorium_Nuremberg_Trials_(2011).jpg
 place:
-  id: "ChIJ_d3zJlpWn0cRvHffruH1lvo"
-  name: "Memorium Nuremberg Trials"
-  address: "Bärenschanzstraße 72, 90429 Nürnberg, Germany"
+  id: ChIJ_d3zJlpWn0cRvHffruH1lvo
+  name: Memorium Nuremberg Trials
+  address: 'Bärenschanzstraße 72, 90429 Nürnberg, Germany'
   rating: 4.6
-  userRatingsTotal: 6464
-  googleMapsUrl: "https://maps.google.com/?cid=18056890105638909884&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 6509
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=18056890105638909884&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 49.454393599999996
   lng: 11.0482094
-  phone: "+49 911 23128614"
+  phone: +49 911 23128614
   openingHours:
-    - "Monday: 9:00 AM – 6:00 PM"
-    - "Tuesday: Closed"
-    - "Wednesday: 9:00 AM – 6:00 PM"
-    - "Thursday: 9:00 AM – 6:00 PM"
-    - "Friday: 9:00 AM – 6:00 PM"
-    - "Saturday: 10:00 AM – 6:00 PM"
-    - "Sunday: 10:00 AM – 6:00 PM"
+    - 'Monday: 9:00 AM – 6:00 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 9:00 AM – 6:00 PM'
+    - 'Thursday: 9:00 AM – 6:00 PM'
+    - 'Friday: 9:00 AM – 6:00 PM'
+    - 'Saturday: 10:00 AM – 6:00 PM'
+    - 'Sunday: 10:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-10-02
+    updated: 2026-10-02T00:00:00.000Z
     weekdayBusy:
       - 11
       - 12
@@ -52,24 +61,47 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_6f766c31487572666648765263306e57706c4a7a33645f4a496843"
+    venueId: ven_6f766c31487572666648765263306e57706c4a7a33645f4a496843
 tags:
-  - "nuremberg"
-  - "hidden gem"
-quickAnswer: "Memorium Nuremberg Trials is the exhibition and visitor entrance for Courtroom 600 in Nuremberg's Palace of Justice, at Bärenschanzstraße 72 in the city's western Gostenhof/Bärenschanze area, a short walk from Bärenschanze U-Bahn station (U1). It opens 9am–6pm Monday and Wednesday to Friday and 10am–6pm on weekends, and it is closed on Tuesdays. Weekends between 11am and 5pm are the busiest stretch, so come on a weekday or be there when the doors open at 10am on a weekend."
+  - nuremberg
+  - hidden gem
+quickAnswer: >-
+  Memorium Nuremberg Trials is the exhibition and visitor entrance for Courtroom
+  600 in Nuremberg's Palace of Justice, at Bärenschanzstraße 72 in the city's
+  western Gostenhof/Bärenschanze area, a short walk from Bärenschanze U-Bahn
+  station (U1). It opens 9am–6pm Monday and Wednesday to Friday and 10am–6pm on
+  weekends, and it is closed on Tuesdays. Weekends between 11am and 5pm are the
+  busiest stretch, so come on a weekday or be there when the doors open at 10am
+  on a weekend.
 faq:
-  - q: "How do I get to the Memorium Nuremberg Trials?"
-    a: "Take the U1 from Nürnberg Hauptbahnhof towards Fürth and get off at Bärenschanze. From there it is a short walk to the entrance at Bärenschanzstraße 72, on the side of the Palace of Justice."
-  - q: "When is the quietest time to visit?"
-    a: "Weekends between 11am and 5pm are the busiest stretch, so avoid those hours if you can. Your best options are a weekday visit (Monday or Wednesday to Friday, from 9am) or arriving at 10am when the doors open on a weekend."
-  - q: "Is it open every day?"
-    a: "No. It is closed on Tuesdays. It opens 9am–6pm on Monday and Wednesday to Friday, and 10am–6pm on Saturday and Sunday."
-  - q: "How long should I spend there?"
-    a: "Plan on about one and a half to two hours. That covers the exhibition on the upper floor and time in Courtroom 600 itself."
-  - q: "Can I actually go into Courtroom 600?"
-    a: "Usually, yes. The courtroom stopped hosting regular trials in 2020 and is now part of the memorial. Occasional closures for official events are announced on the Museen der Stadt Nürnberg website, so check before you go."
+  - q: How do I get to the Memorium Nuremberg Trials?
+    a: >-
+      Take the U1 from Nürnberg Hauptbahnhof towards Fürth and get off at
+      Bärenschanze. From there it is a short walk to the entrance at
+      Bärenschanzstraße 72, on the side of the Palace of Justice.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekends between 11am and 5pm are the busiest stretch, so avoid those
+      hours if you can. Your best options are a weekday visit (Monday or
+      Wednesday to Friday, from 9am) or arriving at 10am when the doors open on
+      a weekend.
+  - q: Is it open every day?
+    a: >-
+      No. It is closed on Tuesdays. It opens 9am–6pm on Monday and Wednesday to
+      Friday, and 10am–6pm on Saturday and Sunday.
+  - q: How long should I spend there?
+    a: >-
+      Plan on about one and a half to two hours. That covers the exhibition on
+      the upper floor and time in Courtroom 600 itself.
+  - q: Can I actually go into Courtroom 600?
+    a: >-
+      Usually, yes. The courtroom stopped hosting regular trials in 2020 and is
+      now part of the memorial. Occasional closures for official events are
+      announced on the Museen der Stadt Nürnberg website, so check before you
+      go.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-13'
 ---
 
 ## A courtroom that changed international law

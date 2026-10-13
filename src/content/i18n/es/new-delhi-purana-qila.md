@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: new-delhi-purana-qila
-srcHash: '5aa2abfefcdf'
+srcHash: 'f44a62820b28'
 title: 'Purana Qila: guía de viaje de Nueva Delhi (4.2★)'
 description: El Purana Qila se encuentra en Mathura Road, en Pragati Maidan (Nueva Delhi), junto al Zoológico de Delhi. Tiene una valoración de 4.2★ con 33,476 reseñas. Aquí encontrará las opiniones de los visitantes, el horario y varios consejos.
 quickAnswer: El Purana Qila se alza en Mathura Road, en Pragati Maidan (Nueva Delhi), al lado del Zoológico de Delhi. Esta fortaleza de piedra del siglo XVI alberga la mezquita de Sher Shah Suri y el Sher Mandal, una torre octogonal, además de un recorrido de 2km por las murallas. Abre todos los días de 7am a 5pm. Entre semana, las horas más tranquilas van de 7am a 10am, y los fines de semana, de 7am a 9am. Los sábados y domingos se llena de gente desde las 10am hasta el cierre.

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: glasgow-glasgow-botanic-gardens
-srcHash: 'ac4a48b853d7'
+srcHash: '827878e25048'
 title: 'Jardín Botánico de Glasgow: guía de viaje (4.7★)'
-description: En pleno West End, junto a Great Western Road y a pocos minutos a pie de la estación de metro de Hillhead, el Jardín Botánico de Glasgow (Glasgow Botanic Gardens) puede recorrerse gratis. Con 4.7★ (15,379 reseñas), le contamos qué opinan los visitantes, cuáles son los horarios y qué conviene saber.
+description: En pleno West End, junto a Great Western Road y a pocos minutos a pie de la estación de metro de Hillhead, el Jardín Botánico de Glasgow (Glasgow Botanic Gardens) puede recorrerse gratis. Con 4.7★ (15,381 reseñas), le contamos qué opinan los visitantes, cuáles son los horarios y qué conviene saber.
 quickAnswer: El Jardín Botánico de Glasgow (Glasgow Botanic Gardens) se encuentra en Great Western Road, en el West End, a poca distancia a pie de la estación de metro de Hillhead, y el acceso a sus terrenos es gratuito. Los senderos están más tranquilos entre las 7am y las 10am o entre las 4pm y las 6pm. Conviene evitar los fines de semana de 11am a 4pm, cuando el Kibble Palace y las praderas reciben la mayor afluencia. Calcule entre una y dos horas, o media jornada si añade el paseo junto al río Kelvin.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Jardín Botánico de Glasgow?

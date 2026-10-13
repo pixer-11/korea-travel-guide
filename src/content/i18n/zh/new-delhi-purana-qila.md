@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: new-delhi-purana-qila
-srcHash: '5aa2abfefcdf'
+srcHash: 'f44a62820b28'
 title: 新德里旧堡（Purana Qila）旅行指南（4.2★）
-description: 旧堡位于新德里普拉加蒂广场（Pragati Maidan）的马图拉路（Mathura Road）旁，与德里动物园相邻。评分4.2★（33,476条评价），本文汇总游客评价、开放时间与游览建议。
+description: 旧堡位于新德里普拉加蒂广场（Pragati Maidan）的马图拉路（Mathura Road）旁，与德里动物园相邻。评分4.2★（33,521条评价），本文汇总游客评价、开放时间与游览建议。
 quickAnswer: 旧堡坐落在新德里普拉加蒂广场（Pragati Maidan）的马图拉路（Mathura Road）旁，与德里动物园为邻。这座石砌城堡建于16世纪，堡内有舍尔沙·苏尔（Sher Shah Suri）修建的清真寺、八角形的舍尔曼达尔（Sher Mandal），还有一圈约2km长的城墙。城堡每天早上7点至下午5点开放。工作日早上7点至10点、周末早上7点至9点游客最少；周末从上午10点到闭园一直人满为患。
 faq:
   - q: 什么时候去旧堡人最少？

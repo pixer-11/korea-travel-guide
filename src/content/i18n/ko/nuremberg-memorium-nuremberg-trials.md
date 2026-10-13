@@ -1,9 +1,9 @@
 ---
 lang: ko
 slug: nuremberg-memorium-nuremberg-trials
-srcHash: '74333ab85609'
+srcHash: '645946ee156d'
 title: 뉘른베르크 재판 기념관 여행 가이드 (4.6★)
-description: 뉘른베르크 재판 기념관(Memorium Nürnberger Prozesse)은 뉘른베르크 법원 청사 안 600호 법정을 둘러볼 수 있는 전시관이자 방문객 출입구입니다. 도시 서쪽 고스텐호프·베렌샨체 지역의 Bärenschanzstraße 72에 있으며, 지하철 U1 베렌샨체역에서 걸어서 금방입니다. 평점 4.6★(리뷰 6,464개)를 받은 이곳의 방문 후기와 운영 시간, 관람 팁을 정리했습니다.
+description: 뉘른베르크 재판 기념관(Memorium Nürnberger Prozesse)은 뉘른베르크 법원 청사 안 600호 법정을 둘러볼 수 있는 전시관이자 방문객 출입구입니다. 도시 서쪽 고스텐호프·베렌샨체 지역의 Bärenschanzstraße 72에 있으며, 지하철 U1 베렌샨체역에서 걸어서 금방입니다. 평점 4.6★(리뷰 6,509개)를 받은 이곳의 방문 후기와 운영 시간, 관람 팁을 정리했습니다.
 quickAnswer: 뉘른베르크 재판 기념관(Memorium Nürnberger Prozesse)은 뉘른베르크 법원 청사(Justizpalast) 안 600호 법정으로 들어가는 방문객 출입구이자 전시관입니다. 도시 서쪽 고스텐호프·베렌샨체(Gostenhof/Bärenschanze) 지역의 Bärenschanzstraße 72에 있으며, 지하철 U1 베렌샨체역(Bärenschanze)에서 걸어서 금방 닿습니다. 월요일과 수요일부터 금요일까지는 오전 9시부터 오후 6시까지, 주말에는 오전 10시부터 오후 6시까지 문을 열고 화요일은 휴관합니다. 가장 붐비는 시간은 주말 오전 11시부터 오후 5시까지입니다. 그러니 평일에 가시거나 주말이라면 문을 여는 오전 10시에 맞춰 도착하시기 바랍니다.
 faq:
   - q: 뉘른베르크 재판 기념관에는 어떻게 가나요?

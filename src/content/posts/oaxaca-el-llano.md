@@ -1,44 +1,51 @@
 ---
-title: "El Llano: Oaxaca Travel Guide (4.5★)"
-description: "El Llano is a 24-hour city park in Centro, Oaxaca de Juárez, officially Parque Juárez, about a 15-minute walk north-east of the Zócalo. 4.5★ (20,943 reviews) — what visitors say, hours, and tips."
-country: "Mexico"
-region: "Oaxaca"
-category: "attraction"
-pubDate: "2026-10-07T07:40:03.656Z"
+title: 'El Llano: Oaxaca Travel Guide (4.5★)'
+description: >-
+  El Llano is a 24-hour city park in Centro, Oaxaca de Juárez, officially Parque
+  Juárez, about a 15-minute walk north-east of the Zócalo. 4.5★ (20,952 reviews)
+  — what visitors say, hours, and tips.
+country: Mexico
+region: Oaxaca
+category: attraction
+pubDate: '2026-10-07T07:40:03.656Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/9/95/El_llano%2C_oaxaca%2C_oaxaca_-_panoramio.jpg"
-  credit: "Photo: Maria de los Angeles… / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:El_llano,_oaxaca,_oaxaca_-_panoramio.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/9/95/El_llano%2C_oaxaca%2C_oaxaca_-_panoramio.jpg
+  credit: 'Photo: Maria de los Angeles… / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:El_llano,_oaxaca,_oaxaca_-_panoramio.jpg
+  via: act
   focus:
     x: 42
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/303527_2XopMJfwzHoBfsXHehFRmsM8PGzXinT3hAToGiMg294.jpg"
-    credit: "Photo: Foursquare user content (Paseo Juárez El Llano)"
-    license: "foursquare"
-    source: "https://foursquare.com/v/4bd3148aa8b3a593f4fe685f"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/303527_2XopMJfwzHoBfsXHehFRmsM8PGzXinT3hAToGiMg294.jpg
+    credit: 'Photo: Foursquare user content (Paseo Juárez El Llano)'
+    license: foursquare
+    source: 'https://foursquare.com/v/4bd3148aa8b3a593f4fe685f'
 place:
-  id: "ChIJmU11Njoix4URDQR6GJahMOY"
-  name: "El Llano"
-  address: "RUTA INDEPENDENCIA, Centro, 68000 Oaxaca de Juárez, Oax., Mexico"
+  id: ChIJmU11Njoix4URDQR6GJahMOY
+  name: El Llano
+  address: 'RUTA INDEPENDENCIA, Centro, 68000 Oaxaca de Juárez, Oax., Mexico'
   rating: 4.5
-  userRatingsTotal: 20943
-  googleMapsUrl: "https://maps.google.com/?cid=16586935093633352717&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 20952
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16586935093633352717&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 17.0679057
   lng: -96.7195034
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-10-07
+    updated: 2026-10-07T00:00:00.000Z
     weekdayBusy:
       - 17
       - 18
@@ -57,24 +64,40 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_594f4d68614a473652514452553478696f6a4e3131556d4a496843"
+    venueId: ven_594f4d68614a473652514452553478696f6a4e3131556d4a496843
 tags:
-  - "oaxaca"
-  - "park"
-quickAnswer: "El Llano is a 24-hour city park in Centro, Oaxaca de Juárez, officially Parque Juárez, about a 15-minute walk north-east of the Zócalo. On weekends it's quietest between 7am and 8am. Avoid 2pm to 11pm on Saturdays and Sundays, when it is at its busiest."
+  - oaxaca
+  - park
+quickAnswer: >-
+  El Llano is a 24-hour city park in Centro, Oaxaca de Juárez, officially Parque
+  Juárez, about a 15-minute walk north-east of the Zócalo. On weekends it's
+  quietest between 7am and 8am. Avoid 2pm to 11pm on Saturdays and Sundays, when
+  it is at its busiest.
 faq:
-  - q: "When is the quietest time to visit El Llano?"
-    a: "On weekends it is quietest between 7am and 8am. Avoid 2pm to 11pm on Saturdays and Sundays, which is when it is busiest."
-  - q: "Is El Llano open at night?"
-    a: "Yes, the park is open 24 hours every day. After dark, stick to the lit main paths."
-  - q: "How do I get to El Llano from the Zócalo?"
-    a: "Walk north up Macedonio Alcalá towards Santo Domingo, then head east to Avenida Juárez. It takes about 15 minutes on foot. Taxi drivers know it as El Llano."
-  - q: "How long should I spend there?"
-    a: "A lap of the paths and a look at the Benito Juárez monument takes 30 to 45 minutes. Stay longer if you want to sit and people-watch."
-  - q: "What is near El Llano?"
-    a: "The Templo de Guadalupe faces the park. Santo Domingo, the Jardín Etnobotánico and the pedestrian Alcalá are a short walk west."
+  - q: When is the quietest time to visit El Llano?
+    a: >-
+      On weekends it is quietest between 7am and 8am. Avoid 2pm to 11pm on
+      Saturdays and Sundays, which is when it is busiest.
+  - q: Is El Llano open at night?
+    a: >-
+      Yes, the park is open 24 hours every day. After dark, stick to the lit
+      main paths.
+  - q: How do I get to El Llano from the Zócalo?
+    a: >-
+      Walk north up Macedonio Alcalá towards Santo Domingo, then head east to
+      Avenida Juárez. It takes about 15 minutes on foot. Taxi drivers know it as
+      El Llano.
+  - q: How long should I spend there?
+    a: >-
+      A lap of the paths and a look at the Benito Juárez monument takes 30 to 45
+      minutes. Stay longer if you want to sit and people-watch.
+  - q: What is near El Llano?
+    a: >-
+      The Templo de Guadalupe faces the park. Santo Domingo, the Jardín
+      Etnobotánico and the pedestrian Alcalá are a short walk west.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-13'
 ---
 
 ## A long rectangle of shade

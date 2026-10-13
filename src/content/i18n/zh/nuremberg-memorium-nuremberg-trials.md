@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: nuremberg-memorium-nuremberg-trials
-srcHash: '74333ab85609'
+srcHash: '645946ee156d'
 title: 纽伦堡审判纪念馆旅行指南（4.6★）
-description: 纽伦堡审判纪念馆（Memorium Nürnberger Prozesse）是纽伦堡司法大楼600号审判庭的展览馆，也是游客入口。纪念馆位于城西戈斯滕霍夫/贝伦尚策一带的Bärenschanzstraße 72，从地铁U1线贝伦尚策站（Bärenschanze）步行很快就到。评分4.6★（6,464条评价），本文汇总游客评价、开放时间和参观建议。
+description: 纽伦堡审判纪念馆（Memorium Nürnberger Prozesse）是纽伦堡司法大楼600号审判庭的展览馆，也是游客入口。纪念馆位于城西戈斯滕霍夫/贝伦尚策一带的Bärenschanzstraße 72，从地铁U1线贝伦尚策站（Bärenschanze）步行很快就到。评分4.6★（6,509条评价），本文汇总游客评价、开放时间和参观建议。
 quickAnswer: 纽伦堡审判纪念馆（Memorium Nürnberger Prozesse）是纽伦堡司法大楼600号审判庭的展览馆，也是游客入口。纪念馆位于城西戈斯滕霍夫/贝伦尚策一带的Bärenschanzstraße 72，从地铁U1线贝伦尚策站（Bärenschanze）步行很快就到。周一和周三至周五的开放时间为上午9点至下午6点，周末为上午10点至下午6点，周二闭馆。周末上午11点到下午5点人最多，建议工作日来，周末的话就赶在上午10点开门时入场。
 faq:
   - q: 怎么去纽伦堡审判纪念馆？

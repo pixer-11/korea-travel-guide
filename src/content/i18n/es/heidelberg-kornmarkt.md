@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: heidelberg-kornmarkt
-srcHash: 'a17bcf0c56f3'
+srcHash: 'b823712c43ed'
 title: 'Kornmarkt: guía de viaje de Heidelberg (4.7★)'
-description: A pocos pasos al este del Marktplatz, en pleno casco antiguo (Altstadt) de Heidelberg, se encuentra la pequeña plaza empedrada de Kornmarkt. Con una valoración de 4.7★ (392 reseñas), aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
+description: A pocos pasos al este del Marktplatz, en pleno casco antiguo (Altstadt) de Heidelberg, se encuentra la pequeña plaza empedrada de Kornmarkt. Con una valoración de 4.7★ (393 reseñas), aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
 quickAnswer: 'En pleno casco antiguo (Altstadt) de Heidelberg, a pocos pasos al este del Marktplatz, se encuentra Kornmarkt, una pequeña plaza empedrada. Desde ella se contempla de cerca la imagen más clásica de la ciudad: el castillo de Heidelberg, que se alza en la ladera justo encima. Junto a la plaza está también la estación inferior del funicular Bergbahn. Al tratarse de un espacio público, se puede visitar a cualquier hora del día o de la noche; si prefiere disfrutarla casi en solitario, acuda a primera hora de la mañana o cuando ya haya anochecido.'
 faq:
   - q: ¿Dónde se encuentra exactamente Kornmarkt en Heidelberg?

@@ -1,60 +1,89 @@
 ---
-title: "Macao Grand Prix Museum: NAPE Travel Guide (4.3★)"
-description: "The Macao Grand Prix Museum sits in NAPE, Macau, on Rua de Luís Gonzaga Gomes, a short walk from the Outer Harbour Ferry Terminal and Fisherman's Wharf. 4.3★ (897 reviews) — what visitors say, hours, and tips."
-country: "Macau"
-region: "NAPE"
-category: "attraction"
-pubDate: "2026-10-08T14:44:31.591Z"
+title: 'Macao Grand Prix Museum: NAPE Travel Guide (4.3★)'
+description: >-
+  The Macao Grand Prix Museum sits in NAPE, Macau, on Rua de Luís Gonzaga Gomes,
+  a short walk from the Outer Harbour Ferry Terminal and Fisherman's Wharf. 4.3★
+  (898 reviews) — what visitors say, hours, and tips.
+country: Macau
+region: NAPE
+category: attraction
+pubDate: '2026-10-08T14:44:31.591Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Macao_Grand_Prix_Museum_20-07-2023.jpg/3840px-Macao_Grand_Prix_Museum_20-07-2023.jpg"
-  credit: "Photo: LN9267 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Macao_Grand_Prix_Museum_20-07-2023.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Macao_Grand_Prix_Museum_20-07-2023.jpg/3840px-Macao_Grand_Prix_Museum_20-07-2023.jpg
+  credit: 'Photo: LN9267 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Macao_Grand_Prix_Museum_20-07-2023.jpg
+  via: act
   focus:
     x: 45
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/81933423_HQOylBwYGwryWZKMBfLHy3JnjWBo5p3JmyGI6hcTchc.jpg"
-    credit: "Photo: Foursquare user content (大賽車博物館 / Museu do Grande Prémio / Grand Prix Museum)"
-    license: "foursquare"
-    source: "https://foursquare.com/v/4b9b86a6f964a5200d0d36e3"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/81933423_HQOylBwYGwryWZKMBfLHy3JnjWBo5p3JmyGI6hcTchc.jpg
+    credit: >-
+      Photo: Foursquare user content (大賽車博物館 / Museu do Grande Prémio / Grand
+      Prix Museum)
+    license: foursquare
+    source: 'https://foursquare.com/v/4b9b86a6f964a5200d0d36e3'
 place:
-  id: "ChIJsQpyWNx6ATQRGKVNdefjq8c"
-  name: "Macao Grand Prix Museum"
-  address: "5HV3+V4R, 431 R. de Luís Gonzaga Gomes, Macao"
+  id: ChIJsQpyWNx6ATQRGKVNdefjq8c
+  name: Macao Grand Prix Museum
+  address: '5HV3+V4R, 431 R. de Luís Gonzaga Gomes, Macao'
   rating: 4.3
-  userRatingsTotal: 897
-  googleMapsUrl: "https://maps.google.com/?cid=14387844017810154776&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 898
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14387844017810154776&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.1949389
   lng: 113.55291609999999
-  phone: "+853 8593 0515"
+  phone: +853 8593 0515
   openingHours:
-    - "Monday: 10:00 AM – 6:00 PM"
-    - "Tuesday: Closed"
-    - "Wednesday: 10:00 AM – 6:00 PM"
-    - "Thursday: 10:00 AM – 6:00 PM"
-    - "Friday: 10:00 AM – 6:00 PM"
-    - "Saturday: 10:00 AM – 6:00 PM"
-    - "Sunday: 10:00 AM – 6:00 PM"
+    - 'Monday: 10:00 AM – 6:00 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 10:00 AM – 6:00 PM'
+    - 'Thursday: 10:00 AM – 6:00 PM'
+    - 'Friday: 10:00 AM – 6:00 PM'
+    - 'Saturday: 10:00 AM – 6:00 PM'
+    - 'Sunday: 10:00 AM – 6:00 PM'
 tags:
-  - "nape"
-  - "Macau Grand Prix Museum"
-quickAnswer: "The Macao Grand Prix Museum sits in NAPE, Macau, on Rua de Luís Gonzaga Gomes, a short walk from the Outer Harbour Ferry Terminal and Fisherman's Wharf. It has race cars, motorbikes and memorabilia from more than half a century of the Macau Grand Prix, plus a race simulator, and it's a quieter find than the casinos around it. Plan on 1.5 to 2 hours, go any day except Tuesday (it's closed), and know that it opens 10am to 6pm."
+  - nape
+  - Macau Grand Prix Museum
+quickAnswer: >-
+  The Macao Grand Prix Museum sits in NAPE, Macau, on Rua de Luís Gonzaga Gomes,
+  a short walk from the Outer Harbour Ferry Terminal and Fisherman's Wharf. It
+  has race cars, motorbikes and memorabilia from more than half a century of the
+  Macau Grand Prix, plus a race simulator, and it's a quieter find than the
+  casinos around it. Plan on 1.5 to 2 hours, go any day except Tuesday (it's
+  closed), and know that it opens 10am to 6pm.
 faq:
-  - q: "What days is the Macao Grand Prix Museum open?"
-    a: "It opens 10am to 6pm on Monday, Wednesday, Thursday, Friday, Saturday and Sunday. It is closed on Tuesdays."
-  - q: "How do I get to the Macao Grand Prix Museum from the ferry terminal?"
-    a: "It's about a 15-minute walk south from the Outer Harbour Ferry Terminal, past Fisherman's Wharf, to Rua de Luís Gonzaga Gomes in NAPE. By taxi, show the driver the Chinese name, 澳門大賽車博物館."
-  - q: "How long should I spend at the museum?"
-    a: "Allow 1.5 to 2 hours to see the cars, motorbikes and memorabilia and try the race simulator. Racing fans often stay longer, so try to arrive by 4pm."
-  - q: "Can I try the race simulator?"
-    a: "Yes, the museum has a race simulator. Session arrangements and any age or height limits can change, so ask at the front desk when you arrive."
-  - q: "Is it worth visiting during Grand Prix week in November?"
-    a: "It's the most atmospheric time, because the real race runs on the Guia Circuit a few streets away. Road closures make getting around harder, though, so check the official road-closure notices before you go."
+  - q: What days is the Macao Grand Prix Museum open?
+    a: >-
+      It opens 10am to 6pm on Monday, Wednesday, Thursday, Friday, Saturday and
+      Sunday. It is closed on Tuesdays.
+  - q: How do I get to the Macao Grand Prix Museum from the ferry terminal?
+    a: >-
+      It's about a 15-minute walk south from the Outer Harbour Ferry Terminal,
+      past Fisherman's Wharf, to Rua de Luís Gonzaga Gomes in NAPE. By taxi,
+      show the driver the Chinese name, 澳門大賽車博物館.
+  - q: How long should I spend at the museum?
+    a: >-
+      Allow 1.5 to 2 hours to see the cars, motorbikes and memorabilia and try
+      the race simulator. Racing fans often stay longer, so try to arrive by
+      4pm.
+  - q: Can I try the race simulator?
+    a: >-
+      Yes, the museum has a race simulator. Session arrangements and any age or
+      height limits can change, so ask at the front desk when you arrive.
+  - q: Is it worth visiting during Grand Prix week in November?
+    a: >-
+      It's the most atmospheric time, because the real race runs on the Guia
+      Circuit a few streets away. Road closures make getting around harder,
+      though, so check the official road-closure notices before you go.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-13'
 ---
 
 ## Where the street circuit keeps its archive

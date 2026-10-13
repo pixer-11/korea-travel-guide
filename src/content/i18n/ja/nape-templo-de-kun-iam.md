@@ -1,9 +1,9 @@
 ---
 lang: ja
 slug: nape-templo-de-kun-iam
-srcHash: '03758bdeaf84'
+srcHash: '0b2e579e7efa'
 title: 観音堂(Templo de Kun Iam):マカオ半島の旅行ガイド(4.5★)
-description: マカオ半島・望廈(Mong Ha)地区の美副將大馬路(Avenida do Coronel Mesquita)に建つ観音堂は、観音菩薩を祀る明代創建の仏教寺院です。評価4.5★(353件のレビュー)。訪問者の声や開門時間、訪れる際のコツをご紹介します。
+description: マカオ半島・望廈(Mong Ha)地区の美副將大馬路(Avenida do Coronel Mesquita)に建つ観音堂は、観音菩薩を祀る明代創建の仏教寺院です。評価4.5★(357件のレビュー)。訪問者の声や開門時間、訪れる際のコツをご紹介します。
 quickAnswer: 観音堂(Templo de Kun Iam)は、マカオ半島・望廈(Mong Ha)地区の美副將大馬路(Avenida do Coronel Mesquita)にある明代創建の仏教寺院で、観音菩薩を祀っています。境内には3つのお堂が縦一列に並び、その奥にはガジュマルが木陰をつくる庭園があります。1844年に望廈条約が調印された石のテーブルが残るのもこの庭園です。開門時間は毎日午前7時〜午後4時です。おすすめは平日なら午前7時〜9時、週末なら午前7時〜8時です。最も混み合う週末の午前10時〜午後3時は避けましょう。
 faq:
   - q: 観音堂が最も空いているのはいつですか?

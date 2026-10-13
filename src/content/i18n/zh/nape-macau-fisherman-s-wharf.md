@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: nape-macau-fisherman-s-wharf
-srcHash: '1cbeb2e3f92e'
+srcHash: '469b2abda49f'
 title: 澳门渔人码头：新口岸游玩指南（4.1★）
-description: 澳门渔人码头位于新口岸（NAPE）孙逸仙大马路（Av. Dr. Sun Yat Sen），从外港客运码头步行不远即到。评分4.1★（6,495条评价），本文汇总游客评价、开放时间与实用贴士。
+description: 澳门渔人码头位于新口岸（NAPE）孙逸仙大马路（Av. Dr. Sun Yat Sen），从外港客运码头步行不远即到。评分4.1★（6,505条评价），本文汇总游客评价、开放时间与实用贴士。
 quickAnswer: 澳门渔人码头位于新口岸（NAPE）孙逸仙大马路（Av. Dr. Sun Yat Sen），从外港客运码头步行不远即到。园区为露天开放，24小时不闭园。沿海滨一带有欧式和中式主题建筑立面、一座罗马式竞技场，还有酒店、娱乐场、商店和餐厅。建议预留1至2小时；想看建筑立面亮灯，就选傍晚前来。
 faq:
   - q: 从香港坐船过来，怎么去澳门渔人码头？

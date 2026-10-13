@@ -1,59 +1,82 @@
 ---
-title: "Kornmarkt: Heidelberg Travel Guide (4.7★)"
-description: "Kornmarkt is a small cobbled square in Heidelberg's Altstadt, a few steps east of the Marktplatz. 4.7★ (392 reviews) — what visitors say, hours, and tips."
-country: "Germany"
-region: "Heidelberg"
-category: "hidden-gem"
-pubDate: "2026-10-13T08:14:35.248Z"
+title: 'Kornmarkt: Heidelberg Travel Guide (4.7★)'
+description: >-
+  Kornmarkt is a small cobbled square in Heidelberg's Altstadt, a few steps east
+  of the Marktplatz. 4.7★ (393 reviews) — what visitors say, hours, and tips.
+country: Germany
+region: Heidelberg
+category: hidden-gem
+pubDate: '2026-10-13T08:14:35.248Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/e/e4/Kornmarkt_Heidelberg.jpg"
-  credit: "Photo: Martin Kraft / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Kornmarkt_Heidelberg.jpg"
-  via: "act"
+  url: 'https://upload.wikimedia.org/wikipedia/commons/e/e4/Kornmarkt_Heidelberg.jpg'
+  credit: 'Photo: Martin Kraft / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Kornmarkt_Heidelberg.jpg'
+  via: act
   focus:
     x: 63
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kornmarkt_-_Heidelberg_-_Germany_2017.jpg/3840px-Kornmarkt_-_Heidelberg_-_Germany_2017.jpg"
-    credit: "Photo: José Luiz / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Kornmarkt_-_Heidelberg_-_Germany_2017.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kornmarkt_-_Heidelberg_-_Germany_2017.jpg/3840px-Kornmarkt_-_Heidelberg_-_Germany_2017.jpg
+    credit: 'Photo: José Luiz / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Kornmarkt_-_Heidelberg_-_Germany_2017.jpg
 place:
-  id: "ChIJ0-rHmAfBl0cR2FPG8Ms2tsY"
-  name: "Kornmarkt"
-  address: "Kornmarkt, 69117 Heidelberg, Germany"
+  id: ChIJ0-rHmAfBl0cR2FPG8Ms2tsY
+  name: Kornmarkt
+  address: 'Kornmarkt, 69117 Heidelberg, Germany'
   rating: 4.7
-  userRatingsTotal: 392
-  googleMapsUrl: "https://maps.google.com/?cid=14318692314816861144&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 393
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14318692314816861144&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 49.411903599999995
   lng: 8.7115949
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "heidelberg"
-  - "old quarter"
-quickAnswer: "Kornmarkt is a small cobbled square in Heidelberg's Altstadt, a few steps east of the Marktplatz. It has the town's classic close-up view of Heidelberg Castle on the hillside above, and the lower station of the Bergbahn funicular sits right beside it. The square is public and open around the clock, so come early in the morning or after dark if you want it nearly to yourself."
+  - heidelberg
+  - old quarter
+quickAnswer: >-
+  Kornmarkt is a small cobbled square in Heidelberg's Altstadt, a few steps east
+  of the Marktplatz. It has the town's classic close-up view of Heidelberg
+  Castle on the hillside above, and the lower station of the Bergbahn funicular
+  sits right beside it. The square is public and open around the clock, so come
+  early in the morning or after dark if you want it nearly to yourself.
 faq:
-  - q: "Where exactly is Kornmarkt in Heidelberg?"
-    a: "It is in the Altstadt, one short block east of the Marktplatz and the Heiliggeistkirche, directly below Heidelberg Castle. The Old Bridge is about a five-minute walk north."
-  - q: "Is Kornmarkt open at night?"
-    a: "Yes. It is a public square and open 24 hours. After dark the castle above is usually floodlit, which makes it a good evening photo spot."
-  - q: "How do I get from Kornmarkt up to the castle?"
-    a: "Take the Bergbahn funicular from its Kornmarkt station on the edge of the square, or walk up the steep Burgweg footpath, which starts nearby. Check the official Bergbahn site for current fares and times."
-  - q: "How long should I spend at Kornmarkt?"
-    a: "About 15–30 minutes for the Madonna column and the castle view. Most people combine it with the Marktplatz and a castle visit."
-  - q: "What is the statue in the middle of Kornmarkt?"
-    a: "It is the Kornmarkt Madonna, an early-18th-century Baroque statue of Mary standing on a column above a fountain."
+  - q: Where exactly is Kornmarkt in Heidelberg?
+    a: >-
+      It is in the Altstadt, one short block east of the Marktplatz and the
+      Heiliggeistkirche, directly below Heidelberg Castle. The Old Bridge is
+      about a five-minute walk north.
+  - q: Is Kornmarkt open at night?
+    a: >-
+      Yes. It is a public square and open 24 hours. After dark the castle above
+      is usually floodlit, which makes it a good evening photo spot.
+  - q: How do I get from Kornmarkt up to the castle?
+    a: >-
+      Take the Bergbahn funicular from its Kornmarkt station on the edge of the
+      square, or walk up the steep Burgweg footpath, which starts nearby. Check
+      the official Bergbahn site for current fares and times.
+  - q: How long should I spend at Kornmarkt?
+    a: >-
+      About 15–30 minutes for the Madonna column and the castle view. Most
+      people combine it with the Marktplatz and a castle visit.
+  - q: What is the statue in the middle of Kornmarkt?
+    a: >-
+      It is the Kornmarkt Madonna, an early-18th-century Baroque statue of Mary
+      standing on a column above a fountain.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-13'
 ---
 
 ## A square tilted toward the castle

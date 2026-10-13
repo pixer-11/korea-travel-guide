@@ -1,59 +1,90 @@
 ---
-title: "Adelaide Central Market: Travel Guide (4.6★)"
-description: "Adelaide Central Market sits at 44/60 Gouger St in Adelaide's CBD, beside Chinatown and a short walk from Victoria Square, with 80+ vendors under one roof. 4.6★ (13,535 reviews) — what visitors say, hours, and tips."
-country: "Australia"
-region: "Adelaide"
-category: "hidden-gem"
-pubDate: "2026-10-13T08:14:36.269Z"
+title: 'Adelaide Central Market: Travel Guide (4.6★)'
+description: >-
+  Adelaide Central Market sits at 44/60 Gouger St in Adelaide's CBD, beside
+  Chinatown and a short walk from Victoria Square, with 80+ vendors under one
+  roof. 4.6★ (13,539 reviews) — what visitors say, hours, and tips.
+country: Australia
+region: Adelaide
+category: hidden-gem
+pubDate: '2026-10-13T08:14:36.269Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Adelaide_Central_Market_building_in_Adelaide%2C_July_2026_%28028A8380%29.jpg/1920px-Adelaide_Central_Market_building_in_Adelaide%2C_July_2026_%28028A8380%29.jpg"
-  credit: "Photo: Yu Chu Chin / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Adelaide_Central_Market_building_in_Adelaide,_July_2026_(028A8380).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Adelaide_Central_Market_building_in_Adelaide%2C_July_2026_%28028A8380%29.jpg/1920px-Adelaide_Central_Market_building_in_Adelaide%2C_July_2026_%28028A8380%29.jpg
+  credit: 'Photo: Yu Chu Chin / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Adelaide_Central_Market_building_in_Adelaide,_July_2026_(028A8380).jpg
   focus:
     x: 55
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flower_vendor_at_Adelaide_Central_Markets.jpg/3840px-Flower_vendor_at_Adelaide_Central_Markets.jpg"
-    credit: "Photo: AlphaLemur / Wikimedia Commons (CC BY 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Flower_vendor_at_Adelaide_Central_Markets.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flower_vendor_at_Adelaide_Central_Markets.jpg/3840px-Flower_vendor_at_Adelaide_Central_Markets.jpg
+    credit: 'Photo: AlphaLemur / Wikimedia Commons (CC BY 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Flower_vendor_at_Adelaide_Central_Markets.jpg
 place:
-  id: "ChIJn0cxRyfPsGoRQw_Ns91wEbo"
-  name: "Adelaide Central Market"
-  address: "44/60 Gouger St, Adelaide SA 5000, Australia"
+  id: ChIJn0cxRyfPsGoRQw_Ns91wEbo
+  name: Adelaide Central Market
+  address: '44/60 Gouger St, Adelaide SA 5000, Australia'
   rating: 4.6
-  userRatingsTotal: 13535
-  googleMapsUrl: "https://maps.google.com/?cid=13407621663165321027&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 13539
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13407621663165321027&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -34.9294838
   lng: 138.5974186
-  phone: "+61 8 8203 7494"
+  phone: +61 8 8203 7494
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 7:00 AM – 5:30 PM"
-    - "Wednesday: 9:00 AM – 5:30 PM"
-    - "Thursday: 9:00 AM – 5:30 PM"
-    - "Friday: 7:00 AM – 9:00 PM"
-    - "Saturday: 7:00 AM – 3:00 PM"
-    - "Sunday: Closed"
+    - 'Monday: Closed'
+    - 'Tuesday: 7:00 AM – 5:30 PM'
+    - 'Wednesday: 9:00 AM – 5:30 PM'
+    - 'Thursday: 9:00 AM – 5:30 PM'
+    - 'Friday: 7:00 AM – 9:00 PM'
+    - 'Saturday: 7:00 AM – 3:00 PM'
+    - 'Sunday: Closed'
 tags:
-  - "adelaide"
-  - "local market"
-quickAnswer: "Adelaide Central Market sits at 44/60 Gouger St in Adelaide's CBD, beside Chinatown and a short walk from Victoria Square, with 80+ vendors under one roof. At the moment it trades Tuesday to Saturday: Friday runs late until 9pm, Saturday wraps up at 3pm, and Monday and Sunday are closed. Allow 1–2 hours, bring your own bags, and arrive early in the day if you want the stalls at their fullest."
+  - adelaide
+  - local market
+quickAnswer: >-
+  Adelaide Central Market sits at 44/60 Gouger St in Adelaide's CBD, beside
+  Chinatown and a short walk from Victoria Square, with 80+ vendors under one
+  roof. At the moment it trades Tuesday to Saturday: Friday runs late until 9pm,
+  Saturday wraps up at 3pm, and Monday and Sunday are closed. Allow 1–2 hours,
+  bring your own bags, and arrive early in the day if you want the stalls at
+  their fullest.
 faq:
-  - q: "What days is Adelaide Central Market closed?"
-    a: "Currently it is closed Monday and Sunday. It trades Tuesday 7am–5:30pm, Wednesday and Thursday 9am–5:30pm, Friday 7am–9pm and Saturday 7am–3pm. Public holidays can change these hours, so check the official site before you go."
-  - q: "How do I get to Adelaide Central Market by public transport?"
-    a: "Take the Glenelg tram to the Victoria Square stop and walk a few minutes west to Gouger Street. From most CBD hotels it's an easy walk on the flat city grid."
-  - q: "When is the best time to visit?"
-    a: "Come early on Tuesday, Friday or Saturday, when it opens at 7am, to see the stalls at their fullest. Friday is the only evening opening, until 9pm. Saturday closes at 3pm, so don't plan a late Saturday visit."
-  - q: "How long should I spend there?"
-    a: "Allow about an hour to browse and up to two hours to eat and shop properly. With Chinatown next door and Victoria Square nearby, it can easily fill half a day."
-  - q: "What's near Adelaide Central Market?"
-    a: "Adelaide's Chinatown and the Moonta Street mall are right beside it. Gouger Street's restaurant strip is out the front door, and Victoria Square is a short walk east."
+  - q: What days is Adelaide Central Market closed?
+    a: >-
+      Currently it is closed Monday and Sunday. It trades Tuesday 7am–5:30pm,
+      Wednesday and Thursday 9am–5:30pm, Friday 7am–9pm and Saturday 7am–3pm.
+      Public holidays can change these hours, so check the official site before
+      you go.
+  - q: How do I get to Adelaide Central Market by public transport?
+    a: >-
+      Take the Glenelg tram to the Victoria Square stop and walk a few minutes
+      west to Gouger Street. From most CBD hotels it's an easy walk on the flat
+      city grid.
+  - q: When is the best time to visit?
+    a: >-
+      Come early on Tuesday, Friday or Saturday, when it opens at 7am, to see
+      the stalls at their fullest. Friday is the only evening opening, until
+      9pm. Saturday closes at 3pm, so don't plan a late Saturday visit.
+  - q: How long should I spend there?
+    a: >-
+      Allow about an hour to browse and up to two hours to eat and shop
+      properly. With Chinatown next door and Victoria Square nearby, it can
+      easily fill half a day.
+  - q: What's near Adelaide Central Market?
+    a: >-
+      Adelaide's Chinatown and the Moonta Street mall are right beside it.
+      Gouger Street's restaurant strip is out the front door, and Victoria
+      Square is a short walk east.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-13'
 ---
 
 ## A city block of produce under one roof

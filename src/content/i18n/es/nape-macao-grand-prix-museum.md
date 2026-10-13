@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: nape-macao-grand-prix-museum
-srcHash: '6553150a8dfe'
+srcHash: '60349685ee78'
 title: 'Museo del Gran Premio de Macao: guía de viaje por NAPE (4.3★)'
-description: En la Rua de Luís Gonzaga Gomes, dentro de NAPE (Macao), se encuentra el Museo del Gran Premio de Macao, a poca distancia a pie de la Terminal de Ferris del Puerto Exterior y de Fisherman's Wharf. Con 4.3★ (897 reseñas), le contamos qué opinan los visitantes, cuál es el horario y algunos consejos.
+description: En la Rua de Luís Gonzaga Gomes, dentro de NAPE (Macao), se encuentra el Museo del Gran Premio de Macao, a poca distancia a pie de la Terminal de Ferris del Puerto Exterior y de Fisherman's Wharf. Con 4.3★ (898 reseñas), le contamos qué opinan los visitantes, cuál es el horario y algunos consejos.
 quickAnswer: El Museo del Gran Premio de Macao (Macao Grand Prix Museum) está en la Rua de Luís Gonzaga Gomes, en el barrio de NAPE, a pocos minutos a pie de la Terminal de Ferris del Puerto Exterior (Outer Harbour Ferry Terminal) y de Macau Fisherman's Wharf. Reúne coches de carreras, motos y objetos de recuerdo que abarcan más de medio siglo de historia del Gran Premio de Macao, y cuenta además con un simulador de carreras. Frente a los casinos que lo rodean, resulta un descubrimiento mucho más tranquilo. Calcule entre 1.5 y 2 horas de visita y tenga presente que abre de 10am a 6pm todos los días salvo el martes, cuando permanece cerrado.
 faq:
   - q: ¿Qué días abre el Museo del Gran Premio de Macao?

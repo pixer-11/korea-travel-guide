@@ -1,56 +1,78 @@
 ---
-title: "Macau Fisherman's Wharf: NAPE Travel Guide (4.1★)"
-description: "Macau Fisherman's Wharf sits on Av. Dr. Sun Yat Sen in NAPE, a short walk from the Outer Harbour Ferry Terminal. 4.1★ (6,495 reviews) — what visitors say, hours, and tips."
-country: "Macau"
-region: "NAPE"
-category: "attraction"
-pubDate: "2026-10-06T14:32:09.115Z"
+title: 'Macau Fisherman''s Wharf: NAPE Travel Guide (4.1★)'
+description: >-
+  Macau Fisherman's Wharf sits on Av. Dr. Sun Yat Sen in NAPE, a short walk from
+  the Outer Harbour Ferry Terminal. 4.1★ (6,505 reviews) — what visitors say,
+  hours, and tips.
+country: Macau
+region: NAPE
+category: attraction
+pubDate: '2026-10-06T14:32:09.115Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Macau_Fisherman%27s_Wharf_06-05-2023.jpg/3840px-Macau_Fisherman%27s_Wharf_06-05-2023.jpg"
-  credit: "Photo: LN9267 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Macau_Fisherman%27s_Wharf_06-05-2023.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Macau_Fisherman%27s_Wharf_06-05-2023.jpg/3840px-Macau_Fisherman%27s_Wharf_06-05-2023.jpg
+  credit: 'Photo: LN9267 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Macau_Fisherman%27s_Wharf_06-05-2023.jpg
+  via: act
   focus:
     x: 55
-    y: 55
+    'y': 55
 gallery: []
 place:
-  id: "ChIJwZ8icdt6ATQRQTaDmpso-yU"
-  name: "Macau Fisherman's Wharf"
-  address: "Av. Dr. Sun Yat Sen, Macao"
+  id: ChIJwZ8icdt6ATQRQTaDmpso-yU
+  name: Macau Fisherman's Wharf
+  address: 'Av. Dr. Sun Yat Sen, Macao'
   rating: 4.1
-  userRatingsTotal: 6495
-  googleMapsUrl: "https://maps.google.com/?cid=2736825847335040577&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 6505
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2736825847335040577&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.193233
   lng: 113.55605539999999
-  phone: "+853 8299 3300"
+  phone: +853 8299 3300
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "nape"
-  - "top attraction"
-quickAnswer: "Macau Fisherman's Wharf sits on Av. Dr. Sun Yat Sen in NAPE, a short walk from the Outer Harbour Ferry Terminal. Its open-air grounds are open 24 hours: themed European and Chinese facades, a Roman-style amphitheatre, hotels, a casino, shops and restaurants along the harbourfront. Plan on 1 to 2 hours, and come at dusk if you want the facades lit up."
+  - nape
+  - top attraction
+quickAnswer: >-
+  Macau Fisherman's Wharf sits on Av. Dr. Sun Yat Sen in NAPE, a short walk from
+  the Outer Harbour Ferry Terminal. Its open-air grounds are open 24 hours:
+  themed European and Chinese facades, a Roman-style amphitheatre, hotels, a
+  casino, shops and restaurants along the harbourfront. Plan on 1 to 2 hours,
+  and come at dusk if you want the facades lit up.
 faq:
-  - q: "How do I get to Macau Fisherman's Wharf from the Hong Kong ferry?"
-    a: "Walk. The Outer Harbour Ferry Terminal is roughly ten minutes away on foot along the waterfront on Av. Dr. Sun Yat Sen, NAPE."
-  - q: "What are the opening hours?"
-    a: "The grounds are listed as open 24 hours every day. Shops, restaurants and attractions inside keep their own hours, so check each one before you go."
-  - q: "How long should I spend there?"
-    a: "One to two hours covers a walk past the Roman Amphitheatre, Legend Wharf and the Tang Dynasty quarter. Allow longer if you are eating here."
-  - q: "When is the best time to visit?"
-    a: "Dusk and evening, when the themed facades are floodlit and the heat has eased. Summer middays on the open promenade can be uncomfortable."
-  - q: "What is nearby?"
-    a: "The Kun Iam statue and the Macau Science Center are further along the NAPE waterfront. The peninsula's casino hotels are a short walk inland."
+  - q: How do I get to Macau Fisherman's Wharf from the Hong Kong ferry?
+    a: >-
+      Walk. The Outer Harbour Ferry Terminal is roughly ten minutes away on foot
+      along the waterfront on Av. Dr. Sun Yat Sen, NAPE.
+  - q: What are the opening hours?
+    a: >-
+      The grounds are listed as open 24 hours every day. Shops, restaurants and
+      attractions inside keep their own hours, so check each one before you go.
+  - q: How long should I spend there?
+    a: >-
+      One to two hours covers a walk past the Roman Amphitheatre, Legend Wharf
+      and the Tang Dynasty quarter. Allow longer if you are eating here.
+  - q: When is the best time to visit?
+    a: >-
+      Dusk and evening, when the themed facades are floodlit and the heat has
+      eased. Summer middays on the open promenade can be uncomfortable.
+  - q: What is nearby?
+    a: >-
+      The Kun Iam statue and the Macau Science Center are further along the NAPE
+      waterfront. The peninsula's casino hotels are a short walk inland.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-13'
 ---
 
 ## A harbourfront built as a stage set

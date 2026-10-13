@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: adelaide-adelaide-central-market
-srcHash: 'df9044013dd6'
+srcHash: '3d5264d57f10'
 title: 'Mercado Central de Adelaida: guía de viaje (4.6★)'
-description: En pleno centro de Adelaida, en 44/60 Gouger St, junto al barrio chino y a pocos pasos de Victoria Square, el Mercado Central reúne a más de 80 comerciantes bajo un mismo techo. Con una valoración de 4.6★ (13,535 reseñas), aquí encontrará la opinión de los visitantes, los horarios y algunos consejos.
+description: En pleno centro de Adelaida, en 44/60 Gouger St, junto al barrio chino y a pocos pasos de Victoria Square, el Mercado Central reúne a más de 80 comerciantes bajo un mismo techo. Con una valoración de 4.6★ (13,539 reseñas), aquí encontrará la opinión de los visitantes, los horarios y algunos consejos.
 quickAnswer: En pleno centro de Adelaida, en 44/60 Gouger St, junto al barrio chino y a pocos pasos de Victoria Square, el Mercado Central reúne a más de 80 comerciantes bajo un mismo techo. Actualmente abre de martes a sábado. El viernes alarga el horario hasta las 9pm, el sábado cierra a las 3pm y los lunes y domingos permanece cerrado. Calcule entre 1 y 2 horas de visita y lleve sus propias bolsas. Si quiere ver los puestos en su mejor momento, conviene llegar temprano.
 faq:
   - q: ¿Qué días cierra el Mercado Central de Adelaida?

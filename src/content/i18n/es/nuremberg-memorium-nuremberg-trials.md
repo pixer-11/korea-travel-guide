@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: nuremberg-memorium-nuremberg-trials
-srcHash: '74333ab85609'
+srcHash: '645946ee156d'
 title: 'Memorium Juicios de Núremberg: guía de visita (4.6★)'
-description: En Bärenschanzstraße 72, dentro del Palacio de Justicia de Núremberg, el Memorium Juicios de Núremberg reúne la exposición y el acceso de visitantes a la Sala 600. Se encuentra en la zona de Gostenhof/Bärenschanze, al oeste de la ciudad, y se llega a pie en pocos minutos desde la estación de metro Bärenschanze (U1). Con una valoración de 4.6★ (6,464 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
+description: En Bärenschanzstraße 72, dentro del Palacio de Justicia de Núremberg, el Memorium Juicios de Núremberg reúne la exposición y el acceso de visitantes a la Sala 600. Se encuentra en la zona de Gostenhof/Bärenschanze, al oeste de la ciudad, y se llega a pie en pocos minutos desde la estación de metro Bärenschanze (U1). Con una valoración de 4.6★ (6,509 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
 quickAnswer: El Memorium Juicios de Núremberg (Memorium Nürnberger Prozesse) alberga la exposición y la entrada de visitantes a la Sala 600 del Palacio de Justicia de Núremberg. Su dirección es Bärenschanzstraße 72, en la zona de Gostenhof/Bärenschanze, al oeste de la ciudad, y queda a pocos minutos a pie de la estación de metro Bärenschanze (U1). Abre de 9:00 a 18:00 los lunes y de miércoles a viernes, y de 10:00 a 18:00 los fines de semana. Los martes permanece cerrado. La mayor afluencia se registra los fines de semana entre las 11:00 y las 17:00, por lo que conviene ir entre semana o, si va en fin de semana, llegar a las 10:00, cuando abren las puertas.
 faq:
   - q: ¿Cómo se llega al Memorium Juicios de Núremberg?

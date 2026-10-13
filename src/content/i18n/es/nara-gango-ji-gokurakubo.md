@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: nara-gango-ji-gokurakubo
-srcHash: 'a6295b687197'
+srcHash: 'a600d721d3ca'
 title: 'Gango-ji (Gokurakubo): guía de viaje de Nara (4.2★)'
-description: El templo Gango-ji (Gokurakubo) se encuentra en el barrio de Naramachi, en Nara, a unos 15 minutos a pie al sur de la estación Kintetsu Nara, y abre todos los días de 9:00am a 4:30pm. Con 4.2★ (2,303 reseñas), aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
+description: El templo Gango-ji (Gokurakubo) se encuentra en el barrio de Naramachi, en Nara, a unos 15 minutos a pie al sur de la estación Kintetsu Nara, y abre todos los días de 9:00am a 4:30pm. Con 4.2★ (2,312 reseñas), aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
 quickAnswer: En pleno barrio de Naramachi, a unos 15 minutos a pie al sur de la estación Kintetsu Nara, se alza el templo Gango-ji (Gokurakubo), abierto a diario de 9:00am a 4:30pm. Tanto entre semana como en fin de semana, la franja más tranquila va de 9am a 10am. Conviene evitar los fines de semana entre las 12pm y las 4pm, cuando se concentra la mayor afluencia de visitantes.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Gango-ji?

@@ -1,41 +1,49 @@
 ---
-title: "Diamond Beach: Nusa Penida Travel Guide (4.7★)"
-description: "Diamond Beach sits on Nusa Penida's southeast coast near Pejukutan village, reached via a steep staircase (roughly 300+ steps) carved into the cliffside down to white sand and turquoise water. 4.7★ (9,580 reviews) — what visitors say, hours, and tips."
-country: "Indonesia"
-region: "Nusa Penida"
-category: "attraction"
-pubDate: "2026-08-13T08:57:17.618Z"
+title: 'Diamond Beach: Nusa Penida Travel Guide (4.7★)'
+description: >-
+  Diamond Beach sits on Nusa Penida's southeast coast near Pejukutan village,
+  reached via a steep staircase (roughly 300+ steps) carved into the cliffside
+  down to white sand and turquoise water. 4.7★ (9,815 reviews) — what visitors
+  say, hours, and tips.
+country: Indonesia
+region: Nusa Penida
+category: attraction
+pubDate: '2026-08-13T08:57:17.618Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Diamond_Beach_in_Nusa_Penida%2C_Bali.jpg/3840px-Diamond_Beach_in_Nusa_Penida%2C_Bali.jpg"
-  credit: "Photo: Stryn / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Diamond_Beach_in_Nusa_Penida,_Bali.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Diamond_Beach_in_Nusa_Penida%2C_Bali.jpg/3840px-Diamond_Beach_in_Nusa_Penida%2C_Bali.jpg
+  credit: 'Photo: Stryn / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Diamond_Beach_in_Nusa_Penida,_Bali.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Diamond_Beach_Nusa_Penida.jpg/3840px-Diamond_Beach_Nusa_Penida.jpg"
-    credit: "Photo: Incredibleworlds / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Diamond_Beach_Nusa_Penida.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Diamond_Beach_Nusa_Penida.jpg/3840px-Diamond_Beach_Nusa_Penida.jpg
+    credit: 'Photo: Incredibleworlds / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Diamond_Beach_Nusa_Penida.jpg'
 place:
-  id: "ChIJMa53HxZ30i0RjT02sEeHrQ0"
-  name: "Diamond Beach"
-  address: "Pejukutan, Nusa Penida, Klungkung Regency, Bali 80771, Indonesia"
+  id: ChIJMa53HxZ30i0RjT02sEeHrQ0
+  name: Diamond Beach
+  address: 'Pejukutan, Nusa Penida, Klungkung Regency, Bali 80771, Indonesia'
   rating: 4.7
-  userRatingsTotal: 9580
-  googleMapsUrl: "https://maps.google.com/?cid=985592635432779149&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 9815
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=985592635432779149&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -8.7751348
   lng: 115.62022819999999
-  phone: "+62 857-3933-2950"
+  phone: +62 857-3933-2950
   openingHours:
-    - "Monday: 6:00 AM – 6:00 PM"
-    - "Tuesday: 6:00 AM – 6:00 PM"
-    - "Wednesday: 6:00 AM – 6:00 PM"
-    - "Thursday: 6:00 AM – 6:00 PM"
-    - "Friday: 6:00 AM – 6:00 PM"
-    - "Saturday: 6:00 AM – 6:00 PM"
-    - "Sunday: 6:00 AM – 6:00 PM"
+    - 'Monday: 6:00 AM – 6:00 PM'
+    - 'Tuesday: 6:00 AM – 6:00 PM'
+    - 'Wednesday: 6:00 AM – 6:00 PM'
+    - 'Thursday: 6:00 AM – 6:00 PM'
+    - 'Friday: 6:00 AM – 6:00 PM'
+    - 'Saturday: 6:00 AM – 6:00 PM'
+    - 'Sunday: 6:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-08-13
+    updated: 2026-08-13T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -57,24 +65,45 @@ place:
       - 12
       - 13
       - 14
-    venueId: "ven_305172486545733230546a52306930335a78483335614d4a496843"
+    venueId: ven_305172486545733230546a52306930335a78483335614d4a496843
 tags:
-  - "nusa penida"
-  - "top attraction"
-quickAnswer: "Diamond Beach sits on Nusa Penida's southeast coast near Pejukutan village, reached via a steep staircase (roughly 300+ steps) carved into the cliffside down to white sand and turquoise water. It's open daily 6am–6pm; arrive right at opening or after 3pm to dodge the 10am–3pm weekend crush. Budget half a day once you factor in the descent, the beach itself, and the climb back up."
+  - nusa penida
+  - top attraction
+quickAnswer: >-
+  Diamond Beach sits on Nusa Penida's southeast coast near Pejukutan village,
+  reached via a steep staircase (roughly 300+ steps) carved into the cliffside
+  down to white sand and turquoise water. It's open daily 6am–6pm; arrive right
+  at opening or after 3pm to dodge the 10am–3pm weekend crush. Budget half a day
+  once you factor in the descent, the beach itself, and the climb back up.
 faq:
-  - q: "How many steps are there to Diamond Beach?"
-    a: "The staircase runs several hundred steps down the cliff — plan on 15-20 minutes descending and closer to 30 minutes climbing back, longer with rest stops in the heat."
-  - q: "When is the quietest time to visit?"
-    a: "The beach stays calm 7am–9am and 4pm–6pm on both weekdays and weekends; the windows to avoid are 10am–2pm on weekdays and 10am–3pm on weekends, when tour groups peak."
-  - q: "Can you swim at Diamond Beach?"
-    a: "Wading near shore is fine on calm days, but currents are strong — this isn't considered a safe swimming beach, so stay shallow and skip it if the surf looks rough."
-  - q: "How do I get to Diamond Beach without a car?"
-    a: "There's no public transit on Nusa Penida; rent a scooter or hire a driver from Sampalan or Toyapakeh harbor, roughly 45-60 minutes with some unpaved road near the end."
-  - q: "What else is nearby?"
-    a: "Atuh Beach and the Thousand Islands viewpoint are close by and often visited in the same trip since they share the same general access road and parking area."
+  - q: How many steps are there to Diamond Beach?
+    a: >-
+      The staircase runs several hundred steps down the cliff — plan on 15-20
+      minutes descending and closer to 30 minutes climbing back, longer with
+      rest stops in the heat.
+  - q: When is the quietest time to visit?
+    a: >-
+      The beach stays calm 7am–9am and 4pm–6pm on both weekdays and weekends;
+      the windows to avoid are 10am–2pm on weekdays and 10am–3pm on weekends,
+      when tour groups peak.
+  - q: Can you swim at Diamond Beach?
+    a: >-
+      Wading near shore is fine on calm days, but currents are strong — this
+      isn't considered a safe swimming beach, so stay shallow and skip it if the
+      surf looks rough.
+  - q: How do I get to Diamond Beach without a car?
+    a: >-
+      There's no public transit on Nusa Penida; rent a scooter or hire a driver
+      from Sampalan or Toyapakeh harbor, roughly 45-60 minutes with some unpaved
+      road near the end.
+  - q: What else is nearby?
+    a: >-
+      Atuh Beach and the Thousand Islands viewpoint are close by and often
+      visited in the same trip since they share the same general access road and
+      parking area.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-13'
 ---
 
 ## Why go

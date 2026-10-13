@@ -1,30 +1,35 @@
 ---
 title: 'Purana Qila: New Delhi Travel Guide (4.2★)'
-description: Purana Qila sits on Mathura Road in Pragati Maidan, New Delhi, next to Delhi Zoo. 4.2★ (33,476 reviews) — what visitors say, hours, and tips.
+description: >-
+  Purana Qila sits on Mathura Road in Pragati Maidan, New Delhi, next to Delhi
+  Zoo. 4.2★ (33,521 reviews) — what visitors say, hours, and tips.
 country: India
 region: New Delhi
 category: hidden-gem
 pubDate: '2026-09-29T07:38:20.879Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Purana_Qila_in_New_Delhi_12.jpg/3840px-Purana_Qila_in_New_Delhi_12.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Purana_Qila_in_New_Delhi_12.jpg/3840px-Purana_Qila_in_New_Delhi_12.jpg
   credit: 'Photo: Pinakpani / Wikimedia Commons (CC BY 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Purana_Qila_in_New_Delhi_12.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Purana_Qila_in_New_Delhi_12.jpg'
   focus:
     x: 70
     'y': 30
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Purana_Qila_in_New_Delhi_14.jpg/3840px-Purana_Qila_in_New_Delhi_14.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Purana_Qila_in_New_Delhi_14.jpg/3840px-Purana_Qila_in_New_Delhi_14.jpg
     credit: 'Photo: Pinakpani / Wikimedia Commons (CC BY 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Purana_Qila_in_New_Delhi_14.jpg
+    source: 'https://commons.wikimedia.org/wiki/File:Purana_Qila_in_New_Delhi_14.jpg'
 place:
   id: ChIJcWc7SyHjDDkRs8yyCmF5khM
   name: Purana Qila
-  address: Mathura Rd, Near Delhi Zoo, J65V+RFH, Pragati Maidan, New Delhi, Delhi 110001, India
+  address: 'Mathura Rd, near Delhi Zoo, Pragati Maidan, New Delhi, Delhi 110001, India'
   rating: 4.2
-  userRatingsTotal: 33476
-  googleMapsUrl: https://maps.google.com/?cid=1410323091018665139&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 33521
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1410323091018665139&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 28.6095744
   lng: 77.24373709999999
@@ -58,20 +63,35 @@ place:
 tags:
   - new delhi
   - old quarter
-quickAnswer: Purana Qila sits on Mathura Road in Pragati Maidan, New Delhi, next to Delhi Zoo. It's a 16th-century stone fort with Sher Shah Suri's mosque, the octagonal Sher Mandal and a 2km circuit of ramparts. It opens daily from 7am to 5pm and is quietest from 7am to 10am on weekdays and 7am to 9am on weekends; on weekends it is crowded from 10am until closing.
+quickAnswer: >-
+  Purana Qila sits on Mathura Road in Pragati Maidan, New Delhi, next to Delhi
+  Zoo. It's a 16th-century stone fort with Sher Shah Suri's mosque, the
+  octagonal Sher Mandal and a 2km circuit of ramparts. It opens daily from 7am
+  to 5pm and is quietest from 7am to 10am on weekdays and 7am to 9am on
+  weekends; on weekends it is crowded from 10am until closing.
 faq:
   - q: When is the quietest time to visit Purana Qila?
-    a: It's quietest from 7am to 10am on weekdays and 7am to 9am on weekends. On weekends it's busiest from 10am until the 5pm close.
+    a: >-
+      It's quietest from 7am to 10am on weekdays and 7am to 9am on weekends. On
+      weekends it's busiest from 10am until the 5pm close.
   - q: What are Purana Qila's opening hours?
     a: It's open every day from 7am to 5pm. There is no weekly closing day.
   - q: What is the nearest metro station?
-    a: Supreme Court station on the Blue Line, formerly called Pragati Maidan. From there it's a walk of about 15 minutes along Mathura Road to the Bara Darwaza entrance.
+    a: >-
+      Supreme Court station on the Blue Line, formerly called Pragati Maidan.
+      From there it's a walk of about 15 minutes along Mathura Road to the Bara
+      Darwaza entrance.
   - q: How long should I spend at Purana Qila?
-    a: Allow 1.5 to 2 hours to see the Qila-i-Kuhna Mosque, the Sher Mandal and the site museum and walk part of the ramparts.
+    a: >-
+      Allow 1.5 to 2 hours to see the Qila-i-Kuhna Mosque, the Sher Mandal and
+      the site museum and walk part of the ramparts.
   - q: What can I combine with a visit?
-    a: Delhi Zoo is right next door. The Sher Shah Suri Gate and Khairul Manazil mosque are across Mathura Road, and Humayun's Tomb is a short ride south.
+    a: >-
+      Delhi Zoo is right next door. The Sher Shah Suri Gate and Khairul Manazil
+      mosque are across Mathura Road, and Humayun's Tomb is a short ride south.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-13'
 ---
 
 ## Walls older than the city around them

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: nape-templo-de-kun-iam
-srcHash: '03758bdeaf84'
+srcHash: '0b2e579e7efa'
 title: 'Templo de Kun Iam: guía de viaje de la península de Macao (4.5★)'
-description: En la Avenida do Coronel Mesquita, dentro de la zona de Mong Ha de la península de Macao, se alza el Templo de Kun Iam, un templo budista de la época Ming dedicado a la diosa de la Misericordia. Con una valoración de 4.5★ (353 reseñas), aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
+description: En la Avenida do Coronel Mesquita, dentro de la zona de Mong Ha de la península de Macao, se alza el Templo de Kun Iam, un templo budista de la época Ming dedicado a la diosa de la Misericordia. Con una valoración de 4.5★ (357 reseñas), aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
 quickAnswer: El Templo de Kun Iam es un templo budista de la época Ming dedicado a la diosa de la Misericordia. Se encuentra en la Avenida do Coronel Mesquita, en la zona de Mong Ha de la península de Macao. Consta de tres salas alineadas y de un jardín trasero a la sombra de los banianos, donde se conserva la mesa de piedra sobre la que se firmó el Tratado de Wangxia en 1844. Abre todos los días de 7 de la mañana a 4 de la tarde. Lo ideal es ir entre las 7 y las 9 de la mañana los días laborables, o entre las 7 y las 8 los fines de semana. Conviene evitar los fines de semana de 10 de la mañana a 3 de la tarde, que es cuando más gente hay.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Templo de Kun Iam?

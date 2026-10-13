@@ -1,45 +1,53 @@
 ---
-title: "Imperial Castle of Nuremberg: Travel Guide (4.6★)"
-description: "The Imperial Castle of Nuremberg (Kaiserburg) stands on the sandstone ridge at the northern edge of Nuremberg's Altstadt, at Burg 17. 4.6★ (44,072 reviews) — what visitors say, hours, and tips."
-country: "Germany"
-region: "Nuremberg"
-category: "attraction"
-pubDate: "2026-10-02T14:10:57.773Z"
+title: 'Imperial Castle of Nuremberg: Travel Guide (4.6★)'
+description: >-
+  The Imperial Castle of Nuremberg (Kaiserburg) stands on the sandstone ridge at
+  the northern edge of Nuremberg's Altstadt, at Burg 17. 4.6★ (44,175 reviews) —
+  what visitors say, hours, and tips.
+country: Germany
+region: Nuremberg
+category: attraction
+pubDate: '2026-10-02T14:10:57.773Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/View_of_the_Pentagonal_tower%2C_the_Imperial_Stables_and_Luginsland_from_the_Nuremberg_Castle._Germany.jpg/3840px-View_of_the_Pentagonal_tower%2C_the_Imperial_Stables_and_Luginsland_from_the_Nuremberg_Castle._Germany.jpg"
-  credit: "Photo: Ввласенко / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:View_of_the_Pentagonal_tower,_the_Imperial_Stables_and_Luginsland_from_the_Nuremberg_Castle._Germany.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/View_of_the_Pentagonal_tower%2C_the_Imperial_Stables_and_Luginsland_from_the_Nuremberg_Castle._Germany.jpg/3840px-View_of_the_Pentagonal_tower%2C_the_Imperial_Stables_and_Luginsland_from_the_Nuremberg_Castle._Germany.jpg
+  credit: 'Photo: Ввласенко / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:View_of_the_Pentagonal_tower,_the_Imperial_Stables_and_Luginsland_from_the_Nuremberg_Castle._Germany.jpg
+  via: act
   focus:
     x: 35
-    y: 35
+    'y': 35
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Imperial_Castle_of_Nuremberg_%2854145001163%29.jpg/3840px-Imperial_Castle_of_Nuremberg_%2854145001163%29.jpg"
-    credit: "Photo: Jorge Franganillo / Wikimedia Commons (CC BY 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Imperial_Castle_of_Nuremberg_(54145001163).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Imperial_Castle_of_Nuremberg_%2854145001163%29.jpg/3840px-Imperial_Castle_of_Nuremberg_%2854145001163%29.jpg
+    credit: 'Photo: Jorge Franganillo / Wikimedia Commons (CC BY 2.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Imperial_Castle_of_Nuremberg_(54145001163).jpg
 place:
-  id: "ChIJB5JKSLBXn0cRm5zy7D3jUgo"
-  name: "Imperial Castle of Nuremberg"
-  address: "Burg 17, 90403 Nürnberg, Germany"
+  id: ChIJB5JKSLBXn0cRm5zy7D3jUgo
+  name: Imperial Castle of Nuremberg
+  address: 'Burg 17, 90403 Nürnberg, Germany'
   rating: 4.6
-  userRatingsTotal: 44072
-  googleMapsUrl: "https://maps.google.com/?cid=743906743577386139&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 44175
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=743906743577386139&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 49.4580134
   lng: 11.075651599999999
-  phone: "+49 911 2446590"
+  phone: +49 911 2446590
   openingHours:
-    - "Monday: 9:00 AM – 6:00 PM"
-    - "Tuesday: 9:00 AM – 6:00 PM"
-    - "Wednesday: 9:00 AM – 6:00 PM"
-    - "Thursday: 10:00 AM – 4:00 PM"
-    - "Friday: 10:00 AM – 4:00 PM"
-    - "Saturday: 10:00 AM – 4:00 PM"
-    - "Sunday: 10:00 AM – 4:00 PM"
+    - 'Monday: 9:00 AM – 6:00 PM'
+    - 'Tuesday: 9:00 AM – 6:00 PM'
+    - 'Wednesday: 9:00 AM – 6:00 PM'
+    - 'Thursday: 10:00 AM – 4:00 PM'
+    - 'Friday: 10:00 AM – 4:00 PM'
+    - 'Saturday: 10:00 AM – 4:00 PM'
+    - 'Sunday: 10:00 AM – 4:00 PM'
   busyness:
-    updated: 2026-10-02
+    updated: 2026-10-02T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 10
@@ -49,24 +57,43 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_6f67556a334437797a356d5263306e58424c534b4a35424a496843"
+    venueId: ven_6f67556a334437797a356d5263306e58424c534b4a35424a496843
 tags:
-  - "nuremberg"
-  - "top attraction"
-quickAnswer: "The Imperial Castle of Nuremberg (Kaiserburg) stands on the sandstone ridge at the northern edge of Nuremberg's Altstadt, at Burg 17. It is quietest between 9am and 11am on weekdays, and Monday to Wednesday, when it opens at 9am, is your best chance at that window. Avoid weekends between 11am and 4pm, which covers every hour after the first one."
+  - nuremberg
+  - top attraction
+quickAnswer: >-
+  The Imperial Castle of Nuremberg (Kaiserburg) stands on the sandstone ridge at
+  the northern edge of Nuremberg's Altstadt, at Burg 17. It is quietest between
+  9am and 11am on weekdays, and Monday to Wednesday, when it opens at 9am, is
+  your best chance at that window. Avoid weekends between 11am and 4pm, which
+  covers every hour after the first one.
 faq:
-  - q: "When is the quietest time to visit the Imperial Castle of Nuremberg?"
-    a: "Weekdays between 9am and 11am. On Monday to Wednesday the castle opens at 9am, so you get that whole window. On Thursday and Friday it opens at 10am. Avoid weekends from 11am to 4pm, the busiest stretch."
-  - q: "What are the opening hours?"
-    a: "Monday to Wednesday 9am to 6pm, and Thursday to Sunday 10am to 4pm. Late in the week, the 4pm close means an afternoon arrival leaves little time."
-  - q: "How long should I spend at the castle?"
-    a: "Two to three hours covers the palace, Double Chapel, museum, Deep Well demonstration and Sinwell Tower. A walk through the free courtyards and the Freiung viewpoint takes under an hour."
-  - q: "How do I get to the castle?"
-    a: "Walk. It is at Burg 17, at the northern top of the Altstadt, about ten minutes uphill on cobbled lanes from the Hauptmarkt along Burgstraße."
-  - q: "What is nearby?"
-    a: "The Tiergärtnertor square and the Albrecht Dürer House are just below the western walls. St Sebaldus Church, the Hauptmarkt with the Schöner Brunnen and, in Advent, the Christkindlesmarkt are a short walk downhill."
+  - q: When is the quietest time to visit the Imperial Castle of Nuremberg?
+    a: >-
+      Weekdays between 9am and 11am. On Monday to Wednesday the castle opens at
+      9am, so you get that whole window. On Thursday and Friday it opens at
+      10am. Avoid weekends from 11am to 4pm, the busiest stretch.
+  - q: What are the opening hours?
+    a: >-
+      Monday to Wednesday 9am to 6pm, and Thursday to Sunday 10am to 4pm. Late
+      in the week, the 4pm close means an afternoon arrival leaves little time.
+  - q: How long should I spend at the castle?
+    a: >-
+      Two to three hours covers the palace, Double Chapel, museum, Deep Well
+      demonstration and Sinwell Tower. A walk through the free courtyards and
+      the Freiung viewpoint takes under an hour.
+  - q: How do I get to the castle?
+    a: >-
+      Walk. It is at Burg 17, at the northern top of the Altstadt, about ten
+      minutes uphill on cobbled lanes from the Hauptmarkt along Burgstraße.
+  - q: What is nearby?
+    a: >-
+      The Tiergärtnertor square and the Albrecht Dürer House are just below the
+      western walls. St Sebaldus Church, the Hauptmarkt with the Schöner Brunnen
+      and, in Advent, the Christkindlesmarkt are a short walk downhill.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-13'
 ---
 
 Every street in Nuremberg's old town seems to tilt toward it. Walk north from the Hauptmarkt and the cobbles start climbing. The half-timbered houses close in, and then a wall of reddish sandstone fills the top of the hill. That is the Imperial Castle, the Kaiserburg: one of the most important fortified palaces of the Holy Roman Empire, and still the shape the whole skyline is built around.

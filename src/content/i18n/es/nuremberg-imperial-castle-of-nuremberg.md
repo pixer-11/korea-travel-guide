@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: nuremberg-imperial-castle-of-nuremberg
-srcHash: '9dbc422cf462'
+srcHash: '148e3ba75caf'
 title: 'Castillo Imperial de Núremberg: guía de viaje (4.6★)'
 description: En Burg 17, sobre la cresta de arenisca que cierra por el norte el casco antiguo (Altstadt), se alza el Castillo Imperial de Núremberg (Kaiserburg). Con 4.6★ y 44,072 reseñas, aquí encontrará la opinión de los visitantes, los horarios y algunos consejos.
 quickAnswer: En Burg 17, sobre la cresta de arenisca que cierra por el norte el casco antiguo (Altstadt), se alza el Castillo Imperial de Núremberg (Kaiserburg). La franja más tranquila es la de 9am a 11am entre semana. De lunes a miércoles abre a las 9am, así que esos días tendrá más posibilidades de aprovecharla. Conviene evitar los fines de semana de 11am a 4pm, es decir, todo el horario salvo la primera hora.

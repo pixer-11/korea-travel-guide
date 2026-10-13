@@ -1,45 +1,53 @@
 ---
-title: "Glasgow Botanic Gardens: Travel Guide (4.7★)"
-description: "Glasgow Botanic Gardens sits on Great Western Road in Glasgow's West End, a short walk from Hillhead subway station, and the grounds are free to walk around. 4.7★ (15,379 reviews) — what visitors say, hours, and tips."
-country: "United Kingdom"
-region: "Glasgow"
-category: "attraction"
-pubDate: "2026-10-13T08:14:33.186Z"
+title: 'Glasgow Botanic Gardens: Travel Guide (4.7★)'
+description: >-
+  Glasgow Botanic Gardens sits on Great Western Road in Glasgow's West End, a
+  short walk from Hillhead subway station, and the grounds are free to walk
+  around. 4.7★ (15,381 reviews) — what visitors say, hours, and tips.
+country: United Kingdom
+region: Glasgow
+category: attraction
+pubDate: '2026-10-13T08:14:33.186Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Glasgow_Botanic_Gardens_%2851131796638%29.jpg/3840px-Glasgow_Botanic_Gardens_%2851131796638%29.jpg"
-  credit: "Photo: Daniel from Glasgow, United Kingdom / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Glasgow_Botanic_Gardens_(51131796638).jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Glasgow_Botanic_Gardens_%2851131796638%29.jpg/3840px-Glasgow_Botanic_Gardens_%2851131796638%29.jpg
+  credit: 'Photo: Daniel from Glasgow, United Kingdom / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Glasgow_Botanic_Gardens_(51131796638).jpg
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Glasgow_Botanic_Gardens_%2851131584901%29.jpg/3840px-Glasgow_Botanic_Gardens_%2851131584901%29.jpg"
-    credit: "Photo: Daniel from Glasgow, United Kingdom / Wikimedia Commons (CC BY 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Glasgow_Botanic_Gardens_(51131584901).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Glasgow_Botanic_Gardens_%2851131584901%29.jpg/3840px-Glasgow_Botanic_Gardens_%2851131584901%29.jpg
+    credit: 'Photo: Daniel from Glasgow, United Kingdom / Wikimedia Commons (CC BY 2.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Glasgow_Botanic_Gardens_(51131584901).jpg
 place:
-  id: "ChIJ8cF-6MtFiEgRwMvh3DDvPDY"
-  name: "Glasgow Botanic Gardens"
-  address: "730 Great Western Rd, Glasgow G12 0UE, UK"
+  id: ChIJ8cF-6MtFiEgRwMvh3DDvPDY
+  name: Glasgow Botanic Gardens
+  address: '730 Great Western Rd, Glasgow G12 0UE, UK'
   rating: 4.7
-  userRatingsTotal: 15379
-  googleMapsUrl: "https://maps.google.com/?cid=3908261569794001856&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 15381
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3908261569794001856&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 55.8797045
   lng: -4.2911776999999995
-  phone: "+44 141 276 1614"
+  phone: +44 141 276 1614
   openingHours:
-    - "Monday: 7:00 AM – 6:00 PM"
-    - "Tuesday: 7:00 AM – 6:00 PM"
-    - "Wednesday: 7:00 AM – 6:00 PM"
-    - "Thursday: 7:00 AM – 6:00 PM"
-    - "Friday: 7:00 AM – 6:00 PM"
-    - "Saturday: 7:00 AM – 6:00 PM"
-    - "Sunday: 7:00 AM – 6:00 PM"
+    - 'Monday: 7:00 AM – 6:00 PM'
+    - 'Tuesday: 7:00 AM – 6:00 PM'
+    - 'Wednesday: 7:00 AM – 6:00 PM'
+    - 'Thursday: 7:00 AM – 6:00 PM'
+    - 'Friday: 7:00 AM – 6:00 PM'
+    - 'Saturday: 7:00 AM – 6:00 PM'
+    - 'Sunday: 7:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-10-13
+    updated: 2026-10-13T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -63,24 +71,50 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_5944507644443368764d775267456946744d362d4663384a496843"
+    venueId: ven_5944507644443368764d775267456946744d362d4663384a496843
 tags:
-  - "glasgow"
-  - "park"
-quickAnswer: "Glasgow Botanic Gardens sits on Great Western Road in Glasgow's West End, a short walk from Hillhead subway station, and the grounds are free to walk around. Come between 7am and 10am or 4pm and 6pm for the quietest paths, and avoid weekends between 11am and 4pm, when the lawns and the Kibble Palace are at their busiest. Give it one to two hours, or half a day if you add the River Kelvin walkway."
+  - glasgow
+  - park
+quickAnswer: >-
+  Glasgow Botanic Gardens sits on Great Western Road in Glasgow's West End, a
+  short walk from Hillhead subway station, and the grounds are free to walk
+  around. Come between 7am and 10am or 4pm and 6pm for the quietest paths, and
+  avoid weekends between 11am and 4pm, when the lawns and the Kibble Palace are
+  at their busiest. Give it one to two hours, or half a day if you add the River
+  Kelvin walkway.
 faq:
-  - q: "When is the quietest time to visit Glasgow Botanic Gardens?"
-    a: "It's quietest between 7am and 10am and between 4pm and 6pm, on weekdays and at weekends. Avoid weekends between 11am and 4pm, the busiest time. The glasshouses usually open later than the gates, so if you want to see them, a late weekday afternoon is your best bet."
-  - q: "How do I get to Glasgow Botanic Gardens by public transport?"
-    a: "Take the Glasgow Subway to Hillhead, walk north up Byres Road to Great Western Road and cross to the gates at the corner of Queen Margaret Drive. The walk takes under ten minutes. Kelvinbridge station is also close if you walk along the River Kelvin path."
-  - q: "How long should I spend at Glasgow Botanic Gardens?"
-    a: "One to two hours covers the Kibble Palace, the Main Range glasshouses and the upper lawns. Allow half a day if you want to walk the river paths or carry on along the Kelvin Walkway to Kelvingrove Park."
-  - q: "What are the opening hours?"
-    a: "At the moment the gates open from 7am to 6pm every day of the week. Hours change through the year, and the glasshouses keep shorter hours than the grounds. Check Glasgow City Council's Botanic Gardens page for current times before you go."
-  - q: "What is there to see nearby?"
-    a: "Byres Road and Ashton Lane are a few minutes' walk south, with plenty of cafés and bars. Kelvingrove Art Gallery and Museum and the University of Glasgow are both within walking distance, either through the West End streets or along the River Kelvin."
+  - q: When is the quietest time to visit Glasgow Botanic Gardens?
+    a: >-
+      It's quietest between 7am and 10am and between 4pm and 6pm, on weekdays
+      and at weekends. Avoid weekends between 11am and 4pm, the busiest time.
+      The glasshouses usually open later than the gates, so if you want to see
+      them, a late weekday afternoon is your best bet.
+  - q: How do I get to Glasgow Botanic Gardens by public transport?
+    a: >-
+      Take the Glasgow Subway to Hillhead, walk north up Byres Road to Great
+      Western Road and cross to the gates at the corner of Queen Margaret Drive.
+      The walk takes under ten minutes. Kelvinbridge station is also close if
+      you walk along the River Kelvin path.
+  - q: How long should I spend at Glasgow Botanic Gardens?
+    a: >-
+      One to two hours covers the Kibble Palace, the Main Range glasshouses and
+      the upper lawns. Allow half a day if you want to walk the river paths or
+      carry on along the Kelvin Walkway to Kelvingrove Park.
+  - q: What are the opening hours?
+    a: >-
+      At the moment the gates open from 7am to 6pm every day of the week. Hours
+      change through the year, and the glasshouses keep shorter hours than the
+      grounds. Check Glasgow City Council's Botanic Gardens page for current
+      times before you go.
+  - q: What is there to see nearby?
+    a: >-
+      Byres Road and Ashton Lane are a few minutes' walk south, with plenty of
+      cafés and bars. Kelvingrove Art Gallery and Museum and the University of
+      Glasgow are both within walking distance, either through the West End
+      streets or along the River Kelvin.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-13'
 ---
 
 ## Through the gates on Great Western Road

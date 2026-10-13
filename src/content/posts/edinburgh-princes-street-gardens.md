@@ -1,45 +1,54 @@
 ---
-title: "Princes Street Gardens: Edinburgh Travel Guide (4.7★)"
-description: "Princes Street Gardens is the long green valley in central Edinburgh, between Princes Street in the New Town and the Castle Rock below Edinburgh Castle, a short walk from Waverley Station. 4.7★ (27,300 reviews) — what visitors say, hours, and tips."
-country: "United Kingdom"
-region: "Edinburgh"
-category: "attraction"
-pubDate: "2026-10-13T08:14:32.163Z"
+title: 'Princes Street Gardens: Edinburgh Travel Guide (4.7★)'
+description: >-
+  Princes Street Gardens is the long green valley in central Edinburgh, between
+  Princes Street in the New Town and the Castle Rock below Edinburgh Castle, a
+  short walk from Waverley Station. 4.7★ (27,301 reviews) — what visitors say,
+  hours, and tips.
+country: United Kingdom
+region: Edinburgh
+category: attraction
+pubDate: '2026-10-13T08:14:32.163Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Edinburgh_-_Princes_Street_Gardens_%2849944531007%29.jpg/3840px-Edinburgh_-_Princes_Street_Gardens_%2849944531007%29.jpg"
-  credit: "Photo: Mike McBey / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Edinburgh_-_Princes_Street_Gardens_(49944531007).jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Edinburgh_-_Princes_Street_Gardens_%2849944531007%29.jpg/3840px-Edinburgh_-_Princes_Street_Gardens_%2849944531007%29.jpg
+  credit: 'Photo: Mike McBey / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Edinburgh_-_Princes_Street_Gardens_(49944531007).jpg
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/DSCN6001_Princes_Street_Gardens_Shelters_during_Covid19_lockdown.jpg/3840px-DSCN6001_Princes_Street_Gardens_Shelters_during_Covid19_lockdown.jpg"
-    credit: "Photo: AlasdairW / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:DSCN6001_Princes_Street_Gardens_Shelters_during_Covid19_lockdown.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/DSCN6001_Princes_Street_Gardens_Shelters_during_Covid19_lockdown.jpg/3840px-DSCN6001_Princes_Street_Gardens_Shelters_during_Covid19_lockdown.jpg
+    credit: 'Photo: AlasdairW / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:DSCN6001_Princes_Street_Gardens_Shelters_during_Covid19_lockdown.jpg
 place:
-  id: "ChIJn71oOpDHh0gRsGzKdafaH0g"
-  name: "Princes Street Gardens"
-  address: "Princes St., Edinburgh EH2 2HG, UK"
+  id: ChIJn71oOpDHh0gRsGzKdafaH0g
+  name: Princes Street Gardens
+  address: 'Princes St., Edinburgh EH2 2HG, UK'
   rating: 4.7
-  userRatingsTotal: 27300
-  googleMapsUrl: "https://maps.google.com/?cid=5197112907779435696&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 27301
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5197112907779435696&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 55.9509847
   lng: -3.1985487999999997
-  phone: "+44 131 529 7921"
+  phone: +44 131 529 7921
   openingHours:
-    - "Monday: 7:00 AM – 9:35 PM"
-    - "Tuesday: 7:00 AM – 9:35 PM"
-    - "Wednesday: 7:00 AM – 9:35 PM"
-    - "Thursday: 7:00 AM – 9:35 PM"
-    - "Friday: 7:00 AM – 9:35 PM"
-    - "Saturday: 7:00 AM – 9:35 PM"
-    - "Sunday: 7:00 AM – 9:35 PM"
+    - 'Monday: 7:00 AM – 9:35 PM'
+    - 'Tuesday: 7:00 AM – 9:35 PM'
+    - 'Wednesday: 7:00 AM – 9:35 PM'
+    - 'Thursday: 7:00 AM – 9:35 PM'
+    - 'Friday: 7:00 AM – 9:35 PM'
+    - 'Saturday: 7:00 AM – 9:35 PM'
+    - 'Sunday: 7:00 AM – 9:35 PM'
   busyness:
-    updated: 2026-10-13
+    updated: 2026-10-13T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -58,24 +67,44 @@ place:
       - 17
       - 18
       - 19
-    venueId: "ven_673048616661644b7a4773526730684844704f6f31376e4a496843"
+    venueId: ven_673048616661644b7a4773526730684844704f6f31376e4a496843
 tags:
-  - "edinburgh"
-  - "park"
-quickAnswer: "Princes Street Gardens is the long green valley in central Edinburgh, between Princes Street in the New Town and the Castle Rock below Edinburgh Castle, a short walk from Waverley Station. It's quietest from 7am–10am every day and again from 8pm–9pm on weekdays. On weekends, avoid 12pm–8pm, when the lawns fill up."
+  - edinburgh
+  - park
+quickAnswer: >-
+  Princes Street Gardens is the long green valley in central Edinburgh, between
+  Princes Street in the New Town and the Castle Rock below Edinburgh Castle, a
+  short walk from Waverley Station. It's quietest from 7am–10am every day and
+  again from 8pm–9pm on weekdays. On weekends, avoid 12pm–8pm, when the lawns
+  fill up.
 faq:
-  - q: "When is the quietest time to visit Princes Street Gardens?"
-    a: "7am–10am on any day. On weekdays it's quiet again from 8pm–9pm. Avoid weekends from 12pm–8pm, the busiest period."
-  - q: "How do I get to Princes Street Gardens?"
-    a: "Waverley Station opens directly onto the East Gardens, and trams stop along Princes Street. From the Old Town, walk down the Mound or take the steps below the castle."
-  - q: "What are the opening hours?"
-    a: "At the moment the gates open 7am–9:35pm, but hours shift with the seasons and some areas close for events. Check the City of Edinburgh Council website before you go."
-  - q: "How long should I spend there?"
-    a: "Allow 1–2 hours to walk both the East and West Gardens. Add extra time if you climb the 287 steps of the Scott Monument or visit the Scottish National Gallery on the Mound."
-  - q: "What's nearby?"
-    a: "Edinburgh Castle sits directly above. The Scottish National Gallery and Royal Scottish Academy are on the Mound, St Cuthbert's Church is at the west end, and the Royal Mile is a short climb up."
+  - q: When is the quietest time to visit Princes Street Gardens?
+    a: >-
+      7am–10am on any day. On weekdays it's quiet again from 8pm–9pm. Avoid
+      weekends from 12pm–8pm, the busiest period.
+  - q: How do I get to Princes Street Gardens?
+    a: >-
+      Waverley Station opens directly onto the East Gardens, and trams stop
+      along Princes Street. From the Old Town, walk down the Mound or take the
+      steps below the castle.
+  - q: What are the opening hours?
+    a: >-
+      At the moment the gates open 7am–9:35pm, but hours shift with the seasons
+      and some areas close for events. Check the City of Edinburgh Council
+      website before you go.
+  - q: How long should I spend there?
+    a: >-
+      Allow 1–2 hours to walk both the East and West Gardens. Add extra time if
+      you climb the 287 steps of the Scott Monument or visit the Scottish
+      National Gallery on the Mound.
+  - q: What's nearby?
+    a: >-
+      Edinburgh Castle sits directly above. The Scottish National Gallery and
+      Royal Scottish Academy are on the Mound, St Cuthbert's Church is at the
+      west end, and the Royal Mile is a short climb up.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-13'
 ---
 
 ## A valley where a loch used to be

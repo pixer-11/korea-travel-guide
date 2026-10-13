@@ -1,44 +1,51 @@
 ---
 title: 'Templo de Kun Iam: Macau Peninsula Travel Guide (4.5★)'
-description: "Templo de Kun Iam, on Avenida do Coronel Mesquita in the Mong Ha area of the Macau peninsula, is a Ming-era Buddhist temple dedicated to the Goddess of Mercy. 4.5★ (353 reviews) — what visitors say, hours, and tips."
-country: "Macau"
+description: >-
+  Templo de Kun Iam, on Avenida do Coronel Mesquita in the Mong Ha area of the
+  Macau peninsula, is a Ming-era Buddhist temple dedicated to the Goddess of
+  Mercy. 4.5★ (357 reviews) — what visitors say, hours, and tips.
+country: Macau
 region: Macau Peninsula
-category: "attraction"
-pubDate: "2026-10-06T14:34:52.863Z"
+category: attraction
+pubDate: '2026-10-06T14:34:52.863Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/20250805_Templo_de_Kun_Iam_da_Taipa.jpg/3840px-20250805_Templo_de_Kun_Iam_da_Taipa.jpg"
-  credit: "Photo: Yumeto / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:20250805_Templo_de_Kun_Iam_da_Taipa.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/20250805_Templo_de_Kun_Iam_da_Taipa.jpg/3840px-20250805_Templo_de_Kun_Iam_da_Taipa.jpg
+  credit: 'Photo: Yumeto / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:20250805_Templo_de_Kun_Iam_da_Taipa.jpg
+  via: act
   focus:
     x: 50
-    y: 35
+    'y': 35
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/20260716_Templo_de_Kun_Iam.jpg/3840px-20260716_Templo_de_Kun_Iam.jpg"
-    credit: "Photo: Yumeto / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:20260716_Templo_de_Kun_Iam.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/20260716_Templo_de_Kun_Iam.jpg/3840px-20260716_Templo_de_Kun_Iam.jpg
+    credit: 'Photo: Yumeto / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:20260716_Templo_de_Kun_Iam.jpg'
 place:
-  id: "ChIJhaahDSB7ATQRNWDzzw5ulC4"
-  name: "Templo de Kun Iam"
-  address: "Macao美副將大馬路觀音堂附近"
+  id: ChIJhaahDSB7ATQRNWDzzw5ulC4
+  name: Templo de Kun Iam
+  address: Macao美副將大馬路觀音堂附近
   rating: 4.5
-  userRatingsTotal: 353
-  googleMapsUrl: "https://maps.google.com/?cid=3356428632195293237&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 357
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3356428632195293237&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.2044444
   lng: 113.55027779999999
   openingHours:
-    - "Monday: 7:00 AM – 4:00 PM"
-    - "Tuesday: 7:00 AM – 4:00 PM"
-    - "Wednesday: 7:00 AM – 4:00 PM"
-    - "Thursday: 7:00 AM – 4:00 PM"
-    - "Friday: 7:00 AM – 4:00 PM"
-    - "Saturday: 7:00 AM – 4:00 PM"
-    - "Sunday: 7:00 AM – 4:00 PM"
+    - 'Monday: 7:00 AM – 4:00 PM'
+    - 'Tuesday: 7:00 AM – 4:00 PM'
+    - 'Wednesday: 7:00 AM – 4:00 PM'
+    - 'Thursday: 7:00 AM – 4:00 PM'
+    - 'Friday: 7:00 AM – 4:00 PM'
+    - 'Saturday: 7:00 AM – 4:00 PM'
+    - 'Sunday: 7:00 AM – 4:00 PM'
   busyness:
-    updated: 2026-10-06
+    updated: 2026-10-06T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -50,24 +57,43 @@ place:
       - 12
       - 13
       - 14
-    venueId: "ven_34436c7535777a7a44574e5251544137425344686161684a496843"
+    venueId: ven_34436c7535777a7a44574e5251544137425344686161684a496843
 tags:
   - macau peninsula
   - historic site
-quickAnswer: "Templo de Kun Iam, on Avenida do Coronel Mesquita in the Mong Ha area of the Macau peninsula, is a Ming-era Buddhist temple dedicated to the Goddess of Mercy. It has three halls in a row, a back garden shaded by banyans and the stone table where the 1844 Treaty of Wangxia was signed. It's open daily from 7am to 4pm. Go between 7am and 9am on weekdays, or 7am and 8am at weekends, and skip weekends from 10am to 3pm, when it's busiest."
+quickAnswer: >-
+  Templo de Kun Iam, on Avenida do Coronel Mesquita in the Mong Ha area of the
+  Macau peninsula, is a Ming-era Buddhist temple dedicated to the Goddess of
+  Mercy. It has three halls in a row, a back garden shaded by banyans and the
+  stone table where the 1844 Treaty of Wangxia was signed. It's open daily from
+  7am to 4pm. Go between 7am and 9am on weekdays, or 7am and 8am at weekends,
+  and skip weekends from 10am to 3pm, when it's busiest.
 faq:
-  - q: "When is the quietest time to visit Templo de Kun Iam?"
-    a: "On weekdays it's quietest between 7am and 9am. At weekends, aim for 7am to 8am. Stay away on weekends from 10am to 3pm, which is the busiest stretch."
-  - q: "What are the opening hours?"
-    a: "It's open every day from 7am to 4pm, and that includes Monday. The early closing time catches out people who plan an afternoon visit."
-  - q: "How long should I spend there?"
-    a: "Allow 45 minutes to an hour for the three halls and the banyan garden. Add time if you want to try the fortune sticks or sit in the garden."
-  - q: "How do I get there?"
-    a: "The temple is on Avenida do Coronel Mesquita in the Mong Ha area of the northern peninsula. Several city buses stop at the Kun Iam Temple stop, and a taxi from Senado Square takes about ten minutes."
-  - q: "What else is nearby?"
-    a: "Lin Fung Temple, Mong Ha Hill, Lou Lim Ieoc Garden and Sun Yat-sen Memorial House are all close by. Together they make an easy half-day in northern Macau."
+  - q: When is the quietest time to visit Templo de Kun Iam?
+    a: >-
+      On weekdays it's quietest between 7am and 9am. At weekends, aim for 7am to
+      8am. Stay away on weekends from 10am to 3pm, which is the busiest stretch.
+  - q: What are the opening hours?
+    a: >-
+      It's open every day from 7am to 4pm, and that includes Monday. The early
+      closing time catches out people who plan an afternoon visit.
+  - q: How long should I spend there?
+    a: >-
+      Allow 45 minutes to an hour for the three halls and the banyan garden. Add
+      time if you want to try the fortune sticks or sit in the garden.
+  - q: How do I get there?
+    a: >-
+      The temple is on Avenida do Coronel Mesquita in the Mong Ha area of the
+      northern peninsula. Several city buses stop at the Kun Iam Temple stop,
+      and a taxi from Senado Square takes about ten minutes.
+  - q: What else is nearby?
+    a: >-
+      Lin Fung Temple, Mong Ha Hill, Lou Lim Ieoc Garden and Sun Yat-sen
+      Memorial House are all close by. Together they make an easy half-day in
+      northern Macau.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-13'
 ---
 
 ## Three halls, one goddess

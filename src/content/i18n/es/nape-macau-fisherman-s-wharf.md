@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: nape-macau-fisherman-s-wharf
-srcHash: '1cbeb2e3f92e'
+srcHash: '469b2abda49f'
 title: 'Fisherman''s Wharf de Macao: guía de viaje por NAPE (4.1★)'
-description: En la Av. Dr. Sun Yat Sen, dentro de NAPE y a poca distancia a pie de la Terminal de Ferris del Puerto Exterior, se encuentra el Fisherman's Wharf de Macao. Con 4.1★ (6,495 reseñas), le contamos qué opinan los visitantes, cuáles son sus horarios y algunos consejos prácticos.
+description: En la Av. Dr. Sun Yat Sen, dentro de NAPE y a poca distancia a pie de la Terminal de Ferris del Puerto Exterior, se encuentra el Fisherman's Wharf de Macao. Con 4.1★ (6,505 reseñas), le contamos qué opinan los visitantes, cuáles son sus horarios y algunos consejos prácticos.
 quickAnswer: En la Av. Dr. Sun Yat Sen, dentro de NAPE y a poca distancia a pie de la Terminal de Ferris del Puerto Exterior, se encuentra el Fisherman's Wharf de Macao. Su recinto al aire libre abre las 24 horas y reúne junto al puerto fachadas temáticas de inspiración europea y china, un anfiteatro de estilo romano, hoteles, un casino, tiendas y restaurantes. Calcule entre 1 y 2 horas de visita, y si quiere ver las fachadas iluminadas, llegue al atardecer.
 faq:
   - q: ¿Cómo se llega al Fisherman's Wharf de Macao desde el ferri de Hong Kong?

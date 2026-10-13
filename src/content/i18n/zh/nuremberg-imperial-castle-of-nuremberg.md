@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: nuremberg-imperial-castle-of-nuremberg
-srcHash: '9dbc422cf462'
+srcHash: '148e3ba75caf'
 title: 纽伦堡皇帝堡旅行指南（4.6★）
-description: 纽伦堡皇帝堡（Kaiserburg）位于纽伦堡老城北端的砂岩山脊上，地址为Burg 17。评分4.6★（44,072条评价），本文汇总游客评价、开放时间与实用建议。
+description: 纽伦堡皇帝堡（Kaiserburg）位于纽伦堡老城北端的砂岩山脊上，地址为Burg 17。评分4.6★（44,175条评价），本文汇总游客评价、开放时间与实用建议。
 quickAnswer: 纽伦堡皇帝堡（Kaiserburg）坐落在纽伦堡老城北端的砂岩山脊上，地址为Burg 17。工作日上午9点至11点游客最少。周一至周三城堡上午9点开门，最有机会赶上这段清静时光。周末上午11点至下午4点人最多，除了开门后的头一个小时，其余时段全部被这段高峰占满，应尽量避开。
 faq:
   - q: 什么时候去纽伦堡皇帝堡人最少？
