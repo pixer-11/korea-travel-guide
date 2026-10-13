@@ -1,5 +1,8 @@
-Places 예산: backfill 몫 19회 (오늘 사용 17/100)
-Priority: 241 itinerary stop(s) queued first
-  – tagaytay-tagaytay-city-market.md: nothing new (resting 60d)
+Places 예산: backfill 몫 25회 (오늘 사용 1/100)
+Priority: 251 itinerary stop(s) queued first
+  – naoshima-naoshima-island.md: nothing new (resting 60d)
+  – naoshima-naoshima-new-museum-of-art.md: nothing new (resting 60d)
+  – sapa-muong-hoa-valley.md: nothing new (resting 60d)
+  – munich-english-garden.md: nothing new (resting 60d)
 
-BACKFILL RESULT: updated 0, backlog-updated 0, already-complete 1412, no-new-data 655, no-place 823, closed-quarantined 0, quota-429 0, api-error 0, api-calls 1, remaining-askable 0 (APPLIED).
+BACKFILL RESULT: updated 0, backlog-updated 0, already-complete 1412, no-new-data 656, no-place 823, closed-quarantined 0, quota-429 0, api-error 0, api-calls 4, remaining-askable 0 (APPLIED).
