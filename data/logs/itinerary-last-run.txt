@@ -29,8 +29,7 @@ Busan, South Korea — 13 qualifying post(s), variants: 3
   = Busan 3d — unchanged, skipping
 
 Chicago, United States — 12 qualifying post(s), variants: 3
-  ⚠ Chicago 3d — guard found 1 hours/price + 0 rain-leak issue(s) on first pass; retrying once
-NEW_ITINERARY: Chicago 3d
+  = Chicago 3d — unchanged, skipping
 
 Dubai, United Arab Emirates — 13 qualifying post(s), variants: 3
   = Dubai 3d — unchanged, skipping
@@ -61,7 +60,7 @@ Singapore, Singapore — 78 qualifying post(s), variants: 3, 5
   = Singapore 3d — unchanged, skipping
   = Singapore 5d — unchanged, skipping
 
-Done.
+Done. Nothing changed.
 
 🗺️  Un-park: 0 republished · 0 still held
 UNPARK_SUMMARY freed=0 held=0

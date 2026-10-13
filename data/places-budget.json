@@ -1,18 +1,14 @@
 {
- "date": "2026-10-12",
- "spent": 49,
+ "date": "2026-10-13",
+ "spent": 1,
  "byJob": {
-  "publish": 7,
-  "backfill": 7,
-  "quality": 15,
-  "refresh": 20
+  "publish": 1
  },
  "search": {
-  "spent": 91,
+  "spent": 15,
   "byJob": {
-   "publish": 55,
-   "fill": 36
+   "publish": 15
   }
  },
- "updated": "2026-10-12T22:09:02.953Z"
+ "updated": "2026-10-13T07:12:35.025Z"
 }

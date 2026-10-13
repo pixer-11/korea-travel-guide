@@ -21777,6 +21777,12 @@
   "reasonKo": "산야 난산 문화관광지의 전형적 건축",
   "at": "2026-08-13T14:04:44.842Z"
  },
+ "sapa-muong-hoa-valley\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/M%C6%B0%E1%BB%9Dng_Hoa_Valley_06.jpg/3840px-M%C6%B0%E1%BB%9Dng_Hoa_Valley_06.jpg": {
+  "slug": "sapa-muong-hoa-valley",
+  "verdict": "MATCH",
+  "reason": "publish gate: Terraced valley with villages matches Mường Hoa Valley scenery",
+  "at": "2026-10-13T07:12:34.990Z"
+ },
  "sapa-sa-pa-stone-church\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Sa_Pa_Church.jpg/3840px-Sa_Pa_Church.jpg": {
   "slug": "sapa-sa-pa-stone-church",
   "verdict": "MATCH",

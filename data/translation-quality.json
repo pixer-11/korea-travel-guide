@@ -35789,5 +35789,33 @@
   "registerBreak": false,
   "worst": "오는 길에 스치는 가축 말과는 생김새가 전혀 다릅니다.",
   "at": "2026-10-12T16:52:32.381Z"
+ },
+ "es/sapa-muong-hoa-valley": {
+  "hash": "a7f1e964c58c",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-13T07:13:47.557Z"
+ },
+ "ja/sapa-muong-hoa-valley": {
+  "hash": "867d660b3efc",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-13T07:13:52.988Z"
+ },
+ "ko/sapa-muong-hoa-valley": {
+  "hash": "8d4174d98526",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이곳에서는 가이드의 유무가 큰 차이를 만듭니다.",
+  "at": "2026-10-13T07:14:04.833Z"
+ },
+ "zh/sapa-muong-hoa-valley": {
+  "hash": "938174074082",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "在这里，有没有向导差别很大：没有人带路的话，很多人会与刻得最精美的石头擦肩而过。",
+  "at": "2026-10-13T07:14:06.054Z"
  }
 }

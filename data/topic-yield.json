@@ -14,19 +14,19 @@
    "hits": 81
   },
   "viewpoint": {
-   "attempts": 68,
+   "attempts": 69,
    "hits": 9
   },
   "art gallery": {
-   "attempts": 63,
+   "attempts": 64,
    "hits": 9
   },
   "night view": {
-   "attempts": 58,
+   "attempts": 59,
    "hits": 8
   },
   "waterfront": {
-   "attempts": 47,
+   "attempts": 48,
    "hits": 5
   },
   "museum": {
@@ -34,7 +34,7 @@
    "hits": 62
   },
   "noodles": {
-   "attempts": 54,
+   "attempts": 55,
    "hits": 1
   },
   "old quarter": {
@@ -46,11 +46,11 @@
    "hits": 41
   },
   "bookshop": {
-   "attempts": 33,
+   "attempts": 34,
    "hits": 6
   },
   "seafood": {
-   "attempts": 72,
+   "attempts": 73,
    "hits": 3
   },
   "hidden gem": {
@@ -58,7 +58,7 @@
    "hits": 75
   },
   "breakfast": {
-   "attempts": 50,
+   "attempts": 51,
    "hits": 5
   },
   "trendy cafe": {
@@ -70,19 +70,19 @@
    "hits": 18
   },
   "bakery": {
-   "attempts": 41,
+   "attempts": 42,
    "hits": 3
   },
   "bar": {
-   "attempts": 38,
+   "attempts": 39,
    "hits": 0
   },
   "vegetarian": {
-   "attempts": 43,
+   "attempts": 44,
    "hits": 2
   },
   "concept cafe": {
-   "attempts": 35,
+   "attempts": 36,
    "hits": 0
   },
   "top attraction": {
@@ -90,11 +90,11 @@
    "hits": 69
   },
   "grill": {
-   "attempts": 40,
+   "attempts": 41,
    "hits": 0
   },
   "design shop": {
-   "attempts": 34,
+   "attempts": 35,
    "hits": 0
   },
   "Sisowath Quay Riverside": {
@@ -494,8 +494,8 @@
    "hits": 1
   },
   "Muong Hoa Valley": {
-   "attempts": 1,
-   "hits": 0
+   "attempts": 2,
+   "hits": 1
   },
   "Cat Cat Village": {
    "attempts": 2,
@@ -530,5 +530,5 @@
    "hits": 1
   }
  },
- "updated": "2026-10-12T10:42:45.386Z"
+ "updated": "2026-10-13T07:12:35.025Z"
 }
