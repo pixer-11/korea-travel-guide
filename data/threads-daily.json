@@ -83,30 +83,29 @@
     "berlin-neues-museum",
     "washington-dc-lincoln-memorial",
     "madrid-puerta-de-alcala",
-    "mong-kok-dim-dim-sum-mong-kok"
+    "mong-kok-dim-dim-sum-mong-kok",
+    "nagoya-asian-games-2026"
   ],
-  "lastSentDay": "2026-10-13",
+  "lastSentDay": "2026-10-14",
   "material": {
-    "day": "2026-10-13",
-    "slug": "mong-kok-dim-dim-sum-mong-kok",
-    "title": "Dim Dim Sum: Where to Eat in Mong Kok (4.0★)",
+    "day": "2026-10-14",
+    "slug": "nagoya-asian-games-2026",
+    "title": "Asian Games 2026: Dates, Tickets & Venue (Nagoya)",
     "urls": [
-      "https://wanderatlasguides.com/og/social/2026-10-13-mong-kok-dim-dim-sum-mong-kok-1.jpg",
-      "https://wanderatlasguides.com/og/social/2026-10-13-mong-kok-dim-dim-sum-mong-kok-2.jpg",
-      "https://wanderatlasguides.com/og/social/2026-10-13-mong-kok-dim-dim-sum-mong-kok-3.jpg",
-      "https://wanderatlasguides.com/og/social/2026-10-13-mong-kok-dim-dim-sum-mong-kok-4.jpg"
+      "https://wanderatlasguides.com/og/social/2026-10-14-nagoya-asian-games-2026-1.jpg",
+      "https://wanderatlasguides.com/og/social/2026-10-14-nagoya-asian-games-2026-2.jpg"
     ],
-    "igCaption": "Mong Kok's Dim Dim Sum skips the trolley-cart tradition for a fast, checklist-order dim sum spot open 10am to midnight daily. Shrimp dumplings, char siu polo buns, and egg tarts await — just don't over-order on the first round.\n\n#DimDimSumMongKok #MongKok #HongKong #foodie #travel #wanderatlas #DimSum #FoodTravel #HongKongEats #TravelGuide\n📷 Photo: FHSING MAgasdk / Wikimedia Commons (CC0)\n📷 Photo: Kaims GUW Huamf 2928 / Wikimedia Commons (CC BY-SA 4.0)",
-    "thOption": "Dim Dim Sum hands you a paper checklist and pencil instead of a waiter — would you rather tick boxes for speed or wait for someone to take your order?",
-    "link": "https://wanderatlasguides.com/posts/mong-kok-dim-dim-sum-mong-kok/"
+    "igCaption": "Nagoya is gearing up for the 20th Asian Games, September 19–October 4, 2026 — countdown clocks in shopping arcades, volunteers at the station, and a sports lineup running from swimming to sepaktakraw. Venues span all of Aichi Prefecture, so plan your transit wisely.\n\n#Nagoya #Japan #events #travel #wanderatlas #AsianGames2026 #AichiPrefecture #TravelJapan #SportsTourism\n📷 Photo: Foroogh Taherkhani / Wikimedia Commons (CC BY 4.0)",
+    "thOption": "Most visitors assume every Asian Games venue is in central Nagoya — but some events happen out in Aichi cities like Toyota or Okazaki, adding an extra hour of travel. Would you plan around that?",
+    "link": "https://wanderatlasguides.com/posts/nagoya-asian-games-2026/"
   },
   "social": {
-    "thDay": "2026-10-13",
-    "thId": "18107715131186745",
-    "igDay": "2026-10-12",
-    "igId": "17879712945553425",
-    "thSlug": "mong-kok-dim-dim-sum-mong-kok",
-    "igSlug": "madrid-puerta-de-alcala",
+    "thDay": "2026-10-14",
+    "thId": "18120828686002618",
+    "igDay": "2026-10-14",
+    "igId": "18643940287006053",
+    "thSlug": "nagoya-asian-games-2026",
+    "igSlug": "nagoya-asian-games-2026",
     "history": [
       {
         "day": "2026-10-10",
@@ -128,6 +127,12 @@
         "day": "2026-10-13",
         "slug": "mong-kok-dim-dim-sum-mong-kok",
         "thId": "18107715131186745"
+      },
+      {
+        "day": "2026-10-14",
+        "slug": "nagoya-asian-games-2026",
+        "thId": "18120828686002618",
+        "igId": "18643940287006053"
       }
     ]
   }
