@@ -35817,5 +35817,89 @@
   "registerBreak": false,
   "worst": "在这里，有没有向导差别很大：没有人带路的话，很多人会与刻得最精美的石头擦肩而过。",
   "at": "2026-10-13T07:14:06.054Z"
+ },
+ "es/adelaide-adelaide-central-market": {
+  "hash": "345792b324d8",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Después se sale por el lado de Gouger Street, una calle flanqueada de restaurantes",
+  "at": "2026-10-13T08:18:41.885Z"
+ },
+ "es/edinburgh-palace-of-holyroodhouse": {
+  "hash": "403c406e5d16",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-13T08:18:42.842Z"
+ },
+ "es/edinburgh-princes-street-gardens": {
+  "hash": "323c66c9724c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "La franja más tranquila es de 7am–10am, todos los días de la semana.",
+  "at": "2026-10-13T08:18:46.269Z"
+ },
+ "ja/adelaide-adelaide-central-market": {
+  "hash": "9623c113f56c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "南オーストラリア州でも指折りのレビュー数を誇り、評価も常に高い場所です。",
+  "at": "2026-10-13T08:18:58.422Z"
+ },
+ "ja/edinburgh-palace-of-holyroodhouse": {
+  "hash": "a8bc1f0aaebc",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "現役の議会と死火山の両方にこれほど近い王宮は、そう多くありません。",
+  "at": "2026-10-13T08:18:59.734Z"
+ },
+ "ja/edinburgh-princes-street-gardens": {
+  "hash": "821ac059fb08",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "そもそもこのあたりは駐車場がほとんどありません。",
+  "at": "2026-10-13T08:19:00.778Z"
+ },
+ "ko/adelaide-adelaide-central-market": {
+  "hash": "3bc1bd81cbff",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "눈여겨볼 만한 것은 다음과 같습니다.",
+  "at": "2026-10-13T08:19:01.950Z"
+ },
+ "ko/edinburgh-palace-of-holyroodhouse": {
+  "hash": "d39dcc7b3953",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-13T08:19:02.881Z"
+ },
+ "ko/edinburgh-princes-street-gardens": {
+  "hash": "1aa60e7bf709",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이곳을 일부러 찾아오는 목적지라기보다 지름길로 여기는 사람이 많습니다.",
+  "at": "2026-10-13T08:19:04.247Z"
+ },
+ "zh/adelaide-adelaide-central-market": {
+  "hash": "bd37b58444be",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "南澳大利亚州的各个美食产区，从市区开车都能到达，这一点在摊位上看得一清二楚。",
+  "at": "2026-10-13T08:19:06.011Z"
+ },
+ "zh/edinburgh-palace-of-holyroodhouse": {
+  "hash": "b59a69c16392",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "一座王室居所，既紧挨着正在运作的议会，又背靠一座死火山，这样的地方并不多见。",
+  "at": "2026-10-13T08:19:13.457Z"
+ },
+ "zh/edinburgh-princes-street-gardens": {
+  "hash": "f0cc10c02888",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "周末12:00–20:00最好别去。这是一天中最拥挤的时段，长椅上坐满了人，城堡下的草坪也挤满了野餐的游客。",
+  "at": "2026-10-13T08:19:14.732Z"
  }
 }

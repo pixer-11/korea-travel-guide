@@ -387,6 +387,12 @@
   "reason": "publish gate: Iconic Palm House glasshouse at Adelaide Botanic Garden",
   "at": "2026-09-28T17:03:33.169Z"
  },
+ "adelaide-adelaide-central-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Adelaide_Central_Market_building_in_Adelaide%2C_July_2026_%28028A8380%29.jpg/1920px-Adelaide_Central_Market_building_in_Adelaide%2C_July_2026_%28028A8380%29.jpg": {
+  "slug": "adelaide-adelaide-central-market",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of Federal Hall, Adelaide Central Market entrance",
+  "at": "2026-10-13T08:14:27.281Z"
+ },
  "adelaide-adelaide-himeji-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Adelaide_Himeji_Garden%2C_August_2026_%28028A9284%29.jpg/1920px-Adelaide_Himeji_Garden%2C_August_2026_%28028A9284%29.jpg": {
   "slug": "adelaide-adelaide-himeji-garden",
   "verdict": "MATCH",
@@ -7028,6 +7034,18 @@
   "reason": "publish gate: Exterior of National Museum of Scotland building, representative view",
   "at": "2026-10-12T08:03:15.529Z"
  },
+ "edinburgh-palace-of-holyroodhouse\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Holyrood_Palace_-_aerial_-_2025-04-19_01_%28cropped%29.jpg/1920px-Holyrood_Palace_-_aerial_-_2025-04-19_01_%28cropped%29.jpg": {
+  "slug": "edinburgh-palace-of-holyroodhouse",
+  "verdict": "MATCH",
+  "reason": "publish gate: Aerial view of Holyroodhouse palace, representative exterior shot",
+  "at": "2026-10-13T08:14:26.942Z"
+ },
+ "edinburgh-princes-street-gardens\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Edinburgh_-_Princes_Street_Gardens_%2849944531007%29.jpg/3840px-Edinburgh_-_Princes_Street_Gardens_%2849944531007%29.jpg": {
+  "slug": "edinburgh-princes-street-gardens",
+  "verdict": "MATCH",
+  "reason": "publish gate: Park pathway with gardens, flowers, visitors, matches location",
+  "at": "2026-10-13T08:14:27.175Z"
+ },
  "edinburgh-royal-mile\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/High_Street%2C_Edinburgh.JPG/1920px-High_Street%2C_Edinburgh.JPG": {
   "slug": "edinburgh-royal-mile",
   "verdict": "MATCH",
@@ -7838,6 +7856,12 @@
   "reason": "publish gate: Exterior storefront clearly showing Cafe Gandolfi signage and entrance",
   "at": "2026-10-01T14:57:09.612Z"
  },
+ "glasgow-glasgow-botanic-gardens\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Glasgow_Botanic_Gardens_%2851131796638%29.jpg/3840px-Glasgow_Botanic_Gardens_%2851131796638%29.jpg": {
+  "slug": "glasgow-glasgow-botanic-gardens",
+  "verdict": "MATCH",
+  "reason": "publish gate: Park path with trees and lawns, plausible botanic gardens view",
+  "at": "2026-10-13T08:14:27.197Z"
+ },
  "glasgow-kelvingrove-art-gallery-and-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Kelvingrove_Art_Gallery_and_Museum_-_aerial_-_2025-04-17.jpg/1920px-Kelvingrove_Art_Gallery_and_Museum_-_aerial_-_2025-04-17.jpg": {
   "slug": "glasgow-kelvingrove-art-gallery-and-museum",
   "verdict": "MATCH",
@@ -7855,6 +7879,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Exterior of Riverside Museum, recognisable zigzag facade",
   "at": "2026-09-30T14:10:00.955Z"
+ },
+ "glasgow-the-glasgow-necropolis\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Glasgow_Necropolis_-_aerial_-_2025-04-17_01.jpg/1920px-Glasgow_Necropolis_-_aerial_-_2025-04-17_01.jpg": {
+  "slug": "glasgow-the-glasgow-necropolis",
+  "verdict": "MATCH",
+  "reason": "publish gate: Aerial view of Glasgow Necropolis with monuments and city backdrop",
+  "at": "2026-10-13T08:14:27.132Z"
  },
  "goa-fort-aguada\u0001https://upload.wikimedia.org/wikipedia/commons/a/ad/Fort_aguada.jpg": {
   "slug": "goa-fort-aguada",
@@ -8959,6 +8989,12 @@
   "reason": "publish gate: Plausible square in Heidelberg with fountain and buildings",
   "at": "2026-10-03T07:52:31.834Z"
  },
+ "heidelberg-kornmarkt\u0001https://upload.wikimedia.org/wikipedia/commons/e/e4/Kornmarkt_Heidelberg.jpg": {
+  "slug": "heidelberg-kornmarkt",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Kornmarkt square with fountain statue and surrounding buildings",
+  "at": "2026-10-13T08:14:27.259Z"
+ },
  "heidelberg-kulturbrauerei-heidelberg\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/The_Ritter_%28Knight%29_on_the_Kulturbrauerei_%2C_Heidelberg%2C_Baden-Wurttemberg%2C_Germany_-_panoramio.jpg/3840px-The_Ritter_%28Knight%29_on_the_Kulturbrauerei_%2C_Heidelberg%2C_Baden-Wurttemberg%2C_Germany_-_panoramio.jpg": {
   "slug": "heidelberg-kulturbrauerei-heidelberg",
   "verdict": "MATCH",
@@ -8970,6 +9006,18 @@
   "verdict": "MATCH",
   "reason": "publish gate: Museum artwork/relief display, representative of museum exhibits",
   "at": "2026-10-12T08:03:15.472Z"
+ },
+ "heidelberg-old-bridge-heidelberg\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Old_Bridge_%28Heidelberg%29_from_Philosophenweg_Night_Aug_2020_brighter.jpg/3840px-Old_Bridge_%28Heidelberg%29_from_Philosophenweg_Night_Aug_2020_brighter.jpg": {
+  "slug": "heidelberg-old-bridge-heidelberg",
+  "verdict": "MATCH",
+  "reason": "publish gate: Aerial night view of Old Bridge Heidelberg over river",
+  "at": "2026-10-13T08:14:26.904Z"
+ },
+ "heidelberg-schlossgarten-heidelberg\u0001https://upload.wikimedia.org/wikipedia/commons/2/2b/Heidelberg_-_Schlossgarten-001.JPG": {
+  "slug": "heidelberg-schlossgarten-heidelberg",
+  "verdict": "MATCH",
+  "reason": "publish gate: Garden lawn and trees plausible for Schlossgarten Heidelberg",
+  "at": "2026-10-13T08:14:27.153Z"
  },
  "heidelberg-vetter-s-alt-heidelberger-brauhaus\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Vetter%27s_Alt_Heidelberger_Brauhaus_%2855058224681%29.jpg/3840px-Vetter%27s_Alt_Heidelberger_Brauhaus_%2855058224681%29.jpg": {
   "slug": "heidelberg-vetter-s-alt-heidelberger-brauhaus",
@@ -17150,6 +17198,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Exterior facade of Alte Pinakothek museum, representative view",
   "at": "2026-10-04T13:28:47.843Z"
+ },
+ "munich-alter-hof\u0001https://upload.wikimedia.org/wikipedia/commons/b/b8/Alter_Hof_%28Munich%29_-_panoramio.jpg": {
+  "slug": "munich-alter-hof",
+  "verdict": "MATCH",
+  "reason": "publish gate: Nighttime courtyard archway plausible for Alter Hof hero",
+  "at": "2026-10-13T08:14:27.112Z"
  },
  "munich-deutsches-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Deutsches_Museum_Portrait_4.jpg/1920px-Deutsches_Museum_Portrait_4.jpg": {
   "slug": "munich-deutsches-museum",
@@ -26279,6 +26333,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows Teshima Art Museum's distinctive white curved exterior",
   "at": "2026-10-12T07:07:46.901Z"
+ },
+ "teshima-teshima-yokoo-house\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Teshima_Yokoo_House_2025.jpg/1920px-Teshima_Yokoo_House_2025.jpg": {
+  "slug": "teshima-teshima-yokoo-house",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Teshima Yokoo House exterior with distinctive tower",
+  "at": "2026-10-13T08:14:27.220Z"
  },
  "tioman-tioman-island\u0001https://upload.wikimedia.org/wikipedia/commons/d/d5/Tioman_island_%283679435126%29.jpg": {
   "slug": "tioman-tioman-island",
