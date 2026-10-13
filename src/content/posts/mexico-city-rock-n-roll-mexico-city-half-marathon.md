@@ -15,7 +15,6 @@ eventOrganizer:
 eventOffers:
   url: https://www.runrocknroll.com/events/mexico-city/register
 eventFactsAsked: true
-gallery: []
 tags:
   - mexico city
   - event
@@ -33,6 +32,14 @@ faq:
     a: There is a post-race concert near the finish, and Chapultepec Park, the National Museum of Anthropology and the Centro Histórico are all close to Reforma for the rest of the day.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/a/ac/Mexico_City_Marathon_2018.jpg
+  credit: 'Photo: Cocu15 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Mexico_City_Marathon_2018.jpg
+  focus:
+    x: 50
+    'y': 55
 ---
 
 Paseo de la Reforma is a wide boulevard lined with jacarandas, glass towers and traffic circles, and each one has a monument at its centre. On Sunday, December 13, 2026, the Rock 'n' Roll Running Series closes it to cars for a half marathon and a 10K. Bands play beside the course and a concert follows the finish.

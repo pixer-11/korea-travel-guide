@@ -7976,8 +7976,8 @@
  "goyang-charlie-puth-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Charlie_Puth%2C_Regency_Ballroom%2C_San_Francisco_%28Nine_Track_Mind_Tour%29_2.jpg/3840px-Charlie_Puth%2C_Regency_Ballroom%2C_San_Francisco_%28Nine_Track_Mind_Tour%29_2.jpg": {
   "slug": "goyang-charlie-puth-concert",
   "verdict": "MATCH",
-  "reason": "patrol replace: Performer on stage at concert venue",
-  "at": "2026-10-12T00:32:26.607Z"
+  "reason": "patrol replace: Performer on stage at concert event",
+  "at": "2026-10-13T01:34:05.919Z"
  },
  "goyang-charlie-puth-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Charlie_Puth_al_Poble_Espanyol_%2857304%29.jpg/3840px-Charlie_Puth_al_Poble_Espanyol_%2857304%29.jpg": {
   "slug": "goyang-charlie-puth-concert",
@@ -14376,8 +14376,8 @@
  "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Alvaro_Bautista-motogp-2015.JPG/3840px-Alvaro_Bautista-motogp-2015.JPG": {
   "slug": "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia",
   "verdict": "MATCH",
-  "reason": "patrol replace: MotoGP rider on racing bike, pit garage setting",
-  "at": "2026-10-12T00:36:37.562Z"
+  "reason": "patrol replace: MotoGP rider and bike at circuit garage",
+  "at": "2026-10-13T01:35:37.851Z"
  },
  "lombok-mount-rinjani-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Lembah_Torean_Rinjani.jpg/1920px-Lembah_Torean_Rinjani.jpg": {
   "slug": "lombok-mount-rinjani-national-park",
@@ -16390,6 +16390,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Unrelated people with umbrella, not marathon related",
   "at": "2026-10-12T22:15:38.277Z"
+ },
+ "mexico-city-rock-n-roll-mexico-city-half-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/a/ac/Mexico_City_Marathon_2018.jpg": {
+  "slug": "mexico-city-rock-n-roll-mexico-city-half-marathon",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Half marathon race at Mexico City venue with mural",
+  "at": "2026-10-13T01:37:27.609Z"
  },
  "mexico-city-rock-n-roll-mexico-city-half-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/d/dd/Rock_Marathon%2C_Koryazhma_19.08.2012_%2801%29.JPG": {
   "slug": "mexico-city-rock-n-roll-mexico-city-half-marathon",
@@ -19618,6 +19624,18 @@
   "verdict": "MATCH",
   "reason": "patrol replace: Live band performance on stage with professional lighting",
   "at": "2026-10-11T23:06:25.380Z"
+ },
+ "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/5_Seconds_of_Summer_in_Hyde_Park%2C_Sydney.jpg/3840px-5_Seconds_of_Summer_in_Hyde_Park%2C_Sydney.jpg": {
+  "slug": "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Outdoor park gathering, not concert venue interior",
+  "at": "2026-10-13T01:38:04.400Z"
+ },
+ "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/5_Seconds_of_Summer_First_USA_Acoustic_IMG_3798_%2814848886021%29.jpg/3840px-5_Seconds_of_Summer_First_USA_Acoustic_IMG_3798_%2814848886021%29.jpg": {
+  "slug": "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Performer on stage at concert event",
+  "at": "2026-10-13T01:38:07.393Z"
  },
  "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/5_Seconds_of_Summer_First_USA_Acoustic_IMG_3665_%2814665446017%29.jpg/3840px-5_Seconds_of_Summer_First_USA_Acoustic_IMG_3665_%2814665446017%29.jpg": {
   "slug": "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour",
