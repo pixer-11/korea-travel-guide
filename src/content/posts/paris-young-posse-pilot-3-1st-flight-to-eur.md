@@ -30,6 +30,14 @@ faq:
     a: The streets between Place de Clichy and Saint-Georges have many brasseries and bars. Galeries Lafayette and the Palais Garnier are about fifteen minutes' walk south, and Pigalle and Montmartre are uphill to the east.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Casino-de-Paris.jpg/3840px-Casino-de-Paris.jpg
+  credit: 'Photo: Tangopaso / Wikimedia Commons (Public domain)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Casino-de-Paris.jpg
+  focus:
+    x: 40
+    'y': 35
 ---
 
 ## A K-pop crew in a Belle Époque music hall

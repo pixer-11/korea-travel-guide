@@ -1503,6 +1503,12 @@
   "reason": "publish gate: Museum gallery interior with artworks, plausible for Museum Pasifika",
   "at": "2026-08-25T08:16:55.850Z"
  },
+ "bali-oryn\u0001https://fastly.4sqi.net/img/general/original/1359882174_gsIjwPKeTYupo5Ut17ngfpZsooDuBVRqKpuI5ep-FAg.jpg": {
+  "slug": "bali-oryn",
+  "verdict": "MATCH",
+  "reason": "width upgrade: Real table setting with dishes at actual restaurant venue",
+  "at": "2026-10-14T22:42:41.026Z"
+ },
  "bali-oryn\u0001https://fastly.4sqi.net/img/general/original/570091919_DhAaLuGSbvA6FYTR1P6Cymd8wdOpgo3S--85nbYDtQQ.jpg": {
   "slug": "bali-oryn",
   "verdict": "MATCH",
@@ -8066,8 +8072,8 @@
  "goyang-charlie-puth-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Charlie_Puth%2C_Regency_Ballroom%2C_San_Francisco_%28Nine_Track_Mind_Tour%29_2.jpg/3840px-Charlie_Puth%2C_Regency_Ballroom%2C_San_Francisco_%28Nine_Track_Mind_Tour%29_2.jpg": {
   "slug": "goyang-charlie-puth-concert",
   "verdict": "MATCH",
-  "reason": "patrol replace: Performer on stage at concert event",
-  "at": "2026-10-13T01:34:05.919Z"
+  "reason": "patrol replace: Performer on stage at concert venue",
+  "at": "2026-10-14T22:32:31.645Z"
  },
  "goyang-charlie-puth-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Charlie_Puth_al_Poble_Espanyol_%2857304%29.jpg/3840px-Charlie_Puth_al_Poble_Espanyol_%2857304%29.jpg": {
   "slug": "goyang-charlie-puth-concert",
@@ -14490,8 +14496,8 @@
  "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Alvaro_Bautista-motogp-2015.JPG/3840px-Alvaro_Bautista-motogp-2015.JPG": {
   "slug": "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia",
   "verdict": "MATCH",
-  "reason": "patrol replace: MotoGP rider and bike at circuit garage",
-  "at": "2026-10-13T01:35:37.851Z"
+  "reason": "patrol replace: MotoGP rider at circuit garage during event",
+  "at": "2026-10-14T22:34:48.370Z"
  },
  "lombok-mount-rinjani-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Lembah_Torean_Rinjani.jpg/1920px-Lembah_Torean_Rinjani.jpg": {
   "slug": "lombok-mount-rinjani-national-park",
@@ -19715,6 +19721,12 @@
   "reason": "hand-reviewed: Young Fathers, not Young Posse",
   "at": "2026-10-12T02:00:45.635Z"
  },
+ "paris-young-posse-pilot-3-1st-flight-to-eur\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Neil_Young_long_view.jpg/3840px-Neil_Young_long_view.jpg": {
+  "slug": "paris-young-posse-pilot-3-1st-flight-to-eur",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Outdoor festival crowd, not Casino de Paris venue",
+  "at": "2026-10-14T22:37:14.356Z"
+ },
  "paris-young-posse-pilot-3-1st-flight-to-eur\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Young_Oceans_Live_in_Concert_2018.jpg/3840px-Young_Oceans_Live_in_Concert_2018.jpg": {
   "slug": "paris-young-posse-pilot-3-1st-flight-to-eur",
   "verdict": "MISMATCH",
@@ -19726,6 +19738,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: identity: Commons places this in United Kingdom, post says France",
   "at": "2026-10-13T23:28:31.359Z"
+ },
+ "paris-young-posse-pilot-3-1st-flight-to-eur\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Casino-de-Paris.jpg/3840px-Casino-de-Paris.jpg": {
+  "slug": "paris-young-posse-pilot-3-1st-flight-to-eur",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Casino de Paris building exterior, correct venue.",
+  "at": "2026-10-14T22:37:17.313Z"
  },
  "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/2/27/5_Seconds_of_Summer_2014.jpg": {
   "slug": "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour",
@@ -19768,6 +19786,12 @@
   "verdict": "MATCH",
   "reason": "patrol replace: Live band performance in concert venue setting",
   "at": "2026-10-12T00:40:23.247Z"
+ },
+ "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/5_Seconds_of_Summer_First_USA_Acoustic_IMG_3804_%2814665410807%29.jpg/3840px-5_Seconds_of_Summer_First_USA_Acoustic_IMG_3804_%2814665410807%29.jpg": {
+  "slug": "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Concert performer on stage, plausibly 5SOS act",
+  "at": "2026-10-14T22:37:56.111Z"
  },
  "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/5_Seconds_of_Summer_First_USA_Acoustic_IMG_3668_%2814851973025%29.jpg/3840px-5_Seconds_of_Summer_First_USA_Acoustic_IMG_3668_%2814851973025%29.jpg": {
   "slug": "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour",

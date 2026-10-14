@@ -10,6 +10,14 @@ eventEndDate: '2026-11-01'
 eventRecurring: true
 eventVenue: QSNCC
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wat_Pariwat_Ratchasongkram_ubosot_Bangkok_Thailand_by_Don_Ramey_Logan.jpg/3840px-Wat_Pariwat_Ratchasongkram_ubosot_Bangkok_Thailand_by_Don_Ramey_Logan.jpg'
+  credit: 'Photo: Don Ramey Logan / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Wat_Pariwat_Ratchasongkram_ubosot_Bangkok_Thailand_by_Don_Ramey_Logan.jpg'
+  focus:
+    x: 50
+    y: 40
 tags:
   - bangkok
   - event

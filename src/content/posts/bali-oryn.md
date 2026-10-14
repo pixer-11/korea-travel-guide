@@ -6,7 +6,7 @@ region: Bali
 category: restaurant
 pubDate: '2026-07-29'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/570091919_DhAaLuGSbvA6FYTR1P6Cymd8wdOpgo3S--85nbYDtQQ.jpg
+  url: https://fastly.4sqi.net/img/general/original/1359882174_gsIjwPKeTYupo5Ut17ngfpZsooDuBVRqKpuI5ep-FAg.jpg
   credit: 'Photo: Foursquare user content (ORYn Bali)'
   license: foursquare
   source: https://foursquare.com/v/6a12bec338711d67b6f7ef2c
