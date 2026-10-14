@@ -34901,13 +34901,6 @@
   "worst": "천장 구조 자체에 자연스럽게 녹아들어 있습니다.",
   "at": "2026-10-12T10:43:33.226Z"
  },
- "ko/istanbul-akbank-jazz-festival": {
-  "hash": "b92ec99a1d12",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "매일 이어지는 프로그램이라기보다는 저녁 시간대를 중심으로 공연이 배치됩니다.",
-  "at": "2026-10-12T10:43:34.375Z"
- },
  "ko/istanbul-babylon-soundgarden-2026-featuring-jack-white-wet-leg-the-kills": {
   "hash": "8b343607d3da",
   "score": 1,
@@ -35922,5 +35915,89 @@
   "registerBreak": false,
   "worst": "",
   "at": "2026-10-13T09:07:31.803Z"
+ },
+ "es/adelaide-adelaide-gaol": {
+  "hash": "2774d3d91bea",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Actualmente la cárcel abre de 10am–4pm, los siete días de la semana.",
+  "at": "2026-10-14T07:53:13.273Z"
+ },
+ "es/belfast-st-george-s-market": {
+  "hash": "e3aef1650f9d",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-14T07:52:05.118Z"
+ },
+ "es/birmingham-victoria-square": {
+  "hash": "c224d047ddbb",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Colóquese entre las columnas del Town Hall y mire hacia atrás, New Street abajo.",
+  "at": "2026-10-14T07:52:09.520Z"
+ },
+ "ja/adelaide-adelaide-gaol": {
+  "hash": "b27252c8a367",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "開館直後に入れば、たいていは昼以降にやって来る学校の団体やツアー客より先に見て回れます。",
+  "at": "2026-10-14T07:52:12.213Z"
+ },
+ "ja/belfast-st-george-s-market": {
+  "hash": "b826d7230aef",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "この建物は、一時は失われかけていました。20世紀後半には荒れ果てていましたが、1999年に修復が完了して再び使われるようになりました。",
+  "at": "2026-10-14T07:52:14.227Z"
+ },
+ "ja/birmingham-victoria-square": {
+  "hash": "f7033dcd6c03",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "広場が女王の名で呼ばれるようになったのは、女王が亡くなった1901年のことです。",
+  "at": "2026-10-14T07:52:17.752Z"
+ },
+ "ko/adelaide-adelaide-gaol": {
+  "hash": "c19935919723",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "애들레이드 감옥이 처음 죄수를 받은 해는 1841년으로, 식민지가 세워진 지 겨우 5년 뒤였습니다.",
+  "at": "2026-10-14T07:52:19.660Z"
+ },
+ "ko/belfast-st-george-s-market": {
+  "hash": "ba213af63322",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "저희가 수집한 유동 인구 데이터를 보면 주말에는 오전 9시부터 오후 3시까지 붐빕니다.",
+  "at": "2026-10-14T07:52:21.716Z"
+ },
+ "ko/birmingham-victoria-square": {
+  "hash": "6c0e48942aac",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "광장이 보행자 전용 공간으로 바뀐 1993년에 설치된 드루바 미스트리의 작품 *강*입니다.",
+  "at": "2026-10-14T07:52:32.200Z"
+ },
+ "zh/adelaide-adelaide-gaol": {
+  "hash": "f37e6419ba6f",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "此后它一直运营到1988年，在澳大利亚持续使用时间最长的监狱中名列前茅。",
+  "at": "2026-10-14T07:52:37.459Z"
+ },
+ "zh/belfast-st-george-s-market": {
+  "hash": "c7812853b308",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "相当于周六的整个营业时段，周日更是每个小时都在高峰里，所以周末什么时候来都要做好人多的准备",
+  "at": "2026-10-14T07:52:38.841Z"
+ },
+ "zh/birmingham-victoria-square": {
+  "hash": "4c3f4a48d5fc",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "用这种幽默谈论公共艺术，本身就是这座城市的说话方式。",
+  "at": "2026-10-14T07:52:39.982Z"
  }
 }

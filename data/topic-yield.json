@@ -38,19 +38,19 @@
    "hits": 1
   },
   "old quarter": {
-   "attempts": 125,
-   "hits": 54
+   "attempts": 134,
+   "hits": 60
   },
   "local market": {
-   "attempts": 118,
-   "hits": 42
+   "attempts": 124,
+   "hits": 46
   },
   "bookshop": {
    "attempts": 34,
    "hits": 6
   },
   "seafood": {
-   "attempts": 84,
+   "attempts": 85,
    "hits": 3
   },
   "hidden gem": {
@@ -82,7 +82,7 @@
    "hits": 2
   },
   "concept cafe": {
-   "attempts": 36,
+   "attempts": 37,
    "hits": 0
   },
   "top attraction": {
@@ -530,5 +530,5 @@
    "hits": 1
   }
  },
- "updated": "2026-10-13T15:13:05.905Z"
+ "updated": "2026-10-14T07:48:34.010Z"
 }

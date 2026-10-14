@@ -393,6 +393,12 @@
   "reason": "publish gate: Exterior of Federal Hall, Adelaide Central Market entrance",
   "at": "2026-10-13T08:14:27.281Z"
  },
+ "adelaide-adelaide-gaol\u0001https://upload.wikimedia.org/wikipedia/commons/1/1e/Adelaide_Gaol_main_door.JPG": {
+  "slug": "adelaide-adelaide-gaol",
+  "verdict": "MATCH",
+  "reason": "publish gate: Iconic entrance gate of Adelaide Gaol, recognizable facade",
+  "at": "2026-10-14T07:48:33.738Z"
+ },
  "adelaide-adelaide-himeji-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Adelaide_Himeji_Garden%2C_August_2026_%28028A9284%29.jpg/1920px-Adelaide_Himeji_Garden%2C_August_2026_%28028A9284%29.jpg": {
   "slug": "adelaide-adelaide-himeji-garden",
   "verdict": "MATCH",
@@ -3255,6 +3261,12 @@
   "reason": "publish gate: Mural-covered dividing wall matches Belfast peace wall imagery",
   "at": "2026-10-10T07:42:43.473Z"
  },
+ "belfast-st-george-s-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/St_Georges_Market%2C_Belfast%2C_July_2010_%2802%29.JPG/1920px-St_Georges_Market%2C_Belfast%2C_July_2010_%2802%29.JPG": {
+  "slug": "belfast-st-george-s-market",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior entrance of St George's Market building, Belfast",
+  "at": "2026-10-14T07:48:33.809Z"
+ },
  "belfast-the-dome\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/The_Dome%2C_Victoria_Square%2C_Belfast_06.jpg/3840px-The_Dome%2C_Victoria_Square%2C_Belfast_06.jpg": {
   "slug": "belfast-the-dome",
   "verdict": "MATCH",
@@ -3669,6 +3681,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows temple gopuram architecture matching Hindu temple venue type",
   "at": "2026-10-10T07:42:43.450Z"
+ },
+ "birmingham-victoria-square\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Council_House%2C_Victoria_Square%2C_Birmingham_-_July_2022.jpg/3840px-Council_House%2C_Victoria_Square%2C_Birmingham_-_July_2022.jpg": {
+  "slug": "birmingham-victoria-square",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Victoria Square buildings and plaza in Birmingham",
+  "at": "2026-10-14T07:48:33.884Z"
  },
  "bocaue-post-malone-live-in-manila\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Post_Malone_%2828688652561%29.jpg/3840px-Post_Malone_%2828688652561%29.jpg": {
   "slug": "bocaue-post-malone-live-in-manila",
@@ -4718,6 +4736,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Interior with distinctive angular architecture matching the museum",
   "at": "2026-09-30T14:19:42.289Z"
+ },
+ "canberra-old-bus-depot-markets\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Old_Bus_Depot_Market_September_2024.jpg/3840px-Old_Bus_Depot_Market_September_2024.jpg": {
+  "slug": "canberra-old-bus-depot-markets",
+  "verdict": "MATCH",
+  "reason": "publish gate: Interior market hall with stalls, representative of venue",
+  "at": "2026-10-14T07:48:33.781Z"
  },
  "canberra-old-parliament-house\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Old_and_new_Parliament_Houses%3B_Canberra_Australia.jpg/3840px-Old_and_new_Parliament_Houses%3B_Canberra_Australia.jpg": {
   "slug": "canberra-old-parliament-house",
@@ -6580,6 +6604,12 @@
   "reason": "publish gate: Representative view of Zwinger courtyard with fountains",
   "at": "2026-10-02T14:07:55.421Z"
  },
+ "dresden-dresdner-striezelmarkt\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Dresdner_Striezelmarkt_2011.jpg/3840px-Dresdner_Striezelmarkt_2011.jpg": {
+  "slug": "dresden-dresdner-striezelmarkt",
+  "verdict": "MATCH",
+  "reason": "publish gate: Iconic entrance gate of Dresden Christmas market",
+  "at": "2026-10-14T07:48:33.908Z"
+ },
  "dresden-german-hygiene-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Deutsches_Hygienemuseum%2C_mit_Plastik_Ballwerfer_von_Richard_Daniel_Fabricius-9716.jpg/1920px-Deutsches_Hygienemuseum%2C_mit_Plastik_Ballwerfer_von_Richard_Daniel_Fabricius-9716.jpg": {
   "slug": "dresden-german-hygiene-museum",
   "verdict": "MATCH",
@@ -7985,6 +8015,12 @@
   "reason": "publish gate: Shows Natural Bridge cave, waterfall, and rock pool",
   "at": "2026-09-28T16:47:24.573Z"
  },
+ "gold-coast-skypoint-observation-deck\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Skypoint_Observation_Deck_6.jpg/3840px-Skypoint_Observation_Deck_6.jpg": {
+  "slug": "gold-coast-skypoint-observation-deck",
+  "verdict": "MATCH",
+  "reason": "publish gate: Interior view of observation deck's glass and steel structure",
+  "at": "2026-10-14T07:48:33.972Z"
+ },
  "gold-coast-snapper-rocks\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Snapper-rocks-hi-res.jpg/1920px-Snapper-rocks-hi-res.jpg": {
   "slug": "gold-coast-snapper-rocks",
   "verdict": "MATCH",
@@ -8200,6 +8236,12 @@
   "verdict": "MATCH",
   "reason": "patrol replace: Fine dining plating, modern kitchen, Guadalajara style",
   "at": "2026-10-05T21:33:26.955Z"
+ },
+ "guadalajara-centro-historico-de-guadalajara\u0001https://upload.wikimedia.org/wikipedia/commons/e/e0/Centro_hist%C3%B3rico_de_Guadalajara_%28Jalisco%29.jpg": {
+  "slug": "guadalajara-centro-historico-de-guadalajara",
+  "verdict": "MATCH",
+  "reason": "publish gate: Historic street with ornate building, representative of Centro Histórico Guadalajara",
+  "at": "2026-10-14T07:48:33.933Z"
  },
  "guadalajara-fiestas-de-octubre-guadalajara\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fiestas_de_Octubre_2018%2C_presentaci%C3%B3n_de_Paquita_la_del_Barrio.jpg/3840px-Fiestas_de_Octubre_2018%2C_presentaci%C3%B3n_de_Paquita_la_del_Barrio.jpg": {
   "slug": "guadalajara-fiestas-de-octubre-guadalajara",
@@ -16288,6 +16330,18 @@
   "verdict": "MATCH",
   "reason": "event publish gate: Shows MCG stadium, the event's venue",
   "at": "2026-10-08T01:26:46.853Z"
+ },
+ "melbourne-queen-victoria-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Aerial_photograph_of_Queen_Victoria_Market.jpg/1920px-Aerial_photograph_of_Queen_Victoria_Market.jpg": {
+  "slug": "melbourne-queen-victoria-market",
+  "verdict": "MATCH",
+  "reason": "publish gate: Aerial view of market sheds and parking matches venue",
+  "at": "2026-10-14T07:48:33.859Z"
+ },
+ "merida-arco-de-san-juan\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Arco_de_San_Juan%2C_M%C3%A9rida%2C_Yucat%C3%A1n_%2802%29.JPG/3840px-Arco_de_San_Juan%2C_M%C3%A9rida%2C_Yucat%C3%A1n_%2802%29.JPG": {
+  "slug": "merida-arco-de-san-juan",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows the arch itself with surrounding street, representative view",
+  "at": "2026-10-14T07:48:33.995Z"
  },
  "merida-dzibilchaltun\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Dzibilchaltun%2C_Temple_of_the_Seven_Dolls_%2814363090911%29.jpg/1920px-Dzibilchaltun%2C_Temple_of_the_Seven_Dolls_%2814363090911%29.jpg": {
   "slug": "merida-dzibilchaltun",
@@ -27199,6 +27253,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Authentic taqueria food trays, representative of venue type",
   "at": "2026-10-04T13:45:19.416Z"
+ },
+ "tulum-templo-del-dios-del-viento\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Templo_del_Dios_del_Viento.jpg/3840px-Templo_del_Dios_del_Viento.jpg": {
+  "slug": "tulum-templo-del-dios-del-viento",
+  "verdict": "MATCH",
+  "reason": "publish gate: Tulum Maya ruins on cliff overlooking turquoise Caribbean sea",
+  "at": "2026-10-14T07:48:33.835Z"
  },
  "tulum-tulum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Tulum_2.jpg/1920px-Tulum_2.jpg": {
   "slug": "tulum-tulum",
