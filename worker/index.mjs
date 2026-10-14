@@ -393,6 +393,18 @@ async function handleSubscribe(request, env) {
 // bad; a dead "Where to stay" button on every guide is worse.
 const TP_KLOOK_SHORTLINK = 'https://klook.tpx.lv/2NXPH8MA';
 
+// Since 2026-10-13 the short link answers 403 to a request with no User-Agent
+// (or curl's), and a Worker's fetch sends none — so every click fell through to
+// the token-less fallback: Klook still opened, nothing could be credited
+// (affiliate status check, 10-13 and 10-14). The click is the reader's, so the
+// reader's own User-Agent goes with it; a bot's UA is refused upstream, which
+// keeps crawler hits out of the click count. Only a request with no UA at all
+// gets ours, which the short link accepts (checked 10-14).
+const RELAY_UA = 'Mozilla/5.0 (compatible; WanderAtlasRelay/1.0; +https://wanderatlasguides.com)';
+export function relayUserAgent(request) {
+  return request?.headers?.get('user-agent') || RELAY_UA;
+}
+
 // WHICH page sent the reader here, as a Travelpayouts SubID.
 //
 // Measured 94 affiliate clicks and 0 bookings, with no way to tell which page
@@ -456,7 +468,7 @@ async function handleKlookGo(request) {
     // documented behaviour is that it is stored server-side, and it shows up
     // under Reports → Performance rather than in the redirect.
     const shortLink = subId ? `${TP_KLOOK_SHORTLINK}?sub_id=${subId}` : TP_KLOOK_SHORTLINK;
-    const res = await fetch(shortLink, { redirect: 'manual' });
+    const res = await fetch(shortLink, { redirect: 'manual', headers: { 'User-Agent': relayUserAgent(request) } });
     const loc = res.headers.get('location') || '';
     const aid = new URL(loc).searchParams.get('aid');
     // A token-bearing aid looks like api|13694|<hex>-754088|pid|754088. An empty

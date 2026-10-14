@@ -44,7 +44,7 @@ t('실제 TP 응답에서 토큰을 뽑아낸다', async () => {
   // 워크플로를 무시하게 된다. 형식 확인이 필요할 때 NET=1 로 켠다.
   if (process.env.NET !== '1') return 'SKIP(NET=1 로 실행하면 실제 호출)';
   let res;
-  try { res = await fetch('https://klook.tpx.lv/2NXPH8MA', { redirect: 'manual' }); }
+  try { res = await fetch('https://klook.tpx.lv/2NXPH8MA', { redirect: 'manual', headers: { 'User-Agent': 'Mozilla/5.0 (compatible; WanderAtlasRelay/1.0; +https://wanderatlasguides.com)' } }); }
   catch (e) { return `SKIP(네트워크): ${e.message.slice(0, 40)}`; }
   const loc = res.headers.get('location') || '';
   if (!loc) return 'TP 가 Location 헤더를 주지 않음';
@@ -53,10 +53,25 @@ t('실제 TP 응답에서 토큰을 뽑아낸다', async () => {
   return /\|13694\|[0-9a-f]{8,}-/.test(aid) ? null : `토큰 없는 aid: ${aid}`;
 });
 
+t('단축 링크 호출에 User-Agent 를 싣는다', () => {
+  // 10-13부터 TP 단축 링크가 UA 없는 요청을 403 으로 막는다. 워커 fetch 는
+  // UA 를 안 보내므로, 빠지면 모든 클릭이 토큰 없는 폴백으로 간다.
+  const ok = /fetch\(shortLink, \{[^}]*headers: \{ 'User-Agent': relayUserAgent\(request\) \}/.test(src);
+  return ok ? null : '단축 링크 fetch 에 User-Agent 가 없음';
+});
+
 // ── SubID: 어느 페이지가 이 클릭을 만들었는가 ────────────────
 // 클릭 94건 / 예약 0건인데 어느 페이지 몫인지 알 길이 없었다. Referer 로
 // 출처를 알아내 sub_id 로 넘긴다 — 헤더는 조작 가능하므로 정규화가 방어선이다.
-const { subIdFromReferer } = await import('./index.mjs');
+const { subIdFromReferer, relayUserAgent } = await import('./index.mjs');
+
+t('독자의 UA 를 그대로 싣고, 없을 때만 우리 UA', () => {
+  const req = (ua) => ({ headers: new Headers(ua ? { 'user-agent': ua } : {}) });
+  const iphone = 'Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X)';
+  if (relayUserAgent(req(iphone)) !== iphone) return '독자 UA 를 바꿔 보냄';
+  if (!/WanderAtlasRelay/.test(relayUserAgent(req(''))) ) return 'UA 없는 요청에 우리 UA 가 안 붙음';
+  return null;
+});
 
 t('출처 경로가 SubID 가 된다', () => {
   const got = subIdFromReferer('https://wanderatlasguides.com/posts/seoul-gyeongbokgung-palace/');
