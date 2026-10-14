@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: belfast-st-george-s-market
-srcHash: 'e5893cff47d7'
+srcHash: '018d8a40150f'
 title: 'St George''s Market: guía de viaje de Belfast (4.6★)'
-description: En pleno centro de Belfast, en East Bridge Street y a pocos minutos a pie de la estación de Lanyon Place, se encuentra St George's Market. Con una valoración de 4.6★ (14,119 reseñas), repasamos lo que opinan los visitantes, los horarios y algunos consejos prácticos.
+description: En pleno centro de Belfast, en East Bridge Street y a pocos minutos a pie de la estación de Lanyon Place, se encuentra St George's Market. Con una valoración de 4.6★ (14,122 reseñas), repasamos lo que opinan los visitantes, los horarios y algunos consejos prácticos.
 quickAnswer: 'En East Bridge Street, en pleno centro de Belfast y a pocos minutos a pie de la estación de Lanyon Place, se alza St George''s Market. Este mercado cubierto de época victoriana abre actualmente solo tres días: el viernes (8am–2pm), el sábado (9am–3pm) y el domingo (10am–3pm). De lunes a jueves permanece cerrado. Los fines de semana hay mucha gente durante toda la franja de 9am–3pm, así que, si quiere recorrer los puestos con calma, lo mejor es ir el viernes.'
 faq:
   - q: ¿Qué días abre St George's Market?

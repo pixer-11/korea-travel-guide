@@ -1,41 +1,45 @@
 ---
-title: "Miyama Park: Okayama Travel Guide (4.0★)"
-description: "Miyama Park is a large hillside park in Tai, Tamano, south of Okayama city, with a duck pond, a playground and tree-lined walking paths. 4.0★ (1,597 reviews) — what visitors say, hours, and tips."
-country: "Japan"
-region: "Okayama"
-category: "attraction"
-pubDate: "2026-10-12T07:07:50.911Z"
+title: 'Miyama Park: Okayama Travel Guide (4.0★)'
+description: >-
+  Miyama Park is a large hillside park in Tai, Tamano, south of Okayama city,
+  with a duck pond, a playground and tree-lined walking paths. 4.0★ (1,600
+  reviews) — what visitors say, hours, and tips.
+country: Japan
+region: Okayama
+category: attraction
+pubDate: '2026-10-12T07:07:50.911Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/d/df/Miyama_Park_entrance.jpg"
-  credit: "Photo: Phronimoi / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Miyama_Park_entrance.jpg"
-  via: "act"
+  url: 'https://upload.wikimedia.org/wikipedia/commons/d/df/Miyama_Park_entrance.jpg'
+  credit: 'Photo: Phronimoi / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Miyama_Park_entrance.jpg'
+  via: act
   focus:
     x: 60
-    y: 55
+    'y': 55
 gallery: []
 place:
-  id: "ChIJ-eNOcYn6UzURMLku155pDrk"
-  name: "Miyama Park"
-  address: "2-chōme-4490 Tai, Tamano, Okayama 706-0001, Japan"
+  id: ChIJ-eNOcYn6UzURMLku155pDrk
+  name: Miyama Park
+  address: '2-chōme-4490 Tai, Tamano, Okayama 706-0001, Japan'
   rating: 4
-  userRatingsTotal: 1597
-  googleMapsUrl: "https://maps.google.com/?cid=13334711677626530096&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1600
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13334711677626530096&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 34.5175877
   lng: 133.9280919
-  phone: "+81 863-21-2860"
+  phone: +81 863-21-2860
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-10-12
+    updated: 2026-10-12T00:00:00.000Z
     weekdayQuiet:
       - 22
     weekdayBusy:
@@ -57,24 +61,44 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_6b724470353531756b4c4d52557a55366e59634f4e652d4a496843"
+    venueId: ven_6b724470353531756b4c4d52557a55366e59634f4e652d4a496843
 tags:
-  - "okayama"
-  - "park"
-quickAnswer: "Miyama Park is a large hillside park in Tai, Tamano, south of Okayama city, with a duck pond, a playground and tree-lined walking paths. The grounds are currently open 24 hours. Weekends are busy from 8am to 5pm, so come on a weekday for a calmer daytime walk."
+  - okayama
+  - park
+quickAnswer: >-
+  Miyama Park is a large hillside park in Tai, Tamano, south of Okayama city,
+  with a duck pond, a playground and tree-lined walking paths. The grounds are
+  currently open 24 hours. Weekends are busy from 8am to 5pm, so come on a
+  weekday for a calmer daytime walk.
 faq:
-  - q: "When is the quietest time to visit Miyama Park?"
-    a: "Foot-traffic data puts the quietest times at 10pm–11pm on weekdays and 9pm–11pm on weekends. Weekends are busy from 8am to 5pm, so for a calm walk in daylight, go on a weekday."
-  - q: "How do I get to Miyama Park from Okayama city?"
-    a: "Take the JR Uno Line from Okayama Station to Tamano, which takes roughly an hour. The park is uphill in the Tai district, so a taxi or car is easiest for the last stretch. Most locals drive."
-  - q: "How long should I spend there?"
-    a: "Allow one to two hours to walk around the duck pond and the tree-lined paths. Add more time if you have children on the playground or if you visit the neighbouring Miyama English Garden."
-  - q: "Is the park open at night?"
-    a: "The grounds are currently listed as open 24 hours. The late evening is the quietest time, but it's dark, so bring a light and treat it as a stroll, not sightseeing."
-  - q: "What's nearby?"
-    a: "Uno Port in Tamano is the ferry terminal for Naoshima and the other Setouchi art islands, so the park fits easily into a day trip there. Miyama English Garden is at the park's edge."
+  - q: When is the quietest time to visit Miyama Park?
+    a: >-
+      Foot-traffic data puts the quietest times at 10pm–11pm on weekdays and
+      9pm–11pm on weekends. Weekends are busy from 8am to 5pm, so for a calm
+      walk in daylight, go on a weekday.
+  - q: How do I get to Miyama Park from Okayama city?
+    a: >-
+      Take the JR Uno Line from Okayama Station to Tamano, which takes roughly
+      an hour. The park is uphill in the Tai district, so a taxi or car is
+      easiest for the last stretch. Most locals drive.
+  - q: How long should I spend there?
+    a: >-
+      Allow one to two hours to walk around the duck pond and the tree-lined
+      paths. Add more time if you have children on the playground or if you
+      visit the neighbouring Miyama English Garden.
+  - q: Is the park open at night?
+    a: >-
+      The grounds are currently listed as open 24 hours. The late evening is the
+      quietest time, but it's dark, so bring a light and treat it as a stroll,
+      not sightseeing.
+  - q: What's nearby?
+    a: >-
+      Uno Port in Tamano is the ferry terminal for Naoshima and the other
+      Setouchi art islands, so the park fits easily into a day trip there.
+      Miyama English Garden is at the park's edge.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-14'
 ---
 
 ## A pond, a playground and paths under trees

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: okayama-okayama-castle
-srcHash: '622ed4a95e84'
+srcHash: '0210a61e033e'
 title: 'Castillo de Okayama: guía de viaje (4.3★)'
-description: 'En pleno centro de Okayama, el castillo se alza en Marunouchi (distrito de Kita), frente al jardín Korakuen, al otro lado del río Asahi. Desde la estación JR de Okayama se llega en un corto trayecto en tranvía. 4.3★ (10,570 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En pleno centro de Okayama, el castillo se alza en Marunouchi (distrito de Kita), frente al jardín Korakuen, al otro lado del río Asahi. Desde la estación JR de Okayama se llega en un corto trayecto en tranvía. 4.3★ (10,595 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En pleno centro de Okayama, el castillo se alza en Marunouchi (distrito de Kita), frente al jardín Korakuen, al otro lado del río Asahi. Desde la estación JR de Okayama se llega en un corto trayecto en tranvía. Entre semana reina la calma durante toda la franja de 9am–5pm; los fines de semana, en cambio, conviene evitar las horas de mayor afluencia, entre las 10am y las 4pm.
 faq:
   - q: ¿Cómo se llega al Castillo de Okayama desde la estación de Okayama?

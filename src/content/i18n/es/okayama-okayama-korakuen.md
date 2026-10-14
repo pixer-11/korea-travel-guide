@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: okayama-okayama-korakuen
-srcHash: '4d01023a63d0'
+srcHash: '11891a1908e3'
 title: 'Okayama Korakuen: guía de viaje (4.4★)'
-description: 'Okayama Korakuen, uno de los Tres Grandes Jardines de Japón, es un jardín de paseo situado en el distrito de Kita (Okayama), al que se llega desde la estación JR de Okayama con un breve trayecto en tranvía y un corto paseo. 4.4★ (16,997 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'Okayama Korakuen, uno de los Tres Grandes Jardines de Japón, es un jardín de paseo situado en el distrito de Kita (Okayama), al que se llega desde la estación JR de Okayama con un breve trayecto en tranvía y un corto paseo. 4.4★ (17,008 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Okayama Korakuen es un jardín de paseo del distrito de Kita, en Okayama, y figura entre los Tres Grandes Jardines de Japón. Desde la estación JR de Okayama se llega con un breve trayecto en tranvía y un corto paseo a pie. Del 20 de marzo al 30 de septiembre abre de 7:30am a 6pm, y del 1 de octubre al 19 de marzo, de 8am a 5pm. Entre semana hay poca gente durante todo el día. Los fines de semana conviene llegar en la primera hora tras la apertura, porque entre las 10am y las 4pm se llena. Calcule entre 1.5 y 2 horas de visita, o más si piensa cruzar el puente hasta el castillo de Okayama.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar Okayama Korakuen?

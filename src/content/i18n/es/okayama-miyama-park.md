@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: okayama-miyama-park
-srcHash: 'd96721a59992'
+srcHash: 'bcab3000c39d'
 title: 'Parque Miyama: guía de viaje de Okayama (4.0★)'
-description: 'En una ladera de Tai, en Tamano, al sur de la ciudad de Okayama, se extiende el amplio parque Miyama, con su estanque de patos, su zona infantil y sus senderos arbolados. 4.0★ (1,597 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En una ladera de Tai, en Tamano, al sur de la ciudad de Okayama, se extiende el amplio parque Miyama, con su estanque de patos, su zona infantil y sus senderos arbolados. 4.0★ (1,600 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En una ladera de Tai, en Tamano, al sur de la ciudad de Okayama, se extiende el amplio parque Miyama, que cuenta con un estanque de patos, una zona infantil y senderos arbolados. Actualmente el recinto abre las 24 horas. Como los fines de semana hay mucha afluencia de 8am a 5pm, para pasear de día con más calma conviene ir entre semana.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el parque Miyama?

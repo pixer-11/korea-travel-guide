@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: gold-coast-skypoint-observation-deck
-srcHash: '8416416c1211'
+srcHash: 'd20950cd347c'
 title: 'Mirador SkyPoint: guía de viaje de la Gold Coast (4.5★)'
-description: 'En la planta 77 del edificio Q1 de Surfers Paradise, a unos 230m sobre la Gold Coast, el mirador SkyPoint cuenta con cafetería y bar, además de ambiente nocturno los fines de semana. 4.5★ (13,324 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En la planta 77 del edificio Q1 de Surfers Paradise, a unos 230m sobre la Gold Coast, el mirador SkyPoint cuenta con cafetería y bar, además de ambiente nocturno los fines de semana. 4.5★ (13,325 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En la planta 77 del edificio Q1 de Surfers Paradise, a unos 230m sobre la Gold Coast, se encuentra el mirador SkyPoint (SkyPoint Observation Deck), que alberga una cafetería y un bar y se anima por las noches los fines de semana. Entre semana, la franja más tranquila va de 8am a 9am. Los fines de semana hay mucha gente de 11am a 9pm, así que, si quiere tener sitio junto a los ventanales, lo mejor es ir temprano un día laborable.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar SkyPoint?

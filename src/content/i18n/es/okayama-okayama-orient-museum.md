@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: okayama-okayama-orient-museum
-srcHash: '312c3186c4e9'
+srcHash: 'fb08b0a3de5d'
 title: 'Museo de Oriente de Okayama: guía de viaje (4.3★)'
-description: El Museo de Oriente de Okayama se encuentra en Tenjinchō, en el distrito de Kita, a pocos pasos de la parada de tranvía Shiroshita y en la misma calle que el Museo de Arte de la Prefectura de Okayama. Con 4.3★ (621 reseñas), le contamos qué opinan los visitantes, cuál es su horario y algunos consejos para la visita.
+description: El Museo de Oriente de Okayama se encuentra en Tenjinchō, en el distrito de Kita, a pocos pasos de la parada de tranvía Shiroshita y en la misma calle que el Museo de Arte de la Prefectura de Okayama. Con 4.3★ (623 reseñas), le contamos qué opinan los visitantes, cuál es su horario y algunos consejos para la visita.
 quickAnswer: En Tenjinchō, en el distrito de Kita, a pocos pasos de la parada de tranvía Shiroshita, se encuentra el Museo de Oriente de Okayama (Okayama Orient Museum), en la misma calle que el Museo de Arte de la Prefectura de Okayama. Sus fondos reúnen miles de obras de arte histórico de Oriente Próximo y Medio, y bastan unos 60–90 minutos para recorrerlo con calma. Actualmente abre de martes a domingo, de 9am a 5pm, y cierra los lunes, aunque conviene consultar la web oficial antes de ir.
 faq:
   - q: ¿Cómo se llega al Museo de Oriente de Okayama desde la estación de Okayama?

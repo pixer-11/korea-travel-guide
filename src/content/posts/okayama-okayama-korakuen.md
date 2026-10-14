@@ -1,45 +1,53 @@
 ---
-title: "Okayama Korakuen: Travel Guide (4.4★)"
-description: "Okayama Korakuen is a stroll garden in Kita Ward, Okayama, a short tram ride and walk from JR Okayama Station, and it ranks among Japan's Three Great Gardens. 4.4★ (16,997 reviews) — what visitors say, hours, and tips."
-country: "Japan"
-region: "Okayama"
-category: "attraction"
-pubDate: "2026-10-11T00:20:02.185Z"
+title: 'Okayama Korakuen: Travel Guide (4.4★)'
+description: >-
+  Okayama Korakuen is a stroll garden in Kita Ward, Okayama, a short tram ride
+  and walk from JR Okayama Station, and it ranks among Japan's Three Great
+  Gardens. 4.4★ (17,008 reviews) — what visitors say, hours, and tips.
+country: Japan
+region: Okayama
+category: attraction
+pubDate: '2026-10-11T00:20:02.185Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Okayama_Korakuen_%E5%B2%A1%E5%B1%B1%E5%BE%8C%E6%A8%82%E5%9C%92_-_panoramio.jpg/3840px-Okayama_Korakuen_%E5%B2%A1%E5%B1%B1%E5%BE%8C%E6%A8%82%E5%9C%92_-_panoramio.jpg"
-  credit: "Photo: lienyuan lee / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Okayama_Korakuen_%E5%B2%A1%E5%B1%B1%E5%BE%8C%E6%A8%82%E5%9C%92_-_panoramio.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Okayama_Korakuen_%E5%B2%A1%E5%B1%B1%E5%BE%8C%E6%A8%82%E5%9C%92_-_panoramio.jpg/3840px-Okayama_Korakuen_%E5%B2%A1%E5%B1%B1%E5%BE%8C%E6%A8%82%E5%9C%92_-_panoramio.jpg
+  credit: 'Photo: lienyuan lee / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Okayama_Korakuen_%E5%B2%A1%E5%B1%B1%E5%BE%8C%E6%A8%82%E5%9C%92_-_panoramio.jpg
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/%E5%B2%A1%E5%B1%B1%E5%BE%8C%E6%A8%82%E5%9C%92_Okayama_Korakuen_-_panoramio.jpg/3840px-%E5%B2%A1%E5%B1%B1%E5%BE%8C%E6%A8%82%E5%9C%92_Okayama_Korakuen_-_panoramio.jpg"
-    credit: "Photo: lienyuan lee / Wikimedia Commons (CC BY 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:%E5%B2%A1%E5%B1%B1%E5%BE%8C%E6%A8%82%E5%9C%92_Okayama_Korakuen_-_panoramio.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/%E5%B2%A1%E5%B1%B1%E5%BE%8C%E6%A8%82%E5%9C%92_Okayama_Korakuen_-_panoramio.jpg/3840px-%E5%B2%A1%E5%B1%B1%E5%BE%8C%E6%A8%82%E5%9C%92_Okayama_Korakuen_-_panoramio.jpg
+    credit: 'Photo: lienyuan lee / Wikimedia Commons (CC BY 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:%E5%B2%A1%E5%B1%B1%E5%BE%8C%E6%A8%82%E5%9C%92_Okayama_Korakuen_-_panoramio.jpg
 place:
-  id: "ChIJhwt8jCQGVDURabQ6FPH0nXQ"
-  name: "Okayama Korakuen"
-  address: "1-5 Kōrakuen, Kita Ward, Okayama, 703-8257, Japan"
+  id: ChIJhwt8jCQGVDURabQ6FPH0nXQ
+  name: Okayama Korakuen
+  address: '1-5 Kōrakuen, Kita Ward, Okayama, 703-8257, Japan'
   rating: 4.4
-  userRatingsTotal: 16997
-  googleMapsUrl: "https://maps.google.com/?cid=8403141796006900841&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 17008
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=8403141796006900841&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 34.667333899999996
   lng: 133.93617
-  phone: "+81 86-272-1148"
+  phone: +81 86-272-1148
   openingHours:
-    - "Monday: 8:00 AM – 5:00 PM"
-    - "Tuesday: 8:00 AM – 5:00 PM"
-    - "Wednesday: 8:00 AM – 5:00 PM"
-    - "Thursday: 8:00 AM – 5:00 PM"
-    - "Friday: 8:00 AM – 5:00 PM"
-    - "Saturday: 8:00 AM – 5:00 PM"
-    - "Sunday: 8:00 AM – 5:00 PM"
+    - 'Monday: 8:00 AM – 5:00 PM'
+    - 'Tuesday: 8:00 AM – 5:00 PM'
+    - 'Wednesday: 8:00 AM – 5:00 PM'
+    - 'Thursday: 8:00 AM – 5:00 PM'
+    - 'Friday: 8:00 AM – 5:00 PM'
+    - 'Saturday: 8:00 AM – 5:00 PM'
+    - 'Sunday: 8:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-10-11
+    updated: 2026-10-11T00:00:00.000Z
     weekdayQuiet:
       - 8
       - 9
@@ -53,24 +61,44 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_51586e3048504636516261525544564751436a387477684a496843"
+    venueId: ven_51586e3048504636516261525544564751436a387477684a496843
 tags:
-  - "okayama"
-  - "Korakuen Garden"
-quickAnswer: "Okayama Korakuen is a stroll garden in Kita Ward, Okayama, a short tram ride and walk from JR Okayama Station, and it ranks among Japan's Three Great Gardens. It opens 7:30am–6pm from March 20 to September 30 and 8am–5pm from October 1 to March 19. On weekdays it stays quiet all day. On weekends, come in the first hour after opening, because 10am–4pm is when it fills up. Give it 1.5–2 hours, and longer if you cross the bridge to Okayama Castle."
+  - okayama
+  - Korakuen Garden
+quickAnswer: >-
+  Okayama Korakuen is a stroll garden in Kita Ward, Okayama, a short tram ride
+  and walk from JR Okayama Station, and it ranks among Japan's Three Great
+  Gardens. It opens 7:30am–6pm from March 20 to September 30 and 8am–5pm from
+  October 1 to March 19. On weekdays it stays quiet all day. On weekends, come
+  in the first hour after opening, because 10am–4pm is when it fills up. Give it
+  1.5–2 hours, and longer if you cross the bridge to Okayama Castle.
 faq:
-  - q: "When is the quietest time to visit Okayama Korakuen?"
-    a: "On weekdays it is quiet all day, from 8am to 5pm. On weekends, arrive between 8am and 9am, and avoid 10am–4pm, which is the busiest stretch."
-  - q: "How do I get to Korakuen from JR Okayama Station?"
-    a: "Take the Okaden tram (Higashiyama line) to Shiroshita, then walk about 10 minutes. You can also take an Okaden bus to Korakuen-mae, or walk about 25 minutes from the station."
-  - q: "How long should I spend at Korakuen?"
-    a: "Plan on 1.5–2 hours for the loop, the climb up Yuishinzan and a tea stop. Add an hour or more if you cross the bridge to Okayama Castle."
-  - q: "Can I see the cranes?"
-    a: "Red-crowned cranes live in an enclosure inside the garden, so you can usually see them. They are traditionally let out onto the lawns on New Year's Day; check the official site for this year's dates."
-  - q: "What are the opening hours?"
-    a: "7:30am–6pm from March 20 to September 30, and 8am–5pm from October 1 to March 19. Some months add evening illuminations with later hours; the official Korakuen site lists those dates."
+  - q: When is the quietest time to visit Okayama Korakuen?
+    a: >-
+      On weekdays it is quiet all day, from 8am to 5pm. On weekends, arrive
+      between 8am and 9am, and avoid 10am–4pm, which is the busiest stretch.
+  - q: How do I get to Korakuen from JR Okayama Station?
+    a: >-
+      Take the Okaden tram (Higashiyama line) to Shiroshita, then walk about 10
+      minutes. You can also take an Okaden bus to Korakuen-mae, or walk about 25
+      minutes from the station.
+  - q: How long should I spend at Korakuen?
+    a: >-
+      Plan on 1.5–2 hours for the loop, the climb up Yuishinzan and a tea stop.
+      Add an hour or more if you cross the bridge to Okayama Castle.
+  - q: Can I see the cranes?
+    a: >-
+      Red-crowned cranes live in an enclosure inside the garden, so you can
+      usually see them. They are traditionally let out onto the lawns on New
+      Year's Day; check the official site for this year's dates.
+  - q: What are the opening hours?
+    a: >-
+      7:30am–6pm from March 20 to September 30, and 8am–5pm from October 1 to
+      March 19. Some months add evening illuminations with later hours; the
+      official Korakuen site lists those dates.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-14'
 ---
 
 ## A lord's garden on a river island

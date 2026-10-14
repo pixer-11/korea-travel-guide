@@ -1,55 +1,83 @@
 ---
-title: "Okayama Orient Museum: Travel Guide (4.3★)"
-description: "Okayama Orient Museum sits in Tenjinchō, Kita Ward, a short walk from the Shiroshita tram stop and on the same street as the Okayama Prefectural Museum of Art. 4.3★ (621 reviews) — what visitors say, hours, and tips."
-country: "Japan"
-region: "Okayama"
-category: "attraction"
-pubDate: "2026-10-11T00:20:05.282Z"
+title: 'Okayama Orient Museum: Travel Guide (4.3★)'
+description: >-
+  Okayama Orient Museum sits in Tenjinchō, Kita Ward, a short walk from the
+  Shiroshita tram stop and on the same street as the Okayama Prefectural Museum
+  of Art. 4.3★ (623 reviews) — what visitors say, hours, and tips.
+country: Japan
+region: Okayama
+category: attraction
+pubDate: '2026-10-11T00:20:05.282Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/160319_Okayama_Orient_Museum_Okayama_Japan02n.jpg/1920px-160319_Okayama_Orient_Museum_Okayama_Japan02n.jpg"
-  credit: "Photo: 663highland / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:160319_Okayama_Orient_Museum_Okayama_Japan02n.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/160319_Okayama_Orient_Museum_Okayama_Japan02n.jpg/1920px-160319_Okayama_Orient_Museum_Okayama_Japan02n.jpg
+  credit: 'Photo: 663highland / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:160319_Okayama_Orient_Museum_Okayama_Japan02n.jpg
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJd5d5pzAGVDUR1xlyKM0NKsg"
-  name: "Okayama Orient Museum"
-  address: "9-31 Tenjinchō, Kita Ward, Okayama, 700-0814, Japan"
+  id: ChIJd5d5pzAGVDUR1xlyKM0NKsg
+  name: Okayama Orient Museum
+  address: '9-31 Tenjinchō, Kita Ward, Okayama, 700-0814, Japan'
   rating: 4.3
-  userRatingsTotal: 621
-  googleMapsUrl: "https://maps.google.com/?cid=14423355931405457879&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 623
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14423355931405457879&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 34.6664575
   lng: 133.9302965
-  phone: "+81 86-232-3636"
+  phone: +81 86-232-3636
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 9:00 AM – 5:00 PM"
-    - "Wednesday: 9:00 AM – 5:00 PM"
-    - "Thursday: 9:00 AM – 5:00 PM"
-    - "Friday: 9:00 AM – 5:00 PM"
-    - "Saturday: 9:00 AM – 5:00 PM"
-    - "Sunday: 9:00 AM – 5:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 9:00 AM – 5:00 PM'
+    - 'Wednesday: 9:00 AM – 5:00 PM'
+    - 'Thursday: 9:00 AM – 5:00 PM'
+    - 'Friday: 9:00 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 5:00 PM'
+    - 'Sunday: 9:00 AM – 5:00 PM'
 tags:
-  - "okayama"
-  - "Okayama Orient Museum"
-quickAnswer: "Okayama Orient Museum sits in Tenjinchō, Kita Ward, a short walk from the Shiroshita tram stop and on the same street as the Okayama Prefectural Museum of Art. It holds thousands of historical artworks from the Middle East, and you can see it properly in about 60–90 minutes. At the moment it opens Tuesday to Sunday, 9am–5pm, and closes on Mondays, but check the official site before you go."
+  - okayama
+  - Okayama Orient Museum
+quickAnswer: >-
+  Okayama Orient Museum sits in Tenjinchō, Kita Ward, a short walk from the
+  Shiroshita tram stop and on the same street as the Okayama Prefectural Museum
+  of Art. It holds thousands of historical artworks from the Middle East, and
+  you can see it properly in about 60–90 minutes. At the moment it opens Tuesday
+  to Sunday, 9am–5pm, and closes on Mondays, but check the official site before
+  you go.
 faq:
-  - q: "How do I get to Okayama Orient Museum from Okayama Station?"
-    a: "Take the Okayama Electric Tramway Higashiyama line from the stop outside the station's east exit, get off at Shiroshita, and walk a few minutes north to 9-31 Tenjinchō. Walking the whole way along Momotaro-dori takes about 15–20 minutes."
-  - q: "What days is the museum open?"
-    a: "At the moment it opens Tuesday to Sunday, 9am–5pm, and is closed on Mondays. Hours can change for holidays and exhibition changeovers, so check the official site before you go."
-  - q: "How long should I spend there?"
-    a: "Allow 60–90 minutes for the permanent collection, and more if a special exhibition is on."
-  - q: "Is there English information?"
-    a: "Labels are mainly in Japanese and English support varies by display. A translation app and some background reading on the ancient Near East help a lot."
-  - q: "What else is nearby?"
-    a: "The Okayama Prefectural Museum of Art is next door, the Hayashibara Museum of Art is a short walk away, and Okayama Castle and Korakuen garden are both within walking distance."
+  - q: How do I get to Okayama Orient Museum from Okayama Station?
+    a: >-
+      Take the Okayama Electric Tramway Higashiyama line from the stop outside
+      the station's east exit, get off at Shiroshita, and walk a few minutes
+      north to 9-31 Tenjinchō. Walking the whole way along Momotaro-dori takes
+      about 15–20 minutes.
+  - q: What days is the museum open?
+    a: >-
+      At the moment it opens Tuesday to Sunday, 9am–5pm, and is closed on
+      Mondays. Hours can change for holidays and exhibition changeovers, so
+      check the official site before you go.
+  - q: How long should I spend there?
+    a: >-
+      Allow 60–90 minutes for the permanent collection, and more if a special
+      exhibition is on.
+  - q: Is there English information?
+    a: >-
+      Labels are mainly in Japanese and English support varies by display. A
+      translation app and some background reading on the ancient Near East help
+      a lot.
+  - q: What else is nearby?
+    a: >-
+      The Okayama Prefectural Museum of Art is next door, the Hayashibara Museum
+      of Art is a short walk away, and Okayama Castle and Korakuen garden are
+      both within walking distance.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-14'
 ---
 
 ## Mesopotamia, ten minutes from the castle

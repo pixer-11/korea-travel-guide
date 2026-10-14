@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: oaxaca-jardin-etnobotanico-de-oaxaca
-srcHash: 'a9eff498e35b'
+srcHash: 'f9353457406c'
 title: 瓦哈卡民族植物园旅行指南（4.4★）
-description: 瓦哈卡民族植物园（Jardín Etnobotánico de Oaxaca）位于瓦哈卡市中心区，就在圣多明各教堂背后。评分4.4★（5,908条评价），这里汇总了游客评价、开放时间和实用建议。
+description: 瓦哈卡民族植物园（Jardín Etnobotánico de Oaxaca）位于瓦哈卡市中心区，就在圣多明各教堂背后。评分4.4★（5,916条评价），这里汇总了游客评价、开放时间和实用建议。
 quickAnswer: 瓦哈卡民族植物园（Jardín Etnobotánico de Oaxaca）位于瓦哈卡市（Oaxaca de Juárez）中心区，紧挨着圣多明各教堂（Templo de Santo Domingo）的后方。园区原是修道院的土地，如今种满了从瓦哈卡州各地搜集来的植物。植物园周一至周五上午10点至下午5点开放，周末闭园。游客须跟随导览入园，建议先到南改革街（Reforma Sur）入口确认当天的导览场次和语种。
 faq:
   - q: 瓦哈卡民族植物园周末开放吗？

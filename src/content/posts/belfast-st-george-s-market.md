@@ -1,44 +1,52 @@
 ---
-title: "St George's Market: Belfast Travel Guide (4.6★)"
-description: "St George's Market sits on East Bridge Street in Belfast city centre, a few minutes' walk from Lanyon Place station. 4.6★ (14,119 reviews) — what visitors say, hours, and tips."
-country: "United Kingdom"
-region: "Belfast"
-category: "hidden-gem"
-pubDate: "2026-10-14T07:48:35.794Z"
+title: 'St George''s Market: Belfast Travel Guide (4.6★)'
+description: >-
+  St George's Market sits on East Bridge Street in Belfast city centre, a few
+  minutes' walk from Lanyon Place station. 4.6★ (14,122 reviews) — what visitors
+  say, hours, and tips.
+country: United Kingdom
+region: Belfast
+category: hidden-gem
+pubDate: '2026-10-14T07:48:35.794Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/St_Georges_Market%2C_Belfast%2C_July_2010_%2802%29.JPG/1920px-St_Georges_Market%2C_Belfast%2C_July_2010_%2802%29.JPG"
-  credit: "Photo: Ardfern / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:St_Georges_Market,_Belfast,_July_2010_(02).JPG"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/St_Georges_Market%2C_Belfast%2C_July_2010_%2802%29.JPG/1920px-St_Georges_Market%2C_Belfast%2C_July_2010_%2802%29.JPG
+  credit: 'Photo: Ardfern / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:St_Georges_Market,_Belfast,_July_2010_(02).JPG
   focus:
     x: 30
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/St._George%27s_Market%2C_Belfast_02.jpg/3840px-St._George%27s_Market%2C_Belfast_02.jpg"
-    credit: "Photo: Simon Burchell / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:St._George%27s_Market,_Belfast_02.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/St._George%27s_Market%2C_Belfast_02.jpg/3840px-St._George%27s_Market%2C_Belfast_02.jpg
+    credit: 'Photo: Simon Burchell / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:St._George%27s_Market,_Belfast_02.jpg
 place:
-  id: "ChIJFa7vmf8IYUgR8wY6TeDnHmg"
-  name: "St George's Market"
-  address: "12 East Bridge St, Belfast BT1 3NQ, UK"
+  id: ChIJFa7vmf8IYUgR8wY6TeDnHmg
+  name: St George's Market
+  address: '12 East Bridge St, Belfast BT1 3NQ, UK'
   rating: 4.6
-  userRatingsTotal: 14119
-  googleMapsUrl: "https://maps.google.com/?cid=7502688979800164083&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 14122
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=7502688979800164083&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 54.5961402
   lng: -5.9219548
-  phone: "+44 28 9043 5704"
+  phone: +44 28 9043 5704
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: Closed"
-    - "Wednesday: Closed"
-    - "Thursday: Closed"
-    - "Friday: 8:00 AM – 2:00 PM"
-    - "Saturday: 9:00 AM – 3:00 PM"
-    - "Sunday: 10:00 AM – 3:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: Closed'
+    - 'Wednesday: Closed'
+    - 'Thursday: Closed'
+    - 'Friday: 8:00 AM – 2:00 PM'
+    - 'Saturday: 9:00 AM – 3:00 PM'
+    - 'Sunday: 10:00 AM – 3:00 PM'
   busyness:
-    updated: 2026-10-14
+    updated: 2026-10-14T00:00:00.000Z
     weekendBusy:
       - 9
       - 10
@@ -46,24 +54,45 @@ place:
       - 12
       - 13
       - 14
-    venueId: "ven_676d486e44655436597738526755594938666d763761464a496843"
+    venueId: ven_676d486e44655436597738526755594938666d763761464a496843
 tags:
-  - "belfast"
-  - "local market"
-quickAnswer: "St George's Market sits on East Bridge Street in Belfast city centre, a few minutes' walk from Lanyon Place station. It's a Victorian covered market that currently trades only Friday (8am–2pm), Saturday (9am–3pm) and Sunday (10am–3pm), and it's closed Monday to Thursday. Weekends are busy for the whole 9am–3pm stretch, so if you want room to browse, come on Friday."
+  - belfast
+  - local market
+quickAnswer: >-
+  St George's Market sits on East Bridge Street in Belfast city centre, a few
+  minutes' walk from Lanyon Place station. It's a Victorian covered market that
+  currently trades only Friday (8am–2pm), Saturday (9am–3pm) and Sunday
+  (10am–3pm), and it's closed Monday to Thursday. Weekends are busy for the
+  whole 9am–3pm stretch, so if you want room to browse, come on Friday.
 faq:
-  - q: "What days is St George's Market open?"
-    a: "Right now it trades on three days: Friday 8am–2pm, Saturday 9am–3pm and Sunday 10am–3pm. It's closed Monday to Thursday. Check the official listing before you go, because special events can change the schedule."
-  - q: "When is the quietest time to visit?"
-    a: "We don't have a measured quiet window, but weekends are busy for the whole 9am–3pm trading day. Friday is the best choice if you want to avoid that weekend peak. It also opens earliest, at 8am."
-  - q: "How do I get to St George's Market?"
-    a: "It's at 12 East Bridge Street, Belfast BT1 3NQ. Lanyon Place train station is the closest, a short walk away, and Belfast City Hall is about ten minutes on foot."
-  - q: "What should I eat there?"
-    a: "Try a Belfast bap breakfast or an Ulster fry with soda farls and potato bread. For snacks, look for dulse and yellowman. Local cheeses, wheaten bread and smoked fish travel well if you want to take something home."
-  - q: "What is near the market?"
-    a: "The Waterfront Hall, the River Lagan, the Lagan Weir and the Big Fish sculpture are all a few minutes' walk away. Victoria Square and City Hall are slightly further, and the Titanic Quarter is just over the river."
+  - q: What days is St George's Market open?
+    a: >-
+      Right now it trades on three days: Friday 8am–2pm, Saturday 9am–3pm and
+      Sunday 10am–3pm. It's closed Monday to Thursday. Check the official
+      listing before you go, because special events can change the schedule.
+  - q: When is the quietest time to visit?
+    a: >-
+      We don't have a measured quiet window, but weekends are busy for the whole
+      9am–3pm trading day. Friday is the best choice if you want to avoid that
+      weekend peak. It also opens earliest, at 8am.
+  - q: How do I get to St George's Market?
+    a: >-
+      It's at 12 East Bridge Street, Belfast BT1 3NQ. Lanyon Place train station
+      is the closest, a short walk away, and Belfast City Hall is about ten
+      minutes on foot.
+  - q: What should I eat there?
+    a: >-
+      Try a Belfast bap breakfast or an Ulster fry with soda farls and potato
+      bread. For snacks, look for dulse and yellowman. Local cheeses, wheaten
+      bread and smoked fish travel well if you want to take something home.
+  - q: What is near the market?
+    a: >-
+      The Waterfront Hall, the River Lagan, the Lagan Weir and the Big Fish
+      sculpture are all a few minutes' walk away. Victoria Square and City Hall
+      are slightly further, and the Titanic Quarter is just over the river.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-14'
 ---
 
 ## Red brick, iron and glass on East Bridge Street

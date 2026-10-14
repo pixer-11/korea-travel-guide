@@ -1,52 +1,84 @@
 ---
-title: "Templo de Santo Domingo de Guzmán: Oaxaca Travel Guide"
-description: "Templo de Santo Domingo de Guzmán stands at the top of the pedestrian Andador Macedonio Alcalá in Oaxaca's Centro, about a 10-minute walk north of the Zócalo. 4.8★ (19,281 reviews) — what visitors say, hours, and tips."
-country: "Mexico"
-region: "Oaxaca"
-category: "attraction"
-pubDate: "2026-10-06T14:21:34.381Z"
+title: 'Templo de Santo Domingo de Guzmán: Oaxaca Travel Guide'
+description: >-
+  Templo de Santo Domingo de Guzmán stands at the top of the pedestrian Andador
+  Macedonio Alcalá in Oaxaca's Centro, about a 10-minute walk north of the
+  Zócalo. 4.8★ (19,302 reviews) — what visitors say, hours, and tips.
+country: Mexico
+region: Oaxaca
+category: attraction
+pubDate: '2026-10-06T14:21:34.381Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Templo_de_Santo_Domingo_de_Guzm%C3%A1n%2C_Oaxaca_de_Ju%C3%A1rez.jpg/3840px-Templo_de_Santo_Domingo_de_Guzm%C3%A1n%2C_Oaxaca_de_Ju%C3%A1rez.jpg"
-  credit: "Photo: Huauzontle23 / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Templo_de_Santo_Domingo_de_Guzm%C3%A1n,_Oaxaca_de_Ju%C3%A1rez.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Templo_de_Santo_Domingo_de_Guzm%C3%A1n%2C_Oaxaca_de_Ju%C3%A1rez.jpg/3840px-Templo_de_Santo_Domingo_de_Guzm%C3%A1n%2C_Oaxaca_de_Ju%C3%A1rez.jpg
+  credit: 'Photo: Huauzontle23 / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Templo_de_Santo_Domingo_de_Guzm%C3%A1n,_Oaxaca_de_Ju%C3%A1rez.jpg
+  via: act
   focus:
     x: 54
-    y: 35
+    'y': 35
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/a/a2/Church_of_Santo_Domingo_in_Oaxaca.jpg"
-    credit: "Photo: Roman Bonnefoy / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Church_of_Santo_Domingo_in_Oaxaca.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/a/a2/Church_of_Santo_Domingo_in_Oaxaca.jpg
+    credit: 'Photo: Roman Bonnefoy / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Church_of_Santo_Domingo_in_Oaxaca.jpg
 place:
-  id: "ChIJg9-i1kuEzoYReGAmJh3n7Ro"
-  name: "Templo de Santo Domingo de Guzmán"
-  address: "C. Macedonio Alcalá s/n, RUTA INDEPENDENCIA, Centro, 68000 Oaxaca de Juárez, Oax., Mexico"
+  id: ChIJg9-i1kuEzoYReGAmJh3n7Ro
+  name: Templo de Santo Domingo de Guzmán
+  address: >-
+    C. Macedonio Alcalá s/n, RUTA INDEPENDENCIA, Centro, 68000 Oaxaca de Juárez,
+    Oax., Mexico
   rating: 4.8
-  userRatingsTotal: 19281
-  googleMapsUrl: "https://maps.google.com/?cid=1940461126846668920&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 19302
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1940461126846668920&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 17.065794099999998
   lng: -96.7232395
-  phone: "+52 951 516 3720"
+  phone: +52 951 516 3720
 tags:
-  - "oaxaca"
-  - "historic site"
-quickAnswer: "Templo de Santo Domingo de Guzmán stands at the top of the pedestrian Andador Macedonio Alcalá in Oaxaca's Centro, about a 10-minute walk north of the Zócalo. Give the gilded church 30 to 45 minutes, then add two hours or more for the Museo de las Culturas de Oaxaca in the former monastery next door. Hours change around services, so check them before you go and plan to step in between Masses."
+  - oaxaca
+  - historic site
+quickAnswer: >-
+  Templo de Santo Domingo de Guzmán stands at the top of the pedestrian Andador
+  Macedonio Alcalá in Oaxaca's Centro, about a 10-minute walk north of the
+  Zócalo. Give the gilded church 30 to 45 minutes, then add two hours or more
+  for the Museo de las Culturas de Oaxaca in the former monastery next door.
+  Hours change around services, so check them before you go and plan to step in
+  between Masses.
 faq:
-  - q: "How do I get to Templo de Santo Domingo de Guzmán?"
-    a: "Walk north from the Zócalo up the pedestrian Andador Macedonio Alcalá. The church sits at the top of the street in Oaxaca's Centro, about 10 minutes on foot."
-  - q: "How long should I spend there?"
-    a: "Allow 30 to 45 minutes for the church itself. Add about two hours for the Museo de las Culturas de Oaxaca in the former monastery, plus extra time if you join a guided tour of the ethnobotanical garden."
-  - q: "Can I visit the ethnobotanical garden on my own?"
-    a: "No. The Jardín Etnobotánico is open by guided tour only, and some tours run in English. Check the schedule at the gate on Calle Reforma, ideally a day in advance."
-  - q: "What is the best time to visit?"
-    a: "Weekday mornings tend to beat the tour groups. Hours shift around Masses and events, so confirm before you go. Come back after dark too, when the green stone façade is lit up."
-  - q: "What should I wear and can I take photos?"
-    a: "Cover your shoulders and knees, and take your hat off inside. Photos without flash are fine in the church when no service is on. The museum's photo rules are posted at its entrance."
+  - q: How do I get to Templo de Santo Domingo de Guzmán?
+    a: >-
+      Walk north from the Zócalo up the pedestrian Andador Macedonio Alcalá. The
+      church sits at the top of the street in Oaxaca's Centro, about 10 minutes
+      on foot.
+  - q: How long should I spend there?
+    a: >-
+      Allow 30 to 45 minutes for the church itself. Add about two hours for the
+      Museo de las Culturas de Oaxaca in the former monastery, plus extra time
+      if you join a guided tour of the ethnobotanical garden.
+  - q: Can I visit the ethnobotanical garden on my own?
+    a: >-
+      No. The Jardín Etnobotánico is open by guided tour only, and some tours
+      run in English. Check the schedule at the gate on Calle Reforma, ideally a
+      day in advance.
+  - q: What is the best time to visit?
+    a: >-
+      Weekday mornings tend to beat the tour groups. Hours shift around Masses
+      and events, so confirm before you go. Come back after dark too, when the
+      green stone façade is lit up.
+  - q: What should I wear and can I take photos?
+    a: >-
+      Cover your shoulders and knees, and take your hat off inside. Photos
+      without flash are fine in the church when no service is on. The museum's
+      photo rules are posted at its entrance.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-14'
 ---
 
 ## Green stone at the end of Alcalá

@@ -1,41 +1,48 @@
 ---
-title: "SkyPoint Observation Deck: Gold Coast Travel Guide (4.5★)"
-description: "SkyPoint Observation Deck sits on Level 77 of the Q1 building in Surfers Paradise, about 230m above the Gold Coast, with a café and bar inside and weekend nightlife. 4.5★ (13,324 reviews) — what visitors say, hours, and tips."
-country: "Australia"
-region: "Gold Coast"
-category: "hidden-gem"
-pubDate: "2026-10-14T07:48:41.946Z"
+title: 'SkyPoint Observation Deck: Gold Coast Travel Guide (4.5★)'
+description: >-
+  SkyPoint Observation Deck sits on Level 77 of the Q1 building in Surfers
+  Paradise, about 230m above the Gold Coast, with a café and bar inside and
+  weekend nightlife. 4.5★ (13,325 reviews) — what visitors say, hours, and tips.
+country: Australia
+region: Gold Coast
+category: hidden-gem
+pubDate: '2026-10-14T07:48:41.946Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Skypoint_Observation_Deck_6.jpg/3840px-Skypoint_Observation_Deck_6.jpg"
-  credit: "Photo: Phalinn Ooi from Kuala Lumpur, Malaysia / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Skypoint_Observation_Deck_6.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Skypoint_Observation_Deck_6.jpg/3840px-Skypoint_Observation_Deck_6.jpg
+  credit: >-
+    Photo: Phalinn Ooi from Kuala Lumpur, Malaysia / Wikimedia Commons (CC BY
+    2.0)
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Skypoint_Observation_Deck_6.jpg'
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery: []
 place:
-  id: "ChIJYT4muw0FkWsRBGpYOwLw370"
-  name: "SkyPoint Observation Deck"
-  address: "Q1 Building, Level 77/9 Hamilton Ave, Surfers Paradise QLD 4217, Australia"
+  id: ChIJYT4muw0FkWsRBGpYOwLw370
+  name: SkyPoint Observation Deck
+  address: 'Q1 Building, Level 77/9 Hamilton Ave, Surfers Paradise QLD 4217, Australia'
   rating: 4.5
-  userRatingsTotal: 13324
-  googleMapsUrl: "https://maps.google.com/?cid=13681918085351107076&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 13325
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13681918085351107076&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -28.0063049
   lng: 153.42965719999998
-  phone: "+61 7 5582 2700"
+  phone: +61 7 5582 2700
   openingHours:
-    - "Monday: 7:30 AM – 9:00 PM"
-    - "Tuesday: 7:30 AM – 9:00 PM"
-    - "Wednesday: 7:30 AM – 9:00 PM"
-    - "Thursday: 7:30 AM – 9:00 PM"
-    - "Friday: 7:30 AM – 9:00 PM"
-    - "Saturday: 7:30 AM – 9:00 PM"
-    - "Sunday: 7:30 AM – 9:00 PM"
+    - 'Monday: 7:30 AM – 9:00 PM'
+    - 'Tuesday: 7:30 AM – 9:00 PM'
+    - 'Wednesday: 7:30 AM – 9:00 PM'
+    - 'Thursday: 7:30 AM – 9:00 PM'
+    - 'Friday: 7:30 AM – 9:00 PM'
+    - 'Saturday: 7:30 AM – 9:00 PM'
+    - 'Sunday: 7:30 AM – 9:00 PM'
   busyness:
-    updated: 2026-10-14
+    updated: 2026-10-14T00:00:00.000Z
     weekdayQuiet:
       - 8
     weekendBusy:
@@ -49,24 +56,43 @@ place:
       - 18
       - 19
       - 20
-    venueId: "ven_303733774c774f597047425273576b463077756d3454594a496843"
+    venueId: ven_303733774c774f597047425273576b463077756d3454594a496843
 tags:
-  - "gold coast"
-  - "old quarter"
-quickAnswer: "SkyPoint Observation Deck sits on Level 77 of the Q1 building in Surfers Paradise, about 230m above the Gold Coast, with a café and bar inside and weekend nightlife. On weekdays it's quietest between 8am and 9am. On weekends it's busy from 11am to 9pm, so go early on a weekday if you want space at the glass."
+  - gold coast
+  - old quarter
+quickAnswer: >-
+  SkyPoint Observation Deck sits on Level 77 of the Q1 building in Surfers
+  Paradise, about 230m above the Gold Coast, with a café and bar inside and
+  weekend nightlife. On weekdays it's quietest between 8am and 9am. On weekends
+  it's busy from 11am to 9pm, so go early on a weekday if you want space at the
+  glass.
 faq:
-  - q: "When is the quietest time to visit SkyPoint?"
-    a: "On weekdays, 8am to 9am is the quietest hour. Weekends are busiest from 11am to 9pm, so if you have to go on a weekend, arrive in the morning before 11am."
-  - q: "How do I get to SkyPoint Observation Deck?"
-    a: "Take the G:link light rail to Cavill Avenue station. From there it's a short walk to the Q1 building at 9 Hamilton Avenue in Surfers Paradise, a block back from the beach."
-  - q: "What are the opening hours?"
-    a: "At the moment it's open 7:30am to 9pm every day. Hours change with the season and on holidays, so check the official SkyPoint site for this month's times."
-  - q: "How long should I spend at SkyPoint?"
-    a: "Allow 45 minutes to an hour to see every side of the deck. Add another hour if you'd like a coffee or a drink at the café-bar."
-  - q: "Is there anything more adventurous than the deck?"
-    a: "Yes. The SkyPoint Climb takes harnessed groups up the outside of the Q1 tower. It's booked separately through SkyPoint."
+  - q: When is the quietest time to visit SkyPoint?
+    a: >-
+      On weekdays, 8am to 9am is the quietest hour. Weekends are busiest from
+      11am to 9pm, so if you have to go on a weekend, arrive in the morning
+      before 11am.
+  - q: How do I get to SkyPoint Observation Deck?
+    a: >-
+      Take the G:link light rail to Cavill Avenue station. From there it's a
+      short walk to the Q1 building at 9 Hamilton Avenue in Surfers Paradise, a
+      block back from the beach.
+  - q: What are the opening hours?
+    a: >-
+      At the moment it's open 7:30am to 9pm every day. Hours change with the
+      season and on holidays, so check the official SkyPoint site for this
+      month's times.
+  - q: How long should I spend at SkyPoint?
+    a: >-
+      Allow 45 minutes to an hour to see every side of the deck. Add another
+      hour if you'd like a coffee or a drink at the café-bar.
+  - q: Is there anything more adventurous than the deck?
+    a: >-
+      Yes. The SkyPoint Climb takes harnessed groups up the outside of the Q1
+      tower. It's booked separately through SkyPoint.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-14'
 ---
 
 ## A city laid out like a map

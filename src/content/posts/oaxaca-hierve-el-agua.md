@@ -1,59 +1,87 @@
 ---
-title: "Hierve el Agua: Oaxaca Travel Guide (4.6★)"
-description: "Hierve el Agua is a petrified waterfall and spring-fed mineral pools on a cliff edge, about 70 km east of Oaxaca city in the hills above Mitla. 4.6★ (23,751 reviews) — what visitors say, hours, and tips."
-country: "Mexico"
-region: "Oaxaca"
-category: "hidden-gem"
-pubDate: "2026-10-04T13:24:21.593Z"
+title: 'Hierve el Agua: Oaxaca Travel Guide (4.6★)'
+description: >-
+  Hierve el Agua is a petrified waterfall and spring-fed mineral pools on a
+  cliff edge, about 70 km east of Oaxaca city in the hills above Mitla. 4.6★
+  (23,785 reviews) — what visitors say, hours, and tips.
+country: Mexico
+region: Oaxaca
+category: hidden-gem
+pubDate: '2026-10-04T13:24:21.593Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/4/43/HierveElAguaMexico1.jpg"
-  credit: "Photo: The original uploader was Lavintzin at English Wikipedia. / Wikimedia Commons (CC BY-SA 2.5)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:HierveElAguaMexico1.jpg"
+  url: 'https://upload.wikimedia.org/wikipedia/commons/4/43/HierveElAguaMexico1.jpg'
+  credit: >-
+    Photo: The original uploader was Lavintzin at English Wikipedia. / Wikimedia
+    Commons (CC BY-SA 2.5)
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:HierveElAguaMexico1.jpg'
   focus:
     x: 55
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Paisaje_desde_Hierve_el_agua%2C_Oaxaca%2C_M%C3%A9xico.jpg/3840px-Paisaje_desde_Hierve_el_agua%2C_Oaxaca%2C_M%C3%A9xico.jpg"
-    credit: "Photo: Nataly Gómez Gómez / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Paisaje_desde_Hierve_el_agua,_Oaxaca,_M%C3%A9xico.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Paisaje_desde_Hierve_el_agua%2C_Oaxaca%2C_M%C3%A9xico.jpg/3840px-Paisaje_desde_Hierve_el_agua%2C_Oaxaca%2C_M%C3%A9xico.jpg
+    credit: 'Photo: Nataly Gómez Gómez / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Paisaje_desde_Hierve_el_agua,_Oaxaca,_M%C3%A9xico.jpg
 place:
-  id: "ChIJ45FElP7IwIUR_Y671emlmy0"
-  name: "Hierve el Agua"
-  address: "Hierve el Agua, 70477 Oaxaca de Juárez, Oax., Mexico"
+  id: ChIJ45FElP7IwIUR_Y671emlmy0
+  name: Hierve el Agua
+  address: 'Hierve el Agua, 70477 Oaxaca de Juárez, Oax., Mexico'
   rating: 4.6
-  userRatingsTotal: 23751
-  googleMapsUrl: "https://maps.google.com/?cid=3286402776828710653&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 23785
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3286402776828710653&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 16.8656531
   lng: -96.27600650000001
-  phone: "+52 951 502 1200"
+  phone: +52 951 502 1200
   openingHours:
-    - "Monday: 7:00 AM – 6:00 PM"
-    - "Tuesday: 7:00 AM – 6:00 PM"
-    - "Wednesday: 7:00 AM – 6:00 PM"
-    - "Thursday: 7:00 AM – 6:00 PM"
-    - "Friday: 7:00 AM – 6:00 PM"
-    - "Saturday: 7:00 AM – 6:00 PM"
-    - "Sunday: 7:00 AM – 6:00 PM"
+    - 'Monday: 7:00 AM – 6:00 PM'
+    - 'Tuesday: 7:00 AM – 6:00 PM'
+    - 'Wednesday: 7:00 AM – 6:00 PM'
+    - 'Thursday: 7:00 AM – 6:00 PM'
+    - 'Friday: 7:00 AM – 6:00 PM'
+    - 'Saturday: 7:00 AM – 6:00 PM'
+    - 'Sunday: 7:00 AM – 6:00 PM'
 tags:
-  - "oaxaca"
-  - "hidden gem"
-quickAnswer: "Hierve el Agua is a petrified waterfall and spring-fed mineral pools on a cliff edge, about 70 km east of Oaxaca city in the hills above Mitla. It opens daily from 7:00 AM to 6:00 PM. It is very popular, so arrive near opening, before the tour vans from Oaxaca get there, and bring cash pesos for the community entry booths."
+  - oaxaca
+  - hidden gem
+quickAnswer: >-
+  Hierve el Agua is a petrified waterfall and spring-fed mineral pools on a
+  cliff edge, about 70 km east of Oaxaca city in the hills above Mitla. It opens
+  daily from 7:00 AM to 6:00 PM. It is very popular, so arrive near opening,
+  before the tour vans from Oaxaca get there, and bring cash pesos for the
+  community entry booths.
 faq:
-  - q: "How far is Hierve el Agua from Oaxaca city?"
-    a: "It is about 70 km east, a drive of roughly 1.5 to 2 hours via Highway 190 toward Mitla and then a winding mountain road. Without a car, get a bus or colectivo to Mitla and take a shared pickup truck or taxi from there."
-  - q: "What are the opening hours?"
-    a: "It opens every day from 7:00 AM to 6:00 PM. Arriving soon after opening puts you ahead of the day tours from Oaxaca city, which usually reach the site around midday."
-  - q: "Can you swim at Hierve el Agua?"
-    a: "Yes, in the shallow mineral pools at the top of the cliff. Despite the name, the water is cool, not hot. The rim is slippery travertine, so move carefully and don't climb the formations."
-  - q: "How long should I spend there?"
-    a: "Allow two to three hours. That covers a swim in the upper pools plus about an hour for the steep loop trail below the petrified waterfalls."
-  - q: "What can I combine it with on a day trip?"
-    a: "It's usually paired with the Mitla ruins, the Árbol del Tule, the rug-weaving village of Teotitlán del Valle and the mezcal distilleries around Santiago Matatlán, all on or near Highway 190."
+  - q: How far is Hierve el Agua from Oaxaca city?
+    a: >-
+      It is about 70 km east, a drive of roughly 1.5 to 2 hours via Highway 190
+      toward Mitla and then a winding mountain road. Without a car, get a bus or
+      colectivo to Mitla and take a shared pickup truck or taxi from there.
+  - q: What are the opening hours?
+    a: >-
+      It opens every day from 7:00 AM to 6:00 PM. Arriving soon after opening
+      puts you ahead of the day tours from Oaxaca city, which usually reach the
+      site around midday.
+  - q: Can you swim at Hierve el Agua?
+    a: >-
+      Yes, in the shallow mineral pools at the top of the cliff. Despite the
+      name, the water is cool, not hot. The rim is slippery travertine, so move
+      carefully and don't climb the formations.
+  - q: How long should I spend there?
+    a: >-
+      Allow two to three hours. That covers a swim in the upper pools plus about
+      an hour for the steep loop trail below the petrified waterfalls.
+  - q: What can I combine it with on a day trip?
+    a: >-
+      It's usually paired with the Mitla ruins, the Árbol del Tule, the
+      rug-weaving village of Teotitlán del Valle and the mezcal distilleries
+      around Santiago Matatlán, all on or near Highway 190.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-14'
 ---
 
 ## Water that turned to stone

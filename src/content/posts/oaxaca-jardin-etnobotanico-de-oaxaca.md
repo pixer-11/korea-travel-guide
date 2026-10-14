@@ -1,59 +1,89 @@
 ---
-title: "Jardín Etnobotánico de Oaxaca: Travel Guide (4.4★)"
-description: "The Jardín Etnobotánico de Oaxaca sits in Centro, Oaxaca de Juárez, behind the Templo de Santo Domingo. 4.4★ (5,908 reviews) — what visitors say, hours, and tips."
-country: "Mexico"
-region: "Oaxaca"
-category: "attraction"
-pubDate: "2026-10-04T07:45:01.192Z"
+title: 'Jardín Etnobotánico de Oaxaca: Travel Guide (4.4★)'
+description: >-
+  The Jardín Etnobotánico de Oaxaca sits in Centro, Oaxaca de Juárez, behind the
+  Templo de Santo Domingo. 4.4★ (5,916 reviews) — what visitors say, hours, and
+  tips.
+country: Mexico
+region: Oaxaca
+category: attraction
+pubDate: '2026-10-04T07:45:01.192Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Jard%C3%ADn_Etnobot%C3%A1nico_de_Oaxaca_06.JPG/1920px-Jard%C3%ADn_Etnobot%C3%A1nico_de_Oaxaca_06.JPG"
-  credit: "Photo: Kaldari / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Jard%C3%ADn_Etnobot%C3%A1nico_de_Oaxaca_06.JPG"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Jard%C3%ADn_Etnobot%C3%A1nico_de_Oaxaca_06.JPG/1920px-Jard%C3%ADn_Etnobot%C3%A1nico_de_Oaxaca_06.JPG
+  credit: 'Photo: Kaldari / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Jard%C3%ADn_Etnobot%C3%A1nico_de_Oaxaca_06.JPG
   focus:
     x: 60
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/d/d0/Jard%C3%ADn_etnobot%C3%A1nico_de_Oaxaca1.jpg"
-    credit: "Photo: El Ágora / Wikimedia Commons (Public domain)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Jard%C3%ADn_etnobot%C3%A1nico_de_Oaxaca1.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/d/d0/Jard%C3%ADn_etnobot%C3%A1nico_de_Oaxaca1.jpg
+    credit: 'Photo: El Ágora / Wikimedia Commons (Public domain)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Jard%C3%ADn_etnobot%C3%A1nico_de_Oaxaca1.jpg
 place:
-  id: "ChIJtbqERzkix4URvuq2QnCL0S0"
-  name: "Jardín Etnobotánico de Oaxaca"
-  address: "Reforma Sur n, RUTA INDEPENDENCIA, Centro, 68000 Oaxaca de Juárez, Oax., Mexico"
+  id: ChIJtbqERzkix4URvuq2QnCL0S0
+  name: Jardín Etnobotánico de Oaxaca
+  address: >-
+    Reforma Sur n, RUTA INDEPENDENCIA, Centro, 68000 Oaxaca de Juárez, Oax.,
+    Mexico
   rating: 4.4
-  userRatingsTotal: 5908
-  googleMapsUrl: "https://maps.google.com/?cid=3301573316111166142&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 5916
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3301573316111166142&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 17.065591299999998
   lng: -96.72196079999999
-  phone: "+52 951 516 5325"
+  phone: +52 951 516 5325
   openingHours:
-    - "Monday: 10:00 AM – 5:00 PM"
-    - "Tuesday: 10:00 AM – 5:00 PM"
-    - "Wednesday: 10:00 AM – 5:00 PM"
-    - "Thursday: 10:00 AM – 5:00 PM"
-    - "Friday: 10:00 AM – 5:00 PM"
-    - "Saturday: Closed"
-    - "Sunday: Closed"
+    - 'Monday: 10:00 AM – 5:00 PM'
+    - 'Tuesday: 10:00 AM – 5:00 PM'
+    - 'Wednesday: 10:00 AM – 5:00 PM'
+    - 'Thursday: 10:00 AM – 5:00 PM'
+    - 'Friday: 10:00 AM – 5:00 PM'
+    - 'Saturday: Closed'
+    - 'Sunday: Closed'
 tags:
-  - "oaxaca"
-  - "top attraction"
-quickAnswer: "The Jardín Etnobotánico de Oaxaca sits in Centro, Oaxaca de Juárez, behind the Templo de Santo Domingo. Its grounds once belonged to the convent and now hold plants gathered from across Oaxaca state. It opens Monday to Friday, 10am to 5pm, and closes on weekends. Entry is by guided tour, so confirm tour times and languages at the Reforma Sur entrance first."
+  - oaxaca
+  - top attraction
+quickAnswer: >-
+  The Jardín Etnobotánico de Oaxaca sits in Centro, Oaxaca de Juárez, behind the
+  Templo de Santo Domingo. Its grounds once belonged to the convent and now hold
+  plants gathered from across Oaxaca state. It opens Monday to Friday, 10am to
+  5pm, and closes on weekends. Entry is by guided tour, so confirm tour times
+  and languages at the Reforma Sur entrance first.
 faq:
-  - q: "Is the Jardín Etnobotánico de Oaxaca open on weekends?"
-    a: "No. It opens Monday to Friday, 10am to 5pm, and is closed on Saturday and Sunday. Plan a weekday visit."
-  - q: "Can I walk around the garden on my own?"
-    a: "No. Visits are by guided tour. Ask at the entrance on Reforma Sur for that day's tour times and languages. Spanish tours run more often than English ones."
-  - q: "How long does a visit take?"
-    a: "Allow an hour or more for the tour itself. Add time for the Museo de las Culturas de Oaxaca in the former convent next door, which overlooks the garden."
-  - q: "How do I get there from the Zócalo?"
-    a: "Walk north along the pedestrian Andador Macedonio Alcalá to the Templo de Santo Domingo. It takes about ten minutes. Then go around the convent complex to the garden entrance on Reforma Sur."
-  - q: "What is the best season to visit?"
-    a: "Both seasons work. In the dry months, roughly November to May, the cacti and agaves stand out sharply. During the rains, usually June to September, the beds and pools are greener and fuller. Bring sun protection all year."
+  - q: Is the Jardín Etnobotánico de Oaxaca open on weekends?
+    a: >-
+      No. It opens Monday to Friday, 10am to 5pm, and is closed on Saturday and
+      Sunday. Plan a weekday visit.
+  - q: Can I walk around the garden on my own?
+    a: >-
+      No. Visits are by guided tour. Ask at the entrance on Reforma Sur for that
+      day's tour times and languages. Spanish tours run more often than English
+      ones.
+  - q: How long does a visit take?
+    a: >-
+      Allow an hour or more for the tour itself. Add time for the Museo de las
+      Culturas de Oaxaca in the former convent next door, which overlooks the
+      garden.
+  - q: How do I get there from the Zócalo?
+    a: >-
+      Walk north along the pedestrian Andador Macedonio Alcalá to the Templo de
+      Santo Domingo. It takes about ten minutes. Then go around the convent
+      complex to the garden entrance on Reforma Sur.
+  - q: What is the best season to visit?
+    a: >-
+      Both seasons work. In the dry months, roughly November to May, the cacti
+      and agaves stand out sharply. During the rains, usually June to September,
+      the beds and pools are greener and fuller. Bring sun protection all year.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-14'
 ---
 
 ## Behind the church

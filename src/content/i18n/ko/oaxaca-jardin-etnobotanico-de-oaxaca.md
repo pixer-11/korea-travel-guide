@@ -1,9 +1,9 @@
 ---
 lang: ko
 slug: oaxaca-jardin-etnobotanico-de-oaxaca
-srcHash: 'a9eff498e35b'
+srcHash: 'f9353457406c'
 title: 오아하카 민족식물원 여행 가이드 (4.4★)
-description: 오아하카 민족식물원(Jardín Etnobotánico de Oaxaca)은 오아하카데후아레스 센트로의 산토도밍고 성당 뒤편에 있습니다. 4.4★(리뷰 5,908개)를 받은 이곳의 방문객 후기와 운영 시간, 방문 팁을 정리했습니다.
+description: 오아하카 민족식물원(Jardín Etnobotánico de Oaxaca)은 오아하카데후아레스 센트로의 산토도밍고 성당 뒤편에 있습니다. 4.4★(리뷰 5,916개)를 받은 이곳의 방문객 후기와 운영 시간, 방문 팁을 정리했습니다.
 quickAnswer: 오아하카 민족식물원(Jardín Etnobotánico de Oaxaca)은 오아하카데후아레스(Oaxaca de Juárez) 센트로 지구의 산토도밍고 성당(Templo de Santo Domingo) 뒤편에 있습니다. 옛 수도원 부지였던 이곳에서는 지금 오아하카주 곳곳에서 모아 온 식물을 볼 수 있습니다. 월요일부터 금요일까지 오전 10시~오후 5시에 문을 열고 주말에는 쉽니다. 가이드 투어로만 입장할 수 있으니 레포르마 수르(Reforma Sur) 거리 쪽 입구에서 투어 시간과 언어를 먼저 확인하시기 바랍니다.
 faq:
   - q: 오아하카 민족식물원은 주말에도 문을 여나요?

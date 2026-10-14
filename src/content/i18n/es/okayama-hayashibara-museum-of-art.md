@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: okayama-hayashibara-museum-of-art
-srcHash: 'e54a869697f0'
+srcHash: '53510d238bb8'
 title: 'Museo de Arte Hayashibara: guía de viaje de Okayama (4.0★)'
-description: 'A pocos pasos del castillo de Okayama, en el barrio de Marunouchi, se encuentra el Museo de Arte Hayashibara. 4.0★ (324 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'A pocos pasos del castillo de Okayama, en el barrio de Marunouchi, se encuentra el Museo de Arte Hayashibara. 4.0★ (326 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'A pocos pasos del castillo de Okayama, en el barrio de Marunouchi, se encuentra el Museo de Arte Hayashibara. En sus salas se exponen espadas japonesas, armaduras, trajes de teatro nō y objetos lacados, buena parte de ellos vinculados a los señores Ikeda, que gobernaron Okayama. Calcule alrededor de una hora de visita y llegue en tranvía hasta la parada de Shiroshita. Antes de ir, conviene consultar la web oficial: las exposiciones cambian periódicamente y el museo cierra entre una muestra y otra.'
 faq:
   - q: ¿Cómo se llega al Museo de Arte Hayashibara desde la estación de Okayama?

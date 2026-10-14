@@ -1,44 +1,52 @@
 ---
-title: "Queen Victoria Market: Melbourne Travel Guide (4.5★)"
-description: "Queen Victoria Market sits on Queen St at the northern edge of Melbourne's CBD, inside the Free Tram Zone. 4.5★ (61,027 reviews) — what visitors say, hours, and tips."
-country: "Australia"
-region: "Melbourne"
-category: "hidden-gem"
-pubDate: "2026-10-14T07:48:37.847Z"
+title: 'Queen Victoria Market: Melbourne Travel Guide (4.5★)'
+description: >-
+  Queen Victoria Market sits on Queen St at the northern edge of Melbourne's
+  CBD, inside the Free Tram Zone. 4.5★ (61,035 reviews) — what visitors say,
+  hours, and tips.
+country: Australia
+region: Melbourne
+category: hidden-gem
+pubDate: '2026-10-14T07:48:37.847Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Aerial_photograph_of_Queen_Victoria_Market.jpg/1920px-Aerial_photograph_of_Queen_Victoria_Market.jpg"
-  credit: "Photo: Bob T / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Aerial_photograph_of_Queen_Victoria_Market.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Aerial_photograph_of_Queen_Victoria_Market.jpg/1920px-Aerial_photograph_of_Queen_Victoria_Market.jpg
+  credit: 'Photo: Bob T / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Aerial_photograph_of_Queen_Victoria_Market.jpg
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/5/57/Queen_Victoria_Market_Victoria_Street_Shopfronts%2C_Melbourne_Australia_%284602164168%29.jpg"
-    credit: "Photo: Rexness / Wikimedia Commons (CC BY-SA 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Queen_Victoria_Market_Victoria_Street_Shopfronts,_Melbourne_Australia_(4602164168).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/5/57/Queen_Victoria_Market_Victoria_Street_Shopfronts%2C_Melbourne_Australia_%284602164168%29.jpg
+    credit: 'Photo: Rexness / Wikimedia Commons (CC BY-SA 2.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Queen_Victoria_Market_Victoria_Street_Shopfronts,_Melbourne_Australia_(4602164168).jpg
 place:
-  id: "ChIJsVeQNzRd1moRUNQyBXZWBA8"
-  name: "Queen Victoria Market"
-  address: "Queen St, Melbourne VIC 3000, Australia"
+  id: ChIJsVeQNzRd1moRUNQyBXZWBA8
+  name: Queen Victoria Market
+  address: 'Queen St, Melbourne VIC 3000, Australia'
   rating: 4.5
-  userRatingsTotal: 61027
-  googleMapsUrl: "https://maps.google.com/?cid=1082084875369108560&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 61035
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1082084875369108560&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -37.8075798
   lng: 144.956785
-  phone: "+61 3 9320 5822"
+  phone: +61 3 9320 5822
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 6:00 AM – 3:00 PM"
-    - "Wednesday: Closed"
-    - "Thursday: 6:00 AM – 3:00 PM"
-    - "Friday: 6:00 AM – 3:00 PM"
-    - "Saturday: 6:00 AM – 4:00 PM"
-    - "Sunday: 9:00 AM – 4:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 6:00 AM – 3:00 PM'
+    - 'Wednesday: Closed'
+    - 'Thursday: 6:00 AM – 3:00 PM'
+    - 'Friday: 6:00 AM – 3:00 PM'
+    - 'Saturday: 6:00 AM – 4:00 PM'
+    - 'Sunday: 9:00 AM – 4:00 PM'
   busyness:
-    updated: 2026-10-14
+    updated: 2026-10-14T00:00:00.000Z
     weekdayBusy:
       - 10
       - 11
@@ -52,24 +60,46 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_384142575a584279514e55526f6d3164527a4e516556734a496843"
+    venueId: ven_384142575a584279514e55526f6d3164527a4e516556734a496843
 tags:
-  - "melbourne"
-  - "local market"
-quickAnswer: "Queen Victoria Market sits on Queen St at the northern edge of Melbourne's CBD, inside the Free Tram Zone. It is currently open Tuesday, Thursday and Friday 6am–3pm, Saturday 6am–4pm and Sunday 9am–4pm, and closed Monday and Wednesday. Weekends are packed from 9am to 4pm, so go on a weekday or arrive on Saturday before 9am."
+  - melbourne
+  - local market
+quickAnswer: >-
+  Queen Victoria Market sits on Queen St at the northern edge of Melbourne's
+  CBD, inside the Free Tram Zone. It is currently open Tuesday, Thursday and
+  Friday 6am–3pm, Saturday 6am–4pm and Sunday 9am–4pm, and closed Monday and
+  Wednesday. Weekends are packed from 9am to 4pm, so go on a weekday or arrive
+  on Saturday before 9am.
 faq:
-  - q: "When is the quietest time to visit Queen Victoria Market?"
-    a: "Weekends are busy from 9am to 4pm, which is the whole of Sunday's opening hours. A Tuesday, Thursday or Friday morning is the better choice. If you have to go on Saturday, arrive soon after the 6am opening and before 9am."
-  - q: "What days is Queen Victoria Market closed?"
-    a: "It is currently closed on Monday and Wednesday. It opens 6am–3pm on Tuesday, Thursday and Friday, 6am–4pm on Saturday, and 9am–4pm on Sunday. Seasonal night markets keep their own hours, so check the official website."
-  - q: "How do I get to Queen Victoria Market by public transport?"
-    a: "Take an Elizabeth Street tram to the Queen Victoria Market stop. The market is inside the Free Tram Zone. Flagstaff Station on the City Loop is also a short walk away."
-  - q: "How long should I spend at Queen Victoria Market?"
-    a: "Allow 1.5–2 hours to see the Meat Hall, the Deli Hall and the fruit and vegetable sheds. Allow more if you want to browse the general merchandise sheds or eat as you go."
-  - q: "What is Queen Victoria Market known for?"
-    a: "It is known for its fresh food halls, the art deco Deli Hall, hot jam doughnuts from the American Doughnut Kitchen van, and its 19th-century sheds. The site was once part of the Old Melbourne Cemetery."
+  - q: When is the quietest time to visit Queen Victoria Market?
+    a: >-
+      Weekends are busy from 9am to 4pm, which is the whole of Sunday's opening
+      hours. A Tuesday, Thursday or Friday morning is the better choice. If you
+      have to go on Saturday, arrive soon after the 6am opening and before 9am.
+  - q: What days is Queen Victoria Market closed?
+    a: >-
+      It is currently closed on Monday and Wednesday. It opens 6am–3pm on
+      Tuesday, Thursday and Friday, 6am–4pm on Saturday, and 9am–4pm on Sunday.
+      Seasonal night markets keep their own hours, so check the official
+      website.
+  - q: How do I get to Queen Victoria Market by public transport?
+    a: >-
+      Take an Elizabeth Street tram to the Queen Victoria Market stop. The
+      market is inside the Free Tram Zone. Flagstaff Station on the City Loop is
+      also a short walk away.
+  - q: How long should I spend at Queen Victoria Market?
+    a: >-
+      Allow 1.5–2 hours to see the Meat Hall, the Deli Hall and the fruit and
+      vegetable sheds. Allow more if you want to browse the general merchandise
+      sheds or eat as you go.
+  - q: What is Queen Victoria Market known for?
+    a: >-
+      It is known for its fresh food halls, the art deco Deli Hall, hot jam
+      doughnuts from the American Doughnut Kitchen van, and its 19th-century
+      sheds. The site was once part of the Old Melbourne Cemetery.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-14'
 ---
 
 Melbourne's first settlers are buried under the market. Part of the Old Melbourne Cemetery lies beneath the car park and sheds, and many graves were never moved. Above them, since 1878, the city has been buying its cabbages, lamb shoulders and cheap souvenirs.

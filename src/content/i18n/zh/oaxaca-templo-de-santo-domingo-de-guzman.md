@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: oaxaca-templo-de-santo-domingo-de-guzman
-srcHash: '7c7661d3bc8c'
+srcHash: '563569dc6f77'
 title: 瓦哈卡圣多明各-德古斯曼教堂游览指南
-description: 圣多明各-德古斯曼教堂（Templo de Santo Domingo de Guzmán）坐落在瓦哈卡老城区（Centro），位于马塞多尼奥·阿尔卡拉步行街（Andador Macedonio Alcalá）的尽头，从索卡洛广场（Zócalo）往北步行约10分钟即到。评分4.8★（19,281条评价）。本文汇总游客评价、开放时间和参观建议。
+description: 圣多明各-德古斯曼教堂（Templo de Santo Domingo de Guzmán）坐落在瓦哈卡老城区（Centro），位于马塞多尼奥·阿尔卡拉步行街（Andador Macedonio Alcalá）的尽头，从索卡洛广场（Zócalo）往北步行约10分钟即到。评分4.8★（19,302条评价）。本文汇总游客评价、开放时间和参观建议。
 quickAnswer: 圣多明各-德古斯曼教堂（Templo de Santo Domingo de Guzmán）坐落在瓦哈卡老城区（Centro），位于马塞多尼奥·阿尔卡拉步行街（Andador Macedonio Alcalá）的尽头，从索卡洛广场（Zócalo）往北步行约10分钟即到。教堂内部金碧辉煌，看一圈需要30至45分钟。隔壁由旧修道院改建的瓦哈卡文化博物馆（Museo de las Culturas de Oaxaca）至少还要留出两个小时。开放时间会随宗教仪式调整，出发前最好先确认一下，并尽量赶在两场弥撒之间进去参观。
 faq:
   - q: 怎样前往圣多明各-德古斯曼教堂？

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: oaxaca-jardin-etnobotanico-de-oaxaca
-srcHash: 'a9eff498e35b'
+srcHash: 'f9353457406c'
 title: 'Jardín Etnobotánico de Oaxaca: guía de viaje (4.4★)'
-description: Detrás del Templo de Santo Domingo, en el Centro de Oaxaca de Juárez, se encuentra el Jardín Etnobotánico de Oaxaca. Con 4.4★ (5,908 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
+description: Detrás del Templo de Santo Domingo, en el Centro de Oaxaca de Juárez, se encuentra el Jardín Etnobotánico de Oaxaca. Con 4.4★ (5,916 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
 quickAnswer: Detrás del Templo de Santo Domingo, en el Centro de Oaxaca de Juárez, se encuentra el Jardín Etnobotánico de Oaxaca. Sus terrenos pertenecieron en otro tiempo al convento y hoy albergan plantas reunidas en todo el estado de Oaxaca. Abre de lunes a viernes, de 10am a 5pm, y permanece cerrado los fines de semana. Como solo se accede con visita guiada, conviene confirmar primero los horarios y los idiomas de los recorridos en la entrada de Reforma Sur.
 faq:
   - q: ¿Abre el Jardín Etnobotánico de Oaxaca los fines de semana?

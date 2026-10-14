@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: melbourne-queen-victoria-market
-srcHash: '00b5602af44a'
+srcHash: 'eb2ce03cd040'
 title: 'Mercado de la Reina Victoria (Queen Victoria Market): guía de viaje de Melbourne (4.5★)'
-description: El Mercado de la Reina Victoria se encuentra en Queen St, en el extremo norte del centro de Melbourne y dentro de la Zona de Tranvía Gratuito. Con 4.5★ (61,027 reseñas), le contamos qué opinan los visitantes, sus horarios y algunos consejos.
+description: El Mercado de la Reina Victoria se encuentra en Queen St, en el extremo norte del centro de Melbourne y dentro de la Zona de Tranvía Gratuito. Con 4.5★ (61,035 reseñas), le contamos qué opinan los visitantes, sus horarios y algunos consejos.
 quickAnswer: El Mercado de la Reina Victoria (Queen Victoria Market) se encuentra en Queen St, en el extremo norte del centro de Melbourne y dentro de la Zona de Tranvía Gratuito (Free Tram Zone). Actualmente abre martes, jueves y viernes de 6am a 3pm, los sábados de 6am a 4pm y los domingos de 9am a 4pm; lunes y miércoles permanece cerrado. Como los fines de semana se llena de 9am a 4pm, conviene ir entre semana o llegar el sábado antes de las 9am.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Mercado de la Reina Victoria?

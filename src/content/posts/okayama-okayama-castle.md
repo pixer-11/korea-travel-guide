@@ -1,45 +1,51 @@
 ---
-title: "Okayama Castle: Travel Guide (4.3★)"
-description: "Okayama Castle sits in Marunouchi, Kita Ward, across the Asahi River from Korakuen Garden in central Okayama. It's a short tram ride from JR Okayama Station. 4.3★ (10,570 reviews) — what visitors say, hours, and tips."
-country: "Japan"
-region: "Okayama"
-category: "attraction"
-pubDate: "2026-10-11T00:20:03.224Z"
+title: 'Okayama Castle: Travel Guide (4.3★)'
+description: >-
+  Okayama Castle sits in Marunouchi, Kita Ward, across the Asahi River from
+  Korakuen Garden in central Okayama. It's a short tram ride from JR Okayama
+  Station. 4.3★ (10,595 reviews) — what visitors say, hours, and tips.
+country: Japan
+region: Okayama
+category: attraction
+pubDate: '2026-10-11T00:20:03.224Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/%E5%B2%A1%E5%B1%B1%E5%9F%8E_Okayama_Castle_-_panoramio.jpg/3840px-%E5%B2%A1%E5%B1%B1%E5%9F%8E_Okayama_Castle_-_panoramio.jpg"
-  credit: "Photo: lienyuan lee / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:%E5%B2%A1%E5%B1%B1%E5%9F%8E_Okayama_Castle_-_panoramio.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/%E5%B2%A1%E5%B1%B1%E5%9F%8E_Okayama_Castle_-_panoramio.jpg/3840px-%E5%B2%A1%E5%B1%B1%E5%9F%8E_Okayama_Castle_-_panoramio.jpg
+  credit: 'Photo: lienyuan lee / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:%E5%B2%A1%E5%B1%B1%E5%9F%8E_Okayama_Castle_-_panoramio.jpg
+  via: act
   focus:
     x: 50
-    y: 20
+    'y': 20
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/0/0a/Okayama_jo_01.jpg"
-    credit: "Photo: Maechan0360 / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Okayama_jo_01.jpg"
+  - url: 'https://upload.wikimedia.org/wikipedia/commons/0/0a/Okayama_jo_01.jpg'
+    credit: 'Photo: Maechan0360 / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Okayama_jo_01.jpg'
 place:
-  id: "ChIJER_WDSUGVDURujV4pMtef44"
-  name: "Okayama Castle"
-  address: "2-chōme-3-1 Marunouchi, Kita Ward, Okayama, 700-0823, Japan"
+  id: ChIJER_WDSUGVDURujV4pMtef44
+  name: Okayama Castle
+  address: '2-chōme-3-1 Marunouchi, Kita Ward, Okayama, 700-0823, Japan'
   rating: 4.3
-  userRatingsTotal: 10570
-  googleMapsUrl: "https://maps.google.com/?cid=10268029904158733754&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 10595
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10268029904158733754&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 34.6651878
   lng: 133.9360657
-  phone: "+81 86-225-2096"
+  phone: +81 86-225-2096
   openingHours:
-    - "Monday: 9:00 AM – 5:30 PM"
-    - "Tuesday: 9:00 AM – 5:30 PM"
-    - "Wednesday: 9:00 AM – 5:30 PM"
-    - "Thursday: 9:00 AM – 5:30 PM"
-    - "Friday: 9:00 AM – 5:30 PM"
-    - "Saturday: 9:00 AM – 5:30 PM"
-    - "Sunday: 9:00 AM – 5:30 PM"
+    - 'Monday: 9:00 AM – 5:30 PM'
+    - 'Tuesday: 9:00 AM – 5:30 PM'
+    - 'Wednesday: 9:00 AM – 5:30 PM'
+    - 'Thursday: 9:00 AM – 5:30 PM'
+    - 'Friday: 9:00 AM – 5:30 PM'
+    - 'Saturday: 9:00 AM – 5:30 PM'
+    - 'Sunday: 9:00 AM – 5:30 PM'
   busyness:
-    updated: 2026-10-11
+    updated: 2026-10-11T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 16
@@ -50,24 +56,41 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_34346665744d7034566a755255445647555344575f52454a496843"
+    venueId: ven_34346665744d7034566a755255445647555344575f52454a496843
 tags:
-  - "okayama"
-  - "Okayama Castle"
-quickAnswer: "Okayama Castle sits in Marunouchi, Kita Ward, across the Asahi River from Korakuen Garden in central Okayama. It's a short tram ride from JR Okayama Station. On weekdays it's calm for the whole 9am–5pm window, but try to avoid weekends between 10am and 4pm, when it's busiest."
+  - okayama
+  - Okayama Castle
+quickAnswer: >-
+  Okayama Castle sits in Marunouchi, Kita Ward, across the Asahi River from
+  Korakuen Garden in central Okayama. It's a short tram ride from JR Okayama
+  Station. On weekdays it's calm for the whole 9am–5pm window, but try to avoid
+  weekends between 10am and 4pm, when it's busiest.
 faq:
-  - q: "How do I get to Okayama Castle from Okayama Station?"
-    a: "Take the Okayama Electric Tramway Higashiyama line from the station's East Exit to Shiroshita, then walk about 10 minutes. Walking the whole way takes around 25 minutes."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays are quiet for the whole 9am–5pm window. On weekends, avoid 10am–4pm, which is the busiest stretch."
-  - q: "How long should I spend there?"
-    a: "Allow 60–90 minutes for the keep and grounds. Add about two hours if you're also visiting Korakuen across the Tsukimi-bashi bridge."
-  - q: "Is the castle original?"
-    a: "Mostly not. The keep is a 1966 concrete reconstruction after it burned in 1945. Two turrets, the Tsukimi-yagura and the Nishinomaru Nishite-yagura, and some of the stone walls are original."
-  - q: "What are the opening hours?"
-    a: "9am–5:30pm, with later opening on some event nights. It closes December 29–31, so check the official site around the New Year."
+  - q: How do I get to Okayama Castle from Okayama Station?
+    a: >-
+      Take the Okayama Electric Tramway Higashiyama line from the station's East
+      Exit to Shiroshita, then walk about 10 minutes. Walking the whole way
+      takes around 25 minutes.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekdays are quiet for the whole 9am–5pm window. On weekends, avoid
+      10am–4pm, which is the busiest stretch.
+  - q: How long should I spend there?
+    a: >-
+      Allow 60–90 minutes for the keep and grounds. Add about two hours if
+      you're also visiting Korakuen across the Tsukimi-bashi bridge.
+  - q: Is the castle original?
+    a: >-
+      Mostly not. The keep is a 1966 concrete reconstruction after it burned in
+      1945. Two turrets, the Tsukimi-yagura and the Nishinomaru Nishite-yagura,
+      and some of the stone walls are original.
+  - q: What are the opening hours?
+    a: >-
+      9am–5:30pm, with later opening on some event nights. It closes December
+      29–31, so check the official site around the New Year.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-14'
 ---
 
 ## A black keep above the Asahi River

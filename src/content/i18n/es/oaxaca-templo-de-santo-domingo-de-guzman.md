@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: oaxaca-templo-de-santo-domingo-de-guzman
-srcHash: '7c7661d3bc8c'
+srcHash: '563569dc6f77'
 title: 'Templo de Santo Domingo de Guzmán: guía de viaje de Oaxaca'
-description: 'En lo alto del Andador Macedonio Alcalá, la calle peatonal del Centro de Oaxaca, se alza el Templo de Santo Domingo de Guzmán, a unos 10 minutos a pie al norte del Zócalo. 4.8★ (19,281 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En lo alto del Andador Macedonio Alcalá, la calle peatonal del Centro de Oaxaca, se alza el Templo de Santo Domingo de Guzmán, a unos 10 minutos a pie al norte del Zócalo. 4.8★ (19,302 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En lo alto del Andador Macedonio Alcalá, la calle peatonal del Centro de Oaxaca, se alza el Templo de Santo Domingo de Guzmán, a unos 10 minutos a pie al norte del Zócalo. Para recorrer la iglesia y su decoración dorada bastan de 30 a 45 minutos. El Museo de las Culturas de Oaxaca, instalado en el antiguo convento contiguo, exige dos horas o más. Como los horarios cambian según los oficios religiosos, conviene consultarlos antes de ir y entrar entre una misa y otra.
 faq:
   - q: ¿Cómo se llega al Templo de Santo Domingo de Guzmán?

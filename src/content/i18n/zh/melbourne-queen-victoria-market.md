@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: melbourne-queen-victoria-market
-srcHash: '00b5602af44a'
+srcHash: 'eb2ce03cd040'
 title: 维多利亚女王市场：墨尔本旅行指南（4.5★）
-description: 维多利亚女王市场位于墨尔本中央商务区北缘的Queen St，在免费电车区范围内。4.5★（61,027条评价），游客评价、营业时间和实用贴士都在这里。
+description: 维多利亚女王市场位于墨尔本中央商务区北缘的Queen St，在免费电车区范围内。4.5★（61,035条评价），游客评价、营业时间和实用贴士都在这里。
 quickAnswer: 维多利亚女王市场（Queen Victoria Market）坐落在墨尔本中央商务区北缘的Queen St上，属于免费电车区。目前的营业时间为：周二、周四、周五6am–3pm，周六6am–4pm，周日9am–4pm，周一和周三休市。周末从9am到4pm人山人海，建议工作日前往，或者周六9am之前到。
 faq:
   - q: 什么时候去维多利亚女王市场人最少？

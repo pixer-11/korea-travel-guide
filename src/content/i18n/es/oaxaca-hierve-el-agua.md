@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: oaxaca-hierve-el-agua
-srcHash: 'cfe5eb07b79f'
+srcHash: '5f2d037947b1'
 title: 'Hierve el Agua: guía de viaje en Oaxaca (4.6★)'
-description: 'Al borde de un acantilado, a unos 70 km al este de la ciudad de Oaxaca y en los cerros que dominan Mitla, Hierve el Agua reúne una cascada petrificada y pozas minerales alimentadas por manantiales. 4.6★ (23,751 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'Al borde de un acantilado, a unos 70 km al este de la ciudad de Oaxaca y en los cerros que dominan Mitla, Hierve el Agua reúne una cascada petrificada y pozas minerales alimentadas por manantiales. 4.6★ (23,785 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: A unos 70 km al este de la ciudad de Oaxaca, en los cerros que dominan Mitla, Hierve el Agua reúne una cascada petrificada y varias pozas minerales alimentadas por manantiales, todo ello al borde de un acantilado. Abre todos los días de 7:00 AM a 6:00 PM. Como es un lugar muy concurrido, conviene llegar cerca de la hora de apertura, antes que las camionetas de tours procedentes de Oaxaca, y llevar pesos en efectivo para pagar en las casetas comunitarias de acceso.
 faq:
   - q: ¿A qué distancia está Hierve el Agua de la ciudad de Oaxaca?

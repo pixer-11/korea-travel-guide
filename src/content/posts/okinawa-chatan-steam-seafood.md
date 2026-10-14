@@ -1,27 +1,33 @@
 ---
 title: 'Chatan Steam Seafood: Where to Eat in Okinawa'
-description: Chatan Steam Seafood is a pick-and-steam seafood buffet on the 3rd floor of a building in Mihama, Chatan — the American Village district on Okinawa's west coast.
+description: >-
+  Chatan Steam Seafood is a pick-and-steam seafood buffet on the 3rd floor of a
+  building in Mihama, Chatan — the American Village district on Okinawa's west
+  coast.
 country: Japan
 region: Okinawa
 category: restaurant
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/11141029_9576yXdaVYCMS2fYlxQsix84hZbWpCYcOjV6ZOhFw1w.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/11141029_9576yXdaVYCMS2fYlxQsix84hZbWpCYcOjV6ZOhFw1w.jpg
   credit: 'Photo: Foursquare user content (Chatan Steam Seafood 蒸気海鮮)'
   license: foursquare
-  source: https://foursquare.com/v/5bf902fd628c83002c4d27df
+  source: 'https://foursquare.com/v/5bf902fd628c83002c4d27df'
 gallery:
-  - url: https://fastly.4sqi.net/img/general/original/520196877_1ll_8Y6Axp-jGn5ssmk4k1imTJnYGmCCg3dPid9sK9M.jpg
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/520196877_1ll_8Y6Axp-jGn5ssmk4k1imTJnYGmCCg3dPid9sK9M.jpg
     credit: 'Photo: Foursquare user content (Chatan Steam Seafood 蒸気海鮮)'
     license: foursquare
-    source: https://foursquare.com/v/5bf902fd628c83002c4d27df
+    source: 'https://foursquare.com/v/5bf902fd628c83002c4d27df'
 place:
   id: ChIJmR_Uxc8T5TQRUiU6osESyL4
   name: Chatan Steam Seafood
-  address: Japan, 〒904-0115 Okinawa, Nakagami District, Chatan, Mihama, ５１−２ ３Ｆ
+  address: 'Japan, 〒904-0115 Okinawa, Nakagami District, Chatan, Mihama, ５１−２ ３Ｆ'
   rating: 4.7
-  userRatingsTotal: 3492
-  googleMapsUrl: https://maps.google.com/?cid=13747258485408146770&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 3507
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13747258485408146770&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 26.3202086
   lng: 127.7536892
@@ -42,7 +48,7 @@ place:
       - 20
       - 21
     venueId: ven_344c795345736f365569555251543554386378555f526d4a496843
-  phone: '+81 98-851-8199'
+  phone: +81 98-851-8199
   openingHours:
     - 'Monday: 11:00 AM – 11:00 PM'
     - 'Tuesday: 11:00 AM – 11:00 PM'
@@ -54,19 +60,43 @@ place:
 tags:
   - okinawa
   - local restaurant
-quickAnswer: Chatan Steam Seafood is a pick-and-steam seafood buffet on the 3rd floor of a building in Mihama, Chatan — the American Village district on Okinawa's west coast. Diners select fresh shellfish, crab legs, shrimp, and fish from an ice display, hand it to staff, and it's steamed to order and brought to the table. Go early or off-peak (weekday lunch) to avoid the wait; it regularly draws long lines despite holding a 4.7 rating across nearly 3,500 reviews.
+quickAnswer: >-
+  Chatan Steam Seafood is a pick-and-steam seafood buffet on the 3rd floor of a
+  building in Mihama, Chatan — the American Village district on Okinawa's west
+  coast. Diners select fresh shellfish, crab legs, shrimp, and fish from an ice
+  display, hand it to staff, and it's steamed to order and brought to the table.
+  Go early or off-peak (weekday lunch) to avoid the wait; it regularly draws
+  long lines despite holding a 4.7 rating across nearly 3,500 reviews.
 faq:
   - q: How do I get to Chatan Steam Seafood without a car?
-    a: There's no train line to Chatan, so most visitors drive or take a taxi. If you're staying in Naha, a taxi takes about 30-40 minutes; some resort hotels along the Chatan coast offer shuttles into American Village.
+    a: >-
+      There's no train line to Chatan, so most visitors drive or take a taxi. If
+      you're staying in Naha, a taxi takes about 30-40 minutes; some resort
+      hotels along the Chatan coast offer shuttles into American Village.
   - q: How much does a meal cost?
-    a: Seafood is typically priced by weight or piece since it's a pick-and-steam format, so costs vary by what you order. Treat any price estimate as approximate and confirm current pricing at the counter before ordering a big spread.
+    a: >-
+      Seafood is typically priced by weight or piece since it's a pick-and-steam
+      format, so costs vary by what you order. Treat any price estimate as
+      approximate and confirm current pricing at the counter before ordering a
+      big spread.
   - q: Do I need a reservation?
-    a: The restaurant is very popular and wait times can be long, especially evenings and weekends. Ask locally about reservations or a waitlist system, and consider arriving right at opening or on a weekday for a shorter wait.
+    a: >-
+      The restaurant is very popular and wait times can be long, especially
+      evenings and weekends. Ask locally about reservations or a waitlist
+      system, and consider arriving right at opening or on a weekday for a
+      shorter wait.
   - q: How long should I plan to spend there?
-    a: Budget at least 1.5 to 2 hours including wait time, since the steaming and multiple rounds of ordering make it a leisurely meal best shared among two or more people.
+    a: >-
+      Budget at least 1.5 to 2 hours including wait time, since the steaming and
+      multiple rounds of ordering make it a leisurely meal best shared among two
+      or more people.
   - q: What's nearby after dinner?
-    a: The restaurant is inside American Village (Depot Island), so you can walk to Sunset Beach, the area's Ferris wheel, and a cluster of shops and cafés right after eating.
+    a: >-
+      The restaurant is inside American Village (Depot Island), so you can walk
+      to Sunset Beach, the area's Ferris wheel, and a cluster of shops and cafés
+      right after eating.
 aiGenerated: true
+updatedDate: '2026-10-14'
 ---
 
 ## Why go

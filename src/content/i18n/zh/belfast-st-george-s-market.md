@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: belfast-st-george-s-market
-srcHash: 'e5893cff47d7'
+srcHash: '018d8a40150f'
 title: 贝尔法斯特圣乔治市场旅行指南（4.6★）
-description: 圣乔治市场位于贝尔法斯特市中心的东桥街（East Bridge Street），从拉尼恩广场站（Lanyon Place）步行几分钟即到。评分4.6★（14,119条评价），本文整理了游客评价、营业时间和实用贴士。
+description: 圣乔治市场位于贝尔法斯特市中心的东桥街（East Bridge Street），从拉尼恩广场站（Lanyon Place）步行几分钟即到。评分4.6★（14,122条评价），本文整理了游客评价、营业时间和实用贴士。
 quickAnswer: 圣乔治市场位于贝尔法斯特市中心的东桥街（East Bridge Street），从拉尼恩广场站（Lanyon Place）步行过去只要几分钟。这是一座维多利亚时代的室内市场，目前每周只开三天：周五上午8点–下午2点，周六上午9点–下午3点，周日上午10点–下午3点，周一至周四不营业。周末从上午9点到下午3点一直人头攒动，想从容逛摊的话，建议周五来。
 faq:
   - q: 圣乔治市场哪几天开放？
