@@ -11,6 +11,7 @@ import { localizeEsim } from '../i18n/esim';
 import { esimPageT } from '../i18n/esim-page-strings';
 import { homeT } from '../i18n/home-strings';
 import { esimCountries } from '../lib/esim-paths.mjs';
+import { whenToGoCountryPages } from '../lib/when-to-go-paths.mjs';
 import { CMP_MARKS, alertTipIndex, monthRuns } from '../lib/esim-page.mjs';
 import { homeGroup, GROUP_ORDER } from '../lib/home-data.mjs';
 import essentialsFacts from '../../data/essentials-facts.json';
@@ -97,6 +98,11 @@ const monthName = (m: number) => new Intl.DateTimeFormat(locale, { month: 'long'
 const goodRuns = monthRuns(bestMonths);
 const monthsText = goodRuns.map(([s, e]) => (s === e ? monthName(s) : `${monthName(s)}–${monthName(e)}`)).join(', ');
 const destSlug = countriesData.countries.find((c) => c.name === country.name)?.slug ?? country.slug;
+// The months come from the essentials guide, the when-to-go pages from the
+// climate data — a country can have the first without the second. Macau's
+// climate is withheld (sea-cell grid, 10-07), so this card linked to a 404 in
+// all five languages (weekly link check, 10-14). Same guard as RegionsIndex.
+const hasWhenToGo = (await whenToGoCountryPages()).some((c: any) => c.countrySlug === destSlug);
 
 const steps = [1, 2, 3, 4, 5].map((n) => fill(`esim.setup${n}`));
 const buys = [1, 2, 3, 4, 5].map((n) => fill(`esim.buy${n}`));
@@ -294,10 +300,16 @@ const jsonLd = {
           </div>
         )}
         {monthsText && (
-          <a class="es-card es-months" href={localizePath(`/tools/when-to-go/${destSlug}/`, lang)}>
-            <span><b>{E('monTitle', { country: countryLabel })}</b><small>{E('monText', { months: monthsText, country: countryLabel })}</small></span>
-            <em>{E('monBtn')}</em>
-          </a>
+          hasWhenToGo ? (
+            <a class="es-card es-months" href={localizePath(`/tools/when-to-go/${destSlug}/`, lang)}>
+              <span><b>{E('monTitle', { country: countryLabel })}</b><small>{E('monText', { months: monthsText, country: countryLabel })}</small></span>
+              <em>{E('monBtn')}</em>
+            </a>
+          ) : (
+            <div class="es-card es-months">
+              <span><b>{E('monTitle', { country: countryLabel })}</b><small>{E('monText', { months: monthsText, country: countryLabel })}</small></span>
+            </div>
+          )
         )}
       </div>
     </section>
