@@ -15638,11 +15638,11 @@
   "at": "2026-09-14T15:43:34.452Z"
  },
  "ko/bangkok-the-weeknd-after-hours-til-dawn-tour": {
-  "hash": "cb3681100ca5",
+  "hash": "ee72bd674905",
   "score": 1,
   "registerBreak": false,
-  "worst": "이 사실만으로도 더 위켄드가 방콕에 들고 오는 무대의 규모를 짐작할 수 있습니다.",
-  "at": "2026-09-14T15:43:40.885Z"
+  "worst": "이런 연속 공연에는 보통 태국 관객뿐 아니라 인접 국가 관객도 대거 몰립니다.",
+  "at": "2026-10-14T13:06:49.389Z"
  },
  "ko/bangkok-treehouse-cafe-bar": {
   "hash": "96da84788f6f",
@@ -35999,5 +35999,54 @@
   "registerBreak": false,
   "worst": "用这种幽默谈论公共艺术，本身就是这座城市的说话方式。",
   "at": "2026-10-14T07:52:39.982Z"
+ },
+ "es/bangkok-the-weeknd-after-hours-til-dawn-tour": {
+  "hash": "5d55a157a318",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Nada de esto era exclusivo de Bangkok, pero describe la producción contratada para las tres fechas.",
+  "at": "2026-10-14T13:06:38.820Z"
+ },
+ "es/istanbul-akbank-jazz-festival": {
+  "hash": "2345cc231124",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "desde İstiklal no es una distancia para recorrer a pie",
+  "at": "2026-10-14T13:06:41.404Z"
+ },
+ "es/singapore-avenged-sevenfold-asia-tour-2026": {
+  "hash": "2005c7cf4554",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "...de la que se sube a la entrada en escalera mecánica, literalmente",
+  "at": "2026-10-14T13:06:48.009Z"
+ },
+ "ko/tokyo-ezra-collective-tokyo": {
+  "hash": "0a1bbc35cf6a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "유리카모메선은 밤늦게 운행을 마치는데, 다른 지역의 일반적인 페스티벌 종료 시각보다 훨씬 이릅니다.",
+  "at": "2026-10-14T13:08:14.347Z"
+ },
+ "ja/ulaanbaatar-lanzhou-beef-noodles-halal-restaurant": {
+  "hash": "a389d41d43ef",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "現在は月曜から土曜まで、9amに開店して11pmに閉店します。",
+  "at": "2026-10-14T13:07:00.183Z"
+ },
+ "ko/ulaanbaatar-lanzhou-beef-noodles-halal-restaurant": {
+  "hash": "edb6447b271f",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "현재 월요일부터 토요일까지 9am에 문을 열어 11pm에 닫습니다.",
+  "at": "2026-10-14T13:08:20.547Z"
+ },
+ "zh/ulaanbaatar-lanzhou-beef-noodles-halal-restaurant": {
+  "hash": "84c79e220a90",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "这门手艺出自回族，也就是中国讲汉语的穆斯林群体，所以无论走到哪里，兰州拉面馆几乎都是清真的。",
+  "at": "2026-10-14T13:07:10.695Z"
  }
 }

@@ -1,56 +1,56 @@
 ---
 lang: es
 slug: tokyo-ezra-collective-tokyo
-srcHash: 'b91ed5079578'
-title: 'Ezra Collective en Tokio: fechas, entradas y recinto (Tokio)'
-description: Ezra Collective se presenta en Tokio, Japón, el 13 de octubre de 2026. Qué es este concierto, cuándo y dónde tiene lugar, y cómo organizar el viaje en torno a él.
-quickAnswer: Ezra Collective se presentará en Toyosu Pit el 13 de octubre de 2026, en lo que será el primer show como cabeza de cartel del quinteto de jazz londinense en Japón. Toyosu Pit queda a poca distancia a pie de la estación Shin-Toyosu, en la línea Yurikamome. Antes de reservar el viaje, conviene confirmar el horario y la disponibilidad de entradas en el sitio oficial.
+srcHash: '88e5138c34fd'
+title: 'Ezra Collective en Tokio: fechas, entradas y recinto'
+description: El concierto de Ezra Collective en Tokio estaba previsto para el 13 de octubre de 2026 en Toyosu Pit (Tokio, Japón). Se anunció como el primer concierto como cabeza de cartel del quinteto de jazz londinense en Japón.
+quickAnswer: El concierto de Ezra Collective en Tokio estaba previsto para el 13 de octubre de 2026 en Toyosu Pit, y se anunció como el primero del quinteto de jazz londinense como cabeza de cartel en Japón. Toyosu Pit se encuentra a pocos minutos a pie de la estación de Shin-Toyosu, en la línea Yurikamome.
 faq:
-  - q: ¿Dónde se realiza Ezra Collective en Tokio?
-    a: En Toyosu Pit, en el distrito de Koto, Tokio, a poca distancia a pie de la estación Shin-Toyosu, en la línea Yurikamome.
-  - q: ¿Qué día es el show?
-    a: El 13 de octubre de 2026. Conviene confirmar el horario y las entradas en el sitio oficial antes de reservar.
-  - q: ¿Es este el primer show de Ezra Collective en Tokio?
-    a: Sí, se presenta como su debut como cabeza de cartel en Japón.
-  - q: ¿Cómo se llega a Toyosu Pit?
-    a: Tomando la línea Yurikamome hasta la estación Shin-Toyosu y caminando entre 5 y 7 minutos. Otra opción es la línea Yurakucho hasta la estación Toyosu, aunque desde allí la caminata es más larga.
-  - q: ¿Qué hay cerca para quienes llegan temprano?
-    a: El mercado de Toyosu, ideal para una visita matutina al mercado de pescado; LaLaport Toyosu, para comer y hacer compras; y Odaiba, a poca distancia en tren.
+  - q: ¿Dónde era el concierto de Ezra Collective en Tokio?
+    a: El concierto estaba previsto en Toyosu Pit, en el distrito de Koto (Tokio), a pocos minutos a pie de la estación de Shin-Toyosu, en la línea Yurikamome.
+  - q: ¿En qué fecha era el concierto?
+    a: La fecha anunciada era el 13 de octubre de 2026, en Toyosu Pit.
+  - q: ¿Era el primer concierto de Ezra Collective en Tokio?
+    a: Sí. Se anunció como su primer concierto como cabeza de cartel en Japón.
+  - q: ¿Cómo se llegaba a Toyosu Pit?
+    a: La opción más directa era la línea Yurikamome hasta la estación de Shin-Toyosu, desde donde quedaban unos 5–7 minutos a pie. La alternativa era la línea Yurakucho hasta la estación de Toyosu, con un paseo más largo.
+  - q: ¿Qué había cerca para quien llegara con tiempo?
+    a: El mercado de Toyosu, famoso por su lonja de pescado a primera hora de la mañana; LaLaport Toyosu, con tiendas y restaurantes; y Odaiba, a un breve trayecto.
 ---
 
-## Qué está pasando
+## De qué se trataba
 
-Ezra Collective, el quinteto de jazz londinense ganador del Mercury Prize, ofrecerá el 13 de octubre de 2026 su primer show como cabeza de cartel en Japón. El recinto elegido es Toyosu Pit, una sala de pie de tamaño mediano en el distrito de Koto, en Tokio, pensada precisamente para conciertos en vivo de alta energía.
+Ezra Collective, el quinteto de jazz londinense ganador del premio Mercury, tenía previsto ofrecer el 13 de octubre de 2026 su primer concierto como cabeza de cartel en Japón. El escenario elegido era Toyosu Pit, una sala de pie de tamaño medio situada en el distrito tokiota de Koto y concebida precisamente para directos de mucha energía como este.
 
-El sonido de la banda combina afrobeat, hip-hop y jazz, y sus presentaciones en vivo son más bien intensas y físicas que reposadas o de público sentado. El piso plano y abierto de Toyosu Pit encaja bien con ese estilo: hay que esperar un público de pie, no filas de butacas.
+En la música del grupo se funden el afrobeat, el hip-hop y el jazz, y sus conciertos tienden más a lo ruidoso y lo físico que a la escucha sentada y contenida. La pista de Toyosu Pit, llana y diáfana, encaja bien con ese estilo, ya que la sala está pensada para un público de pie y no para filas de butacas.
 
-Se trata de su debut en Japón, así que no existen shows previos en Tokio con los que compararlo. Conviene pensarlo como un evento único y no como una parada dentro de una gira recurrente.
+Al anunciarse como su estreno en Japón, no existían conciertos anteriores en Tokio con los que compararlo. Se trataba de una cita única, no de una parada dentro de una gira habitual.
 
-## Toyosu Pit: cómo llegar y cómo ingresar
+## Toyosu Pit: cómo llegar y cómo entrar
 
-Toyosu Pit se ubica en el distrito de Koto, sobre terrenos ganados al mar en la bahía de Tokio, dentro de la zona de Toyosu, un área reconvertida a partir de antiguos terrenos de una planta de gas en oficinas, viviendas y espacios para eventos.
+Toyosu Pit está en el distrito de Koto, sobre los terrenos ganados al mar en la bahía de Tokio. Forma parte de la zona de Toyosu, donde unos antiguos terrenos de una fábrica de gas se transformaron en oficinas, viviendas y espacios para eventos.
 
-- Estación más cercana: Shin-Toyosu, en la línea automatizada Yurikamome.
-- Caminata desde la estación hasta el recinto: entre 5 y 7 minutos aproximadamente, en un trayecto mayormente llano y techado.
-- Ruta alternativa: estación Toyosu, en la línea Yurakucho, seguida de una caminata más larga o un breve trayecto en autobús o taxi.
-- La sala ocupa un galpón reconvertido de estilo industrial, con piso de concreto, techos altos y sin butacas fijas para los shows de pie.
+- Estación más cercana: Shin-Toyosu, en la línea automática Yurikamome
+- Trayecto a pie de la estación al recinto: unos 5–7 minutos, casi todo llano y a cubierto
+- Ruta alternativa: la estación de Toyosu, en la línea Yurakucho, con un paseo más largo o un breve trayecto en autobús o taxi
+- La sala ocupa una nave de estilo almacén reconvertida, con suelo de hormigón, techos altos y sin asientos fijos en los conciertos de pie
 
-Los trenes de la línea Yurikamome parten desde Shimbashi, donde conectan con las líneas JR y Ginza, por lo que la mayoría de los visitantes que se hospedan en el centro de Tokio hacen transbordo en esa estación.
+Los trenes de la Yurikamome salen de Shimbashi, donde enlazan con las líneas JR y Ginza, de modo que la mayoría de quienes se alojan en hoteles del centro de Tokio hacen transbordo allí.
 
 ## Entradas y precios
 
-No se detallan aquí las categorías exactas de entradas ni sus precios para este show, ya que varían según el vendedor y cambian con el tiempo. En los shows de clubes y arenas en Japón suele haber una distinción entre las entradas de piso, para el público de pie, y las de alguna zona elevada o con asientos, cuando esta existe.
+En conciertos de pie como este, el precio suele variar según el vendedor y la categoría. En los conciertos japoneses, tanto en clubes como en grandes recintos, lo habitual es distinguir las entradas de pista de las de cualquier zona elevada o con asiento, cuando la hay.
 
-Muchos fanáticos internacionales prefieren comprar a través de agencias oficiales de venta en el extranjero o de plataformas con verificación de reventa, en lugar de recurrir a sitios japoneses que exigen una dirección o un número de teléfono local. Además, algunos recintos japoneses aplican un sistema de ingreso numerado para las entradas de pie, según el cual el número asignado determina el momento en que se permite el acceso a la pista, y no el simple orden de llegada a la puerta.
+El público extranjero suele comprar a través de agencias oficiales en el extranjero o de plataformas de reventa verificadas, en lugar de recurrir a las webs nacionales japonesas, que exigen una dirección o un teléfono locales. Algunos recintos japoneses aplican además un sistema de acceso numerado para las entradas de pista: el número de la entrada determina el turno en que cada asistente accede a la sala, en vez de entrar por orden de llegada.
 
-Antes de hacer planes, conviene confirmar las fechas exactas, las categorías de entradas y los detalles de la puesta a la venta en los canales oficiales de Ezra Collective o de Toyosu Pit. No conviene guiarse por el precio base que figura en sitios de reventa.
+Los precios del mercado de reventa no son una referencia fiable del precio original de un concierto.
 
-## Cómo aprovechar la noche en los alrededores de Toyosu
+## Una noche completa en Toyosu
 
-Toyosu es en sí misma una zona moderna y de baja altura, construida en torno al traslado del mercado de pescado y productos frescos, con parques junto al agua y complejos comerciales, por lo que resulta más tranquila y menos concentrada que las zonas de vida nocturna del centro de Tokio.
+Toyosu es un distrito moderno de edificios bajos que ha crecido en torno al traslado de un mercado de pescado y productos frescos, a parques junto al agua y a centros comerciales. Por eso resulta más tranquilo y disperso que las zonas de ocio nocturno del centro de Tokio.
 
-- Mercado de Toyosu: el mercado mayorista de pescado que asumió las funciones mayoristas que antes cumplía el mercado exterior de Tsukiji; abre por las mañanas y vale la pena visitarlo temprano ese mismo día si uno se levanta temprano.
-- LaLaport Toyosu: un gran complejo de tiendas y restaurantes a poca distancia a pie de la estación, útil para comer algo antes del show.
-- Harumi y Odaiba: conectadas por puentes y trayectos cortos, zonas que vale la pena recorrer si se llega a Tokio con un día de anticipación.
+- Mercado de Toyosu: el mercado mayorista de pescado que asumió las funciones mayoristas del mercado exterior de Tsukiji; abre por las mañanas y su horario temprano permite visitarlo el mismo día de un concierto nocturno
+- LaLaport Toyosu: un gran complejo de tiendas y restaurantes a poca distancia a pie de la estación, con numerosas opciones para comer antes del concierto
+- Harumi y Odaiba: unidos por puentes y trayectos cortos, se combinan fácilmente en una jornada por la bahía
 
-Los trenes de la línea Yurikamome dejan de circular relativamente temprano por la noche, mucho antes de los horarios habituales de cierre de festivales en otros lugares, por lo que conviene revisar el horario del último tren antes del show y no después. Como respaldo, siempre queda la opción de un taxi de regreso hacia el centro de Tokio si los tiempos se ajustan demasiado.
+Los trenes de la Yurikamome dejan de circular a última hora de la noche, mucho antes que los toques de queda habituales de los festivales en otros lugares. Una vez pasado el último tren, el taxi de vuelta al centro de Tokio es la alternativa habitual.

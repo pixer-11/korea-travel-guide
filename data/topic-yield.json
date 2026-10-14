@@ -34,8 +34,8 @@
    "hits": 62
   },
   "noodles": {
-   "attempts": 56,
-   "hits": 1
+   "attempts": 69,
+   "hits": 2
   },
   "old quarter": {
    "attempts": 134,
@@ -50,7 +50,7 @@
    "hits": 6
   },
   "seafood": {
-   "attempts": 85,
+   "attempts": 88,
    "hits": 3
   },
   "hidden gem": {
@@ -58,7 +58,7 @@
    "hits": 76
   },
   "breakfast": {
-   "attempts": 52,
+   "attempts": 53,
    "hits": 5
   },
   "trendy cafe": {
@@ -70,11 +70,11 @@
    "hits": 18
   },
   "bakery": {
-   "attempts": 53,
+   "attempts": 56,
    "hits": 3
   },
   "bar": {
-   "attempts": 41,
+   "attempts": 54,
    "hits": 0
   },
   "vegetarian": {
@@ -530,5 +530,5 @@
    "hits": 1
   }
  },
- "updated": "2026-10-14T07:48:34.010Z"
+ "updated": "2026-10-14T13:02:11.487Z"
 }

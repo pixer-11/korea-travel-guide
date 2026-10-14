@@ -27517,6 +27517,12 @@
   "reason": "publish gate: Shows Gandantegchinlen Monastery exterior in Ulaanbaatar, representative view",
   "at": "2026-10-11T14:24:51.792Z"
  },
+ "ulaanbaatar-lanzhou-beef-noodles-halal-restaurant\u0001https://upload.wikimedia.org/wikipedia/commons/f/fa/Lanzhou_Beef_Noodles_%28S%C3%BCkhbaatar%2C_Ulaanbaatar%29.jpg": {
+  "slug": "ulaanbaatar-lanzhou-beef-noodles-halal-restaurant",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior shows restaurant sign and building in Ulaanbaatar",
+  "at": "2026-10-14T13:02:11.455Z"
+ },
  "ulaanbaatar-manzushir-monastery\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Manzushir_Monastery.jpg/1920px-Manzushir_Monastery.jpg": {
   "slug": "ulaanbaatar-manzushir-monastery",
   "verdict": "MATCH",
