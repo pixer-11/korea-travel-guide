@@ -1,6 +1,12 @@
-Places 예산: backfill 몫 21회 (오늘 사용 10/100)
+Places 예산: backfill 몫 25회 (오늘 사용 10/100)
 Priority: 251 itinerary stop(s) queued first
+  – birmingham-victoria-square.md: nothing new (resting 60d)
+  – dresden-dresdner-striezelmarkt.md: nothing new (resting 60d)
+  – guadalajara-centro-historico-de-guadalajara.md: nothing new (resting 60d)
   – heidelberg-kornmarkt.md: nothing new (resting 60d)
-  – ulaanbaatar-bogd-khan-uul.md: nothing new (resting 60d)
+  – merida-arco-de-san-juan.md: nothing new (resting 60d)
+  – tulum-templo-del-dios-del-viento.md: nothing new (resting 60d)
+  – nape-templo-de-kun-iam.md: nothing new (resting 60d)
+  – oaxaca-el-llano.md: nothing new (resting 60d)
 
-BACKFILL RESULT: updated 0, backlog-updated 0, already-complete 1421, no-new-data 658, no-place 823, closed-quarantined 0, quota-429 0, api-error 0, api-calls 2, remaining-askable 0 (APPLIED).
+BACKFILL RESULT: updated 0, backlog-updated 0, already-complete 1426, no-new-data 663, no-place 823, closed-quarantined 0, quota-429 0, api-error 0, api-calls 8, remaining-askable 0 (APPLIED).
