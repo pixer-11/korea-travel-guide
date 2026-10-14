@@ -2157,9 +2157,9 @@
  },
  "bangkok-gamescom-asia-x-thailand-game-show-2026\u0001https://upload.wikimedia.org/wikipedia/commons/d/d9/Gamescom_2025.jpg": {
   "slug": "bangkok-gamescom-asia-x-thailand-game-show-2026",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Cosplayers at gaming event venue, QSNCC Bangkok",
-  "at": "2026-10-13T23:23:47.617Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"gamescom\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-14T08:00:21.705Z"
  },
  "bangkok-gamescom-asia-x-thailand-game-show-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/World_of_Warcraft_concert_stage_at_Gamescom_2013_%289588475141%29.jpg/3840px-World_of_Warcraft_concert_stage_at_Gamescom_2013_%289588475141%29.jpg": {
   "slug": "bangkok-gamescom-asia-x-thailand-game-show-2026",
@@ -19705,9 +19705,9 @@
  },
  "paris-young-posse-pilot-3-1st-flight-to-eur\u0001https://upload.wikimedia.org/wikipedia/commons/d/d0/Brett_Young_in_concert_2015.jpg": {
   "slug": "paris-young-posse-pilot-3-1st-flight-to-eur",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Performer on stage at concert venue",
-  "at": "2026-10-13T23:28:35.726Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"young\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-14T08:00:21.887Z"
  },
  "paris-young-posse-pilot-3-1st-flight-to-eur\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Young_Fathers_concert_Portland.jpg/3840px-Young_Fathers_concert_Portland.jpg": {
   "slug": "paris-young-posse-pilot-3-1st-flight-to-eur",

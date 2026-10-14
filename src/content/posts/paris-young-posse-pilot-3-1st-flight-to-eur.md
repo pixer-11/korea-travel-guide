@@ -30,16 +30,6 @@ faq:
     a: The streets between Place de Clichy and Saint-Georges have many brasseries and bars. Galeries Lafayette and the Palais Garnier are about fifteen minutes' walk south, and Pigalle and Montmartre are uphill to the east.
 aiGenerated: true
 draft: false
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/d/d0/Brett_Young_in_concert_2015.jpg
-  credit: 'Photo: Max Goldberg / Wikimedia Commons (CC BY 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Brett_Young_in_concert_2015.jpg
-  focus:
-    x: 52
-    'y': 26
-    top: 14
-    bottom: 38
 ---
 
 ## A K-pop crew in a Belle Époque music hall

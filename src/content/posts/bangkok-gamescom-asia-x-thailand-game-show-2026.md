@@ -27,16 +27,6 @@ faq:
     a: Benjakitti Forest Park is right beside QSNCC, and Lumphini Park is a short walk along Rama IV. The Sukhumvit and Asok restaurant area is one MRT stop away, and Khlong Toei Market is close by.
 aiGenerated: true
 draft: false
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/d/d9/Gamescom_2025.jpg
-  credit: 'Photo: Dulamas / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Gamescom_2025.jpg
-  focus:
-    x: 78
-    'y': 40
-    top: 28
-    bottom: 52
 ---
 
 ## Two shows under one roof
