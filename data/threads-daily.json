@@ -85,28 +85,31 @@
     "madrid-puerta-de-alcala",
     "mong-kok-dim-dim-sum-mong-kok",
     "nagoya-asian-games-2026",
-    "singapore-wave-to-earth-the-pisces-tour"
+    "singapore-wave-to-earth-the-pisces-tour",
+    "sai-kung-sai-kung-seafood-street"
   ],
-  "lastSentDay": "2026-10-15",
+  "lastSentDay": "2026-10-16",
   "material": {
-    "day": "2026-10-15",
-    "slug": "singapore-wave-to-earth-the-pisces-tour",
-    "title": "wave to earth - the pisces tour: Dates, Tickets & Venue (Singapore)",
+    "day": "2026-10-16",
+    "slug": "sai-kung-sai-kung-seafood-street",
+    "title": "Sai Kung Seafood Street: Travel Guide (4.0★)",
     "urls": [
-      "https://wanderatlasguides.com/og/social/2026-10-15-singapore-wave-to-earth-the-pisces-tour-1.jpg",
-      "https://wanderatlasguides.com/og/social/2026-10-15-singapore-wave-to-earth-the-pisces-tour-2.jpg"
+      "https://wanderatlasguides.com/og/social/2026-10-16-sai-kung-sai-kung-seafood-street-1.jpg",
+      "https://wanderatlasguides.com/og/social/2026-10-16-sai-kung-sai-kung-seafood-street-2.jpg",
+      "https://wanderatlasguides.com/og/social/2026-10-16-sai-kung-sai-kung-seafood-street-3.jpg",
+      "https://wanderatlasguides.com/og/social/2026-10-16-sai-kung-sai-kung-seafood-street-4.jpg"
     ],
-    "igCaption": "wave to earth brings the pisces tour to Singapore Indoor Stadium on November 20, 2026 — a soft, jazzy indie-pop sound in one of the city's biggest rooms. Covered walkways, cold AC, and a hawker-food detour at Old Airport Road make the night complete.\n\n#Singapore #events #travel #wanderatlas #WaveToEarth #SingaporeIndoorStadium #KallangNights #ThePiscesTour #SingaporeTravel #ConcertGuide\n📷 Photo: Exec8 / Wikimedia Commons (CC BY-SA 4.0)",
-    "thOption": "wave to earth plays Singapore Indoor Stadium on Nov 20, 2026 — floor for proximity or upper tier for the full lighting rig? Which would you pick?",
-    "link": "https://wanderatlasguides.com/posts/singapore-wave-to-earth-the-pisces-tour/"
+    "igCaption": "Pick your seafood straight from the tank, agree on a cooking style, and watch it land on your table minutes later. Sai Kung Seafood Street serves up Cantonese classics with the harbour right behind your chair.\n\n#SaiKungSeafoodStreet #SaiKung #HongKong #travelguide #travel #wanderatlas #SeafoodStreet #TravelGuide #NewTerritories #CantoneseFood\n📷 Photo: wanghongliu / Wikimedia Commons (CC BY-SA 3.0)\n📷 Photo: Sushma Taoutom 6638 / Wikimedia Commons (CC0)",
+    "thOption": "The street is quietest between 7-8am, when fishing boats sell straight off the deck using nets on long poles. Would you trade a seafood dinner for this early harbour market scene?",
+    "link": "https://wanderatlasguides.com/posts/sai-kung-sai-kung-seafood-street/"
   },
   "social": {
-    "thDay": "2026-10-15",
-    "thId": "18072688031752993",
-    "igDay": "2026-10-14",
-    "igId": "18643940287006053",
-    "thSlug": "singapore-wave-to-earth-the-pisces-tour",
-    "igSlug": "nagoya-asian-games-2026",
+    "thDay": "2026-10-16",
+    "thId": "18170562871463683",
+    "igDay": "2026-10-16",
+    "igId": "17880194340578486",
+    "thSlug": "sai-kung-sai-kung-seafood-street",
+    "igSlug": "sai-kung-sai-kung-seafood-street",
     "history": [
       {
         "day": "2026-10-10",
@@ -139,6 +142,12 @@
         "day": "2026-10-15",
         "slug": "singapore-wave-to-earth-the-pisces-tour",
         "thId": "18072688031752993"
+      },
+      {
+        "day": "2026-10-16",
+        "slug": "sai-kung-sai-kung-seafood-street",
+        "thId": "18170562871463683",
+        "igId": "17880194340578486"
       }
     ]
   }
