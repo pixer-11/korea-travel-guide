@@ -12930,6 +12930,12 @@
   "reason": "publish gate: Representative waterfall and canyon view, matches venue type",
   "at": "2026-10-12T08:03:15.305Z"
  },
+ "kharkhorin-shankh-monastery\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Shankh_Monastery.jpg/1920px-Shankh_Monastery.jpg": {
+  "slug": "kharkhorin-shankh-monastery",
+  "verdict": "MATCH",
+  "reason": "publish gate: Mongolian monastery temple building, representative exterior view",
+  "at": "2026-10-15T13:05:39.198Z"
+ },
  "khiva-islam-khoja-minaret\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/%E6%97%A7%E5%B8%82%E8%A1%97%E5%9C%B0%E3%81%A8Islam_Khoja_Minaret_2023.jpg/3840px-%E6%97%A7%E5%B8%82%E8%A1%97%E5%9C%B0%E3%81%A8Islam_Khoja_Minaret_2023.jpg": {
   "slug": "khiva-islam-khoja-minaret",
   "verdict": "MATCH",
@@ -28045,6 +28051,12 @@
   "reason": "publish gate: Exterior of traditional monastery building, matches venue type",
   "at": "2026-10-11T14:24:51.767Z"
  },
+ "ulaanbaatar-mongol-art-gallery\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Mongol_Art_Gallery.jpg/1920px-Mongol_Art_Gallery.jpg": {
+  "slug": "ulaanbaatar-mongol-art-gallery",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior facade of Mongol Art Gallery building, clearly labeled",
+  "at": "2026-10-15T13:05:39.151Z"
+ },
  "ulaanbaatar-national-museum-of-mongolia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/National_Museum_of_Mongolia_%282023%29.jpg/1920px-National_Museum_of_Mongolia_%282023%29.jpg": {
   "slug": "ulaanbaatar-national-museum-of-mongolia",
   "verdict": "MATCH",
@@ -28086,6 +28098,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Aerial view of Sükhbaatar Square with city backdrop",
   "at": "2026-10-11T14:24:51.817Z"
+ },
+ "ulaanbaatar-turtle-rock\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Turtle_Rock%2C_Terelj_National_Park%2C_Mongolia_%2848810749331%29.jpg/3840px-Turtle_Rock%2C_Terelj_National_Park%2C_Mongolia_%2848810749331%29.jpg": {
+  "slug": "ulaanbaatar-turtle-rock",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Turtle Rock formation at Gorkhi-Terelj National Park",
+  "at": "2026-10-15T13:05:39.234Z"
  },
  "ulaanbaatar-ulaanbaatar-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/National_Garden_Park_%28Ulaanbaatar%29_2.jpg/3840px-National_Garden_Park_%28Ulaanbaatar%29_2.jpg": {
   "slug": "ulaanbaatar-ulaanbaatar-park",

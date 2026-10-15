@@ -36132,5 +36132,89 @@
   "registerBreak": false,
   "worst": "画面阴森，笔触却极为精细，比又一座金碧辉煌的祭坛令人难忘得多。",
   "at": "2026-10-15T10:13:53.824Z"
+ },
+ "es/kharkhorin-shankh-monastery": {
+  "hash": "197ae1939977",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Supone muy poco tiempo extra a la ida o a la vuelta de la zona de Khujirt.",
+  "at": "2026-10-15T13:16:07.929Z"
+ },
+ "es/ulaanbaatar-mongol-art-gallery": {
+  "hash": "648cdc5d8924",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "El horario actual es de 10am–6pm entre semana y de 10am–5pm sábados y domingos",
+  "at": "2026-10-15T13:16:09.171Z"
+ },
+ "es/ulaanbaatar-turtle-rock": {
+  "hash": "327fd048ac79",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Según las impresiones de quienes conocen la zona, el lugar es más tranquilo de lo que su fama haría pensar",
+  "at": "2026-10-15T13:16:10.400Z"
+ },
+ "ja/kharkhorin-shankh-monastery": {
+  "hash": "53837b5a108a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "伝承によれば、1640年代にこの寺を創建したのはザナバザルです。",
+  "at": "2026-10-15T13:16:11.622Z"
+ },
+ "ja/ulaanbaatar-mongol-art-gallery": {
+  "hash": "f5dce6deea8f",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "展示の規模では市内の公立美術館のほうが大きいものの、ここではギャラリーならではの空間で、作品一つひとつとじっくり向き合えます。",
+  "at": "2026-10-15T13:16:12.987Z"
+ },
+ "ja/ulaanbaatar-turtle-rock": {
+  "hash": "7844249f27c3",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "交通渋滞に悩まされる首都のすぐ隣に、広大な大地が広がっていることを実感できる場所です。",
+  "at": "2026-10-15T13:16:15.072Z"
+ },
+ "ko/kharkhorin-shankh-monastery": {
+  "hash": "84fa8b6b969c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "박물관 전시물이 아니라 살아 있는 신앙으로서의 몽골 불교를 보고 싶은 분께 잘 맞는 곳입니다.",
+  "at": "2026-10-15T13:16:26.242Z"
+ },
+ "ko/ulaanbaatar-mongol-art-gallery": {
+  "hash": "c47a367b811f",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이때는 동서로 이동하는 데 평소의 두 배가 걸리기도 합니다.",
+  "at": "2026-10-15T13:16:35.088Z"
+ },
+ "ko/ulaanbaatar-turtle-rock": {
+  "hash": "876ffdd6777c",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-15T13:16:37.555Z"
+ },
+ "zh/kharkhorin-shankh-monastery": {
+  "hash": "ba1f6c70ba12",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "如果你想看的是活生生的蒙古佛教，而不是博物馆里的陈列品，这里再合适不过。",
+  "at": "2026-10-15T13:16:38.791Z"
+ },
+ "zh/ulaanbaatar-mongol-art-gallery": {
+  "hash": "5966f8595117",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "周末比平日早一小时关门。以上是本周的时间，小画廊逢节假日或换展时常会调整。",
+  "at": "2026-10-15T13:16:40.091Z"
+ },
+ "zh/ulaanbaatar-turtle-rock": {
+  "hash": "6c4f395ea358",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "整块巨石仿佛几千年前走着走着就停了下来",
+  "at": "2026-10-15T13:16:41.273Z"
  }
 }

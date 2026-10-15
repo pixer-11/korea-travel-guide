@@ -18,12 +18,12 @@
    "hits": 9
   },
   "art gallery": {
-   "attempts": 64,
-   "hits": 9
+   "attempts": 78,
+   "hits": 10
   },
   "night view": {
-   "attempts": 59,
-   "hits": 8
+   "attempts": 64,
+   "hits": 10
   },
   "waterfront": {
    "attempts": 48,
@@ -58,7 +58,7 @@
    "hits": 76
   },
   "breakfast": {
-   "attempts": 53,
+   "attempts": 66,
    "hits": 5
   },
   "trendy cafe": {
@@ -530,5 +530,5 @@
    "hits": 1
   }
  },
- "updated": "2026-10-15T08:11:37.235Z"
+ "updated": "2026-10-15T13:05:39.275Z"
 }
