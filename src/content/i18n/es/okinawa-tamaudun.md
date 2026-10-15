@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: okinawa-tamaudun
-srcHash: 'd14ddfe3c324'
+srcHash: '47e6c7c9a87e'
 title: 'Tamaudun: guía de viaje de Okinawa (4.1★)'
-description: Tamaudun, mausoleo real de la Segunda Dinastía Shō, se encuentra en Shuri (Naha), a pocos pasos al oeste del Castillo de Shuri y a unos 15 minutos a pie de la estación de Shuri del monorraíl Yui Rail. Con 4.1★ (1,673 reseñas), aquí encontrará la opinión de los visitantes, el horario y consejos prácticos.
+description: Tamaudun, mausoleo real de la Segunda Dinastía Shō, se encuentra en Shuri (Naha), a pocos pasos al oeste del Castillo de Shuri y a unos 15 minutos a pie de la estación de Shuri del monorraíl Yui Rail. Con 4.1★ (1,677 reseñas), aquí encontrará la opinión de los visitantes, el horario y consejos prácticos.
 quickAnswer: En el barrio de Shuri, en Naha, se alza Tamaudun, el mausoleo real de la Segunda Dinastía Shō. Queda a pocos pasos al oeste del Castillo de Shuri y se llega en unos 15 minutos a pie desde la estación de Shuri (Shuri Station) del monorraíl Yui Rail. Abre todos los días de 9 a. m. a 6 p. m., y los momentos más tranquilos son los días laborables entre las 9 a. m. y las 10 a. m. Conviene evitar los fines de semana entre las 10 a. m. y las 4 p. m., cuando se registra la mayor afluencia.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar Tamaudun?

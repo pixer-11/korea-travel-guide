@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: okinawa-makishi-public-market
-srcHash: '162825d463e7'
+srcHash: 'ca4e6b0ed6a3'
 title: 'Mercado Público de Makishi: Guía de Viaje de Okinawa (4.1★)'
-description: 'El Mercado Público de Makishi se encuentra en el distrito de Matsuo, en Naha, a una calle de la calle Kokusai, y abre todos los días de 8:00 a 22:00. 4.1★ (3,188 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Mercado Público de Makishi se encuentra en el distrito de Matsuo, en Naha, a una calle de la calle Kokusai, y abre todos los días de 8:00 a 22:00. 4.1★ (3,241 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Mercado Público de Makishi se encuentra en el distrito de Matsuo, en Naha, a una calle de la calle Kokusai, y abre todos los días de 8:00 a 22:00. Es un lugar conocido, no un secreto, así que los fines de semana se llena entre las 11:00 y las 20:00; conviene llegar justo a las 8:00 para moverse con soltura entre los puestos. Calcule unos 45 minutos para recorrerlo, más si sube a comer al piso de arriba.
 faq:
   - q: ¿Dónde está exactamente el Mercado Público de Makishi?

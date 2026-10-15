@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: dresden-golden-rider
-srcHash: 'b2b27267c7c9'
+srcHash: '93575a8df85c'
 title: 'Jinete Dorado: guía de viaje de Dresde (4.6★)'
-description: En plena Neustadt de Dresde, sobre la Neustädter Markt y en el extremo norte del puente de Augusto (Augustusbrücke), se alza el Jinete Dorado (Goldener Reiter). Con una valoración de 4.6★ (13,588 reseñas), repasamos qué opinan los visitantes, los horarios y algunos consejos.
+description: En plena Neustadt de Dresde, sobre la Neustädter Markt y en el extremo norte del puente de Augusto (Augustusbrücke), se alza el Jinete Dorado (Goldener Reiter). Con una valoración de 4.6★ (13,589 reseñas), repasamos qué opinan los visitantes, los horarios y algunos consejos.
 quickAnswer: El Jinete Dorado (Goldener Reiter) se encuentra en la Neustädter Markt, en la Neustadt de Dresde, justo donde termina por el norte el puente de Augusto (Augustusbrücke). Esta estatua ecuestre dorada de Augusto el Fuerte ocupa una plaza abierta a la que se puede acudir a cualquier hora. Los momentos más tranquilos son de 7am–8am entre semana y de 7am–9am los fines de semana. Conviene evitar en cambio los fines de semana de 12pm–9pm, cuando la plaza alcanza su máxima afluencia.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Jinete Dorado?

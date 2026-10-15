@@ -1,61 +1,89 @@
 ---
-title: "Kolkata Rajbari: Where to Eat (4.6★)"
-description: "Kolkata Rajbari is a large, easygoing Bengali restaurant on Jatin Das Road in Kalighat, south Kolkata, serving curries, rice dishes and other traditional food at mid-range prices. 4.6★ (17,453 reviews) — what visitors say, hours, and tips."
-country: "India"
-region: "Kolkata"
-category: "restaurant"
-pubDate: "2026-10-15T08:11:05.490Z"
+title: 'Kolkata Rajbari: Where to Eat (4.6★)'
+description: >-
+  Kolkata Rajbari is a large, easygoing Bengali restaurant on Jatin Das Road in
+  Kalighat, south Kolkata, serving curries, rice dishes and other traditional
+  food at mid-range prices. 4.6★ (17,459 reviews) — what visitors say, hours,
+  and tips.
+country: India
+region: Kolkata
+category: restaurant
+pubDate: '2026-10-15T08:11:05.490Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Outside_view_of_Sovabazar_Rajbari%2C_Kolkata%2C_MA10.jpg/3840px-Outside_view_of_Sovabazar_Rajbari%2C_Kolkata%2C_MA10.jpg"
-  credit: "Photo: Marajozkee / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Outside_view_of_Sovabazar_Rajbari,_Kolkata,_MA10.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Outside_view_of_Sovabazar_Rajbari%2C_Kolkata%2C_MA10.jpg/3840px-Outside_view_of_Sovabazar_Rajbari%2C_Kolkata%2C_MA10.jpg
+  credit: 'Photo: Marajozkee / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Outside_view_of_Sovabazar_Rajbari,_Kolkata,_MA10.jpg
+  via: act
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Sovabazar_boro_Rajbari_thakurdalan_at_Sovabazar_area_of_North_Kolkata_03.jpg/3840px-Sovabazar_boro_Rajbari_thakurdalan_at_Sovabazar_area_of_North_Kolkata_03.jpg"
-    credit: "Photo: Amitabha Gupta / Wikimedia Commons (CC BY 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Sovabazar_boro_Rajbari_thakurdalan_at_Sovabazar_area_of_North_Kolkata_03.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Sovabazar_boro_Rajbari_thakurdalan_at_Sovabazar_area_of_North_Kolkata_03.jpg/3840px-Sovabazar_boro_Rajbari_thakurdalan_at_Sovabazar_area_of_North_Kolkata_03.jpg
+    credit: 'Photo: Amitabha Gupta / Wikimedia Commons (CC BY 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Sovabazar_boro_Rajbari_thakurdalan_at_Sovabazar_area_of_North_Kolkata_03.jpg
 place:
-  id: "ChIJMczfjrl3AjoRE2gjgVg91sw"
-  name: "Kolkata Rajbari"
-  address: "56, Jatindas Rd, lake Terrace, Kalighat, Kolkata, West Bengal 700029, India"
+  id: ChIJMczfjrl3AjoRE2gjgVg91sw
+  name: Kolkata Rajbari
+  address: '56, Jatindas Rd, lake Terrace, Kalighat, Kolkata, West Bengal 700029, India'
   rating: 4.6
-  userRatingsTotal: 17453
+  userRatingsTotal: 17459
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=14760052279086376979&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14760052279086376979&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.5171173
   lng: 88.3562142
-  phone: "+91 98316 22556"
+  phone: +91 98316 22556
   openingHours:
-    - "Monday: 12:00 – 11:00 PM"
-    - "Tuesday: 12:00 – 11:00 PM"
-    - "Wednesday: 12:00 – 11:00 PM"
-    - "Thursday: 12:00 – 11:00 PM"
-    - "Friday: 12:00 – 11:00 PM"
-    - "Saturday: 12:00 – 11:00 PM"
-    - "Sunday: 12:00 – 11:00 PM"
+    - 'Monday: 12:00 – 11:00 PM'
+    - 'Tuesday: 12:00 – 11:00 PM'
+    - 'Wednesday: 12:00 – 11:00 PM'
+    - 'Thursday: 12:00 – 11:00 PM'
+    - 'Friday: 12:00 – 11:00 PM'
+    - 'Saturday: 12:00 – 11:00 PM'
+    - 'Sunday: 12:00 – 11:00 PM'
 tags:
-  - "kolkata"
-  - "seafood"
-quickAnswer: "Kolkata Rajbari is a large, easygoing Bengali restaurant on Jatin Das Road in Kalighat, south Kolkata, serving curries, rice dishes and other traditional food at mid-range prices. It currently opens 12pm–11pm every day. It's very popular, so turn up close to noon or book ahead if they take reservations."
+  - kolkata
+  - seafood
+quickAnswer: >-
+  Kolkata Rajbari is a large, easygoing Bengali restaurant on Jatin Das Road in
+  Kalighat, south Kolkata, serving curries, rice dishes and other traditional
+  food at mid-range prices. It currently opens 12pm–11pm every day. It's very
+  popular, so turn up close to noon or book ahead if they take reservations.
 faq:
-  - q: "Where exactly is Kolkata Rajbari?"
-    a: "At 56 Jatin Das Road, Lake Terrace, Kalighat, Kolkata 700029, in south Kolkata near Rabindra Sarobar. The nearest metro is Jatin Das Park on Line 1 (Blue Line), and Kalighat station is also close."
-  - q: "What are the opening hours?"
-    a: "At the moment it opens 12pm–11pm every day of the week. Hours can change, so check Google or call before a special trip."
-  - q: "What kind of food does it serve?"
-    a: "Traditional Bengali food: curries, rice dishes and other classic plates, in a large, easygoing dining room. Check the current menu for fish and mutton dishes and for anything seasonal, such as hilsa."
-  - q: "Will I have to wait for a table?"
-    a: "Quite possibly. It's one of the most-reviewed restaurants in Kolkata. Arriving right at the noon opening usually beats the lunch rush. Groups should ask whether bookings are taken."
-  - q: "What can I combine it with nearby?"
-    a: "Kalighat Kali Temple is about a kilometre away and best visited in the morning. Rabindra Sarobar lake and Lake Market are close by for a walk after the meal."
+  - q: Where exactly is Kolkata Rajbari?
+    a: >-
+      At 56 Jatin Das Road, Lake Terrace, Kalighat, Kolkata 700029, in south
+      Kolkata near Rabindra Sarobar. The nearest metro is Jatin Das Park on Line
+      1 (Blue Line), and Kalighat station is also close.
+  - q: What are the opening hours?
+    a: >-
+      At the moment it opens 12pm–11pm every day of the week. Hours can change,
+      so check Google or call before a special trip.
+  - q: What kind of food does it serve?
+    a: >-
+      Traditional Bengali food: curries, rice dishes and other classic plates,
+      in a large, easygoing dining room. Check the current menu for fish and
+      mutton dishes and for anything seasonal, such as hilsa.
+  - q: Will I have to wait for a table?
+    a: >-
+      Quite possibly. It's one of the most-reviewed restaurants in Kolkata.
+      Arriving right at the noon opening usually beats the lunch rush. Groups
+      should ask whether bookings are taken.
+  - q: What can I combine it with nearby?
+    a: >-
+      Kalighat Kali Temple is about a kilometre away and best visited in the
+      morning. Rabindra Sarobar lake and Lake Market are close by for a walk
+      after the meal.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-15'
 ---
 
 ## A palace name on a south Kolkata side street

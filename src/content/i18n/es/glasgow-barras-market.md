@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: glasgow-barras-market
-srcHash: 'e933c2ca11b0'
+srcHash: '4d429754a6df'
 title: 'Barras Market: guía de viaje de Glasgow (4.0★)'
-description: 'En el East End de Glasgow, sobre la Gallowgate, el Barras Market lleva décadas abriendo los fines de semana con su oferta de cachivaches, artículos vintage y antigüedades. 4.0★ (3,423 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En el East End de Glasgow, sobre la Gallowgate, el Barras Market lleva décadas abriendo los fines de semana con su oferta de cachivaches, artículos vintage y antigüedades. 4.0★ (3,424 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En el East End de Glasgow, sobre la Gallowgate, el Barras Market lleva décadas abriendo los fines de semana con su oferta de cachivaches, artículos vintage y antigüedades. En la actualidad funciona sábados y domingos de 10 a. m. a 4 p. m. y cierra de lunes a viernes, así que conviene organizar la visita en fin de semana y confirmar el horario antes de ir. Con una o dos horas basta; después puede seguir a pie hasta Glasgow Green o el People's Palace.
 faq:
   - q: ¿Cuándo abre el Barras Market?

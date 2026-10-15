@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: manchester-the-old-wellington
-srcHash: '6aac6b13fda9'
+srcHash: '1e678c0ba9f8'
 title: 'The Old Wellington: guía de viaje de Mánchester (4.6★)'
-description: En pleno centro de Mánchester, junto a la catedral y a pocos minutos a pie de la estación Victoria, el Old Wellington es un pub Tudor con entramado de madera situado en Shambles Square. Tiene una valoración de 4.6★ (5,258 reseñas). Aquí encontrará lo que opinan los visitantes, el horario y algunos consejos.
+description: En pleno centro de Mánchester, junto a la catedral y a pocos minutos a pie de la estación Victoria, el Old Wellington es un pub Tudor con entramado de madera situado en Shambles Square. Tiene una valoración de 4.6★ (5,260 reseñas). Aquí encontrará lo que opinan los visitantes, el horario y algunos consejos.
 quickAnswer: El Old Wellington es un pub Tudor de entramado de madera que se alza en Shambles Square, en pleno centro de Mánchester. Queda junto a la catedral y a un corto paseo de la estación Victoria. Merece la visita por su cerveza de barril tradicional y su contundente comida de pub, servidas en el edificio con estructura de madera más antiguo de la ciudad. Actualmente abre todos los días a las 10am, y si llega temprano se adelantará a la multitud que acude al salir del trabajo.
 faq:
   - q: ¿Dónde se encuentra exactamente el Old Wellington?

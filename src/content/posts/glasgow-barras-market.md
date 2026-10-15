@@ -1,56 +1,81 @@
 ---
-title: "Barras Market: Glasgow Travel Guide (4.0★)"
-description: "Barras Market is Glasgow's long-running weekend market on the Gallowgate in the East End, selling bric-a-brac, vintage goods and antiques. 4.0★ (3,423 reviews) — what visitors say, hours, and tips."
-country: "United Kingdom"
-region: "Glasgow"
-category: "hidden-gem"
-pubDate: "2026-10-15T08:10:00.848Z"
+title: 'Barras Market: Glasgow Travel Guide (4.0★)'
+description: >-
+  Barras Market is Glasgow's long-running weekend market on the Gallowgate in
+  the East End, selling bric-a-brac, vintage goods and antiques. 4.0★ (3,424
+  reviews) — what visitors say, hours, and tips.
+country: United Kingdom
+region: Glasgow
+category: hidden-gem
+pubDate: '2026-10-15T08:10:00.848Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Barras_Market%2C_Glasgow.jpg/3840px-Barras_Market%2C_Glasgow.jpg"
-  credit: "Photo: Caitymay / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Barras_Market,_Glasgow.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Barras_Market%2C_Glasgow.jpg/3840px-Barras_Market%2C_Glasgow.jpg
+  credit: 'Photo: Caitymay / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Barras_Market,_Glasgow.jpg'
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery: []
 place:
-  id: "ChIJv8vYdaVGiEgRTH7W1sZev8c"
-  name: "Barras Market"
-  address: "244 Gallowgate, Glasgow G4 0TT, UK"
+  id: ChIJv8vYdaVGiEgRTH7W1sZev8c
+  name: Barras Market
+  address: '244 Gallowgate, Glasgow G4 0TT, UK'
   rating: 4
-  userRatingsTotal: 3423
-  googleMapsUrl: "https://maps.google.com/?cid=14393327142200311372&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 3424
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14393327142200311372&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 55.855109
   lng: -4.2371639
-  phone: "+44 141 552 4601"
+  phone: +44 141 552 4601
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: Closed"
-    - "Wednesday: Closed"
-    - "Thursday: Closed"
-    - "Friday: Closed"
-    - "Saturday: 10:00 AM – 4:00 PM"
-    - "Sunday: 10:00 AM – 4:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: Closed'
+    - 'Wednesday: Closed'
+    - 'Thursday: Closed'
+    - 'Friday: Closed'
+    - 'Saturday: 10:00 AM – 4:00 PM'
+    - 'Sunday: 10:00 AM – 4:00 PM'
 tags:
-  - "glasgow"
-  - "local market"
-quickAnswer: "Barras Market is Glasgow's long-running weekend market on the Gallowgate in the East End, selling bric-a-brac, vintage goods and antiques. It currently trades on Saturdays and Sundays from 10am to 4pm and is closed Monday to Friday, so plan a weekend visit and check before you go. Give it one to two hours, then walk on to Glasgow Green or the People's Palace."
+  - glasgow
+  - local market
+quickAnswer: >-
+  Barras Market is Glasgow's long-running weekend market on the Gallowgate in
+  the East End, selling bric-a-brac, vintage goods and antiques. It currently
+  trades on Saturdays and Sundays from 10am to 4pm and is closed Monday to
+  Friday, so plan a weekend visit and check before you go. Give it one to two
+  hours, then walk on to Glasgow Green or the People's Palace.
 faq:
-  - q: "When is Barras Market open?"
-    a: "Currently it trades on Saturdays and Sundays from 10am to 4pm and is closed Monday to Friday. Hours can change around holidays, so check before you go."
-  - q: "How do I get to Barras Market?"
-    a: "It is at 244 Gallowgate, a short walk east of Glasgow Cross. High Street and Argyle Street train stations are both walkable, and several buses run along the Gallowgate. Parking nearby is limited on market days."
-  - q: "Can I pay by card at the Barras?"
-    a: "Some stalls take cards, but many traders prefer cash. Bring small notes and coins to be safe."
-  - q: "How long should I spend at Barras Market?"
-    a: "Allow one to two hours to browse properly. Arrive near the 10am opening for the best pick of the stock."
-  - q: "What is there to see near Barras Market?"
-    a: "The Barrowland Ballroom sits on the same street. Glasgow Green, the People's Palace and Winter Gardens, the Doulton Fountain and the Templeton Building are a short walk south, and the Merchant City is a few minutes west."
+  - q: When is Barras Market open?
+    a: >-
+      Currently it trades on Saturdays and Sundays from 10am to 4pm and is
+      closed Monday to Friday. Hours can change around holidays, so check before
+      you go.
+  - q: How do I get to Barras Market?
+    a: >-
+      It is at 244 Gallowgate, a short walk east of Glasgow Cross. High Street
+      and Argyle Street train stations are both walkable, and several buses run
+      along the Gallowgate. Parking nearby is limited on market days.
+  - q: Can I pay by card at the Barras?
+    a: >-
+      Some stalls take cards, but many traders prefer cash. Bring small notes
+      and coins to be safe.
+  - q: How long should I spend at Barras Market?
+    a: >-
+      Allow one to two hours to browse properly. Arrive near the 10am opening
+      for the best pick of the stock.
+  - q: What is there to see near Barras Market?
+    a: >-
+      The Barrowland Ballroom sits on the same street. Glasgow Green, the
+      People's Palace and Winter Gardens, the Doulton Fountain and the Templeton
+      Building are a short walk south, and the Merchant City is a few minutes
+      west.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-15'
 ---
 
 Start at the arched gateway on the Gallowgate with "The Barras" painted across it, and the city changes register. Behind it are stalls and covered sheds of secondhand stock: old crockery, records, tools, frames, furniture and boxes of unsorted odds and ends. This is a working market for rummaging, not a curated vintage boutique, and a fair share of the value lies in the digging.

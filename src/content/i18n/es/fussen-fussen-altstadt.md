@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: fussen-fussen-altstadt
-srcHash: '425357acb355'
+srcHash: '901030f199c2'
 title: 'Casco antiguo de Füssen (Altstadt): guía de viaje (4.7★)'
-description: El casco antiguo de Füssen es el pequeño núcleo medieval de esta ciudad del sur de Baviera. Con una valoración de 4.7★ (977 reseñas), reunimos aquí opiniones de visitantes, horarios y consejos.
+description: El casco antiguo de Füssen es el pequeño núcleo medieval de esta ciudad del sur de Baviera. Con una valoración de 4.7★ (981 reseñas), reunimos aquí opiniones de visitantes, horarios y consejos.
 quickAnswer: 'El casco antiguo de Füssen (Altstadt) es el pequeño núcleo medieval de esta ciudad del sur de Baviera. Gira en torno a la empedrada Reichenstraße, se extiende a los pies del Hohes Schloss y queda a pocos minutos a pie de la estación de tren. Basta con dedicarle media jornada: el patio pintado del castillo, la abadía de St. Mang y la garganta del Lech caben sin prisas en una mañana o en una tarde, antes o después de visitar Neuschwanstein.'
 faq:
   - q: ¿Cómo se llega al casco antiguo de Füssen desde la estación de tren?

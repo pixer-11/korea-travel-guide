@@ -1,23 +1,29 @@
 ---
 title: 'Din Tai Fung: Where to Eat in Orchard Road (4.4★)'
-description: This branch of Din Tai Fung sits in the basement of Paragon mall at 290 Orchard Road, open daily 11am–9pm (9:15pm Fri–Sat). 4.4★ (2,042 reviews) — what visitors say, hours, and tips.
+description: >-
+  This branch of Din Tai Fung sits in the basement of Paragon mall at 290
+  Orchard Road, open daily 11am–9pm (9:15pm Fri–Sat). 4.4★ (2,059 reviews) —
+  what visitors say, hours, and tips.
 country: Singapore
 region: Orchard Road
 category: restaurant
 pubDate: '2026-08-07T08:42:57.985Z'
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Din_Tai_Fung_at_Plaza_Singapura.jpg/1280px-Din_Tai_Fung_at_Plaza_Singapura.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Din_Tai_Fung_at_Plaza_Singapura.jpg/1280px-Din_Tai_Fung_at_Plaza_Singapura.jpg
     credit: 'Photo: Choo Yut Shing / Wikimedia Commons (CC BY 2.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Din_Tai_Fung_at_Plaza_Singapura.jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Din_Tai_Fung_at_Plaza_Singapura.jpg
 place:
   id: ChIJl_sOMpIZ2jEROuDbvYr9GLo
   name: Din Tai Fung
   address: '290 Orchard Rd, #B1 - 03, Singapore 238859'
   rating: 4.4
-  userRatingsTotal: 2042
+  userRatingsTotal: 2059
   priceLevel: 2
-  googleMapsUrl: https://maps.google.com/?cid=13409746662828269626&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13409746662828269626&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 1.3039532
   lng: 103.8351014
@@ -46,27 +52,45 @@ place:
 tags:
   - orchard road
   - noodles
-quickAnswer: This branch of Din Tai Fung sits in the basement of Paragon mall at 290 Orchard Road, open daily 11am–9pm (9:15pm Fri–Sat). Come for xiao long bao with the paper-thin, exactly-pleated skins, not for a quiet meal — it's busiest 12pm–7pm on weekends. Aim for 8–9pm on a weekday, when the dining room actually empties out.
+quickAnswer: >-
+  This branch of Din Tai Fung sits in the basement of Paragon mall at 290
+  Orchard Road, open daily 11am–9pm (9:15pm Fri–Sat). Come for xiao long bao
+  with the paper-thin, exactly-pleated skins, not for a quiet meal — it's
+  busiest 12pm–7pm on weekends. Aim for 8–9pm on a weekday, when the dining room
+  actually empties out.
 faq:
   - q: Do I need a reservation?
-    a: No — this branch operates on a walk-in queue system with a buzzer or number called out. There's no phone booking for standard tables.
+    a: >-
+      No — this branch operates on a walk-in queue system with a buzzer or
+      number called out. There's no phone booking for standard tables.
   - q: When is the quietest time to visit?
-    a: Weekdays between 8pm and 9pm, just before closing, is the measured quiet window. Weekend crowds stay fairly steady all day.
+    a: >-
+      Weekdays between 8pm and 9pm, just before closing, is the measured quiet
+      window. Weekend crowds stay fairly steady all day.
   - q: What time should I avoid on weekends?
-    a: Skip noon to 7pm on Saturday and Sunday — that's the busiest stretch, with the longest queues.
+    a: >-
+      Skip noon to 7pm on Saturday and Sunday — that's the busiest stretch, with
+      the longest queues.
   - q: How do I get there by MRT?
-    a: Take Orchard Station on the North-South Line; it connects underground directly to Paragon mall, where the restaurant sits in the basement (#B1-03).
+    a: >-
+      Take Orchard Station on the North-South Line; it connects underground
+      directly to Paragon mall, where the restaurant sits in the basement
+      (#B1-03).
   - q: How long should I plan for a meal?
-    a: Budget 45–75 minutes including a possible queue, especially at lunch or on weekends when tables turn over quickly but wait times add up.
+    a: >-
+      Budget 45–75 minutes including a possible queue, especially at lunch or on
+      weekends when tables turn over quickly but wait times add up.
 aiGenerated: true
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/572639565_cATyru-Rj27TOtxCa50Y9yMybvuykcQ7p84Ef3SeeUE.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/572639565_cATyru-Rj27TOtxCa50Y9yMybvuykcQ7p84Ef3SeeUE.jpg
   credit: 'Photo: Foursquare user content (Din Tai Fung)'
   license: foursquare
-  source: https://foursquare.com/v/4b7152c1f964a5201e412de3
+  source: 'https://foursquare.com/v/4b7152c1f964a5201e412de3'
   focus:
     x: 25
     'y': 35
+updatedDate: '2026-10-15'
 ---
 
 ## Why this branch matters

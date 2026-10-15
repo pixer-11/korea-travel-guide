@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: kolkata-kolkata-rajbari
-srcHash: '44e64d49ff43'
+srcHash: 'a76c63359325'
 title: 'Kolkata Rajbari: dónde comer (4,6★)'
-description: En Jatin Das Road, en el barrio de Kalighat, al sur de Calcuta, Kolkata Rajbari es un restaurante bengalí amplio y de ambiente relajado donde se sirven currys, platos de arroz y otras recetas tradicionales a precios moderados. Tiene una valoración de 4.6★ (17,453 reseñas). Aquí encontrará la opinión de los visitantes, el horario y algunos consejos.
+description: En Jatin Das Road, en el barrio de Kalighat, al sur de Calcuta, Kolkata Rajbari es un restaurante bengalí amplio y de ambiente relajado donde se sirven currys, platos de arroz y otras recetas tradicionales a precios moderados. Tiene una valoración de 4.6★ (17,459 reseñas). Aquí encontrará la opinión de los visitantes, el horario y algunos consejos.
 quickAnswer: Kolkata Rajbari es un restaurante bengalí amplio y de ambiente relajado situado en Jatin Das Road, en el barrio de Kalighat, al sur de Calcuta. Sirve currys, platos de arroz y otras recetas tradicionales a precios moderados. Actualmente abre todos los días de 12pm a 11pm. Como tiene muchísimo éxito, conviene llegar hacia el mediodía o reservar con antelación si admiten reservas.
 faq:
   - q: ¿Dónde se encuentra exactamente Kolkata Rajbari?

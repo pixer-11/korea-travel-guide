@@ -1,61 +1,88 @@
 ---
-title: "The Old Wellington: Manchester Travel Guide (4.6★)"
-description: "The Old Wellington is a half-timbered Tudor pub on Shambles Square in Manchester city centre, beside Manchester Cathedral and a short walk from Victoria station. 4.6★ (5,258 reviews) — what visitors say, hours, and tips."
-country: "United Kingdom"
-region: "Manchester"
-category: "hidden-gem"
-pubDate: "2026-10-15T08:10:32.704Z"
+title: 'The Old Wellington: Manchester Travel Guide (4.6★)'
+description: >-
+  The Old Wellington is a half-timbered Tudor pub on Shambles Square in
+  Manchester city centre, beside Manchester Cathedral and a short walk from
+  Victoria station. 4.6★ (5,260 reviews) — what visitors say, hours, and tips.
+country: United Kingdom
+region: Manchester
+category: hidden-gem
+pubDate: '2026-10-15T08:10:32.704Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/The_Old_Wellington%2C_Manchester.jpg/3840px-The_Old_Wellington%2C_Manchester.jpg"
-  credit: "Photo: Peter McDermott / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:The_Old_Wellington,_Manchester.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/The_Old_Wellington%2C_Manchester.jpg/3840px-The_Old_Wellington%2C_Manchester.jpg
+  credit: 'Photo: Peter McDermott / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:The_Old_Wellington,_Manchester.jpg'
+  via: act
   focus:
     x: 45
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/6/66/The_Old_Wellington_-_panoramio.jpg"
-    credit: "Photo: Heikki Immonen / Wikimedia Commons (CC BY 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:The_Old_Wellington_-_panoramio.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/6/66/The_Old_Wellington_-_panoramio.jpg
+    credit: 'Photo: Heikki Immonen / Wikimedia Commons (CC BY 3.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:The_Old_Wellington_-_panoramio.jpg'
 place:
-  id: "ChIJa2GskMaxe0gR-krSTpLbaec"
-  name: "The Old Wellington"
-  address: "4 Cathedral Gates, Greater, Manchester M3 1SW, UK"
+  id: ChIJa2GskMaxe0gR-krSTpLbaec
+  name: The Old Wellington
+  address: '4 Cathedral Gates, Greater, Manchester M3 1SW, UK'
   rating: 4.6
-  userRatingsTotal: 5258
+  userRatingsTotal: 5260
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=16675100516750084858&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16675100516750084858&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 53.4846763
   lng: -2.2439884
-  phone: "+44 161 839 5179"
+  phone: +44 161 839 5179
   openingHours:
-    - "Monday: 10:00 AM – 11:00 PM"
-    - "Tuesday: 10:00 AM – 11:00 PM"
-    - "Wednesday: 10:00 AM – 11:00 PM"
-    - "Thursday: 10:00 AM – 11:00 PM"
-    - "Friday: 10:00 AM – 12:00 AM"
-    - "Saturday: 10:00 AM – 12:00 AM"
-    - "Sunday: 10:00 AM – 10:30 PM"
+    - 'Monday: 10:00 AM – 11:00 PM'
+    - 'Tuesday: 10:00 AM – 11:00 PM'
+    - 'Wednesday: 10:00 AM – 11:00 PM'
+    - 'Thursday: 10:00 AM – 11:00 PM'
+    - 'Friday: 10:00 AM – 12:00 AM'
+    - 'Saturday: 10:00 AM – 12:00 AM'
+    - 'Sunday: 10:00 AM – 10:30 PM'
 tags:
-  - "manchester"
-  - "old quarter"
-quickAnswer: "The Old Wellington is a half-timbered Tudor pub on Shambles Square in Manchester city centre, beside Manchester Cathedral and a short walk from Victoria station. Come for real ale and hearty pub food inside Manchester's oldest timber-framed building. At the moment it opens at 10am daily, and an early visit beats the after-work crowd."
+  - manchester
+  - old quarter
+quickAnswer: >-
+  The Old Wellington is a half-timbered Tudor pub on Shambles Square in
+  Manchester city centre, beside Manchester Cathedral and a short walk from
+  Victoria station. Come for real ale and hearty pub food inside Manchester's
+  oldest timber-framed building. At the moment it opens at 10am daily, and an
+  early visit beats the after-work crowd.
 faq:
-  - q: "Where exactly is The Old Wellington?"
-    a: "It is at 4 Cathedral Gates, Shambles Square, Manchester M3 1SW. That puts it next to Manchester Cathedral and beside Sinclair's Oyster Bar, about two minutes from the Exchange Square Metrolink stop and five minutes' walk from Manchester Victoria."
-  - q: "Is The Old Wellington really Tudor?"
-    a: "Yes. The timber frame dates from around 1552. The building was moved to Shambles Square in 1999, after the 1996 IRA bomb, and it is Manchester's oldest timber-framed building."
-  - q: "What are the opening hours?"
-    a: "At the moment it opens at 10am every day. It closes at 11pm Monday to Thursday, at midnight on Friday and Saturday, and at 10:30pm on Sunday. Check Google or the pub before you go, because hours can change."
-  - q: "Do I need to book, and how do I order?"
-    a: "It is a walk-in pub. Drinks are ordered at the bar, and food usually is too: give your table number when you order. It gets very busy on weekend evenings, so arrive earlier in the day if you want a seat."
-  - q: "What else is nearby?"
-    a: "Manchester Cathedral is next door. Chetham's Library, the National Football Museum and the Corn Exchange are all within a few minutes' walk."
+  - q: Where exactly is The Old Wellington?
+    a: >-
+      It is at 4 Cathedral Gates, Shambles Square, Manchester M3 1SW. That puts
+      it next to Manchester Cathedral and beside Sinclair's Oyster Bar, about
+      two minutes from the Exchange Square Metrolink stop and five minutes' walk
+      from Manchester Victoria.
+  - q: Is The Old Wellington really Tudor?
+    a: >-
+      Yes. The timber frame dates from around 1552. The building was moved to
+      Shambles Square in 1999, after the 1996 IRA bomb, and it is Manchester's
+      oldest timber-framed building.
+  - q: What are the opening hours?
+    a: >-
+      At the moment it opens at 10am every day. It closes at 11pm Monday to
+      Thursday, at midnight on Friday and Saturday, and at 10:30pm on Sunday.
+      Check Google or the pub before you go, because hours can change.
+  - q: 'Do I need to book, and how do I order?'
+    a: >-
+      It is a walk-in pub. Drinks are ordered at the bar, and food usually is
+      too: give your table number when you order. It gets very busy on weekend
+      evenings, so arrive earlier in the day if you want a seat.
+  - q: What else is nearby?
+    a: >-
+      Manchester Cathedral is next door. Chetham's Library, the National
+      Football Museum and the Corn Exchange are all within a few minutes' walk.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-15'
 ---
 
 ## Black beams among the glass

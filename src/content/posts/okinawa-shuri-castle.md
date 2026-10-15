@@ -1,59 +1,86 @@
 ---
-title: "Shuri Castle: Okinawa Travel Guide (4.2★)"
-description: "Shuri Castle in Naha, Okinawa, is a hilltop reconstructed royal castle open daily 8:30 AM–7:00 PM, with sweeping views over the city. 4.2★ (33,841 reviews) — what visitors say, hours, and tips."
-country: "Japan"
-region: "Okinawa"
-category: "attraction"
-pubDate: "2026-08-26T08:09:17.700Z"
+title: 'Shuri Castle: Okinawa Travel Guide (4.2★)'
+description: >-
+  Shuri Castle in Naha, Okinawa, is a hilltop reconstructed royal castle open
+  daily 8:30 AM–7:00 PM, with sweeping views over the city. 4.2★ (34,208
+  reviews) — what visitors say, hours, and tips.
+country: Japan
+region: Okinawa
+category: attraction
+pubDate: '2026-08-26T08:09:17.700Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Naha_Okinawa_Japan_Shuri-Castle-01.jpg/1920px-Naha_Okinawa_Japan_Shuri-Castle-01.jpg"
-  credit: "Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Naha_Okinawa_Japan_Shuri-Castle-01.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Naha_Okinawa_Japan_Shuri-Castle-01.jpg/1920px-Naha_Okinawa_Japan_Shuri-Castle-01.jpg
+  credit: 'Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Naha_Okinawa_Japan_Shuri-Castle-01.jpg
   focus:
     x: 50
-    y: 35
+    'y': 35
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Naha_Okinawa_Japan_Shuri-Castle-02.jpg/3840px-Naha_Okinawa_Japan_Shuri-Castle-02.jpg"
-    credit: "Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Naha_Okinawa_Japan_Shuri-Castle-02.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Naha_Okinawa_Japan_Shuri-Castle-02.jpg/3840px-Naha_Okinawa_Japan_Shuri-Castle-02.jpg
+    credit: 'Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Naha_Okinawa_Japan_Shuri-Castle-02.jpg
 place:
-  id: "ChIJZ9v0bP5r5TQRi0-esrqficA"
-  name: "Shuri Castle"
-  address: "3-chōme-1-2 Shurikinjōchō, Naha, Okinawa 903-0815, Japan"
+  id: ChIJZ9v0bP5r5TQRi0-esrqficA
+  name: Shuri Castle
+  address: '1-chōme-2 Shurikinjōchō, Naha, Okinawa 903-0815, Japan'
   rating: 4.2
-  userRatingsTotal: 33841
-  googleMapsUrl: "https://maps.google.com/?cid=13873795751300976523&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 34208
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13873795751300976523&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 26.217044899999998
   lng: 127.71948330000001
-  phone: "+81 98-886-2020"
+  phone: +81 98-886-2020
   openingHours:
-    - "Monday: 8:30 AM – 7:00 PM"
-    - "Tuesday: 8:30 AM – 7:00 PM"
-    - "Wednesday: 8:30 AM – 7:00 PM"
-    - "Thursday: 8:30 AM – 7:00 PM"
-    - "Friday: 8:30 AM – 7:00 PM"
-    - "Saturday: 8:30 AM – 7:00 PM"
-    - "Sunday: 8:30 AM – 7:00 PM"
+    - 'Monday: 8:30 AM – 7:00 PM'
+    - 'Tuesday: 8:30 AM – 7:00 PM'
+    - 'Wednesday: 8:30 AM – 7:00 PM'
+    - 'Thursday: 8:30 AM – 7:00 PM'
+    - 'Friday: 8:30 AM – 7:00 PM'
+    - 'Saturday: 8:30 AM – 7:00 PM'
+    - 'Sunday: 8:30 AM – 7:00 PM'
 tags:
-  - "okinawa"
-  - "historic site"
-quickAnswer: "Shuri Castle in Naha, Okinawa, is a hilltop reconstructed royal castle open daily 8:30 AM–7:00 PM, with sweeping views over the city. It's very popular, so aim for right at opening or the last hour before close to dodge the tour-bus crowds. Budget 1.5–2 hours to walk the grounds and inner courtyards."
+  - okinawa
+  - historic site
+quickAnswer: >-
+  Shuri Castle in Naha, Okinawa, is a hilltop reconstructed royal castle open
+  daily 8:30 AM–7:00 PM, with sweeping views over the city. It's very popular,
+  so aim for right at opening or the last hour before close to dodge the
+  tour-bus crowds. Budget 1.5–2 hours to walk the grounds and inner courtyards.
 faq:
-  - q: "How long should I spend at Shuri Castle?"
-    a: "Plan on 1.5 to 2 hours to walk the courtyards, gates, and ramparts at an easy pace. Add 30 minutes if you want to read the exhibition displays near the entrance."
-  - q: "How do I get to Shuri Castle without a car?"
-    a: "Take the Yui Rail monorail to Shuri Station, then walk roughly 15–20 minutes uphill to the entrance. Local buses from central Naha also stop nearby."
-  - q: "What time is least crowded at Shuri Castle?"
-    a: "Right at opening (8:30 AM) or in the last hour before closing (around 5:30–7:00 PM) are both quieter than midday, which fills with tour groups."
-  - q: "Is Shuri Castle still under reconstruction?"
-    a: "Yes — the main hall (Seiden) was destroyed by fire in 2019 and is being rebuilt. Viewing walkways let visitors watch the restoration craftsmanship up close."
-  - q: "What's nearby Shuri Castle worth visiting?"
-    a: "The Shuri district around the castle has old stone-walled lanes, Sonohyan-utaki sacred grove near the entrance, and several small museums covering Ryukyu history."
+  - q: How long should I spend at Shuri Castle?
+    a: >-
+      Plan on 1.5 to 2 hours to walk the courtyards, gates, and ramparts at an
+      easy pace. Add 30 minutes if you want to read the exhibition displays near
+      the entrance.
+  - q: How do I get to Shuri Castle without a car?
+    a: >-
+      Take the Yui Rail monorail to Shuri Station, then walk roughly 15–20
+      minutes uphill to the entrance. Local buses from central Naha also stop
+      nearby.
+  - q: What time is least crowded at Shuri Castle?
+    a: >-
+      Right at opening (8:30 AM) or in the last hour before closing (around
+      5:30–7:00 PM) are both quieter than midday, which fills with tour groups.
+  - q: Is Shuri Castle still under reconstruction?
+    a: >-
+      Yes — the main hall (Seiden) was destroyed by fire in 2019 and is being
+      rebuilt. Viewing walkways let visitors watch the restoration craftsmanship
+      up close.
+  - q: What's nearby Shuri Castle worth visiting?
+    a: >-
+      The Shuri district around the castle has old stone-walled lanes,
+      Sonohyan-utaki sacred grove near the entrance, and several small museums
+      covering Ryukyu history.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-15'
 ---
 
 ## Why Shuri Castle matters

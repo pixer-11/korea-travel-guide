@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: okinawa-ocean-expo-park
-srcHash: 'c605b1138c03'
+srcHash: '53de52e24425'
 title: 'Ocean Expo Park: Guía de viaje de Okinawa (4.5★)'
-description: 'Ocean Expo Park, en Motobu, al norte de Okinawa, abre todos los días de 8:00 a 18:00, y conviene visitarlo justo a la apertura o después de las 16:00, cuando disminuyen los autobuses turísticos. 4.5★ (19.033 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'Ocean Expo Park, en Motobu, al norte de Okinawa, abre todos los días de 8:00 a 18:00, y conviene visitarlo justo a la apertura o después de las 16:00, cuando disminuyen los autobuses turísticos. 4.5★ (19.231 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Ocean Expo Park, en Motobu, al norte de Okinawa, abre todos los días de 8:00 a 18:00, y conviene visitarlo justo a la apertura o después de las 16:00, cuando disminuyen los autobuses turísticos. Conviene reservar al menos medio día, ya que solo el Acuario Churaumi merece dos o tres horas, y hay que contar con aglomeraciones, pues se trata de uno de los sitios más visitados de Okinawa. La entrada al parque en sí es gratuita; solo el acuario y algunas atracciones adicionales tienen costo de entrada.
 faq:
   - q: ¿Cuánto tiempo debo reservar para Ocean Expo Park?

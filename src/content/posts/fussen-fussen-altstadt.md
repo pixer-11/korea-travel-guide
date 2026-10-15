@@ -1,52 +1,82 @@
 ---
-title: "Füssen Altstadt: Travel Guide (4.7★)"
-description: "Füssen Altstadt is the compact medieval old town of Füssen in southern Bavaria. 4.7★ (977 reviews) — what visitors say, hours, and tips."
-country: "Germany"
-region: "Füssen"
-category: "hidden-gem"
-pubDate: "2026-10-15T08:10:33.728Z"
+title: 'Füssen Altstadt: Travel Guide (4.7★)'
+description: >-
+  Füssen Altstadt is the compact medieval old town of Füssen in southern
+  Bavaria. 4.7★ (981 reviews) — what visitors say, hours, and tips.
+country: Germany
+region: Füssen
+category: hidden-gem
+pubDate: '2026-10-15T08:10:33.728Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/F%C3%BCssen_-_Altstadt.JPG/3840px-F%C3%BCssen_-_Altstadt.JPG"
-  credit: "Photo: C.Stadler/Bwag (talk / email) / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:F%C3%BCssen_-_Altstadt.JPG"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/F%C3%BCssen_-_Altstadt.JPG/3840px-F%C3%BCssen_-_Altstadt.JPG
+  credit: 'Photo: C.Stadler/Bwag (talk / email) / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:F%C3%BCssen_-_Altstadt.JPG'
+  via: act
   focus:
     x: 30
-    y: 35
+    'y': 35
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/2/2a/F%C3%BCssen_Altstadt_-_panoramio.jpg"
-    credit: "Photo: Richard Mayer / Wikimedia Commons (CC BY 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:F%C3%BCssen_Altstadt_-_panoramio.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/2/2a/F%C3%BCssen_Altstadt_-_panoramio.jpg
+    credit: 'Photo: Richard Mayer / Wikimedia Commons (CC BY 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:F%C3%BCssen_Altstadt_-_panoramio.jpg
 place:
-  id: "ChIJD8T1egD1nEcR_UyFD1xpmcA"
-  name: "Füssen Altstadt"
-  address: "Reichenstraße 25-3, 87629 Füssen, Germany"
+  id: ChIJD8T1egD1nEcR_UyFD1xpmcA
+  name: Füssen Altstadt
+  address: 'Reichenstraße 25-3, 87629 Füssen, Germany'
   rating: 4.7
-  userRatingsTotal: 977
-  googleMapsUrl: "https://maps.google.com/?cid=13878239570837196029&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 981
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13878239570837196029&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 47.568279499999996
   lng: 10.6997363
-  phone: "+49 8362 93850"
+  phone: +49 8362 93850
 tags:
-  - "füssen"
-  - "old quarter"
-quickAnswer: "Füssen Altstadt is the compact medieval old town of Füssen in southern Bavaria. It's centred on the cobbled Reichenstraße and set below the Hohes Schloss, a short walk from the train station. Give it half a day: the painted castle courtyard, St. Mang Abbey and the Lech gorge fit easily into a morning or late afternoon around a Neuschwanstein visit."
+  - füssen
+  - old quarter
+quickAnswer: >-
+  Füssen Altstadt is the compact medieval old town of Füssen in southern
+  Bavaria. It's centred on the cobbled Reichenstraße and set below the Hohes
+  Schloss, a short walk from the train station. Give it half a day: the painted
+  castle courtyard, St. Mang Abbey and the Lech gorge fit easily into a morning
+  or late afternoon around a Neuschwanstein visit.
 faq:
-  - q: "How do I get to Füssen Altstadt from the train station?"
-    a: "Walk. Füssen station is at the edge of the old town, and Reichenstraße, the main pedestrian street, is a few minutes away on foot. Trains from Munich take about two hours, sometimes with a change at Buchloe."
-  - q: "How long should I spend in Füssen's old town?"
-    a: "Half a day covers the Altstadt properly: Reichenstraße and its side lanes, the Hohes Schloss courtyard and galleries, St. Mang Abbey's museum, and a walk to the Lechfall. If you skip the museums, an hour or two works as a stop before or after Neuschwanstein."
-  - q: "What's the best time of day to explore the Altstadt?"
-    a: "Go early in the morning or in the evening. Many day visitors pass through on their way to and from the castle buses, so the lanes are calmest before they arrive and after they leave. Staying overnight gives you both."
-  - q: "Is the old town close to Neuschwanstein?"
-    a: "Yes. Neuschwanstein and Hohenschwangau are about four kilometres east, and regional buses to Hohenschwangau leave from Füssen station. The two fit easily into one day."
-  - q: "What is there to see besides shops?"
-    a: "See the trompe-l'oeil painted windows in the Hohes Schloss courtyard, the Füssen town museum in St. Mang Abbey with its historic lutes and violins, the Dance of Death paintings in the St. Anna Chapel, and the Lechfall gorge with the König-Max-Steg footbridge. Museum hours vary by season, so check the official site."
+  - q: How do I get to Füssen Altstadt from the train station?
+    a: >-
+      Walk. Füssen station is at the edge of the old town, and Reichenstraße,
+      the main pedestrian street, is a few minutes away on foot. Trains from
+      Munich take about two hours, sometimes with a change at Buchloe.
+  - q: How long should I spend in Füssen's old town?
+    a: >-
+      Half a day covers the Altstadt properly: Reichenstraße and its side lanes,
+      the Hohes Schloss courtyard and galleries, St. Mang Abbey's museum, and a
+      walk to the Lechfall. If you skip the museums, an hour or two works as a
+      stop before or after Neuschwanstein.
+  - q: What's the best time of day to explore the Altstadt?
+    a: >-
+      Go early in the morning or in the evening. Many day visitors pass through
+      on their way to and from the castle buses, so the lanes are calmest before
+      they arrive and after they leave. Staying overnight gives you both.
+  - q: Is the old town close to Neuschwanstein?
+    a: >-
+      Yes. Neuschwanstein and Hohenschwangau are about four kilometres east, and
+      regional buses to Hohenschwangau leave from Füssen station. The two fit
+      easily into one day.
+  - q: What is there to see besides shops?
+    a: >-
+      See the trompe-l'oeil painted windows in the Hohes Schloss courtyard, the
+      Füssen town museum in St. Mang Abbey with its historic lutes and violins,
+      the Dance of Death paintings in the St. Anna Chapel, and the Lechfall
+      gorge with the König-Max-Steg footbridge. Museum hours vary by season, so
+      check the official site.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-15'
 ---
 
 ## A town the castle crowds walk past

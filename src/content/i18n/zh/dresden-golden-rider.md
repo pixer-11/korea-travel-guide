@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: dresden-golden-rider
-srcHash: 'b2b27267c7c9'
+srcHash: '93575a8df85c'
 title: 德累斯顿金色骑士像旅行指南（4.6★）
-description: 金色骑士像（Goldener Reiter）坐落在德累斯顿新城的新城集市广场（Neustädter Markt），就在奥古斯都桥北端。评分4.6★（13,588条评价），本文汇总游客评价、开放时间和游览建议。
+description: 金色骑士像（Goldener Reiter）坐落在德累斯顿新城的新城集市广场（Neustädter Markt），就在奥古斯都桥北端。评分4.6★（13,589条评价），本文汇总游客评价、开放时间和游览建议。
 quickAnswer: 金色骑士像（Goldener Reiter）位于德累斯顿新城的新城集市广场（Neustädter Markt），就在奥古斯都桥（Augustusbrücke）北端。这尊镀金骑马像塑造的是强力王奥古斯特。雕像立在露天广场上，什么时候来都能看到。工作日早上7点至8点、周末早上7点至9点人最少。周末中午12点至晚上9点是广场最热闹的时段，最好错开。
 faq:
   - q: 什么时候去金色骑士像人最少？

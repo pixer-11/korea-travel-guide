@@ -1,44 +1,52 @@
 ---
-title: "Tamaudun: Okinawa Travel Guide (4.1★)"
-description: "Tamaudun is the royal mausoleum of the Second Shō Dynasty in Shuri, Naha, a short walk west of Shuri Castle and about 15 minutes on foot from Shuri Station on the Yui Rail monorail. 4.1★ (1,673 reviews) — what visitors say, hours, and tips."
-country: "Japan"
-region: "Okinawa"
-category: "hidden-gem"
-pubDate: "2026-09-28T07:47:57.425Z"
+title: 'Tamaudun: Okinawa Travel Guide (4.1★)'
+description: >-
+  Tamaudun is the royal mausoleum of the Second Shō Dynasty in Shuri, Naha, a
+  short walk west of Shuri Castle and about 15 minutes on foot from Shuri
+  Station on the Yui Rail monorail. 4.1★ (1,677 reviews) — what visitors say,
+  hours, and tips.
+country: Japan
+region: Okinawa
+category: hidden-gem
+pubDate: '2026-09-28T07:47:57.425Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%E7%8E%89%E9%99%B5_Tamaudun_Royal_Mausoleum.jpg/1920px-%E7%8E%89%E9%99%B5_Tamaudun_Royal_Mausoleum.jpg"
-  credit: "Photo: xiquinhosilva / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:%E7%8E%89%E9%99%B5_Tamaudun_Royal_Mausoleum.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%E7%8E%89%E9%99%B5_Tamaudun_Royal_Mausoleum.jpg/1920px-%E7%8E%89%E9%99%B5_Tamaudun_Royal_Mausoleum.jpg
+  credit: 'Photo: xiquinhosilva / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:%E7%8E%89%E9%99%B5_Tamaudun_Royal_Mausoleum.jpg
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Tamaudun_03.jpg/3840px-Tamaudun_03.jpg"
-    credit: "Photo: Σ64 / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Tamaudun_03.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Tamaudun_03.jpg/3840px-Tamaudun_03.jpg
+    credit: 'Photo: Σ64 / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Tamaudun_03.jpg'
 place:
-  id: "ChIJLZXjOP1r5TQRTvnj1SMSPTs"
-  name: "Tamaudun"
-  address: "Japan, 〒903-0815 沖縄県那覇市首里金城町１丁目３"
+  id: ChIJLZXjOP1r5TQRTvnj1SMSPTs
+  name: Tamaudun
+  address: 'Japan, 〒903-0815 沖縄県那覇市首里金城町１丁目３'
   rating: 4.1
-  userRatingsTotal: 1673
-  googleMapsUrl: "https://maps.google.com/?cid=4268587966938741070&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1677
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4268587966938741070&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 26.218316899999998
   lng: 127.7147476
-  phone: "+81 98-885-2861"
+  phone: +81 98-885-2861
   openingHours:
-    - "Monday: 9:00 AM – 6:00 PM"
-    - "Tuesday: 9:00 AM – 6:00 PM"
-    - "Wednesday: 9:00 AM – 6:00 PM"
-    - "Thursday: 9:00 AM – 6:00 PM"
-    - "Friday: 9:00 AM – 6:00 PM"
-    - "Saturday: 9:00 AM – 6:00 PM"
-    - "Sunday: 9:00 AM – 6:00 PM"
+    - 'Monday: 9:00 AM – 6:00 PM'
+    - 'Tuesday: 9:00 AM – 6:00 PM'
+    - 'Wednesday: 9:00 AM – 6:00 PM'
+    - 'Thursday: 9:00 AM – 6:00 PM'
+    - 'Friday: 9:00 AM – 6:00 PM'
+    - 'Saturday: 9:00 AM – 6:00 PM'
+    - 'Sunday: 9:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-09-28
+    updated: 2026-09-28T00:00:00.000Z
     weekdayQuiet:
       - 9
     weekendBusy:
@@ -46,24 +54,38 @@ place:
       - 11
       - 14
       - 15
-    venueId: "ven_735450534d53316a6e7654525154357231504f6a585a4c4a496843"
+    venueId: ven_735450534d53316a6e7654525154357231504f6a585a4c4a496843
 tags:
-  - "okinawa"
-  - "old quarter"
-quickAnswer: "Tamaudun is the royal mausoleum of the Second Shō Dynasty in Shuri, Naha, a short walk west of Shuri Castle and about 15 minutes on foot from Shuri Station on the Yui Rail monorail. It's open daily 9am to 6pm and quietest between 9am and 10am on weekdays. Avoid weekends between 10am and 4pm, when it's at its busiest."
+  - okinawa
+  - old quarter
+quickAnswer: >-
+  Tamaudun is the royal mausoleum of the Second Shō Dynasty in Shuri, Naha, a
+  short walk west of Shuri Castle and about 15 minutes on foot from Shuri
+  Station on the Yui Rail monorail. It's open daily 9am to 6pm and quietest
+  between 9am and 10am on weekdays. Avoid weekends between 10am and 4pm, when
+  it's at its busiest.
 faq:
-  - q: "When is the quietest time to visit Tamaudun?"
-    a: "Weekdays between 9am and 10am. Avoid weekends from 10am to 4pm, which is the busiest period."
-  - q: "How do I get to Tamaudun?"
-    a: "Take the Yui Rail monorail to Shuri Station, then walk about 15 minutes towards Shuri Castle Park. The address is 1-3 Shuri Kinjo-cho, Naha."
-  - q: "What are Tamaudun's opening hours?"
-    a: "It's open every day, 9am to 6pm."
-  - q: "How long should I spend at Tamaudun?"
-    a: "About 30 to 45 minutes, including the small underground exhibit in the reception building."
-  - q: "What else is near Tamaudun?"
-    a: "Shuri Castle, Shureimon Gate and the Shuri Kinjo-cho Stone-Paved Road are all within a short walk."
+  - q: When is the quietest time to visit Tamaudun?
+    a: >-
+      Weekdays between 9am and 10am. Avoid weekends from 10am to 4pm, which is
+      the busiest period.
+  - q: How do I get to Tamaudun?
+    a: >-
+      Take the Yui Rail monorail to Shuri Station, then walk about 15 minutes
+      towards Shuri Castle Park. The address is 1-3 Shuri Kinjo-cho, Naha.
+  - q: What are Tamaudun's opening hours?
+    a: 'It''s open every day, 9am to 6pm.'
+  - q: How long should I spend at Tamaudun?
+    a: >-
+      About 30 to 45 minutes, including the small underground exhibit in the
+      reception building.
+  - q: What else is near Tamaudun?
+    a: >-
+      Shuri Castle, Shureimon Gate and the Shuri Kinjo-cho Stone-Paved Road are
+      all within a short walk.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-15'
 ---
 
 ## A palace built for the dead

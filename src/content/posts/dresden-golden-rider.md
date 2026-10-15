@@ -1,41 +1,46 @@
 ---
-title: "Golden Rider: Dresden Travel Guide (4.6★)"
-description: "The Golden Rider (Goldener Reiter) stands on Neustädter Markt in Dresden's Neustadt, at the north end of the Augustusbrücke. 4.6★ (13,588 reviews) — what visitors say, hours, and tips."
-country: "Germany"
-region: "Dresden"
-category: "hidden-gem"
-pubDate: "2026-10-15T08:09:27.514Z"
+title: 'Golden Rider: Dresden Travel Guide (4.6★)'
+description: >-
+  The Golden Rider (Goldener Reiter) stands on Neustädter Markt in Dresden's
+  Neustadt, at the north end of the Augustusbrücke. 4.6★ (13,589 reviews) — what
+  visitors say, hours, and tips.
+country: Germany
+region: Dresden
+category: hidden-gem
+pubDate: '2026-10-15T08:09:27.514Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Dresden_Germany_Golden-Rider-04.jpg/3840px-Dresden_Germany_Golden-Rider-04.jpg"
-  credit: "Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Dresden_Germany_Golden-Rider-04.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Dresden_Germany_Golden-Rider-04.jpg/3840px-Dresden_Germany_Golden-Rider-04.jpg
+  credit: 'Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Dresden_Germany_Golden-Rider-04.jpg'
+  via: act
   focus:
     x: 44
-    y: 20
+    'y': 20
 gallery: []
 place:
-  id: "ChIJHSD_PGrPCUcRwauT1i0VenE"
-  name: "Golden Rider"
-  address: "Neustädter Markt 14, 01097 Dresden, Germany"
+  id: ChIJHSD_PGrPCUcRwauT1i0VenE
+  name: Golden Rider
+  address: 'Neustädter Markt 14, 01097 Dresden, Germany'
   rating: 4.6
-  userRatingsTotal: 13588
-  googleMapsUrl: "https://maps.google.com/?cid=8176871360062270401&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 13589
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=8176871360062270401&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 51.058131
   lng: 13.7413297
-  phone: "+49 351 4880"
+  phone: +49 351 4880
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-10-15
+    updated: 2026-10-15T00:00:00.000Z
     weekdayQuiet:
       - 7
     weekdayBusy:
@@ -55,24 +60,44 @@ place:
       - 18
       - 19
       - 20
-    venueId: "ven_456e65563069315475617752635543507247505f4453484a496843"
+    venueId: ven_456e65563069315475617752635543507247505f4453484a496843
 tags:
-  - "dresden"
-  - "old quarter"
-quickAnswer: "The Golden Rider (Goldener Reiter) stands on Neustädter Markt in Dresden's Neustadt, at the north end of the Augustusbrücke. It's a gilded equestrian statue of Augustus the Strong, out in an open square at any hour. It's calmest from 7am–8am on weekdays and 7am–9am on weekends, and you'll want to avoid weekends from 12pm–9pm, when the square is at its busiest."
+  - dresden
+  - old quarter
+quickAnswer: >-
+  The Golden Rider (Goldener Reiter) stands on Neustädter Markt in Dresden's
+  Neustadt, at the north end of the Augustusbrücke. It's a gilded equestrian
+  statue of Augustus the Strong, out in an open square at any hour. It's calmest
+  from 7am–8am on weekdays and 7am–9am on weekends, and you'll want to avoid
+  weekends from 12pm–9pm, when the square is at its busiest.
 faq:
-  - q: "When is the quietest time to visit the Golden Rider?"
-    a: "Early morning. It's calmest from 7am–8am on weekdays and 7am–9am on weekends. Avoid weekends from 12pm–9pm, when the square is at its busiest."
-  - q: "How do I get to the Golden Rider by tram?"
-    a: "Get off at Neustädter Markt, served by tram lines 4, 8 and 9. Or walk across the Augustusbrücke from the Altstadt, about ten minutes from Schlossplatz."
-  - q: "How long should I spend at the statue?"
-    a: "Most people stay 15–30 minutes. That's enough to walk round the plinth, take photos and read up on the history. Add an hour or two if you carry on along Hauptstraße or down to the Elbe meadows."
-  - q: "Can I visit the Golden Rider at night?"
-    a: "Yes. It stands in an open public square, currently listed as open 24 hours, so you can walk past at any time on your way to or from the Neustadt."
-  - q: "Who is the Golden Rider?"
-    a: "Augustus the Strong, Elector of Saxony and King August II of Poland. He's shown as a Roman Caesar on horseback. The gilded copper statue dates from 1736 and was regilded in a restoration finished in 2003."
+  - q: When is the quietest time to visit the Golden Rider?
+    a: >-
+      Early morning. It's calmest from 7am–8am on weekdays and 7am–9am on
+      weekends. Avoid weekends from 12pm–9pm, when the square is at its busiest.
+  - q: How do I get to the Golden Rider by tram?
+    a: >-
+      Get off at Neustädter Markt, served by tram lines 4, 8 and 9. Or walk
+      across the Augustusbrücke from the Altstadt, about ten minutes from
+      Schlossplatz.
+  - q: How long should I spend at the statue?
+    a: >-
+      Most people stay 15–30 minutes. That's enough to walk round the plinth,
+      take photos and read up on the history. Add an hour or two if you carry on
+      along Hauptstraße or down to the Elbe meadows.
+  - q: Can I visit the Golden Rider at night?
+    a: >-
+      Yes. It stands in an open public square, currently listed as open 24
+      hours, so you can walk past at any time on your way to or from the
+      Neustadt.
+  - q: Who is the Golden Rider?
+    a: >-
+      Augustus the Strong, Elector of Saxony and King August II of Poland. He's
+      shown as a Roman Caesar on horseback. The gilded copper statue dates from
+      1736 and was regilded in a restoration finished in 2003.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-15'
 ---
 
 ## A king in gold, mid-stride

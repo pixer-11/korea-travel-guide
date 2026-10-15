@@ -1,27 +1,34 @@
 ---
 title: 'Zhyvago Coffee Works: Okinawa Travel Guide'
-description: Zhyvago Coffee Works Okinawa is an industrial-chic specialty coffee shop in Mihama, Chatan — right by American Village — with a beach-facing terrace and a 4.6 rating from over 1,000 reviews.
+description: >-
+  Zhyvago Coffee Works Okinawa is an industrial-chic specialty coffee shop in
+  Mihama, Chatan — right by American Village — with a beach-facing terrace and a
+  4.6 rating from over 1,000 reviews.
 country: Japan
 region: Okinawa
 category: trendy
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/147795368_1lBraiQEz7KKBMS50aoiEoKCR2_GdoT_LGGZegS9Rco.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/147795368_1lBraiQEz7KKBMS50aoiEoKCR2_GdoT_LGGZegS9Rco.jpg
   credit: 'Photo: Foursquare user content (zhyvago coffee works (ジバゴコーヒーワークス))'
   license: foursquare
-  source: https://foursquare.com/v/55cd7133498e0630e0612352
+  source: 'https://foursquare.com/v/55cd7133498e0630e0612352'
 place:
   id: ChIJ-Z4s2Q8T5TQR7ydGC6mwG8I
   name: Zhyvago Coffee Works Okinawa
-  address: Japan, 〒904-0115 Okinawa, Nakagami District, Chatan, Mihama, ９−４６ ディストーションシーサイドビル 1階
+  address: >-
+    Japan, 〒904-0115 Okinawa, Nakagami District, Chatan, Mihama, ９−４６
+    ディストーションシーサイドビル 1階
   rating: 4.6
-  userRatingsTotal: 1082
-  priceLevel: 2
-  googleMapsUrl: https://maps.google.com/?cid=13986967307814316015&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 1132
+  priceLevel: 1
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13986967307814316015&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 26.3158249
   lng: 127.75373710000001
-  phone: '+81 98-989-5023'
+  phone: +81 98-989-5023
   openingHours:
     - 'Monday: 7:00 AM – 8:00 PM'
     - 'Tuesday: 7:00 AM – 8:00 PM'
@@ -33,19 +40,41 @@ place:
 tags:
   - okinawa
   - trendy cafe
-quickAnswer: Zhyvago Coffee Works Okinawa is an industrial-chic specialty coffee shop in Mihama, Chatan — right by American Village — with a beach-facing terrace and a 4.6 rating from over 1,000 reviews. Go for espresso drinks and pastries in the late afternoon to catch sunset over the East China Sea, and expect a mid-range price tier (¥¥). Pair it with a stroll around American Village's shops and the Sunset Beach boardwalk.
+quickAnswer: >-
+  Zhyvago Coffee Works Okinawa is an industrial-chic specialty coffee shop in
+  Mihama, Chatan — right by American Village — with a beach-facing terrace and a
+  4.6 rating from over 1,000 reviews. Go for espresso drinks and pastries in the
+  late afternoon to catch sunset over the East China Sea, and expect a mid-range
+  price tier (¥¥). Pair it with a stroll around American Village's shops and the
+  Sunset Beach boardwalk.
 faq:
   - q: How do I get to Zhyvago Coffee Works Okinawa without a car?
-    a: There's no train service to this part of Okinawa, so a taxi or bus connection from Naha is needed if you don't rent a car. A taxi from Naha or the airport takes roughly 30-40 minutes; renting a car is the most flexible option for exploring Chatan.
+    a: >-
+      There's no train service to this part of Okinawa, so a taxi or bus
+      connection from Naha is needed if you don't rent a car. A taxi from Naha
+      or the airport takes roughly 30-40 minutes; renting a car is the most
+      flexible option for exploring Chatan.
   - q: What's the best time to visit for the ocean view?
-    a: Late afternoon to early evening, timed for sunset over the East China Sea from the terrace. Mornings are calmer if you just want a quiet coffee without crowds.
+    a: >-
+      Late afternoon to early evening, timed for sunset over the East China Sea
+      from the terrace. Mornings are calmer if you just want a quiet coffee
+      without crowds.
   - q: How long should I plan to stay?
-    a: Most visitors spend 30-60 minutes for coffee and a pastry, longer if claiming terrace seating around sunset when it gets busy.
+    a: >-
+      Most visitors spend 30-60 minutes for coffee and a pastry, longer if
+      claiming terrace seating around sunset when it gets busy.
   - q: Is it expensive?
-    a: It sits at a moderate price level (¥¥) for Japan — pricier than a convenience-store coffee but in line with specialty café pricing, not a luxury splurge.
+    a: >-
+      It sits at a moderate price level (¥¥) for Japan — pricier than a
+      convenience-store coffee but in line with specialty café pricing, not a
+      luxury splurge.
   - q: What else is nearby?
-    a: American Village (shops, restaurants, the Ferris wheel) is right next door, and Sunset Beach is a short walk away, making it easy to combine coffee with a beach or shopping stop.
+    a: >-
+      American Village (shops, restaurants, the Ferris wheel) is right next
+      door, and Sunset Beach is a short walk away, making it easy to combine
+      coffee with a beach or shopping stop.
 aiGenerated: true
+updatedDate: '2026-10-15'
 ---
 
 ## Why go

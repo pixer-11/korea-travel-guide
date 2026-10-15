@@ -1,44 +1,52 @@
 ---
-title: "Okinawa Prefectural Peace Memorial Museum: Travel Guide"
-description: "The Okinawa Prefectural Peace Memorial Museum sits inside Peace Memorial Park in Mabuni, Itoman City, at the southern tip of Okinawa where the Battle of Okinawa's final fighting took place. 4.5★ (2,003 reviews) — what visitors say, hours, and tips."
-country: "Japan"
-region: "Okinawa"
-category: "attraction"
-pubDate: "2026-08-25T08:16:16.345Z"
+title: 'Okinawa Prefectural Peace Memorial Museum: Travel Guide'
+description: >-
+  The Okinawa Prefectural Peace Memorial Museum sits inside Peace Memorial Park
+  in Mabuni, Itoman City, at the southern tip of Okinawa where the Battle of
+  Okinawa's final fighting took place. 4.5★ (2,031 reviews) — what visitors say,
+  hours, and tips.
+country: Japan
+region: Okinawa
+category: attraction
+pubDate: '2026-08-25T08:16:16.345Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Okinawa_prefectural_Peace_memorial_Museum-2007-06-27_2.jpg/1920px-Okinawa_prefectural_Peace_memorial_Museum-2007-06-27_2.jpg"
-  credit: "Photo: Syohei Arai / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Okinawa_prefectural_Peace_memorial_Museum-2007-06-27_2.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Okinawa_prefectural_Peace_memorial_Museum-2007-06-27_2.jpg/1920px-Okinawa_prefectural_Peace_memorial_Museum-2007-06-27_2.jpg
+  credit: 'Photo: Syohei Arai / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Okinawa_prefectural_Peace_memorial_Museum-2007-06-27_2.jpg
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/463651_Wo4AmZ3HBIZCk1Se2iHbpK4bmoHLtObuy2E0fPDDnPs.jpg"
-    credit: "Photo: Foursquare user content (Peace Memorial Museum (平和祈念資料館))"
-    license: "foursquare"
-    source: "https://foursquare.com/v/4c4152dad7fad13a6b7a07da"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/463651_Wo4AmZ3HBIZCk1Se2iHbpK4bmoHLtObuy2E0fPDDnPs.jpg
+    credit: 'Photo: Foursquare user content (Peace Memorial Museum (平和祈念資料館))'
+    license: foursquare
+    source: 'https://foursquare.com/v/4c4152dad7fad13a6b7a07da'
 place:
-  id: "ChIJObFNuNVl5TQR9XG3-qReD9w"
-  name: "Okinawa Prefectural Peace Memorial Museum"
-  address: "614-1 Mabuni, Itoman, Okinawa 901-0333, Japan"
+  id: ChIJObFNuNVl5TQR9XG3-qReD9w
+  name: Okinawa Prefectural Peace Memorial Museum
+  address: '614-1 Mabuni, Itoman, Okinawa 901-0333, Japan'
   rating: 4.5
-  userRatingsTotal: 2003
-  googleMapsUrl: "https://maps.google.com/?cid=15856996875668779509&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2031
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15856996875668779509&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 26.096574399999998
   lng: 127.72544169999999
-  phone: "+81 98-997-3844"
+  phone: +81 98-997-3844
   openingHours:
-    - "Monday: 9:00 AM – 5:00 PM"
-    - "Tuesday: 9:00 AM – 5:00 PM"
-    - "Wednesday: 9:00 AM – 5:00 PM"
-    - "Thursday: 9:00 AM – 5:00 PM"
-    - "Friday: 9:00 AM – 5:00 PM"
-    - "Saturday: 9:00 AM – 5:00 PM"
-    - "Sunday: 9:00 AM – 5:00 PM"
+    - 'Monday: 9:00 AM – 5:00 PM'
+    - 'Tuesday: 9:00 AM – 5:00 PM'
+    - 'Wednesday: 9:00 AM – 5:00 PM'
+    - 'Thursday: 9:00 AM – 5:00 PM'
+    - 'Friday: 9:00 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 5:00 PM'
+    - 'Sunday: 9:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-08-25
+    updated: 2026-08-25T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 10
@@ -52,24 +60,46 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_7739446552712d33475839525154356c564e754e46624f4a496843"
+    venueId: ven_7739446552712d33475839525154356c564e754e46624f4a496843
 tags:
-  - "okinawa"
-  - "museum"
-quickAnswer: "The Okinawa Prefectural Peace Memorial Museum sits inside Peace Memorial Park in Mabuni, Itoman City, at the southern tip of Okinawa where the Battle of Okinawa's final fighting took place. It's open daily 9am–5pm, and the quietest window to visit is 9am–11am on any day of the week — weekends get busy from noon to 4pm. Budget at least two hours, and pair it with the adjacent Cornerstone of Peace monument and the Peace Memorial Hall."
+  - okinawa
+  - museum
+quickAnswer: >-
+  The Okinawa Prefectural Peace Memorial Museum sits inside Peace Memorial Park
+  in Mabuni, Itoman City, at the southern tip of Okinawa where the Battle of
+  Okinawa's final fighting took place. It's open daily 9am–5pm, and the quietest
+  window to visit is 9am–11am on any day of the week — weekends get busy from
+  noon to 4pm. Budget at least two hours, and pair it with the adjacent
+  Cornerstone of Peace monument and the Peace Memorial Hall.
 faq:
-  - q: "How long should I spend at the Okinawa Prefectural Peace Memorial Museum?"
-    a: "Plan for at least 90 minutes for the permanent exhibition, and up to 2.5–3 hours if you include the surrounding Peace Memorial Park and Cornerstone of Peace monument."
-  - q: "When is the quietest time to visit?"
-    a: "Between 9am and 11am, on both weekdays and weekends. Weekend afternoons from 12pm to 4pm are the busiest, with tour groups and school visits."
-  - q: "How do I get to the museum without a car?"
-    a: "Take a bus from Naha Bus Terminal toward Itoman/Mabuni, though schedules are limited. A rental car (about 40–50 minutes from Naha) or a half-day organized tour covering southern Okinawa's war sites is more practical."
-  - q: "Is the museum only in Japanese?"
-    a: "No, English-language panels are provided throughout the permanent exhibition, including translated survivor testimonies, though some sections are text-heavy."
-  - q: "What else is nearby worth visiting?"
-    a: "The Cornerstone of Peace monument and Peace Memorial Hall are both inside the same park, within a short walk. Himeyuri Peace Museum, covering the story of student nurses conscripted during the battle, is a short drive away and commonly paired with this visit."
+  - q: How long should I spend at the Okinawa Prefectural Peace Memorial Museum?
+    a: >-
+      Plan for at least 90 minutes for the permanent exhibition, and up to 2.5–3
+      hours if you include the surrounding Peace Memorial Park and Cornerstone
+      of Peace monument.
+  - q: When is the quietest time to visit?
+    a: >-
+      Between 9am and 11am, on both weekdays and weekends. Weekend afternoons
+      from 12pm to 4pm are the busiest, with tour groups and school visits.
+  - q: How do I get to the museum without a car?
+    a: >-
+      Take a bus from Naha Bus Terminal toward Itoman/Mabuni, though schedules
+      are limited. A rental car (about 40–50 minutes from Naha) or a half-day
+      organized tour covering southern Okinawa's war sites is more practical.
+  - q: Is the museum only in Japanese?
+    a: >-
+      No, English-language panels are provided throughout the permanent
+      exhibition, including translated survivor testimonies, though some
+      sections are text-heavy.
+  - q: What else is nearby worth visiting?
+    a: >-
+      The Cornerstone of Peace monument and Peace Memorial Hall are both inside
+      the same park, within a short walk. Himeyuri Peace Museum, covering the
+      story of student nurses conscripted during the battle, is a short drive
+      away and commonly paired with this visit.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-15'
 ---
 ## Why this place matters
 

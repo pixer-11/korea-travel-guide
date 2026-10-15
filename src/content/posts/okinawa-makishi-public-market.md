@@ -1,45 +1,52 @@
 ---
-title: "Makishi Public Market: Okinawa Travel Guide (4.1★)"
-description: "Makishi Public Market sits in Naha's Matsuo district, one block off Kokusai Street, open daily 8am to 10pm. 4.1★ (3,188 reviews) — what visitors say, hours, and tips."
-country: "Japan"
-region: "Okinawa"
-category: "hidden-gem"
-pubDate: "2026-09-23T07:40:22.349Z"
+title: 'Makishi Public Market: Okinawa Travel Guide (4.1★)'
+description: >-
+  Makishi Public Market sits in Naha's Matsuo district, one block off Kokusai
+  Street, open daily 8am to 10pm. 4.1★ (3,241 reviews) — what visitors say,
+  hours, and tips.
+country: Japan
+region: Okinawa
+category: hidden-gem
+pubDate: '2026-09-23T07:40:22.349Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/JP_%E6%97%A5%E6%9C%AC_Japan_%E6%B2%96%E7%B9%A9_OKINAWA_%E9%82%A3%E9%9C%B8_Naha_%E7%89%A7%E5%BF%97%E5%85%AC%E8%A8%AD%E5%B8%82%E5%A0%B4_Makishi_First_Public_Market_at_%E5%9C%8B%E9%9A%9B%E9%80%9A_KokusaiDori_%E5%A4%A7%E5%B9%B3%E9%80%9A%E5%95%86%E5%BA%97%E8%A1%97_TaiHeiDori_Business_Street_January_2025_R12S_07.jpg/3840px-thumbnail.jpg"
-  credit: "Photo: Naha Mama Pavilionz / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:JP_%E6%97%A5%E6%9C%AC_Japan_%E6%B2%96%E7%B9%A9_OKINAWA_%E9%82%A3%E9%9C%B8_Naha_%E7%89%A7%E5%BF%97%E5%85%AC%E8%A8%AD%E5%B8%82%E5%A0%B4_Makishi_First_Public_Market_at_%E5%9C%8B%E9%9A%9B%E9%80%9A_KokusaiDori_%E5%A4%A7%E5%B9%B3%E9%80%9A%E5%95%86%E5%BA%97%E8%A1%97_TaiHeiDori_Business_Street_January_2025_R12S_07.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/JP_%E6%97%A5%E6%9C%AC_Japan_%E6%B2%96%E7%B9%A9_OKINAWA_%E9%82%A3%E9%9C%B8_Naha_%E7%89%A7%E5%BF%97%E5%85%AC%E8%A8%AD%E5%B8%82%E5%A0%B4_Makishi_First_Public_Market_at_%E5%9C%8B%E9%9A%9B%E9%80%9A_KokusaiDori_%E5%A4%A7%E5%B9%B3%E9%80%9A%E5%95%86%E5%BA%97%E8%A1%97_TaiHeiDori_Business_Street_January_2025_R12S_07.jpg/3840px-thumbnail.jpg
+  credit: 'Photo: Naha Mama Pavilionz / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:JP_%E6%97%A5%E6%9C%AC_Japan_%E6%B2%96%E7%B9%A9_OKINAWA_%E9%82%A3%E9%9C%B8_Naha_%E7%89%A7%E5%BF%97%E5%85%AC%E8%A8%AD%E5%B8%82%E5%A0%B4_Makishi_First_Public_Market_at_%E5%9C%8B%E9%9A%9B%E9%80%9A_KokusaiDori_%E5%A4%A7%E5%B9%B3%E9%80%9A%E5%95%86%E5%BA%97%E8%A1%97_TaiHeiDori_Business_Street_January_2025_R12S_07.jpg
+  via: act
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Makishi_Public_Market_202202.jpg/3840px-Makishi_Public_Market_202202.jpg"
-    credit: "Photo: Kugel~commonswiki / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Makishi_Public_Market_202202.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Makishi_Public_Market_202202.jpg/3840px-Makishi_Public_Market_202202.jpg
+    credit: 'Photo: Kugel~commonswiki / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Makishi_Public_Market_202202.jpg'
 place:
-  id: "ChIJy1Zdsr9p5TQR2ET-2o69ZKg"
-  name: "Makishi Public Market"
-  address: "2-chōme-10-1 Matsuo, Naha, Okinawa 900-0014, Japan"
+  id: ChIJy1Zdsr9p5TQR2ET-2o69ZKg
+  name: Makishi Public Market
+  address: '2-chōme-10-1 Matsuo, Naha, Okinawa 900-0014, Japan'
   rating: 4.1
-  userRatingsTotal: 3188
-  googleMapsUrl: "https://maps.google.com/?cid=12134031717300061400&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 3241
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=12134031717300061400&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 26.214592699999997
   lng: 127.68830129999999
-  phone: "+81 98-867-6560"
+  phone: +81 98-867-6560
   openingHours:
-    - "Monday: 8:00 AM – 10:00 PM"
-    - "Tuesday: 8:00 AM – 10:00 PM"
-    - "Wednesday: 8:00 AM – 10:00 PM"
-    - "Thursday: 8:00 AM – 10:00 PM"
-    - "Friday: 8:00 AM – 10:00 PM"
-    - "Saturday: 8:00 AM – 10:00 PM"
-    - "Sunday: 8:00 AM – 10:00 PM"
+    - 'Monday: 8:00 AM – 10:00 PM'
+    - 'Tuesday: 8:00 AM – 10:00 PM'
+    - 'Wednesday: 8:00 AM – 10:00 PM'
+    - 'Thursday: 8:00 AM – 10:00 PM'
+    - 'Friday: 8:00 AM – 10:00 PM'
+    - 'Saturday: 8:00 AM – 10:00 PM'
+    - 'Sunday: 8:00 AM – 10:00 PM'
   busyness:
-    updated: 2026-09-23
+    updated: 2026-09-23T00:00:00.000Z
     weekdayQuiet:
       - 8
       - 9
@@ -63,24 +70,41 @@ place:
       - 17
       - 18
       - 19
-    venueId: "ven_674b5a39366f322d5445325251543570397273645a31794a496843"
+    venueId: ven_674b5a39366f322d5445325251543570397273645a31794a496843
 tags:
-  - "okinawa"
-  - "local market"
-quickAnswer: "Makishi Public Market sits in Naha's Matsuo district, one block off Kokusai Street, open daily 8am to 10pm. It's well-known rather than a secret, so weekends fill up from 11am to 8pm; go right at 8am for elbow room among the stalls. Budget 45 minutes to browse, longer if you eat upstairs."
+  - okinawa
+  - local market
+quickAnswer: >-
+  Makishi Public Market sits in Naha's Matsuo district, one block off Kokusai
+  Street, open daily 8am to 10pm. It's well-known rather than a secret, so
+  weekends fill up from 11am to 8pm; go right at 8am for elbow room among the
+  stalls. Budget 45 minutes to browse, longer if you eat upstairs.
 faq:
-  - q: "Where exactly is Makishi Public Market?"
-    a: "In Naha's Matsuo district, 2-chōme-10-1 Matsuo, just off Kokusai Street and a short walk from Makishi or Asahibashi Yui Rail stations."
-  - q: "What is the quietest time to visit?"
-    a: "Weekday or weekend mornings from 8am, right at opening, stay calm all day according to crowd data; the crush hits weekends specifically between 11am and 8pm."
-  - q: "How does the market's food system work?"
-    a: "You buy raw fish, shellfish or meat at ground-floor stalls, then carry it upstairs where partner restaurants cook it for a separate charge, a system locally called mise-age."
-  - q: "How long should I plan to spend there?"
-    a: "Allow at least 45 minutes to browse the stalls; add 30-60 minutes if you buy seafood and eat upstairs."
-  - q: "Is the market open every day?"
-    a: "Yes, it runs 8am to 10pm daily with no midday closure, so lunch, dinner and late-afternoon visits all work."
+  - q: Where exactly is Makishi Public Market?
+    a: >-
+      In Naha's Matsuo district, 2-chōme-10-1 Matsuo, just off Kokusai Street
+      and a short walk from Makishi or Asahibashi Yui Rail stations.
+  - q: What is the quietest time to visit?
+    a: >-
+      Weekday or weekend mornings from 8am, right at opening, stay calm all day
+      according to crowd data; the crush hits weekends specifically between 11am
+      and 8pm.
+  - q: How does the market's food system work?
+    a: >-
+      You buy raw fish, shellfish or meat at ground-floor stalls, then carry it
+      upstairs where partner restaurants cook it for a separate charge, a system
+      locally called mise-age.
+  - q: How long should I plan to spend there?
+    a: >-
+      Allow at least 45 minutes to browse the stalls; add 30-60 minutes if you
+      buy seafood and eat upstairs.
+  - q: Is the market open every day?
+    a: >-
+      Yes, it runs 8am to 10pm daily with no midday closure, so lunch, dinner
+      and late-afternoon visits all work.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-15'
 ---
 ## What's actually inside
 

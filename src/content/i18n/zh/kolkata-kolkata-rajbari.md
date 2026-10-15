@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: kolkata-kolkata-rajbari
-srcHash: '44e64d49ff43'
+srcHash: 'a76c63359325'
 title: Kolkata Rajbari：加尔各答南城孟加拉菜馆就餐指南（4.6★）
-description: Kolkata Rajbari位于加尔各答南部卡利加特（Kalighat）的Jatin Das Road，店面宽敞，氛围轻松，主打咖喱、米饭和其他孟加拉传统菜，价位中等。这家店评分4.6★（17,453条评价），本文汇总了食客评价、营业时间和实用建议。
+description: Kolkata Rajbari位于加尔各答南部卡利加特（Kalighat）的Jatin Das Road，店面宽敞，氛围轻松，主打咖喱、米饭和其他孟加拉传统菜，价位中等。这家店评分4.6★（17,459条评价），本文汇总了食客评价、营业时间和实用建议。
 quickAnswer: Kolkata Rajbari位于加尔各答南部卡利加特（Kalighat）的Jatin Das Road，店面宽敞，氛围轻松，主打咖喱、米饭和其他孟加拉传统菜，价位中等。目前每天12:00–23:00营业。这家店人气很旺，建议中午一开门就到；如果店家接受预订，最好提前订位。
 faq:
   - q: Kolkata Rajbari具体在哪里？
