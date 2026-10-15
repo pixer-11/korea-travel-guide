@@ -12091,5 +12091,221 @@
       "getting": "丰岛本身既没有机场，也没有火车站，游客只能通过轮渡抵达，最常见的方式是从高松乘坐高速船前往家浦港，单程约需35分钟。另一种路线是先乘坐JR列车从冈山到宇野站，车程约45分钟，再转乘轮渡前往丰岛；而高松本身则可从东京或其他主要城市搭乘飞机或新干线到达。",
       "days": "大约1到1.5天的时间，便足以悠闲地游览岛上主要的艺术景点和渔村。虽然一天之内也能走完，但如果时间允许，不妨多留半天，安排一天半会更加从容。"
     }
+  },
+  "Alicante": {
+    "en": {
+      "blurb": "Alicante pairs a palm-lined seafront and old-town hillside castle with the laid-back energy of a working Mediterranean port city, rather than a purely manufactured resort. It serves as the main gateway to Spain's Costa Blanca, so most visitors pass through it even when their real destination is a beach town further up or down the coast.",
+      "getting": "Most travellers arrive via Alicante-Elche Airport (ALC), which has no direct train or tram link; the reliable route into the centre is the C-6 bus, which runs regularly from the terminal to the city's train station and the Luceros hub, where it connects with the local tram network. The journey takes roughly 20 to 40 minutes depending on traffic and drop-off point.",
+      "days": "Two to three days is enough to cover the old town, castle and beachfront, while longer stays usually branch out by tram or bus to nearby Costa Blanca towns."
+    },
+    "ko": {
+      "blurb": "알리칸테는 야자수가 늘어선 해안 산책로와 구시가지 언덕 위의 성이 어우러진 도시이지만, 억지로 꾸며낸 리조트라기보다는 지중해 항구 도시 특유의 느긋하고 활기찬 분위기가 살아 있는 곳이다. 코스타 블랑카로 들어가는 관문 역할을 하다 보니, 실제 목적지가 해안을 따라 위아래로 떨어진 다른 해변 마을이라 해도 대부분의 여행자는 한 번쯤 이곳을 거쳐 가게 된다.",
+      "getting": "대부분의 여행자는 알리칸테-엘체 공항(ALC)을 통해 입국하는데, 이곳에는 기차나 트램 직결 노선이 없다. 시내로 들어가는 가장 확실한 방법은 C-6 버스로, 공항 터미널에서 시내 기차역과 루세로스(Luceros) 환승 거점까지 정기적으로 운행하며, 루세로스에서 지역 트램 노선으로 갈아탈 수 있다. 소요 시간은 교통 상황과 하차 지점에 따라 대략 20분에서 40분 정도다.",
+      "days": "구시가지와 성, 해안가를 둘러보기에는 2~3일이면 충분하며, 더 오래 머무는 경우에는 보통 트램이나 버스를 타고 인근 코스타 블랑카의 다른 마을들로 발길을 넓히게 된다."
+    },
+    "ja": {
+      "blurb": "アリカンテは、椰子の木が並ぶ海岸沿いの通りと旧市街の丘に建つ城を併せ持ちながらも、単なる作り込まれたリゾート地とは一線を画し、現役の地中海港湾都市ならではの飾らない活気にあふれています。スペインのコスタ・ブランカへの玄関口として機能しているため、実際の目的地が海岸沿いをもっと北や南に行ったビーチタウンであっても、多くの旅行者がこの街を経由することになります。",
+      "getting": "ほとんどの旅行者はアリカンテ・エルチェ空港（ALC）を利用しますが、鉄道やトラムの直通路線はありません。中心部へ向かう確実な手段はC-6バスで、ターミナルから市の鉄道駅とルセロスのハブまで定期的に運行しており、ルセロスで市内のトラム網に乗り換えられます。所要時間は交通状況や降車地点によって、おおよそ20分から40分程度です。",
+      "days": "旧市街、城、そして海岸沿いを巡るなら2〜3日あれば十分です。もっと長く滞在する場合は、たいていトラムやバスでコスタ・ブランカの近隣の町まで足を延ばすことになります。"
+    },
+    "es": {
+      "blurb": "Alicante combina un paseo marítimo bordeado de palmeras y un castillo en lo alto del casco antiguo con el ambiente relajado de una ciudad portuaria mediterránea que vive de verdad, y no con el de un resort artificial. Funciona como la principal puerta de entrada a la Costa Blanca, así que la mayoría de los viajeros pasan por aquí aunque su destino real sea algún pueblo de playa más al norte o al sur de la costa.",
+      "getting": "La mayoría de los viajeros llega a través del aeropuerto de Alicante-Elche (ALC), que no cuenta con conexión directa de tren ni de tranvía; la opción más fiable para llegar al centro es el autobús C-6, que circula con frecuencia desde la terminal hasta la estación de tren de la ciudad y el intercambiador de Luceros, donde enlaza con la red de tranvía local. El trayecto dura entre 20 y 40 minutos aproximadamente, según el tráfico y el punto de bajada.",
+      "days": "Con dos o tres días es suficiente para recorrer el casco antiguo, el castillo y el frente marítimo, mientras que las estancias más largas suelen aprovecharse para hacer excursiones en tranvía o autobús a otras localidades cercanas de la Costa Blanca."
+    },
+    "zh": {
+      "blurb": "阿利坎特拥有棕榈树环绕的海滨大道和老城山丘上的城堡,散发着一座地中海港口城市特有的悠闲气息,而非刻意打造的度假胜地。作为通往西班牙白色海岸（Costa Blanca）的主要门户,即便游客真正的目的地是沿海北部或南部的某个海滨小镇,大多数人也会在此经停。",
+      "getting": "大多数旅客经阿利坎特-埃尔切机场（ALC）抵达,该机场没有直达的火车或电车线路,进入市区最可靠的方式是乘坐C-6路巴士。这趟巴士从航站楼定时发车,途经市火车站,最终抵达卢塞罗斯（Luceros）枢纽站,在那里可以换乘当地电车网络。根据路况和下车地点的不同,全程大约需要20到40分钟。",
+      "days": "安排两到三天时间,足以游览老城区、城堡和海滨地带;若停留时间更长,游客通常会乘坐电车或巴士,前往附近白色海岸沿线的其他城镇继续游玩。"
+    }
+  },
+  "Angono": {
+    "en": {
+      "blurb": "Angono is a lakeside town in Rizal province, promoted as the \"Art Capital of the Philippines\" thanks to native sons like national artist Carlos \"Botong\" Francisco and a legacy of open-air murals, galleries, and the prehistoric Angono-Binangonan Petroglyphs. Its small-town, fishing-village character persists even as it folds into Metro Manila's eastward sprawl, most visibly during the papier-mache giant parade of the annual Higantes Festival.",
+      "getting": "Angono has no airport or rail line of its own: travellers fly into Ninoy Aquino International Airport (NAIA) in Manila, then continue by road via Manila East Road or Ortigas Avenue Extension, roughly ~30 to 45 minutes by car or taxi, or ~2 to 2.5 hours by public bus, jeepney, or UV Express van from hubs such as EDSA-Shaw or Cubao. A private vehicle or taxi is the more reliable option, especially for reaching the hillier Petroglyphs site outside town.",
+      "days": "A single day is enough to cover Angono's compact core: the mural-lined Doña Aurora Street, a museum or two, and a short tricycle trip up to the Petroglyphs, making it a popular day trip from Manila rather than an overnight stay."
+    },
+    "ko": {
+      "blurb": "안고노는 리살 주의 호숫가 마을로, 국민 예술가 카를로스 \"보통\" 프란시스코를 비롯한 걸출한 예술가들을 배출하고 거리 벽화와 갤러리, 그리고 선사시대 유적인 안고노-비낭고난 암각화를 간직한 덕분에 \"필리핀 예술의 수도\"로 불린다. 메트로 마닐라가 동쪽으로 뻗어 나가며 그 영역에 편입되고 있지만, 안고노는 여전히 작고 소박한 어촌 마을의 정취를 간직하고 있으며, 이는 매년 열리는 히간테스 축제에서 거대한 종이반죽 인형들이 행진하는 모습에서 가장 뚜렷하게 드러난다.",
+      "getting": "안고노에는 자체 공항이나 철도가 없다. 여행자는 마닐라에 있는 니노이 아키노 국제공항(NAIA)으로 입국한 뒤, 마닐라 이스트 로드나 오르티가스 애비뉴 익스텐션을 통해 육로로 이동해야 한다. 자동차나 택시로는 약 30~45분, EDSA-Shaw나 쿠바오 같은 환승 거점에서 대중버스, 지프니, UV 익스프레스 밴을 이용하면 약 2~2.5시간이 걸린다. 특히 마을 외곽의 언덕진 암각화 유적지까지 가려면 자가용이나 택시를 이용하는 편이 더 믿을 만하다.",
+      "days": "안고노의 아담한 중심가를 둘러보는 데는 하루면 충분하다. 벽화가 늘어선 도냐 아우로라 거리를 거닐고, 박물관 한두 곳을 들른 뒤, 트라이시클을 타고 잠깐 올라가 암각화를 구경하는 일정이면 된다. 그래서 숙박보다는 마닐라에서 당일치기로 다녀오기 좋은 여행지로 인기가 많다."
+    },
+    "ja": {
+      "blurb": "アンゴノはリサール州にある湖畔の町で、国民的芸術家カルロス・「ボトン」・フランシスコをはじめとする地元出身の芸術家たちや、野外壁画、ギャラリー、さらには先史時代の遺跡「アンゴノ・ビナンゴナン岩刻画」といった芸術の伝統から、「フィリピン芸術の都」として知られています。首都圏が東へと広がる波にのみ込まれつつも、小さな漁村らしい雰囲気は今も健在で、それは毎年開催される「ヒガンテス祭り」で紙張り子の巨人像がパレードする光景に最もよく表れています。",
+      "getting": "アンゴノには空港も鉄道もないため、まずマニラのニノイ・アキノ国際空港(NAIA)に飛行機で入り、そこから陸路で向かうことになります。マニラ・イースト・ロードまたはオルティガス・アベニュー・エクステンション経由で、車やタクシーならおよそ30~45分、EDSA・シャウ(EDSA-Shaw)やクバオといった拠点から路線バス、ジプニー、UVエクスプレスのバンを利用する場合はおよそ2~2.5時間かかります。特に町外れの丘陵地にある岩刻画(ペトログリフ)遺跡へ行くには、自家用車かタクシーを利用する方が確実です。",
+      "days": "アンゴノのコンパクトな見どころは1日あれば十分に巡れます。壁画が立ち並ぶドニャ・アウロラ通り、1~2か所の博物館、そしてトライシクルで少し足を延ばして訪れる岩刻画(ペトログリフ)遺跡――これらを合わせても1日で回れるため、宿泊を伴う旅行先というより、マニラからの人気の日帰りスポットとなっています。"
+    },
+    "es": {
+      "blurb": "Angono es un pueblo a orillas del lago en la provincia de Rizal, conocido como la \"Capital del Arte de Filipinas\" gracias a hijos ilustres como el artista nacional Carlos \"Botong\" Francisco y a un legado de murales al aire libre, galerías y los prehistóricos Petroglifos de Angono-Binangonan. Su carácter de pueblo pequeño y aldea pesquera se mantiene vivo pese a verse cada vez más absorbido por la expansión del Gran Manila hacia el este, algo que se hace especialmente visible durante el desfile de gigantes de papel maché del tradicional Festival de los Higantes.",
+      "getting": "Angono no cuenta con aeropuerto ni línea ferroviaria propia: los viajeros llegan al Aeropuerto Internacional Ninoy Aquino (NAIA) en Manila y desde allí continúan por carretera, ya sea por Manila East Road o por la extensión de la avenida Ortigas. El trayecto dura entre 30 y 45 minutos en auto o taxi, o de 2 a 2.5 horas en autobús público, jeepney o van UV Express desde puntos como EDSA-Shaw o Cubao. Lo más recomendable es usar un vehículo privado o taxi, sobre todo para llegar a la zona más montañosa donde se encuentran los Petroglifos, a las afueras del pueblo.",
+      "days": "Un solo día basta para recorrer el compacto centro de Angono: la calle Doña Aurora, llena de murales, uno o dos museos, y una breve excursión en triciclo hasta los Petroglifos. Por eso suele visitarse como una excursión de un día desde Manila, más que como una estadía nocturna."
+    },
+    "zh": {
+      "blurb": "安洛洛（Angono）是黎刹省一座临湖小镇，因国家级艺术家卡洛斯·\"博通\"·弗朗西斯科（Carlos \"Botong\" Francisco）等本土名人而被誉为\"菲律宾艺术之都\"，镇上随处可见露天壁画、画廊，还有史前的安洛洛-比南戈南岩画（Angono-Binangonan Petroglyphs）。尽管大马尼拉都市圈不断向东扩张，这座小渔村的质朴风貌依然保留至今，而这一点在一年一度的\"大人偶节\"（Higantes Festival）巡游纸糊巨人像时体现得尤为淋漓尽致。",
+      "getting": "安洛洛本身没有机场或铁路：游客需先飞抵马尼拉的尼诺伊·阿基诺国际机场（NAIA），再经马尼拉东路（Manila East Road）或奥提加斯大道延长线（Ortigas Avenue Extension）陆路前往，自驾或打车约需30至45分钟；若从EDSA-Shaw或Cubao等枢纽乘坐公共巴士、吉普尼（jeepney）或UV Express厢型车，则需约2至2.5小时。相比之下，自驾或打车更为可靠，尤其是前往镇外地势较高的岩画遗址时。",
+      "days": "一天时间便足以游览安洛洛的核心区域：沿途满是壁画的多尼亚奥罗拉街（Doña Aurora Street）、一两座博物馆，再乘三轮车短途前往岩画遗址。因此，比起过夜住宿，安洛洛更适合作为马尼拉周边热门的一日游目的地。"
+    }
+  },
+  "Boulogne-Billancourt": {
+    "en": {
+      "blurb": "Once the industrial heartland of Renault's car empire, Boulogne-Billancourt has reinvented itself as a sleek riverside suburb of media headquarters, art deco streets and the striking La Seine Musicale concert hall on Île Seguin. Just west of central Paris along the Seine, it pairs village-like calm with genuine cultural weight, from the Musée Albert-Kahn's gardens to its film-studio past.",
+      "getting": "Boulogne-Billancourt sits just outside central Paris and is reached via Paris Métro Line 9 (stations including Marcel Sembat, Billancourt and Pont de Sèvres) or Line 10 (Boulogne Jean Jaurès), both running directly from the city centre. There is no direct rail link from Paris's main airports: travellers from Charles de Gaulle (CDG) or Orly (ORY) should take the RER into central Paris and transfer onto the metro, a journey of roughly ~1 hour, or use a taxi or pre-booked transfer for a more direct ~35 to 60 minute ride depending on traffic.",
+      "days": "Two to three days is enough to cover the main sights such as La Seine Musicale, the Musée Albert-Kahn gardens and the Les Passages shopping district, while four to five days allows a fuller exploration paired with easy side trips into Paris."
+    },
+    "ko": {
+      "blurb": "한때 르노 자동차 제국의 산업 심장부였던 불로뉴비양쿠르는 이제 미디어 기업 본사와 아르데코풍 거리, 그리고 세갱 섬에 자리한 인상적인 라 센 뮈지칼 콘서트홀이 어우러진 세련된 센 강변 교외 도시로 거듭났습니다. 파리 중심부에서 센 강을 따라 서쪽으로 조금만 가면 닿는 이곳은, 소박한 마을 같은 평온함과 알베르칸 박물관의 정원에서부터 영화 스튜디오로서의 역사에 이르기까지 묵직한 문화적 깊이를 함께 지니고 있습니다.",
+      "getting": "불로뉴비양쿠르는 파리 중심부 바로 외곽에 위치해 있으며, 파리 지하철 9호선(마르셀 샹바, 비양쿠르, 퐁 드 세브르 등의 역)이나 10호선(불로뉴 장 조레스)을 이용해 시내에서 직접 갈 수 있습니다. 파리의 주요 공항에서 바로 연결되는 철도편은 없으므로, 샤를 드골 공항(CDG)이나 오를리 공항(ORY)에서 출발할 경우 RER을 타고 파리 중심부로 이동한 뒤 지하철로 환승해야 하며, 이 경우 약 1시간 정도 소요됩니다. 보다 직접적으로 이동하고 싶다면 택시나 사전 예약한 교통편을 이용할 수 있으며, 교통 상황에 따라 약 35분에서 60분 정도 걸립니다.",
+      "days": "라 센 뮈지칼, 알베르칸 박물관 정원, 레 파사주 쇼핑 지구 등 주요 명소를 둘러보기에는 이틀에서 사흘이면 충분하며, 나흘에서 닷새 정도 머문다면 파리로의 손쉬운 당일 여행까지 곁들여 더욱 여유롭게 둘러볼 수 있습니다."
+    },
+    "ja": {
+      "blurb": "かつてルノーの自動車帝国を支えた工業都市だったブローニュ=ビヤンクールは、今やメディア企業の本社やアール・デコ調の街並み、そしてセガン島に建つ印象的なコンサートホール「ラ・セーヌ・ミュジカル」が立ち並ぶ、洗練された川沿いの街へと生まれ変わりました。セーヌ川沿い、パリ中心部のすぐ西に位置するこの街は、村のような落ち着いた雰囲気と確かな文化的厚みを兼ね備えており、アルベール・カーン美術館の庭園から、かつての映画スタジオとしての歴史まで、多彩な魅力を楽しめます。",
+      "getting": "ブローニュ=ビヤンクールはパリ中心部のすぐ外側に位置し、パリ地下鉄9号線(マルセル・サンバ駅、ビヤンクール駅、ポン・ド・セーヴル駅など)または10号線(ブローニュ・ジャン・ジョレス駅)でアクセスできます。どちらもパリ中心部から直通で運行しています。パリの主要空港からの直通鉄道はないため、シャルル・ド・ゴール空港(CDG)やオルリー空港(ORY)からはRERでパリ中心部へ向かい、そこから地下鉄に乗り換える必要があります(所要時間は約1時間)。より直接的に移動したい場合は、タクシーや事前予約の送迎サービスを利用すると、交通状況にもよりますが約35〜60分で到着します。",
+      "days": "ラ・セーヌ・ミュジカル、アルベール・カーン美術館の庭園、ショッピングエリアのレ・パサージュといった主要な見どころを巡るなら2~3日あれば十分です。4~5日あれば、より充実した滞在に加え、パリへの気軽な小旅行も楽しめます。"
+    },
+    "es": {
+      "blurb": "Antiguo corazón industrial del imperio automovilístico de Renault, Boulogne-Billancourt se ha reinventado como un elegante suburbio a orillas del Sena, con sedes de medios de comunicación, calles de estilo art déco y la impactante sala de conciertos La Seine Musicale, en la Île Seguin. Situada justo al oeste del centro de París, a lo largo del Sena, combina la calma de un pueblo con un peso cultural genuino, desde los jardines del Museo Albert-Kahn hasta su pasado como meca de los estudios cinematográficos.",
+      "getting": "Boulogne-Billancourt se encuentra justo a las afueras del centro de París y se puede llegar a través de la Línea 9 del metro parisino (con estaciones como Marcel Sembat, Billancourt y Pont de Sèvres) o la Línea 10 (Boulogne Jean Jaurès), ambas con servicio directo desde el centro de la ciudad. No existe conexión ferroviaria directa desde los principales aeropuertos de París: quienes lleguen desde Charles de Gaulle (CDG) u Orly (ORY) deben tomar el RER hasta el centro de París y hacer transbordo al metro, un trayecto de aproximadamente 1 hora, o bien optar por un taxi o un traslado reservado con antelación para un viaje más directo de entre 35 y 60 minutos, según el tráfico.",
+      "days": "Con dos o tres días es suficiente para recorrer los principales atractivos, como La Seine Musicale, los jardines del Museo Albert-Kahn y la zona comercial de Les Passages, mientras que cuatro o cinco días permiten una exploración más completa, combinada con cómodas excursiones a París."
+    },
+    "zh": {
+      "blurb": "布洛涅-比扬库尔曾是雷诺汽车帝国的工业心脏地带,如今已华丽转身,成为塞纳河畔一座时尚的近郊城区,汇聚了众多媒体总部、装饰艺术风格的街道,以及塞甘岛上令人惊艳的音乐厅——塞纳音乐城。它位于巴黎市中心以西、沿塞纳河而建,既有村镇般的宁静氛围,又拥有厚重的文化底蕴,从阿尔伯特·卡恩博物馆的庭院,到这里曾作为电影制片厂重镇的历史,无不彰显其独特魅力。",
+      "getting": "布洛涅-比扬库尔紧邻巴黎市中心,可乘坐巴黎地铁9号线(途经马塞尔·桑巴、比扬库尔、塞夫勒桥等站)或10号线(布洛涅让·饶勒斯站)直达,两条线路均从市中心直接通往此地。由于巴黎各大机场并无直达此处的铁路线路,从戴高乐机场(CDG)或奥利机场(ORY)出发的旅客,需先搭乘RER城郊快铁进入巴黎市中心,再换乘地铁,全程约需1小时;若想更便捷地直达目的地,也可选择出租车或提前预订的接送服务,车程根据路况大约在35至60分钟之间。",
+      "days": "安排两到三天时间,便足以游览塞纳音乐城、阿尔伯特·卡恩博物馆的庭院,以及帕萨日购物区等主要景点;若想更深入地探索这座城市,并轻松往返巴黎市区观光,则建议安排四到五天的行程。"
+    }
+  },
+  "Greater Noida": {
+    "en": {
+      "blurb": "Greater Noida is a planned satellite city on Delhi's eastern edge, built around wide expressways, sprawling university campuses and the Buddh International Circuit. It trades the chaos of old Delhi for ordered sectors, green belts and a skyline of new commercial towers, making it a base for business, motorsport and education rather than classic sightseeing.",
+      "getting": "Most travellers fly into Delhi's Indira Gandhi International Airport (DEL), the nearest major airport, then continue by road or metro, a trip of roughly 1 to 1.5 hours depending on traffic. Within the region, the Aqua Line of the Noida Metro links Greater Noida to Noida, where it connects to the Delhi Metro network for onward travel across the capital.",
+      "days": "Plan on ~1 to 2 days, enough to cover the Buddh International Circuit, Expo Mart and main commercial sectors before heading back into Delhi or Noida."
+    },
+    "ko": {
+      "blurb": "그레이터 노이다는 델리 동쪽 외곽에 자리한 계획도시로, 넓은 고속도로와 대규모 대학 캠퍼스, 그리고 부디 인터내셔널 서킷을 중심으로 조성되었다. 구 델리 특유의 혼잡함 대신 질서정연하게 구획된 섹터와 녹지, 신축 상업 타워가 늘어선 스카이라인을 갖추고 있어, 전통적인 관광지라기보다는 비즈니스와 모터스포츠, 교육의 거점에 가깝다.",
+      "getting": "대부분의 여행자는 가장 가까운 주요 공항인 델리 인디라 간디 국제공항(DEL)으로 입국한 뒤, 도로나 지하철을 이용해 이동한다. 교통 상황에 따라 다르지만 보통 1시간에서 1시간 30분 정도 소요된다. 지역 내에서는 노이다 메트로의 아쿠아 라인이 그레이터 노이다와 노이다를 연결하며, 노이다에서 델리 메트로 네트워크로 환승하면 수도 전역으로 이동할 수 있다.",
+      "days": "하루에서 이틀 정도면 충분하다. 부디 인터내셔널 서킷과 엑스포 마트, 주요 상업 지구를 둘러본 뒤 델리나 노이다로 돌아가는 일정으로 계획하면 좋다."
+    },
+    "ja": {
+      "blurb": "グレーター・ノイダは、デリーの東端に位置する計画都市で、広々とした高速道路、広大な大学キャンパス、そしてブッダ・インターナショナル・サーキットを中心に発展してきました。旧デリーのような雑然とした雰囲気とは一線を画し、整然と区画されたセクター、緑地帯、新しい商業ビル群が立ち並ぶスカイラインが特徴です。古典的な観光地というよりも、ビジネスやモータースポーツ、教育の拠点としての性格が強い街です。",
+      "getting": "多くの旅行者は、最寄りの主要空港であるデリーのインディラ・ガンディー国際空港（DEL）を利用し、そこから陸路または地下鉄でさらに移動します。所要時間は交通状況によって異なりますが、おおよそ1時間から1時間半ほどです。地域内では、ノイダ・メトロのアクア線がグレーター・ノイダとノイダを結んでおり、ノイダでデリー・メトロの路線に乗り換えることで、首都圏内のさらなる移動が可能です。",
+      "days": "滞在日数は1～2日程度を目安にすると良いでしょう。ブッダ・インターナショナル・サーキット、エキスポ・マート、主要な商業セクターを一通り巡るには十分な日数で、その後はデリーやノイダへ戻ることができます。"
+    },
+    "es": {
+      "blurb": "Greater Noida es una ciudad satélite planificada en el extremo oriental de Delhi, construida en torno a amplias autopistas, extensos campus universitarios y el Circuito Internacional Buddh. Aquí se deja atrás el caos de la vieja Delhi para dar paso a sectores ordenados, cinturones verdes y un horizonte de nuevas torres comerciales, lo que la convierte en una base ideal para los negocios, el automovilismo y la educación, más que en un destino turístico clásico.",
+      "getting": "La mayoría de los viajeros llega por el Aeropuerto Internacional Indira Gandhi de Delhi (DEL), el aeropuerto principal más cercano, y desde allí continúa por carretera o en metro, un trayecto de aproximadamente 1 a 1,5 horas según el tráfico. Dentro de la región, la Línea Aqua del Metro de Noida conecta Greater Noida con Noida, desde donde se enlaza con la red del Metro de Delhi para seguir viaje por toda la capital.",
+      "days": "Conviene planear entre 1 y 2 días, tiempo suficiente para recorrer el Circuito Internacional Buddh, el Expo Mart y los principales sectores comerciales antes de regresar a Delhi o Noida."
+    },
+    "zh": {
+      "blurb": "大诺伊达（Greater Noida）是德里东部边缘一座规划完善的卫星城，依托宽阔的高速公路、规模庞大的大学校区以及佛陀国际赛道（Buddh International Circuit）而建。这里没有老德里的喧嚣拥挤，取而代之的是井然有序的分区、大片绿化带，以及鳞次栉比的现代商业大厦，使其更像是商务、赛车运动和教育的据点，而非传统意义上的观光胜地。",
+      "getting": "大多数游客会先飞抵德里的英迪拉·甘地国际机场（DEL），这是最近的主要机场，再转乘陆路或地铁前往，车程视路况而定，大约需要1到1.5小时。在当地，诺伊达地铁（Noida Metro）的水蓝线（Aqua Line）连接大诺伊达与诺伊达（Noida），并在诺伊达与德里地铁网络接驳，方便继续前往首都其他地区。",
+      "days": "建议安排1到2天时间，足以游览佛陀国际赛道、Expo Mart会展中心以及主要商业区，之后再返回德里或诺伊达。"
+    }
+  },
+  "Klang": {
+    "en": {
+      "blurb": "Klang is Selangor's royal town: a former state capital whose colonial-era shophouses, mosques and the Sultan's Istana Alam Shah sit close to Port Klang, one of Malaysia's busiest container ports. The result is a compact, slightly rough-edged town that mixes palace heritage, Little India markets and renowned bak kut teh stalls with the working rhythm of a major port city.",
+      "getting": "Most travellers arrive via Kuala Lumpur International Airport (KLIA), taking the KLIA Ekspres train to KL Sentral and then switching to the KTM Komuter's Port Klang Line, which runs direct to Klang station; the combined journey takes roughly ~1.5 to 2 hours. There is no direct airport bus or train, so KL Sentral remains the reliable transfer hub for reaching Klang by rail or by onward bus and taxi services.",
+      "days": "Most visitors cover Klang's heritage walk, royal gallery and food stalls in ~1 day, which is enough time for the core sights before heading back to Kuala Lumpur."
+    },
+    "ko": {
+      "blurb": "클랑은 셀랑고르의 왕실 도시입니다. 한때 주도였던 이곳은 식민지 시대의 숍하우스와 모스크, 술탄의 궁전인 이스타나 알람 샤가 말레이시아에서 가장 분주한 컨테이너 항구 중 하나인 포트클랑과 가까이 자리해 있습니다. 그 결과 왕궁의 유산과 리틀 인디아 시장, 유명한 박꿋테 노점이 대형 항구 도시 특유의 활기찬 생활 리듬과 어우러진, 아담하면서도 투박한 매력을 지닌 도시가 탄생했습니다.",
+      "getting": "대부분의 여행객은 쿠알라룸푸르 국제공항(KLIA)을 통해 입국한 뒤, KLIA 익스프레스 열차를 타고 KL 센트럴로 이동한 다음 KTM 코뮤터의 포트클랑 노선으로 환승해 클랑역까지 직행합니다. 전체 소요 시간은 약 1.5~2시간 정도입니다. 공항에서 클랑까지 바로 가는 버스나 열차는 없기 때문에, KL 센트럴이 철도나 이후 버스·택시 이용을 위한 믿을 만한 환승 거점 역할을 합니다.",
+      "days": "대부분의 방문객은 약 하루 정도면 클랑의 헤리티지 워크, 왕실 갤러리, 그리고 먹거리 노점들을 둘러볼 수 있으며, 이는 핵심 명소들을 돌아보고 다시 쿠알라룸푸르로 돌아가기에 충분한 시간입니다."
+    },
+    "ja": {
+      "blurb": "クランはスランゴール州の王室の町だ。かつての州都であり、植民地時代の面影を残すショップハウスやモスク、スルタンの居城イスタナ・アラム・シャーが、マレーシア屈指の規模を誇るコンテナ港、ポート・クランのすぐそばに立ち並ぶ。こぢんまりとしていながらもどこか荒削りなこの町では、王宮ゆかりの歴史とリトルインディアの市場、名物バクテー(肉骨茶)の屋台が、港湾都市ならではの働く街のリズムと混ざり合っている。",
+      "getting": "多くの旅行者はクアラルンプール国際空港(KLIA)を利用し、KLIAエクスプレスでKLセントラル駅まで行き、そこでKTMコミューターのポート・クラン線に乗り換えてクラン駅まで直行するルートをとる。乗り継ぎを含めた所要時間はおよそ1.5~2時間だ。空港からの直行バスや直通列車はないため、KLセントラルが鉄道でクランへ向かう際の、あるいはバスやタクシーで先へ進む際の確実な乗り換え拠点となる。",
+      "days": "クランの見どころは、ヘリテージウォーク、王室ギャラリー、屋台グルメを合わせてだいたい1日あれば十分に回ることができ、主要スポットを押さえてからクアラルンプールへ戻ることができる。"
+    },
+    "es": {
+      "blurb": "Klang es la ciudad real de Selangor: antigua capital del estado, donde las casas comerciales de la época colonial, las mezquitas y el Istana Alam Shah del sultán se encuentran muy cerca de Port Klang, uno de los puertos de contenedores más activos de Malasia. El resultado es una ciudad compacta y de aristas algo ásperas, que combina el legado palaciego, los mercados de Little India y sus célebres puestos de bak kut teh con el pulso de trabajo propio de una gran ciudad portuaria.",
+      "getting": "La mayoría de los viajeros llega a través del Aeropuerto Internacional de Kuala Lumpur (KLIA), tomando el tren KLIA Ekspres hasta KL Sentral y luego haciendo transbordo a la línea Port Klang del KTM Komuter, que llega directamente hasta la estación de Klang; el trayecto combinado dura aproximadamente entre 1,5 y 2 horas. No existe un autobús ni tren directo desde el aeropuerto, por lo que KL Sentral sigue siendo el punto de conexión más fiable para llegar a Klang, ya sea en tren o mediante autobuses y taxis.",
+      "days": "La mayoría de los visitantes recorre la ruta patrimonial de Klang, la galería real y los puestos de comida en aproximadamente 1 día, tiempo suficiente para ver lo esencial antes de regresar a Kuala Lumpur."
+    },
+    "zh": {
+      "blurb": "巴生是雪兰莪的皇城：这座昔日的州府,殖民时期的店屋、清真寺与苏丹的瑞天咸皇宫（Istana Alam Shah）都坐落在巴生港——马来西亚最繁忙的货柜港口之一——附近。于是，这座小城便呈现出一种略带粗犷的独特气质，将王室历史、小印度市场和远近闻名的肉骨茶摊，与大港口城市的繁忙作息交织在一起。",
+      "getting": "大多数旅客经吉隆坡国际机场（KLIA）入境，先乘坐KLIA Ekspres快铁到KL Sentral（吉隆坡中央车站），再转乘KTM Komuter巴生线，直达巴生站；全程大约需要1.5到2小时。由于机场并无直达巴生的巴士或火车，KL Sentral始终是前往巴生最可靠的中转站，无论是搭火车，还是转乘巴士、计程车。",
+      "days": "大多数游客只需约1天时间，就能走完巴生的古迹步道、皇家展览馆和各色小吃摊，足以览尽主要景点后再返回吉隆坡。"
+    }
+  },
+  "Magelang": {
+    "en": {
+      "blurb": "Magelang is a highland city in Central Java, ringed by volcanoes and best known as the gateway to Borobudur, the world's largest Buddhist temple complex. Set on the fertile Kedu Plain, it pairs a quiet, workaday Javanese town centre with easy access to some of Indonesia's most striking ancient architecture and volcanic scenery.",
+      "getting": "Magelang has no airport or train station of its own: travellers fly into Yogyakarta International Airport (YIA) and continue by bus or taxi, a journey of roughly 1.5 to 2 hours depending on traffic and route. Direct buses also run from Yogyakarta's city terminals, taking around ~1 hour.",
+      "days": "Plan on ~2 to 3 days to cover Borobudur at sunrise, the surrounding temple sites, and a relaxed day in Magelang itself."
+    },
+    "ko": {
+      "blurb": "마글랑은 화산으로 둘러싸인 중부 자바의 고원 도시로, 세계 최대의 불교 사원 단지인 보로부두르로 가는 관문으로 가장 잘 알려져 있다. 비옥한 크두 평원에 자리한 이곳은 조용하고 소박한 자바 전통 도심의 분위기를 간직하면서도, 인도네시아에서 손꼽히는 고대 건축물과 웅장한 화산 경관을 손쉽게 둘러볼 수 있는 거점 역할을 한다.",
+      "getting": "마글랑에는 자체 공항이나 기차역이 없다. 여행자들은 족자카르타 국제공항(YIA)으로 입국한 뒤 버스나 택시로 이동해야 하며, 교통 상황과 경로에 따라 약 1.5~2시간이 걸린다. 족자카르타 시내 터미널에서 출발하는 직행버스도 있으며, 이 경우 약 1시간 정도 소요된다.",
+      "days": "일출 무렵의 보로부두르와 주변 사원들, 그리고 마글랑 시내를 여유롭게 둘러보려면 약 2~3일 정도를 잡는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "マゲランは中部ジャワの高原都市で、周囲を火山に囲まれ、世界最大の仏教遺跡群であるボロブドゥールへの玄関口として広く知られています。肥沃なクドゥ平野に位置し、素朴で生活感あふれるジャワの町並みと、インドネシア屈指の壮大な古代建築や火山景観への手軽なアクセスを兼ね備えています。",
+      "getting": "マゲラン自体には空港も鉄道駅もありません。旅行者はまずジョグジャカルタ国際空港(YIA)へ飛び、そこからバスまたはタクシーで移動します。所要時間は交通状況やルートにより約1.5~2時間です。また、ジョグジャカルタ市内のバスターミナルからは直行バスも出ており、こちらは約1時間ほどで到着します。",
+      "days": "日の出のボロブドゥール観光、周辺の寺院遺跡めぐり、そしてマゲラン市内でのんびり過ごす日を含めて、2~3日程度を見ておくとよいでしょう。"
+    },
+    "es": {
+      "blurb": "Magelang es una ciudad de tierras altas en Java Central, rodeada de volcanes y conocida sobre todo como la puerta de entrada a Borobudur, el complejo de templos budistas más grande del mundo. Situada en la fértil llanura de Kedu, combina un tranquilo y apacible centro urbano javanés con un fácil acceso a parte de la arquitectura antigua más impresionante de Indonesia y a paisajes volcánicos espectaculares.",
+      "getting": "Magelang no cuenta con aeropuerto ni estación de tren propios: los viajeros llegan en avión al Aeropuerto Internacional de Yogyakarta (YIA) y continúan en autobús o taxi, un trayecto de entre 1,5 y 2 horas aproximadamente, según el tráfico y la ruta. También circulan autobuses directos desde las terminales urbanas de Yogyakarta, con una duración de alrededor de 1 hora.",
+      "days": "Se recomienda dedicar entre 2 y 3 días para visitar Borobudur al amanecer, recorrer los templos cercanos y disfrutar de una jornada tranquila en la propia Magelang."
+    },
+    "zh": {
+      "blurb": "玛琅（Magelang）是中爪哇的一座高原城市，四周群山环绕、火山林立，最为人熟知的身份是通往婆罗浮屠——世界最大佛教寺庙建筑群——的门户。它坐落于肥沃的格杜平原（Kedu Plain）上，城区本身保留着爪哇小城宁静朴实的日常气息，同时又能轻松抵达印尼最壮观的古代建筑与火山景观。",
+      "getting": "玛琅本身没有机场，也没有火车站：游客通常先飞抵日惹国际机场（YIA），再转乘巴士或出租车前往，车程视路况和路线而定，约需1.5至2小时。此外，从日惹市区的几个长途客运站也有直达巴士，车程约1小时左右。",
+      "days": "建议安排约2到3天时间，用来看一场婆罗浮屠的日出、游览周边的寺庙古迹，再留一天悠闲地逛逛玛琅市区。"
+    }
+  },
+  "Pune": {
+    "en": {
+      "blurb": "Pune pairs centuries-old Peshwa-era history with a modern identity as one of India's leading IT and automotive manufacturing centres, earning it the nickname \"Oxford of the East\" thanks to its large student population and numerous colleges. Set on the Deccan plateau and ringed by the Western Ghats, the city balances busy tech campuses with old quarters, hill forts and easy access to the region's monsoon-green hills.",
+      "getting": "Most travellers fly into Pune Airport (PNQ) at Lohegaon, roughly 10km northeast of the city centre, which handles domestic and a growing number of international routes. Many visitors also arrive by train via Pune Junction (station code PUNE), a major stop on the Mumbai to Chennai line with frequent, fast connections from Mumbai.",
+      "days": "~2-4 days is enough to cover Pune's main sights, from its historic old city and museums to day trips into the surrounding Western Ghats."
+    },
+    "ko": {
+      "blurb": "푸네는 수백 년을 이어온 페슈와 시대의 역사와, 인도를 대표하는 IT·자동차 제조 중심지로서의 현대적 면모를 동시에 지닌 도시다. 수많은 대학과 방대한 학생 인구 덕분에 \"동양의 옥스퍼드\"라는 별명으로도 불린다. 데칸 고원에 자리하고 서고츠 산맥으로 둘러싸인 이 도시는 분주한 테크 캠퍼스와 옛 시가지, 언덕 위 요새, 그리고 몬순이 지나면 초록빛으로 물드는 주변 산악 지대를 모두 아우르며 균형을 이루고 있다.",
+      "getting": "대부분의 여행자는 시내 중심에서 북동쪽으로 약 10km 떨어진 로헤가온에 위치한 푸네 공항(PNQ)을 통해 입국한다. 이 공항은 국내선을 중심으로 국제선 노선도 점차 늘려가고 있다. 기차로 이동하는 여행자도 많은데, 뭄바이와 첸나이를 잇는 주요 노선상의 역인 푸네 정션(역 코드 PUNE)을 이용하면 뭄바이에서 빠르고 편리하게 연결된다.",
+      "days": "역사 깊은 구시가지와 박물관부터 주변 서고츠 산맥으로 떠나는 당일치기 여행까지, 푸네의 주요 명소를 둘러보는 데는 2~4일 정도면 충분하다."
+    },
+    "ja": {
+      "blurb": "プーネは、数百年の歴史を誇るペーシュワー時代の面影を残しながら、現在ではインド屈指のIT・自動車製造の中心地としての顔も持つ都市です。学生人口の多さと大学の数の多さから「東洋のオックスフォード」とも呼ばれています。デカン高原に位置し、西ガーツ山脈に囲まれたこの街では、活気あるテック企業のキャンパスと旧市街、丘陵に築かれた砦が共存し、モンスーンの時期に緑豊かになる周辺の山々へも気軽に足を延ばせます。",
+      "getting": "多くの旅行者は、市中心部から北東へ約10kmのローヘガオンにあるプーネ空港（PNQ）を利用します。国内線に加え、国際線の就航も徐々に増えています。また、ムンバイ～チェンナイ線の主要駅であるプーネ・ジャンクション駅（駅コード：PUNE）経由で鉄道を利用する旅行者も多く、ムンバイからは頻繁かつ高速な列車でアクセスできます。",
+      "days": "歴史ある旧市街や博物館から、周辺の西ガーツ山脈への日帰り旅行まで、プーネの主な見どころを巡るには2～4日ほどあれば十分です。"
+    },
+    "es": {
+      "blurb": "Pune combina una historia centenaria de la era Peshwa con una identidad moderna como uno de los principales centros de TI y fabricación automotriz de la India, lo que le ha valido el apodo de \"Oxford de Oriente\" gracias a su numerosa población estudiantil y a sus múltiples universidades. Situada en la meseta de Decán y rodeada por los Ghats Occidentales, la ciudad combina bulliciosos campus tecnológicos con barrios antiguos, fuertes en las colinas y un fácil acceso a las verdes colinas monzónicas de la región.",
+      "getting": "La mayoría de los viajeros llegan al Aeropuerto de Pune (PNQ), en Lohegaon, a unos 10 km al noreste del centro de la ciudad, que ofrece vuelos nacionales y un número cada vez mayor de rutas internacionales. Muchos visitantes también llegan en tren a través de Pune Junction (código de estación PUNE), una parada importante en la línea Mumbai-Chennai con conexiones frecuentes y rápidas desde Mumbai.",
+      "days": "Entre 2 y 4 días son suficientes para recorrer los principales atractivos de Pune, desde su casco histórico y museos hasta excursiones de un día por los Ghats Occidentales circundantes."
+    },
+    "zh": {
+      "blurb": "浦那将数百年历史的佩什瓦时代遗产与现代身份完美融合，如今已成为印度首屈一指的IT产业和汽车制造中心之一。得益于庞大的学生群体和众多高校，这座城市素有\"东方牛津\"之称。浦那坐落在德干高原之上，四周群山环绕——西高止山脉将其环抱其中，城内繁忙的科技园区与古老街区、山顶堡垒交相辉映，出城即可轻松抵达季风时节郁郁葱葱的群山。",
+      "getting": "大多数旅行者选择飞抵位于洛赫冈（Lohegaon）的浦那机场（PNQ），该机场距市中心东北方向约10公里，承接国内航班及日益增多的国际航线。也有不少游客选择乘火车抵达，浦那junction车站（站点代码PUNE）是孟买至钦奈铁路线上的重要枢纽，从孟买出发班次频密、车程快捷。",
+      "days": "安排2-4天时间，便足以游览浦那的主要景点——从历史悠久的老城区、各类博物馆，到周边西高止山脉的一日游，都能从容体验。"
+    }
+  },
+  "San Fernando": {
+    "en": {
+      "blurb": "San Fernando is the capital of La Union province and the gateway to the Ilocos coast, best known for the surf beaches of Urbiztondo and San Juan just south of the city centre. It blends a working provincial capital with a laid-back surf-town atmosphere, drawing a steady mix of surfers, weekend travellers from Manila and road-trippers heading further north to Vigan and Laoag.",
+      "getting": "There is no airport in San Fernando itself, so most travellers arrive by bus from Manila, typically from the Partas or Genesis Transport terminals in Pasay or Cubao, with the journey taking roughly 5 to 7 hours depending on traffic. Travellers flying into Clark International Airport (CRK) can instead take a bus via the regional hub at Dau or Angeles, a route that generally takes ~3 to 5 hours.",
+      "days": "Plan on 2 to 3 days to cover San Fernando and its nearby surf beaches at a relaxed pace, or longer if using it as a base for day trips along the Ilocos coast."
+    },
+    "ko": {
+      "blurb": "산페르난도는 라우니온 주의 주도이자 일로코스 해안으로 향하는 관문으로, 시내 바로 남쪽에 자리한 우르비스톤도(Urbiztondo)와 산후안(San Juan)의 서핑 비치로 특히 유명합니다. 분주한 지방 행정 도시의 면모와 느긋한 서핑 타운 특유의 분위기가 공존하는 이곳에는 서퍼들은 물론, 마닐라에서 주말을 보내러 온 여행객, 그리고 비간(Vigan)과 라오아그(Laoag) 등 더 북쪽으로 향하는 로드트립 여행자들의 발길이 꾸준히 이어집니다.",
+      "getting": "산페르난도에는 자체 공항이 없어서, 대부분의 여행객은 마닐라에서 버스를 타고 이동합니다. 보통 파사이(Pasay)나 쿠바오(Cubao)에 있는 파르타스(Partas) 또는 제네시스 트랜스포트(Genesis Transport) 터미널에서 출발하며, 교통 상황에 따라 소요 시간은 대략 5~7시간 정도입니다. 클락 국제공항(CRK)으로 입국하는 여행객이라면 다우(Dau)나 앙헬레스(Angeles)의 환승 거점을 거쳐 버스로 이동할 수 있으며, 이 경로는 보통 3~5시간 정도 걸립니다.",
+      "days": "산페르난도와 인근 서핑 비치를 여유롭게 둘러보려면 2~3일 정도를 잡으면 좋고, 일로코스 해안 당일치기 여행의 거점으로 삼을 계획이라면 그보다 더 머무는 것도 좋습니다."
+    },
+    "ja": {
+      "blurb": "サンフェルナンドはラ・ウニオン州の州都であり、イロコス海岸への玄関口として知られる街です。市街地のすぐ南に広がるウルビストンドとサンフアンのサーフビーチが特に有名で、地方都市らしい落ち着いた雰囲気と、サーフタウンならではのゆるいムードが共存しています。サーファーをはじめ、マニラから訪れる週末旅行者、さらに北のビガンやラワグへ向かう途中に立ち寄るロードトリッパーなど、さまざまな旅行者が集まる街です。",
+      "getting": "サンフェルナンドには空港がないため、ほとんどの旅行者はマニラからのバスで訪れます。パサイやクバオにあるPartasやGenesis Transportのターミナルから出発するのが一般的で、交通状況にもよりますが所要時間はおよそ5〜7時間です。クラーク国際空港(CRK)を利用する場合は、ダウやアンヘレスの中継地点経由でバスに乗り換えることができ、こちらはおよそ3〜5時間ほどで到着します。",
+      "days": "サンフェルナンドと近隣のサーフビーチをのんびり楽しむなら2〜3日が目安です。イロコス海岸を巡る旅の拠点として利用する場合は、もう少し長めに滞在するのがおすすめです。"
+    },
+    "es": {
+      "blurb": "San Fernando es la capital de la provincia de La Unión y la puerta de entrada a la costa de Ilocos, conocida sobre todo por las playas de surf de Urbiztondo y San Juan, justo al sur del centro de la ciudad. Es una mezcla de capital provincial en plena actividad y ambiente relajado de pueblo surfero, que atrae por igual a surfistas, viajeros de fin de semana procedentes de Manila y a quienes están de paso rumbo al norte, hacia Vigan y Laoag.",
+      "getting": "San Fernando no cuenta con aeropuerto propio, así que la mayoría de los viajeros llega en autobús desde Manila, generalmente desde las terminales de Partas o Genesis Transport en Pasay o Cubao, con un trayecto de entre 5 y 7 horas según el tráfico. Quienes lleguen en avión al Aeropuerto Internacional de Clark (CRK) pueden tomar un autobús a través del centro regional de Dau o Angeles, una ruta que suele durar entre 3 y 5 horas.",
+      "days": "Conviene reservar entre 2 y 3 días para recorrer San Fernando y sus playas de surf cercanas con calma, o más tiempo si se usa como base para excursiones de un día por la costa de Ilocos."
+    },
+    "zh": {
+      "blurb": "圣费尔南多是拉乌尼翁省的省会,也是通往伊罗戈斯海岸的门户,最广为人知的是市中心以南不远处乌尔比斯通多(Urbiztondo)和圣胡安(San Juan)的冲浪海滩。这里既有省会城市的日常烟火气,又带着几分悠闲的冲浪小镇氛围,常年吸引着冲浪爱好者、从马尼拉过来度周末的游客,以及继续北上前往维甘(Vigan)和拉瓦格(Laoag)的自驾旅人。",
+      "getting": "圣费尔南多本地没有机场,因此大多数游客选择从马尼拉乘坐长途巴士前往,通常可在帕赛(Pasay)或库巴奥(Cubao)的Partas或Genesis Transport巴士总站搭车,车程视路况而定,一般需要5到7小时。如果是乘飞机抵达克拉克国际机场(CRK)的游客,也可以转乘巴士,经达乌(Dau)或安吉利斯(Angeles)的区域枢纽前往,这条路线通常需要约3到5小时。",
+      "days": "建议安排2到3天时间,以轻松的节奏游览圣费尔南多及其周边的冲浪海滩;如果打算以此为据点,沿伊罗戈斯海岸进行一日游,则可以安排更长的时间。"
+    }
   }
 }
