@@ -13,7 +13,6 @@ eventOffers:
   free: true
   currency: KHR
 eventFactsAsked: true
-gallery: []
 tags:
   - siem reap
   - event
@@ -31,6 +30,14 @@ faq:
     a: The Bayon, Ta Prohm (built for his mother) and Preah Khan (built for his father) are all his. The Bayon's bas-reliefs show his battles against the Cham.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/8/8c/Guimet_Jayavarman_VII_01.JPG
+  credit: 'Photo: Miguel Hermoso Cuesta / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Guimet_Jayavarman_VII_01.JPG
+  focus:
+    x: 50
+    'y': 45
 ---
 
 ## The king behind the stone faces

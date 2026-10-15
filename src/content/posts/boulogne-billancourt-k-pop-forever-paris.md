@@ -15,7 +15,6 @@ eventPerformer:
   name: K-Pop Forever
   kind: group
 eventFactsAsked: true
-gallery: []
 tags:
   - boulogne-billancourt
   - event
@@ -33,6 +32,14 @@ faq:
     a: Fans commonly bring lightsticks to K-pop tribute shows. Bags are searched at the entrance, as at all large French venues, and large luggage is refused.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/La_Seine_musicale_at_night.jpg/3840px-La_Seine_musicale_at_night.jpg
+  credit: 'Photo: Gerda Arendt / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:La_Seine_musicale_at_night.jpg
+  focus:
+    x: 55
+    'y': 35
 ---
 
 ## What the show is

@@ -13,7 +13,6 @@ eventOrganizer:
   name: Procam International
   url: https://procam.in/
 eventFactsAsked: true
-gallery: []
 tags:
   - new delhi
   - event
@@ -31,6 +30,16 @@ faq:
     a: Late October is when Delhi's smog season begins, and air quality varies from day to day. Many runners follow AQI readings in the days before. Runners with respiratory conditions often get medical advice first.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/2/2d/Participants_enjoying_Vedanta_PCHM.jpg
+  credit: 'Photo: Manoj Soni / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Participants_enjoying_Vedanta_PCHM.jpg
+  focus:
+    x: 32
+    'y': 20
+    top: 15
+    bottom: 25
 ---
 
 ## Delhi's road race with a world-class field

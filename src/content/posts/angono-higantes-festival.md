@@ -12,6 +12,14 @@ eventOffers:
   free: true
   currency: PHP
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Angono%2CRizaljf4763_11.JPG/1280px-Angono%2CRizaljf4763_11.JPG'
+  credit: 'Photo: Ramon FVelasquez (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'File:Angono,Rizaljf4763 11.JPG'
+  focus:
+    x: 50
+    y: 40
 gallery: []
 tags:
   - angono

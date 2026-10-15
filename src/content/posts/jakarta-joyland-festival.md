@@ -10,7 +10,6 @@ eventEndDate: '2026-11-29'
 eventRecurring: true
 eventVenue: GBK Complex, Senayan Park
 eventFactsAsked: true
-gallery: []
 tags:
   - jakarta
   - event
@@ -28,6 +27,14 @@ faq:
     a: No. Joyland combines music, stand-up comedy and film on the same grounds, so many people split their day between stages, comedy sets and screenings. Much of the comedy is performed in Bahasa Indonesia.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Maliq_%26_D%27Essentials_at_Joyland_Festival%2C_November_2024.jpg/3840px-Maliq_%26_D%27Essentials_at_Joyland_Festival%2C_November_2024.jpg
+  credit: 'Photo: David Wadie Fisher-Freberg / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Maliq_%26_D%27Essentials_at_Joyland_Festival,_November_2024.jpg
+  focus:
+    x: 50
+    'y': 50
 ---
 
 ## Two days of music, jokes and film

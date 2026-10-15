@@ -13,7 +13,6 @@ eventPerformer:
   name: Yves
   kind: person
 eventFactsAsked: true
-gallery: []
 tags:
   - kuala lumpur
   - event
@@ -31,6 +30,16 @@ faq:
     a: Bukit Bintang has the widest hotel choice and late-night food on Jalan Alor. The area around KL Sentral suits airport travel on the KLIA Ekspres, and Chinatown has budget guesthouses near Pasar Seni station.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/20260420_Yves_Amsterdam_concert_3.jpg/1920px-20260420_Yves_Amsterdam_concert_3.jpg
+  credit: 'Photo: Robbie Klinkenberg / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:20260420_Yves_Amsterdam_concert_3.jpg
+  focus:
+    x: 59
+    'y': 28
+    top: 17
+    bottom: 39
 ---
 
 ## One night, one city, one Orbit

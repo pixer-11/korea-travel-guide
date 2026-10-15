@@ -10,6 +10,14 @@ eventEndDate: '2026-11-28'
 eventRecurring: true
 eventVenue: Filinvest City Events Grounds
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/9/9c/Muntinlupa_WV_banner.jpg'
+  credit: 'Photo: Lawrence Ruiz / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Muntinlupa_WV_banner.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - muntinlupa

@@ -13,6 +13,14 @@ eventOffers:
   free: true
   currency: THB
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bangkok_Night_Wikimedia_Commons.jpg/3840px-Bangkok_Night_Wikimedia_Commons.jpg'
+  credit: 'Photo: Benh LIEU SONG / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Bangkok_Night_Wikimedia_Commons.jpg'
+  focus:
+    x: 50
+    y: 50
 tags:
   - bangkok
   - event

@@ -12,6 +12,14 @@ eventOrganizer:
   name: RFET
   url: https://www.rfet.es
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Ten_Square%2C_Landmark_of_Good%2C_Singapur%2C_2023-08-17%2C_DD_97.jpg/1280px-Ten_Square%2C_Landmark_of_Good%2C_Singapur%2C_2023-08-17%2C_DD_97.jpg'
+  credit: 'Photo: Diego Delso (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'File:Ten Square, Landmark of Good, Singapur, 2023-08-17, DD 97.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - alicante

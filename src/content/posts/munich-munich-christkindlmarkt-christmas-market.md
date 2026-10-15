@@ -13,7 +13,6 @@ eventOffers:
   free: true
   currency: EUR
 eventFactsAsked: true
-gallery: []
 tags:
   - munich
   - event
@@ -31,6 +30,14 @@ faq:
     a: A deposit (Pfand) is added when you buy your drink. Hand the mug back to the stall and the deposit is refunded, or keep it as a souvenir.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Marienplatz_Christkindlmarkt%2C_2013.jpg/3840px-Marienplatz_Christkindlmarkt%2C_2013.jpg
+  credit: 'Photo: Ashwin Chandrasekaran / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Marienplatz_Christkindlmarkt,_2013.jpg
+  focus:
+    x: 50
+    'y': 55
 ---
 
 ## Under the Rathaus tower

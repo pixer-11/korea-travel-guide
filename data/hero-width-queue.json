@@ -2649,14 +2649,23 @@
   "hanoi-wdsf-asian-dancesport-championship-hanoi\u0001https://upload.wikimedia.org/wikipedia/commons/d/dd/Hanoi_Vietnam_Mausoleum-of-Ho-Chi-Minh-01.jpg": 2270,
   "kolkata-kolkata-rajbari\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Outside_view_of_Sovabazar_Rajbari%2C_Kolkata%2C_MA10.jpg/3840px-Outside_view_of_Sovabazar_Rajbari%2C_Kolkata%2C_MA10.jpg": 3840,
   "leipzig-madler-passage\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Leipzig_-_M%C3%A4dler_Passage_%282%29.jpg/3840px-Leipzig_-_M%C3%A4dler_Passage_%282%29.jpg": 3840,
-  "macau-grasshopper-three-in-love-concert-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Legislative_Council_of_the_Macau_Special_Administrative_Region_05-02-2023.jpg/3840px-Legislative_Council_of_the_Macau_Special_Administrative_Region_05-02-2023.jpg": 3840,
   "manchester-the-old-wellington\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/The_Old_Wellington%2C_Manchester.jpg/3840px-The_Old_Wellington%2C_Manchester.jpg": 3840,
   "melbourne-old-melbourne-gaol\u0001https://upload.wikimedia.org/wikipedia/commons/7/7e/Old_Melbourne_Gaol%2C_Melbourne_Australia_%284556916251%29.jpg": 1800,
   "puebla-zocalo-de-puebla\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Zocalo_de_Puebla.JPG/1920px-Zocalo_de_Puebla.JPG": 1920,
   "sihanoukville-sea-festival-2026\u0001https://upload.wikimedia.org/wikipedia/commons/c/c2/Cambodia_-_Sihanoukville.jpg": 3500,
   "kharkhorin-shankh-monastery\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Shankh_Monastery.jpg/1920px-Shankh_Monastery.jpg": 1920,
   "ulaanbaatar-mongol-art-gallery\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Mongol_Art_Gallery.jpg/1920px-Mongol_Art_Gallery.jpg": 1920,
-  "ulaanbaatar-turtle-rock\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Turtle_Rock%2C_Terelj_National_Park%2C_Mongolia_%2848810749331%29.jpg/3840px-Turtle_Rock%2C_Terelj_National_Park%2C_Mongolia_%2848810749331%29.jpg": 3840
+  "ulaanbaatar-turtle-rock\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Turtle_Rock%2C_Terelj_National_Park%2C_Mongolia_%2848810749331%29.jpg/3840px-Turtle_Rock%2C_Terelj_National_Park%2C_Mongolia_%2848810749331%29.jpg": 3840,
+  "boulogne-billancourt-k-pop-forever-paris\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/La_Seine_musicale_at_night.jpg/3840px-La_Seine_musicale_at_night.jpg": 3840,
+  "da-lat-11th-da-lat-flower-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Da_Lat_Flower_Festival_2012_1.JPG/3840px-Da_Lat_Flower_Festival_2012_1.JPG": 3840,
+  "jakarta-joyland-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Maliq_%26_D%27Essentials_at_Joyland_Festival%2C_November_2024.jpg/3840px-Maliq_%26_D%27Essentials_at_Joyland_Festival%2C_November_2024.jpg": 3840,
+  "kuala-lumpur-yves-loona-2026-asia-australia-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/20260420_Yves_Amsterdam_concert_3.jpg/1920px-20260420_Yves_Amsterdam_concert_3.jpg": 1920,
+  "london-young-posse-pilot3-europe-tour\u0001https://upload.wikimedia.org/wikipedia/commons/3/37/Brett_Young_in_concert_in_July_2017.jpg": 2011,
+  "macau-grasshopper-three-in-love-concert-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/The_Venetian_Macao_09-03-2024.jpg/3840px-The_Venetian_Macao_09-03-2024.jpg": 3840,
+  "munich-munich-christkindlmarkt-christmas-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Marienplatz_Christkindlmarkt%2C_2013.jpg/3840px-Marienplatz_Christkindlmarkt%2C_2013.jpg": 3840,
+  "new-delhi-vedanta-delhi-half-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/2/2d/Participants_enjoying_Vedanta_PCHM.jpg": 1600,
+  "siem-reap-20th-francophonie-summit\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Au_village_de_la_francophonie_by_ArmAg_%2818%29.jpg/3840px-Au_village_de_la_francophonie_by_ArmAg_%2818%29.jpg": 3840,
+  "siem-reap-jayavarman-vii-festival\u0001https://upload.wikimedia.org/wikipedia/commons/8/8c/Guimet_Jayavarman_VII_01.JPG": 3266
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -2988,15 +2997,17 @@
   },
   "istanbul-araf": {
    "width": 1080,
-   "attempts": 0,
-   "nextTry": "2026-10-01",
-   "flaggedAt": "2026-10-01"
+   "attempts": 1,
+   "nextTry": "2026-10-22",
+   "flaggedAt": "2026-10-01",
+   "lastResult": "no-wider"
   },
   "istanbul-istanbul-marathon": {
    "width": 1024,
-   "attempts": 0,
-   "nextTry": "2026-10-01",
-   "flaggedAt": "2026-10-01"
+   "attempts": 1,
+   "nextTry": "2026-10-22",
+   "flaggedAt": "2026-10-01",
+   "lastResult": "no-wider"
   },
   "kuala-lumpur-the-weeknd-after-hours-til-dawn-tour": {
    "width": 1015,
@@ -3149,5 +3160,5 @@
    "flaggedAt": "2026-10-05"
   }
  },
- "updated": "2026-10-15T13:18:40.556Z"
+ "updated": "2026-10-15T22:42:16.728Z"
 }

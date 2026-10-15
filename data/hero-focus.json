@@ -6174,5 +6174,37 @@
    "x": 50,
    "y": 45
   }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Ten_Square%2C_Landmark_of_Good%2C_Singapur%2C_2023-08-17%2C_DD_97.jpg/1280px-Ten_Square%2C_Landmark_of_Good%2C_Singapur%2C_2023-08-17%2C_DD_97.jpg": {
+  "w": 1280,
+  "h": 2882,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Angono%2CRizaljf4763_11.JPG/1280px-Angono%2CRizaljf4763_11.JPG": {
+  "w": 1280,
+  "h": 960,
+  "focus": {
+   "x": 50,
+   "y": 40
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bangkok_Night_Wikimedia_Commons.jpg/3840px-Bangkok_Night_Wikimedia_Commons.jpg": {
+  "w": 3840,
+  "h": 1122,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/9/9c/Muntinlupa_WV_banner.jpg": {
+  "w": 3757,
+  "h": 537,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
  }
 }
