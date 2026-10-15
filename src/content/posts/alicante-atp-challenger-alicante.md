@@ -12,16 +12,6 @@ eventOrganizer:
   name: RFET
   url: https://www.rfet.es
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/c/c6/Kevin_Anderson_at_the_2021_ATP_Challenger_Tour_Event_in_Nottingham.jpg
-  credit: 'Photo: Chris Czermak / Wikimedia Commons (CC BY 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Kevin_Anderson_at_the_2021_ATP_Challenger_Tour_Event_in_Nottingham.jpg
-  focus:
-    x: 54
-    'y': 34
-    top: 27
-    bottom: 41
 gallery: []
 tags:
   - alicante

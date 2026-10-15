@@ -12,14 +12,6 @@ eventOffers:
   free: true
   currency: PHP
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/a/a0/The_Colorful_Spirit_of_Higantes_Festival.jpg
-  credit: 'Photo: Emman Asuncion Foronda / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:The_Colorful_Spirit_of_Higantes_Festival.jpg
-  focus:
-    x: 75
-    'y': 50
 gallery: []
 tags:
   - angono

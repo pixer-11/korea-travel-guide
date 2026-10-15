@@ -30,14 +30,6 @@ faq:
     a: Yes. Angkor Wat is about 6km north of town and is open as usual. You need an Angkor Pass, sold at the official ticket centre, where the prices are posted. Late November falls in the cooler, drier start of the dry season.
 aiGenerated: true
 draft: false
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/2/2e/Ta_Phrom%2C_Angkor%2C_Camboya%2C_2013-08-16%2C_DD_41.JPG
-  credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 3.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Ta_Phrom,_Angkor,_Camboya,_2013-08-16,_DD_41.JPG
-  focus:
-    x: 50
-    'y': 55
 ---
 
 ## Siem Reap with photographs on the walls

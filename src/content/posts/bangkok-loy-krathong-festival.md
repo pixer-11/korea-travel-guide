@@ -30,14 +30,6 @@ faq:
     a: Sky lanterns are restricted in Bangkok because of air traffic at Suvarnabhumi and Don Mueang airports. Mass lantern releases belong to Yi Peng in Chiang Mai. In Bangkok, the tradition is floating krathongs on the water.
 aiGenerated: true
 draft: false
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/4/47/Loy_Krathong_A_Celebration_of_Light_and_Renewal.jpg
-  credit: 'Photo: Rockybgonzales / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Loy_Krathong_A_Celebration_of_Light_and_Renewal.jpg
-  focus:
-    x: 50
-    'y': 50
 ---
 
 ## A river full of small lights

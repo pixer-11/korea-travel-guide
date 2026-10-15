@@ -13,16 +13,6 @@ eventPerformer:
   name: Yves
   kind: person
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/20220908_Loona_Amsterdam_concert_062.jpg/3840px-20220908_Loona_Amsterdam_concert_062.jpg
-  credit: 'Photo: Robbie Klinkenberg / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:20220908_Loona_Amsterdam_concert_062.jpg
-  focus:
-    x: 47
-    'y': 27
-    top: 23
-    bottom: 30
 gallery: []
 tags:
   - kuala lumpur

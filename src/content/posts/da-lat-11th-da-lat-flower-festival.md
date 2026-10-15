@@ -13,14 +13,6 @@ eventOrganizer:
   name: Lam Dong Provincial People's Committee
   url: https://lamdong.gov.vn
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Da_Lat_Flower_Festival_2012_-_24.JPG/3840px-Da_Lat_Flower_Festival_2012_-_24.JPG
-  credit: 'Photo: Violetbonmua / Wikimedia Commons (CC BY-SA 3.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Da_Lat_Flower_Festival_2012_-_24.JPG
-  focus:
-    x: 50
-    'y': 50
 gallery: []
 tags:
   - da lat

@@ -13,16 +13,6 @@ eventOrganizer:
   name: Procam International
   url: https://procam.in/
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/1/18/Finish_Line_Vedanta_PCHM_2022.jpg
-  credit: 'Photo: Manoj Soni / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Finish_Line_Vedanta_PCHM_2022.jpg
-  focus:
-    x: 84
-    'y': 26
-    top: 20
-    bottom: 32
 gallery: []
 tags:
   - new delhi

@@ -10,14 +10,6 @@ eventEndDate: '2026-11-29'
 eventRecurring: true
 eventVenue: GBK Complex, Senayan Park
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/3/34/.Feast_at_Joyland_Festival%2C_November_2024.jpg
-  credit: 'Photo: David Wadie Fisher-Freberg / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:.Feast_at_Joyland_Festival,_November_2024.jpg
-  focus:
-    x: 50
-    'y': 70
 gallery: []
 tags:
   - jakarta

@@ -10,16 +10,6 @@ eventEndDate: '2026-11-28'
 eventRecurring: true
 eventVenue: Filinvest City Events Grounds
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/8/80/Philippine_culture_harana_0.jpg
-  credit: 'Photo: Markytour777 / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Philippine_culture_harana_0.jpg
-  focus:
-    x: 85
-    'y': 16
-    top: 12
-    bottom: 20
 gallery: []
 tags:
   - muntinlupa

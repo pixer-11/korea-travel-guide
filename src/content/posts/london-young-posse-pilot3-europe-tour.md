@@ -13,16 +13,6 @@ eventPerformer:
   name: YOUNG POSSE
   kind: group
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Young_Fathers_concert_Portland.jpg/3840px-Young_Fathers_concert_Portland.jpg
-  credit: 'Photo: Ash link / Wikimedia Commons (CC BY 3.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Young_Fathers_concert_Portland.jpg
-  focus:
-    x: 53
-    'y': 31
-    top: 24
-    bottom: 37
 gallery: []
 tags:
   - london

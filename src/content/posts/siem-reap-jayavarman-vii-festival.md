@@ -13,16 +13,6 @@ eventOffers:
   free: true
   currency: KHR
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/d/d5/Jayavarman_VII.jpg
-  credit: 'Photo: LigerCommon / Wikimedia Commons (Public domain)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Jayavarman_VII.jpg
-  focus:
-    x: 45
-    'y': 25
-    top: 20
-    bottom: 29
 gallery: []
 tags:
   - siem reap

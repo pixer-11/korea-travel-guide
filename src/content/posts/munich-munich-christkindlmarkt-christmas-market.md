@@ -13,14 +13,6 @@ eventOffers:
   free: true
   currency: EUR
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/M%C3%BCnchner_Christkindlmarkt_3.JPG/3840px-M%C3%BCnchner_Christkindlmarkt_3.JPG
-  credit: 'Photo: X / Wikimedia Commons (Public domain)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:M%C3%BCnchner_Christkindlmarkt_3.JPG
-  focus:
-    x: 50
-    'y': 50
 gallery: []
 tags:
   - munich
