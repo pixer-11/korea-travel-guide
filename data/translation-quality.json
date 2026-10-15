@@ -36048,5 +36048,89 @@
   "registerBreak": false,
   "worst": "这门手艺出自回族，也就是中国讲汉语的穆斯林群体，所以无论走到哪里，兰州拉面馆几乎都是清真的。",
   "at": "2026-10-14T13:07:10.695Z"
+ },
+ "es/pasay-charlie-puth-live-in-manila": {
+  "hash": "751ae6b14f59",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "son los carteles del pabellón, y no los directorios del centro comercial, los que indican el camino",
+  "at": "2026-10-15T10:13:19.172Z"
+ },
+ "es/canberra-lanyon-homestead": {
+  "hash": "88464701c51a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "El cierre a las 3pm sorprende a más de uno.",
+  "at": "2026-10-15T10:13:20.307Z"
+ },
+ "es/dresden-golden-rider": {
+  "hash": "e867bb20c845",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Puede comprar el billete en la máquina de la parada, a bordo o en la aplicación de",
+  "at": "2026-10-15T10:13:21.489Z"
+ },
+ "ja/canberra-lanyon-homestead": {
+  "hash": "5406aaa74794",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "移動はコーヒー1杯を飲むくらいの時間で済みます。",
+  "at": "2026-10-15T10:13:28.020Z"
+ },
+ "ja/dresden-golden-rider": {
+  "hash": "a02d565f4bb8",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "人出の目安は実際の通行量をもとにしたもので、おすすめの時間帯ははっきりしています。",
+  "at": "2026-10-15T10:13:29.263Z"
+ },
+ "ja/fussen-fussen-altstadt": {
+  "hash": "1454bfb6da71",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "そのおかげで旧市街は、見た目の華やかさのわりに落ち着いています。",
+  "at": "2026-10-15T10:13:30.990Z"
+ },
+ "ko/canberra-lanyon-homestead": {
+  "hash": "ac828f935a0a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "서쪽 지평선은 브린다벨라 산맥(Brindabella Ranges)이 가득 채웁니다.",
+  "at": "2026-10-15T10:13:39.667Z"
+ },
+ "ko/dresden-golden-rider": {
+  "hash": "b5d03db215fd",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이곳의 혼잡도는 실제 유동 인구를 측정한 수치이며, 언제 가면 좋은지 분명하게 알려 줍니다.",
+  "at": "2026-10-15T10:13:41.193Z"
+ },
+ "ko/fussen-fussen-altstadt": {
+  "hash": "fca3a7030622",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "관광버스와 성행 버스에게 이 마을은 기차역이 딸린 주차장 정도로 여겨집니다.",
+  "at": "2026-10-15T10:13:44.484Z"
+ },
+ "zh/canberra-lanyon-homestead": {
+  "hash": "2ecf15291d34",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "拉尼恩一带位于恩古纳瓦尔人（Ngunnawal）的土地上，欧洲人在此定居始于19世纪30年代。",
+  "at": "2026-10-15T10:13:45.804Z"
+ },
+ "zh/dresden-golden-rider": {
+  "hash": "cfd6241fd8ed",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "周末的高峰时段相当长，午饭时间、下午过桥散步的人流，再到傍晚涌向新城酒吧的人群，全都包括在内。",
+  "at": "2026-10-15T10:13:46.922Z"
+ },
+ "zh/fussen-fussen-altstadt": {
+  "hash": "d7562a673f7b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "画面阴森，笔触却极为精细，比又一座金碧辉煌的祭坛令人难忘得多。",
+  "at": "2026-10-15T10:13:53.824Z"
  }
 }

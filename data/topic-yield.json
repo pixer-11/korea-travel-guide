@@ -38,20 +38,20 @@
    "hits": 2
   },
   "old quarter": {
-   "attempts": 134,
-   "hits": 60
+   "attempts": 142,
+   "hits": 67
   },
   "local market": {
-   "attempts": 124,
-   "hits": 46
+   "attempts": 126,
+   "hits": 48
   },
   "bookshop": {
    "attempts": 34,
    "hits": 6
   },
   "seafood": {
-   "attempts": 88,
-   "hits": 3
+   "attempts": 89,
+   "hits": 4
   },
   "hidden gem": {
    "attempts": 127,
@@ -94,7 +94,7 @@
    "hits": 0
   },
   "design shop": {
-   "attempts": 35,
+   "attempts": 36,
    "hits": 0
   },
   "Sisowath Quay Riverside": {
@@ -530,5 +530,5 @@
    "hits": 1
   }
  },
- "updated": "2026-10-14T13:02:11.487Z"
+ "updated": "2026-10-15T08:11:37.235Z"
 }

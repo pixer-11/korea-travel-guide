@@ -4797,6 +4797,12 @@
   "reason": "publish gate: Miniature building with visitors, matches Cockington Green Gardens",
   "at": "2026-09-28T16:53:20.388Z"
  },
+ "canberra-lanyon-homestead\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Lanyon_Homestead.jpg/1920px-Lanyon_Homestead.jpg": {
+  "slug": "canberra-lanyon-homestead",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior view of historic homestead building, representative hero shot",
+  "at": "2026-10-15T08:09:25.471Z"
+ },
  "canberra-national-arboretum-canberra\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Canberra_National_Arboretum_with_Telstra_Tower_2%2C_Canberra_ACT.jpg/1920px-Canberra_National_Arboretum_with_Telstra_Tower_2%2C_Canberra_ACT.jpg": {
   "slug": "canberra-national-arboretum-canberra",
   "verdict": "MATCH",
@@ -6694,6 +6700,12 @@
   "reason": "publish gate: Exterior facade of German Hygiene Museum with signage",
   "at": "2026-10-03T13:04:14.045Z"
  },
+ "dresden-golden-rider\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Dresden_Germany_Golden-Rider-04.jpg/3840px-Dresden_Germany_Golden-Rider-04.jpg": {
+  "slug": "dresden-golden-rider",
+  "verdict": "MATCH",
+  "reason": "publish gate: Golden Rider statue in Dresden, representative hero shot",
+  "at": "2026-10-15T08:09:25.524Z"
+ },
  "dresden-kunsthofpassage-dresden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Dresden_Kunsthofpassage_09_45_16_782000.jpeg/3840px-Dresden_Kunsthofpassage_09_45_16_782000.jpeg": {
   "slug": "dresden-kunsthofpassage-dresden",
   "verdict": "MATCH",
@@ -7667,6 +7679,12 @@
   "reason": "publish gate: Exterior of monastery church with tower, representative view",
   "at": "2026-10-10T07:42:43.427Z"
  },
+ "fussen-fussen-altstadt\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/F%C3%BCssen_-_Altstadt.JPG/3840px-F%C3%BCssen_-_Altstadt.JPG": {
+  "slug": "fussen-fussen-altstadt",
+  "verdict": "MATCH",
+  "reason": "publish gate: Aerial view of Füssen Altstadt with river and castle",
+  "at": "2026-10-15T08:10:26.737Z"
+ },
  "fussen-hohenschwangau-castle\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Schloss_Hohenschwangau_2021.jpg/1920px-Schloss_Hohenschwangau_2021.jpg": {
   "slug": "fussen-hohenschwangau-castle",
   "verdict": "MATCH",
@@ -7993,6 +8011,12 @@
   "reason": "Sunset beach scene, horse rider, Gili Islands setting",
   "reasonKo": "길리섬 해변 석양, 말 탄 사람, 적절한 배경",
   "at": "2026-09-18T16:41:41.491Z"
+ },
+ "glasgow-barras-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Barras_Market%2C_Glasgow.jpg/3840px-Barras_Market%2C_Glasgow.jpg": {
+  "slug": "glasgow-barras-market",
+  "verdict": "MATCH",
+  "reason": "publish gate: Street view of Barras Market stalls and signage",
+  "at": "2026-10-15T08:09:57.858Z"
  },
  "glasgow-cafe-gandolfi\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cafe_Gandolfi%2C_64_Albion_Street%2C_Glasgow.jpg/3840px-Cafe_Gandolfi%2C_64_Albion_Street%2C_Glasgow.jpg": {
   "slug": "glasgow-cafe-gandolfi",
@@ -8435,6 +8459,12 @@
   "reason": "Modern tower in Guangzhou urban skyline at night",
   "reasonKo": "광저우 야경의 현대 고층 빌딩",
   "at": "2026-08-08T01:47:16.160Z"
+ },
+ "guangzhou-shangxiajiu-commercial-pedestrian-street\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/GZ_%E5%BB%A3%E5%B7%9E_Guangzhou_%E8%8D%94%E7%81%A3_Liwan_%E4%B8%8A%E4%B8%8B%E4%B9%9D%E6%AD%A5%E8%A1%8C%E8%A1%97_Shangxiajiu_Pedestrian_Street_shop_%E8%93%AE%E9%A6%99%E6%A8%93_Lian_Xiang_Lou_Restaurant_June_2025_R12S_06.jpg/3840px-GZ_%E5%BB%A3%E5%B7%9E_Guangzhou_%E8%8D%94%E7%81%A3_Liwan_%E4%B8%8A%E4%B8%8B%E4%B9%9D%E6%AD%A5%E8%A1%8C%E8%A1%97_Shangxiajiu_Pedestrian_Street_shop_%E8%93%AE%E9%A6%99%E6%A8%93_Lian_Xiang_Lou_Restaurant_June_2025_R12S_06.jpg": {
+  "slug": "guangzhou-shangxiajiu-commercial-pedestrian-street",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows bakery shop interior in Shangxiajiu area, Guangzhou",
+  "at": "2026-10-15T08:11:37.211Z"
  },
  "guangzhou-temple-of-the-six-banyan-trees\u0001https://upload.wikimedia.org/wikipedia/commons/c/c9/Temple_of_the_Six_Banyan_Trees_2013-08.JPG": {
   "slug": "guangzhou-temple-of-the-six-banyan-trees",
@@ -13286,6 +13316,12 @@
   "reasonKo": "인도 박물관의 전형적인 식민지 건축",
   "at": "2026-08-16T13:14:58.060Z"
  },
+ "kolkata-kolkata-rajbari\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Outside_view_of_Sovabazar_Rajbari%2C_Kolkata%2C_MA10.jpg/3840px-Outside_view_of_Sovabazar_Rajbari%2C_Kolkata%2C_MA10.jpg": {
+  "slug": "kolkata-kolkata-rajbari",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of Kolkata Rajbari heritage building, representative view",
+  "at": "2026-10-15T08:10:57.507Z"
+ },
  "kolkata-new-market-kolkata\u0001https://upload.wikimedia.org/wikipedia/commons/3/37/New_Market%2C_Kolkata%2C_2011.jpg": {
   "slug": "kolkata-new-market-kolkata",
   "verdict": "MATCH",
@@ -14511,6 +14547,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows Panometer building exterior with sign, representative hero",
   "at": "2026-10-02T14:29:30.457Z"
+ },
+ "leipzig-madler-passage\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Leipzig_-_M%C3%A4dler_Passage_%282%29.jpg/3840px-Leipzig_-_M%C3%A4dler_Passage_%282%29.jpg": {
+  "slug": "leipzig-madler-passage",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior facade of historic Leipzig building, plausible Mädler-Passage view",
+  "at": "2026-10-15T08:10:26.686Z"
  },
  "leipzig-marktplatz-leipzig\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Leipzig-Weihnachtsmarkt-Marktplatz-S%C3%BCdWest-Ecke-DJI_0235-360x180G-PanoS-02-12-2025.jpg/3840px-Leipzig-Weihnachtsmarkt-Marktplatz-S%C3%BCdWest-Ecke-DJI_0235-360x180G-PanoS-02-12-2025.jpg": {
   "slug": "leipzig-marktplatz-leipzig",
@@ -16166,6 +16208,12 @@
   "reason": "publish gate: Plausible St. Peter's Square plaza scene with surrounding buildings",
   "at": "2026-10-03T07:41:49.930Z"
  },
+ "manchester-the-old-wellington\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/The_Old_Wellington%2C_Manchester.jpg/3840px-The_Old_Wellington%2C_Manchester.jpg": {
+  "slug": "manchester-the-old-wellington",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of The Old Wellington Inn with signage visible",
+  "at": "2026-10-15T08:10:26.719Z"
+ },
  "mandalika-pertamina-grand-prix-of-indonesia-motogp-mandalika\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/MotoGP_di_Sirkuit_Balapan_Pertamina_Mandalika%2C_NTB%2C_Indonesia.jpg/1920px-MotoGP_di_Sirkuit_Balapan_Pertamina_Mandalika%2C_NTB%2C_Indonesia.jpg": {
   "slug": "mandalika-pertamina-grand-prix-of-indonesia-motogp-mandalika",
   "verdict": "MATCH",
@@ -16618,6 +16666,12 @@
   "verdict": "MATCH",
   "reason": "event publish gate: Shows MCG stadium, the event's venue",
   "at": "2026-10-08T01:26:46.853Z"
+ },
+ "melbourne-old-melbourne-gaol\u0001https://upload.wikimedia.org/wikipedia/commons/7/7e/Old_Melbourne_Gaol%2C_Melbourne_Australia_%284556916251%29.jpg": {
+  "slug": "melbourne-old-melbourne-gaol",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior view of historic gaol building, representative facade",
+  "at": "2026-10-15T08:09:25.504Z"
  },
  "melbourne-queen-victoria-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Aerial_photograph_of_Queen_Victoria_Market.jpg/1920px-Aerial_photograph_of_Queen_Victoria_Market.jpg": {
   "slug": "melbourne-queen-victoria-market",
@@ -21265,6 +21319,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Lake with birds and trees, fits ecological park scene",
   "at": "2026-10-06T07:45:22.760Z"
+ },
+ "puebla-zocalo-de-puebla\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Zocalo_de_Puebla.JPG/1920px-Zocalo_de_Puebla.JPG": {
+  "slug": "puebla-zocalo-de-puebla",
+  "verdict": "MATCH",
+  "reason": "publish gate: Zócalo fountain and cathedral tower, representative plaza view",
+  "at": "2026-10-15T08:09:57.890Z"
  },
  "puerto-princesa-immaculate-conception-cathedral\u0001https://upload.wikimedia.org/wikipedia/commons/7/75/The_Immaculate_Conception_Cathedral_-_panoramio_%282%29.jpg": {
   "slug": "puerto-princesa-immaculate-conception-cathedral",
