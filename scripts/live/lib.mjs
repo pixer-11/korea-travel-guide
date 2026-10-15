@@ -52,8 +52,16 @@ export async function launch() {
   const channel = process.env.PW_CHANNEL || (process.platform === 'win32' ? 'msedge' : 'chrome');
   const b = await chromium.launch({ channel });
   const newContext = b.newContext.bind(b);
+  // A reader's browser, not "HeadlessChrome". Since 10-14 Travelpayouts'
+  // widget host (tpemd.com) answers a HeadlessChrome UA with 403 text/plain,
+  // which the browser drops as ERR_BLOCKED_BY_ORB — the flights search widget
+  // never appeared and the phone check went red, while every real Android and
+  // iPhone browser still got the widget (checked by UA, 10-15). The checks
+  // stand in for readers, so they say what a reader's browser says.
+  const major = String(b.version()).split('.')[0];
+  const READER_UA = `Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/${major}.0.0.0 Safari/537.36`;
   b.newContext = async (opts) => {
-    const ctx = await newContext(opts);
+    const ctx = await newContext({ userAgent: READER_UA, ...opts });
     // Answered empty rather than aborted: an aborted request prints "Failed to
     // load resource" in the console, which the checks read as a page error
     // (first scheduled run, 10-01: two checks red for our own blocking).
