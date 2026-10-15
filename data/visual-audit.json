@@ -295,6 +295,18 @@
   "reason": "patrol reject: Satellite map image, not event or venue photo",
   "at": "2026-08-28T03:39:45.839Z"
  },
+ "abu-dhabi-offlimits-music-festival-shakira-jonas-brothers\u0001https://upload.wikimedia.org/wikipedia/commons/6/6d/Etihad_Park.jpg": {
+  "slug": "abu-dhabi-offlimits-music-festival-shakira-jonas-brothers",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Large concert venue, purple stage lighting, crowd with phone",
+  "at": "2026-10-15T00:35:43.264Z"
+ },
+ "abu-dhabi-offlimits-music-festival-shakira-jonas-brothers\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Etihad_Park_April_2026.jpg/3840px-Etihad_Park_April_2026.jpg": {
+  "slug": "abu-dhabi-offlimits-music-festival-shakira-jonas-brothers",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Construction site, not venue or event in usable state",
+  "at": "2026-10-15T00:35:40.649Z"
+ },
  "abu-dhabi-qasr-al-hosn\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Qasr_al-Hosn_%281%29.jpg/1920px-Qasr_al-Hosn_%281%29.jpg": {
   "slug": "abu-dhabi-qasr-al-hosn",
   "verdict": "MATCH",
@@ -2322,6 +2334,12 @@
   "verdict": "MATCH",
   "reason": "event-mode back-audit: Concert stage photo of band performing, valid for tour article",
   "at": "2026-08-07T13:02:45.191Z"
+ },
+ "bangkok-loy-krathong-festival\u0001https://upload.wikimedia.org/wikipedia/commons/4/47/Loy_Krathong_A_Celebration_of_Light_and_Renewal.jpg": {
+  "slug": "bangkok-loy-krathong-festival",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Loy Krathong festival celebration with floats and lights",
+  "at": "2026-10-15T00:36:12.351Z"
  },
  "bangkok-namsu-namsu-shan-izakaya\u0001https://fastly.4sqi.net/img/general/original/57895539_QXncbIlPcOKx5lU67rHsXqRaQwfkDiarHAcoJKU_n_0.jpg": {
   "slug": "bangkok-namsu-namsu-shan-izakaya",
@@ -8117,6 +8135,12 @@
   "reason": "patrol reject: Text-based album art, not photo of concert/venue",
   "at": "2026-10-08T14:35:28.468Z"
  },
+ "goyang-charlie-puth-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Charlie_Puth%2C_Regency_Ballroom%2C_San_Francisco_%28Nine_Track_Mind_Tour%29_3.jpg/3840px-Charlie_Puth%2C_Regency_Ballroom%2C_San_Francisco_%28Nine_Track_Mind_Tour%29_3.jpg": {
+  "slug": "goyang-charlie-puth-concert",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Concert performer on stage with audience",
+  "at": "2026-10-15T00:36:27.942Z"
+ },
  "goyang-charlie-puth-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Charlie_Puth_al_Poble_Espanyol_%2889469%29.jpg/3840px-Charlie_Puth_al_Poble_Espanyol_%2889469%29.jpg": {
   "slug": "goyang-charlie-puth-concert",
   "verdict": "MATCH",
@@ -9749,6 +9773,48 @@
   "reasonKo": "홍콩 공원의 특징적인 온실이 보이는 항공 사진",
   "at": "2026-08-13T14:04:04.490Z"
  },
+ "hong-kong-hong-kong-sixes\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Hong_Kong_%282017%29_-_246.jpg/1920px-Hong_Kong_%282017%29_-_246.jpg": {
+  "slug": "hong-kong-hong-kong-sixes",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Buddhist statue unrelated to Hong Kong Sixes rugby event",
+  "at": "2026-10-15T00:37:00.094Z"
+ },
+ "hong-kong-hong-kong-sixes\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Double_happiness_%286285845072%29.jpg/3840px-Double_happiness_%286285845072%29.jpg": {
+  "slug": "hong-kong-hong-kong-sixes",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Graffiti alley wall, unrelated to rugby sixes event",
+  "at": "2026-10-15T00:36:47.975Z"
+ },
+ "hong-kong-hong-kong-sixes\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Hong_Kong_%282017%29_-_227.jpg/1920px-Hong_Kong_%282017%29_-_227.jpg": {
+  "slug": "hong-kong-hong-kong-sixes",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Buddhist statue unrelated to Hong Kong Sixes rugby event",
+  "at": "2026-10-15T00:36:58.763Z"
+ },
+ "hong-kong-hong-kong-sixes\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DSCF9932_%2849378048073%29.jpg/3840px-DSCF9932_%2849378048073%29.jpg": {
+  "slug": "hong-kong-hong-kong-sixes",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Vigil candles scene, unrelated to rugby sevens event",
+  "at": "2026-10-15T00:36:45.748Z"
+ },
+ "hong-kong-hong-kong-sixes\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Descent_%287454620300%29.jpg/3840px-Descent_%287454620300%29.jpg": {
+  "slug": "hong-kong-hong-kong-sixes",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Dark backstage figures, not rugby event or venue",
+  "at": "2026-10-15T00:36:49.368Z"
+ },
+ "hong-kong-hong-kong-sixes\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Hong_Kong_%282017%29_-_232.jpg/1920px-Hong_Kong_%282017%29_-_232.jpg": {
+  "slug": "hong-kong-hong-kong-sixes",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Buddhist statues, unrelated to Hong Kong Sixes rugby event",
+  "at": "2026-10-15T00:36:54.079Z"
+ },
+ "hong-kong-hong-kong-sixes\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Hong_Kong_%282017%29_-_223.jpg/1920px-Hong_Kong_%282017%29_-_223.jpg": {
+  "slug": "hong-kong-hong-kong-sixes",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Buddhist statue, unrelated to Hong Kong Sixes rugby event",
+  "at": "2026-10-15T00:37:01.433Z"
+ },
  "hong-kong-hong-kong-wine-dine-festival\u0001https://upload.wikimedia.org/wikipedia/commons/3/31/HK_%E4%B8%AD%E7%92%B0_Central_night_%E9%A6%99%E6%B8%AF%E7%BE%8E%E9%85%92%E4%BD%B3%E9%A4%9A%E5%B7%A1%E7%A6%AE_10th_Hong_Kong_Wine_%26_Dine_Festival_October_2018_IX2_Hong_Kong_Tourism_Board_n_visitors.jpg": {
   "slug": "hong-kong-hong-kong-wine-dine-festival",
   "verdict": "MISMATCH",
@@ -10083,6 +10149,18 @@
   "reason": "Peak tram, temple, cityscape from Victoria Peak",
   "reasonKo": "빅토리아 피크 트램, 사원, 도시 전망",
   "at": "2026-08-13T14:04:10.402Z"
+ },
+ "hong-kong-wave-to-earth-the-pieces-tour-in-hong-kong\u0001https://upload.wikimedia.org/wikipedia/commons/d/d2/HK_AsiaWorld_-Expo_Hall_10.jpg": {
+  "slug": "hong-kong-wave-to-earth-the-pieces-tour-in-hong-kong",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated trade fair venue, not concert or AsiaWorld-Expo Hall 10",
+  "at": "2026-10-15T00:38:00.208Z"
+ },
+ "hong-kong-wave-to-earth-the-pieces-tour-in-hong-kong\u0001https://upload.wikimedia.org/wikipedia/commons/d/d3/A_surfer_at_the_wave_edit.jpg": {
+  "slug": "hong-kong-wave-to-earth-the-pieces-tour-in-hong-kong",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Surfing photo unrelated to concert tour event",
+  "at": "2026-10-15T00:37:58.539Z"
  },
  "hong-kong-xg-concert-asiaworld-expo\u0001https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/The_Concert_A22894.jpg/3840px-The_Concert_A22894.jpg": {
   "slug": "hong-kong-xg-concert-asiaworld-expo",
@@ -10731,6 +10809,30 @@
   "reason": "event-mode back-audit: Performer Jack White singing, valid hero for concert event",
   "at": "2026-09-13T16:21:10.025Z"
  },
+ "istanbul-blue\u0001https://live.staticflickr.com/151/425965097_9972cce783_b.jpg": {
+  "slug": "istanbul-blue",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Close-up of shredded paper, unrelated to event",
+  "at": "2026-10-15T00:38:31.380Z"
+ },
+ "istanbul-blue\u0001https://upload.wikimedia.org/wikipedia/commons/4/4e/Blue_Upper_stage_icon.png": {
+  "slug": "istanbul-blue",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Satellite illustration, unrelated to event or venue",
+  "at": "2026-10-15T00:38:27.166Z"
+ },
+ "istanbul-blue\u0001https://upload.wikimedia.org/wikipedia/commons/e/e6/CMR_-_Tour_martello_1.JPG": {
+  "slug": "istanbul-blue",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated fortress scene, not Istanbul Blue event or venue",
+  "at": "2026-10-15T00:38:25.438Z"
+ },
+ "istanbul-blue\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/2023-09-13_Bristol_Temple_Meads_01.jpg/3840px-2023-09-13_Bristol_Temple_Meads_01.jpg": {
+  "slug": "istanbul-blue",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Street scene with blue vans, not venue-related",
+  "at": "2026-10-15T00:38:28.872Z"
+ },
  "istanbul-boris-brejcha-reflections-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Boris_brejcha_2017_03_12.jpg/3840px-Boris_brejcha_2017_03_12.jpg": {
   "slug": "istanbul-boris-brejcha-reflections-tour",
   "verdict": "MATCH",
@@ -10962,6 +11064,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: identity: Commons places this in Germany, post says Turkey",
   "at": "2026-10-12T22:12:24.576Z"
+ },
+ "istanbul-jethro-tull\u0001https://upload.wikimedia.org/wikipedia/commons/2/27/Jethro_Tull_-_Warsaw_2009.JPG": {
+  "slug": "istanbul-jethro-tull",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Live concert performance, professional stage lighting setup",
+  "at": "2026-10-15T00:38:42.841Z"
  },
  "istanbul-jethro-tull\u0001https://upload.wikimedia.org/wikipedia/commons/4/47/Jethro_Tull_-_America_Tour_-_2007_-_1.jpg": {
   "slug": "istanbul-jethro-tull",
@@ -14610,8 +14718,8 @@
  "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia\u0001https://upload.wikimedia.org/wikipedia/commons/e/ee/Vladimir_leonov_motogp.jpg": {
   "slug": "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia",
   "verdict": "MATCH",
-  "reason": "patrol replace: MotoGP motorcycle racing at circuit venue",
-  "at": "2026-10-13T23:27:11.816Z"
+  "reason": "patrol replace: MotoGP motorcycle racing at circuit with safety barriers",
+  "at": "2026-10-15T00:39:09.721Z"
  },
  "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Alvaro_Bautista-motogp-2015.JPG/3840px-Alvaro_Bautista-motogp-2015.JPG": {
   "slug": "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia",
@@ -15121,6 +15229,12 @@
   "reasonKo": "상징적인 놀이기구와 해변이 있는 산타모니카 피어",
   "at": "2026-08-03T14:30:38.641Z"
  },
+ "los-angeles-sushisamba\u0001https://fastly.4sqi.net/img/general/original/1416127965_FSCYRoJ4f0Jr0oJDU59ah0VZfrD4gLIPovwra-z2G9I.jpg": {
+  "slug": "los-angeles-sushisamba",
+  "verdict": "MATCH",
+  "reason": "patrol replace: SushiSamba storefront with illuminated signage, Los Angeles",
+  "at": "2026-10-15T00:39:18.127Z"
+ },
  "los-angeles-the-getty\u0001https://fastly.4sqi.net/img/general/original/103792_3PGEB095N7hM3VkwA6efLupYN4hi81YuvxwUvyPMEzA.jpg": {
   "slug": "los-angeles-the-getty",
   "verdict": "MATCH",
@@ -15524,6 +15638,18 @@
   "verdict": "MATCH",
   "reason": "event publish gate: CNBLUE members performing live on stage at concert",
   "at": "2026-10-12T00:18:33.428Z"
+ },
+ "macau-grasshopper-three-in-love-concert-2026\u0001https://live.staticflickr.com/5460/17403486022_61874a0e27_b.jpg": {
+  "slug": "macau-grasshopper-three-in-love-concert-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated subject: a grasshopper insect, not the event",
+  "at": "2026-10-15T00:39:52.474Z"
+ },
+ "macau-grasshopper-three-in-love-concert-2026\u0001https://live.staticflickr.com/8791/17342749476_68e3506148_b.jpg": {
+  "slug": "macau-grasshopper-three-in-love-concert-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Close-up of grasshopper insect, unrelated to event",
+  "at": "2026-10-15T00:39:50.396Z"
  },
  "macau-grasshopper-three-in-love-concert-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Grasshopper_Aug2009_Sydney.jpg/3840px-Grasshopper_Aug2009_Sydney.jpg": {
   "slug": "macau-grasshopper-three-in-love-concert-2026",
@@ -18092,6 +18218,18 @@
   "reasonKo": "현대 박물관 건축, 뉴델리 스타일",
   "at": "2026-08-16T13:15:07.081Z"
  },
+ "new-delhi-new-delhi-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/a/a0/Jawaharlal_Nehru_Stadium%2C_New_Delhi.png": {
+  "slug": "new-delhi-new-delhi-marathon",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Jawaharlal Nehru Stadium, Delhi marathon venue",
+  "at": "2026-10-15T00:40:46.706Z"
+ },
+ "new-delhi-new-delhi-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Marathon_-_windmill.jpg/3840px-Marathon_-_windmill.jpg": {
+  "slug": "new-delhi-new-delhi-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Rural windmill scene, unrelated to New Delhi Marathon",
+  "at": "2026-10-15T00:40:43.652Z"
+ },
  "new-delhi-purana-qila\u0001https://upload.wikimedia.org/wikipedia/commons/9/98/Purana_Qila_01.jpg": {
   "slug": "new-delhi-purana-qila",
   "verdict": "MATCH",
@@ -19935,7 +20073,7 @@
   "slug": "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour",
   "verdict": "MATCH",
   "reason": "patrol replace: Band performing on stage at concert venue",
-  "at": "2026-10-13T23:28:46.336Z"
+  "at": "2026-10-15T00:40:54.066Z"
  },
  "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/9/93/5_Seconds_of_Summer_11_15_2014_-25_%2815187260193%29.jpg": {
   "slug": "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour",
@@ -23911,6 +24049,48 @@
   "reason": "patrol replace: Fine dining dish, upscale plating, likely Raffles restaurant",
   "at": "2026-09-17T22:24:53.137Z"
  },
+ "siem-reap-20th-francophonie-summit\u0001https://upload.wikimedia.org/wikipedia/commons/6/61/Au_village_de_la_francophonie_%C3%A0_Erevan_%284%29.jpg": {
+  "slug": "siem-reap-20th-francophonie-summit",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Generic portrait, not representative of summit event",
+  "at": "2026-10-15T00:41:06.106Z"
+ },
+ "siem-reap-20th-francophonie-summit\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Au_village_de_la_francophonie_%C3%A0_Erevan_%281%29.jpg/3840px-Au_village_de_la_francophonie_%C3%A0_Erevan_%281%29.jpg": {
+  "slug": "siem-reap-20th-francophonie-summit",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated person/banners in Togo, not Francophonie Summit Cambodia",
+  "at": "2026-10-15T00:41:04.415Z"
+ },
+ "siem-reap-20th-francophonie-summit\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Au_village_de_la_francophonie_%C3%A0_Erevan_%282%29.jpg/3840px-Au_village_de_la_francophonie_%C3%A0_Erevan_%282%29.jpg": {
+  "slug": "siem-reap-20th-francophonie-summit",
+  "verdict": "MATCH",
+  "reason": "patrol replace: International event with flags, tents, crowds",
+  "at": "2026-10-15T00:41:11.059Z"
+ },
+ "siem-reap-20th-francophonie-summit\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Au_village_de_la_francophonie_%C3%A0_Erevan_%285%29.jpg/3840px-Au_village_de_la_francophonie_%C3%A0_Erevan_%285%29.jpg": {
+  "slug": "siem-reap-20th-francophonie-summit",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Togo/Mauritius promotional booth, unrelated to Francophonie Summit Cambodia",
+  "at": "2026-10-15T00:41:07.853Z"
+ },
+ "siem-reap-angkor-photo-festival\u0001https://upload.wikimedia.org/wikipedia/commons/2/2e/Ta_Phrom%2C_Angkor%2C_Camboya%2C_2013-08-16%2C_DD_41.JPG": {
+  "slug": "siem-reap-angkor-photo-festival",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Angkor temple ruins with overgrown roots, Siem Reap",
+  "at": "2026-10-15T00:41:20.778Z"
+ },
+ "siem-reap-angkor-photo-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Phimeanakas%2C_Angkor_Thom%2C_Camboya%2C_2013-08-16%2C_DD_12.jpg/3840px-Phimeanakas%2C_Angkor_Thom%2C_Camboya%2C_2013-08-16%2C_DD_12.jpg": {
+  "slug": "siem-reap-angkor-photo-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Ancient temple ruin, not festival or venue specific",
+  "at": "2026-10-15T00:41:16.653Z"
+ },
+ "siem-reap-angkor-photo-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Neak_Pean%2C_Angkor%2C_Camboya%2C_2013-08-17%2C_DD_01.JPG/3840px-Neak_Pean%2C_Angkor%2C_Camboya%2C_2013-08-17%2C_DD_01.JPG": {
+  "slug": "siem-reap-angkor-photo-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Flooded forest boardwalk, not a festival venue photo",
+  "at": "2026-10-15T00:41:14.956Z"
+ },
  "siem-reap-angkor-wat\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Angkor_Wat.jpg/1920px-Angkor_Wat.jpg": {
   "slug": "siem-reap-angkor-wat",
   "verdict": "MATCH",
@@ -24130,6 +24310,30 @@
   "verdict": "MATCH",
   "reason": "publish gate: Beach sunset over water, representative view of Otres Beach",
   "at": "2026-08-22T09:09:51.299Z"
+ },
+ "sihanoukville-sea-festival-2026\u0001https://upload.wikimedia.org/wikipedia/commons/1/15/Festival_of_the_Sea_01.jpg": {
+  "slug": "sihanoukville-sea-festival-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Harbor scene is European, not Cambodian",
+  "at": "2026-10-15T00:41:39.232Z"
+ },
+ "sihanoukville-sea-festival-2026\u0001https://upload.wikimedia.org/wikipedia/commons/b/b3/Festival_of_the_Sea_08.jpg": {
+  "slug": "sihanoukville-sea-festival-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Medieval ship, not Sihanoukville venue or event",
+  "at": "2026-10-15T00:41:32.743Z"
+ },
+ "sihanoukville-sea-festival-2026\u0001https://upload.wikimedia.org/wikipedia/commons/d/d6/Festival_of_the_Sea_07.jpg": {
+  "slug": "sihanoukville-sea-festival-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shows European harbor town, not Sihanoukville, Cambodia",
+  "at": "2026-10-15T00:41:29.570Z"
+ },
+ "sihanoukville-sea-festival-2026\u0001https://upload.wikimedia.org/wikipedia/commons/f/f6/Festival_of_the_Sea_05.jpg": {
+  "slug": "sihanoukville-sea-festival-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Harbor festival, but not Sihanoukville location",
+  "at": "2026-10-15T00:41:35.923Z"
  },
  "singapore-886-taiwan-ye-shi\u0001https://fastly.4sqi.net/img/general/original/149220133_rUm6tR7frMRkskRVaes2GLReO9Yo-hj5JH_EYDxkyQg.jpg": {
   "slug": "singapore-886-taiwan-ye-shi",

@@ -5,7 +5,6 @@ country: United States
 region: Los Angeles
 category: trendy
 pubDate: '2026-09-16'
-gallery: []
 tags:
   - los angeles
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What's nearby if I want to make a night of it?
     a: The restaurant sits within West Hollywood's dense strip of bars and lounges, making it easy to pair dinner with a rooftop or bar crawl afterward. Plan parking or rideshare pickup given the area's typical weekend congestion.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/1416127965_FSCYRoJ4f0Jr0oJDU59ah0VZfrD4gLIPovwra-z2G9I.jpg
+  credit: 'Photo: Foursquare user content (Sushisamba West Hollywood)'
+  license: foursquare
+  source: https://foursquare.com/v/69b335e30c327f6204729c1a
+  focus:
+    x: 45
+    'y': 25
 ---
 
 ## What SushiSamba is doing in West Hollywood

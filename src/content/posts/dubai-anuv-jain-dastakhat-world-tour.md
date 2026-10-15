@@ -18,6 +18,14 @@ eventPerformer:
   name: Anuv Jain
   kind: person
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/The_Dubai_Frame_Observation_Deck_in_Dubai%2C_United_Arab_Emirates.jpg/3840px-The_Dubai_Frame_Observation_Deck_in_Dubai%2C_United_Arab_Emirates.jpg'
+  credit: 'Photo: Richard N Horne / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:The_Dubai_Frame_Observation_Deck_in_Dubai,_United_Arab_Emirates.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - dubai

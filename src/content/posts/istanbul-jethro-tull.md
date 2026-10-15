@@ -14,16 +14,13 @@ eventPerformer:
   kind: group
 eventFactsAsked: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/4/47/Jethro_Tull_-_America_Tour_-_2007_-_1.jpg
-  credit: 'Photo: Craig ONeal / Wikimedia Commons (CC BY-SA 2.0)'
+  url: https://upload.wikimedia.org/wikipedia/commons/2/27/Jethro_Tull_-_Warsaw_2009.JPG
+  credit: 'Photo: Miłosz Kasprowicz / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Jethro_Tull_-_America_Tour_-_2007_-_1.jpg
+  source: https://commons.wikimedia.org/wiki/File:Jethro_Tull_-_Warsaw_2009.JPG
   focus:
-    x: 53
-    'y': 24
-    top: 5
-    bottom: 42
-gallery: []
+    x: 50
+    'y': 45
 tags:
   - istanbul
   - event
@@ -40,8 +37,6 @@ faq:
   - q: Where can I eat near the venue?
     a: Zorlu Center has restaurants and cafés inside, so many concertgoers eat in the building. Beşiktaş and Ortaköy are a short taxi ride away for after the show.
 aiGenerated: true
-draft: true
-heldReason: wrong-venue-photo
 ---
 
 ## A flute at the front of a rock band

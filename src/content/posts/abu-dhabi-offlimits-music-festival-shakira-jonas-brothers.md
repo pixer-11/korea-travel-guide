@@ -12,7 +12,6 @@ eventVenue: Etihad Park, Yas Island
 eventOffers:
   url: https://www.offlimits.com
 eventFactsAsked: true
-gallery: []
 tags:
   - abu dhabi
   - event
@@ -30,6 +29,14 @@ faq:
     a: The organiser publishes the dates, venue information and ticket links on the OFFLIMITS official site. Age policy, bag rules and entry conditions are set out in the ticket terms, and those are what security uses at the gate.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/6/6d/Etihad_Park.jpg
+  credit: 'Photo: Showsdaynite / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Etihad_Park.jpg
+  focus:
+    x: 50
+    'y': 40
 ---
 
 ## A Saturday night on Yas Island

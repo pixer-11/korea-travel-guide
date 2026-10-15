@@ -13,7 +13,6 @@ eventOrganizer:
   name: Athletics Federation of India
   url: https://indianathletics.in
 eventFactsAsked: true
-gallery: []
 tags:
   - new delhi
   - event
@@ -31,6 +30,14 @@ faq:
     a: Mornings are cool, usually in the low-to-mid teens Celsius at dawn, but November is peak smog season. Runners commonly follow AQI readings and wear masks before and after the race.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/a/a0/Jawaharlal_Nehru_Stadium%2C_New_Delhi.png
+  credit: 'Photo: Ramit.mukherjee.1994 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Jawaharlal_Nehru_Stadium,_New_Delhi.png
+  focus:
+    x: 50
+    'y': 50
 ---
 
 ## A national championship inside a stadium bowl

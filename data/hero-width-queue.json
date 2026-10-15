@@ -2643,7 +2643,14 @@
   "shanghai-shanghai-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Shanghai_International_Marathon_2016.jpg/3840px-Shanghai_International_Marathon_2016.jpg": 3840,
   "siem-reap-jayavarman-vii-festival\u0001https://upload.wikimedia.org/wikipedia/commons/d/d5/Jayavarman_VII.jpg": 1200,
   "singapore-nct-127-neo-city-the-redline\u0001https://upload.wikimedia.org/wikipedia/commons/f/fa/181012_NCT127_KBS_%27%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC%27_%EB%A6%AC%ED%97%88%EC%84%A4_%EC%B6%9C%EA%B7%BC%EA%B8%B8_%EC%A7%81%EC%BA%A0_%EC%98%81%EC%83%81_02.png": 3081,
-  "taipei-charlie-puth-live-in-taipei\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Charlie_Puth%2C_Regency_Ballroom%2C_San_Francisco_%28Nine_Track_Mind_Tour%29_1.jpg/3840px-Charlie_Puth%2C_Regency_Ballroom%2C_San_Francisco_%28Nine_Track_Mind_Tour%29_1.jpg": 3840
+  "taipei-charlie-puth-live-in-taipei\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Charlie_Puth%2C_Regency_Ballroom%2C_San_Francisco_%28Nine_Track_Mind_Tour%29_1.jpg/3840px-Charlie_Puth%2C_Regency_Ballroom%2C_San_Francisco_%28Nine_Track_Mind_Tour%29_1.jpg": 3840,
+  "bangkok-loy-krathong-festival\u0001https://upload.wikimedia.org/wikipedia/commons/4/47/Loy_Krathong_A_Celebration_of_Light_and_Renewal.jpg": 2000,
+  "abu-dhabi-offlimits-music-festival-shakira-jonas-brothers\u0001https://upload.wikimedia.org/wikipedia/commons/6/6d/Etihad_Park.jpg": 1848,
+  "istanbul-jethro-tull\u0001https://upload.wikimedia.org/wikipedia/commons/2/27/Jethro_Tull_-_Warsaw_2009.JPG": 2816,
+  "los-angeles-sushisamba\u0001https://fastly.4sqi.net/img/general/original/1416127965_FSCYRoJ4f0Jr0oJDU59ah0VZfrD4gLIPovwra-z2G9I.jpg": 1440,
+  "new-delhi-new-delhi-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/a/a0/Jawaharlal_Nehru_Stadium%2C_New_Delhi.png": 1440,
+  "siem-reap-20th-francophonie-summit\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Au_village_de_la_francophonie_%C3%A0_Erevan_%282%29.jpg/3840px-Au_village_de_la_francophonie_%C3%A0_Erevan_%282%29.jpg": 3840,
+  "siem-reap-angkor-photo-festival\u0001https://upload.wikimedia.org/wikipedia/commons/2/2e/Ta_Phrom%2C_Angkor%2C_Camboya%2C_2013-08-16%2C_DD_41.JPG": 3538
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -2837,15 +2844,15 @@
   },
   "bali-motel-mexicola-uluwatu": {
    "width": 1080,
-   "attempts": 5,
-   "nextTry": "2026-10-15",
+   "attempts": 6,
+   "nextTry": "2026-10-22",
    "flaggedAt": "2026-09-10",
    "lastResult": "no-wider"
   },
   "dubai-suteki": {
    "width": 903,
-   "attempts": 5,
-   "nextTry": "2026-10-15",
+   "attempts": 6,
+   "nextTry": "2026-10-22",
    "flaggedAt": "2026-09-10",
    "lastResult": "no-wider"
   },
@@ -2907,8 +2914,8 @@
   },
   "hiroshima-nagataya": {
    "width": 1024,
-   "attempts": 3,
-   "nextTry": "2026-10-14",
+   "attempts": 4,
+   "nextTry": "2026-10-22",
    "flaggedAt": "2026-09-19",
    "lastResult": "no-wider"
   },
@@ -3136,5 +3143,5 @@
    "flaggedAt": "2026-10-05"
   }
  },
- "updated": "2026-10-15T00:34:33.217Z"
+ "updated": "2026-10-15T00:42:33.587Z"
 }

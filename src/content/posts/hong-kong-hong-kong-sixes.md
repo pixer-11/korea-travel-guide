@@ -12,6 +12,14 @@ eventVenue: Mission Road Ground
 eventOrganizer:
   name: Cricket Hong Kong, China
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/8/8d/Hong_Kong_skyscrapers_in_a_night_of_typhoon.jpg'
+  credit: 'Photo: Wilfredor / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Hong_Kong_skyscrapers_in_a_night_of_typhoon.jpg'
+  focus:
+    x: 50
+    y: 40
 gallery: []
 tags:
   - hong kong

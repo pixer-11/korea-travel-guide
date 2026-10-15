@@ -13,6 +13,14 @@ eventPerformer:
   name: wave to earth
   kind: group
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Kowloon_Waterfront%2C_Hong_Kong%2C_2013-08-09%2C_DD_03.jpg/3840px-Kowloon_Waterfront%2C_Hong_Kong%2C_2013-08-09%2C_DD_03.jpg'
+  credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Kowloon_Waterfront,_Hong_Kong,_2013-08-09,_DD_03.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - hong kong

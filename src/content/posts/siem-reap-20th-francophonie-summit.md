@@ -12,7 +12,6 @@ eventOrganizer:
   name: Ministry of Tourism Cambodia
   url: https://www.tourism.gov.kh
 eventFactsAsked: true
-gallery: []
 tags:
   - siem reap
   - event
@@ -30,6 +29,14 @@ faq:
     a: Yes, the temples are a separate attraction. November is peak season, though, and road closures for convoys can slow transfers. The Angkor Pass is sold at the official Angkor Enterprise ticket centre.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Au_village_de_la_francophonie_%C3%A0_Erevan_%282%29.jpg/3840px-Au_village_de_la_francophonie_%C3%A0_Erevan_%282%29.jpg
+  credit: 'Photo: Armineaghayan / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Au_village_de_la_francophonie_%C3%A0_Erevan_(2).jpg
+  focus:
+    x: 50
+    'y': 50
 ---
 
 ## A summit, not a festival

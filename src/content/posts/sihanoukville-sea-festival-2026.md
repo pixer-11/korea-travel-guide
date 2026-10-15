@@ -9,6 +9,14 @@ eventStartDate: '2026-12-18'
 eventEndDate: '2026-12-20'
 eventRecurring: true
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/c/c2/Cambodia_-_Sihanoukville.jpg'
+  credit: 'Photo: Dmitry Makeev / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Cambodia_-_Sihanoukville.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - sihanoukville

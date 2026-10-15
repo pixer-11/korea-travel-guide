@@ -9,6 +9,14 @@ eventStartDate: '2026-11-01'
 eventEndDate: '2026-11-01'
 eventRecurring: true
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Jalan_Klang_Lama_%28Malaysia_Federal_Highway_2%29%2C_Taman_Skyline_20240221_113002.jpg/1280px-Jalan_Klang_Lama_%28Malaysia_Federal_Highway_2%29%2C_Taman_Skyline_20240221_113002.jpg'
+  credit: 'Photo: Wiki Farazi (CC0)'
+  license: wikimedia
+  source: 'File:Jalan Klang Lama (Malaysia Federal Highway 2), Taman Skyline 20240221 113002.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - klang
