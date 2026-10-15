@@ -1,6 +1,6 @@
 ---
 title: 'ITTF World Youth Championships (Table Tennis): Dates, Tickets & Venue (Istanbul)'
-description: The ITTF World Youth Championships (Table Tennis) took place in Istanbul, Turkey, from November 21 to 28, 2026, and the organiser publishes venue and ticket details on its official ITTF channels.
+description: The ITTF World Youth Championships (Table Tennis) takes place in Istanbul, Turkey, from November 21 to 28, 2026, and the organiser publishes venue and ticket details on its official ITTF channels.
 country: Turkey
 region: Istanbul
 category: event
@@ -23,10 +23,10 @@ gallery: []
 tags:
   - istanbul
   - event
-quickAnswer: The ITTF World Youth Championships (Table Tennis) took place in Istanbul, Turkey, from November 21 to 28, 2026, and the organiser publishes venue and ticket details on its official ITTF channels. Over eight days in late autumn, the world's best young players compete for youth world titles, with big travelling support from East Asian table tennis nations.
+quickAnswer: The ITTF World Youth Championships (Table Tennis) takes place in Istanbul, Turkey, from November 21 to 28, 2026, and the organiser publishes venue and ticket details on its official ITTF channels. Over eight days in late autumn, the world's best young players compete for youth world titles, with big travelling support from East Asian table tennis nations.
 faq:
   - q: When were the ITTF World Youth Championships held in Istanbul?
-    a: The 2026 World Table Tennis Youth Championships ran in Istanbul, Turkey, from November 21 to 28, 2026.
+    a: The 2026 World Table Tennis Youth Championships runs in Istanbul, Turkey, from November 21 to 28, 2026.
   - q: Where are the venue and ticket details published?
     a: The ITTF publishes venue, schedule, draws, results and ticket information on its official site and World Table Tennis channels.
   - q: Which days are best for watching?
@@ -43,7 +43,7 @@ draft: false
 
 You hear table tennis before you understand it. The light double tick of the ball, bat and table, comes too fast for the eye to follow. At a world youth championship that sound comes from many tables at once, each one fenced off by low barriers, with umpires on high chairs and coaches leaning forward between points.
 
-The 2026 World Table Tennis Youth Championships ran in Istanbul from November 21 to 28, 2026. The players are teenagers. Several of them go on to play senior world tour events within a few years, so this is often where fans first see a future star.
+The 2026 World Table Tennis Youth Championships runs in Istanbul from November 21 to 28, 2026. The players are teenagers. Several of them go on to play senior world tour events within a few years, so this is often where fans first see a future star.
 
 ## Who fills the stands
 

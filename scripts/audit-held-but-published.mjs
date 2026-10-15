@@ -56,7 +56,9 @@ for (const h of hits) console.log(`HELD-BUT-PUBLISHED: ${h.file} — heldReason:
 for (const u of unreadable) console.log(`HELD-BUT-PUBLISHED: ${u}`);
 
 if (hits.length) {
-  console.log('\nA hold means the page must not be live. Set draft: true, or clear the reason deliberately.');
+  // ↳: a note under the findings, not a finding. Without it the daily report
+  // counted this line as a second problem, "점검 항목 — 대상 미상" (2026-10-15).
+  console.log('\n↳ A hold means the page must not be live. Set draft: true, or clear the reason deliberately.');
   process.exit(1);
 }
 if (unreadable.length) {

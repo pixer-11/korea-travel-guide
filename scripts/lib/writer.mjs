@@ -10,6 +10,7 @@ import { firstTell } from './ai-tells.mjs';
 import { HOUSE_STYLE } from './prose-style.mjs'; // the house rules every reader-facing generator shares (AGENTS.md)
 import { reflow } from '../../src/lib/paragraphs.mjs';
 import { FUTURE_PROMISE, FABRICATED_AVAILABILITY, ADVICE_IMPERATIVE } from '../../src/lib/ended-event-claims.mjs';
+import { upcomingPastTense } from './invented-outcomes.mjs';
 
 const MODEL = process.env.WRITER_MODEL || 'claude-opus-5-5';
 
@@ -152,7 +153,12 @@ const TOOL = {
 export const EVENT_TIMELESS_RULE = 'EVENT PAGES STAY ONLINE AFTER THE EVENT, so every sentence must still be true the day after it ends. ' +
   '(1) Never instruct the reader to check, confirm, verify, watch, book, plan or arrive before, early or ahead: that advice is stale the morning after. Say where the information lives as a FACT instead ("The organiser publishes the dates, venue and ticket links on its official site"; name the organiser or ticketing platform when your facts name it), and give practical tips as what attendees usually do ("Fans typically arrive an hour before doors", "Visitors usually stay in Ilsan"), not as commands ("Arrive early", "Book ahead"). ' +
   '(2) Do NOT write: "closer to the date/event", "will be announced/confirmed/released", "has/have not been confirmed/announced yet", "tickets go on sale", "the lineup has yet to", "once released", "TBA", "TBC", "as of this writing", "this far out". ' +
-  '(3) Do NOT say details were published, confirmed or listed on official sites or channels: nobody here verified that. State what is known; do not promise future updates.';
+  '(3) Do NOT say details were published, confirmed or listed on official sites or channels: nobody here verified that. State what is known; do not promise future updates. ' +
+  // 2026-10-15: the opening line was obeyed by writing the event in the PAST
+  // ("took place", "was held", "played Galaxy Arena") — true the day after,
+  // false from publish day until the event. 17 upcoming guides went live that
+  // way, Stray Kids and BIGBANG among them. Say which tense is wanted.
+  '(4) The guide is published BEFORE the event. State this edition as a schedule in the present tense: "takes place on", "runs from … to", "is held at", "plays Galaxy Arena on". NEVER the past tense for this edition ("took place", "was held", "ran", "played", "drew", "sold out"): it has not happened yet, and nobody here will see it happen. Past tense is only for earlier editions or the act\'s history.';
 
 /**
  * The retry conversation, shaped the way the API demands: the assistant turn
@@ -209,6 +215,27 @@ export function tellRetryMessages(prior, firstMsg, toolUseId, tell) {
       ],
     },
   ];
+}
+
+/** Same conversation shape, for an upcoming event written as already over. */
+export function pastTenseRetryMessages(prior, firstMsg, toolUseId, sentence) {
+  return [
+    ...priorTurns(prior),
+    { role: 'assistant', content: firstMsg.content },
+    {
+      role: 'user',
+      content: [
+        { type: 'tool_result', tool_use_id: toolUseId, content: 'Draft received. Revision requested below.' },
+        { type: 'text', text: 'Your draft reports this edition as if it had already happened: "' + sentence + '". The guide is published BEFORE the event. Resubmit the whole guide with every sentence about this edition in the present tense as a schedule ("takes place on", "runs from", "is held at", "plays … on"), changing nothing else. ' + EVENT_TIMELESS_RULE },
+      ],
+    },
+  ];
+}
+
+/** The first sentence that reports this edition in the past, or null. */
+export function eventPastTense(out, year) {
+  const text = [out?.description, out?.quickAnswer, out?.body, ...(Array.isArray(out?.faq) ? out.faq.map((f) => f?.a) : [])].join('\n');
+  return upcomingPastTense(text, year)[0]?.sentence ?? null;
 }
 
 /** First forward-looking phrase in a written guide's fields, or null when clean. */
@@ -299,6 +326,22 @@ export async function writeArticle({ apiKey, title, region, country, category, f
   if (!toolUse) throw new Error('model did not return a submit_guide tool call');
 
   let out = toolUse.input;
+  // Each revision below continues from the LATEST draft. They all used to replay
+  // the first one, so a later gate could undo an earlier gate's fix: a tell
+  // rewrite of draft 1 brought back the "was held" the past-tense rewrite had
+  // just removed, and nothing checked again (review, 10-15). The helpers take
+  // the history BEFORE the draft they revise, plus that draft and its tool_use.
+  const revise = async (messages) => {
+    const again = await client.messages.create({
+      model: MODEL, max_tokens: MAX_TOKENS, system: SYSTEM_CACHED, tools: [TOOL],
+      tool_choice: TOOL_CHOICE,
+      messages,
+    });
+    const second = again.content.find((b) => b.type === 'tool_use');
+    if (!second) return false;
+    history = messages; msg = again; toolUse = second; out = second.input;
+    return true;
+  };
   // Born-clean gate for events (see EVENT_TIMELESS_RULE): one retry naming the
   // exact residue. Free when the first draft is clean, which the rule makes
   // the normal case; a second miss ships with a log line rather than a loop,
@@ -306,16 +349,24 @@ export async function writeArticle({ apiKey, title, region, country, category, f
   const residue = category === 'event' ? eventFuturePromise(out) : null;
   if (residue) {
     console.log('  (event draft promises the future: "' + residue + '" - asking for a timeless rewrite)');
-    const again = await client.messages.create({
-      model: MODEL, max_tokens: MAX_TOKENS, system: SYSTEM_CACHED, tools: [TOOL],
-      tool_choice: TOOL_CHOICE,
-      messages: timelessRetryMessages(history, msg, toolUse.id, residue),
-    });
-    const second = again.content.find((b) => b.type === 'tool_use');
-    if (second) {
-      out = second.input;
+    if (await revise(timelessRetryMessages(history, msg, toolUse.id, residue))) {
       const left = eventFuturePromise(out);
       if (left) console.log('  (event draft still says "' + left + '" after retry - shipping; the validator flags it when the event ends)');
+    }
+  }
+  // Born-clean gate for an event written as already over (2026-10-15): 17
+  // upcoming guides went live saying "took place" / "was held" / "played" about
+  // a date still weeks away. Same shape: one retry naming the sentence, then
+  // ship with a log line (the daily validation lists what is left). The year
+  // comes from the facts' date or the title; without one there is nothing to
+  // anchor "this edition" to, and the gate stays out of the way.
+  const editionYear = category === 'event' ? `${facts?.date || ''} ${title || ''}`.match(/\b(20\d\d)\b/)?.[1] : null;
+  const pastLine = editionYear ? eventPastTense(out, editionYear) : null;
+  if (pastLine) {
+    console.log('  (event draft reports this edition in the past: "' + pastLine.slice(0, 90) + '" - asking for the present tense)');
+    if (await revise(pastTenseRetryMessages(history, msg, toolUse.id, pastLine))) {
+      const left = eventPastTense(out, editionYear);
+      if (left) console.log('  (event draft still reports this edition in the past after retry - shipping; the daily validation lists it)');
     }
   }
   // Born-clean gate for machine-sounding phrases, the same shape as the event
@@ -325,14 +376,7 @@ export async function writeArticle({ apiKey, title, region, country, category, f
   const tell = firstTell([out?.body, out?.quickAnswer].join(' '));
   if (tell) {
     console.log('  (draft uses "' + tell + '" - asking for a plain-words rewrite)');
-    const again = await client.messages.create({
-      model: MODEL, max_tokens: MAX_TOKENS, system: SYSTEM_CACHED, tools: [TOOL],
-      tool_choice: TOOL_CHOICE,
-      messages: tellRetryMessages(history, msg, toolUse.id, tell),
-    });
-    const second = again.content.find((b) => b.type === 'tool_use');
-    if (second) {
-      out = second.input;
+    if (await revise(tellRetryMessages(history, msg, toolUse.id, tell))) {
       const left = firstTell([out?.body, out?.quickAnswer].join(' '));
       if (left) console.log('  (draft still says "' + left + '" after retry - shipping; the weekly audit counts it)');
     }

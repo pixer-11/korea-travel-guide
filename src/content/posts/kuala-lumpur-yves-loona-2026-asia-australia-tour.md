@@ -1,6 +1,6 @@
 ---
 title: 'Yves (LOONA) 2026 Asia & Australia Tour: Dates, Tickets & Venue (Kuala Lumpur)'
-description: The Yves (LOONA) 2026 Asia & Australia Tour played Kuala Lumpur on November 7, 2026, with tickets sold for a single night at Vox Live KL.
+description: The Yves (LOONA) 2026 Asia & Australia Tour plays Kuala Lumpur on November 7, 2026, with tickets sold for a single night at Vox Live KL.
 country: Malaysia
 region: Kuala Lumpur
 category: event
@@ -17,10 +17,10 @@ gallery: []
 tags:
   - kuala lumpur
   - event
-quickAnswer: The Yves (LOONA) 2026 Asia & Australia Tour played Kuala Lumpur on November 7, 2026, with tickets sold for a single night at Vox Live KL. It is a solo show by the former LOONA member, set in a live-music venue rather than a stadium. Most fans from outside KL use the city's rail network and Grab to get there, and stay one or two nights.
+quickAnswer: The Yves (LOONA) 2026 Asia & Australia Tour plays Kuala Lumpur on November 7, 2026, with tickets sold for a single night at Vox Live KL. It is a solo show by the former LOONA member, set in a live-music venue rather than a stadium. Most fans from outside KL use the city's rail network and Grab to get there, and stay one or two nights.
 faq:
   - q: When and where did Yves play Kuala Lumpur on her 2026 tour?
-    a: Yves brought her 2026 Asia & Australia Tour to Vox Live KL in Kuala Lumpur on November 7, 2026. It was the tour's only Kuala Lumpur date.
+    a: Yves brings her 2026 Asia & Australia Tour to Vox Live KL in Kuala Lumpur on November 7, 2026. It is the tour's only Kuala Lumpur date.
   - q: Who is Yves?
     a: Yves (Ha Soo-young) is a former member of the K-pop group LOONA. She was revealed as its ninth member, sang in the yyxy sub-unit, and started her solo career in 2024.
   - q: How do fans usually get to the venue?

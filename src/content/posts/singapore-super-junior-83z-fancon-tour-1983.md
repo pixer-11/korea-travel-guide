@@ -28,7 +28,7 @@ tags:
 quickAnswer: The Super Junior-83z Fancon Tour [1983] played Singapore on October 16, 2026, with Leeteuk and Heechul holding a fan meeting at The Star Theatre in Buona Vista. The venue sits inside The Star Vista mall, a short covered walk from Buona Vista MRT (East-West and Circle Lines) and close to one-north MRT (Circle Line).
 faq:
   - q: When and where was the Super Junior-83z fancon in Singapore?
-    a: It was held on October 16, 2026, at The Star Theatre, inside The Star Vista mall at 1 Vista Exchange Green in Buona Vista.
+    a: It is held on October 16, 2026, at The Star Theatre, inside The Star Vista mall at 1 Vista Exchange Green in Buona Vista.
   - q: Which members are in Super Junior-83z?
     a: Leeteuk and Heechul. Both were born in 1983, which gives the unit and the tour title [1983] their names.
   - q: What is the nearest MRT station to The Star Theatre?
@@ -45,7 +45,7 @@ draft: false
 
 The "83z" in the unit name is the whole idea. Leeteuk and Heechul were both born in 1983, and this Super Junior sub-unit pairs the group's leader with its loudest variety personality. The tour title, [1983], points back to that shared year.
 
-The Singapore stop was a fancon on **October 16, 2026**. A fancon is closer to a fan meeting than a full concert. Expect talk segments, games and audience interaction, with songs mixed in. No setlist or running order is given here, so this page doesn't guess at one.
+The Singapore stop is a fancon on **October 16, 2026**. A fancon is closer to a fan meeting than a full concert. Expect talk segments, games and audience interaction, with songs mixed in. No setlist or running order is given here, so this page doesn't guess at one.
 
 ## Inside The Star Theatre
 

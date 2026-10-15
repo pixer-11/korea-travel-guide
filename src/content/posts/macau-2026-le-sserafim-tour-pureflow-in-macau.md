@@ -1,6 +1,6 @@
 ---
 title: '2026 LE SSERAFIM Tour ''PUREFLOW'' in Macau: Dates, Tickets & Venue (Macau)'
-description: The 2026 LE SSERAFIM Tour 'PUREFLOW' in Macau played Galaxy Arena, inside the Galaxy Macau resort in Cotai, on November 7 and 8, 2026.
+description: The 2026 LE SSERAFIM Tour 'PUREFLOW' in Macau plays Galaxy Arena, inside the Galaxy Macau resort in Cotai, on November 7 and 8, 2026.
 country: Macau
 region: Macau
 category: event
@@ -16,10 +16,10 @@ eventFactsAsked: true
 tags:
   - macau
   - event
-quickAnswer: The 2026 LE SSERAFIM Tour 'PUREFLOW' in Macau played Galaxy Arena, inside the Galaxy Macau resort in Cotai, on November 7 and 8, 2026. The two nights were Macau's stops on the group's second world tour, which backs their new album. Ticket details are handled by the tour promoter and the venue, and most fans make a short weekend of it on the Cotai Strip.
+quickAnswer: The 2026 LE SSERAFIM Tour 'PUREFLOW' in Macau plays Galaxy Arena, inside the Galaxy Macau resort in Cotai, on November 7 and 8, 2026. The two nights are Macau's stops on the group's second world tour, which backs their new album. Ticket details are handled by the tour promoter and the venue, and most fans make a short weekend of it on the Cotai Strip.
 faq:
   - q: When and where did LE SSERAFIM perform PUREFLOW in Macau?
-    a: LE SSERAFIM played Galaxy Arena, inside the Galaxy Macau resort in Cotai, on November 7 and 8, 2026. It was part of their second world tour, PUREFLOW.
+    a: LE SSERAFIM plays Galaxy Arena, inside the Galaxy Macau resort in Cotai, on November 7 and 8, 2026. It is part of their second world tour, PUREFLOW.
   - q: How do you get to Galaxy Arena?
     a: Galaxy Arena is inside Galaxy Macau on the Cotai Strip. Visitors come in from Hong Kong by the Hong Kong–Zhuhai–Macao Bridge or by ferry to Taipa Ferry Terminal, or fly into Macau International Airport. Inside Macau, they use the Macau LRT Taipa Line, taxis and free resort shuttle buses.
   - q: Where do fans usually stay for the concert?
@@ -44,7 +44,7 @@ heroImage:
 
 ## Two nights on the Cotai Strip
 
-Macau got LE SSERAFIM twice. The South Korean girl group brought PUREFLOW, their second world tour, to Galaxy Arena on November 7 and 8, 2026. They were touring in support of their new album.
+Macau got LE SSERAFIM twice. The South Korean girl group brings PUREFLOW, their second world tour, to Galaxy Arena on November 7 and 8, 2026. They are touring in support of their new album.
 
 The five members are Kim Chaewon, Sakura, Huh Yunjin, Kazuha and Hong Eunchae. Their fans call themselves FEARNOT, and on a show weekend you can pick them out across Cotai by the merch bags and lightsticks. A second date in the same arena means two separate crowds. It also gives fans who couldn't get into one night a second chance.
 
@@ -95,7 +95,7 @@ Earlier in the day, the restored Taipa Houses-Museum gives you some old Macau be
 
 ## Making a weekend of it
 
-Two show dates on a Saturday and Sunday make the trip easy to plan. Fans who came for one night often spend the other day on the Macau peninsula.
+Two show dates on a Saturday and Sunday make the trip easy to plan. Fans who come for one night often spend the other day on the Macau peninsula.
 
 The Historic Centre of Macau is a UNESCO World Heritage Site. Its best-known landmarks are close together:
 

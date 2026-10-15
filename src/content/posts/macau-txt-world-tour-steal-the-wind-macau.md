@@ -1,6 +1,6 @@
 ---
 title: 'TXT World Tour STEAL THE WIND Macau: Dates, Tickets & Venue (Macau)'
-description: TXT World Tour STEAL THE WIND Macau ran November 20-22, 2026 at Galaxy Arena, the indoor venue inside the Galaxy Macau resort in Cotai, and tickets and dates come through the tour's official channels.
+description: TXT World Tour STEAL THE WIND Macau runs November 20-22, 2026 at Galaxy Arena, the indoor venue inside the Galaxy Macau resort in Cotai, and tickets and dates come through the tour's official channels.
 country: Macau
 region: Macau
 category: event
@@ -25,10 +25,10 @@ gallery: []
 tags:
   - macau
   - event
-quickAnswer: TXT World Tour STEAL THE WIND Macau ran November 20-22, 2026 at Galaxy Arena, the indoor venue inside the Galaxy Macau resort in Cotai, and tickets and dates come through the tour's official channels. Most fans reach the arena by ferry or bridge bus from Hong Kong and then take a resort shuttle or the LRT, and many stay overnight in Cotai or Taipa.
+quickAnswer: TXT World Tour STEAL THE WIND Macau runs November 20-22, 2026 at Galaxy Arena, the indoor venue inside the Galaxy Macau resort in Cotai, and tickets and dates come through the tour's official channels. Most fans reach the arena by ferry or bridge bus from Hong Kong and then take a resort shuttle or the LRT, and many stay overnight in Cotai or Taipa.
 faq:
   - q: When and where was TXT's STEAL THE WIND tour in Macau?
-    a: Tomorrow X Together played Galaxy Arena at the Galaxy Macau resort in Cotai on November 20, 21 and 22, 2026, as part of World Tour STEAL THE WIND.
+    a: Tomorrow X Together plays Galaxy Arena at the Galaxy Macau resort in Cotai on November 20, 21 and 22, 2026, as part of World Tour STEAL THE WIND.
   - q: How do you get to Galaxy Arena from Hong Kong?
     a: Fans usually cross by the Hong Kong-Zhuhai-Macao Bridge shuttle bus or take a high-speed ferry to Taipa Ferry Terminal. From there, Galaxy Macau's free resort shuttles or the Macau LRT Taipa Line reach Cotai.
   - q: Where is tour information for TXT posted?
@@ -43,7 +43,7 @@ draft: false
 
 ## Three nights in Cotai
 
-Tomorrow X Together took STEAL THE WIND to Macau for three nights. The dates were November 20, 21 and 22, 2026, all at Galaxy Arena. For a single city on a world tour, that is a long run. It reflects how many fans from Hong Kong, mainland China and across Southeast Asia can reach Macau in an afternoon.
+Tomorrow X Together take STEAL THE WIND to Macau for three nights. The dates are November 20, 21 and 22, 2026, all at Galaxy Arena. For a single city on a world tour, that is a long run. It reflects how many fans from Hong Kong, mainland China and across Southeast Asia can reach Macau in an afternoon.
 
 All five members are on this tour: Soobin, Yeonjun, Beomgyu, Taehyun and Hueningkai. TXT's label, BIGHIT MUSIC, posts tour notices through the group's Weverse community. That is where fans usually look for show-day rules and set details. This page does not invent a setlist or start times.
 

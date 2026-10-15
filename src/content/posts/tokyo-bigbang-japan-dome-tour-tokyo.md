@@ -1,6 +1,6 @@
 ---
 title: 'BIGBANG Japan Dome Tour - Tokyo: Dates, Tickets & Venue (Tokyo)'
-description: The BIGBANG Japan Dome Tour - Tokyo played three nights at Tokyo Dome in Bunkyo, Tokyo, on December 13-15, 2026, as part of the group's 2026 tour.
+description: The BIGBANG Japan Dome Tour - Tokyo plays three nights at Tokyo Dome in Bunkyo, Tokyo, on December 13-15, 2026, as part of the group's 2026 tour.
 country: Japan
 region: Tokyo
 category: event
@@ -16,7 +16,7 @@ eventFactsAsked: true
 tags:
   - tokyo
   - event
-quickAnswer: The BIGBANG Japan Dome Tour - Tokyo played three nights at Tokyo Dome in Bunkyo, Tokyo, on December 13-15, 2026, as part of the group's 2026 tour. Tickets for Japanese dome shows are usually allocated by lottery and tied to the buyer's name, with ID checks at the gate. The dome is a short walk from Suidobashi Station (JR Chuo-Sobu Line and Toei Mita Line) and Korakuen Station (Marunouchi and Namboku lines).
+quickAnswer: The BIGBANG Japan Dome Tour - Tokyo plays three nights at Tokyo Dome in Bunkyo, Tokyo, on December 13-15, 2026, as part of the group's 2026 tour. Tickets for Japanese dome shows are usually allocated by lottery and tied to the buyer's name, with ID checks at the gate. The dome is a short walk from Suidobashi Station (JR Chuo-Sobu Line and Toei Mita Line) and Korakuen Station (Marunouchi and Namboku lines).
 faq:
   - q: When and where did the BIGBANG Japan Dome Tour play in Tokyo?
     a: Three nights, December 13-15, 2026, at Tokyo Dome in Tokyo Dome City, Bunkyo ward, Tokyo.

@@ -1,9 +1,6 @@
 ---
 title: 'Grasshopper Three in Love Concert 2026: Dates, Tickets & Venue (Macau)'
-description: >-
-  Grasshopper Three in Love Concert 2026 took place at The Venetian Arena in
-  Cotai, Macau, on October 24-25, 2026, marking the Hong Kong dance-pop trio's
-  41st year together.
+description: Grasshopper Three in Love Concert 2026 takes place at The Venetian Arena in Cotai, Macau, on October 24-25, 2026, marking the Hong Kong dance-pop trio's 41st year together.
 country: Macau
 region: Macau
 category: event
@@ -16,58 +13,37 @@ eventPerformer:
   name: Grasshopper
   kind: group
 eventFactsAsked: true
-heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Legislative_Council_of_the_Macau_Special_Administrative_Region_05-02-2023.jpg/3840px-Legislative_Council_of_the_Macau_Special_Administrative_Region_05-02-2023.jpg'
-  credit: 'Photo: LN9267 / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Legislative_Council_of_the_Macau_Special_Administrative_Region_05-02-2023.jpg'
-  focus:
-    x: 50
-    y: 45
 gallery: []
 tags:
   - macau
   - event
-quickAnswer: >-
-  Grasshopper Three in Love Concert 2026 took place at The Venetian Arena in
-  Cotai, Macau, on October 24-25, 2026, marking the Hong Kong dance-pop trio's
-  41st year together. The arena sits inside The Venetian Macao resort on the
-  Cotai Strip. Most fans from Hong Kong cross by ferry or the Hong
-  Kong-Zhuhai-Macao Bridge and take a free resort shuttle bus to the door.
+quickAnswer: Grasshopper Three in Love Concert 2026 takes place at The Venetian Arena in Cotai, Macau, on October 24-25, 2026, marking the Hong Kong dance-pop trio's 41st year together. The arena sits inside The Venetian Macao resort on the Cotai Strip. Most fans from Hong Kong cross by ferry or the Hong Kong-Zhuhai-Macao Bridge and take a free resort shuttle bus to the door.
 faq:
   - q: When and where was the Grasshopper Three in Love Concert 2026?
-    a: >-
-      It ran over two nights, October 24 and 25, 2026, at The Venetian Arena
-      inside The Venetian Macao resort on the Cotai Strip, Macau.
+    a: It runs over two nights, October 24 and 25, 2026, at The Venetian Arena inside The Venetian Macao resort on the Cotai Strip, Macau.
   - q: How do people get to The Venetian Arena from Hong Kong?
-    a: >-
-      Most take the Cotai Water Jet ferry to Taipa Ferry Terminal or the shuttle
-      bus over the Hong Kong-Zhuhai-Macao Bridge. From either one, free Sands
-      resort shuttles run to The Venetian. The Light Rapid Transit's Cotai West
-      station is also a short walk away.
+    a: Most take the Cotai Water Jet ferry to Taipa Ferry Terminal or the shuttle bus over the Hong Kong-Zhuhai-Macao Bridge. From either one, free Sands resort shuttles run to The Venetian. The Light Rapid Transit's Cotai West station is also a short walk away.
   - q: What is the occasion behind the concert?
-    a: >-
-      It marked Grasshopper's 41st year together. The trio is Calvin Choy, Remus
-      Choy and Edmond So, the Hong Kong dance-pop group that rose in the 1980s
-      Canto-pop era.
+    a: It marks Grasshopper's 41st year together. The trio is Calvin Choy, Remus Choy and Edmond So, the Hong Kong dance-pop group that rose in the 1980s Canto-pop era.
   - q: Do people stay overnight in Macau for the show?
-    a: >-
-      Many do. Getting out after the show means long queues for shuttles and
-      taxis, so fans often book rooms in the linked Cotai resorts or nearby
-      Taipa.
+    a: Many do. Getting out after the show means long queues for shuttles and taxis, so fans often book rooms in the linked Cotai resorts or nearby Taipa.
   - q: What is there to do near the arena before the show?
-    a: >-
-      Inside the resort there are the Grand Canal Shoppes and their indoor
-      canals. Taipa Village, with Rua do Cunha's snack shops, is about fifteen
-      minutes away on foot, and the Taipa Houses-Museum is close by.
+    a: Inside the resort there are the Grand Canal Shoppes and their indoor canals. Taipa Village, with Rua do Cunha's snack shops, is about fifteen minutes away on foot, and the Taipa Houses-Museum is close by.
 aiGenerated: true
 draft: false
-heldReason: wrong-venue-photo
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/The_Venetian_Macao_09-03-2024.jpg/3840px-The_Venetian_Macao_09-03-2024.jpg
+  credit: 'Photo: LN9267 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:The_Venetian_Macao_09-03-2024.jpg
+  focus:
+    x: 50
+    'y': 45
 ---
 
 ## Forty-one years of Grasshopper
 
-This was an anniversary show. Grasshopper (草蜢) are Calvin Choy, Remus Choy and Edmond So, the trio that came up in mid-1980s Hong Kong and never really stopped. The Three in Love Concert 2026 marked their 41st year, played over two nights, October 24 and 25, 2026, at The Venetian Arena in Macau.
+This is an anniversary show. Grasshopper (草蜢) are Calvin Choy, Remus Choy and Edmond So, the trio that came up in mid-1980s Hong Kong and never really stopped. The Three in Love Concert 2026 marks their 41st year and runs over two nights, October 24 and 25, 2026, at The Venetian Arena in Macau.
 
 Their story is tied to Canto-pop's golden age. They started out dancing alongside Anita Mui before their own hits took over. Songs like 失戀 and 半點心 are karaoke staples across Hong Kong and Guangdong. The crowd at a Grasshopper show tends to know every word and every hand move, and many of them have done so since the cassette years.
 

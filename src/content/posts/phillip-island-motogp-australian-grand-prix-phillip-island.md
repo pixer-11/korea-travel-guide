@@ -1,6 +1,6 @@
 ---
 title: 'MotoGP Australian Grand Prix (Phillip Island): Dates, Tickets & Venue (Phillip Island)'
-description: The MotoGP Australian Grand Prix (Phillip Island) took place October 23-25, 2026 at the Phillip Island Grand Prix Circuit in Victoria, with tickets sold through the organiser's official site.
+description: The MotoGP Australian Grand Prix (Phillip Island) takes place October 23-25, 2026 at the Phillip Island Grand Prix Circuit in Victoria, with tickets sold through the organiser's official site.
 country: Australia
 region: Phillip Island
 category: event
@@ -29,12 +29,12 @@ gallery: []
 tags:
   - phillip island
   - event
-quickAnswer: The MotoGP Australian Grand Prix (Phillip Island) took place October 23-25, 2026 at the Phillip Island Grand Prix Circuit in Victoria, with tickets sold through the organiser's official site. It was MotoGP's final visit to the island before the race moves to Adelaide in 2027. The circuit is roughly a two-hour drive southeast of Melbourne, over the single bridge at San Remo.
+quickAnswer: The MotoGP Australian Grand Prix (Phillip Island) takes place October 23-25, 2026 at the Phillip Island Grand Prix Circuit in Victoria, with tickets sold through the organiser's official site. It is MotoGP's final visit to the island before the race moves to Adelaide in 2027. The circuit is roughly a two-hour drive southeast of Melbourne, over the single bridge at San Remo.
 faq:
   - q: When was the 2026 MotoGP Australian Grand Prix at Phillip Island?
-    a: It ran October 23-25, 2026 at the Phillip Island Grand Prix Circuit in Victoria. Friday was practice, Saturday had qualifying and the Sprint, and the full Grand Prix was on Sunday.
+    a: It runs October 23-25, 2026 at the Phillip Island Grand Prix Circuit in Victoria. Friday was practice, Saturday had qualifying and the Sprint, and the full Grand Prix was on Sunday.
   - q: Is MotoGP still held at Phillip Island?
-    a: No. The 2026 event was MotoGP's final visit to Phillip Island. The Australian Motorcycle Grand Prix moves to Adelaide from 2027.
+    a: No. The 2026 event is MotoGP's final visit to Phillip Island. The Australian Motorcycle Grand Prix moves to Adelaide from 2027.
   - q: How do you get to Phillip Island from Melbourne for the race?
     a: The island is about two hours' drive southeast of Melbourne, over the single bridge between San Remo and Newhaven. Many fans stay in Cowes or camp locally so they avoid that bridge, which gets very congested after Sunday's race.
   - q: Where are the best places to watch at Phillip Island?
@@ -49,7 +49,7 @@ draft: false
 
 The Phillip Island Grand Prix Circuit sits on a headland above Bass Strait. From the grass banks you watch bikes crest a rise with open water behind them. Nothing on the island stands between the circuit and the Southern Ocean, so the wind blows straight off the sea and runs right across the track.
 
-The 2026 Australian Motorcycle Grand Prix ran October 23-25. It was the last time MotoGP came here, because the event moves to Adelaide in 2027. That turned the weekend into a farewell to a circuit that riders have long rated among the best on the calendar.
+The 2026 Australian Motorcycle Grand Prix runs October 23-25. It was the last time MotoGP came here, because the event moves to Adelaide in 2027. That turned the weekend into a farewell to a circuit that riders have long rated among the best on the calendar.
 
 ## How the weekend runs
 

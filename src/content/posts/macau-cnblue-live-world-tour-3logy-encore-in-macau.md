@@ -1,6 +1,6 @@
 ---
 title: 'CNBLUE LIVE WORLD TOUR ''3LOGY'' ENCORE IN MACAU: Dates, Tickets & Venue (Macau)'
-description: CNBLUE LIVE WORLD TOUR '3LOGY' ENCORE IN MACAU took place at Studio City Macau in Cotai on November 14 and 15, 2026, as an encore stop of the band's 3LOGY world tour.
+description: CNBLUE LIVE WORLD TOUR '3LOGY' ENCORE IN MACAU takes place at Studio City Macau in Cotai on November 14 and 15, 2026, as an encore stop of the band's 3LOGY world tour.
 country: Macau
 region: Macau
 category: event
@@ -29,10 +29,10 @@ gallery: []
 tags:
   - macau
   - event
-quickAnswer: CNBLUE LIVE WORLD TOUR '3LOGY' ENCORE IN MACAU took place at Studio City Macau in Cotai on November 14 and 15, 2026, as an encore stop of the band's 3LOGY world tour. Studio City sits at the southern end of the Cotai Strip beside the Lotus Bridge border crossing, and most fans reached it on free resort shuttles or the Light Rapid Transit.
+quickAnswer: CNBLUE LIVE WORLD TOUR '3LOGY' ENCORE IN MACAU takes place at Studio City Macau in Cotai on November 14 and 15, 2026, as an encore stop of the band's 3LOGY world tour. Studio City sits at the southern end of the Cotai Strip beside the Lotus Bridge border crossing, and most fans reached it on free resort shuttles or the Light Rapid Transit.
 faq:
   - q: When and where was CNBLUE's 3LOGY encore in Macau?
-    a: It ran for two nights, November 14 and 15, 2026, at Studio City Macau on the Cotai Strip.
+    a: It runs for two nights, November 14 and 15, 2026, at Studio City Macau on the Cotai Strip.
   - q: How do you get to Studio City Macau from Hong Kong?
     a: Take a ferry to Taipa or the Outer Harbour, or a bus across the Hong Kong–Zhuhai–Macao Bridge. Then switch to one of the free resort shuttles to Studio City.
   - q: What is the closest public transport stop to Studio City?
@@ -47,7 +47,7 @@ draft: false
 
 ## Two nights of 3LOGY in Cotai
 
-CNBLUE brought the 3LOGY world tour back for an encore. The band played two nights, November 14 and 15, 2026, at Studio City Macau, the film-themed casino resort on the Cotai Strip.
+CNBLUE bring the 3LOGY world tour back for an encore. The band plays two nights, November 14 and 15, 2026, at Studio City Macau, the film-themed casino resort on the Cotai Strip.
 
 The band is the rock trio signed to FNC Entertainment: Jung Yong-hwa, Kang Min-hyuk and Lee Jung-shin. They debuted in 2010 and play their own instruments on stage, which sets them apart from most K-pop acts. Their fandom goes by BOICE.
 

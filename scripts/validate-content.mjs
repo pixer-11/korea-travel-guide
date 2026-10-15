@@ -30,6 +30,7 @@ import { clampBusynessHours } from '../src/lib/hours.mjs';
 import { words as paraWords } from '../src/lib/paragraphs.mjs';
 import { endsInAbbreviation } from '../src/lib/sentence-boundary.mjs';
 import { FUTURE_PROMISE, FABRICATED_AVAILABILITY, ADVICE_IMPERATIVE, VENUE_UNCONFIRMED, NAMED_DIRECTIONS } from '../src/lib/ended-event-claims.mjs';
+import { upcomingPastTense } from './lib/invented-outcomes.mjs';
 import { ratingClaimProblems } from './lib/prose-rating-sync.mjs';
 import { hasBodyDisclosure } from './lib/body-disclosure.mjs';
 
@@ -472,6 +473,17 @@ export function postProblems(p, { today = new Date().toISOString().slice(0, 10),
         }
       }
     }
+  }
+
+  // The mirror image: an event that has NOT happened, already reported as over
+  // — "Stray Kids … was held on December 5, 2026" seven weeks early. 17 live
+  // guides read that way on 2026-10-15; the writer now asks for one rewrite
+  // (lib/writer eventPastTense), and this lists whatever that left.
+  if (p.category === 'event' && p.eventEnd && isoDay(p.eventEnd) >= today) {
+    const year = isoDay(p.eventStart || p.eventEnd).slice(0, 4);
+    const text = [p.description, p.quickAnswer, ...(Array.isArray(p.faq) ? p.faq.map((x) => x?.a ?? '') : []), p.body].join('\n');
+    const hit = upcomingPastTense(text, year)[0];
+    if (hit) issues.push(`UPCOMING-EVENT-PAST-TENSE: ${p.f} — runs ${isoDay(p.eventEnd)} but says "${hit.sentence.replace(/\s+/g, ' ').slice(0, 120)}"`);
   }
 
   // An event guide that says it does not know the venue, and then routes the

@@ -139,3 +139,47 @@ export function ownEditionOutcomes(text, eventYear) {
   }
   return hits;
 }
+
+// ── upcoming events written in the past (2026-10-15) ──────────
+// The other half of the same mistake: a guide published BEFORE its event that
+// already reports it — "Stray Kids … was held on December 5, 2026", "BIGBANG
+// … played three nights at Tokyo Dome on December 13-15, 2026". The writer's
+// rule "every sentence must still be true the day after" was being met with
+// the past tense; 17 upcoming guides went live that way.
+//
+// Narrow on purpose, and self-contained rather than built on
+// ownEditionOutcomes (review, 10-15: that one reads only the first verb of a
+// sentence, and keeps sentences that also name other years):
+//   · only verbs that report the edition as a whole;
+//   · only in a sentence that names this edition's year and NO other year —
+//     "played Tokyo Dome in 2017 and returns on December 13, 2026" is history;
+//   · every such verb in the sentence, not just the first;
+//   · not after is/are/has/will… ("is played at the Tempodrom", "has played
+//     the UK"), and not a score ("each game played to 21");
+//   · line by line, so a markdown heading carrying the year cannot lend it to
+//     the sentence under it.
+const SCHEDULE_PAST = /\b(?:took place|was held|were held|was staged|were staged|ran|played|performed)\b/gi;
+const NOT_PAST = new RegExp(String.raw`\b(?:is|are|be|been|being|has|have|had|will|would|to|it's)\s+(?:\w+\s+)?$`, 'i');
+export function upcomingPastTense(text, eventYear) {
+  const year = String(eventYear || '');
+  if (!/^\d{4}$/.test(year)) return [];
+  const hits = [];
+  for (const line of String(text || '').split('\n')) {
+    if (/^\s*#/.test(line)) continue;
+    for (const raw of splitSentences(line)) {
+      const sentence = raw.replace(/\s+/g, ' ').trim();
+      const years = sentence.match(/\b(?:19|20)\d{2}\b/g) || [];
+      if (!years.includes(year) || years.some((y) => y !== year)) continue;
+      for (const m of sentence.matchAll(SCHEDULE_PAST)) {
+        if (NOT_PAST.test(sentence.slice(0, m.index))) continue;
+        if (/^played\s+to\s+\d/i.test(sentence.slice(m.index))) continue;
+        // "the men's and women's finals played on the same day": a participle
+        // after the thing played, not a report that it happened.
+        if (/\b(?:matches|games|finals|rounds|sets|races|heats|fixtures|songs|ties)\s+$/i.test(sentence.slice(0, m.index))) continue;
+        hits.push({ sentence, verb: m[0] });
+        break;
+      }
+    }
+  }
+  return hits;
+}

@@ -1,6 +1,6 @@
 ---
 title: '5 Seconds of Summer Jakarta: Dates, Tickets & Venue (Jakarta)'
-description: 5 Seconds of Summer Jakarta took place at Indonesia Arena on November 14, 2026, as part of the Australian band's Asia tour.
+description: 5 Seconds of Summer Jakarta takes place at Indonesia Arena on November 14, 2026, as part of the Australian band's Asia tour.
 country: Indonesia
 region: Jakarta
 category: event
@@ -27,10 +27,10 @@ gallery: []
 tags:
   - jakarta
   - event
-quickAnswer: 5 Seconds of Summer Jakarta took place at Indonesia Arena on November 14, 2026, as part of the Australian band's Asia tour. The arena sits inside the Gelora Bung Karno (GBK) sports complex in Senayan, Central Jakarta. The MRT to Istora Mandiri station is the most reliable way in, because the roads around GBK jam badly on show nights.
+quickAnswer: 5 Seconds of Summer Jakarta takes place at Indonesia Arena on November 14, 2026, as part of the Australian band's Asia tour. The arena sits inside the Gelora Bung Karno (GBK) sports complex in Senayan, Central Jakarta. The MRT to Istora Mandiri station is the most reliable way in, because the roads around GBK jam badly on show nights.
 faq:
   - q: When and where was 5 Seconds of Summer's Jakarta concert?
-    a: The band played Indonesia Arena on November 14, 2026, as part of their Asia tour. The arena is inside the Gelora Bung Karno (GBK) sports complex in Senayan, Central Jakarta.
+    a: The band plays Indonesia Arena on November 14, 2026, as part of their Asia tour. The arena is inside the Gelora Bung Karno (GBK) sports complex in Senayan, Central Jakarta.
   - q: What is the nearest MRT station to Indonesia Arena?
     a: Istora Mandiri station on the MRT Jakarta North–South line is the closest. Senayan station, one stop north, is also within walking distance. TransJakarta Corridor 1 buses stop at Gelora Bung Karno too.
   - q: How big is Indonesia Arena?
@@ -45,7 +45,7 @@ draft: false
 
 ## One arena, one night in Senayan
 
-Four Australians, one indoor bowl, one date. 5 Seconds of Summer brought their Asia tour to Jakarta on November 14, 2026, playing Indonesia Arena in the Gelora Bung Karno complex.
+Four Australians, one indoor bowl, one date. 5 Seconds of Summer bring their Asia tour to Jakarta on November 14, 2026, playing Indonesia Arena in the Gelora Bung Karno complex.
 
 The band is Luke Hemmings, Michael Clifford, Calum Hood and Ashton Irwin. They started as teenagers posting covers online and became one of the defining pop rock acts of the 2010s. "She Looks So Perfect", "Amnesia", "Youngblood" and "Teeth" are the songs most of the crowd here grew up with.
 

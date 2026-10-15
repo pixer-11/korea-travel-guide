@@ -1,6 +1,6 @@
 ---
 title: 'LE SSERAFIM PUREFLOW Tour: Dates, Tickets & Venue (Paris)'
-description: The LE SSERAFIM PUREFLOW Tour played Paris on October 21, 2026, at Accor Arena in the Bercy district of the 12th arrondissement.
+description: The LE SSERAFIM PUREFLOW Tour plays Paris on October 21, 2026, at Accor Arena in the Bercy district of the 12th arrondissement.
 country: France
 region: Paris
 category: event
@@ -32,10 +32,10 @@ gallery: []
 tags:
   - paris
   - event
-quickAnswer: The LE SSERAFIM PUREFLOW Tour played Paris on October 21, 2026, at Accor Arena in the Bercy district of the 12th arrondissement. It was the group's first concert in France and one of five European stops on their largest tour so far. The nearest metro is Bercy (Lines 6 and 14), right beside the arena.
+quickAnswer: The LE SSERAFIM PUREFLOW Tour plays Paris on October 21, 2026, at Accor Arena in the Bercy district of the 12th arrondissement. It was the group's first concert in France and one of five European stops on their largest tour so far. The nearest metro is Bercy (Lines 6 and 14), right beside the arena.
 faq:
   - q: When and where was LE SSERAFIM's Paris concert?
-    a: LE SSERAFIM played Accor Arena in Bercy, in the 12th arrondissement of Paris, on October 21, 2026, as part of the PUREFLOW world tour.
+    a: LE SSERAFIM plays Accor Arena in Bercy, in the 12th arrondissement of Paris, on October 21, 2026, as part of the PUREFLOW world tour.
   - q: Was this LE SSERAFIM's first concert in France?
     a: Yes. The Accor Arena date was the group's first concert in France and one of five European stops on the PUREFLOW tour.
   - q: What is the nearest metro to Accor Arena?
@@ -50,7 +50,7 @@ draft: false
 
 ## France's first LE SSERAFIM night
 
-This was a debut on French soil. On October 21, 2026, LE SSERAFIM brought their PUREFLOW world tour to Accor Arena, the group's first concert ever in France. Paris was one of five European dates on what is the biggest tour of their career.
+This was a debut on French soil. On October 21, 2026, LE SSERAFIM brought their PUREFLOW world tour to Accor Arena, the group's first concert ever in France. Paris is one of five European dates on what is the biggest tour of their career.
 
 The five members are Kim Chaewon, Sakura, Huh Yunjin, Kazuha and Hong Eunchae. They had been visiting Paris for fashion weeks and promotions for years before this show. For French FEARNOTs, as the fandom is called, this was the first full stage production at home rather than a trip to London or Amsterdam.
 

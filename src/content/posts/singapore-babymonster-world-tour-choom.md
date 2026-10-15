@@ -1,6 +1,6 @@
 ---
 title: 'BABYMONSTER World Tour [CHOOM]: Dates, Tickets & Venue (Singapore)'
-description: BABYMONSTER World Tour [CHOOM] played two nights in Singapore at the Singapore Indoor Stadium in Kallang on November 28-29, 2026.
+description: BABYMONSTER World Tour [CHOOM] plays two nights in Singapore at the Singapore Indoor Stadium in Kallang on November 28-29, 2026.
 country: Singapore
 region: Singapore
 category: event
@@ -16,10 +16,10 @@ eventFactsAsked: true
 tags:
   - singapore
   - event
-quickAnswer: BABYMONSTER World Tour [CHOOM] played two nights in Singapore at the Singapore Indoor Stadium in Kallang on November 28-29, 2026. The arena sits inside the Singapore Sports Hub, a short walk from Stadium MRT on the Circle Line. Show-night crowds mostly travel by train.
+quickAnswer: BABYMONSTER World Tour [CHOOM] plays two nights in Singapore at the Singapore Indoor Stadium in Kallang on November 28-29, 2026. The arena sits inside the Singapore Sports Hub, a short walk from Stadium MRT on the Circle Line. Show-night crowds mostly travel by train.
 faq:
   - q: When and where did BABYMONSTER World Tour [CHOOM] play Singapore?
-    a: The tour played two nights, November 28 and 29, 2026, at Singapore Indoor Stadium in Kallang, inside the Singapore Sports Hub.
+    a: The tour plays two nights, November 28 and 29, 2026, at Singapore Indoor Stadium in Kallang, inside the Singapore Sports Hub.
   - q: Which MRT station is closest to Singapore Indoor Stadium?
     a: Stadium MRT on the Circle Line (CC6) is the closest, a few minutes' walk away. Kallang MRT on the East-West Line (EW10) and Mountbatten MRT (CC7) are walkable alternatives, and many fans use them after the show to avoid the crowd at Stadium station.
   - q: Where were tickets and seat maps published?
@@ -44,7 +44,7 @@ heroImage:
 
 ## Two nights under the Kallang roof
 
-The tour's Singapore stop ran over two nights. Seven members of BABYMONSTER performed their World Tour [CHOOM] at Singapore Indoor Stadium on November 28 and 29, 2026. The venue holds roughly 12,000, so the back rows still feel like part of the room, unlike a stadium show.
+The tour's Singapore stop runs over two nights. Seven members of BABYMONSTER perform their World Tour [CHOOM] at Singapore Indoor Stadium on November 28 and 29, 2026. The venue holds roughly 12,000, so the back rows still feel like part of the room, unlike a stadium show.
 
 The building is easy to spot from the Kallang Basin. Kenzo Tange designed it, and it opened in 1989. Its pyramid-like roof slopes down toward the water. Inside, the seats rise steeply on all sides of the floor, and that steep rake is why sightlines from the upper tiers hold up for a K-pop production.
 
@@ -66,7 +66,7 @@ Their full debut came in late 2023, and the fandom goes by MONSTIEZ.
 
 ## Where dates and tickets live
 
-The essentials were set. The shows ran over two nights, November 28-29, 2026, at Singapore Indoor Stadium. The promoter's official channels and the stadium's own event listings carry the ticketing links and seat maps.
+The essentials are set. The shows run over two nights, November 28-29, 2026, at Singapore Indoor Stadium. The promoter's official channels and the stadium's own event listings carry the ticketing links and seat maps.
 
 Seating categories and prices sit with the ticketing platform, so you won't find any figures here. Two-night runs in this venue usually split demand. The second night often appeals to fans flying in from Malaysia or Indonesia, who want a buffer day on arrival.
 

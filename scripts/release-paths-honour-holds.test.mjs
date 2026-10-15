@@ -35,3 +35,11 @@ test('the pairing rule is imported, never copied', () => {
     assert.match(src(`./${f}`), /from '\.\/lib\/live-event-twins\.mjs'/, `${f} carries its own copy of the rule`);
   }
 });
+// 2026-10-15: release-photoless-events lifted a photo hold (wrong-venue-photo)
+// but left heldReason on the now-live post, and the daily validation reported
+// HELD-BUT-PUBLISHED. The two paths that publish over a PHOTO hold clear it.
+test('a path that lifts a photo hold clears heldReason', () => {
+  for (const f of ['release-photoless-events.mjs', 'backfill-photos-alt.mjs']) {
+    assert.match(src(`./${f}`), /delete [\w.]*heldReason/, `${f} publishes over a photo hold and leaves heldReason behind`);
+  }
+});

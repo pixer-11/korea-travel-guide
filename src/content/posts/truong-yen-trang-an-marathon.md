@@ -15,7 +15,7 @@ tags:
 quickAnswer: The Trang An Marathon is an international running race through the Trang An heritage landscape in Trường Yên, near Ninh Binh in northern Vietnam, held on November 15, 2026. The organiser publishes registration, ticket links and race-day details on its official site. Most runners base themselves in Ninh Binh city or the Tam Coc homestays, about two hours by road from Hanoi.
 faq:
   - q: When is the Trang An Marathon in 2026?
-    a: The 2026 Trang An Marathon took place on November 15, 2026, in Trường Yên, Ninh Binh province. The organiser publishes the dates, distances and start times on its official site.
+    a: The 2026 Trang An Marathon takes place on November 15, 2026, in Trường Yên, Ninh Binh province. The organiser publishes the dates, distances and start times on its official site.
   - q: Where are registration and tickets for the Trang An Marathon?
     a: The organiser publishes registration and ticket links on the official Trang An Marathon website, along with bib collection details and the race rules.
   - q: How do I get from Hanoi to the Trang An Marathon?
@@ -44,7 +44,7 @@ The Trang An Marathon is an international road race through this scenery, centre
 
 ## November 15, 2026: the date and the registration page
 
-The 2026 edition took place on November 15, 2026. The organiser publishes the race dates, venue, distances and ticket links on its official site. Registration details, start times and bib collection arrangements all live there too, so this guide doesn't repeat figures that could change.
+The 2026 edition takes place on November 15, 2026. The organiser publishes the race dates, venue, distances and ticket links on its official site. Registration details, start times and bib collection arrangements all live there too, so this guide doesn't repeat figures that could change.
 
 Mid-November falls in northern Vietnam's dry season. Mornings are generally cooler and less humid than the summer months, which is why autumn is the usual season for road racing in the north. Vietnamese road races also usually start around dawn, so runners finish before the midday sun.
 

@@ -1,6 +1,6 @@
 ---
 title: 'NCT 127 Neo City: The Redline: Dates, Tickets & Venue (Singapore)'
-description: 'NCT 127 Neo City: The Redline played Singapore on 18 October 2026 at the Singapore Indoor Stadium in Kallang, the stop on the group''s world tour.'
+description: 'NCT 127 Neo City: The Redline plays Singapore on 18 October 2026 at the Singapore Indoor Stadium in Kallang, the stop on the group''s world tour.'
 country: Singapore
 region: Singapore
 category: event
@@ -27,10 +27,10 @@ gallery: []
 tags:
   - singapore
   - event
-quickAnswer: 'NCT 127 Neo City: The Redline played Singapore on 18 October 2026 at the Singapore Indoor Stadium in Kallang, the stop on the group''s world tour. The arena sits a short covered walk from Stadium MRT on the Circle Line. Fans usually leave from Stadium or walk to Kallang station to skip the post-show crush.'
+quickAnswer: 'NCT 127 Neo City: The Redline plays Singapore on 18 October 2026 at the Singapore Indoor Stadium in Kallang, the stop on the group''s world tour. The arena sits a short covered walk from Stadium MRT on the Circle Line. Fans usually leave from Stadium or walk to Kallang station to skip the post-show crush.'
 faq:
   - q: 'When and where was NCT 127 Neo City: The Redline in Singapore?'
-    a: It was on 18 October 2026 at the Singapore Indoor Stadium in Kallang, part of the Singapore Sports Hub area.
+    a: It is on 18 October 2026 at the Singapore Indoor Stadium in Kallang, part of the Singapore Sports Hub area.
   - q: Which MRT station is nearest the Singapore Indoor Stadium?
     a: Stadium MRT (CC6) on the Circle Line, connected to the arena by covered walkways past Kallang Wave Mall. Kallang (EW10) and Mountbatten (CC7) are walkable alternatives after the show.
   - q: Where are the tour dates and ticket links listed?

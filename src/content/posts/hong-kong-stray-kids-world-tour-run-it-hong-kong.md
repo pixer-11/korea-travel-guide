@@ -1,6 +1,6 @@
 ---
 title: 'Stray Kids World Tour: RUN IT - Hong Kong: Dates, Tickets & Venue (Hong Kong)'
-description: 'Stray Kids World Tour: RUN IT - Hong Kong was held on December 5, 2026, a Saturday, at Kai Tak Stadium in Kowloon City, Hong Kong.'
+description: 'Stray Kids World Tour: RUN IT - Hong Kong is held on December 5, 2026, a Saturday, at Kai Tak Stadium in Kowloon City, Hong Kong.'
 country: Hong Kong
 region: Hong Kong
 category: event
@@ -27,10 +27,10 @@ gallery: []
 tags:
   - hong kong
   - event
-quickAnswer: 'Stray Kids World Tour: RUN IT - Hong Kong was held on December 5, 2026, a Saturday, at Kai Tak Stadium in Kowloon City, Hong Kong. Tickets for the 2026 show were sold by the tour''s Hong Kong promoter, and nobody needed a car: the Tuen Ma Line''s Kai Tak and Sung Wong Toi stations are both a short walk from the stadium.'
+quickAnswer: 'Stray Kids World Tour: RUN IT - Hong Kong is held on December 5, 2026, a Saturday, at Kai Tak Stadium in Kowloon City, Hong Kong. Tickets for the 2026 show are sold by the tour''s Hong Kong promoter, and nobody needs a car: the Tuen Ma Line''s Kai Tak and Sung Wong Toi stations are both a short walk from the stadium.'
 faq:
   - q: When and where was the Stray Kids RUN IT concert in Hong Kong?
-    a: It was held on Saturday, December 5, 2026, at Kai Tak Stadium in Kai Tak Sports Park, Kowloon City. The stadium holds roughly 50,000 people and has a retractable roof.
+    a: It is held on Saturday, December 5, 2026, at Kai Tak Stadium in Kai Tak Sports Park, Kowloon City. The stadium holds roughly 50,000 people and has a retractable roof.
   - q: What is the nearest MTR station to Kai Tak Stadium?
     a: Kai Tak Station on the Tuen Ma Line is the usual stop for the stadium. Sung Wong Toi Station, one stop away on the same line, is also within walking distance and is often less crowded after the show.
   - q: What is the weather like in Hong Kong in early December?
@@ -47,7 +47,7 @@ draft: false
 
 Kai Tak Stadium stands on the site of Hong Kong's old airport. For decades, jets came in low over Kowloon City's rooftops to land here. The airport closed in 1998, and the land now holds Kai Tak Sports Park. The stadium at its centre opened in 2025.
 
-On December 5, 2026, Stray Kids brought their "RUN IT" world tour to this bowl. It holds roughly 50,000 people under a retractable roof. For the eight-member JYP Entertainment group, it is the biggest venue in the city. For STAY, as the fandom calls itself, it meant a full stadium night instead of an arena show.
+On December 5, 2026, Stray Kids bring their "RUN IT" world tour to this bowl. It holds roughly 50,000 people under a retractable roof. For the eight-member JYP Entertainment group, it is the biggest venue in the city. For STAY, as the fandom calls itself, it meant a full stadium night instead of an arena show.
 
 ## The date and how tickets work
 

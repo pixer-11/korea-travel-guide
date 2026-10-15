@@ -15699,11 +15699,23 @@
   "reason": "patrol reject: Close-up of grasshopper insect, unrelated to event",
   "at": "2026-10-15T00:39:50.396Z"
  },
+ "macau-grasshopper-three-in-love-concert-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/The_Venetian_Macao_09-03-2024.jpg/3840px-The_Venetian_Macao_09-03-2024.jpg": {
+  "slug": "macau-grasshopper-three-in-love-concert-2026",
+  "verdict": "MATCH",
+  "reason": "hand-picked: The Venetian Macao, home of The Venetian Arena where the concert is held — Recognizable Macau skyline with Venetian and column statue",
+  "at": "2026-10-15T13:33:36.534Z"
+ },
  "macau-grasshopper-three-in-love-concert-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Grasshopper_Aug2009_Sydney.jpg/3840px-Grasshopper_Aug2009_Sydney.jpg": {
   "slug": "macau-grasshopper-three-in-love-concert-2026",
   "verdict": "MATCH",
   "reason": "event publish gate: Concert performers singing on stage with microphones",
   "at": "2026-10-15T00:16:30.156Z"
+ },
+ "macau-grasshopper-three-in-love-concert-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Legislative_Council_of_the_Macau_Special_Administrative_Region_05-02-2023.jpg/3840px-Legislative_Council_of_the_Macau_Special_Administrative_Region_05-02-2023.jpg": {
+  "slug": "macau-grasshopper-three-in-love-concert-2026",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: Macau Legislative Council building — unrelated to a concert at The Venetian Arena; filename only names the city",
+  "at": "2026-10-15T13:33:29.616Z"
  },
  "macau-peninsula-lin-fung-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Lin_Fung_Temple_Macau._Aug._2015._A.JPG/3840px-Lin_Fung_Temple_Macau._Aug._2015._A.JPG": {
   "slug": "macau-peninsula-lin-fung-temple",

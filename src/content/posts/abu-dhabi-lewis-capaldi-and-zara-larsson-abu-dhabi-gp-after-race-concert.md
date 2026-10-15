@@ -1,6 +1,6 @@
 ---
 title: 'Lewis Capaldi and Zara Larsson (Abu Dhabi GP after-race concert): Dates, Tickets & Venue (Abu Dhabi)'
-description: Lewis Capaldi and Zara Larsson (Abu Dhabi GP after-race concert) took place on December 3, 2026 at Etihad Park on Yas Island, Abu Dhabi, with each artist playing a separate set.
+description: Lewis Capaldi and Zara Larsson (Abu Dhabi GP after-race concert) takes place on December 3, 2026 at Etihad Park on Yas Island, Abu Dhabi, with each artist playing a separate set.
 country: United Arab Emirates
 region: Abu Dhabi
 category: event
@@ -32,10 +32,10 @@ gallery: []
 tags:
   - abu dhabi
   - event
-quickAnswer: Lewis Capaldi and Zara Larsson (Abu Dhabi GP after-race concert) took place on December 3, 2026 at Etihad Park on Yas Island, Abu Dhabi, with each artist playing a separate set. The night opened the Abu Dhabi Grand Prix 2026 after-race concert series. Concert access is sold through the Grand Prix ticketing run by Yas Marina Circuit.
+quickAnswer: Lewis Capaldi and Zara Larsson (Abu Dhabi GP after-race concert) takes place on December 3, 2026 at Etihad Park on Yas Island, Abu Dhabi, with each artist playing a separate set. The night opens the Abu Dhabi Grand Prix 2026 after-race concert series. Concert access is sold through the Grand Prix ticketing run by Yas Marina Circuit.
 faq:
   - q: When and where did Lewis Capaldi and Zara Larsson play in Abu Dhabi?
-    a: They played on December 3, 2026 at Etihad Park on Yas Island, next to Yas Marina Circuit. Each artist played a separate set, and the night opened the Abu Dhabi Grand Prix 2026 after-race concert series.
+    a: They play on December 3, 2026 at Etihad Park on Yas Island, next to Yas Marina Circuit. Each artist plays a separate set, and the night opens the Abu Dhabi Grand Prix 2026 after-race concert series.
   - q: How do tickets for the Abu Dhabi GP after-race concerts work?
     a: Concert access is sold through the official Abu Dhabi Grand Prix ticketing at Yas Marina Circuit. In past editions, Grand Prix tickets have included entry to the after-race concerts. Prices and ticket tiers are sold through that same official ticketing.
   - q: How do I get to Etihad Park?

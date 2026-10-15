@@ -1,6 +1,6 @@
 ---
 title: 'Andrea Bocelli: Yasalam Classics: Dates, Tickets & Venue (Abu Dhabi)'
-description: 'Andrea Bocelli: Yasalam Classics took place at Etihad Arena on Yas Island, Abu Dhabi, on December 2, 2026, as a stop on the tenor''s 30th Anniversary Romanza World Tour.'
+description: 'Andrea Bocelli: Yasalam Classics takes place at Etihad Arena on Yas Island, Abu Dhabi, on December 2, 2026, as a stop on the tenor''s 30th Anniversary Romanza World Tour.'
 country: United Arab Emirates
 region: Abu Dhabi
 category: event
@@ -21,12 +21,12 @@ eventFactsAsked: true
 tags:
   - abu dhabi
   - event
-quickAnswer: 'Andrea Bocelli: Yasalam Classics took place at Etihad Arena on Yas Island, Abu Dhabi, on December 2, 2026, as a stop on the tenor''s 30th Anniversary Romanza World Tour. The concert sits inside the Yasalam Classics series attached to Abu Dhabi Grand Prix week. Ticketing for Etihad Arena shows runs through the arena''s official channels, and Yas Island fills up fast that week.'
+quickAnswer: 'Andrea Bocelli: Yasalam Classics takes place at Etihad Arena on Yas Island, Abu Dhabi, on December 2, 2026, as a stop on the tenor''s 30th Anniversary Romanza World Tour. The concert sits inside the Yasalam Classics series attached to Abu Dhabi Grand Prix week. Ticketing for Etihad Arena shows runs through the arena''s official channels, and Yas Island fills up fast that week.'
 faq:
   - q: 'When and where was Andrea Bocelli: Yasalam Classics held?'
-    a: It took place on December 2, 2026, at Etihad Arena on the Yas Bay waterfront, Yas Island, Abu Dhabi. It was part of the Yasalam Classics series during Grand Prix week.
+    a: It takes place on December 2, 2026, at Etihad Arena on the Yas Bay waterfront, Yas Island, Abu Dhabi. It is part of the Yasalam Classics series during Grand Prix week.
   - q: Which tour was this concert part of?
-    a: It was a stop on Andrea Bocelli's 30th Anniversary Romanza World Tour. The tour marks thirty years since his 1996 album Romanza, which includes "Con te partirò".
+    a: It is a stop on Andrea Bocelli's 30th Anniversary Romanza World Tour. The tour marks thirty years since his 1996 album Romanza, which includes "Con te partirò".
   - q: How do people usually get to Etihad Arena?
     a: Most come by taxi, Careem or Uber. 'Yas Bay' is the easiest landmark to give a driver. The arena is a short drive from Zayed International Airport, a longer one from central Abu Dhabi, and well over an hour from Dubai.
   - q: Where do visitors stay during Grand Prix week?
@@ -49,7 +49,7 @@ heroImage:
 
 ## A tenor on the Yas Bay waterfront
 
-This is opera in a sports-and-concert arena. Etihad Arena is an indoor, air-conditioned venue on the Yas Bay waterfront. Its long, curving facade faces the water, with a promenade of restaurants running alongside. On December 2, 2026, Andrea Bocelli brought his 30th Anniversary Romanza World Tour to that stage.
+This is opera in a sports-and-concert arena. Etihad Arena is an indoor, air-conditioned venue on the Yas Bay waterfront. Its long, curving facade faces the water, with a promenade of restaurants running alongside. On December 2, 2026, Andrea Bocelli brings his 30th Anniversary Romanza World Tour to that stage.
 
 The booking sits in a deliberate slot. Yasalam Classics is part of the programme around Grand Prix week, when the island's attention swings between the racetrack and the concert halls. An evening of Italian tenor repertoire lands among a week built around engines.
 

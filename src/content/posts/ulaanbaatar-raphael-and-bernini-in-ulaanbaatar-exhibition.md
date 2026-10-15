@@ -1,6 +1,6 @@
 ---
 title: 'Raphael and Bernini in Ulaanbaatar Exhibition: Dates, Tickets & Venue (Ulaanbaatar)'
-description: Raphael and Bernini in Ulaanbaatar Exhibition ran from October 1 to November 1, 2026 at the Chinggis Khaan National Museum, within walking distance of Sükhbaatar Square in central Ulaanbaatar.
+description: Raphael and Bernini in Ulaanbaatar Exhibition runs from October 1 to November 1, 2026 at the Chinggis Khaan National Museum, within walking distance of Sükhbaatar Square in central Ulaanbaatar.
 country: Mongolia
 region: Ulaanbaatar
 category: event
@@ -25,16 +25,16 @@ gallery: []
 tags:
   - ulaanbaatar
   - event
-quickAnswer: 'Raphael and Bernini in Ulaanbaatar Exhibition ran from October 1 to November 1, 2026 at the Chinggis Khaan National Museum, within walking distance of Sükhbaatar Square in central Ulaanbaatar. Its official title was "The Wind of the Great Ocean Across the Steppe: Raphael and Bernini". It showed a portrait attributed to Raphael and a bronze Neptune and Triton by Bernini, both lent by Rome''s Galleria Borghese, in what was reported as the first time these works had been shown in Asia.'
+quickAnswer: 'Raphael and Bernini in Ulaanbaatar Exhibition runs from October 1 to November 1, 2026 at the Chinggis Khaan National Museum, within walking distance of Sükhbaatar Square in central Ulaanbaatar. Its official title is "The Wind of the Great Ocean Across the Steppe: Raphael and Bernini". It showed a portrait attributed to Raphael and a bronze Neptune and Triton by Bernini, both lent by Rome''s Galleria Borghese, in what was reported as the first time these works had been shown in Asia.'
 faq:
   - q: When and where was the Raphael and Bernini exhibition in Ulaanbaatar?
-    a: It ran from October 1 to November 1, 2026 at the Chinggis Khaan National Museum, a short walk from Sükhbaatar Square in central Ulaanbaatar.
+    a: It runs from October 1 to November 1, 2026 at the Chinggis Khaan National Museum, a short walk from Sükhbaatar Square in central Ulaanbaatar.
   - q: Which works were shown?
-    a: 'There were two: a portrait attributed to Raphael and a bronze Neptune and Triton by Bernini. Both were lent by the Galleria Borghese in Rome, and the show was reported as the first time they had been seen in Asia.'
+    a: 'There are two: a portrait attributed to Raphael and a bronze Neptune and Triton by Bernini. Both were lent by the Galleria Borghese in Rome, and the show was reported as the first time they had been seen in Asia.'
   - q: How do you get to the Chinggis Khaan National Museum?
     a: From the city centre, most people walk from the hotels around Sükhbaatar Square or take a taxi through an app such as UBCab. From Chinggis Khaan International Airport, about 50 km south, the drive takes around an hour, and longer in rush-hour traffic.
   - q: How long does a visit take?
-    a: The loan show itself was small, with two major works. Many visitors added the museum's permanent galleries on Mongolian history, which turns the visit into a half day.
+    a: The loan show itself is small, with two major works. Many visitors added the museum's permanent galleries on Mongolian history, which turns the visit into a half day.
   - q: What else is nearby?
     a: Sükhbaatar Square and the Government Palace with its Chinggis Khaan statue, the Choijin Lama Temple Museum, and the Zanabazar Museum of Fine Arts are all within walking distance. Gandan Monastery is a short taxi ride west.
 aiGenerated: true
@@ -43,7 +43,7 @@ draft: false
 
 Two pieces of Baroque and Renaissance Rome sit a few floors away from Xiongnu gold and Mongol Empire armour. That pairing is the point of this show. For one month, a portrait attributed to Raphael and a bronze Neptune and Triton by Bernini left the Galleria Borghese and travelled to the Chinggis Khaan National Museum in Ulaanbaatar.
 
-The exhibition ran from October 1 to November 1, 2026. It was reported as the first time these works had been shown anywhere in Asia.
+The exhibition runs from October 1 to November 1, 2026. It was reported as the first time these works had been shown anywhere in Asia.
 
 ## The wind off the ocean, explained
 
@@ -51,7 +51,7 @@ The title tells you how the show is framed. In full it is "The Wind of the Great
 
 The "great ocean" is the Mediterranean culture of Rome. Bernini's subject reinforces it: Neptune, god of the sea, with Triton, his son. Showing a sea god in one of the most landlocked capitals on earth is a deliberate contrast. Ulaanbaatar sits far from any coast, ringed by the hills of the Tuul River valley.
 
-## What came from the Galleria Borghese
+## What comes from the Galleria Borghese
 
 The Galleria Borghese is the villa museum in Rome's Villa Borghese gardens. It holds one of the world's great Bernini collections and a celebrated group of Raphael paintings. Loans from it are rare, so its name on the wall label carries weight.
 
@@ -64,7 +64,7 @@ With so few objects, visitors usually take their time with each one rather than 
 
 ## Dates, tickets and where the details live
 
-The dates as announced were October 1 to November 1, 2026. The venue was the Chinggis Khaan National Museum, the large modern museum that opened in central Ulaanbaatar in 2022.
+The dates as announced are October 1 to November 1, 2026. The venue was the Chinggis Khaan National Museum, the large modern museum that opened in central Ulaanbaatar in 2022.
 
 The museum publishes its opening times and admission information on its official channels, and the ticket desk inside the building shows the prices. This guide prints no prices or hours because none were supplied with the facts. A special loan exhibition like this one often had its own entry terms, separate from general admission.
 

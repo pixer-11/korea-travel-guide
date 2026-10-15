@@ -1,6 +1,6 @@
 ---
 title: 'Israel & New Breed - Til the Whole World Knows Tour: Dates, Tickets & Venue (Jakarta)'
-description: Israel & New Breed - Til the Whole World Knows Tour played Jakarta on 15 October 2026, with the date as announced, at The Kasablanka Hall in the Kota Kasablanka mall in Tebet, South Jakarta.
+description: Israel & New Breed - Til the Whole World Knows Tour plays Jakarta on 15 October 2026, with the date as announced, at The Kasablanka Hall in the Kota Kasablanka mall in Tebet, South Jakarta.
 country: Indonesia
 region: Jakarta
 category: event
@@ -16,10 +16,10 @@ eventFactsAsked: true
 tags:
   - jakarta
   - event
-quickAnswer: Israel & New Breed - Til the Whole World Knows Tour played Jakarta on 15 October 2026, with the date as announced, at The Kasablanka Hall in the Kota Kasablanka mall in Tebet, South Jakarta. The hall sits upstairs inside the mall, so concertgoers usually combine the show with dinner at Kota Kasablanka and use Gojek or Grab to beat the parking queues.
+quickAnswer: Israel & New Breed - Til the Whole World Knows Tour plays Jakarta on 15 October 2026, with the date as announced, at The Kasablanka Hall in the Kota Kasablanka mall in Tebet, South Jakarta. The hall sits upstairs inside the mall, so concertgoers usually combine the show with dinner at Kota Kasablanka and use Gojek or Grab to beat the parking queues.
 faq:
   - q: When and where did Israel & New Breed play in Jakarta?
-    a: The Til the Whole World Knows Tour 2026 played Jakarta on 15 October 2026, a Thursday, at The Kasablanka Hall inside the Kota Kasablanka mall in Tebet, South Jakarta.
+    a: The Til the Whole World Knows Tour 2026 plays Jakarta on 15 October 2026, a Thursday, at The Kasablanka Hall inside the Kota Kasablanka mall in Tebet, South Jakarta.
   - q: How do people usually get to The Kasablanka Hall?
     a: Most use Gojek or Grab, often a motorbike ojek to beat evening traffic on Jalan Casablanca. The nearest commuter rail is KRL Tebet Station, and most people take a short ride-hail from there. The mall also has its own car park, which backs up after big events.
   - q: What songs do fans expect to hear?
@@ -44,7 +44,7 @@ heroImage:
 
 ## A gospel tour lands in a South Jakarta mall
 
-The date is Thursday, 15 October 2026. Israel & New Breed brought their *Til the Whole World Knows Tour 2026* to The Kasablanka Hall in Jakarta. It was one stop on a tour built around the worship collective led by Israel Houghton.
+The date is Thursday, 15 October 2026. Israel & New Breed bring their *Til the Whole World Knows Tour 2026* to The Kasablanka Hall in Jakarta. It is one stop on a tour built around the worship collective led by Israel Houghton.
 
 For many Indonesian fans, this is music they have sung in church for two decades. Translated versions of New Breed songs turn up in youth services across the country. A live show here works less like a performance and more like a very large worship night.
 

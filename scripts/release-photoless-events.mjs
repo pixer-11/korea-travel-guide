@@ -103,6 +103,11 @@ for (const f of files) {
   released.push(`${slug}${strippedHero ? '  [wrong hero removed]' : ''} — ${String(d.title).slice(0, 52)}`);
   if (!DRY) {
     parsed.data.draft = false;
+    // The hold was about the photo (NON_PHOTO_HOLD and heldFinal skipped above),
+    // and the photo is gone: clear its marker, as backfill-photos-alt does when
+    // a new hero lifts one. Left behind, it reads as HELD-BUT-PUBLISHED in the
+    // daily validation (Grasshopper Macau, 2026-10-15).
+    delete parsed.data.heldReason;
     if (strippedHero) { delete parsed.data.heroImage; parsed.data.gallery = parsed.data.gallery ?? []; }
     await writeFile(join(POSTS, f), matter.stringify(parsed.content, parsed.data), 'utf8');
   }

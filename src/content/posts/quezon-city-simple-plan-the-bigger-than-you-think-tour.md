@@ -1,6 +1,6 @@
 ---
 title: 'Simple Plan: The Bigger Than You Think Tour: Dates, Tickets & Venue (Quezon City)'
-description: 'Simple Plan: The Bigger Than You Think Tour played its Quezon City date at the Araneta Coliseum in Cubao on Wednesday, November 25, 2026.'
+description: 'Simple Plan: The Bigger Than You Think Tour plays its Quezon City date at the Araneta Coliseum in Cubao on Wednesday, November 25, 2026.'
 country: Philippines
 region: Manila
 category: event
@@ -27,10 +27,10 @@ gallery: []
 tags:
   - quezon city
   - event
-quickAnswer: 'Simple Plan: The Bigger Than You Think Tour played its Quezon City date at the Araneta Coliseum in Cubao on Wednesday, November 25, 2026. Concerts at the coliseum are traditionally ticketed through TicketNet, the venue''s long-standing ticketing arm. The MRT-3 and LRT-2 Araneta Center–Cubao stations are a short walk from the dome.'
+quickAnswer: 'Simple Plan: The Bigger Than You Think Tour plays its Quezon City date at the Araneta Coliseum in Cubao on Wednesday, November 25, 2026. Concerts at the coliseum are traditionally ticketed through TicketNet, the venue''s long-standing ticketing arm. The MRT-3 and LRT-2 Araneta Center–Cubao stations are a short walk from the dome.'
 faq:
   - q: Where was Simple Plan's Bigger Than You Think Tour show in Quezon City?
-    a: At the Araneta Coliseum, also called the Big Dome, in Araneta City, Cubao, Quezon City. The show was on Wednesday, November 25, 2026.
+    a: At the Araneta Coliseum, also called the Big Dome, in Araneta City, Cubao, Quezon City. The show is on Wednesday, November 25, 2026.
   - q: How do I get to the Araneta Coliseum by train?
     a: Take the MRT-3 to Araneta Center–Cubao station on EDSA, or the LRT-2 to Araneta Center–Cubao station on Aurora Boulevard. From either station it's a short walk through Araneta City to the coliseum.
   - q: Who sells tickets for Araneta Coliseum concerts?

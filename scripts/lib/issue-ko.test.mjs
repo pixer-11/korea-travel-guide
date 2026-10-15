@@ -118,3 +118,18 @@ test('detail lines (↳), ⭐ headlines and "(es)" tallies are not findings', as
   assert.doesNotMatch(d, /대상 미상/);
   assert.equal(koDigest('⭐ 평점 기준선 감사 — 1974편 검사\n✓ 기준선 아래 공개글 없음.'), '');
 });
+
+test('보류-공개 검사: 안내문은 문제로 세지 않는다 (2026-10-15)', () => {
+  const out = '3 post(s) carry a hold; 1 of them are still published\n'
+    + 'HELD-BUT-PUBLISHED: a.md — heldReason: wrong-venue-photo, but draft is not true\n\n'
+    + '↳ A hold means the page must not be live. Set draft: true, or clear the reason deliberately.\n';
+  const d = koDigest(out);
+  assert.match(d, /^문제 1건/);
+  assert.doesNotMatch(d, /대상 미상/);
+});
+
+test('예정 행사 과거형: 글 이름과 한국어 설명으로 나간다 (2026-10-15)', () => {
+  const line = koIssueLine('UPCOMING-EVENT-PAST-TENSE: hong-kong-stray-kids.md — runs 2026-12-05 but says "It was held on December 5, 2026."');
+  assert.match(line, /hong-kong-stray-kids\.md/);
+  assert.match(line, /과거형/);
+});
