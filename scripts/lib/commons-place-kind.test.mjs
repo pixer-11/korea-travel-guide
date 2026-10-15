@@ -31,4 +31,8 @@ test('namesPhrase: 이름이 순서대로 붙어 있어야 그 장소다', () =>
   assert.equal(namesPhrase('UlaanbaatarPark.jpg', 'Ulaanbaatar Park'), true);
   assert.equal(namesPhrase('PeoplesHistoryMuseum.JPG', "People's History Museum"), true);
   assert.equal(namesPhrase('NationalGardenPark.jpg', 'Ulaanbaatar Park'), false);
+  // 이름 뒤에 다른 업종이 붙으면 그 업종이다(코덱스 지적 재현, 10-15)
+  assert.equal(namesPhrase('Grand Palace Hotel, Bangkok.jpg', 'Grand Palace'), false);
+  assert.equal(namesPhrase('Ulaanbaatar Park Hotel lobby.jpg', 'Ulaanbaatar Park'), false);
+  assert.equal(namesPhrase('Grand Palace gate, Bangkok.jpg', 'Grand Palace'), true);
 });

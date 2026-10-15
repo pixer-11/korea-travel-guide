@@ -421,10 +421,13 @@ export function declaredRegionInAddress(address, declared, current, { country = 
   const fold = (s) => ` ${String(s || '').normalize('NFD').replace(/\p{M}/gu, '').toLowerCase().replace(/[^\p{L}\p{N}]+/gu, ' ').trim()} `;
   const raw = fold(address);
   const has = (txt, r) => txt.includes(fold(r));
-  if (!current || has(raw, current)) return null;
+  if (!current) return null;
   // A region's name followed by a street word is a street ("Ulaanbaatar Rd" in
-  // another town), not the place's city — drop those before matching.
+  // another town), not the place's city — drop those before matching. The
+  // searched region too: "12 Ulaanbaatar Rd, Erdenet" searched under
+  // Ulaanbaatar is in Erdenet (Codex review, 10-15).
   const a = raw.replace(/ [\p{L}\p{N}]+ (?=(?:rd|road|st|street|ave|avenue|blvd|boulevard|ln|lane|gudamj|highway|hwy) )/gu, ' ');
+  if (has(a, current)) return null;
   const named = (declared || []).filter((r) => r !== current && r !== country && !settled.has(r) && has(a, r));
   return named.length === 1 ? named[0] : null;
 }

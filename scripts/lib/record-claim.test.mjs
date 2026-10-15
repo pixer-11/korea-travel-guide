@@ -50,3 +50,12 @@ test('the fact lines name what the auditor may treat as verified', () => {
   assert.ok(lines.includes('event venue: Central Park'));
   assert.deepEqual(recordFactLines({}), []);
 });
+
+test('해를 넘기는 행사: 연도까지 맞아야 기록과 일치(코덱스 지적 재현, 10-15)', () => {
+  const data = { title: 'Countdown Fest', category: 'event', eventStartDate: '2026-12-31', eventEndDate: '2027-01-01' };
+  assert.equal(recordBacksQuote('runs on January 1, 2026', data), false);
+  assert.equal(recordBacksQuote('runs on December 31, 2027', data), false);
+  assert.equal(recordBacksQuote('runs on January 1, 2027', data), true);
+  assert.equal(recordBacksQuote('runs on December 31, 2026', data), true);
+  assert.equal(recordBacksQuote('runs on December 31', data), true);
+});

@@ -299,6 +299,11 @@ const cases = [
     'In March, arrive at 7am for the plum blossoms.'), 1],
   ['TP-season-in-other-sentence-does-not-excuse (must FLAG)', post(KORAKUEN_OCT,
     'Hours change from March to September. Arrive at 7am for the quietest paths.'), 1],
+  // The range pins only its own clause (Codex review, 10-15).
+  ['TP-season-in-other-clause-does-not-excuse (must FLAG)', post(KORAKUEN_OCT,
+    'From March 20 to September 30, gates open at 7:30am; arrive at 7am for photos.'), 1],
+  ['FP-season-clause-time (must PASS)', post(KORAKUEN_OCT,
+    'From March 20 to September 30, gates open at 7:30am; it is quieter then.'), 0],
 ];
 
 let fail = 0;
@@ -309,3 +314,4 @@ for (const [name, raw, wantMin] of cases) {
   if (!ok) fail++;
 }
 process.exit(fail ? 1 : 0);
+

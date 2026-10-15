@@ -76,7 +76,9 @@ export function recordBacksQuote(quote, data) {
 
   const days = eventDays(data);
   if (!days.length) return false;
-  const onEventDay = (m, d) => days.some((x) => x.m === m && x.d === d);
+  // With a year, the whole date must be an event day: for Dec 31, 2026 to
+  // Jan 1, 2027, "January 1, 2026" names a day a year early (Codex, 10-15).
+  const onEventDay = (m, d, y) => days.some((x) => x.m === m && x.d === d && (!y || x.y === y));
   const years = new Set(days.map((x) => x.y));
   // "December 12", "December 12-13", "December 12, 2026" — month, day(s), year.
   const DATE = /\b(january|february|march|april|may|june|july|august|september|october|november|december)\s+(\d{1,2})(?:\s*[-–]\s*(\d{1,2}))?(?:,?\s+(\d{4}))?/gi;
@@ -84,7 +86,8 @@ export function recordBacksQuote(quote, data) {
   const rest = q.replace(DATE, (_, mon, d1, d2, y) => {
     any = true;
     const m = MONTHS.indexOf(mon.toLowerCase()) + 1;
-    if (!onEventDay(m, Number(d1)) || (d2 && !onEventDay(m, Number(d2))) || (y && !years.has(Number(y)))) ok = false;
+    const yr = y ? Number(y) : 0;
+    if (!onEventDay(m, Number(d1), yr) || (d2 && !onEventDay(m, Number(d2), yr))) ok = false;
     return ' ';
   }).replace(/\b(\d{4})\b/g, (y) => (years.has(Number(y)) ? ' ' : y));
   return any && ok && quiet(rest, data);

@@ -87,6 +87,12 @@ let DEFER_WRITER = false;
 // in the same run must not prepare the same landmark again (it would be paid
 // for and then refused as a twin when the first one lands).
 const RESERVED = new Set();
+// Place ids of those same in-flight drafts. USED_PLACE_IDS turns away a second
+// target for the venue as "used this run" — final, so that target was marked
+// done — and if the first draft then failed, neither was written and the second
+// had left the queue (Codex review, 10-15). A venue still in flight is not used
+// yet: it is a RESERVED skip, and a failed draft frees it.
+const RESERVED_PLACES = new Set();
 let LAST_SKIP_RESERVED = false; // a candidate was passed over only because it is RESERVED
 class PendingPost {
   constructor(args, finish) { this.args = args; this.finish = finish; }
@@ -522,6 +528,13 @@ async function main() {
   // GENERATE_BATCH=0 is the old path.
   let qi = 0;
   let halted = false;
+  // A stop while PREPARING (the Places search budget or a Places 429) needs no
+  // more Places calls to finish what is already prepared — the drafts the batch
+  // returned are paid for and only the writer and assembly remain. Before this,
+  // such a stop skipped every prepared guide (Codex review, 10-15); the old
+  // sequential loop had already published them. Only a quota error while
+  // FINISHING stops the finishing.
+  let finishHalted = false;
   // Read before preparing: "Top up the held-back posts" runs this script late in
   // the publish job, where a batch wait could push the commit past the runner's
   // limit — there it may be 0, and everything goes direct as before.
@@ -558,24 +571,29 @@ async function main() {
         : new Map();
       for (const [i, p] of pending.entries()) {
         reserved--;
-        if (halted) {
+        if (finishHalted) {
           // After a quota error nothing more is sent, as before: a draft the
           // batch returned could still need a corrective request.
           console.log(`  ⏳  "${p.target.query}" — quota stop; left in the queue`);
+          for (const k of p.post.reserved ?? []) RESERVED.delete(k);
+          if (p.post.placeId) { RESERVED_PLACES.delete(p.post.placeId); USED_PLACE_IDS.delete(p.post.placeId); }
           continue;
         }
         INBODY_PENDING = p.inbody; LAST_HERO_VERDICT = p.verdict;
         try {
           await land(p.target, await p.post.finish(got.get(String(i)) ?? null));
+          if (p.post.placeId) RESERVED_PLACES.delete(p.post.placeId);
         } catch (err) {
           // As before: a writer failure leaves the target queued for the next run,
           // and its venue is free again for any target that comes after.
           console.log(`  ⚠️  error on "${p.target.query}": ${err.message.slice(0, 120)}`);
           for (const k of p.post.reserved ?? []) RESERVED.delete(k);
+          if (p.post.placeId) { RESERVED_PLACES.delete(p.post.placeId); USED_PLACE_IDS.delete(p.post.placeId); }
           // And a quota error ends the run as it always did.
           if (/\b429\b|RESOURCE_EXHAUSTED|Quota exceeded/i.test(err.message)) {
             STOP_REASON = 'quota-429';
             halted = true;
+            finishHalted = true;
           }
         } finally {
           INBODY_PENDING = null; LAST_HERO_VERDICT = null;
@@ -1099,6 +1117,7 @@ async function buildLivePost(target) {
     if (!chk.ok) { dropped.push(`${cand.name}: ${(chk.reasons || ['place check']).join('/')}`); continue; }
     // English-site guard: a name with no Latin letters would make a Hangul slug.
     if (!/[a-z0-9]/i.test(cand.name || '')) { dropped.push(`${cand.name}: no Latin name`); continue; }
+    if (cand.id && RESERVED_PLACES.has(cand.id)) { LAST_SKIP_RESERVED = true; dropped.push(`${cand.name}: being written this run`); continue; }
     if (cand.id && USED_PLACE_IDS.has(cand.id)) { dropped.push(`${cand.name}: used this run`); continue; }
     // The region is the venue's, not the query's. A template search for "best
     // museum in Hac Sa Macau" answered with the Macao Museum on the peninsula,
@@ -1386,7 +1405,13 @@ async function buildLivePost(target) {
     { title, region: target.region, country: target.country, category: target.category, facts },
     ({ body, quickAnswer, faq }) => assemble(target, place, title, heroImage, gallery, { body, quickAnswer, faq }),
   );
-  if (out instanceof PendingPost) out.reserved = reservedKeys;
+  // Reserved only once the guide is fully prepared: a throw on the way here
+  // must not leave the venue held for the rest of the run (Codex, 10-15).
+  if (out instanceof PendingPost) {
+    out.reserved = reservedKeys;
+    out.placeId = place.id || null;
+    if (place.id) RESERVED_PLACES.add(place.id);
+  }
   return out;
 }
 

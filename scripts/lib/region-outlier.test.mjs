@@ -453,3 +453,10 @@ test('declaredRegionInAddress: a declared region the address names wins over the
   // whole words only
   assert.equal(declaredRegionInAddress('Murunbayar St, Dalanzadgad', ['Murun', 'Dalanzadgad'], 'Ulaanbaatar'), 'Dalanzadgad');
 });
+
+test('declaredRegionInAddress: a street named after the searched region does not keep it there (Codex, 10-15)', async () => {
+  const { declaredRegionInAddress } = await import('./region-outlier.mjs');
+  const declared = ['Ulaanbaatar', 'Erdenet', 'Murun'];
+  assert.equal(declaredRegionInAddress('12 Ulaanbaatar Rd, Erdenet, Mongolia', declared, 'Ulaanbaatar', { country: 'Mongolia' }), 'Erdenet');
+  assert.equal(declaredRegionInAddress('Peace Ave, Ulaanbaatar, Mongolia', declared, 'Ulaanbaatar', { country: 'Mongolia' }), null);
+});

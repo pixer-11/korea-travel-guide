@@ -211,12 +211,19 @@ export function placeKindOnly(subject, region = '') {
   const words = nameWords(subject);
   return words.length > 0 && words.every((w) => reg.has(w) || PLACE_KIND.has(w));
 }
+// The phrase followed by another kind of business is that business: "Grand
+// Palace Hotel" is not the Grand Palace (Codex review, 10-15).
+const OTHER_VENUE_AFTER = new Set([
+  'hotel', 'hostel', 'resort', 'inn', 'apartment', 'residence', 'condo', 'villa',
+  'station', 'metro', 'mrt', 'bt', 'mall', 'restaurant', 'cafe', 'bar', 'pub',
+  'hospital', 'school', 'university', 'office', 'clinic', 'bank', 'shop', 'store',
+].map(stem));
 export function namesPhrase(title, subject) {
   const want = nameWords(subject);
   const have = nameWords(title);
   if (!want.length) return false;
   for (let i = 0; i + want.length <= have.length; i++) {
-    if (want.every((w, j) => have[i + j] === w)) return true;
+    if (want.every((w, j) => have[i + j] === w) && !OTHER_VENUE_AFTER.has(have[i + want.length])) return true;
   }
   return false;
 }

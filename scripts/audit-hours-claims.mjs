@@ -137,7 +137,14 @@ export function hoursProblems(raw) {
       const sStart = Math.max(prose.lastIndexOf('.', m.index), prose.lastIndexOf('\n', m.index)) + 1;
       const sEndRaw = prose.slice(m.index).search(/[.\n]/);
       const sentence = prose.slice(sStart, sEndRaw < 0 ? prose.length : m.index + sEndRaw);
-      if (SEASON_RANGE.test(sentence)) continue;
+      // Only the clause the time sits in: "From March to September, gates open
+      // at 7am; arrive at 6am for photos" pins 7am, not the 6am advice after
+      // the semicolon (Codex review, 10-15).
+      const at = m.index - sStart;
+      const cStart = sentence.lastIndexOf(';', at) + 1;
+      const cEndRaw = sentence.indexOf(';', at);
+      const clause = sentence.slice(cStart, cEndRaw < 0 ? sentence.length : cEndRaw);
+      if (SEASON_RANGE.test(clause)) continue;
       seen.add(min);
       const ok = open.some((p) => inAnyRange(min, p.ranges));
       if (!ok) found.push(`prose says ${m[0]}, outside every day's hours (${lines[0]} … )`);
