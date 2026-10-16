@@ -30,14 +30,6 @@ faq:
     a: Walk the Xuan Huong Lake loop to the Da Lat Flower Park, eat at the night market around Da Lat Market, and visit Da Lat Cathedral, Domaine de Marie or Crazy House. The flower-growing villages and Tuyen Lam Lake are just outside the centre.
 aiGenerated: true
 draft: false
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Da_Lat_Flower_Festival_2012_1.JPG/3840px-Da_Lat_Flower_Festival_2012_1.JPG
-  credit: 'Photo: Violetbonmua / Wikimedia Commons (Public domain)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Da_Lat_Flower_Festival_2012_1.JPG
-  focus:
-    x: 50
-    'y': 35
 ---
 
 ## Twelve days of flowers on the plateau

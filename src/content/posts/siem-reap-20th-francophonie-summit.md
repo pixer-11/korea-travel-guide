@@ -29,14 +29,6 @@ faq:
     a: Yes, the temples are a separate attraction. November is peak season, though, and road closures for convoys can slow transfers. The Angkor Pass is sold at the official Angkor Enterprise ticket centre.
 aiGenerated: true
 draft: false
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Au_village_de_la_francophonie_by_ArmAg_%2818%29.jpg/3840px-Au_village_de_la_francophonie_by_ArmAg_%2818%29.jpg
-  credit: 'Photo: Armineaghayan / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Au_village_de_la_francophonie_by_ArmAg_(18).jpg
-  focus:
-    x: 50
-    'y': 40
 ---
 
 ## A summit, not a festival
