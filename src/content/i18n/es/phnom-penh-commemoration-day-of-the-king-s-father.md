@@ -2,79 +2,79 @@
 lang: es
 slug: phnom-penh-commemoration-day-of-the-king-s-father
 srcHash: 'a52be380ad12'
-title: 'Día de Conmemoración del Rey Padre: fechas, entradas y lugar (Phnom Penh)'
-description: En 2026, Phnom Penh celebra el Día de Conmemoración del Rey Padre el 15 de octubre.
-quickAnswer: En 2026, Phnom Penh celebra el Día de Conmemoración del Rey Padre el 15 de octubre. Esta fiesta nacional rinde homenaje al difunto Rey Padre Norodom Sihanouk. No se necesitan entradas. Las ceremonias tienen lugar ante su estatua, junto al Monumento a la Independencia, y en los recintos reales a orillas del río, donde el público acude libremente a presentarle sus respetos.
+title: 'Día de Conmemoración del Rey Padre: fechas, entradas y lugar (Nom Pen)'
+description: El Día de Conmemoración del Rey Padre tenía como fecha el 15 de octubre de 2026 en Nom Pen.
+quickAnswer: El 15 de octubre de 2026 era la fecha del Día de Conmemoración del Rey Padre en Nom Pen (Phnom Penh). Esta fiesta nacional rinde homenaje al difunto rey padre Norodom Sihanouk. No se necesitaba entrada. Las ceremonias tenían lugar en torno a su estatua, junto al Monumento a la Independencia, y en los recintos reales a orillas del río, donde el público podía presentar sus respetos libremente.
 faq:
-  - q: ¿Cuándo es el Día de Conmemoración del Rey Padre en 2026?
-    a: Se celebra el 15 de octubre de 2026, aniversario de la muerte del Rey Padre Norodom Sihanouk, fallecido en 2012. Es fiesta nacional en toda Camboya.
-  - q: ¿Hace falta entrada para asistir?
-    a: No. Se trata de una jornada pública de recuerdo y no de un evento con entrada. Cuando termina la ceremonia oficial, el público se reúne libremente ante la estatua del Rey Padre, situada junto al Monumento a la Independencia.
-  - q: ¿Qué ropa conviene llevar?
-    a: Quienes acuden a guardar luto suelen vestir de blanco o de negro y llevan los hombros y las rodillas cubiertos. Esa misma norma de vestimenta rige en el Palacio Real, en la Pagoda de Plata y en las pagodas de la ciudad.
-  - q: ¿Abren ese día las tiendas y los lugares de interés?
-    a: Los bancos, las oficinas públicas y los colegios cierran. Muchos mercados, restaurantes y cafeterías funcionan con normalidad. En los días de ceremonia, el Palacio Real fija su propio régimen de acceso, que se anuncia en su taquilla.
-  - q: ¿Qué más hay cerca?
-    a: El parque Wat Botum, el Palacio Real y la Pagoda de Plata, el Museo Nacional de Camboya y el paseo fluvial de Sisowath Quay quedan a poca distancia de la estatua, ya sea a pie o en un breve trayecto en tuk-tuk.
+  - q: ¿Qué día era el Día de Conmemoración del Rey Padre en 2026?
+    a: Era el 15 de octubre de 2026, aniversario de la muerte del rey padre Norodom Sihanouk en 2012. Es festivo nacional en toda Camboya.
+  - q: ¿Hacía falta entrada para asistir?
+    a: No. Se trataba de una jornada pública de recuerdo y no de un evento con entrada. Al terminar la ceremonia oficial, el público se reunía libremente ante la estatua del Rey Padre, junto al Monumento a la Independencia.
+  - q: ¿Qué ropa se llevaba?
+    a: La mayoría de quienes acudían a guardar luto vestían de blanco o de negro y llevaban hombros y rodillas cubiertos. Es también la norma de vestimenta en el Palacio Real, en la Pagoda de Plata y en las pagodas de la ciudad.
+  - q: ¿Abrían las tiendas y los lugares de interés ese día?
+    a: Bancos, oficinas públicas y colegios cerraban. Muchos mercados, restaurantes y cafés funcionaban con normalidad. En los días de ceremonia, el Palacio Real fijaba sus propias condiciones de acceso, que se anunciaban en su taquilla.
+  - q: ¿Qué más había cerca?
+    a: El parque Wat Botum, el Palacio Real y la Pagoda de Plata, el Museo Nacional de Camboya y el paseo fluvial del muelle Sisowath quedan a poca distancia de la estatua, ya sea a pie o tras un breve trayecto en tuk-tuk.
 ---
 
 ## Un rey de bronce bajo una aguja dorada
 
-Todo gira en torno a una estatua. Se alza justo al este del Monumento a la Independencia, en la amplia franja de parque que recorre el bulevar Sihanouk. Allí, bajo un pabellón alto y puntiagudo, se yergue la figura en bronce de Norodom Sihanouk. El diseño del pabellón se inspira en las agujas de los templos que salpican toda la ciudad. Cada 15 de octubre, Phnom Penh acude a este lugar para recordarlo.
+Todo gira en torno a una estatua. Al este del Monumento a la Independencia se extiende a lo largo del bulevar Sihanouk una amplia franja de parque. Allí se alza la figura de bronce de Norodom Sihanouk, cobijada por un pabellón alto y puntiagudo cuyo diseño se inspira en las agujas de los templos que salpican toda la ciudad. Este era el lugar donde Nom Pen acudía a recordarlo cada 15 de octubre.
 
-La fecha coincide con el aniversario de su muerte, ocurrida en Pekín el 15 de octubre de 2012. Los camboyanos suelen llamarlo *Samdech Euv*, es decir, «el Rey Padre». Ese día el nombre se oye sin cesar en la televisión estatal, se lee en los periódicos y resuena al pie de la estatua.
+La jornada recuerda su fallecimiento en Pekín el 15 de octubre de 2012. Los camboyanos suelen llamarlo *Samdech Euv*, «el Rey Padre». En esa fecha, el nombre se oía sin cesar en la televisión estatal, en los periódicos y al pie de la estatua.
 
 ## El sentido de la jornada
 
-Sihanouk fue la gran figura de la Camboya moderna. En 1953 condujo al país a la independencia de Francia, logro que simboliza el Monumento a la Independencia, terminado en 1958. Fue rey, príncipe, jefe de Estado y de nuevo rey, hasta que en 2004 abdicó en favor de su hijo, el rey Norodom Sihamoni.
+Sihanouk fue la figura clave de la Camboya moderna. En 1953 condujo al país a la independencia de Francia, un logro que simboliza el Monumento a la Independencia, terminado en 1958. Fue rey, príncipe, jefe de Estado y de nuevo rey. En 2004 abdicó en favor de su hijo, el rey Norodom Sihamoni.
 
-Más que una fiesta, la conmemoración es un acto solemne. Esto es lo que cabe esperar:
+Era una conmemoración solemne, sin aire festivo. Estos eran sus elementos habituales:
 
-- Monjes budistas que entonan cánticos y reciben ofrendas
+- Monjes budistas que entonaban cánticos y recibían ofrendas
 - Coronas y ofrendas florales depositadas por las autoridades
 - Retratos enmarcados del Rey Padre, a menudo cubiertos con telas blancas
-- Incienso y flores de loto que dejan los visitantes de a pie
+- Incienso y flores de loto que dejaban los visitantes de a pie
 
-Al tratarse de una fiesta nacional, cierran los bancos, las oficinas públicas y los colegios. Muchos mercados, cafeterías y restaurantes, en cambio, siguen abiertos.
+Bancos, oficinas públicas y colegios cerraban por la fiesta nacional, mientras que muchos mercados, cafés y restaurantes seguían abiertos.
 
-## Dónde se celebran las ceremonias
+## Dónde se celebraban las ceremonias
 
-No existe un recinto único con entrada. Los actos oficiales, encabezados por los ministerios y la casa real, se desarrollan en el centro de Phnom Penh, en la zona comprendida entre el Monumento a la Independencia y el Palacio Real.
+No había un único recinto con entrada. Los ministerios y la Casa Real presidían el homenaje oficial en el centro de Nom Pen, en la zona comprendida entre el Monumento a la Independencia y el Palacio Real.
 
-- **Estatua del Rey Padre Norodom Sihanouk**: se encuentra al este del Monumento a la Independencia, en el cruce de los bulevares Norodom y Sihanouk. Es el principal punto de reunión del público.
+- **Estatua del Rey Padre Norodom Sihanouk**: se encuentra al este del Monumento a la Independencia, en el cruce de los bulevares Norodom y Sihanouk. Era el principal punto de reunión del público.
 - **Palacio Real y Pagoda de Plata**: están en el bulevar Sothearos, frente al río. En el recinto de la Pagoda de Plata se levantan las estupas reales.
-- **Wat Ounalom** y otras pagodas ribereñas: cada una organiza sus propias ceremonias de méritos en honor del Rey Padre.
+- **Wat Ounalom**: esta y otras pagodas ribereñas celebraban sus propios ritos para acumular méritos en nombre del Rey Padre.
 
-En los días de ceremonia real, el Palacio Real establece su propio régimen de visitas. Las condiciones vigentes se anuncian en la taquilla situada a la entrada.
+En los días de ceremonia real, el Palacio Real fijaba sus propias condiciones de acceso para los visitantes, que se anunciaban en la taquilla de la entrada.
 
-## Cómo presentar sus respetos ante la estatua
+## El homenaje ante la estatua
 
-Conviene tratar la estatua como un santuario, que es como la ven los camboyanos.
+La gente del lugar trataba la estatua como un santuario y se acercaba a ella con ese mismo respeto.
 
-Lo habitual es acudir vestido de blanco o de negro, los colores del luto en Camboya, y con los hombros y las rodillas cubiertos. En los márgenes del parque suele haber vendedores de flores e incienso. Los visitantes encienden las varillas, las sostienen a la altura del pecho, se inclinan tres veces y las clavan en las bandejas de arena o en los soportes. Al pie de la estatua se depositan capullos de loto y guirnaldas de jazmín.
+Se solía acudir vestido de blanco o de negro, los colores del luto en Camboya, y con hombros y rodillas cubiertos. En los bordes del parque era habitual encontrar vendedores de flores e incienso. Los visitantes encendían las varillas y las sostenían a la altura del pecho. Después se inclinaban tres veces antes de clavarlas en las bandejas de arena o en los soportes. Los capullos de loto y las guirnaldas de jazmín se dejaban en la base.
 
-Algunas pautas importantes:
+Algunas costumbres tenían especial importancia:
 
-- Cerca de la estatua, el saludo cortés y el gesto de respeto es el *sampeah*, que consiste en juntar las palmas de las manos a la altura del pecho.
-- Se pueden hacer fotos siempre que se guarde una distancia respetuosa. Posar en actitud desenfadada ante la imagen del Rey Padre causa muy mala impresión.
-- Durante la ceremonia oficial, el entorno de la estatua suele acordonarse para las autoridades. Por lo general, el público se congrega cuando concluye la parte protocolaria.
-- En cualquier pagoda hay que descalzarse a la entrada del templo. Las mujeres no tocan a los monjes ni les entregan nada en mano.
+- El *sampeah*, que consiste en juntar las palmas de las manos a la altura del pecho, era el saludo cortés y el gesto de respeto junto a la estatua.
+- Las fotos se aceptaban si se tomaban a una distancia respetuosa. En cambio, posar en tono jocoso ante la imagen del Rey Padre causaba muy mala impresión.
+- Durante la ceremonia oficial se solía acordonar el entorno de la estatua para las autoridades. Por lo general, el público se congregaba una vez concluido el acto protocolario.
+- En todas las pagodas, el calzado se deja en la puerta del templo. Las mujeres no tocan a los monjes ni les entregan nada directamente.
 
-## Cómo desplazarse ese día
+## Desplazarse durante el festivo
 
-En los días festivos, los habituales atascos de la ciudad se reducen bastante. La excepción son las calles que rodean el monumento mientras dura la ceremonia oficial. Los visitantes suelen moverse en tuk-tuk o en *remork*, reservados a través de PassApp o Grab, dos aplicaciones que funcionan en todo Phnom Penh. Los conductores dejan a los pasajeros en las calles laterales y no junto al cordón policial.
+En los días festivos, la mayor parte de los atascos de la ciudad desaparecía. La excepción eran las calles que rodean el monumento mientras duraba la ceremonia oficial. Los visitantes solían moverse en tuk-tuk o *remork*, reservados mediante PassApp o Grab, dos aplicaciones que funcionan en todo Nom Pen. Los conductores dejaban a los pasajeros en las calles laterales, lejos del cordón policial.
 
-Desde la ribera se tarda unos 20 minutos en llegar a pie al monumento por el bulevar Sihanouk. El camino bordea la franja de parque donde las familias se sientan al caer la tarde. En los puestos callejeros y con los conductores de tuk-tuk que no trabajan con aplicación se paga en efectivo, en rieles o en dólares estadounidenses.
+Desde la ribera se llega al monumento en unos 20 minutos a pie, bajando por el bulevar Sihanouk. El paseo atraviesa la franja de parque donde las familias se sientan al caer la tarde. En los puestos callejeros, y con los conductores de tuk-tuk que no trabajan con aplicación, se pagaba normalmente en efectivo, en rieles o en dólares estadounidenses.
 
-La fecha cae al final de la estación de lluvias. En octubre son frecuentes los aguaceros por la tarde, así que la mayoría de la gente prefiere pasear por la mañana.
+La fecha coincidía con el final de la estación de lluvias. En octubre son frecuentes los aguaceros por la tarde, así que casi todo el mundo paseaba por la mañana.
 
-## Qué más ver en los alrededores
+## Otros lugares cercanos para completar la jornada
 
-La conmemoración tiene lugar en pleno casco histórico, y muchos visitantes la combinan con estas visitas:
+La conmemoración se desarrollaba en pleno casco histórico, y muchos visitantes la combinaban con estas visitas:
 
-- **Monumento a la Independencia**: torre de estilo angkoriano con forma de flor de loto que muchas noches se ilumina con los colores nacionales.
-- **Parque Wat Botum**: amplio espacio verde situado justo al norte, donde se celebró en 2013 la ceremonia de cremación de Sihanouk.
-- **Museo Nacional de Camboya**: este edificio de color rojo terracota, contiguo al Palacio Real, alberga escultura jemer del periodo de Angkor. Como su horario varía, lo mejor es consultarlo en la web del propio museo.
-- **Sisowath Quay**: paseo fluvial frente a la confluencia de los ríos Tonlé Sap y Mekong. Al atardecer se llena de monjes, familias y corredores.
+- **Monumento a la Independencia**: esta torre de estilo angkoriano con forma de loto se ilumina muchas noches con los colores nacionales.
+- **Parque Wat Botum**: esta extensa zona verde, situada justo al norte, acogió en 2013 la ceremonia de cremación de Sihanouk.
+- **Museo Nacional de Camboya**: este edificio de color rojo terracota, contiguo al Palacio Real, alberga escultura jemer del periodo de Angkor. Su horario variaba, y la información más fiable era la de su propia web.
+- **Muelle Sisowath (Sisowath Quay)**: este paseo fluvial da a la confluencia de los ríos Tonlé Sap y Mekong. Al anochecer se llena de monjes, familias y corredores.
 
-Con media jornada hay tiempo de sobra para ver la estatua, recorrer las pagodas de la ribera y visitar un museo. El Gobierno camboyano fija cada año por decreto real las fechas oficiales de las fiestas nacionales.
+Medio día bastaba de sobra para ver la estatua, recorrer las pagodas de la ribera y visitar un museo. El Gobierno camboyano fija cada año por decreto real las fechas oficiales de las fiestas nacionales.

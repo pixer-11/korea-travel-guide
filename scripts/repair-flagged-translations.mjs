@@ -113,6 +113,10 @@ for (let i = 0; i < targets.length; i += BATCH) {
     if (run.status !== 0) {
       translatorFailures++;
       console.log(`  ⚠ translate-posts exited ${run.status}${run.signal ? ` (${run.signal})` : ''} — the files below are judged on their contents, but the translator reported a failure`);
+      // Say WHY. The output was read for its summary line and dropped, so three
+      // failed attempts in the 10-16 publish left no reason in the log at all.
+      const why = [run.stdout, run.stderr].join('\n').split('\n').filter((l) => /⚠️|Error|still reads|failed|refus/i.test(l)).slice(-3);
+      for (const l of why) console.log(`     ${l.trim().slice(0, 240)}`);
     }
     if (batch.every((j) => existsSync(j.file))) break;
     if (attempt < 3) console.log(`  ↻ batch incomplete, running the translator again (${attempt + 1}/3)`);

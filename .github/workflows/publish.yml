@@ -752,7 +752,7 @@ jobs:
           TENSE_KEYS=$(node scripts/audit-ended-event-tense-i18n.mjs --list 2>/dev/null | grep -E '^ENDED-EVENT-I18N-TENSE: [a-z]{2}/' | awk '{print $2}' | tr '\n' ' ' || true)
           if [ -n "$TENSE_KEYS" ]; then
             echo "ended-event tense: re-translating $(echo $TENSE_KEYS | wc -w) translation(s)"
-            KEYS="$TENSE_KEYS" LIMIT=24 BATCH=8 node scripts/repair-flagged-translations.mjs 2>&1 | tail -6 || true
+            KEYS="$TENSE_KEYS" LIMIT=24 BATCH=8 node scripts/repair-flagged-translations.mjs 2>&1 | tail -15 || true
           fi
           # An English word standing where a CJK word belongs — 観光 coming back
           # as "observation". The census for this runs further down and has since
@@ -765,7 +765,7 @@ jobs:
           DROP_KEYS=$(node scripts/audit-latin-drops.mjs --list 2>/dev/null | grep -E '^LATIN-DROP: [a-z]{2}/' | awk '{print $2}' | tr '\n' ' ' || true)
           if [ -n "$DROP_KEYS" ]; then
             echo "latin drops: re-translating $(echo $DROP_KEYS | wc -w) translation(s)"
-            KEYS="$DROP_KEYS" LIMIT=12 BATCH=6 node scripts/repair-flagged-translations.mjs 2>&1 | tail -6 || true
+            KEYS="$DROP_KEYS" LIMIT=12 BATCH=6 node scripts/repair-flagged-translations.mjs 2>&1 | tail -15 || true
           fi
           node scripts/repair-cjk-bold.mjs 2>&1 | tail -3 || true
           # --fix-truncated-only: repair descriptions that were clipped mid-

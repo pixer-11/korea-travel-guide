@@ -178,7 +178,8 @@ RULES
 - Do not add, remove, or embellish facts. Do not add a translator's note.
 ${data.ended ? `- This event has ALREADY TAKEN PLACE. The source is written as a record of what was announced; keep it that way.
   · TENSE: English can state a date without a tense ("The dates are September 3 and 4"), but Korean, Japanese and Chinese must choose one, and choosing the present makes a finished event read as upcoming. Write it as a record of what was announced, in the past — but say "scheduled" ONCE. Repeated ("was scheduled… was to be held… was planned…") it reads as a plan that fell through, and nothing says this one did.${ENDED_SCHEDULE[langName] ? `\n  · ${langName}: ${ENDED_SCHEDULE[langName]}` : ''}
-  · But do NOT claim the event actually happened. "the schedule was" is right; "was held", "took place", "went ahead" are outcomes the source does not state.
+  · But do NOT claim the event actually happened. "the schedule was" is right; "was held", "took place", "went ahead" are outcomes the source does not state.${data.tenseFeedback?.length ? `
+  · A previous attempt wrote ${data.tenseFeedback.map((q) => `"${q}"`).join(', ')}. That reads as still to come, even for a holiday that recurs every year: this page is about THIS dated edition, which is over. Put every such sentence in the past as the announced schedule.` : ''}
   · Plain voice. A closing signpost such as "What it was, when and where." is not content: render it as one short natural sentence or fold it into the sentence before. Never unfold it into a list of questions ("what it was, when and where it was to be held, what was announced…") — that reads as machine-written.
   · Drop nothing: a question like "Where can I eat before the show?" keeps its answer, but the framing follows the same rule — it describes what was there, not what a reader should do now.
   · Add no instruction to check, confirm, verify, book, reserve or arrive early.` : ''}
@@ -529,7 +530,12 @@ async function translateOne(langCode, srcId, data, hash, attempt = 1, pre = null
     if (upcoming.length) {
       if (attempt < 3) {
         console.log(`     ↻ ${langCode}/${srcId} — finished event still reads as upcoming (${upcoming.slice(0, 2).join(', ')}), retrying (attempt ${attempt + 1})`);
-        return translateOne(langCode, srcId, data, hash, attempt + 1);
+        // Name what was wrong. The retry used to be the same prompt again, and a
+        // model that reads a yearly holiday as habitual ("Se celebra el 15 de
+        // octubre…") made the same choice three times out of three, so the
+        // repair put the old text back every day (es/phnom-penh-commemoration…,
+        // 2026-10-16). A sentence the model cannot see as wrong, it will not fix.
+        return translateOne(langCode, srcId, { ...data, tenseFeedback: upcoming.slice(0, 3) }, hash, attempt + 1);
       }
       throw new Error(`finished event still reads as upcoming in ${langCode} after ${attempt} attempts: ${upcoming.slice(0, 3).join(', ')}`);
     }
