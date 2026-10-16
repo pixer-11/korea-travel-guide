@@ -22,11 +22,11 @@
    "hits": 10
   },
   "night view": {
-   "attempts": 64,
+   "attempts": 73,
    "hits": 10
   },
   "waterfront": {
-   "attempts": 48,
+   "attempts": 62,
    "hits": 5
   },
   "museum": {
@@ -78,7 +78,7 @@
    "hits": 0
   },
   "vegetarian": {
-   "attempts": 44,
+   "attempts": 50,
    "hits": 2
   },
   "concept cafe": {
@@ -530,5 +530,5 @@
    "hits": 1
   }
  },
- "updated": "2026-10-16T08:07:17.831Z"
+ "updated": "2026-10-16T12:38:24.692Z"
 }
