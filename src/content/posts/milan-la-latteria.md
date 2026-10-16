@@ -5,7 +5,6 @@ country: Italy
 region: Milan
 category: hidden-gem
 pubDate: '2026-08-19'
-gallery: []
 tags:
   - milan
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: How long should I plan to spend there?
     a: Given the tiny dining room and no-reservation system, plan for a wait before being seated, then a fairly efficient meal — tables turn over quickly in a space this small.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/151736407_LE0dPuNJUdxPoT04rF9f2z3kfENmbZLpgEUXoy5yuLE.jpg
+  credit: 'Photo: Foursquare user content (La Latteria)'
+  license: foursquare
+  source: https://foursquare.com/v/5c3074aff4b525002cc2296d
+  focus:
+    x: 50
+    'y': 50
 ---
 
 ## Why La Latteria matters

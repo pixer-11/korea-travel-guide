@@ -2672,7 +2672,14 @@
   "nashville-grand-ole-opry\u0001https://upload.wikimedia.org/wikipedia/commons/c/c8/Grand_Ole_Opry_%2897056906%29.jpg": 1600,
   "rothenburg-ob-der-tauber-rothenburg-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Rothenburg_ob_der_Tauber%2C_das_Rothenburg-Museum.jpg/3840px-Rothenburg_ob_der_Tauber%2C_das_Rothenburg-Museum.jpg": 3840,
   "san-diego-gaslamp-quarter\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Gaslamp_Quarter_01.jpg/1920px-Gaslamp_Quarter_01.jpg": 1920,
-  "valencia-el-micalet\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Valencia_-_El_Micalet_01.jpg/3840px-Valencia_-_El_Micalet_01.jpg": 3840
+  "valencia-el-micalet\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Valencia_-_El_Micalet_01.jpg/3840px-Valencia_-_El_Micalet_01.jpg": 3840,
+  "da-lat-11th-da-lat-flower-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/L%C3%A2m_Vi%C3%AAn_square_%28August_7%2C_2018%29_%2829079784067%29.jpg/3840px-L%C3%A2m_Vi%C3%AAn_square_%28August_7%2C_2018%29_%2829079784067%29.jpg": 3840,
+  "alicante-atp-challenger-alicante\u0001https://upload.wikimedia.org/wikipedia/commons/1/1e/Novak_Djokovic_at_the_ATP_Tennis_World_Finals.jpg": 1695,
+  "ho-chi-minh-city-pot-au-pho-2-0\u0001https://fastly.4sqi.net/img/general/original/18988795_YudjXd6YrdjxlVkgvQzhN3-So5MmP7tlUrFVjw0D6F8.jpg": 1440,
+  "london-young-posse-pilot3-europe-tour\u0001https://upload.wikimedia.org/wikipedia/commons/d/d0/Brett_Young_in_concert_2015.jpg": 2584,
+  "milan-la-latteria\u0001https://fastly.4sqi.net/img/general/original/151736407_LE0dPuNJUdxPoT04rF9f2z3kfENmbZLpgEUXoy5yuLE.jpg": 1440,
+  "new-delhi-vedanta-delhi-half-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/7/71/Starting_line_of_Vedanta_PCHM_2022.jpg": 1600,
+  "siem-reap-jayavarman-vii-festival\u0001https://upload.wikimedia.org/wikipedia/commons/9/96/Jayavarman_VII_High_School.jpg": 3264
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -2761,8 +2768,8 @@
   },
   "cameron-highlands-sam-poh-temple": {
    "width": 674,
-   "attempts": 8,
-   "nextTry": "2026-10-16",
+   "attempts": 9,
+   "nextTry": "2026-10-23",
    "flaggedAt": "2026-08-20",
    "lastResult": "no-wider"
   },
@@ -2775,29 +2782,29 @@
   },
   "hong-kong-montana": {
    "width": 1080,
-   "attempts": 7,
-   "nextTry": "2026-10-16",
+   "attempts": 8,
+   "nextTry": "2026-10-23",
    "flaggedAt": "2026-08-28",
    "lastResult": "no-wider"
   },
   "kuala-lumpur-niji-sushi-izakaya": {
    "width": 1080,
-   "attempts": 7,
-   "nextTry": "2026-10-16",
+   "attempts": 8,
+   "nextTry": "2026-10-23",
    "flaggedAt": "2026-08-28",
    "lastResult": "no-wider"
   },
   "lyon-ayla": {
    "width": 1008,
-   "attempts": 7,
-   "nextTry": "2026-10-16",
+   "attempts": 8,
+   "nextTry": "2026-10-23",
    "flaggedAt": "2026-08-28",
    "lastResult": "no-wider"
   },
   "madrid-el-campero": {
    "width": 1080,
-   "attempts": 7,
-   "nextTry": "2026-10-16",
+   "attempts": 8,
+   "nextTry": "2026-10-23",
    "flaggedAt": "2026-08-28",
    "lastResult": "no-wider"
   },
@@ -2838,8 +2845,8 @@
   },
   "jakarta-erre-urrechu": {
    "width": 1080,
-   "attempts": 6,
-   "nextTry": "2026-10-16",
+   "attempts": 7,
+   "nextTry": "2026-10-23",
    "flaggedAt": "2026-09-03",
    "lastResult": "no-wider"
   },
@@ -3167,5 +3174,5 @@
    "flaggedAt": "2026-10-05"
   }
  },
- "updated": "2026-10-16T12:46:02.496Z"
+ "updated": "2026-10-16T22:18:21.523Z"
 }

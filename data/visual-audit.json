@@ -738,6 +738,12 @@
   "reasonKo": "알카니스 교회탑, 스페인 건축양식 일치",
   "at": "2026-08-03T12:44:25.712Z"
  },
+ "alicante-atp-challenger-alicante\u0001https://upload.wikimedia.org/wikipedia/commons/1/1e/Novak_Djokovic_at_the_ATP_Tennis_World_Finals.jpg": {
+  "slug": "alicante-atp-challenger-alicante",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Tennis player on hard court at ATP event",
+  "at": "2026-10-16T22:10:52.580Z"
+ },
  "alicante-atp-challenger-alicante\u0001https://upload.wikimedia.org/wikipedia/commons/3/37/Sydney_International_Tennis_ATP_250_%2846001156835%29.jpg": {
   "slug": "alicante-atp-challenger-alicante",
   "verdict": "MISMATCH",
@@ -761,6 +767,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Visible photographer watermark overlaid on image",
   "at": "2026-10-15T22:35:47.309Z"
+ },
+ "alicante-atp-challenger-alicante\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/ATP_Tennis_Finals_at_The_O2.jpg/3840px-ATP_Tennis_Finals_at_The_O2.jpg": {
+  "slug": "alicante-atp-challenger-alicante",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: ATP World Tour Finals, not ATP Challenger Alicante",
+  "at": "2026-10-16T22:10:49.782Z"
  },
  "alicante-atp-challenger-alicante\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Ten_Square%2C_Landmark_of_Good%2C_Singapur%2C_2023-08-17%2C_DD_97.jpg/1280px-Ten_Square%2C_Landmark_of_Good%2C_Singapur%2C_2023-08-17%2C_DD_97.jpg": {
   "slug": "alicante-atp-challenger-alicante",
@@ -6379,6 +6391,30 @@
   "reason": "patrol reject: Singer performing, unrelated to badminton tournament event",
   "at": "2026-10-08T14:34:00.630Z"
  },
+ "da-lat-11th-da-lat-flower-festival\u0001https://upload.wikimedia.org/wikipedia/commons/1/11/Hoverfly_on_flower_edit.jpg": {
+  "slug": "da-lat-11th-da-lat-flower-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Close-up of flower and insect, unrelated to flower festival event",
+  "at": "2026-10-16T22:11:04.349Z"
+ },
+ "da-lat-11th-da-lat-flower-festival\u0001https://upload.wikimedia.org/wikipedia/commons/3/3c/131_Lotus_Flower_%289206846370%29.jpg": {
+  "slug": "da-lat-11th-da-lat-flower-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Metal relief carving, unrelated to flower festival venue",
+  "at": "2026-10-16T22:11:06.023Z"
+ },
+ "da-lat-11th-da-lat-flower-festival\u0001https://upload.wikimedia.org/wikipedia/commons/f/f5/Lotus_flower_%28978659%29.jpg": {
+  "slug": "da-lat-11th-da-lat-flower-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: identity: Commons places this in China, post says Vietnam",
+  "at": "2026-10-16T22:11:02.738Z"
+ },
+ "da-lat-11th-da-lat-flower-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/L%C3%A2m_Vi%C3%AAn_square_%28August_7%2C_2018%29_%2829079784067%29.jpg/3840px-L%C3%A2m_Vi%C3%AAn_square_%28August_7%2C_2018%29_%2829079784067%29.jpg": {
+  "slug": "da-lat-11th-da-lat-flower-festival",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Lam Vien Square, Da Lat venue exterior",
+  "at": "2026-10-16T22:11:09.550Z"
+ },
  "da-lat-11th-da-lat-flower-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Da_Lat_Flower_Festival_2012_-_24.JPG/3840px-Da_Lat_Flower_Festival_2012_-_24.JPG": {
   "slug": "da-lat-11th-da-lat-flower-festival",
   "verdict": "MISMATCH",
@@ -8259,7 +8295,7 @@
   "slug": "goyang-charlie-puth-concert",
   "verdict": "MATCH",
   "reason": "patrol replace: Concert performer on stage with audience",
-  "at": "2026-10-15T00:36:27.942Z"
+  "at": "2026-10-16T22:11:17.821Z"
  },
  "goyang-charlie-puth-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Charlie_Puth_al_Poble_Espanyol_%2889469%29.jpg/3840px-Charlie_Puth_al_Poble_Espanyol_%2889469%29.jpg": {
   "slug": "goyang-charlie-puth-concert",
@@ -9486,6 +9522,18 @@
   "reason": "Vietnamese soup with traditional garnishes, Ho Chi Minh City",
   "reasonKo": "호찌민시 전형적인 베트남 수프 요리",
   "at": "2026-08-03T12:48:29.420Z"
+ },
+ "ho-chi-minh-city-pot-au-pho-2-0\u0001https://fastly.4sqi.net/img/general/original/18988795_QyVvwbtS2zLt-zhTNcQAwetlYJk3XTcXLxJXLpT4kwk.jpg": {
+  "slug": "ho-chi-minh-city-pot-au-pho-2-0",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: High-end fine dining, not casual phở restaurant",
+  "at": "2026-10-16T22:11:26.914Z"
+ },
+ "ho-chi-minh-city-pot-au-pho-2-0\u0001https://fastly.4sqi.net/img/general/original/18988795_YudjXd6YrdjxlVkgvQzhN3-So5MmP7tlUrFVjw0D6F8.jpg": {
+  "slug": "ho-chi-minh-city-pot-au-pho-2-0",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Modern storefront in HCMC night scene, Vietnamese text visib",
+  "at": "2026-10-16T22:11:29.931Z"
  },
  "ho-chi-minh-city-saigon-skydeck\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Saigon_Skydeck_%2853546400302%29.jpg/3840px-Saigon_Skydeck_%2853546400302%29.jpg": {
   "slug": "ho-chi-minh-city-saigon-skydeck",
@@ -10947,6 +10995,12 @@
   "reason": "patrol reject: Close-up of shredded paper, unrelated to event",
   "at": "2026-10-15T00:38:31.380Z"
  },
+ "istanbul-blue\u0001https://live.staticflickr.com/233/521062542_055d7ba0f7_b.jpg": {
+  "slug": "istanbul-blue",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Plain blue background, no event or venue shown",
+  "at": "2026-10-16T22:12:42.881Z"
+ },
  "istanbul-blue\u0001https://live.staticflickr.com/8090/8514965064_69652b7709_b.jpg": {
   "slug": "istanbul-blue",
   "verdict": "MISMATCH",
@@ -10964,6 +11018,18 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Unrelated fortress scene, not Istanbul Blue event or venue",
   "at": "2026-10-15T00:38:25.438Z"
+ },
+ "istanbul-blue\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2023-09-18_Bristol_shop_window_02.jpg/3840px-2023-09-18_Bristol_shop_window_02.jpg": {
+  "slug": "istanbul-blue",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shop in UK, unrelated to Istanbul 'Blue' event/venue",
+  "at": "2026-10-16T22:12:39.383Z"
+ },
+ "istanbul-blue\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/2023-09-15_Bath_Bus_Stop.jpg/3840px-2023-09-15_Bath_Bus_Stop.jpg": {
+  "slug": "istanbul-blue",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: UK bus street scene, unrelated to Istanbul event",
+  "at": "2026-10-16T22:12:40.896Z"
  },
  "istanbul-blue\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/2023-09-13_Blue_Bristol_Glass_Inscription_01.jpg/3840px-2023-09-13_Blue_Bristol_Glass_Inscription_01.jpg": {
   "slug": "istanbul-blue",
@@ -10988,6 +11054,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Parked cars, unrelated to event or venue",
   "at": "2026-10-15T22:37:38.609Z"
+ },
+ "istanbul-blue\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/2023-09-18_Bristol_shop_window_01.jpg/3840px-2023-09-18_Bristol_shop_window_01.jpg": {
+  "slug": "istanbul-blue",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shop window unrelated to Istanbul Blue event or venue",
+  "at": "2026-10-16T22:12:33.874Z"
  },
  "istanbul-boris-brejcha-reflections-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Boris_brejcha_2017_03_12.jpg/3840px-Boris_brejcha_2017_03_12.jpg": {
   "slug": "istanbul-boris-brejcha-reflections-tour",
@@ -11801,11 +11873,35 @@
   "reason": "patrol reject: Concert band photo, unrelated to a running festival",
   "at": "2026-10-01T23:28:40.788Z"
  },
+ "jakarta-joyland-festival\u0001https://upload.wikimedia.org/wikipedia/commons/2/2b/Spook_Express_%40_Joyland_Amusements.jpg": {
+  "slug": "jakarta-joyland-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated roller coaster ride, not music festival venue",
+  "at": "2026-10-16T22:12:48.147Z"
+ },
  "jakarta-joyland-festival\u0001https://upload.wikimedia.org/wikipedia/commons/3/34/.Feast_at_Joyland_Festival%2C_November_2024.jpg": {
   "slug": "jakarta-joyland-festival",
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: filename shares only \"joyland\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-15T10:16:51.234Z"
+ },
+ "jakarta-joyland-festival\u0001https://upload.wikimedia.org/wikipedia/commons/8/83/Joyland_Lubbock_TX_entrance_DSCN8529.JPG": {
+  "slug": "jakarta-joyland-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated Joyland amusement park sign, not Jakarta festival",
+  "at": "2026-10-16T22:12:52.076Z"
+ },
+ "jakarta-joyland-festival\u0001https://upload.wikimedia.org/wikipedia/commons/9/97/Joyland_Lubbock_TX_Galaxi_Entrance_DSCN8502.JPG": {
+  "slug": "jakarta-joyland-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Roller coaster image, unrelated to Joyland Festival venue",
+  "at": "2026-10-16T22:12:54.104Z"
+ },
+ "jakarta-joyland-festival\u0001https://upload.wikimedia.org/wikipedia/commons/d/df/World_Joyland_entrance.jpg": {
+  "slug": "jakarta-joyland-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Chinese theme park, unrelated to Joyland Festival Jakarta",
+  "at": "2026-10-16T22:12:50.577Z"
  },
  "jakarta-joyland-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Maliq_%26_D%27Essentials_at_Joyland_Festival%2C_November_2024.jpg/3840px-Maliq_%26_D%27Essentials_at_Joyland_Festival%2C_November_2024.jpg": {
   "slug": "jakarta-joyland-festival",
@@ -14910,8 +15006,8 @@
  "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia\u0001https://upload.wikimedia.org/wikipedia/commons/e/ee/Vladimir_leonov_motogp.jpg": {
   "slug": "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia",
   "verdict": "MATCH",
-  "reason": "patrol replace: MotoGP motorcycle racing at circuit with safety barriers",
-  "at": "2026-10-15T00:39:09.721Z"
+  "reason": "patrol replace: MotoGP motorcycle racing at circuit with safety tires",
+  "at": "2026-10-16T22:14:08.730Z"
  },
  "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Alvaro_Bautista-motogp-2015.JPG/3840px-Alvaro_Bautista-motogp-2015.JPG": {
   "slug": "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia",
@@ -15106,11 +15202,29 @@
   "reason": "hand-reviewed: filename shares only \"young\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-16T08:27:58.588Z"
  },
+ "london-young-posse-pilot3-europe-tour\u0001https://upload.wikimedia.org/wikipedia/commons/d/d0/Brett_Young_in_concert_2015.jpg": {
+  "slug": "london-young-posse-pilot3-europe-tour",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Performer on stage with guitar, concert setting",
+  "at": "2026-10-16T22:14:23.390Z"
+ },
  "london-young-posse-pilot3-europe-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Young_Fathers_concert_Portland.jpg/3840px-Young_Fathers_concert_Portland.jpg": {
   "slug": "london-young-posse-pilot3-europe-tour",
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: filename shares only \"young\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-15T10:16:51.484Z"
+ },
+ "london-young-posse-pilot3-europe-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Young_Oceans_Live_in_Concert_2018.jpg/3840px-Young_Oceans_Live_in_Concert_2018.jpg": {
+  "slug": "london-young-posse-pilot3-europe-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated band performance, not YOUNG POSSE or Scala venue",
+  "at": "2026-10-16T22:14:16.929Z"
+ },
+ "london-young-posse-pilot3-europe-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Neil_young_hp.jpg/3840px-Neil_young_hp.jpg": {
+  "slug": "london-young-posse-pilot3-europe-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Different band/stage, unrelated to Young Posse event",
+  "at": "2026-10-16T22:14:18.483Z"
  },
  "los-angeles-bad-roman\u0001https://fastly.4sqi.net/img/general/original/463594059_7nz7Ts1VXjrzksDpOwFLwPdKlKTK4iz6Y072O7s2wSs.jpg": {
   "slug": "los-angeles-bad-roman",
@@ -17206,6 +17320,18 @@
   "reason": "event publish gate: Performer Jay Park on stage, valid tour hero",
   "at": "2026-10-12T00:02:18.151Z"
  },
+ "milan-la-latteria\u0001https://fastly.4sqi.net/img/general/original/151736407_LE0dPuNJUdxPoT04rF9f2z3kfENmbZLpgEUXoy5yuLE.jpg": {
+  "slug": "milan-la-latteria",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Italian charcuterie and wine at Milan restaurant",
+  "at": "2026-10-16T22:14:51.247Z"
+ },
+ "milan-la-latteria\u0001https://fastly.4sqi.net/img/general/original/151736407_T--6PWt6s5QFsXMrWvAXbeyt8itgZyOvTtkheFXU2-E.jpg": {
+  "slug": "milan-la-latteria",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Close-up plated dish, not representative venue view",
+  "at": "2026-10-16T22:14:47.754Z"
+ },
  "milan-langosteria-montenapoleone\u0001https://fastly.4sqi.net/img/general/original/2805260_4WNU5c2ZqSOKr8VRMzsNz3VQBhm5o0mykkzcGsW-7JQ.jpg": {
   "slug": "milan-langosteria-montenapoleone",
   "verdict": "MATCH",
@@ -18525,6 +18651,12 @@
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: filename shares only \"vedanta\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-16T08:27:58.768Z"
+ },
+ "new-delhi-vedanta-delhi-half-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/7/71/Starting_line_of_Vedanta_PCHM_2022.jpg": {
+  "slug": "new-delhi-vedanta-delhi-half-marathon",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Large crowd at marathon event, orange shirts visible",
+  "at": "2026-10-16T22:15:08.856Z"
  },
  "new-delhi-yamuna-ghat\u0001https://upload.wikimedia.org/wikipedia/commons/1/10/Peace_Yamuna_Ghat_%28259710365%29.jpeg": {
   "slug": "new-delhi-yamuna-ghat",
@@ -20336,8 +20468,8 @@
  "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/7/7d/5_Seconds_of_Summer_Metro_Theatre_25_Nov_2012.jpg": {
   "slug": "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour",
   "verdict": "MATCH",
-  "reason": "patrol replace: Band performing on stage at concert venue",
-  "at": "2026-10-15T00:40:54.066Z"
+  "reason": "patrol replace: Concert performance, band on stage with audience",
+  "at": "2026-10-16T22:15:18.363Z"
  },
  "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/9/93/5_Seconds_of_Summer_11_15_2014_-25_%2815187260193%29.jpg": {
   "slug": "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour",
@@ -24379,6 +24511,12 @@
   "reason": "patrol reject: Togo/Mauritius promotional booth, unrelated to Francophonie Summit Cambodia",
   "at": "2026-10-15T00:41:07.853Z"
  },
+ "siem-reap-angkor-photo-festival\u0001https://upload.wikimedia.org/wikipedia/commons/1/1c/2016_Angkor%2C_Angkor_Wat%2C_Brama_Angkor_Wat_%2824%29.jpg": {
+  "slug": "siem-reap-angkor-photo-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Angkor Wat temple statue, not photo festival venue",
+  "at": "2026-10-16T22:16:05.802Z"
+ },
  "siem-reap-angkor-photo-festival\u0001https://upload.wikimedia.org/wikipedia/commons/2/2e/Ta_Phrom%2C_Angkor%2C_Camboya%2C_2013-08-16%2C_DD_41.JPG": {
   "slug": "siem-reap-angkor-photo-festival",
   "verdict": "MISMATCH",
@@ -24396,6 +24534,24 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Stone bas-relief carving, not photo festival event or venue",
   "at": "2026-10-15T22:40:42.012Z"
+ },
+ "siem-reap-angkor-photo-festival\u0001https://upload.wikimedia.org/wikipedia/commons/a/ad/2016_Angkor%2C_Angkor_Wat%2C_Brama_Angkor_Wat_%2839%29.jpg": {
+  "slug": "siem-reap-angkor-photo-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Ancient stone carving, not photo festival event or venue",
+  "at": "2026-10-16T22:16:07.976Z"
+ },
+ "siem-reap-angkor-photo-festival\u0001https://upload.wikimedia.org/wikipedia/commons/e/e0/2016_Angkor%2C_Angkor_Wat%2C_Brama_Angkor_Wat_%2816%29.jpg": {
+  "slug": "siem-reap-angkor-photo-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Ancient stone carving, not photo festival venue/event",
+  "at": "2026-10-16T22:16:01.287Z"
+ },
+ "siem-reap-angkor-photo-festival\u0001https://upload.wikimedia.org/wikipedia/commons/e/ed/2016_Angkor%2C_Angkor_Wat%2C_Brama_Angkor_Wat_%2825%29.jpg": {
+  "slug": "siem-reap-angkor-photo-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Temple statue, unrelated to photo festival event",
+  "at": "2026-10-16T22:16:03.338Z"
  },
  "siem-reap-angkor-photo-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Phimeanakas%2C_Angkor_Thom%2C_Camboya%2C_2013-08-16%2C_DD_12.jpg/3840px-Phimeanakas%2C_Angkor_Thom%2C_Camboya%2C_2013-08-16%2C_DD_12.jpg": {
   "slug": "siem-reap-angkor-photo-festival",
@@ -24469,11 +24625,29 @@
   "reason": "hand-reviewed: filename shares only \"jayavarman\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-16T08:27:59.128Z"
  },
+ "siem-reap-jayavarman-vii-festival\u0001https://upload.wikimedia.org/wikipedia/commons/9/96/Jayavarman_VII_High_School.jpg": {
+  "slug": "siem-reap-jayavarman-vii-festival",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Angkor complex entrance gate, Siem Reap venue",
+  "at": "2026-10-16T22:16:30.069Z"
+ },
+ "siem-reap-jayavarman-vii-festival\u0001https://upload.wikimedia.org/wikipedia/commons/a/ab/Jayavarman_VII_Guimet_90508_3.jpg": {
+  "slug": "siem-reap-jayavarman-vii-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: identity: Commons places this in Paris, post says Siem Reap",
+  "at": "2026-10-16T22:16:19.536Z"
+ },
  "siem-reap-jayavarman-vii-festival\u0001https://upload.wikimedia.org/wikipedia/commons/d/d5/Jayavarman_VII.jpg": {
   "slug": "siem-reap-jayavarman-vii-festival",
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: filename shares only \"jayavarman\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-15T10:16:52.260Z"
+ },
+ "siem-reap-jayavarman-vii-festival\u0001https://upload.wikimedia.org/wikipedia/commons/d/d8/Jayavarman_VII_Guimet_90508_2.jpg": {
+  "slug": "siem-reap-jayavarman-vii-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: identity: Commons places this in Paris, post says Siem Reap",
+  "at": "2026-10-16T22:16:14.365Z"
  },
  "siem-reap-old-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Siem_Reap_old_market_%284%29.jpg/3840px-Siem_Reap_old_market_%284%29.jpg": {
   "slug": "siem-reap-old-market",

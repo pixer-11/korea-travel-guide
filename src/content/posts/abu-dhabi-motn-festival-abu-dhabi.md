@@ -9,6 +9,14 @@ eventStartDate: '2026-12-10'
 eventEndDate: '2027-01-05'
 eventRecurring: true
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/13-08-06-abu-dhabi-airport-16.jpg/3840px-13-08-06-abu-dhabi-airport-16.jpg'
+  credit: 'Photo: Ralf Roletschek / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:13-08-06-abu-dhabi-airport-16.jpg'
+  focus:
+    x: 50
+    y: 40
 gallery: []
 tags:
   - abu dhabi

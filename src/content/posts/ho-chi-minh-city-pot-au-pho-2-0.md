@@ -5,7 +5,6 @@ country: Vietnam
 region: Ho Chi Minh City
 category: trendy
 pubDate: '2026-09-23'
-gallery: []
 tags:
   - ho chi minh city
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: Where should I check for hours and menu details?
     a: Check the restaurant's official page or a current booking platform directly before visiting, since hours, menu format, and availability for a newly opened, trending spot can change quickly.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/18988795_YudjXd6YrdjxlVkgvQzhN3-So5MmP7tlUrFVjw0D6F8.jpg
+  credit: 'Photo: Foursquare user content (Pot Au Pho)'
+  license: foursquare
+  source: https://foursquare.com/v/6681500570c78a6c519f7e9e
+  focus:
+    x: 55
+    'y': 65
 ---
 ## What makes this phở different
 
