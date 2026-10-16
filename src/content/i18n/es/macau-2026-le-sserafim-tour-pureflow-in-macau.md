@@ -1,13 +1,13 @@
 ---
 lang: es
 slug: macau-2026-le-sserafim-tour-pureflow-in-macau
-srcHash: 'a84276599076'
+srcHash: 'f8895fe38e26'
 title: 'Gira 2026 de LE SSERAFIM «PUREFLOW» en Macao: fechas, entradas y recinto (Macao)'
-description: La gira 2026 de LE SSERAFIM «PUREFLOW» recaló el 7 y el 8 de noviembre de 2026 en el Galaxy Arena, situado dentro del complejo Galaxy Macau, en Cotai.
-quickAnswer: La gira 2026 de LE SSERAFIM «PUREFLOW» pasó por Macao el 7 y el 8 de noviembre de 2026, con dos conciertos en el Galaxy Arena, que se encuentra dentro del complejo Galaxy Macau, en Cotai. Estas dos noches correspondieron a la etapa macaense de la segunda gira mundial del grupo, con la que presentan su nuevo álbum. De la información sobre entradas se ocupan el promotor de la gira y el propio recinto. La mayoría de los fans aprovecha para pasar un fin de semana corto en el Cotai Strip.
+description: La gira 2026 de LE SSERAFIM «PUREFLOW» recala el 7 y el 8 de noviembre de 2026 en el Galaxy Arena, situado dentro del complejo Galaxy Macau, en Cotai.
+quickAnswer: La gira 2026 de LE SSERAFIM «PUREFLOW» pasa por Macao el 7 y el 8 de noviembre de 2026, con dos conciertos en el Galaxy Arena, que se encuentra dentro del complejo Galaxy Macau, en Cotai. Estas dos noches corresponden a la etapa macaense de la segunda gira mundial del grupo, con la que presentan su nuevo álbum. De la información sobre entradas se ocupan el promotor de la gira y el propio recinto. La mayoría de los fans aprovecha para pasar un fin de semana corto en el Cotai Strip.
 faq:
   - q: ¿Cuándo y dónde presentó LE SSERAFIM «PUREFLOW» en Macao?
-    a: El grupo actuó el 7 y el 8 de noviembre de 2026 en el Galaxy Arena, dentro del complejo Galaxy Macau, en Cotai. Ambos conciertos formaron parte de PUREFLOW, su segunda gira mundial.
+    a: El grupo actúa el 7 y el 8 de noviembre de 2026 en el Galaxy Arena, dentro del complejo Galaxy Macau, en Cotai. Ambos conciertos forman parte de PUREFLOW, su segunda gira mundial.
   - q: ¿Cómo se llega al Galaxy Arena?
     a: El Galaxy Arena se encuentra dentro del Galaxy Macau, en el Cotai Strip. Desde Hong Kong se puede llegar por el puente Hong Kong-Zhuhai-Macao o en ferri hasta la Terminal de Ferris de Taipa (Taipa Ferry Terminal); también es posible volar al Aeropuerto Internacional de Macao. Ya en la ciudad, los visitantes se desplazan en la línea de Taipa del Metro Ligero de Macao, en taxi o en los autobuses lanzadera gratuitos de los complejos turísticos.
   - q: ¿Dónde suelen alojarse los fans para el concierto?
@@ -20,7 +20,7 @@ faq:
 
 ## Dos noches en el Cotai Strip
 
-Macao tuvo a LE SSERAFIM por partida doble. El 7 y el 8 de noviembre de 2026, el grupo femenino surcoreano llevó al Galaxy Arena PUREFLOW, su segunda gira mundial, con la que presentaba su nuevo álbum.
+Macao tuvo a LE SSERAFIM por partida doble. El 7 y el 8 de noviembre de 2026, el grupo femenino surcoreano lleva al Galaxy Arena PUREFLOW, su segunda gira mundial, con la que presenta su nuevo álbum.
 
 Kim Chaewon, Sakura, Huh Yunjin, Kazuha y Hong Eunchae forman el quinteto. Sus seguidores se hacen llamar FEARNOT y, durante un fin de semana de concierto, es fácil reconocerlos por todo Cotai gracias a sus bolsas de productos oficiales y sus barras de luz. Con una segunda fecha en el mismo recinto, el grupo actuó ante dos públicos distintos, y quienes no lograron entrar una noche tuvieron otra oportunidad.
 

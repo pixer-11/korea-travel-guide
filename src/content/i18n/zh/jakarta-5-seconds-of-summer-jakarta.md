@@ -1,13 +1,13 @@
 ---
 lang: zh
 slug: jakarta-5-seconds-of-summer-jakarta
-srcHash: 'ac2331dc3362'
+srcHash: 'e8a8b1403e57'
 title: 5 Seconds of Summer雅加达演唱会：日期、门票与场馆（雅加达）
-description: 2026年11月14日，澳大利亚乐队5 Seconds of Summer的亚洲巡演来到雅加达，在Indonesia Arena开唱。
-quickAnswer: 2026年11月14日，澳大利亚乐队5 Seconds of Summer的亚洲巡演在雅加达Indonesia Arena举行。场馆位于中雅加达塞纳延（Senayan）的格罗拉蓬卡诺（Gelora Bung Karno，GBK）体育中心内。演出当晚GBK周边道路拥堵严重，乘地铁到Istora Mandiri站最稳妥。
+description: 2026年11月14日，澳大利亚乐队5 Seconds of Summer的亚洲巡演将来到雅加达，在Indonesia Arena开唱。
+quickAnswer: 2026年11月14日，澳大利亚乐队5 Seconds of Summer的亚洲巡演将在雅加达Indonesia Arena举行。场馆位于中雅加达塞纳延（Senayan）的格罗拉蓬卡诺（Gelora Bung Karno，GBK）体育中心内。演出当晚GBK周边道路拥堵严重，乘地铁到Istora Mandiri站最稳妥。
 faq:
   - q: 5 Seconds of Summer的雅加达演唱会在何时何地举行？
-    a: 乐队于2026年11月14日在Indonesia Arena演出，这是其亚洲巡演中的一站。场馆位于中雅加达塞纳延的格罗拉蓬卡诺（GBK）体育中心内。
+    a: 乐队将于2026年11月14日在Indonesia Arena演出，这是其亚洲巡演中的一站。场馆位于中雅加达塞纳延的格罗拉蓬卡诺（GBK）体育中心内。
   - q: 离Indonesia Arena最近的地铁站是哪个？
     a: 最近的是雅加达地铁南北线的Istora Mandiri站。往北一站的Senayan站也可步行到达。雅加达快速公交（TransJakarta）1号走廊的公交车同样在Gelora Bung Karno站停靠。
   - q: Indonesia Arena有多大？
@@ -20,7 +20,7 @@ faq:
 
 ## 塞纳延的一座场馆，一个夜晚
 
-四个澳大利亚人，一座室内场馆，一场演出。2026年11月14日，5 Seconds of Summer的亚洲巡演来到雅加达，在格罗拉蓬卡诺体育中心内的Indonesia Arena开唱。
+四个澳大利亚人，一座室内场馆，一场演出。2026年11月14日，5 Seconds of Summer的亚洲巡演将来到雅加达，在格罗拉蓬卡诺体育中心内的Indonesia Arena开唱。
 
 乐队由卢克·海明斯（Luke Hemmings）、迈克尔·克利福德（Michael Clifford）、卡勒姆·胡德（Calum Hood）和阿什顿·欧文（Ashton Irwin）组成。四人少年时靠在网上发翻唱视频起步，后来成长为2010年代最具代表性的流行摇滚乐队之一。在场的大多数观众，都是听着《She Looks So Perfect》《Amnesia》《Youngblood》和《Teeth》长大的。
 

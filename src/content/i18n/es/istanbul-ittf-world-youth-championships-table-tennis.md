@@ -1,13 +1,13 @@
 ---
 lang: es
 slug: istanbul-ittf-world-youth-championships-table-tennis
-srcHash: '9b550541eb13'
+srcHash: '0bc2dd24b5bd'
 title: 'Campeonato Mundial Juvenil de la ITTF (tenis de mesa): fechas, entradas y sede en Estambul'
-description: Estambul (Turquía) acogió del 21 al 28 de noviembre de 2026 el Campeonato Mundial Juvenil de Tenis de Mesa de la ITTF. La información sobre la sede y las entradas se publica en los canales oficiales de la ITTF, que organiza el torneo.
-quickAnswer: Estambul (Turquía) acogió del 21 al 28 de noviembre de 2026 el Campeonato Mundial Juvenil de Tenis de Mesa de la ITTF. La información sobre la sede y las entradas se publica en los canales oficiales de la ITTF, que organiza el torneo. Durante ocho días de finales de otoño, los mejores jugadores jóvenes del mundo se disputan los títulos mundiales juveniles. Las grandes potencias asiáticas de este deporte viajan con numerosas aficiones.
+description: Estambul (Turquía) acoge del 21 al 28 de noviembre de 2026 el Campeonato Mundial Juvenil de Tenis de Mesa de la ITTF. La información sobre la sede y las entradas se publica en los canales oficiales de la ITTF, que organiza el torneo.
+quickAnswer: Estambul (Turquía) acoge del 21 al 28 de noviembre de 2026 el Campeonato Mundial Juvenil de Tenis de Mesa de la ITTF. La información sobre la sede y las entradas se publica en los canales oficiales de la ITTF, que organiza el torneo. Durante ocho días de finales de otoño, los mejores jugadores jóvenes del mundo se disputan los títulos mundiales juveniles. Las grandes potencias asiáticas de este deporte viajan con numerosas aficiones.
 faq:
   - q: ¿Cuándo se celebró en Estambul el Campeonato Mundial Juvenil de la ITTF?
-    a: El Campeonato Mundial Juvenil de Tenis de Mesa de 2026 se disputó en Estambul (Turquía) del 21 al 28 de noviembre de 2026.
+    a: El Campeonato Mundial Juvenil de Tenis de Mesa de 2026 se disputa en Estambul (Turquía) del 21 al 28 de noviembre de 2026.
   - q: ¿Dónde se publican los datos de la sede y de las entradas?
     a: La ITTF da a conocer la sede, el calendario, los cuadros, los resultados y la información sobre las entradas en su web oficial y en los canales de World Table Tennis.
   - q: ¿Qué días conviene elegir para ver el torneo?
@@ -22,7 +22,7 @@ faq:
 
 Antes de entender el tenis de mesa, uno lo oye. Ese doble golpeteo seco de la bola contra la pala y la mesa llega demasiado rápido para que la vista lo siga. En un mundial juvenil, el sonido brota de muchas mesas al mismo tiempo. Cada una queda delimitada por vallas bajas; los árbitros vigilan desde sillas altas y los entrenadores se inclinan hacia delante entre punto y punto.
 
-El Campeonato Mundial Juvenil de Tenis de Mesa de 2026 se celebró en Estambul del 21 al 28 de noviembre de 2026. Quienes compiten son adolescentes, y varios de ellos dan el salto al circuito mundial absoluto en pocos años. Por eso, muchos aficionados descubren aquí a las futuras estrellas.
+El Campeonato Mundial Juvenil de Tenis de Mesa de 2026 se celebra en Estambul del 21 al 28 de noviembre de 2026. Quienes compiten son adolescentes, y varios de ellos dan el salto al circuito mundial absoluto en pocos años. Por eso, muchos aficionados descubren aquí a las futuras estrellas.
 
 ## Quién llena las gradas
 

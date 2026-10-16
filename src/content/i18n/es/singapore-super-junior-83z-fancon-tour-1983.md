@@ -1,13 +1,13 @@
 ---
 lang: es
 slug: singapore-super-junior-83z-fancon-tour-1983
-srcHash: 'e35609754237'
+srcHash: 'bc4da7e3c891'
 title: 'Super Junior-83z Fancon Tour [1983] en Singapur: fecha, entradas y recinto'
 description: 'El 16 de octubre de 2026, el Super Junior-83z Fancon Tour [1983] llegó a Singapur: Leeteuk y Heechul se reunieron con sus fans en The Star Theatre, en el barrio de Buona Vista.'
 quickAnswer: El 16 de octubre de 2026, el Super Junior-83z Fancon Tour [1983] hizo parada en Singapur, donde Leeteuk y Heechul ofrecieron un encuentro con fans en The Star Theatre, en Buona Vista. El teatro se encuentra dentro del centro comercial The Star Vista. Desde la estación de MRT de Buona Vista (líneas East-West y Circle) se llega en pocos minutos por un pasaje cubierto, y la estación de one-north (línea Circle) también queda cerca.
 faq:
   - q: ¿Cuándo y dónde se celebró el fancon de Super Junior-83z en Singapur?
-    a: Tuvo lugar el 16 de octubre de 2026 en The Star Theatre, situado dentro del centro comercial The Star Vista, en 1 Vista Exchange Green (Buona Vista).
+    a: Se celebra el 16 de octubre de 2026 en The Star Theatre, situado dentro del centro comercial The Star Vista, en 1 Vista Exchange Green (Buona Vista).
   - q: ¿Quiénes forman Super Junior-83z?
     a: Leeteuk y Heechul. Ambos nacieron en 1983, año del que toman su nombre tanto la subunidad como la gira, [1983].
   - q: ¿Cuál es la estación de MRT más cercana a The Star Theatre?
@@ -22,7 +22,7 @@ faq:
 
 Todo el concepto de la subunidad se resume en ese «83z» de su nombre. Leeteuk y Heechul nacieron en 1983, y esta formación de Super Junior une al líder del grupo con su personalidad más extrovertida en los programas de variedades. El título de la gira, [1983], hace referencia precisamente a ese año que comparten.
 
-En Singapur, la cita del **16 de octubre de 2026** fue un fancon, un formato más próximo al encuentro con fans que al concierto completo. Lo habitual es que haya charlas, juegos e interacción con el público, intercalados con canciones. Como no se ha publicado ni el repertorio ni el orden del programa, esta página no se aventura a suponerlos.
+En Singapur, la cita del **16 de octubre de 2026** es un fancon, un formato más próximo al encuentro con fans que al concierto completo. Lo habitual es que haya charlas, juegos e interacción con el público, intercalados con canciones. Como no se ha publicado ni el repertorio ni el orden del programa, esta página no se aventura a suponerlos.
 
 ## Así es The Star Theatre
 

@@ -1,13 +1,13 @@
 ---
 lang: es
 slug: jakarta-5-seconds-of-summer-jakarta
-srcHash: 'ac2331dc3362'
+srcHash: 'e8a8b1403e57'
 title: '5 Seconds of Summer en Yakarta: fechas, entradas y recinto (Yakarta)'
-description: El 14 de noviembre de 2026, dentro de su gira asiática, la banda australiana 5 Seconds of Summer actuó en el Indonesia Arena de Yakarta.
-quickAnswer: El 14 de noviembre de 2026, dentro de su gira asiática, la banda australiana 5 Seconds of Summer actuó en el Indonesia Arena de Yakarta. El recinto forma parte del complejo deportivo Gelora Bung Karno (GBK), en el barrio de Senayan, en Yakarta Central. En noches de concierto las calles que rodean el GBK se colapsan, así que lo más fiable para llegar es tomar el MRT hasta la estación Istora Mandiri.
+description: El 14 de noviembre de 2026, dentro de su gira asiática, la banda australiana 5 Seconds of Summer actúa en el Indonesia Arena de Yakarta.
+quickAnswer: El 14 de noviembre de 2026, dentro de su gira asiática, la banda australiana 5 Seconds of Summer actúa en el Indonesia Arena de Yakarta. El recinto forma parte del complejo deportivo Gelora Bung Karno (GBK), en el barrio de Senayan, en Yakarta Central. En noches de concierto las calles que rodean el GBK se colapsan, así que lo más fiable para llegar es tomar el MRT hasta la estación Istora Mandiri.
 faq:
   - q: ¿Cuándo y dónde fue el concierto de 5 Seconds of Summer en Yakarta?
-    a: La banda tocó en el Indonesia Arena el 14 de noviembre de 2026, como parte de su gira por Asia. El recinto se encuentra dentro del complejo deportivo Gelora Bung Karno (GBK), en Senayan, en Yakarta Central.
+    a: La banda toca en el Indonesia Arena el 14 de noviembre de 2026, como parte de su gira por Asia. El recinto se encuentra dentro del complejo deportivo Gelora Bung Karno (GBK), en Senayan, en Yakarta Central.
   - q: ¿Cuál es la estación de MRT más cercana al Indonesia Arena?
     a: La más próxima es Istora Mandiri, en la línea Norte–Sur del MRT Jakarta. También se puede ir a pie desde Senayan, una parada más al norte. Los autobuses del Corredor 1 de TransJakarta tienen asimismo parada en Gelora Bung Karno.
   - q: ¿Qué capacidad tiene el Indonesia Arena?
@@ -20,7 +20,7 @@ faq:
 
 ## Un pabellón y una sola noche en Senayan
 
-Cuatro australianos, un recinto cubierto y una única fecha. El 14 de noviembre de 2026, 5 Seconds of Summer llevó su gira asiática a Yakarta con un concierto en el Indonesia Arena, dentro del complejo Gelora Bung Karno.
+Cuatro australianos, un recinto cubierto y una única fecha. El 14 de noviembre de 2026, 5 Seconds of Summer lleva su gira asiática a Yakarta con un concierto en el Indonesia Arena, dentro del complejo Gelora Bung Karno.
 
 Forman la banda Luke Hemmings, Michael Clifford, Calum Hood y Ashton Irwin. Empezaron siendo adolescentes que colgaban versiones en internet y acabaron convertidos en uno de los grupos de pop rock más representativos de la década de 2010. Buena parte del público local creció escuchando «She Looks So Perfect», «Amnesia», «Youngblood» y «Teeth».
 

@@ -1,13 +1,13 @@
 ---
 lang: es
 slug: hong-kong-stray-kids-world-tour-run-it-hong-kong
-srcHash: 'c655f5f902c1'
+srcHash: 'a5d7089569d5'
 title: 'Stray Kids World Tour: RUN IT - Hong Kong: fechas, entradas y recinto (Hong Kong)'
-description: 'El sábado 5 de diciembre de 2026, el Estadio Kai Tak (Kai Tak Stadium), en Kowloon City (Hong Kong), acogió la gira Stray Kids World Tour: RUN IT - Hong Kong.'
-quickAnswer: 'El sábado 5 de diciembre de 2026, el Estadio Kai Tak (Kai Tak Stadium), en Kowloon City (Hong Kong), acogió la gira Stray Kids World Tour: RUN IT - Hong Kong. La venta de entradas para el concierto de 2026 corrió a cargo del promotor local de la gira. Para llegar no hacía falta coche, ya que las estaciones de Kai Tak y Sung Wong Toi, ambas de la línea Tuen Ma, quedan a pocos minutos a pie del estadio.'
+description: 'El sábado 5 de diciembre de 2026, el Estadio Kai Tak (Kai Tak Stadium), en Kowloon City (Hong Kong), acoge la gira Stray Kids World Tour: RUN IT - Hong Kong.'
+quickAnswer: 'El sábado 5 de diciembre de 2026, el Estadio Kai Tak (Kai Tak Stadium), en Kowloon City (Hong Kong), acoge la gira Stray Kids World Tour: RUN IT - Hong Kong. La venta de entradas para el concierto de 2026 corre a cargo del promotor local de la gira. Para llegar no hace falta coche, ya que las estaciones de Kai Tak y Sung Wong Toi, ambas de la línea Tuen Ma, quedan a pocos minutos a pie del estadio.'
 faq:
   - q: ¿Cuándo y dónde se celebró en Hong Kong el concierto RUN IT de Stray Kids?
-    a: Tuvo lugar el sábado 5 de diciembre de 2026 en el Estadio Kai Tak, situado dentro del Parque Deportivo Kai Tak (Kai Tak Sports Park), en Kowloon City. El recinto tiene un aforo de unas 50.000 personas y cuenta con cubierta retráctil.
+    a: Tiene lugar el sábado 5 de diciembre de 2026 en el Estadio Kai Tak, situado dentro del Parque Deportivo Kai Tak (Kai Tak Sports Park), en Kowloon City. El recinto tiene un aforo de unas 50.000 personas y cuenta con cubierta retráctil.
   - q: ¿Cuál es la estación de metro (MTR) más cercana al Estadio Kai Tak?
     a: Lo habitual es bajarse en la estación de Kai Tak, en la línea Tuen Ma. A una sola parada, en esa misma línea, se encuentra la estación de Sung Wong Toi, desde la que también se llega andando y que suele estar menos concurrida al terminar el concierto.
   - q: ¿Qué tiempo hace en Hong Kong a principios de diciembre?
@@ -22,7 +22,7 @@ faq:
 
 El Estadio Kai Tak (Kai Tak Stadium) ocupa los terrenos del antiguo aeropuerto de Hong Kong. Durante décadas, los aviones sobrevolaban a baja altura los tejados de Kowloon City antes de tomar tierra aquí. Tras el cierre del aeropuerto en 1998, en ese espacio se levantó el Parque Deportivo Kai Tak (Kai Tak Sports Park), cuyo estadio central se inauguró en 2025.
 
-Stray Kids llevaron su gira mundial «RUN IT» a este coliseo el 5 de diciembre de 2026. Bajo su cubierta retráctil caben unas 50.000 personas, lo que lo convierte en el mayor recinto de la ciudad para este grupo de ocho integrantes de JYP Entertainment. Para STAY, nombre con el que se identifica su comunidad de fans, supuso disfrutar de toda una noche en un estadio lleno, y no de un concierto en un pabellón.
+Stray Kids llevan su gira mundial «RUN IT» a este coliseo el 5 de diciembre de 2026. Bajo su cubierta retráctil caben unas 50.000 personas, lo que lo convierte en el mayor recinto de la ciudad para este grupo de ocho integrantes de JYP Entertainment. Para STAY, nombre con el que se identifica su comunidad de fans, supuso disfrutar de toda una noche en un estadio lleno, y no de un concierto en un pabellón.
 
 ## La fecha y el funcionamiento de la venta de entradas
 

@@ -786,6 +786,12 @@
   "reason": "publish gate: Hill with flag atop, matches ANZAC Hill viewpoint",
   "at": "2026-09-29T07:48:15.650Z"
  },
+ "alice-springs-national-road-transport-museum-and-hall-of-fame\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Display_room%2C_National_Road_Transport_Hall_of_Fame%2C_2015.JPG/3840px-Display_room%2C_National_Road_Transport_Hall_of_Fame%2C_2015.JPG": {
+  "slug": "alice-springs-national-road-transport-museum-and-hall-of-fame",
+  "verdict": "MATCH",
+  "reason": "publish gate: Museum interior with displays, photos, and exhibits shown",
+  "at": "2026-10-16T08:07:17.750Z"
+ },
  "alishan-alishan-forest-railway-garage-park\u0001https://upload.wikimedia.org/wikipedia/commons/6/64/Alishan_Forest_Railway_Garage_Park_20160730.jpg": {
   "slug": "alishan-alishan-forest-railway-garage-park",
   "verdict": "MATCH",
@@ -5016,6 +5022,12 @@
   "reason": "publish gate: Exterior facade and entrance of Cardiff Story Museum",
   "at": "2026-10-01T14:43:21.427Z"
  },
+ "cardiff-national-museum-cardiff\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Amgueddfa_Genedlaethol_Caerdydd.JPG/1920px-Amgueddfa_Genedlaethol_Caerdydd.JPG": {
+  "slug": "cardiff-national-museum-cardiff",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of National Museum Cardiff, representative view",
+  "at": "2026-10-16T08:07:17.791Z"
+ },
  "causeway-bay-east-coast-park-precinct\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/East_Coast_Park_Precinct%2C_Fortress_Hill_07-01-2023%286%29.jpg/3840px-East_Coast_Park_Precinct%2C_Fortress_Hill_07-01-2023%286%29.jpg": {
   "slug": "causeway-bay-east-coast-park-precinct",
   "verdict": "MATCH",
@@ -7244,6 +7256,12 @@
   "reason": "publish gate: Exterior of National Museum of Scotland building, representative view",
   "at": "2026-10-12T08:03:15.529Z"
  },
+ "edinburgh-one-o-clock-gun\u0001https://upload.wikimedia.org/wikipedia/commons/1/14/Edinburgh_-_Old_City_-_One_O%27clock_gun_%282962381128%29.jpg": {
+  "slug": "edinburgh-one-o-clock-gun",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows the cannon at Edinburgh Castle, representative view",
+  "at": "2026-10-16T08:06:36.158Z"
+ },
  "edinburgh-palace-of-holyroodhouse\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Holyrood_Palace_-_aerial_-_2025-04-19_01_%28cropped%29.jpg/1920px-Holyrood_Palace_-_aerial_-_2025-04-19_01_%28cropped%29.jpg": {
   "slug": "edinburgh-palace-of-holyroodhouse",
   "verdict": "MATCH",
@@ -7516,6 +7534,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Interior greenhouse with globe sculpture, representative of Palmengarten",
   "at": "2026-10-02T14:23:05.196Z"
+ },
+ "frankfurt-romerberg\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/R%C3%B6merberg_Frankfurt_abends.jpg/3840px-R%C3%B6merberg_Frankfurt_abends.jpg": {
+  "slug": "frankfurt-romerberg",
+  "verdict": "MATCH",
+  "reason": "publish gate: Römerberg square with historic buildings, accurate representative view",
+  "at": "2026-10-16T08:06:36.214Z"
  },
  "frankfurt-senckenberg-nature-museum\u0001https://upload.wikimedia.org/wikipedia/commons/b/b6/Senckenberg_Museum_Frankfurt.jpg": {
   "slug": "frankfurt-senckenberg-nature-museum",
@@ -8108,6 +8132,12 @@
   "reason": "publish gate: Exterior of Riverside Museum, recognisable zigzag facade",
   "at": "2026-09-30T14:10:00.955Z"
  },
+ "glasgow-st-andrew-s-in-the-square\u0001https://upload.wikimedia.org/wikipedia/commons/e/ee/St_Andrew%27s_in_the_Square_-_view_from_W.jpg": {
+  "slug": "glasgow-st-andrew-s-in-the-square",
+  "verdict": "MATCH",
+  "reason": "publish gate: Clear exterior view of St Andrew's in the Square church",
+  "at": "2026-10-16T08:06:36.109Z"
+ },
  "glasgow-the-glasgow-necropolis\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Glasgow_Necropolis_-_aerial_-_2025-04-17_01.jpg/1920px-Glasgow_Necropolis_-_aerial_-_2025-04-17_01.jpg": {
   "slug": "glasgow-the-glasgow-necropolis",
   "verdict": "MATCH",
@@ -8464,6 +8494,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Colonial courtyard arcade, representative of museum's architecture",
   "at": "2026-10-05T16:19:58.921Z"
+ },
+ "guanajuato-basilica-colegiata-de-nuestra-senora-de-guanajuato\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Bas%C3%ADlica_Colegiata_de_Guanajuato_M-11-148-04-00.JPG/3840px-Bas%C3%ADlica_Colegiata_de_Guanajuato_M-11-148-04-00.JPG": {
+  "slug": "guanajuato-basilica-colegiata-de-nuestra-senora-de-guanajuato",
+  "verdict": "MATCH",
+  "reason": "publish gate: Night exterior shot of the Basilica, representative hero image",
+  "at": "2026-10-16T08:06:36.291Z"
  },
  "guanajuato-mercado-hidalgo\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Mercado_Hidalgo_en_Guanajuato.jpg/3840px-Mercado_Hidalgo_en_Guanajuato.jpg": {
   "slug": "guanajuato-mercado-hidalgo",
@@ -18305,6 +18341,12 @@
   "reasonKo": "내슈빌 컨트리음악 박물관 외관",
   "at": "2026-08-13T14:04:28.300Z"
  },
+ "nashville-grand-ole-opry\u0001https://upload.wikimedia.org/wikipedia/commons/c/c8/Grand_Ole_Opry_%2897056906%29.jpg": {
+  "slug": "nashville-grand-ole-opry",
+  "verdict": "MATCH",
+  "reason": "publish gate: Clear exterior facade of Grand Ole Opry House",
+  "at": "2026-10-16T08:06:36.265Z"
+ },
  "nashville-johnny-cash-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Johnny_Cash_Museum%2C_Nashville.JPG/1920px-Johnny_Cash_Museum%2C_Nashville.JPG": {
   "slug": "nashville-johnny-cash-museum",
   "verdict": "MATCH",
@@ -21961,6 +22003,12 @@
   "reason": "publish gate: Representative square view of Rothenburg's Marktplatz buildings",
   "at": "2026-10-04T07:40:41.140Z"
  },
+ "rothenburg-ob-der-tauber-rothenburg-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Rothenburg_ob_der_Tauber%2C_das_Rothenburg-Museum.jpg/3840px-Rothenburg_ob_der_Tauber%2C_das_Rothenburg-Museum.jpg": {
+  "slug": "rothenburg-ob-der-tauber-rothenburg-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of Rothenburg Museum building with signage visible",
+  "at": "2026-10-16T08:07:17.816Z"
+ },
  "rothenburg-ob-der-tauber-stadtmauer-rothenburg\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Rothenburg_ob_der_Tauber%2C_Stadtmauer_und_Haus_Trompeterg%C3%A4sschen_6.jpg/3840px-Rothenburg_ob_der_Tauber%2C_Stadtmauer_und_Haus_Trompeterg%C3%A4sschen_6.jpg": {
   "slug": "rothenburg-ob-der-tauber-stadtmauer-rothenburg",
   "verdict": "MATCH",
@@ -22157,6 +22205,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Iconic Botanical Building exterior with reflecting pool, San Diego",
   "at": "2026-09-09T07:41:13.406Z"
+ },
+ "san-diego-gaslamp-quarter\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Gaslamp_Quarter_01.jpg/1920px-Gaslamp_Quarter_01.jpg": {
+  "slug": "san-diego-gaslamp-quarter",
+  "verdict": "MATCH",
+  "reason": "publish gate: Iconic Gaslamp Quarter arch sign, representative street view",
+  "at": "2026-10-16T08:06:36.240Z"
  },
  "san-diego-mormon-battalion-historic-site\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/San_Diego_-_Old_Town%2C_CA_USA_-_Mormon_Battalion_Historic_Site_-_panoramio.jpg/1920px-San_Diego_-_Old_Town%2C_CA_USA_-_Mormon_Battalion_Historic_Site_-_panoramio.jpg": {
   "slug": "san-diego-mormon-battalion-historic-site",
@@ -28362,6 +28416,12 @@
   "verdict": "MATCH",
   "reason": "Iconic Ciudad de las Artes y las Ciencias architecture",
   "at": "2026-07-25T02:50:38.635Z"
+ },
+ "valencia-el-micalet\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Valencia_-_El_Micalet_01.jpg/3840px-Valencia_-_El_Micalet_01.jpg": {
+  "slug": "valencia-el-micalet",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows El Micalet tower, recognizable Valencia landmark view",
+  "at": "2026-10-16T08:06:36.188Z"
  },
  "valencia-la-lonja-de-la-seda-de-valencia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Lonja_de_la_Seda%2C_Valencia%2C_Espa%C3%B1a%2C_2014-06-29%2C_DD_23-25_HDR.JPG/1920px-Lonja_de_la_Seda%2C_Valencia%2C_Espa%C3%B1a%2C_2014-06-29%2C_DD_23-25_HDR.JPG": {
   "slug": "valencia-la-lonja-de-la-seda-de-valencia",

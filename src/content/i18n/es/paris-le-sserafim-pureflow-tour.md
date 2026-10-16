@@ -1,13 +1,13 @@
 ---
 lang: es
 slug: paris-le-sserafim-pureflow-tour
-srcHash: '8ddb00b5b875'
+srcHash: 'a627df083048'
 title: 'Gira PUREFLOW de LE SSERAFIM en París: fecha, entradas y recinto'
-description: El 21 de octubre de 2026, la gira PUREFLOW de LE SSERAFIM llegó a París. El concierto se celebró en el Accor Arena, en el barrio de Bercy, en el distrito 12.
-quickAnswer: El 21 de octubre de 2026, la gira PUREFLOW de LE SSERAFIM hizo escala en París, en el Accor Arena del barrio de Bercy (distrito 12). Fue el primer concierto del grupo en Francia y una de las cinco paradas europeas de la gira más ambiciosa de su trayectoria hasta la fecha. La estación de metro más cercana es Bercy (líneas 6 y 14), situada junto al recinto.
+description: El 21 de octubre de 2026, la gira PUREFLOW de LE SSERAFIM llega a París. El concierto se celebra en el Accor Arena, en el barrio de Bercy, en el distrito 12.
+quickAnswer: El 21 de octubre de 2026, la gira PUREFLOW de LE SSERAFIM hace escala en París, en el Accor Arena del barrio de Bercy (distrito 12). Fue el primer concierto del grupo en Francia y una de las cinco paradas europeas de la gira más ambiciosa de su trayectoria hasta la fecha. La estación de metro más cercana es Bercy (líneas 6 y 14), situada junto al recinto.
 faq:
   - q: ¿Cuándo y dónde actuó LE SSERAFIM en París?
-    a: El concierto parisino de la gira mundial PUREFLOW tuvo lugar el 21 de octubre de 2026 en el Accor Arena, en el barrio de Bercy, dentro del distrito 12 de París.
+    a: El concierto parisino de la gira mundial PUREFLOW tiene lugar el 21 de octubre de 2026 en el Accor Arena, en el barrio de Bercy, dentro del distrito 12 de París.
   - q: ¿Era la primera vez que LE SSERAFIM daba un concierto en Francia?
     a: Sí. Con la fecha del Accor Arena, el grupo actuó por primera vez en Francia. Fue además una de las cinco paradas europeas de la gira PUREFLOW.
   - q: ¿Cuál es la estación de metro más cercana al Accor Arena?
@@ -20,7 +20,7 @@ faq:
 
 ## La primera noche de LE SSERAFIM en Francia
 
-Con esta cita, el grupo debutó en suelo francés. El 21 de octubre de 2026, LE SSERAFIM llevó su gira mundial PUREFLOW al Accor Arena y ofreció allí su primer concierto en Francia. París fue una de las cinco fechas europeas de la que es, hasta ahora, la mayor gira de su carrera.
+Con esta cita, el grupo debutó en suelo francés. El 21 de octubre de 2026, LE SSERAFIM llevó su gira mundial PUREFLOW al Accor Arena y ofreció allí su primer concierto en Francia. París es una de las cinco fechas europeas de la que es, hasta ahora, la mayor gira de su carrera.
 
 El grupo lo forman cinco integrantes: Kim Chaewon, Sakura, Huh Yunjin, Kazuha y Hong Eunchae. Desde hacía años pasaban por París con motivo de las semanas de la moda y de diversas promociones. Los FEARNOT franceses, como se conoce a sus seguidores, ya no tuvieron que viajar a Londres o a Ámsterdam: por fin pudieron disfrutar de un espectáculo completo en su propio país.
 

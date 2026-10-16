@@ -1,13 +1,13 @@
 ---
 lang: zh
 slug: singapore-nct-127-neo-city-the-redline
-srcHash: '7585ff260bf3'
+srcHash: '107710592963'
 title: 'NCT 127《Neo City: The Redline》新加坡站：日期、门票与场馆指南'
-description: '2026年10月18日，NCT 127世界巡演《Neo City: The Redline》来到新加坡，在加冷的新加坡室内体育馆开唱。'
-quickAnswer: '2026年10月18日，NCT 127世界巡演《Neo City: The Redline》在加冷（Kallang）的新加坡室内体育馆（Singapore Indoor Stadium）举行新加坡站演出。从地铁环线的体育场站（Stadium）出来，沿有顶棚的步道走一小段就能到场馆。散场时人潮汹涌，粉丝们一般会从体育场站离开，或者步行到加冷站上车，避开最拥挤的时段。'
+description: '2026年10月18日，NCT 127世界巡演《Neo City: The Redline》将来到新加坡，在加冷的新加坡室内体育馆开唱。'
+quickAnswer: '2026年10月18日，NCT 127世界巡演《Neo City: The Redline》将在加冷（Kallang）的新加坡室内体育馆（Singapore Indoor Stadium）举行新加坡站演出。从地铁环线的体育场站（Stadium）出来，沿有顶棚的步道走一小段就能到场馆。散场时人潮汹涌，粉丝们一般会从体育场站离开，或者步行到加冷站上车，避开最拥挤的时段。'
 faq:
   - q: 'NCT 127《Neo City: The Redline》新加坡站在什么时间、什么地点举行？'
-    a: 演出于2026年10月18日在加冷的新加坡室内体育馆举行，场馆位于新加坡体育城范围内。
+    a: 演出将于2026年10月18日在加冷的新加坡室内体育馆举行，场馆位于新加坡体育城范围内。
   - q: 离新加坡室内体育馆最近的是哪个地铁站？
     a: 最近的是环线的体育场地铁站（CC6），出站后沿有顶棚的步道经过加冷Wave购物中心即可到达场馆。散场后也可以步行到加冷站（EW10）或蒙巴登站（CC7）乘车。
   - q: 巡演日期和购票链接在哪里查看？

@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: singapore-babymonster-world-tour-choom
-srcHash: '2ffd25c7f70c'
+srcHash: '81f5c037e4cb'
 title: BABYMONSTER世界巡演[CHOOM]新加坡站：日期、门票与场馆
 description: 2026年11月28日至29日，BABYMONSTER世界巡演[CHOOM]在加冷的新加坡室内体育馆连演两晚。
 quickAnswer: 2026年11月28日至29日，BABYMONSTER世界巡演[CHOOM]在加冷（Kallang）的新加坡室内体育馆（Singapore Indoor Stadium）连演两晚。场馆位于新加坡体育城（Singapore Sports Hub）内，从环线体育场地铁站（Stadium）步行过去只需几分钟。演出当晚，大多数观众都选择乘地铁前往。
@@ -20,7 +20,7 @@ faq:
 
 ## 加冷穹顶下的两个夜晚
 
-新加坡站一共演出两晚。2026年11月28日和29日，BABYMONSTER七位成员在新加坡室内体育馆带来了World Tour [CHOOM]。场馆可容纳约12,000人，和体育场级别的演出不同，坐在最后几排也不会有游离场外的感觉。
+新加坡站一共演出两晚。2026年11月28日和29日，BABYMONSTER七位成员将在新加坡室内体育馆带来World Tour [CHOOM]。场馆可容纳约12,000人，和体育场级别的演出不同，坐在最后几排也不会有游离场外的感觉。
 
 从加冷湾（Kallang Basin）望过去，这座建筑一眼就能认出来。它由丹下健三设计，1989年落成，形似金字塔的屋顶朝着水面倾斜而下。馆内座位从场地四周陡然升起，正因为看台坡度大，即使坐在高层，看K-pop舞台的视野也毫不逊色。
 

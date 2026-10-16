@@ -1,13 +1,13 @@
 ---
 lang: es
 slug: jakarta-israel-new-breed-til-the-whole-world-knows-tour
-srcHash: 'e0f095e522b1'
+srcHash: '5041ce187470'
 title: 'Israel & New Breed - Til the Whole World Knows Tour: fechas, entradas y recinto (Yakarta)'
-description: Tal como se había anunciado, el Til the Whole World Knows Tour de Israel & New Breed llegó a Yakarta el 15 October 2026. El concierto se celebró en The Kasablanka Hall, dentro del centro comercial Kota Kasablanka, en Tebet (Yakarta Sur).
-quickAnswer: Tal como se había anunciado, el Til the Whole World Knows Tour de Israel & New Breed llegó a Yakarta el 15 October 2026. El concierto se celebró en The Kasablanka Hall, dentro del centro comercial Kota Kasablanka, en Tebet (Yakarta Sur). Como la sala ocupa una de las plantas superiores del centro comercial, el público suele aprovechar para cenar allí antes del concierto y recurre a Gojek o Grab para no quedar atrapado en las colas del aparcamiento.
+description: Tal como se había anunciado, el Til the Whole World Knows Tour de Israel & New Breed llega a Yakarta el 15 October 2026. El concierto se celebra en The Kasablanka Hall, dentro del centro comercial Kota Kasablanka, en Tebet (Yakarta Sur).
+quickAnswer: Tal como se había anunciado, el Til the Whole World Knows Tour de Israel & New Breed llega a Yakarta el 15 October 2026. El concierto se celebra en The Kasablanka Hall, dentro del centro comercial Kota Kasablanka, en Tebet (Yakarta Sur). Como la sala ocupa una de las plantas superiores del centro comercial, el público suele aprovechar para cenar allí antes del concierto y recurre a Gojek o Grab para no quedar atrapado en las colas del aparcamiento.
 faq:
   - q: ¿Cuándo y dónde actuaron Israel & New Breed en Yakarta?
-    a: El Til the Whole World Knows Tour 2026 pasó por Yakarta el jueves 15 October 2026. La cita fue en The Kasablanka Hall, situado dentro del centro comercial Kota Kasablanka, en Tebet (Yakarta Sur).
+    a: El Til the Whole World Knows Tour 2026 pasa por Yakarta el jueves 15 October 2026. La cita es en The Kasablanka Hall, situado dentro del centro comercial Kota Kasablanka, en Tebet (Yakarta Sur).
   - q: ¿Cómo se suele llegar a The Kasablanka Hall?
     a: La mayoría del público se desplaza con Gojek o Grab. Muchos prefieren el mototaxi (ojek), con el que se esquiva mejor el tráfico vespertino de Jalan Casablanca. La estación de tren de cercanías más próxima es KRL Tebet, desde donde casi todos completan el trayecto con un breve viaje en VTC. El centro comercial dispone además de aparcamiento propio, aunque se colapsa tras los grandes eventos.
   - q: ¿Qué canciones esperan escuchar los fans?
@@ -20,7 +20,7 @@ faq:
 
 ## Una gira góspel que aterriza en un centro comercial de Yakarta Sur
 
-La cita fue el jueves 15 October 2026. Ese día, Israel & New Breed presentaron su *Til the Whole World Knows Tour 2026* en The Kasablanka Hall de Yakarta, una de las paradas de una gira concebida en torno al colectivo de adoración que lidera Israel Houghton.
+La cita es el jueves 15 October 2026. Ese día, Israel & New Breed presentan su *Til the Whole World Knows Tour 2026* en The Kasablanka Hall de Yakarta, una de las paradas de una gira concebida en torno al colectivo de adoración que lidera Israel Houghton.
 
 Muchos fans indonesios llevan dos décadas cantando esta música en la iglesia. Las versiones traducidas de los temas de New Breed se escuchan en los cultos juveniles de todo el país. Por eso, un concierto suyo aquí se parece menos a un espectáculo que a una noche de adoración multitudinaria.
 

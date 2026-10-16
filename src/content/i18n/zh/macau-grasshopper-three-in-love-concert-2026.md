@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: macau-grasshopper-three-in-love-concert-2026
-srcHash: '850975aada14'
+srcHash: '2e63e129a4c9'
 title: 草蜢 Three in Love 演唱会2026：日期、门票与场馆（澳门）
 description: 香港舞曲组合草蜢于2026年10月24日至25日在澳门路氹威尼斯人综艺馆（The Venetian Arena）举行 Three in Love 演唱会2026，纪念三人携手走过的第41个年头。
 quickAnswer: 香港舞曲组合草蜢于2026年10月24日至25日在澳门路氹威尼斯人综艺馆（The Venetian Arena）举行 Three in Love 演唱会2026，以此纪念三人合作的第41个年头。综艺馆位于路氹金光大道（Cotai Strip）上的澳门威尼斯人度假村内。从香港出发的歌迷大多搭乘渡轮或取道港珠澳大桥，抵澳后再换乘度假村免费穿梭巴士，直达场馆门口。

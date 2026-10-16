@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: quezon-city-simple-plan-the-bigger-than-you-think-tour
-srcHash: 'eed3fe32fc7d'
+srcHash: '225525b17359'
 title: Simple Plan「Bigger Than You Think」巡演奎松市站：日期、门票与场馆
 description: Simple Plan「Bigger Than You Think」巡演奎松市站于2026年11月25日（星期三）在库巴奥（Cubao）的阿拉内塔体育馆举行。
 quickAnswer: 2026年11月25日（星期三），Simple Plan「Bigger Than You Think」巡演奎松市站在库巴奥（Cubao）的阿拉内塔体育馆（Araneta Coliseum）开唱。这座体育馆的演唱会门票向来由场馆旗下的老牌票务平台TicketNet发售。MRT-3和LRT-2线都设有阿拉内塔中心–库巴奥站，出站步行不远就能到达圆顶场馆。

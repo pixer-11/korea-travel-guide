@@ -1,10 +1,10 @@
 ---
 lang: es
 slug: tokyo-bigbang-japan-dome-tour-tokyo
-srcHash: '7f1201f00c2f'
+srcHash: '9bb269dd436e'
 title: 'BIGBANG Japan Dome Tour en Tokio: fechas, entradas y recinto (Tokio)'
-description: Dentro de su gira de 2026, BIGBANG ofreció tres conciertos del BIGBANG Japan Dome Tour en el Tokyo Dome, situado en el distrito tokiota de Bunkyo, del 13 al 15 de diciembre de 2026.
-quickAnswer: 'Dentro de su gira de 2026, BIGBANG ofreció tres conciertos del BIGBANG Japan Dome Tour en el Tokyo Dome, situado en el distrito tokiota de Bunkyo, del 13 al 15 de diciembre de 2026. En Japón, las entradas para los conciertos en estadios cubiertos suelen repartirse por sorteo y van a nombre del comprador, por lo que en el acceso se comprueba la identidad. El estadio queda a pocos pasos de dos estaciones: Suidobashi, servida por la línea JR Chuo-Sobu y la línea Toei Mita, y Korakuen, servida por las líneas Marunouchi y Namboku.'
+description: Dentro de su gira de 2026, BIGBANG ofrece tres conciertos del BIGBANG Japan Dome Tour en el Tokyo Dome, situado en el distrito tokiota de Bunkyo, del 13 al 15 de diciembre de 2026.
+quickAnswer: 'Dentro de su gira de 2026, BIGBANG ofrece tres conciertos del BIGBANG Japan Dome Tour en el Tokyo Dome, situado en el distrito tokiota de Bunkyo, del 13 al 15 de diciembre de 2026. En Japón, las entradas para los conciertos en estadios cubiertos suelen repartirse por sorteo y van a nombre del comprador, por lo que en el acceso se comprueba la identidad. El estadio queda a pocos pasos de dos estaciones: Suidobashi, servida por la línea JR Chuo-Sobu y la línea Toei Mita, y Korakuen, servida por las líneas Marunouchi y Namboku.'
 faq:
   - q: ¿Cuándo y dónde se celebró en Tokio el BIGBANG Japan Dome Tour?
     a: Hubo tres conciertos, del 13 al 15 de diciembre de 2026, en el Tokyo Dome. El estadio forma parte del complejo Tokyo Dome City, en el distrito de Bunkyo (Tokio).

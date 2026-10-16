@@ -1,13 +1,13 @@
 ---
 lang: es
 slug: macau-grasshopper-three-in-love-concert-2026
-srcHash: '850975aada14'
+srcHash: '2e63e129a4c9'
 title: 'Grasshopper Three in Love Concert 2026: fechas, entradas y recinto (Macao)'
-description: El trío hongkonés de dance-pop Grasshopper celebró sus 41 años de trayectoria con el Three in Love Concert 2026. Lo ofreció los días 24 y 25 de octubre de 2026 en The Venetian Arena de Cotai, en Macao.
-quickAnswer: El trío hongkonés de dance-pop Grasshopper celebró sus 41 años juntos con el Three in Love Concert 2026, que tuvo lugar los días 24 y 25 de octubre de 2026 en The Venetian Arena de Cotai, en Macao. El recinto forma parte del complejo The Venetian Macao, situado en el Cotai Strip. Casi todos los fans que llegan desde Hong Kong cruzan en ferri o por el puente Hong Kong-Zhuhai-Macao. Después, un autobús lanzadera gratuito del complejo los deja en la misma puerta.
+description: El trío hongkonés de dance-pop Grasshopper celebra sus 41 años de trayectoria con el Three in Love Concert 2026. Lo ofrece los días 24 y 25 de octubre de 2026 en The Venetian Arena de Cotai, en Macao.
+quickAnswer: El trío hongkonés de dance-pop Grasshopper celebra sus 41 años juntos con el Three in Love Concert 2026, que tiene lugar los días 24 y 25 de octubre de 2026 en The Venetian Arena de Cotai, en Macao. El recinto forma parte del complejo The Venetian Macao, situado en el Cotai Strip. Casi todos los fans que llegan desde Hong Kong cruzan en ferri o por el puente Hong Kong-Zhuhai-Macao. Después, un autobús lanzadera gratuito del complejo los deja en la misma puerta.
 faq:
   - q: ¿Cuándo y dónde se celebró el Grasshopper Three in Love Concert 2026?
-    a: Fueron dos noches, el 24 y el 25 de octubre de 2026, en The Venetian Arena. El pabellón se encuentra dentro del complejo The Venetian Macao, en el Cotai Strip de Macao.
+    a: Son dos noches, el 24 y el 25 de octubre de 2026, en The Venetian Arena. El pabellón se encuentra dentro del complejo The Venetian Macao, en el Cotai Strip de Macao.
   - q: ¿Cómo se llega a The Venetian Arena desde Hong Kong?
     a: 'Casi todo el mundo va en el ferri de Cotai Water Jet hasta la Terminal de Ferris de Taipa (Taipa Ferry Terminal) o en el autobús lanzadera que cruza el puente Hong Kong-Zhuhai-Macao. Desde los dos puntos salen lanzaderas gratuitas de los complejos Sands hacia The Venetian. Otra opción es el metro ligero (Light Rapid Transit): la estación Cotai West está a pocos pasos.'
   - q: ¿Qué se celebraba con este concierto?
@@ -20,7 +20,7 @@ faq:
 
 ## Cuarenta y un años de Grasshopper
 
-Fue un concierto de aniversario. Calvin Choy, Remus Choy y Edmond So forman Grasshopper (草蜢), un trío que surgió en el Hong Kong de mediados de los ochenta y que desde entonces apenas ha parado. Con el Three in Love Concert 2026 celebraron sus 41 años de carrera. Fueron dos noches, el 24 y el 25 de octubre de 2026, en The Venetian Arena de Macao.
+Es un concierto de aniversario. Calvin Choy, Remus Choy y Edmond So forman Grasshopper (草蜢), un trío que surgió en el Hong Kong de mediados de los ochenta y que desde entonces apenas ha parado. Con el Three in Love Concert 2026 celebran sus 41 años de carrera. Son dos noches, el 24 y el 25 de octubre de 2026, en The Venetian Arena de Macao.
 
 Su historia está unida a la edad dorada del cantopop. Empezaron como bailarines de Anita Mui, hasta que sus propios éxitos acabaron por imponerse. En Hong Kong y Cantón no falta en ningún karaoke una canción como 失戀 o 半點心. El público de Grasshopper suele saberse todas las letras y todos los gestos de las coreografías. Muchos se los saben desde la época de las casetes.
 

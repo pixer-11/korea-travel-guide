@@ -1,13 +1,13 @@
 ---
 lang: es
 slug: quezon-city-simple-plan-the-bigger-than-you-think-tour
-srcHash: 'eed3fe32fc7d'
+srcHash: '225525b17359'
 title: 'Simple Plan: The Bigger Than You Think Tour: fechas, entradas y recinto (Quezon City)'
-description: El miércoles 25 de noviembre de 2026, la gira The Bigger Than You Think Tour de Simple Plan recaló en Quezon City con un concierto en el Araneta Coliseum de Cubao.
-quickAnswer: El miércoles 25 de noviembre de 2026, la gira The Bigger Than You Think Tour de Simple Plan llegó a Quezon City con un concierto en el Araneta Coliseum de Cubao. Tradicionalmente, las entradas para los conciertos del coliseo se venden a través de TicketNet, el servicio de venta de entradas que el recinto gestiona desde hace muchos años. Las estaciones Araneta Center–Cubao del MRT-3 y del LRT-2 quedan a pocos minutos a pie de la cúpula.
+description: El miércoles 25 de noviembre de 2026, la gira The Bigger Than You Think Tour de Simple Plan recalará en Quezon City con un concierto en el Araneta Coliseum de Cubao.
+quickAnswer: El miércoles 25 de noviembre de 2026, la gira The Bigger Than You Think Tour de Simple Plan llegará a Quezon City con un concierto en el Araneta Coliseum de Cubao. Tradicionalmente, las entradas para los conciertos del coliseo se venden a través de TicketNet, el servicio de venta de entradas que el recinto gestiona desde hace muchos años. Las estaciones Araneta Center–Cubao del MRT-3 y del LRT-2 quedan a pocos minutos a pie de la cúpula.
 faq:
   - q: ¿Dónde actuó Simple Plan en Quezon City durante la gira Bigger Than You Think Tour?
-    a: En el Araneta Coliseum, conocido también como el Big Dome, situado en Araneta City (Cubao, Quezon City). El concierto se celebró el miércoles 25 de noviembre de 2026.
+    a: En el Araneta Coliseum, conocido también como el Big Dome, situado en Araneta City (Cubao, Quezon City). El concierto se celebrará el miércoles 25 de noviembre de 2026.
   - q: ¿Cómo se llega en tren al Araneta Coliseum?
     a: Puede tomar el MRT-3 hasta la estación Araneta Center–Cubao, en EDSA, o el LRT-2 hasta la estación del mismo nombre en Aurora Boulevard. Desde cualquiera de las dos se llega al coliseo con un breve paseo por Araneta City.
   - q: ¿Quién vende las entradas para los conciertos del Araneta Coliseum?

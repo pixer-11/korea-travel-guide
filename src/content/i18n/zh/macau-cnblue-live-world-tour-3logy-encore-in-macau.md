@@ -1,10 +1,10 @@
 ---
 lang: zh
 slug: macau-cnblue-live-world-tour-3logy-encore-in-macau
-srcHash: '3b0053404419'
+srcHash: '4e7c81023dec'
 title: CNBLUE LIVE WORLD TOUR '3LOGY' ENCORE IN MACAU：演出日期、门票与场馆（澳门）
-description: 2026年11月14日和15日，CNBLUE在路氹澳门新濠影汇举行了CNBLUE LIVE WORLD TOUR '3LOGY' ENCORE IN MACAU。这两场是乐队3LOGY世界巡演的安可场。
-quickAnswer: 2026年11月14日和15日，CNBLUE在路氹的澳门新濠影汇（Studio City Macau）举行了CNBLUE LIVE WORLD TOUR '3LOGY' ENCORE IN MACAU，作为3LOGY世界巡演的安可站。新濠影汇位于路氹金光大道南端，紧挨莲花大桥口岸。多数歌迷搭乘度假村的免费穿梭巴士或澳门轻轨前往。
+description: 2026年11月14日和15日，CNBLUE在路氹澳门新濠影汇举行CNBLUE LIVE WORLD TOUR '3LOGY' ENCORE IN MACAU。这两场是乐队3LOGY世界巡演的安可场。
+quickAnswer: 2026年11月14日和15日，CNBLUE在路氹的澳门新濠影汇（Studio City Macau）举行CNBLUE LIVE WORLD TOUR '3LOGY' ENCORE IN MACAU，作为3LOGY世界巡演的安可站。新濠影汇位于路氹金光大道南端，紧挨莲花大桥口岸。多数歌迷搭乘度假村的免费穿梭巴士或澳门轻轨前往。
 faq:
   - q: CNBLUE的3LOGY澳门安可场在什么时间、什么地点举行？
     a: 共演出两晚，时间是2026年11月14日和15日，地点在路氹金光大道上的澳门新濠影汇。
@@ -20,7 +20,7 @@ faq:
 
 ## 路氹两晚3LOGY安可
 
-CNBLUE把3LOGY世界巡演带回澳门，加开了安可场。2026年11月14日和15日两晚，乐队在澳门新濠影汇登台。新濠影汇是路氹金光大道上一座以电影为主题的综合娱乐度假村，内设赌场。
+CNBLUE把3LOGY世界巡演带回澳门，加开安可场。2026年11月14日和15日两晚，乐队在澳门新濠影汇登台。新濠影汇是路氹金光大道上一座以电影为主题的综合娱乐度假村，内设赌场。
 
 CNBLUE是FNC Entertainment旗下的三人摇滚乐队，成员为郑容和、姜敏赫和李正信。乐队2010年出道，舞台上坚持亲自演奏乐器，这在韩流组合中并不多见。他们的粉丝名叫BOICE。
 

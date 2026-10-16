@@ -1,13 +1,13 @@
 ---
 lang: es
 slug: kuala-lumpur-yves-loona-2026-asia-australia-tour
-srcHash: '8630d7722676'
+srcHash: '64bd09e5383c'
 title: 'Gira por Asia y Australia 2026 de Yves (LOONA): fechas, entradas y recinto en Kuala Lumpur'
-description: El 7 de noviembre de 2026, la gira por Asia y Australia 2026 de Yves (LOONA) recaló en Kuala Lumpur, con entradas a la venta para una única noche en Vox Live KL.
-quickAnswer: El 7 de noviembre de 2026, la gira por Asia y Australia 2026 de Yves (LOONA) recaló en Kuala Lumpur, con entradas a la venta para una única noche en Vox Live KL. Se trata de un concierto en solitario de la exintegrante de LOONA, que se celebra en una sala de música en directo y no en un estadio. La mayoría de los fans que llegan de fuera de la ciudad se desplazan en la red ferroviaria de KL y en Grab, y se alojan una o dos noches.
+description: El 7 de noviembre de 2026, la gira por Asia y Australia 2026 de Yves (LOONA) recala en Kuala Lumpur, con entradas a la venta para una única noche en Vox Live KL.
+quickAnswer: El 7 de noviembre de 2026, la gira por Asia y Australia 2026 de Yves (LOONA) recala en Kuala Lumpur, con entradas a la venta para una única noche en Vox Live KL. Se trata de un concierto en solitario de la exintegrante de LOONA, que se celebra en una sala de música en directo y no en un estadio. La mayoría de los fans que llegan de fuera de la ciudad se desplazan en la red ferroviaria de KL y en Grab, y se alojan una o dos noches.
 faq:
   - q: ¿Cuándo y dónde actuó Yves en Kuala Lumpur durante su gira de 2026?
-    a: Yves llevó su gira por Asia y Australia 2026 a Vox Live KL, en Kuala Lumpur, el 7 de noviembre de 2026. Fue la única fecha de la gira en la ciudad.
+    a: Yves lleva su gira por Asia y Australia 2026 a Vox Live KL, en Kuala Lumpur, el 7 de noviembre de 2026. Es la única fecha de la gira en la ciudad.
   - q: ¿Quién es Yves?
     a: Yves (Ha Soo-young) formó parte del grupo de K-pop LOONA. Fue presentada como su novena integrante, cantó en la subunidad yyxy y emprendió su carrera en solitario en 2024.
   - q: ¿Cómo suelen llegar los fans al recinto?

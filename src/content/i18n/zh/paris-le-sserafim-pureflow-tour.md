@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: paris-le-sserafim-pureflow-tour
-srcHash: '8ddb00b5b875'
+srcHash: 'a627df083048'
 title: LE SSERAFIM PUREFLOW巡演巴黎站：日期、门票与场馆全攻略
 description: 2026年10月21日，LE SSERAFIM的PUREFLOW巡演来到巴黎，在第十二区贝尔西（Bercy）街区的雅高体育馆（Accor Arena）开唱。
 quickAnswer: 2026年10月21日，LE SSERAFIM的PUREFLOW巡演登陆巴黎，演出地点是第十二区贝尔西街区的雅高体育馆（Accor Arena）。这是她们在法国的首场演唱会。PUREFLOW是她们迄今规模最大的巡演，巴黎是欧洲五站之一。离场馆最近的地铁站是贝尔西站（Bercy，6号线和14号线），出站就到。

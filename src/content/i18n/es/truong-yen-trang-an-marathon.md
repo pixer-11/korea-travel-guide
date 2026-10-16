@@ -1,13 +1,13 @@
 ---
 lang: es
 slug: truong-yen-trang-an-marathon
-srcHash: '78290c4a659f'
+srcHash: 'ef0f8f0d5cb9'
 title: 'Maratón de Trang An: fechas, inscripciones y sede (Trường Yên)'
 description: El 15 de noviembre de 2026 se celebra el Maratón de Trang An, una carrera internacional que recorre el paisaje patrimonial de Trang An, en Trường Yên, cerca de Ninh Binh, en el norte de Vietnam.
 quickAnswer: El Maratón de Trang An es una carrera internacional que se disputa el 15 de noviembre de 2026 por el paisaje patrimonial de Trang An, en Trường Yên, cerca de Ninh Binh, en el norte de Vietnam. En su web oficial, la organización publica la información sobre inscripciones, los enlaces de compra y todos los detalles del día de la prueba. La mayoría de los corredores se aloja en la ciudad de Ninh Binh o en las casas de huéspedes de Tam Coc, a unas dos horas por carretera desde Hanói.
 faq:
   - q: ¿Cuándo es el Maratón de Trang An en 2026?
-    a: El Maratón de Trang An 2026 se celebró el 15 de noviembre de 2026 en Trường Yên, en la provincia de Ninh Binh. La organización publica en su web oficial las fechas, las distancias y los horarios de salida.
+    a: El Maratón de Trang An 2026 se celebra el 15 de noviembre de 2026 en Trường Yên, en la provincia de Ninh Binh. La organización publica en su web oficial las fechas, las distancias y los horarios de salida.
   - q: ¿Dónde se hacen la inscripción y la compra de dorsales para el Maratón de Trang An?
     a: En la web oficial del Maratón de Trang An, la organización publica los enlaces de inscripción y de compra, así como la información sobre la recogida de dorsales y el reglamento de la prueba.
   - q: ¿Cómo se llega al Maratón de Trang An desde Hanói?
@@ -26,7 +26,7 @@ El Maratón de Trang An es una carrera internacional en ruta que discurre por es
 
 ## 15 de noviembre de 2026: fecha e inscripción
 
-La edición de 2026 se celebró el 15 de noviembre de 2026. Las fechas de la prueba, la sede, las distancias y los enlaces de compra figuran en la web oficial de la organización. Allí se encuentran también la información sobre la inscripción, los horarios de salida y la recogida de dorsales, por lo que esta guía no reproduce cifras que podrían cambiar.
+La edición de 2026 se celebra el 15 de noviembre de 2026. Las fechas de la prueba, la sede, las distancias y los enlaces de compra figuran en la web oficial de la organización. Allí se encuentran también la información sobre la inscripción, los horarios de salida y la recogida de dorsales, por lo que esta guía no reproduce cifras que podrían cambiar.
 
 A mediados de noviembre es temporada seca en el norte de Vietnam. Por lo general, las mañanas son más frescas y menos húmedas que en verano, y por eso el otoño es la época habitual de las carreras en ruta en el norte del país. Además, en Vietnam estas pruebas suelen arrancar al amanecer para que los corredores terminen antes de que apriete el sol del mediodía.
 

@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: macau-txt-world-tour-steal-the-wind-macau
-srcHash: 'd6cb0daf61cf'
+srcHash: '3b06cd6d5666'
 title: TXT世界巡演STEAL THE WIND澳门站：日期、门票与场馆（澳门）
 description: TXT世界巡演STEAL THE WIND澳门站于2026年11月20日至22日在银河综艺馆举行。场馆位于路氹的澳门银河综合度假城内，属于室内场馆。门票及演出日期以巡演官方渠道发布的信息为准。
 quickAnswer: TXT世界巡演STEAL THE WIND澳门站于2026年11月20日至22日在银河综艺馆举行。场馆位于路氹的澳门银河综合度假城内，属于室内场馆。门票及演出日期以巡演官方渠道发布的信息为准。多数粉丝从香港出发，乘船或搭港珠澳大桥穿梭巴士抵达澳门，再换乘度假城接驳车或轻轨前往场馆。不少人会选择在路氹或氹仔住上一晚。

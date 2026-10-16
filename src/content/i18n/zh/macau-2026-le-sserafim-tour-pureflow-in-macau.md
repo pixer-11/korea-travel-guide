@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: macau-2026-le-sserafim-tour-pureflow-in-macau
-srcHash: 'a84276599076'
+srcHash: 'f8895fe38e26'
 title: 2026 LE SSERAFIM「PUREFLOW」巡演澳门站：日期、门票与场馆（澳门）
 description: 2026年11月7日和8日，LE SSERAFIM「PUREFLOW」巡演澳门站在路氹澳门银河度假城内的银河综艺馆（Galaxy Arena）连演两场。
 quickAnswer: 2026年11月7日和8日，LE SSERAFIM「PUREFLOW」巡演澳门站在路氹澳门银河度假城内的银河综艺馆（Galaxy Arena）连演两场。这次世界巡演是组合的第二次巡演，也是为新专辑造势，这两晚就是澳门站。门票事宜由巡演主办方和场馆负责。多数粉丝会顺势在路氹金光大道过个短周末。
@@ -20,7 +20,7 @@ faq:
 
 ## 路氹金光大道上的两个夜晚
 
-这一回，澳门迎来了LE SSERAFIM的两场演出。2026年11月7日和8日，这支韩国女团把第二次世界巡演PUREFLOW带到了银河综艺馆（Galaxy Arena），此番巡演也是为新专辑助阵。
+这一回，澳门迎来了LE SSERAFIM的两场演出。2026年11月7日和8日，这支韩国女团把第二次世界巡演PUREFLOW带到银河综艺馆（Galaxy Arena），此番巡演也是为新专辑助阵。
 
 组合共有五名成员：金采源、宫胁咲良（Sakura）、许允真、中村一叶（Kazuha）和洪恩採。她们的粉丝自称FEARNOT。每逢演出周末，路氹随处可见拎着周边袋、握着应援棒的粉丝。同一场馆连开两场，意味着有两批不同的观众；没抢到其中一场的粉丝，也多了一次机会。
 

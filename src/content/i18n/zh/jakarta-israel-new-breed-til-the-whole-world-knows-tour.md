@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: jakarta-israel-new-breed-til-the-whole-world-knows-tour
-srcHash: 'e0f095e522b1'
+srcHash: '5041ce187470'
 title: Israel & New Breed「Til the Whole World Knows」巡演雅加达站：日期、门票与场馆
 description: Israel & New Breed「Til the Whole World Knows」巡演按原定日期于2026年10月15日登陆雅加达，场地是南雅加达特贝特（Tebet）Kota Kasablanka购物中心内的The Kasablanka Hall。
 quickAnswer: Israel & New Breed「Til the Whole World Knows」巡演按原定日期于2026年10月15日登陆雅加达，场地是南雅加达特贝特（Tebet）Kota Kasablanka购物中心内的The Kasablanka Hall。场馆位于商场楼上，观众一般会先在Kota Kasablanka吃晚饭再入场，往返则多用Gojek或Grab叫车，免得在停车场排长队。
@@ -20,7 +20,7 @@ faq:
 
 ## 福音巡演走进南雅加达的购物中心
 
-2026年10月15日，星期四。Israel & New Breed把*Til the Whole World Knows Tour 2026*巡演带到了雅加达的The Kasablanka Hall。这支敬拜团体由Israel Houghton领衔，雅加达是这轮巡演的其中一站。
+2026年10月15日，星期四。Israel & New Breed将把*Til the Whole World Knows Tour 2026*巡演带到雅加达的The Kasablanka Hall。这支敬拜团体由Israel Houghton领衔，雅加达是这轮巡演的其中一站。
 
 对许多印尼歌迷来说，这些歌他们在教会里已经唱了二十年。New Breed歌曲的译配版本在全国各地的青年聚会上随处可闻。所以在这里看现场，与其说是看演出，不如说是参加一场规模格外大的敬拜之夜。
 

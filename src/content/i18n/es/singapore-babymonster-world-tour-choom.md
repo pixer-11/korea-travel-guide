@@ -1,13 +1,13 @@
 ---
 lang: es
 slug: singapore-babymonster-world-tour-choom
-srcHash: '2ffd25c7f70c'
+srcHash: '81f5c037e4cb'
 title: 'BABYMONSTER World Tour [CHOOM] en Singapur: fechas, entradas y recinto'
-description: La gira BABYMONSTER World Tour [CHOOM] ofreció dos conciertos en Singapur, en el Singapore Indoor Stadium de Kallang, los días 28-29 de noviembre de 2026.
-quickAnswer: La gira BABYMONSTER World Tour [CHOOM] ofreció dos conciertos en Singapur, en el Singapore Indoor Stadium de Kallang, los días 28-29 de noviembre de 2026. El pabellón forma parte del complejo deportivo Singapore Sports Hub y se llega a pie en pocos minutos desde la estación Stadium del metro (MRT), en la línea Circle. Las noches de concierto, la mayor parte del público acude en tren.
+description: La gira BABYMONSTER World Tour [CHOOM] ofrece dos conciertos en Singapur, en el Singapore Indoor Stadium de Kallang, los días 28-29 de noviembre de 2026.
+quickAnswer: La gira BABYMONSTER World Tour [CHOOM] ofrece dos conciertos en Singapur, en el Singapore Indoor Stadium de Kallang, los días 28-29 de noviembre de 2026. El pabellón forma parte del complejo deportivo Singapore Sports Hub y se llega a pie en pocos minutos desde la estación Stadium del metro (MRT), en la línea Circle. Las noches de concierto, la mayor parte del público acude en tren.
 faq:
   - q: ¿Cuándo y dónde actuó BABYMONSTER World Tour [CHOOM] en Singapur?
-    a: La gira ofreció dos conciertos, los días 28 y 29 de noviembre de 2026, en el Singapore Indoor Stadium de Kallang, dentro del complejo Singapore Sports Hub.
+    a: La gira ofrece dos conciertos, los días 28 y 29 de noviembre de 2026, en el Singapore Indoor Stadium de Kallang, dentro del complejo Singapore Sports Hub.
   - q: ¿Cuál es la estación de metro más cercana al Singapore Indoor Stadium?
     a: La más cercana es Stadium MRT, en la línea Circle (CC6), a pocos minutos a pie. Kallang MRT, en la línea East-West (EW10), y Mountbatten MRT (CC7) son alternativas a las que también se puede llegar caminando. Muchos seguidores las utilizan al terminar el concierto para evitar las aglomeraciones de la estación Stadium.
   - q: ¿Dónde se publicaron las entradas y los planos de asientos?
@@ -20,7 +20,7 @@ faq:
 
 ## Dos noches bajo el techo de Kallang
 
-La gira hizo escala en Singapur durante dos noches. Las siete integrantes de BABYMONSTER presentaron su World Tour [CHOOM] en el Singapore Indoor Stadium los días 28 y 29 de noviembre de 2026. Con un aforo aproximado de 12.000 personas, el recinto permite que incluso las últimas filas se sientan dentro del espectáculo, algo que no ocurre en un concierto de estadio.
+La gira hace escala en Singapur durante dos noches. Las siete integrantes de BABYMONSTER presentan su World Tour [CHOOM] en el Singapore Indoor Stadium los días 28 y 29 de noviembre de 2026. Con un aforo aproximado de 12.000 personas, el recinto permite que incluso las últimas filas se sientan dentro del espectáculo, algo que no ocurre en un concierto de estadio.
 
 El edificio se distingue fácilmente desde la cuenca de Kallang (Kallang Basin). Obra de Kenzo Tange, se inauguró en 1989 y su cubierta, de aire piramidal, desciende en pendiente hacia el agua. En el interior, las gradas se elevan con fuerte inclinación por los cuatro costados de la pista. Gracias a esa pronunciada pendiente, la visibilidad desde los niveles superiores resulta más que aceptable para una producción de K-pop.
 
@@ -42,7 +42,7 @@ En coreano, *choom* (춤) significa sencillamente «baile», lo que deja claro e
 
 ## Dónde consultar fechas y entradas
 
-Los datos esenciales estaban confirmados: dos conciertos, los días 28-29 de noviembre de 2026, en el Singapore Indoor Stadium. Los enlaces de venta y los planos de asientos se publicaron en los canales oficiales del promotor y en la agenda de eventos del propio recinto.
+Los datos esenciales están confirmados: dos conciertos, los días 28-29 de noviembre de 2026, en el Singapore Indoor Stadium. Los enlaces de venta y los planos de asientos se publicaron en los canales oficiales del promotor y en la agenda de eventos del propio recinto.
 
 Las categorías de asientos y los precios dependen de la plataforma de venta, por lo que esta guía no recoge ninguna cifra. Cuando un artista actúa dos noches seguidas en este recinto, la demanda suele repartirse. La segunda fecha atrae a menudo a los seguidores que llegan en avión desde Malasia o Indonesia y prefieren contar con un día de margen tras el viaje.
 

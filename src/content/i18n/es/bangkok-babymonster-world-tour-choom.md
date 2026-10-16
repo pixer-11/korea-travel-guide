@@ -1,10 +1,10 @@
 ---
 lang: es
 slug: bangkok-babymonster-world-tour-choom
-srcHash: 'f2b1fe8748c5'
+srcHash: 'c80c3ee754e0'
 title: 'BABYMONSTER World Tour CHOOM en Bangkok: fechas, entradas y recinto'
-description: 'El grupo femenino de siete integrantes de YG Entertainment llevó su BABYMONSTER World Tour CHOOM al Impact Arena de Bangkok, situado en Muang Thong Thani (Nonthaburi), durante dos noches: el 7 y el 8 de noviembre de 2026.'
-quickAnswer: 'El grupo femenino de siete integrantes de YG Entertainment llevó su BABYMONSTER World Tour CHOOM al Impact Arena de Bangkok, situado en Muang Thong Thani (Nonthaburi), durante dos noches: el 7 y el 8 de noviembre de 2026. El recinto queda justo al norte del límite municipal de la ciudad. La mayoría de los fans llega en la línea Rosa del MRT y completa el trayecto con un breve viaje en taxi. Los enlaces para comprar entradas los publica el organizador en sus canales oficiales.'
+description: 'El grupo femenino de siete integrantes de YG Entertainment llevará su BABYMONSTER World Tour CHOOM al Impact Arena de Bangkok, situado en Muang Thong Thani (Nonthaburi), durante dos noches: el 7 y el 8 de noviembre de 2026.'
+quickAnswer: 'El grupo femenino de siete integrantes de YG Entertainment llevará su BABYMONSTER World Tour CHOOM al Impact Arena de Bangkok, situado en Muang Thong Thani (Nonthaburi), durante dos noches: el 7 y el 8 de noviembre de 2026. El recinto queda justo al norte del límite municipal de la ciudad. La mayoría de los fans llega en la línea Rosa del MRT y completa el trayecto con un breve viaje en taxi. Los enlaces para comprar entradas los publica el organizador en sus canales oficiales.'
 faq:
   - q: ¿Dónde se celebró en Bangkok la gira CHOOM de BABYMONSTER?
     a: En el Impact Arena, que forma parte del complejo IMPACT de Muang Thong Thani, en el distrito de Pak Kret (Nonthaburi), justo al norte del límite municipal de Bangkok.
@@ -20,7 +20,7 @@ faq:
 
 ## Dos noches y dos integrantes que juegan en casa
 
-BABYMONSTER actuó en Bangkok durante dos noches, el 7 y el 8 de noviembre de 2026. Era la parada tailandesa de la gira CHOOM, y pocos mercados pesan tanto para el grupo como este: Pharita y Chiquita, dos de sus siete integrantes, son tailandesas. Los fans locales, que al igual que el resto del fandom se hacen llamar MONSTIEZ, suelen esperar con especial ilusión los momentos en que ambas hablan en tailandés.
+BABYMONSTER actuará en Bangkok durante dos noches, el 7 y el 8 de noviembre de 2026. Es la parada tailandesa de la gira CHOOM, y pocos mercados pesan tanto para el grupo como este: Pharita y Chiquita, dos de sus siete integrantes, son tailandesas. Los fans locales, que al igual que el resto del fandom se hacen llamar MONSTIEZ, suelen esperar con especial ilusión los momentos en que ambas hablan en tailandés.
 
 YG Entertainment concibió el grupo como un proyecto centrado en la actuación en directo. Cabe esperar, por tanto, una puesta en escena volcada en la coreografía y pensada para un recinto de estas dimensiones, no para un estadio. Las fechas, los planos de asientos y los enlaces de venta se publican en los canales oficiales del organizador.
 

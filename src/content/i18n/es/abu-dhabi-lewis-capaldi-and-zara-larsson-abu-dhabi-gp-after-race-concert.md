@@ -1,13 +1,13 @@
 ---
 lang: es
 slug: abu-dhabi-lewis-capaldi-and-zara-larsson-abu-dhabi-gp-after-race-concert
-srcHash: 'ffb0ee99c25d'
+srcHash: 'b80631aca44e'
 title: 'Lewis Capaldi y Zara Larsson en el concierto posterior a la carrera del GP de Abu Dabi: fechas, entradas y recinto (Abu Dabi)'
-description: El 3 de diciembre de 2026, Lewis Capaldi y Zara Larsson ofrecieron cada uno su propio concierto en el Etihad Park de la isla de Yas (Abu Dabi), dentro de la programación musical posterior a la carrera del Gran Premio de Abu Dabi.
-quickAnswer: El 3 de diciembre de 2026, Lewis Capaldi y Zara Larsson actuaron por separado en el Etihad Park, situado en la isla de Yas (Yas Island), en Abu Dabi. Aquella velada inauguró el ciclo de conciertos posteriores a la carrera del Gran Premio de Abu Dabi 2026. El acceso a estos conciertos se vende a través del sistema de venta de entradas del Gran Premio, que gestiona el Yas Marina Circuit.
+description: El 3 de diciembre de 2026, Lewis Capaldi y Zara Larsson ofrecen cada uno su propio concierto en el Etihad Park de la isla de Yas (Abu Dabi), dentro de la programación musical posterior a la carrera del Gran Premio de Abu Dabi.
+quickAnswer: El 3 de diciembre de 2026, Lewis Capaldi y Zara Larsson actúan por separado en el Etihad Park, situado en la isla de Yas (Yas Island), en Abu Dabi. Esa velada inaugura el ciclo de conciertos posteriores a la carrera del Gran Premio de Abu Dabi 2026. El acceso a estos conciertos se vende a través del sistema de venta de entradas del Gran Premio, que gestiona el Yas Marina Circuit.
 faq:
   - q: ¿Cuándo y dónde actuaron Lewis Capaldi y Zara Larsson en Abu Dabi?
-    a: Actuaron el 3 de diciembre de 2026 en el Etihad Park, en la isla de Yas, junto al Yas Marina Circuit. Cada uno ofreció su propio concierto, y aquella noche inauguró el ciclo de conciertos posteriores a la carrera del Gran Premio de Abu Dabi 2026.
+    a: Actúan el 3 de diciembre de 2026 en el Etihad Park, en la isla de Yas, junto al Yas Marina Circuit. Cada uno ofrece su propio concierto, y esa noche inaugura el ciclo de conciertos posteriores a la carrera del Gran Premio de Abu Dabi 2026.
   - q: ¿Cómo funcionan las entradas para los conciertos posteriores a la carrera del GP de Abu Dabi?
     a: El acceso a los conciertos se vende a través del sistema oficial de venta de entradas del Gran Premio de Abu Dabi, gestionado por el Yas Marina Circuit. En ediciones anteriores, las entradas del Gran Premio han incluido el acceso a estos conciertos. Los precios y las distintas categorías de entrada se venden por ese mismo canal oficial.
   - q: ¿Cómo se llega al Etihad Park?

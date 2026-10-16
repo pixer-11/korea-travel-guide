@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: truong-yen-trang-an-marathon
-srcHash: '78290c4a659f'
+srcHash: 'ef0f8f0d5cb9'
 title: 长安马拉松：比赛日期、报名购票与赛事地点（Trường Yên）
 description: 长安马拉松是一项国际路跑赛事，2026年11月15日举行。赛道穿行于越南北部宁平附近Trường Yên社的长安遗产景观之中。
 quickAnswer: 长安马拉松是一项国际路跑赛事，2026年11月15日举行。赛道穿行于越南北部宁平（Ninh Binh）附近Trường Yên社的长安遗产景观之中。报名、购票链接和比赛当天的各项安排，均以主办方官网发布为准。从河内出发，走公路约两小时可到。大多数跑者会住在宁平市区，或者三谷（Tam Coc）一带的民宿。

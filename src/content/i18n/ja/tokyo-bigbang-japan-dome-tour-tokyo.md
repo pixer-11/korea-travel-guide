@@ -1,10 +1,10 @@
 ---
 lang: ja
 slug: tokyo-bigbang-japan-dome-tour-tokyo
-srcHash: '7f1201f00c2f'
+srcHash: '9bb269dd436e'
 title: BIGBANG Japan Dome Tour - Tokyo:日程・チケット・会場まとめ(東京)
-description: BIGBANGの2026年ツアーの一環である「BIGBANG Japan Dome Tour - Tokyo」は、2026年12月13〜15日の3夜にわたり、東京都文京区の東京ドームで開催されました。
-quickAnswer: BIGBANGの2026年ツアーの一環である「BIGBANG Japan Dome Tour - Tokyo」は、2026年12月13〜15日の3夜にわたり、東京都文京区の東京ドームで開催されました。日本のドーム公演では、チケットは抽選で割り当てられ、購入者の名義にひも付けられるのが一般的です。入場ゲートでは本人確認も行われます。会場へは、水道橋駅(JR中央・総武線、都営三田線)と後楽園駅(丸ノ内線、南北線)から歩いてすぐです。
+description: BIGBANGの2026年ツアーの一環である「BIGBANG Japan Dome Tour - Tokyo」は、2026年12月13〜15日の3夜にわたり、東京都文京区の東京ドームで開催されます。
+quickAnswer: BIGBANGの2026年ツアーの一環である「BIGBANG Japan Dome Tour - Tokyo」は、2026年12月13〜15日の3夜にわたり、東京都文京区の東京ドームで開催されます。日本のドーム公演では、チケットは抽選で割り当てられ、購入者の名義にひも付けられるのが一般的です。入場ゲートでは本人確認も行われます。会場へは、水道橋駅(JR中央・総武線、都営三田線)と後楽園駅(丸ノ内線、南北線)から歩いてすぐです。
 faq:
   - q: BIGBANG Japan Dome Tourの東京公演は、いつ、どこで開催されましたか?
     a: 2026年12月13〜15日の3夜、東京都文京区の東京ドームシティ内にある東京ドームで開催されました。

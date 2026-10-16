@@ -1,15 +1,15 @@
 ---
 lang: es
 slug: phillip-island-motogp-australian-grand-prix-phillip-island
-srcHash: '9aaaad35e3ad'
+srcHash: '500f04aa6667'
 title: 'Gran Premio de Australia de MotoGP (Phillip Island): fechas, entradas y circuito'
-description: El Gran Premio de Australia de MotoGP se celebró del 23 al 25 de octubre de 2026 en el Circuito de Phillip Island, en Victoria. Las entradas se vendieron en la web oficial del organizador.
-quickAnswer: El Gran Premio de Australia de MotoGP se disputó del 23 al 25 de octubre de 2026 en el Circuito de Phillip Island (Phillip Island Grand Prix Circuit), en el estado de Victoria. Las entradas se vendieron en la web oficial del organizador. Fue la última visita del campeonato a la isla, ya que en 2027 la carrera se traslada a Adelaida. Desde Melbourne se llega en unas dos horas de coche en dirección sureste, cruzando el único puente que parte de San Remo.
+description: El Gran Premio de Australia de MotoGP se celebra del 23 al 25 de octubre de 2026 en el Circuito de Phillip Island, en Victoria. Las entradas se venden en la web oficial del organizador.
+quickAnswer: El Gran Premio de Australia de MotoGP se disputa del 23 al 25 de octubre de 2026 en el Circuito de Phillip Island (Phillip Island Grand Prix Circuit), en el estado de Victoria. Las entradas se venden en la web oficial del organizador. Es la última visita del campeonato a la isla, ya que en 2027 la carrera se traslada a Adelaida. Desde Melbourne se llega en unas dos horas de coche en dirección sureste, cruzando el único puente que parte de San Remo.
 faq:
   - q: ¿Cuándo se celebró el Gran Premio de Australia de MotoGP de 2026 en Phillip Island?
-    a: Se disputó del 23 al 25 de octubre de 2026 en el Circuito de Phillip Island, en Victoria. El viernes hubo entrenamientos libres, el sábado la clasificación y el Sprint, y el domingo se corrió el Gran Premio completo.
+    a: Se disputa del 23 al 25 de octubre de 2026 en el Circuito de Phillip Island, en Victoria. El viernes hubo entrenamientos libres, el sábado la clasificación y el Sprint, y el domingo se corrió el Gran Premio completo.
   - q: ¿Sigue celebrándose MotoGP en Phillip Island?
-    a: No. La edición de 2026 fue la última visita de MotoGP a Phillip Island. A partir de 2027, el Gran Premio de Australia de Motociclismo se celebra en Adelaida.
+    a: No. La edición de 2026 es la última visita de MotoGP a Phillip Island. A partir de 2027, el Gran Premio de Australia de Motociclismo se celebra en Adelaida.
   - q: ¿Cómo se llega a Phillip Island desde Melbourne para ver la carrera?
     a: La isla está a unas dos horas en coche al sureste de Melbourne, y se accede por el único puente que une San Remo y Newhaven. Ese puente se colapsa tras la carrera del domingo, así que muchos aficionados se alojan en Cowes o acampan en la zona para no tener que cruzarlo.
   - q: ¿Cuáles son los mejores lugares para ver la carrera en Phillip Island?
@@ -22,7 +22,7 @@ faq:
 
 El Circuito de Phillip Island ocupa un promontorio que domina el estrecho de Bass. Desde los taludes de hierba se ve a las motos coronar una loma con el mar abierto al fondo. Como en la isla no hay nada que se interponga entre el trazado y el océano Austral, el viento llega directamente del mar y barre la pista de lado a lado.
 
-El Gran Premio de Australia de Motociclismo de 2026 se celebró del 23 al 25 de octubre. MotoGP no volverá aquí, puesto que en 2027 la prueba se traslada a Adelaida. Por eso aquel fin de semana sirvió de despedida a un circuito que los pilotos sitúan desde hace tiempo entre los mejores del calendario.
+El Gran Premio de Australia de Motociclismo de 2026 se celebra del 23 al 25 de octubre. MotoGP no volverá aquí, puesto que en 2027 la prueba se traslada a Adelaida. Por eso aquel fin de semana sirvió de despedida a un circuito que los pilotos sitúan desde hace tiempo entre los mejores del calendario.
 
 ## Así se organiza el fin de semana
 

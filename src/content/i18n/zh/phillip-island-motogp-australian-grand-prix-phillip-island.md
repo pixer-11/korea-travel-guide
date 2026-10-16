@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: phillip-island-motogp-australian-grand-prix-phillip-island
-srcHash: '9aaaad35e3ad'
+srcHash: '500f04aa6667'
 title: MotoGP澳大利亚大奖赛（菲利普岛）：赛期、门票与场地指南
 description: 2026年10月23-25日，MotoGP澳大利亚大奖赛在维多利亚州菲利普岛大奖赛赛道举行，门票由主办方官网发售。
 quickAnswer: 2026年10月23-25日，MotoGP澳大利亚大奖赛在维多利亚州的菲利普岛大奖赛赛道（Phillip Island Grand Prix Circuit）举行，门票由主办方官网发售。2027年起这项赛事将移师阿德莱德，因此这是MotoGP最后一次登岛。赛道位于墨尔本东南方向，车程约两小时，途中要经过圣雷莫（San Remo）那座唯一的跨海桥。

@@ -1,13 +1,13 @@
 ---
 lang: es
 slug: macau-txt-world-tour-steal-the-wind-macau
-srcHash: 'd6cb0daf61cf'
+srcHash: '3b06cd6d5666'
 title: 'Gira mundial STEAL THE WIND de TXT en Macao: fechas, entradas y recinto'
-description: La gira mundial STEAL THE WIND de TXT pasó por Macao del 20 al 22 de noviembre de 2026. Los conciertos se celebraron en el Galaxy Arena, el recinto cubierto del complejo Galaxy Macau, en Cotai, y la información sobre fechas y entradas se difunde por los canales oficiales de la gira.
-quickAnswer: La gira mundial STEAL THE WIND de TXT pasó por Macao del 20 al 22 de noviembre de 2026. Los conciertos se celebraron en el Galaxy Arena, el recinto cubierto del complejo Galaxy Macau, en Cotai, y la información sobre fechas y entradas se difunde por los canales oficiales de la gira. La mayoría de los fans viaja desde Hong Kong en ferri o en el autobús del puente y completa el trayecto con el lanzadera del complejo o con el metro ligero. Muchos optan por pasar la noche en Cotai o en Taipa.
+description: La gira mundial STEAL THE WIND de TXT pasa por Macao del 20 al 22 de noviembre de 2026. Los conciertos se celebran en el Galaxy Arena, el recinto cubierto del complejo Galaxy Macau, en Cotai, y la información sobre fechas y entradas se difunde por los canales oficiales de la gira.
+quickAnswer: La gira mundial STEAL THE WIND de TXT pasa por Macao del 20 al 22 de noviembre de 2026. Los conciertos se celebran en el Galaxy Arena, el recinto cubierto del complejo Galaxy Macau, en Cotai, y la información sobre fechas y entradas se difunde por los canales oficiales de la gira. La mayoría de los fans viaja desde Hong Kong en ferri o en el autobús del puente y completa el trayecto con el lanzadera del complejo o con el metro ligero. Muchos optan por pasar la noche en Cotai o en Taipa.
 faq:
   - q: ¿Cuándo y dónde se celebró en Macao la gira STEAL THE WIND de TXT?
-    a: Dentro de su gira mundial STEAL THE WIND, Tomorrow X Together actuó el 20, el 21 y el 22 de noviembre de 2026 en el Galaxy Arena, situado en el complejo Galaxy Macau, en Cotai.
+    a: Dentro de su gira mundial STEAL THE WIND, Tomorrow X Together actúa el 20, el 21 y el 22 de noviembre de 2026 en el Galaxy Arena, situado en el complejo Galaxy Macau, en Cotai.
   - q: ¿Cómo se llega al Galaxy Arena desde Hong Kong?
     a: Lo habitual es cruzar en el autobús lanzadera del puente Hong Kong-Zhuhai-Macao o tomar un ferri rápido hasta la Terminal Marítima de Taipa (Taipa Ferry Terminal). Desde allí se llega a Cotai con los autobuses gratuitos de Galaxy Macau o con la línea Taipa del metro ligero de Macao (Macau LRT).
   - q: ¿Dónde se publica la información de la gira de TXT?
@@ -20,7 +20,7 @@ faq:
 
 ## Tres noches en Cotai
 
-Tomorrow X Together llevó STEAL THE WIND a Macao durante tres noches: el 20, el 21 y el 22 de noviembre de 2026, todas ellas en el Galaxy Arena. Que una gira mundial se detenga tanto tiempo en una sola ciudad no es habitual. Se explica por la cantidad de fans de Hong Kong, de China continental y del resto del Sudeste Asiático que pueden plantarse en Macao en una sola tarde.
+Tomorrow X Together lleva STEAL THE WIND a Macao durante tres noches: el 20, el 21 y el 22 de noviembre de 2026, todas ellas en el Galaxy Arena. Que una gira mundial se detenga tanto tiempo en una sola ciudad no es habitual. Se explica por la cantidad de fans de Hong Kong, de China continental y del resto del Sudeste Asiático que pueden plantarse en Macao en una sola tarde.
 
 Los cinco integrantes del grupo participan en la gira: Soobin, Yeonjun, Beomgyu, Taehyun y Hueningkai. BIGHIT MUSIC, el sello de TXT, publica los avisos de la gira en la comunidad del grupo en Weverse. Allí suelen consultar los fans las normas del día del concierto y los detalles del espectáculo. En esta página no encontrará un repertorio ni unos horarios de inicio inventados.
 

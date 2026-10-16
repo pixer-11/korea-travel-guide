@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: kuala-lumpur-yves-loona-2026-asia-australia-tour
-srcHash: '8630d7722676'
+srcHash: '64bd09e5383c'
 title: Yves（本月少女 LOONA）2026亚洲及澳大利亚巡演吉隆坡站：日期、门票与场馆
 description: 2026年11月7日，Yves（本月少女 LOONA）2026亚洲及澳大利亚巡演来到吉隆坡，在Vox Live KL只演一场，门票也只售这一晚。
 quickAnswer: 2026年11月7日，Yves（本月少女 LOONA）2026亚洲及澳大利亚巡演来到吉隆坡，在Vox Live KL只演一场，门票也只售这一晚。这是前本月少女成员的个人演出，场地是一家Live演出场馆，而不是体育场。外地粉丝大多先坐吉隆坡的轨道交通，再叫Grab前往，一般住上一两晚。

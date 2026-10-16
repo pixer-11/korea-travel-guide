@@ -1,13 +1,13 @@
 ---
 lang: ko
 slug: singapore-nct-127-neo-city-the-redline
-srcHash: '7585ff260bf3'
+srcHash: '107710592963'
 title: 'NCT 127 네오 시티: 더 레드라인(Neo City: The Redline) 싱가포르 공연 일정·티켓·공연장 안내'
-description: 'NCT 127의 월드 투어 네오 시티: 더 레드라인 싱가포르 공연은 18 October 2026 칼랑(Kallang)에 있는 싱가포르 실내 경기장에서 열렸습니다.'
-quickAnswer: 'NCT 127의 월드 투어 네오 시티: 더 레드라인(Neo City: The Redline)은 18 October 2026 칼랑(Kallang)의 싱가포르 실내 경기장(Singapore Indoor Stadium)에서 싱가포르 공연을 열었습니다. 공연장은 서클 선 스타디움(Stadium) 역에서 지붕 덮인 통로를 따라 조금만 걸으면 닿습니다. 공연이 끝난 뒤에는 스타디움 역에서 바로 타거나, 붐비는 인파를 피해 칼랑 역까지 걸어가는 팬이 많습니다.'
+description: 'NCT 127의 월드 투어 네오 시티: 더 레드라인 싱가포르 공연은 18 October 2026 칼랑(Kallang)에 있는 싱가포르 실내 경기장에서 열립니다.'
+quickAnswer: 'NCT 127의 월드 투어 네오 시티: 더 레드라인(Neo City: The Redline)은 18 October 2026 칼랑(Kallang)의 싱가포르 실내 경기장(Singapore Indoor Stadium)에서 싱가포르 공연을 엽니다. 공연장은 서클 선 스타디움(Stadium) 역에서 지붕 덮인 통로를 따라 조금만 걸으면 닿습니다. 공연이 끝난 뒤에는 스타디움 역에서 바로 타거나, 붐비는 인파를 피해 칼랑 역까지 걸어가는 팬이 많습니다.'
 faq:
   - q: 'NCT 127 네오 시티: 더 레드라인 싱가포르 공연은 언제, 어디서 열렸나요?'
-    a: 18 October 2026 싱가포르 스포츠 허브 단지에 속한 칼랑(Kallang)의 싱가포르 실내 경기장(Singapore Indoor Stadium)에서 열렸습니다.
+    a: 18 October 2026 싱가포르 스포츠 허브 단지에 속한 칼랑(Kallang)의 싱가포르 실내 경기장(Singapore Indoor Stadium)에서 열립니다.
   - q: 싱가포르 실내 경기장에서 가장 가까운 MRT 역은 어디인가요?
     a: 서클 선 스타디움(Stadium) 역(CC6)입니다. 역에서 칼랑 웨이브 몰을 지나는 지붕 덮인 통로로 공연장까지 이어집니다. 공연이 끝난 뒤에는 걸어서 갈 수 있는 칼랑(EW10) 역이나 마운트배튼(CC7) 역을 이용해도 됩니다.
   - q: 투어 일정과 티켓 링크는 어디에서 확인하나요?

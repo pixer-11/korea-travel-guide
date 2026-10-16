@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: singapore-super-junior-83z-fancon-tour-1983
-srcHash: 'e35609754237'
+srcHash: 'bc4da7e3c891'
 title: Super Junior-83z Fancon巡演[1983]新加坡站：日期、门票与场馆
 description: 2026年10月16日，Super Junior-83z Fancon巡演[1983]来到新加坡，利特（Leeteuk）与希澈（Heechul）在波那维斯达的星宇表演艺术中心（The Star Theatre）与粉丝见面。
 quickAnswer: 2026年10月16日，Super Junior-83z Fancon巡演[1983]来到新加坡，利特与希澈在波那维斯达（Buona Vista）的星宇表演艺术中心（The Star Theatre）举办了粉丝见面会。剧院位于星宇汇（The Star Vista）商场内，从地铁波那维斯达站（东西线、环线）出发，沿有顶棚的通道步行片刻即到；环线纬壹站（one-north）也在附近。

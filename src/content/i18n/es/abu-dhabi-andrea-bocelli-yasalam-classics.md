@@ -1,15 +1,15 @@
 ---
 lang: es
 slug: abu-dhabi-andrea-bocelli-yasalam-classics
-srcHash: 'be7145b5f64a'
+srcHash: 'f5a750216680'
 title: 'Andrea Bocelli en Yasalam Classics: fecha, entradas y recinto (Abu Dabi)'
-description: 'El 2 de diciembre de 2026, el Etihad Arena de la isla de Yas, en Abu Dabi, acogió Andrea Bocelli: Yasalam Classics, una de las paradas de la gira mundial con la que el tenor celebra el 30.º aniversario de Romanza.'
-quickAnswer: 'El 2 de diciembre de 2026, Andrea Bocelli llevó al Etihad Arena de la isla de Yas (Yas Island), en Abu Dabi, la gira mundial con la que celebra el 30.º aniversario de Romanza. El concierto, titulado Andrea Bocelli: Yasalam Classics, formaba parte del ciclo Yasalam Classics, que se organiza durante la semana del Gran Premio de Abu Dabi. Las entradas para los espectáculos del Etihad Arena se venden a través de los canales oficiales del recinto. Conviene reservar pronto, porque esa semana la isla de Yas se llena enseguida.'
+description: 'El 2 de diciembre de 2026, el Etihad Arena de la isla de Yas, en Abu Dabi, acoge Andrea Bocelli: Yasalam Classics, una de las paradas de la gira mundial con la que el tenor celebra el 30.º aniversario de Romanza.'
+quickAnswer: 'El 2 de diciembre de 2026, Andrea Bocelli lleva al Etihad Arena de la isla de Yas (Yas Island), en Abu Dabi, la gira mundial con la que celebra el 30.º aniversario de Romanza. El concierto, titulado Andrea Bocelli: Yasalam Classics, forma parte del ciclo Yasalam Classics, que se organiza durante la semana del Gran Premio de Abu Dabi. Las entradas para los espectáculos del Etihad Arena se venden a través de los canales oficiales del recinto. Conviene reservar pronto, porque esa semana la isla de Yas se llena enseguida.'
 faq:
   - q: '¿Cuándo y dónde se celebró Andrea Bocelli: Yasalam Classics?'
-    a: El concierto tuvo lugar el 2 de diciembre de 2026 en el Etihad Arena, situado en el paseo marítimo de Yas Bay, en la isla de Yas (Abu Dabi). Formaba parte del ciclo Yasalam Classics, que se programa durante la semana del Gran Premio.
+    a: El concierto tiene lugar el 2 de diciembre de 2026 en el Etihad Arena, situado en el paseo marítimo de Yas Bay, en la isla de Yas (Abu Dabi). Forma parte del ciclo Yasalam Classics, que se programa durante la semana del Gran Premio.
   - q: ¿A qué gira pertenecía este concierto?
-    a: Era una de las paradas de la gira mundial con la que Andrea Bocelli celebra el 30.º aniversario de Romanza. Se cumplen treinta años de este disco de 1996, en el que figura «Con te partirò».
+    a: Es una de las paradas de la gira mundial con la que Andrea Bocelli celebra el 30.º aniversario de Romanza. Se cumplen treinta años de este disco de 1996, en el que figura «Con te partirò».
   - q: ¿Cómo se suele llegar al Etihad Arena?
     a: Casi todo el público va en taxi o pide un coche por Careem o Uber. Lo más sencillo es indicar al conductor «Yas Bay» como punto de referencia. El aeropuerto internacional Zayed queda a poca distancia en coche. Desde el centro de Abu Dabi el trayecto es más largo, y desde Dubái se tarda bastante más de una hora.
   - q: ¿Dónde se alojan los visitantes durante la semana del Gran Premio?
@@ -20,7 +20,7 @@ faq:
 
 ## Un tenor frente a la bahía de Yas
 
-Aquí la ópera se escucha en un pabellón pensado tanto para el deporte como para los conciertos. El Etihad Arena es un recinto cubierto y climatizado del paseo marítimo de Yas Bay. Su larga fachada curva mira al agua, y a su lado discurre un paseo lleno de restaurantes. El 2 de diciembre de 2026, Andrea Bocelli subió a ese escenario con la gira mundial del 30.º aniversario de Romanza.
+Aquí la ópera se escucha en un pabellón pensado tanto para el deporte como para los conciertos. El Etihad Arena es un recinto cubierto y climatizado del paseo marítimo de Yas Bay. Su larga fachada curva mira al agua, y a su lado discurre un paseo lleno de restaurantes. El 2 de diciembre de 2026, Andrea Bocelli sube a ese escenario con la gira mundial del 30.º aniversario de Romanza.
 
 La fecha no se eligió al azar. Yasalam Classics forma parte de la programación de la semana del Gran Premio, cuando la isla reparte su atención entre el circuito y las salas de conciertos. En una semana dominada por los motores se coló así una velada dedicada al repertorio del tenor italiano.
 

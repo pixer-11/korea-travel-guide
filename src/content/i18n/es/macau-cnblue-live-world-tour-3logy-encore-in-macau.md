@@ -1,13 +1,13 @@
 ---
 lang: es
 slug: macau-cnblue-live-world-tour-3logy-encore-in-macau
-srcHash: '3b0053404419'
+srcHash: '4e7c81023dec'
 title: 'CNBLUE LIVE WORLD TOUR ''3LOGY'' ENCORE IN MACAU: fechas, entradas y recinto (Macao)'
-description: Como bis de su gira mundial 3LOGY, CNBLUE celebró el CNBLUE LIVE WORLD TOUR '3LOGY' ENCORE IN MACAU los días 14 y 15 de noviembre de 2026 en el Studio City Macau, en Cotai.
-quickAnswer: Los días 14 y 15 de noviembre de 2026, el Studio City Macau, en Cotai, acogió el CNBLUE LIVE WORLD TOUR '3LOGY' ENCORE IN MACAU, una parada adicional a modo de bis dentro de la gira mundial 3LOGY del grupo. El complejo se encuentra en el extremo sur del Cotai Strip, junto al paso fronterizo del puente de la Flor de Loto (Lotus Bridge). La mayoría de los fans llegó en los autobuses lanzadera gratuitos de los complejos turísticos o en el Metro Ligero.
+description: Como bis de su gira mundial 3LOGY, CNBLUE celebra el CNBLUE LIVE WORLD TOUR '3LOGY' ENCORE IN MACAU los días 14 y 15 de noviembre de 2026 en el Studio City Macau, en Cotai.
+quickAnswer: Los días 14 y 15 de noviembre de 2026, el Studio City Macau, en Cotai, acoge el CNBLUE LIVE WORLD TOUR '3LOGY' ENCORE IN MACAU, una parada adicional a modo de bis dentro de la gira mundial 3LOGY del grupo. El complejo se encuentra en el extremo sur del Cotai Strip, junto al paso fronterizo del puente de la Flor de Loto (Lotus Bridge). La mayoría de los fans llegó en los autobuses lanzadera gratuitos de los complejos turísticos o en el Metro Ligero.
 faq:
   - q: ¿Cuándo y dónde se celebró el bis de 3LOGY de CNBLUE en Macao?
-    a: Tuvo lugar durante dos noches, el 14 y el 15 de noviembre de 2026, en el Studio City Macau, en el Cotai Strip.
+    a: Se celebra durante dos noches, el 14 y el 15 de noviembre de 2026, en el Studio City Macau, en el Cotai Strip.
   - q: ¿Cómo se llega al Studio City Macau desde Hong Kong?
     a: Puede tomar un ferri hasta Taipa o hasta el Puerto Exterior, o bien un autobús que cruce el puente Hong Kong-Zhuhai-Macao. Desde allí, una de las lanzaderas gratuitas de los complejos le llevará al Studio City.
   - q: ¿Cuál es la parada de transporte público más cercana al Studio City?
@@ -20,7 +20,7 @@ faq:
 
 ## Dos noches de 3LOGY en Cotai
 
-CNBLUE recuperó su gira mundial 3LOGY para ofrecer un bis. El grupo actuó dos noches, el 14 y el 15 de noviembre de 2026, en el Studio City Macau, un complejo de casino y hoteles del Cotai Strip ambientado en el mundo del cine.
+CNBLUE recupera su gira mundial 3LOGY para ofrecer un bis. El grupo actúa dos noches, el 14 y el 15 de noviembre de 2026, en el Studio City Macau, un complejo de casino y hoteles del Cotai Strip ambientado en el mundo del cine.
 
 Se trata de un trío de rock de la agencia FNC Entertainment formado por Jung Yong-hwa, Kang Min-hyuk y Lee Jung-shin. Debutaron en 2010 y, a diferencia de la mayoría de los grupos de K-pop, tocan sus propios instrumentos en directo. Sus seguidores se hacen llamar BOICE.
 

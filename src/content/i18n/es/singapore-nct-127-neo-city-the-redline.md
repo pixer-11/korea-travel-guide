@@ -1,13 +1,13 @@
 ---
 lang: es
 slug: singapore-nct-127-neo-city-the-redline
-srcHash: '7585ff260bf3'
+srcHash: '107710592963'
 title: 'NCT 127 Neo City: The Redline en Singapur: fechas, entradas y recinto'
-description: 'La gira mundial NCT 127 Neo City: The Redline hizo escala en Singapur el 18 October 2026, con un concierto en el Singapore Indoor Stadium, en el barrio de Kallang.'
-quickAnswer: 'La gira mundial NCT 127 Neo City: The Redline hizo escala en Singapur el 18 October 2026, con un concierto en el Singapore Indoor Stadium, en el barrio de Kallang. Desde la estación Stadium de la línea Circle (Circle Line) del metro se llega al pabellón en pocos minutos por un paseo cubierto. Para esquivar las aglomeraciones al terminar el concierto, los fans suelen salir por Stadium o ir a pie hasta la estación de Kallang.'
+description: 'La gira mundial NCT 127 Neo City: The Redline hace escala en Singapur el 18 October 2026, con un concierto en el Singapore Indoor Stadium, en el barrio de Kallang.'
+quickAnswer: 'La gira mundial NCT 127 Neo City: The Redline hace escala en Singapur el 18 October 2026, con un concierto en el Singapore Indoor Stadium, en el barrio de Kallang. Desde la estación Stadium de la línea Circle (Circle Line) del metro se llega al pabellón en pocos minutos por un paseo cubierto. Para esquivar las aglomeraciones al terminar el concierto, los fans suelen salir por Stadium o ir a pie hasta la estación de Kallang.'
 faq:
   - q: '¿Cuándo y dónde actuó NCT 127 con Neo City: The Redline en Singapur?'
-    a: El concierto se celebró el 18 October 2026 en el Singapore Indoor Stadium de Kallang, dentro del recinto del Singapore Sports Hub.
+    a: El concierto se celebra el 18 October 2026 en el Singapore Indoor Stadium de Kallang, dentro del recinto del Singapore Sports Hub.
   - q: ¿Cuál es la estación de metro más cercana al Singapore Indoor Stadium?
     a: La estación Stadium (CC6), en la línea Circle (Circle Line), comunicada con el pabellón mediante pasarelas cubiertas que bordean el centro comercial Kallang Wave Mall. Al terminar el concierto también puede ir a pie hasta Kallang (EW10) o Mountbatten (CC7).
   - q: ¿Dónde se publican las fechas de la gira y los enlaces para comprar entradas?

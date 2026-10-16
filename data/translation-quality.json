@@ -16302,13 +16302,6 @@
   "worst": "일몰 한 시간 전쯔음의 늦은 오후는 그만한 가치가 있는 절충안입니다.",
   "at": "2026-10-05T16:36:43.078Z"
  },
- "ko/busan-busan-international-film-festival-biff": {
-  "hash": "c1a6682abad4",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "관람객 구성도 가벼운 관광객보다는 진지한 영화 애호가와 업계 관계자 쪽으로 기울어져 있습니다.",
-  "at": "2026-09-21T04:21:02.956Z"
- },
  "ko/busan-busan-tower": {
   "hash": "7fae860dd1e6",
   "score": 1,
@@ -32452,11 +32445,11 @@
   "at": "2026-10-12T00:20:15.178Z"
  },
  "ko/bangkok-babymonster-world-tour-choom": {
-  "hash": "555ba2570f0b",
+  "hash": "aeaf36367566",
   "score": 1,
   "registerBreak": false,
-  "worst": "이는 그저 눈감아 주는 행동이 아니라 당연히 해야 하는 일로 여겨집니다.",
-  "at": "2026-10-12T00:20:16.481Z"
+  "worst": "노래 중에는 팬들이 응원법도 함께 외치는데, 이는 그저 눈감아 주는 행동이 아니라 당연히 해야 하는 일로 여겨",
+  "at": "2026-10-16T08:18:50.116Z"
  },
  "ko/bangkok-avenged-sevenfold-asia-tour-2026": {
   "hash": "6d50b579b565",
@@ -32480,11 +32473,11 @@
   "at": "2026-10-12T00:20:21.348Z"
  },
  "ko/abu-dhabi-andrea-bocelli-yasalam-classics": {
-  "hash": "ed3dd0b419a3",
+  "hash": "9aa877a3dbd6",
   "score": 1,
   "registerBreak": false,
-  "worst": "이 곡은 훗날 세라 브라이트먼과 함께 부른 듀엣곡 「타임 투 세이 굿바이」로 훨씬 더 많은 청중을 만났습니다.",
-  "at": "2026-10-12T00:20:22.042Z"
+  "worst": "엔진 소리로 가득한 한 주 한가운데에 이탈리아 테너의 레퍼토리로 채운 저녁이 끼어 있는 셈입니다.",
+  "at": "2026-10-16T08:18:38.687Z"
  },
  "ko/barra-chapel-of-our-lady-of-penha": {
   "hash": "3a6e66ddbdd5",
@@ -32718,11 +32711,11 @@
   "at": "2026-10-12T01:46:51.651Z"
  },
  "ko/abu-dhabi-lewis-capaldi-and-zara-larsson-abu-dhabi-gp-after-race-concert": {
-  "hash": "b6ba1d15fdff",
+  "hash": "ef56d15807b0",
   "score": 1,
   "registerBreak": false,
-  "worst": "가격, 티켓 등급, 콘서트 단독 티켓 여부는 저희가 확인한 자료에 포함되어 있지 않아 이 가이드에서는 다루지 않습니다.",
-  "at": "2026-10-12T01:46:52.793Z"
+  "worst": "아부다비 겨울의 온화한 공기 속에서, 그것도 야외에서 하룻저녁에 두 무대를 모두 즐길 수 있습니다.",
+  "at": "2026-10-16T08:18:48.655Z"
  },
  "ko/barcelona-young-posse-pilot3-world-tour-barcelona": {
   "hash": "4d57a40521a5",
@@ -36216,5 +36209,68 @@
   "registerBreak": false,
   "worst": "整块巨石仿佛几千年前走着走着就停了下来",
   "at": "2026-10-15T13:16:41.273Z"
+ },
+ "es/abu-dhabi-andrea-bocelli-yasalam-classics": {
+  "hash": "511d2d77331e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Una gira de trigésimo aniversario gira en torno a ese repertorio.",
+  "at": "2026-10-16T08:18:14.346Z"
+ },
+ "es/abu-dhabi-lewis-capaldi-and-zara-larsson-abu-dhabi-gp-after-race-concert": {
+  "hash": "8baa73b2da97",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-16T08:18:15.154Z"
+ },
+ "es/bangkok-babymonster-world-tour-choom": {
+  "hash": "0c85e3d182b9",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Los vehículos de transporte con conductor tardan en llegar a los alrededores del complejo...",
+  "at": "2026-10-16T08:18:20.573Z"
+ },
+ "ja/abu-dhabi-andrea-bocelli-yasalam-classics": {
+  "hash": "24514acf4c38",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-16T08:18:21.608Z"
+ },
+ "ja/abu-dhabi-lewis-capaldi-and-zara-larsson-abu-dhabi-gp-after-race-concert": {
+  "hash": "6930ec35185a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "この組み合わせは、あえて対照的な2組をそろえたものです。",
+  "at": "2026-10-16T08:18:26.568Z"
+ },
+ "ja/bangkok-babymonster-world-tour-choom": {
+  "hash": "349e5ea654f5",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "これは大目に見られているのではなく、むしろ当然のこととして期待されています。",
+  "at": "2026-10-16T08:18:31.008Z"
+ },
+ "zh/abu-dhabi-andrea-bocelli-yasalam-classics": {
+  "hash": "825783d6fbd8",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "这正是许多观众干脆不开车的主要原因。",
+  "at": "2026-10-16T08:18:52.958Z"
+ },
+ "zh/abu-dhabi-lewis-capaldi-and-zara-larsson-abu-dhabi-gp-after-race-concert": {
+  "hash": "3618fdd968ea",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "由于我们未能核实两人的歌单与出场顺序，本文不作介绍。",
+  "at": "2026-10-16T08:18:54.005Z"
+ },
+ "zh/bangkok-babymonster-world-tour-choom": {
+  "hash": "479bcd7b09af",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "泰英双语指示牌会把观众引到场馆入口。",
+  "at": "2026-10-16T08:19:39.475Z"
  }
 }
