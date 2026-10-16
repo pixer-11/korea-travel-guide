@@ -86,35 +86,46 @@
     "mong-kok-dim-dim-sum-mong-kok",
     "nagoya-asian-games-2026",
     "singapore-wave-to-earth-the-pisces-tour",
-    "sai-kung-sai-kung-seafood-street"
+    "sai-kung-sai-kung-seafood-street",
+    "adelaide-adelaide-botanic-garden"
   ],
-  "lastSentDay": "2026-10-16",
+  "lastSentDay": "2026-10-17",
   "material": {
-    "day": "2026-10-16",
-    "slug": "sai-kung-sai-kung-seafood-street",
-    "title": "Sai Kung Seafood Street: Travel Guide (4.0★)",
+    "day": "2026-10-17",
+    "slug": "adelaide-adelaide-botanic-garden",
+    "title": "Adelaide Botanic Garden: Travel Guide (4.7★)",
     "urls": [
-      "https://wanderatlasguides.com/og/social/2026-10-16-sai-kung-sai-kung-seafood-street-1.jpg",
-      "https://wanderatlasguides.com/og/social/2026-10-16-sai-kung-sai-kung-seafood-street-2.jpg",
-      "https://wanderatlasguides.com/og/social/2026-10-16-sai-kung-sai-kung-seafood-street-3.jpg",
-      "https://wanderatlasguides.com/og/social/2026-10-16-sai-kung-sai-kung-seafood-street-4.jpg"
+      "https://wanderatlasguides.com/og/social/2026-10-17-adelaide-adelaide-botanic-garden-1.jpg",
+      "https://wanderatlasguides.com/og/social/2026-10-17-adelaide-adelaide-botanic-garden-2.jpg",
+      "https://wanderatlasguides.com/og/social/2026-10-17-adelaide-adelaide-botanic-garden-3.jpg",
+      "https://wanderatlasguides.com/og/social/2026-10-17-adelaide-adelaide-botanic-garden-4.jpg"
     ],
-    "igCaption": "Pick your seafood straight from the tank, agree on a cooking style, and watch it land on your table minutes later. Sai Kung Seafood Street serves up Cantonese classics with the harbour right behind your chair.\n\n#SaiKungSeafoodStreet #SaiKung #HongKong #travelguide #travel #wanderatlas #SeafoodStreet #TravelGuide #NewTerritories #CantoneseFood\n📷 Photo: wanghongliu / Wikimedia Commons (CC BY-SA 3.0)\n📷 Photo: Sushma Taoutom 6638 / Wikimedia Commons (CC0)",
-    "thOption": "The street is quietest between 7-8am, when fishing boats sell straight off the deck using nets on long poles. Would you trade a seafood dinner for this early harbour market scene?",
-    "link": "https://wanderatlasguides.com/posts/sai-kung-sai-kung-seafood-street/"
+    "igCaption": "Glasshouses from 1877, a pine once thought extinct, and waterlily leaves wider than a café table — Adelaide Botanic Garden packs a lot into 125 free acres right off North Terrace. Rated 4.7★ by over 10,800 visitors.\n\n#AdelaideBotanicGarden #Adelaide #Australia #travelguide #travel #wanderatlas #TravelGuide #BotanicalGarden #FreeThingsToDo\n📷 Photo: Ashton 29 / Wikimedia Commons (CC BY-SA 4.0)",
+    "thOption": "The Amazon Waterlily Pavilion holds leaves wider than a café table. Would you dare lean in for a closer look?",
+    "link": "https://wanderatlasguides.com/posts/adelaide-adelaide-botanic-garden/"
   },
   "social": {
-    "thDay": "2026-10-16",
-    "thId": "18170562871463683",
+    "thDay": "2026-10-17",
+    "thId": "18130041838840770",
     "igDay": "2026-10-16",
     "igId": "17880194340578486",
-    "thSlug": "sai-kung-sai-kung-seafood-street",
+    "thSlug": "adelaide-adelaide-botanic-garden",
     "igSlug": "sai-kung-sai-kung-seafood-street",
     "history": [
       {
         "day": "2026-10-10",
         "slug": "berlin-neues-museum",
-        "thId": "17955914730256360"
+        "thId": "17955914730256360",
+        "insights": {
+          "at": "2026-10-17",
+          "th": {
+            "views": 46,
+            "likes": 0,
+            "replies": 0,
+            "reposts": 0,
+            "quotes": 0
+          }
+        }
       },
       {
         "day": "2026-10-11",
@@ -148,6 +159,11 @@
         "slug": "sai-kung-sai-kung-seafood-street",
         "thId": "18170562871463683",
         "igId": "17880194340578486"
+      },
+      {
+        "day": "2026-10-17",
+        "slug": "adelaide-adelaide-botanic-garden",
+        "thId": "18130041838840770"
       }
     ]
   }
