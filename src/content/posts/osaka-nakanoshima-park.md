@@ -1,59 +1,84 @@
 ---
-title: "Nakanoshima Park: Osaka Travel Guide (4.2★)"
-description: "Nakanoshima Park sits on a narrow island in central Osaka, wedged between the Dojima and Tosabori rivers in Kita Ward, and it's open 24 hours every day. 4.2★ (6,481 reviews) — what visitors say, hours, and tips."
-country: "Japan"
-region: "Osaka"
-category: "attraction"
-pubDate: "2026-09-09T07:40:19.870Z"
+title: 'Nakanoshima Park: Osaka Travel Guide (4.2★)'
+description: >-
+  Nakanoshima Park sits on a narrow island in central Osaka, wedged between the
+  Dojima and Tosabori rivers in Kita Ward, and it's open 24 hours every day.
+  4.2★ (6,522 reviews) — what visitors say, hours, and tips.
+country: Japan
+region: Osaka
+category: attraction
+pubDate: '2026-09-09T07:40:19.870Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Osaka_Central_Public_Hall_in_201409.JPG/1920px-Osaka_Central_Public_Hall_in_201409.JPG"
-  credit: "Photo: Mc681 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Osaka_Central_Public_Hall_in_201409.JPG"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Osaka_Central_Public_Hall_in_201409.JPG/1920px-Osaka_Central_Public_Hall_in_201409.JPG
+  credit: 'Photo: Mc681 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Osaka_Central_Public_Hall_in_201409.JPG
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/13373675_DSfMZ3Ym_B-PAbha7Uput1kk-cZ2dvf-yJ4kFriQCWs.jpg"
-    credit: "Photo: Foursquare user content (Nakanoshima Park (中之島公園))"
-    license: "foursquare"
-    source: "https://foursquare.com/v/4bac9a51f964a52095fd3ae3"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/13373675_DSfMZ3Ym_B-PAbha7Uput1kk-cZ2dvf-yJ4kFriQCWs.jpg
+    credit: 'Photo: Foursquare user content (Nakanoshima Park (中之島公園))'
+    license: foursquare
+    source: 'https://foursquare.com/v/4bac9a51f964a52095fd3ae3'
 place:
-  id: "ChIJPXiMg97mAGARsiccqVj_Os8"
-  name: "Nakanoshima Park"
-  address: "1 Chome-1 Nakanoshima, Kita Ward, Osaka, 530-0005, Japan"
+  id: ChIJPXiMg97mAGARsiccqVj_Os8
+  name: Nakanoshima Park
+  address: '1 Chome-1 Nakanoshima, Kita Ward, Osaka, 530-0005, Japan'
   rating: 4.2
-  userRatingsTotal: 6481
-  googleMapsUrl: "https://maps.google.com/?cid=14932528270759700402&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 6522
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14932528270759700402&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 34.692835699999996
   lng: 135.50712289999998
-  phone: "+81 6-6312-8121"
+  phone: +81 6-6312-8121
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "osaka"
-  - "park"
-quickAnswer: "Nakanoshima Park sits on a narrow island in central Osaka, wedged between the Dojima and Tosabori rivers in Kita Ward, and it's open 24 hours every day. It's Japan's oldest public park (opened 1891) and one of Osaka's most-visited green spaces, so expect company, especially around the rose garden in May and October. Come early morning or after dark for river views without the crowds."
+  - osaka
+  - park
+quickAnswer: >-
+  Nakanoshima Park sits on a narrow island in central Osaka, wedged between the
+  Dojima and Tosabori rivers in Kita Ward, and it's open 24 hours every day.
+  It's Japan's oldest public park (opened 1891) and one of Osaka's most-visited
+  green spaces, so expect company, especially around the rose garden in May and
+  October. Come early morning or after dark for river views without the crowds.
 faq:
-  - q: "How do I get to Nakanoshima Park?"
-    a: "Walk about 5 minutes from Yodoyabashi Station (Midosuji Line) or Kitahama Station (Sakaisuji Line). Naka-no-shima Station on the Keihan Nakanoshima Line puts you closer to the eastern end near the ceramics museum."
-  - q: "Is there an entrance fee?"
-    a: "No, the park itself is free and open 24 hours. The Osaka Museum of Oriental Ceramics inside the park charges separate admission."
-  - q: "When is the best time to see the roses?"
-    a: "The rose garden peaks twice a year: mid-to-late May and again in October. Outside those windows it's just tidy beds without much color."
-  - q: "How long should I plan for a visit?"
-    a: "30 to 45 minutes covers the park and rose garden. Add an hour if you're stopping into the ceramics museum or the public hall."
-  - q: "Is it crowded, and when is it quietest?"
-    a: "It's one of Osaka's most-visited parks, so expect company, especially on weekends during rose season. Weekday mornings are the calmest time to visit."
+  - q: How do I get to Nakanoshima Park?
+    a: >-
+      Walk about 5 minutes from Yodoyabashi Station (Midosuji Line) or Kitahama
+      Station (Sakaisuji Line). Naka-no-shima Station on the Keihan Nakanoshima
+      Line puts you closer to the eastern end near the ceramics museum.
+  - q: Is there an entrance fee?
+    a: >-
+      No, the park itself is free and open 24 hours. The Osaka Museum of
+      Oriental Ceramics inside the park charges separate admission.
+  - q: When is the best time to see the roses?
+    a: >-
+      The rose garden peaks twice a year: mid-to-late May and again in October.
+      Outside those windows it's just tidy beds without much color.
+  - q: How long should I plan for a visit?
+    a: >-
+      30 to 45 minutes covers the park and rose garden. Add an hour if you're
+      stopping into the ceramics museum or the public hall.
+  - q: 'Is it crowded, and when is it quietest?'
+    a: >-
+      It's one of Osaka's most-visited parks, so expect company, especially on
+      weekends during rose season. Weekday mornings are the calmest time to
+      visit.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-16'
 ---
 ## The island itself
 

@@ -1,60 +1,94 @@
 ---
-title: "Römerberg: Frankfurt Travel Guide (4.6★)"
-description: "Römerberg is the cobbled main square of Frankfurt's Altstadt, a short walk from Dom/Römer U-Bahn station (U4, U5). 4.6★ (31,601 reviews) — what visitors say, hours, and tips."
-country: "Germany"
-region: "Frankfurt"
-category: "hidden-gem"
-pubDate: "2026-10-16T08:06:39.201Z"
+title: 'Römerberg: Frankfurt Travel Guide (4.6★)'
+description: >-
+  Römerberg is the cobbled main square of Frankfurt's Altstadt, a short walk
+  from Dom/Römer U-Bahn station (U4, U5). 4.6★ (31,610 reviews) — what visitors
+  say, hours, and tips.
+country: Germany
+region: Frankfurt
+category: hidden-gem
+pubDate: '2026-10-16T08:06:39.201Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/R%C3%B6merberg_Frankfurt_abends.jpg/3840px-R%C3%B6merberg_Frankfurt_abends.jpg"
-  credit: "Photo: Thomas Wolf (Der Wolf im Wald) / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:R%C3%B6merberg_Frankfurt_abends.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/R%C3%B6merberg_Frankfurt_abends.jpg/3840px-R%C3%B6merberg_Frankfurt_abends.jpg
+  credit: 'Photo: Thomas Wolf (Der Wolf im Wald) / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:R%C3%B6merberg_Frankfurt_abends.jpg'
+  via: act
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Frankfurt_Mainfest_2025_-_R%C3%B6merberg_2.jpg/3840px-Frankfurt_Mainfest_2025_-_R%C3%B6merberg_2.jpg"
-    credit: "Photo: Dr. Thomas Liptak / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Frankfurt_Mainfest_2025_-_R%C3%B6merberg_2.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Frankfurt_Mainfest_2025_-_R%C3%B6merberg_2.jpg/3840px-Frankfurt_Mainfest_2025_-_R%C3%B6merberg_2.jpg
+    credit: 'Photo: Dr. Thomas Liptak / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Frankfurt_Mainfest_2025_-_R%C3%B6merberg_2.jpg
 place:
-  id: "ChIJn3yIFqYOvUcRieh4nt3lras"
-  name: "Römerberg"
-  address: "Römerberg 26, 60311 Frankfurt am Main-Innenstadt I, Germany"
+  id: ChIJn3yIFqYOvUcRieh4nt3lras
+  name: Römerberg
+  address: 'Römerberg 26, 60311 Frankfurt am Main-Innenstadt I, Germany'
   rating: 4.6
-  userRatingsTotal: 31601
-  googleMapsUrl: "https://maps.google.com/?cid=12370796491465877641&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 31610
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=12370796491465877641&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 50.110287899999996
   lng: 8.6821547
-  phone: "+49 69 247455400"
+  phone: +49 69 247455400
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "frankfurt"
-  - "local market"
-quickAnswer: "Römerberg is the cobbled main square of Frankfurt's Altstadt, a short walk from Dom/Römer U-Bahn station (U4, U5). It's lined with the stepped gables of the Römer city hall and a row of rebuilt half-timbered houses. The square itself is open around the clock. Plan 1–2 hours to include the Alte Nikolaikirche, the Historisches Museum and the coronation route to the cathedral, and come early in the morning or late in the evening for fewer crowds."
+  - frankfurt
+  - local market
+quickAnswer: >-
+  Römerberg is the cobbled main square of Frankfurt's Altstadt, a short walk
+  from Dom/Römer U-Bahn station (U4, U5). It's lined with the stepped gables of
+  the Römer city hall and a row of rebuilt half-timbered houses. The square
+  itself is open around the clock. Plan 1–2 hours to include the Alte
+  Nikolaikirche, the Historisches Museum and the coronation route to the
+  cathedral, and come early in the morning or late in the evening for fewer
+  crowds.
 faq:
-  - q: "How do I get to Römerberg by public transport?"
-    a: "Take U-Bahn line U4 or U5 to Dom/Römer station and follow the signs for Römer. You'll reach the square in a couple of minutes. Trams 11 and 12 stop at Römer/Paulskirche, close to the north side of the square."
-  - q: "Is Römerberg open at night?"
-    a: "Yes. The square is a public space and is open 24 hours. The Alte Nikolaikirche, the Historisches Museum and the Kaisersaal keep their own hours, which change through the year, so check their official sites before you go."
-  - q: "How long should I spend at Römerberg?"
-    a: "One hour is enough for the square, the Alte Nikolaikirche and the walk along the Krönungsweg to the Kaiserdom. Allow two to three hours if you add the Historisches Museum and a walk over the Eiserner Steg to Sachsenhausen."
-  - q: "When is the Frankfurt Christmas market on Römerberg?"
-    a: "It runs from late November until just before Christmas, around the square and nearby streets. Exact dates change each year, so check the city's official listings. Hot drinks come with a mug deposit that you get back when you return the mug."
-  - q: "Are the half-timbered houses original?"
-    a: "Mostly not. The Ostzeile row was rebuilt between 1981 and 1983 after the old town was destroyed in 1944. Haus Wertheym, near the Fahrtor at the river end of the square, is one of the few old-town buildings that survived."
+  - q: How do I get to Römerberg by public transport?
+    a: >-
+      Take U-Bahn line U4 or U5 to Dom/Römer station and follow the signs for
+      Römer. You'll reach the square in a couple of minutes. Trams 11 and 12
+      stop at Römer/Paulskirche, close to the north side of the square.
+  - q: Is Römerberg open at night?
+    a: >-
+      Yes. The square is a public space and is open 24 hours. The Alte
+      Nikolaikirche, the Historisches Museum and the Kaisersaal keep their own
+      hours, which change through the year, so check their official sites before
+      you go.
+  - q: How long should I spend at Römerberg?
+    a: >-
+      One hour is enough for the square, the Alte Nikolaikirche and the walk
+      along the Krönungsweg to the Kaiserdom. Allow two to three hours if you
+      add the Historisches Museum and a walk over the Eiserner Steg to
+      Sachsenhausen.
+  - q: When is the Frankfurt Christmas market on Römerberg?
+    a: >-
+      It runs from late November until just before Christmas, around the square
+      and nearby streets. Exact dates change each year, so check the city's
+      official listings. Hot drinks come with a mug deposit that you get back
+      when you return the mug.
+  - q: Are the half-timbered houses original?
+    a: >-
+      Mostly not. The Ostzeile row was rebuilt between 1981 and 1983 after the
+      old town was destroyed in 1944. Haus Wertheym, near the Fahrtor at the
+      river end of the square, is one of the few old-town buildings that
+      survived.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-16'
 ---
 
 Count the gables first. On the west side of the square, three stepped facades rise side by side in shades of rose and sandstone. That is the Römer, Frankfurt's city hall since 1405. Turn around and six half-timbered houses face it, their timber frames painted in dark red and slate, their upper floors jutting out over the cobbles.

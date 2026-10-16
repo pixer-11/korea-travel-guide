@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: frankfurt-romerberg
-srcHash: '6e15b6a9fa85'
+srcHash: 'c9b55ea8e72b'
 title: 'Römerberg: guía de viaje de Fráncfort (4.6★)'
-description: 'El Römerberg, la plaza mayor adoquinada del casco antiguo (Altstadt) de Fráncfort, queda a pocos pasos de la estación de U-Bahn Dom/Römer (U4, U5). 4.6★ (31,601 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'El Römerberg, la plaza mayor adoquinada del casco antiguo (Altstadt) de Fráncfort, queda a pocos pasos de la estación de U-Bahn Dom/Römer (U4, U5). 4.6★ (31,610 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Römerberg es la plaza mayor adoquinada del casco antiguo (Altstadt) de Fráncfort y queda a pocos pasos de la estación de U-Bahn Dom/Römer (U4, U5). La rodean los hastiales escalonados del Römer, el ayuntamiento, y una hilera de casas de entramado de madera reconstruidas. La plaza está abierta a todas horas. Si quiere ver también la Alte Nikolaikirche, el Historisches Museum y el camino de la coronación hasta la catedral, calcule 1–2 horas. Para encontrar menos gente, venga a primera hora de la mañana o a última de la tarde.
 faq:
   - q: ¿Cómo se llega al Römerberg en transporte público?

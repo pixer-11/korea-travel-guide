@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: nashville-grand-ole-opry
-srcHash: '681d515d4978'
+srcHash: '7e9f3e8dfeee'
 title: 'Grand Ole Opry: guía de viaje de Nashville (4.8★)'
-description: 'En el 600 Opry Mills Dr, dentro de la zona de Music Valley de Nashville y a unos 15–20 minutos en coche al noreste del centro, el Grand Ole Opry funciona a la vez como programa de radio en directo y como sala de conciertos. Tiene una valoración de 4.8★ (33,408 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En el 600 Opry Mills Dr, dentro de la zona de Music Valley de Nashville y a unos 15–20 minutos en coche al noreste del centro, el Grand Ole Opry funciona a la vez como programa de radio en directo y como sala de conciertos. Tiene una valoración de 4.8★ (33,412 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Grand Ole Opry es a la vez un programa de radio en directo y una sala de conciertos. Se encuentra en el 600 Opry Mills Dr, en la zona de Music Valley de Nashville, a unos 15–20 minutos en coche al noreste del centro. La entrada da acceso a toda la velada, que suele durar unas dos horas y cuyo cartel va cambiando y mezcla leyendas con artistas más recientes. Se complementa muy bien con la visita guiada a los bastidores, que se hace de día. En la web oficial del Opry se publican las noches con función, los carteles vigentes y las fechas de invierno en que el programa se traslada al Ryman.
 faq:
   - q: ¿A qué distancia está el Grand Ole Opry del centro de Nashville?

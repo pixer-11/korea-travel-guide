@@ -1,47 +1,76 @@
 ---
-title: "Grand Ole Opry: Nashville Travel Guide (4.8★)"
-description: "The Grand Ole Opry is a live radio show and concert hall at 600 Opry Mills Dr in Nashville's Music Valley area, about a 15–20 minute drive northeast of downtown. 4.8★ (33,408 reviews) — what visitors say, hours, and tips."
-country: "United States"
-region: "Nashville"
-category: "hidden-gem"
-pubDate: "2026-10-16T08:06:41.252Z"
+title: 'Grand Ole Opry: Nashville Travel Guide (4.8★)'
+description: >-
+  The Grand Ole Opry is a live radio show and concert hall at 600 Opry Mills Dr
+  in Nashville's Music Valley area, about a 15–20 minute drive northeast of
+  downtown. 4.8★ (33,412 reviews) — what visitors say, hours, and tips.
+country: United States
+region: Nashville
+category: hidden-gem
+pubDate: '2026-10-16T08:06:41.252Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/c/c8/Grand_Ole_Opry_%2897056906%29.jpg"
-  credit: "Photo: Ken Lund from Las Vegas, Nevada, USA / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Grand_Ole_Opry_(97056906).jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/c/c8/Grand_Ole_Opry_%2897056906%29.jpg
+  credit: >-
+    Photo: Ken Lund from Las Vegas, Nevada, USA / Wikimedia Commons (CC BY-SA
+    2.0)
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Grand_Ole_Opry_(97056906).jpg'
+  via: act
   focus:
     x: 50
-    y: 20
+    'y': 20
 gallery: []
 place:
-  id: "ChIJVSpg989pZIgRdex84bjnfic"
-  name: "Grand Ole Opry"
-  address: "600 Opry Mills Dr, Nashville, TN 37214, USA"
+  id: ChIJVSpg989pZIgRdex84bjnfic
+  name: Grand Ole Opry
+  address: '600 Opry Mills Dr, Nashville, TN 37214, USA'
   rating: 4.8
-  userRatingsTotal: 33408
-  googleMapsUrl: "https://maps.google.com/?cid=2845966795787791477&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 33412
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2845966795787791477&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 36.2068571
   lng: -86.69210849999999
 tags:
-  - "nashville"
-  - "old quarter"
-quickAnswer: "The Grand Ole Opry is a live radio show and concert hall at 600 Opry Mills Dr in Nashville's Music Valley area, about a 15–20 minute drive northeast of downtown. You buy a ticket to a whole night, usually around two hours with a rotating bill of legends and newer acts. A daytime backstage tour works well alongside it. Check the official Opry site for the current show nights, lineups and the winter dates when the show moves to the Ryman."
+  - nashville
+  - old quarter
+quickAnswer: >-
+  The Grand Ole Opry is a live radio show and concert hall at 600 Opry Mills Dr
+  in Nashville's Music Valley area, about a 15–20 minute drive northeast of
+  downtown. You buy a ticket to a whole night, usually around two hours with a
+  rotating bill of legends and newer acts. A daytime backstage tour works well
+  alongside it. Check the official Opry site for the current show nights,
+  lineups and the winter dates when the show moves to the Ryman.
 faq:
-  - q: "How far is the Grand Ole Opry from downtown Nashville?"
-    a: "It's in the Music Valley/Opryland area at 600 Opry Mills Dr, about a 15–20 minute drive northeast of downtown via Briley Parkway. Rideshare or driving is the usual way to get there, and parking is at the Opry Mills lots."
-  - q: "How long is a Grand Ole Opry show?"
-    a: "A show usually runs about two hours. Several artists each play a short set, with a host and sponsor segments between them, and it all goes out live on WSM 650 AM."
-  - q: "Is the Opry always at the Opry House?"
-    a: "No. For part of the winter the show usually moves to the Ryman Auditorium downtown. Check the official Opry schedule for the venue on your date."
-  - q: "Can I tour the Opry if I'm not seeing a show?"
-    a: "Yes. Backstage tours run in the daytime and take about an hour. They cover the dressing rooms, the artist entrance and the halls lined with members' photos. Current times and prices are on the official Opry website."
-  - q: "What is there to do nearby?"
-    a: "Opry Mills mall is next door. Gaylord Opryland Resort's glass-roofed atriums and the General Jackson Showboat on the Cumberland River are a few minutes away."
+  - q: How far is the Grand Ole Opry from downtown Nashville?
+    a: >-
+      It's in the Music Valley/Opryland area at 600 Opry Mills Dr, about a 15–20
+      minute drive northeast of downtown via Briley Parkway. Rideshare or
+      driving is the usual way to get there, and parking is at the Opry Mills
+      lots.
+  - q: How long is a Grand Ole Opry show?
+    a: >-
+      A show usually runs about two hours. Several artists each play a short
+      set, with a host and sponsor segments between them, and it all goes out
+      live on WSM 650 AM.
+  - q: Is the Opry always at the Opry House?
+    a: >-
+      No. For part of the winter the show usually moves to the Ryman Auditorium
+      downtown. Check the official Opry schedule for the venue on your date.
+  - q: Can I tour the Opry if I'm not seeing a show?
+    a: >-
+      Yes. Backstage tours run in the daytime and take about an hour. They cover
+      the dressing rooms, the artist entrance and the halls lined with members'
+      photos. Current times and prices are on the official Opry website.
+  - q: What is there to do nearby?
+    a: >-
+      Opry Mills mall is next door. Gaylord Opryland Resort's glass-roofed
+      atriums and the General Jackson Showboat on the Cumberland River are a few
+      minutes away.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-16'
 ---
 
 ## A radio show you can sit inside

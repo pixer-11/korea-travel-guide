@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: osaka-kuromon-market
-srcHash: 'a82855825382'
+srcHash: 'e90ad5ce2180'
 title: 'Mercado Kuromon: guía de viaje de Osaka (4,1★)'
-description: 'El mercado Kuromon, en Nipponbashi, en pleno centro de Osaka, es un mercado gastronómico cubierto abierto todos los días de 9:00 a 17:00; conviene visitarlo temprano entre semana, antes de que los grupos turísticos ocupen el pasillo. 4,1★ (21.012 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El mercado Kuromon, en Nipponbashi, en pleno centro de Osaka, es un mercado gastronómico cubierto abierto todos los días de 9:00 a 17:00; conviene visitarlo temprano entre semana, antes de que los grupos turísticos ocupen el pasillo. 4,1★ (21.322 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El mercado Kuromon, en Nipponbashi, en pleno centro de Osaka, es un mercado gastronómico cubierto abierto todos los días de 9:00 a 17:00; lo ideal es visitarlo temprano entre semana, antes de que los grupos turísticos llenen el pasillo. Con más de 21.000 reseñas y una popularidad altísima, no es ningún secreto, así que lo que realmente importa no es encontrarlo, sino elegir bien el momento de la visita. Calcule entre 45 y 90 minutos para ir comiendo a lo largo de la calle principal.
 faq:
   - q: ¿Cómo se llega al mercado Kuromon?

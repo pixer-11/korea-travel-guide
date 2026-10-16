@@ -1,47 +1,75 @@
 ---
-title: "Hozenji Yokocho: Osaka Travel Guide (4.3★)"
-description: "Hozenji Yokocho is a narrow, stone-paved alley in Namba, Osaka, tucked one short block south of the Dotonbori canal and about a ten-minute walk from Namba Station. 4.3★ (523 reviews) — what visitors say, hours, and tips."
-country: "Japan"
-region: "Osaka"
-category: "hidden-gem"
-pubDate: "2026-09-30T07:55:42.109Z"
+title: 'Hozenji Yokocho: Osaka Travel Guide (4.4★)'
+description: >-
+  Hozenji Yokocho is a narrow, stone-paved alley in Namba, Osaka, tucked one
+  short block south of the Dotonbori canal and about a ten-minute walk from
+  Namba Station. 4.4★ (550 reviews) — what visitors say, hours, and tips.
+country: Japan
+region: Osaka
+category: hidden-gem
+pubDate: '2026-09-30T07:55:42.109Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Hozenji_Yokocho_at_night.jpg/3840px-Hozenji_Yokocho_at_night.jpg"
-  credit: "Photo: Choi2451 / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Hozenji_Yokocho_at_night.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Hozenji_Yokocho_at_night.jpg/3840px-Hozenji_Yokocho_at_night.jpg
+  credit: 'Photo: Choi2451 / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Hozenji_Yokocho_at_night.jpg'
+  via: act
   focus:
     x: 75
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJY4ZQxRTnAGAR0mjfWQwO7ho"
-  name: "Hozenji Yokocho"
-  address: "1 Chome-1 Namba, Chuo Ward, Osaka, 542-0076, Japan"
-  rating: 4.3
-  userRatingsTotal: 523
-  googleMapsUrl: "https://maps.google.com/?cid=1940503935653472466&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  id: ChIJY4ZQxRTnAGAR0mjfWQwO7ho
+  name: Hozenji Yokocho
+  address: '1 Chome-1 Namba, Chuo Ward, Osaka, 542-0076, Japan'
+  rating: 4.4
+  userRatingsTotal: 550
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1940503935653472466&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 34.6681187
   lng: 135.50261039999998
 tags:
-  - "osaka"
-  - "old quarter"
-quickAnswer: "Hozenji Yokocho is a narrow, stone-paved alley in Namba, Osaka, tucked one short block south of the Dotonbori canal and about a ten-minute walk from Namba Station. Come for the moss-covered Mizukake Fudo statue at Hozenji Temple, then eat at one of the small restaurants, cafés and taverns along the lane. Evening, when the lanterns are lit, gives you the alley at its best."
+  - osaka
+  - old quarter
+quickAnswer: >-
+  Hozenji Yokocho is a narrow, stone-paved alley in Namba, Osaka, tucked one
+  short block south of the Dotonbori canal and about a ten-minute walk from
+  Namba Station. Come for the moss-covered Mizukake Fudo statue at Hozenji
+  Temple, then eat at one of the small restaurants, cafés and taverns along the
+  lane. Evening, when the lanterns are lit, gives you the alley at its best.
 faq:
-  - q: "Where exactly is Hozenji Yokocho?"
-    a: "It's at 1-chome Namba, Chuo Ward, Osaka, one block south of the Dotonbori canal and next to the Sennichimae arcade. Hozenji Temple and its moss-covered Mizukake Fudo statue sit at the western end."
-  - q: "Which station is closest?"
-    a: "Namba Station is about a 5 to 10 minute walk. It's served by the Midosuji, Yotsubashi and Sennichimae subway lines, plus Nankai. Nippombashi Station (Sakaisuji and Sennichimae lines, and Kintetsu) is a similar distance to the east."
-  - q: "What is the water-splashing ritual at Hozenji?"
-    a: "You offer a coin, ladle water over the moss-covered Fudo Myoo statue (Mizukake Fudo) and make a wish with your hands pressed together. The statue survived the 1945 air raids, and decades of splashing have covered it in thick moss."
-  - q: "When is the best time to go?"
-    a: "Early evening, when the paper lanterns along the alley and in the temple grounds are lit. Shop hours vary and some places close on set weekdays, so check the specific restaurant before you go."
-  - q: "How long should I spend there?"
-    a: "Allow 30 to 45 minutes to see the temple and walk both lanes. Add an hour or more if you stay for zenzai at Meoto Zenzai or a meal at one of the counter restaurants."
+  - q: Where exactly is Hozenji Yokocho?
+    a: >-
+      It's at 1-chome Namba, Chuo Ward, Osaka, one block south of the Dotonbori
+      canal and next to the Sennichimae arcade. Hozenji Temple and its
+      moss-covered Mizukake Fudo statue sit at the western end.
+  - q: Which station is closest?
+    a: >-
+      Namba Station is about a 5 to 10 minute walk. It's served by the Midosuji,
+      Yotsubashi and Sennichimae subway lines, plus Nankai. Nippombashi Station
+      (Sakaisuji and Sennichimae lines, and Kintetsu) is a similar distance to
+      the east.
+  - q: What is the water-splashing ritual at Hozenji?
+    a: >-
+      You offer a coin, ladle water over the moss-covered Fudo Myoo statue
+      (Mizukake Fudo) and make a wish with your hands pressed together. The
+      statue survived the 1945 air raids, and decades of splashing have covered
+      it in thick moss.
+  - q: When is the best time to go?
+    a: >-
+      Early evening, when the paper lanterns along the alley and in the temple
+      grounds are lit. Shop hours vary and some places close on set weekdays, so
+      check the specific restaurant before you go.
+  - q: How long should I spend there?
+    a: >-
+      Allow 30 to 45 minutes to see the temple and walk both lanes. Add an hour
+      or more if you stay for zenzai at Meoto Zenzai or a meal at one of the
+      counter restaurants.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-16'
 ---
 
 ## Two Lanes, One Block From the Neon

@@ -1,44 +1,50 @@
 ---
-title: "Istana Park: Orchard Road Travel Guide (4.3★)"
-description: "Istana Park sits at the top of Orchard Road, right where Penang Road and Penang Lane meet the shopping strip, just across from the Istana's main gates. 4.3★ (647 reviews) — what visitors say, hours, and tips."
-country: "Singapore"
-region: "Orchard Road"
-category: "attraction"
-pubDate: "2026-09-19T07:36:48.797Z"
+title: 'Istana Park: Orchard Road Travel Guide (4.3★)'
+description: >-
+  Istana Park sits at the top of Orchard Road, right where Penang Road and
+  Penang Lane meet the shopping strip, just across from the Istana's main gates.
+  4.3★ (650 reviews) — what visitors say, hours, and tips.
+country: Singapore
+region: Orchard Road
+category: attraction
+pubDate: '2026-09-19T07:36:48.797Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Istana_Park%2C_2026_02.jpg/1920px-Istana_Park%2C_2026_02.jpg"
-  credit: "Photo: Actuall7 / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Istana_Park,_2026_02.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Istana_Park%2C_2026_02.jpg/1920px-Istana_Park%2C_2026_02.jpg
+  credit: 'Photo: Actuall7 / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Istana_Park,_2026_02.jpg'
   focus:
     x: 20
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/235502_ALRF0ivimRQMKFkrfuNaJiT5iryfx1mY-2wGp0PR8UI.jpg"
-    credit: "Photo: Foursquare user content (Istana Park)"
-    license: "foursquare"
-    source: "https://foursquare.com/v/4bd926192e6f0f4724e80908"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/235502_ALRF0ivimRQMKFkrfuNaJiT5iryfx1mY-2wGp0PR8UI.jpg
+    credit: 'Photo: Foursquare user content (Istana Park)'
+    license: foursquare
+    source: 'https://foursquare.com/v/4bd926192e6f0f4724e80908'
 place:
-  id: "ChIJGeWzwMUZ2jERUmSzZCF_59M"
-  name: "Istana Park"
-  address: "Bounded by Orchard Road Penang Road, Penang Lane and, Buyong Rd, Singapore"
+  id: ChIJGeWzwMUZ2jERUmSzZCF_59M
+  name: Istana Park
+  address: 'Bounded by Orchard Road Penang Road, Penang Lane and, Buyong Rd, Singapore'
   rating: 4.3
-  userRatingsTotal: 647
-  googleMapsUrl: "https://maps.google.com/?cid=15269312843023082578&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 650
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15269312843023082578&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.2992392
   lng: 103.8438178
-  phone: "+65 1800 471 7300"
+  phone: +65 1800 471 7300
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-09-19
+    updated: 2026-09-19T00:00:00.000Z
     weekdayQuiet:
       - 7
     weekendQuiet:
@@ -59,24 +65,40 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_4d39355f46435a7a536d5552456a325a554d777a5765474a496843"
+    venueId: ven_4d39355f46435a7a536d5552456a325a554d777a5765474a496843
 tags:
-  - "orchard road"
-  - "park"
-quickAnswer: "Istana Park sits at the top of Orchard Road, right where Penang Road and Penang Lane meet the shopping strip, just across from the Istana's main gates. It's open 24 hours and rarely crowded, with the calmest stretch running 7am to 8am on weekdays and 7am to 9am on weekends. Give it 15 to 20 minutes: enough to walk the reflecting pool, see the Festival Arch and grab a coffee before the malls open."
+  - orchard road
+  - park
+quickAnswer: >-
+  Istana Park sits at the top of Orchard Road, right where Penang Road and
+  Penang Lane meet the shopping strip, just across from the Istana's main gates.
+  It's open 24 hours and rarely crowded, with the calmest stretch running 7am to
+  8am on weekdays and 7am to 9am on weekends. Give it 15 to 20 minutes: enough
+  to walk the reflecting pool, see the Festival Arch and grab a coffee before
+  the malls open.
 faq:
-  - q: "Where exactly is Istana Park on Orchard Road?"
-    a: "It's at the Dhoby Ghaut end, bounded by Orchard Road, Penang Road, Penang Lane and Buyong Road, directly across from the Istana's main gate."
-  - q: "What are the opening hours?"
-    a: "It's an open, unticketed park accessible 24 hours every day of the week."
-  - q: "When is it quietest?"
-    a: "Weekdays between 7am and 8am, and weekends between 7am and 9am. Weekends get busy from 9am until as late as 11pm as shopping crowds pass through."
-  - q: "How long should I spend there?"
-    a: "15 to 20 minutes is enough to see the Festival Arch, walk the reflecting pool and grab something from the cafe."
-  - q: "What's nearby if I want to extend the visit?"
-    a: "Fort Canning Park is a 10 to 15 minute walk northwest, and the main Orchard Road mall strip (Ion Orchard, Takashimaya, Paragon) begins a few minutes' walk south."
+  - q: Where exactly is Istana Park on Orchard Road?
+    a: >-
+      It's at the Dhoby Ghaut end, bounded by Orchard Road, Penang Road, Penang
+      Lane and Buyong Road, directly across from the Istana's main gate.
+  - q: What are the opening hours?
+    a: 'It''s an open, unticketed park accessible 24 hours every day of the week.'
+  - q: When is it quietest?
+    a: >-
+      Weekdays between 7am and 8am, and weekends between 7am and 9am. Weekends
+      get busy from 9am until as late as 11pm as shopping crowds pass through.
+  - q: How long should I spend there?
+    a: >-
+      15 to 20 minutes is enough to see the Festival Arch, walk the reflecting
+      pool and grab something from the cafe.
+  - q: What's nearby if I want to extend the visit?
+    a: >-
+      Fort Canning Park is a 10 to 15 minute walk northwest, and the main
+      Orchard Road mall strip (Ion Orchard, Takashimaya, Paragon) begins a few
+      minutes' walk south.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-16'
 ---
 
 Most people walking up Orchard Road toward Dhoby Ghaut are heading somewhere else: a mall, a hotel, the Istana gates for a rare open house. Istana Park is the patch of green they cut through without stopping, which is exactly why it's worth ten extra minutes.

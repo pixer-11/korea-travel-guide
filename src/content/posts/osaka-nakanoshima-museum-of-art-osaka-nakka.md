@@ -1,44 +1,50 @@
 ---
-title: "Nakanoshima Museum of Art, Osaka (NAKKA): Travel Guide"
-description: "The Nakanoshima Museum of Art, Osaka (NAKKA) sits on Nakanoshima island in Kita Ward, a five-minute walk from Watanabebashi Station. 4.4★ (6,175 reviews) — what visitors say, hours, and tips."
-country: "Japan"
-region: "Osaka"
-category: "attraction"
-pubDate: "2026-09-08T14:27:21.804Z"
+title: 'Nakanoshima Museum of Art, Osaka (NAKKA): Travel Guide'
+description: >-
+  The Nakanoshima Museum of Art, Osaka (NAKKA) sits on Nakanoshima island in
+  Kita Ward, a five-minute walk from Watanabebashi Station. 4.4★ (6,604 reviews)
+  — what visitors say, hours, and tips.
+country: Japan
+region: Osaka
+category: attraction
+pubDate: '2026-09-08T14:27:21.804Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/3/34/Nakanoshima_Museum_of_Art%2C_Osaka.jpg"
-  credit: "Photo: Sakai Yayoi / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Nakanoshima_Museum_of_Art,_Osaka.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/3/34/Nakanoshima_Museum_of_Art%2C_Osaka.jpg
+  credit: 'Photo: Sakai Yayoi / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Nakanoshima_Museum_of_Art,_Osaka.jpg'
+  via: act
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/NAKKA.jpg/3840px-NAKKA.jpg"
-    credit: "Photo: Sakai Yayoi / Wikimedia Commons (CC0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:NAKKA.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/NAKKA.jpg/3840px-NAKKA.jpg
+    credit: 'Photo: Sakai Yayoi / Wikimedia Commons (CC0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:NAKKA.jpg'
 place:
-  id: "ChIJa7dX-nLnAGARYuCX2mxyVWA"
-  name: "Nakanoshima Museum of Art, Osaka (NAKKA)"
-  address: "Japan, 〒530-0005 Osaka, Kita Ward, Nakanoshima, 4-chōme−3−１ 大阪中之島美術館"
+  id: ChIJa7dX-nLnAGARYuCX2mxyVWA
+  name: 'Nakanoshima Museum of Art, Osaka (NAKKA)'
+  address: 'Japan, 〒530-0005 Osaka, Kita Ward, Nakanoshima, 4-chōme−3−１ 大阪中之島美術館'
   rating: 4.4
-  userRatingsTotal: 6175
-  googleMapsUrl: "https://maps.google.com/?cid=6941580212510908514&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 6604
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6941580212510908514&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 34.6924461
   lng: 135.4913924
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 10:00 AM – 5:00 PM"
-    - "Wednesday: 10:00 AM – 5:00 PM"
-    - "Thursday: 10:00 AM – 5:00 PM"
-    - "Friday: 10:00 AM – 5:00 PM"
-    - "Saturday: 10:00 AM – 5:00 PM"
-    - "Sunday: 10:00 AM – 5:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 10:00 AM – 5:00 PM'
+    - 'Wednesday: 10:00 AM – 5:00 PM'
+    - 'Thursday: 10:00 AM – 5:00 PM'
+    - 'Friday: 10:00 AM – 5:00 PM'
+    - 'Saturday: 10:00 AM – 5:00 PM'
+    - 'Sunday: 10:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-09-08
+    updated: 2026-09-08T00:00:00.000Z
     weekdayBusy:
       - 12
       - 13
@@ -51,24 +57,44 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_41575679786d3258437559524147416e4c6e2d586437614a496843"
+    venueId: ven_41575679786d3258437559524147416e4c6e2d586437614a496843
 tags:
-  - "osaka"
-  - "museum"
-quickAnswer: "The Nakanoshima Museum of Art, Osaka (NAKKA) sits on Nakanoshima island in Kita Ward, a five-minute walk from Watanabebashi Station. It's closed Mondays and open 10am–5pm the rest of the week, and weekends get busy from 11am to 5pm, so an opening-hour visit on a weekday is your best bet for breathing room. Budget 90 minutes to two hours for the permanent collection plus whatever special exhibition is running."
+  - osaka
+  - museum
+quickAnswer: >-
+  The Nakanoshima Museum of Art, Osaka (NAKKA) sits on Nakanoshima island in
+  Kita Ward, a five-minute walk from Watanabebashi Station. It's closed Mondays
+  and open 10am–5pm the rest of the week, and weekends get busy from 11am to
+  5pm, so an opening-hour visit on a weekday is your best bet for breathing
+  room. Budget 90 minutes to two hours for the permanent collection plus
+  whatever special exhibition is running.
 faq:
-  - q: "How do I get to the Nakanoshima Museum of Art, Osaka?"
-    a: "Walk about 5 minutes from Watanabebashi Station on the Keihan Nakanoshima Line, or roughly 12-15 minutes from Yodoyabashi or Higobashi stations on the Midosuji or Yotsubashi lines."
-  - q: "What days is NAKKA closed?"
-    a: "It's closed every Monday. Tuesday through Sunday it runs 10:00 AM to 5:00 PM."
-  - q: "When is the museum least crowded?"
-    a: "Weekends see steady crowds from 11am to 5pm, so arriving right at the 10am opening on a weekday is the best way to avoid lines, especially during a popular special exhibition."
-  - q: "How long should I plan to spend there?"
-    a: "Budget 90 minutes for the permanent collection alone, or up to two to three hours if you're also seeing a special exhibition."
-  - q: "Is it worth combining with other sights nearby?"
-    a: "Yes. The National Museum of Art, Osaka is right across the plaza, and Nakanoshima Park and the Osaka Central Public Hall are a short walk further along the island."
+  - q: 'How do I get to the Nakanoshima Museum of Art, Osaka?'
+    a: >-
+      Walk about 5 minutes from Watanabebashi Station on the Keihan Nakanoshima
+      Line, or roughly 12-15 minutes from Yodoyabashi or Higobashi stations on
+      the Midosuji or Yotsubashi lines.
+  - q: What days is NAKKA closed?
+    a: >-
+      It's closed every Monday. Tuesday through Sunday it runs 10:00 AM to 5:00
+      PM.
+  - q: When is the museum least crowded?
+    a: >-
+      Weekends see steady crowds from 11am to 5pm, so arriving right at the 10am
+      opening on a weekday is the best way to avoid lines, especially during a
+      popular special exhibition.
+  - q: How long should I plan to spend there?
+    a: >-
+      Budget 90 minutes for the permanent collection alone, or up to two to
+      three hours if you're also seeing a special exhibition.
+  - q: Is it worth combining with other sights nearby?
+    a: >-
+      Yes. The National Museum of Art, Osaka is right across the plaza, and
+      Nakanoshima Park and the Osaka Central Public Hall are a short walk
+      further along the island.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-16'
 ---
 The building itself is the first exhibit: a matte black cube, five storeys tall, raised on stilts above a plaza of grey pavers. Architect Endo Yoshiaki designed it as a floating box, and from the riverside promenade along the Dojima River it reads less like a museum entrance and more like a piece of sculpture that happens to have doors.
 

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: osaka-cafe-82-osaka
-srcHash: '82449d565954'
+srcHash: '168668247719'
 title: 'Cafe+82: Guía de viaje de Osaka (4.6★)'
-description: 'Cafe+82 es una cafetería de inspiración coreana escondida en las callejuelas de Shinmachi, en el Distrito de Nishi, Osaka, abierta todos los días de 9am a 7pm. 4.6★ (335 reseñas): qué dicen los visitantes, horarios y consejos.'
+description: 'Cafe+82 es una cafetería de inspiración coreana escondida en las callejuelas de Shinmachi, en el Distrito de Nishi, Osaka, abierta todos los días de 9am a 7pm. 4.6★ (364 reseñas): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: Cafe+82 es una cafetería de inspiración coreana escondida en las callejuelas de Shinmachi, en el Distrito de Nishi, Osaka, abierta todos los días de 9am a 7pm. Está más tranquila justo a la apertura los días de semana, o entre las 9am y las 10am los fines de semana; conviene evitar la avalancha de 11am a 5pm los fines de semana. Calcula una hora para disfrutar de un café y un plato de sus platos al estilo coreano, ideales para Instagram.
 faq:
   - q: ¿Cómo llego a Cafe+82 en Osaka?

@@ -1,60 +1,85 @@
 ---
-title: "Kuromon Market: Osaka Travel Guide (4.1★)"
-description: "Kuromon Market in Nipponbashi, central Osaka, is a covered food market open daily from 9am to 5pm, best tackled early on a weekday before tour groups fill the aisle. 4.1★ (21,012 reviews) — what visitors say, hours, and tips."
-country: "Japan"
-region: "Osaka"
-category: "hidden-gem"
-pubDate: "2026-09-23T07:49:58.937Z"
+title: 'Kuromon Market: Osaka Travel Guide (4.1★)'
+description: >-
+  Kuromon Market in Nipponbashi, central Osaka, is a covered food market open
+  daily from 9am to 5pm, best tackled early on a weekday before tour groups fill
+  the aisle. 4.1★ (21,322 reviews) — what visitors say, hours, and tips.
+country: Japan
+region: Osaka
+category: hidden-gem
+pubDate: '2026-09-23T07:49:58.937Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/d/dd/Kuromon_Ichiba_Market_at_Lalaport_Kadoma2.jpg"
-  credit: "Photo: Mr.ちゅらさん / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Kuromon_Ichiba_Market_at_Lalaport_Kadoma2.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/d/dd/Kuromon_Ichiba_Market_at_Lalaport_Kadoma2.jpg
+  credit: 'Photo: Mr.ちゅらさん / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Kuromon_Ichiba_Market_at_Lalaport_Kadoma2.jpg
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/d/d9/Kuromon_Ichiba_Market_at_LaLaport_Kadoma4.jpg"
-    credit: "Photo: Mr.ちゅらさん / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Kuromon_Ichiba_Market_at_LaLaport_Kadoma4.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/d/d9/Kuromon_Ichiba_Market_at_LaLaport_Kadoma4.jpg
+    credit: 'Photo: Mr.ちゅらさん / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Kuromon_Ichiba_Market_at_LaLaport_Kadoma4.jpg
 place:
-  id: "ChIJXSJB5UHnAGARQcEjvngsHaw"
-  name: "Kuromon Market"
-  address: "2-chōme-4-1 Nipponbashi, Chuo Ward, Osaka, 542-0073, Japan"
+  id: ChIJXSJB5UHnAGARQcEjvngsHaw
+  name: Kuromon Market
+  address: '2-chōme-4-1 Nipponbashi, Chuo Ward, Osaka, 542-0073, Japan'
   rating: 4.1
-  userRatingsTotal: 21012
-  googleMapsUrl: "https://maps.google.com/?cid=12402117845945925953&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 21322
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=12402117845945925953&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 34.665351099999995
   lng: 135.5062417
-  phone: "+81 6-6631-0007"
+  phone: +81 6-6631-0007
   openingHours:
-    - "Monday: 9:00 AM – 5:00 PM"
-    - "Tuesday: 9:00 AM – 5:00 PM"
-    - "Wednesday: 9:00 AM – 5:00 PM"
-    - "Thursday: 9:00 AM – 5:00 PM"
-    - "Friday: 9:00 AM – 5:00 PM"
-    - "Saturday: 9:00 AM – 5:00 PM"
-    - "Sunday: 9:00 AM – 5:00 PM"
+    - 'Monday: 9:00 AM – 5:00 PM'
+    - 'Tuesday: 9:00 AM – 5:00 PM'
+    - 'Wednesday: 9:00 AM – 5:00 PM'
+    - 'Thursday: 9:00 AM – 5:00 PM'
+    - 'Friday: 9:00 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 5:00 PM'
+    - 'Sunday: 9:00 AM – 5:00 PM'
 tags:
-  - "osaka"
-  - "local market"
-quickAnswer: "Kuromon Market in Nipponbashi, central Osaka, is a covered food market open daily from 9am to 5pm, best tackled early on a weekday before tour groups fill the aisle. With over 21,000 reviews and a very-popular status, it's no secret find, so timing your visit matters more than finding it. Budget 45–90 minutes to eat your way down the main strip."
+  - osaka
+  - local market
+quickAnswer: >-
+  Kuromon Market in Nipponbashi, central Osaka, is a covered food market open
+  daily from 9am to 5pm, best tackled early on a weekday before tour groups fill
+  the aisle. With over 21,000 reviews and a very-popular status, it's no secret
+  find, so timing your visit matters more than finding it. Budget 45–90 minutes
+  to eat your way down the main strip.
 faq:
-  - q: "How do I get to Kuromon Market?"
-    a: "Walk from Nippombashi Station (Sennichimae, Sakaisuji or Kintetsu lines) or Namba Station; both are a few minutes away on foot, and the market sits roughly between the two."
-  - q: "What are the opening hours?"
-    a: "Kuromon Market is open 9:00 AM to 5:00 PM every day of the week, with no variation by day."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Go right at 9am on a weekday. Saturday and Sunday afternoons draw the heaviest tour-group traffic in the narrow arcade."
-  - q: "How much time should I set aside?"
-    a: "About 45 minutes for a quick grazing walk-through, up to 90 minutes if you want to compare vendors and watch grilling."
-  - q: "What's nearby if I want to keep exploring?"
-    a: "Dotonbori's canal-side restaurants and neon signage and Namba Station's shopping are both an easy walk from the market."
+  - q: How do I get to Kuromon Market?
+    a: >-
+      Walk from Nippombashi Station (Sennichimae, Sakaisuji or Kintetsu lines)
+      or Namba Station; both are a few minutes away on foot, and the market sits
+      roughly between the two.
+  - q: What are the opening hours?
+    a: >-
+      Kuromon Market is open 9:00 AM to 5:00 PM every day of the week, with no
+      variation by day.
+  - q: When is the best time to visit to avoid crowds?
+    a: >-
+      Go right at 9am on a weekday. Saturday and Sunday afternoons draw the
+      heaviest tour-group traffic in the narrow arcade.
+  - q: How much time should I set aside?
+    a: >-
+      About 45 minutes for a quick grazing walk-through, up to 90 minutes if you
+      want to compare vendors and watch grilling.
+  - q: What's nearby if I want to keep exploring?
+    a: >-
+      Dotonbori's canal-side restaurants and neon signage and Namba Station's
+      shopping are both an easy walk from the market.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-16'
 ---
 ## What Kuromon actually is
 

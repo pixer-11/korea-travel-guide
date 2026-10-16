@@ -1,24 +1,30 @@
 ---
 title: 'Cafe+82: Osaka Travel Guide (4.6★)'
-description: Cafe+82 is a Korean-inspired café tucked into the Shinmachi backstreets of Nishi Ward, Osaka, open daily 9am–7pm. 4.6★ (335 reviews) — what visitors say, hours, and tips.
+description: >-
+  Cafe+82 is a Korean-inspired café tucked into the Shinmachi backstreets of
+  Nishi Ward, Osaka, open daily 9am–7pm. 4.6★ (364 reviews) — what visitors say,
+  hours, and tips.
 country: Japan
 region: Osaka
 category: trendy
 pubDate: '2026-08-08T08:14:21.207Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Self_Cafe_Taishi-Bashi_Moriguchi_Osaka.jpg/3840px-Self_Cafe_Taishi-Bashi_Moriguchi_Osaka.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Self_Cafe_Taishi-Bashi_Moriguchi_Osaka.jpg/3840px-Self_Cafe_Taishi-Bashi_Moriguchi_Osaka.jpg
   credit: 'Photo: Mr.ちゅらさん / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Self_Cafe_Taishi-Bashi_Moriguchi_Osaka.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Self_Cafe_Taishi-Bashi_Moriguchi_Osaka.jpg
 gallery: []
 place:
   id: ChIJi1E6XcXnAGARwXehSzy1VwE
   name: Cafe+82 Osaka
-  address: 1-chōme-7-17 Shinmachi, Nishi Ward, Osaka, 550-0013, Japan
+  address: '1-chōme-7-17 Shinmachi, Nishi Ward, Osaka, 550-0013, Japan'
   rating: 4.6
-  userRatingsTotal: 335
+  userRatingsTotal: 364
   priceLevel: 2
-  googleMapsUrl: https://maps.google.com/?cid=96745187583293377&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=96745187583293377&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 34.676712099999996
   lng: 135.4960471
@@ -49,19 +55,40 @@ place:
 tags:
   - osaka
   - concept cafe
-quickAnswer: Cafe+82 is a Korean-inspired café tucked into the Shinmachi backstreets of Nishi Ward, Osaka, open daily 9am–7pm. It's calmest right at opening on weekdays, or between 9am–10am on weekends — try to avoid the 11am–5pm weekend rush. Budget an hour for a coffee and a plate of its Instagram-friendly Korean-style dishes.
+quickAnswer: >-
+  Cafe+82 is a Korean-inspired café tucked into the Shinmachi backstreets of
+  Nishi Ward, Osaka, open daily 9am–7pm. It's calmest right at opening on
+  weekdays, or between 9am–10am on weekends — try to avoid the 11am–5pm weekend
+  rush. Budget an hour for a coffee and a plate of its Instagram-friendly
+  Korean-style dishes.
 faq:
   - q: How do I get to Cafe+82 in Osaka?
-    a: It's in Shinmachi, Nishi Ward, within walking distance of both Shinsaibashi and Yotsubashi subway stations. The streets are narrow and grid-like, so it's worth navigating with the exact address rather than a nearby landmark.
+    a: >-
+      It's in Shinmachi, Nishi Ward, within walking distance of both
+      Shinsaibashi and Yotsubashi subway stations. The streets are narrow and
+      grid-like, so it's worth navigating with the exact address rather than a
+      nearby landmark.
   - q: What's the quietest time to visit?
-    a: Weekdays are calm any time within the 9am–7pm opening hours. On weekends, the quiet window shrinks to 9am–10am — after that, it fills up through the 11am–5pm midday rush.
+    a: >-
+      Weekdays are calm any time within the 9am–7pm opening hours. On weekends,
+      the quiet window shrinks to 9am–10am — after that, it fills up through the
+      11am–5pm midday rush.
   - q: What should I order?
-    a: Go for the Korean-style honey toast and one of the cream-topped specialty lattes. Seasonal fruit desserts also rotate through the menu and are worth asking about.
+    a: >-
+      Go for the Korean-style honey toast and one of the cream-topped specialty
+      lattes. Seasonal fruit desserts also rotate through the menu and are worth
+      asking about.
   - q: How much time should I plan for a visit?
-    a: Budget around an hour. It's a sit-down café built for lingering over a drink and a shared plate, not a quick takeaway stop.
+    a: >-
+      Budget around an hour. It's a sit-down café built for lingering over a
+      drink and a shared plate, not a quick takeaway stop.
   - q: Is Cafe+82 touristy?
-    a: Not yet — it's still relatively under-the-radar despite its strong rating, so you're more likely to share the room with locals and design-district workers than tour groups.
+    a: >-
+      Not yet — it's still relatively under-the-radar despite its strong rating,
+      so you're more likely to share the room with locals and design-district
+      workers than tour groups.
 aiGenerated: true
+updatedDate: '2026-10-16'
 ---
 
 ## Why Cafe+82 is worth the detour

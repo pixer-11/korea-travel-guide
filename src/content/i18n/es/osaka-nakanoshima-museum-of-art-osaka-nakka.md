@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: osaka-nakanoshima-museum-of-art-osaka-nakka
-srcHash: 'dc2ea8a7a791'
+srcHash: '5820849f5159'
 title: 'Museo de Arte de Nakanoshima, Osaka (NAKKA): Guía de viaje'
-description: 'El Museo de Arte de Nakanoshima, Osaka (NAKKA) se encuentra en la isla de Nakanoshima, en el distrito de Kita, a cinco minutos a pie de la estación de Watanabebashi. 4,4★ (6.175 reseñas): qué opinan los visitantes, horarios y consejos.'
+description: 'El Museo de Arte de Nakanoshima, Osaka (NAKKA) se encuentra en la isla de Nakanoshima, en el distrito de Kita, a cinco minutos a pie de la estación de Watanabebashi. 4,4★ (6.604 reseñas): qué opinan los visitantes, horarios y consejos.'
 quickAnswer: El Museo de Arte de Nakanoshima, Osaka (NAKKA) se encuentra en la isla de Nakanoshima, en el distrito de Kita, a cinco minutos a pie de la estación de Watanabebashi. Permanece cerrado los lunes y abre de 10:00 a 17:00 el resto de la semana; los fines de semana se llena entre las 11:00 y las 17:00, así que la mejor opción para disfrutar de más tranquilidad es visitarlo un día de entre semana justo a la hora de apertura. Conviene reservar entre 90 minutos y dos horas para la colección permanente, más el tiempo adicional que requiera la exposición temporal del momento.
 faq:
   - q: ¿Cómo se llega al Museo de Arte de Nakanoshima, Osaka?

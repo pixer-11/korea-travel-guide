@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: osaka-nakanoshima-park
-srcHash: '7b551d76b091'
+srcHash: '1c8fcf873dbf'
 title: 'Parque Nakanoshima: guía de viaje de Osaka (4.2★)'
-description: 'El Parque Nakanoshima ocupa una isla estrecha en el centro de Osaka, entre los ríos Dojima y Tosabori, en el barrio de Kita, y permanece abierto las 24 horas todos los días. 4.2★ (6.481 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'El Parque Nakanoshima ocupa una isla estrecha en el centro de Osaka, entre los ríos Dojima y Tosabori, en el barrio de Kita, y permanece abierto las 24 horas todos los días. 4.2★ (6.522 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Parque Nakanoshima ocupa una isla estrecha en el centro de Osaka, entre los ríos Dojima y Tosabori, en el barrio de Kita, y permanece abierto las 24 horas todos los días. Es el parque público más antiguo de Japón (inaugurado en 1891) y uno de los espacios verdes más visitados de Osaka, así que hay que contar con bastante afluencia, sobre todo en el jardín de rosas durante mayo y octubre. Para disfrutar de las vistas del río sin multitudes, conviene ir a primera hora de la mañana o al anochecer.
 faq:
   - q: ¿Cómo se llega al Parque Nakanoshima?

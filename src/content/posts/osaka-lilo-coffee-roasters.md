@@ -1,28 +1,34 @@
 ---
 title: 'LiLo Coffee Roasters: Osaka Travel Guide'
-description: LiLo Coffee Roasters is a small, highly-rated specialty coffee bar in Nishishinsaibashi, Chuo Ward — about a 5–8 minute walk from Shinsaibashi or Yotsubashi stations.
+description: >-
+  LiLo Coffee Roasters is a small, highly-rated specialty coffee bar in
+  Nishishinsaibashi, Chuo Ward — about a 5–8 minute walk from Shinsaibashi or
+  Yotsubashi stations.
 country: Japan
 region: Osaka
 category: trendy
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/26504858__6u-Ov1MVdPZkwjzGJlDj5P4ATtCiSjU0Zw3jlFZcl4.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/26504858__6u-Ov1MVdPZkwjzGJlDj5P4ATtCiSjU0Zw3jlFZcl4.jpg
   credit: 'Photo: Foursquare user content (LiLo Coffee Roasters)'
   license: foursquare
-  source: https://foursquare.com/v/53e458d6498e40c7e22ebe7f
+  source: 'https://foursquare.com/v/53e458d6498e40c7e22ebe7f'
 gallery:
-  - url: https://fastly.4sqi.net/img/general/original/4444149_ySz7vti8r935e5vwztOg7EYC6pTXLI328b-AnrJbMjY.jpg
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/4444149_ySz7vti8r935e5vwztOg7EYC6pTXLI328b-AnrJbMjY.jpg
     credit: 'Photo: Foursquare user content (LiLo Coffee Roasters)'
     license: foursquare
-    source: https://foursquare.com/v/53e458d6498e40c7e22ebe7f
+    source: 'https://foursquare.com/v/53e458d6498e40c7e22ebe7f'
 place:
   id: ChIJ1T9unxrnAGARhtQGwQaaF-I
   name: LiLo Coffee Roasters
-  address: Japan, 〒542-0086 Osaka, Chuo Ward, Nishishinsaibashi, 1-chōme−10−２８ １階
+  address: 'Japan, 〒542-0086 Osaka, Chuo Ward, Nishishinsaibashi, 1-chōme−10−２８ １階'
   rating: 4.8
-  userRatingsTotal: 2438
-  priceLevel: 2
-  googleMapsUrl: https://maps.google.com/?cid=16291659530834990214&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 2510
+  priceLevel: 1
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16291659530834990214&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 34.6740723
   lng: 135.49803359999999
@@ -42,7 +48,7 @@ place:
       - 15
       - 16
     venueId: ven_492d466161517747517468524147416e72786e753954314a496843
-  phone: '+81 6-6227-8666'
+  phone: +81 6-6227-8666
   openingHours:
     - 'Monday: 11:00 AM – 11:00 PM'
     - 'Tuesday: 11:00 AM – 11:00 PM'
@@ -54,19 +60,40 @@ place:
 tags:
   - osaka
   - trendy cafe
-quickAnswer: LiLo Coffee Roasters is a small, highly-rated specialty coffee bar in Nishishinsaibashi, Chuo Ward — about a 5–8 minute walk from Shinsaibashi or Yotsubashi stations. Go for a single-origin pour-over or their signature latte, expect prices in the moderate range for specialty coffee in Japan (check the menu on-site), and plan on 20–40 minutes given it's a compact, standing/counter-friendly space with a devoted local following (4.8 rating from 2,400+ reviews).
+quickAnswer: >-
+  LiLo Coffee Roasters is a small, highly-rated specialty coffee bar in
+  Nishishinsaibashi, Chuo Ward — about a 5–8 minute walk from Shinsaibashi or
+  Yotsubashi stations. Go for a single-origin pour-over or their signature
+  latte, expect prices in the moderate range for specialty coffee in Japan
+  (check the menu on-site), and plan on 20–40 minutes given it's a compact,
+  standing/counter-friendly space with a devoted local following (4.8 rating
+  from 2,400+ reviews).
 faq:
   - q: How do I get to LiLo Coffee Roasters by train?
-    a: Walk from Shinsaibashi Station (Midosuji Line, about 7–8 minutes) or Yotsubashi Station (Yotsubashi Line, about 5–7 minutes). Both are in central Osaka's Minami district.
+    a: >-
+      Walk from Shinsaibashi Station (Midosuji Line, about 7–8 minutes) or
+      Yotsubashi Station (Yotsubashi Line, about 5–7 minutes). Both are in
+      central Osaka's Minami district.
   - q: How much does a coffee cost there?
-    a: Prices sit in the moderate range for specialty coffee in Japan, though the menu can shift with seasonal bean availability — worth confirming prices on-site.
+    a: >-
+      Prices sit in the moderate range for specialty coffee in Japan, though the
+      menu can shift with seasonal bean availability — worth confirming prices
+      on-site.
   - q: How long should I plan to spend at LiLo?
-    a: The space is small and cosy, so 20–40 minutes is typical for a sit-down coffee; grab-and-go visits can be quicker.
+    a: >-
+      The space is small and cosy, so 20–40 minutes is typical for a sit-down
+      coffee; grab-and-go visits can be quicker.
   - q: What's the best time to visit to avoid crowds?
-    a: Weekday late mornings (around 10:30–11:30am) tend to be calmer than weekend afternoons, when nearby Amerikamura and Shinsaibashi draw heavy foot traffic.
+    a: >-
+      Weekday late mornings (around 10:30–11:30am) tend to be calmer than
+      weekend afternoons, when nearby Amerikamura and Shinsaibashi draw heavy
+      foot traffic.
   - q: What else is nearby worth combining with a visit?
-    a: Amerikamura's shops are a short walk northwest, and the Shinsaibashi-suji arcade and Dotonbori canal area are about 10–15 minutes away on foot.
+    a: >-
+      Amerikamura's shops are a short walk northwest, and the Shinsaibashi-suji
+      arcade and Dotonbori canal area are about 10–15 minutes away on foot.
 aiGenerated: true
+updatedDate: '2026-10-16'
 ---
 ## Why go
 

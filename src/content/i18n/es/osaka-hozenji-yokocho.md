@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: osaka-hozenji-yokocho
-srcHash: '661a500b3f51'
-title: 'Hozenji Yokocho: guía de viaje de Osaka (4.3★)'
-description: A una breve manzana al sur del canal de Dotonbori y a unos diez minutos a pie de la estación de Namba se esconde Hozenji Yokocho, un estrecho callejón empedrado del barrio de Namba, en Osaka. Con 4.3★ (523 reseñas), repasamos las opiniones de los visitantes, los horarios y algunos consejos.
+srcHash: '8bbc6db95039'
+title: 'Hozenji Yokocho: guía de viaje de Osaka (4.4★)'
+description: A una breve manzana al sur del canal de Dotonbori y a unos diez minutos a pie de la estación de Namba se esconde Hozenji Yokocho, un estrecho callejón empedrado del barrio de Namba, en Osaka. Con 4.4★ (550 reseñas), repasamos las opiniones de los visitantes, los horarios y algunos consejos.
 quickAnswer: A una breve manzana al sur del canal de Dotonbori y a unos diez minutos a pie de la estación de Namba se esconde Hozenji Yokocho, un estrecho callejón empedrado del barrio de Namba, en Osaka. El gran reclamo es Mizukake Fudo, la estatua cubierta de musgo del templo Hozenji. Después de verla, conviene sentarse a comer en alguno de los pequeños restaurantes, cafés y tabernas que bordean la calle. El mejor momento para recorrerla es al anochecer, con los farolillos ya encendidos.
 faq:
   - q: ¿Dónde se encuentra exactamente Hozenji Yokocho?

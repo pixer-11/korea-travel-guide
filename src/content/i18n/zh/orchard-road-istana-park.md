@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: orchard-road-istana-park
-srcHash: 'c6ceb8b370db'
+srcHash: '965f4cf9a45b'
 title: 总统府公园：乌节路旅行指南（4.3★）
-description: 总统府公园（Istana Park）坐落在乌节路的最北端，正是槟榔路（Penang Road）与槟榔巷（Penang Lane）交汇进入商业街的地方，正对总统府大门。4.3★（647条评价）——游客怎么说、开放时间与实用贴士。
+description: 总统府公园（Istana Park）坐落在乌节路的最北端，正是槟榔路（Penang Road）与槟榔巷（Penang Lane）交汇进入商业街的地方，正对总统府大门。4.3★（650条评价）——游客怎么说、开放时间与实用贴士。
 quickAnswer: 总统府公园位于乌节路最北端，槟榔路与槟榔巷交汇进入商业街的位置，正对总统府大门。这里全天24小时开放，游人稀少，工作日早上7点到8点、周末早上7点到9点是最清静的时段。花上15到20分钟就够了：足以绕倒影池走一圈，看看节庆拱门（Festival Arch），再赶在商场开门前喝杯咖啡。
 faq:
   - q: 总统府公园具体在乌节路的哪个位置？

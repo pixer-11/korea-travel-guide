@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: orchard-road-istana-park
-srcHash: 'c6ceb8b370db'
+srcHash: '965f4cf9a45b'
 title: 'Istana Park: guía de viaje de Orchard Road (4,3★)'
-description: 'Istana Park se encuentra en el extremo superior de Orchard Road, justo donde Penang Road y Penang Lane se cruzan con la calle comercial, frente a las puertas principales del Istana. 4,3★ (647 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'Istana Park se encuentra en el extremo superior de Orchard Road, justo donde Penang Road y Penang Lane se cruzan con la calle comercial, frente a las puertas principales del Istana. 4,3★ (650 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'Istana Park se encuentra en el extremo superior de Orchard Road, justo donde Penang Road y Penang Lane se cruzan con la calle comercial, frente a las puertas principales del Istana. Permanece abierto las 24 horas y rara vez hay aglomeraciones; el tramo más tranquilo va de 7 a 8 de la mañana entre semana y de 7 a 9 de la mañana los fines de semana. Con 15 o 20 minutos basta: alcanza para recorrer el estanque reflectante, ver el Festival Arch y tomar un café antes de que abran los centros comerciales.'
 faq:
   - q: ¿Dónde está exactamente Istana Park dentro de Orchard Road?
