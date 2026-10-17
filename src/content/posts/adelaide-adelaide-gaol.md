@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/658123_m33jSAWyFadNxua4i7J9wUs2HTrWnyW-JDznp57TIWM.jpg"
+    credit: "Photo: Foursquare user content (Adelaide Gaol)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4cb156aa75ebb60c46aaccad"
 place:
   id: "ChIJQ-7nITHPsGoRvyom__Ts3NI"
   name: "Adelaide Gaol"

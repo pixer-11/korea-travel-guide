@@ -23,7 +23,11 @@ heroImage:
     'y': 14
     top: 8
     bottom: 20
-gallery: []
+gallery:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/b/b1/%EC%95%84%EB%9E%98_%EB%B9%9B%EB%82%98%EB%8A%94_%40LA_%28NCT_127%29_01.png"
+    credit: "Photo: dispatchsns / Wikimedia Commons (CC BY 3.0)"
+    license: "wikimedia"
+    source: "https://commons.wikimedia.org/wiki/File:%EC%95%84%EB%9E%98_%EB%B9%9B%EB%82%98%EB%8A%94_@LA_(NCT_127)_01.png"
 tags:
   - singapore
   - event

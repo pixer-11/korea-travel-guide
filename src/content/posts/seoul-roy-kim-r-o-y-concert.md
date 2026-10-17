@@ -21,7 +21,11 @@ heroImage:
   focus:
     x: 40
     'y': 50
-gallery: []
+gallery:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/KCON_JEJU_2015_Convention_stage%2C_Roy_Kim_2.jpg/3840px-KCON_JEJU_2015_Convention_stage%2C_Roy_Kim_2.jpg"
+    credit: "Photo: Bonnielou2013 / Wikimedia Commons (CC BY-SA 4.0)"
+    license: "wikimedia"
+    source: "https://commons.wikimedia.org/wiki/File:KCON_JEJU_2015_Convention_stage,_Roy_Kim_2.jpg"
 tags:
   - seoul
   - event

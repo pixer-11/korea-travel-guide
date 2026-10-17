@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 50
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/342586_UVKmnr2SxeR_IuLQzP6jGJSQYdizjoj33_nYPxI9Wqs.jpg"
+    credit: "Photo: Foursquare user content (Schlossgarten)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/50434f6ae4b065de8fceab50"
 place:
   id: "ChIJIfilMqnBl0cRZzqVEFNZ0v0"
   name: "Schlossgarten Heidelberg"

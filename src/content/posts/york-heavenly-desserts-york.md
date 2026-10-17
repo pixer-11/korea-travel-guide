@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 20
-gallery: []
+gallery:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Heavenly_Desserts_Blake_Street_York_Mar25_01.jpg/3840px-Heavenly_Desserts_Blake_Street_York_Mar25_01.jpg"
+    credit: "Photo: Malcolmxl5 / Wikimedia Commons (CC0)"
+    license: "wikimedia"
+    source: "https://commons.wikimedia.org/wiki/File:Heavenly_Desserts_Blake_Street_York_Mar25_01.jpg"
 place:
   id: "ChIJGXsHAlkxeUgRdcKcPaaGM6A"
   name: "Heavenly Desserts York"

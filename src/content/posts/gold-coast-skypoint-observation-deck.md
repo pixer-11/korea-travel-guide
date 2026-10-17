@@ -20,7 +20,11 @@ heroImage:
   focus:
     x: 50
     'y': 50
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/3707139_mOhNIRlA2-gd_t7OqUIGICuigQZiO6WuDmLvPApGFj4.jpg"
+    credit: "Photo: Foursquare user content (SkyPoint Observation Deck)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4bb3126314cfd13ae19f15ab"
 place:
   id: ChIJYT4muw0FkWsRBGpYOwLw370
   name: SkyPoint Observation Deck

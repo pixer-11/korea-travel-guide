@@ -24,7 +24,11 @@ heroImage:
   focus:
     x: 50
     'y': 45
-gallery: []
+gallery:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Seoul_Lantern_Festival_2014.jpg/3840px-Seoul_Lantern_Festival_2014.jpg"
+    credit: "Photo: travel oriented / Wikimedia Commons (CC BY-SA 2.0)"
+    license: "wikimedia"
+    source: "https://commons.wikimedia.org/wiki/File:Seoul_Lantern_Festival_2014.jpg"
 tags:
   - seoul
   - event

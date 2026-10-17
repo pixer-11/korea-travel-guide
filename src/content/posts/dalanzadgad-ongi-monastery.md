@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 35
     y: 55
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/38978732_g3MLDpyIgK-799VLtT_knkRv0mK1EGvE3Uzjthc9R4Q.jpg"
+    credit: "Photo: Foursquare user content (Monastère Ongi)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/6a8906dcf6fa0a220efe8b8f"
 place:
   id: "ChIJoxMujcX8hV0Rok3Sy4FqXDk"
   name: "Ongi Monastery"

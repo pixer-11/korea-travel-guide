@@ -26,7 +26,11 @@ heroImage:
   focus:
     x: 60
     'y': 50
-gallery: []
+gallery:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Hans_Zimmer%27s_Modular_Synthesizers%2C_Warped_Side_of_the_Universe_concert%2C_Dr_Phillips_Center_for_the_Performing_Arts%2C_Orlando%2C_Florida_%282016-04-09_19.35.28_by_Sam_Howzit%29.jpg/3840px-thumbnail.jpg"
+    credit: "Photo: Sam Howzit / Wikimedia Commons (CC BY 2.0)"
+    license: "wikimedia"
+    source: "https://commons.wikimedia.org/wiki/File:Hans_Zimmer%27s_Modular_Synthesizers,_Warped_Side_of_the_Universe_concert,_Dr_Phillips_Center_for_the_Performing_Arts,_Orlando,_Florida_(2016-04-09_19.35.28_by_Sam_Howzit).jpg"
 tags:
   - abu dhabi
   - event

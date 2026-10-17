@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 55
     y: 50
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/1371343721_J0V-5HNvLY_j7xfKP3YaW47tAG1H_u5fUr93bm2ExwU.jpg"
+    credit: "Photo: Foursquare user content (Rusty's Markets)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4cd4c89e89eb6dcbcbb0241e"
 place:
   id: "ChIJG4-g7JNmeGkRct6un9YS21U"
   name: "Rusty's Markets"

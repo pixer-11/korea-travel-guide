@@ -19,7 +19,11 @@ heroImage:
   focus:
     x: 50
     'y': 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/1664351_m93eqfOxFq07iDy4fTl4vsEQAwulqGTAsc8yVupOIi0.jpg"
+    credit: "Photo: Foursquare user content (National Museum of Scotland)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b090909f964a520fd1323e3"
 place:
   id: ChIJIeS60YTHh0gRw7W-8gMnzIg
   name: National Museum of Scotland

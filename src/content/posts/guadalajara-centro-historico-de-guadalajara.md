@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/13432088_Qrovif2isNxoyRDlU2wiwX8W3ZJrH8BisBBYWdlTuKk.jpg"
+    credit: "Photo: Foursquare user content (Centro Histórico)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4e17522a1f6eb955986eeea7"
 place:
   id: "ChIJufJHQeaxKIQRJq08pIi08h0"
   name: "Centro Histórico de Guadalajara"

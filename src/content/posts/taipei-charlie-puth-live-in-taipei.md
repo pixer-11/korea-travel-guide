@@ -23,7 +23,11 @@ heroImage:
     'y': 23
     top: 17
     bottom: 28
-gallery: []
+gallery:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Charlie_Puth%2C_Regency_Ballroom%2C_San_Francisco_%28Nine_Track_Mind_Tour%29_3.jpg/3840px-Charlie_Puth%2C_Regency_Ballroom%2C_San_Francisco_%28Nine_Track_Mind_Tour%29_3.jpg"
+    credit: "Photo: Jeff Terrell / Wikimedia Commons (CC BY 2.0)"
+    license: "wikimedia"
+    source: "https://commons.wikimedia.org/wiki/File:Charlie_Puth,_Regency_Ballroom,_San_Francisco_(Nine_Track_Mind_Tour)_3.jpg"
 tags:
   - taipei
   - event

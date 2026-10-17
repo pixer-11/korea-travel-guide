@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 30
     y: 55
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/10006298_iEUGapAPkKCd7xGQfJ_oygZ5LDqWz4trMo_yR2QMb_g.jpg"
+    credit: "Photo: Foursquare user content (Teshima Yokoo House (豊島横尾館))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/514fda37e4b06eb4c02ed7ed"
 place:
   id: "ChIJJ2CLznjzUzURbRXEiaNyGxY"
   name: "Teshima Yokoo House"

@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 70
     y: 68
-gallery: []
+gallery:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Teshima_Art_Museum_06.jpg/3840px-Teshima_Art_Museum_06.jpg"
+    credit: "Photo: Kentaro Ohno / Wikimedia Commons (CC BY 2.0)"
+    license: "wikimedia"
+    source: "https://commons.wikimedia.org/wiki/File:Teshima_Art_Museum_06.jpg"
 place:
   id: "ChIJ3QaO37P0UzURVNzwCk7YH_Q"
   name: "Teshima Art Museum"

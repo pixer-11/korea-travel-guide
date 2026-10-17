@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 65
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/9554904_qSaH_Ze_tfWaQgKJARsa0WBX_wbd-vvjMkAVcHw5UCQ.jpg"
+    credit: "Photo: Foursquare user content (Red Waterfall)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/57b7b15b498e007ab82d7bef"
 place:
   id: "ChIJ4d1wwvDKgl0RzOb6-rdz1vg"
   name: "Orkhon Waterfall"
