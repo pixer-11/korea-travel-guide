@@ -1,10 +1,10 @@
 Places 예산: backfill 몫 25회 (오늘 사용 10/100)
 Priority: 251 itinerary stop(s) queued first
-  – edinburgh-one-o-clock-gun.md: nothing new (resting 60d)
-  – fussen-fussen-altstadt.md: nothing new (resting 60d)
   – nashville-grand-ole-opry.md: nothing new (resting 60d)
-  – valencia-el-micalet.md: nothing new (resting 60d)
-  – kharkhorin-shankh-monastery.md: nothing new (resting 60d)
-  – ulaanbaatar-turtle-rock.md: nothing new (resting 60d)
+  – osaka-hozenji-yokocho.md: nothing new (resting 60d)
+  – segovia-murallas-de-segovia.md: nothing new (resting 60d)
+  – fremantle-wa-maritime-museum.md: nothing new (resting 60d)
+  – nuremberg-kongresshalle.md: nothing new (resting 60d)
+  – osaka-nakanoshima-museum-of-art-osaka-nakka.md: nothing new (resting 60d)
 
-BACKFILL RESULT: updated 0, backlog-updated 0, already-complete 1442, no-new-data 671, no-place 874, closed-quarantined 0, quota-429 0, api-error 0, api-calls 6, remaining-askable 0 (APPLIED).
+BACKFILL RESULT: updated 0, backlog-updated 0, already-complete 1449, no-new-data 674, no-place 874, closed-quarantined 0, quota-429 0, api-error 0, api-calls 6, remaining-askable 0 (APPLIED).
