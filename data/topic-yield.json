@@ -78,11 +78,11 @@
    "hits": 0
   },
   "vegetarian": {
-   "attempts": 50,
+   "attempts": 58,
    "hits": 2
   },
   "concept cafe": {
-   "attempts": 37,
+   "attempts": 44,
    "hits": 0
   },
   "top attraction": {
@@ -90,7 +90,7 @@
    "hits": 69
   },
   "grill": {
-   "attempts": 41,
+   "attempts": 55,
    "hits": 0
   },
   "design shop": {
@@ -530,5 +530,5 @@
    "hits": 1
   }
  },
- "updated": "2026-10-17T07:46:11.092Z"
+ "updated": "2026-10-17T11:45:43.106Z"
 }
