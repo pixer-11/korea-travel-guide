@@ -79,7 +79,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-10-08'
 ---
-
 ## A long grey wall on a quiet lane
 
 Start at Lilau Square. Travessa de António da Silva leads off it, narrow and gently sloping, and the grey-brick wall of Mandarin's House runs along one side for longer than a private home has any right to. The entrance is set back from the lane rather than opening straight onto it. That is your first clue to how the whole place works.
@@ -107,7 +106,7 @@ Then look for what does not belong in a "pure" Guangdong house. Mixed in with th
 - **A moon gate**, the round doorway framing the view between courtyards
 - **Grey brick and dark timber** throughout, the standard Lingnan palette
 
-The layout follows the Chinese rule of a series of courtyards and halls. The finishes show a port city where Portuguese, Indian and Chinese builders shared tools and ideas. The government restoration took around eight years, and the house reopened to the public in 2010.
+The layout follows the Chinese rule of a series of courtyards and halls. The finishes show a port city where Portuguese, Indian and Chinese builders shared tools and ideas. The house fell into disrepair over the twentieth century before undergoing government restoration and reopening to the public.
 
 ## Wednesdays and the 6pm cut-off
 

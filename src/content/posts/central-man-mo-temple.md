@@ -70,7 +70,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-30'
 ---
-
 ## Why go
 
 You smell Man Mo Temple before you see it. Sandalwood smoke drifts out onto Hollywood Road, thick enough to catch in your throat on a still morning.
@@ -104,7 +103,7 @@ Either route works well if you're already exploring the antique and art gallerie
 
 The temple keeps the same hours every day of the week: 8am to 6pm.
 
-Crowds are heaviest on weekends between 11am and 4pm, when tour groups tend to funnel through alongside independent travelers. If you're visiting on a Saturday or Sunday, aim for the 8–9am window right at opening instead.
+Crowds are heaviest on weekends between 11am and 4pm, when tour groups tend to funnel through alongside independent travelers. If you're visiting on a Saturday or Sunday, aim to arrive right at opening, around 8am, instead.
 
 On weekdays, the flow stays manageable across the whole day, so there's no real need to rush there at dawn if you're coming Monday through Friday.
 

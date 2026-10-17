@@ -133,6 +133,6 @@ Fenqihu is unmistakably a tourist stop now, it's one of the most visited points 
 - Pay cash for most street stalls; card acceptance is inconsistent among smaller vendors
 - Skip the 11am–4pm weekend window entirely if you can. That's when tour buses unload
 - Buy your return train ticket in advance during peak season, since seats on the Forest Railway sell out
-- The tourist mistake to avoid: treating it as a fifteen-minute photo stop. Locals and rail workers historically lingered here over a full meal, slow down and do the same
+- The tourist mistake to avoid: treating it as a fifteen-minute photo stop. Rail workers once lingered here over a full meal; slow down and do the same
 
 Give yourself the better part of two hours, and don't rush the lunchbox. It's meant to be eaten slowly, the way it was designed for railway crews with time to kill between trains.

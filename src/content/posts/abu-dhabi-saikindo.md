@@ -30,7 +30,6 @@ heroImage:
     x: 65
     'y': 55
 ---
-
 ## A record bar on the business island
 
 Abu Dhabi's newest late-night room is all about sound. Saikindō sits inside the Four Seasons Hotel Abu Dhabi, on Al Maryah Island, the financial district across a short channel from the main island. By day this is a place of glass towers and lanyards. After dark, Saikindō turns part of the hotel into a listening bar.
@@ -79,4 +78,4 @@ Do not drive after drinking. The UAE has a zero-tolerance limit for drink-drivin
 
 Saikindō is aimed at people who care about the details of an evening. Music lovers will want to see how the room is tuned. Couples will appreciate a small dining space and a bar where you can hear each other. Business travellers staying on Al Maryah Island get a destination without leaving the building.
 
-Come later in the evening, when the island quiets down and the bar is doing what it was built to do. Allow two to three hours for dinner and drinks. If you are only stopping in, a single drink and one full side of a record takes about an hour.
+Come later in the evening, when the island quiets down and the bar is doing what it was built to do. Allow two to three hours for dinner and drinks. If you are only stopping in, a single drink is enough to get a feel for the room.

@@ -55,10 +55,9 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 Most visitors to Cannes never make it up here, and that's the point. Croix des Gardes is a 90-hectare hill of umbrella pines and cork oaks rising behind the Californie district, a few minutes' drive from La Croisette but a different world entirely: dirt paths, birdsong, and views that stretch from the Lérins Islands to the Estérel's red rock ridges.
 
-The hill takes its name from a stone cross planted at its 164-metre summit, a marker that has stood watch over the bay since medieval times when guards used it to spot approaching ships. That cross is still the destination most walkers aim for, and the payoff at the top is a genuinely wide panorama, not a glimpse between buildings.
+The hill takes its name from a stone cross planted at its summit, a marker that has stood watch over the bay since medieval times when guards used it to spot approaching ships. That cross is still the destination most walkers aim for, and the payoff at the top is a genuinely wide panorama, not a glimpse between buildings.
 
 ## Finding the entrance on Avenue de la Croix des Gardes
 

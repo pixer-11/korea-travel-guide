@@ -58,7 +58,7 @@ Traffic on this road backs up badly in the late afternoon and early evening as b
 
 ## Booking a table
 
-Given how much foot traffic this part of Pererenan sees, and how central sharing plates like the tenderloin are to the concept, reserving ahead is the safer move rather than a formality. A table booked for a specific time also means your shared dishes can be timed properly instead of arriving in a rush.
+Given how much foot traffic this part of Pererenan sees, and how central sharing plates are to the concept, reserving ahead is the safer move rather than a formality. A table booked for a specific time also means your shared dishes can be timed properly instead of arriving in a rush.
 
 Contact details and current reservation channels change, so check Cocomo's own listing or a recent booking platform for the live phone number or online form before you go. Confirm opening hours the same way, since venues on this strip sometimes shift their schedule seasonally.
 

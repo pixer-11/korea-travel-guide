@@ -52,7 +52,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A white hull at the harbour mouth
 
 The museum stands right on the water. A pale, angular building sits at the southern tip of the Macau peninsula, where the Inner Harbour opens out. Its stepped roofline is often compared to the sails of a ship. Across the cobbled square, incense drifts from A-Ma Temple, the shrine that gave Macau its name.
@@ -65,7 +64,7 @@ The address is 1 Largo do Pagode da Barra, in the Barra district at the southern
 
 ## Three floors of junks, nets and navigators
 
-The galleries rise floor by floor, and each one has its own theme. Here is roughly what you will find going up:
+The galleries rise floor by floor, and each one has its own theme:
 
 - **Ground floor:** the fishing life of the South China coast. Expect dioramas of boat-dwelling families, fishing gear and the festivals tied to the sea.
 - **Upper galleries:** the age of maritime trade and exploration, both Portuguese and Chinese, and Macau's place on those routes.

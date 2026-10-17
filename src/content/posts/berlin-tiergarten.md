@@ -76,7 +76,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A forest with a traffic circle in the middle
 
 Tiergarten does not feel like a city park. It feels like woodland that the city grew around. Straße des 17. Juni cuts straight through it, a wide boulevard running from the Brandenburg Gate in the east to Ernst-Reuter-Platz in the west.
@@ -143,4 +142,4 @@ Tiergarten is open 24 hours, every day. Even so, the clock matters more than you
 
 On weekends it's calmest from 7am–9am. At that hour you mostly share the paths with joggers and dog walkers, and the light falls low across the canals. Try to avoid arriving between 10am and 8pm on a weekend. That's when families, picnic groups and tourists walking from the Brandenburg Gate fill the main routes and the lakeside seats.
 
-Allow at least two hours for the Victory Column and a lakeside loop. Make it half a day if you add the memorials, a beer garden and the gas lamps. After dark the park is large and poorly lit away from the boulevard, so stick to the main paths if you cross it at night.
+Allow time for the Victory Column and a lakeside loop. Make it half a day if you add the memorials, a beer garden and the gas lamps. After dark the park is large and poorly lit away from the boulevard, so stick to the main paths if you cross it at night.

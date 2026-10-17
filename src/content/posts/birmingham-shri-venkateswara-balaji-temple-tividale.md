@@ -94,7 +94,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-10-10'
 ---
-
 ## A Tirupati temple in the Black Country
 
 The gopuram rises above Dudley Road East like nothing else on the street. This is a South Indian temple dedicated to Lord Venkateswara (Balaji), the deity of the great Tirumala temple in Andhra Pradesh. It sits between Oldbury and Dudley, among semis and industrial units.
@@ -120,7 +119,7 @@ The routine is the same as at most Hindu temples, and following it matters here.
 - **Sanctum:** stay behind the barrier and don't photograph the deities unless a sign or volunteer says it is allowed.
 - **Prasad:** if you are offered blessed food, accept it with your right hand.
 
-The guided tours are pre-booked, and they are the best way to learn what each shrine means. Arrange one through the temple before you travel rather than turning up and asking. On festival days the halls fill quickly. Visitors who aren't Hindu are welcome, but they should stay at the edges during ceremonies.
+Guided tours may be available, and they are the best way to learn what each shrine means. Arrange one through the temple before you travel rather than turning up and asking. On festival days the halls fill quickly. Visitors who aren't Hindu are welcome, but they should stay at the edges during ceremonies.
 
 ## Reaching Tividale and what's nearby
 

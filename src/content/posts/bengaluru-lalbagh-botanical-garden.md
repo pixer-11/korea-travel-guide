@@ -93,18 +93,17 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-29'
 ---
-
 ## Why go
 
-Lalbagh isn't just a park. It's Bengaluru's green lung and a 250-year-old living museum of trees. Founded in the 1760s under Hyder Ali and expanded by his son Tipu Sultan, it now sprawls across 240 acres in the heart of Mavalli.
+Lalbagh isn't just a park. It's Bengaluru's green lung and a 250-year-old living museum of trees. Founded in the 1760s under Hyder Ali and expanded by his son Tipu Sultan, it now sprawls across 240 acres in Mavalli.
 
 You come here for the scale of old trees you won't find elsewhere in the city: rain trees with canopies wide enough to blot out the sky, avenues of mahogany, and a rock outcrop older than most geological time you can name.
 
 ## What to see
 
-The centerpiece is the Glass House, a domed iron-and-glass pavilion built in 1889 and modeled on London's Crystal Palace. It hosts flower shows twice a year, in January and August, when the beds around it explode with color.
+The centerpiece is the Glass House, a domed iron-and-glass pavilion built in 1889 and modeled on London's Crystal Palace. It hosts flower shows that fill the beds around it with color.
 
-Walk the paths toward the center of the park and you hit the Peninsular Gneiss, a bare grey boulder estimated at roughly 3,000 million years old, one of the oldest rock formations on Earth. It's an odd, humbling thing to stumble on mid-stroll.
+Walk the paths toward the center of the park and you hit the Peninsular Gneiss, a bare grey boulder, one of the oldest rock formations on Earth. It's an odd, humbling thing to stumble on mid-stroll.
 
 Other things worth building into a loop:
 
@@ -123,7 +122,7 @@ By metro, Lalbagh Station on the Green Line drops you within a short walk of the
 
 ## When to go
 
-The garden opens at 5am and closes at 7pm every day of the week, and mornings are when Bengaluru's walkers and joggers claim the paths. Foot traffic is lightest on weekdays between 7am and 11am. The air is cooler, the light is better for photos, and the paths near the Glass House are nearly empty.
+The garden opens at 5am and closes at 7pm every day of the week, and mornings are when Bengaluru's walkers and joggers claim the paths. Foot traffic is lighter on weekdays than on weekends. The air is cooler, the light is better for photos, and the paths near the Glass House are nearly empty.
 
 Weekends flip that entirely. Crowds build steadily and peak from 1pm to 7pm, when families and groups pour in and the main lawns fill up. If you're set on a weekend visit, get there before noon.
 

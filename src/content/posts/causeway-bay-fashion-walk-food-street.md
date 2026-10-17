@@ -68,7 +68,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-30'
 ---
-
 You smell it before you see it. Grilled skewers, fried garlic, the sugary drift of a bubble-waffle stand, Fashion Walk Food Street announces itself down a side lane of Causeway Bay's Fashion Walk precinct, a stretch of open-fronted restaurants and quick-eat counters wedged between clothing boutiques.
 
 It's not a single restaurant but a strip: a run of independently run kitchens sharing outdoor-facing seating and a shared, unhurried rhythm. Neon signage overhead, plastic stools spilling onto the pavement, staff calling orders through open kitchens, it feels closer to a night-market lane than a mall food court.
@@ -81,7 +80,7 @@ The draw is variety packed into a short walk (Cantonese comfort food, Japanese g
 
 ## Getting there
 
-Fashion Walk sits in the heart of Causeway Bay, a few minutes' walk from Causeway Bay MTR Station (Island Line), exit F1 or F2 puts you closest to the shopping strip. From there, follow the signs toward Kingston Street and Cleveland Street, where the Fashion Walk cluster of shops and eateries fans out.
+Fashion Walk sits a few minutes' walk from Causeway Bay MTR Station (Island Line); exit F1 or F2 puts you closest to the shopping strip. From there, follow the signs toward Kingston Street and Cleveland Street, where the Fashion Walk cluster of shops and eateries fans out.
 
 If you're coming from Times Square or Sogo, it's a flat 8–10 minute walk east through Causeway Bay's grid of shopping streets.
 
@@ -120,4 +119,3 @@ Treat it as a grazing circuit, not a sit-down restaurant. Walk the length of the
 Because this stretch stays under the radar compared to Causeway Bay's bigger malls, you'll generally find it calmer even on a decent evening, just steer clear of Saturday and Sunday lunch if you want it at its quietest.
 
 Pair it with a wander through Fashion Walk's boutiques beforehand, or a walk over to Victoria Park afterward. Both are a few minutes on foot, and neither requires planning around this street's hours.
-

@@ -97,7 +97,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-10-05'
 ---
-
 ## A green dome over the Lustgarten
 
 Start out on the lawn. From the Lustgarten, the cathedral covers the whole eastern edge of the square. It is a heavy neo-Renaissance pile of grey stone under a ribbed dome of oxidised green copper. To your left is the colonnade of the Altes Museum. Behind you stands the rebuilt palace front of the Humboldt Forum.
@@ -108,7 +107,7 @@ It is still a working Protestant church. It is also one of the most-reviewed sig
 
 ## Reaching Museum Island
 
-The easiest way in is the U5. Get off at **Museumsinsel**, which opened in 2021 with a deep blue, star-studded ceiling. You come up a few minutes' walk from the cathedral steps.
+The easiest way in is the U5. Get off at **Museumsinsel**. You come up a few minutes' walk from the cathedral steps.
 
 Other options:
 

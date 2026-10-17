@@ -55,7 +55,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 Yonghegong, known in English as the Lama Temple, is the largest and most complete Tibetan Buddhist monastery outside Tibet proper still functioning inside a major Chinese city. It began in 1694 as a residence for court officials, later became the boyhood home of the Yongzheng Emperor, and was converted to a lamasery in 1744. That imperial pedigree explains the yellow-glazed roof tiles, normally reserved for the palace, and the scale of the halls that follow one after another down a long north-south axis.
 
 You enter from the south through a sequence of gates and courtyards that get progressively grander, a deliberate architectural build-up mirroring the Forbidden City's own layout a couple of kilometers south. Incense smoke drifts across the courtyards from large bronze burners where visitors light bundles of sticks before each hall. The smell of sandalwood and the murmur of chanting from resident monks give the place a working-temple atmosphere rather than a museum one.
@@ -68,7 +67,7 @@ The complex is organized as a straight line of five main halls, each larger than
 - **Hall of Harmony and Peace** – the main hall, with three bronze Buddha statues representing past, present and future
 - **Hall of Everlasting Protection** – smaller, once the private quarters of the Yongzheng Emperor
 - **Hall of the Wheel of the Law** – home to a large bronze statue of Tsongkhapa, founder of the Gelug school
-- **Pavilion of Ten Thousand Happinesses** – the finale, housing an 18-meter sandalwood Maitreya Buddha carved from a single tree trunk
+- **Pavilion of Ten Thousand Happinesses** – the finale, housing a towering sandalwood Maitreya Buddha
 
 That last statue is listed in Guinness World Records for the largest single-piece sandalwood carving anywhere, and the pavilion's roof was actually built up around it after the wood arrived from Tibet, since it was too tall to fit through the door.
 
@@ -80,7 +79,7 @@ Photography rules are stricter in this hall than elsewhere in the complex, so ch
 
 ## When to go
 
-Lama Temple opens daily from 9am to 5pm, with last entry typically around 4:30pm. Arriving right at 9am is the surest way to walk the courtyards with some breathing room before tour groups arrive later in the morning. The complex is popular enough that midday, especially on weekends and around Chinese New Year, gets genuinely crowded around the main incense-burning stations.
+Lama Temple opens daily from 9am to 5pm. Arriving right at 9am is the surest way to walk the courtyards with some breathing room before tour groups arrive later in the morning. The complex is popular enough that midday, especially on weekends and around Chinese New Year, gets genuinely crowded around the main incense-burning stations.
 
 Late afternoon, after about 3:30pm, is the other quiet stretch, though you'll want to move briskly to see all five halls before closing. Weekday mornings outside major holidays remain a reasonably calm option even at a well-known site like this one.
 

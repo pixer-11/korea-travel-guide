@@ -63,7 +63,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 Most visitors arrive at Murugan Hill Temple by accident, on their way to or from Bukit Timah Nature Reserve, and end up staying twenty minutes longer than planned. The temple sits low against a slope on Upper Bukit Timah Road, its gopuram (the tiered gateway tower crowded with painted deity figures) visible from the road well before the entrance itself.
 
 ## Finding it on Upper Bukit Timah Road
@@ -104,7 +103,7 @@ Like any active Hindu temple, Murugan Hill Temple expects a few basic courtesies
 - Remove your shoes before stepping onto the temple floor; racks near the entrance are for leaving them.
 - Dress modestly: shoulders and knees covered is the safe default.
 - Photography is generally fine in the outer courtyard, but ask before photographing the inner sanctum or people in prayer.
-- Offerings of flowers, fruit, or coconuts are sold by vendors near temples like this if you want to make one; it's not required.
+- If you'd like to make an offering, flowers, fruit, or coconuts are traditional choices; it's not required.
 - Keep voices low near the sanctum, particularly during active prayer sessions in the morning and evening windows.
 
 There's no entry fee, though a small donation box is usually near the entrance if you'd like to contribute.

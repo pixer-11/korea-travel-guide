@@ -132,7 +132,7 @@ If you're traveling with children, this is the moment to slow down: it's low-eff
 
 The Public Garden is one of the most visited green spaces in Boston, and its foot traffic follows a predictable rhythm. Weekends get heaviest between 11am and 8pm, when the lagoon paths, the swan boat dock and the duckling statue all back up with visitors at once.
 
-Weekdays are calmer throughout, and the quietest stretch of all is late at night, between 10pm and 11pm, though the park's charm at that hour is more about empty benches than active sightseeing since the swan boats and most amenities are long closed by then. For a livelier but still manageable visit, weekend mornings before 11am are your best window; the park stays comparatively open from 7am onward on Saturdays and Sundays before the midday surge.
+Weekdays are calmer throughout, and the quietest stretch of all is late at night, between 10pm and 11pm, though the park's charm at that hour is more about empty benches than active sightseeing since the swan boats and most amenities are long closed by then. For a livelier but still manageable visit, weekend mornings before 11am are your best window, before the midday surge of visitors arrives.
 
 If your priority is photos without strangers in the background, arrive right at opening on a weekday. If you want the swan boats and don't mind company, a weekday afternoon splits the difference nicely.
 

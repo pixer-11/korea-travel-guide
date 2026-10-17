@@ -51,6 +51,17 @@
      "Measured foot-traffic shows the calmest stretch on weekdays is 10pm to 11pm, right near closing. On weekends, the quieter window falls in the first hour after opening, before the afternoon crowds arrive. If you're weekend-only, that early slot is your best bet for space to yourself.",
      "- **Time it right**: aim for the weekend 10–11am window, or slip in near closing on a weekday, to skip the peak evening rush\n- **Bring your own gear**: the BBQ areas are self-service. Pack charcoal, skewers, and food\n- **Cash and small notes help**: informal vendors and parking attendants often prefer cash over card\n- **Dress for shade-hopping**: the paths are landscaped but exposed in parts, so a hat matters more than you'd think between April and October\n- **Skip the car if you can carpool**: weekend evening parking is the single biggest bottleneck, especially Thursday to Saturday nights\n- **Don't rush the museum**: it's small enough that groups tend to breeze through it, but the pearl-diving exhibits reward a slower pace"
     ]
+   },
+   {
+    "from": "ad3d41299134",
+    "to": "bbbf20d2e46b",
+    "at": "2026-10-17T20:56:29.531Z",
+    "removed": [
+     "Measured foot-traffic shows the calmest stretch on weekdays is 10pm to 11pm, right near closing. On weekends, the quieter window falls in the first hour after opening, before the afternoon crowds arrive. If you're weekend-only, that early slot is your best bet for space to yourself."
+    ],
+    "added": [
+     "Measured foot-traffic shows the calmest stretch on weekdays is 10pm to 11pm, right near closing. On weekends, the quieter window falls in the first hour after opening, before the evening crowds arrive. If you're weekend-only, that early slot is your best bet for space to yourself."
+    ]
    }
   ]
  },
@@ -70,6 +81,19 @@
      "[QUICK ANSWER] Lewis Capaldi and Zara Larsson (Abu Dhabi GP after-race concert) takes place on December 3, 2026 at Etihad Park on Yas Island, Abu Dhabi, with each artist playing a separate set. The night opens the Abu Dhabi Grand Prix 2026 after-race concert series. Concert access is sold through the Grand Prix ticketing run by Yas Marina Circuit.",
      "[FAQ 1] Q: When and where did Lewis Capaldi and Zara Larsson play in Abu Dhabi? A: They play on December 3, 2026 at Etihad Park on Yas Island, next to Yas Marina Circuit. Each artist plays a separate set, and the night opens the Abu Dhabi Grand Prix 2026 after-race concert series."
     ]
+   },
+   {
+    "from": "b80631aca44e",
+    "to": "16d987e2dcc3",
+    "at": "2026-10-17T20:56:47.496Z",
+    "removed": [
+     "- \"Someone You Loved\"\n- \"Survive\", the single that marked his return after a long break from touring",
+     "Etihad Park is Yas Island's open-air concert ground, known as du Arena until it was renamed in 2019. It is a large outdoor space next to Yas Marina Circuit. That location is why it hosts the Grand Prix concerts every year. The circuit's floodlights and the W Abu Dhabi Yas Island hotel, built over the track, are visible from the surrounding roads."
+    ],
+    "added": [
+     "- \"Someone You Loved\"\n- \"Survive\"",
+     "Etihad Park is Yas Island's open-air concert ground, known as du Arena until it was renamed in 2019. It is a large outdoor space next to Yas Marina Circuit. That location is why it hosts the Grand Prix concerts every year. The circuit's floodlights and the W Abu Dhabi – Yas Island hotel, built over the track, are visible from the surrounding roads."
+    ]
    }
   ]
  },
@@ -84,6 +108,51 @@
     ],
     "added": [
      "Weekends get busy fast, with crowds building steadily from open until around 7pm. If you want the galleries to yourself, arrive right as the doors open on a Saturday or Sunday."
+    ]
+   },
+   {
+    "from": "b030f50e86e0",
+    "to": "70800fe0d100",
+    "at": "2026-10-17T20:56:58.949Z",
+    "removed": [
+     "Weekends get busy fast, with crowds building steadily from open until around 7pm. If you want the galleries to yourself, arrive right as the doors open on a Saturday or Sunday."
+    ],
+    "added": [
+     "Weekends get busy fast, with crowds building from the moment the doors open. If you want the galleries to yourself, arrive right as the doors open on a Saturday or Sunday."
+    ]
+   }
+  ]
+ },
+ "abu-dhabi-middle-east-film-comic-con-mefcc-2026": {
+  "steps": [
+   {
+    "from": "a5208ecdd1a4",
+    "to": "21d1df2e4d3d",
+    "at": "2026-10-17T20:57:18.024Z",
+    "removed": [
+     "Hall assignments and daily opening hours came from the organizers, who set them for the weekend rather than leaving them to third parties.",
+     "MEFCC announced the specific guest list, panel schedule and ticket pricing tiers for the weekend. Guest rosters shift edition to edition, so last year's names are no guide to this one.",
+     "Regulars treat MEFCC like a marathon, not a sprint. Tickets were sold online in advance through the official site; weekend days move briskly, and door queues are always slower than online checkout."
+    ],
+    "added": [
+     "Hall assignments and daily opening hours are typically set by the organizers closer to the event.",
+     "MEFCC typically announces the guest list, panel schedule and ticket pricing tiers closer to the event. Guest rosters shift edition to edition, so last year's names are no guide to this one.",
+     "Regulars treat MEFCC like a marathon, not a sprint. Tickets are typically sold online in advance through the official site; weekend days move briskly, and door queues are always slower than online checkout."
+    ]
+   }
+  ]
+ },
+ "abu-dhabi-saikindo": {
+  "steps": [
+   {
+    "from": "b344b1a1effd",
+    "to": "ddcd46f3e305",
+    "at": "2026-10-17T20:57:28.759Z",
+    "removed": [
+     "Come later in the evening, when the island quiets down and the bar is doing what it was built to do. Allow two to three hours for dinner and drinks. If you are only stopping in, a single drink and one full side of a record takes about an hour."
+    ],
+    "added": [
+     "Come later in the evening, when the island quiets down and the bar is doing what it was built to do. Allow two to three hours for dinner and drinks. If you are only stopping in, a single drink is enough to get a feel for the room."
     ]
    }
   ]
@@ -160,6 +229,32 @@
     "added": [
      "The train slows before you see the town, a long curve through cedar forest, then a wooden platform appears out of the mist. Fenqihu sits at roughly 1,400 meters, an old logging-relay station turned market street, and it still smells faintly of woodsmoke and warm rice."
     ]
+   },
+   {
+    "from": "3ed6700453c7",
+    "to": "66c128a5893c",
+    "at": "2026-10-17T20:57:38.869Z",
+    "removed": [
+     "- Eat your lunchbox where you buy it, or take it onto the platform benches, nobody rushes you, but the good spots fill up midday\n- Order by pointing at the tin or photo menu; vendors are used to non-Mandarin speakers and it moves the line faster\n- Pay cash for most street stalls; card acceptance is inconsistent among smaller vendors\n- Skip the 11am–4pm weekend window entirely if you can. That's when tour buses unload\n- Buy your return train ticket in advance during peak season, since seats on the Forest Railway sell out\n- The tourist mistake to avoid: treating it as a fifteen-minute photo stop. Locals and rail workers historically lingered here over a full meal, slow down and do the same"
+    ],
+    "added": [
+     "- Eat your lunchbox where you buy it, or take it onto the platform benches, nobody rushes you, but the good spots fill up midday\n- Order by pointing at the tin or photo menu; vendors are used to non-Mandarin speakers and it moves the line faster\n- Pay cash for most street stalls; card acceptance is inconsistent among smaller vendors\n- Skip the 11am–4pm weekend window entirely if you can. That's when tour buses unload\n- Buy your return train ticket in advance during peak season, since seats on the Forest Railway sell out\n- The tourist mistake to avoid: treating it as a fifteen-minute photo stop. Rail workers once lingered here over a full meal; slow down and do the same"
+    ]
+   }
+  ]
+ },
+ "amritsar-ramgarhia-bunga": {
+  "steps": [
+   {
+    "from": "4ee554e9dfc3",
+    "to": "db2f61e1a081",
+    "at": "2026-10-17T20:57:46.799Z",
+    "removed": [
+     "The towers stand near Guru Ka Langar in Katra Ahluwalia, on the northern edge of the Golden Temple complex, inside Amritsar Cantt. From the temple's clock tower entrance, walk out past the langar hall and ask for Ramgarhia Bunga; locals in the lane know it even though it carries no big signage. It's a five to seven minute walk from the langar hall, under twenty minutes from the main sanctum if you're coming straight off the parikrama."
+    ],
+    "added": [
+     "The towers stand near Guru Ka Langar in Katra Ahluwalia, on the northern edge of the Golden Temple complex, inside Amritsar Cantt. From the temple's clock tower entrance, walk out past the langar hall and ask for Ramgarhia Bunga; locals in the lane know it even though it carries no big signage. It's a short walk from the langar hall, well within reach if you're coming straight off the parikrama."
+    ]
    }
   ]
  },
@@ -199,6 +294,21 @@
    }
   ]
  },
+ "austin-f1-united-states-grand-prix": {
+  "steps": [
+   {
+    "from": "fb1ec2d9e16e",
+    "to": "9ee30b3f642d",
+    "at": "2026-10-17T20:58:00.650Z",
+    "removed": [
+     "Austin turns the race into a city-wide party. Downtown, Sixth Street and Rainey Street fill with fans in team colours every evening. South Congress Avenue is the place for Texas boots and a view of the Capitol. For a quieter hour, Lady Bird Lake has a shaded trail loop. The Congress Avenue Bridge bat colony flies out at dusk while the bats are still in town each autumn."
+    ],
+    "added": [
+     "Austin turns the race into a city-wide party. Downtown, Sixth Street and Rainey Street fill with fans in team colours every evening. South Congress Avenue is the place for Texas boots and a view of the Capitol. For a quieter hour, Lady Bird Lake has a shaded trail loop. The Congress Avenue Bridge bat colony flies out at dusk, and in October the bats are still around to see before they head south for winter."
+    ]
+   }
+  ]
+ },
  "avignon-jardin-des-doms": {
   "steps": [
    {
@@ -210,6 +320,51 @@
     ],
     "added": [
      "The garden opens at 7:30am and stays open until 10pm every day, which makes early morning and evening the two best windows. Weekends are busier throughout the day, with the stretch from noon to 8pm drawing the heaviest crowds, especially in summer."
+    ]
+   }
+  ]
+ },
+ "avignon-musee-calvet": {
+  "steps": [
+   {
+    "from": "af87c74b8ed6",
+    "to": "c73bbe31dd0a",
+    "at": "2026-10-17T20:58:11.758Z",
+    "removed": [
+     "Ticketing is straightforward: buy at the desk just inside the entrance, no advance booking required for ordinary visits. Check current admission prices before you go, since these do shift year to year, but expect a modest fee well below what the Palais des Papes charges."
+    ],
+    "added": [
+     "Ticketing is straightforward: buy at the desk just inside the entrance, no advance booking required for ordinary visits. Check current admission prices before you go, since these do shift year to year."
+    ]
+   }
+  ]
+ },
+ "avignon-place-du-palais": {
+  "steps": [
+   {
+    "from": "def17664020e",
+    "to": "7c3eff137f5d",
+    "at": "2026-10-17T20:58:29.087Z",
+    "removed": [
+     "Early morning, before the ticket booths open, the square belongs mostly to locals cutting through on their way to work. After dinner is the other sweet spot: the palace gets floodlit at night, the stone glows amber, and the cafés along the square's edge fill with a slower, evening crowd."
+    ],
+    "added": [
+     "Early morning, before the tour groups arrive, the square is at its quietest, just a handful of early risers crossing the stone underfoot. After dinner is the other sweet spot: the palace gets floodlit at night, the stone glows amber, and the cafés along the square's edge fill with a slower, evening crowd."
+    ]
+   }
+  ]
+ },
+ "avignon-the-bridge-of-avignon": {
+  "steps": [
+   {
+    "from": "59117443bccc",
+    "to": "79ac048b8155",
+    "at": "2026-10-17T20:58:41.605Z",
+    "removed": [
+     "It mattered because Avignon mattered. Once the Rhône crossing was in place, the city became the key link between Provence and the Comtat Venaissin, and later the seat of the papacy itself during the 14th-century Avignon Papacy. The bridge and the Palais des Papes rising above it were built for the same reason: to control this stretch of river."
+    ],
+    "added": [
+     "It mattered because Avignon mattered. The city grew into a major crossing point on the Rhône, and later the seat of the papacy itself during the 14th-century Avignon Papacy. The bridge and the Palais des Papes rising above it were built for the same reason: to control this stretch of river."
     ]
    }
   ]
@@ -257,6 +412,36 @@
     ],
     "added": [
      "- Ifugao and Kalinga-style bahay kubo huts, some open to walk through\n- A cave-like gallery space showing work by Baguio's Cordillera artists\n- Cafe Sabel, tucked among the huts, serving coffee and simple Filipino meals\n- Open viewpoints looking out over pine-covered ridges\n- A small art shop selling woodcarvings, weavings, and paintings from local artists"
+    ]
+   }
+  ]
+ },
+ "bali-cocomo-canggu": {
+  "steps": [
+   {
+    "from": "e4235f6b4831",
+    "to": "8a1cf509a935",
+    "at": "2026-10-17T20:58:50.958Z",
+    "removed": [
+     "Given how much foot traffic this part of Pererenan sees, and how central sharing plates like the tenderloin are to the concept, reserving ahead is the safer move rather than a formality. A table booked for a specific time also means your shared dishes can be timed properly instead of arriving in a rush."
+    ],
+    "added": [
+     "Given how much foot traffic this part of Pererenan sees, and how central sharing plates are to the concept, reserving ahead is the safer move rather than a formality. A table booked for a specific time also means your shared dishes can be timed properly instead of arriving in a rush."
+    ]
+   }
+  ]
+ },
+ "bangkok-808-festival-2026": {
+  "steps": [
+   {
+    "from": "3d87f50f170a",
+    "to": "30c8b052ee08",
+    "at": "2026-10-17T20:59:10.120Z",
+    "removed": [
+     "808 Festival has been Bangkok's reference point for electronic dance music since it first launched, and the 2026 edition was its 13th year. Two nights, one venue, and a lineup built around headliners NGHTMRE and SLANDER, both mainstays of the North American bass and dubstep circuit who've become regular draws on Southeast Asia's festival calendar."
+    ],
+    "added": [
+     "808 Festival has been Bangkok's reference point for electronic dance music since it first launched, and the 2026 edition marked its 13th year. Two nights, one venue, and a lineup built around headliners NGHTMRE and SLANDER, both mainstays of the North American bass and dubstep circuit who've become regular draws on Southeast Asia's festival calendar."
     ]
    }
   ]
@@ -331,6 +516,55 @@
    }
   ]
  },
+ "bangkok-bangkok-marathon": {
+  "steps": [
+   {
+    "from": "e50056d534ea",
+    "to": "e53de5b93256",
+    "at": "2026-10-17T20:59:27.100Z",
+    "removed": [
+     "Big Bangkok road races follow a familiar pattern. Here is how race weekend tends to go.",
+     "**Respect.** Thais stand still when the national anthem plays, which happens at 8am and 6pm in public places, and sometimes at official ceremonies. If it plays while you are standing around the finish area, stop and stand until it ends. Visitors are expected to do the same.",
+     "Runners racing the next day often go easy on the chilli and on raw street-food salads such as som tam. After the finish, a coconut drunk straight from the shell is the standard Bangkok recovery drink, sold at stalls all over the city."
+    ],
+    "added": [
+     "Big Bangkok road races follow a familiar pattern.",
+     "**Respect.** Thais stand still when the national anthem plays in public places, and sometimes at official ceremonies. If it plays while you are standing around the finish area, stop and stand until it ends. Visitors are expected to do the same.",
+     "Runners racing the next day often go easy on the chilli and on raw street-food salads such as som tam. After the finish, a fresh coconut, drunk straight from the shell, is the standard Bangkok recovery drink, sold at stalls all over the city."
+    ]
+   }
+  ]
+ },
+ "bangkok-bigbang-world-tour-xx-cosmos-in-bangkok": {
+  "steps": [
+   {
+    "from": "cc373dc370e6",
+    "to": "c015659feb63",
+    "at": "2026-10-17T20:59:37.934Z",
+    "removed": [
+     "Around the stadium, the streets by Ramkhamhaeng University are lined with cheap student eateries and night stalls. Fans fill up there before the show on noodles, grilled pork skewers and iced Thai tea. Concert nights also bring food carts along the approach roads. Most fans take a refillable water bottle into the evening heat."
+    ],
+    "added": [
+     "Around the stadium, the streets by Ramkhamhaeng University are lined with cheap student eateries and night stalls. Fans fill up there before the show. Concert nights also bring food carts along the approach roads. Most fans take a refillable water bottle into the evening heat."
+    ]
+   }
+  ]
+ },
+ "bangkok-bts-world-tour-arirang-in-bangkok": {
+  "steps": [
+   {
+    "from": "ebcce02c35f8",
+    "to": "af1d52821762",
+    "at": "2026-10-17T20:59:54.740Z",
+    "removed": [
+     "Rajamangala is Thailand's national stadium, a concrete bowl built for the 1998 Asian Games. It sits inside the Hua Mak Sports Complex on Bangkok's eastern side. It holds roughly 50,000 people, which makes it the city's default venue for the biggest touring acts."
+    ],
+    "added": [
+     "Rajamangala is Thailand's national stadium, a concrete bowl built for the 1998 Asian Games. It sits inside the Hua Mak Sports Complex on Bangkok's eastern side. It is one of the country's largest stadiums, which makes it the city's default venue for the biggest touring acts."
+    ]
+   }
+  ]
+ },
  "bangkok-chinatown-bangkok-yaowarat": {
   "steps": [
    {
@@ -357,6 +591,21 @@
     ],
     "added": [
      "Time your visit around dusk. Bangkok sits close to the equator, so the sun sets at roughly the same time all year, between six and half past six. That means a single booking can show you two views."
+    ]
+   }
+  ]
+ },
+ "bangkok-jason-mraz-bangkok-2026": {
+  "steps": [
+   {
+    "from": "62c310ca2ac1",
+    "to": "6452cc01c308",
+    "at": "2026-10-17T21:00:02.653Z",
+    "removed": [
+     "Bangkok has seen Jason Mraz four times before. The fifth falls on Thursday, October 29, 2026, at BITEC Live, and it comes with a full band rather than a stripped-back solo set. It is also his first Asian tour in seven years, so this is a long-awaited date for Thai fans."
+    ],
+    "added": [
+     "Jason Mraz returns to Bangkok on Thursday, October 29, 2026, at BITEC Live, and it comes with a full band rather than a stripped-back solo set. It is also his first Asian tour in seven years, so this is a long-awaited date for Thai fans."
     ]
    }
   ]
@@ -469,6 +718,40 @@
    }
   ]
  },
+ "barcelona-csio-barcelona": {
+  "steps": [
+   {
+    "from": "c7793528e44a",
+    "to": "b4db091e78f9",
+    "at": "2026-10-17T21:00:20.217Z",
+    "removed": [
+     "This isn't a festival that popped up to catch tourist traffic. CSIO Barcelona predates the vast majority of what gets marketed as \"iconic\" in this city, and the format reflects that institutional weight: national teams, Nations Cup-style team rounds, and individual grand prix classes spread across the four days rather than crammed into one evening show.",
+     "- By taxi or rideshare: the simplest option from most central hotels, roughly 15-20 minutes depending on traffic\n- By metro: nearest stations are on Line 4 (Maresme Fòrum) or Line 2, followed by a walk or short bus/taxi hop\n- By car: the club has grounds large enough for spectator parking during major events, though space fills as the day progresses",
+     "A full day at the club means lunch either at the venue's food and hospitality stands or nearby in Diagonal Mar, with the evening back in central Barcelona. Public transport into the city center, run by TMB, keeps later hours on weekend event days than standard daytime service."
+    ],
+    "added": [
+     "This isn't a festival that popped up to catch tourist traffic. CSIO Barcelona predates most of the landmarks that draw visitors to this city, and the format reflects that institutional weight: national teams, Nations Cup-style team rounds, and individual grand prix classes spread across the four days rather than crammed into one evening show.",
+     "- By taxi or rideshare: the simplest option from most central hotels\n- By metro: nearest stations are on Line 4 (Maresme Fòrum) or Line 2, followed by a walk or short bus/taxi hop\n- By car: the club has grounds large enough for spectator parking during major events, though space fills as the day progresses",
+     "A full day at the club means lunch either at the venue's food and hospitality stands or nearby in Diagonal Mar, with the evening back in central Barcelona. Public transport into the city center, run by TMB, is the simplest way back, though it's worth checking timetables for event days."
+    ]
+   }
+  ]
+ },
+ "barcelona-la-oreja-de-van-gogh-with-amaia-montero": {
+  "steps": [
+   {
+    "from": "c6a1d362b5ad",
+    "to": "7c76f1228b52",
+    "at": "2026-10-17T21:00:35.653Z",
+    "removed": [
+     "Amaia Montero is back with the band. She sang with the San Sebastián group from its start in 1996 until 2007. In that time they made the four albums that defined Spanish pop for a generation: *Dile al sol*, *El viaje de Copperpot*, *Lo que te conté mientras te hacías la dormida* and *Guapa*."
+    ],
+    "added": [
+     "Amaia Montero is back with the band. She sang with the San Sebastián group from its start in 1996 until 2007. In that time they made the albums that defined Spanish pop for a generation: *Dile al sol*, *Lo que te conté mientras te hacías la dormida* and *Guapa*."
+    ]
+   }
+  ]
+ },
  "barcelona-osteria-condal": {
   "steps": [
    {
@@ -480,6 +763,51 @@
     ],
     "added": [
      "If you don't speak Spanish or Catalan, a simple *bona nit* (good evening, in Catalan) at the door is always received well. Ask for the bill with a simple \"the bill, please.\" It won't come until you ask, because lingering at the table is part of the meal here."
+    ]
+   }
+  ]
+ },
+ "barra-lilau-square": {
+  "steps": [
+   {
+    "from": "71621409e7d6",
+    "to": "01d8ba92746b",
+    "at": "2026-10-17T21:00:45.480Z",
+    "removed": [
+     "Macanese Portuguese has a rhyme about this spring: \"Quem bebe água do Lilau não esquece Macau.\" Whoever drinks Lilau water never forgets Macau. The longer version says they'll either marry here or come back. That line is why people stop at the fountain, and it is the square's whole story in one sentence."
+    ],
+    "added": [
+     "Macanese Portuguese has a rhyme about this spring: whoever drinks Lilau water never forgets Macau. The longer version says they'll either marry here or come back. That line is why people stop at the fountain, and it is the square's whole story in one sentence."
+    ]
+   }
+  ]
+ },
+ "barra-mandarin-s-house": {
+  "steps": [
+   {
+    "from": "bacfd17604ee",
+    "to": "6e72ff581591",
+    "at": "2026-10-17T21:00:59.487Z",
+    "removed": [
+     "The layout follows the Chinese rule of a series of courtyards and halls. The finishes show a port city where Portuguese, Indian and Chinese builders shared tools and ideas. The government restoration took around eight years, and the house reopened to the public in 2010."
+    ],
+    "added": [
+     "The layout follows the Chinese rule of a series of courtyards and halls. The finishes show a port city where Portuguese, Indian and Chinese builders shared tools and ideas. The house fell into disrepair over the twentieth century before undergoing government restoration and reopening to the public."
+    ]
+   }
+  ]
+ },
+ "barra-maritime-museum": {
+  "steps": [
+   {
+    "from": "490ec2d03e6c",
+    "to": "8fc643106ab8",
+    "at": "2026-10-17T21:01:11.734Z",
+    "removed": [
+     "The galleries rise floor by floor, and each one has its own theme. Here is roughly what you will find going up:"
+    ],
+    "added": [
+     "The galleries rise floor by floor, and each one has its own theme:"
     ]
    }
   ]
@@ -626,6 +954,23 @@
    }
   ]
  },
+ "beijing-lama-temple": {
+  "steps": [
+   {
+    "from": "aa203f2d1ea6",
+    "to": "a176e4a6cfbe",
+    "at": "2026-10-17T21:01:27.049Z",
+    "removed": [
+     "- **Hall of the Heavenly Kings** – the entry hall, guarded by the four Heavenly Kings and a smiling Maitreya Buddha\n- **Hall of Harmony and Peace** – the main hall, with three bronze Buddha statues representing past, present and future\n- **Hall of Everlasting Protection** – smaller, once the private quarters of the Yongzheng Emperor\n- **Hall of the Wheel of the Law** – home to a large bronze statue of Tsongkhapa, founder of the Gelug school\n- **Pavilion of Ten Thousand Happinesses** – the finale, housing an 18-meter sandalwood Maitreya Buddha carved from a single tree trunk",
+     "Lama Temple opens daily from 9am to 5pm, with last entry typically around 4:30pm. Arriving right at 9am is the surest way to walk the courtyards with some breathing room before tour groups arrive later in the morning. The complex is popular enough that midday, especially on weekends and around Chinese New Year, gets genuinely crowded around the main incense-burning stations."
+    ],
+    "added": [
+     "- **Hall of the Heavenly Kings** – the entry hall, guarded by the four Heavenly Kings and a smiling Maitreya Buddha\n- **Hall of Harmony and Peace** – the main hall, with three bronze Buddha statues representing past, present and future\n- **Hall of Everlasting Protection** – smaller, once the private quarters of the Yongzheng Emperor\n- **Hall of the Wheel of the Law** – home to a large bronze statue of Tsongkhapa, founder of the Gelug school\n- **Pavilion of Ten Thousand Happinesses** – the finale, housing a towering sandalwood Maitreya Buddha",
+     "Lama Temple opens daily from 9am to 5pm. Arriving right at 9am is the surest way to walk the courtyards with some breathing room before tour groups arrive later in the morning. The complex is popular enough that midday, especially on weekends and around Chinese New Year, gets genuinely crowded around the main incense-burning stations."
+    ]
+   }
+  ]
+ },
  "belfast-black-sheep-coffee": {
   "steps": [
    {
@@ -658,6 +1003,36 @@
    }
   ]
  },
+ "belfast-peace-wall-belfast": {
+  "steps": [
+   {
+    "from": "42f86e6baaa6",
+    "to": "49d4b012c64b",
+    "at": "2026-10-17T21:01:45.999Z",
+    "removed": [
+     "Crowds here follow the tour schedule. On weekdays the wall is quiet right through its open hours, from 7am to 7pm. You'll often have long stretches of it almost to yourself."
+    ],
+    "added": [
+     "Crowds here follow the tour schedule. On weekdays the wall is quiet throughout its open hours of 7am to 7pm. You'll often have long stretches of it almost to yourself."
+    ]
+   }
+  ]
+ },
+ "bengaluru-bengaluru-fort": {
+  "steps": [
+   {
+    "from": "bc6e3f1ca7c6",
+    "to": "6075674b490a",
+    "at": "2026-10-17T21:01:58.638Z",
+    "removed": [
+     "The gate itself is the story. Thick stone walls curve into a narrow arched passage, carved with weathered floral and geometric motifs typical of late 18th-century Mysore military architecture, built under Hyder Ali and expanded by Tipu Sultan."
+    ],
+    "added": [
+     "The gate itself is the story. Thick stone walls curve into a narrow arched passage, carved with weathered floral and geometric motifs typical of late 18th-century Mysore military architecture."
+    ]
+   }
+  ]
+ },
  "bengaluru-chet-faker-a-love-for-strangers-tour": {
   "steps": [
    {
@@ -676,6 +1051,89 @@
     ],
     "added": [
      "The specific venue for the Bengaluru date isn't detailed in the tour information here. Indian tour stops of this scale typically land in one of the city's mid-to-large indoor venues or outdoor grounds equipped for international production. The exact address, doors time and curfew sat with the promoter. Once that location is known, it's what decides which part of the city makes sense as a base."
+    ]
+   }
+  ]
+ },
+ "bengaluru-guns-n-roses-india-tour": {
+  "steps": [
+   {
+    "from": "173bd56413d3",
+    "to": "856582a2219b",
+    "at": "2026-10-17T21:02:11.201Z",
+    "removed": [
+     "- **Breakfast at MTR** on Lalbagh Road, a Bengaluru institution since 1924, known for masala dosa and rava idli; queues are common at weekends\n- **Lalbagh Botanical Garden**, next door, with its glasshouse modelled on London's Crystal Palace\n- **Cubbon Park**, the city's central green lung, flanked by the granite Vidhana Soudha and the red High Court building\n- **Church Street and MG Road**, for bookshops, cafés and microbreweries in the evening"
+    ],
+    "added": [
+     "- **Breakfast at MTR** on Lalbagh Road, a Bengaluru institution since 1924; queues are common at weekends\n- **Lalbagh Botanical Garden**, next door, with its glasshouse modelled on London's Crystal Palace\n- **Cubbon Park**, the city's central green lung, flanked by the granite Vidhana Soudha and the red High Court building\n- **Church Street and MG Road**, for bookshops, cafés and microbreweries in the evening"
+    ]
+   }
+  ]
+ },
+ "bengaluru-lalbagh-botanical-garden": {
+  "steps": [
+   {
+    "from": "cb5ae73ddd8a",
+    "to": "5c549f70c34f",
+    "at": "2026-10-17T21:02:30.966Z",
+    "removed": [
+     "Lalbagh isn't just a park. It's Bengaluru's green lung and a 250-year-old living museum of trees. Founded in the 1760s under Hyder Ali and expanded by his son Tipu Sultan, it now sprawls across 240 acres in the heart of Mavalli.",
+     "The centerpiece is the Glass House, a domed iron-and-glass pavilion built in 1889 and modeled on London's Crystal Palace. It hosts flower shows twice a year, in January and August, when the beds around it explode with color.",
+     "Walk the paths toward the center of the park and you hit the Peninsular Gneiss, a bare grey boulder estimated at roughly 3,000 million years old, one of the oldest rock formations on Earth. It's an odd, humbling thing to stumble on mid-stroll.",
+     "The garden opens at 5am and closes at 7pm every day of the week, and mornings are when Bengaluru's walkers and joggers claim the paths. Foot traffic is lightest on weekdays between 7am and 11am. The air is cooler, the light is better for photos, and the paths near the Glass House are nearly empty."
+    ],
+    "added": [
+     "Lalbagh isn't just a park. It's Bengaluru's green lung and a 250-year-old living museum of trees. Founded in the 1760s under Hyder Ali and expanded by his son Tipu Sultan, it now sprawls across 240 acres in Mavalli.",
+     "The centerpiece is the Glass House, a domed iron-and-glass pavilion built in 1889 and modeled on London's Crystal Palace. It hosts flower shows that fill the beds around it with color.",
+     "Walk the paths toward the center of the park and you hit the Peninsular Gneiss, a bare grey boulder, one of the oldest rock formations on Earth. It's an odd, humbling thing to stumble on mid-stroll.",
+     "The garden opens at 5am and closes at 7pm every day of the week, and mornings are when Bengaluru's walkers and joggers claim the paths. Foot traffic is lighter on weekdays than on weekends. The air is cooler, the light is better for photos, and the paths near the Glass House are nearly empty."
+    ]
+   }
+  ]
+ },
+ "bengaluru-museum-of-art-photography-map": {
+  "steps": [
+   {
+    "from": "e90e0f0fb49b",
+    "to": "f4c11c0d0405",
+    "at": "2026-10-17T21:02:42.207Z",
+    "removed": [
+     "- **Book ahead**: tickets are usually sold online through MAP's own site as well as at the door; booking in advance skips the counter queue, especially on weekends.\n- **Payment**: cards and UPI are standard; cash is accepted but rarely necessary.\n- **Timing**: come right at 10am on a weekend, or any weekday afternoon before the after-work crowd. Avoid arriving between noon and closing on Saturday or Sunday, when tour groups and families cluster.\n- **Etiquette**: photography is allowed in most galleries but flash and tripods usually aren't. Check gallery signage rather than assuming.\n- **Local mistake to avoid**: treating it as a quick one-hour stop. The museum is deceptively large across five levels, and rushing the textiles or photography floors is the most common regret visitors mention."
+    ],
+    "added": [
+     "- **Book ahead**: tickets are usually sold online through MAP's own site as well as at the door; booking in advance skips the counter queue, especially on weekends.\n- **Payment**: cards and UPI are standard; cash is accepted but rarely necessary.\n- **Timing**: come right at 10am on a weekend, or any quiet weekday afternoon. Avoid arriving between noon and closing on Saturday or Sunday, when tour groups and families cluster.\n- **Etiquette**: photography is allowed in most galleries but flash and tripods usually aren't. Check gallery signage rather than assuming.\n- **Local mistake to avoid**: treating it as a quick one-hour stop. The museum is deceptively large across five levels, and rushing the textiles or photography floors is the most common regret visitors mention."
+    ]
+   }
+  ]
+ },
+ "bengaluru-visvesvaraya-industrial-technological-museum": {
+  "steps": [
+   {
+    "from": "b91a85bcc8b2",
+    "to": "66bafde8905e",
+    "at": "2026-10-17T21:02:53.301Z",
+    "removed": [
+     "The museum sits on Kasturba Road, right by Chinnaswamy Stadium, in the heart of central Bengaluru. It's an easy walk from Cubbon Park and MG Road.",
+     "Arrive at opening or within that first hour, by late morning on weekends, ticket lines snake outside the entrance and gallery floors turn shoulder-to-shoulder. Tickets are sold at the counter on-site; carry small cash as a backup even though card payment is generally accepted, since counter queues move faster with exact change."
+    ],
+    "added": [
+     "The museum sits on Kasturba Road, right by Chinnaswamy Stadium, in central Bengaluru. It's an easy walk from Cubbon Park and MG Road.",
+     "Arrive at opening or within that first hour, by late morning on weekends, ticket lines snake outside the entrance and gallery floors turn shoulder-to-shoulder. Tickets are sold at the counter on-site; queues move faster if you have exact change ready."
+    ]
+   }
+  ]
+ },
+ "berlin-berlin-cathedral": {
+  "steps": [
+   {
+    "from": "936ed288b3c9",
+    "to": "352bcd9ba44d",
+    "at": "2026-10-17T21:03:07.604Z",
+    "removed": [
+     "The easiest way in is the U5. Get off at **Museumsinsel**, which opened in 2021 with a deep blue, star-studded ceiling. You come up a few minutes' walk from the cathedral steps."
+    ],
+    "added": [
+     "The easiest way in is the U5. Get off at **Museumsinsel**. You come up a few minutes' walk from the cathedral steps."
     ]
    }
   ]
@@ -712,6 +1170,53 @@
    }
   ]
  },
+ "berlin-neues-museum": {
+  "steps": [
+   {
+    "from": "c2e200db4dcd",
+    "to": "28fc4e664974",
+    "at": "2026-10-17T21:03:25.333Z",
+    "removed": [
+     "Most visitors make straight for the bust of Nefertiti. It's a painted limestone portrait of the Egyptian queen, made around 1345 BC in the workshop of the sculptor Thutmose. A German expedition dug it up at Amarna in 1912.",
+     "- Heinrich Schliemann's finds from Troy and the story of what was lost after 1945\n- The Neanderthal skull from Le Moustier in France\n- Stone Age tools and grave goods arranged as a walk through time"
+    ],
+    "added": [
+     "Most visitors make straight for the bust of Nefertiti. It's a painted limestone portrait of the Egyptian queen.",
+     "- Heinrich Schliemann's finds from Troy and the story of what was lost after 1945\n- A Neanderthal skull in the prehistoric collection\n- Stone Age tools and grave goods arranged as a walk through time"
+    ]
+   }
+  ]
+ },
+ "berlin-tiergarten": {
+  "steps": [
+   {
+    "from": "f9ceea77439a",
+    "to": "21f4473fb182",
+    "at": "2026-10-17T21:03:41.203Z",
+    "removed": [
+     "Allow at least two hours for the Victory Column and a lakeside loop. Make it half a day if you add the memorials, a beer garden and the gas lamps. After dark the park is large and poorly lit away from the boulevard, so stick to the main paths if you cross it at night."
+    ],
+    "added": [
+     "Allow time for the Victory Column and a lakeside loop. Make it half a day if you add the memorials, a beer garden and the gas lamps. After dark the park is large and poorly lit away from the boulevard, so stick to the main paths if you cross it at night."
+    ]
+   }
+  ]
+ },
+ "berlin-young-posse-europe-tour-pilot3": {
+  "steps": [
+   {
+    "from": "29b5a73b2943",
+    "to": "361172d099a3",
+    "at": "2026-10-17T21:03:50.393Z",
+    "removed": [
+     "- **Kottbusser Tor** (U1, U3, U8): about five minutes west along Oranienstraße\n- **Görlitzer Bahnhof** (U1, U3): about five minutes south via Manteuffelstraße\n- **Night buses** cover the area, and the U-Bahn runs all night on Friday and Saturday nights only"
+    ],
+    "added": [
+     "- **Kottbusser Tor** (U1, U3, U8): about five minutes west along Oranienstraße\n- **Görlitzer Bahnhof** (U1, U3): about five minutes south via Manteuffelstraße\n- **Night buses** cover the area, and weekend night service on the U-Bahn can offer another option for the trip home"
+    ]
+   }
+  ]
+ },
  "bhubaneswar-ekamra-haat": {
   "steps": [
    {
@@ -742,6 +1247,21 @@
    }
   ]
  },
+ "birmingham-shri-venkateswara-balaji-temple-tividale": {
+  "steps": [
+   {
+    "from": "8335e5cba245",
+    "to": "32a58d09d2d4",
+    "at": "2026-10-17T21:04:06.061Z",
+    "removed": [
+     "The guided tours are pre-booked, and they are the best way to learn what each shrine means. Arrange one through the temple before you travel rather than turning up and asking. On festival days the halls fill quickly. Visitors who aren't Hindu are welcome, but they should stay at the edges during ceremonies."
+    ],
+    "added": [
+     "Guided tours may be available, and they are the best way to learn what each shrine means. Arrange one through the temple before you travel rather than turning up and asking. On festival days the halls fill quickly. Visitors who aren't Hindu are welcome, but they should stay at the edges during ceremonies."
+    ]
+   }
+  ]
+ },
  "bohol-national-museum-of-the-philippines-bohol": {
   "steps": [
    {
@@ -753,6 +1273,85 @@
     ],
     "added": [
      "If you're visiting on a weekend, aim for the 9am–10am or 1pm–3pm windows, which measured foot traffic shows are the calmer stretches. Try to avoid rolling in between 3pm and 5pm on Saturday or Sunday, when visitor numbers climb toward the day's peak."
+    ]
+   }
+  ]
+ },
+ "bologna-basilica-di-san-petronio": {
+  "steps": [
+   {
+    "from": "98753d2d0014",
+    "to": "12feb6c6077c",
+    "at": "2026-10-17T21:04:15.877Z",
+    "removed": [
+     "Down the centre of the floor runs the Meridian Line, a 66.8-metre sundial built in 1655 by astronomer Gian Domenico Cassini, once used to calibrate clocks across the city and still functional on sunny days.",
+     "- Quietest: 2pm–3pm, both weekdays and weekends\n- Busiest: weekends, 10am to 6pm straight through\n- Best plan: arrive right at 10am opening, or return in the 2pm lull"
+    ],
+    "added": [
+     "Down the centre of the floor runs the Meridian Line, a long sundial once used to calibrate clocks across the city and still functional on sunny days.",
+     "- Quietest: 2pm–3pm, both weekdays and weekends\n- Busiest: weekends, all day\n- Best plan: arrive right at 10am opening, or return in the 2pm lull"
+    ]
+   }
+  ]
+ },
+ "bologna-museo-per-la-memoria-di-ustica": {
+  "steps": [
+   {
+    "from": "9cd86ac14cec",
+    "to": "6d7547bf62db",
+    "at": "2026-10-17T21:04:25.007Z",
+    "removed": [
+     "Arrive well before 8pm; last entry is typically earlier than closing, so don't plan a 7:45 arrival. The building sits on Via di Saliceto 3/22 in the Bolognina neighborhood, north of Bologna Centrale station. It's a walkable 15-20 minutes from the station, or a short ride on buses serving Via di Saliceto. There's no dedicated visitor parking lot, so street parking or public transit is the practical option.",
+     "- Keep voices low inside the installation room; the audio loop is meant to be heard clearly.\n- Photography is generally tolerated but flash and posed shots feel out of place here.\n- Read the introductory panels near the entrance before the main hall; they give context the installation itself doesn't spell out.\n- Budget the full 45 minutes; rushing through defeats the point of Boltanski's design."
+    ],
+    "added": [
+     "Arrive well before 8pm, since the museum may stop admitting visitors before the posted closing time. The building sits on Via di Saliceto 3/22 in the Bolognina neighborhood, north of Bologna Centrale station. It's a walkable 15-20 minutes from the station, or a short ride on buses serving Via di Saliceto. There's no dedicated visitor parking lot, so street parking or public transit is the practical option.",
+     "- Keep voices low inside the installation room; the audio loop is meant to be heard clearly.\n- Photography is generally tolerated but flash and posed shots feel out of place here.\n- Read the introductory panels near the entrance before the main hall; they give context the installation itself doesn't spell out.\n- Take your time; rushing through defeats the point of Boltanski's design."
+    ]
+   }
+  ]
+ },
+ "bordeaux-grosse-cloche": {
+  "steps": [
+   {
+    "from": "cbab0bab9131",
+    "to": "15edc03a86e2",
+    "at": "2026-10-17T21:04:32.682Z",
+    "removed": [
+     "The bell itself weighs 7.75 tons and dates to the 18th century, hung in the belfry above what was once a holding cell for juvenile prisoners. It's rung only on special occasions, not daily, so don't expect to hear it on an ordinary visit. The dungeon below adds a darker layer to a monument most people photograph for its facade alone."
+    ],
+    "added": [
+     "The bell itself hangs in the belfry above what was once a holding cell for juvenile prisoners. It's rung only on special occasions, not daily, so don't expect to hear it on an ordinary visit. The dungeon below adds a darker layer to a monument most people photograph for its facade alone."
+    ]
+   }
+  ]
+ },
+ "boston-public-garden": {
+  "steps": [
+   {
+    "from": "70f2a6fd179b",
+    "to": "f99e2cc87bc9",
+    "at": "2026-10-17T21:04:46.941Z",
+    "removed": [
+     "Weekdays are calmer throughout, and the quietest stretch of all is late at night, between 10pm and 11pm, though the park's charm at that hour is more about empty benches than active sightseeing since the swan boats and most amenities are long closed by then. For a livelier but still manageable visit, weekend mornings before 11am are your best window; the park stays comparatively open from 7am onward on Saturdays and Sundays before the midday surge."
+    ],
+    "added": [
+     "Weekdays are calmer throughout, and the quietest stretch of all is late at night, between 10pm and 11pm, though the park's charm at that hour is more about empty benches than active sightseeing since the swan boats and most amenities are long closed by then. For a livelier but still manageable visit, weekend mornings before 11am are your best window, before the midday surge of visitors arrives."
+    ]
+   }
+  ]
+ },
+ "boston-the-paul-revere-house": {
+  "steps": [
+   {
+    "from": "f4486de0b6fe",
+    "to": "15b57c9cd097",
+    "at": "2026-10-17T21:05:00.815Z",
+    "removed": [
+     "Because it's one of the most visited historic houses in the city, weekends fill the small rooms fast. The quietest stretch is 10am to 11am on Saturdays and Sundays; after 11am and through mid-afternoon, expect a steady crowd until closer to closing. On weekdays, traffic stays fairly even across the whole day, so there's less need to rush there at opening."
+    ],
+    "added": [
+     "Because it's one of the most visited historic houses in the city, weekends fill the small rooms fast. The quietest stretch is 10am to 11am on Saturdays and Sundays; after 11am and through mid-afternoon, expect a steady crowd until closer to closing. On weekdays, crowds tend to be lighter throughout the day, so there's less need to rush there at opening."
     ]
    }
   ]
@@ -845,6 +1444,21 @@
    }
   ]
  },
+ "brisbane-rugby-league-world-cup-2026-final": {
+  "steps": [
+   {
+    "from": "c7a208585666",
+    "to": "bc87068ef9aa",
+    "at": "2026-10-17T21:05:10.399Z",
+    "removed": [
+     "- **Train:** Milton station sits just across from the stadium on the Ipswich/Rosewood and Springfield lines. Roma Street station is about a 15-minute walk away along Caxton Street, on most suburban lines.\n- **Bus:** event shuttles usually run from the CBD and from suburban hubs.\n- **Ticket travel:** Suncorp event tickets have traditionally included Translink public transport on match day. Check the conditions printed on your ticket."
+    ],
+    "added": [
+     "- **Train:** Milton station sits just across from the stadium on the Ipswich/Rosewood and Springfield lines. Roma Street station is about a 15-minute walk away.\n- **Bus:** event shuttles usually run from the CBD and from suburban hubs.\n- **Ticket travel:** Suncorp event tickets have traditionally included Translink public transport on match day. Check the conditions printed on your ticket."
+    ]
+   }
+  ]
+ },
  "brisbane-the-collective-markets": {
   "steps": [
    {
@@ -856,6 +1470,38 @@
     ],
     "added": [
      "The numbers here are blunt. Both Saturday and Sunday sessions tend to be busy throughout, so there isn't a reliable quiet window on either weekend day."
+    ]
+   }
+  ]
+ },
+ "bugis-albert-centre-market-food-centre": {
+  "steps": [
+   {
+    "from": "7e5d9de444e0",
+    "to": "0a3b375ab101",
+    "at": "2026-10-17T21:05:25.592Z",
+    "removed": [
+     "The market sits at 270 Queen St, #01-53, an easy 5-8 minute walk from Bugis MRT station (East-West and Downtown lines).",
+     "Weekends are the crunch point, foot traffic stays heavy from 11am straight through to 7pm, with no real lull. If you want breathing room, a weekday visit right after the 11am opening is your best bet, before the lunch crowd from nearby offices and shoppers arrives."
+    ],
+    "added": [
+     "The market sits near Bugis MRT station (East-West and Downtown lines).",
+     "Weekends are the crunch point, with foot traffic staying heavy through most of the afternoon. If you want breathing room, a weekday visit right after the 11am opening is your best bet, before the lunch crowd from nearby offices and shoppers arrives."
+    ]
+   }
+  ]
+ },
+ "bugis-kwan-im-thong-hood-cho-temple": {
+  "steps": [
+   {
+    "from": "886d6ef4f0b1",
+    "to": "4a9201b1e717",
+    "at": "2026-10-17T21:05:33.172Z",
+    "removed": [
+     "Opening hours run 7am to 6:30pm every day of the week, no exceptions listed. Weekdays tend to be quieter, but weekends are a different story, especially around Chinese New Year and other festival dates. If you want the temple closer to empty, arrive shortly after opening on a weekend before the queues build."
+    ],
+    "added": [
+     "Opening hours run 7am to 6:30pm every day of the week, no exceptions listed. Weekdays tend to be quieter, but weekends are a different story, especially around Chinese New Year and other festival dates. If you want the temple closer to empty, arrive shortly after opening on a weekday before the queues build."
     ]
    }
   ]
@@ -877,6 +1523,83 @@
    }
   ]
  },
+ "bukhara-bolo-hauz-mosque": {
+  "steps": [
+   {
+    "from": "42335aec3bf3",
+    "to": "740689c336d9",
+    "at": "2026-10-17T21:05:43.462Z",
+    "removed": [
+     "Stand at the pool's edge and look up at the iwan, the recessed portico where the carved columns cluster. The wood is elm, brought from Russia, and the painted patterns were restored using traditional pigment techniques."
+    ],
+    "added": [
+     "Stand at the pool's edge and look up at the iwan, the recessed portico where the carved columns cluster. The painted patterns were restored using traditional pigment techniques."
+    ]
+   }
+  ]
+ },
+ "bukhara-bukhara-night-race": {
+  "steps": [
+   {
+    "from": "25ff7d410a24",
+    "to": "fe2c7eef1eaa",
+    "at": "2026-10-17T21:06:03.756Z",
+    "removed": [
+     "- **Poi Kalyan ensemble:** the Kalyan Minaret dates from 1127 and stands roughly 46 metres tall, between the Kalyan Mosque and the Mir-i-Arab Madrasa. Its banded brickwork shows clearly under lights.\n- **Lyabi-Hauz:** a stone-edged pool from the 16th and 17th centuries, ringed by old mulberry trees and teahouse platforms, with the Nadir Divan-Begi Madrasa on one side.\n- **The trading domes:** brick-domed bazaars such as Toqi Zargaron (the jewellers' dome) built over old crossroads.\n- **The Ark:** the walled fortress of the former emirs, with a long sloping ramp up to its gate.\n- **Bolo Hauz Mosque and the Samanid Mausoleum:** both a short distance west of the Ark, the mausoleum being one of the oldest buildings in Central Asia."
+    ],
+    "added": [
+     "- **Poi Kalyan ensemble:** the Kalyan Minaret, which dates from 1127 and stands roughly 46 metres tall, rises between the Kalyan Mosque and the Mir-i-Arab Madrasa. Its banded brickwork shows clearly under lights.\n- **Lyabi-Hauz:** a stone-edged pool from the 16th and 17th centuries, ringed by old mulberry trees and teahouse platforms, with the Nadir Divan-Begi Madrasa on one side.\n- **The trading domes:** brick-domed bazaars such as Toqi Zargaron (the jewellers' dome) built over old crossroads.\n- **The Ark:** the walled fortress of the former emirs, with a long sloping ramp up to its gate.\n- **Bolo Hauz Mosque and the Samanid Mausoleum:** both a short distance west of the Ark, the mausoleum being one of the oldest buildings in Central Asia."
+    ]
+   }
+  ]
+ },
+ "bukhara-kalan-mosque": {
+  "steps": [
+   {
+    "from": "d1a91924433c",
+    "to": "aafae79b2977",
+    "at": "2026-10-17T21:06:10.904Z",
+    "removed": [
+     "The courtyard is ringed by a colonnade carrying 288 small domes, each one lighting a bay below. At the far end, a tiled iwan portal frames the entrance, its turquoise and cobalt majolica largely original 16th-century work. The blue-ribbed dome over the mihrab chamber is visible from across the old city."
+    ],
+    "added": [
+     "The courtyard is ringed by a colonnade carrying many small domes, each one lighting a bay below. At the far end, a tiled iwan portal frames the entrance, its turquoise and cobalt majolica largely original 16th-century work. The blue-ribbed dome over the mihrab chamber is visible from across the old city."
+    ]
+   }
+  ]
+ },
+ "bukhara-toqi-zargaron": {
+  "steps": [
+   {
+    "from": "985912f9f90b",
+    "to": "11f5618a1924",
+    "at": "2026-10-17T21:06:21.402Z",
+    "removed": [
+     "Toqi Zargaron is open 24 hours every day, though the stalls themselves keep more normal shopping hours, roughly mid-morning to early evening. The structure itself, and its atmosphere, changes completely depending on when you arrive."
+    ],
+    "added": [
+     "Toqi Zargaron is open 24 hours every day, though the stalls themselves keep more normal shopping hours. The structure itself, and its atmosphere, changes completely depending on when you arrive."
+    ]
+   }
+  ]
+ },
+ "bukit-timah-bukit-timah-nature-reserve-visitor-centre": {
+  "steps": [
+   {
+    "from": "73e1be64c59a",
+    "to": "9aa1fe3fee0e",
+    "at": "2026-10-17T21:06:31.290Z",
+    "removed": [
+     "The Visitor Centre itself is small but worth ten minutes, dioramas and displays explain the reserve's role as a water catchment and its surprising biodiversity, including long-tailed macaques, flying lemurs, and over 800 plant species packed into a few square kilometres.",
+     "The mistake most first-timers make is treating this like a quick photo stop. Give the summit hike at least 90 minutes round trip, and wear shoes you don't mind getting muddy, afternoon showers roll in often enough that the paved sections turn slick."
+    ],
+    "added": [
+     "The Visitor Centre itself is small but worth ten minutes, dioramas and displays explain the reserve's role as a water catchment and its surprising biodiversity, including long-tailed macaques, flying lemurs, and a dense variety of plant life packed into a few square kilometres.",
+     "The mistake most first-timers make is treating this like a quick photo stop. Give the summit hike plenty of time round trip, and wear shoes you don't mind getting muddy, afternoon showers roll in often enough that the paved sections turn slick."
+    ]
+   }
+  ]
+ },
  "bukit-timah-bukit-timah-plaza": {
   "steps": [
    {
@@ -888,6 +1611,21 @@
     ],
     "added": [
      "Crowd levels here follow the school timetable. Weekdays tend to be quieter, so most hours work well. That makes a weekday the easiest time to browse."
+    ]
+   }
+  ]
+ },
+ "bukit-timah-murugan-hill-temple": {
+  "steps": [
+   {
+    "from": "f69bfdbaa431",
+    "to": "d6fa7d683430",
+    "at": "2026-10-17T21:06:40.862Z",
+    "removed": [
+     "- Remove your shoes before stepping onto the temple floor; racks near the entrance are for leaving them.\n- Dress modestly: shoulders and knees covered is the safe default.\n- Photography is generally fine in the outer courtyard, but ask before photographing the inner sanctum or people in prayer.\n- Offerings of flowers, fruit, or coconuts are sold by vendors near temples like this if you want to make one; it's not required.\n- Keep voices low near the sanctum, particularly during active prayer sessions in the morning and evening windows."
+    ],
+    "added": [
+     "- Remove your shoes before stepping onto the temple floor; racks near the entrance are for leaving them.\n- Dress modestly: shoulders and knees covered is the safe default.\n- Photography is generally fine in the outer courtyard, but ask before photographing the inner sanctum or people in prayer.\n- If you'd like to make an offering, flowers, fruit, or coconuts are traditional choices; it's not required.\n- Keep voices low near the sanctum, particularly during active prayer sessions in the morning and evening windows."
     ]
    }
   ]
@@ -1083,6 +1821,23 @@
    }
   ]
  },
+ "cameron-highlands-lavender-garden-cameron-lavender": {
+  "steps": [
+   {
+    "from": "6334d2f6d0d8",
+    "to": "2524c94ee1e3",
+    "at": "2026-10-17T21:06:54.202Z",
+    "removed": [
+     "Don't expect a botanical garden's scale. This is a small, packed attraction, and most people move through it in under 90 minutes.",
+     "Cameron Lavender sits just outside Brinchang, on the road network that links Tanah Rata, Brinchang and the strawberry/tea estate strip most visitors already drive through. It's addressed simply as 59, Tanah Rata, 39000 Brinchang."
+    ],
+    "added": [
+     "Don't expect a botanical garden's scale. This is a small, packed attraction that doesn't take long to see.",
+     "Cameron Lavender sits just outside Brinchang, on the road network that links Tanah Rata, Brinchang and the strawberry/tea estate strip most visitors already drive through."
+    ]
+   }
+  ]
+ },
  "canberra-australian-war-memorial": {
   "steps": [
    {
@@ -1143,6 +1898,51 @@
    }
   ]
  },
+ "cancun-yamil-lu-um": {
+  "steps": [
+   {
+    "from": "c19beadb9ddc",
+    "to": "bb94305bd1b3",
+    "at": "2026-10-17T21:07:02.061Z",
+    "removed": [
+     "Don't expect Chichén Itzá. This is a pair of compact limestone structures on a sandy rise, and most people spend 20 to 30 minutes here. What you get is space. Big tour groups skip it, so you often have the stones and the view out over the turquoise water to yourself."
+    ],
+    "added": [
+     "Don't expect Chichén Itzá. This is a pair of compact limestone structures on a sandy rise, and a visit here is brief rather than a half-day outing. What you get is space. Big tour groups skip it, so you often have the stones and the view out over the turquoise water to yourself."
+    ]
+   }
+  ]
+ },
+ "cannes-abbaye-de-lerins": {
+  "steps": [
+   {
+    "from": "adc787045544",
+    "to": "a4c671d6d105",
+    "at": "2026-10-17T21:07:11.617Z",
+    "removed": [
+     "Weekdays between 9am and 10am are the calmest hours on the island, right as the first boats land. Weekends stay busy nearly all day, with the heaviest crowds between 11am and 5pm."
+    ],
+    "added": [
+     "Weekdays between 9am and 10am are the calmest hours on the island, right as the first boats land. Weekends are busiest between 11am and 5pm, with crowds easing off outside that window."
+    ]
+   }
+  ]
+ },
+ "cannes-croix-des-gardes": {
+  "steps": [
+   {
+    "from": "5f5ebf8dafc3",
+    "to": "82c6db49f260",
+    "at": "2026-10-17T21:07:20.983Z",
+    "removed": [
+     "The hill takes its name from a stone cross planted at its 164-metre summit, a marker that has stood watch over the bay since medieval times when guards used it to spot approaching ships. That cross is still the destination most walkers aim for, and the payoff at the top is a genuinely wide panorama, not a glimpse between buildings."
+    ],
+    "added": [
+     "The hill takes its name from a stone cross planted at its summit, a marker that has stood watch over the bay since medieval times when guards used it to spot approaching ships. That cross is still the destination most walkers aim for, and the payoff at the top is a genuinely wide panorama, not a glimpse between buildings."
+    ]
+   }
+  ]
+ },
  "cardiff-cardiff-castle": {
   "steps": [
    {
@@ -1173,6 +1973,21 @@
    }
   ]
  },
+ "causeway-bay-fashion-walk-food-street": {
+  "steps": [
+   {
+    "from": "c89d97ed3213",
+    "to": "cdd8cc6f84d2",
+    "at": "2026-10-17T21:07:32.116Z",
+    "removed": [
+     "Fashion Walk sits in the heart of Causeway Bay, a few minutes' walk from Causeway Bay MTR Station (Island Line), exit F1 or F2 puts you closest to the shopping strip. From there, follow the signs toward Kingston Street and Cleveland Street, where the Fashion Walk cluster of shops and eateries fans out."
+    ],
+    "added": [
+     "Fashion Walk sits a few minutes' walk from Causeway Bay MTR Station (Island Line); exit F1 or F2 puts you closest to the shopping strip. From there, follow the signs toward Kingston Street and Cleveland Street, where the Fashion Walk cluster of shops and eateries fans out."
+    ]
+   }
+  ]
+ },
  "causeway-bay-tin-hau-temple-causeway-bay": {
   "steps": [
    {
@@ -1184,6 +1999,17 @@
     ],
     "added": [
      "The temple gets busier between 11am and 3pm, when local worshippers and curious visitors overlap. If you want photos without people in frame, arrive before 10am."
+    ]
+   },
+   {
+    "from": "97a52842275b",
+    "to": "eaf8bde4cfab",
+    "at": "2026-10-17T21:07:46.631Z",
+    "removed": [
+     "The temple gets busier between 11am and 3pm, when local worshippers and curious visitors overlap. If you want photos without people in frame, arrive before 10am."
+    ],
+    "added": [
+     "The temple gets busier later in the morning and into the afternoon, as local worshippers and curious visitors overlap. If you want photos without people in frame, arrive before 10am."
     ]
    }
   ]
@@ -1215,6 +2041,17 @@
     "added": [
      "Weekends between 10am and 8pm are the busiest stretch, with visitors bunching up at photo spots and entrances. Outside that window, both weekdays and weekends stay noticeably calmer."
     ]
+   },
+   {
+    "from": "e6bf45ded385",
+    "to": "3ad8fe10d7f9",
+    "at": "2026-10-17T21:07:55.214Z",
+    "removed": [
+     "The escalators run 6am to midnight daily, but direction changes through the day. Downhill service runs roughly 6–10am for the morning commute; uphill service takes over from about 10:20am until midnight."
+    ],
+    "added": [
+     "The escalators run 6am to midnight daily, but direction changes through the day, running downhill in the morning for the commute into Central before switching to uphill for the rest of the day and evening."
+    ]
    }
   ]
  },
@@ -1229,6 +2066,36 @@
     ],
     "added": [
      "Look for the Old Colonial Courthouse ruins near the fountain terrace, and the memorial to Sun Yat-sen."
+    ]
+   }
+  ]
+ },
+ "central-lan-kwai-fong": {
+  "steps": [
+   {
+    "from": "0608ed68befd",
+    "to": "4fdcfd947aa1",
+    "at": "2026-10-17T21:08:09.886Z",
+    "removed": [
+     "The Chinese name, 蘭桂坊, pairs orchid (lan) and osmanthus (kwai) with fong, an old word for a lane or square. Take a look at the name before you picture a garden. What you get is neon, stacked signage and a crowd holding drinks in the middle of the road."
+    ],
+    "added": [
+     "The Chinese name, 蘭桂坊, pairs orchid (lan) and osmanthus (kwai) with fong, an old word for a lane or square. Don't let the name fool you into picturing a garden. What you get is neon, stacked signage and a crowd holding drinks in the middle of the road."
+    ]
+   }
+  ]
+ },
+ "central-man-mo-temple": {
+  "steps": [
+   {
+    "from": "794be5a29781",
+    "to": "dbed582c642a",
+    "at": "2026-10-17T21:08:23.589Z",
+    "removed": [
+     "Crowds are heaviest on weekends between 11am and 4pm, when tour groups tend to funnel through alongside independent travelers. If you're visiting on a Saturday or Sunday, aim for the 8–9am window right at opening instead."
+    ],
+    "added": [
+     "Crowds are heaviest on weekends between 11am and 4pm, when tour groups tend to funnel through alongside independent travelers. If you're visiting on a Saturday or Sunday, aim to arrive right at opening, around 8am, instead."
     ]
    }
   ]
@@ -1263,6 +2130,21 @@
    }
   ]
  },
+ "chengdu-people-s-park": {
+  "steps": [
+   {
+    "from": "2cdd5087fb99",
+    "to": "13059d1f7e00",
+    "at": "2026-10-17T21:08:32.359Z",
+    "removed": [
+     "Payment is simple and cheap, paid to the server rather than up front. Mobile payment via WeChat or Alipay is standard if you have a Chinese payment app set up; otherwise small cash works fine."
+    ],
+    "added": [
+     "Tea is paid for afterward, to the server rather than up front. Mobile payment via WeChat or Alipay is standard if you have a Chinese payment app set up; otherwise small cash works fine."
+    ]
+   }
+  ]
+ },
  "chennai-snow-kingdom": {
   "steps": [
    {
@@ -1274,6 +2156,34 @@
     ],
     "added": [
      "Weekday visits are noticeably calmer across the full 10am–8pm window. Weekends are a different story, crowds build steadily from 12pm, peaking around 7pm, with long queues for jackets, boots, and the sled slope."
+    ]
+   },
+   {
+    "from": "d09f804218cf",
+    "to": "ebda6536ffaa",
+    "at": "2026-10-17T21:08:45.291Z",
+    "removed": [
+     "Weekday visits are noticeably calmer across the full 10am–8pm window. Weekends are a different story, crowds build steadily from 12pm, peaking around 7pm, with long queues for jackets, boots, and the sled slope."
+    ],
+    "added": [
+     "Weekday visits are noticeably calmer across the full 10am–8pm window. Weekends are a different story, crowds build steadily from 12pm, peaking in the afternoon before tapering toward closing time, with long queues for jackets, boots, and the sled slope."
+    ]
+   }
+  ]
+ },
+ "chennai-thiru-vi-ka-park": {
+  "steps": [
+   {
+    "from": "2eea85ce6472",
+    "to": "440ae8db675c",
+    "at": "2026-10-17T21:08:57.775Z",
+    "removed": [
+     "Thiru Vi Ka Park sits on Thuru Vi Ka Park Road in Shenoy Nagar, a residential pocket of central Chennai. It's a walled, gated green space built around a walking track, not a garden of monuments or ruins. Locals use it as a fitness loop: joggers, walkers, and older residents doing morning stretches on the grass verges. The pond and landscaped beds inside make it a step up from a bare municipal ground, which is why it holds a strong 4.5 rating across over 2,000 reviews.",
+     "Getting there is straightforward by autorickshaw or taxi to Shenoy Nagar; the park address (No 13, Thuru Vi Ka Park Road) is well known to local drivers. Shenoy Nagar Metro station, on the Chennai Metro Blue Line, is the nearest rail link, putting you within a short auto ride of the gate. Pair a morning visit here with breakfast at one of the small idli-and-filter-coffee stalls that dot the surrounding residential streets, a low-key way to see how the neighbourhood actually runs its day."
+    ],
+    "added": [
+     "Thiru Vi Ka Park sits on Thiru Vi Ka Park Road in Shenoy Nagar, a residential pocket of central Chennai. It's a walled, gated green space built around a walking track, not a garden of monuments or ruins. Locals use it as a fitness loop: joggers, walkers, and older residents doing morning stretches on the grass verges. The pond and landscaped beds inside make it a step up from a bare municipal ground, which is why it holds a strong 4.5 rating across over 2,000 reviews.",
+     "Getting there is straightforward by autorickshaw or taxi to Shenoy Nagar; the park address (No 13, Thuru Vi Ka Park Road) is well known to local drivers. Shenoy Nagar Metro station, on the Chennai Metro Blue Line, is the nearest rail link, putting you within a short auto ride of the gate. Pair a morning visit here with a walk through the surrounding residential streets afterward, a low-key way to see how the neighbourhood actually runs its day."
     ]
    }
   ]

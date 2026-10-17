@@ -84,11 +84,11 @@ The layout is simple: terraced beds of lavender lead up toward a viewing structu
 
 The gift shop sells dried lavender bundles, sachets, soaps and oils, mostly grown on-site or elsewhere in the Highlands. Photo spots are built into the design (arches, swings, a few oversized props), so expect other visitors doing the same poses you are.
 
-Don't expect a botanical garden's scale. This is a small, packed attraction, and most people move through it in under 90 minutes.
+Don't expect a botanical garden's scale. This is a small, packed attraction that doesn't take long to see.
 
 ## Getting there
 
-Cameron Lavender sits just outside Brinchang, on the road network that links Tanah Rata, Brinchang and the strawberry/tea estate strip most visitors already drive through. It's addressed simply as 59, Tanah Rata, 39000 Brinchang.
+Cameron Lavender sits just outside Brinchang, on the road network that links Tanah Rata, Brinchang and the strawberry/tea estate strip most visitors already drive through.
 
 Most travelers arrive by:
 

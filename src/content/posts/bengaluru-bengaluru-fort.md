@@ -90,14 +90,13 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-29'
 ---
-
 ## Why go
 
 You come here for a single carved stone gateway, not a sprawling fortress. Bengaluru Fort once ringed the old city with mud ramparts and later stone walls, but centuries of urban growth swallowed almost all of it. What remains is this Mysore-era gate, its granite blocks worn smooth at the edges, sitting almost incongruously amid the traffic and market stalls of New Tharagupet.
 
 ## What you actually see
 
-The gate itself is the story. Thick stone walls curve into a narrow arched passage, carved with weathered floral and geometric motifs typical of late 18th-century Mysore military architecture, built under Hyder Ali and expanded by Tipu Sultan.
+The gate itself is the story. Thick stone walls curve into a narrow arched passage, carved with weathered floral and geometric motifs typical of late 18th-century Mysore military architecture.
 
 Look closely at the stonework near the arch. You can still make out decorative detailing that's survived monsoons, pollution, and two centuries of foot traffic. There's no ticket booth, no museum, no interpretive center. It's a standalone monument you walk up to, photograph, and read plaques on if any are posted.
 

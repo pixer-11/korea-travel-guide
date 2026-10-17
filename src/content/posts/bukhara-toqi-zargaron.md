@@ -99,7 +99,7 @@ Prices are rarely fixed, so treat the first number you hear as an opening offer 
 
 ## When to go
 
-Toqi Zargaron is open 24 hours every day, though the stalls themselves keep more normal shopping hours, roughly mid-morning to early evening. The structure itself, and its atmosphere, changes completely depending on when you arrive.
+Toqi Zargaron is open 24 hours every day, though the stalls themselves keep more normal shopping hours. The structure itself, and its atmosphere, changes completely depending on when you arrive.
 
 Early mornings tend to be the quietest window, with weekends staying calm from 8 until around 11am. As the day goes on, foot traffic tends to build, easing off again later.
 

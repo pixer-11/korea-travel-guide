@@ -37,7 +37,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Four distances, one Sunday in November
 
 The race date is November 8, 2026. The Bangkok Marathon runs through the city centre with four categories, so it suits nervous first-timers and seasoned marathoners alike:
@@ -75,7 +74,7 @@ Road closures around the course can leave drivers stopping a few blocks short. R
 
 ## Bib collection, water stations and the Thai cheer
 
-Big Bangkok road races follow a familiar pattern. Here is how race weekend tends to go.
+Big Bangkok road races follow a familiar pattern.
 
 **Race packs.** Bibs, timing chips and race shirts are usually handed out at a pick-up event in the days before the race, not on the morning itself. International runners typically bring their passport and registration confirmation. Thai organisers check ID against the entry.
 
@@ -83,7 +82,7 @@ Big Bangkok road races follow a familiar pattern. Here is how race weekend tends
 
 **The cheer.** You will hear "*su su!*" (สู้ๆ) from volunteers and spectators. It means roughly "fight on" or "keep going". A quick wave or a *khop khun khrap/kha* (thank you) back goes down well.
 
-**Respect.** Thais stand still when the national anthem plays, which happens at 8am and 6pm in public places, and sometimes at official ceremonies. If it plays while you are standing around the finish area, stop and stand until it ends. Visitors are expected to do the same.
+**Respect.** Thais stand still when the national anthem plays in public places, and sometimes at official ceremonies. If it plays while you are standing around the finish area, stop and stand until it ends. Visitors are expected to do the same.
 
 ## Where runners stay and what they eat
 
@@ -95,7 +94,7 @@ Carb-loading in Bangkok is easy. The usual pre-race favourites are:
 - **Jok**: rice porridge, sold from early morning stalls
 - **Pad see ew**: wide rice noodles stir-fried in soy sauce, filling without much chilli
 
-Runners racing the next day often go easy on the chilli and on raw street-food salads such as som tam. After the finish, a coconut drunk straight from the shell is the standard Bangkok recovery drink, sold at stalls all over the city.
+Runners racing the next day often go easy on the chilli and on raw street-food salads such as som tam. After the finish, a fresh coconut, drunk straight from the shell, is the standard Bangkok recovery drink, sold at stalls all over the city.
 
 ## After the medal: an easy recovery day
 

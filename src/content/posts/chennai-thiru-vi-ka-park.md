@@ -78,10 +78,9 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-14'
 ---
-
 ## What this park actually is
 
-Thiru Vi Ka Park sits on Thuru Vi Ka Park Road in Shenoy Nagar, a residential pocket of central Chennai. It's a walled, gated green space built around a walking track, not a garden of monuments or ruins. Locals use it as a fitness loop: joggers, walkers, and older residents doing morning stretches on the grass verges. The pond and landscaped beds inside make it a step up from a bare municipal ground, which is why it holds a strong 4.5 rating across over 2,000 reviews.
+Thiru Vi Ka Park sits on Thiru Vi Ka Park Road in Shenoy Nagar, a residential pocket of central Chennai. It's a walled, gated green space built around a walking track, not a garden of monuments or ruins. Locals use it as a fitness loop: joggers, walkers, and older residents doing morning stretches on the grass verges. The pond and landscaped beds inside make it a step up from a bare municipal ground, which is why it holds a strong 4.5 rating across over 2,000 reviews.
 
 ## The two-window schedule
 
@@ -108,4 +107,4 @@ There's a single main paved track ringing the park, wide enough for two-way walk
 - Skip bringing outside food onto the lawns if you see posted restrictions; check the gate noticeboard on arrival.
 - Photography is fine for personal use; this isn't a spot with restricted zones.
 
-Getting there is straightforward by autorickshaw or taxi to Shenoy Nagar; the park address (No 13, Thuru Vi Ka Park Road) is well known to local drivers. Shenoy Nagar Metro station, on the Chennai Metro Blue Line, is the nearest rail link, putting you within a short auto ride of the gate. Pair a morning visit here with breakfast at one of the small idli-and-filter-coffee stalls that dot the surrounding residential streets, a low-key way to see how the neighbourhood actually runs its day.
+Getting there is straightforward by autorickshaw or taxi to Shenoy Nagar; the park address (No 13, Thuru Vi Ka Park Road) is well known to local drivers. Shenoy Nagar Metro station, on the Chennai Metro Blue Line, is the nearest rail link, putting you within a short auto ride of the gate. Pair a morning visit here with a walk through the surrounding residential streets afterward, a low-key way to see how the neighbourhood actually runs its day.

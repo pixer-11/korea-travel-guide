@@ -87,7 +87,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-29'
 ---
-
 ## Why go
 
 Most visitors to Singapore never leave the concrete grid downtown. Bukit Timah breaks that pattern completely.
@@ -107,7 +106,7 @@ Come prepared:
 
 ## What to see and do
 
-The Visitor Centre itself is small but worth ten minutes, dioramas and displays explain the reserve's role as a water catchment and its surprising biodiversity, including long-tailed macaques, flying lemurs, and over 800 plant species packed into a few square kilometres.
+The Visitor Centre itself is small but worth ten minutes, dioramas and displays explain the reserve's role as a water catchment and its surprising biodiversity, including long-tailed macaques, flying lemurs, and a dense variety of plant life packed into a few square kilometres.
 
 From here, trails fan out. The main route climbs steadily to the summit of Bukit Timah Hill, at 163 metres the highest natural point in Singapore. It's a paved path, but the gradient is real. Expect to sweat.
 
@@ -132,5 +131,4 @@ Bukit Timah is popular enough with Singaporean hikers and runners that it never 
 - Carry your rubbish out. Bins are scarce on purpose, part of keeping the reserve genuinely wild.
 - If the summit trail looks packed from the car park, peel off toward Hindhede Quarry instead. It's a five-minute walk from the entrance and far less trafficked.
 
-The mistake most first-timers make is treating this like a quick photo stop. Give the summit hike at least 90 minutes round trip, and wear shoes you don't mind getting muddy, afternoon showers roll in often enough that the paved sections turn slick.
-
+The mistake most first-timers make is treating this like a quick photo stop. Give the summit hike plenty of time round trip, and wear shoes you don't mind getting muddy, afternoon showers roll in often enough that the paved sections turn slick.

@@ -41,7 +41,6 @@ heroImage:
     x: 55
     'y': 50
 ---
-
 ## A hill, a hairpin and four days in October
 
 Turn 1 at Circuit of the Americas is a wall of tarmac. From the start line the cars climb a steep slope into a tight left-hander at the crest. Then they plunge downhill into the esses. On race day that hill is covered in fans on the grass. It's the picture most people have in mind when they think of Austin's Grand Prix.
@@ -83,6 +82,6 @@ The crowd here is pure Texas: cowboy hats in the grandstands, team shirts everyw
 
 ## Making a trip of it
 
-Austin turns the race into a city-wide party. Downtown, Sixth Street and Rainey Street fill with fans in team colours every evening. South Congress Avenue is the place for Texas boots and a view of the Capitol. For a quieter hour, Lady Bird Lake has a shaded trail loop. The Congress Avenue Bridge bat colony flies out at dusk while the bats are still in town each autumn.
+Austin turns the race into a city-wide party. Downtown, Sixth Street and Rainey Street fill with fans in team colours every evening. South Congress Avenue is the place for Texas boots and a view of the Capitol. For a quieter hour, Lady Bird Lake has a shaded trail loop. The Congress Avenue Bridge bat colony flies out at dusk, and in October the bats are still around to see before they head south for winter.
 
 Barbecue is the city's main food event. Brisket queues at the best-known pitmasters can start well before lunch, so many visitors visit those on the day before or after the race weekend. Visitors who fly in for the full four days usually budget at least a week in Austin.

@@ -99,7 +99,7 @@ None of these will fill a whole day on their own, but together they make the par
 
 The park runs 10am to 10pm Monday, Tuesday, Wednesday and Sunday, and stretches to 11pm Thursday through Saturday. Given Abu Dhabi's climate, evenings are the natural time to visit almost any time of year, the museum and library work fine at any hour they're open, but the grounds themselves are far more pleasant after the sun drops.
 
-Measured foot-traffic shows the calmest stretch on weekdays is 10pm to 11pm, right near closing. On weekends, the quieter window falls in the first hour after opening, before the afternoon crowds arrive. If you're weekend-only, that early slot is your best bet for space to yourself.
+Measured foot-traffic shows the calmest stretch on weekdays is 10pm to 11pm, right near closing. On weekends, the quieter window falls in the first hour after opening, before the evening crowds arrive. If you're weekend-only, that early slot is your best bet for space to yourself.
 
 ## How to visit like a local
 

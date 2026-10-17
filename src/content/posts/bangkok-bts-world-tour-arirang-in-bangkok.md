@@ -42,7 +42,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Three nights at Hua Mak
 
 BTS bring their 360° stadium World Tour 'ARIRANG' to Bangkok for three nights. The announced dates are December 3, 5 and 6, 2026, and all three are at Rajamangala National Stadium.
@@ -51,7 +50,7 @@ The tour takes its name from "Arirang", the Korean folk song that is close to an
 
 ## Rajamangala in the round
 
-Rajamangala is Thailand's national stadium, a concrete bowl built for the 1998 Asian Games. It sits inside the Hua Mak Sports Complex on Bangkok's eastern side. It holds roughly 50,000 people, which makes it the city's default venue for the biggest touring acts.
+Rajamangala is Thailand's national stadium, a concrete bowl built for the 1998 Asian Games. It sits inside the Hua Mak Sports Complex on Bangkok's eastern side. It is one of the country's largest stadiums, which makes it the city's default venue for the biggest touring acts.
 
 A 360° stage changes how the bowl works. There is no "back of the stadium" behind the stage, because the stage is in the middle and the stands face it from every side. The upper tiers look down on the floor like a theatre in the round, and side sections are closer to the action than at a standard end-stage concert.
 

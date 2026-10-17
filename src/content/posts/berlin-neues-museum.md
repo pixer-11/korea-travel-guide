@@ -96,7 +96,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-10-04'
 ---
-
 ## A ruin rebuilt around its scars
 
 Look closely at the walls. Friedrich August Stüler designed the Neues Museum in the 1840s, and it opened in the 1850s. Bombing in the Second World War gutted it, and it stood as a shell for decades in East Berlin.
@@ -107,7 +106,7 @@ Allow two to three hours. Spend half an hour of that just on the building itself
 
 ## Nefertiti under the north dome
 
-Most visitors make straight for the bust of Nefertiti. It's a painted limestone portrait of the Egyptian queen, made around 1345 BC in the workshop of the sculptor Thutmose. A German expedition dug it up at Amarna in 1912.
+Most visitors make straight for the bust of Nefertiti. It's a painted limestone portrait of the Egyptian queen.
 
 She stands alone in a domed room on the upper floor, lit softly in a glass case. Photography is not allowed in this room, and guards enforce it. Put your phone away and take your time with the colours. They are startlingly intact, and one eye was never inlaid.
 
@@ -124,7 +123,7 @@ The second collection here is the Museum of Prehistory and Early History, and it
 Look for these as well:
 
 - Heinrich Schliemann's finds from Troy and the story of what was lost after 1945
-- The Neanderthal skull from Le Moustier in France
+- A Neanderthal skull in the prehistoric collection
 - Stone Age tools and grave goods arranged as a walk through time
 
 ## Reaching Bodestraße

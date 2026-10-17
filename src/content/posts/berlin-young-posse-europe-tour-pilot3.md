@@ -42,7 +42,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A K-pop debut tour in a Kreuzberg punk room
 
 Young Posse play Berlin on November 1, 2026. This is part of their first European tour, which runs through London, Paris and Barcelona before it reaches Germany. The tour carries the name PILOT3, and it introduces a new girl group to European audiences at close range.
@@ -55,7 +54,7 @@ The club stands at Oranienstraße 190, on Kreuzberg's busiest nightlife strip. T
 
 - **Kottbusser Tor** (U1, U3, U8): about five minutes west along Oranienstraße
 - **Görlitzer Bahnhof** (U1, U3): about five minutes south via Manteuffelstraße
-- **Night buses** cover the area, and the U-Bahn runs all night on Friday and Saturday nights only
+- **Night buses** cover the area, and weekend night service on the U-Bahn can offer another option for the trip home
 
 The main space is one standing floor. There is no tiered seating, so your sightline depends on where you stand. Shorter fans usually head for the raised edges or the middle rows rather than the crush at the barrier. Without a balcony, the whole crowd shares a single level with the stage.
 

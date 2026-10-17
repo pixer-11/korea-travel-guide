@@ -47,7 +47,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A Scottish ballad singer and a Swedish pop star on one island
 
 December 3, 2026 is the night the Grand Prix music starts. Lewis Capaldi and Zara Larsson open the Abu Dhabi Grand Prix 2026 after-race concert series at Etihad Park, each with a separate set. The venue sits on Yas Island, a short walk from Yas Marina Circuit.
@@ -59,7 +58,7 @@ The pairing is a deliberate contrast. One act built a career on piano-led heartb
 Expect the mood to change between the two sets. Capaldi's best-known songs are the slow ones:
 
 - "Someone You Loved"
-- "Survive", the single that marked his return after a long break from touring
+- "Survive"
 
 Larsson works at a faster tempo. Her catalogue includes "Lush Life", "Never Forget You", "Ain't My Fault" and "Symphony", her hit with Clean Bandit. Neither artist's setlist or running order is part of our verified material, so we have left both out here.
 
@@ -67,7 +66,7 @@ Capaldi is also known for the dry, self-mocking chat between songs. Talking is p
 
 ## Etihad Park, the field beside the track
 
-Etihad Park is Yas Island's open-air concert ground, known as du Arena until it was renamed in 2019. It is a large outdoor space next to Yas Marina Circuit. That location is why it hosts the Grand Prix concerts every year. The circuit's floodlights and the W Abu Dhabi Yas Island hotel, built over the track, are visible from the surrounding roads.
+Etihad Park is Yas Island's open-air concert ground, known as du Arena until it was renamed in 2019. It is a large outdoor space next to Yas Marina Circuit. That location is why it hosts the Grand Prix concerts every year. The circuit's floodlights and the W Abu Dhabi – Yas Island hotel, built over the track, are visible from the surrounding roads.
 
 Being outdoors matters for comfort. Early December evenings in Abu Dhabi are usually mild, cooler than the warm afternoons. Most concertgoers wear light layers and nothing heavier. The ground is mostly open standing room, and food and drink stands run around the edges.
 

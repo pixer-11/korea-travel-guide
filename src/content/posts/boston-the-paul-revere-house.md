@@ -113,7 +113,7 @@ The house is a stop on the Freedom Trail's red brick line, so most visitors arri
 - Also reachable from North Station (Orange/Green Lines and commuter rail), roughly 10 minutes on foot
 - Open daily, 10:00 AM to 5:15 PM, with last entry typically before closing
 
-Because it's one of the most visited historic houses in the city, weekends fill the small rooms fast. The quietest stretch is 10am to 11am on Saturdays and Sundays; after 11am and through mid-afternoon, expect a steady crowd until closer to closing. On weekdays, traffic stays fairly even across the whole day, so there's less need to rush there at opening.
+Because it's one of the most visited historic houses in the city, weekends fill the small rooms fast. The quietest stretch is 10am to 11am on Saturdays and Sundays; after 11am and through mid-afternoon, expect a steady crowd until closer to closing. On weekdays, crowds tend to be lighter throughout the day, so there's less need to rush there at opening.
 
 ## What to look for inside
 

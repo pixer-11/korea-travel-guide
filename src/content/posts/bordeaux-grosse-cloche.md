@@ -81,10 +81,9 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-17'
 ---
-
 Grosse Cloche is a gatehouse, not a church tower, though the bell inside makes people assume otherwise. It straddles Rue Saint-James on two round turrets with pointed slate roofs, all that remains of Bordeaux's medieval city wall. Cars and pedestrians pass directly beneath the arch, which is how most visitors first see it, craning their necks from street level.
 
-The bell itself weighs 7.75 tons and dates to the 18th century, hung in the belfry above what was once a holding cell for juvenile prisoners. It's rung only on special occasions, not daily, so don't expect to hear it on an ordinary visit. The dungeon below adds a darker layer to a monument most people photograph for its facade alone.
+The bell itself hangs in the belfry above what was once a holding cell for juvenile prisoners. It's rung only on special occasions, not daily, so don't expect to hear it on an ordinary visit. The dungeon below adds a darker layer to a monument most people photograph for its facade alone.
 
 ## Getting inside the gatehouse
 

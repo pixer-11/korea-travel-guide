@@ -73,7 +73,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-29'
 ---
-
 ## Why go
 
 MAP is one of the few Indian museums built from scratch for a permanent collection rather than retrofitted into a colonial building. The result feels different the moment you walk in: daylight-filled atrium, clean concrete lines, art hung at a pace that lets you actually look.
@@ -109,9 +108,8 @@ MAP is well-known in Bengaluru now, not a hidden find, so plan around the crowds
 
 - **Book ahead**: tickets are usually sold online through MAP's own site as well as at the door; booking in advance skips the counter queue, especially on weekends.
 - **Payment**: cards and UPI are standard; cash is accepted but rarely necessary.
-- **Timing**: come right at 10am on a weekend, or any weekday afternoon before the after-work crowd. Avoid arriving between noon and closing on Saturday or Sunday, when tour groups and families cluster.
+- **Timing**: come right at 10am on a weekend, or any quiet weekday afternoon. Avoid arriving between noon and closing on Saturday or Sunday, when tour groups and families cluster.
 - **Etiquette**: photography is allowed in most galleries but flash and tripods usually aren't. Check gallery signage rather than assuming.
 - **Local mistake to avoid**: treating it as a quick one-hour stop. The museum is deceptively large across five levels, and rushing the textiles or photography floors is the most common regret visitors mention.
 
 Pair the visit with a stroll through Cubbon Park right next door, or walk over to the Karnataka Chitrakala Parishath if you want a second, more traditional art stop the same day.
-

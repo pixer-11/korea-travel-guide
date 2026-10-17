@@ -128,7 +128,7 @@ If you're arriving by train, Avignon Centre station is about a 15-minute walk, o
 
 ## Buying tickets and moving through the galleries
 
-Ticketing is straightforward: buy at the desk just inside the entrance, no advance booking required for ordinary visits. Check current admission prices before you go, since these do shift year to year, but expect a modest fee well below what the Palais des Papes charges.
+Ticketing is straightforward: buy at the desk just inside the entrance, no advance booking required for ordinary visits. Check current admission prices before you go, since these do shift year to year.
 
 Staff at the desk can point you toward temporary exhibitions, which rotate through a dedicated space and sometimes justify a second visit even if you've done the permanent collection. Photography without flash is typically fine in most rooms, though the odd gallery restricts it, usually the ones lit for fragile works on paper.
 

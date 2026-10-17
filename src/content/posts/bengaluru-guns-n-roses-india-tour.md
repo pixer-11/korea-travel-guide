@@ -39,7 +39,6 @@ heroImage:
     x: 50
     'y': 35
 ---
-
 ## November Rain, in November
 
 The date carries its own joke. Guns N' Roses come to Bengaluru on November 14, 2026, a Saturday, as part of a two-city tour. It is the band's second run of Indian shows. Somewhere in the set, if the piano comes out, a field full of people will sing "November Rain" in the month it is named for.
@@ -106,7 +105,7 @@ Agree on a meeting point with friends before the lights go down; once the crowd 
 
 A Saturday show leaves Sunday for the city. Bengaluru repays a slow morning after a late night.
 
-- **Breakfast at MTR** on Lalbagh Road, a Bengaluru institution since 1924, known for masala dosa and rava idli; queues are common at weekends
+- **Breakfast at MTR** on Lalbagh Road, a Bengaluru institution since 1924; queues are common at weekends
 - **Lalbagh Botanical Garden**, next door, with its glasshouse modelled on London's Crystal Palace
 - **Cubbon Park**, the city's central green lung, flanked by the granite Vidhana Soudha and the red High Court building
 - **Church Street and MG Road**, for bookshops, cafés and microbreweries in the evening

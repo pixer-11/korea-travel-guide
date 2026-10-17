@@ -104,7 +104,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-10-10'
 ---
-
 ## Concrete below, steel above, mesh on top
 
 The wall is taller than the houses behind it. The base is a concrete barrier and the middle is sheet steel. Above that, tall wire mesh climbs well past the roofline of the terraces on the far side. You stand on an ordinary pavement on Cupar Way with a road beside you, and the structure blocks the whole sky to one side.
@@ -140,7 +139,7 @@ Most visitors come on a black taxi political tour. A driver from one community, 
 
 ## Weekday mornings versus the weekend taxi rush
 
-Crowds here follow the tour schedule. On weekdays the wall is quiet right through its open hours, from 7am to 7pm. You'll often have long stretches of it almost to yourself.
+Crowds here follow the tour schedule. On weekdays the wall is quiet throughout its open hours of 7am to 7pm. You'll often have long stretches of it almost to yourself.
 
 Weekends are different. Try not to arrive between 11am and 5pm on Saturday or Sunday. That's when the black taxis pull up in convoys and the groups stack up at the most photographed panels. If a weekend is your only option, go before 11am or in the last couple of hours before 7pm.
 

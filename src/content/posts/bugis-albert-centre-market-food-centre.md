@@ -93,7 +93,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-29'
 ---
-
 ## Why Albert Centre is worth the detour
 
 You smell it before you see the stalls: charcoal smoke, frying garlic, the sweetness of steamed rice cakes. Albert Centre sits a few minutes' walk from Bugis MRT, wedged between the bustle of Bugis Street market and the quieter stretch along Rochor Canal.
@@ -102,7 +101,7 @@ It's not polished. Fluorescent tubes hum over plastic stools, ceiling fans turn 
 
 ## Getting there
 
-The market sits at 270 Queen St, #01-53, an easy 5-8 minute walk from Bugis MRT station (East-West and Downtown lines).
+The market sits near Bugis MRT station (East-West and Downtown lines).
 
 Take Exit C and head north along Queen Street, keeping Bugis Street's covered market on your right. Albert Centre's low-rise block appears just past the junction with Albert Street, easy to spot by the crowds spilling onto the five-foot way at lunchtime.
 
@@ -132,7 +131,7 @@ Portions and prices sit firmly in budget territory. This is everyday hawker eati
 
 The centre keeps unusual hours: 11am to 7:30pm most days, but it's closed entirely on Thursdays. Double-check before you plan a special trip around that day.
 
-Weekends are the crunch point, foot traffic stays heavy from 11am straight through to 7pm, with no real lull. If you want breathing room, a weekday visit right after the 11am opening is your best bet, before the lunch crowd from nearby offices and shoppers arrives.
+Weekends are the crunch point, with foot traffic staying heavy through most of the afternoon. If you want breathing room, a weekday visit right after the 11am opening is your best bet, before the lunch crowd from nearby offices and shoppers arrives.
 
 Because it closes at 7:30pm, this isn't a dinner destination in the way some 24-hour hawker centres are. Treat it as a lunch or early-evening stop instead.
 

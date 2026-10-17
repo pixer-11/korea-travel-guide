@@ -42,10 +42,9 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## The voice that came back
 
-Amaia Montero is back with the band. She sang with the San Sebastián group from its start in 1996 until 2007. In that time they made the four albums that defined Spanish pop for a generation: *Dile al sol*, *El viaje de Copperpot*, *Lo que te conté mientras te hacías la dormida* and *Guapa*.
+Amaia Montero is back with the band. She sang with the San Sebastián group from its start in 1996 until 2007. In that time they made the albums that defined Spanish pop for a generation: *Dile al sol*, *Lo que te conté mientras te hacías la dormida* and *Guapa*.
 
 These Barcelona dates are billed as reunion shows built around the band's most popular songs. In practice that means a stadium of people who learned "La playa", "Cuídate" and "Rosas" as teenagers. Expect a big Spanish pop singalong, the kind where the singer can step back from the mic and the crowd carries the chorus.
 

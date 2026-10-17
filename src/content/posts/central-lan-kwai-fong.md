@@ -77,12 +77,11 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-10-08'
 ---
-
 ## A lane that tilts uphill
 
 Lan Kwai Fong is built on a slope. The short, L-shaped lane climbs from D'Aguilar Street toward Wyndham Street. Its cobbled paving, bar terraces and ground-floor counters open straight onto the pavement, and on busy nights nobody stays behind the doorways.
 
-The Chinese name, 蘭桂坊, pairs orchid (lan) and osmanthus (kwai) with fong, an old word for a lane or square. Take a look at the name before you picture a garden. What you get is neon, stacked signage and a crowd holding drinks in the middle of the road.
+The Chinese name, 蘭桂坊, pairs orchid (lan) and osmanthus (kwai) with fong, an old word for a lane or square. Don't let the name fool you into picturing a garden. What you get is neon, stacked signage and a crowd holding drinks in the middle of the road.
 
 ## Where it sits, and how Sheung Wan fits in
 

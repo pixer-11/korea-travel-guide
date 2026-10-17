@@ -50,7 +50,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A temple between the towers
 
 Yamil Lu'um sits on a low hill above the Caribbean. On either side of it, resort towers line Cancún's Hotel Zone, and the ruin is far smaller than they are. The stone remains date to around the 13th century. Coastal Maya built them here when this sandbar was a trading and navigation route, long before it held hotels.
@@ -69,7 +68,7 @@ Resort properties border the site on both sides. That's why the beach is the usu
 
 ## Small, unhurried and quiet
 
-Don't expect Chichén Itzá. This is a pair of compact limestone structures on a sandy rise, and most people spend 20 to 30 minutes here. What you get is space. Big tour groups skip it, so you often have the stones and the view out over the turquoise water to yourself.
+Don't expect Chichén Itzá. This is a pair of compact limestone structures on a sandy rise, and a visit here is brief rather than a half-day outing. What you get is space. Big tour groups skip it, so you often have the stones and the view out over the turquoise water to yourself.
 
 Morning light falls on the seaward side, and the sand is cooler underfoot. By midday the dune has almost no shade. Bring water and a hat. You won't find a kiosk on the knoll.
 

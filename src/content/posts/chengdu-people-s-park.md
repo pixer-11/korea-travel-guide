@@ -80,7 +80,7 @@ Spring and autumn bring the most comfortable weather for lingering outdoors, sum
 
 Order tea the way regulars do: a server will come by, top up your glass jar with hot water from a long-spouted kettle, and leave you be. There's no rush, tables are held for hours, not turned over.
 
-Payment is simple and cheap, paid to the server rather than up front. Mobile payment via WeChat or Alipay is standard if you have a Chinese payment app set up; otherwise small cash works fine.
+Tea is paid for afterward, to the server rather than up front. Mobile payment via WeChat or Alipay is standard if you have a Chinese payment app set up; otherwise small cash works fine.
 
 The etiquette here is unspoken but easy to pick up: keep your voice down, don't hover over someone else's chess game too closely, and if you want an ear cleaning, just make eye contact with a practitioner as they pass. They'll stop.
 

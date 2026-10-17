@@ -100,7 +100,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-13'
 ---
-
 You've probably already sung the song about it without knowing what you were picturing. "Sur le pont d'Avignon" is one of France's most exported nursery rhymes, and the bridge behind it is a stub of stone arches jutting into the Rhône, stopping abruptly halfway across the river.
 
 That abrupt stop is the whole story. What you're looking at is the survivor of a structure that once had 22 arches and ran the full 900 meters to Villeneuve-lès-Avignon on the opposite bank. Flooding took out sections repeatedly over the centuries; by the 1600s, rebuilding it was abandoned for good, and the Rhône simply kept the remaining four.
@@ -109,7 +108,7 @@ That abrupt stop is the whole story. What you're looking at is the survivor of a
 
 The bridge dates to the 12th century, and legend credits its construction to a shepherd named Bénézet, said to have been moved by a divine vision to build it. Whether or not you buy the miracle, the name stuck: Pont Saint-Bénézet.
 
-It mattered because Avignon mattered. Once the Rhône crossing was in place, the city became the key link between Provence and the Comtat Venaissin, and later the seat of the papacy itself during the 14th-century Avignon Papacy. The bridge and the Palais des Papes rising above it were built for the same reason: to control this stretch of river.
+It mattered because Avignon mattered. The city grew into a major crossing point on the Rhône, and later the seat of the papacy itself during the 14th-century Avignon Papacy. The bridge and the Palais des Papes rising above it were built for the same reason: to control this stretch of river.
 
 Partway along the remaining arches sits a small two-level chapel dedicated to St Nicholas, patron saint of boatmen, a reminder that this was a working river crossing, not a monument.
 

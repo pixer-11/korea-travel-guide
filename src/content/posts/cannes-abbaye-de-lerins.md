@@ -100,7 +100,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-16'
 ---
-
 ## Getting to the island
 
 There's no bridge, no hotel, no cars. Planète Croisières runs the ferry concession to Île Saint-Honorat from Cannes' Vieux Port, a crossing of about 15-20 minutes.
@@ -119,7 +118,7 @@ Expect roughly two to three hours to walk the island's perimeter path and see th
 
 ## Timing your visit
 
-Weekdays between 9am and 10am are the calmest hours on the island, right as the first boats land. Weekends stay busy nearly all day, with the heaviest crowds between 11am and 5pm.
+Weekdays between 9am and 10am are the calmest hours on the island, right as the first boats land. Weekends are busiest between 11am and 5pm, with crowds easing off outside that window.
 
 If you're on a weekend trip, take the earliest ferry you can and head straight for the far end of the island before the tour groups catch up. Midweek, that same early slot gives you the cloister and chapels almost to yourself.
 

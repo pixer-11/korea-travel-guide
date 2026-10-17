@@ -44,7 +44,7 @@ draft: false
 ---
 Four days of show-jumping at a club that has hosted this competition since before most of Barcelona's tourist landmarks existed: that's the pitch for CSIO Barcelona. The 2026 edition, the 114th, was set for October 1 to 4 at the Real Club de Polo de Barcelona, and it carried genuine sporting weight as host of the final of the Longines League of Nations, the team competition that decides which nations' show-jumping squads finish the season on top.
 
-This isn't a festival that popped up to catch tourist traffic. CSIO Barcelona predates the vast majority of what gets marketed as "iconic" in this city, and the format reflects that institutional weight: national teams, Nations Cup-style team rounds, and individual grand prix classes spread across the four days rather than crammed into one evening show.
+This isn't a festival that popped up to catch tourist traffic. CSIO Barcelona predates most of the landmarks that draw visitors to this city, and the format reflects that institutional weight: national teams, Nations Cup-style team rounds, and individual grand prix classes spread across the four days rather than crammed into one evening show.
 
 ## What actually happens across the four days
 
@@ -67,7 +67,7 @@ Grandstand seating faces the main arena, and the grounds usually include hospita
 
 The club is on the Diagonal Mar side of the city, away from the metro-dense center, and no station sits at the door.
 
-- By taxi or rideshare: the simplest option from most central hotels, roughly 15-20 minutes depending on traffic
+- By taxi or rideshare: the simplest option from most central hotels
 - By metro: nearest stations are on Line 4 (Maresme Fòrum) or Line 2, followed by a walk or short bus/taxi hop
 - By car: the club has grounds large enough for spectator parking during major events, though space fills as the day progresses
 
@@ -100,4 +100,4 @@ Locals and regular attendees tend to turn up well before the marquee classes for
 
 The club's location near the coast means a trip out for CSIO Barcelona pairs easily with the Diagonal Mar shopping and beach area, a stretch of the city quite different from the Gothic Quarter or Eixample crowds most visitors see.
 
-A full day at the club means lunch either at the venue's food and hospitality stands or nearby in Diagonal Mar, with the evening back in central Barcelona. Public transport into the city center, run by TMB, keeps later hours on weekend event days than standard daytime service.
+A full day at the club means lunch either at the venue's food and hospitality stands or nearby in Diagonal Mar, with the evening back in central Barcelona. Public transport into the city center, run by TMB, is the simplest way back, though it's worth checking timetables for event days.

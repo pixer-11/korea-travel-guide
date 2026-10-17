@@ -108,7 +108,7 @@ Each escalator section is short, so you can hop off at any landing to explore be
 
 ## When to go
 
-The escalators run 6am to midnight daily, but direction changes through the day. Downhill service runs roughly 6–10am for the morning commute; uphill service takes over from about 10:20am until midnight.
+The escalators run 6am to midnight daily, but direction changes through the day, running downhill in the morning for the commute into Central before switching to uphill for the rest of the day and evening.
 
 Weekends between 10am and 8pm are the busiest stretch, with visitors bunching up at photo spots and entrances. Outside that window, both weekdays and weekends stay noticeably calmer.
 

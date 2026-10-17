@@ -79,7 +79,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-10-07'
 ---
-
 ## A spring the city was built around
 
 Largo do Lilau is small enough to cross in twenty steps. Pastel Portuguese-era houses frame it, and big trees shade the paving. The centrepiece is the Lilau spring, now a fountain set into a wall. For centuries it was one of the main sources of fresh water on the peninsula.
@@ -88,7 +87,7 @@ This was one of the first neighbourhoods Portuguese settlers lived in. The squar
 
 ## The saying behind the water
 
-Macanese Portuguese has a rhyme about this spring: "Quem bebe água do Lilau não esquece Macau." Whoever drinks Lilau water never forgets Macau. The longer version says they'll either marry here or come back. That line is why people stop at the fountain, and it is the square's whole story in one sentence.
+Macanese Portuguese has a rhyme about this spring: whoever drinks Lilau water never forgets Macau. The longer version says they'll either marry here or come back. That line is why people stop at the fountain, and it is the square's whole story in one sentence.
 
 Don't drink from the spout. Treat it as a historic fountain, not a tap, and take the rhyme as the souvenir.
 

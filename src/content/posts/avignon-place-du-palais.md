@@ -86,7 +86,6 @@ faq:
     a: Place de l'Horloge with its cafés and carousel is a five-minute walk away, and the Pont Saint-Bénézet (Pont d'Avignon) and river ramparts are just below the palace on the Rhône side.
 aiGenerated: true
 ---
-
 You come up Rue de la Peyrolerie or Rue Peyrollerie and the street just opens. One moment you're between narrow honey-stone buildings, the next the Palais des Papes fills the whole sky in front of you. That's Place du Palais, not a monument itself, but the stage the monuments stand on.
 
 The square is enormous by old-town standards, a flat expanse of pale stone ringed by the papal palace, the Petit Palais museum, and the Romanesque bulk of Avignon Cathedral with its gilded Virgin glinting on top. In summer the light bounces hard off the limestone by midday; go early and it's soft and low, raking across the palace's turrets and buttresses.
@@ -117,7 +116,7 @@ If you're coming from Avignon TGV station outside the walls, hop the shuttle bus
 
 The square has no opening hours to worry about, which means you can shape your visit around the crowds instead. Midday brings the heaviest footfall, tour groups clustering for palace tickets and photos in front of the facade.
 
-Early morning, before the ticket booths open, the square belongs mostly to locals cutting through on their way to work. After dinner is the other sweet spot: the palace gets floodlit at night, the stone glows amber, and the cafés along the square's edge fill with a slower, evening crowd.
+Early morning, before the tour groups arrive, the square is at its quietest, just a handful of early risers crossing the stone underfoot. After dinner is the other sweet spot: the palace gets floodlit at night, the stone glows amber, and the cafés along the square's edge fill with a slower, evening crowd.
 
 ## How to visit like a local
 

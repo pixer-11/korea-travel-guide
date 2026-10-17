@@ -36,7 +36,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 Bukhara is a city of fired brick. After sunset, floodlights pick out the madrasa portals and the tile panels on the domes, and the lanes between them go a warm orange. The Bukhara Night Race sends runners into that city after dark. Its date is set for November 2026, and it offers four distances: half marathon, 10K, 5K and 2K.
 
 This guide covers what the race is, where it happens and how a trip around it usually works. Start times, the exact route and the registration process come from the race organiser, and none of those details are reproduced here.
@@ -53,7 +52,7 @@ The summary describes the race as running "through the historic city." Bukhara's
 
 The old town looks very different at night than in the daytime tourist hours. These are the landmarks in the historic core:
 
-- **Poi Kalyan ensemble:** the Kalyan Minaret dates from 1127 and stands roughly 46 metres tall, between the Kalyan Mosque and the Mir-i-Arab Madrasa. Its banded brickwork shows clearly under lights.
+- **Poi Kalyan ensemble:** the Kalyan Minaret, which dates from 1127 and stands roughly 46 metres tall, rises between the Kalyan Mosque and the Mir-i-Arab Madrasa. Its banded brickwork shows clearly under lights.
 - **Lyabi-Hauz:** a stone-edged pool from the 16th and 17th centuries, ringed by old mulberry trees and teahouse platforms, with the Nadir Divan-Begi Madrasa on one side.
 - **The trading domes:** brick-domed bazaars such as Toqi Zargaron (the jewellers' dome) built over old crossroads.
 - **The Ark:** the walled fortress of the former emirs, with a long sloping ramp up to its gate.

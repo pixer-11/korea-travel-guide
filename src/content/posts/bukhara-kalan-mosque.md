@@ -58,7 +58,7 @@ draft: false
 
 Kalan Mosque was built in the 1510s under the Shaybanids, replacing an earlier mosque destroyed by Genghis Khan's army. It's one of the largest in Central Asia.
 
-The courtyard is ringed by a colonnade carrying 288 small domes, each one lighting a bay below. At the far end, a tiled iwan portal frames the entrance, its turquoise and cobalt majolica largely original 16th-century work. The blue-ribbed dome over the mihrab chamber is visible from across the old city.
+The courtyard is ringed by a colonnade carrying many small domes, each one lighting a bay below. At the far end, a tiled iwan portal frames the entrance, its turquoise and cobalt majolica largely original 16th-century work. The blue-ribbed dome over the mihrab chamber is visible from across the old city.
 
 ## Po-i-Kalyan, not a standalone stop
 

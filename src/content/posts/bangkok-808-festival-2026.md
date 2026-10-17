@@ -37,7 +37,7 @@ faq:
 aiGenerated: true
 draft: false
 ---
-808 Festival has been Bangkok's reference point for electronic dance music since it first launched, and the 2026 edition was its 13th year. Two nights, one venue, and a lineup built around headliners NGHTMRE and SLANDER, both mainstays of the North American bass and dubstep circuit who've become regular draws on Southeast Asia's festival calendar.
+808 Festival has been Bangkok's reference point for electronic dance music since it first launched, and the 2026 edition marked its 13th year. Two nights, one venue, and a lineup built around headliners NGHTMRE and SLANDER, both mainstays of the North American bass and dubstep circuit who've become regular draws on Southeast Asia's festival calendar.
 
 ## When and where it happens
 

@@ -55,7 +55,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## What's inside
 
 The centerpiece is the actual wreckage of Itavia Flight 870, a DC-9 that fell into the Tyrrhenian Sea on 27 June 1980, killing all 81 aboard.
@@ -71,7 +70,7 @@ This is not a drop-in museum. Opening hours are strictly:
 - Friday, Saturday, Sunday: 5:00 – 8:00 PM
 - Monday through Thursday: closed
 
-Arrive well before 8pm; last entry is typically earlier than closing, so don't plan a 7:45 arrival. The building sits on Via di Saliceto 3/22 in the Bolognina neighborhood, north of Bologna Centrale station. It's a walkable 15-20 minutes from the station, or a short ride on buses serving Via di Saliceto. There's no dedicated visitor parking lot, so street parking or public transit is the practical option.
+Arrive well before 8pm, since the museum may stop admitting visitors before the posted closing time. The building sits on Via di Saliceto 3/22 in the Bolognina neighborhood, north of Bologna Centrale station. It's a walkable 15-20 minutes from the station, or a short ride on buses serving Via di Saliceto. There's no dedicated visitor parking lot, so street parking or public transit is the practical option.
 
 ## Why it rates so highly
 
@@ -88,6 +87,6 @@ This is a memorial to 81 people who died, not a photo backdrop. Treat the darken
 - Keep voices low inside the installation room; the audio loop is meant to be heard clearly.
 - Photography is generally tolerated but flash and posed shots feel out of place here.
 - Read the introductory panels near the entrance before the main hall; they give context the installation itself doesn't spell out.
-- Budget the full 45 minutes; rushing through defeats the point of Boltanski's design.
+- Take your time; rushing through defeats the point of Boltanski's design.
 
 Check the museum's official channels before visiting, since holiday closures or special events can shift the Friday-to-Sunday schedule.

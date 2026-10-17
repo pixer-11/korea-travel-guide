@@ -42,7 +42,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Twenty years, one stadium night
 
 The tour title carries a number. "XX" is the Roman numeral for twenty, and BIGBANG debuted in 2006, two decades before this tour. On November 7, 2026, the group brings the 2026-2027 World Tour [XX : COSMOS] to Rajamangala National Stadium, Thailand's national stadium.
@@ -85,4 +84,4 @@ Seating is sold by zone, from standing areas on the pitch to numbered seats in t
 
 Most out-of-town fans stay somewhere with an easy rail connection rather than beside the stadium. The Airport Rail Link corridor works well: Makkasan connects to MRT Phetchaburi, and Phaya Thai connects to the BTS Sukhumvit Line. Both offer a straight line back towards Ramkhamhaeng after the show.
 
-Around the stadium, the streets by Ramkhamhaeng University are lined with cheap student eateries and night stalls. Fans fill up there before the show on noodles, grilled pork skewers and iced Thai tea. Concert nights also bring food carts along the approach roads. Most fans take a refillable water bottle into the evening heat.
+Around the stadium, the streets by Ramkhamhaeng University are lined with cheap student eateries and night stalls. Fans fill up there before the show. Concert nights also bring food carts along the approach roads. Most fans take a refillable water bottle into the evening heat.

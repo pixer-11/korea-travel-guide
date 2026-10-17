@@ -81,7 +81,7 @@ The reflecting pool out front, the "hauz" in its name, is one of the last functi
 
 ## What you'll actually see
 
-Stand at the pool's edge and look up at the iwan, the recessed portico where the carved columns cluster. The wood is elm, brought from Russia, and the painted patterns were restored using traditional pigment techniques.
+Stand at the pool's edge and look up at the iwan, the recessed portico where the carved columns cluster. The painted patterns were restored using traditional pigment techniques.
 
 Inside, the mihrab wall carries the mosque's finest tilework, turquoise and cobalt girih patterns that catch differently depending on the hour of light.
 

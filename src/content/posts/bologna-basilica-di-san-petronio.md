@@ -96,7 +96,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-16'
 ---
-
 ## What you're looking at
 
 The facade tells its own story before you're even through the door. The lower third is dressed in pink-and-white marble panels around the central portal; above that, raw brick, unplastered, because the money and the political will ran out in the 1500s. It was meant to outsize St Peter's in Rome, and Rome allegedly made sure it never would.
@@ -107,7 +106,7 @@ Step inside and the scale still lands. This is one of the largest brick-built ch
 
 Each of the 22 chapels was funded by a different Bologna guild or noble family, so the art shifts style chapel to chapel: look for the Bolognini Chapel's fresco cycle on heaven and hell, one of the first Italian works to show Islam's prophet in hell, which drew a foiled terror plot in 2002 and explains the metal detectors at the door.
 
-Down the centre of the floor runs the Meridian Line, a 66.8-metre sundial built in 1655 by astronomer Gian Domenico Cassini, once used to calibrate clocks across the city and still functional on sunny days.
+Down the centre of the floor runs the Meridian Line, a long sundial once used to calibrate clocks across the city and still functional on sunny days.
 
 - Main nave and chapels: free entry
 - Small fee for closer chapel access and the rooftop terraces
@@ -118,7 +117,7 @@ Down the centre of the floor runs the Meridian Line, a 66.8-metre sundial built 
 Open every day, 10am to 6pm, no exceptions by day of week. It's consistently one of Bologna's most-visited sights, so the nave fills fast on weekends.
 
 - Quietest: 2pm–3pm, both weekdays and weekends
-- Busiest: weekends, 10am to 6pm straight through
+- Busiest: weekends, all day
 - Best plan: arrive right at 10am opening, or return in the 2pm lull
 
 Give the interior 30 minutes minimum; add 20–30 more if you're doing the terraces or a slow lap of the chapels.
@@ -132,4 +131,3 @@ This is an active parish church, not a museum, so treat it that way. Shoulders a
 - The main entrance queue moves fast since there's no ticket for the nave itself; the wait is really just a security check
 
 Piazza Maggiore right outside is worth ten minutes on its own: Palazzo d'Accursio and the Fountain of Neptune are both a two-minute walk from the basilica's front steps, easy to combine into one loop.
-

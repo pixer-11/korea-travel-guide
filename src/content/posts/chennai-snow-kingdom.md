@@ -120,7 +120,7 @@ Parking is available on-site near VGP Universal Kingdom's lot.
 
 Snow Kingdom is open every day from 10am to 8pm, with no weekly closing day. That consistency makes it easy to slot in, but timing still matters a lot here.
 
-Weekday visits are noticeably calmer across the full 10am–8pm window. Weekends are a different story, crowds build steadily from 12pm, peaking around 7pm, with long queues for jackets, boots, and the sled slope.
+Weekday visits are noticeably calmer across the full 10am–8pm window. Weekends are a different story, crowds build steadily from 12pm, peaking in the afternoon before tapering toward closing time, with long queues for jackets, boots, and the sled slope.
 
 If you can only go on a Saturday or Sunday, arriving right at 10am, before the noon surge, is your best shot at short lines.
 

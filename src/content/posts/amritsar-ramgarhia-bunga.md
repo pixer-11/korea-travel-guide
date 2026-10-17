@@ -42,7 +42,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## What you're looking at
 
 Ramgarhia Bunga is a pair of twin towers built in the late 1700s by Jassa Singh Ramgarhia, one of the Sikh misl (confederacy) chiefs who controlled Amritsar before the Sikh Empire consolidated. "Bunga" means a fortified residential tower, and dozens once ringed the Golden Temple as lookout posts and lodgings for different misls. Most were demolished or absorbed into later construction.
@@ -51,7 +50,7 @@ This is one of the few originals left standing, and its brickwork and slim arche
 
 ## Finding it near Guru Ka Langar
 
-The towers stand near Guru Ka Langar in Katra Ahluwalia, on the northern edge of the Golden Temple complex, inside Amritsar Cantt. From the temple's clock tower entrance, walk out past the langar hall and ask for Ramgarhia Bunga; locals in the lane know it even though it carries no big signage. It's a five to seven minute walk from the langar hall, under twenty minutes from the main sanctum if you're coming straight off the parikrama.
+The towers stand near Guru Ka Langar in Katra Ahluwalia, on the northern edge of the Golden Temple complex, inside Amritsar Cantt. From the temple's clock tower entrance, walk out past the langar hall and ask for Ramgarhia Bunga; locals in the lane know it even though it carries no big signage. It's a short walk from the langar hall, well within reach if you're coming straight off the parikrama.
 
 There's no ticket counter and no fixed visiting hours posted, so treat it as an outdoor architectural stop rather than a monument with a formal circuit. Confirm access at the site itself if you want to go inside, since interior visits aren't always open to the public.
 

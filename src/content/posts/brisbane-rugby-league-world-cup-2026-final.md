@@ -39,7 +39,6 @@ heroImage:
     x: 50
     'y': 50
 ---
-
 ## Two finals, one day at Lang Park
 
 Both world titles get decided on the same afternoon. On 15 November 2026, Suncorp Stadium hosts the men's and women's finals of the 2026 Rugby League World Cup. That day closes a month-long tournament played across Australia, New Zealand and Papua New Guinea.
@@ -64,7 +63,7 @@ November in Brisbane is late spring heading into summer. Afternoon sun on the ex
 
 The stadium sits in Milton, on the western edge of the CBD. Driving is the wrong choice because there is no public parking at the venue. Event-day road closures also make nearby streets slow.
 
-- **Train:** Milton station sits just across from the stadium on the Ipswich/Rosewood and Springfield lines. Roma Street station is about a 15-minute walk away along Caxton Street, on most suburban lines.
+- **Train:** Milton station sits just across from the stadium on the Ipswich/Rosewood and Springfield lines. Roma Street station is about a 15-minute walk away.
 - **Bus:** event shuttles usually run from the CBD and from suburban hubs.
 - **Ticket travel:** Suncorp event tickets have traditionally included Translink public transport on match day. Check the conditions printed on your ticket.
 
