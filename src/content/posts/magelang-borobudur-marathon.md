@@ -18,7 +18,11 @@ heroImage:
   focus:
     x: 20
     'y': 30
-gallery: []
+gallery:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/c/c9/20190415_145403ajk.jpg"
+    credit: "Photo: Alfarezakbar / Wikimedia Commons (CC BY-SA 4.0)"
+    license: "wikimedia"
+    source: "https://commons.wikimedia.org/wiki/File:20190415_145403ajk.jpg"
 tags:
   - magelang
   - event

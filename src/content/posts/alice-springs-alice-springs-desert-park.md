@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 40
     y: 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/405675977_dZjGcrBi6EU7P9Nphm-QaKSnOvmbaLSndl3axEDYNZg.jpg"
+    credit: "Photo: Foursquare user content (Alice Springs Desert Park)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4bac5643f964a520d5f03ae3"
 place:
   id: "ChIJqUmKtkQZMisRuKrA7cK8-F8"
   name: "Alice Springs Desert Park"

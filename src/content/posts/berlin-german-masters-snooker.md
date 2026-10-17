@@ -25,7 +25,11 @@ heroImage:
     'y': 40
     top: 32
     bottom: 47
-gallery: []
+gallery:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Ishpreet_Singh_Chadha_2026_%281%29.jpg/3840px-Ishpreet_Singh_Chadha_2026_%281%29.jpg"
+    credit: "Photo: Andrej146 / Wikimedia Commons (CC0)"
+    license: "wikimedia"
+    source: "https://commons.wikimedia.org/wiki/File:Ishpreet_Singh_Chadha_2026_(1).jpg"
 tags:
   - berlin
   - event

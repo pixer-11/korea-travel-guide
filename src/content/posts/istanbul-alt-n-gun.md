@@ -23,7 +23,11 @@ heroImage:
     'y': 21
     top: 10
     bottom: 32
-gallery: []
+gallery:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Alt%C4%B1n_G%C3%BCn_-_52539769546.jpg/3840px-Alt%C4%B1n_G%C3%BCn_-_52539769546.jpg"
+    credit: "Photo: Eric de Redelijkheid / Wikimedia Commons (CC BY-SA 2.0)"
+    license: "wikimedia"
+    source: "https://commons.wikimedia.org/wiki/File:Alt%C4%B1n_G%C3%BCn_-_52539769546.jpg"
 tags:
   - istanbul
   - event

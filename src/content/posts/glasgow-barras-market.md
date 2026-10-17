@@ -18,7 +18,11 @@ heroImage:
   focus:
     x: 50
     'y': 50
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/82839140_x-hlE5MrjNNwE8KY8QXvSrSlpwJhP9_f_LzYEjLnw04.jpg"
+    credit: "Photo: Foursquare user content (The Barras Market)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4bc9c4f668f976b08dc95d83"
 place:
   id: ChIJv8vYdaVGiEgRTH7W1sZev8c
   name: Barras Market

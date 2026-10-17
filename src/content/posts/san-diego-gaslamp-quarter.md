@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 30
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/475086047_DNWQmk2C5sJ8Hzdm1AGsw0wEunsHCjBbZbnjnmxHPiA.jpg"
+    credit: "Photo: Foursquare user content (The Gaslamp Quarter)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4c37587f93db0f479a971f92"
 place:
   id: "ChIJI2ayXVpT2YARvdU8zl_N0_g"
   name: "Gaslamp Quarter"

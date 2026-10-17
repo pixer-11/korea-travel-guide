@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 30
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/40676664_NpJdV3XTB7g7jR21mZQftL2MYy9mGC7GH_twL5iaP_E.jpg"
+    credit: "Photo: Foursquare user content (Torre del Micalet)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4dbc4036f7b1ab37dd5956e1"
 place:
   id: "ChIJ5X0ZX01PYA0RhTSLgzjjY_M"
   name: "El Micalet"

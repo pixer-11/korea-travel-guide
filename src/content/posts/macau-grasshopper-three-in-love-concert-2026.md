@@ -13,7 +13,11 @@ eventPerformer:
   name: Grasshopper
   kind: group
 eventFactsAsked: true
-gallery: []
+gallery:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Grasshopper_Aug2009_Sydney.jpg/3840px-Grasshopper_Aug2009_Sydney.jpg"
+    credit: "Photo: FeBird Hou / Wikimedia Commons (CC BY 2.0)"
+    license: "wikimedia"
+    source: "https://commons.wikimedia.org/wiki/File:Grasshopper_Aug2009_Sydney.jpg"
 tags:
   - macau
   - event

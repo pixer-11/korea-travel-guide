@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/517485_V5rDYCLZU_DkwJ8lgWUu80699Rtpluit33eeFduBJpI.jpg"
+    credit: "Photo: Foursquare user content (Lanyon Homestead)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4c9eb30cd3c2b60c322ccebc"
 place:
   id: "ChIJxVgzhJ3MF2sRgtgd6Ulljgk"
   name: "Lanyon Homestead"

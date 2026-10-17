@@ -20,7 +20,11 @@ heroImage:
   focus:
     x: 50
     'y': 20
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/43623751_izO0-DEyu_SG9-RrNl42h7Czf3j-PeiC4byrMa-ScvE.jpg"
+    credit: "Photo: Foursquare user content (Grand Ole Opry House)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b058673f964a520f16222e3"
 place:
   id: ChIJVSpg989pZIgRdex84bjnfic
   name: Grand Ole Opry

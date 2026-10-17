@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 50
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/60508393_YtUEbMI1lsEwUPgfvrjL5Y3_3z2D71NlVvrBp0rgS5I.jpg"
+    credit: "Photo: Foursquare user content (Parque Nacional Cabo Pulmo)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/52f92ea2498e48265046596f"
 place:
   id: "ChIJGUmWHuCLpYYRmePIclZDBj8"
   name: "Parque Nacional Cabo Pulmo"

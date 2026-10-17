@@ -23,7 +23,11 @@ heroImage:
     'y': 17
     top: 9
     bottom: 24
-gallery: []
+gallery:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Ragheb_Alama%2C_Merit_Park_Hotel_%26_Casino_%2803%29.jpg/3840px-Ragheb_Alama%2C_Merit_Park_Hotel_%26_Casino_%2803%29.jpg"
+    credit: "Photo: Diana Farroukh / Wikimedia Commons (CC BY 2.0)"
+    license: "wikimedia"
+    source: "https://commons.wikimedia.org/wiki/File:Ragheb_Alama,_Merit_Park_Hotel_%26_Casino_(03).jpg"
 tags:
   - istanbul
   - event

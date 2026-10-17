@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/7199979_Jq4o6OXMM2XYj4YkcytHA8ykG37yWQRUR-Xvs2-NpSw.jpg"
+    credit: "Photo: Foursquare user content (Shree Swaminarayan Temple Cardiff)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4d8b9ee5761e224b7e76c029"
 place:
   id: "ChIJgWK3jqwcbkgRaEEphffBhHo"
   name: "Shree Swaminarayan Temple Cardiff"

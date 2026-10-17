@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/11315050_0zjXFz4u74HYzDCt_i9YXXQFN7Ww5fCVhgI8fM_92EY.jpg"
+    credit: "Photo: Foursquare user content (Roath Lake)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4bd859cb35aad13a4d9e90f3"
 place:
   id: "ChIJnwkZCY0cbkgRKF8VrvCnvmA"
   name: "Roath Park"

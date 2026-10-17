@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 55
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/288044_VGuNJnnxVTwzR21wem2V2M5F12p_3IB3KqcKn3zc0sE.jpg"
+    credit: "Photo: Foursquare user content (Clava Cairns)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4e85f12277c8e4e6e14760eb"
 place:
   id: "ChIJ9_fDfP15j0gRps3pmrcgfiM"
   name: "Clava Cairns"

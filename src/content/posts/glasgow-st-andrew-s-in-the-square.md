@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 40
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/1036998_Qk5eig4IcmLEWe5OUKmnI5zNgBPdzkIvZuzCNMtqBZY.jpg"
+    credit: "Photo: Foursquare user content (St Andrew's in the Square)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4c112133b93cc9b6f9d957e0"
 place:
   id: "ChIJt7a5h6NGiEgRLmBXHYxNKcw"
   name: "St Andrew's in the Square"

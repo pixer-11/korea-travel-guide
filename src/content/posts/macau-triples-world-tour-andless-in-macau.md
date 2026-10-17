@@ -23,7 +23,11 @@ heroImage:
     'y': 22
     top: 20
     bottom: 24
-gallery: []
+gallery:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Ground_Forces_Festival_2025_-_0016.jpg/3840px-Ground_Forces_Festival_2025_-_0016.jpg"
+    credit: "Photo: Spc. Rylen Ciota / Wikimedia Commons (Public domain)"
+    license: "wikimedia"
+    source: "https://commons.wikimedia.org/wiki/File:Ground_Forces_Festival_2025_-_0016.jpg"
 tags:
   - macau
   - event

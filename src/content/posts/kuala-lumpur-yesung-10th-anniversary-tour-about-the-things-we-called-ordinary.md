@@ -23,7 +23,11 @@ heroImage:
     'y': 22
     top: 2
     bottom: 42
-gallery: []
+gallery:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/7/7b/KCON_2015_Super_Junior_DSC03033_%2820357938451%29.jpg"
+    credit: "Photo: mduangdara from Midlothian, VA, United States / Wikimedia Commons (CC BY-SA 2.0)"
+    license: "wikimedia"
+    source: "https://commons.wikimedia.org/wiki/File:KCON_2015_Super_Junior_DSC03033_(20357938451).jpg"
 tags:
   - kuala lumpur
   - event

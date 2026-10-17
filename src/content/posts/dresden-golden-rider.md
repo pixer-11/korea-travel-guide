@@ -18,7 +18,11 @@ heroImage:
   focus:
     x: 44
     'y': 20
-gallery: []
+gallery:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Dresden_Germany_Golden-Rider-03.jpg/3840px-Dresden_Germany_Golden-Rider-03.jpg"
+    credit: "Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)"
+    license: "wikimedia"
+    source: "https://commons.wikimedia.org/wiki/File:Dresden_Germany_Golden-Rider-03.jpg"
 place:
   id: ChIJHSD_PGrPCUcRwauT1i0VenE
   name: Golden Rider

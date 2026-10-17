@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 35
-gallery: []
+gallery:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Kongresshalle_Nuremberg_2012.JPG/3840px-Kongresshalle_Nuremberg_2012.JPG"
+    credit: "Photo: tomasz przechlewski from Sopot, Poland / Wikimedia Commons (CC BY 2.0)"
+    license: "wikimedia"
+    source: "https://commons.wikimedia.org/wiki/File:Kongresshalle_Nuremberg_2012.JPG"
 place:
   id: "ChIJ5UooKthZn0cRtZGkxOUaut4"
   name: "Kongresshalle"
