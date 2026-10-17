@@ -740,9 +740,9 @@
  },
  "alicante-atp-challenger-alicante\u0001https://upload.wikimedia.org/wikipedia/commons/1/1e/Novak_Djokovic_at_the_ATP_Tennis_World_Finals.jpg": {
   "slug": "alicante-atp-challenger-alicante",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Tennis player on hard court at ATP event",
-  "at": "2026-10-16T22:10:52.580Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares no word with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-17T07:53:14.265Z"
  },
  "alicante-atp-challenger-alicante\u0001https://upload.wikimedia.org/wikipedia/commons/3/37/Sydney_International_Tennis_ATP_250_%2846001156835%29.jpg": {
   "slug": "alicante-atp-challenger-alicante",
@@ -15240,9 +15240,9 @@
  },
  "london-young-posse-pilot3-europe-tour\u0001https://upload.wikimedia.org/wikipedia/commons/d/d0/Brett_Young_in_concert_2015.jpg": {
   "slug": "london-young-posse-pilot3-europe-tour",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Performer on stage with guitar, concert setting",
-  "at": "2026-10-16T22:14:23.390Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"young\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-17T07:53:14.424Z"
  },
  "london-young-posse-pilot3-europe-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Young_Fathers_concert_Portland.jpg/3840px-Young_Fathers_concert_Portland.jpg": {
   "slug": "london-young-posse-pilot3-europe-tour",
@@ -18696,9 +18696,9 @@
  },
  "new-delhi-vedanta-delhi-half-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/7/71/Starting_line_of_Vedanta_PCHM_2022.jpg": {
   "slug": "new-delhi-vedanta-delhi-half-marathon",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Large crowd at marathon event, orange shirts visible",
-  "at": "2026-10-16T22:15:08.856Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"vedanta\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-17T07:53:14.576Z"
  },
  "new-delhi-yamuna-ghat\u0001https://upload.wikimedia.org/wikipedia/commons/1/10/Peace_Yamuna_Ghat_%28259710365%29.jpeg": {
   "slug": "new-delhi-yamuna-ghat",
@@ -24687,9 +24687,9 @@
  },
  "siem-reap-jayavarman-vii-festival\u0001https://upload.wikimedia.org/wikipedia/commons/9/96/Jayavarman_VII_High_School.jpg": {
   "slug": "siem-reap-jayavarman-vii-festival",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Angkor complex entrance gate, Siem Reap venue",
-  "at": "2026-10-16T22:16:30.069Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"jayavarman\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-17T07:53:14.724Z"
  },
  "siem-reap-jayavarman-vii-festival\u0001https://upload.wikimedia.org/wikipedia/commons/a/ab/Jayavarman_VII_Guimet_90508_3.jpg": {
   "slug": "siem-reap-jayavarman-vii-festival",

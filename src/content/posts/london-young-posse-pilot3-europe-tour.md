@@ -30,16 +30,6 @@ faq:
     a: Granary Square and Coal Drops Yard are about ten minutes' walk north, with restaurants along Regent's Canal. The British Library, Platform 9¾ in King's Cross station and the Victorian Gothic front of St Pancras are all close by.
 aiGenerated: true
 draft: false
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/d/d0/Brett_Young_in_concert_2015.jpg
-  credit: 'Photo: Max Goldberg / Wikimedia Commons (CC BY 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Brett_Young_in_concert_2015.jpg
-  focus:
-    x: 56
-    'y': 25
-    top: 14
-    bottom: 35
 ---
 
 ## Opening night in a former cinema
