@@ -87,29 +87,30 @@
     "nagoya-asian-games-2026",
     "singapore-wave-to-earth-the-pisces-tour",
     "sai-kung-sai-kung-seafood-street",
-    "adelaide-adelaide-botanic-garden"
+    "adelaide-adelaide-botanic-garden",
+    "singapore-deepavali-diwali-little-india-festival"
   ],
-  "lastSentDay": "2026-10-17",
+  "lastSentDay": "2026-10-18",
   "material": {
-    "day": "2026-10-17",
-    "slug": "adelaide-adelaide-botanic-garden",
-    "title": "Adelaide Botanic Garden: Travel Guide (4.7★)",
+    "day": "2026-10-18",
+    "slug": "singapore-deepavali-diwali-little-india-festival",
+    "title": "Deepavali (Diwali) Little India Festival: Dates, Tickets & Venue (Singapore)",
     "urls": [
-      "https://wanderatlasguides.com/og/social/2026-10-17-adelaide-adelaide-botanic-garden-1.jpg",
-      "https://wanderatlasguides.com/og/social/2026-10-17-adelaide-adelaide-botanic-garden-2.jpg",
-      "https://wanderatlasguides.com/og/social/2026-10-17-adelaide-adelaide-botanic-garden-3.jpg",
-      "https://wanderatlasguides.com/og/social/2026-10-17-adelaide-adelaide-botanic-garden-4.jpg"
+      "https://wanderatlasguides.com/og/social/2026-10-18-singapore-deepavali-diwali-little-india-festival-1.jpg",
+      "https://wanderatlasguides.com/og/social/2026-10-18-singapore-deepavali-diwali-little-india-festival-2.jpg",
+      "https://wanderatlasguides.com/og/social/2026-10-18-singapore-deepavali-diwali-little-india-festival-3.jpg",
+      "https://wanderatlasguides.com/og/social/2026-10-18-singapore-deepavali-diwali-little-india-festival-4.jpg"
     ],
-    "igCaption": "Glasshouses from 1877, a pine once thought extinct, and waterlily leaves wider than a café table — Adelaide Botanic Garden packs a lot into 125 free acres right off North Terrace. Rated 4.7★ by over 10,800 visitors.\n\n#AdelaideBotanicGarden #Adelaide #Australia #travelguide #travel #wanderatlas #TravelGuide #BotanicalGarden #FreeThingsToDo\n📷 Photo: Ashton 29 / Wikimedia Commons (CC BY-SA 4.0)",
-    "thOption": "The Amazon Waterlily Pavilion holds leaves wider than a café table. Would you dare lean in for a closer look?",
-    "link": "https://wanderatlasguides.com/posts/adelaide-adelaide-botanic-garden/"
+    "igCaption": "Ten weeks of golden light, sizzling street food, and bazaar lanes packed with bangles and sweets — Little India's Deepavali season turns Serangoon Road into something else entirely. Walk it after dark and see for yourself.\n\n#Singapore #events #travel #wanderatlas #LittleIndia #Deepavali #Diwali #TravelSingapore #FestivalOfL\n📷 Photo: Public domain: Use these pix for any purpose / Wikimedia Commons (CC BY 2.0)\n📷 Photo: Anil Kaushik / Wikimedia Commons (CC BY-SA 3.0)\n📷 Photo: shankar s. / Wikimedia Commons (CC BY 2.0)",
+    "thOption": "Little India's bazaar lanes move at a shuffle in the last days before Deepavali. Would you brave the full-pressure crush, or wander earlier when you can actually see the stalls?",
+    "link": "https://wanderatlasguides.com/posts/singapore-deepavali-diwali-little-india-festival/"
   },
   "social": {
-    "thDay": "2026-10-17",
-    "thId": "18130041838840770",
+    "thDay": "2026-10-18",
+    "thId": "17961367515239252",
     "igDay": "2026-10-16",
     "igId": "17880194340578486",
-    "thSlug": "adelaide-adelaide-botanic-garden",
+    "thSlug": "singapore-deepavali-diwali-little-india-festival",
     "igSlug": "sai-kung-sai-kung-seafood-street",
     "history": [
       {
@@ -130,7 +131,17 @@
       {
         "day": "2026-10-11",
         "slug": "washington-dc-lincoln-memorial",
-        "thId": "17958120345251632"
+        "thId": "17958120345251632",
+        "insights": {
+          "at": "2026-10-18",
+          "th": {
+            "views": 19,
+            "likes": 0,
+            "replies": 0,
+            "reposts": 0,
+            "quotes": 0
+          }
+        }
       },
       {
         "day": "2026-10-12",
@@ -164,6 +175,11 @@
         "day": "2026-10-17",
         "slug": "adelaide-adelaide-botanic-garden",
         "thId": "18130041838840770"
+      },
+      {
+        "day": "2026-10-18",
+        "slug": "singapore-deepavali-diwali-little-india-festival",
+        "thId": "17961367515239252"
       }
     ]
   }
