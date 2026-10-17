@@ -30,6 +30,14 @@ faq:
     a: Granary Square and Coal Drops Yard are about ten minutes' walk north, with restaurants along Regent's Canal. The British Library, Platform 9¾ in King's Cross station and the Victorian Gothic front of St Pancras are all close by.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/6/68/Scala_london.JPG
+  credit: 'Photo: Grim23 / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Scala_london.JPG
+  focus:
+    x: 50
+    'y': 45
 ---
 
 ## Opening night in a former cinema

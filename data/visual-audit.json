@@ -750,6 +750,12 @@
   "reason": "patrol reject: Visible photographer watermark overlaid on image",
   "at": "2026-10-15T22:35:42.622Z"
  },
+ "alicante-atp-challenger-alicante\u0001https://upload.wikimedia.org/wikipedia/commons/5/50/Roger_Federer_at_the_ATP_Tennis_World_Finals.jpg": {
+  "slug": "alicante-atp-challenger-alicante",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Tennis player on blue court matches ATP Challenger event",
+  "at": "2026-10-17T21:38:01.787Z"
+ },
  "alicante-atp-challenger-alicante\u0001https://upload.wikimedia.org/wikipedia/commons/8/8b/Sydney_International_Tennis_ATP_%2833040174978%29.jpg": {
   "slug": "alicante-atp-challenger-alicante",
   "verdict": "MISMATCH",
@@ -8348,8 +8354,8 @@
  "goyang-charlie-puth-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Charlie_Puth%2C_Regency_Ballroom%2C_San_Francisco_%28Nine_Track_Mind_Tour%29_2.jpg/3840px-Charlie_Puth%2C_Regency_Ballroom%2C_San_Francisco_%28Nine_Track_Mind_Tour%29_2.jpg": {
   "slug": "goyang-charlie-puth-concert",
   "verdict": "MATCH",
-  "reason": "patrol replace: Performer on stage at concert event",
-  "at": "2026-10-15T22:37:01.993Z"
+  "reason": "patrol replace: Performer on stage at concert venue",
+  "at": "2026-10-17T21:38:18.609Z"
  },
  "goyang-charlie-puth-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Charlie_Puth_al_Poble_Espanyol_%2857304%29.jpg/3840px-Charlie_Puth_al_Poble_Espanyol_%2857304%29.jpg": {
   "slug": "goyang-charlie-puth-concert",
@@ -11037,6 +11043,24 @@
   "reason": "patrol reject: Plain blue background, no event or venue shown",
   "at": "2026-10-16T22:12:42.881Z"
  },
+ "istanbul-blue\u0001https://live.staticflickr.com/2455/3589991695_fe630b7548_b.jpg": {
+  "slug": "istanbul-blue",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Abstract blurry bokeh image, not identifiable event or venue",
+  "at": "2026-10-17T21:38:59.289Z"
+ },
+ "istanbul-blue\u0001https://live.staticflickr.com/7281/16646479990_b25d6e079c_b.jpg": {
+  "slug": "istanbul-blue",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Generic sky/cityscape, not related to event or venue",
+  "at": "2026-10-17T21:39:02.646Z"
+ },
+ "istanbul-blue\u0001https://live.staticflickr.com/7349/12262455716_2b950ca362_b.jpg": {
+  "slug": "istanbul-blue",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Abstract pattern texture, not event or venue photo",
+  "at": "2026-10-17T21:38:55.889Z"
+ },
  "istanbul-blue\u0001https://live.staticflickr.com/8090/8514965064_69652b7709_b.jpg": {
   "slug": "istanbul-blue",
   "verdict": "MISMATCH",
@@ -11048,6 +11072,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Satellite illustration, unrelated to event or venue",
   "at": "2026-10-15T00:38:27.166Z"
+ },
+ "istanbul-blue\u0001https://upload.wikimedia.org/wikipedia/commons/6/6c/Antoninow_-_swietokrzyskie_%281%29.JPG": {
+  "slug": "istanbul-blue",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Religious shrine monument, unrelated to event or venue",
+  "at": "2026-10-17T21:38:52.146Z"
  },
  "istanbul-blue\u0001https://upload.wikimedia.org/wikipedia/commons/e/e6/CMR_-_Tour_martello_1.JPG": {
   "slug": "istanbul-blue",
@@ -11909,11 +11939,35 @@
   "reason": "patrol reject: Concert band photo, unrelated to a running festival",
   "at": "2026-10-01T23:28:40.788Z"
  },
+ "jakarta-joyland-festival\u0001https://live.staticflickr.com/4013/4708914100_2b9a3ea17c_b.jpg": {
+  "slug": "jakarta-joyland-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated UK fun park, not Jakarta's Joyland Festival",
+  "at": "2026-10-17T21:39:17.694Z"
+ },
+ "jakarta-joyland-festival\u0001https://live.staticflickr.com/6046/5895401400_997bbf3b4e_b.jpg": {
+  "slug": "jakarta-joyland-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Amusement park ride, unrelated to music festival venue",
+  "at": "2026-10-17T21:39:23.966Z"
+ },
+ "jakarta-joyland-festival\u0001https://live.staticflickr.com/6051/5894910345_833ab0f937_b.jpg": {
+  "slug": "jakarta-joyland-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Theme park roller coaster, unrelated to music festival venue",
+  "at": "2026-10-17T21:39:21.139Z"
+ },
  "jakarta-joyland-festival\u0001https://upload.wikimedia.org/wikipedia/commons/2/2b/Spook_Express_%40_Joyland_Amusements.jpg": {
   "slug": "jakarta-joyland-festival",
   "verdict": "MISMATCH",
   "reason": "patrol reject: Unrelated roller coaster ride, not music festival venue",
   "at": "2026-10-16T22:12:48.147Z"
+ },
+ "jakarta-joyland-festival\u0001https://upload.wikimedia.org/wikipedia/commons/2/2d/Joyland_Lubbock_TX_Misty_Midway_DSCN8453.JPG": {
+  "slug": "jakarta-joyland-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Generic amusement park scene, not Joyland Festival venue",
+  "at": "2026-10-17T21:39:14.326Z"
  },
  "jakarta-joyland-festival\u0001https://upload.wikimedia.org/wikipedia/commons/3/34/.Feast_at_Joyland_Festival%2C_November_2024.jpg": {
   "slug": "jakarta-joyland-festival",
@@ -15033,6 +15087,12 @@
   "reason": "patrol reject: Showroom street motorcycle, not MotoGP race bike or circuit",
   "at": "2026-10-05T21:36:01.326Z"
  },
+ "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia\u0001https://upload.wikimedia.org/wikipedia/commons/9/97/MotoGP_Estoril_Test_Illien.jpg": {
+  "slug": "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated indoor scene, not MotoGP event or venue",
+  "at": "2026-10-17T21:39:47.527Z"
+ },
  "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia\u0001https://upload.wikimedia.org/wikipedia/commons/c/c3/2021_Suzuki_Gixxer_SF_250_100th_Anniversary_MotoGP_Edition_01.jpg": {
   "slug": "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia",
   "verdict": "MISMATCH",
@@ -15048,8 +15108,8 @@
  "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Alvaro_Bautista-motogp-2015.JPG/3840px-Alvaro_Bautista-motogp-2015.JPG": {
   "slug": "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia",
   "verdict": "MATCH",
-  "reason": "patrol replace: MotoGP rider and bike at circuit garage",
-  "at": "2026-10-15T22:38:50.662Z"
+  "reason": "patrol replace: MotoGP rider and bike at racing venue/paddock",
+  "at": "2026-10-17T21:39:50.919Z"
  },
  "lombok-mount-rinjani-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Lembah_Torean_Rinjani.jpg/1920px-Lembah_Torean_Rinjani.jpg": {
   "slug": "lombok-mount-rinjani-national-park",
@@ -15238,6 +15298,12 @@
   "reason": "hand-reviewed: filename shares only \"young\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-16T08:27:58.588Z"
  },
+ "london-young-posse-pilot3-europe-tour\u0001https://upload.wikimedia.org/wikipedia/commons/6/68/Scala_london.JPG": {
+  "slug": "london-young-posse-pilot3-europe-tour",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Scala venue exterior at night, London",
+  "at": "2026-10-17T21:40:12.629Z"
+ },
  "london-young-posse-pilot3-europe-tour\u0001https://upload.wikimedia.org/wikipedia/commons/d/d0/Brett_Young_in_concert_2015.jpg": {
   "slug": "london-young-posse-pilot3-europe-tour",
   "verdict": "MISMATCH",
@@ -15249,6 +15315,12 @@
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: filename shares only \"young\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-15T10:16:51.484Z"
+ },
+ "london-young-posse-pilot3-europe-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Neil_Young_long_view.jpg/3840px-Neil_Young_long_view.jpg": {
+  "slug": "london-young-posse-pilot3-europe-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Outdoor festival stage, not Scala venue or this artist",
+  "at": "2026-10-17T21:40:09.442Z"
  },
  "london-young-posse-pilot3-europe-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Young_Oceans_Live_in_Concert_2018.jpg/3840px-Young_Oceans_Live_in_Concert_2018.jpg": {
   "slug": "london-young-posse-pilot3-europe-tour",
@@ -18700,6 +18772,12 @@
   "reason": "hand-reviewed: filename shares only \"vedanta\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-17T07:53:14.576Z"
  },
+ "new-delhi-vedanta-delhi-half-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Panoramic_Jawaharlal_Nehru_Stadium%2C_New_Delhi.jpg/3840px-Panoramic_Jawaharlal_Nehru_Stadium%2C_New_Delhi.jpg": {
+  "slug": "new-delhi-vedanta-delhi-half-marathon",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Jawaharlal Nehru Stadium, Delhi venue for marathon events",
+  "at": "2026-10-17T21:40:30.459Z"
+ },
  "new-delhi-yamuna-ghat\u0001https://upload.wikimedia.org/wikipedia/commons/1/10/Peace_Yamuna_Ghat_%28259710365%29.jpeg": {
   "slug": "new-delhi-yamuna-ghat",
   "verdict": "MATCH",
@@ -20553,7 +20631,7 @@
   "slug": "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour",
   "verdict": "MATCH",
   "reason": "patrol replace: Performer on stage at concert event",
-  "at": "2026-10-15T22:40:00.320Z"
+  "at": "2026-10-17T21:40:45.710Z"
  },
  "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/5_Seconds_of_Summer_First_USA_Acoustic_IMG_3668_%2814851973025%29.jpg/3840px-5_Seconds_of_Summer_First_USA_Acoustic_IMG_3668_%2814851973025%29.jpg": {
   "slug": "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour",
@@ -24571,6 +24649,12 @@
   "reason": "patrol reject: Togo/Mauritius promotional booth, unrelated to Francophonie Summit Cambodia",
   "at": "2026-10-15T00:41:07.853Z"
  },
+ "siem-reap-angkor-photo-festival\u0001https://live.staticflickr.com/8531/8527109366_cbe77769c9_b.jpg": {
+  "slug": "siem-reap-angkor-photo-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Wedding photoshoot scene, not Angkor Photo Festival",
+  "at": "2026-10-17T21:41:12.457Z"
+ },
  "siem-reap-angkor-photo-festival\u0001https://upload.wikimedia.org/wikipedia/commons/1/1c/2016_Angkor%2C_Angkor_Wat%2C_Brama_Angkor_Wat_%2824%29.jpg": {
   "slug": "siem-reap-angkor-photo-festival",
   "verdict": "MISMATCH",
@@ -24672,6 +24756,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: audit: Watermark visible: 'SEAV SOVANTHA Architectural Photography'",
   "at": "2026-09-10T21:54:16.309Z"
+ },
+ "siem-reap-jayavarman-vii-festival\u0001https://upload.wikimedia.org/wikipedia/commons/3/37/Jayavarman_VII_Angkor_Guimet.jpeg": {
+  "slug": "siem-reap-jayavarman-vii-festival",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Stone head sculpture from Angkor complex, Cambodia",
+  "at": "2026-10-17T21:41:22.300Z"
  },
  "siem-reap-jayavarman-vii-festival\u0001https://upload.wikimedia.org/wikipedia/commons/4/45/Jayavarman_VII_Guimet_90508_1.jpg": {
   "slug": "siem-reap-jayavarman-vii-festival",

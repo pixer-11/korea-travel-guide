@@ -30,6 +30,14 @@ faq:
     a: The Bayon, Ta Prohm (built for his mother) and Preah Khan (built for his father) are all his. The Bayon's bas-reliefs show his battles against the Cham.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/3/37/Jayavarman_VII_Angkor_Guimet.jpeg
+  credit: 'Photo: Wikimedia Commons contributor / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Jayavarman_VII_Angkor_Guimet.jpeg
+  focus:
+    x: 50
+    'y': 45
 ---
 
 ## The king behind the stone faces

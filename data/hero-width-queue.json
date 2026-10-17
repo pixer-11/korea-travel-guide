@@ -2686,7 +2686,11 @@
   "los-cabos-parque-nacional-cabo-pulmo\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Cabo_Pulmo.jpg/1920px-Cabo_Pulmo.jpg": 1920,
   "nuremberg-kongresshalle\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Kongresshalle_Nuremberg.jpg/3840px-Kongresshalle_Nuremberg.jpg": 3840,
   "rothenburg-ob-der-tauber-plonlein\u0001https://upload.wikimedia.org/wikipedia/commons/0/00/Rothenburg_ob_der_Tauber%2C_Pl%C3%B6nlein_-_panoramio.jpg": 2304,
-  "segovia-murallas-de-segovia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Murallas_de_Segovia_en_marzo_de_2022_31.jpg/3840px-Murallas_de_Segovia_en_marzo_de_2022_31.jpg": 3840
+  "segovia-murallas-de-segovia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Murallas_de_Segovia_en_marzo_de_2022_31.jpg/3840px-Murallas_de_Segovia_en_marzo_de_2022_31.jpg": 3840,
+  "alicante-atp-challenger-alicante\u0001https://upload.wikimedia.org/wikipedia/commons/5/50/Roger_Federer_at_the_ATP_Tennis_World_Finals.jpg": 1413,
+  "london-young-posse-pilot3-europe-tour\u0001https://upload.wikimedia.org/wikipedia/commons/6/68/Scala_london.JPG": 1536,
+  "new-delhi-vedanta-delhi-half-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Panoramic_Jawaharlal_Nehru_Stadium%2C_New_Delhi.jpg/3840px-Panoramic_Jawaharlal_Nehru_Stadium%2C_New_Delhi.jpg": 3840,
+  "siem-reap-jayavarman-vii-festival\u0001https://upload.wikimedia.org/wikipedia/commons/3/37/Jayavarman_VII_Angkor_Guimet.jpeg": 3456
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -2859,8 +2863,8 @@
   },
   "mumbai-mokai": {
    "width": 906,
-   "attempts": 6,
-   "nextTry": "2026-10-17",
+   "attempts": 7,
+   "nextTry": "2026-10-24",
    "flaggedAt": "2026-09-03",
    "lastResult": "no-wider"
   },
@@ -2957,8 +2961,8 @@
   },
   "sharjah-arabian-fish-house-restaurant-cafe-al-hirah-beach-sharjah": {
    "width": 1055,
-   "attempts": 3,
-   "nextTry": "2026-10-17",
+   "attempts": 4,
+   "nextTry": "2026-10-24",
    "flaggedAt": "2026-09-19",
    "lastResult": "no-wider"
   },
@@ -2971,8 +2975,8 @@
   },
   "bali-sana-uluwatu": {
    "width": 1080,
-   "attempts": 2,
-   "nextTry": "2026-10-17",
+   "attempts": 3,
+   "nextTry": "2026-10-24",
    "flaggedAt": "2026-09-24",
    "lastResult": "no-wider"
   },
@@ -3181,5 +3185,5 @@
    "flaggedAt": "2026-10-05"
   }
  },
- "updated": "2026-10-17T11:47:48.327Z"
+ "updated": "2026-10-17T21:41:58.237Z"
 }
