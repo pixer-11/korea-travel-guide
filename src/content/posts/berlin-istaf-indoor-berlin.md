@@ -22,11 +22,7 @@ heroImage:
     'y': 15
     top: 10
     bottom: 20
-gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/2019-09-01_ISTAF_2019_%28Martin_Rulsch%29_01.jpg/3840px-2019-09-01_ISTAF_2019_%28Martin_Rulsch%29_01.jpg"
-    credit: "Photo: Martin Rulsch, Wikimedia Commons / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:2019-09-01_ISTAF_2019_(Martin_Rulsch)_01.jpg"
+gallery: []
 tags:
   - berlin
   - event

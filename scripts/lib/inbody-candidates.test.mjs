@@ -104,3 +104,14 @@ test('in-body photos are read into the used set', async () => {
   assert.deepEqual(galleryUrlsOf(raw), ['https://g/2.jpg', 'https://g/3.jpg']);
   assert.deepEqual(galleryUrlsOf('---\ntitle: x\ngallery: []\n---\n'), []);
 });
+
+// Patrol run 10-17: membership of an act's Commons category did not mean the
+// act is in the frame — the file's own name has to say so.
+test('an event second photo must name the act or the event in its file name', async () => {
+  const { namesEventSubject: n } = await import('./inbody-candidates.mjs');
+  assert.equal(n('KCON 2015 Super Junior DSC03033 (20357938451)', { performer: 'Yesung', name: 'YESUNG 10th Anniversary Tour', region: 'Kuala Lumpur' }), false);
+  assert.equal(n('Cosplay Contest at Copenhagen Sakura Festival 2023 02', { performer: 'Hatsune Miku', name: 'Hatsune Miku Concert', region: 'London' }), false);
+  assert.equal(n('DSC 0111 (3760455816)', { name: 'Hong Kong Sixes', region: 'Hong Kong' }), false);
+  assert.equal(n('Jethro Tull - Bouree, concert in Serbia, Belgrade, 2018', { performer: 'Jethro Tull', name: 'Jethro Tull', region: 'Istanbul' }), true);
+  assert.equal(n('2019-09-01 ISTAF 2019 (Martin Rulsch) 01', { name: 'ISTAF Indoor Berlin', region: 'Berlin' }), true);
+});

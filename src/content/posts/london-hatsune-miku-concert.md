@@ -23,11 +23,7 @@ heroImage:
     'y': 18
     top: 13
     bottom: 23
-gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Cosplay_Contest_at_Copenhagen_Sakura_Festival_2023_02.jpg"
-    credit: "Photo: Leif Jørgensen / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Cosplay_Contest_at_Copenhagen_Sakura_Festival_2023_02.jpg"
+gallery: []
 tags:
   - london
   - event

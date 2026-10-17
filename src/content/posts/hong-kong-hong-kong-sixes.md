@@ -20,11 +20,7 @@ heroImage:
   focus:
     x: 50
     y: 40
-gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/d/d9/DSC_0111_%283760455816%29.jpg"
-    credit: "Photo: indri / Wikimedia Commons (CC BY 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:DSC_0111_(3760455816).jpg"
+gallery: []
 tags:
   - hong kong
   - event

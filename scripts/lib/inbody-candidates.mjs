@@ -22,7 +22,7 @@
 //  Both are async generators: the next source is only queried when the caller
 //  asks for another candidate, so a first-try pass costs what it always did.
 // ─────────────────────────────────────────────────────────────
-import { commonsBest, tokens, performerCategoryPhotos, eventCategoryPhotos } from './commons.mjs';
+import { commonsBest, tokens, allWords, keyToken, performerCategoryPhotos, eventCategoryPhotos } from './commons.mjs';
 import { venuePhotoCandidates, DINING_CATEGORY } from './photo-sources.mjs';
 import { isUsedImage, markUsedImage } from './hero-url.mjs';
 
@@ -102,19 +102,36 @@ export async function* venueInBodyCandidates({ name, region, country = '', lat =
   }
 }
 
+/** Does a Commons file title name the act (every word) or the event's key word? */
+export function namesEventSubject(title = '', { performer = '', name = '', region = '' } = {}) {
+  if (/\bcosplay/i.test(title)) return false;
+  const t = new Set(allWords(title));
+  const act = allWords(performer);
+  const key = keyToken(name, region);
+  return (act.length > 0 && act.every((w) => t.has(w))) || (Boolean(key) && t.has(key));
+}
+
 /**
  * Event candidates: the performer's own Commons category, then the event's
  * (past editions, newest first). Membership is the identity — the same proof
  * the event hero uses — so no text-search namesakes enter.
+ *
+ * Membership was not enough for a SECOND photo (patrol run, 2026-10-17): a
+ * Yesung guide got a Super Junior frame with two other members in it (filed
+ * under "Yesung in 2015"), a Hatsune Miku concert got a cosplay contest in
+ * Copenhagen ("Cosplay of Hatsune Miku"). Vision cannot tell people apart, so
+ * the file's own NAME must say who or what it shows: every word of the act,
+ * or the event's key word. A hero with no doubt beats a pair with one.
  */
 export async function* eventInBodyCandidates({ name, region, performer = '', heroUrl }, why = []) {
   const used = new Set();
   markUsedImage(used, heroUrl);
   let n = 0;
   const sources = [
-    ['performer category', () => (performer ? performerCategoryPhotos(performer, { limit: 6 }) : [])],
-    ['event category', () => eventCategoryPhotos(name, { region, limit: 6 })],
+    ['performer category', () => (performer ? performerCategoryPhotos(performer, { limit: 12 }) : [])],
+    ['event category', () => eventCategoryPhotos(name, { region, limit: 12 })],
   ];
+  const namesIt = (c) => namesEventSubject(c.title, { performer, name, region });
   for (const [label, load] of sources) {
     let list = [];
     try { list = await load(); } catch (e) { why.push(`${label} error: ${String(e.message).slice(0, 40)}`); continue; }
@@ -122,6 +139,7 @@ export async function* eventInBodyCandidates({ name, region, performer = '', her
     for (const c of list) {
       if (n >= EVENT_TRIES) return;
       if (!c.url || isUsedImage(used, c.url)) continue;
+      if (!namesIt(c)) continue; // free: no vision call for a file that does not name its subject
       markUsedImage(used, c.url);
       n++; got++;
       yield { ...c, license: c.license || 'wikimedia' };

@@ -19,5 +19,12 @@ test('eventCategoryFits 역방향 (코덱스 10-09 재현 3건)', async () => {
   assert.equal(eventCategoryFits('UK Grand Prix', 'US Grand Prix', 'Austin'), false, 'two-letter words decide');
   assert.equal(eventCategoryFits('Marathons in Bangkok', 'Bangkok Marathon', 'Bangkok'), false, 'a plural kind is a collection');
   assert.ok(eventCategoryFits('Bangkok Marathon', 'Bangkok Marathon', 'Bangkok'));
+  // 10-17: the city's own category, when the city is also in the event's name.
+  assert.equal(eventCategoryFits('Hong Kong', 'Hong Kong Sixes', 'Hong Kong'), false, 'Category:Hong Kong is the city, not the Sixes');
+  assert.equal(eventCategoryFits('Bangkok', 'Bangkok Marathon', 'Bangkok'), false);
+  // 10-17: a sibling edition — the stadium ISTAF went into the ISTAF Indoor guide.
+  assert.equal(eventCategoryFits('ISTAF 2019', 'ISTAF Indoor Berlin', 'Berlin'), false, 'indoor is a different meet');
+  assert.ok(eventCategoryFits('ISTAF Indoor 2024', 'ISTAF Indoor Berlin', 'Berlin'));
+  assert.equal(eventCategoryFits('Bangkok Marathon', 'Bangkok Half Marathon', 'Bangkok'), false);
   assert.ok(eventCategoryFits('Maratona internazionale di Palermo', 'Palermo Marathon (Maratona Internazionale di Palermo)', 'Palermo'));
 });

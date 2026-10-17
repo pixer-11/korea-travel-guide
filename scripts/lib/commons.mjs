@@ -435,6 +435,7 @@ async function commonsJson(url) {
 const EVENT_KIND = new Set(['music', 'festival', 'fest', 'marathon', 'maratona', 'half', 'race', 'run', 'grand', 'prix',
   'concert', 'tour', 'world', 'international', 'internazionale', 'game', 'cup', 'championship', 'fair', 'show', 'live',
   'open', 'master', 'super', 'night', 'event', 'parade', 'carnival', 'expo', 'fan', 'meeting', 'art', 'film', 'day', 'week', 'light']);
+const EDITION_QUALIFIER = new Set(['indoor', 'outdoor', 'women', 'womens', 'junior', 'youth', 'half', 'kids', 'para', 'paralympic', 'senior']);
 const CAT_GLUE = new Set(['the', 'of', 'in', 'and', 'at', 'de', 'di', 'la', 'le', 'del', 'du', 'des', 'el']);
 export function eventCategoryFits(title, name, region = '') {
   const strip = (s) => String(s).replace(/\b(?:19|20)\d{2}\b/g, ' ').replace(/&/g, ' and ');
@@ -444,12 +445,21 @@ export function eventCategoryFits(title, name, region = '') {
   const own = new Set(allWords(strip(name)).map(singular));
   const place = new Set(allWords(region).map(singular));
   if (!words.length || !words.every((w) => own.has(w) || place.has(w))) return false;
+  // A qualifier in the event's name that the category lacks makes it a sibling
+  // event: "ISTAF 2019" (the stadium meet) fitted ISTAF Indoor, and its photo
+  // went into the indoor guide (2026-10-17). Same for a half marathon, a
+  // women's or junior edition.
+  if ([...own].some((w) => EDITION_QUALIFIER.has(w) && !words.includes(w))) return false;
   // One word that is this event's own name (Lucca "comics", "United States", "Deepavali").
   const distinctive = words.some((w) => own.has(w) && !place.has(w) && !EVENT_KIND.has(w));
   if (distinctive) return true;
   // Otherwise only the city can name it (Dubai Sevens, Maratona di Palermo) — and not
   // with a plural kind word, which makes it a collection: "Marathons in Bangkok".
   if (raw.some((w, i) => w !== words[i] && EVENT_KIND.has(words[i]))) return false;
+  // ...and the city alone is the city: "Category:Hong Kong" fitted the Hong Kong
+  // Sixes and handed a harbour skyline to a cricket guide (2026-10-17), and
+  // "Bangkok" fitted the Bangkok Marathon. The kind word must be there too.
+  if (words.every((w) => place.has(w))) return false;
   return words.some((w) => place.has(w) && own.has(w));
 }
 export async function eventCategoryPhotos(name, { region = '', limit = 8 } = {}) {
