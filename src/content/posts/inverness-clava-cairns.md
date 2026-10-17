@@ -1,60 +1,87 @@
 ---
-title: "Clava Cairns: Inverness Travel Guide (4.7★)"
-description: "Clava Cairns is a Bronze Age burial site about 6 miles east of Inverness, a short drive from Culloden Battlefield. 4.7★ (5,287 reviews) — what visitors say, hours, and tips."
-country: "United Kingdom"
-region: "Inverness"
-category: "attraction"
-pubDate: "2026-10-17T07:46:18.017Z"
+title: 'Clava Cairns: Inverness Travel Guide (4.7★)'
+description: >-
+  Clava Cairns is a Bronze Age burial site about 6 miles east of Inverness, a
+  short drive from Culloden Battlefield. 4.7★ (5,290 reviews) — what visitors
+  say, hours, and tips.
+country: United Kingdom
+region: Inverness
+category: attraction
+pubDate: '2026-10-17T07:46:18.017Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/1/1b/Clava_Cairns_%26_Standing_Stones_Culloden_Strathnairn_Inverness_Scotland_%282705317038%29.jpg"
-  credit: "Photo: Dave Conner from Inverness, Scotland / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Clava_Cairns_%26_Standing_Stones_Culloden_Strathnairn_Inverness_Scotland_(2705317038).jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/1/1b/Clava_Cairns_%26_Standing_Stones_Culloden_Strathnairn_Inverness_Scotland_%282705317038%29.jpg
+  credit: 'Photo: Dave Conner from Inverness, Scotland / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Clava_Cairns_%26_Standing_Stones_Culloden_Strathnairn_Inverness_Scotland_(2705317038).jpg
+  via: act
   focus:
     x: 50
-    y: 55
+    'y': 55
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/288044_VGuNJnnxVTwzR21wem2V2M5F12p_3IB3KqcKn3zc0sE.jpg"
-    credit: "Photo: Foursquare user content (Clava Cairns)"
-    license: "foursquare"
-    source: "https://foursquare.com/v/4e85f12277c8e4e6e14760eb"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/288044_VGuNJnnxVTwzR21wem2V2M5F12p_3IB3KqcKn3zc0sE.jpg
+    credit: 'Photo: Foursquare user content (Clava Cairns)'
+    license: foursquare
+    source: 'https://foursquare.com/v/4e85f12277c8e4e6e14760eb'
 place:
-  id: "ChIJ9_fDfP15j0gRps3pmrcgfiM"
-  name: "Clava Cairns"
-  address: "Inverness IV2 5EU, UK"
+  id: ChIJ9_fDfP15j0gRps3pmrcgfiM
+  name: Clava Cairns
+  address: 'Inverness IV2 5EU, UK'
   rating: 4.7
-  userRatingsTotal: 5287
-  googleMapsUrl: "https://maps.google.com/?cid=2557517611343138214&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 5290
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2557517611343138214&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 57.473498199999995
   lng: -4.0731674
-  phone: "+44 1667 460232"
+  phone: +44 1667 460232
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "inverness"
-  - "historic site"
-quickAnswer: "Clava Cairns is a Bronze Age burial site about 6 miles east of Inverness, a short drive from Culloden Battlefield. It has three stone cairns, each ringed by standing stones, and it is currently listed as open 24 hours. Plan on 45 minutes to an hour, and go early or late in the day if you want to beat the tour coaches."
+  - inverness
+  - historic site
+quickAnswer: >-
+  Clava Cairns is a Bronze Age burial site about 6 miles east of Inverness, a
+  short drive from Culloden Battlefield. It has three stone cairns, each ringed
+  by standing stones, and it is currently listed as open 24 hours. Plan on 45
+  minutes to an hour, and go early or late in the day if you want to beat the
+  tour coaches.
 faq:
-  - q: "How do I get to Clava Cairns from Inverness without a car?"
-    a: "There is no direct bus. You can take a bus to Culloden and then walk about 20–30 minutes down narrow country lanes with no pavements, or get a taxi. Many Highland and Outlander day tours from Inverness also stop here."
-  - q: "Is Clava Cairns open at any time of day?"
-    a: "Google currently lists it as open 24 hours, and there is no gate. Opening arrangements can change, so check Historic Environment Scotland's official site before an early-morning or evening visit."
-  - q: "How long do I need at Clava Cairns?"
-    a: "Most visitors spend 45 minutes to an hour walking around the three cairns and reading the panels. Add an hour or two if you're also visiting Culloden Battlefield, about a mile away."
-  - q: "Are there toilets or a café at Clava Cairns?"
-    a: "No. There is just a small parking area. The closest facilities are at the Culloden Battlefield visitor centre."
-  - q: "What is the connection between Clava Cairns and Outlander?"
-    a: "Stone circles like Clava's are widely seen as the inspiration for the Craigh na Dun stones in Outlander. That is one reason the site gets busy with tour groups in the middle of the day."
+  - q: How do I get to Clava Cairns from Inverness without a car?
+    a: >-
+      There is no direct bus. You can take a bus to Culloden and then walk about
+      20–30 minutes down narrow country lanes with no pavements, or get a taxi.
+      Many Highland and Outlander day tours from Inverness also stop here.
+  - q: Is Clava Cairns open at any time of day?
+    a: >-
+      Google currently lists it as open 24 hours, and there is no gate. Opening
+      arrangements can change, so check Historic Environment Scotland's official
+      site before an early-morning or evening visit.
+  - q: How long do I need at Clava Cairns?
+    a: >-
+      Most visitors spend 45 minutes to an hour walking around the three cairns
+      and reading the panels. Add an hour or two if you're also visiting
+      Culloden Battlefield, about a mile away.
+  - q: Are there toilets or a café at Clava Cairns?
+    a: >-
+      No. There is just a small parking area. The closest facilities are at the
+      Culloden Battlefield visitor centre.
+  - q: What is the connection between Clava Cairns and Outlander?
+    a: >-
+      Stone circles like Clava's are widely seen as the inspiration for the
+      Craigh na Dun stones in Outlander. That is one reason the site gets busy
+      with tour groups in the middle of the day.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-17'
 ---
 
 ## Three cairns under the beech trees

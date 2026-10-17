@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: osaka-shitenno-ji
-srcHash: 'f0486287a522'
+srcHash: '59fa074facbc'
 title: 'Shitennō-ji: Guía de viaje de Osaka (4,4★)'
-description: 'Shitennō-ji, en el distrito de Tennoji, es uno de los templos más antiguos administrados oficialmente en Japón: fue fundado en 593 por el príncipe Shōtoku y conserva una pagoda de cinco pisos reconstruida a la que aún se puede subir. 4,4★ (13.117 reseñas): qué dicen los visitantes, horarios y consejos.'
+description: 'Shitennō-ji, en el distrito de Tennoji, es uno de los templos más antiguos administrados oficialmente en Japón: fue fundado en 593 por el príncipe Shōtoku y conserva una pagoda de cinco pisos reconstruida a la que aún se puede subir. 4,4★ (13.302 reseñas): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: 'Shitennō-ji, en el distrito de Tennoji, es uno de los templos más antiguos administrados oficialmente en Japón: fue fundado en 593 por el príncipe Shōtoku y conserva una pagoda de cinco pisos reconstruida a la que aún se puede subir. Abre todos los días de 8:30 a 16:00, recibe bastante afluencia y el momento más tranquilo es entre semana, de 9:00 a 10:00; los fines de semana se llena de 10:00 a 15:00. Conviene reservar entre 45 y 60 minutos para el recinto central y los estanques de tortugas.'
 faq:
   - q: ¿Cómo se llega a Shitennō-ji?

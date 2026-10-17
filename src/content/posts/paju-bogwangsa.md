@@ -1,41 +1,45 @@
 ---
-title: "Bogwangsa: Paju Travel Guide (4.5★)"
-description: "Bogwangsa is a working Buddhist temple in Gwangtan-myeon, Paju, tucked against the forested slopes of Mount Bobawsan north of Seoul. 4.5★ (1,451 reviews) — what visitors say, hours, and tips."
-country: "South Korea"
-region: "Paju"
-category: "attraction"
-pubDate: "2026-09-20T07:40:03.530Z"
+title: 'Bogwangsa: Paju Travel Guide (4.5★)'
+description: >-
+  Bogwangsa is a working Buddhist temple in Gwangtan-myeon, Paju, tucked against
+  the forested slopes of Mount Bobawsan north of Seoul. 4.5★ (1,458 reviews) —
+  what visitors say, hours, and tips.
+country: South Korea
+region: Paju
+category: attraction
+pubDate: '2026-09-20T07:40:03.530Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bogwangsa%2C_Paju.jpg"
-  credit: "Photo: Jjw / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Bogwangsa,_Paju.jpg"
-  via: "act"
+  url: 'https://upload.wikimedia.org/wikipedia/commons/5/5b/Bogwangsa%2C_Paju.jpg'
+  credit: 'Photo: Jjw / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Bogwangsa,_Paju.jpg'
+  via: act
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJ1x28eiWVfDURrClzTeb2tU0"
-  name: "Bogwangsa"
-  address: "87 Bogwang-ro, Gwangtan-myeon, Paju-si, Gyeonggi-do, South Korea"
+  id: ChIJ1x28eiWVfDURrClzTeb2tU0
+  name: Bogwangsa
+  address: '87 Bogwang-ro, Gwangtan-myeon, Paju-si, Gyeonggi-do, South Korea'
   rating: 4.5
-  userRatingsTotal: 1451
-  googleMapsUrl: "https://maps.google.com/?cid=5599653180707383724&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1458
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5599653180707383724&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 37.75306570000001
   lng: 126.91977689999997
-  phone: "+82 31-948-7700"
+  phone: +82 31-948-7700
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-09-20
+    updated: 2026-09-20T00:00:00.000Z
     weekendBusy:
       - 9
       - 10
@@ -46,24 +50,43 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_305574326265547a6c43725255446656576965383278314a496843"
+    venueId: ven_305574326265547a6c43725255446656576965383278314a496843
 tags:
-  - "paju"
-  - "historic site"
-quickAnswer: "Bogwangsa is a working Buddhist temple in Gwangtan-myeon, Paju, tucked against the forested slopes of Mount Bobawsan north of Seoul. It's open 24 hours every day, though most visitors come between 9am and 6pm, especially on weekends, so an early morning or late afternoon visit gives you the grounds with far fewer people. There's no entry fee, and you'll want 45 minutes to an hour to see the halls and walk the courtyard."
+  - paju
+  - historic site
+quickAnswer: >-
+  Bogwangsa is a working Buddhist temple in Gwangtan-myeon, Paju, tucked against
+  the forested slopes of Mount Bobawsan north of Seoul. It's open 24 hours every
+  day, though most visitors come between 9am and 6pm, especially on weekends, so
+  an early morning or late afternoon visit gives you the grounds with far fewer
+  people. There's no entry fee, and you'll want 45 minutes to an hour to see the
+  halls and walk the courtyard.
 faq:
-  - q: "Is there an entrance fee for Bogwangsa?"
-    a: "No, there's no admission charge to enter the temple grounds; donations are welcome but not required."
-  - q: "What are Bogwangsa's opening hours?"
-    a: "The temple grounds are open 24 hours every day, though most halls have their own quieter rhythms tied to morning and evening chanting."
-  - q: "When is Bogwangsa least crowded?"
-    a: "Weekends from 9am to 6pm are the busiest window. Weekday mornings or early evenings give you a much quieter courtyard."
-  - q: "How do I get to Bogwangsa from Seoul?"
-    a: "Driving takes roughly 40 to 50 minutes depending on traffic, with parking near the temple entrance. Public transit requires a bus from central Paju plus a walk, so allow extra time."
-  - q: "How long should I plan for a visit?"
-    a: "Most visitors spend 45 minutes to an hour seeing the main halls and courtyard; add 20 to 30 minutes if you walk the trail up the adjacent hillside."
+  - q: Is there an entrance fee for Bogwangsa?
+    a: >-
+      No, there's no admission charge to enter the temple grounds; donations are
+      welcome but not required.
+  - q: What are Bogwangsa's opening hours?
+    a: >-
+      The temple grounds are open 24 hours every day, though most halls have
+      their own quieter rhythms tied to morning and evening chanting.
+  - q: When is Bogwangsa least crowded?
+    a: >-
+      Weekends from 9am to 6pm are the busiest window. Weekday mornings or early
+      evenings give you a much quieter courtyard.
+  - q: How do I get to Bogwangsa from Seoul?
+    a: >-
+      Driving takes roughly 40 to 50 minutes depending on traffic, with parking
+      near the temple entrance. Public transit requires a bus from central Paju
+      plus a walk, so allow extra time.
+  - q: How long should I plan for a visit?
+    a: >-
+      Most visitors spend 45 minutes to an hour seeing the main halls and
+      courtyard; add 20 to 30 minutes if you walk the trail up the adjacent
+      hillside.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-17'
 ---
 The road into Bogwangsa narrows to a single lane through pine forest, and you park before you see any part of the temple itself. That's deliberate: the walk in, past a stream and a stone bridge, is part of how the place is meant to be approached, not an inconvenience to rush through.
 

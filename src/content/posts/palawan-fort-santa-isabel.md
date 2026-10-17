@@ -1,59 +1,85 @@
 ---
-title: "Fort Santa Isabel: Palawan Travel Guide (4.4★)"
-description: "Fort Santa Isabel sits on a small headland at the edge of Taytay town, on Palawan's northern coast, open daily 8:00 AM–4:30 PM. 4.4★ (454 reviews) — what visitors say, hours, and tips."
-country: "Philippines"
-region: "Palawan"
-category: "attraction"
-pubDate: "2026-08-19T09:35:35.572Z"
+title: 'Fort Santa Isabel: Palawan Travel Guide (4.4★)'
+description: >-
+  Fort Santa Isabel sits on a small headland at the edge of Taytay town, on
+  Palawan's northern coast, open daily 8:00 AM–4:30 PM. 4.4★ (456 reviews) —
+  what visitors say, hours, and tips.
+country: Philippines
+region: Palawan
+category: attraction
+pubDate: '2026-08-19T09:35:35.572Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Fuerza_de_Sta._Isabel_Taytay.jpg/1920px-Fuerza_de_Sta._Isabel_Taytay.jpg"
-  credit: "Photo: Christian Pirkl / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Fuerza_de_Sta._Isabel_Taytay.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Fuerza_de_Sta._Isabel_Taytay.jpg/1920px-Fuerza_de_Sta._Isabel_Taytay.jpg
+  credit: 'Photo: Christian Pirkl / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Fuerza_de_Sta._Isabel_Taytay.jpg'
   focus:
     x: 45
-    y: 55
+    'y': 55
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Taytay_Fort%2C_Fort_of_Santa_Isabel%2C_Palawan%2C_Philippines.jpg/3840px-Taytay_Fort%2C_Fort_of_Santa_Isabel%2C_Palawan%2C_Philippines.jpg"
-    credit: "Photo: Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Taytay_Fort,_Fort_of_Santa_Isabel,_Palawan,_Philippines.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Taytay_Fort%2C_Fort_of_Santa_Isabel%2C_Palawan%2C_Philippines.jpg/3840px-Taytay_Fort%2C_Fort_of_Santa_Isabel%2C_Palawan%2C_Philippines.jpg
+    credit: 'Photo: Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Taytay_Fort,_Fort_of_Santa_Isabel,_Palawan,_Philippines.jpg
 place:
-  id: "ChIJbczOvoaMtjMRBQnNHt5WIUk"
-  name: "Fort Santa Isabel"
-  address: "RGH9+93M, Taytay, Palawan, Philippines"
+  id: ChIJbczOvoaMtjMRBQnNHt5WIUk
+  name: Fort Santa Isabel
+  address: 'RGH9+93M, Taytay, Palawan, Philippines'
   rating: 4.4
-  userRatingsTotal: 454
-  googleMapsUrl: "https://maps.google.com/?cid=5269588550999673093&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 456
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5269588550999673093&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 10.8284556
   lng: 119.51767219999999
-  phone: "+63 930 241 8588"
+  phone: +63 930 241 8588
   openingHours:
-    - "Monday: 8:00 AM – 4:30 PM"
-    - "Tuesday: 8:00 AM – 4:30 PM"
-    - "Wednesday: 8:00 AM – 4:30 PM"
-    - "Thursday: 8:00 AM – 4:30 PM"
-    - "Friday: 8:00 AM – 4:30 PM"
-    - "Saturday: 8:00 AM – 4:30 PM"
-    - "Sunday: 8:00 AM – 4:30 PM"
+    - 'Monday: 8:00 AM – 4:30 PM'
+    - 'Tuesday: 8:00 AM – 4:30 PM'
+    - 'Wednesday: 8:00 AM – 4:30 PM'
+    - 'Thursday: 8:00 AM – 4:30 PM'
+    - 'Friday: 8:00 AM – 4:30 PM'
+    - 'Saturday: 8:00 AM – 4:30 PM'
+    - 'Sunday: 8:00 AM – 4:30 PM'
 tags:
-  - "palawan"
-  - "historic site"
-quickAnswer: "Fort Santa Isabel sits on a small headland at the edge of Taytay town, on Palawan's northern coast, open daily 8:00 AM–4:30 PM. It's a modest 17th-century Spanish stone fort with sweeping views over Taytay Bay — worth 30-45 minutes, best visited in the cooler morning light before you continue toward El Nido. It's still under-the-radar, so you'll likely have the ramparts largely to yourself."
+  - palawan
+  - historic site
+quickAnswer: >-
+  Fort Santa Isabel sits on a small headland at the edge of Taytay town, on
+  Palawan's northern coast, open daily 8:00 AM–4:30 PM. It's a modest
+  17th-century Spanish stone fort with sweeping views over Taytay Bay — worth
+  30-45 minutes, best visited in the cooler morning light before you continue
+  toward El Nido. It's still under-the-radar, so you'll likely have the ramparts
+  largely to yourself.
 faq:
-  - q: "How much does it cost to enter Fort Santa Isabel?"
-    a: "There's typically a small donation-based entrance fee collected at the gate rather than a fixed ticket price. Bring cash in small peso bills."
-  - q: "How long should I spend at the fort?"
-    a: "Most visitors spend 30-45 minutes exploring the walls, chapel, and cannons and taking in the bay view. It's compact, not a half-day attraction."
-  - q: "What's the best time of day to visit?"
-    a: "Go in the morning shortly after the 8:00 AM opening for cooler temperatures and softer light, or in the late afternoon before the 4:30 PM close for sunset views over Taytay Bay."
-  - q: "How do I get to Fort Santa Isabel from El Nido or Puerto Princesa?"
-    a: "Take a van or bus along the Puerto Princesa–El Nido highway to Taytay town — about an hour from El Nido or 2.5-3 hours from Puerto Princesa — then a short tricycle ride or 15-minute walk to the fort."
-  - q: "Is Fort Santa Isabel crowded?"
-    a: "No, it remains an under-the-radar stop that most travelers skip on the way to El Nido, so you'll usually have the grounds largely to yourself."
+  - q: How much does it cost to enter Fort Santa Isabel?
+    a: >-
+      There's typically a small donation-based entrance fee collected at the
+      gate rather than a fixed ticket price. Bring cash in small peso bills.
+  - q: How long should I spend at the fort?
+    a: >-
+      Most visitors spend 30-45 minutes exploring the walls, chapel, and cannons
+      and taking in the bay view. It's compact, not a half-day attraction.
+  - q: What's the best time of day to visit?
+    a: >-
+      Go in the morning shortly after the 8:00 AM opening for cooler
+      temperatures and softer light, or in the late afternoon before the 4:30 PM
+      close for sunset views over Taytay Bay.
+  - q: How do I get to Fort Santa Isabel from El Nido or Puerto Princesa?
+    a: >-
+      Take a van or bus along the Puerto Princesa–El Nido highway to Taytay town
+      — about an hour from El Nido or 2.5-3 hours from Puerto Princesa — then a
+      short tricycle ride or 15-minute walk to the fort.
+  - q: Is Fort Santa Isabel crowded?
+    a: >-
+      No, it remains an under-the-radar stop that most travelers skip on the way
+      to El Nido, so you'll usually have the grounds largely to yourself.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-17'
 ---
 ## Why go
 

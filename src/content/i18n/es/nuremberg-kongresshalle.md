@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: nuremberg-kongresshalle
-srcHash: 'e268fb32dd4f'
+srcHash: '6eadf571690f'
 title: 'Sala de Congresos (Kongresshalle): guía de viaje de Núremberg (4.4★)'
-description: 'En el antiguo recinto de los congresos del Partido Nazi, al sureste de Núremberg, junto al lago Dutzendteich y en plena Bayernstraße, se alza la Kongresshalle, el mayor edificio de la época nazi que se conserva en Alemania. Hoy el Centro de Documentación se sirve de esta herradura de granito inacabada y sin techo para explicar cómo escenificaba el régimen su poder. 4.4★ (6,875 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En el antiguo recinto de los congresos del Partido Nazi, al sureste de Núremberg, junto al lago Dutzendteich y en plena Bayernstraße, se alza la Kongresshalle, el mayor edificio de la época nazi que se conserva en Alemania. Hoy el Centro de Documentación se sirve de esta herradura de granito inacabada y sin techo para explicar cómo escenificaba el régimen su poder. 4.4★ (6,877 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'Junto al lago Dutzendteich, en la Bayernstraße, se encuentra la Kongresshalle, dentro del antiguo recinto de los congresos del Partido Nazi, al sureste de Núremberg. Es el mayor edificio de la época nazi que sigue en pie en Alemania: una herradura de granito sin techo que nunca llegó a terminarse y que el Centro de Documentación utiliza hoy para explicar cómo escenificaba el régimen su poder. Se llega con el tranvía 8 hasta la parada Doku-Zentrum. Si piensa acercarse también a pie hasta la Tribuna Zeppelin, calcule 2–3 horas. Antes de ir, consulte en la web oficial el horario vigente de las exposiciones.'
 faq:
   - q: ¿Cómo se llega a la Kongresshalle desde la estación central de Núremberg (Hauptbahnhof)?

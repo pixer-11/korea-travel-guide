@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: inverness-clava-cairns
-srcHash: '452678769bb6'
+srcHash: '6c04f7e15718'
 title: 'Clava Cairns: guía de viaje desde Inverness (4.7★)'
-description: A unas 6 millas al este de Inverness y a pocos minutos en coche del campo de batalla de Culloden se encuentra Clava Cairns, un conjunto funerario de la Edad del Bronce. Con 4.7★ (5,287 reseñas), le contamos qué opinan los visitantes, cuál es el horario y qué conviene saber antes de ir.
+description: A unas 6 millas al este de Inverness y a pocos minutos en coche del campo de batalla de Culloden se encuentra Clava Cairns, un conjunto funerario de la Edad del Bronce. Con 4.7★ (5,290 reseñas), le contamos qué opinan los visitantes, cuál es el horario y qué conviene saber antes de ir.
 quickAnswer: A unas 6 millas al este de Inverness, y a poca distancia en coche del campo de batalla de Culloden, se conserva Clava Cairns, un conjunto funerario de la Edad del Bronce. Lo forman tres túmulos de piedra rodeados cada uno por un círculo de menhires, y figura actualmente como abierto las 24 horas. Calcule entre 45 minutos y una hora de visita. Si prefiere evitar los autocares de excursiones, vaya a primera o a última hora del día.
 faq:
   - q: ¿Cómo se llega a Clava Cairns desde Inverness sin coche?

@@ -1,59 +1,89 @@
 ---
-title: "WA Maritime Museum: Fremantle Travel Guide (4.5★)"
-description: "The WA Maritime Museum sits on Victoria Quay at the mouth of the Swan River in Fremantle, a short walk from Fremantle train station. 4.5★ (3,626 reviews) — what visitors say, hours, and tips."
-country: "Australia"
-region: "Fremantle"
-category: "attraction"
-pubDate: "2026-10-17T07:46:16.994Z"
+title: 'WA Maritime Museum: Fremantle Travel Guide (4.5★)'
+description: >-
+  The WA Maritime Museum sits on Victoria Quay at the mouth of the Swan River in
+  Fremantle, a short walk from Fremantle train station. 4.5★ (3,628 reviews) —
+  what visitors say, hours, and tips.
+country: Australia
+region: Fremantle
+category: attraction
+pubDate: '2026-10-17T07:46:16.994Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Western_Australian_Maritime_Museum%2C_HMAS_Ovens_and_submarine_slipway%2C_September_2020_01.jpg/3840px-Western_Australian_Maritime_Museum%2C_HMAS_Ovens_and_submarine_slipway%2C_September_2020_01.jpg"
-  credit: "Photo: Calistemon / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Western_Australian_Maritime_Museum,_HMAS_Ovens_and_submarine_slipway,_September_2020_01.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Western_Australian_Maritime_Museum%2C_HMAS_Ovens_and_submarine_slipway%2C_September_2020_01.jpg/3840px-Western_Australian_Maritime_Museum%2C_HMAS_Ovens_and_submarine_slipway%2C_September_2020_01.jpg
+  credit: 'Photo: Calistemon / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Western_Australian_Maritime_Museum,_HMAS_Ovens_and_submarine_slipway,_September_2020_01.jpg
+  via: act
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Fremantle_Maritime_Museum_and_A_Shed_%28cropped%29.jpg"
-    credit: "Photo: Sam Wilson / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Fremantle_Maritime_Museum_and_A_Shed_(cropped).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/1/1a/Fremantle_Maritime_Museum_and_A_Shed_%28cropped%29.jpg
+    credit: 'Photo: Sam Wilson / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Fremantle_Maritime_Museum_and_A_Shed_(cropped).jpg
 place:
-  id: "ChIJi70R4W2hMioRnmgqhIcRsgQ"
-  name: "WA Maritime Museum"
-  address: "Victoria Quay, 26 Peter Hughes Dr, Fremantle WA 6160, Australia"
+  id: ChIJi70R4W2hMioRnmgqhIcRsgQ
+  name: WA Maritime Museum
+  address: 'Victoria Quay, 26 Peter Hughes Dr, Fremantle WA 6160, Australia'
   rating: 4.5
-  userRatingsTotal: 3626
-  googleMapsUrl: "https://maps.google.com/?cid=338352195741837470&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 3628
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=338352195741837470&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -32.0548219
   lng: 115.7392958
   openingHours:
-    - "Monday: 9:30 AM – 5:00 PM"
-    - "Tuesday: 9:30 AM – 5:00 PM"
-    - "Wednesday: 9:30 AM – 5:00 PM"
-    - "Thursday: 9:30 AM – 5:00 PM"
-    - "Friday: 9:30 AM – 5:00 PM"
-    - "Saturday: 9:30 AM – 5:00 PM"
-    - "Sunday: 9:30 AM – 5:00 PM"
+    - 'Monday: 9:30 AM – 5:00 PM'
+    - 'Tuesday: 9:30 AM – 5:00 PM'
+    - 'Wednesday: 9:30 AM – 5:00 PM'
+    - 'Thursday: 9:30 AM – 5:00 PM'
+    - 'Friday: 9:30 AM – 5:00 PM'
+    - 'Saturday: 9:30 AM – 5:00 PM'
+    - 'Sunday: 9:30 AM – 5:00 PM'
 tags:
-  - "fremantle"
-  - "museum"
-quickAnswer: "The WA Maritime Museum sits on Victoria Quay at the mouth of the Swan River in Fremantle, a short walk from Fremantle train station. Plan 2–3 hours: about half for the galleries and Australia II, the yacht that won the 1983 America's Cup, and the rest for a guided tour of the submarine HMAS Ovens. It currently opens 9:30am–5pm, but check the official site for holiday closures and tour times."
+  - fremantle
+  - museum
+quickAnswer: >-
+  The WA Maritime Museum sits on Victoria Quay at the mouth of the Swan River in
+  Fremantle, a short walk from Fremantle train station. Plan 2–3 hours: about
+  half for the galleries and Australia II, the yacht that won the 1983 America's
+  Cup, and the rest for a guided tour of the submarine HMAS Ovens. It currently
+  opens 9:30am–5pm, but check the official site for holiday closures and tour
+  times.
 faq:
-  - q: "How do I get to the WA Maritime Museum from Perth?"
-    a: "Take the Fremantle line train from Perth to Fremantle station, the last stop on the line. Then walk west along Victoria Quay for about 10–15 minutes. There is also parking on the quay near the museum."
-  - q: "How long should I spend at the WA Maritime Museum?"
-    a: "Allow 2–3 hours if you're doing the galleries and the HMAS Ovens submarine tour. With only the galleries and Australia II, about 90 minutes is enough."
-  - q: "Is the HMAS Ovens submarine tour suitable for everyone?"
-    a: "No. The guided tour goes through narrow compartments, round hatches and ladders. It isn't suitable for anyone with limited mobility or claustrophobia. Wear flat, closed shoes and bring as little as you can."
-  - q: "What are the opening hours?"
-    a: "At the moment it opens 9:30am–5pm every day. Hours can change on public holidays and through the year, so check the official site before you visit, along with the submarine tour times."
-  - q: "What is near the museum?"
-    a: "The Shipwreck Galleries, the Round House, Bathers Beach and the Fishing Boat Harbour are all a short walk away. Fremantle Prison is a bit further uphill. Rottnest Island ferries leave from Victoria Quay."
+  - q: How do I get to the WA Maritime Museum from Perth?
+    a: >-
+      Take the Fremantle line train from Perth to Fremantle station, the last
+      stop on the line. Then walk west along Victoria Quay for about 10–15
+      minutes. There is also parking on the quay near the museum.
+  - q: How long should I spend at the WA Maritime Museum?
+    a: >-
+      Allow 2–3 hours if you're doing the galleries and the HMAS Ovens submarine
+      tour. With only the galleries and Australia II, about 90 minutes is
+      enough.
+  - q: Is the HMAS Ovens submarine tour suitable for everyone?
+    a: >-
+      No. The guided tour goes through narrow compartments, round hatches and
+      ladders. It isn't suitable for anyone with limited mobility or
+      claustrophobia. Wear flat, closed shoes and bring as little as you can.
+  - q: What are the opening hours?
+    a: >-
+      At the moment it opens 9:30am–5pm every day. Hours can change on public
+      holidays and through the year, so check the official site before you
+      visit, along with the submarine tour times.
+  - q: What is near the museum?
+    a: >-
+      The Shipwreck Galleries, the Round House, Bathers Beach and the Fishing
+      Boat Harbour are all a short walk away. Fremantle Prison is a bit further
+      uphill. Rottnest Island ferries leave from Victoria Quay.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-17'
 ---
 
 Out on the end of Victoria Quay, a long, angular building juts toward the harbour mouth. Its roofline is meant to suggest sails and upturned hulls. Container cranes work one side of the water and Rottnest ferries leave from the other. This is the WA Maritime Museum, and the setting tells you what it's about: Western Australia faces the Indian Ocean and has always looked outward from here.

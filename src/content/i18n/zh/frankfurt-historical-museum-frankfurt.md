@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: frankfurt-historical-museum-frankfurt
-srcHash: 'b6ec69a6d8e5'
+srcHash: '64b3e388e974'
 title: 法兰克福历史博物馆旅行指南（4.3★）
-description: 法兰克福历史博物馆（Historisches Museum）坐落于内城区（Innenstadt）Saalhof 1，夹在罗马人广场与美因河岸之间，从地铁大教堂/罗马人广场站（Dom/Römer，U4、U5线）步行即到。评分4.3★（2,790条评价），本文汇总游客口碑、开放时间和参观建议。
+description: 法兰克福历史博物馆（Historisches Museum）坐落于内城区（Innenstadt）Saalhof 1，夹在罗马人广场与美因河岸之间，从地铁大教堂/罗马人广场站（Dom/Römer，U4、U5线）步行即到。评分4.3★（2,792条评价），本文汇总游客口碑、开放时间和参观建议。
 quickAnswer: 法兰克福历史博物馆（Historisches Museum）位于法兰克福内城区（Innenstadt）Saalhof 1，地处罗马人广场（Römerberg）与美因河岸之间，从地铁大教堂/罗马人广场站（Dom/Römer，U4、U5线）步行过去只需片刻。馆内展览讲述这座城市从中世纪到今天的历史，多数游客会在这里待上2–3小时。目前周二至周日上午11点开馆，周四延长至晚上9点，周一闭馆。
 faq:
   - q: 怎样前往法兰克福历史博物馆？

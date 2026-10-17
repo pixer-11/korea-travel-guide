@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: pai-pai-walking-street
-srcHash: '45d116eed655'
+srcHash: '5e43d5980011'
 title: 'Pai Walking Street: Guía de viaje (4.5★)'
-description: 'Cada noche, de 6 a 10 de la tarde, la calle principal del centro de Pai, en la provincia de Mae Hong Son, se cierra al tráfico para dar paso a puestos de comida norteña tailandesa, brochetas a la parrilla y artesanías. 4.5★ (2.605 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'Cada noche, de 6 a 10 de la tarde, la calle principal del centro de Pai, en la provincia de Mae Hong Son, se cierra al tráfico para dar paso a puestos de comida norteña tailandesa, brochetas a la parrilla y artesanías. 4.5★ (2.613 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Cada noche, de 6 a 10 de la tarde, la calle principal del centro de Pai, en la provincia de Mae Hong Son, se cierra al tráfico para dar paso a puestos de comida norteña tailandesa, brochetas a la parrilla y artesanías. Es un lugar conocido y concurrido casi todas las noches, así que conviene llegar cerca de las 6pm si se quiere tener espacio para moverse. Calcule entre 90 minutos y dos horas para recorrerla comiendo de ida y vuelta.
 faq:
   - q: ¿Cuál es el horario de Pai Walking Street?

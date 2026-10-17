@@ -1,59 +1,88 @@
 ---
-title: "Pai Walking Street: Travel Guide (4.5★)"
-description: "Pai Walking Street runs every night from 6 to 10pm along the main road through central Pai, Mae Hong Son province, closing it to traffic for stalls of northern Thai food, grilled skewers and handmade crafts. 4.5★ (2,605 reviews) — what visitors say, hours, and tips."
-country: "Thailand"
-region: "Pai"
-category: "hidden-gem"
-pubDate: "2026-09-22T07:39:32.089Z"
+title: 'Pai Walking Street: Travel Guide (4.5★)'
+description: >-
+  Pai Walking Street runs every night from 6 to 10pm along the main road through
+  central Pai, Mae Hong Son province, closing it to traffic for stalls of
+  northern Thai food, grilled skewers and handmade crafts. 4.5★ (2,613 reviews)
+  — what visitors say, hours, and tips.
+country: Thailand
+region: Pai
+category: hidden-gem
+pubDate: '2026-09-22T07:39:32.089Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Pai_Walking_Street_5.jpg/3840px-Pai_Walking_Street_5.jpg"
-  credit: "Photo: Christophe95 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Pai_Walking_Street_5.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Pai_Walking_Street_5.jpg/3840px-Pai_Walking_Street_5.jpg
+  credit: 'Photo: Christophe95 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Pai_Walking_Street_5.jpg'
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Pai_Walking_Street_4.jpg/3840px-Pai_Walking_Street_4.jpg"
-    credit: "Photo: Christophe95 / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Pai_Walking_Street_4.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Pai_Walking_Street_4.jpg/3840px-Pai_Walking_Street_4.jpg
+    credit: 'Photo: Christophe95 / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Pai_Walking_Street_4.jpg'
 place:
-  id: "ChIJxesTbbKB2jAR6RysEmsplog"
-  name: "Pai Walking Street"
-  address: "Unnamed Road 9C5R+VW5, Tambon Wiang Tai, Amphoe Pai, Chang Wat Mae Hong Son 58130, Thailand"
+  id: ChIJxesTbbKB2jAR6RysEmsplog
+  name: Pai Walking Street
+  address: >-
+    Unnamed Road 9C5R+VW5, Tambon Wiang Tai, Amphoe Pai, Chang Wat Mae Hong Son
+    58130, Thailand
   rating: 4.5
-  userRatingsTotal: 2605
-  googleMapsUrl: "https://maps.google.com/?cid=9842099575516306665&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2613
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9842099575516306665&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 19.3596294
   lng: 98.44236529999999
   openingHours:
-    - "Monday: 6:00 – 10:00 PM"
-    - "Tuesday: 6:00 – 10:00 PM"
-    - "Wednesday: 6:00 – 10:00 PM"
-    - "Thursday: 6:00 – 10:00 PM"
-    - "Friday: 6:00 – 10:00 PM"
-    - "Saturday: 6:00 – 10:00 PM"
-    - "Sunday: 6:00 – 10:00 PM"
+    - 'Monday: 6:00 – 10:00 PM'
+    - 'Tuesday: 6:00 – 10:00 PM'
+    - 'Wednesday: 6:00 – 10:00 PM'
+    - 'Thursday: 6:00 – 10:00 PM'
+    - 'Friday: 6:00 – 10:00 PM'
+    - 'Saturday: 6:00 – 10:00 PM'
+    - 'Sunday: 6:00 – 10:00 PM'
 tags:
-  - "pai"
-  - "local market"
-quickAnswer: "Pai Walking Street runs every night from 6 to 10pm along the main road through central Pai, Mae Hong Son province, closing it to traffic for stalls of northern Thai food, grilled skewers and handmade crafts. It's well-known and busy most evenings, so arrive close to 6pm if you want room to move. Plan on 90 minutes to two hours to eat your way down and back."
+  - pai
+  - local market
+quickAnswer: >-
+  Pai Walking Street runs every night from 6 to 10pm along the main road through
+  central Pai, Mae Hong Son province, closing it to traffic for stalls of
+  northern Thai food, grilled skewers and handmade crafts. It's well-known and
+  busy most evenings, so arrive close to 6pm if you want room to move. Plan on
+  90 minutes to two hours to eat your way down and back.
 faq:
-  - q: "What are the opening hours for Pai Walking Street?"
-    a: "It runs nightly from 6:00 to 10:00 PM, every day of the week, along the closed-off main road in central Pai."
-  - q: "How do I get to Pai Walking Street?"
-    a: "It's centrally located in Wiang Tai, walkable from most guesthouses and hotels in Pai town; there's no need for a songthaew or taxi if you're staying centrally."
-  - q: "How long should I spend there?"
-    a: "Most visitors spend 90 minutes to two hours, enough time to walk the length of the street, sample several food stalls, and browse the craft vendors."
-  - q: "Is Pai Walking Street crowded?"
-    a: "Yes, it's a well-known, heavily visited market, busiest on weekends. Arriving close to 6pm when it opens gives you more room to move before the evening crowd builds."
-  - q: "What food should I try there?"
-    a: "Look for khao soi, grilled sai ua sausage, meat skewers, fresh roti, and fruit shakes; stalls specialize in one or two items each rather than full menus."
+  - q: What are the opening hours for Pai Walking Street?
+    a: >-
+      It runs nightly from 6:00 to 10:00 PM, every day of the week, along the
+      closed-off main road in central Pai.
+  - q: How do I get to Pai Walking Street?
+    a: >-
+      It's centrally located in Wiang Tai, walkable from most guesthouses and
+      hotels in Pai town; there's no need for a songthaew or taxi if you're
+      staying centrally.
+  - q: How long should I spend there?
+    a: >-
+      Most visitors spend 90 minutes to two hours, enough time to walk the
+      length of the street, sample several food stalls, and browse the craft
+      vendors.
+  - q: Is Pai Walking Street crowded?
+    a: >-
+      Yes, it's a well-known, heavily visited market, busiest on weekends.
+      Arriving close to 6pm when it opens gives you more room to move before the
+      evening crowd builds.
+  - q: What food should I try there?
+    a: >-
+      Look for khao soi, grilled sai ua sausage, meat skewers, fresh roti, and
+      fruit shakes; stalls specialize in one or two items each rather than full
+      menus.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-17'
 ---
 
 Every evening at 6pm, the main road through Wiang Tai fills with folding tables, propane burners and strings of bulb lights. Cars and songthaews get rerouted; for four hours this stretch belongs to pedestrians. By 10pm sharp, vendors are already folding tarps and stacking crates.

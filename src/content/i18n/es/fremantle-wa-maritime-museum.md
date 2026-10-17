@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: fremantle-wa-maritime-museum
-srcHash: '5112683e1a6a'
+srcHash: '6a862715a5b4'
 title: 'Museo Marítimo de Australia Occidental (WA Maritime Museum): guía de viaje de Fremantle (4.5★)'
-description: En Fremantle, sobre el muelle Victoria (Victoria Quay) y frente a la desembocadura del río Swan, se alza el Museo Marítimo de Australia Occidental, a poca distancia a pie de la estación de tren. Con 4.5★ (3,626 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
+description: En Fremantle, sobre el muelle Victoria (Victoria Quay) y frente a la desembocadura del río Swan, se alza el Museo Marítimo de Australia Occidental, a poca distancia a pie de la estación de tren. Con 4.5★ (3,628 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
 quickAnswer: En Fremantle, sobre el muelle Victoria y frente a la desembocadura del río Swan, se alza el Museo Marítimo de Australia Occidental (WA Maritime Museum), a poca distancia a pie de la estación de tren de Fremantle. Calcule entre 2 y 3 horas. Más o menos la mitad del tiempo se va en las salas y en el Australia II, el yate que ganó la Copa América en 1983; el resto, en la visita guiada al submarino HMAS Ovens. Actualmente abre de 9:30am a 5pm, aunque conviene consultar en la web oficial los cierres por festivos y los horarios de las visitas.
 faq:
   - q: ¿Cómo se llega al Museo Marítimo de Australia Occidental desde Perth?

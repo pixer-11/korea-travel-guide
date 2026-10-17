@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: oxford-oxford-university-museum-of-natural-history
-srcHash: 'e57aabef3106'
+srcHash: 'aed2270763d7'
 title: 牛津大学自然历史博物馆旅行指南
-description: 牛津大学自然历史博物馆位于牛津市中心的公园路（Parks Road），紧挨大学公园，从宽街（Broad Street）往北步行片刻即到。评分4.8★（11,504条评价），本文汇总游客评价、开放时间与参观贴士。
+description: 牛津大学自然历史博物馆位于牛津市中心的公园路（Parks Road），紧挨大学公园，从宽街（Broad Street）往北步行片刻即到。评分4.8★（11,549条评价），本文汇总游客评价、开放时间与参观贴士。
 quickAnswer: 牛津大学自然历史博物馆位于牛津市中心的公园路（Parks Road），紧挨大学公园（University Parks），从宽街（Broad Street）往北步行片刻即到。来这里，渡渡鸟、巨齿龙化石和那座玻璃铸铁结构的中庭不容错过，看完还可以从后门一路走进皮特·里弗斯博物馆。工作日上午10点至下午5点人最少；周末则尽量避开中午12点至下午4点到达。
 faq:
   - q: 什么时候去牛津大学自然历史博物馆人最少？

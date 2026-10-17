@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: paju-bogwangsa
-srcHash: 'e8ba09ce8055'
+srcHash: '6b86f5eb7d83'
 title: 'Bogwangsa: guía de viaje de Paju (4.5★)'
-description: 'Bogwangsa es un templo budista en activo situado en Gwangtan-myeon, Paju, recostado sobre las laderas boscosas del monte Bobawsan, al norte de Seúl. 4.5★ (1.451 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'Bogwangsa es un templo budista en activo situado en Gwangtan-myeon, Paju, recostado sobre las laderas boscosas del monte Bobawsan, al norte de Seúl. 4.5★ (1.458 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Bogwangsa es un templo budista en activo situado en Gwangtan-myeon, Paju, recostado sobre las laderas boscosas del monte Bobawsan, al norte de Seúl. Permanece abierto las 24 horas todos los días, aunque la mayoría de los visitantes llega entre las 9:00 y las 18:00, sobre todo los fines de semana, así que una visita a primera hora de la mañana o a última de la tarde permite disfrutar del recinto con mucha menos gente. La entrada es gratuita y conviene reservar entre 45 minutos y una hora para recorrer los pabellones y el patio.
 faq:
   - q: ¿Hay que pagar entrada para visitar Bogwangsa?

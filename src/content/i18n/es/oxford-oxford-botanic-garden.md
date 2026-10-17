@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: oxford-oxford-botanic-garden
-srcHash: 'f77be7a83dc8'
+srcHash: '8df58d5e8603'
 title: 'Jardín Botánico de Oxford: guía de viaje (4.5★)'
 description: En Rose Lane, al final oriental de la High Street de Oxford y junto al puente de Magdalen, se encuentra el Jardín Botánico de Oxford (Oxford Botanic Garden). Con 4.5★ en 5,767 reseñas, aquí tiene las opiniones de los visitantes, el horario y varios consejos.
 quickAnswer: El Jardín Botánico de Oxford (Oxford Botanic Garden) está en Rose Lane, al final oriental de la High Street y al lado del puente de Magdalen. Es el jardín botánico más antiguo de Gran Bretaña y abre todos los días de 10am a 5pm. Lo mejor es llegar a las 10am, sea cual sea el día. Entre las 10am y las 11am hay muy poca gente, mientras que las tardes de fin de semana, de 12pm a 5pm, son las más concurridas.

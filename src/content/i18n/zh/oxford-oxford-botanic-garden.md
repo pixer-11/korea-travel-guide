@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: oxford-oxford-botanic-garden
-srcHash: 'f77be7a83dc8'
+srcHash: '8df58d5e8603'
 title: 牛津植物园旅行指南（4.5★）
-description: 牛津植物园位于牛津高街东端的玫瑰巷（Rose Lane），紧邻莫德林桥。评分4.5★（5,767条评价），本文汇总游客评价、开放时间与游览建议。
+description: 牛津植物园位于牛津高街东端的玫瑰巷（Rose Lane），紧邻莫德林桥。评分4.5★（5,774条评价），本文汇总游客评价、开放时间与游览建议。
 quickAnswer: 牛津植物园（Oxford Botanic Garden）坐落在牛津高街（High Street）东端的玫瑰巷（Rose Lane），就在莫德林桥（Magdalen Bridge）旁边。这是英国历史最悠久的植物园，每天10am至5pm开放。建议无论哪天都在10am开门时入园：10am–11am是一天中人最少的时段，而周末12pm至5pm最为拥挤。
 faq:
   - q: 什么时候去牛津植物园人最少？

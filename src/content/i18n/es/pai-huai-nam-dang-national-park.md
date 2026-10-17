@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: pai-huai-nam-dang-national-park
-srcHash: 'e725aee44de3'
+srcHash: '53616deaf952'
 title: 'Parque Nacional Huai Nam Dang: guía de viaje desde Pai (4.6★)'
-description: 'El Parque Nacional Huai Nam Dang se extiende sobre la frontera entre Pai y Chiang Mai, a caballo entre los distritos de Pai y Mae Taeng, y es célebre por el mar de nubes que se ve al amanecer desde el mirador de Doi Kew Lom. 4.6★ (879 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'El Parque Nacional Huai Nam Dang se extiende sobre la frontera entre Pai y Chiang Mai, a caballo entre los distritos de Pai y Mae Taeng, y es célebre por el mar de nubes que se ve al amanecer desde el mirador de Doi Kew Lom. 4.6★ (885 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Parque Nacional Huai Nam Dang se extiende sobre la frontera entre Pai y Chiang Mai, a caballo entre los distritos de Pai y Mae Taeng, y es célebre por el mar de nubes que se ve al amanecer desde el mirador de Doi Kew Lom. Abre todos los días de 6:00 a 18:00 y, a diferencia del Cañón de Pai o el Land Split, se mantiene realmente tranquilo incluso en temporada alta. Si es posible, conviene planear la visita para el amanecer, ya que el manto de nubes suele disiparse a media mañana.
 faq:
   - q: ¿A qué hora conviene llegar a Huai Nam Dang para ver el mar de nubes?

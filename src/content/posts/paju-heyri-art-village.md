@@ -1,30 +1,37 @@
 ---
 title: Heyri Art Village in Paju
-description: Heyri Art Village is a purpose-built cultural district in Paju, about 40–50 minutes north of central Seoul, packed with small museums, galleries, bookshops, and architect-designed buildings meant to be explored on foot over 3–4 hours.
+description: >-
+  Heyri Art Village is a purpose-built cultural district in Paju, about 40–50
+  minutes north of central Seoul, packed with small museums, galleries,
+  bookshops, and architect-designed buildings meant to be explored on foot over
+  3–4 hours.
 region: Paju
 category: hidden-gem
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Art-Service_Studio%2C_Heyri.jpg/1920px-Art-Service_Studio%2C_Heyri.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Art-Service_Studio%2C_Heyri.jpg/1920px-Art-Service_Studio%2C_Heyri.jpg
   credit: 'Photo: Flickr user Seongbin Im / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Art-Service_Studio,_Heyri.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Art-Service_Studio,_Heyri.jpg'
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/4835820_1XOSlXDdbOO3ned-SXzapmr4y5J_5DaT30AodxLaaFY.jpg"
-    credit: "Photo: Foursquare user content (Heyri Art Valley (헤이리예술마을))"
-    license: "foursquare"
-    source: "https://foursquare.com/v/4b5266acf964a5206c7b27e3"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/4835820_1XOSlXDdbOO3ned-SXzapmr4y5J_5DaT30AodxLaaFY.jpg
+    credit: 'Photo: Foursquare user content (Heyri Art Valley (헤이리예술마을))'
+    license: foursquare
+    source: 'https://foursquare.com/v/4b5266acf964a5206c7b27e3'
 place:
   id: ChIJcTadCoqLfDURjHexFkzDstI
   name: Paju Heyri Art Village
-  address: 82-105 Heyrimaeul-gil, Tanhyeon-myeon, Paju-si, Gyeonggi-do, South Korea
+  address: '82-105 Heyrimaeul-gil, Tanhyeon-myeon, Paju-si, Gyeonggi-do, South Korea'
   rating: 4
-  userRatingsTotal: 8116
-  googleMapsUrl: https://maps.google.com/?cid=15182412025385023372&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 8134
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15182412025385023372&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 37.788841399999995
   lng: 126.69872199999999
-  phone: '+82 31-946-8551'
+  phone: +82 31-946-8551
   openingHours:
     - 'Monday: Closed'
     - 'Tuesday: 8:00 AM – 6:00 PM'
@@ -36,21 +43,45 @@ place:
 tags:
   - paju
   - Heyri Art Village
-quickAnswer: Heyri Art Village is a purpose-built cultural district in Paju, about 40–50 minutes north of central Seoul, packed with small museums, galleries, bookshops, and architect-designed buildings meant to be explored on foot over 3–4 hours. It pairs well with a visit to nearby Paju Book City or the Imjingak/DMZ area, since all three sit along the same road north of Seoul. Go on a weekday morning if you want the alleys quiet, and check which galleries are open before you go, since some smaller spaces rotate exhibitions or close on Mondays.
+quickAnswer: >-
+  Heyri Art Village is a purpose-built cultural district in Paju, about 40–50
+  minutes north of central Seoul, packed with small museums, galleries,
+  bookshops, and architect-designed buildings meant to be explored on foot over
+  3–4 hours. It pairs well with a visit to nearby Paju Book City or the
+  Imjingak/DMZ area, since all three sit along the same road north of Seoul. Go
+  on a weekday morning if you want the alleys quiet, and check which galleries
+  are open before you go, since some smaller spaces rotate exhibitions or close
+  on Mondays.
 faq:
   - q: How do I get to Heyri Art Village without a car?
-    a: Take Seoul Subway Line 3 to Daegok Station, then transfer to a local bus toward Tanhyeon/Heyri (about 20–30 minutes). Direct buses also run from areas like Hapjeong/Sinchon — check current schedules before you go.
+    a: >-
+      Take Seoul Subway Line 3 to Daegok Station, then transfer to a local bus
+      toward Tanhyeon/Heyri (about 20–30 minutes). Direct buses also run from
+      areas like Hapjeong/Sinchon — check current schedules before you go.
   - q: How much time should I plan for a visit?
-    a: Set aside at least 3–4 hours to walk the village and pop into a few museums or cafés; it's hillier and more spread out than it looks in photos.
+    a: >-
+      Set aside at least 3–4 hours to walk the village and pop into a few
+      museums or cafés; it's hillier and more spread out than it looks in
+      photos.
   - q: Is there an entrance fee for Heyri itself?
-    a: The village and streets are free to walk; individual museums and galleries charge their own admission, which varies by venue, so budget a little extra if you plan to enter several.
+    a: >-
+      The village and streets are free to walk; individual museums and galleries
+      charge their own admission, which varies by venue, so budget a little
+      extra if you plan to enter several.
   - q: What's the best time of year to visit?
-    a: Spring and autumn offer the most comfortable walking weather; weekday mornings are quieter than weekends, and some smaller galleries reduce hours in winter.
+    a: >-
+      Spring and autumn offer the most comfortable walking weather; weekday
+      mornings are quieter than weekends, and some smaller galleries reduce
+      hours in winter.
   - q: Can I combine Heyri with other Paju attractions?
-    a: Yes — Paju Book City and the Imjingak/DMZ tour area are both nearby along the same route north of Seoul, making it easy to build a full-day itinerary.
+    a: >-
+      Yes — Paju Book City and the Imjingak/DMZ tour area are both nearby along
+      the same route north of Seoul, making it easy to build a full-day
+      itinerary.
 aiGenerated: true
 draft: false
 country: South Korea
+updatedDate: '2026-10-17'
 ---
 
 ## Why go

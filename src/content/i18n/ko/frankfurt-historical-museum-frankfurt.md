@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: frankfurt-historical-museum-frankfurt
-srcHash: 'b6ec69a6d8e5'
+srcHash: '64b3e388e974'
 title: 프랑크푸르트 역사박물관 여행 가이드 (4.3★)
 description: 프랑크푸르트 역사박물관(Historisches Museum)은 인넨슈타트(Innenstadt)의 잘호프 1(Saalhof 1)에 있습니다. 뢰머베르크 광장과 마인강 강변 사이에 자리하며, 지하철 돔/뢰머(Dom/Römer)역(U4, U5)에서 걸어서 금방입니다. 리뷰 2,790건에 평점 4.3★을 받은 이곳의 방문객 후기와 운영 시간, 관람 팁을 정리했습니다.
 quickAnswer: 프랑크푸르트 역사박물관(Historisches Museum)은 인넨슈타트(Innenstadt)의 잘호프 1(Saalhof 1)에 있습니다. 뢰머베르크(Römerberg) 광장과 마인강 강변 사이에 자리하고 있어 지하철 돔/뢰머(Dom/Römer)역(U4, U5)에서 조금만 걸으면 닿습니다. 중세부터 오늘날까지 이어지는 도시의 역사를 다루며, 관람에는 대개 2~3시간이 걸립니다. 현재 화요일부터 일요일까지 오전 11시에 문을 열고, 목요일에는 오후 9시까지 운영합니다. 월요일은 휴관입니다.

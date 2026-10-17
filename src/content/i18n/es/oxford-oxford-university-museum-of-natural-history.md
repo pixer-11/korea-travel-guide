@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: oxford-oxford-university-museum-of-natural-history
-srcHash: 'e57aabef3106'
+srcHash: 'aed2270763d7'
 title: 'Museo de Historia Natural de la Universidad de Oxford: guía de viaje'
-description: 'En pleno centro de Oxford, sobre Parks Road, junto a los University Parks y a pocos minutos a pie al norte de Broad Street, se alza el Museo de Historia Natural de la Universidad de Oxford. 4.8★ (11,504 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En pleno centro de Oxford, sobre Parks Road, junto a los University Parks y a pocos minutos a pie al norte de Broad Street, se alza el Museo de Historia Natural de la Universidad de Oxford. 4.8★ (11,549 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En pleno centro de Oxford, sobre Parks Road, se encuentra el Museo de Historia Natural de la Universidad de Oxford (Oxford University Museum of Natural History), junto a los University Parks y a un breve paseo al norte de Broad Street. Merece la visita por el dodo, por los huesos de megalosaurio y por su gran patio de hierro y cristal; desde el fondo se pasa directamente al Museo Pitt Rivers. Los días laborables, la mayor tranquilidad se da entre las 10am y las 5pm. En fin de semana, conviene no llegar entre las 12pm y las 4pm.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Museo de Historia Natural de la Universidad de Oxford?

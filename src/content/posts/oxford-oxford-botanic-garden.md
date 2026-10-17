@@ -1,44 +1,51 @@
 ---
-title: "Oxford Botanic Garden: Travel Guide (4.5★)"
-description: "Oxford Botanic Garden sits on Rose Lane at the east end of Oxford's High Street, beside Magdalen Bridge. 4.5★ (5,767 reviews) — what visitors say, hours, and tips."
-country: "United Kingdom"
-region: "Oxford"
-category: "attraction"
-pubDate: "2026-09-30T14:02:08.530Z"
+title: 'Oxford Botanic Garden: Travel Guide (4.5★)'
+description: >-
+  Oxford Botanic Garden sits on Rose Lane at the east end of Oxford's High
+  Street, beside Magdalen Bridge. 4.5★ (5,774 reviews) — what visitors say,
+  hours, and tips.
+country: United Kingdom
+region: Oxford
+category: attraction
+pubDate: '2026-09-30T14:02:08.530Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Oxford_Botanic_Garden_LV_2025.jpg/1920px-Oxford_Botanic_Garden_LV_2025.jpg"
-  credit: "Photo: Honcques Laus / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Oxford_Botanic_Garden_LV_2025.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Oxford_Botanic_Garden_LV_2025.jpg/1920px-Oxford_Botanic_Garden_LV_2025.jpg
+  credit: 'Photo: Honcques Laus / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Oxford_Botanic_Garden_LV_2025.jpg'
   focus:
     x: 50
-    y: 55
+    'y': 55
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Oxford_Botanic_Garden%2C_Magdalen_Tower.jpg/3840px-Oxford_Botanic_Garden%2C_Magdalen_Tower.jpg"
-    credit: "Photo: JMski / Wikimedia Commons (CC0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Oxford_Botanic_Garden,_Magdalen_Tower.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Oxford_Botanic_Garden%2C_Magdalen_Tower.jpg/3840px-Oxford_Botanic_Garden%2C_Magdalen_Tower.jpg
+    credit: 'Photo: JMski / Wikimedia Commons (CC0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Oxford_Botanic_Garden,_Magdalen_Tower.jpg
 place:
-  id: "ChIJQyUpnrLGdkgRdU-w1OhSHlY"
-  name: "Oxford Botanic Garden"
-  address: "Rose Ln, Oxford OX1 4AZ, UK"
+  id: ChIJQyUpnrLGdkgRdU-w1OhSHlY
+  name: Oxford Botanic Garden
+  address: 'Rose Ln, Oxford OX1 4AZ, UK'
   rating: 4.5
-  userRatingsTotal: 5767
-  googleMapsUrl: "https://maps.google.com/?cid=6205488496517336949&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 5774
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6205488496517336949&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 51.750977899999995
   lng: -1.2476744000000002
-  phone: "+44 1865 610300"
+  phone: +44 1865 610300
   openingHours:
-    - "Monday: 10:00 AM – 5:00 PM"
-    - "Tuesday: 10:00 AM – 5:00 PM"
-    - "Wednesday: 10:00 AM – 5:00 PM"
-    - "Thursday: 10:00 AM – 5:00 PM"
-    - "Friday: 10:00 AM – 5:00 PM"
-    - "Saturday: 10:00 AM – 5:00 PM"
-    - "Sunday: 10:00 AM – 5:00 PM"
+    - 'Monday: 10:00 AM – 5:00 PM'
+    - 'Tuesday: 10:00 AM – 5:00 PM'
+    - 'Wednesday: 10:00 AM – 5:00 PM'
+    - 'Thursday: 10:00 AM – 5:00 PM'
+    - 'Friday: 10:00 AM – 5:00 PM'
+    - 'Saturday: 10:00 AM – 5:00 PM'
+    - 'Sunday: 10:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-09-30
+    updated: 2026-09-30T00:00:00.000Z
     weekdayQuiet:
       - 10
     weekendQuiet:
@@ -49,24 +56,38 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_596c4853684f31772d556452676b64474c726e705579514a496843"
+    venueId: ven_596c4853684f31772d556452676b64474c726e705579514a496843
 tags:
-  - "oxford"
-  - "top attraction"
-quickAnswer: "Oxford Botanic Garden sits on Rose Lane at the east end of Oxford's High Street, beside Magdalen Bridge. It is Britain's oldest botanic garden and is open daily 10am to 5pm. Arrive at 10am on any day, because 10am–11am is the quietest hour and weekend afternoons from 12pm to 5pm are the busiest."
+  - oxford
+  - top attraction
+quickAnswer: >-
+  Oxford Botanic Garden sits on Rose Lane at the east end of Oxford's High
+  Street, beside Magdalen Bridge. It is Britain's oldest botanic garden and is
+  open daily 10am to 5pm. Arrive at 10am on any day, because 10am–11am is the
+  quietest hour and weekend afternoons from 12pm to 5pm are the busiest.
 faq:
-  - q: "When is the quietest time to visit Oxford Botanic Garden?"
-    a: "The first hour, 10am–11am, is the quietest on both weekdays and weekends. Try not to come on a weekend between 12pm and 5pm, the busiest stretch."
-  - q: "What are the opening hours?"
-    a: "10am to 5pm every day of the week, Monday to Sunday."
-  - q: "How do I get there from Oxford railway station?"
-    a: "Walk about 25–30 minutes east along Queen Street and the High Street to Rose Lane, or take a bus along the High Street to the Magdalen College stop."
-  - q: "How long should I spend there?"
-    a: "Allow 60 to 90 minutes for the walled garden, glasshouses and riverside. Pullman fans looking for Lyra and Will's bench should add a little extra."
-  - q: "What is nearby?"
-    a: "Magdalen College is directly opposite and punt hire is at Magdalen Bridge. Christ Church Meadow is across Rose Lane."
+  - q: When is the quietest time to visit Oxford Botanic Garden?
+    a: >-
+      The first hour, 10am–11am, is the quietest on both weekdays and weekends.
+      Try not to come on a weekend between 12pm and 5pm, the busiest stretch.
+  - q: What are the opening hours?
+    a: '10am to 5pm every day of the week, Monday to Sunday.'
+  - q: How do I get there from Oxford railway station?
+    a: >-
+      Walk about 25–30 minutes east along Queen Street and the High Street to
+      Rose Lane, or take a bus along the High Street to the Magdalen College
+      stop.
+  - q: How long should I spend there?
+    a: >-
+      Allow 60 to 90 minutes for the walled garden, glasshouses and riverside.
+      Pullman fans looking for Lyra and Will's bench should add a little extra.
+  - q: What is nearby?
+    a: >-
+      Magdalen College is directly opposite and punt hire is at Magdalen Bridge.
+      Christ Church Meadow is across Rose Lane.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-17'
 ---
 
 ## Through the Danby Gateway

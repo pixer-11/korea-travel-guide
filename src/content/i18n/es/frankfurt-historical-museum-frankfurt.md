@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: frankfurt-historical-museum-frankfurt
-srcHash: 'b6ec69a6d8e5'
+srcHash: '64b3e388e974'
 title: 'Museo Histórico: guía de viaje de Fráncfort (4.3★)'
-description: El Museo Histórico de Fráncfort (Historisches Museum) se encuentra en Saalhof 1, en pleno centro de la ciudad (Innenstadt), entre el Römerberg y la orilla del Meno, a pocos pasos de la estación de metro Dom/Römer (U4, U5). Con una valoración de 4.3★ (2,790 reseñas), aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
+description: El Museo Histórico de Fráncfort (Historisches Museum) se encuentra en Saalhof 1, en pleno centro de la ciudad (Innenstadt), entre el Römerberg y la orilla del Meno, a pocos pasos de la estación de metro Dom/Römer (U4, U5). Con una valoración de 4.3★ (2,792 reseñas), aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
 quickAnswer: En Saalhof 1, entre el Römerberg y la orilla del Meno, se alza el Museo Histórico de Fráncfort (Historisches Museum). Está en pleno centro de la ciudad (Innenstadt), a pocos pasos de la estación de metro Dom/Römer (U4, U5). Su recorrido abarca la historia de Fráncfort desde la Edad Media hasta nuestros días, y la mayoría de los visitantes le dedican 2–3 horas. En la actualidad abre de martes a domingo a partir de las 11am. Los jueves cierra a las 9pm y los lunes permanece cerrado.
 faq:
   - q: ¿Cómo se llega al Museo Histórico de Fráncfort?
