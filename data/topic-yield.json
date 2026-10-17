@@ -6,12 +6,12 @@
    "hits": 14
   },
   "historic site": {
-   "attempts": 125,
-   "hits": 74
+   "attempts": 133,
+   "hits": 78
   },
   "park": {
-   "attempts": 140,
-   "hits": 85
+   "attempts": 145,
+   "hits": 88
   },
   "viewpoint": {
    "attempts": 83,
@@ -30,16 +30,16 @@
    "hits": 5
   },
   "museum": {
-   "attempts": 113,
-   "hits": 65
+   "attempts": 114,
+   "hits": 66
   },
   "noodles": {
-   "attempts": 69,
+   "attempts": 70,
    "hits": 2
   },
   "old quarter": {
-   "attempts": 150,
-   "hits": 72
+   "attempts": 153,
+   "hits": 74
   },
   "local market": {
    "attempts": 127,
@@ -70,7 +70,7 @@
    "hits": 18
   },
   "bakery": {
-   "attempts": 56,
+   "attempts": 57,
    "hits": 3
   },
   "bar": {
@@ -530,5 +530,5 @@
    "hits": 1
   }
  },
- "updated": "2026-10-16T12:38:24.692Z"
+ "updated": "2026-10-17T07:46:11.092Z"
 }

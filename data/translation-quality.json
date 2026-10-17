@@ -36272,5 +36272,89 @@
   "registerBreak": false,
   "worst": "泰英双语指示牌会把观众引到场馆入口。",
   "at": "2026-10-16T08:19:39.475Z"
+ },
+ "es/osaka-hozenji-yokocho": {
+  "hash": "8164262bfc81",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "La calle se estrecha hasta convertirse en un callejón empedrado apenas más ancho que...",
+  "at": "2026-10-17T07:49:09.429Z"
+ },
+ "ja/osaka-hozenji-yokocho": {
+  "hash": "4cc1c0d32151",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-17T07:49:14.465Z"
+ },
+ "ko/osaka-hozenji-yokocho": {
+  "hash": "4fe645899b73",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "길은 두 팔을 벌린 폭과 비슷할 만큼 좁은 돌길로 바뀝니다.",
+  "at": "2026-10-17T07:49:21.551Z"
+ },
+ "zh/osaka-hozenji-yokocho": {
+  "hash": "20012223a5a6",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "法善寺横丁至今仍是一处清静的好去处，这有赖于游客们像在居民区街道上一样自觉守礼。",
+  "at": "2026-10-17T07:49:27.413Z"
+ },
+ "es/alice-springs-alice-springs-desert-park": {
+  "hash": "826e8d80b983",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Los precios de",
+  "at": "2026-10-17T07:49:28.271Z"
+ },
+ "es/cardiff-roath-park": {
+  "hash": "cbc740f26cac",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Antes de prometérselo a los niños, compruebe si está en funcionamiento.",
+  "at": "2026-10-17T07:49:32.536Z"
+ },
+ "ja/alice-springs-alice-springs-desert-park": {
+  "hash": "a10ef3b76d27",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "最初に目に飛び込んでくるのは山並みで、園内のどこにいてもその姿が見えています。",
+  "at": "2026-10-17T07:49:33.515Z"
+ },
+ "ja/cardiff-roath-park": {
+  "hash": "b2d78b92749b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "ランナーが周回しているので、3人横並びで立ち止まるのがいちばんのトラブルのもとです。",
+  "at": "2026-10-17T07:49:39.702Z"
+ },
+ "ko/alice-springs-alice-springs-desert-park": {
+  "hash": "2392884848b0",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-17T07:49:40.641Z"
+ },
+ "ko/cardiff-roath-park": {
+  "hash": "2c9215433d94",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "지금도 빅토리아 시대 사람들이 세운 설계를 그대로 따르고 있습니다.",
+  "at": "2026-10-17T07:49:44.774Z"
+ },
+ "zh/alice-springs-alice-springs-desert-park": {
+  "hash": "d2e82e500a87",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "与其说这是一座动物园，不如说是一本可以边走边读的野外图鉴。",
+  "at": "2026-10-17T07:49:45.755Z"
+ },
+ "zh/cardiff-roath-park": {
+  "hash": "dd3a5f4c859f",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "湖边小径较窄，常有跑步者绕湖而行，三人并排停下最容易引起摩擦。",
+  "at": "2026-10-17T07:49:50.123Z"
  }
 }

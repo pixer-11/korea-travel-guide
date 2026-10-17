@@ -786,6 +786,12 @@
   "reason": "patrol reject: audit: Visible watermark banner overlaid on image",
   "at": "2026-10-15T22:35:37.860Z"
  },
+ "alice-springs-alice-springs-desert-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Alice_Springs_Desert_Park%2C_October_2025_07.jpg/1920px-Alice_Springs_Desert_Park%2C_October_2025_07.jpg": {
+  "slug": "alice-springs-alice-springs-desert-park",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior entrance of Alice Springs Desert Park building",
+  "at": "2026-10-17T07:46:10.937Z"
+ },
  "alice-springs-alice-springs-telegraph-station-historical-reserve\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Alice_Springs_Telegraph_Station_3.jpg/1920px-Alice_Springs_Telegraph_Station_3.jpg": {
   "slug": "alice-springs-alice-springs-telegraph-station-historical-reserve",
   "verdict": "MATCH",
@@ -5046,6 +5052,18 @@
   "reason": "publish gate: Exterior of National Museum Cardiff, representative view",
   "at": "2026-10-16T08:07:17.791Z"
  },
+ "cardiff-roath-park\u0001https://upload.wikimedia.org/wikipedia/commons/e/e6/Botanic_Gardens%2C_Roath_Park%2C_Cardiff_%284641248%29.jpg": {
+  "slug": "cardiff-roath-park",
+  "verdict": "MATCH",
+  "reason": "publish gate: Vintage photo of Roath Park botanic gardens, representative view",
+  "at": "2026-10-17T07:46:10.962Z"
+ },
+ "cardiff-shree-swaminarayan-temple-cardiff\u0001https://upload.wikimedia.org/wikipedia/commons/5/56/Diwali%2C_Shree_Swaminarayan_Temple%2C_Cardiff.jpg": {
+  "slug": "cardiff-shree-swaminarayan-temple-cardiff",
+  "verdict": "MATCH",
+  "reason": "publish gate: Night exterior of illuminated temple building, representative hero shot",
+  "at": "2026-10-17T07:46:10.913Z"
+ },
  "causeway-bay-east-coast-park-precinct\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/East_Coast_Park_Precinct%2C_Fortress_Hill_07-01-2023%286%29.jpg/3840px-East_Coast_Park_Precinct%2C_Fortress_Hill_07-01-2023%286%29.jpg": {
   "slug": "causeway-bay-east-coast-park-precinct",
   "verdict": "MATCH",
@@ -7547,6 +7565,12 @@
   "reason": "publish gate: Classic exterior view of Römer building, representative hero shot",
   "at": "2026-10-05T07:47:05.023Z"
  },
+ "frankfurt-historical-museum-frankfurt\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Frankfurt_Am_Main-Saalhof-Ansicht_vom_Eisernen_Steg.jpg/1920px-Frankfurt_Am_Main-Saalhof-Ansicht_vom_Eisernen_Steg.jpg": {
+  "slug": "frankfurt-historical-museum-frankfurt",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows historical museum building exterior in Frankfurt at dusk",
+  "at": "2026-10-17T07:46:10.849Z"
+ },
  "frankfurt-kaffeehaus-goldene-waage\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Kaffeehaus_Goldene_Waage_2.jpeg/3840px-Kaffeehaus_Goldene_Waage_2.jpeg": {
   "slug": "frankfurt-kaffeehaus-goldene-waage",
   "verdict": "MATCH",
@@ -7594,6 +7618,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Represents Fremantle Prison exterior, historic building complex.",
   "at": "2026-09-28T16:57:27.233Z"
+ },
+ "fremantle-wa-maritime-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Western_Australian_Maritime_Museum%2C_HMAS_Ovens_and_submarine_slipway%2C_September_2020_01.jpg/3840px-Western_Australian_Maritime_Museum%2C_HMAS_Ovens_and_submarine_slipway%2C_September_2020_01.jpg": {
+  "slug": "fremantle-wa-maritime-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows maritime shipyard cranes and harbor, fits museum theme",
+  "at": "2026-10-17T07:46:11.007Z"
  },
  "fremantle-wa-shipwrecks-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Boola_bardip_151120_gnangarra-101.jpg/1920px-Boola_bardip_151120_gnangarra-101.jpg": {
   "slug": "fremantle-wa-shipwrecks-museum",
@@ -10884,6 +10914,12 @@
   "verdict": "MATCH",
   "reason": "patrol replace: Tennis player at professional indoor court venue",
   "at": "2026-10-08T14:38:37.944Z"
+ },
+ "inverness-clava-cairns\u0001https://upload.wikimedia.org/wikipedia/commons/1/1b/Clava_Cairns_%26_Standing_Stones_Culloden_Strathnairn_Inverness_Scotland_%282705317038%29.jpg": {
+  "slug": "inverness-clava-cairns",
+  "verdict": "MATCH",
+  "reason": "publish gate: Stone cairn matches Clava Cairns site appearance",
+  "at": "2026-10-17T07:46:11.029Z"
  },
  "inverness-fort-george\u0001https://upload.wikimedia.org/wikipedia/commons/5/5e/Fort_George%2C_2003_%281%29.JPG": {
   "slug": "inverness-fort-george",
@@ -15608,6 +15644,12 @@
   "reason": "publish gate: Exterior facade of museum with clear signage, representative view",
   "at": "2026-10-04T13:22:14.931Z"
  },
+ "los-cabos-parque-nacional-cabo-pulmo\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Cabo_Pulmo.jpg/1920px-Cabo_Pulmo.jpg": {
+  "slug": "los-cabos-parque-nacional-cabo-pulmo",
+  "verdict": "MATCH",
+  "reason": "publish gate: Coastal beach scene plausible for Cabo Pulmo national park",
+  "at": "2026-10-17T07:46:10.984Z"
+ },
  "lucca-lucca-comics-and-games\u0001https://upload.wikimedia.org/wikipedia/commons/0/08/Winshluss_-_Lucca_Comics_%26_Games_2015.JPG": {
   "slug": "lucca-lucca-comics-and-games",
   "verdict": "MISMATCH",
@@ -19414,6 +19456,12 @@
   "reason": "publish gate: Aerial view of Nuremberg Imperial Castle with city",
   "at": "2026-10-02T14:10:49.785Z"
  },
+ "nuremberg-kongresshalle\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Kongresshalle_Nuremberg.jpg/3840px-Kongresshalle_Nuremberg.jpg": {
+  "slug": "nuremberg-kongresshalle",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows the curved Kongresshalle building exterior, representative view",
+  "at": "2026-10-17T07:46:11.054Z"
+ },
  "nuremberg-memorium-nuremberg-trials\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Nuremberg_-_justice_palace_2012_%28aka%29.jpg/1920px-Nuremberg_-_justice_palace_2012_%28aka%29.jpg": {
   "slug": "nuremberg-memorium-nuremberg-trials",
   "verdict": "MATCH",
@@ -22141,6 +22189,12 @@
   "reason": "publish gate: Representative square view of Rothenburg's Marktplatz buildings",
   "at": "2026-10-04T07:40:41.140Z"
  },
+ "rothenburg-ob-der-tauber-plonlein\u0001https://upload.wikimedia.org/wikipedia/commons/0/00/Rothenburg_ob_der_Tauber%2C_Pl%C3%B6nlein_-_panoramio.jpg": {
+  "slug": "rothenburg-ob-der-tauber-plonlein",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Rothenburg street with half-timbered buildings and tower, representative view",
+  "at": "2026-10-17T07:46:10.887Z"
+ },
  "rothenburg-ob-der-tauber-rothenburg-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Rothenburg_ob_der_Tauber%2C_das_Rothenburg-Museum.jpg/3840px-Rothenburg_ob_der_Tauber%2C_das_Rothenburg-Museum.jpg": {
   "slug": "rothenburg-ob-der-tauber-rothenburg-museum",
   "verdict": "MATCH",
@@ -22888,6 +22942,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Recognizable Segovia Cathedral tower and skyline shown",
   "at": "2026-09-11T07:45:08.274Z"
+ },
+ "segovia-murallas-de-segovia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Murallas_de_Segovia_en_marzo_de_2022_31.jpg/3840px-Murallas_de_Segovia_en_marzo_de_2022_31.jpg": {
+  "slug": "segovia-murallas-de-segovia",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Segovia walls with Alcázar, representative view",
+  "at": "2026-10-17T07:46:11.076Z"
  },
  "segovia-palacio-real-de-la-granja-garden\u0001https://fastly.4sqi.net/img/general/original/11981247_MaYe86rqJoCq5ngIomgYpOngzsqdYxTJ6gvBcyRPSWg.jpg": {
   "slug": "segovia-palacio-real-de-la-granja-garden",
