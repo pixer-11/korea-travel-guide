@@ -141,7 +141,19 @@ export function venueQuery(name, near) {
 
 // Foursquare: match the venue by name near its stored coordinates, then pull
 // its photos. Returns [] when no key, no confident match, or no photos.
-export async function fsqVenuePhotos({ name, lat, lng, near, limit = 4 }) {
+// A landmark shares its name with the café beside it: "El Micalet" is
+// Valencia's bell tower AND the ice-cream terrace on the square under it, and
+// on 2026-10-17 the tower's guide was offered the terrace's coffee cups —
+// signage reading "El Micalet", so vision said yes. When the caller says the
+// subject is a landmark, results Foursquare files as food or drink are left out
+// before the name match — Foursquare ranked the terrace first and the tower
+// itself ("Torre del Micalet", Tower / Historic Site) second.
+// Ends on "not a letter" rather than \b: \b is ASCII-only, so it never fires
+// after the é of "Café" and the commonest food category slipped through.
+export const DINING_CATEGORY = /\b(caf[eé]s?|caff[eè]|coffee|restaurants?|bars?|pubs?|bakery|bakeries|ice cream|gelat\w*|dessert|food|bistro|tea ?room|diner|pizz\w*|brewer\w*|wine|cocktail|snack|juice|steakhouse|sushi|noodle|burger|buffet)(?![a-zà-ÿ])/i;
+export const isDiningHit = (hit) => (hit?.categories || []).some((c) => DINING_CATEGORY.test(String(c?.name || c?.short_name || '')));
+
+export async function fsqVenuePhotos({ name, lat, lng, near, limit = 4, landmark = false }) {
   const key = process.env.FOURSQUARE_API_KEY;
   if (!key || !name) return [];
   if (lat == null && !near) return [];
@@ -186,7 +198,7 @@ export async function fsqVenuePhotos({ name, lat, lng, near, limit = 4 }) {
       console.log(`  [fsq] "${name}" has no distinctive token after stopwords — refusing a name match`);
       return [];
     }
-    const hit = pickVenueHit(name, near, results);
+    const hit = pickVenueHit(name, near, landmark ? results.filter((r) => !isDiningHit(r)) : results);
     if (!hit) {
       if (!fsqVenuePhotos._nohit) { fsqVenuePhotos._nohit = true; console.log(`  [fsq] no hit for "${name}" — results were: ${results.map((r) => r.name + '@' + r.distance + 'm').join(' | ').slice(0, 160)}`); }
       return [];
@@ -344,9 +356,9 @@ export async function openversePhotos({ name, near, limit = 4 }) {
 // Ordered candidate stream for one venue — Foursquare (actual venue) first,
 // Flickr geo (taken at the spot) second, Openverse (CC index, incl. Flickr's
 // CC photos, no key needed) last.
-export async function venuePhotoCandidates({ name, lat, lng, near }) {
+export async function venuePhotoCandidates({ name, lat, lng, near, landmark = false }) {
   const out = [];
-  out.push(...(await fsqVenuePhotos({ name, lat, lng, near })));
+  out.push(...(await fsqVenuePhotos({ name, lat, lng, near, landmark })));
   out.push(...(await flickrPhotos({ name, lat, lng, near })));
   out.push(...(await openversePhotos({ name, near })));
   return out;

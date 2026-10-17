@@ -35,7 +35,8 @@ import { writeArticle, writerRequest } from './lib/writer.mjs';
 import { runBatch, batchWaitMin } from './lib/claude-batch.mjs';
 import { resolveHero, loadUsedImageUrls, eventTopic } from './lib/images.mjs';
 import { isImageAllowed } from './lib/guardrails.mjs';
-import { verifyHeroImage, recordHeroVerdict } from './lib/vision-check.mjs';
+import { verifyHeroImage, verifyGalleryImage, recordHeroVerdict } from './lib/vision-check.mjs';
+import { eventInBodyCandidates, pickFirstPassing } from './lib/inbody-candidates.mjs';
 import { foreignInFilename, geoTokens } from './lib/event-file-identity.mjs';
 import { loadWorld } from './lib/commons-identity.mjs';
 import { ownCountry } from './lib/country-of-city.mjs';
@@ -407,6 +408,35 @@ async function writeDiscovered(item, ctx) {
     }
   }
 
+  // A SECOND photo, inside the prose (2026-10-17, 픽서님: 모든 글에 가급적 2장).
+  // Events used to ship `gallery: []` without ever looking — 305 of 305 since
+  // 10-01 had one photo. Same identity sources as the hero (the act's Commons
+  // category, then the event's own past editions), the gallery gate in event
+  // mode, hedged = no. Only with a hero: the gate needs it to refuse a repeat
+  // of the same view, and a photoless event has nothing to pair with.
+  let gallery = [];
+  if (cat === 'event' && heroImage?.url) {
+    try {
+      const why = [];
+      const performer = typeof item.performer === 'string' ? item.performer.trim() : '';
+      const picked = await pickFirstPassing(
+        eventInBodyCandidates({ name: item.name, region: item.city || '', performer, heroUrl: heroImage.url }, why),
+        {
+          used: ctx.usedImages, why, allowed: isImageAllowed,
+          verify: (c) => verifyGalleryImage({
+            url: c.url, heroUrl: heroImage.url, name: item.name,
+            category: cat, region: item.city, country, eventMode: true,
+          }),
+        },
+      );
+      if (picked) {
+        gallery = [picked.entry];
+        markUsedImage(ctx.usedImages, picked.entry.url);
+        console.log(`    🖼  in-body photo: ${picked.reason.slice(0, 70)}`);
+      } else console.log(`    🖼  in-body photo: none — ${why.join(' · ') || 'no candidates'}`);
+    } catch (e) { console.log(`    in-body photo skipped: ${String(e.message).slice(0, 60)}`); }
+  }
+
   // The meta description is the answer-first summary, clipped on a sentence —
   // the rule generate.mjs has used for every place guide since 08-01
   // (lib/serp.mjs). Until 2026-09-29 events got a fixed template instead:
@@ -461,7 +491,7 @@ async function writeDiscovered(item, ctx) {
     })()),
     // The discovery search has now been asked; the backfill skips this post.
     ...(cat === 'event' && { eventFactsAsked: true }),
-    heroImage, gallery: [],
+    heroImage, gallery,
     tags: [item.city.toLowerCase(), kind === 'event' ? 'event' : 'new & trending'],
     quickAnswer, faq, aiGenerated: true,
     // A VENUE post with no hero starts life PARKED: a café guide with no

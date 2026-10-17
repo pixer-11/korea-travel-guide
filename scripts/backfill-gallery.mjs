@@ -11,7 +11,8 @@
 //  this patrol gives the other third more chances.
 //
 //  The GATE IS IDENTICAL to generate.mjs's in-body block on purpose —
-//  commonsBest (≥1200px, ≥2 cross-check tokens) + venuePhotoCandidates,
+//  lib/inbody-candidates (Commons ≥1200px up to 3, venue photos; events: act
+//  and event Commons categories), gated by pickFirstPassing,
 //  vision-verified with hedged verdicts rejected ("probably" = no). One
 //  correct photo or none; a doubtful second photo is worse than none. Only
 //  the RETRY CADENCE is new, never the bar.
@@ -25,8 +26,8 @@ import { existsSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import matter from 'gray-matter';
-import { commonsBest, tokens } from './lib/commons.mjs';
-import { venuePhotoCandidates } from './lib/photo-sources.mjs';
+import { venueInBodyCandidates, eventInBodyCandidates, pickFirstPassing, isLandmarkPost } from './lib/inbody-candidates.mjs';
+import { eventSchemaName } from '../src/lib/eventName.mjs';
 import { verifyGalleryImage } from './lib/vision-check.mjs';
 import { isImageAllowed } from './lib/guardrails.mjs';
 import { isUsedImage, markUsedImage } from './lib/hero-url.mjs';
@@ -57,9 +58,12 @@ for (const f of files) {
   for (const m of raw.matchAll(/^\s+(?:- )?url:\s*"?([^"\n]+?)"?\s*$/gm)) markUsedImage(usedUrls, m[1].trim());
   let data;
   try { ({ data } = matter(raw)); } catch { continue; }
-  if (data.draft === true || !VENUE.has(data.category)) continue;
-  if (!data.heroImage?.url || (data.gallery || []).length) continue;
-  if (!data.place?.name) continue; // nothing to anchor a search on
+  // Events joined 2026-10-17: 305 of 305 since 10-01 had one photo, because
+  // neither their publish path nor this patrol ever looked.
+  const isEvent = data.category === 'event';
+  if (data.draft === true || !(VENUE.has(data.category) || isEvent)) continue;
+  if (!data.heroImage?.url || data.heroImage.license === 'placeholder' || (data.gallery || []).length) continue;
+  if (!isEvent && !data.place?.name) continue; // nothing to anchor a search on
   const slug = f.replace(/\.md$/, '');
   if (ONLY && !ONLY.has(slug)) continue;
   const last = state[slug]?.lastTried;
@@ -81,7 +85,7 @@ candidates.sort((a, b) => {
   return fa ? when(b.data) - when(a.data) : when(a.data) - when(b.data);
 });
 
-console.log(`${candidates.length} one-photo venue post(s) eligible · trying up to ${LIMIT}${DRY ? ' (dry-run)' : ''}`);
+console.log(`${candidates.length} one-photo venue/event post(s) eligible · trying up to ${LIMIT}${DRY ? ' (dry-run)' : ''}`);
 let tried = 0, added = 0;
 const wins = [];
 
@@ -89,53 +93,30 @@ for (const { f, data } of candidates) {
   if (tried >= LIMIT) break;
   tried++;
   const slug = f.replace(/\.md$/, '');
-  const place = data.place;
   const heroUrl = data.heroImage.url;
-  const near = `${data.region}, ${data.country}`;
-  const cands = [];
-  try {
-    const wiki = await commonsBest(`${place.name} ${data.region}`, {
-      used: new Set([heroUrl]),
-      minWidth: 1200,
-      crossCheck: tokens(`${place.name} ${data.region}`),
-      minCross: 2,
-      // Only files shot near the venue (commons SAME_PLACE_KM). Without it a
-      // name match was enough: 10-11 Matsuyama Castle's gallery got Bitchu
-      // Matsuyama Castle, 150 km away in Okayama.
-      near: place.lat != null && place.lng != null ? { lat: place.lat, lng: place.lng } : null,
-      // A city-and-kind name ("Ulaanbaatar Park") is identity only as the
-      // unbroken phrase — see placeKindOnly in lib/commons (2026-10-12).
-      subject: place.name,
-      region: data.region,
-    });
-    if (wiki?.url) cands.push({ ...wiki, license: 'wikimedia' });
-  } catch {}
-  try {
-    for (const c of await venuePhotoCandidates({ name: place.name, lat: place.lat, lng: place.lng, near })) {
-      if (c.url && c.url !== heroUrl) cands.push(c);
-      if (cands.length >= 4) break;
-    }
-  } catch {}
-
-  let picked = null;
-  for (const c of cands) {
-    if (isUsedImage(usedUrls, c.url)) continue;
-    let v;
-    try {
-      v = await verifyGalleryImage({
-        url: c.url, heroUrl, name: place.name,
-        category: data.category, region: data.region, country: data.country,
-      });
-    } catch { continue; }
-    // Same hedge rule as publish: an unsure vision verdict is a rejection.
-    const hedged = /probabl|plausib|likely|appears to|could be|maybe|possibly/i.test(v?.reason || '');
-    if (!v?.ok || hedged) continue;
-    const entry = { url: c.url, credit: c.credit, license: c.license, source: c.source };
-    if (isImageAllowed(entry)) { picked = { entry, reason: v.reason }; break; }
-  }
+  const isEvent = data.category === 'event';
+  // The event's own name, not the SEO title ("Higantes Festival", not
+  // "Higantes Festival: Dates, Tickets & Venue (Angono)") — and the WHOLE
+  // name, the form discover-events had as item.name. eventProperName stops at
+  // five words, and "Sun Moon Lake Music" no longer fits the festival's own
+  // Commons category (review, 10-17).
+  const name = isEvent ? eventSchemaName(data.title) : data.place.name;
+  const why = [];
+  // Same sources and the same gate as publish (lib/inbody-candidates): only
+  // the retry cadence is this file's.
+  const offered = isEvent
+    ? eventInBodyCandidates({ name, region: data.region || '', performer: data.eventPerformer?.name || '', heroUrl }, why)
+    : venueInBodyCandidates({ name, region: data.region, country: data.country, lat: data.place.lat, lng: data.place.lng, heroUrl, landmark: isLandmarkPost(data.category, data.heroImage.license, name) }, why);
+  const picked = await pickFirstPassing(offered, {
+    used: usedUrls, why, allowed: isImageAllowed,
+    verify: (c) => verifyGalleryImage({
+      url: c.url, heroUrl, name,
+      category: data.category, region: data.region, country: data.country, eventMode: isEvent,
+    }),
+  });
 
   state[slug] = { lastTried: new Date().toISOString() };
-  if (!picked) { console.log(`  – ${slug}: no candidate cleared the gate`); continue; }
+  if (!picked) { console.log(`  – ${slug}: no candidate cleared the gate — ${why.join(' · ').slice(0, 200)}`); continue; }
 
   if (!DRY) {
     // Textual splice keeps the frontmatter byte-stable except the one line —
@@ -163,7 +144,7 @@ for (const { f, data } of candidates) {
   markUsedImage(usedUrls, picked.entry.url);
   added++;
   wins.push(`  + ${slug} ← ${picked.reason.slice(0, 60)}`);
-  console.log(`  🖼  ${slug}: ${picked.reason.slice(0, 70)}`);
+  console.log(`  🖼  ${slug}: ${picked.reason.slice(0, 70)} ← ${picked.entry.url}`);
   await new Promise((r) => setTimeout(r, 300));
 }
 

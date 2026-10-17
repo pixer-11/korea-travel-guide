@@ -104,40 +104,26 @@ async function writeThen(args, assembleFrom) {
   return DEFER_WRITER ? new PendingPost(args, finish) : finish(null);
 }
 
-// The two in-body sources, with a reason for each empty hand.
-async function inBodyCandidates(place, target, heroUrl) {
-  const { commonsBest, tokens } = await import('./lib/commons.mjs');
-  const { venuePhotoCandidates } = await import('./lib/photo-sources.mjs');
-  const near = `${target.region}, ${target.country}`;
-  const cands = [];
+// The in-body photo for one venue post: candidates from lib/inbody-candidates
+// (Commons #1, the venue's own photos, then Commons #2-#3), each vision-checked
+// against the hero, hedged verdicts refused. Returns the first that passes,
+// and a reason for every miss so a 429 and "no such photo" stay apart in the log.
+async function pickInBodyPhoto(place, target, heroUrl, verifyGalleryImage, heroLicense = '') {
+  const { venueInBodyCandidates, pickFirstPassing, isLandmarkPost } = await import('./lib/inbody-candidates.mjs');
   const why = [];
-  try {
-    const wiki = await commonsBest(`${place.name} ${target.region}`, {
-      used: new Set([heroUrl]),
-      minWidth: 1200,
-      crossCheck: tokens(`${place.name} ${target.region}`),
-      minCross: 2,
-      // Only files shot near the venue (commons SAME_PLACE_KM). Without it a
-      // name match was enough: 10-11 Matsuyama Castle's gallery got Bitchu
-      // Matsuyama Castle, 150 km away in Okayama.
-      near: place.lat != null && place.lng != null ? { lat: place.lat, lng: place.lng } : null,
-      // A city-and-kind name ("Ulaanbaatar Park") is identity only as the
-      // unbroken phrase — see placeKindOnly in lib/commons (2026-10-12).
-      subject: place.name,
-      region: target.region,
-    });
-    if (wiki?.url) cands.push({ ...wiki, license: 'wikimedia' });
-    else why.push('commons: no match ≥1200px');
-  } catch (e) { why.push(`commons error: ${String(e.message).slice(0, 40)}`); }
-  try {
-    let n = 0;
-    for (const c of await venuePhotoCandidates({ name: place.name, lat: place.lat, lng: place.lng, near })) {
-      if (c.url && c.url !== heroUrl) { cands.push(c); n++; }
-      if (cands.length >= 4) break;
-    }
-    if (!n) why.push('venue photos: none');
-  } catch (e) { why.push(`venue photos error: ${String(e.message).slice(0, 40)}`); }
-  return { cands, why };
+  const candidates = venueInBodyCandidates({
+    name: place.name, region: target.region, country: target.country,
+    lat: place.lat, lng: place.lng, heroUrl,
+    landmark: isLandmarkPost(target.category, heroLicense, place.name),
+  }, why);
+  const picked = await pickFirstPassing(candidates, {
+    used: USED_IMAGE_URLS, why, allowed: isImageAllowed,
+    verify: (c) => verifyGalleryImage({
+      url: c.url, heroUrl, name: place.name,
+      category: target.category, region: target.region, country: target.country,
+    }),
+  });
+  return { picked, why };
 }
 
 // SAME-RUN SECOND PASS for posts whose in-body photo was lost to a transient
@@ -148,25 +134,11 @@ async function inBodyCandidates(place, target, heroUrl) {
 async function retryInBodyPhotos() {
   if (!INBODY_RETRY.length) return 0;
   const { verifyGalleryImage } = await import('./lib/vision-check.mjs');
-  const { isImageAllowed } = await import('./lib/guardrails.mjs');
   console.log(`\n🖼  in-body second pass — ${INBODY_RETRY.length} post(s) lost their photo to a transient source error; waiting 45s for the burst to pass`);
   await new Promise((r) => setTimeout(r, 45_000));
   let recovered = 0;
-  for (const { slug, place, target, heroUrl } of INBODY_RETRY) {
-    const { cands, why } = await inBodyCandidates(place, target, heroUrl);
-    let picked = null;
-    for (const c of cands) {
-      if (isUsedImage(USED_IMAGE_URLS, c.url)) continue;
-      let v;
-      try {
-        v = await verifyGalleryImage({ url: c.url, heroUrl, name: place.name, category: target.category, region: target.region, country: target.country });
-      } catch (e) { why.push(`verify threw ${String(e.message).slice(0, 30)}`); continue; }
-      const hedged = /probabl|plausib|likely|appears to|could be|maybe|possibly/i.test(v?.reason || '');
-      if (!v?.ok || hedged) { why.push(String(v?.reason || 'rejected').slice(0, 60)); continue; }
-      const entry = { url: c.url, credit: c.credit, license: c.license, source: c.source };
-      if (isImageAllowed(entry)) picked = { entry, reason: v.reason };
-      break;
-    }
+  for (const { slug, place, target, heroUrl, heroLicense } of INBODY_RETRY) {
+    const { picked, why } = await pickInBodyPhoto(place, target, heroUrl, verifyGalleryImage, heroLicense);
     if (!picked) { console.log(`  – ${slug}: still none — ${why.join(' · ')}`); continue; }
     // Textual splice on the `gallery: []` line assemble() wrote minutes ago.
     const p = join(POSTS_DIR, `${slug}.md`);
@@ -994,11 +966,16 @@ async function loadUsedTopicKeys() {
 // imageKeys/isUsedImage and missed the DAILY PUBLISH path — the one that creates
 // the twins. The generator now reads the hero the way the audit does and
 // reserves it under every spelling.
+// In-body photos are claimed too (2026-10-17): one post's second photo must not
+// become another post's hero or second photo — see galleryUrlsOf in lib/images.
 async function loadUsedImageUrls() {
+  const { galleryUrlsOf } = await import('./lib/images.mjs');
   const urls = new Set();
   for (const f of await readdir(POSTS_DIR)) {
     if (!f.endsWith('.md')) continue;
-    markUsedImage(urls, heroUrlOf(await readFile(join(POSTS_DIR, f), 'utf8')));
+    const raw = await readFile(join(POSTS_DIR, f), 'utf8');
+    markUsedImage(urls, heroUrlOf(raw));
+    for (const g of galleryUrlsOf(raw)) markUsedImage(urls, g);
   }
   return urls;
 }
@@ -1242,25 +1219,11 @@ async function buildLivePost(target) {
     // publish-time 429 from Commons and "there is genuinely no second photo"
     // were indistinguishable in the log — and the weekly patrol was the only
     // thing that ever found out the photo existed (owner, 2026-08-19).
-    const { cands, why } = await inBodyCandidates(place, target, heroUrl);
-    for (const c of cands) {
-      if (isUsedImage(USED_IMAGE_URLS, c.url)) { why.push(`${c.license || 'cand'}: already used on another post`); continue; }
-      let v;
-      try {
-        v = await verifyGalleryImage({
-          url: c.url, heroUrl, name: place.name,
-          category: target.category, region: target.region, country: target.country,
-        });
-      } catch (e) { why.push(`${c.license || 'cand'}: verify threw ${String(e.message).slice(0, 30)}`); continue; }
-      const hedged = /probabl|plausib|likely|appears to|could be|maybe|possibly/i.test(v?.reason || '');
-      if (!v?.ok || hedged) { why.push(`${c.license || 'cand'}: ${hedged ? 'hedged — ' : ''}${String(v?.reason || 'rejected').slice(0, 60)}`); continue; }
-      const entry = { url: c.url, credit: c.credit, license: c.license, source: c.source };
-      if (isImageAllowed(entry)) {
-        gallery.push(entry);
-        markUsedImage(USED_IMAGE_URLS, c.url);
-        console.log(`  \u{1F5BC}  in-body photo: ${v.reason}`);
-      } else why.push(`${c.license || 'cand'}: blocked by guardrails`);
-      break;
+    const { picked, why } = await pickInBodyPhoto(place, target, heroUrl, verifyGalleryImage, hero?.license || '');
+    if (picked) {
+      gallery.push(picked.entry);
+      markUsedImage(USED_IMAGE_URLS, picked.entry.url);
+      console.log(`  \u{1F5BC}  in-body photo: ${picked.reason}`);
     }
     if (!gallery.length) {
       // Transient source trouble (429/5xx after retries, a fetch that threw)
@@ -1272,7 +1235,7 @@ async function buildLivePost(target) {
       // cannot fix either.
       const transient = why.some((w) => /vision unavailable|\b(429|50[234])\b|error|threw/i.test(w));
       console.log(`  \u{1F5BC}  in-body photo: none${transient ? ' (transient)' : ''} — ${why.join(' · ') || 'no candidates'}`);
-      if (transient) INBODY_PENDING = { place, target, heroUrl };
+      if (transient) INBODY_PENDING = { place, target, heroUrl, heroLicense: hero?.license || '' };
     }
   } catch (e) {
     console.log(`  in-body photo skipped: ${e.message.slice(0, 60)}`);

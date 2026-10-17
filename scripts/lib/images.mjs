@@ -442,13 +442,35 @@ export async function loadUsedImageUrls(postsDir) {
     // A regex here missed folded scalars and posts whose officialLink sits above
     // heroImage, leaving ~113 heroes unclaimed and letting two snooker posts
     // share one photo (2026-08-19).
-    const u = heroUrlOf(await readFile(join(postsDir, f), 'utf8'));
-    if (!u) continue;
+    const raw = await readFile(join(postsDir, f), 'utf8');
+    const u = heroUrlOf(raw);
     // Claimed under every spelling — see imageKeys in hero-url.mjs: the same
     // Commons file at another width or host is the same photo (2026-09-03).
-    markUsedImage(used, u);
+    if (u) markUsedImage(used, u);
+    // In-body photos too. Only heroes were read, so a photo used INSIDE one
+    // post was free to become the next post's hero — and since 10-17 every
+    // event draws its in-body photo from the act's Commons category in a fixed
+    // order, so a touring act's guides would have chained: Bangkok's in-body
+    // photo became Taipei's hero the next day (review, 2026-10-17).
+    for (const g of galleryUrlsOf(raw)) markUsedImage(used, g);
   }
   return used;
+}
+
+// The `url:` of every entry in the frontmatter's gallery block.
+export function galleryUrlsOf(raw) {
+  const fm = /^---\r?\n([\s\S]*?)\r?\n---/.exec(raw)?.[1];
+  if (!fm) return [];
+  const lines = fm.split(/\r?\n/);
+  const start = lines.findIndex((l) => /^gallery:\s*$/.test(l));
+  if (start < 0) return [];
+  const out = [];
+  for (const l of lines.slice(start + 1)) {
+    if (/^\S/.test(l)) break; // next top-level key
+    const m = /^\s+(?:-\s+)?url:\s*['"]?([^'"\s]+)['"]?\s*$/.exec(l);
+    if (m) out.push(m[1]);
+  }
+  return out;
 }
 
 function mark(img, used) {
