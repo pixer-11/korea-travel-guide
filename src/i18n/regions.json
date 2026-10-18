@@ -12307,5 +12307,59 @@
       "getting": "圣费尔南多本地没有机场,因此大多数游客选择从马尼拉乘坐长途巴士前往,通常可在帕赛(Pasay)或库巴奥(Cubao)的Partas或Genesis Transport巴士总站搭车,车程视路况而定,一般需要5到7小时。如果是乘飞机抵达克拉克国际机场(CRK)的游客,也可以转乘巴士,经达乌(Dau)或安吉利斯(Angeles)的区域枢纽前往,这条路线通常需要约3到5小时。",
       "days": "建议安排2到3天时间,以轻松的节奏游览圣费尔南多及其周边的冲浪海滩;如果打算以此为据点,沿伊罗戈斯海岸进行一日游,则可以安排更长的时间。"
     }
+  },
+  "New Taipei City": {
+    "en": {
+      "blurb": "New Taipei City is Taiwan's most populous municipality, a sprawling ring of districts that completely encircles the capital, Taipei, from riverside commuter suburbs to coastal fishing towns and misty mountain villages. It is less a single city than a patchwork of distinct worlds, from the old streets of Tamsui and the teahouses of Pingxi to the dense high rises of Banqiao, its administrative seat.",
+      "getting": "Most travellers arrive via Taoyuan International Airport (TPE), connecting to the city on the Taoyuan Airport MRT, which runs Express and Commuter trains into Taipei Main Station in roughly 35 to 50 minutes; from there, local trains, buses and the Taipei Metro reach New Taipei City's districts directly.",
+      "days": "Allow 2 to 4 days to cover a handful of districts properly, such as a coastal day in Tamsui, a mountain excursion to Pingxi or Jiufen-adjacent areas, and time in Banqiao or other urban centres, since the city's districts are spread widely and are best treated as separate day trips rather than one compact visit."
+    },
+    "ko": {
+      "blurb": "신베이시(新北市)는 대만에서 인구가 가장 많은 광역자치단체로, 수도 타이베이를 완전히 둘러싸는 넓은 구역들의 고리와도 같은 도시다. 강변의 통근자 주거지부터 해안의 어촌 마을, 안개 낀 산골 마을까지 다채로운 풍경을 품고 있다. 단일한 도시라기보다는 저마다 개성이 뚜렷한 세계들의 모자이크에 가까워서, 단수이의 옛 거리와 핑시의 찻집에서부터 행정 중심지인 반차오의 빽빽한 고층 빌딩 지대까지 그 면모가 각양각색이다.",
+      "getting": "대부분의 여행자는 타오위안 국제공항(TPE)을 통해 입국한 뒤, 타오위안 공항 MRT를 이용해 시내로 이동한다. 이 노선은 급행(Express)과 완행(Commuter) 열차를 운행하며, 타이베이 기차역(台北車站)까지 약 35~50분이 소요된다. 이곳에서부터는 일반 철도와 버스, 타이베이 메트로를 이용해 신베이시의 각 구역으로 바로 이동할 수 있다.",
+      "days": "신베이시의 몇몇 구역을 제대로 둘러보려면 2~4일 정도는 잡아두는 것이 좋다. 예를 들어 단수이에서 보내는 해안 하루 일정, 핑시나 주펀 인근 지역으로 떠나는 산악 나들이, 그리고 반차오를 비롯한 도심 지역 탐방 등이 있다. 신베이시의 각 구역은 서로 멀리 떨어져 있어, 한 번에 압축해서 둘러보기보다는 각각을 별도의 당일치기 여행으로 계획하는 편이 훨씬 수월하다."
+    },
+    "ja": {
+      "blurb": "新北市は台湾で最も人口の多い自治体であり、首都・台北をぐるりと取り囲むように広がる区の集合体だ。川沿いの通勤用ベッドタウンから海沿いの漁村、霧に包まれた山間の集落まで、その表情は実に多彩。ひとつの都市というよりも、異なる世界が寄り集まったパッチワークのような土地で、淡水の古い街並みや九份ならぬ平渓の茶館から、行政の中心地である板橋の高層ビル群まで、その振れ幅は大きい。",
+      "getting": "多くの旅行者は桃園国際空港（TPE）から入り、桃園空港MRTで市内へ向かう。このMRTには区間車（各駅停車）と直達車（急行）があり、台北車站（台北駅）までおよそ35〜50分。そこから先は、在来線やバス、台北メトロを乗り継げば、新北市内の各区へ直接アクセスできる。",
+      "days": "新北市のいくつかの区をきちんと巡るなら、2〜4日は見ておきたい。淡水で過ごす海辺の一日、平渓や九份周辺への山間の小旅行、そして板橋をはじめとする都市部での時間など、見どころは広範囲に散らばっている。一度にまとめて回ろうとせず、それぞれを独立した日帰り旅行として組み立てるのがおすすめだ。"
+    },
+    "es": {
+      "blurb": "Nueva Taipéi es el municipio más poblado de Taiwán, un extenso anillo de distritos que rodea por completo a la capital, Taipéi, abarcando desde suburbios ribereños de viajeros diarios hasta pueblos pesqueros costeros y aldeas de montaña envueltas en niebla. Más que una ciudad única, es un mosaico de mundos muy distintos entre sí, desde las calles históricas de Tamsui y las casas de té de Pingxi hasta los densos rascacielos de Banqiao, su sede administrativa.",
+      "getting": "La mayoría de los viajeros llega a través del Aeropuerto Internacional de Taoyuan (TPE), desde donde se conecta con la ciudad mediante el MRT del Aeropuerto de Taoyuan, que ofrece trenes Express y Commuter hasta la Estación Principal de Taipéi en aproximadamente 35 a 50 minutos; desde allí, los trenes locales, autobuses y el Metro de Taipéi permiten llegar directamente a los distritos de Nueva Taipéi.",
+      "days": "Conviene reservar de 2 a 4 días para recorrer bien unos cuantos distritos, como un día en la costa de Tamsui, una excursión a la montaña por Pingxi o las zonas cercanas a Jiufen, y tiempo en Banqiao u otros centros urbanos, ya que los distritos de la ciudad están muy dispersos y es mejor tratarlos como excursiones de un día independientes en lugar de intentar verlos todos en una sola visita compacta."
+    },
+    "zh": {
+      "blurb": "新北市是台湾人口最多的行政区，环绕着首都台北的广阔市域，涵盖了从沿河通勤卫星城到沿海渔村，再到云雾缭绕的山间小镇等多种风貌。与其说它是一座单一的城市，不如说是由众多截然不同的世界拼接而成：有淡水的老街、平溪的茶馆，也有行政中心板桥鳞次栉比的高楼大厦。",
+      "getting": "大多数旅客经由桃园国际机场（TPE）抵达，再转乘桃园机场捷运进入市区。机场捷运分为直达车和普通车，约35至50分钟即可到达台北车站；从那里，当地火车、公交车以及台北捷运都能直接通往新北市的各个行政区。",
+      "days": "建议安排2至4天的时间，才能较为充分地游览几个行政区，比如用一天时间探访沿海的淡水，再安排一趟山区之旅前往平溪或九份周边地区，另外再留些时间逛逛板桥等市中心区域。由于新北市各区分布范围广阔，最好把每个地方当作独立的一日游来安排，而不是指望一次行程就能面面俱到。"
+    }
+  },
+  "New York City": {
+    "en": {
+      "blurb": "New York City is a dense vertical mosaic of five boroughs, where Wall Street towers, Broadway marquees and Central Park's green sprawl sit within a few subway stops of each other. It is a city defined by constant motion: millions of commuters, a subway that never fully sleeps and a skyline that has become shorthand for ambition itself.",
+      "getting": "Most international travellers arrive at JFK Airport, the city's main international gateway in Queens; from there, the AirTrain connects to the subway and Long Island Rail Road at Jamaica Station, reaching Manhattan in roughly 45 to 60 minutes. LaGuardia and Newark airports also serve the city, typically via taxi, rideshare or airport buses to the subway network.",
+      "days": "Allow at least 4 to 5 days to cover Manhattan's core sights, a borough or two beyond it, and some breathing room for the city's unpredictable pace."
+    },
+    "ko": {
+      "blurb": "뉴욕시는 다섯 개 자치구가 촘촘히 수직으로 엮인 모자이크 같은 도시로, 월스트리트의 마천루와 브로드웨이의 화려한 간판, 센트럴파크의 녹지가 지하철로 몇 정거장이면 닿을 거리에 공존한다. 이 도시를 정의하는 것은 끊임없는 움직임이다. 수백만 명의 통근자들, 결코 완전히 잠들지 않는 지하철, 그리고 그 자체로 야망의 대명사가 된 스카이라인이 바로 뉴욕이다.",
+      "getting": "대부분의 해외 여행객은 퀸스에 위치한 뉴욕의 주요 국제 관문인 JFK 공항으로 입국한다. 공항에서는 에어트레인을 타고 자메이카역으로 이동해 지하철과 롱아일랜드 철도(LIRR)로 환승할 수 있으며, 맨해튼까지는 약 45분에서 1시간 정도 걸린다. 라과디아 공항과 뉴어크 공항도 뉴욕을 오가는 관문 역할을 하며, 보통 택시나 차량 공유 서비스, 혹은 공항버스를 이용해 지하철 노선으로 연결된다.",
+      "days": "맨해튼의 핵심 명소를 둘러보고 인근 자치구 한두 곳까지 여유 있게 돌아보려면 최소 4~5일은 잡아두는 것이 좋다. 뉴욕 특유의 예측 불가능한 리듬에 적응할 여유도 함께 고려해야 한다."
+    },
+    "ja": {
+      "blurb": "ニューヨーク市は、5つの行政区がぎっしりと積み重なった縦型のモザイク都市だ。ウォール街の高層ビル群、ブロードウェイの輝くマーキー、そしてセントラルパークの広大な緑地が、地下鉄でほんの数駅という近さに共存している。この街を定義づけるのは絶え間ない動きだ。何百万人もの通勤者たち、決して完全には眠らない地下鉄、そして野心そのものの代名詞となったスカイラインが、その象徴となっている。",
+      "getting": "海外からの旅行者の多くは、クイーンズにある同市最大の国際玄関口、JFK空港に到着する。そこからエアトレインでジャマイカ駅に出れば、地下鉄やロングアイランド鉄道（LIRR）に乗り換えられ、マンハッタンまではおよそ45分から1時間で到着する。ラガーディア空港やニューアーク空港もニューヨークの玄関口として利用されており、通常はタクシーや配車サービス、あるいは空港バスで地下鉄網へアクセスする形になる。",
+      "days": "マンハッタンの主要な見どころを巡り、さらに1つか2つの行政区にも足を延ばし、この街特有の予測不能なペースに身を委ねる余裕を持つためには、最低でも4日から5日は見ておきたい。"
+    },
+    "es": {
+      "blurb": "Nueva York es un denso mosaico vertical de cinco distritos, donde las torres de Wall Street, las marquesinas de Broadway y la extensión verde de Central Park se encuentran a apenas unas paradas de metro entre sí. Es una ciudad definida por el movimiento constante: millones de viajeros diarios, un metro que casi nunca duerme y un perfil urbano que se ha convertido en sinónimo de ambición.",
+      "getting": "La mayoría de los viajeros internacionales llega al aeropuerto JFK, la principal puerta de entrada internacional de la ciudad, en Queens; desde allí, el AirTrain conecta con el metro y con el Long Island Rail Road en la estación de Jamaica, llegando a Manhattan en unos 45 a 60 minutos. Los aeropuertos de LaGuardia y Newark también dan servicio a la ciudad, generalmente mediante taxi, servicios de transporte privado o autobuses de aeropuerto que enlazan con la red de metro.",
+      "days": "Conviene reservar al menos 4 o 5 días para recorrer los principales atractivos de Manhattan, explorar uno o dos distritos más y dejar margen para el ritmo impredecible de la ciudad."
+    },
+    "zh": {
+      "blurb": "纽约市是由五个行政区拼接而成的密集垂直马赛克，华尔街的高楼、百老汇的霓虹招牌和中央公园的大片绿意彼此相距不过几站地铁。这座城市的本质就是永不停歇的运动：数以百万计的通勤者、一条几乎从不真正入睡的地铁系统，以及一条已经成为\"雄心壮志\"代名词的天际线。",
+      "getting": "大多数国际旅客抵达位于皇后区的肯尼迪国际机场（JFK），这是纽约市主要的国际门户。从机场出发，可搭乘AirTrain接驳列车前往牙买加站（Jamaica Station），换乘地铁或长岛铁路（LIRR），大约45到60分钟即可到达曼哈顿。拉瓜迪亚机场（LaGuardia）和纽瓦克机场（Newark）也可服务纽约市出行，通常需搭乘出租车、网约车或机场巴士再转乘地铁系统。",
+      "days": "建议至少安排4到5天时间，用来游览曼哈顿的核心景点、探索一两个其他行政区，并留出一些余裕来适应这座城市难以预料的节奏。"
+    }
   }
 }

@@ -11,6 +11,7 @@ eventRecurring: true
 eventVenue: Buddh International Circuit
 eventOrganizer:
   name: Indian Racing League
+  url: https://rpplind.com
 eventFactsAsked: true
 heroImage:
   url: https://upload.wikimedia.org/wikipedia/commons/1/1f/Indian_Grand_Prix_2013%2C_Noida_F4.jpg
