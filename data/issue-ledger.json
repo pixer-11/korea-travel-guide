@@ -1,16 +1,5 @@
 {
-  "validate-content": {
-    "ENDED-EVENT-ADVICE bangkok-bangkok-international-festival-of-dance-music.md": {
-      "since": "2026-10-18",
-      "last": "2026-10-18",
-      "seen": 1
-    },
-    "ENDED-EVENT-ADVICE paris-celine-dion-paris-residency.md": {
-      "since": "2026-10-18",
-      "last": "2026-10-18",
-      "seen": 1
-    }
-  },
+  "validate-content": {},
   "audit-translations": {},
   "audit-hours-claims": {}
 }
