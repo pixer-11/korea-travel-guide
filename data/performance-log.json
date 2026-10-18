@@ -2075,5 +2075,200 @@
         "delta": -54
       }
     ]
+  },
+  {
+    "week": "2026-10-18",
+    "pageviews": 5644,
+    "visits": 5496,
+    "top": [
+      {
+        "path": "/",
+        "views": 47
+      },
+      {
+        "path": "/ko/",
+        "views": 27
+      },
+      {
+        "path": "/zh/",
+        "views": 25
+      },
+      {
+        "path": "/zh/posts/shanghai-ignis-table/",
+        "views": 18
+      },
+      {
+        "path": "/zh/posts/singapore-bigbang-xx-cosmos-world-tour/",
+        "views": 17
+      },
+      {
+        "path": "/zh/posts/kuala-lumpur-batu-caves/",
+        "views": 17
+      },
+      {
+        "path": "/zh/posts/tsim-sha-tsui-tsim-sha-tsui-waterfront-park/",
+        "views": 17
+      },
+      {
+        "path": "/zh/posts/jakarta-gajah-mada-food-street/",
+        "views": 15
+      },
+      {
+        "path": "/zh/posts/hanoi-bigbang-2026-2027-world-tour-in-hanoi/",
+        "views": 13
+      },
+      {
+        "path": "/zh/posts/chinatown-chinatown-complex/",
+        "views": 13
+      },
+      {
+        "path": "/zh/posts/paris-notre-dame-cathedral-of-paris/",
+        "views": 12
+      },
+      {
+        "path": "/zh/posts/indian-wells-wta-finals/",
+        "views": 12
+      },
+      {
+        "path": "/zh/posts/shanghai-rolex-shanghai-masters/",
+        "views": 12
+      },
+      {
+        "path": "/zh/posts/beijing-china-open-tennis/",
+        "views": 10
+      },
+      {
+        "path": "/zh/posts/paris-basilique-du-sacre-c-ur-de-montmartre/",
+        "views": 10
+      },
+      {
+        "path": "/zh/essentials/best-time-to-visit/",
+        "views": 10
+      },
+      {
+        "path": "/posts/hanoi-bigbang-2026-2027-world-tour-in-hanoi/",
+        "views": 10
+      },
+      {
+        "path": "/zh/posts/paris-jardin-du-luxembourg/",
+        "views": 10
+      },
+      {
+        "path": "/zh/posts/central-central-mid-levels-escalators/",
+        "views": 9
+      },
+      {
+        "path": "/posts/seoul-jogyesa-chrysanthemum-festival/",
+        "views": 9
+      },
+      {
+        "path": "/posts/macau-26th-macau-food-festival/",
+        "views": 9
+      },
+      {
+        "path": "/posts/dallas-epik-high-3-0-tour/",
+        "views": 8
+      },
+      {
+        "path": "/zh/regions/rothenburg-ob-der-tauber/",
+        "views": 8
+      },
+      {
+        "path": "/posts/madrid-puerta-de-alcala/",
+        "views": 8
+      },
+      {
+        "path": "/zh/posts/chiang-mai-night-bazaar-chiang-mai/",
+        "views": 8
+      },
+      {
+        "path": "/posts/macau-macao-international-marathon/",
+        "views": 8
+      },
+      {
+        "path": "/zh/posts/seoul-seoul-forest-park/",
+        "views": 8
+      },
+      {
+        "path": "/posts/macau-cnblue-live-world-tour-3logy-encore-in-macau/",
+        "views": 8
+      },
+      {
+        "path": "/zh/regions/philadelphia/",
+        "views": 8
+      },
+      {
+        "path": "/posts/shanghai-china-international-import-expo-ciie/",
+        "views": 8
+      }
+    ],
+    "risers": [
+      {
+        "path": "/zh/posts/shanghai-ignis-table/",
+        "delta": 18
+      },
+      {
+        "path": "/zh/posts/singapore-bigbang-xx-cosmos-world-tour/",
+        "delta": 17
+      },
+      {
+        "path": "/zh/posts/kuala-lumpur-batu-caves/",
+        "delta": 17
+      },
+      {
+        "path": "/zh/posts/tsim-sha-tsui-tsim-sha-tsui-waterfront-park/",
+        "delta": 17
+      },
+      {
+        "path": "/zh/posts/jakarta-gajah-mada-food-street/",
+        "delta": 15
+      },
+      {
+        "path": "/zh/posts/hanoi-bigbang-2026-2027-world-tour-in-hanoi/",
+        "delta": 13
+      },
+      {
+        "path": "/zh/posts/indian-wells-wta-finals/",
+        "delta": 12
+      },
+      {
+        "path": "/zh/",
+        "delta": 11
+      }
+    ],
+    "fallers": [
+      {
+        "path": "/zh/posts/beijing-china-open-tennis/",
+        "delta": -34
+      },
+      {
+        "path": "/zh/tools/when-to-go/south-korea/",
+        "delta": -27
+      },
+      {
+        "path": "/ja/posts/shanghai-rolex-shanghai-masters/",
+        "delta": -23
+      },
+      {
+        "path": "/zh/tools/when-to-go/france/september/",
+        "delta": -20
+      },
+      {
+        "path": "/ko/flights/",
+        "delta": -15
+      },
+      {
+        "path": "/zh/posts/chiang-mai-yi-peng-lantern-festival-loy-krathong/",
+        "delta": -15
+      },
+      {
+        "path": "/zh/posts/katong-katong-park/",
+        "delta": -14
+      },
+      {
+        "path": "/posts/bangkok-bts-world-tour-arirang-in-bangkok/",
+        "delta": -11
+      }
+    ]
   }
 ]
