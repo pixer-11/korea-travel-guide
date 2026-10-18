@@ -2698,7 +2698,11 @@
   "monterrey-mercado-juarez\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Mercado_Ju%C3%A1rez_de_Monterrey_-_2.jpg/3840px-Mercado_Ju%C3%A1rez_de_Monterrey_-_2.jpg": 3840,
   "nuremberg-handwerkerhof-nurnberg\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Handwerkerhof_N%C3%BCrnberg_007.jpg/3840px-Handwerkerhof_N%C3%BCrnberg_007.jpg": 3840,
   "oxford-ashmolean-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Ashmolean_Museum_in_July_2014.jpg/1920px-Ashmolean_Museum_in_July_2014.jpg": 1920,
-  "st-lazarus-quarter-s-francisco-garden\u0001https://upload.wikimedia.org/wikipedia/commons/8/88/S_Francisco_5.JPG": 1600
+  "st-lazarus-quarter-s-francisco-garden\u0001https://upload.wikimedia.org/wikipedia/commons/8/88/S_Francisco_5.JPG": 1600,
+  "alicante-atp-challenger-alicante\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Casper_Ruud%2C_ATP_500_Basel_2025.jpg/3840px-Casper_Ruud%2C_ATP_500_Basel_2025.jpg": 3840,
+  "hong-kong-falco\u0001https://fastly.4sqi.net/img/general/original/84453337_RHb209ZkglNOMmYJDaR5aS0sRHuIEmFKFJb64VfU8P8.jpg": 1080,
+  "istanbul-blue\u0001https://live.staticflickr.com/2660/4069525639_955c084eaa_b.jpg": 1024,
+  "jakarta-li-lian\u0001https://fastly.4sqi.net/img/general/original/5230553_yWt2RCcryiMNpffjm8RXFF8UMtXgfLD_pXR8U3d8VN8.jpg": 1440
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -2927,15 +2931,15 @@
   },
   "istanbul-lina-anatolian": {
    "width": 1024,
-   "attempts": 4,
-   "nextTry": "2026-10-18",
+   "attempts": 5,
+   "nextTry": "2026-10-25",
    "flaggedAt": "2026-09-17",
    "lastResult": "no-wider"
   },
   "jakarta-esa": {
    "width": 1080,
-   "attempts": 4,
-   "nextTry": "2026-10-18",
+   "attempts": 5,
+   "nextTry": "2026-10-25",
    "flaggedAt": "2026-09-17",
    "lastResult": "no-wider"
   },
@@ -2976,8 +2980,8 @@
   },
   "istanbul-bosphorus-view-point": {
    "width": 875,
-   "attempts": 3,
-   "nextTry": "2026-10-18",
+   "attempts": 4,
+   "nextTry": "2026-10-25",
    "flaggedAt": "2026-09-21",
    "lastResult": "no-wider"
   },
@@ -3191,7 +3195,19 @@
    "attempts": 0,
    "nextTry": "2026-10-05",
    "flaggedAt": "2026-10-05"
+  },
+  "hong-kong-falco": {
+   "width": 1080,
+   "attempts": 0,
+   "nextTry": "2026-10-18",
+   "flaggedAt": "2026-10-18"
+  },
+  "istanbul-blue": {
+   "width": 1024,
+   "attempts": 0,
+   "nextTry": "2026-10-18",
+   "flaggedAt": "2026-10-18"
   }
  },
- "updated": "2026-10-18T12:21:42.417Z"
+ "updated": "2026-10-18T21:45:35.042Z"
 }

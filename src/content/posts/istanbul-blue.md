@@ -13,7 +13,6 @@ eventPerformer:
   name: Blue
   kind: group
 eventFactsAsked: true
-gallery: []
 tags:
   - istanbul
   - event
@@ -31,6 +30,14 @@ faq:
     a: Turkish venues use airport-style scanners and bag checks. Large bags, professional cameras and outside drinks are commonly refused, so fans usually come with a small bag only.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://live.staticflickr.com/2660/4069525639_955c084eaa_b.jpg
+  credit: 'Photo: shaire productions / flickr (BY)'
+  license: openverse-cc
+  source: https://www.flickr.com/photos/9822107@N08/4069525639
+  focus:
+    x: 69
+    'y': 20
 ---
 
 ## Four voices, one Friday night

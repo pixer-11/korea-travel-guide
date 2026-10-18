@@ -5,7 +5,6 @@ country: Hong Kong
 region: Hong Kong
 category: trendy
 pubDate: '2026-09-02'
-gallery: []
 tags:
   - hong kong
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What's nearby if I want to make a day of it?
     a: Man Mo Temple, the antique shops of Upper Lascar Row, and the dried seafood streets off Des Voeux Road West are all within an easy walk, making Sheung Wan a natural half-day base.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/84453337_RHb209ZkglNOMmYJDaR5aS0sRHuIEmFKFJb64VfU8P8.jpg
+  credit: 'Photo: Foursquare user content (Falco)'
+  license: foursquare
+  source: https://foursquare.com/v/6a09b9ae841c7c7755bcaa04
+  focus:
+    x: 65
+    'y': 55
 ---
 
 Wa Lane is barely wider than a delivery scooter, one of those short pedestrian cuts between Upper Station Street and the temple-and-antique sprawl of Sheung Wan. Falco sits along it doing double duty: espresso machine humming in daylight hours, shaker rattling once the sun drops. That split identity is the whole point, and it's rare enough in this part of town to make the place worth a detour.

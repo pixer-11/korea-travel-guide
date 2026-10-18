@@ -786,6 +786,12 @@
   "reason": "hand-reviewed: filename shares no word with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-16T08:27:58.035Z"
  },
+ "alicante-atp-challenger-alicante\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Casper_Ruud%2C_ATP_500_Basel_2025.jpg/3840px-Casper_Ruud%2C_ATP_500_Basel_2025.jpg": {
+  "slug": "alicante-atp-challenger-alicante",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Tennis player at ATP Challenger event",
+  "at": "2026-10-18T21:41:02.287Z"
+ },
  "alicante-atp-challenger-alicante\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/ATP_Challenger_Tour_Tournaments_%2851748767809%29.jpg/3840px-ATP_Challenger_Tour_Tournaments_%2851748767809%29.jpg": {
   "slug": "alicante-atp-challenger-alicante",
   "verdict": "MISMATCH",
@@ -8387,6 +8393,12 @@
   "reason": "patrol replace: Concert stage performance, plausible Charlie Puth event",
   "at": "2026-10-07T23:43:22.224Z"
  },
+ "goyang-charlie-puth-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Charlie_Puth%2C_Regency_Ballroom%2C_San_Francisco_%28Nine_Track_Mind_Tour%29_4.jpg/3840px-Charlie_Puth%2C_Regency_Ballroom%2C_San_Francisco_%28Nine_Track_Mind_Tour%29_4.jpg": {
+  "slug": "goyang-charlie-puth-concert",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Performer on stage at concert event",
+  "at": "2026-10-18T21:41:19.157Z"
+ },
  "goyang-charlie-puth-seoul-2026\u0001https://upload.wikimedia.org/wikipedia/commons/8/86/Charlie_Puth_2017_%28cropped%29.jpg": {
   "slug": "goyang-charlie-puth-seoul-2026",
   "verdict": "MISMATCH",
@@ -9888,6 +9900,18 @@
   "reason": "patrol reject: audit: Middle Eastern hummus dish, not Hong Kong cuisine",
   "at": "2026-09-03T21:58:44.328Z"
  },
+ "hong-kong-falco\u0001https://fastly.4sqi.net/img/general/original/84453337_6LR6gw_pkHLZrJiQx3DnMFFitN6YRHXwgWclTzW1sqY.jpg": {
+  "slug": "hong-kong-falco",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Photo of a menu text, not the venue",
+  "at": "2026-10-18T21:41:29.187Z"
+ },
+ "hong-kong-falco\u0001https://fastly.4sqi.net/img/general/original/84453337_RHb209ZkglNOMmYJDaR5aS0sRHuIEmFKFJb64VfU8P8.jpg": {
+  "slug": "hong-kong-falco",
+  "verdict": "WEAK",
+  "reason": "patrol replace: Generic bar photo, no venue-specific identifiers",
+  "at": "2026-10-18T21:41:32.032Z"
+ },
  "hong-kong-fello\u0001https://fastly.4sqi.net/img/general/original/84453337_2kr1qmZ8wrK9P-v4_sbI6u5adAR7oRPBZKcDrQfAfTA.jpg": {
   "slug": "hong-kong-fello",
   "verdict": "MISMATCH",
@@ -11085,6 +11109,12 @@
   "reason": "patrol reject: Abstract blurry bokeh image, not identifiable event or venue",
   "at": "2026-10-17T21:38:59.289Z"
  },
+ "istanbul-blue\u0001https://live.staticflickr.com/2660/4069525639_955c084eaa_b.jpg": {
+  "slug": "istanbul-blue",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Stage lighting at concert venue, plausible Blue performance",
+  "at": "2026-10-18T21:41:58.464Z"
+ },
  "istanbul-blue\u0001https://live.staticflickr.com/7281/16646479990_b25d6e079c_b.jpg": {
   "slug": "istanbul-blue",
   "verdict": "MISMATCH",
@@ -12023,6 +12053,12 @@
   "reason": "patrol reject: Roller coaster image, unrelated to Joyland Festival venue",
   "at": "2026-10-16T22:12:54.104Z"
  },
+ "jakarta-joyland-festival\u0001https://upload.wikimedia.org/wikipedia/commons/b/ba/Maliq_%26_D%27Essentials_di_Joyland_2024.jpg": {
+  "slug": "jakarta-joyland-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: image unusable: image fetch 404",
+  "at": "2026-10-18T21:42:14.717Z"
+ },
  "jakarta-joyland-festival\u0001https://upload.wikimedia.org/wikipedia/commons/d/df/World_Joyland_entrance.jpg": {
   "slug": "jakarta-joyland-festival",
   "verdict": "MISMATCH",
@@ -12251,6 +12287,18 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Different performer, not Lee Hi, generic concert photo",
   "at": "2026-09-08T22:07:55.325Z"
+ },
+ "jakarta-li-lian\u0001https://fastly.4sqi.net/img/general/original/5230553_xGGSNrR9-rKOByaV6A4Ahut33iNPZVqPoaYQm9ksP-k.jpg": {
+  "slug": "jakarta-li-lian",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Photo of a nameplate sign, not the venue",
+  "at": "2026-10-18T21:42:21.952Z"
+ },
+ "jakarta-li-lian\u0001https://fastly.4sqi.net/img/general/original/5230553_yWt2RCcryiMNpffjm8RXFF8UMtXgfLD_pXR8U3d8VN8.jpg": {
+  "slug": "jakarta-li-lian",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Modern upscale Jakarta restaurant interior, elegant dining.",
+  "at": "2026-10-18T21:42:24.775Z"
  },
  "jakarta-mayestik-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Pintu_Barat_Pasar_Mayestik.JPG/1920px-Pintu_Barat_Pasar_Mayestik.JPG": {
   "slug": "jakarta-mayestik-market",
@@ -15144,8 +15192,8 @@
  "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia\u0001https://upload.wikimedia.org/wikipedia/commons/e/ee/Vladimir_leonov_motogp.jpg": {
   "slug": "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia",
   "verdict": "MATCH",
-  "reason": "patrol replace: MotoGP motorcycle racing at circuit with safety tires",
-  "at": "2026-10-16T22:14:08.730Z"
+  "reason": "patrol replace: MotoGP race at Mandalika circuit, blue tire barriers visible",
+  "at": "2026-10-18T21:43:11.948Z"
  },
  "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Alvaro_Bautista-motogp-2015.JPG/3840px-Alvaro_Bautista-motogp-2015.JPG": {
   "slug": "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia",
@@ -20654,8 +20702,8 @@
  "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/7/7d/5_Seconds_of_Summer_Metro_Theatre_25_Nov_2012.jpg": {
   "slug": "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour",
   "verdict": "MATCH",
-  "reason": "patrol replace: Concert performance, band on stage with audience",
-  "at": "2026-10-16T22:15:18.363Z"
+  "reason": "patrol replace: Band performance on stage, concert context",
+  "at": "2026-10-18T21:43:30.283Z"
  },
  "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/9/93/5_Seconds_of_Summer_11_15_2014_-25_%2815187260193%29.jpg": {
   "slug": "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour",
@@ -24739,11 +24787,23 @@
   "reason": "patrol reject: Stone bas-relief carving, not photo festival event or venue",
   "at": "2026-10-15T22:40:42.012Z"
  },
+ "siem-reap-angkor-photo-festival\u0001https://upload.wikimedia.org/wikipedia/commons/8/8e/2016_Angkor%2C_Angkor_Wat%2C_Brama_Angkor_Wat_%2838%29.jpg": {
+  "slug": "siem-reap-angkor-photo-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Temple carving, not Angkor Photo Festival event or venue",
+  "at": "2026-10-18T21:44:15.164Z"
+ },
  "siem-reap-angkor-photo-festival\u0001https://upload.wikimedia.org/wikipedia/commons/a/ad/2016_Angkor%2C_Angkor_Wat%2C_Brama_Angkor_Wat_%2839%29.jpg": {
   "slug": "siem-reap-angkor-photo-festival",
   "verdict": "MISMATCH",
   "reason": "patrol reject: Ancient stone carving, not photo festival event or venue",
   "at": "2026-10-16T22:16:07.976Z"
+ },
+ "siem-reap-angkor-photo-festival\u0001https://upload.wikimedia.org/wikipedia/commons/d/d8/2016_Angkor%2C_Angkor_Wat%2C_Brama_Angkor_Wat_%2840%29.jpg": {
+  "slug": "siem-reap-angkor-photo-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Ancient stone carving, unrelated to photo festival event",
+  "at": "2026-10-18T21:44:17.427Z"
  },
  "siem-reap-angkor-photo-festival\u0001https://upload.wikimedia.org/wikipedia/commons/e/e0/2016_Angkor%2C_Angkor_Wat%2C_Brama_Angkor_Wat_%2816%29.jpg": {
   "slug": "siem-reap-angkor-photo-festival",

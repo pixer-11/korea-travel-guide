@@ -5,7 +5,6 @@ country: Indonesia
 region: Jakarta
 category: restaurant
 pubDate: '2026-08-05'
-gallery: []
 tags:
   - jakarta
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: Should I check anything before I go?
     a: Yes — since this is a newly opened restaurant, confirm current opening hours, menu details, and reservation policy directly with Park Hyatt Jakarta before visiting.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/5230553_yWt2RCcryiMNpffjm8RXFF8UMtXgfLD_pXR8U3d8VN8.jpg
+  credit: 'Photo: Foursquare user content (Li Lian)'
+  license: foursquare
+  source: https://foursquare.com/v/6993f50dc2475f464eec7c5f
+  focus:
+    x: 45
+    'y': 55
 ---
 You step out of the elevator on the 19th floor and the noise of Jakarta's street level (the honking, the motorbikes, the hawker carts) is already a memory. Li Lian sits inside Park Hyatt Jakarta, and the room announces itself quietly: lacquered surfaces, warm lighting, the kind of hush that comes from thick carpet and good acoustic design.
 
