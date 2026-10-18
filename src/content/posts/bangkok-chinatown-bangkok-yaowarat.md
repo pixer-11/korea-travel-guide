@@ -9,23 +9,22 @@ region: Bangkok
 category: hidden-gem
 pubDate: '2026-09-28T07:38:58.637Z'
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/4/48/Sampeng_Lane%2C_Bangkok%27s_Chinatown%2C_Bangkok%2C_Thailand.jpg
-  credit: 'Photo: Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0)'
-  license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Sampeng_Lane,_Bangkok%27s_Chinatown,_Bangkok,_Thailand.jpg
-  via: act
+  url: /editor-photos/bangkok-chinatown-bangkok-yaowarat-1.jpg
+  credit: 'Photo: Pixer / Wander Atlas'
+  license: editor
+  source: editor-original — Yaowarat Road at dusk after rain, neon signs and Vegetarian Festival banners
   focus:
     x: 50
     'y': 50
 gallery:
-  - url: >-
-      https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/2016_Bangkok%2C_Dystrykt_Samphanthawong%2C_Ulica_Yaowarat_%2805%29.jpg/3840px-2016_Bangkok%2C_Dystrykt_Samphanthawong%2C_Ulica_Yaowarat_%2805%29.jpg
+  - url: /editor-photos/bangkok-chinatown-bangkok-yaowarat-2.jpg
+    credit: 'Photo: Pixer / Wander Atlas'
+    license: editor
+    source: editor-original — old shophouses and Chinese signs on wet Yaowarat Road, tuk-tuk in traffic
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/2016_Bangkok%2C_Dystrykt_Samphanthawong%2C_Ulica_Yaowarat_%2805%29.jpg/3840px-2016_Bangkok%2C_Dystrykt_Samphanthawong%2C_Ulica_Yaowarat_%2805%29.jpg
     credit: 'Photo: Marcin Konsek / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: >-
-      https://commons.wikimedia.org/wiki/File:2016_Bangkok,_Dystrykt_Samphanthawong,_Ulica_Yaowarat_(05).jpg
+    source: https://commons.wikimedia.org/wiki/File:2016_Bangkok,_Dystrykt_Samphanthawong,_Ulica_Yaowarat_(05).jpg
 place:
   id: ChIJrdfOcJOZ4jAR1Grh5w74V1g
   name: Chinatown Bangkok (Yaowarat)
@@ -105,7 +104,7 @@ faq:
       Lamphong railway station at the eastern end.
 aiGenerated: true
 draft: false
-updatedDate: '2026-09-28'
+updatedDate: '2026-10-18'
 ---
 ## A street that runs on gold and neon
 
@@ -114,6 +113,14 @@ Yaowarat Road bends through Samphanthawong like a spine. Everything else in Chin
 At street level the gold shops take over. They have red-painted interiors, glass counters of chains sold by weight and staff sitting behind grilles. Between them you get herbal medicine sellers, dried seafood merchants and shophouses several storeys high.
 
 It's one of Bangkok's most visited districts, and the street never shuts. Plan around the crowds, because you won't have it to yourself.
+
+## From our visit
+
+We walked Yaowarat Road at dusk on a rainy evening in October. The rain kept the crowds down, so the pavements were far easier going than the busy-hour figures later in this guide would suggest. If crowds put you off, a wet night is worth considering.
+
+What stayed with us was how much it felt like Hong Kong. Stacked vertical signs, old shophouse facades and neon flickering on over wet tarmac all add to that feeling. During our visit, yellow Vegetarian Festival banners were strung across the road.
+
+Our advice is simple: don't treat Yaowarat as a single sight to tick off. Walk the road slowly, look at what the stalls and shopfronts are cooking, and let the street set the pace.
 
 ## Getting to Yaowarat without a taxi jam
 
