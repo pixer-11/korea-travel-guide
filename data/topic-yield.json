@@ -46,7 +46,7 @@
    "hits": 52
   },
   "bookshop": {
-   "attempts": 34,
+   "attempts": 42,
    "hits": 6
   },
   "seafood": {
@@ -82,7 +82,7 @@
    "hits": 2
   },
   "concept cafe": {
-   "attempts": 44,
+   "attempts": 51,
    "hits": 0
   },
   "top attraction": {
@@ -94,7 +94,7 @@
    "hits": 0
   },
   "design shop": {
-   "attempts": 36,
+   "attempts": 50,
    "hits": 0
   },
   "Sisowath Quay Riverside": {
@@ -530,5 +530,5 @@
    "hits": 1
   }
  },
- "updated": "2026-10-18T07:45:16.689Z"
+ "updated": "2026-10-18T12:11:55.599Z"
 }

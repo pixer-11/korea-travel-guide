@@ -77,11 +77,11 @@
   "at": "2026-09-02T10:56:43.812Z"
  },
  "es/abu-dhabi-tamer-hosny-and-tamer-ashour-concert": {
-  "hash": "1c3e3f77967c",
+  "hash": "7e5fd4964963",
   "score": 1,
   "registerBreak": false,
-  "worst": "El control de seguridad en las puertas de acceso funciona como en un aeropuerto, así que conviene dejar tie",
-  "at": "2026-09-13T08:24:22.750Z"
+  "worst": "El circuito de Yas Marina y Yas",
+  "at": "2026-10-18T12:17:59.838Z"
  },
  "es/abu-dhabi-the-corrs-live-in-concert": {
   "hash": "a5b8f84ae2a1",
@@ -29414,11 +29414,11 @@
   "at": "2026-09-28T07:58:20.190Z"
  },
  "es/bangkok-chinatown-bangkok-yaowarat": {
-  "hash": "8ec0563f38e9",
-  "score": 1,
+  "hash": "3e1cad6d6a0f",
+  "score": 0,
   "registerBreak": false,
-  "worst": "y algunos son más anchos que los propios locales que tienen debajo.",
-  "at": "2026-09-28T07:58:22.048Z"
+  "worst": "",
+  "at": "2026-10-18T12:18:02.269Z"
  },
  "ja/abu-dhabi-uae-presidential-palace": {
   "hash": "c748f884094c",
@@ -29442,11 +29442,11 @@
   "at": "2026-09-28T07:58:30.904Z"
  },
  "zh/bangkok-chinatown-bangkok-yaowarat": {
-  "hash": "6bf6dcf00964",
+  "hash": "6065a044b067",
   "score": 1,
   "registerBreak": false,
-  "worst": "能不坐车就别坐车。耀华力路一到晚上车流就慢得像蜗牛，最后几百米路，出租车花的时间可能比前面全程还长。",
-  "at": "2026-09-28T07:58:33.440Z"
+  "worst": "让这条街来决定你的节奏",
+  "at": "2026-10-18T12:18:19.166Z"
  },
  "ko/abu-dhabi-tarkan-live-in-abu-dhabi": {
   "hash": "ae7f43a7e6ff",
@@ -29477,11 +29477,11 @@
   "at": "2026-10-05T08:00:04.365Z"
  },
  "ko/bangkok-chinatown-bangkok-yaowarat": {
-  "hash": "dfbe1ea9914f",
+  "hash": "6b12900ded04",
   "score": 1,
   "registerBreak": false,
-  "worst": "차이나타운의 나머지 구역은 모두 이 길에서 갈라져 나온 좁은 소이와 골목에 매달려 있습니다.",
-  "at": "2026-10-12T00:20:24.031Z"
+  "worst": "차이나타운은 야오와랏 로드를 벗어날수록 더 큰 보람을 줍니다.",
+  "at": "2026-10-18T12:18:15.945Z"
  },
  "ko/bandung-sudirman-street-day-and-night-market": {
   "hash": "c52d603dd1c0",
@@ -36293,5 +36293,61 @@
   "registerBreak": false,
   "worst": "湖边小径较窄，常有跑步者绕湖而行，三人并排停下最容易引起摩擦。",
   "at": "2026-10-17T07:49:50.123Z"
+ },
+ "es/bangkok-bangkok-international-festival-of-dance-music": {
+  "hash": "2289f7d35828",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Mucha gente cree, erróneamente, que el festival es un único evento con unas fechas fijas.",
+  "at": "2026-10-18T12:18:01.225Z"
+ },
+ "ja/bangkok-bangkok-international-festival-of-dance-music": {
+  "hash": "cc2fad151b7a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "この種の音楽祭では、各作品の上演は数夜に限られるのが一般的です。",
+  "at": "2026-10-18T12:18:03.370Z"
+ },
+ "ja/bangkok-chinatown-bangkok-yaowarat": {
+  "hash": "0e60b7bd40d0",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-18T12:18:04.212Z"
+ },
+ "ja/paris-celine-dion-paris-residency": {
+  "hash": "79a7af117932",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "アリーナ公演は、近所のバーに出かけるというより、空港から飛行機に乗るのに近い感覚でした。",
+  "at": "2026-10-18T12:18:05.302Z"
+ },
+ "ko/bangkok-bangkok-international-festival-of-dance-music": {
+  "hash": "e659c5129163",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "길거리 음식과 사원 첨탑으로 더 잘 알려진 도시에서 하룻밤은 클래식 발레를, 이튿날 밤은 아방가르드 멀티미디어 작품을 만나 보자는 구상이었습니다.",
+  "at": "2026-10-18T12:18:09.400Z"
+ },
+ "ko/paris-celine-dion-paris-residency": {
+  "hash": "5784510f5904",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "아레나 공연은 동네 바에 가는 것보다 공항 출국 절차에 더 가깝습니다.",
+  "at": "2026-10-18T12:19:23.940Z"
+ },
+ "zh/bangkok-bangkok-international-festival-of-dance-music": {
+  "hash": "0388a2bdf685",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "很多人误以为艺术节是一个日期固定的单一活动，其实它是由多场独立演出组成的演出季",
+  "at": "2026-10-18T12:18:18.194Z"
+ },
+ "zh/paris-celine-dion-paris-residency": {
+  "hash": "6220f6010f71",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "去体育馆看演出，流程更像赶飞机，跟去街角酒吧不是一回事。",
+  "at": "2026-10-18T12:18:20.253Z"
  }
 }

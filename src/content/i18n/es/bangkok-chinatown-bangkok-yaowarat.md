@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bangkok-chinatown-bangkok-yaowarat
-srcHash: '5935e1f6eaa2'
+srcHash: 'e71b461d5b28'
 title: 'Barrio chino de Bangkok (Yaowarat): guía de viaje (4.5★)'
 description: El antiguo barrio chino de Bangkok (Yaowarat) se extiende a lo largo de Yaowarat Road, en el distrito de Samphanthawong. Con 4.5★ (35,096 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
 quickAnswer: El barrio chino de Bangkok (Yaowarat) es el antiguo enclave chino de la ciudad y se extiende a lo largo de Yaowarat Road, en el distrito de Samphanthawong. La calle no cierra nunca. Es famosa por sus joyerías de oro, sus letreros de neón y la comida callejera que aparece al caer la noche. La hora más tranquila es de 7am a 8am, todos los días. Conviene evitar las noches de fin de semana, de 5pm a 11pm, cuando se forman las mayores aglomeraciones. Para llegar, tome la línea azul del MRT hasta Wat Mangkon o el barco fluvial hasta el muelle de Ratchawong (Ratchawong Pier).
@@ -17,6 +17,14 @@ faq:
   - q: ¿Qué hay cerca de Yaowarat Road?
     a: Junto a la Puerta del Barrio Chino se alza Wat Traimit, con su Buda de oro. En Charoen Krung se encuentra Wat Mangkon Kamalawat. Muy cerca están también el mercado mayorista de Sampeng Lane y, en el extremo oriental, la estación de tren de Hua Lamphong.
 ---
+
+## Nuestra visita
+
+Recorrimos Yaowarat Road al anochecer, en una tarde lluviosa de octubre. La lluvia mantuvo a raya a las multitudes, así que se caminaba por las aceras con mucha más facilidad de lo que harían pensar las cifras de las horas punta que se recogen más adelante en esta guía. Si le desaniman las aglomeraciones, merece la pena plantearse una noche de lluvia.
+
+Lo que más se nos quedó grabado fue lo mucho que recordaba a Hong Kong. Los letreros verticales amontonados, las viejas fachadas de las casas-tienda y los neones que parpadean al encenderse sobre el asfalto mojado contribuyen a esa sensación. Durante nuestra visita, unas banderolas amarillas del Festival Vegetariano cruzaban la calle de lado a lado.
+
+Nuestro consejo es sencillo: no trate Yaowarat como un lugar más que tachar de la lista. Recorra la calle sin prisa, fíjese en lo que se cocina en los puestos y en los locales, y deje que la calle marque el ritmo.
 
 ## Una calle que vive del oro y del neón
 
