@@ -74,6 +74,11 @@ for (const p of ['/newsletter/', '/ko/newsletter/']) {
     for (const p of sample(posts, 6)) {
       const { html: page } = await get(p);
       for (const m of page.matchAll(/<a class="book-btn book-btn-primary" href="([^"]*\/events\/?)"/g)) {
+        // Only OUR events hub. An organiser's ticket page can end in /events too
+        // (Studio City Macau: https://www.studiocity-macau.com/en/events) — that
+        // is the official link, correctly left alone, and it failed this check
+        // on 2026-10-18.
+        if (/^(?:https?:)?\/\//.test(m[1]) && !/^(?:https?:)?\/\/(?:www\.)?wanderatlasguides\.com\//.test(m[1])) continue;
         seen++;
         if (!m[1].startsWith('/ko/')) bad.push(`${p} → ${m[1]}`);
       }
