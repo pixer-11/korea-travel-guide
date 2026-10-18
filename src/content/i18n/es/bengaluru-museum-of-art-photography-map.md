@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bengaluru-museum-of-art-photography-map
-srcHash: 'e90e0f0fb49b'
+srcHash: 'f4c11c0d0405'
 title: 'Museo de Arte y Fotografía (MAP): guía de viaje de Bengaluru'
 description: 'El MAP (Museo de Arte y Fotografía) se encuentra en Kasturba Road, cerca de Cubbon Park, a poca distancia a pie de MG Road, y cierra los lunes. 4,5★ (2.684 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El MAP (Museo de Arte y Fotografía) se encuentra en Kasturba Road, cerca de Cubbon Park, a poca distancia a pie de MG Road, y cierra los lunes. Conviene ir de martes a viernes de 10:00 a 18:30 h, o el fin de semana, cuando abre hasta las 19:30 h; si se visita en sábado o domingo, lo mejor es llegar justo a las 10:00 h para evitar la afluencia de público que se acumula a partir del mediodía. Hay que reservar entre dos y tres horas para recorrer las cinco plantas de salas.
@@ -53,7 +53,7 @@ El MAP ya es de sobra conocido en Bengaluru, no es ningún descubrimiento oculto
 
 - **Reservar con antelación**: las entradas suelen venderse en línea a través de la propia web del MAP, además de en taquilla; reservar con antelación permite evitar la cola en la entrada, sobre todo los fines de semana.
 - **Formas de pago**: las tarjetas y UPI son lo habitual; se acepta efectivo, aunque rara vez es necesario.
-- **Momento ideal**: conviene llegar justo a las 10:00 h en fin de semana, o cualquier tarde entre semana antes de la afluencia de después del trabajo. Es mejor evitar el tramo entre el mediodía y el cierre en sábado o domingo, cuando se concentran los grupos de turistas y las familias.
+- **Momento ideal**: conviene llegar justo a las 10:00 h en fin de semana, o cualquier tarde tranquila entre semana. Es mejor evitar el tramo entre el mediodía y el cierre en sábado o domingo, cuando se concentran los grupos de turistas y las familias.
 - **Etiqueta**: la fotografía suele estar permitida en la mayoría de las salas, pero no así el flash ni los trípodes; conviene comprobar la señalización de cada sala en lugar de darlo por hecho.
 - **Error habitual que conviene evitar**: tratarlo como una parada rápida de una hora. El museo es engañosamente grande, con cinco niveles, y apresurarse por las salas de textiles o fotografía es el arrepentimiento que más mencionan los visitantes.
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: central-man-mo-temple
-srcHash: '794be5a29781'
+srcHash: 'dbed582c642a'
 title: 'Templo Man Mo: guía de viaje de Sheung Wan (4,3★)'
 description: 'El templo Man Mo, en Hollywood Road, en Sheung Wan, abre todos los días de 8:00 a 18:00. El momento más tranquilo para visitarlo es justo a la apertura durante el fin de semana (8:00-9:00) o, en realidad, cualquier hora entre semana, ya que los sábados y domingos se llena rápido entre las 11:00 y las 16:00. 4,3★ (7.015 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El templo Man Mo, en Hollywood Road, en Sheung Wan, abre todos los días de 8:00 a 18:00. El momento más tranquilo para visitarlo es justo a la apertura durante el fin de semana (8:00-9:00) o, en realidad, cualquier hora entre semana, ya que los sábados y domingos se llena rápido entre las 11:00 y las 16:00. Conviene reservar entre 20 y 30 minutos para contemplar las espirales de incienso y los dos altares dedicados a Man (la literatura) y Mo (la guerra). La entrada es gratuita, aunque es habitual dejar un pequeño donativo.
@@ -51,7 +51,7 @@ Cualquiera de las dos rutas resulta cómoda si ya se está recorriendo las galer
 
 El templo mantiene el mismo horario todos los días de la semana: de 8:00 a 18:00.
 
-La mayor afluencia se da los fines de semana entre las 11:00 y las 16:00, cuando los grupos turísticos suelen coincidir con los viajeros independientes. Si la visita es en sábado o domingo, conviene apuntar a la franja de 8:00 a 9:00, justo a la apertura.
+La mayor afluencia se da los fines de semana entre las 11:00 y las 16:00, cuando los grupos turísticos suelen coincidir con los viajeros independientes. Si la visita es en sábado o domingo, conviene llegar justo a la apertura, hacia las 8:00.
 
 Entre semana, el flujo de visitantes se mantiene manejable durante todo el día, así que, de lunes a viernes, no hace falta llegar al amanecer para evitar aglomeraciones.
 

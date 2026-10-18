@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: alishan-fenqihu-old-street
-srcHash: '3ed6700453c7'
+srcHash: '66c128a5893c'
 title: 'Calle Vieja de Fenqihu: Guía de Viaje de Alishan (4,2★)'
 description: 'La Calle Vieja de Fenqihu es un antiguo pueblo ferroviario maderero sobre el Ferrocarril Forestal de Alishan, célebre por su cultura del bianzai (fiambrera) y por su angosta calle-mercado cubierta. 4,2★ (31.926 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'La Calle Vieja de Fenqihu es un antiguo pueblo ferroviario maderero sobre el Ferrocarril Forestal de Alishan, célebre por su cultura del bianzai (fiambrera) y por su angosta calle-mercado cubierta. Con 31.898 reseñas y una calificación de 4,2, atrae multitudes con rapidez: conviene llegar justo a las 8:00, hora de apertura, los fines de semana, o visitar cualquier día entre semana para evitar la hora punta de 11:00 a 16:00. Calcule entre 1,5 y 2 horas para comer y recorrer los puestos.'
@@ -61,6 +61,6 @@ Hoy en día Fenqihu es, sin lugar a dudas, una parada turística (una de las má
 - Conviene llevar efectivo para la mayoría de los puestos callejeros, ya que la aceptación de tarjetas es irregular entre los vendedores más pequeños
 - Si es posible, hay que evitar por completo la franja de 11:00 a 16:00 los fines de semana, que es cuando descargan los autobuses turísticos
 - En temporada alta conviene comprar con antelación el billete de tren de regreso, ya que los asientos del Ferrocarril Forestal se agotan
-- El error típico del turista que conviene evitar es tratar la visita como una parada fotográfica de quince minutos. Históricamente, los locales y los trabajadores del ferrocarril se quedaban aquí el tiempo de una comida completa; lo mejor es bajar el ritmo y hacer lo mismo
+- El error típico del turista que conviene evitar es tratar la visita como una parada fotográfica de quince minutos. Antiguamente, los trabajadores del ferrocarril se quedaban aquí el tiempo de una comida completa; lo mejor es bajar el ritmo y hacer lo mismo
 
 Conviene reservarse casi dos horas completas y no apresurar la fiambrera: está pensada para comerse despacio, tal como se diseñó para las cuadrillas ferroviarias que tenían tiempo de sobra entre un tren y el siguiente.

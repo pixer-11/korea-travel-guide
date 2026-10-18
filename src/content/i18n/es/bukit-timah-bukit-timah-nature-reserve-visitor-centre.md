@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bukit-timah-bukit-timah-nature-reserve-visitor-centre
-srcHash: '73e1be64c59a'
+srcHash: '9aa1fe3fee0e'
 title: 'Centro de Visitantes de la Reserva Natural de Bukit Timah: Guía de viaje'
 description: 'En Hindhede Drive, el Centro de Visitantes de la Reserva Natural de Bukit Timah abre la puerta al mayor bosque primario de Singapur y al sendero que sube hasta la cima de Bukit Timah Hill. 4,5★ (1.046 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En Hindhede Drive, el Centro de Visitantes de la Reserva Natural de Bukit Timah abre la puerta al mayor bosque primario de Singapur y al sendero que sube hasta la cima de Bukit Timah Hill. Abre todos los días de 7am a 7pm; si quieres tener los senderos casi para ti solo, ve un día entre semana de 9am a 11am. Calcula una hora si solo vas a visitar el centro, o media jornada si piensas subir hasta la cima.
@@ -37,7 +37,7 @@ Ven preparado con:
 
 ## Qué ver y hacer
 
-El Centro de Visitantes en sí es pequeño, pero merece unos diez minutos: dioramas y paneles explican el papel de la reserva como cuenca de captación de agua y su sorprendente biodiversidad, que incluye macacos de cola larga, colugos (lémures voladores) y más de 800 especies de plantas concentradas en apenas unos pocos kilómetros cuadrados.
+El Centro de Visitantes en sí es pequeño, pero merece unos diez minutos: dioramas y paneles explican el papel de la reserva como cuenca de captación de agua y su sorprendente biodiversidad, que incluye macacos de cola larga, colugos (lémures voladores) y una densa variedad de plantas concentrada en apenas unos pocos kilómetros cuadrados.
 
 Desde aquí se abren varios senderos. La ruta principal asciende de forma constante hasta la cima de Bukit Timah Hill, el punto natural más alto de Singapur con 163 metros. Es un camino pavimentado, pero la pendiente es real: prepárate para sudar.
 
@@ -62,4 +62,4 @@ Bukit Timah es lo bastante popular entre excursionistas y corredores de Singapur
 - Llévate tu basura contigo. Los contenedores escasean a propósito, como parte de mantener la reserva genuinamente silvestre.
 - Si el sendero de la cima se ve abarrotado desde el estacionamiento, desvíate hacia la cantera de Hindhede en su lugar: está a cinco minutos a pie desde la entrada y recibe mucho menos tráfico.
 
-El error que cometen la mayoría de los que visitan por primera vez es tratar este lugar como una simple parada rápida para tomar fotos. Reserva al menos 90 minutos de ida y vuelta para la caminata a la cima, y ponte zapatos que no te importe embarrar: las lluvias de la tarde son bastante frecuentes y dejan resbaladizos los tramos pavimentados.
+El error que cometen la mayoría de los que visitan por primera vez es tratar este lugar como una simple parada rápida para tomar fotos. Reserva tiempo de sobra de ida y vuelta para la caminata a la cima, y ponte zapatos que no te importe embarrar: las lluvias de la tarde son bastante frecuentes y dejan resbaladizos los tramos pavimentados.

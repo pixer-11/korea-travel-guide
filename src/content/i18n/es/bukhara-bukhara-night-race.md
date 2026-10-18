@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bukhara-bukhara-night-race
-srcHash: '25ff7d410a24'
+srcHash: 'fe2c7eef1eaa'
 title: 'Bukhara Night Race: fechas, inscripciones y sede (Bujará)'
 description: La Bukhara Night Race es una carrera nocturna en ruta que se disputa en Bujará (Uzbekistán) y cuyas fechas se han anunciado para noviembre de 2026.
 quickAnswer: 'La Bukhara Night Race es una carrera nocturna en ruta que se celebra en Bujará (Uzbekistán), con fechas anunciadas para noviembre de 2026. Recorre la ciudad histórica y ofrece cuatro distancias: media maratón, 10K, 5K y 2K. La organización se ocupa de las inscripciones, del lugar de salida y de los horarios. La mayoría de los corredores se aloja dentro del casco antiguo o en sus inmediaciones, de modo que la salida les queda a pocos minutos a pie.'

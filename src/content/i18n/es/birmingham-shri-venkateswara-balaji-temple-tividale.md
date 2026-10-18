@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: birmingham-shri-venkateswara-balaji-temple-tividale
-srcHash: '8335e5cba245'
+srcHash: '32a58d09d2d4'
 title: 'Templo Shri Venkateswara (Balaji) de Tividale: guía de viaje de Birmingham'
 description: El templo Shri Venkateswara (Balaji) se encuentra en el 101 de Dudley Road East, en Tividale (Oldbury), a unas 8 millas al oeste del centro de Birmingham. Con una valoración de 4.9★ (10,613 reseñas), le contamos qué opinan los visitantes, sus horarios y algunos consejos.
 quickAnswer: 'El templo Shri Venkateswara (Balaji) se encuentra en el 101 de Dudley Road East, en Tividale (Oldbury), a unas 8 millas al oeste del centro de Birmingham. Los fines de semana hay mucha gente de 10am a 9pm, así que lo mejor es acudir un día laborable, ya sea por la mañana (9am–1pm) o por la tarde (5pm–9pm). Conviene organizarse en torno al cierre del mediodía: de lunes a viernes cierra de 1pm a 5pm, y los fines de semana, de 2:30pm a 4pm.'
@@ -43,7 +43,7 @@ Aquí se siguen las mismas pautas que en la mayoría de los templos hindúes, y 
 - **Sanctasanctórum:** permanezca detrás de la barrera y no fotografíe a las deidades, salvo que un cartel o un voluntario indique que está permitido.
 - **Prasad:** si le ofrecen alimento bendecido, acéptelo con la mano derecha.
 
-Las visitas guiadas requieren reserva previa y son la mejor manera de conocer el significado de cada santuario. Concierte la suya con el templo antes del viaje, en lugar de presentarse allí y preguntar. Los días de fiesta las salas se llenan enseguida. Las personas que no sean hindúes son bienvenidas, pero durante las ceremonias deben quedarse en los laterales.
+Es posible que haya visitas guiadas, y son la mejor manera de conocer el significado de cada santuario. Concierte la suya con el templo antes del viaje, en lugar de presentarse allí y preguntar. Los días de fiesta las salas se llenan enseguida. Las personas que no sean hindúes son bienvenidas, pero durante las ceremonias deben quedarse en los laterales.
 
 ## Cómo llegar a Tividale y qué ver cerca
 

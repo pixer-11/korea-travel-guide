@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bangkok-bigbang-world-tour-xx-cosmos-in-bangkok
-srcHash: 'cc373dc370e6'
+srcHash: 'c015659feb63'
 title: 'BIGBANG World Tour [XX : COSMOS] en Bangkok: fecha, entradas y recinto'
 description: 'La gira mundial de BIGBANG [XX : COSMOS] llega a Bangkok el 7 de noviembre de 2026 y se celebrará en el Estadio Nacional Rajamangala, en la zona de Hua Mak.'
 quickAnswer: 'El 7 de noviembre de 2026, la gira mundial de BIGBANG [XX : COSMOS] hará escala en Bangkok, concretamente en el Estadio Nacional Rajamangala (Rajamangala National Stadium), situado en la zona de Hua Mak. Es la parada tailandesa de la gira 2026-2027 del grupo. Las entradas y los planos de asientos los distribuye el promotor del espectáculo a través de sus canales oficiales. Como ninguna línea ferroviaria para junto a las puertas del estadio, la mayoría de los fans llega en el Airport Rail Link y completa el último tramo con un breve trayecto en taxi o en Grab.'
@@ -60,4 +60,4 @@ Las localidades se venden por zonas, desde las áreas de pie en el césped hasta
 
 La mayoría de los fans que vienen de fuera prefiere alojarse en un lugar con buena conexión ferroviaria antes que junto al estadio. El eje del Airport Rail Link es una buena opción: Makkasan enlaza con la estación Phetchaburi del MRT, y Phaya Thai, con la línea Sukhumvit del BTS. Desde ambas hay una línea directa hacia Ramkhamhaeng después del concierto.
 
-En los alrededores del estadio, las calles junto a la Universidad Ramkhamhaeng están repletas de restaurantes baratos para estudiantes y de puestos nocturnos. Allí cogen fuerzas los fans antes del concierto con fideos, brochetas de cerdo a la brasa y té tailandés con hielo. Las noches de concierto también aparecen carritos de comida en las calles de acceso. Para hacer frente al calor de la noche, la mayoría lleva una botella de agua rellenable.
+En los alrededores del estadio, las calles junto a la Universidad Ramkhamhaeng están repletas de restaurantes baratos para estudiantes y de puestos nocturnos. Allí cogen fuerzas los fans antes del concierto. Las noches de concierto también aparecen carritos de comida en las calles de acceso. Para hacer frente al calor de la noche, la mayoría lleva una botella de agua rellenable.

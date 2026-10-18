@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: abu-dhabi-saikindo
-srcHash: 'b344b1a1effd'
+srcHash: 'ddcd46f3e305'
 title: 'Saikindō: guía de viaje de Abu Dabi'
 description: En el interior del Four Seasons Hotel Abu Dhabi, en la isla de Al Maryah, acaba de abrir Saikindō, un bar de escucha de inspiración japonesa que combina un equipo de sonido para vinilos y cócteles de temática musical con un íntimo comedor de robata.
 quickAnswer: En el interior del Four Seasons Hotel Abu Dhabi, en la isla de Al Maryah, acaba de abrir Saikindō, un bar de escucha de inspiración japonesa que combina un equipo de sonido para vinilos y cócteles de temática musical con un íntimo comedor de robata. Es ideal para una cena tardía o para tomar algo después de cenar. Como la apertura es muy reciente, conviene confirmar el horario y reservar antes del viaje.
@@ -66,4 +66,4 @@ No conduzca si ha bebido. En los Emiratos Árabes Unidos la tolerancia con el al
 
 Saikindō está pensado para quienes cuidan los detalles de una velada. A los melómanos les interesará descubrir cómo está acondicionada la sala. Las parejas agradecerán un comedor pequeño y un bar donde se puede hablar sin alzar la voz. Y quienes viajen por trabajo y se alojen en la isla de Al Maryah tienen un destino a mano sin salir del edificio.
 
-Lo ideal es llegar ya entrada la noche, cuando la isla se queda tranquila y el bar cumple la función para la que fue concebido. Calcule entre dos y tres horas para la cena y las copas. Si solo va a pasar un momento, una copa y una cara completa de un disco le llevarán alrededor de una hora.
+Lo ideal es llegar ya entrada la noche, cuando la isla se queda tranquila y el bar cumple la función para la que fue concebido. Calcule entre dos y tres horas para la cena y las copas. Si solo va a pasar un momento, con una sola copa basta para hacerse una idea del ambiente de la sala.

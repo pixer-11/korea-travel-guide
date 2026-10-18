@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: cameron-highlands-lavender-garden-cameron-lavender
-srcHash: '6334d2f6d0d8'
+srcHash: '2524c94ee1e3'
 title: 'Lavender Garden (Cameron Lavender): Guía de viaje de las Cameron Highlands'
 description: 'Cameron Lavender (también llamado Lavender Garden), en Brinchang, es un jardín compacto en ladera con hileras de lavanda, túneles florales y rincones fotogénicos, abierto todos los días de 9:00 a 18:00. 4.1★ (12,044 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'Cameron Lavender (también llamado Lavender Garden), en Brinchang, es un jardín compacto en ladera con hileras de lavanda, túneles florales y rincones fotogénicos, abierto todos los días de 9:00 a 18:00. La afluencia de público es real: los fines de semana se llena de gente entre las 10:00 y las 17:00, así que conviene ir un día laborable o aprovechar la última hora antes del cierre (17:00–18:00) los fines de semana. Calcule entre 1 y 1.5 horas, incluyendo la cafetería y la tienda de regalos.'
@@ -30,11 +30,11 @@ El diseño es sencillo: bancales escalonados de lavanda ascienden hacia una estr
 
 La tienda de regalos vende manojos de lavanda seca, sachets, jabones y aceites, cultivados en su mayoría en el propio jardín o en otras zonas de las Highlands. Los rincones fotogénicos están pensados como parte del diseño —arcos, columpios, algunos elementos decorativos de gran tamaño—, así que no se sorprenda si otros visitantes posan justo en los mismos sitios que usted.
 
-No espere las dimensiones de un jardín botánico: se trata de una atracción pequeña y muy concentrada, que la mayoría de la gente recorre en menos de 90 minutos.
+No espere las dimensiones de un jardín botánico: se trata de una atracción pequeña y muy concentrada, que no lleva mucho tiempo recorrer.
 
 ## Cómo llegar
 
-Cameron Lavender se encuentra justo a las afueras de Brinchang, sobre la red de carreteras que conecta Tanah Rata, Brinchang y la franja de fresales y plantaciones de té por la que ya suelen pasar la mayoría de los visitantes. La dirección es sencillamente 59, Tanah Rata, 39000 Brinchang.
+Cameron Lavender se encuentra justo a las afueras de Brinchang, sobre la red de carreteras que conecta Tanah Rata, Brinchang y la franja de fresales y plantaciones de té por la que ya suelen pasar la mayoría de los visitantes.
 
 La mayoría de los viajeros llega de las siguientes formas:
 

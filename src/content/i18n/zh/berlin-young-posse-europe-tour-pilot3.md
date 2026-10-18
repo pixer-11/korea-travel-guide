@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: berlin-young-posse-europe-tour-pilot3
-srcHash: '29b5a73b2943'
+srcHash: '361172d099a3'
 title: Young Posse欧洲巡演（PILOT3）柏林站：日期、门票与场馆
 description: 2026年11月1日，人气渐涨的K-pop女团Young Posse将把欧洲巡演（PILOT3）带到柏林，演出地点是克罗伊茨贝格区奥拉宁街上的SO36俱乐部。
 quickAnswer: 2026年11月1日，人气渐涨的K-pop女团Young Posse将把欧洲巡演（PILOT3）带到柏林，在克罗伊茨贝格区（Kreuzberg）奥拉宁街（Oranienstraße）的SO36登台。柏林站排在伦敦、巴黎和巴塞罗那三站之后。离场馆最近的地铁站是科特布斯门站（Kottbusser Tor）和格尔利茨站（Görlitzer Bahnhof）。
@@ -30,7 +30,7 @@ faq:
 
 - **科特布斯门站（Kottbusser Tor）**（U1、U3、U8）：沿奥拉宁街向西步行约五分钟
 - **格尔利茨站（Görlitzer Bahnhof）**（U1、U3）：经曼托伊费尔街（Manteuffelstraße）向南步行约五分钟
-- **夜班巴士**途经这一带；地铁仅在周五和周六晚通宵运营
+- **夜班巴士**途经这一带；周末夜间的地铁服务也可作为回程的另一种选择
 
 主场地只有一层，全部为站席。场内没有阶梯座位，能看到什么全凭站位。个子不高的歌迷通常不去挤护栏前，而是选择地势稍高的边缘或中间几排。场馆没有楼座，所有观众都和舞台处在同一平面上。
 

@@ -17,7 +17,7 @@ faq:
   - q: Where is it held?
     a: The main venue is the Thailand Cultural Centre on Ratchadaphisek Road, reachable directly via Thailand Cultural Centre MRT station (Blue Line).
   - q: How do I get tickets and how much do they cost?
-    a: Tickets are generally sold through the festival's or venue's official booking channels closer to the event; prices and on-sale dates haven't been confirmed here, so check the official Thailand Cultural Centre or festival website before you plan around a specific show.
+    a: Tickets were generally sold through the festival's or venue's official booking channels; prices and on-sale dates were not confirmed here.
   - q: What kind of performances are featured?
     a: The 2026 edition includes 12 productions from nine countries spanning opera, ballet, contemporary dance, and multimedia performance — a deliberately varied program rather than a single genre.
   - q: How long should I plan to stay in Bangkok for this?
@@ -32,13 +32,13 @@ eventOffers:
   url: https://www.thaiticketmajor.com/bangkokfestivals/
 eventFactsAsked: true
 heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Thailand_Cultural_Centre_2.jpg/1920px-Thailand_Cultural_Centre_2.jpg'
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Thailand_Cultural_Centre_2.jpg/1920px-Thailand_Cultural_Centre_2.jpg
   credit: 'Photo: Tmd / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Thailand_Cultural_Centre_2.jpg'
+  source: https://commons.wikimedia.org/wiki/File:Thailand_Cultural_Centre_2.jpg
   focus:
     x: 50
-    y: 50
+    'y': 50
 ---
 You come to this festival for the thing Bangkok doesn't otherwise offer in concentrated form: a six-week stretch where the Thailand Cultural Centre effectively becomes a small international performing-arts hub, pulling in opera companies, ballet troupes, and experimental multimedia acts from nine different countries and putting them on stages a short train ride from wherever you're staying. For one autumn, a city famous for street food and temple spires quietly turns into a place where you can catch European ballet one night and an avant-garde multimedia piece the next.
 
@@ -46,7 +46,7 @@ You come to this festival for the thing Bangkok doesn't otherwise offer in conce
 
 Now in its 28th year, the Bangkok International Festival of Dance & Music has built a reputation as Thailand's longest-running showcase of large-scale international performance. Twelve productions spanning opera, ballet, contemporary dance, and multimedia work make up the 2026 edition, running September 5 through October 17. That's a long runway by festival standards, not a single frantic weekend, but a slow rotation of touring companies passing through, each usually staying for just a handful of performances before moving on.
 
-The lineup itself hasn't been announced in detail here, so treat any specific company or title you hear about as provisional until the organizers publish the full program.
+[DELETE]
 
 ## Where it happens
 
@@ -64,15 +64,13 @@ Productions are typically staged for only a few nights each within the September
 
 With dates running from September 5 to October 17, 2026, you're looking at early autumn in Bangkok, still deep in the rainy season, with warm, humid evenings and the chance of a downpour on your walk from the MRT. Indoor, air-conditioned venues make weather largely a non-issue once you're inside, but budget a few extra minutes for transit if it's raining.
 
-Because the festival spans more than six weeks with different productions rotating through, there's no single "peak" date to aim for. The smarter approach is to decide which specific production interests you, then plan your Bangkok trip, or your evening, around that show's dates once they're published.
+Because the festival spans more than six weeks with different productions rotating through, there's no single "peak" date to aim for. The smarter approach was to decide which specific production interested you, then plan your Bangkok trip, or your evening, around that show's dates.
 
 ## How to visit like a local
 
 Bangkok theatregoers tend to book ahead for anything with international billing rather than hoping to walk up, since these touring productions often play only a night or two. Tickets for events at the Thailand Cultural Centre are typically sold online through the festival or venue's official booking system, with card payment standard; arrive with time to spare, as bag checks and ticket collection at the entrance plaza can create a short queue right before curtain.
 
 Smart casual is the norm, Thai audiences dress a notch up for evening performances here, though nobody polices it strictly. The mistake visitors most often make is assuming the festival is a single fixed event with one set of dates; it's really a season of separate shows, so always double check the specific date, start time, and hall for the production you actually want to see.
-
-Because this is a recurring, evolving program, confirm the final lineup, exact showtimes, venue hall, and ticket prices on the festival's official website or the Thailand Cultural Centre's channels closer to September 2026, none of that granular detail is locked in this far out.
 
 ## Nearby to combine with your evening
 

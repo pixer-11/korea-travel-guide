@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: boston-public-garden
-srcHash: '70f2a6fd179b'
+srcHash: 'f99e2cc87bc9'
 title: 'Public Garden: Guía de viaje de Boston (4,8★)'
 description: 'El Public Garden, en la zona de Back Bay/Beacon Hill de Boston, es el jardín botánico público más antiguo del país, trazado en 1837 junto a Boston Common, y vive su momento de mayor afluencia los fines de semana de 11:00 a 20:00. 4,8★ (18.909 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El Public Garden, en la zona de Back Bay/Beacon Hill de Boston, es el jardín botánico público más antiguo del país, trazado en 1837 junto a Boston Common, y vive su momento de mayor afluencia los fines de semana de 11:00 a 20:00. Si puede, visítelo entre semana o vaya a primera hora de la mañana: los botes-cisne del estanque funcionan solo por temporada, y la estatua de George Washington junto con los bronces de Make Way for Ducklings son los dos rincones que todo el mundo fotografía. Calcule entre 30 y 45 minutos para recorrerlo, más tiempo si hace fila para subir a un bote-cisne.'
@@ -48,7 +48,7 @@ Si viaja con niños, este es el momento de bajar el ritmo: es una parada de poco
 
 El Public Garden es uno de los espacios verdes más visitados de Boston, y su afluencia sigue un ritmo bastante predecible. Los fines de semana la mayor concurrencia se da entre las 11:00 y las 20:00, cuando los senderos junto al estanque, el embarcadero de los botes-cisne y la estatua de los patitos se llenan de visitantes al mismo tiempo.
 
-Entre semana el ambiente es más tranquilo en general, y el tramo más silencioso de todos es la noche, entre las 22:00 y las 23:00, aunque a esa hora el encanto del parque tiene más que ver con los bancos vacíos que con el turismo activo, ya que los botes-cisne y la mayoría de los servicios llevan tiempo cerrados. Para una visita animada pero aun así manejable, las mañanas de fin de semana antes de las 11:00 son la mejor ventana: el parque permanece relativamente despejado desde las 7:00 los sábados y domingos, antes de la avalancha del mediodía.
+Entre semana el ambiente es más tranquilo en general, y el tramo más silencioso de todos es la noche, entre las 22:00 y las 23:00, aunque a esa hora el encanto del parque tiene más que ver con los bancos vacíos que con el turismo activo, ya que los botes-cisne y la mayoría de los servicios llevan tiempo cerrados. Para una visita animada pero aun así manejable, las mañanas de fin de semana antes de las 11:00 son la mejor ventana, antes de que llegue la avalancha de visitantes del mediodía.
 
 Si lo que busca es hacer fotos sin desconocidos de fondo, llegue justo a la hora de apertura en un día entre semana. Si prefiere disfrutar de los botes-cisne y no le importa la compañía, una tarde de entre semana es el equilibrio perfecto.
 

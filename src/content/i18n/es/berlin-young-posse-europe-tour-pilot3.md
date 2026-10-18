@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: berlin-young-posse-europe-tour-pilot3
-srcHash: '29b5a73b2943'
+srcHash: '361172d099a3'
 title: 'Young Posse Europe Tour (PILOT3) en Berlín: fechas, entradas y sala'
 description: 'El 1 de noviembre de 2026, la Young Posse Europe Tour (PILOT3) llega a Berlín: el emergente grupo femenino de K-pop actuará en la sala SO36, situada en la Oranienstraße, en pleno Kreuzberg.'
 quickAnswer: 'El 1 de noviembre de 2026, la Young Posse Europe Tour (PILOT3) llega a Berlín: el emergente grupo femenino de K-pop actuará en la sala SO36, situada en la Oranienstraße, en pleno Kreuzberg. La gira pasará antes por Londres, París y Barcelona. Las estaciones de metro (U-Bahn) más próximas son Kottbusser Tor y Görlitzer Bahnhof.'
@@ -30,7 +30,7 @@ El club se encuentra en Oranienstraße 190, la calle con más vida nocturna de K
 
 - **Kottbusser Tor** (U1, U3, U8): a unos cinco minutos hacia el oeste por la Oranienstraße
 - **Görlitzer Bahnhof** (U1, U3): a unos cinco minutos hacia el sur por la Manteuffelstraße
-- **Autobuses nocturnos:** dan servicio a la zona; el metro solo funciona toda la noche los viernes y los sábados
+- **Autobuses nocturnos:** dan servicio a la zona; el servicio nocturno del metro durante el fin de semana puede ser otra opción para volver a casa
 
 El espacio principal consta de una única pista sin asientos. Al no haber gradas, la visibilidad depende del sitio que se ocupe. Los asistentes de menor estatura suelen preferir los laterales elevados o la zona central antes que las apreturas junto a la valla. Tampoco hay anfiteatro, de modo que todo el público comparte un mismo nivel frente al escenario.
 

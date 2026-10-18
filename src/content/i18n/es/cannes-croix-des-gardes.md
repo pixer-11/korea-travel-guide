@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: cannes-croix-des-gardes
-srcHash: '5f5ebf8dafc3'
+srcHash: '82c6db49f260'
 title: 'Croix des Gardes: guía de viaje de Cannes'
 description: Croix des Gardes es un parque boscoso sobre una colina en el extremo occidental de Cannes, al que se llega en coche o subiendo a pie por la empinada Avenue de la Croix des Gardes, y permanece abierto las 24 horas del día.
 quickAnswer: Croix des Gardes es un parque boscoso sobre una colina en el extremo occidental de Cannes, al que se llega en coche o subiendo a pie por la empinada Avenue de la Croix des Gardes, y permanece abierto las 24 horas del día. Conviene ir a última hora de la tarde para disfrutar de la mejor luz sobre la bahía y el macizo del Esterel, y aun en temporada alta es fácil tener buena parte de los senderos para uno mismo. No hay entrada, ni verja, ni horario fijo de visita, así que el momento de ir queda enteramente a su elección.
@@ -20,7 +20,7 @@ faq:
 
 La mayoría de quienes visitan Cannes nunca llega hasta aquí, y esa es precisamente la gracia del lugar. Croix des Gardes es una colina de 90 hectáreas cubierta de pinos piñoneros y alcornoques que se eleva detrás del barrio de Californie, a pocos minutos en coche de La Croisette pero perteneciente a otro mundo por completo: senderos de tierra, canto de pájaros y vistas que se extienden desde las Islas de Lérins hasta las crestas de roca roja del Esterel.
 
-La colina toma su nombre de una cruz de piedra plantada en su cima, a 164 metros de altitud, un hito que vigila la bahía desde la época medieval, cuando los guardias la usaban para detectar la llegada de barcos. Esa cruz sigue siendo el destino al que apunta la mayoría de los caminantes, y la recompensa al llegar arriba es un panorama realmente amplio, no un simple atisbo entre edificios.
+La colina toma su nombre de una cruz de piedra plantada en su cima, un hito que vigila la bahía desde la época medieval, cuando los guardias la usaban para detectar la llegada de barcos. Esa cruz sigue siendo el destino al que apunta la mayoría de los caminantes, y la recompensa al llegar arriba es un panorama realmente amplio, no un simple atisbo entre edificios.
 
 ## Cómo encontrar la entrada en la Avenue de la Croix des Gardes
 

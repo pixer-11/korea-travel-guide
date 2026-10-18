@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: brisbane-rugby-league-world-cup-2026-final
-srcHash: 'c7a208585666'
+srcHash: 'bc87068ef9aa'
 title: 2026年橄榄球联盟世界杯决赛：日期、门票与场馆（布里斯班）
 description: 2026年橄榄球联盟世界杯决赛将于2026年11月15日在布里斯班的Suncorp体育场（Suncorp Stadium）举行，男子组与女子组决赛同日开打。
 quickAnswer: 2026年11月15日，布里斯班的Suncorp体育场（Suncorp Stadium）将同日上演2026年橄榄球联盟世界杯男子组与女子组两场决赛。购票请认准赛事官网这一唯一渠道。球场不设公共停车位，建议提前规划，乘火车或公交前往。
@@ -42,7 +42,7 @@ faq:
 
 体育场位于中央商务区西侧边缘的米尔顿（Milton）。场馆不提供公共停车位，比赛日周边道路还会实行交通管制，车行缓慢，所以千万别开车。
 
-- **火车**：米尔顿站就在体育场正对面，伊普斯威奇/罗斯伍德线（Ipswich/Rosewood）和斯普林菲尔德线（Springfield）均可到达。大多数市郊线路都停靠罗马街站（Roma Street），从那里沿卡克斯顿街（Caxton Street）步行约15分钟即到。
+- **火车**：米尔顿站就在体育场正对面，伊普斯威奇/罗斯伍德线（Ipswich/Rosewood）和斯普林菲尔德线（Springfield）均可到达。从罗马街站（Roma Street）步行约15分钟即到。
 - **公交**：比赛日通常有接驳巴士从中央商务区及各郊区交通枢纽发车。
 - **凭票乘车**：按照惯例，Suncorp体育场的赛事门票包含比赛当天乘坐昆士兰公共交通（Translink）的费用，具体以门票上印刷的条款为准。
 

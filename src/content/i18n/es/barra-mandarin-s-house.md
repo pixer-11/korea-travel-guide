@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: barra-mandarin-s-house
-srcHash: 'bacfd17604ee'
+srcHash: '6e72ff581591'
 title: 'Casa del Mandarín: guía de viaje por Barra (4.4★)'
 description: La Casa del Mandarín se encuentra en la Travessa de António da Silva, en el barrio de Barra (Macao), a pocos pasos de la plaza de Lilau. Con 4.4★ y 1,105 reseñas, aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
 quickAnswer: En la Travessa de António da Silva, dentro del barrio de Barra (Macao) y a pocos pasos de la plaza de Lilau, se alza la Casa del Mandarín (Mandarin's House). Este amplio conjunto residencial familiar de estilo cantonés, hoy restaurado, forma parte del Centro Histórico de Macao, declarado Patrimonio de la Humanidad por la UNESCO, y ofrece visitas guiadas. Abre todos los días de 10am a 6pm, salvo los miércoles, en que permanece cerrado. Conviene reservar entre una y dos horas para recorrerlo.
@@ -45,7 +45,7 @@ Busque después aquello que no encajaría en una casa cantonesa «pura». Entre 
 - **Una puerta de luna**, ese vano circular que enmarca la vista de un patio a otro
 - **Ladrillo gris y madera oscura** por todas partes, la paleta habitual del estilo lingnan
 
-La planta obedece a la norma china de encadenar patios y salones. Los acabados, en cambio, revelan una ciudad portuaria donde constructores portugueses, indios y chinos compartían herramientas e ideas. La restauración, a cargo del gobierno, se prolongó unos ocho años, y la casa volvió a abrir sus puertas al público en 2010.
+La planta obedece a la norma china de encadenar patios y salones. Los acabados, en cambio, revelan una ciudad portuaria donde constructores portugueses, indios y chinos compartían herramientas e ideas. A lo largo del siglo XX la casa fue deteriorándose, hasta que el gobierno emprendió su restauración y volvió a abrir sus puertas al público.
 
 ## Los miércoles y el cierre de las 6pm
 

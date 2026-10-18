@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: abu-dhabi-khalifa-park
-srcHash: 'ad3d41299134'
+srcHash: 'bbbf20d2e46b'
 title: 'Khalifa Park: Guía de viaje de Abu Dabi (4.3★)'
 description: 'Khalifa Park es un extenso espacio verde en la calle Sheikh Zayed Bin Sultan, en Al Muntazah, conocido sobre todo por su biblioteca cultural, su museo marítimo, sus zonas de barbacoa y un mini tren que recorre los jardines. 4.3★ (6.261 opiniones): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Khalifa Park es un extenso espacio verde en la calle Sheikh Zayed Bin Sultan, en Al Muntazah, conocido sobre todo por su biblioteca cultural, su museo marítimo, sus zonas de barbacoa y un mini tren que recorre los jardines. Abre todos los días de 10:00 a 22:00 o 23:00 según el día, y es realmente popular, así que si buscas tranquilidad conviene ir en las horas finales de la tarde. Calcula entre dos y tres horas si quieres ver el museo y la biblioteca, o menos si solo vas a pasear o hacer un pícnic.
@@ -46,7 +46,7 @@ Ninguna de estas atracciones ocupa un día entero por sí sola, pero juntas hace
 
 El parque abre de 10:00 a 22:00 los lunes, martes, miércoles y domingos, y amplía el horario hasta las 23:00 de jueves a sábado. Dado el clima de Abu Dabi, las tardes-noches son el momento natural para visitarlo casi en cualquier época del año: el museo y la biblioteca funcionan bien a cualquier hora dentro de su horario, pero los jardines resultan mucho más agradables una vez que se pone el sol.
 
-Según los datos de afluencia, el tramo más tranquilo entre semana es de 22:00 a 23:00, justo antes del cierre. Los fines de semana, la franja más silenciosa va de 10:00 a 11:00, temprano, antes de que lleguen las multitudes de la tarde. Si solo puedes ir en fin de semana, ese horario de media mañana es tu mejor opción para tener algo de espacio propio.
+Según los datos de afluencia, el tramo más tranquilo entre semana es de 22:00 a 23:00, justo antes del cierre. Los fines de semana, la franja más silenciosa va de 10:00 a 11:00, temprano, antes de que lleguen las multitudes de la noche. Si solo puedes ir en fin de semana, ese horario de media mañana es tu mejor opción para tener algo de espacio propio.
 
 ## Cómo visitarlo como un local
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bordeaux-grosse-cloche
-srcHash: 'cbab0bab9131'
+srcHash: '15edc03a86e2'
 title: 'Grosse Cloche: guía de viaje de Burdeos (4,6★)'
 description: 'La Grosse Cloche se alza sobre la Rue Saint-James, en Burdeos, como una puerta de dos torreones que atraviesa la calle y alberga en su interior una campana de 7,75 toneladas. 4,6★ (6.523 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'La Grosse Cloche se alza sobre la Rue Saint-James, en Burdeos, como una puerta de dos torreones que atraviesa la calle y alberga en su interior una campana de 7,75 toneladas. Es un monumento muy visitado, pero el acceso al interior está muy limitado: solo los lunes por la tarde y los sábados por la mañana, en breves franjas de 30 minutos. Conviene comprobar los horarios exactos antes de planear la visita, ya que el resto de la semana las puertas permanecen cerradas.'
@@ -20,7 +20,7 @@ faq:
 
 La Grosse Cloche es una puerta fortificada, no una torre de iglesia, aunque la campana que alberga lleve a muchos a pensar lo contrario. Se levanta sobre la Rue Saint-James apoyada en dos torreones redondos con tejados de pizarra en punta, único vestigio que queda de la muralla medieval de Burdeos. Coches y peatones pasan directamente bajo su arco, y así es como la mayoría de los visitantes la descubren por primera vez, alzando la vista desde la calle.
 
-La campana pesa 7,75 toneladas y data del siglo XVIII; está colgada en el campanario, justo encima de lo que antaño fue una celda para prisioneros jóvenes. Solo suena en ocasiones especiales, no a diario, así que no conviene esperar escucharla en una visita normal. El calabozo situado debajo añade un matiz más sombrío a un monumento que la mayoría fotografía únicamente por su fachada.
+La campana está colgada en el campanario, justo encima de lo que antaño fue una celda para prisioneros jóvenes. Solo suena en ocasiones especiales, no a diario, así que no conviene esperar escucharla en una visita normal. El calabozo situado debajo añade un matiz más sombrío a un monumento que la mayoría fotografía únicamente por su fachada.
 
 ## Cómo entrar en la puerta fortificada
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: amritsar-ramgarhia-bunga
-srcHash: '4ee554e9dfc3'
+srcHash: 'db2f61e1a081'
 title: 'Ramgarhia Bunga: guía de viaje de Amritsar'
 description: Ramgarhia Bunga se encuentra en el límite del complejo del Templo Dorado, cerca de Guru Ka Langar, en Katra Ahluwalia, Amritsar, y es una de las pocas torres de vigilancia de la era sij que aún se conserva prácticamente libre de puestos de recuerdos.
 quickAnswer: Ramgarhia Bunga se encuentra en el límite del complejo del Templo Dorado, cerca de Guru Ka Langar, en Katra Ahluwalia, Amritsar, y es una de las pocas torres de vigilancia de la era sij que aún se conserva prácticamente libre de puestos de recuerdos. Conviene ir a última hora de la tarde, cuando la luz baña el ladrillo y la multitud todavía se concentra dentro del santuario principal. Verla desde fuera no cuesta nada y se llega caminando en unos veinte minutos desde el parikrama del Templo Dorado.
@@ -28,7 +28,7 @@ Esta es una de las pocas originales que siguen en pie, y tanto su ladrillo como 
 
 Las torres se levantan cerca de Guru Ka Langar, en Katra Ahluwalia, en el borde norte del complejo del Templo Dorado, dentro de Amritsar Cantt. Desde la entrada de la torre del reloj del templo, hay que pasar junto al salón del langar y preguntar por Ramgarhia Bunga; los vecinos de la zona la conocen bien, aunque no cuenta con carteles grandes que la señalen.
 
-Está a cinco o siete minutos a pie del salón del langar, y a menos de veinte minutos del santuario principal si se viene directamente desde el parikrama.
+Está a poca distancia a pie del salón del langar, y se llega con facilidad si se viene directamente desde el parikrama.
 
 No hay taquilla ni horario de visita fijado, así que conviene tratarla como una parada arquitectónica al aire libre y no como un monumento con recorrido formal. Si se quiere entrar, lo mejor es confirmar el acceso en el propio lugar, ya que las visitas al interior no siempre están abiertas al público.
 

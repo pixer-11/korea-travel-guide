@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: austin-f1-united-states-grand-prix
-srcHash: 'fb1ec2d9e16e'
+srcHash: '9ee30b3f642d'
 title: 'Gran Premio de Estados Unidos de F1: fechas, entradas y sede (Austin)'
 description: Del 22 al 25 de octubre de 2026, el Circuito de las Américas (Circuit of the Americas, COTA), en Austin (Texas), acoge el Gran Premio de Estados Unidos de Fórmula 1.
 quickAnswer: Del 22 al 25 de octubre de 2026, el Circuito de las Américas (Circuit of the Americas, COTA), en Austin (Texas), acoge el Gran Premio de Estados Unidos de Fórmula 1. Este año el programa suma una cuarta jornada, el Grand PrixView Thursday, que precede a los habituales días de entrenamientos, clasificación y carrera. Las fechas, las entradas y los planos de asientos pueden consultarse en las webs oficiales del circuito y de la Fórmula 1.
@@ -59,6 +59,8 @@ El público aquí es tejano de pura cepa: sombreros vaqueros en las gradas, cami
 
 ## Más allá del circuito
 
-Con la carrera, Austin entera se vuelca en una gran fiesta. Cada noche, Sixth Street y Rainey Street, en pleno centro, se llenan de aficionados vestidos con los colores de sus equipos. South Congress Avenue es el sitio ideal para comprar botas tejanas y contemplar el Capitolio. Si busca un rato de calma, el lago Lady Bird ofrece un sendero circular a la sombra. Cada otoño, mientras los murciélagos siguen en la ciudad, la colonia que vive bajo el puente de Congress Avenue alza el vuelo al anochecer.
+Con la carrera, Austin entera se vuelca en una gran fiesta. Cada noche, Sixth Street y Rainey Street, en pleno centro, se llenan de aficionados vestidos con los colores de sus equipos. South Congress Avenue es el sitio ideal para comprar botas tejanas y contemplar el Capitolio. Si busca un rato de calma, el lago Lady Bird ofrece un sendero circular a la sombra.
+
+La colonia de murciélagos que vive bajo el puente de Congress Avenue alza el vuelo al anochecer, y en octubre todavía es posible verlos antes de que migren al sur para pasar el invierno.
 
 La gran cita gastronómica de la ciudad es la barbacoa. En los asadores más afamados, las colas para conseguir pecho de res ahumado pueden formarse mucho antes de la hora de comer, por lo que muchos visitantes los reservan para el día anterior o el posterior al fin de semana de carrera. Quienes vuelan para asistir a las cuatro jornadas suelen calcular al menos una semana de estancia en Austin.

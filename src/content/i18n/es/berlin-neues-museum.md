@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: berlin-neues-museum
-srcHash: 'c2e200db4dcd'
+srcHash: '28fc4e664974'
 title: 'Neues Museum: guía de viaje de Berlín (4.5★)'
 description: En la Isla de los Museos, dentro del distrito berlinés de Mitte, se encuentra el Neues Museum (Bodestraße 1-3). Tiene una valoración de 4.5★ sobre 15,950 reseñas. Aquí encontrará lo que cuentan los visitantes, además de horarios y consejos.
 quickAnswer: El Neues Museum se alza en la Isla de los Museos (Museumsinsel), en el distrito berlinés de Mitte, en Bodestraße 1-3. Este edificio del siglo XIX quedó dañado en la guerra y fue restaurado por David Chipperfield. Hoy guarda el busto de Nefertiti, además de arte egipcio y hallazgos prehistóricos. Abre de martes a domingo, de 10:00 a 18:00, y cierra los lunes. Los fines de semana registran la mayor afluencia entre las 11:00 y las 18:00, de modo que conviene reservar la franja de las 10:00 o acudir entre semana.
@@ -28,7 +28,7 @@ Reserve entre dos y tres horas para la visita, y dedique media hora de ellas ún
 
 ## Nefertiti bajo la cúpula norte
 
-La mayoría de los visitantes se dirige sin rodeos hacia el busto de Nefertiti. Este retrato de la reina egipcia, tallado en piedra caliza y policromado, salió hacia el 1345 a. C. del taller del escultor Tutmose. Lo desenterró en Amarna una expedición alemana en 1912.
+La mayoría de los visitantes se dirige sin rodeos hacia el busto de Nefertiti. Se trata de un retrato de la reina egipcia, tallado en piedra caliza y policromado.
 
 La reina ocupa en solitario una sala con cúpula de la planta superior, dentro de una vitrina con iluminación tenue. En esta sala está prohibido hacer fotografías y los vigilantes lo hacen cumplir. Guarde el teléfono y contemple con calma unos colores que se conservan asombrosamente intactos. Observe también que uno de los ojos nunca llegó a tener incrustación.
 
@@ -45,7 +45,7 @@ La segunda colección del edificio pertenece al Museo de Prehistoria y Protohist
 Busque también estas piezas:
 
 - Los hallazgos de Heinrich Schliemann en Troya, junto con la historia de lo que se perdió después de 1945
-- El cráneo neandertal de Le Moustier, en Francia
+- Un cráneo neandertal de la colección prehistórica
 - Herramientas y ajuares funerarios de la Edad de Piedra, dispuestos como un paseo a través del tiempo
 
 ## Cómo llegar a Bodestraße

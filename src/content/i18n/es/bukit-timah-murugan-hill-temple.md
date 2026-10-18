@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bukit-timah-murugan-hill-temple
-srcHash: 'f69bfdbaa431'
+srcHash: 'd6fa7d683430'
 title: 'Templo Murugan Hill: guía de viaje de Bukit Timah (4,7★)'
 description: 'El Templo Murugan Hill se encuentra en Upper Bukit Timah Road, en el distrito de Bukit Timah, recostado contra la base de la colina, cerca de la reserva natural. 4,7★ (1.314 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Templo Murugan Hill se encuentra en Upper Bukit Timah Road, en el distrito de Bukit Timah, recostado contra la base de la colina, cerca de la reserva natural. Abre todos los días solo en dos franjas horarias, de 7:00 a 11:45 y de 18:00 a 20:45, así que conviene organizar la visita en torno a esos dos tramos. Los fines de semana, entre las 9:00 y las 20:00, se registra la mayor afluencia, sobre todo en fechas de festivales, por lo que una mañana entre semana es la opción más tranquila.
@@ -58,7 +58,7 @@ Como en cualquier templo hindú en actividad, el Templo Murugan Hill espera de s
 - Quitarse los zapatos antes de pisar el suelo del templo; los estantes cerca de la entrada están para dejarlos.
 - Vestir con recato: cubrir hombros y rodillas es la opción más segura.
 - Tomar fotografías suele estar permitido en el patio exterior, pero conviene pedir permiso antes de fotografiar el santuario interior o a personas en oración.
-- Quienes deseen hacer una ofrenda de flores, frutas o cocos pueden comprarlas a los vendedores que suelen ubicarse cerca de templos como este; no es obligatorio.
+- Quienes deseen hacer una ofrenda pueden optar por flores, frutas o cocos, que son las opciones tradicionales; no es obligatorio.
 - Mantener la voz baja cerca del santuario, en particular durante las sesiones de oración activas de las franjas matutina y vespertina.
 
 No hay costo de entrada, aunque suele haber una pequeña caja de donativos cerca de la entrada para quienes deseen contribuir.

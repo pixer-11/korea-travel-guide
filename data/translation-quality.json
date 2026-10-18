@@ -49,18 +49,18 @@
   "at": "2026-08-15T11:58:46.504Z"
  },
  "es/abu-dhabi-khalifa-park": {
-  "hash": "77938bfeaaa3",
+  "hash": "ba0500a88948",
   "score": 1,
   "registerBreak": false,
-  "worst": "es la respuesta de Abu Dabi a un parque urbano como es debido: no un simple trozo",
-  "at": "2026-10-04T07:56:24.322Z"
+  "worst": "El efectivo en billetes pequeños ayuda: los vendedores informales y los encargados...",
+  "at": "2026-10-18T07:49:17.823Z"
  },
  "es/abu-dhabi-louvre-abu-dhabi": {
-  "hash": "3b681c3dc0e4",
+  "hash": "6edb3ca86f2a",
   "score": 1,
   "registerBreak": false,
   "worst": "ofreciendo una perspectiva de la arquitectura totalmente distinta a la que se aprecia desde dentro.",
-  "at": "2026-10-04T07:56:25.560Z"
+  "at": "2026-10-18T07:49:19.867Z"
  },
  "es/abu-dhabi-qasr-al-hosn": {
   "hash": "bffea87230d4",
@@ -670,13 +670,6 @@
   "registerBreak": false,
   "worst": "El atractivo está en la combinación: café de especialidad de una tostadora propia, un edifici",
   "at": "2026-08-15T03:15:04.309Z"
- },
- "es/bangkok-bangkok-international-festival-of-dance-music": {
-  "hash": "3001b8afaa5f",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "llevándolos a escenarios a un corto trayecto en tren de donde te alojes.",
-  "at": "2026-08-15T03:14:48.580Z"
  },
  "es/bangkok-chatuchak-weekend-market": {
   "hash": "312515dba596",
@@ -7553,18 +7546,18 @@
   "at": "2026-08-15T06:22:23.597Z"
  },
  "ja/abu-dhabi-khalifa-park": {
-  "hash": "d646bc0e0c76",
+  "hash": "3b746237d951",
   "score": 1,
   "registerBreak": false,
-  "worst": "ベンチがひとつあるだけの芝生とは違い、水景施設やヤシ並木の遊歩道、そして...しっかりデザインされたランドスケープです。",
-  "at": "2026-10-04T07:56:31.987Z"
+  "worst": "ベンチがひとつあるだけの芝生とは違い、水景施設やヤシ並木の遊歩道、そして日中の散策も苦にならないほど充実した日陰スペースを備えた、しっかりデザインされたランドスケープです。",
+  "at": "2026-10-18T07:49:21.471Z"
  },
  "ja/abu-dhabi-louvre-abu-dhabi": {
-  "hash": "099dbf30c154",
+  "hash": "2d03298ee5da",
   "score": 1,
   "registerBreak": false,
   "worst": "人類の創造性はそれぞれの国の物語ではなく、ひとつの連続した物語である――そう主張するために作られた美術館なのです。",
-  "at": "2026-10-04T07:56:37.237Z"
+  "at": "2026-10-18T07:49:24.152Z"
  },
  "ja/abu-dhabi-qasr-al-hosn": {
   "hash": "61b5275acf0e",
@@ -7572,13 +7565,6 @@
   "registerBreak": false,
   "worst": "多くの「歴史遺産」スポットが復元建築であるのに対し、ここは本物です——アブダビに現存する最古の建造物であり",
   "at": "2026-08-15T02:43:28.235Z"
- },
- "ja/abu-dhabi-tamer-hosny-and-tamer-ashour-concert": {
-  "hash": "f9d77844b906",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "入場ゲートでのセキュリティチェックは空港並みの厳しさなので、開場終了間際の30分以内に到着する場合は...",
-  "at": "2026-09-13T08:24:32.104Z"
  },
  "ja/abu-dhabi-the-corrs-live-in-concert": {
   "hash": "1caa6c510b5f",
@@ -8125,13 +8111,6 @@
   "registerBreak": false,
   "worst": "18,000件を超えるレビューで評価4.9を誇るこの店は、もはや静かな街角のカフェではなく、バンドン市内でも屈指の人気コーヒースポット",
   "at": "2026-08-15T02:45:06.259Z"
- },
- "ja/bangkok-bangkok-international-festival-of-dance-music": {
-  "hash": "60752325cf37",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "このフェスティバルの魅力は、バンコクでは他になかなか味わえない体験——タイ文化センター(Thailand Cultural Centre)が6週間にわたって国際舞台芸術の小さなハブと化し、9カ国から集まったオペラカンパニー",
-  "at": "2026-08-15T02:45:20.121Z"
  },
  "ja/bangkok-chatuchak-weekend-market": {
   "hash": "ebddc0baeba6",
@@ -14735,18 +14714,18 @@
   "at": "2026-09-14T08:02:33.641Z"
  },
  "ko/abu-dhabi-khalifa-park": {
-  "hash": "6d3931ba7858",
+  "hash": "0816449df26c",
   "score": 1,
   "registerBreak": false,
-  "worst": "실측 유동인구 데이터를 보면 평일 중 가장 한산한 시간대는 폐장 직전인 오후 10시부터 11시 사이입니다.",
-  "at": "2026-10-04T07:56:43.190Z"
+  "worst": "사람들에게 사랑받으며 활발히 이용되는 공공 공간이라 생각하시는 편이 좋습니다.",
+  "at": "2026-10-18T07:49:32.084Z"
  },
  "ko/abu-dhabi-louvre-abu-dhabi": {
-  "hash": "c886f2e31b68",
+  "hash": "e423f7663836",
   "score": 1,
   "registerBreak": false,
   "worst": "인간의 창조성이란 각 나라별로 나뉜 이야기가 아니라 하나로 이어진 이야기라는 것을, 이 미술관은 온몸으로 증명해 보입니다.",
-  "at": "2026-10-04T07:56:44.420Z"
+  "at": "2026-10-18T07:49:41.110Z"
  },
  "ko/abu-dhabi-qasr-al-hosn": {
   "hash": "c3af7ef86546",
@@ -14761,13 +14740,6 @@
   "registerBreak": false,
   "worst": "이 애드리브는 그의 콘서트를 대표하는 특징이기도 합니다.",
   "at": "2026-10-05T07:59:47.012Z"
- },
- "ko/abu-dhabi-tamer-hosny-and-tamer-ashour-concert": {
-  "hash": "c2e88efc2334",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "첫 소절이 나오기도 전에 모든 가사를 따라 부를 준비가 된 관객들로 가득 찰 만한 조합입니다.",
-  "at": "2026-09-13T08:24:46.954Z"
  },
  "ko/abu-dhabi-the-corrs-live-in-concert": {
   "hash": "5be2aea8be31",
@@ -15496,13 +15468,6 @@
   "registerBreak": false,
   "worst": "Jl. Riau — L.L.R.E. Martadinata의 식민지 시대 명칭 — 는 반둥을 대표하는 헤리티지 쇼핑 거리 중 하나로",
   "at": "2026-09-14T14:15:32.129Z"
- },
- "ko/bangkok-bangkok-international-festival-of-dance-music": {
-  "hash": "d4fa39412c17",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "타일랜드 컬처럴 센터가 사실상 작은 국제 공연예술 허브로 변신하여, 9개국에서 온 오페라단...",
-  "at": "2026-09-14T14:15:36.070Z"
  },
  "ko/bangkok-chatuchak-weekend-market": {
   "hash": "53c7e098dd11",
@@ -22099,18 +22064,18 @@
   "at": "2026-08-15T06:44:26.856Z"
  },
  "zh/abu-dhabi-khalifa-park": {
-  "hash": "145c03387fe1",
+  "hash": "5507263f692b",
   "score": 1,
   "registerBreak": false,
-  "worst": "这里深受本地居民和游客喜爱，所以不要指望能找到一处清静的世外桃源——它更像是一个被大家充分使用、真心喜爱的公共空间。",
-  "at": "2026-10-04T07:56:46.895Z"
+  "worst": "这座公园更适合慢慢体会——在喷泉旁找张长椅坐下，让孩子们坐一圈小火车，把博物馆当作锦上添花，而非行程的重点。",
+  "at": "2026-10-18T07:49:42.417Z"
  },
  "zh/abu-dhabi-louvre-abu-dhabi": {
-  "hash": "6c4251db72b5",
+  "hash": "bfad0d0e3c49",
   "score": 1,
   "registerBreak": false,
-  "worst": "着装建议休闲得体、举止端庄，符合阿联酋当地的整体风气，不过相比宗教场所，博物馆本身的氛围要轻松许多。",
-  "at": "2026-10-04T07:56:48.616Z"
+  "worst": "这一点确实名副其实。",
+  "at": "2026-10-18T07:49:44.674Z"
  },
  "zh/abu-dhabi-qasr-al-hosn": {
   "hash": "07c878ef8f87",
@@ -22125,13 +22090,6 @@
   "registerBreak": false,
   "worst": "当地人通常会提前整整一小时抵达场馆区域，先在亚斯湾海滨区吃个晚饭，再避开停车高峰。",
   "at": "2026-09-02T10:57:38.329Z"
- },
- "zh/abu-dhabi-tamer-hosny-and-tamer-ashour-concert": {
-  "hash": "2ae8260cf949",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "这样的组合足以让全场观众在第一个音符响起之前，就已经能跟唱每一句歌词。",
-  "at": "2026-09-13T08:25:09.666Z"
  },
  "zh/abu-dhabi-ufc-fight-night-ankalaev-vs-rountree-jr": {
   "hash": "5b79b6841d27",
@@ -22664,13 +22622,6 @@
   "registerBreak": false,
   "worst": "凭借4.9分的评分和超过18,000条评价，这里绝非安静的街角咖啡馆——它已经成为万隆最热门的咖啡目的地之一",
   "at": "2026-08-15T03:42:35.289Z"
- },
- "zh/bangkok-bangkok-international-festival-of-dance-music": {
-  "hash": "2c6de4cc828c",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "这可以说是曼谷少数不打车也能轻松抵达的场馆之一。",
-  "at": "2026-08-15T09:12:17.847Z"
  },
  "zh/bangkok-chatuchak-weekend-market": {
   "hash": "db2694b463fe",
@@ -32711,11 +32662,11 @@
   "at": "2026-10-12T01:46:51.651Z"
  },
  "ko/abu-dhabi-lewis-capaldi-and-zara-larsson-abu-dhabi-gp-after-race-concert": {
-  "hash": "ef56d15807b0",
+  "hash": "7f57341db542",
   "score": 1,
   "registerBreak": false,
   "worst": "아부다비 겨울의 온화한 공기 속에서, 그것도 야외에서 하룻저녁에 두 무대를 모두 즐길 수 있습니다.",
-  "at": "2026-10-16T08:18:48.655Z"
+  "at": "2026-10-18T07:49:39.901Z"
  },
  "ko/barcelona-young-posse-pilot3-world-tour-barcelona": {
   "hash": "4d57a40521a5",
@@ -35132,13 +35083,6 @@
   "worst": "경기장 공연이 끝난 뒤에는 탄중 프리옥을 빠져나가는 심야 교통 탓에 일찍 잠자리에 드는 사람이 드뭅니다.",
   "at": "2026-10-12T11:43:13.725Z"
  },
- "ko/jakarta-babymonsta-2026-27-world-tour-choom-in-jakarta": {
-  "hash": "cc3f3b9b309e",
-  "score": 0,
-  "registerBreak": false,
-  "worst": "",
-  "at": "2026-10-12T11:43:14.735Z"
- },
  "ko/jaipur-the-city-palace": {
   "hash": "93f9247ac588",
   "score": 1,
@@ -35159,13 +35103,6 @@
   "registerBreak": false,
   "worst": "숨은 바는 조금만 미리 준비해도 훨씬 즐겁습니다.",
   "at": "2026-10-12T11:43:21.161Z"
- },
- "ko/jakarta-babymonster-jakarta-concert": {
-  "hash": "85ddd93ee4ca",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "오래된 경기장처럼 완만하게 멀어지는 시야가 아니라, 무대가 바로 아래로 내려다보이기 때문입니다.",
-  "at": "2026-10-12T11:43:23.756Z"
  },
  "ko/jakarta-jakarta-old-town": {
   "hash": "49cf9c594176",
@@ -36218,11 +36155,11 @@
   "at": "2026-10-16T08:18:14.346Z"
  },
  "es/abu-dhabi-lewis-capaldi-and-zara-larsson-abu-dhabi-gp-after-race-concert": {
-  "hash": "8baa73b2da97",
-  "score": 0,
+  "hash": "203e62c5adc5",
+  "score": 1,
   "registerBreak": false,
-  "worst": "",
-  "at": "2026-10-16T08:18:15.154Z"
+  "worst": "Por eso muchos vi",
+  "at": "2026-10-18T07:49:18.716Z"
  },
  "es/bangkok-babymonster-world-tour-choom": {
   "hash": "0c85e3d182b9",
@@ -36239,11 +36176,11 @@
   "at": "2026-10-16T08:18:21.608Z"
  },
  "ja/abu-dhabi-lewis-capaldi-and-zara-larsson-abu-dhabi-gp-after-race-concert": {
-  "hash": "6930ec35185a",
+  "hash": "e5628cfa3806",
   "score": 1,
   "registerBreak": false,
-  "worst": "この組み合わせは、あえて対照的な2組をそろえたものです。",
-  "at": "2026-10-16T08:18:26.568Z"
+  "worst": "片方は、ピアノを軸にした失恋ソングでキャリアを築き、観客全員が一語一句を大合唱するアーティスト。",
+  "at": "2026-10-18T07:49:22.761Z"
  },
  "ja/bangkok-babymonster-world-tour-choom": {
   "hash": "349e5ea654f5",
@@ -36260,11 +36197,11 @@
   "at": "2026-10-16T08:18:52.958Z"
  },
  "zh/abu-dhabi-lewis-capaldi-and-zara-larsson-abu-dhabi-gp-after-race-concert": {
-  "hash": "3618fdd968ea",
+  "hash": "15fc4686229a",
   "score": 1,
   "registerBreak": false,
   "worst": "由于我们未能核实两人的歌单与出场顺序，本文不作介绍。",
-  "at": "2026-10-16T08:18:54.005Z"
+  "at": "2026-10-18T07:49:43.708Z"
  },
  "zh/bangkok-babymonster-world-tour-choom": {
   "hash": "479bcd7b09af",

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: abu-dhabi-lewis-capaldi-and-zara-larsson-abu-dhabi-gp-after-race-concert
-srcHash: 'b80631aca44e'
+srcHash: '16d987e2dcc3'
 title: 'Lewis Capaldi y Zara Larsson en el concierto posterior a la carrera del GP de Abu Dabi: fechas, entradas y recinto (Abu Dabi)'
 description: El 3 de diciembre de 2026, Lewis Capaldi y Zara Larsson ofrecen cada uno su propio concierto en el Etihad Park de la isla de Yas (Abu Dabi), dentro de la programación musical posterior a la carrera del Gran Premio de Abu Dabi.
 quickAnswer: El 3 de diciembre de 2026, Lewis Capaldi y Zara Larsson actúan por separado en el Etihad Park, situado en la isla de Yas (Yas Island), en Abu Dabi. Esa velada inaugura el ciclo de conciertos posteriores a la carrera del Gran Premio de Abu Dabi 2026. El acceso a estos conciertos se vende a través del sistema de venta de entradas del Gran Premio, que gestiona el Yas Marina Circuit.
@@ -29,7 +29,7 @@ El contraste entre ambos artistas es intencionado. Él ha forjado su carrera con
 Es de esperar que el ambiente cambie de un concierto a otro. Las canciones más conocidas de Capaldi son las lentas:
 
 - «Someone You Loved»
-- «Survive», el sencillo con el que regresó tras una larga pausa en las giras
+- «Survive»
 
 Larsson se mueve a un ritmo más rápido. En su repertorio figuran «Lush Life», «Never Forget You», «Ain't My Fault» y «Symphony», el éxito que grabó con Clean Bandit. No disponemos de información verificada sobre el repertorio ni sobre el orden de actuación de ninguno de los dos, por lo que hemos preferido no incluirlos.
 

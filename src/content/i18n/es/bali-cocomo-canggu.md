@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bali-cocomo-canggu
-srcHash: 'e4235f6b4831'
+srcHash: '8a1cf509a935'
 title: 'Cocomo Canggu: guía de viaje de Bali'
 description: 'Cocomo Canggu, en Bali, Indonesia, es uno de los locales de moda del momento: qué es, dónde está y cómo visitarlo.'
 quickAnswer: Cocomo Canggu es un restaurante de platos para compartir en Jl. Pantai Pererenan, en Bali, y resulta inconfundible por la enorme estatua de flamenco que tiene a la entrada. Está pensado para una cena larga y social, no para una comida rápida, así que conviene reservar con antelación e ir con hambre suficiente para compartir el lomo Angus madurado en mantequilla. Lo mejor es llegar a primera hora de la noche si se quiere mesa sin esperar demasiado, ya que este tramo de Pererenan se llena rápido en cuanto cae la noche.
@@ -46,7 +46,7 @@ El tráfico en esta vía se congestiona bastante a última hora de la tarde y al
 
 ## Cómo reservar mesa
 
-Dado el volumen de gente que pasa por esta parte de Pererenan, y lo central que resulta el concepto de platos para compartir como el lomo, reservar con antelación es más una medida de precaución que un simple trámite. Además, tener una mesa reservada para una hora concreta permite que los platos para compartir lleguen con el ritmo adecuado, en lugar de todos de golpe y con prisas.
+Dado el volumen de gente que pasa por esta parte de Pererenan, y lo central que resulta el concepto de platos para compartir, reservar con antelación es más una medida de precaución que un simple trámite. Además, tener una mesa reservada para una hora concreta permite que los platos para compartir lleguen con el ritmo adecuado, en lugar de todos de golpe y con prisas.
 
 Los datos de contacto y los canales de reserva cambian con el tiempo, así que conviene consultar la ficha actual de Cocomo o una plataforma de reservas reciente para obtener el número de teléfono vigente o el formulario en línea antes de ir. Los horarios de apertura conviene confirmarlos de la misma manera, ya que los locales de esta calle a veces ajustan su horario según la temporada.
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bengaluru-visvesvaraya-industrial-technological-museum
-srcHash: 'b91a85bcc8b2'
+srcHash: '66bafde8905e'
 title: 'Museo Industrial y Tecnológico Visvesvaraya: guía de viaje de Bengaluru'
 description: 'En la Kasturba Road, el Museo Industrial y Tecnológico Visvesvaraya es el museo de ciencias interactivo de referencia en Bengaluru, abierto todos los días de 9:30 a 18:00. 4.6★ (17.113 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En la Kasturba Road, el Museo Industrial y Tecnológico Visvesvaraya es el museo de ciencias interactivo de referencia en Bengaluru, abierto todos los días de 9:30 a 18:00. Conviene ir justo a la apertura o entre las 10:00 y las 11:00 para evitar las aglomeraciones, ya que las tardes de fin de semana (de 12:00 a 18:00) se llenan de gente. Calcula entre dos y tres horas para la visita y aprovecha para combinarla con un paseo por el vecino Cubbon Park.
@@ -26,7 +26,7 @@ Dentro, las salas apuestan por lo interactivo: se puede girar una manivela, ver 
 
 ## Cómo llegar
 
-El museo se encuentra en la Kasturba Road, justo al lado del estadio Chinnaswamy, en pleno centro de Bengaluru. Se llega fácilmente a pie desde Cubbon Park y MG Road.
+El museo se encuentra en la Kasturba Road, justo al lado del estadio Chinnaswamy, en el centro de Bengaluru. Se llega fácilmente a pie desde Cubbon Park y MG Road.
 
 - Estación de metro más cercana: Cubbon Park (Línea Púrpura), a unos 10 minutos a pie
 - También cerca: estación MG Road (Línea Púrpura)
@@ -56,7 +56,7 @@ El museo mantiene el mismo horario los siete días de la semana, de 9:30 a 18:00
 
 ## Cómo visitarlo como un local
 
-Llega a la hora de apertura o dentro de esa primera hora: hacia media mañana los fines de semana, las filas para las entradas ya serpentean fuera del acceso y las salas se llenan hombro con hombro. Las entradas se venden en la taquilla del propio museo; lleva algo de efectivo de reserva, aunque en general se acepta pago con tarjeta, porque la fila avanza más rápido cuando se paga con el importe exacto.
+Llega a la hora de apertura o dentro de esa primera hora: hacia media mañana los fines de semana, las filas para las entradas ya serpentean fuera del acceso y las salas se llenan hombro con hombro. Las entradas se venden en la taquilla del propio museo; la fila avanza más rápido si tiene preparado el importe exacto.
 
 Al ser un destino muy popular entre los colegios locales, las mañanas de días laborables durante el período escolar también pueden traer autobuses cargados de estudiantes; tenlo en cuenta si buscas una experiencia más tranquila. El teatro 3D/4D y las estaciones interactivas más populares (el generador, la mina simulada) forman sus propias microcolas dentro del museo: sepárate del grupo principal y acércate a ellas primero, en lugar de esperar a haber recorrido toda la planta.
 

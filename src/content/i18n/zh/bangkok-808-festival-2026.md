@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: bangkok-808-festival-2026
-srcHash: '3d87f50f170a'
+srcHash: '30c8b052ee08'
 title: 2026年808音乐节：日期、门票与场地（曼谷）
 description: 2026年808音乐节的日程为2026年10月2日至3日，地点在曼谷国际贸易展览中心（BITEC）。这是该音乐节第13届，由NGHTMRE和SLANDER担任头牌。
 quickAnswer: 808音乐节是泰国规模最大的电子舞曲音乐节，2026年迎来第13届。本届日程为2026年10月2日至3日，地点在曼谷国际贸易展览中心（BITEC），NGHTMRE和SLANDER担任头牌。主办方把它排成连续两晚的演出，门票通过808音乐节官网及其票务合作方发售。

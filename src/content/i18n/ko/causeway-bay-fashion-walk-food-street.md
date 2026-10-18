@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: causeway-bay-fashion-walk-food-street
-srcHash: 'c89d97ed3213'
+srcHash: 'cdd8cc6f84d2'
 title: '패션워크 푸드 스트리트: 코즈웨이베이에서 뭘 먹을까'
 description: 패션워크 푸드 스트리트(Fashion Walk Food Street)는 코즈웨이베이(Causeway Bay)의 패션워크(Fashion Walk) 쇼핑가 한편에 자리한 야외 레스토랑 밀집 구역으로, 매일 오전 11시 30분부터 오후 10시 30분까지 운영된다.
 quickAnswer: 패션워크 푸드 스트리트(Fashion Walk Food Street)는 코즈웨이베이(Causeway Bay)의 패션워크(Fashion Walk) 쇼핑가 한편에 자리한 야외 레스토랑 밀집 구역으로, 매일 오전 11시 30분부터 오후 10시 30분까지 운영된다. 가격대는 중간 수준이고 분위기도 편안하며, 주변 쇼핑몰들에 비해 붐비는 정도도 덜하다 — 평일 오후 4시~10시가 가장 한산한 시간대다. 줄 서지 않고 자리를 잡고 싶다면 주말 오후 1시~9시의 혼잡한 시간대는 피하는 게 좋다.
@@ -30,7 +30,7 @@ faq:
 
 ## 가는 방법
 
-패션워크는 코즈웨이베이(Causeway Bay) 중심부에 있으며, 코즈웨이베이역(Causeway Bay MTR Station, 아일랜드 라인/Island Line)에서 도보 몇 분 거리다 — F1번 또는 F2번 출구가 쇼핑 구역과 가장 가깝다. 출구를 나온 뒤 킹스턴 스트리트(Kingston Street)와 클리블랜드 스트리트(Cleveland Street) 방향 표지판을 따라가면 패션워크의 상점과 식당들이 펼쳐진 구역이 나온다.
+패션워크는 코즈웨이베이역(Causeway Bay MTR Station, 아일랜드 라인/Island Line)에서 도보 몇 분 거리에 있습니다. F1번 또는 F2번 출구가 쇼핑 구역과 가장 가깝습니다. 출구를 나온 뒤 킹스턴 스트리트(Kingston Street)와 클리블랜드 스트리트(Cleveland Street) 방향 표지판을 따라가면 패션워크의 상점과 식당들이 펼쳐진 구역이 나온다.
 
 타임스퀘어(Times Square)나 소고(Sogo)에서 온다면, 코즈웨이베이의 쇼핑가를 가로질러 동쪽으로 평탄하게 8\~10분 걸으면 된다.
 

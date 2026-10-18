@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: boston-the-paul-revere-house
-srcHash: 'f4486de0b6fe'
+srcHash: '15b57c9cd097'
 title: 'La Casa de Paul Revere: guía de viaje de Boston (4.5★)'
 description: 'La Casa de Paul Revere se encuentra en el 19 de N Square, en el North End de Boston, sobre el Freedom Trail, a pocos minutos a pie de Faneuil Hall. 4.5★ (5,006 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: La Casa de Paul Revere se encuentra en el 19 de N Square, en el North End de Boston, sobre el Freedom Trail, a pocos minutos a pie de Faneuil Hall. Abre todos los días de 10:00 a 17:15, y el momento más tranquilo para visitarla es justo a la apertura entre semana; los fines de semana se llena entre las 11:00 y las 16:00, así que si solo tiene libre un sábado o domingo, conviene apuntar a la franja de 10:00 a 11:00. Calcule entre 20 y 30 minutos para la visita, ya que se trata de una casa pequeña que se recorre habitación por habitación, no de un museo extenso.
@@ -38,7 +38,7 @@ La casa es una parada en el tramo de ladrillo rojo del Freedom Trail, así que l
 - También se puede llegar desde North Station (líneas Naranja/Verde y trenes de cercanías), a unos 10 minutos a pie
 - Abierto todos los días de 10:00 a 17:15, con última entrada normalmente antes del cierre
 
-Al ser una de las casas históricas más visitadas de la ciudad, los fines de semana las pequeñas salas se llenan rápido. El tramo más tranquilo es de 10:00 a 11:00 los sábados y domingos; después de las 11:00 y hasta media tarde puede esperarse afluencia constante de gente hasta cerca del cierre. Entre semana, el flujo de visitantes se mantiene bastante parejo durante todo el día, por lo que no hace tanta falta apresurarse a llegar a la apertura.
+Al ser una de las casas históricas más visitadas de la ciudad, los fines de semana las pequeñas salas se llenan rápido. El tramo más tranquilo es de 10:00 a 11:00 los sábados y domingos; después de las 11:00 y hasta media tarde puede esperarse afluencia constante de gente hasta cerca del cierre. Entre semana, suele haber menos gente a lo largo de todo el día, por lo que no hace tanta falta apresurarse a llegar a la apertura.
 
 ## Qué observar en el interior
 

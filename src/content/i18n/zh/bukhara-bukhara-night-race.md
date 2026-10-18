@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: bukhara-bukhara-night-race
-srcHash: '25ff7d410a24'
+srcHash: 'fe2c7eef1eaa'
 title: 布哈拉夜跑赛：赛期、报名与场地指南（布哈拉）
 description: 布哈拉夜跑赛（Bukhara Night Race）是在乌兹别克斯坦古城布哈拉举行的夜间路跑赛事，赛期已定于2026年11月。
 quickAnswer: 布哈拉夜跑赛是在乌兹别克斯坦布哈拉举行的夜间路跑赛事，赛期已定于2026年11月。赛事设半程马拉松、10K、5K和2K四个项目，赛道穿行于历史古城之中。报名、起点场地和起跑时间均由赛事主办方负责公布。大多数跑者会选择住在老城内或老城附近，步行几分钟就能到起点。

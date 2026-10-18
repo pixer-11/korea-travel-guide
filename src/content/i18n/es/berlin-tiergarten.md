@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: berlin-tiergarten
-srcHash: 'f9ceea77439a'
+srcHash: '21f4473fb182'
 title: 'Tiergarten: guía de viaje de Berlín (4.6★)'
 description: 'El Tiergarten, el parque más grande y antiguo de Berlín, es un bosque de lagos y praderas que se extiende desde la Puerta de Brandeburgo hacia el oeste, hasta Zoologischer Garten, entre los distritos de Mitte y Tiergarten, con la Columna de la Victoria en su centro. 4.6★ (24,891 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Tiergarten es el parque más grande y antiguo de Berlín. Entre los distritos de Mitte y Tiergarten, este bosque de lagos y praderas se extiende desde la Puerta de Brandeburgo hacia el oeste hasta Zoologischer Garten, con la Columna de la Victoria en su centro. Abre las 24 horas. Los fines de semana conviene ir de 7am–9am, ya que de 10am–8pm los caminos y el césped se llenan de gente.
@@ -84,4 +84,4 @@ El Tiergarten abre las 24 horas todos los días. Aun así, en un parque tan conc
 
 Los fines de semana, el momento más tranquilo es de 7am–9am. A esa hora los caminos se comparten sobre todo con corredores y gente paseando al perro, y la luz cae rasante sobre los canales. Procure no llegar entre las 10am y las 8pm en fin de semana: es cuando familias, grupos de pícnic y turistas que vienen andando desde la Puerta de Brandeburgo llenan las rutas principales y los asientos junto a los lagos.
 
-Calcule al menos dos horas para la Columna de la Victoria y una vuelta por los lagos, y media jornada si añade los monumentos, una cervecería y las farolas de gas. De noche, lejos del bulevar, el parque es enorme y está mal iluminado, así que, si lo cruza a esas horas, no se aparte de los caminos principales.
+Reserve tiempo para la Columna de la Victoria y una vuelta por los lagos, y media jornada si añade los monumentos, una cervecería y las farolas de gas. De noche, lejos del bulevar, el parque es enorme y está mal iluminado, así que, si lo cruza a esas horas, no se aparte de los caminos principales.

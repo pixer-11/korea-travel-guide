@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bengaluru-lalbagh-botanical-garden
-srcHash: 'cb5ae73ddd8a'
+srcHash: '5c549f70c34f'
 title: 'Jardín Botánico Lalbagh: guía de viaje de Bengaluru (4,4★)'
 description: 'El Jardín Botánico Lalbagh ocupa 240 acres en el sur de Bengaluru y abre todos los días de 5:00 a 19:00; lo mejor es visitarlo un día laborable entre las 7:00 y las 11:00, cuando hay menos gente. 4,4★ (177.977 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Jardín Botánico Lalbagh ocupa 240 acres en el sur de Bengaluru y abre todos los días de 5:00 a 19:00; lo mejor es visitarlo un día laborable entre las 7:00 y las 11:00, cuando hay menos gente. Entre los lugares que no hay que perderse están la Casa de Cristal (inspirada en el Crystal Palace de Londres), la roca de Gneis Peninsular, de 3.000 millones de años de antigüedad, y el jardín de topiaria. Los fines de semana, a partir de la 13:00, el lugar se llena, así que conviene ir a primera hora de la mañana.
@@ -20,15 +20,15 @@ faq:
 
 ## Por qué visitarlo
 
-Lalbagh no es solo un parque: es el pulmón verde de Bengaluru y un museo viviente de árboles con 250 años de historia. Fundado en la década de 1760 bajo el reinado de Hyder Ali y ampliado después por su hijo Tipu Sultan, hoy se extiende a lo largo de 240 acres en pleno corazón de Mavalli.
+Lalbagh no es solo un parque: es el pulmón verde de Bengaluru y un museo viviente de árboles con 250 años de historia. Fundado en la década de 1760 bajo el reinado de Hyder Ali y ampliado después por su hijo Tipu Sultan, hoy se extiende a lo largo de 240 acres en Mavalli.
 
 Aquí se viene a contemplar árboles centenarios de un tamaño que no encontrarás en ningún otro lugar de la ciudad: ficus de lluvia con copas tan anchas que tapan el cielo, avenidas bordeadas de caobas y un afloramiento rocoso más antiguo que casi cualquier era geológica conocida.
 
 ## Qué ver
 
-La pieza central es la Casa de Cristal, un pabellón abovedado de hierro y vidrio construido en 1889 e inspirado en el Crystal Palace de Londres. Allí se celebran exposiciones florales dos veces al año, en enero y en agosto, cuando los parterres a su alrededor estallan de color.
+La pieza central es la Casa de Cristal, un pabellón abovedado de hierro y vidrio construido en 1889 e inspirado en el Crystal Palace de Londres. Allí se celebran exposiciones florales que llenan de color los parterres a su alrededor.
 
-Si sigues los senderos hacia el centro del parque, llegarás al Gneis Peninsular, un peñasco gris y desnudo con una antigüedad estimada de unos 3.000 millones de años, una de las formaciones rocosas más antiguas de la Tierra. Toparse con él a mitad de un paseo resulta tan curioso como sobrecogedor.
+Si sigues los senderos hacia el centro del parque, llegarás al Gneis Peninsular, un peñasco gris y desnudo, una de las formaciones rocosas más antiguas de la Tierra. Toparse con él a mitad de un paseo resulta tan curioso como sobrecogedor.
 
 Otras paradas que vale la pena incluir en el recorrido:
 
@@ -47,7 +47,7 @@ En metro, la estación de Lalbagh, en la línea verde, te deja a poca distancia 
 
 ## Cuándo ir
 
-El jardín abre a las 5:00 y cierra a las 19:00 todos los días de la semana, y por las mañanas los senderos son dominio de quienes caminan o corren en Bengaluru. La afluencia es menor entre semana, de 7:00 a 11:00: el aire es más fresco, la luz favorece las fotos y los caminos cercanos a la Casa de Cristal están casi vacíos.
+El jardín abre a las 5:00 y cierra a las 19:00 todos los días de la semana, y por las mañanas los senderos son dominio de quienes caminan o corren en Bengaluru. La afluencia es menor entre semana que los fines de semana: el aire es más fresco, la luz favorece las fotos y los caminos cercanos a la Casa de Cristal están casi vacíos.
 
 Los fines de semana la situación se invierte por completo. Las multitudes van en aumento y alcanzan su punto máximo entre las 13:00 y las 19:00, cuando familias y grupos llenan los prados principales. Si tienes decidido ir en fin de semana, llega antes del mediodía.
 

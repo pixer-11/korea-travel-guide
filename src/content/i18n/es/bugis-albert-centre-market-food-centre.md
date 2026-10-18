@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bugis-albert-centre-market-food-centre
-srcHash: '7e5d9de444e0'
+srcHash: '0a3b375ab101'
 title: 'Albert Centre Market & Food Centre: dónde comer en Bugis'
 description: 'Junto al canal Rochor, en el 270 de Queen St, el Albert Centre Market & Food Centre es un complejo de puestos de comida en dos niveles: abajo, el bullicio de un mercado húmedo; arriba, un extenso food court. 4,1★ (5.936 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'Junto al canal Rochor, en el 270 de Queen St, el Albert Centre Market & Food Centre es un complejo de puestos de comida en dos niveles: abajo, el bullicio de un mercado húmedo; arriba, un extenso food court. Si puedes, ve un día de semana antes del mediodía, ya que los fines de semana el lugar está lleno de forma continua de 11:00 a 19:00. Los jueves permanece cerrado, así que ten esto en cuenta al planear tu visita.'
@@ -26,7 +26,7 @@ No es un lugar refinado. Los tubos fluorescentes zumban sobre taburetes de plás
 
 ## Cómo llegar
 
-El mercado se encuentra en el 270 de Queen St, #01-53, a un cómodo paseo de 5-8 minutos desde la estación Bugis MRT (líneas East-West y Downtown).
+El mercado se encuentra cerca de la estación Bugis MRT (líneas East-West y Downtown).
 
 Toma la salida C y camina hacia el norte por Queen Street, dejando a tu derecha el mercado cubierto de Bugis Street. El edificio bajo del Albert Centre aparece justo después del cruce con Albert Street; es fácil de reconocer por la gente que se agolpa en la acera a la hora del almuerzo.
 
@@ -56,7 +56,7 @@ Las porciones y los precios son claramente económicos: esto es comida callejera
 
 El centro tiene un horario particular: de 11:00 a 19:30 la mayoría de los días, pero cierra por completo los jueves. Conviene confirmarlo antes de organizar una visita especial ese día.
 
-Los fines de semana son el momento más concurrido: el flujo de gente se mantiene alto de 11:00 a 19:00 sin apenas pausa. Si buscas más tranquilidad, lo mejor es ir un día de semana justo después de la apertura, a las 11:00, antes de que llegue la multitud del almuerzo proveniente de las oficinas y tiendas cercanas.
+Los fines de semana son el momento más concurrido: el flujo de gente se mantiene alto durante buena parte de la tarde. Si buscas más tranquilidad, lo mejor es ir un día de semana justo después de la apertura, a las 11:00, antes de que llegue la multitud del almuerzo proveniente de las oficinas y tiendas cercanas.
 
 Como cierra a las 19:30, no es un lugar pensado para la cena, a diferencia de otros centros de comida que abren las 24 horas. Conviene verlo más bien como una parada para el almuerzo o para primera hora de la tarde-noche.
 

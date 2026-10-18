@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bangkok-808-festival-2026
-srcHash: '3d87f50f170a'
+srcHash: '30c8b052ee08'
 title: '808 Festival 2026: fechas, entradas y recinto (Bangkok)'
 description: El 808 Festival 2026 tenía como fechas el 2 y el 3 de octubre de 2026 en el BITEC de Bangkok, y NGHTMRE y SLANDER encabezaban el cartel de su 13.ª edición.
 quickAnswer: Las fechas anunciadas del 808 Festival 2026 eran el 2 y el 3 de octubre de 2026, en el BITEC de Bangkok. Era la 13.ª edición del mayor festival de música electrónica de baile de Tailandia, con NGHTMRE y SLANDER como cabezas de cartel. La organización lo concibió como un programa de dos noches, y las entradas se vendían en la web oficial del 808 Festival y a través de su socio de venta de entradas.

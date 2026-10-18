@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: cancun-yamil-lu-um
-srcHash: 'c19beadb9ddc'
+srcHash: 'bb94305bd1b3'
 title: 'Yamil Lu''um: guía de viaje de Cancún (4.6★)'
 description: 'En la Zona Hotelera de Cancún, sobre una pequeña loma frente al mar en el Km 12.5 del Blvd. Kukulcán, se encuentra Yamil Lu''um, un modesto conjunto de templos mayas del siglo XIII. 4.6★ (331 reseñas): opiniones de los visitantes, horario y consejos.'
 quickAnswer: En la Zona Hotelera de Cancún, sobre una pequeña loma frente al mar en el Km 12.5 del Blvd. Kukulcán, se encuentra Yamil Lu'um, un modesto conjunto de templos mayas del siglo XIII. Pocas ruinas de Cancún son tan tranquilas como esta. La mayoría de los visitantes llega caminando por la arena, y con 20 a 30 minutos basta para recorrerla. Conviene ir de día, mejor por la mañana, y completar la visita con el Museo Maya y San Miguelito, situados unos kilómetros más al sur.
@@ -36,7 +36,7 @@ El sitio está flanqueado por complejos hoteleros, motivo por el cual se suele a
 
 ## Pequeño, sin prisas y tranquilo
 
-No espere encontrar otro Chichén Itzá. Lo que hay aquí son dos estructuras compactas de piedra caliza sobre una elevación arenosa, y la visita suele durar entre 20 y 30 minutos. A cambio, se disfruta de amplitud. Los grandes grupos organizados no suelen pasar por aquí, de modo que a menudo tendrá para usted solo las piedras y la vista sobre el agua turquesa.
+No espere encontrar otro Chichén Itzá. Lo que hay aquí son dos estructuras compactas de piedra caliza sobre una elevación arenosa, y la visita es breve; no se trata de una excursión de media jornada. A cambio, se disfruta de amplitud. Los grandes grupos organizados no suelen pasar por aquí, de modo que a menudo tendrá para usted solo las piedras y la vista sobre el agua turquesa.
 
 Por la mañana, la luz ilumina la cara que mira al mar y la arena está más fresca bajo los pies. Hacia el mediodía, la duna apenas ofrece sombra. Lleve agua y sombrero, porque en la loma no hay ningún puesto de venta.
 

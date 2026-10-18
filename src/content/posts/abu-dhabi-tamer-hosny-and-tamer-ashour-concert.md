@@ -1,8 +1,6 @@
 ---
 title: 'Tamer Hosny and Tamer Ashour Concert: Dates, Tickets & Venue (Abu Dhabi)'
-description: >-
-  Tamer Hosny and Tamer Ashour Concert in Abu Dhabi, United Arab Emirates —
-  October 17, 2026. What it is, when and where, and how to plan around it.
+description: The Tamer Hosny and Tamer Ashour Concert was set for October 17, 2026 at Etihad Arena on Yas Island, Abu Dhabi, United Arab Emirates.
 country: United Arab Emirates
 region: Abu Dhabi
 category: event
@@ -12,97 +10,78 @@ eventEndDate: '2026-10-17'
 eventRecurring: false
 eventVenue: Etihad Arena
 eventOffers:
-  url: 'https://www.etihadarena.ae'
+  url: https://www.etihadarena.ae
 eventPerformer:
   name: Tamer Hosny and Tamer Ashour
   kind: group
 eventFactsAsked: true
 heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/2/2e/Tamer_Hosny%27s_NYE_Concert_%282025%29.png'
+  url: https://upload.wikimedia.org/wikipedia/commons/2/2e/Tamer_Hosny%27s_NYE_Concert_%282025%29.png
   credit: 'Photo: Benchmark ksa / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Tamer_Hosny''s_NYE_Concert_(2025).png'
+  source: https://commons.wikimedia.org/wiki/File:Tamer_Hosny's_NYE_Concert_(2025).png
   focus:
     x: 50
-    y: 32
+    'y': 32
     top: 8
     bottom: 55
 gallery: []
 tags:
   - abu dhabi
   - event
-quickAnswer: >-
-  The Tamer Hosny and Tamer Ashour Concert lands at Etihad Arena on Yas Island,
-  Abu Dhabi on October 17, 2026, pairing two of Egypt's biggest voices for one
-  night of ballads and dance anthems. Confirm timing and tickets on the official
-  Etihad Arena or ticketing platform site before you book flights or hotels.
-  Arrive early if you want a spot near the floor, since arena shows here
-  routinely sell out the closest sections first.
+quickAnswer: The Tamer Hosny and Tamer Ashour Concert was set for October 17, 2026 at Etihad Arena on Yas Island, Abu Dhabi. It paired two of Egypt's biggest voices for one night of ballads and dance anthems. Tickets were sold through the Etihad Arena site and authorised ticketing platforms. At arena shows here, the sections closest to the floor usually sell out first.
 faq:
   - q: Where is the Tamer Hosny and Tamer Ashour Concert held?
-    a: >-
-      At Etihad Arena on Yas Island, Abu Dhabi, part of the Yas Bay Waterfront
-      development near Yas Mall and Yas Marina Circuit.
+    a: The concert was scheduled at Etihad Arena on Yas Island, Abu Dhabi. The arena is part of the Yas Bay Waterfront development near Yas Mall and Yas Marina Circuit.
   - q: What date is the concert?
-    a: >-
-      October 17, 2026. Confirm timing and any schedule details on the official
-      Etihad Arena or ticketing site before booking travel.
+    a: The concert was set for October 17, 2026.
   - q: How do I get tickets?
-    a: >-
-      Buy through the official Etihad Arena site or an authorised regional
-      ticketing platform. Avoid unverified resale links, and compare floor,
-      lower-tier and upper-tier seating options before purchasing.
+    a: Tickets were sold through the official Etihad Arena site and authorised regional ticketing platforms. Seating was split into floor, lower-tier and upper-tier options.
   - q: How do I get to Etihad Arena?
-    a: >-
-      Most visitors take a taxi or rideshare from central Abu Dhabi, roughly 20
-      to 30 minutes depending on traffic. The venue also has an on-site car park
-      and is walkable from Yas Island hotels.
+    a: Most visitors take a taxi or rideshare from central Abu Dhabi, roughly 20 to 30 minutes depending on traffic. The venue also has an on-site car park and is walkable from Yas Island hotels.
   - q: What else is nearby for a full day out?
-    a: >-
-      Yas Mall, Yas Marina Circuit, and Warner Bros. World Abu Dhabi are all on
-      Yas Island. Consider visiting those earlier in the day and treating the
-      concert as your evening plan.
+    a: Yas Mall, Yas Marina Circuit and Warner Bros. World Abu Dhabi are all on Yas Island. They are close enough to fill the day before an evening at the arena.
 aiGenerated: true
 draft: false
 ---
-Etihad Arena has hosted plenty of Arabic-language megastars since it opened, but a joint bill of Tamer Hosny and Tamer Ashour is the kind of pairing that fills a room with people who know every lyric before the first note lands. Hosny brings the pop-star wattage and decades of chart-topping singles; Ashour, the newer generation's favourite for aching, piano-led ballads. Together on one stage, on October 17, 2026, it's a night built for singing along, not standing quietly at the back.
+Etihad Arena has hosted plenty of Arabic-language megastars since it opened. A joint bill of Tamer Hosny and Tamer Ashour is the kind of pairing that draws people who know every lyric before the first note lands. Hosny brings the pop-star wattage and decades of chart-topping singles. Ashour is the newer generation's favourite for aching, piano-led ballads. The two were billed together on one stage on October 17, 2026, for a night built around singing along.
 
 ## What to expect from the show
 
-Both artists built their careers on emotional Arabic pop, the kind where a slow verse builds into a chorus the whole room shouts back. Expect a set that alternates between Hosny's upbeat, danceable hits and Ashour's more introspective ballads, likely with at least one moment where they share the stage together.
+Both artists built their careers on emotional Arabic pop, the kind where a slow verse builds into a chorus the whole room shouts back. The bill paired Hosny's upbeat, danceable hits with Ashour's more introspective ballads.
 
-There's no official setlist published for concerts like this in advance, and prices, seating charts and start times aren't listed here because they shift by platform and section. Confirm timing and tickets on the official site before making plans.
+Concerts like this rarely come with a setlist in advance. Prices, seating charts and start times typically vary by platform and section.
 
 ## Finding Etihad Arena
 
-Etihad Arena sits on Yas Island, part of the same waterfront cluster as Yas Mall, Warner Bros. World, and Yas Marina Circuit. It's an easy taxi or rideshare from most Abu Dhabi hotels, generally 20 to 30 minutes from the city centre depending on traffic.
+Etihad Arena sits on Yas Island, part of the same waterfront cluster as Yas Mall, Warner Bros. World and Yas Marina Circuit. It's an easy taxi or rideshare from most Abu Dhabi hotels, generally 20 to 30 minutes from the city centre depending on traffic.
 
 - Drivers can use the on-site multi-storey car park, which serves the whole Yas Bay Waterfront development.
 - Public buses connect Yas Island to central Abu Dhabi, though a taxi is far less hassle on concert nights.
-- If you're staying on Yas Island itself (W Abu Dhabi, Yas Viceroy), the arena is walkable along the waterfront promenade.
+- From hotels on Yas Island itself (W Abu Dhabi, Yas Viceroy), the arena is walkable along the waterfront promenade.
 
 ## Buying tickets without getting stuck
 
-Concerts at Etihad Arena typically sell through the venue's own site and major regional ticketing platforms, with seating usually split into floor standing, lower tier, and upper tier categories. Floor and lower-tier sections closest to the stage sell fastest for pairings like this one, given the crossover fan base between Hosny and Ashour's audiences.
+Concerts at Etihad Arena typically sell through the venue's own site and major regional ticketing platforms. Seating is usually split into floor standing, lower tier and upper tier categories. For pairings like this one, the floor and lower-tier sections closest to the stage tend to sell fastest, given the crossover between Hosny's and Ashour's audiences.
 
-- Buy directly through the official Etihad Arena site or an authorised ticketing partner, never a resale link you can't verify.
-- Compare seating charts before choosing a tier; sightlines from the upper levels are still solid in this venue, just farther from the stage.
-- Keep a digital or printed copy of your ticket confirmation for entry, since arena box offices can have long queues on show night.
+- Tickets for this show were sold through the official Etihad Arena site and authorised ticketing partners.
+- Sightlines from the upper levels are solid in this venue, just farther from the stage.
+- Entry is by digital or printed ticket, and arena box offices can have long queues on show night.
 
 ## Getting in and settled without the scramble
 
-Arena doors typically open well before the advertised start time, and that gap is your best window to find your seat, use the restroom, and grab a drink before the crowd thickens. Bag policies at Etihad Arena tend to restrict large bags and professional cameras, so travel light.
+Arena doors typically open well before the advertised start time. That gap is the easiest window to find a seat, use the restroom and grab a drink before the crowd thickens. Bag policies at Etihad Arena tend to restrict large bags and professional cameras.
 
-Security screening runs like an airport-style check at the entrance gates, so leave extra time if you're arriving in the last half hour before doors close. Ushers inside can point you to your section; the arena's bowl design means even upper-tier seats have a direct line to the stage.
+Security screening is an airport-style check at the entrance gates, and queues build in the last half hour before doors close. Ushers inside point guests to their sections. The arena's bowl design gives even upper-tier seats a direct line to the stage.
 
 ## Making a night of it on Yas Island
 
-Since Etihad Arena sits inside the Yas Bay Waterfront, it makes sense to arrive early and eat before the show rather than rush in. The waterfront promenade around the arena has a strip of restaurants and cafes with outdoor seating facing the marina, popular with concertgoers grabbing dinner beforehand.
+Etihad Arena sits inside the Yas Bay Waterfront, so dinner is right on the doorstep. The waterfront promenade around the arena has a strip of restaurants and cafes with outdoor seating facing the marina. It is popular with concertgoers before shows.
 
-Parking and roads around Yas Island get busy in the hour before a big concert, so building in extra time for the drive and the walk from the car park is worth it. If you're combining the trip with a day at Yas Marina Circuit or Yas Mall, plan that for earlier in the day and treat the concert as your evening anchor.
+Roads and parking around Yas Island get busy in the hour before a big concert, and the walk from the car park adds a few minutes. Yas Marina Circuit and Yas Mall are close enough to fill the earlier part of a concert day.
 
-## Practical notes before you go
+## Practical notes
 
-Confirm timing, ticket categories and any age or entry restrictions on the official Etihad Arena site or the authorised ticketing platform before travelling. Details like exact doors time, support acts, and specific seating maps are set by the venue and organisers rather than published far in advance.
+The venue and organisers set details like exact doors time, support acts, specific seating maps and any age or entry restrictions. These are not usually fixed far in advance. Ticket categories for this show were sold through the Etihad Arena site and the authorised ticketing platform.
 
-If you're flying in specifically for this show, book accommodation on or near Yas Island to cut down on concert-night travel stress, and keep your ticket confirmation accessible on your phone as a backup.
+Hotels on or near Yas Island sit within easy reach of the arena, which cuts down on concert-night travel. Ticket confirmations on a phone are standard for entry at arena shows.

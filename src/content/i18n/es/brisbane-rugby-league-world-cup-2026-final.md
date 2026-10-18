@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: brisbane-rugby-league-world-cup-2026-final
-srcHash: 'c7a208585666'
+srcHash: 'bc87068ef9aa'
 title: 'Final de la Copa del Mundo de Rugby League 2026: fechas, entradas y estadio (Brisbane)'
 description: El Suncorp Stadium de Brisbane acogerá el 15 November 2026 la final de la Copa del Mundo de Rugby League 2026. Ese mismo día se disputarán la final masculina y la femenina.
 quickAnswer: El Suncorp Stadium de Brisbane acogerá el 15 November 2026 la final de la Copa del Mundo de Rugby League 2026. Ese mismo día se jugarán tanto la final masculina como la femenina. Compre sus entradas únicamente en la web oficial del torneo. Para llegar, conviene usar el tren o el autobús, ya que el estadio no dispone de aparcamiento público.
@@ -42,7 +42,7 @@ En Brisbane, noviembre es el final de la primavera y el verano está a la vuelta
 
 El estadio se encuentra en Milton, en el extremo occidental del distrito financiero del centro. Ir en coche es una mala idea, porque el recinto no tiene aparcamiento público. Además, los cortes de tráfico de los días de partido ralentizan la circulación por las calles cercanas.
 
-- **Tren:** la estación de Milton, situada justo enfrente del estadio, pertenece a las líneas Ipswich/Rosewood y Springfield. La de Roma Street da servicio a la mayoría de las líneas de cercanías y queda a unos 15 minutos a pie por Caxton Street.
+- **Tren:** la estación de Milton, situada justo enfrente del estadio, pertenece a las líneas Ipswich/Rosewood y Springfield. La de Roma Street queda a unos 15 minutos a pie.
 - **Autobús:** los días de partido suelen funcionar lanzaderas desde el centro de la ciudad y desde los principales nudos de transporte de los barrios periféricos.
 - **Transporte incluido en la entrada:** tradicionalmente, las entradas para los eventos del Suncorp Stadium han incluido los viajes en el transporte público de Translink durante el día del partido. Consulte las condiciones impresas en su entrada.
 

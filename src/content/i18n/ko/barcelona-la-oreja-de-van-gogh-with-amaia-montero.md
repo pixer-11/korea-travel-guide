@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: barcelona-la-oreja-de-van-gogh-with-amaia-montero
-srcHash: 'c6a1d362b5ad'
+srcHash: '7c76f1228b52'
 title: '라 오레하 데 반 고흐(아마이아 몬테로 참여) 바르셀로나 공연: 일정, 티켓, 공연장 정보'
 description: 아마이아 몬테로와 다시 뭉친 라 오레하 데 반 고흐(La Oreja de Van Gogh)가 2026년 11월 6일, 7일, 26일, 27일 몬주익(Montjuïc)의 에스타디 올림픽 류이스 콤파니스(Estadi Olímpic Lluís Companys)에서 재결합 공연을 네 차례 엽니다.
 quickAnswer: 아마이아 몬테로와 다시 뭉친 라 오레하 데 반 고흐(La Oreja de Van Gogh)가 2026년 11월 6일, 7일, 26일, 27일 바르셀로나 몬주익(Montjuïc)의 에스타디 올림픽 류이스 콤파니스(Estadi Olímpic Lluís Companys)에서 재결합 공연을 네 차례 엽니다. 가장 가까운 지하철역은 에스파냐(Espanya)역(L1, L3)입니다. 역에서 내리면 야외 에스컬레이터가 놓인 오르막길을 걸어 올라가야 합니다. 공연 시간과 티켓 정보는 공식 사이트에서 꼭 확인하시고, 티켓은 공식 판매처에서만 구매하시기 바랍니다.
@@ -20,7 +20,7 @@ faq:
 
 ## 돌아온 그 목소리
 
-아마이아 몬테로(Amaia Montero)가 밴드로 돌아왔습니다. 몬테로는 산세바스티안 출신인 이 밴드가 결성된 1996년부터 2007년까지 보컬을 맡았습니다. 그 시기에 나온 앨범이 《딜레 알 솔(*Dile al sol*)》, 《엘 비아헤 데 코퍼폿(*El viaje de Copperpot*)》, 《로 케 테 콘테 미엔트라스 테 아시아스 라 도르미다(*Lo que te conté mientras te hacías la dormida*)》, 《구아파(*Guapa*)》 네 장입니다. 한 세대의 스페인 팝을 대표하는 앨범들입니다.
+아마이아 몬테로(Amaia Montero)가 밴드로 돌아왔습니다. 몬테로는 산세바스티안 출신인 이 밴드가 결성된 1996년부터 2007년까지 보컬을 맡았습니다. 그 시기에 나온 앨범이 《딜레 알 솔(*Dile al sol*)》, 《로 케 테 콘테 미엔트라스 테 아시아스 라 도르미다(*Lo que te conté mientras te hacías la dormida*)》, 《구아파(*Guapa*)》입니다. 한 세대의 스페인 팝을 대표하는 앨범들입니다.
 
 이번 바르셀로나 공연은 밴드의 대표 히트곡을 중심으로 꾸미는 재결합 무대로 소개되고 있습니다. 10대 시절 「라 플라야(La playa)」, 「쿠이다테(Cuídate)」, 「로사스(Rosas)」를 따라 부르며 자란 관객들로 경기장이 가득 찰 것이라는 뜻이기도 합니다. 보컬이 마이크에서 물러서도 관객이 후렴을 이어 부르는, 스페인 팝 특유의 거대한 떼창을 기대하셔도 좋습니다.
 

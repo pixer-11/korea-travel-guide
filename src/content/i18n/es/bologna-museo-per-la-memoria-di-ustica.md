@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bologna-museo-per-la-memoria-di-ustica
-srcHash: '9cd86ac14cec'
+srcHash: '6d7547bf62db'
 title: 'Museo per la Memoria di Ustica: Guía de Viaje de Bolonia (4.8★)'
 description: 'El Museo per la Memoria di Ustica se encuentra en el barrio de la Bolognina, en Bolonia, dentro de un antiguo depósito de tranvías reconvertido en la Via di Saliceto. 4.8★ (1.799 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo per la Memoria di Ustica se encuentra en el barrio de la Bolognina, en Bolonia, dentro de un antiguo depósito de tranvías reconvertido en la Via di Saliceto. Solo abre viernes, sábado y domingo, de 17:00 a 20:00, así que conviene organizar la visita en torno a esa franja horaria tan limitada en lugar de intentar ir un día laborable. Basta con dedicarle entre 45 minutos y una hora, ya que el fuselaje reconstruido y la instalación sonora y lumínica de Christian Boltanski son el verdadero motivo de la visita.
@@ -33,7 +33,7 @@ No es un museo para visitas improvisadas. El horario de apertura es estricto:
 - Viernes, sábado y domingo: 17:00 – 20:00
 - De lunes a jueves: cerrado
 
-Conviene llegar bastante antes de las 20:00, ya que la última admisión suele ser anterior al cierre; no planee llegar a las 19:45. El edificio está en Via di Saliceto 3/22, en el barrio de la Bolognina, al norte de la estación de Bologna Centrale. Se puede llegar caminando en 15-20 minutos desde la estación, o en un breve trayecto en autobús por las líneas que recorren Via di Saliceto.
+Conviene llegar bastante antes de las 20:00, ya que el museo puede dejar de admitir visitantes antes de la hora de cierre indicada. El edificio está en Via di Saliceto 3/22, en el barrio de la Bolognina, al norte de la estación de Bologna Centrale. Se puede llegar caminando en 15-20 minutos desde la estación, o en un breve trayecto en autobús por las líneas que recorren Via di Saliceto.
 
 No existe un aparcamiento específico para visitantes, por lo que lo más práctico es aparcar en la calle o usar el transporte público.
 
@@ -52,6 +52,6 @@ Este es un memorial dedicado a 81 personas que perdieron la vida, no un escenari
 - Mantenga la voz baja dentro de la sala de la instalación, ya que el audio en bucle está pensado para escucharse con claridad.
 - Por lo general se tolera hacer fotografías, pero el flash y las poses resultan fuera de lugar aquí.
 - Lea los paneles introductorios cerca de la entrada antes de acceder a la sala principal, ya que aportan un contexto que la instalación por sí sola no explica.
-- Reserve los 45 minutos completos: pasar por la sala con prisa contradice el propósito del diseño de Boltanski.
+- Tómese su tiempo: pasar por la sala con prisa contradice el propósito del diseño de Boltanski.
 
 Antes de ir, conviene consultar los canales oficiales del museo, ya que los cierres por festivos o los eventos especiales pueden alterar el horario de viernes a domingo.

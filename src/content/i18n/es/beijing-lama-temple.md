@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: beijing-lama-temple
-srcHash: 'aa203f2d1ea6'
+srcHash: 'a176e4a6cfbe'
 title: 'Templo de los Lamas: Guía de viaje de Pekín (4,7★)'
 description: 'El Templo de los Lamas (Yonghegong) se encuentra en Yonghegong Dajie, al noreste de Dongcheng, justo junto a la parada de metro que lleva su mismo nombre. 4,7★ (1.207 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Templo de los Lamas (Yonghegong) se encuentra en Yonghegong Dajie, al noreste de Dongcheng, justo junto a la parada de metro que lleva su mismo nombre. Abre todos los días de 9:00 a 17:00, y las horas más tranquilas son justo a la apertura o después de las 15:30, bastante antes de la avalancha del cierre. Conviene reservar entre 90 minutos y dos horas para recorrer los cinco salones principales sin sentirse apresurado.
@@ -32,7 +32,7 @@ El complejo está organizado en línea recta con cinco salones principales, cada
 - **Salón de la Armonía y la Paz** – el salón principal, con tres estatuas de Buda en bronce que representan el pasado, el presente y el futuro
 - **Salón de la Protección Eterna** – más pequeño, antiguos aposentos privados del emperador Yongzheng
 - **Salón de la Rueda de la Ley** – alberga una gran estatua de bronce de Tsongkhapa, fundador de la escuela Gelug
-- **Pabellón de las Diez Mil Felicidades** – el gran final, con un Buda Maitreya de sándalo de 18 metros tallado en un único tronco
+- **Pabellón de las Diez Mil Felicidades** – el gran final, con un imponente Buda Maitreya de sándalo
 
 Esa última estatua figura en el Libro Guinness de los Récords como la mayor talla en sándalo de una sola pieza del mundo, y el techo del pabellón se construyó en realidad alrededor de ella una vez que la madera llegó desde el Tíbet, ya que era demasiado alta para pasar por la puerta.
 
@@ -44,7 +44,7 @@ Las normas de fotografía son más estrictas en este salón que en el resto del 
 
 ## Cuándo ir
 
-El Templo de los Lamas abre todos los días de 9:00 a 17:00, y la última entrada suele ser hacia las 16:30. Llegar justo a las 9:00 es la forma más segura de recorrer los patios con algo de espacio antes de que lleguen los grupos turísticos, ya avanzada la mañana. El lugar es tan popular que al mediodía, especialmente los fines de semana y en torno al Año Nuevo Chino, se forman auténticas aglomeraciones junto a las principales estaciones de quema de incienso.
+El Templo de los Lamas abre todos los días de 9:00 a 17:00. Llegar justo a las 9:00 es la forma más segura de recorrer los patios con algo de espacio antes de que lleguen los grupos turísticos, ya avanzada la mañana. El lugar es tan popular que al mediodía, especialmente los fines de semana y en torno al Año Nuevo Chino, se forman auténticas aglomeraciones junto a las principales estaciones de quema de incienso.
 
 A última hora de la tarde, después de las 15:30, se abre otro momento de calma, aunque conviene moverse con cierta rapidez para ver los cinco salones antes del cierre. Las mañanas de días laborables, fuera de las grandes festividades, siguen siendo una opción razonablemente tranquila incluso en un lugar tan conocido como este.
 

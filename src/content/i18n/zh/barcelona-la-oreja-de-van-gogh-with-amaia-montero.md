@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: barcelona-la-oreja-de-van-gogh-with-amaia-montero
-srcHash: 'c6a1d362b5ad'
+srcHash: '7c76f1228b52'
 title: 梵高之耳（La Oreja de Van Gogh，携手阿迈娅·蒙特罗）巴塞罗那演唱会：日期、门票与场馆
 description: 2026年11月6日、7日、26日和27日，梵高之耳将携手阿迈娅·蒙特罗，在巴塞罗那蒙特惠奇山上的路易斯·孔帕尼斯奥林匹克体育场连开四场重聚演唱会。
 quickAnswer: 2026年11月6日、7日、26日和27日，梵高之耳（La Oreja de Van Gogh）将与阿迈娅·蒙特罗（Amaia Montero）再度同台，在巴塞罗那蒙特惠奇山（Montjuïc）上的路易斯·孔帕尼斯奥林匹克体育场（Estadi Olímpic Lluís Companys）连开四场重聚演唱会。离场馆最近的地铁站是西班牙广场站（Espanya，L1、L3线），出站后还要走一段上坡路，途中有户外扶梯。具体时间和票务信息请以官网为准，购票务必认准官方渠道。
@@ -20,7 +20,7 @@ faq:
 
 ## 那个声音回来了
 
-阿迈娅·蒙特罗重新回到了乐队。这支来自圣塞巴斯蒂安（San Sebastián）的乐队1996年成军，她从那时起担任主唱，直到2007年离队。在此期间，乐队推出了《Dile al sol》《El viaje de Copperpot》《Lo que te conté mientras te hacías la dormida》和《Guapa》四张专辑，定义了一代人心中的西班牙流行乐。
+阿迈娅·蒙特罗重新回到了乐队。这支来自圣塞巴斯蒂安（San Sebastián）的乐队1996年成军，她从那时起担任主唱，直到2007年离队。在此期间，乐队推出了《Dile al sol》《Lo que te conté mientras te hacías la dormida》和《Guapa》等专辑，定义了一代人心中的西班牙流行乐。
 
 此番巴塞罗那的几场演出以重聚为号召，曲目围绕乐队最受欢迎的作品展开。说白了，就是满场观众都是十几岁时就会唱《La playa》《Cuídate》和《Rosas》的人。可以期待一场盛大的西班牙流行乐大合唱：主唱从麦克风前退开一步，副歌照样由全场观众接着唱下去。
 

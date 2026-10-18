@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: chengdu-people-s-park
-srcHash: '2cdd5087fb99'
+srcHash: '13059d1f7e00'
 title: 'Parque de la Gente: Guía de viaje de Chengdu (4,5★)'
 description: 'El Parque de la Gente es la estampa más cotidiana de Chengdu: un parque arbolado junto a un estanque en el distrito de Qing Yang, célebre por la Casa de Té Heming, los limpiadores de oídos y los vecinos que juegan al mahjong bajo los árboles. 4,5★ (1.069 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'El Parque de la Gente es la estampa más cotidiana de Chengdu: un parque arbolado junto a un estanque en el distrito de Qing Yang, célebre por la Casa de Té Heming, los limpiadores de oídos y los vecinos que juegan al mahjong bajo los árboles. Conviene ir un día laborable por la mañana, pedir una taza de té de jazmín por apenas unos yuanes y quedarse sentado durante una hora. Es fácil combinarlo con la cercana Callejuela Kuanzhai (Kuanzhai Alley) para una excursión de medio día.'
@@ -54,7 +54,7 @@ La primavera y el otoño ofrecen el clima más agradable para quedarse un buen r
 
 Pida el té como lo hacen los habituales: un camarero se acercará, rellenará el tarro de cristal con agua caliente de una tetera de pico largo y lo dejará tranquilo. No hay prisa: las mesas se reservan por horas, no se rotan.
 
-El pago es sencillo y económico, y se hace directamente al camarero, no por adelantado. El pago móvil mediante WeChat o Alipay es lo habitual si se cuenta con una aplicación de pago china configurada; de lo contrario, basta con un poco de efectivo.
+El té se paga al final, directamente al camarero, no por adelantado. El pago móvil mediante WeChat o Alipay es lo habitual si se cuenta con una aplicación de pago china configurada; de lo contrario, basta con un poco de efectivo.
 
 La etiqueta aquí es tácita pero fácil de captar: hable en voz baja, no se asome demasiado sobre la partida de ajedrez de otra persona y, si desea una limpieza de oídos, basta con cruzar la mirada con un profesional cuando pase cerca: se detendrá.
 

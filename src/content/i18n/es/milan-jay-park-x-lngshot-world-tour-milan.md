@@ -2,71 +2,71 @@
 lang: es
 slug: milan-jay-park-x-lngshot-world-tour-milan
 srcHash: '7e4fb34e8f9e'
-title: 'Jay Park x LNGSHOT World Tour en Milán: fechas, entradas y recinto'
-description: La parada italiana de la gira mundial LNGSHOT World Tour de Jay Park llega a Fabrique, en Milán, el 17 de octubre de 2026.
-quickAnswer: La gira mundial LNGSHOT World Tour de Jay Park hace su única parada en Italia el 17 de octubre de 2026, cuando el artista actuará en Fabrique (Milán). Se trata de una gran sala de conciertos sin asientos situada en la zona este de la ciudad, cerca del aeropuerto de Linate. Toda la información sobre entradas, horario de apertura de puertas y normas de acceso la facilitan la propia sala y el promotor de la gira.
+title: 'Jay Park x LNGSHOT World Tour - Milán: fechas, entradas y recinto (Milán)'
+description: El concierto de Milán del Jay Park x LNGSHOT World Tour, parada italiana de la gira mundial LNGSHOT de Jay Park, tenía como fecha anunciada el 17 de octubre de 2026 en la sala Fabrique.
+quickAnswer: La parada italiana del LNGSHOT World Tour de Jay Park estaba programada para el 17 de octubre de 2026 en Fabrique, en Milán. Esta gran sala de conciertos, pensada para el público de pie, se encuentra en el este de la ciudad, cerca del aeropuerto de Linate. Las entradas, el horario de apertura de puertas y las normas de acceso corrían a cargo del recinto y del organizador de la gira.
 faq:
-  - q: ¿Cuándo y dónde se celebra en Milán el concierto de la gira Jay Park x LNGSHOT World Tour?
-    a: El concierto tendrá lugar el 17 de octubre de 2026 en Fabrique, una sala de la zona este de Milán situada en Via Gaudenzio Fantoli 9.
+  - q: ¿Cuándo y dónde era el concierto del Jay Park x LNGSHOT World Tour en Milán?
+    a: La fecha del concierto era el 17 de octubre de 2026, y el escenario, la sala Fabrique, en Via Gaudenzio Fantoli 9, en el este de Milán.
   - q: ¿Cómo se suele llegar a Fabrique?
-    a: 'La mayoría del público sale del centro en el transporte público de ATM: primero toma la línea M4 en dirección a Linate y después recorre el último tramo en tranvía o autobús. Otros prefieren ir directamente hasta la sala en taxi o con una aplicación de transporte con conductor. Como al terminar el concierto cuesta mucho encontrar taxi, los grupos suelen caminar hasta alguna avenida principal antes de pedir uno.'
+    a: 'La mayoría del público sale del centro en el transporte público de ATM: primero la línea M4 en dirección a Linate y, para el último tramo, un tranvía o un autobús. Otros prefieren ir en taxi o con una aplicación de VTC hasta la misma puerta. A la salida del concierto cuesta encontrar taxi, así que los grupos suelen caminar hasta una avenida principal antes de pedir uno.'
   - q: ¿Fabrique tiene asientos o es de pie?
-    a: Es fundamentalmente una sala de entrada general sin asientos, con una pista diáfana frente al escenario. Los seguidores más entregados hacen cola en el exterior antes de la apertura de puertas para conseguir sitio junto a la valla.
-  - q: ¿Dónde suele comer y alojarse el público?
-    a: En los alrededores de la sala apenas hay dónde comer, así que casi todo el mundo cena o toma el aperitivo en Porta Romana o en las inmediaciones de Corso Lodi. Quienes vienen de fuera suelen alojarse cerca de San Babila o de Porta Venezia, desde donde es fácil volver en metro.
-  - q: ¿Dónde puedo consultar la información oficial sobre entradas y acceso?
-    a: Los detalles de las entradas, la política de acceso y las normas sobre bolsos los publican Fabrique y la ticketera oficial de la gira. Esas son las condiciones que se aplican en la puerta.
+    a: Es, sobre todo, una sala de entrada general de pie, con una pista diáfana delante del escenario. Los fans más entregados hacen cola fuera antes de la apertura de puertas para conseguir sitio junto a la valla.
+  - q: ¿Dónde suelen comer y alojarse los fans?
+    a: Junto a la sala apenas hay oferta para comer, de modo que casi todo el mundo cena o toma el aperitivo en Porta Romana o en las inmediaciones de Corso Lodi. Quienes vienen de fuera tienden a alojarse cerca de San Babila o de Porta Venezia, desde donde el metro los devuelve sin complicaciones.
+  - q: ¿Dónde se encuentra la información oficial sobre entradas y acceso?
+    a: Los datos de las entradas, la política de acceso y las normas sobre bolsos los publicaban Fabrique y la plataforma oficial de venta de la gira. Esas eran las condiciones que regían en la puerta.
 ---
 
 ## Una noche en Via Fantoli
 
-La cita es el sábado 17 de octubre de 2026. Esa noche, Jay Park lleva su gira LNGSHOT World Tour a Fabrique, la sala milanesa de aforo medio por la que pasan sobre todo artistas de rock y de hip-hop. Son conciertos pensados tanto para quienes lo siguen desde sus vídeos de b-boy como para quienes lo han descubierto hace poco gracias a LNGSHOT.
+La fecha anunciada era el sábado 17 de octubre de 2026. Para esa noche, el cartel situaba a Jay Park y su LNGSHOT World Tour en Fabrique, la sala milanesa de tamaño medio dedicada al rock y al hip-hop. Eran conciertos pensados tanto para quienes lo siguen desde sus vídeos de b-boy como para el público más reciente, que lo descubrió a través de LNGSHOT.
 
-Fabrique funciona con entrada general. La pista es diáfana, el escenario ocupa uno de los extremos y la barra se extiende a lo largo de un lateral. Aquí no hay asientos numerados. En un concierto así, uno pasa la noche de pie, hombro con hombro con gente que se sabe todas las letras.
+Fabrique funciona como sala de entrada general. La pista es diáfana, con el escenario en un extremo y la barra a lo largo de uno de los laterales. Nadie tiene un asiento asignado. En un concierto así, la noche se pasa de pie, hombro con hombro con gente que se sabe todas las letras.
 
 ## Quién sube al escenario
 
-Jay Park se crió en Seattle y bailó como b-boy en el colectivo Art of Movement. La fama le llegó primero como líder de 2PM; más tarde se reinventó en solitario como rapero y cantante, y acabó fundando dos sellos discográficos: AOMG y H1GHR MUSIC.
+Jay Park se crio en Seattle y fue b-boy en el colectivo Art of Movement. La fama le llegó como líder de 2PM, y más tarde reconstruyó su carrera en solitario como rapero y cantante. Con el tiempo fundó dos sellos discográficos: AOMG y H1GHR MUSIC.
 
-En sus conciertos, el público suele esperar unas cuantas canciones en concreto:
+En sus conciertos, el público suele esperar unas cuantas canciones concretas:
 
-- «Mommae», el éxito de discoteca con el que se consolidó en solitario
-- «All I Wanna Do», muestra de la faceta más suave y R&B de su repertorio
-- «SOJU», su colaboración con 2 Chainz
-- «Ganjiswaeh» y «McNasty», para los pasajes de rap más rápidos
+- "Mommae", el éxito de discoteca que consolidó su nombre en solitario
+- "All I Wanna Do", muestra de su vertiente más suave de R&B
+- "SOJU", su colaboración con 2 Chainz
+- "Ganjiswaeh" y "McNasty", para los tramos de rap más rápidos
 
-El nombre de la gira lo une a LNGSHOT, el grupo masculino de More Vision, su sello más reciente. El repertorio y el orden de las actuaciones los decide el promotor. Como no los conocemos, en esta guía no vamos a aventurar ninguna hipótesis.
+El título de la gira lo une a LNGSHOT, el grupo masculino de More Vision, su sello más reciente. El repertorio y el orden de actuación los fijaba el organizador; como no los conocemos, esta guía no especula.
 
 ## Cómo llegar a Fabrique
 
-Fabrique se encuentra en Via Gaudenzio Fantoli 9, en la zona de Mecenate. Este barrio queda al este del centro, bastante más allá de las antiguas murallas, de modo que no es un lugar con el que uno vaya a toparse paseando desde el Duomo. La sala está rodeada de naves y oficinas, y al terminar la jornada laboral las calles de alrededor se quedan tranquilas.
+Fabrique se encuentra en Via Gaudenzio Fantoli 9, en la zona de Mecenate, al este del centro y bastante más allá de las antiguas murallas. No es un lugar al que se llegue paseando desde el Duomo. Está rodeado de naves y oficinas, y las calles de alrededor se quedan en silencio en cuanto termina la jornada laboral.
 
-Casi todo el público llega en el transporte público de ATM. La línea M4 del metro, que sale de San Babila hacia Linate, da servicio a esta parte de la ciudad, y el último tramo puede hacerse en tranvía o en autobús. Muchos seguidores se ahorran el transbordo y van en taxi o con una aplicación de transporte con conductor directamente hasta la puerta.
+La mayoría del público llega en el transporte público de ATM. La línea M4 de metro, que sale de San Babila en dirección a Linate, da servicio a esta parte de la ciudad, y el último tramo lo cubren tranvías y autobuses. Muchos fans se ahorran el transbordo y van en taxi o con una aplicación de VTC directamente hasta la puerta.
 
-Lo complicado es la vuelta. Al acabar el concierto, todo el público sale a la vez y en Via Fantoli escasean los taxis, por lo que los grupos suelen caminar hasta alguna avenida principal antes de pedir un coche. Los servicios nocturnos y el planificador de rutas de ATM indican qué sigue funcionando a última hora de un sábado.
+Lo complicado es la vuelta. Al acabar el concierto, todo el público sale a la vez. En Via Fantoli escasean los taxis, por lo que los grupos suelen caminar hasta una avenida principal antes de pedir un coche. Los servicios nocturnos y el planificador de rutas de ATM indicaban qué líneas seguían funcionando a última hora de aquel sábado.
 
 ## Dentro de la sala
 
-El edificio es un antiguo espacio industrial reconvertido en sala de conciertos, y se nota: techos altos, suelo duro y una visibilidad que favorece a quien se coloca en el centro de la pista. A las personas de menor estatura les conviene buscar las zonas ligeramente elevadas del fondo, desde donde normalmente se ve mejor que entre las apreturas de la valla.
+El edificio es un antiguo espacio industrial reconvertido en sala de conciertos, y se nota: techos altos, suelo duro y una visibilidad que favorece a quien se sitúa en el centro de la pista. Para las personas de menor estatura, las zonas algo elevadas del fondo suelen ofrecer mejor vista que las apreturas junto a la valla.
 
-Lo habitual es que los conciertos aquí acaben con la pista empapada de sudor. A mediados de octubre, en Milán hace un tiempo templado, pero una sala abarrotada conserva el calor. Por eso el público se viste por capas para poder quitárselas.
+Los conciertos aquí acostumbran a terminar con la pista empapada de sudor. A mediados de octubre, en Milán hace una temperatura suave en la calle, pero una sala llena no pierde el calor. Por eso el público se viste por capas, fáciles de quitar.
 
-## Cómo disfrutar de la noche como es debido
+## Cómo vivir bien la noche
 
-Los conciertos en salas italianas tienen sus propias costumbres, y conviene conocerlas.
+Los conciertos en salas italianas tienen su propia rutina, y conviene conocerla.
 
-- **Primero, el guardarropa.** Fabrique dispone de *guardaroba* (guardarropa). Los habituales dejan allí la chaqueta para no tener que cargar con el abrigo durante dos horas.
-- **El pago.** En las salas de Milán lo normal es pagar con tarjeta sin contacto, y en la barra casi todo el mundo paga así.
-- **Lightsticks y cánticos.** El público del K-pop y del hip-hop coreano acude con lightsticks y pancartas, y se aprende los cánticos de los fans. Sumarse a ellos es precisamente la gracia, y a nadie le molesta que un principiante se equivoque.
-- **Normas de la cola.** Los seguidores más fieles empiezan a hacer cola fuera mucho antes de la apertura de puertas para asegurarse un hueco junto a la valla. La organizan ellos mismos y se la toman muy en serio, así que quien llega más tarde se pone al final.
-- **Un poco de italiano.** Decir «*Permesso*» («con permiso, ¿me deja pasar?») abre paso entre la multitud con mucha más educación que empujar.
+- **Primero, el guardarropa.** Fabrique cuenta con *guardaroba* (guardarropa). Los habituales dejan allí la chaqueta para no cargar con el abrigo durante dos horas.
+- **El pago.** En las salas de Milán lo normal es pagar con tarjeta sin contacto, y casi todo el mundo paga así en la barra.
+- **Lightsticks y cánticos.** El público del K-pop y del hip-hop coreano lleva lightsticks y pancartas, y se aprende los cánticos de los fans. Sumarse es precisamente la gracia, y a nadie le molesta que alguien sea novato.
+- **Normas de la cola.** Los fans más entregados forman fila fuera mucho antes de la apertura de puertas para hacerse con un sitio en la valla. La cola se organiza sola y se respeta con seriedad: quien llega más tarde se coloca al final.
+- **Un poco de italiano.** Decir "*Permesso*" ("perdón, ¿me deja pasar?") permite abrirse paso entre la gente con mucha más cortesía que a empujones.
 
-Los detalles de venta de entradas, la política de acceso y las normas sobre bolsos los publican Fabrique y la ticketera oficial de la gira, y son esas condiciones las que se aplican en la puerta. Donde más problemas suelen encontrar los fans es en las webs de reventa ajenas a ese canal.
+Los datos de las entradas, la política de acceso y las normas sobre bolsos los publicaban Fabrique y la plataforma oficial de venta de la gira, y esas condiciones eran las que regían en la puerta. Las webs de reventa ajenas a ese canal son donde los fans suelen tener más problemas.
 
 ## Antes y después del concierto
 
-En los alrededores de la sala la oferta para cenar es muy escasa, de modo que la mayoría de los visitantes come antes en la ciudad. Porta Romana y las calles cercanas a Corso Lodi quedan de camino desde el centro, y en ambas zonas abundan trattorias y pizzerías que los sábados se llenan de gente. Muchos aprovechan para tomar allí el *aperitivo* antes de ir al concierto.
+En los alrededores de la sala apenas hay dónde cenar, así que la mayoría de los visitantes come antes en la ciudad. Porta Romana y las calles próximas a Corso Lodi quedan de camino desde el centro, y en ambas zonas hay trattorias y pizzerías que se llenan los sábados. Mucha gente toma allí el *aperitivo* antes de seguir camino.
 
-Quienes vienen de fuera suelen alojarse en alguna zona céntrica con conexión directa de metro, como San Babila o los alrededores de Porta Venezia, para que la vuelta se reduzca a un trayecto corto. Si llega en avión, el aeropuerto más próximo a Fabrique es Linate; Malpensa y Bérgamo quedan mucho más lejos.
+Los fans que vienen de fuera suelen alojarse en una zona céntrica con conexión directa de metro, como San Babila o los alrededores de Porta Venezia, de modo que la vuelta se reduce a un trayecto corto. Para quien llega en avión, Linate es el aeropuerto más próximo a Fabrique; Malpensa y Bérgamo quedan mucho más lejos.
 
-El día anterior se puede visitar el Duomo, la Galería Vittorio Emanuele II o los canales de los Navigli, todos ellos de fácil acceso en metro. No son pocos los fans del K-pop que convierten un concierto en Milán en un fin de semana completo.
+El día anterior, el Duomo, la Galería Vittorio Emanuele II y los canales de los Navigli quedan a mano en metro. Muchos fans del K-pop convierten un concierto en Milán en un fin de semana completo.

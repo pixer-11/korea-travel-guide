@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: barcelona-csio-barcelona
-srcHash: 'c7793528e44a'
+srcHash: 'b4db091e78f9'
 title: 'CSIO Barcelona: fechas, entradas y sede (Barcelona)'
 description: Las fechas anunciadas del CSIO Barcelona eran del 1 al 4 de octubre de 2026, en el Real Club de Polo de Barcelona, y la final de la Longines League of Nations era su gran atractivo.
 quickAnswer: 'Las fechas anunciadas del CSIO Barcelona 2026 eran del 1 al 4 de octubre, en el Real Club de Polo de Barcelona. La final de la Longines League of Nations era el plato fuerte de la edición. Era la 114.ª edición del concurso, la cita deportiva internacional más antigua de España. El programa no se limitaba a una única tarde estelar: abarcaba cuatro días de saltos de primer nivel. El orden diario de las pruebas y las categorías de entradas cambian de un año a otro.'
@@ -20,7 +20,7 @@ faq:
 
 El CSIO Barcelona ofrece cuatro días de saltos ecuestres en un club que acoge esta competición desde antes de que existieran la mayoría de los monumentos turísticos de Barcelona. Las fechas anunciadas para la edición de 2026, la 114.ª, eran del 1 al 4 de octubre, en el Real Club de Polo de Barcelona. La cita tenía además un verdadero peso deportivo: la ciudad acogía la final de la Longines League of Nations. Esta competición por equipos decide qué selecciones nacionales de saltos terminan la temporada en lo más alto.
 
-No se trata de un festival surgido para aprovechar la afluencia de turistas. El CSIO Barcelona es anterior a casi todo lo que hoy se vende como «emblemático» en esta ciudad, y su formato refleja ese peso institucional. Las selecciones nacionales, las mangas por equipos al estilo de la Copa de Naciones y los grandes premios individuales no se concentran en un único espectáculo nocturno, sino que se reparten a lo largo de los cuatro días.
+No se trata de un festival surgido para aprovechar la afluencia de turistas. El CSIO Barcelona es anterior a la mayoría de los monumentos que atraen a los visitantes a esta ciudad, y su formato refleja ese peso institucional. Las selecciones nacionales, las mangas por equipos al estilo de la Copa de Naciones y los grandes premios individuales no se concentran en un único espectáculo nocturno, sino que se reparten a lo largo de los cuatro días.
 
 ## Qué ocurre realmente durante los cuatro días
 
@@ -43,7 +43,7 @@ La tribuna está orientada hacia la pista principal. El recinto suele contar con
 
 El club se encuentra en la parte de Diagonal Mar, lejos del centro, donde se concentra la red de metro. Ninguna estación queda a la puerta.
 
-- En taxi o VTC: es la opción más sencilla desde la mayoría de los hoteles céntricos, con un trayecto de unos 15-20 minutos según el tráfico
+- En taxi o VTC: es la opción más sencilla desde la mayoría de los hoteles céntricos
 - En metro: las estaciones más cercanas están en la Línea 4 (Maresme Fòrum) o en la Línea 2, y desde allí queda un paseo o un breve trayecto en autobús o taxi
 - En coche: durante los grandes eventos, el recinto del club es lo bastante amplio para el aparcamiento del público, aunque las plazas se van llenando a lo largo del día
 
@@ -76,4 +76,4 @@ Los vecinos y los asistentes habituales suelen llegar mucho antes de las pruebas
 
 Como el club está cerca de la costa, la visita al CSIO Barcelona se combina fácilmente con la zona comercial y de playa de Diagonal Mar. Esta parte de la ciudad es muy distinta del Barrio Gótico o del Eixample, con sus multitudes, que conocen la mayoría de los visitantes.
 
-Pasar el día entero en el club suponía comer en los puestos de comida y hospitalidad del recinto o en algún local cercano de Diagonal Mar, y volver por la noche al centro de Barcelona. Los fines de semana con eventos, el transporte público hacia el centro, gestionado por TMB, funciona hasta más tarde que el servicio diurno habitual.
+Pasar el día entero en el club suponía comer en los puestos de comida y hospitalidad del recinto o en algún local cercano de Diagonal Mar, y volver por la noche al centro de Barcelona. El transporte público hacia el centro, gestionado por TMB, es la forma más sencilla de volver, aunque conviene consultar los horarios de los días de evento.

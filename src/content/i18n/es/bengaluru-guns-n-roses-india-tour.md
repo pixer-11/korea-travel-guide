@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bengaluru-guns-n-roses-india-tour
-srcHash: '173bd56413d3'
+srcHash: '856582a2219b'
 title: 'Gira de Guns N'' Roses por la India: fechas, entradas y recinto (Bengaluru)'
 description: El sábado 14 de noviembre de 2026, la gira de Guns N' Roses por la India llega al NICE Grounds de Bengaluru. Es una de las dos ciudades indias incluidas en la segunda visita de la banda al país.
 quickAnswer: El sábado 14 de noviembre de 2026, la gira de Guns N' Roses por la India hace parada en el NICE Grounds de Bengaluru. Es una de las dos ciudades indias de la segunda visita de la banda al país. Como el recinto queda en el noroeste de la ciudad, junto a Tumkur Road, lo que más conviene planificar es el trayecto de ida y vuelta. Antes de viajar, verifique en la web oficial la fecha, el horario de apertura de puertas y las entradas.
@@ -84,7 +84,7 @@ Fije con sus amigos un punto de encuentro antes de que se apaguen las luces, por
 
 Como el concierto es en sábado, el domingo queda libre para la ciudad. Tras una noche larga, Bengaluru agradece una mañana sin prisas.
 
-- **Desayuno en MTR**, en Lalbagh Road, toda una institución en Bengaluru desde 1924, famosa por su masala dosa y su rava idli; los fines de semana es habitual hacer cola
+- **Desayuno en MTR**, en Lalbagh Road, toda una institución en Bengaluru desde 1924; los fines de semana es habitual hacer cola
 - **Jardín Botánico de Lalbagh**, justo al lado, con un invernadero inspirado en el Crystal Palace de Londres
 - **Cubbon Park**, el gran pulmón verde del centro, entre el Vidhana Soudha de granito y el edificio rojo del Tribunal Superior
 - **Church Street y MG Road**, con librerías, cafeterías y cervecerías artesanales para la noche

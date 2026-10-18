@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bangkok-bangkok-marathon
-srcHash: 'e50056d534ea'
+srcHash: 'e53de5b93256'
 title: 'Maratón de Bangkok: fechas, inscripciones y sede (Bangkok)'
 description: 'El Maratón de Bangkok 2026 se celebrará el 8 de noviembre de 2026 en el centro de Bangkok. Ofrece cuatro distancias: 5 km, 10 km, medio maratón de 21.1 km y maratón completo de 42.195 km.'
 quickAnswer: 'El Maratón de Bangkok 2026 se celebrará el 8 de noviembre de 2026 en el centro de Bangkok. Ofrece cuatro distancias: 5 km, 10 km, medio maratón de 21.1 km y maratón completo de 42.195 km. De las inscripciones, la entrega de dorsales y el lugar de salida se encarga la organización. En Bangkok las carreras empiezan de noche para evitar el calor, de modo que lo habitual es llegar a la salida en taxi o con una aplicación de transporte.'
@@ -55,7 +55,7 @@ Debido a los cortes de tráfico en torno al recorrido, puede que el conductor te
 
 ## Recogida de dorsales, avituallamientos y los ánimos tailandeses
 
-Las grandes carreras en ruta de Bangkok siguen un esquema conocido. Así suele transcurrir el fin de semana de la prueba.
+Las grandes carreras en ruta de Bangkok siguen un esquema conocido.
 
 **Bolsa del corredor.** Los dorsales, los chips de cronometraje y las camisetas suelen repartirse en un evento de recogida durante los días previos, no la misma mañana de la carrera. Los corredores extranjeros normalmente deben llevar el pasaporte y la confirmación de inscripción, ya que la organización tailandesa coteja la identidad con los datos de la inscripción.
 
@@ -63,7 +63,7 @@ Las grandes carreras en ruta de Bangkok siguen un esquema conocido. Así suele t
 
 **Los ánimos.** Voluntarios y espectadores le gritarán «*su su!*» (สู้ๆ), que viene a significar «¡dale!» o «¡sigue!». Se agradece mucho responder con un saludo con la mano o con un *khop khun khrap/kha* (gracias).
 
-**Respeto.** Cuando suena el himno nacional, los tailandeses se quedan quietos. Ocurre en los espacios públicos a las 8 a. m. y a las 6 p. m., y a veces también en actos oficiales. Si empieza a sonar mientras está usted por la zona de meta, deténgase y permanezca de pie hasta que termine. Se espera lo mismo de los visitantes.
+**Respeto.** Cuando suena el himno nacional, los tailandeses se quedan quietos. Ocurre en los espacios públicos y a veces también en actos oficiales. Si empieza a sonar mientras está usted por la zona de meta, deténgase y permanezca de pie hasta que termine. Se espera lo mismo de los visitantes.
 
 ## Dónde se alojan los corredores y qué comen
 
@@ -75,7 +75,7 @@ En Bangkok es fácil cargar hidratos. Estos son los platos favoritos antes de un
 - **Jok**: gachas de arroz que se venden en los puestos desde primera hora de la mañana
 - **Pad see ew**: fideos anchos de arroz salteados con salsa de soja, contundentes y sin apenas picante
 
-Quien corre al día siguiente suele moderarse con el picante y con las ensaladas crudas de los puestos callejeros, como el som tam. Tras cruzar la meta, la bebida de recuperación por excelencia en Bangkok es el agua de coco, que se bebe directamente de la cáscara y se vende en puestos por toda la ciudad.
+Quien corre al día siguiente suele moderarse con el picante y con las ensaladas crudas de los puestos callejeros, como el som tam. Tras cruzar la meta, la bebida de recuperación por excelencia en Bangkok es el agua de un coco fresco, que se bebe directamente de la cáscara y se vende en puestos por toda la ciudad.
 
 ## Después de la medalla: un día tranquilo de recuperación
 

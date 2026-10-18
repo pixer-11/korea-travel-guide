@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bengaluru-bengaluru-fort
-srcHash: 'bc6e3f1ca7c6'
+srcHash: '6075674b490a'
 title: 'Fuerte de Bengaluru: Guía de viaje (4.0★)'
 description: 'La puerta que aún se conserva del Fuerte de Bengaluru se encuentra en Krishna Rajendra Road, en New Tharagupet, cerca del Mercado de la Ciudad de Bengaluru, y abre a diario de 8:30 a 17:30. 4.0★ (26.825 reseñas): qué opinan los visitantes, horarios y consejos.'
 quickAnswer: La puerta que aún se conserva del Fuerte de Bengaluru está en Krishna Rajendra Road, en New Tharagupet, cerca del Mercado de la Ciudad de Bengaluru, y abre a diario de 8:30 a 17:30. Conviene ir justo a la apertura, ya que tanto entre semana como los fines de semana el momento más tranquilo es entre las 9:00 y las 10:00; en cambio, es mejor evitar la avalancha del fin de semana entre las 11:00 y las 16:00. Con 20 o 30 minutos basta, y la visita combina de forma natural con un paseo más largo por el barrio comercial que la rodea.
@@ -24,7 +24,7 @@ Aquí se viene a ver una única puerta de piedra tallada, no una fortaleza exten
 
 ## Qué se ve en realidad
 
-La puerta en sí es todo el atractivo. Sus gruesos muros de piedra se curvan formando un estrecho pasaje abovedado, tallado con motivos florales y geométricos desgastados por el tiempo, típicos de la arquitectura militar de Mysore de finales del siglo XVIII, construida bajo Hyder Ali y ampliada por Tipu Sultan.
+La puerta en sí es todo el atractivo. Sus gruesos muros de piedra se curvan formando un estrecho pasaje abovedado, tallado con motivos florales y geométricos desgastados por el tiempo, típicos de la arquitectura militar de Mysore de finales del siglo XVIII.
 
 Si se observa de cerca la piedra junto al arco, todavía pueden distinguirse detalles decorativos que han sobrevivido a los monzones, la contaminación y dos siglos de tránsito peatonal. No hay taquilla, ni museo, ni centro de interpretación. Es un monumento independiente al que uno se acerca, fotografía y, si hay alguna placa, lee.
 

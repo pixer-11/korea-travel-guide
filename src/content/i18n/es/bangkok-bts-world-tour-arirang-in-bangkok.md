@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bangkok-bts-world-tour-arirang-in-bangkok
-srcHash: 'ebcce02c35f8'
+srcHash: 'af1d52821762'
 title: 'BTS World Tour ''ARIRANG'' en Bangkok: fechas, entradas y recinto (Bangkok)'
 description: 'BTS actuará tres noches en Bangkok con su World Tour ''ARIRANG'': el 3, el 5 y el 6 de diciembre de 2026. Los conciertos tendrán lugar en el Estadio Nacional Rajamangala, situado en la zona de Hua Mak, en el distrito de Bang Kapi.'
 quickAnswer: 'BTS actuará tres noches en Bangkok con su World Tour ''ARIRANG'': el 3, el 5 y el 6 de diciembre de 2026. Los conciertos tendrán lugar en el Estadio Nacional Rajamangala (Rajamangala National Stadium), en la zona de Hua Mak del distrito de Bang Kapi. Como el montaje es de 360°, las gradas rodean el escenario por completo. Compruebe fechas, recinto y entradas en los canales oficiales de la gira. Le conviene además decidir antes del concierto cómo volverá al hotel, porque salir del estadio lleva bastante más tiempo que llegar.'
@@ -26,7 +26,7 @@ El nombre de la gira procede de «Arirang», la canción popular coreana que fun
 
 ## Rajamangala, con el escenario en el centro
 
-Rajamangala es el estadio nacional de Tailandia. Esta enorme estructura de hormigón se construyó para los Juegos Asiáticos de 1998 y forma parte del complejo deportivo de Hua Mak, en el este de Bangkok. Con un aforo de unas 50.000 personas, es el recinto habitual de la ciudad para las giras de mayor envergadura.
+Rajamangala es el estadio nacional de Tailandia. Esta enorme estructura de hormigón se construyó para los Juegos Asiáticos de 1998 y forma parte del complejo deportivo de Hua Mak, en el este de Bangkok. Es uno de los estadios más grandes del país, lo que lo convierte en el recinto habitual de la ciudad para las giras de mayor envergadura.
 
 Un escenario de 360° transforma por completo el estadio. Como el escenario ocupa el centro y las gradas lo rodean por todos los lados, aquí no existe ese «fondo» que suele quedar a espaldas del escenario. Desde los anfiteatros superiores se domina la pista como en un teatro circular, y las secciones laterales quedan más cerca del espectáculo que en un concierto convencional con escenario frontal.
 

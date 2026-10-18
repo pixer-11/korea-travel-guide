@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bukhara-kalan-mosque
-srcHash: 'd1a91924433c'
+srcHash: 'aafae79b2977'
 title: 'Mezquita Kalan: Guía de viaje de Bujará (4,8★)'
 description: 'La Mezquita Kalan ocupa el corazón del complejo Po-i-Kalyan, en el centro de Bujará, justo al lado del Minarete Kalyan y frente a la Madraza Mir-i-Arab. 4,8★ (1.531 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: La Mezquita Kalan se encuentra en el corazón del complejo Po-i-Kalyan, en pleno centro de Bujará, justo al lado del Minarete Kalyan y frente a la Madraza Mir-i-Arab. Abre todos los días de 9:00 a 18:00, y solo el patio ya merece entre 30 y 45 minutos de visita. Conviene ir justo a la apertura o en la última hora antes del cierre para encontrar el enorme patio casi vacío.
@@ -22,7 +22,7 @@ faq:
 
 La Mezquita Kalan se construyó en la década de 1510 bajo los shaybánidas, sobre el emplazamiento de una mezquita anterior destruida por el ejército de Gengis Kan. Es una de las más grandes de Asia Central.
 
-Un patio central está rodeado por una columnata que sostiene 288 pequeñas cúpulas, cada una de las cuales ilumina el tramo que tiene debajo. Al fondo, un pórtico iwan revestido de azulejos enmarca la entrada, con una mayólica turquesa y cobalto que en su mayor parte es obra original del siglo XVI. La cúpula azul acanalada que corona la cámara del mihrab se distingue desde cualquier punto de la ciudad vieja.
+Un patio central está rodeado por una columnata que sostiene numerosas cúpulas pequeñas, cada una de las cuales ilumina el tramo que tiene debajo. Al fondo, un pórtico iwan revestido de azulejos enmarca la entrada, con una mayólica turquesa y cobalto que en su mayor parte es obra original del siglo XVI. La cúpula azul acanalada que corona la cámara del mihrab se distingue desde cualquier punto de la ciudad vieja.
 
 ## Po-i-Kalyan, no una parada aislada
 

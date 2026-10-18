@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: avignon-the-bridge-of-avignon
-srcHash: '59117443bccc'
+srcHash: '79ac048b8155'
 title: 'El Puente de Aviñón: Guía de viaje (4.2★)'
 description: 'El Puente de Aviñón (Pont Saint-Bénézet) se alza sobre el Ródano justo debajo del Palacio de los Papas, y hoy solo sobreviven cuatro de sus arcos originales. 4.2★ (21.254 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Puente de Aviñón (Pont Saint-Bénézet) se alza sobre el Ródano justo debajo del Palacio de los Papas, y hoy solo sobreviven cuatro de sus arcos originales. Abre todos los días de 9:00 a 19:00, y el momento más tranquilo para visitarlo es un día de semana entre las 9:00 y las 11:00, antes de que lleguen los grupos turísticos. Calcule entre 30 y 45 minutos, y si piensa visitar también el Palacio de los Papas, conviene comprar la entrada combinada.
@@ -26,7 +26,7 @@ Ese final abrupto lo explica todo. Lo que se ve hoy es lo que queda de una estru
 
 El puente data del siglo XII, y la leyenda atribuye su construcción a un pastor llamado Bénézet, que según la tradición recibió una visión divina que lo impulsó a levantarlo. Se crea o no en el milagro, el nombre quedó fijado: Pont Saint-Bénézet.
 
-Su importancia iba de la mano de la de Aviñón. Una vez construido el paso sobre el Ródano, la ciudad se convirtió en el enlace clave entre Provenza y el Comtat Venaissin, y más tarde en sede del propio papado durante el llamado Papado de Aviñón, en el siglo XIV. El puente y el Palacio de los Papas que se alza sobre él respondían a un mismo propósito: controlar este tramo del río.
+Su importancia iba de la mano de la de Aviñón. La ciudad se convirtió en un importante punto de paso sobre el Ródano, y más tarde en sede del propio papado durante el llamado Papado de Aviñón, en el siglo XIV. El puente y el Palacio de los Papas que se alza sobre él respondían a un mismo propósito: controlar este tramo del río.
 
 A mitad de los arcos que aún se conservan hay una pequeña capilla de dos niveles dedicada a san Nicolás, patrón de los barqueros, un detalle que recuerda que esto fue, ante todo, un paso fluvial en funcionamiento y no un simple monumento.
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: chennai-thiru-vi-ka-park
-srcHash: '2eea85ce6472'
+srcHash: '440ae8db675c'
 title: 'Parque Thiru Vi Ka: guía de viaje de Chennai (4,5★)'
 description: 'El parque Thiru Vi Ka, en Shenoy Nagar (Chennai), es un parque vecinal vallado que solo abre en dos franjas diarias: de 5 a 9 de la mañana y de 5 a 9 de la tarde. 4,5★ (2.094 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El parque Thiru Vi Ka, en Shenoy Nagar (Chennai), es un parque vecinal vallado que solo abre en dos franjas diarias: de 5 a 9 de la mañana y de 5 a 9 de la tarde. Conviene ir en el turno de la mañana para caminar con tranquilidad por la pista antes de que llegue el gentío; por las tardes se llena de familias y de gente que sale a correr. No parece haber tarifa de entrada, pero conviene confirmar los horarios vigentes antes de salir hacia allí.'
@@ -20,7 +20,7 @@ faq:
 
 ## Qué es realmente este parque
 
-El parque Thiru Vi Ka se encuentra en Thuru Vi Ka Park Road, en Shenoy Nagar, un barrio residencial del centro de Chennai. Se trata de un espacio verde amurallado y con verja, construido alrededor de una pista para caminar, y no de un jardín de monumentos ni de ruinas. Los vecinos lo usan como circuito de ejercicio: gente que corre, que camina y residentes mayores que hacen estiramientos por la mañana en los bordes de césped.
+El parque Thiru Vi Ka se encuentra en Thiru Vi Ka Park Road, en Shenoy Nagar, un barrio residencial del centro de Chennai. Se trata de un espacio verde amurallado y con verja, construido alrededor de una pista para caminar, y no de un jardín de monumentos ni de ruinas. Los vecinos lo usan como circuito de ejercicio: gente que corre, que camina y residentes mayores que hacen estiramientos por la mañana en los bordes de césped.
 
 El estanque y los parterres ajardinados del interior lo elevan por encima de un terreno municipal cualquiera, lo que explica su sólida calificación de 4,5 estrellas entre más de 2.000 reseñas.
 
@@ -53,4 +53,4 @@ Hay una única pista principal pavimentada que rodea el parque, lo bastante anch
 
 Llegar hasta allí es sencillo en auto rickshaw o taxi con destino a Shenoy Nagar; la dirección del parque (No. 13, Thuru Vi Ka Park Road) es bien conocida por los conductores locales. La estación de metro Shenoy Nagar, en la Línea Azul del metro de Chennai, es el enlace ferroviario más cercano y deja a quien la use a un corto trayecto en auto rickshaw de la puerta.
 
-Una buena manera de combinar una visita matutina es desayunar en alguno de los pequeños puestos de idli y café de filtro que se encuentran repartidos por las calles residenciales cercanas, una forma sencilla y auténtica de ver cómo transcurre el día a día del barrio.
+Una buena manera de combinar una visita matutina es dar después un paseo por las calles residenciales cercanas, una forma sencilla y auténtica de ver cómo transcurre el día a día del barrio.

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: barra-maritime-museum
-srcHash: '490ec2d03e6c'
+srcHash: '8fc643106ab8'
 title: 'Museo Marítimo: guía de viaje de Barra (4.3★)'
 description: 'En el paseo marítimo de Barra, frente al templo de A-Ma, se encuentra el Museo Marítimo (1 Largo do Pagode da Barra). Valoración de 4.3★ (249 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Museo Marítimo se encuentra en el 1 Largo do Pagode da Barra, junto al agua en Barra y frente al templo de A-Ma. Abre todos los días de 10am a 6pm, salvo los martes, cuando permanece cerrado. Calcule entre 1 y 1,5 horas para la visita y aproveche para conocer también el templo de A-Ma, situado al otro lado de la plaza.
@@ -30,7 +30,7 @@ La dirección es 1 Largo do Pagode da Barra, en el barrio de Barra, en el extrem
 
 ## Tres plantas de juncos, redes y navegantes
 
-Cada planta del museo está dedicada a un tema propio. A medida que se sube, esto es, a grandes rasgos, lo que encontrará:
+Cada planta del museo está dedicada a un tema propio:
 
 - **Planta baja:** la vida pesquera en la costa del sur de China. Hay dioramas de familias que vivían en barcas, aparejos de pesca y muestras de las fiestas vinculadas al mar.
 - **Salas superiores:** la época del comercio y la exploración marítimos, tanto portugueses como chinos, y el papel que desempeñó Macao en esas rutas.

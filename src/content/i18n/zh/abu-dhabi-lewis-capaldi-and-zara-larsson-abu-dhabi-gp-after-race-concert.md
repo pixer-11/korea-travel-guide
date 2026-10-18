@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: abu-dhabi-lewis-capaldi-and-zara-larsson-abu-dhabi-gp-after-race-concert
-srcHash: 'b80631aca44e'
+srcHash: '16d987e2dcc3'
 title: 刘易斯·卡帕尔迪与扎拉·拉尔森（阿布扎比大奖赛赛后音乐会）：日期、门票与场地（阿布扎比）
 description: 2026年12月3日，刘易斯·卡帕尔迪与扎拉·拉尔森在阿布扎比亚斯岛的阿提哈德公园登台，为阿布扎比大奖赛赛后音乐会献唱，两人将各自带来一场独立演出。
 quickAnswer: 2026年12月3日，刘易斯·卡帕尔迪与扎拉·拉尔森在阿布扎比亚斯岛的阿提哈德公园登台，为阿布扎比大奖赛赛后音乐会献唱，两人将各自带来一场独立演出。这一晚正是2026阿布扎比大奖赛赛后音乐会系列的揭幕之夜。音乐会入场资格通过亚斯码头赛道负责的大奖赛官方票务渠道发售。
@@ -29,7 +29,7 @@ faq:
 两场演出之间，现场气氛会明显转换。卡帕尔迪最为人熟知的都是慢歌：
 
 - 《Someone You Loved》
-- 《Survive》，这首单曲标志着他在长期暂别巡演后的回归
+- 《Survive》
 
 拉尔森的节奏则快得多，代表作包括《Lush Life》《Never Forget You》《Ain't My Fault》，以及与Clean Bandit合作的热门单曲《Symphony》。由于我们未能核实两人的歌单与出场顺序，本文不作介绍。
 

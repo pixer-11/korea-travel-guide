@@ -4140,6 +4140,12 @@
   "reason": "patrol replace: La Seine Musicale venue at night, distinctive architecture",
   "at": "2026-10-15T22:36:39.942Z"
  },
+ "bremen-bremen-cathedral\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Central_nave_of_Bremen_Cathedral.JPG/3840px-Central_nave_of_Bremen_Cathedral.JPG": {
+  "slug": "bremen-bremen-cathedral",
+  "verdict": "MATCH",
+  "reason": "publish gate: Interior nave view with chandeliers, pews, rose window",
+  "at": "2026-10-18T07:45:16.567Z"
+ },
  "bremen-bremer-geschichtenhaus-bras-e-v\u0001https://upload.wikimedia.org/wikipedia/commons/8/84/Bremer_Geschichtenhaus_2.jpg": {
   "slug": "bremen-bremer-geschichtenhaus-bras-e-v",
   "verdict": "MATCH",
@@ -7625,6 +7631,18 @@
   "reason": "publish gate: Shows Senckenberg Museum exterior with iconic dinosaur statue",
   "at": "2026-10-04T13:30:52.879Z"
  },
+ "fremantle-esplanade-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Esplanade_Park%2C_Fremantle3.JPG/3840px-Esplanade_Park%2C_Fremantle3.JPG": {
+  "slug": "fremantle-esplanade-park",
+  "verdict": "MATCH",
+  "reason": "publish gate: Park with trees, lawn, and Ferris wheel in Fremantle",
+  "at": "2026-10-18T07:45:16.462Z"
+ },
+ "fremantle-fremantle-markets\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Freo_Markets_sign_in_2013.jpg/1920px-Freo_Markets_sign_in_2013.jpg": {
+  "slug": "fremantle-fremantle-markets",
+  "verdict": "MATCH",
+  "reason": "publish gate: Facade of Fremantle Markets building with sign visible",
+  "at": "2026-10-18T07:45:16.618Z"
+ },
  "fremantle-fremantle-prison\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Freo_prison_WMAU_gnangarra-131.jpg/1920px-Freo_prison_WMAU_gnangarra-131.jpg": {
   "slug": "fremantle-fremantle-prison",
   "verdict": "MATCH",
@@ -8745,6 +8763,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows Guia Lighthouse and chapel, representative view",
   "at": "2026-10-06T14:28:46.652Z"
+ },
+ "guia-guia-hill-municipal-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Guia_Hill_Municipal_Park_and_Flora_Garden_28-01-2023%285%29.jpg/3840px-Guia_Hill_Municipal_Park_and_Flora_Garden_28-01-2023%285%29.jpg": {
+  "slug": "guia-guia-hill-municipal-park",
+  "verdict": "MATCH",
+  "reason": "publish gate: Park pathway with benches, trees, and visitors shown",
+  "at": "2026-10-18T07:45:16.517Z"
  },
  "guilin-elephant-trunk-hill\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Xiangshan_Scenic_Area_89468-Guilin_%2831130832628%29.jpg/1920px-Xiangshan_Scenic_Area_89468-Guilin_%2831130832628%29.jpg": {
   "slug": "guilin-elephant-trunk-hill",
@@ -10938,6 +10962,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Fort George's star-shaped ramparts, representative view of fortification",
   "at": "2026-10-01T07:52:35.000Z"
+ },
+ "inverness-ness-islands\u0001https://upload.wikimedia.org/wikipedia/commons/4/48/River_Ness_at_Ness_Islands_Inverness_Scotland_%285697310416%29.jpg": {
+  "slug": "inverness-ness-islands",
+  "verdict": "MATCH",
+  "reason": "publish gate: River with islands and trees, matches Ness Islands scenery",
+  "at": "2026-10-18T07:45:16.419Z"
  },
  "inverness-urquhart-castle\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Urquhart_Castle_Tower_House_2.jpg/1920px-Urquhart_Castle_Tower_House_2.jpg": {
   "slug": "inverness-urquhart-castle",
@@ -15050,6 +15080,12 @@
   "reason": "publish gate: Shows the Beatles statues on building, representative hero shot",
   "at": "2026-09-30T14:23:38.911Z"
  },
+ "liverpool-world-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/World_Museum_Liverpool_-_2014-11-16_%282%29.jpg/1920px-World_Museum_Liverpool_-_2014-11-16_%282%29.jpg": {
+  "slug": "liverpool-world-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of Central Library/World Museum building in Liverpool",
+  "at": "2026-10-18T07:45:16.542Z"
+ },
  "lombok-bukit-merese\u0001https://upload.wikimedia.org/wikipedia/commons/4/49/Merese.jpg": {
   "slug": "lombok-bukit-merese",
   "verdict": "MATCH",
@@ -17727,6 +17763,12 @@
   "reason": "publish gate: Aerial view of Macroplaza Monterrey with landmark buildings",
   "at": "2026-10-06T14:22:30.312Z"
  },
+ "monterrey-mercado-juarez\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Mercado_Ju%C3%A1rez_de_Monterrey_-_2.jpg/3840px-Mercado_Ju%C3%A1rez_de_Monterrey_-_2.jpg": {
+  "slug": "monterrey-mercado-juarez",
+  "verdict": "MATCH",
+  "reason": "publish gate: Interior market stall view, representative of venue",
+  "at": "2026-10-18T07:45:16.591Z"
+ },
  "monterrey-paseo-santa-lucia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Monterrey_HDR.jpg/1920px-Monterrey_HDR.jpg": {
   "slug": "monterrey-paseo-santa-lucia",
   "verdict": "MATCH",
@@ -19534,6 +19576,12 @@
   "reason": "publish gate: Exterior storefront with venue name, plausible night shot",
   "at": "2026-08-21T09:11:33.943Z"
  },
+ "nuremberg-handwerkerhof-nurnberg\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Handwerkerhof_N%C3%BCrnberg_007.jpg/3840px-Handwerkerhof_N%C3%BCrnberg_007.jpg": {
+  "slug": "nuremberg-handwerkerhof-nurnberg",
+  "verdict": "MATCH",
+  "reason": "publish gate: Entrance gate with name clearly shown, representative view",
+  "at": "2026-10-18T07:45:16.671Z"
+ },
  "nuremberg-imperial-castle-of-nuremberg\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/View_of_the_Pentagonal_tower%2C_the_Imperial_Stables_and_Luginsland_from_the_Nuremberg_Castle._Germany.jpg/3840px-View_of_the_Pentagonal_tower%2C_the_Imperial_Stables_and_Luginsland_from_the_Nuremberg_Castle._Germany.jpg": {
   "slug": "nuremberg-imperial-castle-of-nuremberg",
   "verdict": "MATCH",
@@ -19920,6 +19968,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows Shitennō-ji pagoda and hall, representative view",
   "at": "2026-09-09T07:38:31.303Z"
+ },
+ "oxford-ashmolean-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Ashmolean_Museum_in_July_2014.jpg/1920px-Ashmolean_Museum_in_July_2014.jpg": {
+  "slug": "oxford-ashmolean-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior facade of Ashmolean Museum with entrance portico",
+  "at": "2026-10-18T07:45:16.644Z"
  },
  "oxford-oxford-botanic-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Oxford_Botanic_Garden_LV_2025.jpg/1920px-Oxford_Botanic_Garden_LV_2025.jpg": {
   "slug": "oxford-oxford-botanic-garden",
@@ -25721,6 +25775,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Iconic facade of Ruins of St. Paul's, Macau",
   "at": "2026-10-06T14:23:38.555Z"
+ },
+ "st-lazarus-quarter-s-francisco-garden\u0001https://upload.wikimedia.org/wikipedia/commons/8/88/S_Francisco_5.JPG": {
+  "slug": "st-lazarus-quarter-s-francisco-garden",
+  "verdict": "MATCH",
+  "reason": "publish gate: Garden scene with tree, balustrades, matches Macau venue",
+  "at": "2026-10-18T07:45:16.491Z"
  },
  "st-lazarus-quarter-st-lazarus-church\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/St_Lazarus_Church_%E6%9C%9B%E5%BE%B7%E8%81%96%E6%AF%8D%E5%A0%82_-_panoramio.jpg/3840px-St_Lazarus_Church_%E6%9C%9B%E5%BE%B7%E8%81%96%E6%AF%8D%E5%A0%82_-_panoramio.jpg": {
   "slug": "st-lazarus-quarter-st-lazarus-church",

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: barcelona-la-oreja-de-van-gogh-with-amaia-montero
-srcHash: 'c6a1d362b5ad'
+srcHash: '7c76f1228b52'
 title: 'La Oreja de Van Gogh con Amaia Montero en Barcelona: fechas, entradas y recinto'
 description: La Oreja de Van Gogh, de nuevo con Amaia Montero, ofrecerá cuatro conciertos de reencuentro en el Estadi Olímpic Lluís Companys de Montjuïc, en Barcelona, los días 6, 7, 26 y 27 de noviembre de 2026.
 quickAnswer: La Oreja de Van Gogh, de nuevo con Amaia Montero, ofrecerá cuatro conciertos de reencuentro en el Estadi Olímpic Lluís Companys de Montjuïc, en Barcelona, los días 6, 7, 26 y 27 de noviembre de 2026. La estación de metro más cercana es Espanya (L1, L3); desde allí hay que subir a pie una cuesta que cuenta con escaleras mecánicas al aire libre. Conviene confirmar los horarios y las entradas en la web oficial y comprar únicamente a través de los canales oficiales.
@@ -20,7 +20,7 @@ faq:
 
 ## El regreso de una voz
 
-Amaia Montero vuelve a La Oreja de Van Gogh. Fue la voz del grupo donostiarra desde sus inicios, en 1996, hasta 2007. En esa etapa publicaron los cuatro discos que marcaron el pop español de toda una generación: *Dile al sol*, *El viaje de Copperpot*, *Lo que te conté mientras te hacías la dormida* y *Guapa*.
+Amaia Montero vuelve a La Oreja de Van Gogh. Fue la voz del grupo donostiarra desde sus inicios, en 1996, hasta 2007. En esa etapa publicaron los discos que marcaron el pop español de toda una generación: *Dile al sol*, *Lo que te conté mientras te hacías la dormida* y *Guapa*.
 
 Las citas de Barcelona se anuncian como conciertos de reencuentro centrados en las canciones más populares de la banda. Dicho de otro modo, un estadio lleno de gente que se aprendió «La playa», «Cuídate» y «Rosas» en la adolescencia. Cabe esperar un gran coro colectivo de pop en español, de esos en los que la cantante puede apartarse del micrófono mientras el público se encarga del estribillo.
 
