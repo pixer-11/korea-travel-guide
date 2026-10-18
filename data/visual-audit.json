@@ -4561,9 +4561,9 @@
  },
  "busan-busan-tower\u0001https://fastly.4sqi.net/img/general/original/39040510_se5B3S13TF4gKyywEvUWIrn_AkhZerl7WLBwW-KGg84.jpg": {
   "slug": "busan-busan-tower",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Busan Tower and plaza clearly visible",
-  "at": "2026-08-09T20:06:29.855Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: a finger over a park monument — Busan Tower is not in the frame",
+  "at": "2026-10-18T05:38:30.218Z"
  },
  "busan-busan-tower\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Busan_Tower_Busan_%2845023982594%29.jpg/3840px-Busan_Tower_Busan_%2845023982594%29.jpg": {
   "slug": "busan-busan-tower",
@@ -4571,6 +4571,12 @@
   "reason": "Shows traditional Asian pagoda, not Busan Tower",
   "reasonKo": "부산타워가 아닌 전통 아시아 탑",
   "at": "2026-08-09T13:33:56.216Z"
+ },
+ "busan-busan-tower\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Busan_Tower_Busan_%2845023977584%29.jpg/3840px-Busan_Tower_Busan_%2845023977584%29.jpg": {
+  "slug": "busan-busan-tower",
+  "verdict": "MATCH",
+  "reason": "hand-picked: Busan Tower behind the Yongdusan Park bell pavilion; replaces a finger-in-frame Foursquare shot — Busan Tower visible behind traditional pavilion, representative view",
+  "at": "2026-10-18T05:38:40.532Z"
  },
  "busan-cheongsapo\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Cheongsapo.jpg/1920px-Cheongsapo.jpg": {
   "slug": "busan-cheongsapo",

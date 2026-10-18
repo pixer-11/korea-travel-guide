@@ -9,12 +9,6 @@ country: South Korea
 region: Busan
 category: attraction
 pubDate: '2026-08-09T08:13:27.941Z'
-heroImage:
-  url: >-
-    https://fastly.4sqi.net/img/general/original/39040510_se5B3S13TF4gKyywEvUWIrn_AkhZerl7WLBwW-KGg84.jpg
-  credit: 'Photo: Foursquare user content (Busan Tower (부산타워))'
-  license: foursquare
-  source: 'https://foursquare.com/v/4c099874340720a1571d8593'
 place:
   id: ChIJq0OD23TpaDURTv9SBp0VWtI
   name: Busan Tower
@@ -86,6 +80,14 @@ faq:
       making it easy to pair the tower with street food and shopping.
 aiGenerated: true
 updatedDate: '2026-08-30'
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Busan_Tower_Busan_%2845023977584%29.jpg/3840px-Busan_Tower_Busan_%2845023977584%29.jpg
+  credit: 'Photo: bryan... / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Busan_Tower_Busan_(45023977584).jpg
+  focus:
+    x: 42
+    'y': 25
 ---
 
 ## Why go
