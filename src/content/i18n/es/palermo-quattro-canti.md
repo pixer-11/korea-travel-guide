@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: palermo-quattro-canti
-srcHash: 'f75f2fad15de'
+srcHash: '60fef94990e0'
 title: 'Quattro Canti: guía de viaje de Palermo (4,7★)'
-description: 'Quattro Canti se encuentra en el cruce exacto de las dos calles principales más antiguas de Palermo, Via Maqueda y Via Vittorio Emanuele, justo donde se unen los cuatro barrios históricos del casco antiguo. 4,7★ (31.280 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'Quattro Canti se encuentra en el cruce exacto de las dos calles principales más antiguas de Palermo, Via Maqueda y Via Vittorio Emanuele, justo donde se unen los cuatro barrios históricos del casco antiguo. 4,7★ (31.746 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Quattro Canti se encuentra en el cruce exacto de las dos calles principales más antiguas de Palermo, Via Maqueda y Via Vittorio Emanuele, justo donde se unen los cuatro barrios históricos del casco antiguo. Está abierto todo el día, todos los días, sin entrada ni verja, aunque el momento más tranquilo para contemplar de verdad las tallas es entre las 7:00 y las 9:00, antes de que lleguen los grupos turísticos y el tráfico se intensifique. Basta con dedicarle entre diez y quince minutos a pie, algo más si se añade la cercana fuente de Piazza Pretoria, a solo una manzana.
 faq:
   - q: ¿Qué es exactamente Quattro Canti y dónde se encuentra?

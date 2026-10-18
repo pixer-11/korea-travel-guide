@@ -1,41 +1,48 @@
 ---
-title: "Palermo Cathedral: Travel Guide (4.7★)"
-description: "Palermo Cathedral, on Via Vittorio Emanuele in the heart of the old city, is open daily from 7am to 7pm. 4.7★ (50,906 reviews) — what visitors say, hours, and tips."
-country: "Italy"
-region: "Palermo"
-category: "attraction"
-pubDate: "2026-08-11T09:21:20.870Z"
+title: 'Palermo Cathedral: Travel Guide (4.7★)'
+description: >-
+  Palermo Cathedral, on Via Vittorio Emanuele in the heart of the old city, is
+  open daily from 7am to 7pm. 4.7★ (52,601 reviews) — what visitors say, hours,
+  and tips.
+country: Italy
+region: Palermo
+category: attraction
+pubDate: '2026-08-11T09:21:20.870Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Palermo_Cathedral_Facade.jpg/1920px-Palermo_Cathedral_Facade.jpg"
-  credit: "Photo: Julian Lupyan / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Palermo_Cathedral_Facade.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Palermo_Cathedral_Facade.jpg/1920px-Palermo_Cathedral_Facade.jpg
+  credit: 'Photo: Julian Lupyan / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Palermo_Cathedral_Facade.jpg'
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Palermo_Cathedral_BW_2025-04-29_11-14-42.jpg/3840px-Palermo_Cathedral_BW_2025-04-29_11-14-42.jpg"
-    credit: "Photo: Berthold Werner / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Palermo_Cathedral_BW_2025-04-29_11-14-42.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Palermo_Cathedral_BW_2025-04-29_11-14-42.jpg/3840px-Palermo_Cathedral_BW_2025-04-29_11-14-42.jpg
+    credit: 'Photo: Berthold Werner / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Palermo_Cathedral_BW_2025-04-29_11-14-42.jpg
 place:
-  id: "ChIJySXqmGHvGRMRancw-ZBf2ow"
-  name: "Palermo Cathedral"
-  address: "Via Vittorio Emanuele, 490, 90134 Palermo PA, Italy"
+  id: ChIJySXqmGHvGRMRancw-ZBf2ow
+  name: Palermo Cathedral
+  address: 'Via Vittorio Emanuele, 490, 90134 Palermo PA, Italy'
   rating: 4.7
-  userRatingsTotal: 50906
-  googleMapsUrl: "https://maps.google.com/?cid=10149529786493466474&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 52601
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10149529786493466474&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 38.1143321
   lng: 13.356050399999999
-  phone: "+39 091 334373"
+  phone: +39 091 334373
   openingHours:
-    - "Monday: 7:00 AM – 7:00 PM"
-    - "Tuesday: 7:00 AM – 7:00 PM"
-    - "Wednesday: 7:00 AM – 7:00 PM"
-    - "Thursday: 7:00 AM – 7:00 PM"
-    - "Friday: 7:00 AM – 7:00 PM"
-    - "Saturday: 7:00 AM – 7:00 PM"
-    - "Sunday: 7:00 AM – 7:00 PM"
+    - 'Monday: 7:00 AM – 7:00 PM'
+    - 'Tuesday: 7:00 AM – 7:00 PM'
+    - 'Wednesday: 7:00 AM – 7:00 PM'
+    - 'Thursday: 7:00 AM – 7:00 PM'
+    - 'Friday: 7:00 AM – 7:00 PM'
+    - 'Saturday: 7:00 AM – 7:00 PM'
+    - 'Sunday: 7:00 AM – 7:00 PM'
   busyness:
-    updated: 2026-08-11
+    updated: 2026-08-11T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -54,24 +61,42 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_776f3266425a2d77636e61524d52477648476d715853794a496843"
+    venueId: ven_776f3266425a2d77636e61524d52477648476d715853794a496843
 tags:
-  - "palermo"
-  - "top attraction"
-quickAnswer: "Palermo Cathedral, on Via Vittorio Emanuele in the heart of the old city, is open daily from 7am to 7pm. Go right at opening — weekdays 7-9am or weekends 7-10am are calmest — since crowds build fast between 11am and 5pm, especially on weekends. The nave is free to enter; the royal tombs, treasury, crypt and rooftop terraces each carry a separate small fee."
+  - palermo
+  - top attraction
+quickAnswer: >-
+  Palermo Cathedral, on Via Vittorio Emanuele in the heart of the old city, is
+  open daily from 7am to 7pm. Go right at opening — weekdays 7-9am or weekends
+  7-10am are calmest — since crowds build fast between 11am and 5pm, especially
+  on weekends. The nave is free to enter; the royal tombs, treasury, crypt and
+  rooftop terraces each carry a separate small fee.
 faq:
-  - q: "What are the opening hours?"
-    a: "Palermo Cathedral is open daily from 7:00 AM to 7:00 PM, with no midday closure."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays between 7am and 9am, or weekends between 7am and 10am, are the calmest windows. Try to avoid 11am–5pm on weekends, when it's busiest."
-  - q: "Is entry free?"
-    a: "Walking into the main nave is free. The royal tombs, treasury, crypt, and rooftop terraces each require a separate, modest ticket bought at the entrance."
-  - q: "How long should I spend here?"
-    a: "Plan for 45 minutes to an hour if you visit the nave plus one or two paid sections; add extra time if you climb to the rooftop terraces."
-  - q: "How do I get there?"
-    a: "It's on Via Vittorio Emanuele in Palermo's historic center, about a 10-15 minute walk from Palermo Centrale station or the Quattro Canti, with several city bus lines stopping nearby."
+  - q: What are the opening hours?
+    a: >-
+      Palermo Cathedral is open daily from 7:00 AM to 7:00 PM, with no midday
+      closure.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekdays between 7am and 9am, or weekends between 7am and 10am, are the
+      calmest windows. Try to avoid 11am–5pm on weekends, when it's busiest.
+  - q: Is entry free?
+    a: >-
+      Walking into the main nave is free. The royal tombs, treasury, crypt, and
+      rooftop terraces each require a separate, modest ticket bought at the
+      entrance.
+  - q: How long should I spend here?
+    a: >-
+      Plan for 45 minutes to an hour if you visit the nave plus one or two paid
+      sections; add extra time if you climb to the rooftop terraces.
+  - q: How do I get there?
+    a: >-
+      It's on Via Vittorio Emanuele in Palermo's historic center, about a 10-15
+      minute walk from Palermo Centrale station or the Quattro Canti, with
+      several city bus lines stopping nearby.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-18'
 ---
 
 ## Why go

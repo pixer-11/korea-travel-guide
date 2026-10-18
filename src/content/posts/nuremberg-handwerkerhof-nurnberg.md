@@ -1,56 +1,82 @@
 ---
-title: "Handwerkerhof Nürnberg: Nuremberg Travel Guide (4.6★)"
-description: "Handwerkerhof Nürnberg is a walled craft courtyard at Königstraße 82 in Nuremberg's Old Town, directly across from the Hauptbahnhof inside the Königstor gate. 4.6★ (6,903 reviews) — what visitors say, hours, and tips."
-country: "Germany"
-region: "Nuremberg"
-category: "hidden-gem"
-pubDate: "2026-10-18T07:45:25.657Z"
+title: 'Handwerkerhof Nürnberg: Nuremberg Travel Guide (4.6★)'
+description: >-
+  Handwerkerhof Nürnberg is a walled craft courtyard at Königstraße 82 in
+  Nuremberg's Old Town, directly across from the Hauptbahnhof inside the
+  Königstor gate. 4.6★ (6,906 reviews) — what visitors say, hours, and tips.
+country: Germany
+region: Nuremberg
+category: hidden-gem
+pubDate: '2026-10-18T07:45:25.657Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Handwerkerhof_N%C3%BCrnberg_007.jpg/3840px-Handwerkerhof_N%C3%BCrnberg_007.jpg"
-  credit: "Photo: DALIBRI / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Handwerkerhof_N%C3%BCrnberg_007.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Handwerkerhof_N%C3%BCrnberg_007.jpg/3840px-Handwerkerhof_N%C3%BCrnberg_007.jpg
+  credit: 'Photo: DALIBRI / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Handwerkerhof_N%C3%BCrnberg_007.jpg'
+  via: act
   focus:
     x: 50
-    y: 30
+    'y': 30
 gallery: []
 place:
-  id: "ChIJlVkIMqdXn0cRFQlDyPLZOyk"
-  name: "Handwerkerhof Nürnberg"
-  address: "Königstraße 82, 90402 Nürnberg, Germany"
+  id: ChIJlVkIMqdXn0cRFQlDyPLZOyk
+  name: Handwerkerhof Nürnberg
+  address: 'Königstraße 82, 90402 Nürnberg, Germany'
   rating: 4.6
-  userRatingsTotal: 6903
-  googleMapsUrl: "https://maps.google.com/?cid=2971208015946123541&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 6906
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2971208015946123541&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 49.4476697
   lng: 11.081201499999999
-  phone: "+49 911 32179831"
+  phone: +49 911 32179831
   openingHours:
-    - "Monday: 8:00 AM – 10:00 PM"
-    - "Tuesday: 8:00 AM – 10:00 PM"
-    - "Wednesday: 8:00 AM – 10:00 PM"
-    - "Thursday: 8:00 AM – 10:00 PM"
-    - "Friday: 8:00 AM – 10:00 PM"
-    - "Saturday: 8:00 AM – 10:00 PM"
-    - "Sunday: 10:00 AM – 8:00 PM"
+    - 'Monday: 8:00 AM – 10:00 PM'
+    - 'Tuesday: 8:00 AM – 10:00 PM'
+    - 'Wednesday: 8:00 AM – 10:00 PM'
+    - 'Thursday: 8:00 AM – 10:00 PM'
+    - 'Friday: 8:00 AM – 10:00 PM'
+    - 'Saturday: 8:00 AM – 10:00 PM'
+    - 'Sunday: 10:00 AM – 8:00 PM'
 tags:
-  - "nuremberg"
-  - "local market"
-quickAnswer: "Handwerkerhof Nürnberg is a walled craft courtyard at Königstraße 82 in Nuremberg's Old Town, directly across from the Hauptbahnhof inside the Königstor gate. Plan 30–60 minutes for gingerbread, pewter and glass shops plus a plate of Nürnberger Rostbratwurst. At the moment the courtyard opens 8am–10pm Monday to Saturday and 10am–8pm on Sunday."
+  - nuremberg
+  - local market
+quickAnswer: >-
+  Handwerkerhof Nürnberg is a walled craft courtyard at Königstraße 82 in
+  Nuremberg's Old Town, directly across from the Hauptbahnhof inside the
+  Königstor gate. Plan 30–60 minutes for gingerbread, pewter and glass shops
+  plus a plate of Nürnberger Rostbratwurst. At the moment the courtyard opens
+  8am–10pm Monday to Saturday and 10am–8pm on Sunday.
 faq:
-  - q: "How do I get to Handwerkerhof Nürnberg?"
-    a: "Get to Nürnberg Hauptbahnhof, which U-Bahn lines U1, U2 and U3 and regional trains serve. Take the underpass toward the Königstor. The courtyard is just inside the gate at Königstraße 82, a couple of minutes on foot."
-  - q: "What are the opening hours?"
-    a: "Currently 8am–10pm Monday to Saturday and 10am–8pm on Sunday. Individual shops set their own hours, and the schedule can change by season and on holidays, so check before you go."
-  - q: "How long should I spend there?"
-    a: "30–60 minutes covers the shops. Allow longer if you sit down for a plate of Rostbratwurst."
-  - q: "Is the Handwerkerhof medieval?"
-    a: "No. It was built in 1971 for Dürer's 500th anniversary as a re-created artisans' courtyard, inside the genuinely old Königstor bastion and city wall."
-  - q: "What is nearby?"
-    a: "Walk north up Königstraße to St. Lorenz, the Hauptmarkt and the Kaiserburg. The Germanisches Nationalmuseum is a short walk west along the inside of the wall."
+  - q: How do I get to Handwerkerhof Nürnberg?
+    a: >-
+      Get to Nürnberg Hauptbahnhof, which U-Bahn lines U1, U2 and U3 and
+      regional trains serve. Take the underpass toward the Königstor. The
+      courtyard is just inside the gate at Königstraße 82, a couple of minutes
+      on foot.
+  - q: What are the opening hours?
+    a: >-
+      Currently 8am–10pm Monday to Saturday and 10am–8pm on Sunday. Individual
+      shops set their own hours, and the schedule can change by season and on
+      holidays, so check before you go.
+  - q: How long should I spend there?
+    a: >-
+      30–60 minutes covers the shops. Allow longer if you sit down for a plate
+      of Rostbratwurst.
+  - q: Is the Handwerkerhof medieval?
+    a: >-
+      No. It was built in 1971 for Dürer's 500th anniversary as a re-created
+      artisans' courtyard, inside the genuinely old Königstor bastion and city
+      wall.
+  - q: What is nearby?
+    a: >-
+      Walk north up Königstraße to St. Lorenz, the Hauptmarkt and the
+      Kaiserburg. The Germanisches Nationalmuseum is a short walk west along the
+      inside of the wall.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-18'
 ---
 
 ## Inside the Königstor walls

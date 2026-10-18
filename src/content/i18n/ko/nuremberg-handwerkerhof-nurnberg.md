@@ -1,9 +1,9 @@
 ---
 lang: ko
 slug: nuremberg-handwerkerhof-nurnberg
-srcHash: 'a8262c9929c3'
+srcHash: 'd4b3960aea1d'
 title: 뉘른베르크 한트베르커호프 여행 가이드 (4.6★)
-description: 한트베르커호프(Handwerkerhof Nürnberg)는 뉘른베르크 구시가지 쾨니히슈트라세(Königstraße) 82에 있는 수공예 마당입니다. 사방이 성벽으로 둘러싸여 있고, 중앙역 바로 맞은편 쾨니히스토어(Königstor) 성문 안쪽에 자리합니다. 평점은 4.6★(리뷰 6,903개)이며, 방문객 후기와 운영 시간, 여행 팁을 함께 정리했습니다.
+description: 한트베르커호프(Handwerkerhof Nürnberg)는 뉘른베르크 구시가지 쾨니히슈트라세(Königstraße) 82에 있는 수공예 마당입니다. 사방이 성벽으로 둘러싸여 있고, 중앙역 바로 맞은편 쾨니히스토어(Königstor) 성문 안쪽에 자리합니다. 평점은 4.6★(리뷰 6,906개)이며, 방문객 후기와 운영 시간, 여행 팁을 함께 정리했습니다.
 quickAnswer: 한트베르커호프(Handwerkerhof Nürnberg)는 뉘른베르크 구시가지 쾨니히슈트라세(Königstraße) 82에 있는 수공예 마당입니다. 사방이 성벽으로 둘러싸여 있으며, 중앙역(Hauptbahnhof) 바로 맞은편 쾨니히스토어(Königstor) 성문 안쪽에 자리합니다. 진저브레드와 백랍 공예품, 유리 공예품 가게를 둘러보고 뉘른베르거 로스트브라트부어스트(Nürnberger Rostbratwurst)까지 한 접시 맛보려면 30~60분 정도 잡으시면 됩니다. 현재 운영 시간은 월요일부터 토요일까지 오전 8시~오후 10시, 일요일은 오전 10시~오후 8시입니다.
 faq:
   - q: 한트베르커호프에는 어떻게 가나요?

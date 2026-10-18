@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: oxford-ashmolean-museum
-srcHash: '52c02f45a52d'
+srcHash: '56a6a3306a07'
 title: 'Museo Ashmolean: guía de viaje de Oxford (4.7★)'
-description: 'En pleno centro de Oxford, sobre Beaumont Street, se alza el Museo Ashmolean, a pocos minutos a pie de la estación de tren y de la terminal de autobuses de Gloucester Green, con entrada general gratuita. 4.7★ (12,235 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En pleno centro de Oxford, sobre Beaumont Street, se alza el Museo Ashmolean, a pocos minutos a pie de la estación de tren y de la terminal de autobuses de Gloucester Green, con entrada general gratuita. 4.7★ (12,236 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En pleno centro de Oxford, sobre Beaumont Street, se alza el Museo Ashmolean, a pocos minutos a pie de la estación de tren y de la terminal de autobuses de Gloucester Green. La entrada general es gratuita. Actualmente abre todos los días de 10am a 5pm, aunque el horario puede variar, por lo que conviene consultar la web oficial antes de ir. Reserve entre dos y tres horas para la visita. Si llega a la hora de apertura y empieza por las plantas superiores, normalmente se adelantará a los grupos escolares.
 faq:
   - q: ¿La entrada al Museo Ashmolean es gratuita?

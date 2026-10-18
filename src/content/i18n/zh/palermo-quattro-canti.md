@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: palermo-quattro-canti
-srcHash: 'f75f2fad15de'
+srcHash: '60fef94990e0'
 title: 四角广场（Quattro Canti）：巴勒莫旅行指南（4.7★）
-description: 四角广场正好坐落在巴勒莫两条最古老主街——马奎达大道（Via Maqueda）和维托里奥·埃马努埃莱大道（Via Vittorio Emanuele）的交叉口，老城四个历史街区正是在此交汇。4.7★（31,280条评价）——游客怎么说、开放时间与实用建议，一并奉上。
+description: 四角广场正好坐落在巴勒莫两条最古老主街——马奎达大道（Via Maqueda）和维托里奥·埃马努埃莱大道（Via Vittorio Emanuele）的交叉口，老城四个历史街区正是在此交汇。4.7★（31,746条评价）——游客怎么说、开放时间与实用建议，一并奉上。
 quickAnswer: 四角广场正好坐落在巴勒莫两条最古老主街——马奎达大道（Via Maqueda）和维托里奥·埃马努埃莱大道（Via Vittorio Emanuele）的交叉口，老城四个历史街区正是在此交汇。这里全天开放，没有门票也没有围栏，但要真正看清那些雕刻细节，最安静的时段是早上7点到9点，趁着旅行团和车流还没涌来。徒步逛一圈大概花十到十五分钟，如果顺路把一街之隔的普雷托利亚广场（Piazza Pretoria）喷泉也一并看了，时间会更长一些。
 faq:
   - q: 四角广场到底是什么，位置在哪里？

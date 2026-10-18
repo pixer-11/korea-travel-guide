@@ -1,59 +1,90 @@
 ---
-title: "World Museum: Liverpool Travel Guide (4.6★)"
-description: "World Museum sits on William Brown Street in Liverpool city centre, a few minutes' walk from Lime Street station, with five floors of natural history, science and world cultures exhibits plus a planetarium. 4.6★ (16,309 reviews) — what visitors say, hours, and tips."
-country: "United Kingdom"
-region: "Liverpool"
-category: "attraction"
-pubDate: "2026-10-18T07:45:20.529Z"
+title: 'World Museum: Liverpool Travel Guide (4.6★)'
+description: >-
+  World Museum sits on William Brown Street in Liverpool city centre, a few
+  minutes' walk from Lime Street station, with five floors of natural history,
+  science and world cultures exhibits plus a planetarium. 4.6★ (16,312 reviews)
+  — what visitors say, hours, and tips.
+country: United Kingdom
+region: Liverpool
+category: attraction
+pubDate: '2026-10-18T07:45:20.529Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/World_Museum_Liverpool_-_2014-11-16_%282%29.jpg/1920px-World_Museum_Liverpool_-_2014-11-16_%282%29.jpg"
-  credit: "Photo: Rept0n1x / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:World_Museum_Liverpool_-_2014-11-16_(2).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/World_Museum_Liverpool_-_2014-11-16_%282%29.jpg/1920px-World_Museum_Liverpool_-_2014-11-16_%282%29.jpg
+  credit: 'Photo: Rept0n1x / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:World_Museum_Liverpool_-_2014-11-16_(2).jpg
   focus:
     x: 55
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/World_Museum_Liverpool_-_2024-06-15.jpg/3840px-World_Museum_Liverpool_-_2024-06-15.jpg"
-    credit: "Photo: 瑞丽江的河水 / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:World_Museum_Liverpool_-_2024-06-15.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/World_Museum_Liverpool_-_2024-06-15.jpg/3840px-World_Museum_Liverpool_-_2024-06-15.jpg
+    credit: 'Photo: 瑞丽江的河水 / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:World_Museum_Liverpool_-_2024-06-15.jpg
 place:
-  id: "ChIJu7Vp_Dohe0gROQL-uTuFae8"
-  name: "World Museum"
-  address: "William Brown St, Liverpool L3 8EN, UK"
+  id: ChIJu7Vp_Dohe0gROQL-uTuFae8
+  name: World Museum
+  address: 'William Brown St, Liverpool L3 8EN, UK'
   rating: 4.6
-  userRatingsTotal: 16309
-  googleMapsUrl: "https://maps.google.com/?cid=17251466339189391929&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 16312
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=17251466339189391929&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 53.409976099999994
   lng: -2.9821051
-  phone: "+44 151 478 4393"
+  phone: +44 151 478 4393
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 10:00 AM – 5:00 PM"
-    - "Wednesday: 10:00 AM – 5:00 PM"
-    - "Thursday: 10:00 AM – 5:00 PM"
-    - "Friday: 10:00 AM – 5:00 PM"
-    - "Saturday: 10:00 AM – 5:00 PM"
-    - "Sunday: 10:00 AM – 5:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 10:00 AM – 5:00 PM'
+    - 'Wednesday: 10:00 AM – 5:00 PM'
+    - 'Thursday: 10:00 AM – 5:00 PM'
+    - 'Friday: 10:00 AM – 5:00 PM'
+    - 'Saturday: 10:00 AM – 5:00 PM'
+    - 'Sunday: 10:00 AM – 5:00 PM'
 tags:
-  - "liverpool"
-  - "museum"
-quickAnswer: "World Museum sits on William Brown Street in Liverpool city centre, a few minutes' walk from Lime Street station, with five floors of natural history, science and world cultures exhibits plus a planetarium. General admission is free. At the moment it opens 10am–5pm Tuesday to Sunday and is closed Mondays, so plan two to three hours and check the official site for this month's hours and planetarium tickets."
+  - liverpool
+  - museum
+quickAnswer: >-
+  World Museum sits on William Brown Street in Liverpool city centre, a few
+  minutes' walk from Lime Street station, with five floors of natural history,
+  science and world cultures exhibits plus a planetarium. General admission is
+  free. At the moment it opens 10am–5pm Tuesday to Sunday and is closed Mondays,
+  so plan two to three hours and check the official site for this month's hours
+  and planetarium tickets.
 faq:
-  - q: "How do I get to World Museum from Liverpool Lime Street station?"
-    a: "Walk out towards St George's Hall, cross the road and head up William Brown Street. The museum is on the right, next to the Central Library and the Walker Art Gallery. It's a walk of a few minutes."
-  - q: "Is World Museum open on Mondays?"
-    a: "Not at the moment. It currently opens 10am–5pm Tuesday to Sunday and is closed on Mondays. Hours can change for holidays and through the year, so check the National Museums Liverpool website before you go."
-  - q: "Do I need to book tickets?"
-    a: "Not for general entry, which is free and needs no booking. Planetarium shows run at set times with limited seats, so check the official website or the front desk when you arrive to see whether a show needs a ticket."
-  - q: "How long should I spend at World Museum?"
-    a: "Give it two to three hours to see the highlights and one planetarium show. Families who use the hands-on natural history areas and the aquarium often stay most of the day."
-  - q: "What else is nearby?"
-    a: "The Walker Art Gallery and the Central Library, with its Picton Reading Room, are next door. St George's Hall and St John's Gardens are across the road, and the Royal Albert Dock is about a 20-minute walk away."
+  - q: How do I get to World Museum from Liverpool Lime Street station?
+    a: >-
+      Walk out towards St George's Hall, cross the road and head up William
+      Brown Street. The museum is on the right, next to the Central Library and
+      the Walker Art Gallery. It's a walk of a few minutes.
+  - q: Is World Museum open on Mondays?
+    a: >-
+      Not at the moment. It currently opens 10am–5pm Tuesday to Sunday and is
+      closed on Mondays. Hours can change for holidays and through the year, so
+      check the National Museums Liverpool website before you go.
+  - q: Do I need to book tickets?
+    a: >-
+      Not for general entry, which is free and needs no booking. Planetarium
+      shows run at set times with limited seats, so check the official website
+      or the front desk when you arrive to see whether a show needs a ticket.
+  - q: How long should I spend at World Museum?
+    a: >-
+      Give it two to three hours to see the highlights and one planetarium show.
+      Families who use the hands-on natural history areas and the aquarium often
+      stay most of the day.
+  - q: What else is nearby?
+    a: >-
+      The Walker Art Gallery and the Central Library, with its Picton Reading
+      Room, are next door. St George's Hall and St John's Gardens are across the
+      road, and the Royal Albert Dock is about a 20-minute walk away.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-18'
 ---
 
 ## A Victorian Facade on Liverpool's Museum Row

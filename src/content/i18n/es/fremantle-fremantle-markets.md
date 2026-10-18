@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: fremantle-fremantle-markets
-srcHash: '5922a19091b3'
+srcHash: '56a50d2e9269'
 title: 'Fremantle Markets: guía de viaje (4.4★)'
-description: En la esquina de South Terrace con Henderson Street, a 10 minutos a pie de la estación de Fremantle, el mercado Fremantle Markets ocupa una nave en pie desde 1897. Con 4.4★ (17,838 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
+description: En la esquina de South Terrace con Henderson Street, a 10 minutos a pie de la estación de Fremantle, el mercado Fremantle Markets ocupa una nave en pie desde 1897. Con 4.4★ (17,841 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
 quickAnswer: El mercado Fremantle Markets ocupa una nave que se mantiene en pie desde 1897, en la esquina de South Terrace con Henderson Street, en Fremantle. Desde la estación de Fremantle se llega en 10 minutos a pie. Actualmente abre de viernes a domingo, de 9am–6pm, y permanece cerrado de lunes a jueves. Conviene reservarle entre una y dos horas y combinar la visita con la prisión de Fremantle (Fremantle Prison) o con los cafés de South Terrace.
 faq:
   - q: ¿Qué días abre Fremantle Markets?

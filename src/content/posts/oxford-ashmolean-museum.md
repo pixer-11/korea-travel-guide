@@ -1,59 +1,89 @@
 ---
-title: "Ashmolean Museum: Oxford Travel Guide (4.7★)"
-description: "The Ashmolean Museum sits on Beaumont Street in central Oxford, a short walk from the railway station and Gloucester Green bus station, and general admission is free. 4.7★ (12,235 reviews) — what visitors say, hours, and tips."
-country: "United Kingdom"
-region: "Oxford"
-category: "attraction"
-pubDate: "2026-10-18T07:45:24.630Z"
+title: 'Ashmolean Museum: Oxford Travel Guide (4.7★)'
+description: >-
+  The Ashmolean Museum sits on Beaumont Street in central Oxford, a short walk
+  from the railway station and Gloucester Green bus station, and general
+  admission is free. 4.7★ (12,236 reviews) — what visitors say, hours, and tips.
+country: United Kingdom
+region: Oxford
+category: attraction
+pubDate: '2026-10-18T07:45:24.630Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Ashmolean_Museum_in_July_2014.jpg/1920px-Ashmolean_Museum_in_July_2014.jpg"
-  credit: "Photo: Lewis Clarke / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Ashmolean_Museum_in_July_2014.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Ashmolean_Museum_in_July_2014.jpg/1920px-Ashmolean_Museum_in_July_2014.jpg
+  credit: 'Photo: Lewis Clarke / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Ashmolean_Museum_in_July_2014.jpg'
   focus:
     x: 65
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ashmolean_Museum%2C_Beaumont_Street%2C_Oxford%2C_August_2025.jpg/3840px-Ashmolean_Museum%2C_Beaumont_Street%2C_Oxford%2C_August_2025.jpg"
-    credit: "Photo: Gazamp / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Ashmolean_Museum,_Beaumont_Street,_Oxford,_August_2025.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ashmolean_Museum%2C_Beaumont_Street%2C_Oxford%2C_August_2025.jpg/3840px-Ashmolean_Museum%2C_Beaumont_Street%2C_Oxford%2C_August_2025.jpg
+    credit: 'Photo: Gazamp / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Ashmolean_Museum,_Beaumont_Street,_Oxford,_August_2025.jpg
 place:
-  id: "ChIJt6tfLaTGdkgRQ1cgXjeijOg"
-  name: "Ashmolean Museum"
-  address: "Beaumont St, Oxford OX1 2PH, UK"
+  id: ChIJt6tfLaTGdkgRQ1cgXjeijOg
+  name: Ashmolean Museum
+  address: 'Beaumont St, Oxford OX1 2PH, UK'
   rating: 4.7
-  userRatingsTotal: 12235
-  googleMapsUrl: "https://maps.google.com/?cid=16756946672224851779&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 12236
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16756946672224851779&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 51.755427999999995
   lng: -1.2600725
-  phone: "+44 1865 278000"
+  phone: +44 1865 278000
   openingHours:
-    - "Monday: 10:00 AM – 5:00 PM"
-    - "Tuesday: 10:00 AM – 5:00 PM"
-    - "Wednesday: 10:00 AM – 5:00 PM"
-    - "Thursday: 10:00 AM – 5:00 PM"
-    - "Friday: 10:00 AM – 5:00 PM"
-    - "Saturday: 10:00 AM – 5:00 PM"
-    - "Sunday: 10:00 AM – 5:00 PM"
+    - 'Monday: 10:00 AM – 5:00 PM'
+    - 'Tuesday: 10:00 AM – 5:00 PM'
+    - 'Wednesday: 10:00 AM – 5:00 PM'
+    - 'Thursday: 10:00 AM – 5:00 PM'
+    - 'Friday: 10:00 AM – 5:00 PM'
+    - 'Saturday: 10:00 AM – 5:00 PM'
+    - 'Sunday: 10:00 AM – 5:00 PM'
 tags:
-  - "oxford"
-  - "museum"
-quickAnswer: "The Ashmolean Museum sits on Beaumont Street in central Oxford, a short walk from the railway station and Gloucester Green bus station, and general admission is free. It is currently open 10am–5pm every day, though hours can change, so check the official site before you go. Give it two to three hours. Arriving at opening and heading for the upper floors first usually keeps you ahead of school groups."
+  - oxford
+  - museum
+quickAnswer: >-
+  The Ashmolean Museum sits on Beaumont Street in central Oxford, a short walk
+  from the railway station and Gloucester Green bus station, and general
+  admission is free. It is currently open 10am–5pm every day, though hours can
+  change, so check the official site before you go. Give it two to three hours.
+  Arriving at opening and heading for the upper floors first usually keeps you
+  ahead of school groups.
 faq:
-  - q: "Is the Ashmolean Museum free to enter?"
-    a: "Yes, general admission to the permanent collection is free, and donation boxes are near the entrance. Special exhibitions are usually ticketed. Current prices and timed booking are on the official Ashmolean website."
-  - q: "How long should I spend at the Ashmolean?"
-    a: "Allow two to three hours for the highlights, such as the Alfred Jewel, the Messiah Stradivarius and the Egyptian galleries. Plan a full day if you want to cover every floor properly with a lunch break."
-  - q: "How do I get to the Ashmolean from Oxford station?"
-    a: "It's about a 10–15 minute walk east from Oxford railway station via Hythe Bridge Street and George Street to Beaumont Street. Gloucester Green coach station is even closer. Avoid driving, as central parking is scarce, and use the Park & Ride buses instead."
-  - q: "What are the opening hours?"
-    a: "At the moment it opens 10am–5pm every day. Hours can change for holidays and events, so check the official website before visiting."
-  - q: "What else is near the Ashmolean?"
-    a: "The Martyrs' Memorial and St Giles' are right outside, and the Randolph Hotel is opposite. Broad Street, the Bodleian Library and the Radcliffe Camera are a few minutes' walk away. The Pitt Rivers Museum and the Natural History Museum are up Parks Road."
+  - q: Is the Ashmolean Museum free to enter?
+    a: >-
+      Yes, general admission to the permanent collection is free, and donation
+      boxes are near the entrance. Special exhibitions are usually ticketed.
+      Current prices and timed booking are on the official Ashmolean website.
+  - q: How long should I spend at the Ashmolean?
+    a: >-
+      Allow two to three hours for the highlights, such as the Alfred Jewel, the
+      Messiah Stradivarius and the Egyptian galleries. Plan a full day if you
+      want to cover every floor properly with a lunch break.
+  - q: How do I get to the Ashmolean from Oxford station?
+    a: >-
+      It's about a 10–15 minute walk east from Oxford railway station via Hythe
+      Bridge Street and George Street to Beaumont Street. Gloucester Green coach
+      station is even closer. Avoid driving, as central parking is scarce, and
+      use the Park & Ride buses instead.
+  - q: What are the opening hours?
+    a: >-
+      At the moment it opens 10am–5pm every day. Hours can change for holidays
+      and events, so check the official website before visiting.
+  - q: What else is near the Ashmolean?
+    a: >-
+      The Martyrs' Memorial and St Giles' are right outside, and the Randolph
+      Hotel is opposite. Broad Street, the Bodleian Library and the Radcliffe
+      Camera are a few minutes' walk away. The Pitt Rivers Museum and the
+      Natural History Museum are up Parks Road.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-18'
 ---
 
 ## A temple front on Beaumont Street

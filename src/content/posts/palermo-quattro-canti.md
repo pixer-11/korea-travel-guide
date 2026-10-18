@@ -1,30 +1,37 @@
 ---
 title: 'Quattro Canti: Palermo Travel Guide (4.7★)'
-description: Quattro Canti sits at the exact crossing of Palermo's two oldest main streets, Via Maqueda and Via Vittorio Emanuele, right where the four historic quarters of the old city meet. 4.7★ (31,280 reviews) — what visitors say, hours, and tips.
+description: >-
+  Quattro Canti sits at the exact crossing of Palermo's two oldest main streets,
+  Via Maqueda and Via Vittorio Emanuele, right where the four historic quarters
+  of the old city meet. 4.7★ (31,746 reviews) — what visitors say, hours, and
+  tips.
 country: Italy
 region: Palermo
 category: attraction
 pubDate: '2026-09-13T07:39:44.487Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/7271324_ps_AdjJlCbAX6gfir0da8IX14ynpK5Q1wggHQlijVvU.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/7271324_ps_AdjJlCbAX6gfir0da8IX14ynpK5Q1wggHQlijVvU.jpg
   credit: 'Photo: Foursquare user content (Quattro Canti)'
   license: foursquare
-  source: https://foursquare.com/v/4c448b23429a0f47bee1481e
+  source: 'https://foursquare.com/v/4c448b23429a0f47bee1481e'
   focus:
     x: 50
     'y': 40
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Palermo_0613_2013.jpg/3840px-Palermo_0613_2013.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Palermo_0613_2013.jpg/3840px-Palermo_0613_2013.jpg
     credit: 'Photo: Bengt Nyman / Wikimedia Commons (CC BY 2.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Palermo_0613_2013.jpg
+    source: 'https://commons.wikimedia.org/wiki/File:Palermo_0613_2013.jpg'
 place:
   id: ChIJmcmp1orlGRMRoPpbuqeU7yI
   name: Quattro Canti
-  address: Piazza Villena, 90133 Palermo PA, Italy
+  address: 'Piazza Villena, 90133 Palermo PA, Italy'
   rating: 4.7
-  userRatingsTotal: 31280
-  googleMapsUrl: https://maps.google.com/?cid=2517394164830436000&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 31746
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2517394164830436000&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 38.1156779
   lng: 13.3614681
@@ -72,20 +79,43 @@ place:
 tags:
   - palermo
   - historic site
-quickAnswer: Quattro Canti sits at the exact crossing of Palermo's two oldest main streets, Via Maqueda and Via Vittorio Emanuele, right where the four historic quarters of the old city meet. It's open all day, every day, with no ticket and no gate, but the calmest window to actually see the carvings is 7am to 9am before the tour groups and traffic close in. Give it ten to fifteen minutes on foot, longer if you fold in the connecting Piazza Pretoria fountain one block away.
+quickAnswer: >-
+  Quattro Canti sits at the exact crossing of Palermo's two oldest main streets,
+  Via Maqueda and Via Vittorio Emanuele, right where the four historic quarters
+  of the old city meet. It's open all day, every day, with no ticket and no
+  gate, but the calmest window to actually see the carvings is 7am to 9am before
+  the tour groups and traffic close in. Give it ten to fifteen minutes on foot,
+  longer if you fold in the connecting Piazza Pretoria fountain one block away.
 faq:
   - q: What exactly is Quattro Canti and where is it?
-    a: It's a Baroque octagonal intersection, officially Piazza Villena, where Palermo's two main historic streets, Via Maqueda and Via Vittorio Emanuele, cross in the old city centre. Each of its four curved corners has a fountain, a viceroy statue and a patron saint statue stacked in tiers.
+    a: >-
+      It's a Baroque octagonal intersection, officially Piazza Villena, where
+      Palermo's two main historic streets, Via Maqueda and Via Vittorio
+      Emanuele, cross in the old city centre. Each of its four curved corners
+      has a fountain, a viceroy statue and a patron saint statue stacked in
+      tiers.
   - q: Is there an entry fee or set opening hours?
-    a: No. It's an open street intersection with no gate or ticket, accessible 24 hours every day.
+    a: >-
+      No. It's an open street intersection with no gate or ticket, accessible 24
+      hours every day.
   - q: When is it quietest to visit?
-    a: Both weekdays and weekends, the calmest window is 7am to 9am, before shops open and crowds build. Try to avoid 11am to 11pm on weekends, when it's busiest.
+    a: >-
+      Both weekdays and weekends, the calmest window is 7am to 9am, before shops
+      open and crowds build. Try to avoid 11am to 11pm on weekends, when it's
+      busiest.
   - q: How long should I spend here?
-    a: Ten to fifteen minutes covers a proper look at all four corners. Most visitors fold it into a longer walk toward Piazza Pretoria and the Cattedrale di Palermo, which are both within a couple minutes on foot.
+    a: >-
+      Ten to fifteen minutes covers a proper look at all four corners. Most
+      visitors fold it into a longer walk toward Piazza Pretoria and the
+      Cattedrale di Palermo, which are both within a couple minutes on foot.
   - q: What's nearby worth combining with a visit?
-    a: Piazza Pretoria and its large fountain are one block away, the Cattedrale di Palermo is a short walk west, and the Vucciria market quarter is a few minutes north for a follow-on lunch stop.
+    a: >-
+      Piazza Pretoria and its large fountain are one block away, the Cattedrale
+      di Palermo is a short walk west, and the Vucciria market quarter is a few
+      minutes north for a follow-on lunch stop.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-18'
 ---
 
 Stand in the middle of Via Maqueda where it crosses Via Vittorio Emanuele and you are standing on the seam of Palermo itself. This intersection, officially Piazza Villena but known to everyone as Quattro Canti, the "Four Corners", was cut through the medieval city in the late 1500s specifically to divide it into four administrative quarters: Kalsa, Albergheria, Capo and Vucciria. Every direction you turn, you're looking down a different neighbourhood.

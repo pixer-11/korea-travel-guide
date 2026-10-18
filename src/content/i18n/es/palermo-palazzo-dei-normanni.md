@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: palermo-palazzo-dei-normanni
-srcHash: '46fbd47b300d'
+srcHash: '60ce6463ca31'
 title: 'Palazzo dei Normanni: guía de viaje de Palermo (4.5★)'
-description: 'El Palazzo dei Normanni se alza en lo alto del Corso Vittorio Emanuele de Palermo, y los mosaicos dorados de la Capilla Palatina junto con la entrada del mismo día son lo que todo visitante busca. 4.5★ (28.492 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'El Palazzo dei Normanni se alza en lo alto del Corso Vittorio Emanuele de Palermo, y los mosaicos dorados de la Capilla Palatina junto con la entrada del mismo día son lo que todo visitante busca. 4.5★ (28.915 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Palazzo dei Normanni se alza en lo alto del Corso Vittorio Emanuele de Palermo, y los mosaicos dorados de la Capilla Palatina junto con la entrada del mismo día son lo que todo visitante busca. Abre todos los días, aunque los domingos solo hasta la 1 de la tarde, y recibe tantas visitas que los fines de semana entre las 11:00 y las 12:00 se llena bastante; conviene ir más temprano o después de las 14:00 un sábado o domingo para contemplar la capilla con más calma.
 faq:
   - q: ¿Cuánto tiempo debo reservar para visitar el Palazzo dei Normanni?

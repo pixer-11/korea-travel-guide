@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: pamukkale-hierapolis-ancient-theater
-srcHash: '7a56f7044bb1'
+srcHash: 'ebddc03ca157'
 title: 'Teatro Antiguo de Hierápolis: Guía de Viaje de Pamukkale (4,9★)'
-description: 'El Teatro Antiguo de Hierápolis se alza en la ladera que domina las terrazas de travertino de Pamukkale y es el teatro romano mejor conservado de la región: destaca por su edificio escénico, que aún conserva dos plantas de altura, y por las vistas hacia las terrazas blancas y el valle de Denizli. 4,9★ (4.681 reseñas): qué dicen los visitantes, horarios y consejos.'
+description: 'El Teatro Antiguo de Hierápolis se alza en la ladera que domina las terrazas de travertino de Pamukkale y es el teatro romano mejor conservado de la región: destaca por su edificio escénico, que aún conserva dos plantas de altura, y por las vistas hacia las terrazas blancas y el valle de Denizli. 4,9★ (4.887 reseñas): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El Teatro Antiguo de Hierápolis se alza en la ladera que domina las terrazas de travertino de Pamukkale y es el teatro romano mejor conservado de la región: destaca por su edificio escénico, que aún conserva dos plantas de altura, y por las vistas hacia las terrazas blancas y el valle de Denizli. Dedícale entre 45 y 60 minutos, y ve a primera hora de la mañana o a última de la tarde para evitar tanto el sol de mediodía como las aglomeraciones de grupos turísticos. La entrada está incluida en el billete del parque arqueológico de Hierápolis-Pamukkale, sin coste adicional.'
 faq:
   - q: ¿Existe una entrada aparte para el teatro?

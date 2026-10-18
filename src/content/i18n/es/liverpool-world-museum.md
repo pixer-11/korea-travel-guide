@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: liverpool-world-museum
-srcHash: '4f4bd0ec5417'
+srcHash: 'eaf9ca5e5e7d'
 title: 'World Museum de Liverpool: guía de viaje (4.6★)'
-description: En pleno centro de Liverpool, sobre William Brown Street y a pocos minutos a pie de la estación de Lime Street, el World Museum reúne en cinco plantas historia natural, ciencia y culturas del mundo, además de un planetario. Con una valoración de 4.6★ (16,309 reseñas), aquí encontrará qué opinan los visitantes, los horarios y algunos consejos.
+description: En pleno centro de Liverpool, sobre William Brown Street y a pocos minutos a pie de la estación de Lime Street, el World Museum reúne en cinco plantas historia natural, ciencia y culturas del mundo, además de un planetario. Con una valoración de 4.6★ (16,312 reseñas), aquí encontrará qué opinan los visitantes, los horarios y algunos consejos.
 quickAnswer: En pleno centro de Liverpool, sobre William Brown Street y a pocos minutos a pie de la estación de Lime Street, el World Museum ocupa cinco plantas dedicadas a la historia natural, la ciencia y las culturas del mundo, y cuenta además con un planetario. La entrada general es gratuita. Actualmente abre de martes a domingo de 10am–5pm y cierra los lunes. Calcule entre dos y tres horas de visita y consulte en la web oficial tanto el horario del mes como las entradas para el planetario.
 faq:
   - q: ¿Cómo se llega al World Museum desde la estación de Liverpool Lime Street?

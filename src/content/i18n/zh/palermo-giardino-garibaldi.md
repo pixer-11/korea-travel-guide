@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: palermo-giardino-garibaldi
-srcHash: '80cfc779dcac'
+srcHash: '1ce365f36452'
 title: 加里波第花园：巴勒莫旅行指南（4.5★）
-description: 加里波第花园（Giardino Garibaldi）是巴勒莫卡尔萨区马里纳广场（Piazza Marina）上一座带围栏的小型公园，每日7:00至20:00开放，免费入场。4.5★（5,847条评价）——游客怎么说、开放时间及游览小贴士。
+description: 加里波第花园（Giardino Garibaldi）是巴勒莫卡尔萨区马里纳广场（Piazza Marina）上一座带围栏的小型公园，每日7:00至20:00开放，免费入场。4.5★（5,925条评价）——游客怎么说、开放时间及游览小贴士。
 quickAnswer: 加里波第花园是巴勒莫卡尔萨区马里纳广场上一座带围栏的小型公园，每日7:00至20:00开放，免费入场。这里以巨大的大叶榕（Ficus macrophylla）闻名，树根盘根错节犹如墙垣，此外还有19世纪的喷泉和大理石半身像。前往邻近的基亚拉蒙特—斯泰里宫（Palazzo Chiaramonte-Steri）途中，可以顺道来这里逛上15到20分钟。
 faq:
   - q: 加里波第花园的开放时间是几点到几点？

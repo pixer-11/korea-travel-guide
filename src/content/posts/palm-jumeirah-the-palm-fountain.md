@@ -1,51 +1,77 @@
 ---
-title: "The Palm Fountain: Palm Jumeirah Travel Guide (4.5★)"
-description: "The Palm Fountain sits at The Pointe on Palm Jumeirah, running nightly shows from 6pm to 10:30pm (Sunday and Saturday it stretches to midnight). 4.5★ (2,898 reviews) — what visitors say, hours, and tips."
-country: "United Arab Emirates"
-region: "Palm Jumeirah"
-category: "hidden-gem"
-pubDate: "2026-08-13T09:51:14.855Z"
+title: 'The Palm Fountain: Palm Jumeirah Travel Guide (4.5★)'
+description: >-
+  The Palm Fountain sits at The Pointe on Palm Jumeirah, running nightly shows
+  from 6pm to 10:30pm (Sunday and Saturday it stretches to midnight). 4.5★
+  (2,904 reviews) — what visitors say, hours, and tips.
+country: United Arab Emirates
+region: Palm Jumeirah
+category: hidden-gem
+pubDate: '2026-08-13T09:51:14.855Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/The_Palm_Fountain_%28%CE%B3%29.jpg/1920px-The_Palm_Fountain_%28%CE%B3%29.jpg"
-  credit: "Photo: XMJG / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:The_Palm_Fountain_(%CE%B3).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/The_Palm_Fountain_%28%CE%B3%29.jpg/1920px-The_Palm_Fountain_%28%CE%B3%29.jpg
+  credit: 'Photo: XMJG / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:The_Palm_Fountain_(%CE%B3).jpg'
 gallery: []
 place:
-  id: "ChIJHS5qVpoVXz4RSaO_TBx1rwI"
-  name: "The Palm Fountain"
-  address: "The Pointe - Frond H - Palm Jumeirah - Dubai - United Arab Emirates"
+  id: ChIJHS5qVpoVXz4RSaO_TBx1rwI
+  name: The Palm Fountain
+  address: The Pointe - Frond H - Palm Jumeirah - Dubai - United Arab Emirates
   rating: 4.5
-  userRatingsTotal: 2898
-  googleMapsUrl: "https://maps.google.com/?cid=193502073407382345&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2904
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=193502073407382345&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 25.127869
   lng: 55.1228225
   openingHours:
-    - "Monday: 6:00 – 10:30 PM"
-    - "Tuesday: 6:00 – 10:30 PM"
-    - "Wednesday: 6:00 – 10:30 PM"
-    - "Thursday: 6:00 – 10:30 PM"
-    - "Friday: 6:00 – 10:30 PM"
-    - "Saturday: 6:00 PM – 12:00 AM"
-    - "Sunday: 6:00 PM – 12:00 AM"
+    - 'Monday: 6:00 – 10:30 PM'
+    - 'Tuesday: 6:00 – 10:30 PM'
+    - 'Wednesday: 6:00 – 10:30 PM'
+    - 'Thursday: 6:00 – 10:30 PM'
+    - 'Friday: 6:00 – 10:30 PM'
+    - 'Saturday: 6:00 PM – 12:00 AM'
+    - 'Sunday: 6:00 PM – 12:00 AM'
 tags:
-  - "palm jumeirah"
-  - "hidden gem"
-quickAnswer: "The Palm Fountain sits at The Pointe on Palm Jumeirah, running nightly shows from 6pm to 10:30pm (Sunday and Saturday it stretches to midnight). Arrive by 7:30pm to get a rail-side spot before the first big shows and pair it with dinner at one of The Pointe's waterfront restaurants. It's free to watch and shows run roughly every 30 minutes once dark falls."
+  - palm jumeirah
+  - hidden gem
+quickAnswer: >-
+  The Palm Fountain sits at The Pointe on Palm Jumeirah, running nightly shows
+  from 6pm to 10:30pm (Sunday and Saturday it stretches to midnight). Arrive by
+  7:30pm to get a rail-side spot before the first big shows and pair it with
+  dinner at one of The Pointe's waterfront restaurants. It's free to watch and
+  shows run roughly every 30 minutes once dark falls.
 faq:
-  - q: "What are the Palm Fountain show times?"
-    a: "The plaza itself is open 6:00–10:30pm Monday through Friday, and 6:00pm–midnight on Saturday and Sunday. Shows repeat at intervals through the evening once it's dark — confirm the current schedule locally since it can shift."
-  - q: "Is there an entry fee?"
-    a: "No, watching the fountain shows is free. You'll only spend money if you eat or drink at one of the restaurants along The Pointe promenade."
-  - q: "How do I get to The Palm Fountain without a car?"
-    a: "Take the Palm Monorail to Gateway Towers or Atlantis station, then walk along the promenade to The Pointe. Taxis and ride-shares can drop you directly at The Pointe entrance."
-  - q: "What's the best time to avoid crowds?"
-    a: "Arrive right at 6pm opening, before the after-dinner crowd builds up around 9pm. Weeknights are generally calmer than the extended Saturday and Sunday hours."
-  - q: "How long should I plan to stay?"
-    a: "Most visitors spend 45 minutes to an hour, watching one or two show cycles and walking the promenade. Add extra time if you're eating dinner at one of The Pointe's restaurants first."
+  - q: What are the Palm Fountain show times?
+    a: >-
+      The plaza itself is open 6:00–10:30pm Monday through Friday, and
+      6:00pm–midnight on Saturday and Sunday. Shows repeat at intervals through
+      the evening once it's dark — confirm the current schedule locally since it
+      can shift.
+  - q: Is there an entry fee?
+    a: >-
+      No, watching the fountain shows is free. You'll only spend money if you
+      eat or drink at one of the restaurants along The Pointe promenade.
+  - q: How do I get to The Palm Fountain without a car?
+    a: >-
+      Take the Palm Monorail to Gateway Towers or Atlantis station, then walk
+      along the promenade to The Pointe. Taxis and ride-shares can drop you
+      directly at The Pointe entrance.
+  - q: What's the best time to avoid crowds?
+    a: >-
+      Arrive right at 6pm opening, before the after-dinner crowd builds up
+      around 9pm. Weeknights are generally calmer than the extended Saturday and
+      Sunday hours.
+  - q: How long should I plan to stay?
+    a: >-
+      Most visitors spend 45 minutes to an hour, watching one or two show cycles
+      and walking the promenade. Add extra time if you're eating dinner at one
+      of The Pointe's restaurants first.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-18'
 ---
 ## Why go
 

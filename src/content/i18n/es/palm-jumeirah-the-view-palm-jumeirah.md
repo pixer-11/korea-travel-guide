@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: palm-jumeirah-the-view-palm-jumeirah
-srcHash: '6a708996c9e7'
+srcHash: '5505bf877756'
 title: 'The View: Guía de viaje de Palm Jumeirah (4.7★)'
-description: The View at The Palm Tower es un mirador acristalado en el piso 52, el único punto de observación que muestra todo el patrón de la fronda de Palm Jumeirah a tus pies. 4.7★ (22,525 reseñas) — qué dicen los visitantes, horarios y consejos.
+description: The View at The Palm Tower es un mirador acristalado en el piso 52, el único punto de observación que muestra todo el patrón de la fronda de Palm Jumeirah a tus pies. 4.7★ (22,754 reseñas) — qué dicen los visitantes, horarios y consejos.
 quickAnswer: The View at The Palm Tower es un mirador acristalado en el piso 52, el único punto de observación que muestra todo el patrón de la fronda de Palm Jumeirah a tus pies. Abre todos los días de 10am a 7pm, y el momento más tranquilo es de 10am a 12pm — los fines de semana se llena a partir de las 2pm. Calcula entre 45 y 60 minutos, y reserva tu entrada con horario fijo en línea con anticipación.
 faq:
   - q: ¿Cuál es el horario de The View at The Palm?

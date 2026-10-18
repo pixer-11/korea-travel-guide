@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: nuremberg-handwerkerhof-nurnberg
-srcHash: 'a8262c9929c3'
+srcHash: 'd4b3960aea1d'
 title: 'Handwerkerhof de Núremberg: guía de viaje (4.6★)'
-description: 'El Handwerkerhof es un patio artesanal amurallado del casco antiguo de Núremberg, situado en Königstraße 82, tras la puerta de Königstor y justo enfrente de la estación central (Hauptbahnhof). Tiene una valoración de 4.6★ (6,903 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'El Handwerkerhof es un patio artesanal amurallado del casco antiguo de Núremberg, situado en Königstraße 82, tras la puerta de Königstor y justo enfrente de la estación central (Hauptbahnhof). Tiene una valoración de 4.6★ (6,906 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Handwerkerhof es un patio artesanal amurallado del casco antiguo de Núremberg. Se encuentra en Königstraße 82, tras la puerta de Königstor, justo enfrente de la estación central (Hauptbahnhof). Calcule entre 30 y 60 minutos para recorrer sus tiendas de pan de jengibre, peltre y vidrio, y para tomar un plato de salchichas de Núremberg (Nürnberger Rostbratwurst). Actualmente abre de lunes a sábado de 8am a 10pm, y los domingos de 10am a 8pm.
 faq:
   - q: ¿Cómo se llega al Handwerkerhof de Núremberg?

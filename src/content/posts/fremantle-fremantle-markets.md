@@ -1,59 +1,87 @@
 ---
-title: "Fremantle Markets: Travel Guide (4.4★)"
-description: "Fremantle Markets sits on the corner of South Terrace and Henderson Street in Fremantle, a 10-minute walk from Fremantle Station, inside a market hall that has stood since 1897. 4.4★ (17,838 reviews) — what visitors say, hours, and tips."
-country: "Australia"
-region: "Fremantle"
-category: "hidden-gem"
-pubDate: "2026-10-18T07:45:23.603Z"
+title: 'Fremantle Markets: Travel Guide (4.4★)'
+description: >-
+  Fremantle Markets sits on the corner of South Terrace and Henderson Street in
+  Fremantle, a 10-minute walk from Fremantle Station, inside a market hall that
+  has stood since 1897. 4.4★ (17,841 reviews) — what visitors say, hours, and
+  tips.
+country: Australia
+region: Fremantle
+category: hidden-gem
+pubDate: '2026-10-18T07:45:23.603Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Freo_Markets_sign_in_2013.jpg/1920px-Freo_Markets_sign_in_2013.jpg"
-  credit: "Photo: User:JarrahTree / Wikimedia Commons (CC BY 2.5 au)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Freo_Markets_sign_in_2013.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Freo_Markets_sign_in_2013.jpg/1920px-Freo_Markets_sign_in_2013.jpg
+  credit: 'Photo: User:JarrahTree / Wikimedia Commons (CC BY 2.5 au)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Freo_Markets_sign_in_2013.jpg'
   focus:
     x: 50
-    y: 55
+    'y': 55
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Fremantle_Markets_and_Warder%27s_Cottages%2C_Fremantle%2C_July_2023.jpg/3840px-Fremantle_Markets_and_Warder%27s_Cottages%2C_Fremantle%2C_July_2023.jpg"
-    credit: "Photo: Calistemon / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Fremantle_Markets_and_Warder%27s_Cottages,_Fremantle,_July_2023.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Fremantle_Markets_and_Warder%27s_Cottages%2C_Fremantle%2C_July_2023.jpg/3840px-Fremantle_Markets_and_Warder%27s_Cottages%2C_Fremantle%2C_July_2023.jpg
+    credit: 'Photo: Calistemon / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Fremantle_Markets_and_Warder%27s_Cottages,_Fremantle,_July_2023.jpg
 place:
-  id: "ChIJv5QGAXuhMioRlJSls37L-Lg"
-  name: "Fremantle Markets"
-  address: "South Terrace &, Henderson St, Fremantle WA 6160, Australia"
+  id: ChIJv5QGAXuhMioRlJSls37L-Lg
+  name: Fremantle Markets
+  address: 'South Terrace &, Henderson St, Fremantle WA 6160, Australia'
   rating: 4.4
-  userRatingsTotal: 17838
-  googleMapsUrl: "https://maps.google.com/?cid=13328626842243273876&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 17841
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13328626842243273876&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -32.056264299999995
   lng: 115.74885069999999
-  phone: "+61 8 9335 2515"
+  phone: +61 8 9335 2515
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: Closed"
-    - "Wednesday: Closed"
-    - "Thursday: Closed"
-    - "Friday: 9:00 AM – 6:00 PM"
-    - "Saturday: 9:00 AM – 6:00 PM"
-    - "Sunday: 9:00 AM – 6:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: Closed'
+    - 'Wednesday: Closed'
+    - 'Thursday: Closed'
+    - 'Friday: 9:00 AM – 6:00 PM'
+    - 'Saturday: 9:00 AM – 6:00 PM'
+    - 'Sunday: 9:00 AM – 6:00 PM'
 tags:
-  - "fremantle"
-  - "local market"
-quickAnswer: "Fremantle Markets sits on the corner of South Terrace and Henderson Street in Fremantle, a 10-minute walk from Fremantle Station, inside a market hall that has stood since 1897. At the moment it trades Friday to Sunday, 9am–6pm, and stays shut Monday to Thursday. Plan on one to two hours, and pair it with Fremantle Prison or the South Terrace cafés."
+  - fremantle
+  - local market
+quickAnswer: >-
+  Fremantle Markets sits on the corner of South Terrace and Henderson Street in
+  Fremantle, a 10-minute walk from Fremantle Station, inside a market hall that
+  has stood since 1897. At the moment it trades Friday to Sunday, 9am–6pm, and
+  stays shut Monday to Thursday. Plan on one to two hours, and pair it with
+  Fremantle Prison or the South Terrace cafés.
 faq:
-  - q: "What days is Fremantle Markets open?"
-    a: "At the moment it opens Friday, Saturday and Sunday, 9am–6pm, and is closed Monday to Thursday. Public holidays can change the hours, so check the official site before you go."
-  - q: "How do I get to Fremantle Markets from Perth?"
-    a: "Take the Transperth Fremantle line to the end at Fremantle Station, then walk about 10 minutes down Market Street to the corner of South Terrace and Henderson Street. The free Fremantle CAT bus also runs nearby."
-  - q: "How long should I spend at Fremantle Markets?"
-    a: "One to two hours covers the craft hall and the produce and food stalls. Add half a day if you are also visiting Fremantle Prison and the Fishing Boat Harbour."
-  - q: "Do stalls at Fremantle Markets take cards?"
-    a: "Most take tap-and-go cards. A small amount of cash helps at the occasional stall that prefers it. Prices are fixed, and tipping isn't expected."
-  - q: "What is near Fremantle Markets?"
-    a: "The South Terrace café strip starts at the door. Fremantle Prison is a short walk uphill. The Fishing Boat Harbour, Esplanade Park and the Round House are all within about 10–15 minutes on foot."
+  - q: What days is Fremantle Markets open?
+    a: >-
+      At the moment it opens Friday, Saturday and Sunday, 9am–6pm, and is closed
+      Monday to Thursday. Public holidays can change the hours, so check the
+      official site before you go.
+  - q: How do I get to Fremantle Markets from Perth?
+    a: >-
+      Take the Transperth Fremantle line to the end at Fremantle Station, then
+      walk about 10 minutes down Market Street to the corner of South Terrace
+      and Henderson Street. The free Fremantle CAT bus also runs nearby.
+  - q: How long should I spend at Fremantle Markets?
+    a: >-
+      One to two hours covers the craft hall and the produce and food stalls.
+      Add half a day if you are also visiting Fremantle Prison and the Fishing
+      Boat Harbour.
+  - q: Do stalls at Fremantle Markets take cards?
+    a: >-
+      Most take tap-and-go cards. A small amount of cash helps at the occasional
+      stall that prefers it. Prices are fixed, and tipping isn't expected.
+  - q: What is near Fremantle Markets?
+    a: >-
+      The South Terrace café strip starts at the door. Fremantle Prison is a
+      short walk uphill. The Fishing Boat Harbour, Esplanade Park and the Round
+      House are all within about 10–15 minutes on foot.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-18'
 ---
 
 ## A Victorian hall that still trades

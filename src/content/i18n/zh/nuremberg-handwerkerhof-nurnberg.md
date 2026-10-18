@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: nuremberg-handwerkerhof-nurnberg
-srcHash: 'a8262c9929c3'
+srcHash: 'd4b3960aea1d'
 title: 纽伦堡工匠庭院（Handwerkerhof Nürnberg）：纽伦堡旅行指南（4.6★）
-description: 纽伦堡工匠庭院位于老城国王大街（Königstraße）82号，藏在国王门（Königstor）城墙之内，与中央火车站隔街相望。这里评分4.6★（6,903条评价），本文汇总游客评价、开放时间与游览建议。
+description: 纽伦堡工匠庭院位于老城国王大街（Königstraße）82号，藏在国王门（Königstor）城墙之内，与中央火车站隔街相望。这里评分4.6★（6,906条评价），本文汇总游客评价、开放时间与游览建议。
 quickAnswer: 纽伦堡工匠庭院（Handwerkerhof Nürnberg）位于纽伦堡老城国王大街（Königstraße）82号，四面有城墙围合，就在国王门（Königstor）内侧，正对中央火车站（Hauptbahnhof）。院里有姜饼、锡器和玻璃器皿小店，还能坐下来吃一盘纽伦堡烤香肠（Nürnberger Rostbratwurst），预留30–60分钟比较合适。目前的开放时间为周一至周六早8点至晚10点，周日上午10点至晚8点。
 faq:
   - q: 怎么去纽伦堡工匠庭院？

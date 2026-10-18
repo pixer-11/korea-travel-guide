@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: palermo-giardino-garibaldi
-srcHash: '80cfc779dcac'
+srcHash: '1ce365f36452'
 title: 'Giardino Garibaldi: guía de viaje de Palermo (4,5★)'
-description: 'El Giardino Garibaldi es el pequeño parque vallado de la Piazza Marina, en el barrio de la Kalsa de Palermo, abierto todos los días de 7:00 a 20:00 y de entrada gratuita. 4,5★ (5.847 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Giardino Garibaldi es el pequeño parque vallado de la Piazza Marina, en el barrio de la Kalsa de Palermo, abierto todos los días de 7:00 a 20:00 y de entrada gratuita. 4,5★ (5.925 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Giardino Garibaldi es el pequeño parque vallado de la Piazza Marina, en el barrio de la Kalsa de Palermo, abierto todos los días de 7:00 a 20:00 y de entrada gratuita. Es conocido por sus enormes ficus macrophylla, cuyas raíces se extienden como muros, además de sus fuentes decimonónicas y bustos de mármol. Dedícale entre 15 y 20 minutos de camino hacia el cercano Palazzo Chiaramonte-Steri o al volver de él.
 faq:
   - q: ¿Cuál es el horario del Giardino Garibaldi?
