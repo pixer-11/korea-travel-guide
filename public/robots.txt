@@ -1,5 +1,7 @@
 User-agent: *
 Allow: /
+# Affiliate relay: a crawler following it is not a reader (10-18 Travelpayouts click spike).
+Disallow: /go/
 
 Sitemap: https://wanderatlasguides.com/sitemap-index.xml
 Sitemap: https://wanderatlasguides.com/image-sitemap.xml

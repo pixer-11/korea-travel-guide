@@ -110,7 +110,11 @@ async function followLink(url) {
     }
     if (hop === MAX_HOPS) return { verdict: 'broken', detail: 'too many redirects' };
     let res;
-    try { ({ res } = await get(cur, { redirect: 'manual' })); }
+    // Our /go/ relay mints a click only for a reader — a browser coming from
+    // one of our pages (worker isReaderClick, 10-18). This probe is meant to
+    // be one such click a day, so it says where it "came from".
+    const ownHop = /^https:\/\/(www\.)?wanderatlasguides\.com\//.test(cur);
+    try { ({ res } = await get(cur, { redirect: 'manual', ...(ownHop ? { headers: { Referer: 'https://wanderatlasguides.com/' } } : {}) })); }
     catch (e) { return { verdict: 'unmeasured', detail: e.name === 'AbortError' ? 'timeout' : e.message }; }
     if (res.status >= 300 && res.status < 400 && res.headers.get('location')) {
       cur = new URL(res.headers.get('location'), cur).href;

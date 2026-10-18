@@ -115,6 +115,48 @@ t('중계가 SubID 를 숏링크에 붙인다', () => {
   return ok ? null : '숏링크 요청에 sub_id 가 붙지 않음';
 });
 
+// ── 독자만 클릭으로 센다 (10-18) ─────────────────────────────
+// Travelpayouts 가 Klook 대신 "비정상 급증"을 물어 왔다. 워커 4분 로그에서
+// 요청 21건 중 17건이 /go/klook — 싱가포르 호스팅·텐센트·MS 대역, Referer 없음
+// 또는 /go/klook 자신, 브라우저처럼 보이는 UA. 10-13 UA 수리 뒤로 그 전부가
+// TP 클릭으로 기록됐다. 독자는 항상 우리 페이지에서 온다.
+const { isReaderClick } = await import('./index.mjs');
+const reqOf = (ua, referer) => ({ headers: new Headers({ ...(ua ? { 'user-agent': ua } : {}), ...(referer ? { referer } : {}) }) });
+const CHROME = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36';
+
+t('우리 글에서 누른 브라우저는 독자다', () =>
+  isReaderClick(reqOf(CHROME, 'https://wanderatlasguides.com/posts/shanghai-the-bund/')) &&
+  isReaderClick(reqOf('Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X)', 'https://wanderatlasguides.com/ko/'))
+    ? null : '정상 클릭을 막는다 — 수익이 끊긴다');
+
+t('Referer 없음·/go/ 자기참조·남의 사이트는 독자가 아니다', () => {
+  const bad = [
+    reqOf(CHROME, null),
+    reqOf(CHROME, 'https://wanderatlasguides.com/go/klook/?to=https%3A%2F%2Fwww.klook.com'),
+    reqOf(CHROME, 'https://evil.example.com/posts/x/'),
+    reqOf(CHROME, 'https://wanderatlasguides.com.evil.example/x/'),
+    reqOf(CHROME, 'not a url'),
+  ].filter(isReaderClick);
+  return bad.length ? `${bad.length}건을 독자로 셌다` : null;
+});
+
+t('봇 UA·UA 없음은 독자가 아니다', () => {
+  const ref = 'https://wanderatlasguides.com/posts/x/';
+  const bad = ['Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Amazonbot/0.1)',
+    'Mozilla/5.0 (compatible; bingbot/2.0)', 'python-requests/2.31', 'curl/8.4', '',
+    'Mozilla/5.0 HeadlessChrome/120.0'].filter((ua) => isReaderClick(reqOf(ua, ref)));
+  return bad.length ? `독자로 셈: ${bad.join(' | ')}` : null;
+});
+
+t('독자가 아니면 TP 단축 링크를 부르기 전에 돌려보낸다', () => {
+  // 순서가 핵심이다: fetch(shortLink) 자체가 TP 가 세는 클릭이다.
+  const fn = src.match(/async function handleKlookGo[\s\S]*?\n}/)?.[0] ?? '';
+  const gate = fn.indexOf('isReaderClick(request)'), call = fn.indexOf('fetch(shortLink');
+  if (gate < 0) return '판정이 없다';
+  if (!(gate < call)) return '판정이 단축 링크 호출보다 뒤에 있다 — 봇 클릭이 이미 기록된다';
+  return /if \(!isReaderClick\(request\)\) return Response\.redirect\(dest, 302\)/.test(fn) ? null : '독자가 아닐 때 제휴 없는 Klook 으로 보내지 않는다';
+});
+
 // ── 명시적 sub_id ─────────────────────────────────────────────
 // Referer 는 "어느 페이지"까지만 안다. 컴포넌트는 "그 페이지의 어느 블록"인지
 // 알고, 투어 위젯과 하단 고정바를 구분하는 것이 다음 링크를 어디에 둘지 아는

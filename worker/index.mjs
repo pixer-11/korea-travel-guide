@@ -397,9 +397,9 @@ const TP_KLOOK_SHORTLINK = 'https://klook.tpx.lv/2NXPH8MA';
 // (or curl's), and a Worker's fetch sends none — so every click fell through to
 // the token-less fallback: Klook still opened, nothing could be credited
 // (affiliate status check, 10-13 and 10-14). The click is the reader's, so the
-// reader's own User-Agent goes with it; a bot's UA is refused upstream, which
-// keeps crawler hits out of the click count. Only a request with no UA at all
-// gets ours, which the short link accepts (checked 10-14).
+// reader's own User-Agent goes with it. Bots are NOT refused upstream when they
+// wear a browser UA — that is what isReaderClick() below is for (10-18). A
+// request with no UA at all never reaches this fetch any more.
 const RELAY_UA = 'Mozilla/5.0 (compatible; WanderAtlasRelay/1.0; +https://wanderatlasguides.com)';
 export function relayUserAgent(request) {
   return request?.headers?.get('user-agent') || RELAY_UA;
@@ -445,6 +445,27 @@ function explicitSubId(url) {
   return clean || null;
 }
 
+// Is this a reader who clicked a button on one of our pages?
+//
+// 2026-10-18: Travelpayouts wrote, on Klook's behalf, about "an unusual spike"
+// in our clicks. A four-minute tail of this worker: 17 of 21 requests were
+// /go/klook — from Singapore hosting ranges, Tencent Cloud and Microsoft, with
+// no Referer or with /go/klook itself as the Referer, on browser-looking
+// User-Agents. Every one of them minted a Travelpayouts click in the fetch
+// below (since the 10-13 User-Agent fix the short link accepts them). A reader
+// always arrives from one of our pages: every /go/klook href is same-origin,
+// and the browser sends that page as the Referer. Anything else still reaches
+// Klook, but as a plain link — no affiliate click is recorded for it.
+const NOT_A_READER = /bot|crawl|spider|slurp|preview|scan|fetch|python|curl|wget|httpclient|go-http|java\/|okhttp|axios|headless|phantom|puppeteer|playwright|selenium/i;
+export function isReaderClick(request) {
+  const ua = request?.headers?.get('user-agent') || '';
+  if (!ua || NOT_A_READER.test(ua)) return false;
+  let ref;
+  try { ref = new URL(request.headers.get('referer') || ''); } catch { return false; }
+  if (!/(^|\.)wanderatlasguides\.com$/.test(ref.hostname)) return false;
+  return !ref.pathname.startsWith('/go/');
+}
+
 async function handleKlookGo(request) {
   const reqUrl = new URL(request.url);
   const to = reqUrl.searchParams.get('to');
@@ -460,6 +481,8 @@ async function handleKlookGo(request) {
   if (trad) dest = dest.replace(/^(https:\/\/(?:www\.)?klook\.com)\/zh-CN\//, `$1/${trad}/`);
   const subId = explicitSubId(reqUrl) ?? subIdFromReferer(request.headers.get('referer'));
   const fallback = `https://affiliate.klook.com/redirect?aid=api%7C13694%7C-754088%7Cpid%7C754088&k_site=${encodeURIComponent(dest)}`;
+  // Not a reader: straight to Klook, no affiliate redirect, no click minted.
+  if (!isReaderClick(request)) return Response.redirect(dest, 302);
   try {
     // The SubID rides on the request that MINTS the token — that fetch is the
     // click Travelpayouts records, so this is the only point where it can be

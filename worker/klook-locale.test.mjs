@@ -10,7 +10,10 @@ test.before(() => { globalThis.fetch = async () => new Response(null, { status: 
 test.after(() => { globalThis.fetch = realFetch; });
 
 const go = async (to, country) => {
-  const req = new Request(`https://wanderatlasguides.com/go/klook/?to=${encodeURIComponent(to)}`, { headers: country ? { 'cf-ipcountry': country } : {} });
+  // A reader's click (browser UA + one of our pages as Referer) — since 10-18
+  // anything else skips the affiliate redirect (isReaderClick, klook-relay.test).
+  const reader = { 'user-agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X)', referer: 'https://wanderatlasguides.com/zh/posts/seoul-gyeongbokgung-palace/' };
+  const req = new Request(`https://wanderatlasguides.com/go/klook/?to=${encodeURIComponent(to)}`, { headers: country ? { ...reader, 'cf-ipcountry': country } : reader });
   const r = await worker.fetch(req, { ASSETS: { fetch: async () => new Response('', { status: 404 }) } });
   return new URL(r.headers.get('location')).searchParams.get('k_site');
 };
