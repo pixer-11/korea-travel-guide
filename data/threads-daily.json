@@ -88,30 +88,29 @@
     "singapore-wave-to-earth-the-pisces-tour",
     "sai-kung-sai-kung-seafood-street",
     "adelaide-adelaide-botanic-garden",
-    "singapore-deepavali-diwali-little-india-festival"
+    "singapore-deepavali-diwali-little-india-festival",
+    "bangkok-bigbang-world-tour-xx-cosmos-in-bangkok"
   ],
-  "lastSentDay": "2026-10-18",
+  "lastSentDay": "2026-10-19",
   "material": {
-    "day": "2026-10-18",
-    "slug": "singapore-deepavali-diwali-little-india-festival",
-    "title": "Deepavali (Diwali) Little India Festival: Dates, Tickets & Venue (Singapore)",
+    "day": "2026-10-19",
+    "slug": "bangkok-bigbang-world-tour-xx-cosmos-in-bangkok",
+    "title": "BIGBANG World Tour [XX : COSMOS] in Bangkok: Dates, Tickets & Venue (Bangkok)",
     "urls": [
-      "https://wanderatlasguides.com/og/social/2026-10-18-singapore-deepavali-diwali-little-india-festival-1.jpg",
-      "https://wanderatlasguides.com/og/social/2026-10-18-singapore-deepavali-diwali-little-india-festival-2.jpg",
-      "https://wanderatlasguides.com/og/social/2026-10-18-singapore-deepavali-diwali-little-india-festival-3.jpg",
-      "https://wanderatlasguides.com/og/social/2026-10-18-singapore-deepavali-diwali-little-india-festival-4.jpg"
+      "https://wanderatlasguides.com/og/social/2026-10-19-bangkok-bigbang-world-tour-xx-cosmos-in-bangkok-1.jpg",
+      "https://wanderatlasguides.com/og/social/2026-10-19-bangkok-bigbang-world-tour-xx-cosmos-in-bangkok-2.jpg"
     ],
-    "igCaption": "Ten weeks of golden light, sizzling street food, and bazaar lanes packed with bangles and sweets — Little India's Deepavali season turns Serangoon Road into something else entirely. Walk it after dark and see for yourself.\n\n#Singapore #events #travel #wanderatlas #LittleIndia #Deepavali #Diwali #TravelSingapore #FestivalOfL\n📷 Photo: Public domain: Use these pix for any purpose / Wikimedia Commons (CC BY 2.0)\n📷 Photo: Anil Kaushik / Wikimedia Commons (CC BY-SA 3.0)\n📷 Photo: shankar s. / Wikimedia Commons (CC BY 2.0)",
-    "thOption": "Little India's bazaar lanes move at a shuffle in the last days before Deepavali. Would you brave the full-pressure crush, or wander earlier when you can actually see the stalls?",
-    "link": "https://wanderatlasguides.com/posts/singapore-deepavali-diwali-little-india-festival/"
+    "igCaption": "BIGBANG brings XX : COSMOS to Rajamangala National Stadium in Bangkok on November 7, 2026 — a 50,000-seat open-air bowl built for the 1998 Asian Games, now filled with VIPs and synced lightsticks. Twenty years after debut, this one's a stadium night.\n\n#Bangkok #Thailand #events #travel #wanderatlas #BIGBANG #Kpop #TravelGuide #ConcertTravel\n📷 Photo: YG Entertainment / Wikimedia Commons (CC BY 2.0) (edited)",
+    "thOption": "Rajamangala usually hosts Thailand's national football team, not K-pop. What does it tell you that BIGBANG booked a 50,000-seat stadium instead of Bangkok's usual K-pop arenas?",
+    "link": "https://wanderatlasguides.com/posts/bangkok-bigbang-world-tour-xx-cosmos-in-bangkok/"
   },
   "social": {
-    "thDay": "2026-10-18",
-    "thId": "17961367515239252",
-    "igDay": "2026-10-16",
-    "igId": "17880194340578486",
-    "thSlug": "singapore-deepavali-diwali-little-india-festival",
-    "igSlug": "sai-kung-sai-kung-seafood-street",
+    "thDay": "2026-10-19",
+    "thId": "18470029012141604",
+    "igDay": "2026-10-19",
+    "igId": "18118026506050222",
+    "thSlug": "bangkok-bigbang-world-tour-xx-cosmos-in-bangkok",
+    "igSlug": "bangkok-bigbang-world-tour-xx-cosmos-in-bangkok",
     "history": [
       {
         "day": "2026-10-10",
@@ -147,7 +146,25 @@
         "day": "2026-10-12",
         "slug": "madrid-puerta-de-alcala",
         "thId": "17960666847233635",
-        "igId": "17879712945553425"
+        "igId": "17879712945553425",
+        "insights": {
+          "at": "2026-10-19",
+          "th": {
+            "views": 24,
+            "likes": 0,
+            "replies": 0,
+            "reposts": 0,
+            "quotes": 0
+          },
+          "ig": {
+            "reach": 0,
+            "saved": 0,
+            "likes": 0,
+            "comments": 3,
+            "shares": 0,
+            "views": 0
+          }
+        }
       },
       {
         "day": "2026-10-13",
@@ -180,6 +197,12 @@
         "day": "2026-10-18",
         "slug": "singapore-deepavali-diwali-little-india-festival",
         "thId": "17961367515239252"
+      },
+      {
+        "day": "2026-10-19",
+        "slug": "bangkok-bigbang-world-tour-xx-cosmos-in-bangkok",
+        "thId": "18470029012141604",
+        "igId": "18118026506050222"
       }
     ]
   }
