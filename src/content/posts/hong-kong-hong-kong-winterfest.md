@@ -17,12 +17,12 @@ eventOffers:
   currency: HKD
 eventFactsAsked: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/d/d1/2005_Hong_Kong_WinterFest_1.jpg
-  credit: 'Photo: No machine-readable author provided. / Wikimedia Commons (CC BY-SA 3.0)'
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Hong_Kong_WinterFest_2025_16-11-2025%288%29.jpg/3840px-Hong_Kong_WinterFest_2025_16-11-2025%288%29.jpg
+  credit: 'Photo: LN9267 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:2005_Hong_Kong_WinterFest_1.jpg
+  source: https://commons.wikimedia.org/wiki/File:Hong_Kong_WinterFest_2025_16-11-2025(8).jpg
   focus:
-    x: 50
+    x: 30
     'y': 40
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hong_Kong_WinterFest_2025_16-11-2025%282%29.jpg/3840px-Hong_Kong_WinterFest_2025_16-11-2025%282%29.jpg
@@ -45,8 +45,6 @@ faq:
   - q: Where can I watch the pyrotechnics over Victoria Harbour?
     a: The Tsim Sha Tsui promenade and the Central harbourfront both face the open harbour. On busy nights police often set one-way routes, so people tend to stay on one shore for the whole show.
 aiGenerated: true
-draft: true
-heldReason: wrong-venue-photo
 ---
 
 ## A Christmas tree with a skyline behind it

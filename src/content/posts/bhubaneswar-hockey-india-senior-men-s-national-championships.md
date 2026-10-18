@@ -12,6 +12,14 @@ eventOrganizer:
   name: Hockey India
   url: https://www.hockeyindia.org
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/9/96/Biju_Patnaik_Airport_Bhubaneswar.jpg'
+  credit: 'Photo: Aditya Mahar / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Biju_Patnaik_Airport_Bhubaneswar.jpg'
+  focus:
+    x: 50
+    y: 35
 gallery: []
 tags:
   - bhubaneswar

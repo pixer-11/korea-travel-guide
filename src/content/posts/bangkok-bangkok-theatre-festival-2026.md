@@ -10,7 +10,6 @@ eventEndDate: '2026-11-29'
 eventRecurring: true
 eventVenue: Bangkok Art and Culture Centre
 eventFactsAsked: true
-gallery: []
 tags:
   - bangkok
   - event
@@ -28,6 +27,14 @@ faq:
     a: Jim Thompson House, MBK Center and the Siam malls are near BACC. The Erawan Shrine and the Ratchaprasong malls surround TK Park at CentralWorld.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%A3%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4_April2021_Thailand_National_Theatre_Bangkok_01.jpg/3840px-%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%A3%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4_April2021_Thailand_National_Theatre_Bangkok_01.jpg
+  credit: 'Photo: Chainwit. / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%A3%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4_April2021_Thailand_National_Theatre_Bangkok_01.jpg
+  focus:
+    x: 50
+    'y': 40
 ---
 
 ## Sixteen days of stage work in Pathum Wan

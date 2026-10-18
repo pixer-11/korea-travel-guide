@@ -13,7 +13,6 @@ eventOrganizer:
   name: Japan Skating Federation
   url: https://www.skatingjapan.or.jp/
 eventFactsAsked: true
-gallery: []
 tags:
   - tokyo
   - event
@@ -31,6 +30,16 @@ faq:
     a: Jindaiji temple, known for the soba shops along its approach, and the Jindai Botanical Gardens are a short bus or taxi ride north. Ajinomoto Stadium is right next door, and Chofu Station's shops and restaurants are one stop away.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://live.staticflickr.com/3488/3921727653_d90d6b1dee_b.jpg
+  credit: 'Photo: tpower1978 / flickr (BY)'
+  license: openverse-cc
+  source: https://www.flickr.com/photos/41955821@N02/3921727653
+  focus:
+    x: 59
+    'y': 20
+    top: 12
+    bottom: 28
 ---
 
 ## Three days in Chofu, and the series ends here

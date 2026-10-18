@@ -13,6 +13,14 @@ eventOrganizer:
   name: Japan Tennis Association
   url: https://www.jta-tennis.or.jp/english/
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Minato_City%2C_Tokyo%2C_Japan.jpg/3840px-Minato_City%2C_Tokyo%2C_Japan.jpg'
+  credit: 'Photo: David Kernan / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Minato_City,_Tokyo,_Japan.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - tokyo

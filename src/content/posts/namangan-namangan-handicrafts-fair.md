@@ -9,6 +9,14 @@ eventStartDate: '2026-11-01'
 eventEndDate: '2026-11-30'
 eventRecurring: true
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/0/05/Namangan_banner_Bobur_Park.png'
+  credit: 'Photo: Stephanieadams99 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Namangan_banner_Bobur_Park.png'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - namangan

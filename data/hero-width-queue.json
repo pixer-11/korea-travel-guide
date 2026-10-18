@@ -2733,7 +2733,13 @@
   "ulaanbaatar-genghis-khan-birthday-commemoration\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Monument_to_Genghis_Khan.jpg/3840px-Monument_to_Genghis_Khan.jpg": 3840,
   "pasay-nct-127-neo-city-the-redline-tour\u0001https://upload.wikimedia.org/wikipedia/commons/8/82/181012_NCT127_KBS_%27%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC%27_%EB%A6%AC%ED%97%88%EC%84%A4_%EC%B6%9C%EA%B7%BC%EA%B8%B8_%EC%A7%81%EC%BA%A0_%EC%98%81%EC%83%81_03.png": 2732,
   "ulaanbaatar-new-year-s-eve-at-sukhbaatar-square\u0001https://upload.wikimedia.org/wikipedia/commons/7/70/Bratislava_New_Year_Fireworks.jpg": 2592,
-  "puerto-princesa-ironman-70-3-puerto-princesa\u0001https://upload.wikimedia.org/wikipedia/commons/d/db/Bart_Aernouts_Ironman_70.3_Austria_2012.jpg": 1875
+  "puerto-princesa-ironman-70-3-puerto-princesa\u0001https://upload.wikimedia.org/wikipedia/commons/d/db/Bart_Aernouts_Ironman_70.3_Austria_2012.jpg": 1875,
+  "bangkok-bangkok-theatre-festival-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%A3%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4_April2021_Thailand_National_Theatre_Bangkok_01.jpg/3840px-%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%A3%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4_April2021_Thailand_National_Theatre_Bangkok_01.jpg": 3840,
+  "bangkok-vijit-chao-phraya-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Chao_Phraya_River_Bangkok_%283%29.jpg/3840px-Chao_Phraya_River_Bangkok_%283%29.jpg": 3840,
+  "hong-kong-hong-kong-winterfest\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Hong_Kong_WinterFest_2025_16-11-2025%288%29.jpg/3840px-Hong_Kong_WinterFest_2025_16-11-2025%288%29.jpg": 3840,
+  "nuremberg-nuremberg-christkindlesmarkt\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Christkindlesmarkt_2023_N%C3%BCrnberg_134.jpg/3840px-Christkindlesmarkt_2023_N%C3%BCrnberg_134.jpg": 3840,
+  "tokyo-pan-pacific-open-toray-pan-pacific-open\u0001https://upload.wikimedia.org/wikipedia/commons/3/3b/Toray_PPO_2009_Sabine_Lisicki-1.jpg": 2304,
+  "tokyo-nhk-trophy-isu-grand-prix-of-figure-skating\u0001https://live.staticflickr.com/3488/3921727653_d90d6b1dee_b.jpg": 1024
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -3085,9 +3091,10 @@
   },
   "paris-hando-champs-elysees": {
    "width": 1080,
-   "attempts": 0,
-   "nextTry": "2026-10-01",
-   "flaggedAt": "2026-10-01"
+   "attempts": 1,
+   "nextTry": "2026-10-25",
+   "flaggedAt": "2026-10-01",
+   "lastResult": "no-wider"
   },
   "seoul-seoul-international-fireworks-festival-2026": {
    "width": 700,
@@ -3238,7 +3245,13 @@
    "attempts": 0,
    "nextTry": "2026-10-18",
    "flaggedAt": "2026-10-18"
+  },
+  "tokyo-nhk-trophy-isu-grand-prix-of-figure-skating": {
+   "width": 1024,
+   "attempts": 0,
+   "nextTry": "2026-10-18",
+   "flaggedAt": "2026-10-18"
   }
  },
- "updated": "2026-10-18T23:06:41.137Z"
+ "updated": "2026-10-18T23:16:28.182Z"
 }

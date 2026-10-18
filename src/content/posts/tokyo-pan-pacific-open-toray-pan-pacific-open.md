@@ -14,16 +14,15 @@ eventOrganizer:
   url: https://www.jta-tennis.or.jp/
 eventFactsAsked: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/d/d0/Toray_PPO_2009_Patty_Schnyder.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/3/3b/Toray_PPO_2009_Sabine_Lisicki-1.jpg
   credit: 'Photo: Arcimboldo (Eckhard Pecher) / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Toray_PPO_2009_Patty_Schnyder.jpg
+  source: https://commons.wikimedia.org/wiki/File:Toray_PPO_2009_Sabine_Lisicki-1.jpg
   focus:
-    x: 34
-    'y': 16
-    top: 10
-    bottom: 22
-gallery: []
+    x: 42
+    'y': 40
+    top: 32
+    bottom: 47
 tags:
   - tokyo
   - event
@@ -40,8 +39,6 @@ faq:
   - q: What else is near Ariake Tennis Park?
     a: Ariake Garden mall, Tokyo Big Sight, Toyosu Market, teamLab Planets and the Odaiba waterfront are all a short walk or a few Yurikamome stops away.
 aiGenerated: true
-draft: true
-heldReason: wrong-venue-photo
 ---
 
 ## Nine days of tennis on the bay

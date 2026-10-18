@@ -16,7 +16,6 @@ eventOffers:
   free: true
   currency: EUR
 eventFactsAsked: true
-gallery: []
 tags:
   - nuremberg
   - event
@@ -34,6 +33,14 @@ faq:
     a: Try Drei im Weggla (three Nuremberg sausages in a roll), Elisenlebkuchen gingerbread, and Glühwein in the market mug. Feuerzangenbowle and the prune figures called Zwetschgenmännle are local specialities too.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Christkindlesmarkt_2023_N%C3%BCrnberg_134.jpg/3840px-Christkindlesmarkt_2023_N%C3%BCrnberg_134.jpg
+  credit: 'Photo: DALIBRI / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Christkindlesmarkt_2023_N%C3%BCrnberg_134.jpg
+  focus:
+    x: 45
+    'y': 45
 ---
 
 ## A square of red and white canopies

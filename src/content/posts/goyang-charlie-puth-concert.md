@@ -32,15 +32,15 @@ aiGenerated: true
 draft: true
 heldFinal: 'duplicate of goyang-charlie-puth-seoul-2026 with a wrong date: Charlie Puth plays Goyang Stadium on Oct 11, 2026 (Songkick, Bandsintown); this copy said Oct 17-18. Retired 2026-10-05, its URL 301s to the kept twin.'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Charlie_Puth%2C_Regency_Ballroom%2C_San_Francisco_%28Nine_Track_Mind_Tour%29_4.jpg/3840px-Charlie_Puth%2C_Regency_Ballroom%2C_San_Francisco_%28Nine_Track_Mind_Tour%29_4.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Charlie_Puth%2C_Regency_Ballroom%2C_San_Francisco_%28Nine_Track_Mind_Tour%29_2.jpg/3840px-Charlie_Puth%2C_Regency_Ballroom%2C_San_Francisco_%28Nine_Track_Mind_Tour%29_2.jpg
   credit: 'Photo: Jeff Terrell / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Charlie_Puth,_Regency_Ballroom,_San_Francisco_(Nine_Track_Mind_Tour)_4.jpg
+  source: https://commons.wikimedia.org/wiki/File:Charlie_Puth,_Regency_Ballroom,_San_Francisco_(Nine_Track_Mind_Tour)_2.jpg
   focus:
-    x: 56
-    'y': 22
-    top: 15
-    bottom: 28
+    x: 60
+    'y': 11
+    top: 5
+    bottom: 17
 ---
 
 ## Two nights in Ilsan

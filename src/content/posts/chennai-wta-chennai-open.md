@@ -13,6 +13,14 @@ eventOrganizer:
   name: WTA
   url: https://www.wtatennis.com
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Saidapet_Bridges_Adyar_River_Chennai_Jul18_DSC05378.jpg/3840px-Saidapet_Bridges_Adyar_River_Chennai_Jul18_DSC05378.jpg'
+  credit: 'Photo: Timothy A. Gonsalves / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Saidapet_Bridges_Adyar_River_Chennai_Jul18_DSC05378.jpg'
+  focus:
+    x: 65
+    y: 50
 gallery: []
 tags:
   - chennai

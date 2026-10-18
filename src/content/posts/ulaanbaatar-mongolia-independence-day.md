@@ -12,6 +12,14 @@ eventOffers:
   free: true
   currency: MNT
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/0/08/View_of_Ulaanbaatar_01.jpg'
+  credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:View_of_Ulaanbaatar_01.jpg'
+  focus:
+    x: 50
+    y: 40
 gallery: []
 tags:
   - ulaanbaatar

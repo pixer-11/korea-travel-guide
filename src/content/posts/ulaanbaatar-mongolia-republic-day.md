@@ -13,6 +13,14 @@ eventOffers:
   free: true
   currency: MNT
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/6/65/Ulaanbaatar%2C_Mongolia_%28ASTER%29.jpg'
+  credit: 'Photo: NASA/METI/AIST/Japan Space Systems, and U.S./Japan ASTER / Wikimedia Commons (Public domain)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Ulaanbaatar,_Mongolia_(ASTER).jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - ulaanbaatar

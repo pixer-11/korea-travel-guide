@@ -13,6 +13,14 @@ eventOffers:
   free: true
   currency: THB
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Bangkok_-_Rama_VIII_Bridge_at_sunrise_Jan_2024.jpg/3840px-Bangkok_-_Rama_VIII_Bridge_at_sunrise_Jan_2024.jpg'
+  credit: 'Photo: Dominic Nelson / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Bangkok_-_Rama_VIII_Bridge_at_sunrise_Jan_2024.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - bangkok

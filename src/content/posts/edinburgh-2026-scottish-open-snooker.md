@@ -13,6 +13,14 @@ eventOrganizer:
   name: World Snooker Tour
   url: https://www.wst.tv/
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/c/c4/Edinburgh_Castle_from_Grass_Market.jpg'
+  credit: 'Photo: George Washington Wilson / Adam Cuerden / Wikimedia Commons (Public domain)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Edinburgh_Castle_from_Grass_Market.jpg'
+  focus:
+    x: 50
+    y: 35
 gallery: []
 tags:
   - edinburgh

@@ -13,7 +13,6 @@ eventOffers:
   free: true
   currency: THB
 eventFactsAsked: true
-gallery: []
 tags:
   - bangkok
   - event
@@ -31,6 +30,14 @@ faq:
     a: Santichaiprakan Park by Phra Sumen Fort faces Rama VIII Bridge. The Tha Tien riverside looks across at Wat Arun, and Lhong 1919 gives a Thonburi-side view back across the river.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Chao_Phraya_River_Bangkok_%283%29.jpg/3840px-Chao_Phraya_River_Bangkok_%283%29.jpg
+  credit: 'Photo: Radosław Botev / Wikimedia Commons (CC BY 3.0 pl)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Chao_Phraya_River_Bangkok_(3).jpg
+  focus:
+    x: 55
+    'y': 55
 ---
 
 ## A month of light on Bangkok's river
