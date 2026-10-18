@@ -55,6 +55,19 @@ jobs:
 
       - run: npm ci
 
+      # The cover's "subject in front of the title" needs a depth model
+      # (transformers.js + onnxruntime, ~100 MB with the model). Installed here
+      # only, not in package.json, so the other ~50 workflows' npm ci stays the
+      # size it was. Without it lib/social-cover draws the cover without the
+      # occlusion. The model weights are cached between mornings.
+      - name: Depth model for the cover
+        continue-on-error: true
+        run: npm i --no-save --no-audit --no-fund "@huggingface/transformers@$(node -p "require('./package.json').jobOnlyDependencies['@huggingface/transformers']")"
+      - uses: actions/cache@v4
+        with:
+          path: ~/.cache/wa-hf
+          key: wa-hf-depth-anything-v2-small-q8
+
       # Every Claude call from here on lands in the cost ledger (scripts/lib/claude-meter.mjs).
       # Added 2026-09-25 so the daily report can state the site's whole Claude spend.
       - name: Name the Claude cost ledger
@@ -62,6 +75,7 @@ jobs:
 
       - name: Generate and send
         env:
+          HF_CACHE_DIR: /home/runner/.cache/wa-hf
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}

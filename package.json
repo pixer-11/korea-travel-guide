@@ -23,6 +23,7 @@
     "@astrojs/sitemap": "^3.2.1",
     "@fontsource-variable/fraunces": "^5.3.0",
     "@fontsource-variable/inter": "^5.3.0",
+    "@resvg/resvg-js": "^2.6.2",
     "astro": "^5.1.1",
     "gray-matter": "^4.0.3",
     "js-yaml": "^4.3.0",
@@ -42,5 +43,9 @@
     "aws4fetch": "^1.0.20",
     "cross-env": "^10.1.0",
     "playwright-core": "1.63.0"
-  }
+  },
+  "jobOnlyDependencies": {
+    "@huggingface/transformers": "3.5.1"
+  },
+  "//jobOnlyDependencies": "Installed only by the workflow that needs them (npm i --no-save), so the other workflows' npm ci stays small. @huggingface/transformers: threads-daily.yml, the depth model behind the social cover (scripts/lib/social-cover.mjs)."
 }

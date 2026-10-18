@@ -28,6 +28,9 @@ const declared = new Set([
   ...Object.keys(pkg.dependencies || {}),
   ...Object.keys(pkg.devDependencies || {}),
   ...Object.keys(pkg.peerDependencies || {}),
+  // Declared, but installed only by the one workflow that needs them (see the
+  // "//jobOnlyDependencies" note in package.json). Still declared — still pinned.
+  ...Object.keys(pkg.jobOnlyDependencies || {}),
 ]);
 
 const ROOTS = ['scripts', 'src', 'worker'];

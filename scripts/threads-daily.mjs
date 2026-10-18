@@ -18,6 +18,7 @@ import { verifyGalleryImage } from './lib/vision-check.mjs';
 import { r2Put, pickThreadsOption } from './lib/meta-social.mjs';
 import { runSocialPublish, socialEnabled } from './lib/social-publish-step.mjs';
 import { imageFetch } from './lib/image-fetch.mjs';
+import { socialCover, grade } from './lib/social-cover.mjs';
 import { sendTelegram, sendTelegramForm, telegramCreds } from './lib/telegram.mjs';
 
 const POSTS_DIR = 'src/content/posts';
@@ -246,6 +247,18 @@ try {
     if (!res.ok && bigUrl !== heroUrl) res = await imageFetch(heroUrl);
     if (!res.ok) throw new Error(`hero fetch ${res.status}`);
     const heroBuf = Buffer.from(await res.arrayBuffer());
+    // 2026-10-18: the owner's reference covers — centred display title, small
+    // labels, subject in front of the title, film grade (lib/social-cover).
+    // The old bottom-scrim card below stays as the fallback.
+    try {
+      const c = await socialCover(heroBuf, {
+        title: title.replace(/:.*$/, '').trim(), region, country,
+        lat: Number(post.fm.place?.lat), lng: Number(post.fm.place?.lng), seed: post.slug,
+      });
+      igImage = c.buf;
+      console.log(`cover: ${JSON.stringify(c.meta)}`);
+    } catch (e) { console.error('social cover failed — old card:', e.message); }
+    if (!igImage) {
     const W = 1080, H = 1350;
     const base = await sharp(heroBuf).resize(W, H, { fit: 'cover', position: 'attention' }).toBuffer();
     const lines = wrapTitle(title.replace(/:.*$/, '')); // 짧은 제목만 (콜론 뒤 절삭)
@@ -267,6 +280,7 @@ try {
       <text x="64" y="${H - 56}" font-family="DejaVu Sans, sans-serif" font-size="32" fill="#e8e2d5">wanderatlasguides.com</text>
     </svg>`;
     igImage = await sharp(base).composite([{ input: Buffer.from(overlay) }]).jpeg({ quality: 92, chromaSubsampling: "4:4:4" }).toBuffer();
+    }
   }
 } catch (e) { console.error('ig image compose failed (텍스트만 발송):', e.message); }
 
@@ -355,8 +369,8 @@ try {
     } catch { continue; }
     if (!v?.ok) continue;
     try {
-      const buf = await sharp(await fetchBuf(c.url))
-        .resize(IG_W, IG_H, { fit: 'cover', position: 'attention' })
+      // Same film grade as the cover so the carousel reads as one set.
+      const buf = await sharp(await grade(await fetchBuf(c.url)))
         .composite([{ input: Buffer.from(CORNER_PIN) }])
         .jpeg({ quality: 92, chromaSubsampling: "4:4:4" }).toBuffer();
       slides.push(buf);
@@ -390,7 +404,9 @@ try {
 // Every CC-BY/BY-SA slide must carry its photographer, so the caption lists all
 // of them — Instagram has no per-image credit field.
 const credit = slideCredits.length
-  ? '\n📷 ' + [...new Set(slideCredits)].join('\n📷 ')
+  // Every photo slide is colour-graded (the first also carries a title), and the
+  // CC BY / BY-SA licences on Commons photos ask that changes be indicated.
+  ? '\n📷 ' + [...new Set(slideCredits)].map((c) => `${c} (edited)`).join('\n📷 ')
   : (post.fm.heroImage?.credit ? `\n📷 ${post.fm.heroImage.credit}` : '');
 // -------- stage for auto-posting (2026-08-27) --------
 // Meta fetches images by public URL only, so the slides go into the existing
