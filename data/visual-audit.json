@@ -752,9 +752,9 @@
  },
  "alicante-atp-challenger-alicante\u0001https://upload.wikimedia.org/wikipedia/commons/5/50/Roger_Federer_at_the_ATP_Tennis_World_Finals.jpg": {
   "slug": "alicante-atp-challenger-alicante",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Tennis player on blue court matches ATP Challenger event",
-  "at": "2026-10-17T21:38:01.787Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares no word with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-18T08:18:09.628Z"
  },
  "alicante-atp-challenger-alicante\u0001https://upload.wikimedia.org/wikipedia/commons/8/8b/Sydney_International_Tennis_ATP_%2833040174978%29.jpg": {
   "slug": "alicante-atp-challenger-alicante",

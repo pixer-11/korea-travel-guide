@@ -29,16 +29,6 @@ faq:
     a: Popular options include Castillo de Santa Bárbara on Mount Benacantil, the Explanada de España promenade, the Barrio de Santa Cruz old quarter, the MARQ archaeology museum and Mercado Central. November 1 is All Saints' Day, a national holiday, so some shops close that day.
 aiGenerated: true
 draft: false
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/5/50/Roger_Federer_at_the_ATP_Tennis_World_Finals.jpg
-  credit: 'Photo: David Jones / Wikimedia Commons (CC BY 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Roger_Federer_at_the_ATP_Tennis_World_Finals.jpg
-  focus:
-    x: 46
-    'y': 21
-    top: 15
-    bottom: 27
 ---
 
 ## Eight days of tennis by the Mediterranean
