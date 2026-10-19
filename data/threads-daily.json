@@ -89,27 +89,29 @@
     "sai-kung-sai-kung-seafood-street",
     "adelaide-adelaide-botanic-garden",
     "singapore-deepavali-diwali-little-india-festival",
-    "bangkok-bigbang-world-tour-xx-cosmos-in-bangkok"
+    "bangkok-bigbang-world-tour-xx-cosmos-in-bangkok",
+    "mexico-city-boynextdoor-knock-on-tour"
   ],
-  "lastSentDay": "2026-10-19",
+  "lastSentDay": "2026-10-20",
   "material": {
-    "day": "2026-10-19",
-    "slug": "bangkok-bigbang-world-tour-xx-cosmos-in-bangkok",
-    "title": "BIGBANG World Tour [XX : COSMOS] in Bangkok: Dates, Tickets & Venue (Bangkok)",
+    "day": "2026-10-20",
+    "slug": "mexico-city-boynextdoor-knock-on-tour",
+    "title": "BOYNEXTDOOR KNOCK ON Tour: Dates, Tickets & Venue (Mexico City)",
     "urls": [
-      "https://wanderatlasguides.com/og/social/2026-10-19-bangkok-bigbang-world-tour-xx-cosmos-in-bangkok-1.jpg",
-      "https://wanderatlasguides.com/og/social/2026-10-19-bangkok-bigbang-world-tour-xx-cosmos-in-bangkok-2.jpg"
+      "https://wanderatlasguides.com/og/social/2026-10-20-mexico-city-boynextdoor-knock-on-tour-1.jpg",
+      "https://wanderatlasguides.com/og/social/2026-10-20-mexico-city-boynextdoor-knock-on-tour-2.jpg",
+      "https://wanderatlasguides.com/og/social/2026-10-20-mexico-city-boynextdoor-knock-on-tour-3.jpg"
     ],
-    "igCaption": "BIGBANG brings XX : COSMOS to Rajamangala National Stadium in Bangkok on November 7, 2026 — a 50,000-seat open-air bowl built for the 1998 Asian Games, now filled with VIPs and synced lightsticks. Twenty years after debut, this one's a stadium night.\n\n#Bangkok #Thailand #events #travel #wanderatlas #BIGBANG #Kpop #TravelGuide #ConcertTravel\n📷 Photo: YG Entertainment / Wikimedia Commons (CC BY 2.0) (edited)",
-    "thOption": "Rajamangala usually hosts Thailand's national football team, not K-pop. What does it tell you that BIGBANG booked a 50,000-seat stadium instead of Bangkok's usual K-pop arenas?",
-    "link": "https://wanderatlasguides.com/posts/bangkok-bigbang-world-tour-xx-cosmos-in-bangkok/"
+    "igCaption": "BOYNEXTDOOR touches down in Mexico City for the first time ever on November 24, 2026, as part of the KNOCK ON Vol. 2 tour. Expect Bluetooth lightsticks, bilingual banners, and a crowd that's been waiting years for this night.\n\n#MexicoCity #Mexico #events #travel #wanderatlas #BOYNEXTDOOR #KNOCKONTour #KpopConcert #TravelGuide #CDMX\n📷 Photo: tenasia (티비텐) / Wikimedia Commons (CC BY 3.0) (edited)\n📷 Photo: TofuMuncher / Wikimedia Commons (CC0) (edited)",
+    "thOption": "Mexico City crowds are known for rehearsed fanchants and banners prepped weeks ahead. If you're going to the KNOCK ON Vol. 2 show, what song are you hoping gets the loudest singalong?",
+    "link": "https://wanderatlasguides.com/posts/mexico-city-boynextdoor-knock-on-tour/"
   },
   "social": {
-    "thDay": "2026-10-19",
-    "thId": "18470029012141604",
+    "thDay": "2026-10-20",
+    "thId": "18334505047302452",
     "igDay": "2026-10-19",
     "igId": "18118026506050222",
-    "thSlug": "bangkok-bigbang-world-tour-xx-cosmos-in-bangkok",
+    "thSlug": "mexico-city-boynextdoor-knock-on-tour",
     "igSlug": "bangkok-bigbang-world-tour-xx-cosmos-in-bangkok",
     "history": [
       {
@@ -169,7 +171,17 @@
       {
         "day": "2026-10-13",
         "slug": "mong-kok-dim-dim-sum-mong-kok",
-        "thId": "18107715131186745"
+        "thId": "18107715131186745",
+        "insights": {
+          "at": "2026-10-20",
+          "th": {
+            "views": 15,
+            "likes": 0,
+            "replies": 0,
+            "reposts": 0,
+            "quotes": 0
+          }
+        }
       },
       {
         "day": "2026-10-14",
@@ -203,6 +215,11 @@
         "slug": "bangkok-bigbang-world-tour-xx-cosmos-in-bangkok",
         "thId": "18470029012141604",
         "igId": "18118026506050222"
+      },
+      {
+        "day": "2026-10-20",
+        "slug": "mexico-city-boynextdoor-knock-on-tour",
+        "thId": "18334505047302452"
       }
     ]
   }
