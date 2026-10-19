@@ -1,76 +1,76 @@
 ---
 lang: es
 slug: beijing-beijing-marathon
-srcHash: 'c7e491b750ca'
-title: 'Maratón de Pekín: fechas, inscripción y sede (Pekín)'
-description: El Maratón de Pekín se celebrará el domingo 18 de octubre de 2026. Tradicionalmente, la salida se da en la plaza de Tiananmén, en pleno centro de Pekín, y la meta se sitúa junto al Parque Olímpico. Los dorsales suelen adjudicarse por sorteo, no por orden de llegada.
-quickAnswer: El Maratón de Pekín se celebrará el domingo 18 de octubre de 2026. Tradicionalmente, la salida se da en la plaza de Tiananmén, en pleno centro de Pekín, y la meta se sitúa junto al Parque Olímpico. Los dorsales suelen adjudicarse por sorteo, no por orden de llegada. Antes de reservar el viaje, compruebe la fecha, el recorrido, la sede y las condiciones de inscripción en la web oficial del Maratón de Pekín.
+srcHash: '652d916cee0b'
+title: 'Maratón de Pekín: fechas, inscripción y recorrido (Pekín)'
+description: El Maratón de Pekín estaba previsto para el domingo 18 de octubre de 2026, con salida en la plaza de Tiananmén y meta junto al Parque Olímpico.
+quickAnswer: La fecha anunciada del Maratón de Pekín era el domingo 18 de octubre de 2026. Por tradición, la carrera sale de la plaza de Tiananmén, en el centro de la ciudad, y termina cerca del Parque Olímpico (Olympic Green). Las plazas suelen adjudicarse por sorteo y no por orden de llegada. Los corredores extranjeros se inscriben con los datos de su pasaporte.
 faq:
-  - q: ¿Cuándo se celebra el Maratón de Pekín en 2026?
-    a: La fecha anunciada es el domingo 18 de octubre de 2026. Antes de reservar el viaje, consulte en la web oficial del Maratón de Pekín la fecha exacta y la hora de salida.
+  - q: ¿Cuándo era el Maratón de Pekín de 2026?
+    a: La fecha anunciada para la edición de 2026 era el domingo 18 de octubre de 2026. Por tradición, la salida está en la plaza de Tiananmén, en el centro de Pekín.
   - q: ¿Dónde están la salida y la meta del Maratón de Pekín?
-    a: Tradicionalmente, la salida se ha dado en la plaza de Tiananmén, sobre la avenida Chang'an, y la meta se ha situado junto al Parque Olímpico (Olympic Green), en el distrito de Chaoyang. Para conocer el trazado vigente, consulte el mapa oficial del recorrido.
-  - q: ¿Cómo se consigue un dorsal para el Maratón de Pekín?
-    a: Normalmente, la inscripción se hace mediante un sorteo en línea, dentro de un plazo determinado. Los corredores extranjeros se registran con los datos de su pasaporte y deben presentar ese mismo pasaporte al recoger la bolsa del corredor. Las normas de inscripción y las cuotas se publican en la web oficial.
-  - q: ¿Qué estaciones de metro conviene usar para ver la carrera?
-    a: Para la zona de salida, las estaciones de Tiananmén Este y Tiananmén Oeste (Tiananmen East y Tiananmen West), en la línea 1, aunque habrá controles de seguridad y acceso restringido. Para la meta, las estaciones de Parque Olímpico y Centro Olímpico de Deportes (Olympic Green y Olympic Sports Center), en la línea 8. Es posible que algunas salidas permanezcan cerradas la mañana de la carrera.
-  - q: ¿Qué se puede visitar cerca de la meta?
-    a: La zona de meta se encuentra junto al Nido de Pájaro (Estadio Nacional) y al Cubo de Agua (Centro Acuático Nacional). Justo al norte se extiende el Parque Forestal Olímpico.
+    a: Por tradición, la salida ha estado en la plaza de Tiananmén, sobre la avenida Chang'an, y la meta cerca del Parque Olímpico (Olympic Green), en el distrito de Chaoyang. El trazado exacto puede cambiar de un año a otro.
+  - q: ¿Cómo se conseguía una plaza en el Maratón de Pekín?
+    a: Las plazas suelen repartirse mediante un sorteo por internet, con un plazo de inscripción determinado. Los corredores extranjeros se inscriben con los datos de su pasaporte y muestran ese mismo pasaporte al recoger la bolsa del corredor. Las normas de inscripción y las cuotas cambian cada año.
+  - q: ¿Qué estaciones de metro eran las mejores para ver la carrera?
+    a: Las estaciones más próximas a la salida son Tiananmén Este (Tiananmen East) y Tiananmén Oeste (Tiananmen West), en la Línea 1. Allí son habituales los controles de seguridad y el acceso restringido. Para la meta, las más cercanas son Parque Olímpico (Olympic Green) y Centro Deportivo Olímpico (Olympic Sports Center), en la Línea 8. Las mañanas de carrera es frecuente que algunas salidas estén cerradas.
+  - q: ¿Qué había para ver cerca de la meta?
+    a: La zona de meta está junto al Nido de Pájaro (Estadio Nacional) y el Cubo de Agua (Centro Acuático Nacional). Justo al norte se encuentra el Parque Forestal Olímpico.
 ---
 
-Frente a la Puerta de la Paz Celestial se abre una de las calzadas más anchas de Pekín. Durante una mañana de otoño, los corredores sustituyen allí al tráfico. La avenida Chang'an atraviesa la ciudad de este a oeste y bordea la plaza de Tiananmén con sus diez carriles de asfalto: a un lado queda el retrato de Mao y, al otro, el mástil de la bandera de la plaza. En ese punto ha alineado tradicionalmente el Maratón de Pekín a sus participantes.
+Pocas avenidas de Pekín son tan anchas como la que pasa frente a la Puerta de la Paz Celestial. La mañana del maratón, el tráfico deja su sitio a los corredores. La avenida Chang'an cruza la ciudad de este a oeste junto a la plaza de Tiananmén, con diez carriles de asfalto entre el retrato de Mao a un lado y el mástil de la bandera de la plaza al otro. Ahí es donde el Maratón de Pekín ha colocado tradicionalmente a sus participantes en la línea de salida.
 
-La edición de 2026 está anunciada para el **domingo 18 de octubre de 2026**. En esta guía le explicamos en qué consiste la carrera, cómo suele funcionar la inscripción y de qué manera puede seguirla en directo.
+La fecha anunciada para la edición de 2026 era el **domingo 18 de octubre de 2026**. Las plazas se repartían mediante el sorteo de costumbre, y la meta suele situarse junto al Parque Olímpico.
 
-## Una carrera que se disputa desde 1981
+## Una carrera con historia desde 1981
 
-El Maratón de Pekín, cuya primera edición se celebró en 1981, figura entre los maratones urbanos más antiguos de Asia. En chino se llama 北京马拉松 (Běijīng Mǎlāsōng), aunque los corredores lo abrevian como 北马, «Bei Ma».
+El Maratón de Pekín figura entre los maratones urbanos más antiguos de Asia, ya que su primera edición data de 1981. En chino se llama 北京马拉松 (Běijīng Mǎlāsōng), y los corredores lo abrevian como 北马, «Bei Ma».
 
-Se trata de una gran prueba internacional en ruta, en la que la élite extranjera comparte salida con decenas de miles de corredores populares. Durante muchos años incluyó también un medio maratón. En las ediciones recientes, sin embargo, solo se ha disputado la distancia de maratón, de modo que conviene consultar en la web oficial qué distancias se ofrecen cada año.
+Se trata de una gran prueba internacional en ruta. La élite llegada del extranjero comparte salida con decenas de miles de corredores aficionados. Años atrás el programa incluía también una media maratón. En las ediciones recientes solo se ha corrido la distancia completa, aunque la oferta de distancias puede variar de un año a otro.
 
-- **Fecha:** domingo 18 de octubre de 2026, según lo anunciado
-- **Distancia:** maratón (confirme si se ofrecen otras distancias)
+- **Fecha:** domingo 18 de octubre de 2026, según el anuncio
+- **Distancia:** maratón completo
 - **Salida:** tradicionalmente, la plaza de Tiananmén y la avenida Chang'an
-- **Meta:** tradicionalmente, la zona del Parque Olímpico (Olympic Green), en el distrito de Chaoyang
+- **Meta:** tradicionalmente, el entorno del Parque Olímpico, en el distrito de Chaoyang
 
 ## De Tiananmén al Nido de Pájaro
 
-El recorrido une el centro político de la ciudad con el norte olímpico. En las últimas ediciones, los corredores han partido de Tiananmén hacia el oeste por la avenida Chang'an para girar después hacia el norte y adentrarse en el distrito de Haidian, una zona de universidades y campus tecnológicos. El último tramo entra en Chaoyang y termina junto al Parque Olímpico.
+Por tradición, el recorrido une el centro político de la ciudad con su norte olímpico. En las últimas ediciones partía de Tiananmén hacia el oeste por la avenida Chang'an. Después giraba hacia el norte para atravesar el distrito de Haidian, una zona de universidades y campus tecnológicos. En el último tramo entra en Chaoyang y termina cerca del Parque Olímpico.
 
-La meta queda, por tanto, al pie de las instalaciones de los Juegos Olímpicos de 2008. El Estadio Nacional, conocido como el Nido de Pájaro, luce una envoltura de celosía de acero, mientras que el Centro Acuático Nacional, el Cubo de Agua, está revestido de paneles con un dibujo de burbujas. El trazado exacto puede variar de un año a otro, así que la referencia definitiva debe ser el mapa oficial del recorrido y no este resumen.
+La meta queda justo al lado de las instalaciones de los Juegos Olímpicos de 2008. El Estadio Nacional, conocido como el Nido de Pájaro, está envuelto en una celosía de acero. El Centro Acuático Nacional, llamado el Cubo de Agua, está revestido de paneles con un dibujo de burbujas. Como el trazado exacto puede cambiar de un año a otro, la versión definitiva de cada edición es su mapa oficial del recorrido.
 
-## Cómo conseguir dorsal
+## Cómo conseguir un dorsal
 
-La mayoría de los años no basta con pagar para obtener plaza, ya que la inscripción suele hacerse por sorteo. Los corredores se registran en línea dentro de un plazo fijado y, entre todos los inscritos, se eligen al azar los participantes. Los extranjeros se inscriben con los datos de su pasaporte y deberán mostrar ese mismo documento al recoger la bolsa del corredor.
+En la mayoría de las ediciones no basta con pagar para obtener una plaza, porque el acceso suele decidirse por sorteo. Los corredores se inscriben por internet dentro de un plazo determinado y los participantes se eligen entre todos los inscritos. Los extranjeros se registran con los datos de su pasaporte y muestran ese mismo pasaporte al recoger la bolsa del corredor.
 
-En esta guía no figuran las cuotas, los plazos, los requisitos de clasificación ni las plazas internacionales, porque cambian cada año y los publica la web oficial del Maratón de Pekín. Confirme allí los plazos y la inscripción, y no compre nunca un dorsal a un revendedor: cada dorsal está vinculado a la identidad del corredor inscrito.
+Las cuotas, los plazos de inscripción, las marcas mínimas y las plazas internacionales cambian cada año. Cada dorsal va ligado a la identidad del corredor inscrito, de modo que un dorsal comprado a un revendedor no tiene validez.
 
-## Gritar «jiāyóu» en la avenida Chang'an
+## Gritar jiāyóu en la avenida Chang'an
 
-Ver la carrera desde la acera es gratuito y está al alcance de cualquiera. Le conviene aprender una palabra: **加油 (jiāyóu)**, que literalmente significa «echar aceite». Es la expresión de ánimo por excelencia en China, y el público la grita a cada corredor que pasa, no solo a los que encabezan la prueba.
+Ver la carrera desde la acera es gratis y está abierto a todo el mundo. La palabra que hay que conocer es **加油 (jiāyóu)**, que significa literalmente «echar aceite». Es el grito de ánimo más común en chino. Por tradición, el público lo grita a todos los corredores que pasan, no solo a los que van en cabeza.
 
-Tiananmén es el lugar más complicado para presenciar la carrera. Para acceder a la zona de la plaza hay que pasar siempre un control de seguridad, con verificación de identidad y revisión de bolsos. Los visitantes extranjeros necesitan el pasaporte original; una fotocopia no sirve. La mañana de la carrera, además, el acceso a los alrededores de la salida se restringe todavía más. Por eso, la mayoría de los espectadores prefiere situarse en puntos más avanzados del recorrido o en la meta, junto al Parque Olímpico, donde hay más espacio.
+Tiananmén es el lugar más difícil para ver la prueba. Para entrar en la zona de la plaza siempre hay que pasar un control de seguridad, donde se revisan los documentos y se pasan los bolsos por el escáner. Los visitantes extranjeros necesitan el pasaporte original, no una fotocopia. Las mañanas de carrera, el acceso a los alrededores de la salida suele restringirse todavía más.
+
+Por eso la mayoría del público se coloca más adelante en el recorrido o junto a la meta, cerca del Parque Olímpico, donde hay más espacio.
 
 ## Desplazarse el día de la carrera
 
-La mañana de la prueba, los cortes de tráfico paralizan buena parte del centro y del norte de Pekín. Los taxis y los vehículos de VTC se quedan atascados o tienen que desviarse, así que el metro es la opción más fiable.
+Las mañanas de maratón, los cortes de tráfico suelen dejar sin circulación buena parte del centro y del norte de Pekín. Los taxis y los coches de aplicaciones de transporte se quedan atascados o tienen que desviarse. Por eso el metro es la opción más fiable.
 
-- **Cerca de la salida:** estaciones de Tiananmén Este (Tiananmen East) y Tiananmén Oeste (Tiananmen West), ambas en la línea 1
-- **Cerca de la meta:** estaciones de Parque Olímpico (Olympic Green) y Centro Olímpico de Deportes (Olympic Sports Center), ambas en la línea 8
-- **Seguridad:** en todas las estaciones del metro de Pekín se pasan los bolsos por escáner a la entrada, de modo que conviene salir con tiempo
+- **Cerca de la salida:** estaciones Tiananmén Este (Tiananmen East) y Tiananmén Oeste (Tiananmen West), ambas en la Línea 1
+- **Cerca de la meta:** estaciones Parque Olímpico (Olympic Green) y Centro Deportivo Olímpico (Olympic Sports Center), ambas en la Línea 8
+- **Seguridad:** en todas las estaciones del metro de Pekín se pasan los bolsos por el escáner a la entrada, así que entrar lleva más tiempo
 
-Algunas salidas próximas al recorrido pueden estar cerradas esa mañana. Antes de ponerse en camino, consulte los avisos de las estaciones y la información oficial de la carrera. Los corredores deben prever llegar a la salida con muchísima antelación, ya que los controles de seguridad para un pelotón de este tamaño llevan su tiempo.
+Las mañanas de carrera es habitual que se cierren algunas salidas próximas al recorrido. Los corredores suelen llegar muy temprano a la salida, porque controlar a tantos participantes lleva su tiempo.
 
 ## Pagos, comida y otros aspectos prácticos
 
-En Pekín casi todo se paga con el móvil. Tanto Alipay como WeChat Pay permiten a los visitantes internacionales vincular una tarjeta bancaria extranjera, y configurar una de las dos antes del viaje facilita mucho la compra de un billete de metro o de una comida después de la carrera. Lleve algo de efectivo por si acaso, aunque tenga en cuenta que algunos pequeños puestos cercanos al recorrido solo aceptan pago móvil.
+En Pekín casi todo se paga con el móvil. Tanto Alipay como WeChat Pay permiten a los visitantes extranjeros asociar una tarjeta bancaria de su país, y eso facilita mucho pagar una comida o un billete de metro. Conviene llevar algo de efectivo por si acaso, aunque algunos puestos pequeños cercanos al recorrido solo aceptan el pago con el móvil.
 
-Mediados de octubre suele considerarse una de las mejores épocas del año en Pekín: ya ha pasado el calor del verano y aún no ha llegado el frío invernal. Las mañanas pueden ser frescas, por lo que muchos corredores toman la salida con una prenda desechable encima. La calidad del aire varía de un día a otro, y numerosos participantes consultan una aplicación con el índice de calidad del aire en los días previos.
+Mediados de octubre suele considerarse una de las mejores épocas del año en Pekín. El calor del verano ya ha pasado y el frío del invierno todavía no ha llegado. Como las mañanas pueden ser frescas, muchos corredores salen con una prenda que luego tiran por el camino. La calidad del aire cambia de un día a otro, y muchos participantes consultan una aplicación de calidad del aire durante los días anteriores a la carrera.
 
-## Quedarse después de la meta
+## Después de la meta
 
-El Parque Olímpico es un buen lugar para recuperarse. Se trata de un largo bulevar peatonal, completamente llano, flanqueado por el Nido de Pájaro y el Cubo de Agua. Al norte se encuentra el Parque Forestal Olímpico, con amplios senderos y un lago, por si las piernas aguantan un paseo tranquilo.
+El Parque Olímpico es un buen lugar para recuperarse. Es un largo paseo peatonal, totalmente llano, con el Nido de Pájaro y el Cubo de Agua a un lado. Al norte se encuentra el Parque Forestal Olímpico, con caminos amplios y un lago donde pasear despacio con las piernas cansadas.
 
-Si piensa quedarse unos días, la zona de salida le servirá de puerta de entrada a la ciudad antigua. La Ciudad Prohibida se alza justo al norte de Tiananmén y su visita requiere al menos medio día. Inmediatamente detrás, el parque Jingshan cuenta con una colina desde la que se contemplan los tejados del palacio. A pocas paradas de metro están Nanluoguxiang y los *hutong* de los alrededores de Houhai, ideales para pasear al atardecer.
-
-Reserve con antelación las entradas a la Ciudad Prohibida a través de su canal oficial, porque el acceso exige reserva previa con el pasaporte.
+La zona de salida, en cambio, da a la ciudad antigua. La Ciudad Prohibida está justo al norte de Tiananmén y su visita requiere al menos media jornada. Detrás está el parque Jingshan, cuya colina ofrece vistas de los tejados del palacio. A pocas paradas de metro se llega a Nanluoguxiang y a los hutong que rodean Houhai, muy agradables para pasear al atardecer. Las entradas a la Ciudad Prohibida se reservan con antelación por su canal oficial y se necesita el pasaporte.

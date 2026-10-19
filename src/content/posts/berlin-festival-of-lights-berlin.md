@@ -1,6 +1,6 @@
 ---
 title: 'Festival of Lights Berlin: Dates, Tickets & Venue (Berlin)'
-description: 'Festival of Lights Berlin runs October 9-18, 2026, with tickets needed only for extras, not for the main show: light and video projections on the city''s landmarks, from the Brandenburg Gate to the Berliner Dom.'
+description: Festival of Lights Berlin was set for October 9-18, 2026, with free open-air projections on landmarks from the Brandenburg Gate to the Berliner Dom.
 country: Germany
 region: Berlin
 category: event
@@ -21,27 +21,26 @@ gallery: []
 tags:
   - berlin
   - event
-quickAnswer: 'Festival of Lights Berlin runs October 9-18, 2026, with tickets needed only for extras, not for the main show: light and video projections on the city''s landmarks, from the Brandenburg Gate to the Berliner Dom. The projections are open-air and can be watched from public squares after dark. Confirm nightly timing, venues and any ticketed tours on the official site.'
+quickAnswer: 'Festival of Lights Berlin was set for October 9-18, 2026: light and video projections on the city''s landmarks, from the Brandenburg Gate to the Berliner Dom. Only organised extras were announced as ticketed, not the main show. The programme announced open-air projections that could be watched from public squares after dark.'
 faq:
   - q: When is the Festival of Lights Berlin in 2026?
-    a: It runs for ten nights, October 9-18, 2026. Projections begin after dark each evening. Confirm the nightly hours on the official site.
+    a: It was set for ten nights, October 9-18, 2026. The programme listed projections beginning after dark each evening.
   - q: Do I need a ticket to see the projections?
-    a: No. The light projections are open-air and can be watched from public squares. Tickets apply only to organised extras such as guided bus, bike or boat tours, which are listed on the official festival site.
+    a: No. The light projections were announced as open-air shows that could be watched from public squares. Only organised extras, such as guided bus, bike or boat tours, were announced as ticketed.
   - q: Where is the festival held?
-    a: Across central Berlin, on landmarks such as the Brandenburg Gate, Berliner Dom, Humboldt Forum, Fernsehturm and Rotes Rathaus. The sites can vary between editions, so check the official festival map.
+    a: Across central Berlin. Organisers named landmarks such as the Brandenburg Gate, Berliner Dom, Humboldt Forum, Fernsehturm and Rotes Rathaus. The sites vary between editions.
   - q: How long should I allow?
-    a: Two to three hours on foot covers the core route from Brandenburger Tor to Alexanderplatz, roughly 2.5 km. Add extra time if you want to include the Siegessäule in the Tiergarten.
+    a: Two to three hours on foot covers the core route from Brandenburger Tor to Alexanderplatz, roughly 2.5 km. Including the Siegessäule in the Tiergarten adds extra time.
   - q: How do I get there by public transport?
-    a: Start at Brandenburger Tor station (S1, S2, S25, S26, U5) and finish at Alexanderplatz (S-Bahn, U2, U5, U8). The U5 stops along the whole route.
+    a: The core route begins at Brandenburger Tor station (S1, S2, S25, S26, U5) and ends at Alexanderplatz (S-Bahn, U2, U5, U8). The U5 stops along the whole route.
 aiGenerated: true
 draft: false
 ---
-
 ## Ten nights, one city as a screen
 
-For ten nights, October 9-18, 2026, Berlin's best-known facades turn into projection screens. Columns, domes and towers that look grey by day carry moving images, colour washes and animated sequences mapped onto their exact architecture. The Festival of Lights has worked this way since 2005.
+The festival was set for ten nights, October 9-18, 2026, with Berlin's best-known facades turned into projection screens. The programme announced moving images, colour washes and animated sequences mapped onto the exact architecture of columns, domes and towers that look grey by day. The Festival of Lights has worked this way since 2005.
 
-The format is simple. You walk from building to building in the dark, and each landmark runs its own looping show. Most loops are short, so a few minutes at each stop is enough before you move on.
+The format is simple. Visitors walk from building to building in the dark, and each landmark carries its own looping show. Most loops are short, so a few minutes at each stop is usually enough before moving on.
 
 ## Where the light lands
 
@@ -53,26 +52,24 @@ The venue is the city itself, not a single ground. Locations change from year to
 - **Rotes Rathaus**, the red-brick city hall
 - **Siegessäule** in the Tiergarten, set apart from the central cluster
 
-Confirm the current list of sites and the festival map on the official site, because venues are not fixed.
+The list of sites and the festival map are not fixed from one edition to the next.
 
 ## A walking route that works
 
-The densest stretch runs east along Unter den Linden. It starts at the Brandenburg Gate and ends at Alexanderplatz, roughly 2.5 km of flat pavement. Start at **Brandenburger Tor station** (S-Bahn S1, S2, S25, S26 and U5). Then walk past Bebelplatz to Museum Island, cross to the Fernsehturm and finish at **Alexanderplatz**, where S-Bahn, U2, U5 and U8 take you home.
+The densest stretch runs east along Unter den Linden. It starts at the Brandenburg Gate and ends at Alexanderplatz, roughly 2.5 km of flat pavement. The route begins at **Brandenburger Tor station** (S-Bahn S1, S2, S25, S26 and U5). It passes Bebelplatz on the way to Museum Island, crosses to the Fernsehturm and finishes at **Alexanderplatz**, where S-Bahn, U2, U5 and U8 lines stop.
 
-Allow two to three hours for that route on foot with stops. The Siegessäule sits in the middle of the Tiergarten, about 2 km west of the Gate. Treat it as a separate detour, or reach it by bus along Straße des 17. Juni.
+Two to three hours covers that route on foot with stops. The Siegessäule sits in the middle of the Tiergarten, about 2 km west of the Gate. It works as a separate detour, and buses reach it along Straße des 17. Juni.
 
-In mid-October the sun sets early, so the projections start in full darkness. Evenings are cool and often damp. Pack a layer and gloves, because you will spend long minutes standing still.
+In mid-October the sun sets early, so projections start in full darkness. Evenings are typically cool and often damp. A warm layer and gloves help, because viewing means long minutes standing still.
 
 ## Watching like a Berliner
 
-Seeing the projections costs nothing and needs no booking: you just stand in the square and look up. Tickets come in only for organised extras such as guided tours by bus, bike or boat. These are listed on the official festival site, along with what each one includes.
+Seeing the projections was announced as free, with no booking: viewers stand in the square and look up. Only organised extras, such as guided tours by bus, bike or boat, were announced as ticketed, each with its own inclusions.
 
-A few habits help:
+A few habits help at events like this:
 
-- **Go on a weeknight.** Friday and Saturday nights draw the biggest crowds to the Gate and Museum Island, so the opening and closing weekends are the busiest.
-- **Step back.** The best view of the Berliner Dom is from the Lustgarten lawn, not the steps. At the Gate, Pariser Platz gives you the full facade.
-- **Ride the U5.** Its stops along the route, Brandenburger Tor, Unter den Linden, Museumsinsel, Rotes Rathaus and Alexanderplatz, let you skip stretches if your legs give out.
-- **Keep tripods compact.** Crowds pack tight in front of the main facades. Most people shoot handheld with a phone's night mode.
-- **Pay by card where you can.** Card is now widely accepted at the Christmas-style food stalls and bars near the route, but carry some euros for the smaller kiosks.
-
-Confirm timing and tickets on the official site before you set out.
+- **Weeknights are quieter.** Friday and Saturday nights typically draw the biggest crowds to the Gate and Museum Island, so opening and closing weekends tend to be the busiest.
+- **Stepping back pays off.** The best view of the Berliner Dom is from the Lustgarten lawn, not the steps. At the Gate, Pariser Platz gives the full facade.
+- **The U5 links the route.** Its stops, Brandenburger Tor, Unter den Linden, Museumsinsel, Rotes Rathaus and Alexanderplatz, make it easy to skip stretches when legs give out.
+- **Compact tripods suit the crowds.** Crowds pack tight in front of the main facades. Most people shoot handheld with a phone's night mode.
+- **Card works in most places.** Card is widely accepted at the Christmas-style food stalls and bars near the route, though smaller kiosks often take only euros in cash.

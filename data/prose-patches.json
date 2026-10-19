@@ -1007,6 +1007,65 @@
    }
   ]
  },
+ "beijing-beijing-marathon": {
+  "steps": [
+   {
+    "from": "c7e491b750ca",
+    "to": "652d916cee0b",
+    "at": "2026-10-19T09:07:04.478Z",
+    "removed": [
+     "[DESCRIPTION] The Beijing Marathon is set for Sunday, October 18, 2026. The race traditionally starts at Tiananmen Square in central Beijing and finishes near the Olympic Green, and places are usually allocated by ballot rather than first-come sales.",
+     "[QUICK ANSWER] The Beijing Marathon is set for Sunday, October 18, 2026. The race traditionally starts at Tiananmen Square in central Beijing and finishes near the Olympic Green, and places are usually allocated by ballot rather than first-come sales. Confirm the date, course, venue and entry details on the official Beijing Marathon site before you book travel.",
+     "[FAQ 1] Q: When is the Beijing Marathon in 2026? A: It is announced for Sunday, October 18, 2026. Check the official Beijing Marathon site for the exact date and start time before you book travel.",
+     "[FAQ 2] Q: Where does the Beijing Marathon start and finish? A: It has traditionally started at Tiananmen Square on Chang'an Avenue and finished near the Olympic Green in Chaoyang District. Use the official course map for the current route.",
+     "[FAQ 3] Q: How do I get a place in the Beijing Marathon? A: Entry is usually by online ballot during a set registration window. Foreign runners register with their passport details and show the same passport at race-pack collection. Entry rules and fees are published on the official site.",
+     "[FAQ 4] Q: Which metro stations are best for watching the race? A: For the start area, use Tiananmen East or Tiananmen West on Line 1, but expect security checks and restricted access. For the finish, use Olympic Green or Olympic Sports Center on Line 8. Some exits may be closed on race morning.",
+     "The road in front of the Gate of Heavenly Peace is one of the widest in Beijing. For one autumn morning it fills with runners instead of traffic. Chang'an Avenue runs east to west past Tiananmen Square, ten lanes of asphalt with the Mao portrait on one side and the square's flagpole on the other. That is where the Beijing Marathon has traditionally lined up its field.",
+     "The 2026 edition is announced for **Sunday, October 18, 2026**. This guide covers what the race is, how entry usually works, and how to watch it.",
+     "It is a major international road race. Elite fields from abroad share the start with tens of thousands of amateur runners. For many years it ran a half marathon too. More recently it has been a full-marathon-only event, so check the official site for which distances are offered in any given year.",
+     "- **Date:** Sunday, October 18, 2026, as announced\n- **Distance:** full marathon (confirm whether other distances are offered)\n- **Start:** traditionally Tiananmen Square and Chang'an Avenue\n- **Finish:** traditionally the Olympic Green area in Chaoyang District",
+     "The course runs from the political centre of the city to its Olympic north. On recent editions it heads west along Chang'an Avenue from Tiananmen. It then turns north through Haidian District, a stretch of universities and tech campuses. The last section crosses into Chaoyang and finishes near the Olympic Green.",
+     "That finish puts you right by the 2008 Olympic venues. The National Stadium, known as the Bird's Nest, has a steel lattice shell. The National Aquatics Center, the Water Cube, is wrapped in bubble-patterned panels. Exact routing can change between years. Treat the official course map as the final word, not this summary.",
+     "Most years you can't just buy a place. Entry is usually by ballot. Runners register online during a set window and successful applicants are drawn from the pool. Foreign runners enter with their passport details. Expect to show the same passport when you collect your race pack.",
+     "Fees, entry windows, qualifying rules and international places are not listed here. They change from year to year, and the official Beijing Marathon site publishes them. Confirm timing and tickets on the official site, and don't buy a bib from a reseller. Race numbers are tied to the registered runner's identity.",
+     "Watching from the roadside is free and open to everyone. The useful word to know is **加油 (jiāyóu)**, literally \"add oil\". It is the all-purpose Chinese cheer, and roadside crowds shout it at every runner who goes past, not only at the leaders.",
+     "Tiananmen is the hardest place to spectate. Getting into the square area always means a security checkpoint with ID checks and bag screening. Foreign visitors need a passport, not a photocopy. On race morning the area around the start is restricted further. Most spectators head for points further along the course, or for the finish near the Olympic Green, where there is more room to stand.",
+     "Road closures shut down large parts of central and northern Beijing on race morning. Taxis and ride-hailing cars get stuck or get rerouted. The metro is the reliable option.",
+     "- **Near the start:** Tiananmen East and Tiananmen West stations, both on Line 1\n- **Near the finish:** Olympic Green and Olympic Sports Center stations, both on Line 8\n- **Security:** every Beijing metro station scans bags at the entrance, so allow extra time",
+     "Some exits near the course can be closed on race morning. Check station notices and the official race information before you set out. Runners should plan to get to the start very early. Security screening for a field this size takes time.",
+     "Beijing runs on mobile payment. Alipay and WeChat Pay both let international visitors link a foreign bank card. Setting one up before you fly makes buying a post-race meal or a metro ticket much simpler. Carry some cash as a backup. Small vendors near the course do sometimes take only mobile payment, though.",
+     "Mid-October is usually counted among the best times of year in Beijing. It is past the summer heat and before the winter cold. Mornings can be cool, so runners often wear a throwaway layer at the start. Air quality varies from day to day. Many runners check an air-quality index app in the days before the race.",
+     "The Olympic Green is a good place to recover. It is a long, flat pedestrian boulevard with the Bird's Nest and Water Cube along one side. North of it is the Olympic Forest Park, which has wide paths and a lake if your legs can handle a slow walk.",
+     "If you're staying a few days, the start area connects you to the old city. The Forbidden City sits directly north of Tiananmen and takes at least half a day. Jingshan Park, just behind it, has a hill with views over the palace roofs. Nanluoguxiang and the hutong lanes around Houhai are a short metro ride away and good for an evening walk. Book Forbidden City tickets ahead through its official channel, because entry is by advance reservation with your passport."
+    ],
+    "added": [
+     "[DESCRIPTION] The Beijing Marathon was set for Sunday, October 18, 2026, starting at Tiananmen Square and finishing near the Olympic Green.",
+     "[QUICK ANSWER] The Beijing Marathon was set for Sunday, October 18, 2026. The race traditionally starts at Tiananmen Square in central Beijing and finishes near the Olympic Green. Places are usually allocated by ballot rather than first-come sales, and foreign runners register with their passport details.",
+     "[FAQ 1] Q: When is the Beijing Marathon in 2026? A: The 2026 race was set for Sunday, October 18, 2026. It traditionally starts at Tiananmen Square in central Beijing.",
+     "[FAQ 2] Q: Where does the Beijing Marathon start and finish? A: It has traditionally started at Tiananmen Square on Chang'an Avenue and finished near the Olympic Green in Chaoyang District. Exact routing can change between years.",
+     "[FAQ 3] Q: How do I get a place in the Beijing Marathon? A: Entry is usually by online ballot during a set registration window. Foreign runners register with their passport details and show the same passport at race-pack collection. Entry rules and fees change from year to year.",
+     "[FAQ 4] Q: Which metro stations are best for watching the race? A: The closest stations to the start area are Tiananmen East and Tiananmen West on Line 1, where security checks and restricted access are standard. For the finish, the nearest are Olympic Green and Olympic Sports Center on Line 8. Some exits are often closed on race mornings.",
+     "The road in front of the Gate of Heavenly Peace is one of the widest in Beijing. On marathon morning it fills with runners instead of traffic. Chang'an Avenue runs east to west past Tiananmen Square, ten lanes of asphalt with the Mao portrait on one side and the square's flagpole on the other. That is where the Beijing Marathon has traditionally lined up its field.",
+     "The 2026 edition was set for **Sunday, October 18, 2026**. Entry was by the usual ballot system, and the race traditionally finishes near the Olympic Green.",
+     "It is a major international road race. Elite fields from abroad share the start with tens of thousands of amateur runners. In earlier years the programme also included a half marathon. More recently it has been a full-marathon-only event, and the distances on offer can change from year to year.",
+     "- **Date:** Sunday, October 18, 2026, as announced\n- **Distance:** full marathon\n- **Start:** traditionally Tiananmen Square and Chang'an Avenue\n- **Finish:** traditionally the Olympic Green area in Chaoyang District",
+     "The course traditionally links the political centre of the city with its Olympic north. On recent editions it has headed west along Chang'an Avenue from Tiananmen. It then turns north through Haidian District, a stretch of universities and tech campuses. The last section crosses into Chaoyang and finishes near the Olympic Green.",
+     "That finish sits right by the 2008 Olympic venues. The National Stadium, known as the Bird's Nest, has a steel lattice shell. The National Aquatics Center, the Water Cube, is wrapped in bubble-patterned panels. Exact routing can change between years, so the official course map for each edition is the definitive version.",
+     "In most years places can't simply be bought. Entry is usually by ballot. Runners register online during a set window and successful applicants are drawn from the pool. Foreign runners enter with their passport details and show the same passport when they collect their race pack.",
+     "Fees, entry windows, qualifying rules and international places change from year to year. Race numbers are tied to the registered runner's identity, so a bib bought from a reseller is not valid.",
+     "Watching from the roadside is free and open to everyone. The useful word to know is **加油 (jiāyóu)**, literally \"add oil\". It is the all-purpose Chinese cheer, and roadside crowds traditionally shout it at every runner who goes past, not only at the leaders.",
+     "Tiananmen is the hardest place to spectate. Getting into the square area always means a security checkpoint with ID checks and bag screening. Foreign visitors need a passport, not a photocopy. On race mornings the area around the start is typically restricted further. Most spectators usually head for points further along the course, or for the finish near the Olympic Green, where there is more room to stand.",
+     "Road closures usually shut down large parts of central and northern Beijing on marathon mornings. Taxis and ride-hailing cars get stuck or rerouted. The metro is the reliable option.",
+     "- **Near the start:** Tiananmen East and Tiananmen West stations, both on Line 1\n- **Near the finish:** Olympic Green and Olympic Sports Center stations, both on Line 8\n- **Security:** every Beijing metro station scans bags at the entrance, so getting in takes extra time",
+     "Some exits near the course are often closed on race mornings. Runners usually reach the start very early, since security screening for a field this size takes time.",
+     "Beijing runs on mobile payment. Alipay and WeChat Pay both let international visitors link a foreign bank card, which makes buying a meal or a metro ticket much simpler. Cash is a useful backup, though small vendors near the course do sometimes take only mobile payment.",
+     "Mid-October is usually counted among the best times of year in Beijing. It is past the summer heat and before the winter cold. Mornings can be cool, so runners often wear a throwaway layer at the start. Air quality varies from day to day, and many runners follow an air-quality index app in the days before a race.",
+     "The Olympic Green is a good place to recover. It is a long, flat pedestrian boulevard with the Bird's Nest and Water Cube along one side. North of it is the Olympic Forest Park, which has wide paths and a lake for a slow walk on tired legs.",
+     "The start area connects to the old city. The Forbidden City sits directly north of Tiananmen and takes at least half a day. Jingshan Park, just behind it, has a hill with views over the palace roofs. Nanluoguxiang and the hutong lanes around Houhai are a short metro ride away and good for an evening walk. Entry to the Forbidden City is by advance reservation with a passport, through its official channel."
+    ]
+   }
+  ]
+ },
  "beijing-china-open-tennis": {
   "steps": [
    {
@@ -1264,6 +1323,52 @@
     ],
     "added": [
      "The gate works best as one stop on a loop through central Berlin. The Reichstag, with its glass dome, is a few minutes' walk north; dome visits need advance registration on the Bundestag website. A short walk south brings you to the Memorial to the Murdered Jews of Europe, with its field of concrete stelae."
+    ]
+   }
+  ]
+ },
+ "berlin-festival-of-lights-berlin": {
+  "steps": [
+   {
+    "from": "938080412a23",
+    "to": "b7d17a03a321",
+    "at": "2026-10-19T09:08:05.907Z",
+    "removed": [
+     "[DESCRIPTION] Festival of Lights Berlin runs October 9-18, 2026, with tickets needed only for extras, not for the main show: light and video projections on the city's landmarks, from the Brandenburg Gate to the Berliner Dom.",
+     "[QUICK ANSWER] Festival of Lights Berlin runs October 9-18, 2026, with tickets needed only for extras, not for the main show: light and video projections on the city's landmarks, from the Brandenburg Gate to the Berliner Dom. The projections are open-air and can be watched from public squares after dark. Confirm nightly timing, venues and any ticketed tours on the official site.",
+     "[FAQ 1] Q: When is the Festival of Lights Berlin in 2026? A: It runs for ten nights, October 9-18, 2026. Projections begin after dark each evening. Confirm the nightly hours on the official site.",
+     "[FAQ 2] Q: Do I need a ticket to see the projections? A: No. The light projections are open-air and can be watched from public squares. Tickets apply only to organised extras such as guided bus, bike or boat tours, which are listed on the official festival site.",
+     "[FAQ 3] Q: Where is the festival held? A: Across central Berlin, on landmarks such as the Brandenburg Gate, Berliner Dom, Humboldt Forum, Fernsehturm and Rotes Rathaus. The sites can vary between editions, so check the official festival map.",
+     "[FAQ 4] Q: How long should I allow? A: Two to three hours on foot covers the core route from Brandenburger Tor to Alexanderplatz, roughly 2.5 km. Add extra time if you want to include the Siegessäule in the Tiergarten.",
+     "[FAQ 5] Q: How do I get there by public transport? A: Start at Brandenburger Tor station (S1, S2, S25, S26, U5) and finish at Alexanderplatz (S-Bahn, U2, U5, U8). The U5 stops along the whole route.",
+     "For ten nights, October 9-18, 2026, Berlin's best-known facades turn into projection screens. Columns, domes and towers that look grey by day carry moving images, colour washes and animated sequences mapped onto their exact architecture. The Festival of Lights has worked this way since 2005.",
+     "The format is simple. You walk from building to building in the dark, and each landmark runs its own looping show. Most loops are short, so a few minutes at each stop is enough before you move on.",
+     "Confirm the current list of sites and the festival map on the official site, because venues are not fixed.",
+     "The densest stretch runs east along Unter den Linden. It starts at the Brandenburg Gate and ends at Alexanderplatz, roughly 2.5 km of flat pavement. Start at **Brandenburger Tor station** (S-Bahn S1, S2, S25, S26 and U5). Then walk past Bebelplatz to Museum Island, cross to the Fernsehturm and finish at **Alexanderplatz**, where S-Bahn, U2, U5 and U8 take you home.",
+     "Allow two to three hours for that route on foot with stops. The Siegessäule sits in the middle of the Tiergarten, about 2 km west of the Gate. Treat it as a separate detour, or reach it by bus along Straße des 17. Juni.",
+     "In mid-October the sun sets early, so the projections start in full darkness. Evenings are cool and often damp. Pack a layer and gloves, because you will spend long minutes standing still.",
+     "Seeing the projections costs nothing and needs no booking: you just stand in the square and look up. Tickets come in only for organised extras such as guided tours by bus, bike or boat. These are listed on the official festival site, along with what each one includes.",
+     "A few habits help:",
+     "- **Go on a weeknight.** Friday and Saturday nights draw the biggest crowds to the Gate and Museum Island, so the opening and closing weekends are the busiest.\n- **Step back.** The best view of the Berliner Dom is from the Lustgarten lawn, not the steps. At the Gate, Pariser Platz gives you the full facade.\n- **Ride the U5.** Its stops along the route, Brandenburger Tor, Unter den Linden, Museumsinsel, Rotes Rathaus and Alexanderplatz, let you skip stretches if your legs give out.\n- **Keep tripods compact.** Crowds pack tight in front of the main facades. Most people shoot handheld with a phone's night mode.\n- **Pay by card where you can.** Card is now widely accepted at the Christmas-style food stalls and bars near the route, but carry some euros for the smaller kiosks.",
+     "Confirm timing and tickets on the official site before you set out."
+    ],
+    "added": [
+     "[DESCRIPTION] Festival of Lights Berlin was set for October 9-18, 2026, with free open-air projections on landmarks from the Brandenburg Gate to the Berliner Dom.",
+     "[QUICK ANSWER] Festival of Lights Berlin was set for October 9-18, 2026: light and video projections on the city's landmarks, from the Brandenburg Gate to the Berliner Dom. Only organised extras were announced as ticketed, not the main show. The programme announced open-air projections that could be watched from public squares after dark.",
+     "[FAQ 1] Q: When is the Festival of Lights Berlin in 2026? A: It was set for ten nights, October 9-18, 2026. The programme listed projections beginning after dark each evening.",
+     "[FAQ 2] Q: Do I need a ticket to see the projections? A: No. The light projections were announced as open-air shows that could be watched from public squares. Only organised extras, such as guided bus, bike or boat tours, were announced as ticketed.",
+     "[FAQ 3] Q: Where is the festival held? A: Across central Berlin. Organisers named landmarks such as the Brandenburg Gate, Berliner Dom, Humboldt Forum, Fernsehturm and Rotes Rathaus. The sites vary between editions.",
+     "[FAQ 4] Q: How long should I allow? A: Two to three hours on foot covers the core route from Brandenburger Tor to Alexanderplatz, roughly 2.5 km. Including the Siegessäule in the Tiergarten adds extra time.",
+     "[FAQ 5] Q: How do I get there by public transport? A: The core route begins at Brandenburger Tor station (S1, S2, S25, S26, U5) and ends at Alexanderplatz (S-Bahn, U2, U5, U8). The U5 stops along the whole route.",
+     "The festival was set for ten nights, October 9-18, 2026, with Berlin's best-known facades turned into projection screens. The programme announced moving images, colour washes and animated sequences mapped onto the exact architecture of columns, domes and towers that look grey by day. The Festival of Lights has worked this way since 2005.",
+     "The format is simple. Visitors walk from building to building in the dark, and each landmark carries its own looping show. Most loops are short, so a few minutes at each stop is usually enough before moving on.",
+     "The list of sites and the festival map are not fixed from one edition to the next.",
+     "The densest stretch runs east along Unter den Linden. It starts at the Brandenburg Gate and ends at Alexanderplatz, roughly 2.5 km of flat pavement. The route begins at **Brandenburger Tor station** (S-Bahn S1, S2, S25, S26 and U5). It passes Bebelplatz on the way to Museum Island, crosses to the Fernsehturm and finishes at **Alexanderplatz**, where S-Bahn, U2, U5 and U8 lines stop.",
+     "Two to three hours covers that route on foot with stops. The Siegessäule sits in the middle of the Tiergarten, about 2 km west of the Gate. It works as a separate detour, and buses reach it along Straße des 17. Juni.",
+     "In mid-October the sun sets early, so projections start in full darkness. Evenings are typically cool and often damp. A warm layer and gloves help, because viewing means long minutes standing still.",
+     "Seeing the projections was announced as free, with no booking: viewers stand in the square and look up. Only organised extras, such as guided tours by bus, bike or boat, were announced as ticketed, each with its own inclusions.",
+     "A few habits help at events like this:",
+     "- **Weeknights are quieter.** Friday and Saturday nights typically draw the biggest crowds to the Gate and Museum Island, so opening and closing weekends tend to be the busiest.\n- **Stepping back pays off.** The best view of the Berliner Dom is from the Lustgarten lawn, not the steps. At the Gate, Pariser Platz gives the full facade.\n- **The U5 links the route.** Its stops, Brandenburger Tor, Unter den Linden, Museumsinsel, Rotes Rathaus and Alexanderplatz, make it easy to skip stretches when legs give out.\n- **Compact tripods suit the crowds.** Crowds pack tight in front of the main facades. Most people shoot handheld with a phone's night mode.\n- **Card works in most places.** Card is widely accepted at the Christmas-style food stalls and bars near the route, though smaller kiosks often take only euros in cash."
     ]
    }
   ]
@@ -3485,6 +3590,69 @@
    }
   ]
  },
+ "istanbul-filmekimi": {
+  "steps": [
+   {
+    "from": "437e8fb506e8",
+    "to": "f712311c0900",
+    "at": "2026-10-19T09:08:44.260Z",
+    "removed": [
+     "[DESCRIPTION] Filmekimi runs October 9-18, 2026 in Istanbul. Screenings are at Atlas 1948 on İstiklal Caddesi in Beyoğlu and three other cinemas in the city.",
+     "[QUICK ANSWER] Filmekimi runs October 9-18, 2026 in Istanbul. Screenings are at Atlas 1948 on İstiklal Caddesi in Beyoğlu and three other cinemas in the city. Book through the organiser's official site, and confirm dates, venues and tickets there before you plan around a particular film.",
+     "[FAQ 1] Q: When is Filmekimi 2026? A: Filmekimi 2026 runs October 9-18 in Istanbul. Check exact dates and screening times on the official İKSV Filmekimi site.",
+     "[FAQ 2] Q: Where are Filmekimi screenings held? A: Screenings are at Atlas 1948, the restored cinema in Atlas Pasajı on İstiklal Caddesi in Beyoğlu, and at three other cinemas in Istanbul. Check the venue on each ticket, because films are spread across all four.",
+     "[FAQ 3] Q: How do I get to Atlas 1948? A: Take the M2 metro to Taksim and walk down İstiklal Caddesi. You can also use Şişhane station on the M2 and walk up through Tünel. The red nostalgic tram along İstiklal is another option.",
+     "[FAQ 4] Q: Are Filmekimi films shown with English subtitles? A: Films are generally shown in their original language. English subtitles vary from title to title, so check each listing on the official programme before booking.",
+     "[FAQ 5] Q: Do Filmekimi screenings sell out? A: The most anticipated titles often do, especially on the opening weekend, because most films get only one or two screenings. Book your top choices first through the official İKSV site.",
+     "Ten days in October, a handful of cinemas, and a programme made up of the year's festival-circuit films. That's Filmekimi, Istanbul's autumn film showcase. It's one of the main cultural events of the city's season. The 2026 edition runs **October 9-18**, with screenings at **Atlas 1948** and three other cinemas around Istanbul.",
+     "You won't find an outdoor stage, wristbands or a festival village here. You get dark rooms, subtitles and queues on the pavement. Fitting several films into one day is entirely normal.",
+     "Atlas 1948 is the venue most people mean when they talk about Filmekimi. It's on **İstiklal Caddesi**, the long pedestrian street running from Taksim Square down towards Tünel. You go in through **Atlas Pasajı**, one of the old covered arcades off the street.",
+     "The cinema takes its name from the year it opened. After a long restoration it reopened as part of the Istanbul Cinema Museum, which shares the building. Arrive early and you can look around the museum before your film starts.",
+     "Inside, it's a single proper auditorium, not a multiplex box. That's a big part of why festival screenings here feel like an event. Expect a full room for the most talked-about titles.",
+     "- **Taksim station (M2)**: come up at Taksim Square and walk down İstiklal. It's a short, flat walk.\n- **Şişhane station (M2)**: useful if you're coming from the Galata or Karaköy side. Walk up through Tünel onto the lower end of İstiklal.\n- **Tünel funicular**: the historic underground funicular climbs from Karaköy to the bottom of İstiklal.\n- **Nostalgic tram**: the red heritage tram runs the length of İstiklal. It's slow, but handy on tired legs.",
+     "Load an **Istanbulkart**, the city's tap-on transit card, so one card covers the metro, funicular and tram. Filmekimi uses three other cinemas as well, so check the address of each screening on your ticket. Don't assume every film is at Atlas.",
+     "Tickets are the whole game at Filmekimi. A short run with limited screenings means the films people are talking about sell out, and the opening weekend sells out fastest. Confirm timing and tickets on the official İKSV Filmekimi site. That's where the programme, venues and booking details are published, and it's the source to trust over any reseller.",
+     "Some habits that help:",
+     "- **Build a shortlist first.** Read the full programme, rank your top five, then book in order. Don't wait until every slot looks perfect.\n- **Check the subtitle line on each listing.** Films are generally shown in their original language. Whether English subtitles are included varies by title, so read the listing before you book.\n- **Note the venue on every ticket.** With four cinemas, it's easy to plan two films back to back at venues that are a real journey apart.\n- **Keep the confirmation on your phone.** Have your ticket ready to scan at the door so the queue keeps moving.",
+     "Ticket prices are on the official site and at the box office. Card payment is standard almost everywhere in central Istanbul.",
+     "Arrive with time to spare. The crowds on İstiklal can slow a five-minute walk to fifteen, especially in the evening. Festival screenings tend to start on time, and walking in after the lights go down means fumbling for a seat in a full house.",
+     "Phones go away completely, and that includes the glow of checking messages. People stay seated through the credits more than you might expect, since festival films often end on a final shot people want to see out. If a director or guest is introducing the film, the room will usually be quiet and ready by the scheduled time.",
+     "Between films, do what everyone else does: step out into the arcade or onto the street, grab a tea or a quick bite, and argue about what you've just seen. A simit from a street cart is the classic way to keep going between screenings.",
+     "- **Istanbul Cinema Museum**: in the same building as the cinema, the obvious first stop.\n- **Çiçek Pasajı**: the old \"Flower Passage\" arcade further down İstiklal, lined with meyhane restaurants.\n- **Galatasaray High School gates**: a landmark on the street and a common meeting point.\n- **Galata Tower**: downhill past Tünel, a good walk if you have a longer gap.\n- **Taksim Square**: at the top of the street, where the metro is.",
+     "İstiklal is crowded from late afternoon through the night. If you have a ninety-minute gap, choose one stop rather than trying to fit in three.",
+     "On how many films to see: two a day is comfortable for most visitors, while three makes a proper festival marathon. Weekday screenings are usually easier to book than weekend ones, purely because more people can make weekends.",
+     "If you're in Istanbul for only part of the run, start with the programme and plan the rest of your trip around it. The films are fixed, while the city's other sights will still be there the day after. Before you travel, confirm the dates, the venue for each screening and your tickets on the official Filmekimi site."
+    ],
+    "added": [
+     "[DESCRIPTION] Filmekimi was set for October 9-18, 2026 in Istanbul. Organisers announced screenings at Atlas 1948 on İstiklal Caddesi in Beyoğlu and three other cinemas.",
+     "[QUICK ANSWER] Filmekimi was set for October 9-18, 2026 in Istanbul. The programme placed screenings at Atlas 1948 on İstiklal Caddesi in Beyoğlu and at three other cinemas in the city. Tickets were sold through the organiser's official site, with each film tied to a particular venue and time.",
+     "[FAQ 1] Q: When is Filmekimi 2026? A: Filmekimi 2026 was set for October 9-18 in Istanbul. İKSV organised the edition and set the screening times film by film.",
+     "[FAQ 2] Q: Where are Filmekimi screenings held? A: The programme placed screenings at Atlas 1948, the restored cinema in Atlas Pasajı on İstiklal Caddesi in Beyoğlu, and at three other cinemas in Istanbul. Films were spread across all four, and each ticket named its venue.",
+     "[FAQ 3] Q: How do I get to Atlas 1948? A: The M2 metro to Taksim, followed by a walk down İstiklal Caddesi, is the simplest route. Şişhane station on the M2 is another option, with a walk up through Tünel. The red nostalgic tram along İstiklal also stops close by.",
+     "[FAQ 4] Q: Are Filmekimi films shown with English subtitles? A: Films are generally shown in their original language. English subtitles vary from title to title, and each listing in the 2026 programme noted whether they were included.",
+     "[FAQ 5] Q: Do Filmekimi screenings sell out? A: The most anticipated titles often do, especially on the opening weekend, because most films get only one or two screenings. Tickets for the 2026 edition were sold through the official İKSV site.",
+     "Ten days in October, a handful of cinemas, and a programme made up of the year's festival-circuit films. That's Filmekimi, Istanbul's autumn film showcase. It's one of the main cultural events of the city's season. The 2026 edition was set for **October 9-18**, with screenings at **Atlas 1948** and three other cinemas around Istanbul.",
+     "There's no outdoor stage, no wristbands and no festival village. Filmekimi is dark rooms, subtitles and queues on the pavement. Fitting several films into one day is entirely normal.",
+     "Atlas 1948 is the venue most people mean when they talk about Filmekimi. It's on **İstiklal Caddesi**, the long pedestrian street running from Taksim Square down towards Tünel. The entrance is through **Atlas Pasajı**, one of the old covered arcades off the street.",
+     "The cinema takes its name from the year it opened. After a long restoration it reopened as part of the Istanbul Cinema Museum, which shares the building. The museum makes a good stop before a film starts.",
+     "Inside, it's a single proper auditorium, not a multiplex box. That's a big part of why festival screenings here feel like an event. The most talked-about titles usually fill the room.",
+     "- **Taksim station (M2)**: come up at Taksim Square and walk down İstiklal. It's a short, flat walk.\n- **Şişhane station (M2)**: useful from the Galata or Karaköy side. A walk up through Tünel leads onto the lower end of İstiklal.\n- **Tünel funicular**: the historic underground funicular climbs from Karaköy to the bottom of İstiklal.\n- **Nostalgic tram**: the red heritage tram runs the length of İstiklal. It's slow, but handy on tired legs.",
+     "An **Istanbulkart**, the city's tap-on transit card, covers the metro, funicular and tram on one card. The 2026 programme also included three other cinemas, and each ticket carried the address of its screening, so not every film was at Atlas.",
+     "Tickets are the whole game at Filmekimi. A short run with limited screenings means the films people are talking about tend to sell out, and the opening weekend goes fastest. For 2026, tickets were sold through the official İKSV Filmekimi site, which organisers presented as the source to trust over any reseller.",
+     "Some habits regulars rely on:",
+     "- **A shortlist first.** Regulars read the full programme, rank a top five, then book in order rather than waiting for every slot to look perfect.\n- **The subtitle line on each listing.** Films are generally shown in their original language. Whether English subtitles are included varies by title, and the listing says which.\n- **The venue on every ticket.** With four cinemas, it's easy to end up with two films back to back at venues that are a real journey apart.\n- **The confirmation on a phone.** A ticket ready to scan at the door keeps the queue moving.",
+     "Tickets for the 2026 edition were sold online and at the box office. Card payment is standard almost everywhere in central Istanbul.",
+     "Regulars leave time to spare. The crowds on İstiklal can slow a five-minute walk to fifteen, especially in the evening. Festival screenings tend to start on time, and walking in after the lights go down means fumbling for a seat in a full house.",
+     "Phones go away completely, and that includes the glow of checking messages. People stay seated through the credits more than you might think, since festival films often end on a final shot people want to see out. When a director or guest introduces a film, the room is usually quiet and ready by the scheduled time.",
+     "Between films, the routine is simple: step out into the arcade or onto the street, grab a tea or a quick bite, and argue about what you've just seen. A simit from a street cart is the classic way to keep going between screenings.",
+     "- **Istanbul Cinema Museum**: in the same building as the cinema, the obvious first stop.\n- **Çiçek Pasajı**: the old \"Flower Passage\" arcade further down İstiklal, lined with meyhane restaurants.\n- **Galatasaray High School gates**: a landmark on the street and a common meeting point.\n- **Galata Tower**: downhill past Tünel, a good walk for a longer gap.\n- **Taksim Square**: at the top of the street, where the metro is.",
+     "İstiklal is crowded from late afternoon through the night. In a ninety-minute gap, one stop fits far better than three.",
+     "As for how many films: two a day is comfortable for most visitors, while three makes a proper festival marathon. Weekday screenings are usually easier to get into than weekend ones, purely because more people can make weekends.",
+     "For visitors in Istanbul for only part of the run, the programme usually sets the shape of the trip. The films are fixed, while the city's other sights are still there the day after."
+    ]
+   }
+  ]
+ },
  "istanbul-ittf-world-youth-championships-table-tennis": {
   "steps": [
    {
@@ -3709,6 +3877,49 @@
     "added": [
      "[FAQ 3] Q: When is the quietest time to visit? A: Weekdays stay calm 9am–11am and 5pm–6pm. On weekends, try to arrive right at 9am, since crowds build steadily from noon to 5pm.",
      "Weekday mornings and late afternoons both stay comparatively calm, since the quiet windows run 9am–11am and 5pm–6pm. Weekends are a different story, traffic through the park builds steadily from noon and stays heavy until around 5pm."
+    ]
+   }
+  ]
+ },
+ "jinju-lantern-festival": {
+  "steps": [
+   {
+    "from": "d1078582b6a0",
+    "to": "1269a205e3a4",
+    "at": "2026-10-19T09:09:16.510Z",
+    "removed": [
+     "[DESCRIPTION] The Jinju Namgang Yudeung (Lantern) Festival runs for about two weeks each October along the Namgang River in downtown Jinju, centered on Jinjuseong Fortress and the Namgang Yudeung Festival grounds.",
+     "[QUICK ANSWER] The Jinju Namgang Yudeung (Lantern) Festival runs for about two weeks each October along the Namgang River in downtown Jinju, centered on Jinjuseong Fortress and the Namgang Yudeung Festival grounds. Buy the paid festival zone ticket (floating lanterns on the river, the fortress, and the light installations), arrive after sunset for the illuminated lanterns, and plan at least one full evening plus a look at Jinjuseong Fortress by day.",
+     "[FAQ 1] Q: How do I get to the Jinju Lantern Festival from Seoul or Busan? A: From Seoul, take a KTX/ITX train to Jinju Station (about 3–3.5 hours) or an intercity bus. From Busan, an intercity bus takes roughly 1–1.5 hours. From Jinju Station or the bus terminal, a taxi or festival shuttle bus covers the remaining 10–15 minutes to Jinjuseong Fortress and the riverside festival grounds.",
+     "[FAQ 2] Q: Is there an entrance fee for the festival? A: The main riverside and fortress lantern zone usually requires a paid ticket, while some lantern displays around the city may be free to view. Prices and free/paid zone layouts change year to year, so confirm on the official Jinju festival announcement shortly before your visit.",
+     "[FAQ 3] Q: When exactly does the festival happen and what time should I arrive? A: It runs annually for about two weeks in October, with exact dates varying yearly. Arrive in the late afternoon to see Jinjuseong Fortress in daylight, then stay for the lantern lighting around sunset through roughly 9:30 PM for the best river reflections.",
+     "[FAQ 4] Q: How long should I plan to spend there? A: Budget at least 3–4 hours for the riverside lanterns, the fortress grounds, and food stalls. Add extra time if you want to visit the Jinju National Museum inside the fortress walls.",
+     "[FAQ 5] Q: What else is worth doing nearby? A: Pair the festival with a walk through Jinjuseong Fortress's Yeongnam Grand Pavilion and Nongae shrine, a meal of Jinju-style bibimbap or naengmyeon, and a stop at the Jungangno shopping area or Jinju Fish Market for a fuller day in the city.",
+     "Jinju is in South Gyeongsang Province, reachable by KTX or ITX train from Seoul (via Jinju Station, roughly 3–3.5 hours depending on the route and transfers) or by intercity bus from major cities including Seoul, Busan, and Daegu (Busan is the closest major hub, around 1–1.5 hours by bus or car). Jinju has no subway system; from Jinju Station or the intercity bus terminal, take a short taxi ride (roughly 10–15 minutes) or a local city bus toward Jinjuseong Fortress and the Namgang riverside, which is the festival's main stage.",
+     "During the festival, expect designated shuttle buses and extra city bus routes running from the station and terminal directly to festival entrances. Check the Jinju city tourism site or signage at the station for the current year's shuttle schedule, since routes are adjusted annually.",
+     "Jinjuseong Fortress itself is worth a daytime visit before returning after dark: inside the walls are the Yeongnam Grand Pavilion (Yeongnamnu), the Uigi-sa shrine honoring the gisaeng Nongae (who, according to legend, leapt into the river with an enemy general during the war), and the Jinju National Museum, which has exhibits on the Imjin War siege. As dusk falls, the fortress and river transform: thousands of lanterns are set floating downstream, large walk-through lantern tunnels and themed installations (often depicting Korean folklore, zodiac signs, or scenes from the siege) light up along both riverbanks, and a pontoon bridge (Jinnamnu Bridge area) typically lets visitors cross the river amid the lanterns.",
+     "Wish lanterns, where visitors write messages and either float or hang their own lantern, are usually available for an additional fee within the festival zone. Food stalls along the riverside sell typical festival fare and Jinju specialties; try to sample Jinju bibimbap, a regional variant said to predate Seoul's more famous version, along with Jinju-style cold noodles (naengmyeon) if available from vendors near the fortress.",
+     "The festival is held annually in October, typically over roughly two weeks, though exact dates shift slightly each year, so confirm current dates before booking travel. Arrive in the late afternoon to explore the fortress in daylight, then stay through sunset and into the evening (lighting hours vary by year, but have often run around 6:30–9:30 PM) when the lanterns are lit and the crowds are largest.",
+     "Weeknights are noticeably calmer than weekends; the first and last weekends tend to be busiest. Budget at least three to four hours for a proper visit, longer if you want to see both the fortress museum and the full riverside lantern route.",
+     "A paid ticket is generally required to enter the core festival zone (river lantern area and fortress lantern displays), while some peripheral lantern displays around the city center may be free, pricing and zone boundaries change yearly, so check official announcements close to your visit date. Wear layers, as October evenings by the river can be cool, and bring a battery pack since phone cameras run down fast shooting long-exposure lantern photos.",
+     "Combine the trip with the Jinju Fortress night walk and a stop at the nearby Jinju Fish Market or downtown Jungangno shopping street for a fuller day trip from Busan or Daegu."
+    ],
+    "added": [
+     "[DESCRIPTION] The 2026 Jinju Namgang Yudeung (Lantern) Festival was set along the Namgang River in Jinju, closing October 18 and centered on Jinjuseong Fortress.",
+     "[QUICK ANSWER] The Jinju Namgang Yudeung (Lantern) Festival takes place for about two weeks each October along the Namgang River in downtown Jinju, centered on Jinjuseong Fortress and the Namgang Yudeung Festival grounds. The 2026 edition was set to close on October 18. Organisers planned a paid festival zone ticket covering the floating lanterns on the river, the fortress and the light installations. The lanterns are lit after sunset, and Jinjuseong Fortress is worth seeing by day as well.",
+     "[FAQ 1] Q: How do I get to the Jinju Lantern Festival from Seoul or Busan? A: From Seoul, KTX/ITX trains reach Jinju Station in about 3–3.5 hours, and intercity buses also make the trip. From Busan, an intercity bus takes roughly 1–1.5 hours. From Jinju Station or the bus terminal, a taxi or festival shuttle bus covers the remaining 10–15 minutes to Jinjuseong Fortress and the riverside festival grounds.",
+     "[FAQ 2] Q: Is there an entrance fee for the festival? A: The main riverside and fortress lantern zone usually requires a paid ticket, while some lantern displays around the city are free to view. Prices and the layout of free and paid zones change from year to year.",
+     "[FAQ 3] Q: When exactly does the festival happen and what time should I arrive? A: The festival takes place each year for about two weeks in October, with exact dates varying. The 2026 edition was set to close on October 18. Late afternoon is the time to see Jinjuseong Fortress in daylight, and the lanterns are lit around sunset, usually until about 9:30 PM, when the river reflections are at their best.",
+     "[FAQ 4] Q: How long should I plan to spend there? A: A proper visit takes at least 3–4 hours to cover the riverside lanterns, the fortress grounds and the food stalls. The Jinju National Museum inside the fortress walls adds extra time.",
+     "[FAQ 5] Q: What else is worth doing nearby? A: Jinjuseong Fortress has the Yeongnam Grand Pavilion and the Nongae shrine. Jinju-style bibimbap and naengmyeon are the local dishes, and the Jungangno shopping area and Jinju Fish Market make for a fuller day in the city.",
+     "Jinju is in South Gyeongsang Province, reachable by KTX or ITX train from Seoul (via Jinju Station, roughly 3–3.5 hours depending on the route and transfers) or by intercity bus from major cities including Seoul, Busan, and Daegu (Busan is the closest major hub, around 1–1.5 hours by bus or car). Jinju has no subway system. From Jinju Station or the intercity bus terminal, a short taxi ride (roughly 10–15 minutes) or a local city bus reaches Jinjuseong Fortress and the Namgang riverside, which is the festival's main stage.",
+     "During the festival, designated shuttle buses and extra city bus routes usually run from the station and terminal directly to the festival entrances. The routes are adjusted each year.",
+     "Jinjuseong Fortress itself is worth a daytime visit as well as an evening one. Inside the walls are the Yeongnam Grand Pavilion (Yeongnamnu), the Uigi-sa shrine honoring the gisaeng Nongae (who, according to legend, leapt into the river with an enemy general during the war), and the Jinju National Museum, which has exhibits on the Imjin War siege. As dusk falls during the festival, the fortress and river transform: thousands of lanterns are set floating downstream, large walk-through lantern tunnels and themed installations (often depicting Korean folklore, zodiac signs, or scenes from the siege) light up along both riverbanks, and a pontoon bridge (Jinnamnu Bridge area) typically lets visitors cross the river amid the lanterns.",
+     "Wish lanterns, where visitors write messages and either float or hang their own lantern, are usually available for an additional fee within the festival zone. Food stalls along the riverside sell typical festival fare and Jinju specialties, including Jinju bibimbap, a regional variant said to predate Seoul's more famous version, and Jinju-style cold noodles (naengmyeon) from vendors near the fortress.",
+     "The festival is held annually in October, typically over roughly two weeks, and exact dates shift slightly each year. The 2026 edition was set to close on October 18. Late afternoon is the time to explore the fortress in daylight. The lanterns are lit from sunset into the evening, when crowds are usually largest; lighting hours vary by year but have often been around 6:30–9:30 PM.",
+     "Weeknights are noticeably calmer than weekends, and the first and last weekends tend to be busiest. A proper visit takes at least three to four hours, longer to see both the fortress museum and the full riverside lantern route.",
+     "A paid ticket is generally required for the core festival zone (the river lantern area and the fortress lantern displays), while some peripheral lantern displays around the city center are free. Pricing and zone boundaries change from year to year. October evenings by the river can be cool, and phone batteries drain fast when shooting long-exposure lantern photos.",
+     "The Jinju Fortress night walk, the nearby Jinju Fish Market and the downtown Jungangno shopping street round out a fuller day trip from Busan or Daegu."
     ]
    }
   ]
@@ -4669,6 +4880,57 @@
    }
   ]
  },
+ "paris-khalid-it-s-always-summer-somewhere-tour": {
+  "steps": [
+   {
+    "from": "4c2084254b73",
+    "to": "e8cb68b6c213",
+    "at": "2026-10-19T09:09:46.501Z",
+    "removed": [
+     "[DESCRIPTION] Khalid - It's Always Summer Somewhere Tour in Paris, France — October 18, 2026. What it is, when and where, and how to plan around it.",
+     "[QUICK ANSWER] Khalid's It's Always Summer Somewhere Tour plays Paris on October 18, 2026, at Salle Pleyel in the 8th arrondissement. This is a single Paris date, not a multi-night run, so treat it as a one-shot show and confirm timing and tickets on the official site before you plan travel. Salle Pleyel is a seated concert hall near the Champs-Élysées, so expect a different feel from an arena gig.",
+     "[FAQ 1] Q: Where exactly is Khalid playing in Paris? A: Salle Pleyel, at 252 Rue du Faubourg Saint-Honoré in the 8th arrondissement, on October 18, 2026.",
+     "[FAQ 2] Q: How do I get to Salle Pleyel by metro? A: Take Line 2 to Ternes or Courcelles, both roughly a 10-minute walk from the hall; Line 9 or 13 to Miromesnil is a good alternative from other parts of the city.",
+     "[FAQ 3] Q: Is this a seated or standing show? A: Salle Pleyel is a traditional seated concert hall built for orchestras, so expect assigned seating in stalls or balcony sections rather than a standing floor.",
+     "[FAQ 4] Q: Where do I buy tickets and check show times? A: Confirm timing and tickets on the official site for the tour and Salle Pleyel's own box office page, since seating categories and doors times are listed there.",
+     "[FAQ 5] Q: What's nearby if I arrive early? A: Parc Monceau is a short walk away and worth a visit before the show since it closes at dusk; the Musée Jacquemart-André is also close by for an afternoon stop.",
+     "Khalid's tour is called It's Always Summer Somewhere, and the Paris stop lands at Salle Pleyel on October 18, 2026. That title is a deliberate contrast to the room he's playing: Salle Pleyel is one of the city's grand old concert halls, not a beach.",
+     "A Khalid show here means his falsetto and low-end production will land in a room designed for clarity, not the muddier boom of an arena. Seats fan out steeply around the stage, so even upper levels get a clean sightline.",
+     "- **Metro:** Ternes or Courcelles (Line 2), both about 10 minutes on foot\n- **Other option:** Miromesnil (Line 9 or 13) also works if you're coming from the Opéra side\n- **Landmarks nearby:** Parc Monceau, Musée Jacquemart-André, Arc de Triomphe (about 20 minutes' walk)",
+     "Unlike a standing arena show, Salle Pleyel is a seated hall, so expect assigned seats rather than a general-admission crush toward the stage. The lobby is compact marble and brass, built for pre-concert conversation rather than long bar queues.",
+     "Doors typically open well before an evening downbeat at Paris concert halls, giving you time to find your row without rushing. Because it's a working classical venue most nights of the year, security and bag checks tend to be brisk rather than festival-style.",
+     "Tickets for the October 18 date are sold through Salle Pleyel's own box office and standard European ticketing platforms. Because it's a single date in a mid-sized hall rather than a multi-night arena run, seats in a good sightline can move faster than you'd expect for a pop or R&B act.",
+     "Confirm timing and tickets on the official site, and double-check the specific seating category before you buy, since a hall built for orchestras sells sections (stalls, first balcony, upper balcony) rather than a flat general-admission floor.",
+     "The stretch of Rue du Faubourg Saint-Honoré near the hall is mostly antique dealers, embassies, and small bistros that close early, so this isn't a neighbourhood for a long pre-show bar crawl. If you want a proper dinner, aim for somewhere near Parc Monceau or head toward Ternes, where there are more casual brasseries with later kitchen hours.",
+     "Parc Monceau itself is worth a short walk if you arrive with daylight to spare: its rotunda gates and faux-ruins were laid out in the 1770s, so it's really a pre-show rather than post-show stop.",
+     "Salle Pleyel doesn't sit on a major nightlife strip, so the crowd disperses quickly rather than spilling into late bars. Ternes and Courcelles metro stations are the fastest way out; both lines run until around 1am, later on Friday and Saturday nights, though October 18, 2026 falls on a Sunday, so check the RATP schedule for that night specifically since Sunday service can wind down earlier.",
+     "France uses standard Schengen entry rules for most visitors, and Salle Pleyel, like most French concert halls, will list its own bag and camera policy on official ticket pages rather than a blanket national rule. Given the venue's classical-hall background, expect a stricter no-recording culture at the door than you'd meet at an outdoor festival.",
+     "If this is your only Paris night, build in slack: the 8th arrondissement is well connected, but Sunday transit schedules and a single-date show mean there's no second chance if something runs late."
+    ],
+    "added": [
+     "[DESCRIPTION] Khalid's It's Always Summer Somewhere Tour was set for Salle Pleyel in Paris on October 18, 2026, a single date in the 8th arrondissement.",
+     "[QUICK ANSWER] Khalid's It's Always Summer Somewhere Tour was set to play Paris on October 18, 2026, at Salle Pleyel in the 8th arrondissement. It was a single Paris date, not a multi-night run. Salle Pleyel is a seated concert hall near the Champs-Élysées, with a very different feel from an arena gig.",
+     "[FAQ 1] Q: Where exactly is Khalid playing in Paris? A: The show was set for Salle Pleyel, at 252 Rue du Faubourg Saint-Honoré in the 8th arrondissement, on October 18, 2026.",
+     "[FAQ 2] Q: How do I get to Salle Pleyel by metro? A: Line 2 serves Ternes and Courcelles, both roughly a 10-minute walk from the hall. Line 9 or 13 to Miromesnil is a good alternative from other parts of the city.",
+     "[FAQ 3] Q: Is this a seated or standing show? A: Salle Pleyel is a traditional seated concert hall built for orchestras, so seating is assigned in stalls or balcony sections rather than on a standing floor.",
+     "[FAQ 4] Q: Where do I buy tickets and check show times? A: Tickets were sold through Salle Pleyel's own box office and standard European ticketing platforms, in seating categories such as stalls, first balcony and upper balcony.",
+     "[FAQ 5] Q: What's nearby if I arrive early? A: Parc Monceau is a short walk away and closes at dusk. The Musée Jacquemart-André is also close by and makes a good afternoon stop.",
+     "Khalid's tour is called It's Always Summer Somewhere, and the Paris stop was set for Salle Pleyel on October 18, 2026. The title made a deliberate contrast with the room: Salle Pleyel is one of the city's grand old concert halls, not a beach.",
+     "That suits Khalid's falsetto and low-end production: the room is designed for clarity, not the muddier boom of an arena. Seats fan out steeply around the stage, so even upper levels get a clean sightline.",
+     "- **Metro:** Ternes or Courcelles (Line 2), both about 10 minutes on foot\n- **Other option:** Miromesnil (Line 9 or 13) also works from the Opéra side\n- **Landmarks nearby:** Parc Monceau, Musée Jacquemart-André, Arc de Triomphe (about 20 minutes' walk)",
+     "Unlike a standing arena show, Salle Pleyel is a seated hall, with assigned seats rather than a general-admission crush toward the stage. The lobby is compact marble and brass, built for pre-concert conversation rather than long bar queues.",
+     "Doors typically open well before an evening downbeat at Paris concert halls, leaving time to find a row without rushing. Because it's a working classical venue most nights of the year, security and bag checks tend to be brisk rather than festival-style.",
+     "Tickets for the October 18 date were sold through Salle Pleyel's own box office and standard European ticketing platforms. A single date in a mid-sized hall offers far fewer seats than a multi-night arena run, and good sightlines are a smaller share of them.",
+     "As a hall built for orchestras, Salle Pleyel sells sections (stalls, first balcony, upper balcony) rather than a flat general-admission floor, and the Khalid date was sold the same way.",
+     "The stretch of Rue du Faubourg Saint-Honoré near the hall is mostly antique dealers, embassies, and small bistros that close early, so this isn't a neighbourhood for a long pre-show bar crawl. For a proper dinner, the streets around Parc Monceau and toward Ternes have more casual brasseries with later kitchen hours.",
+     "Parc Monceau itself is a short walk away: its rotunda gates and faux-ruins were laid out in the 1770s, and because it closes at dusk it works as a pre-show rather than post-show stop.",
+     "Salle Pleyel doesn't sit on a major nightlife strip, so concert crowds tend to disperse quickly rather than spilling into late bars. Ternes and Courcelles metro stations are the fastest way out; both lines run until around 1am, later on Friday and Saturday nights. October 18, 2026 fell on a Sunday, when RATP service can wind down earlier.",
+     "France uses standard Schengen entry rules for most visitors. Salle Pleyel, like most French concert halls, sets its own bag and camera policy rather than following a blanket national rule. Given its classical-hall background, the venue has a stricter no-recording culture at the door than an outdoor festival.",
+     "The 8th arrondissement is well connected, though Sunday transit schedules are thinner than weekday ones. With a single Paris date on the tour, there was no second show in the city."
+    ]
+   }
+  ]
+ },
  "paris-le-sserafim-pureflow-tour": {
   "steps": [
    {
@@ -4784,6 +5046,57 @@
      "[FAQ 1] Q: When was the 2026 MotoGP Australian Grand Prix at Phillip Island? A: It runs October 23-25, 2026 at the Phillip Island Grand Prix Circuit in Victoria. Friday was practice, Saturday had qualifying and the Sprint, and the full Grand Prix was on Sunday.",
      "[FAQ 2] Q: Is MotoGP still held at Phillip Island? A: No. The 2026 event is MotoGP's final visit to Phillip Island. The Australian Motorcycle Grand Prix moves to Adelaide from 2027.",
      "The 2026 Australian Motorcycle Grand Prix runs October 23-25. It was the last time MotoGP came here, because the event moves to Adelaide in 2027. That turned the weekend into a farewell to a circuit that riders have long rated among the best on the calendar."
+    ]
+   }
+  ]
+ },
+ "phuket-phuket-vegetarian-festival": {
+  "steps": [
+   {
+    "from": "7822a3b03e2b",
+    "to": "df17bdb60d51",
+    "at": "2026-10-19T09:10:12.141Z",
+    "removed": [
+     "[DESCRIPTION] Phuket Vegetarian Festival in Phuket, Thailand — October 10-18, 2026. What it is, when and where, and how to plan around it.",
+     "[QUICK ANSWER] The Phuket Vegetarian Festival (also known as the Nine Emperor Gods Festival) runs October 10–18, 2026, with free entry to street processions and shrine ceremonies across Phuket Town and nearby villages. There are no tickets — you simply show up at the shrines or along the parade routes. Confirm timing and tickets on the official site before you go, since exact ritual schedules shift shrine by shrine.",
+     "[FAQ 1] Q: When exactly is the Phuket Vegetarian Festival in 2026? A: It runs October 10–18, 2026, across Phuket Town and surrounding shrines. Confirm exact daily procession schedules on the official festival or Phuket tourism site, as they vary by shrine.",
+     "[FAQ 2] Q: Do I need tickets? A: No. Street processions and shrine visits are free and open to the public — there's no ticketing system for the main events.",
+     "[FAQ 3] Q: Where is the best place to watch the processions? A: Jui Tui Shrine on Ranong Road in Phuket Town hosts some of the biggest processions, with Bang Niew Shrine known for especially intense piercing rituals.",
+     "[FAQ 4] Q: What should I wear or avoid? A: Wear white or light, modest clothing as a sign of respect — avoid black. Don't bring meat or alcohol near shrines or processions during the nine days.",
+     "[FAQ 5] Q: How do I get from the beach areas to the festival? A: From Patong or Kata, taxis and songthaews reach Phuket Town in about 30–45 minutes. Expect road closures near shrines, so plan to walk the final stretch.",
+     "The first sign you're near the festival isn't a sound. It's a color. Strings of yellow flags snap over shophouse doorways throughout Phuket Town, and vendors selling all-white ritual clothing set up folding tables on street corners days before anything official begins.",
+     "The Phuket Vegetarian Festival, or Nine Emperor Gods Festival, is a nine-day Taoist purification rite brought by Hokkien Chinese immigrants generations ago. Participants abstain from meat, alcohol, and other indulgences to cleanse body and spirit. The visible part, the part that pulls in crowds with cameras, is the street processions, where entranced devotees called ma song pierce their cheeks with skewers, blades, and even branches, believed to channel deities and absorb the community's misfortune.",
+     "- **Jui Tui Shrine** on Ranong Road, the main shrine, epicenter of the loudest processions\n- **Bang Niew Shrine**, known for particularly intense piercing rituals\n- **Sui Boon Tong Shrine**, smaller, more local in feel",
+     "If you're staying in Patong or Kata, taxis and songthaews run into Phuket Town in 30–45 minutes. Renting a scooter gives more flexibility but expect road closures near shrines during processions. Plan to walk the last stretch.",
+     "Processions typically move at different times on different days, often starting mid-morning and running into the evening, with some of the most intense piercing rituals happening in the afternoon. There's no single fixed daily schedule across the island, each shrine sets its own procession times and route. Confirm timing and tickets on the official site or local tourism board listings before heading out, since routes and hours vary shrine by shrine and can shift day to day.",
+     "Even if you skip the processions, the food is worth the trip. Street stalls across Phuket Town switch entirely to vegetarian and vegan menus for the nine days, marked by yellow flags and signs reading \"jay\".",
+     "- Look for the yellow flag, it signals a jay-certified stall\n- Try khanom jeen (rice noodles with curry-style sauces made without meat)\n- Mock-meat dishes made from soy, mushroom, and taro are everywhere and genuinely good\n- Prices are budget-friendly, often just a bit more than regular street food",
+     "Locals arrive early and dress modestly, white clothing is traditional for those observing the fast, and even spectators do well in white or light, plain colors out of respect. Avoid black.",
+     "Don't eat meat, drink alcohol, or bring non-jay food near shrine areas during the festival; it's considered deeply disrespectful given the purification theme.",
+     "For the piercing processions, get to your viewing spot at least 30–45 minutes early, locals claim curb space on plastic stools long before the drums and firecrackers signal a procession is approaching. Firecrackers are thrown directly at the ma song as they pass, so keep a few meters of distance and expect smoke, noise, and debris underfoot.",
+     "Payment at food stalls and shrines is overwhelmingly cash-based, carry small Thai baht notes, as vendors rarely have change for large bills. Entry to shrines and processions is free; donation boxes are common and appreciated but never mandatory.",
+     "If the crowds and skewers aren't for you, the shrines themselves are worth a quieter daytime visit, incense smoke curling through carved wooden beams, drummers rehearsing, families lighting joss sticks. Phuket Old Town's Sino-Portuguese shophouses on Thalang and Dibuk roads make a good walking detour between shrine visits, especially in the cooler early morning hours before the day's events start."
+    ],
+    "added": [
+     "[DESCRIPTION] Phuket Vegetarian Festival in Phuket, Thailand, was set for October 10–18, 2026, with free street processions and shrine ceremonies across Phuket Town.",
+     "[QUICK ANSWER] The Phuket Vegetarian Festival (also known as the Nine Emperor Gods Festival) was set for October 10–18, 2026, with free entry to street processions and shrine ceremonies across Phuket Town and nearby villages. There were no tickets. Visitors could simply go to the shrines or the parade routes. Ritual schedules usually differ from shrine to shrine.",
+     "[FAQ 1] Q: When exactly is the Phuket Vegetarian Festival in 2026? A: The festival was set for October 10–18, 2026, across Phuket Town and surrounding shrines. Daily procession schedules usually differ from shrine to shrine.",
+     "[FAQ 2] Q: Do I need tickets? A: No. Street processions and shrine visits were free and open to the public, with no ticketing system for the main events.",
+     "[FAQ 3] Q: Where is the best place to watch the processions? A: Jui Tui Shrine on Ranong Road in Phuket Town hosts some of the biggest processions. Bang Niew Shrine is known for especially intense piercing rituals.",
+     "[FAQ 4] Q: What should I wear or avoid? A: White or light, modest clothing is customary as a sign of respect, and black is avoided. Meat and alcohol are kept away from shrines and processions during the nine days.",
+     "[FAQ 5] Q: How do I get from the beach areas to the festival? A: From Patong or Kata, taxis and songthaews reach Phuket Town in about 30–45 minutes. Roads near shrines usually close during processions, so the final stretch is typically on foot.",
+     "The first sign of the festival isn't a sound. It's a color. Strings of yellow flags snap over shophouse doorways throughout Phuket Town, and vendors selling all-white ritual clothing set up folding tables on street corners days before anything official begins.",
+     "The Phuket Vegetarian Festival, or Nine Emperor Gods Festival, is a nine-day Taoist purification rite brought by Hokkien Chinese immigrants generations ago. Participants abstain from meat, alcohol, and other indulgences to cleanse body and spirit. The most visible part is the street processions, which draw crowds with cameras. In them, entranced devotees called ma song pierce their cheeks with skewers, blades, and even branches. They are believed to channel deities and absorb the community's misfortune.",
+     "- **Jui Tui Shrine** on Ranong Road, the main shrine and the epicenter of the loudest processions\n- **Bang Niew Shrine**, known for particularly intense piercing rituals\n- **Sui Boon Tong Shrine**, smaller and more local in feel",
+     "From Patong or Kata, taxis and songthaews run into Phuket Town in 30–45 minutes. A rented scooter gives more flexibility, but roads near shrines usually close during processions. The last stretch is typically covered on foot.",
+     "The 2026 festival was set for October 10–18. Processions typically move at different times on different days. They often start mid-morning and continue into the evening, and some of the most intense piercing rituals happen in the afternoon. There's no single fixed daily schedule across the island. Each shrine sets its own procession times and route, and these can shift from day to day.",
+     "Even apart from the processions, the food is worth the trip. Street stalls across Phuket Town switch entirely to vegetarian and vegan menus for the nine days. They are marked by yellow flags and signs reading \"jay\".",
+     "- The yellow flag signals a jay-certified stall\n- Khanom jeen (rice noodles with curry-style sauces made without meat) is a staple\n- Mock-meat dishes made from soy, mushroom, and taro are everywhere and genuinely good\n- Prices are budget-friendly, often just a bit more than regular street food",
+     "Locals dress modestly. White clothing is traditional for those observing the fast, and spectators usually wear white or light, plain colors out of respect. Black is avoided.",
+     "Eating meat, drinking alcohol, or bringing non-jay food near shrine areas during the festival is considered deeply disrespectful, given the purification theme.",
+     "For the piercing processions, locals claim curb space on plastic stools long before the drums and firecrackers signal an approaching procession, often 30–45 minutes ahead. Firecrackers are thrown directly at the ma song as they pass. Onlookers keep a few meters back, and smoke, noise, and debris underfoot are part of the scene.",
+     "Payment at food stalls and shrines is overwhelmingly cash-based. Vendors rarely have change for large bills, so small Thai baht notes are the norm. Entry to shrines and processions is free. Donation boxes are common and appreciated but never mandatory.",
+     "For anyone not drawn to the crowds and skewers, the shrines themselves are worth a quieter daytime visit, with incense smoke curling through carved wooden beams, drummers rehearsing, and families lighting joss sticks. Phuket Old Town's Sino-Portuguese shophouses on Thalang and Dibuk roads make a good walking detour between shrine visits. They are especially pleasant in the cooler early morning hours before the day's events start."
     ]
    }
   ]
@@ -4930,6 +5243,51 @@
     ],
     "added": [
      "[FAQ 3] Q: When is Fort Siloso least crowded? A: Weekdays are quiet 9am-10am and 5pm-6pm during the 9am-6pm opening hours. On weekends, arrive between 9am and 11am before tour groups build up; try to avoid the 2pm-6pm stretch."
+    ]
+   }
+  ]
+ },
+ "seoul-grand-mint-festival-2026": {
+  "steps": [
+   {
+    "from": "4efde0051cb8",
+    "to": "91ac96055108",
+    "at": "2026-10-19T09:10:42.658Z",
+    "removed": [
+     "[DESCRIPTION] Grand Mint Festival 2026 in Seoul, South Korea — October 17-18, 2026. What it is, when and where, and how to plan around it.",
+     "[QUICK ANSWER] Grand Mint Festival 2026 takes place October 17-18, 2026, at Olympic Park in Seoul, the same sprawling parkland venue this autumn festival has used for years. Expect a two-day outdoor lineup of indie, folk, and alternative acts spread across multiple stages on the park's lawns. Confirm exact stage times, ticket tiers, and gate details on the official Grand Mint Festival site before you book flights or hotels.",
+     "[FAQ 1] Q: When is Grand Mint Festival 2026? A: October 17-18, 2026, a Saturday and Sunday, at Olympic Park in Seoul. Confirm exact set times and any schedule changes on the official festival site.",
+     "[FAQ 2] Q: How do I get to Olympic Park for the festival? A: Take Line 5 to Olympic Park Station and use exits 3 or 9, or Line 8 to Mongchontoseong Station. Both put you within a short walk of the festival grounds.",
+     "[FAQ 3] Q: Are single-day tickets available, or only two-day passes? A: Grand Mint Festival has historically offered both single-day tickets and two-day passes, with the lineup often differing by day. Check the official ticketing page for current tiers and prices.",
+     "[FAQ 5] Q: Is there anything else to do at Olympic Park besides the festival? A: Yes. The grounds include the Seoul Olympic Museum, the SOMA sculpture park, and the Mongchontoseong fortress walls, all accessible for free before gates open.",
+     "Grand Mint Festival, often shortened to GMF by regulars, is one of Seoul's established autumn outdoor music festivals. It's built around indie, folk, and alternative acts rather than the EDM or K-pop-heavy bills you'll find at other Korean festivals.",
+     "The 2026 edition runs October 17-18, a Saturday and Sunday, at Olympic Park. Two days means most fans pick one day or buy a combined pass, depending on which acts are billed for each date.",
+     "- Nearest subway access: Olympic Park Station, Line 5 (exits 3 and 9 lead toward the park's main gates)\n- Mongchontoseong Station, Line 8, is another option depending on which stage area you're headed to\n- Bring a layer for evening sets; mid-October nights in Seoul run cool even when afternoons are mild",
+     "Because the two days often have different headline draws, check which artists play which date before choosing a single-day ticket. Set times cluster from early afternoon into the evening, with the biggest names closing each night on the main stage.",
+     "Grand Mint Festival has historically sold single-day tickets and two-day passes, with pricing tiers that shift year to year based on the lineup and whether you buy early. Tickets are usually sold through Korean ticketing platforms tied to the festival's official channels rather than at the gate on the day.",
+     "Confirm timing and tickets on the official Grand Mint Festival site and its social channels, since exact prices, on-sale windows, and any age or ID requirements are set independently each year and can differ from past editions.",
+     "Gates typically open well before the first act, and the walk from Olympic Park Station to the stage areas takes ten to fifteen minutes on foot, longer if you're carrying a folding chair or blanket. Most festival regulars arrive early to claim lawn space near their preferred stage rather than fighting for a spot mid-afternoon.",
+     "- Cashless payment is standard at most Korean festivals now; a T-money card or credit card covers food stalls and merchandise\n- Re-entry rules vary by year, so check your ticket terms if you plan to leave and come back\n- Food stalls inside the park sell Korean festival staples like tteokbokki and fried chicken alongside coffee carts, but variety is limited compared to a city street, so eating beforehand isn't a bad idea",
+     "Olympic Park itself is worth arriving early for beyond the festival. The Seoul Olympic Museum, the outdoor sculpture park (SOMA), and the Mongchontoseong earthen fortress walls are all inside the same grounds and free to wander before gates open.",
+     "Songpa District also puts you close to Lotte World and the Han River, both easy add-ons if you're building a longer Seoul trip around the festival weekend. Staying near Jamsil, one subway stop from Olympic Park Station, keeps transit simple for both festival days."
+    ],
+    "added": [
+     "[DESCRIPTION] Grand Mint Festival 2026 was set for October 17-18, 2026, at Olympic Park in Seoul, South Korea, with an indie, folk and alternative lineup.",
+     "[QUICK ANSWER] Grand Mint Festival 2026 was set for October 17-18, 2026, at Olympic Park in Seoul, the same sprawling parkland venue this autumn festival has used for years. The announced programme was a two-day outdoor lineup of indie, folk, and alternative acts spread across multiple stages on the park's lawns. The festival has historically offered both single-day tickets and two-day passes.",
+     "[FAQ 1] Q: When is Grand Mint Festival 2026? A: The festival was set for October 17-18, 2026, a Saturday and Sunday, at Olympic Park in Seoul. The programme covered two days of outdoor sets across multiple stages.",
+     "[FAQ 2] Q: How do I get to Olympic Park for the festival? A: Line 5 serves Olympic Park Station, where exits 3 and 9 lead toward the park, and Line 8 serves Mongchontoseong Station. Both are a short walk from the festival grounds.",
+     "[FAQ 3] Q: Are single-day tickets available, or only two-day passes? A: Grand Mint Festival has historically offered both single-day tickets and two-day passes, with the lineup often differing by day. Tickets for Korean festivals of this kind are usually sold in advance through Korean ticketing platforms rather than at the gate.",
+     "[FAQ 5] Q: Is there anything else to do at Olympic Park besides the festival? A: Yes. The grounds include the Seoul Olympic Museum, the SOMA sculpture park, and the Mongchontoseong fortress walls, all free to wander outside festival hours.",
+     "Grand Mint Festival, often shortened to GMF by regulars, is one of Seoul's established autumn outdoor music festivals. It's built around indie, folk, and alternative acts rather than the EDM or K-pop-heavy bills found at other Korean festivals.",
+     "The 2026 edition was set for October 17-18, a Saturday and Sunday, at Olympic Park. With two days on the bill, fans could pick one day or buy a combined pass, depending on which acts were billed for each date.",
+     "- Nearest subway access: Olympic Park Station, Line 5 (exits 3 and 9 lead toward the park's main gates)\n- Mongchontoseong Station, Line 8, is another option depending on the stage area\n- Mid-October nights in Seoul run cool even when afternoons are mild",
+     "The two days often have different headline draws, which makes single-day tickets popular with fans following particular artists. Set times typically cluster from early afternoon into the evening, with the biggest names closing each night on the main stage.",
+     "Grand Mint Festival has historically sold single-day tickets and two-day passes, with pricing tiers that shift year to year based on the lineup and how early people buy. Tickets are usually sold in advance through Korean ticketing platforms rather than at the gate on the day.",
+     "Exact prices, on-sale windows, and any age or ID requirements are set independently each year and can differ from past editions.",
+     "Gates typically open well before the first act, and the walk from Olympic Park Station to the stage areas takes ten to fifteen minutes on foot, longer with a folding chair or blanket. Festival regulars usually claim lawn space near their preferred stage early rather than fighting for a spot mid-afternoon.",
+     "- Cashless payment is standard at most Korean festivals now; a T-money card or credit card covers food stalls and merchandise\n- Re-entry rules vary by year and are set out in each edition's ticket terms\n- Food stalls inside the park sell Korean festival staples like tteokbokki and fried chicken alongside coffee carts, but variety is limited compared to a city street",
+     "Olympic Park itself is worth time beyond the festival. The Seoul Olympic Museum, the outdoor sculpture park (SOMA), and the Mongchontoseong earthen fortress walls are all inside the same grounds and free to wander outside festival hours.",
+     "Songpa District also sits close to Lotte World and the Han River, both easy add-ons to a longer Seoul trip. Jamsil, one subway stop from Olympic Park Station, is a convenient base with simple transit to the park."
     ]
    }
   ]
@@ -5170,6 +5528,51 @@
     "added": [
      "[FAQ 1] Q: When and where was the Super Junior-83z fancon in Singapore? A: It is held on October 16, 2026, at The Star Theatre, inside The Star Vista mall at 1 Vista Exchange Green in Buona Vista.",
      "The Singapore stop is a fancon on **October 16, 2026**. A fancon is closer to a fan meeting than a full concert. Expect talk segments, games and audience interaction, with songs mixed in. No setlist or running order is given here, so this page doesn't guess at one."
+    ]
+   }
+  ]
+ },
+ "sitges-sitges-film-festival": {
+  "steps": [
+   {
+    "from": "5af60a8f4f55",
+    "to": "b1b47cc0f0a6",
+    "at": "2026-10-19T09:12:09.695Z",
+    "removed": [
+     "[DESCRIPTION] The Sitges Film Festival runs October 8-18, 2026 in Sitges, the seaside town about 35 km southwest of Barcelona.",
+     "[QUICK ANSWER] The Sitges Film Festival runs October 8-18, 2026 in Sitges, the seaside town about 35 km southwest of Barcelona. Screenings centre on the Auditori at the Melià Sitges hotel, plus the town-centre cinemas Retiro and Prado. Buy tickets and check the schedule on the official site, sitgesfilmfestival.com.",
+     "[FAQ 1] Q: When is the Sitges Film Festival 2026? A: It runs October 8-18, 2026. Confirm timing and the full schedule on the official site, sitgesfilmfestival.com.",
+     "[FAQ 2] Q: Where are the main screenings held? A: The flagship venue is the Auditori at the Hotel Melià Sitges, on the western edge of town. Cinema Retiro and Cinema Prado in the centre also host screenings. Check the official site for the venue list for each edition.",
+     "[FAQ 3] Q: How do I get to Sitges from Barcelona? A: Take Rodalies line R2 Sud from Barcelona Sants or Passeig de Gràcia to Sitges. The trip takes about 35-45 minutes. Check the last return train if you plan to see late-night sessions.",
+     "[FAQ 4] Q: How many days should I plan for? A: Two or three days lets you see several screenings and the town. Committed genre fans often stay for most of the eleven days, so book a bed in Sitges early.",
+     "[FAQ 5] Q: Are films shown with subtitles? A: Many films screen in their original language with subtitles. Check each session's subtitle language in the official programme before you book.",
+     "Sitges bills itself as the world's leading fantastic film festival. Its full name is the Festival Internacional de Cinema Fantàstic de Catalunya, and it has run since 1968. For eleven days, October 8-18, 2026, horror, fantasy, science fiction and cult cinema take over a whitewashed beach town that is quiet the rest of autumn.",
+     "The scene shifts between two worlds. You have the polished premieres at the hotel auditorium on the edge of town. You also have the old-town lanes, where fans in genre T-shirts queue outside small cinemas. Between screenings, the seafront promenade (the Passeig Marítim) and the church of Sant Bartomeu i Santa Tecla on its rocky point are a few minutes' walk away.",
+     "Confirm venues, timing and tickets on the official site, sitgesfilmfestival.com. Programmes and the venue list can change between editions.",
+     "The train is the easiest way in. Rodalies line R2 Sud runs from Barcelona Sants and Passeig de Gràcia to Sitges station in roughly 35-45 minutes. Trains run often through the day, but check the last return train if you're catching a late screening. Midnight sessions can end after the service stops.",
+     "From Barcelona-El Prat airport, the drive down the C-32 motorway is short. Some R2 Sud trains also stop at El Prat. Booking a bed in Sitges itself saves you the late-night commute, and festival dates fill the town's hotels fast.",
+     "Planning ahead decides how much you see. A few habits help:",
+     "- **Book screenings early.** Premieres at the Auditori sell out first, so lock in the films you care about before you plan meals.\n- **Read the programme carefully.** Many films are in their original language with subtitles. Check which language the subtitles are in for each session.\n- **Leave time between venues.** Walking from the Auditori to the old-town cinemas takes longer than the map suggests, so don't stack back-to-back sessions across town.\n- **Watch for the Zombie Walk.** This costumed parade through the streets is a long-running festival tradition. Check the official programme for the date.",
+     "Local life runs late, which suits a film schedule. Restaurants serve dinner from around 9pm, so a 7pm screening still lets you eat afterwards. Cards are accepted almost everywhere. Tipping is modest: rounding up or leaving small change is normal, and nobody expects a percentage.",
+     "People here speak Catalan as well as Spanish. A \"bon dia\" (good morning) or \"gràcies\" (thank you) at the box office goes down well. Prices and passes are posted on the official site; check them there before you travel."
+    ],
+    "added": [
+     "[DESCRIPTION] The Sitges Film Festival was set for October 8-18, 2026 in Sitges, about 35 km southwest of Barcelona, centred on the Auditori at the Melià Sitges.",
+     "[QUICK ANSWER] The Sitges Film Festival was set for October 8-18, 2026 in Sitges, the seaside town about 35 km southwest of Barcelona. Screenings centred on the Auditori at the Melià Sitges hotel, plus the town-centre cinemas Retiro and Prado. Tickets were sold through the official site, sitgesfilmfestival.com.",
+     "[FAQ 1] Q: When is the Sitges Film Festival 2026? A: The 2026 edition was set for October 8-18, 2026. The festival's official site is sitgesfilmfestival.com.",
+     "[FAQ 2] Q: Where are the main screenings held? A: The flagship venue is the Auditori at the Hotel Melià Sitges, on the western edge of town. Cinema Retiro and Cinema Prado in the centre also host screenings. The venue list can change from one edition to the next.",
+     "[FAQ 3] Q: How do I get to Sitges from Barcelona? A: Rodalies line R2 Sud runs from Barcelona Sants or Passeig de Gràcia to Sitges. The trip takes about 35-45 minutes. Late-night sessions can end after the last return train.",
+     "[FAQ 4] Q: How many days should I plan for? A: Two or three days is usually enough to see several screenings and the town. Committed genre fans often stay for most of the eleven days, and beds in Sitges fill quickly at festival time.",
+     "[FAQ 5] Q: Are films shown with subtitles? A: Many films screen in their original language with subtitles. The subtitle language varies from session to session.",
+     "Sitges bills itself as the world's leading fantastic film festival. Its full name is the Festival Internacional de Cinema Fantàstic de Catalunya, and it has run since 1968. The 2026 edition was set for eleven days, October 8-18, with horror, fantasy, science fiction and cult cinema filling a whitewashed beach town that is quiet the rest of autumn.",
+     "The festival moves between two worlds. There are the polished premieres at the hotel auditorium on the edge of town. There are also the old-town lanes, where fans in genre T-shirts queue outside small cinemas. Between screenings, the seafront promenade (the Passeig Marítim) and the church of Sant Bartomeu i Santa Tecla on its rocky point are a few minutes' walk away.",
+     "The festival's official site is sitgesfilmfestival.com. Programmes and the venue list can change between editions.",
+     "The train is the easiest way in. Rodalies line R2 Sud runs from Barcelona Sants and Passeig de Gràcia to Sitges station in roughly 35-45 minutes. Trains run often through the day, but midnight sessions can end after the last return service has left.",
+     "From Barcelona-El Prat airport, the drive down the C-32 motorway is short. Some R2 Sud trains also stop at El Prat. Staying in Sitges itself avoids the late-night commute, and festival dates usually fill the town's hotels fast.",
+     "Regulars tend to follow a few habits:",
+     "- **Screenings go early.** Premieres at the Auditori usually sell out first, so seasoned festivalgoers secure the films they care about before anything else.\n- **The programme rewards close reading.** Many films are in their original language with subtitles, and the subtitle language differs between sessions.\n- **Venues are farther apart than they look.** Walking from the Auditori to the old-town cinemas takes longer than the map suggests, so back-to-back sessions across town are hard to make.\n- **The Zombie Walk.** This costumed parade through the streets is a long-running festival tradition.",
+     "Local life runs late, which suits a film schedule. Restaurants serve dinner from around 9pm, so a 7pm screening still leaves time to eat afterwards. Cards are accepted almost everywhere. Tipping is modest: rounding up or leaving small change is normal, and nobody expects a percentage.",
+     "People here speak Catalan as well as Spanish. A \"bon dia\" (good morning) or \"gràcies\" (thank you) at the box office goes down well."
     ]
    }
   ]
@@ -5581,6 +5984,63 @@
      "[QUICK ANSWER] Ungcheon Beach Park in Yeosu's Sijeon-dong neighborhood is a long, open waterfront strip best visited in the early morning, when it's calmest between 7am and 8am on both weekdays and weekends. It's open 24 hours daily, and the park stays busy from 11am to 10pm on weekends, so an early or after-dark visit is your best bet for breathing room. Come for the flat walking path along the water, the view toward the sea, and easy access from central Yeosu.",
      "[FAQ 4] Q: How do I get to Ungcheon Beach Park? A: It's located at 37-26 Yeulmaru-ro in Sijeon-dong, Yeosu, easily reached by taxi or local bus from central Yeosu or Yeosu Expo Station.",
      "Ungcheon Beach Park sits in Sijeon-dong, on the eastern side of Yeosu, along Yeulmaru-ro. It's a straightforward taxi or local bus ride from central Yeosu and from Yeosu Expo Station, and there's no complicated entrance to find since the park runs open along the road itself."
+    ]
+   }
+  ]
+ },
+ "zaragoza-fiestas-del-pilar": {
+  "steps": [
+   {
+    "from": "5382eab7ef52",
+    "to": "72a7462c503a",
+    "at": "2026-10-19T09:12:43.434Z",
+    "removed": [
+     "[DESCRIPTION] Fiestas del Pilar in Zaragoza runs October 10-18, 2026, with the Ofrenda de Flores (floral offering) filling Plaza del Pilar on October 12, the feast day of the Virgen del Pilar.",
+     "[QUICK ANSWER] Fiestas del Pilar in Zaragoza runs October 10-18, 2026, with the Ofrenda de Flores (floral offering) filling Plaza del Pilar on October 12, the feast day of the Virgen del Pilar. Most of the street programme is open-air and needs no ticket, while concerts and bullfights are ticketed separately. Confirm timing, venues and tickets on the official site of the Ayuntamiento de Zaragoza.",
+     "[FAQ 1] Q: When are the Fiestas del Pilar in 2026? A: The fiesta runs from Saturday 10 October to Sunday 18 October 2026. Its main day is Monday 12 October, the feast of the Virgen del Pilar and Spain's national holiday. Confirm the exact programme on the official site of the Ayuntamiento de Zaragoza.",
+     "[FAQ 2] Q: Do I need tickets for the Ofrenda de Flores? A: You don't need a ticket to watch the Ofrenda in Plaza del Pilar or most other street events. Some concerts and the bullfights at the Plaza de Toros de la Misericordia are ticketed separately. Check the official programme for those.",
+     "[FAQ 3] Q: How do I get to Plaza del Pilar? A: High-speed AVE trains reach Zaragoza-Delicias from Madrid or Barcelona in under 90 minutes. In the city, take Tram Line 1 to the Plaza del Pilar-Murallas stop, or walk. Roads around the old town close for much of the fiesta.",
+     "[FAQ 4] Q: Can visitors take part in the floral offering? A: Yes, you can. Participants usually join through a registered group. Traditional Aragonese dress is common but not required. The official fiesta site lists how to take part.",
+     "[FAQ 5] Q: How many days should I spend at the fiesta? A: Two full days is a good minimum. Plan one for the Ofrenda on 12 October and another for the parades, the old town and the finished flower mantle. That way you avoid the worst of the crush on the main day.",
+     "That walk is the centre of the Fiestas del Pilar, Zaragoza's biggest annual celebration. In 2026 it runs from Saturday 10 October to Sunday 18 October. It is built around the feast of the Virgen del Pilar, the city's patron.",
+     "The nine days pack in a lot. Expect religious processions, jota folk dancing, the giant papier-mâché figures of the *gigantes y cabezudos* parading through the streets, concerts, peñas (social clubs) out in force and late nights in the bars.",
+     "The Ofrenda de Flores is the day to plan around. Groups from across Aragón, Spain and Latin America file into Plaza del Pilar, one after another. Each group hands its flowers to volunteers, who work them into a tall frame set up in front of the Basílica del Pilar.",
+     "As the hours pass, the flowers build into a huge mantle around the figure of the Virgin. The plaza is long and open, with the basilica's tiled domes along one side. That gives you room to watch from the edges, but the processional route itself is fenced off.",
+     "October 12 is also Spain's national holiday, so the city is at its fullest. In 2026 it falls on a Monday, which turns the opening weekend into a long one for Spanish visitors.",
+     "The fiesta happens mostly in the streets. You can watch these without a ticket:",
+     "Some events need a ticket. Big-name concerts and the Feria del Pilar bullfights at the Plaza de Toros de la Misericordia are sold separately, with their own prices and conditions. Confirm the programme, venues and tickets on the official Fiestas del Pilar site run by the Ayuntamiento de Zaragoza. Venues and start times can change from one edition to the next.",
+     "Tram Line 1 runs north to south through the city. It stops at Plaza del Pilar-Murallas, at the western end of the plaza. Expect road closures around the old town for most of the nine days, especially on 12 October.",
+     "Book accommodation early. Hotels near the basilica fill quickly over the Pilar weekend, and staying in Delicias or across the river is a common fallback.",
+     "The Ofrenda runs from morning into the evening, so you don't need to fight for one moment. Pick a spot away from the main entrance to the plaza. Watching from the side streets near La Seo cathedral is usually calmer than the corner where the groups come in.",
+     "A few habits help:",
+     "- **Let processions pass.** Groups walk in formation behind banners, so don't cross through a line of dancers or flower-bearers.\n- **Visit the mantle afterwards.** The finished mantle of flowers stays in place for days. Locals come back on the 13th and 14th to see it complete, without the crush of the offering itself.\n- **Join, don't just watch.** Visitors can take part in the Ofrenda by signing up with a registered group. Traditional dress isn't compulsory, but you'll see it everywhere.\n- **Eat late.** Spanish meal times run late, and the fiesta pushes them later still. Bars in El Tubo, the narrow tapas lanes south of the plaza, stay packed well into the night.",
+     "Pay by card in most bars and shops. Keep some coins for the small stalls and for street vendors selling the *pañuelo* (scarf) people tie around their necks.",
+     "The fiesta spreads across the whole old town, so build in time for the streets around it. The Puente de Piedra, the stone bridge over the Ebro, gives you the classic view back toward the basilica's towers. The Gothic-Renaissance Lonja exchange building and La Seo cathedral sit on Plaza del Pilar itself.",
+     "Allow at least two full days to catch the Ofrenda and something of the rest of the programme. The final weekend ends with the fireworks over the river, a fitting close to nine days of fiesta."
+    ],
+    "added": [
+     "[DESCRIPTION] Fiestas del Pilar in Zaragoza was set for October 10-18, 2026, with the Ofrenda de Flores in Plaza del Pilar on October 12, the feast of the Virgen del Pilar.",
+     "[QUICK ANSWER] Fiestas del Pilar in Zaragoza was set for October 10-18, 2026, with the Ofrenda de Flores (floral offering) in Plaza del Pilar on October 12, the feast day of the Virgen del Pilar. Most of the street programme was open-air and free, while concerts and bullfights were ticketed separately. The Ayuntamiento de Zaragoza organises the fiesta.",
+     "[FAQ 1] Q: When are the Fiestas del Pilar in 2026? A: The 2026 fiesta was set for Saturday 10 October to Sunday 18 October. Its main day was Monday 12 October, the feast of the Virgen del Pilar and Spain's national holiday. The Ayuntamiento de Zaragoza organises the programme.",
+     "[FAQ 2] Q: Do I need tickets for the Ofrenda de Flores? A: No ticket was needed to watch the Ofrenda in Plaza del Pilar or most other street events. Some concerts and the bullfights at the Plaza de Toros de la Misericordia were ticketed separately.",
+     "[FAQ 3] Q: How do I get to Plaza del Pilar? A: High-speed AVE trains reach Zaragoza-Delicias from Madrid or Barcelona in under 90 minutes. In the city, Tram Line 1 stops at Plaza del Pilar-Murallas, and the plaza is also within walking distance of the centre. Roads around the old town usually close for much of the fiesta.",
+     "[FAQ 4] Q: Can visitors take part in the floral offering? A: Yes. Visitors can take part, usually by joining a registered group. Traditional Aragonese dress is common but not required.",
+     "[FAQ 5] Q: How many days should I spend at the fiesta? A: Two full days is a common minimum: one for the Ofrenda on 12 October and another for the parades, the old town and the finished flower mantle. The second day avoids the worst of the crush on the main day.",
+     "That walk is the centre of the Fiestas del Pilar, Zaragoza's biggest annual celebration. The 2026 edition was set for Saturday 10 October to Sunday 18 October. The fiesta is built around the feast of the Virgen del Pilar, the city's patron.",
+     "The nine days pack in a lot. The programme usually includes religious processions, jota folk dancing, the giant papier-mâché figures of the *gigantes y cabezudos* parading through the streets, concerts, peñas (social clubs) out in force and late nights in the bars.",
+     "The Ofrenda de Flores is the fiesta's main day. Groups from across Aragón, Spain and Latin America file into Plaza del Pilar, one after another. Each group hands its flowers to volunteers, who work them into a tall frame set up in front of the Basílica del Pilar.",
+     "As the hours pass, the flowers build into a huge mantle around the figure of the Virgin. The plaza is long and open, with the basilica's tiled domes along one side. That leaves room to watch from the edges, though the processional route itself is fenced off.",
+     "October 12 is also Spain's national holiday, so the city is usually at its fullest. In 2026 it fell on a Monday, which made the opening weekend a long one for Spanish visitors.",
+     "The fiesta happens mostly in the streets. These events needed no ticket:",
+     "Some events were ticketed. Big-name concerts and the Feria del Pilar bullfights at the Plaza de Toros de la Misericordia were sold separately, with their own prices and conditions. The Ayuntamiento de Zaragoza organises the fiesta, and venues and start times can change from one edition to the next.",
+     "Tram Line 1 runs north to south through the city. It stops at Plaza del Pilar-Murallas, at the western end of the plaza. Roads around the old town usually close for most of the nine days, especially on 12 October.",
+     "Hotels near the basilica tend to fill quickly over the Pilar weekend, and staying in Delicias or across the river is a common fallback.",
+     "The Ofrenda usually lasts from morning into the evening, so there is no single moment to fight for. The side streets near La Seo cathedral are usually calmer than the corner where the groups enter the plaza.",
+     "A few local customs shape the day:",
+     "- **Processions have right of way.** Groups walk in formation behind banners, and onlookers don't cross through a line of dancers or flower-bearers.\n- **The mantle stays up afterwards.** The finished mantle of flowers stays in place for days. Locals come back on the 13th and 14th to see it complete, without the crush of the offering itself.\n- **Visitors can join in.** Anyone can take part in the Ofrenda by signing up with a registered group. Traditional dress isn't compulsory, but it is everywhere.\n- **Meals run late.** Spanish meal times are late, and the fiesta pushes them later still. Bars in El Tubo, the narrow tapas lanes south of the plaza, stay packed well into the night.",
+     "Most bars and shops take cards. Coins are handy for the small stalls and for street vendors selling the *pañuelo* (scarf) people tie around their necks.",
+     "The fiesta spreads across the whole old town, and the streets around it are worth time too. The Puente de Piedra, the stone bridge over the Ebro, gives the classic view back toward the basilica's towers. The Gothic-Renaissance Lonja exchange building and La Seo cathedral sit on Plaza del Pilar itself.",
+     "Two full days cover the Ofrenda and something of the rest of the programme. The 2026 programme closed on the final weekend with fireworks over the river, a fitting end to nine days of fiesta."
     ]
    }
   ]

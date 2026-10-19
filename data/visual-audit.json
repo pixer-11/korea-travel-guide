@@ -4176,11 +4176,23 @@
   "reason": "publish gate: Interior nave view with chandeliers, pews, rose window",
   "at": "2026-10-18T07:45:16.567Z"
  },
+ "bremen-bremen-market-square\u0001https://upload.wikimedia.org/wikipedia/commons/1/12/Bremen_Market_Square_32.JPG": {
+  "slug": "bremen-bremen-market-square",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Bremen market square area with tram and historic buildings",
+  "at": "2026-10-19T08:16:26.135Z"
+ },
  "bremen-bremer-geschichtenhaus-bras-e-v\u0001https://upload.wikimedia.org/wikipedia/commons/8/84/Bremer_Geschichtenhaus_2.jpg": {
   "slug": "bremen-bremer-geschichtenhaus-bras-e-v",
   "verdict": "MATCH",
   "reason": "publish gate: Group in costume at museum entrance with signage",
   "at": "2026-10-02T14:30:14.420Z"
+ },
+ "bremen-burgerpark-bremen\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/B%C3%BCrgerpark_Bremen_Panorama.JPG/3840px-B%C3%BCrgerpark_Bremen_Panorama.JPG": {
+  "slug": "bremen-burgerpark-bremen",
+  "verdict": "MATCH",
+  "reason": "publish gate: Park landscape with grass and trees, plausible park view",
+  "at": "2026-10-19T08:14:01.950Z"
  },
  "bremen-kunsthalle-bremen\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kunsthalle-HB_20110824_img-01.jpg/1920px-Kunsthalle-HB_20110824_img-01.jpg": {
   "slug": "bremen-kunsthalle-bremen",
@@ -4787,6 +4799,12 @@
   "reason": "Yongdusan Park public square with tower visible",
   "reasonKo": "용두산공원 광장과 타워 명확히 보임",
   "at": "2026-08-09T13:34:01.177Z"
+ },
+ "byron-bay-bangalow-heritage-house-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/The_entry_of_the_Bangalow_Heritage_House_Museum.jpg/3840px-The_entry_of_the_Bangalow_Heritage_House_Museum.jpg": {
+  "slug": "byron-bay-bangalow-heritage-house-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Representative museum interior with heritage displays and artifacts",
+  "at": "2026-10-19T08:16:26.092Z"
  },
  "byron-bay-cape-byron\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2020-12-19_Cape_Byron.jpg/1920px-2020-12-19_Cape_Byron.jpg": {
   "slug": "byron-bay-cape-byron",
@@ -15278,11 +15296,23 @@
   "reason": "publish gate: Exterior view of Liverpool Cathedral, recognizable and representative",
   "at": "2026-09-30T14:01:22.962Z"
  },
+ "liverpool-newsham-park-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Newsham_Park_Boulevard_4.jpg/3840px-Newsham_Park_Boulevard_4.jpg": {
+  "slug": "liverpool-newsham-park-garden",
+  "verdict": "MATCH",
+  "reason": "publish gate: Park pathway with trees and grass, plausible Newsham Park scene",
+  "at": "2026-10-19T08:15:21.159Z"
+ },
  "liverpool-the-beatles-statues\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Ringo%2CPaul%2CGeorge_%26_John._%28The_Beatles%29_-_The_Beatles_statues%2C_Hard_Days_Night_Hotel%2C_North_John_Street_%26_Mathew_Street%2C_Liverpool_%282015-11-11_16.15.18_by_Loco_Steve%29.jpg/3840px-thumbnail.jpg": {
   "slug": "liverpool-the-beatles-statues",
   "verdict": "MATCH",
   "reason": "publish gate: Shows the Beatles statues on building, representative hero shot",
   "at": "2026-09-30T14:23:38.911Z"
+ },
+ "liverpool-the-three-graces\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Three_Graces%2C_Liverpool.jpg/3840px-Three_Graces%2C_Liverpool.jpg": {
+  "slug": "liverpool-the-three-graces",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Liverpool waterfront buildings including Royal Liver Building",
+  "at": "2026-10-19T08:14:49.507Z"
  },
  "liverpool-world-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/World_Museum_Liverpool_-_2014-11-16_%282%29.jpg/1920px-World_Museum_Liverpool_-_2014-11-16_%282%29.jpg": {
   "slug": "liverpool-world-museum",
@@ -18015,6 +18045,12 @@
   "reason": "publish gate: Aerial view of Tour Gabriel tower at Mont Saint-Michel",
   "at": "2026-09-12T07:51:00.951Z"
  },
+ "monterrey-faro-de-comercio\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Cerro_de_La_Silla_y_Faro_del_Comercio_desde_el_aire.jpg/3840px-Cerro_de_La_Silla_y_Faro_del_Comercio_desde_el_aire.jpg": {
+  "slug": "monterrey-faro-de-comercio",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Faro de Comercio tower with Monterrey cityscape backdrop",
+  "at": "2026-10-19T08:15:21.121Z"
+ },
  "monterrey-fundidora-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Parque_Fundidora%2C_Monterrey1.jpg/1920px-Parque_Fundidora%2C_Monterrey1.jpg": {
   "slug": "monterrey-fundidora-park",
   "verdict": "MATCH",
@@ -19945,6 +19981,12 @@
   "reason": "publish gate: Shows cacti garden with colonial building, matches venue",
   "at": "2026-10-04T07:44:54.203Z"
  },
+ "oaxaca-mercado-benito-juarez\u0001https://upload.wikimedia.org/wikipedia/commons/6/6c/Mercado_Benito_ju%C3%A1rez_2012-10-30_17-19-11.jpg": {
+  "slug": "oaxaca-mercado-benito-juarez",
+  "verdict": "MATCH",
+  "reason": "publish gate: Market exterior with banner matching venue name, plausible Oaxaca street scene",
+  "at": "2026-10-19T08:16:52.995Z"
+ },
  "oaxaca-templo-de-santo-domingo-de-guzman\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Templo_de_Santo_Domingo_de_Guzm%C3%A1n%2C_Oaxaca_de_Ju%C3%A1rez.jpg/3840px-Templo_de_Santo_Domingo_de_Guzm%C3%A1n%2C_Oaxaca_de_Ju%C3%A1rez.jpg": {
   "slug": "oaxaca-templo-de-santo-domingo-de-guzman",
   "verdict": "MATCH",
@@ -20287,11 +20329,23 @@
   "reason": "publish gate: Garden path with urn and Magdalen Tower view, representative",
   "at": "2026-09-30T14:02:04.547Z"
  },
+ "oxford-oxford-castle-prison\u0001https://upload.wikimedia.org/wikipedia/commons/a/ac/Oxford_Castle_-_panoramio_%285%29.jpg": {
+  "slug": "oxford-oxford-castle-prison",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior view of Oxford Castle gatehouse, representative",
+  "at": "2026-10-19T08:14:49.553Z"
+ },
  "oxford-oxford-university-museum-of-natural-history\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Oxford_University_Museum_of_Natural_History_exterior.JPG/1920px-Oxford_University_Museum_of_Natural_History_exterior.JPG": {
   "slug": "oxford-oxford-university-museum-of-natural-history",
   "verdict": "MATCH",
   "reason": "publish gate: Exterior of Oxford University Museum of Natural History building",
   "at": "2026-09-30T14:24:44.669Z"
+ },
+ "oxford-the-university-parks\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Engineering_Science_Building%2C_15_Mar_06.jpg/1920px-Engineering_Science_Building%2C_15_Mar_06.jpg": {
+  "slug": "oxford-the-university-parks",
+  "verdict": "MATCH",
+  "reason": "publish gate: Open parkland with trees and Oxford buildings in distance",
+  "at": "2026-10-19T08:15:54.925Z"
  },
  "pai-huai-nam-dang-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/e/ec/Huai_Nam_Dang_National_Park.jpg": {
   "slug": "pai-huai-nam-dang-national-park",
@@ -26449,6 +26503,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows Aussie World entrance sign and Ferris wheel",
   "at": "2026-09-28T16:55:38.976Z"
+ },
+ "sunshine-coast-kondalilla-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Sunshine_Coast%2C_Queensland_-_Kondalilla_falls.jpg/1920px-Sunshine_Coast%2C_Queensland_-_Kondalilla_falls.jpg": {
+  "slug": "sunshine-coast-kondalilla-national-park",
+  "verdict": "MATCH",
+  "reason": "publish gate: Waterfall and pool consistent with Kondalilla National Park scenery",
+  "at": "2026-10-19T08:17:41.160Z"
  },
  "sunshine-coast-sea-life-sunshine-coast-aquarium\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Sea_Life_Sunshine_Coast%2C_January_2026_02.jpg/3840px-Sea_Life_Sunshine_Coast%2C_January_2026_02.jpg": {
   "slug": "sunshine-coast-sea-life-sunshine-coast-aquarium",
