@@ -2217,6 +2217,223 @@
       "topic": "Yellow Pumpkin",
       "category": "attraction",
       "query": "Yayoi Kusama Yellow Pumpkin Naoshima"
+    },
+    {
+      "country": "Georgia",
+      "region": "Tbilisi",
+      "topic": "Narikala Fortress",
+      "category": "attraction",
+      "query": "Narikala Fortress Tbilisi Georgia"
+    },
+    {
+      "country": "Georgia",
+      "region": "Tbilisi",
+      "topic": "Abanotubani Sulphur Baths",
+      "category": "attraction",
+      "query": "Abanotubani sulphur baths Tbilisi"
+    },
+    {
+      "country": "Georgia",
+      "region": "Tbilisi",
+      "topic": "Holy Trinity Cathedral (Sameba)",
+      "category": "attraction",
+      "query": "Holy Trinity Cathedral Sameba Tbilisi"
+    },
+    {
+      "country": "Georgia",
+      "region": "Tbilisi",
+      "topic": "Bridge of Peace",
+      "category": "attraction",
+      "query": "Bridge of Peace Tbilisi"
+    },
+    {
+      "country": "Georgia",
+      "region": "Tbilisi",
+      "topic": "Mtatsminda Park",
+      "category": "attraction",
+      "query": "Mtatsminda Park Tbilisi"
+    },
+    {
+      "country": "Georgia",
+      "region": "Tbilisi",
+      "topic": "Georgian National Museum",
+      "category": "attraction",
+      "query": "Georgian National Museum Simon Janashia Tbilisi"
+    },
+    {
+      "country": "Georgia",
+      "region": "Tbilisi",
+      "topic": "Chronicle of Georgia",
+      "category": "hidden-gem",
+      "query": "Chronicle of Georgia monument Tbilisi"
+    },
+    {
+      "country": "Georgia",
+      "region": "Mtskheta",
+      "topic": "Svetitskhoveli Cathedral",
+      "category": "attraction",
+      "query": "Svetitskhoveli Cathedral Mtskheta Georgia"
+    },
+    {
+      "country": "Georgia",
+      "region": "Mtskheta",
+      "topic": "Jvari Monastery",
+      "category": "attraction",
+      "query": "Jvari Monastery Mtskheta Georgia"
+    },
+    {
+      "country": "Georgia",
+      "region": "Mtskheta",
+      "topic": "Samtavro Monastery",
+      "category": "hidden-gem",
+      "query": "Samtavro Monastery Mtskheta"
+    },
+    {
+      "country": "Georgia",
+      "region": "Kutaisi",
+      "topic": "Bagrati Cathedral",
+      "category": "attraction",
+      "query": "Bagrati Cathedral Kutaisi Georgia"
+    },
+    {
+      "country": "Georgia",
+      "region": "Kutaisi",
+      "topic": "Gelati Monastery",
+      "category": "attraction",
+      "query": "Gelati Monastery Kutaisi Georgia"
+    },
+    {
+      "country": "Georgia",
+      "region": "Tskaltubo",
+      "topic": "Prometheus Cave",
+      "category": "attraction",
+      "query": "Prometheus Cave Tskaltubo Georgia"
+    },
+    {
+      "country": "Georgia",
+      "region": "Stepantsminda",
+      "topic": "Gergeti Trinity Church",
+      "category": "attraction",
+      "query": "Gergeti Trinity Church Stepantsminda Kazbegi"
+    },
+    {
+      "country": "Georgia",
+      "region": "Gudauri",
+      "topic": "Russia–Georgia Friendship Monument",
+      "category": "attraction",
+      "query": "Russia Georgia Friendship Monument Gudauri viewpoint"
+    },
+    {
+      "country": "Georgia",
+      "region": "Sighnaghi",
+      "topic": "Sighnaghi Town Walls",
+      "category": "attraction",
+      "query": "Sighnaghi town walls fortress Georgia"
+    },
+    {
+      "country": "Georgia",
+      "region": "Sighnaghi",
+      "topic": "Bodbe Monastery",
+      "category": "attraction",
+      "query": "Bodbe Monastery St Nino Sighnaghi"
+    },
+    {
+      "country": "Georgia",
+      "region": "Telavi",
+      "topic": "Batonis Tsikhe",
+      "category": "attraction",
+      "query": "Batonis Tsikhe King Erekle II palace Telavi"
+    },
+    {
+      "country": "Georgia",
+      "region": "Telavi",
+      "topic": "Tsinandali Estate",
+      "category": "attraction",
+      "query": "Tsinandali Estate Alexander Chavchavadze museum"
+    },
+    {
+      "country": "Georgia",
+      "region": "Kvareli",
+      "topic": "Gremi Citadel",
+      "category": "hidden-gem",
+      "query": "Gremi Citadel Church of the Archangels Kakheti"
+    },
+    {
+      "country": "Georgia",
+      "region": "Borjomi",
+      "topic": "Borjomi-Kharagauli National Park",
+      "category": "attraction",
+      "query": "Borjomi-Kharagauli National Park visitor centre Borjomi"
+    },
+    {
+      "country": "Georgia",
+      "region": "Akhaltsikhe",
+      "topic": "Rabati Castle",
+      "category": "attraction",
+      "query": "Rabati Castle Akhaltsikhe Georgia"
+    },
+    {
+      "country": "Georgia",
+      "region": "Akhaltsikhe",
+      "topic": "Sapara Monastery",
+      "category": "hidden-gem",
+      "query": "Sapara Monastery Akhaltsikhe"
+    },
+    {
+      "country": "Georgia",
+      "region": "Mestia",
+      "topic": "Mikhail Khergiani House Museum",
+      "category": "hidden-gem",
+      "query": "Mikhail Khergiani House Museum Mestia Svaneti"
+    },
+    {
+      "country": "Georgia",
+      "region": "Gori",
+      "topic": "Uplistsikhe",
+      "category": "attraction",
+      "query": "Uplistsikhe cave town Gori Georgia"
+    },
+    {
+      "country": "Georgia",
+      "region": "Gori",
+      "topic": "Gori Fortress",
+      "category": "attraction",
+      "query": "Gori Fortress Georgia"
+    },
+    {
+      "country": "Georgia",
+      "region": "Gori",
+      "topic": "Joseph Stalin Museum",
+      "category": "attraction",
+      "query": "Joseph Stalin Museum Gori"
+    },
+    {
+      "country": "Georgia",
+      "region": "Batumi",
+      "topic": "Batumi Botanical Garden",
+      "category": "attraction",
+      "query": "Batumi Botanical Garden Green Cape"
+    },
+    {
+      "country": "Georgia",
+      "region": "Batumi",
+      "topic": "Ali and Nino Statue",
+      "category": "attraction",
+      "query": "Ali and Nino moving statue Batumi"
+    },
+    {
+      "country": "Georgia",
+      "region": "Batumi",
+      "topic": "Alphabetic Tower",
+      "category": "attraction",
+      "query": "Alphabetic Tower Batumi"
+    },
+    {
+      "country": "Georgia",
+      "region": "Batumi",
+      "topic": "Gonio Fortress",
+      "category": "attraction",
+      "query": "Gonio Fortress Apsaros Batumi"
     }
   ]
 }

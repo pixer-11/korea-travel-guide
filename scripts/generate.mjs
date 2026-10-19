@@ -1017,6 +1017,7 @@ const COUNTRY_LANG = {
   'Hong Kong': null,
   Macau: null, // Cantonese and Portuguese are both official; city-state like Hong Kong
   Mongolia: 'mn', // Mongolian (Cyrillic); an English review is a visitor's (2026-10-11)
+  Georgia: 'ka', // Georgian (its own script); an English review is a visitor's (2026-10-19)
   // 영어권이라 영어 리뷰가 관광객이라는 증거가 못 된다 — 미국과 같은 이유(2026-09-28).
   Australia: null,
   // 영어권이라 영어 리뷰가 관광객이라는 증거가 못 된다 — 호주와 같은 이유(2026-09-30).

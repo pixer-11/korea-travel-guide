@@ -28,6 +28,7 @@ export const ESIM_REGION_OF = {
   'united-arab-emirates': 'middleCentral',
   turkey: 'middleCentral',
   uzbekistan: 'middleCentral',
+  georgia: 'middleCentral', // 2026-10-19; the essentials hub files GE here too (countryTime hubRegion)
   // Europe & Americas
   france: 'europeAmericas',
   italy: 'europeAmericas',

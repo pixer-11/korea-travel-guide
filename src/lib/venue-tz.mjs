@@ -31,6 +31,7 @@ export const COUNTRY_TZ = {
   Cambodia: 'Asia/Phnom_Penh',
   'United Kingdom': 'Europe/London',
   Germany: 'Europe/Berlin',
+  Georgia: 'Asia/Tbilisi', // one zone for the whole country, no daylight saving (2026-10-19)
 };
 
 const ET = 'America/New_York', CT = 'America/Chicago', PT = 'America/Los_Angeles';

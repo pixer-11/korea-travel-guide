@@ -703,6 +703,32 @@
         "Khovd"
       ],
       "continent": "Asia"
+    },
+    {
+      "name": "Georgia",
+      "iso2": "ge",
+      "priority": 25,
+      "slug": "georgia",
+      "flag": "🇬🇪",
+      "active": true,
+      "blurb": "Tbilisi's sulphur baths and balconied old town, cave monasteries and hilltop churches, Kakheti's wine villages, and the high Caucasus at Kazbegi and Svaneti, with Batumi on the Black Sea coast. Distances are short on the map but mountain roads are slow, and the whole country keeps one time zone.",
+      "regions": [
+        "Tbilisi",
+        "Batumi",
+        "Kutaisi",
+        "Mtskheta",
+        "Stepantsminda",
+        "Gudauri",
+        "Sighnaghi",
+        "Telavi",
+        "Kvareli",
+        "Borjomi",
+        "Akhaltsikhe",
+        "Mestia",
+        "Gori",
+        "Tskaltubo"
+      ],
+      "continent": "Europe"
     }
   ]
 }

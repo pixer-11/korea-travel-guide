@@ -29,6 +29,9 @@ import holidays
 # Mongolia (MN) stays on the default "public": those are the statutory days
 # off (Tsagaan Sar, Naadam, Independence Day ...). Its other category,
 # "workday", is commemorative days on which offices stay open (2026-10-11).
+# Georgia (GE) has only "public": the Labour Code's days off, with Orthodox
+# Christmas on 7 January and Orthodox Easter from Good Friday to Monday
+# (2026-10-19).
 CATEGORIES = {"HK": ("optional",), "MO": ("optional",)}
 
 # The UK's no-subdivision set is only what all four nations share, which drops

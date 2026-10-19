@@ -35,6 +35,12 @@
     "es": "Ajman",
     "zh": "阿治曼"
   },
+  "Akhaltsikhe": {
+    "ko": "아할치헤",
+    "ja": "アハルツィヘ",
+    "es": "Ajaltsije",
+    "zh": "阿哈尔齐赫"
+  },
   "Al Ain": {
     "ko": "알아인",
     "ja": "アル・アイン",
@@ -239,6 +245,12 @@
     "es": "Battambang",
     "zh": "马德望"
   },
+  "Batumi": {
+    "ko": "바투미",
+    "ja": "バトゥミ",
+    "es": "Batumi",
+    "zh": "巴统"
+  },
   "Beijing": {
     "ko": "베이징",
     "ja": "北京",
@@ -316,6 +328,12 @@
     "ja": "ボルドー",
     "es": "Burdeos",
     "zh": "波尔多"
+  },
+  "Borjomi": {
+    "ko": "보르조미",
+    "ja": "ボルジョミ",
+    "es": "Borjomi",
+    "zh": "博尔若米"
   },
   "Boryeong": {
     "ko": "보령",
@@ -899,6 +917,12 @@
     "es": "George Town",
     "zh": "乔治市"
   },
+  "Georgia": {
+    "ko": "조지아",
+    "ja": "ジョージア",
+    "es": "Georgia",
+    "zh": "格鲁吉亚"
+  },
   "Germany": {
     "ko": "독일",
     "ja": "ドイツ",
@@ -934,6 +958,12 @@
     "ja": "ゴールドコースト",
     "es": "Gold Coast",
     "zh": "黄金海岸"
+  },
+  "Gori": {
+    "ko": "고리",
+    "ja": "ゴリ",
+    "es": "Gori",
+    "zh": "哥里"
   },
   "Goyang": {
     "ko": "고양",
@@ -976,6 +1006,12 @@
     "ja": "広州",
     "es": "Cantón",
     "zh": "广州"
+  },
+  "Gudauri": {
+    "ko": "구다우리",
+    "ja": "グダウリ",
+    "es": "Gudauri",
+    "zh": "古达乌里"
   },
   "Guia": {
     "ko": "기아",
@@ -1481,6 +1517,18 @@
     "es": "Kurashiki",
     "zh": "仓敷"
   },
+  "Kutaisi": {
+    "ko": "쿠타이시",
+    "ja": "クタイシ",
+    "es": "Kutaisi",
+    "zh": "库塔伊西"
+  },
+  "Kvareli": {
+    "ko": "크바렐리",
+    "ja": "クヴァレリ",
+    "es": "Kvareli",
+    "zh": "克瓦雷利"
+  },
   "Kyoto": {
     "ko": "교토",
     "ja": "京都",
@@ -1739,6 +1787,12 @@
     "es": "Mérida",
     "zh": "梅里达"
   },
+  "Mestia": {
+    "ko": "메스티아",
+    "ja": "メスティア",
+    "es": "Mestia",
+    "zh": "梅斯蒂亚"
+  },
   "Mexico": {
     "ko": "멕시코",
     "ja": "メキシコ",
@@ -1810,6 +1864,12 @@
     "ja": "ブロモ山",
     "es": "Monte Bromo",
     "zh": "布罗莫火山"
+  },
+  "Mtskheta": {
+    "ko": "므츠헤타",
+    "ja": "ムツヘタ",
+    "es": "Mtsjeta",
+    "zh": "姆茨赫塔"
   },
   "Mui Ne": {
     "ko": "무이네",
@@ -2507,6 +2567,12 @@
     "es": "Siena",
     "zh": "锡耶纳"
   },
+  "Sighnaghi": {
+    "ko": "시그나기",
+    "ja": "シグナギ",
+    "es": "Sighnaghi",
+    "zh": "西格纳吉"
+  },
   "Sihanoukville": {
     "ko": "시아누크빌",
     "ja": "シハヌークビル",
@@ -2560,6 +2626,12 @@
     "ja": "スタンレー",
     "es": "Stanley",
     "zh": "赤柱"
+  },
+  "Stepantsminda": {
+    "ko": "스테판츠민다",
+    "ja": "ステパンツミンダ",
+    "es": "Stepantsminda",
+    "zh": "斯特潘茨明达"
   },
   "Strasbourg": {
     "ko": "스트라스부르",
@@ -2729,6 +2801,18 @@
     "es": "Taskent",
     "zh": "塔什干"
   },
+  "Tbilisi": {
+    "ko": "트빌리시",
+    "ja": "トビリシ",
+    "es": "Tbilisi",
+    "zh": "第比利斯"
+  },
+  "Telavi": {
+    "ko": "텔라비",
+    "ja": "テラヴィ",
+    "es": "Telavi",
+    "zh": "泰拉维"
+  },
   "Tempe": {
     "ko": "템피",
     "ja": "テンピ",
@@ -2836,6 +2920,12 @@
     "ja": "尖沙咀",
     "es": "Tsim Sha Tsui",
     "zh": "尖沙咀"
+  },
+  "Tskaltubo": {
+    "ko": "츠칼투보",
+    "ja": "ツカルトゥボ",
+    "es": "Tsqaltubo",
+    "zh": "茨卡尔图博"
   },
   "Tsonjin Boldog": {
     "ko": "천진벌덕",

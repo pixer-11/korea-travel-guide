@@ -26,6 +26,7 @@
     "Germany": { "v": "230", "hz": "50", "plugs": ["C", "F"], "src": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/germany/" },
     "Mexico": { "v": "127", "hz": "60", "plugs": ["A", "B"], "src": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/mexico/" },
     "Macau": { "v": "230", "hz": "50", "plugs": ["G", "D", "M"], "src": "https://www.macaotourism.gov.mo/en/travelessential/before-you-travel/practical-info" },
-    "Mongolia": { "v": "230", "hz": "50", "plugs": ["C", "F"], "src": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/mongolia/" }
+    "Mongolia": { "v": "230", "hz": "50", "plugs": ["C", "F"], "src": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/mongolia/" },
+    "Georgia": { "v": "230", "hz": "50", "plugs": ["C", "F"], "src": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/georgia/" }
   }
 }

@@ -1120,5 +1120,44 @@
       ]
     },
     "_srcHash": "42de8ffca89a71c5"
+  },
+  "georgia": {
+    "ko": {
+      "intro": "조지아에는 Magti, Silknet, Cellfie, 이렇게 세 개의 이동통신사가 있습니다. Silknet과 Cellfie는 각자 웹사이트에서 eSIM을 판매하며, Silknet은 3일부터 30일까지 여행자 패키지를 운영하는데, 이는 My Silknet 앱이나 *017# 코드로 활성화할 수 있습니다. 해외 판매자가 제공하는 여행용 eSIM도 결국 이 통신망들을 그대로 이용하는 것이므로, 구매 전에 어느 통신사망을 사용하는지 확인해 보는 것이 좋습니다.",
+      "coverage": "신호는 트빌리시, 바투미, 쿠타이시와 주요 고속도로를 따라 늘어선 도시들에서 가장 강하며, Magti는 5G와 조지아 전역에서 가장 넓은 커버리지를 광고하고 있습니다. 스바네티의 메스티아 주변이나 스테판츠민다와 구다우리로 올라가는 길 같은 산악 지역에서는 계곡과 통신사에 따라 신호 상태가 달라지므로, 장거리 운전 중 일부 구간에서는 신호가 끊길 수 있다는 점을 염두에 두어야 합니다.",
+      "tips": [
+        "스바네티나 조지아 군사도로를 따라 카즈베기로 향하기 전에는 오프라인 지도를 미리 다운로드하고, 묵을 숙소와 기사님의 연락처를 저장해 두세요. 이동 구간 일부에서 신호가 잡히지 않을 수 있습니다.",
+        "Silknet의 여행자 패키지는 기간이 여러 가지로 나뉘어 있으니, 산악 여행 마지막 날에 서비스가 끊기지 않도록 전체 여행 기간을 충분히 커버하는 상품을 선택하세요.",
+        "여행이 아르메니아, 터키, 아제르바이잔으로 이어진다면 해당 국가도 커버하는 요금제가 필요하니, 국경을 넘기 전에 커버리지 목록을 반드시 확인하세요."
+      ]
+    },
+    "ja": {
+      "intro": "ジョージアには、Magti、Silknet、Cellfieの3つの携帯電話会社があります。SilknetとCellfieはどちらも自社サイトでeSIMを販売しており、Silknetは3日から30日までの旅行者向けパッケージを用意していて、My Silknetアプリまたはコード「*017#」で有効化できます。海外の販売者から購入する旅行用eSIMも、結局はこれらと同じ回線網を利用する形になるので、購入前にどのネットワークを使用しているか確認しておきましょう。",
+      "coverage": "電波が最も強いのはトビリシ、バトゥミ、クタイシ、そして主要幹線道路沿いの町々で、Magtiは5Gおよび国内最広範囲のカバレッジをうたっています。一方、スヴァネティ地方のメスティア周辺や、ステパンツミンダ・グダウリへ続く山道では、谷筋やネットワークによって電波状況が左右されるため、長距離移動の際には電波が届かない区間があることを覚悟しておきましょう。",
+      "tips": [
+        "スヴァネティやジョージア軍用道路を通ってカズベギへ向かう前には、オフラインマップをダウンロードし、宿泊先やドライバーの連絡先を保存しておきましょう。道中、電波が届かない区間があるかもしれません。",
+        "Silknetの旅行者向けパッケージにはいくつかの期間が用意されているので、山岳地帯への旅行の最終日に期限切れにならないよう、滞在期間全体をカバーできるものを選びましょう。",
+        "アルメニア、トルコ、アゼルバイジャンへと旅を続ける場合は、その国もカバーするプランが必要になるので、国境を越える前にカバレッジ一覧を確認しておきましょう。"
+      ]
+    },
+    "es": {
+      "intro": "Georgia cuenta con tres redes móviles: Magti, Silknet y Cellfie. Tanto Silknet como Cellfie venden una eSIM en sus propios sitios web, y Silknet ofrece paquetes turísticos de 3 a 30 días que se activan desde la app My Silknet o con el código *017#. Una eSIM de viaje de un proveedor internacional funciona sobre estas mismas redes, así que conviene comprobar cuál de ellas utiliza antes de comprarla.",
+      "coverage": "La señal es más fuerte en Tiflis, Batumi, Kutaisi y las localidades situadas a lo largo de las principales autopistas, y Magti anuncia cobertura 5G y la red más amplia del país. En las montañas, en los alrededores de Mestia, en Svaneti, y en la carretera que sube hacia Stepantsminda y Gudauri, la cobertura depende del valle y de la operadora, por lo que hay que contar con tramos sin señal en los trayectos largos.",
+      "tips": [
+        "Descarga mapas sin conexión y guarda los contactos de tu alojamiento y conductor antes de adentrarte en Svaneti o de subir por la Carretera Militar Georgiana hacia Kazbegi, por si parte del trayecto se queda sin señal.",
+        "Los paquetes turísticos de Silknet vienen en varias duraciones; elige uno que cubra toda tu estancia para que no caduque el último día de una excursión por las montañas.",
+        "Si el viaje continúa hacia Armenia, Turquía o Azerbaiyán, necesitarás un plan que también cubra ese país, así que revisa la lista de cobertura antes de cruzar la frontera."
+      ]
+    },
+    "zh": {
+      "intro": "格鲁吉亚共有三家移动网络运营商:Magti、Silknet 和 Cellfie。Silknet 和 Cellfie 都在各自官网上出售 eSIM,其中 Silknet 还推出了为期 3 到 30 天不等的旅游套餐,可以通过 My Silknet 应用程序或拨打代码 *017# 来激活使用。国际卖家提供的旅行 eSIM 也是接入这几家本地网络的,购买前请先确认具体接入的是哪一家。",
+      "coverage": "信号在第比利斯、巴统、库塔伊西以及主要公路沿线的城镇最为稳定,其中 Magti 宣传其拥有 5G 网络以及全国最广的覆盖范围。而在山区,比如斯瓦涅季的梅斯蒂亚附近,以及通往斯特潘茨明达和古达乌里的公路上,信号好坏要看具体山谷和运营商,长途驾车时要做好一段路程没有信号的心理准备。",
+      "tips": [
+        "在前往斯瓦涅季或沿格鲁吉亚军用公路前往卡兹别吉之前,先下载离线地图,并保存好民宿和司机的联系方式,以防途中部分路段没有信号。",
+        "Silknet 的旅游套餐有多种时长可选,建议选择能覆盖你整个行程的套餐,以免在山区行程的最后一天套餐就到期失效。",
+        "如果行程会继续延伸到亚美尼亚、土耳其或阿塞拜疆,就需要一个也能覆盖该国的套餐,过境前请先查看覆盖范围列表。"
+      ]
+    },
+    "_srcHash": "0cd4d912102b8300"
   }
 }

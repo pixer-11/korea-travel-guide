@@ -407,6 +407,108 @@
     "zh": "圣灵降临节星期一",
     "es": "Lunes de Pentecostés"
   },
+  "Georgia|Christmas Day": {
+    "ko": "성탄절(정교회)",
+    "ja": "クリスマス(正教会)",
+    "es": "Navidad ortodoxa",
+    "zh": "东正教圣诞节"
+  },
+  "Georgia|Day of Family Sanctity and Respect for Parents": {
+    "ko": "가족 신성일 및 부모 공경의 날",
+    "ja": "家族の神聖と両親への敬意の日",
+    "es": "Día de la Santidad de la Familia y el Respeto a los Padres",
+    "zh": "家庭圣洁与敬老日"
+  },
+  "Georgia|Day of Victory over Fascism": {
+    "ko": "파시즘 승리의 날",
+    "ja": "対ファシズム戦勝記念日",
+    "es": "Día de la Victoria sobre el Fascismo",
+    "zh": "反法西斯战争胜利日"
+  },
+  "Georgia|Dormition of the Mother of God": {
+    "ko": "성모 안식 축일(마리아모바)",
+    "ja": "生神女就寝祭",
+    "es": "Dormición de la Madre de Dios",
+    "zh": "圣母安息节"
+  },
+  "Georgia|Easter Monday": {
+    "ko": "부활절 월요일",
+    "ja": "復活大祭翌月曜日",
+    "es": "Lunes de Pascua",
+    "zh": "复活节星期一"
+  },
+  "Georgia|Easter Sunday": {
+    "ko": "부활절",
+    "ja": "復活大祭",
+    "es": "Domingo de Pascua",
+    "zh": "复活节"
+  },
+  "Georgia|Epiphany": {
+    "ko": "주현절(신현 축일)",
+    "ja": "神現祭",
+    "es": "Epifanía",
+    "zh": "主显节"
+  },
+  "Georgia|Good Friday": {
+    "ko": "성금요일",
+    "ja": "聖大金曜日",
+    "es": "Viernes Santo",
+    "zh": "耶稣受难日"
+  },
+  "Georgia|Holiday of Svetitskhovloba, Robe of Jesus": {
+    "ko": "스베티츠호블로바(그리스도 성의 축일)",
+    "ja": "スヴェティツホヴロバ(キリストの聖衣の祭日)",
+    "es": "Svetitsjovloba (fiesta de la Túnica de Cristo)",
+    "zh": "基督圣袍节(姆茨赫塔节)"
+  },
+  "Georgia|Holy Saturday": {
+    "ko": "성토요일",
+    "ja": "聖大土曜日",
+    "es": "Sábado Santo",
+    "zh": "圣周六"
+  },
+  "Georgia|Independence Day": {
+    "ko": "독립기념일",
+    "ja": "独立記念日",
+    "es": "Día de la Independencia",
+    "zh": "独立日"
+  },
+  "Georgia|International Women's Day": {
+    "ko": "세계 여성의 날",
+    "ja": "国際女性デー",
+    "es": "Día Internacional de la Mujer",
+    "zh": "国际妇女节"
+  },
+  "Georgia|Mother's Day": {
+    "ko": "어머니의 날",
+    "ja": "母の日",
+    "es": "Día de la Madre",
+    "zh": "母亲节"
+  },
+  "Georgia|National Unity Day": {
+    "ko": "국가 통합의 날",
+    "ja": "国民統一の日",
+    "es": "Día de la Unidad Nacional",
+    "zh": "民族团结日"
+  },
+  "Georgia|New Year's Day": {
+    "ko": "신정",
+    "ja": "元日",
+    "es": "Año Nuevo",
+    "zh": "元旦"
+  },
+  "Georgia|Saint Andrew's Day": {
+    "ko": "성 안드레아의 날",
+    "ja": "聖アンデレの日",
+    "es": "Día de San Andrés",
+    "zh": "圣安德烈节"
+  },
+  "Georgia|Saint George's Day": {
+    "ko": "성 게오르기의 날(기오르고바)",
+    "ja": "聖ギオルギの日",
+    "es": "Día de San Jorge",
+    "zh": "圣乔治节"
+  },
   "Germany|Ascension Day": {
     "ko": "예수 승천 대축일",
     "ja": "キリスト昇天祭",

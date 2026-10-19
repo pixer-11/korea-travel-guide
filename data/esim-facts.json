@@ -421,5 +421,20 @@
       "Download offline maps and save your camp and driver contacts before leaving Ulaanbaatar for the Gobi, Kharkhorin or Lake Khuvsgul, in case part of the drive has no signal.",
       "Olgii and Khovd in the far west run one hour behind Ulaanbaatar, so check the local time on flights and tour pick-ups when you travel between the two."
     ]
+  },
+  "georgia": {
+    "name": "Georgia",
+    "carriers": [
+      "Magti",
+      "Silknet",
+      "Cellfie"
+    ],
+    "intro": "Georgia has three mobile networks: Magti, Silknet and Cellfie. Silknet and Cellfie both sell an eSIM on their own websites, and Silknet runs tourist packages from 3 to 30 days that you switch on in the My Silknet app or with the code *017#. A travel eSIM from an international seller rides on these same networks; check which one it names before you buy.",
+    "coverage": "Signal is strongest in Tbilisi, Batumi, Kutaisi and the towns along the main highways, and Magti advertises 5G and the widest coverage in the country. In the mountains, around Mestia in Svaneti and on the road up to Stepantsminda and Gudauri, coverage depends on the valley and the network, so expect stretches without signal on long drives.",
+    "tips": [
+      "Download offline maps and save your guesthouse and driver contacts before heading into Svaneti or up the Georgian Military Road to Kazbegi, in case part of the drive has no signal.",
+      "Silknet's tourist packages come in several lengths; pick one that covers your whole stay so it does not lapse on the last day of a mountain trip.",
+      "A trip that carries on into Armenia, Turkey or Azerbaijan needs a plan that covers that country too, so check the coverage list before you cross the border."
+    ]
   }
 }

@@ -178,6 +178,7 @@ export const KLOOK_CITY: Record<string, KlookCity> = {
   "Baguio": { id: 365498, slug: 'baguio', country: "Philippines" },
   "Bath": { id: 374, slug: 'bath', country: "United Kingdom" },
   "Belfast": { id: 291, slug: 'belfast', country: "United Kingdom" },
+  "Batumi": { id: 22140, slug: 'batumi', country: "Georgia" }, // 2026-10-19: in the en-US, ko, ja, es and zh-cn city sitemaps
   "Berlin": { id: 103, slug: 'berlin', country: "Germany" },
   "Brisbane": { id: 70, slug: 'brisbane', country: "Australia" },
   "Bursa": { id: 29490, slug: 'bursa', country: "Turkey" },
@@ -202,6 +203,7 @@ export const KLOOK_CITY: Record<string, KlookCity> = {
   "Fremantle": { id: 702822, slug: 'fremantle', country: "Australia" },
   "Genoa": { id: 321, slug: 'genoa', country: "Italy" },
   "Glasgow": { id: 294, slug: 'glasgow', country: "United Kingdom" },
+  "Gori": { id: 29792, slug: 'gori', country: "Georgia" }, // 2026-10-19: c29792-gori in the en-US, ko, ja, es and zh-cn city sitemaps; the page is Gori in Shida Kartli
   "Gold Coast": { id: 72, slug: 'gold-coast', country: "Australia" },
   "Guanajuato": { id: 26421, slug: 'guanajuato', country: "Mexico" },
   "Gurugram": { id: 15743, slug: 'gurugram', country: "India" },
@@ -229,6 +231,7 @@ export const KLOOK_CITY: Record<string, KlookCity> = {
   "Melbourne": { id: 69, slug: 'melbourne', country: "Australia" },
   "Mexico City": { id: 5238, slug: 'mexico-city', country: "Mexico" },
   "Munich": { id: 118, slug: 'munich', country: "Germany" },
+  "Mtskheta": { id: 21188, slug: 'mtskheta', country: "Georgia" }, // 2026-10-19: in the en-US, ko, ja, es and zh-cn city sitemaps
   "Naha": { id: 13641, slug: 'naha', country: "Japan" },
   "Nantes": { id: 223132, slug: 'nantes', country: "France" },
   "Nashville": { id: 71287, slug: 'nashville', country: "United States" },
@@ -266,6 +269,7 @@ export const KLOOK_CITY: Record<string, KlookCity> = {
   "Takayama": { id: 9316, slug: 'takayama', country: "Japan" },
   "Tangerang": { id: 30210, slug: 'tangerang', country: "Indonesia" },
   "Tashkent": { id: 4494, slug: 'tashkent', country: "Uzbekistan" },
+  "Tbilisi": { id: 453, slug: 'tbilisi', country: "Georgia" }, // 2026-10-19: in the en-US, ko, ja, es and zh-cn city sitemaps
   "Toulouse": { id: 206478, slug: 'toulouse', country: "France" },
   "Tulum": { id: 17463, slug: 'tulum', country: "Mexico" },
   "Ubud": { id: 703018, slug: 'ubud', country: "Indonesia" },
