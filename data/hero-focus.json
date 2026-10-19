@@ -6294,5 +6294,21 @@
    "x": 50,
    "y": 50
   }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Alc%C3%A1zar_Seville_April_2019-11.jpg/3840px-Alc%C3%A1zar_Seville_April_2019-11.jpg": {
+  "w": 3840,
+  "h": 3840,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/2024-10-18_Ulaanbaatar_1.jpg/3840px-2024-10-18_Ulaanbaatar_1.jpg": {
+  "w": 3840,
+  "h": 2560,
+  "focus": {
+   "x": 35,
+   "y": 45
+  }
  }
 }

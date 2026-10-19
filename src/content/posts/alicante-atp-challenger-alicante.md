@@ -29,6 +29,16 @@ faq:
     a: Popular options include Castillo de Santa Bárbara on Mount Benacantil, the Explanada de España promenade, the Barrio de Santa Cruz old quarter, the MARQ archaeology museum and Mercado Central. November 1 is All Saints' Day, a national holiday, so some shops close that day.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Mahesh_Bhupathi_and_Rohan_Bopanna_at_the_ATP_World_Tennis_Finals.jpg/3840px-Mahesh_Bhupathi_and_Rohan_Bopanna_at_the_ATP_World_Tennis_Finals.jpg
+  credit: 'Photo: David Jones / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Mahesh_Bhupathi_and_Rohan_Bopanna_at_the_ATP_World_Tennis_Finals.jpg
+  focus:
+    x: 66
+    'y': 18
+    top: 10
+    bottom: 25
 ---
 
 ## Eight days of tennis by the Mediterranean

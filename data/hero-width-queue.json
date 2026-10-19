@@ -2777,55 +2777,59 @@
   "tbilisi-holy-trinity-cathedral-of-tbilisi\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sameba_Cathedral%2C_Courtyard%2C_Holy_Trinity_Cathedral%2C_Tbilisi%2C_Georgia.jpg/3840px-Sameba_Cathedral%2C_Courtyard%2C_Holy_Trinity_Cathedral%2C_Tbilisi%2C_Georgia.jpg": 3840,
   "tbilisi-mtatsminda-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Mtatsminda_park_January_2013_11.jpg/1920px-Mtatsminda_park_January_2013_11.jpg": 1920,
   "mtskheta-samtavro-s-convent\u0001https://upload.wikimedia.org/wikipedia/commons/1/14/Samtavro%27s_Convent_-_55359276207.jpg": 3000,
-  "tskaltubo-prometheus-cave-natural-monument\u0001https://upload.wikimedia.org/wikipedia/commons/a/ab/Prometheus_Cave_Natural_Monument.jpg": 3543
+  "tskaltubo-prometheus-cave-natural-monument\u0001https://upload.wikimedia.org/wikipedia/commons/a/ab/Prometheus_Cave_Natural_Monument.jpg": 3543,
+  "alicante-atp-challenger-alicante\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Mahesh_Bhupathi_and_Rohan_Bopanna_at_the_ATP_World_Tennis_Finals.jpg/3840px-Mahesh_Bhupathi_and_Rohan_Bopanna_at_the_ATP_World_Tennis_Finals.jpg": 3840,
+  "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Doubles_at_the_ATP_Finals_%2849070833022%29.jpg/3840px-Doubles_at_the_ATP_Finals_%2849070833022%29.jpg": 3840,
+  "puerto-princesa-ironman-70-3-puerto-princesa\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/IRONMAN_70.3_Hradec_Kralove_2024_4_c%C3%ADlov%C3%A1_rovinka.jpg/1920px-IRONMAN_70.3_Hradec_Kralove_2024_4_c%C3%ADlov%C3%A1_rovinka.jpg": 1920,
+  "nuremberg-nuremberg-christkindlesmarkt\u0001https://upload.wikimedia.org/wikipedia/commons/f/fb/Christkindlesmarkt_Nuernberg.jpg": 1840
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
    "width": 1080,
-   "attempts": 11,
-   "nextTry": "2026-10-19",
+   "attempts": 12,
+   "nextTry": "2026-10-26",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "ajman-souryana-restaurant-and-cafe": {
    "width": 1100,
-   "attempts": 11,
-   "nextTry": "2026-10-19",
+   "attempts": 12,
+   "nextTry": "2026-10-26",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "goa-fort-aguada": {
    "width": 960,
-   "attempts": 11,
-   "nextTry": "2026-10-19",
+   "attempts": 12,
+   "nextTry": "2026-10-26",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "hue-maison-trang": {
    "width": 1080,
-   "attempts": 11,
-   "nextTry": "2026-10-19",
+   "attempts": 12,
+   "nextTry": "2026-10-26",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "jeonju-jeonju-hanok-village-cafe-masirange": {
    "width": 1080,
-   "attempts": 11,
-   "nextTry": "2026-10-19",
+   "attempts": 12,
+   "nextTry": "2026-10-26",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "phuket-day-night-of-phuket": {
    "width": 1080,
-   "attempts": 11,
-   "nextTry": "2026-10-19",
+   "attempts": 12,
+   "nextTry": "2026-10-26",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "provence-lavender-sunflower-field": {
    "width": 1080,
-   "attempts": 11,
-   "nextTry": "2026-10-19",
+   "attempts": 12,
+   "nextTry": "2026-10-26",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
@@ -2838,8 +2842,8 @@
   },
   "el-nido-taraw-cliff": {
    "width": 960,
-   "attempts": 10,
-   "nextTry": "2026-10-19",
+   "attempts": 11,
+   "nextTry": "2026-10-26",
    "flaggedAt": "2026-08-10",
    "lastResult": "no-wider"
   },
@@ -3291,5 +3295,5 @@
    "flaggedAt": "2026-10-18"
   }
  },
- "updated": "2026-10-19T16:37:51.587Z"
+ "updated": "2026-10-19T23:13:29.591Z"
 }
