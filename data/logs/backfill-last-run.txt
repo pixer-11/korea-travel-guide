@@ -1,8 +1,10 @@
 Places 예산: backfill 몫 25회 (오늘 사용 10/100)
 Priority: 251 itinerary stop(s) queued first
-  – pai-pai-walking-street.md: nothing new (resting 60d)
-  – fremantle-wa-maritime-museum.md: nothing new (resting 60d)
-  – inverness-ness-islands.md: nothing new (resting 60d)
-  – nuremberg-kongresshalle.md: nothing new (resting 60d)
+  – monterrey-faro-de-comercio.md: nothing new (resting 60d)
+  – oaxaca-mercado-benito-juarez.md: nothing new (resting 60d)
+  – palm-jumeirah-the-palm-fountain.md: nothing new (resting 60d)
+  – liverpool-the-three-graces.md: nothing new (resting 60d)
+  – oxford-the-university-parks.md: nothing new (resting 60d)
+  – sunshine-coast-kondalilla-national-park.md: nothing new (resting 60d)
 
-BACKFILL RESULT: updated 0, backlog-updated 0, already-complete 1458, no-new-data 675, no-place 874, closed-quarantined 0, quota-429 0, api-error 0, api-calls 4, remaining-askable 0 (APPLIED).
+BACKFILL RESULT: updated 0, backlog-updated 0, already-complete 1463, no-new-data 680, no-place 938, closed-quarantined 0, quota-429 0, api-error 0, api-calls 6, remaining-askable 0 (APPLIED).
