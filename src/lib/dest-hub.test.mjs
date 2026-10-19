@@ -123,3 +123,11 @@ test('cityHeroForDay: a place photo first, then a local festival, never a perfor
   assert.equal(cityHeroForDay([{ ...mud, data: { ...mud.data, heroImage: { url: 'https://x/p.jpg', license: 'placeholder' } } }], () => null, day), null);
   assert.equal(cityHeroForDay([mud], () => 640, day), null);
 });
+
+test('anyEventHero: the last resort takes any real event photo, never a placeholder', async () => {
+  const { anyEventHero } = await import('./dest-hub.mjs');
+  const gig = { id: 'b-gig', data: { category: 'event', eventPerformer: { name: 'X' }, heroImage: { url: 'https://x/g.jpg', license: 'wikimedia' } } };
+  const ph = { id: 'a-ph', data: { category: 'event', heroImage: { url: 'https://x/placeholder.jpg' } } };
+  assert.equal(anyEventHero([ph, gig])?.id, 'b-gig');
+  assert.equal(anyEventHero([ph]), null);
+});

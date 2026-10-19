@@ -62,6 +62,34 @@ const TARGETS = {
 
 const table = existsSync(OUT) ? JSON.parse(readFileSync(OUT, 'utf8')) : {};
 
+// Picks a human removed, by file title. The city hubs began opening on these
+// covers on 2026-10-20 and the first look found seven of thirty-nine wrong:
+// Motegi was a photo of Japan's foreign minister Motegi Toshimitsu with
+// Bolsonaro, Indian Wells a 1747 map of the Carolinas, Alicante a building in
+// Singapore, San Sebastián a church in the Azores, Lucca an engraved map,
+// Saint-Cloud a Munch painting, Klang a Kuala Lumpur road. Each slipped through
+// a check below that has since been tightened; this list keeps the exact files
+// out even if a looser rule ever comes back.
+const REJECTED = new Set([
+  'File:Brazil President Jair Bolsonaro with Motegi Toshimitsu, Japan Minister of Foreign Affairs of Japan.jpg',
+  'File:1747 Bowen Map of the Southeastern United States (Carolina, Georgia, Florida) - Geographicus - CarolinaGeorgia-bowen-1747.jpg',
+  'File:Ten Square, Landmark of Good, Singapur, 2023-08-17, DD 97.jpg',
+  'File:Iglesia de San Sebastián, Ponta Delgada, isla de San Miguel, Azores, Portugal, 2020-07-29, DD 117-119 HDR.jpg',
+  'File:Das gros hertzogthum Florentz und die Republic Lucca - gestochen und su finden bey Johann George Schreibern in Leipzig. (to (IA dr das-gros-hertzogthum-florentz-und-die-republic-lucca-gestochen-und-su-fin-11208028).jpg',
+  'File:Edvard Munch - The Seine at Saint-Cloud - Google Art Project.jpg',
+  'File:Jalan Klang Lama (Malaysia Federal Highway 2), Taman Skyline 20240221 113002.jpg',
+]);
+for (const [region, v] of Object.entries(table)) if (REJECTED.has(v?.source)) delete table[region];
+
+// The words a file name must not be matched on: the generic halves of the
+// auto-discovered queries ("landmark", "skyline", the country) matched
+// "Ten Square, Landmark of Good, Singapur" for Alicante and "…Southeastern
+// United States…" for Indian Wells.
+const GENERIC = new Set(['landmark', 'skyline', 'city', 'hall', 'county', 'coastline', 'street', 'photograph', 'exterior', 'aerial', 'view',
+  'united', 'states', 'kingdom', 'republic', 'philippines', 'indonesia', 'malaysia', 'thailand', 'vietnam', 'taiwan', 'japan', 'china', 'india',
+  'france', 'spain', 'italy', 'germany', 'korea', 'south', 'north', 'california', 'virginia', 'jersey']);
+const fold = (s) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[Đđ]/g, 'd').toLowerCase().replace(/[-_,.()]/g, ' ').replace(/\s+/g, ' ').trim();
+
 // A hand-written TARGETS table cannot keep up with the tour calendar. Every
 // time the event discovery adds a concert city whose only guide is a photoless
 // show, that city's tile goes black and the design audit asks a human to come
@@ -71,6 +99,7 @@ const table = existsSync(OUT) ? JSON.parse(readFileSync(OUT, 'utf8')) : {};
 // shape we know (landmark words first, bare city name last), and every pick
 // still has to pass the same identity, date, medium and licence checks below.
 // TARGETS stays, and wins, because a hand-picked landmark beats a guess.
+const regionCountry = new Map();
 function darkRegions() {
   const DIR = 'src/content/posts';
   const byRegion = new Map();
@@ -88,6 +117,7 @@ function darkRegions() {
   }
   const out = {};
   for (const [region, r] of byRegion) {
+    regionCountry.set(region, r.country);
     if (r.hero || table[region] || TARGETS[region]) continue;
     out[region] = [
       `${region} ${r.country} landmark`,
@@ -137,13 +167,25 @@ for (const [region, queries] of Object.entries({ ...TARGETS, ...auto })) {
       // No word boundary on purpose: "c1845" (circa-dates on painting scans)
       // slipped past \b(18|19)\d{2}\b and put an 1845 château engraving on the
       // Saint-Cloud tile (second catch, 2026-08-09).
-      if (/(18|19)\d{2}/.test(title)) continue;
-      if (/anonymous|painting|engraving|drawing|lithograph|postcard|woodcut/i.test(title)) continue;
-      // identity: the FILE NAME must mention the city (not just the query)
-      const city = region.split(' ')[0].toLowerCase().replace('-', '');
-      const norm = title.toLowerCase().replace(/[-_]/g, '');
-      const landmark = queries.some((qq) => qq.toLowerCase().split(' ').some((w) => w.length > 5 && norm.includes(w)));
-      if (!norm.includes(city) && !landmark) continue;
+      // 1[5-9]xx, not just 18xx/19xx: a "1747 … Map" sat on Indian Wells.
+      if (REJECTED.has(title) || /1[5-9]\d{2}/.test(title)) continue;
+      if (/anonymous|painting|engraving|drawing|lithograph|postcard|woodcut|\bmaps?\b|art project|gestochen|illustration|\bprint\b/i.test(title)) continue;
+      // A city tile is a place, not people: "…President … with Motegi Toshimitsu, … Minister…".
+      if (/president|minister|prime|governor|mayor|meeting|portrait|\bwith\b|ceremony|visit/i.test(title)) continue;
+      // identity: the FILE NAME must carry the WHOLE city name (not its first
+      // word — "San" Sebastián, "Klang" Lama), or a landmark word from a
+      // hand-written TARGETS query; generic query words never count.
+      const norm = fold(title);
+      const city = fold(region);
+      const hand = TARGETS[region] ?? [];
+      const landmark = hand.some((qq) => fold(qq).split(' ').some((w) => w.length > 5 && !GENERIC.has(w) && !fold(region).split(' ').includes(w) && norm.includes(w)));
+      if (!new RegExp(`(^| )${city.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}( |$)`).test(norm) && !landmark) continue;
+      // The same spelling elsewhere: "Iglesia de San Sebastián, Ponta Delgada, … Azores, Portugal".
+      const country = regionCountry.get(region) ?? '';
+      const OTHER = /portugal|azores|singapur|singapore|brasil|brazil|mexico|argentina|chile|colombia|peru|philippines|usa|united states|canada|australia/;
+      const own = fold(country);
+      const m = norm.match(OTHER);
+      if (m && !own.includes(m[0]) && !(own === 'united states' && /usa|united states/.test(m[0]))) continue;
       const info = await get({
         action: 'query', titles: title, prop: 'imageinfo',
         iiprop: 'url|size|extmetadata', iiurlwidth: 1280,

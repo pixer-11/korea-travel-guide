@@ -18,7 +18,8 @@ import { localizePlace } from '../i18n/places';
 import { getRegionInfo } from '../i18n/regions';
 import { buildRoundups } from '../lib/roundups.mjs';
 import { pickOgPhoto, heroWidth } from '../lib/ogPhoto.mjs';
-import { cityHeroForDay } from '../lib/dest-hub.mjs';
+import { cityHeroForDay, anyEventHero } from '../lib/dest-hub.mjs';
+import regionCovers from '../../data/region-covers.json';
 import { buildToday } from '../lib/eventStatus';
 import { wikimediaThumb } from '../lib/wikimediaThumb.mjs';
 import { shortPlaceLabel } from '../lib/placeLabel.mjs';
@@ -201,18 +202,26 @@ const ogPhoto = pickOgPhoto(posts);
 // 09-24 and every one of the 446 city hubs on a bare heading — "보령이 사진이
 // 없는 게 말이 되나" (owner). Same picker, same daily rotation, same image
 // chain (our mirror → 1280px thumb → the stored original) as DestinationHub.
-const heroPost = cityHeroForDay(posts, heroWidth, buildToday());
-const heroUrl: string = heroPost?.data.heroImage?.url ?? '';
+// A city whose guides are all concerts or races takes the verified city photo
+// from data/region-covers.json, then — the owner's ruling for tiles — any event
+// hero rather than a bare heading.
+const placeHero = cityHeroForDay(posts, heroWidth, buildToday());
+const cover = placeHero ? null : ((regionCovers as Record<string, any>)[region]?.url ? (regionCovers as Record<string, any>)[region] : null);
+const heroPost = placeHero ?? (cover ? null : anyEventHero(posts));
+const heroUrl: string = cover?.url ?? heroPost?.data.heroImage?.url ?? '';
 const heroMirror = (ogMirror as Record<string, string | null>)[heroUrl.trim()] || '';
 const heroDisplay = heroUrl
   ? wikimediaThumb(heroUrl, 1280).replace(/(fastly\.4sqi\.net\/img\/general\/)original\//, '$1width1200/')
   : '';
 const heroSrc = heroMirror || heroDisplay || heroUrl;
 const heroName = heroPost ? (shortPlaceLabel(cardTitle(heroPost), lang) || heroPost.data.place?.name || cardTitle(heroPost)) : '';
-const heroAlt = heroPost ? `${heroName} — ${regionLabel}` : '';
+const heroAlt = heroPost ? `${heroName} — ${regionLabel}` : cover ? regionLabel : '';
 const heroFocus = heroPost?.data.heroImage?.focus;
-const heroCredit = heroPost?.data.heroImage?.credit ?? '';
-const heroSource = heroPost?.data.heroImage?.source ?? '';
+const heroCredit = cover?.credit ?? heroPost?.data.heroImage?.credit ?? '';
+const coverSource = typeof cover?.source === 'string' && cover.source.startsWith('File:')
+  ? `https://commons.wikimedia.org/wiki/${encodeURI(cover.source.replace(/ /g, '_'))}`
+  : (cover?.source ?? '');
+const heroSource = cover ? coverSource : (heroPost?.data.heroImage?.source ?? '');
 
 // Which roundups this city actually HAS, from the same builder that creates the
 // pages. The link used to be gated on this hub's own count of one category, so a

@@ -168,6 +168,19 @@ export function cityHeroForDay(posts, widthOf = () => null, day = new Date()) {
 }
 
 /**
+ * Last resort, after cityHeroForDay and the verified city photo in
+ * data/region-covers.json: any event hero. The owner ruled on the Philippines
+ * hub that a dark empty box says even less than a concert photo (see
+ * lib/repImage.ts); the moment the city gets one venue guide, that wins.
+ * @param {any[]} posts
+ */
+export function anyEventHero(posts) {
+  return (posts ?? [])
+    .filter((p) => p?.data?.category === 'event' && p.data.heroImage?.url && !NOT_A_PLACE_PHOTO.has(p.data.heroImage.license) && !p.data.heroImage.url.includes('placeholder'))
+    .sort((a, b) => String(a.id).localeCompare(String(b.id)))[0] ?? null;
+}
+
+/**
  * @param {any[]} posts
  * @param {(post: any) => number | null} [widthOf]
  */

@@ -24,9 +24,10 @@ import { clip } from '../lib/clip.mjs';
 import { eventSchemaName } from '../lib/eventName';
 import { shortPlaceLabel } from '../lib/placeLabel.mjs';
 import { thumbOr } from '../lib/wall';
+import { tileSize, regionCoverUrl } from '../lib/repImage';
 import { wikimediaThumb } from '../lib/wikimediaThumb.mjs';
 import ogMirror from '../../data/og-mirror.json';
-import { bestMonths, eventCounts, citiesByGuideCount, topVenues, pickHubHero, hubHeroForDay } from '../lib/dest-hub.mjs';
+import { bestMonths, eventCounts, citiesByGuideCount, topVenues, pickHubHero, hubHeroForDay, cityHeroForDay, anyEventHero } from '../lib/dest-hub.mjs';
 import { destHubT } from '../i18n/dest-hub-strings';
 import { monthKeyUTC, nextMonthUTC, prevMonthUTC } from '../lib/readerMonth';
 
@@ -88,8 +89,14 @@ const topCities = cities.slice(0, 3);
 // card keeps its tint (owner request 2026-09-24: cards need photos).
 const cityPhoto = (region: string, big: boolean) => {
   // Landmark photos first, rotating daily like the header (hubHeroForDay).
-  const p = hubHeroForDay(posts.filter((x) => x.data.region === region), heroWidth, now);
-  const url: string = p?.data.heroImage?.url ?? '';
+  // A city with only a local festival gets its photo (cityHeroForDay, 2026-10-20 Boryeong).
+  // Then the verified city photo, then any event hero — the same order as the
+  // city hub's header and the regions index (pickRepHeroUrl).
+  const list = posts.filter((x) => x.data.region === region);
+  const p = cityHeroForDay(list, heroWidth, now);
+  const cover = p ? '' : regionCoverUrl(region);
+  if (cover) return big ? cover : tileSize(cover);
+  const url: string = (p ?? anyEventHero(list))?.data.heroImage?.url ?? '';
   if (!url) return '';
   if (!big) return thumbOr(url) || '';
   const mirror = (ogMirror as Record<string, string | null>)[url.trim()] || '';
