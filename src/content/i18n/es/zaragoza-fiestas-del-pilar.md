@@ -1,75 +1,75 @@
 ---
 lang: es
 slug: zaragoza-fiestas-del-pilar
-srcHash: '5382eab7ef52'
-title: 'Fiestas del Pilar en Zaragoza: fechas, entradas y escenarios'
-description: Las Fiestas del Pilar de Zaragoza se celebran del 10 al 18 de octubre de 2026. El 12 de octubre, festividad de la Virgen del Pilar, la Ofrenda de Flores llena la plaza del Pilar.
-quickAnswer: Las Fiestas del Pilar de Zaragoza se celebran del 10 al 18 de octubre de 2026. El 12 de octubre, festividad de la Virgen del Pilar, la Ofrenda de Flores llena la plaza del Pilar. La mayor parte de los actos tiene lugar al aire libre y no requiere entrada. Los conciertos y las corridas de toros, en cambio, se pagan aparte. Los horarios, los escenarios y la venta de entradas pueden consultarse en la web oficial del Ayuntamiento de Zaragoza.
+srcHash: '72a7462c503a'
+title: 'Fiestas del Pilar: fechas, entradas y escenarios (Zaragoza)'
+description: Las Fiestas del Pilar de Zaragoza estaban previstas del 10 al 18 de octubre de 2026. La Ofrenda de Flores en la plaza del Pilar era el 12 de octubre, festividad de la Virgen del Pilar.
+quickAnswer: Las Fiestas del Pilar de Zaragoza estaban previstas del 10 al 18 de octubre de 2026. La Ofrenda de Flores en la plaza del Pilar era el 12 de octubre, festividad de la Virgen del Pilar. Casi todo el programa callejero era gratuito y al aire libre, mientras que los conciertos y las corridas de toros tenían entrada aparte. Las fiestas las organiza el Ayuntamiento de Zaragoza.
 faq:
-  - q: ¿Cuándo son las Fiestas del Pilar en 2026?
-    a: Las fiestas comienzan el sábado 10 de octubre y terminan el domingo 18 de octubre de 2026. El día grande es el lunes 12 de octubre, festividad de la Virgen del Pilar y Fiesta Nacional de España. El programa definitivo se publica en la web oficial del Ayuntamiento de Zaragoza.
-  - q: ¿Hace falta entrada para la Ofrenda de Flores?
-    a: No. Para presenciar la Ofrenda en la plaza del Pilar no se necesita entrada, como tampoco para la mayoría de los actos callejeros. Algunos conciertos y las corridas de la Plaza de Toros de la Misericordia sí se pagan aparte, así que conviene consultar el programa oficial.
+  - q: ¿Qué fechas tenían las Fiestas del Pilar de 2026?
+    a: Las fiestas de 2026 estaban previstas del sábado 10 al domingo 18 de octubre. Su jornada principal era el lunes 12 de octubre, festividad de la Virgen del Pilar y Fiesta Nacional de España. El programa lo organiza el Ayuntamiento de Zaragoza.
+  - q: ¿Hacía falta entrada para la Ofrenda de Flores?
+    a: No. Para ver la Ofrenda en la plaza del Pilar no se necesitaba entrada, como tampoco para la mayoría de los actos callejeros. Algunos conciertos y las corridas en la plaza de toros de la Misericordia se vendían aparte.
   - q: ¿Cómo se llega a la plaza del Pilar?
-    a: Desde Madrid o Barcelona, el AVE llega a la estación de Zaragoza-Delicias en menos de 90 minutos. Ya en la ciudad, se puede ir andando o tomar la Línea 1 del tranvía hasta la parada Plaza del Pilar-Murallas. Durante buena parte de las fiestas se corta el tráfico en las calles del casco antiguo.
+    a: Los trenes AVE de alta velocidad llegan a Zaragoza-Delicias desde Madrid o Barcelona en menos de 90 minutos. Ya en la ciudad, la línea 1 del tranvía para en Plaza del Pilar-Murallas, y la plaza también queda a un paseo del centro. Las calles del casco antiguo suelen cerrarse al tráfico durante buena parte de las fiestas.
   - q: ¿Pueden los visitantes participar en la Ofrenda de Flores?
-    a: Sí. Lo habitual es hacerlo a través de un grupo inscrito. Mucha gente viste el traje regional aragonés, aunque no es obligatorio. La web oficial de las fiestas explica cómo participar.
+    a: Sí, normalmente uniéndose a un grupo registrado. El traje tradicional aragonés es muy habitual, aunque no obligatorio.
   - q: ¿Cuántos días conviene dedicar a las fiestas?
-    a: Lo mínimo recomendable son dos días completos. Uno puede reservarse para la Ofrenda del 12 de octubre y el otro para los desfiles, el casco antiguo y el manto de flores ya terminado. Así se evitan las peores aglomeraciones del día grande.
+    a: Lo habitual es un mínimo de dos días completos. Uno se dedica a la Ofrenda del 12 de octubre y otro a los desfiles, al casco antiguo y al manto de flores ya terminado. Ese segundo día permite librarse de lo peor de las aglomeraciones de la jornada grande.
 ---
 
 ## Nueve días de octubre
 
-Cada 12 de octubre, el casco antiguo de Zaragoza se llena de gente vestida con el traje regional aragonés y cargada de ramos de flores. Ellos llevan chaleco negro y pañuelo anudado a la cabeza; ellas, mantones bordados. Todos se dirigen a la misma plaza, a orillas del Ebro.
+Cada 12 de octubre, el casco antiguo de Zaragoza se llena de gente vestida con el traje tradicional aragonés y con los brazos cargados de flores. Ellos llevan chaleco negro y pañuelo anudado a la cabeza, y ellas, mantones bordados. Todos se dirigen a la misma plaza, a orillas del Ebro.
 
-Ese desfile es el corazón de las Fiestas del Pilar, la gran celebración anual de la ciudad. En 2026 se celebran del sábado 10 al domingo 18 de octubre. Giran en torno a la festividad de la Virgen del Pilar, patrona de Zaragoza.
+Ese recorrido es el corazón de las Fiestas del Pilar, la mayor celebración anual de Zaragoza. La edición de 2026 estaba prevista del sábado 10 al domingo 18 de octubre. Las fiestas giran en torno a la festividad de la Virgen del Pilar, patrona de la ciudad.
 
-En esos nueve días cabe de todo. Hay procesiones religiosas y actuaciones de jota, el baile popular aragonés. Los *gigantes y cabezudos*, enormes figuras de cartón piedra, recorren las calles. A ello se suman los conciertos, las peñas en plena actividad y los bares abiertos hasta altas horas de la noche.
+Los nueve días dan para mucho. El programa suele incluir procesiones religiosas y actuaciones de jota. Por las calles desfilan los *gigantes y cabezudos*, grandes figuras de cartón piedra, y tampoco faltan los conciertos, las peñas volcadas en la calle ni las noches largas en los bares.
 
 ## El 12 de octubre en la plaza del Pilar
 
-La Ofrenda de Flores es la cita en torno a la cual conviene organizar el viaje. Grupos llegados de todo Aragón, del resto de España y de Latinoamérica desfilan sin pausa hacia la plaza del Pilar. Cada uno entrega sus flores a los voluntarios, que las van colocando en una gran estructura levantada frente a la basílica del Pilar.
+La Ofrenda de Flores es la jornada grande de las fiestas. Uno tras otro, grupos llegados de todo Aragón, del resto de España y de Latinoamérica desfilan hasta la plaza del Pilar. Cada grupo entrega sus flores a los voluntarios, que las van colocando en una alta estructura instalada frente a la basílica del Pilar.
 
-Con el paso de las horas, las flores forman un inmenso manto alrededor de la imagen de la Virgen. La plaza es alargada y despejada, y a un lado se alzan las cúpulas de tejas de la basílica. Hay espacio de sobra para seguir el acto desde los márgenes, aunque el recorrido de la ofrenda está vallado.
+Con el paso de las horas, las flores acaban formando un enorme manto alrededor de la imagen de la Virgen. A un lado de la plaza, larga y despejada, se alzan las cúpulas de teja vidriada de la basílica. Queda así sitio para contemplar el desfile desde los bordes, aunque el recorrido de la procesión está vallado.
 
-El 12 de octubre es además la Fiesta Nacional de España, de modo que la ciudad alcanza entonces su máxima afluencia. En 2026 cae en lunes, por lo que el primer fin de semana se convierte en puente para muchos visitantes españoles.
+El 12 de octubre es además la Fiesta Nacional de España, por lo que la ciudad suele estar a rebosar. En 2026 caía en lunes, con lo que el fin de semana inaugural se convertía en puente para los visitantes españoles.
 
 ## Entradas, escenarios y actos gratuitos
 
-Las fiestas se viven sobre todo en la calle. Estos actos pueden verse sin entrada:
+Las fiestas se viven sobre todo en la calle. Estos actos no requerían entrada:
 
 - la Ofrenda de Flores en la plaza del Pilar
 - las procesiones y los desfiles de *gigantes y cabezudos*
 - las actuaciones de jota al aire libre
 - los fuegos artificiales de clausura sobre el Ebro
 
-Otros actos sí requieren entrada. Los conciertos de artistas destacados y las corridas de la Feria del Pilar en la Plaza de Toros de la Misericordia se venden por separado, cada uno con sus propios precios y condiciones. El programa, los escenarios y la venta de entradas deben consultarse en la web oficial de las Fiestas del Pilar, gestionada por el Ayuntamiento de Zaragoza. Tanto los escenarios como los horarios pueden variar de una edición a otra.
+Otros actos sí exigían entrada. Los conciertos de grandes figuras y las corridas de la Feria del Pilar en la plaza de toros de la Misericordia se vendían aparte, con sus propios precios y condiciones. El Ayuntamiento de Zaragoza organiza las fiestas, y tanto los escenarios como los horarios pueden variar de una edición a otra.
 
 ## Cómo llegar a Zaragoza y al casco antiguo
 
-Zaragoza se encuentra a medio camino entre Madrid y Barcelona en la línea de alta velocidad. Desde cualquiera de las dos ciudades, el AVE llega a la estación de Zaragoza-Delicias en menos de 90 minutos. De allí salen autobuses y taxis hacia el centro. Durante las fiestas, sin embargo, resulta más cómodo moverse por el centro a pie que en coche.
+Zaragoza queda a medio camino entre Madrid y Barcelona en la línea de alta velocidad. Desde cualquiera de las dos ciudades, el AVE llega a la estación de Zaragoza-Delicias en menos de 90 minutos. De Delicias salen autobuses y taxis hacia el centro, que durante las fiestas se recorre mejor a pie que en coche.
 
-La Línea 1 del tranvía atraviesa la ciudad de norte a sur. Tiene parada en Plaza del Pilar-Murallas, en el extremo occidental de la plaza. Durante casi todas las fiestas habrá cortes de tráfico en el casco antiguo, sobre todo el 12 de octubre.
+La línea 1 del tranvía cruza la ciudad de norte a sur y para en Plaza del Pilar-Murallas, en el extremo occidental de la plaza. Las calles del casco antiguo suelen cerrarse al tráfico durante casi todos los nueve días, y sobre todo el 12 de octubre.
 
-Conviene reservar el alojamiento con antelación. Los hoteles cercanos a la basílica se llenan enseguida durante el fin de semana del Pilar, y muchos visitantes optan por alojarse en Delicias o al otro lado del río.
+Los hoteles próximos a la basílica suelen llenarse enseguida el fin de semana del Pilar. Alojarse en Delicias o en la otra orilla del río es una alternativa habitual.
 
-## Cómo sobrellevar las multitudes de la Ofrenda
+## Cómo sobrellevar el gentío de la Ofrenda
 
-La Ofrenda dura desde la mañana hasta la noche, así que no hace falta pelearse por un momento concreto. Lo mejor es buscar un sitio alejado del acceso principal a la plaza. Las calles laterales próximas a la catedral de La Seo suelen estar más tranquilas que la esquina por la que entran los grupos.
+La Ofrenda suele prolongarse desde la mañana hasta la noche, así que no hay un único momento por el que pelear. Las calles laterales junto a la catedral de La Seo suelen estar más tranquilas que la esquina por donde los grupos entran en la plaza.
 
-Algunas costumbres ayudan:
+Algunas costumbres locales marcan la jornada:
 
-- **Deje pasar a los grupos.** Desfilan en formación detrás de sus estandartes, así que no cruce entre las filas de danzantes o de portadores de flores.
-- **Visite el manto después.** El manto de flores permanece montado varios días. Los zaragozanos vuelven el 13 y el 14 para contemplarlo terminado, sin las aglomeraciones de la ofrenda.
-- **Participe en lugar de solo mirar.** Los visitantes pueden sumarse a la Ofrenda inscribiéndose en un grupo registrado. El traje regional no es obligatorio, pero lo verá por todas partes.
-- **Cene tarde.** En España se come y se cena tarde, y durante las fiestas aún más. Los bares de El Tubo, el entramado de callejuelas de tapas situado al sur de la plaza, siguen llenos hasta bien entrada la noche.
+- **Las procesiones tienen preferencia.** Los grupos avanzan en formación detrás de sus estandartes, y el público no atraviesa las filas de danzantes ni de portadores de flores.
+- **El manto sigue en pie después.** Una vez terminado, el manto de flores permanece en su sitio varios días. Los zaragozanos vuelven el 13 y el 14 para verlo completo, sin las aglomeraciones de la propia ofrenda.
+- **Los visitantes pueden participar.** Cualquiera puede sumarse a la Ofrenda inscribiéndose en un grupo registrado. El traje tradicional no es obligatorio, pero se ve por todas partes.
+- **Se come tarde.** Los horarios españoles ya son tardíos de por sí, y las fiestas los retrasan todavía más. En El Tubo, el entramado de callejuelas de tapas al sur de la plaza, los bares siguen llenos hasta bien entrada la noche.
 
-En la mayoría de bares y tiendas se puede pagar con tarjeta. Aun así, conviene llevar algo de suelto para los puestos pequeños y para los vendedores ambulantes de *pañuelos*, que la gente se anuda al cuello.
+La mayoría de los bares y tiendas acepta tarjeta. Las monedas resultan prácticas en los puestos pequeños y con los vendedores ambulantes del *pañuelo* que tantos se anudan al cuello.
 
 ## Más allá de la plaza
 
-La fiesta se extiende por todo el casco antiguo, de modo que merece la pena reservar tiempo para recorrer las calles cercanas. Desde el Puente de Piedra, que cruza el Ebro, se obtiene la vista clásica de las torres de la basílica. En la propia plaza del Pilar se encuentran la Lonja, de estilo gótico renacentista, y la catedral de La Seo.
+Las fiestas se extienden por todo el casco antiguo, y sus calles también merecen una visita sin prisas. Desde el Puente de Piedra, sobre el Ebro, se disfruta de la vista clásica de las torres de la basílica. En la misma plaza del Pilar se levantan la Lonja, el antiguo edificio de contratación de estilo gótico-renacentista, y la catedral de La Seo.
 
-A poca distancia hacia el oeste, a pie o en autobús, se halla la Aljafería. Este palacio islámico del siglo XI, que hoy alberga las Cortes de Aragón, ofrece un remanso de calma frente al bullicio del centro.
+Hacia el oeste, a un corto paseo o trayecto en autobús, se encuentra la Aljafería. Este palacio islámico del siglo XI, hoy sede de las Cortes de Aragón, ofrece un remanso de calma frente al bullicio del centro.
 
-Para ver la Ofrenda y disfrutar de parte del resto del programa hacen falta al menos dos días completos. El último fin de semana culmina con los fuegos artificiales sobre el río, un broche a la altura de nueve días de fiesta.
+Con dos días completos da tiempo a ver la Ofrenda y algo más del programa. El de 2026 reservaba para el último fin de semana los fuegos artificiales sobre el río, un broche a la altura de nueve días de fiesta.

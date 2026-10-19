@@ -2,7 +2,7 @@
  "_note": "Per-topic search→post yield, written by scripts/generate.mjs (scripts/lib/topic-yield.mjs). Seeded 2026-08-23 from the 08-17..23 publish/bulk logs; counts halve past 200 so recent runs weigh more.",
  "topics": {
   "local restaurant": {
-   "attempts": 111,
+   "attempts": 124,
    "hits": 14
   },
   "historic site": {
@@ -46,7 +46,7 @@
    "hits": 54
   },
   "bookshop": {
-   "attempts": 42,
+   "attempts": 48,
    "hits": 6
   },
   "seafood": {
@@ -86,8 +86,8 @@
    "hits": 0
   },
   "top attraction": {
-   "attempts": 99,
-   "hits": 69
+   "attempts": 113,
+   "hits": 81
   },
   "grill": {
    "attempts": 55,
@@ -528,7 +528,103 @@
   "Benesse House Museum": {
    "attempts": 1,
    "hits": 1
+  },
+  "Narikala Fortress": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Russia–Georgia Friendship Monument": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Batonis Tsikhe": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Borjomi-Kharagauli National Park": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Chronicle of Georgia": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Sapara Monastery": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Mikhail Khergiani House Museum": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Gelati Monastery": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Tsinandali Estate": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Ali and Nino Statue": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Abanotubani Sulphur Baths": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Prometheus Cave": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Gergeti Trinity Church": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Uplistsikhe": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Batumi Botanical Garden": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Samtavro Monastery": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Gremi Citadel": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Bodbe Monastery": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Jvari Monastery": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Joseph Stalin Museum": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Gonio Fortress": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Bridge of Peace": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Mtatsminda Park": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Georgian National Museum": {
+   "attempts": 1,
+   "hits": 1
   }
  },
- "updated": "2026-10-19T08:17:41.194Z"
+ "updated": "2026-10-19T15:41:58.441Z"
 }

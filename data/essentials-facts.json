@@ -3347,6 +3347,629 @@
         }
       }
     },
+    "Georgia": {
+      "srcHash": "c4ba04acce53",
+      "en": {
+        "summary": [
+          {
+            "key": "entry",
+            "title": "Visa-free up to 1 year",
+            "sub": "95+ countries, most get 365 days per entry"
+          },
+          {
+            "key": "money",
+            "title": "Lari cash and cards",
+            "sub": "Cards work in cities, cash rules in villages"
+          },
+          {
+            "key": "season",
+            "title": "Spring or autumn best",
+            "sub": "Late April–early June or mid-Sept–early Nov"
+          },
+          {
+            "key": "transport",
+            "title": "Metromoney card",
+            "sub": "Tbilisi metro/bus fares from 1 GEL"
+          }
+        ],
+        "visa": {
+          "cards": [
+            {
+              "name": "Visa-free entry",
+              "code": "",
+              "who": "",
+              "cost": "Free",
+              "stay": "365 days (30 days for some, e.g. China)",
+              "note": "Per-entry clock: day you cross border is day one"
+            },
+            {
+              "name": "e-Visa",
+              "code": "",
+              "who": "Nationalities not on the visa-free list",
+              "cost": "$20 USD plus 2% service fee",
+              "stay": "Up to 90 days within 180-day period",
+              "note": "Processing min 5 working days; only for applicants outside Georgia"
+            }
+          ],
+          "warnings": [
+            {
+              "title": "2026 insurance requirement",
+              "text": "From Jan 1, 2026, visitors need health/accident insurance with at least 30,000 lari coverage for the whole stay."
+            },
+            {
+              "title": "Nightlife scams",
+              "text": "A friendly stranger may invite you to a bar where unordered drinks are added to an inflated bill."
+            }
+          ]
+        },
+        "transport": {
+          "rows": [],
+          "tips": [
+            {
+              "title": "Metromoney saves money",
+              "text": "A foreign bank card is charged about 1.50 GEL after conversion per tap, so a local Metromoney card saves money over multiple trips."
+            },
+            {
+              "title": "Unlimited travel cards",
+              "text": "1-day pass 3 GEL, 1 week 20 GEL, 1 month 40 GEL, 3 months 100 GEL, on a separate subscription card."
+            },
+            {
+              "title": "Mountain routes need a driver",
+              "text": "For Kazbegi or Svaneti, a licensed driver is strongly recommended given winding, unpredictable roads."
+            }
+          ]
+        },
+        "money": {
+          "budget": null,
+          "tips": [
+            {
+              "title": "Decline dynamic currency conversion",
+              "text": "At ATMs and terminals, it's usually better to pay or withdraw in GEL and let your own bank handle conversion."
+            },
+            {
+              "title": "Carry cash outside Tbilisi",
+              "text": "Credit cards may not be widely accepted in rural areas; cards work well in cities."
+            },
+            {
+              "title": "Declare large sums",
+              "text": "You must declare anything over 30,000 GEL or equivalent in foreign currency on entry and exit."
+            }
+          ]
+        },
+        "season": {
+          "best": [],
+          "rows": [
+            {
+              "label": "September–early October",
+              "sub": "Most recommended window",
+              "best": [
+                9,
+                10
+              ],
+              "busy": [],
+              "avoid": []
+            }
+          ]
+        },
+        "emergency": {
+          "numbers": [
+            {
+              "number": "112",
+              "label": "All emergencies",
+              "note": "Covers police, ambulance, fire, rescue; free even without SIM"
+            },
+            {
+              "number": "+995 32 227 7000",
+              "label": "U.S. Embassy Tbilisi",
+              "note": "For US citizens, after calling 112 first"
+            }
+          ],
+          "chips": [
+            "Avoid Abkhazia and South Ossetia",
+            "Decline stranger bar invitations",
+            "Wear seat belts",
+            "Avoid remote roads after dark",
+            "Use licensed drivers in mountains"
+          ]
+        }
+      },
+      "ko": {
+        "summary": [
+          {
+            "title": "최대 1년 무비자",
+            "sub": "95개 이상 국가, 대부분 1회 입국당 365일 체류 가능",
+            "key": "entry"
+          },
+          {
+            "title": "라리 현금과 카드",
+            "sub": "도시에서는 카드, 시골에서는 현금이 우선",
+            "key": "money"
+          },
+          {
+            "title": "봄이나 가을이 최적",
+            "sub": "4월 말–6월 초 또는 9월 중순–11월 초",
+            "key": "season"
+          },
+          {
+            "title": "메트로머니 카드",
+            "sub": "트빌리시 지하철/버스 요금 1 GEL부터",
+            "key": "transport"
+          }
+        ],
+        "visa": {
+          "cards": [
+            {
+              "name": "무비자 입국",
+              "code": "",
+              "who": "",
+              "cost": "무료",
+              "stay": "365일 (일부 국가는 30일, 예: 중국)",
+              "note": "입국일 기준 산정: 국경을 넘는 날이 1일째"
+            },
+            {
+              "name": "전자비자(e-Visa)",
+              "code": "",
+              "who": "무비자 목록에 없는 국적자",
+              "cost": "20 USD + 서비스 수수료 2%",
+              "stay": "180일 중 최대 90일",
+              "note": "처리 기간 최소 5영업일; 조지아 외부 신청자만 가능"
+            }
+          ],
+          "warnings": [
+            {
+              "title": "2026년 보험 의무화",
+              "text": "2026년 1월 1일부터 방문객은 체류 기간 전체에 대해 최소 30,000라리를 보장하는 건강/상해 보험이 필요합니다."
+            },
+            {
+              "title": "유흥가 사기 주의",
+              "text": "친절한 낯선 사람이 바로 초대해 주문하지 않은 음료가 부풀려진 청구서에 추가될 수 있습니다."
+            }
+          ]
+        },
+        "transport": {
+          "rows": [],
+          "tips": [
+            {
+              "title": "메트로머니로 절약",
+              "text": "외국 은행 카드는 환전 후 탭당 약 1.50 GEL이 부과되므로, 여러 번 이용할 경우 현지 메트로머니 카드가 더 경제적입니다."
+            },
+            {
+              "title": "무제한 교통카드",
+              "text": "1일권 3 GEL, 1주일권 20 GEL, 1개월권 40 GEL, 3개월권 100 GEL, 별도의 구독 카드로 제공됩니다."
+            },
+            {
+              "title": "산악 노선은 운전기사 필요",
+              "text": "카즈베기나 스바네티로 갈 때는 구불구불하고 예측하기 어려운 도로 특성상 면허를 소지한 운전기사를 강력히 추천합니다."
+            }
+          ]
+        },
+        "money": {
+          "budget": null,
+          "tips": [
+            {
+              "title": "역환전(DCC) 거절하기",
+              "text": "ATM과 단말기에서는 GEL로 결제하거나 인출하고 환전은 본인의 은행에 맡기는 것이 보통 더 유리합니다."
+            },
+            {
+              "title": "트빌리시 외 지역에서는 현금 소지",
+              "text": "시골 지역에서는 신용카드가 널리 통용되지 않을 수 있으나, 도시에서는 카드가 잘 통합니다."
+            },
+            {
+              "title": "거액은 신고",
+              "text": "입출국 시 30,000 GEL 또는 이에 상당하는 외화를 초과하는 금액은 신고해야 합니다."
+            }
+          ]
+        },
+        "season": {
+          "rows": [
+            {
+              "label": "9월–10월 초",
+              "sub": "가장 추천되는 시기",
+              "best": [
+                9,
+                10
+              ],
+              "busy": [],
+              "avoid": []
+            }
+          ],
+          "best": []
+        },
+        "emergency": {
+          "numbers": [
+            {
+              "number": "112",
+              "label": "모든 긴급상황",
+              "note": "경찰, 구급차, 소방, 구조 포함; SIM 없이도 무료"
+            },
+            {
+              "number": "+995 32 227 7000",
+              "label": "주조지아 미국 대사관(트빌리시)",
+              "note": "미국 시민의 경우, 먼저 112에 전화한 후 이용"
+            }
+          ],
+          "chips": [
+            "압하지야와 남오세티야 피하기",
+            "낯선 사람의 바 초대 거절하기",
+            "안전벨트 착용하기",
+            "어두워진 후 외딴 도로 피하기",
+            "산악 지역에서는 면허 소지 운전기사 이용하기"
+          ]
+        }
+      },
+      "ja": {
+        "summary": [
+          {
+            "title": "最長1年のビザ免除",
+            "sub": "95カ国以上対象、多くは1回の入国につき365日滞在可能",
+            "key": "entry"
+          },
+          {
+            "title": "ラリ現金とカード",
+            "sub": "都市ではカード、村では現金が基本",
+            "key": "money"
+          },
+          {
+            "title": "春か秋がベスト",
+            "sub": "4月下旬〜6月初旬、または9月中旬〜11月初旬",
+            "key": "season"
+          },
+          {
+            "title": "メトロマネーカード",
+            "sub": "トビリシの地下鉄・バス運賃は1 GELから",
+            "key": "transport"
+          }
+        ],
+        "visa": {
+          "cards": [
+            {
+              "name": "ビザ免除入国",
+              "code": "",
+              "who": "",
+              "cost": "無料",
+              "stay": "365日（一部の国は30日、例：中国）",
+              "note": "入国日起算：国境を越えた日が1日目"
+            },
+            {
+              "name": "電子ビザ（eビザ）",
+              "code": "",
+              "who": "ビザ免除リストに含まれない国籍の人",
+              "cost": "20米ドル＋サービス料2%",
+              "stay": "180日間のうち最大90日",
+              "note": "処理には最短5営業日必要。ジョージア国外からの申請のみ対応"
+            }
+          ],
+          "warnings": [
+            {
+              "title": "2026年保険義務化",
+              "text": "2026年1月1日より、訪問者は滞在期間全体をカバーする最低30,000ラリの医療・傷害保険への加入が必要です。"
+            },
+            {
+              "title": "ナイトライフ詐欺に注意",
+              "text": "親しげな見知らぬ人にバーへ誘われ、注文していない飲み物が水増しされた請求に加えられることがあります。"
+            }
+          ]
+        },
+        "transport": {
+          "rows": [],
+          "tips": [
+            {
+              "title": "メトロマネーでお得に",
+              "text": "外国の銀行カードはタップごとに両替後約1.50 GELが課金されるため、複数回利用するなら現地のメトロマネーカードの方がお得です。"
+            },
+            {
+              "title": "乗り放題カード",
+              "text": "1日券3 GEL、1週間券20 GEL、1カ月券40 GEL、3カ月券100 GEL。別のサブスクリプションカードで提供されます。"
+            },
+            {
+              "title": "山岳ルートには運転手が必要",
+              "text": "カズベギやスヴァネティ方面では、曲がりくねった予測不能な道のため、免許を持つ運転手の利用を強くお勧めします。"
+            }
+          ]
+        },
+        "money": {
+          "budget": null,
+          "tips": [
+            {
+              "title": "DCC（通貨自動換算）を断る",
+              "text": "ATMや端末では、GELで支払うか引き出し、換算は自分の銀行に任せる方が通常は有利です。"
+            },
+            {
+              "title": "トビリシ以外では現金を携帯",
+              "text": "地方ではクレジットカードが広く使えないことがありますが、都市部ではカードが問題なく使えます。"
+            },
+            {
+              "title": "高額は申告",
+              "text": "入出国時に30,000 GELまたは相当額の外貨を超える金額を所持している場合は申告が必要です。"
+            }
+          ]
+        },
+        "season": {
+          "rows": [
+            {
+              "label": "9月〜10月初旬",
+              "sub": "最もおすすめの時期",
+              "best": [
+                9,
+                10
+              ],
+              "busy": [],
+              "avoid": []
+            }
+          ],
+          "best": []
+        },
+        "emergency": {
+          "numbers": [
+            {
+              "number": "112",
+              "label": "すべての緊急事態",
+              "note": "警察、救急、消防、レスキューをカバー。SIMなしでも無料"
+            },
+            {
+              "number": "+995 32 227 7000",
+              "label": "アメリカ大使館（トビリシ）",
+              "note": "アメリカ国民向け、まず112に電話した後に連絡"
+            }
+          ],
+          "chips": [
+            "アブハジアと南オセチアを避ける",
+            "見知らぬ人からのバーへの誘いを断る",
+            "シートベルトを着用する",
+            "日没後は人里離れた道を避ける",
+            "山岳地帯では免許を持つ運転手を利用する"
+          ]
+        }
+      },
+      "es": {
+        "summary": [
+          {
+            "title": "Sin visa hasta 1 año",
+            "sub": "Más de 95 países, la mayoría obtiene 365 días por entrada",
+            "key": "entry"
+          },
+          {
+            "title": "Efectivo en lari y tarjetas",
+            "sub": "Las tarjetas funcionan en ciudades, el efectivo manda en los pueblos",
+            "key": "money"
+          },
+          {
+            "title": "Primavera u otoño, lo mejor",
+            "sub": "Finales de abril–principios de junio o mediados de sept.–principios de nov.",
+            "key": "season"
+          },
+          {
+            "title": "Tarjeta Metromoney",
+            "sub": "Tarifas de metro/bus de Tbilisi desde 1 GEL",
+            "key": "transport"
+          }
+        ],
+        "visa": {
+          "cards": [
+            {
+              "name": "Entrada sin visa",
+              "code": "",
+              "who": "",
+              "cost": "Gratis",
+              "stay": "365 días (30 días para algunos, p. ej. China)",
+              "note": "Cuenta por entrada: el día que cruzas la frontera es el día uno"
+            },
+            {
+              "name": "Visa electrónica (e-Visa)",
+              "code": "",
+              "who": "Nacionalidades que no están en la lista sin visa",
+              "cost": "20 USD más 2% de tarifa de servicio",
+              "stay": "Hasta 90 días dentro de un período de 180 días",
+              "note": "Procesamiento mínimo de 5 días hábiles; solo para solicitantes fuera de Georgia"
+            }
+          ],
+          "warnings": [
+            {
+              "title": "Requisito de seguro 2026",
+              "text": "A partir del 1 de enero de 2026, los visitantes necesitan un seguro de salud/accidentes con cobertura mínima de 30,000 lari para toda la estadía."
+            },
+            {
+              "title": "Estafas en la vida nocturna",
+              "text": "Un extraño amigable puede invitarte a un bar donde se añaden bebidas no pedidas a una cuenta inflada."
+            }
+          ]
+        },
+        "transport": {
+          "rows": [],
+          "tips": [
+            {
+              "title": "Metromoney ahorra dinero",
+              "text": "Una tarjeta bancaria extranjera cobra alrededor de 1.50 GEL tras la conversión por cada uso, así que una tarjeta Metromoney local ahorra dinero en varios viajes."
+            },
+            {
+              "title": "Tarjetas de viaje ilimitado",
+              "text": "Pase de 1 día 3 GEL, 1 semana 20 GEL, 1 mes 40 GEL, 3 meses 100 GEL, en una tarjeta de suscripción separada."
+            },
+            {
+              "title": "Las rutas de montaña necesitan conductor",
+              "text": "Para Kazbegi o Svaneti, se recomienda encarecidamente un conductor con licencia debido a las carreteras sinuosas e impredecibles."
+            }
+          ]
+        },
+        "money": {
+          "budget": null,
+          "tips": [
+            {
+              "title": "Rechaza la conversión dinámica de moneda",
+              "text": "En cajeros y terminales, suele ser mejor pagar o retirar en GEL y dejar que tu propio banco maneje la conversión."
+            },
+            {
+              "title": "Lleva efectivo fuera de Tbilisi",
+              "text": "Las tarjetas de crédito pueden no ser ampliamente aceptadas en zonas rurales; en las ciudades funcionan bien."
+            },
+            {
+              "title": "Declara sumas grandes",
+              "text": "Debes declarar cualquier cantidad superior a 30,000 GEL o su equivalente en moneda extranjera al entrar y salir."
+            }
+          ]
+        },
+        "season": {
+          "rows": [
+            {
+              "label": "Septiembre–principios de octubre",
+              "sub": "La ventana más recomendada",
+              "best": [
+                9,
+                10
+              ],
+              "busy": [],
+              "avoid": []
+            }
+          ],
+          "best": []
+        },
+        "emergency": {
+          "numbers": [
+            {
+              "number": "112",
+              "label": "Todas las emergencias",
+              "note": "Cubre policía, ambulancia, bomberos, rescate; gratis incluso sin SIM"
+            },
+            {
+              "number": "+995 32 227 7000",
+              "label": "Embajada de EE. UU. en Tbilisi",
+              "note": "Para ciudadanos estadounidenses, después de llamar primero al 112"
+            }
+          ],
+          "chips": [
+            "Evita Abjasia y Osetia del Sur",
+            "Rechaza invitaciones a bares de extraños",
+            "Usa el cinturón de seguridad",
+            "Evita carreteras remotas después del anochecer",
+            "Usa conductores con licencia en las montañas"
+          ]
+        }
+      },
+      "zh": {
+        "summary": [
+          {
+            "title": "免签最长1年",
+            "sub": "95多个国家，大多数每次入境可获365天",
+            "key": "entry"
+          },
+          {
+            "title": "拉里现金与银行卡",
+            "sub": "城市可用卡，乡村以现金为主",
+            "key": "money"
+          },
+          {
+            "title": "春季或秋季最佳",
+            "sub": "4月下旬至6月初，或9月中旬至11月初",
+            "key": "season"
+          },
+          {
+            "title": "Metromoney卡",
+            "sub": "第比利斯地铁/公交票价低至1 GEL",
+            "key": "transport"
+          }
+        ],
+        "visa": {
+          "cards": [
+            {
+              "name": "免签入境",
+              "code": "",
+              "who": "",
+              "cost": "免费",
+              "stay": "365天（部分国家为30天，如中国）",
+              "note": "按每次入境计算：过境当天为第1天"
+            },
+            {
+              "name": "电子签证（e-Visa）",
+              "code": "",
+              "who": "不在免签名单上的国籍",
+              "cost": "20美元加2%服务费",
+              "stay": "180天内最多90天",
+              "note": "处理时间至少5个工作日；仅限在格鲁吉亚境外的申请人"
+            }
+          ],
+          "warnings": [
+            {
+              "title": "2026年保险要求",
+              "text": "自2026年1月1日起，访客需要购买覆盖整个停留期、保额至少30,000拉里的健康/意外保险。"
+            },
+            {
+              "title": "夜生活诈骗",
+              "text": "友好的陌生人可能邀请你去酒吧，未点的饮品会被加入虚高的账单中。"
+            }
+          ]
+        },
+        "transport": {
+          "rows": [],
+          "tips": [
+            {
+              "title": "Metromoney更省钱",
+              "text": "外国银行卡每次刷卡换算后约收取1.50 GEL，多次出行使用当地Metromoney卡更省钱。"
+            },
+            {
+              "title": "无限次乘车卡",
+              "text": "1日票3 GEL，1周票20 GEL，1个月票40 GEL，3个月票100 GEL，使用单独的订阅卡。"
+            },
+            {
+              "title": "山区路线需要司机",
+              "text": "前往卡兹别吉或斯瓦涅季时，由于道路蜿蜒且路况难以预测，强烈建议聘请持证司机。"
+            }
+          ]
+        },
+        "money": {
+          "budget": null,
+          "tips": [
+            {
+              "title": "拒绝动态货币转换（DCC）",
+              "text": "在ATM机和刷卡终端，通常以GEL支付或取款并由你自己的银行处理汇率转换更划算。"
+            },
+            {
+              "title": "第比利斯以外随身携带现金",
+              "text": "农村地区信用卡可能不被广泛接受；在城市中刷卡很方便。"
+            },
+            {
+              "title": "大额需申报",
+              "text": "出入境时携带超过30,000 GEL或等值外币的款项必须申报。"
+            }
+          ]
+        },
+        "season": {
+          "rows": [
+            {
+              "label": "9月至10月初",
+              "sub": "最推荐的时间段",
+              "best": [
+                9,
+                10
+              ],
+              "busy": [],
+              "avoid": []
+            }
+          ],
+          "best": []
+        },
+        "emergency": {
+          "numbers": [
+            {
+              "number": "112",
+              "label": "所有紧急情况",
+              "note": "涵盖警察、救护车、消防、救援；即使没有SIM卡也免费"
+            },
+            {
+              "number": "+995 32 227 7000",
+              "label": "美国驻第比利斯大使馆",
+              "note": "供美国公民使用，需先拨打112后再联系"
+            }
+          ],
+          "chips": [
+            "避开阿布哈兹和南奥塞梯",
+            "拒绝陌生人邀请去酒吧",
+            "系好安全带",
+            "天黑后避免走偏僻道路",
+            "在山区使用持证司机"
+          ]
+        }
+      }
+    },
     "Germany": {
       "srcHash": "961a08b7e376",
       "en": {

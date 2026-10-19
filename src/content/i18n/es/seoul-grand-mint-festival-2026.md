@@ -1,61 +1,61 @@
 ---
 lang: es
 slug: seoul-grand-mint-festival-2026
-srcHash: '4efde0051cb8'
-title: 'Grand Mint Festival 2026: fechas, entradas y sede (Seúl)'
-description: El Grand Mint Festival 2026 se celebra en Seúl, Corea del Sur, del 17 al 18 de octubre de 2026. Qué es, cuándo y dónde tiene lugar, y cómo organizar tu visita en torno a él.
-quickAnswer: El Grand Mint Festival 2026 se celebra el 17 y 18 de octubre de 2026 en el Parque Olímpico (Olympic Park) de Seúl, la misma extensa sede que este festival de otoño lleva usando desde hace años. Durante dos días, varios escenarios repartidos por los prados del parque acogen una programación de indie, folk y música alternativa. Antes de reservar vuelos u hoteles, conviene confirmar los horarios exactos de cada escenario, las categorías de entradas y los detalles de acceso en la web oficial del Grand Mint Festival.
+srcHash: '91ac96055108'
+title: 'Grand Mint Festival 2026: fechas, entradas y recinto (Seúl)'
+description: El Grand Mint Festival 2026 estaba previsto para el 17-18 de octubre de 2026 en el Parque Olímpico de Seúl (Corea del Sur), con un cartel de música indie, folk y alternativa.
+quickAnswer: El Grand Mint Festival 2026 tenía como fechas anunciadas el 17-18 de octubre de 2026. Su sede era el Parque Olímpico (Olympic Park) de Seúl, el mismo y extenso recinto ajardinado que este festival otoñal ocupa desde hace años. El programa anunciado reunía durante dos días, al aire libre, a artistas de indie, folk y música alternativa repartidos en varios escenarios sobre el césped del parque. Tradicionalmente, el festival ha vendido tanto entradas de un día como abonos de dos días.
 faq:
-  - q: ¿Cuándo se celebra el Grand Mint Festival 2026?
-    a: El 17 y 18 de octubre de 2026, sábado y domingo, en el Parque Olímpico de Seúl. Conviene confirmar los horarios exactos de cada actuación y cualquier cambio de programación en la web oficial del festival.
-  - q: ¿Cómo se llega al Parque Olímpico para el festival?
-    a: Se puede tomar la Línea 5 hasta la estación de Olympic Park y salir por las salidas 3 o 9, o bien la Línea 8 hasta la estación de Mongchontoseong. Ambas opciones dejan a poca distancia a pie del recinto del festival.
-  - q: ¿Se venden entradas de un solo día o solo abonos de dos días?
-    a: Históricamente, el Grand Mint Festival ha ofrecido tanto entradas de un solo día como abonos para los dos días, y el cartel suele variar según la jornada. Conviene revisar la página oficial de venta de entradas para conocer las categorías y precios vigentes.
+  - q: ¿Cuándo era el Grand Mint Festival 2026?
+    a: Las fechas anunciadas eran el 17-18 de octubre de 2026, sábado y domingo, en el Parque Olímpico de Seúl. El programa abarcaba dos días de conciertos al aire libre en varios escenarios.
+  - q: ¿Cómo se llegaba al Parque Olímpico para el festival?
+    a: La línea 5 tiene parada en la estación Olympic Park, cuyas salidas 3 y 9 conducen hacia el parque, y la línea 8 para en la estación Mongchontoseong. Desde ambas, el recinto del festival queda a poca distancia a pie.
+  - q: ¿Había entradas de un solo día o únicamente abonos de dos días?
+    a: Tradicionalmente, el Grand Mint Festival ha ofrecido ambas modalidades, y el cartel solía cambiar de un día a otro. En los festivales coreanos de este tipo, las entradas suelen venderse por anticipado en plataformas de venta coreanas y no en taquilla.
   - q: ¿Qué tipo de música se escucha en el Grand Mint Festival?
-    a: Es un festival orientado al indie, el folk y la música alternativa, bien distinto de los eventos coreanos centrados en el EDM o el K-pop. Los carteles combinan artistas coreanos e internacionales repartidos en varios escenarios al aire libre.
-  - q: ¿Hay algo más que hacer en el Parque Olímpico además del festival?
-    a: Sí. El recinto incluye el Museo Olímpico de Seúl, el parque de esculturas SOMA y las murallas de la fortaleza de Mongchontoseong, todos accesibles de forma gratuita antes de la apertura de puertas.
+    a: Se trata de un festival orientado al indie, el folk y la música alternativa, muy distinto de los eventos coreanos centrados en la electrónica o el K-pop. Sus carteles combinan artistas coreanos e internacionales en varios escenarios al aire libre.
+  - q: ¿Ofrece el Parque Olímpico algo más aparte del festival?
+    a: Sí. Dentro del recinto se encuentran el Museo Olímpico de Seúl, el parque de esculturas SOMA y las murallas de la fortaleza de Mongchontoseong, que pueden recorrerse gratuitamente fuera del horario del festival.
 ---
 
 ## Qué es realmente el Grand Mint Festival
 
-El Grand Mint Festival, al que los habituales suelen llamar simplemente GMF, es uno de los festivales de música al aire libre más consolidados del otoño en Seúl. Su propuesta gira en torno al indie, el folk y la música alternativa, en lugar de los carteles cargados de EDM o K-pop que caracterizan a otros festivales coreanos.
+Entre los festivales de música al aire libre más consolidados del otoño en Seúl figura el Grand Mint Festival, al que sus asiduos suelen llamar simplemente GMF. Su eje son los artistas de indie, folk y música alternativa, frente a los carteles dominados por la electrónica o el K-pop de otros festivales coreanos.
 
-La edición de 2026 se celebra el 17 y 18 de octubre, sábado y domingo, en el Parque Olímpico. Al tratarse de dos jornadas, la mayoría de los asistentes opta por acudir un solo día o por comprar un abono combinado, según qué artistas actúen en cada fecha.
+La edición de 2026 tenía como fechas el 17-18 de octubre, sábado y domingo, en el Parque Olímpico (Olympic Park). Al tratarse de dos jornadas, el público podía elegir un solo día o comprar un abono conjunto, según los artistas anunciados para cada fecha.
 
-## El Parque Olímpico como sede del festival
+## El Parque Olímpico como recinto festivalero
 
-El Parque Olímpico se encuentra al sureste de Seúl, en la zona de Bangi-dong, dentro del distrito de Songpa, y se construyó originalmente para los Juegos Olímpicos de verano de 1988. Se trata de un recinto realmente enorme: prados ondulados, jardines de esculturas, lagos y varios edificios de estadios se extienden por un espacio que recuerda más a un campus verde que a un parque urbano.
+Construido para los Juegos Olímpicos de Verano de 1988, el Parque Olímpico se encuentra en el sureste de Seúl, en la zona de Bangi-dong, dentro del distrito de Songpa. Sus dimensiones son enormes de verdad. Entre praderas onduladas, jardines de esculturas, lagos y varios edificios deportivos, el conjunto recuerda más a un gran campus verde que a un parque urbano.
 
-El GMF lleva años utilizando las zonas de césped abierto del parque, donde instala varios escenarios que permiten que una actuación termine justo cuando empieza otra cerca. Esta disposición implica que hay que caminar bastante entre concierto y concierto.
+Desde hace años, el GMF instala aquí varios escenarios en las explanadas de césped, de modo que un grupo termina mientras otro empieza muy cerca. Esa distribución obliga a caminar bastante entre concierto y concierto.
 
-- Acceso en metro más cercano: estación de Olympic Park, Línea 5 (las salidas 3 y 9 llevan hacia las puertas principales del parque)
-- La estación de Mongchontoseong, Línea 8, es otra opción según a qué zona de escenarios se dirija cada uno
-- Conviene llevar una prenda de abrigo para los conciertos de la tarde-noche, ya que las noches de mediados de octubre en Seúl son frescas aunque las tardes sean templadas
+- Metro más cercano: estación Olympic Park, línea 5 (las salidas 3 y 9 llevan hacia los accesos principales del parque)
+- Según la zona de escenarios, otra opción es la estación Mongchontoseong, de la línea 8
+- A mediados de octubre, las noches de Seúl son frescas aunque las tardes resulten templadas
 
 ## Cómo interpretar el cartel y los escenarios
 
-El Grand Mint Festival suele organizar su programación en torno a uno o dos cabezas de cartel, junto con un elenco más amplio de artistas de apoyo que llenan el escenario principal y uno o dos escenarios más pequeños repartidos entre distintas zonas de césped. Los géneros se inclinan hacia el indie rock coreano e internacional, los cantautores y las bandas de folk, con algún que otro artista alternativo de sonido más contundente mezclado en el cartel.
+Lo habitual en el Grand Mint Festival es un cartel encabezado por uno o dos grandes nombres. Les acompaña un elenco más amplio de artistas, que ocupa el escenario principal y uno o dos escenarios más pequeños situados en distintas zonas de césped. Predominan el indie rock coreano e internacional, los cantautores y las bandas de corte folk, junto a unas cuantas propuestas alternativas más contundentes.
 
-Como los dos días suelen tener reclamos principales distintos, conviene comprobar qué artistas tocan en cada fecha antes de elegir una entrada de un solo día. Los horarios de las actuaciones se concentran desde primera hora de la tarde hasta la noche, y los nombres más grandes cierran cada jornada en el escenario principal.
+Como cada jornada suele tener cabezas de cartel distintos, las entradas de un día gozan de gran aceptación entre quienes siguen a artistas concretos. Los conciertos se concentran normalmente entre primera hora de la tarde y la noche, y los nombres más importantes cierran cada jornada en el escenario principal.
 
-## Entradas y qué suelen incluir
+## Entradas y lo que suelen incluir
 
-El Grand Mint Festival ha vendido tradicionalmente entradas de un solo día y abonos de dos días, con categorías de precio que varían de un año a otro según el cartel y según si la compra se hace con antelación. Las entradas suelen venderse a través de plataformas coreanas de venta de tickets vinculadas a los canales oficiales del festival, más que en taquilla el mismo día del evento.
+Tradicionalmente, el Grand Mint Festival ha vendido entradas de un día y abonos de dos días. Sus tramos de precio varían cada año en función del cartel y de la antelación de la compra. Por lo general, la venta se hace por anticipado en plataformas coreanas y no en taquilla el mismo día.
 
-Conviene confirmar horarios y entradas en la web oficial del Grand Mint Festival y en sus redes sociales, ya que los precios exactos, las ventanas de venta anticipada y cualquier requisito de edad o identificación se fijan de forma independiente cada año y pueden variar respecto a ediciones anteriores.
+Los precios exactos, los periodos de venta y los posibles requisitos de edad o documentación se fijan cada año de forma independiente, por lo que pueden diferir de los de ediciones anteriores.
 
-## Cómo entrar sin pelearse por hacer cola
+## Acceder sin agobios ni largas colas
 
-Las puertas suelen abrir bastante antes de la primera actuación, y el trayecto a pie desde la estación de Olympic Park hasta las zonas de escenarios dura entre diez y quince minutos, más si se lleva una silla plegable o una manta. La mayoría de los habituales del festival llega pronto para asegurarse un buen sitio en el césped cerca de su escenario favorito, en lugar de disputarse un hueco a media tarde.
+Las puertas suelen abrirse con bastante antelación respecto al primer concierto. Desde la estación Olympic Park hasta las zonas de escenarios hay entre diez y quince minutos a pie, algo más si se lleva una silla plegable o una manta. Los habituales del festival acostumbran a ocupar pronto su sitio en el césped cerca de su escenario favorito, en lugar de disputárselo a media tarde.
 
-- El pago sin efectivo es ya lo habitual en la mayoría de los festivales coreanos; una tarjeta T-money o una tarjeta de crédito basta para los puestos de comida y de merchandising
-- Las normas de reingreso varían según el año, así que conviene revisar las condiciones de la entrada si se piensa salir y volver a entrar
-- Los puestos de comida dentro del parque venden clásicos de los festivales coreanos, como el tteokbokki y el pollo frito, además de puestos de café, aunque la variedad es limitada en comparación con una calle de la ciudad, por lo que no está de más comer algo antes
+- Hoy en día, el pago sin efectivo es la norma en casi todos los festivales coreanos; con una tarjeta T-money o de crédito se pagan la comida y el merchandising
+- Las normas de reingreso cambian de un año a otro y figuran en las condiciones de las entradas de cada edición
+- Los puestos del parque venden clásicos de los festivales coreanos, como el tteokbokki o el pollo frito, además de carritos de café, aunque la variedad es menor que en cualquier calle de la ciudad
 
-## Aprovechar el fin de semana al máximo
+## Aprovechar todo el fin de semana
 
-Más allá del festival, merece la pena llegar temprano al Parque Olímpico. El Museo Olímpico de Seúl, el parque de esculturas al aire libre (SOMA) y las murallas de tierra de la fortaleza de Mongchontoseong se encuentran dentro del mismo recinto y se pueden recorrer gratis antes de que abran las puertas.
+El propio Parque Olímpico merece una visita más allá del festival. En el mismo recinto se encuentran el Museo Olímpico de Seúl, el parque de esculturas al aire libre SOMA y las murallas de tierra de la fortaleza de Mongchontoseong, que pueden recorrerse gratuitamente fuera del horario del festival.
 
-El distrito de Songpa también deja cerca Lotte World y el río Han, dos añadidos fáciles de incluir si se está organizando un viaje más largo a Seúl en torno al fin de semana del festival. Alojarse cerca de Jamsil, a una sola parada de metro de la estación de Olympic Park, simplifica los desplazamientos durante los dos días de festival.
+Además, el distrito de Songpa queda cerca de Lotte World y del río Han, dos complementos sencillos para un viaje más largo por Seúl. A una sola parada de metro de la estación Olympic Park está Jamsil, una base práctica con conexiones directas al parque.

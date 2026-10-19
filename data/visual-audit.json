@@ -565,6 +565,12 @@
   "reason": "Trendy café interior with modern seating, UAE location visib",
   "at": "2026-07-25T02:38:25.854Z"
  },
+ "akhaltsikhe-akhaltsikhe-rabati-castle\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Rabati%2C_Akhaltsikhe%2C_Georgia_-_panoramio_%281%29.jpg/3840px-Rabati%2C_Akhaltsikhe%2C_Georgia_-_panoramio_%281%29.jpg": {
+  "slug": "akhaltsikhe-akhaltsikhe-rabati-castle",
+  "verdict": "MATCH",
+  "reason": "publish gate: Aerial view of Rabati Castle complex, representative hero shot",
+  "at": "2026-10-19T15:41:57.975Z"
+ },
  "al-ain-al-ain-central-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Al-Ain_Central_Market_-_goats.jpg/3840px-Al-Ain_Central_Market_-_goats.jpg": {
   "slug": "al-ain-al-ain-central-market",
   "verdict": "MATCH",
@@ -3263,6 +3269,24 @@
   "reason": "publish gate: Khmer temple tower matches Banan Temple appearance",
   "at": "2026-08-26T09:30:36.226Z"
  },
+ "batumi-alphabetic-tower\u0001https://upload.wikimedia.org/wikipedia/commons/4/42/Batumi2025-alphabetic-tower.jpg": {
+  "slug": "batumi-alphabetic-tower",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Alphabetic Tower visible in Batumi beach scene",
+  "at": "2026-10-19T15:41:58.055Z"
+ },
+ "batumi-batumi-botanical-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Batumi_Botanical_Garden_-_panoramio.jpg/3840px-Batumi_Botanical_Garden_-_panoramio.jpg": {
+  "slug": "batumi-batumi-botanical-garden",
+  "verdict": "MATCH",
+  "reason": "publish gate: Garden viewpoint over sea, plausible for botanical garden",
+  "at": "2026-10-19T15:41:58.187Z"
+ },
+ "batumi-gonio-fortress\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Castle_of_Gonio2.jpg/1920px-Castle_of_Gonio2.jpg": {
+  "slug": "batumi-gonio-fortress",
+  "verdict": "MATCH",
+  "reason": "publish gate: Aerial view of Gonio Fortress walls and interior ruins",
+  "at": "2026-10-19T15:41:58.345Z"
+ },
  "beijing-arabica-baitasi-store\u0001https://fastly.4sqi.net/img/general/original/472350561_hlP1vJH1saOaKEZFidQAST_AkV4Vf_iQQIiZQ6L7IKE.jpg": {
   "slug": "beijing-arabica-baitasi-store",
   "verdict": "MATCH",
@@ -4060,6 +4084,12 @@
   "verdict": "MATCH",
   "reason": "Gothic cathedral tower overlooking Bordeaux cityscape",
   "at": "2026-07-27T12:45:46.045Z"
+ },
+ "borjomi-borjomi-central-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Borjomi_Central_Park%2C_Borjomi%2C_Georgia._July_2024.jpg/3840px-Borjomi_Central_Park%2C_Borjomi%2C_Georgia._July_2024.jpg": {
+  "slug": "borjomi-borjomi-central-park",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows park pathway, trees, benches representative of venue",
+  "at": "2026-10-19T15:41:57.898Z"
  },
  "boryeong-mud-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Korea-Boryeong_Mud_Festival-29.jpg/1920px-Korea-Boryeong_Mud_Festival-29.jpg": {
   "slug": "boryeong-mud-festival",
@@ -8459,6 +8489,24 @@
   "reason": "publish gate: Coastal wave view consistent with Snapper Rocks surf break",
   "at": "2026-09-28T17:01:21.889Z"
  },
+ "gori-gori-fortress\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Gori_fortress_by_ArmAg_%281%29.JPG/1920px-Gori_fortress_by_ArmAg_%281%29.JPG": {
+  "slug": "gori-gori-fortress",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows fortress walls on hilltop, representative exterior view",
+  "at": "2026-10-19T15:41:58.028Z"
+ },
+ "gori-stalin-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Stalin_Museum%2C_Gori_04.jpg/1920px-Stalin_Museum%2C_Gori_04.jpg": {
+  "slug": "gori-stalin-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Stalin Museum building and tower in Gori",
+  "at": "2026-10-19T15:41:58.319Z"
+ },
+ "gori-uplistsikhe\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Middle_ages_Basilica_on_the_top_of_the_cave%2C_Uplistsikhe_20230920_%28II%29.jpg/1920px-Middle_ages_Basilica_on_the_top_of_the_cave%2C_Uplistsikhe_20230920_%28II%29.jpg": {
+  "slug": "gori-uplistsikhe",
+  "verdict": "MATCH",
+  "reason": "publish gate: Representative view of Uplistsikhe cave city ruins",
+  "at": "2026-10-19T15:41:58.162Z"
+ },
  "goyang-bigbang-2026-2027-world-tour-xx-cosmos-goyang-opening-shows\u0001https://upload.wikimedia.org/wikipedia/commons/a/aa/BIGBANG_Concert_0.TO.10_in_Seoul.jpg": {
   "slug": "goyang-bigbang-2026-2027-world-tour-xx-cosmos-goyang-opening-shows",
   "verdict": "MATCH",
@@ -8883,6 +8931,12 @@
   "reason": "Gate entrance of Yuexiu Park, Guangzhou",
   "reasonKo": "광저우 월수공원 정문",
   "at": "2026-08-17T13:24:56.522Z"
+ },
+ "gudauri-gudauri-ski-resort\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Gudauri_Ski_Resort%2C_Gudauri%2C_Georgia_%28Unsplash%29.jpg/3840px-Gudauri_Ski_Resort%2C_Gudauri%2C_Georgia_%28Unsplash%29.jpg": {
+  "slug": "gudauri-gudauri-ski-resort",
+  "verdict": "MATCH",
+  "reason": "publish gate: Snowy mountain landscape plausible for Gudauri ski resort",
+  "at": "2026-10-19T15:41:57.872Z"
  },
  "guia-chapel-of-our-lady-of-guia\u0001https://upload.wikimedia.org/wikipedia/commons/6/66/Chapel_of_Our_Lady_of_Guia_%E8%81%96%E6%AF%8D%E9%9B%AA%E5%9C%B0%E6%AE%BF%E6%95%99%E5%A0%82_-_panoramio.jpg": {
   "slug": "guia-chapel-of-our-lady-of-guia",
@@ -14718,6 +14772,30 @@
   "reason": "publish gate: Japanese garden stone water basin, matches hidden-gem venue",
   "at": "2026-10-12T08:03:15.383Z"
  },
+ "kutaisi-bagrati-cathedral\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/2014_Kutaisi%2C_Katedra_Bagrati_%2819%29.jpg/1920px-2014_Kutaisi%2C_Katedra_Bagrati_%2819%29.jpg": {
+  "slug": "kutaisi-bagrati-cathedral",
+  "verdict": "MATCH",
+  "reason": "publish gate: Representative exterior view of Bagrati Cathedral, Kutaisi",
+  "at": "2026-10-19T15:41:57.924Z"
+ },
+ "kutaisi-colchis-fountain\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/2025-06-21_Colchis_Fountain%2C_Kutaisi.jpg/3840px-2025-06-21_Colchis_Fountain%2C_Kutaisi.jpg": {
+  "slug": "kutaisi-colchis-fountain",
+  "verdict": "MATCH",
+  "reason": "publish gate: Clear representative view of Colchis Fountain in Kutaisi",
+  "at": "2026-10-19T15:41:57.814Z"
+ },
+ "kvareli-gremi-s-archangels-complex\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Complex_of_small_churches_at_Gremi%2C_Georgia.jpg/3840px-Complex_of_small_churches_at_Gremi%2C_Georgia.jpg": {
+  "slug": "kvareli-gremi-s-archangels-complex",
+  "verdict": "MATCH",
+  "reason": "publish gate: Historic church complex surrounded by nature, matches venue type",
+  "at": "2026-10-19T15:41:58.239Z"
+ },
+ "kvareli-ilia-lake\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Ilia_Lake%2C_Kakheti%2C_Georgia_03.jpg/3840px-Ilia_Lake%2C_Kakheti%2C_Georgia_03.jpg": {
+  "slug": "kvareli-ilia-lake",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows lake with mountains, representative view of attraction",
+  "at": "2026-10-19T15:41:57.776Z"
+ },
  "kyoto-arashiyama-bamboo-forest\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Bamboo_Forest%2C_Arashiyama%2C_Kyoto%2C_Japan.jpg/1920px-Bamboo_Forest%2C_Arashiyama%2C_Kyoto%2C_Japan.jpg": {
   "slug": "kyoto-arashiyama-bamboo-forest",
   "verdict": "MATCH",
@@ -18176,6 +18254,24 @@
   "reason": "Black sand volcanic landscape characteristic of Mount Bromo",
   "reasonKo": "브로모산의 특징적인 검은 모래 화산 지형",
   "at": "2026-08-12T14:03:37.434Z"
+ },
+ "mtskheta-jvari-monastery\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Georgia_Jvari_monastery_IMG_9345_2070.jpg/1920px-Georgia_Jvari_monastery_IMG_9345_2070.jpg": {
+  "slug": "mtskheta-jvari-monastery",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Jvari Monastery on hilltop, representative view",
+  "at": "2026-10-19T15:41:58.291Z"
+ },
+ "mtskheta-samtavro-s-convent\u0001https://upload.wikimedia.org/wikipedia/commons/1/14/Samtavro%27s_Convent_-_55359276207.jpg": {
+  "slug": "mtskheta-samtavro-s-convent",
+  "verdict": "MATCH",
+  "reason": "publish gate: Georgian church complex matching Samtavro's architectural style",
+  "at": "2026-10-19T15:41:58.214Z"
+ },
+ "mtskheta-svetitskhoveli-cathedral\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Svetitskhoveli_Cathedral_09.23_%283%29.jpg/1920px-Svetitskhoveli_Cathedral_09.23_%283%29.jpg": {
+  "slug": "mtskheta-svetitskhoveli-cathedral",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior view of the cathedral, representative hero shot",
+  "at": "2026-10-19T15:41:58.002Z"
  },
  "mui-ne-mui-ne-fishing-village\u0001https://upload.wikimedia.org/wikipedia/commons/5/56/Mui_Ne_fishing_village.jpg": {
   "slug": "mui-ne-mui-ne-fishing-village",
@@ -25481,6 +25577,18 @@
   "reasonKo": "시에나 대성당 정면과 줄무늬 탑 명확함",
   "at": "2026-08-03T14:38:33.452Z"
  },
+ "sighnaghi-monastery-of-st-nino-at-bodbe\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/The_Monastery_of_St._Nino_at_Bodbe._1.jpg/3840px-The_Monastery_of_St._Nino_at_Bodbe._1.jpg": {
+  "slug": "sighnaghi-monastery-of-st-nino-at-bodbe",
+  "verdict": "MATCH",
+  "reason": "publish gate: Monastery church with bell tower, plausible exterior view",
+  "at": "2026-10-19T15:41:58.265Z"
+ },
+ "sighnaghi-sighnaghi-wall\u0001https://upload.wikimedia.org/wikipedia/commons/f/f3/Sighnaghi_town_wall_%28Georgia%29.jpg": {
+  "slug": "sighnaghi-sighnaghi-wall",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Sighnaghi fortress wall with towers and valley view",
+  "at": "2026-10-19T15:41:57.950Z"
+ },
  "sihanoukville-independence-park\u0001https://upload.wikimedia.org/wikipedia/commons/e/eb/Sihanoukville_-_Independence_Park.jpg": {
   "slug": "sihanoukville-independence-park",
   "verdict": "MATCH",
@@ -26297,6 +26405,18 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows temple exterior with Chinese architecture and signage",
   "at": "2026-09-17T07:43:05.232Z"
+ },
+ "stepantsminda-gergeti-tower\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Gergeti_Trinity_Church_bell_tower.jpg/3840px-Gergeti_Trinity_Church_bell_tower.jpg": {
+  "slug": "stepantsminda-gergeti-tower",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Gergeti bell tower at Trinity Church complex",
+  "at": "2026-10-19T15:41:57.843Z"
+ },
+ "stepantsminda-gergeti-trinity-church\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Gergeti_Trinity_Church_09.23.jpg/1920px-Gergeti_Trinity_Church_09.23.jpg": {
+  "slug": "stepantsminda-gergeti-trinity-church",
+  "verdict": "MATCH",
+  "reason": "publish gate: Clear iconic view of Gergeti Trinity Church with mountains",
+  "at": "2026-10-19T15:41:58.136Z"
  },
  "strasbourg-cathedrale-notre-dame-de-strasbourg\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Cath%C3%A9drale_Notre-Dame_de_Strasbourg_Steeples.jpg/1920px-Cath%C3%A9drale_Notre-Dame_de_Strasbourg_Steeples.jpg": {
   "slug": "strasbourg-cathedrale-notre-dame-de-strasbourg",
@@ -28176,6 +28296,30 @@
   "reason": "hand-picked: the Anhor canal at Urda, the walk's route — Shows Anhor Canal embankment and bridge, plausible venue view",
   "at": "2026-10-09T12:41:50.361Z"
  },
+ "tbilisi-bridge-of-peace\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Mtkvari_-_panoramio.jpg/1920px-Mtkvari_-_panoramio.jpg": {
+  "slug": "tbilisi-bridge-of-peace",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Bridge of Peace illuminated over river at night",
+  "at": "2026-10-19T15:41:58.371Z"
+ },
+ "tbilisi-georgian-national-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Museum_of_the_Soviet_Occupation_in_Tbilisi.jpg/1920px-Museum_of_the_Soviet_Occupation_in_Tbilisi.jpg": {
+  "slug": "tbilisi-georgian-national-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior facade with museum entrance and banners, representative view",
+  "at": "2026-10-19T15:41:58.423Z"
+ },
+ "tbilisi-holy-trinity-cathedral-of-tbilisi\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sameba_Cathedral%2C_Courtyard%2C_Holy_Trinity_Cathedral%2C_Tbilisi%2C_Georgia.jpg/3840px-Sameba_Cathedral%2C_Courtyard%2C_Holy_Trinity_Cathedral%2C_Tbilisi%2C_Georgia.jpg": {
+  "slug": "tbilisi-holy-trinity-cathedral-of-tbilisi",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Holy Trinity Cathedral exterior with visitors in Tbilisi",
+  "at": "2026-10-19T15:41:58.082Z"
+ },
+ "tbilisi-mtatsminda-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Mtatsminda_park_January_2013_11.jpg/1920px-Mtatsminda_park_January_2013_11.jpg": {
+  "slug": "tbilisi-mtatsminda-park",
+  "verdict": "MATCH",
+  "reason": "publish gate: Ferris wheel at Mtatsminda Park overlooking Tbilisi",
+  "at": "2026-10-19T15:41:58.396Z"
+ },
  "tempe-filthy-animal\u0001https://fastly.4sqi.net/img/general/original/3889560_FTrSqea-sypNAwiCrodaKMEaXe4qihbcThzpqTRdsc4.jpg": {
   "slug": "tempe-filthy-animal",
   "verdict": "MATCH",
@@ -29071,6 +29215,12 @@
   "verdict": "MATCH",
   "reason": "patrol re-check: Waterfront promenade plaza with skyline view, consistent with venue",
   "at": "2026-08-16T20:35:40.804Z"
+ },
+ "tskaltubo-prometheus-cave-natural-monument\u0001https://upload.wikimedia.org/wikipedia/commons/a/ab/Prometheus_Cave_Natural_Monument.jpg": {
+  "slug": "tskaltubo-prometheus-cave-natural-monument",
+  "verdict": "MATCH",
+  "reason": "publish gate: Cave interior with stalactites/stalagmites, representative of Prometheus Cave",
+  "at": "2026-10-19T15:41:58.110Z"
  },
  "tsonjin-boldog-danzanravjaa-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Danzanravjaa_Museum_of_Sainshand-4.jpg/1920px-Danzanravjaa_Museum_of_Sainshand-4.jpg": {
   "slug": "tsonjin-boldog-danzanravjaa-museum",

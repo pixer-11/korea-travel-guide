@@ -12361,5 +12361,329 @@
       "getting": "大多数国际旅客抵达位于皇后区的肯尼迪国际机场（JFK），这是纽约市主要的国际门户。从机场出发，可搭乘AirTrain接驳列车前往牙买加站（Jamaica Station），换乘地铁或长岛铁路（LIRR），大约45到60分钟即可到达曼哈顿。拉瓜迪亚机场（LaGuardia）和纽瓦克机场（Newark）也可服务纽约市出行，通常需搭乘出租车、网约车或机场巴士再转乘地铁系统。",
       "days": "建议至少安排4到5天时间，用来游览曼哈顿的核心景点、探索一两个其他行政区，并留出一些余裕来适应这座城市难以预料的节奏。"
     }
+  },
+  "Akhaltsikhe": {
+    "en": {
+      "blurb": "Akhaltsikhe is built around Rabati, a hilltop fortress complex where a gold-domed mosque, a church and a citadel share the same walls, a reminder of the town's long mix of Georgian, Ottoman, Armenian and Jewish life. It now serves chiefly as the gateway town to the region's bigger draws: the cave monastery of Vardzia, Khertvisi fortress and the spa town of Abastumani.",
+      "getting": "There is no airport or railway serving Akhaltsikhe directly; the reliable route is by marshrutka (shared minibus) from Tbilisi's Didube bus station, a journey of roughly 3 to 3.5 hours. Travellers coming via Borjomi or Kutaisi can also pick up a connecting minibus from those regional hubs.",
+      "days": "Plan on half a day to see the Rabati Castle complex and old quarter, or 2 to 3 days if using Akhaltsikhe as a base for day trips to Vardzia, Sapara Monastery and the surrounding Samtskhe-Javakheti region."
+    },
+    "ko": {
+      "blurb": "아할치헤는 언덕 위 요새 단지인 라바티를 중심으로 형성된 도시로, 황금 돔을 얹은 모스크와 교회, 그리고 성채가 같은 성벽 안에 나란히 자리하고 있어 조지아, 오스만, 아르메니아, 유대 문화가 오랫동안 뒤섞여온 이 지역의 역사를 고스란히 보여준다. 오늘날에는 바르지아 동굴 수도원, 케르트비시 요새, 온천 마을 아바스투마니 등 이 지역의 대표적인 명소들로 향하는 관문 역할을 주로 하고 있다.",
+      "getting": "아할치헤로 직접 연결되는 공항이나 철도는 없다. 가장 믿을 만한 방법은 트빌리시 디두베 버스터미널에서 마르슈루트카(합승 미니버스)를 타는 것으로, 약 3~3.5시간이 걸린다. 보르조미나 쿠타이시를 경유하는 여행자라면 해당 지역 거점에서 환승 미니버스를 이용할 수도 있다.",
+      "days": "라바티 성 단지와 구시가지를 둘러보는 데는 반나절이면 충분하며, 바르지아, 사파라 수도원, 그리고 삼츠헤-자바헤티 일대로 당일치기 여행을 다니며 아할치헤를 거점으로 삼으려면 2~3일 정도 머무는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "アハルツィヘの街は、丘の上にそびえるラバティ要塞を中心に発展してきた。金色のドームを持つモスク、教会、そして城塞が同じ城壁の中に共存するこの複合施設は、グルジア、オスマン、アルメニア、ユダヤの文化が長きにわたり交わってきた街の歴史を物語っている。現在では、ヴァルザハの洞窟修道院やヘルトヴィシ要塞、温泉保養地アバスツマニといった、この地方を代表する見どころへの玄関口としての役割を主に担っている。",
+      "getting": "アハルツィヘには空港も鉄道もなく、確実な行き方はトビリシのディドゥベ・バスステーションからマルシュルートカ(乗合ミニバス)を利用する方法で、所要時間はおよそ3〜3.5時間。ボルジョミやクタイシ経由で向かう旅行者は、それぞれの地方の拠点からも乗り継ぎのミニバスを利用できる。",
+      "days": "ラバティ城塞の複合施設と旧市街を見るだけなら半日もあれば十分だが、ヴァルザハやサパラ修道院、さらに周辺のサムツヘ=ジャヴァヘティ地方への日帰り旅行の拠点として使うなら、2〜3日ほど滞在するのがおすすめだ。"
+    },
+    "es": {
+      "blurb": "Akhaltsikhe se articula en torno a Rabati, un complejo de fortaleza situado en lo alto de una colina donde una mezquita de cúpula dorada, una iglesia y una ciudadela comparten las mismas murallas, un testimonio de la larga mezcla de vida georgiana, otomana, armenia y judía de la ciudad. Hoy en día funciona sobre todo como puerta de entrada a los grandes atractivos de la región: el monasterio rupestre de Vardzia, la fortaleza de Khertvisi y la localidad termal de Abastumani.",
+      "getting": "Akhaltsikhe no cuenta con aeropuerto ni servicio ferroviario propio; la forma más segura de llegar es en marshrutka (microbús compartido) desde la estación de autobuses de Didube, en Tbilisi, un trayecto de aproximadamente 3 a 3,5 horas. Quienes viajen vía Borjomi o Kutaisi también pueden tomar un microbús de enlace desde esos centros regionales.",
+      "days": "Calcula medio día para visitar el complejo del Castillo de Rabati y el casco antiguo, o de 2 a 3 días si usas Akhaltsikhe como base para excursiones de un día a Vardzia, el Monasterio de Sapara y el resto de la región de Samtskhe-Javakheti."
+    },
+    "zh": {
+      "blurb": "阿哈尔齐赫城围绕拉巴提而建——这是一座坐落在山顶的要塞建筑群,金顶清真寺、教堂与城堡在此共用同一道城墙,见证着这座小城长久以来格鲁吉亚人、奥斯曼人、亚美尼亚人与犹太人共居共融的历史。如今,它主要作为前往周边更著名景点的门户城镇,包括瓦尔济亚洞穴修道院、赫尔特维西要塞以及温泉小镇阿巴斯图马尼。",
+      "getting": "阿哈尔齐赫没有机场或铁路可直达,最可靠的方式是从第比利斯的迪杜贝巴士站乘坐marshrutka(共享小巴),车程大约3到3.5小时。若是经由博尔乔米或库塔伊西前来的旅客,也可以在当地转乘前往阿哈尔齐赫的小巴。",
+      "days": "参观拉巴提城堡建筑群和老城区,半天时间即可;若把阿哈尔齐赫作为基地,前往瓦尔济亚、萨帕拉修道院及萨姆茨赫-贾瓦赫季周边地区进行一日游,则建议安排2到3天。"
+    }
+  },
+  "Batumi": {
+    "en": {
+      "blurb": "Batumi is Georgia's Black Sea resort city, a strip of pebble beaches, palm-lined boulevards and neon high-rises set against the Adjara mountains. It blends Soviet-era port town grit with a casino-and-cocktail skyline, giving it a character unlike anywhere else in the Caucasus.",
+      "getting": "Most travellers fly into Batumi International Airport (BUS), which sits just a couple of kilometres from the city centre, or arrive overland by train from Tbilisi, with direct services taking roughly ~4 to 6 hours depending on the schedule. The train terminates at Batumi Central station, a few kilometres north of the city centre, from where taxis and local buses run into town.",
+      "days": "Plan on ~2 to 3 days to cover the seaside boulevard, Old Town and a day trip into the nearby Adjara mountains, or longer if you want to use Batumi as a base for exploring the wider Black Sea coast."
+    },
+    "ko": {
+      "blurb": "바투미는 조지아의 흑해 연안 휴양 도시로, 자갈 해변과 야자수가 늘어선 대로, 그리고 네온사인으로 빛나는 고층 건물들이 아자라 산맥을 배경으로 펼쳐져 있다. 소비에트 시절 항구 도시의 투박한 분위기와 카지노·칵테일 바가 즐비한 화려한 스카이라인이 뒤섞여, 캅카스 지역 어디에서도 볼 수 없는 독특한 매력을 자아낸다.",
+      "getting": "대부분의 여행자는 시내 중심부에서 불과 몇 킬로미터 떨어진 바투미 국제공항(BUS)을 이용해 비행기로 도착하거나, 트빌리시에서 기차를 타고 육로로 이동한다. 직행 열차는 운행 일정에 따라 대략 4~6시간 정도 소요된다. 열차는 시내 중심부에서 북쪽으로 몇 킬로미터 떨어진 바투미 중앙역에 도착하며, 이곳에서 택시나 시내버스를 이용해 시내로 들어갈 수 있다.",
+      "days": "해안 대로와 구시가지를 둘러보고 인근 아자라 산맥으로 당일치기 여행을 다녀오려면 약 2~3일 정도를 잡으면 된다. 바투미를 거점 삼아 흑해 연안 전역을 더 폭넓게 둘러보고 싶다면 그보다 더 길게 일정을 잡는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "バトゥミは、ジョージアが誇る黒海のリゾート都市。石ころの浜辺とヤシ並木の続く遊歩道、そしてネオン輝く高層ビル群が、背後に迫るアジャラの山々を背景に広がっている。ソビエト時代の港町らしい武骨さと、カジノやカクテルバーが彩る近未来的なスカイラインが同居し、コーカサス地方のどことも違う独特の雰囲気を醸し出している。",
+      "getting": "多くの旅行者はバトゥミ国際空港(BUS)を利用して到着する。空港は市街中心部からわずか数キロの距離にある。あるいはトビリシから鉄道で陸路入りする方法もあり、直通列車でおよそ4~6時間、時刻表によって所要時間は多少前後する。列車の終点はバトゥミ中央駅で、市街中心部からは少し北に数キロ離れており、そこからタクシーや路線バスで市内へ向かうことができる。",
+      "days": "海沿いの遊歩道、旧市街、そして近郊アジャラ山地への日帰り旅を楽しむなら2~3日ほどを見ておきたい。黒海沿岸をさらに広く周遊する拠点としてバトゥミを使うなら、もう少し長めの滞在がおすすめだ。"
+    },
+    "es": {
+      "blurb": "Batumi es la ciudad balneario georgiana del mar Negro, una franja de playas de guijarros, bulevares bordeados de palmeras y rascacielos de neón que se recortan contra las montañas de Adjara. Combina la esencia portuaria de la era soviética con un horizonte de casinos y cócteles, lo que le da un carácter que no se encuentra en ningún otro lugar del Cáucaso.",
+      "getting": "La mayoría de los viajeros llega en avión al Aeropuerto Internacional de Batumi (BUS), ubicado a apenas un par de kilómetros del centro de la ciudad, o por tierra en tren desde Tiflis, con servicios directos que tardan aproximadamente entre 4 y 6 horas según el horario. El tren termina su recorrido en la estación Central de Batumi, a unos kilómetros al norte del centro, desde donde taxis y autobuses locales llevan hasta la ciudad.",
+      "days": "Conviene reservar entre 2 y 3 días para recorrer el bulevar frente al mar, el Casco Antiguo y hacer una excursión de un día a las cercanas montañas de Adjara, o más tiempo si se quiere usar Batumi como base para explorar el resto de la costa del mar Negro."
+    },
+    "zh": {
+      "blurb": "巴统是格鲁吉亚黑海之滨的度假城市,鹅卵石海滩绵延,棕榈树夹道的滨海大道与霓虹闪烁的高楼大厦背靠阿扎尔山脉,交相辉映。这里既保留着苏联时期港口小城的粗粝气息,又拥有赌场与鸡尾酒吧林立的摩登天际线,形成了高加索地区独一无二的城市气质。",
+      "getting": "大多数旅行者选择飞抵巴统国际机场(BUS),该机场距市中心仅几公里之遥;也可以从第比利斯乘火车经陆路前往,直达列车车程视车次而定,大约需要4到6小时。火车终点站为巴统中央火车站,位于市中心以北几公里处,从那里可乘坐出租车或当地公交车进入市区。",
+      "days": "建议安排2到3天时间,游览海滨大道、老城区,并抽出一天前往附近的阿扎尔山区游玩;如果想以巴统为据点探索更广阔的黑海沿岸地区,则可以安排更长的时间。"
+    }
+  },
+  "Borjomi": {
+    "en": {
+      "blurb": "Borjomi is a 19th century spa town tucked into a forested gorge in central Georgia, built around the naturally carbonated mineral springs that have drawn bathers since Tsarist times. Its sprawling Central Park, faded Romanov-era bathhouses and surrounding Borjomi-Kharagauli National Park give it a genteel, slightly time-worn charm quite unlike Georgia's coastal or capital cities.",
+      "getting": "There is no airport in Borjomi: travellers usually fly into Tbilisi International Airport (TBS), the country's main gateway, then continue overland. From Tbilisi, minibuses (marshrutky) and a scenic daily train both run to Borjomi, taking roughly 2 to 4 hours depending on the service.",
+      "days": "Most visitors allow ~1 to 2 days, enough to stroll Central Park, sample the famous spring water, ride the cable car, and make a short trip into the surrounding national park."
+    },
+    "ko": {
+      "blurb": "보르조미는 조지아 중부, 숲이 우거진 협곡 속에 자리 잡은 19세기풍 온천 마을이다. 차르 시대부터 사람들을 끌어모은 천연 탄산 광천수를 중심으로 발전했으며, 넓게 펼쳐진 센트럴 파크와 로마노프 왕조 시절의 빛바랜 목욕탕, 그리고 주변을 둘러싼 보르조미-하라가울리 국립공원이 어우러져 조지아의 해안 도시나 수도와는 또 다른, 고풍스럽고 세월의 흔적이 묻어나는 우아한 매력을 풍긴다.",
+      "getting": "보르조미에는 공항이 없다. 여행자들은 보통 조지아의 관문인 트빌리시 국제공항(TBS)으로 입국한 뒤 육로로 이동한다. 트빌리시에서 보르조미까지는 마르슈루트카(미니버스)와 매일 운행하는 경치 좋은 기차가 모두 다니며, 교통편에 따라 대략 2~4시간이 소요된다.",
+      "days": "대부분의 여행자는 1~2일 정도를 할애한다. 센트럴 파크를 거닐고, 유명한 광천수를 맛보고, 케이블카를 타고, 주변 국립공원으로 짧은 나들이를 다녀오기에 충분한 시간이다."
+    },
+    "ja": {
+      "blurb": "ボルジョミは、ジョージア中央部の森に抱かれた渓谷にひっそりと佇む、19世紀創業の温泉保養地です。帝政ロシア時代から湯治客を惹きつけてきた天然炭酸ミネラル泉を中心に発展しました。広々とした中央公園や、ロマノフ朝時代の面影を残す色褪せた浴場施設、そしてそれを取り囲むボルジョミ=ハラガウリ国立公園が織りなす、どこか気品ある懐かしさは、ジョージアの沿岸都市や首都とはひと味違った魅力を醸し出しています。",
+      "getting": "ボルジョミには空港がないため、通常はジョージアの玄関口であるトビリシ国際空港(TBS)に到着し、そこから陸路で向かうことになります。トビリシからは、ミニバス(マルシュルートカ)と、景色の美しい1日1便の列車の両方が運行しており、所要時間は便によって2〜4時間ほどです。",
+      "days": "滞在日数は1〜2日ほど見ておくとよいでしょう。中央公園を散策し、名物の鉱泉水を味わい、ロープウェイに乗り、さらに周辺の国立公園へ足を延ばすには十分な時間です。"
+    },
+    "es": {
+      "blurb": "Borjomi es una ciudad balneario del siglo XIX enclavada en un desfiladero boscoso del centro de Georgia, construida en torno a los manantiales de agua mineral naturalmente carbonatada que atraen a visitantes desde la época zarista. Su amplio Parque Central, las desgastadas casas de baños de la era de los Romanov y el Parque Nacional de Borjomi-Kharagauli que la rodea le confieren un encanto distinguido y algo añejo, muy distinto al de las ciudades costeras o la capital de Georgia.",
+      "getting": "Borjomi no cuenta con aeropuerto propio: los viajeros suelen llegar al Aeropuerto Internacional de Tiflis (TBS), la principal puerta de entrada al país, y continuar el trayecto por tierra. Desde Tiflis, tanto los minibuses (marshrutky) como un pintoresco tren diario conectan con Borjomi, con una duración de entre 2 y 4 horas según el servicio.",
+      "days": "La mayoría de los visitantes dedica entre 1 y 2 días, tiempo suficiente para pasear por el Parque Central, probar la famosa agua de manantial, subir en el teleférico y hacer una breve excursión al parque nacional de los alrededores."
+    },
+    "zh": {
+      "blurb": "博尔乔米是坐落在格鲁吉亚中部一条林木茂密的峡谷中的19世纪温泉小镇，因天然含碳酸矿泉水而兴起，自沙俄时代起便吸引着无数人前来泡浴。镇上绵延的中央公园、略显斑驳的罗曼诺夫王朝风格浴场，以及周边的博尔乔米-哈拉盖乌利国家公园，共同赋予了它一种优雅而略带岁月痕迹的气质，与格鲁吉亚的沿海城市或首都截然不同。",
+      "getting": "博尔乔米本身没有机场，游客通常先飞抵格鲁吉亚主要门户机场——第比利斯国际机场（TBS），再转乘陆路交通前往。从第比利斯出发，无论是小巴（marshrutka）还是每日一班、沿途风景优美的火车，都可直达博尔乔米，车程视班次而定，大约需要2到4小时。",
+      "days": "大多数游客会安排1到2天的行程，足以悠闲漫步中央公园、品尝当地闻名的矿泉水、乘坐缆车，并顺道前往周边的国家公园短途游览。"
+    }
+  },
+  "Gori": {
+    "en": {
+      "blurb": "Gori is a small, unassuming city in central Georgia best known as the birthplace of Joseph Stalin, whose shadow still looms over its central square via a sprawling museum complex and his preserved armoured railway carriage. It also serves as the natural base for visiting Uplistsikhe, a dramatic cave city carved into rock just outside town.",
+      "getting": "Gori has no airport of its own; most travellers arrive overland from Tbilisi, roughly ~1 hour by direct train from Tbilisi's central railway station, or ~1.5 hours by marshrutka (minibus) from Tbilisi's Didube station, with the Gori train station conveniently located in the town centre near the main sights.",
+      "days": "Allow ~1 day, which comfortably covers the Stalin Museum and birth house in town plus a side trip by taxi or marshrutka to the Uplistsikhe cave city nearby."
+    },
+    "ko": {
+      "blurb": "고리는 조지아 중부에 자리한 작고 소박한 도시지만, 이오시프 스탈린의 고향으로 가장 잘 알려져 있다. 그의 그림자는 지금도 도시 중앙 광장에 드리워져 있는데, 방대한 규모의 박물관 단지와 그가 사용했던 장갑 철도 객차가 그대로 보존되어 있다. 또한 고리는 마을 바로 외곽, 바위를 깎아 만든 극적인 동굴 도시 우플리스치헤를 둘러보기 위한 자연스러운 거점 도시이기도 하다.",
+      "getting": "고리에는 자체 공항이 없어서, 대부분의 여행자는 트빌리시에서 육로로 이동한다. 트빌리시 중앙역에서 직행 열차로 약 1시간, 또는 트빌리시 디두베역에서 마르슈루트카(소형 버스)로 약 1시간 30분이 걸린다. 고리 기차역은 시내 중심부, 주요 명소들과 가까운 곳에 위치해 있어 이용이 편리하다.",
+      "days": "하루 정도면 충분하다. 시내의 스탈린 박물관과 생가를 둘러보고, 택시나 마르슈루트카를 타고 근교의 우플리스치헤 동굴 도시까지 다녀올 수 있다."
+    },
+    "ja": {
+      "blurb": "ゴリは、グルジア(ジョージア)中部に位置する、これといって特徴のない小さな町だが、ヨシフ・スターリンの生誕地として最もよく知られている。中央広場には今も彼の影が色濃く残り、広大なミュージアム施設や保存されている彼専用の装甲列車車両がその象徴となっている。また、町外れの岩山を掘り抜いて作られた迫力満点の洞窟都市、ウプリスツィヘを訪れる際の拠点としても最適な町だ。",
+      "getting": "ゴリには空港がないため、ほとんどの旅行者はトビリシから陸路でアクセスする。トビリシ中央駅からの直通列車で約1時間、またはトビリシのディドゥベ駅からマルシュルートカ(乗合ミニバス)で約1時間半ほど。ゴリ駅は町の中心部、主要な見どころの近くにあり、非常に便利だ。",
+      "days": "滞在日数の目安は1日。これで町なかにあるスターリン博物館と生家をゆっくり見て回り、さらにタクシーかマルシュルートカで近郊のウプリスツィヘ洞窟都市へ足を延ばすのに十分な時間となる。"
+    },
+    "es": {
+      "blurb": "Gori es una pequeña ciudad sin grandes pretensiones en el centro de Georgia, conocida sobre todo por ser la cuna natal de Iósif Stalin, cuya sombra todavía se cierne sobre la plaza central a través de un extenso complejo museístico y su vagón de tren blindado conservado. La ciudad también funciona como base natural para visitar Uplistsikhe, una impresionante ciudad-cueva excavada en la roca a las afueras.",
+      "getting": "Gori no cuenta con aeropuerto propio, así que la mayoría de los viajeros llegan por tierra desde Tbilisi: alrededor de 1 hora en tren directo desde la estación central de ferrocarril de Tbilisi, o unas 1,5 horas en marshrutka (microbús) desde la estación de Didube, en Tbilisi. La estación de tren de Gori está convenientemente ubicada en el centro de la ciudad, cerca de los principales puntos de interés.",
+      "days": "Con alrededor de 1 día basta para recorrer con calma el Museo de Stalin y su casa natal en la ciudad, además de hacer una excursión en taxi o marshrutka a la cercana ciudad-cueva de Uplistsikhe."
+    },
+    "zh": {
+      "blurb": "哥里是格鲁吉亚中部一座低调的小城，最广为人知的身份是斯大林的出生地——这段历史至今仍笼罩着城市中心广场：一座规模庞大的博物馆建筑群，以及保存至今的他的专用装甲列车车厢。哥里同时也是前往乌普利斯茨赫（Uplistsikhe）的理想落脚点，那是一座就在城外不远处、依山凿岩而建的壮观洞穴古城。",
+      "getting": "哥里本身没有机场，大多数游客都是从第比利斯走陆路前往：从第比利斯中央火车站乘直达火车约1小时即可到达；也可以从第比利斯的迪杜贝（Didube）车站乘坐马路特卡（marshrutka，小巴）前往，车程约1.5小时。哥里火车站的位置十分便利，就在市中心，步行即可抵达主要景点。",
+      "days": "建议预留约1天时间，足够从容游览市内的斯大林博物馆和故居，再乘出租车或马路特卡顺道前往附近的乌普利斯茨赫洞穴古城一日游。"
+    }
+  },
+  "Gudauri": {
+    "en": {
+      "blurb": "Perched at roughly 2,200m in the Greater Caucasus, Gudauri is Georgia's largest and highest ski resort, with slopes that sit entirely above the tree line, making them unusually sunny and, resort operators say, avalanche-safe. Beyond winter sports, it's a stop on the dramatic Georgian Military Highway, with views toward Mount Kazbek and access to heli-skiing and ski touring in season.",
+      "getting": "The nearest airport is Tbilisi International Airport (TBS); there is no rail line to Gudauri, so travellers continue by road along the Georgian Military Highway, either by taxi, private transfer or marshrutka minibus from Tbilisi's Didube bus station. The drive covers roughly 120 to 135km and typically takes ~2 to 3 hours, depending on traffic and mountain weather.",
+      "days": "Most visitors base themselves in Gudauri for 2 to 4 days, enough time for a few days of skiing or touring plus a side trip along the Military Highway to Ananuri Fortress or Stepantsminda."
+    },
+    "ko": {
+      "blurb": "대카프카스 산맥, 해발 약 2,200m 지점에 자리한 구다우리는 조지아에서 가장 크고 가장 높은 스키 리조트다. 슬로프 전체가 수목한계선보다 높은 곳에 펼쳐져 있어 유난히 햇볕이 잘 들고, 리조트 측 설명에 따르면 눈사태로부터도 비교적 안전하다고 한다. 겨울 스포츠 외에도 구다우리는 장엄한 풍경으로 유명한 조지아 군사도로(Georgian Military Highway)의 경유지로, 카즈베기 산(Mount Kazbek)을 바라보는 전망을 즐길 수 있으며, 시즌에는 헬리스키와 스키 투어링도 가능하다.",
+      "getting": "가장 가까운 공항은 트빌리시 국제공항(TBS)이며, 구다우리까지 철도는 연결되어 있지 않다. 따라서 여행자들은 조지아 군사도로를 따라 육로로 이동해야 하는데, 택시나 전용 차량을 이용하거나 트빌리시의 디두베(Didube) 버스터미널에서 마르쉬루트카(marshrutka) 미니버스를 타는 방법이 있다. 이동 거리는 약 120~135km이며, 교통 상황과 산간 날씨에 따라 보통 2~3시간 정도 소요된다.",
+      "days": "대부분의 여행자는 구다우리에서 2~4일 정도 머문다. 며칠간 스키나 투어링을 즐기기에 충분한 시간이며, 군사도로를 따라 아나누리 요새(Ananuri Fortress)나 스테판츠민다(Stepantsminda)로 당일치기 여행을 다녀오기에도 적당하다."
+    },
+    "ja": {
+      "blurb": "大カフカス山脈の標高約2,200m地点に位置するグダウリは、ジョージア最大かつ最高所にあるスキーリゾートです。ゲレンデはすべて森林限界より上にあるため、日当たりが非常に良く、リゾート運営者によれば雪崩のリスクも低いとされています。ウィンタースポーツだけでなく、絶景で知られるジョージア軍用道路沿いの立ち寄りスポットでもあり、カズベギ山(カズベク山)を望む眺望や、シーズン中のヘリスキー・スキーツーリングへのアクセスも魅力です。",
+      "getting": "最寄り空港はトビリシ国際空港(TBS)です。グダウリへは鉄道が通っていないため、ジョージア軍用道路を陸路で向かうことになります。タクシーやプライベート送迎を利用するか、トビリシのディドゥベ・バスステーションからマルシュルートカ(乗合ミニバス)に乗る方法が一般的です。移動距離はおよそ120〜135kmで、交通状況や山間部の天候にもよりますが、所要時間はおよそ2〜3時間です。",
+      "days": "多くの旅行者は2〜4日ほどグダウリに滞在します。数日間スキーやツーリングを楽しみつつ、軍用道路沿いのアナヌリ要塞やステパンツミンダへ足を延ばすのにちょうど良い長さです。"
+    },
+    "es": {
+      "blurb": "Encaramado a unos 2.200 m en el Gran Cáucaso, Gudauri es la estación de esquí más grande y más alta de Georgia, con pistas que se extienden íntegramente por encima del límite del bosque, lo que las hace excepcionalmente soleadas y, según los operadores de la estación, seguras frente a avalanchas. Más allá de los deportes de invierno, Gudauri es una parada obligada en la espectacular Autopista Militar Georgiana, con vistas al monte Kazbek y acceso a heliesquí y esquí de travesía en temporada.",
+      "getting": "El aeropuerto más cercano es el Aeropuerto Internacional de Tbilisi (TBS); como no existe línea de ferrocarril hasta Gudauri, los viajeros continúan por carretera a través de la Autopista Militar Georgiana, ya sea en taxi, traslado privado o en los minibuses marshrutka que salen de la estación de autobuses Didube en Tbilisi. El trayecto cubre entre 120 y 135 km y suele tardar entre 2 y 3 horas, dependiendo del tráfico y de las condiciones climáticas en la montaña.",
+      "days": "La mayoría de los visitantes se alojan en Gudauri entre 2 y 4 días, tiempo suficiente para disfrutar de varias jornadas de esquí o travesía, además de una excursión por la Autopista Militar hasta la Fortaleza de Ananuri o Stepantsminda."
+    },
+    "zh": {
+      "blurb": "古道里（Gudauri）坐落在大高加索山脉中，海拔约2,200米，是格鲁吉亚规模最大、海拔最高的滑雪胜地。这里的雪道全部位于林线以上，因此阳光格外充足，当地的度假村运营方也称这让雪道更不容易发生雪崩。除了冬季运动，古道里还是壮丽的格鲁吉亚军用公路沿线的一站，在这里可以眺望卡兹别克峰（Mount Kazbek），季节合适时还能体验直升机滑雪和越野滑雪之旅。",
+      "getting": "距离古道里最近的机场是第比利斯国际机场（TBS）。由于没有铁路直达古道里，游客需沿着格鲁吉亚军用公路继续陆路前行，可以选择打车、预订私人接送，或者从第比利斯的迪杜贝（Didube）汽车站乘坐marshrutka小巴前往。全程大约120到135公里，通常需要2到3小时左右，具体用时取决于路况和山区天气。",
+      "days": "大多数游客会在古道里停留2到4天，这样的时间既能安排几天滑雪或滑雪旅行，也能抽空沿军用公路去一趟阿纳努里城堡（Ananuri Fortress）或斯特潘茨明达（Stepantsminda）。"
+    }
+  },
+  "Kutaisi": {
+    "en": {
+      "blurb": "Kutaisi is Georgia's ancient western capital, a city of crumbling Soviet-era facades, a roaring river gorge and the honey-coloured ruins of Bagrati Cathedral watching over it from the hilltop. It feels less polished than Tbilisi and more lived-in, a working city that happens to sit beside some of the country's most striking medieval monuments and cave systems.",
+      "getting": "Most travellers arrive via Kutaisi International Airport (KUT), a hub for low-cost carriers including Wizz Air, with buses and marshrutkas running from the terminal into the city and on to Tbilisi or Batumi. Overland, the most reliable option from the capital is the direct minibus (marshrutka) or intercity bus from Tbilisi, since Kutaisi is no longer served by a direct train and rail travellers must change at Rioni station outside the city.",
+      "days": "Plan on ~2 days to cover the cathedral, the old town and a half-day trip to the nearby Prometheus or Sataplia caves."
+    },
+    "ko": {
+      "blurb": "쿠타이시는 조지아 서부의 유서 깊은 옛 수도로, 낡아가는 소비에트 시대 건물들과 거세게 흐르는 강 협곡, 그리고 언덕 위에서 도시를 굽어보는 꿀빛 바그라티 대성당 유적이 공존하는 도시다. 트빌리시보다 덜 다듬어졌지만 그만큼 사람 사는 냄새가 짙게 배어 있으며, 조지아에서 손꼽히는 중세 유적과 동굴 지대를 바로 곁에 둔 생활 도시이기도 하다.",
+      "getting": "대부분의 여행자는 쿠타이시 국제공항(KUT)을 통해 입국한다. 위즈에어(Wizz Air)를 비롯한 저가 항공사들의 거점 공항으로, 터미널에서 시내로, 그리고 트빌리시나 바투미로 향하는 버스와 마르슈루트카(합승 미니버스)가 운행된다. 육로로 이동할 경우 수도 트빌리시에서 오는 가장 확실한 방법은 직행 마르슈루트카나 시외버스를 이용하는 것이다. 쿠타이시로 가는 직행 열차는 더 이상 운행되지 않기 때문에, 기차로 이동하려면 시 외곽의 리오니(Rioni)역에서 환승해야 한다.",
+      "days": "대성당과 구시가지를 둘러보고, 근교의 프로메테우스 동굴이나 사타플리아 동굴을 반나절 코스로 다녀오려면 대략 2일 정도를 잡으면 된다."
+    },
+    "ja": {
+      "blurb": "クタイシはジョージア西部の古都であり、ソビエト時代の面影を残す色褪せたファサードの街並み、轟音を立てて流れる渓谷、そして丘の上から街を見下ろす蜂蜜色のバグラティ大聖堂の廃墟が印象的な町だ。トビリシに比べると洗練された雰囲気は少ないが、その分生活感にあふれた「働く街」であり、それでいて国内屈指の壮麗な中世の遺跡群や鍾乳洞のすぐそばに位置しているのが面白いところだ。",
+      "getting": "多くの旅行者はクタイシ国際空港(KUT)を利用して到着する。ここはWizz Airをはじめとする格安航空会社のハブ空港で、ターミナルから市内行きやトビリシ・バトゥミ方面行きのバスやマルシュルートカ(乗合バス)が出ている。陸路で首都トビリシから向かう場合、最も確実なのはトビリシからの直行マルシュルートカ、または都市間バスだ。クタイシへの直通列車はすでに廃止されているため、鉄道を利用する場合は郊外のリオニ駅で乗り換える必要がある。",
+      "days": "大聖堂と旧市街の観光に加え、近郊のプロメテウス洞窟やサタプリア洞窟への半日旅行も含めると、滞在日数の目安は2日ほどだ。"
+    },
+    "es": {
+      "blurb": "Kutaisi es la antigua capital occidental de Georgia, una ciudad de fachadas desgastadas de la era soviética, un bramante desfiladero fluvial y las ruinas color miel de la Catedral de Bagrati, que la observan desde lo alto de la colina. Se siente menos pulida que Tbilisi y más auténtica, una ciudad de trabajo que, por casualidad, se encuentra junto a algunos de los monumentos medievales y sistemas de cuevas más impresionantes del país.",
+      "getting": "La mayoría de los viajeros llega a través del Aeropuerto Internacional de Kutaisi (KUT), un centro de operaciones de aerolíneas low-cost como Wizz Air, desde donde salen autobuses y marshrutkas hacia la ciudad y también hacia Tbilisi o Batumi. Por tierra, la opción más fiable desde la capital es el minibús directo (marshrutka) o el autobús interurbano desde Tbilisi, ya que Kutaisi ya no cuenta con tren directo y quienes viajen en ferrocarril deben hacer transbordo en la estación de Rioni, a las afueras de la ciudad.",
+      "days": "Conviene reservar unos 2 días para recorrer la catedral, el casco antiguo y hacer una excursión de medio día a las cercanas cuevas de Prometeo o Sataplia."
+    },
+    "zh": {
+      "blurb": "库塔伊西是格鲁吉亚古老的西部首府,这座城市遍布着斑驳剥落的苏联时期建筑外墙,一条奔腾咆哮的河流峡谷穿城而过,还有蜂蜜色的巴格拉特大教堂遗址矗立山顶,俯瞰全城。相比第比利斯,这里少了几分精致,却多了几分生活气息——这是一座实实在在的生活化城市,恰好坐落在该国一些最震撼的中世纪古迹和洞穴群旁边。",
+      "getting": "大多数旅行者通过库塔伊西国际机场(KUT)抵达,这里是包括维兹air在内的多家廉价航空公司的枢纽,有巴士和marshrutka(小巴)从航站楼直达市区,并可继续前往第比利斯或巴统。陆路方面,从首都出发最可靠的方式是乘坐直达的marshrutka小巴或城际巴士,因为库塔伊西目前已没有直达火车,乘火车的旅行者需要在城外的里奥尼(Rioni)车站换乘。",
+      "days": "建议安排约2天时间,游览大教堂、老城区,再花半天时间前往附近的普罗米修斯洞穴或萨塔普利亚洞穴。"
+    }
+  },
+  "Kvareli": {
+    "en": {
+      "blurb": "Kvareli sits in the Alazani Valley at the foot of the Greater Caucasus, a quiet Kakheti wine town known for its semisweet Kindzmarauli reds and a vast cellar tunnel carved into the hillside. It was also the birthplace of writer Ilia Chavchavadze, whose family home is preserved as a museum in town.",
+      "getting": "There is no rail link to Kvareli, so travellers arrive by road, typically flying into Tbilisi International Airport (TBS) and then taking a marshrutka (minibus) from Tbilisi's bus stations or a private car/taxi, a trip of roughly 2 to 3 hours each way.",
+      "days": "Allow ~2 days to cover Kvareli's wine cellars, the Chavchavadze museum and a short excursion to nearby Nekresi or Gremi, or extend to 3 to 4 days if combining it with Telavi and Sighnaghi as a wider Kakheti base."
+    },
+    "ko": {
+      "blurb": "크바렐리는 캅카스 대산맥 기슭, 알라자니 계곡에 자리한 조용한 카헤티 와인 마을로, 달콤하면서도 약간의 산미가 느껴지는 킨즈마라울리 레드 와인과 언덕을 파서 만든 거대한 지하 와인 저장고로 유명하다. 또한 작가 일리야 차브차바제의 고향이기도 하며, 그의 생가는 현재 박물관으로 보존되어 마을 안에 자리하고 있다.",
+      "getting": "크바렐리까지는 철도가 연결되어 있지 않아 모두 육로로 이동해야 한다. 보통 트빌리시 국제공항(TBS)으로 입국한 뒤, 트빌리시 버스터미널에서 마르슈루트카(소형 버스)를 타거나 개인 차량·택시를 이용하며, 편도로 대략 2~3시간이 걸린다.",
+      "days": "크바렐리의 와인 저장고와 차브차바제 박물관을 둘러보고 인근 네크레시나 그레미까지 짧게 다녀오려면 약 2일이면 충분하다. 텔라비와 시그나기까지 함께 묶어 카헤티 지역 여행의 거점으로 삼는다면 3~4일로 일정을 늘리는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "クヴァレリは大カフカス山脈のふもと、アラザニ渓谷に広がる静かなカヘティ地方のワインの町。半甘口の赤ワイン「キンズマラウリ」の産地として知られ、丘の斜面をくり抜いて造られた広大なワイン貯蔵トンネルがあります。作家イリア・チャフチャヴァゼの生まれ故郷でもあり、その生家は町の中で博物館として保存されています。",
+      "getting": "クヴァレリへ鉄道は通っておらず、旅行者は陸路でアクセスします。一般的にはトビリシ国際空港(TBS)に飛行機で入り、そこからトビリシのバスターミナルからマルシュルートカ(乗合ミニバス)を利用するか、ハイヤー・タクシーで向かいます。所要時間は片道およそ2〜3時間です。",
+      "days": "クヴァレリのワインセラー巡りやチャフチャヴァゼ博物館の見学、近郊のネクレシやグレミへの小旅行には、2日ほど見ておくとよいでしょう。テラヴィやシグナギと組み合わせてカヘティ地方を広く周遊する拠点とする場合は、3〜4日に延ばすのがおすすめです。"
+    },
+    "es": {
+      "blurb": "Kvareli se asienta en el valle de Alazani, al pie del Gran Cáucaso, un tranquilo pueblo vinícola de Kajetia conocido por sus tintos semidulces Kindzmarauli y por una enorme bodega subterránea excavada en la ladera de la colina. También fue la cuna del escritor Ilia Chavchavadze, cuya casa familiar se conserva hoy como museo en el pueblo.",
+      "getting": "Kvareli no tiene conexión ferroviaria, así que se llega por carretera: lo habitual es volar hasta el aeropuerto internacional de Tiflis (TBS) y luego tomar una marshrutka (microbús) desde las estaciones de autobuses de Tiflis, o bien un coche o taxi privado, en un trayecto de unas 2 a 3 horas en cada sentido.",
+      "days": "Reserva unos 2 días para recorrer las bodegas de Kvareli, el museo de Chavchavadze y hacer una breve excursión a la cercana Nekresi o Gremi, o amplíalo a 3 o 4 días si lo combinas con Telavi y Sighnaghi para explorar Kajetia con más calma."
+    },
+    "zh": {
+      "blurb": "克瓦雷利（Kvareli）坐落在阿拉扎尼河谷（Alazani Valley）中，背倚大高加索山脉，是卡赫季（Kakheti）地区一座静谧的葡萄酒小镇，以半甜型金兹马劳里（Kindzmarauli）红葡萄酒和依山而凿的巨型酒窖隧道闻名。这里也是作家伊利亚·查夫查瓦泽（Ilia Chavchavadze）的故乡，他的故居如今作为博物馆对外开放。",
+      "getting": "克瓦雷利没有铁路连接，游客一般走陆路前往：先飞抵第比利斯国际机场（TBS），再从第比利斯的汽车站搭乘marshrutka（小巴）或包车/打车前往，单程大约需要2到3个小时。",
+      "days": "建议安排约2天时间，游览克瓦雷利的酒窖、查夫查瓦泽博物馆，并顺道去附近的涅克列西（Nekresi）或格雷米（Gremi）短途游玩；如果打算把这里当作深度游览卡赫季的据点，连同特拉维（Telavi）和西格纳吉（Sighnaghi）一起玩，可以把行程延长到3到4天。"
+    }
+  },
+  "Mtskheta": {
+    "en": {
+      "blurb": "Mtskheta was the first capital of the kingdom of Kartli and remains Georgia's spiritual heart, home to the UNESCO-listed Svetitskhoveli Cathedral and the hilltop Jvari Monastery overlooking the confluence of the Mtkvari and Aragvi rivers. Its churches, built between the 6th and 11th centuries, anchor the country's Orthodox Christian identity and draw pilgrims alongside history travellers.",
+      "getting": "Most travellers reach Mtskheta by marshrutka (shared minibus) from Tbilisi's Didube bus terminal, a ride of roughly 30 to 60 minutes depending on traffic; the nearest international gateway is Tbilisi International Airport (TBS), about 17 km from the capital. A limited rail service also connects Tbilisi to Mtskheta, but departures are infrequent, so the marshrutka or a taxi remains the more reliable option.",
+      "days": "Mtskheta is typically visited as a half-day to full-day trip from Tbilisi, with ~3 to 4 hours enough for the cathedral and town centre, and a half day if Jvari Monastery is added."
+    },
+    "ko": {
+      "blurb": "므츠헤타는 카르틀리 왕국의 첫 수도였으며, 지금도 조지아의 영적 중심지로 남아 있습니다. 유네스코 세계문화유산인 스베티츠호벨리 대성당과 므츠바리강과 아라그비강이 만나는 지점을 내려다보는 언덕 위 즈바리 수도원이 바로 이곳에 있습니다. 6세기에서 11세기 사이에 세워진 므츠헤타의 교회들은 조지아 정교회 정체성의 근간을 이루며, 순례자와 역사 여행자들의 발길을 끌어모읍니다.",
+      "getting": "대부분의 여행자는 트빌리시 디두베 버스터미널에서 출발하는 마르슈루트카(합승 미니버스)를 타고 므츠헤타에 도착하며, 교통 상황에 따라 약 30분에서 1시간 정도 소요됩니다. 가장 가까운 국제 관문은 트빌리시 국제공항(TBS)으로, 수도에서 약 17km 떨어져 있습니다. 트빌리시와 므츠헤타를 잇는 기차편도 있지만 운행 횟수가 많지 않아, 마르슈루트카나 택시를 이용하는 편이 더 확실한 선택입니다.",
+      "days": "므츠헤타는 보통 트빌리시에서 반나절이나 하루 코스로 다녀오는 여행지입니다. 대성당과 시내 중심가만 둘러본다면 3~4시간이면 충분하고, 즈바리 수도원까지 함께 방문한다면 반나절 정도를 잡으면 됩니다."
+    },
+    "ja": {
+      "blurb": "ムツヘタはカルトリ王国最初の首都であり、今なおジョージアの精神的な中心地です。世界遺産に登録されているスヴェティツホヴェリ大聖堂や、ムトクヴァリ川とアラグヴィ川の合流点を見下ろす丘の上のジュヴァリ修道院もここにあります。6世紀から11世紀にかけて建てられた教会群は、この国の正教キリスト教のアイデンティティを支える存在であり、巡礼者から歴史愛好家まで多くの旅行者を惹きつけています。",
+      "getting": "ムツヘタへは、トビリシのディドゥベ・バスターミナルからマルシュルートカ(乗合ミニバス)で向かうのが一般的で、所要時間は交通状況にもよりますがおよそ30分から1時間です。最寄りの国際空港はトビリシ国際空港(TBS)で、首都中心部から約17kmの距離にあります。トビリシとムツヘタを結ぶ鉄道も限定的に運行していますが、本数が少ないため、マルシュルートカやタクシーの方が確実な移動手段といえます。",
+      "days": "ムツヘタは通常、トビリシから半日から1日の日帰り旅行先として訪れられます。大聖堂と旧市街の散策だけなら3~4時間ほどで十分ですが、ジュヴァリ修道院まで足を延ばす場合は半日ほど見ておくとよいでしょう。"
+    },
+    "es": {
+      "blurb": "Mtsjeta fue la primera capital del reino de Kartli y sigue siendo el corazón espiritual de Georgia, sede de la Catedral de Svetitskhoveli, declarada Patrimonio de la Humanidad por la UNESCO, y del Monasterio de Jvari, encaramado en la colina que domina la confluencia de los ríos Mtkvari y Aragvi. Sus iglesias, construidas entre los siglos VI y XI, son el pilar de la identidad ortodoxa del país y atraen tanto a peregrinos como a viajeros interesados en la historia.",
+      "getting": "La mayoría de los viajeros llega a Mtsjeta en marshrutka (microbús compartido) desde la terminal de autobuses de Didube, en Tbilisi, un trayecto de entre 30 y 60 minutos según el tráfico; la puerta de entrada internacional más cercana es el Aeropuerto Internacional de Tbilisi (TBS), a unos 17 km de la capital. También existe un servicio ferroviario limitado entre Tbilisi y Mtsjeta, pero las salidas son poco frecuentes, por lo que la marshrutka o el taxi siguen siendo la opción más fiable.",
+      "days": "Mtsjeta suele visitarse como excursión de medio día o de un día completo desde Tbilisi: con unas 3 o 4 horas basta para recorrer la catedral y el centro del pueblo, y conviene dedicar medio día si se añade la visita al Monasterio de Jvari."
+    },
+    "zh": {
+      "blurb": "姆茨赫塔曾是卡特利王国的首都，如今依然是格鲁吉亚的精神中心。这里坐落着被列入联合国教科文组织世界遗产名录的斯维提茨霍维利大教堂，以及俯瞰姆特克瓦里河与阿拉格维河交汇处的山顶贾瓦里修道院。这些建于6至11世纪的教堂，是格鲁吉亚东正教信仰的根基所在，既吸引虔诚的朝圣者，也吸引着热爱历史的旅行者。",
+      "getting": "大多数游客会从第比利斯的迪杜贝（Didube）汽车站乘坐marshrutka（共享小巴）前往姆茨赫塔，车程根据路况大约需要30到60分钟。距离姆茨赫塔最近的国际机场是第比利斯国际机场（TBS），距市中心约17公里。虽然也有连接第比利斯与姆茨赫塔的铁路，但班次较少，因此marshrutka或出租车仍是更可靠的出行方式。",
+      "days": "姆茨赫塔通常作为从第比利斯出发的半日游或一日游目的地。参观大教堂和小镇中心大约需要3到4小时，如果再加上贾瓦里修道院，则建议安排半天时间。"
+    }
+  },
+  "Sighnaghi": {
+    "en": {
+      "blurb": "Sighnaghi is a hilltop wine town in Kakheti, wrapped almost entirely by an 18th century fortress wall with dozens of surviving towers and looking out across the vine covered Alazani Valley to the snow capped Caucasus. Cobbled lanes, carved wooden balconies and a round the clock marriage registry have earned it the nickname \"City of Love\", but its real draw is the view and the qvevri wine made in the surrounding villages.",
+      "getting": "There is no airport or railway in Sighnaghi: travellers fly into Tbilisi (TBS) and continue by marshrutka from the Samgori or Navtlugi bus terminal, a journey of roughly 2 to 2.5 hours into the Kakheti hills; a taxi or private transfer along the same route takes a bit less.",
+      "days": "Plan on 1 to 2 days: a single day covers the fortress walls, the main square and a wine tasting, while a second day allows time for Bodbe Monastery and nearby Kakheti wineries."
+    },
+    "ko": {
+      "blurb": "시그나기는 카헤티 지역의 언덕 위에 자리한 와인 마을로, 18세기에 세워진 성벽이 마을 전체를 거의 둘러싸고 있으며 그 안에는 지금도 남아 있는 수십 개의 탑들이 자리하고 있다. 마을에서는 포도밭으로 뒤덮인 알라자니 계곡 너머로 만년설이 쌓인 캅카스 산맥까지 한눈에 들어온다. 돌이 깔린 좁은 골목길, 조각 장식이 아름다운 목조 발코니, 그리고 24시간 운영되는 혼인 등록소 덕분에 \"사랑의 도시\"라는 별명을 얻었지만, 이곳의 진짜 매력은 탁 트인 전망과 주변 마을에서 만들어지는 크베브리 와인이다.",
+      "getting": "시그나기에는 공항도 기차역도 없다. 여행자들은 트빌리시(TBS)로 입국한 뒤, 삼고리(Samgori) 또는 나브틀루기(Navtlugi) 버스 터미널에서 마르슈루트카(합승 미니버스)를 타고 카헤티 산간 지역으로 약 2~2.5시간을 이동해야 한다. 같은 경로를 택시나 개인 차량으로 이동하면 시간이 조금 더 단축된다.",
+      "days": "1~2일 일정을 추천한다. 하루 동안 성벽과 중앙 광장을 둘러보고 와인 테이스팅을 즐길 수 있으며, 이틀째에는 보드베 수도원과 인근 카헤티 와이너리를 방문할 여유가 생긴다."
+    },
+    "ja": {
+      "blurb": "シグナギは、カヘティ地方にある丘の上のワインの町で、18世紀に築かれた要塞壁がほぼ町全体を取り囲み、今も数多くの塔が現存している。眼下にはブドウ畑が広がるアラザニ渓谷が、そしてその先には雪を頂くコーカサス山脈が見渡せる。石畳の路地、彫刻が施された木造のバルコニー、そして24時間対応の結婚登録所のおかげで「愛の街」の愛称でも知られるが、本当の魅力はこの絶景と、周辺の村々で醸される伝統製法クヴェヴリワインにある。",
+      "getting": "シグナギには空港も鉄道もないため、まずはトビリシ(TBS)まで空路で入り、サムゴリ(Samgori)またはナヴトルグリ(Navtlugi)バスターミナルからマルシュルートカ(乗合バス)に乗り継ぐ。カヘティの丘陵地帯へ向かうこの道のりはおよそ2〜2.5時間。タクシーや貸切送迎を使えば同じルートでも多少時間を短縮できる。",
+      "days": "滞在日数の目安は1〜2日。1日あれば要塞の城壁巡り、中央広場の散策、ワインテイスティングまで楽しめる。2日目を確保すれば、ボドベ修道院や近隣のカヘティ地方のワイナリー巡りにも足を延ばせる。"
+    },
+    "es": {
+      "blurb": "Sighnaghi es un pueblo vinícola encaramado en una colina de Kakheti, casi completamente envuelto por una muralla de fortaleza del siglo XVIII con decenas de torres que todavía se mantienen en pie, y con vistas al valle de Alazani, cubierto de viñedos, y a las cumbres nevadas del Cáucaso. Sus calles empedradas, los balcones de madera tallada y un registro civil abierto las 24 horas le han valido el apodo de \"Ciudad del Amor\", pero su verdadero atractivo son las vistas y el vino de qvevri que se elabora en los pueblos de los alrededores.",
+      "getting": "Sighnaghi no cuenta con aeropuerto ni estación de tren: lo habitual es volar hasta Tiflis (TBS) y continuar en marshrutka desde la terminal de autobuses de Samgori o Navtlugi, un trayecto de entre 2 y 2,5 horas hacia las colinas de Kakheti; un taxi o un traslado privado por la misma ruta tarda un poco menos.",
+      "days": "Conviene reservar entre 1 y 2 días: con uno solo alcanza para recorrer las murallas de la fortaleza, la plaza principal y disfrutar de una cata de vinos, mientras que un segundo día deja tiempo para visitar el Monasterio de Bodbe y las bodegas cercanas de Kakheti."
+    },
+    "zh": {
+      "blurb": "西格纳吉是卡赫季一座建在山顶上的葡萄酒小镇,几乎整座城镇都被18世纪的要塞城墙环绕,城墙上保留着数十座古塔,放眼望去,满山葡萄藤延伸至阿拉扎尼河谷,再远处则是白雪皑皑的高加索山脉。鹅卵石小巷、雕花木阳台,加上全天候营业的婚姻登记处,让这座小城赢得了\"爱情之城\"的美誉,但真正吸引人的,还是这里的绝美风景,以及周边村庄酿造的瓦罐(克维夫瑞)葡萄酒。",
+      "getting": "西格纳吉没有机场,也没有火车站:游客通常先飞抵第比利斯(TBS),再从萨姆戈里(Samgori)或纳夫特卢吉(Navtlugi)长途汽车站搭乘marshrutka(小巴)前往,车程约2到2.5小时,一路驶入卡赫季的丘陵地带;如果选择出租车或包车走同样的路线,会稍微快一些。",
+      "days": "建议安排1到2天的行程:一天时间足够游览要塞城墙、中心广场,并体验一场葡萄酒品鉴;如果有第二天,则可以前往博德贝修道院,以及附近的卡赫季酒庄继续探索。"
+    }
+  },
+  "Stepantsminda": {
+    "en": {
+      "blurb": "Stepantsminda sits at around 1,740 metres in Georgia's Greater Caucasus, with the snow-capped cone of Mount Kazbek rising above the valley and the hilltop Gergeti Trinity Church perched on the opposite slope. Once called Kazbegi, this small mountain town has become one of Georgia's most visited bases for high-altitude hiking, close to the Russian border along the historic Georgian Military Highway.",
+      "getting": "There is no airport or railway in Stepantsminda, so travellers fly into Tbilisi International Airport (TBS) and continue overland. The usual route is a marshrutka (shared minibus) from Tbilisi's Didube bus station along the Georgian Military Highway, a scenic but winding drive that takes roughly 3 to 4 hours; private taxis and tour transfers cover the same route a little faster.",
+      "days": "Most visitors plan ~2 days, enough for the hike up to Gergeti Trinity Church and a day exploring nearby valleys such as Juta or Truso before heading back to Tbilisi."
+    },
+    "ko": {
+      "blurb": "스테판츠민다는 조지아 대코카서스 산맥에 해발 약 1,740미터 높이로 자리 잡고 있으며, 계곡 위로는 만년설이 덮인 카즈벡산의 원뿔형 봉우리가 솟아 있고, 맞은편 산비탈에는 게르게티 트리니티 교회가 언덕 위에 자리하고 있다. 한때 카즈베기라 불렸던 이 작은 산악 마을은 역사적인 조지아 군사도로를 따라 러시아 국경과 가까운 곳에 위치해 있으며, 오늘날에는 고산 트레킹을 즐기려는 여행자들이 가장 많이 찾는 조지아의 거점 마을 중 하나가 되었다.",
+      "getting": "스테판츠민다에는 공항이나 철도가 없기 때문에, 여행자들은 트빌리시 국제공항(TBS)으로 입국한 뒤 육로로 이동해야 한다. 가장 일반적인 방법은 트빌리시의 디두베 버스터미널에서 조지아 군사도로를 따라 운행하는 마르슈루트카(합승 미니버스)를 이용하는 것으로, 경치는 아름답지만 구불구불한 길을 따라 대략 3~4시간이 소요된다. 개인 택시나 투어 전용 차량을 이용하면 같은 경로를 조금 더 빠르게 이동할 수 있다.",
+      "days": "대부분의 여행자는 약 2일 일정을 계획하는데, 이 정도면 게르게티 트리니티 교회까지 올라가는 트레킹과 주타나 트루소 같은 인근 계곡을 둘러본 뒤 트빌리시로 돌아가기에 충분한 시간이다."
+    },
+    "ja": {
+      "blurb": "ステパンツミンダは、ジョージアの大カフカス山脈の中、標高およそ1,740メートルの地点に位置する町です。谷間にはカズベキ山の雪をいただいた円錐形の頂が聳え立ち、向かいの斜面には丘の上に建つゲルゲティ・トリニティ教会が見渡せます。かつてカズベギと呼ばれていたこの小さな山岳の町は、歴史あるジョージア軍用道路沿い、ロシア国境にほど近い場所にありながら、今ではジョージア有数の高地トレッキングの拠点として多くの旅行者を惹きつけています。",
+      "getting": "ステパンツミンダには空港も鉄道もないため、旅行者はまずトビリシ国際空港(TBS)に飛び、そこから陸路で向かうことになります。一般的なルートは、トビリシのディドゥベ・バスステーションからジョージア軍用道路を走るマルシュルートカ(乗合ミニバス)で、景色は美しいもののカーブの多い道のりを3〜4時間ほどかけて進みます。個人タクイーや旅行会社の送迎を利用すれば、同じルートをもう少し短時間で移動することも可能です。",
+      "days": "多くの旅行者は滞在日数を2日ほど見込んでいます。これだけあれば、ゲルゲティ・トリニティ教会までのハイキングに加え、ジュタやトゥルソといった近隣の谷を1日かけて巡ってからトビリシへ戻るのに十分な時間が取れます。"
+    },
+    "es": {
+      "blurb": "Stepantsminda se encuentra a unos 1.740 metros de altitud, en el Gran Cáucaso de Georgia, con el cono nevado del monte Kazbek elevándose sobre el valle y la iglesia de la Santísima Trinidad de Gergeti asomando en lo alto de la ladera opuesta. Antes conocida como Kazbegi, esta pequeña localidad de montaña se ha convertido en una de las bases más visitadas de Georgia para el senderismo de altura, muy cerca de la frontera con Rusia, a lo largo de la histórica Carretera Militar Georgiana.",
+      "getting": "Stepantsminda no cuenta con aeropuerto ni estación de tren, así que los viajeros llegan en avión al Aeropuerto Internacional de Tiflis (TBS) y continúan el trayecto por tierra. La opción más habitual es tomar una marshrutka (minibús compartido) desde la estación de autobuses de Didube, en Tiflis, por la Carretera Militar Georgiana, un trayecto pintoresco pero lleno de curvas que dura entre 3 y 4 horas; los taxis privados y los traslados turísticos recorren la misma ruta algo más rápido.",
+      "days": "La mayoría de los visitantes planea quedarse unos 2 días, tiempo suficiente para subir caminando hasta la iglesia de la Santísima Trinidad de Gergeti y dedicar una jornada a explorar valles cercanos como Juta o Truso antes de regresar a Tiflis."
+    },
+    "zh": {
+      "blurb": "斯特潘茨明达坐落在格鲁吉亚大高加索山脉中，海拔约1740米，白雪皑皑的卡兹别克山锥形山峰高耸在山谷之上，山对面的山顶上则矗立着格尔盖蒂三一教堂。这座小山城曾名卡兹别吉，如今已成为格鲁吉亚最受欢迎的高海拔徒步据点之一，紧邻俄罗斯边境，坐落在历史悠久的格鲁吉亚军事大道沿线。",
+      "getting": "斯特潘茨明达没有机场也没有铁路，因此游客通常先飞抵第比利斯国际机场（TBS），再转陆路前往。最常见的方式是从第比利斯迪杜贝长途汽车站乘坐marshrutka（共享小巴），沿格鲁吉亚军事大道而行，这段路线风景优美但弯道较多，车程大约需要3到4个小时；包车出租车和旅行社的接送服务走同样的路线，速度会稍快一些。",
+      "days": "大多数游客会安排约2天的行程，足以徒步前往格尔盖蒂三一教堂，再用一天时间探索附近的尤塔或特鲁索河谷等地，之后返回第比利斯。"
+    }
+  },
+  "Tbilisi": {
+    "en": {
+      "blurb": "Tbilisi tumbles across a bend in the Mtkvari River, a jumble of sulphur bathhouses, Soviet-era balconies and glass towers climbing the same hillsides as a centuries-old hilltop fortress. It is a crossroads city in the truest sense, shaped for centuries by Persian, Ottoman and Russian rule, and that layered history still shows in its churches, courtyards and winding old-town lanes.",
+      "getting": "Most travellers arrive via Tbilisi International Airport (TBS), about 17km southeast of the centre, then take the public bus into town, a taxi or app-based ride, or a pre-booked transfer; journey times run roughly 25 minutes to an hour depending on traffic and transport choice. A limited twice-daily train also links the airport to the central railway station, though its schedule rarely lines up conveniently with flights.",
+      "days": "Plan on ~3 to 4 days to cover the old town, a bathhouse soak and a day trip into the surrounding wine or mountain country."
+    },
+    "ko": {
+      "blurb": "트빌리시는 므트크바리강이 굽이치는 자리에 펼쳐진 도시로, 유황 목욕탕과 소비에트 시대의 발코니, 그리고 유리로 뒤덮인 고층 빌딩들이 수백 년 된 언덕 위 요새와 같은 언덕 비탈을 함께 메우고 있다. 말 그대로 교차로의 도시로, 수 세기에 걸쳐 페르시아, 오스만, 러시아의 지배를 받으며 형성되었고, 그 겹겹이 쌓인 역사는 지금도 교회와 안뜰, 구불구불한 구시가지 골목 곳곳에 남아 있다.",
+      "getting": "대부분의 여행자는 시내에서 남동쪽으로 약 17km 떨어진 트빌리시 국제공항(TBS)을 통해 도착한 뒤, 시내버스나 택시, 차량 호출 앱, 또는 사전 예약한 전용 픽업 서비스를 이용해 시내로 이동한다. 이동 시간은 교통 상황과 선택한 교통수단에 따라 대략 25분에서 1시간 정도 걸린다. 하루 두 차례 운행하는 열차도 공항과 중앙역을 연결하지만, 운행 시간이 항공편 일정과 맞아떨어지는 경우는 드물다.",
+      "days": "구시가지 탐방과 목욕탕에서의 여유로운 시간, 그리고 주변 와인 산지나 산악 지대로의 당일치기 여행까지 즐기려면 3~4일 정도 일정을 잡는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "トビリシは、ムトゥクヴァリ川の湾曲に沿って広がる街で、硫黄風呂、ソビエト時代のバルコニー、そしてガラス張りの高層ビルが、何世紀も前からそびえる丘の上の要塞と同じ斜面にひしめき合っている。まさに文字どおりの十字路都市であり、ペルシャ、オスマン、ロシアの支配を経て形づくられてきたその重層的な歴史は、教会や中庭、曲がりくねった旧市街の路地に今も色濃く残っている。",
+      "getting": "多くの旅行者は、中心部から南東へ約17kmに位置するトビリシ国際空港（TBS）に到着し、そこから市内へは路線バス、タクシーや配車アプリ、または事前予約の送迎サービスを利用する。所要時間は交通状況や移動手段によって25分から1時間ほど。空港と中央駅を結ぶ1日2本の列車もあるが、本数が少なく、フライトの時間とうまく合わないことが多い。",
+      "days": "旧市街の散策、硫黄風呂でのひと休み、そして周辺のワイン産地や山岳地帯への日帰り旅行まで楽しむなら、3〜4日ほど見ておくとよいだろう。"
+    },
+    "es": {
+      "blurb": "Tbilisi se despliega a lo largo de un recodo del río Mtkvari, una mezcla de casas de baños sulfurosas, balcones de la era soviética y torres de cristal que trepan por las mismas laderas que una fortaleza centenaria encaramada en lo alto. Es una ciudad de cruce de caminos en el sentido más literal, moldeada durante siglos por el dominio persa, otomano y ruso, y esa historia superpuesta sigue presente en sus iglesias, patios y callejuelas serpenteantes del casco antiguo.",
+      "getting": "La mayoría de los viajeros llega por el Aeropuerto Internacional de Tbilisi (TBS), a unos 17 km al sureste del centro, y desde allí toma el autobús público hacia la ciudad, un taxi o un servicio de app, o un traslado reservado con antelación; el trayecto dura entre 25 minutos y una hora, según el tráfico y el medio de transporte elegido. También hay un tren limitado, con dos salidas diarias, que conecta el aeropuerto con la estación central de ferrocarril, aunque su horario rara vez coincide de forma conveniente con los vuelos.",
+      "days": "Conviene reservar entre 3 y 4 días para recorrer el casco antiguo, darse un baño en una casa de baños y hacer una excursión de un día a la región vinícola o a las montañas cercanas."
+    },
+    "zh": {
+      "blurb": "第比利斯沿着姆特克瓦里河的一道弯曲铺展开来，硫磺浴场、苏联时代的老式阳台和玻璃幕墙高楼错落相叠，与同一片山坡上矗立了数百年的山顶城堡相映成趣。这座城市是名副其实的十字路口，历经波斯、奥斯曼和俄罗斯统治数百年的塑造，这层层叠叠的历史至今仍镌刻在它的教堂、庭院和老城蜿蜒的小巷之中。",
+      "getting": "大多数旅客通过第比利斯国际机场（TBS）抵达，机场位于市中心东南约17公里处，之后可选择乘坐公交车进城、打车或叫网约车，也可以提前预订接送服务；根据交通状况和出行方式不同，全程大约需要25分钟到1小时。机场与市中心火车站之间也有班次有限的每日两班火车，但其时刻表很少能和航班时间很好地衔接。",
+      "days": "建议安排3到4天左右的时间，用来逛老城、泡一次硫磺浴，再安排一天去周边的葡萄酒产区或山区走走。"
+    }
+  },
+  "Tskaltubo": {
+    "en": {
+      "blurb": "Tskaltubo is a Soviet-era spa town in western Georgia, built around radon mineral springs once promoted as the \"Waters of Immortality.\" Its grand, decaying sanatoriums and bathhouses, some still operating, others left to crumble since the 1990s, make it one of the country's most striking dark-tourism destinations.",
+      "getting": "Most travellers fly into Kutaisi International Airport (KUT), then continue to Tskaltubo by taxi or marshrutka minibus, a trip of ~20 to 30 minutes. There is no working passenger rail service into Tskaltubo itself, so Kutaisi serves as the practical transport hub for onward road connections.",
+      "days": "A single day is enough to walk through the main sanatoriums and bathhouses, while two days allow a more unhurried pace and a side trip to nearby Prometheus Cave."
+    },
+    "ko": {
+      "blurb": "츠칼투보는 조지아 서부에 위치한 소련 시대의 온천 휴양 도시로, 한때 \"불멸의 물\"이라 홍보되던 라돈 광천 주변에 세워졌다. 지금도 운영 중인 곳이 있는가 하면 1990년대 이후 그대로 방치되어 허물어져가는 웅장한 요양원과 목욕탕들이 곳곳에 남아 있어, 조지아에서 손꼽히는 다크 투어리즘 명소로 꼽힌다.",
+      "getting": "대부분의 여행자는 쿠타이시 국제공항(KUT)으로 입국한 뒤, 택시나 마르슈루트카(미니버스)를 타고 약 20~30분을 이동해 츠칼투보에 도착한다. 츠칼투보까지 직접 연결되는 여객 철도는 없기 때문에, 쿠타이시가 이후 육로 이동을 위한 실질적인 교통 거점 역할을 한다.",
+      "days": "주요 요양원과 목욕탕들을 둘러보는 데는 하루면 충분하지만, 이틀을 잡으면 좀 더 여유롭게 둘러볼 수 있고 인근의 프로메테우스 동굴까지 다녀올 수 있다."
+    },
+    "ja": {
+      "blurb": "ツカルトゥボは、西部グルジアに位置するソ連時代の温泉保養地で、かつて「不老不死の水」として宣伝されたラドン鉱泉を中心に発展しました。壮麗でありながら朽ち果てつつあるサナトリウム群や浴場は、今も営業を続けているものもあれば、1990年代以降放置され崩れゆくものもあり、同国で屈指の「ダークツーリズム」の名所となっています。",
+      "getting": "多くの旅行者はクタイシ国際空港（KUT）を利用し、そこからタクシーやマルシュルートカ（乗合バス）でツカルトゥボへ向かいます。所要時間は20～30分ほどです。ツカルトゥボ自体には現在運行している旅客鉄道がないため、クタイシが陸路移動の実質的な拠点となっています。",
+      "days": "主要なサナトリウムや浴場を一通り見て回るなら1日あれば十分ですが、2日あればもう少しゆったりとしたペースで巡ることができ、近郊のプロメテウス洞窟への小旅行にも足を延ばせます。"
+    },
+    "es": {
+      "blurb": "Tskaltubo es una ciudad balneario de la era soviética situada en el oeste de Georgia, construida en torno a manantiales minerales de radón que en su día se promocionaron como las \"Aguas de la Inmortalidad\". Sus imponentes sanatorios y casas de baños, algunos todavía en funcionamiento y otros abandonados a su suerte desde los años 90, la convierten en uno de los destinos de turismo oscuro más impactantes del país.",
+      "getting": "La mayoría de los viajeros llega en avión al Aeropuerto Internacional de Kutaisi (KUT) y continúa hacia Tskaltubo en taxi o en marshrutka (microbús local), un trayecto de unos 20 a 30 minutos. Tskaltubo no cuenta con servicio ferroviario de pasajeros en funcionamiento, por lo que Kutaisi actúa como el verdadero punto de enlace para las conexiones por carretera.",
+      "days": "Con un solo día basta para recorrer los principales sanatorios y casas de baños, mientras que dos días permiten disfrutar con más calma y hacer una excursión a la cercana Cueva de Prometeo."
+    },
+    "zh": {
+      "blurb": "茨卡尔图博是格鲁吉亚西部一座苏联时期建造的温泉小镇，因其氡矿泉水而兴起，昔日曾被誉为\"不老之泉\"。镇上那些宏伟却日渐颓败的疗养院和浴场——有些至今仍在营业，有些自20世纪90年代起便逐渐荒废——使这里成为该国最引人注目的\"黑色旅游\"目的地之一。",
+      "getting": "大多数旅行者会先飞抵库塔伊西国际机场（KUT），再搭乘出租车或marshrutka小巴前往茨卡尔图博，车程约20到30分钟。由于目前没有直达茨卡尔图博的客运铁路，库塔伊西实际上成为了前往该地的陆路交通枢纽。",
+      "days": "一天时间足够走访主要的疗养院和浴场；若有两天，则可以从容游览，并顺道前往附近的普罗米修斯洞穴一游。"
+    }
   }
 }

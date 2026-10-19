@@ -1,51 +1,53 @@
 ---
 lang: es
 slug: jinju-lantern-festival
-srcHash: 'd1078582b6a0'
-title: Festival de los Faroles de Jinju
-description: El Festival de los Faroles Namgang Yudeung de Jinju se celebra durante unas dos semanas cada octubre a lo largo del río Namgang, en el centro de Jinju, con la fortaleza de Jinjuseong como epicentro.
-quickAnswer: El Festival de los Faroles Namgang Yudeung de Jinju se celebra durante unas dos semanas cada octubre a lo largo del río Namgang, en el centro de Jinju, con epicentro en la fortaleza de Jinjuseong (Jinjuseong Fortress) y el recinto del Namgang Yudeung Festival. Compra la entrada de pago de la zona del festival (faroles flotantes en el río, la fortaleza y las instalaciones de luz), llega después del atardecer para ver los faroles iluminados, y reserva al menos una tarde-noche completa además de una visita diurna a la fortaleza de Jinjuseong.
+srcHash: '1269a205e3a4'
+title: El Festival de Linternas de Jinju
+description: En 2026, el Festival de Linternas Namgang Yudeung de Jinju se extendía por la ribera del río Namgang, con la fortaleza de Jinjuseong como centro, y su clausura estaba fijada para el 18 de octubre.
+quickAnswer: Cada mes de octubre, durante unas dos semanas, el Festival de Linternas Namgang Yudeung (Jinju Namgang Yudeung Festival) llena de luz la ribera del río Namgang, en pleno centro de Jinju. Su corazón son la fortaleza de Jinjuseong y el recinto del propio festival. La clausura de la edición de 2026 estaba fijada para el 18 de octubre. La organización había previsto una entrada de pago para la zona del festival, con acceso a las linternas flotantes del río, a la fortaleza y a las instalaciones luminosas. Las linternas se encienden al caer el sol, aunque la fortaleza de Jinjuseong también merece una visita a la luz del día.
 faq:
-  - q: ¿Cómo se llega al Festival de los Faroles de Jinju desde Seúl o Busan?
-    a: Desde Seúl, toma un tren KTX/ITX hasta la estación de Jinju (Jinju Station) (unas 3-3,5 horas) o un autobús interurbano. Desde Busan, un autobús interurbano tarda aproximadamente entre 1 y 1,5 horas. Desde la estación de Jinju o la terminal de autobuses, un taxi o el autobús lanzadera del festival cubren los 10-15 minutos restantes hasta la fortaleza de Jinjuseong y el recinto del festival junto al río.
-  - q: ¿Hay que pagar entrada para el festival?
-    a: La zona principal de faroles junto al río y en la fortaleza suele requerir entrada de pago, mientras que algunas exhibiciones de faroles repartidas por la ciudad pueden verse gratis. Los precios y la distribución de zonas gratuitas/de pago cambian cada año, así que conviene confirmarlo en el anuncio oficial del festival de Jinju poco antes de la visita.
-  - q: ¿Cuándo se celebra exactamente el festival y a qué hora conviene llegar?
-    a: Se celebra anualmente durante unas dos semanas en octubre, aunque las fechas exactas varían cada año. Llega a media tarde para ver la fortaleza de Jinjuseong con luz de día, y quédate para el encendido de los faroles alrededor del atardecer hasta aproximadamente las 21:30, cuando se aprecian mejor los reflejos en el río.
-  - q: ¿Cuánto tiempo conviene reservar para la visita?
-    a: Calcula al menos 3-4 horas para los faroles junto al río, el recinto de la fortaleza y los puestos de comida. Suma tiempo extra si quieres visitar el Museo Nacional de Jinju (Jinju National Museum), dentro de las murallas de la fortaleza.
-  - q: ¿Qué más merece la pena hacer cerca?
-    a: Combina el festival con un paseo por el Gran Pabellón de Yeongnam (Yeongnam Grand Pavilion) y el santuario de Nongae dentro de la fortaleza de Jinjuseong, una comida a base de bibimbap o naengmyeon al estilo de Jinju, y una parada en la zona comercial de Jungangno o el Mercado de Pescado de Jinju (Jinju Fish Market) para completar el día en la ciudad.
+  - q: ¿Cómo se llega al Festival de Linternas de Jinju desde Seúl o Busan?
+    a: Desde Seúl, los trenes KTX e ITX tardan unas 3–3,5 horas en llegar a la estación de Jinju, y también hay autobuses interurbanos que cubren el trayecto. Desde Busan, el autobús interurbano invierte aproximadamente 1–1,5 horas. Desde la estación de Jinju o la terminal de autobuses quedan otros 10–15 minutos en taxi o en el autobús lanzadera del festival hasta la fortaleza de Jinjuseong y el recinto junto al río.
+  - q: ¿Hay que pagar entrada para ver el festival?
+    a: Por lo general, la zona principal de linternas, la que abarca la ribera y la fortaleza, exige una entrada de pago. Algunas exposiciones de linternas repartidas por la ciudad, en cambio, pueden verse gratis. Los precios y la distribución de las zonas gratuitas y de pago cambian de un año a otro.
+  - q: ¿Cuándo se celebra exactamente el festival y cuál era el mejor momento para ir?
+    a: El festival se celebra cada año durante unas dos semanas de octubre, en fechas que varían ligeramente. La clausura de la edición de 2026 estaba fijada para el 18 de octubre. La última hora de la tarde era el momento de recorrer la fortaleza de Jinjuseong con luz natural. Las linternas se encendían hacia la puesta de sol y solían permanecer iluminadas hasta las 21:30 aproximadamente, cuando los reflejos sobre el río lucían en todo su esplendor.
+  - q: ¿Cuánto tiempo hace falta para la visita?
+    a: Recorrer como es debido las linternas de la ribera, el recinto de la fortaleza y los puestos de comida lleva al menos 3–4 horas. El Museo Nacional de Jinju, situado dentro de las murallas, alarga la visita.
+  - q: ¿Qué más merece la pena en los alrededores?
+    a: Dentro de la fortaleza de Jinjuseong se encuentran el gran pabellón de Yeongnamnu y el santuario dedicado a Nongae. Los platos típicos de la zona son el bibimbap y el naengmyeon al estilo de Jinju. Con la zona comercial de Jungangno y el mercado de pescado de Jinju, la jornada en la ciudad resulta más completa.
 ---
 
 ## Por qué ir
 
-El Festival de los Faroles Namgang Yudeung de Jinju es uno de los festivales de luces más emblemáticos de Corea, construido en torno a un episodio histórico genuinamente conmovedor y no a un espectáculo artificial. Los faroles flotantes del río Namgang conmemoran el Sitio de Jinju de 1592-93 durante la Guerra de Imjin, cuando los defensores y civiles, según se cuenta, usaron faroles encendidos sobre el río para comunicarse a través del agua y pedir refuerzos.
+Entre los festivales de luz más emblemáticos de Corea destaca el Festival Namgang Yudeung de Jinju, que no nace de un espectáculo fabricado, sino de un episodio histórico verdaderamente conmovedor. Las linternas que flotan sobre el río Namgang rinden homenaje al asedio de Jinju de 1592-93, durante la guerra Imjin. Según se cuenta, los defensores y la población civil se valieron entonces de linternas encendidas sobre el agua para comunicarse de una orilla a otra y pedir refuerzos.
 
-Esa capa histórica —miles de faroles de papel y seda a la deriva junto a las murallas de piedra de la fortaleza de Jinjuseong— da al festival una solemnidad que lo distingue de otros eventos de faroles puramente decorativos en Asia. Grandes esculturas de faroles (animales del zodíaco, personajes históricos, escenas folclóricas) bordean las orillas del río y el recinto de la fortaleza, y los reflejos en el agua prácticamente duplican el efecto visual una vez cae la noche.
+Ese trasfondo histórico es lo que distingue al festival de otros eventos de linternas puramente decorativos que se celebran en Asia. Ver miles de linternas de papel y de seda deslizarse junto a las murallas de piedra de la fortaleza de Jinjuseong le confiere una solemnidad poco común. A lo largo de las orillas y en el recinto de la fortaleza se alzan grandes esculturas luminosas que representan animales del zodiaco, personajes históricos y escenas populares. Al anochecer, sus reflejos en el agua duplican, más o menos, el efecto visual.
 
 ## Cómo llegar
 
-Jinju se encuentra en la provincia de Gyeongsang del Sur, a la que se llega en tren KTX o ITX desde Seúl (hasta la estación de Jinju, Jinju Station, unas 3-3,5 horas según la ruta y los trasbordos) o en autobús interurbano desde ciudades importantes como Seúl, Busan y Daegu (Busan es el gran centro más cercano, a 1-1,5 horas en autobús o coche).
+Jinju se encuentra en la provincia de Gyeongsang del Sur. Desde Seúl se llega en tren KTX o ITX hasta la estación de Jinju, en unas 3–3,5 horas según la ruta y los transbordos. También hay autobuses interurbanos desde las principales ciudades, entre ellas Seúl, Busan y Daegu. Busan es el gran núcleo más cercano: está a 1–1,5 horas en autobús o en coche.
 
-Jinju no tiene metro; desde la estación de Jinju o la terminal de autobuses interurbanos, toma un breve trayecto en taxi (unos 10-15 minutos) o un autobús urbano local hacia la fortaleza de Jinjuseong y la orilla del río Namgang, escenario principal del festival. Durante el festival, suele haber autobuses lanzadera designados y rutas urbanas adicionales desde la estación y la terminal directamente hasta las entradas del festival; consulta el sitio de turismo de la ciudad de Jinju o la señalización en la estación para conocer el horario de lanzaderas del año en curso, ya que las rutas se ajustan cada temporada.
+La ciudad no tiene metro. Desde la estación de Jinju o la terminal de autobuses interurbanos, un breve trayecto en taxi (unos 10–15 minutos) o un autobús urbano llevan hasta la fortaleza de Jinjuseong y la ribera del Namgang, escenario principal del festival.
+
+Mientras dura el festival suele haber autobuses lanzadera y líneas urbanas de refuerzo que van directamente desde la estación y la terminal hasta los accesos del recinto. Los recorridos se ajustan cada año.
 
 ## Qué ver y hacer
 
-Vale la pena visitar la fortaleza de Jinjuseong de día antes de volver por la noche: dentro de las murallas se encuentran el Gran Pabellón de Yeongnam (Yeongnamnu), el santuario Uigi-sa dedicado a la gisaeng Nongae (quien, según la leyenda, se lanzó al río abrazada a un general enemigo durante la guerra), y el Museo Nacional de Jinju (Jinju National Museum), que exhibe piezas sobre el sitio durante la Guerra de Imjin.
+La fortaleza de Jinjuseong merece una visita tanto de día como de noche. Tras sus murallas se encuentran el gran pabellón de Yeongnam (Yeongnamnu) y el santuario de Uigisa. Este último honra a la gisaeng Nongae, quien, según la leyenda, se arrojó al río abrazada a un general enemigo durante la guerra. También está allí el Museo Nacional de Jinju, con exposiciones sobre el asedio de la guerra Imjin.
 
-Al caer la tarde, la fortaleza y el río se transforman: miles de faroles se sueltan río abajo, grandes túneles de faroles transitables e instalaciones temáticas (a menudo con motivos del folclore coreano, signos del zodíaco o escenas del asedio) se iluminan a ambas orillas, y un puente flotante (en la zona del puente Jinnamnu) suele permitir a los visitantes cruzar el río entre los faroles.
+Durante el festival, la fortaleza y el río se transforman al caer la tarde. Miles de linternas se sueltan para que floten río abajo y en ambas orillas se iluminan grandes túneles de linternas que se pueden recorrer a pie, junto con instalaciones temáticas que a menudo evocan el folclore coreano, los signos del zodiaco o escenas del asedio. Además, un puente de pontones, en la zona del puente de Jinnamnu, suele permitir cruzar el río entre las linternas.
 
-Los faroles de los deseos —en los que los visitantes escriben mensajes y sueltan o cuelgan su propio farol— suelen estar disponibles por un cargo adicional dentro de la zona del festival. Los puestos de comida junto al río venden platos típicos del festival y especialidades de Jinju; conviene probar el bibimbap de Jinju, una variante regional que se dice anterior a la versión más famosa de Seúl, junto con los fideos fríos al estilo de Jinju (naengmyeon), si algún puesto cerca de la fortaleza los ofrece.
+Dentro del recinto suelen ofrecerse, con un suplemento, las linternas de los deseos: cada visitante escribe su mensaje y luego deja flotar o cuelga su propia linterna. En los puestos de comida de la ribera se venden los platos habituales de cualquier festival y especialidades de Jinju. Destaca el bibimbap de Jinju, una variante regional que, según dicen, es anterior a la versión de Seúl, mucho más conocida. Cerca de la fortaleza, algunos puestos sirven los fideos fríos (naengmyeon) al estilo de Jinju.
 
 ## Cuándo ir
 
-El festival se celebra anualmente en octubre, normalmente durante unas dos semanas, aunque las fechas exactas varían ligeramente cada año, así que confirma las fechas vigentes antes de reservar el viaje. Llega a media tarde para explorar la fortaleza con luz de día, y quédate hasta el atardecer y bien entrada la noche (aproximadamente de 18:30 a 21:30) cuando se encienden los faroles y hay más afluencia de público.
+El festival se celebra todos los años en octubre, normalmente a lo largo de unas dos semanas, y sus fechas exactas varían ligeramente de una edición a otra. La clausura de la de 2026 estaba fijada para el 18 de octubre. La última hora de la tarde era el momento de explorar la fortaleza con luz natural. Las linternas permanecían encendidas desde la puesta de sol hasta bien entrada la noche, que es cuando suele concentrarse más público. El horario de iluminación cambia según el año, pero a menudo ha sido de 18:30 a 21:30 aproximadamente.
 
-Las noches entre semana son notablemente más tranquilas que los fines de semana; el primer y el último fin de semana suelen ser los más concurridos. Calcula al menos tres o cuatro horas para una visita completa, más si quieres ver tanto el museo de la fortaleza como todo el recorrido de faroles junto al río.
+Entre semana, las noches son bastante más tranquilas que los fines de semana, y el primero y el último suelen ser los de mayor afluencia. Una visita completa lleva al menos tres o cuatro horas, y algo más si se quiere ver tanto el museo de la fortaleza como el recorrido entero de linternas por la ribera.
 
 ## Alrededores y consejos
 
-Por lo general se necesita entrada de pago para acceder a la zona principal del festival (el área de faroles del río y las exhibiciones de faroles de la fortaleza), mientras que algunas exhibiciones periféricas repartidas por el centro de la ciudad pueden verse gratis; los precios y los límites de las zonas cambian cada año, así que conviene revisar los anuncios oficiales cerca de la fecha de tu visita.
+Para acceder a la zona central del festival, que comprende el área de linternas del río y las exposiciones de la fortaleza, suele exigirse una entrada de pago. Algunas exposiciones periféricas del centro de la ciudad, en cambio, son gratuitas. Los precios y los límites de cada zona cambian de un año a otro. Junto al río, las noches de octubre pueden ser frescas, y la batería del móvil se agota enseguida al hacer fotos de larga exposición de las linternas.
 
-Lleva ropa por capas, ya que las noches de octubre junto al río pueden ser frescas, y trae una batería portátil, porque las cámaras de los teléfonos se agotan rápido al hacer fotos de larga exposición de los faroles. Combina el viaje con el paseo nocturno por la fortaleza de Jinju y una parada en el cercano Mercado de Pescado de Jinju (Jinju Fish Market) o en la calle comercial de Jungangno, en el centro, para completar una excursión de un día desde Busan o Daegu.
+El paseo nocturno por la fortaleza de Jinju, el cercano mercado de pescado de Jinju y la calle comercial de Jungangno, en el centro, completan una excursión de un día desde Busan o Daegu.
