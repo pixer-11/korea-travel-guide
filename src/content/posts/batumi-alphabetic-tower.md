@@ -1,56 +1,82 @@
 ---
-title: "Alphabetic Tower: Batumi Travel Guide (4.3★)"
-description: "Alphabetic Tower stands in Miracle Park at the northern end of Batumi Boulevard, on the seafront in Batumi, Georgia. 4.3★ (5,403 reviews) — what visitors say, hours, and tips."
-country: "Georgia"
-region: "Batumi"
-category: "attraction"
-pubDate: "2026-10-19T15:42:08.040Z"
+title: 'Alphabetic Tower: Batumi Travel Guide (4.3★)'
+description: >-
+  Alphabetic Tower stands in Miracle Park at the northern end of Batumi
+  Boulevard, on the seafront in Batumi, Georgia. 4.3★ (5,404 reviews) — what
+  visitors say, hours, and tips.
+country: Georgia
+region: Batumi
+category: attraction
+pubDate: '2026-10-19T15:42:08.040Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/4/42/Batumi2025-alphabetic-tower.jpg"
-  credit: "Photo: Vitaly Zdanevich / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Batumi2025-alphabetic-tower.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/4/42/Batumi2025-alphabetic-tower.jpg
+  credit: 'Photo: Vitaly Zdanevich / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Batumi2025-alphabetic-tower.jpg'
+  via: act
   focus:
     x: 92
-    y: 25
+    'y': 25
 gallery: []
 place:
-  id: "ChIJaSrObEaGZ0ARPbmhZsLlToU"
-  name: "Alphabetic Tower"
-  address: "Batumi, Georgia"
+  id: ChIJaSrObEaGZ0ARPbmhZsLlToU
+  name: Alphabetic Tower
+  address: 'Batumi, Georgia'
   rating: 4.3
-  userRatingsTotal: 5403
-  googleMapsUrl: "https://maps.google.com/?cid=9605867678336137533&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 5404
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9605867678336137533&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 41.656040499999996
   lng: 41.639461
-  phone: "+995 514 15 22 55"
+  phone: +995 514 15 22 55
   openingHours:
-    - "Monday: 11:00 AM – 10:00 PM"
-    - "Tuesday: 11:00 AM – 10:00 PM"
-    - "Wednesday: 11:00 AM – 10:00 PM"
-    - "Thursday: 11:00 AM – 10:00 PM"
-    - "Friday: 11:00 AM – 10:00 PM"
-    - "Saturday: 11:00 AM – 10:00 PM"
-    - "Sunday: 11:00 AM – 10:00 PM"
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 10:00 PM'
 tags:
-  - "batumi"
-  - "top attraction"
-quickAnswer: "Alphabetic Tower stands in Miracle Park at the northern end of Batumi Boulevard, on the seafront in Batumi, Georgia. It is a steel double helix wrapped in the 33 letters of the Georgian alphabet, with an observation platform and a revolving restaurant at the top. It currently opens 11am–10pm, so going up just before dusk gives you the Black Sea in daylight and the letters lit up on your way down."
+  - batumi
+  - top attraction
+quickAnswer: >-
+  Alphabetic Tower stands in Miracle Park at the northern end of Batumi
+  Boulevard, on the seafront in Batumi, Georgia. It is a steel double helix
+  wrapped in the 33 letters of the Georgian alphabet, with an observation
+  platform and a revolving restaurant at the top. It currently opens 11am–10pm,
+  so going up just before dusk gives you the Black Sea in daylight and the
+  letters lit up on your way down.
 faq:
-  - q: "Where exactly is the Alphabetic Tower in Batumi?"
-    a: "It's in Miracle Park at the northern end of Batumi Boulevard, on the seafront next to the Ali and Nino statue and the Batumi Lighthouse. It's roughly half an hour's walk north along the promenade from Europe Square."
-  - q: "What are the opening hours?"
-    a: "At the moment it opens 11am–10pm every day of the week. Observation towers often change their hours with the season, so check the official listing before a late visit."
-  - q: "When is the best time to go up?"
-    a: "Go up in the last hour of daylight. You see the sea and the city clearly, and when you come back down the LED letters are lit. Weekday mornings after opening are usually calmer than sunset."
-  - q: "How long should I spend there?"
-    a: "Allow 20–30 minutes for the observation platform plus any lift queue. If you eat at the revolving restaurant, it's a full meal. Add an hour or two to walk around Miracle Park."
-  - q: "What else is nearby?"
-    a: "The moving Ali and Nino statue, the Batumi Lighthouse, a Ferris wheel and the long beachfront Batumi Boulevard are all a few minutes' walk away."
+  - q: Where exactly is the Alphabetic Tower in Batumi?
+    a: >-
+      It's in Miracle Park at the northern end of Batumi Boulevard, on the
+      seafront next to the Ali and Nino statue and the Batumi Lighthouse. It's
+      roughly half an hour's walk north along the promenade from Europe Square.
+  - q: What are the opening hours?
+    a: >-
+      At the moment it opens 11am–10pm every day of the week. Observation towers
+      often change their hours with the season, so check the official listing
+      before a late visit.
+  - q: When is the best time to go up?
+    a: >-
+      Go up in the last hour of daylight. You see the sea and the city clearly,
+      and when you come back down the LED letters are lit. Weekday mornings
+      after opening are usually calmer than sunset.
+  - q: How long should I spend there?
+    a: >-
+      Allow 20–30 minutes for the observation platform plus any lift queue. If
+      you eat at the revolving restaurant, it's a full meal. Add an hour or two
+      to walk around Miracle Park.
+  - q: What else is nearby?
+    a: >-
+      The moving Ali and Nino statue, the Batumi Lighthouse, a Ferris wheel and
+      the long beachfront Batumi Boulevard are all a few minutes' walk away.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-19'
 ---
 
 ## Letters climbing into the sky

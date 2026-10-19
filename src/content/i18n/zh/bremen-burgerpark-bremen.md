@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: bremen-burgerpark-bremen
-srcHash: 'df716547463f'
+srcHash: 'd726fe30adba'
 title: 不来梅市民公园（Bürgerpark）旅行指南（4.8★）
-description: 市民公园是不来梅城中最大的19世纪风景园林，从中央火车站往北穿过Bürgerweide广场，步行约十分钟即到。评分4.8★（2,710条评价），这里汇总了游客评价、开放时间和实用建议。
+description: 市民公园是不来梅城中最大的19世纪风景园林，从中央火车站往北穿过Bürgerweide广场，步行约十分钟即到。评分4.8★（2,711条评价），这里汇总了游客评价、开放时间和实用建议。
 quickAnswer: 市民公园（Bürgerpark）是不来梅城中最大的19世纪风景园林，从中央火车站（Hauptbahnhof）往北穿过Bürgerweide广场，步行约十分钟即到。根据谷歌目前的信息，公园24小时开放。只逛艾玛湖、Meierei餐厅和霍勒湖的话，留出两到三个小时就够；如果还想继续深入城市森林，就得安排半天。
 faq:
   - q: 从不来梅中央火车站怎么去市民公园？

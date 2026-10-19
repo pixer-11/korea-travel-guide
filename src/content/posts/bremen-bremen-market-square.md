@@ -1,56 +1,82 @@
 ---
-title: "Bremen Market Square: Travel Guide (4.7★)"
-description: "Bremen Market Square (Marktplatz) sits in Bremen's Altstadt, a 15-minute walk from the Hauptbahnhof. 4.7★ (6,590 reviews) — what visitors say, hours, and tips."
-country: "Germany"
-region: "Bremen"
-category: "hidden-gem"
-pubDate: "2026-10-19T08:16:33.107Z"
+title: 'Bremen Market Square: Travel Guide (4.7★)'
+description: >-
+  Bremen Market Square (Marktplatz) sits in Bremen's Altstadt, a 15-minute walk
+  from the Hauptbahnhof. 4.7★ (6,592 reviews) — what visitors say, hours, and
+  tips.
+country: Germany
+region: Bremen
+category: hidden-gem
+pubDate: '2026-10-19T08:16:33.107Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/1/12/Bremen_Market_Square_32.JPG"
-  credit: "Photo: Rami Tarawneh / Wikimedia Commons (CC BY-SA 2.5)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Bremen_Market_Square_32.JPG"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/1/12/Bremen_Market_Square_32.JPG
+  credit: 'Photo: Rami Tarawneh / Wikimedia Commons (CC BY-SA 2.5)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Bremen_Market_Square_32.JPG'
+  via: act
   focus:
     x: 40
-    y: 50
+    'y': 50
 gallery: []
 place:
-  id: "ChIJdRGvoRAosUcR4DS5VDzWQ0g"
-  name: "Bremen Market Square"
-  address: "Am Markt 2, 28195 Bremen, Germany"
+  id: ChIJdRGvoRAosUcR4DS5VDzWQ0g
+  name: Bremen Market Square
+  address: 'Am Markt 2, 28195 Bremen, Germany'
   rating: 4.7
-  userRatingsTotal: 6590
-  googleMapsUrl: "https://maps.google.com/?cid=5207241148778231008&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 6592
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5207241148778231008&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 53.0757432
   lng: 8.8071942
-  phone: "+49 421 3080010"
+  phone: +49 421 3080010
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "bremen"
-  - "local market"
-quickAnswer: "Bremen Market Square (Marktplatz) sits in Bremen's Altstadt, a 15-minute walk from the Hauptbahnhof. Around it you'll find the UNESCO-listed Town Hall, the Roland statue, St. Petri Cathedral and the Town Musicians sculpture. The square itself is open at all hours. Go early in the morning or after dark for clear photos, and in late November and December for the Christmas market."
+  - bremen
+  - local market
+quickAnswer: >-
+  Bremen Market Square (Marktplatz) sits in Bremen's Altstadt, a 15-minute walk
+  from the Hauptbahnhof. Around it you'll find the UNESCO-listed Town Hall, the
+  Roland statue, St. Petri Cathedral and the Town Musicians sculpture. The
+  square itself is open at all hours. Go early in the morning or after dark for
+  clear photos, and in late November and December for the Christmas market.
 faq:
-  - q: "How do I get to Bremen Market Square from the train station?"
-    a: "Walk south from the Hauptbahnhof through the shopping streets toward Obernstraße; it takes about 15 minutes. By tram, get off at Domsheide (lines 4 and 6, among others) just behind the cathedral."
-  - q: "Is Bremen Market Square open at night?"
-    a: "Yes. It's a public square and open 24 hours. The Town Hall and cathedral have their own seasonal opening times, so check their official sites before you go."
-  - q: "How long should I spend at the Marktplatz?"
-    a: "Allow about 45 minutes for the square, the Roland and the Town Musicians statue. Add roughly an hour each if you take a Town Hall tour or visit the cathedral and climb its tower."
-  - q: "When is the Bremen Christmas market on the square?"
-    a: "It usually runs from late November until shortly before Christmas, filling the Marktplatz and the streets around it. The Schlachte-Zauber market on the Weser riverfront runs at the same time."
-  - q: "What's near Bremen Market Square?"
-    a: "Böttcherstraße is right off the south side. The Schnoor quarter is about a 10-minute walk away, and the Schlachte riverside promenade along the Weser is a few minutes south."
+  - q: How do I get to Bremen Market Square from the train station?
+    a: >-
+      Walk south from the Hauptbahnhof through the shopping streets toward
+      Obernstraße; it takes about 15 minutes. By tram, get off at Domsheide
+      (lines 4 and 6, among others) just behind the cathedral.
+  - q: Is Bremen Market Square open at night?
+    a: >-
+      Yes. It's a public square and open 24 hours. The Town Hall and cathedral
+      have their own seasonal opening times, so check their official sites
+      before you go.
+  - q: How long should I spend at the Marktplatz?
+    a: >-
+      Allow about 45 minutes for the square, the Roland and the Town Musicians
+      statue. Add roughly an hour each if you take a Town Hall tour or visit the
+      cathedral and climb its tower.
+  - q: When is the Bremen Christmas market on the square?
+    a: >-
+      It usually runs from late November until shortly before Christmas, filling
+      the Marktplatz and the streets around it. The Schlachte-Zauber market on
+      the Weser riverfront runs at the same time.
+  - q: What's near Bremen Market Square?
+    a: >-
+      Böttcherstraße is right off the south side. The Schnoor quarter is about a
+      10-minute walk away, and the Schlachte riverside promenade along the Weser
+      is a few minutes south.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-19'
 ---
 
 ## Stone, gold and a knight with a sword

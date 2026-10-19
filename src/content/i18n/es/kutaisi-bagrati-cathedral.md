@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: kutaisi-bagrati-cathedral
-srcHash: '5fc8cef0ca1f'
+srcHash: '8074802d92e4'
 title: 'Catedral de Bagrati: guía de viaje de Kutaisi (4.7★)'
-description: 'Sobre la colina Ukimerioni, a orillas del Rioni, se alza la catedral de Bagrati, a un breve paseo cuesta arriba desde el centro de Kutaisi. 4.7★ (6,101 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'Sobre la colina Ukimerioni, a orillas del Rioni, se alza la catedral de Bagrati, a un breve paseo cuesta arriba desde el centro de Kutaisi. 4.7★ (6,102 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: A un breve paseo cuesta arriba desde el centro de Kutaisi, la catedral de Bagrati corona la colina Ukimerioni, por encima del río Rioni. Mandada construir en el siglo XI por el rey Bagrat III, quedó en ruinas en 1692 y se reconstruyó en 2012. Actualmente abre todos los días de 10am–8pm. Conviene reservar alrededor de una hora, vestir de forma adecuada para una iglesia ortodoxa en activo y combinar la visita con el monasterio de Gelati en la misma jornada.
 faq:
   - q: ¿Cómo se llega a la catedral de Bagrati desde el centro de Kutaisi?

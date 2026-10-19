@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: batumi-gonio-fortress
-srcHash: '7b4fcfcacc9c'
+srcHash: '186948d5990d'
 title: 'Fortaleza de Gonio: guía de viaje desde Batumi (4.5★)'
-description: 'A unos 12 km al sur del centro de Batumi, en la localidad de Gonio y junto a la carretera costera que lleva a la frontera turca de Sarpi, se alza la fortaleza de Gonio, una excursión sencilla de media jornada en minibús, taxi o Bolt. Valoración de 4.5★ (6,746 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'A unos 12 km al sur del centro de Batumi, en la localidad de Gonio y junto a la carretera costera que lleva a la frontera turca de Sarpi, se alza la fortaleza de Gonio, una excursión sencilla de media jornada en minibús, taxi o Bolt. Valoración de 4.5★ (6,747 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En la localidad de Gonio, a unos 12 km al sur del centro de Batumi y junto a la carretera costera que conduce a la frontera turca de Sarpi, se encuentra la fortaleza de Gonio. Llegar en minibús, taxi o Bolt es fácil, y la visita ocupa cómodamente media jornada. Dentro del recinto amurallado conviene calcular entre 1 y 1,5 horas. Actualmente abre de 10am a 5pm, aunque el horario varía a lo largo del año, por lo que se recomienda consultar la web oficial antes de ir.
 faq:
   - q: ¿Cómo se llega a la fortaleza de Gonio desde Batumi?

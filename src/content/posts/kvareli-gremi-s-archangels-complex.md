@@ -1,56 +1,86 @@
 ---
-title: "Gremi's Archangels' Complex: Kvareli Travel Guide (4.8★)"
-description: "Gremi's Archangels' Complex sits on a hill beside the Telavi–Kvareli road in Kvareli municipality, Kakheti. 4.8★ (1,510 reviews) — what visitors say, hours, and tips."
-country: "Georgia"
-region: "Kvareli"
-category: "hidden-gem"
-pubDate: "2026-10-19T15:42:15.225Z"
+title: 'Gremi''s Archangels'' Complex: Kvareli Travel Guide (4.8★)'
+description: >-
+  Gremi's Archangels' Complex sits on a hill beside the Telavi–Kvareli road in
+  Kvareli municipality, Kakheti. 4.8★ (1,511 reviews) — what visitors say,
+  hours, and tips.
+country: Georgia
+region: Kvareli
+category: hidden-gem
+pubDate: '2026-10-19T15:42:15.225Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Complex_of_small_churches_at_Gremi%2C_Georgia.jpg/3840px-Complex_of_small_churches_at_Gremi%2C_Georgia.jpg"
-  credit: "Photo: This work is created by George Melashvili. / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Complex_of_small_churches_at_Gremi,_Georgia.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Complex_of_small_churches_at_Gremi%2C_Georgia.jpg/3840px-Complex_of_small_churches_at_Gremi%2C_Georgia.jpg
+  credit: >-
+    Photo: This work is created by George Melashvili. / Wikimedia Commons (CC
+    BY-SA 4.0)
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Complex_of_small_churches_at_Gremi,_Georgia.jpg
+  via: act
   focus:
     x: 55
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJDSFq2I3PRUAR0y9cxP2LBRo"
-  name: "Gremi's Archangels' Complex"
-  address: "2M26+V32, Tianeti-Akhmeta-Kvareli-Ninigori, Georgia"
+  id: ChIJDSFq2I3PRUAR0y9cxP2LBRo
+  name: Gremi's Archangels' Complex
+  address: '2M26+V32, Tianeti-Akhmeta-Kvareli-Ninigori, Georgia'
   rating: 4.8
-  userRatingsTotal: 1510
-  googleMapsUrl: "https://maps.google.com/?cid=1875058741907042259&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1511
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1875058741907042259&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 42.002141699999996
   lng: 45.66015
-  phone: "+995 599 13 25 32"
+  phone: +995 599 13 25 32
   openingHours:
-    - "Monday: 10:00 AM – 5:00 PM"
-    - "Tuesday: 10:00 AM – 5:00 PM"
-    - "Wednesday: 10:00 AM – 5:00 PM"
-    - "Thursday: 10:00 AM – 5:00 PM"
-    - "Friday: 10:00 AM – 5:00 PM"
-    - "Saturday: 10:00 AM – 5:00 PM"
-    - "Sunday: 10:00 AM – 5:00 PM"
+    - 'Monday: 10:00 AM – 5:00 PM'
+    - 'Tuesday: 10:00 AM – 5:00 PM'
+    - 'Wednesday: 10:00 AM – 5:00 PM'
+    - 'Thursday: 10:00 AM – 5:00 PM'
+    - 'Friday: 10:00 AM – 5:00 PM'
+    - 'Saturday: 10:00 AM – 5:00 PM'
+    - 'Sunday: 10:00 AM – 5:00 PM'
 tags:
-  - "kvareli"
-  - "Gremi Citadel"
-quickAnswer: "Gremi's Archangels' Complex sits on a hill beside the Telavi–Kvareli road in Kvareli municipality, Kakheti. It is the brick Church of the Archangels and a royal tower, all that stands of a 16th-century royal capital, with a small museum inside the tower. It currently opens 10am–5pm daily; plan on 1–1.5 hours and confirm hours before a winter or holiday visit."
+  - kvareli
+  - Gremi Citadel
+quickAnswer: >-
+  Gremi's Archangels' Complex sits on a hill beside the Telavi–Kvareli road in
+  Kvareli municipality, Kakheti. It is the brick Church of the Archangels and a
+  royal tower, all that stands of a 16th-century royal capital, with a small
+  museum inside the tower. It currently opens 10am–5pm daily; plan on 1–1.5
+  hours and confirm hours before a winter or holiday visit.
 faq:
-  - q: "Where exactly is Gremi and how do I get there?"
-    a: "It stands right on the Telavi–Kvareli road in Kvareli municipality, Kakheti (plus code 2M26+V32). Most visitors take a taxi from Telavi or Kvareli. Minibuses between the two towns pass the site and will stop if you ask the driver for Gremi."
-  - q: "What are the opening hours?"
-    a: "At the moment it opens 10am–5pm every day. Hours at Georgian heritage sites can shift with the season and around religious holidays, so confirm before you go, especially late in the day."
-  - q: "How long should I spend at Gremi?"
-    a: "Plan on 1–1.5 hours. That covers the climb, the Church of the Archangels and its 1577 frescoes, the tower museum, and the views from the walls."
-  - q: "Is there a dress code?"
-    a: "Yes, it is an active Orthodox church. Women should cover their heads and wear a skirt below the knee. Men remove hats and wear long trousers, and everyone keeps their shoulders covered. Wraps are often available at the door, but bring your own scarf to be safe."
-  - q: "What else can I combine with Gremi?"
-    a: "Nekresi Monastery is nearby. Kvareli has the Ilia Chavchavadze house museum, tunnel wineries and Lake Kvareli. Telavi has the Batonis Tsikhe fortress. Do Gremi early, before any wine tastings."
+  - q: Where exactly is Gremi and how do I get there?
+    a: >-
+      It stands right on the Telavi–Kvareli road in Kvareli municipality,
+      Kakheti (plus code 2M26+V32). Most visitors take a taxi from Telavi or
+      Kvareli. Minibuses between the two towns pass the site and will stop if
+      you ask the driver for Gremi.
+  - q: What are the opening hours?
+    a: >-
+      At the moment it opens 10am–5pm every day. Hours at Georgian heritage
+      sites can shift with the season and around religious holidays, so confirm
+      before you go, especially late in the day.
+  - q: How long should I spend at Gremi?
+    a: >-
+      Plan on 1–1.5 hours. That covers the climb, the Church of the Archangels
+      and its 1577 frescoes, the tower museum, and the views from the walls.
+  - q: Is there a dress code?
+    a: >-
+      Yes, it is an active Orthodox church. Women should cover their heads and
+      wear a skirt below the knee. Men remove hats and wear long trousers, and
+      everyone keeps their shoulders covered. Wraps are often available at the
+      door, but bring your own scarf to be safe.
+  - q: What else can I combine with Gremi?
+    a: >-
+      Nekresi Monastery is nearby. Kvareli has the Ilia Chavchavadze house
+      museum, tunnel wineries and Lake Kvareli. Telavi has the Batonis Tsikhe
+      fortress. Do Gremi early, before any wine tastings.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-19'
 ---
 
 A single hill rises from the flat floor of the Alazani Valley, and the whole of a royal city now fits on it. A curtain wall runs around the top. Behind it are a domed brick church and a squat, multi-storey tower. Below, along the road, cars pull into a small lay-by. Grapevines run off toward the Greater Caucasus on the far side of the valley.

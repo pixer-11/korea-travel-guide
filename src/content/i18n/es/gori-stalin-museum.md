@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: gori-stalin-museum
-srcHash: '0070a6753470'
+srcHash: '3f1c93044180'
 title: 'Museo de Stalin: guía de viaje de Gori (4.1★)'
-description: En el número 32 de la avenida Stalin de Gori (Georgia), a una hora al oeste de Tiflis, el Museo de Stalin repasa la vida del dictador con fotografías, obras de arte y objetos personales. En el exterior se conservan su casa natal y su vagón blindado. Con una valoración de 4.1★ (7,950 reseñas), aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
+description: En el número 32 de la avenida Stalin de Gori (Georgia), a una hora al oeste de Tiflis, el Museo de Stalin repasa la vida del dictador con fotografías, obras de arte y objetos personales. En el exterior se conservan su casa natal y su vagón blindado. Con una valoración de 4.1★ (7,951 reseñas), aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
 quickAnswer: En el número 32 de la avenida Stalin de Gori (Georgia), a una hora al oeste de Tiflis, el Museo de Stalin repasa la vida del dictador con fotografías, obras de arte y objetos personales. En el exterior pueden verse también su casa natal y su vagón de tren blindado. Calcule entre 1.5 y 2 horas para la visita. Actualmente abre todos los días de 10:00 a 18:00, aunque el horario varía a lo largo del año, por lo que conviene consultar la información oficial antes de viajar.
 faq:
   - q: ¿Cómo se llega desde Tiflis al Museo de Stalin de Gori?

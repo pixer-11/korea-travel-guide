@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: batumi-alphabetic-tower
-srcHash: '790c3c28d945'
+srcHash: '345c2c1791f9'
 title: 'Torre del Alfabeto: guía de viaje de Batumi (4.3★)'
-description: 'La Torre del Alfabeto se alza en el Parque de los Milagros, en el extremo norte del bulevar de Batumi, frente al mar (Georgia). 4.3★ (5,403 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'La Torre del Alfabeto se alza en el Parque de los Milagros, en el extremo norte del bulevar de Batumi, frente al mar (Georgia). 4.3★ (5,404 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: La Torre del Alfabeto (Alphabetic Tower) se alza en el Parque de los Milagros (Miracle Park), en el extremo norte del bulevar de Batumi, junto al paseo marítimo de esta ciudad georgiana. Se trata de una doble hélice de acero en la que se enroscan las 33 letras del alfabeto georgiano. En lo alto hay un mirador y un restaurante giratorio. Actualmente abre de 11am–10pm, de modo que, si sube poco antes del anochecer, contemplará el mar Negro con luz de día y verá las letras ya iluminadas al bajar.
 faq:
   - q: ¿Dónde se encuentra exactamente la Torre del Alfabeto de Batumi?

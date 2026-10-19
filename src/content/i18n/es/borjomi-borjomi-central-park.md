@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: borjomi-borjomi-central-park
-srcHash: 'eb89f02b98db'
+srcHash: 'd1a6c45745d2'
 title: 'Parque Central de Borjomi: guía de viaje (4.5★)'
-description: En pleno desfiladero boscoso de Borjomi (Georgia), sobre la calle 9 de Abril (9 April Street), el Parque Central, también conocido como Parque del Agua Mineral de Borjomi, permite beber directamente del manantial la célebre agua mineral de la ciudad. Con una valoración de 4.5★ (15,745 reseñas), aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
+description: En pleno desfiladero boscoso de Borjomi (Georgia), sobre la calle 9 de Abril (9 April Street), el Parque Central, también conocido como Parque del Agua Mineral de Borjomi, permite beber directamente del manantial la célebre agua mineral de la ciudad. Con una valoración de 4.5★ (15,746 reseñas), aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
 quickAnswer: 'En la calle 9 de Abril (9 April Street) de Borjomi, en Georgia, se extiende un parque boscoso encajado en un desfiladero: el Parque Central, también llamado Parque del Agua Mineral de Borjomi. Allí puede beberse directamente del manantial la famosa agua mineral de la ciudad. Actualmente abre todos los días de 9am–8pm. Si piensa subir en teleférico y caminar hasta las piscinas de azufre, reserve entre 2 y 4 horas.'
 faq:
   - q: ¿Se puede beber el agua en el Parque Central de Borjomi?

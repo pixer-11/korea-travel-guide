@@ -1,58 +1,89 @@
 ---
-title: "Bagrati Cathedral: Kutaisi Travel Guide (4.7★)"
-description: "Bagrati Cathedral stands on Ukimerioni Hill above the Rioni River in Kutaisi, a short uphill walk from the city centre. 4.7★ (6,101 reviews) — what visitors say, hours, and tips."
-country: "Georgia"
-region: "Kutaisi"
-category: "attraction"
-pubDate: "2026-10-19T15:42:02.910Z"
+title: 'Bagrati Cathedral: Kutaisi Travel Guide (4.7★)'
+description: >-
+  Bagrati Cathedral stands on Ukimerioni Hill above the Rioni River in Kutaisi,
+  a short uphill walk from the city centre. 4.7★ (6,102 reviews) — what visitors
+  say, hours, and tips.
+country: Georgia
+region: Kutaisi
+category: attraction
+pubDate: '2026-10-19T15:42:02.910Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/2014_Kutaisi%2C_Katedra_Bagrati_%2819%29.jpg/1920px-2014_Kutaisi%2C_Katedra_Bagrati_%2819%29.jpg"
-  credit: "Photo: Marcin Konsek / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:2014_Kutaisi,_Katedra_Bagrati_(19).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/2014_Kutaisi%2C_Katedra_Bagrati_%2819%29.jpg/1920px-2014_Kutaisi%2C_Katedra_Bagrati_%2819%29.jpg
+  credit: 'Photo: Marcin Konsek / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:2014_Kutaisi,_Katedra_Bagrati_(19).jpg
   focus:
     x: 45
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bagrati_Cathedral_%28Kutaisi%29_02.jpg/3840px-Bagrati_Cathedral_%28Kutaisi%29_02.jpg"
-    credit: "Photo: Bernard Gagnon / Wikimedia Commons (CC BY 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Bagrati_Cathedral_(Kutaisi)_02.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bagrati_Cathedral_%28Kutaisi%29_02.jpg/3840px-Bagrati_Cathedral_%28Kutaisi%29_02.jpg
+    credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC BY 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Bagrati_Cathedral_(Kutaisi)_02.jpg'
 place:
-  id: "ChIJL5eKwvWMXEARbQy8SPGHBaU"
-  name: "Bagrati Cathedral"
-  address: "Bagrati Street, Kutaisi, Georgia"
+  id: ChIJL5eKwvWMXEARbQy8SPGHBaU
+  name: Bagrati Cathedral
+  address: 'Bagrati Street, Kutaisi, Georgia'
   rating: 4.7
-  userRatingsTotal: 6101
-  googleMapsUrl: "https://maps.google.com/?cid=11891059861518814317&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 6102
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=11891059861518814317&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 42.2772334
   lng: 42.7042973
   openingHours:
-    - "Monday: 10:00 AM – 8:00 PM"
-    - "Tuesday: 10:00 AM – 8:00 PM"
-    - "Wednesday: 10:00 AM – 8:00 PM"
-    - "Thursday: 10:00 AM – 8:00 PM"
-    - "Friday: 10:00 AM – 8:00 PM"
-    - "Saturday: 10:00 AM – 8:00 PM"
-    - "Sunday: 10:00 AM – 8:00 PM"
+    - 'Monday: 10:00 AM – 8:00 PM'
+    - 'Tuesday: 10:00 AM – 8:00 PM'
+    - 'Wednesday: 10:00 AM – 8:00 PM'
+    - 'Thursday: 10:00 AM – 8:00 PM'
+    - 'Friday: 10:00 AM – 8:00 PM'
+    - 'Saturday: 10:00 AM – 8:00 PM'
+    - 'Sunday: 10:00 AM – 8:00 PM'
 tags:
-  - "kutaisi"
-  - "top attraction"
-quickAnswer: "Bagrati Cathedral stands on Ukimerioni Hill above the Rioni River in Kutaisi, a short uphill walk from the city centre. It is an 11th-century cathedral of King Bagrat III, wrecked in 1692 and rebuilt in 2012. At the moment it is open 10am–8pm daily, so plan about an hour, dress for an active Orthodox church, and pair it with Gelati Monastery the same day."
+  - kutaisi
+  - top attraction
+quickAnswer: >-
+  Bagrati Cathedral stands on Ukimerioni Hill above the Rioni River in Kutaisi,
+  a short uphill walk from the city centre. It is an 11th-century cathedral of
+  King Bagrat III, wrecked in 1692 and rebuilt in 2012. At the moment it is open
+  10am–8pm daily, so plan about an hour, dress for an active Orthodox church,
+  and pair it with Gelati Monastery the same day.
 faq:
-  - q: "How do I get to Bagrati Cathedral from central Kutaisi?"
-    a: "Walk from Davit Aghmashenebeli Square and the Colchis Fountain, cross the Rioni and climb to Bagrati Street on Ukimerioni Hill. It takes about 15–20 minutes and the last part is steep. A taxi or ride-hailing app will drop you at the gate."
-  - q: "What are the opening hours?"
-    a: "At the moment it is listed as open 10am–8pm every day. As a working church, its hours can change around religious holidays and with the season, so check before you go early or late."
-  - q: "Is there a dress code?"
-    a: "Yes. It is an active Orthodox church: women usually cover their hair and wear a skirt, and men should avoid shorts. Wraps are often available at the entrance."
-  - q: "Why was Bagrati removed from the UNESCO list?"
-    a: "The cathedral had been a ruin since Ottoman troops blew it up in 1692. UNESCO decided the reconstruction finished in 2012 compromised its authenticity and delisted it in 2017. Gelati Monastery is still on the list."
-  - q: "How long should I spend there, and what's nearby?"
-    a: "About 45 minutes to an hour, including the grounds and the viewpoint over the city. Gelati Monastery (about 11 km away) and Motsameta Monastery make a good half-day loop, and the White Bridge and Green Bazaar are downhill in the centre."
+  - q: How do I get to Bagrati Cathedral from central Kutaisi?
+    a: >-
+      Walk from Davit Aghmashenebeli Square and the Colchis Fountain, cross the
+      Rioni and climb to Bagrati Street on Ukimerioni Hill. It takes about 15–20
+      minutes and the last part is steep. A taxi or ride-hailing app will drop
+      you at the gate.
+  - q: What are the opening hours?
+    a: >-
+      At the moment it is listed as open 10am–8pm every day. As a working
+      church, its hours can change around religious holidays and with the
+      season, so check before you go early or late.
+  - q: Is there a dress code?
+    a: >-
+      Yes. It is an active Orthodox church: women usually cover their hair and
+      wear a skirt, and men should avoid shorts. Wraps are often available at
+      the entrance.
+  - q: Why was Bagrati removed from the UNESCO list?
+    a: >-
+      The cathedral had been a ruin since Ottoman troops blew it up in 1692.
+      UNESCO decided the reconstruction finished in 2012 compromised its
+      authenticity and delisted it in 2017. Gelati Monastery is still on the
+      list.
+  - q: 'How long should I spend there, and what''s nearby?'
+    a: >-
+      About 45 minutes to an hour, including the grounds and the viewpoint over
+      the city. Gelati Monastery (about 11 km away) and Motsameta Monastery make
+      a good half-day loop, and the White Bridge and Green Bazaar are downhill
+      in the centre.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-19'
 ---
 
 ## A cathedral that looks down on the whole city

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: bremen-burgerpark-bremen
-srcHash: 'df716547463f'
+srcHash: 'd726fe30adba'
 title: 'Bürgerpark: guía de viaje de Bremen (4.8★)'
-description: 'El Bürgerpark es el gran parque paisajístico decimonónico de Bremen. Se llega a pie desde la Hauptbahnhof en unos diez minutos: basta cruzar hacia el norte la explanada de la Bürgerweide. Valoración de 4.8★ (2,710 reseñas), con opiniones de visitantes, horarios y consejos.'
+description: 'El Bürgerpark es el gran parque paisajístico decimonónico de Bremen. Se llega a pie desde la Hauptbahnhof en unos diez minutos: basta cruzar hacia el norte la explanada de la Bürgerweide. Valoración de 4.8★ (2,711 reseñas), con opiniones de visitantes, horarios y consejos.'
 quickAnswer: El Bürgerpark es el gran parque paisajístico que Bremen creó en el siglo XIX. Desde la Hauptbahnhof se llega en unos diez minutos a pie, cruzando hacia el norte la explanada de la Bürgerweide. Según Google, permanece abierto las 24 horas. Para recorrer el Emmasee, la Meierei y el Hollersee bastan dos o tres horas. Si quiere adentrarse también en el Stadtwald, cuente con media jornada.
 faq:
   - q: ¿Cómo se llega al Bürgerpark desde la estación central de Bremen (Hauptbahnhof)?

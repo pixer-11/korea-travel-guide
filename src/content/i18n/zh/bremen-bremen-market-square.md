@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: bremen-bremen-market-square
-srcHash: '59259770dbbb'
+srcHash: 'cc7151a561c6'
 title: 不来梅集市广场旅行指南（4.7★）
-description: 不来梅集市广场（Marktplatz）位于不来梅老城（Altstadt），从中央火车站（Hauptbahnhof）步行约15分钟即到。4.7★（6,590条评价），本文整理游客评价、开放时间和游览贴士。
+description: 不来梅集市广场（Marktplatz）位于不来梅老城（Altstadt），从中央火车站（Hauptbahnhof）步行约15分钟即到。4.7★（6,592条评价），本文整理游客评价、开放时间和游览贴士。
 quickAnswer: 不来梅集市广场（Marktplatz）坐落在不来梅老城（Altstadt），从中央火车站（Hauptbahnhof）步行过去约15分钟。广场四周有列入联合国教科文组织世界遗产名录的市政厅，还有罗兰像、圣彼得大教堂和不来梅城市乐手雕像。广场本身全天开放。想拍到没有人群的照片，最好清晨或天黑后前往。11月下旬至12月间来，还能逛上圣诞市集。
 faq:
   - q: 从火车站怎么去不来梅集市广场？

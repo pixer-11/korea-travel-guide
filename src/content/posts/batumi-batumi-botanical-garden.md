@@ -1,56 +1,83 @@
 ---
-title: "Batumi Botanical Garden: Travel Guide (4.7★)"
-description: "Batumi Botanical Garden sits on Green Cape (Mtsvane Kontskhi), about 9 km north of central Batumi, and runs down a steep hillside to the Black Sea. 4.7★ (20,675 reviews) — what visitors say, hours, and tips."
-country: "Georgia"
-region: "Batumi"
-category: "attraction"
-pubDate: "2026-10-19T15:42:13.173Z"
+title: 'Batumi Botanical Garden: Travel Guide (4.7★)'
+description: >-
+  Batumi Botanical Garden sits on Green Cape (Mtsvane Kontskhi), about 9 km
+  north of central Batumi, and runs down a steep hillside to the Black Sea. 4.7★
+  (20,677 reviews) — what visitors say, hours, and tips.
+country: Georgia
+region: Batumi
+category: attraction
+pubDate: '2026-10-19T15:42:13.173Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Batumi_Botanical_Garden_-_panoramio.jpg/3840px-Batumi_Botanical_Garden_-_panoramio.jpg"
-  credit: "Photo: Levon Avagyan / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Batumi_Botanical_Garden_-_panoramio.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Batumi_Botanical_Garden_-_panoramio.jpg/3840px-Batumi_Botanical_Garden_-_panoramio.jpg
+  credit: 'Photo: Levon Avagyan / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Batumi_Botanical_Garden_-_panoramio.jpg
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery: []
 place:
-  id: "ChIJCWtmW2h9XUARjppv0ZFeej8"
-  name: "Batumi Botanical Garden"
-  address: "MPR4+M4 Green Cape, Batumi, Georgia"
+  id: ChIJCWtmW2h9XUARjppv0ZFeej8
+  name: Batumi Botanical Garden
+  address: 'MPR4+M4 Green Cape, Batumi, Georgia'
   rating: 4.7
-  userRatingsTotal: 20675
-  googleMapsUrl: "https://maps.google.com/?cid=4574072351925181070&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 20677
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4574072351925181070&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 41.6944442
   lng: 41.7074952
-  phone: "+995 422 27 00 33"
+  phone: +995 422 27 00 33
   openingHours:
-    - "Monday: 9:00 AM – 8:00 PM"
-    - "Tuesday: 9:00 AM – 8:00 PM"
-    - "Wednesday: 9:00 AM – 8:00 PM"
-    - "Thursday: 9:00 AM – 8:00 PM"
-    - "Friday: 9:00 AM – 8:00 PM"
-    - "Saturday: 9:00 AM – 8:00 PM"
-    - "Sunday: 9:00 AM – 8:00 PM"
+    - 'Monday: 9:00 AM – 8:00 PM'
+    - 'Tuesday: 9:00 AM – 8:00 PM'
+    - 'Wednesday: 9:00 AM – 8:00 PM'
+    - 'Thursday: 9:00 AM – 8:00 PM'
+    - 'Friday: 9:00 AM – 8:00 PM'
+    - 'Saturday: 9:00 AM – 8:00 PM'
+    - 'Sunday: 9:00 AM – 8:00 PM'
 tags:
-  - "batumi"
-  - "Batumi Botanical Garden"
-quickAnswer: "Batumi Botanical Garden sits on Green Cape (Mtsvane Kontskhi), about 9 km north of central Batumi, and runs down a steep hillside to the Black Sea. Give it at least three hours. Plan your route around the hills: arrive near the 9am opening, start from the top and walk down. The hours shown right now run 9am to 8pm daily, but they change with the season, so check the official site before you go."
+  - batumi
+  - Batumi Botanical Garden
+quickAnswer: >-
+  Batumi Botanical Garden sits on Green Cape (Mtsvane Kontskhi), about 9 km
+  north of central Batumi, and runs down a steep hillside to the Black Sea. Give
+  it at least three hours. Plan your route around the hills: arrive near the 9am
+  opening, start from the top and walk down. The hours shown right now run 9am
+  to 8pm daily, but they change with the season, so check the official site
+  before you go.
 faq:
-  - q: "How far is Batumi Botanical Garden from the city centre?"
-    a: "It is on Green Cape (Mtsvane Kontskhi), about 9 km north of central Batumi. A taxi or Bolt is quickest. Buses and minibuses also run along the coast road, and the Mtsvane Kontskhi railway halt is at the foot of the garden."
-  - q: "How long should I spend there?"
-    a: "Plan for three to four hours to cover the main geographic sections at an easy pace. Add more time if you want to swim at the beach below."
-  - q: "Is the garden hard to walk?"
-    a: "It is built on a steep hillside, so expect real gradients and stone steps. Enter at the top and walk down, or use the electric carts on the main routes."
-  - q: "What is the best time of year to visit?"
-    a: "Spring, from March to May, brings magnolias, camellias and rhododendrons into flower. Autumn has good colour and milder weather. Summer is hot, humid and busy."
-  - q: "What are the opening hours?"
-    a: "Right now it is listed as open 9am to 8pm every day. Hours change through the year, so check the official site for the current month before you go."
+  - q: How far is Batumi Botanical Garden from the city centre?
+    a: >-
+      It is on Green Cape (Mtsvane Kontskhi), about 9 km north of central
+      Batumi. A taxi or Bolt is quickest. Buses and minibuses also run along the
+      coast road, and the Mtsvane Kontskhi railway halt is at the foot of the
+      garden.
+  - q: How long should I spend there?
+    a: >-
+      Plan for three to four hours to cover the main geographic sections at an
+      easy pace. Add more time if you want to swim at the beach below.
+  - q: Is the garden hard to walk?
+    a: >-
+      It is built on a steep hillside, so expect real gradients and stone steps.
+      Enter at the top and walk down, or use the electric carts on the main
+      routes.
+  - q: What is the best time of year to visit?
+    a: >-
+      Spring, from March to May, brings magnolias, camellias and rhododendrons
+      into flower. Autumn has good colour and milder weather. Summer is hot,
+      humid and busy.
+  - q: What are the opening hours?
+    a: >-
+      Right now it is listed as open 9am to 8pm every day. Hours change through
+      the year, so check the official site for the current month before you go.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-19'
 ---
 
 ## A garden built on a cliff

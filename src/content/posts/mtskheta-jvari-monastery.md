@@ -1,59 +1,89 @@
 ---
-title: "Jvari Monastery: Mtskheta Travel Guide (4.8★)"
-description: "Jvari Monastery stands on a rocky hilltop above Mtskheta, about 20 km north of Tbilisi, where the Aragvi and Mtkvari rivers meet. 4.8★ (12,033 reviews) — what visitors say, hours, and tips."
-country: "Georgia"
-region: "Mtskheta"
-category: "attraction"
-pubDate: "2026-10-19T15:42:17.277Z"
+title: 'Jvari Monastery: Mtskheta Travel Guide (4.8★)'
+description: >-
+  Jvari Monastery stands on a rocky hilltop above Mtskheta, about 20 km north of
+  Tbilisi, where the Aragvi and Mtkvari rivers meet. 4.8★ (12,035 reviews) —
+  what visitors say, hours, and tips.
+country: Georgia
+region: Mtskheta
+category: attraction
+pubDate: '2026-10-19T15:42:17.277Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Georgia_Jvari_monastery_IMG_9345_2070.jpg/1920px-Georgia_Jvari_monastery_IMG_9345_2070.jpg"
-  credit: "Photo: Alexxx1979 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Georgia_Jvari_monastery_IMG_9345_2070.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Georgia_Jvari_monastery_IMG_9345_2070.jpg/1920px-Georgia_Jvari_monastery_IMG_9345_2070.jpg
+  credit: 'Photo: Alexxx1979 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Georgia_Jvari_monastery_IMG_9345_2070.jpg
   focus:
     x: 63
-    y: 33
+    'y': 33
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Mtskheta%2C_Jvari_Monastery%2C_Church%2C_Georgia.jpg/3840px-Mtskheta%2C_Jvari_Monastery%2C_Church%2C_Georgia.jpg"
-    credit: "Photo: Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Mtskheta,_Jvari_Monastery,_Church,_Georgia.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Mtskheta%2C_Jvari_Monastery%2C_Church%2C_Georgia.jpg/3840px-Mtskheta%2C_Jvari_Monastery%2C_Church%2C_Georgia.jpg
+    credit: 'Photo: Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Mtskheta,_Jvari_Monastery,_Church,_Georgia.jpg
 place:
-  id: "ChIJkeAL-BJvREARGxZe0Q1B_dY"
-  name: "Jvari Monastery"
-  address: "RPQM+C79, Mtskheta, Georgia"
+  id: ChIJkeAL-BJvREARGxZe0Q1B_dY
+  name: Jvari Monastery
+  address: 'RPQM+C79, Mtskheta, Georgia'
   rating: 4.8
-  userRatingsTotal: 12033
-  googleMapsUrl: "https://maps.google.com/?cid=15491609820827358747&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 12035
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15491609820827358747&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 41.8383019
   lng: 44.7334095
-  phone: "+995 555 34 64 38"
+  phone: +995 555 34 64 38
   openingHours:
-    - "Monday: 9:30 AM – 5:30 PM"
-    - "Tuesday: 9:30 AM – 5:30 PM"
-    - "Wednesday: 9:30 AM – 5:30 PM"
-    - "Thursday: 9:30 AM – 5:30 PM"
-    - "Friday: 9:30 AM – 5:30 PM"
-    - "Saturday: 9:30 AM – 5:30 PM"
-    - "Sunday: 9:30 AM – 5:30 PM"
+    - 'Monday: 9:30 AM – 5:30 PM'
+    - 'Tuesday: 9:30 AM – 5:30 PM'
+    - 'Wednesday: 9:30 AM – 5:30 PM'
+    - 'Thursday: 9:30 AM – 5:30 PM'
+    - 'Friday: 9:30 AM – 5:30 PM'
+    - 'Saturday: 9:30 AM – 5:30 PM'
+    - 'Sunday: 9:30 AM – 5:30 PM'
 tags:
-  - "mtskheta"
-  - "Jvari Monastery"
-quickAnswer: "Jvari Monastery stands on a rocky hilltop above Mtskheta, about 20 km north of Tbilisi, where the Aragvi and Mtkvari rivers meet. It currently opens 9:30am–5:30pm. Plan on 30–60 minutes, dress for an active Orthodox church, and arrive near opening if you want to get ahead of the Tbilisi tour groups."
+  - mtskheta
+  - Jvari Monastery
+quickAnswer: >-
+  Jvari Monastery stands on a rocky hilltop above Mtskheta, about 20 km north of
+  Tbilisi, where the Aragvi and Mtkvari rivers meet. It currently opens
+  9:30am–5:30pm. Plan on 30–60 minutes, dress for an active Orthodox church, and
+  arrive near opening if you want to get ahead of the Tbilisi tour groups.
 faq:
-  - q: "How do I get to Jvari Monastery from Tbilisi?"
-    a: "The simplest way is a taxi or a Bolt ride straight to the hilltop. Ask the driver to wait, since getting a ride back down isn't guaranteed. You can also take a marshrutka from Didube bus station to Mtskheta and then a short taxi ride up. Most Mtskheta day tours include Jvari too."
-  - q: "Can I walk up to Jvari from Mtskheta town?"
-    a: "Driving up is the practical option. The monastery looks close from town, but the road loops back across the river via the highway, and no regular bus goes to the top. Taxis wait in Mtskheta for the trip up."
-  - q: "What are the opening hours?"
-    a: "At the moment it opens 9:30am–5:30pm every day of the week. Church hours can change with religious holidays and the seasons, so check before you visit."
-  - q: "What should I wear?"
-    a: "Women should cover their hair and wear a skirt below the knee. Wraps are often left at the entrance, but bring a scarf in case there are none. Men should wear long trousers and remove hats inside. Bring a warm layer as well, because the hilltop is windy."
-  - q: "How long should I spend there, and what else is nearby?"
-    a: "Allow 30–60 minutes at the monastery. Then go down to Mtskheta for Svetitskhoveli Cathedral and Samtavro Monastery, which together make an easy half-day trip from Tbilisi."
+  - q: How do I get to Jvari Monastery from Tbilisi?
+    a: >-
+      The simplest way is a taxi or a Bolt ride straight to the hilltop. Ask the
+      driver to wait, since getting a ride back down isn't guaranteed. You can
+      also take a marshrutka from Didube bus station to Mtskheta and then a
+      short taxi ride up. Most Mtskheta day tours include Jvari too.
+  - q: Can I walk up to Jvari from Mtskheta town?
+    a: >-
+      Driving up is the practical option. The monastery looks close from town,
+      but the road loops back across the river via the highway, and no regular
+      bus goes to the top. Taxis wait in Mtskheta for the trip up.
+  - q: What are the opening hours?
+    a: >-
+      At the moment it opens 9:30am–5:30pm every day of the week. Church hours
+      can change with religious holidays and the seasons, so check before you
+      visit.
+  - q: What should I wear?
+    a: >-
+      Women should cover their hair and wear a skirt below the knee. Wraps are
+      often left at the entrance, but bring a scarf in case there are none. Men
+      should wear long trousers and remove hats inside. Bring a warm layer as
+      well, because the hilltop is windy.
+  - q: 'How long should I spend there, and what else is nearby?'
+    a: >-
+      Allow 30–60 minutes at the monastery. Then go down to Mtskheta for
+      Svetitskhoveli Cathedral and Samtavro Monastery, which together make an
+      easy half-day trip from Tbilisi.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-19'
 ---
 
 ## A cross above two rivers

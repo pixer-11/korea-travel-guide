@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: batumi-batumi-botanical-garden
-srcHash: 'd68e1f2deb43'
+srcHash: '9766f8ec23a0'
 title: 'Jardín Botánico de Batumi: guía de viaje (4.7★)'
-description: En el Cabo Verde (Mtsvane Kontskhi), a unos 9 km al norte del centro de Batumi, el Jardín Botánico desciende por una ladera empinada hasta el mar Negro. Con una valoración de 4.7★ (20,675 reseñas), le contamos qué opinan los visitantes, cuál es el horario y qué conviene saber antes de ir.
+description: En el Cabo Verde (Mtsvane Kontskhi), a unos 9 km al norte del centro de Batumi, el Jardín Botánico desciende por una ladera empinada hasta el mar Negro. Con una valoración de 4.7★ (20,677 reseñas), le contamos qué opinan los visitantes, cuál es el horario y qué conviene saber antes de ir.
 quickAnswer: 'En el Cabo Verde (Mtsvane Kontskhi), a unos 9 km al norte del centro de Batumi, el Jardín Botánico desciende por una ladera empinada hasta el mar Negro. Conviene reservarle al menos tres horas. Organice el recorrido en función de las cuestas: llegue poco después de la apertura de las 9:00, entre por la parte alta y vaya bajando. Por ahora el horario publicado es de 9:00 a 20:00 todos los días, pero varía según la temporada, así que consulte la web oficial antes de ir.'
 faq:
   - q: ¿A qué distancia del centro de la ciudad está el Jardín Botánico de Batumi?

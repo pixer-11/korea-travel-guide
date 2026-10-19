@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: mtskheta-jvari-monastery
-srcHash: 'cdf301032edb'
+srcHash: 'bece17aa9c0a'
 title: 'Monasterio de Jvari: guía de viaje de Mtskheta (4.8★)'
-description: Sobre una colina rocosa que domina Mtskheta, a unos 20 km al norte de Tbilisi y junto a la confluencia de los ríos Aragvi y Mtkvari, se alza el monasterio de Jvari. Con 4.8★ (12,033 reseñas), aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
+description: Sobre una colina rocosa que domina Mtskheta, a unos 20 km al norte de Tbilisi y junto a la confluencia de los ríos Aragvi y Mtkvari, se alza el monasterio de Jvari. Con 4.8★ (12,035 reseñas), aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
 quickAnswer: El monasterio de Jvari corona una colina rocosa sobre Mtskheta, a unos 20 km al norte de Tbilisi, justo donde confluyen los ríos Aragvi y Mtkvari. Su horario actual es de 9:30am–5:30pm. Calcule entre 30 y 60 minutos de visita y vístase como corresponde a una iglesia ortodoxa en activo. Si quiere adelantarse a los grupos organizados que llegan desde Tbilisi, procure estar allí poco después de la apertura.
 faq:
   - q: ¿Cómo se llega al monasterio de Jvari desde Tbilisi?

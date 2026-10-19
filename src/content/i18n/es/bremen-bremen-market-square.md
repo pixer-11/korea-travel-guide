@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bremen-bremen-market-square
-srcHash: '59259770dbbb'
+srcHash: 'cc7151a561c6'
 title: 'Plaza del Mercado de Bremen: guía de viaje (4.7★)'
 description: 'En pleno casco antiguo de Bremen, a 15 minutos a pie de la estación central (Hauptbahnhof), se encuentra la Plaza del Mercado (Marktplatz). Valoración de 4.7★ con 6,590 reseñas: opiniones de los visitantes, horarios y consejos.'
 quickAnswer: La Plaza del Mercado (Marktplatz) ocupa el corazón del casco antiguo (Altstadt) de Bremen, a unos 15 minutos a pie de la estación central (Hauptbahnhof). La rodean el Ayuntamiento, declarado Patrimonio de la Humanidad por la UNESCO, la estatua de Roldán, la catedral de San Pedro y la escultura de los Músicos de Bremen. Como espacio público, la plaza permanece abierta a cualquier hora. Si busca fotografías despejadas, acuda a primera hora de la mañana o ya de noche; y si le interesa el mercado navideño, a finales de noviembre o en diciembre.

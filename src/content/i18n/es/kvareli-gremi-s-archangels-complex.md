@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kvareli-gremi-s-archangels-complex
-srcHash: '86d3c7867246'
+srcHash: '066005cb0a58'
 title: 'Complejo de los Arcángeles de Gremi: guía de viaje de Kvareli (4.8★)'
 description: En lo alto de una colina junto a la carretera Telavi–Kvareli, en el municipio de Kvareli (Kajetia), se alza el Complejo de los Arcángeles de Gremi. Con 4.8★ y 1,510 reseñas, le contamos qué opinan los visitantes, el horario y algunos consejos.
 quickAnswer: En lo alto de una colina junto a la carretera Telavi–Kvareli, en el municipio de Kvareli (Kajetia), se alza el Complejo de los Arcángeles de Gremi. De la que fuera capital real en el siglo XVI solo se conservan la iglesia de ladrillo de los Arcángeles y una torre real, que alberga un pequeño museo. Actualmente abre a diario de 10am–5pm. Calcule entre 1 y 1,5 horas de visita y, si va en invierno o en un día festivo, compruebe antes el horario.

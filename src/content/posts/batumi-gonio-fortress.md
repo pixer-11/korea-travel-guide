@@ -1,58 +1,88 @@
 ---
-title: "Gonio Fortress: Batumi Travel Guide (4.5★)"
-description: "Gonio Fortress sits in Gonio, about 12 km south of central Batumi on the coast road to the Turkish border at Sarpi, and makes an easy half-day trip by minibus, taxi or Bolt. 4.5★ (6,746 reviews) — what visitors say, hours, and tips."
-country: "Georgia"
-region: "Batumi"
-category: "attraction"
-pubDate: "2026-10-19T15:42:19.330Z"
+title: 'Gonio Fortress: Batumi Travel Guide (4.5★)'
+description: >-
+  Gonio Fortress sits in Gonio, about 12 km south of central Batumi on the coast
+  road to the Turkish border at Sarpi, and makes an easy half-day trip by
+  minibus, taxi or Bolt. 4.5★ (6,747 reviews) — what visitors say, hours, and
+  tips.
+country: Georgia
+region: Batumi
+category: attraction
+pubDate: '2026-10-19T15:42:19.330Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Castle_of_Gonio2.jpg/1920px-Castle_of_Gonio2.jpg"
-  credit: "Photo: კოლხი / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Castle_of_Gonio2.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Castle_of_Gonio2.jpg/1920px-Castle_of_Gonio2.jpg
+  credit: 'Photo: კოლხი / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Castle_of_Gonio2.jpg'
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Gonio-Apsaros_Fortress_Museum%2C_Adjara%2C_Georgia_%283%29.jpg/3840px-Gonio-Apsaros_Fortress_Museum%2C_Adjara%2C_Georgia_%283%29.jpg"
-    credit: "Photo: Kober / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Gonio-Apsaros_Fortress_Museum,_Adjara,_Georgia_(3).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Gonio-Apsaros_Fortress_Museum%2C_Adjara%2C_Georgia_%283%29.jpg/3840px-Gonio-Apsaros_Fortress_Museum%2C_Adjara%2C_Georgia_%283%29.jpg
+    credit: 'Photo: Kober / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Gonio-Apsaros_Fortress_Museum,_Adjara,_Georgia_(3).jpg
 place:
-  id: "ChIJS8PUbwCPZ0ARlQZaYrhPs0w"
-  name: "Gonio Fortress"
-  address: "HHFF+868, Senaki-Poti (Bypass)-Sarpi (Republic of Turkey Border), Poti, Georgia"
+  id: ChIJS8PUbwCPZ0ARlQZaYrhPs0w
+  name: Gonio Fortress
+  address: >-
+    HHFF+868, Senaki-Poti (Bypass)-Sarpi (Republic of Turkey Border), Poti,
+    Georgia
   rating: 4.5
-  userRatingsTotal: 6746
-  googleMapsUrl: "https://maps.google.com/?cid=5526848821056374421&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 6747
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5526848821056374421&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 41.573287799999996
   lng: 41.57307060000001
   openingHours:
-    - "Monday: 10:00 AM – 5:00 PM"
-    - "Tuesday: 10:00 AM – 5:00 PM"
-    - "Wednesday: 10:00 AM – 5:00 PM"
-    - "Thursday: 10:00 AM – 5:00 PM"
-    - "Friday: 10:00 AM – 5:00 PM"
-    - "Saturday: 10:00 AM – 5:00 PM"
-    - "Sunday: 10:00 AM – 5:00 PM"
+    - 'Monday: 10:00 AM – 5:00 PM'
+    - 'Tuesday: 10:00 AM – 5:00 PM'
+    - 'Wednesday: 10:00 AM – 5:00 PM'
+    - 'Thursday: 10:00 AM – 5:00 PM'
+    - 'Friday: 10:00 AM – 5:00 PM'
+    - 'Saturday: 10:00 AM – 5:00 PM'
+    - 'Sunday: 10:00 AM – 5:00 PM'
 tags:
-  - "batumi"
-  - "Gonio Fortress"
-quickAnswer: "Gonio Fortress sits in Gonio, about 12 km south of central Batumi on the coast road to the Turkish border at Sarpi, and makes an easy half-day trip by minibus, taxi or Bolt. Plan on 1–1.5 hours inside the walls. It currently opens 10am–5pm, but hours shift through the year, so check the official site before you go."
+  - batumi
+  - Gonio Fortress
+quickAnswer: >-
+  Gonio Fortress sits in Gonio, about 12 km south of central Batumi on the coast
+  road to the Turkish border at Sarpi, and makes an easy half-day trip by
+  minibus, taxi or Bolt. Plan on 1–1.5 hours inside the walls. It currently
+  opens 10am–5pm, but hours shift through the year, so check the official site
+  before you go.
 faq:
-  - q: "How do I get to Gonio Fortress from Batumi?"
-    a: "It is about 12 km south of central Batumi on the coast road to Sarpi. Southbound minibuses marked Gonio or Sarpi stop nearby, and a taxi or Bolt takes about 20–30 minutes."
-  - q: "How long should I spend at Gonio Fortress?"
-    a: "About 1–1.5 hours covers the walls, the excavated Roman foundations, the small museum and the Saint Matthias grave. Add time if you want a swim at Gonio beach across the road."
-  - q: "What are the opening hours?"
-    a: "This week it opens 10am–5pm every day. Hours change through the year and on some holidays, so check the official site before you go."
-  - q: "Is Saint Matthias really buried there?"
-    a: "Tradition holds that the apostle Matthias is buried inside the fortress, and a cross marks the spot. The claim isn't proven, but many Georgian visitors treat it as a place of pilgrimage, so be respectful there."
-  - q: "What else is nearby?"
-    a: "Gonio and Kvariati beaches are just south, and the Tamar Lookout sits above the Turkish border at Sarpi. The Batumi Botanical Garden is an easy stop on the way back north."
+  - q: How do I get to Gonio Fortress from Batumi?
+    a: >-
+      It is about 12 km south of central Batumi on the coast road to Sarpi.
+      Southbound minibuses marked Gonio or Sarpi stop nearby, and a taxi or Bolt
+      takes about 20–30 minutes.
+  - q: How long should I spend at Gonio Fortress?
+    a: >-
+      About 1–1.5 hours covers the walls, the excavated Roman foundations, the
+      small museum and the Saint Matthias grave. Add time if you want a swim at
+      Gonio beach across the road.
+  - q: What are the opening hours?
+    a: >-
+      This week it opens 10am–5pm every day. Hours change through the year and
+      on some holidays, so check the official site before you go.
+  - q: Is Saint Matthias really buried there?
+    a: >-
+      Tradition holds that the apostle Matthias is buried inside the fortress,
+      and a cross marks the spot. The claim isn't proven, but many Georgian
+      visitors treat it as a place of pilgrimage, so be respectful there.
+  - q: What else is nearby?
+    a: >-
+      Gonio and Kvariati beaches are just south, and the Tamar Lookout sits
+      above the Turkish border at Sarpi. The Batumi Botanical Garden is an easy
+      stop on the way back north.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-19'
 ---
 
 ## Inside the Roman rectangle
