@@ -11,16 +11,6 @@ eventRecurring: true
 eventOrganizer:
   name: Royal Spanish Football Federation
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Campeones_de_la_Copa_del_Rey_2022.jpg/3840px-Campeones_de_la_Copa_del_Rey_2022.jpg
-  credit: 'Photo: ClubNatacioAtleticBarceloneta / Wikimedia Commons (CC0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Campeones_de_la_Copa_del_Rey_2022.jpg
-  focus:
-    x: 44
-    'y': 14
-    top: 7
-    bottom: 20
 gallery: []
 tags:
   - seville

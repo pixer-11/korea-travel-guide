@@ -29,16 +29,6 @@ faq:
     a: Popular options include Castillo de Santa Bárbara on Mount Benacantil, the Explanada de España promenade, the Barrio de Santa Cruz old quarter, the MARQ archaeology museum and Mercado Central. November 1 is All Saints' Day, a national holiday, so some shops close that day.
 aiGenerated: true
 draft: false
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Casper_Ruud%2C_ATP_500_Basel_2025.jpg/3840px-Casper_Ruud%2C_ATP_500_Basel_2025.jpg
-  credit: 'Photo: Peter Arnold / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Casper_Ruud,_ATP_500_Basel_2025.jpg
-  focus:
-    x: 42
-    'y': 52
-    top: 46
-    bottom: 58
 ---
 
 ## Eight days of tennis by the Mediterranean

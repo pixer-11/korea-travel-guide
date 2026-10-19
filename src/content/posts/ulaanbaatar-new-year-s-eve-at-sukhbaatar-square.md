@@ -13,14 +13,6 @@ eventOffers:
   free: true
   currency: MNT
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/7/70/Bratislava_New_Year_Fireworks.jpg
-  credit: 'Photo: Ondrejk / Wikimedia Commons (Public domain)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Bratislava_New_Year_Fireworks.jpg
-  focus:
-    x: 50
-    'y': 40
 gallery: []
 tags:
   - ulaanbaatar

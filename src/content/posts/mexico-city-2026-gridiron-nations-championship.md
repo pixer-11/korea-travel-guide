@@ -12,16 +12,6 @@ eventOrganizer:
   name: GNC
   url: https://www.nationschampionship.com
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/4/45/GREATNESS_BEYOND_THE_GRIDIRON_%2830764554380%29.jpg
-  credit: 'Photo: Sgt. John L. Carkeet IV, 143d ESC / Wikimedia Commons (Public domain)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:GREATNESS_BEYOND_THE_GRIDIRON_(30764554380).jpg
-  focus:
-    x: 45
-    'y': 20
-    top: 15
-    bottom: 25
 gallery: []
 tags:
   - mexico city

@@ -12,14 +12,6 @@ eventOrganizer:
   name: ATP Tour
   url: https://www.atptour.com
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Doubles_at_the_ATP_Finals_%2849070105758%29.jpg/3840px-Doubles_at_the_ATP_Finals_%2849070105758%29.jpg
-  credit: 'Photo: Daniel from Glasgow, United Kingdom / Wikimedia Commons (CC BY 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Doubles_at_the_ATP_Finals_(49070105758).jpg
-  focus:
-    x: 50
-    'y': 55
 gallery: []
 tags:
   - london

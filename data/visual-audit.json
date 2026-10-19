@@ -794,9 +794,9 @@
  },
  "alicante-atp-challenger-alicante\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Casper_Ruud%2C_ATP_500_Basel_2025.jpg/3840px-Casper_Ruud%2C_ATP_500_Basel_2025.jpg": {
   "slug": "alicante-atp-challenger-alicante",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Tennis player at ATP Challenger event",
-  "at": "2026-10-18T21:41:02.287Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares no word with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-19T11:33:02.523Z"
  },
  "alicante-atp-challenger-alicante\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/ATP_Challenger_Tour_Tournaments_%2851748767809%29.jpg/3840px-ATP_Challenger_Tour_Tournaments_%2851748767809%29.jpg": {
   "slug": "alicante-atp-challenger-alicante",
@@ -11577,9 +11577,9 @@
  },
  "istanbul-k-pop-forever\u0001https://upload.wikimedia.org/wikipedia/commons/1/1b/Taemin_at_K-POP_Concert_in_October_2015_02.jpg": {
   "slug": "istanbul-k-pop-forever",
-  "verdict": "MATCH",
-  "reason": "event publish gate: Performer portrait suitable for K-Pop event hero image",
-  "at": "2026-10-18T22:50:41.273Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares no word with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-19T11:33:02.702Z"
  },
  "istanbul-kinu\u0001https://fastly.4sqi.net/img/general/original/382824581_n8tY4mL9rQfEFjw4Qqmrdjt8YC8csa9Pj-KI_44gTI0.jpg": {
   "slug": "istanbul-kinu",
@@ -15420,9 +15420,9 @@
  },
  "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Doubles_at_the_ATP_Finals_%2849070105758%29.jpg/3840px-Doubles_at_the_ATP_Finals_%2849070105758%29.jpg": {
   "slug": "london-atp-finals",
-  "verdict": "MATCH",
-  "reason": "event publish gate: ATP Finals tennis court and crowd, representative event view",
-  "at": "2026-10-18T22:52:31.867Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"finals\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-19T11:33:02.880Z"
  },
  "london-bigbang-20th-anniversary-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/London_Tottenham_Hotspur_Stadium.jpg/3840px-London_Tottenham_Hotspur_Stadium.jpg": {
   "slug": "london-bigbang-20th-anniversary-world-tour",
@@ -17449,9 +17449,9 @@
  },
  "mexico-city-2026-gridiron-nations-championship\u0001https://upload.wikimedia.org/wikipedia/commons/4/45/GREATNESS_BEYOND_THE_GRIDIRON_%2830764554380%29.jpg": {
   "slug": "mexico-city-2026-gridiron-nations-championship",
-  "verdict": "MATCH",
-  "reason": "event publish gate: Football game action shot, valid for gridiron championship event",
-  "at": "2026-10-18T22:52:52.817Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"gridiron\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-19T11:33:03.064Z"
  },
  "mexico-city-bar-nino\u0001https://fastly.4sqi.net/img/general/original/70783217_idvlBFGIpXr8-83tmIrCcHc9DgvvStk4ey4kx7cXME4.jpg": {
   "slug": "mexico-city-bar-nino",
@@ -19932,9 +19932,9 @@
  },
  "nuremberg-nuremberg-christkindlesmarkt\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Christkindlesmarkt_2023_N%C3%BCrnberg_134.jpg/3840px-Christkindlesmarkt_2023_N%C3%BCrnberg_134.jpg": {
   "slug": "nuremberg-nuremberg-christkindlesmarkt",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Nuremberg Christmas market nutcrackers and decorations",
-  "at": "2026-10-18T23:11:39.220Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"christkindlesmarkt\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-19T11:33:03.245Z"
  },
  "nuremberg-nuremberg-christkindlesmarkt\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Lights_in_Christkindlesmarkt_Nuremberg.jpg/3840px-Lights_in_Christkindlesmarkt_Nuremberg.jpg": {
   "slug": "nuremberg-nuremberg-christkindlesmarkt",
@@ -22276,9 +22276,9 @@
  },
  "puerto-princesa-ironman-70-3-puerto-princesa\u0001https://upload.wikimedia.org/wikipedia/commons/d/db/Bart_Aernouts_Ironman_70.3_Austria_2012.jpg": {
   "slug": "puerto-princesa-ironman-70-3-puerto-princesa",
-  "verdict": "MATCH",
-  "reason": "event publish gate: Triathlete racing, valid Ironman event hero photo",
-  "at": "2026-10-18T22:50:35.355Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"ironman\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-19T11:33:03.434Z"
  },
  "puerto-princesa-luli-island\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Luli_Island%2C_Honda_Bay%2C_Palawan%2C_Philippines.jpg/3840px-Luli_Island%2C_Honda_Bay%2C_Palawan%2C_Philippines.jpg": {
   "slug": "puerto-princesa-luli-island",
@@ -24504,9 +24504,9 @@
  },
  "seville-copa-del-rey-round-of-32\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Campeones_de_la_Copa_del_Rey_2022.jpg/3840px-Campeones_de_la_Copa_del_Rey_2022.jpg": {
   "slug": "seville-copa-del-rey-round-of-32",
-  "verdict": "MATCH",
-  "reason": "event publish gate: Water polo team celebrating with Copa del Rey trophy",
-  "at": "2026-10-18T22:47:02.053Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"copa\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-19T11:33:03.619Z"
  },
  "seville-el-rinconcillo\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/El_Rinconcillo_-_Plaza_los_Terercos_-_Seville_%2814678492295%29.jpg/1920px-El_Rinconcillo_-_Plaza_los_Terercos_-_Seville_%2814678492295%29.jpg": {
   "slug": "seville-el-rinconcillo",
@@ -29421,9 +29421,9 @@
  },
  "ulaanbaatar-new-year-s-eve-at-sukhbaatar-square\u0001https://upload.wikimedia.org/wikipedia/commons/7/70/Bratislava_New_Year_Fireworks.jpg": {
   "slug": "ulaanbaatar-new-year-s-eve-at-sukhbaatar-square",
-  "verdict": "MATCH",
-  "reason": "event publish gate: Fireworks display, fitting for New Year's Eve event",
-  "at": "2026-10-18T22:53:05.303Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"year\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-19T11:33:03.798Z"
  },
  "ulaanbaatar-raphael-and-bernini-in-ulaanbaatar-exhibition\u0001https://upload.wikimedia.org/wikipedia/commons/4/49/Raphael_-_Promo_album_Somnambules.jpg": {
   "slug": "ulaanbaatar-raphael-and-bernini-in-ulaanbaatar-exhibition",
