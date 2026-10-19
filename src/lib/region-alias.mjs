@@ -31,6 +31,9 @@ export const REGION_ALIAS = {
   // Event discovery wrote the official name for two posts (2026-10-05 audit):
   // a two-post "Frankfurt am Main" hub stood beside the real Frankfurt one.
   'frankfurt-am-main': 'frankfurt',
+  // Same again (2026-10-19 evening sweep): discovery wrote "New Taipei City"
+  // for one event beside the 3+ post "New Taipei" hub.
+  'new-taipei-city': 'new-taipei',
 };
 
 /** The region name a post should carry for each canonical slug above. */
@@ -44,6 +47,7 @@ export const REGION_CANONICAL_NAME = {
   'ha-long-bay': 'Ha Long Bay',
   'washington-dc': 'Washington DC',
   frankfurt: 'Frankfurt',
+  'new-taipei': 'New Taipei',
 };
 
 /** The canonical region name for `region`, or null when it is not an alias source. */

@@ -2,7 +2,7 @@
 title: 'Taipei Christmasland 2026: Dates, Tickets & Venue (New Taipei City)'
 description: Taipei Christmasland 2026 runs from mid-November to late December 2026 across several venues in Banqiao, New Taipei City, centred on the plaza around New Taipei City Hall beside Banqiao Station.
 country: Taiwan
-region: New Taipei City
+region: New Taipei
 category: event
 pubDate: '2026-10-18'
 eventStartDate: '2026-11-14'
