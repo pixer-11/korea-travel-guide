@@ -108,3 +108,18 @@ test('hubHeroForDay rotates through landmark photos, one per day', async () => {
   assert.notEqual(d0, d1, 'consecutive days show different photos');
   assert.equal(hubHeroForDay([mk('e', 'event', 1)]), null);
 });
+
+test('cityHeroForDay: a place photo first, then a local festival, never a performer or a sport', async () => {
+  const { cityHeroForDay } = await import('./dest-hub.mjs');
+  const hero = (url) => ({ url, license: 'wikimedia' });
+  const day = new Date('2026-10-20T00:00:00Z');
+  const mud = { id: 'boryeong-mud-festival', data: { category: 'event', title: 'Mud Festival in Boryeong', heroImage: hero('https://x/mud.jpg') } };
+  const gig = { id: 'a-concert', data: { category: 'event', title: 'BIGBANG World Tour', eventPerformer: { name: 'BIGBANG' }, heroImage: hero('https://x/gig.jpg') } };
+  const atp = { id: 'alicante-atp', data: { category: 'event', title: 'ATP Challenger Alicante', heroImage: hero('https://x/atp.jpg') } };
+  const beach = { id: 'boryeong-beach', data: { category: 'attraction', title: 'Daecheon Beach', heroImage: hero('https://x/beach.jpg') } };
+  assert.equal(cityHeroForDay([mud], () => null, day)?.id, 'boryeong-mud-festival');
+  assert.equal(cityHeroForDay([mud, beach], () => null, day)?.id, 'boryeong-beach');
+  assert.equal(cityHeroForDay([gig, atp], () => null, day), null);
+  assert.equal(cityHeroForDay([{ ...mud, data: { ...mud.data, heroImage: { url: 'https://x/p.jpg', license: 'placeholder' } } }], () => null, day), null);
+  assert.equal(cityHeroForDay([mud], () => 640, day), null);
+});

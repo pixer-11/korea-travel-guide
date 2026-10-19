@@ -5,6 +5,7 @@ import { buildToday } from './buildDay.mjs';
 // Pure functions over arguments, so node --test can exercise them without Astro.
 
 import { monthComfort } from './when-to-go.mjs';
+import { eventKind } from './event-next.mjs';
 
 const dayStr = (d) => {
   const t = new Date(d);
@@ -140,6 +141,30 @@ export function hubHeroForDay(posts, widthOf = () => null, day = new Date()) {
   if (!list.length) return null;
   const dayNo = Math.floor(new Date(day).getTime() / 86400000);
   return list[((dayNo % list.length) + list.length) % list.length];
+}
+
+/**
+ * The city hub's header photo: the same daily rotation as the country hub, and
+ * when a city has no place photo at all, the hero of a local festival — the
+ * Boryeong hub's only guide is the Mud Festival, shot on Daecheon Beach, and the
+ * page opened on a bare heading (owner 2026-10-20: "보령이 사진이 없는 게 말이
+ * 되나"). Never a performer's or a sport's event: a singer on a stage or a
+ * tennis player says nothing about the city.
+ * @param {any[]} posts
+ * @param {(post: any) => number | null} [widthOf]
+ * @param {Date} [day]
+ */
+export function cityHeroForDay(posts, widthOf = () => null, day = new Date()) {
+  const place = hubHeroForDay(posts, widthOf, day);
+  if (place) return place;
+  const festivals = (posts ?? []).filter((p) => {
+    const h = p?.data?.heroImage;
+    if (p?.data?.category !== 'event' || !h?.url || p.data.eventPerformer?.name) return false;
+    if (NOT_A_PLACE_PHOTO.has(h.license) || h.url.includes('placeholder') || eventKind(p.data)) return false;
+    const w = widthOf(p);
+    return !(typeof w === 'number' && w < 800);
+  }).sort((a, b) => String(a.id).localeCompare(String(b.id)));
+  return festivals[0] ?? null;
 }
 
 /**

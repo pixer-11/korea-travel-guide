@@ -17,7 +17,12 @@ import { useTranslations, localizePath, type Lang } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
 import { getRegionInfo } from '../i18n/regions';
 import { buildRoundups } from '../lib/roundups.mjs';
-import { pickOgPhoto } from '../lib/ogPhoto.mjs';
+import { pickOgPhoto, heroWidth } from '../lib/ogPhoto.mjs';
+import { cityHeroForDay } from '../lib/dest-hub.mjs';
+import { buildToday } from '../lib/eventStatus';
+import { wikimediaThumb } from '../lib/wikimediaThumb.mjs';
+import { shortPlaceLabel } from '../lib/placeLabel.mjs';
+import ogMirror from '../../data/og-mirror.json';
 import { clip } from '../lib/clip.mjs';
 import countriesData from '../../data/countries.json';
 
@@ -192,6 +197,23 @@ const metaDesc = info?.metaDesc ? info.metaDesc : info?.blurb ? clip(info.blurb)
 // serves large cards from images ≥1200px wide. Wall thumbs stay for on-page grids.
 const ogPhoto = pickOgPhoto(posts);
 
+// Header photo (2026-10-20). The country hubs have opened on a photograph since
+// 09-24 and every one of the 446 city hubs on a bare heading — "보령이 사진이
+// 없는 게 말이 되나" (owner). Same picker, same daily rotation, same image
+// chain (our mirror → 1280px thumb → the stored original) as DestinationHub.
+const heroPost = cityHeroForDay(posts, heroWidth, buildToday());
+const heroUrl: string = heroPost?.data.heroImage?.url ?? '';
+const heroMirror = (ogMirror as Record<string, string | null>)[heroUrl.trim()] || '';
+const heroDisplay = heroUrl
+  ? wikimediaThumb(heroUrl, 1280).replace(/(fastly\.4sqi\.net\/img\/general\/)original\//, '$1width1200/')
+  : '';
+const heroSrc = heroMirror || heroDisplay || heroUrl;
+const heroName = heroPost ? (shortPlaceLabel(cardTitle(heroPost), lang) || heroPost.data.place?.name || cardTitle(heroPost)) : '';
+const heroAlt = heroPost ? `${heroName} — ${regionLabel}` : '';
+const heroFocus = heroPost?.data.heroImage?.focus;
+const heroCredit = heroPost?.data.heroImage?.credit ?? '';
+const heroSource = heroPost?.data.heroImage?.source ?? '';
+
 // Which roundups this city actually HAS, from the same builder that creates the
 // pages. The link used to be gated on this hub's own count of one category, so a
 // city whose guides were spread across categories had a live roundup page that
@@ -210,8 +232,24 @@ const dayTripHub = buildDayTrips(allPosts).find((h) => h.city === region) ?? nul
 ---
 
 <BaseLayout image={ogPhoto} title={metaTitle} description={metaDesc} jsonLd={jsonLd} localized={true}>
-  <section class="page-hero">
-    <div class="wrap">
+  <section class:list={['page-hero', 'rh-hero', { 'page-hero--photo': heroSrc, 'rh-hero--photo': heroSrc }]}>
+    {heroSrc && (
+      <img
+        class="rh-hero-img"
+        src={heroSrc}
+        data-full={heroMirror && heroDisplay ? heroDisplay : heroUrl}
+        data-stored={heroUrl}
+        alt={heroAlt}
+        width="1280"
+        height="720"
+        loading="eager"
+        fetchpriority="high"
+        decoding="async"
+        style={heroFocus ? `object-position:${heroFocus.x}% ${heroFocus.y}%` : undefined}
+        onerror="if(this.dataset.full&&this.src!==this.dataset.full){this.src=this.dataset.full}else if(this.dataset.stored&&this.src!==this.dataset.stored){this.src=this.dataset.stored}else{this.closest('.rh-hero').classList.remove('page-hero--photo','rh-hero--photo');this.remove()}"
+      />
+    )}
+    <div class="wrap rh-hero-inner">
       {/* Country before the label: an H1 that just says "Chinatown" (or 차이나타운)
           names half the world's cities — the eyebrow anchors WHICH country's
           district this is before the reader parses anything else (owner, 2026-08-09). */}
@@ -224,6 +262,18 @@ const dayTripHub = buildDayTrips(allPosts).find((h) => h.city === region) ?? nul
       </nav>
       <p class="eyebrow">{countryLabel} · {t('region.eyebrow')}</p>
       <h1>{regionLabel}</h1>
+    </div>
+    {heroCredit && (
+      <p class="rh-credit">
+        {heroSource.startsWith('http')
+          ? <a href={heroSource} target="_blank" rel="noopener nofollow">{heroCredit}</a>
+          : heroCredit}
+      </p>
+    )}
+  </section>
+
+  <section class="rh-intro">
+    <div class="wrap">
       <p class="rh-save" data-city-save={slugifyRegion(region)}>
         <button type="button" aria-pressed="false" data-on={SAVE.saved} data-off={SAVE.save}><span class="rh-heart" aria-hidden="true">♡</span><span data-label>{SAVE.save}</span></button>
         <a href={localizePath('/my-trip', lang)} hidden data-open>{SAVE.open}</a>
@@ -395,6 +445,19 @@ const dayTripHub = buildDayTrips(allPosts).find((h) => h.city === region) ?? nul
 </script>
 
 <style>
+  /* ── Header photo (same look as the country hub's) ── */
+  .rh-hero { position: relative; overflow: hidden; padding-bottom: clamp(1rem, 3vw, 1.6rem); }
+  .rh-hero--photo { min-height: clamp(280px, 46vh, 460px); display: flex; align-items: flex-end; padding-block: clamp(3rem, 8vw, 5rem) clamp(1.8rem, 4vw, 2.6rem); }
+  .rh-hero-img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; z-index: 0; }
+  .rh-hero--photo::after { content: ''; position: absolute; inset: 0; z-index: 1; background: linear-gradient(180deg, rgba(20, 16, 12, 0.25) 0%, rgba(20, 16, 12, 0.45) 45%, rgba(20, 16, 12, 0.82) 100%); }
+  .rh-hero-inner { position: relative; z-index: 2; width: 100%; }
+  .rh-hero h1 { overflow-wrap: anywhere; }
+  .rh-hero--photo .crumbs, .rh-hero--photo .crumbs a, .rh-hero--photo .crumbs span[aria-current] { color: rgba(255, 255, 255, 0.88); }
+  .rh-credit { position: absolute; right: 0.6rem; top: 0.4rem; z-index: 2; margin: 0 !important; max-width: calc(100% - 1.2rem) !important; font-size: 0.68rem !important; color: rgba(255, 255, 255, 0.85) !important; text-shadow: 0 1px 3px rgba(0, 0, 0, 0.8); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .rh-credit a { color: inherit; }
+  .rh-intro { text-align: center; padding-top: clamp(1.2rem, 3vw, 1.8rem); }
+  .rh-intro > .wrap > p:not(.rh-save) { color: var(--ink-soft); font-size: 1.15rem; max-width: 46ch; margin: 0.8rem auto 0; }
+  .rh-intro .rh-save { justify-content: center; }
   .rh-save { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; margin: 10px 0 14px; }
   .rh-save button { display: inline-flex; align-items: center; gap: 6px; font: inherit; font-size: .88rem; font-weight: 700; color: var(--ink); background: var(--surface); border: 1.5px solid var(--line-strong); border-radius: 999px; padding: 7px 15px; cursor: pointer; }
   .rh-save button[aria-pressed="true"] { background: #7a3b1d; border-color: #7a3b1d; color: #fff; }
