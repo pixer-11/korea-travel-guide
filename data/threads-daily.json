@@ -90,29 +90,31 @@
     "adelaide-adelaide-botanic-garden",
     "singapore-deepavali-diwali-little-india-festival",
     "bangkok-bigbang-world-tour-xx-cosmos-in-bangkok",
-    "mexico-city-boynextdoor-knock-on-tour"
+    "mexico-city-boynextdoor-knock-on-tour",
+    "san-fernando-giant-lantern-festival-ligligan-parul"
   ],
-  "lastSentDay": "2026-10-20",
+  "lastSentDay": "2026-10-21",
   "material": {
-    "day": "2026-10-20",
-    "slug": "mexico-city-boynextdoor-knock-on-tour",
-    "title": "BOYNEXTDOOR KNOCK ON Tour: Dates, Tickets & Venue (Mexico City)",
+    "day": "2026-10-21",
+    "slug": "san-fernando-giant-lantern-festival-ligligan-parul",
+    "title": "Giant Lantern Festival (Ligligan Parul): Dates, Tickets & Venue (San Fernando)",
     "urls": [
-      "https://wanderatlasguides.com/og/social/2026-10-20-mexico-city-boynextdoor-knock-on-tour-1.jpg",
-      "https://wanderatlasguides.com/og/social/2026-10-20-mexico-city-boynextdoor-knock-on-tour-2.jpg",
-      "https://wanderatlasguides.com/og/social/2026-10-20-mexico-city-boynextdoor-knock-on-tour-3.jpg"
+      "https://wanderatlasguides.com/og/social/2026-10-21-san-fernando-giant-lantern-festival-ligligan-parul-1.jpg",
+      "https://wanderatlasguides.com/og/social/2026-10-21-san-fernando-giant-lantern-festival-ligligan-parul-2.jpg",
+      "https://wanderatlasguides.com/og/social/2026-10-21-san-fernando-giant-lantern-festival-ligligan-parul-3.jpg",
+      "https://wanderatlasguides.com/og/social/2026-10-21-san-fernando-giant-lantern-festival-ligligan-parul-4.jpg"
     ],
-    "igCaption": "BOYNEXTDOOR touches down in Mexico City for the first time ever on November 24, 2026, as part of the KNOCK ON Vol. 2 tour. Expect Bluetooth lightsticks, bilingual banners, and a crowd that's been waiting years for this night.\n\n#MexicoCity #Mexico #events #travel #wanderatlas #BOYNEXTDOOR #KNOCKONTour #KpopConcert #TravelGuide #CDMX\n📷 Photo: tenasia (티비텐) / Wikimedia Commons (CC BY 3.0) (edited)\n📷 Photo: TofuMuncher / Wikimedia Commons (CC0) (edited)",
-    "thOption": "Mexico City crowds are known for rehearsed fanchants and banners prepped weeks ahead. If you're going to the KNOCK ON Vol. 2 show, what song are you hoping gets the loudest singalong?",
-    "link": "https://wanderatlasguides.com/posts/mexico-city-boynextdoor-knock-on-tour/"
+    "igCaption": "Picture a star the size of a house, lit with thousands of bulbs and spinning with hidden rotor magic. San Fernando's Giant Lantern Festival runs Dec 13, 2026–Jan 1, 2027, and the competition night is the whole show.\n\n#SanFernando #Philippines #events #travel #wanderatlas #GiantLanternFestival #LigliganParul #Pampanga #PhilippinesTravel #ChristmasInThePhilippines\n📷 Photo: Victor Kong / Wikimedia Commons (CC BY 3.0) (edited)\n📷 Photo: Ramon FVelasquez / Wikimedia Commons (CC BY-SA 3.0) (edited)",
+    "thOption": "The lanterns face the judges, so the best view is front-on and slightly back to catch the whole star. Where would you post up for the full rotor show?",
+    "link": "https://wanderatlasguides.com/posts/san-fernando-giant-lantern-festival-ligligan-parul/"
   },
   "social": {
-    "thDay": "2026-10-20",
-    "thId": "18334505047302452",
-    "igDay": "2026-10-19",
-    "igId": "18118026506050222",
-    "thSlug": "mexico-city-boynextdoor-knock-on-tour",
-    "igSlug": "bangkok-bigbang-world-tour-xx-cosmos-in-bangkok",
+    "thDay": "2026-10-21",
+    "thId": "18133849984683531",
+    "igDay": "2026-10-21",
+    "igId": "18114193268036036",
+    "thSlug": "san-fernando-giant-lantern-festival-ligligan-parul",
+    "igSlug": "san-fernando-giant-lantern-festival-ligligan-parul",
     "history": [
       {
         "day": "2026-10-10",
@@ -187,7 +189,25 @@
         "day": "2026-10-14",
         "slug": "nagoya-asian-games-2026",
         "thId": "18120828686002618",
-        "igId": "18643940287006053"
+        "igId": "18643940287006053",
+        "insights": {
+          "at": "2026-10-21",
+          "th": {
+            "views": 95,
+            "likes": 0,
+            "replies": 0,
+            "reposts": 0,
+            "quotes": 0
+          },
+          "ig": {
+            "reach": 0,
+            "saved": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "views": 0
+          }
+        }
       },
       {
         "day": "2026-10-15",
@@ -220,6 +240,12 @@
         "day": "2026-10-20",
         "slug": "mexico-city-boynextdoor-knock-on-tour",
         "thId": "18334505047302452"
+      },
+      {
+        "day": "2026-10-21",
+        "slug": "san-fernando-giant-lantern-festival-ligligan-parul",
+        "thId": "18133849984683531",
+        "igId": "18114193268036036"
       }
     ]
   }
