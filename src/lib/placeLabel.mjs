@@ -117,7 +117,12 @@ export function regionNamesFor(names) {
  * title is not that shape. `cityNames` from regionNamesFor; es titles that open
  * on the bare suffix ("Guía de viaje: X") are turned round with `cityLabel`.
  */
-export function unreverseGuideTitle(title, lang, cityNames, cityLabel = '') {
+export function unreverseGuideTitle(title, lang, cityNames, cityLabel = '', { aboutCity = false } = {}) {
+  // The guide IS the city (「下龙湾旅行指南：如何游览越南下龙湾」): the tail is a
+  // subtitle and the head already names the place. Decided by the caller from
+  // the English source (isAboutCity), not guessed from the tail: 「바스 여행
+  // 가이드: 로만 바스」 carries the city inside the place's own name.
+  if (aboutCity) return null;
   const raw = String(title ?? '');
   const m = raw.match(SEPARATORS);
   if (!m) return null;
@@ -141,11 +146,19 @@ export function unreverseGuideTitle(title, lang, cityNames, cityLabel = '') {
     const ja = lang === 'ja' && city.endsWith('の');
     if (ja) city = city.slice(0, -1);
     if (!city || !cityNames.has(city.toLowerCase())) return null;
-    // The guide IS the city (「下龙湾旅行指南：如何游览越南下龙湾」, 「피피 섬 여행 가이드:
-    // 코 피피 완전 정복」): the tail is a subtitle, and the head already names the place.
-    const stem = city.split(/\s+/)[0].toLowerCase();
-    if (rest.toLowerCase().includes(stem)) return null;
     return `${rest}${sep}${ja ? city + suffix : head}${gap}${rating}`;
   }
   return null;
+}
+
+// Generic words that do not tell two names apart: "Phi Phi Islands" and
+// "Koh Phi Phi", "Halong Bay" and "Ha Long Bay" are one place.
+const GENERIC = /\b(the|koh|ko|islands?|bay|city|town|old|province)\b/g;
+const bare = (s) => String(s ?? '').toLowerCase().replace(GENERIC, '').replace(/[^\p{L}\p{N}]/gu, '');
+
+/** Is this guide about its region itself? From the ENGLISH title and region. */
+export function isAboutCity(englishTitle, region) {
+  const place = bare(shortPlaceLabel(englishTitle, 'en'));
+  const city = bare(region);
+  return !!place && !!city && place === city;
 }

@@ -87,7 +87,7 @@ test('🛑 src/ 에 전각 콜론을 모르는 제목 자르기가 없다', () =
 
 // 2026-10-20: 「호찌민 여행 가이드: 야키우오 이시카와」 — 도시가 콜론 앞에 오자 모든
 // 베트남 한국어 글의 첫 "호찌민"이 스시집으로 링크됐다. 57개 제목이 그 모양이었다.
-import { guideTitleRegion, regionNamesFor, unreverseGuideTitle } from './placeLabel.mjs';
+import { guideTitleRegion, regionNamesFor, unreverseGuideTitle, isAboutCity } from './placeLabel.mjs';
 
 test('정상 제목에서 도시 부분을 읽는다 — 장소표(호치민)와 글(호찌민)이 다르다', () => {
   assert.equal(guideTitleRegion('더 러닝 빈(The Running Bean): 호찌민 여행 가이드', 'ko'), '호찌민');
@@ -113,9 +113,14 @@ test('장소가 앞에 있는 정상 제목은 건드리지 않는다 (역방향
   const penang = regionNamesFor(['Penang', '페낭']);
   assert.equal(unreverseGuideTitle('페낭 식물원 여행 가이드: 현지인들이 "폭포 정원"이라 부르는 이유 (4.5★)', 'ko', penang), null);
   assert.equal(unreverseGuideTitle('알렉산더플라츠: 베를린 여행 가이드 (4.3★)', 'ko', regionNamesFor(['베를린'])), null);
-  // 그 도시 자체가 주제인 글: 꼬리는 부제다
-  assert.equal(unreverseGuideTitle('下龙湾旅行指南：如何游览越南下龙湾', 'zh', regionNamesFor(['下龙湾'])), null);
-  assert.equal(unreverseGuideTitle('피피 섬 여행 가이드: 코 피피 완전 정복', 'ko', regionNamesFor(['피피 섬'])), null);
+  // 그 도시 자체가 주제인 글: 꼬리는 부제다 — 영어 원문으로 판정한다
+  assert.equal(isAboutCity('Halong Bay: Ha Long Bay Travel Guide', 'Ha Long Bay'), true);
+  assert.equal(isAboutCity('Phi Phi Islands: Koh Phi Phi Travel Guide', 'Koh Phi Phi'), true);
+  assert.equal(unreverseGuideTitle('下龙湾旅行指南：如何游览越南下龙湾', 'zh', regionNamesFor(['下龙湾']), '', { aboutCity: true }), null);
+  // 도시 이름이 장소 이름 안에 들어 있어도 다른 장소다
+  assert.equal(isAboutCity('The Roman Baths: Bath Travel Guide (4.6★)', 'Bath'), false);
+  assert.equal(unreverseGuideTitle('바스 여행 가이드: 로만 바스(The Roman Baths) (4.6★)', 'ko', regionNamesFor(['바스'])),
+    '로만 바스(The Roman Baths): 바스 여행 가이드 (4.6★)');
   // 맛집 가이드는 도시 표시가 아니다
   assert.equal(unreverseGuideTitle('巴厘岛美食指南：SANA Uluwatu餐厅怎么吃', 'zh', regionNamesFor(['巴厘岛'])), null);
 });

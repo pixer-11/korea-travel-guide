@@ -40,7 +40,7 @@ import { namedIds, translatable } from './lib/translate-scope.mjs';
 import { runBatch, REPLACEMENT_CHAR } from './lib/claude-batch.mjs';
 import { loadRecords, patchFor, patchPrompt, applyEdits, EDIT_TOOL, docOf, fieldsOf, patchIsCheaper } from './lib/prose-patch.mjs';
 import { unescapeEntities } from './lib/unescape-entities.mjs';
-import { guideTitleRegion, regionNamesFor, unreverseGuideTitle } from '../src/lib/placeLabel.mjs';
+import { guideTitleRegion, regionNamesFor, unreverseGuideTitle, isAboutCity } from '../src/lib/placeLabel.mjs';
 
 const POSTS = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
 const OUT = fileURLToPath(new URL('../src/content/i18n/', import.meta.url));
@@ -677,7 +677,9 @@ async function translateOne(langCode, srcId, data, hash, attempt = 1, pre = null
   out.quickAnswer = D(out.quickAnswer);
   out.body = D(out.body);
   const region = REGION_OF.get(srcId);
-  const turned = region ? unreverseGuideTitle(out.title, langCode, cityNamesFor(region, langCode)) : null;
+  const turned = region
+    ? unreverseGuideTitle(out.title, langCode, cityNamesFor(region, langCode), '', { aboutCity: isAboutCity(data.title, region) })
+    : null;
   if (turned) { console.log(`     ⇄ ${langCode}/${srcId} — city was in front of the title, turned round`); out.title = turned; }
   if (Array.isArray(out.faq)) out.faq = out.faq.map((f) => (f && typeof f === 'object' ? { ...f, q: D(f.q), a: D(f.a) } : f));
   const fm = {
