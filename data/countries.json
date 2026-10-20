@@ -729,6 +729,32 @@
         "Tskaltubo"
       ],
       "continent": "Europe"
+    },
+    {
+      "name": "New Zealand",
+      "iso2": "nz",
+      "priority": 26,
+      "slug": "new-zealand",
+      "flag": "🇳🇿",
+      "active": true,
+      "blurb": "Hobbiton's green hills at Matamata, glowworm caves at Waitomo, Rotorua's geysers and Māori culture, and the fiords of Milford Sound past Te Anau, with Queenstown and Wanaka between the lakes and the Southern Alps. Two islands with few motorways make distances long, and the far south and west have long stretches without phone signal.",
+      "regions": [
+        "Auckland",
+        "Queenstown",
+        "Rotorua",
+        "Christchurch",
+        "Wellington",
+        "Matamata",
+        "Waitomo",
+        "Te Anau",
+        "Wanaka",
+        "Taupo",
+        "Lake Tekapo",
+        "Franz Josef",
+        "Kaikoura",
+        "Paihia"
+      ],
+      "continent": "Oceania"
     }
   ]
 }

@@ -1159,5 +1159,44 @@
       ]
     },
     "_srcHash": "0cd4d912102b8300"
+  },
+  "new-zealand": {
+    "ko": {
+      "intro": "뉴질랜드에는 One NZ, Spark, 2degrees라는 세 개의 이동통신사가 있으며, 각 사는 여행자를 위한 전용 요금제를 판매합니다. One NZ의 Travel SIM은 온라인으로 구매하는 eSIM 형태로, 현지 도착 후 777로 전화를 걸어야 개통됩니다. Spark는 뉴질랜드 번호가 부여되는 SIM 또는 eSIM과 함께 최대 3개월 체류자를 위한 NZ Travel Packs를 제공하며, 2degrees는 일부 공항과 자체 매장에서 Unlimited Travel SIM을 판매합니다. 해외 업체에서 판매하는 여행용 eSIM도 결국 이 세 통신망 중 하나를 사용하므로, 구매 전에 어느 통신사망을 이용하는지 반드시 확인하세요.",
+      "coverage": "오클랜드, 웰링턴, 크라이스트처치, 퀸스타운과 주요 간선도로(State Highway)를 따라 이어지는 소도시들에서는 신호가 안정적으로 잡힙니다. 하지만 이런 지역들 사이로 들어가면 신호가 급격히 약해지는데, 특히 알프스 산길, 테 아나우에서 밀포드 사운드로 이어지는 피오르드랜드 도로, 그리고 프란츠 조셉 인근 웨스트코스트 대부분 구간에서는 어떤 통신사든 신호가 전혀 잡히지 않는 긴 구간이 존재합니다.",
+      "tips": [
+        "밀포드 사운드로 향하거나 서던 알프스를 넘거나 웨스트코스트를 따라 이동하기 전에는 오프라인 지도를 미리 다운로드하고 숙소 및 투어 업체 연락처를 저장해 두세요. 이 도로들은 상당 구간에서 신호가 전혀 잡히지 않습니다.",
+        "One NZ에 따르면 뉴질랜드 외 지역에서 구입한 휴대폰은 111 긴급 전화가 걸리지 않을 수도 있다고 하니, 오지로 들어가기 전에 본인 휴대폰이 111 신고를 제대로 처리하는지 미리 확인하세요.",
+        "실물 SIM 카드를 선호한다면 Spark는 오클랜드와 크라이스트처치 공항에 키오스크를 운영하고 있으며, One NZ와 2degrees도 공항과 자체 매장에서 방문자용 SIM을 판매합니다."
+      ]
+    },
+    "ja": {
+      "intro": "ニュージーランドには、One NZ、Spark、2degreesという3つの携帯通信会社があり、それぞれが旅行者向けプランを提供しています。One NZの「Travel SIM」はオンラインで購入するeSIMで、現地に到着後777に電話をかけることで開通します。Sparkは、ニュージーランドの電話番号付きのSIMまたはeSIMと、最長3カ月の滞在に対応する「NZ Travel Packs」を用意しています。2degreesは一部の空港や自社店舗で「Unlimited Travel SIM」を販売しています。海外の販売会社が提供する旅行者向けeSIMも、結局はこれら既存のネットワークを利用する仕組みになっているので、購入前にどのネットワークを使うものか必ず確認しましょう。",
+      "coverage": "オークランド、ウェリントン、クライストチャーチ、クイーンズタウン、そして主要な幹線道路(ステートハイウェイ)沿いの町では電波は安定しています。しかし、それらの都市間に入ると電波は急速に弱くなります。アルプスの峠道、フィヨルドランドのテ・アナウからミルフォード・サウンドへ向かう道路、そしてフランツ・ジョセフ周辺のウエストコースト一帯の多くの区間では、どの通信会社の電波も入らない区間が長く続きます。",
+      "tips": [
+        "ミルフォード・サウンドへ向かう道、サザンアルプスを越える道、ウエストコーストを走る道の多くは電波が入らないため、運転前にオフラインマップをダウンロードし、宿泊先やツアー会社の連絡先を保存しておきましょう。",
+        "One NZによると、ニュージーランド国外で購入した携帯電話は緊急通報用の111番にかけられない場合があるとのことです。人里離れた地域に行く前に、自分の携帯電話が111番にどう対応するか確認しておきましょう。",
+        "物理SIMを希望する場合、Sparkはオークランド空港とクライストチャーチ空港にキオスクを構えており、One NZと2degreesも空港や自社店舗で旅行者向けSIMを販売しています。"
+      ]
+    },
+    "es": {
+      "intro": "Nueva Zelanda cuenta con tres redes móviles: One NZ, Spark y 2degrees, y cada una ofrece un plan pensado para visitantes. La Travel SIM de One NZ es una eSIM que se compra online y se activa llamando al 777 al aterrizar; Spark ofrece su SIM o eSIM con número neozelandés y los NZ Travel Packs para estadías de hasta tres meses; y 2degrees vende una Unlimited Travel SIM en algunos aeropuertos y en sus propias tiendas. Una eSIM de viaje de un proveedor internacional funciona sobre estas mismas redes, así que conviene revisar cuál de ellas utiliza antes de comprarla.",
+      "coverage": "La señal es confiable en Auckland, Wellington, Christchurch, Queenstown y las localidades a lo largo de las principales rutas estatales. Entre un punto y otro, la cobertura se reduce rápidamente: en los pasos alpinos, en Fiordland por la carretera que va de Te Anau a Milford Sound, y en buena parte de la Costa Oeste alrededor de Franz Josef hay largos tramos sin señal de ninguna red.",
+      "tips": [
+        "Descarga mapas offline y guarda los datos de contacto de tu alojamiento y tus excursiones antes de conducir hacia Milford Sound, cruzar los Alpes del Sur o recorrer la Costa Oeste, ya que gran parte de esas carreteras no tiene señal.",
+        "One NZ advierte que los teléfonos comprados fuera de Nueva Zelanda podrían no poder realizar llamadas de emergencia al 111, así que conviene verificar cómo gestiona tu teléfono el 111 antes de internarte en zonas remotas.",
+        "Si prefieres una SIM física, Spark tiene quioscos en los aeropuertos de Auckland y Christchurch, y One NZ y 2degrees venden SIM para visitantes en aeropuertos y en sus tiendas."
+      ]
+    },
+    "zh": {
+      "intro": "新西兰有三家移动网络运营商：One NZ、Spark 和 2degrees，每家都为游客提供专属套餐。One NZ 的 Travel SIM 是一张在线购买的 eSIM，落地后只需拨打 777 即可激活；Spark 提供带新西兰号码的实体 SIM 卡或 eSIM，并推出适合最长三个月行程的 NZ Travel Packs；2degrees 则在部分机场及其门店销售 Unlimited Travel SIM。国际卖家提供的旅行 eSIM 实际上也是接入这几家网络，购买前务必确认其标注的是哪一家。",
+      "coverage": "在奥克兰、惠灵顿、基督城、皇后镇以及主要国道沿线城镇，信号都比较稳定。但一旦离开这些地方，信号会迅速减弱：在高山山口、从蒂阿瑙到米尔福德峡湾沿途的峡湾地区，以及西海岸弗朗兹约瑟夫冰川附近的大部分路段，都会出现长时间任何网络都没有信号的情况。",
+      "tips": [
+        "在前往米尔福德峡湾、翻越南阿尔卑斯山或沿西海岸行驶之前，提前下载离线地图并保存好住宿和旅行团的联系方式，因为这些路段很大一部分都没有信号。",
+        "One NZ 提醒，在新西兰境外购买的手机可能无法拨打 111 紧急电话，因此在前往偏远地区之前，请先确认你的手机能否正常拨打 111。",
+        "如果你更想要一张实体 SIM 卡，Spark 在奥克兰和基督城机场设有服务柜台，而 One NZ 和 2degrees 则在机场及其门店均有销售游客 SIM 卡。"
+      ]
+    },
+    "_srcHash": "b1d1c0b186ee5c6e"
   }
 }

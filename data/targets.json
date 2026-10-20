@@ -2434,6 +2434,237 @@
       "topic": "Gonio Fortress",
       "category": "attraction",
       "query": "Gonio Fortress Apsaros Batumi"
+    },
+    {
+      "country": "New Zealand",
+      "region": "Auckland",
+      "topic": "Sky Tower",
+      "category": "attraction",
+      "query": "Sky Tower Auckland New Zealand"
+    },
+    {
+      "country": "New Zealand",
+      "region": "Auckland",
+      "topic": "Auckland War Memorial Museum",
+      "category": "attraction",
+      "query": "Auckland War Memorial Museum Auckland New Zealand"
+    },
+    {
+      "country": "New Zealand",
+      "region": "Auckland",
+      "topic": "Maungawhau / Mount Eden",
+      "category": "attraction",
+      "query": "Maungawhau Mount Eden summit Auckland New Zealand"
+    },
+    {
+      "country": "New Zealand",
+      "region": "Matamata",
+      "topic": "Hobbiton Movie Set",
+      "category": "attraction",
+      "query": "Hobbiton Movie Set Matamata New Zealand"
+    },
+    {
+      "country": "New Zealand",
+      "region": "Waitomo",
+      "topic": "Waitomo Glowworm Caves",
+      "category": "attraction",
+      "query": "Waitomo Glowworm Caves Waitomo New Zealand"
+    },
+    {
+      "country": "New Zealand",
+      "region": "Waitomo",
+      "topic": "Ruakuri Cave",
+      "category": "hidden-gem",
+      "query": "Ruakuri Cave Waitomo New Zealand"
+    },
+    {
+      "country": "New Zealand",
+      "region": "Rotorua",
+      "topic": "Te Puia",
+      "category": "attraction",
+      "query": "Te Puia Pohutu Geyser Whakarewarewa Rotorua New Zealand"
+    },
+    {
+      "country": "New Zealand",
+      "region": "Rotorua",
+      "topic": "Whakarewarewa Redwoods Forest",
+      "category": "attraction",
+      "query": "Redwoods Whakarewarewa Forest Rotorua New Zealand"
+    },
+    {
+      "country": "New Zealand",
+      "region": "Rotorua",
+      "topic": "Polynesian Spa",
+      "category": "attraction",
+      "query": "Polynesian Spa Rotorua New Zealand"
+    },
+    {
+      "country": "New Zealand",
+      "region": "Rotorua",
+      "topic": "Skyline Rotorua",
+      "category": "attraction",
+      "query": "Skyline Rotorua Rotorua New Zealand"
+    },
+    {
+      "country": "New Zealand",
+      "region": "Rotorua",
+      "topic": "Kuirau Park",
+      "category": "hidden-gem",
+      "query": "Kuirau Park Rotorua New Zealand"
+    },
+    {
+      "country": "New Zealand",
+      "region": "Taupo",
+      "topic": "Huka Falls",
+      "category": "attraction",
+      "query": "Huka Falls Taupo New Zealand"
+    },
+    {
+      "country": "New Zealand",
+      "region": "Taupo",
+      "topic": "Craters of the Moon",
+      "category": "hidden-gem",
+      "query": "Craters of the Moon geothermal walk Taupo New Zealand"
+    },
+    {
+      "country": "New Zealand",
+      "region": "Wellington",
+      "topic": "Te Papa Tongarewa",
+      "category": "attraction",
+      "query": "Te Papa Museum Wellington New Zealand"
+    },
+    {
+      "country": "New Zealand",
+      "region": "Wellington",
+      "topic": "Wellington Cable Car",
+      "category": "attraction",
+      "query": "Wellington Cable Car Wellington New Zealand"
+    },
+    {
+      "country": "New Zealand",
+      "region": "Wellington",
+      "topic": "Mount Victoria Lookout",
+      "category": "attraction",
+      "query": "Mount Victoria Lookout Wellington New Zealand"
+    },
+    {
+      "country": "New Zealand",
+      "region": "Wellington",
+      "topic": "Zealandia Ecosanctuary",
+      "category": "attraction",
+      "query": "Zealandia Te Mara a Tane ecosanctuary Wellington New Zealand"
+    },
+    {
+      "country": "New Zealand",
+      "region": "Christchurch",
+      "topic": "Christchurch Botanic Gardens",
+      "category": "attraction",
+      "query": "Christchurch Botanic Gardens Christchurch New Zealand"
+    },
+    {
+      "country": "New Zealand",
+      "region": "Christchurch",
+      "topic": "Cardboard Cathedral",
+      "category": "attraction",
+      "query": "Cardboard Cathedral Transitional Cathedral Christchurch New Zealand"
+    },
+    {
+      "country": "New Zealand",
+      "region": "Christchurch",
+      "topic": "Christchurch Tram",
+      "category": "attraction",
+      "query": "Christchurch Tram Christchurch New Zealand"
+    },
+    {
+      "country": "New Zealand",
+      "region": "Kaikoura",
+      "topic": "Whale Watch Kaikoura",
+      "category": "attraction",
+      "query": "Whale Watch Kaikoura Kaikoura New Zealand"
+    },
+    {
+      "country": "New Zealand",
+      "region": "Kaikoura",
+      "topic": "Kaikoura Peninsula Walkway",
+      "category": "hidden-gem",
+      "query": "Kaikoura Peninsula Walkway Kaikoura New Zealand"
+    },
+    {
+      "country": "New Zealand",
+      "region": "Lake Tekapo",
+      "topic": "Church of the Good Shepherd",
+      "category": "attraction",
+      "query": "Church of the Good Shepherd Lake Tekapo New Zealand"
+    },
+    {
+      "country": "New Zealand",
+      "region": "Lake Tekapo",
+      "topic": "Mount John Observatory",
+      "category": "attraction",
+      "query": "Mount John Observatory Lake Tekapo New Zealand"
+    },
+    {
+      "country": "New Zealand",
+      "region": "Lake Tekapo",
+      "topic": "Tekapo Springs",
+      "category": "attraction",
+      "query": "Tekapo Springs Lake Tekapo New Zealand"
+    },
+    {
+      "country": "New Zealand",
+      "region": "Franz Josef",
+      "topic": "Franz Josef Glacier",
+      "category": "attraction",
+      "query": "Franz Josef Glacier Franz Josef New Zealand"
+    },
+    {
+      "country": "New Zealand",
+      "region": "Queenstown",
+      "topic": "Skyline Queenstown",
+      "category": "attraction",
+      "query": "Skyline Queenstown Queenstown New Zealand"
+    },
+    {
+      "country": "New Zealand",
+      "region": "Queenstown",
+      "topic": "Queenstown Gardens",
+      "category": "attraction",
+      "query": "Queenstown Gardens Queenstown New Zealand"
+    },
+    {
+      "country": "New Zealand",
+      "region": "Queenstown",
+      "topic": "TSS Earnslaw",
+      "category": "attraction",
+      "query": "TSS Earnslaw steamship Queenstown New Zealand"
+    },
+    {
+      "country": "New Zealand",
+      "region": "Wanaka",
+      "topic": "That Wanaka Tree",
+      "category": "trendy",
+      "query": "That Wanaka Tree Wanaka New Zealand"
+    },
+    {
+      "country": "New Zealand",
+      "region": "Wanaka",
+      "topic": "Puzzling World",
+      "category": "attraction",
+      "query": "Puzzling World Wanaka New Zealand"
+    },
+    {
+      "country": "New Zealand",
+      "region": "Te Anau",
+      "topic": "Te Anau Glowworm Caves",
+      "category": "attraction",
+      "query": "Te Anau Glowworm Caves Te Anau New Zealand"
+    },
+    {
+      "country": "New Zealand",
+      "region": "Paihia",
+      "topic": "Waitangi Treaty Grounds",
+      "category": "attraction",
+      "query": "Waitangi Treaty Grounds Paihia New Zealand"
     }
   ]
 }

@@ -2183,6 +2183,102 @@
     "es": "Natalicio de Buda",
     "zh": "佛诞节"
   },
+  "New Zealand|Anzac Day": {
+    "ko": "안작의 날",
+    "ja": "アンザックデー",
+    "es": "Día de ANZAC",
+    "zh": "澳新军团日"
+  },
+  "New Zealand|Anzac Day (observed)": {
+    "ko": "안작의 날 대체 공휴일",
+    "ja": "アンザックデー(振替休日)",
+    "es": "Día de ANZAC (trasladado)",
+    "zh": "澳新军团日(顺延假期)"
+  },
+  "New Zealand|Boxing Day": {
+    "ko": "박싱 데이",
+    "ja": "ボクシングデー",
+    "es": "San Esteban",
+    "zh": "节礼日"
+  },
+  "New Zealand|Boxing Day (observed)": {
+    "ko": "박싱 데이 대체 공휴일",
+    "ja": "ボクシングデー(振替休日)",
+    "es": "San Esteban (trasladado)",
+    "zh": "节礼日(顺延假期)"
+  },
+  "New Zealand|Christmas Day": {
+    "ko": "크리스마스",
+    "ja": "クリスマス",
+    "es": "Navidad",
+    "zh": "圣诞节"
+  },
+  "New Zealand|Christmas Day (observed)": {
+    "ko": "크리스마스 대체 공휴일",
+    "ja": "クリスマス(振替休日)",
+    "es": "Navidad (trasladada)",
+    "zh": "圣诞节(顺延假期)"
+  },
+  "New Zealand|Day after New Year's Day": {
+    "ko": "신정 다음 날",
+    "ja": "元日翌日",
+    "es": "Día después de Año Nuevo",
+    "zh": "元旦翌日"
+  },
+  "New Zealand|Day after New Year's Day (observed)": {
+    "ko": "신정 다음 날 대체 공휴일",
+    "ja": "元日翌日(振替休日)",
+    "es": "Día después de Año Nuevo (trasladado)",
+    "zh": "元旦翌日(顺延假期)"
+  },
+  "New Zealand|Easter Monday": {
+    "ko": "부활절 월요일",
+    "ja": "イースターマンデー",
+    "es": "Lunes de Pascua",
+    "zh": "复活节星期一"
+  },
+  "New Zealand|Good Friday": {
+    "ko": "성금요일",
+    "ja": "聖金曜日",
+    "es": "Viernes Santo",
+    "zh": "耶稣受难日"
+  },
+  "New Zealand|King's Birthday": {
+    "ko": "국왕 탄신일",
+    "ja": "国王誕生日",
+    "es": "Cumpleaños del Rey",
+    "zh": "国王诞辰日"
+  },
+  "New Zealand|Labour Day": {
+    "ko": "노동절",
+    "ja": "レイバー・デー",
+    "es": "Día del Trabajo",
+    "zh": "劳动节"
+  },
+  "New Zealand|Matariki": {
+    "ko": "마타리키",
+    "ja": "マタリキ",
+    "es": "Matariki",
+    "zh": "马塔里基节"
+  },
+  "New Zealand|New Year's Day": {
+    "ko": "신정",
+    "ja": "元日",
+    "es": "Año Nuevo",
+    "zh": "元旦"
+  },
+  "New Zealand|Waitangi Day": {
+    "ko": "와이탕이 데이",
+    "ja": "ワイタンギ・デー",
+    "es": "Día de Waitangi",
+    "zh": "怀唐伊日"
+  },
+  "New Zealand|Waitangi Day (observed)": {
+    "ko": "와이탕이 데이 대체 공휴일",
+    "ja": "ワイタンギ・デー(振替休日)",
+    "es": "Día de Waitangi (trasladado)",
+    "zh": "怀唐伊日(顺延假期)"
+  },
   "Philippines|All Saints' Day": {
     "ko": "만성절",
     "ja": "諸聖人の日",

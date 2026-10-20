@@ -42,7 +42,7 @@ export const EDITOR_VISITED: VisitedPlace[] = [
   { place: 'Russia', continent: 'Europe' },
   { place: 'United States', continent: 'North America' },
   { place: 'Australia', continent: 'Oceania' },
-  { place: 'New Zealand', continent: 'Oceania' },
+  { place: 'New Zealand', continent: 'Oceania' }, // own country since 2026-10-20
 ];
 
 const VISITED_COUNTRIES = new Set([

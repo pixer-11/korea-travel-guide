@@ -39,6 +39,7 @@ export const ESIM_REGION_OF = {
   mexico: 'europeAmericas', // 2026-10-04
   // Oceania (2026-09-28)
   australia: 'oceania',
+  'new-zealand': 'oceania', // 2026-10-20
 };
 
 /**

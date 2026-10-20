@@ -32,6 +32,9 @@ import holidays
 # Georgia (GE) has only "public": the Labour Code's days off, with Orthodox
 # Christmas on 7 January and Orthodox Easter from Good Friday to Monday
 # (2026-10-19).
+# New Zealand (NZ) stays on the default "public" with no subdivision: that is
+# the eleven national days (Waitangi, Anzac, Matariki ...). Each region adds
+# its own Anniversary Day, which a nationwide list cannot carry (2026-10-20).
 CATEGORIES = {"HK": ("optional",), "MO": ("optional",)}
 
 # The UK's no-subdivision set is only what all four nations share, which drops

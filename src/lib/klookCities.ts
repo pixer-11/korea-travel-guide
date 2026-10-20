@@ -172,6 +172,7 @@ export const KLOOK_CITY: Record<string, KlookCity> = {
   "Alanya": { id: 32303, slug: 'alanya', country: "Turkey" },
   "Alice Springs": { id: 20214, slug: 'alice-springs', country: "Australia" },
   "Amritsar": { id: 301, slug: 'amritsar', country: "India" },
+  "Auckland": { id: 80, slug: 'auckland', country: "New Zealand" }, // 2026-10-20: in the en-US, ko, ja, es and zh-cn city sitemaps
   "Austin": { id: 99418, slug: 'austin', country: "United States" },
   "Avignon": { id: 143700, slug: 'avignon', country: "France" },
   "Bacolod": { id: 480, slug: 'bacolod', country: "Philippines" },
@@ -189,6 +190,7 @@ export const KLOOK_CITY: Record<string, KlookCity> = {
   "Cardiff": { id: 293, slug: 'cardiff', country: "United Kingdom" },
   "Chennai": { id: 274, slug: 'chennai', country: "India" },
   "Chiayi": { id: 436, slug: 'chiayi', country: "Taiwan" },
+  "Christchurch": { id: 82, slug: 'christchurch', country: "New Zealand" }, // 2026-10-20: in the en-US, ko, ja, es and zh-cn city sitemaps
   "Colmar": { id: 700761, slug: 'colmar', country: "France" },
   "Cologne": { id: 79171, slug: 'cologne', country: "Germany" },
   "Coron": { id: 112652, slug: 'coron', country: "Philippines" },
@@ -214,6 +216,7 @@ export const KLOOK_CITY: Record<string, KlookCity> = {
   "Hua Hin": { id: 125, slug: 'hua-hin', country: "Thailand" },
   "Iloilo": { id: 481, slug: 'iloilo', country: "Philippines" },
   "Inverness": { id: 372, slug: 'inverness', country: "United Kingdom" },
+  "Kaikoura": { id: 526, slug: 'kaikoura', country: "New Zealand" }, // 2026-10-20: in the en-US, ko, ja, es and zh-cn city sitemaps
   "Kanchanaburi": { id: 254, slug: 'kanchanaburi', country: "Thailand" },
   "Khiva": { id: 10071, slug: 'khiva', country: "Uzbekistan" },
   "Kobe": { id: 135, slug: 'kobe', country: "Japan" },
@@ -227,6 +230,7 @@ export const KLOOK_CITY: Record<string, KlookCity> = {
   "Lucca": { id: 99807, slug: 'lucca', country: "Italy" },
   "Malang": { id: 521, slug: 'malang', country: "Indonesia" },
   "Manchester": { id: 296, slug: 'manchester', country: "United Kingdom" },
+  "Matamata": { id: 702894, slug: 'matamata', country: "New Zealand" }, // 2026-10-20: in the en-US, ko, ja, es and zh-cn city sitemaps
   "Medan": { id: 338, slug: 'medan', country: "Indonesia" },
   "Melbourne": { id: 69, slug: 'melbourne', country: "Australia" },
   "Mexico City": { id: 5238, slug: 'mexico-city', country: "Mexico" },
@@ -239,6 +243,7 @@ export const KLOOK_CITY: Record<string, KlookCity> = {
   "Ninh Binh": { id: 30135, slug: 'ninh-binh', country: "Vietnam" },
   "Oaxaca": { id: 10473, slug: 'oaxaca', country: "Mexico" },
   "Oxford": { id: 297, slug: 'oxford', country: "United Kingdom" },
+  "Paihia": { id: 702609, slug: 'bay-of-islands', country: "New Zealand" }, // 2026-10-20: c702609-bay-of-islands in all five city sitemaps; Paihia is the Bay of Islands' main town
   "Pasay": { id: 26286, slug: 'pasay', country: "Philippines" },
   "Philadelphia": { id: 80779, slug: 'philadelphia', country: "United States" },
   "Phnom Penh": { id: 44, slug: 'phnom-penh', country: "Cambodia" },
@@ -249,8 +254,10 @@ export const KLOOK_CITY: Record<string, KlookCity> = {
   "Puerto Vallarta": { id: 9722, slug: 'puerto-vallarta', country: "Mexico" },
   "Pushkar": { id: 302, slug: 'pushkar', country: "India" },
   "Putrajaya": { id: 7086, slug: 'putrajaya', country: "Malaysia" },
+  "Queenstown": { id: 83, slug: 'queenstown', country: "New Zealand" }, // 2026-10-20: in the en-US, ko, ja, es and zh-cn city sitemaps
   "Ravenna": { id: 20969, slug: 'ravenna', country: "Italy" },
   "Rishikesh": { id: 54891, slug: 'rishikesh', country: "India" },
+  "Rotorua": { id: 81, slug: 'rotorua', country: "New Zealand" }, // 2026-10-20: in the en-US, ko, ja, es and zh-cn city sitemaps
   "Saitama": { id: 20814, slug: 'saitama', country: "Japan" },
   "Samarkand": { id: 706911, slug: 'samarkand', country: "Uzbekistan" },
   "San Diego": { id: 330, slug: 'san-diego', country: "United States" },
@@ -269,11 +276,16 @@ export const KLOOK_CITY: Record<string, KlookCity> = {
   "Takayama": { id: 9316, slug: 'takayama', country: "Japan" },
   "Tangerang": { id: 30210, slug: 'tangerang', country: "Indonesia" },
   "Tashkent": { id: 4494, slug: 'tashkent', country: "Uzbekistan" },
+  "Taupo": { id: 390, slug: 'taupo', country: "New Zealand" }, // 2026-10-20: in the en-US, ko, ja, es and zh-cn city sitemaps
   "Tbilisi": { id: 453, slug: 'tbilisi', country: "Georgia" }, // 2026-10-19: in the en-US, ko, ja, es and zh-cn city sitemaps
+  "Te Anau": { id: 702420, slug: 'te-anau', country: "New Zealand" }, // 2026-10-20: in the en-US, ko, ja, es and zh-cn city sitemaps
   "Toulouse": { id: 206478, slug: 'toulouse', country: "France" },
   "Tulum": { id: 17463, slug: 'tulum', country: "Mexico" },
   "Ubud": { id: 703018, slug: 'ubud', country: "Indonesia" },
   "Ulaanbaatar": { id: 4365, slug: 'ulaanbaatar', country: "Mongolia" }, // 2026-10-11: c4365-ulaanbaatar in the en-US, ko, ja, es and zh-cn city sitemaps
+  "Waitomo": { id: 703143, slug: 'waitomo', country: "New Zealand" }, // 2026-10-20: in the en-US, ko, ja, es and zh-cn city sitemaps
+  "Wanaka": { id: 397, slug: 'wanaka', country: "New Zealand" }, // 2026-10-20: in the en-US, ko, ja, es and zh-cn city sitemaps
+  "Wellington": { id: 85, slug: 'wellington', country: "New Zealand" }, // 2026-10-20: in the en-US, ko, ja, es and zh-cn city sitemaps
   "Yilan": { id: 42, slug: 'yilan', country: "Taiwan" },
   "York": { id: 299, slug: 'york', country: "United Kingdom" },
   "Zamboanga City": { id: 15709, slug: 'zamboanga-city', country: "Philippines" },

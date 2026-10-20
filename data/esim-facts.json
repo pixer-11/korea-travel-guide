@@ -436,5 +436,20 @@
       "Silknet's tourist packages come in several lengths; pick one that covers your whole stay so it does not lapse on the last day of a mountain trip.",
       "A trip that carries on into Armenia, Turkey or Azerbaijan needs a plan that covers that country too, so check the coverage list before you cross the border."
     ]
+  },
+  "new-zealand": {
+    "name": "New Zealand",
+    "carriers": [
+      "One NZ",
+      "Spark",
+      "2degrees"
+    ],
+    "intro": "New Zealand has three mobile networks: One NZ, Spark and 2degrees, and each sells a plan for visitors. One NZ's Travel SIM comes as an eSIM you buy online and switch on by calling 777 once you land, Spark offers its SIM or eSIM with a New Zealand number and NZ Travel Packs for stays of up to three months, and 2degrees sells an Unlimited Travel SIM at select airports and its own stores. A travel eSIM from an international seller rides on these same networks; check which one it names before you buy.",
+    "coverage": "Signal is reliable in Auckland, Wellington, Christchurch, Queenstown and the towns along the main state highways. Between them it thins out fast: on alpine passes, in Fiordland on the road from Te Anau to Milford Sound and along much of the West Coast around Franz Josef there are long stretches with no signal on any network.",
+    "tips": [
+      "Download offline maps and save your accommodation and tour contacts before driving to Milford Sound, over the Southern Alps or down the West Coast, as large parts of those roads have no signal.",
+      "One NZ notes that phones bought outside New Zealand may not be able to make 111 emergency calls, so check how your phone handles 111 before heading into the backcountry.",
+      "If you would rather have a physical SIM, Spark has kiosks at Auckland and Christchurch airports, and One NZ and 2degrees sell visitor SIMs at airports and in their stores."
+    ]
   }
 }

@@ -149,6 +149,12 @@
     "es": "Arlington",
     "zh": "阿灵顿"
   },
+  "Auckland": {
+    "ko": "오클랜드",
+    "ja": "オークランド",
+    "es": "Auckland",
+    "zh": "奥克兰"
+  },
   "Austin": {
     "ko": "오스틴",
     "ja": "オースティン",
@@ -569,6 +575,12 @@
     "es": "Barrio Chino",
     "zh": "唐人街"
   },
+  "Christchurch": {
+    "ko": "크라이스트처치",
+    "ja": "クライストチャーチ",
+    "es": "Christchurch",
+    "zh": "克赖斯特彻奇"
+  },
   "Chuncheon": {
     "ko": "춘천",
     "ja": "春川",
@@ -850,6 +862,12 @@
     "ja": "フランクフルト・アム・マイン",
     "es": "Fráncfort del Meno",
     "zh": "美因河畔法兰克福"
+  },
+  "Franz Josef": {
+    "ko": "프란츠조셉",
+    "ja": "フランツ・ジョセフ",
+    "es": "Franz Josef",
+    "zh": "弗朗兹约瑟夫"
   },
   "Fremantle": {
     "ko": "프리맨틀",
@@ -1301,6 +1319,12 @@
     "es": "Jurong",
     "zh": "裕廊"
   },
+  "Kaikoura": {
+    "ko": "카이코우라",
+    "ja": "カイコウラ",
+    "es": "Kaikoura",
+    "zh": "凯库拉"
+  },
   "Kampong Cham": {
     "ko": "캄퐁참",
     "ja": "コンポンチャム",
@@ -1547,6 +1571,12 @@
     "es": "Lago Khuvsgul",
     "zh": "库苏古尔湖"
   },
+  "Lake Tekapo": {
+    "ko": "테카포 호수",
+    "ja": "テカポ湖",
+    "es": "Lago Tekapo",
+    "zh": "蒂卡波湖"
+  },
   "Langkawi": {
     "ko": "랑카위",
     "ja": "ランカウイ",
@@ -1762,6 +1792,12 @@
     "ja": "マルセイユ",
     "es": "Marsella",
     "zh": "马赛"
+  },
+  "Matamata": {
+    "ko": "마타마타",
+    "ja": "マタマタ",
+    "es": "Matamata",
+    "zh": "马塔马塔"
   },
   "Matsuyama": {
     "ko": "마쓰야마",
@@ -2021,6 +2057,12 @@
     "es": "Nueva York",
     "zh": "纽约"
   },
+  "New Zealand": {
+    "ko": "뉴질랜드",
+    "ja": "ニュージーランド",
+    "es": "Nueva Zelanda",
+    "zh": "新西兰"
+  },
   "Nha Trang": {
     "ko": "나트랑",
     "ja": "ニャチャン",
@@ -2122,6 +2164,12 @@
     "ja": "パーイ",
     "es": "Pai",
     "zh": "拜县"
+  },
+  "Paihia": {
+    "ko": "파이히아",
+    "ja": "パイヒア",
+    "es": "Paihia",
+    "zh": "派希亚"
   },
   "Paju": {
     "ko": "파주",
@@ -2327,6 +2375,12 @@
     "es": "Qingdao",
     "zh": "青岛"
   },
+  "Queenstown": {
+    "ko": "퀸스타운",
+    "ja": "クイーンズタウン",
+    "es": "Queenstown",
+    "zh": "皇后镇"
+  },
   "Quezon City": {
     "ko": "케손시티",
     "ja": "ケソンシティ",
@@ -2362,6 +2416,12 @@
     "ja": "ローテンブルク・オプ・デア・タウバー",
     "es": "Rothenburg ob der Tauber",
     "zh": "罗滕堡"
+  },
+  "Rotorua": {
+    "ko": "로토루아",
+    "ja": "ロトルア",
+    "es": "Rotorua",
+    "zh": "罗托鲁瓦"
   },
   "Saadiyat Island": {
     "ko": "사디야트 섬",
@@ -2801,11 +2861,23 @@
     "es": "Taskent",
     "zh": "塔什干"
   },
+  "Taupo": {
+    "ko": "타우포",
+    "ja": "タウポ",
+    "es": "Taupo",
+    "zh": "陶波"
+  },
   "Tbilisi": {
     "ko": "트빌리시",
     "ja": "トビリシ",
     "es": "Tbilisi",
     "zh": "第比利斯"
+  },
+  "Te Anau": {
+    "ko": "테아나우",
+    "ja": "テアナウ",
+    "es": "Te Anau",
+    "zh": "蒂阿瑙"
   },
   "Telavi": {
     "ko": "텔라비",
@@ -3041,11 +3113,23 @@
     "es": "Vigan",
     "zh": "维甘"
   },
+  "Waitomo": {
+    "ko": "와이토모",
+    "ja": "ワイトモ",
+    "es": "Waitomo",
+    "zh": "怀托摩"
+  },
   "Wan Chai": {
     "ko": "완차이",
     "ja": "ワンチャイ",
     "es": "Wan Chai",
     "zh": "湾仔"
+  },
+  "Wanaka": {
+    "ko": "와나카",
+    "ja": "ワナカ",
+    "es": "Wanaka",
+    "zh": "瓦纳卡"
   },
   "Washington": {
     "ko": "워싱턴",
@@ -3058,6 +3142,12 @@
     "ja": "ワシントンD.C.",
     "es": "Washington D.C.",
     "zh": "华盛顿特区"
+  },
+  "Wellington": {
+    "ko": "웰링턴",
+    "ja": "ウェリントン",
+    "es": "Wellington",
+    "zh": "惠灵顿"
   },
   "Wuhan": {
     "ko": "우한",
