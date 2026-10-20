@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: mtskheta-shiomgvime-monastery
-srcHash: '2135bf4555e3'
+srcHash: '7dd14844e145'
 title: 'Monasterio de Shiomgvime: guía de viaje desde Mtsjeta (4.9★)'
-description: 'En un desfiladero de piedra caliza sobre el río Kurá (Mtkvari), cerca de Dzegvi y a una media hora en coche de Mtsjeta, se alza el monasterio de Shiomgvime. 4.9★ (1,536 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En un desfiladero de piedra caliza sobre el río Kurá (Mtkvari), cerca de Dzegvi y a una media hora en coche de Mtsjeta, se alza el monasterio de Shiomgvime. 4.9★ (1,537 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: A una media hora en coche de Mtsjeta, cerca de Dzegvi, el monasterio de Shiomgvime ocupa un desfiladero de piedra caliza sobre el río Kurá (Mtkvari). Fundado en el siglo VI y todavía habitado por monjes, conserva dos iglesias y la cueva de su fundador, san Shio. Calcule entre 1 y 2 horas de visita, llegue en taxi o en coche y vístase como corresponde a un lugar de culto en activo. Actualmente abre de 10:00 a 19:00 entre semana y de 11:00 a 19:00 los fines de semana.
 faq:
   - q: ¿Cómo se llega al monasterio de Shiomgvime desde Mtsjeta?

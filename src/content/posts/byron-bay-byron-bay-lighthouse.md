@@ -1,51 +1,79 @@
 ---
-title: "Byron Bay Lighthouse: Travel Guide (4.8★)"
-description: "Byron Bay Lighthouse stands on Cape Byron at 59 Brownell Dr, about 3 km from the Byron Bay town centre. 4.8★ (484 reviews) — what visitors say, hours, and tips."
-country: "Australia"
-region: "Byron Bay"
-category: "attraction"
-pubDate: "2026-10-20T07:59:26.718Z"
+title: 'Byron Bay Lighthouse: Travel Guide (4.8★)'
+description: >-
+  Byron Bay Lighthouse stands on Cape Byron at 59 Brownell Dr, about 3 km from
+  the Byron Bay town centre. 4.8★ (485 reviews) — what visitors say, hours, and
+  tips.
+country: Australia
+region: Byron Bay
+category: attraction
+pubDate: '2026-10-20T07:59:26.718Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Wategos_Bay_and_the_Byron_Bay_Lighthouse.jpg/3840px-Wategos_Bay_and_the_Byron_Bay_Lighthouse.jpg"
-  credit: "Photo: BobTanGo / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Wategos_Bay_and_the_Byron_Bay_Lighthouse.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Wategos_Bay_and_the_Byron_Bay_Lighthouse.jpg/3840px-Wategos_Bay_and_the_Byron_Bay_Lighthouse.jpg
+  credit: 'Photo: BobTanGo / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Wategos_Bay_and_the_Byron_Bay_Lighthouse.jpg
+  via: act
   focus:
     x: 52
-    y: 48
+    'y': 48
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/8/8e/Sunrise_at_Byron_Bay_lighthouse_NSW_-_panoramio.jpg"
-    credit: "Photo: wanderingchina / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Sunrise_at_Byron_Bay_lighthouse_NSW_-_panoramio.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/8/8e/Sunrise_at_Byron_Bay_lighthouse_NSW_-_panoramio.jpg
+    credit: 'Photo: wanderingchina / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Sunrise_at_Byron_Bay_lighthouse_NSW_-_panoramio.jpg
 place:
-  id: "ChIJKZfLCQBjkGsRZwz1S0nyP-0"
-  name: "Byron Bay Lighthouse"
-  address: "59 Brownell Dr, Byron Bay NSW 2481, Australia"
+  id: ChIJKZfLCQBjkGsRZwz1S0nyP-0
+  name: Byron Bay Lighthouse
+  address: '59 Brownell Dr, Byron Bay NSW 2481, Australia'
   rating: 4.8
-  userRatingsTotal: 484
-  googleMapsUrl: "https://maps.google.com/?cid=17095649107142577255&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 485
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=17095649107142577255&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -28.6385386
   lng: 153.6362357
 tags:
-  - "byron bay"
-  - "historic site"
-quickAnswer: "Byron Bay Lighthouse stands on Cape Byron at 59 Brownell Dr, about 3 km from the Byron Bay town centre. Parking at the top is paid and fills fast, so most people walk up on the Cape Byron Walking Track or park lower down. The best time to go is sunrise, or June to November when humpback whales pass close to the headland."
+  - byron bay
+  - historic site
+quickAnswer: >-
+  Byron Bay Lighthouse stands on Cape Byron at 59 Brownell Dr, about 3 km from
+  the Byron Bay town centre. Parking at the top is paid and fills fast, so most
+  people walk up on the Cape Byron Walking Track or park lower down. The best
+  time to go is sunrise, or June to November when humpback whales pass close to
+  the headland.
 faq:
-  - q: "How do I get to Byron Bay Lighthouse without driving?"
-    a: "Walk from town along Lighthouse Road to The Pass, then follow the Cape Byron Walking Track uphill. The full loop is about 3.7 km and takes 1.5–2 hours."
-  - q: "Is there parking at Byron Bay Lighthouse?"
-    a: "Yes, a small paid car park sits next to the lighthouse, but it fills quickly at busy times. You can also park lower down at Captain Cook Lookout or Palm Valley and walk up. Current charges are shown on the machines and the NSW National Parks website."
-  - q: "When can I see whales from the lighthouse?"
-    a: "Humpback whales migrate past Cape Byron roughly June to November. You can often spot them from the lawn around the lighthouse without a boat."
-  - q: "Can I go inside the lighthouse tower?"
-    a: "Guided tower tours run on some days. Check the NSW National Parks and Wildlife Service website for current tour times and bookings."
-  - q: "What else is nearby?"
-    a: "Wategos Beach, The Pass, the Most Easterly Point marker below the lighthouse, Tallow Beach and Byron Bay town centre are all within walking distance on the cape loop."
+  - q: How do I get to Byron Bay Lighthouse without driving?
+    a: >-
+      Walk from town along Lighthouse Road to The Pass, then follow the Cape
+      Byron Walking Track uphill. The full loop is about 3.7 km and takes 1.5–2
+      hours.
+  - q: Is there parking at Byron Bay Lighthouse?
+    a: >-
+      Yes, a small paid car park sits next to the lighthouse, but it fills
+      quickly at busy times. You can also park lower down at Captain Cook
+      Lookout or Palm Valley and walk up. Current charges are shown on the
+      machines and the NSW National Parks website.
+  - q: When can I see whales from the lighthouse?
+    a: >-
+      Humpback whales migrate past Cape Byron roughly June to November. You can
+      often spot them from the lawn around the lighthouse without a boat.
+  - q: Can I go inside the lighthouse tower?
+    a: >-
+      Guided tower tours run on some days. Check the NSW National Parks and
+      Wildlife Service website for current tour times and bookings.
+  - q: What else is nearby?
+    a: >-
+      Wategos Beach, The Pass, the Most Easterly Point marker below the
+      lighthouse, Tallow Beach and Byron Bay town centre are all within walking
+      distance on the cape loop.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-20'
 ---
 
 The headland narrows to a grassy spine, and at the end a white tower rises out of the scrub. Below it the Pacific breaks against black rock on three sides. This is Cape Byron, the most easterly point of mainland Australia, and the lighthouse has marked it since 1901.

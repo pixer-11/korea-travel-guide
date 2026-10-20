@@ -1,55 +1,85 @@
 ---
-title: "Samtavro's Convent: Mtskheta Travel Guide (4.9★)"
-description: "Samtavro's Convent sits in the northern part of Mtskheta, a short walk up from Svetitskhoveli Cathedral. 4.9★ (3,232 reviews) — what visitors say, hours, and tips."
-country: "Georgia"
-region: "Mtskheta"
-category: "hidden-gem"
-pubDate: "2026-10-19T15:42:14.199Z"
+title: 'Samtavro''s Convent: Mtskheta Travel Guide (4.9★)'
+description: >-
+  Samtavro's Convent sits in the northern part of Mtskheta, a short walk up from
+  Svetitskhoveli Cathedral. 4.9★ (3,234 reviews) — what visitors say, hours, and
+  tips.
+country: Georgia
+region: Mtskheta
+category: hidden-gem
+pubDate: '2026-10-19T15:42:14.199Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/1/14/Samtavro%27s_Convent_-_55359276207.jpg"
-  credit: "Photo: xiquinhosilva / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Samtavro%27s_Convent_-_55359276207.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/1/14/Samtavro%27s_Convent_-_55359276207.jpg
+  credit: 'Photo: xiquinhosilva / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Samtavro%27s_Convent_-_55359276207.jpg
+  via: act
   focus:
     x: 55
-    y: 40
+    'y': 40
 gallery: []
 place:
-  id: "ChIJff-EAGVvREARXaNB31g3sus"
-  name: "Samtavro's Convent"
-  address: "RPW9+H84, Mtskheta, Georgia"
+  id: ChIJff-EAGVvREARXaNB31g3sus
+  name: Samtavro's Convent
+  address: 'RPW9+H84, Mtskheta, Georgia'
   rating: 4.9
-  userRatingsTotal: 3232
-  googleMapsUrl: "https://maps.google.com/?cid=16983697999609832285&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 3234
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16983697999609832285&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 41.8463889
   lng: 44.7183333
   openingHours:
-    - "Monday: 9:00 AM – 7:00 PM"
-    - "Tuesday: 9:00 AM – 7:00 PM"
-    - "Wednesday: 9:00 AM – 7:00 PM"
-    - "Thursday: 9:00 AM – 7:00 PM"
-    - "Friday: 9:00 AM – 7:00 PM"
-    - "Saturday: 9:00 AM – 7:00 PM"
-    - "Sunday: 9:00 AM – 7:00 PM"
+    - 'Monday: 9:00 AM – 7:00 PM'
+    - 'Tuesday: 9:00 AM – 7:00 PM'
+    - 'Wednesday: 9:00 AM – 7:00 PM'
+    - 'Thursday: 9:00 AM – 7:00 PM'
+    - 'Friday: 9:00 AM – 7:00 PM'
+    - 'Saturday: 9:00 AM – 7:00 PM'
+    - 'Sunday: 9:00 AM – 7:00 PM'
 tags:
-  - "mtskheta"
-  - "Samtavro Monastery"
-quickAnswer: "Samtavro's Convent sits in the northern part of Mtskheta, a short walk up from Svetitskhoveli Cathedral. It's an active nunnery where you'll find the tombs of King Mirian III and Queen Nana, the small church linked to Saint Nino, and the grave of the revered monk Saint Gabriel. Plan on 45–90 minutes. Google currently lists it open 9am–7pm, and you need to dress modestly to go in."
+  - mtskheta
+  - Samtavro Monastery
+quickAnswer: >-
+  Samtavro's Convent sits in the northern part of Mtskheta, a short walk up from
+  Svetitskhoveli Cathedral. It's an active nunnery where you'll find the tombs
+  of King Mirian III and Queen Nana, the small church linked to Saint Nino, and
+  the grave of the revered monk Saint Gabriel. Plan on 45–90 minutes. Google
+  currently lists it open 9am–7pm, and you need to dress modestly to go in.
 faq:
-  - q: "How do I get to Samtavro's Convent from Tbilisi?"
-    a: "Take a marshrutka (minibus) from Didube bus station, next to Didube metro on Line 1, to Mtskheta. Mtskheta is about 20 km north of Tbilisi. From the town centre near Svetitskhoveli Cathedral, it's a 10–15 minute walk north to the convent. A taxi or a day tour also works if you want to add Jvari Monastery."
-  - q: "What are the opening hours?"
-    a: "Google currently lists 9am–7pm every day. Hours at religious sites can change for feasts and services, so check before you go if you're on a tight schedule."
-  - q: "What should I wear to Samtavro?"
-    a: "Women should cover their hair, shoulders and knees, and a skirt is preferred. Men need long trousers and should take off their hats inside. Wraps are often provided at Georgian church entrances, but bring a scarf in case they've run out."
-  - q: "How long should I spend there?"
-    a: "About 45 minutes covers the Church of the Transfiguration, the small Church of Saint Nino and Saint Gabriel's grave. Allow up to 90 minutes if you want to stay for part of a service or sit in the grounds."
-  - q: "What is there to see nearby?"
-    a: "Svetitskhoveli Cathedral is a short walk away in the town centre. Jvari Monastery stands on the hill across the Aragvi river. Both are part of the same UNESCO World Heritage listing as Samtavro."
+  - q: How do I get to Samtavro's Convent from Tbilisi?
+    a: >-
+      Take a marshrutka (minibus) from Didube bus station, next to Didube metro
+      on Line 1, to Mtskheta. Mtskheta is about 20 km north of Tbilisi. From the
+      town centre near Svetitskhoveli Cathedral, it's a 10–15 minute walk north
+      to the convent. A taxi or a day tour also works if you want to add Jvari
+      Monastery.
+  - q: What are the opening hours?
+    a: >-
+      Google currently lists 9am–7pm every day. Hours at religious sites can
+      change for feasts and services, so check before you go if you're on a
+      tight schedule.
+  - q: What should I wear to Samtavro?
+    a: >-
+      Women should cover their hair, shoulders and knees, and a skirt is
+      preferred. Men need long trousers and should take off their hats inside.
+      Wraps are often provided at Georgian church entrances, but bring a scarf
+      in case they've run out.
+  - q: How long should I spend there?
+    a: >-
+      About 45 minutes covers the Church of the Transfiguration, the small
+      Church of Saint Nino and Saint Gabriel's grave. Allow up to 90 minutes if
+      you want to stay for part of a service or sit in the grounds.
+  - q: What is there to see nearby?
+    a: >-
+      Svetitskhoveli Cathedral is a short walk away in the town centre. Jvari
+      Monastery stands on the hill across the Aragvi river. Both are part of the
+      same UNESCO World Heritage listing as Samtavro.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-20'
 ---
 
 ## Stone walls, a working convent

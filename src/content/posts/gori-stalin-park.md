@@ -1,55 +1,82 @@
 ---
-title: "Stalin Park: Gori Travel Guide (4.3★)"
-description: "Stalin Park in Gori, Georgia, is the landscaped ground on Stalin Avenue that surrounds the Joseph Stalin Museum, his birth house under a columned pavilion and his green railway carriage. 4.3★ (3,180 reviews) — what visitors say, hours, and tips."
-country: "Georgia"
-region: "Gori"
-category: "attraction"
-pubDate: "2026-10-20T07:59:31.894Z"
+title: 'Stalin Park: Gori Travel Guide (4.3★)'
+description: >-
+  Stalin Park in Gori, Georgia, is the landscaped ground on Stalin Avenue that
+  surrounds the Joseph Stalin Museum, his birth house under a columned pavilion
+  and his green railway carriage. 4.3★ (3,181 reviews) — what visitors say,
+  hours, and tips.
+country: Georgia
+region: Gori
+category: attraction
+pubDate: '2026-10-20T07:59:31.894Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/6/69/Stalin_Park.jpg"
-  credit: "Photo: Tiia Monto / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Stalin_Park.jpg"
-  via: "act"
+  url: 'https://upload.wikimedia.org/wikipedia/commons/6/69/Stalin_Park.jpg'
+  credit: 'Photo: Tiia Monto / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Stalin_Park.jpg'
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery: []
 place:
-  id: "ChIJY7EyWqaeREARqyQ4lwg9S5k"
-  name: "Stalin Park"
-  address: "X4P7+G8C, სტალინის გამზირი, Gori, Georgia"
+  id: ChIJY7EyWqaeREARqyQ4lwg9S5k
+  name: Stalin Park
+  address: 'X4P7+G8C, სტალინის გამზირი, Gori, Georgia'
   rating: 4.3
-  userRatingsTotal: 3180
-  googleMapsUrl: "https://maps.google.com/?cid=11045989618162345131&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 3181
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=11045989618162345131&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 41.9863007
   lng: 44.113257000000004
   openingHours:
-    - "Monday: 10:00 AM – 6:00 PM"
-    - "Tuesday: 10:00 AM – 6:00 PM"
-    - "Wednesday: 10:00 AM – 6:00 PM"
-    - "Thursday: 10:00 AM – 6:00 PM"
-    - "Friday: 10:00 AM – 6:00 PM"
-    - "Saturday: 10:00 AM – 6:00 PM"
-    - "Sunday: 10:00 AM – 6:00 PM"
+    - 'Monday: 10:00 AM – 6:00 PM'
+    - 'Tuesday: 10:00 AM – 6:00 PM'
+    - 'Wednesday: 10:00 AM – 6:00 PM'
+    - 'Thursday: 10:00 AM – 6:00 PM'
+    - 'Friday: 10:00 AM – 6:00 PM'
+    - 'Saturday: 10:00 AM – 6:00 PM'
+    - 'Sunday: 10:00 AM – 6:00 PM'
 tags:
-  - "gori"
-  - "historic site"
-quickAnswer: "Stalin Park in Gori, Georgia, is the landscaped ground on Stalin Avenue that surrounds the Joseph Stalin Museum, his birth house under a columned pavilion and his green railway carriage. It currently opens 10am–6pm every day of this week, but hours can shift through the year, so check before you travel. Give it 1.5–2 hours with the museum, and pair it with Gori Fortress or Uplistsikhe for a full day trip from Tbilisi."
+  - gori
+  - historic site
+quickAnswer: >-
+  Stalin Park in Gori, Georgia, is the landscaped ground on Stalin Avenue that
+  surrounds the Joseph Stalin Museum, his birth house under a columned pavilion
+  and his green railway carriage. It currently opens 10am–6pm every day of this
+  week, but hours can shift through the year, so check before you travel. Give
+  it 1.5–2 hours with the museum, and pair it with Gori Fortress or Uplistsikhe
+  for a full day trip from Tbilisi.
 faq:
-  - q: "What is there to see at Stalin Park in Gori?"
-    a: "The park holds three things: the small house where Stalin was born in 1878, now under a columned pavilion; his green personal railway carriage; and the Joseph Stalin Museum, the large building the grounds lead up to."
-  - q: "What are Stalin Park's opening hours?"
-    a: "At the moment it opens 10am–6pm every day of the week. Hours can change through the year and on holidays, so check the current schedule before you travel from Tbilisi."
-  - q: "How long should I spend there?"
-    a: "Plan on 1.5–2 hours. That's about an hour for the guided museum tour and 30–45 minutes for the birth house, the carriage and the grounds."
-  - q: "How do I get to Gori from Tbilisi?"
-    a: "Marshrutkas leave frequently from Didube bus station (Didube metro, Line 1) and take around an hour. Regional trains also run from Tbilisi Central Station. The museum is on Stalin Avenue, a walk or a short taxi ride from either station."
-  - q: "What else is near Stalin Park?"
-    a: "Gori Fortress and the 2008 war memorial are in the town centre. The cave town of Uplistsikhe is about 10 km east, a short taxi ride, and works well as an afternoon add-on."
+  - q: What is there to see at Stalin Park in Gori?
+    a: >-
+      The park holds three things: the small house where Stalin was born in
+      1878, now under a columned pavilion; his green personal railway carriage;
+      and the Joseph Stalin Museum, the large building the grounds lead up to.
+  - q: What are Stalin Park's opening hours?
+    a: >-
+      At the moment it opens 10am–6pm every day of the week. Hours can change
+      through the year and on holidays, so check the current schedule before you
+      travel from Tbilisi.
+  - q: How long should I spend there?
+    a: >-
+      Plan on 1.5–2 hours. That's about an hour for the guided museum tour and
+      30–45 minutes for the birth house, the carriage and the grounds.
+  - q: How do I get to Gori from Tbilisi?
+    a: >-
+      Marshrutkas leave frequently from Didube bus station (Didube metro, Line
+      1) and take around an hour. Regional trains also run from Tbilisi Central
+      Station. The museum is on Stalin Avenue, a walk or a short taxi ride from
+      either station.
+  - q: What else is near Stalin Park?
+    a: >-
+      Gori Fortress and the 2008 war memorial are in the town centre. The cave
+      town of Uplistsikhe is about 10 km east, a short taxi ride, and works well
+      as an afternoon add-on.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-20'
 ---
 
 ## An Avenue That Still Carries His Name

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: gori-stalin-park
-srcHash: 'fdccafbffb04'
+srcHash: '76d0f0134d3b'
 title: 'Parque Stalin: guía de viaje de Gori (4.3★)'
-description: En Gori (Georgia), sobre la avenida Stalin, el Parque Stalin es el recinto ajardinado que rodea el Museo de Iósif Stalin, la casa natal del dirigente, protegida por un pabellón de columnas, y su vagón de tren verde. Con una valoración de 4.3★ (3,180 reseñas), aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
+description: En Gori (Georgia), sobre la avenida Stalin, el Parque Stalin es el recinto ajardinado que rodea el Museo de Iósif Stalin, la casa natal del dirigente, protegida por un pabellón de columnas, y su vagón de tren verde. Con una valoración de 4.3★ (3,181 reseñas), aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
 quickAnswer: En la avenida Stalin de Gori (Georgia) se extiende el Parque Stalin, un recinto ajardinado que rodea el Museo de Iósif Stalin, la casa natal del dirigente, cubierta por un pabellón de columnas, y su vagón de tren verde. Esta semana abre todos los días de 10am–6pm, aunque el horario puede variar a lo largo del año, por lo que conviene consultarlo antes de viajar. Calcule entre 1.5–2 horas para el parque y el museo; si los combina con la fortaleza de Gori o con Uplistsije, tendrá una excursión de un día completo desde Tiflis.
 faq:
   - q: ¿Qué se puede ver en el Parque Stalin de Gori?

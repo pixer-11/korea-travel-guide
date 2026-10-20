@@ -1,58 +1,91 @@
 ---
-title: "Svetitskhoveli Cathedral: Mtskheta Travel Guide (4.8★)"
-description: "Svetitskhoveli Cathedral stands in the old centre of Mtskheta, Georgia's ancient capital, about 20 km north of Tbilisi. 4.8★ (15,702 reviews) — what visitors say, hours, and tips."
-country: "Georgia"
-region: "Mtskheta"
-category: "attraction"
-pubDate: "2026-10-19T15:42:05.987Z"
+title: 'Svetitskhoveli Cathedral: Mtskheta Travel Guide (4.8★)'
+description: >-
+  Svetitskhoveli Cathedral stands in the old centre of Mtskheta, Georgia's
+  ancient capital, about 20 km north of Tbilisi. 4.8★ (15,704 reviews) — what
+  visitors say, hours, and tips.
+country: Georgia
+region: Mtskheta
+category: attraction
+pubDate: '2026-10-19T15:42:05.987Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Svetitskhoveli_Cathedral_09.23_%283%29.jpg/1920px-Svetitskhoveli_Cathedral_09.23_%283%29.jpg"
-  credit: "Photo: Supanut Arunoprayote / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Svetitskhoveli_Cathedral_09.23_(3).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Svetitskhoveli_Cathedral_09.23_%283%29.jpg/1920px-Svetitskhoveli_Cathedral_09.23_%283%29.jpg
+  credit: 'Photo: Supanut Arunoprayote / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Svetitskhoveli_Cathedral_09.23_(3).jpg
   focus:
     x: 55
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Mtskheta_and_Svetitskhoveli_Cathedral_3x2.jpg/3840px-Mtskheta_and_Svetitskhoveli_Cathedral_3x2.jpg"
-    credit: "Photo: Dmitry A. Mottl / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Mtskheta_and_Svetitskhoveli_Cathedral_3x2.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Mtskheta_and_Svetitskhoveli_Cathedral_3x2.jpg/3840px-Mtskheta_and_Svetitskhoveli_Cathedral_3x2.jpg
+    credit: 'Photo: Dmitry A. Mottl / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Mtskheta_and_Svetitskhoveli_Cathedral_3x2.jpg
 place:
-  id: "ChIJb0_TLHBvREAR2ih93wnWTOw"
-  name: "Svetitskhoveli Cathedral"
-  address: "RPRC+V9C, Narekvavi-Mtskheta-Railway Station, Mtskheta, Georgia"
+  id: ChIJb0_TLHBvREAR2ih93wnWTOw
+  name: Svetitskhoveli Cathedral
+  address: 'RPRC+V9C, Narekvavi-Mtskheta-Railway Station, Mtskheta, Georgia'
   rating: 4.8
-  userRatingsTotal: 15702
-  googleMapsUrl: "https://maps.google.com/?cid=17027219629073574106&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 15704
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=17027219629073574106&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 41.842192
   lng: 44.720878899999995
   openingHours:
-    - "Monday: 9:00 AM – 7:00 PM"
-    - "Tuesday: 8:00 AM – 7:00 PM"
-    - "Wednesday: 8:00 AM – 7:00 PM"
-    - "Thursday: 8:00 AM – 7:00 PM"
-    - "Friday: 8:00 AM – 7:00 PM"
-    - "Saturday: 8:00 AM – 4:45 PM"
-    - "Sunday: 8:00 AM – 7:00 PM"
+    - 'Monday: 9:00 AM – 7:00 PM'
+    - 'Tuesday: 8:00 AM – 7:00 PM'
+    - 'Wednesday: 8:00 AM – 7:00 PM'
+    - 'Thursday: 8:00 AM – 7:00 PM'
+    - 'Friday: 8:00 AM – 7:00 PM'
+    - 'Saturday: 8:00 AM – 4:45 PM'
+    - 'Sunday: 8:00 AM – 7:00 PM'
 tags:
-  - "mtskheta"
-  - "top attraction"
-quickAnswer: "Svetitskhoveli Cathedral stands in the old centre of Mtskheta, Georgia's ancient capital, about 20 km north of Tbilisi. It is an 11th-century Orthodox cathedral that still holds services, and it is currently open from 8am to 7pm most days, with Monday opening at 9am and Saturday closing early at 4:45pm. Bring shoulder and knee cover (women also need a headscarf) and allow about an hour inside, or half a day if you add Jvari Monastery."
+  - mtskheta
+  - top attraction
+quickAnswer: >-
+  Svetitskhoveli Cathedral stands in the old centre of Mtskheta, Georgia's
+  ancient capital, about 20 km north of Tbilisi. It is an 11th-century Orthodox
+  cathedral that still holds services, and it is currently open from 8am to 7pm
+  most days, with Monday opening at 9am and Saturday closing early at 4:45pm.
+  Bring shoulder and knee cover (women also need a headscarf) and allow about an
+  hour inside, or half a day if you add Jvari Monastery.
 faq:
-  - q: "How do I get to Svetitskhoveli Cathedral from Tbilisi?"
-    a: "Take a marshrutka (minibus) from Didube bus station, next to Didube metro on Line 1. They run frequently and take about half an hour to reach Mtskheta, and the cathedral is a short walk from the drop-off. A taxi or a Bolt ride is quicker door to door."
-  - q: "What are the opening hours, and is any day different?"
-    a: "At the moment it opens at 8am Tuesday to Sunday and at 9am on Monday. It closes at 7pm every day except Saturday, when it shuts at 4:45pm. Hours can change around services and feast days, so check on the day if you plan to arrive late."
-  - q: "What should I wear?"
-    a: "Cover your shoulders and knees. Women should wear a skirt and cover their hair, and men should wear long trousers. Wraps are often available at the entrance, but bringing your own scarf avoids the wait."
-  - q: "How long should I spend there?"
-    a: "Allow 45 minutes to an hour for the cathedral and its walled courtyard. Make it half a day if you add Jvari Monastery on the hill and Samtavro Monastery in town."
-  - q: "What else is near Svetitskhoveli?"
-    a: "Samtavro Monastery is a short walk away, and Jvari Monastery is a quick taxi ride up the hill across the river. Jvari has views over the meeting of the Aragvi and Mtkvari rivers. The old-town streets around the cathedral have places to eat Georgian food."
+  - q: How do I get to Svetitskhoveli Cathedral from Tbilisi?
+    a: >-
+      Take a marshrutka (minibus) from Didube bus station, next to Didube metro
+      on Line 1. They run frequently and take about half an hour to reach
+      Mtskheta, and the cathedral is a short walk from the drop-off. A taxi or a
+      Bolt ride is quicker door to door.
+  - q: 'What are the opening hours, and is any day different?'
+    a: >-
+      At the moment it opens at 8am Tuesday to Sunday and at 9am on Monday. It
+      closes at 7pm every day except Saturday, when it shuts at 4:45pm. Hours
+      can change around services and feast days, so check on the day if you plan
+      to arrive late.
+  - q: What should I wear?
+    a: >-
+      Cover your shoulders and knees. Women should wear a skirt and cover their
+      hair, and men should wear long trousers. Wraps are often available at the
+      entrance, but bringing your own scarf avoids the wait.
+  - q: How long should I spend there?
+    a: >-
+      Allow 45 minutes to an hour for the cathedral and its walled courtyard.
+      Make it half a day if you add Jvari Monastery on the hill and Samtavro
+      Monastery in town.
+  - q: What else is near Svetitskhoveli?
+    a: >-
+      Samtavro Monastery is a short walk away, and Jvari Monastery is a quick
+      taxi ride up the hill across the river. Jvari has views over the meeting
+      of the Aragvi and Mtkvari rivers. The old-town streets around the
+      cathedral have places to eat Georgian food.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-20'
 ---
 
 Stone ramparts with round corner towers enclose the cathedral, so the first thing you walk through is a gate in a fortress wall. Inside, a wide paved courtyard opens out, and the cathedral sits at its centre: a tall cross-shaped church of dressed stone under a single conical dome. Mtskheta's small old town spreads around it in low streets of souvenir stalls and guesthouses.

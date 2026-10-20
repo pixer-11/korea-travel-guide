@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: mtskheta-svetitskhoveli-cathedral
-srcHash: '645952460bf5'
+srcHash: 'b3134748f7c9'
 title: 'Catedral de Svetitskhoveli: guía de viaje de Mtsjeta (4.8★)'
-description: 'En el casco antiguo de Mtsjeta, la antigua capital de Georgia, a unos 20 km al norte de Tiflis, se alza la catedral de Svetitskhoveli. Valoración de 4.8★ (15,702 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En el casco antiguo de Mtsjeta, la antigua capital de Georgia, a unos 20 km al norte de Tiflis, se alza la catedral de Svetitskhoveli. Valoración de 4.8★ (15,704 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En el casco antiguo de Mtsjeta, la antigua capital de Georgia, a unos 20 km al norte de Tiflis, se alza la catedral de Svetitskhoveli. Este templo ortodoxo del siglo XI sigue celebrando oficios. Actualmente abre casi todos los días de 8am a 7pm, aunque los lunes abre a las 9am y los sábados cierra antes, a las 4:45pm. Conviene llevar hombros y rodillas cubiertos (las mujeres, además, un pañuelo para la cabeza). Calcule aproximadamente una hora para la visita, o media jornada si incluye también el monasterio de Jvari.
 faq:
   - q: ¿Cómo se llega a la catedral de Svetitskhoveli desde Tiflis?

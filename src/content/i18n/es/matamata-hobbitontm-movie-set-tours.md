@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: matamata-hobbitontm-movie-set-tours
-srcHash: '47b92e4a2a37'
+srcHash: '50b200c53060'
 title: 'Hobbiton Movie Set Tours: guía para visitar Matamata (4.8★)'
-description: En una granja ovina en activo de 501 Buckland Road, a las afueras de Matamata, en la región neozelandesa de Waikato, se encuentra Hobbiton Movie Set Tours. Con 4.8★ (27,630 reseñas), le contamos qué opinan los visitantes, los horarios y algunos consejos.
+description: En una granja ovina en activo de 501 Buckland Road, a las afueras de Matamata, en la región neozelandesa de Waikato, se encuentra Hobbiton Movie Set Tours. Con 4.8★ (27,632 reseñas), le contamos qué opinan los visitantes, los horarios y algunos consejos.
 quickAnswer: Hobbiton Movie Set Tours ocupa una granja ovina todavía en activo, situada en 501 Buckland Road, a las afueras de Matamata, en la región de Waikato (Nueva Zelanda). Solo puede visitarse con un recorrido guiado, que suele durar unas dos horas si se cuenta el traslado en autobús. Conviene reservar con antelación y consultar en la web oficial los horarios de salida vigentes.
 faq:
   - q: ¿Se puede visitar Hobbiton sin hacer un tour?

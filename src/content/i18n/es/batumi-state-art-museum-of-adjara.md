@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: batumi-state-art-museum-of-adjara
-srcHash: '628b0d3df7af'
+srcHash: '77c3dfde8f0c'
 title: 'Museo Estatal de Arte de Ayaria: guía de viaje de Batumi (4.4★)'
-description: En el número 8 de la calle Zurab Gorgiladze, en pleno centro de Batumi, el Museo Estatal de Arte de Ayaria reúne en un espacio reducido colecciones permanentes y temporales de pintura y escultura de distintas épocas. Con una valoración de 4.4★ (961 reseñas), le contamos qué opinan los visitantes, cuál es el horario y algunos consejos útiles.
+description: En el número 8 de la calle Zurab Gorgiladze, en pleno centro de Batumi, el Museo Estatal de Arte de Ayaria reúne en un espacio reducido colecciones permanentes y temporales de pintura y escultura de distintas épocas. Con una valoración de 4.4★ (963 reseñas), le contamos qué opinan los visitantes, cuál es el horario y algunos consejos útiles.
 quickAnswer: En el número 8 de la calle Zurab Gorgiladze, en pleno centro de Batumi, se encuentra el Museo Estatal de Arte de Ayaria, un museo de dimensiones reducidas con colecciones permanentes y temporales de pintura y escultura de varias épocas. Calcule alrededor de una hora de visita y consulte el horario vigente en la web oficial o en la propia entrada (según Google, abre todos los días de 10am–6pm). Es una pausa tranquila y bajo techo, lejos del bullicio del paseo marítimo.
 faq:
   - q: ¿Dónde se encuentra el Museo Estatal de Arte de Ayaria?

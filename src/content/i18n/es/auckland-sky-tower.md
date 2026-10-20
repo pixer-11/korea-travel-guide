@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: auckland-sky-tower
-srcHash: 'd1a79c77ee34'
+srcHash: 'bb759fc37d50'
 title: 'Sky Tower: guía de viaje de Auckland (4.6★)'
-description: 'En Victoria Street West, en pleno centro de Auckland, se alza la Sky Tower: una aguja de 328 metros con miradores de suelo acristalado, un restaurante giratorio y, a 192 metros, el SkyWalk y el SkyJump. Con 4.6★ (22,200 reseñas), aquí encontrará qué dicen los visitantes, el horario y consejos prácticos.'
+description: 'En Victoria Street West, en pleno centro de Auckland, se alza la Sky Tower: una aguja de 328 metros con miradores de suelo acristalado, un restaurante giratorio y, a 192 metros, el SkyWalk y el SkyJump. Con 4.6★ (22,203 reseñas), aquí encontrará qué dicen los visitantes, el horario y consejos prácticos.'
 quickAnswer: 'En Victoria Street West, en pleno centro de Auckland, se alza la Sky Tower: una aguja de 328 metros con miradores de suelo acristalado, un restaurante giratorio y, a 192 metros, el SkyWalk y el SkyJump. Actualmente abre a las 9:30am y cierra a las 8pm de lunes a jueves y a las 8:30pm de viernes a domingo. Conviene comprar las entradas por internet, elegir un día despejado y reservar entre 1–2 horas solo para los miradores.'
 faq:
   - q: ¿Cómo se llega a la Sky Tower desde el paseo marítimo o la estación de tren?

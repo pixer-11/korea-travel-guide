@@ -1,55 +1,80 @@
 ---
-title: "State Art Museum of Adjara: Batumi Travel Guide (4.4★)"
-description: "The State Art Museum of Adjara is a compact art museum at 8 Zurab Gorgiladze Street in central Batumi, showing permanent and rotating collections of painting and sculpture from several eras. 4.4★ (961 reviews) — what visitors say, hours, and tips."
-country: "Georgia"
-region: "Batumi"
-category: "attraction"
-pubDate: "2026-10-20T07:59:28.787Z"
+title: 'State Art Museum of Adjara: Batumi Travel Guide (4.4★)'
+description: >-
+  The State Art Museum of Adjara is a compact art museum at 8 Zurab Gorgiladze
+  Street in central Batumi, showing permanent and rotating collections of
+  painting and sculpture from several eras. 4.4★ (963 reviews) — what visitors
+  say, hours, and tips.
+country: Georgia
+region: Batumi
+category: attraction
+pubDate: '2026-10-20T07:59:28.787Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/State_Art_Museum_of_Adjara.jpg/1920px-State_Art_Museum_of_Adjara.jpg"
-  credit: "Photo: Yasuhiro Kojima / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:State_Art_Museum_of_Adjara.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/State_Art_Museum_of_Adjara.jpg/1920px-State_Art_Museum_of_Adjara.jpg
+  credit: 'Photo: Yasuhiro Kojima / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:State_Art_Museum_of_Adjara.jpg'
   focus:
     x: 45
-    y: 40
+    'y': 40
 gallery: []
 place:
-  id: "ChIJw2-1rGqGZ0AR_rlkMebm8e8"
-  name: "State Art Museum of Adjara"
-  address: "აჭარის ხელოვნების მუზეუმი, 8 Zurab Gorgiladze St, Batumi 6000, Georgia"
+  id: ChIJw2-1rGqGZ0AR_rlkMebm8e8
+  name: State Art Museum of Adjara
+  address: 'აჭარის ხელოვნების მუზეუმი, 8 Zurab Gorgiladze St, Batumi 6000, Georgia'
   rating: 4.4
-  userRatingsTotal: 961
-  googleMapsUrl: "https://maps.google.com/?cid=17289854320797596158&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 963
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=17289854320797596158&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 41.6486637
   lng: 41.6338805
-  phone: "+995 422 27 62 28"
+  phone: +995 422 27 62 28
   openingHours:
-    - "Monday: 10:00 AM – 6:00 PM"
-    - "Tuesday: 10:00 AM – 6:00 PM"
-    - "Wednesday: 10:00 AM – 6:00 PM"
-    - "Thursday: 10:00 AM – 6:00 PM"
-    - "Friday: 10:00 AM – 6:00 PM"
-    - "Saturday: 10:00 AM – 6:00 PM"
-    - "Sunday: 10:00 AM – 6:00 PM"
+    - 'Monday: 10:00 AM – 6:00 PM'
+    - 'Tuesday: 10:00 AM – 6:00 PM'
+    - 'Wednesday: 10:00 AM – 6:00 PM'
+    - 'Thursday: 10:00 AM – 6:00 PM'
+    - 'Friday: 10:00 AM – 6:00 PM'
+    - 'Saturday: 10:00 AM – 6:00 PM'
+    - 'Sunday: 10:00 AM – 6:00 PM'
 tags:
-  - "batumi"
-  - "museum"
-quickAnswer: "The State Art Museum of Adjara is a compact art museum at 8 Zurab Gorgiladze Street in central Batumi, showing permanent and rotating collections of painting and sculpture from several eras. Plan on about an hour, check the current hours on the official site or at the door (Google currently lists 10am–6pm every day), and treat it as a quiet indoor break from the seafront."
+  - batumi
+  - museum
+quickAnswer: >-
+  The State Art Museum of Adjara is a compact art museum at 8 Zurab Gorgiladze
+  Street in central Batumi, showing permanent and rotating collections of
+  painting and sculpture from several eras. Plan on about an hour, check the
+  current hours on the official site or at the door (Google currently lists
+  10am–6pm every day), and treat it as a quiet indoor break from the seafront.
 faq:
-  - q: "Where is the State Art Museum of Adjara?"
-    a: "At 8 Zurab Gorgiladze Street in central Batumi. It is walkable from the Old Town around Europe Square and the Piazza, or a short Bolt or taxi ride from elsewhere in the city."
-  - q: "What are the opening hours?"
-    a: "Google currently lists 10am–6pm every day, including Mondays. Museum hours can change with the season and on public holidays, so check the official site before visiting."
-  - q: "How long should I spend there?"
-    a: "About an hour for the permanent collection, up to 90 minutes if there is a temporary exhibition you want to see properly."
-  - q: "Is it a good rainy-day option in Batumi?"
-    a: "Yes. Batumi gets a lot of rain, and this compact indoor museum is one of the easiest central plans for a wet day or a very hot afternoon."
-  - q: "What can I combine it with nearby?"
-    a: "Walk to Europe Square and the Piazza for coffee, then continue to Batumi Boulevard, the Alphabetic Tower and the Ali and Nino statue on the seafront."
+  - q: Where is the State Art Museum of Adjara?
+    a: >-
+      At 8 Zurab Gorgiladze Street in central Batumi. It is walkable from the
+      Old Town around Europe Square and the Piazza, or a short Bolt or taxi ride
+      from elsewhere in the city.
+  - q: What are the opening hours?
+    a: >-
+      Google currently lists 10am–6pm every day, including Mondays. Museum hours
+      can change with the season and on public holidays, so check the official
+      site before visiting.
+  - q: How long should I spend there?
+    a: >-
+      About an hour for the permanent collection, up to 90 minutes if there is a
+      temporary exhibition you want to see properly.
+  - q: Is it a good rainy-day option in Batumi?
+    a: >-
+      Yes. Batumi gets a lot of rain, and this compact indoor museum is one of
+      the easiest central plans for a wet day or a very hot afternoon.
+  - q: What can I combine it with nearby?
+    a: >-
+      Walk to Europe Square and the Piazza for coffee, then continue to Batumi
+      Boulevard, the Alphabetic Tower and the Ali and Nino statue on the
+      seafront.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-20'
 ---
 
 ## A quieter room behind the seafront

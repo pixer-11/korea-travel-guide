@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: byron-bay-byron-bay-lighthouse
-srcHash: '39dbc51b1864'
+srcHash: 'cc596bd93192'
 title: 'Faro de Byron Bay: guía de viaje (4.8★)'
-description: En lo alto del cabo Byron, en el 59 de Brownell Dr y a unos 3 km del centro de Byron Bay, se alza el faro de Byron Bay. Con una valoración de 4.8★ (484 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
+description: En lo alto del cabo Byron, en el 59 de Brownell Dr y a unos 3 km del centro de Byron Bay, se alza el faro de Byron Bay. Con una valoración de 4.8★ (485 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
 quickAnswer: El faro de Byron Bay se encuentra en el cabo Byron (Cape Byron), en el 59 de Brownell Dr, a unos 3 km del centro de Byron Bay. Como el aparcamiento de la cima es de pago y se llena enseguida, la mayoría de los visitantes sube a pie por el sendero Cape Byron Walking Track o deja el coche más abajo. Conviene ir al amanecer o entre junio y noviembre, cuando las ballenas jorobadas pasan muy cerca del promontorio.
 faq:
   - q: ¿Cómo se llega al faro de Byron Bay sin coche?

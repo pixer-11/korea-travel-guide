@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: byron-bay-byron-bay-lighthouse
-srcHash: '39dbc51b1864'
+srcHash: 'cc596bd93192'
 title: 拜伦湾灯塔旅行指南（4.8★）
-description: 拜伦湾灯塔位于拜伦角，地址为59 Brownell Dr，距拜伦湾镇中心约3 km。评分4.8★（484条评价），游客口碑、开放时间和实用贴士都在这里。
+description: 拜伦湾灯塔位于拜伦角，地址为59 Brownell Dr，距拜伦湾镇中心约3 km。评分4.8★（485条评价），游客口碑、开放时间和实用贴士都在这里。
 quickAnswer: 拜伦湾灯塔坐落在拜伦角（Cape Byron），地址为59 Brownell Dr，离拜伦湾镇中心约3 km。山顶停车场收费，而且很快就会停满，所以大多数人会沿拜伦角步道步行上山，或者把车停在半山腰再走上去。日出时分最值得去。6月至11月座头鲸会贴着岬角游过，这段时间也很适合前往。
 faq:
   - q: 不开车怎么去拜伦湾灯塔？

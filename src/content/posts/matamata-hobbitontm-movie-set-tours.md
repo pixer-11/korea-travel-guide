@@ -1,52 +1,80 @@
 ---
-title: "Hobbiton Movie Set Tours: Matamata Travel Guide (4.8★)"
-description: "Hobbiton Movie Set Tours sits on a working sheep farm at 501 Buckland Road, just outside Matamata in New Zealand's Waikato region. 4.8★ (27,630 reviews) — what visitors say, hours, and tips."
-country: "New Zealand"
-region: "Matamata"
-category: "attraction"
-pubDate: "2026-10-20T14:47:26.901Z"
+title: 'Hobbiton Movie Set Tours: Matamata Travel Guide (4.8★)'
+description: >-
+  Hobbiton Movie Set Tours sits on a working sheep farm at 501 Buckland Road,
+  just outside Matamata in New Zealand's Waikato region. 4.8★ (27,632 reviews) —
+  what visitors say, hours, and tips.
+country: New Zealand
+region: Matamata
+category: attraction
+pubDate: '2026-10-20T14:47:26.901Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/2/29/Garden_and_Hobbit_Holes_--Hobbiton_Movie_Set%2C_Matamata%2C_New_Zealand_2016_%2850797357806%29.jpg"
-  credit: "Photo: Joe Ross from Lansing, Michigan / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Garden_and_Hobbit_Holes_--Hobbiton_Movie_Set,_Matamata,_New_Zealand_2016_(50797357806).jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/2/29/Garden_and_Hobbit_Holes_--Hobbiton_Movie_Set%2C_Matamata%2C_New_Zealand_2016_%2850797357806%29.jpg
+  credit: 'Photo: Joe Ross from Lansing, Michigan / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Garden_and_Hobbit_Holes_--Hobbiton_Movie_Set,_Matamata,_New_Zealand_2016_(50797357806).jpg
+  via: act
   focus:
     x: 40
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/1/1c/Cheese_Detail_outside_a_Hobbit_Hole%2C_Hobbiton_Movie_Set%2C_Matamata%2C_New_Zealand_2016_%2850797304951%29.jpg"
-    credit: "Photo: Joe Ross from Lansing, Michigan / Wikimedia Commons (CC BY-SA 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Cheese_Detail_outside_a_Hobbit_Hole,_Hobbiton_Movie_Set,_Matamata,_New_Zealand_2016_(50797304951).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/1/1c/Cheese_Detail_outside_a_Hobbit_Hole%2C_Hobbiton_Movie_Set%2C_Matamata%2C_New_Zealand_2016_%2850797304951%29.jpg
+    credit: 'Photo: Joe Ross from Lansing, Michigan / Wikimedia Commons (CC BY-SA 2.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Cheese_Detail_outside_a_Hobbit_Hole,_Hobbiton_Movie_Set,_Matamata,_New_Zealand_2016_(50797304951).jpg
 place:
-  id: "ChIJd0roN2KrbW0RpiH1qNZ8_yQ"
-  name: "Hobbiton™ Movie Set Tours"
-  address: "501 Buckland Road, Matamata 3472, New Zealand"
+  id: ChIJd0roN2KrbW0RpiH1qNZ8_yQ
+  name: Hobbiton™ Movie Set Tours
+  address: '501 Buckland Road, Matamata 3472, New Zealand'
   rating: 4.8
-  userRatingsTotal: 27630
-  googleMapsUrl: "https://maps.google.com/?cid=2665986765826105766&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 27632
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2665986765826105766&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -37.8720905
   lng: 175.6829096
-  phone: "+64 7 888 1505"
+  phone: +64 7 888 1505
 tags:
-  - "matamata"
-  - "top attraction"
-quickAnswer: "Hobbiton Movie Set Tours sits on a working sheep farm at 501 Buckland Road, just outside Matamata in New Zealand's Waikato region. You can only see it on a guided tour, which typically runs about two hours with the bus transfer. Book ahead and check the official site for current departure times."
+  - matamata
+  - top attraction
+quickAnswer: >-
+  Hobbiton Movie Set Tours sits on a working sheep farm at 501 Buckland Road,
+  just outside Matamata in New Zealand's Waikato region. You can only see it on
+  a guided tour, which typically runs about two hours with the bus transfer.
+  Book ahead and check the official site for current departure times.
 faq:
-  - q: "Can I visit Hobbiton without a tour?"
-    a: "No. The set is only open on guided tours. They leave from the visitor centre at 501 Buckland Road, and some also start from the Matamata i-SITE in town."
-  - q: "How long does the Hobbiton tour take?"
-    a: "The standard tour usually lasts around two hours, counting the bus transfer from the visitor centre. Leave about half a day so you have time for check-in, the café and the gift shop."
-  - q: "How far is Hobbiton from Auckland and Rotorua?"
-    a: "It's about a two-hour drive from Auckland and roughly an hour from Rotorua. From Hamilton it's around an hour, and from Tauranga it's under an hour. Day tours also run from Auckland and Rotorua."
-  - q: "Do I need to book in advance?"
-    a: "Yes. Hobbiton is one of New Zealand's busiest attractions, and tours often sell out, especially in school holidays. Book online before you go and check the official site for current departure times."
-  - q: "Can you go inside the hobbit holes?"
-    a: "Most are façades with little or nothing behind the door, and they were built at different scales for forced-perspective filming. Your guide will tell you which doors you can open for photos."
+  - q: Can I visit Hobbiton without a tour?
+    a: >-
+      No. The set is only open on guided tours. They leave from the visitor
+      centre at 501 Buckland Road, and some also start from the Matamata i-SITE
+      in town.
+  - q: How long does the Hobbiton tour take?
+    a: >-
+      The standard tour usually lasts around two hours, counting the bus
+      transfer from the visitor centre. Leave about half a day so you have time
+      for check-in, the café and the gift shop.
+  - q: How far is Hobbiton from Auckland and Rotorua?
+    a: >-
+      It's about a two-hour drive from Auckland and roughly an hour from
+      Rotorua. From Hamilton it's around an hour, and from Tauranga it's under
+      an hour. Day tours also run from Auckland and Rotorua.
+  - q: Do I need to book in advance?
+    a: >-
+      Yes. Hobbiton is one of New Zealand's busiest attractions, and tours often
+      sell out, especially in school holidays. Book online before you go and
+      check the official site for current departure times.
+  - q: Can you go inside the hobbit holes?
+    a: >-
+      Most are façades with little or nothing behind the door, and they were
+      built at different scales for forced-perspective filming. Your guide will
+      tell you which doors you can open for photos.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-20'
 ---
 
 ## A village dug into a sheep farm

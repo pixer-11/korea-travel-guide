@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: mtskheta-samtavro-s-convent
-srcHash: 'b44c8107fddd'
+srcHash: '81000ab8b79c'
 title: 'Convento de Samtavro: guía de viaje de Mtsjeta (4.9★)'
-description: El convento de Samtavro está en el norte de Mtsjeta, a pocos minutos a pie de la catedral de Svetitsjoveli. Tiene una valoración de 4.9★ (3,232 reseñas). Aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
+description: El convento de Samtavro está en el norte de Mtsjeta, a pocos minutos a pie de la catedral de Svetitsjoveli. Tiene una valoración de 4.9★ (3,234 reseñas). Aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
 quickAnswer: El convento de Samtavro está en el norte de Mtsjeta, a pocos minutos a pie de la catedral de Svetitsjoveli. Es un convento de monjas en activo. En su recinto reposan el rey Mirian III y la reina Nana, se alza la pequeña iglesia vinculada a santa Nino y se encuentra la tumba de san Gabriel, un monje muy venerado. La visita lleva entre 45 y 90 minutos. Según Google, abre actualmente de 9am–7pm, y para entrar se exige vestimenta recatada.
 faq:
   - q: ¿Cómo se llega al convento de Samtavro desde Tiflis?

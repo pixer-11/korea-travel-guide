@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: matamata-hobbitontm-movie-set-tours
-srcHash: '47b92e4a2a37'
+srcHash: '50b200c53060'
 title: 霍比特村电影片场之旅：玛塔玛塔旅行指南（4.8★）
-description: 霍比特村电影片场（Hobbiton Movie Set Tours）位于新西兰怀卡托地区玛塔玛塔镇郊，就在 501 Buckland Road 一座仍在运营的牧羊场里。评分 4.8★（27,630 条评价），本文汇总游客评价、开放时间和实用贴士。
+description: 霍比特村电影片场（Hobbiton Movie Set Tours）位于新西兰怀卡托地区玛塔玛塔镇郊，就在 501 Buckland Road 一座仍在运营的牧羊场里。评分 4.8★（27,632 条评价），本文汇总游客评价、开放时间和实用贴士。
 quickAnswer: 霍比特村电影片场（Hobbiton Movie Set Tours）位于新西兰怀卡托地区玛塔玛塔镇郊，就在 501 Buckland Road 一座仍在运营的牧羊场里。片场只能跟随导览团参观，连同巴士接驳，全程一般约两小时。建议提前预订，出发前请到官网查看最新发团时间。
 faq:
   - q: 不跟团能参观霍比特村吗？

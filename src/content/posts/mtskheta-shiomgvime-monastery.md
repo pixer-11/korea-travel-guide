@@ -1,54 +1,84 @@
 ---
-title: "Shiomgvime Monastery: Mtskheta Travel Guide (4.9★)"
-description: "Shiomgvime Monastery sits in a limestone gorge above the Mtkvari River near Dzegvi, roughly a half-hour drive from Mtskheta. 4.9★ (1,536 reviews) — what visitors say, hours, and tips."
-country: "Georgia"
-region: "Mtskheta"
-category: "attraction"
-pubDate: "2026-10-20T07:59:30.849Z"
+title: 'Shiomgvime Monastery: Mtskheta Travel Guide (4.9★)'
+description: >-
+  Shiomgvime Monastery sits in a limestone gorge above the Mtkvari River near
+  Dzegvi, roughly a half-hour drive from Mtskheta. 4.9★ (1,537 reviews) — what
+  visitors say, hours, and tips.
+country: Georgia
+region: Mtskheta
+category: attraction
+pubDate: '2026-10-20T07:59:30.849Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Shio_Mghvime.jpg/1920px-Shio_Mghvime.jpg"
-  credit: "Photo: This work is created by George Melashvili. / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Shio_Mghvime.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Shio_Mghvime.jpg/1920px-Shio_Mghvime.jpg
+  credit: >-
+    Photo: This work is created by George Melashvili. / Wikimedia Commons (CC
+    BY-SA 3.0)
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Shio_Mghvime.jpg'
   focus:
     x: 70
-    y: 35
+    'y': 35
 gallery: []
 place:
-  id: "ChIJoQ1U6fxkREAR12EteYEw-uk"
-  name: "Shiomgvime Monastery"
-  address: "VJ6R+W3W, Mtkheta-Shiomgvime Monastery, Dzegvi, Georgia"
+  id: ChIJoQ1U6fxkREAR12EteYEw-uk
+  name: Shiomgvime Monastery
+  address: 'VJ6R+W3W, Mtkheta-Shiomgvime Monastery, Dzegvi, Georgia'
   rating: 4.9
-  userRatingsTotal: 1536
-  googleMapsUrl: "https://maps.google.com/?cid=16859841487656804823&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1537
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16859841487656804823&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 41.8623609
   lng: 44.640203799999995
   openingHours:
-    - "Monday: 10:00 AM – 7:00 PM"
-    - "Tuesday: 10:00 AM – 7:00 PM"
-    - "Wednesday: 10:00 AM – 7:00 PM"
-    - "Thursday: 10:00 AM – 7:00 PM"
-    - "Friday: 10:00 AM – 7:00 PM"
-    - "Saturday: 11:00 AM – 7:00 PM"
-    - "Sunday: 11:00 AM – 7:00 PM"
+    - 'Monday: 10:00 AM – 7:00 PM'
+    - 'Tuesday: 10:00 AM – 7:00 PM'
+    - 'Wednesday: 10:00 AM – 7:00 PM'
+    - 'Thursday: 10:00 AM – 7:00 PM'
+    - 'Friday: 10:00 AM – 7:00 PM'
+    - 'Saturday: 11:00 AM – 7:00 PM'
+    - 'Sunday: 11:00 AM – 7:00 PM'
 tags:
-  - "mtskheta"
-  - "historic site"
-quickAnswer: "Shiomgvime Monastery sits in a limestone gorge above the Mtkvari River near Dzegvi, roughly a half-hour drive from Mtskheta. It's a working 6th-century monastery with two churches and the cave of its founder, Saint Shio. Plan on 1–2 hours, go by taxi or car, and dress for an active place of worship. At the moment the gate opens 10am–7pm on weekdays and 11am–7pm at weekends."
+  - mtskheta
+  - historic site
+quickAnswer: >-
+  Shiomgvime Monastery sits in a limestone gorge above the Mtkvari River near
+  Dzegvi, roughly a half-hour drive from Mtskheta. It's a working 6th-century
+  monastery with two churches and the cave of its founder, Saint Shio. Plan on
+  1–2 hours, go by taxi or car, and dress for an active place of worship. At the
+  moment the gate opens 10am–7pm on weekdays and 11am–7pm at weekends.
 faq:
-  - q: "How do I get to Shiomgvime Monastery from Mtskheta?"
-    a: "Take a taxi, ride-hail or your own car northwest along the Mtkvari River, past the village of Dzegvi, then into the gorge on a narrow, winding road. Public transport doesn't usefully reach the gate, so agree on a return ride before you go."
-  - q: "What are the opening hours?"
-    a: "At the moment it's open 10:00am–7:00pm Monday to Friday and 11:00am–7:00pm on Saturday and Sunday. Hours can change for feast days and with the seasons, so check before you set off."
-  - q: "How long should I spend there?"
-    a: "Give it 1–2 hours. That covers the 6th-century Church of Saint John the Baptist, the Cathedral of the Assumption, the walk down to Saint Shio's cave and time to look up at the monks' cells in the cliffs."
-  - q: "Is there a dress code?"
-    a: "Yes. Women should cover their heads and wear a skirt below the knee. Men need long trousers. Everyone should cover their shoulders and skip shorts. Wraps are often provided, but it's safer to bring your own scarf."
-  - q: "What else can I see nearby?"
-    a: "In Mtskheta, see Svetitskhoveli Cathedral, Samtavro Monastery and the hilltop Jvari Monastery. Zedazeni Monastery is on a ridge across the valley. It was founded by another of the Thirteen Assyrian Fathers, so it pairs naturally with Shiomgvime."
+  - q: How do I get to Shiomgvime Monastery from Mtskheta?
+    a: >-
+      Take a taxi, ride-hail or your own car northwest along the Mtkvari River,
+      past the village of Dzegvi, then into the gorge on a narrow, winding road.
+      Public transport doesn't usefully reach the gate, so agree on a return
+      ride before you go.
+  - q: What are the opening hours?
+    a: >-
+      At the moment it's open 10:00am–7:00pm Monday to Friday and 11:00am–7:00pm
+      on Saturday and Sunday. Hours can change for feast days and with the
+      seasons, so check before you set off.
+  - q: How long should I spend there?
+    a: >-
+      Give it 1–2 hours. That covers the 6th-century Church of Saint John the
+      Baptist, the Cathedral of the Assumption, the walk down to Saint Shio's
+      cave and time to look up at the monks' cells in the cliffs.
+  - q: Is there a dress code?
+    a: >-
+      Yes. Women should cover their heads and wear a skirt below the knee. Men
+      need long trousers. Everyone should cover their shoulders and skip shorts.
+      Wraps are often provided, but it's safer to bring your own scarf.
+  - q: What else can I see nearby?
+    a: >-
+      In Mtskheta, see Svetitskhoveli Cathedral, Samtavro Monastery and the
+      hilltop Jvari Monastery. Zedazeni Monastery is on a ridge across the
+      valley. It was founded by another of the Thirteen Assyrian Fathers, so it
+      pairs naturally with Shiomgvime.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-20'
 ---
 
 Cliffs close in around the last stretch of road. These are pale limestone walls full of holes, and some of those holes were dug by hand. Shiomgvime means "Cave of Shio". The name is literal. Before there were any churches here, a monk lived in this rock, and the monastery grew out of the gorge around his cell.
