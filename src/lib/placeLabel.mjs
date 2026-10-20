@@ -60,3 +60,92 @@ export function shortPlaceLabel(title, lang) {
   }
   return out.replace(TRAILING_RATING, '').trim();
 }
+
+// ─────────────────────────────────────────────────────────────
+//  THE CITY IN FRONT OF THE COLON.
+//
+//  A translation now and then turns "Yakiuo Ishikawa: Ho Chi Minh City Travel
+//  Guide" round into 「호찌민 여행 가이드: 야키우오 이시카와」. shortPlaceLabel
+//  then reads the city as the place, and the in-body linker (body-links.mjs)
+//  sent the first "호찌민" on every Korean page in Vietnam to a sushi bar
+//  (found 2026-10-20 by the owner on a fresh guide). 57 titles across ko, ja,
+//  zh and es had the city in front.
+//
+//  The city cannot be told from the title alone — 「페낭 식물원 여행 가이드:
+//  …」 puts the PLACE in front and is fine — so both helpers below take the
+//  set of names this region goes by (regionNamesFor).
+// ─────────────────────────────────────────────────────────────
+
+// Only the long travel-guide suffix marks a reversed title: 「巴厘岛美食指南：…」
+// is a food guide with a subtitle, not a city.
+const TRAVEL_GUIDE = { ko: ['여행 가이드'], ja: ['旅行ガイド'], zh: ['旅行指南', '旅游指南'] };
+
+const RATING_INSIDE = /^(.*?)\s*[(（]([^()（）]*?)[,，、]\s*([0-9][.,][0-9]\s*[★星])\s*[)）]\s*$/u;
+
+/**
+ * The city part of a normal "<place>: <city> Travel Guide" title, or ''.
+ * Siblings' titles are where the translated city name actually lives: the
+ * place table says 호치민 while the guides say 호찌민.
+ */
+export function guideTitleRegion(title, lang) {
+  const t = String(title ?? '').replace(TRAILING_RATING, '').trim();
+  const m = t.match(SEPARATORS);
+  if (!m) return '';
+  const tail = t.slice(m.index + 1).trim();
+  for (const suffix of SUFFIXES[lang] ?? []) {
+    const low = tail.toLowerCase(), s = suffix.toLowerCase();
+    if (!low.endsWith(s)) continue;
+    let city = tail.slice(0, -suffix.length).trim();
+    if (lang === 'es') city = city.replace(/^de\s+/i, '').trim();
+    return city;
+  }
+  // es reads "guía de viaje de Berlín": the suffix comes first.
+  if (lang === 'es') {
+    const es = tail.match(/^gu[ií]a(?: de viaje)?\s+de\s+(.+)$/i);
+    if (es) return es[1].trim();
+  }
+  return '';
+}
+
+/** Every name a region goes by, lower-cased, for one language. */
+export function regionNamesFor(names) {
+  return new Set([...names].filter(Boolean).map((n) => String(n).trim().toLowerCase()).filter(Boolean));
+}
+
+/**
+ * 「<city> 여행 가이드: <place>」 → 「<place>: <city> 여행 가이드」, or null when the
+ * title is not that shape. `cityNames` from regionNamesFor; es titles that open
+ * on the bare suffix ("Guía de viaje: X") are turned round with `cityLabel`.
+ */
+export function unreverseGuideTitle(title, lang, cityNames, cityLabel = '') {
+  const raw = String(title ?? '');
+  const m = raw.match(SEPARATORS);
+  if (!m) return null;
+  const head = raw.slice(0, m.index).trim();
+  let rest = raw.slice(m.index + 1).trim();
+  let rating = '';
+  const inside = rest.match(RATING_INSIDE);
+  const tr = inside ? null : rest.match(TRAILING_RATING);
+  if (tr) { rating = tr[0].trim(); rest = rest.slice(0, tr.index).trim(); }
+  if (inside) { rest = `${inside[1]}${lang === 'ko' || lang === 'es' ? ' (' : '（'}${inside[2].trim()}${lang === 'ko' || lang === 'es' ? ')' : '）'}`; rating = lang === 'ko' || lang === 'es' ? `(${inside[3]})` : `（${inside[3]}）`; }
+  if (!rest) return null;
+  const sep = lang === 'ja' || lang === 'zh' ? '：' : ': ';
+  const gap = rating ? (lang === 'ja' || lang === 'zh' ? '' : ' ') : '';
+  if (lang === 'es' && /^gu[ií]a de viaje$/i.test(head)) {
+    return `${rest}${sep}guía de viaje${cityLabel ? ` de ${cityLabel}` : ''}${gap}${rating}`;
+  }
+  for (const suffix of TRAVEL_GUIDE[lang] ?? []) {
+    if (!head.toLowerCase().endsWith(suffix.toLowerCase())) continue;
+    let city = head.slice(0, -suffix.length).trim();
+    // 「ナントの旅行ガイド」: the stray の goes with the turn.
+    const ja = lang === 'ja' && city.endsWith('の');
+    if (ja) city = city.slice(0, -1);
+    if (!city || !cityNames.has(city.toLowerCase())) return null;
+    // The guide IS the city (「下龙湾旅行指南：如何游览越南下龙湾」, 「피피 섬 여행 가이드:
+    // 코 피피 완전 정복」): the tail is a subtitle, and the head already names the place.
+    const stem = city.split(/\s+/)[0].toLowerCase();
+    if (rest.toLowerCase().includes(stem)) return null;
+    return `${rest}${sep}${ja ? city + suffix : head}${gap}${rating}`;
+  }
+  return null;
+}

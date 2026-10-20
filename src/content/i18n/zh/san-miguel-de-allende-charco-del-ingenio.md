@@ -2,7 +2,7 @@
 lang: zh
 slug: san-miguel-de-allende-charco-del-ingenio
 srcHash: '9dedfc35b75a'
-title: 圣米格尔-德阿连德旅行指南：英赫尼奥水塘植物园（Charco del Ingenio）
+title: 英赫尼奥水塘植物园（Charco del Ingenio）：圣米格尔-德阿连德旅行指南
 description: 英赫尼奥水塘植物园位于圣米格尔-德阿连德东北边缘的拉斯科洛尼亚斯（Las Colonias）一带，集植物园与自然保护区于一身，以规模庞大的仙人掌收藏和濒危本土植物闻名。评分4.6★（4,181条评价），游客口碑、开放时间与游览建议都在这里。
 quickAnswer: 英赫尼奥水塘植物园（Charco del Ingenio）坐落在圣米格尔-德阿连德东北边缘的拉斯科洛尼亚斯（Las Colonias）一带，既是植物园，也是自然保护区，以规模庞大的仙人掌收藏和濒危本土植物闻名。园区每天9am至5pm开放。工作日全天都很清静；周末建议9am至10am之间入园，11am至3pm是人最多的时段，最好避开。
 faq:

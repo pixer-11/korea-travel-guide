@@ -2,7 +2,7 @@
 lang: zh
 slug: seoul-chipotle-gangnam
 srcHash: '8e32d55f1305'
-title: 首尔旅行指南：江南 Chipotle
+title: 江南 Chipotle：首尔旅行指南
 description: 韩国首尔江南的 Chipotle 是当下的热门新店。本文介绍这家店的来历、位置和探店攻略。
 quickAnswer: 江南 Chipotle 于2026年9月初在首尔江南区开业，是这家连锁品牌在亚洲的第一家餐厅。这家店是合资试点门店，开业后在韩国社交媒体上迅速走红。据报道，排队最长要等三个小时，建议早点去，不然就得做好排长队的准备。出发前最好先查一下最新营业时间，看看有没有预约渠道。
 faq:

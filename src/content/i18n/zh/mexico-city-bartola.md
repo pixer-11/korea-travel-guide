@@ -2,7 +2,7 @@
 lang: zh
 slug: mexico-city-bartola
 srcHash: '6aa5367441a2'
-title: 墨西哥城旅行指南：Bartola
+title: Bartola：墨西哥城旅行指南
 description: Bartola位于墨西哥城北罗马区（Roma Norte），是一家带有意大利风味的餐厅兼酒吧。帕玛森焗鸡排和芝士黑胡椒水管面是这里的招牌，店里人多声响，很适合坐下来看人。
 quickAnswer: Bartola位于墨西哥城北罗马区（Roma Norte），是一家带有意大利风味的餐厅兼酒吧。帕玛森焗鸡排和芝士黑胡椒水管面是这里的招牌，店里人多声响，很适合坐下来看人。出发前最好先订位或查一下有没有空位，营业时间以官方渠道公布的为准。来这里图的是热闹，想安安静静吃顿饭的话不太合适。
 faq:

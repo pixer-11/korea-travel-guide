@@ -2,7 +2,7 @@
 lang: zh
 slug: okayama-sawa-no-ike-pond
 srcHash: 'e133beb1fd48'
-title: 冈山旅行指南：泽之池
+title: 泽之池：冈山旅行指南
 description: 泽之池是冈山后乐园内面积最大的水池，位于冈山市北区，与冈山城隔旭川相望。
 quickAnswer: 泽之池是冈山后乐园内面积最大的水池，位于冈山市北区，与冈山城隔旭川相望。从后乐园正门进园，步行即可到达池边。沿岸绕行一圈需要30–45分钟。想要俯瞰整片水面，最好登上唯心山。
 faq:

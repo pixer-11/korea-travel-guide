@@ -2,7 +2,7 @@
 lang: ja
 slug: santiago-de-compostela-museo-de-historia-natural-usc
 srcHash: '122ffacdaae2'
-title: サンティアゴ・デ・コンポステーラ旅行ガイド:自然史博物館(Museo de Historia Natural-USC)
+title: 自然史博物館(Museo de Historia Natural-USC)：サンティアゴ・デ・コンポステーラ旅行ガイド
 description: 自然史博物館(Museo de Historia Natural-USC)は、旧市街から少し南へ歩いたビスタ・アレグレ公園(Parque Vista Alegre)の中にあり、1時間もかからず気軽に見学できます。評価4.6★(口コミ1,141件)をもとに、訪問者の声や営業時間、訪れる際のコツをご紹介します。
 quickAnswer: 自然史博物館(Museo de Historia Natural-USC)は、旧市街から少し南へ歩いたビスタ・アレグレ公園(Parque Vista Alegre)の中にあり、1時間もかからず気軽に見学できます。月曜は休館で、火曜から土曜は午前と午後に分かれて開館します(10:30〜14:00、16:30〜20:00)。日曜は午前のみ(11:00〜14:00)の営業です。館内がほぼ貸し切り状態になるのは平日午後の時間帯で、この大学付属の博物館はまだ多くの観光客の目に触れていません。
 faq:

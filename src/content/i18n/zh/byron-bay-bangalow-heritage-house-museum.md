@@ -2,7 +2,7 @@
 lang: zh
 slug: byron-bay-bangalow-heritage-house-museum
 srcHash: '4f470e7b8019'
-title: 拜伦湾旅行指南：班加罗遗产屋博物馆（Bangalow Heritage House Museum）
+title: 班加罗遗产屋博物馆（Bangalow Heritage House Museum）：拜伦湾旅行指南
 description: 班加罗遗产屋博物馆位于班加罗（Bangalow）的4 Ashton St。这座腹地小镇在拜伦湾以西，开车过去约15–20分钟。博物馆讲述的是小镇及周边地区的往事。
 quickAnswer: 班加罗遗产屋博物馆（Bangalow Heritage House Museum）位于4 Ashton St。班加罗（Bangalow）是拜伦湾以西的一座腹地小镇，开车过去约15–20分钟。博物馆讲述的是小镇及周边地区的往事。博物馆每周只开放几天，目前周三至周五上午10点至下午2点、周六上午10点至下午1点开放，周日至周二闭馆。参观留出一小时就够了，看完可以到拜伦街（Byron Street）走走，看看两旁带廊檐的老店铺。
 faq:

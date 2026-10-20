@@ -2,7 +2,7 @@
 lang: zh
 slug: seoul-nudake-tea-house-seongsu
 srcHash: '5796db9aa1fe'
-title: 首尔旅行指南：圣水洞 NUDAKE Tea House
+title: 圣水洞 NUDAKE Tea House：首尔旅行指南
 description: NUDAKE Tea House是甜品品牌NUDAKE旗下的茶饮空间。2026年，它迁入首尔圣水洞（Seongsu-dong）品牌大楼的5楼，有了独立的店面。
 quickAnswer: NUDAKE Tea House是甜品品牌NUDAKE旗下的茶饮空间。2026年，它迁入首尔圣水洞（Seongsu-dong）品牌大楼的5楼，有了独立的店面。离这里最近的地铁站是2号线圣水站（Seongsu Station）。新店的营业时间和预约规则目前还没有确定，出发前请先看一下NUDAKE官方渠道发布的消息。新店开张不久，人气又旺，最好做好排队的心理准备。
 faq:

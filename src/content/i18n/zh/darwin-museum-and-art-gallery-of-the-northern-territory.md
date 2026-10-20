@@ -2,7 +2,7 @@
 lang: zh
 slug: darwin-museum-and-art-gallery-of-the-northern-territory
 srcHash: 'c8a5eccc3e79'
-title: 达尔文旅行指南：北领地博物馆与美术馆
+title: 北领地博物馆与美术馆：达尔文旅行指南
 description: 北领地博物馆与美术馆位于达尔文花园区（The Gardens）19 Conacher St，处在市中心与范妮湾之间的海港沿岸地带。评分4.6★（4,035条评价），这里汇总了游客评价、开放时间和参观建议。
 quickAnswer: 北领地博物馆与美术馆位于达尔文花园区（The Gardens）19 Conacher St，处在市中心与范妮湾（Fannie Bay）之间的海港沿岸地带。每天上午10点至下午4点开放。工作日下午3点到4点人最少，周末上午10点到下午2点人最多。建议挑一个工作日的下午前往，留出两到三小时。
 faq:

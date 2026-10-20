@@ -23,7 +23,7 @@ import './lib/claude-meter.mjs'; // counts this file's Claude spend into the cos
 import { readdir, readFile, writeFile, mkdir } from 'node:fs/promises';
 import { latinDrops } from './lib/latin-drop.mjs';
 import { upcomingHits, stackedSchedule } from './lib/ended-event-tense.mjs';
-import { existsSync, readFileSync } from 'node:fs';
+import { existsSync, readFileSync, readdirSync } from 'node:fs';
 import { srcHashOfPostFile, storedHashIn } from './lib/src-hash.mjs';
 import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -40,9 +40,36 @@ import { namedIds, translatable } from './lib/translate-scope.mjs';
 import { runBatch, REPLACEMENT_CHAR } from './lib/claude-batch.mjs';
 import { loadRecords, patchFor, patchPrompt, applyEdits, EDIT_TOOL, docOf, fieldsOf, patchIsCheaper } from './lib/prose-patch.mjs';
 import { unescapeEntities } from './lib/unescape-entities.mjs';
+import { guideTitleRegion, regionNamesFor, unreverseGuideTitle } from '../src/lib/placeLabel.mjs';
 
 const POSTS = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
 const OUT = fileURLToPath(new URL('../src/content/i18n/', import.meta.url));
+
+// 「호찌민 여행 가이드: 야키우오 이시카와」: now and then the model puts the city in
+// front of the colon, and every list and in-body link then takes the city for
+// the place (2026-10-20, 57 titles). Turned round here, with no second model
+// call. City names come from the place table AND from this language's existing
+// guides, because those say 호찌민 where the table says 호치민.
+const REGION_OF = new Map();
+const PLACE_NAMES = JSON.parse(readFileSync(new URL('../src/i18n/places.json', import.meta.url), 'utf8'));
+const POSTS_DIR = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
+const cityTails = new Map();
+function cityNamesFor(region, lang) {
+  if (!cityTails.has(lang)) {
+    const byRegion = new Map();
+    const dir = join(OUT, lang);
+    for (const f of existsSync(dir) ? readdirSync(dir) : []) {
+      const src = join(POSTS_DIR, f);
+      if (!f.endsWith('.md') || !existsSync(src)) continue;
+      const r = (readFileSync(src, 'utf8').match(/^region:\s*['"]?(.+?)['"]?\s*$/m) || [])[1];
+      const t = (readFileSync(join(dir, f), 'utf8').match(/^title:\s*['"]?(.+?)['"]?\s*$/m) || [])[1];
+      const city = r && t ? guideTitleRegion(t, lang) : '';
+      if (city) byRegion.set(r, [...(byRegion.get(r) ?? []), city]);
+    }
+    cityTails.set(lang, byRegion);
+  }
+  return regionNamesFor([region, PLACE_NAMES[region]?.[lang], ...(cityTails.get(lang).get(region) ?? [])]);
+}
 // Opus 5.5 since 2026-09-28: a blind A/B on 12 live translations (3 posts x 4
 // languages, judged by Codex against the English source) went 12-0, accuracy
 // 8.4 vs 7.0, naturalness 8.5 vs 6.7; Sonnet invented proper names (Gao Family
@@ -649,6 +676,9 @@ async function translateOne(langCode, srcId, data, hash, attempt = 1, pre = null
   out.description = D(out.description);
   out.quickAnswer = D(out.quickAnswer);
   out.body = D(out.body);
+  const region = REGION_OF.get(srcId);
+  const turned = region ? unreverseGuideTitle(out.title, langCode, cityNamesFor(region, langCode)) : null;
+  if (turned) { console.log(`     ⇄ ${langCode}/${srcId} — city was in front of the title, turned round`); out.title = turned; }
   if (Array.isArray(out.faq)) out.faq = out.faq.map((f) => (f && typeof f === 'object' ? { ...f, q: D(f.q), a: D(f.a) } : f));
   const fm = {
     lang: langCode,
@@ -717,6 +747,7 @@ for (const f of files) {
   const endedDay = endedRaw instanceof Date ? endedRaw.toISOString().slice(0, 10) : String(endedRaw || '').slice(0, 10);
   const ended = fm.category === 'event' && !!endedDay && endedDay < new Date().toISOString().slice(0, 10);
   const data = { title: fm.title, description: fm.description, quickAnswer: fm.quickAnswer, faq: fm.faq, body, ended };
+  REGION_OF.set(id, String(fm.region ?? ''));
   // Through the shared reader, so a tool that re-stamps a translation's hash
   // (resync-rating-badges, resync-prose-ratings) computes the identical value.
   // They used to build it from the pieces themselves and got it subtly wrong.

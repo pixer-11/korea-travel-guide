@@ -2,7 +2,7 @@
 lang: zh
 slug: mexico-city-bar-nino
 srcHash: '1c001b6a3383'
-title: 墨西哥城旅行指南：尼诺酒吧（Bar Nino）
+title: 尼诺酒吧（Bar Nino）：墨西哥城旅行指南
 description: 尼诺酒吧（Bar Nino）位于墨西哥城北罗马区，是一家专做玛格丽特的酒吧。它由拉美顶级酒吧利曼图尔酒馆（Licorería Limantour）的原班团队另起炉灶开设。
 quickAnswer: 尼诺酒吧（Bar Nino）位于墨西哥城北罗马区（Roma Norte），专做玛格丽特。它是拉美顶级酒吧利曼图尔酒馆（Licorería Limantour）团队的副线项目。来这里就该点随季节轮换的玛格丽特，其中一款用了九种辣椒。酒吧开业不久，出发前最好先确认当天的营业时间，以及是否需要预订。
 faq:

@@ -2,7 +2,7 @@
 lang: zh
 slug: singapore-milli-sky-dining-bar
 srcHash: '192740c6f974'
-title: '新加坡旅行指南：Milli: Sky Dining & Bar'
+title: 'Milli: Sky Dining & Bar：新加坡旅行指南'
 description: 'Milli: Sky Dining & Bar位于市政区新加坡国家美术馆的屋顶上，从政府大厦地铁站（City Hall MRT）步行过去只需几分钟。'
 quickAnswer: 'Milli: Sky Dining & Bar位于市政区新加坡国家美术馆的屋顶上，从政府大厦地铁站（City Hall MRT）步行过去只需几分钟。餐厅于2026年5月31日开业，上下共两层。主厨韩立光（LG Han）在这里烹制富有前瞻性的新加坡菜，鸡尾酒由维杰·穆达利亚尔（Vijay Mudaliar）操刀，还有DJ现场打碟，而且不收入场费。目前尚无营业时间的公开信息，建议提前订位，出发前再确认一下最新营业时间。'
 faq:

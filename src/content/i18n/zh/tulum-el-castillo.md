@@ -2,7 +2,7 @@
 lang: zh
 slug: tulum-el-castillo
 srcHash: '48d5cb37ce11'
-title: 图卢姆旅行指南：卡斯蒂略神庙（El Castillo，4.7★）
+title: 卡斯蒂略神庙（El Castillo）：图卢姆旅行指南（4.7★）
 description: 卡斯蒂略神庙是一座矗立在悬崖之巅的金字塔神庙，位于图卢姆考古区中心，地处图卢姆镇以北几公里的酒店区（Zona Hotelera），每天9:00 AM至5:00 PM开放。评分4.7★（1,075条评价），本文汇总游客评价、开放时间与实用贴士。
 quickAnswer: 卡斯蒂略神庙（El Castillo）是图卢姆考古区中心的悬崖金字塔神庙，位于图卢姆镇以北几公里的酒店区（Zona Hotelera），每天9:00 AM至5:00 PM开放。建议9:00 AM一开门就到，赶在天气变热、一日游大巴到达之前入园。游览整片城墙内遗址需预留1.5至2小时。
 faq:

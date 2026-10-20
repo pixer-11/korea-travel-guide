@@ -76,3 +76,15 @@ export function linkMentions(html, targets, { max = 4, minLen = 5 } = {}) {
   emitText(html.slice(last));
   return out;
 }
+
+/**
+ * Drop link targets whose name is a city or country, so "호찌민" in prose is
+ * never taken for a guide. `cities` is a lower-cased Set (regionNamesFor).
+ * @template {{name: string}} T
+ * @param {T[]} targets
+ * @param {Set<string>} cities
+ * @returns {T[]}
+ */
+export function withoutCityNames(targets, cities) {
+  return targets.filter((t) => !cities.has(String(t.name ?? '').trim().toLowerCase()));
+}

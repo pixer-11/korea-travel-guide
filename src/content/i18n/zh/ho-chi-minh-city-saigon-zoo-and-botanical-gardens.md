@@ -2,7 +2,7 @@
 lang: zh
 slug: ho-chi-minh-city-saigon-zoo-and-botanical-gardens
 srcHash: '069a3a3255c7'
-title: 胡志明市旅行指南：西贡动植物园（Thảo Cầm Viên）
+title: 西贡动植物园（Thảo Cầm Viên）：胡志明市旅行指南
 description: 西贡动植物园位于越南胡志明市，始建于19世纪60年代，园内绿树成荫，可以看到大象和长颈鹿。本文由我们的编辑实地探访后撰写。
 quickAnswer: 西贡动植物园（Thảo Cầm Viên）是胡志明市一座历史悠久的动物园兼植物园，地址为2 Nguyễn Bỉnh Khiêm。它的前身是1864年建成的植物园。我们的编辑实地探访后发现，园里动物种类相当丰富，大象、长颈鹿都有。高大的老树遍布园中，浓荫蔽日，步道也整洁干净，维护得很好。这里很受家庭游客欢迎，离市中心也近，花上半天慢慢逛，轻松惬意。出发前请先确认最新开放时间。
 faq:

@@ -52,3 +52,15 @@ test('leaves html alone without targets or text', () => {
   assert.equal(linkMentions('<p>x</p>', []), '<p>x</p>');
   assert.equal(linkMentions('', T), '');
 });
+
+// 2026-10-20: 도시 이름이 글 이름으로 잡히면 그 도시를 언급하는 모든 글이 엉뚱한 곳으로 링크된다.
+import { withoutCityNames } from './body-links.mjs';
+
+test('도시·나라 이름인 대상은 링크 후보에서 빠진다', () => {
+  const targets = [{ name: '호찌민', href: '/ko/posts/yakiuo/' }, { name: '사이공 동물원', href: '/ko/posts/zoo/' }];
+  const kept = withoutCityNames(targets, new Set(['호찌민', 'vietnam']));
+  assert.deepEqual(kept.map((t) => t.name), ['사이공 동물원']);
+  const html = linkMentions('<p>호찌민의 사이공 동물원</p>', kept, { minLen: 2 });
+  assert.ok(!html.includes('/ko/posts/yakiuo/'));
+  assert.ok(html.includes('/ko/posts/zoo/'));
+});

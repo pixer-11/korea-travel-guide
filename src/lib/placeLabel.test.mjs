@@ -84,3 +84,38 @@ test('🛑 src/ 에 전각 콜론을 모르는 제목 자르기가 없다', () =
   walk(root);
   assert.deepEqual(hits, [], '번역 제목에서 장소 이름을 뽑을 땐 shortPlaceLabel 을 쓴다');
 });
+
+// 2026-10-20: 「호찌민 여행 가이드: 야키우오 이시카와」 — 도시가 콜론 앞에 오자 모든
+// 베트남 한국어 글의 첫 "호찌민"이 스시집으로 링크됐다. 57개 제목이 그 모양이었다.
+import { guideTitleRegion, regionNamesFor, unreverseGuideTitle } from './placeLabel.mjs';
+
+test('정상 제목에서 도시 부분을 읽는다 — 장소표(호치민)와 글(호찌민)이 다르다', () => {
+  assert.equal(guideTitleRegion('더 러닝 빈(The Running Bean): 호찌민 여행 가이드', 'ko'), '호찌민');
+  assert.equal(guideTitleRegion('勃兰登堡门：柏林旅行指南（4.7★）', 'zh'), '柏林');
+  assert.equal(guideTitleRegion('Alexanderplatz: guía de viaje de Berlín (4.3★)', 'es'), 'Berlín');
+  assert.equal(guideTitleRegion('카통 파크 여행 가이드 (4.1★)', 'ko'), '');
+});
+
+test('도시가 앞에 온 제목을 돌려놓는다', () => {
+  const hcmc = regionNamesFor(['Ho Chi Minh City', '호치민', '호찌민']);
+  assert.equal(unreverseGuideTitle('호찌민 여행 가이드: 야키우오 이시카와(Yakiuo Ishikawa)', 'ko', hcmc),
+    '야키우오 이시카와(Yakiuo Ishikawa): 호찌민 여행 가이드');
+  assert.equal(unreverseGuideTitle('图卢姆旅行指南：卡斯蒂略神庙（El Castillo，4.7★）', 'zh', regionNamesFor(['图卢姆'])),
+    '卡斯蒂略神庙（El Castillo）：图卢姆旅行指南（4.7★）');
+  assert.equal(unreverseGuideTitle('ナントの旅行ガイド:ブルターニュ公爵城(4.5★)', 'ja', regionNamesFor(['ナント'])),
+    'ブルターニュ公爵城：ナント旅行ガイド(4.5★)');
+  assert.equal(unreverseGuideTitle('Guía de viaje: la Reggia di Monza', 'es', new Set(), 'Monza'),
+    'la Reggia di Monza: guía de viaje de Monza');
+  assert.equal(shortPlaceLabel(unreverseGuideTitle('호찌민 여행 가이드: 야키우오 이시카와', 'ko', hcmc), 'ko'), '야키우오 이시카와');
+});
+
+test('장소가 앞에 있는 정상 제목은 건드리지 않는다 (역방향)', () => {
+  const penang = regionNamesFor(['Penang', '페낭']);
+  assert.equal(unreverseGuideTitle('페낭 식물원 여행 가이드: 현지인들이 "폭포 정원"이라 부르는 이유 (4.5★)', 'ko', penang), null);
+  assert.equal(unreverseGuideTitle('알렉산더플라츠: 베를린 여행 가이드 (4.3★)', 'ko', regionNamesFor(['베를린'])), null);
+  // 그 도시 자체가 주제인 글: 꼬리는 부제다
+  assert.equal(unreverseGuideTitle('下龙湾旅行指南：如何游览越南下龙湾', 'zh', regionNamesFor(['下龙湾'])), null);
+  assert.equal(unreverseGuideTitle('피피 섬 여행 가이드: 코 피피 완전 정복', 'ko', regionNamesFor(['피피 섬'])), null);
+  // 맛집 가이드는 도시 표시가 아니다
+  assert.equal(unreverseGuideTitle('巴厘岛美食指南：SANA Uluwatu餐厅怎么吃', 'zh', regionNamesFor(['巴厘岛'])), null);
+});

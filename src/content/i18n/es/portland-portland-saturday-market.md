@@ -2,7 +2,7 @@
 lang: es
 slug: portland-portland-saturday-market
 srcHash: 'ffec647feff7'
-title: 'Guía de viaje: Portland Saturday Market (4,5★)'
+title: 'Portland Saturday Market: guía de viaje de Portland (4,5★)'
 description: 'El Portland Saturday Market se instala en el 2 SW Naito Pkwy, dentro de Tom McCall Waterfront Park, junto al extremo oeste del puente Burnside, en el barrio de Old Town de Portland, con puestos de artesanía y regalos, food carts y espectáculos en vivo. 4,5★ (4.921 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Portland Saturday Market se instala en el 2 SW Naito Pkwy, dentro de Tom McCall Waterfront Park, junto al extremo oeste del puente Burnside, en el barrio de Old Town de Portland, con puestos de artesanía y regalos, food carts y espectáculos en vivo. El horario vigente es solo los sábados, de 10:00 a 17:00, así que conviene revisar el sitio oficial antes de planear una visita en domingo. Lo mejor es tomar el MAX hasta la estación Skidmore Fountain, reservar entre dos y tres horas para el recorrido y llegar cerca de las 10:00 si se quiere curiosear con tranquilidad.
 faq:

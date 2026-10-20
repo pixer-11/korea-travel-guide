@@ -23,7 +23,9 @@
 //  instead of racing into two.
 // ─────────────────────────────────────────────────────────────
 import { getCollection } from 'astro:content';
-import { shortPlaceLabel } from './placeLabel.mjs';
+import { shortPlaceLabel, guideTitleRegion, regionNamesFor } from './placeLabel.mjs';
+import { withoutCityNames } from './body-links.mjs';
+import PLACES from '../i18n/places.json';
 
 const DEFAULT_COUNTRY = 'South Korea';
 const countryOf = (entry) => entry.data.country ?? DEFAULT_COUNTRY;
@@ -198,7 +200,12 @@ export async function linkTargetsFor(country, lang, { title, href }) {
   if (!p) {
     p = (async () => {
       const out = [];
+      // A city or the country is never a guide's name, even when a translated
+      // title puts it in front of the colon (「호찌민 여행 가이드: 야키우오…」 sent
+      // every first "호찌민" in Vietnam to a sushi bar, 2026-10-20).
+      const cities = [country ?? DEFAULT_COUNTRY, PLACES[country ?? DEFAULT_COUNTRY]?.[lang]];
       for (const r of await postsInCountry(country)) {
+        cities.push(r.data.region, PLACES[r.data.region]?.[lang], guideTitleRegion(title(r), lang));
         // Same trim as PostArticle's ownHead: ja/zh titles split on 「：」 or carry
         // no separator at all, so a bare split left the whole headline here.
         const name = shortPlaceLabel(title(r), lang);
@@ -207,7 +214,7 @@ export async function linkTargetsFor(country, lang, { title, href }) {
         if (name.length < (/[぀-鿿가-힯]/.test(name) ? 2 : 5)) continue;
         out.push({ id: r.id, name, lower: name.toLowerCase(), href: href(r.id) });
       }
-      return out;
+      return withoutCityNames(out, regionNamesFor(cities));
     })();
     linkTargetCache.set(key, p);
   }

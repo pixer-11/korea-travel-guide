@@ -2,7 +2,7 @@
 lang: ko
 slug: ulaanbaatar-mongol-art-gallery
 srcHash: 'b68c5febebec'
-title: '울란바토르 여행 가이드: 몽골 아트 갤러리'
+title: '몽골 아트 갤러리: 울란바토르 여행 가이드'
 description: 몽골 아트 갤러리(Mongol Art Gallery)는 울란바토르 바양주르흐 구 BZD - 26 khoroo에 있는 작은 미술 갤러리로, 꾸준히 좋은 평가를 받고 있습니다.
 quickAnswer: 몽골 아트 갤러리(Mongol Art Gallery)는 울란바토르 바양주르흐 구 BZD - 26 khoroo에 자리한 작은 미술 갤러리이며, 평가가 꾸준히 좋은 곳입니다. 현재 운영 시간은 월요일부터 금요일까지 오전 10시~오후 6시, 주말에는 오전 10시~오후 5시입니다. 관람에는 30~60분 정도를 잡으시고, 주소를 보여 주고 택시나 차량 호출 앱으로 찾아가시면 됩니다.
 faq:
