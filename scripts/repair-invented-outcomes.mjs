@@ -40,7 +40,7 @@ import { readdir, readFile, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import yaml from 'js-yaml';
-import { endsMidThought } from '../src/lib/rewrite-guard.mjs';
+import { cutOffByRewrite } from '../src/lib/rewrite-guard.mjs';
 import { OFFENDING_CLAIM } from '../src/lib/ended-event-claims.mjs';
 import { inventedOutcomes, ownEditionOutcomes } from './lib/invented-outcomes.mjs';
 
@@ -121,7 +121,7 @@ async function repairField(file, field, title, endedOn, year, current, { heading
     // …and none may be introduced that the current text did not carry.
     const added = inventedOutcomes(current, out);
     if (added.length) { problems.push(`invented outcome: "${added[0].sentence}"`); flagged = added; }
-    if (out && endsMidThought(out)) problems.push('ends mid-thought');
+    if (out && cutOffByRewrite(current, out)) problems.push('ends mid-thought');
     // On 2026-09-03 one answer came back headed "=== CORRECTED ===" and the
     // label was written into Tokyo's body.
     if (/^\s*===.*===\s*$/m.test(out) || /^\s*(?:ORIGINAL|REWRITE|CORRECTED)\s*:?\s*$/m.test(out)) problems.push('contains a label line');

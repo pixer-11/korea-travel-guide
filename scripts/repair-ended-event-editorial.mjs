@@ -34,7 +34,7 @@ import { readdir, readFile, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import yaml from 'js-yaml';
-import { endsMidThought } from '../src/lib/rewrite-guard.mjs';
+import { cutOffByRewrite } from '../src/lib/rewrite-guard.mjs';
 import { OFFENDING_CLAIM, ADVICE_IMPERATIVE } from '../src/lib/ended-event-claims.mjs';
 import { inventedOutcomes, ownEditionOutcomes } from './lib/invented-outcomes.mjs';
 import { srcHashOfPostFile } from './lib/src-hash.mjs';
@@ -146,7 +146,7 @@ function fieldProblems(name, cur, out, year, { md = false } = {}) {
   if (added.length) p.push(label(`introduces an outcome the text did not carry — "${added[0].sentence.slice(0, 140)}"`));
   if (/^\s*===.*===\s*$/m.test(out)) p.push(label('contains a label line'));
   if (!md && /(\*\*|^#|\]\(|^[-*]\s)/m.test(out)) p.push(label('markdown in a frontmatter string'));
-  if (endsMidThought(out)) p.push(label('ends mid-thought'));
+  if (cutOffByRewrite(cur, out)) p.push(label('ends mid-thought'));
   return p;
 }
 

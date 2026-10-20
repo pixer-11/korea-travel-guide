@@ -29,6 +29,19 @@ export function endsMidThought(text) {
 }
 
 /**
+ * Did the REWRITE cut the text off? Only when it ends mid-thought and the text
+ * that went in did not. A guide whose closing bullet list carries no full stop
+ * ("- Autographs and practice courts: … inside the main stadium") is how the
+ * writer formats lists; a faithful rewrite keeps that ending, and judging the
+ * output alone refused it — the Shanghai Masters guide kept its "Confirm timing
+ * and tickets" advice after the event had ended for that reason (2026-10-19).
+ * Truncation itself is caught by stop_reason "max_tokens" at every caller.
+ */
+export function cutOffByRewrite(before, after) {
+  return endsMidThought(after) && !endsMidThought(before ?? '');
+}
+
+/**
  * @param {string} before  the text handed to the model
  * @param {string} after   what came back
  * @param {{ headings?: boolean, minShare?: number }} opts
@@ -37,7 +50,7 @@ export function endsMidThought(text) {
 export function preservesSubstance(before, after, { headings = false, minShare = 0.7 } = {}) {
   if (!after) return false;
   if (after.length < before.length * minShare) return false;
-  if (endsMidThought(after)) return false;
+  if (cutOffByRewrite(before, after)) return false;
   if (headings) {
     const count = (s) => (s.match(/^#{2,6}\s+.*/gm) || []).length;
     if (count(after) < count(before)) return false;

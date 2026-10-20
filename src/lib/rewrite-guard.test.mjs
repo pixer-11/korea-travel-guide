@@ -1,6 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { preservesSubstance, endsMidThought } from './rewrite-guard.mjs';
+import { preservesSubstance, endsMidThought, cutOffByRewrite } from './rewrite-guard.mjs';
 
 // The real truncation, from jakarta-the-sounds-project-vol-9 (2026-08-10).
 const CUT = 'Tipping isn\'t expected at festival food stalls. The most common mistake visitors make is underestimating Ancol\'s size and distance from the ticket gate to the actual stage area — wearing real shoes, not sandals, was worthwhile given the decent walk from par';
@@ -35,4 +35,15 @@ test('an honest tense rewrite passes', () => {
 
 test('an empty response is never acceptable', () => {
   assert.equal(preservesSubstance(WHOLE, '', {}), false);
+});
+
+// Shanghai Masters, 2026-10-19: the guide ends on a bullet with no full stop,
+// the faithful rewrite kept that ending, and the repair was refused as cut off.
+test('a rewrite that keeps the source\'s own unpunctuated ending is not cut off', () => {
+  const list = 'Tips.\n\n- Language: English signage exists at the venue\n- Autographs: arriving early gives you the best shot, inside the main stadium';
+  assert.equal(endsMidThought(list), true, 'judged alone it still reads unfinished');
+  assert.equal(cutOffByRewrite(list, list.replace('Tips.', 'Tips for the day.')), false);
+  assert.equal(preservesSubstance(list, list.replace('Tips.', 'Tips for the day.'), {}), true);
+  // ...but a source that ended cleanly still may not come back cut.
+  assert.equal(cutOffByRewrite(WHOLE, CUT), true);
 });
