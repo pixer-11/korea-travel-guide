@@ -6310,5 +6310,13 @@
    "x": 35,
    "y": 45
   }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/City_Hall%2C_Alicante_-_panoramio.jpg/1280px-City_Hall%2C_Alicante_-_panoramio.jpg": {
+  "w": 1280,
+  "h": 1920,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
  }
 }

@@ -12,6 +12,14 @@ eventOrganizer:
   name: RFET
   url: https://www.rfet.es
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/City_Hall%2C_Alicante_-_panoramio.jpg/1280px-City_Hall%2C_Alicante_-_panoramio.jpg'
+  credit: 'Photo: Eduardo Manchon (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'File:City Hall, Alicante - panoramio.jpg'
+  focus:
+    x: 50
+    y: 45
 tags:
   - alicante
   - event

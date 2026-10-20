@@ -2814,7 +2814,10 @@
   "wanaka-puzzling-world\u0001https://upload.wikimedia.org/wikipedia/commons/1/15/Puzzling_World%2C_New_Zealand.jpg": 1600,
   "wanaka-wanaka-willow-tree\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Lonely_tree_of_Wanaka.jpg/3840px-Lonely_tree_of_Wanaka.jpg": 3840,
   "wellington-museum-of-new-zealand-te-papa-tongarewa\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Museum_of_New_Zealand_Te_Papa_Tongarewa_unsaturated.jpg/1920px-Museum_of_New_Zealand_Te_Papa_Tongarewa_unsaturated.jpg": 1920,
-  "wellington-wellington-museum\u0001https://upload.wikimedia.org/wikipedia/commons/9/96/Stained_Glass_Wellington_Museum_%2830931131524%29.jpg": 3786
+  "wellington-wellington-museum\u0001https://upload.wikimedia.org/wikipedia/commons/9/96/Stained_Glass_Wellington_Museum_%2830931131524%29.jpg": 3786,
+  "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Doubles_at_the_ATP_Finals_%2849070103618%29.jpg/3840px-Doubles_at_the_ATP_Finals_%2849070103618%29.jpg": 3840,
+  "nuremberg-nuremberg-christkindlesmarkt\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Christkindlesmarkt_2019_N%C3%BCrnberg_026.jpg/3840px-Christkindlesmarkt_2019_N%C3%BCrnberg_026.jpg": 3840,
+  "puerto-princesa-ironman-70-3-puerto-princesa\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/IRONMAN_70.3_Hradec_Kralove_2024_2.jpg/1920px-IRONMAN_70.3_Hradec_Kralove_2024_2.jpg": 1920
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -2868,8 +2871,8 @@
   },
   "surabaya-blue-doors-surabaya": {
    "width": 1080,
-   "attempts": 11,
-   "nextTry": "2026-10-20",
+   "attempts": 12,
+   "nextTry": "2026-10-27",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
@@ -2882,15 +2885,15 @@
   },
   "nha-trang-la-nha": {
    "width": 1102,
-   "attempts": 10,
-   "nextTry": "2026-10-20",
+   "attempts": 11,
+   "nextTry": "2026-10-27",
    "flaggedAt": "2026-08-11",
    "lastResult": "no-wider"
   },
   "phuket-hug-street-food-kata-phuket": {
    "width": 1080,
-   "attempts": 10,
-   "nextTry": "2026-10-20",
+   "attempts": 11,
+   "nextTry": "2026-10-27",
    "flaggedAt": "2026-08-11",
    "lastResult": "no-wider"
   },
@@ -3057,8 +3060,8 @@
   },
   "tashkent-shavi-coffee-roasters": {
    "width": 1103,
-   "attempts": 4,
-   "nextTry": "2026-10-20",
+   "attempts": 5,
+   "nextTry": "2026-10-27",
    "flaggedAt": "2026-09-17",
    "lastResult": "no-wider"
   },
@@ -3328,5 +3331,5 @@
    "flaggedAt": "2026-10-18"
   }
  },
- "updated": "2026-10-20T17:09:44.184Z"
+ "updated": "2026-10-20T22:44:36.161Z"
 }

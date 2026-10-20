@@ -8625,7 +8625,7 @@
   "slug": "goyang-charlie-puth-concert",
   "verdict": "MATCH",
   "reason": "patrol replace: Performer on stage at concert venue",
-  "at": "2026-10-18T23:09:07.577Z"
+  "at": "2026-10-20T22:33:20.160Z"
  },
  "goyang-charlie-puth-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Charlie_Puth_al_Poble_Espanyol_%2857304%29.jpg/3840px-Charlie_Puth_al_Poble_Espanyol_%2857304%29.jpg": {
   "slug": "goyang-charlie-puth-concert",
@@ -15552,8 +15552,8 @@
  "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Alvaro_Bautista-motogp-2015.JPG/3840px-Alvaro_Bautista-motogp-2015.JPG": {
   "slug": "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia",
   "verdict": "MATCH",
-  "reason": "patrol replace: MotoGP rider and bike at circuit paddock",
-  "at": "2026-10-18T23:10:52.490Z"
+  "reason": "patrol replace: MotoGP rider and bike at racing venue",
+  "at": "2026-10-20T22:37:06.631Z"
  },
  "lombok-mount-rinjani-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Lembah_Torean_Rinjani.jpg/1920px-Lembah_Torean_Rinjani.jpg": {
   "slug": "lombok-mount-rinjani-national-park",
@@ -15603,6 +15603,12 @@
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: filename shares only \"finals\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-20T08:30:43.766Z"
+ },
+ "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Doubles_at_the_ATP_Finals_%2849070103618%29.jpg/3840px-Doubles_at_the_ATP_Finals_%2849070103618%29.jpg": {
+  "slug": "london-atp-finals",
+  "verdict": "MATCH",
+  "reason": "patrol replace: ATP Finals tennis court, indoor venue, London",
+  "at": "2026-10-20T22:37:13.269Z"
  },
  "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Doubles_at_the_ATP_Finals_%2849070106548%29.jpg/3840px-Doubles_at_the_ATP_Finals_%2849070106548%29.jpg": {
   "slug": "london-atp-finals",
@@ -20170,6 +20176,12 @@
   "reason": "hand-reviewed: filename shares only \"christkindlesmarkt\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-20T08:30:43.962Z"
  },
+ "nuremberg-nuremberg-christkindlesmarkt\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Christkindlesmarkt_2019_N%C3%BCrnberg_026.jpg/3840px-Christkindlesmarkt_2019_N%C3%BCrnberg_026.jpg": {
+  "slug": "nuremberg-nuremberg-christkindlesmarkt",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Christmas market ornaments, typical Nuremberg Christkindlesm",
+  "at": "2026-10-20T22:38:59.324Z"
+ },
  "nuremberg-nuremberg-christkindlesmarkt\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Christkindlesmarkt_2023_N%C3%BCrnberg_134.jpg/3840px-Christkindlesmarkt_2023_N%C3%BCrnberg_134.jpg": {
   "slug": "nuremberg-nuremberg-christkindlesmarkt",
   "verdict": "MISMATCH",
@@ -21380,8 +21392,8 @@
  "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/5_Seconds_Of_Summer%2C_Hammersmith_Apollo%2C_London_%2846534757555%29.jpg/1920px-5_Seconds_Of_Summer%2C_Hammersmith_Apollo%2C_London_%2846534757555%29.jpg": {
   "slug": "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour",
   "verdict": "MATCH",
-  "reason": "patrol replace: Musician performing with guitar, plausible concert act",
-  "at": "2026-10-18T23:12:14.127Z"
+  "reason": "patrol replace: Guitarist performing on stage, plausibly 5SOS member",
+  "at": "2026-10-20T22:40:14.103Z"
  },
  "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/5_Seconds_of_Summer_First_USA_Acoustic_IMG_3798_%2814848886021%29.jpg/3840px-5_Seconds_of_Summer_First_USA_Acoustic_IMG_3798_%2814848886021%29.jpg": {
   "slug": "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour",
@@ -22561,6 +22573,12 @@
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: filename shares only \"ironman\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-20T08:30:44.154Z"
+ },
+ "puerto-princesa-ironman-70-3-puerto-princesa\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/IRONMAN_70.3_Hradec_Kralove_2024_2.jpg/1920px-IRONMAN_70.3_Hradec_Kralove_2024_2.jpg": {
+  "slug": "puerto-princesa-ironman-70-3-puerto-princesa",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Running race in street with spectators, banners",
+  "at": "2026-10-20T22:40:21.423Z"
  },
  "puerto-princesa-luli-island\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Luli_Island%2C_Honda_Bay%2C_Palawan%2C_Philippines.jpg/3840px-Luli_Island%2C_Honda_Bay%2C_Palawan%2C_Philippines.jpg": {
   "slug": "puerto-princesa-luli-island",
@@ -26343,11 +26361,29 @@
   "reason": "patrol reject: Rural village landscape, unrelated to concert event or venue",
   "at": "2026-10-18T23:13:17.733Z"
  },
+ "singapore-plave-world-tour-keep-it-manic\u0001https://upload.wikimedia.org/wikipedia/commons/c/c1/HE_Plave_1_%28IMG_20250524_101049%29.jpg": {
+  "slug": "singapore-plave-world-tour-keep-it-manic",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Generic office building, not the venue or event",
+  "at": "2026-10-20T22:42:13.311Z"
+ },
  "singapore-plave-world-tour-keep-it-manic\u0001https://upload.wikimedia.org/wikipedia/commons/d/df/PLAVE_04.08.2014_011.jpg": {
   "slug": "singapore-plave-world-tour-keep-it-manic",
   "verdict": "MISMATCH",
   "reason": "patrol reject: Rural mountain landscape, unrelated to event or venue",
   "at": "2026-10-19T23:10:10.694Z"
+ },
+ "singapore-plave-world-tour-keep-it-manic\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Pregrada_Ajba_2.jpg/3840px-Pregrada_Ajba_2.jpg": {
+  "slug": "singapore-plave-world-tour-keep-it-manic",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Dam photo, unrelated to PLAVE concert venue",
+  "at": "2026-10-20T22:42:19.703Z"
+ },
+ "singapore-plave-world-tour-keep-it-manic\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/HE_Plave_1_%28IMG_20250524_101056%29.jpg/3840px-HE_Plave_1_%28IMG_20250524_101056%29.jpg": {
+  "slug": "singapore-plave-world-tour-keep-it-manic",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Generic warehouse building, unrelated to venue or performer",
+  "at": "2026-10-20T22:42:14.894Z"
  },
  "singapore-post-malone-big-ass-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/1/12/Post_Malone_at_the_2019_American_Music_Awards.png": {
   "slug": "singapore-post-malone-big-ass-world-tour",
@@ -27733,6 +27769,12 @@
   "reason": "patrol replace: Modern Taipei storefront, contemporary architecture",
   "at": "2026-09-24T22:49:28.832Z"
  },
+ "taipei-nuit-blanche-taipei-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Nuit_Blanche_Braga_2025_06.jpg/3840px-Nuit_Blanche_Braga_2025_06.jpg": {
+  "slug": "taipei-nuit-blanche-taipei-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Generic street brass band, unrelated to Nuit Blanche Taipei",
+  "at": "2026-10-20T22:42:41.803Z"
+ },
  "taipei-nuit-blanche-taipei-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Nuit_Blanche_Braga_2025_08.jpg/3840px-Nuit_Blanche_Braga_2025_08.jpg": {
   "slug": "taipei-nuit-blanche-taipei-2026",
   "verdict": "MISMATCH",
@@ -27750,6 +27792,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Shows Braga event in Portugal, not Taipei",
   "at": "2026-10-19T23:10:37.815Z"
+ },
+ "taipei-nuit-blanche-taipei-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Nuit_Blanche_Braga_2025_02.jpg/3840px-Nuit_Blanche_Braga_2025_02.jpg": {
+  "slug": "taipei-nuit-blanche-taipei-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Brass band performance unrelated to Nuit Blanche Taipei event",
+  "at": "2026-10-20T22:42:34.157Z"
  },
  "taipei-nuit-blanche-taipei-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Nuit_Blanche_Braga_2025_07.jpg/3840px-Nuit_Blanche_Braga_2025_07.jpg": {
   "slug": "taipei-nuit-blanche-taipei-2026",
@@ -27769,11 +27817,23 @@
   "reason": "patrol reject: Shows Braga event in Portugal, not Taipei",
   "at": "2026-10-19T23:10:47.811Z"
  },
+ "taipei-nuit-blanche-taipei-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nuit_Blanche_Braga_2025_04.jpg/3840px-Nuit_Blanche_Braga_2025_04.jpg": {
+  "slug": "taipei-nuit-blanche-taipei-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated European church setting, not Taipei event venue",
+  "at": "2026-10-20T22:42:46.368Z"
+ },
  "taipei-nuit-blanche-taipei-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Nuit_Blanche_Braga_2025_12.jpg/3840px-Nuit_Blanche_Braga_2025_12.jpg": {
   "slug": "taipei-nuit-blanche-taipei-2026",
   "verdict": "MISMATCH",
   "reason": "patrol reject: Unrelated street decoration scene, not Taipei Expo Park venue",
   "at": "2026-10-19T23:10:27.507Z"
+ },
+ "taipei-nuit-blanche-taipei-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Nuit_Blanche_Braga_2025_05.jpg/3840px-Nuit_Blanche_Braga_2025_05.jpg": {
+  "slug": "taipei-nuit-blanche-taipei-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Street band elsewhere, not Taipei Expo Park event",
+  "at": "2026-10-20T22:42:48.071Z"
  },
  "taipei-nuit-blanche-taipei-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Nuit_Blanche_Braga_2025_16.jpg/3840px-Nuit_Blanche_Braga_2025_16.jpg": {
   "slug": "taipei-nuit-blanche-taipei-2026",
@@ -28138,6 +28198,18 @@
   "verdict": "MATCH",
   "reason": "publish gate: Aerial view of Xiangde Temple complex in Taroko Gorge",
   "at": "2026-09-13T07:53:45.295Z"
+ },
+ "tashkent-5th-president-cup-chess\u0001https://upload.wikimedia.org/wikipedia/commons/4/46/President_Donald_J_Trump_attends_the_President%E2%80%99s_Cup%2C_September_27%2C_2026_%28P20260927JB-0504%29.jpg": {
+  "slug": "tashkent-5th-president-cup-chess",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated person, not chess event in Tashkent",
+  "at": "2026-10-20T22:43:10.133Z"
+ },
+ "tashkent-5th-president-cup-chess\u0001https://upload.wikimedia.org/wikipedia/commons/7/7d/President_Donald_J_Trump_attends_the_President%E2%80%99s_Cup%2C_September_27%2C_2026_%28P20260927JB-0491%29.jpg": {
+  "slug": "tashkent-5th-president-cup-chess",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated subject: man with trophy, not chess event",
+  "at": "2026-10-20T22:43:08.685Z"
  },
  "tashkent-5th-president-cup-chess\u0001https://upload.wikimedia.org/wikipedia/commons/9/9f/President_Donald_J_Trump_attends_the_President%E2%80%99s_Cup%2C_September_27%2C_2026_%28P20260927JB-0924%29.jpg": {
   "slug": "tashkent-5th-president-cup-chess",
