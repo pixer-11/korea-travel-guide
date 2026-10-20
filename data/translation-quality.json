@@ -36860,5 +36860,89 @@
   "registerBreak": false,
   "worst": "戈吉亚要塞则让你换个角度。",
   "at": "2026-10-20T08:21:45.446Z"
+ },
+ "es/auckland-auckland-museum": {
+  "hash": "22bf119b18c0",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "El Día de Anzac (25 de abril), miles de personas se reúnen ante el Cenotafio",
+  "at": "2026-10-20T16:51:17.719Z"
+ },
+ "es/auckland-sky-tower": {
+  "hash": "7103eee66ed5",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-20T16:51:18.746Z"
+ },
+ "es/batumi-fountain": {
+  "hash": "1eab29473708",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Esto se debe a que es un espacio público al aire libre y sin verja, pero no garantiza",
+  "at": "2026-10-20T16:51:22.661Z"
+ },
+ "ja/auckland-auckland-museum": {
+  "hash": "a234fdca88ba",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "博物館であると同時に慰霊の場でもあり、訪れるたびにその両方の顔に触れることになります。",
+  "at": "2026-10-20T16:51:30.632Z"
+ },
+ "ja/auckland-sky-tower": {
+  "hash": "cfa3fa1033d0",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-20T16:51:31.596Z"
+ },
+ "ja/batumi-fountain": {
+  "hash": "f1aaee2769c6",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "そうすれば、にぎやかな見どころの合間に、この噴水で静かなひとときを過ごせます。",
+  "at": "2026-10-20T16:51:32.761Z"
+ },
+ "ko/auckland-auckland-museum": {
+  "hash": "fe0d1a0837c6",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-20T16:51:34.052Z"
+ },
+ "ko/auckland-sky-tower": {
+  "hash": "ea4270b625ef",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "현지인들은 이 탑을 나침반처럼 씁니다. 탑이 보이는 쪽이 곧 도심 방향이기 때문입니다.",
+  "at": "2026-10-20T16:51:35.228Z"
+ },
+ "ko/batumi-fountain": {
+  "hash": "1054a226f22f",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "일부러 찾아오는 여행자가 워낙 적어서 벤치를 거의 독차지할 수 있는 경우가 많습니다.",
+  "at": "2026-10-20T16:51:36.456Z"
+ },
+ "zh/auckland-auckland-museum": {
+  "hash": "1805a848875e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "展厅里模拟了从郊区住宅客厅眺望火山喷发的场景，让地质知识一下子变得真切可感。",
+  "at": "2026-10-20T16:51:37.776Z"
+ },
+ "zh/auckland-sky-tower": {
+  "hash": "021054858e51",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "电梯地板上嵌着一块玻璃，可以看着脚下的塔身越降越远。",
+  "at": "2026-10-20T16:51:52.336Z"
+ },
+ "zh/batumi-fountain": {
+  "hash": "818f33d77ca3",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "谷歌上给它的名字只有简简单单的“喷泉”（Fountain），这本身就说明了很多。",
+  "at": "2026-10-20T16:51:58.113Z"
  }
 }

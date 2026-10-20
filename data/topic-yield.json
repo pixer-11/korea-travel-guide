@@ -2,8 +2,8 @@
  "_note": "Per-topic search→post yield, written by scripts/generate.mjs (scripts/lib/topic-yield.mjs). Seeded 2026-08-23 from the 08-17..23 publish/bulk logs; counts halve past 200 so recent runs weigh more.",
  "topics": {
   "local restaurant": {
-   "attempts": 124,
-   "hits": 14
+   "attempts": 133,
+   "hits": 15
   },
   "historic site": {
    "attempts": 145,
@@ -54,15 +54,15 @@
    "hits": 4
   },
   "hidden gem": {
-   "attempts": 131,
-   "hits": 79
+   "attempts": 141,
+   "hits": 83
   },
   "breakfast": {
    "attempts": 67,
    "hits": 5
   },
   "trendy cafe": {
-   "attempts": 138,
+   "attempts": 140,
    "hits": 11
   },
   "street food": {
@@ -86,8 +86,8 @@
    "hits": 0
   },
   "top attraction": {
-   "attempts": 113,
-   "hits": 81
+   "attempts": 127,
+   "hits": 92
   },
   "grill": {
    "attempts": 56,
@@ -624,7 +624,83 @@
   "Georgian National Museum": {
    "attempts": 1,
    "hits": 1
+  },
+  "Bagrati Cathedral": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Sighnaghi Town Walls": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Svetitskhoveli Cathedral": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Rabati Castle": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Te Anau Glowworm Caves": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Ruakuri Cave": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Gori Fortress": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Kaikoura Peninsula Walkway": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Holy Trinity Cathedral (Sameba)": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Alphabetic Tower": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Hobbiton Movie Set": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Te Puia": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Huka Falls": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Te Papa Tongarewa": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Church of the Good Shepherd": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Franz Josef Glacier": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Puzzling World": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Waitangi Treaty Grounds": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Auckland War Memorial Museum": {
+   "attempts": 1,
+   "hits": 1
   }
  },
- "updated": "2026-10-20T07:59:26.022Z"
+ "updated": "2026-10-20T14:48:08.329Z"
 }

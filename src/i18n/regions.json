@@ -12685,5 +12685,383 @@
       "getting": "大多数旅行者会先飞抵库塔伊西国际机场（KUT），再搭乘出租车或marshrutka小巴前往茨卡尔图博，车程约20到30分钟。由于目前没有直达茨卡尔图博的客运铁路，库塔伊西实际上成为了前往该地的陆路交通枢纽。",
       "days": "一天时间足够走访主要的疗养院和浴场；若有两天，则可以从容游览，并顺道前往附近的普罗米修斯洞穴一游。"
     }
+  },
+  "Auckland": {
+    "en": {
+      "blurb": "Auckland is a city built across two harbours and around a cluster of dormant volcanic cones, giving it a skyline where downtown towers share space with green, crater-topped hills. It is New Zealand's largest city and its main international gateway, with Polynesian, Māori and immigrant communities shaping a food and culture scene that stretches from the waterfront to the inner-city villages beyond.",
+      "getting": "Travellers arrive via Auckland Airport (AKL), located south of the city; there is currently no direct rail line into the airport itself. The usual routes into the centre are the SkyDrive express coach direct to the city, or the AirportLink bus connecting to the suburban rail network at Puhinui Station, with journeys taking roughly ~35 to 85 minutes depending on the option and traffic.",
+      "days": "Allow ~2 to 3 days to cover the harbour waterfront, a volcanic cone walk and a central neighbourhood or two, or ~4 to 5 days if adding a day trip to nearby islands or wine regions."
+    },
+    "ko": {
+      "blurb": "오클랜드는 두 개의 항만을 끼고, 휴화산으로 이루어진 언덕들을 중심으로 발달한 도시로, 도심의 고층 빌딩과 분화구를 품은 초록빛 언덕이 한 폭의 스카이라인 안에 공존한다. 뉴질랜드 최대의 도시이자 국제선의 관문 역할을 하는 이곳에서는 폴리네시아, 마오리, 이민자 커뮤니티가 어우러져 워터프런트부터 시내 안쪽의 소박한 동네들까지 다채로운 음식과 문화를 빚어내고 있다.",
+      "getting": "여행자들은 도심 남쪽에 위치한 오클랜드 공항(AKL)을 통해 입국하며, 현재 공항까지 직접 연결되는 철도는 없다. 시내까지는 보통 시내 직행 급행버스인 스카이드라이브(SkyDrive)를 이용하거나, 푸히누이(Puhinui) 역에서 교외 철도망과 연결되는 에어포트링크(AirportLink) 버스를 타는 방법이 있으며, 선택한 교통수단과 교통 상황에 따라 이동 시간은 약 35분에서 85분 정도 걸린다.",
+      "days": "항만 워터프런트와 화산 언덕 트레킹, 그리고 시내 동네 한두 곳을 둘러보려면 약 2~3일이면 충분하며, 근교 섬이나 와인 산지로의 당일치기 여행까지 더하고 싶다면 4~5일 정도 일정을 잡는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "オークランドは、2つの港にまたがり、いくつもの休火山の丘を取り囲むようにして築かれた街だ。ダウンタウンの高層ビル群と、緑に覆われた火口丘が同じスカイラインに共存する独特の景観を持つ。ニュージーランド最大の都市であり、同国の玄関口でもあるこの街では、ポリネシア系、マオリ、そして移民コミュニティが織りなす食と文化が、ウォーターフロントから内陸の個性豊かな街区まで広がっている。",
+      "getting": "旅行者はまず、市街地の南に位置するオークランド空港(AKL)に到着する。現時点では空港まで直通する鉄道路線はない。市内へ向かう主な手段は、市内直行の急行バス「スカイドライブ」か、プヒヌイ駅で郊外鉄道に接続する「エアポートリンク」バスで、所要時間は選ぶルートや交通状況によっておよそ35〜85分ほど。",
+      "days": "ハーバー沿いのウォーターフロント、火山丘を巡るウォーク、そして中心部の街区を1〜2か所まわるなら、2〜3日ほど見ておくとよい。近郊の島々やワイン産地への日帰り旅行を加えるなら、4〜5日あると余裕を持って楽しめる。"
+    },
+    "es": {
+      "blurb": "Auckland es una ciudad construida entre dos puertos naturales y alrededor de un grupo de conos volcánicos inactivos, lo que le da un perfil urbano donde las torres del centro comparten espacio con colinas verdes coronadas por cráteres. Es la ciudad más grande de Nueva Zelanda y su principal puerta de entrada internacional, con comunidades polinesias, maoríes e inmigrantes que dan forma a una escena gastronómica y cultural que se extiende desde el frente costero hasta los barrios del interior de la ciudad.",
+      "getting": "Los viajeros llegan a través del Aeropuerto de Auckland (AKL), ubicado al sur de la ciudad; actualmente no existe una línea ferroviaria directa hasta el propio aeropuerto. Las rutas habituales hacia el centro son el autocar exprés SkyDrive, que va directo a la ciudad, o el autobús AirportLink, que conecta con la red ferroviaria suburbana en la estación de Puhinui, con trayectos de entre ~35 y 85 minutos según la opción elegida y el tráfico.",
+      "days": "Conviene reservar entre ~2 y 3 días para recorrer el frente portuario, hacer una caminata por un cono volcánico y visitar uno o dos barrios céntricos, o entre ~4 y 5 días si se añade una excursión de un día a las islas cercanas o a las regiones vinícolas."
+    },
+    "zh": {
+      "blurb": "奥克兰是一座横跨两大港湾、环绕着一簇休眠火山丘建成的城市,市中心的高楼与绿意盎然、顶部带火山口的山丘比邻而立,勾勒出独特的天际线。作为新西兰最大的城市及主要国际门户,这里汇聚了波利尼西亚、毛利及各移民社群的文化底蕴,孕育出从海滨地带延伸至市区周边街坊的丰富美食与人文风貌。",
+      "getting": "游客通常经奥克兰机场(AKL)入境,该机场位于市区以南,目前尚无直达机场的铁路线。从机场进城,常见方式是搭乘SkyDrive快线巴士直达市区,或乘坐AirportLink巴士前往普希努伊站(Puhinui Station)换乘郊区火车,具体行程约需35至85分钟,视所选方式及路况而定。",
+      "days": "游览港湾海滨、徒步登火山丘,再逛一两个市中心街区,大约需要2到3天;若想加游附近岛屿或葡萄酒产区,建议安排4到5天。"
+    }
+  },
+  "Christchurch": {
+    "en": {
+      "blurb": "Christchurch, New Zealand's \"Garden City,\" pairs wide parks and the Ōtākaro Avon River with a city centre that has been rebuilt almost from scratch since the devastating 2010 and 2011 earthquakes. It now serves as the main gateway to the South Island, the Southern Alps and even Antarctic expeditions, while retaining the leafy, laid-back feel that gave it its nickname.",
+      "getting": "Most travellers arrive via Christchurch International Airport (CHC), about 12km northwest of the city centre; from there, a public Metro bus (Route 29, the Purple Line) runs to the central Bus Interchange in roughly 30 to 40 minutes, while taxis and rideshares cover the same trip faster. Christchurch is also a rail hub: it is the starting point for the scenic TranzAlpine service across the Southern Alps.",
+      "days": "Plan on ~2 to 3 days to cover the rebuilt city centre, Hagley Park, the Botanic Gardens and the Cathedral Square area, with extra time if you are using Christchurch as a base for day trips into Canterbury or onward rail journeys."
+    },
+    "ko": {
+      "blurb": "뉴질랜드의 '정원 도시' 크라이스트처치는 드넓은 공원과 오타카로 에이번강이 어우러진 곳으로, 2010년과 2011년의 참혹한 지진 이후 도심이 거의 밑바닥부터 새롭게 재건되었습니다. 지금은 사우스 아일랜드와 서던 알프스, 나아가 남극 탐험의 주요 관문 역할을 하면서도, 도시 이름의 유래가 된 푸르고 여유로운 분위기만큼은 그대로 간직하고 있습니다.",
+      "getting": "대부분의 여행자는 시내에서 북서쪽으로 약 12km 떨어진 크라이스트처치 국제공항(CHC)을 통해 도착합니다. 공항에서는 대중교통인 메트로 버스(29번, 퍼플 라인 노선)를 타면 약 30~40분 만에 중앙 버스 환승센터(Bus Interchange)까지 갈 수 있으며, 택시나 차량 공유 서비스를 이용하면 더 빠르게 이동할 수 있습니다. 크라이스트처치는 철도의 중심지이기도 해서, 서던 알프스를 가로지르는 경치 좋은 트랜즈알파인(TranzAlpine) 열차 노선이 바로 이곳에서 출발합니다.",
+      "days": "재건된 도심과 해글리 공원, 식물원, 그리고 대성당 광장(Cathedral Square) 일대를 둘러보려면 대략 2~3일 정도를 계획하시면 됩니다. 크라이스트처치를 캔터베리 당일치기 여행이나 다른 지역으로 이어지는 기차 여행의 거점으로 활용할 계획이라면 일정을 좀 더 여유 있게 잡는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "ニュージーランドの「ガーデンシティ」ことクライストチャーチは、広々とした公園とオタカロ・エイボン川の景観に、2010年と2011年の壊滅的な地震からほぼゼロから再建された中心市街地が組み合わさった街です。現在は南島、サザンアルプス、さらには南極探検への主要な玄関口としての役割を担いながらも、その愛称の由来となった緑豊かでのんびりとした雰囲気を今も残しています。",
+      "getting": "多くの旅行者はクライストチャーチ国際空港(CHC)から入国します。空港は市中心部の北西約12kmに位置し、そこから公共交通機関のメトロバス(29番、パープルライン)に乗れば、中心部のバスインターチェンジまでおよそ30〜40分。タクシーやライドシェアを使えば、同じ区間をより短時間で移動できます。また、クライストチャーチは鉄道の拠点でもあり、サザンアルプスを縦断する景勝路線「トランツアルパイン号」の起点となっています。",
+      "days": "再建された中心市街地、ハグレーパーク、植物園、カテドラル広場周辺を巡るには、2〜3日程度を見ておくとよいでしょう。クライストチャーチをカンタベリー地方への日帰り旅行や、その先の鉄道の旅の拠点として利用する場合は、さらに日数を加えることをおすすめします。"
+    },
+    "es": {
+      "blurb": "Christchurch, la \"Ciudad Jardín\" de Nueva Zelanda, combina amplios parques y el río Ōtākaro Avon con un centro urbano que se ha reconstruido casi desde cero tras los devastadores terremotos de 2010 y 2011. Hoy en día funciona como la principal puerta de entrada a la Isla Sur, los Alpes del Sur e incluso las expediciones a la Antártida, sin perder por ello el ambiente frondoso y relajado que le dio su apodo.",
+      "getting": "La mayoría de los viajeros llega a través del Aeropuerto Internacional de Christchurch (CHC), situado a unos 12 km al noroeste del centro de la ciudad; desde allí, un autobús público de Metro (Ruta 29, la Línea Morada) llega hasta el Bus Interchange central en unos 30 a 40 minutos, mientras que los taxis y los servicios de transporte privado hacen el mismo trayecto más rápido. Christchurch es también un importante nudo ferroviario: es el punto de partida del famoso tren TranzAlpine, que cruza los Alpes del Sur.",
+      "days": "Se recomienda destinar entre 2 y 3 días para recorrer el centro reconstruido de la ciudad, el Hagley Park, los Jardines Botánicos y la zona de Cathedral Square, además de tiempo extra si se utiliza Christchurch como base para excursiones de un día por Canterbury o para continuar el viaje en tren."
+    },
+    "zh": {
+      "blurb": "新西兰的\"花园之城\"克莱斯特彻奇（基督城），既有开阔的公园绿地和穿城而过的奥塔卡罗雅芳河（Ōtākaro Avon River），也有一座在2010年和2011年毁灭性地震后几乎从零重建的市中心。如今，这里已成为前往南岛、南阿尔卑斯山脉乃至南极科考探险的主要门户，却依旧保留着当初让它赢得这个昵称的那份绿意盎然、悠闲自在的气质。",
+      "getting": "大多数旅行者经由克莱斯特彻奇国际机场（CHC）抵达，机场位于市中心西北方向约12公里处；从这里乘坐公共Metro巴士（29路，紫线）前往市中心巴士枢纽（Bus Interchange）大约需要30到40分钟，而出租车或网约车则能更快到达。克莱斯特彻奇同时也是一个铁路枢纽：风光秀丽的TranzAlpine观光列车正是从这里出发，穿越南阿尔卑斯山脉。",
+      "days": "建议安排约2到3天时间游览重建后的市中心、哈格利公园（Hagley Park）、植物园（Botanic Gardens）以及大教堂广场（Cathedral Square）一带；如果打算以克莱斯特彻奇为据点，前往坎特伯雷地区一日游或继续乘火车远行，则需要预留更多时间。"
+    }
+  },
+  "Franz Josef": {
+    "en": {
+      "blurb": "Franz Josef is a small West Coast village pressed between the Southern Alps and the Tasman Sea, famous as the gateway to one of the world's most accessible glaciers. Its rainforest-to-ice scenery and heli-hike access have made it a fixture on South Island itineraries despite its remote, weather-prone location.",
+      "getting": "There is no commercial airport in Franz Josef itself; most travellers fly into Christchurch or Queenstown and then drive or take an InterCity coach along State Highway 6 (~5 hours from Christchurch, ~4 to 5 hours from Queenstown). The closest regional airport is Hokitika (HKK), about 1h40 to 2 hours away by road, while the nearest rail link is the TranzAlpine line, which ends in Greymouth, roughly 2 to 2.5 hours' drive from the village.",
+      "days": "Plan on 1 to 2 days, enough time for a heli-hike or guided glacier walk, a walk to the valley lookout, and a buffer day in case weather disrupts flights or ice access."
+    },
+    "ko": {
+      "blurb": "프란츠 조셉은 서던알프스산맥과 태즈먼해 사이에 자리 잡은 웨스트코스트의 작은 마을로, 세계에서 가장 접근하기 쉬운 빙하 중 하나로 가는 관문으로 유명하다. 우림에서 빙하로 이어지는 풍경과 헬리하이크 체험 덕분에 외지고 날씨 변덕이 심한 위치임에도 불구하고 남섬 여행 일정에서 빠지지 않는 명소로 자리 잡았다.",
+      "getting": "프란츠 조셉에는 상업용 공항이 없어서, 대부분의 여행자는 크라이스트처치나 퀸스타운으로 비행기를 타고 들어온 뒤 차를 몰거나 인터시티(InterCity) 코치를 타고 6번 국도를 따라 이동한다(크라이스트처치에서 약 5시간, 퀸스타운에서 약 4~5시간 소요). 가장 가까운 지역 공항은 호키티카(HKK)로 차로 약 1시간 40분에서 2시간 거리이며, 가장 가까운 철도 노선인 트랜즈알파인(TranzAlpine) 열차는 그레이마우스가 종점으로, 마을까지는 차로 약 2~2.5시간이 걸린다.",
+      "days": "1~2일 정도를 계획하면 헬리하이크나 가이드 동반 빙하 트레킹, 밸리 전망대까지의 산책을 즐기기에 충분하며, 날씨 때문에 헬기 운항이나 빙하 접근이 어그러질 경우를 대비한 여유일도 하루 정도 확보하는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "フランツ・ジョセフは、南アルプスとタスマン海に挟まれたウェストコーストの小さな村で、世界有数のアクセスしやすい氷河への玄関口として知られています。熱帯雨林から氷河へと移り変わる風景と、ヘリハイクでの氷河アクセスが魅力で、人里離れた天候の変わりやすい立地にもかかわらず、南島周遊の定番スポットとなっています。",
+      "getting": "フランツ・ジョセフ自体には商業空港がなく、多くの旅行者はクライストチャーチまたはクイーンズタウンから空路で入り、その後ステートハイウェイ6号線を車またはインターシティのバスで移動します（クライストチャーチから約5時間、クイーンズタウンから約4〜5時間）。最寄りの地方空港はホキティカ（HKK）で、車で約1時間40分〜2時間の距離です。また、最寄りの鉄道路線はトランツアルパイン線ですが、終点はグレイマウスで、村までは車でおよそ2〜2.5時間かかります。",
+      "days": "滞在日数は1〜2日を目安にしましょう。ヘリハイクやガイド付きの氷河ウォーク、谷の展望台までのハイキングを楽しむのに十分な時間であり、天候によってフライトや氷河へのアクセスが妨げられた場合に備えた予備日としても活用できます。"
+    },
+    "es": {
+      "blurb": "Franz Josef es un pequeño pueblo de la Costa Oeste, encajado entre los Alpes del Sur y el mar de Tasmania, conocido por ser la puerta de entrada a uno de los glaciares más accesibles del mundo. Su paisaje que va de la selva tropical al hielo, sumado al acceso en heli-hike, lo han convertido en una parada infaltable en los itinerarios de la Isla Sur, pese a su ubicación remota y su clima impredecible.",
+      "getting": "Franz Josef no cuenta con aeropuerto comercial propio; la mayoría de los viajeros llega en avión a Christchurch o Queenstown y luego se desplaza en auto o en el autobús de InterCity por la Ruta Estatal 6 (unas 5 horas desde Christchurch y entre 4 y 5 horas desde Queenstown). El aeropuerto regional más cercano es el de Hokitika (HKK), a 1h40–2 horas en auto, mientras que el enlace ferroviario más próximo es la línea TranzAlpine, que termina en Greymouth, a unas 2–2,5 horas de viaje por carretera desde el pueblo.",
+      "days": "Se recomienda reservar entre 1 y 2 días, tiempo suficiente para hacer un heli-hike o una caminata guiada por el glaciar, un paseo hasta el mirador del valle, y contar con un día adicional de margen por si el clima afecta los vuelos o el acceso al hielo."
+    },
+    "zh": {
+      "blurb": "弗朗兹·约瑟夫（Franz Josef）是西海岸一座小村庄，坐落于南阿尔卑斯山与塔斯曼海之间，因是世界上最易抵达的冰川之一的门户而闻名。从雨林直抵冰川的壮丽景观，加上直升机徒步（heli-hike）体验，让它成为南岛行程中不可或缺的一站，尽管这里地处偏远、天气多变。",
+      "getting": "弗朗兹·约瑟夫本地没有商业机场，大多数游客会先飞抵基督城（Christchurch）或皇后镇（Queenstown），再沿6号公路（State Highway 6）自驾或搭乘InterCity长途巴士前往（从基督城约5小时车程，从皇后镇约4至5小时车程）。距离最近的区域机场是霍基蒂卡机场（Hokitika，HKK），车程约1小时40分钟至2小时；最近的铁路连接则是途经格雷茅斯（Greymouth）终点站的TranzAlpine观光列车，从格雷茅斯到村庄还需驾车约2至2.5小时。",
+      "days": "建议安排1至2天行程，足够体验一次直升机徒步或向导带领的冰川徒步，再走一走通往山谷观景台的步道，同时预留一天作为缓冲，以防天气影响航班或冰川通行。"
+    }
+  },
+  "Kaikoura": {
+    "en": {
+      "blurb": "Kaikoura is a small peninsula town where the Pacific Ocean drops into a deep underwater canyon just offshore, drawing sperm whales, dusky dolphins and seals within sight of snow-capped mountains. It built its name on crayfish and marine wildlife, and the coastline itself, reshaped by the 2016 earthquake, remains part of its story.",
+      "getting": "Most travellers reach Kaikoura from Christchurch Airport (CHC), New Zealand's main South Island gateway, then continue by road or rail. The seasonal Coastal Pacific train and InterCity buses both run along the coast between Christchurch and Picton, stopping at Kaikoura, with the journey taking ~2.5 to 3 hours.",
+      "days": "Plan on 1 to 2 days, enough time for a whale watching or dolphin swim excursion plus a walk along the seal colony at the peninsula."
+    },
+    "ko": {
+      "blurb": "카이코우라는 해안 바로 앞바다에서 태평양이 깊은 해저 협곡으로 떨어지는 작은 반도 마을로, 눈 덮인 산들을 배경 삼아 향유고래와 더스키돌고래, 물개들이 모여드는 곳이다. 가재(크레이피시)와 해양 야생동물로 명성을 쌓았으며, 2016년 지진으로 모습이 바뀐 해안선 자체도 이 마을 이야기의 한 부분으로 남아 있다.",
+      "getting": "대부분의 여행자는 뉴질랜드 남섬의 주요 관문인 크라이스트처치 공항(CHC)을 통해 들어온 뒤, 도로나 철도로 카이코우라까지 이동한다. 계절 운행하는 코스털 퍼시픽 열차와 인터시티 버스 모두 크라이스트처치와 픽턴 사이 해안을 따라 운행하며 카이코우라에 정차하는데, 소요 시간은 약 2.5~3시간이다.",
+      "days": "1~2일 정도를 계획하면, 고래 관찰이나 돌고래와 함께 수영하는 투어를 즐기고 반도의 물개 서식지를 따라 산책할 충분한 시간이 된다."
+    },
+    "ja": {
+      "blurb": "カイコウラは、太平洋が沖合ですぐに深い海底渓谷へと落ち込む小さな岬の町。マッコウクジラやダスキードルフィン、アザラシが、雪を頂く山々を背景に姿を見せる場所だ。ザリガニ(クレイフィッシュ)と海洋生物で名を馳せてきたこの町にとって、2016年の地震によって姿を変えた海岸線もまた、その物語の一部となっている。",
+      "getting": "多くの旅行者は、ニュージーランド南島の玄関口であるクライストチャーチ空港(CHC)からカイコウラへ向かい、そこから陸路または鉄道で移動する。季節運行のコースタル・パシフィック号(Coastal Pacific)とインターシティ(InterCity)のバスは、どちらもクライストチャーチとピクトンの間の海岸沿いを走り、カイコウラに停車する。所要時間はおよそ2時間半から3時間。",
+      "days": "滞在日数は1〜2日を目安に。ホエールウォッチングやドルフィンスイムのツアーに参加し、さらに岬にあるアザラシのコロニーを歩いて見て回るのに十分な時間だ。"
+    },
+    "es": {
+      "blurb": "Kaikoura es un pequeño pueblo costero asentado en una península, donde el océano Pacífico se hunde en un profundo cañón submarino justo frente a la orilla, atrayendo a cachalotes, delfines oscuros y lobos marinos, todo ello a la vista de montañas coronadas de nieve. Su fama se forjó gracias a la langosta de roca y a su fauna marina, y la propia costa, remodelada por el terremoto de 2016, sigue siendo parte de su historia.",
+      "getting": "La mayoría de los viajeros llegan a Kaikoura desde el aeropuerto de Christchurch (CHC), la principal puerta de entrada a la Isla Sur de Nueva Zelanda, y luego continúan por carretera o en tren. Tanto el tren estacional Coastal Pacific como los autobuses de InterCity recorren la costa entre Christchurch y Picton, con parada en Kaikoura, en un trayecto de entre 2,5 y 3 horas aproximadamente.",
+      "days": "Conviene reservar entre 1 y 2 días, tiempo suficiente para hacer una excursión de avistamiento de ballenas o nado con delfines, además de una caminata junto a la colonia de lobos marinos en la península."
+    },
+    "zh": {
+      "blurb": "凯库拉（Kaikoura）是一座坐落在半岛上的小镇，近海之处便是一道深邃的海底峡谷，太平洋在此骤然下陷，吸引了抹香鲸、暗色斑纹海豚和海豹纷纷前来，雪山就在不远处遥遥相望。这座小镇因盛产小龙虾和丰富的海洋生物而闻名，而2016年地震重塑的海岸线，如今也成了它故事的一部分。",
+      "getting": "大多数旅行者会先抵达新西兰南岛的主要门户——基督城机场（CHC），再转乘陆路或铁路前往凯库拉。季节性运营的海岸太平洋号列车（Coastal Pacific train）和InterCity长途巴士都沿海岸线行驶于基督城与皮克顿（Picton）之间，途经凯库拉，车程约2.5至3小时。",
+      "days": "建议安排1到2天时间，足够进行一次观鲸或与海豚共游的活动，再沿着半岛走一走，看看海豹聚居的景象。"
+    }
+  },
+  "Lake Tekapo": {
+    "en": {
+      "blurb": "Lake Tekapo is famous for its vivid turquoise water, set against the Southern Alps in the Mackenzie Basin. The village sits inside the Aoraki Mackenzie International Dark Sky Reserve, with Mount John Observatory, a working University of Canterbury research site, rising above the lake and drawing stargazers after dark.",
+      "getting": "Most travellers fly into Christchurch Airport (CHC) and then travel overland, as there is no direct bus from the airport itself; coaches run from central Christchurch to Tekapo, typically taking ~3.5 to 4 hours, or it is a ~2.5 to 3 hour drive by car. A dedicated daily bus service also links Tekapo directly with Christchurch Airport via the Mackenzie Basin towns.",
+      "days": "Plan on 1 to 2 days: enough for a lakeside walk past the Church of the Good Shepherd, a daytime visit to Mount John, and at least one clear night for stargazing."
+    },
+    "ko": {
+      "blurb": "테카포 호수는 서던 알프스를 배경으로 매켄지 분지에 자리 잡은, 선명한 터키빛 물빛으로 유명한 곳입니다. 마을은 아오라키 매켄지 국제 다크 스카이 보호구역 안에 위치해 있으며, 호수 위로 솟은 마운트 존 천문대는 캔터베리 대학교가 실제로 운영하는 연구 시설로, 해가 진 뒤면 별을 보러 온 사람들을 끌어모읍니다.",
+      "getting": "대부분의 여행자는 크라이스트처치 공항(CHC)으로 입국한 뒤 육로로 이동합니다. 공항에서 테카포까지 바로 가는 버스는 없기 때문에, 크라이스트처치 시내에서 출발하는 코치를 이용하면 보통 3시간 30분에서 4시간 정도 걸리고, 직접 운전할 경우에는 약 2시간 30분에서 3시간이 소요됩니다. 매켄지 분지의 소도시들을 거쳐 테카포와 크라이스트처치 공항을 바로 연결하는 매일 운행하는 전용 버스 노선도 있습니다.",
+      "days": "1박 2일 정도면 충분합니다. 굿 셰퍼드 교회를 지나는 호숫가 산책을 즐기고, 낮에는 마운트 존을 둘러본 뒤, 맑은 밤 하루 정도는 꼭 남겨 별을 감상해 보세요."
+    },
+    "ja": {
+      "blurb": "テカポ湖は、マッケンジー盆地にサザンアルプスを背景にして広がる、鮮やかなターコイズブルーの湖水で知られています。村はアオラキ・マッケンジー国際ダークスカイ・リザーブの中にあり、湖を見下ろす丘の上にはカンタベリー大学の現役の研究施設であるマウント・ジョン天文台がそびえ立ち、日が暮れると星空観測に訪れる人々を惹きつけます。",
+      "getting": "多くの旅行者はまずクライストチャーチ空港(CHC)に到着し、そこから陸路でテカポへ向かいます。空港から直接出ているバスはないため、クライストチャーチ市街地からテカポまでの長距離バスを利用するのが一般的で、所要時間は約3.5〜4時間です。車であれば約2.5〜3時間ほどで到着します。また、マッケンジー盆地の町々を経由してクライストチャーチ空港とテカポを直接結ぶ専用の毎日運行バスも利用できます。",
+      "days": "滞在日数は1〜2日を目安にすると良いでしょう。これだけあれば、善き羊飼いの教会のそばを通る湖畔の散策、日中のマウント・ジョン訪問、そして星空観測に適した晴れた夜を少なくとも1回は楽しむことができます。"
+    },
+    "es": {
+      "blurb": "El lago Tekapo es famoso por sus intensas aguas turquesa, que contrastan con el telón de fondo de los Alpes del Sur, en la cuenca de Mackenzie. El pueblo se encuentra dentro de la Reserva Internacional de Cielo Oscuro Aoraki Mackenzie, con el Observatorio de Mount John —un centro de investigación en funcionamiento de la Universidad de Canterbury— elevándose sobre el lago y atrayendo a los amantes de la astronomía una vez caída la noche.",
+      "getting": "La mayoría de los viajeros llega en avión al aeropuerto de Christchurch (CHC) y continúa el trayecto por tierra, ya que no existe un bus directo desde el propio aeropuerto: los autobuses parten del centro de Christchurch hacia Tekapo y suelen tardar entre 3,5 y 4 horas, mientras que en auto el viaje dura entre 2,5 y 3 horas. También hay un servicio de autobús diario que conecta Tekapo directamente con el aeropuerto de Christchurch, pasando por los pueblos de la cuenca de Mackenzie.",
+      "days": "Conviene reservar entre 1 y 2 días: tiempo suficiente para dar un paseo junto al lago hasta la Iglesia del Buen Pastor, visitar Mount John durante el día y contar con al menos una noche despejada para observar las estrellas."
+    },
+    "zh": {
+      "blurb": "蒂卡普湖以其在麦肯齐盆地南阿尔卑斯山映衬下呈现出的鲜艳绿松石色湖水而闻名。小镇坐落于奥拉基·麦肯齐国际暗夜保护区内，坎特伯雷大学的约翰山天文台研究站就矗立在湖畔山巅，夜幕降临后总能吸引大批观星爱好者前来。",
+      "getting": "大多数旅客会先飞抵基督城机场（CHC），再转乘陆路交通前往，因为机场本身并没有直达班车。长途巴士从基督城市区出发前往蒂卡普，车程大约3.5到4小时；若自驾则约需2.5到3小时。此外，还有一班每日固定发车的巴士，途经麦肯齐盆地沿线小镇，直接连接蒂卡普与基督城机场。",
+      "days": "建议安排1到2天的行程：足以让你沿湖边漫步，途经好牧羊人教堂，白天上约翰山游览，再留出至少一个晴朗的夜晚仰望星空。"
+    }
+  },
+  "Matamata": {
+    "en": {
+      "blurb": "Matamata is a small Waikato farming town that found global fame as the real-world setting for Hobbiton, with rolling green pasture that doubled as the Shire in the Lord of the Rings and Hobbit films. Beyond the movie set, it remains a working rural hub known for thoroughbred horse breeding and easy access to the wider Waikato countryside.",
+      "getting": "Most travellers fly into Auckland Airport (AKL) and continue by rental car or InterCity coach, a journey of around 2 to 2.5 hours via State Highway 1 and State Highway 27. Hamilton Airport (HLZ) is the closest airport, roughly ~45 minutes to an hour away by road, with onward buses or taxis into town; InterCity coaches also connect Matamata directly from Hamilton's Transport Centre, arriving at the i-SITE on Broadway.",
+      "days": "Plan on ~1 to 2 days: enough for a half-day Hobbiton tour plus a night in town to explore the domain, local cafes, and surrounding countryside at an easy pace."
+    },
+    "ko": {
+      "blurb": "마타마타는 와이카토 지역의 작은 농촌 마을이지만, 영화 '반지의 제왕'과 '호빗' 시리즈에서 샤이어의 배경으로 등장한 호빗마을(호비톤)의 실제 촬영지로 세계적인 명성을 얻었습니다. 영화 세트장을 떠나서도, 이곳은 혈통 좋은 경주마 사육지로 알려진 활기찬 농업 중심지이자 광활한 와이카토 전원 지역으로 쉽게 이동할 수 있는 거점 역할을 하고 있습니다.",
+      "getting": "대부분의 여행객은 오클랜드 공항(AKL)으로 입국한 뒤 렌터카나 인터시티(InterCity) 코치를 이용해 이동하며, State Highway 1과 State Highway 27을 거쳐 약 2시간에서 2시간 30분 정도 소요됩니다. 가장 가까운 공항은 해밀턴 공항(HLZ)으로, 차로 약 45분에서 1시간 거리에 있으며 이후 버스나 택시를 이용해 시내로 들어갈 수 있습니다. 또한 인터시티 코치는 해밀턴 교통센터(Transport Centre)에서 마타마타까지 직행으로 연결되며, 브로드웨이(Broadway)에 위치한 i-SITE에 도착합니다.",
+      "days": "1박 2일 정도면 충분합니다. 반나절 일정으로 호비톤 투어를 즐기고, 하룻밤 머물며 도메인(Domain) 공원과 지역 카페, 그리고 주변 전원 풍경을 여유롭게 둘러보기에 알맞은 시간입니다."
+    },
+    "ja": {
+      "blurb": "マタマタはワイカト地方にある小さな農業の町ですが、映画『ロード・オブ・ザ・リング』や『ホビット』シリーズでホビット庄(シャイア)の舞台として使われた「ホビトン」の実在のロケ地として、世界的に知られるようになりました。映画セットの名所としてだけでなく、サラブレッドの繁殖で知られる農業の中心地としての顔も持ち、ワイカト地方の田園地帯を巡る拠点としても便利な町です。",
+      "getting": "多くの旅行者はオークランド空港(AKL)に到着し、そこからレンタカーやインターシティ(InterCity)の長距離バスでマタマタへ向かいます。国道1号線(State Highway 1)と27号線(State Highway 27)を経由して、所要時間はおよそ2時間から2時間半です。最寄りの空港はハミルトン空港(HLZ)で、車で約45分から1時間ほどの距離にあり、そこからバスやタクシーで町まで移動できます。また、インターシティのバスはハミルトンのトランスポートセンターからマタマタへ直通しており、ブロードウェイ(Broadway)沿いのi-SITEに到着します。",
+      "days": "滞在の目安は1〜2日です。半日あればホビトンツアーを楽しめますが、もう一泊して町の中心にある公園やローカルカフェを巡ったり、周辺の田園風景をのんびり楽しんだりするのもおすすめです。"
+    },
+    "es": {
+      "blurb": "Matamata es un pequeño pueblo agrícola de la región de Waikato que alcanzó fama mundial como el escenario real de Hobbiton, con colinas de pasto verde que se transformaron en la Comarca para las películas de El Señor de los Anillos y El Hobbit. Más allá del set de filmación, sigue siendo un activo centro rural reconocido por la cría de caballos pura sangre y por su fácil acceso al resto de la campiña de Waikato.",
+      "getting": "La mayoría de los viajeros llega por el aeropuerto de Auckland (AKL) y continúa en auto de alquiler o en autobús de InterCity, un trayecto de entre 2 y 2,5 horas por la State Highway 1 y la State Highway 27. El aeropuerto de Hamilton (HLZ) es el más cercano, a unos 45 minutos o una hora por carretera, con autobuses o taxis que completan el trayecto hasta el pueblo; los autobuses de InterCity también conectan Matamata directamente desde el Transport Centre de Hamilton, llegando hasta el i-SITE en Broadway.",
+      "days": "Calcula entre 1 y 2 días: suficiente para un tour de medio día por Hobbiton más una noche en el pueblo para explorar el dominio, las cafeterías locales y la campiña circundante con calma."
+    },
+    "zh": {
+      "blurb": "马塔马塔是怀卡托地区一个不起眼的农业小镇,却因作为《霍比特人》和《指环王》系列电影中霍比屯的实景拍摄地而声名远扬。连绵起伏的绿色牧场,正是电影中夏尔的化身。除了这片闻名世界的片场,马塔马塔本身仍是一个以纯种马养殖闻名的乡村重镇,也是前往怀卡托更广阔田园地区的理想门户。",
+      "getting": "大多数游客会先飞抵奥克兰机场(AKL),再租车或搭乘InterCity长途巴士前往,沿1号和27号国道行驶,车程约2至2.5小时。离马塔马塔最近的机场是汉密尔顿机场(HLZ),车程约45分钟至1小时,下机后可换乘巴士或出租车进城;此外,InterCity长途巴士也可从汉密尔顿交通中心直达马塔马塔,终点站为Broadway街上的游客中心(i-SITE)。",
+      "days": "建议安排1至2天行程:半天时间足够游览霍比屯,再留一晚在镇上住宿,悠闲地逛逛当地的公园绿地、咖啡馆以及周边乡村风光。"
+    }
+  },
+  "Paihia": {
+    "en": {
+      "blurb": "Paihia sits on the edge of the Bay of Islands, a cluster of beaches, sheltered waters and historic Waitangi grounds that make it the main base for exploring the region. It is a compact, laid-back holiday town built for boat trips, ferries and coastal walks rather than city sightseeing.",
+      "getting": "The nearest airport is Kerikeri (KKE), roughly 20 minutes away by taxi or shuttle, while Auckland remains the main international gateway, connected to Paihia by InterCity coaches that take ~4 hours. Many travellers also drive from Auckland via State Highway 1, a trip of around 3 hours.",
+      "days": "Plan on ~2 to 3 days to cover Paihia's waterfront, a Bay of Islands cruise and a ferry trip across to Russell."
+    },
+    "ko": {
+      "blurb": "파이히아는 베이오브아일랜즈(Bay of Islands) 가장자리에 자리한 곳으로, 아름다운 해변과 잔잔한 바다, 그리고 역사적인 와이탕이(Waitangi) 유적지가 어우러져 이 지역을 둘러보기 위한 주요 거점 역할을 한다. 도심 관광보다는 보트 투어와 페리, 해안 산책을 즐기기에 안성맞춤인 아담하고 여유로운 휴양 마을이다.",
+      "getting": "가장 가까운 공항은 케리케리(KKE)로, 택시나 셔틀로 약 20분 거리에 있다. 하지만 주요 국제 관문은 역시 오클랜드이며, 인터시티(InterCity) 고속버스를 이용하면 파이히아까지 약 4시간이 걸린다. 많은 여행객들이 1번 국도(State Highway 1)를 따라 오클랜드에서 직접 차를 몰고 오기도 하는데, 이 경우 약 3시간 정도 소요된다.",
+      "days": "파이히아의 해안가 풍경과 베이오브아일랜즈 크루즈, 그리고 러셀(Russell)까지 다녀오는 페리 여행을 둘러보려면 약 2~3일 정도를 계획하는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "パイヒアはベイ・オブ・アイランズの入り江に位置し、点在するビーチや穏やかな海、歴史的なワイタンギの地を擁する、この地域を巡る際の拠点となる町です。都会的な観光というよりも、ボートツアーやフェリー、海沿いの散策を楽しむための、こぢんまりとしてのんびりとしたリゾートタウンです。",
+      "getting": "最寄り空港はケリケリ空港(KKE)で、タクシーやシャトルでおよそ20分の距離です。国際線の主要な玄関口は引き続きオークランドで、インターシティのバスでパイヒアまで約4時間かかります。オークランドから国道1号線(State Highway 1)を車で移動する旅行者も多く、所要時間は約3時間です。",
+      "days": "パイヒアのウォーターフロント散策、ベイ・オブ・アイランズのクルーズ、そしてラッセルへのフェリーでの渡航を楽しむには、2〜3日ほど見ておくとよいでしょう。"
+    },
+    "es": {
+      "blurb": "Paihia se asienta en el borde de la Bay of Islands, un conjunto de playas, aguas resguardadas y los históricos terrenos de Waitangi que la convierten en la base principal para explorar la región. Es un pueblo vacacional compacto y de ambiente relajado, pensado para paseos en barco, ferris y caminatas costeras, más que para el turismo urbano.",
+      "getting": "El aeropuerto más cercano es Kerikeri (KKE), a unos 20 minutos en taxi o shuttle, mientras que Auckland sigue siendo la principal puerta de entrada internacional, conectada con Paihia mediante los autobuses de InterCity, que tardan aproximadamente 4 horas. Muchos viajeros también optan por conducir desde Auckland por la State Highway 1, un trayecto de unas 3 horas.",
+      "days": "Se recomienda dedicar entre 2 y 3 días para recorrer el frente costero de Paihia, hacer un crucero por la Bay of Islands y cruzar en ferri hasta Russell."
+    },
+    "zh": {
+      "blurb": "帕伊希亚坐落在群岛湾（Bay of Islands）边上，这里沙滩连绵、海湾静谧，还有历史悠久的怀唐伊（Waitangi）遗址，是游览整个地区的主要据点。这是一个小巧惬意的度假小镇，更适合乘船出海、搭渡轮往来、沿海岸漫步，而非都市观光。",
+      "getting": "距离最近的机场是凯里凯里机场（KKE），搭乘出租车或接驳车约20分钟即可抵达；而奥克兰仍是主要的国际门户，可乘坐InterCity长途巴士前往帕伊希亚，车程约4小时。许多旅客也会选择沿1号国道（State Highway 1）自驾前往，车程约3小时。",
+      "days": "建议安排2到3天时间，游览帕伊希亚的海滨风光，参加一次群岛湾巡游，并乘渡轮前往罗素（Russell）一日游。"
+    }
+  },
+  "Queenstown": {
+    "en": {
+      "blurb": "Queenstown sits on the shores of Lake Wakatipu in the Southern Alps, where snow-capped peaks drop straight into deep blue water. Known as the self-proclaimed \"adventure capital\" of New Zealand, it packs bungy jumping, skiing, hiking and wine country into a compact alpine town.",
+      "getting": "Most travellers fly into Queenstown Airport (ZQN), which has direct domestic links to Auckland, Wellington and Christchurch plus some direct flights from Australia; the airport sits only ~15 minutes from the town centre by taxi, shuttle or bus. There is no rail service to Queenstown, so those arriving overland rely on InterCity coaches from regional hubs such as Christchurch or Dunedin.",
+      "days": "Plan on ~3-4 days to cover the main lake and mountain activities, with extra time if side trips to Milford Sound or Fiordland are on the list."
+    },
+    "ko": {
+      "blurb": "퀸스타운은 서던알프스산맥 안에 자리한 와카티푸 호수 기슭에 위치한 도시로, 만년설을 이고 있는 봉우리들이 짙푸른 호숫물로 그대로 떨어져 내리는 듯한 풍경을 자랑합니다. 스스로를 뉴질랜드의 \"모험 수도\"라 칭할 만큼, 번지 점프, 스키, 하이킹, 와인 산지 투어까지 다채로운 액티비티를 아담한 알프스 마을 안에 모두 담고 있습니다.",
+      "getting": "대부분의 여행자는 퀸스타운 공항(ZQN)을 통해 도착합니다. 이 공항은 오클랜드, 웰링턴, 크라이스트처치와 국내선으로 직접 연결되며, 호주발 직항편도 일부 운항합니다. 공항에서 시내 중심가까지는 택시, 셔틀, 버스로 약 15분 거리입니다. 퀸스타운에는 철도가 연결되어 있지 않기 때문에, 육로로 이동하는 여행자는 크라이스트처치나 더니든 같은 주요 거점 도시에서 출발하는 인터시티(InterCity) 고속버스를 이용하게 됩니다.",
+      "days": "호수와 산을 중심으로 한 주요 액티비티를 즐기려면 3~4일 정도를 계획하시고, 밀포드 사운드나 피오르드랜드로의 당일/1박 여행을 추가하실 경우 일정을 더 여유 있게 잡으시길 권합니다."
+    },
+    "ja": {
+      "blurb": "クイーンズタウンは、サザンアルプスの懐に抱かれたワカティプ湖のほとりに広がる町。雪をかぶった山々が、そのまま深い青色の湖面へと落ち込んでいく絶景が広がります。ニュージーランド随一を自負する「アドベンチャーの首都」として知られ、バンジージャンプ、スキー、ハイキング、ワイナリー巡りまで、コンパクトな高原の町にぎゅっと詰め込まれています。",
+      "getting": "多くの旅行者はクイーンズタウン空港(ZQN)を利用します。オークランド、ウェリントン、クライストチャーチからの国内直行便に加え、オーストラリアからの直行便もあります。空港から町の中心部まではタクシー、シャトルバス、路線バスでわずか約15分。クイーンズタウンには鉄道が通っていないため、陸路で訪れる場合はクライストチャーチやダニーデンといった地方の拠点都市からのインターシティ(InterCity)の長距離バスが頼りになります。",
+      "days": "湖とその周辺の山岳アクティビティを一通り楽しむには、3~4日ほど見ておくとよいでしょう。ミルフォード・サウンドやフィヨルドランドへの小旅行を計画に入れる場合は、さらに日数を加えておくことをおすすめします。"
+    },
+    "es": {
+      "blurb": "Queenstown se asienta a orillas del lago Wakatipu, en plenos Alpes del Sur, donde los picos nevados caen en picado directamente hacia las aguas de un intenso azul. Conocida como la autoproclamada \"capital de la aventura\" de Nueva Zelanda, concentra puenting, esquí, senderismo y zonas vinícolas en un compacto pueblo alpino.",
+      "getting": "La mayoría de los viajeros llega en avión al Aeropuerto de Queenstown (ZQN), que cuenta con conexiones directas nacionales a Auckland, Wellington y Christchurch, además de algunos vuelos directos desde Australia; el aeropuerto se encuentra a tan solo unos 15 minutos del centro de la ciudad en taxi, shuttle o autobús. Queenstown no cuenta con servicio ferroviario, por lo que quienes llegan por tierra dependen de los autobuses de InterCity desde centros regionales como Christchurch o Dunedin.",
+      "days": "Se recomienda planificar entre 3 y 4 días para cubrir las principales actividades del lago y la montaña, y sumar tiempo extra si se incluyen excursiones a Milford Sound o Fiordland."
+    },
+    "zh": {
+      "blurb": "皇后镇坐落在南阿尔卑斯山脉怀抱中的瓦卡蒂普湖畔，白雪皑皑的山峰一路直插湛蓝的湖水之中。它自诩为新西兰的\"冒险之都\"，蹦极、滑雪、徒步和葡萄酒产区在这座小巧的高山小镇里一应俱全。",
+      "getting": "大多数游客选择飞抵皇后镇机场（ZQN），该机场有飞往奥克兰、惠灵顿和基督城的国内直飞航班，也有部分来自澳大利亚的直飞航线；机场距市中心仅约15分钟车程，可搭乘出租车、接驳车或巴士前往。皇后镇没有铁路服务，因此走陆路前来的旅客通常依靠InterCity长途巴士，从基督城或但尼丁等区域枢纽出发。",
+      "days": "建议安排3-4天来游览湖区和山区的主要活动，如果计划前往米尔福德峡湾或菲奥德兰地区，则需要额外留出时间。"
+    }
+  },
+  "Rotorua": {
+    "en": {
+      "blurb": "Rotorua sits atop one of the world's most active geothermal zones, a city of bubbling mud pools, steaming vents and erupting geysers that locals have lived alongside for generations. It is also one of New Zealand's foremost centres of Maori culture, where traditional villages, carving and performance sit side by side with the volcanic landscape.",
+      "getting": "Rotorua Airport (ROT) connects directly to Auckland by air in around 45 minutes; most travellers instead drive from Auckland via State Highway 1 and 5, a trip of roughly 2.5 to 3 hours, or take a long-distance coach from the regional hub in Auckland.",
+      "days": "Plan on ~2 to 3 days to cover the main geothermal parks and a Maori cultural experience, with longer stays suited to travellers adding lake activities or mountain biking."
+    },
+    "ko": {
+      "blurb": "로토루아는 세계에서 가장 활발한 지열 지대 위에 자리한 도시로, 보글보글 끓어오르는 진흙 웅덩이와 뿜어져 나오는 증기, 간헐천이 곳곳에서 솟아오르는 가운데 주민들은 대대로 이런 풍경과 더불어 살아왔다. 또한 로토루아는 뉴질랜드 마오리 문화의 대표적인 중심지이기도 해서, 전통 마을과 목공예, 공연 문화가 화산 지형과 어우러져 독특한 분위기를 자아낸다.",
+      "getting": "로토루아 공항(ROT)은 오클랜드와 항공편으로 직접 연결되며 비행 시간은 약 45분이다. 하지만 대부분의 여행자는 오클랜드에서 1번, 5번 국도를 이용해 차로 이동하는 편을 택하는데, 소요 시간은 약 2시간 30분에서 3시간 정도다. 오클랜드의 장거리 버스 터미널에서 코치를 이용하는 것도 한 방법이다.",
+      "days": "주요 지열 공원과 마오리 문화 체험을 둘러보려면 2~3일 정도를 잡는 것이 적당하며, 호수 액티비티나 마운틴 바이킹까지 즐기고 싶다면 좀 더 여유 있게 일정을 잡는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "ロタヤは世界有数の地熱活動地帯に位置する都市で、泥湯がぶくぶくと煮え立ち、蒸気が噴き出し、間欠泉が吹き上がる風景の中で、地元の人々は何世代にもわたって暮らしてきました。また、ニュージーランドでも屈指のマオリ文化の中心地でもあり、伝統的な村落や彫刻、伝統芸能が、この火山の大地とともに息づいています。",
+      "getting": "ロトルア空港(ROT)はオークランドと空路で直結しており、所要時間は約45分です。ただし多くの旅行者は、州道1号線・5号線を経由してオークランドから車で向かうルートを選びます。所要時間はおよそ2.5~3時間です。また、オークランドの主要バスターミナルから長距離バスを利用することもできます。",
+      "days": "主要な地熱公園とマオリ文化体験を一通り楽しむには、2~3日程度を見ておくとよいでしょう。湖でのアクティビティやマウンテンバイクも組み込みたい場合は、もう少し滞在日数を延ばすのがおすすめです。"
+    },
+    "es": {
+      "blurb": "Rotorua se asienta sobre una de las zonas geotérmicas más activas del mundo, una ciudad de pozas de barro burbujeante, fumarolas humeantes y géiseres en erupción con los que los habitantes locales han convivido durante generaciones. Es además uno de los principales centros de la cultura maorí en Nueva Zelanda, donde los poblados tradicionales, el arte de la talla y las representaciones escénicas conviven con el paisaje volcánico.",
+      "getting": "El aeropuerto de Rotorua (ROT) tiene vuelos directos a Auckland de unos 45 minutos; sin embargo, la mayoría de los viajeros prefiere conducir desde Auckland por las rutas estatales 1 y 5, un trayecto de aproximadamente 2,5 a 3 horas, o tomar un autobús de larga distancia desde el centro de conexiones de Auckland.",
+      "days": "Se recomienda dedicar entre 2 y 3 días para recorrer los principales parques geotérmicos y vivir una experiencia cultural maorí; una estadía más larga es ideal para quienes deseen sumar actividades en el lago o salidas en bicicleta de montaña."
+    },
+    "zh": {
+      "blurb": "罗托鲁瓦坐落于世界上地热活动最活跃的区域之一，泥浆池咕嘟冒泡、地热喷气孔蒸汽缭绕、间歇泉喷薄而出，当地居民世世代代都与这片奇特的地貌为伴。这里也是新西兰毛利文化的重要中心，传统村落、精湛雕刻与歌舞表演，与火山地貌交相辉映，共同构成这座城市独特的风情。",
+      "getting": "罗托鲁瓦机场（ROT）与奥克兰之间有直飞航班，飞行时间约45分钟；不过大多数游客选择自驾，沿1号和5号国道从奥克兰出发，车程大约2.5到3小时，也可以从奥克兰的长途汽车枢纽搭乘长途巴士前往。",
+      "days": "建议安排约2到3天时间，游览主要的地热公园并体验毛利文化；如果还想安排湖上活动或山地骑行，不妨多留几天。"
+    }
+  },
+  "Taupo": {
+    "en": {
+      "blurb": "Taupo sits on the shores of its namesake lake, New Zealand's largest, cradled inside a vast volcanic caldera that last erupted catastrophically around 1,800 years ago. The town is a gateway to geothermal valleys, trout-filled rivers and the snowy peaks of Tongariro National Park, making it as much an adventure base as a scenic stopover.",
+      "getting": "Most travellers reach Taupo by road or coach rather than rail, since no passenger train line serves the town. Taupo Airport (TUO) has domestic flights to and from Auckland, while InterCity coaches link Taupo to Auckland, Wellington and other regional hubs, with the Auckland to Taupo drive taking ~3 to 4 hours.",
+      "days": "Plan on ~2 to 3 days to cover the lakefront, geothermal sights and a short hike or watersports session, or longer if you're using Taupo as a base for Tongariro Alpine Crossing day trips."
+    },
+    "ko": {
+      "blurb": "타우포는 뉴질랜드에서 가장 큰 호수인 타우포 호수 기슭에 자리 잡고 있으며, 약 1,800년 전 대규모로 분화했던 광대한 화산 칼데라 안에 포근히 안겨 있습니다. 이 마을은 지열 계곡과 송어가 가득한 강, 통가리로 국립공원의 설산으로 향하는 관문으로, 경치 좋은 경유지일 뿐 아니라 모험을 즐기기에도 더없이 좋은 거점입니다.",
+      "getting": "타우포까지 가는 여객 철도가 없기 때문에 대부분의 여행자는 기차 대신 자동차나 장거리 버스를 이용해 이동합니다. 타우포 공항(TUO)에서는 오클랜드를 오가는 국내선이 운항되며, 인터시티(InterCity) 코치는 타우포와 오클랜드, 웰링턴 등 주요 지역 거점을 연결합니다. 오클랜드에서 타우포까지 차로는 약 3~4시간이 소요됩니다.",
+      "days": "호숫가 산책과 지열 명소 관람, 짧은 하이킹이나 수상 스포츠까지 즐기려면 약 2~3일 정도가 적당합니다. 타우포를 통가리로 알파인 크로싱 당일치기 여행의 거점으로 삼을 계획이라면 체류 기간을 더 늘리는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "タウポは、ニュージーランド最大の湖である同名の湖畔に広がる町で、約1800年前に壊滅的な噴火を起こした巨大な火山カルデラの中に抱かれるように位置しています。地熱地帯、マスが泳ぐ川、そしてトンガリロ国立公園の雪を頂く山々への玄関口であり、景色を楽しむだけの立ち寄り先というよりも、アドベンチャーの拠点としての顔を持つ町です。",
+      "getting": "タウポには旅客鉄道が通っていないため、ほとんどの旅行者は道路かコーチバスでアクセスします。タウポ空港(TUO)はオークランドとの間に国内線が就航しており、またインターシティのコーチバスがタウポとオークランド、ウェリントン、その他の主要都市を結んでいます。オークランドからタウポまでは車で約3〜4時間です。",
+      "days": "湖畔の散策、地熱スポット巡り、短いハイキングやウォータースポーツを楽しむなら2〜3日ほど見ておくとよいでしょう。トンガリロ・アルパイン・クロッシングの日帰りツアーの拠点としてタウポを利用する場合は、もう少し長めの滞在がおすすめです。"
+    },
+    "es": {
+      "blurb": "Taupo se asienta a orillas del lago que lleva su nombre, el más grande de Nueva Zelanda, enclavado en una vasta caldera volcánica que entró en erupción de forma catastrófica por última vez hace unos 1.800 años. La ciudad es la puerta de entrada a valles geotérmicos, ríos repletos de truchas y las cumbres nevadas del Parque Nacional Tongariro, lo que la convierte tanto en una base de aventuras como en una parada llena de paisajes.",
+      "getting": "La mayoría de los viajeros llega a Taupo por carretera o en autobús, ya que ninguna línea de tren de pasajeros da servicio a la ciudad. El aeropuerto de Taupo (TUO) ofrece vuelos domésticos hacia y desde Auckland, mientras que los autobuses de InterCity conectan Taupo con Auckland, Wellington y otros centros regionales; el trayecto en coche desde Auckland hasta Taupo dura entre 3 y 4 horas aproximadamente.",
+      "days": "Calcula entre 2 y 3 días para recorrer el frente del lago, las atracciones geotérmicas y hacer una caminata corta o practicar deportes acuáticos, o más tiempo si vas a usar Taupo como base para excursiones de un día al Tongariro Alpine Crossing."
+    },
+    "zh": {
+      "blurb": "陶波镇坐落在与其同名的湖泊——新西兰最大湖泊——岸边,整个小镇被一个巨大的火山破火山口环抱,这座火山最近一次剧烈喷发大约发生在1800年前。小镇是通往地热谷、鳟鱼成群的河流以及通格里罗国家公园皑皑雪峰的门户,因此它既是风景如画的中途停留地,也是绝佳的探险基地。",
+      "getting": "由于没有客运铁路通往陶波镇,大多数游客选择自驾或乘坐长途大巴前往,而非乘火车。陶波机场(TUO)有往返奥克兰的国内航班,InterCity长途巴士则连接陶波与奥克兰、惠灵顿及其他区域枢纽,从奥克兰驾车前往陶波大约需要3到4小时。",
+      "days": "建议安排约2到3天时间,游览湖滨风光、地热景观,并进行一次短途徒步或水上运动;如果把陶波作为前往通格里罗高山穿越徒步的大本营,停留时间则可以更长一些。"
+    }
+  },
+  "Telavi": {
+    "en": {
+      "blurb": "Telavi is the capital of Kakheti, Georgia's principal wine region, set against the Alazani Valley with the Greater Caucasus rising behind it. The town anchors a landscape of centuries-old vineyards and monasteries where qvevri winemaking traditions still shape daily life.",
+      "getting": "Most travellers reach Telavi by marshrutka (shared minibus) or taxi from Tbilisi, departing from the Ortachala or Samgori (Navtlughi) bus terminals; the drive takes roughly 2 to 2.5 hours. Tbilisi International Airport (TBS) is the nearest major airport, with onward transport by road to Telavi; the town's own small local airfield handles only occasional domestic charter flights.",
+      "days": "Allow ~2 to 3 days to cover Telavi's old town and fortress along with nearby highlights such as Tsinandali Estate and Alaverdi Monastery."
+    },
+    "ko": {
+      "blurb": "텔라비는 조지아 최대의 와인 산지인 카헤티의 주도로, 알라자니 계곡을 끼고 뒤로는 대캅카스 산맥이 솟아 있는 곳에 자리하고 있다. 이 도시는 수백 년 된 포도밭과 수도원이 펼쳐진 풍경의 중심지이며, 크베브리를 이용한 전통 와인 양조법이 지금도 일상 곳곳에 깊이 배어 있다.",
+      "getting": "대부분의 여행자는 트빌리시에서 마르슈루트카(합승 미니버스)나 택시를 이용해 텔라비로 이동하며, 오르타찰라 또는 삼고리(나브틀루기) 버스터미널에서 출발한다. 소요 시간은 대략 2~2.5시간 정도다. 가장 가까운 주요 공항은 트빌리시 국제공항(TBS)으로, 이곳에서 육로를 통해 텔라비까지 이동해야 한다. 텔라비에는 작은 지방 공항이 있지만 국내선 전세기가 간헐적으로 운항할 뿐이다.",
+      "days": "텔라비의 구시가지와 성채, 그리고 인근의 치난달리 저택과 알라베르디 수도원 같은 명소까지 둘러보려면 2~3일 정도를 잡는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "テラヴィは、ジョージア最大のワイン産地カヘティ州の州都であり、アラザニ渓谷を望み、背後には大カフカス山脈がそびえる町です。周囲には何世紀もの歴史を刻んできたブドウ畑や修道院が広がり、クヴェヴリを用いた伝統的なワイン造りが今も人々の暮らしに息づいています。",
+      "getting": "テラヴィへは、トビリシからマルシュルートカ(乗合ミニバス)やタクシーを利用するのが一般的で、オルタチャラまたはサムゴリ(ナヴトルギ)のバスターミナルから出発します。所要時間はおよそ2〜2.5時間です。最寄りの主要空港はトビリシ国際空港(TBS)で、そこから陸路でテラヴィへ向かいます。なお、町にも小さな飛行場がありますが、利用できるのは不定期の国内チャーター便のみです。",
+      "days": "テラヴィの旧市街と要塞、さらに近郊のツィナンダリ屋敷やアラヴェルディ修道院などの見どころを巡るには、2〜3日ほど見ておくとよいでしょう。"
+    },
+    "es": {
+      "blurb": "Telavi es la capital de Kajetia, la principal región vinícola de Georgia, enclavada frente al valle de Alazani con el Gran Cáucaso elevándose a sus espaldas. La ciudad articula un paisaje de viñedos centenarios y monasterios donde las tradiciones de vinificación en qvevri siguen marcando el ritmo de la vida cotidiana.",
+      "getting": "La mayoría de los viajeros llega a Telavi en marshrutka (microbús compartido) o en taxi desde Tbilisi, saliendo de las terminales de autobuses de Ortachala o Samgori (Navtlughi); el trayecto dura entre 2 y 2,5 horas aproximadamente. El Aeropuerto Internacional de Tbilisi (TBS) es el aeropuerto principal más cercano, desde donde hay que continuar por carretera hasta Telavi; el pequeño aeródromo local de la ciudad solo recibe vuelos chárter domésticos ocasionales.",
+      "days": "Se recomienda dedicar entre 2 y 3 días para recorrer el casco antiguo y la fortaleza de Telavi, además de visitar lugares cercanos de interés como la finca de Tsinandali y el monasterio de Alaverdi."
+    },
+    "zh": {
+      "blurb": "泰拉维是卡赫季的首府，也是格鲁吉亚最重要的葡萄酒产区的核心城市。小城坐落在阿拉扎尼河谷之中，背靠巍峨的大高加索山脉。放眼四周，古老的葡萄园与修道院散布其间，传承千年的qvevri（陶罐）酿酒工艺至今仍深深融入当地人的日常生活。",
+      "getting": "大多数游客会选择从第比利斯搭乘marshrutka（共享小巴）或出租车前往泰拉维，车辆通常从Ortachala或Samgori（Navtlughi）汽车站发车，车程约2到2.5小时。距离泰拉维最近的主要机场是第比利斯国际机场（TBS），抵达后需再转陆路前往泰拉维；泰拉维本地虽设有一座小型机场，但仅偶尔用于国内包机航班。",
+      "days": "建议安排约2到3天时间，用来游览泰拉维的老城区与城堡，并顺道探访附近的茨南达利庄园和阿拉维尔迪修道院等亮点景点。"
+    }
+  },
+  "Waitomo": {
+    "en": {
+      "blurb": "Waitomo is defined by what lies beneath it: a honeycomb of limestone caves where rivers vanish underground and glowworms cast an eerie blue light across the dark. Above ground it is little more than a scattering of farmland and a small village, which only sharpens the sense of stepping into another world below.",
+      "getting": "Waitomo has no airport of its own, so most travellers fly into Auckland (AKL) or the closer Hamilton Airport (HLZ) and continue by road, with Hamilton around ~1 hour's drive and Auckland ~2.5 to 3 hours via State Highway 3 and the short SH37 spur. InterCity coaches run from Auckland, Rotorua and Hamilton, and the Northern Explorer train stops at Ōtorohanga, about 15 minutes away, where a pre-booked shuttle is needed to finish the trip.",
+      "days": "A single day covers the main glowworm boat tour and a short walk through one cave system, while 2 days allow time to add an adventure option such as blackwater rafting or a second cave before moving on."
+    },
+    "ko": {
+      "blurb": "와이토모를 정의하는 것은 그 지하에 숨어 있다. 강물이 지하로 사라지고 반딧불이(글로웜)가 어둠 속에서 섬뜩한 푸른빛을 드리우는 석회암 동굴들이 벌집처럼 뻗어 있는 곳이다. 지상에는 드문드문한 농지와 작은 마을 하나뿐이어서, 그 아래 또 다른 세계로 발을 들이는 순간의 느낌이 더욱 선명해진다.",
+      "getting": "와이토모에는 자체 공항이 없어, 대부분의 여행자는 오클랜드(AKL)나 더 가까운 해밀턴 공항(HLZ)으로 입국한 뒤 육로로 이동한다. 해밀턴에서는 차로 약 1시간, 오클랜드에서는 국도 3호선(State Highway 3)과 짧은 SH37 구간을 거쳐 약 2.5~3시간이 걸린다. 인터시티(InterCity) 코치는 오클랜드, 로토루아, 해밀턴에서 운행되며, 노던 익스플로러(Northern Explorer) 열차는 약 15분 거리에 있는 오토로항가(Ōtorohanga)에 정차하는데, 이곳에서부터는 미리 예약한 셔틀을 이용해야 목적지까지 갈 수 있다.",
+      "days": "하루 일정이면 대표적인 글로웜 보트 투어와 동굴 한 곳을 짧게 둘러보는 트레킹을 소화할 수 있고, 2일 일정이면 블랙워터 래프팅 같은 액티비티나 동굴 한 곳을 더 추가한 뒤 다음 목적지로 이동할 여유가 생긴다."
+    },
+    "ja": {
+      "blurb": "ワイトモを特徴づけているのは、その地下に広がる世界だ。石灰岩の洞窟が蜂の巣のように連なり、川は地中へと姿を消し、暗闇の中にはツチボタルが不気味な青い光を灯す。地上はというと、点在する牧草地と小さな村があるだけで、そのつつましさがかえって、足を踏み入れた瞬間に別世界が広がる地下との対比を際立たせている。",
+      "getting": "ワイトモには空港がないため、ほとんどの旅行者はオークランド(AKL)、またはより近いハミルトン空港(HLZ)に飛び、そこから陸路で向かうことになる。ハミルトンからは車で約1時間、オークランドからはステートハイウェイ3号線と短いSH37号線経由で2.5〜3時間ほどかかる。インターシティのバスはオークランド、ロトルア、ハミルトンから運行しており、ノーザン・エクスプローラー号はワイトモから約15分のオトロハンガに停車するが、そこから先は事前予約したシャトルを利用する必要がある。",
+      "days": "1日あれば、メインとなるツチボタルのボートツアーと、ひとつの洞窟系を巡る短いウォーキングを楽しめる。2日あれば、ブラックウォーター・ラフティングなどのアドベンチャー、あるいは別の洞窟探検を加えてから次の目的地へ向かう余裕が生まれる。"
+    },
+    "es": {
+      "blurb": "Waitomo se define por lo que se esconde bajo su superficie: un entramado de cuevas de piedra caliza donde los ríos desaparecen bajo tierra y las luciérnagas proyectan una inquietante luz azul en la oscuridad. En la superficie apenas hay algo más que tierras de cultivo dispersas y un pequeño pueblo, lo que no hace sino acentuar la sensación de adentrarse en otro mundo al descender.",
+      "getting": "Waitomo no cuenta con aeropuerto propio, así que la mayoría de los viajeros llega en avión a Auckland (AKL) o al más cercano Aeropuerto de Hamilton (HLZ) y continúa por carretera: desde Hamilton el trayecto es de aproximadamente 1 hora, y desde Auckland de 2,5 a 3 horas por la autopista estatal SH3 y el corto ramal SH37. Los autobuses de InterCity conectan Waitomo con Auckland, Rotorua y Hamilton, y el tren Northern Explorer para en Ōtorohanga, a unos 15 minutos de distancia, desde donde hay que reservar con antelación un traslado en shuttle para completar el viaje.",
+      "days": "Con un solo día alcanza para hacer el recorrido principal en bote por las cuevas de luciérnagas y una breve caminata por un sistema de cuevas, mientras que con 2 días hay tiempo para sumar alguna opción de aventura, como el blackwater rafting, o visitar una segunda cueva antes de seguir camino."
+    },
+    "zh": {
+      "blurb": "怀托摩的精华都藏在地下：这里遍布着蜂窝般交错的石灰岩洞穴，河流在洞中悄然消失，萤火虫在黑暗中投下一片幽蓝的光晕。地面上的怀托摩不过是零星的农田和一座小村庄，但正因如此，才更让人感受到踏入地下世界时那种恍若隔世的奇妙反差。",
+      "getting": "怀托摩本身没有机场，大多数游客会选择飞往奥克兰机场（AKL）或距离更近的汉密尔顿机场（HLZ），再转乘陆路前往：从汉密尔顿驱车大约1小时即可到达，而从奥克兰出发则需沿3号公路（State Highway 3）再转入37号公路（SH37）支线，车程约2.5到3小时。InterCity长途巴士开通了往返奥克兰、罗托鲁瓦和汉密尔顿的班次；北探号列车（Northern Explorer）则会停靠在约15分钟车程外的奥托罗罕阿（Ōtorohanga），从那里需要提前预订接驳车才能完成最后一段行程。",
+      "days": "只安排一天的话，可以体验主打的萤火虫洞穴游船项目，再加上一段短途的洞穴徒步；如果有2天时间，就能从容加入黑水漂流等探险活动，或者再探索一个洞穴系统，之后再继续下一段旅程。"
+    }
+  },
+  "Wanaka": {
+    "en": {
+      "blurb": "Wanaka sits on the edge of its namesake lake, ringed by the Southern Alps and backed by ski fields at Cardrona and Treble Cone. It has grown from a quiet lakeside town into one of New Zealand's most popular bases for hiking, mountain biking, skiing and lake-based adventure, all without the bigger crowds of nearby Queenstown.",
+      "getting": "Most travellers fly into Queenstown Airport (ZQN), New Zealand's nearest major gateway, then continue to Wanaka by rental car, shuttle or bus, a journey of about ~1 hour via the Crown Range Road or ~1 hour 15 minutes via Cromwell. Wanaka also has its own small regional airport used mainly for scenic and charter flights, not scheduled commercial routes.",
+      "days": "Allow ~2 to 4 days to take in the lakefront, a short hike or mountain bike trail and at least one day trip into the surrounding mountains or wine country."
+    },
+    "ko": {
+      "blurb": "와나카는 그 이름을 딴 호수 가장자리에 자리 잡고 있으며, 서던 알프스(Southern Alps)에 둘러싸여 있고 뒤로는 카드로나(Cardrona)와 트레블 콘(Treble Cone) 스키장이 버티고 있다. 한적한 호숫가 마을이었던 이곳은 이제 하이킹, 산악자전거, 스키, 호수 액티비티를 즐기기 위한 뉴질랜드 최고의 인기 거점 중 하나로 성장했으며, 그러면서도 인근 퀸스타운만큼 붐비지 않는다는 장점을 지니고 있다.",
+      "getting": "대부분의 여행자는 뉴질랜드에서 가장 가까운 주요 관문인 퀸스타운 공항(ZQN)으로 입국한 뒤, 렌터카나 셔틀, 버스를 이용해 와나카까지 이동한다. 크라운 레인지 로드(Crown Range Road)를 이용하면 약 1시간, 크롬웰(Cromwell)을 경유하면 약 1시간 15분 정도 소요된다. 와나카에도 소규모 지역 공항이 있지만, 이는 주로 경비행기 관광 및 전세기 운항용으로 사용될 뿐 정기 상업 노선은 운항하지 않는다.",
+      "days": "호숫가 풍경을 감상하고, 짧은 하이킹이나 산악자전거 코스를 즐기며, 주변 산악 지대나 와인 산지로 최소 하루 정도 당일치기 여행을 다녀오려면 약 2~4일 정도 일정을 잡는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "ワナカは、南アルプスの山々に囲まれ、カードローナやトレブルコーンのスキー場を背に、その名を冠した湖のほとりに広がる町だ。かつては静かな湖畔の町だったが、今ではハイキング、マウンテンバイク、スキー、湖を舞台にしたアクティビティを楽しむ拠点として、ニュージーランドでも屈指の人気を誇るようになった。それでいて、近隣のクイーンズタウンのような人混みに悩まされることはない。",
+      "getting": "多くの旅行者は、ニュージーランド最寄りの主要玄関口であるクイーンズタウン空港(ZQN)に飛行機で到着し、そこからレンタカーやシャトル、バスでワナカへ向かう。所要時間はクラウンレンジ道路経由で約1時間、クロムウェル経由で約1時間15分ほどだ。ワナカにも小さな地方空港があるが、こちらは主に遊覧飛行やチャーター便に利用されるもので、定期商業便は就航していない。",
+      "days": "湖畔の散策、軽いハイキングやマウンテンバイクのコース、そして周辺の山々やワインカントリーへの日帰り旅行を少なくとも1日は組み込むことを考えると、滞在日数は2〜4日ほど見ておくとよいだろう。"
+    },
+    "es": {
+      "blurb": "Wanaka se extiende a orillas del lago que lleva su nombre, rodeada por los Alpes del Sur y respaldada por los campos de esquí de Cardrona y Treble Cone. Lo que antes era un tranquilo pueblo junto al lago se ha convertido en una de las bases más populares de Nueva Zelanda para el senderismo, el ciclismo de montaña, el esquí y las aventuras acuáticas, todo ello sin las grandes multitudes de la cercana Queenstown.",
+      "getting": "La mayoría de los viajeros llega en avión al Aeropuerto de Queenstown (ZQN), la puerta de entrada principal más cercana de Nueva Zelanda, y desde allí continúa hacia Wanaka en auto de alquiler, transporte compartido o autobús, un trayecto de aproximadamente 1 hora por la Crown Range Road o de 1 hora y 15 minutos pasando por Cromwell. Wanaka también cuenta con su propio aeropuerto regional, pequeño, que se usa principalmente para vuelos panorámicos y chárter, y no para rutas comerciales regulares.",
+      "days": "Conviene reservar entre 2 y 4 días para disfrutar del frente lacustre, hacer una caminata corta o recorrer una ruta de ciclismo de montaña, y dedicar al menos un día de excursión a las montañas cercanas o a la zona vitivinícola."
+    },
+    "zh": {
+      "blurb": "瓦纳卡坐落在与其同名的湖泊岸边,四周环绕着南阿尔卑斯山脉,身后则是卡德罗纳和特雷布尔科恩滑雪场。它已从一个宁静的湖畔小镇,发展成为新西兰最受欢迎的徒步、山地骑行、滑雪和湖上探险基地之一,却依然没有邻近皇后镇那般拥挤的人潮。",
+      "getting": "大多数游客会先飞抵皇后镇机场(ZQN)——新西兰最近的主要门户机场,再租车、搭乘班车或巴士前往瓦纳卡。走皇冠山公路约需1小时,经克伦威尔则约需1小时15分钟。瓦纳卡也有自己的小型区域机场,但主要用于观光和包机飞行,并无定期商业航班。",
+      "days": "建议安排2到4天时间,漫步湖滨、来一段轻松的徒步或山地骑行路线,并至少安排一天前往周边山区或酒乡一日游。"
+    }
+  },
+  "Wellington": {
+    "en": {
+      "blurb": "Wellington is New Zealand's compact, hilltop-and-harbour capital, known for its windswept waterfront, a thriving arts and café culture, and a skyline of timber villas climbing steep bush-covered slopes. It punches well above its size, mixing national museums, a working harbour, and a famously changeable climate into a city you can walk across in an afternoon.",
+      "getting": "Most travellers arrive via Wellington International Airport (WLG), about 8km from downtown, with the Airport Express bus running directly to Wellington Railway Station and key city stops in roughly 25 to 40 minutes. The railway station itself is the southern terminus for Metlink's regional rail lines and long-distance services, making it the city's main transport hub for onward travel by bus or train.",
+      "days": "Plan on ~2 to 3 days to cover the waterfront, Te Papa museum, the cable car and surrounding hill suburbs, with extra time if you're using Wellington as a base for day trips into the wider region."
+    },
+    "ko": {
+      "blurb": "웰링턴은 언덕과 항구가 어우러진 뉴질랜드의 아담한 수도로, 바람이 많이 부는 워터프론트와 활기찬 예술·카페 문화, 그리고 숲이 우거진 가파른 경사면을 따라 올라가는 목조 주택들의 스카이라인으로 유명하다. 작은 규모에도 불구하고 국립 박물관들과 현역 항구, 그리고 변덕스럽기로 소문난 날씨가 어우러져, 한나절이면 걸어서 돌아볼 수 있는 도시 안에 실속 있는 매력을 가득 담고 있다.",
+      "getting": "대부분의 여행객은 시내에서 약 8km 떨어진 웰링턴 국제공항(WLG)을 통해 도착하며, 에어포트 익스프레스 버스를 타면 약 25~40분 만에 웰링턴 기차역과 주요 시내 정류장까지 바로 이동할 수 있다. 기차역 자체는 메트링크(Metlink) 지역 철도 노선과 장거리 노선의 남쪽 종착역으로, 버스나 기차로 다른 지역으로 이동할 때 이용하는 도시의 주요 교통 허브 역할을 한다.",
+      "days": "워터프론트, 테파파 박물관, 케이블카와 주변 언덕 지역을 둘러보려면 대략 2~3일 정도를 계획하면 되고, 웰링턴을 거점 삼아 주변 지역으로 당일치기 여행을 다녀올 계획이라면 일정을 좀 더 여유 있게 잡는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "ウェリントンは、丘と港に抱かれたニュージーランドのコンパクトな首都。風の強いウォーターフロント、活気あるアートとカフェ文化、そして急峻な緑の丘を這うように立ち並ぶ木造ヴィラの街並みで知られています。国立博物館、今も稼働する港、そしてめまぐるしく変わる天気――その小ささに似合わぬ魅力が詰め込まれたこの街は、午後だけで歩いて回れるほどの規模感です。",
+      "getting": "多くの旅行者はウェリントン国際空港（WLG）から入ります。ダウンタウンまでは約8kmで、空港と市内を結ぶAirport Expressバスがウェリントン駅や主要スポットまでおよそ25～40分で直行します。ウェリントン駅自体は、Metlinkの近郊鉄道路線や長距離列車の南の終着駅にあたり、バスや鉄道で次の目的地へ向かう際の市内の主要な交通拠点となっています。",
+      "days": "ウォーターフロント、テ・パパ博物館、ケーブルカーとその周辺の丘の住宅街を巡るなら、目安として2～3日ほど見ておくとよいでしょう。ウェリントンを拠点に周辺地域へ日帰り旅行をする場合は、さらに日数を加えてください。"
+    },
+    "es": {
+      "blurb": "Wellington es la compacta capital de Nueva Zelanda, enclavada entre colinas y un puerto natural, famosa por su ventoso paseo marítimo, una vibrante cultura de arte y cafés, y un perfil urbano de casas de madera que trepan por laderas cubiertas de monte. La ciudad pesa mucho más de lo que su tamaño sugiere, combinando museos nacionales, un puerto en plena actividad y un clima célebremente impredecible, todo en un casco urbano que se puede recorrer a pie en una sola tarde.",
+      "getting": "La mayoría de los viajeros llega por el Aeropuerto Internacional de Wellington (WLG), ubicado a unos 8 km del centro, desde donde el bus Airport Express conecta directamente con la estación de trenes de Wellington y los puntos clave de la ciudad en aproximadamente 25 a 40 minutos. La propia estación de trenes funciona como terminal sur de las líneas regionales de Metlink y de los servicios de larga distancia, convirtiéndose en el principal centro de transporte de la ciudad para continuar el viaje en bus o en tren.",
+      "days": "Calcula entre 2 y 3 días para recorrer el paseo marítimo, el museo Te Papa, el funicular (cable car) y los barrios residenciales de las colinas cercanas, sumando tiempo extra si piensas usar Wellington como base para excursiones de un día por la región."
+    },
+    "zh": {
+      "blurb": "惠灵顿是新西兰小巧精致的首都，依山傍海而建，以风景独特的海滨风光、蓬勃发展的艺术与咖啡文化，以及层层叠叠爬满陡峭丛林山坡的木质别墅天际线而闻名。这座城市虽小却充满能量，将国家级博物馆、繁忙的港口，以及出了名多变的天气，统统浓缩进一个下午就能走遍的城市里。",
+      "getting": "大多数旅客通过惠灵顿国际机场（WLG）抵达，机场距市中心约8公里，机场快线巴士（Airport Express）可直达惠灵顿火车站及市区各主要站点，车程约25到40分钟。火车站本身是Metlink区域铁路线及长途列车的南端终点站，是惠灵顿市区通往外地的巴士与火车换乘枢纽。",
+      "days": "建议安排约2到3天时间游览海滨、蒂帕帕国家博物馆（Te Papa）、缆车及周边山丘住宅区；如果打算以惠灵顿为据点，前往周边地区一日游，则需要预留更多时间。"
+    }
   }
 }

@@ -1220,6 +1220,18 @@
   "reason": "patrol replace: BTS concert performance on stage",
   "at": "2026-08-19T19:51:37.777Z"
  },
+ "auckland-auckland-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Auckland_Museum_%E2%80%9CUnder_the_Dome%E2%80%9D.jpg/3840px-Auckland_Museum_%E2%80%9CUnder_the_Dome%E2%80%9D.jpg": {
+  "slug": "auckland-auckland-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Distinctive domed roof interior matches Auckland Museum's event space",
+  "at": "2026-10-20T14:48:08.312Z"
+ },
+ "auckland-sky-tower\u0001https://upload.wikimedia.org/wikipedia/commons/b/b6/The_Sky_Tower%2C_Auckland_-_panoramio.jpg": {
+  "slug": "auckland-sky-tower",
+  "verdict": "MATCH",
+  "reason": "publish gate: Clear recognizable view of Sky Tower structure",
+  "at": "2026-10-20T14:47:55.019Z"
+ },
  "austin-blanton-museum-of-art\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Blanton_Museum_of_Art_-_UT_Austin_%2854984937578%29.jpg/1920px-Blanton_Museum_of_Art_-_UT_Austin_%2854984937578%29.jpg": {
   "slug": "austin-blanton-museum-of-art",
   "verdict": "MATCH",
@@ -3292,6 +3304,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Garden viewpoint over sea, plausible for botanical garden",
   "at": "2026-10-19T15:41:58.187Z"
+ },
+ "batumi-fountain\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Batumi_Neptun_Fountain_and_Dramatic_Theatre.jpg/3840px-Batumi_Neptun_Fountain_and_Dramatic_Theatre.jpg": {
+  "slug": "batumi-fountain",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows fountain with statue, representative hero shot",
+  "at": "2026-10-20T14:47:21.851Z"
  },
  "batumi-gonio-fortress\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Castle_of_Gonio2.jpg/1920px-Castle_of_Gonio2.jpg": {
   "slug": "batumi-gonio-fortress",
@@ -6215,6 +6233,12 @@
   "reason": "Chinese temple decoration, not a café interior/exterior",
   "at": "2026-07-25T02:42:06.624Z"
  },
+ "christchurch-christchurch-botanic-gardens\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Christchurch_Botanic_Gardens_16.jpg/1920px-Christchurch_Botanic_Gardens_16.jpg": {
+  "slug": "christchurch-christchurch-botanic-gardens",
+  "verdict": "MATCH",
+  "reason": "publish gate: Garden pond with trees, plausible botanic garden scene",
+  "at": "2026-10-20T14:47:55.050Z"
+ },
  "chuncheon-1-5-dakgalbi\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Dakgalbi.jpg/1920px-Dakgalbi.jpg": {
   "slug": "chuncheon-1-5-dakgalbi",
   "verdict": "MATCH",
@@ -7810,6 +7834,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows Senckenberg Museum exterior with iconic dinosaur statue",
   "at": "2026-10-04T13:30:52.879Z"
+ },
+ "franz-josef-franz-josef-glacier\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Franz_josef_Glacier_LC0250.jpg/1920px-Franz_josef_Glacier_LC0250.jpg": {
+  "slug": "franz-josef-franz-josef-glacier",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows glacier valley with ice flow, representative hero view",
+  "at": "2026-10-20T14:48:08.194Z"
  },
  "fremantle-esplanade-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Esplanade_Park%2C_Fremantle3.JPG/3840px-Esplanade_Park%2C_Fremantle3.JPG": {
   "slug": "fremantle-esplanade-park",
@@ -13149,6 +13179,12 @@
   "reason": "publish gate: Shows SDC building across lake, representative exterior view",
   "at": "2026-09-12T07:51:28.579Z"
  },
+ "kaikoura-whale-watch-kaikoura\u0001https://upload.wikimedia.org/wikipedia/commons/d/db/Whale_watching_Kaikoura_NZ_%2812008134353%29.jpg": {
+  "slug": "kaikoura-whale-watch-kaikoura",
+  "verdict": "MATCH",
+  "reason": "publish gate: Whale tail breaching ocean, matches Kaikoura whale watching",
+  "at": "2026-10-20T14:47:21.944Z"
+ },
  "kampong-cham-nokor-bachey-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/02-Nokor_Bachey_Pagoda-nX-13.jpg/3840px-02-Nokor_Bachey_Pagoda-nX-13.jpg": {
   "slug": "kampong-cham-nokor-bachey-temple",
   "verdict": "MATCH",
@@ -15030,6 +15066,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Satellite view plausibly shows Khuvsgul Lake frozen landscape",
   "at": "2026-10-11T07:44:49.609Z"
+ },
+ "lake-tekapo-the-church-of-the-good-shepherd\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Church_of_the_Good_Shepherd%2C_Lake_Tekapo%2C_New_Zealand.jpg/3840px-Church_of_the_Good_Shepherd%2C_Lake_Tekapo%2C_New_Zealand.jpg": {
+  "slug": "lake-tekapo-the-church-of-the-good-shepherd",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior view of the iconic stone church by lake",
+  "at": "2026-10-20T14:48:08.146Z"
  },
  "langkawi-dataran-lang\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Langkawi_Eagle_Square_-_Dataran_Lang_%2811129976185%29.jpg/1920px-Langkawi_Eagle_Square_-_Dataran_Lang_%2811129976185%29.jpg": {
   "slug": "langkawi-dataran-lang",
@@ -17427,6 +17469,24 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: audit: Generic bar interior, no identifying Tigermilk features visi",
   "at": "2026-09-26T22:07:29.745Z"
+ },
+ "matamata-hobbiton-movie-set\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Waterhouse_Lake_Front.jpg/1920px-Waterhouse_Lake_Front.jpg": {
+  "slug": "matamata-hobbiton-movie-set",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows hobbit-style thatched house and pond, matches Hobbiton",
+  "at": "2026-10-20T14:47:55.165Z"
+ },
+ "matamata-hobbitontm-movie-set-tours\u0001https://upload.wikimedia.org/wikipedia/commons/2/29/Garden_and_Hobbit_Holes_--Hobbiton_Movie_Set%2C_Matamata%2C_New_Zealand_2016_%2850797357806%29.jpg": {
+  "slug": "matamata-hobbitontm-movie-set-tours",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Hobbiton hillside with hobbit holes and gardens",
+  "at": "2026-10-20T14:47:21.915Z"
+ },
+ "matamata-the-green-dragon-inn\u0001https://upload.wikimedia.org/wikipedia/commons/0/03/Leaving_the_Green_Dragon_Inn%2C_Hobbiton_Movie_Set%2C_Matamata%2C_New_Zealand_2016_%2850796601183%29.jpg": {
+  "slug": "matamata-the-green-dragon-inn",
+  "verdict": "MATCH",
+  "reason": "publish gate: Hobbit-style thatched building matches Green Dragon Inn exterior",
+  "at": "2026-10-20T14:48:08.281Z"
  },
  "matsuyama-dogo-onsen-main-building\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Dogo_Onsen_Honkan_%28Main_building%29%2C_%E9%81%93%E5%BE%8C%E6%B8%A9%E6%B3%89_%E6%9C%AC%E9%A4%A8_-_panoramio_%288%29.jpg/3840px-Dogo_Onsen_Honkan_%28Main_building%29%2C_%E9%81%93%E5%BE%8C%E6%B8%A9%E6%B3%89_%E6%9C%AC%E9%A4%A8_-_panoramio_%288%29.jpg": {
   "slug": "matsuyama-dogo-onsen-main-building",
@@ -20559,6 +20619,18 @@
   "reason": "publish gate: Night street scene with shops matches Pai Walking Street",
   "at": "2026-09-22T07:39:30.102Z"
  },
+ "paihia-paihia-wharf\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Paihia_Wharf%2C_2013_%2801%29.jpg/3840px-Paihia_Wharf%2C_2013_%2801%29.jpg": {
+  "slug": "paihia-paihia-wharf",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Paihia Wharf building, pier, and boats accurately",
+  "at": "2026-10-20T14:47:21.882Z"
+ },
+ "paihia-waitangi-treaty-grounds\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Treaty_House_at_Waitangi_Treaty_Grounds.jpg/3840px-Treaty_House_at_Waitangi_Treaty_Grounds.jpg": {
+  "slug": "paihia-waitangi-treaty-grounds",
+  "verdict": "MATCH",
+  "reason": "publish gate: Historic colonial building matches Waitangi Treaty Grounds house",
+  "at": "2026-10-20T14:48:08.253Z"
+ },
  "paju-bogwangsa\u0001https://upload.wikimedia.org/wikipedia/commons/5/5b/Bogwangsa%2C_Paju.jpg": {
   "slug": "paju-bogwangsa",
   "verdict": "MATCH",
@@ -22572,6 +22644,12 @@
   "reason": "publish gate: Shows temple gate entrance with signage, representative hero shot",
   "at": "2026-09-20T07:37:03.923Z"
  },
+ "queenstown-skyline-queenstown\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/View_from_Shotover-Rees_St%2C_Queenstown_-_panoramio_%282%29.jpg/1920px-View_from_Shotover-Rees_St%2C_Queenstown_-_panoramio_%282%29.jpg": {
+  "slug": "queenstown-skyline-queenstown",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Skyline Queenstown building with gondolas and viewing deck",
+  "at": "2026-10-20T14:47:55.078Z"
+ },
  "quezon-city-izna-manila-debut-concert\u0001https://upload.wikimedia.org/wikipedia/commons/9/92/Izna_250930.jpg": {
   "slug": "quezon-city-izna-manila-debut-concert",
   "verdict": "MATCH",
@@ -22968,6 +23046,18 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows town wall and buildings in Rothenburg ob der Tauber",
   "at": "2026-10-02T14:17:23.759Z"
+ },
+ "rotorua-kuirau-park\u0001https://upload.wikimedia.org/wikipedia/commons/7/73/Kuirau_Park_in_Rotorua_01.jpg": {
+  "slug": "rotorua-kuirau-park",
+  "verdict": "MATCH",
+  "reason": "publish gate: Park with geothermal steam, grass, fence matches Kuirau Park",
+  "at": "2026-10-20T14:47:55.135Z"
+ },
+ "rotorua-pohutu-geyser\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Priroda_Aotearoe.jpg/1920px-Priroda_Aotearoe.jpg": {
+  "slug": "rotorua-pohutu-geyser",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows geothermal geyser site with steam, matches Pohutu Geyser area",
+  "at": "2026-10-20T14:47:55.192Z"
  },
  "saadiyat-island-hudayriyat-island\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Hudayriyat_Island_beach_at_night.jpg/3840px-Hudayriyat_Island_beach_at_night.jpg": {
   "slug": "saadiyat-island-hudayriyat-island",
@@ -26580,6 +26670,12 @@
   "reason": "publish gate: Clear iconic view of Gergeti Trinity Church with mountains",
   "at": "2026-10-19T15:41:58.136Z"
  },
+ "stepantsminda-gigantic-sculptures-by-merab-phiranishvili\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Gigantic_Sculptures_by_Merab_Phiranishvili.jpg/3840px-Gigantic_Sculptures_by_Merab_Phiranishvili.jpg": {
+  "slug": "stepantsminda-gigantic-sculptures-by-merab-phiranishvili",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows multiple carved face sculptures in landscape setting",
+  "at": "2026-10-20T14:47:21.785Z"
+ },
  "strasbourg-cathedrale-notre-dame-de-strasbourg\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Cath%C3%A9drale_Notre-Dame_de_Strasbourg_Steeples.jpg/1920px-Cath%C3%A9drale_Notre-Dame_de_Strasbourg_Steeples.jpg": {
   "slug": "strasbourg-cathedrale-notre-dame-de-strasbourg",
   "verdict": "MATCH",
@@ -28506,6 +28602,24 @@
   "reason": "hand-picked: the Anhor canal at Urda, the walk's route — Shows Anhor Canal embankment and bridge, plausible venue view",
   "at": "2026-10-09T12:41:50.361Z"
  },
+ "taupo-craters-of-the-moon\u0001https://upload.wikimedia.org/wikipedia/commons/1/1e/Craters_of_the_Moon%2C_Taupo_-_panoramio_%282%29.jpg": {
+  "slug": "taupo-craters-of-the-moon",
+  "verdict": "MATCH",
+  "reason": "publish gate: Geothermal rocky terrain with steam, matches Craters of the Moon",
+  "at": "2026-10-20T14:47:54.938Z"
+ },
+ "taupo-huka-falls\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Huka_Falls.jpg/1920px-Huka_Falls.jpg": {
+  "slug": "taupo-huka-falls",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows waterfall plunging into turquoise water, matches Huka Falls",
+  "at": "2026-10-20T14:47:55.224Z"
+ },
+ "tbilisi-bridge-of-love\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Bridge_of_love_in_Abanotubani%2C_Tbilisi.jpg/3840px-Bridge_of_love_in_Abanotubani%2C_Tbilisi.jpg": {
+  "slug": "tbilisi-bridge-of-love",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows the stone bridge with locks, matching Tbilisi's Bridge of Love",
+  "at": "2026-10-20T14:47:21.817Z"
+ },
  "tbilisi-bridge-of-peace\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Mtkvari_-_panoramio.jpg/1920px-Mtkvari_-_panoramio.jpg": {
   "slug": "tbilisi-bridge-of-peace",
   "verdict": "MATCH",
@@ -28529,6 +28643,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Ferris wheel at Mtatsminda Park overlooking Tbilisi",
   "at": "2026-10-19T15:41:58.396Z"
+ },
+ "telavi-gombori-pass\u0001https://upload.wikimedia.org/wikipedia/commons/a/a7/View_to_Gombori_pass_-_panoramio.jpg": {
+  "slug": "telavi-gombori-pass",
+  "verdict": "MATCH",
+  "reason": "publish gate: Mountain pass landscape, plausible representative view of Gombori Pass",
+  "at": "2026-10-20T14:47:21.739Z"
  },
  "tempe-filthy-animal\u0001https://fastly.4sqi.net/img/general/original/3889560_FTrSqea-sypNAwiCrodaKMEaXe4qihbcThzpqTRdsc4.jpg": {
   "slug": "tempe-filthy-animal",
@@ -30164,6 +30284,12 @@
   "reason": "patrol re-check: Plaza with statue monument, plausible representative hero for the plaza",
   "at": "2026-08-16T20:36:47.115Z"
  },
+ "waitomo-waitomo-glowworm-caves\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Glowworm_Grotto%2C_Waitomo_Glowworm_Cave.jpg/1920px-Glowworm_Grotto%2C_Waitomo_Glowworm_Cave.jpg": {
+  "slug": "waitomo-waitomo-glowworm-caves",
+  "verdict": "MATCH",
+  "reason": "publish gate: Boat tour with glowworms in cave, representative of attraction",
+  "at": "2026-10-20T14:47:54.908Z"
+ },
  "wan-chai-central-plaza\u0001https://upload.wikimedia.org/wikipedia/commons/e/ea/HK_Central_Waterfront_Promenade_%26_Public_Pier_9_view_Wan_Chai_North_Central_Plaza_Nov-2012.JPG": {
   "slug": "wan-chai-central-plaza",
   "verdict": "MATCH",
@@ -30200,6 +30326,18 @@
   "reason": "Waterfront promenade in Wan Chai with harbor view",
   "reasonKo": "완차이 해변 산책로, 항구 전망",
   "at": "2026-09-18T16:41:58.744Z"
+ },
+ "wanaka-puzzling-world\u0001https://upload.wikimedia.org/wikipedia/commons/1/15/Puzzling_World%2C_New_Zealand.jpg": {
+  "slug": "wanaka-puzzling-world",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Puzzling World's iconic tilted buildings with visible sign",
+  "at": "2026-10-20T14:48:08.222Z"
+ },
+ "wanaka-wanaka-willow-tree\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Lonely_tree_of_Wanaka.jpg/3840px-Lonely_tree_of_Wanaka.jpg": {
+  "slug": "wanaka-wanaka-willow-tree",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows the iconic Wanaka Willow Tree in lake",
+  "at": "2026-10-20T14:47:54.991Z"
  },
  "washington-dc-baked-wired\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Baked_%26_Wired_-_Georgetown_%2855264711438%29.jpg/1920px-Baked_%26_Wired_-_Georgetown_%2855264711438%29.jpg": {
   "slug": "washington-dc-baked-wired",
@@ -30308,6 +30446,18 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Close-up plated dishes, not representative venue view",
   "at": "2026-09-24T22:50:22.016Z"
+ },
+ "wellington-museum-of-new-zealand-te-papa-tongarewa\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Museum_of_New_Zealand_Te_Papa_Tongarewa_unsaturated.jpg/1920px-Museum_of_New_Zealand_Te_Papa_Tongarewa_unsaturated.jpg": {
+  "slug": "wellington-museum-of-new-zealand-te-papa-tongarewa",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of Te Papa museum building, Wellington",
+  "at": "2026-10-20T14:47:55.251Z"
+ },
+ "wellington-wellington-museum\u0001https://upload.wikimedia.org/wikipedia/commons/9/96/Stained_Glass_Wellington_Museum_%2830931131524%29.jpg": {
+  "slug": "wellington-wellington-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Stained glass window, plausible interior feature of museum",
+  "at": "2026-10-20T14:47:55.108Z"
  },
  "wuhan-2026-wuhan-open-snooker\u0001https://upload.wikimedia.org/wikipedia/commons/5/58/Snooker_table_selby.JPG": {
   "slug": "wuhan-2026-wuhan-open-snooker",

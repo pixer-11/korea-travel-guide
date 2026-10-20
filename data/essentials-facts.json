@@ -11744,6 +11744,804 @@
         }
       }
     },
+    "New Zealand": {
+      "srcHash": "6b1a67c2a3b9",
+      "en": {
+        "summary": [
+          {
+            "key": "entry",
+            "title": "NZeTA + visitor levy",
+            "sub": "~NZD 120 total, required before flying"
+          },
+          {
+            "key": "money",
+            "title": "Tap-to-pay dominant",
+            "sub": "NZD cash still useful in small towns"
+          },
+          {
+            "key": "season",
+            "title": "Shoulder seasons best",
+            "sub": "Mar–May and Sep–Nov, fewer crowds"
+          },
+          {
+            "key": "transport",
+            "title": "City-specific smartcards",
+            "sub": "AT HOP, Snapper, Metrocard; contactless spreading"
+          }
+        ],
+        "visa": {
+          "cards": [
+            {
+              "name": "NZeTA (visa-waiver travellers)",
+              "code": "",
+              "who": "Citizens of ~60 visa-waiver countries incl. UK, EU, US, Canada, Japan, Australia",
+              "cost": "NZD 17-23 + NZD 100 IVL, ~NZD 120 total",
+              "stay": "up to 90 days per visit",
+              "note": "Valid for 2 years; apply online before travel, including for transit passengers"
+            }
+          ],
+          "warnings": [
+            {
+              "title": "Apply well ahead",
+              "text": "NZeTA processing can take up to a few days, so request it before booking flights."
+            },
+            {
+              "title": "Confirm exact rules",
+              "text": "Stay length and fees vary by nationality and are periodically reviewed, so check the official NZeTA portal."
+            }
+          ]
+        },
+        "transport": {
+          "rows": [
+            {
+              "city": "Auckland",
+              "card": "AT HOP",
+              "contactless": ""
+            },
+            {
+              "city": "Wellington",
+              "card": "Snapper",
+              "contactless": ""
+            },
+            {
+              "city": "Christchurch",
+              "card": "Metrocard",
+              "contactless": "yes"
+            }
+          ],
+          "tips": [
+            {
+              "title": "Use a smartcard",
+              "text": "Without HOP, cash fares cost around 20% more and some routes don't accept cash at all."
+            },
+            {
+              "title": "Know the fare caps",
+              "text": "AT HOP has a $50 seven-day cap; contactless/mobile wallet users get a $20 daily cap instead."
+            },
+            {
+              "title": "Winter alpine driving",
+              "text": "Shaded South Island roads can develop black ice; check conditions and carry chains June–August."
+            }
+          ]
+        },
+        "money": {
+          "budget": null,
+          "tips": [
+            {
+              "title": "Carry some cash",
+              "text": "Budget 100–200 NZD for small-town stalls or rural spots."
+            },
+            {
+              "title": "Choose NZD at terminals",
+              "text": "Always pick to be charged in NZD to avoid poor dynamic-currency-conversion rates."
+            },
+            {
+              "title": "Watch foreign transaction fees",
+              "text": "Your own bank may charge fees; a low-fee travel card can save money."
+            },
+            {
+              "title": "Tipping not expected",
+              "text": "Tipping is not customary, though rounding up for great service is appreciated."
+            }
+          ]
+        },
+        "season": {
+          "best": [],
+          "rows": [
+            {
+              "label": "Autumn",
+              "sub": "Sweet spot, settled weather",
+              "best": [
+                3,
+                4,
+                5
+              ],
+              "busy": [],
+              "avoid": []
+            },
+            {
+              "label": "Spring",
+              "sub": "Fresh landscapes, lighter crowds",
+              "best": [
+                9,
+                10,
+                11
+              ],
+              "busy": [],
+              "avoid": []
+            },
+            {
+              "label": "Winter",
+              "sub": "Skiing and alpine scenery",
+              "best": [
+                6,
+                7,
+                8
+              ],
+              "busy": [],
+              "avoid": []
+            }
+          ]
+        },
+        "emergency": {
+          "numbers": [
+            {
+              "number": "111",
+              "label": "Police, Fire, Ambulance",
+              "note": "Free from mobile, even with no credit or minutes"
+            },
+            {
+              "number": "105",
+              "label": "Police non-emergency",
+              "note": "For reports not needing urgent assistance"
+            }
+          ],
+          "chips": [
+            "Call 111 if in doubt",
+            "111 TXT needs pre-registration",
+            "Watch for rips at beaches",
+            "Check alpine road conditions",
+            "Free 24hr Healthline available"
+          ]
+        }
+      },
+      "ko": {
+        "summary": [
+          {
+            "title": "NZeTA + 방문자 부담금",
+            "sub": "총 ~NZD 120, 탑승 전 필수",
+            "key": "entry"
+          },
+          {
+            "title": "탭 결제가 대세",
+            "sub": "소도시에서는 NZD 현금이 여전히 유용",
+            "key": "money"
+          },
+          {
+            "title": "간절기가 최적",
+            "sub": "3월~5월, 9월~11월, 인파가 적음",
+            "key": "season"
+          },
+          {
+            "title": "도시별 교통카드",
+            "sub": "AT HOP, Snapper, Metrocard; 비접촉 결제 확산 중",
+            "key": "transport"
+          }
+        ],
+        "visa": {
+          "cards": [
+            {
+              "name": "NZeTA (무비자 입국 여행자)",
+              "code": "",
+              "who": "영국, EU, 미국, 캐나다, 일본, 호주 등 약 60개 무비자 국가 국민",
+              "cost": "NZD 17-23 + NZD 100 IVL, 총 ~NZD 120",
+              "stay": "방문당 최대 90일",
+              "note": "2년간 유효; 환승객 포함 여행 전 온라인으로 신청"
+            }
+          ],
+          "warnings": [
+            {
+              "title": "미리 신청하세요",
+              "text": "NZeTA 처리에 최대 며칠이 걸릴 수 있으므로 항공권 예약 전에 신청하세요."
+            },
+            {
+              "title": "정확한 규정을 확인하세요",
+              "text": "체류 기간과 비용은 국적에 따라 다르며 주기적으로 변경되므로 공식 NZeTA 포털을 확인하세요."
+            }
+          ]
+        },
+        "transport": {
+          "rows": [
+            {
+              "city": "오클랜드",
+              "card": "AT HOP",
+              "contactless": ""
+            },
+            {
+              "city": "웰링턴",
+              "card": "Snapper",
+              "contactless": ""
+            },
+            {
+              "city": "크라이스트처치",
+              "card": "Metrocard",
+              "contactless": "yes"
+            }
+          ],
+          "tips": [
+            {
+              "title": "교통카드를 이용하세요",
+              "text": "HOP 카드가 없으면 현금 요금이 약 20% 더 비싸고, 일부 노선은 현금을 아예 받지 않습니다."
+            },
+            {
+              "title": "요금 상한선을 알아두세요",
+              "text": "AT HOP은 7일 상한액이 $50이며, 비접촉/모바일 월렛 이용자는 일일 상한액 $20이 적용됩니다."
+            },
+            {
+              "title": "겨울철 고산 운전",
+              "text": "남섬의 그늘진 도로에는 블랙아이스가 생길 수 있으니 6월~8월에는 도로 상황을 확인하고 체인을 챙기세요."
+            }
+          ]
+        },
+        "money": {
+          "budget": null,
+          "tips": [
+            {
+              "title": "현금을 약간 챙기세요",
+              "text": "소도시 노점이나 시골 지역을 위해 100-200 NZD 정도 예산을 책정하세요."
+            },
+            {
+              "title": "단말기에서는 NZD를 선택하세요",
+              "text": "불리한 동적환율전환(DCC) 요율을 피하려면 항상 NZD로 결제되도록 선택하세요."
+            },
+            {
+              "title": "해외 거래 수수료에 주의하세요",
+              "text": "거래 은행에서 수수료를 부과할 수 있으니, 저수수료 여행용 카드를 쓰면 비용을 절약할 수 있습니다."
+            },
+            {
+              "title": "팁은 필수가 아닙니다",
+              "text": "팁 문화는 일반적이지 않지만, 훌륭한 서비스에 대해 금액을 올림하는 것은 환영받습니다."
+            }
+          ]
+        },
+        "season": {
+          "rows": [
+            {
+              "label": "가을",
+              "sub": "최적기, 안정적인 날씨",
+              "best": [
+                3,
+                4,
+                5
+              ],
+              "busy": [],
+              "avoid": []
+            },
+            {
+              "label": "봄",
+              "sub": "싱그러운 풍경, 비교적 한산함",
+              "best": [
+                9,
+                10,
+                11
+              ],
+              "busy": [],
+              "avoid": []
+            },
+            {
+              "label": "겨울",
+              "sub": "스키와 고산 풍경",
+              "best": [
+                6,
+                7,
+                8
+              ],
+              "busy": [],
+              "avoid": []
+            }
+          ],
+          "best": []
+        },
+        "emergency": {
+          "numbers": [
+            {
+              "number": "111",
+              "label": "경찰, 소방, 구급차",
+              "note": "크레딧이나 잔여 통화량이 없어도 휴대전화에서 무료"
+            },
+            {
+              "number": "105",
+              "label": "경찰 비긴급 신고",
+              "note": "긴급 도움이 필요 없는 신고용"
+            }
+          ],
+          "chips": [
+            "확실하지 않으면 111에 전화하세요",
+            "111 TXT는 사전 등록이 필요합니다",
+            "해변의 이안류(rip)를 주의하세요",
+            "고산 도로 상황을 확인하세요",
+            "무료 24시간 Healthline 이용 가능"
+          ]
+        }
+      },
+      "ja": {
+        "summary": [
+          {
+            "title": "NZeTA + ビジター税",
+            "sub": "合計約NZD 120、搭乗前に必須",
+            "key": "entry"
+          },
+          {
+            "title": "タッチ決済が主流",
+            "sub": "小さな町ではNZD現金も依然として便利",
+            "key": "money"
+          },
+          {
+            "title": "狭間期がベスト",
+            "sub": "3月〜5月、9月〜11月は混雑が少ない",
+            "key": "season"
+          },
+          {
+            "title": "都市ごとの交通系カード",
+            "sub": "AT HOP、Snapper、Metrocard；非接触決済も拡大中",
+            "key": "transport"
+          }
+        ],
+        "visa": {
+          "cards": [
+            {
+              "name": "NZeTA（ビザ免除渡航者向け）",
+              "code": "",
+              "who": "英国、EU、米国、カナダ、日本、オーストラリアなど約60のビザ免除国の国民",
+              "cost": "NZD 17-23 + NZD 100 IVL、合計約NZD 120",
+              "stay": "1回の滞在につき最大90日",
+              "note": "有効期間2年；通過客も含め渡航前にオンラインで申請"
+            }
+          ],
+          "warnings": [
+            {
+              "title": "早めに申請を",
+              "text": "NZeTAの処理には数日かかることがあるため、航空券の予約前に申請してください。"
+            },
+            {
+              "title": "正確な規定を確認",
+              "text": "滞在期間や手数料は国籍によって異なり、定期的に見直されるため、公式NZeTAポータルで確認してください。"
+            }
+          ]
+        },
+        "transport": {
+          "rows": [
+            {
+              "city": "オークランド",
+              "card": "AT HOP",
+              "contactless": ""
+            },
+            {
+              "city": "ウェリントン",
+              "card": "Snapper",
+              "contactless": ""
+            },
+            {
+              "city": "クライストチャーチ",
+              "card": "Metrocard",
+              "contactless": "yes"
+            }
+          ],
+          "tips": [
+            {
+              "title": "交通系カードを使う",
+              "text": "HOPカードがないと現金運賃は約20%高くなり、一部の路線では現金が全く使えません。"
+            },
+            {
+              "title": "運賃上限を知っておく",
+              "text": "AT HOPは7日間で$50の上限があり、非接触/モバイルウォレット利用者は1日$20の上限が適用されます。"
+            },
+            {
+              "title": "冬季の高地運転",
+              "text": "南島の日陰の道路はブラックアイスが発生することがあるため、6月〜8月は路面状況を確認しチェーンを携行してください。"
+            }
+          ]
+        },
+        "money": {
+          "budget": null,
+          "tips": [
+            {
+              "title": "現金を少し持っておく",
+              "text": "小さな町の屋台や田舎の場所のために100〜200 NZDを予算に組んでください。"
+            },
+            {
+              "title": "端末ではNZDを選択",
+              "text": "不利なダイナミック・カレンシー・コンバージョン（DCC）レートを避けるため、常にNZD建てで支払うよう選択してください。"
+            },
+            {
+              "title": "海外取引手数料に注意",
+              "text": "利用している銀行が手数料を課す場合があるため、低手数料の旅行用カードを使うとお得です。"
+            },
+            {
+              "title": "チップは不要",
+              "text": "チップの習慣はありませんが、素晴らしいサービスへの端数の切り上げは喜ばれます。"
+            }
+          ]
+        },
+        "season": {
+          "rows": [
+            {
+              "label": "秋",
+              "sub": "ベストシーズン、安定した天候",
+              "best": [
+                3,
+                4,
+                5
+              ],
+              "busy": [],
+              "avoid": []
+            },
+            {
+              "label": "春",
+              "sub": "みずみずしい景色、人混みも少なめ",
+              "best": [
+                9,
+                10,
+                11
+              ],
+              "busy": [],
+              "avoid": []
+            },
+            {
+              "label": "冬",
+              "sub": "スキーと高山の景観",
+              "best": [
+                6,
+                7,
+                8
+              ],
+              "busy": [],
+              "avoid": []
+            }
+          ],
+          "best": []
+        },
+        "emergency": {
+          "numbers": [
+            {
+              "number": "111",
+              "label": "警察、消防、救急",
+              "note": "クレジットや残高がなくても携帯から無料"
+            },
+            {
+              "number": "105",
+              "label": "警察（緊急を要さない通報）",
+              "note": "緊急の対応が不要な通報向け"
+            }
+          ],
+          "chips": [
+            "迷ったら111に電話",
+            "111 TXTは事前登録が必要",
+            "ビーチの離岸流に注意",
+            "山岳道路の状況を確認",
+            "無料24時間Healthlineが利用可能"
+          ]
+        }
+      },
+      "es": {
+        "summary": [
+          {
+            "title": "NZeTA + tasa de visitante",
+            "sub": "~NZD 120 en total, obligatorio antes de volar",
+            "key": "entry"
+          },
+          {
+            "title": "Pago sin contacto dominante",
+            "sub": "El efectivo en NZD sigue siendo útil en pueblos pequeños",
+            "key": "money"
+          },
+          {
+            "title": "Temporadas intermedias, lo mejor",
+            "sub": "Marzo–mayo y septiembre–noviembre, menos multitudes",
+            "key": "season"
+          },
+          {
+            "title": "Tarjetas inteligentes según la ciudad",
+            "sub": "AT HOP, Snapper, Metrocard; el contactless se expande",
+            "key": "transport"
+          }
+        ],
+        "visa": {
+          "cards": [
+            {
+              "name": "NZeTA (viajeros exentos de visado)",
+              "code": "",
+              "who": "Ciudadanos de ~60 países exentos de visado, incl. Reino Unido, UE, EE. UU., Canadá, Japón, Australia",
+              "cost": "NZD 17-23 + NZD 100 IVL, ~NZD 120 en total",
+              "stay": "hasta 90 días por visita",
+              "note": "Válido por 2 años; solicítalo en línea antes de viajar, incluso para pasajeros en tránsito"
+            }
+          ],
+          "warnings": [
+            {
+              "title": "Solicítalo con antelación",
+              "text": "El trámite del NZeTA puede tardar hasta varios días, así que solicítalo antes de reservar los vuelos."
+            },
+            {
+              "title": "Confirma las reglas exactas",
+              "text": "La duración de la estancia y las tarifas varían según la nacionalidad y se revisan periódicamente, así que consulta el portal oficial de NZeTA."
+            }
+          ]
+        },
+        "transport": {
+          "rows": [
+            {
+              "city": "Auckland",
+              "card": "AT HOP",
+              "contactless": ""
+            },
+            {
+              "city": "Wellington",
+              "card": "Snapper",
+              "contactless": ""
+            },
+            {
+              "city": "Christchurch",
+              "card": "Metrocard",
+              "contactless": "yes"
+            }
+          ],
+          "tips": [
+            {
+              "title": "Usa una tarjeta inteligente",
+              "text": "Sin la tarjeta HOP, las tarifas en efectivo cuestan alrededor de un 20% más y algunas rutas no aceptan efectivo en absoluto."
+            },
+            {
+              "title": "Conoce los topes de tarifa",
+              "text": "AT HOP tiene un tope de $50 por siete días; los usuarios de contactless/billetera móvil tienen en cambio un tope diario de $20."
+            },
+            {
+              "title": "Conducción alpina en invierno",
+              "text": "Las carreteras sombreadas de la Isla Sur pueden formar hielo negro; revisa las condiciones y lleva cadenas entre junio y agosto."
+            }
+          ]
+        },
+        "money": {
+          "budget": null,
+          "tips": [
+            {
+              "title": "Lleva algo de efectivo",
+              "text": "Presupuesta 100–200 NZD para puestos de pueblos pequeños o zonas rurales."
+            },
+            {
+              "title": "Elige NZD en los terminales",
+              "text": "Elige siempre que te cobren en NZD para evitar las malas tasas de conversión dinámica de moneda."
+            },
+            {
+              "title": "Cuidado con las comisiones por transacción extranjera",
+              "text": "Tu propio banco puede cobrar comisiones; una tarjeta de viaje con comisiones bajas puede ahorrarte dinero."
+            },
+            {
+              "title": "No se espera propina",
+              "text": "Dar propina no es costumbre, aunque redondear por un gran servicio es apreciado."
+            }
+          ]
+        },
+        "season": {
+          "rows": [
+            {
+              "label": "Otoño",
+              "sub": "Momento ideal, clima estable",
+              "best": [
+                3,
+                4,
+                5
+              ],
+              "busy": [],
+              "avoid": []
+            },
+            {
+              "label": "Primavera",
+              "sub": "Paisajes frescos, menos multitudes",
+              "best": [
+                9,
+                10,
+                11
+              ],
+              "busy": [],
+              "avoid": []
+            },
+            {
+              "label": "Invierno",
+              "sub": "Esquí y paisajes alpinos",
+              "best": [
+                6,
+                7,
+                8
+              ],
+              "busy": [],
+              "avoid": []
+            }
+          ],
+          "best": []
+        },
+        "emergency": {
+          "numbers": [
+            {
+              "number": "111",
+              "label": "Policía, Bomberos, Ambulancia",
+              "note": "Gratis desde el móvil, incluso sin saldo ni minutos"
+            },
+            {
+              "number": "105",
+              "label": "Policía, asuntos no urgentes",
+              "note": "Para denuncias que no requieren asistencia urgente"
+            }
+          ],
+          "chips": [
+            "Llama al 111 si tienes dudas",
+            "111 TXT requiere registro previo",
+            "Cuidado con las corrientes de resaca en las playas",
+            "Revisa las condiciones de las carreteras alpinas",
+            "Healthline gratuito disponible las 24 horas"
+          ]
+        }
+      },
+      "zh": {
+        "summary": [
+          {
+            "title": "NZeTA + 访客税",
+            "sub": "总计约NZD 120，出发前必须办理",
+            "key": "entry"
+          },
+          {
+            "title": "以非接触支付为主",
+            "sub": "小城镇里新西兰元现金仍然很实用",
+            "key": "money"
+          },
+          {
+            "title": "平季最佳",
+            "sub": "3月至5月及9月至11月，游客较少",
+            "key": "season"
+          },
+          {
+            "title": "各城市专属交通卡",
+            "sub": "AT HOP、Snapper、Metrocard；非接触支付日渐普及",
+            "key": "transport"
+          }
+        ],
+        "visa": {
+          "cards": [
+            {
+              "name": "NZeTA（免签旅客）",
+              "code": "",
+              "who": "约60个免签国家的公民，包括英国、欧盟、美国、加拿大、日本、澳大利亚",
+              "cost": "NZD 17-23 + NZD 100 IVL，总计约NZD 120",
+              "stay": "每次入境最长90天",
+              "note": "有效期2年；出行前需在线申请，过境旅客也需申请"
+            }
+          ],
+          "warnings": [
+            {
+              "title": "请提前申请",
+              "text": "NZeTA审批最多可能需要几天时间，请在预订机票前申请。"
+            },
+            {
+              "title": "确认具体规定",
+              "text": "停留时间和费用因国籍而异，且会定期调整，请查阅NZeTA官方网站确认。"
+            }
+          ]
+        },
+        "transport": {
+          "rows": [
+            {
+              "city": "奥克兰",
+              "card": "AT HOP",
+              "contactless": ""
+            },
+            {
+              "city": "惠灵顿",
+              "card": "Snapper",
+              "contactless": ""
+            },
+            {
+              "city": "基督城",
+              "card": "Metrocard",
+              "contactless": "yes"
+            }
+          ],
+          "tips": [
+            {
+              "title": "使用交通卡",
+              "text": "没有HOP卡的话，现金票价要贵约20%，有些线路甚至完全不收现金。"
+            },
+            {
+              "title": "了解票价上限",
+              "text": "AT HOP的七日票价上限为$50；使用非接触支付/移动钱包的乘客则享有每日$20的上限。"
+            },
+            {
+              "title": "冬季高山驾车",
+              "text": "南岛背阴路段可能结黑冰；6月至8月请留意路况并携带防滑链。"
+            }
+          ]
+        },
+        "money": {
+          "budget": null,
+          "tips": [
+            {
+              "title": "携带一些现金",
+              "text": "为小镇摊位或乡村地区准备100-200新西兰元的预算。"
+            },
+            {
+              "title": "在刷卡机上选择新西兰元结算",
+              "text": "始终选择以NZD计费，以避免不利的动态货币转换汇率。"
+            },
+            {
+              "title": "留意境外交易手续费",
+              "text": "你的开户银行可能收取手续费；使用低费率的旅行卡可以省钱。"
+            },
+            {
+              "title": "无需小费",
+              "text": "小费并非惯例，不过为优质服务凑整付款会受到欢迎。"
+            }
+          ]
+        },
+        "season": {
+          "rows": [
+            {
+              "label": "秋季",
+              "sub": "最佳时节，天气稳定",
+              "best": [
+                3,
+                4,
+                5
+              ],
+              "busy": [],
+              "avoid": []
+            },
+            {
+              "label": "春季",
+              "sub": "风景清新，游客较少",
+              "best": [
+                9,
+                10,
+                11
+              ],
+              "busy": [],
+              "avoid": []
+            },
+            {
+              "label": "冬季",
+              "sub": "滑雪与高山风光",
+              "best": [
+                6,
+                7,
+                8
+              ],
+              "busy": [],
+              "avoid": []
+            }
+          ],
+          "best": []
+        },
+        "emergency": {
+          "numbers": [
+            {
+              "number": "111",
+              "label": "警察、消防、救护车",
+              "note": "即使没有话费或余额，手机拨打也是免费的"
+            },
+            {
+              "number": "105",
+              "label": "警察非紧急报案",
+              "note": "用于无需紧急援助的报案"
+            }
+          ],
+          "chips": [
+            "如有疑问请拨打111",
+            "111 TXT需要预先注册",
+            "注意海滩离岸流",
+            "请查看高山道路状况",
+            "可使用免费的24小时Healthline"
+          ]
+        }
+      }
+    },
     "Philippines": {
       "srcHash": "331a75ed04cf",
       "en": {
