@@ -179,7 +179,8 @@ RULES
 ${data.ended ? `- This event has ALREADY TAKEN PLACE. The source is written as a record of what was announced; keep it that way.
   · TENSE: English can state a date without a tense ("The dates are September 3 and 4"), but Korean, Japanese and Chinese must choose one, and choosing the present makes a finished event read as upcoming. Write it as a record of what was announced, in the past — but say "scheduled" ONCE. Repeated ("was scheduled… was to be held… was planned…") it reads as a plan that fell through, and nothing says this one did.${ENDED_SCHEDULE[langName] ? `\n  · ${langName}: ${ENDED_SCHEDULE[langName]}` : ''}
   · But do NOT claim the event actually happened. "the schedule was" is right; "was held", "took place", "went ahead" are outcomes the source does not state.${data.tenseFeedback?.length ? `
-  · A previous attempt wrote ${data.tenseFeedback.map((q) => `"${q}"`).join(', ')}. That reads as still to come, even for a holiday that recurs every year: this page is about THIS dated edition, which is over. Put every such sentence in the past as the announced schedule.` : ''}
+  · A previous attempt wrote ${data.tenseFeedback.map((q) => `"${q}"`).join(', ')}. That reads as still to come, even for a holiday that recurs every year: this page is about THIS dated edition, which is over. Put every such sentence in the past as the announced schedule ("was set for", "the dates were") — not as "was held" or "took place", which claim it happened.` : ''}${data.outcomeFeedback?.length ? `
+  · A previous attempt wrote ${data.outcomeFeedback.map((q) => `"${q}"`).join(', ')}. That either tells the reader to do something or says this edition actually happened ("se celebró", "열렸습니다", "開催されました"), and the source says neither. Rewrite that sentence as what was announced: the event was set for its dates and venue.` : ''}
   · Plain voice. A closing signpost such as "What it was, when and where." is not content: render it as one short natural sentence or fold it into the sentence before. Never unfold it into a list of questions ("what it was, when and where it was to be held, what was announced…") — that reads as machine-written.
   · Drop nothing: a question like "Where can I eat before the show?" keeps its answer, but the framing follows the same rule — it describes what was there, not what a reader should do now.
   · Add no instruction to check, confirm, verify, book, reserve or arrive early.` : ''}
@@ -560,7 +561,11 @@ async function translateOne(langCode, srcId, data, hash, attempt = 1, pre = null
     if (hit) {
       if (attempt < 3) {
         console.log(`     ↻ ${langCode}/${srcId} — ended event, translation added "${hit[0]}", retrying (attempt ${attempt + 1})`);
-        return translateOne(langCode, srcId, data, hash, attempt + 1);
+        // Name the sentence, as the tense retry does. Told only "past tense", the
+        // model wrote "se celebró" and was refused twice more with the same
+        // prompt (es/tokyo-tokyo-legacy-half-marathon, 2026-10-20).
+        const said = String(hit.input || hit[0]).trim().slice(0, 160);
+        return translateOne(langCode, srcId, { ...data, outcomeFeedback: [...(data.outcomeFeedback || []), said].slice(-3) }, hash, attempt + 1);
       }
       throw new Error(`ended-event translation keeps adding advice/outcome ("${hit[0]}") after ${attempt} attempts — not written`);
     }
@@ -619,7 +624,9 @@ async function translateOne(langCode, srcId, data, hash, attempt = 1, pre = null
   // unwritten page falls back to English, which a Chinese reader can at least
   // recognize as not-their-language, while Korean prose under a Chinese URL is
   // simply a broken page. The post re-queues on the next run via srcHash.
-  const wrongScript = scriptLeakFlags(langCode, String(out.body || '').replace(/\r\n/g, '\n'));
+  const wrongScript = scriptLeakFlags(langCode, String(out.body || '').replace(/\r\n/g, '\n'), {
+    source: [data.title, data.description, data.quickAnswer, data.body].join('\n'),
+  });
   if (wrongScript.length) {
     const kinds = [...new Set(wrongScript.map(([t]) => t))].join(', ');
     if (attempt < 3) {

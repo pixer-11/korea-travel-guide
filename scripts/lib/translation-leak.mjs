@@ -15,6 +15,16 @@ const ES_MARK = /[áéíóúñü¿¡]|\b(el|la|los|las|una|para|con|que|del|es|m
 
 // Strip the bits where foreign scripts/Latin are LEGITIMATE before scoring:
 // links/URLs, inline code, bold place names get kept as text but link URLS go.
+// Runs of Hangul/kana/Han (with the middle dot and long-vowel mark that join
+// them) in the English source, longest first so a shorter run cannot split a
+// longer one before it is removed.
+export function sourceRuns(source) {
+  const runs = String(source || '').match(/[가-힣ぁ-んァ-ヶ一-鿿・ー]{2,}(?:[ 　][가-힣ぁ-んァ-ヶ一-鿿・ー]{1,})*/g) || [];
+  return [...new Set(runs.flatMap((r) => [r, ...r.split(/[ 　]/)]))]
+    .filter((r) => r.length >= 2)
+    .sort((a, b) => b.length - a.length);
+}
+
 export function cleanParagraph(p) {
   return p
     .replace(/\[([^\]]*)\]\([^)]*\)/g, '$1') // keep link text, drop URL
@@ -53,15 +63,23 @@ export function isLinkList(raw) {
 // the audit reports. CRLF must already be normalized by the caller: `\r\n\r\n`
 // never matches the `\n{2,}` split and the whole body collapses into ONE
 // paragraph, which misfires every threshold below.
-export function scriptLeakFlags(lang, body) {
+//
+// `source` is the English text the page was translated from. A foreign-script
+// run that the SOURCE itself carries is a name it quotes, not a leak: the
+// Toray Pan Pacific Open guide says 'In Japanese the event is 東レ パン・パシフィック・
+// オープン', every faithful ko/es translation keeps those 13 characters, and
+// all three attempts were refused as japanese-leak / cjk-leak (2026-10-20).
+export function scriptLeakFlags(lang, body, { source = '' } = {}) {
   const flags = [];
+  const quoted = sourceRuns(source);
   const paras = body
     .split(/\n{2,}/)
     .map((p) => p.trim())
     .filter((p) => p.length >= 60 && !p.startsWith('|'));
   for (const raw of paras) {
     if (isLinkList(raw)) continue;
-    const p = cleanParagraph(raw);
+    let p = cleanParagraph(raw);
+    for (const run of quoted) p = p.split(run).join('');
     const latinRun = latinWords(p).join(' ').length;
     const h = hangul(p), k = kana(p), c = han(p);
     if (lang === 'ko') {

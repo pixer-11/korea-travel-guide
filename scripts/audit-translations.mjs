@@ -145,7 +145,7 @@ const CHATTER = /지금까지 가이드|필요한 모든 정보를 확인|다음
 // translate-posts, which now retries a translation that fails it instead of
 // writing it (a stray closing ** reached the live zh Austin market page).
 
-function auditBody(lang, body) {
+function auditBody(lang, body, source = '') {
   const flags = [];
   const firstPara = (body.trim().split(/\n{2,}/)[0] || '').slice(0, 300);
   if (CHATTER.test(firstPara)) flags.push(['translator-chatter', firstPara]);
@@ -154,7 +154,7 @@ function auditBody(lang, body) {
   if (lang === 'ko') {
     for (const b of koBrokenSyllables(body).slice(0, 3)) flags.push(['broken-syllable', b]);
   }
-  flags.push(...scriptLeakFlags(lang, body));
+  flags.push(...scriptLeakFlags(lang, body, { source }));
   return flags;
 }
 
@@ -185,7 +185,10 @@ for (const [root, label] of ROOTS) {
       // audit exists to catch, so it has to look at the frontmatter too.
       const fmFlags = await auditFrontmatter(root, lang, f, fmEnd === -1 ? '' : raw.slice(4, fmEnd), body, ASKED);
       if (fmFlags === null) { drafts++; continue; } // unpublished — nothing renders
-      const flags = [...auditBody(lang, body), ...fmFlags];
+      // The English source, so a name it quotes in its own script is not a leak.
+      let source = '';
+      try { if (SOURCE_OF[root]) source = await readFile(join(SOURCE_OF[root], f), 'utf8'); } catch {}
+      const flags = [...auditBody(lang, body, source), ...fmFlags];
       if (flags.length) {
         flagged++;
         report.push(`${label}/${lang}/${f}: ${flags.map(([t]) => t).join(', ')}`);

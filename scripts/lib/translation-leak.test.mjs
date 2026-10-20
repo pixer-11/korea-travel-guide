@@ -114,3 +114,18 @@ test('untranslatedQuestion: an English FAQ question beside a translated answer',
   assert.equal(untranslatedQuestion('es', 'How long does a visit take?', 'How long does a visit take?'), true);
   assert.equal(untranslatedQuestion('es', '¿Cuánto dura la visita?', 'How long does a visit take?'), false);
 });
+
+// 2026-10-20: the English Toray Pan Pacific Open guide names the event in
+// Japanese itself. Keeping that name is faithful, not a leak — but only the
+// runs the source carries; anything else in the same script still counts.
+test('a foreign-script name the English source quotes is not a leak', () => {
+  const source = 'The organiser publishes the dates on its official site. In Japanese the event is 東レ パン・パシフィック・オープン, which is worth knowing when you search for tickets.';
+  const ko = '주최 측은 공식 사이트에 일정을 올립니다. 일본어로는 東レ パン・パシフィック・オープン이라고 하며, 티켓을 검색할 때 알아 두면 편합니다.';
+  const es = 'El organizador publica las fechas en su sitio oficial. En japonés el torneo se llama 東レ パン・パシフィック・オープン, algo útil al buscar entradas.';
+  assert.deepEqual(types('ko', ko), ['japanese-leak'], 'judged without the source it still looks like a leak');
+  assert.deepEqual(scriptLeakFlags('ko', ko, { source }), []);
+  assert.deepEqual(scriptLeakFlags('es', es, { source }), []);
+  // A Japanese sentence the source does not carry is still caught.
+  const leaked = `${ko} チケットは公式サイトで早めに購入してください。会場までは電車が便利です。`;
+  assert.deepEqual(scriptLeakFlags('ko', leaked, { source }).map(([t]) => t), ['japanese-leak']);
+});
