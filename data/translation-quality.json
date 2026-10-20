@@ -36776,5 +36776,89 @@
   "registerBreak": false,
   "worst": "서쪽에는 뢰머(Römer)가 계단식 박공 파사드를 드러내고 서 있습니다.",
   "at": "2026-10-19T16:04:04.776Z"
+ },
+ "es/shanghai-rolex-shanghai-masters": {
+  "hash": "ccbde55b498c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "El Rolex Shanghai Masters es uno de los nueve únicos torneos ATP Masters 1000 que existen",
+  "at": "2026-10-20T08:20:53.019Z"
+ },
+ "ja/shanghai-rolex-shanghai-masters": {
+  "hash": "708801f29329",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "周辺の閔行区は主に住宅地で、それだけを目当てに訪れるような見どころはあまりありません。",
+  "at": "2026-10-20T08:20:54.420Z"
+ },
+ "ko/shanghai-rolex-shanghai-masters": {
+  "hash": "2666ba1da92d",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "롤렉스 상하이 마스터스를 테니스 시즌에 거쳐 가는 평범한 대회 정도로 여겨서는 안 됩니다.",
+  "at": "2026-10-20T08:20:56.932Z"
+ },
+ "zh/shanghai-rolex-shanghai-masters": {
+  "hash": "915afafecb10",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "除了主场馆，园区里还有好几块展示球场。所以即便只买了普通入场票，通常也能近距离看到练习场",
+  "at": "2026-10-20T08:20:58.236Z"
+ },
+ "es/batumi-state-art-museum-of-adjara": {
+  "hash": "9e53f3cc686a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "nada que ver con una maratón interminable de ala en ala.",
+  "at": "2026-10-20T08:20:59.466Z"
+ },
+ "es/borjomi-gogia-fortress": {
+  "hash": "3197b86f6afe",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-20T08:21:00.301Z"
+ },
+ "ja/batumi-state-art-museum-of-adjara": {
+  "hash": "6aab23e7cae9",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "レビューでは一貫して高く評価されていますが、壮大な国立美術館としてではなく、見どころが絞られた立ち寄り先として",
+  "at": "2026-10-20T08:21:07.467Z"
+ },
+ "ja/borjomi-gogia-fortress": {
+  "hash": "9181bc8e9f63",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "チケット売り場やカフェ、売店があるという報告もありません。",
+  "at": "2026-10-20T08:21:14.487Z"
+ },
+ "ko/batumi-state-art-museum-of-adjara": {
+  "hash": "2090e49d305c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "바투미에서는 볼트(Bolt) 같은 차량 호출 앱이 잘 통합니다.",
+  "at": "2026-10-20T08:21:21.057Z"
+ },
+ "ko/borjomi-gogia-fortress": {
+  "hash": "c1ee452b275e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "나머지 절반의 보상은 전망입니다.",
+  "at": "2026-10-20T08:21:27.988Z"
+ },
+ "zh/batumi-state-art-museum-of-adjara": {
+  "hash": "65e8f6880d39",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "评价一向不错，游客称赞的多是它主题集中、维护得当，而不是把它当作宏大的国家级美术馆来看。",
+  "at": "2026-10-20T08:21:33.871Z"
+ },
+ "zh/borjomi-gogia-fortress": {
+  "hash": "c1d6863ef9ef",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "戈吉亚要塞则让你换个角度。",
+  "at": "2026-10-20T08:21:45.446Z"
  }
 }

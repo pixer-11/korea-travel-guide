@@ -3299,6 +3299,12 @@
   "reason": "publish gate: Aerial view of Gonio Fortress walls and interior ruins",
   "at": "2026-10-19T15:41:58.345Z"
  },
+ "batumi-state-art-museum-of-adjara\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/State_Art_Museum_of_Adjara.jpg/1920px-State_Art_Museum_of_Adjara.jpg": {
+  "slug": "batumi-state-art-museum-of-adjara",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior view of museum building, representative hero shot",
+  "at": "2026-10-20T07:59:25.802Z"
+ },
  "beijing-arabica-baitasi-store\u0001https://fastly.4sqi.net/img/general/original/472350561_hlP1vJH1saOaKEZFidQAST_AkV4Vf_iQQIiZQ6L7IKE.jpg": {
   "slug": "beijing-arabica-baitasi-store",
   "verdict": "MATCH",
@@ -4103,6 +4109,12 @@
   "reason": "publish gate: Shows park pathway, trees, benches representative of venue",
   "at": "2026-10-19T15:41:57.898Z"
  },
+ "borjomi-gogia-fortress\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/2024-08-25_Gogia_Fortress%2C_Borjomi.jpg/3840px-2024-08-25_Gogia_Fortress%2C_Borjomi.jpg": {
+  "slug": "borjomi-gogia-fortress",
+  "verdict": "MATCH",
+  "reason": "publish gate: Ruined fortress wall on hilltop matches location and venue",
+  "at": "2026-10-20T07:59:26.001Z"
+ },
  "boryeong-mud-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Korea-Boryeong_Mud_Festival-29.jpg/1920px-Korea-Boryeong_Mud_Festival-29.jpg": {
   "slug": "boryeong-mud-festival",
   "verdict": "MATCH",
@@ -4847,6 +4859,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Representative museum interior with heritage displays and artifacts",
   "at": "2026-10-19T08:16:26.092Z"
+ },
+ "byron-bay-byron-bay-lighthouse\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Wategos_Bay_and_the_Byron_Bay_Lighthouse.jpg/3840px-Wategos_Bay_and_the_Byron_Bay_Lighthouse.jpg": {
+  "slug": "byron-bay-byron-bay-lighthouse",
+  "verdict": "MATCH",
+  "reason": "publish gate: Aerial view shows lighthouse on headland at Byron Bay",
+  "at": "2026-10-20T07:59:25.739Z"
  },
  "byron-bay-cape-byron\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2020-12-19_Cape_Byron.jpg/1920px-2020-12-19_Cape_Byron.jpg": {
   "slug": "byron-bay-cape-byron",
@@ -8501,6 +8519,12 @@
   "reason": "publish gate: Coastal wave view consistent with Snapper Rocks surf break",
   "at": "2026-09-28T17:01:21.889Z"
  },
+ "gori-gori-ethnographic-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Gori_Ethnographic_Museum.jpg/3840px-Gori_Ethnographic_Museum.jpg": {
+  "slug": "gori-gori-ethnographic-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of Gori Ethnographic Museum with signage and gate",
+  "at": "2026-10-20T07:59:25.771Z"
+ },
  "gori-gori-fortress\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Gori_fortress_by_ArmAg_%281%29.JPG/1920px-Gori_fortress_by_ArmAg_%281%29.JPG": {
   "slug": "gori-gori-fortress",
   "verdict": "MATCH",
@@ -8512,6 +8536,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows Stalin Museum building and tower in Gori",
   "at": "2026-10-19T15:41:58.319Z"
+ },
+ "gori-stalin-park\u0001https://upload.wikimedia.org/wikipedia/commons/6/69/Stalin_Park.jpg": {
+  "slug": "gori-stalin-park",
+  "verdict": "MATCH",
+  "reason": "publish gate: Plausible park scene with trees, paths, plausibly Gori",
+  "at": "2026-10-20T07:59:25.914Z"
  },
  "gori-uplistsikhe\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Middle_ages_Basilica_on_the_top_of_the_cave%2C_Uplistsikhe_20230920_%28II%29.jpg/1920px-Middle_ages_Basilica_on_the_top_of_the_cave%2C_Uplistsikhe_20230920_%28II%29.jpg": {
   "slug": "gori-uplistsikhe",
@@ -8949,6 +8979,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Snowy mountain landscape plausible for Gudauri ski resort",
   "at": "2026-10-19T15:41:57.872Z"
+ },
+ "gudauri-jvari-pass\u0001https://upload.wikimedia.org/wikipedia/commons/d/d2/Jvari_pass_%28G.N._2011%29.jpg": {
+  "slug": "gudauri-jvari-pass",
+  "verdict": "MATCH",
+  "reason": "publish gate: Mountain valley landscape plausibly matches Jvari Pass scenery",
+  "at": "2026-10-20T07:59:25.973Z"
  },
  "guia-chapel-of-our-lady-of-guia\u0001https://upload.wikimedia.org/wikipedia/commons/6/66/Chapel_of_Our_Lady_of_Guia_%E8%81%96%E6%AF%8D%E9%9B%AA%E5%9C%B0%E6%AE%BF%E6%95%99%E5%A0%82_-_panoramio.jpg": {
   "slug": "guia-chapel-of-our-lady-of-guia",
@@ -18303,6 +18339,12 @@
   "reason": "publish gate: Georgian church complex matching Samtavro's architectural style",
   "at": "2026-10-19T15:41:58.214Z"
  },
+ "mtskheta-shiomgvime-monastery\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Shio_Mghvime.jpg/1920px-Shio_Mghvime.jpg": {
+  "slug": "mtskheta-shiomgvime-monastery",
+  "verdict": "MATCH",
+  "reason": "publish gate: Monastery complex in valley, representative view",
+  "at": "2026-10-20T07:59:25.863Z"
+ },
  "mtskheta-svetitskhoveli-cathedral\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Svetitskhoveli_Cathedral_09.23_%283%29.jpg/1920px-Svetitskhoveli_Cathedral_09.23_%283%29.jpg": {
   "slug": "mtskheta-svetitskhoveli-cathedral",
   "verdict": "MATCH",
@@ -20130,6 +20172,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Church facade visible with foreground plants, representative view",
   "at": "2026-10-06T14:21:33.394Z"
+ },
+ "oaxaca-yagul\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Zona_Arqueol%C3%B3gica_de_Yagul.jpg/1920px-Zona_Arqueol%C3%B3gica_de_Yagul.jpg": {
+  "slug": "oaxaca-yagul",
+  "verdict": "MATCH",
+  "reason": "publish gate: Aerial view of Yagul ruins matches Oaxaca archaeological site",
+  "at": "2026-10-20T07:59:25.688Z"
  },
  "okayama-hayashibara-museum-of-art\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Gate_-_Hayashibara_Museum_of_Art_-_DSC01773.JPG/1920px-Gate_-_Hayashibara_Museum_of_Art_-_DSC01773.JPG": {
   "slug": "okayama-hayashibara-museum-of-art",
@@ -25679,6 +25727,12 @@
   "reason": "publish gate: Shows Sighnaghi fortress wall with towers and valley view",
   "at": "2026-10-19T15:41:57.950Z"
  },
+ "sighnaghi-signagi-st-george-basilica\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Signagi_St._George_basilica_09.23.jpg/3840px-Signagi_St._George_basilica_09.23.jpg": {
+  "slug": "sighnaghi-signagi-st-george-basilica",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows church and bell tower, representative of venue",
+  "at": "2026-10-20T07:59:25.833Z"
+ },
  "sihanoukville-independence-park\u0001https://upload.wikimedia.org/wikipedia/commons/e/eb/Sihanoukville_-_Independence_Park.jpg": {
   "slug": "sihanoukville-independence-park",
   "verdict": "MATCH",
@@ -29401,6 +29455,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Cave interior with stalactites/stalagmites, representative of Prometheus Cave",
   "at": "2026-10-19T15:41:58.110Z"
+ },
+ "tskaltubo-sanatorium-metallurgist\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Sanatorium_Metallurgist_2023-08-22-2.jpg/3840px-Sanatorium_Metallurgist_2023-08-22-2.jpg": {
+  "slug": "tskaltubo-sanatorium-metallurgist",
+  "verdict": "MATCH",
+  "reason": "publish gate: Abandoned sanatorium hall interior, matches Tskaltubo ruin aesthetic",
+  "at": "2026-10-20T07:59:25.942Z"
  },
  "tsonjin-boldog-danzanravjaa-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Danzanravjaa_Museum_of_Sainshand-4.jpg/1920px-Danzanravjaa_Museum_of_Sainshand-4.jpg": {
   "slug": "tsonjin-boldog-danzanravjaa-museum",

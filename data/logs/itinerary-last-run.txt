@@ -1,4 +1,3 @@
-SKIP new city "Macau" — weekly new-city cap (2/7d) reached
 SKIP new city "Macau Peninsula" — weekly new-city cap (2/7d) reached
 SKIP new city "San Francisco" — weekly new-city cap (2/7d) reached
 SKIP new city "Seattle" — weekly new-city cap (2/7d) reached
@@ -46,6 +45,12 @@ Los Angeles, United States — 16 qualifying post(s), variants: 3
 
 Lyon, France — 15 qualifying post(s), variants: 3
   · Lyon 3d — skipped: day 2 totals only 219 min (floor 240) and no further sight can be added to it
+
+Macau, Macau — 52 qualifying post(s), variants: 3, 5
+  ⚠ Macau 3d — guard found 1 hours/price + 6 rain-leak issue(s) on first pass; retrying once
+PROSE-GUARD FAILED: Macau 3d — hours-language in faq[3].q: "Do I need to worry about any venues being closed on certain days?"
+PROSE-GUARD FAILED: Macau 3d — hours-language in faq[3].a: "A few stops, like the Maritime Museum, Mandarin's House, Casa de Nostalgia and the Macao Giant Panda Pavilion, each sit closed on a specific day of the week, so it's worth checking those before you go."
+ERROR processing Macau: prose guard failed for Macau 3d after retry (2 issue(s))
 
 New Orleans, United States — 17 qualifying post(s), variants: 3
   = New Orleans 3d — unchanged, skipping

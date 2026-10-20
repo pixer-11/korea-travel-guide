@@ -1,67 +1,67 @@
 ---
 lang: es
 slug: shanghai-rolex-shanghai-masters
-srcHash: '101493825982'
+srcHash: 'c53c67304032'
 title: 'Rolex Shanghai Masters: fechas, entradas y sede (Shanghái)'
-description: Rolex Shanghai Masters en Shanghái, China — del 7 al 18 de octubre de 2026. Qué es, cuándo y dónde se celebra, y cómo organizar tu visita.
-quickAnswer: El Rolex Shanghai Masters vuelve al Qi Zhong Tennis Center de Shanghái del 7 al 18 de octubre de 2026 (en algunos listados el torneo aparece desde el 5 de octubre, ya que esa fecha incluye las rondas de clasificación previas a la final). Es el único evento ATP Masters 1000 que se celebra en China y en todo Asia, y reúne a los mejores tenistas del mundo durante dos semanas de competición sobre pista dura. Antes de reservar vuelos u hoteles, conviene confirmar las fechas exactas, el orden de juego y las categorías de entradas en la web oficial del Rolex Shanghai Masters.
+description: El Rolex Shanghai Masters, único ATP Masters 1000 de Asia, tenía previstas sus fechas del 7 al 18 de octubre de 2026 en el Centro de Tenis Qi Zhong de Shanghái (China).
+quickAnswer: Las fechas anunciadas para el Rolex Shanghai Masters eran del 7 al 18 de octubre de 2026, en el Centro de Tenis Qi Zhong (Qi Zhong Tennis Center) de Shanghái. Algunos calendarios situaban el inicio el 5 de octubre e incluían así desde la fase previa hasta la final. Es el único torneo ATP Masters 1000 de China y de toda Asia, y durante dos semanas reúne en pista dura a los mejores tenistas masculinos del mundo.
 faq:
   - q: ¿Cuáles son las fechas del Rolex Shanghai Masters 2026?
-    a: El torneo está previsto del 7 al 18 de octubre de 2026, aunque algunos listados amplían el periodo desde el 5 de octubre para incluir la clasificación. Conviene confirmar las fechas exactas de cada partido y el orden de juego en la web oficial del Rolex Shanghai Masters.
-  - q: ¿Dónde se celebra el Rolex Shanghai Masters?
-    a: En el Qi Zhong Tennis Center, en el distrito de Minhang, al suroeste de Shanghái, a unos 45 minutos o una hora del centro de la ciudad en taxi o metro.
-  - q: ¿Cómo se llega al Qi Zhong Tennis Center en transporte público?
-    a: Hay que tomar la Línea 5 de metro hasta la estación de Dongchuan Road y desde allí completar el trayecto en un breve taxi o servicio de traslado. Suele ser más fiable que ir en coche, ya que el aparcamiento cerca de las pistas se llena en los días de partidos importantes.
+    a: Las fechas anunciadas para el torneo eran del 7 al 18 de octubre de 2026. Algunos calendarios adelantaban el inicio al 5 de octubre para incluir la fase previa.
+  - q: ¿Dónde se disputa el Rolex Shanghai Masters?
+    a: La sede elegida para la edición de 2026 era el Centro de Tenis Qi Zhong (Qi Zhong Tennis Center), en el distrito de Minhang, al suroeste de Shanghái. Desde el centro de la ciudad se tarda entre 45 minutos y una hora en taxi o en metro.
+  - q: ¿Cómo se llega al Centro de Tenis Qi Zhong en transporte público?
+    a: La línea 5 del metro llega hasta la estación Dongchuan Road, y desde allí un breve trayecto en taxi o lanzadera cubre el resto del camino hasta la sede. Suele ser una opción más fiable que el coche, porque el aparcamiento cercano a las pistas se llena en las grandes jornadas.
   - q: ¿Cuánto cuestan las entradas y cuándo conviene comprarlas?
-    a: Los precios varían según la sesión y la categoría de asiento, desde pases para pistas exteriores hasta asientos premium en el estadio para las semifinales y la final. Conviene comprar con antelación para el fin de semana final, ya que esas sesiones suelen agotarse antes de que empiece el torneo; los precios actuales pueden consultarse en la web oficial.
-  - q: ¿Merece la pena combinar el Rolex Shanghai Masters con turismo por Shanghái?
-    a: La sede queda alejada de las zonas turísticas principales, como el Bund o Xintiandi, por lo que la mayoría de los visitantes lo plantean como una salida independiente de medio día o de noche, más que como algo para combinar directamente con el turismo.
+    a: Los precios de 2026 variaban según la sesión y la categoría del asiento, desde pases para las pistas exteriores hasta localidades preferentes en el estadio para las semifinales y la final. En este torneo, las sesiones del último fin de semana suelen agotarse con mucha antelación.
+  - q: ¿Merece la pena combinar el Rolex Shanghai Masters con una visita turística a Shanghái?
+    a: La sede está alejada de las principales zonas turísticas, como el Bund o Xintiandi, por lo que la mayoría de los visitantes la plantea como una salida propia de media jornada o de tarde-noche, en lugar de enlazarla directamente con el turismo por la ciudad.
 ---
 
 ## Qué es realmente el Rolex Shanghai Masters
 
-No se trata de una parada más en el calendario del tenis. El Rolex Shanghai Masters es uno de los nueve torneos ATP Masters 1000 que existen en el mundo, el escalón inmediatamente inferior a los cuatro Grand Slams, y el único Masters 1000 que se disputa en todo Asia.
+No se trata de una parada más en el calendario tenístico. El Rolex Shanghai Masters es uno de los nueve únicos torneos ATP Masters 1000 que existen en el mundo, la categoría inmediatamente inferior a los cuatro Grand Slams. Además, ningún otro Masters 1000 se disputa en Asia.
 
-Ese estatus atrae a un cuadro de gran nivel: varios cabezas de serie del top diez, un cuadro individual de 96 jugadores y una competición de dobles en la que suelen participar campeones de Grand Slam. Contando las rondas de clasificación, la competición se extiende durante unos diez días, hasta desembocar en la final del domingo.
+Esa categoría atrae a un cuadro de gran nivel. Participan varios cabezas de serie del top diez, el cuadro individual cuenta con 96 jugadores y en la competición de dobles es habitual ver a campeones de Grand Slam. Si se suma la fase previa, el torneo suele ofrecer unos diez días de tenis que culminan en una final en domingo.
 
-## El Qi Zhong Tennis Center, la sede
+## La sede: el Centro de Tenis Qi Zhong
 
-El torneo se disputa en el Qi Zhong Tennis Center, en el distrito de Minhang, al suroeste de Shanghái. Se trata de un complejo construido específicamente para este fin, cuyo estadio principal cuenta con un techo retráctil con forma de flor de magnolia, el emblema de la ciudad. Tiene capacidad para unas 15.000 personas y se cierra en apenas seis minutos cuando amenaza lluvia, un detalle que conviene tener en cuenta si se planea pasar el día en asientos al aire libre y el tiempo se presenta incierto.
+El Centro de Tenis Qi Zhong es un complejo construido expresamente para este deporte en el distrito de Minhang, al suroeste de Shanghái, y fue la sede elegida para el torneo de 2026. Su estadio principal tiene una cubierta retráctil con forma de flor de magnolia, emblema de la ciudad. Tiene capacidad para unos 15.000 espectadores, y cuando amenaza lluvia la cubierta se cierra en unos seis minutos.
 
-Además del estadio principal, el recinto cuenta con varias pistas secundarias, de modo que incluso una entrada general suele permitir acceso cercano a las pistas de entrenamiento y a partidos de jugadores cabeza de serie en las pistas exteriores.
+Además del estadio principal, el recinto cuenta con varias pistas de exhibición. Por eso, incluso con una entrada general se suele poder ver de cerca las pistas de entrenamiento y los partidos de las pistas exteriores, en los que también juegan cabezas de serie.
 
-- Cómo llegar: la ruta más fiable desde el centro de Shanghái es tomar la Línea 5 de metro hasta Dongchuan Road y continuar en taxi o servicio de traslado
-- Ir en coche es posible, pero el aparcamiento cercano a la sede se llena rápido en los días de partidos destacados
-- Conviene calcular cerca de una hora desde la Plaza del Pueblo (People's Square) o el Bund en horas de tráfico intenso
+- Cómo llegar: desde el centro de Shanghái, la ruta más fiable consiste en tomar la línea 5 del metro hasta Dongchuan Road y continuar en taxi o lanzadera
+- También se puede ir en coche, aunque en las jornadas de los partidos más esperados el aparcamiento cercano se llena enseguida
+- En hora punta, el trayecto desde la Plaza del Pueblo (People's Square) o desde el Bund ronda la hora
 
-## Entradas, categorías y qué esperar del precio
+## Entradas, categorías y precios orientativos
 
-Las categorías de entradas suelen ir desde pases de sesión única para pistas exteriores hasta asientos premium en el estadio para las semifinales y la final, siendo estos últimos considerablemente más caros que las sesiones de primeras rondas. El precio exacto varía cada año y según la categoría de asiento, por lo que cualquier cifra que se encuentre en otras fuentes debe tomarse como orientativa y no como definitiva.
+Para 2026 había entradas de distintas categorías: desde pases de una sola sesión para las pistas exteriores hasta localidades preferentes en el estadio para las semifinales y la final, mucho más caras que las de las primeras rondas. Los precios cambian de un año a otro y según el tipo de asiento, de modo que las cifras publicadas en distintos sitios rara vez coinciden del todo.
 
-Las fechas y entradas conviene confirmarlas en la web oficial del Rolex Shanghai Masters, donde se publica el calendario de sesiones vigente, los planos de asientos y los posibles paquetes de hospitalidad. Comprar con antelación es especialmente importante para el fin de semana final, cuando los asientos de estadio para semifinales y la final se agotan mucho antes de que empiece el torneo.
+Tradicionalmente, en este torneo lo más difícil de conseguir son las entradas del último fin de semana. Las localidades del estadio para las semifinales y la final suelen agotarse con mucha antelación, mientras que resulta bastante más fácil encontrar entradas para las primeras rondas y pases para las pistas exteriores.
 
 ## El ritual de las sesiones nocturnas
 
-El público de Shanghái tiene un ritmo particular: las sesiones diurnas reúnen a una mezcla de aficionados habituales y curiosos que asisten por primera vez, pero es en las sesiones vespertinas donde cambia el ambiente. Bajo los focos, y con el techo del estadio a menudo cerrado para protegerse del fresco otoñal, los partidos nocturnos en la pista principal suelen contar con las mayores figuras del torneo y atraen al público más ruidoso y entregado de toda la semana.
+El público de Shanghái tiene un ritmo propio. A las sesiones diurnas acude una mezcla de aficionados habituales y curiosos que asisten por primera vez, pero es por la noche cuando cambia el ambiente. Bajo los focos, y a menudo con la cubierta cerrada para protegerse del fresco de las noches de otoño, los partidos nocturnos de la pista central suelen reunir a las grandes figuras del torneo y a las gradas más ruidosas y entregadas de toda la semana.
 
-Si solo se puede asistir a una sesión, lo mejor es elegir un partido nocturno de la segunda semana. Es entonces cuando el cuadro ya se ha reducido a cuartofinalistas y semifinalistas, y el ambiente en el estadio alcanza su punto más álgido.
+El punto álgido suele llegar con los partidos nocturnos de la segunda semana. Para entonces, en el cuadro normalmente ya solo quedan cuartofinalistas y semifinalistas, y el ambiente del estadio alcanza su máxima intensidad.
 
 ## Cómo entrar sin agobios
 
-En los días de partido, un gran número de espectadores pasa por un número limitado de puertas de acceso, así que conviene calcular tiempo de sobra en lugar de llegar justo a la hora del primer partido programado. Los controles de seguridad son similares a los de un aeropuerto: se escanean los bolsos, y suele estar restringido el ingreso de bolsas grandes o de comida y bebida traídas de fuera, así que conviene entrar con lo mínimo imprescindible.
+En las jornadas de partido, un gran número de espectadores accede por unas pocas puertas, y las colas suelen formarse justo antes del primer encuentro del programa. Los controles de seguridad se parecen a los de un aeropuerto: se escanean los bolsos y es habitual que se limite la entrada de bolsas grandes, así como de comida y bebida del exterior.
 
-Las entradas móviles son el sistema habitual; conviene tener el billete cargado y la pantalla del teléfono con buen brillo antes de llegar a la puerta, en lugar de manipular el móvil ya en la cola. Dentro del recinto, la comida y la bebida se pagan casi siempre sin efectivo, por lo que llevar una aplicación de pago móvil vinculada o una tarjeta ahorra tiempo frente a pagar en metálico.
+En el recinto se utilizan por norma las entradas electrónicas, y el personal de acceso las escanea directamente en la pantalla del móvil. Dentro, la comida y la bebida se pagan casi en todas partes sin efectivo, por lo que una aplicación de pago móvil vinculada o una tarjeta resultan más rápidas que el dinero en metálico.
 
-## Más allá de la pista: qué más planear en torno al torneo
+## Más allá de la línea de fondo: qué más tener en cuenta durante el torneo
 
-El Qi Zhong queda bastante alejado del núcleo turístico habitual de Shanghái, por lo que la mayoría de los visitantes lo tratan como una excursión aparte de medio día o de noche, en lugar de combinarlo con un paseo por el Bund. El vecino distrito de Minhang es sobre todo residencial y cuenta con pocos atractivos propios, así que conviene reservar el resto del itinerario turístico para otros días.
+Qi Zhong queda bastante lejos del núcleo turístico habitual de Shanghái. Por eso, la mayoría de los visitantes lo plantea como una excursión propia de media jornada o de tarde-noche, y no como un añadido a un paseo por el Bund. El distrito de Minhang, que lo rodea, es sobre todo residencial y apenas tiene atractivos por sí mismo.
 
-Si se está organizando una estancia más larga en Shanghái en torno al torneo, lo más práctico es alojarse cerca de una estación de la Línea 5 o la Línea 1 de metro, para facilitar el trayecto hasta Dongchuan Road. Tanto la Plaza del Pueblo como Xintiandi y el Bund se encuentran a unos 45 minutos o una hora de la sede en taxi o combinando metro y algún transbordo.
+En estancias más largas en Shanghái, alojarse cerca de una estación de las líneas 5 o 1 del metro facilita mucho el desplazamiento hasta Dongchuan Road. Las zonas de la Plaza del Pueblo, Xintiandi y el Bund quedan a entre 45 minutos y una hora de la sede, ya sea en taxi o en metro con transbordo.
 
-## Notas prácticas para quienes asisten por primera vez
+## Consejos prácticos para quienes asisten por primera vez
 
-Octubre en Shanghái suele ser suave, con días templados que dan paso a noches frescas, lo cual explica en parte por qué el torneo se ubica cómodamente en el calendario de otoño. Conviene llevar una capa ligera para las sesiones nocturnas aunque la tarde parezca calurosa, sobre todo si el techo del estadio permanece abierto.
+En octubre, el tiempo en Shanghái suele ser suave: días cálidos y noches frescas, una de las razones por las que el torneo encaja tan bien en el calendario otoñal. Las sesiones nocturnas pueden resultar frescas aunque la tarde haya sido calurosa, sobre todo si la cubierta del estadio permanece abierta.
 
-- Idioma: hay señalización en inglés en el recinto, pero el personal de venta de entradas y los vendedores pueden tener un inglés limitado, así que ayuda llevar frases clave o una aplicación de traducción
-- Fotografía: las cámaras para uso personal suelen estar permitidas, pero conviene consultar la política vigente sobre equipos profesionales antes de llevar algo con teleobjetivo
-- Autógrafos y pistas de entrenamiento: llegar con bastante antelación a una sesión ofrece las mejores oportunidades de ver a los jugadores calentando en las pistas de entrenamiento, donde el acceso suele ser más flexible que dentro del estadio principal
+- Idioma: en el recinto hay señalización en inglés, pero el personal de taquilla y los vendedores pueden tener un nivel limitado, así que conviene llevar algunas frases clave o una aplicación de traducción
+- Fotografía: las cámaras para uso personal suelen estar permitidas, mientras que el equipo profesional con teleobjetivos a menudo está restringido
+- Autógrafos y pistas de entrenamiento: el rato previo al inicio de cada sesión es el mejor momento para ver a los jugadores calentar en las pistas de entrenamiento, donde el acceso es más flexible que en el estadio principal
