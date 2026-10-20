@@ -818,9 +818,9 @@
  },
  "alicante-atp-challenger-alicante\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Mahesh_Bhupathi_and_Rohan_Bopanna_at_the_ATP_World_Tennis_Finals.jpg/3840px-Mahesh_Bhupathi_and_Rohan_Bopanna_at_the_ATP_World_Tennis_Finals.jpg": {
   "slug": "alicante-atp-challenger-alicante",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Tennis players at ATP event, plausible archive photo",
-  "at": "2026-10-19T23:00:36.830Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares no word with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-20T08:30:43.579Z"
  },
  "alice-springs-alice-springs-desert-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Alice_Springs_Desert_Park%2C_October_2025_07.jpg/1920px-Alice_Springs_Desert_Park%2C_October_2025_07.jpg": {
   "slug": "alice-springs-alice-springs-desert-park",
@@ -15558,9 +15558,9 @@
  },
  "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Doubles_at_the_ATP_Finals_%2849070833022%29.jpg/3840px-Doubles_at_the_ATP_Finals_%2849070833022%29.jpg": {
   "slug": "london-atp-finals",
-  "verdict": "MATCH",
-  "reason": "patrol replace: ATP Finals tennis court, professional venue setup",
-  "at": "2026-10-19T23:04:42.805Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"finals\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-20T08:30:43.766Z"
  },
  "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Doubles_at_the_ATP_Finals_%2849070106548%29.jpg/3840px-Doubles_at_the_ATP_Finals_%2849070106548%29.jpg": {
   "slug": "london-atp-finals",
@@ -20106,9 +20106,9 @@
  },
  "nuremberg-nuremberg-christkindlesmarkt\u0001https://upload.wikimedia.org/wikipedia/commons/f/fb/Christkindlesmarkt_Nuernberg.jpg": {
   "slug": "nuremberg-nuremberg-christkindlesmarkt",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Nuremberg Christkindlesmarkt at Hauptmarkt, nighttime festiv",
-  "at": "2026-10-19T23:06:03.273Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"christkindlesmarkt\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-20T08:30:43.962Z"
  },
  "nuremberg-nuremberg-christkindlesmarkt\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Christkindlesmarkt_2023_N%C3%BCrnberg_134.jpg/3840px-Christkindlesmarkt_2023_N%C3%BCrnberg_134.jpg": {
   "slug": "nuremberg-nuremberg-christkindlesmarkt",
@@ -22486,9 +22486,9 @@
  },
  "puerto-princesa-ironman-70-3-puerto-princesa\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/IRONMAN_70.3_Hradec_Kralove_2024_4_c%C3%ADlov%C3%A1_rovinka.jpg/1920px-IRONMAN_70.3_Hradec_Kralove_2024_4_c%C3%ADlov%C3%A1_rovinka.jpg": {
   "slug": "puerto-princesa-ironman-70-3-puerto-princesa",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Ironman 70.3 event venue with timer display",
-  "at": "2026-10-19T23:08:32.546Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"ironman\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-20T08:30:44.154Z"
  },
  "puerto-princesa-luli-island\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Luli_Island%2C_Honda_Bay%2C_Palawan%2C_Philippines.jpg/3840px-Luli_Island%2C_Honda_Bay%2C_Palawan%2C_Philippines.jpg": {
   "slug": "puerto-princesa-luli-island",
