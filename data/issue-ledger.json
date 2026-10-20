@@ -1,11 +1,5 @@
 {
-  "validate-content": {
-    "ENDED-EVENT-ADVICE shanghai-rolex-shanghai-masters.md": {
-      "since": "2026-10-19",
-      "last": "2026-10-19",
-      "seen": 1
-    }
-  },
+  "validate-content": {},
   "audit-translations": {},
   "audit-hours-claims": {}
 }
