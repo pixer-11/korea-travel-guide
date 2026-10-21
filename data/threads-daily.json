@@ -91,29 +91,30 @@
     "singapore-deepavali-diwali-little-india-festival",
     "bangkok-bigbang-world-tour-xx-cosmos-in-bangkok",
     "mexico-city-boynextdoor-knock-on-tour",
-    "san-fernando-giant-lantern-festival-ligligan-parul"
+    "san-fernando-giant-lantern-festival-ligligan-parul",
+    "shanghai-china-international-import-expo-ciie"
   ],
-  "lastSentDay": "2026-10-21",
+  "lastSentDay": "2026-10-22",
   "material": {
-    "day": "2026-10-21",
-    "slug": "san-fernando-giant-lantern-festival-ligligan-parul",
-    "title": "Giant Lantern Festival (Ligligan Parul): Dates, Tickets & Venue (San Fernando)",
+    "day": "2026-10-22",
+    "slug": "shanghai-china-international-import-expo-ciie",
+    "title": "China International Import Expo (CIIE): Dates, Tickets & Venue (Shanghai)",
     "urls": [
-      "https://wanderatlasguides.com/og/social/2026-10-21-san-fernando-giant-lantern-festival-ligligan-parul-1.jpg",
-      "https://wanderatlasguides.com/og/social/2026-10-21-san-fernando-giant-lantern-festival-ligligan-parul-2.jpg",
-      "https://wanderatlasguides.com/og/social/2026-10-21-san-fernando-giant-lantern-festival-ligligan-parul-3.jpg",
-      "https://wanderatlasguides.com/og/social/2026-10-21-san-fernando-giant-lantern-festival-ligligan-parul-4.jpg"
+      "https://wanderatlasguides.com/og/social/2026-10-22-shanghai-china-international-import-expo-ciie-1.jpg",
+      "https://wanderatlasguides.com/og/social/2026-10-22-shanghai-china-international-import-expo-ciie-2.jpg",
+      "https://wanderatlasguides.com/og/social/2026-10-22-shanghai-china-international-import-expo-ciie-3.jpg",
+      "https://wanderatlasguides.com/og/social/2026-10-22-shanghai-china-international-import-expo-ciie-4.jpg"
     ],
-    "igCaption": "Picture a star the size of a house, lit with thousands of bulbs and spinning with hidden rotor magic. San Fernando's Giant Lantern Festival runs Dec 13, 2026–Jan 1, 2027, and the competition night is the whole show.\n\n#SanFernando #Philippines #events #travel #wanderatlas #GiantLanternFestival #LigliganParul #Pampanga #PhilippinesTravel #ChristmasInThePhilippines\n📷 Photo: Victor Kong / Wikimedia Commons (CC BY 3.0) (edited)\n📷 Photo: Ramon FVelasquez / Wikimedia Commons (CC BY-SA 3.0) (edited)",
-    "thOption": "The lanterns face the judges, so the best view is front-on and slightly back to catch the whole star. Where would you post up for the full rotor show?",
-    "link": "https://wanderatlasguides.com/posts/san-fernando-giant-lantern-festival-ligligan-parul/"
+    "igCaption": "Six days, one giant four-leaf-clover building, and the whole world selling into China. The 9th CIIE hits Shanghai's NECC Nov 5-10, 2026 — real-name registration required, Line 2 metro gets you straight there.\n\n#Shanghai #China #events #travel #wanderatlas #CIIE #ChinaTravel #TradeExpo #Qingpu #TravelTips\n📷 Photo: Queseria la Antigua de Fuentesauco from Salamanca, España / Wikimedia Commons (CC BY 2.0) (edited)\n📷 Photo: International Trade Centre (ITC) / Wikimedia Commons (CC BY 2.0) (edited)\n📷 Photo: N509FZ / Wikimedia Commons (CC BY-SA 4.0) (edited)",
+    "thOption": "CIIE flips the usual trade fair script — instead of selling abroad, companies come to Shanghai to sell INTO China. Would you rather explore the Country Exhibition pavilions or dive straight into the Business Exhibition halls?",
+    "link": "https://wanderatlasguides.com/posts/shanghai-china-international-import-expo-ciie/"
   },
   "social": {
-    "thDay": "2026-10-21",
-    "thId": "18133849984683531",
+    "thDay": "2026-10-22",
+    "thId": "18102978269289350",
     "igDay": "2026-10-21",
     "igId": "18114193268036036",
-    "thSlug": "san-fernando-giant-lantern-festival-ligligan-parul",
+    "thSlug": "shanghai-china-international-import-expo-ciie",
     "igSlug": "san-fernando-giant-lantern-festival-ligligan-parul",
     "history": [
       {
@@ -212,7 +213,17 @@
       {
         "day": "2026-10-15",
         "slug": "singapore-wave-to-earth-the-pisces-tour",
-        "thId": "18072688031752993"
+        "thId": "18072688031752993",
+        "insights": {
+          "at": "2026-10-22",
+          "th": {
+            "views": 46,
+            "likes": 0,
+            "replies": 0,
+            "reposts": 0,
+            "quotes": 0
+          }
+        }
       },
       {
         "day": "2026-10-16",
@@ -246,6 +257,11 @@
         "slug": "san-fernando-giant-lantern-festival-ligligan-parul",
         "thId": "18133849984683531",
         "igId": "18114193268036036"
+      },
+      {
+        "day": "2026-10-22",
+        "slug": "shanghai-china-international-import-expo-ciie",
+        "thId": "18102978269289350"
       }
     ]
   }
