@@ -578,6 +578,9 @@ export function regionRedirects() {
   for (const p of ['', '/ko', '/ja', '/es', '/zh']) {
     lines.push(`${p}/posts/okayama-kurashiki-bikan-historical-quarter/ ${p}/posts/kurashiki-kurashiki-bikan-historical-quarter/ 301`);
     lines.push(`${p}/posts/okayama-ohara-museum-of-art/ ${p}/posts/kurashiki-ohara-museum-of-art/ 301`);
+    // Mongolian Military Museum (2026-10-21): born tagged Terelj, though it is
+    // in Bayanzurkh, eastern Ulaanbaatar; held as wrong-region, never live.
+    lines.push(`${p}/posts/terelj-mongolian-military-museum/ ${p}/posts/ulaanbaatar-mongolian-military-museum/ 301`);
   }
   // Chichu Art Museum (2026-10-11): born in the Takamatsu pilot run tagged
   // Takamatsu, though the museum is on Naoshima, a ferry ride away (its own

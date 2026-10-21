@@ -28776,12 +28776,6 @@
   "reason": "publish gate: Shows temple building with mountains, matches Terelj location",
   "at": "2026-10-11T14:24:51.840Z"
  },
- "terelj-mongolian-military-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Mongolian_Military_Museum.jpg/1920px-Mongolian_Military_Museum.jpg": {
-  "slug": "terelj-mongolian-military-museum",
-  "verdict": "MATCH",
-  "reason": "publish gate: Exterior of Mongolian Military Museum building with signage",
-  "at": "2026-10-12T09:12:06.077Z"
- },
  "termez-eco-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Eco_Park_in_Tashkent.jpg/3840px-Eco_Park_in_Tashkent.jpg": {
   "slug": "termez-eco-park",
   "verdict": "MATCH",
@@ -30036,6 +30030,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Turkish flag and crowd, wrong country for Mongolia",
   "at": "2026-10-18T23:16:11.111Z"
+ },
+ "ulaanbaatar-mongolian-military-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Mongolian_Military_Museum.jpg/1920px-Mongolian_Military_Museum.jpg": {
+  "slug": "ulaanbaatar-mongolian-military-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of Mongolian Military Museum building with signage",
+  "at": "2026-10-12T09:12:06.077Z"
  },
  "ulaanbaatar-national-museum-of-mongolia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/National_Museum_of_Mongolia_%282023%29.jpg/1920px-National_Museum_of_Mongolia_%282023%29.jpg": {
   "slug": "ulaanbaatar-national-museum-of-mongolia",

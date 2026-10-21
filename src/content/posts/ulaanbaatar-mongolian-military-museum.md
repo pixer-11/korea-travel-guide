@@ -1,8 +1,8 @@
 ---
-title: "Mongolian Military Museum: Terelj Travel Guide (4.3★)"
-description: "The Mongolian Military Museum is in Bayanzurkh District on the east side of Ulaanbaatar, so it sits on your way out of the city toward Terelj rather than in the national park itself. 4.3★ (223 reviews) — what visitors say, hours, and tips."
+title: "Mongolian Military Museum: Ulaanbaatar Travel Guide (4.3★)"
+description: "The Mongolian Military Museum is in Bayanzurkh District on the east side of Ulaanbaatar, on the road out toward Terelj. 4.3★ (223 reviews) — what visitors say, hours, and tips."
 country: "Mongolia"
-region: "Terelj"
+region: "Ulaanbaatar"
 category: "attraction"
 pubDate: "2026-10-12T09:12:06.056Z"
 heroImage:
@@ -34,12 +34,12 @@ place:
     - "Saturday: 10:00 AM – 5:00 PM"
     - "Sunday: 10:00 AM – 5:00 PM"
 tags:
-  - "terelj"
+  - "ulaanbaatar"
   - "museum"
-quickAnswer: "The Mongolian Military Museum is in Bayanzurkh District on the east side of Ulaanbaatar, so it sits on your way out of the city toward Terelj rather than in the national park itself. It's open 10am–5pm every day except Tuesday at the moment, so plan on one to two hours there. It's a quieter stop than the big central museums."
+quickAnswer: "The Mongolian Military Museum is in Bayanzurkh District on the east side of Ulaanbaatar, on the road out of the city toward Gorkhi-Terelj National Park. It's open 10am–5pm every day except Tuesday at the moment, so plan on one to two hours there. It's a quieter stop than the big central museums."
 faq:
-  - q: "Is the Mongolian Military Museum actually in Terelj?"
-    a: "No. It's in Bayanzurkh District, eastern Ulaanbaatar. That's the side of the city you leave through for Gorkhi-Terelj National Park, so it's easy to stop on the way."
+  - q: "How far is the Mongolian Military Museum from Terelj?"
+    a: "It's in Bayanzurkh District, eastern Ulaanbaatar, on the side of the city you leave through for Gorkhi-Terelj National Park. The park is still a long drive northeast, so the museum is an easy stop on the way."
   - q: "When is it open?"
     a: "Currently 10am–5pm Monday and Wednesday to Sunday. It's closed on Tuesdays. Hours can change with the season and on holidays like Naadam and Tsagaan Sar, so check before you go."
   - q: "How long should I spend there?"
@@ -55,7 +55,7 @@ heldReason: wrong-region
 
 ## East Ulaanbaatar, not the park
 
-Get the map right before you set off. The Mongolian Military Museum (Монгол цэргийн музей, *Mongol tsergiin muzei*) is listed under Terelj, but its address is 4th khoroo, Bayanzurkh District, in eastern Ulaanbaatar. Gorkhi-Terelj National Park is still a long drive northeast of here.
+The Mongolian Military Museum (Монгол цэргийн музей, *Mongol tsergiin muzei*) is at 4th khoroo, Bayanzurkh District, in eastern Ulaanbaatar. Gorkhi-Terelj National Park is still a long drive northeast of here.
 
 That location works in your favour. Bayanzurkh is the side of the city you leave through on the way to Terelj. You can stop here on the morning you head out to the park, or on the way back in.
 
