@@ -451,5 +451,20 @@
       "One NZ notes that phones bought outside New Zealand may not be able to make 111 emergency calls, so check how your phone handles 111 before heading into the backcountry.",
       "If you would rather have a physical SIM, Spark has kiosks at Auckland and Christchurch airports, and One NZ and 2degrees sell visitor SIMs at airports and in their stores."
     ]
+  },
+  "canada": {
+    "name": "Canada",
+    "carriers": [
+      "Rogers",
+      "Bell",
+      "TELUS"
+    ],
+    "intro": "Canada's three national mobile networks are Rogers, Bell and TELUS, and their budget brands (such as Fido, Virgin Plus, Koodo and Public Mobile) ride on the same networks. Bell says travellers coming from abroad can activate a Bell eSIM in the MyBell app, which needs Wi-Fi or mobile data and an eligible credit card to place the order. TELUS stopped new activations on its own prepaid brand on 1 July 2026 and now sends new prepaid customers to Koodo Prepaid, which it owns. A travel eSIM from an international seller rides on one of these networks; check which one it names before you buy.",
+    "coverage": "Signal is reliable in Toronto, Montreal, Quebec City, Ottawa, Vancouver, Victoria, Calgary and the towns along the main highways, including the Banff, Lake Louise and Jasper townsites. Outside them it drops away quickly: Parks Canada says there is no year-round cell coverage on the Icefields Parkway between Lake Louise and Jasper, and much of the country's north, including the land around Churchill, has coverage only in and near the towns.",
+    "tips": [
+      "Download offline maps and save your accommodation and tour contacts before driving the Icefields Parkway, as there is no cell service on the parkway itself, only at each end.",
+      "Bell's traveller eSIM is ordered in the MyBell app, so set it up on hotel or airport Wi-Fi with the credit card you plan to use.",
+      "A trip that continues into the United States needs a plan that covers both countries, so check the coverage list before you cross the border."
+    ]
   }
 }

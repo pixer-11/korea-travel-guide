@@ -2665,6 +2665,244 @@
       "topic": "Waitangi Treaty Grounds",
       "category": "attraction",
       "query": "Waitangi Treaty Grounds Paihia New Zealand"
+    },
+    {
+      "country": "Canada",
+      "region": "Toronto",
+      "topic": "CN Tower",
+      "category": "attraction",
+      "query": "CN Tower Toronto Ontario Canada"
+    },
+    {
+      "country": "Canada",
+      "region": "Toronto",
+      "topic": "Royal Ontario Museum",
+      "category": "attraction",
+      "query": "Royal Ontario Museum Toronto Canada"
+    },
+    {
+      "country": "Canada",
+      "region": "Toronto",
+      "topic": "Distillery Historic District",
+      "category": "hidden-gem",
+      "query": "Distillery Historic District Toronto Canada"
+    },
+    {
+      "country": "Canada",
+      "region": "Toronto",
+      "topic": "St. Lawrence Market",
+      "category": "attraction",
+      "query": "St. Lawrence Market Toronto Canada"
+    },
+    {
+      "country": "Canada",
+      "region": "Niagara Falls",
+      "topic": "Horseshoe Falls",
+      "category": "attraction",
+      "query": "Horseshoe Falls Table Rock Niagara Falls Ontario Canada"
+    },
+    {
+      "country": "Canada",
+      "region": "Niagara Falls",
+      "topic": "Journey Behind the Falls",
+      "category": "attraction",
+      "query": "Journey Behind the Falls Niagara Falls Ontario Canada"
+    },
+    {
+      "country": "Canada",
+      "region": "Niagara Falls",
+      "topic": "Clifton Hill",
+      "category": "attraction",
+      "query": "Clifton Hill Niagara Falls Ontario Canada"
+    },
+    {
+      "country": "Canada",
+      "region": "Ottawa",
+      "topic": "Parliament Hill",
+      "category": "attraction",
+      "query": "Parliament Hill Ottawa Canada"
+    },
+    {
+      "country": "Canada",
+      "region": "Ottawa",
+      "topic": "Rideau Canal",
+      "category": "attraction",
+      "query": "Rideau Canal Ottawa Canada"
+    },
+    {
+      "country": "Canada",
+      "region": "Ottawa",
+      "topic": "National Gallery of Canada",
+      "category": "attraction",
+      "query": "National Gallery of Canada Ottawa"
+    },
+    {
+      "country": "Canada",
+      "region": "Montreal",
+      "topic": "Notre-Dame Basilica of Montreal",
+      "category": "attraction",
+      "query": "Notre-Dame Basilica Old Montreal Quebec Canada"
+    },
+    {
+      "country": "Canada",
+      "region": "Montreal",
+      "topic": "Mount Royal Park",
+      "category": "attraction",
+      "query": "Mount Royal Park Kondiaronk Belvedere Montreal Canada"
+    },
+    {
+      "country": "Canada",
+      "region": "Montreal",
+      "topic": "Jean-Talon Market",
+      "category": "hidden-gem",
+      "query": "Jean-Talon Market Montreal Canada"
+    },
+    {
+      "country": "Canada",
+      "region": "Quebec City",
+      "topic": "Château Frontenac",
+      "category": "attraction",
+      "query": "Fairmont Le Chateau Frontenac Quebec City Canada"
+    },
+    {
+      "country": "Canada",
+      "region": "Quebec City",
+      "topic": "Quartier Petit Champlain",
+      "category": "attraction",
+      "query": "Quartier Petit Champlain Old Quebec Quebec City Canada"
+    },
+    {
+      "country": "Canada",
+      "region": "Quebec City",
+      "topic": "Montmorency Falls",
+      "category": "attraction",
+      "query": "Montmorency Falls Park Quebec City Canada"
+    },
+    {
+      "country": "Canada",
+      "region": "Banff",
+      "topic": "Banff Gondola",
+      "category": "attraction",
+      "query": "Banff Gondola Sulphur Mountain Banff Alberta Canada"
+    },
+    {
+      "country": "Canada",
+      "region": "Banff",
+      "topic": "Banff Upper Hot Springs",
+      "category": "attraction",
+      "query": "Banff Upper Hot Springs Banff Alberta Canada"
+    },
+    {
+      "country": "Canada",
+      "region": "Banff",
+      "topic": "Bow Falls",
+      "category": "hidden-gem",
+      "query": "Bow Falls Banff Alberta Canada"
+    },
+    {
+      "country": "Canada",
+      "region": "Lake Louise",
+      "topic": "Lake Louise Lakeshore",
+      "category": "attraction",
+      "query": "Lake Louise lakeshore Banff National Park Alberta Canada"
+    },
+    {
+      "country": "Canada",
+      "region": "Lake Louise",
+      "topic": "Moraine Lake",
+      "category": "attraction",
+      "query": "Moraine Lake Lake Louise Alberta Canada"
+    },
+    {
+      "country": "Canada",
+      "region": "Jasper",
+      "topic": "Maligne Canyon",
+      "category": "attraction",
+      "query": "Maligne Canyon Jasper National Park Alberta Canada"
+    },
+    {
+      "country": "Canada",
+      "region": "Jasper",
+      "topic": "Jasper SkyTram",
+      "category": "attraction",
+      "query": "Jasper SkyTram Whistlers Mountain Jasper Alberta Canada"
+    },
+    {
+      "country": "Canada",
+      "region": "Whistler",
+      "topic": "Peak 2 Peak Gondola",
+      "category": "attraction",
+      "query": "PEAK 2 PEAK Gondola Whistler Blackcomb British Columbia Canada"
+    },
+    {
+      "country": "Canada",
+      "region": "Vancouver",
+      "topic": "Stanley Park",
+      "category": "attraction",
+      "query": "Stanley Park Seawall Vancouver British Columbia Canada"
+    },
+    {
+      "country": "Canada",
+      "region": "Vancouver",
+      "topic": "Granville Island",
+      "category": "attraction",
+      "query": "Granville Island Public Market Vancouver Canada"
+    },
+    {
+      "country": "Canada",
+      "region": "Vancouver",
+      "topic": "Gastown Steam Clock",
+      "category": "hidden-gem",
+      "query": "Gastown Steam Clock Vancouver Canada"
+    },
+    {
+      "country": "Canada",
+      "region": "Victoria",
+      "topic": "Royal BC Museum",
+      "category": "attraction",
+      "query": "Royal BC Museum Victoria British Columbia Canada"
+    },
+    {
+      "country": "Canada",
+      "region": "Victoria",
+      "topic": "Fairmont Empress and Inner Harbour",
+      "category": "attraction",
+      "query": "Fairmont Empress Inner Harbour Victoria British Columbia Canada"
+    },
+    {
+      "country": "Canada",
+      "region": "Calgary",
+      "topic": "Calgary Tower",
+      "category": "attraction",
+      "query": "Calgary Tower Calgary Alberta Canada"
+    },
+    {
+      "country": "Canada",
+      "region": "Calgary",
+      "topic": "Heritage Park Historical Village",
+      "category": "attraction",
+      "query": "Heritage Park Historical Village Calgary Alberta Canada"
+    },
+    {
+      "country": "Canada",
+      "region": "Churchill",
+      "topic": "Itsanitaq Museum",
+      "category": "hidden-gem",
+      "query": "Itsanitaq Museum Churchill Manitoba Canada"
+    },
+    {
+      "country": "Canada",
+      "region": "Yellowknife",
+      "topic": "Bush Pilot's Monument",
+      "category": "hidden-gem",
+      "query": "Bush Pilots Monument Old Town Yellowknife Northwest Territories Canada"
+    },
+    {
+      "country": "Canada",
+      "region": "Yellowknife",
+      "topic": "Prince of Wales Northern Heritage Centre",
+      "category": "attraction",
+      "query": "Prince of Wales Northern Heritage Centre Yellowknife Canada"
     }
   ]
 }

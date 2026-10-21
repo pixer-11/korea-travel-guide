@@ -6609,6 +6609,115 @@
           "localName": "Boxing Day (observed)"
         }
       ]
+    },
+    "Canada": {
+      "holidays": [
+        {
+          "date": "2026-01-01",
+          "name": "New Year's Day",
+          "localName": "New Year's Day"
+        },
+        {
+          "date": "2026-02-16",
+          "name": "Family Day",
+          "localName": "Family Day"
+        },
+        {
+          "date": "2026-04-03",
+          "name": "Good Friday",
+          "localName": "Good Friday"
+        },
+        {
+          "date": "2026-05-18",
+          "name": "Victoria Day",
+          "localName": "Victoria Day"
+        },
+        {
+          "date": "2026-07-01",
+          "name": "Canada Day",
+          "localName": "Canada Day"
+        },
+        {
+          "date": "2026-09-07",
+          "name": "Labor Day",
+          "localName": "Labour Day"
+        },
+        {
+          "date": "2026-10-12",
+          "name": "Thanksgiving Day",
+          "localName": "Thanksgiving Day"
+        },
+        {
+          "date": "2026-12-25",
+          "name": "Christmas Day",
+          "localName": "Christmas Day"
+        },
+        {
+          "date": "2026-12-26",
+          "name": "Boxing Day",
+          "localName": "Boxing Day"
+        },
+        {
+          "date": "2026-12-28",
+          "name": "Boxing Day (observed)",
+          "localName": "Boxing Day (observed)"
+        },
+        {
+          "date": "2027-01-01",
+          "name": "New Year's Day",
+          "localName": "New Year's Day"
+        },
+        {
+          "date": "2027-02-15",
+          "name": "Family Day",
+          "localName": "Family Day"
+        },
+        {
+          "date": "2027-03-26",
+          "name": "Good Friday",
+          "localName": "Good Friday"
+        },
+        {
+          "date": "2027-05-24",
+          "name": "Victoria Day",
+          "localName": "Victoria Day"
+        },
+        {
+          "date": "2027-07-01",
+          "name": "Canada Day",
+          "localName": "Canada Day"
+        },
+        {
+          "date": "2027-09-06",
+          "name": "Labor Day",
+          "localName": "Labour Day"
+        },
+        {
+          "date": "2027-10-11",
+          "name": "Thanksgiving Day",
+          "localName": "Thanksgiving Day"
+        },
+        {
+          "date": "2027-12-25",
+          "name": "Christmas Day",
+          "localName": "Christmas Day"
+        },
+        {
+          "date": "2027-12-26",
+          "name": "Boxing Day",
+          "localName": "Boxing Day"
+        },
+        {
+          "date": "2027-12-27",
+          "name": "Christmas Day (observed)",
+          "localName": "Christmas Day (observed)"
+        },
+        {
+          "date": "2027-12-28",
+          "name": "Boxing Day (observed)",
+          "localName": "Boxing Day (observed)"
+        }
+      ]
     }
   }
 }

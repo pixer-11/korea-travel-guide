@@ -1198,5 +1198,44 @@
       ]
     },
     "_srcHash": "b1d1c0b186ee5c6e"
+  },
+  "canada": {
+    "ko": {
+      "intro": "캐나다에는 Rogers, Bell, TELUS라는 세 개의 전국 이동통신사가 있으며, 이들의 저가 브랜드(Fido, Virgin Plus, Koodo, Public Mobile 등)도 모두 같은 망을 사용합니다. Bell에 따르면 해외에서 입국하는 여행자는 MyBell 앱에서 Bell eSIM을 활성화할 수 있는데, 이때 Wi-Fi 또는 모바일 데이터와 주문에 사용할 수 있는 신용카드가 필요합니다. TELUS는 2026년 7월 1일부로 자사 선불 브랜드의 신규 가입을 중단했으며, 이제 신규 선불 고객은 TELUS가 소유한 Koodo Prepaid로 안내하고 있습니다. 해외 판매처에서 구매하는 여행용 eSIM은 이들 세 망 중 하나를 이용하는 것이므로, 구매 전에 어느 망을 사용하는지 반드시 확인하세요.",
+      "coverage": "토론토, 몬트리올, 퀘벡시티, 오타와, 밴쿠버, 빅토리아, 캘거리와 주요 고속도로를 따라 있는 소도시들(밴프, 레이크루이스, 재스퍼 타운사이트 포함)에서는 신호가 안정적으로 잡힙니다. 하지만 이 지역을 벗어나면 신호가 급격히 약해지는데, Parks Canada에 따르면 레이크루이스와 재스퍼를 잇는 아이스필드 파크웨이(Icefields Parkway)에는 연중 휴대폰 서비스가 전혀 제공되지 않으며, 처칠(Churchill) 인근을 포함한 캐나다 북부 대부분 지역도 마을 안이나 그 주변에서만 신호가 잡힙니다.",
+      "tips": [
+        "아이스필드 파크웨이를 운전하기 전에 오프라인 지도를 다운로드하고 숙소와 투어 연락처를 미리 저장해 두세요. 도로 구간 자체에는 휴대폰 서비스가 없고 양쪽 끝에서만 신호가 잡힙니다.",
+        "Bell의 여행자용 eSIM은 MyBell 앱에서 주문하므로, 사용할 신용카드를 준비해 호텔나 공항 Wi-Fi에서 설정하세요.",
+        "미국까지 이어지는 여행이라면 두 나라 모두를 커버하는 요금제가 필요하니, 국경을 넘기 전에 커버리지 목록을 꼭 확인하세요."
+      ]
+    },
+    "ja": {
+      "intro": "カナダの全国規模の携帯通信網を持つのはRogers、Bell、TELUSの3社で、傘下の格安ブランド（Fido、Virgin Plus、Koodo、Public Mobileなど）もこれらと同じ通信網を利用しています。Bellによると、海外から訪れる旅行者はMyBellアプリでBellのeSIMをアクティベートできますが、その際にはWi-Fiまたはモバイルデータ通信、そして利用可能なクレジットカードが注文手続きに必要になります。TELUSは2026年7月1日をもって自社プリペイドブランドでの新規アクティベーションを終了し、現在、新規のプリペイド顧客は自社傘下のKoodo Prepaidへ案内しています。海外の販売業者が提供する旅行者向けeSIMも、結局はこれら3社いずれかの通信網を利用する形になるため、購入前にどの通信網を使用しているか必ず確認してください。",
+      "coverage": "トロント、モントリオール、ケベック・シティ、オタワ、バンクーバー、ビクトリア、カルガリー、そして主要ハイウェイ沿いの町（バンフ、レイクルイーズ、ジャスパーの各タウンサイトを含む）では、電波は安定して入ります。しかし、こうしたエリアを離れると電波は急速に弱まります。パークス・カナダ（Parks Canada）によれば、レイクルイーズとジャスパーを結ぶアイスフィールズ・パークウェイには年間を通じて携帯電波が届く区間はなく、チャーチル周辺を含むカナダ北部の多くの地域でも、電波が入るのは町の中やその近辺に限られます。",
+      "tips": [
+        "アイスフィールズ・パークウェイを運転する前に、オフラインマップをダウンロードし、宿泊先やツアーの連絡先を保存しておきましょう。パークウェイ本線上には携帯電波が届かず、電波が入るのは両端のみです。",
+        "Bellの旅行者向けeSIMはMyBellアプリから注文できます。ホテルや空港のWi-Fiを利用し、実際に使用予定のクレジットカードで設定を済ませておきましょう。",
+        "旅程がアメリカへと続く場合は、両国をカバーするプランが必要になります。国境を越える前に、対応エリアのリストを確認しておきましょう。"
+      ]
+    },
+    "es": {
+      "intro": "Las tres redes móviles nacionales de Canadá son Rogers, Bell y TELUS, y sus marcas económicas (como Fido, Virgin Plus, Koodo y Public Mobile) funcionan sobre estas mismas redes. Bell indica que los viajeros que llegan del extranjero pueden activar una eSIM de Bell desde la app MyBell, para lo cual se necesita Wi-Fi o datos móviles y una tarjeta de crédito válida para realizar el pedido. TELUS dejó de activar nuevas líneas en su propia marca prepago el 1 de julio de 2026 y ahora redirige a los nuevos clientes de prepago hacia Koodo Prepaid, marca que le pertenece. Una eSIM de viaje de un proveedor internacional funciona sobre alguna de estas redes; conviene comprobar cuál de ellas utiliza antes de comprarla.",
+      "coverage": "La señal es confiable en Toronto, Montreal, la ciudad de Quebec, Ottawa, Vancouver, Victoria, Calgary y los pueblos situados a lo largo de las autopistas principales, incluidos los núcleos urbanos de Banff, Lake Louise y Jasper. Fuera de estas zonas, la cobertura desaparece rápidamente: Parks Canada señala que no hay cobertura de telefonía móvil durante todo el año en la Icefields Parkway entre Lake Louise y Jasper, y gran parte del norte del país, incluida la zona de Churchill, solo tiene cobertura dentro de los pueblos y sus alrededores inmediatos.",
+      "tips": [
+        "Descarga mapas sin conexión y guarda los datos de contacto de tu alojamiento y de tus excursiones antes de conducir por la Icefields Parkway, ya que no hay servicio móvil en la propia carretera, solo en cada uno de sus extremos.",
+        "La eSIM para viajeros de Bell se solicita desde la app MyBell, así que configúrala usando el Wi-Fi del hotel o del aeropuerto y con la tarjeta de crédito que planeas utilizar.",
+        "Si el viaje continúa hacia Estados Unidos, necesitarás un plan que cubra ambos países, así que revisa la lista de cobertura antes de cruzar la frontera."
+      ]
+    },
+    "zh": {
+      "intro": "加拿大有三大全国性移动网络运营商：Rogers、Bell 和 TELUS，它们旗下的经济型品牌（如 Fido、Virgin Plus、Koodo 和 Public Mobile）都使用同样的网络基础设施。Bell 表示，海外游客可以通过 MyBell 应用激活 Bell eSIM，下单时需要连接 Wi-Fi 或使用移动数据，并提供一张符合条件的信用卡。TELUS 已于2026年7月1日起停止其自有预付费品牌的新用户激活，现在将新预付费用户引导至其旗下品牌 Koodo Prepaid。国际卖家提供的旅行 eSIM 通常依托上述某一网络运行，购买前请先确认其具体使用的是哪一家网络。",
+      "coverage": "多伦多、蒙特利尔、魁北克市、渥太华、温哥华、维多利亚、卡尔加里以及主要公路沿线的城镇（包括班夫、露易丝湖和贾斯珀镇区）信号稳定可靠。但一旦离开这些区域，信号会迅速减弱：据加拿大公园管理局（Parks Canada）介绍，露易丝湖与贾斯珀之间的冰原大道（Icefields Parkway）并没有全年覆盖的移动信号，而加拿大北部大部分地区（包括丘吉尔周边地区）也只有在城镇及其附近才有信号覆盖。",
+      "tips": [
+        "在自驾前往冰原大道（Icefields Parkway）之前，请先下载离线地图，并保存好住宿地点和旅行团的联系方式，因为大道沿途本身没有手机信号，只有在两端才能收到信号。",
+        "Bell 面向旅客推出的 eSIM 需要通过 MyBell 应用下单，建议在酒店或机场的 Wi-Fi 环境下，用你打算使用的那张信用卡完成设置。",
+        "如果行程会延伸到美国，需要选择能同时覆盖两国的套餐，过境前请先查看信号覆盖范围列表。"
+      ]
+    },
+    "_srcHash": "309c51932b53fe04"
   }
 }

@@ -28,6 +28,7 @@
     "Macau": { "v": "230", "hz": "50", "plugs": ["G", "D", "M"], "src": "https://www.macaotourism.gov.mo/en/travelessential/before-you-travel/practical-info" },
     "Mongolia": { "v": "230", "hz": "50", "plugs": ["C", "F"], "src": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/mongolia/" },
     "Georgia": { "v": "230", "hz": "50", "plugs": ["C", "F"], "src": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/georgia/" },
-    "New Zealand": { "v": "230", "hz": "50", "plugs": ["I"], "src": "https://www.newzealand.com/sg/feature/internet-and-wifi-access-in-new-zealand/" }
+    "New Zealand": { "v": "230", "hz": "50", "plugs": ["I"], "src": "https://www.newzealand.com/sg/feature/internet-and-wifi-access-in-new-zealand/" },
+    "Canada": { "v": "120", "hz": "60", "plugs": ["A", "B"], "src": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/canada/" }
   }
 }

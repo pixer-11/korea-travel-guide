@@ -755,6 +755,32 @@
         "Paihia"
       ],
       "continent": "Oceania"
+    },
+    {
+      "name": "Canada",
+      "iso2": "ca",
+      "priority": 27,
+      "slug": "canada",
+      "flag": "🇨🇦",
+      "active": true,
+      "blurb": "Turquoise lakes at Banff and Lake Louise along the Icefields Parkway to Jasper, the roar of Niagara Falls, Quebec City's walled old town and Montreal's French-speaking streets, with polar bears at Churchill and the northern lights over Yellowknife. It spans six time zones, and the drives between its highlights are measured in days, not hours.",
+      "regions": [
+        "Toronto",
+        "Vancouver",
+        "Montreal",
+        "Quebec City",
+        "Niagara Falls",
+        "Banff",
+        "Lake Louise",
+        "Jasper",
+        "Whistler",
+        "Calgary",
+        "Victoria",
+        "Ottawa",
+        "Churchill",
+        "Yellowknife"
+      ],
+      "continent": "North America"
     }
   ]
 }

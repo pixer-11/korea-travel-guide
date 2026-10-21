@@ -79,6 +79,17 @@ export const REGION_TZ = {
   // 몽골은 시간대가 둘이다. IANA tzdata(zone1970.tab)가 Asia/Hovd 로 두는 서부
   // 3개 아이막(바얀울기·호브드·옵스)은 울란바토르보다 1시간 늦다 — 울기·호브드가 거기다.
   // 나머지(테렐지·하르호린·흡스굴·고비 등)는 Asia/Ulaanbaatar. 서머타임 없음(2026-10-11).
+  // 캐나다는 지역 14곳이 시간대 넷에 걸친다(IANA zone1970.tab): 온타리오·퀘벡은 America/Toronto,
+  // 앨버타(밴프·레이크루이스·재스퍼·캘거리)와 옐로나이프(NT 동부)는 America/Edmonton,
+  // 처칠은 매니토바라 America/Winnipeg, BC(밴쿠버·휘슬러·빅토리아)는 America/Vancouver(2026-10-21).
+  Canada: {
+    Toronto: 'America/Toronto', 'Niagara Falls': 'America/Toronto', Ottawa: 'America/Toronto',
+    Montreal: 'America/Toronto', 'Quebec City': 'America/Toronto',
+    Banff: 'America/Edmonton', 'Lake Louise': 'America/Edmonton', Jasper: 'America/Edmonton',
+    Calgary: 'America/Edmonton', Yellowknife: 'America/Edmonton',
+    Churchill: 'America/Winnipeg',
+    Vancouver: 'America/Vancouver', Whistler: 'America/Vancouver', Victoria: 'America/Vancouver',
+  },
   Mongolia: {
     Ulaanbaatar: ULN, Terelj: ULN, 'Tsonjin Boldog': ULN, 'Khustai National Park': ULN,
     Kharkhorin: ULN, Tsetserleg: ULN, 'Lake Khuvsgul': ULN, Murun: ULN,

@@ -19,10 +19,15 @@ export const KLOOK_CITY: Record<string, KlookCity> = {
   // c84912-washington is Washington STATE — Seattle on the page) were REJECTED
   // on 08-07; both are mapped below since 10-05, to the right pages.
   // A search fallback beats a confidently wrong destination.
+  "Banff": { id: 365402, slug: 'banff', country: "Canada" }, // 2026-10-21: in the en-US, ko, ja, es and zh-cn city sitemaps
+  "Calgary": { id: 702056, slug: 'calgary', country: "Canada" }, // 2026-10-21: in the en-US, ko, ja, es and zh-cn city sitemaps
+  "Jasper": { id: 703659, slug: 'jasper', country: "Canada" }, // 2026-10-21: in the en-US, ko, ja, es and zh-cn city sitemaps
+  "Montreal": { id: 365404, slug: 'montreal', country: "Canada" }, // 2026-10-21: in the en-US, ko, ja, es and zh-cn city sitemaps
   "New Delhi": { id: 145, slug: 'delhi', country: 'India' },
   "Bordeaux": { id: 318, slug: 'bordeaux-south-west', country: 'France' },
   "Koh Samui": { id: 702414, slug: 'ko-samui', country: 'Thailand' },
   "Lombok": { id: 14443, slug: 'central-lombok', country: 'Indonesia' },
+  "Ottawa": { id: 703651, slug: 'ottawa', country: "Canada" }, // 2026-10-21: in the en-US, ko, ja, es and zh-cn city sitemaps
   "Seoul": { id: 13, slug: 'seoul', country: 'South Korea', widget: true },
   "Busan": { id: 46, slug: 'busan', country: 'South Korea', widget: true },
   "Incheon": { id: 158, slug: 'incheon', country: 'South Korea', widget: true },
@@ -38,6 +43,9 @@ export const KLOOK_CITY: Record<string, KlookCity> = {
   "Bangkok": { id: 4, slug: 'bangkok', country: 'Thailand', widget: true },
   "Phuket": { id: 7, slug: 'phuket', country: 'Thailand', widget: true },
   "Shanghai": { id: 59, slug: 'shanghai', country: 'China', widget: true },
+  "Toronto": { id: 535, slug: 'toronto', country: "Canada" }, // 2026-10-21: in the en-US, ko, ja, es and zh-cn city sitemaps
+  "Vancouver": { id: 534, slug: 'vancouver', country: "Canada" }, // 2026-10-21: in the en-US, ko, ja, es and zh-cn city sitemaps
+  "Whistler": { id: 701094, slug: 'whistler', country: "Canada" }, // 2026-10-21: in the en-US, ko, ja, es and zh-cn city sitemaps
   "Xi'an": { id: 60, slug: 'xi-an', country: 'China', widget: true },
   "Beijing": { id: 57, slug: 'beijing', country: "China" },
   "Chengdu": { id: 61, slug: 'chengdu', country: "China" },
@@ -68,6 +76,7 @@ export const KLOOK_CITY: Record<string, KlookCity> = {
   "Jakarta": { id: 45, slug: 'jakarta', country: "Indonesia" },
   "Labuan Bajo": { id: 522, slug: 'labuan-bajo', country: "Indonesia" },
   "Surabaya": { id: 337, slug: 'surabaya', country: "Indonesia" },
+  "Yellowknife": { id: 707885, slug: 'yellowknife', country: "Canada" }, // 2026-10-21: in the en-US, ko, ja, es and zh-cn city sitemaps
   "Yogyakarta": { id: 163, slug: 'yogyakarta', country: "Indonesia" },
   "Bologna": { id: 340, slug: 'bologna', country: "Italy" },
   "Florence": { id: 115, slug: 'florence', country: "Italy" },

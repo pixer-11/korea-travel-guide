@@ -35,6 +35,7 @@ export const COUNTRY_TIME: Record<string, { tz: string; city: string; multi?: bo
   GB: { tz: 'Europe/London', city: 'London' },
   DE: { tz: 'Europe/Berlin', city: 'Berlin' },
   MX: { tz: 'America/Mexico_City', city: 'Mexico City', multi: true },
+  CA: { tz: 'America/Toronto', city: 'Toronto', multi: true }, // Vancouver, Calgary/Banff and Churchill run on other zones
 };
 
 // Hub regions. countries.json files Turkey, the UAE and Uzbekistan under

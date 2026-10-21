@@ -203,6 +203,12 @@
     "es": "Bandung",
     "zh": "万隆"
   },
+  "Banff": {
+    "ko": "밴프",
+    "ja": "バンフ",
+    "es": "Banff",
+    "zh": "班夫"
+  },
   "Bangalore": {
     "ko": "방갈로르",
     "ja": "バンガロール",
@@ -425,6 +431,12 @@
     "es": "Cairns",
     "zh": "凯恩斯"
   },
+  "Calgary": {
+    "ko": "캘거리",
+    "ja": "カルガリー",
+    "es": "Calgary",
+    "zh": "卡尔加里"
+  },
   "Cambodia": {
     "ko": "캄보디아",
     "ja": "カンボジア",
@@ -448,6 +460,12 @@
     "ja": "カントー",
     "es": "Can Tho",
     "zh": "芹苴"
+  },
+  "Canada": {
+    "ko": "캐나다",
+    "ja": "カナダ",
+    "es": "Canadá",
+    "zh": "加拿大"
   },
   "Canberra": {
     "ko": "캔버라",
@@ -586,6 +604,12 @@
     "ja": "春川",
     "es": "Chuncheon",
     "zh": "春川"
+  },
+  "Churchill": {
+    "ko": "처칠",
+    "ja": "チャーチル",
+    "es": "Churchill",
+    "zh": "丘吉尔"
   },
   "Cinque Terre": {
     "ko": "친퀘테레",
@@ -1271,6 +1295,12 @@
     "es": "Japón",
     "zh": "日本"
   },
+  "Jasper": {
+    "ko": "재스퍼",
+    "ja": "ジャスパー",
+    "es": "Jasper",
+    "zh": "贾斯珀"
+  },
   "Jeju": {
     "ko": "제주",
     "ja": "済州",
@@ -1570,6 +1600,12 @@
     "ja": "フブスグル湖",
     "es": "Lago Khuvsgul",
     "zh": "库苏古尔湖"
+  },
+  "Lake Louise": {
+    "ko": "레이크 루이스",
+    "ja": "レイク・ルイーズ",
+    "es": "Lake Louise",
+    "zh": "露易丝湖"
   },
   "Lake Tekapo": {
     "ko": "테카포 호수",
@@ -1883,6 +1919,12 @@
     "es": "Monterrey",
     "zh": "蒙特雷"
   },
+  "Montreal": {
+    "ko": "몬트리올",
+    "ja": "モントリオール",
+    "es": "Montreal",
+    "zh": "蒙特利尔"
+  },
   "Monza": {
     "ko": "몬차",
     "ja": "モンツァ",
@@ -2069,6 +2111,12 @@
     "es": "Nha Trang",
     "zh": "芽庄"
   },
+  "Niagara Falls": {
+    "ko": "나이아가라 폭포",
+    "ja": "ナイアガラフォールズ",
+    "es": "Cataratas del Niágara",
+    "zh": "尼亚加拉瀑布"
+  },
   "Nice": {
     "ko": "니스",
     "ja": "ニース",
@@ -2152,6 +2200,12 @@
     "ja": "大阪",
     "es": "Osaka",
     "zh": "大阪"
+  },
+  "Ottawa": {
+    "ko": "오타와",
+    "ja": "オタワ",
+    "es": "Ottawa",
+    "zh": "渥太华"
   },
   "Oxford": {
     "ko": "옥스퍼드",
@@ -2374,6 +2428,12 @@
     "ja": "青島",
     "es": "Qingdao",
     "zh": "青岛"
+  },
+  "Quebec City": {
+    "ko": "퀘벡시티",
+    "ja": "ケベック・シティー",
+    "es": "Ciudad de Quebec",
+    "zh": "魁北克市"
   },
   "Queenstown": {
     "ko": "퀸스타운",
@@ -2957,6 +3017,12 @@
     "es": "Tongyeong",
     "zh": "统营"
   },
+  "Toronto": {
+    "ko": "토론토",
+    "ja": "トロント",
+    "es": "Toronto",
+    "zh": "多伦多"
+  },
   "Toulouse": {
     "ko": "툴루즈",
     "ja": "トゥールーズ",
@@ -3083,6 +3149,12 @@
     "es": "Valencia",
     "zh": "瓦伦西亚"
   },
+  "Vancouver": {
+    "ko": "밴쿠버",
+    "ja": "バンクーバー",
+    "es": "Vancouver",
+    "zh": "温哥华"
+  },
   "Varanasi": {
     "ko": "바라나시",
     "ja": "ヴァラナシ",
@@ -3100,6 +3172,12 @@
     "ja": "ヴェローナ",
     "es": "Verona",
     "zh": "维罗纳"
+  },
+  "Victoria": {
+    "ko": "빅토리아",
+    "ja": "ビクトリア",
+    "es": "Victoria",
+    "zh": "维多利亚"
   },
   "Vietnam": {
     "ko": "베트남",
@@ -3149,6 +3227,12 @@
     "es": "Wellington",
     "zh": "惠灵顿"
   },
+  "Whistler": {
+    "ko": "휘슬러",
+    "ja": "ウィスラー",
+    "es": "Whistler",
+    "zh": "惠斯勒"
+  },
   "Wuhan": {
     "ko": "우한",
     "ja": "武漢",
@@ -3178,6 +3262,12 @@
     "ja": "ヤス島",
     "es": "Isla Yas",
     "zh": "亚斯岛"
+  },
+  "Yellowknife": {
+    "ko": "옐로나이프",
+    "ja": "イエローナイフ",
+    "es": "Yellowknife",
+    "zh": "黄刀镇"
   },
   "Yeosu": {
     "ko": "여수",

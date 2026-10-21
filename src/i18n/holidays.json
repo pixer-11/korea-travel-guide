@@ -203,6 +203,72 @@
     "es": "Festival del Agua",
     "zh": "送水节"
   },
+  "Canada|Boxing Day": {
+    "ko": "박싱 데이",
+    "ja": "ボクシングデー",
+    "es": "Boxing Day",
+    "zh": "节礼日"
+  },
+  "Canada|Boxing Day (observed)": {
+    "ko": "박싱 데이 대체 휴일",
+    "ja": "ボクシングデー（振替）",
+    "es": "Boxing Day (observado)",
+    "zh": "节礼日（顺延）"
+  },
+  "Canada|Canada Day": {
+    "ko": "캐나다 데이",
+    "ja": "カナダ・デー",
+    "es": "Día de Canadá",
+    "zh": "加拿大日"
+  },
+  "Canada|Christmas Day": {
+    "ko": "크리스마스",
+    "ja": "クリスマス",
+    "es": "Navidad",
+    "zh": "圣诞节"
+  },
+  "Canada|Christmas Day (observed)": {
+    "ko": "크리스마스 대체 휴일",
+    "ja": "クリスマス（振替）",
+    "es": "Navidad (observada)",
+    "zh": "圣诞节（顺延）"
+  },
+  "Canada|Family Day": {
+    "ko": "가족의 날",
+    "ja": "ファミリーデー",
+    "es": "Día de la Familia",
+    "zh": "家庭日"
+  },
+  "Canada|Good Friday": {
+    "ko": "성금요일",
+    "ja": "聖金曜日",
+    "es": "Viernes Santo",
+    "zh": "耶稣受难日"
+  },
+  "Canada|Labor Day": {
+    "ko": "노동절",
+    "ja": "労働の日",
+    "es": "Día del Trabajo",
+    "zh": "劳动节"
+  },
+  "Canada|New Year's Day": {
+    "ko": "신정",
+    "ja": "元日",
+    "es": "Año Nuevo",
+    "zh": "元旦"
+  },
+  "Canada|Thanksgiving Day": {
+    "ko": "추수감사절",
+    "ja": "感謝祭",
+    "es": "Día de Acción de Gracias",
+    "zh": "感恩节"
+  },
+  "Canada|Victoria Day": {
+    "ko": "빅토리아 데이",
+    "ja": "ビクトリア・デー",
+    "es": "Día de Victoria",
+    "zh": "维多利亚日"
+  },
   "China|Chinese New Year (Spring Festival)": {
     "ko": "춘절(설)",
     "ja": "春節（旧正月）",

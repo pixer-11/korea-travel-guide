@@ -43,7 +43,13 @@ CATEGORIES = {"HK": ("optional",), "MO": ("optional",)}
 # guides are (and the climate city, York); a Scottish reader seeing two extra
 # days is the smaller error, and the page already says a holiday is a reason to
 # check, not a closure (2026-10-05 audit).
-SUBDIVS = {"GB": "ENG"}
+# Canada's no-subdivision set is only the five days every province shares
+# (New Year, Good Friday, Canada Day, Labour Day, Christmas), which drops
+# Victoria Day, Thanksgiving and Family Day that most provinces close for.
+# Ontario (Toronto, Niagara Falls, Ottawa) is where most Canada guides are, as
+# England is for the UK; Quebec readers see Victoria Day and Boxing Day instead
+# of Saint-Jean-Baptiste, the smaller error (2026-10-21).
+SUBDIVS = {"GB": "ENG", "CA": "ON"}
 
 
 def names(iso2, years, language):
