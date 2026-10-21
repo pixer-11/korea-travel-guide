@@ -13,7 +13,6 @@ eventOffers:
   free: true
   currency: TWD
 eventFactsAsked: true
-gallery: []
 tags:
   - taipei
   - event
@@ -31,6 +30,14 @@ faq:
     a: Dalongdong Baoan Temple and the Taipei Confucius Temple are a short walk from Yuanshan. Shilin Night Market is one MRT stop north at Jiantan, and the Taipei Fine Arts Museum is right next to the park.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Nuit_Blanche_Braga_2018_%282%29.jpg/3840px-Nuit_Blanche_Braga_2018_%282%29.jpg
+  credit: 'Photo: Joseolgon / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Nuit_Blanche_Braga_2018_(2).jpg
+  focus:
+    x: 50
+    'y': 50
 ---
 
 ## A city that stays up on purpose

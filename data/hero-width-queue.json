@@ -2850,7 +2850,12 @@
   "whistler-olympic-rings\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/The_Olympic_Rings_in_Whistler_Village.jpg/3840px-The_Olympic_Rings_in_Whistler_Village.jpg": 3840,
   "montreal-vieux-port-de-montreal\u0001https://upload.wikimedia.org/wikipedia/commons/7/70/Montreal_Old_port.jpg": 1600,
   "toronto-360-the-restaurant-at-the-cn-tower\u0001https://upload.wikimedia.org/wikipedia/commons/c/c7/Inside_the_360_Restaurant_in_the_CN_Tower_%289160061765%29.jpg": 1600,
-  "whistler-peak-2-peak\u0001https://upload.wikimedia.org/wikipedia/commons/7/7a/Peak_2_Peak_Whistler_-_panoramio.jpg": 2496
+  "whistler-peak-2-peak\u0001https://upload.wikimedia.org/wikipedia/commons/7/7a/Peak_2_Peak_Whistler_-_panoramio.jpg": 2496,
+  "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Doubles_at_the_ATP_Finals_%2849070627556%29.jpg/3840px-Doubles_at_the_ATP_Finals_%2849070627556%29.jpg": 3840,
+  "nuremberg-nuremberg-christkindlesmarkt\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Christkindlesmarkt_2022_N%C3%BCrnberg_078.jpg/3840px-Christkindlesmarkt_2022_N%C3%BCrnberg_078.jpg": 3840,
+  "puerto-princesa-ironman-70-3-puerto-princesa\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Kenneth_Bulthuis_US_-_Ironman_70.3_Budapest%2C_2014.08.23_%282%29.jpg/3840px-Kenneth_Bulthuis_US_-_Ironman_70.3_Budapest%2C_2014.08.23_%282%29.jpg": 3840,
+  "taipei-nuit-blanche-taipei-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Nuit_Blanche_Braga_2018_%282%29.jpg/3840px-Nuit_Blanche_Braga_2018_%282%29.jpg": 3840,
+  "melbourne-national-gallery-of-victoria\u0001https://live.staticflickr.com/4123/4893171248_5048685530_b.jpg": 1024
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -3002,8 +3007,8 @@
   },
   "nagoya-asian-games-2026": {
    "width": 960,
-   "attempts": 7,
-   "nextTry": "2026-10-21",
+   "attempts": 8,
+   "nextTry": "2026-10-28",
    "flaggedAt": "2026-09-02",
    "lastResult": "no-wider"
   },
@@ -3100,15 +3105,15 @@
   },
   "hong-kong-fello": {
    "width": 1080,
-   "attempts": 4,
-   "nextTry": "2026-10-21",
+   "attempts": 5,
+   "nextTry": "2026-10-28",
    "flaggedAt": "2026-09-18",
    "lastResult": "no-wider"
   },
   "hiroshima-hiroshima-botanical-garden": {
    "width": 800,
-   "attempts": 4,
-   "nextTry": "2026-10-21",
+   "attempts": 5,
+   "nextTry": "2026-10-28",
    "flaggedAt": "2026-09-19",
    "lastResult": "no-wider"
   },
@@ -3142,8 +3147,8 @@
   },
   "barcelona-chambacu": {
    "width": 1103,
-   "attempts": 2,
-   "nextTry": "2026-10-19",
+   "attempts": 3,
+   "nextTry": "2026-10-28",
    "flaggedAt": "2026-09-24",
    "lastResult": "no-wider"
   },
@@ -3362,7 +3367,13 @@
    "attempts": 0,
    "nextTry": "2026-10-18",
    "flaggedAt": "2026-10-18"
+  },
+  "melbourne-national-gallery-of-victoria": {
+   "width": 1024,
+   "attempts": 0,
+   "nextTry": "2026-10-21",
+   "flaggedAt": "2026-10-21"
   }
  },
- "updated": "2026-10-21T14:53:04.761Z"
+ "updated": "2026-10-21T22:42:57.518Z"
 }
