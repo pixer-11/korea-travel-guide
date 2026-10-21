@@ -29,14 +29,6 @@ faq:
     a: Yes. The O2 on the Greenwich Peninsula is right by North Greenwich station on the Jubilee line, and the river boat and the cable car across the Thames also stop there.
 aiGenerated: true
 draft: false
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Doubles_at_the_ATP_Finals_%2849070103618%29.jpg/3840px-Doubles_at_the_ATP_Finals_%2849070103618%29.jpg
-  credit: 'Photo: Daniel from Glasgow, United Kingdom / Wikimedia Commons (CC BY 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Doubles_at_the_ATP_Finals_(49070103618).jpg
-  focus:
-    x: 50
-    'y': 55
 ---
 
 ## London hosted it until 2020

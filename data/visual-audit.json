@@ -15630,9 +15630,9 @@
  },
  "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Doubles_at_the_ATP_Finals_%2849070103618%29.jpg/3840px-Doubles_at_the_ATP_Finals_%2849070103618%29.jpg": {
   "slug": "london-atp-finals",
-  "verdict": "MATCH",
-  "reason": "patrol replace: ATP Finals tennis court, indoor venue, London",
-  "at": "2026-10-20T22:37:13.269Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"finals\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-21T08:07:23.168Z"
  },
  "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Doubles_at_the_ATP_Finals_%2849070106548%29.jpg/3840px-Doubles_at_the_ATP_Finals_%2849070106548%29.jpg": {
   "slug": "london-atp-finals",
@@ -20208,9 +20208,9 @@
  },
  "nuremberg-nuremberg-christkindlesmarkt\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Christkindlesmarkt_2019_N%C3%BCrnberg_026.jpg/3840px-Christkindlesmarkt_2019_N%C3%BCrnberg_026.jpg": {
   "slug": "nuremberg-nuremberg-christkindlesmarkt",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Christmas market ornaments, typical Nuremberg Christkindlesm",
-  "at": "2026-10-20T22:38:59.324Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"christkindlesmarkt\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-21T08:07:23.297Z"
  },
  "nuremberg-nuremberg-christkindlesmarkt\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Christkindlesmarkt_2023_N%C3%BCrnberg_134.jpg/3840px-Christkindlesmarkt_2023_N%C3%BCrnberg_134.jpg": {
   "slug": "nuremberg-nuremberg-christkindlesmarkt",
@@ -22612,9 +22612,9 @@
  },
  "puerto-princesa-ironman-70-3-puerto-princesa\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/IRONMAN_70.3_Hradec_Kralove_2024_2.jpg/1920px-IRONMAN_70.3_Hradec_Kralove_2024_2.jpg": {
   "slug": "puerto-princesa-ironman-70-3-puerto-princesa",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Running race in street with spectators, banners",
-  "at": "2026-10-20T22:40:21.423Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"ironman\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-21T08:07:23.425Z"
  },
  "puerto-princesa-luli-island\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Luli_Island%2C_Honda_Bay%2C_Palawan%2C_Philippines.jpg/3840px-Luli_Island%2C_Honda_Bay%2C_Palawan%2C_Philippines.jpg": {
   "slug": "puerto-princesa-luli-island",
