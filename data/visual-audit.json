@@ -17665,9 +17665,9 @@
  },
  "melbourne-national-gallery-of-victoria\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/National_Gallery_of_Victoria_2024.jpg/1920px-National_Gallery_of_Victoria_2024.jpg": {
   "slug": "melbourne-national-gallery-of-victoria",
-  "verdict": "MATCH",
-  "reason": "publish gate: Exterior facade of NGV with signage and entrance shown",
-  "at": "2026-09-30T14:11:18.585Z"
+  "verdict": "MISMATCH",
+  "reason": "identity audit: Commons places this in Victoria, post says Melbourne",
+  "at": "2026-10-21T14:52:29.642Z"
  },
  "melbourne-nike-melbourne-marathon-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Melbourne_Cricket_Ground%2C_west_remote_view_20230219_1.jpg/3840px-Melbourne_Cricket_Ground%2C_west_remote_view_20230219_1.jpg": {
   "slug": "melbourne-nike-melbourne-marathon-festival",

@@ -8,16 +8,6 @@ country: Australia
 region: Melbourne
 category: attraction
 pubDate: '2026-09-30T14:11:30.570Z'
-heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/National_Gallery_of_Victoria_2024.jpg/1920px-National_Gallery_of_Victoria_2024.jpg
-  credit: 'Photo: Shkuru Afshar / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:National_Gallery_of_Victoria_2024.jpg
-  focus:
-    x: 65
-    'y': 45
 gallery:
   - url: >-
       https://upload.wikimedia.org/wikipedia/commons/1/14/National_Gallery_of_Victoria_from_Eurkea_Tower.jpg
@@ -94,6 +84,7 @@ faq:
 aiGenerated: true
 draft: false
 updatedDate: '2026-10-09'
+photoless: true
 ---
 
 ## A bluestone box with a wall of water
