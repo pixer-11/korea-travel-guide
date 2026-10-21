@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: montreal-vieux-port-de-montreal
-srcHash: 'ec688914ce2e'
+srcHash: '866610c04cb2'
 title: 蒙特利尔老港（Vieux-Port de Montréal）：蒙特利尔旅行指南（4.7★）
-description: 蒙特利尔老港位于老城区公社街（Rue de la Commune）沿线，在圣劳伦斯河畔绵延约2公里，码头、滨河步道和各类景点都集中在这里。评分4.7★（53,364条评价），游客口碑、开放时间和实用贴士都在这篇里。
+description: 蒙特利尔老港位于老城区公社街（Rue de la Commune）沿线，在圣劳伦斯河畔绵延约2公里，码头、滨河步道和各类景点都集中在这里。评分4.7★（53,366条评价），游客口碑、开放时间和实用贴士都在这篇里。
 quickAnswer: 蒙特利尔老港位于老城区公社街（Rue de la Commune）沿线，在圣劳伦斯河畔绵延约2公里，码头、滨河步道和各类景点都集中在这里。每天上午7点至9点人最少，工作日晚上10点至11点也比较清静。周末中午12点到晚上10点是人流高峰，最好避开。搭地铁橙线到战神广场站（Champ-de-Mars）或阅兵广场站（Place-d'Armes），出站后一路下坡走到河边就到了。
 faq:
   - q: 什么时候去蒙特利尔老港人最少？

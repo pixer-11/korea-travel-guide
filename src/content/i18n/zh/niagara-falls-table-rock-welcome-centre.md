@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: niagara-falls-table-rock-welcome-centre
-srcHash: 'ff0f60b6d170'
+srcHash: '193314eea248'
 title: 桌岩游客中心：尼亚加拉瀑布旅行指南（4.6★）
-description: 桌岩游客中心位于安大略省尼亚加拉瀑布城的尼亚加拉河景大道旁，紧挨着马蹄瀑布的崖口。评分4.6★（2,539条评价），这里汇总了游客评价、开放时间和实用贴士。
+description: 桌岩游客中心位于安大略省尼亚加拉瀑布城的尼亚加拉河景大道旁，紧挨着马蹄瀑布的崖口。评分4.6★（2,541条评价），这里汇总了游客评价、开放时间和实用贴士。
 quickAnswer: 桌岩游客中心（Table Rock Welcome Centre）位于安大略省尼亚加拉瀑布城的尼亚加拉河景大道（Niagara River Parkway）旁，就在马蹄瀑布的崖口边上。在陆地上，这里是离瀑布最近的地方，“瀑布后之旅”（Journey Behind the Falls）的入口也设在楼内。谷歌目前显示园区24小时开放，不过商店和游览项目各有各的营业时间，而且随季节调整。
 faq:
   - q: 桌岩游客中心晚上开放吗？

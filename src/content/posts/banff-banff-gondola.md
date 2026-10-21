@@ -1,60 +1,91 @@
 ---
-title: "Banff Gondola: Travel Guide (4.7★)"
-description: "The Banff Gondola lifts you from 100 Mountain Avenue, a short ride south of downtown Banff, to the summit ridge of Sulphur Mountain in about eight minutes, with a boardwalk, restaurants and an interpretive museum at the top. 4.7★ (17,400 reviews) — what visitors say, hours, and tips."
-country: "Canada"
-region: "Banff"
-category: "attraction"
-pubDate: "2026-10-21T13:29:43.282Z"
+title: 'Banff Gondola: Travel Guide (4.7★)'
+description: >-
+  The Banff Gondola lifts you from 100 Mountain Avenue, a short ride south of
+  downtown Banff, to the summit ridge of Sulphur Mountain in about eight
+  minutes, with a boardwalk, restaurants and an interpretive museum at the top.
+  4.7★ (17,404 reviews) — what visitors say, hours, and tips.
+country: Canada
+region: Banff
+category: attraction
+pubDate: '2026-10-21T13:29:43.282Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/f/fb/View_of_Banff_from_Gondola_%283910774143%29.jpg"
-  credit: "Photo: Mark from Yellowknife, Canada / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:View_of_Banff_from_Gondola_(3910774143).jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/f/fb/View_of_Banff_from_Gondola_%283910774143%29.jpg
+  credit: 'Photo: Mark from Yellowknife, Canada / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:View_of_Banff_from_Gondola_(3910774143).jpg
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Banff_Gondola_-_Sulpher_Mountain_-_panoramio.jpg/3840px-Banff_Gondola_-_Sulpher_Mountain_-_panoramio.jpg"
-    credit: "Photo: Jack Borno / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Banff_Gondola_-_Sulpher_Mountain_-_panoramio.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Banff_Gondola_-_Sulpher_Mountain_-_panoramio.jpg/3840px-Banff_Gondola_-_Sulpher_Mountain_-_panoramio.jpg
+    credit: 'Photo: Jack Borno / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Banff_Gondola_-_Sulpher_Mountain_-_panoramio.jpg
 place:
-  id: "ChIJoXKdCWPJcFMRifTm8zB9kek"
-  name: "Banff Gondola"
-  address: "Box 1140, 100 Mountain Ave, Banff, AB T1L 1J3, Canada"
+  id: ChIJoXKdCWPJcFMRifTm8zB9kek
+  name: Banff Gondola
+  address: 'Box 1140, 100 Mountain Ave, Banff, AB T1L 1J3, Canada'
   rating: 4.7
-  userRatingsTotal: 17400
-  googleMapsUrl: "https://maps.google.com/?cid=16830370931664155785&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 17404
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16830370931664155785&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 51.1479321
   lng: -115.555465
-  phone: "+1 866-756-1904"
+  phone: +1 866-756-1904
   openingHours:
-    - "Monday: 10:00 AM – 9:00 PM"
-    - "Tuesday: 10:00 AM – 9:00 PM"
-    - "Wednesday: 10:00 AM – 9:00 PM"
-    - "Thursday: 10:00 AM – 9:00 PM"
-    - "Friday: 10:00 AM – 9:00 PM"
-    - "Saturday: 10:00 AM – 9:00 PM"
-    - "Sunday: 10:00 AM – 9:00 PM"
+    - 'Monday: 10:00 AM – 9:00 PM'
+    - 'Tuesday: 10:00 AM – 9:00 PM'
+    - 'Wednesday: 10:00 AM – 9:00 PM'
+    - 'Thursday: 10:00 AM – 9:00 PM'
+    - 'Friday: 10:00 AM – 9:00 PM'
+    - 'Saturday: 10:00 AM – 9:00 PM'
+    - 'Sunday: 10:00 AM – 9:00 PM'
 tags:
-  - "banff"
-  - "top attraction"
-quickAnswer: "The Banff Gondola lifts you from 100 Mountain Avenue, a short ride south of downtown Banff, to the summit ridge of Sulphur Mountain in about eight minutes, with a boardwalk, restaurants and an interpretive museum at the top. Book timed tickets online in advance. This week it runs 10am–9pm, but hours change with the season, so check the official site for the date you plan to go."
+  - banff
+  - top attraction
+quickAnswer: >-
+  The Banff Gondola lifts you from 100 Mountain Avenue, a short ride south of
+  downtown Banff, to the summit ridge of Sulphur Mountain in about eight
+  minutes, with a boardwalk, restaurants and an interpretive museum at the top.
+  Book timed tickets online in advance. This week it runs 10am–9pm, but hours
+  change with the season, so check the official site for the date you plan to
+  go.
 faq:
-  - q: "Do I need to book Banff Gondola tickets in advance?"
-    a: "Yes, it's strongly recommended. Tickets are sold in timed slots on the official Banff Gondola website, and popular times sell out in summer. The current price is posted there too."
-  - q: "How do I get to the Banff Gondola without a car?"
-    a: "Take the Roam Transit Sulphur Mountain route from downtown Banff, which stops at the base station on Mountain Avenue. You can also take a taxi, or hike up the 5.5 km Sulphur Mountain trail from near the base."
-  - q: "How long does a visit take?"
-    a: "The ride takes about eight minutes each way. Most people spend two to three hours in total, including the roughly 1 km boardwalk to Sanson's Peak, the museum and a stop to eat."
-  - q: "What are the opening hours?"
-    a: "This week it runs 10am–9pm every day. Hours change with the season and the gondola can pause in high winds, so check the official site for your dates."
-  - q: "What should I wear at the top?"
-    a: "Bring a warm layer and a windproof jacket. The summit is around 2,281 metres, much colder than town, and the boardwalk can be icy or snowy outside high summer."
+  - q: Do I need to book Banff Gondola tickets in advance?
+    a: >-
+      Yes, it's strongly recommended. Tickets are sold in timed slots on the
+      official Banff Gondola website, and popular times sell out in summer. The
+      current price is posted there too.
+  - q: How do I get to the Banff Gondola without a car?
+    a: >-
+      Take the Roam Transit Sulphur Mountain route from downtown Banff, which
+      stops at the base station on Mountain Avenue. You can also take a taxi, or
+      hike up the 5.5 km Sulphur Mountain trail from near the base.
+  - q: How long does a visit take?
+    a: >-
+      The ride takes about eight minutes each way. Most people spend two to
+      three hours in total, including the roughly 1 km boardwalk to Sanson's
+      Peak, the museum and a stop to eat.
+  - q: What are the opening hours?
+    a: >-
+      This week it runs 10am–9pm every day. Hours change with the season and the
+      gondola can pause in high winds, so check the official site for your
+      dates.
+  - q: What should I wear at the top?
+    a: >-
+      Bring a warm layer and a windproof jacket. The summit is around 2,281
+      metres, much colder than town, and the boardwalk can be icy or snowy
+      outside high summer.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-21'
 ---
 
 Four people, a glass box, and a cable that climbs steeply up the forested face of Sulphur Mountain. The town of Banff shrinks below you to a grid of rooftops beside the Bow River. Mount Rundle's tilted slab fills the window opposite. About eight minutes later the cabin slides into the upper terminal, and you step out onto a ridge at roughly 2,281 metres.

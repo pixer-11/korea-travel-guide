@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: montreal-vieux-port-de-montreal
-srcHash: 'ec688914ce2e'
+srcHash: '866610c04cb2'
 title: 'Vieux-Port de Montréal: guía de viaje de Montreal (4.7★)'
-description: 'El Vieux-Port de Montréal es la franja ribereña que bordea la Rue de la Commune, en el Viejo Montreal: unos 2 km de muelles, paseos y atracciones a orillas del San Lorenzo. 4.7★ (53,364 reseñas). Opiniones de los visitantes, horarios y consejos.'
+description: 'El Vieux-Port de Montréal es la franja ribereña que bordea la Rue de la Commune, en el Viejo Montreal: unos 2 km de muelles, paseos y atracciones a orillas del San Lorenzo. 4.7★ (53,366 reseñas). Opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'El Vieux-Port de Montréal es la franja ribereña que bordea la Rue de la Commune, en el Viejo Montreal: unos 2 km de muelles, paseos y atracciones a orillas del San Lorenzo. La franja más tranquila es la de 7am–9am, todos los días, y entre semana también la de 10pm–11pm. Conviene evitar los fines de semana de 12pm–10pm, cuando hay más gente. Para llegar, tome la Línea Naranja hasta Champ-de-Mars o Place-d''Armes y baje a pie hasta el agua.'
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Vieux-Port de Montréal?

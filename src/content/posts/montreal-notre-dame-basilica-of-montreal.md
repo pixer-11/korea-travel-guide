@@ -1,45 +1,53 @@
 ---
-title: "Notre-Dame Basilica of Montreal: Travel Guide (4.7★)"
-description: "Notre-Dame Basilica of Montreal stands on Place d'Armes in Old Montreal, a two-minute walk from Place-d'Armes metro station on the Orange Line. 4.7★ (40,494 reviews) — what visitors say, hours, and tips."
-country: "Canada"
-region: "Montreal"
-category: "attraction"
-pubDate: "2026-10-21T13:29:49.443Z"
+title: 'Notre-Dame Basilica of Montreal: Travel Guide (4.7★)'
+description: >-
+  Notre-Dame Basilica of Montreal stands on Place d'Armes in Old Montreal, a
+  two-minute walk from Place-d'Armes metro station on the Orange Line. 4.7★
+  (40,499 reviews) — what visitors say, hours, and tips.
+country: Canada
+region: Montreal
+category: attraction
+pubDate: '2026-10-21T13:29:49.443Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Notre-Dame_Basilica_Interior%2C_Montreal%2C_Canada_-_Diliff.jpg/3840px-Notre-Dame_Basilica_Interior%2C_Montreal%2C_Canada_-_Diliff.jpg"
-  credit: "Photo: Diliff / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Notre-Dame_Basilica_Interior,_Montreal,_Canada_-_Diliff.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Notre-Dame_Basilica_Interior%2C_Montreal%2C_Canada_-_Diliff.jpg/3840px-Notre-Dame_Basilica_Interior%2C_Montreal%2C_Canada_-_Diliff.jpg
+  credit: 'Photo: Diliff / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Notre-Dame_Basilica_Interior,_Montreal,_Canada_-_Diliff.jpg
+  via: act
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/6/6d/Notre-Dame_de_Montr%C3%A9al_Basilica_August_2017_02.jpg"
-    credit: "Photo: Arild Vågen / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Notre-Dame_de_Montr%C3%A9al_Basilica_August_2017_02.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/6/6d/Notre-Dame_de_Montr%C3%A9al_Basilica_August_2017_02.jpg
+    credit: 'Photo: Arild Vågen / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Notre-Dame_de_Montr%C3%A9al_Basilica_August_2017_02.jpg
 place:
-  id: "ChIJPXGXWFcayUwRqpYNHZ_v_B8"
-  name: "Notre-Dame Basilica of Montreal"
-  address: "110 R. Notre Dame O, Montréal, QC H2Y 1T1, Canada"
+  id: ChIJPXGXWFcayUwRqpYNHZ_v_B8
+  name: Notre-Dame Basilica of Montreal
+  address: '110 R. Notre Dame O, Montréal, QC H2Y 1T1, Canada'
   rating: 4.7
-  userRatingsTotal: 40494
-  googleMapsUrl: "https://maps.google.com/?cid=2304980575973119658&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 40499
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2304980575973119658&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 45.5045254
   lng: -73.5561204
-  phone: "+1 514-842-2925"
+  phone: +1 514-842-2925
   openingHours:
-    - "Monday: 9:00 AM – 4:00 PM"
-    - "Tuesday: 9:00 AM – 4:00 PM"
-    - "Wednesday: 9:00 AM – 4:00 PM"
-    - "Thursday: 9:00 AM – 4:00 PM"
-    - "Friday: 9:00 AM – 4:00 PM"
-    - "Saturday: 9:00 AM – 4:00 PM"
-    - "Sunday: 12:30 – 4:00 PM"
+    - 'Monday: 9:00 AM – 4:00 PM'
+    - 'Tuesday: 9:00 AM – 4:00 PM'
+    - 'Wednesday: 9:00 AM – 4:00 PM'
+    - 'Thursday: 9:00 AM – 4:00 PM'
+    - 'Friday: 9:00 AM – 4:00 PM'
+    - 'Saturday: 9:00 AM – 4:00 PM'
+    - 'Sunday: 12:30 – 4:00 PM'
   busyness:
-    updated: 2026-10-21
+    updated: 2026-10-21T00:00:00.000Z
     weekdayQuiet:
       - 9
     weekendQuiet:
@@ -49,24 +57,44 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_38425f765f5a484e5970715277557961634657584758504a496843"
+    venueId: ven_38425f765f5a484e5970715277557961634657584758504a496843
 tags:
-  - "montreal"
-  - "Notre-Dame Basilica of Montreal"
-quickAnswer: "Notre-Dame Basilica of Montreal stands on Place d'Armes in Old Montreal, a two-minute walk from Place-d'Armes metro station on the Orange Line. Go between 9am and 10am, on a weekday or a Saturday, when it is quietest, and avoid weekend afternoons from 12pm to 4pm. Allow 45–60 minutes inside. At the moment it opens 9am–4pm Monday to Saturday and 12:30–4pm on Sunday."
+  - montreal
+  - Notre-Dame Basilica of Montreal
+quickAnswer: >-
+  Notre-Dame Basilica of Montreal stands on Place d'Armes in Old Montreal, a
+  two-minute walk from Place-d'Armes metro station on the Orange Line. Go
+  between 9am and 10am, on a weekday or a Saturday, when it is quietest, and
+  avoid weekend afternoons from 12pm to 4pm. Allow 45–60 minutes inside. At the
+  moment it opens 9am–4pm Monday to Saturday and 12:30–4pm on Sunday.
 faq:
-  - q: "When is the quietest time to visit Notre-Dame Basilica of Montreal?"
-    a: "Between 9am and 10am, on weekdays and on Saturdays. Avoid weekends from 12pm to 4pm, which is the busiest period. On Sunday, visitor hours currently start at 12:30pm, so arrive right at opening."
-  - q: "How do I get to Notre-Dame Basilica by metro?"
-    a: "Take the Orange Line (Line 2) to Place-d'Armes station, then walk about five minutes downhill to Place d'Armes. The basilica is at 110 Rue Notre-Dame Ouest, on the south side of the square."
-  - q: "How long should I spend inside?"
-    a: "About 45 minutes covers the nave, the stained-glass windows and the Sacré-Cœur Chapel behind the altar. Allow longer if you join a guided tour or want time to look at the Casavant organ."
-  - q: "Can I visit during mass?"
-    a: "Sightseeing pauses during services. Worshippers attending mass are welcome, but visitors should not tour the aisles or take photos while a service is under way. Service times are listed on the official site."
-  - q: "Is the AURA light show the same as a daytime visit?"
-    a: "No. AURA is a separately ticketed evening light-and-sound show held inside the basilica. Check the official site for show dates and tickets."
+  - q: When is the quietest time to visit Notre-Dame Basilica of Montreal?
+    a: >-
+      Between 9am and 10am, on weekdays and on Saturdays. Avoid weekends from
+      12pm to 4pm, which is the busiest period. On Sunday, visitor hours
+      currently start at 12:30pm, so arrive right at opening.
+  - q: How do I get to Notre-Dame Basilica by metro?
+    a: >-
+      Take the Orange Line (Line 2) to Place-d'Armes station, then walk about
+      five minutes downhill to Place d'Armes. The basilica is at 110 Rue
+      Notre-Dame Ouest, on the south side of the square.
+  - q: How long should I spend inside?
+    a: >-
+      About 45 minutes covers the nave, the stained-glass windows and the
+      Sacré-Cœur Chapel behind the altar. Allow longer if you join a guided tour
+      or want time to look at the Casavant organ.
+  - q: Can I visit during mass?
+    a: >-
+      Sightseeing pauses during services. Worshippers attending mass are
+      welcome, but visitors should not tour the aisles or take photos while a
+      service is under way. Service times are listed on the official site.
+  - q: Is the AURA light show the same as a daytime visit?
+    a: >-
+      No. AURA is a separately ticketed evening light-and-sound show held inside
+      the basilica. Check the official site for show dates and tickets.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-21'
 ---
 
 ## Under a ceiling the colour of deep water

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: ottawa-parliament-hill
-srcHash: '6e8aed0a2a58'
+srcHash: '89485d459bc7'
 title: 'Colina del Parlamento: guía de viaje de Ottawa (4.7★)'
-description: En pleno centro de Ottawa, la Colina del Parlamento ocupa un promontorio de piedra caliza sobre el río Ottawa, en la calle Wellington, a pocos pasos de la estación Parliament de la Línea 1 del O-Train. Con una valoración de 4.7★ (40,400 reseñas), le contamos qué opinan los visitantes, los horarios y algunos consejos.
+description: En pleno centro de Ottawa, la Colina del Parlamento ocupa un promontorio de piedra caliza sobre el río Ottawa, en la calle Wellington, a pocos pasos de la estación Parliament de la Línea 1 del O-Train. Con una valoración de 4.7★ (40,402 reseñas), le contamos qué opinan los visitantes, los horarios y algunos consejos.
 quickAnswer: En pleno centro de Ottawa, la Colina del Parlamento (Parliament Hill) ocupa un promontorio de piedra caliza que domina el río Ottawa, en la calle Wellington (Wellington Street), a pocos pasos de la estación Parliament de la Línea 1 del O-Train. Los jardines se pueden recorrer libremente; en cambio, para hacer una visita guiada por los edificios del Parlamento, que siguen en funcionamiento, se necesita una entrada con hora asignada, así que conviene reservarla en el sitio oficial de visitantes del Parlamento de Canadá antes de ir. Calcule entre 2 y 3 horas y, si en verano quiere ver bien el Cambio de Guardia, llegue temprano.
 faq:
   - q: ¿Cómo se llega a la Colina del Parlamento en transporte público?

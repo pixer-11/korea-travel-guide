@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: churchill-cape-merry
-srcHash: '808e97461b23'
+srcHash: '03e369722da4'
 title: 'Cabo Merry: guía de viaje de Churchill (4.7★)'
-description: 'En la desembocadura del río Churchill, en Churchill (Manitoba), se alza Cabo Merry, un promontorio rocoso con una batería de cañones de piedra del siglo XVIII y vistas al fuerte Prince of Wales, en la orilla opuesta. Valoración de 4.7★ (131 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En la desembocadura del río Churchill, en Churchill (Manitoba), se alza Cabo Merry, un promontorio rocoso con una batería de cañones de piedra del siglo XVIII y vistas al fuerte Prince of Wales, en la orilla opuesta. Valoración de 4.7★ (132 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En la desembocadura del río Churchill, en Churchill (Manitoba), se encuentra Cabo Merry (Cape Merry), un promontorio rocoso que conserva una batería de cañones de piedra del siglo XVIII y desde el que se divisa, al otro lado del agua, el fuerte Prince of Wales. En julio y agosto es uno de los mejores puntos en tierra firme para observar ballenas beluga. Por la presencia de osos polares, conviene llegar en vehículo y no a pie. Entre semana, el momento más tranquilo es de 8pm a 9pm.
 faq:
   - q: ¿Cómo se llega a Cabo Merry desde el pueblo de Churchill?

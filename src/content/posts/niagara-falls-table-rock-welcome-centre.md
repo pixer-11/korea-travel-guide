@@ -1,58 +1,87 @@
 ---
-title: "Table Rock Welcome Centre: Niagara Falls Travel Guide (4.6★)"
-description: "Table Rock Welcome Centre sits on the Niagara River Parkway in Niagara Falls, Ontario, right at the brink of the Horseshoe Falls. 4.6★ (2,539 reviews) — what visitors say, hours, and tips."
-country: "Canada"
-region: "Niagara Falls"
-category: "attraction"
-pubDate: "2026-10-21T13:29:48.416Z"
+title: 'Table Rock Welcome Centre: Niagara Falls Travel Guide (4.6★)'
+description: >-
+  Table Rock Welcome Centre sits on the Niagara River Parkway in Niagara Falls,
+  Ontario, right at the brink of the Horseshoe Falls. 4.6★ (2,541 reviews) —
+  what visitors say, hours, and tips.
+country: Canada
+region: Niagara Falls
+category: attraction
+pubDate: '2026-10-21T13:29:48.416Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Niagara_falls_visitor_center_04.07.2012_14-48-37.jpg/1920px-Niagara_falls_visitor_center_04.07.2012_14-48-37.jpg"
-  credit: "Photo: Dirk Ingo Franke / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Niagara_falls_visitor_center_04.07.2012_14-48-37.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Niagara_falls_visitor_center_04.07.2012_14-48-37.jpg/1920px-Niagara_falls_visitor_center_04.07.2012_14-48-37.jpg
+  credit: 'Photo: Dirk Ingo Franke / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Niagara_falls_visitor_center_04.07.2012_14-48-37.jpg
   focus:
     x: 55
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Table_Rock_Welcome_Center_-_panoramio.jpg/3840px-Table_Rock_Welcome_Center_-_panoramio.jpg"
-    credit: "Photo: Idawriter / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Table_Rock_Welcome_Center_-_panoramio.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Table_Rock_Welcome_Center_-_panoramio.jpg/3840px-Table_Rock_Welcome_Center_-_panoramio.jpg
+    credit: 'Photo: Idawriter / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Table_Rock_Welcome_Center_-_panoramio.jpg
 place:
-  id: "ChIJfU-hBglD04kR6tJpRWsEgis"
-  name: "Table Rock Welcome Centre"
-  address: "6650 Niagara River Pkwy, Niagara Falls, ON L2E 6T2, Canada"
+  id: ChIJfU-hBglD04kR6tJpRWsEgis
+  name: Table Rock Welcome Centre
+  address: '6650 Niagara River Pkwy, Niagara Falls, ON L2E 6T2, Canada'
   rating: 4.6
-  userRatingsTotal: 2539
-  googleMapsUrl: "https://maps.google.com/?cid=3135073149375861482&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2541
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3135073149375861482&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 43.0791675
   lng: -79.0788306
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "niagara falls"
-  - "Horseshoe Falls"
-quickAnswer: "Table Rock Welcome Centre sits on the Niagara River Parkway in Niagara Falls, Ontario, right at the brink of the Horseshoe Falls. It's the closest you can stand to the falls on land, and Journey Behind the Falls starts inside the building. Google currently lists the grounds as open 24 hours, but the shops and attractions keep their own hours, which change with the season."
+  - niagara falls
+  - Horseshoe Falls
+quickAnswer: >-
+  Table Rock Welcome Centre sits on the Niagara River Parkway in Niagara Falls,
+  Ontario, right at the brink of the Horseshoe Falls. It's the closest you can
+  stand to the falls on land, and Journey Behind the Falls starts inside the
+  building. Google currently lists the grounds as open 24 hours, but the shops
+  and attractions keep their own hours, which change with the season.
 faq:
-  - q: "Is Table Rock Welcome Centre open at night?"
-    a: "Google currently lists the grounds as open 24 hours, so you can visit the outdoor overlook after dark to see the falls lit up. The shops, restaurant and Journey Behind the Falls keep shorter hours that change with the season. Check Niagara Parks' official site for this month's times."
-  - q: "How do I get to Table Rock from Clifton Hill or the Fallsview hotels?"
-    a: "From Clifton Hill, walk south along the riverside promenade through Queen Victoria Park, which is about 1.5 km. From Fallsview, take the Falls Incline Railway down from Portage Road. Niagara Parks' WEGO buses also stop at Table Rock."
-  - q: "How long should I spend at Table Rock?"
-    a: "Allow about 30 minutes for the railing and a quick look inside. Plan on 1–2 hours if you're doing Journey Behind the Falls."
-  - q: "Will I get wet at Table Rock?"
-    a: "Often, yes. Depending on the wind, mist from the Horseshoe Falls blows over the promenade railing. Journey Behind the Falls hands out ponchos for the lower deck."
-  - q: "Where can I park near Table Rock?"
-    a: "Niagara Parks runs parking lots along the Niagara River Parkway near the centre. Current rates are posted at each lot entrance."
+  - q: Is Table Rock Welcome Centre open at night?
+    a: >-
+      Google currently lists the grounds as open 24 hours, so you can visit the
+      outdoor overlook after dark to see the falls lit up. The shops, restaurant
+      and Journey Behind the Falls keep shorter hours that change with the
+      season. Check Niagara Parks' official site for this month's times.
+  - q: How do I get to Table Rock from Clifton Hill or the Fallsview hotels?
+    a: >-
+      From Clifton Hill, walk south along the riverside promenade through Queen
+      Victoria Park, which is about 1.5 km. From Fallsview, take the Falls
+      Incline Railway down from Portage Road. Niagara Parks' WEGO buses also
+      stop at Table Rock.
+  - q: How long should I spend at Table Rock?
+    a: >-
+      Allow about 30 minutes for the railing and a quick look inside. Plan on
+      1–2 hours if you're doing Journey Behind the Falls.
+  - q: Will I get wet at Table Rock?
+    a: >-
+      Often, yes. Depending on the wind, mist from the Horseshoe Falls blows
+      over the promenade railing. Journey Behind the Falls hands out ponchos for
+      the lower deck.
+  - q: Where can I park near Table Rock?
+    a: >-
+      Niagara Parks runs parking lots along the Niagara River Parkway near the
+      centre. Current rates are posted at each lot entrance.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-21'
 ---
 
 ## The railing at the edge

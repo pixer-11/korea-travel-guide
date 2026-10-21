@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: niagara-falls-journey-behind-the-falls
-srcHash: 'a5c6e3ec9edc'
+srcHash: '2fceb9394fb9'
 title: 'Journey Behind the Falls: guía de viaje de Niagara Falls (4.5★)'
-description: En Niagara Falls (Ontario), Journey Behind the Falls le lleva en ascensor a través de la roca contigua a las cataratas de la Herradura (Horseshoe Falls) hasta unos túneles con aberturas tras el agua y unos miradores situados al pie del salto. Con 4.5★ (17,157 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
+description: En Niagara Falls (Ontario), Journey Behind the Falls le lleva en ascensor a través de la roca contigua a las cataratas de la Herradura (Horseshoe Falls) hasta unos túneles con aberturas tras el agua y unos miradores situados al pie del salto. Con 4.5★ (17,161 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
 quickAnswer: En Niagara Falls (Ontario), Journey Behind the Falls le lleva en ascensor a través de la roca contigua a las cataratas de la Herradura (Horseshoe Falls). Abajo le esperan unos túneles con aberturas tras el agua y unos miradores al pie del salto. Calcule entre 45–60 minutos de visita. Entre semana, las horas más tranquilas van de 9am–10am y de 6pm–8pm; los fines de semana, de 9am–10am. Conviene evitar los fines de semana de 11am–7pm.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar Journey Behind the Falls?

@@ -1,41 +1,47 @@
 ---
-title: "Cape Merry: Churchill Travel Guide (4.7★)"
-description: "Cape Merry is the rocky point at the mouth of the Churchill River in Churchill, Manitoba, with an 18th-century stone gun battery and a view across the water to Prince of Wales Fort. 4.7★ (131 reviews) — what visitors say, hours, and tips."
-country: "Canada"
-region: "Churchill"
-category: "attraction"
-pubDate: "2026-10-21T13:29:31.920Z"
+title: 'Cape Merry: Churchill Travel Guide (4.7★)'
+description: >-
+  Cape Merry is the rocky point at the mouth of the Churchill River in
+  Churchill, Manitoba, with an 18th-century stone gun battery and a view across
+  the water to Prince of Wales Fort. 4.7★ (132 reviews) — what visitors say,
+  hours, and tips.
+country: Canada
+region: Churchill
+category: attraction
+pubDate: '2026-10-21T13:29:31.920Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Cape_Merry_approaching_dusk.JPG/3840px-Cape_Merry_approaching_dusk.JPG"
-  credit: "Photo: anonymous donor / Wikimedia Commons (Public domain)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Cape_Merry_approaching_dusk.JPG"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Cape_Merry_approaching_dusk.JPG/3840px-Cape_Merry_approaching_dusk.JPG
+  credit: 'Photo: anonymous donor / Wikimedia Commons (Public domain)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Cape_Merry_approaching_dusk.JPG'
+  via: act
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJSVMsTd7bb1IRi0CFR6YgUlY"
-  name: "Cape Merry"
-  address: "Cape Merry Rd, Churchill, MB R0B 0E0, Canada"
+  id: ChIJSVMsTd7bb1IRi0CFR6YgUlY
+  name: Cape Merry
+  address: 'Cape Merry Rd, Churchill, MB R0B 0E0, Canada'
   rating: 4.7
-  userRatingsTotal: 131
-  googleMapsUrl: "https://maps.google.com/?cid=6220069933888651403&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 132
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6220069933888651403&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 58.78557539999999
   lng: -94.2016254
-  phone: "+1 204-675-8863"
+  phone: +1 204-675-8863
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-10-21
+    updated: 2026-10-21T00:00:00.000Z
     weekdayQuiet:
       - 20
     weekendQuiet:
@@ -51,24 +57,42 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_596c5567593652464330695249316262376454734d56534a496843"
+    venueId: ven_596c5567593652464330695249316262376454734d56534a496843
 tags:
-  - "churchill"
-  - "top attraction"
-quickAnswer: "Cape Merry is the rocky point at the mouth of the Churchill River in Churchill, Manitoba, with an 18th-century stone gun battery and a view across the water to Prince of Wales Fort. In July and August it's one of the best places on land to watch beluga whales. Come by vehicle rather than on foot because of polar bears, and on weekdays aim for 8pm–9pm, when it's quietest."
+  - churchill
+  - top attraction
+quickAnswer: >-
+  Cape Merry is the rocky point at the mouth of the Churchill River in
+  Churchill, Manitoba, with an 18th-century stone gun battery and a view across
+  the water to Prince of Wales Fort. In July and August it's one of the best
+  places on land to watch beluga whales. Come by vehicle rather than on foot
+  because of polar bears, and on weekdays aim for 8pm–9pm, when it's quietest.
 faq:
-  - q: "How do I get to Cape Merry from Churchill town?"
-    a: "Drive, take a taxi or join a tour along Cape Merry Road to the river mouth, past the grain port. Don't walk, because polar bears use this shoreline."
-  - q: "When is the quietest time to visit Cape Merry?"
-    a: "On weekdays it's quietest 8pm–9pm. On weekends it's quietest 3pm–7pm. Avoid weekend slots at 8am–9am, 12pm–1pm, 2pm–3pm and 7pm–11pm, when it's busiest."
-  - q: "Can I see beluga whales from Cape Merry?"
-    a: "Yes, mostly in July and August, when thousands of belugas come into the Churchill River estuary. Bring binoculars."
-  - q: "How long should I spend at Cape Merry?"
-    a: "About 45 minutes to an hour for the battery and the view. Stay longer if belugas are surfacing."
-  - q: "Can I visit Prince of Wales Fort from Cape Merry?"
-    a: "No. You see it across the river, but you can only reach it by boat tour from Churchill's port."
+  - q: How do I get to Cape Merry from Churchill town?
+    a: >-
+      Drive, take a taxi or join a tour along Cape Merry Road to the river
+      mouth, past the grain port. Don't walk, because polar bears use this
+      shoreline.
+  - q: When is the quietest time to visit Cape Merry?
+    a: >-
+      On weekdays it's quietest 8pm–9pm. On weekends it's quietest 3pm–7pm.
+      Avoid weekend slots at 8am–9am, 12pm–1pm, 2pm–3pm and 7pm–11pm, when it's
+      busiest.
+  - q: Can I see beluga whales from Cape Merry?
+    a: >-
+      Yes, mostly in July and August, when thousands of belugas come into the
+      Churchill River estuary. Bring binoculars.
+  - q: How long should I spend at Cape Merry?
+    a: >-
+      About 45 minutes to an hour for the battery and the view. Stay longer if
+      belugas are surfacing.
+  - q: Can I visit Prince of Wales Fort from Cape Merry?
+    a: >-
+      No. You see it across the river, but you can only reach it by boat tour
+      from Churchill's port.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-21'
 ---
 
 ## Bare rock where the river meets the bay

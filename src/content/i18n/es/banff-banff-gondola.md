@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: banff-banff-gondola
-srcHash: '958fe4fab225'
+srcHash: 'ec0a742c979a'
 title: 'Teleférico de Banff (Banff Gondola): guía de viaje (4.7★)'
-description: Desde el 100 Mountain Avenue, a poca distancia al sur del centro de Banff, el teleférico de Banff sube en unos ocho minutos hasta la cresta de la montaña Sulphur, donde le esperan una pasarela, restaurantes y un museo interpretativo. Con 4.7★ (17,400 reseñas), aquí encontrará la opinión de los visitantes, el horario y consejos prácticos.
+description: Desde el 100 Mountain Avenue, a poca distancia al sur del centro de Banff, el teleférico de Banff sube en unos ocho minutos hasta la cresta de la montaña Sulphur, donde le esperan una pasarela, restaurantes y un museo interpretativo. Con 4.7★ (17,404 reseñas), aquí encontrará la opinión de los visitantes, el horario y consejos prácticos.
 quickAnswer: Desde el 100 Mountain Avenue, a poca distancia al sur del centro de Banff, el teleférico de Banff (Banff Gondola) sube en unos ocho minutos hasta la cresta de la montaña Sulphur. Arriba hay una pasarela, restaurantes y un museo interpretativo. Conviene reservar con antelación por internet las entradas con franja horaria. Esta semana funciona de 10am–9pm, pero el horario cambia según la temporada, así que consulte la web oficial para la fecha de su visita.
 faq:
   - q: ¿Hay que reservar con antelación las entradas del teleférico de Banff?

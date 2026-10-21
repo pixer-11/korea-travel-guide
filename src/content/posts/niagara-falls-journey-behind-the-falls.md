@@ -1,43 +1,51 @@
 ---
-title: "Journey Behind the Falls: Niagara Falls Travel Guide (4.5★)"
-description: "Journey Behind the Falls in Niagara Falls, Ontario, takes you by elevator down through the rock beside Horseshoe Falls, into tunnels with portals behind the water and out to observation decks at its base. 4.5★ (17,157 reviews) — what visitors say, hours, and tips."
-country: "Canada"
-region: "Niagara Falls"
-category: "attraction"
-pubDate: "2026-10-21T13:29:39.172Z"
+title: 'Journey Behind the Falls: Niagara Falls Travel Guide (4.5★)'
+description: >-
+  Journey Behind the Falls in Niagara Falls, Ontario, takes you by elevator down
+  through the rock beside Horseshoe Falls, into tunnels with portals behind the
+  water and out to observation decks at its base. 4.5★ (17,161 reviews) — what
+  visitors say, hours, and tips.
+country: Canada
+region: Niagara Falls
+category: attraction
+pubDate: '2026-10-21T13:29:39.172Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Journey_behind_the_falls_01.JPG/1920px-Journey_behind_the_falls_01.JPG"
-  credit: "Photo: Vassgergely at English Wikipedia / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Journey_behind_the_falls_01.JPG"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Journey_behind_the_falls_01.JPG/1920px-Journey_behind_the_falls_01.JPG
+  credit: 'Photo: Vassgergely at English Wikipedia / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Journey_behind_the_falls_01.JPG'
   focus:
     x: 55
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Observation_deck_of_Journey_Behind_the_Falls.jpg/3840px-Observation_deck_of_Journey_Behind_the_Falls.jpg"
-    credit: "Photo: Gogerr / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Observation_deck_of_Journey_Behind_the_Falls.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Observation_deck_of_Journey_Behind_the_Falls.jpg/3840px-Observation_deck_of_Journey_Behind_the_Falls.jpg
+    credit: 'Photo: Gogerr / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Observation_deck_of_Journey_Behind_the_Falls.jpg
 place:
-  id: "ChIJe0zJAwlD04kR6lp-Q--T-Iw"
-  name: "Journey Behind the Falls"
-  address: "6650 Niagara River Pkwy, Niagara Falls, ON L2E 6T2, Canada"
+  id: ChIJe0zJAwlD04kR6lp-Q--T-Iw
+  name: Journey Behind the Falls
+  address: '6650 Niagara River Pkwy, Niagara Falls, ON L2E 6T2, Canada'
   rating: 4.5
-  userRatingsTotal: 17157
-  googleMapsUrl: "https://maps.google.com/?cid=10158031615372974826&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 17161
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10158031615372974826&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 43.0791958
   lng: -79.07849619999999
   openingHours:
-    - "Monday: 9:00 AM – 7:00 PM"
-    - "Tuesday: 9:00 AM – 7:00 PM"
-    - "Wednesday: 9:00 AM – 7:00 PM"
-    - "Thursday: 9:00 AM – 7:00 PM"
-    - "Friday: 9:00 AM – 8:00 PM"
-    - "Saturday: 9:00 AM – 8:00 PM"
-    - "Sunday: 9:00 AM – 8:00 PM"
+    - 'Monday: 9:00 AM – 7:00 PM'
+    - 'Tuesday: 9:00 AM – 7:00 PM'
+    - 'Wednesday: 9:00 AM – 7:00 PM'
+    - 'Thursday: 9:00 AM – 7:00 PM'
+    - 'Friday: 9:00 AM – 8:00 PM'
+    - 'Saturday: 9:00 AM – 8:00 PM'
+    - 'Sunday: 9:00 AM – 8:00 PM'
   busyness:
-    updated: 2026-10-21
+    updated: 2026-10-21T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 18
@@ -53,24 +61,46 @@ place:
       - 16
       - 17
       - 18
-    venueId: "ven_77492d542d2d512d706c36526b3430446c77414a7a30654a496843"
+    venueId: ven_77492d542d2d512d706c36526b3430446c77414a7a30654a496843
 tags:
-  - "niagara falls"
-  - "top attraction"
-quickAnswer: "Journey Behind the Falls in Niagara Falls, Ontario, takes you by elevator down through the rock beside Horseshoe Falls, into tunnels with portals behind the water and out to observation decks at its base. Plan on 45–60 minutes. On weekdays it's calmest between 9am–10am and 6pm–8pm, and on weekends between 9am–10am; avoid weekends from 11am–7pm."
+  - niagara falls
+  - top attraction
+quickAnswer: >-
+  Journey Behind the Falls in Niagara Falls, Ontario, takes you by elevator down
+  through the rock beside Horseshoe Falls, into tunnels with portals behind the
+  water and out to observation decks at its base. Plan on 45–60 minutes. On
+  weekdays it's calmest between 9am–10am and 6pm–8pm, and on weekends between
+  9am–10am; avoid weekends from 11am–7pm.
 faq:
-  - q: "When is the quietest time to visit Journey Behind the Falls?"
-    a: "On weekdays it's calmest from 9am–10am and again from 6pm until closing. On weekends the quiet window is 9am–10am. Avoid weekends from 11am–7pm, the busiest period."
-  - q: "How long does Journey Behind the Falls take?"
-    a: "Most visitors spend 45–60 minutes, including the elevator down, the portals and the observation decks. It takes longer at peak times because the elevators run in batches."
-  - q: "Will I get wet?"
-    a: "Yes, especially on the lower observation deck. You get a poncho at entry, but your shoes and anything uncovered will still get damp, so protect your phone."
-  - q: "Is it open in winter?"
-    a: "Niagara Parks runs it year-round, but ice can close parts of the outdoor decks, and hours change with the seasons. Check the official Niagara Parks site for current hours."
-  - q: "Where is it and how do I get there?"
-    a: "It's inside the Table Rock Centre at 6650 Niagara River Parkway, at the brink of Horseshoe Falls. You can walk there along the Niagara Parkway promenade, take a WEGO bus, or park at the Niagara Parks Falls Parking lot nearby."
+  - q: When is the quietest time to visit Journey Behind the Falls?
+    a: >-
+      On weekdays it's calmest from 9am–10am and again from 6pm until closing.
+      On weekends the quiet window is 9am–10am. Avoid weekends from 11am–7pm,
+      the busiest period.
+  - q: How long does Journey Behind the Falls take?
+    a: >-
+      Most visitors spend 45–60 minutes, including the elevator down, the
+      portals and the observation decks. It takes longer at peak times because
+      the elevators run in batches.
+  - q: Will I get wet?
+    a: >-
+      Yes, especially on the lower observation deck. You get a poncho at entry,
+      but your shoes and anything uncovered will still get damp, so protect your
+      phone.
+  - q: Is it open in winter?
+    a: >-
+      Niagara Parks runs it year-round, but ice can close parts of the outdoor
+      decks, and hours change with the seasons. Check the official Niagara Parks
+      site for current hours.
+  - q: Where is it and how do I get there?
+    a: >-
+      It's inside the Table Rock Centre at 6650 Niagara River Parkway, at the
+      brink of Horseshoe Falls. You can walk there along the Niagara Parkway
+      promenade, take a WEGO bus, or park at the Niagara Parks Falls Parking lot
+      nearby.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-21'
 ---
 
 ## Under the Edge of the Horseshoe

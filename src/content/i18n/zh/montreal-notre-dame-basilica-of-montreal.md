@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: montreal-notre-dame-basilica-of-montreal
-srcHash: '24f4cbadfe52'
+srcHash: 'fcdcaadfbc19'
 title: 蒙特利尔圣母大教堂旅行指南（4.7★）
-description: 蒙特利尔圣母大教堂坐落在老蒙特利尔的兵器广场（Place d'Armes），从地铁橙线Place-d'Armes站步行两分钟即到。4.7★（40,494条评价），本文汇总游客评价、开放时间和参观建议。
+description: 蒙特利尔圣母大教堂坐落在老蒙特利尔的兵器广场（Place d'Armes），从地铁橙线Place-d'Armes站步行两分钟即到。4.7★（40,499条评价），本文汇总游客评价、开放时间和参观建议。
 quickAnswer: 蒙特利尔圣母大教堂坐落在老蒙特利尔的兵器广场（Place d'Armes），从地铁橙线Place-d'Armes站步行两分钟即到。工作日和周六的上午9点到10点人最少，周末中午12点到下午4点最好避开。进去以后建议留出45–60分钟。目前的开放时间是周一至周六上午9点–下午4点，周日中午12:30–下午4点。
 faq:
   - q: 什么时候去蒙特利尔圣母大教堂人最少？

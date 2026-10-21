@@ -1,44 +1,49 @@
 ---
-title: "Vieux-Port de Montréal: Montreal Travel Guide (4.7★)"
-description: "Vieux-Port de Montréal is the riverfront strip along Rue de la Commune in Old Montreal, about 2 km of quays, promenades and attractions on the St. Lawrence. 4.7★ (53,364 reviews) — what visitors say, hours, and tips."
-country: "Canada"
-region: "Montreal"
-category: "attraction"
-pubDate: "2026-10-21T13:29:41.227Z"
+title: 'Vieux-Port de Montréal: Montreal Travel Guide (4.7★)'
+description: >-
+  Vieux-Port de Montréal is the riverfront strip along Rue de la Commune in Old
+  Montreal, about 2 km of quays, promenades and attractions on the St. Lawrence.
+  4.7★ (53,366 reviews) — what visitors say, hours, and tips.
+country: Canada
+region: Montreal
+category: attraction
+pubDate: '2026-10-21T13:29:41.227Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/7/70/Montreal_Old_port.jpg"
-  credit: "Photo: Krestavilis at English Wikipedia / Wikimedia Commons (Public domain)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Montreal_Old_port.jpg"
+  url: 'https://upload.wikimedia.org/wikipedia/commons/7/70/Montreal_Old_port.jpg'
+  credit: 'Photo: Krestavilis at English Wikipedia / Wikimedia Commons (Public domain)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Montreal_Old_port.jpg'
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/a/aa/Vieux-Port_Montreal_Patinoire.JPG"
-    credit: "Photo: Jean Gagnon / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Vieux-Port_Montreal_Patinoire.JPG"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/a/aa/Vieux-Port_Montreal_Patinoire.JPG
+    credit: 'Photo: Jean Gagnon / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Vieux-Port_Montreal_Patinoire.JPG'
 place:
-  id: "ChIJKSezr_gayUwRDnKQVi-nC4U"
-  name: "Vieux-Port de Montréal"
-  address: "333 Rue de la Commune O, Montréal, QC H2Y 2E2, Canada"
+  id: ChIJKSezr_gayUwRDnKQVi-nC4U
+  name: Vieux-Port de Montréal
+  address: '333 Rue de la Commune O, Montréal, QC H2Y 2E2, Canada'
   rating: 4.7
-  userRatingsTotal: 53364
-  googleMapsUrl: "https://maps.google.com/?cid=9586940053545841166&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 53366
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9586940053545841166&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 45.5124578
   lng: -73.5484867
-  phone: "+1 514-496-7678"
+  phone: +1 514-496-7678
   openingHours:
-    - "Monday: 6:00 AM – 12:00 AM"
-    - "Tuesday: 6:00 AM – 12:00 AM"
-    - "Wednesday: 6:00 AM – 12:00 AM"
-    - "Thursday: 6:00 AM – 12:00 AM"
-    - "Friday: 6:00 AM – 12:00 AM"
-    - "Saturday: 6:00 AM – 12:00 AM"
-    - "Sunday: 6:00 AM – 12:00 AM"
+    - 'Monday: 6:00 AM – 12:00 AM'
+    - 'Tuesday: 6:00 AM – 12:00 AM'
+    - 'Wednesday: 6:00 AM – 12:00 AM'
+    - 'Thursday: 6:00 AM – 12:00 AM'
+    - 'Friday: 6:00 AM – 12:00 AM'
+    - 'Saturday: 6:00 AM – 12:00 AM'
+    - 'Sunday: 6:00 AM – 12:00 AM'
   busyness:
-    updated: 2026-10-21
+    updated: 2026-10-21T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -57,24 +62,43 @@ place:
       - 19
       - 20
       - 21
-    venueId: "ven_5534436e2d6956514b6e445277557961675f727a65534b4a496843"
+    venueId: ven_5534436e2d6956514b6e445277557961675f727a65534b4a496843
 tags:
-  - "montreal"
-  - "top attraction"
-quickAnswer: "Vieux-Port de Montréal is the riverfront strip along Rue de la Commune in Old Montreal, about 2 km of quays, promenades and attractions on the St. Lawrence. It's calmest from 7am–9am every day, and on weekdays from 10pm–11pm. Avoid weekends from 12pm–10pm, when the crowds are at their worst. Take the Orange Line to Champ-de-Mars or Place-d'Armes and walk downhill to the water."
+  - montreal
+  - top attraction
+quickAnswer: >-
+  Vieux-Port de Montréal is the riverfront strip along Rue de la Commune in Old
+  Montreal, about 2 km of quays, promenades and attractions on the St. Lawrence.
+  It's calmest from 7am–9am every day, and on weekdays from 10pm–11pm. Avoid
+  weekends from 12pm–10pm, when the crowds are at their worst. Take the Orange
+  Line to Champ-de-Mars or Place-d'Armes and walk downhill to the water.
 faq:
-  - q: "When is the quietest time to visit the Vieux-Port de Montréal?"
-    a: "Every day, 7am–9am is the calmest window. On weekdays, 10pm–11pm is quiet too. Avoid weekends from 12pm–10pm, which is the busiest stretch."
-  - q: "Which Metro station is closest to the Old Port?"
-    a: "Champ-de-Mars (Orange Line) is best for the east end and the Clock Tower. Place-d'Armes suits the central quays, and Square-Victoria–OACI is closest to the western end. All three are a short walk downhill."
-  - q: "How long should I spend at the Old Port?"
-    a: "Walking the roughly 2 km waterfront takes about 45 minutes. Allow a half day if you're adding the Clock Tower, the Ferris wheel or the Science Centre, and longer if you're pairing it with Old Montreal."
-  - q: "Can you swim at Clock Tower Beach?"
-    a: "No. Clock Tower Beach is an urban beach for lounging in the sand and under the parasols. Swimming in the river isn't part of it."
-  - q: "What is there to see near the Vieux-Port?"
-    a: "Notre-Dame Basilica, Place Jacques-Cartier, Marché Bonsecours and the Pointe-à-Callière museum are all within a few minutes' walk. The Lachine Canal path starts at the port's western end."
+  - q: When is the quietest time to visit the Vieux-Port de Montréal?
+    a: >-
+      Every day, 7am–9am is the calmest window. On weekdays, 10pm–11pm is quiet
+      too. Avoid weekends from 12pm–10pm, which is the busiest stretch.
+  - q: Which Metro station is closest to the Old Port?
+    a: >-
+      Champ-de-Mars (Orange Line) is best for the east end and the Clock Tower.
+      Place-d'Armes suits the central quays, and Square-Victoria–OACI is closest
+      to the western end. All three are a short walk downhill.
+  - q: How long should I spend at the Old Port?
+    a: >-
+      Walking the roughly 2 km waterfront takes about 45 minutes. Allow a half
+      day if you're adding the Clock Tower, the Ferris wheel or the Science
+      Centre, and longer if you're pairing it with Old Montreal.
+  - q: Can you swim at Clock Tower Beach?
+    a: >-
+      No. Clock Tower Beach is an urban beach for lounging in the sand and under
+      the parasols. Swimming in the river isn't part of it.
+  - q: What is there to see near the Vieux-Port?
+    a: >-
+      Notre-Dame Basilica, Place Jacques-Cartier, Marché Bonsecours and the
+      Pointe-à-Callière museum are all within a few minutes' walk. The Lachine
+      Canal path starts at the port's western end.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-21'
 ---
 
 ## Where the city meets the river

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: niagara-falls-table-rock-welcome-centre
-srcHash: 'ff0f60b6d170'
+srcHash: '193314eea248'
 title: 'Table Rock Welcome Centre: guía de viaje de las cataratas del Niágara (4.6★)'
 description: Al borde mismo de las cataratas Horseshoe, en la Niagara River Parkway de Niagara Falls (Ontario), se encuentra el Table Rock Welcome Centre. Con una valoración de 4.6★ en 2,539 reseñas, aquí encontrará las opiniones de los visitantes, los horarios y consejos útiles.
 quickAnswer: En la Niagara River Parkway de Niagara Falls (Ontario), justo al borde de las cataratas Horseshoe, se alza el Table Rock Welcome Centre. En tierra firme no hay otro lugar desde el que pueda acercarse más a las cataratas, y la atracción Journey Behind the Falls comienza dentro del propio edificio. Según Google, el recinto permanece abierto las 24 horas, aunque las tiendas y atracciones tienen horarios propios que varían según la temporada.

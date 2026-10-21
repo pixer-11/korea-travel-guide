@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: montreal-notre-dame-basilica-of-montreal
-srcHash: '24f4cbadfe52'
+srcHash: 'fcdcaadfbc19'
 title: 'Basílica de Notre-Dame de Montreal: guía de viaje (4.7★)'
-description: En pleno Viejo Montreal, la Basílica de Notre-Dame preside la Place d'Armes, a dos minutos a pie de la estación de metro Place-d'Armes, en la Línea Naranja. Con 4.7★ (40,494 reseñas), reunimos aquí las opiniones de los visitantes, los horarios y algunos consejos prácticos.
+description: En pleno Viejo Montreal, la Basílica de Notre-Dame preside la Place d'Armes, a dos minutos a pie de la estación de metro Place-d'Armes, en la Línea Naranja. Con 4.7★ (40,499 reseñas), reunimos aquí las opiniones de los visitantes, los horarios y algunos consejos prácticos.
 quickAnswer: En pleno Viejo Montreal, la Basílica de Notre-Dame preside la Place d'Armes, a dos minutos a pie de la estación de metro Place-d'Armes, en la Línea Naranja. La franja más tranquila va de 9am a 10am, tanto entre semana como los sábados. Conviene evitar las tardes del fin de semana, de 12pm a 4pm. Para recorrer el interior, calcule entre 45 y 60 minutos. Actualmente abre de lunes a sábado de 9am–4pm, y el domingo de 12:30–4pm.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar la Basílica de Notre-Dame de Montreal?

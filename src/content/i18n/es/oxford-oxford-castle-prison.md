@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: oxford-oxford-castle-prison
-srcHash: '275ecc5abc17'
+srcHash: 'b3ae8834b324'
 title: 'Prisión del Castillo de Oxford (Oxford Castle Prison): guía de viaje (4.4★)'
-description: 'En pleno centro de Oxford, sobre New Road y a unos 10 minutos a pie de la estación de tren, se encuentra la Prisión del Castillo de Oxford. La visita se hace con guías disfrazados que recorren la torre sajona, la cripta de 900 años y el antiguo pabellón penitenciario. 4.4★ (7,658 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En pleno centro de Oxford, sobre New Road y a unos 10 minutos a pie de la estación de tren, se encuentra la Prisión del Castillo de Oxford. La visita se hace con guías disfrazados que recorren la torre sajona, la cripta de 900 años y el antiguo pabellón penitenciario. 4.4★ (7,660 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En pleno centro de Oxford, sobre New Road y a unos 10 minutos a pie de la estación de tren, se encuentra la Prisión del Castillo de Oxford. Solo se visita con guías disfrazados, que acompañan al grupo por la torre sajona, la cripta de 900 años y el antiguo pabellón penitenciario. Actualmente abre de 10am–5:30pm, aunque el horario varía a lo largo del año, de modo que conviene consultar la web oficial y reservar con antelación. Si además piensa subir al montículo del castillo, calcule unas dos horas.
 faq:
   - q: ¿Cómo se llega a la Prisión del Castillo de Oxford desde la estación de tren?
