@@ -2,7 +2,7 @@
  "_note": "Per-topic search→post yield, written by scripts/generate.mjs (scripts/lib/topic-yield.mjs). Seeded 2026-08-23 from the 08-17..23 publish/bulk logs; counts halve past 200 so recent runs weigh more.",
  "topics": {
   "local restaurant": {
-   "attempts": 133,
+   "attempts": 136,
    "hits": 15
   },
   "historic site": {
@@ -62,11 +62,11 @@
    "hits": 5
   },
   "trendy cafe": {
-   "attempts": 140,
-   "hits": 11
+   "attempts": 142,
+   "hits": 12
   },
   "street food": {
-   "attempts": 116,
+   "attempts": 122,
    "hits": 18
   },
   "bakery": {
@@ -86,8 +86,8 @@
    "hits": 0
   },
   "top attraction": {
-   "attempts": 127,
-   "hits": 92
+   "attempts": 141,
+   "hits": 105
   },
   "grill": {
    "attempts": 56,
@@ -700,7 +700,83 @@
   "Auckland War Memorial Museum": {
    "attempts": 1,
    "hits": 1
+  },
+  "Whakarewarewa Redwoods Forest": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Skyline Rotorua": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Skyline Queenstown": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Christchurch Botanic Gardens": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Kuirau Park": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Maligne Canyon": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Craters of the Moon": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "That Wanaka Tree": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Polynesian Spa": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "CN Tower": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Horseshoe Falls": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Notre-Dame Basilica of Montreal": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Château Frontenac": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Mount John Observatory": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Lake Louise Lakeshore": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Peak 2 Peak Gondola": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Wellington Cable Car": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Stanley Park": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Royal BC Museum": {
+   "attempts": 1,
+   "hits": 1
   }
  },
- "updated": "2026-10-21T08:00:02.350Z"
+ "updated": "2026-10-21T13:29:32.684Z"
 }

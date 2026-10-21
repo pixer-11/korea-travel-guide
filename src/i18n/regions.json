@@ -13063,5 +13063,356 @@
       "getting": "大多数旅客通过惠灵顿国际机场（WLG）抵达，机场距市中心约8公里，机场快线巴士（Airport Express）可直达惠灵顿火车站及市区各主要站点，车程约25到40分钟。火车站本身是Metlink区域铁路线及长途列车的南端终点站，是惠灵顿市区通往外地的巴士与火车换乘枢纽。",
       "days": "建议安排约2到3天时间游览海滨、蒂帕帕国家博物馆（Te Papa）、缆车及周边山丘住宅区；如果打算以惠灵顿为据点，前往周边地区一日游，则需要预留更多时间。"
     }
+  },
+  "Banff": {
+    "en": {
+      "blurb": "Banff sits inside Canada's oldest national park, ringed by glacier-fed peaks, turquoise lakes and the hot springs that first drew visitors here. It remains a compact mountain town, easy to explore on foot, yet surrounded by some of the most dramatic wilderness scenery in the Rockies.",
+      "getting": "Banff has no airport of its own; travellers fly into Calgary International Airport (YYC), the nearest major gateway, then continue by shuttle, coach or rental car on a scenic drive of ~90 minutes. There is no practical train service between Calgary and Banff, so buses and shuttles from the regional hub are the standard route in.",
+      "days": "Plan on 2 to 4 days to cover the townsite, the gondola and hot springs, plus a side trip to Lake Louise or Moraine Lake."
+    },
+    "ko": {
+      "blurb": "밴프는 캐나다에서 가장 오래된 국립공원 안에 자리 잡고 있으며, 빙하가 빚어낸 봉우리들과 에메랄드빛 호수, 그리고 처음 이곳으로 사람들을 끌어들인 온천으로 둘러싸여 있습니다. 걸어서도 충분히 둘러볼 수 있는 아담한 산악 마을이지만, 로키산맥에서도 손꼽히는 웅장한 자연 경관이 사방을 감싸고 있습니다.",
+      "getting": "밴프에는 자체 공항이 없어, 여행객들은 가장 가까운 주요 관문인 캘거리 국제공항(YYC)으로 입국한 뒤 셔틀버스, 고속버스 또는 렌터카로 약 90분간 경치 좋은 길을 달려 이동합니다. 캘거리와 밴프를 잇는 실용적인 기차편은 없기 때문에, 이 지역 관문에서 버스나 셔틀을 이용하는 것이 일반적인 이동 방법입니다.",
+      "days": "타운사이트와 곤돌라, 온천을 둘러보고 레이크 루이스나 모레인 호수까지 다녀오려면 2~4일 정도 일정을 잡는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "バンフは、カナダ最古の国立公園の中に位置し、氷河から流れ出る山々、ターコイズブルーの湖、そして訪れる人々を昔から惹きつけてきた温泉に囲まれています。徒歩で気軽に歩き回れるこぢんまりとした山岳の町でありながら、ロッキー山脈屈指の壮大な大自然に抱かれているのが魅力です。",
+      "getting": "バンフには空港がないため、まずは最寄りの主要空の玄関口であるカルガリー国際空港(YYC)へ飛び、そこからシャトルバス、長距離バス、またはレンタカーで約90分の景色の美しいドライブを経て向かうことになります。カルガリーとバンフを結ぶ実用的な鉄道路線はないため、この地域の拠点からバスやシャトルを利用するのが一般的なアクセス方法です。",
+      "days": "タウンサイトの散策、ゴンドラ、温泉を楽しむほか、レイク・ルイーズやモレーン湖への小旅行も含めると、2〜4日ほど見ておくとよいでしょう。"
+    },
+    "es": {
+      "blurb": "Banff se encuentra dentro del parque nacional más antiguo de Canadá, rodeado de picos alimentados por glaciares, lagos turquesa y los manantiales termales que atrajeron a los primeros visitantes. Sigue siendo un pueblo de montaña compacto, fácil de recorrer a pie, pero rodeado de uno de los paisajes salvajes más espectaculares de las Rocosas.",
+      "getting": "Banff no cuenta con aeropuerto propio; los viajeros llegan al Aeropuerto Internacional de Calgary (YYC), la puerta de entrada principal más cercana, y luego continúan en shuttle, autobús o auto de alquiler por un trayecto panorámico de unos 90 minutos. No existe un servicio de tren práctico entre Calgary y Banff, por lo que los autobuses y shuttles desde este centro regional son la vía habitual para llegar.",
+      "days": "Conviene reservar entre 2 y 4 días para recorrer el pueblo, subir en la góndola y disfrutar de los manantiales termales, además de hacer una excursión a Lake Louise o Moraine Lake."
+    },
+    "zh": {
+      "blurb": "班夫坐落在加拿大历史最悠久的国家公园之中，四周environs被冰川雪峰、碧绿如玉的湖泊，以及最初吸引游人至此的温泉所环绕。小镇规模紧凑，徒步即可轻松游览，却被落基山脉中最壮丽的荒野景观重重包围。",
+      "getting": "班夫本身没有机场，游客通常先飞抵最近的主要门户——卡尔加里国际机场（YYC），再转乘班车、长途巴士或租车，沿风景优美的公路行驶约90分钟抵达。由于卡尔加里与班夫之间没有实用的火车服务，从这个区域枢纽乘坐巴士或班车前往，是最常见、最便捷的方式。",
+      "days": "建议安排2到4天时间，游览班夫小镇、缆车观景台和温泉，并不妨安排一次前往露易丝湖或梦莲湖的短途旅行。"
+    }
+  },
+  "Calgary": {
+    "en": {
+      "blurb": "Calgary is Canada's gateway to the Rockies, a modern prairie city where downtown skyscrapers give way within an hour's drive to the peaks of Banff National Park. It's best known for the Calgary Stampede, the city's famous rodeo and western heritage festival held every July.",
+      "getting": "Most travellers arrive via Calgary International Airport (YYC), located about 17km northeast of downtown. There's no direct rail link to the airport; the standard route into the city centre is by public bus (Route 300 BRT), which takes roughly 30-55 minutes depending on traffic.",
+      "days": "Plan on ~2-3 days to cover downtown, the Stampede grounds and the city's museums, or add an extra day or two if bookending a trip into the Canadian Rockies."
+    },
+    "ko": {
+      "blurb": "캘거리는 캐나다에서 로키산맥으로 가는 관문 도시로, 다운타운의 고층 빌딩에서 차로 한 시간만 가면 밴프 국립공원의 봉우리들이 펼쳐지는 현대적인 평원 도시다. 매년 7월에 열리는 로데오 겸 서부 개척 문화 축제인 캘거리 스탬피드로 가장 잘 알려져 있다.",
+      "getting": "대부분의 여행객은 다운타운에서 북동쪽으로 약 17km 떨어진 캘거리 국제공항(YYC)을 통해 입국한다. 공항과 시내를 잇는 직통 철도는 없으며, 시내로 이동하는 가장 일반적인 방법은 급행버스(300번 BRT) 노선으로, 교통 상황에 따라 대략 30~55분 정도 소요된다.",
+      "days": "다운타운과 스탬피드 그라운드, 시내 박물관들을 둘러보는 데는 약 2~3일이면 충분하며, 캐나다 로키산맥 여행을 앞뒤로 연결할 계획이라면 하루나 이틀 정도 더 여유를 두는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "カルガリーはカナディアン・ロッキーへの玄関口として知られる、カナダのプレーリーに広がる近代都市です。ダウンタウンの高層ビル群から車でわずか1時間ほど走れば、バンフ国立公園の雄大な山々が広がる景色へと一変します。毎年7月に開催される伝統のロデオ&西部開拓時代の祭典「カルガリー・スタンピード」で特に有名な街です。",
+      "getting": "多くの旅行者はカルガリー国際空港（YYC）を利用します。空港はダウンタウンから北東へ約17kmの場所にあります。空港と市街地を結ぶ鉄道はなく、市内への移動は路線バス（300番BRT）が一般的で、交通状況により所要時間は30～55分ほどです。",
+      "days": "ダウンタウン観光、スタンピード会場、市内の博物館巡りには2～3日ほど見ておくとよいでしょう。カナディアン・ロッキーへの旅の前後に立ち寄る場合は、さらに1～2日プラスするのがおすすめです。"
+    },
+    "es": {
+      "blurb": "Calgary es la puerta de entrada de Canadá a las Rocosas, una ciudad moderna de las praderas donde los rascacielos del centro dan paso, a solo una hora en coche, a las cumbres del Parque Nacional Banff. Es conocida sobre todo por el Calgary Stampede, el famoso rodeo y festival de herencia vaquera de la ciudad que se celebra cada julio.",
+      "getting": "La mayoría de los viajeros llega a través del Aeropuerto Internacional de Calgary (YYC), ubicado a unos 17 km al noreste del centro. No hay conexión ferroviaria directa con el aeropuerto; la forma habitual de llegar al centro de la ciudad es en autobús público (Ruta 300 BRT), que tarda entre 30 y 55 minutos aproximadamente, según el tráfico.",
+      "days": "Calcula entre 2 y 3 días para recorrer el centro, el recinto del Stampede y los museos de la ciudad, o suma uno o dos días más si vas a combinar la visita con una escapada a las Rocosas canadienses."
+    },
+    "zh": {
+      "blurb": "卡尔加里是加拿大通往落基山脉的门户，这座现代化的草原城市只需驱车一小时，市中心林立的摩天大楼便能过渡到班夫国家公园的巍峨群峰。它最广为人知的，是每年七月举办的卡尔加里牛仔节——这座城市著名的牛仔竞技与西部文化盛会。",
+      "getting": "大多数游客通过卡尔加里国际机场（YYC）抵达，机场位于市中心东北约17公里处。机场没有直达市区的轻轨，前往市中心的标准方式是乘坐公共巴士（300路快速公交BRT），车程根据路况大约需要30至55分钟。",
+      "days": "游览市中心、牛仔节场地及各大博物馆，建议安排2-3天时间；如果把卡尔加里作为前往加拿大落基山脉旅程的起点或终点，可以再多留一两天。"
+    }
+  },
+  "Churchill": {
+    "en": {
+      "blurb": "Churchill sits on the shores of Hudson Bay in northern Manitoba, earning its reputation as the \"Polar Bear Capital of the World\" when hundreds of bears gather near town each autumn. Beyond the bears, the subarctic outpost draws travellers for beluga whale pods in summer and some of the most reliable northern lights viewing in North America.",
+      "getting": "There are no roads into Churchill, so travellers arrive by air or rail: Calm Air flies from Winnipeg (YWG) to Churchill Airport (YYQ) in about ~2 hours, while VIA Rail's Hudson Bay train makes the journey from Winnipeg roughly twice a week, taking ~44 to 48 hours each way.",
+      "days": "Most visitors plan for ~5 to 7 days, enough time to cover one of the main wildlife seasons (polar bears in autumn, belugas in summer, or aurora in winter) along with the long travel time to and from this remote outpost."
+    },
+    "ko": {
+      "blurb": "처칠은 매니토바 북부, 허드슨만 연안에 자리한 마을로, 가을마다 수백 마리의 북극곰이 마을 근처로 모여들면서 \"세계 북극곰의 수도\"라는 명성을 얻었습니다. 북극곰 외에도 이 아북극 지역은 여름철 벨루가 고래 떼와 북미에서 손꼽히는 안정적인 오로라 관측지로도 여행객들의 발길을 끌어모읍니다.",
+      "getting": "처칠로 이어지는 도로는 없어서, 여행객들은 비행기나 기차로 이동해야 합니다. 캄 에어(Calm Air)는 위니펙(YWG)에서 처칠 공항(YYQ)까지 약 2시간 만에 운항하며, VIA 레일의 허드슨 베이 열차는 위니펙에서 주 2회가량 운행되며 편도로 약 44~48시간이 소요됩니다.",
+      "days": "대부분의 방문객은 약 5~7일 일정을 계획하는데, 이는 주요 야생동물 시즌(가을의 북극곰, 여름의 벨루가, 겨울의 오로라) 중 하나를 제대로 즐기면서 이 외딴 지역까지 오가는 긴 이동 시간도 함께 고려한 기간입니다."
+    },
+    "ja": {
+      "blurb": "チャーチルはマニトバ州北部、ハドソン湾のほとりに位置する町で、毎秋何百頭ものホッキョクグマが町の近くに集まることから「世界のホッキョクグマの首都」として知られています。クマだけでなく、夏にはシロイルカの群れが見られ、北米屈指の確率でオーロラが観測できることでも、この亜北極圏の小さな拠点は旅行者を惹きつけています。",
+      "getting": "チャーチルへ通じる道路はなく、旅行者は空路か鉄道で訪れることになります。カーム・エア(Calm Air)はウィニペグ(YWG)からチャーチル空港(YYQ)まで約2時間のフライトを運航しており、一方VIA鉄道のハドソンベイ号はウィニペグから週2回ほど運行、片道約44~48時間かけて北の大地を走ります。",
+      "days": "多くの旅行者は5~7日程度の日程を組みます。これは、ホッキョクグマ(秋)、シロイルカ(夏)、オーロラ(冬)といった主要な野生動物・自然現象のシーズンのいずれかをじっくり楽しみつつ、この辺境の地までの長い移動時間も考慮した日数です。"
+    },
+    "es": {
+      "blurb": "Churchill se asienta a orillas de la bahía de Hudson, en el norte de Manitoba, y se ha ganado su fama como la \"Capital Mundial del Oso Polar\" cuando, cada otoño, cientos de osos se congregan cerca del pueblo. Más allá de los osos, este remoto enclave subártico atrae a los viajeros por sus manadas de belugas en verano y por ofrecer una de las zonas más confiables de Norteamérica para observar la aurora boreal.",
+      "getting": "A Churchill no llegan carreteras, así que los viajeros deben optar por el avión o el tren: Calm Air vuela desde Winnipeg (YWG) hasta el aeropuerto de Churchill (YYQ) en alrededor de 2 horas, mientras que el tren Hudson Bay de VIA Rail hace el trayecto desde Winnipeg más o menos dos veces por semana, con una duración de entre 44 y 48 horas en cada sentido.",
+      "days": "La mayoría de los visitantes planean quedarse entre 5 y 7 días, tiempo suficiente para disfrutar de una de las principales temporadas de vida silvestre (osos polares en otoño, belugas en verano o auroras boreales en invierno), sumado al largo trayecto de ida y vuelta hasta este remoto destino."
+    },
+    "zh": {
+      "blurb": "丘吉尔镇坐落在马尼托巴省北部哈德逊湾的岸边,每年秋天都会有数百头北极熊聚集到镇子附近,因此这里赢得了\"世界北极熊之都\"的美誉。除了北极熊之外,这个亚北极小镇还以夏季成群结队的白鲸,以及北美最稳定可靠的极光观赏体验而闻名,吸引着世界各地的旅行者前来。",
+      "getting": "丘吉尔没有公路可以到达,游客只能选择乘飞机或火车前往:加尔航空(Calm Air)有从温尼伯(YWG)飞往丘吉尔机场(YYQ)的航班,飞行时间约2小时;而VIA铁路的哈德逊湾号(Hudson Bay)列车每周大约发车两次,从温尼伯出发单程需要44到48小时左右。",
+      "days": "大多数游客会安排约5到7天的行程,这样既能赶上主要的野生动物观赏季节之一(秋季的北极熊、夏季的白鲸,或冬季的极光),也能应对往返这个偏远小镇所需的较长旅途时间。"
+    }
+  },
+  "Jasper": {
+    "en": {
+      "blurb": "Jasper is the wild, less-crowded counterpart to Banff: a mountain town inside Canada's largest Rocky Mountain national park, where grizzly bears, elk and mountain caribou roam a landscape of glaciers and turquoise lakes. It also sits within the world's second-largest dark sky preserve, so clear nights here reveal a sky largely untouched by artificial light.",
+      "getting": "Most travellers fly into Edmonton International Airport (YEG), the nearest major hub, then continue by road or rail; the drive to Jasper takes roughly four hours via Highway 16. VIA Rail also runs train service to Jasper's own station, with routes connecting to Edmonton and Vancouver, offering a scenic alternative to driving.",
+      "days": "Allow at least 3 to 5 days: roughly two for travel to and from the park and three to properly see highlights like the Columbia Icefield, Maligne Lake and the townsite's stargazing spots."
+    },
+    "ko": {
+      "blurb": "재스퍼는 밴프보다 사람이 적고 더 야생적인 매력을 지닌 곳으로, 캐나다 최대 규모의 로키산맥 국립공원 안에 자리한 산악 마을입니다. 이곳에서는 회색곰과 엘크, 산악 순록이 빙하와 터키석빛 호수가 펼쳐진 대자연 속을 자유로이 누빕니다. 또한 세계에서 두 번째로 큰 다크 스카이 보호구역 안에 위치해 있어, 맑은 밤이면 인공조명에 거의 오염되지 않은 순수한 밤하늘을 만날 수 있습니다.",
+      "getting": "대부분의 여행자는 가장 가까운 주요 관문인 에드먼턴 국제공항(YEG)으로 입국한 뒤, 차량이나 기차로 이동합니다. 재스퍼까지는 16번 고속도로를 이용해 자동차로 약 4시간이 소요됩니다. VIA 철도에서도 재스퍼역까지 열차를 운행하며, 에드먼턴 및 밴쿠버와 연결되는 노선을 통해 운전 대신 경치를 즐기며 이동할 수 있는 대안을 제공합니다.",
+      "days": "최소 3~5일은 일정을 잡는 것이 좋습니다. 공원까지 오가는 이동에 약 이틀, 그리고 컬럼비아 대빙원과 말린 호수, 시내의 별 관측 명소 등 주요 명소를 제대로 둘러보는 데 사흘 정도가 필요합니다."
+    },
+    "ja": {
+      "blurb": "ジャスパーは、バンフに並ぶ人気を誇りながらも、より野性味あふれる穴場的存在だ。カナダ最大のロッキー山脈国立公園内に広がるこの山岳の町では、グリズリーベアやエルク、山岳カリブーが、氷河とターコイズブルーの湖が織りなす大自然の中を悠々と歩き回る。さらにここは世界第2位の規模を誇る「星空保護区」にも指定されており、晴れた夜には人工の光にほとんど邪魔されない満天の星空を楽しむことができる。",
+      "getting": "多くの旅行者は、最寄りの主要空港であるエドモントン国際空港（YEG）を利用し、そこから車や鉄道でジャスパーへ向かう。ハイウェイ16号線を使えば、車でおよそ4時間の道のりだ。VIA鉄道もジャスパー駅まで運行しており、エドモントンやバンクーバーと結ぶ路線は、ドライブとはひと味違う絶景を楽しめる移動手段としておすすめだ。",
+      "days": "滞在日数は最低でも3～5日を見ておきたい。公園までの往復の移動だけでおよそ2日かかり、コロンビア大氷原やマリーン湖、町なかの星空観賞スポットなど見どころをじっくり堪能するには、さらに3日ほど必要になる。"
+    },
+    "es": {
+      "blurb": "Jasper es la cara más salvaje y menos concurrida de Banff: un pueblo de montaña ubicado dentro del parque nacional más grande de las Montañas Rocosas de Canadá, donde osos grizzly, alces y caribúes de montaña recorren un paisaje de glaciares y lagos turquesa. Además, se encuentra dentro de la segunda reserva de cielo oscuro más grande del mundo, por lo que en las noches despejadas se revela un cielo prácticamente libre de contaminación lumínica.",
+      "getting": "La mayoría de los viajeros llega al Aeropuerto Internacional de Edmonton (YEG), el principal centro de conexiones más cercano, y luego continúa por carretera o en tren; el trayecto en auto hasta Jasper toma alrededor de cuatro horas por la autopista 16. VIA Rail también ofrece servicio de tren hasta la propia estación de Jasper, con rutas que conectan con Edmonton y Vancouver, una alternativa panorámica a conducir.",
+      "days": "Conviene reservar entre 3 y 5 días como mínimo: unos dos para el traslado de ida y vuelta al parque, y tres para recorrer con calma los puntos destacados, como el Campo de Hielo Columbia, el lago Maligne y los sitios para observar las estrellas en el pueblo."
+    },
+    "zh": {
+      "blurb": "贾斯珀是班夫的\"狂野版\"姊妹城镇,人气不及后者,却同样迷人。它坐落在加拿大落基山脉最大的国家公园内,灰熊、麋鹿和山地驯鹿自由游荡在冰川与碧绿湖泊交织的壮阔景色中。这里还位于全球第二大暗夜保护区范围内,晴朗的夜晚,一片几乎不受人工光害影响的璀璨星空将在你眼前展开。",
+      "getting": "大多数游客会先飞抵最近的主要枢纽——埃德蒙顿国际机场(YEG),再转乘公路或铁路前往贾斯珀;沿16号公路驾车大约需要四小时。加拿大维亚铁路(VIA Rail)也设有直达贾斯珀车站的列车,连接埃德蒙顿和温哥华,是驾车之外一种风景更为怡人的选择。",
+      "days": "建议至少安排3到5天行程:往返公园的路程大约需要两天,再留出三天时间,才能从容领略哥伦比亚冰原、马琳湖以及镇上绝佳的观星地点等精华景点。"
+    }
+  },
+  "Lake Louise": {
+    "en": {
+      "blurb": "Lake Louise is a glacier fed, turquoise lake cradled by jagged peaks and the Victoria Glacier in Banff National Park, and the small village beside it is Canada's highest permanent settlement. It's as famous for its postcard colour as for the wild, snowbound stillness of the Rockies that surround it.",
+      "getting": "Most travellers fly into Calgary International Airport (YYC), the nearest major airport, then continue by rental car, shuttle or bus along the Trans-Canada Highway, a scenic drive of roughly ~2 hours. Regional bus and shuttle services also run from Calgary and Banff for those without a car.",
+      "days": "Allow at least ~2-3 days to take in the lakeshore, a hike into the surrounding alpine trails, and a side trip to nearby Moraine Lake."
+    },
+    "ko": {
+      "blurb": "레이크 루이스는 밴프 국립공원 내, 험준한 봉우리들과 빅토리아 빙하에 둘러싸인 빙하 호수로, 신비로운 터콰이즈 빛깔로 유명합니다. 호숫가에 자리한 작은 마을은 캐나다에서 가장 높은 고도에 위치한 상주 정착지이기도 합니다. 엽서에서나 볼 법한 호수의 색감만큼이나, 로키산맥 특유의 거칠고 눈 덮인 고요함으로도 많은 이들의 마음을 사로잡는 곳입니다.",
+      "getting": "대부분의 여행자는 가장 가까운 주요 공항인 캘거리 국제공항(YYC)으로 입국한 뒤, 렌터카나 셔틀, 버스를 이용해 트랜스캐나다 하이웨이를 따라 약 2시간가량 이동합니다. 멋진 풍경을 감상할 수 있는 드라이브 코스이기도 합니다. 자가용이 없는 여행자를 위해 캘거리와 밴프에서 출발하는 지역 버스 및 셔틀 서비스도 운영되고 있습니다.",
+      "days": "호숫가를 둘러보고, 주변 고산 트레일을 하이킹하며, 인근 모레인 호수까지 다녀오려면 최소 2~3일 정도는 일정을 잡는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "レイクルイーズは、ビクトリア氷河から流れ込む雪解け水が作り出すターコイズブルーの湖で、バンフ国立公園内のギザギザとした山々に抱かれるように広がっている。そのほとりに佇む小さな村は、カナダで最も標高の高い常住集落だ。絵はがきそのままの美しい湖の色彩はもちろん、周囲を取り囲むロッキー山脈の雪に閉ざされた静寂もまた、この地を特別な場所にしている。",
+      "getting": "多くの旅行者は、最寄りの主要空港であるカルガリー国際空港（YYC）まで飛行機で向かい、その後レンタカー、シャトルバス、または路線バスでトランスカナダハイウェイを進む。景色を楽しみながらのドライブで所要時間は約2時間ほどだ。車を持たない旅行者のために、カルガリーやバンフからは地域バスやシャトルサービスも運行している。",
+      "days": "湖畔の散策、周辺のアルパイントレイルでのハイキング、そして近郊のモレーン湖への小旅行を楽しむには、少なくとも2〜3日は見ておきたい。"
+    },
+    "es": {
+      "blurb": "Lake Louise es un lago de color turquesa alimentado por glaciares, enmarcado por picos escarpados y el Glaciar Victoria en el Parque Nacional Banff, y el pequeño pueblo que lo bordea es el asentamiento permanente más alto de Canadá. Es tan famoso por su color de postal como por la quietud salvaje y nevada de las Rocosas que lo rodean.",
+      "getting": "La mayoría de los viajeros llegan al Aeropuerto Internacional de Calgary (YYC), el aeropuerto principal más cercano, y continúan en auto de alquiler, shuttle o autobús por la Carretera Transcanadiense, un trayecto panorámico de aproximadamente ~2 horas. También hay servicios regionales de autobús y shuttle desde Calgary y Banff para quienes no tienen auto.",
+      "days": "Se recomienda destinar al menos ~2-3 días para disfrutar de la orilla del lago, hacer una caminata por los senderos alpinos de los alrededores y realizar una excursión al cercano Lake Moraine."
+    },
+    "zh": {
+      "blurb": "露易丝湖是班夫国家公园内一片由冰川融水汇聚而成的湖泊,湖水呈梦幻般的绿松石色,四周群峰嶙峋,维多利亚冰川静卧其间。湖畔的小镇则是加拿大海拔最高的常住聚落。这里既以明信片般的绝美湖色闻名,也因周围落基山脉那被积雪覆盖、荒野般的静谧而令人难忘。",
+      "getting": "大多数游客会先飞抵最近的主要机场——卡尔加里国际机场(YYC),再租车、搭乘班车或长途巴士,沿加拿大横贯公路(Trans-Canada Highway)前行,车程约2小时,沿途风光极美。对于没有自备车辆的旅行者,从卡尔加里和班夫也有区域巴士及班车服务可供选择。",
+      "days": "建议至少安排2到3天时间,既可以漫步湖畔,也能徒步探索周边的高山步道,还可以顺道前往附近的梦莲湖(Moraine Lake)一游。"
+    }
+  },
+  "Montreal": {
+    "en": {
+      "blurb": "Montreal layers French and North American culture into one city: cobblestoned Old Montreal and its 17th century stone churches sit a short walk from a modern downtown, while a year round calendar of festivals, from jazz to comedy, fills the streets with music and crowds. The city's bilingual signage, underground pedestrian network and distinct boroughs each give it a different personality depending on which neighbourhood you wander into.",
+      "getting": "Most travellers arrive via Montreal-Pierre Elliott Trudeau International Airport (YUL), located in Dorval about 20km southwest of downtown. The STM 747 bus is the reliable round the clock link into the city centre, taking roughly 45 to 70 minutes depending on traffic and stops; a rail link (the REM) is under construction but not yet open to the airport.",
+      "days": "Plan on ~3 to 4 days to cover Old Montreal, downtown and a couple of distinct neighbourhoods such as the Plateau or Mile End, with an extra day or two if you want to add a festival or a day trip beyond the city."
+    },
+    "ko": {
+      "blurb": "몬트리올은 프랑스 문화와 북미 문화가 한 도시 안에 겹겹이 쌓여 있는 곳이다. 자갈길이 깔린 올드 몬트리올과 17세기에 지어진 석조 교회들은 현대적인 다운타운에서 걸어서 금방 닿을 거리에 있고, 재즈부터 코미디까지 사계절 내내 이어지는 다양한 축제들이 거리를 음악과 인파로 채운다. 이중 언어로 된 표지판, 지하 보행자 네트워크, 그리고 각기 다른 개성을 지닌 자치구들 덕분에 어느 동네를 걷느냐에 따라 도시의 전혀 다른 얼굴을 만날 수 있다.",
+      "getting": "대부분의 여행자는 몬트리올 시내에서 남서쪽으로 약 20km 떨어진 도르발(Dorval)에 위치한 몬트리올-피에르 엘리엇 트뤼도 국제공항(YUL)을 통해 도착한다. 시내로 들어갈 때는 24시간 운행하는 STM 747번 버스가 가장 믿을 만한 교통수단으로, 교통 상황과 정차 횟수에 따라 보통 45분에서 70분 정도 소요된다. 공항까지 연결되는 철도 노선(REM)은 현재 공사 중이며 아직 개통되지 않았다.",
+      "days": "올드 몬트리올, 다운타운, 그리고 플라토(Plateau)나 마일 엔드(Mile End) 같은 개성 있는 동네 한두 곳을 둘러보려면 대략 3~4일 정도를 계획하는 것이 좋다. 축제를 즐기거나 근교로 당일치기 여행을 추가하고 싶다면 하루나 이틀 정도 더 여유를 두는 것을 추천한다."
+    },
+    "ja": {
+      "blurb": "モントリオールは、フランス文化と北米文化が一つの街の中で重なり合う場所だ。石畳が続き17世紀の石造り教会が点在する旧市街(オールド・モントリオール)から少し歩くだけで、近代的なダウンタウンにたどり着く。また、ジャズからコメディまで一年を通して催される数々のフェスティバルが、街角を音楽と人々の熱気で満たしていく。バイリンガルの標識や地下歩行者ネットワーク、そして個性豊かな各区(ボロー)が、歩き回る界隈ごとにまったく違う表情を見せてくれる。",
+      "getting": "多くの旅行者は、ダウンタウンから南西へ約20km、ドーバルに位置するモントリオール・トルドー国際空港(YUL)から入国する。市内中心部への移動には、24時間運行するSTMの747番バスが頼れる足となり、交通状況や停車箇所によって所要時間はおよそ45分から70分ほど。鉄道路線(REM)も建設中だが、空港への乗り入れはまだ始まっていない。",
+      "days": "旧市街、ダウンタウン、そしてプラトーやマイル・エンドといった個性的な界隈をいくつか巡るなら、3〜4日ほどを見ておきたい。フェスティバルに参加したり、郊外への日帰り旅行を加えたりしたい場合は、さらに1〜2日余分に確保するとよいだろう。"
+    },
+    "es": {
+      "blurb": "Montreal combina la cultura francesa y norteamericana en una sola ciudad: el empedrado del Viejo Montreal, con sus iglesias de piedra del siglo XVII, queda a pocos pasos de un centro moderno, mientras que un calendario de festivales que no se detiene en todo el año, desde jazz hasta comedia, llena las calles de música y multitudes. La señalización bilingüe de la ciudad, su red peatonal subterránea y sus barrios bien diferenciados le dan una personalidad distinta según el vecindario que recorras.",
+      "getting": "La mayoría de los viajeros llega por el Aeropuerto Internacional Montreal-Pierre Elliott Trudeau (YUL), ubicado en Dorval, a unos 20 km al suroeste del centro. El autobús STM 747 es la conexión confiable, disponible las 24 horas, hacia el centro de la ciudad, con un trayecto de entre 45 y 70 minutos según el tráfico y las paradas; hay un enlace ferroviario (el REM) en construcción, pero todavía no llega al aeropuerto.",
+      "days": "Calcula entre 3 y 4 días para recorrer el Viejo Montreal, el centro y un par de barrios con carácter propio, como el Plateau o Mile End, y suma uno o dos días más si quieres aprovechar algún festival o hacer una excursión fuera de la ciudad."
+    },
+    "zh": {
+      "blurb": "蒙特利尔是一座将法式风情与北美文化融为一体的城市：鹅卵石铺就的老蒙特利尔和那些17世纪的石砌教堂，步行即可到达现代化的市中心；而全年不断的节庆活动——从爵士音乐节到喜剧节——更是让街头四季都充满了音乐声和熙攘的人群。这座城市的双语路牌、四通八达的地下步行网络，以及风格迥异的各个区，让你每走进一个社区，都能感受到截然不同的个性。",
+      "getting": "大多数游客会经由蒙特利尔皮埃尔·埃利奥特·特鲁多国际机场（YUL）抵达，该机场位于多瓦尔（Dorval），距市中心约20公里。STM 747路巴士是通往市中心全天候运行的可靠交通方式，车程约45至70分钟，具体视路况和停靠站而定；轨道交通REM线正在建设中，但尚未通车至机场。",
+      "days": "建议安排约3到4天时间，游览老蒙特利尔、市中心，以及高原区（Plateau）或小意大利附近的Mile End等特色街区；如果还想赶上某个节庆活动，或安排一次城外一日游，不妨再多留一两天。"
+    }
+  },
+  "Niagara Falls": {
+    "en": {
+      "blurb": "Niagara Falls is one of the world's most powerful waterfalls, where the Horseshoe Falls sends over 2,800 cubic metres of water crashing over the edge every second, close enough to feel the spray from the viewing promenades. On the Canadian side, the city has built a full resort landscape of observation towers, boat tours and casinos around that natural spectacle, making it as much a purpose-built attraction as a geological wonder.",
+      "getting": "Most international travellers fly into Toronto Pearson Airport (YYZ), then continue on to Niagara Falls by GO Transit train from Union Station or by road via the QEW, a trip of roughly 1.5 to 2 hours. Buffalo Niagara International Airport (BUF), just across the US border, sits closer to the falls but involves a border crossing en route.",
+      "days": "Plan on ~2 days, enough time to see both the Canadian and American sides of the falls, take a boat tour to the base, and explore nearby spots like Niagara-on-the-Lake."
+    },
+    "ko": {
+      "blurb": "나이아가라 폭포는 세계에서 가장 웅장한 폭포 중 하나로, 호스슈 폭포(Horseshoe Falls)에서만 매초 2,800세제곱미터가 넘는 물이 쏟아져 내립니다. 전망대 산책로에 서면 물보라가 얼굴에 닿을 정도로 가까이서 그 장관을 느낄 수 있습니다. 캐나다 쪽에서는 이 자연의 경이로움을 중심으로 전망탑, 보트 투어, 카지노 등이 어우러진 대규모 리조트 지구를 조성해, 이곳을 지질학적 명소인 동시에 하나의 거대한 테마파크처럼 즐길 수 있게 만들었습니다.",
+      "getting": "대부분의 해외 여행객은 토론토 피어슨 공항(YYZ)으로 입국한 뒤, 유니언 역(Union Station)에서 GO 트랜짓 기차를 타거나 QEW 고속도로를 이용해 나이아가라 폭포까지 이동합니다. 소요 시간은 약 1.5~2시간입니다. 미국 국경 바로 너머에 있는 버팔로 나이아가라 국제공항(BUF)은 폭포와 더 가깝지만, 가는 길에 국경을 통과해야 합니다.",
+      "days": "캐나다 쪽과 미국 쪽 폭포를 모두 둘러보고, 폭포 바로 아래까지 가는 보트 투어를 즐기며, 근처의 나이아가라온더레이크(Niagara-on-the-Lake)까지 돌아보려면 약 2일 정도를 계획하는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "ナイアガラの滝は、世界有数の水量を誇る滝のひとつです。中でもホースシュー・フォールズでは、毎秒2,800立方メートルを超える水が轟音とともに流れ落ち、展望プロムナードからはその飛沫を肌で感じられるほどの迫力があります。カナダ側では、この自然の絶景を取り囲むように展望タワーや遊覧船、カジノなどが立ち並び、ひとつの巨大なリゾート地として発展しており、地質学的な驚異であると同時に、人の手による一大観光地としての顔も持っています。",
+      "getting": "多くの海外からの旅行者は、まずトロント・ピアソン国際空港（YYZ）に到着し、そこからユニオン駅発のGOトランジット鉄道、またはQEW（クイーン・エリザベス・ウェイ）経由の車で、ナイアガラの滝まで約1.5～2時間かけて移動します。アメリカ国境のすぐ向こうにあるバッファロー・ナイアガラ国際空港（BUF）は滝により近い立地ですが、利用する場合は国境越えが必要になります。",
+      "days": "滞在は2日間ほどを目安にすると良いでしょう。カナダ側とアメリカ側の両方から滝を眺め、遊覧船で滝つぼ近くまで足を延ばし、さらに近郊のナイアガラ・オン・ザ・レイクなどのスポットを巡るのにちょうど良い日数です。"
+    },
+    "es": {
+      "blurb": "Las Cataratas del Niágara son una de las caídas de agua más imponentes del mundo: la Herradura (Horseshoe Falls) precipita más de 2.800 metros cúbicos de agua por segundo, con una fuerza tal que se puede sentir el rocío desde los miradores. Del lado canadiense, la ciudad ha levantado todo un complejo turístico —torres de observación, paseos en barco y casinos— alrededor de este espectáculo natural, convirtiéndolo tanto en una atracción construida a propósito como en una maravilla geológica.",
+      "getting": "La mayoría de los viajeros internacionales llegan al Aeropuerto de Toronto Pearson (YYZ) y de ahí continúan hacia las Cataratas del Niágara en el tren de GO Transit desde Union Station, o por carretera a través de la QEW, un trayecto de entre 1.5 y 2 horas aproximadamente. El Aeropuerto Internacional Buffalo Niagara (BUF), justo al otro lado de la frontera con Estados Unidos, queda más cerca de las cataratas, pero implica cruzar la frontera en el camino.",
+      "days": "Se recomienda planear unos 2 días, tiempo suficiente para ver tanto el lado canadiense como el estadounidense de las cataratas, hacer un paseo en barco hasta la base y explorar lugares cercanos como Niagara-on-the-Lake."
+    },
+    "zh": {
+      "blurb": "尼亚加拉大瀑布是世界上水势最磅礴的瀑布之一，马蹄瀑布每秒倾泻而下的水量超过2800立方米，站在观景长廊上就能感受到扑面而来的水雾。在加拿大一侧，整座城市围绕这一自然奇观打造了一整套度假胜地，观景塔、游船观光和赌场一应俱全，使其既是地质奇观，也俨然成了一座精心打造的人造景点。",
+      "getting": "大多数国际旅客会先飞抵多伦多皮尔逊机场（YYZ），再从联合车站搭乘GO Transit列车，或沿QEW高速公路驱车前往尼亚加拉大瀑布，车程大约1.5到2小时。水牛城尼亚加拉国际机场（BUF）虽然就在美国边境对面，离瀑布更近，但途中需要办理过境手续。",
+      "days": "建议安排约2天时间，足以游览瀑布的加拿大和美国两侧，乘船近距离感受瀑布底部的震撼，还能顺道探访尼亚加拉湖滨小镇等周边景点。"
+    }
+  },
+  "Ottawa": {
+    "en": {
+      "blurb": "Ottawa is Canada's capital, a bilingual city where Gothic Revival parliament buildings rise above the Rideau Canal, a UNESCO World Heritage site that becomes the world's largest skating rink each winter. It blends federal government gravitas with riverside museums, a lively market district and a compact, walkable core.",
+      "getting": "Most travellers arrive via Ottawa Macdonald-Cartier International Airport (YOW), located a few kilometres south of downtown. From there, OC Transpo buses connect to the city's Confederation Line light rail, reaching the core in roughly 30-45 minutes.",
+      "days": "Plan on ~2-3 days to cover Parliament Hill, the Rideau Canal and the national museums, with an extra day if you want to explore the Byward Market and nearby Gatineau at a slower pace."
+    },
+    "ko": {
+      "blurb": "오타와는 캐나다의 수도로, 고딕 리바이벌 양식의 국회의사당이 리도 운하 위로 우뚝 솟아 있는 이중언어 도시입니다. 리도 운하는 유네스코 세계문화유산으로, 겨울이면 세계에서 가장 큰 스케이트장으로 변신합니다. 오타와는 연방 정부 도시로서의 무게감과 더불어 강변의 박물관들, 활기찬 마켓 지구, 걸어서 다니기 좋은 아담한 도심이 조화를 이루는 곳입니다.",
+      "getting": "대부분의 여행객은 도심에서 남쪽으로 몇 킬로미터 떨어진 오타와 맥도널드-카르티에 국제공항(YOW)을 통해 도착합니다. 공항에서는 OC 트랜스포 버스를 이용해 시내 경전철인 컨페더레이션 라인으로 환승할 수 있으며, 도심까지 약 30~45분이 소요됩니다.",
+      "days": "국회의사당, 리도 운하, 국립 박물관들을 둘러보려면 2~3일 정도가 적당합니다. 바이워드 마켓과 인근 가티노까지 여유롭게 둘러보고 싶다면 하루를 더 추가하는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "オタワはカナダの首都であり、英語とフランス語が共存するバイリンガル都市です。ゴシック・リバイバル様式の国会議事堂がそびえ立ち、その足元を流れるリドー運河はユネスコ世界遺産に登録されており、冬になると世界最大のスケートリンクへと姿を変えます。連邦政府ならではの重厚な雰囲気と、川沿いに点在する博物館群、活気あふれるマーケット地区、そしてコンパクトで歩きやすい中心部が絶妙に調和した街です。",
+      "getting": "多くの旅行者はオタワ・マクドナルド・カルティエ国際空港(YOW)を利用します。空港はダウンタウンから南へ数キロの場所に位置しており、そこからOC Transpoのバスに乗り換えて市内のコンフェデレーション・ライン(ライトレール)に接続すれば、おおよそ30~45分で中心部へアクセスできます。",
+      "days": "国会議事堂(パーラメント・ヒル)、リドー運河、そして国立博物館群を巡るには、2~3日ほど見ておくとよいでしょう。さらにバイワード・マーケットや近郊のガティノーまでゆったりと足を延ばしたい場合は、もう1日プラスするのがおすすめです。"
+    },
+    "es": {
+      "blurb": "Ottawa es la capital de Canadá, una ciudad bilingüe donde los edificios neogóticos del parlamento se alzan sobre el Canal Rideau, un sitio Patrimonio de la Humanidad de la UNESCO que cada invierno se convierte en la pista de patinaje más grande del mundo. Aquí se combinan la solemnidad del gobierno federal con museos a orillas del río, un animado distrito de mercados y un centro compacto, ideal para recorrer a pie.",
+      "getting": "La mayoría de los viajeros llega por el Aeropuerto Internacional Ottawa Macdonald-Cartier (YOW), ubicado a pocos kilómetros al sur del centro. Desde allí, los autobuses de OC Transpo conectan con la línea de tren ligero Confederation Line de la ciudad, llegando al centro en aproximadamente 30-45 minutos.",
+      "days": "Conviene reservar entre 2 y 3 días para recorrer Parliament Hill, el Canal Rideau y los museos nacionales, y sumar un día más si se quiere explorar con calma el Byward Market y la cercana Gatineau."
+    },
+    "zh": {
+      "blurb": "渥太华是加拿大的首都，这座双语城市里，哥特复兴式的国会大厦矗立在里多运河之上——这条运河是联合国教科文组织世界遗产，每到冬季便化身为全球最大的天然滑冰场。这里既有联邦政府的庄重气派，又不乏河畔博物馆、热闹的市场街区，以及紧凑宜行的市中心。",
+      "getting": "大多数游客经渥太华麦克唐纳-卡蒂埃国际机场（YOW）抵达，机场位于市中心以南几公里处。从机场出发，可乘坐OC Transpo巴士换乘联邦线轻轨，大约30-45分钟即可到达市中心。",
+      "days": "建议安排2-3天游览国会山、里多运河和各大国家级博物馆；如果想悠闲地逛逛拜沃德市场并顺道前往附近的加蒂诺，不妨再多留一天。"
+    }
+  },
+  "Quebec City": {
+    "en": {
+      "blurb": "Quebec City is the only walled city north of Mexico in North America, its cobbled Old Town a UNESCO World Heritage Site perched above the St. Lawrence River. Francophone to its core, it feels more like a slice of old France than a typical Canadian city, right down to the language on the street signs.",
+      "getting": "Most travellers fly into Jean Lesage International Airport (YQB), located a few kilometres west of downtown, or arrive by VIA Rail into the historic Gare du Palais station from Montreal or Ottawa. From either point, taxis, rideshares or local buses from the regional hub cover the final stretch into the old city.",
+      "days": "Plan on ~2 to 3 days to wander the ramparts, Château Frontenac and Petit Champlain district at an easy pace, with an extra day if you want to venture out to Montmorency Falls or the Île d'Orléans countryside."
+    },
+    "ko": {
+      "blurb": "퀘벡시티는 북미에서 멕시코 이북에 위치한 유일한 성곽 도시로, 자갈길이 깔린 구시가지는 세인트로렌스강을 내려다보는 유네스코 세계문화유산이다. 뼛속까지 프랑스어권인 이곳은 거리 표지판의 언어까지도 전형적인 캐나다 도시라기보다는 마치 오래된 프랑스의 한 조각을 옮겨놓은 듯한 느낌을 준다.",
+      "getting": "대부분의 여행객은 시내 서쪽으로 몇 킬로미터 떨어진 장 르사주 국제공항(YQB)으로 입국하거나, 몬트리올이나 오타와에서 VIA 철도를 타고 유서 깊은 갸르 뒤 팔레(Gare du Palais)역으로 도착한다. 두 거점 어디에서든 택시, 라이드셰어 또는 지역 버스를 이용해 구시가지까지 남은 거리를 이동하면 된다.",
+      "days": "성벽길과 샤토 프롱트낙, 프티 샹플랭 지구를 여유롭게 둘러보려면 약 2~3일 정도를 계획하는 것이 좋으며, 몽모랑시 폭포나 일 도를레앙 전원 지역까지 다녀오고 싶다면 하루를 더 추가하자."
+    },
+    "ja": {
+      "blurb": "ケベック・シティは、北米でメキシコ以北に残る唯一の城壁都市。セントローレンス川を見下ろす石畳の旧市街は、ユネスコ世界遺産にも登録されている。フランス語圏の空気が色濃く漂い、通りの標識に至るまで、典型的なカナダの街というより、まるでフランスの田舎町にタイムスリップしたかのような雰囲気が漂う。",
+      "getting": "多くの旅行者はダウンタウンの西に数キロ離れたジャン・ルサージュ国際空港(YQB)を利用するか、モントリオールやオタワからVIA鉄道で歴史あるガール・デュ・パレ駅に到着する。どちらの場合も、そこからはタクシーやライドシェア、地域のバスターミナルからのローカルバスを使えば、旧市街まで難なくたどり着ける。",
+      "days": "城壁沿いの散策やシャトー・フロントナック、プティ・シャンプラン地区をのんびり楽しむなら、2~3日ほど見ておきたい。モンモランシーの滝やオルレアン島の田園風景まで足を延ばすなら、さらに1日プラスするのがおすすめだ。"
+    },
+    "es": {
+      "blurb": "Quebec es la única ciudad amurallada al norte de México en toda América del Norte, con su adoquinado casco antiguo —Patrimonio de la Humanidad por la UNESCO— asomado sobre el río San Lorenzo. Francófona hasta la médula, se siente más como un pedacito de la vieja Francia que como una ciudad canadiense típica, incluso en el idioma de los carteles de la calle.",
+      "getting": "La mayoría de los viajeros llega por el Aeropuerto Internacional Jean Lesage (YQB), ubicado a pocos kilómetros al oeste del centro, o en tren de VIA Rail hasta la histórica estación Gare du Palais, con conexiones desde Montreal u Ottawa. Desde cualquiera de los dos puntos, taxis, servicios de transporte privado o autobuses locales desde el centro regional cubren el tramo final hasta la ciudad vieja.",
+      "days": "Calcula entre 2 y 3 días para recorrer con calma las murallas, el Château Frontenac y el barrio de Petit Champlain, y suma un día extra si quieres escaparte a las cataratas Montmorency o al campo de la Île d'Orléans."
+    },
+    "zh": {
+      "blurb": "魁北克城是北美墨西哥以北唯一一座仍保留城墙的城市，其鹅卵石铺就的老城区坐落在圣劳伦斯河畔，被联合国教科文组织列为世界文化遗产。这里骨子里透着法语文化的气息，比起典型的加拿大城市，更像是一方从老法兰西搬来的土地，就连街牌上的文字都在诉说着这一点。",
+      "getting": "大多数游客会选择飞抵让·勒萨日国际机场（YQB），该机场位于市中心以西几公里处；也有人乘坐VIA铁路，从蒙特利尔或渥太华出发，抵达历史悠久的帕莱斯车站（Gare du Palais）。无论从哪里出发，之后都可以通过出租车、网约车或当地公交，从枢纽站转乘前往老城区，完成最后一段路程。",
+      "days": "建议安排2到3天时间，悠闲地漫步于城墙、芳提娜城堡酒店（Château Frontenac）和小香普兰街区（Petit Champlain）。如果还想前往蒙莫朗西瀑布或奥尔良岛乡间走走，不妨多留一天。"
+    }
+  },
+  "Toronto": {
+    "en": {
+      "blurb": "Toronto is Canada's largest city and financial capital, a dense, multicultural metropolis where the CN Tower anchors a skyline of glass high-rises above Lake Ontario. Its neighbourhoods read like a world map, from Chinatown to Little Italy, making it one of the most diverse cities on the continent.",
+      "getting": "Most travellers arrive at Toronto Pearson International Airport (YYZ), connected to downtown Union Station by the UP Express train in about 25 minutes. Buses and taxis from the airport's regional hub also serve the city for those travelling outside UP Express operating hours.",
+      "days": "Plan on 3 to 4 days to cover the downtown core, the waterfront, and at least one or two distinct neighbourhoods beyond it."
+    },
+    "ko": {
+      "blurb": "토론토는 캐나다 최대의 도시이자 금융 중심지로, 온타리오 호수를 배경으로 CN 타워가 우뚝 솟은 유리 고층 빌딩 스카이라인을 자랑하는 다문화 대도시입니다. 차이나타운부터 리틀 이탈리아까지, 각 동네가 마치 세계 지도를 펼쳐놓은 듯 다채로워, 북미 대륙에서 손꼽히는 다양성을 지닌 도시로 꼽힙니다.",
+      "getting": "대부분의 여행객은 토론토 피어슨 국제공항(YYZ)을 통해 도착하며, 이곳은 UP 익스프레스 열차로 약 25분이면 다운타운의 유니언 역까지 연결됩니다. UP 익스프레스 운행 시간 외에 이동해야 하는 경우에는 공항 내 지역 교통 허브에서 출발하는 버스와 택시를 이용해 시내로 들어갈 수 있습니다.",
+      "days": "다운타운 중심가와 워터프론트, 그리고 그 외 한두 곳의 개성 있는 동네까지 둘러보려면 3~4일 정도의 일정을 잡는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "トロントはカナダ最大の都市にして金融の中心地。オンタリオ湖畔にガラス張りの高層ビル群がそびえ立ち、CNタワーがその街並みの要として存在感を放つ、多文化が凝縮された大都市です。チャイナタウンからリトル・イタリーまで、街区それぞれが世界地図のような顔を持ち、北米でも屈指の多様性を誇る都市となっています。",
+      "getting": "多くの旅行者はトロント・ピアソン国際空港（YYZ）から入国します。空港からダウンタウンのユニオン駅へは、UPエクスプレス列車で約25分。UPエクスプレスの運行時間外に移動する場合は、空港内のバスターミナルからバスやタクシーを利用して市内へ向かうこともできます。",
+      "days": "ダウンタウンの中心部、ウォーターフロント、そしてそこから少し足を延ばした個性的なエリアを1～2か所は巡るとなると、3～4日ほど見ておくのがおすすめです。"
+    },
+    "es": {
+      "blurb": "Toronto es la ciudad más grande de Canadá y su capital financiera, una metrópolis densa y multicultural donde la CN Tower se alza sobre un horizonte de rascacielos de cristal junto al lago Ontario. Sus barrios parecen un mapa del mundo, desde Chinatown hasta Little Italy, lo que la convierte en una de las ciudades más diversas del continente.",
+      "getting": "La mayoría de los viajeros llega al Aeropuerto Internacional Toronto Pearson (YYZ), conectado con la Union Station, en pleno centro, mediante el tren UP Express en unos 25 minutos. También hay autobuses y taxis desde la terminal regional del aeropuerto para quienes viajan fuera del horario de operación del UP Express.",
+      "days": "Calcula entre 3 y 4 días para recorrer el centro de la ciudad, el paseo frente al lago y al menos uno o dos barrios distintivos más allá de esa zona."
+    },
+    "zh": {
+      "blurb": "多伦多是加拿大最大的城市,也是其金融中心,一座繁华的多元文化大都市。安大略湖畔,CN塔稳稳矗立在一片玻璃高楼构成的天际线之中。城市里的各个社区仿佛一张世界地图的缩影,从唐人街到小意大利,应有尽有,让多伦多成为北美大陆上最具多元文化色彩的城市之一。",
+      "getting": "大多数旅客通过多伦多皮尔逊国际机场(YYZ)抵达,从机场乘坐UP Express列车约25分钟即可到达市中心的联合车站(Union Station)。若出行时间不在UP Express运营时段内,也可选择机场区域交通枢纽提供的巴士或出租车前往市区。",
+      "days": "建议安排3到4天时间,用以游览市中心核心区、滨水区,以及至少一两个别具特色的周边社区。"
+    }
+  },
+  "Vancouver": {
+    "en": {
+      "blurb": "Vancouver sits where dense glass towers meet the edge of the Pacific, framed by the Coast Mountains rising just beyond the harbour. It is a compact, walkable city threaded with seawall paths, parks and a famously diverse food scene shaped by generations of immigration from across Asia and beyond.",
+      "getting": "Most travellers arrive via Vancouver International Airport (YVR), which connects to downtown's Waterfront Station by the Canada Line SkyTrain in about ~25 minutes. Taxis and ride-shares are also readily available at the terminal for those heading directly to a hotel.",
+      "days": "Plan on ~3 to 4 days to cover the downtown core, Stanley Park and the seawall, Granville Island and at least one excursion into the surrounding mountains or North Shore."
+    },
+    "ko": {
+      "blurb": "밴쿠버는 빽빽한 유리 빌딩숲이 태평양 연안과 맞닿는 곳에 자리하고 있으며, 항구 너머로는 코스트 마운틴이 병풍처럼 펼쳐져 있다. 아담하고 걸어서 돌아보기 좋은 이 도시는 씨월(seawall) 산책로와 공원들이 곳곳을 수놓고 있으며, 아시아를 비롯한 세계 각지로부터 이어져온 이민의 역사가 빚어낸 다채로운 음식 문화로도 유명하다.",
+      "getting": "대부분의 여행자는 밴쿠버 국제공항(YVR)을 통해 도착하며, 캐나다 라인 스카이트레인을 타면 약 25분 만에 다운타운의 워터프런트역(Waterfront Station)까지 갈 수 있다. 호텔로 바로 이동하고 싶다면 터미널에서 택시나 차량 공유 서비스를 이용하기도 쉽다.",
+      "days": "다운타운 중심가, 스탠리 파크와 씨월, 그랜빌 아일랜드를 둘러보고 주변 산악 지대나 노스쇼어로 최소 한 번은 다녀오려면 3~4일 정도를 잡는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "バンクーバーは、ガラス張りの高層ビルが立ち並ぶ都会的な景観と太平洋が出会う場所に位置し、港のすぐ向こうにはコースト山脈がそびえ立つ。コンパクトで歩きやすい街には、海沿いの遊歩道シーウォールや公園が張り巡らされ、アジアをはじめ世界各地からの移民の歴史に育まれた、多彩なグルメシーンでも知られている。",
+      "getting": "多くの旅行者はバンクーバー国際空港（YVR）を利用して訪れる。空港からはカナダラインのスカイトレインでダウンタウンのウォーターフロント駅まで約25分で到着する。ホテルへ直行したい場合は、タクシーや配車サービスもターミナルで簡単に利用できる。",
+      "days": "ダウンタウンの中心部、スタンレーパークとシーウォール、グランビルアイランド、そして周辺の山々やノースショアへの小旅行を少なくとも1日は含めるなら、3〜4日ほど見ておくとよい。"
+    },
+    "es": {
+      "blurb": "Vancouver se asienta justo donde los densos torres de cristal se encuentran con el borde del Pacífico, enmarcada por las Coast Mountains que se alzan apenas más allá del puerto. Es una ciudad compacta y perfecta para recorrer a pie, entrelazada por senderos junto al mar (el seawall), parques y una escena gastronómica célebre por su diversidad, moldeada por generaciones de inmigración provenientes de Asia y de otras partes del mundo.",
+      "getting": "La mayoría de los viajeros llega a través del Aeropuerto Internacional de Vancouver (YVR), conectado con la Waterfront Station en el centro mediante el SkyTrain de la Canada Line en unos ~25 minutos. En la terminal también hay taxis y servicios de transporte privado disponibles para quienes prefieran ir directo al hotel.",
+      "days": "Conviene calcular entre 3 y 4 días para recorrer el centro de la ciudad, Stanley Park y el seawall, Granville Island, y al menos una excursión a las montañas cercanas o al North Shore."
+    },
+    "zh": {
+      "blurb": "温哥华坐落于密集的玻璃幕墙高楼与太平洋交汇之处,海港之外便是巍然耸立的海岸山脉。这是一座紧凑、适合步行的城市,环绕海堤步道、公园星罗棋布,还拥有得益于数代来自亚洲及世界各地移民的、远近闻名的多元美食文化。",
+      "getting": "大多数游客经由温哥华国际机场(YVR)抵达,乘坐加拿大线天车(Canada Line SkyTrain)约25分钟即可到达市中心的滨海站(Waterfront Station)。机场航站楼也备有充足的出租车和网约车,方便直接前往酒店的旅客使用。",
+      "days": "建议安排约3至4天时间,用以游览市中心、史丹利公园(Stanley Park)及海堤步道、固兰湖岛(Granville Island),并至少安排一次前往周边山区或北岸(North Shore)的出游。"
+    }
+  },
+  "Victoria": {
+    "en": {
+      "blurb": "Victoria is a harbour city on Vancouver Island known for its British-influenced architecture, the Inner Harbour's Parliament Buildings and Fairmont Empress Hotel, and the renowned Butchart Gardens nearby. Its mild coastal climate and surrounding waters also make it a base for whale watching in the Salish Sea.",
+      "getting": "Most travellers arrive via Victoria International Airport (YYJ), located north of the city and typically reached by connecting through Vancouver (YVR); others take BC Ferries from Tsawwassen on the mainland to Swartz Bay, about ~30 minutes from downtown, a crossing that takes ~1 hour 35 minutes. From either the airport or ferry terminal, buses from the regional transit hub provide the standard route into downtown Victoria.",
+      "days": "Two days typically cover the city's core sights, the Inner Harbour, Old Town and Butchart Gardens, while a single day is workable only as a rushed highlights trip."
+    },
+    "ko": {
+      "blurb": "빅토리아는 밴쿠버 아일랜드에 위치한 항구 도시로, 영국풍 건축물과 이너 하버(Inner Harbour)의 주의회 의사당(Parliament Buildings), 페어몬트 엠프레스 호텔(Fairmont Empress Hotel)로 잘 알려져 있으며, 근교에는 유명한 부차트 가든(Butchart Gardens)이 자리하고 있습니다. 온화한 해안성 기후와 주변 바다 덕분에 샐리시해(Salish Sea)에서 고래 관찰을 즐기기 위한 거점 도시로도 인기가 많습니다.",
+      "getting": "대부분의 여행객은 시 북쪽에 위치한 빅토리아 국제공항(YYJ)을 통해 도착하며, 보통 밴쿠버(YVR)를 경유합니다. 또 다른 방법으로는 본토의 차와센(Tsawwassen)에서 스와츠 베이(Swartz Bay)까지 BC 페리를 이용하는 것으로, 스와츠 베이는 다운타운에서 약 30분 거리에 있으며 뱃길로는 약 1시간 35분이 소요됩니다. 공항이든 페리 터미널이든, 지역 교통 허브에서 출발하는 버스를 이용하면 다운타운 빅토리아까지 가는 가장 일반적인 경로입니다.",
+      "days": "이틀 정도면 이너 하버, 올드 타운, 부차트 가든 등 도시의 주요 명소를 충분히 둘러볼 수 있으며, 하루 일정으로는 핵심만 빠르게 훑어보는 수준에 그칠 수 있습니다."
+    },
+    "ja": {
+      "blurb": "ビクトリアは、バンクーバー島にある港町で、英国の影響を色濃く残す建築様式、インナーハーバーに建つ州議事堂やフェアモント・エンプレス・ホテル、そして近郊にある有名なブッチャート・ガーデンで知られています。温暖な沿岸気候と豊かな海に恵まれ、セーリッシュ海でのホエールウォッチングの拠点としても人気です。",
+      "getting": "ほとんどの旅行者は、市街地の北に位置するビクトリア国際空港(YYJ)を利用し、通常はバンクーバー(YVR)経由で乗り継いで到着します。また、本土のツワッセンからBCフェリーに乗り、スワーツ・ベイ(ダウンタウンから車で約30分)まで渡る方法もあり、この航路の所要時間は約1時間35分です。空港からもフェリーターミナルからも、地域の交通ハブからダウンタウン・ビクトリアへ向かうバスが一般的なアクセス手段となります。",
+      "days": "インナーハーバー、オールドタウン、ブッチャート・ガーデンといった市内の主要な見どころを巡るには、通常2日あれば十分です。1日だけの滞在でも、駆け足でハイライトを回ることは可能です。"
+    },
+    "es": {
+      "blurb": "Victoria es una ciudad portuaria en la isla de Vancouver, conocida por su arquitectura de influencia británica, los edificios del Parlamento y el hotel Fairmont Empress junto al Inner Harbour, y los célebres Butchart Gardens en las cercanías. Su clima costero templado y las aguas que la rodean también la convierten en un punto de partida ideal para la observación de ballenas en el mar de Salish.",
+      "getting": "La mayoría de los viajeros llega a través del Aeropuerto Internacional de Victoria (YYJ), ubicado al norte de la ciudad, generalmente con conexión previa en Vancouver (YVR); otros optan por los ferris de BC Ferries desde Tsawwassen, en tierra firme, hasta Swartz Bay, a unos 30 minutos del centro, en una travesía de aproximadamente 1 hora y 35 minutos. Tanto desde el aeropuerto como desde la terminal de ferris, los autobuses del centro de transporte regional ofrecen la ruta habitual hacia el centro de Victoria.",
+      "days": "Dos días suelen ser suficientes para recorrer los principales atractivos de la ciudad, el Inner Harbour, el casco antiguo y los Butchart Gardens, mientras que un solo día solo alcanza para una visita apresurada a los puntos más destacados."
+    },
+    "zh": {
+      "blurb": "维多利亚是温哥华岛上的一座港口城市，以英伦风情浓厚的建筑著称。内港区坐落着省议会大厦和费尔蒙帝后饭店，而享誉盛名的布查特花园就在不远处。宜人的沿海气候和周边水域，也让这里成为前往萨利希海观鲸的绝佳据点。",
+      "getting": "大多数游客会经由维多利亚国际机场（YYJ）抵达，该机场位于市区以北，通常需要经温哥华（YVR）转机前往。另一种方式是乘坐BC渡轮，从大陆的措瓦森（Tsawwassen）出发，抵达距市中心约30分钟车程的斯瓦茨湾（Swartz Bay），航程约1小时35分钟。无论是从机场还是渡轮码头出发，都可以在当地的交通枢纽换乘公交车，直达维多利亚市中心，这是最常见的进城方式。",
+      "days": "两天时间通常足以游览市区主要景点，包括内港、老城区和布查特花园；如果只有一天，也能走马观花地看看，但行程会比较紧凑匆忙。"
+    }
+  },
+  "Whistler": {
+    "en": {
+      "blurb": "Whistler is a purpose-built mountain resort in the Coast Mountains of British Columbia, anchored by Whistler and Blackcomb, two linked peaks famous for some of North America's largest ski terrain and a summer line-up of hiking, biking and alpine lakes. The village itself is pedestrian-only, with hotels, restaurants and lift access clustered within walking distance of each other.",
+      "getting": "Whistler has no airport or rail station of its own: most travellers fly into Vancouver International Airport (YVR) and continue by road along Highway 99, the Sea-to-Sky Highway, a journey of ~2 to 2.5 hours by car or scheduled coach. Shared and private shuttle buses run between YVR and Whistler Village throughout the day; there is no public rail link.",
+      "days": "Plan on at least 3 to 4 days: enough for a day or two on the slopes or trails, a gondola ride between the two mountains and some time to explore the village and nearby lakes."
+    },
+    "ko": {
+      "blurb": "휘슬러는 브리티시컬럼비아의 코스트 마운틴 산맥에 자리 잡은, 처음부터 리조트 타운으로 설계된 산악 휴양지입니다. 서로 연결된 두 봉우리인 휘슬러산과 블랙콤산을 중심으로 펼쳐지며, 북미 최대 규모로 손꼽히는 스키 지형과 여름철 하이킹, 자전거, 고산 호수 투어로 유명합니다. 마을 자체는 차 없는 보행자 전용 구역으로, 호텔과 레스토랑, 리프트 승강장이 모두 도보 거리 안에 모여 있습니다.",
+      "getting": "휘슬러에는 공항이나 기차역이 따로 없습니다. 대부분의 여행객은 밴쿠버 국제공항(YVR)으로 입국한 뒤, '시투스카이 하이웨이(Sea-to-Sky Highway)'라 불리는 99번 고속도로를 타고 이동하며, 자동차나 정기 셔틀버스로 약 2~2.5시간이 걸립니다. YVR과 휘슬러 빌리지 사이에는 공용 및 전용 셔틀버스가 하루 종일 운행되지만, 철도 연결편은 없습니다.",
+      "days": "최소 3~4일 정도는 일정을 잡는 것이 좋습니다. 하루 이틀은 슬로프나 트레일을 즐기고, 두 산을 잇는 곤돌라를 타보고, 마을과 주변 호수를 둘러볼 시간까지 충분히 확보할 수 있습니다."
+    },
+    "ja": {
+      "blurb": "ウィスラーは、ブリティッシュコロンビア州のコースト山脈にある、計画的に開発されたマウンテンリゾートです。中心となるのは、ウィスラー山とブラックコム山という2つの連なる山で、北米でも屈指の広大なスキーエリアを誇るほか、夏にはハイキングやバイク、高山湖巡りが楽しめることで知られています。ふもとのヴィレッジは歩行者専用エリアとなっており、ホテルやレストラン、リフト乗り場が徒歩圏内にまとまっています。",
+      "getting": "ウィスラーには空港も鉄道駅もありません。多くの旅行者はまずバンクーバー国際空港(YVR)まで飛行機で入り、そこからハイウェイ99号線、通称「シー・トゥ・スカイ・ハイウェイ」を使って陸路で向かいます。車または定期運行の長距離バスで所要時間は約2〜2.5時間です。YVRとウィスラー・ヴィレッジの間は、終日シャトルバス(相乗り・貸切とも)が運行していますが、鉄道でのアクセス手段はありません。",
+      "days": "滞在日数は最低でも3〜4日は見ておきましょう。ゲレンデやトレイルで1〜2日過ごし、2つの山を結ぶゴンドラに乗り、さらにヴィレッジや周辺の湖を散策する時間も確保できます。"
+    },
+    "es": {
+      "blurb": "Whistler es un resort de montaña construido específicamente para el turismo en las montañas Coast de la Columbia Británica, articulado en torno a Whistler y Blackcomb, dos picos conectados entre sí y famosos por tener algunos de los terrenos de esquí más extensos de Norteamérica, además de una oferta veraniega de senderismo, ciclismo de montaña y lagos alpinos. El pueblo en sí es peatonal, con hoteles, restaurantes y accesos a los telesillas agrupados a poca distancia a pie unos de otros.",
+      "getting": "Whistler no cuenta con aeropuerto ni estación de tren propios: la mayoría de los viajeros llega al Aeropuerto Internacional de Vancouver (YVR) y continúa por carretera a través de la Highway 99, conocida como la Sea-to-Sky Highway, un trayecto de entre 2 y 2,5 horas en auto o en autobús regular. Durante todo el día circulan shuttles compartidos y privados entre el YVR y Whistler Village; no existe conexión ferroviaria pública.",
+      "days": "Conviene planear al menos de 3 a 4 días: tiempo suficiente para disfrutar uno o dos días en las pistas o los senderos, subir en góndola entre las dos montañas y dedicar algo de tiempo a recorrer el pueblo y los lagos cercanos."
+    },
+    "zh": {
+      "blurb": "惠斯勒是坐落于不列颠哥伦比亚省海岸山脉中的一座专门打造的山地度假小镇，由惠斯勒山和布莱克科姆山这两座相连的山峰撑起整个度假区的名气——它们以北美数一数二的滑雪道规模著称，夏季则摇身一变成为徒步、骑行和高山湖泊的乐园。村庄本身是纯步行区，酒店、餐厅和缆车站都紧凑地聚集在一起，步行即可往返。",
+      "getting": "惠斯勒本身没有机场或火车站：大多数游客会先飞抵温哥华国际机场（YVR），再沿99号公路——也就是著名的\"海天公路\"（Sea-to-Sky Highway）驱车或乘坐班车前往，车程约2到2.5小时。往返YVR与惠斯勒村之间的拼车和包车巴士全天都有班次；不过这里没有铁路可以直达。",
+      "days": "建议至少安排3到4天：这样既能留出一两天滑雪或徒步，也能坐缆车往返两座山峰之间，还有时间悠闲地逛逛村子和附近的湖泊。"
+    }
   }
 }

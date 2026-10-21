@@ -1826,6 +1826,12 @@
   "reason": "Volcanic landscape, not coffee shop interior/exterior",
   "at": "2026-07-25T02:40:53.465Z"
  },
+ "banff-banff-gondola\u0001https://upload.wikimedia.org/wikipedia/commons/f/fb/View_of_Banff_from_Gondola_%283910774143%29.jpg": {
+  "slug": "banff-banff-gondola",
+  "verdict": "MATCH",
+  "reason": "publish gate: Scenic view from Banff Gondola overlook, consistent with locale",
+  "at": "2026-10-21T13:29:32.295Z"
+ },
  "bangkok-808-festival-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BITEC.JPG/1920px-BITEC.JPG": {
   "slug": "bangkok-808-festival-2026",
   "verdict": "CITY-TIER",
@@ -4950,6 +4956,12 @@
   "reason": "publish gate: Exterior of heritage building plausibly matching venue in Cairns",
   "at": "2026-09-29T14:19:17.090Z"
  },
+ "calgary-prince-s-island-park\u0001https://upload.wikimedia.org/wikipedia/commons/3/3d/Prince%27sIsland.jpg": {
+  "slug": "calgary-prince-s-island-park",
+  "verdict": "MATCH",
+  "reason": "publish gate: Park pond with geese, trees, rocks - typical park scene",
+  "at": "2026-10-21T13:29:32.159Z"
+ },
  "cambridge-museum-of-archaeology-and-anthropology\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Museum_of_Archaeology_and_Anthropology%2C_Cambridge_16.jpg/3840px-Museum_of_Archaeology_and_Anthropology%2C_Cambridge_16.jpg": {
   "slug": "cambridge-museum-of-archaeology-and-anthropology",
   "verdict": "MATCH",
@@ -6303,6 +6315,12 @@
   "verdict": "MATCH",
   "reason": "patrol re-check: Ferry boat arriving at Nami Island, plausible transport hero",
   "at": "2026-08-16T19:55:59.979Z"
+ },
+ "churchill-cape-merry\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Cape_Merry_approaching_dusk.JPG/3840px-Cape_Merry_approaching_dusk.JPG": {
+  "slug": "churchill-cape-merry",
+  "verdict": "MATCH",
+  "reason": "publish gate: Coastal rocky landscape with stone ruins, fits Cape Merry",
+  "at": "2026-10-21T13:29:31.942Z"
  },
  "cinque-terre-castello-san-giorgio\u0001https://upload.wikimedia.org/wikipedia/commons/f/f8/Castello_San_Giorgio_%28La_Spezia%29.jpg": {
   "slug": "cinque-terre-castello-san-giorgio",
@@ -12764,6 +12782,12 @@
   "reasonKo": "신발 매장, 여행지 아님",
   "at": "2026-08-20T13:30:03.465Z"
  },
+ "jasper-lac-beauvert\u0001https://upload.wikimedia.org/wikipedia/commons/4/4d/Lac_Beavart_and_Jasper_Park_Lodge.jpg": {
+  "slug": "jasper-lac-beauvert",
+  "verdict": "MATCH",
+  "reason": "publish gate: Lake with mountain reflection, matches Lac Beauvert, Jasper",
+  "at": "2026-10-21T13:29:32.111Z"
+ },
  "jeju-black-pork\u0001https://fastly.4sqi.net/img/general/original/1414603250_m5OmYkUnSWOP65ahmVtZhcXnYeuM_txcsyOcKtGIRW8.jpg": {
   "slug": "jeju-black-pork",
   "verdict": "MISMATCH",
@@ -15091,11 +15115,29 @@
   "reason": "publish gate: Satellite view plausibly shows Khuvsgul Lake frozen landscape",
   "at": "2026-10-11T07:44:49.609Z"
  },
+ "lake-louise-lake-louise\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Banff_National_Park_%28AB%2C_Canada%29%2C_Lake_Louise_--_2022_--_2197.jpg/3840px-Banff_National_Park_%28AB%2C_Canada%29%2C_Lake_Louise_--_2022_--_2197.jpg": {
+  "slug": "lake-louise-lake-louise",
+  "verdict": "MATCH",
+  "reason": "publish gate: Classic Lake Louise view with lake, mountains, boathouse",
+  "at": "2026-10-21T13:29:32.540Z"
+ },
+ "lake-louise-sentinel-pass\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sentinel_Pass.jpg/3840px-Sentinel_Pass.jpg": {
+  "slug": "lake-louise-sentinel-pass",
+  "verdict": "MATCH",
+  "reason": "publish gate: Mountain pass landscape with lake, consistent with Sentinel Pass",
+  "at": "2026-10-21T13:29:32.083Z"
+ },
  "lake-tekapo-the-church-of-the-good-shepherd\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Church_of_the_Good_Shepherd%2C_Lake_Tekapo%2C_New_Zealand.jpg/3840px-Church_of_the_Good_Shepherd%2C_Lake_Tekapo%2C_New_Zealand.jpg": {
   "slug": "lake-tekapo-the-church-of-the-good-shepherd",
   "verdict": "MATCH",
   "reason": "publish gate: Exterior view of the iconic stone church by lake",
   "at": "2026-10-20T14:48:08.146Z"
+ },
+ "lake-tekapo-university-of-canterbury-mt-john-observatory\u0001https://upload.wikimedia.org/wikipedia/commons/2/29/%E5%9D%8E%E7%89%B9%E4%BC%AF%E9%9B%B7%E5%A4%A7%E5%AD%A6%E7%BA%A6%E7%BF%B0%E5%B1%B1%E5%A4%A9%E6%96%87%E5%8F%B0_Mt_John_University_Observatory_-_panoramio_%281%29.jpg": {
+  "slug": "lake-tekapo-university-of-canterbury-mt-john-observatory",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows observatory domes and buildings at Mt John site",
+  "at": "2026-10-21T13:29:32.509Z"
  },
  "langkawi-dataran-lang\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Langkawi_Eagle_Square_-_Dataran_Lang_%2811129976185%29.jpg/1920px-Langkawi_Eagle_Square_-_Dataran_Lang_%2811129976185%29.jpg": {
   "slug": "langkawi-dataran-lang",
@@ -18321,6 +18363,18 @@
   "reason": "publish gate: Shows Paseo Santa Lucía canal, fountains, and skyline landmark",
   "at": "2026-10-04T13:27:43.709Z"
  },
+ "montreal-notre-dame-basilica-of-montreal\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Notre-Dame_Basilica_Interior%2C_Montreal%2C_Canada_-_Diliff.jpg/3840px-Notre-Dame_Basilica_Interior%2C_Montreal%2C_Canada_-_Diliff.jpg": {
+  "slug": "montreal-notre-dame-basilica-of-montreal",
+  "verdict": "MATCH",
+  "reason": "publish gate: Interior view of Notre-Dame Basilica, recognizable and representative",
+  "at": "2026-10-21T13:29:32.456Z"
+ },
+ "montreal-vieux-port-de-montreal\u0001https://upload.wikimedia.org/wikipedia/commons/7/70/Montreal_Old_port.jpg": {
+  "slug": "montreal-vieux-port-de-montreal",
+  "verdict": "MATCH",
+  "reason": "publish gate: Marina with boats and promenade matches Old Port Montreal",
+  "at": "2026-10-21T13:29:32.241Z"
+ },
  "monza-giardini-della-villa-reale\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/AUTUNNO_NEI_GIARDINI_REALI_DELLA_VILLA_REALE_DI_MONZA.jpg/3840px-AUTUNNO_NEI_GIARDINI_REALI_DELLA_VILLA_REALE_DI_MONZA.jpg": {
   "slug": "monza-giardini-della-villa-reale",
   "verdict": "MATCH",
@@ -19941,6 +19995,18 @@
   "reason": "Ancient stone carving typical of Po Nagar Temple",
   "at": "2026-07-25T02:47:17.575Z"
  },
+ "niagara-falls-journey-behind-the-falls\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Journey_behind_the_falls_01.JPG/1920px-Journey_behind_the_falls_01.JPG": {
+  "slug": "niagara-falls-journey-behind-the-falls",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows waterfall and visitors in ponchos, matches attraction",
+  "at": "2026-10-21T13:29:32.186Z"
+ },
+ "niagara-falls-table-rock-welcome-centre\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Niagara_falls_visitor_center_04.07.2012_14-48-37.jpg/1920px-Niagara_falls_visitor_center_04.07.2012_14-48-37.jpg": {
+  "slug": "niagara-falls-table-rock-welcome-centre",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Table Rock Welcome Centre exterior with signage clearly",
+  "at": "2026-10-21T13:29:32.430Z"
+ },
  "nice-cascade-du-chateau\u0001https://upload.wikimedia.org/wikipedia/commons/1/18/Cascade_du_ch%C3%A2teau%2C_Nice_%287726528602%29.jpg": {
   "slug": "nice-cascade-du-chateau",
   "verdict": "MATCH",
@@ -20604,6 +20670,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows Shitennō-ji pagoda and hall, representative view",
   "at": "2026-09-09T07:38:31.303Z"
+ },
+ "ottawa-parliament-hill\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ottawa_-_ON_-_Stadtansicht.jpg/1920px-Ottawa_-_ON_-_Stadtansicht.jpg": {
+  "slug": "ottawa-parliament-hill",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Parliament Hill buildings with iconic Peace Tower, Ottawa",
+  "at": "2026-10-21T13:29:32.054Z"
  },
  "oxford-ashmolean-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Ashmolean_Museum_in_July_2014.jpg/1920px-Ashmolean_Museum_in_July_2014.jpg": {
   "slug": "oxford-ashmolean-museum",
@@ -22698,6 +22770,18 @@
   "reason": "publish gate: Shows temple gate entrance with signage, representative hero shot",
   "at": "2026-09-20T07:37:03.923Z"
  },
+ "quebec-city-fairmont-le-chateau-frontenac\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ch%C3%A2teau_Frontenac_02.jpg/1920px-Ch%C3%A2teau_Frontenac_02.jpg": {
+  "slug": "quebec-city-fairmont-le-chateau-frontenac",
+  "verdict": "MATCH",
+  "reason": "publish gate: Iconic exterior view of Château Frontenac in winter",
+  "at": "2026-10-21T13:29:32.483Z"
+ },
+ "quebec-city-place-royale\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Maison_Barbel_on_Place_Royale_at_night%2C_Quebec_City.jpg/3840px-Maison_Barbel_on_Place_Royale_at_night%2C_Quebec_City.jpg": {
+  "slug": "quebec-city-place-royale",
+  "verdict": "MATCH",
+  "reason": "publish gate: Historic Place Royale buildings at night, representative view",
+  "at": "2026-10-21T13:29:32.268Z"
+ },
  "queenstown-skyline-queenstown\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/View_from_Shotover-Rees_St%2C_Queenstown_-_panoramio_%282%29.jpg/1920px-View_from_Shotover-Rees_St%2C_Queenstown_-_panoramio_%282%29.jpg": {
   "slug": "queenstown-skyline-queenstown",
   "verdict": "MATCH",
@@ -23112,6 +23196,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows geothermal geyser site with steam, matches Pohutu Geyser area",
   "at": "2026-10-20T14:47:55.192Z"
+ },
+ "rotorua-polynesian-spa\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Day_4-_Polynesian_Spa.jpg/1920px-Day_4-_Polynesian_Spa.jpg": {
+  "slug": "rotorua-polynesian-spa",
+  "verdict": "MATCH",
+  "reason": "publish gate: Thermal spa pools with people, matches Polynesian Spa Rotorua setting",
+  "at": "2026-10-21T13:29:32.376Z"
  },
  "saadiyat-island-hudayriyat-island\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Hudayriyat_Island_beach_at_night.jpg/3840px-Hudayriyat_Island_beach_at_night.jpg": {
   "slug": "saadiyat-island-hudayriyat-island",
@@ -29587,6 +29677,18 @@
   "reason": "patrol re-check: Cable car gondolas over forest, matches Tongyeong Cablecar attraction",
   "at": "2026-08-16T20:35:29.533Z"
  },
+ "toronto-360-the-restaurant-at-the-cn-tower\u0001https://upload.wikimedia.org/wikipedia/commons/c/c7/Inside_the_360_Restaurant_in_the_CN_Tower_%289160061765%29.jpg": {
+  "slug": "toronto-360-the-restaurant-at-the-cn-tower",
+  "verdict": "MATCH",
+  "reason": "publish gate: Interior of revolving restaurant with city view through windows",
+  "at": "2026-10-21T13:29:32.402Z"
+ },
+ "toronto-cn-tower\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/CN_Tower%2C_Toronto%2C_Canada_%28Unsplash_DJ_kOgH5u0o%29.jpg/3840px-CN_Tower%2C_Toronto%2C_Canada_%28Unsplash_DJ_kOgH5u0o%29.jpg": {
+  "slug": "toronto-cn-tower",
+  "verdict": "MATCH",
+  "reason": "publish gate: Clear recognizable image of CN Tower's distinctive top structure",
+  "at": "2026-10-21T13:29:32.348Z"
+ },
  "toulouse-basilique-saint-sernin-de-toulouse\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Basilique_Saint-Sernin_de_Toulouse_-_exposition_ouest-1-.jpg/1920px-Basilique_Saint-Sernin_de_Toulouse_-_exposition_ouest-1-.jpg": {
   "slug": "toulouse-basilique-saint-sernin-de-toulouse",
   "verdict": "MATCH",
@@ -29677,6 +29779,12 @@
   "verdict": "MATCH",
   "reason": "patrol re-check: Waterfront promenade plaza with skyline view, consistent with venue",
   "at": "2026-08-16T20:35:40.804Z"
+ },
+ "tskaltubo-magnolia\u0001https://upload.wikimedia.org/wikipedia/commons/a/a4/Magnolia_sieboldii_flower_1.jpg": {
+  "slug": "tskaltubo-magnolia",
+  "verdict": "MATCH",
+  "reason": "publish gate: Close-up of magnolia flower, matches venue theme",
+  "at": "2026-10-21T13:29:32.214Z"
  },
  "tskaltubo-prometheus-cave-natural-monument\u0001https://upload.wikimedia.org/wikipedia/commons/a/ab/Prometheus_Cave_Natural_Monument.jpg": {
   "slug": "tskaltubo-prometheus-cave-natural-monument",
@@ -30243,6 +30351,18 @@
   "reasonKo": "발렌시아의 상징적 세라노스 탑",
   "at": "2026-08-05T15:00:49.727Z"
  },
+ "vancouver-stanley-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Vancouver_%28BC%2C_Canada%29%2C_Stanley_Park%2C_Hallelujah_Point_--_2022_--_2116.jpg/3840px-Vancouver_%28BC%2C_Canada%29%2C_Stanley_Park%2C_Hallelujah_Point_--_2022_--_2116.jpg": {
+  "slug": "vancouver-stanley-park",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Stanley Park sign with trees and greenery",
+  "at": "2026-10-21T13:29:32.322Z"
+ },
+ "vancouver-stanley-park-seawall-path\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Vancouver_%28BC%2C_Canada%29%2C_Stanley_Park%2C_Stanley_Park_Seawall_Path_--_2022_--_2056.jpg/3840px-Vancouver_%28BC%2C_Canada%29%2C_Stanley_Park%2C_Stanley_Park_Seawall_Path_--_2022_--_2056.jpg": {
+  "slug": "vancouver-stanley-park-seawall-path",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows seawall path with Vancouver skyline, representative view",
+  "at": "2026-10-21T13:29:32.639Z"
+ },
  "varanasi-chet-singh-ghat-varanasi\u0001https://upload.wikimedia.org/wikipedia/commons/b/b0/Varanasi_52_-_Chet_Singh_ghat_%2837661099921%29.jpg": {
   "slug": "varanasi-chet-singh-ghat-varanasi",
   "verdict": "MATCH",
@@ -30385,6 +30505,18 @@
   "verdict": "MATCH",
   "reason": "patrol re-check: Shows Torre dei Lamberti tower clearly with surrounding piazza buildings",
   "at": "2026-08-16T20:36:44.083Z"
+ },
+ "victoria-craigdarroch-castle\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Craigdarroch_Castle_just_after_sunset_-_view_from_the_south%2C_Victoria%2C_Canada_01.jpg/1920px-Craigdarroch_Castle_just_after_sunset_-_view_from_the_south%2C_Victoria%2C_Canada_01.jpg": {
+  "slug": "victoria-craigdarroch-castle",
+  "verdict": "MATCH",
+  "reason": "publish gate: Clear exterior view of Craigdarroch Castle, representative hero shot",
+  "at": "2026-10-21T13:29:32.024Z"
+ },
+ "victoria-royal-bc-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Main_entrance_to_Royal_British_Columbia_Museum%2C_Victoria%2C_British_Columbia_02.jpg/1920px-Main_entrance_to_Royal_British_Columbia_Museum%2C_Victoria%2C_British_Columbia_02.jpg": {
+  "slug": "victoria-royal-bc-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior entrance of Royal BC Museum, clearly representative",
+  "at": "2026-10-21T13:29:32.667Z"
  },
  "vigan-plaza-padre-jose-burgos\u0001https://upload.wikimedia.org/wikipedia/commons/6/6b/Plaza_Padre_Jose_Burgos%2C_Vigan%2C_Ilocos_Sur%2C_Apr_2026.jpg": {
   "slug": "vigan-plaza-padre-jose-burgos",
@@ -30591,11 +30723,29 @@
   "reason": "publish gate: Exterior view of Space Place observatory domes and building",
   "at": "2026-10-21T07:50:01.704Z"
  },
+ "wellington-wellington-cable-car\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Wellington_Cable_Car_%2820240206a%29_%2853532605708%29.jpg/1920px-Wellington_Cable_Car_%2820240206a%29_%2853532605708%29.jpg": {
+  "slug": "wellington-wellington-cable-car",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows red Wellington Cable Car with city view",
+  "at": "2026-10-21T13:29:32.612Z"
+ },
  "wellington-wellington-museum\u0001https://upload.wikimedia.org/wikipedia/commons/9/96/Stained_Glass_Wellington_Museum_%2830931131524%29.jpg": {
   "slug": "wellington-wellington-museum",
   "verdict": "MATCH",
   "reason": "publish gate: Stained glass window, plausible interior feature of museum",
   "at": "2026-10-20T14:47:55.108Z"
+ },
+ "whistler-olympic-rings\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/The_Olympic_Rings_in_Whistler_Village.jpg/3840px-The_Olympic_Rings_in_Whistler_Village.jpg": {
+  "slug": "whistler-olympic-rings",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Olympic Rings sculpture in Whistler village square",
+  "at": "2026-10-21T13:29:31.992Z"
+ },
+ "whistler-peak-2-peak\u0001https://upload.wikimedia.org/wikipedia/commons/7/7a/Peak_2_Peak_Whistler_-_panoramio.jpg": {
+  "slug": "whistler-peak-2-peak",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Peak 2 Peak gondola cabin over Whistler forest view",
+  "at": "2026-10-21T13:29:32.586Z"
  },
  "wuhan-2026-wuhan-open-snooker\u0001https://upload.wikimedia.org/wikipedia/commons/5/58/Snooker_table_selby.JPG": {
   "slug": "wuhan-2026-wuhan-open-snooker",

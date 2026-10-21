@@ -1,38 +1,38 @@
 ---
 lang: es
 slug: ho-chi-minh-city-3-days
-sourceHash: 3e25df237feadcdae38a7dc0e09d90b885d53859
-title: 'Ho Chi Minh City en 3 días: Skydeck, historia de guerra y el Zoológico de Saigón'
-description: Un itinerario de 3 días por Ho Chi Minh City que va desde las vistas desde la azotea del Bitexco y el mercado Bến Thành hasta el Museo de los Vestigios de Guerra y un bar junto a las vías del tren en Bình Thạnh, para terminar con historia colonial y el Zoológico y Jardín Botánico de Saigón.
-quickAnswer: 'Este es un itinerario de 3 días por Ho Chi Minh City: el primer día recorre Sài Gòn y Bến Thành con una vista panorámica desde lo alto, un mercado y el Palacio de la Independencia; el segundo día recorre Quận 3, Sài Gòn y Bình Thạnh con historia de guerra, comida callejera y un trago junto al río en un bar ferroviario; el tercer día recorre Sài Gòn y Sài Gòn Ward con un museo de historia, un desayuno en una cafetería y el Zoológico y Jardín Botánico de Saigón.'
+sourceHash: 938da8ac7d2b5aab32f3e9b1c67c4c25919a1b71
+title: 'Itinerario de 3 días por Ho Chi Minh: historia, comida callejera y vistas desde azoteas'
+description: Un itinerario de 3 días por Ho Chi Minh que va desde la historia bélica del Distrito 3 y la calma de Bến Thành, pasando por la vida nocturna local de Bình Thạnh y un bar en azotea con vistas al skyline, hasta el museo colonial, la comida callejera y los jardines botánicos de Sài Gòn Ward.
+quickAnswer: 'Este es un itinerario de 3 días por Ho Chi Minh: el primer día abarca el Museo de los Vestigios de Guerra, el almuerzo, un parque y un café por la zona del Distrito 3 y Bến Thành; el segundo día va desde un lugar local de copas en Bình Thạnh hasta ramen y un bar en la azotea; el tercer día se centra en Sài Gòn Ward, con un museo colonial, una zona gastronómica callejera y el Zoológico y Jardín Botánico de Saigón.'
 faq:
-  - q: ¿Cómo debería moverme durante este itinerario de 3 días?
-    a: 'Las paradas se encuentran a distancias variables: algunos días se conectan caminando en trayectos cortos, mientras que otros, como el tramo entre el almuerzo y la noche del día dos o el tramo entre el almuerzo y la noche del día tres, cubren suficiente distancia como para preferir el transporte público antes que caminar.'
-  - q: ¿Qué día implica más caminata entre paradas?
-    a: El día uno es el más apto para caminar, con cada parada a poca distancia a pie de la anterior, y termina en el Palacio de la Independencia por la noche.
-  - q: ¿Este itinerario tiene mucho contenido histórico?
-    a: 'Sí, la historia está presente en todo el recorrido: el Palacio de la Independencia el día uno, el Museo de los Vestigios de Guerra el día dos, y el Museo de Ho Chi Minh City el día tres abarcan distintas épocas del pasado de la ciudad.'
-  - q: ¿Cuál es el mejor momento del día para visitar el Skydeck en la azotea?
-    a: Ve un día de semana entre media mañana y primera hora de la tarde para evitar las multitudes, o llega justo al comenzar el día para disfrutar de la luz más clara.
-  - q: ¿La noche del día dos es muy turística?
-    a: No, Đô 1 Lon Quán, en Bình Thạnh, se describe como un lugar de barrio más que un bar turístico, ubicado junto a las vías del tren.
+  - q: ¿Cómo debería organizar el ritmo de estos 3 días en Ho Chi Minh?
+    a: Cada día combina una parada turística con comidas y un cierre más tranquilo, de modo que la historia o la cultura quedan para temprano en el día, y los lugares más relajados, como un parque, un café o un bar en la azotea, para más tarde.
+  - q: ¿Necesito transporte entre las paradas o puedo ir caminando?
+    a: La mayoría de las paradas dentro de un mismo día están a poca distancia a pie, generalmente menos de 15 minutos, con una excepción el segundo día, cuando la distancia entre el lugar de copas en Bình Thạnh y el almuerzo requiere transporte en lugar de caminar.
+  - q: ¿Cuál es el mejor momento para visitar el Museo de los Vestigios de Guerra y evitar las multitudes?
+    a: Ir temprano un día entre semana ayuda a evitar las multitudes de los autobuses turísticos y lo peor del calor del mediodía.
+  - q: ¿Este itinerario está muy cargado de historia, o también hay tiempo libre?
+    a: Hay un fuerte hilo histórico, especialmente el primer día y al comienzo del tercero, pero cada día equilibra eso con paradas relajadas, como un parque, un café, un bar en la azotea o los jardines botánicos.
+  - q: ¿Qué pasa si llueve durante el viaje?
+    a: El primer día tiene una alternativa indicada para días de lluvia, The Running Bean, como opción de restaurante bajo techo; el segundo y el tercer día no tienen alternativas indicadas, así que conviene planificar en torno a las paradas al aire libre de esos días.
 days:
-  - label: Vistas panorámicas a los íconos del Distrito 1
-    intro: El primer día sube a las alturas para obtener una vista general de la ciudad antes de adentrarse en las calles bulliciosas de Bến Thành, el distrito central de Ho Chi Minh City. Pasa de un panorama desde lo alto de una torre a un almuerzo vietnamita clásico, luego al mercado más conocido de la ciudad y finalmente al antiguo palacio presidencial para una visita nocturna.
-  - label: Historia de guerra a un trago junto a las vías del tren
-    intro: El día dos comienza en Quận 3 con una mañana intensa y significativa de historia bélica, para luego cruzar de regreso hacia Sài Gòn en busca de un almuerzo de comida callejera. Por la noche, el recorrido se extiende hasta Bình Thạnh para tomar algo junto a las vías del tren, una escena de barrio alejada del circuito turístico.
-  - label: Historia colonial a jardines y jirafas
-    intro: El último día se mantiene en los alrededores de Sài Gòn y Sài Gòn Ward, comenzando con la historia de la ciudad en un edificio de la época colonial, continuando con un desayuno abundante en una cafetería, y cerrando con una tarde tranquila entre los animales y los árboles frondosos del antiguo zoológico y jardín botánico.
+  - label: Historia del Distrito 3 a la calma de Ben Thanh
+    intro: El primer día comienza en el Distrito 3 con una mirada profunda y conmovedora a la historia de la guerra, para luego relajarse en la zona de Bến Thành con el almuerzo, un paseo por un parque con sombra y una tranquila parada para tomar café que cierra la jornada. Es un día que pasa de una historia intensa por la mañana a un recorrido pausado y relajado al atardecer.
+  - label: Sabor local de Binh Thanh a las alturas de la azotea
+    intro: El segundo día arranca en Bình Thạnh con un lugar de copas de barrio junto a las vías del tren, para luego cruzar a Sài Gòn Ward y disfrutar de un ramen con calma en las callejuelas del Little Japan. El día termina en lo alto de la ciudad, en un bar en la azotea de Nguyễn Thị Minh Khai con una amplia vista sobre Ho Chi Minh.
+  - label: Historia colonial a un cierre relajado entre jardines
+    intro: El último día transcurre en torno a Sài Gòn Ward, comenzando con un museo de la época colonial, continuando con un animado mercado cubierto de comida callejera para el almuerzo, y terminando con un tramo relajado y sin prisas entre viejos árboles frondosos y recintos de animales en el zoológico y los jardines botánicos.
 whys:
-  ho-chi-minh-city-saigon-skydeck: Un panorama desde el piso 49 de la ciudad es una manera natural de comenzar el viaje, y una visita un día de semana a media mañana significa menos gente y una luz más clara.
-  ho-chi-minh-city-hai-s-restaurant: Un restaurante relajado y muy bien valorado con patio, cerca del mercado, es una parada fácil y satisfactoria para almorzar en Bến Thành.
-  ho-chi-minh-city-ben-thanh-market: Es el mercado central y más reseñado del Distrito 1, justo donde convergen las calles principales, y una parada lógica por la tarde tras el almuerzo cercano.
-  ho-chi-minh-city-independence-palace: Este palacio presidencial de la década de 1960 cierra el día con una pieza significativa de la historia de la ciudad y con tiempo suficiente previsto para una visita completa.
-  ho-chi-minh-city-war-remnants-museum: Su exhibición de equipo militar al aire libre y sus galerías fotográficas interiores la convierten en una visita matutina intensa y esencial, mientras la energía todavía está fresca.
-  ho-chi-minh-city-ben-nghe-street-food: Un mercado de comida techado con decenas de puestos ofrece variedad de comida callejera sin tener que buscar vendedores individuales, una parada conveniente al mediodía.
-  ho-chi-minh-city-do-1-lon-quan: Un lugar de barrio para beber junto a las vías del tren en Bình Thạnh le da a la noche un contraste local y espontáneo frente a la historia del día.
-  ho-chi-minh-city-museum-of-ho-chi-minh-city: Alojado en un edificio de la época colonial, abarca la historia de Saigón y de la era revolucionaria, y funciona bien como una visita matutina enfocada.
-  ho-chi-minh-city-the-running-bean: Una cafetería grande y animada conocida por su buen café y un desayuno destacado, es una pausa cómoda a media jornada en el antiguo centro del Distrito 1.
-  ho-chi-minh-city-saigon-zoo-and-botanical-gardens: Árboles añejos que dan sombra, senderos bien cuidados y una amplia variedad de animales hacen de este un cierre fácil y sin prisas para el viaje.
+  ho-chi-minh-city-war-remnants-museum: A poca distancia a pie o en vehículo del Palacio de la Reunificación y la zona del Mercado Ben Thanh, ofrece tanto el material militar expuesto al aire libre como las galerías fotográficas en el interior, lo que lo convierte en la parada histórica más importante del día.
+  ho-chi-minh-city-hai-s-restaurant: A poca distancia a pie del Mercado Ben Thanh, es un favorito de siempre para disfrutar de clásicos vietnamitas accesibles como rollitos primavera, pho y platos en cazuela de barro, en un ambiente relajado de patio.
+  ho-chi-minh-city-tao-dan-park: Un parque con sombra y un denso dosel de árboles a poca distancia a pie del Mercado Ben Thanh, es un lugar gratuito y tranquilo para pasear después de una intensa mañana de museo.
+  ho-chi-minh-city-tonkin-specialty-coffee: Un café compacto y de diseño cuidado cerca de la rotonda del Mercado Bến Thành, es una manera relajada de cerrar el día con un café de especialidad en pour-over o al estilo vietnamita.
+  ho-chi-minh-city-do-1-lon-quan: Un lugar de copas de barrio al aire libre junto a la línea del tren en Bình Thạnh, ofrece aperitivos económicos para acompañar la bebida y la singular experiencia de ver pasar los trenes mientras se bebe.
+  ho-chi-minh-city-ippudo-le-thanh-ton: Ubicado en las calles del Little Japan, cerca de Lê Thánh Tôn, es un lugar cuidado y tranquilo para disfrutar de un ramen bien preparado, con fácil acceso después a los bares y restaurantes de los alrededores.
+  ho-chi-minh-city-social-club-rooftop-bar: En el piso 24 del Hôtel des Arts Saigon, este elegante bar en la azotea con piscina y amplias vistas de la ciudad es una parada final céntrica y sencilla tras un día de turismo.
+  ho-chi-minh-city-museum-of-ho-chi-minh-city: Situado en un edificio colonial francés de color amarillo pálido en Lý Tự Trọng, abarca dos plantas dedicadas a la historia de Saigón y de la era revolucionaria, con las que arranca el día.
+  ho-chi-minh-city-ben-nghe-street-food: Un extenso mercado cubierto de comida en Nam Kỳ Khởi Nghĩa, reúne carnes a la parrilla, mariscos, pho, banh xeo y cocos en un solo espacio apto para turistas, ideal para disfrutar de variedad con facilidad.
+  ho-chi-minh-city-saigon-zoo-and-botanical-gardens: Un antiguo zoológico y jardín que data de 1864, con elefantes, jirafas y grandes árboles de sombra a lo largo de senderos bien cuidados, ofrece un cierre sencillo y sin prisas para el viaje.
 rainWhys: {}
 ---

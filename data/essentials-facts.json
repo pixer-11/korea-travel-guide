@@ -1871,6 +1871,769 @@
         }
       }
     },
+    "Canada": {
+      "srcHash": "1736e891563f",
+      "en": {
+        "summary": [
+          {
+            "key": "entry",
+            "title": "eTA for most visitors",
+            "sub": "CAD $7, needed when arriving by air"
+          },
+          {
+            "key": "money",
+            "title": "Tap-to-pay cards widely used",
+            "sub": "CAD; cards accepted almost everywhere"
+          },
+          {
+            "key": "season",
+            "title": "June to August best",
+            "sub": "Warm weather, full park and city access"
+          },
+          {
+            "key": "transport",
+            "title": "Contactless transit payment",
+            "sub": "Tap bank card directly or use PRESTO/Compass"
+          }
+        ],
+        "visa": {
+          "cards": [
+            {
+              "name": "Visa-exempt entry",
+              "code": "",
+              "who": "Citizens of about 54 visa-exempt countries and territories",
+              "cost": "Free",
+              "stay": "up to six months",
+              "note": "Still need an eTA if arriving by air"
+            },
+            {
+              "name": "eTA",
+              "code": "",
+              "who": "Most visa-exempt travellers arriving by air",
+              "cost": "CA$7",
+              "stay": "up to five years validity",
+              "note": "Linked electronically to passport; applied for online in minutes"
+            },
+            {
+              "name": "Conditionally eligible eTA",
+              "code": "",
+              "who": "",
+              "cost": "CA$7",
+              "stay": "",
+              "note": "Can sometimes qualify for eTA instead of a full Temporary Resident Visa"
+            },
+            {
+              "name": "eTA/visa exempt",
+              "code": "",
+              "who": "",
+              "cost": "Free",
+              "stay": "",
+              "note": "US green card holders may still need an eTA alongside the card; check exact category"
+            }
+          ],
+          "warnings": [
+            {
+              "title": "Rules change often",
+              "text": "Eligibility lists and conditional pathways change, so always confirm on the official IRCC tool before booking."
+            },
+            {
+              "title": "eTA tied to air travel",
+              "text": "Entering by car, bus, train or boat generally does not require an eTA, only a valid passport and documents."
+            }
+          ]
+        },
+        "transport": {
+          "rows": [
+            {
+              "city": "Toronto",
+              "card": "PRESTO",
+              "contactless": "yes"
+            },
+            {
+              "city": "Vancouver",
+              "card": "Compass Card",
+              "contactless": "yes"
+            }
+          ],
+          "tips": [
+            {
+              "title": "Tap your bank card directly",
+              "text": "No local transit card required; tap physical or digital credit/debit card at the fare reader."
+            },
+            {
+              "title": "Tap on and off in Vancouver",
+              "text": "On SkyTrain and SeaBus you must tap both when boarding and leaving, or you are charged the maximum fare."
+            },
+            {
+              "title": "Book VIA Rail ahead",
+              "text": "Book ahead for popular routes and sleeper cabins on Canada's main long-distance rail network."
+            }
+          ]
+        },
+        "money": {
+          "budget": null,
+          "tips": [
+            {
+              "title": "Carry a little cash",
+              "text": "Some rural areas or minor vendors are card-only or cash-only in one direction."
+            },
+            {
+              "title": "Use partner ATMs",
+              "text": "Using your home bank's partner network reduces withdrawal fees."
+            },
+            {
+              "title": "Taxes added at checkout",
+              "text": "GST, and HST or PST depending on the province, are not included in posted prices."
+            },
+            {
+              "title": "Tip 15-20%",
+              "text": "Tipping is customary at sit-down restaurants, bars and for taxi or rideshare drivers."
+            }
+          ]
+        },
+        "season": {
+          "best": [
+            6,
+            7,
+            8
+          ],
+          "rows": []
+        },
+        "emergency": {
+          "numbers": [
+            {
+              "number": "911",
+              "label": "Police, fire, ambulance",
+              "note": "Works nationwide, including from foreign SIM cards with signal"
+            },
+            {
+              "number": "988",
+              "label": "Suicide and crisis helpline",
+              "note": "Available nationally since 2023"
+            },
+            {
+              "number": "311",
+              "label": "Non-emergency municipal line",
+              "note": "For noise complaints or minor issues not needing police dispatch"
+            }
+          ],
+          "chips": [
+            "Get travel medical insurance",
+            "Secure valuables in parked cars",
+            "Petty theft more common than violence",
+            "Vehicle theft a concern in some cities"
+          ]
+        }
+      },
+      "ko": {
+        "summary": [
+          {
+            "title": "대부분의 방문객은 eTA 필요",
+            "sub": "CAD $7, 항공편으로 입국 시 필요",
+            "key": "entry"
+          },
+          {
+            "title": "탭 결제 카드 광범위하게 사용",
+            "sub": "CAD; 거의 모든 곳에서 카드 사용 가능",
+            "key": "money"
+          },
+          {
+            "title": "6월~8월이 최적",
+            "sub": "따뜻한 날씨, 공원과 도시 전체 이용 가능",
+            "key": "season"
+          },
+          {
+            "title": "비접촉 교통 결제",
+            "sub": "은행 카드로 바로 탭하거나 PRESTO/Compass 이용",
+            "key": "transport"
+          }
+        ],
+        "visa": {
+          "cards": [
+            {
+              "name": "비자 면제 입국",
+              "code": "",
+              "who": "약 54개 비자 면제 국가 및 지역 국민",
+              "cost": "무료",
+              "stay": "최대 6개월",
+              "note": "항공편으로 입국 시에는 여전히 eTA 필요"
+            },
+            {
+              "name": "eTA",
+              "code": "",
+              "who": "항공편으로 입국하는 대부분의 비자 면제 여행자",
+              "cost": "CA$7",
+              "stay": "최대 5년 유효",
+              "note": "여권에 전자적으로 연결됨; 몇 분 만에 온라인으로 신청 가능"
+            },
+            {
+              "name": "조건부 eTA 자격",
+              "code": "",
+              "who": "",
+              "cost": "CA$7",
+              "stay": "",
+              "note": "정식 임시 거주 비자 대신 eTA 자격을 받을 수 있는 경우가 있음"
+            },
+            {
+              "name": "eTA/비자 면제",
+              "code": "",
+              "who": "",
+              "cost": "무료",
+              "stay": "",
+              "note": "미국 영주권 카드 소지자는 카드와 함께 eTA가 필요할 수 있음; 정확한 해당 범주 확인 필요"
+            }
+          ],
+          "warnings": [
+            {
+              "title": "규정이 자주 변경됨",
+              "text": "자격 목록과 조건부 경로가 변경되므로 예약 전 공식 IRCC 도구에서 항상 확인하세요."
+            },
+            {
+              "title": "eTA는 항공 여행에 연결됨",
+              "text": "자동차, 버스, 기차, 배로 입국하는 경우 일반적으로 eTA가 필요하지 않으며, 유효한 여권과 서류만 있으면 됩니다."
+            }
+          ]
+        },
+        "transport": {
+          "rows": [
+            {
+              "city": "토론토",
+              "card": "PRESTO",
+              "contactless": "yes"
+            },
+            {
+              "city": "밴쿠버",
+              "card": "Compass Card",
+              "contactless": "yes"
+            }
+          ],
+          "tips": [
+            {
+              "title": "은행 카드를 직접 탭하세요",
+              "text": "지역 교통 카드가 필요 없습니다; 실물 또는 디지털 신용/체크카드를 요금 단말기에 탭하세요."
+            },
+            {
+              "title": "밴쿠버에서는 탑승 시와 하차 시 모두 탭하세요",
+              "text": "SkyTrain과 SeaBus에서는 탑승 및 하차 시 모두 탭해야 하며, 그렇지 않으면 최대 요금이 부과됩니다."
+            },
+            {
+              "title": "VIA Rail은 미리 예약하세요",
+              "text": "캐나다의 주요 장거리 철도망에서 인기 노선과 침대칸은 미리 예약하세요."
+            }
+          ]
+        },
+        "money": {
+          "budget": null,
+          "tips": [
+            {
+              "title": "약간의 현금을 소지하세요",
+              "text": "일부 시골 지역이나 소규모 업체는 카드만 받거나 현금만 받는 경우가 있습니다."
+            },
+            {
+              "title": "제휴 ATM을 이용하세요",
+              "text": "본국 은행의 제휴 네트워크를 이용하면 인출 수수료를 줄일 수 있습니다."
+            },
+            {
+              "title": "세금은 계산 시 추가됨",
+              "text": "GST와 주에 따라 HST 또는 PST가 표시된 가격에 포함되어 있지 않습니다."
+            },
+            {
+              "title": "15-20% 팁",
+              "text": "레스토랑, 바, 택시 또는 라이드셰어 기사에게 팁을 주는 것이 관례입니다."
+            }
+          ]
+        },
+        "season": {
+          "rows": [],
+          "best": [
+            6,
+            7,
+            8
+          ]
+        },
+        "emergency": {
+          "numbers": [
+            {
+              "number": "911",
+              "label": "경찰, 소방, 구급차",
+              "note": "신호가 있는 외국 SIM카드를 포함하여 전국에서 작동"
+            },
+            {
+              "number": "988",
+              "label": "자살 및 위기 상담 전화",
+              "note": "2023년부터 전국적으로 이용 가능"
+            },
+            {
+              "number": "311",
+              "label": "비응급 시 지자체 민원 전화",
+              "note": "소음 불만이나 경찰 출동이 필요 없는 사소한 문제에 이용"
+            }
+          ],
+          "chips": [
+            "여행자 의료보험에 가입하세요",
+            "주차된 차량 안에 귀중품을 보관하세요",
+            "폭력보다 소매치기가 더 흔함",
+            "일부 도시에서는 차량 절도가 우려됨"
+          ]
+        }
+      },
+      "ja": {
+        "summary": [
+          {
+            "title": "ほとんどの旅行者にeTAが必要",
+            "sub": "CAD $7、航空機で入国する場合に必要",
+            "key": "entry"
+          },
+          {
+            "title": "タッチ決済カードが広く普及",
+            "sub": "CAD；ほぼどこでもカード利用可能",
+            "key": "money"
+          },
+          {
+            "title": "6月から8月がベスト",
+            "sub": "温暖な気候で公園や都市を満喫できる",
+            "key": "season"
+          },
+          {
+            "title": "非接触型交通決済",
+            "sub": "銀行カードを直接タップするか、PRESTO/Compassを利用",
+            "key": "transport"
+          }
+        ],
+        "visa": {
+          "cards": [
+            {
+              "name": "ビザ免除入国",
+              "code": "",
+              "who": "約54のビザ免除国・地域の国民",
+              "cost": "無料",
+              "stay": "最長6ヶ月",
+              "note": "航空機で入国する場合はeTAが依然として必要"
+            },
+            {
+              "name": "eTA",
+              "code": "",
+              "who": "航空機で入国するほとんどのビザ免除旅行者",
+              "cost": "CA$7",
+              "stay": "有効期間最長5年",
+              "note": "パスポートに電子的にリンクされ、オンラインで数分で申請可能"
+            },
+            {
+              "name": "条件付きeTA適格",
+              "code": "",
+              "who": "",
+              "cost": "CA$7",
+              "stay": "",
+              "note": "正式な一時居住ビザの代わりにeTAの資格を得られる場合がある"
+            },
+            {
+              "name": "eTA/ビザ免除",
+              "code": "",
+              "who": "",
+              "cost": "無料",
+              "stay": "",
+              "note": "米国グリーンカード保持者はカードと併せてeTAが必要な場合がある；正確な該当区分を確認すること"
+            }
+          ],
+          "warnings": [
+            {
+              "title": "規則が頻繁に変わる",
+              "text": "対象リストや条件付きの入国方法は変更されるため、予約前に必ず公式IRCCツールで確認してください。"
+            },
+            {
+              "title": "eTAは航空機での入国に関連",
+              "text": "車、バス、電車、船で入国する場合は通常eTAは不要で、有効なパスポートと書類があれば十分です。"
+            }
+          ]
+        },
+        "transport": {
+          "rows": [
+            {
+              "city": "トロント",
+              "card": "PRESTO",
+              "contactless": "yes"
+            },
+            {
+              "city": "バンクーバー",
+              "card": "Compass Card",
+              "contactless": "yes"
+            }
+          ],
+          "tips": [
+            {
+              "title": "銀行カードを直接タップ",
+              "text": "現地の交通カードは不要です；物理カードまたはデジタルのクレジット/デビットカードを改札機にタップしてください。"
+            },
+            {
+              "title": "バンクーバーでは乗車時と降車時の両方でタップ",
+              "text": "SkyTrainとSeaBusでは乗車時と降車時の両方でタップする必要があり、しないと最大運賃が請求されます。"
+            },
+            {
+              "title": "VIA Railは事前予約を",
+              "text": "カナダの主要長距離鉄道網では、人気の路線や寝台車両は事前に予約してください。"
+            }
+          ]
+        },
+        "money": {
+          "budget": null,
+          "tips": [
+            {
+              "title": "少額の現金を持ち歩く",
+              "text": "一部の地方や小規模店舗ではカードのみ、または現金のみの場合があります。"
+            },
+            {
+              "title": "提携ATMを利用する",
+              "text": "自国の銀行の提携ネットワークを利用すると引き出し手数料を抑えられます。"
+            },
+            {
+              "title": "税金はレジで加算される",
+              "text": "GST、および州によってはHSTまたはPSTが表示価格に含まれていません。"
+            },
+            {
+              "title": "チップは15～20%",
+              "text": "レストランでの食事、バー、タクシーやライドシェアの運転手へのチップが一般的です。"
+            }
+          ]
+        },
+        "season": {
+          "rows": [],
+          "best": [
+            6,
+            7,
+            8
+          ]
+        },
+        "emergency": {
+          "numbers": [
+            {
+              "number": "911",
+              "label": "警察、消防、救急車",
+              "note": "電波があれば海外のSIMカードを含め全国で利用可能"
+            },
+            {
+              "number": "988",
+              "label": "自殺・危機相談ホットライン",
+              "note": "2023年から全国で利用可能"
+            },
+            {
+              "number": "311",
+              "label": "緊急性のない市の相談窓口",
+              "note": "騒音苦情や警察の出動を必要としない軽微な問題に利用"
+            }
+          ],
+          "chips": [
+            "海外旅行医療保険に加入しましょう",
+            "駐車中の車内に貴重品を置かないようにしましょう",
+            "暴力よりも軽犯罪（窃盗）の方が多い",
+            "一部の都市では車両盗難が懸念される"
+          ]
+        }
+      },
+      "es": {
+        "summary": [
+          {
+            "title": "eTA para la mayoría de los visitantes",
+            "sub": "CAD $7, necesaria al llegar por avión",
+            "key": "entry"
+          },
+          {
+            "title": "Tarjetas de pago sin contacto ampliamente usadas",
+            "sub": "CAD; tarjetas aceptadas en casi todas partes",
+            "key": "money"
+          },
+          {
+            "title": "Junio a agosto es lo mejor",
+            "sub": "Clima cálido, acceso completo a parques y ciudades",
+            "key": "season"
+          },
+          {
+            "title": "Pago de transporte sin contacto",
+            "sub": "Toque su tarjeta bancaria directamente o use PRESTO/Compass",
+            "key": "transport"
+          }
+        ],
+        "visa": {
+          "cards": [
+            {
+              "name": "Entrada sin visa",
+              "code": "",
+              "who": "Ciudadanos de unos 54 países y territorios exentos de visa",
+              "cost": "Gratis",
+              "stay": "hasta seis meses",
+              "note": "Aún se necesita eTA si se llega por avión"
+            },
+            {
+              "name": "eTA",
+              "code": "",
+              "who": "La mayoría de los viajeros exentos de visa que llegan por avión",
+              "cost": "CA$7",
+              "stay": "validez de hasta cinco años",
+              "note": "Vinculada electrónicamente al pasaporte; se solicita en línea en minutos"
+            },
+            {
+              "name": "eTA con elegibilidad condicional",
+              "code": "",
+              "who": "",
+              "cost": "CA$7",
+              "stay": "",
+              "note": "A veces puede calificar para eTA en lugar de una Visa de Residente Temporal completa"
+            },
+            {
+              "name": "Exento de eTA/visa",
+              "code": "",
+              "who": "",
+              "cost": "Gratis",
+              "stay": "",
+              "note": "Los titulares de green card de EE. UU. aún pueden necesitar una eTA junto con la tarjeta; verificar la categoría exacta"
+            }
+          ],
+          "warnings": [
+            {
+              "title": "Las reglas cambian con frecuencia",
+              "text": "Las listas de elegibilidad y las vías condicionales cambian, así que confirme siempre en la herramienta oficial de IRCC antes de reservar."
+            },
+            {
+              "title": "La eTA está vinculada al viaje aéreo",
+              "text": "Entrar en auto, autobús, tren o barco generalmente no requiere eTA, solo un pasaporte válido y los documentos necesarios."
+            }
+          ]
+        },
+        "transport": {
+          "rows": [
+            {
+              "city": "Toronto",
+              "card": "PRESTO",
+              "contactless": "yes"
+            },
+            {
+              "city": "Vancouver",
+              "card": "Compass Card",
+              "contactless": "yes"
+            }
+          ],
+          "tips": [
+            {
+              "title": "Toque su tarjeta bancaria directamente",
+              "text": "No se requiere tarjeta de transporte local; toque la tarjeta de crédito/débito física o digital en el lector de tarifas."
+            },
+            {
+              "title": "Marque entrada y salida en Vancouver",
+              "text": "En el SkyTrain y el SeaBus debe tocar tanto al subir como al bajar, o se le cobrará la tarifa máxima."
+            },
+            {
+              "title": "Reserve VIA Rail con anticipación",
+              "text": "Reserve con anticipación las rutas populares y los coches cama en la principal red ferroviaria de larga distancia de Canadá."
+            }
+          ]
+        },
+        "money": {
+          "budget": null,
+          "tips": [
+            {
+              "title": "Lleve algo de efectivo",
+              "text": "Algunas zonas rurales o pequeños comercios aceptan solo tarjeta o solo efectivo."
+            },
+            {
+              "title": "Use cajeros automáticos asociados",
+              "text": "Usar la red de socios de su banco de origen reduce las comisiones por retiro."
+            },
+            {
+              "title": "Los impuestos se agregan al pagar",
+              "text": "El GST, y el HST o PST según la provincia, no están incluidos en los precios anunciados."
+            },
+            {
+              "title": "Propina del 15-20%",
+              "text": "Dar propina es habitual en restaurantes con servicio en mesa, bares y para taxistas o conductores de transporte compartido."
+            }
+          ]
+        },
+        "season": {
+          "rows": [],
+          "best": [
+            6,
+            7,
+            8
+          ]
+        },
+        "emergency": {
+          "numbers": [
+            {
+              "number": "911",
+              "label": "Policía, bomberos, ambulancia",
+              "note": "Funciona en todo el país, incluso con tarjetas SIM extranjeras con señal"
+            },
+            {
+              "number": "988",
+              "label": "Línea de ayuda para suicidio y crisis",
+              "note": "Disponible a nivel nacional desde 2023"
+            },
+            {
+              "number": "311",
+              "label": "Línea municipal de no emergencia",
+              "note": "Para quejas por ruido u otros asuntos menores que no requieren despacho policial"
+            }
+          ],
+          "chips": [
+            "Contrate un seguro médico de viaje",
+            "Guarde los objetos de valor en los autos estacionados",
+            "El hurto menor es más común que la violencia",
+            "El robo de vehículos es una preocupación en algunas ciudades"
+          ]
+        }
+      },
+      "zh": {
+        "summary": [
+          {
+            "title": "大多数访客需要eTA",
+            "sub": "CAD $7，搭乘飞机入境时需要",
+            "key": "entry"
+          },
+          {
+            "title": "感应式支付卡广泛使用",
+            "sub": "CAD；几乎所有地方都接受刷卡",
+            "key": "money"
+          },
+          {
+            "title": "6月至8月最佳",
+            "sub": "气候温暖，可畅游公园和城市",
+            "key": "season"
+          },
+          {
+            "title": "非接触式交通支付",
+            "sub": "直接刷银行卡，或使用PRESTO/Compass",
+            "key": "transport"
+          }
+        ],
+        "visa": {
+          "cards": [
+            {
+              "name": "免签证入境",
+              "code": "",
+              "who": "约54个免签证国家和地区的公民",
+              "cost": "免费",
+              "stay": "最长六个月",
+              "note": "若乘飞机抵达仍需办理eTA"
+            },
+            {
+              "name": "eTA",
+              "code": "",
+              "who": "大多数乘飞机抵达的免签证旅客",
+              "cost": "CA$7",
+              "stay": "有效期最长五年",
+              "note": "与护照电子关联；可在线申请，几分钟内完成"
+            },
+            {
+              "name": "有条件符合eTA资格",
+              "code": "",
+              "who": "",
+              "cost": "CA$7",
+              "stay": "",
+              "note": "有时可申请eTA代替完整的临时居民签证"
+            },
+            {
+              "name": "eTA/签证豁免",
+              "code": "",
+              "who": "",
+              "cost": "免费",
+              "stay": "",
+              "note": "美国绿卡持有者除绿卡外可能仍需办理eTA；请确认具体适用类别"
+            }
+          ],
+          "warnings": [
+            {
+              "title": "规定经常变化",
+              "text": "资格名单和有条件途径会发生变化，预订前请务必在官方IRCC工具上确认。"
+            },
+            {
+              "title": "eTA与航空旅行相关",
+              "text": "通过汽车、巴士、火车或船只入境通常不需要eTA，只需有效护照和相关证件。"
+            }
+          ]
+        },
+        "transport": {
+          "rows": [
+            {
+              "city": "多伦多",
+              "card": "PRESTO",
+              "contactless": "yes"
+            },
+            {
+              "city": "温哥华",
+              "card": "Compass Card",
+              "contactless": "yes"
+            }
+          ],
+          "tips": [
+            {
+              "title": "直接刷银行卡",
+              "text": "无需当地交通卡；在读卡器上刷实体或电子信用卡/借记卡即可。"
+            },
+            {
+              "title": "在温哥华上下车都要刷卡",
+              "text": "在SkyTrain和SeaBus上，上车和下车都必须刷卡，否则将按最高票价收费。"
+            },
+            {
+              "title": "提前预订VIA Rail",
+              "text": "在加拿大主要的长途铁路网络上，热门路线和卧铺车厢需提前预订。"
+            }
+          ]
+        },
+        "money": {
+          "budget": null,
+          "tips": [
+            {
+              "title": "随身携带一些现金",
+              "text": "部分乡村地区或小商家可能只收卡或只收现金。"
+            },
+            {
+              "title": "使用合作银行的ATM",
+              "text": "使用本国银行的合作网络可降低取款手续费。"
+            },
+            {
+              "title": "结账时会加收税费",
+              "text": "GST以及根据省份不同可能加收的HST或PST，均未包含在标价中。"
+            },
+            {
+              "title": "小费15-20%",
+              "text": "在正式餐厅、酒吧以及给出租车或网约车司机小费是惯例。"
+            }
+          ]
+        },
+        "season": {
+          "rows": [],
+          "best": [
+            6,
+            7,
+            8
+          ]
+        },
+        "emergency": {
+          "numbers": [
+            {
+              "number": "911",
+              "label": "警察、消防、救护车",
+              "note": "全国通用，包括有信号的外国SIM卡"
+            },
+            {
+              "number": "988",
+              "label": "自杀与危机求助热线",
+              "note": "自2023年起在全国范围内提供服务"
+            },
+            {
+              "number": "311",
+              "label": "市政非紧急服务热线",
+              "note": "用于噪音投诉或无需警察出动的小问题"
+            }
+          ],
+          "chips": [
+            "购买旅行医疗保险",
+            "将贵重物品锁好放在停放的车内",
+            "小偷小摸比暴力事件更常见",
+            "部分城市需留意车辆盗窃问题"
+          ]
+        }
+      }
+    },
     "China": {
       "srcHash": "86641cc6d264",
       "en": {

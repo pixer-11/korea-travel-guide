@@ -49,8 +49,7 @@ faq:
   - q: "What can I combine it with?"
     a: "A day trip to Gorkhi-Terelj National Park, with Turtle Rock and Aryabal Meditation Temple. Many drivers also add the Chinggis Khaan Equestrian Statue at Tsonjin Boldog, east of the city."
 aiGenerated: true
-draft: true
-heldReason: wrong-region
+draft: false
 ---
 
 ## East Ulaanbaatar, not the park
