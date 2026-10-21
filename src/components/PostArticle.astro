@@ -7,6 +7,9 @@ import {
   translatedTitles, translationsOf, itinerariesCiting, linkTargetsFor, livePosts,
 } from '../lib/post-index.mjs';
 import { nextEventFor } from '../lib/event-next.mjs';
+import { cityHeroForDay } from '../lib/dest-hub.mjs';
+import { heroWidth } from '../lib/ogPhoto.mjs';
+import { regionCoverUrl } from '../lib/repImage';
 import { siteHref } from '../lib/urls.mjs';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Newsletter from './Newsletter.astro';
@@ -593,6 +596,17 @@ if (faq.length) {
 // dated event (the whole reason the events hub can win "upcoming …" queries).
 if (d.category === 'event' && d.eventStartDate) {
   const isoDay = (x: string | Date) => new Date(x).toISOString().slice(0, 10);
+  // A photoless event (31 of 549 on 2026-10-21) had no image at all, and GSC
+  // mailed "'image' 입력란이 누락되었습니다". The answer is a real photograph of
+  // the host city — the city hub's own header photo (a venue guide's hero, a
+  // local festival, or the verified cover in data/region-covers.json) — never
+  // another event's performer and never the brand logo. None → still absent.
+  let eventImage = d.heroImage?.url ? new URL(d.heroImage.url, Astro.site).toString() : '';
+  if (!eventImage) {
+    const cityPosts = (await livePosts()).filter((p: any) => p.data.region === d.region && p.id !== post.id);
+    const cityHero = cityHeroForDay(cityPosts, heroWidth, buildToday());
+    eventImage = cityHero?.data.heroImage?.url || regionCoverUrl(d.region) || '';
+  }
   graph.push({
     '@type': 'Event',
     // The event's own name, never the article headline — Google prints this
@@ -617,7 +631,7 @@ if (d.category === 'event' && d.eventStartDate) {
     // was a place named after the city — "Austin" for Circuit of the Americas
     // (2026-09-02).
     location: eventLocation({ venue: d.eventVenue, region: d.region, countryISO }),
-    ...(d.heroImage?.url && { image: new URL(d.heroImage.url, Astro.site).toString() }),
+    ...(eventImage && { image: eventImage }),
     description: description,
     // Organizer only when it is the REAL one, verified and stored in the
     // post's own frontmatter (eventOrganizer). This used to declare Wander
