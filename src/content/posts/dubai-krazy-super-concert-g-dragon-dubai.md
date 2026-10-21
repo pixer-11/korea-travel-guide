@@ -38,6 +38,7 @@ faq:
 aiGenerated: true
 draft: true
 heldReason: content
+heldFinal: 'the concert was on Feb 17, 2026 at Dubai Media City Amphitheatre (krazysuperconcert.com, Billboard, Platinumlist), eight months before discovery found it on 2026-10-12; it was born with no eventStartDate, so the already-ended gate could not see it. Never live. Checked 2026-10-21.'
 ---
 
 ## A first for the UAE

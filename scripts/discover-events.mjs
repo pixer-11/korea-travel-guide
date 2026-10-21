@@ -230,6 +230,18 @@ function planDiscovered(item, ctx, log = console.log) {
     log(`    ⏭️  "${item.name}" — already over (${item.endDate || item.startDate}); not writing a new guide`);
     return null;
   }
+  // No date, no guide. The publish gate holds every event without
+  // eventStartDate, and nothing ever fills one in afterwards, so a dateless
+  // event was a full article plus four translations parked for good. Worse,
+  // the missing date is also what let two wrong ones through: the G-Dragon
+  // Dubai concert had been over since February, and Sunburn 2026 had moved to
+  // Mumbai — the already-over check above cannot judge an event with no date
+  // (both held, then retired, 2026-10-21). It comes back once a search finds it
+  // with its announced dates.
+  if (kind === 'event' && !isIsoDate(item.startDate)) {
+    log(`    ⏭️  "${item.name}" — no announced date; not writing a guide until there is one`);
+    return null;
+  }
 
   // "Dates, Tickets & Venue" replaced "What to Know" on 2026-08-07: GSC showed
   // event pages ranked 4-10 with CTR at half of expectation (EuroVolley: 449

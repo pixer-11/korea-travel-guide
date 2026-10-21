@@ -71,6 +71,7 @@ faq:
 aiGenerated: true
 draft: true
 heldReason: wrong-region
+heldFinal: 'The Kauri Museum is in Matakohe (Kaipara), about 96 km from both Paihia and Auckland, the nearest site regions; no region fits and one museum does not justify a new one. Never live. If Kaipara or Dargaville is ever added, regenerate it there. Decided 2026-10-21.'
 ---
 
 ## A whole industry in one building

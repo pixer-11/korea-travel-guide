@@ -41,6 +41,7 @@ faq:
 aiGenerated: true
 draft: true
 heldReason: content
+heldFinal: 'Sunburn 2026 is in MUMBAI, not Goa: Dec 18-19, 2026 at Mahalaxmi Racecourse (BookMyShow, Music Festival Wizard). This guide was written for Goa with no date and its venue facts are wrong; a Mumbai guide should be discovered fresh, not converted from this one. Never live. Checked 2026-10-21.'
 ---
 
 ## A festival built around year's end
