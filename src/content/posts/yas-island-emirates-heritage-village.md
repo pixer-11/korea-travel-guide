@@ -1,8 +1,8 @@
 ---
-title: "Emirates Heritage Village: Yas Island Travel Guide (4.3★)"
-description: "Emirates Heritage Village is listed under Yas Island, but it actually sits on the Breakwater beside Marina Mall on the Abu Dhabi Corniche, roughly a 30 to 40 minute drive from Yas Island. 4.3★ (12,689 reviews) — what visitors say, hours, and tips."
+title: 'Emirates Heritage Village: Abu Dhabi Travel Guide (4.3★)'
+description: Emirates Heritage Village sits on the Breakwater beside Marina Mall on the Abu Dhabi Corniche. 4.3★ (12,689 reviews) — what visitors say, hours, and tips.
 country: "United Arab Emirates"
-region: "Yas Island"
+region: Abu Dhabi
 category: "hidden-gem"
 pubDate: "2026-10-02T07:54:50.277Z"
 heroImage:
@@ -35,20 +35,20 @@ place:
     - "Saturday: 9:00 AM – 4:00 PM"
     - "Sunday: 9:00 AM – 4:00 PM"
 tags:
-  - "yas island"
-  - "old quarter"
-quickAnswer: "Emirates Heritage Village is listed under Yas Island, but it actually sits on the Breakwater beside Marina Mall on the Abu Dhabi Corniche, roughly a 30 to 40 minute drive from Yas Island. It's a rebuilt traditional desert village with exhibitions and events, and most people spend an hour or two there. It opens 9am to 4pm every day except Friday, when it opens 7:30am to 12pm and again 3pm to 9pm, so go in the morning or on a Friday evening."
+  - abu dhabi
+  - old quarter
+quickAnswer: Emirates Heritage Village sits on the Breakwater beside Marina Mall, at the western end of the Abu Dhabi Corniche. It's a rebuilt traditional desert village with exhibitions and events, and most people spend an hour or two there. It opens 9am to 4pm every day except Friday, when it opens 7:30am to 12pm and again 3pm to 9pm, so go in the morning or on a Friday evening.
 faq:
-  - q: "Is Emirates Heritage Village actually on Yas Island?"
-    a: "No. It's on Breakwater Road beside Marina Mall and the Abu Dhabi Theatre, at the western end of the Abu Dhabi Corniche. From Yas Island it's about a 30 to 40 minute drive."
-  - q: "What are the opening hours, and what's different on Friday?"
-    a: "It opens 9am to 4pm Saturday through Thursday. On Friday it opens 7:30am to 12pm, closes for midday prayers, and reopens 3pm to 9pm. Ramadan and holidays can change this, so check before you go."
-  - q: "How long should I spend there?"
-    a: "Allow 60 to 90 minutes for the huts, the tent, the falaj, the museum rooms and the craft stalls. Give yourself more time if you also want to walk the Breakwater promenade or visit Marina Mall."
-  - q: "What's the best time to visit?"
-    a: "Go on a morning between October and April, when walking between the huts is comfortable. Friday's 3pm to 9pm session is the only time you can be inside after dark, with the Corniche skyline lit up across the water."
-  - q: "What else is nearby?"
-    a: "Marina Mall is next door. The Corniche beach and promenade run east from the Breakwater, and Emirates Palace and Qasr Al Watan are a short drive west."
+  - q: Where exactly is Emirates Heritage Village?
+    a: On Breakwater Road beside Marina Mall and the Abu Dhabi Theatre, at the western end of the Abu Dhabi Corniche. From Yas Island it's about a 30 to 40 minute drive.
+  - q: What are the opening hours, and what's different on Friday?
+    a: It opens 9am to 4pm Saturday through Thursday. On Friday it opens 7:30am to 12pm, closes for midday prayers, and reopens 3pm to 9pm. Ramadan and holidays can change this, so check before you go.
+  - q: How long should I spend there?
+    a: Allow 60 to 90 minutes for the huts, the tent, the falaj, the museum rooms and the craft stalls. Give yourself more time if you also want to walk the Breakwater promenade or visit Marina Mall.
+  - q: What's the best time to visit?
+    a: Go on a morning between October and April, when walking between the huts is comfortable. Friday's 3pm to 9pm session is the only time you can be inside after dark, with the Corniche skyline lit up across the water.
+  - q: What else is nearby?
+    a: Marina Mall is next door. The Corniche beach and promenade run east from the Breakwater, and Emirates Palace and Qasr Al Watan are a short drive west.
 aiGenerated: true
 draft: false
 ---
@@ -73,9 +73,9 @@ The village describes itself as a venue for a "regular roster of events and exhi
 
 Allow 60 to 90 minutes. Add another half hour if you plan to walk the seafront afterwards.
 
-## Getting there from Yas Island
+## Getting there
 
-Abu Dhabi has no metro, so you'll be driving or taking a car. From Yas Island, a taxi or a Careem or Uber ride follows the E12 and the Corniche west to the Breakwater. Without heavy traffic it takes 30 to 40 minutes.
+Abu Dhabi has no metro, so you'll be driving or taking a car. A taxi or a Careem or Uber ride is the simplest way to reach the Breakwater. Coming from Yas Island, the ride follows the E12 and the Corniche west, and without heavy traffic it takes 30 to 40 minutes.
 
 Ask for Marina Mall or the Abu Dhabi Theatre. The village is on Breakwater Road next to both, so drivers know the turn-off. If you're driving yourself, Marina Mall's car park is the easiest place to leave the car before walking over. Public buses run along the Corniche, but from Yas they take far longer than a car.
 

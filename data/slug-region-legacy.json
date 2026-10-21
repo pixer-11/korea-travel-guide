@@ -58,13 +58,15 @@
   "termez-eco-park",
   "tiong-bahru-national-gallery-singapore",
   "xian-ancient-city-wall",
-  "xian-emperor-qinshihuang-s-mausoleum-site-museum"
+  "xian-emperor-qinshihuang-s-mausoleum-site-museum",
+  "yas-island-emirates-heritage-village"
  ],
  "notes": {
   "termez-eco-park": "2026-09-14: region corrected Termez -> Tashkent. The venue (address, coordinates, Google place, photo) was always Eco Park in Tashkent; the prose had invented a Termez setting. Slug kept so the live URL does not break.",
   "east-coast-sri-srinivasa-perumal-temple": "2026-09-14: region corrected East Coast -> Little India (397 Serangoon Rd). Slug kept so the live URL does not break.",
   "new-taipei-national-palace-museum": "2026-09-17: region corrected New Taipei -> Taipei (the museum is in Taipei City proper — Shilin / Datong). Slug kept so the live URL does not break.",
   "new-taipei-museum-of-contemporary-art-taipei": "2026-09-17: region corrected New Taipei -> Taipei (the museum is in Taipei City proper — Shilin / Datong). Slug kept so the live URL does not break.",
-  "2026-10-08": "Live guides retagged by hand after the region gate gained Path 0/3: the generator had filed them under the searched region and the writer invented a \"listed under\" excuse. URLs kept (live, IndexNow-submitted); region, title and prose fixed. Never-live drafts were re-slugged instead. Slugs: coloane-camoes-garden, coloane-village-bairro-iao-hon-municipal-market, coloane-village-hac-sa-reservoir-barbecue-park, hac-sa-lou-lim-ioc-garden, hac-sa-macao-museum, hac-sa-na-tcha-temple, kennedy-town-old-hong-kong, kep-popokvil-waterfall, kep-wat-sampov-pram, nape-templo-de-kun-iam, new-taipei-shilin-residence-park, playa-del-carmen-el-castillo"
+  "2026-10-08": "Live guides retagged by hand after the region gate gained Path 0/3: the generator had filed them under the searched region and the writer invented a \"listed under\" excuse. URLs kept (live, IndexNow-submitted); region, title and prose fixed. Never-live drafts were re-slugged instead. Slugs: coloane-camoes-garden, coloane-village-bairro-iao-hon-municipal-market, coloane-village-hac-sa-reservoir-barbecue-park, hac-sa-lou-lim-ioc-garden, hac-sa-macao-museum, hac-sa-na-tcha-temple, kennedy-town-old-hong-kong, kep-popokvil-waterfall, kep-wat-sampov-pram, nape-templo-de-kun-iam, new-taipei-shilin-residence-park, playa-del-carmen-el-castillo",
+  "yas-island-emirates-heritage-village": "2026-10-21: region corrected Yas Island -> Abu Dhabi (Breakwater Road beside Marina Mall, western end of the Corniche, 24.4767, 54.3310; 30-40 min drive from Yas). Live since 2026-10-12 and IndexNow-submitted, so the slug is kept; title remade with makeTitle and the writer's \"listed under Yas Island\" excuse removed from description, Quick Answer, FAQ and the Getting there section."
  }
 }
