@@ -1220,11 +1220,29 @@
   "reason": "patrol replace: BTS concert performance on stage",
   "at": "2026-08-19T19:51:37.777Z"
  },
+ "auckland-auckland-art-gallery\u0001https://upload.wikimedia.org/wikipedia/commons/c/cc/Auckland_Art_Gallery_%28235940523%29.jpeg": {
+  "slug": "auckland-auckland-art-gallery",
+  "verdict": "MATCH",
+  "reason": "publish gate: Gallery interior with artworks, representative of art gallery",
+  "at": "2026-10-21T07:49:46.778Z"
+ },
  "auckland-auckland-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Auckland_Museum_%E2%80%9CUnder_the_Dome%E2%80%9D.jpg/3840px-Auckland_Museum_%E2%80%9CUnder_the_Dome%E2%80%9D.jpg": {
   "slug": "auckland-auckland-museum",
   "verdict": "MATCH",
   "reason": "publish gate: Distinctive domed roof interior matches Auckland Museum's event space",
   "at": "2026-10-20T14:48:08.312Z"
+ },
+ "auckland-bharatiya-mandir-hindu-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Bharatiya_Mandir_Hindu_Temple_20241016_134036.jpg/1920px-Bharatiya_Mandir_Hindu_Temple_20241016_134036.jpg": {
+  "slug": "auckland-bharatiya-mandir-hindu-temple",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior shows temple domes and signage, representative view",
+  "at": "2026-10-21T07:50:01.676Z"
+ },
+ "auckland-cornwall-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Cornwall_Park_%281521027609%29.jpg/3840px-Cornwall_Park_%281521027609%29.jpg": {
+  "slug": "auckland-cornwall-park",
+  "verdict": "MATCH",
+  "reason": "publish gate: Park with stone steps, lawn, trees, people, representative view",
+  "at": "2026-10-21T07:50:01.726Z"
  },
  "auckland-sky-tower\u0001https://upload.wikimedia.org/wikipedia/commons/b/b6/The_Sky_Tower%2C_Auckland_-_panoramio.jpg": {
   "slug": "auckland-sky-tower",
@@ -6232,6 +6250,12 @@
   "verdict": "MISMATCH",
   "reason": "Chinese temple decoration, not a café interior/exterior",
   "at": "2026-07-25T02:42:06.624Z"
+ },
+ "christchurch-barnett-park-cave\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Barnett_Park_Cave_2025_view.jpg/3840px-Barnett_Park_Cave_2025_view.jpg": {
+  "slug": "christchurch-barnett-park-cave",
+  "verdict": "MATCH",
+  "reason": "publish gate: Cave opening with viewpoint over landscape, matches venue type",
+  "at": "2026-10-21T08:00:02.322Z"
  },
  "christchurch-christchurch-botanic-gardens\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Christchurch_Botanic_Gardens_16.jpg/1920px-Christchurch_Botanic_Gardens_16.jpg": {
   "slug": "christchurch-christchurch-botanic-gardens",
@@ -17476,6 +17500,12 @@
   "reason": "patrol reject: audit: Generic bar interior, no identifying Tigermilk features visi",
   "at": "2026-09-26T22:07:29.745Z"
  },
+ "matamata-firth-tower-reserve-and-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Firth_Tower_Museum%2C_Matamata_-_7978347696.jpg/3840px-Firth_Tower_Museum%2C_Matamata_-_7978347696.jpg": {
+  "slug": "matamata-firth-tower-reserve-and-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Museum display of period writing tools and books",
+  "at": "2026-10-21T07:49:46.735Z"
+ },
  "matamata-hobbiton-movie-set\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Waterhouse_Lake_Front.jpg/1920px-Waterhouse_Lake_Front.jpg": {
   "slug": "matamata-hobbiton-movie-set",
   "verdict": "MATCH",
@@ -20636,6 +20666,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows Paihia Wharf building, pier, and boats accurately",
   "at": "2026-10-20T14:47:21.882Z"
+ },
+ "paihia-the-kauri-museum\u0001https://upload.wikimedia.org/wikipedia/commons/2/24/Flickr_-_brewbooks_-_Kauri_museum_%281%29.jpg": {
+  "slug": "paihia-the-kauri-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Kauri log exhibit with historic photos, fits museum theme",
+  "at": "2026-10-21T07:49:46.672Z"
  },
  "paihia-waitangi-treaty-grounds\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Treaty_House_at_Waitangi_Treaty_Grounds.jpg/3840px-Treaty_House_at_Waitangi_Treaty_Grounds.jpg": {
   "slug": "paihia-waitangi-treaty-grounds",
@@ -28686,6 +28722,12 @@
   "reason": "publish gate: Shows waterfall plunging into turquoise water, matches Huka Falls",
   "at": "2026-10-20T14:47:55.224Z"
  },
+ "taupo-waipahihi-botanical-reserve\u0001https://upload.wikimedia.org/wikipedia/commons/0/01/Waipahihi_Botanical_Gardens.jpg": {
+  "slug": "taupo-waipahihi-botanical-reserve",
+  "verdict": "MATCH",
+  "reason": "publish gate: Plausible botanical reserve park scene with trees and lawn",
+  "at": "2026-10-21T07:49:46.757Z"
+ },
  "tbilisi-bridge-of-love\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Bridge_of_love_in_Abanotubani%2C_Tbilisi.jpg/3840px-Bridge_of_love_in_Abanotubani%2C_Tbilisi.jpg": {
   "slug": "tbilisi-bridge-of-love",
   "verdict": "MATCH",
@@ -30399,11 +30441,23 @@
   "reasonKo": "완차이 해변 산책로, 항구 전망",
   "at": "2026-09-18T16:41:58.744Z"
  },
+ "wanaka-national-transport-toy-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Collection_of_classic_British_and_European_cars_and_fire_trucks_at_Wanaka_Transport_and_Toy_Museum.jpg/1920px-Collection_of_classic_British_and_European_cars_and_fire_trucks_at_Wanaka_Transport_and_Toy_Museum.jpg": {
+  "slug": "wanaka-national-transport-toy-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows vintage cars and fire trucks inside transport museum",
+  "at": "2026-10-21T07:49:46.711Z"
+ },
  "wanaka-puzzling-world\u0001https://upload.wikimedia.org/wikipedia/commons/1/15/Puzzling_World%2C_New_Zealand.jpg": {
   "slug": "wanaka-puzzling-world",
   "verdict": "MATCH",
   "reason": "publish gate: Shows Puzzling World's iconic tilted buildings with visible sign",
   "at": "2026-10-20T14:48:08.222Z"
+ },
+ "wanaka-wanaka-lavender-farm\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/W%C4%81naka_Lavender_Farm_-_December_2025.jpg/3840px-W%C4%81naka_Lavender_Farm_-_December_2025.jpg": {
+  "slug": "wanaka-wanaka-lavender-farm",
+  "verdict": "MATCH",
+  "reason": "publish gate: Lavender field with hills, plausible for Wānaka farm",
+  "at": "2026-10-21T07:49:46.799Z"
  },
  "wanaka-wanaka-willow-tree\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Lonely_tree_of_Wanaka.jpg/3840px-Lonely_tree_of_Wanaka.jpg": {
   "slug": "wanaka-wanaka-willow-tree",
@@ -30524,6 +30578,18 @@
   "verdict": "MATCH",
   "reason": "publish gate: Exterior of Te Papa museum building, Wellington",
   "at": "2026-10-20T14:47:55.251Z"
+ },
+ "wellington-old-st-paul-s\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Old_St_Paul%27s_church%2C_Wellington%2C_2011-02-06.jpg_%285943136295%29.jpg/3840px-Old_St_Paul%27s_church%2C_Wellington%2C_2011-02-06.jpg_%285943136295%29.jpg": {
+  "slug": "wellington-old-st-paul-s",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Old St Paul's exterior, representative view, person incidental",
+  "at": "2026-10-21T07:50:01.749Z"
+ },
+ "wellington-space-place-at-carter-observatory\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Space_Place_at_Carter_Observatory.jpg/1920px-Space_Place_at_Carter_Observatory.jpg": {
+  "slug": "wellington-space-place-at-carter-observatory",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior view of Space Place observatory domes and building",
+  "at": "2026-10-21T07:50:01.704Z"
  },
  "wellington-wellington-museum\u0001https://upload.wikimedia.org/wikipedia/commons/9/96/Stained_Glass_Wellington_Museum_%2830931131524%29.jpg": {
   "slug": "wellington-wellington-museum",

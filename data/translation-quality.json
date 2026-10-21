@@ -36944,5 +36944,82 @@
   "registerBreak": false,
   "worst": "谷歌上给它的名字只有简简单单的“喷泉”（Fountain），这本身就说明了很多。",
   "at": "2026-10-20T16:51:58.113Z"
+ },
+ "es/auckland-bharatiya-mandir-hindu-temple": {
+  "hash": "9a14b1887dac",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Entre Dominion Road y Sandringham Road se suceden casas y coches hasta que, en el número 254",
+  "at": "2026-10-21T07:53:59.506Z"
+ },
+ "es/auckland-cornwall-park": {
+  "hash": "cd0c41f8a73b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Actualmente el parque abre todos los días de 7am a 8pm.",
+  "at": "2026-10-21T07:54:00.565Z"
+ },
+ "ja/auckland-auckland-art-gallery": {
+  "hash": "3048f5df163b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "もともとは市の図書館兼美術館として造られたもので、まるでロワール地方から運ばれてきたかのような佇まいです。",
+  "at": "2026-10-21T07:54:01.940Z"
+ },
+ "ja/auckland-bharatiya-mandir-hindu-temple": {
+  "hash": "e2a4e53742ff",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "このページの中でも、これを守ることが何より大切です。",
+  "at": "2026-10-21T07:54:06.402Z"
+ },
+ "ja/auckland-cornwall-park": {
+  "hash": "937b34b8ea3b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "散策中の人もサイクリストも家族連れも最後にはここへ集まるので、混雑する日の午後はカウンターに行列ができると考えておきましょう。",
+  "at": "2026-10-21T07:54:07.924Z"
+ },
+ "ko/auckland-auckland-art-gallery": {
+  "hash": "a237793f9375",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "혼잡도 수치는 분명하게 나타납니다.",
+  "at": "2026-10-21T07:54:09.117Z"
+ },
+ "ko/auckland-bharatiya-mandir-hindu-temple": {
+  "hash": "068d8b7f567b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "그 길을 따라 걷다 보면 254번지에서 힌두 사원 하나를 만나게 됩니다.",
+  "at": "2026-10-21T07:54:19.245Z"
+ },
+ "ko/auckland-cornwall-park": {
+  "hash": "31938dd98ae5",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-21T07:54:20.353Z"
+ },
+ "zh/auckland-auckland-art-gallery": {
+  "hash": "acf660a144f5",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "因此更推荐乘坐公共交通或步行前往，如果打算顺路去海滨一带逛逛，就更是如此。",
+  "at": "2026-10-21T07:54:21.744Z"
+ },
+ "zh/auckland-bharatiya-mandir-hindu-temple": {
+  "hash": "2e7189d7bf1b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "遵守礼仪，比本文其他任何内容都更重要：",
+  "at": "2026-10-21T07:54:27.729Z"
+ },
+ "zh/auckland-cornwall-park": {
+  "hash": "fd7be9b2c90e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "来访者通常会遵守以下几条习惯",
+  "at": "2026-10-21T07:54:33.889Z"
  }
 }

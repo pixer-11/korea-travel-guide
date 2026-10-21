@@ -6,12 +6,12 @@
    "hits": 15
   },
   "historic site": {
-   "attempts": 145,
-   "hits": 85
+   "attempts": 152,
+   "hits": 87
   },
   "park": {
-   "attempts": 161,
-   "hits": 96
+   "attempts": 167,
+   "hits": 99
   },
   "viewpoint": {
    "attempts": 83,
@@ -30,8 +30,8 @@
    "hits": 5
   },
   "museum": {
-   "attempts": 125,
-   "hits": 71
+   "attempts": 132,
+   "hits": 76
   },
   "noodles": {
    "attempts": 70,
@@ -54,8 +54,8 @@
    "hits": 4
   },
   "hidden gem": {
-   "attempts": 141,
-   "hits": 83
+   "attempts": 143,
+   "hits": 84
   },
   "breakfast": {
    "attempts": 67,
@@ -70,7 +70,7 @@
    "hits": 18
   },
   "bakery": {
-   "attempts": 57,
+   "attempts": 58,
    "hits": 3
   },
   "bar": {
@@ -82,7 +82,7 @@
    "hits": 2
   },
   "concept cafe": {
-   "attempts": 52,
+   "attempts": 53,
    "hits": 0
   },
   "top attraction": {
@@ -702,5 +702,5 @@
    "hits": 1
   }
  },
- "updated": "2026-10-20T14:48:08.329Z"
+ "updated": "2026-10-21T08:00:02.350Z"
 }
