@@ -2,7 +2,7 @@
 lang: ko
 slug: batumi-fountain
 srcHash: '28f18a39ddee'
-title: '바투미 여행 가이드: 분수(Fountain)'
+title: '분수(Fountain): 바투미 여행 가이드'
 description: 조지아 바투미의 분수(Fountain)는 보행로에 자리한 작은 분수로, 아직 여행자들에게 잘 알려지지 않은 곳입니다.
 quickAnswer: 조지아 바투미의 분수(Fountain)는 보행로에 자리한 작은 분수로, 아직 여행자들에게 잘 알려지지 않은 곳입니다. 지도 앱에 플러스 코드 JHFV+RR6을 입력하면 가장 빨리 찾을 수 있습니다. 현재 구글에는 24시간 개방으로 등록되어 있습니다. 아침이든 늦은 저녁이든 시내를 걷다가 잠깐 들르기 좋습니다.
 faq:

@@ -19,9 +19,15 @@ jobs:
       - name: Scan representative pages
         id: scan
         run: |
+          # hideElements (2026-10-21): what no reader can see or hear is not
+          # judged. aria-hidden decoration (the "·" byline separator, 1.34:1),
+          # [hidden] controls the checklist fills in only when it shows them,
+          # and Cloudflare's invisible 1x1 bot-check iframe on every page were
+          # 18 of the first 126 findings — noise that buried the real ones.
           cat > /tmp/pa11y.json <<'CFG'
           {
-            "defaults": { "standard": "WCAG2AA", "timeout": 45000, "chromeLaunchConfig": { "args": ["--no-sandbox"] } },
+            "defaults": { "standard": "WCAG2AA", "timeout": 45000, "chromeLaunchConfig": { "args": ["--no-sandbox"] },
+              "hideElements": "[aria-hidden=\"true\"], [hidden], iframe[style*=\"visibility: hidden\"]" },
             "urls": [
               "https://wanderatlasguides.com/",
               "https://wanderatlasguides.com/ko/",

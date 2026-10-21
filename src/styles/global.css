@@ -13,7 +13,9 @@
   --surface-2: #f4eee3;
   --ink: #201c17;
   --ink-soft: #4a443c;
-  --muted: #6f6659;
+  /* #6f6659 until 2026-10-21: 5.6:1 on white but 4.49:1 on the sand cards
+     (#efe4d3) the tools sit muted labels on — one hair under AA. */
+  --muted: #675e52;
   --line: #e4dccd;
   --line-soft: #efe8db;
   /* Faint cartographic dot-grid + depth glow for the page backdrop */
@@ -31,7 +33,9 @@
      are also fills behind white text, so they cannot turn light in dark mode;
      text reads this one instead (2026-10-05 audit: 1.6-2.0:1 on dark). */
   --brown-text: #7a3b1d;
-  --gold-text: #8a6414;
+  /* #8a6414 until 2026-10-21: 4.28:1 on the events tag sand, 4.34:1 on the
+     home "Affiliate" pill. This clears both (4.86 / 4.94). */
+  --gold-text: #7f5c12;
   --line-strong: #b3a689; /* interactive borders — --line is 1.23:1, invisible */
   --accent-soft: #f6e3df;
   /* A FILL with white text on it. Same as --accent in light; in dark --accent

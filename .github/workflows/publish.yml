@@ -719,6 +719,11 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
+          # A translated title with the city in front of the colon ("바투미 여행
+          # 가이드: 분수") reads as the place's name to every list and link. The
+          # fixer existed but nothing ran it — only the local `npm run ci` test
+          # saw it, a day after ko/batumi-fountain went live (2026-10-21).
+          node scripts/fix-reversed-titles.mjs --write 2>&1 | tail -3 || true
           node scripts/fix-ended-event-tense.mjs 2>&1 | tail -3 || true
           # The regex fixer only knows the sentences its own patterns know. An
           # ended guide still telling a reader to "check the official site

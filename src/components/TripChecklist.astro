@@ -272,7 +272,7 @@ const clientData = JSON.stringify({
               <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M12 21s-7-6.1-7-11.5A7 7 0 0 1 19 9.5C19 14.9 12 21 12 21zM12 12a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5z"/></svg>
             </button>
             <div class="ck-pop ck-dest" data-ck-pop="dest" role="dialog" aria-label={L.dest} hidden>
-              <input type="search" class="ck-dest-search" data-ck-dest-search placeholder={u.search} maxlength="40" autocomplete="off" />
+              <input type="search" class="ck-dest-search" data-ck-dest-search placeholder={u.search} aria-label={u.search} maxlength="40" autocomplete="off" />
               <button type="button" class="ck-dest-own" data-ck-dest-own hidden></button>
               <ul class="ck-dest-list" role="listbox">
                 {destCountries.map((c) => (
