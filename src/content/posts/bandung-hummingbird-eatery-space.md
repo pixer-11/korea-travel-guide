@@ -39,6 +39,7 @@ place:
     - 'Friday: 7:00 AM – 10:00 PM'
     - 'Saturday: 7:00 AM – 10:00 PM'
     - 'Sunday: 7:00 AM – 10:00 PM'
+  phone: '+62 22 4212582'
 tags:
   - bandung
   - local restaurant
