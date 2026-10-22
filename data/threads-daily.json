@@ -92,30 +92,30 @@
     "bangkok-bigbang-world-tour-xx-cosmos-in-bangkok",
     "mexico-city-boynextdoor-knock-on-tour",
     "san-fernando-giant-lantern-festival-ligligan-parul",
-    "shanghai-china-international-import-expo-ciie"
+    "shanghai-china-international-import-expo-ciie",
+    "san-francisco-balmy-alley"
   ],
-  "lastSentDay": "2026-10-22",
+  "lastSentDay": "2026-10-23",
   "material": {
-    "day": "2026-10-22",
-    "slug": "shanghai-china-international-import-expo-ciie",
-    "title": "China International Import Expo (CIIE): Dates, Tickets & Venue (Shanghai)",
+    "day": "2026-10-23",
+    "slug": "san-francisco-balmy-alley",
+    "title": "Balmy Alley: San Francisco Travel Guide (4.5★)",
     "urls": [
-      "https://wanderatlasguides.com/og/social/2026-10-22-shanghai-china-international-import-expo-ciie-1.jpg",
-      "https://wanderatlasguides.com/og/social/2026-10-22-shanghai-china-international-import-expo-ciie-2.jpg",
-      "https://wanderatlasguides.com/og/social/2026-10-22-shanghai-china-international-import-expo-ciie-3.jpg",
-      "https://wanderatlasguides.com/og/social/2026-10-22-shanghai-china-international-import-expo-ciie-4.jpg"
+      "https://wanderatlasguides.com/og/social/2026-10-23-san-francisco-balmy-alley-1.jpg",
+      "https://wanderatlasguides.com/og/social/2026-10-23-san-francisco-balmy-alley-2.jpg",
+      "https://wanderatlasguides.com/og/social/2026-10-23-san-francisco-balmy-alley-3.jpg"
     ],
-    "igCaption": "Six days, one giant four-leaf-clover building, and the whole world selling into China. The 9th CIIE hits Shanghai's NECC Nov 5-10, 2026 — real-name registration required, Line 2 metro gets you straight there.\n\n#Shanghai #China #events #travel #wanderatlas #CIIE #ChinaTravel #TradeExpo #Qingpu #TravelTips\n📷 Photo: Queseria la Antigua de Fuentesauco from Salamanca, España / Wikimedia Commons (CC BY 2.0) (edited)\n📷 Photo: International Trade Centre (ITC) / Wikimedia Commons (CC BY 2.0) (edited)\n📷 Photo: N509FZ / Wikimedia Commons (CC BY-SA 4.0) (edited)",
-    "thOption": "CIIE flips the usual trade fair script — instead of selling abroad, companies come to Shanghai to sell INTO China. Would you rather explore the Country Exhibition pavilions or dive straight into the Business Exhibition halls?",
-    "link": "https://wanderatlasguides.com/posts/shanghai-china-international-import-expo-ciie/"
+    "igCaption": "A single block in the Mission District where every garage door, fence, and wall is covered in murals — some dating back to the early 1970s. Walls get repainted as old ones fade, so this gallery never looks the same twice.\n\n#BalmyAlley #SanFrancisco #UnitedStates #travelguide #travel #wanderatlas #MissionDistrict #StreetArt #MuralArt #TravelGuide\n📷 Photo: DestinationFearFan / Wikimedia Commons (CC BY 4.0) (edited)\n📷 Photo: Foursquare user content (Balmy Alley) (edited)",
+    "thOption": "Balmy Alley murals have covered everything from 1980s Central America politics to today's gentrification debates. Which era of mural art would you want to see first?",
+    "link": "https://wanderatlasguides.com/posts/san-francisco-balmy-alley/"
   },
   "social": {
-    "thDay": "2026-10-22",
-    "thId": "18102978269289350",
-    "igDay": "2026-10-21",
-    "igId": "18114193268036036",
-    "thSlug": "shanghai-china-international-import-expo-ciie",
-    "igSlug": "san-fernando-giant-lantern-festival-ligligan-parul",
+    "thDay": "2026-10-23",
+    "thId": "18112241675622761",
+    "igDay": "2026-10-23",
+    "igId": "18088207508304384",
+    "thSlug": "san-francisco-balmy-alley",
+    "igSlug": "san-francisco-balmy-alley",
     "history": [
       {
         "day": "2026-10-10",
@@ -229,7 +229,25 @@
         "day": "2026-10-16",
         "slug": "sai-kung-sai-kung-seafood-street",
         "thId": "18170562871463683",
-        "igId": "17880194340578486"
+        "igId": "17880194340578486",
+        "insights": {
+          "at": "2026-10-23",
+          "th": {
+            "views": 7,
+            "likes": 0,
+            "replies": 0,
+            "reposts": 0,
+            "quotes": 0
+          },
+          "ig": {
+            "reach": 0,
+            "saved": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "views": 0
+          }
+        }
       },
       {
         "day": "2026-10-17",
@@ -262,6 +280,12 @@
         "day": "2026-10-22",
         "slug": "shanghai-china-international-import-expo-ciie",
         "thId": "18102978269289350"
+      },
+      {
+        "day": "2026-10-23",
+        "slug": "san-francisco-balmy-alley",
+        "thId": "18112241675622761",
+        "igId": "18088207508304384"
       }
     ]
   }
