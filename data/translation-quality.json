@@ -37098,5 +37098,89 @@
   "registerBreak": false,
   "worst": "正因如此，下一部分内容格外要紧。",
   "at": "2026-10-21T14:39:14.911Z"
+ },
+ "es/banff-banff-park-museum-national-historic-site": {
+  "hash": "8649c4d8cc37",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Se trata del horario de esta semana, no de uno fijo.",
+  "at": "2026-10-22T07:52:26.881Z"
+ },
+ "es/kolkata-flurys": {
+  "hash": "320956dd0176",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Así resulta fácil llegar desde Esplanade o desde el sur de la ciudad sin pelearse con el tráfico",
+  "at": "2026-10-22T07:52:28.038Z"
+ },
+ "es/lake-louise-mount-temple": {
+  "hash": "2313a41b4b0f",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-22T07:52:29.939Z"
+ },
+ "ja/banff-banff-park-museum-national-historic-site": {
+  "hash": "45169fd9f154",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "この時代には捕食動物の駆除が行われており、動物の見せ方にもそれが表れています。",
+  "at": "2026-10-22T07:52:31.033Z"
+ },
+ "ja/kolkata-flurys": {
+  "hash": "7711b39b1a8b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "この通りで名の知れたレストランやバーよりも先に、一日が始まります。",
+  "at": "2026-10-22T07:52:33.313Z"
+ },
+ "ja/lake-louise-mount-temple": {
+  "hash": "b1ac28dc6643",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "登山の尺度でいえば、易しい側は本当に易しいのです。",
+  "at": "2026-10-22T07:52:37.108Z"
+ },
+ "ko/banff-banff-park-museum-national-historic-site": {
+  "hash": "42517bbb3d75",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "비가 와서 산책로 상태가 나쁘고 마땅히 갈 곳 없는 사람들로 시내가 붐비는 오후에 들르기에 제격입니다.",
+  "at": "2026-10-22T07:52:46.579Z"
+ },
+ "ko/kolkata-flurys": {
+  "hash": "dacbf6180935",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "달걀 요리값만큼이나 이 주소와 역사에도 돈을 내는 셈입니다.",
+  "at": "2026-10-22T07:52:47.652Z"
+ },
+ "ko/lake-louise-mount-temple": {
+  "hash": "53d3d0a1884c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이 역사가 의미하는 바가 있습니다. 쉬운 쪽은 등반의 기준으로 볼 때 정말 쉽다는 뜻입니다.",
+  "at": "2026-10-22T07:52:53.624Z"
+ },
+ "zh/banff-banff-park-museum-national-historic-site": {
+  "hash": "9fc3b91c8f09",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "下雨天的午后来这里最合适：步道泥泞难行，镇上满是无处可去的游客。",
+  "at": "2026-10-22T07:52:54.849Z"
+ },
+ "zh/kolkata-flurys": {
+  "hash": "591984d0ea3a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "落到实处，就是一份菜单既有全套英式早餐，也有奶油夹心酥点，两者搭配得理直气壮。",
+  "at": "2026-10-22T07:52:56.373Z"
+ },
+ "zh/lake-louise-mount-temple": {
+  "hash": "3f9a17f1ee0b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "能攀爬的季节很短。上段山脊的积雪通常要到7月才化完，在那之前，这条路线需要冰镐，也需要真本事。",
+  "at": "2026-10-22T07:52:57.714Z"
  }
 }

@@ -1898,6 +1898,12 @@
   "reason": "publish gate: Scenic view from Banff Gondola overlook, consistent with locale",
   "at": "2026-10-21T13:29:32.295Z"
  },
+ "banff-banff-park-museum-national-historic-site\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Banff_Park_Museum_3.JPG/1920px-Banff_Park_Museum_3.JPG": {
+  "slug": "banff-banff-park-museum-national-historic-site",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior view of the wooden museum building itself",
+  "at": "2026-10-22T07:49:24.220Z"
+ },
  "bangkok-808-festival-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BITEC.JPG/1920px-BITEC.JPG": {
   "slug": "bangkok-808-festival-2026",
   "verdict": "CITY-TIER",
@@ -14267,6 +14273,12 @@
   "reasonKo": "야자수, 꽃, 수변이 있는 공원",
   "at": "2026-08-17T13:25:11.396Z"
  },
+ "kolkata-flurys\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flurys%2C_Park_Street%2C_Kolkata%2C_Street_View.jpg/1920px-Flurys%2C_Park_Street%2C_Kolkata%2C_Street_View.jpg": {
+  "slug": "kolkata-flurys",
+  "verdict": "MATCH",
+  "reason": "publish gate: Storefront exterior clearly shows Flurys signage and entrance",
+  "at": "2026-10-22T07:49:24.286Z"
+ },
  "kolkata-howrah-bridge\u0001https://upload.wikimedia.org/wikipedia/commons/c/cb/Howrah_bridge_at_night.jpg": {
   "slug": "kolkata-howrah-bridge",
   "verdict": "MATCH",
@@ -15337,11 +15349,23 @@
   "reason": "publish gate: Classic Lake Louise view with lake, mountains, boathouse",
   "at": "2026-10-21T13:29:32.540Z"
  },
+ "lake-louise-mount-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Mount_Temple_from_Saddle_Mountain_south_of_Lake_Louise.jpg/3840px-Mount_Temple_from_Saddle_Mountain_south_of_Lake_Louise.jpg": {
+  "slug": "lake-louise-mount-temple",
+  "verdict": "MATCH",
+  "reason": "publish gate: Snow-capped mountain peak, plausible representative view of Mount Temple",
+  "at": "2026-10-22T07:49:24.440Z"
+ },
  "lake-louise-sentinel-pass\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sentinel_Pass.jpg/3840px-Sentinel_Pass.jpg": {
   "slug": "lake-louise-sentinel-pass",
   "verdict": "MATCH",
   "reason": "publish gate: Mountain pass landscape with lake, consistent with Sentinel Pass",
   "at": "2026-10-21T13:29:32.083Z"
+ },
+ "lake-tekapo-steampunk-hq\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Steampunk_engine_in_front_of_Steampunk_HQ.jpg/1920px-Steampunk_engine_in_front_of_Steampunk_HQ.jpg": {
+  "slug": "lake-tekapo-steampunk-hq",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Steampunk HQ sign and sculpture, representative hero",
+  "at": "2026-10-22T07:49:24.166Z"
  },
  "lake-tekapo-the-church-of-the-good-shepherd\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Church_of_the_Good_Shepherd%2C_Lake_Tekapo%2C_New_Zealand.jpg/3840px-Church_of_the_Good_Shepherd%2C_Lake_Tekapo%2C_New_Zealand.jpg": {
   "slug": "lake-tekapo-the-church-of-the-good-shepherd",
@@ -18657,6 +18681,12 @@
   "reason": "event publish gate: Performers on stage during KATSEYE concert performance",
   "at": "2026-10-21T23:53:37.328Z"
  },
+ "montreal-montreal-museum-of-fine-arts\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Museum_of_Fine_Arts%2C_main_entrance%2C_Montreal.jpg/1920px-Museum_of_Fine_Arts%2C_main_entrance%2C_Montreal.jpg": {
+  "slug": "montreal-montreal-museum-of-fine-arts",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior facade of Montreal Museum of Fine Arts entrance",
+  "at": "2026-10-22T07:49:24.317Z"
+ },
  "montreal-notre-dame-basilica-of-montreal\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Notre-Dame_Basilica_Interior%2C_Montreal%2C_Canada_-_Diliff.jpg/3840px-Notre-Dame_Basilica_Interior%2C_Montreal%2C_Canada_-_Diliff.jpg": {
   "slug": "montreal-notre-dame-basilica-of-montreal",
   "verdict": "MATCH",
@@ -20324,6 +20354,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows waterfall and visitors in ponchos, matches attraction",
   "at": "2026-10-21T13:29:32.186Z"
+ },
+ "niagara-falls-ripley-s-believe-it-or-not\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Ripley%27s_Believe_It_or_Not%2C_Niagara_Falls_2026.jpg/3840px-Ripley%27s_Believe_It_or_Not%2C_Niagara_Falls_2026.jpg": {
+  "slug": "niagara-falls-ripley-s-believe-it-or-not",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of Ripley's Believe It or Not, Niagara Falls",
+  "at": "2026-10-22T07:49:24.379Z"
  },
  "niagara-falls-table-rock-welcome-centre\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Niagara_falls_visitor_center_04.07.2012_14-48-37.jpg/1920px-Niagara_falls_visitor_center_04.07.2012_14-48-37.jpg": {
   "slug": "niagara-falls-table-rock-welcome-centre",
@@ -23189,6 +23225,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Iconic exterior view of Château Frontenac in winter",
   "at": "2026-10-21T13:29:32.483Z"
+ },
+ "quebec-city-musee-national-des-beaux-arts-du-quebec\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Mus%C3%A9e_national_des_beaux-arts_du_Qu%C3%A9bec_2017.jpg/3840px-Mus%C3%A9e_national_des_beaux-arts_du_Qu%C3%A9bec_2017.jpg": {
+  "slug": "quebec-city-musee-national-des-beaux-arts-du-quebec",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows classical museum building exterior with Quebec flag",
+  "at": "2026-10-22T07:49:24.410Z"
  },
  "quebec-city-place-royale\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Maison_Barbel_on_Place_Royale_at_night%2C_Quebec_City.jpg/3840px-Maison_Barbel_on_Place_Royale_at_night%2C_Quebec_City.jpg": {
   "slug": "quebec-city-place-royale",
@@ -30993,6 +31035,12 @@
   "reason": "event publish gate: Performer group photo of BOYNEXTDOOR band members",
   "at": "2026-10-21T23:54:16.886Z"
  },
+ "vancouver-museum-of-anthropology-at-ubc\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Museum_of_Anthropology_UBC_01.jpg/1920px-Museum_of_Anthropology_UBC_01.jpg": {
+  "slug": "vancouver-museum-of-anthropology-at-ubc",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior view of MOA's iconic concrete and glass architecture",
+  "at": "2026-10-22T07:49:24.348Z"
+ },
  "vancouver-stanley-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Vancouver_%28BC%2C_Canada%29%2C_Stanley_Park%2C_Hallelujah_Point_--_2022_--_2116.jpg/3840px-Vancouver_%28BC%2C_Canada%29%2C_Stanley_Park%2C_Hallelujah_Point_--_2022_--_2116.jpg": {
   "slug": "vancouver-stanley-park",
   "verdict": "MATCH",
@@ -31153,6 +31201,18 @@
   "verdict": "MATCH",
   "reason": "publish gate: Clear exterior view of Craigdarroch Castle, representative hero shot",
   "at": "2026-10-21T13:29:32.024Z"
+ },
+ "victoria-hatley-castle\u0001https://upload.wikimedia.org/wikipedia/commons/9/9d/Hatley_Castle.jpg": {
+  "slug": "victoria-hatley-castle",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Hatley Castle exterior with grounds, representative view",
+  "at": "2026-10-22T07:49:24.471Z"
+ },
+ "victoria-miniature-world\u0001https://upload.wikimedia.org/wikipedia/commons/5/5e/Miniature_World%2C_Victoria%2C_B.C._%288460108230%29.jpg": {
+  "slug": "victoria-miniature-world",
+  "verdict": "MATCH",
+  "reason": "publish gate: Miniature figures and corral scene, representative of Miniature World",
+  "at": "2026-10-22T07:49:24.255Z"
  },
  "victoria-royal-bc-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Main_entrance_to_Royal_British_Columbia_Museum%2C_Victoria%2C_British_Columbia_02.jpg/1920px-Main_entrance_to_Royal_British_Columbia_Museum%2C_Victoria%2C_British_Columbia_02.jpg": {
   "slug": "victoria-royal-bc-museum",
@@ -31376,6 +31436,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Stained glass window, plausible interior feature of museum",
   "at": "2026-10-20T14:47:55.108Z"
+ },
+ "whistler-brandywine-falls-provincial-park\u0001https://upload.wikimedia.org/wikipedia/commons/4/49/BrandywineFalls_1200W.jpg": {
+  "slug": "whistler-brandywine-falls-provincial-park",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows waterfall plunging into canyon, matches Brandywine Falls",
+  "at": "2026-10-22T07:57:56.842Z"
  },
  "whistler-olympic-rings\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/The_Olympic_Rings_in_Whistler_Village.jpg/3840px-The_Olympic_Rings_in_Whistler_Village.jpg": {
   "slug": "whistler-olympic-rings",
