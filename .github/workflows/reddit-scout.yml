@@ -63,8 +63,10 @@ jobs:
 
       # The seen ledger is what stops the same thread being offered twice. It
       # has to survive the run, and a runner is thrown away — so it is committed.
+      # always(): a run that lost ONE card still recorded the ones the owner
+      # received, and skipping this commit sent them again next run (10-22).
       - name: Commit the seen ledger
-        if: success()
+        if: always()
         run: |
           git config user.name  'content-bot'
           git config user.email 'bot@users.noreply.github.com'

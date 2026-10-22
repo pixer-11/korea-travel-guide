@@ -25,8 +25,22 @@ export function telegramCreds() {
   return token && chatId ? { token, chatId } : null;
 }
 
+// One more try, 3s later, when the failure is the network's rather than
+// Telegram's answer about the message: "fetch failed" (a dropped connection on
+// the runner), 429, or a 5xx. On 2026-10-22 one Reddit card of three was lost
+// to a single "fetch failed" and the whole run reported failure. A 4xx refusal
+// is not retried — sending the same text again gets the same answer.
+async function send(url, init) {
+  try {
+    const res = await fetch(url, init);
+    if (res.status !== 429 && res.status < 500) return res;
+  } catch { /* network — fall through to the retry */ }
+  await new Promise((r) => setTimeout(r, 3000));
+  return fetch(url, init);
+}
+
 async function call(token, method, init) {
-  const res = await fetch(`${API}/bot${token}/${method}`, init);
+  const res = await send(`${API}/bot${token}/${method}`, init);
   // Status only: Telegram answers a rejection with 4xx/5xx, and reading the
   // body first would swallow the reason on a response that is not JSON at all
   // (a proxy error page, a rate-limit HTML page).

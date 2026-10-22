@@ -104,3 +104,23 @@ test('multipart sends carry chat_id and follow the same refusal rule', async () 
     assert.equal(calls.length, 0);
   });
 });
+
+// 2026-10-22: one Reddit card of three lost to a single "fetch failed".
+test('a dropped connection is retried once and the send still lands', async () => {
+  let n = 0;
+  await withEnv({ token: 'T', chat: '42' }, () => {
+    n++;
+    if (n === 1) throw new TypeError('fetch failed');
+    return ok();
+  }, async (calls) => {
+    assert.equal(await sendTelegram('카드'), true);
+    assert.equal(calls.length, 2);
+  });
+});
+
+test('a 4xx refusal is not retried — the same text gets the same answer', async () => {
+  await withEnv({ token: 'T', chat: '42' }, refused(400, '{"ok":false,"description":"message is too long"}'), async (calls) => {
+    await assert.rejects(() => sendTelegram('x'), /400/);
+    assert.equal(calls.length, 1);
+  });
+});

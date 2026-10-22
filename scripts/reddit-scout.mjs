@@ -42,7 +42,9 @@ const MAX_CARDS = 3;
 // our event guides are written for. Neither was on the list.
 const SUBS = [
   'JapanTravel', 'JapanTravelTips', 'koreatravel',
-  'ThailandTourism', 'VietnamTravel', 'kpophelp', 'travel', 'solotravel',
+  // VietnamTravel removed 2026-10-23: Reddit banned the subreddit itself (its
+  // feed answers 404 with "vietnamtravel: banned" since 10-22).
+  'ThailandTourism', 'kpophelp', 'travel', 'solotravel',
   // Shoestring removed 2026-10-05: the account was permanently banned there on
   // 10-01 (mod message, no rule named). A card for a sub we cannot post in is
   // wasted, and posting there from any other account is ban evasion.
@@ -203,6 +205,7 @@ console.log(`${cards.length} card(s) drafted`);
 // threads are re-offered next night. (A re-drafted duplicate card in the
 // owner's Telegram is cheap; a silently consumed thread is not.)
 let undelivered = 0;
+const undeliveredIds = new Set();
 for (const c of cards) {
   const text = [
     `🎯 레딧 답변 카드 — r/${c.sub} (${c.ageH}시간 전 · 댓글 ${c.comments}개)`,
@@ -226,14 +229,18 @@ for (const c of cards) {
   // Counted, never thrown: one refused card must not abandon the rest, and the
   // tally is what keeps the ledger unwritten so these threads come back.
   try {
-    if (!(await sendTelegram(text, { disable_web_page_preview: true }))) { console.log('\n' + text); undelivered++; }
-  } catch (e) { console.error(e.message); undelivered++; }
+    if (!(await sendTelegram(text, { disable_web_page_preview: true }))) { console.log('\n' + text); undelivered++; undeliveredIds.add(c.id); }
+  } catch (e) { console.error(e.message); undelivered++; undeliveredIds.add(c.id); }
 }
 if (!DRY) {
+  // Only the threads whose card did NOT arrive stay fresh. Skipping the whole
+  // ledger on one failure (2026-10-22: 1 of 3 lost to "fetch failed") meant the
+  // two the owner HAD received were drafted and sent again the next run.
+  seen.ids = seen.ids.filter((id) => !undeliveredIds.has(id));
+  writeFileSync(SEEN, JSON.stringify({ ids: seen.ids.slice(-500) }, null, 2) + '\n');
   if (undelivered) {
-    console.error(`${undelivered}/${cards.length} card(s) NOT delivered — ledger not written, threads stay fresh for the next run`);
+    console.error(`${undelivered}/${cards.length} card(s) NOT delivered — those threads stay fresh for the next run; the delivered ones are recorded`);
     process.exit(1);
   }
-  writeFileSync(SEEN, JSON.stringify({ ids: seen.ids.slice(-500) }, null, 2) + '\n');
 }
 console.log(DRY ? '(dry run — nothing sent)' : `${cards.length} card(s) sent to Telegram`);
