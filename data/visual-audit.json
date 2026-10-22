@@ -9526,9 +9526,9 @@
  },
  "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/2/2d/BWF_Badminton_World_Tour.jpg": {
   "slug": "hangzhou-bwf-world-tour-finals",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Badminton match at professional tournament venue",
-  "at": "2026-10-22T00:08:52.093Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares no word with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-22T08:00:48.700Z"
  },
  "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/f/f8/HSBC_BWF_Badminton_World_Tour.jpg": {
   "slug": "hangzhou-bwf-world-tour-finals",
@@ -10505,9 +10505,9 @@
  },
  "hong-kong-hong-kong-open-badminton\u0001https://upload.wikimedia.org/wikipedia/commons/2/25/Badminton_court_view.jpg": {
   "slug": "hong-kong-hong-kong-open-badminton",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Indoor badminton court with shuttlecocks and racket",
-  "at": "2026-10-22T00:09:16.673Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"badminton\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-22T08:00:48.899Z"
  },
  "hong-kong-hong-kong-open-badminton\u0001https://upload.wikimedia.org/wikipedia/commons/9/90/Badminton_racket.jpg": {
   "slug": "hong-kong-hong-kong-open-badminton",
@@ -15906,9 +15906,9 @@
  },
  "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Doubles_at_the_ATP_Finals_%2849070627556%29.jpg/3840px-Doubles_at_the_ATP_Finals_%2849070627556%29.jpg": {
   "slug": "london-atp-finals",
-  "verdict": "MATCH",
-  "reason": "patrol replace: ATP Finals tennis court, blue hard surface, London venue",
-  "at": "2026-10-21T22:38:00.730Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"finals\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-22T08:00:49.098Z"
  },
  "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Doubles_at_the_ATP_Finals_%2849070833022%29.jpg/3840px-Doubles_at_the_ATP_Finals_%2849070833022%29.jpg": {
   "slug": "london-atp-finals",
@@ -20652,9 +20652,9 @@
  },
  "nuremberg-nuremberg-christkindlesmarkt\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Christkindlesmarkt_2022_N%C3%BCrnberg_078.jpg/3840px-Christkindlesmarkt_2022_N%C3%BCrnberg_078.jpg": {
   "slug": "nuremberg-nuremberg-christkindlesmarkt",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Christkindlesmarkt stall with festive decorations, crowd",
-  "at": "2026-10-21T22:39:16.969Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"christkindlesmarkt\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-22T08:00:49.296Z"
  },
  "nusa-penida-broken-beach\u0001https://upload.wikimedia.org/wikipedia/commons/6/65/Nusa_Penida_-_Bali_-_Broken_Beach.jpg": {
   "slug": "nusa-penida-broken-beach",
@@ -23122,9 +23122,9 @@
  },
  "puerto-princesa-ironman-70-3-puerto-princesa\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Kenneth_Bulthuis_US_-_Ironman_70.3_Budapest%2C_2014.08.23_%282%29.jpg/3840px-Kenneth_Bulthuis_US_-_Ironman_70.3_Budapest%2C_2014.08.23_%282%29.jpg": {
   "slug": "puerto-princesa-ironman-70-3-puerto-princesa",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Marathon/triathlon event with runners and spectators",
-  "at": "2026-10-21T22:40:09.031Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"ironman\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-22T08:00:49.498Z"
  },
  "puerto-princesa-ironman-70-3-puerto-princesa\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/2016-08-14_Ironman_70.3_Germany_2016_by_Olaf_Kosinsky-90.jpg/3840px-2016-08-14_Ironman_70.3_Germany_2016_by_Olaf_Kosinsky-90.jpg": {
   "slug": "puerto-princesa-ironman-70-3-puerto-princesa",

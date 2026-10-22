@@ -29,16 +29,6 @@ faq:
     a: West Lake, Lingyin Temple and the Longjing tea villages are across the Qiantang River, roughly 40 minutes away by metro or taxi. Fans often visit them in the mornings before the matches start.
 aiGenerated: true
 draft: false
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/2/2d/BWF_Badminton_World_Tour.jpg
-  credit: 'Photo: Nardisoero / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:BWF_Badminton_World_Tour.jpg
-  focus:
-    x: 46
-    'y': 47
-    top: 44
-    bottom: 50
 ---
 
 ## Five days, five draws, no easy rounds
