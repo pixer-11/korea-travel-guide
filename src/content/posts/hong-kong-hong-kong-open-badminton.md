@@ -13,7 +13,6 @@ eventOrganizer:
   name: Badminton World Federation (BWF)
   url: https://bwfworldtour.bwfbadminton.com
 eventFactsAsked: true
-gallery: []
 tags:
   - hong kong
   - event
@@ -31,6 +30,14 @@ faq:
     a: Matches are best of three games to 21 points. Singles typically run from about 40 minutes to over an hour, and doubles are often shorter.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/2/25/Badminton_court_view.jpg
+  credit: 'Photo: Darakshanehaluddin / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Badminton_court_view.jpg
+  focus:
+    x: 55
+    'y': 55
 ---
 
 ## Six days, five draws, one arena

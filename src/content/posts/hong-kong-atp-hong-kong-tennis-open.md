@@ -13,7 +13,6 @@ eventOrganizer:
   name: ATP Tour
   url: https://www.atptour.com
 eventFactsAsked: true
-gallery: []
 tags:
   - hong kong
   - event
@@ -31,6 +30,14 @@ faq:
     a: Tin Hau Temple, the Causeway Bay shopping streets around Times Square and Hysan Place, the Noonday Gun on the waterfront, and Happy Valley Racecourse are all within a short walk or one tram or MTR stop.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/ATP_Tennis_Finals_at_The_O2.jpg/3840px-ATP_Tennis_Finals_at_The_O2.jpg
+  credit: 'Photo: David Jones / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:ATP_Tennis_Finals_at_The_O2.jpg
+  focus:
+    x: 50
+    'y': 40
 ---
 
 ## A week of ATP tennis in Causeway Bay

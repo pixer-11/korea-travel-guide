@@ -12,6 +12,14 @@ eventVenue: Etihad Live, Yas Island
 eventOffers:
   url: https://bredabudhabi.com
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Qasr_Al_Watan%2C_Abu_Dhabi_%28P1100960%29.jpg/3840px-Qasr_Al_Watan%2C_Abu_Dhabi_%28P1100960%29.jpg'
+  credit: 'Photo: Matti Blume / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Qasr_Al_Watan,_Abu_Dhabi_(P1100960).jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - abu dhabi

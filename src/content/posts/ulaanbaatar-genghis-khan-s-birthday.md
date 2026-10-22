@@ -12,6 +12,14 @@ eventOffers:
   free: true
   currency: MNT
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Ulaanbaatar_Pollution.jpg/3840px-Ulaanbaatar_Pollution.jpg'
+  credit: 'Photo: Quintin Soloviev / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Ulaanbaatar_Pollution.jpg'
+  focus:
+    x: 25
+    y: 35
 gallery: []
 tags:
   - ulaanbaatar

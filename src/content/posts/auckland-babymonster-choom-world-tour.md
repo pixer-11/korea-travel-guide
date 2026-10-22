@@ -17,13 +17,15 @@ eventPerformer:
   kind: group
 eventFactsAsked: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Spark_Arena_20220220_131032.jpg/3840px-Spark_Arena_20220220_131032.jpg
-  credit: 'Photo: Prosperosity / Wikimedia Commons (CC BY-SA 4.0)'
+  url: https://upload.wikimedia.org/wikipedia/commons/8/8b/Babymonster_Sep%2724.png
+  credit: 'Photo: 티비텐 / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Spark_Arena_20220220_131032.jpg
+  source: https://commons.wikimedia.org/wiki/File:Babymonster_Sep%2724.png
   focus:
-    x: 50
-    'y': 30
+    x: 65
+    'y': 20
+    top: 15
+    bottom: 25
 gallery: []
 tags:
   - auckland

@@ -12,6 +12,14 @@ eventOrganizer:
   name: Badminton World Federation (BWF)
   url: https://bwfbadminton.com
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/A_photo_of_a_city_scene_in_Bengaluru.jpg/3840px-A_photo_of_a_city_scene_in_Bengaluru.jpg'
+  credit: 'Photo: Matthew T Rader / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:A_photo_of_a_city_scene_in_Bengaluru.jpg'
+  focus:
+    x: 45
+    y: 40
 gallery: []
 tags:
   - bengaluru

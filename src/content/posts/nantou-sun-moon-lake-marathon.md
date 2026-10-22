@@ -10,6 +10,14 @@ eventEndDate: '2026-11-01'
 eventRecurring: true
 eventVenue: Sun Moon Lake
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Nantou-County_Taiwan_Sun-Moon-Lake-Ropeway-01.jpg/1280px-Nantou-County_Taiwan_Sun-Moon-Lake-Ropeway-01.jpg'
+  credit: 'Photo: CEphoto, Uwe Aranas (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'File:Nantou-County Taiwan Sun-Moon-Lake-Ropeway-01.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - nantou

@@ -9,6 +9,14 @@ eventStartDate: '2026-11-01'
 eventEndDate: '2026-11-01'
 eventRecurring: true
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/1/1d/Auckland_High_Court.jpg'
+  credit: 'Photo: Krzysztof Golik / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Auckland_High_Court.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - auckland

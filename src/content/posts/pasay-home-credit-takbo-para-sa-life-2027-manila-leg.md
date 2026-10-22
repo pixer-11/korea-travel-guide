@@ -13,6 +13,14 @@ eventOrganizer:
   name: Home Credit
   url: https://www.homecredit.ph/
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Pasay_at_night.jpg/3840px-Pasay_at_night.jpg'
+  credit: 'Photo: Aaron Lucas / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Pasay_at_night.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - pasay

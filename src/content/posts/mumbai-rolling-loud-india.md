@@ -12,6 +12,14 @@ eventOrganizer:
   name: Rolling Loud
   url: https://www.rollingloud.com/
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mumbai_03-2016_10_skyline_of_Lotus_Colony.jpg/3840px-Mumbai_03-2016_10_skyline_of_Lotus_Colony.jpg'
+  credit: 'Photo: A.Savin / Wikimedia Commons (FAL)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Mumbai_03-2016_10_skyline_of_Lotus_Colony.jpg'
+  focus:
+    x: 50
+    y: 40
 gallery: []
 tags:
   - mumbai

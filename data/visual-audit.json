@@ -78,6 +78,12 @@
   "reason": "publish gate: Close-up of intricate carved relief panel, plausible temple detail",
   "at": "2026-08-20T08:07:42.807Z"
  },
+ "abu-dhabi-bredx-festival-bryson-tiller-central-cee\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Etihad_Park_April_2026.jpg/3840px-Etihad_Park_April_2026.jpg": {
+  "slug": "abu-dhabi-bredx-festival-bryson-tiller-central-cee",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Construction site, not venue or performers",
+  "at": "2026-10-22T00:06:19.386Z"
+ },
  "abu-dhabi-christina-aguilera-live\u0001https://upload.wikimedia.org/wikipedia/commons/3/3b/Christina_Aguilera%2C_Rio_de_Janeiro%2C_2025_%281%29.jpg": {
   "slug": "abu-dhabi-christina-aguilera-live",
   "verdict": "MATCH",
@@ -1232,6 +1238,30 @@
   "reason": "patrol replace: BTS concert performance on stage",
   "at": "2026-08-19T19:51:37.777Z"
  },
+ "auckland-asb-auckland-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/1/1b/ASB_Bank_Headquarter_in_Auckland_%28sideview%29.jpg": {
+  "slug": "auckland-asb-auckland-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: City skyline, not marathon event or athletes",
+  "at": "2026-10-22T00:06:27.382Z"
+ },
+ "auckland-asb-auckland-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/7/72/ASB_Bank_Headquarter_in_Auckland_%28frontview%29.jpg": {
+  "slug": "auckland-asb-auckland-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Office building unrelated to marathon event",
+  "at": "2026-10-22T00:06:29.803Z"
+ },
+ "auckland-asb-auckland-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Auckland_ASB_Classic_crop.jpg/1920px-Auckland_ASB_Classic_crop.jpg": {
+  "slug": "auckland-asb-auckland-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Tennis match, not a marathon event",
+  "at": "2026-10-22T00:06:25.749Z"
+ },
+ "auckland-asb-auckland-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Auckland_ASB_Classic.jpg/1920px-Auckland_ASB_Classic.jpg": {
+  "slug": "auckland-asb-auckland-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Tennis match, not a marathon event",
+  "at": "2026-10-22T00:06:24.540Z"
+ },
  "auckland-asb-classic-auckland-tennis-open\u0001https://upload.wikimedia.org/wikipedia/commons/d/d6/Francesca_Schiavone_and_Flavia_Pennetta.jpg": {
   "slug": "auckland-asb-classic-auckland-tennis-open",
   "verdict": "MATCH",
@@ -1249,6 +1279,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Distinctive domed roof interior matches Auckland Museum's event space",
   "at": "2026-10-20T14:48:08.312Z"
+ },
+ "auckland-babymonster-choom-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/8/8b/Babymonster_Sep%2724.png": {
+  "slug": "auckland-babymonster-choom-world-tour",
+  "verdict": "MATCH",
+  "reason": "performer upgrade: Group photo of performers, valid for tour article",
+  "at": "2026-10-22T00:24:51.429Z"
  },
  "auckland-babymonster-choom-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Spark_Arena_20220220_131032.jpg/3840px-Spark_Arena_20220220_131032.jpg": {
   "slug": "auckland-babymonster-choom-world-tour",
@@ -2999,6 +3035,12 @@
   "reason": "Mediterranean coastline, not Barcelona restaurant",
   "at": "2026-07-25T02:41:14.670Z"
  },
+ "barcelona-korea-spotlight-barcelona-2026\u0001https://upload.wikimedia.org/wikipedia/commons/4/4c/DPR_Live_SXSW_Korea_Spotlight_2018.jpg": {
+  "slug": "barcelona-korea-spotlight-barcelona-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated person photo, not event or venue related",
+  "at": "2026-10-22T00:06:47.793Z"
+ },
  "barcelona-la-colmena\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/420_Pastisseria_La_Colmena%2C_pla%C3%A7a_de_l%27%C3%80ngel_12_-_baixada_de_la_Llibreteria_%28Barcelona%29.jpg/3840px-420_Pastisseria_La_Colmena%2C_pla%C3%A7a_de_l%27%C3%80ngel_12_-_baixada_de_la_Llibreteria_%28Barcelona%29.jpg": {
   "slug": "barcelona-la-colmena",
   "verdict": "MATCH",
@@ -3632,6 +3674,42 @@
   "verdict": "MATCH",
   "reason": "patrol replace: Large concert stage setup, crowd, festival atmosphere",
   "at": "2026-10-05T15:08:36.169Z"
+ },
+ "bengaluru-infosys-foundation-india-international-challenge-badminton\u0001https://upload.wikimedia.org/wikipedia/commons/3/36/Infosys_subsidiary_chart.png": {
+  "slug": "bengaluru-infosys-foundation-india-international-challenge-badminton",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Corporate org chart diagram, not a badminton event photo",
+  "at": "2026-10-22T00:06:59.296Z"
+ },
+ "bengaluru-infosys-foundation-india-international-challenge-badminton\u0001https://upload.wikimedia.org/wikipedia/commons/7/7b/Infosys_Cantene.JPG": {
+  "slug": "bengaluru-infosys-foundation-india-international-challenge-badminton",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated building, not badminton event or venue",
+  "at": "2026-10-22T00:07:00.959Z"
+ },
+ "bengaluru-infosys-foundation-india-international-challenge-badminton\u0001https://upload.wikimedia.org/wikipedia/commons/7/7c/Infosys_India.JPG": {
+  "slug": "bengaluru-infosys-foundation-india-international-challenge-badminton",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Building courtyard, not badminton event or athletes",
+  "at": "2026-10-22T00:07:02.491Z"
+ },
+ "bengaluru-infosys-foundation-india-international-challenge-badminton\u0001https://upload.wikimedia.org/wikipedia/commons/9/9c/Infosys.JPG": {
+  "slug": "bengaluru-infosys-foundation-india-international-challenge-badminton",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Infosys conference room, not badminton event venue",
+  "at": "2026-10-22T00:07:05.370Z"
+ },
+ "bengaluru-infosys-foundation-india-international-challenge-badminton\u0001https://upload.wikimedia.org/wikipedia/commons/e/e8/Mysore_India_Infosys.JPG": {
+  "slug": "bengaluru-infosys-foundation-india-international-challenge-badminton",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Building exterior, not badminton event or athletes",
+  "at": "2026-10-22T00:07:06.893Z"
+ },
+ "bengaluru-infosys-foundation-india-international-challenge-badminton\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Infosys_NYC_AI_Day_2026_-_01.jpg/3840px-Infosys_NYC_AI_Day_2026_-_01.jpg": {
+  "slug": "bengaluru-infosys-foundation-india-international-challenge-badminton",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated event screen, not badminton tournament",
+  "at": "2026-10-22T00:06:57.906Z"
  },
  "bengaluru-lalbagh-botanical-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Lalbagh_Botanical_Gardens%2C_Bengaluru%2C_Karnataka%2C_India.jpg/3840px-Lalbagh_Botanical_Gardens%2C_Bengaluru%2C_Karnataka%2C_India.jpg": {
   "slug": "bengaluru-lalbagh-botanical-garden",
@@ -8726,8 +8804,8 @@
  "goyang-charlie-puth-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Charlie_Puth%2C_Regency_Ballroom%2C_San_Francisco_%28Nine_Track_Mind_Tour%29_2.jpg/3840px-Charlie_Puth%2C_Regency_Ballroom%2C_San_Francisco_%28Nine_Track_Mind_Tour%29_2.jpg": {
   "slug": "goyang-charlie-puth-concert",
   "verdict": "MATCH",
-  "reason": "patrol replace: Performer on stage at concert venue",
-  "at": "2026-10-20T22:33:20.160Z"
+  "reason": "patrol replace: Performer on stage at concert event",
+  "at": "2026-10-22T00:08:36.119Z"
  },
  "goyang-charlie-puth-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Charlie_Puth_al_Poble_Espanyol_%2857304%29.jpg/3840px-Charlie_Puth_al_Poble_Espanyol_%2857304%29.jpg": {
   "slug": "goyang-charlie-puth-concert",
@@ -9439,6 +9517,18 @@
   "verdict": "MATCH",
   "reason": "event publish gate: XG group members posing, valid performer photo",
   "at": "2026-10-21T23:54:06.811Z"
+ },
+ "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/2/2d/BWF_Badminton_World_Tour.jpg": {
+  "slug": "hangzhou-bwf-world-tour-finals",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Badminton match at professional tournament venue",
+  "at": "2026-10-22T00:08:52.093Z"
+ },
+ "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/f/f8/HSBC_BWF_Badminton_World_Tour.jpg": {
+  "slug": "hangzhou-bwf-world-tour-finals",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Logo/banner graphic, not an actual photo of event",
+  "at": "2026-10-22T00:08:49.434Z"
  },
  "hangzhou-leifeng-pagoda\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Leifeng_Pagoda_DJI_0593_%282%29.jpg/1920px-Leifeng_Pagoda_DJI_0593_%282%29.jpg": {
   "slug": "hangzhou-leifeng-pagoda",
@@ -10175,6 +10265,18 @@
   "reason": "patrol replace: Professional kitchen, Hong Kong restaurant setting",
   "at": "2026-09-17T22:21:55.659Z"
  },
+ "hong-kong-atp-hong-kong-tennis-open\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Cincinnati-Tennis-2015-ATP-WTA-98_%2820232731523%29.jpg/3840px-Cincinnati-Tennis-2015-ATP-WTA-98_%2820232731523%29.jpg": {
+  "slug": "hong-kong-atp-hong-kong-tennis-open",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Visible watermark/photo credit overlay on image",
+  "at": "2026-10-22T00:09:00.734Z"
+ },
+ "hong-kong-atp-hong-kong-tennis-open\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/ATP_Tennis_Finals_at_The_O2.jpg/3840px-ATP_Tennis_Finals_at_The_O2.jpg": {
+  "slug": "hong-kong-atp-hong-kong-tennis-open",
+  "verdict": "MATCH",
+  "reason": "patrol replace: ATP tennis tournament, blue court, packed stadium",
+  "at": "2026-10-22T00:09:03.534Z"
+ },
  "hong-kong-bigbang-xx-cosmos-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/5/53/BIGBANG_Concert_0.TO.10_in_Seoul_-_10.jpg": {
   "slug": "hong-kong-bigbang-xx-cosmos-world-tour",
   "verdict": "MATCH",
@@ -10394,6 +10496,18 @@
   "verdict": "MATCH",
   "reason": "patrol re-check: Clearly shows the Hong Kong Observation Wheel with skyline",
   "at": "2026-08-12T20:31:38.338Z"
+ },
+ "hong-kong-hong-kong-open-badminton\u0001https://upload.wikimedia.org/wikipedia/commons/2/25/Badminton_court_view.jpg": {
+  "slug": "hong-kong-hong-kong-open-badminton",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Indoor badminton court with shuttlecocks and racket",
+  "at": "2026-10-22T00:09:16.673Z"
+ },
+ "hong-kong-hong-kong-open-badminton\u0001https://upload.wikimedia.org/wikipedia/commons/9/90/Badminton_racket.jpg": {
+  "slug": "hong-kong-hong-kong-open-badminton",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Random street scene, not Hong Kong Open venue or event",
+  "at": "2026-10-22T00:09:13.596Z"
  },
  "hong-kong-hong-kong-park\u0001https://upload.wikimedia.org/wikipedia/commons/3/39/Hong_Kong_Park_Overview_2009.jpg": {
   "slug": "hong-kong-hong-kong-park",
@@ -15720,8 +15834,8 @@
  "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Alvaro_Bautista-motogp-2015.JPG/3840px-Alvaro_Bautista-motogp-2015.JPG": {
   "slug": "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia",
   "verdict": "MATCH",
-  "reason": "patrol replace: MotoGP rider and bike at racing venue",
-  "at": "2026-10-20T22:37:06.631Z"
+  "reason": "patrol replace: MotoGP rider at circuit pit garage.",
+  "at": "2026-10-22T00:12:06.992Z"
  },
  "lombok-mount-rinjani-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Lembah_Torean_Rinjani.jpg/1920px-Lembah_Torean_Rinjani.jpg": {
   "slug": "lombok-mount-rinjani-national-park",
@@ -18867,6 +18981,12 @@
   "reasonKo": "남인도 도사, 정통 뭄바이 카페",
   "at": "2026-08-20T13:30:06.201Z"
  },
+ "mumbai-rolling-loud-india\u0001https://upload.wikimedia.org/wikipedia/commons/f/ff/P-Lo_at_Rolling_Loud%2C_Oakland_2018.jpg": {
+  "slug": "mumbai-rolling-loud-india",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Random concert attendees, not performers or event-specific imagery",
+  "at": "2026-10-22T00:14:38.401Z"
+ },
  "mumbai-seasee\u0001https://images.unsplash.com/photo-1567157577867-05ccb1388e66?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8TXVtYmFpJTIwSW5kaWElMjBTZWFzZWV8ZW58MHwwfHx8MTc4NTM2MjYzOXww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max": {
   "slug": "mumbai-seasee",
   "verdict": "MISMATCH",
@@ -19219,6 +19339,30 @@
   "verdict": "MATCH",
   "reason": "patrol replace: Sun Moon Lake landscape with boats and mountains",
   "at": "2026-08-22T15:24:18.687Z"
+ },
+ "nantou-sun-moon-lake-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/6/62/Sun_Moon_Lake%2C_2016-09-11.jpg": {
+  "slug": "nantou-sun-moon-lake-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Harbor/marina, not Sun Moon Lake marathon venue",
+  "at": "2026-10-22T00:14:50.528Z"
+ },
+ "nantou-sun-moon-lake-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sun_and_moon_at_sunset.jpg/3840px-Sun_and_moon_at_sunset.jpg": {
+  "slug": "nantou-sun-moon-lake-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Generic dusk sky, not Sun Moon Lake or marathon",
+  "at": "2026-10-22T00:14:46.360Z"
+ },
+ "nantou-sun-moon-lake-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sun_and_moon_at_sunset_-_60pc.jpg/3840px-Sun_and_moon_at_sunset_-_60pc.jpg": {
+  "slug": "nantou-sun-moon-lake-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Generic dusk sky, not Sun Moon Lake or marathon",
+  "at": "2026-10-22T00:14:47.621Z"
+ },
+ "nantou-sun-moon-lake-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/The_sun_and_the_moon_in_South_New_Brighton%27s_beach%2C_New_Zealand.jpg/3840px-The_sun_and_the_moon_in_South_New_Brighton%27s_beach%2C_New_Zealand.jpg": {
+  "slug": "nantou-sun-moon-lake-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Beach sunset, not Sun Moon Lake marathon venue",
+  "at": "2026-10-22T00:14:43.272Z"
  },
  "naoshima-benesse-house-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/150505_Benesse_House_Museum_Naoshima_Kagawa_pref_Japan01b3s5.jpg/3840px-150505_Benesse_House_Museum_Naoshima_Kagawa_pref_Japan01b3s5.jpg": {
   "slug": "naoshima-benesse-house-museum",
@@ -20851,6 +20995,36 @@
   "reason": "Osaka Castle with moat and modern skyline",
   "at": "2026-07-25T02:47:39.907Z"
  },
+ "osaka-osaka-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/0/05/Nissan_ARIYA_NISMO_B9_e-4ORCE_%28ZAA-SNFE0%29_used_as_a_2025_Osaka_Marathon_Leading_Car_%281%29.jpg": {
+  "slug": "osaka-osaka-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shows pilot/lead vehicle, not marathon runners or race scene",
+  "at": "2026-10-22T00:15:01.443Z"
+ },
+ "osaka-osaka-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/4/48/Nissan_ARIYA_B9_e-4ORCE_%28ZAA-SNFE0%29_used_as_a_2025_Osaka_Marathon_Cheif_Judge_Car.jpg": {
+  "slug": "osaka-osaka-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Vehicle, not marathon event or athletes",
+  "at": "2026-10-22T00:14:56.152Z"
+ },
+ "osaka-osaka-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/7/7d/Nissan_ARIYA_NISMO_B9_e-4ORCE_%28ZAA-SNFE0%29_used_as_a_2025_Osaka_Marathon_Leading_Car_%283%29.jpg": {
+  "slug": "osaka-osaka-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shows a pilot car, not marathon runners or race",
+  "at": "2026-10-22T00:14:54.196Z"
+ },
+ "osaka-osaka-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/a/ae/Nissan_ARIYA_NISMO_B9_e-4ORCE_%28ZAA-SNFE0%29_used_as_a_2025_Osaka_Marathon_Leading_Car_%282%29.jpg": {
+  "slug": "osaka-osaka-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shows a car, not marathon runners or event",
+  "at": "2026-10-22T00:14:59.665Z"
+ },
+ "osaka-osaka-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/f/fc/Nissan_X-TRAIL_X_e-4ORCE_XTREMER_X_%286AA-SNT33%29_used_as_a_2025_Osaka_Marathon_timekeeping_vehicle_%283%29.jpg": {
+  "slug": "osaka-osaka-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shows a car with Osaka Metro banners, not marathon race",
+  "at": "2026-10-22T00:14:57.821Z"
+ },
  "osaka-shitenno-ji\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Shitennoji_%26_Abeno_Harukas.jpg/1920px-Shitennoji_%26_Abeno_Harukas.jpg": {
   "slug": "osaka-shitenno-ji",
   "verdict": "MATCH",
@@ -21692,8 +21866,8 @@
  "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/5_Seconds_Of_Summer%2C_Hammersmith_Apollo%2C_London_%2846534757555%29.jpg/1920px-5_Seconds_Of_Summer%2C_Hammersmith_Apollo%2C_London_%2846534757555%29.jpg": {
   "slug": "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour",
   "verdict": "MATCH",
-  "reason": "patrol replace: Guitarist performing on stage, plausibly 5SOS member",
-  "at": "2026-10-20T22:40:14.103Z"
+  "reason": "patrol replace: Guitarist performing, plausibly 5SOS band member",
+  "at": "2026-10-22T00:15:47.565Z"
  },
  "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/5_Seconds_of_Summer_First_USA_Acoustic_IMG_3798_%2814848886021%29.jpg/3840px-5_Seconds_of_Summer_First_USA_Acoustic_IMG_3798_%2814848886021%29.jpg": {
   "slug": "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour",
@@ -21785,6 +21959,30 @@
   "verdict": "MATCH",
   "reason": "patrol replace: World Trade Center Manila interior reception desk",
   "at": "2026-08-22T15:20:13.259Z"
+ },
+ "pasay-home-credit-takbo-para-sa-life-2027-manila-leg\u0001https://upload.wikimedia.org/wikipedia/commons/6/66/Home_of_John_J._French.jpg": {
+  "slug": "pasay-home-credit-takbo-para-sa-life-2027-manila-leg",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: House unrelated to marathon event or SM MOA venue",
+  "at": "2026-10-22T00:15:56.756Z"
+ },
+ "pasay-home-credit-takbo-para-sa-life-2027-manila-leg\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Home_concert%2C_2013.2.jpg/3840px-Home_concert%2C_2013.2.jpg": {
+  "slug": "pasay-home-credit-takbo-para-sa-life-2027-manila-leg",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Indoor room with elderly people, unrelated to running event",
+  "at": "2026-10-22T00:16:04.444Z"
+ },
+ "pasay-home-credit-takbo-para-sa-life-2027-manila-leg\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Home_Credit_Arena.jpg/3840px-Home_Credit_Arena.jpg": {
+  "slug": "pasay-home-credit-takbo-para-sa-life-2027-manila-leg",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shows Home Credit Arena, not SM MOA Complex venue",
+  "at": "2026-10-22T00:15:59.694Z"
+ },
+ "pasay-home-credit-takbo-para-sa-life-2027-manila-leg\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Home_Credit_Arena_%28prosinec_2022%29.jpg/3840px-Home_Credit_Arena_%28prosinec_2022%29.jpg": {
+  "slug": "pasay-home-credit-takbo-para-sa-life-2027-manila-leg",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shows Home Credit Arena building, not SM MOA venue",
+  "at": "2026-10-22T00:16:01.404Z"
  },
  "pasay-jason-mraz-manila-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flickr_-_moses_namkung_-_Jason_Mraz_1.jpg/3840px-Flickr_-_moses_namkung_-_Jason_Mraz_1.jpg": {
   "slug": "pasay-jason-mraz-manila-2026",
@@ -27503,6 +27701,36 @@
   "reasonKo": "수저우박물관의 독특한 현대 건축물 확실히 보임",
   "at": "2026-08-05T15:00:45.890Z"
  },
+ "sydney-aria-music-awards-2026\u0001https://upload.wikimedia.org/wikipedia/commons/0/0d/Aria_2014_%2815696532327%29.jpg": {
+  "slug": "sydney-aria-music-awards-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unidentified person, not tied to ARIA Awards event",
+  "at": "2026-10-22T00:17:02.773Z"
+ },
+ "sydney-aria-music-awards-2026\u0001https://upload.wikimedia.org/wikipedia/commons/2/22/Aria_Awards_2014.jpg": {
+  "slug": "sydney-aria-music-awards-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated close-up portrait, not event or venue specific",
+  "at": "2026-10-22T00:17:01.203Z"
+ },
+ "sydney-aria-music-awards-2026\u0001https://upload.wikimedia.org/wikipedia/commons/6/61/Tim_Ross_at_Aria_Music_Awards_2014.jpg": {
+  "slug": "sydney-aria-music-awards-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Generic portrait, not tied to ARIA Awards or venue",
+  "at": "2026-10-22T00:16:56.941Z"
+ },
+ "sydney-aria-music-awards-2026\u0001https://upload.wikimedia.org/wikipedia/commons/c/cf/Glenn_McMillan_at_Aria_Music_Awards_2014.jpg": {
+  "slug": "sydney-aria-music-awards-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unidentified portrait, not linked to ARIA Awards event",
+  "at": "2026-10-22T00:16:59.733Z"
+ },
+ "sydney-aria-music-awards-2026\u0001https://upload.wikimedia.org/wikipedia/commons/f/ff/Jessica_Mauboy_at_the_2009_ARIA_awards.jpg": {
+  "slug": "sydney-aria-music-awards-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Random woman at barricade, unrelated to ARIA Awards event",
+  "at": "2026-10-22T00:16:55.217Z"
+ },
  "sydney-australian-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Australian_Museum%2C_Sydney-William_Street_view.jpg/1920px-Australian_Museum%2C_Sydney-William_Street_view.jpg": {
   "slug": "sydney-australian-museum",
   "verdict": "MATCH",
@@ -29028,6 +29256,24 @@
   "reason": "patrol reject: Boats on canal, unrelated to Tashkent tourism fair venue",
   "at": "2026-10-12T00:47:39.612Z"
  },
+ "tashkent-traders-fair-2026-uzbekistan\u0001https://upload.wikimedia.org/wikipedia/commons/b/b8/Rogue_Traders_in_concert.jpg": {
+  "slug": "tashkent-traders-fair-2026-uzbekistan",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Concert singer, unrelated to trading fair event",
+  "at": "2026-10-22T00:17:56.826Z"
+ },
+ "tashkent-traders-fair-2026-uzbekistan\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/No_Traders_20-090-03_006.jpg/3840px-No_Traders_20-090-03_006.jpg": {
+  "slug": "tashkent-traders-fair-2026-uzbekistan",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Rural US scene unrelated to Tashkent trade fair event",
+  "at": "2026-10-22T00:18:00.658Z"
+ },
+ "tashkent-traders-fair-2026-uzbekistan\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/No_Traders_20-090-03_005.jpg/3840px-No_Traders_20-090-03_005.jpg": {
+  "slug": "tashkent-traders-fair-2026-uzbekistan",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: This is a sign for an unrelated US business, not the event",
+  "at": "2026-10-22T00:18:04.417Z"
+ },
  "tashkent-valeriya-concert-tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/7/7b/%D0%92%D0%B0%D0%BB%D0%B5%D1%80%D0%B8%D1%8F_%D0%BD%D0%B0_%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%BE%D0%B9_%D0%9D%D0%BE%D0%B2%D0%BE%D0%B9_%D0%B2%D0%BE%D0%BB%D0%BD%D0%B5_2016.jpg": {
   "slug": "tashkent-valeriya-concert-tashkent",
   "verdict": "MATCH",
@@ -29189,6 +29435,30 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows Teshima Yokoo House exterior with distinctive tower",
   "at": "2026-10-13T08:14:27.220Z"
+ },
+ "tianzhong-taiwan-s-rice-heaven-tianzhong-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/b/b4/Rice_cracker_from_Taiwan.jpg": {
+  "slug": "tianzhong-taiwan-s-rice-heaven-tianzhong-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Snack package, unrelated to marathon event",
+  "at": "2026-10-22T00:18:11.365Z"
+ },
+ "tianzhong-taiwan-s-rice-heaven-tianzhong-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/White_Rice_%28Taiwan%29.jpg/3840px-White_Rice_%28Taiwan%29.jpg": {
+  "slug": "tianzhong-taiwan-s-rice-heaven-tianzhong-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Isolated packaged rice shot, not marathon event photo",
+  "at": "2026-10-22T00:18:15.484Z"
+ },
+ "tianzhong-taiwan-s-rice-heaven-tianzhong-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Rice_Lake%2C_Ontario.jpg/3840px-Rice_Lake%2C_Ontario.jpg": {
+  "slug": "tianzhong-taiwan-s-rice-heaven-tianzhong-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Autumn landscape, no marathon or runners depicted",
+  "at": "2026-10-22T00:18:20.690Z"
+ },
+ "tianzhong-taiwan-s-rice-heaven-tianzhong-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Rice_Lake_in_Wisconsin.jpg/3840px-Rice_Lake_in_Wisconsin.jpg": {
+  "slug": "tianzhong-taiwan-s-rice-heaven-tianzhong-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Aerial lake/industrial view, unrelated to marathon event",
+  "at": "2026-10-22T00:18:21.950Z"
  },
  "tioman-tioman-island\u0001https://upload.wikimedia.org/wikipedia/commons/d/d5/Tioman_island_%283679435126%29.jpg": {
   "slug": "tioman-tioman-island",
@@ -30397,6 +30667,30 @@
   "reason": "publish gate: Shows Choijin Lama Temple with Ulaanbaatar skyline backdrop",
   "at": "2026-10-11T14:24:51.957Z"
  },
+ "ulaanbaatar-evening-museum-let-s-travel-through-socialism\u0001https://upload.wikimedia.org/wikipedia/commons/0/09/Evening_museum_courtyard_%E2%80%93_Preview_%28Grzegorz_Wronkowski_via_Poly_Haven%29.png": {
+  "slug": "ulaanbaatar-evening-museum-let-s-travel-through-socialism",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: 360-degree render with test spheres, not museum photo",
+  "at": "2026-10-22T00:21:55.570Z"
+ },
+ "ulaanbaatar-evening-museum-let-s-travel-through-socialism\u0001https://upload.wikimedia.org/wikipedia/commons/1/16/Evening_museum_courtyard_29k_%E2%80%93_HDR-Panorama_%28Grzegorz_Wronkowski_via_Poly_Haven%29.tif": {
+  "slug": "ulaanbaatar-evening-museum-let-s-travel-through-socialism",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: image unusable: Input image exceeds pixel limit",
+  "at": "2026-10-22T00:21:30.616Z"
+ },
+ "ulaanbaatar-evening-museum-let-s-travel-through-socialism\u0001https://upload.wikimedia.org/wikipedia/commons/8/8e/Evening_museum_courtyard_%E2%80%93_Panorama_%28Grzegorz_Wronkowski_via_Poly_Haven%29.jpg": {
+  "slug": "ulaanbaatar-evening-museum-let-s-travel-through-socialism",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: image unusable: Input image exceeds pixel limit",
+  "at": "2026-10-22T00:21:54.125Z"
+ },
+ "ulaanbaatar-evening-museum-let-s-travel-through-socialism\u0001https://upload.wikimedia.org/wikipedia/commons/f/f6/Evening_museum_courtyard_%E2%80%93_Color_Checker_%28Grzegorz_Wronkowski_via_Poly_Haven%29_DSC08211_RAW-Export.tif": {
+  "slug": "ulaanbaatar-evening-museum-let-s-travel-through-socialism",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Color calibration chart, unrelated to museum venue",
+  "at": "2026-10-22T00:21:45.952Z"
+ },
  "ulaanbaatar-gandantegchinlen-monastery\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Gandantegchinlen_Monastery_%282024%29.jpg/1920px-Gandantegchinlen_Monastery_%282024%29.jpg": {
   "slug": "ulaanbaatar-gandantegchinlen-monastery",
   "verdict": "MATCH",
@@ -30408,6 +30702,30 @@
   "verdict": "MATCH",
   "reason": "event publish gate: Genghis Khan statue, Sukhbaatar Square venue, Ulaanbaatar",
   "at": "2026-10-18T22:52:57.337Z"
+ },
+ "ulaanbaatar-genghis-khan-s-birthday\u0001https://upload.wikimedia.org/wikipedia/commons/3/3d/Genghis_Khan_lets_the_rebels_boil.jpg": {
+  "slug": "ulaanbaatar-genghis-khan-s-birthday",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Illustration/painting, not a photo of event",
+  "at": "2026-10-22T00:22:02.724Z"
+ },
+ "ulaanbaatar-genghis-khan-s-birthday\u0001https://upload.wikimedia.org/wikipedia/commons/b/b3/Genghis_Khan_Hunts_a_Tiger.jpg": {
+  "slug": "ulaanbaatar-genghis-khan-s-birthday",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: This is an illustration/drawing, not a photo",
+  "at": "2026-10-22T00:22:01.222Z"
+ },
+ "ulaanbaatar-genghis-khan-s-birthday\u0001https://upload.wikimedia.org/wikipedia/commons/c/cb/Bust_of_Genghis_Khan_in_Mongolia.jpg": {
+  "slug": "ulaanbaatar-genghis-khan-s-birthday",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Museum statue, not event documentation",
+  "at": "2026-10-22T00:22:08.705Z"
+ },
+ "ulaanbaatar-genghis-khan-s-birthday\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Genghis_Khan%27s_sermon_to_the_people_of_Bukhara.jpg/3840px-Genghis_Khan%27s_sermon_to_the_people_of_Bukhara.jpg": {
+  "slug": "ulaanbaatar-genghis-khan-s-birthday",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Manuscript painting/illustration, not a real photo",
+  "at": "2026-10-22T00:22:04.275Z"
  },
  "ulaanbaatar-lanzhou-beef-noodles-halal-restaurant\u0001https://upload.wikimedia.org/wikipedia/commons/f/fa/Lanzhou_Beef_Noodles_%28S%C3%BCkhbaatar%2C_Ulaanbaatar%29.jpg": {
   "slug": "ulaanbaatar-lanzhou-beef-noodles-halal-restaurant",

@@ -11,6 +11,14 @@ eventRecurring: true
 eventOffers:
   url: https://www.tianzhongmarathon.com
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Gushan_Temple%2C_Tianzhong_Township%2C_Changhua_%28Taiwan%29.jpg/1280px-Gushan_Temple%2C_Tianzhong_Township%2C_Changhua_%28Taiwan%29.jpg'
+  credit: 'Photo: Mk2010 (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'File:Gushan Temple, Tianzhong Township, Changhua (Taiwan).jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - tianzhong

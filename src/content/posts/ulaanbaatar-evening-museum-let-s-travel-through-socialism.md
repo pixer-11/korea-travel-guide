@@ -13,6 +13,14 @@ eventOrganizer:
   name: National Museum of Mongolia
   url: http://www.nationalmuseum.mn/
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/2024-10-18_Ulaanbaatar_2.jpg/3840px-2024-10-18_Ulaanbaatar_2.jpg'
+  credit: 'Photo: Alexkom000 / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:2024-10-18_Ulaanbaatar_2.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - ulaanbaatar

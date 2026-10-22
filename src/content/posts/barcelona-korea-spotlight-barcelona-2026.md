@@ -13,6 +13,14 @@ eventOrganizer:
   name: KOCCA, Korean Ministry of Culture, Sports and Tourism
   url: https://eng.kocca.kr
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/6/6f/Pla%C3%A7a_Sagrada_Fam%C3%ADlia%2C_house_1_to_7_Barcelona%2C_Spain_1.jpg'
+  credit: 'Photo: Reda Kerbush / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Pla%C3%A7a_Sagrada_Fam%C3%ADlia,_house_1_to_7_Barcelona,_Spain_1.jpg'
+  focus:
+    x: 50
+    y: 35
 gallery: []
 tags:
   - barcelona

@@ -6318,5 +6318,109 @@
    "x": 50,
    "y": 45
   }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Qasr_Al_Watan%2C_Abu_Dhabi_%28P1100960%29.jpg/3840px-Qasr_Al_Watan%2C_Abu_Dhabi_%28P1100960%29.jpg": {
+  "w": 3840,
+  "h": 2560,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/1/1d/Auckland_High_Court.jpg": {
+  "w": 3095,
+  "h": 2599,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/6/6f/Pla%C3%A7a_Sagrada_Fam%C3%ADlia%2C_house_1_to_7_Barcelona%2C_Spain_1.jpg": {
+  "w": 3818,
+  "h": 2910,
+  "focus": {
+   "x": 50,
+   "y": 35
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/A_photo_of_a_city_scene_in_Bengaluru.jpg/3840px-A_photo_of_a_city_scene_in_Bengaluru.jpg": {
+  "w": 3840,
+  "h": 2880,
+  "focus": {
+   "x": 45,
+   "y": 40
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/b/b5/Can_Tho_City_-_Stadt_aus_Sicht_vom_Boot.jpg": {
+  "w": 3341,
+  "h": 1699,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Chennai_01.jpg/3840px-Chennai_01.jpg": {
+  "w": 3840,
+  "h": 2560,
+  "focus": {
+   "x": 50,
+   "y": 40
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mumbai_03-2016_10_skyline_of_Lotus_Colony.jpg/3840px-Mumbai_03-2016_10_skyline_of_Lotus_Colony.jpg": {
+  "w": 3840,
+  "h": 2160,
+  "focus": {
+   "x": 50,
+   "y": 40
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Nantou-County_Taiwan_Sun-Moon-Lake-Ropeway-01.jpg/1280px-Nantou-County_Taiwan_Sun-Moon-Lake-Ropeway-01.jpg": {
+  "w": 1280,
+  "h": 853,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/2016_Phnom_Penh%2C_Biuro_UNESCO_%2803%29.jpg/3840px-2016_Phnom_Penh%2C_Biuro_UNESCO_%2803%29.jpg": {
+  "w": 3840,
+  "h": 2560,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/5/5c/Sydney_skyline_at_dusk_-_Dec_2008.jpg": {
+  "w": 2500,
+  "h": 990,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Gushan_Temple%2C_Tianzhong_Township%2C_Changhua_%28Taiwan%29.jpg/1280px-Gushan_Temple%2C_Tianzhong_Township%2C_Changhua_%28Taiwan%29.jpg": {
+  "w": 1280,
+  "h": 853,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/2024-10-18_Ulaanbaatar_2.jpg/3840px-2024-10-18_Ulaanbaatar_2.jpg": {
+  "w": 3840,
+  "h": 2560,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Ulaanbaatar_Pollution.jpg/3840px-Ulaanbaatar_Pollution.jpg": {
+  "w": 3840,
+  "h": 2743,
+  "focus": {
+   "x": 25,
+   "y": 35
+  }
  }
 }

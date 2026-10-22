@@ -13,6 +13,14 @@ eventOrganizer:
   name: Australian Recording Industry Association
   url: https://ariaawards.com.au
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/5/5c/Sydney_skyline_at_dusk_-_Dec_2008.jpg'
+  credit: 'Photo: Diliff / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Sydney_skyline_at_dusk_-_Dec_2008.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - sydney

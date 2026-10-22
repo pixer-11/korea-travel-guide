@@ -13,6 +13,14 @@ eventOrganizer:
   name: World Table Tennis / Table Tennis Federation of India
   url: https://www.ittf.com
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Chennai_01.jpg/3840px-Chennai_01.jpg'
+  credit: 'Photo: Ganesh Mohan T / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Chennai_01.jpg'
+  focus:
+    x: 50
+    y: 40
 gallery: []
 tags:
   - chennai
