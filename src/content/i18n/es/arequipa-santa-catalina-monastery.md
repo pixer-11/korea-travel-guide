@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: arequipa-santa-catalina-monastery
-srcHash: '2f95238eaa45'
+srcHash: '62cf1a329333'
 title: 'Monasterio de Santa Catalina: guía de viaje de Arequipa (4.7★)'
 description: El Monasterio de Santa Catalina se encuentra en Santa Catalina 301, en el centro histórico de Arequipa y a pocos pasos al norte de la Plaza de Armas. Tiene una valoración de 4.7★ con 10,618 reseñas. Aquí encontrará las opiniones de los visitantes, los horarios y algunos consejos.
 quickAnswer: El Monasterio de Santa Catalina se encuentra en Santa Catalina 301, en pleno centro histórico de Arequipa y a pocos pasos al norte de la Plaza de Armas. Este convento dominico del siglo XVI funciona como una pequeña ciudad amurallada, y para recorrerlo con calma hacen falta entre dos y tres horas. Los mejores momentos son de 9am a 10am cualquier día y, los fines de semana, de 4pm a 5pm. Conviene evitar los fines de semana entre las 12pm y las 2pm.

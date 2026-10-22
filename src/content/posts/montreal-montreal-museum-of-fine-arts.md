@@ -1,44 +1,52 @@
 ---
-title: "Montreal Museum of Fine Arts: Travel Guide (4.7★)"
-description: "The Montreal Museum of Fine Arts sits on Rue Sherbrooke Ouest in Montreal's Golden Square Mile, a short walk from Guy-Concordia metro on the Green Line. 4.7★ (17,995 reviews) — what visitors say, hours, and tips."
-country: "Canada"
-region: "Montreal"
-category: "attraction"
-pubDate: "2026-10-22T07:49:28.301Z"
+title: 'Montreal Museum of Fine Arts: Travel Guide (4.7★)'
+description: >-
+  The Montreal Museum of Fine Arts sits on Rue Sherbrooke Ouest in Montreal's
+  Golden Square Mile, a short walk from Guy-Concordia metro on the Green Line.
+  4.7★ (17,999 reviews) — what visitors say, hours, and tips.
+country: Canada
+region: Montreal
+category: attraction
+pubDate: '2026-10-22T07:49:28.301Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Museum_of_Fine_Arts%2C_main_entrance%2C_Montreal.jpg/1920px-Museum_of_Fine_Arts%2C_main_entrance%2C_Montreal.jpg"
-  credit: "Photo: Thomas Ledl / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Museum_of_Fine_Arts,_main_entrance,_Montreal.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Museum_of_Fine_Arts%2C_main_entrance%2C_Montreal.jpg/1920px-Museum_of_Fine_Arts%2C_main_entrance%2C_Montreal.jpg
+  credit: 'Photo: Thomas Ledl / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Museum_of_Fine_Arts,_main_entrance,_Montreal.jpg
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Montreal-Museum-of-Fine-Arts-May-2024.jpg/3840px-Montreal-Museum-of-Fine-Arts-May-2024.jpg"
-    credit: "Photo: Acediscovery / Wikimedia Commons (CC BY 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Montreal-Museum-of-Fine-Arts-May-2024.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Montreal-Museum-of-Fine-Arts-May-2024.jpg/3840px-Montreal-Museum-of-Fine-Arts-May-2024.jpg
+    credit: 'Photo: Acediscovery / Wikimedia Commons (CC BY 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Montreal-Museum-of-Fine-Arts-May-2024.jpg
 place:
-  id: "ChIJZcCSF0AayUwRsDVrEHZsydY"
-  name: "Montreal Museum of Fine Arts"
-  address: "1380 Rue Sherbrooke O, Montréal, QC H3G 1J5, Canada"
+  id: ChIJZcCSF0AayUwRsDVrEHZsydY
+  name: Montreal Museum of Fine Arts
+  address: '1380 Rue Sherbrooke O, Montréal, QC H3G 1J5, Canada'
   rating: 4.7
-  userRatingsTotal: 17995
-  googleMapsUrl: "https://maps.google.com/?cid=15477020848772822448&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 17999
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15477020848772822448&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 45.4985219
   lng: -73.5794001
-  phone: "+1 514-285-2000"
+  phone: +1 514-285-2000
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 10:00 AM – 5:00 PM"
-    - "Wednesday: 10:00 AM – 9:00 PM"
-    - "Thursday: 10:00 AM – 5:00 PM"
-    - "Friday: 10:00 AM – 5:00 PM"
-    - "Saturday: 10:00 AM – 5:00 PM"
-    - "Sunday: 10:00 AM – 5:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 10:00 AM – 5:00 PM'
+    - 'Wednesday: 10:00 AM – 9:00 PM'
+    - 'Thursday: 10:00 AM – 5:00 PM'
+    - 'Friday: 10:00 AM – 5:00 PM'
+    - 'Saturday: 10:00 AM – 5:00 PM'
+    - 'Sunday: 10:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-10-22
+    updated: 2026-10-22T00:00:00.000Z
     weekdayQuiet:
       - 10
       - 17
@@ -48,24 +56,44 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_596479735a48457256447352775579614130465343635a4a496843"
+    venueId: ven_596479735a48457256447352775579614130465343635a4a496843
 tags:
-  - "montreal"
-  - "museum"
-quickAnswer: "The Montreal Museum of Fine Arts sits on Rue Sherbrooke Ouest in Montreal's Golden Square Mile, a short walk from Guy-Concordia metro on the Green Line. Give it 2–4 hours. On weekdays it's calmest from 10am to 11am, and on Wednesdays, when it currently stays open until 9pm, also from 5pm to 6pm. On weekends, try not to arrive between 12pm and 5pm."
+  - montreal
+  - museum
+quickAnswer: >-
+  The Montreal Museum of Fine Arts sits on Rue Sherbrooke Ouest in Montreal's
+  Golden Square Mile, a short walk from Guy-Concordia metro on the Green Line.
+  Give it 2–4 hours. On weekdays it's calmest from 10am to 11am, and on
+  Wednesdays, when it currently stays open until 9pm, also from 5pm to 6pm. On
+  weekends, try not to arrive between 12pm and 5pm.
 faq:
-  - q: "When is the quietest time to visit the Montreal Museum of Fine Arts?"
-    a: "On weekdays, 10am–11am and 5pm–6pm are the quietest windows. The 5pm–6pm slot only exists on Wednesday, when the museum currently stays open until 9pm. Avoid weekends between 12pm and 5pm, the busiest stretch."
-  - q: "Which metro station is closest?"
-    a: "Guy-Concordia on the Green Line is about a five-minute walk south of the museum. Peel, also on the Green Line, is a similar walk away."
-  - q: "Is the museum open on Mondays?"
-    a: "No, it's currently closed on Mondays. It opens 10am–5pm Tuesday to Sunday, with a late opening to 9pm on Wednesdays. Hours change around holidays, so check the official site before you go."
-  - q: "How long should I spend there?"
-    a: "About three hours covers the Québec and Canadian galleries plus one other pavilion. Allow most of a day if you also want to see a major temporary exhibition."
-  - q: "What's nearby to pair with a visit?"
-    a: "McGill University and the mansions of the Golden Square Mile are a short walk away. Rue Crescent's cafés are a few blocks south. Mount Royal park starts up the hill to the north."
+  - q: When is the quietest time to visit the Montreal Museum of Fine Arts?
+    a: >-
+      On weekdays, 10am–11am and 5pm–6pm are the quietest windows. The 5pm–6pm
+      slot only exists on Wednesday, when the museum currently stays open until
+      9pm. Avoid weekends between 12pm and 5pm, the busiest stretch.
+  - q: Which metro station is closest?
+    a: >-
+      Guy-Concordia on the Green Line is about a five-minute walk south of the
+      museum. Peel, also on the Green Line, is a similar walk away.
+  - q: Is the museum open on Mondays?
+    a: >-
+      No, it's currently closed on Mondays. It opens 10am–5pm Tuesday to Sunday,
+      with a late opening to 9pm on Wednesdays. Hours change around holidays, so
+      check the official site before you go.
+  - q: How long should I spend there?
+    a: >-
+      About three hours covers the Québec and Canadian galleries plus one other
+      pavilion. Allow most of a day if you also want to see a major temporary
+      exhibition.
+  - q: What's nearby to pair with a visit?
+    a: >-
+      McGill University and the mansions of the Golden Square Mile are a short
+      walk away. Rue Crescent's cafés are a few blocks south. Mount Royal park
+      starts up the hill to the north.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-22'
 ---
 
 ## Five buildings on one street

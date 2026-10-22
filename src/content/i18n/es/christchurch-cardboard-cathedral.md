@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: christchurch-cardboard-cathedral
-srcHash: '9b1b8674fc48'
+srcHash: 'b697eca4fc9e'
 title: 'Catedral de Cartón (Cardboard Cathedral): guía de viaje de Christchurch (4.4★)'
-description: En pleno centro de Christchurch, la Catedral de Cartón se alza en Hereford Street, junto a Latimer Square y a pocos pasos al este de Cathedral Square. Con 4.4★ (2,206 reseñas), le contamos qué opinan los visitantes, cuál es su horario y algunos consejos útiles.
+description: En pleno centro de Christchurch, la Catedral de Cartón se alza en Hereford Street, junto a Latimer Square y a pocos pasos al este de Cathedral Square. Con 4.4★ (2,207 reseñas), le contamos qué opinan los visitantes, cuál es su horario y algunos consejos útiles.
 quickAnswer: La Catedral de Cartón (Cardboard Cathedral) se encuentra en Hereford Street, en el centro de Christchurch, junto a Latimer Square y a un corto paseo al este de Cathedral Square. Es la catedral anglicana provisional que se levantó tras el terremoto de 2011. Los fines de semana, la franja más tranquila va de 1pm a 4pm, aunque el domingo cierra a las 3pm. Conviene evitar las mañanas de fin de semana entre las 9am y la 1pm, cuando se concentra el mayor número de visitantes.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar la Catedral de Cartón?

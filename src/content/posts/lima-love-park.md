@@ -1,45 +1,54 @@
 ---
-title: "Love Park: Lima Travel Guide (4.5★)"
-description: "Love Park (Parque del Amor) is a free clifftop park on the Malecón Cisneros in Miraflores, Lima, known for Víctor Delfín's giant kissing sculpture and Gaudí-style mosaic benches above the Pacific. 4.5★ (30,924 reviews) — what visitors say, hours, and tips."
-country: "Peru"
-region: "Lima"
-category: "attraction"
-pubDate: "2026-10-22T14:53:39.103Z"
+title: 'Love Park: Lima Travel Guide (4.5★)'
+description: >-
+  Love Park (Parque del Amor) is a free clifftop park on the Malecón Cisneros in
+  Miraflores, Lima, known for Víctor Delfín's giant kissing sculpture and
+  Gaudí-style mosaic benches above the Pacific. 4.5★ (30,925 reviews) — what
+  visitors say, hours, and tips.
+country: Peru
+region: Lima
+category: attraction
+pubDate: '2026-10-22T14:53:39.103Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/2/20/El_Parque_del_Amor_%28Love_Park%29%2C_Lima%2C_Peru.jpg"
-  credit: "Photo: Xzelenz Media / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:El_Parque_del_Amor_(Love_Park),_Lima,_Peru.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/2/20/El_Parque_del_Amor_%28Love_Park%29%2C_Lima%2C_Peru.jpg
+  credit: 'Photo: Xzelenz Media / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:El_Parque_del_Amor_(Love_Park),_Lima,_Peru.jpg
+  via: act
   focus:
     x: 45
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Love_Park_on_Valentine%27s_day_in_Lima_Peru.jpg/3840px-Love_Park_on_Valentine%27s_day_in_Lima_Peru.jpg"
-    credit: "Photo: Stefanie183 / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Love_Park_on_Valentine%27s_day_in_Lima_Peru.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Love_Park_on_Valentine%27s_day_in_Lima_Peru.jpg/3840px-Love_Park_on_Valentine%27s_day_in_Lima_Peru.jpg
+    credit: 'Photo: Stefanie183 / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Love_Park_on_Valentine%27s_day_in_Lima_Peru.jpg
 place:
-  id: "ChIJdQ2wCSHIBZERGCknnwoWaEk"
-  name: "Love Park"
-  address: "Mal. Cisneros, Miraflores LIMA 18, Peru"
+  id: ChIJdQ2wCSHIBZERGCknnwoWaEk
+  name: Love Park
+  address: 'Mal. Cisneros, Miraflores LIMA 18, Peru'
   rating: 4.5
-  userRatingsTotal: 30924
-  googleMapsUrl: "https://maps.google.com/?cid=5289501997222275352&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 30925
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5289501997222275352&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -12.126943599999999
   lng: -77.03661559999999
-  phone: "+51 927 960 730"
+  phone: +51 927 960 730
   openingHours:
-    - "Monday: 6:00 AM – 11:00 PM"
-    - "Tuesday: 6:00 AM – 11:00 PM"
-    - "Wednesday: 6:00 AM – 11:00 PM"
-    - "Thursday: 6:00 AM – 11:00 PM"
-    - "Friday: 6:00 AM – 11:00 PM"
-    - "Saturday: 6:00 AM – 11:00 PM"
-    - "Sunday: 6:00 AM – 11:00 PM"
+    - 'Monday: 6:00 AM – 11:00 PM'
+    - 'Tuesday: 6:00 AM – 11:00 PM'
+    - 'Wednesday: 6:00 AM – 11:00 PM'
+    - 'Thursday: 6:00 AM – 11:00 PM'
+    - 'Friday: 6:00 AM – 11:00 PM'
+    - 'Saturday: 6:00 AM – 11:00 PM'
+    - 'Sunday: 6:00 AM – 11:00 PM'
   busyness:
-    updated: 2026-10-22
+    updated: 2026-10-22T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -57,24 +66,43 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_6b4561576f776e6e6b434752455a4249485343773251644a496843"
+    venueId: ven_6b4561576f776e6e6b434752455a4249485343773251644a496843
 tags:
-  - "lima"
-  - "top attraction"
-quickAnswer: "Love Park (Parque del Amor) is a free clifftop park on the Malecón Cisneros in Miraflores, Lima, known for Víctor Delfín's giant kissing sculpture and Gaudí-style mosaic benches above the Pacific. It's quietest from 7am–10am on weekdays and 7am–9am on weekends. On weekends, avoid 2pm–11pm, when it's at its busiest."
+  - lima
+  - top attraction
+quickAnswer: >-
+  Love Park (Parque del Amor) is a free clifftop park on the Malecón Cisneros in
+  Miraflores, Lima, known for Víctor Delfín's giant kissing sculpture and
+  Gaudí-style mosaic benches above the Pacific. It's quietest from 7am–10am on
+  weekdays and 7am–9am on weekends. On weekends, avoid 2pm–11pm, when it's at
+  its busiest.
 faq:
-  - q: "When is the quietest time to visit Love Park?"
-    a: "Go between 7am and 10am on weekdays, or 7am and 9am on weekends. Avoid weekends from 2pm to 11pm, which is the busiest stretch."
-  - q: "What are Love Park's opening hours?"
-    a: "This week it's listed as open 6:00am–11:00pm every day. Park hours can change with the season, so check the Miraflores municipality's site before you go."
-  - q: "How do I get to Love Park from Parque Kennedy?"
-    a: "Walk toward the ocean through Miraflores. It takes about 15 minutes to reach the Malecón Cisneros. A taxi from a ride-hailing app is also easy if you ask for Parque del Amor."
-  - q: "How long should I spend there?"
-    a: "Allow 30–45 minutes for the park itself. Add an hour if you want to walk the malecón to Parque Raimondi and on to Larcomar."
-  - q: "What is the kissing statue?"
-    a: "It's El Beso, by the Peruvian sculptor Víctor Delfín. It shows the artist and his wife embracing, and has stood here since the park opened on Valentine's Day 1993."
+  - q: When is the quietest time to visit Love Park?
+    a: >-
+      Go between 7am and 10am on weekdays, or 7am and 9am on weekends. Avoid
+      weekends from 2pm to 11pm, which is the busiest stretch.
+  - q: What are Love Park's opening hours?
+    a: >-
+      This week it's listed as open 6:00am–11:00pm every day. Park hours can
+      change with the season, so check the Miraflores municipality's site before
+      you go.
+  - q: How do I get to Love Park from Parque Kennedy?
+    a: >-
+      Walk toward the ocean through Miraflores. It takes about 15 minutes to
+      reach the Malecón Cisneros. A taxi from a ride-hailing app is also easy if
+      you ask for Parque del Amor.
+  - q: How long should I spend there?
+    a: >-
+      Allow 30–45 minutes for the park itself. Add an hour if you want to walk
+      the malecón to Parque Raimondi and on to Larcomar.
+  - q: What is the kissing statue?
+    a: >-
+      It's El Beso, by the Peruvian sculptor Víctor Delfín. It shows the artist
+      and his wife embracing, and has stood here since the park opened on
+      Valentine's Day 1993.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-22'
 ---
 
 ## A kiss on the cliff edge

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: huacachina-huacachina-oasis
-srcHash: 'c74b544c9192'
+srcHash: '688af65bcd7d'
 title: 'Oasis de Huacachina: guía de viaje (4.6★)'
-description: 'Rodeado de dunas, el oasis de Huacachina es un pequeño pueblo junto a una laguna situado a unos 5 km al oeste de la ciudad de Ica, en el sur del Perú. Desde los terminales de autobuses de Ica se llega con un breve trayecto en taxi. Valoración de 4.6★ (5,069 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'Rodeado de dunas, el oasis de Huacachina es un pequeño pueblo junto a una laguna situado a unos 5 km al oeste de la ciudad de Ica, en el sur del Perú. Desde los terminales de autobuses de Ica se llega con un breve trayecto en taxi. Valoración de 4.6★ (5,070 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Rodeado de dunas, el oasis de Huacachina es un pequeño pueblo junto a una laguna situado a unos 5 km al oeste de la ciudad de Ica, en el sur del Perú. Desde los terminales de autobuses de Ica se llega con un breve trayecto en taxi. Los momentos de mayor tranquilidad van de 7am a 9am entre semana y de 7am a 8am los fines de semana. La mayor aglomeración se produce los sábados y domingos de 12pm a 9pm, que es también cuando salen los paseos en arenero al atardecer.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el oasis de Huacachina?

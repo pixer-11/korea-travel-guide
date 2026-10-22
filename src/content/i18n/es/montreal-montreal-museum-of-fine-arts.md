@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: montreal-montreal-museum-of-fine-arts
-srcHash: '16b88eda320c'
+srcHash: '699e11f192b1'
 title: 'Museo de Bellas Artes de Montreal: guía de viaje (4.7★)'
-description: En plena Golden Square Mile de Montreal, sobre la Rue Sherbrooke Ouest, el Museo de Bellas Artes queda a pocos minutos a pie de la estación de metro Guy-Concordia, en la línea verde. Con una valoración de 4.7★ (17,995 reseñas), aquí encontrará lo que opinan los visitantes, el horario y consejos prácticos.
+description: En plena Golden Square Mile de Montreal, sobre la Rue Sherbrooke Ouest, el Museo de Bellas Artes queda a pocos minutos a pie de la estación de metro Guy-Concordia, en la línea verde. Con una valoración de 4.7★ (17,999 reseñas), aquí encontrará lo que opinan los visitantes, el horario y consejos prácticos.
 quickAnswer: En plena Golden Square Mile de Montreal, sobre la Rue Sherbrooke Ouest, se encuentra el Museo de Bellas Artes, a pocos minutos a pie de la estación de metro Guy-Concordia, en la línea verde. Conviene reservarle entre 2 y 4 horas. Entre semana, la franja más tranquila va de 10am a 11am. Los miércoles, día en que actualmente cierra a las 9pm, también hay calma de 5pm a 6pm. El fin de semana es mejor no llegar entre las 12pm y las 5pm.
 faq:
   - q: ¿Cuándo hay menos gente en el Museo de Bellas Artes de Montreal?

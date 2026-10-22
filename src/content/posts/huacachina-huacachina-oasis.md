@@ -1,45 +1,54 @@
 ---
-title: "Huacachina Oasis: Travel Guide (4.6★)"
-description: "Huacachina Oasis is a small lagoon village ringed by sand dunes about 5 km west of Ica city in southern Peru, reached by a short taxi ride from the Ica bus terminals. 4.6★ (5,069 reviews) — what visitors say, hours, and tips."
-country: "Peru"
-region: "Huacachina"
-category: "attraction"
-pubDate: "2026-10-22T14:52:43.327Z"
+title: 'Huacachina Oasis: Travel Guide (4.6★)'
+description: >-
+  Huacachina Oasis is a small lagoon village ringed by sand dunes about 5 km
+  west of Ica city in southern Peru, reached by a short taxi ride from the Ica
+  bus terminals. 4.6★ (5,070 reviews) — what visitors say, hours, and tips.
+country: Peru
+region: Huacachina
+category: attraction
+pubDate: '2026-10-22T14:52:43.327Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/d/d1/Oasis_de_Huacachina_near_Hotel_Mossone_.jpg"
-  credit: "Photo: Pierre André Leclercq / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Oasis_de_Huacachina_near_Hotel_Mossone_.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/d/d1/Oasis_de_Huacachina_near_Hotel_Mossone_.jpg
+  credit: 'Photo: Pierre André Leclercq / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Oasis_de_Huacachina_near_Hotel_Mossone_.jpg
+  via: act
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/9/91/Oasis_Huacachina_-_Peru.jpg"
-    credit: "Photo: Gatol fotografia from La Paz, Bolivia / Wikimedia Commons (CC BY-SA 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Oasis_Huacachina_-_Peru.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/9/91/Oasis_Huacachina_-_Peru.jpg
+    credit: >-
+      Photo: Gatol fotografia from La Paz, Bolivia / Wikimedia Commons (CC BY-SA
+      2.0)
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Oasis_Huacachina_-_Peru.jpg'
 place:
-  id: "ChIJa3LLzXTjEJERhmPEQa-c_0I"
-  name: "Huacachina Oasis"
-  address: "Unnamed Road, Huacachina 11000, Peru"
+  id: ChIJa3LLzXTjEJERhmPEQa-c_0I
+  name: Huacachina Oasis
+  address: 'Unnamed Road, Huacachina 11000, Peru'
   rating: 4.6
-  userRatingsTotal: 5069
-  googleMapsUrl: "https://maps.google.com/?cid=4827749602101060486&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 5070
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4827749602101060486&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -14.0873523
   lng: -75.76310579999999
-  phone: "+51 906 988 369"
+  phone: +51 906 988 369
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-10-22
+    updated: 2026-10-22T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -59,24 +68,44 @@ place:
       - 18
       - 19
       - 20
-    venueId: "ven_49305f632d615145506d6852454a456a54587a4c4c33614a496843"
+    venueId: ven_49305f632d615145506d6852454a456a54587a4c4c33614a496843
 tags:
-  - "huacachina"
-  - "top attraction"
-quickAnswer: "Huacachina Oasis is a small lagoon village ringed by sand dunes about 5 km west of Ica city in southern Peru, reached by a short taxi ride from the Ica bus terminals. It's quietest between 7am and 9am on weekdays and 7am–8am at weekends. Weekends from 12pm to 9pm are the crush, and that's also when the sunset buggy tours go out."
+  - huacachina
+  - top attraction
+quickAnswer: >-
+  Huacachina Oasis is a small lagoon village ringed by sand dunes about 5 km
+  west of Ica city in southern Peru, reached by a short taxi ride from the Ica
+  bus terminals. It's quietest between 7am and 9am on weekdays and 7am–8am at
+  weekends. Weekends from 12pm to 9pm are the crush, and that's also when the
+  sunset buggy tours go out.
 faq:
-  - q: "When is the quietest time to visit Huacachina Oasis?"
-    a: "Early morning. It's calmest from 7am to 9am on weekdays and 7am to 8am at weekends. Avoid weekends from 12pm to 9pm, the busiest stretch."
-  - q: "How do I get to Huacachina from Lima?"
-    a: "Take a long-distance bus down the Panamericana Sur to Ica, which takes roughly 4–5 hours. Then it's a 10–15 minute taxi or mototaxi ride to the oasis. Some hop-on, hop-off backpacker buses stop in Huacachina directly."
-  - q: "How long should I spend in Huacachina?"
-    a: "One night is ideal. You get a sunset buggy and sandboarding tour of about two hours, plus a quiet early-morning climb up the dune behind the lagoon."
-  - q: "Is the buggy tour safe?"
-    a: "Generally yes, but check the buggy before you get in. Look for over-the-shoulder seatbelts, and tell the driver to slow down if you want to. Pick an operator you've compared rather than the first one to approach you."
-  - q: "What's near Huacachina?"
-    a: "Ica's pisco and wine bodegas are a short taxi ride away. Paracas and the Ballestas Islands are about an hour north, and the Nazca Lines are roughly 2.5 hours south."
+  - q: When is the quietest time to visit Huacachina Oasis?
+    a: >-
+      Early morning. It's calmest from 7am to 9am on weekdays and 7am to 8am at
+      weekends. Avoid weekends from 12pm to 9pm, the busiest stretch.
+  - q: How do I get to Huacachina from Lima?
+    a: >-
+      Take a long-distance bus down the Panamericana Sur to Ica, which takes
+      roughly 4–5 hours. Then it's a 10–15 minute taxi or mototaxi ride to the
+      oasis. Some hop-on, hop-off backpacker buses stop in Huacachina directly.
+  - q: How long should I spend in Huacachina?
+    a: >-
+      One night is ideal. You get a sunset buggy and sandboarding tour of about
+      two hours, plus a quiet early-morning climb up the dune behind the lagoon.
+  - q: Is the buggy tour safe?
+    a: >-
+      Generally yes, but check the buggy before you get in. Look for
+      over-the-shoulder seatbelts, and tell the driver to slow down if you want
+      to. Pick an operator you've compared rather than the first one to approach
+      you.
+  - q: What's near Huacachina?
+    a: >-
+      Ica's pisco and wine bodegas are a short taxi ride away. Paracas and the
+      Ballestas Islands are about an hour north, and the Nazca Lines are roughly
+      2.5 hours south.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-22'
 ---
 
 ## Water at the bottom of a sand bowl

@@ -1,44 +1,54 @@
 ---
-title: "Cardboard Cathedral: Christchurch Travel Guide (4.4★)"
-description: "The Cardboard Cathedral sits on Hereford Street in Christchurch Central City, on the edge of Latimer Square, a short walk east of Cathedral Square. 4.4★ (2,206 reviews) — what visitors say, hours, and tips."
-country: "New Zealand"
-region: "Christchurch"
-category: "attraction"
-pubDate: "2026-10-22T14:56:16.310Z"
+title: 'Cardboard Cathedral: Christchurch Travel Guide (4.4★)'
+description: >-
+  The Cardboard Cathedral sits on Hereford Street in Christchurch Central City,
+  on the edge of Latimer Square, a short walk east of Cathedral Square. 4.4★
+  (2,207 reviews) — what visitors say, hours, and tips.
+country: New Zealand
+region: Christchurch
+category: attraction
+pubDate: '2026-10-22T14:56:16.310Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Christchurch_Cardboard_Cathedral_1_%2831310889165%29.jpg/1920px-Christchurch_Cardboard_Cathedral_1_%2831310889165%29.jpg"
-  credit: "Photo: Tony Hisgett from Birmingham, UK / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Christchurch_Cardboard_Cathedral_1_(31310889165).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Christchurch_Cardboard_Cathedral_1_%2831310889165%29.jpg/1920px-Christchurch_Cardboard_Cathedral_1_%2831310889165%29.jpg
+  credit: 'Photo: Tony Hisgett from Birmingham, UK / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Christchurch_Cardboard_Cathedral_1_(31310889165).jpg
   focus:
     x: 55
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Christchurch_Cardboard_Cathedral_3_%2831274696786%29.jpg/3840px-Christchurch_Cardboard_Cathedral_3_%2831274696786%29.jpg"
-    credit: "Photo: Tony Hisgett from Birmingham, UK / Wikimedia Commons (CC BY 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Christchurch_Cardboard_Cathedral_3_(31274696786).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Christchurch_Cardboard_Cathedral_3_%2831274696786%29.jpg/3840px-Christchurch_Cardboard_Cathedral_3_%2831274696786%29.jpg
+    credit: 'Photo: Tony Hisgett from Birmingham, UK / Wikimedia Commons (CC BY 2.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Christchurch_Cardboard_Cathedral_3_(31274696786).jpg
 place:
-  id: "ChIJTfWAeyGKMW0RPleuecV8uAk"
-  name: "Cardboard Cathedral"
-  address: "234 Hereford Street, Christchurch Central City, Christchurch 8011, New Zealand"
+  id: ChIJTfWAeyGKMW0RPleuecV8uAk
+  name: Cardboard Cathedral
+  address: >-
+    234 Hereford Street, Christchurch Central City, Christchurch 8011, New
+    Zealand
   rating: 4.4
-  userRatingsTotal: 2206
-  googleMapsUrl: "https://maps.google.com/?cid=700446929647982398&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2207
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=700446929647982398&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -43.532340399999995
   lng: 172.6430484
-  phone: "+64 3 366 0046"
+  phone: +64 3 366 0046
   openingHours:
-    - "Monday: 9:00 AM – 4:00 PM"
-    - "Tuesday: 9:00 AM – 4:00 PM"
-    - "Wednesday: 9:00 AM – 4:00 PM"
-    - "Thursday: 9:00 AM – 4:00 PM"
-    - "Friday: 9:00 AM – 4:00 PM"
-    - "Saturday: 9:00 AM – 4:00 PM"
-    - "Sunday: 9:00 AM – 3:00 PM"
+    - 'Monday: 9:00 AM – 4:00 PM'
+    - 'Tuesday: 9:00 AM – 4:00 PM'
+    - 'Wednesday: 9:00 AM – 4:00 PM'
+    - 'Thursday: 9:00 AM – 4:00 PM'
+    - 'Friday: 9:00 AM – 4:00 PM'
+    - 'Saturday: 9:00 AM – 4:00 PM'
+    - 'Sunday: 9:00 AM – 3:00 PM'
   busyness:
-    updated: 2026-10-22
+    updated: 2026-10-22T00:00:00.000Z
     weekendQuiet:
       - 13
       - 14
@@ -48,24 +58,43 @@ place:
       - 10
       - 11
       - 12
-    venueId: "ven_6b41753856636575656c505230574d4b477965415766544a496843"
+    venueId: ven_6b41753856636575656c505230574d4b477965415766544a496843
 tags:
-  - "christchurch"
-  - "Cardboard Cathedral"
-quickAnswer: "The Cardboard Cathedral sits on Hereford Street in Christchurch Central City, on the edge of Latimer Square, a short walk east of Cathedral Square. It's the interim Anglican cathedral built after the 2011 earthquake, and on weekends it's calmest from 1pm to 4pm (Sunday closes at 3pm). Avoid weekend mornings between 9am and 1pm, its busiest stretch."
+  - christchurch
+  - Cardboard Cathedral
+quickAnswer: >-
+  The Cardboard Cathedral sits on Hereford Street in Christchurch Central City,
+  on the edge of Latimer Square, a short walk east of Cathedral Square. It's the
+  interim Anglican cathedral built after the 2011 earthquake, and on weekends
+  it's calmest from 1pm to 4pm (Sunday closes at 3pm). Avoid weekend mornings
+  between 9am and 1pm, its busiest stretch.
 faq:
-  - q: "When is the quietest time to visit the Cardboard Cathedral?"
-    a: "On weekends it's calmest from 1pm to 4pm, though Sunday closes at 3pm. Weekend mornings from 9am to 1pm are the busiest, partly because Sunday services fall then."
-  - q: "How long should I spend there?"
-    a: "Allow 30–45 minutes to see the tube structure, the stained-glass triangle and the nave. Stay longer if a concert or service is on."
-  - q: "What are the opening hours?"
-    a: "Currently 9am–4pm Monday to Saturday and 9am–3pm on Sunday. Services and events can change this, so check the official site before you go."
-  - q: "How do I get to the Cardboard Cathedral?"
-    a: "It's at 234 Hereford Street on Latimer Square, an easy walk east of Cathedral Square along Hereford Street. The central Bus Interchange is about fifteen minutes away on foot."
-  - q: "What's nearby?"
-    a: "Latimer Square is next door. ChristChurch Cathedral in Cathedral Square, the Canterbury Earthquake National Memorial on Oxford Terrace and the Quake City exhibition are all within walking distance."
+  - q: When is the quietest time to visit the Cardboard Cathedral?
+    a: >-
+      On weekends it's calmest from 1pm to 4pm, though Sunday closes at 3pm.
+      Weekend mornings from 9am to 1pm are the busiest, partly because Sunday
+      services fall then.
+  - q: How long should I spend there?
+    a: >-
+      Allow 30–45 minutes to see the tube structure, the stained-glass triangle
+      and the nave. Stay longer if a concert or service is on.
+  - q: What are the opening hours?
+    a: >-
+      Currently 9am–4pm Monday to Saturday and 9am–3pm on Sunday. Services and
+      events can change this, so check the official site before you go.
+  - q: How do I get to the Cardboard Cathedral?
+    a: >-
+      It's at 234 Hereford Street on Latimer Square, an easy walk east of
+      Cathedral Square along Hereford Street. The central Bus Interchange is
+      about fifteen minutes away on foot.
+  - q: What's nearby?
+    a: >-
+      Latimer Square is next door. ChristChurch Cathedral in Cathedral Square,
+      the Canterbury Earthquake National Memorial on Oxford Terrace and the
+      Quake City exhibition are all within walking distance.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-22'
 ---
 
 ## A church you can read from the footpath

@@ -1,40 +1,47 @@
 ---
-title: "Saqsaywaman: Cusco Travel Guide (4.7★)"
-description: "Saqsaywaman sits on the hill directly above Cusco's Plaza de Armas, about a 20–30 minute uphill walk, and entry is on the Boleto Turístico del Cusco rather than a separate ticket. 4.7★ (20,578 reviews) — what visitors say, hours, and tips."
-country: "Peru"
-region: "Cusco"
-category: "attraction"
-pubDate: "2026-10-22T14:53:10.349Z"
+title: 'Saqsaywaman: Cusco Travel Guide (4.7★)'
+description: >-
+  Saqsaywaman sits on the hill directly above Cusco's Plaza de Armas, about a
+  20–30 minute uphill walk, and entry is on the Boleto Turístico del Cusco
+  rather than a separate ticket. 4.7★ (20,580 reviews) — what visitors say,
+  hours, and tips.
+country: Peru
+region: Cusco
+category: attraction
+pubDate: '2026-10-22T14:53:10.349Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/7/75/Saqsaywaman%2C_cusco%2C_peru_-_panoramio_%281%29.jpg"
-  credit: "Photo: tamara semina / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Saqsaywaman,_cusco,_peru_-_panoramio_(1).jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/7/75/Saqsaywaman%2C_cusco%2C_peru_-_panoramio_%281%29.jpg
+  credit: 'Photo: tamara semina / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Saqsaywaman,_cusco,_peru_-_panoramio_(1).jpg
+  via: act
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery: []
 place:
-  id: "ChIJ_agIfG7WbZERPIDD5LG4PJ4"
-  name: "Saqsaywaman"
-  address: "Cusco 08002, Peru"
+  id: ChIJ_agIfG7WbZERPIDD5LG4PJ4
+  name: Saqsaywaman
+  address: 'Cusco 08002, Peru'
   rating: 4.7
-  userRatingsTotal: 20578
-  googleMapsUrl: "https://maps.google.com/?cid=11402191430781993020&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 20580
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=11402191430781993020&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -13.509856
   lng: -71.9816878
   openingHours:
-    - "Monday: 7:00 AM – 5:30 PM"
-    - "Tuesday: 7:00 AM – 5:30 PM"
-    - "Wednesday: 7:00 AM – 5:30 PM"
-    - "Thursday: 7:00 AM – 5:30 PM"
-    - "Friday: 7:00 AM – 5:30 PM"
-    - "Saturday: 7:00 AM – 5:30 PM"
-    - "Sunday: 7:00 AM – 5:30 PM"
+    - 'Monday: 7:00 AM – 5:30 PM'
+    - 'Tuesday: 7:00 AM – 5:30 PM'
+    - 'Wednesday: 7:00 AM – 5:30 PM'
+    - 'Thursday: 7:00 AM – 5:30 PM'
+    - 'Friday: 7:00 AM – 5:30 PM'
+    - 'Saturday: 7:00 AM – 5:30 PM'
+    - 'Sunday: 7:00 AM – 5:30 PM'
   busyness:
-    updated: 2026-10-22
+    updated: 2026-10-22T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -49,24 +56,42 @@ place:
       - 12
       - 14
       - 15
-    venueId: "ven_344a5034474c354444495052455a62573747664967615f4a496843"
+    venueId: ven_344a5034474c354444495052455a62573747664967615f4a496843
 tags:
-  - "cusco"
-  - "top attraction"
-quickAnswer: "Saqsaywaman sits on the hill directly above Cusco's Plaza de Armas, about a 20–30 minute uphill walk, and entry is on the Boleto Turístico del Cusco rather than a separate ticket. It's quietest from 7am to 9am every day of the week. On weekends, try not to arrive between 10am and 1pm or between 2pm and 4pm."
+  - cusco
+  - top attraction
+quickAnswer: >-
+  Saqsaywaman sits on the hill directly above Cusco's Plaza de Armas, about a
+  20–30 minute uphill walk, and entry is on the Boleto Turístico del Cusco
+  rather than a separate ticket. It's quietest from 7am to 9am every day of the
+  week. On weekends, try not to arrive between 10am and 1pm or between 2pm and
+  4pm.
 faq:
-  - q: "When is the quietest time to visit Saqsaywaman?"
-    a: "From 7am to 9am, both on weekdays and at weekends. On weekends, avoid 10am–1pm and 2pm–4pm, which are the busiest windows."
-  - q: "Can I walk to Saqsaywaman from central Cusco?"
-    a: "Yes. From the Plaza de Armas, take Calle Suecia or go via the Church of San Cristóbal. It's a steep 20–30 minute climb at around 3,700 metres, so take a taxi if you have only just arrived in Cusco."
-  - q: "Do I need a separate ticket?"
-    a: "No. Entry is on the Boleto Turístico del Cusco, which also covers Q'enqo, Puka Pukara and Tambomachay. It's sold at the official COSITUC office and at the entrance, where current prices are posted."
-  - q: "How long should I spend there?"
-    a: "Allow 1.5–2 hours for the site. Allow half a day if you add Cristo Blanco, Q'enqo and the sites further up the road."
-  - q: "What are the opening hours?"
-    a: "At the moment it is open 7am–5:30pm every day. Hours can change, so check the Ministry of Culture's official site before you go."
+  - q: When is the quietest time to visit Saqsaywaman?
+    a: >-
+      From 7am to 9am, both on weekdays and at weekends. On weekends, avoid
+      10am–1pm and 2pm–4pm, which are the busiest windows.
+  - q: Can I walk to Saqsaywaman from central Cusco?
+    a: >-
+      Yes. From the Plaza de Armas, take Calle Suecia or go via the Church of
+      San Cristóbal. It's a steep 20–30 minute climb at around 3,700 metres, so
+      take a taxi if you have only just arrived in Cusco.
+  - q: Do I need a separate ticket?
+    a: >-
+      No. Entry is on the Boleto Turístico del Cusco, which also covers Q'enqo,
+      Puka Pukara and Tambomachay. It's sold at the official COSITUC office and
+      at the entrance, where current prices are posted.
+  - q: How long should I spend there?
+    a: >-
+      Allow 1.5–2 hours for the site. Allow half a day if you add Cristo Blanco,
+      Q'enqo and the sites further up the road.
+  - q: What are the opening hours?
+    a: >-
+      At the moment it is open 7am–5:30pm every day. Hours can change, so check
+      the Ministry of Culture's official site before you go.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-22'
 ---
 
 ## Walls that swallow a person

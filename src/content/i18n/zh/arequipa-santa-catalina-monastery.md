@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: arequipa-santa-catalina-monastery
-srcHash: '2f95238eaa45'
+srcHash: '62cf1a329333'
 title: 阿雷基帕圣卡塔利娜修道院旅行指南（4.7★）
-description: 圣卡塔利娜修道院位于阿雷基帕历史中心的Santa Catalina 301，从武器广场往北步行几分钟即到。评分4.7★（10,618条评价），本文汇总游客评价、开放时间和参观建议。
+description: 圣卡塔利娜修道院位于阿雷基帕历史中心的Santa Catalina 301，从武器广场往北步行几分钟即到。评分4.7★（10,620条评价），本文汇总游客评价、开放时间和参观建议。
 quickAnswer: 圣卡塔利娜修道院（Monasterio de Santa Catalina）位于阿雷基帕历史中心的Santa Catalina 301，从武器广场（Plaza de Armas）往北步行几分钟即到。这座建于16世纪的多明我会女修道院自成一体，宛如一座有城墙围绕的小镇，想好好看一遍需要两到三个小时。每天上午9点–10点人最少，周末下午4点–5点也比较清静。周末中午12点–下午2点最好避开。
 faq:
   - q: 什么时候去圣卡塔利娜修道院人最少？

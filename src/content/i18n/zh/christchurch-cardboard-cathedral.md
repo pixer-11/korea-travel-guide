@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: christchurch-cardboard-cathedral
-srcHash: '9b1b8674fc48'
+srcHash: 'b697eca4fc9e'
 title: 基督城纸板教堂旅行指南（4.4★）
-description: 纸板教堂位于基督城中心城区的赫里福德街（Hereford Street），紧邻拉蒂默广场，从大教堂广场向东步行片刻即到。评分4.4★（2,206条评价），本文汇总游客评价、开放时间和参观建议。
+description: 纸板教堂位于基督城中心城区的赫里福德街（Hereford Street），紧邻拉蒂默广场，从大教堂广场向东步行片刻即到。评分4.4★（2,207条评价），本文汇总游客评价、开放时间和参观建议。
 quickAnswer: 纸板教堂位于基督城中心城区的赫里福德街（Hereford Street），紧邻拉蒂默广场（Latimer Square），从大教堂广场（Cathedral Square）向东步行片刻即到。2011年地震后，圣公会建起这座教堂作为临时主教座堂。周末下午1点至4点人最少，但周日下午3点就闭馆。周末上午9点至下午1点是一天中最拥挤的时段，最好避开。
 faq:
   - q: 什么时候去纸板教堂人最少？

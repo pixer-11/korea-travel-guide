@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: montreal-montreal-museum-of-fine-arts
-srcHash: '16b88eda320c'
+srcHash: '699e11f192b1'
 title: 蒙特利尔美术馆旅行指南（4.7★）
-description: 蒙特利尔美术馆坐落在金色广场英里（Golden Square Mile）的舍布鲁克西街（Rue Sherbrooke Ouest）上，从地铁绿线居伊-康科迪亚站（Guy-Concordia）步行过去只需几分钟。评分4.7★（17,995条评价）。本文汇总游客评价、开放时间和参观建议。
+description: 蒙特利尔美术馆坐落在金色广场英里（Golden Square Mile）的舍布鲁克西街（Rue Sherbrooke Ouest）上，从地铁绿线居伊-康科迪亚站（Guy-Concordia）步行过去只需几分钟。评分4.7★（17,999条评价）。本文汇总游客评价、开放时间和参观建议。
 quickAnswer: 蒙特利尔美术馆坐落在金色广场英里（Golden Square Mile）的舍布鲁克西街（Rue Sherbrooke Ouest）上，从地铁绿线居伊-康科迪亚站（Guy-Concordia）步行过去只需几分钟。建议预留2–4小时。工作日上午10点–11点人最少。目前每逢周三开放到晚上9点，所以周三下午5点–6点也很清静。周末尽量别在中午12点到下午5点之间入馆。
 faq:
   - q: 什么时候去蒙特利尔美术馆人最少？

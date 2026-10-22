@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: montreal-kondiaronk-belvedere
-srcHash: '3c42280f9438'
+srcHash: '4478d3d13873'
 title: 'Mirador Kondiaronk: guía de viaje de Montreal (4.8★)'
-description: 'Frente al Chalet del Monte Real de Montreal se abre el Mirador Kondiaronk, una amplia terraza de piedra con vistas directas al centro de la ciudad y al río San Lorenzo. 4.8★ (13,466 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'Frente al Chalet del Monte Real de Montreal se abre el Mirador Kondiaronk, una amplia terraza de piedra con vistas directas al centro de la ciudad y al río San Lorenzo. 4.8★ (13,468 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Frente al Chalet del Monte Real (Chalet du Mont-Royal), en Montreal, se extiende el Mirador Kondiaronk (Belvédère Kondiaronk), una amplia terraza de piedra desde la que se domina el centro de la ciudad y, a lo lejos, el río San Lorenzo. Se puede subir por la escalera que arranca al final de la calle Peel o por el sendero del camino Olmsted, de pendiente más suave. También puede tomar el autobús 11 y caminar un breve trecho. El horario actual es de 6am a medianoche. Si quiere asomarse a la barandilla sin aglomeraciones, lo más sencillo es ir a primera hora de la mañana.
 faq:
   - q: ¿Cómo se llega al Mirador Kondiaronk desde el centro de Montreal?

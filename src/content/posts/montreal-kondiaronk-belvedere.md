@@ -1,60 +1,92 @@
 ---
-title: "Kondiaronk Belvedere: Montreal Travel Guide (4.8★)"
-description: "Kondiaronk Belvedere is the wide stone terrace in front of the Mount Royal Chalet in Montreal, looking straight down onto downtown and out to the St. Lawrence River. 4.8★ (13,466 reviews) — what visitors say, hours, and tips."
-country: "Canada"
-region: "Montreal"
-category: "attraction"
-pubDate: "2026-10-22T14:55:30.040Z"
+title: 'Kondiaronk Belvedere: Montreal Travel Guide (4.8★)'
+description: >-
+  Kondiaronk Belvedere is the wide stone terrace in front of the Mount Royal
+  Chalet in Montreal, looking straight down onto downtown and out to the St.
+  Lawrence River. 4.8★ (13,468 reviews) — what visitors say, hours, and tips.
+country: Canada
+region: Montreal
+category: attraction
+pubDate: '2026-10-22T14:55:30.040Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Belvedere_Kondiaronk_chalet_du_Mont_Royal.jpg/3840px-Belvedere_Kondiaronk_chalet_du_Mont_Royal.jpg"
-  credit: "Photo: Paolo Costa Baldi / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Belvedere_Kondiaronk_chalet_du_Mont_Royal.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Belvedere_Kondiaronk_chalet_du_Mont_Royal.jpg/3840px-Belvedere_Kondiaronk_chalet_du_Mont_Royal.jpg
+  credit: 'Photo: Paolo Costa Baldi / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Belvedere_Kondiaronk_chalet_du_Mont_Royal.jpg
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Montr%C3%A9al%2C_la_table_d%27orientation_du_Belv%C3%A9d%C3%A8re_Kondiaronk_%282%29.JPG/3840px-Montr%C3%A9al%2C_la_table_d%27orientation_du_Belv%C3%A9d%C3%A8re_Kondiaronk_%282%29.JPG"
-    credit: "Photo: Pierre André / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Montr%C3%A9al,_la_table_d%27orientation_du_Belv%C3%A9d%C3%A8re_Kondiaronk_(2).JPG"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Montr%C3%A9al%2C_la_table_d%27orientation_du_Belv%C3%A9d%C3%A8re_Kondiaronk_%282%29.JPG/3840px-Montr%C3%A9al%2C_la_table_d%27orientation_du_Belv%C3%A9d%C3%A8re_Kondiaronk_%282%29.JPG
+    credit: 'Photo: Pierre André / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Montr%C3%A9al,_la_table_d%27orientation_du_Belv%C3%A9d%C3%A8re_Kondiaronk_(2).JPG
 place:
-  id: "ChIJ__-_hzsayUwRRU2SDjpeLy0"
-  name: "Kondiaronk Belvedere"
-  address: "1196 Voie Camillien-Houde, Montréal, QC H3G 1A1, Canada"
+  id: ChIJ__-_hzsayUwRRU2SDjpeLy0
+  name: Kondiaronk Belvedere
+  address: '1196 Voie Camillien-Houde, Montréal, QC H3G 1A1, Canada'
   rating: 4.8
-  userRatingsTotal: 13466
-  googleMapsUrl: "https://maps.google.com/?cid=3255924659057741125&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 13468
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3255924659057741125&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 45.5033726
   lng: -73.5868754
-  phone: "+1 514-872-3911"
+  phone: +1 514-872-3911
   openingHours:
-    - "Monday: 6:00 AM – 12:00 AM"
-    - "Tuesday: 6:00 AM – 12:00 AM"
-    - "Wednesday: 6:00 AM – 12:00 AM"
-    - "Thursday: 6:00 AM – 12:00 AM"
-    - "Friday: 6:00 AM – 12:00 AM"
-    - "Saturday: 6:00 AM – 12:00 AM"
-    - "Sunday: 6:00 AM – 12:00 AM"
+    - 'Monday: 6:00 AM – 12:00 AM'
+    - 'Tuesday: 6:00 AM – 12:00 AM'
+    - 'Wednesday: 6:00 AM – 12:00 AM'
+    - 'Thursday: 6:00 AM – 12:00 AM'
+    - 'Friday: 6:00 AM – 12:00 AM'
+    - 'Saturday: 6:00 AM – 12:00 AM'
+    - 'Sunday: 6:00 AM – 12:00 AM'
 tags:
-  - "montreal"
-  - "Mount Royal Park"
-quickAnswer: "Kondiaronk Belvedere is the wide stone terrace in front of the Mount Royal Chalet in Montreal, looking straight down onto downtown and out to the St. Lawrence River. Reach it by the staircase at the top of Peel Street, by the gentler Olmsted Road trail, or by bus 11 and a short walk. It currently opens 6am to midnight, and an early-morning visit is the easiest way to get the railing without a crowd."
+  - montreal
+  - Mount Royal Park
+quickAnswer: >-
+  Kondiaronk Belvedere is the wide stone terrace in front of the Mount Royal
+  Chalet in Montreal, looking straight down onto downtown and out to the St.
+  Lawrence River. Reach it by the staircase at the top of Peel Street, by the
+  gentler Olmsted Road trail, or by bus 11 and a short walk. It currently opens
+  6am to midnight, and an early-morning visit is the easiest way to get the
+  railing without a crowd.
 faq:
-  - q: "How do I get to Kondiaronk Belvedere from downtown Montreal?"
-    a: "Walk from Peel station (Green Line) up Rue Peel past Avenue des Pins to the staircase. It takes roughly 20–30 minutes uphill. For less climbing, take bus 11 from Mont-Royal station (Orange Line) to the Beaver Lake area and walk about 15–20 minutes through the park."
-  - q: "What are the opening hours?"
-    a: "At the moment it is listed as open 6am to midnight every day. Mount Royal Park hours can change through the year, so check the official City of Montréal or Les amis de la montagne site before a late visit."
-  - q: "When is the best time to visit?"
-    a: "There's no measured crowd data for the terrace. Arriving soon after the 6am opening on a weekday is your best chance of a quiet railing. Fall colours peak around late September and October, and the city lights come on after dusk."
-  - q: "How long should I plan for?"
-    a: "Plan 1.5–2 hours for the walk up from downtown, time on the terrace and the walk back. Add an hour if you include the Mount Royal Cross or Beaver Lake."
-  - q: "Is there parking near the belvedere?"
-    a: "Yes, there are paid lots near Beaver Lake and Maison Smith off Voie Camillien-Houde and Chemin Remembrance. Rates are posted at the pay stations, and it's a short forest walk from either lot to the terrace."
+  - q: How do I get to Kondiaronk Belvedere from downtown Montreal?
+    a: >-
+      Walk from Peel station (Green Line) up Rue Peel past Avenue des Pins to
+      the staircase. It takes roughly 20–30 minutes uphill. For less climbing,
+      take bus 11 from Mont-Royal station (Orange Line) to the Beaver Lake area
+      and walk about 15–20 minutes through the park.
+  - q: What are the opening hours?
+    a: >-
+      At the moment it is listed as open 6am to midnight every day. Mount Royal
+      Park hours can change through the year, so check the official City of
+      Montréal or Les amis de la montagne site before a late visit.
+  - q: When is the best time to visit?
+    a: >-
+      There's no measured crowd data for the terrace. Arriving soon after the
+      6am opening on a weekday is your best chance of a quiet railing. Fall
+      colours peak around late September and October, and the city lights come
+      on after dusk.
+  - q: How long should I plan for?
+    a: >-
+      Plan 1.5–2 hours for the walk up from downtown, time on the terrace and
+      the walk back. Add an hour if you include the Mount Royal Cross or Beaver
+      Lake.
+  - q: Is there parking near the belvedere?
+    a: >-
+      Yes, there are paid lots near Beaver Lake and Maison Smith off Voie
+      Camillien-Houde and Chemin Remembrance. Rates are posted at the pay
+      stations, and it's a short forest walk from either lot to the terrace.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-22'
 ---
 
 ## A balcony over downtown

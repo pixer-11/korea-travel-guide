@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: cusco-saqsaywaman
-srcHash: '0a44c5ad4cd1'
+srcHash: '630b237ca03c'
 title: 'Sacsayhuamán: guía de viaje de Cusco (4.7★)'
-description: 'Sacsayhuamán se alza en la colina que domina la Plaza de Armas de Cusco, a unos 20–30 minutos de subida a pie, y la entrada está incluida en el Boleto Turístico del Cusco, sin boleto aparte. 4.7★ (20,578 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'Sacsayhuamán se alza en la colina que domina la Plaza de Armas de Cusco, a unos 20–30 minutos de subida a pie, y la entrada está incluida en el Boleto Turístico del Cusco, sin boleto aparte. 4.7★ (20,580 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Sacsayhuamán se alza en la colina que domina la Plaza de Armas de Cusco, a unos 20–30 minutos de subida a pie, y para entrar no hace falta un boleto aparte, ya que el acceso está incluido en el Boleto Turístico del Cusco. Todos los días de la semana, el momento más tranquilo es de 7am a 9am. Los fines de semana conviene no llegar entre las 10am y la 1pm ni entre las 2pm y las 4pm.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar Sacsayhuamán?

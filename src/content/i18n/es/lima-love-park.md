@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: lima-love-park
-srcHash: 'f2aeeee17645'
+srcHash: '3807568dc17e'
 title: 'Parque del Amor: guía de viaje de Lima (4.5★)'
-description: En lo alto del acantilado del Malecón Cisneros, en Miraflores (Lima), el Parque del Amor es un espacio gratuito sobre el Pacífico, famoso por la gigantesca escultura de un beso de Víctor Delfín y por sus bancas de mosaico al estilo de Gaudí. Con 4.5★ (30,924 reseñas), aquí encontrará las opiniones de los visitantes, el horario y varios consejos.
+description: En lo alto del acantilado del Malecón Cisneros, en Miraflores (Lima), el Parque del Amor es un espacio gratuito sobre el Pacífico, famoso por la gigantesca escultura de un beso de Víctor Delfín y por sus bancas de mosaico al estilo de Gaudí. Con 4.5★ (30,925 reseñas), aquí encontrará las opiniones de los visitantes, el horario y varios consejos.
 quickAnswer: En lo alto del acantilado del Malecón Cisneros, en Miraflores (Lima), el Parque del Amor es un espacio gratuito asomado al Pacífico. Lo han hecho famoso la gigantesca escultura de un beso de Víctor Delfín y sus bancas de mosaico al estilo de Gaudí. Los momentos más tranquilos son de 7am a 10am entre semana y de 7am a 9am los fines de semana. Los sábados y domingos conviene evitar la franja de 2pm a 11pm, que es cuando más gente lo visita.
 faq:
   - q: ¿Cuándo hay menos gente en el Parque del Amor?

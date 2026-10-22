@@ -1,44 +1,52 @@
 ---
-title: "Santa Catalina Monastery: Arequipa Travel Guide (4.7★)"
-description: "Santa Catalina Monastery sits at Santa Catalina 301 in Arequipa's historic centre, a short walk north of the Plaza de Armas. 4.7★ (10,618 reviews) — what visitors say, hours, and tips."
-country: "Peru"
-region: "Arequipa"
-category: "attraction"
-pubDate: "2026-10-22T14:56:19.409Z"
+title: 'Santa Catalina Monastery: Arequipa Travel Guide (4.7★)'
+description: >-
+  Santa Catalina Monastery sits at Santa Catalina 301 in Arequipa's historic
+  centre, a short walk north of the Plaza de Armas. 4.7★ (10,620 reviews) — what
+  visitors say, hours, and tips.
+country: Peru
+region: Arequipa
+category: attraction
+pubDate: '2026-10-22T14:56:19.409Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Santa_Catalina_Monastery%2C_Arequipa_-_53032077180.jpg/1920px-Santa_Catalina_Monastery%2C_Arequipa_-_53032077180.jpg"
-  credit: "Photo: Hans Brian Brandsberg Berg / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Santa_Catalina_Monastery,_Arequipa_-_53032077180.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Santa_Catalina_Monastery%2C_Arequipa_-_53032077180.jpg/1920px-Santa_Catalina_Monastery%2C_Arequipa_-_53032077180.jpg
+  credit: 'Photo: Hans Brian Brandsberg Berg / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Santa_Catalina_Monastery,_Arequipa_-_53032077180.jpg
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/ARE_-_Courtyard_and_fountain_in_Santa_Catalina_Monastery%2C_Arequipa%2C_Peru%2C_2013.jpg/3840px-ARE_-_Courtyard_and_fountain_in_Santa_Catalina_Monastery%2C_Arequipa%2C_Peru%2C_2013.jpg"
-    credit: "Photo: Josep M. Gracia / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:ARE_-_Courtyard_and_fountain_in_Santa_Catalina_Monastery,_Arequipa,_Peru,_2013.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/ARE_-_Courtyard_and_fountain_in_Santa_Catalina_Monastery%2C_Arequipa%2C_Peru%2C_2013.jpg/3840px-ARE_-_Courtyard_and_fountain_in_Santa_Catalina_Monastery%2C_Arequipa%2C_Peru%2C_2013.jpg
+    credit: 'Photo: Josep M. Gracia / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:ARE_-_Courtyard_and_fountain_in_Santa_Catalina_Monastery,_Arequipa,_Peru,_2013.jpg
 place:
-  id: "ChIJvQaEStk3B5ERkAXTm611nwY"
-  name: "Santa Catalina Monastery"
-  address: "Santa Catalina 301, Arequipa 04001, Peru"
+  id: ChIJvQaEStk3B5ERkAXTm611nwY
+  name: Santa Catalina Monastery
+  address: 'Santa Catalina 301, Arequipa 04001, Peru'
   rating: 4.7
-  userRatingsTotal: 10618
-  googleMapsUrl: "https://maps.google.com/?cid=477229474028651920&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 10620
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=477229474028651920&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -16.396109499999998
   lng: -71.5365771
-  phone: "+51 54 221213"
+  phone: +51 54 221213
   openingHours:
-    - "Monday: 9:00 AM – 5:00 PM"
-    - "Tuesday: 9:00 AM – 5:00 PM"
-    - "Wednesday: 9:00 AM – 5:00 PM"
-    - "Thursday: 9:00 AM – 5:00 PM"
-    - "Friday: 9:00 AM – 5:00 PM"
-    - "Saturday: 9:00 AM – 5:00 PM"
-    - "Sunday: 9:00 AM – 5:00 PM"
+    - 'Monday: 9:00 AM – 5:00 PM'
+    - 'Tuesday: 9:00 AM – 5:00 PM'
+    - 'Wednesday: 9:00 AM – 5:00 PM'
+    - 'Thursday: 9:00 AM – 5:00 PM'
+    - 'Friday: 9:00 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 5:00 PM'
+    - 'Sunday: 9:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-10-22
+    updated: 2026-10-22T00:00:00.000Z
     weekdayQuiet:
       - 9
     weekendQuiet:
@@ -47,24 +55,45 @@ place:
     weekendBusy:
       - 12
       - 13
-    venueId: "ven_59776e3131366d5458416b52453542336b7453456151764a496843"
+    venueId: ven_59776e3131366d5458416b52453542336b7453456151764a496843
 tags:
-  - "arequipa"
-  - "Santa Catalina Monastery"
-quickAnswer: "Santa Catalina Monastery sits at Santa Catalina 301 in Arequipa's historic centre, a short walk north of the Plaza de Armas. It's a 16th-century Dominican convent that works like a small walled town, and you need two to three hours to see it properly. Go between 9am and 10am on any day, or 4pm–5pm on weekends, and stay away from weekends between 12pm and 2pm."
+  - arequipa
+  - Santa Catalina Monastery
+quickAnswer: >-
+  Santa Catalina Monastery sits at Santa Catalina 301 in Arequipa's historic
+  centre, a short walk north of the Plaza de Armas. It's a 16th-century
+  Dominican convent that works like a small walled town, and you need two to
+  three hours to see it properly. Go between 9am and 10am on any day, or 4pm–5pm
+  on weekends, and stay away from weekends between 12pm and 2pm.
 faq:
-  - q: "When is the quietest time to visit Santa Catalina Monastery?"
-    a: "Between 9am and 10am on any day of the week, and also 4pm–5pm on weekends. Avoid weekends from 12pm to 2pm, which is the busiest window."
-  - q: "How long should I spend inside?"
-    a: "Plan on two to three hours. A guided tour covers the main cloisters and cells. Allow extra time to walk the painted lanes and go up to the walkway with the El Misti view."
-  - q: "Where is it and how do I get there?"
-    a: "It's at Santa Catalina 301, a few blocks north of the Plaza de Armas in Arequipa's historic centre. Most visitors staying in the centre walk there. Taxis know it by name."
-  - q: "Is a guided tour worth it?"
-    a: "Yes, on a first visit. The complex has little signage, and a guide explains the cells, the novice system and the history of the order. Guides are arranged at the entrance, and the ticket desk can tell you how they're paid."
-  - q: "What is there to see nearby?"
-    a: "Museo Santuarios Andinos (the Juanita mummy), the Basilica Cathedral and Iglesia de la Compañía are all a short walk away. The Mirador de Yanahuara, across the river, is a quick taxi ride."
+  - q: When is the quietest time to visit Santa Catalina Monastery?
+    a: >-
+      Between 9am and 10am on any day of the week, and also 4pm–5pm on weekends.
+      Avoid weekends from 12pm to 2pm, which is the busiest window.
+  - q: How long should I spend inside?
+    a: >-
+      Plan on two to three hours. A guided tour covers the main cloisters and
+      cells. Allow extra time to walk the painted lanes and go up to the walkway
+      with the El Misti view.
+  - q: Where is it and how do I get there?
+    a: >-
+      It's at Santa Catalina 301, a few blocks north of the Plaza de Armas in
+      Arequipa's historic centre. Most visitors staying in the centre walk
+      there. Taxis know it by name.
+  - q: Is a guided tour worth it?
+    a: >-
+      Yes, on a first visit. The complex has little signage, and a guide
+      explains the cells, the novice system and the history of the order. Guides
+      are arranged at the entrance, and the ticket desk can tell you how they're
+      paid.
+  - q: What is there to see nearby?
+    a: >-
+      Museo Santuarios Andinos (the Juanita mummy), the Basilica Cathedral and
+      Iglesia de la Compañía are all a short walk away. The Mirador de
+      Yanahuara, across the river, is a quick taxi ride.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-22'
 ---
 
 ## A town behind a single wall
