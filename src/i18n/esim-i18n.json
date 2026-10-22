@@ -1237,5 +1237,44 @@
       ]
     },
     "_srcHash": "309c51932b53fe04"
+  },
+  "peru": {
+    "ko": {
+      "intro": "페루에는 Claro, Movistar, Entel, Bitel 이렇게 네 개의 이동통신사가 있다. 해외 판매자가 제공하는 여행용 eSIM은 이 중 한 통신사의 망을 빌려 쓰므로, 구매 전에 어느 통신사를 사용하는지 반드시 확인해야 한다. 또한 안데스산맥 깊숙한 곳이나 아마존 지역까지 이동할 계획이라면, 실제로 머물게 될 지역을 기준으로 통신사별 커버리지를 비교해보는 것이 좋다. 이때 참고할 만한 것이 통신 규제 기관인 OSIPTEL이 무료로 제공하는 커버리지 지도 Checa tu señal이다.",
+      "coverage": "리마, 쿠스코, 아레키파, 푸노, 이키토스를 비롯한 대도시에서는 신호가 안정적으로 잡힌다. 하지만 도시를 벗어나면 신호가 급격히 약해지는데, 안데스의 높은 고개 지역, 레인보우 마운틴(비니쿤카) 트레킹 구간, 콜카 캐니언 바닥 지대, 잉카 트레일 같은 며칠씩 걸리는 트레킹 코스, 그리고 이키토스 외곽의 아마존 지역에서는 신호가 거의 잡히지 않거나 아예 없을 수 있다.",
+      "tips": [
+        "OSIPTEL에 따르면 해외에서 구입한 휴대폰을 페루 현지 통신사 유심과 함께 사용하려면 해당 통신사의 화이트리스트에 등록해야 하며, 그렇지 않으면 휴대폰이 차단될 수 있다. 등록은 통신사 매장에 직접 휴대폰과 신분증을 지참해 방문해야 가능하다. 반면 해외 사업자의 여행용 eSIM은 출국 전에 미리 설정해둘 수 있다.",
+        "마추픽추, 레인보우 마운틴, 콜카 캐니언으로 떠나기 전에는 오프라인 지도를 미리 다운로드하고, 기차표와 투어 픽업 정보, 호텔 주소도 미리 저장해두자.",
+        "이키토스는 도로로 갈 수 없는 곳으로, 비행기나 강배로만 접근 가능하다. 따라서 이곳에 들어가기 전에 이후 일정의 예약 내역을 휴대폰에 미리 저장해두는 것이 좋다."
+      ]
+    },
+    "ja": {
+      "intro": "ペルーには4つの携帯電話網があります。Claro、Movistar、Entel、Bitelです。海外業者が販売する旅行者向けeSIMは、これらのいずれかの回線を利用する形になっているので、購入前にどのネットワークを使うものかを確認しておきましょう。アンデス山中やアマゾン地域まで深く入り込むルートを予定している場合は、実際に訪れる場所ごとに各社の電波状況を比較しておくのがおすすめです。その際に役立つのが、電気通信規制機関OSIPTELが運営する無料のカバレッジマップ「Checa tu señal」です。",
+      "coverage": "リマ、クスコ、アレキパ、プーノ、イキトスといった大きな町では電波は安定しています。しかし町と町の間では電波はすぐに弱くなり、アンデスの高地の峠道、レインボーマウンテンへのトレッキングルート、コルカ渓谷の谷底、インカ道のような複数日にわたるトレッキングコース、そしてイキトス郊外のアマゾン地域などでは、電波がほとんど、あるいはまったく入らないことがあります。",
+      "tips": [
+        "OSIPTELによれば、海外で購入した携帯電話をペルーの回線で使用する場合、その通信会社のホワイトリストに端末を登録する必要があり、登録しないと端末がブロックされる可能性があります。この登録作業は、本人確認書類と端末を持参のうえ、各通信会社の直営店舗で行う必要があります。一方、海外プロバイダーが提供する旅行者向けeSIMは、出発前にあらかじめ設定を済ませておくことができます。",
+        "マチュピチュ、レインボーマウンテン、コルカ渓谷へ向かう前に、オフラインマップをダウンロードし、電車のチケットやツアーの送迎情報、ホテルの住所などを事前に保存しておきましょう。",
+        "イキトスには道路でアクセスすることができず、飛行機か川を行く船でしか行けません。そのため、現地へ向かう前に、その先の予約情報をあらかじめ携帯電話に保存しておきましょう。"
+      ]
+    },
+    "es": {
+      "intro": "Perú cuenta con cuatro redes móviles: Claro, Movistar, Entel y Bitel. Una eSIM de viaje de un proveedor internacional funciona sobre una de ellas; antes de comprarla, comprueba cuál es la que indica, y si tu recorrido te lleva a zonas profundas de los Andes o de la Amazonía, compara las redes en los lugares donde realmente vas a estar en Checa tu señal, el mapa de cobertura gratuito que gestiona OSIPTEL, el organismo regulador de telecomunicaciones.",
+      "coverage": "La señal es confiable en Lima, Cusco, Arequipa, Puno, Iquitos y las ciudades más grandes. Entre ciudades se debilita rápidamente: los pasos andinos de gran altitud, la caminata a la Montaña de Siete Colores, el fondo del Cañón del Colca, las travesías de varios días como el Camino Inca y la Amazonía fuera de Iquitos pueden tener poca o ninguna cobertura.",
+      "tips": [
+        "OSIPTEL indica que un teléfono comprado en el extranjero y usado con una línea peruana debe registrarse en la lista blanca de ese operador, o el teléfono podría quedar bloqueado. El operador realiza este trámite en una de sus propias tiendas, con el teléfono en mano y tu documento de identidad. Una eSIM de viaje de un proveedor extranjero se configura antes de volar.",
+        "Descarga mapas sin conexión y guarda tus boletos de tren, los detalles de recogida de tus tours y las direcciones de los hoteles antes de dirigirte a Machu Picchu, la Montaña de Siete Colores o el Cañón del Colca.",
+        "A Iquitos no se puede llegar por carretera, solo en avión o en embarcación fluvial, así que ten tus reservas de continuación guardadas en el teléfono antes de volar hacia allá."
+      ]
+    },
+    "zh": {
+      "intro": "秘鲁有四家移动网络运营商:Claro、Movistar、Entel 和 Bitel。国际卖家提供的旅行用 eSIM 会接入其中一家网络;购买前请确认它具体使用的是哪一家,如果你的行程会深入安第斯山区或亚马逊地区,记得针对你实际会经过的地方比较各网络的覆盖情况——可以使用电信监管机构 OSIPTEL 提供的免费覆盖地图 Checa tu señal 进行查询。",
+      "coverage": "在利马、库斯科、阿雷基帕、普诺、伊基托斯以及其他较大城镇,信号都比较稳定。但离开城镇后信号会迅速减弱:安第斯山区的高海拔山口、前往彩虹山的徒步路线、科尔卡峡谷谷底,以及印加古道等多日徒步路线,还有伊基托斯以外的亚马逊地区,信号可能很弱甚至完全没有。",
+      "tips": [
+        "OSIPTEL 规定,在国外购买的手机若要搭配秘鲁本地号码使用,必须在该运营商的白名单中完成登记,否则手机可能会被锁定。登记需要本人携带手机和身份证件前往运营商自营门店办理。而国外服务商提供的旅行用 eSIM 则是在出发前就已设置完成,无需此流程。",
+        "前往马丘比丘、彩虹山或科尔卡峡谷之前,请提前下载离线地图,并保存好火车票、接送团信息和酒店地址。",
+        "伊基托斯没有公路可达,只能乘飞机或船只前往,因此在飞往当地之前,请务必把后续行程的预订信息保存在手机中。"
+      ]
+    },
+    "_srcHash": "be7aadebaf5a5529"
   }
 }

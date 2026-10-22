@@ -29,6 +29,12 @@
     "es": "Agra",
     "zh": "阿格拉"
   },
+  "Aguas Calientes": {
+    "ko": "아과스칼리엔테스",
+    "ja": "アグアスカリエンテス",
+    "es": "Aguas Calientes",
+    "zh": "热水镇"
+  },
   "Ahmedabad": {
     "ko": "아마다바드",
     "ja": "アフマダーバード",
@@ -148,6 +154,12 @@
     "ja": "青森",
     "es": "Aomori",
     "zh": "青森"
+  },
+  "Arequipa": {
+    "ko": "아레키파",
+    "ja": "アレキパ",
+    "es": "Arequipa",
+    "zh": "阿雷基帕"
   },
   "Arlington": {
     "ko": "알링턴",
@@ -605,6 +617,12 @@
     "es": "Barrio Chino",
     "zh": "唐人街"
   },
+  "Chivay": {
+    "ko": "치바이",
+    "ja": "チバイ",
+    "es": "Chivay",
+    "zh": "奇瓦伊"
+  },
   "Christchurch": {
     "ko": "크라이스트처치",
     "ja": "クライストチャーチ",
@@ -688,6 +706,12 @@
     "ja": "コスメル",
     "es": "Cozumel",
     "zh": "科苏梅尔"
+  },
+  "Cusco": {
+    "ko": "쿠스코",
+    "ja": "クスコ",
+    "es": "Cusco",
+    "zh": "库斯科"
   },
   "Cuttack": {
     "ko": "커택",
@@ -1217,11 +1241,23 @@
     "es": "Hua Hin",
     "zh": "华欣"
   },
+  "Huacachina": {
+    "ko": "와카치나",
+    "ja": "ワカチナ",
+    "es": "Huacachina",
+    "zh": "瓦卡奇纳"
+  },
   "Hualien": {
     "ko": "화롄",
     "ja": "花蓮",
     "es": "Hualien",
     "zh": "花莲"
+  },
+  "Huaraz": {
+    "ko": "와라스",
+    "ja": "ワラス",
+    "es": "Huaraz",
+    "zh": "瓦拉斯"
   },
   "Hue": {
     "ko": "후에",
@@ -1282,6 +1318,12 @@
     "ja": "イポー",
     "es": "Ipoh",
     "zh": "怡保"
+  },
+  "Iquitos": {
+    "ko": "이키토스",
+    "ja": "イキトス",
+    "es": "Iquitos",
+    "zh": "伊基托斯"
   },
   "Istanbul": {
     "ko": "이스탄불",
@@ -1678,6 +1720,12 @@
     "ja": "麗江",
     "es": "Lijiang",
     "zh": "丽江"
+  },
+  "Lima": {
+    "ko": "리마",
+    "ja": "リマ",
+    "es": "Lima",
+    "zh": "利马"
   },
   "Little India": {
     "ko": "리틀인디아",
@@ -2087,6 +2135,12 @@
     "es": "Nashville",
     "zh": "纳什维尔"
   },
+  "Nazca": {
+    "ko": "나스카",
+    "ja": "ナスカ",
+    "es": "Nazca",
+    "zh": "纳斯卡"
+  },
   "New Delhi": {
     "ko": "뉴델리",
     "ja": "ニューデリー",
@@ -2213,6 +2267,12 @@
     "es": "Olgii",
     "zh": "乌列盖"
   },
+  "Ollantaytambo": {
+    "ko": "오얀타이탐보",
+    "ja": "オリャンタイタンボ",
+    "es": "Ollantaytambo",
+    "zh": "奥扬泰坦博"
+  },
   "Orchard Road": {
     "ko": "오차드로드",
     "ja": "オーチャード・ロード",
@@ -2279,6 +2339,12 @@
     "es": "Pamukkale",
     "zh": "棉花堡"
   },
+  "Paracas": {
+    "ko": "파라카스",
+    "ja": "パラカス",
+    "es": "Paracas",
+    "zh": "帕拉卡斯"
+  },
   "Paris": {
     "ko": "파리",
     "ja": "パリ",
@@ -2326,6 +2392,12 @@
     "ja": "パース",
     "es": "Perth",
     "zh": "珀斯"
+  },
+  "Peru": {
+    "ko": "페루",
+    "ja": "ペルー",
+    "es": "Perú",
+    "zh": "秘鲁"
   },
   "Philadelphia": {
     "ko": "필라델피아",
@@ -2381,6 +2453,12 @@
     "es": "Pisa",
     "zh": "比萨"
   },
+  "Pisac": {
+    "ko": "피삭",
+    "ja": "ピサック",
+    "es": "Pisac",
+    "zh": "皮萨克"
+  },
   "Playa del Carmen": {
     "ko": "플라야델카르멘",
     "ja": "プラヤ・デル・カルメン",
@@ -2434,6 +2512,12 @@
     "ja": "プネー",
     "es": "Pune",
     "zh": "浦那"
+  },
+  "Puno": {
+    "ko": "푸노",
+    "ja": "プーノ",
+    "es": "Puno",
+    "zh": "普诺"
   },
   "Pushkar": {
     "ko": "푸시카르",
@@ -3220,6 +3304,12 @@
     "ja": "ビガン",
     "es": "Vigan",
     "zh": "维甘"
+  },
+  "Vinicunca": {
+    "ko": "비니쿤카",
+    "ja": "ビニクンカ",
+    "es": "Vinicunca",
+    "zh": "维尼昆卡"
   },
   "Waitomo": {
     "ko": "와이토모",

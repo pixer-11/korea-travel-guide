@@ -466,5 +466,21 @@
       "Bell's traveller eSIM is ordered in the MyBell app, so set it up on hotel or airport Wi-Fi with the credit card you plan to use.",
       "A trip that continues into the United States needs a plan that covers both countries, so check the coverage list before you cross the border."
     ]
+  },
+  "peru": {
+    "name": "Peru",
+    "carriers": [
+      "Claro",
+      "Movistar",
+      "Entel",
+      "Bitel"
+    ],
+    "intro": "Peru has four mobile networks: Claro, Movistar, Entel and Bitel. A travel eSIM from an international seller rides on one of them; check which one it names before you buy, and if your route goes deep into the Andes or the Amazon, compare the networks for the places you will actually be on Checa tu señal, the free coverage map run by OSIPTEL, the telecoms regulator.",
+    "coverage": "Signal is reliable in Lima, Cusco, Arequipa, Puno, Iquitos and the larger towns. Between towns it thins out fast: high Andean passes, the trek to Rainbow Mountain, the floor of the Colca Canyon, multi-day hikes such as the Inca Trail and the Amazon outside Iquitos can have little or no coverage.",
+    "tips": [
+      "OSIPTEL says a phone bought abroad and used with a Peruvian line has to be registered with that carrier on its whitelist, or the phone may be blocked. The carrier does it at one of its own stores, with the phone in hand and your ID. A travel eSIM from a foreign provider is set up before you fly.",
+      "Download offline maps and save your train tickets, tour pick-up details and hotel addresses before heading to Machu Picchu, Rainbow Mountain or the Colca Canyon.",
+      "Iquitos cannot be reached by road, only by plane or river boat, so have your onward bookings saved on the phone before you fly in."
+    ]
   }
 }

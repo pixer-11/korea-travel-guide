@@ -781,6 +781,32 @@
         "Yellowknife"
       ],
       "continent": "North America"
+    },
+    {
+      "name": "Peru",
+      "iso2": "pe",
+      "priority": 28,
+      "slug": "peru",
+      "flag": "🇵🇪",
+      "active": true,
+      "blurb": "Machu Picchu above the cloud forest at the end of the Sacred Valley, Cusco's Inca walls under colonial churches, the striped slopes of Rainbow Mountain, condors over the Colca Canyon and reed islands on Lake Titicaca, with desert dunes at Huacachina and the Nazca Lines on the coast. Much of it sits above 3,000 metres, so the first days are best taken slowly.",
+      "regions": [
+        "Lima",
+        "Cusco",
+        "Aguas Calientes",
+        "Ollantaytambo",
+        "Pisac",
+        "Vinicunca",
+        "Arequipa",
+        "Chivay",
+        "Puno",
+        "Huacachina",
+        "Paracas",
+        "Nazca",
+        "Iquitos",
+        "Huaraz"
+      ],
+      "continent": "South America"
     }
   ]
 }

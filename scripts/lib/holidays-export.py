@@ -35,6 +35,10 @@ import holidays
 # New Zealand (NZ) stays on the default "public" with no subdivision: that is
 # the eleven national days (Waitangi, Anzac, Matariki ...). Each region adds
 # its own Anniversary Day, which a nationwide list cannot carry (2026-10-20).
+# Peru (PE) stays on the default "public" with no subdivision: the national
+# days off (Holy Week, Independence on 28-29 July, Santa Rosa de Lima ...).
+# Cusco's Inti Raymi on 24 June is a local celebration, not a national day
+# off, so it is not on this list (2026-10-22).
 CATEGORIES = {"HK": ("optional",), "MO": ("optional",)}
 
 # The UK's no-subdivision set is only what all four nations share, which drops

@@ -253,6 +253,13 @@ export const KLOOK_CITY: Record<string, KlookCity> = {
   "Oaxaca": { id: 10473, slug: 'oaxaca', country: "Mexico" },
   "Oxford": { id: 297, slug: 'oxford', country: "United Kingdom" },
   "Paihia": { id: 702609, slug: 'bay-of-islands', country: "New Zealand" }, // 2026-10-20: c702609-bay-of-islands in all five city sitemaps; Paihia is the Bay of Islands' main town
+  "Cusco": { id: 96624, slug: 'cusco', country: "Peru" }, // 2026-10-22: in the en-US, ko, ja, es and zh-cn city sitemaps
+  "Aguas Calientes": { id: 105649, slug: 'machu-picchu', country: "Peru" }, // 2026-10-22: c105649-machu-picchu in all five city sitemaps; Aguas Calientes is the town below Machu Picchu
+  "Ollantaytambo": { id: 43750, slug: 'ollantaytambo', country: "Peru" }, // 2026-10-22: in the en-US, ko, ja, es and zh-cn city sitemaps
+  "Pisac": { id: 93607, slug: 'pisac', country: "Peru" }, // 2026-10-22: in the en-US, ko, ja, es and zh-cn city sitemaps
+  "Arequipa": { id: 53445, slug: 'arequipa', country: "Peru" }, // 2026-10-22: in the en-US, ko, ja, es and zh-cn city sitemaps
+  "Puno": { id: 21817, slug: 'puno', country: "Peru" }, // 2026-10-22: in the en-US, ko, ja, es and zh-cn city sitemaps
+  "Paracas": { id: 45666, slug: 'paracas', country: "Peru" }, // 2026-10-22: in the en-US, ko, ja, es and zh-cn city sitemaps
   "Pasay": { id: 26286, slug: 'pasay', country: "Philippines" },
   "Philadelphia": { id: 80779, slug: 'philadelphia', country: "United States" },
   "Phnom Penh": { id: 44, slug: 'phnom-penh', country: "Cambodia" },

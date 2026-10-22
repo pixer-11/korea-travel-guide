@@ -2903,6 +2903,244 @@
       "topic": "Prince of Wales Northern Heritage Centre",
       "category": "attraction",
       "query": "Prince of Wales Northern Heritage Centre Yellowknife Canada"
+    },
+    {
+      "country": "Peru",
+      "region": "Lima",
+      "topic": "Plaza Mayor de Lima",
+      "category": "attraction",
+      "query": "Plaza Mayor Lima Peru"
+    },
+    {
+      "country": "Peru",
+      "region": "Lima",
+      "topic": "Basilica and Convent of San Francisco",
+      "category": "attraction",
+      "query": "Basilica and Convent of San Francisco catacombs Lima Peru"
+    },
+    {
+      "country": "Peru",
+      "region": "Lima",
+      "topic": "Huaca Pucllana",
+      "category": "attraction",
+      "query": "Huaca Pucllana Miraflores Lima Peru"
+    },
+    {
+      "country": "Peru",
+      "region": "Lima",
+      "topic": "Larco Museum",
+      "category": "attraction",
+      "query": "Museo Larco Pueblo Libre Lima Peru"
+    },
+    {
+      "country": "Peru",
+      "region": "Lima",
+      "topic": "Parque del Amor",
+      "category": "hidden-gem",
+      "query": "Parque del Amor Miraflores Lima Peru"
+    },
+    {
+      "country": "Peru",
+      "region": "Lima",
+      "topic": "Puente de los Suspiros",
+      "category": "hidden-gem",
+      "query": "Puente de los Suspiros Barranco Lima Peru"
+    },
+    {
+      "country": "Peru",
+      "region": "Lima",
+      "topic": "Magic Water Circuit",
+      "category": "attraction",
+      "query": "Circuito Magico del Agua Parque de la Reserva Lima Peru"
+    },
+    {
+      "country": "Peru",
+      "region": "Cusco",
+      "topic": "Plaza de Armas of Cusco",
+      "category": "attraction",
+      "query": "Plaza de Armas Cusco Peru"
+    },
+    {
+      "country": "Peru",
+      "region": "Cusco",
+      "topic": "Qorikancha",
+      "category": "attraction",
+      "query": "Qorikancha Convento de Santo Domingo Cusco Peru"
+    },
+    {
+      "country": "Peru",
+      "region": "Cusco",
+      "topic": "Sacsayhuaman",
+      "category": "attraction",
+      "query": "Sacsayhuaman archaeological site Cusco Peru"
+    },
+    {
+      "country": "Peru",
+      "region": "Cusco",
+      "topic": "Cusco Cathedral",
+      "category": "attraction",
+      "query": "Cathedral of Cusco Basilica Plaza de Armas Peru"
+    },
+    {
+      "country": "Peru",
+      "region": "Cusco",
+      "topic": "San Pedro Market",
+      "category": "hidden-gem",
+      "query": "Mercado Central de San Pedro Cusco Peru"
+    },
+    {
+      "country": "Peru",
+      "region": "Cusco",
+      "topic": "San Blas Neighbourhood",
+      "category": "hidden-gem",
+      "query": "Barrio de San Blas Cusco Peru"
+    },
+    {
+      "country": "Peru",
+      "region": "Aguas Calientes",
+      "topic": "Machu Picchu",
+      "category": "attraction",
+      "query": "Machu Picchu Inca citadel Aguas Calientes Peru"
+    },
+    {
+      "country": "Peru",
+      "region": "Aguas Calientes",
+      "topic": "Aguas Calientes Hot Springs",
+      "category": "hidden-gem",
+      "query": "Banos Termales Aguas Calientes Machu Picchu Pueblo Peru"
+    },
+    {
+      "country": "Peru",
+      "region": "Ollantaytambo",
+      "topic": "Ollantaytambo Archaeological Park",
+      "category": "attraction",
+      "query": "Ollantaytambo archaeological park fortress Peru"
+    },
+    {
+      "country": "Peru",
+      "region": "Pisac",
+      "topic": "Pisac Archaeological Park",
+      "category": "attraction",
+      "query": "Pisac archaeological park Inca ruins Peru"
+    },
+    {
+      "country": "Peru",
+      "region": "Pisac",
+      "topic": "Pisac Market",
+      "category": "hidden-gem",
+      "query": "Pisac market Sacred Valley Peru"
+    },
+    {
+      "country": "Peru",
+      "region": "Vinicunca",
+      "topic": "Rainbow Mountain",
+      "category": "attraction",
+      "query": "Vinicunca Rainbow Mountain Cusco Peru"
+    },
+    {
+      "country": "Peru",
+      "region": "Vinicunca",
+      "topic": "Red Valley",
+      "category": "hidden-gem",
+      "query": "Red Valley Vinicunca Rainbow Mountain Peru"
+    },
+    {
+      "country": "Peru",
+      "region": "Arequipa",
+      "topic": "Santa Catalina Monastery",
+      "category": "attraction",
+      "query": "Monasterio de Santa Catalina Arequipa Peru"
+    },
+    {
+      "country": "Peru",
+      "region": "Arequipa",
+      "topic": "Plaza de Armas of Arequipa",
+      "category": "attraction",
+      "query": "Plaza de Armas Arequipa Peru"
+    },
+    {
+      "country": "Peru",
+      "region": "Arequipa",
+      "topic": "Museo Santuarios Andinos",
+      "category": "hidden-gem",
+      "query": "Museo Santuarios Andinos Juanita Arequipa Peru"
+    },
+    {
+      "country": "Peru",
+      "region": "Chivay",
+      "topic": "La Calera Hot Springs",
+      "category": "hidden-gem",
+      "query": "La Calera hot springs Chivay Colca Peru"
+    },
+    {
+      "country": "Peru",
+      "region": "Puno",
+      "topic": "Uros Floating Islands",
+      "category": "attraction",
+      "query": "Uros floating islands Lake Titicaca Puno Peru"
+    },
+    {
+      "country": "Peru",
+      "region": "Huacachina",
+      "topic": "Huacachina Oasis",
+      "category": "attraction",
+      "query": "Huacachina oasis lagoon Ica Peru"
+    },
+    {
+      "country": "Peru",
+      "region": "Huacachina",
+      "topic": "Huacachina Sand Dunes",
+      "category": "attraction",
+      "query": "Huacachina sand dunes buggy sandboarding Ica Peru"
+    },
+    {
+      "country": "Peru",
+      "region": "Paracas",
+      "topic": "Paracas National Reserve",
+      "category": "attraction",
+      "query": "Paracas National Reserve Peru"
+    },
+    {
+      "country": "Peru",
+      "region": "Paracas",
+      "topic": "Ballestas Islands",
+      "category": "attraction",
+      "query": "Islas Ballestas boat tour Paracas Peru"
+    },
+    {
+      "country": "Peru",
+      "region": "Nazca",
+      "topic": "Nazca Lines",
+      "category": "attraction",
+      "query": "Nazca Lines viewing tower Nazca Peru"
+    },
+    {
+      "country": "Peru",
+      "region": "Nazca",
+      "topic": "Cantalloc Aqueducts",
+      "category": "hidden-gem",
+      "query": "Cantalloc aqueducts Nazca Peru"
+    },
+    {
+      "country": "Peru",
+      "region": "Iquitos",
+      "topic": "Belen Market",
+      "category": "hidden-gem",
+      "query": "Mercado de Belen Iquitos Peru"
+    },
+    {
+      "country": "Peru",
+      "region": "Iquitos",
+      "topic": "Amazon Rescue Center",
+      "category": "hidden-gem",
+      "query": "Amazon Rescue Center manatee Iquitos Peru"
+    },
+    {
+      "country": "Peru",
+      "region": "Huaraz",
+      "topic": "Wilcahuain",
+      "category": "hidden-gem",
+      "query": "Wilcahuain archaeological site Huaraz Peru"
     }
   ]
 }

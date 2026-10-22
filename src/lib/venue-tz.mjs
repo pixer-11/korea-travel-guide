@@ -33,6 +33,7 @@ export const COUNTRY_TZ = {
   Germany: 'Europe/Berlin',
   Georgia: 'Asia/Tbilisi', // one zone for the whole country, no daylight saving (2026-10-19)
   'New Zealand': 'Pacific/Auckland', // zone1970.tab: all of NZ but the Chatham Islands, none of which is a region (2026-10-20)
+  Peru: 'America/Lima', // zone1970.tab: one zone for the whole country, no daylight saving (2026-10-22)
 };
 
 const ET = 'America/New_York', CT = 'America/Chicago', PT = 'America/Los_Angeles';

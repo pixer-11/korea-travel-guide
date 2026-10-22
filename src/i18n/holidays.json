@@ -2345,6 +2345,108 @@
     "es": "Día de Waitangi (trasladado)",
     "zh": "怀唐伊日(顺延假期)"
   },
+  "Peru|All Saints' Day": {
+    "ko": "모든 성인 대축일",
+    "ja": "諸聖人の日",
+    "es": "Día de Todos los Santos",
+    "zh": "诸圣节"
+  },
+  "Peru|Battle of Angamos Day": {
+    "ko": "앙가모스 해전 기념일",
+    "ja": "アンガモスの海戦記念日",
+    "es": "Combate de Angamos",
+    "zh": "安加莫斯海战纪念日"
+  },
+  "Peru|Battle of Arica and Flag Day": {
+    "ko": "아리카 전투 및 국기의 날",
+    "ja": "アリカの戦い記念日・国旗の日",
+    "es": "Batalla de Arica y Día de la Bandera",
+    "zh": "阿里卡战役纪念日暨国旗日"
+  },
+  "Peru|Battle of Ayacucho Day": {
+    "ko": "아야쿠초 전투 기념일",
+    "ja": "アヤクーチョの戦い記念日",
+    "es": "Batalla de Ayacucho",
+    "zh": "阿亚库乔战役纪念日"
+  },
+  "Peru|Battle of Junín Day": {
+    "ko": "후닌 전투 기념일",
+    "ja": "フニンの戦い記念日",
+    "es": "Batalla de Junín",
+    "zh": "胡宁战役纪念日"
+  },
+  "Peru|Christmas Day": {
+    "ko": "크리스마스",
+    "ja": "クリスマス",
+    "es": "Navidad",
+    "zh": "圣诞节"
+  },
+  "Peru|Easter Sunday": {
+    "ko": "부활절",
+    "ja": "復活祭",
+    "es": "Domingo de Resurrección",
+    "zh": "复活节"
+  },
+  "Peru|Good Friday": {
+    "ko": "성금요일",
+    "ja": "聖金曜日",
+    "es": "Viernes Santo",
+    "zh": "耶稣受难日"
+  },
+  "Peru|Great Military Parade Day": {
+    "ko": "군사 퍼레이드의 날",
+    "ja": "軍事パレードの日",
+    "es": "Día de la Gran Parada Militar",
+    "zh": "大阅兵日"
+  },
+  "Peru|Immaculate Conception": {
+    "ko": "성모 무염시태 대축일",
+    "ja": "無原罪の聖母",
+    "es": "Inmaculada Concepción",
+    "zh": "圣母始胎无染原罪节"
+  },
+  "Peru|Independence Day": {
+    "ko": "독립기념일",
+    "ja": "独立記念日",
+    "es": "Día de la Independencia",
+    "zh": "独立日"
+  },
+  "Peru|Labor Day": {
+    "ko": "노동절",
+    "ja": "メーデー",
+    "es": "Día del Trabajo",
+    "zh": "劳动节"
+  },
+  "Peru|Maundy Thursday": {
+    "ko": "성목요일",
+    "ja": "聖木曜日",
+    "es": "Jueves Santo",
+    "zh": "濯足节"
+  },
+  "Peru|New Year's Day": {
+    "ko": "신정",
+    "ja": "元日",
+    "es": "Año Nuevo",
+    "zh": "元旦"
+  },
+  "Peru|Peruvian Air Force Day": {
+    "ko": "페루 공군의 날",
+    "ja": "ペルー空軍記念日",
+    "es": "Día de la Fuerza Aérea del Perú",
+    "zh": "秘鲁空军节"
+  },
+  "Peru|Rose of Lima Day": {
+    "ko": "리마의 성녀 로사 축일",
+    "ja": "リマの聖ローザの日",
+    "es": "Santa Rosa de Lima",
+    "zh": "利马圣罗莎节"
+  },
+  "Peru|Saint Peter and Saint Paul's Day": {
+    "ko": "성 베드로와 성 바오로 축일",
+    "ja": "聖ペトロ・聖パウロの日",
+    "es": "San Pedro y San Pablo",
+    "zh": "圣伯多禄圣保禄节"
+  },
   "Philippines|All Saints' Day": {
     "ko": "만성절",
     "ja": "諸聖人の日",
