@@ -2940,7 +2940,12 @@
   "vinicunca-vinicunca\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Monta%C3%B1aarcoirisperuabanto.jpg/1920px-Monta%C3%B1aarcoirisperuabanto.jpg": 1920,
   "wellington-otari-wilton-s-bush\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Otari_Native_Botanic_Garden_%286709125829%29.jpg/1920px-Otari_Native_Botanic_Garden_%286709125829%29.jpg": 1920,
   "pisac-parque-arqueologico-pisac\u0001https://upload.wikimedia.org/wikipedia/commons/8/86/Parque_Arqueol%C3%B3gico_de_Pisac%2C_Peru_-_panoramio.jpg": 2048,
-  "toronto-the-distillery-historic-district\u0001https://upload.wikimedia.org/wikipedia/commons/c/cc/The_Distillery_Historic_Sidewalk_2022.jpg": 1600
+  "toronto-the-distillery-historic-district\u0001https://upload.wikimedia.org/wikipedia/commons/c/cc/The_Distillery_Historic_Sidewalk_2022.jpg": 1600,
+  "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TOTAL_BWF_World_Champs_2015_Day_2_Marc_Zwiebler.jpg/3840px-TOTAL_BWF_World_Champs_2015_Day_2_Marc_Zwiebler.jpg": 3840,
+  "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/2019_ATP_Finals_at_the_o2_%2849069150561%29.jpg/3840px-2019_ATP_Finals_at_the_o2_%2849069150561%29.jpg": 3840,
+  "nuremberg-nuremberg-christkindlesmarkt\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Christkindlesmarkt_N%C3%BCrnberg_Fleischbr%C3%BCcke.jpg/3840px-Christkindlesmarkt_N%C3%BCrnberg_Fleischbr%C3%BCcke.jpg": 3840,
+  "puerto-princesa-ironman-70-3-puerto-princesa\u0001https://upload.wikimedia.org/wikipedia/commons/f/ff/Swim_start_at_Ironman_70.3_Florida_2012.jpg": 3008,
+  "hong-kong-hong-kong-open-badminton\u0001https://upload.wikimedia.org/wikipedia/commons/f/f9/Badminton-1428046.jpg": 3840
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -3246,8 +3251,8 @@
   },
   "kyoto-kurama-fire-festival": {
    "width": 1024,
-   "attempts": 2,
-   "nextTry": "2026-10-20",
+   "attempts": 3,
+   "nextTry": "2026-10-29",
    "flaggedAt": "2026-09-24",
    "lastResult": "no-wider"
   },
@@ -3259,8 +3264,8 @@
   },
   "beijing-beijing-marathon": {
    "width": 1024,
-   "attempts": 1,
-   "nextTry": "2026-10-20",
+   "attempts": 2,
+   "nextTry": "2026-10-29",
    "flaggedAt": "2026-10-01",
    "lastResult": "no-wider"
   },
@@ -3460,5 +3465,5 @@
    "flaggedAt": "2026-10-21"
   }
  },
- "updated": "2026-10-22T17:13:09.710Z"
+ "updated": "2026-10-22T22:44:36.590Z"
 }

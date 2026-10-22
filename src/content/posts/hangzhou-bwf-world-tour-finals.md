@@ -29,6 +29,16 @@ faq:
     a: West Lake, Lingyin Temple and the Longjing tea villages are across the Qiantang River, roughly 40 minutes away by metro or taxi. Fans often visit them in the mornings before the matches start.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TOTAL_BWF_World_Champs_2015_Day_2_Marc_Zwiebler.jpg/3840px-TOTAL_BWF_World_Champs_2015_Day_2_Marc_Zwiebler.jpg
+  credit: 'Photo: Griff88 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:TOTAL_BWF_World_Champs_2015_Day_2_Marc_Zwiebler.jpg
+  focus:
+    x: 43
+    'y': 29
+    top: 20
+    bottom: 37
 ---
 
 ## Five days, five draws, no easy rounds

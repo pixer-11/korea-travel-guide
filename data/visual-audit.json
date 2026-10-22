@@ -8871,7 +8871,7 @@
   "slug": "goyang-charlie-puth-concert",
   "verdict": "MATCH",
   "reason": "patrol replace: Performer on stage at concert event",
-  "at": "2026-10-21T22:36:56.204Z"
+  "at": "2026-10-22T22:38:33.408Z"
  },
  "goyang-charlie-puth-seoul-2026\u0001https://upload.wikimedia.org/wikipedia/commons/8/86/Charlie_Puth_2017_%28cropped%29.jpg": {
   "slug": "goyang-charlie-puth-seoul-2026",
@@ -9578,11 +9578,29 @@
   "reason": "hand-reviewed: filename shares no word with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-22T08:00:48.700Z"
  },
+ "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/7/79/Saurabh_Sharma_at_the_2024_BWF_World_Junior_Championships.jpg": {
+  "slug": "hangzhou-bwf-world-tour-finals",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Different event (World Junior Championships), not World Tour Finals",
+  "at": "2026-10-22T22:38:45.649Z"
+ },
+ "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/f/f6/2018_BWF_World_Championships.jpg": {
+  "slug": "hangzhou-bwf-world-tour-finals",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Photo of banners/signs, not the event itself",
+  "at": "2026-10-22T22:38:44.183Z"
+ },
  "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/f/f8/HSBC_BWF_Badminton_World_Tour.jpg": {
   "slug": "hangzhou-bwf-world-tour-finals",
   "verdict": "MISMATCH",
   "reason": "patrol reject: Logo/banner graphic, not an actual photo of event",
   "at": "2026-10-22T00:08:49.434Z"
+ },
+ "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TOTAL_BWF_World_Champs_2015_Day_2_Marc_Zwiebler.jpg/3840px-TOTAL_BWF_World_Champs_2015_Day_2_Marc_Zwiebler.jpg": {
+  "slug": "hangzhou-bwf-world-tour-finals",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Badminton player at court with event signage",
+  "at": "2026-10-22T22:38:48.810Z"
  },
  "hangzhou-leifeng-pagoda\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Leifeng_Pagoda_DJI_0593_%282%29.jpg/1920px-Leifeng_Pagoda_DJI_0593_%282%29.jpg": {
   "slug": "hangzhou-leifeng-pagoda",
@@ -10562,6 +10580,24 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Random street scene, not Hong Kong Open venue or event",
   "at": "2026-10-22T00:09:13.596Z"
+ },
+ "hong-kong-hong-kong-open-badminton\u0001https://upload.wikimedia.org/wikipedia/commons/e/ea/Badminton_Tournament.jpg": {
+  "slug": "hong-kong-hong-kong-open-badminton",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: identity: Commons places this in India, post says Hong Kong",
+  "at": "2026-10-22T22:38:59.091Z"
+ },
+ "hong-kong-hong-kong-open-badminton\u0001https://upload.wikimedia.org/wikipedia/commons/f/f9/Badminton-1428046.jpg": {
+  "slug": "hong-kong-hong-kong-open-badminton",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Badminton equipment matches Hong Kong Open event",
+  "at": "2026-10-22T22:39:05.212Z"
+ },
+ "hong-kong-hong-kong-open-badminton\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Badminton_Chiasma_5.0.jpg/3840px-Badminton_Chiasma_5.0.jpg": {
+  "slug": "hong-kong-hong-kong-open-badminton",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: identity: Commons places this in India, post says Hong Kong",
+  "at": "2026-10-22T22:39:01.820Z"
  },
  "hong-kong-hong-kong-park\u0001https://upload.wikimedia.org/wikipedia/commons/3/39/Hong_Kong_Park_Overview_2009.jpg": {
   "slug": "hong-kong-hong-kong-park",
@@ -15930,8 +15966,8 @@
  "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia\u0001https://upload.wikimedia.org/wikipedia/commons/e/ee/Vladimir_leonov_motogp.jpg": {
   "slug": "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia",
   "verdict": "MATCH",
-  "reason": "patrol replace: MotoGP motorcycle racing at circuit venue",
-  "at": "2026-10-21T22:37:54.261Z"
+  "reason": "patrol replace: MotoGP racing at circuit with safety barriers",
+  "at": "2026-10-22T22:40:41.686Z"
  },
  "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Alvaro_Bautista-motogp-2015.JPG/3840px-Alvaro_Bautista-motogp-2015.JPG": {
   "slug": "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia",
@@ -15993,6 +16029,12 @@
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: filename shares only \"finals\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-20T08:30:43.766Z"
+ },
+ "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/2019_ATP_Finals_at_the_o2_%2849069150561%29.jpg/3840px-2019_ATP_Finals_at_the_o2_%2849069150561%29.jpg": {
+  "slug": "london-atp-finals",
+  "verdict": "MATCH",
+  "reason": "patrol replace: ATP Finals tennis court, professional venue setup",
+  "at": "2026-10-22T22:40:50.361Z"
  },
  "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Doubles_at_the_ATP_Finals_%2849070103618%29.jpg/3840px-Doubles_at_the_ATP_Finals_%2849070103618%29.jpg": {
   "slug": "london-atp-finals",
@@ -20716,6 +20758,12 @@
   "reason": "publish gate: Exterior of Nuremberg courthouse building, representative venue view",
   "at": "2026-10-02T14:26:20.658Z"
  },
+ "nuremberg-nuremberg-christkindlesmarkt\u0001https://upload.wikimedia.org/wikipedia/commons/5/58/Schachtel_%22Christkindlesmarkt%22.jpg": {
+  "slug": "nuremberg-nuremberg-christkindlesmarkt",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Antique wooden object, unrelated to Christkindlesmarkt",
+  "at": "2026-10-22T22:41:15.048Z"
+ },
  "nuremberg-nuremberg-christkindlesmarkt\u0001https://upload.wikimedia.org/wikipedia/commons/e/ee/Nuernberg_Postkutsche_Christkindlesmarkt_20101201.jpg": {
   "slug": "nuremberg-nuremberg-christkindlesmarkt",
   "verdict": "MISMATCH",
@@ -20728,6 +20776,12 @@
   "reason": "hand-reviewed: filename shares only \"christkindlesmarkt\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-20T08:30:43.962Z"
  },
+ "nuremberg-nuremberg-christkindlesmarkt\u0001https://upload.wikimedia.org/wikipedia/commons/f/ff/Ludwig_M%C3%B6%C3%9Fler_N%C3%BCrnberg_Christkindlesmarkt.jpg": {
+  "slug": "nuremberg-nuremberg-christkindlesmarkt",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Painting/illustration, not a real photo",
+  "at": "2026-10-22T22:41:13.794Z"
+ },
  "nuremberg-nuremberg-christkindlesmarkt\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Christkindlesmarkt_2019_N%C3%BCrnberg_026.jpg/3840px-Christkindlesmarkt_2019_N%C3%BCrnberg_026.jpg": {
   "slug": "nuremberg-nuremberg-christkindlesmarkt",
   "verdict": "MISMATCH",
@@ -20739,6 +20793,12 @@
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: filename shares only \"christkindlesmarkt\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-19T11:33:03.245Z"
+ },
+ "nuremberg-nuremberg-christkindlesmarkt\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Christkindlesmarkt_N%C3%BCrnberg_Fleischbr%C3%BCcke.jpg/3840px-Christkindlesmarkt_N%C3%BCrnberg_Fleischbr%C3%BCcke.jpg": {
+  "slug": "nuremberg-nuremberg-christkindlesmarkt",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Nuremberg Christkindlesmarkt at Hauptmarkt, festive crowd",
+  "at": "2026-10-22T22:41:18.128Z"
  },
  "nuremberg-nuremberg-christkindlesmarkt\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Lights_in_Christkindlesmarkt_Nuremberg.jpg/3840px-Lights_in_Christkindlesmarkt_Nuremberg.jpg": {
   "slug": "nuremberg-nuremberg-christkindlesmarkt",
@@ -21139,11 +21199,35 @@
   "reason": "patrol reject: Shows pilot/lead vehicle, not marathon runners or race scene",
   "at": "2026-10-22T00:15:01.443Z"
  },
+ "osaka-osaka-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/1/17/Osaka_Marathon_2019.jpg": {
+  "slug": "osaka-osaka-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Regular city street, not marathon event depicted",
+  "at": "2026-10-22T22:41:32.099Z"
+ },
  "osaka-osaka-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/4/48/Nissan_ARIYA_B9_e-4ORCE_%28ZAA-SNFE0%29_used_as_a_2025_Osaka_Marathon_Cheif_Judge_Car.jpg": {
   "slug": "osaka-osaka-marathon",
   "verdict": "MISMATCH",
   "reason": "patrol reject: Vehicle, not marathon event or athletes",
   "at": "2026-10-22T00:14:56.152Z"
+ },
+ "osaka-osaka-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/4/48/Nissan_X-TRAIL_X_e-4ORCE_XTREMER_X_%286AA-SNT33%29_used_as_a_2025_Osaka_Marathon_timekeeping_vehicle_%281%29.jpg": {
+  "slug": "osaka-osaka-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shows pace car/vehicle, not marathon runners or race scene",
+  "at": "2026-10-22T22:41:27.210Z"
+ },
+ "osaka-osaka-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/4/4e/Nissan_SERENA_e-POWER_LUXION_%286AA-GFC28%29_used_as_a_2025_Osaka_Marathon_First-aid_Car.jpg": {
+  "slug": "osaka-osaka-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shows a car, not the marathon event itself",
+  "at": "2026-10-22T22:41:22.059Z"
+ },
+ "osaka-osaka-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/5/5c/Nissan_SAKURA_%28ZAA-B6AW%29_used_as_a_2025_Osaka_Marathon_vehicle.jpg": {
+  "slug": "osaka-osaka-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shows a promotional car, not marathon runners/event",
+  "at": "2026-10-22T22:41:25.464Z"
  },
  "osaka-osaka-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/7/7d/Nissan_ARIYA_NISMO_B9_e-4ORCE_%28ZAA-SNFE0%29_used_as_a_2025_Osaka_Marathon_Leading_Car_%283%29.jpg": {
   "slug": "osaka-osaka-marathon",
@@ -21151,11 +21235,29 @@
   "reason": "patrol reject: Shows a pilot car, not marathon runners or race",
   "at": "2026-10-22T00:14:54.196Z"
  },
+ "osaka-osaka-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/8/87/Nissan_X-TRAIL_X_e-4ORCE_XTREMER_X_%286AA-SNT33%29_used_as_a_2025_Osaka_Marathon_timekeeping_vehicle_%284%29.jpg": {
+  "slug": "osaka-osaka-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shows a timing car, not marathon runners/event",
+  "at": "2026-10-22T22:41:30.520Z"
+ },
+ "osaka-osaka-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/9/96/Nissan_NOTE_%286AA-E13%29_used_as_the_2025_Osaka_Marathon_accommodation_vehicle_%281%29.jpg": {
+  "slug": "osaka-osaka-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shows a parked car, not marathon event itself",
+  "at": "2026-10-22T22:41:23.736Z"
+ },
  "osaka-osaka-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/a/ae/Nissan_ARIYA_NISMO_B9_e-4ORCE_%28ZAA-SNFE0%29_used_as_a_2025_Osaka_Marathon_Leading_Car_%282%29.jpg": {
   "slug": "osaka-osaka-marathon",
   "verdict": "MISMATCH",
   "reason": "patrol reject: Shows a car, not marathon runners or event",
   "at": "2026-10-22T00:14:59.665Z"
+ },
+ "osaka-osaka-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/e/e7/Nissan_X-TRAIL_X_e-4ORCE_XTREMER_X_%286AA-SNT33%29_used_as_a_2025_Osaka_Marathon_timekeeping_vehicle_%282%29.jpg": {
+  "slug": "osaka-osaka-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shows a pace car, not marathon runners/event",
+  "at": "2026-10-22T22:41:28.922Z"
  },
  "osaka-osaka-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/f/fc/Nissan_X-TRAIL_X_e-4ORCE_XTREMER_X_%286AA-SNT33%29_used_as_a_2025_Osaka_Marathon_timekeeping_vehicle_%283%29.jpg": {
   "slug": "osaka-osaka-marathon",
@@ -21951,7 +22053,7 @@
   "slug": "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour",
   "verdict": "MATCH",
   "reason": "patrol replace: Band performing on stage at concert venue",
-  "at": "2026-10-21T22:39:46.654Z"
+  "at": "2026-10-22T22:42:15.039Z"
  },
  "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/9/93/5_Seconds_of_Summer_11_15_2014_-25_%2815187260193%29.jpg": {
   "slug": "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour",
@@ -23216,6 +23318,12 @@
   "reason": "hand-reviewed: filename shares only \"ironman\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-19T11:33:03.434Z"
  },
+ "puerto-princesa-ironman-70-3-puerto-princesa\u0001https://upload.wikimedia.org/wikipedia/commons/f/ff/Swim_start_at_Ironman_70.3_Florida_2012.jpg": {
+  "slug": "puerto-princesa-ironman-70-3-puerto-princesa",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Swimming event start with crowd, banners visible",
+  "at": "2026-10-22T22:42:28.269Z"
+ },
  "puerto-princesa-ironman-70-3-puerto-princesa\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/IRONMAN_70.3_Hradec_Kralove_2024_4_c%C3%ADlov%C3%A1_rovinka.jpg/1920px-IRONMAN_70.3_Hradec_Kralove_2024_4_c%C3%ADlov%C3%A1_rovinka.jpg": {
   "slug": "puerto-princesa-ironman-70-3-puerto-princesa",
   "verdict": "MISMATCH",
@@ -23239,6 +23347,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: identity: Commons places this in Germany, post says Philippines",
   "at": "2026-10-21T22:39:58.249Z"
+ },
+ "puerto-princesa-ironman-70-3-puerto-princesa\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Erdinger_-_Ironman_70.3_Budapest_-_2014.08.23_%2813%29.JPG/3840px-Erdinger_-_Ironman_70.3_Budapest_-_2014.08.23_%2813%29.JPG": {
+  "slug": "puerto-princesa-ironman-70-3-puerto-princesa",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Triathlon race, not Puerto Princesa venue",
+  "at": "2026-10-22T22:42:25.058Z"
  },
  "puerto-princesa-ironman-70-3-puerto-princesa\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/IRONMAN_70.3_Hradec_Kralove_2024_2.jpg/1920px-IRONMAN_70.3_Hradec_Kralove_2024_2.jpg": {
   "slug": "puerto-princesa-ironman-70-3-puerto-princesa",

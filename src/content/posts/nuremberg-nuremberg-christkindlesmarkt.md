@@ -33,6 +33,14 @@ faq:
     a: Try Drei im Weggla (three Nuremberg sausages in a roll), Elisenlebkuchen gingerbread, and Glühwein in the market mug. Feuerzangenbowle and the prune figures called Zwetschgenmännle are local specialities too.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Christkindlesmarkt_N%C3%BCrnberg_Fleischbr%C3%BCcke.jpg/3840px-Christkindlesmarkt_N%C3%BCrnberg_Fleischbr%C3%BCcke.jpg
+  credit: 'Photo: Max Schrader / Wikimedia Commons (CC BY-SA 2.5)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Christkindlesmarkt_N%C3%BCrnberg_Fleischbr%C3%BCcke.jpg
+  focus:
+    x: 50
+    'y': 50
 ---
 
 ## A square of red and white canopies
