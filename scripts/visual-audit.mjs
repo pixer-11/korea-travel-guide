@@ -25,7 +25,7 @@ import matter from 'gray-matter';
 import yaml from 'js-yaml';
 import { sendTelegram } from './lib/telegram.mjs';
 import { writeAuditStore } from './lib/visual-audit-store.mjs';
-import { loadHeroPins, isPinnedHero } from './lib/hero-pins.mjs';
+import { loadHeroPins, isPinnedHero, isOwnerPhoto } from './lib/hero-pins.mjs';
 const HERO_PINS = loadHeroPins();
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
@@ -102,6 +102,11 @@ for (const f of files) {
   // one. The verdict store already skips heroes judged before, so re-including
   // them costs a vision call once per NEW photo.
   if (!VENUE.has(data.category)) continue;
+  // The one source that IS exempt: a photo the owner took in person. "No
+  // source is exempt" above is about photos found online; this one's identity
+  // is the photographer's, and a vision MISMATCH must never pull it
+  // (pin-owner-heroes.mjs pins them; this holds even before it has run).
+  if (isOwnerPhoto(hero)) continue;
   // Quarantined posts are already off the site (draft → 301) and are the alt-photo
   // patrol's job. Auditing them burns vision calls and, worse, re-reports names the
   // owner has already been told about — which reads as "the same problems keep

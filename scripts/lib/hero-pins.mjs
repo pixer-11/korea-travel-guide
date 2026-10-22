@@ -29,6 +29,10 @@ export function saveHeroPins(pins, path = HERO_PINS_PATH) {
   writeFileSync(path, JSON.stringify(sorted, null, 1) + '\n');
 }
 
+/** A photo the owner took in person, self-hosted under /editor-photos/. */
+export const isOwnerPhoto = (hero) =>
+  hero?.license === 'editor' && typeof hero.url === 'string' && hero.url.startsWith('/editor-photos/');
+
 /** Is this slug's hero a person's decision? (any url of the pinned picture) */
 export function isPinnedHero(pins, slug, url = null) {
   const pin = pins?.[slug];

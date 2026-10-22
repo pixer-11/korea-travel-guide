@@ -54,7 +54,7 @@ export const REGION_TZ = {
   Indonesia: {
     Jakarta: WIB, Yogyakarta: WIB, Bandung: WIB, Surabaya: WIB, Malang: WIB,
     Medan: WIB, 'Mount Bromo': WIB, Tangerang: WIB, Magelang: WIB,
-    Bali: WITA, Ubud: WITA, Uluwatu: WITA, Canggu: WITA, 'Nusa Penida': WITA, Lombok: WITA,
+    Bali: WITA, Ubud: WITA, Uluwatu: WITA, Canggu: WITA, 'Nusa Penida': WITA, Lombok: WITA, Denpasar: WITA, Buleleng: WITA,
     'Gili Islands': WITA, Mandalika: WITA, 'Labuan Bajo': WITA, Komodo: WITA,
     Makassar: WITA,
   },
@@ -83,7 +83,7 @@ export const REGION_TZ = {
   // 앨버타(밴프·레이크루이스·재스퍼·캘거리)와 옐로나이프(NT 동부)는 America/Edmonton,
   // 처칠은 매니토바라 America/Winnipeg, BC(밴쿠버·휘슬러·빅토리아)는 America/Vancouver(2026-10-21).
   Canada: {
-    Toronto: 'America/Toronto', 'Niagara Falls': 'America/Toronto', Ottawa: 'America/Toronto',
+    Toronto: 'America/Toronto', 'Niagara Falls': 'America/Toronto', Ottawa: 'America/Toronto', Hamilton: 'America/Toronto',
     Montreal: 'America/Toronto', 'Quebec City': 'America/Toronto',
     Banff: 'America/Edmonton', 'Lake Louise': 'America/Edmonton', Jasper: 'America/Edmonton',
     Calgary: 'America/Edmonton', Yellowknife: 'America/Edmonton',

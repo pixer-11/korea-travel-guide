@@ -724,6 +724,9 @@ jobs:
           # fixer existed but nothing ran it — only the local `npm run ci` test
           # saw it, a day after ko/batumi-fountain went live (2026-10-21).
           node scripts/fix-reversed-titles.mjs --write 2>&1 | tail -3 || true
+          # The owner's own photos are pinned so no patrol re-judges or replaces
+          # them (no model call; idempotent).
+          node scripts/pin-owner-heroes.mjs 2>&1 | tail -3 || true
           node scripts/fix-ended-event-tense.mjs 2>&1 | tail -3 || true
           # The regex fixer only knows the sentences its own patterns know. An
           # ended guide still telling a reader to "check the official site
@@ -800,7 +803,7 @@ jobs:
           # essentials-topics-i18n / static-pages-i18n: their translators joined
           # this workflow on 2026-09-02; unstaged, a re-translation would be
           # produced every night and dropped every night.
-          git add data/places-budget.json data/topic-yield.json data/visual-audit.json data/translation-quality.json $( [ -f data/prose-patches.json ] && echo data/prose-patches.json ) $( [ -f data/hours-fix-failed.json ] && echo data/hours-fix-failed.json ) src/content/posts src/content/i18n data/published.json public/wall data/wall.json src/i18n/places.json src/i18n/country-blurbs.json src/i18n/regions.json src/i18n/holidays.json src/content/itineraries src/content/itineraries-i18n data/itineraries-state.json data/logs/itinerary-last-run.txt data/country-facts.json data/essentials-facts.json src/content/essentials src/content/essentials-i18n src/content/essentials-topics-i18n src/content/static-pages-i18n
+          git add data/places-budget.json data/topic-yield.json data/visual-audit.json data/hero-pins.json data/translation-quality.json $( [ -f data/prose-patches.json ] && echo data/prose-patches.json ) $( [ -f data/hours-fix-failed.json ] && echo data/hours-fix-failed.json ) src/content/posts src/content/i18n data/published.json public/wall data/wall.json src/i18n/places.json src/i18n/country-blurbs.json src/i18n/regions.json src/i18n/holidays.json src/content/itineraries src/content/itineraries-i18n data/itineraries-state.json data/logs/itinerary-last-run.txt data/country-facts.json data/essentials-facts.json src/content/essentials src/content/essentials-i18n src/content/essentials-topics-i18n src/content/static-pages-i18n
           # Count PUBLISHED and HELD separately. The gate flips a defective new
           # post to draft before this commit, and format-post-list already skips
           # drafts — but this count didn't, so the report said "새 글 6개" over

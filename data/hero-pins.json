@@ -97,6 +97,18 @@
   "why": "Pixer field note 2026-10-20 no.5 (own photo, visited in person)",
   "at": "2026-10-21T11:36:25.534Z"
  },
+ "ho-chi-minh-city-la-scene": {
+  "url": "/editor-photos/la-scene-saigon-facade.jpg",
+  "credit": "Photo: Pixer / Wander Atlas",
+  "license": "editor",
+  "source": "editor-original — La Scene Saigon facade, 27 Tran Quang Long, Binh Thanh",
+  "focus": {
+   "x": 50,
+   "y": 25
+  },
+  "why": "the owner photographed it in person (editor-original)",
+  "at": "2026-10-22T00:10:12.338Z"
+ },
  "ho-chi-minh-city-saigon-zoo-and-botanical-gardens": {
   "url": "/editor-photos/ho-chi-minh-city-saigon-zoo-and-botanical-gardens-1.jpg",
   "credit": "Photo: Pixer / Wander Atlas",
@@ -144,6 +156,18 @@
   },
   "why": "Pixer field note 2026-10-18 (own photo, visited in person)",
   "at": "2026-10-20T11:35:56.828Z"
+ },
+ "ho-chi-minh-city-yakiuo-ishikawa": {
+  "url": "/editor-photos/yakiuo-ishikawa-saigon-entrance.jpg",
+  "credit": "Photo: Pixer / Wander Atlas",
+  "license": "editor",
+  "source": "editor-original — Yakiuo Ishikawa Saigon entrance, Thai Van Lung, District 1",
+  "focus": {
+   "x": 50,
+   "y": 45
+  },
+  "why": "the owner photographed it in person (editor-original)",
+  "at": "2026-10-22T00:10:12.391Z"
  },
  "konya-mevlana-festival-whirling-dervishes-festival": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Whirling_Dervishes_in_Konya.jpg/3840px-Whirling_Dervishes_in_Konya.jpg",

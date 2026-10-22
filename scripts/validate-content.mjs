@@ -672,6 +672,9 @@ export function photoVerificationProblems(posts, store, { today = new Date().toI
     // A held post is not "still published" — being held IS what the
     // quarantine does, so reporting it every night is an alert that lies.
     if (!VENUE.has(p.category) || !p.url || p.draft === true) continue;
+    // The owner's own photograph is not a candidate awaiting a verdict — the
+    // photographer stood there (scripts/pin-owner-heroes.mjs, 2026-10-22).
+    if (p.license === 'editor' && p.url.startsWith('/editor-photos/')) continue;
     const slug = p.f.replace(/[.]md$/, '');
     const v = store[`${p.f.replace(/\.md$/, '')}${SEP}${p.url}`]
       // The same photo under another host or thumbnail width is the same

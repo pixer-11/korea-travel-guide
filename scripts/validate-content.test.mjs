@@ -228,6 +228,16 @@ flags('slash in region', 'SLASH', { region: 'Seoul/Gyeonggi' });
     const out = photoVerificationProblems([post({ category: 'event', pubDate: '2026-07-01' })], {}, { today: TODAY });
     return out.length === 0 ? null : `오탐: ${out.join(' | ')}`;
   }]);
+  // 2026-10-22: 픽서님이 직접 찍은 방콕 야오와랏 사진 — 고정돼 있어 밤 감사가
+  // 건너뛰니 판정이 영영 안 생기고, 검사기는 "검증 안 됨"이라 경고했다.
+  cases.push(['직접 찍은 사진은 미판정이어도 조용하다', () => {
+    const out = photoVerificationProblems([post({ url: '/editor-photos/cafe-1.jpg', license: 'editor', pubDate: '2026-07-01' })], {}, { today: TODAY });
+    return out.length === 0 ? null : `오탐: ${out.join(' | ')}`;
+  }]);
+  cases.push(['editor 표시만 있고 우리 사진 폴더가 아니면 여전히 잡는다', () => {
+    const out = photoVerificationProblems([post({ url: 'https://x/p.jpg', license: 'editor', pubDate: '2026-07-01' })], {}, { today: TODAY });
+    return has(out, 'UNVERIFIED-PHOTO') ? null : `놓침: ${out.join(' | ') || '(clean)'}`;
+  }]);
   cases.push(['미판정이 많으면 총계도 함께 보고한다', () => {
     const many = Array.from({ length: 9 }, (_, i) => post({ f: `c${i}.md`, url: `https://x/${i}.jpg`, pubDate: '2026-07-01' }));
     const out = photoVerificationProblems(many, {}, { today: TODAY });
