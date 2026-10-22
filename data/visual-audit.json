@@ -533,6 +533,12 @@
   "reason": "publish gate: Front view of Akbar's Tomb gatehouse, representative image",
   "at": "2026-08-31T12:32:33.885Z"
  },
+ "aguas-calientes-historic-sanctuary-of-machu-picchu\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/205_View_from_Sun_Gate_Machu_Picchu_Peru_2471_%2815164217895%29.jpg/1920px-205_View_from_Sun_Gate_Machu_Picchu_Peru_2471_%2815164217895%29.jpg": {
+  "slug": "aguas-calientes-historic-sanctuary-of-machu-picchu",
+  "verdict": "MATCH",
+  "reason": "publish gate: Mountain landscape consistent with Machu Picchu sanctuary surroundings",
+  "at": "2026-10-22T14:55:56.286Z"
+ },
  "ahmedabad-diljit-dosanjh-rupay-aura-india-tour-2026-ahmedabad\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/IIFA_2017_Green_Carpet_%2835586493033%29.jpg/3840px-IIFA_2017_Green_Carpet_%2835586493033%29.jpg": {
   "slug": "ahmedabad-diljit-dosanjh-rupay-aura-india-tour-2026-ahmedabad",
   "verdict": "MATCH",
@@ -1197,6 +1203,18 @@
   "verdict": "MATCH",
   "reason": "event-mode back-audit: Shows Nebuta float lanterns, representative of the festival",
   "at": "2026-08-07T13:02:39.692Z"
+ },
+ "arequipa-basilica-cathedral-of-arequipa\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Catedral_Arequipa%2C_Peru.jpg/1920px-Catedral_Arequipa%2C_Peru.jpg": {
+  "slug": "arequipa-basilica-cathedral-of-arequipa",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior view of Arequipa Cathedral, representative hero shot",
+  "at": "2026-10-22T14:52:35.382Z"
+ },
+ "arequipa-santa-catalina-monastery\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Santa_Catalina_Monastery%2C_Arequipa_-_53032077180.jpg/1920px-Santa_Catalina_Monastery%2C_Arequipa_-_53032077180.jpg": {
+  "slug": "arequipa-santa-catalina-monastery",
+  "verdict": "MATCH",
+  "reason": "publish gate: Iconic Santa Catalina courtyard with dome and red walls",
+  "at": "2026-10-22T14:55:56.427Z"
  },
  "arlington-bts-world-tour-arlington\u0001https://upload.wikimedia.org/wikipedia/commons/0/04/BTS_World_Tour_Love_Yourself_Speak_Yourself_in_Brazil%2C_May_2019_01.jpg": {
   "slug": "arlington-bts-world-tour-arlington",
@@ -1903,6 +1921,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Exterior view of the wooden museum building itself",
   "at": "2026-10-22T07:49:24.220Z"
+ },
+ "banff-bow-falls\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Bow_River-27527-3.jpg/1920px-Bow_River-27527-3.jpg": {
+  "slug": "banff-bow-falls",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows waterfall and surroundings consistent with Bow Falls, Banff",
+  "at": "2026-10-22T14:55:56.395Z"
  },
  "bangkok-808-festival-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BITEC.JPG/1920px-BITEC.JPG": {
   "slug": "bangkok-808-festival-2026",
@@ -6395,11 +6419,23 @@
   "reason": "Chinese temple decoration, not a café interior/exterior",
   "at": "2026-07-25T02:42:06.624Z"
  },
+ "chivay-plaza-de-armas-de-chivay\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Plaza_de_Armas_de_Chivay.jpg/3840px-Plaza_de_Armas_de_Chivay.jpg": {
+  "slug": "chivay-plaza-de-armas-de-chivay",
+  "verdict": "MATCH",
+  "reason": "publish gate: Panoramic view of Plaza de Armas with church and mountains",
+  "at": "2026-10-22T14:51:04.211Z"
+ },
  "christchurch-barnett-park-cave\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Barnett_Park_Cave_2025_view.jpg/3840px-Barnett_Park_Cave_2025_view.jpg": {
   "slug": "christchurch-barnett-park-cave",
   "verdict": "MATCH",
   "reason": "publish gate: Cave opening with viewpoint over landscape, matches venue type",
   "at": "2026-10-21T08:00:02.322Z"
+ },
+ "christchurch-cardboard-cathedral\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Christchurch_Cardboard_Cathedral_1_%2831310889165%29.jpg/1920px-Christchurch_Cardboard_Cathedral_1_%2831310889165%29.jpg": {
+  "slug": "christchurch-cardboard-cathedral",
+  "verdict": "MATCH",
+  "reason": "publish gate: Clear exterior view of Cardboard Cathedral in Christchurch",
+  "at": "2026-10-22T14:55:56.333Z"
  },
  "christchurch-christchurch-botanic-gardens\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Christchurch_Botanic_Gardens_16.jpg/1920px-Christchurch_Botanic_Gardens_16.jpg": {
   "slug": "christchurch-christchurch-botanic-gardens",
@@ -6762,6 +6798,18 @@
   "verdict": "MATCH",
   "reason": "publish gate: Exterior of Margaritaville Cozumel with signage and patrons",
   "at": "2026-10-05T16:26:27.311Z"
+ },
+ "cusco-saqsaywaman\u0001https://upload.wikimedia.org/wikipedia/commons/7/75/Saqsaywaman%2C_cusco%2C_peru_-_panoramio_%281%29.jpg": {
+  "slug": "cusco-saqsaywaman",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows iconic massive stone walls of Saqsaywaman",
+  "at": "2026-10-22T14:53:00.366Z"
+ },
+ "cusco-vinicunca-rainbow-mountain\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Vinicunca_%28Rainbow_Mountain%29.jpg/3840px-Vinicunca_%28Rainbow_Mountain%29.jpg": {
+  "slug": "cusco-vinicunca-rainbow-mountain",
+  "verdict": "MATCH",
+  "reason": "publish gate: Representative view of Rainbow Mountain's striped peaks with visitors",
+  "at": "2026-10-22T14:52:35.303Z"
  },
  "cuttack-odisha-masters-super-100\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Gulshan_nadeem_Odia_Anchor_from_Odisha.jpg/1920px-Gulshan_nadeem_Odia_Anchor_from_Odisha.jpg": {
   "slug": "cuttack-odisha-masters-super-100",
@@ -11023,6 +11071,12 @@
   "reason": "publish gate: Distant temple hilltop visible in Hua Hin cityscape",
   "at": "2026-09-16T07:42:54.138Z"
  },
+ "huacachina-huacachina-oasis\u0001https://upload.wikimedia.org/wikipedia/commons/d/d1/Oasis_de_Huacachina_near_Hotel_Mossone_.jpg": {
+  "slug": "huacachina-huacachina-oasis",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows oasis lagoon, palms, and desert dunes clearly",
+  "at": "2026-10-22T14:52:35.353Z"
+ },
  "hualien-farglory-ocean-park\u0001https://fastly.4sqi.net/img/general/original/69053463_bCwcPlk_17hSxFMVXA2uAE7L2AAqQMI8p6x74mXhAeg.jpg": {
   "slug": "hualien-farglory-ocean-park",
   "verdict": "MATCH",
@@ -11047,6 +11101,12 @@
   "verdict": "MATCH",
   "reason": "patrol re-check: Steam train on rails at railway park, representative view",
   "at": "2026-08-15T15:04:11.039Z"
+ },
+ "huaraz-mirador-de-rataquenua\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Mirador_de_Rataquenua_en_2024.jpg/3840px-Mirador_de_Rataquenua_en_2024.jpg": {
+  "slug": "huaraz-mirador-de-rataquenua",
+  "verdict": "MATCH",
+  "reason": "publish gate: View from mirador overlooking Huaraz city and mountains",
+  "at": "2026-10-22T14:51:37.115Z"
  },
  "hue-an-dinh-palace\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/An_Dinh_Palace_-_Cung_An_%C4%90%E1%BB%8Bnh_%282024%29_-_front_facade_-_img_05.jpg/3840px-An_Dinh_Palace_-_Cung_An_%C4%90%E1%BB%8Bnh_%282024%29_-_front_facade_-_img_05.jpg": {
   "slug": "hue-an-dinh-palace",
@@ -11534,6 +11594,12 @@
   "reason": "Golden Buddha statue in cave temple, Ipoh",
   "reasonKo": "이폭 동굴 사원의 황금 불상",
   "at": "2026-08-19T13:28:56.591Z"
+ },
+ "iquitos-casa-de-fierro\u0001https://upload.wikimedia.org/wikipedia/commons/5/5b/Iquitos-Casa_de_Hierro_%284%29.jpg": {
+  "slug": "iquitos-casa-de-fierro",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Casa de Fierro's iron facade in Iquitos, Peru",
+  "at": "2026-10-22T14:51:37.065Z"
  },
  "istanbul-akbank-jazz-festival\u0001https://upload.wikimedia.org/wikipedia/commons/c/c3/Akbank_Caz_Festivali_Kolaj.jpg": {
   "slug": "istanbul-akbank-jazz-festival",
@@ -15349,6 +15415,12 @@
   "reason": "publish gate: Classic Lake Louise view with lake, mountains, boathouse",
   "at": "2026-10-21T13:29:32.540Z"
  },
+ "lake-louise-moraine-lake\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Moraine_Lake_17092005.jpg/1920px-Moraine_Lake_17092005.jpg": {
+  "slug": "lake-louise-moraine-lake",
+  "verdict": "MATCH",
+  "reason": "publish gate: Classic representative view of Moraine Lake and mountains",
+  "at": "2026-10-22T14:53:28.149Z"
+ },
  "lake-louise-mount-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Mount_Temple_from_Saddle_Mountain_south_of_Lake_Louise.jpg/3840px-Mount_Temple_from_Saddle_Mountain_south_of_Lake_Louise.jpg": {
   "slug": "lake-louise-mount-temple",
   "verdict": "MATCH",
@@ -15647,6 +15719,12 @@
   "reason": "Traditional Lijiang architecture with snow-capped mountains",
   "reasonKo": "전통 리장 건축과 설산 배경",
   "at": "2026-08-11T14:03:45.497Z"
+ },
+ "lima-love-park\u0001https://upload.wikimedia.org/wikipedia/commons/2/20/El_Parque_del_Amor_%28Love_Park%29%2C_Lima%2C_Peru.jpg": {
+  "slug": "lima-love-park",
+  "verdict": "MATCH",
+  "reason": "publish gate: Mosaic benches match Parque del Amor in Lima",
+  "at": "2026-10-22T14:53:28.118Z"
  },
  "little-india-chola-cafe-biryani-house-best-biryani-in-singapore\u0001https://fastly.4sqi.net/img/general/original/3488023_xcs-PDW6bEiTyJYgf9vWMVeT1l_5y9gSYZkcOMZGL8s.jpg": {
   "slug": "little-india-chola-cafe-biryani-house-best-biryani-in-singapore",
@@ -18681,6 +18759,12 @@
   "reason": "event publish gate: Performers on stage during KATSEYE concert performance",
   "at": "2026-10-21T23:53:37.328Z"
  },
+ "montreal-kondiaronk-belvedere\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Belvedere_Kondiaronk_chalet_du_Mont_Royal.jpg/3840px-Belvedere_Kondiaronk_chalet_du_Mont_Royal.jpg": {
+  "slug": "montreal-kondiaronk-belvedere",
+  "verdict": "MATCH",
+  "reason": "publish gate: View of Montreal skyline from the belvedere overlook",
+  "at": "2026-10-22T14:55:14.055Z"
+ },
  "montreal-montreal-museum-of-fine-arts\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Museum_of_Fine_Arts%2C_main_entrance%2C_Montreal.jpg/1920px-Museum_of_Fine_Arts%2C_main_entrance%2C_Montreal.jpg": {
   "slug": "montreal-montreal-museum-of-fine-arts",
   "verdict": "MATCH",
@@ -19644,6 +19728,12 @@
   "reason": "publish gate: Full mansion exterior view, representative of the venue",
   "at": "2026-09-10T07:39:08.745Z"
  },
+ "nazca-nazca-lines\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/L%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_49.JPG/1920px-L%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_49.JPG": {
+  "slug": "nazca-nazca-lines",
+  "verdict": "MATCH",
+  "reason": "publish gate: Aerial view of Nazca Lines geoglyph, representative hero image",
+  "at": "2026-10-22T14:52:35.239Z"
+ },
  "new-delhi-bwf-world-championships-2026\u0001https://upload.wikimedia.org/wikipedia/commons/0/08/Alistair_Casey_-_2007_BWF_World_Championships.jpg": {
   "slug": "new-delhi-bwf-world-championships-2026",
   "verdict": "MISMATCH",
@@ -20349,6 +20439,12 @@
   "reason": "Ancient stone carving typical of Po Nagar Temple",
   "at": "2026-07-25T02:47:17.575Z"
  },
+ "niagara-falls-clifton-hill\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Visitor_attractions_and_restaurants%2C_Clifton_Hill%2C_Niagara_Falls_ON_20170418_1.jpg/3840px-Visitor_attractions_and_restaurants%2C_Clifton_Hill%2C_Niagara_Falls_ON_20170418_1.jpg": {
+  "slug": "niagara-falls-clifton-hill",
+  "verdict": "MATCH",
+  "reason": "publish gate: Iconic Burger King/Frankenstein building on Clifton Hill",
+  "at": "2026-10-22T14:54:40.490Z"
+ },
  "niagara-falls-journey-behind-the-falls\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Journey_behind_the_falls_01.JPG/1920px-Journey_behind_the_falls_01.JPG": {
   "slug": "niagara-falls-journey-behind-the-falls",
   "verdict": "MATCH",
@@ -20849,6 +20945,12 @@
   "verdict": "MATCH",
   "reason": "Ivy-covered storefront with 'Darwin' signage visible, trendy",
   "at": "2026-07-25T02:47:29.067Z"
+ },
+ "ollantaytambo-sitio-arqueologico-pinkuylluna\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sitio_arqueologico_de_Pinkuylluna-2026_53.jpg/3840px-Sitio_arqueologico_de_Pinkuylluna-2026_53.jpg": {
+  "slug": "ollantaytambo-sitio-arqueologico-pinkuylluna",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Pinkuylluna ruins overlooking Ollantaytambo town and valley",
+  "at": "2026-10-22T14:52:07.227Z"
  },
  "orchard-road-din-tai-fung\u0001\"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Taiwan_2009_Taipei_DinTaiFung_Dumpling_House_at_Pacific_Sogo_ZhongXiao_Store_FRD_9000.jpg/1920px-Taiwan_2009_Taipei_DinTaiFung_Dumpling_House_at_Pacific_Sogo_ZhongXiao_Store_FRD_9000.jpg\"": {
   "slug": "orchard-road-din-tai-fung",
@@ -22867,6 +22969,12 @@
   "reasonKo": "사진이 320px로 너무 작음",
   "at": "2026-08-11T21:07:15.485Z"
  },
+ "pisac-parque-arqueologico-pisac\u0001https://upload.wikimedia.org/wikipedia/commons/8/86/Parque_Arqueol%C3%B3gico_de_Pisac%2C_Peru_-_panoramio.jpg": {
+  "slug": "pisac-parque-arqueologico-pisac",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Pisac's iconic agricultural terraces in Andean mountains",
+  "at": "2026-10-22T14:52:35.271Z"
+ },
  "playa-del-carmen-el-castillo\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/El_Castillo_%2816682767642%29.jpg/3840px-El_Castillo_%2816682767642%29.jpg": {
   "slug": "playa-del-carmen-el-castillo",
   "verdict": "MATCH",
@@ -23225,6 +23333,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Iconic exterior view of Château Frontenac in winter",
   "at": "2026-10-21T13:29:32.483Z"
+ },
+ "quebec-city-montmorency-falls\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Montmorency_Falls_01.jpg/1920px-Montmorency_Falls_01.jpg": {
+  "slug": "quebec-city-montmorency-falls",
+  "verdict": "MATCH",
+  "reason": "publish gate: Classic waterfall view with bridge, matches Montmorency Falls",
+  "at": "2026-10-22T14:54:40.521Z"
  },
  "quebec-city-musee-national-des-beaux-arts-du-quebec\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Mus%C3%A9e_national_des_beaux-arts_du_Qu%C3%A9bec_2017.jpg/3840px-Mus%C3%A9e_national_des_beaux-arts_du_Qu%C3%A9bec_2017.jpg": {
   "slug": "quebec-city-musee-national-des-beaux-arts-du-quebec",
@@ -30319,6 +30433,24 @@
   "reason": "event publish gate: IVE performing on stage, valid tour hero image",
   "at": "2026-10-21T23:53:20.986Z"
  },
+ "toronto-royal-ontario-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Royal_Ontario_Museum_in_Fall_2021.jpg/1920px-Royal_Ontario_Museum_in_Fall_2021.jpg": {
+  "slug": "toronto-royal-ontario-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of ROM showing iconic crystal architecture",
+  "at": "2026-10-22T14:53:55.077Z"
+ },
+ "toronto-st-lawrence-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/St_Lawerence_South_Market_Exterior_202112.jpg/1920px-St_Lawerence_South_Market_Exterior_202112.jpg": {
+  "slug": "toronto-st-lawrence-market",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of St. Lawrence Market building with signage",
+  "at": "2026-10-22T14:55:14.132Z"
+ },
+ "toronto-the-distillery-historic-district\u0001https://upload.wikimedia.org/wikipedia/commons/c/cc/The_Distillery_Historic_Sidewalk_2022.jpg": {
+  "slug": "toronto-the-distillery-historic-district",
+  "verdict": "MATCH",
+  "reason": "publish gate: Authentic cobblestone lane with historic brick buildings, Distillery District",
+  "at": "2026-10-22T14:56:25.416Z"
+ },
  "toulouse-basilique-saint-sernin-de-toulouse\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Basilique_Saint-Sernin_de_Toulouse_-_exposition_ouest-1-.jpg/1920px-Basilique_Saint-Sernin_de_Toulouse_-_exposition_ouest-1-.jpg": {
   "slug": "toulouse-basilique-saint-sernin-de-toulouse",
   "verdict": "MATCH",
@@ -31035,6 +31167,12 @@
   "reason": "event publish gate: Performer group photo of BOYNEXTDOOR band members",
   "at": "2026-10-21T23:54:16.886Z"
  },
+ "vancouver-granville-island-public-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Granville_Island_view_from_Granville_Bridge_in_2010.jpg/1920px-Granville_Island_view_from_Granville_Bridge_in_2010.jpg": {
+  "slug": "vancouver-granville-island-public-market",
+  "verdict": "MATCH",
+  "reason": "publish gate: Aerial view of Granville Island market and marina, Vancouver",
+  "at": "2026-10-22T14:55:14.102Z"
+ },
  "vancouver-museum-of-anthropology-at-ubc\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Museum_of_Anthropology_UBC_01.jpg/1920px-Museum_of_Anthropology_UBC_01.jpg": {
   "slug": "vancouver-museum-of-anthropology-at-ubc",
   "verdict": "MATCH",
@@ -31232,6 +31370,12 @@
   "reason": "patrol re-check: Plaza with statue monument, plausible representative hero for the plaza",
   "at": "2026-08-16T20:36:47.115Z"
  },
+ "vinicunca-vinicunca\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Monta%C3%B1aarcoirisperuabanto.jpg/1920px-Monta%C3%B1aarcoirisperuabanto.jpg": {
+  "slug": "vinicunca-vinicunca",
+  "verdict": "MATCH",
+  "reason": "publish gate: Representative view of Rainbow Mountain Vinicunca",
+  "at": "2026-10-22T14:55:56.364Z"
+ },
  "waitomo-waitomo-glowworm-caves\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Glowworm_Grotto%2C_Waitomo_Glowworm_Cave.jpg/1920px-Glowworm_Grotto%2C_Waitomo_Glowworm_Cave.jpg": {
   "slug": "waitomo-waitomo-glowworm-caves",
   "verdict": "MATCH",
@@ -31418,6 +31562,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows Old St Paul's exterior, representative view, person incidental",
   "at": "2026-10-21T07:50:01.749Z"
+ },
+ "wellington-otari-wilton-s-bush\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Otari_Native_Botanic_Garden_%286709125829%29.jpg/1920px-Otari_Native_Botanic_Garden_%286709125829%29.jpg": {
+  "slug": "wellington-otari-wilton-s-bush",
+  "verdict": "MATCH",
+  "reason": "publish gate: Garden path through native bush, representative of Otari-Wilton's",
+  "at": "2026-10-22T14:51:37.032Z"
  },
  "wellington-space-place-at-carter-observatory\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Space_Place_at_Carter_Observatory.jpg/1920px-Space_Place_at_Carter_Observatory.jpg": {
   "slug": "wellington-space-place-at-carter-observatory",

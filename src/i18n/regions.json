@@ -13549,5 +13549,329 @@
       "getting": "田中设有自己的台铁车站，位于纵贯线上，区间车与自强号等列车皆有停靠，往来彰化及西部沿海各城市十分便利。若搭乘高铁抵达，旅客可在彰化高铁站转乘接驳车前往田中，车程约15至20分钟。",
       "days": "安排半天到一天的时间，便足以悠闲地游览田中的稻田风光、在地庙宇与传统市场街道。"
     }
+  },
+  "Aguas Calientes": {
+    "en": {
+      "blurb": "Aguas Calientes, officially known as Machu Picchu Pueblo, is a small Andean town wedged into a river gorge directly below the Machu Picchu citadel, with no road connecting it to the outside world. Its narrow, pedestrian-only streets, hot springs and market stalls exist almost entirely to serve travellers passing through on their way up to the ruins.",
+      "getting": "Most travellers fly into Cusco (CUZ), then transfer overland to a train station at Poroy or Ollantaytambo for the ~1.5 to 4 hour rail journey to Aguas Calientes on PeruRail or Inca Rail, since no roads reach the town. A slower, cheaper alternative involves buses from the regional hub to Hidroelectrica, followed by a walk or short local train into town; from Aguas Calientes itself, a shuttle bus covers the final ~25 minutes up to the Machu Picchu entrance.",
+      "days": "Most visitors spend just one night in Aguas Calientes, enough time to catch an early bus up to Machu Picchu, tour the citadel for a couple of hours and soak in the hot springs before heading back by train."
+    },
+    "ko": {
+      "blurb": "아구아스 칼리엔테스는 공식적으로 '마추픽추 푸에블로'라고 불리는 안데스 산중의 작은 마을로, 마추픽추 유적 바로 아래 협곡 사이에 자리하고 있으며 외부 세계와 연결되는 도로가 전혀 없습니다. 차량 통행이 불가능한 좁은 보행자 전용 골목길과 온천, 그리고 시장 좌판들은 거의 전적으로 유적을 향해 오가는 여행자들을 위해 존재합니다.",
+      "getting": "대부분의 여행자는 쿠스코(CUZ)로 비행기를 타고 들어온 뒤, 육로로 포로이(Poroy)나 오얀타이탐보(Ollantaytambo)의 기차역으로 이동합니다. 이 마을에는 도로가 닿지 않기 때문에, 이곳에서 페루레일(PeruRail)이나 잉카레일(Inca Rail)을 타고 약 1시간 30분에서 4시간 정도 기차 여행을 하면 아구아스 칼리엔테스에 도착합니다. 좀 더 저렴하고 시간이 걸리는 대안으로는 지역 거점 도시에서 이드로엘렉트리카(Hidroelectrica)까지 버스로 이동한 뒤, 도보나 짧은 로컬 기차로 마을까지 들어오는 방법이 있습니다. 아구아스 칼리엔테스에서 마추픽추 입구까지 남은 약 25분 구간은 셔틀버스로 이동합니다.",
+      "days": "대부분의 방문객은 아구아스 칼리엔테스에서 단 하룻밤만 머무릅니다. 이른 아침 버스를 타고 마추픽추에 올라가 두어 시간 유적을 둘러본 뒤, 온천에서 여독을 풀고 기차로 돌아가기에 충분한 시간입니다."
+    },
+    "ja": {
+      "blurb": "アグアスカリエンテスは、正式には「マチュピチュ・プエブロ」と呼ばれる、マチュピチュ遺跡の真下、渓谷に挟まれるように広がる小さなアンデスの町です。外界とつながる道路は一切なく、車道のない狭い路地や温泉、土産物を並べる露店街は、ほぼすべてが遺跡を目指す旅行者をもてなすために存在しています。",
+      "getting": "ほとんどの旅行者はまずクスコ(CUZ)まで飛行機で入り、そこから陸路でポロイまたはオリャンタイタンボの鉄道駅へ移動し、PeruRailまたはInca Railの列車で1.5〜4時間かけてアグアスカリエンテスへ向かいます。この町へ通じる道路がないため、鉄道が基本の移動手段です。より安く時間のかかる方法としては、クスコなどの拠点からバスでイドロエレクトリカまで行き、そこから徒歩または短区間のローカル列車で町に入るルートもあります。アグアスカリエンテスからマチュピチュの入り口までは、シャトルバスで約25分です。",
+      "days": "多くの旅行者はアグアスカリエンテスに一泊するだけです。早朝のバスでマチュピチュへ上がり、数時間かけて遺跡を見学し、戻ってから温泉でひと息ついて、列車で帰路につくには十分な時間です。"
+    },
+    "es": {
+      "blurb": "Aguas Calientes, conocida oficialmente como Machu Picchu Pueblo, es un pequeño poblado andino encajado en un cañón fluvial justo debajo de la ciudadela de Machu Picchu, sin ninguna carretera que lo conecte con el resto del mundo. Sus angostas calles peatonales, sus aguas termales y sus puestos de mercado existen casi exclusivamente para atender a los viajeros que pasan por aquí camino a las ruinas.",
+      "getting": "La mayoría de los viajeros llega en avión a Cusco (CUZ) y luego se traslada por tierra hasta la estación de tren de Poroy u Ollantaytambo, para tomar el viaje en ferrocarril de entre 1.5 y 4 horas hasta Aguas Calientes con PeruRail o Inca Rail, ya que ningún camino llega directamente al pueblo. Una alternativa más lenta y económica consiste en tomar buses desde el centro regional hasta Hidroeléctrica, seguidos de una caminata o un breve trayecto en tren local hasta el pueblo; desde la propia Aguas Calientes, un bus de enlace cubre los últimos ~25 minutos de subida hasta la entrada a Machu Picchu.",
+      "days": "La mayoría de los visitantes pasa solo una noche en Aguas Calientes, tiempo suficiente para tomar un bus temprano hacia Machu Picchu, recorrer la ciudadela durante un par de horas y relajarse en las aguas termales antes de regresar en tren."
+    },
+    "zh": {
+      "blurb": "温泉镇（Aguas Calientes），官方名称为马丘比丘镇（Machu Picchu Pueblo），是一座镶嵌在河谷之中的安第斯山小镇，就坐落在马丘比丘古城遗址脚下，且没有公路与外界相通。镇上狭窄的步行街道、天然温泉和集市摊位，几乎都是为了服务那些途经此地、准备前往古城遗址的游客而存在的。",
+      "getting": "由于没有公路可以直达温泉镇，大多数游客会先飞抵库斯科（CUZ），再经陆路转往波罗伊（Poroy）或奥扬泰坦博（Ollantaytambo）火车站，搭乘秘鲁铁路（PeruRail）或印加铁路（Inca Rail）前往温泉镇，车程约1.5到4小时。另有一种更省钱但耗时更长的方式：从库斯科乘坐大巴前往水电站（Hidroelectrica），再步行或换乘当地小火车进城；而从温泉镇到马丘比丘入口，还需搭乘接驳巴士，车程约25分钟。",
+      "days": "大多数游客只在温泉镇停留一晚，足够一早搭乘巴士上山游览马丘比丘古城两个小时左右，再回镇上泡个温泉，然后乘火车返程。"
+    }
+  },
+  "Arequipa": {
+    "en": {
+      "blurb": "Arequipa is Peru's \"White City,\" built from pale volcanic sillar stone and framed by the perfect cone of El Misti volcano alongside its sister peaks Chachani and Pichu Pichu. Its colonial core and proximity to the Colca Canyon make it the natural base for exploring southern Peru's volcanic highlands.",
+      "getting": "Most travellers fly into Rodríguez Ballón International Airport (AQP), about 8km from downtown, with domestic connections from Lima and Cusco. Overland arrivals typically come by long-distance bus from Lima, Cusco or Puno, and a scenic tourist rail service also links Arequipa with Puno and Cusco for those not in a hurry.",
+      "days": "Plan on ~3 to 4 days to cover the city's colonial centre and monasteries, with an extra 2 days if adding a Colca Canyon excursion."
+    },
+    "ko": {
+      "blurb": "아레키파는 페루의 \"하얀 도시\"로, 연한 색조의 화산암 시야르(sillar) 돌로 지어졌으며, 완벽한 원뿔 모양의 엘 미스티 화산과 그 자매 봉우리인 차차니, 피추 피추가 도시를 감싸고 있다. 식민지 시대의 역사 지구와 콜카 협곡과의 근접성 덕분에 페루 남부 화산 고원 지대를 탐험하기에 더없이 좋은 거점 도시로 꼽힌다.",
+      "getting": "대부분의 여행자는 시내에서 약 8km 떨어진 로드리게스 바욘 국제공항(AQP)을 통해 입국하며, 리마와 쿠스코에서 국내선으로 연결된다. 육로로 이동할 경우 보통 리마, 쿠스코, 푸노에서 출발하는 장거리 버스를 이용하며, 시간 여유가 있는 여행자를 위해 아레키파와 푸노, 쿠스코를 잇는 경치 좋은 관광 열차도 운행된다.",
+      "days": "식민지 시대 구시가지와 수도원들을 둘러보는 데는 약 3~4일을 잡으면 되고, 콜카 협곡까지 다녀올 계획이라면 2일을 추가로 확보하는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "アレキパはペルーの「白い街」と呼ばれ、淡い色合いの火山岩シジャールで築かれた街並みが、エル・ミスティ火山の美しい円錐形と、その姉妹峰チャチャニ山やピチュ・ピチュ山に縁取られています。植民地時代の面影を残す旧市街とコルカ渓谷への近さから、ペルー南部の火山高地を巡る拠点として自然な選択肢となっています。",
+      "getting": "多くの旅行者は、市街地から約8kmに位置するロドリゲス・バリョン国際空港(AQP)を利用して到着し、リマやクスコからの国内線が運航しています。陸路の場合は、リマ、クスコ、プーノからの長距離バスが一般的ですが、急がない旅行者にはアレキパとプーノ、クスコを結ぶ風光明媚な観光列車もおすすめです。",
+      "days": "植民地時代の旧市街と修道院を巡るには、3〜4日程度を見ておくとよいでしょう。コルカ渓谷への小旅行を加える場合は、さらに2日ほど余裕を持たせてください。"
+    },
+    "es": {
+      "blurb": "Arequipa es la \"Ciudad Blanca\" del Perú, construida en sillar volcánico de tono claro y enmarcada por el cono perfecto del volcán El Misti junto a sus volcanes hermanos, Chachani y Pichu Pichu. Su casco colonial y su cercanía al Cañón del Colca la convierten en la base natural para explorar las tierras altas volcánicas del sur peruano.",
+      "getting": "La mayoría de los viajeros llega por el Aeropuerto Internacional Rodríguez Ballón (AQP), a unos 8 km del centro, con vuelos nacionales desde Lima y Cusco. Quienes llegan por tierra suelen hacerlo en bus de larga distancia desde Lima, Cusco o Puno, y también existe un pintoresco servicio de tren turístico que conecta Arequipa con Puno y Cusco para quienes no tienen prisa.",
+      "days": "Calcula entre 3 y 4 días para recorrer el centro colonial de la ciudad y sus monasterios, y suma 2 días más si piensas incluir una excursión al Cañón del Colca."
+    },
+    "zh": {
+      "blurb": "阿雷基帕是秘鲁的\"白色之城\"，整座城市由浅色火山凝灰岩（sillar）建造而成，背靠形状完美的米斯蒂火山（El Misti），两侧还有查查尼山（Chachani）和皮丘皮丘山（Pichu Pichu）相伴。这里殖民时期风貌浓郁的古城区，加上毗邻科尔卡峡谷（Colca Canyon）的地理优势，使其成为探索秘鲁南部火山高原的天然据点。",
+      "getting": "大多数游客会搭乘飞机抵达罗德里格斯·巴隆国际机场（AQP），该机场距市中心约8公里，并有往返利马和库斯科的国内航班。陆路抵达者通常乘坐长途大巴，从利马、库斯科或普诺出发；此外，也有风景优美的旅游列车连接阿雷基帕与普诺和库斯科，适合不赶时间的旅行者。",
+      "days": "游览殖民古城区和各大修道院，建议安排3到4天；如果还想前往科尔卡峡谷游览，则需额外增加2天行程。"
+    }
+  },
+  "Chivay": {
+    "en": {
+      "blurb": "Chivay is the gateway town to the Colca Canyon, one of the deepest canyons on Earth, perched at roughly 3,600 metres in the high Andes of southern Peru. It serves as the main base for visiting the Cruz del Cóndor viewpoint, the valley's hot springs, and the traditional villages of the Colca region.",
+      "getting": "Chivay has no airport or rail station of its own: travellers fly into Arequipa's Rodríguez Ballón International Airport (AQP) and continue by road. From Arequipa's bus terminal, public buses, colectivos or private transfers cover the ~160km route to Chivay in roughly ~3 to 4 hours, climbing over a high mountain pass along the way.",
+      "days": "Most travellers spend ~2 days in and around Chivay, enough time to see the Cruz del Cóndor at sunrise, soak in the local hot springs, and explore nearby villages, though multi-day treks into the canyon can extend a visit to 3 to 4 days."
+    },
+    "ko": {
+      "blurb": "치바이는 세계에서 가장 깊은 협곡 중 하나인 콜카 캐니언으로 들어가는 관문 도시로, 페루 남부 안데스 고산지대 해발 약 3,600미터에 자리하고 있다. 크루스 델 콘도르 전망대, 계곡의 온천, 그리고 콜카 지역의 전통 마을을 둘러보기 위한 주요 거점 역할을 한다.",
+      "getting": "치바이에는 자체 공항이나 기차역이 없어, 여행자들은 아레키파의 로드리게스 바욘 국제공항(AQP)으로 들어온 뒤 육로로 이동해야 한다. 아레키파 버스터미널에서 공용 버스나 콜렉티보, 또는 전용 차량을 이용하면 약 160km 거리를 3~4시간 정도에 주파하며, 가는 길에 높은 산악 고개를 넘게 된다.",
+      "days": "대부분의 여행자는 치바이와 그 주변에서 약 2일을 보내는데, 이 정도면 해돋이 무렵 크루스 델 콘도르를 보고, 현지 온천에서 몸을 담그고, 인근 마을을 둘러보기에 충분한 시간이다. 다만 협곡 깊숙이 들어가는 여러 날짜의 트레킹을 계획한다면 일정은 3~4일로 늘어날 수 있다."
+    },
+    "ja": {
+      "blurb": "チバイは、地球上で最も深い峡谷のひとつであるコルカ渓谷への玄関口として知られる町で、ペルー南部、アンデス山脈の標高約3,600メートルに位置しています。コンドル展望台「クルス・デル・コンドル」や渓谷の温泉、コルカ地方に点在する伝統的な村々を訪れる際の拠点として利用されています。",
+      "getting": "チバイには空港も鉄道駅もないため、まずはアレキパのロドリゲス・バリョン国際空港(AQP)まで飛行機で向かい、そこから陸路で移動することになります。アレキパのバスターミナルからは、路線バスやコレクティーボ(乗合バス)、プライベート送迎などを利用して約160kmの道のりを進み、高地の峠を越えながらおよそ3〜4時間でチバイに到着します。",
+      "days": "チバイ周辺の滞在は2日ほどが一般的で、日の出とともにクルス・デル・コンドルでコンドルを眺めたり、地元の温泉でくつろいだり、近隣の村々を散策したりするには十分な時間です。ただし、渓谷内を数日かけてトレッキングする場合は、滞在を3〜4日に延ばす旅行者もいます。"
+    },
+    "es": {
+      "blurb": "Chivay es la puerta de entrada al Cañón del Colca, uno de los cañones más profundos del planeta, ubicado a unos 3.600 metros de altura en los Andes del sur de Perú. La ciudad funciona como el principal punto de partida para visitar el mirador de la Cruz del Cóndor, las aguas termales del valle y los pueblos tradicionales de la región del Colca.",
+      "getting": "Chivay no cuenta con aeropuerto ni estación de tren propios: los viajeros llegan en avión al Aeropuerto Internacional Rodríguez Ballón de Arequipa (AQP) y continúan el viaje por carretera. Desde el terminal terrestre de Arequipa, buses públicos, colectivos o traslados privados cubren los cerca de 160 km hasta Chivay en aproximadamente 3 a 4 horas, atravesando un paso de montaña de gran altitud en el camino.",
+      "days": "La mayoría de los viajeros dedica unos 2 días a recorrer Chivay y sus alrededores, tiempo suficiente para ver la Cruz del Cóndor al amanecer, relajarse en las aguas termales locales y explorar los pueblos cercanos, aunque las caminatas de varios días dentro del cañón pueden extender la visita a 3 o 4 días."
+    },
+    "zh": {
+      "blurb": "奇瓦伊（Chivay）是通往科尔卡大峡谷（Colca Canyon）的门户小镇，这里是地球上最深的峡谷之一，坐落于秘鲁南部安第斯高原约3,600米的海拔处。它是前往孔多尔观景台（Cruz del Cóndor）、山谷温泉以及科尔卡地区传统村落游览的主要落脚点。",
+      "getting": "奇瓦伊本身没有机场或火车站：旅行者通常先飞抵阿雷基帕的罗德里格斯·巴隆国际机场（AQP），再转乘陆路前往。从阿雷基帕的汽车站出发，无论是公共巴士、小巴（colectivos）还是私人接送车，都需沿约160公里的路程行驶，翻越一处高山垭口，大约需要3到4小时才能抵达奇瓦伊。",
+      "days": "大多数旅行者会在奇瓦伊及周边停留约2天，足以在日出时分观赏孔多尔观景台的壮丽景色，泡一泡当地温泉，并探访附近的村落；不过，若想深入峡谷进行多日徒步，行程也可以延长至3到4天。"
+    }
+  },
+  "Cusco": {
+    "en": {
+      "blurb": "Cusco was once the capital of the Inca Empire, and its old stone streets still carry that history: colonial churches and mansions sit directly atop Inca foundations throughout the historic centre. Set high in the Andes, it's also the springboard most travellers use for Machu Picchu, the Sacred Valley and the wider Cusco region.",
+      "getting": "Most travellers fly into Cusco's Alejandro Velasco Astete International Airport (CUZ), a short ride from the historic centre, usually connecting through Lima. From Cusco, Machu Picchu is reached by rail: trains run from nearby Poroy station or from Ollantaytambo in the Sacred Valley, terminating at Aguas Calientes, with a bus or short walk up to the ruins from there.",
+      "days": "Allow ~3-4 days in Cusco: a day or two to acclimatise to the altitude and explore the city, plus a day trip or overnight for Machu Picchu itself."
+    },
+    "ko": {
+      "blurb": "쿠스코는 한때 잉카 제국의 수도였으며, 오래된 돌길 곳곳에 그 역사가 고스란히 남아 있습니다. 역사 지구 전역에서 식민지 시대의 교회와 저택들이 잉카 시대의 기초 위에 그대로 세워져 있는 모습을 볼 수 있습니다. 안데스 산맥 깊숙이 자리한 쿠스코는 마추픽추와 성스러운 계곡(Sacred Valley)을 비롯한 쿠스코 일대를 여행하는 이들에게 관문과도 같은 도시입니다.",
+      "getting": "대부분의 여행자는 보통 리마를 경유해 쿠스코의 알레한드로 벨라스코 아스테테 국제공항(CUZ)으로 입국합니다. 공항에서 역사 지구까지는 금방 이동할 수 있습니다. 쿠스코에서 마추픽추로 갈 때는 기차를 이용하는데, 인근 포로이(Poroy)역이나 성스러운 계곡에 위치한 오얀타이탐보(Ollantaytambo)역에서 출발해 아구아스 칼리엔테스(Aguas Calientes)까지 운행합니다. 이후 버스를 타거나 짧게 걸어 올라가면 유적지에 도착합니다.",
+      "days": "쿠스코에서는 3~4일 정도 일정을 잡는 것이 좋습니다. 고산 지대인 만큼 하루 이틀은 고도 적응과 함께 도시를 둘러보는 데 쓰고, 마추픽추는 당일치기나 1박 일정으로 다녀오시면 됩니다."
+    },
+    "ja": {
+      "blurb": "クスコはかつてインカ帝国の首都として栄えた街で、石畳の旧市街には今もその歴史が色濃く息づいています。歴史地区を歩けば、インカ時代の土台の上に植民地時代の教会や邸宅がそのまま建てられている光景があちこちで見られます。アンデス山脈の高地に位置するクスコは、マチュピチュやウルバンバ(聖なる谷)、クスコ周辺地域を巡る旅の拠点として、多くの旅行者に利用されています。",
+      "getting": "多くの旅行者は、リマ経由でクスコのアレハンド・ベラスコ・アステテ国際空港(CUZ)まで空路で向かいます。空港から歴史地区までは短時間で移動できます。クスコからマチュピチュへは鉄道でのアクセスとなり、近郊のポロイ駅、あるいはウルバンバ(聖なる谷)にあるオリャンタイタンボ駅から列車が運行、終点のアグアスカリエンテスからはバスまたは徒歩で遺跡まで登ります。",
+      "days": "クスコ滞在の目安は3~4日程度です。まず1~2日かけて高地順応を兼ねて街を散策し、残りの日程でマチュピチュへの日帰り、または1泊の旅程を組むのがおすすめです。"
+    },
+    "es": {
+      "blurb": "Cusco fue en su día la capital del Imperio Inca, y sus antiguas calles de piedra todavía llevan esa historia a cuestas: iglesias y mansiones coloniales se asientan directamente sobre cimientos incas en todo el centro histórico. Ubicada en lo alto de los Andes, es además el punto de partida que eligen la mayoría de los viajeros para llegar a Machu Picchu, el Valle Sagrado y el resto de la región de Cusco.",
+      "getting": "La mayoría de los viajeros llega a Cusco por el Aeropuerto Internacional Alejandro Velasco Astete (CUZ), a poca distancia del centro histórico, normalmente con conexión en Lima. Desde Cusco, se llega a Machu Picchu en tren: los trenes salen de la cercana estación de Poroy o de Ollantaytambo, en el Valle Sagrado, y terminan en Aguas Calientes, desde donde hay que tomar un autobús o caminar un breve trecho hasta las ruinas.",
+      "days": "Conviene reservar entre 3 y 4 días para Cusco: uno o dos para aclimatarse a la altura y recorrer la ciudad, más una excursión de un día o una noche fuera para visitar Machu Picchu."
+    },
+    "zh": {
+      "blurb": "库斯科曾是印加帝国的首都,古老的石砌街道至今仍诉说着这段历史:在整个历史中心,殖民时期的教堂和宅邸都直接建在印加时期的地基之上。库斯科坐落于安第斯山脉的高处,也是大多数旅行者前往马丘比丘、圣谷及库斯科周边地区的出发点。",
+      "getting": "大多数旅行者会飞抵库斯科的亚历杭德罗·贝拉斯科·阿斯泰特国际机场(CUZ),通常需在利马转机,机场距历史中心车程不远。从库斯科前往马丘比丘需乘坐火车:列车从附近的波罗伊站或圣谷的奥扬泰坦博出发,终点站为温泉镇(阿瓜斯卡连特斯),之后再搭乘巴士或步行一小段路即可抵达遗址。",
+      "days": "建议在库斯科停留约3至4天:用一两天适应高原气候并游览市区,再安排一天往返或留宿一晚专程游览马丘比丘。"
+    }
+  },
+  "Huacachina": {
+    "en": {
+      "blurb": "Huacachina is a tiny palm-fringed lagoon village marooned in towering sand dunes on Peru's southern coast, often billed as South America's only natural desert oasis. By day it draws sandboarders and dune-buggy thrill-seekers; by evening, the dunes glow gold and the pisco bars along the water fill with backpackers.",
+      "getting": "There is no airport or rail line in Huacachina: travellers fly into Lima's Jorge Chávez International Airport (LIM), then travel south on the Pan-American Highway to the regional hub of Ica, a journey of roughly 4 to 5 hours by bus or car. From Ica, it is a short taxi or mototaxi ride of about 10 to 15 minutes into the oasis itself.",
+      "days": "Most visitors base themselves here for ~1 to 2 days, enough time for a sunset dune-buggy and sandboarding tour plus a relaxed morning or two by the lagoon before moving on to Ica, Paracas or Nazca."
+    },
+    "ko": {
+      "blurb": "와카치나는 페루 남부 해안의 거대한 모래 언덕 사이에 자리 잡은, 야자수로 둘러싸인 자그마한 석호 마을로, 남아메리카에서 유일한 천연 사막 오아시스로 종종 소개된다. 낮에는 샌드보드와 듄버기를 즐기려는 모험가들이 몰려들고, 저녁이 되면 모래 언덕이 황금빛으로 물들며 호숫가의 피스코 바들은 배낭여행객들로 북적인다.",
+      "getting": "와카치나에는 공항도 철도도 없다. 여행자들은 먼저 리마의 호르헤 차베스 국제공항(LIM)으로 입국한 뒤, 팬아메리칸 하이웨이를 따라 남쪽으로 이동해 인근 거점 도시인 이카까지 가야 하며, 버스나 자동차로 약 4~5시간이 걸린다. 이카에서 오아시스까지는 택시나 모토택시로 10~15분 정도면 도착할 수 있다.",
+      "days": "대부분의 여행자는 이곳에서 약 1~2일 정도 머문다. 해 질 녘 듄버기와 샌드보드 투어를 즐기고, 하루나 이틀 아침은 여유롭게 석호 주변에서 시간을 보낸 뒤 이카, 파라카스, 혹은 나스카로 이동하기에 충분한 일정이다."
+    },
+    "ja": {
+      "blurb": "ワカチナは、ペルー南部の海岸沿いにそびえる巨大な砂丘の中にぽつんと浮かぶ、ヤシの木に縁取られた小さな湖畔の村だ。南米で唯一の天然砂漠オアシスとも称され、昼間はサンドボードやデューンバギーを楽しむ冒険好きの旅行者で賑わう。夕暮れになると砂丘が黄金色に輝き、湖畔に並ぶピスコバーはバックパッカーたちで埋め尽くされる。",
+      "getting": "ワカチナには空港も鉄道もない。旅行者はまずリマのホルヘ・チャベス国際空港(LIM)に到着し、そこからパンアメリカンハイウェイを南下して地方都市イカを目指す。バスや車でおよそ4〜5時間の道のりだ。イカからはタクシーかモトタクシーで10〜15分ほど走れば、オアシスの中心部に到着する。",
+      "days": "多くの旅行者はここに1〜2日ほど滞在する。夕暮れ時のデューンバギー&サンドボードツアーを楽しみ、湖畔でのんびり朝を過ごすには十分な時間だ。その後、イカやパラカス、ナスカへと旅を続ける人が多い。"
+    },
+    "es": {
+      "blurb": "Huacachina es un diminuto pueblo-laguna bordeado de palmeras, aislado entre imponentes dunas de arena en la costa sur del Perú, a menudo promocionado como el único oasis natural de Sudamérica. De día atrae a sandboarders y a quienes buscan emociones fuertes en los buggies de arena; al caer la tarde, las dunas se tiñen de dorado y los bares de pisco junto al agua se llenan de mochileros.",
+      "getting": "Huacachina no cuenta con aeropuerto ni línea de ferrocarril: los viajeros llegan en avión al Aeropuerto Internacional Jorge Chávez de Lima (LIM) y luego se dirigen hacia el sur por la Carretera Panamericana hasta Ica, el centro regional más cercano, en un trayecto de aproximadamente 4 a 5 horas en bus o automóvil. Desde Ica, basta un corto viaje en taxi o mototaxi de unos 10 a 15 minutos para llegar al oasis.",
+      "days": "La mayoría de los visitantes se quedan aquí entre 1 y 2 días, tiempo suficiente para hacer un tour en buggy de arena y sandboarding al atardecer, además de disfrutar de una o dos mañanas tranquilas junto a la laguna, antes de continuar su viaje hacia Ica, Paracas o Nazca."
+    },
+    "zh": {
+      "blurb": "瓦卡奇纳是秘鲁南部海岸一座被高耸沙丘环抱的棕榈环绕小潟湖村落,常被誉为南美洲唯一的天然沙漠绿洲。白天,这里吸引着众多滑沙爱好者和沙丘越野车探险者;入夜后,沙丘披上金色余晖,湖畔的皮斯科酒吧也挤满了背包客。",
+      "getting": "瓦卡奇纳本身没有机场或铁路:游客通常先飞抵利马豪尔赫·查韦斯国际机场(LIM),再沿泛美公路南下,前往区域枢纽城市伊卡,车程约4到5小时(大巴或自驾均可)。从伊卡出发,再搭乘出租车或摩的,约10到15分钟即可抵达这片绿洲。",
+      "days": "大多数游客会在这里停留1到2天左右,足够体验一次日落沙丘越野车兼滑沙之旅,再悠闲地在湖边度过一两个清晨,然后继续前往伊卡、帕拉卡斯或纳斯卡等地。"
+    }
+  },
+  "Huaraz": {
+    "en": {
+      "blurb": "Huaraz is the scruffy, high-altitude capital of Peru's Cordillera Blanca, a base camp town where glacier-streaked peaks over 6,000 metres rise directly behind the rooftops. It exists almost entirely to serve trekkers and climbers heading into Huascarán National Park, home to turquoise lakes, ice routes and some of the highest tropical mountains on Earth.",
+      "getting": "Most travellers reach Huaraz by overnight bus from Lima, a journey of roughly 7-9 hours on highway routes run by established long-distance carriers. A small local airport near Anta handles limited flights from Lima, but the bus from the capital remains the standard, reliable route.",
+      "days": "Plan on at least 2-3 days before any serious trekking, since Huaraz sits at around 3,050 metres and most visitors need that time simply to acclimatise to the altitude."
+    },
+    "ko": {
+      "blurb": "우아라스는 페루 코르디예라 블랑카의 투박한 고산 도시로, 해발 6,000미터가 넘는 빙하 봉우리들이 지붕 바로 뒤로 솟아 있는 베이스캠프 타운이다. 이 도시는 거의 전적으로 와스카란 국립공원으로 향하는 트레커와 등반가들을 위해 존재하며, 이 공원에는 터콰이즈빛 호수와 빙벽 등반 루트, 그리고 지구상에서 가장 높은 열대 산들이 자리하고 있다.",
+      "getting": "대부분의 여행자는 리마에서 출발하는 야간 버스로 우아라스에 도착하며, 믿을 만한 장거리 버스 회사들이 운행하는 고속도로 노선으로 약 7~9시간이 걸린다. 안타 인근에 작은 지방 공항이 있어 리마에서 오는 소수의 항공편을 운항하지만, 수도에서 출발하는 버스가 여전히 가장 표준적이고 확실한 이동 수단이다.",
+      "days": "본격적인 트레킹에 나서기 전에 최소 2~3일은 일정에 넣어두는 것이 좋다. 우아라스가 해발 약 3,050미터에 위치해 있어, 대부분의 방문객은 고도에 적응하는 데만 그 정도 시간이 필요하기 때문이다."
+    },
+    "ja": {
+      "blurb": "ワラスは、ペルー・コルディリェラ・ブランカにある、雑然とした高地の中心都市だ。標高6,000メートルを超える氷河まとう山々が、街の屋根の真後ろにそびえ立つ、登山・トレッキングのベースキャンプ的な町である。その存在意義はほぼ、ワスカラン国立公園を目指すトレッカーやクライマーを支えることに尽きる。公園内にはターコイズブルーの湖やアイスクライミングのルートが広がり、地球上で最も標高の高い熱帯山脈の一部がここにある。",
+      "getting": "ワラスへは、リマからの夜行バスで向かうのが一般的だ。大手長距離バス会社が運行する幹線道路経由で、所要時間はおよそ7〜9時間。アンタ近郊には小さな地方空港があり、リマからの便も一部運航しているが、本数は限られており、首都からのバス移動が今も標準的で信頼できる手段となっている。",
+      "days": "本格的なトレッキングに出発する前に、最低でも2〜3日は余裕を見ておきたい。ワラスは標高約3,050メートルに位置しており、ほとんどの旅行者はこの期間を高度順応だけに費やす必要があるからだ。"
+    },
+    "es": {
+      "blurb": "Huaraz es la desaliñada capital de altura de la Cordillera Blanca peruana, un pueblo campamento base donde picos de más de 6.000 metros surcados por glaciares se alzan justo detrás de los tejados. Su razón de ser es casi exclusivamente servir a excursionistas y andinistas que se adentran en el Parque Nacional Huascarán, hogar de lagunas turquesas, rutas de hielo y algunas de las montañas tropicales más altas del planeta.",
+      "getting": "La mayoría de los viajeros llega a Huaraz en bus nocturno desde Lima, un trayecto de entre 7 y 9 horas por carretera a cargo de empresas de transporte de larga distancia ya consolidadas. Hay un pequeño aeropuerto local cerca de Anta con vuelos limitados desde Lima, pero el bus desde la capital sigue siendo la opción habitual y más confiable.",
+      "days": "Conviene reservar al menos 2 o 3 días antes de emprender cualquier trekking serio, ya que Huaraz se encuentra a unos 3.050 metros de altitud y la mayoría de los visitantes necesita ese tiempo simplemente para aclimatarse."
+    },
+    "zh": {
+      "blurb": "瓦拉斯是秘鲁布兰卡山脉(Cordillera Blanca)那座略显粗犷的高原之都,也是通往各条徒步与登山路线的大本营。这座小城坐落在一片壮丽的山景之下——身后那些覆着冰川的山峰海拔动辄超过6000米,几乎直插天际。瓦拉斯的存在几乎完全是为了服务那些前往瓦斯卡兰国家公园(Huascarán National Park)的徒步者和登山者,那里有碧绿如松石的高山湖泊、险峻的冰壁路线,还有地球上海拔最高的一批热带山峰。",
+      "getting": "大多数旅行者都是从利马乘坐夜班长途大巴抵达瓦拉斯,车程大约7到9小时,沿途由几家成熟可靠的长途客运公司运营。安塔(Anta)附近有一座小型机场,提供少量往返利马的航班,但从首都坐大巴依然是最主流、最稳妥的方式。",
+      "days": "在展开任何高强度徒步之前,建议至少预留2到3天的时间。瓦拉斯海拔约3050米,大多数游客都需要这段时间来适应高原反应。"
+    }
+  },
+  "Iquitos": {
+    "en": {
+      "blurb": "Iquitos is the largest city in the world with no road connection to anywhere else, a sprawling Amazon river port where motorcycle rickshaws outnumber cars and the jungle presses right up against colonial-era mansions. Its isolation is the point: this is where travellers come to trade pavement for river water as the main highway, launching into the rainforest and its wildlife, lodges and indigenous communities from the riverside markets of Belen.",
+      "getting": "Nearly all visitors fly into Iquitos's Coronel FAP Francisco Secada Vignetta International Airport (IQT), with regular domestic connections from Lima and other Peruvian cities; there is no road into the city, so flying is by far the most practical option. The alternative is a slow boat journey along the Amazon, which can take several days depending on the departure point.",
+      "days": "Plan on ~3-4 days to cover the city itself and a nearby jungle lodge excursion, or longer if an Amazon river cruise is part of the trip."
+    },
+    "ko": {
+      "blurb": "이키토스는 세계에서 도로로 다른 어떤 곳과도 연결되지 않은 가장 큰 도시로, 오토바이 릭샤가 자동차보다 많고 정글이 식민지 시대 저택들 바로 앞까지 밀려드는 거대한 아마존 강변 항구 도시다. 이러한 고립이야말로 이곳의 핵심이다. 여행자들은 바로 이곳에서 포장도로 대신 강물을 주요 도로 삼아, 벨렌의 강변 시장을 출발점으로 삼아 열대우림과 그 속의 야생동물, 롯지, 원주민 공동체를 향해 떠난다.",
+      "getting": "거의 모든 방문객은 이키토스의 코로넬 FAP 프란시스코 세카다 비네타 국제공항(IQT)을 이용해 비행기로 도착하며, 리마를 비롯한 페루 주요 도시에서 정기 국내선이 운항된다. 이 도시로 통하는 도로가 없기 때문에 비행기가 단연 가장 현실적인 선택지다. 대안으로는 아마존강을 따라가는 느린 배 여행이 있는데, 출발 지점에 따라 며칠씩 걸릴 수 있다.",
+      "days": "도시 자체와 인근 정글 롯지 당일/숙박 여행을 둘러보는 데는 대략 3~4일을 계획하면 되고, 아마존강 크루즈가 일정에 포함된다면 그보다 더 길게 잡아야 한다."
+    },
+    "ja": {
+      "blurb": "イキトスは、他のどことも道路でつながっていない都市としては世界最大級の規模を誇る、アマゾン河畔に広がる港町だ。街中ではバイクタクシーが車の数を上回り、ジャングルが植民地時代の邸宅のすぐ際まで迫ってくる。この孤立こそがイキトスの魅力であり、旅行者たちは舗装道路の代わりに川の水を「本道」として、ベレンの水上市場から熱帯雨林、野生動物、ロッジ、先住民コミュニティへと旅立っていく。",
+      "getting": "訪問者のほとんどは、コロネルFAPフランシスコ・セカダ・ヴィグネッタ国際空港(IQT)を利用して空路でイキトスに入る。リマをはじめとするペルー国内各都市からの定期便が運航されており、市内へ通じる道路は存在しないため、飛行機が圧倒的に現実的な移動手段となる。もう一つの選択肢はアマゾン川を遡る/下る船旅で、出発地によっては数日を要することもある。",
+      "days": "市内観光と近郊のジャングルロッジへの小旅行を合わせて、目安は3~4日ほど。アマゾン川クルーズを旅程に組み込む場合は、さらに日数が必要になる。"
+    },
+    "es": {
+      "blurb": "Iquitos es la ciudad más grande del mundo sin conexión por carretera con ningún otro lugar, un extenso puerto fluvial amazónico donde los mototaxis superan en número a los automóviles y la selva se asoma hasta las mismísimas mansiones de la época colonial. Su aislamiento es precisamente lo que la define: aquí es donde los viajeros cambian el asfalto por el agua del río como vía principal, partiendo hacia la selva y su fauna, sus albergues y sus comunidades indígenas desde los mercados ribereños de Belén.",
+      "getting": "Casi todos los visitantes llegan a Iquitos por vía aérea, a través del Aeropuerto Internacional Coronel FAP Francisco Secada Vignetta (IQT), que cuenta con conexiones nacionales regulares desde Lima y otras ciudades peruanas. No existe ninguna carretera que lleve a la ciudad, por lo que volar es, con diferencia, la opción más práctica. La alternativa es un lento viaje en barco por el Amazonas, que puede durar varios días según el punto de partida.",
+      "days": "Calcula entre 3 y 4 días para recorrer la ciudad y hacer una excursión a algún albergue cercano en la selva, o más tiempo si un crucero por el río Amazonas forma parte del viaje."
+    },
+    "zh": {
+      "blurb": "伊基托斯是全世界最大的\"陆路不通\"城市——没有任何公路与外界相连。这里是亚马逊河畔一座蔓延开来的港口城市，摩托三轮车比汽车还多，丛林几乎紧贴着殖民时期的老宅院。这种与世隔绝正是它的魅力所在：在这里，公路让位于河流，成为真正意义上的\"主干道\"。游客从贝伦（Belen）的滨水市场出发，深入雨林，探访野生动物、丛林旅舍和原住民社区。",
+      "getting": "几乎所有游客都是搭乘飞机抵达伊基托斯的弗朗西斯科·塞卡达·维涅塔上校国际机场（IQT），该机场与利马及秘鲁其他城市之间有稳定的国内航班。由于没有公路通往市区，乘飞机无疑是最实际的方式。另一种选择是沿亚马逊河乘船缓行，具体耗时视出发地而定，往往需要数天时间。",
+      "days": "建议安排约3-4天时间游览市区并前往附近的丛林旅舍，如果行程中包含亚马逊河游船，则需要更长时间。"
+    }
+  },
+  "Lima": {
+    "en": {
+      "blurb": "Lima stacks sixteenth-century Spanish colonial churches and balconied mansions against a modern skyline perched on cliffs above the Pacific, a contrast sharpened by the fog that blankets the coast much of the year. The city has become South America's reigning food capital, its ceviche counters and tasting-menu restaurants drawing travellers who once treated Lima as a mere layover before Cusco or Machu Picchu.",
+      "getting": "Travellers arrive via Jorge Chávez International Airport (LIM), Peru's main gateway, located in Callao roughly 11km northwest of the historic centre. From there, official taxis, ride-hailing apps, or pre-booked shuttles are the reliable way into the city, since the metro does not yet reach the airport.",
+      "days": "Plan on ~2 to 3 days, enough to cover the historic centre, a coastal neighbourhood like Miraflores or Barranco, and a proper sit-down meal at one of the city's acclaimed restaurants."
+    },
+    "ko": {
+      "blurb": "리마는 태평양이 내려다보이는 절벽 위에 자리한 현대적인 스카이라인과 16세기 스페인 식민지 시대의 성당, 발코니가 달린 저택들을 나란히 품고 있으며, 한 해의 상당 기간 해안을 뒤덮는 안개가 이 대비를 더욱 도드라지게 만든다. 이 도시는 어느새 남미 미식의 수도로 자리 잡았고, 세비체 가게와 테이스팅 메뉴를 선보이는 레스토랑들은 한때 쿠스코나 마추픽추로 가기 전 잠시 거쳐 가는 곳 정도로만 여겨졌던 리마를 찾는 여행객들을 끌어모으고 있다.",
+      "getting": "여행객들은 페루의 주요 관문인 호르헤차베스 국제공항(LIM)을 통해 도착하며, 공항은 역사 지구에서 북서쪽으로 약 11km 떨어진 카야오에 위치해 있다. 아직 지하철이 공항까지 연결되지 않기 때문에, 공식 택시나 차량 호출 앱, 또는 미리 예약한 셔틀을 이용하는 것이 시내로 들어가는 가장 믿을 만한 방법이다.",
+      "days": "약 2~3일 정도를 계획하면 역사 지구와 미라플로레스나 바랑코 같은 해안가 동네를 둘러보고, 리마에서 손꼽히는 레스토랑 한 곳에서 제대로 된 식사를 즐기기에 충분하다."
+    },
+    "ja": {
+      "blurb": "リマの街には、16世紀のスペイン植民地時代の教会やバルコニー付きの邸宅が、太平洋を見下ろす崖の上にそびえる近代的なスカイラインと隣り合って残っている。この対比は、一年の大半を通じて海岸を覆う霧によって、いっそう際立って見える。かつては多くの旅行者がクスコやマチュピチュへ向かう前の単なる経由地としてしか見ていなかったリマだが、今や南米随一の美食都市として存在感を放っている。セビーチェの名店からテイスティングメニューを掲げるレストランまで、料理目当てに訪れる旅行者が後を絶たない。",
+      "getting": "多くの旅行者はペルー最大の玄関口、ホルヘ・チャベス国際空港(LIM)を利用して入国する。空港はカヤオ地区にあり、歴史地区から北西へ約11kmの場所に位置する。地下鉄はまだ空港まで通っていないため、公式タクシー、配車アプリ、または事前予約したシャトルバスを利用するのが市内への確実なアクセス手段となる。",
+      "days": "滞在日数の目安は2〜3日。歴史地区の観光に加え、ミラフローレスやバランコといった海沿いのエリアを散策し、評判の高いレストランでじっくり食事を楽しむ時間も確保できる。"
+    },
+    "es": {
+      "blurb": "Lima combina iglesias coloniales españolas del siglo XVI y mansiones de balcones tallados con un perfil urbano moderno que se asoma a los acantilados sobre el Pacífico, un contraste que la neblina, omnipresente en la costa buena parte del año, acentúa aún más. La ciudad se ha consolidado como la capital gastronómica de Sudamérica: sus cevicherías y restaurantes de menú degustación atraen hoy a viajeros que antes veían Lima como una simple escala antes de llegar a Cusco o Machu Picchu.",
+      "getting": "Los viajeros llegan a través del Aeropuerto Internacional Jorge Chávez (LIM), la principal puerta de entrada a Perú, ubicado en el Callao, a unos 11 km al noroeste del centro histórico. Desde allí, los taxis oficiales, las aplicaciones de transporte y los traslados reservados con antelación son la forma más confiable de llegar a la ciudad, ya que el metro todavía no cubre el trayecto hasta el aeropuerto.",
+      "days": "Conviene planear entre 2 y 3 días, tiempo suficiente para recorrer el centro histórico, explorar un barrio costero como Miraflores o Barranco, y disfrutar con calma de una comida en uno de los restaurantes más celebrados de la ciudad."
+    },
+    "zh": {
+      "blurb": "利马将十六世纪的西班牙殖民教堂与带阳台的宅邸,叠映在俯瞰太平洋悬崖之上的现代天际线之中,而常年笼罩海岸的雾气更让这种反差愈发鲜明。如今,这座城市已跃升为南美洲的美食之都,遍布大街小巷的酸橘汁腌鱼摊和精致的品鉴餐厅,吸引着越来越多原本只把利马当作前往库斯科或马丘比丘中转站的旅行者专程前来。",
+      "getting": "旅客通常经由豪尔赫·查韦斯国际机场(LIM)抵达利马,这是秘鲁最主要的门户机场,位于卡亚俄,距历史中心约11公里。由于地铁尚未通达机场,搭乘正规出租车、网约车或预订好的接驳班车,是进城最可靠的方式。",
+      "days": "建议安排约2到3天的行程,足以游览历史中心、米拉弗洛雷斯或巴兰科等滨海街区,并在当地备受赞誉的餐厅里好好享用一顿正餐。"
+    }
+  },
+  "Nazca": {
+    "en": {
+      "blurb": "Nazca is a small desert city in southern Peru, famous as the gateway to the Nazca Lines, the vast geoglyphs etched into the arid pampa that are best seen from the air. There is no passenger rail here; the town's own small airfield exists only for scenic flights over the Lines, not for commercial arrivals.",
+      "getting": "Most travellers reach Nazca overland by long-distance bus from Lima, a journey of roughly 6 to 8 hours along the Pan-American Highway; buses also run from Ica, Arequipa and Cusco. There is no commercial airport serving Nazca, so arriving by road from one of these regional hubs is the standard, reliable route.",
+      "days": "Plan on ~1 to 2 days: one full day covers the Nazca Lines overflight (or viewing tower) and a look around town, with an extra day if you want to add nearby sites like the Chauchilla cemetery or Cantalloc aqueducts."
+    },
+    "ko": {
+      "blurb": "나스카는 페루 남부에 위치한 작은 사막 도시로, 건조한 평원에 새겨진 거대한 지상화인 나스카 라인으로 가는 관문으로 유명합니다. 이 지상화는 하늘에서 내려다볼 때 가장 잘 보입니다. 이곳에는 여객 철도가 없으며, 마을에 있는 작은 활주로는 나스카 라인을 둘러보는 유람 비행 전용일 뿐, 일반 항공편이 취항하는 공항은 아닙니다.",
+      "getting": "대부분의 여행자는 리마에서 출발하는 장거리 버스를 타고 육로로 나스카에 도착하며, 팬아메리칸 하이웨이를 따라 약 6~8시간이 소요됩니다. 이카, 아레키파, 쿠스코에서 출발하는 버스편도 있습니다. 나스카에는 상업 공항이 없기 때문에, 이러한 주변 거점 도시에서 육로로 이동하는 것이 가장 표준적이고 확실한 방법입니다.",
+      "days": "1~2일 정도를 계획하시면 됩니다. 하루 종일 나스카 라인 유람 비행(또는 전망탑 관람)과 시내 구경을 하기에 충분하며, 차우치야 묘지나 칸탈록 수로 같은 인근 명소를 추가로 둘러보고 싶다면 하루를 더 잡으시면 좋습니다."
+    },
+    "ja": {
+      "blurb": "ナスカは、ペルー南部にある小さな砂漠の町で、乾燥したパンパ地帯に刻まれた広大な地上絵「ナスカの地上絵」への玄関口として知られています。この地上絵は上空から眺めてこそ真価を発揮します。町には旅客鉄道はなく、ナスカ自体の小さな飛行場も、商業便の発着用ではなく、地上絵を見るための遊覧飛行専用となっています。",
+      "getting": "ナスカへは、リマから長距離バスで陸路を行くのが一般的で、パンアメリカンハイウェイを経由しておよそ6~8時間の道のりです。イカ、アレキパ、クスコからもバス便があります。ナスカには商業空港がないため、これらの周辺都市から陸路で向かうのが定番かつ確実なルートです。",
+      "days": "目安は1~2日です。1日あれば、ナスカの地上絵の遊覧飛行(または展望タワーからの見学)と町歩きを楽しめます。もう1日プラスすれば、近郊のチャウチージャ墓地やカンタジョック水道橋といった見どころも訪れることができます。"
+    },
+    "es": {
+      "blurb": "Nazca es una pequeña ciudad desértica en el sur de Perú, conocida como la puerta de entrada a las Líneas de Nazca, los enormes geoglifos trazados en la árida pampa que se aprecian mejor desde el aire. Aquí no hay servicio de tren de pasajeros; el pequeño aeródromo de la ciudad existe únicamente para los vuelos panorámicos sobre las Líneas, no para vuelos comerciales.",
+      "getting": "La mayoría de los viajeros llega a Nazca por tierra, en autobús de larga distancia desde Lima, un trayecto de entre 6 y 8 horas por la Carretera Panamericana; también hay buses desde Ica, Arequipa y Cusco. Como Nazca no cuenta con aeropuerto comercial, llegar por carretera desde alguno de estos centros regionales es la opción habitual y más confiable.",
+      "days": "Calcula entre 1 y 2 días: con uno completo te alcanza para el sobrevuelo de las Líneas de Nazca (o la visita al mirador) y para recorrer el pueblo, y puedes sumar un día extra si quieres conocer sitios cercanos como el cementerio de Chauchilla o los acueductos de Cantalloc."
+    },
+    "zh": {
+      "blurb": "纳斯卡是秘鲁南部的一座沙漠小城，因纳斯卡线条而闻名于世——这些刻画在干旱荒原上的巨型地画，只有从空中俯瞰才能看清全貌。这里没有客运铁路；镇上那座小型机场也只用于观赏线条的观光飞行，并不办理商业航班起降。",
+      "getting": "大多数游客是乘坐长途汽车从利马陆路前往纳斯卡，沿泛美公路行驶大约6到8小时；此外，从伊卡、阿雷基帕和库斯科也都有班车可达。由于纳斯卡没有商业机场，从这些周边枢纽城市乘车前往是标准且可靠的出行方式。",
+      "days": "建议安排1到2天：用一整天乘机俯瞰纳斯卡线条（或登上观景塔眺望），再顺便在镇上逛逛；如果还想去附近的乔奇亚墓地或坎塔约克引水渠等景点，可以多留一天。"
+    }
+  },
+  "Ollantaytambo": {
+    "en": {
+      "blurb": "Ollantaytambo is a living Inca town where terraced fortress walls rise directly above streets still laid out on their original fifteenth-century grid. Unlike most archaeological sites in Peru, its canals, trapezoidal doorways and stone foundations remain in daily use by residents, making it as much a working village as a monument.",
+      "getting": "Most travellers arrive overland from Cusco by taxi, private transfer or bus, a journey of roughly 1.5 to 2 hours through the Sacred Valley. Ollantaytambo is also the principal rail departure point for trains to Machu Picchu, with Cusco's Alejandro Velasco Astete International Airport (CUZ) serving as the nearest air gateway.",
+      "days": "Plan on ~1 day to explore the fortress ruins and old town on foot, or ~2 days if combining it with a Sacred Valley stopover before continuing on to Machu Picchu."
+    },
+    "ko": {
+      "blurb": "오얀타이탐보는 살아 숨 쉬는 잉카 마을로, 15세기 당시 그대로의 격자형 거리 위로 계단식 요새 벽이 그대로 솟아 있다. 페루의 다른 대부분의 유적지와 달리 이곳의 수로와 사다리꼴 출입구, 석조 기초는 지금도 주민들이 일상적으로 사용하고 있어, 단순한 유적지라기보다는 지금도 살아 움직이는 마을에 가깝다.",
+      "getting": "대부분의 여행자는 쿠스코에서 택시나 프라이빗 транс퍼, 또는 버스를 이용해 육로로 이동하며, 신성한 계곡(Sacred Valley)을 가로질러 약 1시간 30분에서 2시간 정도 소요된다. 오얀타이탐보는 마추픽추행 열차가 출발하는 주요 기차역이 있는 곳이기도 하며, 가장 가까운 공항은 쿠스코의 알레한드로 벨라스코 아스테테 국제공항(CUZ)이다.",
+      "days": "요새 유적과 구시가지를 도보로 둘러보는 데는 약 1일이면 충분하며, 신성한 계곡을 함께 둘러본 뒤 마추픽추로 이동할 계획이라면 약 2일 정도 잡는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "オリャンタイタンボは、今もなお人々の暮らしが息づくインカの町だ。段々畑状の要塞の石壁がそびえ立つその足元には、15世紀当時のままの街区割りに沿って通りが延びている。ペルーの多くの遺跡とは異なり、ここでは水路や台形の戸口、石造りの基礎部分が今も住民の生活の中で現役で使われており、単なる遺跡というより「生きた村」そのものと言える。",
+      "getting": "多くの旅行者は、クスコからタクシーや専用送迎車、バスを利用して陸路で訪れる。聖なる谷を抜けるこのルートはおよそ1.5~2時間の道のりだ。オリャンタイタンボはまた、マチュピチュ行き列車の主要な発着駅でもあり、最寄りの空の玄関口はクスコのアレハンドロ・ベラスコ・アステテ国際空港(CUZ)となる。",
+      "days": "要塞遺跡と旧市街を徒歩で巡るなら1日ほどを見ておきたい。マチュピチュへ向かう前に聖なる谷での滞在と組み合わせる場合は、2日ほど確保しておくとよいだろう。"
+    },
+    "es": {
+      "blurb": "Ollantaytambo es un pueblo inca vivo, donde las murallas escalonadas de su fortaleza se alzan justo encima de calles que conservan el mismo trazado original del siglo XV. A diferencia de la mayoría de los sitios arqueológicos del Perú, sus canales, portales trapezoidales y cimientos de piedra siguen formando parte de la vida cotidiana de sus habitantes, por lo que es tanto un pueblo en funcionamiento como un monumento histórico.",
+      "getting": "La mayoría de los viajeros llega por tierra desde Cusco en taxi, transporte privado o autobús, un trayecto de aproximadamente 1.5 a 2 horas atravesando el Valle Sagrado. Ollantaytambo es también el principal punto de salida de los trenes hacia Machu Picchu, y el Aeropuerto Internacional Alejandro Velasco Astete de Cusco (CUZ) es la puerta de entrada aérea más cercana.",
+      "days": "Calcula alrededor de 1 día para recorrer a pie las ruinas de la fortaleza y el casco antiguo, o unos 2 días si lo combinas con una parada en el Valle Sagrado antes de continuar hacia Machu Picchu."
+    },
+    "zh": {
+      "blurb": "奥扬泰坦博是一座仍充满生机的印加古城,层层梯田式的要塞城墙直接矗立在至今仍沿用十五世纪原始格局的街道之上。与秘鲁大多数考古遗址不同,这里的水渠、梯形门洞和石砌地基仍被居民日常使用,使其既是一处古迹,也是一座活生生的村落。",
+      "getting": "大多数游客从库斯科经陆路前往,可选择出租车、私人接送或巴士,穿越圣谷大约需要1.5到2小时。奥扬泰坦博同时也是前往马丘比丘列车的主要始发站,距离最近的空中门户是库斯科的亚历杭德罗·贝拉斯科·阿斯泰特国际机场(CUZ)。",
+      "days": "建议安排约1天时间徒步游览要塞遗址和古镇,如果打算在前往马丘比丘之前顺道游览圣谷,则可安排约2天。"
+    }
+  },
+  "Pisac": {
+    "en": {
+      "blurb": "Pisac sits where the Sacred Valley opens below a ridge of Inca terraces, temples and watchtowers, with a hilltop citadel that locals and guides often compare to a smaller, quieter Machu Picchu. Below the ruins, the town itself draws visitors for one of the valley's best known markets, a long-running mix of handicrafts and produce stalls that fills the plaza and spills into side streets, especially on market days.",
+      "getting": "There is no airport or rail line directly serving Pisac: travellers fly into Cusco's Alejandro Velasco Astete International Airport (CUZ) and then continue overland, typically by shared colectivo, bus or taxi along the paved road into the Sacred Valley. The road journey from Cusco takes roughly 45 minutes to an hour, depending on traffic and the type of transport chosen.",
+      "days": "Most travellers allow half a day to a full day for Pisac, enough time to explore the hilltop ruins and browse the market before continuing on through the Sacred Valley."
+    },
+    "ko": {
+      "blurb": "피삭은 성스러운 계곡이 펼쳐지는 지점, 잉카 시대의 계단식 밭과 신전, 망루가 늘어선 능선 아래에 자리하고 있다. 언덕 위에 자리한 요새 유적은 현지인들과 가이드들 사이에서 흔히 \"더 작고 조용한 마추픽추\"로 비유되곤 한다. 유적 아래로 펼쳐진 마을 자체도 많은 방문객을 끌어들이는데, 바로 계곡에서 손꼽히는 유명한 시장 때문이다. 오랜 전통을 자랑하는 이 시장은 수공예품과 농산물 좌판이 어우러져 광장을 가득 채우고 골목길까지 흘러넘치며, 특히 장이 서는 날이면 그 활기가 더욱 두드러진다.",
+      "getting": "피삭에는 공항이나 철도가 직접 연결되어 있지 않다. 여행자들은 보통 쿠스코의 알레한드로 벨라스코 아스테테 국제공항(CUZ)으로 입국한 뒤, 육로를 이용해 이동한다. 콜렉티보(합승 승합차), 버스, 택시 등을 이용해 포장도로를 따라 성스러운 계곡으로 들어가는 것이 일반적이다. 쿠스코에서 피삭까지는 교통 상황과 이용하는 교통수단에 따라 대략 45분에서 1시간 정도 소요된다.",
+      "days": "대부분의 여행자는 피삭을 둘러보는 데 반나절에서 하루 정도를 할애한다. 언덕 위 유적을 탐방하고 시장을 구경한 뒤, 성스러운 계곡의 다음 목적지로 이동하기에 충분한 시간이다."
+    },
+    "ja": {
+      "blurb": "ピサックは、聖なる谷が開ける場所に位置し、その背後にはインカ時代の段々畑や神殿、見張り塔が連なる尾根がそびえています。丘の上に築かれた要塞都市は、地元の人々やガイドから「小さく静かなマチュピチュ」とよく例えられます。遺跡の麓に広がる町自体も、谷で最もよく知られる市場のひとつとして多くの旅行者を惹きつけています。手工芸品と農産物の屋台が長年にわたり軒を連ね、広場を埋め尽くし、市場の開催日にはさらに周辺の路地にまであふれ出します。",
+      "getting": "ピサックには空港も鉄道路線もないため、旅行者はまずクスコのアレハンドロ・ベラスコ・アステテ国際空港(CUZ)まで飛行機で向かい、そこから陸路で移動することになります。一般的には乗合バンの「コレクティーボ」やバス、タクシーなどを利用し、舗装された道路を通って聖なる谷へと向かいます。クスコからの道のりは、交通状況や利用する交通手段によって異なりますが、おおよそ45分から1時間ほどです。",
+      "days": "ピサックの観光には、半日から丸1日をあてる旅行者がほとんどです。この時間があれば、丘の上の遺跡をじっくり巡り、市場をひやかしてから、聖なる谷の旅を続けるのに十分でしょう。"
+    },
+    "es": {
+      "blurb": "Pisac se asienta en el punto donde el Valle Sagrado se abre bajo una cresta de terrazas incas, templos y torres de vigilancia, coronada por una ciudadela en lo alto de la colina que lugareños y guías suelen comparar con una versión más pequeña y tranquila de Machu Picchu. Al pie de las ruinas, el pueblo atrae a los visitantes por otra razón: alberga uno de los mercados más conocidos del valle, una mezcla ya tradicional de artesanías y puestos de productos que llena la plaza y se extiende por las calles aledañas, sobre todo los días de mercado.",
+      "getting": "Pisac no cuenta con aeropuerto ni línea de tren propios: los viajeros llegan primero al Aeropuerto Internacional Alejandro Velasco Astete de Cusco (CUZ) y desde allí continúan por tierra, normalmente en colectivo compartido, autobús o taxi, por la carretera asfaltada que se adentra en el Valle Sagrado. El trayecto desde Cusco dura entre 45 minutos y una hora, según el tráfico y el medio de transporte elegido.",
+      "days": "La mayoría de los viajeros dedica entre medio día y un día completo a Pisac, tiempo suficiente para recorrer las ruinas en lo alto de la colina y pasear por el mercado antes de seguir explorando el Valle Sagrado."
+    },
+    "zh": {
+      "blurb": "皮萨克坐落于圣谷的入口处,背倚一列印加梯田、神庙与瞭望塔构成的山脊。山顶的古城遗址常被当地人和向导比作\"缩小版、更清静的马丘比丘\"。遗址脚下的小镇则因谷地里最负盛名的集市之一而闻名——这里常年摆满手工艺品与农产品摊位,摊位从广场一直蔓延到周边街巷,逢集市日更是热闹非凡。",
+      "getting": "皮萨克本身并没有机场或铁路直达,游客通常先飞抵库斯科的亚历杭德罗·贝拉斯科·阿斯特特国际机场(CUZ),再转乘陆路交通——常见的方式是搭乘共乘小巴(colectivo)、大巴或出租车,沿铺装公路进入圣谷。从库斯科出发的陆路车程大约需要45分钟到1小时,具体时长视路况和所选交通方式而定。",
+      "days": "大多数游客会为皮萨克安排半天到一整天的时间,足够用来探访山顶的古城遗址,再逛逛集市,然后继续深入圣谷其他地方。"
+    }
+  },
+  "Vinicunca": {
+    "en": {
+      "blurb": "Vinicunca, better known as Rainbow Mountain, is a high-altitude ridge in the Cusco region streaked with naturally coloured mineral bands of red, yellow, turquoise and green. Sitting above 5,000 metres in the Vilcanota range near the Ausangate glacier, it has become one of Peru's most photographed natural landmarks after Machu Picchu.",
+      "getting": "Almost all travellers reach Vinicunca by road from Cusco, usually on an organised day tour that departs before dawn and drives ~3 hours to a trailhead near Cusipata or Pitumarca before the final hike on foot. Independent travel is possible using public minivans from Cusco's regional transport hub to these villages, followed by a local taxi to the trailhead, though logistics are more complex and timings less reliable.",
+      "days": "Vinicunca is typically visited as a single long day trip of ~12 to 16 hours door to door from Cusco, which covers the drive, the ~2 to 3 hour hike to the viewpoint and back, and time to acclimatise beforehand, ideally 2 to 3 days in Cusco first."
+    },
+    "ko": {
+      "blurb": "비니쿤카는 '레인보우 마운틴'이라는 이름으로 더 잘 알려진 쿠스코 지역의 고지대 능선으로, 붉은색, 노란색, 터키석색, 녹색의 광물 띠가 자연스럽게 줄무늬를 이루고 있는 것이 특징입니다. 아우상가테 빙하 인근 빌카노타 산맥에 위치하며 해발 5,000미터가 넘는 이곳은 마추픽추에 이어 페루에서 가장 많은 사진이 찍히는 자연 명소 중 하나로 자리 잡았습니다.",
+      "getting": "대부분의 여행객은 쿠스코에서 육로를 통해 비니쿤카를 방문하며, 보통 새벽에 출발하는 당일 투어를 이용합니다. 약 3시간을 달려 쿠시파타나 피투마르카 인근의 등산로 입구에 도착한 뒤, 나머지 구간은 도보로 이동합니다. 쿠스코의 지역 교통 터미널에서 출발하는 대중 미니밴을 타고 이 마을들까지 간 다음, 현지 택시를 이용해 등산로 입구까지 가는 자유 여행도 가능하지만, 교통편을 연결하기가 더 복잡하고 시간도 일정하지 않은 편입니다.",
+      "days": "비니쿤카는 보통 쿠스코에서 출발해 돌아오기까지 약 12~16시간이 걸리는 하루짜리 장거리 투어로 다녀옵니다. 여기에는 이동 시간, 전망대까지 왕복 약 2~3시간의 트레킹, 그리고 사전 고산 적응 시간이 포함되며, 이상적으로는 쿠스코에서 먼저 2~3일 정도 머무르며 고도에 적응하는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "ビニクンカは「レインボーマウンテン」の名で知られる、クスコ地方にそびえる標高5,000メートル超の山稜で、赤・黄・ターコイズ・緑といった鉱物由来の自然な縞模様が斜面を彩っています。アウサンガテ氷河にほど近いビルカノタ山脈に位置し、今ではマチュピチュに次いでペルーで最も写真に収められる自然の名所のひとつとなっています。",
+      "getting": "ほとんどの旅行者は、クスコから陸路でビニクンカを訪れます。一般的なのは、夜明け前に出発する日帰りツアーに参加する方法で、約3時間かけてクシパタまたはピトゥマルカ付近の登山口まで車で移動し、そこから徒歩でハイキングを行います。個人旅行の場合は、クスコの地方バスターミナルからこれらの村までワゴンタクシー(コレクティーボ)で向かい、さらに現地タクシーで登山口まで移動することも可能ですが、手配はより複雑になり、所要時間の見通しも立てにくくなります。",
+      "days": "ビニクンカ観光は通常、クスコを拠点としたドア・ツー・ドアで約12〜16時間の日帰り旅行として行われます。この中には往復の車移動、展望台までの約2〜3時間のハイキング(往復)、そして事前の高度順応の時間が含まれており、理想的にはクスコで先に2〜3日を過ごしておくことが勧められます。"
+    },
+    "es": {
+      "blurb": "Vinicunca, más conocida como la Montaña de Siete Colores, es una cresta de gran altitud en la región del Cusco, surcada por bandas minerales de colores naturales en tonos rojo, amarillo, turquesa y verde. Ubicada a más de 5.000 metros en la cordillera de Vilcanota, cerca del glaciar Ausangate, se ha convertido en uno de los paisajes naturales más fotografiados del Perú, solo por detrás de Machu Picchu.",
+      "getting": "Casi todos los viajeros llegan a Vinicunca por carretera desde Cusco, normalmente en un tour organizado de día completo que sale antes del amanecer y recorre unas 3 horas en vehículo hasta un punto de inicio cerca de Cusipata o Pitumarca, desde donde comienza la caminata a pie. También es posible viajar por cuenta propia tomando minivans públicos desde el terminal de transporte regional de Cusco hasta estos pueblos, y luego un taxi local hasta el punto de partida de la caminata, aunque la logística es más complicada y los horarios menos fiables.",
+      "days": "Vinicunca suele visitarse como una larga excursión de un solo día, de entre 12 y 16 horas en total desde Cusco, puerta a puerta. Esto incluye el trayecto en vehículo, la caminata de 2 a 3 horas hasta el mirador y de regreso, y el tiempo necesario para aclimatarse previamente, lo ideal es pasar primero 2 o 3 días en Cusco."
+    },
+    "zh": {
+      "blurb": "维尼昆卡，更广为人知的名字是\"彩虹山\"，是库斯科地区一道高海拔山脊，山体天然形成红、黄、绿松石和绿色等矿物色带，色彩斑斓。它坐落在维尔卡诺塔山脉中，海拔超过5000米，紧邻奥桑加特冰川，如今已成为继马丘比丘之后秘鲁最受欢迎、拍照率最高的自然地标之一。",
+      "getting": "几乎所有游客都是从库斯科出发、经陆路前往维尼昆卡，通常参加天亮前出发的一日游团，乘车约3小时到达库西帕塔（Cusipata）或皮图马尔卡（Pitumarca）附近的登山起点，再徒步前往山顶。自助旅行者也可以从库斯科的地区交通枢纽乘坐公共小巴到这些村庄，再换乘当地出租车前往登山口，不过行程安排更为复杂，时间也不太容易把控。",
+      "days": "游览维尼昆卡通常安排为一天的长途往返行程，从库斯科出发到返回大约需要12到16小时，其中包括往返车程、约2到3小时的徒步上下山观景时间，以及出发前的高原适应时间——建议提前在库斯科停留2到3天进行适应。"
+    }
   }
 }

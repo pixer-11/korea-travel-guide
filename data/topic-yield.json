@@ -2,7 +2,7 @@
  "_note": "Per-topic search→post yield, written by scripts/generate.mjs (scripts/lib/topic-yield.mjs). Seeded 2026-08-23 from the 08-17..23 publish/bulk logs; counts halve past 200 so recent runs weigh more.",
  "topics": {
   "local restaurant": {
-   "attempts": 136,
+   "attempts": 137,
    "hits": 15
   },
   "historic site": {
@@ -30,7 +30,7 @@
    "hits": 5
   },
   "museum": {
-   "attempts": 140,
+   "attempts": 141,
    "hits": 83
   },
   "noodles": {
@@ -54,19 +54,19 @@
    "hits": 4
   },
   "hidden gem": {
-   "attempts": 143,
-   "hits": 84
+   "attempts": 147,
+   "hits": 85
   },
   "breakfast": {
    "attempts": 67,
    "hits": 5
   },
   "trendy cafe": {
-   "attempts": 142,
+   "attempts": 144,
    "hits": 12
   },
   "street food": {
-   "attempts": 122,
+   "attempts": 126,
    "hits": 18
   },
   "bakery": {
@@ -86,8 +86,8 @@
    "hits": 0
   },
   "top attraction": {
-   "attempts": 141,
-   "hits": 105
+   "attempts": 155,
+   "hits": 116
   },
   "grill": {
    "attempts": 56,
@@ -776,7 +776,119 @@
   "Royal BC Museum": {
    "attempts": 1,
    "hits": 1
+  },
+  "Tekapo Springs": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Journey Behind the Falls": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Quartier Petit Champlain": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Banff Gondola": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Banff Upper Hot Springs": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Plaza Mayor de Lima": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Bush Pilot's Monument": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Whale Watch Kaikoura": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Plaza de Armas of Cusco": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Parliament Hill": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Calgary Tower": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Waitomo Glowworm Caves": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Ollantaytambo Archaeological Park": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Itsanitaq Museum": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Jasper SkyTram": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Moraine Lake": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Royal Ontario Museum": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Clifton Hill": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Montmorency Falls": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Mount Royal Park": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Granville Island": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "St. Lawrence Market": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Machu Picchu": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Cardboard Cathedral": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Rainbow Mountain": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Bow Falls": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Santa Catalina Monastery": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Distillery Historic District": {
+   "attempts": 1,
+   "hits": 1
   }
  },
- "updated": "2026-10-22T07:57:56.880Z"
+ "updated": "2026-10-22T14:56:25.456Z"
 }

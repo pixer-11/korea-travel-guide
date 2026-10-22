@@ -13305,6 +13305,904 @@
         }
       }
     },
+    "Peru": {
+      "srcHash": "03fa5db6bcbd",
+      "en": {
+        "summary": [
+          {
+            "key": "entry",
+            "title": "Visa-free, 90 days",
+            "sub": "Stamped on arrival, max 183 days per 365"
+          },
+          {
+            "key": "money",
+            "title": "Cash-friendly sol",
+            "sub": "Markets and rural Cusco run mostly on cash"
+          },
+          {
+            "key": "season",
+            "title": "Dry season May–Oct",
+            "sub": "Best for Machu Picchu, Cusco and the Andes"
+          },
+          {
+            "key": "transport",
+            "title": "Metro, buses, trains",
+            "sub": "Lima Metro/Metropolitano; trains to Machu Picchu"
+          }
+        ],
+        "visa": {
+          "cards": [
+            {
+              "name": "Visa-exempt tourist entry",
+              "code": "",
+              "who": "US, Canada, UK, EU and most Latin America nationals",
+              "cost": "",
+              "stay": "",
+              "note": "Granted at immigration officer's discretion; cannot be extended within Peru"
+            },
+            {
+              "name": "Consulate visa",
+              "code": "",
+              "who": "Nationalities not on the visa-exempt list",
+              "cost": "",
+              "stay": "",
+              "note": "Must apply in advance at a Peruvian consulate; visa on arrival not an option"
+            },
+            {
+              "name": "Transit Visa",
+              "code": "",
+              "who": "Foreign nationals transiting through Peru to a third country, certain passports",
+              "cost": "",
+              "stay": "Up to two calendar days",
+              "note": "Required since February 2025; applied for in advance, valid six months from issue"
+            }
+          ],
+          "warnings": [
+            {
+              "title": "Passport validity",
+              "text": "Passport must have at least six months' remaining validity at entry or authorities may deny entry."
+            },
+            {
+              "title": "Cannot extend stay",
+              "text": "Tourist stays cannot be extended from within Peru, so request the full time needed at arrival."
+            },
+            {
+              "title": "Confirm days stamped",
+              "text": "Double-check the exact number of days stamped in your passport before leaving the airport."
+            }
+          ]
+        },
+        "transport": {
+          "rows": [],
+          "tips": [
+            {
+              "title": "Use ride-hailing apps",
+              "text": "Use Uber or Cabify since unlicensed cabs charge tourists inflated fares; agree on a fare or confirm app price before getting in."
+            },
+            {
+              "title": "Avoid late-night street hails",
+              "text": "Avoid hailing cars off the street late at night."
+            },
+            {
+              "title": "Book Machu Picchu ahead",
+              "text": "Book Machu Picchu entry tickets and Inca Trail permits well in advance since daily visitor numbers are capped."
+            }
+          ]
+        },
+        "money": {
+          "budget": {
+            "amount": "220-380 soles",
+            "label": "Mid-range traveler",
+            "note": "Budget traveler 120-180 soles; comfort-level 400-700-plus soles per day"
+          },
+          "tips": [
+            {
+              "title": "Decline currency conversion",
+              "text": "When an ATM or card terminal offers to bill you in your home currency, decline it and choose soles for a better rate."
+            },
+            {
+              "title": "Use casas de cambio",
+              "text": "Licensed money-changing houses in city centers beat airport counters and hotel desks."
+            },
+            {
+              "title": "Watch ATM fees",
+              "text": "Local banks typically charge 15 to 30 soles per withdrawal, plus your home bank's fees and markup."
+            },
+            {
+              "title": "Carry cash outside Lima",
+              "text": "Markets, buses and rural areas around Cusco run mostly on cash soles."
+            }
+          ]
+        },
+        "season": {
+          "best": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "rows": [
+            {
+              "label": "Trekking / Inca Trail",
+              "sub": "Andes hiking season",
+              "best": [
+                5,
+                9
+              ],
+              "busy": [
+                6,
+                7,
+                8
+              ],
+              "avoid": [
+                2
+              ]
+            },
+            {
+              "label": "Amazon nature walks",
+              "sub": "Low-water season",
+              "best": [
+                6,
+                7,
+                8,
+                9,
+                10
+              ],
+              "busy": [],
+              "avoid": []
+            }
+          ]
+        },
+        "emergency": {
+          "numbers": [
+            {
+              "number": "105",
+              "label": "National Police",
+              "note": ""
+            },
+            {
+              "number": "106",
+              "label": "SAMU",
+              "note": "Public ambulance service"
+            },
+            {
+              "number": "116",
+              "label": "Fire brigade",
+              "note": ""
+            },
+            {
+              "number": "0800-22221",
+              "label": "Tourist Police",
+              "note": ""
+            }
+          ],
+          "chips": [
+            "Peru at Level 2 travel advisory",
+            "Lima/Callao under crime emergency",
+            "Use licensed taxis, indoor ATMs",
+            "Keep embassy contact details handy"
+          ]
+        }
+      },
+      "ko": {
+        "summary": [
+          {
+            "title": "무비자, 90일",
+            "sub": "입국 시 스탬프 날인, 365일 중 최대 183일",
+            "key": "entry"
+          },
+          {
+            "title": "현금 위주의 솔화",
+            "sub": "시장과 쿠스코 지방은 대부분 현금만 사용",
+            "key": "money"
+          },
+          {
+            "title": "건기 5월~10월",
+            "sub": "마추픽추, 쿠스코, 안데스 여행에 최적",
+            "key": "season"
+          },
+          {
+            "title": "지하철, 버스, 기차",
+            "sub": "리마 메트로/메트로폴리타노; 마추픽추행 기차",
+            "key": "transport"
+          }
+        ],
+        "visa": {
+          "cards": [
+            {
+              "name": "무비자 관광 입국",
+              "code": "",
+              "who": "미국, 캐나다, 영국, EU 및 대부분의 중남미 국적자",
+              "cost": "",
+              "stay": "",
+              "note": "출입국 관리관의 재량으로 허가되며, 페루 내에서 연장 불가"
+            },
+            {
+              "name": "영사관 비자",
+              "code": "",
+              "who": "무비자 대상국이 아닌 국적자",
+              "cost": "",
+              "stay": "",
+              "note": "사전에 페루 영사관에서 신청해야 하며, 도착 비자는 불가능"
+            },
+            {
+              "name": "통과 비자",
+              "code": "",
+              "who": "제3국으로 향하며 페루를 경유하는 특정 국적 외국인",
+              "cost": "",
+              "stay": "최대 2일(역일 기준)",
+              "note": "2025년 2월부터 필수; 사전 신청, 발급일로부터 6개월간 유효"
+            }
+          ],
+          "warnings": [
+            {
+              "title": "여권 유효기간",
+              "text": "입국 시 여권 잔여 유효기간이 최소 6개월 이상이어야 하며, 그렇지 않으면 입국이 거부될 수 있습니다."
+            },
+            {
+              "title": "체류 연장 불가",
+              "text": "관광 체류는 페루 내에서 연장할 수 없으므로 입국 시 필요한 전체 기간을 요청하세요."
+            },
+            {
+              "title": "스탬프 일수 확인",
+              "text": "공항을 떠나기 전에 여권에 찍힌 정확한 체류 일수를 다시 확인하세요."
+            }
+          ]
+        },
+        "transport": {
+          "rows": [],
+          "tips": [
+            {
+              "title": "차량 호출 앱 이용",
+              "text": "무허가 택시는 관광객에게 바가지 요금을 부과하므로 Uber나 Cabify를 이용하세요. 탑승 전 요금을 합의하거나 앱 가격을 확인하세요."
+            },
+            {
+              "title": "심야 길거리 택시 호출 자제",
+              "text": "늦은 밤 길거리에서 차량을 잡는 것은 피하세요."
+            },
+            {
+              "title": "마추픽추 사전 예약",
+              "text": "일일 방문객 수가 제한되어 있으므로 마추픽추 입장권과 잉카 트레일 허가증을 미리 예약하세요."
+            }
+          ]
+        },
+        "money": {
+          "budget": {
+            "amount": "220-380 솔",
+            "label": "중간 예산 여행자",
+            "note": "저예산 여행자 120-180솔; 여유로운 여행자는 하루 400-700솔 이상"
+          },
+          "tips": [
+            {
+              "title": "통화 환전 제안 거절",
+              "text": "ATM이나 카드 단말기에서 본국 통화로 청구하겠다고 제안하면 거절하고 솔화로 선택하면 더 나은 환율을 받을 수 있습니다."
+            },
+            {
+              "title": "환전소(카사 데 캄비오) 이용",
+              "text": "시내 중심가의 허가된 환전소가 공항 창구나 호텔 데스크보다 유리합니다."
+            },
+            {
+              "title": "ATM 수수료 주의",
+              "text": "현지 은행은 보통 출금 1회당 15~30솔의 수수료를 부과하며, 여기에 본국 은행의 수수료와 가산금이 추가됩니다."
+            },
+            {
+              "title": "리마 외 지역에서는 현금 소지",
+              "text": "시장, 버스, 쿠스코 주변 지방 지역은 대부분 현금 솔화로 거래됩니다."
+            }
+          ]
+        },
+        "season": {
+          "rows": [
+            {
+              "label": "트레킹 / 잉카 트레일",
+              "sub": "안데스 트레킹 시즌",
+              "best": [
+                5,
+                9
+              ],
+              "busy": [
+                6,
+                7,
+                8
+              ],
+              "avoid": [
+                2
+              ]
+            },
+            {
+              "label": "아마존 자연 탐방",
+              "sub": "건수위 시즌",
+              "best": [
+                6,
+                7,
+                8,
+                9,
+                10
+              ],
+              "busy": [],
+              "avoid": []
+            }
+          ],
+          "best": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        "emergency": {
+          "numbers": [
+            {
+              "number": "105",
+              "label": "국가 경찰",
+              "note": ""
+            },
+            {
+              "number": "106",
+              "label": "SAMU",
+              "note": "공공 구급차 서비스"
+            },
+            {
+              "number": "116",
+              "label": "소방서",
+              "note": ""
+            },
+            {
+              "number": "0800-22221",
+              "label": "관광 경찰",
+              "note": ""
+            }
+          ],
+          "chips": [
+            "페루 여행 경보 2단계",
+            "리마/카야오 범죄 비상사태 선포 중",
+            "허가된 택시, 실내 ATM 이용",
+            "대사관 연락처를 항상 지참"
+          ]
+        }
+      },
+      "ja": {
+        "summary": [
+          {
+            "title": "ビザ免除、90日間",
+            "sub": "入国時にスタンプ、365日のうち最大183日",
+            "key": "entry"
+          },
+          {
+            "title": "現金中心のソル経済",
+            "sub": "市場や地方のクスコは主に現金払い",
+            "key": "money"
+          },
+          {
+            "title": "乾季5月〜10月",
+            "sub": "マチュピチュ、クスコ、アンデス観光に最適",
+            "key": "season"
+          },
+          {
+            "title": "地下鉄、バス、列車",
+            "sub": "リマのメトロ/メトロポリターノ、マチュピチュ行き列車",
+            "key": "transport"
+          }
+        ],
+        "visa": {
+          "cards": [
+            {
+              "name": "ビザ免除の観光入国",
+              "code": "",
+              "who": "米国、カナダ、英国、EU、ほとんどのラテンアメリカ諸国の国民",
+              "cost": "",
+              "stay": "",
+              "note": "入国審査官の裁量により許可、ペルー国内での延長は不可"
+            },
+            {
+              "name": "領事館ビザ",
+              "code": "",
+              "who": "ビザ免除対象外の国籍者",
+              "cost": "",
+              "stay": "",
+              "note": "事前にペルー領事館で申請が必要、到着時ビザ発給は不可"
+            },
+            {
+              "name": "通過ビザ",
+              "code": "",
+              "who": "第三国へ向けペルーを通過する一部国籍の外国人",
+              "cost": "",
+              "stay": "最大暦日2日間",
+              "note": "2025年2月より必須、事前申請、発給から6ヶ月間有効"
+            }
+          ],
+          "warnings": [
+            {
+              "title": "パスポートの有効期限",
+              "text": "入国時にパスポートの残存有効期間が最低6ヶ月必要で、満たない場合は入国を拒否される可能性があります。"
+            },
+            {
+              "title": "滞在延長不可",
+              "text": "観光滞在はペルー国内で延長できないため、入国時に必要な全期間を申請してください。"
+            },
+            {
+              "title": "スタンプの日数を確認",
+              "text": "空港を出る前にパスポートに押された正確な滞在日数を必ず確認してください。"
+            }
+          ]
+        },
+        "transport": {
+          "rows": [],
+          "tips": [
+            {
+              "title": "配車アプリを利用",
+              "text": "無許可タクシーは観光客に割高な料金を請求するため、UberやCabifyを利用しましょう。乗車前に料金を合意するかアプリの価格を確認してください。"
+            },
+            {
+              "title": "深夜の流しのタクシーは避ける",
+              "text": "深夜に路上で車を呼び止めるのは避けましょう。"
+            },
+            {
+              "title": "マチュピチュは事前予約",
+              "text": "1日の訪問者数に上限があるため、マチュピチュの入場券とインカ道のパーミットは早めに予約しましょう。"
+            }
+          ]
+        },
+        "money": {
+          "budget": {
+            "amount": "220-380ソル",
+            "label": "中級旅行者",
+            "note": "節約旅行者は120-180ソル、快適志向は1日400-700ソル以上"
+          },
+          "tips": [
+            {
+              "title": "通貨換算を断る",
+              "text": "ATMやカード端末で自国通貨での請求を提案された場合は断り、ソルを選ぶとレートが有利になります。"
+            },
+            {
+              "title": "両替所(カサ・デ・カンビオ)を利用",
+              "text": "市街中心部の正規両替所は空港カウンターやホテルのデスクより有利です。"
+            },
+            {
+              "title": "ATM手数料に注意",
+              "text": "地元の銀行は通常、引き出し1回につき15〜30ソルの手数料を課し、さらに自国の銀行手数料や上乗せ分がかかります。"
+            },
+            {
+              "title": "リマ以外では現金を携行",
+              "text": "市場、バス、クスコ周辺の地方では現金のソルが主に使われます。"
+            }
+          ]
+        },
+        "season": {
+          "rows": [
+            {
+              "label": "トレッキング／インカ道",
+              "sub": "アンデストレッキングのシーズン",
+              "best": [
+                5,
+                9
+              ],
+              "busy": [
+                6,
+                7,
+                8
+              ],
+              "avoid": [
+                2
+              ]
+            },
+            {
+              "label": "アマゾン自然散策",
+              "sub": "渇水期",
+              "best": [
+                6,
+                7,
+                8,
+                9,
+                10
+              ],
+              "busy": [],
+              "avoid": []
+            }
+          ],
+          "best": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        "emergency": {
+          "numbers": [
+            {
+              "number": "105",
+              "label": "国家警察",
+              "note": ""
+            },
+            {
+              "number": "106",
+              "label": "SAMU",
+              "note": "公共救急サービス"
+            },
+            {
+              "number": "116",
+              "label": "消防署",
+              "note": ""
+            },
+            {
+              "number": "0800-22221",
+              "label": "観光警察",
+              "note": ""
+            }
+          ],
+          "chips": [
+            "ペルーは渡航情報レベル2",
+            "リマ/カヤオは犯罪非常事態下",
+            "正規タクシーや屋内ATMを利用",
+            "大使館の連絡先を常に携帯"
+          ]
+        }
+      },
+      "es": {
+        "summary": [
+          {
+            "title": "Sin visado, 90 días",
+            "sub": "Sellado a la llegada, máximo 183 días por cada 365",
+            "key": "entry"
+          },
+          {
+            "title": "El sol es muy usado en efectivo",
+            "sub": "Mercados y el Cusco rural funcionan sobre todo con efectivo",
+            "key": "money"
+          },
+          {
+            "title": "Temporada seca mayo–oct",
+            "sub": "La mejor época para Machu Picchu, Cusco y los Andes",
+            "key": "season"
+          },
+          {
+            "title": "Metro, buses, trenes",
+            "sub": "Metro/Metropolitano de Lima; trenes a Machu Picchu",
+            "key": "transport"
+          }
+        ],
+        "visa": {
+          "cards": [
+            {
+              "name": "Entrada turística sin visado",
+              "code": "",
+              "who": "Nacionales de EE. UU., Canadá, Reino Unido, UE y la mayoría de países latinoamericanos",
+              "cost": "",
+              "stay": "",
+              "note": "Se otorga a discreción del oficial de migraciones; no se puede prorrogar dentro de Perú"
+            },
+            {
+              "name": "Visa consular",
+              "code": "",
+              "who": "Nacionalidades que no están en la lista de exención de visado",
+              "cost": "",
+              "stay": "",
+              "note": "Debe solicitarse con antelación en un consulado peruano; no existe visa a la llegada"
+            },
+            {
+              "name": "Visa de tránsito",
+              "code": "",
+              "who": "Extranjeros en tránsito por Perú hacia un tercer país, ciertos pasaportes",
+              "cost": "",
+              "stay": "Hasta dos días calendario",
+              "note": "Obligatoria desde febrero de 2025; se solicita con antelación, válida seis meses desde su emisión"
+            }
+          ],
+          "warnings": [
+            {
+              "title": "Vigencia del pasaporte",
+              "text": "El pasaporte debe tener al menos seis meses de vigencia restante al ingresar, o las autoridades pueden negar la entrada."
+            },
+            {
+              "title": "No se puede prorrogar la estadía",
+              "text": "Las estancias turísticas no se pueden extender desde dentro de Perú, así que solicita el tiempo completo necesario al llegar."
+            },
+            {
+              "title": "Confirma los días sellados",
+              "text": "Verifica el número exacto de días sellados en tu pasaporte antes de salir del aeropuerto."
+            }
+          ]
+        },
+        "transport": {
+          "rows": [],
+          "tips": [
+            {
+              "title": "Usa apps de transporte",
+              "text": "Usa Uber o Cabify, ya que los taxis sin licencia cobran tarifas infladas a los turistas; acuerda una tarifa o confirma el precio de la app antes de subir."
+            },
+            {
+              "title": "Evita parar autos en la calle de noche",
+              "text": "Evita parar autos en la calle durante la madrugada."
+            },
+            {
+              "title": "Reserva Machu Picchu con antelación",
+              "text": "Reserva con mucha anticipación las entradas a Machu Picchu y los permisos del Camino Inca, ya que el número diario de visitantes está limitado."
+            }
+          ]
+        },
+        "money": {
+          "budget": {
+            "amount": "220-380 soles",
+            "label": "Viajero de gama media",
+            "note": "Viajero económico 120-180 soles; nivel confort 400-700 soles o más por día"
+          },
+          "tips": [
+            {
+              "title": "Rechaza la conversión de moneda",
+              "text": "Cuando un cajero o terminal de tarjeta te ofrezca cobrar en tu moneda local, recházalo y elige soles para obtener un mejor tipo de cambio."
+            },
+            {
+              "title": "Usa casas de cambio",
+              "text": "Las casas de cambio autorizadas en los centros urbanos ofrecen mejores tasas que los mostradores del aeropuerto o los hoteles."
+            },
+            {
+              "title": "Cuidado con las comisiones del cajero",
+              "text": "Los bancos locales suelen cobrar entre 15 y 30 soles por retiro, además de las comisiones y recargos de tu banco de origen."
+            },
+            {
+              "title": "Lleva efectivo fuera de Lima",
+              "text": "Mercados, buses y zonas rurales alrededor de Cusco funcionan sobre todo con soles en efectivo."
+            }
+          ]
+        },
+        "season": {
+          "rows": [
+            {
+              "label": "Trekking / Camino Inca",
+              "sub": "Temporada de senderismo en los Andes",
+              "best": [
+                5,
+                9
+              ],
+              "busy": [
+                6,
+                7,
+                8
+              ],
+              "avoid": [
+                2
+              ]
+            },
+            {
+              "label": "Paseos de naturaleza en la Amazonía",
+              "sub": "Temporada de aguas bajas",
+              "best": [
+                6,
+                7,
+                8,
+                9,
+                10
+              ],
+              "busy": [],
+              "avoid": []
+            }
+          ],
+          "best": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        "emergency": {
+          "numbers": [
+            {
+              "number": "105",
+              "label": "Policía Nacional",
+              "note": ""
+            },
+            {
+              "number": "106",
+              "label": "SAMU",
+              "note": "Servicio público de ambulancia"
+            },
+            {
+              "number": "116",
+              "label": "Cuerpo de bomberos",
+              "note": ""
+            },
+            {
+              "number": "0800-22221",
+              "label": "Policía de Turismo",
+              "note": ""
+            }
+          ],
+          "chips": [
+            "Perú en nivel 2 de alerta de viaje",
+            "Lima/Callao bajo estado de emergencia por delincuencia",
+            "Usa taxis con licencia y cajeros en interiores",
+            "Ten a mano los datos de contacto de tu embajada"
+          ]
+        }
+      },
+      "zh": {
+        "summary": [
+          {
+            "title": "免签，90天",
+            "sub": "入境时加盖印章，每365天内最多停留183天",
+            "key": "entry"
+          },
+          {
+            "title": "索尔以现金为主",
+            "sub": "市场和库斯科乡村地区大多只用现金",
+            "key": "money"
+          },
+          {
+            "title": "旱季5月至10月",
+            "sub": "游览马丘比丘、库斯科和安第斯山脉的最佳时节",
+            "key": "season"
+          },
+          {
+            "title": "地铁、公交、火车",
+            "sub": "利马地铁/Metropolitano快速公交；前往马丘比丘的火车",
+            "key": "transport"
+          }
+        ],
+        "visa": {
+          "cards": [
+            {
+              "name": "免签旅游入境",
+              "code": "",
+              "who": "美国、加拿大、英国、欧盟及大多数拉美国家公民",
+              "cost": "",
+              "stay": "",
+              "note": "由入境官员自行决定是否批准；在秘鲁境内不能延期"
+            },
+            {
+              "name": "领事馆签证",
+              "code": "",
+              "who": "不在免签名单上的国籍人士",
+              "cost": "",
+              "stay": "",
+              "note": "必须提前在秘鲁领事馆申请；不提供落地签"
+            },
+            {
+              "name": "过境签证",
+              "code": "",
+              "who": "经由秘鲁前往第三国的外国公民，适用于特定护照持有人",
+              "cost": "",
+              "stay": "最多两个日历日",
+              "note": "自2025年2月起强制要求；需提前申请，自签发之日起六个月内有效"
+            }
+          ],
+          "warnings": [
+            {
+              "title": "护照有效期",
+              "text": "入境时护照必须至少有六个月的剩余有效期，否则可能被拒绝入境。"
+            },
+            {
+              "title": "不能延长停留期",
+              "text": "旅游停留期无法在秘鲁境内延长，因此请在入境时申请所需的全部天数。"
+            },
+            {
+              "title": "确认盖章天数",
+              "text": "离开机场前请仔细核对护照上盖章标注的确切停留天数。"
+            }
+          ]
+        },
+        "transport": {
+          "rows": [],
+          "tips": [
+            {
+              "title": "使用叫车软件",
+              "text": "无牌出租车常对游客收取过高车费，建议使用Uber或Cabify；上车前先谈好价格或确认软件上的报价。"
+            },
+            {
+              "title": "避免深夜在街头拦车",
+              "text": "避免在深夜在街边拦车。"
+            },
+            {
+              "title": "提前预订马丘比丘门票",
+              "text": "由于每日游客数量有上限，请提前预订马丘比丘门票和印加古道通行证。"
+            }
+          ]
+        },
+        "money": {
+          "budget": {
+            "amount": "220-380索尔",
+            "label": "中等预算旅行者",
+            "note": "经济型旅行者120-180索尔；舒适型旅行者每天400-700索尔以上"
+          },
+          "tips": [
+            {
+              "title": "拒绝货币转换",
+              "text": "当ATM或刷卡机提出以本国货币计费时，请拒绝并选择以索尔计价，以获得更好的汇率。"
+            },
+            {
+              "title": "使用正规兑换点",
+              "text": "市中心的持牌货币兑换点比机场柜台和酒店前台更划算。"
+            },
+            {
+              "title": "注意ATM手续费",
+              "text": "当地银行通常每次取款收取15到30索尔的手续费，另外还需加上你本国银行的费用和加价。"
+            },
+            {
+              "title": "在利马以外地区携带现金",
+              "text": "市场、公交车以及库斯科周边乡村地区大多只接受现金索尔。"
+            }
+          ]
+        },
+        "season": {
+          "rows": [
+            {
+              "label": "徒步旅行／印加古道",
+              "sub": "安第斯山脉徒步季节",
+              "best": [
+                5,
+                9
+              ],
+              "busy": [
+                6,
+                7,
+                8
+              ],
+              "avoid": [
+                2
+              ]
+            },
+            {
+              "label": "亚马逊自然徒步",
+              "sub": "枯水季",
+              "best": [
+                6,
+                7,
+                8,
+                9,
+                10
+              ],
+              "busy": [],
+              "avoid": []
+            }
+          ],
+          "best": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        "emergency": {
+          "numbers": [
+            {
+              "number": "105",
+              "label": "国家警察",
+              "note": ""
+            },
+            {
+              "number": "106",
+              "label": "SAMU",
+              "note": "公共救护车服务"
+            },
+            {
+              "number": "116",
+              "label": "消防队",
+              "note": ""
+            },
+            {
+              "number": "0800-22221",
+              "label": "旅游警察",
+              "note": ""
+            }
+          ],
+          "chips": [
+            "秘鲁处于2级旅行警示",
+            "利马/卡亚俄处于犯罪紧急状态",
+            "使用持牌出租车和室内ATM",
+            "随身携带大使馆联系方式"
+          ]
+        }
+      }
+    },
     "Philippines": {
       "srcHash": "331a75ed04cf",
       "en": {

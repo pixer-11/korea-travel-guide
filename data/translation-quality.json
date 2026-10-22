@@ -37182,5 +37182,89 @@
   "registerBreak": false,
   "worst": "能攀爬的季节很短。上段山脊的积雪通常要到7月才化完，在那之前，这条路线需要冰镐，也需要真本事。",
   "at": "2026-10-22T07:52:57.714Z"
+ },
+ "es/aguas-calientes-historic-sanctuary-of-machu-picchu": {
+  "hash": "c4090692bd54",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "La afluencia de público en Machu Picchu depende del sistema de entradas con horario, y nuestros dat",
+  "at": "2026-10-22T17:00:22.454Z"
+ },
+ "es/arequipa-basilica-cathedral-of-arequipa": {
+  "hash": "fac990e1eff4",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "al que a menudo se describe como uno de los mayores de Sudamérica",
+  "at": "2026-10-22T17:00:23.496Z"
+ },
+ "es/arequipa-santa-catalina-monastery": {
+  "hash": "7b60eb855853",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "No llegue un fin de semana entre las 12pm y las 2pm.",
+  "at": "2026-10-22T17:00:24.701Z"
+ },
+ "ja/aguas-calientes-historic-sanctuary-of-machu-picchu": {
+  "hash": "1af002cd69ff",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "最も落ち着いているのは平日も週末も7am–8amです。",
+  "at": "2026-10-22T17:00:33.445Z"
+ },
+ "ja/arequipa-basilica-cathedral-of-arequipa": {
+  "hash": "b0ff81e96945",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "そのため、白いシジャールの長い壁がそのまま広場の一辺になっているのです。",
+  "at": "2026-10-22T17:00:34.543Z"
+ },
+ "ja/arequipa-santa-catalina-monastery": {
+  "hash": "948116092329",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "現在の開館時間は9時、閉館は17時なので、週末の夕方に行く場合は1時間しか見学できません。",
+  "at": "2026-10-22T17:00:35.839Z"
+ },
+ "ko/aguas-calientes-historic-sanctuary-of-machu-picchu": {
+  "hash": "88515078f1ef",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "마추픽추의 혼잡도는 시간 지정 입장제에 따라 움직이며, 저희의 방문객 이동 데이터도 이를 분명히 보여 줍니다.",
+  "at": "2026-10-22T17:00:37.201Z"
+ },
+ "ko/arequipa-basilica-cathedral-of-arequipa": {
+  "hash": "d17b880b983b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "받침 부분에는 설교단 아래 짓눌린 악마가 새겨져 있습니다.",
+  "at": "2026-10-22T17:00:38.301Z"
+ },
+ "ko/arequipa-santa-catalina-monastery": {
+  "hash": "aad2ce369a73",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "둘러보면서 꼭 찾아볼 곳은 다음과 같습니다.",
+  "at": "2026-10-22T17:00:39.432Z"
+ },
+ "zh/aguas-calientes-historic-sanctuary-of-machu-picchu": {
+  "hash": "c9c4560a3d91",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "马丘比丘的人流规律由分时入园制度决定，我们的客流数据也清楚地反映了这一点。",
+  "at": "2026-10-22T17:00:45.836Z"
+ },
+ "zh/arequipa-basilica-cathedral-of-arequipa": {
+  "hash": "0e5d21ec4841",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "要从长椅上的人身边经过时，轻声用西班牙语说一句“借过”即可。",
+  "at": "2026-10-22T17:00:47.051Z"
+ },
+ "zh/arequipa-santa-catalina-monastery": {
+  "hash": "22617c33c987",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "参观途中不妨留意以下几处：",
+  "at": "2026-10-22T17:00:48.152Z"
  }
 }
