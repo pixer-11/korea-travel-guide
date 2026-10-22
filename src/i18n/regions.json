@@ -13414,5 +13414,140 @@
       "getting": "惠斯勒本身没有机场或火车站：大多数游客会先飞抵温哥华国际机场（YVR），再沿99号公路——也就是著名的\"海天公路\"（Sea-to-Sky Highway）驱车或乘坐班车前往，车程约2到2.5小时。往返YVR与惠斯勒村之间的拼车和包车巴士全天都有班次；不过这里没有铁路可以直达。",
       "days": "建议至少安排3到4天：这样既能留出一两天滑雪或徒步，也能坐缆车往返两座山峰之间，还有时间悠闲地逛逛村子和附近的湖泊。"
     }
+  },
+  "Ahmedabad": {
+    "en": {
+      "blurb": "Ahmedabad is India's first UNESCO World Heritage City, its old quarter a dense tangle of carved wooden havelis, stepwells and pol houses along the Sabarmati River. It is also Gujarat's commercial engine, pairing centuries-old textile and craft traditions with a fast-growing skyline of business towers and research campuses.",
+      "getting": "Most travellers fly into Sardar Vallabhbhai Patel International Airport (AMD), located in the Hansol area a few kilometres from the city centre, or arrive by train at Ahmedabad Junction (station code ADI), the city's main rail hub on the Mumbai-Delhi line network. From either point, taxis and auto-rickshaws are the typical way into the city centre.",
+      "days": "Allow ~2 to 3 days to cover the old city's heritage walk, stepwells and riverfront, with an extra day if venturing out to nearby Gandhinagar or craft villages."
+    },
+    "ko": {
+      "blurb": "아마다바드는 인도 최초로 유네스코 세계문화유산 도시로 지정된 곳으로, 사바르마티 강을 따라 자리한 구시가지에는 정교하게 조각된 목조 저택(하벨리)과 계단식 우물, 그리고 '폴'이라 불리는 전통 가옥들이 촘촘히 얽혀 있습니다. 동시에 구자라트주 경제의 심장부이기도 해서, 수백 년을 이어온 직물과 공예 전통이 빠르게 솟아오르는 비즈니스 타워와 연구단지의 스카이라인과 공존하고 있습니다.",
+      "getting": "대부분의 여행객은 시내 중심에서 몇 킬로미터 떨어진 한솔 지역에 위치한 사르다르 발라브바이 파텔 국제공항(AMD)을 통해 입국하거나, 뭄바이-델리 노선의 주요 철도 허브인 아마다바드 정션역(역 코드 ADI)을 통해 기차로 도착합니다. 공항이나 기차역 어느 쪽에서든, 시내 중심까지는 보통 택시나 오토릭샤를 이용합니다.",
+      "days": "구시가지의 헤리티지 도보 코스와 계단식 우물, 강변 지역을 둘러보는 데는 2~3일 정도를 잡으시면 되고, 인근 간디나가르나 공예 마을까지 다녀오실 계획이라면 하루를 더 추가하시는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "アーメダバードはインド初のユネスコ世界遺産都市で、サバルマティ川沿いに広がる旧市街には、彫刻が施された木造ハヴェリ(邸宅)、階段井戸、ポル(路地状の集合住宅街)が複雑に入り組んでいます。同時にグジャラート州の経済を牽引する中心地でもあり、何世紀も受け継がれてきた織物や工芸の伝統と、急成長を遂げるビジネスタワーや研究施設が立ち並ぶスカイラインが共存しています。",
+      "getting": "多くの旅行者は、市中心部から数キロのハンソル地区にあるサルダール・ヴァッラブバーイー・パテール国際空港(AMD)を利用するか、ムンバイ・デリー間の鉄道網上にある市内の主要駅、アーメダバード・ジャンクション駅(駅コードADI)から列車で到着します。どちらの場合も、市中心部へはタクシーやオートリクシャーを利用するのが一般的です。",
+      "days": "旧市街のヘリテージウォーク、階段井戸、川沿いのリバーフロントを巡るには2~3日ほど見ておくとよいでしょう。近郊のガンディーナガルや工芸の村々まで足を延ばす場合は、さらに1日プラスするのがおすすめです。"
+    },
+    "es": {
+      "blurb": "Ahmedabad es la primera Ciudad Patrimonio de la Humanidad de la UNESCO en India, con un casco antiguo que es un entramado denso de havelis de madera tallada, pozos escalonados (stepwells) y pols a orillas del río Sabarmati. Es también el motor comercial de Guyarat, donde conviven tradiciones textiles y artesanales centenarias con un horizonte urbano en auge de torres corporativas y campus de investigación.",
+      "getting": "La mayoría de los viajeros llega en avión al Aeropuerto Internacional Sardar Vallabhbhai Patel (AMD), situado en la zona de Hansol, a pocos kilómetros del centro de la ciudad, o en tren a la estación de Ahmedabad Junction (código ADI), el principal nudo ferroviario de la ciudad dentro de la red de la línea Mumbai-Delhi. Desde cualquiera de los dos puntos, los taxis y los auto-rickshaws son la forma habitual de llegar al centro.",
+      "days": "Conviene reservar entre 2 y 3 días para recorrer la ruta patrimonial del casco antiguo, los pozos escalonados y el paseo fluvial, y sumar un día más si se quiere visitar la cercana Gandhinagar o los pueblos artesanos de los alrededores."
+    },
+    "zh": {
+      "blurb": "艾哈迈达巴德是印度首座被联合国教科文组织列入世界遗产名录的城市。沿着萨巴尔马蒂河蜿蜒而建的老城区,密密麻麻地分布着雕花精美的木质宅邸(haveli)、阶梯井以及传统社区民居(pol house)。与此同时,这里也是古吉拉特邦的商业引擎,将延续数百年的纺织与手工艺传统,与迅速崛起的商业大厦和科研园区天际线完美融合。",
+      "getting": "大多数旅客会飞抵萨达尔·瓦拉巴伊·帕特尔国际机场(AMD),该机场位于汉索尔(Hansol)地区,距市中心仅几公里;也有不少人选择乘火车抵达艾哈迈达巴德枢纽站(站点代码ADI),这是孟买-德里铁路线网络上的主要枢纽车站。无论从机场还是火车站出发,出租车和嘟嘟车(auto-rickshaw)都是前往市中心的常见交通方式。",
+      "days": "建议安排约2至3天时间,游览老城区的历史文化步道、阶梯井以及河滨风光;若还打算前往附近的甘地讷格尔(Gandhinagar)或手工艺村庄,则可再多留一天。"
+    }
+  },
+  "Buleleng": {
+    "en": {
+      "blurb": "Buleleng is Bali's quieter northern face, a long stretch of black-sand coast and highland villages centred on Singaraja, the island's old Dutch-era capital. Here the pace slows to dolphin-watching at dawn, cascading waterfalls inland, and temples and colonial architecture that see a fraction of the crowds found in the south.",
+      "getting": "There is no airport in Buleleng, so travellers fly into Ngurah Rai International Airport (DPS) in Denpasar and continue overland by private car, taxi or shuttle, a trip of roughly 2 to 2.5 hours depending on traffic and route over the central hills. Scheduled long-distance buses also run between the regional hub in Denpasar and Singaraja, though journey times can stretch well beyond the driving time.",
+      "days": "Plan on ~3-4 days to cover Lovina's beaches and dolphin trips, the waterfalls and hot springs of the interior, and Singaraja's old town at an unhurried pace."
+    },
+    "ko": {
+      "blurb": "불레렝은 발리의 조용한 북쪽 얼굴로, 검은 모래 해안이 길게 뻗어 있고 섬의 옛 네덜란드 식민지 시절 수도였던 싱아라자를 중심으로 고원 마을들이 자리하고 있습니다. 이곳에서는 새벽녘 돌고래 관찰, 내륙의 폭포들, 그리고 남부에 비해 관광객이 훨씬 적은 사원과 식민지풍 건축물들을 느긋하게 둘러볼 수 있습니다.",
+      "getting": "불레렝에는 공항이 없기 때문에 여행자는 덴파사르에 있는 응우라라이 국제공항(DPS)으로 입국한 뒤 자가용, 택시 또는 셔틀을 이용해 육로로 이동해야 하며, 중부 고지대를 지나는 경로와 교통 상황에 따라 대략 2~2.5시간 정도 소요됩니다. 덴파사르의 터미널과 싱아라자 사이를 운행하는 정기 장거리 버스도 있지만, 소요 시간은 직접 운전하는 것보다 훨씬 길어질 수 있습니다.",
+      "days": "로비나의 해변과 돌고래 투어, 내륙의 폭포와 온천, 그리고 싱아라자 구시가지를 여유롭게 둘러보려면 약 3~4일 정도를 계획하는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "ブレレン県は、バリ島の静かな北の顔ともいえるエリアで、黒砂の海岸線が延々と続く海辺から、オランダ統治時代の旧首都シンガラジャを中心とした高地の村々まで広がっています。ここでは時間がゆったりと流れ、夜明けのドルフィンウォッチングや、内陸部に流れ落ちる滝、そして南部ほど観光客で賑わうことのない寺院や植民地時代の建築を楽しむことができます。",
+      "getting": "ブレレンには空港がないため、旅行者はまずデンパサールのングラ・ライ国際空港(DPS)に到着し、そこから車・タクシー・シャトルバスなどで陸路を進みます。中央部の丘陵地帯を越えるルートで、交通状況にもよりますがおよそ2~2.5時間ほどかかります。デンパサールの主要バスターミナルとシンガラジャを結ぶ長距離バスも運行していますが、所要時間は車で行くよりもかなり長くなることがあります。",
+      "days": "ロヴィナのビーチとドルフィンウォッチング、内陸部の滝や温泉、そしてシンガラジャの旧市街をのんびり巡るには、3~4日ほど見ておくとよいでしょう。"
+    },
+    "es": {
+      "blurb": "Buleleng es la cara norte más tranquila de Bali, una larga franja de costa de arena negra y pueblos de montaña que gira en torno a Singaraja, la antigua capital de la isla en tiempos coloniales holandeses. Aquí el ritmo se relaja: avistamiento de delfines al amanecer, cascadas en el interior, y templos y arquitectura colonial que reciben solo una fracción de las multitudes que se ven en el sur.",
+      "getting": "Buleleng no tiene aeropuerto propio, así que los viajeros llegan por el Aeropuerto Internacional Ngurah Rai (DPS) en Denpasar y continúan por tierra en coche privado, taxi o shuttle, un trayecto de aproximadamente 2 a 2,5 horas según el tráfico y la ruta elegida por las colinas centrales. También circulan autobuses de larga distancia entre la terminal regional de Denpasar y Singaraja, aunque el tiempo de viaje puede alargarse bastante más que en coche.",
+      "days": "Calcula entre 3 y 4 días para recorrer con calma las playas de Lovina y sus excursiones para ver delfines, las cascadas y aguas termales del interior, y el casco antiguo de Singaraja."
+    },
+    "zh": {
+      "blurb": "北部的布莱伦是巴厘岛更为宁静的另一面：绵延的黑沙海岸与高地村落，围绕着荷兰殖民时期的旧首府——新加拉惹（Singaraja）展开。在这里，生活的节奏慢了下来——清晨出海看海豚，深入内陆探访层叠而下的瀑布，还有游客稀少的寺庙与殖民风格建筑，与南部的喧嚣人潮形成鲜明对比。",
+      "getting": "布莱伦本地没有机场，游客通常先飞抵登巴萨的伍拉·赖国际机场（DPS），再包车、打车或乘坐班车走陆路前往，翻越中部丘陵，车程视路况和路线约为2至2.5小时。登巴萨与新加拉惹之间也有长途班车往返，不过行程时间往往会比自驾时间长出不少。",
+      "days": "建议安排约3到4天的行程，从容游览罗维纳（Lovina）的海滩与出海看海豚活动、内陆地区的瀑布与温泉，以及新加拉惹的老城区，慢慢感受这里的节奏。"
+    }
+  },
+  "Denpasar": {
+    "en": {
+      "blurb": "Denpasar is Bali's bustling capital, where the island's provincial government, markets and museums sit just beyond the beach resorts most visitors head for. It is best known for its traditional markets and cultural sites such as the Bali Museum and the Bajra Sandhi Monument, offering a slice of everyday Balinese life away from the tourist strip.",
+      "getting": "Most travellers arrive via I Gusti Ngurah Rai International Airport (DPS), located around 13km south of the city near Tuban; Bali has no passenger rail network, so onward transfers into Denpasar are made by taxi, ride-hail or airport transfer, typically taking ~30 minutes depending on traffic.",
+      "days": "Allow ~1-2 days to cover Denpasar's main sights, such as its markets, temples and museums, before heading on to Bali's beach towns or cultural centres like Ubud."
+    },
+    "ko": {
+      "blurb": "덴파사르는 발리의 활기찬 주도로, 대부분의 여행객이 향하는 해변 리조트 너머에 발리 주정부 청사와 전통 시장, 박물관들이 자리하고 있다. 특히 전통 시장과 발리 박물관, 바즈라 산디 기념탑 같은 문화 명소로 잘 알려져 있어, 관광지 중심가를 벗어난 발리인들의 일상적인 삶을 엿볼 수 있는 곳이다.",
+      "getting": "대부분의 여행객은 투반 인근, 시내에서 남쪽으로 약 13km 떨어진 응우라라이 국제공항(DPS)을 통해 입국한다. 발리에는 여객 철도망이 없어 덴파사르 시내까지는 택시나 차량 호출 서비스, 공항 셔틀을 이용해야 하며, 교통 상황에 따라 다르지만 보통 약 30분 정도 소요된다.",
+      "days": "시장, 사원, 박물관 등 덴파사르의 주요 명소를 둘러보는 데는 1~2일 정도면 충분하며, 이후 발리의 해변 마을이나 우붓 같은 문화 중심지로 이동하는 일정을 짤 수 있다."
+    },
+    "ja": {
+      "blurb": "デンパサールはバリ島の活気あふれる州都で、多くの観光客が目指すビーチリゾートから少し離れた場所に、州政府機関や市場、博物館が集まっています。伝統的な市場や、バリ博物館、バジュラ・サンディ記念塔といった文化的名所で特に知られており、観光地を離れたバリ島民の日常の暮らしに触れることができます。",
+      "getting": "ほとんどの旅行者は、市街地の南約13km、トゥバン近郊に位置するイ・グスティ・ングラ・ライ国際空港(DPS)を利用して到着します。バリ島には旅客鉄道がないため、デンパサール市内へはタクシーや配車サービス、空港送迎サービスを利用することになり、交通状況にもよりますが所要時間は約30分程度です。",
+      "days": "市場や寺院、博物館といったデンパサールの主な見どころを巡るには、1~2日ほど見ておくとよいでしょう。その後は、バリ島のビーチタウンや、ウブドのような文化の中心地へと足を延ばすのがおすすめです。"
+    },
+    "es": {
+      "blurb": "Denpasar es la bullente capital de Bali, donde el gobierno provincial de la isla, sus mercados y museos se encuentran justo detrás de los complejos turísticos de playa que atraen a la mayoría de los visitantes. Es conocida sobre todo por sus mercados tradicionales y sitios culturales como el Museo de Bali y el Monumento Bajra Sandhi, que ofrecen una muestra de la vida cotidiana balinesa alejada del circuito turístico.",
+      "getting": "La mayoría de los viajeros llega a través del Aeropuerto Internacional I Gusti Ngurah Rai (DPS), situado a unos 13 km al sur de la ciudad, cerca de Tuban. Bali no cuenta con una red ferroviaria de pasajeros, por lo que el traslado hacia Denpasar se realiza en taxi, aplicaciones de transporte o servicios de traslado desde el aeropuerto, con una duración aproximada de 30 minutos según el tráfico.",
+      "days": "Se recomienda dedicar entre 1 y 2 días para recorrer los principales atractivos de Denpasar, como sus mercados, templos y museos, antes de continuar hacia las localidades de playa de Bali o centros culturales como Ubud."
+    },
+    "zh": {
+      "blurb": "登巴萨是巴厘岛热闹繁华的首府,岛上的行政机构、传统市场和各类博物馆都坐落在大多数游客扎堆的海滨度假区之外。这里以传统市场和文化景点闻名,比如巴厘博物馆和巴贾拉•桑蒂纪念碑,让人得以一窥远离旅游长廊的巴厘岛日常生活风貌。",
+      "getting": "大多数旅客会经由古斯蒂·古拉·雷国际机场(DPS)抵达,该机场位于市区以南约13公里处,靠近杜本(Tuban)。巴厘岛没有客运铁路网络,因此前往登巴萨市区通常需要搭乘出租车、网约车或机场接送服务,视路况而定,车程大约30分钟左右。",
+      "days": "建议安排1到2天的时间游览登巴萨的主要景点,比如当地的市场、寺庙和博物馆,之后再前往巴厘岛的海滨小镇或乌布等文化中心继续行程。"
+    }
+  },
+  "Hamilton": {
+    "en": {
+      "blurb": "Hamilton sits beneath the dramatic rise of the Niagara Escarpment, a steel city turned surprise outdoor playground with more waterfalls within its limits than almost anywhere else in Canada. Its gritty industrial core and revitalised downtown arts scene give it a rougher, more authentic edge than its polished neighbour Toronto.",
+      "getting": "Most travellers fly into Toronto Pearson (YYZ) and continue by road or rail, though Hamilton has its own small airport, John C. Munro Hamilton International (YHM), with limited scheduled flights. GO Transit trains on the Lakeshore West line connect Hamilton's West Harbour and downtown GO Centre stations to Toronto's Union Station, with onward buses and local HSR services linking the stations to the rest of the city.",
+      "days": "Plan on ~2-3 days to take in the downtown core, the escarpment's waterfalls and lookout points, and a side trip to the surrounding Hamilton Conservation Areas."
+    },
+    "ko": {
+      "blurb": "해밀턴은 나이아가라 에스카프먼트의 극적인 절벽 아래 자리한 도시로, 캐나다 그 어느 곳보다 많은 폭포를 품고 있는 뜻밖의 아웃도어 놀이터로 변신한 철강 도시다. 거친 산업 도시의 면모와 활기를 되찾은 다운타운 예술 신이 어우러져, 세련된 이웃 도시 토론토와는 또 다른, 더 투박하고 진솔한 매력을 풍긴다.",
+      "getting": "대부분의 여행자는 토론토 피어슨 공항(YYZ)으로 입국한 뒤 육로나 철도로 이동하지만, 해밀턴에도 존 C. 먼로 해밀턴 국제공항(YHM)이라는 소규모 공항이 있어 제한적으로 정기 항공편을 운항한다. GO 트랜짓의 레이크쇼어 웨스트 노선 열차는 해밀턴의 웨스트 하버역과 다운타운 GO 센터역을 토론토 유니언역과 연결하며, 이후 버스와 지역 HSR 서비스를 통해 시내 곳곳으로 이동할 수 있다.",
+      "days": "다운타운 중심가와 에스카프먼트의 폭포 및 전망 포인트를 둘러보고, 주변 해밀턴 보존 구역(Hamilton Conservation Areas)으로 당일치기 여행까지 다녀오려면 약 2~3일 정도를 계획하는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "ハミルトンは、ナイアガラ・エスカープメントが劇的にせり上がる麓に広がる街で、かつての鉄鋼都市が、カナダ国内でも屈指の数の滝を擁する意外なアウトドアの遊び場へと姿を変えた場所だ。無骨な工業都市としての顔と、活気を取り戻したダウンタウンのアートシーンが同居し、洗練された隣人トロントとは一線を画す、より荒削りで本物の味わいを放っている。",
+      "getting": "多くの旅行者はトロント・ピアソン空港(YYZ)に到着し、そこから陸路や鉄道でハミルトンへ向かう。ハミルトンには独自の小規模空港、ジョン・C・マンロー・ハミルトン国際空港(YHM)もあるが、定期便は限られている。GOトランジットのレイクショア・ウエスト線を利用すれば、ハミルトンのウェスト・ハーバー駅やダウンタウンのGOセンター駅からトロントのユニオン駅まで直結しており、そこからバスや地元のHSR(ハミルトン・ストリート・レールウェイ)が市内各所へのアクセスをつないでくれる。",
+      "days": "ダウンタウンの中心部、エスカープメント沿いの滝や展望スポット、そして周辺に点在するハミルトン自然保護区への小旅行まで満喫するなら、2〜3日ほどを見ておくとよい。"
+    },
+    "es": {
+      "blurb": "Hamilton se asienta al pie del imponente desnivel de la escarpa del Niágara, una ciudad de acero convertida en un sorprendente parque de aventuras al aire libre, con más cascadas dentro de sus límites que casi cualquier otro lugar de Canadá. Su núcleo industrial de carácter áspero y su escena artística revitalizada en el centro le dan un aire más crudo y auténtico que el de su pulida vecina, Toronto.",
+      "getting": "La mayoría de los viajeros llega en avión al aeropuerto de Toronto Pearson (YYZ) y continúa por carretera o tren, aunque Hamilton cuenta con su propio pequeño aeropuerto, el John C. Munro Hamilton International (YHM), con vuelos regulares limitados. Los trenes de GO Transit de la línea Lakeshore West conectan las estaciones de West Harbour y el GO Centre del centro de Hamilton con la estación Union de Toronto, y desde allí autobuses y los servicios locales de HSR enlazan las estaciones con el resto de la ciudad.",
+      "days": "Calcula entre 2 y 3 días para recorrer el centro de la ciudad, las cascadas y miradores de la escarpa, y hacer una excursión a las áreas de conservación que rodean Hamilton."
+    },
+    "zh": {
+      "blurb": "汉密尔顿坐落于尼亚加拉悬崖壮丽的崖壁之下,这座曾经以钢铁业闻名的城市如今摇身一变,成了令人惊喜的户外天堂——境内瀑布数量之多,在加拿大几乎无出其右。粗犷的工业底色与蓬勃复兴的市中心艺术氛围,让它比光鲜亮丽的邻居多伦多多了几分粗粝与真实。",
+      "getting": "大多数游客会先飞抵多伦多皮尔逊机场(YYZ),再转乘陆路或铁路前往汉密尔顿;不过汉密尔顿本身也有一座小型机场——约翰·C·芒罗汉密尔顿国际机场(YHM),提供有限的定期航班。GO Transit 的 Lakeshore West 线火车可将汉密尔顿的西港站(West Harbour)和市中心的 GO Centre 站与多伦多的联合车站(Union Station)连接起来,再搭配后续的巴士和当地的 HSR 公交系统,即可通达城市其他各处。",
+      "days": "建议安排约2-3天时间,游览市中心核心区、悬崖沿线的瀑布与观景点,并不妨抽空前往周边的汉密尔顿保护区(Hamilton Conservation Areas)走一走。"
+    }
+  },
+  "Tianzhong": {
+    "en": {
+      "blurb": "Tianzhong is a quiet agricultural township in eastern Changhua County, its very name recalling its origins \"in the center of rice paddies\" amid Taiwan's central plain. Beyond its working rice fields and traditional markets, the town retains a slower, rural rhythm rarely seen by visitors who stick to Taiwan's larger coastal cities.",
+      "getting": "Tianzhong is served directly by its own TRA station on the Western Trunk Line, with regular local and express trains linking it to Changhua and other west coast cities. Travellers arriving by High Speed Rail can reach Tianzhong via connecting shuttle services from Changhua HSR Station, around a ~15-20 minute ride.",
+      "days": "A half to full day is enough to cover Tianzhong's rice-paddy scenery, local temples and traditional market streets at an easy pace."
+    },
+    "ko": {
+      "blurb": "톈중(田中)은 창화현 동부에 자리한 조용한 농촌 소도시로, 그 지명 자체가 대만 중부 평야의 \"논 한가운데\"라는 유래를 담고 있다. 지금도 논농사가 이어지는 들판과 전통 시장을 벗어나면, 대만의 대도시나 해안 도시를 찾는 여행객들은 좀처럼 접하기 힘든 느긋한 농촌의 생활 리듬이 이곳에 그대로 남아 있다.",
+      "getting": "톈중에는 종관선(西部幹線) 위에 자체 TRA 기차역이 있어, 일반 열차와 급행 열차가 수시로 창화를 비롯한 서부 해안 도시들과 이곳을 이어준다. 고속철도(HSR)로 오는 여행객이라면 창화 HSR역에서 연계 셔틀을 타고 약 15~20분 정도면 톈중에 도착할 수 있다.",
+      "days": "반나절에서 하루 정도면 논밭 풍경과 지역 사원들, 전통 시장 거리를 여유롭게 둘러보기에 충분하다."
+    },
+    "ja": {
+      "blurb": "田中（てんちゅう）は彰化県東部に位置する、のどかな農業の町です。その名の由来は、台湾中部平野の「田んぼの中心」にあったことに遡ります。現役の水田や昔ながらの市場が広がるこの町には、台湾沿岸部の大都市を巡るだけの旅行者にはなかなか出会えない、ゆったりとした田舎の時間が今も息づいています。",
+      "getting": "田中には台鉄・縦貫線の田中駅があり、彰化をはじめとする西海岸の都市との間を普通列車や急行列車が頻繁に行き来しています。高速鉄道で訪れる場合は、彰化高鉄駅から連絡シャトルバスを利用すれば、田中まで約15～20分で到着します。",
+      "days": "田中の見どころを巡るなら半日から1日あれば十分です。のんびりとした足取りで、田園風景や地元の寺院、昔ながらの市場通りを楽しむことができます。"
+    },
+    "es": {
+      "blurb": "Tianzhong es un tranquilo municipio agrícola en el este del condado de Changhua, cuyo propio nombre evoca sus orígenes \"en medio de los arrozales\", en pleno corazón de la llanura central de Taiwán. Más allá de sus campos de arroz en plena actividad y sus mercados tradicionales, el pueblo conserva un ritmo rural pausado que rara vez conocen los viajeros que se limitan a las grandes ciudades costeras de Taiwán.",
+      "getting": "Tianzhong cuenta con su propia estación de la TRA en la Línea Troncal Occidental, con trenes locales y expresos frecuentes que la conectan con Changhua y otras ciudades de la costa oeste. Quienes lleguen en Tren de Alta Velocidad pueden llegar a Tianzhong mediante los servicios de enlace (shuttle) desde la estación de Changhua HSR, en un trayecto de unos 15-20 minutos.",
+      "days": "Con medio día o un día completo es suficiente para recorrer con calma los paisajes de arrozales de Tianzhong, sus templos locales y sus calles de mercado tradicionales."
+    },
+    "zh": {
+      "blurb": "田中是彰化县东部一个宁静的农业小镇，其名称本身就源自它坐落于台湾中部平原\"稻田之中\"的地理位置。除了仍在耕作的稻田与传统市场之外，小镇还保留着一种悠缓的乡村节奏，这是只在台湾沿海大城市间穿梭的游客很少能体会到的。",
+      "getting": "田中设有自己的台铁车站，位于纵贯线上，区间车与自强号等列车皆有停靠，往来彰化及西部沿海各城市十分便利。若搭乘高铁抵达，旅客可在彰化高铁站转乘接驳车前往田中，车程约15至20分钟。",
+      "days": "安排半天到一天的时间，便足以悠闲地游览田中的稻田风光、在地庙宇与传统市场街道。"
+    }
   }
 }
