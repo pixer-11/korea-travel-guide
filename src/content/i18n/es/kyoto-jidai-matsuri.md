@@ -1,78 +1,80 @@
 ---
 lang: es
 slug: kyoto-jidai-matsuri
-srcHash: '1343ab268733'
-title: 'Jidai Matsuri: fechas, entradas y recorrido (Kioto)'
-description: El Jidai Matsuri de Kioto, Japón, se celebra el 22 de octubre de 2026. Qué es, cuándo y dónde se celebra, y cómo organizar el día en torno a él.
-quickAnswer: El Jidai Matsuri 2026 de Kioto está programado para el 22 de octubre de 2026, con el desfile discurriendo desde el Palacio Imperial hasta el santuario Heian (Heian Shrine). A lo largo del recorrido (Karasuma-dori, Oike-dori, Kawaramachi-dori) hay tramos gratuitos para verlo de pie; cerca del punto de salida se vende, por separado, asiento reservado de pago. Conviene confirmar el horario y las entradas en la web oficial antes de planificar la jornada.
+srcHash: '60630e164cf3'
+title: 'Jidai Matsuri de Kioto: fechas, entradas y lugar'
+description: La fecha fijada para el Jidai Matsuri 2026 de Kioto (Japón) era el 22 de octubre de 2026, con un desfile que iba del Palacio Imperial al Santuario Heian.
+quickAnswer: La fecha anunciada para el Jidai Matsuri 2026 de Kioto era el 22 de octubre de 2026. El desfile salía del Palacio Imperial y terminaba en el Santuario Heian. Por Karasuma-dori, Oike-dori y Kawaramachi-dori hay numerosos puntos desde donde verlo gratis, y cerca de la salida se vendían aparte asientos reservados de pago.
 faq:
-  - q: ¿Cuáles son las fechas del Jidai Matsuri 2026?
-    a: El desfile está programado para el 22 de octubre de 2026 y discurre desde los terrenos del Palacio Imperial de Kioto hasta el santuario Heian. Conviene confirmar el horario en la web oficial, ya que en años anteriores ha habido cambios de fecha por motivos meteorológicos.
+  - q: ¿Qué fechas tenía el Jidai Matsuri 2026?
+    a: El desfile estaba programado para el 22 de octubre de 2026 y recorría el trayecto entre los jardines del Palacio Imperial de Kioto y el Santuario Heian. En años anteriores el mal tiempo ha obligado a cambiar la fecha.
   - q: ¿Hace falta entrada para ver el Jidai Matsuri?
-    a: No hace falta entrada para verlo de pie a lo largo de la mayor parte del recorrido, en Karasuma-dori, Oike-dori y Kawaramachi-dori. Cerca del punto de salida hay asiento reservado de pago, tipo grada, que se puede adquirir a través de la Asociación de Turismo de la Ciudad de Kioto para quienes prefieran sentarse.
-  - q: ¿Qué estación conviene usar para llegar al desfile?
-    a: Para el punto de salida, cerca del Palacio Imperial, conviene usar la estación de Marutamachi o Imadegawa, en la línea de metro Karasuma. Para el final del recorrido, en el santuario Heian, conviene usar la estación de Higashiyama o Jingu-Marutamachi, en la línea Tozai.
+    a: En la mayor parte del recorrido, por Karasuma-dori, Oike-dori y Kawaramachi-dori, el desfile puede verse de pie sin entrada. La Asociación de Turismo de la Ciudad de Kioto vendía asientos reservados de pago en gradas situadas cerca de la salida.
+  - q: ¿Qué estación queda más cerca del desfile?
+    a: Junto a la salida, cerca del Palacio Imperial, se encuentran las estaciones de Marutamachi e Imadegawa, de la línea de metro Karasuma. Para la llegada, en el Santuario Heian, las más próximas son Higashiyama y Jingu-Marutamachi, de la línea Tozai.
   - q: ¿Cuánto dura el desfile?
-    a: El desfile completo dura varias horas, desde media mañana hasta primera hora de la tarde, pero la mayoría de los visitantes lo ve desde un mismo punto durante una o dos horas en lugar de seguir todo el recorrido.
-  - q: ¿Qué más se puede hacer cerca después del desfile?
-    a: El santuario Heian se encuentra justo en el punto final del recorrido, y la zona de Okazaki que lo rodea cuenta con paseos junto al canal y museos, entre ellos el Museo Municipal de Arte de Kioto, por lo que resulta fácil aprovechar el resto de la tarde en esta zona.
+    a: La comitiva completa suele tardar varias horas en pasar, desde media mañana hasta primera hora de la tarde. La mayoría del público no sigue todo el trayecto. Lo habitual es quedarse en un mismo sitio durante una o dos horas.
+  - q: ¿Qué más se puede hacer en la zona después del desfile?
+    a: El Santuario Heian se alza justo en la meta. A su alrededor, el barrio de Okazaki ofrece paseos junto al canal y varios museos, entre ellos el Museo Municipal de Arte de Kioto. Todo ello permite completar la tarde sin esfuerzo.
 ---
 
-Kioto celebra tres grandes festivales al año, y el Jidai Matsuri es el que convierte sus calles en un libro de historia viviente. El 22 de octubre de 2026, cerca de dos mil personas disfrazadas recorren la ciudad desde los antiguos terrenos del Palacio Imperial hasta el santuario Heian; cada tramo de la marcha representa una época distinta de la historia japonesa, en orden cronológico inverso, desde la Restauración Meiji hasta el siglo VIII.
+De los tres grandes festivales que Kioto celebra cada año, el Jidai Matsuri es el que convierte sus calles en un libro de historia en movimiento. La edición de 2026 tenía como fecha el 22 de octubre. Por tradición, unas dos mil personas vestidas de época recorren la ciudad desde los antiguos jardines del Palacio Imperial hasta el Santuario Heian.
 
-Esa estructura es lo que distingue a este desfile de uno genérico. Aquí no se contempla un espectáculo de carrozas temáticas, sino la propia visión que Kioto tiene de su historia, puesta en escena por asociaciones de barrio que llevan haciéndolo desde 1895.
+Cada bloque de la comitiva encarna una etapa distinta de la historia japonesa. El orden es cronológico inverso: se parte de la Restauración Meiji y se retrocede hasta el siglo VIII.
 
-## Lo que muestra realmente el desfile
+Esa estructura lo distingue de cualquier desfile convencional. Aquí no hay carrozas temáticas. Lo que se ve es la propia visión que Kioto tiene de su historia, puesta en escena por asociaciones vecinales que mantienen la tradición desde 1895.
 
-El cortejo se organiza en unos veinte grupos, cada uno centrado en un período histórico.
+## Qué se ve realmente en el desfile
 
-- La marcha se abre con la guardia imperial de la era Meiji y los partidarios de la Restauración
-- Le siguen señores feudales del período Edo, junto con samuráis vasallos y sus séquitos
-- Después aparecen los señores de la guerra de los períodos Momoyama y Azuchi, con armaduras asociadas a Oda Nobunaga y Toyotomi Hideyoshi
-- A continuación, la vestimenta cortesana y guerrera de los períodos Muromachi y Kamakura
-- Y por último la nobleza del período Heian, con una recreación de la corte de la dama Murasaki Shikibu
+La comitiva se divide en una veintena de grupos, cada uno dedicado a un periodo histórico.
 
-Dos palanquines sagrados (mikoshi), que portan los espíritus de los emperadores Kanmu y Komei —fundador y último emperador de Kioto, respectivamente—, cierran el núcleo religioso del acto. Los trajes, las armaduras y los peinados no se alquilan en una casa de disfraces, sino que gremios locales de tejido y artesanía los investigan y recrean, y por eso Kioto considera este desfile tanto un archivo vivo como un espectáculo.
+- Abren la marcha la guardia imperial de la era Meiji y los leales a la Restauración
+- Señores feudales del periodo Edo, con sus samuráis y su séquito
+- Caudillos de las épocas Azuchi y Momoyama, con armaduras asociadas a Oda Nobunaga y Toyotomi Hideyoshi
+- Indumentaria cortesana y guerrera de los periodos Muromachi y Kamakura
+- La nobleza del periodo Heian, con una recreación de la corte de la dama Murasaki Shikibu
 
-## Cómo llegar y seguir el recorrido
+El núcleo religioso del festival lo cierran dos santuarios portátiles (mikoshi) que llevan los espíritus de los emperadores Kanmu y Komei, el fundador de Kioto como capital y el último que reinó en ella. Los gremios textiles y artesanos de la ciudad investigan y reconstruyen trajes, armaduras y peinados, que no se alquilan a ninguna empresa de vestuario. Por eso Kioto considera este desfile tanto un archivo vivo como un espectáculo.
 
-El desfile comienza cerca del Palacio Imperial de Kioto (Kyoto Gyoen), avanza por Karasuma-dori, gira hacia Oike-dori, continúa por Kawaramachi-dori y termina en el santuario Heian, en la zona de Okazaki.
+## Cómo llegar y cómo entender el recorrido
 
-- Estaciones más cercanas al inicio: Marutamachi o Imadegawa (línea Karasuma)
-- Estaciones más cercanas al final: Higashiyama o Jingu-Marutamachi (línea Tozai)
-- Es fácil desplazarse a pie entre distintos puntos de observación por Oike-dori o Kawaramachi-dori, ya que el recorrido discurre en línea prácticamente recta por el centro de Kioto
+El desfile arranca cerca del Palacio Imperial de Kioto (Kyoto Gyoen) y baja por Karasuma-dori. Después gira por Oike-dori, sigue por Kawaramachi-dori y termina en el Santuario Heian, en el barrio de Okazaki.
 
-La mayoría de los espectadores elige un punto fijo del recorrido en lugar de seguir el desfile, ya que este avanza a paso de marcha durante varias horas y las calles laterales se llenan enseguida a su paso.
+- Estaciones más cercanas a la salida: Marutamachi o Imadegawa (línea Karasuma)
+- Estaciones más cercanas a la llegada: Higashiyama o Jingu-Marutamachi (línea Tozai)
+- Como el trayecto atraviesa el centro de Kioto casi en línea recta, resulta sencillo desplazarse a pie entre los distintos puntos de Oike-dori o Kawaramachi-dori
 
-## Ver gratis o reservar asiento
+La mayoría del público se queda en un punto fijo del recorrido en lugar de seguir a la comitiva. Esta avanza al paso durante varias horas, y las calles laterales se llenan enseguida en cuanto ha pasado.
 
-La mayor parte del recorrido puede verse de pie sin coste alguno: basta con buscar un lugar junto a la acera en Karasuma-dori, Oike-dori o Kawaramachi-dori y esperar.
+## Ver el desfile gratis o en asientos reservados
 
-El asiento reservado de pago, gestionado a través de la Asociación de Turismo de la Ciudad de Kioto, se vende para tramos más cercanos al inicio del recorrido, normalmente en forma de gradas con buena visibilidad. Merece la pena si se prefiere estar sentado en lugar de de pie durante un par de horas, o si se viaja con personas que se cansan con facilidad.
+En casi todo el recorrido, verlo de pie no cuesta nada. Basta con buscar un hueco en la acera de Karasuma-dori, Oike-dori o Kawaramachi-dori y esperar.
 
-Conviene confirmar el horario y las entradas en la web oficial, ya que los detalles del asiento reservado y las horas exactas de inicio los fija la organización cada año y no deben darse por supuestos a partir del calendario del año anterior.
+En los tramos próximos a la salida se vendían asientos reservados de pago, gestionados por la Asociación de Turismo de la Ciudad de Kioto. Suelen ser gradas con buena visibilidad. Resultan prácticos para quien prefiere pasar sentado un par de horas en lugar de estar de pie, o para grupos con personas que se cansan con facilidad.
 
-## El ritual de salida Kurumayose
+Los organizadores fijan cada año las condiciones de los asientos reservados y la hora exacta de salida, de modo que pueden variar de una edición a otra.
 
-Antes de que comience el desfile principal, tiene lugar una ceremonia más pequeña y tranquila que merece la pena conocer: el Kurumayose, en el que los mikoshi imperiales son despedidos formalmente desde los terrenos del Kyoto Gyoen mediante ritos sintoístas. Convoca a un público mucho más reducido que el propio recorrido del desfile, sobre todo familias locales y feligreses del santuario, y permite observar de cerca y sin prisas a los sacerdotes y al personal del santuario antes de que el cortejo disfrazado tome las calles. Para quien llegue temprano, este es el momento que recompensa la paciencia.
+## El Kurumayose, el rito de partida
+
+Antes de que comience el desfile principal tiene lugar el Kurumayose, una ceremonia más pequeña y recogida. En ella, los mikoshi imperiales reciben una despedida formal con ritos sintoístas en los jardines del Kyoto Gyoen. Atrae a mucho menos público que el recorrido, sobre todo a familias de la ciudad y feligreses del santuario. Permite ver de cerca y sin prisas a los sacerdotes y al personal del santuario antes de que la comitiva de época tome las calles, y es el momento de la jornada que más recompensa la paciencia.
 
 ## Clima, horarios y cuánto tiempo quedarse
 
-A finales de octubre, Kioto se encuentra entre el último calor otoñal y el inicio del frío propiamente dicho, así que las mañanas pueden ser templadas y las tardes refrescar en cuanto el sol se oculta tras las colinas. El desfile en sí dura varias horas, desde media mañana hasta primera hora de la tarde, pero no hace falta verlo entero desde un mismo punto.
+A finales de octubre, Kioto se encuentra entre los últimos calores del otoño y la llegada del fresco de verdad. Las mañanas pueden ser templadas, y por la tarde se levanta a veces la brisa cuando el sol se oculta tras las colinas. El desfile suele durar varias horas, desde media mañana hasta primera hora de la tarde, pero nadie necesita verlo entero desde el mismo sitio.
 
-La mayoría de los visitantes calcula entre una y dos horas: tiempo suficiente para ver pasar una muestra representativa de las distintas épocas, hacer fotografías y retirarse antes de que se complique el contexto de la multitud. Si el santuario Heian es la prioridad, conviene llegar allí a primera hora de la tarde en lugar de al inicio del desfile, ya que los grupos históricos más antiguos son los que más tardan en llegar al final del recorrido.
+La mayoría de los visitantes se queda entre una y dos horas. Es tiempo suficiente para ver pasar una muestra representativa de épocas, hacer fotografías y retirarse antes de que se acumule más gente. La comitiva no llega al Santuario Heian hasta primera hora de la tarde, porque los primeros grupos históricos son los que más tardan en alcanzar la meta.
 
-## Cómo integrarse junto a la calzada
+## Integrarse entre el público
 
-Los habitantes de Kioto viven el Jidai Matsuri como una cita otoñal habitual y no como una novedad, por lo que las normas no escritas junto a la calzada son discretas.
+Para los vecinos de Kioto, el Jidai Matsuri es una cita habitual del otoño y no una novedad, así que las normas de cortesía junto a la calzada son discretas.
 
-- Los taburetes plegables o las sillas portátiles son habituales entre los vecinos que ocupan un sitio en la acera con antelación; a nadie le importa que se lleve uno
-- Los tramos situados justo delante de tiendas o portones privados suelen estar reservados de manera informal por los habituales de la zona, así que es de buena educación buscar un espacio libre en la acera en lugar de apretujarse junto a un grupo ya instalado
-- Se puede fotografiar sin problema, pero está mal visto adentrarse en la calzada para acercarse más, y los responsables del evento apostados a lo largo del recorrido lo vigilan
-- Los puestos ambulantes y las tiendas de conveniencia cercanas venden bebidas y aperitivos, así que no hace falta llevar una comida completa, solo algo para ir bebiendo mientras se espera
+- Muchos vecinos llevan taburetes plegables o sillas portátiles para guardar pronto su sitio en la acera, y a nadie le molesta que un visitante haga lo mismo
+- Los habituales suelen ocupar de manera informal los tramos situados frente a tiendas o portones privados, por lo que lo educado es buscar un hueco libre en lugar de apretujarse junto a un grupo ya instalado
+- Se pueden hacer fotos, pero no está bien visto bajar a la calzada para acercarse, y los responsables de seguridad apostados a lo largo del recorrido lo vigilan
+- En los puestos y tiendas de conveniencia de los alrededores se venden bebidas y tentempiés, así que los vecinos rara vez llevan una comida completa y se conforman con algo de beber durante la espera
 
-En toda la zona se puede pagar tanto en efectivo como con tarjetas IC de transporte, y no existe ningún coste adicional por presenciar el desfile de pie en los tramos gratuitos del recorrido.
+En toda la zona se paga indistintamente en efectivo o con tarjetas de transporte IC, y no se cobra nada por ver el desfile de pie en los tramos gratuitos.
 
-## Cómo combinarlo con el resto de Kioto ese mismo día
+## Aprovechar el resto del día en Kioto
 
-Como el recorrido pasa justo por delante del santuario Heian, muchos visitantes aprovechan el final del desfile para comenzar allí mismo la tarde: su torii bermellón y su patio de grava quedan a poca distancia a pie del punto final. La zona de Okazaki que rodea el santuario cuenta además con paseos junto al canal y museos, entre ellos el Museo Municipal de Arte de Kioto, una parada lógica una vez que la multitud empieza a dispersarse en Kawaramachi-dori.
+Como el recorrido pasa junto al Santuario Heian, muchos visitantes aprovechan el final del desfile para dedicar la tarde al propio santuario. Su torii bermellón y su patio de grava quedan a pocos pasos de la meta. El barrio de Okazaki, que lo rodea, ofrece además paseos junto al canal y museos como el Museo Municipal de Arte de Kioto, una buena parada para cuando empieza a dispersarse la multitud de Kawaramachi-dori.

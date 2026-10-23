@@ -1210,6 +1210,12 @@
   "reason": "publish gate: Exterior view of Arequipa Cathedral, representative hero shot",
   "at": "2026-10-22T14:52:35.382Z"
  },
+ "arequipa-plaza-de-armas-arequipa\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Arequipa_-_Plaza_de_Armas_-_panoramio_%281%29.jpg/3840px-Arequipa_-_Plaza_de_Armas_-_panoramio_%281%29.jpg": {
+  "slug": "arequipa-plaza-de-armas-arequipa",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows fountain, colonial arcades, plaza matching Arequipa's Plaza de Armas",
+  "at": "2026-10-23T08:12:40.467Z"
+ },
  "arequipa-santa-catalina-monastery\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Santa_Catalina_Monastery%2C_Arequipa_-_53032077180.jpg/1920px-Santa_Catalina_Monastery%2C_Arequipa_-_53032077180.jpg": {
   "slug": "arequipa-santa-catalina-monastery",
   "verdict": "MATCH",
@@ -1927,6 +1933,24 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows waterfall and surroundings consistent with Bow Falls, Banff",
   "at": "2026-10-22T14:55:56.395Z"
+ },
+ "banff-buffalo-nations-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Entrance_--_Buffalo_Nations_Luxton_Museum_Banff%2C_Alberta_%28Canada%29_September_2019_%2849279086353%29.jpg/3840px-Entrance_--_Buffalo_Nations_Luxton_Museum_Banff%2C_Alberta_%28Canada%29_September_2019_%2849279086353%29.jpg": {
+  "slug": "banff-buffalo-nations-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Entrance with museum signage, representative hero shot",
+  "at": "2026-10-23T08:11:54.247Z"
+ },
+ "banff-cascade-of-time-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Mount_Rundle_Cascades_of_Time_Garden.jpg/3840px-Mount_Rundle_Cascades_of_Time_Garden.jpg": {
+  "slug": "banff-cascade-of-time-garden",
+  "verdict": "MATCH",
+  "reason": "publish gate: Garden pond, gazebo, and mountain view in Banff",
+  "at": "2026-10-23T08:11:54.306Z"
+ },
+ "banff-the-whyte\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Whyte_Museum_of_the_Canadian_Rockies_Banff.jpg/3840px-Whyte_Museum_of_the_Canadian_Rockies_Banff.jpg": {
+  "slug": "banff-the-whyte",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of The Whyte building in Banff setting",
+  "at": "2026-10-23T08:11:54.134Z"
  },
  "bangkok-808-festival-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BITEC.JPG/1920px-BITEC.JPG": {
   "slug": "bangkok-808-festival-2026",
@@ -6425,6 +6449,12 @@
   "reason": "publish gate: Panoramic view of Plaza de Armas with church and mountains",
   "at": "2026-10-22T14:51:04.211Z"
  },
+ "christchurch-air-force-museum-of-new-zealand\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/RNZAFmuseumwigram.jpg/1920px-RNZAFmuseumwigram.jpg": {
+  "slug": "christchurch-air-force-museum-of-new-zealand",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of museum building, representative hero shot",
+  "at": "2026-10-23T08:11:54.215Z"
+ },
  "christchurch-barnett-park-cave\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Barnett_Park_Cave_2025_view.jpg/3840px-Barnett_Park_Cave_2025_view.jpg": {
   "slug": "christchurch-barnett-park-cave",
   "verdict": "MATCH",
@@ -6442,6 +6472,18 @@
   "verdict": "MATCH",
   "reason": "publish gate: Garden pond with trees, plausible botanic garden scene",
   "at": "2026-10-20T14:47:55.050Z"
+ },
+ "christchurch-new-zealand-world-peace-bell\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/World_Peace_Bell%2C_Christchurch_Botanic_Gardens%2C_Canterbury%2C_New_Zealand.jpg/3840px-World_Peace_Bell%2C_Christchurch_Botanic_Gardens%2C_Canterbury%2C_New_Zealand.jpg": {
+  "slug": "christchurch-new-zealand-world-peace-bell",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows canopy structure with bell, matching landmark description",
+  "at": "2026-10-23T08:11:54.277Z"
+ },
+ "christchurch-riccarton-house-and-bush\u0001https://upload.wikimedia.org/wikipedia/commons/8/85/Riccarton_House_Christchurch._%289581176642%29.jpg": {
+  "slug": "christchurch-riccarton-house-and-bush",
+  "verdict": "MATCH",
+  "reason": "publish gate: Victorian homestead exterior, representative of Riccarton House",
+  "at": "2026-10-23T08:13:16.727Z"
  },
  "chuncheon-1-5-dakgalbi\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Dakgalbi.jpg/1920px-Dakgalbi.jpg": {
   "slug": "chuncheon-1-5-dakgalbi",
@@ -6798,6 +6840,18 @@
   "verdict": "MATCH",
   "reason": "publish gate: Exterior of Margaritaville Cozumel with signage and patrons",
   "at": "2026-10-05T16:26:27.311Z"
+ },
+ "cusco-orellana-pumaqchupan-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Parque_Orellana_Pumaqchupan_-_Cusco_-_Peru_-_street_bench.jpg/3840px-Parque_Orellana_Pumaqchupan_-_Cusco_-_Peru_-_street_bench.jpg": {
+  "slug": "cusco-orellana-pumaqchupan-park",
+  "verdict": "MATCH",
+  "reason": "publish gate: Park scene with benches, grass, trees, representative of plaza",
+  "at": "2026-10-23T08:13:16.809Z"
+ },
+ "cusco-qorikancha\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Qorikancha_-_Cusco_-_panoramio.jpg/3840px-Qorikancha_-_Cusco_-_panoramio.jpg": {
+  "slug": "cusco-qorikancha",
+  "verdict": "MATCH",
+  "reason": "publish gate: Qorikancha exterior with Inca walls and church, Cusco",
+  "at": "2026-10-23T08:13:16.761Z"
  },
  "cusco-saqsaywaman\u0001https://upload.wikimedia.org/wikipedia/commons/7/75/Saqsaywaman%2C_cusco%2C_peru_-_panoramio_%281%29.jpg": {
   "slug": "cusco-saqsaywaman",
@@ -15468,6 +15522,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Mountain pass landscape with lake, consistent with Sentinel Pass",
   "at": "2026-10-21T13:29:32.083Z"
+ },
+ "lake-tekapo-lake-tekapo\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/LakeTekapoNov242024_05.jpg/1920px-LakeTekapoNov242024_05.jpg": {
+  "slug": "lake-tekapo-lake-tekapo",
+  "verdict": "MATCH",
+  "reason": "publish gate: Turquoise lake with mountains, representative of Lake Tekapo",
+  "at": "2026-10-23T08:11:54.176Z"
  },
  "lake-tekapo-steampunk-hq\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Steampunk_engine_in_front_of_Steampunk_HQ.jpg/1920px-Steampunk_engine_in_front_of_Steampunk_HQ.jpg": {
   "slug": "lake-tekapo-steampunk-hq",

@@ -36644,13 +36644,6 @@
   "worst": "이렇게 눈에 잘 띄지 않는다는 점이 방문객에게는 오히려 장점입니다.",
   "at": "2026-10-19T16:03:33.975Z"
  },
- "ko/dallas-boynextdoor-knock-on-vol-2-tour": {
-  "hash": "55305db8e603",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "확인된 정보에 공연장이 포함되어 있지 않아 공연장 이름은 밝히지 않으며, 추측으로 특정 장소를 적지도 않습니다.",
-  "at": "2026-10-19T16:03:46.173Z"
- },
  "ko/chennai-wta-chennai-open": {
   "hash": "736294960ece",
   "score": 1,
@@ -37266,5 +37259,89 @@
   "registerBreak": false,
   "worst": "参观途中不妨留意以下几处：",
   "at": "2026-10-22T17:00:48.152Z"
+ },
+ "es/arequipa-plaza-de-armas-arequipa": {
+  "hash": "3581e6cb80d5",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Al ser un espacio público, Google indica que la plaza está abierta a cualquier hora.",
+  "at": "2026-10-23T08:17:46.872Z"
+ },
+ "es/banff-buffalo-nations-museum": {
+  "hash": "81471f728a17",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "11am a 5pm... en fin de semana no encontrará ningún momento tranquilo.",
+  "at": "2026-10-23T08:17:48.198Z"
+ },
+ "es/banff-cascade-of-time-garden": {
+  "hash": "e02852f2002b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "déjeles mucho espacio y no les dé de comer.",
+  "at": "2026-10-23T08:17:49.250Z"
+ },
+ "ja/arequipa-plaza-de-armas-arequipa": {
+  "hash": "1e91e3da2807",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "ペルーでもこうしたカテドラルはあまり例がありません。",
+  "at": "2026-10-23T08:17:50.588Z"
+ },
+ "ja/banff-buffalo-nations-museum": {
+  "hash": "ff5bbe01e690",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "11amより前に行く計画は立てないようにしましょう。",
+  "at": "2026-10-23T08:17:55.496Z"
+ },
+ "ja/banff-cascade-of-time-garden": {
+  "hash": "181efd25cc7e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "石組みや配置はその時代のもので、現代のリゾートのような造りとは異なります。",
+  "at": "2026-10-23T08:18:01.947Z"
+ },
+ "ko/arequipa-plaza-de-armas-arequipa": {
+  "hash": "3853036ac01a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "광장은 공공장소여서 구글에는 24시간 개방으로 나와 있습니다.",
+  "at": "2026-10-23T08:18:05.190Z"
+ },
+ "ko/banff-buffalo-nations-museum": {
+  "hash": "8b6fed47bf7b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "두세 세대 전 밴프가 방문객에게 원주민의 삶을 어떤 식으로 보여 주었는지 엿볼 수 있기 때문입니다.",
+  "at": "2026-10-23T08:18:10.352Z"
+ },
+ "ko/banff-cascade-of-time-garden": {
+  "hash": "2707f7d7d471",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이렇게 짧은 거리는 차를 모는 것보다 걷거나 롬 트랜짓(Roam Transit)을 타는 편이 대개 낫습니다.",
+  "at": "2026-10-23T08:18:11.803Z"
+ },
+ "zh/arequipa-plaza-de-armas-arequipa": {
+  "hash": "d1e4583c3a5f",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "城市海拔约2,335米，比库斯科温和不少。但如果你刚从沿海飞过来，爬楼梯去咖啡馆阳台时还是要放慢脚步。",
+  "at": "2026-10-23T08:18:12.943Z"
+ },
+ "zh/banff-buffalo-nations-museum": {
+  "hash": "f332a5364c24",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "与其说这是一座现代互动式博物馆，不如说它保留着上世纪中叶的展陈风貌。",
+  "at": "2026-10-23T08:18:14.025Z"
+ },
+ "zh/banff-cascade-of-time-garden": {
+  "hash": "e1b875e2911d",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "这些石径展现了大地在岁月中被慢慢塑造的过程。",
+  "at": "2026-10-23T08:18:19.683Z"
  }
 }
