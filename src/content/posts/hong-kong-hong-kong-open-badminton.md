@@ -30,14 +30,6 @@ faq:
     a: Matches are best of three games to 21 points. Singles typically run from about 40 minutes to over an hour, and doubles are often shorter.
 aiGenerated: true
 draft: false
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/f/f9/Badminton-1428046.jpg
-  credit: 'Photo: annca / Wikimedia Commons (CC0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Badminton-1428046.jpg
-  focus:
-    x: 55
-    'y': 40
 ---
 
 ## Six days, five draws, one arena

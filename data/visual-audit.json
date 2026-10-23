@@ -9652,9 +9652,9 @@
  },
  "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TOTAL_BWF_World_Champs_2015_Day_2_Marc_Zwiebler.jpg/3840px-TOTAL_BWF_World_Champs_2015_Day_2_Marc_Zwiebler.jpg": {
   "slug": "hangzhou-bwf-world-tour-finals",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Badminton player at court with event signage",
-  "at": "2026-10-22T22:38:48.810Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares no word with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-23T08:26:12.965Z"
  },
  "hangzhou-leifeng-pagoda\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Leifeng_Pagoda_DJI_0593_%282%29.jpg/1920px-Leifeng_Pagoda_DJI_0593_%282%29.jpg": {
   "slug": "hangzhou-leifeng-pagoda",
@@ -10643,9 +10643,9 @@
  },
  "hong-kong-hong-kong-open-badminton\u0001https://upload.wikimedia.org/wikipedia/commons/f/f9/Badminton-1428046.jpg": {
   "slug": "hong-kong-hong-kong-open-badminton",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Badminton equipment matches Hong Kong Open event",
-  "at": "2026-10-22T22:39:05.212Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"badminton\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-23T08:26:13.148Z"
  },
  "hong-kong-hong-kong-open-badminton\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Badminton_Chiasma_5.0.jpg/3840px-Badminton_Chiasma_5.0.jpg": {
   "slug": "hong-kong-hong-kong-open-badminton",
@@ -16092,9 +16092,9 @@
  },
  "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/2019_ATP_Finals_at_the_o2_%2849069150561%29.jpg/3840px-2019_ATP_Finals_at_the_o2_%2849069150561%29.jpg": {
   "slug": "london-atp-finals",
-  "verdict": "MATCH",
-  "reason": "patrol replace: ATP Finals tennis court, professional venue setup",
-  "at": "2026-10-22T22:40:50.361Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"finals\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-23T08:26:13.322Z"
  },
  "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Doubles_at_the_ATP_Finals_%2849070103618%29.jpg/3840px-Doubles_at_the_ATP_Finals_%2849070103618%29.jpg": {
   "slug": "london-atp-finals",
@@ -20856,9 +20856,9 @@
  },
  "nuremberg-nuremberg-christkindlesmarkt\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Christkindlesmarkt_N%C3%BCrnberg_Fleischbr%C3%BCcke.jpg/3840px-Christkindlesmarkt_N%C3%BCrnberg_Fleischbr%C3%BCcke.jpg": {
   "slug": "nuremberg-nuremberg-christkindlesmarkt",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Nuremberg Christkindlesmarkt at Hauptmarkt, festive crowd",
-  "at": "2026-10-22T22:41:18.128Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"christkindlesmarkt\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-23T08:26:13.497Z"
  },
  "nuremberg-nuremberg-christkindlesmarkt\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Lights_in_Christkindlesmarkt_Nuremberg.jpg/3840px-Lights_in_Christkindlesmarkt_Nuremberg.jpg": {
   "slug": "nuremberg-nuremberg-christkindlesmarkt",
@@ -23380,9 +23380,9 @@
  },
  "puerto-princesa-ironman-70-3-puerto-princesa\u0001https://upload.wikimedia.org/wikipedia/commons/f/ff/Swim_start_at_Ironman_70.3_Florida_2012.jpg": {
   "slug": "puerto-princesa-ironman-70-3-puerto-princesa",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Swimming event start with crowd, banners visible",
-  "at": "2026-10-22T22:42:28.269Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"ironman\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-23T08:26:13.676Z"
  },
  "puerto-princesa-ironman-70-3-puerto-princesa\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/IRONMAN_70.3_Hradec_Kralove_2024_4_c%C3%ADlov%C3%A1_rovinka.jpg/1920px-IRONMAN_70.3_Hradec_Kralove_2024_4_c%C3%ADlov%C3%A1_rovinka.jpg": {
   "slug": "puerto-princesa-ironman-70-3-puerto-princesa",
