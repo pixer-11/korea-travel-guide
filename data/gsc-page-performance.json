@@ -1,11 +1,21 @@
 {
- "measured": "2026-10-19",
+ "measured": "2026-10-23",
  "window": {
-  "start": "2026-09-19",
-  "end": "2026-10-17"
+  "start": "2026-09-23",
+  "end": "2026-10-21"
  },
  "note": "Per-slug Search Console performance, languages summed. Written by scripts/gsc-report.mjs on its daily run; consumed by scripts/backfill-photos-alt.mjs to serve the photo queue in earnings order.",
  "pages": {
+  "taiping-taiping-lake-gardens": {
+   "clicks": 1,
+   "impressions": 2,
+   "position": 9
+  },
+  "jakarta-gajah-mada-food-street": {
+   "clicks": 1,
+   "impressions": 7,
+   "position": 2
+  },
   "kyoto-yoichiba": {
    "clicks": 1,
    "impressions": 8,
@@ -23,8 +33,8 @@
   },
   "makati-kariton-x-sabi-sounds": {
    "clicks": 1,
-   "impressions": 2,
-   "position": 43
+   "impressions": 3,
+   "position": 46.7
   },
   "alcaniz-motogp-aragon-grand-prix": {
    "clicks": 0,
@@ -35,6 +45,11 @@
    "clicks": 0,
    "impressions": 1,
    "position": 26
+  },
+  "austin-formula-1-united-states-grand-prix": {
+   "clicks": 0,
+   "impressions": 7,
+   "position": 30.7
   },
   "ayutthaya-the-artisans-ayutthaya": {
    "clicks": 0,
@@ -50,6 +65,16 @@
    "clicks": 0,
    "impressions": 4,
    "position": 9
+  },
+  "bangkok-chatuchak-weekend-market": {
+   "clicks": 0,
+   "impressions": 1,
+   "position": 9
+  },
+  "bangkok-the-island-bangkok-top-rated-thai-restaurant-bar": {
+   "clicks": 0,
+   "impressions": 4,
+   "position": 4
   },
   "barcelona-barra-oso": {
    "clicks": 0,
@@ -78,12 +103,12 @@
   },
   "cologne-museum-ludwig": {
    "clicks": 0,
-   "impressions": 1,
-   "position": 72
+   "impressions": 2,
+   "position": 41.5
   },
   "da-nang-the-marble-mountains": {
    "clicks": 0,
-   "impressions": 16,
+   "impressions": 14,
    "position": 48
   },
   "daegu-daegu-83-tower": {
@@ -91,10 +116,20 @@
    "impressions": 3,
    "position": 8
   },
-  "fukuoka-ohori-park": {
+  "dubai-al-khayma-heritage-restaurant": {
    "clicks": 0,
    "impressions": 9,
+   "position": 5
+  },
+  "fukuoka-ohori-park": {
+   "clicks": 0,
+   "impressions": 10,
    "position": 52.5
+  },
+  "gangneung-jumunjin-lighthouse": {
+   "clicks": 0,
+   "impressions": 2,
+   "position": 7
   },
   "genting-highlands-chin-swee-caves-temple": {
    "clicks": 0,
@@ -103,13 +138,18 @@
   },
   "guangzhou-chen-clan-ancestral-hall": {
    "clicks": 0,
-   "impressions": 2,
+   "impressions": 1,
+   "position": 10
+  },
+  "guangzhou-huacheng-square": {
+   "clicks": 0,
+   "impressions": 1,
    "position": 10
   },
   "gyeongju-donggung-palace-wolji-pond": {
    "clicks": 0,
-   "impressions": 2,
-   "position": 73
+   "impressions": 3,
+   "position": 4
   },
   "gyeongju-woljeonggyo-bridge": {
    "clicks": 0,
@@ -128,8 +168,8 @@
   },
   "ibiza-cova-de-can-marca": {
    "clicks": 0,
-   "impressions": 7,
-   "position": 19.3
+   "impressions": 8,
+   "position": 26.6
   },
   "incheon-chinatown": {
    "clicks": 0,
@@ -174,17 +214,22 @@
   "koh-samui-tarnim-magic-garden": {
    "clicks": 0,
    "impressions": 8,
-   "position": 60.7
+   "position": 59
   },
   "kyoto-gyukatsu-kyoto-katsugyu-kyoto-ekimae": {
    "clicks": 0,
-   "impressions": 13,
+   "impressions": 12,
    "position": 3
   },
   "las-vegas-peppermill-restaurant-and-fireside-lounge": {
    "clicks": 0,
+   "impressions": 2,
+   "position": 41.5
+  },
+  "madrid-el-campero-madrid": {
+   "clicks": 0,
    "impressions": 1,
-   "position": 41
+   "position": 73
   },
   "madrid-el-campero": {
    "clicks": 0,
@@ -193,7 +238,7 @@
   },
   "malaga-jardin-botanico-historico-la-concepcion": {
    "clicks": 0,
-   "impressions": 28,
+   "impressions": 26,
    "position": 79.7
   },
   "manila-tadhana": {
@@ -213,7 +258,7 @@
   },
   "nara-nara-park": {
    "clicks": 0,
-   "impressions": 1,
+   "impressions": 2,
    "position": 84
   },
   "new-delhi-india-gate": {
@@ -221,20 +266,40 @@
    "impressions": 1,
    "position": 64
   },
+  "phuket-green-elephant-sanctuary-park": {
+   "clicks": 0,
+   "impressions": 2,
+   "position": 20
+  },
   "provence-lavender-fields": {
    "clicks": 0,
    "impressions": 6,
    "position": 92.5
   },
+  "seattle-the-gum-wall": {
+   "clicks": 0,
+   "impressions": 77,
+   "position": 73.5
+  },
   "seoul-cheonggyecheon": {
    "clicks": 0,
-   "impressions": 1,
-   "position": 78
+   "impressions": 2,
+   "position": 84.5
+  },
+  "seoul-euljiro": {
+   "clicks": 0,
+   "impressions": 4,
+   "position": 9
   },
   "seoul-myeongdong-shopping-street": {
    "clicks": 0,
-   "impressions": 3,
-   "position": 67.7
+   "impressions": 4,
+   "position": 74
+  },
+  "seoul-sanchon": {
+   "clicks": 0,
+   "impressions": 7,
+   "position": 19
   },
   "seville-catedral-de-sevilla": {
    "clicks": 0,
@@ -243,8 +308,13 @@
   },
   "siargao-cloud-9-surfing-area": {
    "clicks": 0,
-   "impressions": 5,
+   "impressions": 6,
    "position": 26
+  },
+  "siena-palio-dell-assunta-palio-di-siena": {
+   "clicks": 0,
+   "impressions": 3,
+   "position": 97.7
   },
   "singapore-singapore-flyer": {
    "clicks": 0,
@@ -258,18 +328,28 @@
   },
   "tokyo-comic-market-108-summer-comiket": {
    "clicks": 0,
-   "impressions": 1,
-   "position": 75
+   "impressions": 2,
+   "position": 77
   },
   "tokyo-formula-e-tokyo-e-prix": {
    "clicks": 0,
    "impressions": 1,
    "position": 10
   },
+  "turin-mole-antonelliana": {
+   "clicks": 0,
+   "impressions": 4,
+   "position": 9
+  },
   "valencia-ciudad-de-las-artes-y-las-ciencias": {
    "clicks": 0,
    "impressions": 4,
    "position": 10
+  },
+  "varanasi-chet-singh-ghat-varanasi": {
+   "clicks": 0,
+   "impressions": 1,
+   "position": 90
   },
   "venice-grand-canal": {
    "clicks": 0,
@@ -278,18 +358,18 @@
   },
   "washington-dc-founding-farmers-dc": {
    "clicks": 0,
-   "impressions": 27,
-   "position": 10
+   "impressions": 31,
+   "position": 29
   },
   "washington-dc-u-s-national-arboretum": {
    "clicks": 0,
-   "impressions": 16,
+   "impressions": 25,
    "position": 8
   },
-  "barcelona-the-weeknd-live-in-concert": {
+  "agra-taj-terrace": {
    "clicks": 0,
-   "impressions": 2,
-   "position": 8
+   "impressions": 3,
+   "position": 6.5
   },
   "boracay-i-love-boracay": {
    "clicks": 0,
@@ -298,8 +378,13 @@
   },
   "busan-billie-jean": {
    "clicks": 0,
-   "impressions": 2,
+   "impressions": 3,
    "position": 2
+  },
+  "busan-gamcheon-culture-village": {
+   "clicks": 0,
+   "impressions": 1,
+   "position": 85
   },
   "dubai-hikiniku-to-come": {
    "clicks": 0,
@@ -308,13 +393,13 @@
   },
   "fukuoka-fuglen-coffee-keyakidori": {
    "clicks": 0,
-   "impressions": 1,
-   "position": 7
+   "impressions": 3,
+   "position": 6
   },
-  "gangneung-jumunjin-lighthouse": {
+  "gangneung-gyeongpo-beach": {
    "clicks": 0,
-   "impressions": 1,
-   "position": 8
+   "impressions": 9,
+   "position": 10
   },
   "goyang-bigbang-2026-2027-world-tour-xx-cosmos-goyang-opening-shows": {
    "clicks": 0,
@@ -326,6 +411,11 @@
    "impressions": 1,
    "position": 8
   },
+  "hiroshima-atomic-bomb-dome": {
+   "clicks": 0,
+   "impressions": 1,
+   "position": 5
+  },
   "jakarta-giyanti-coffee-roastery": {
    "clicks": 0,
    "impressions": 4,
@@ -336,6 +426,16 @@
    "impressions": 1,
    "position": 10
   },
+  "katong-east-coast-park": {
+   "clicks": 0,
+   "impressions": 22,
+   "position": 30.9
+  },
+  "kyoto-fushimi-inari-taisha": {
+   "clicks": 0,
+   "impressions": 1,
+   "position": 19
+  },
   "kyoto-imaya-kyoto-coffee": {
    "clicks": 0,
    "impressions": 2,
@@ -345,6 +445,16 @@
    "clicks": 0,
    "impressions": 4,
    "position": 4.8
+  },
+  "los-angeles-grand-central-market": {
+   "clicks": 0,
+   "impressions": 2,
+   "position": 73
+  },
+  "makati-kowloon-station": {
+   "clicks": 0,
+   "impressions": 1,
+   "position": 14
   },
   "marina-bay-le-noir": {
    "clicks": 0,
@@ -358,33 +468,38 @@
   },
   "nara-sahha-halal-restaurant": {
    "clicks": 0,
-   "impressions": 1,
-   "position": 4
+   "impressions": 2,
+   "position": 1
   },
   "new-york-balthazar": {
    "clicks": 0,
-   "impressions": 3,
+   "impressions": 4,
    "position": 4
   },
-  "nha-trang-nha-he-coffee-shop": {
+  "new-york-the-metropolitan-museum-of-art": {
    "clicks": 0,
    "impressions": 2,
-   "position": 8
+   "position": 88.5
+  },
+  "portland-pittock-mansion": {
+   "clicks": 0,
+   "impressions": 3,
+   "position": 2.5
   },
   "qingdao-zhanqiao-pier": {
    "clicks": 0,
    "impressions": 2,
    "position": 7
   },
+  "seattle-the-pink-door": {
+   "clicks": 0,
+   "impressions": 4,
+   "position": 16
+  },
   "sentosa-sentosa-sensoryscape": {
    "clicks": 0,
-   "impressions": 3,
-   "position": 15
-  },
-  "sentosa-skyline-luge-singapore": {
-   "clicks": 0,
    "impressions": 2,
-   "position": 3
+   "position": 20
   },
   "seoul-artist-bakery": {
    "clicks": 0,
@@ -396,11 +511,6 @@
    "impressions": 1,
    "position": 6
   },
-  "shanghai-times": {
-   "clicks": 0,
-   "impressions": 3,
-   "position": 5
-  },
   "tainan-anping-old-street": {
    "clicks": 0,
    "impressions": 1,
@@ -408,7 +518,7 @@
   },
   "tokyo-fuglen-tokyo": {
    "clicks": 0,
-   "impressions": 5,
+   "impressions": 6,
    "position": 1
   },
   "tokyo-oxomoco": {
@@ -428,18 +538,13 @@
   },
   "bandung-hummingbird-eatery-space": {
    "clicks": 0,
-   "impressions": 1,
+   "impressions": 2,
    "position": 10
   },
   "bangkok-f-forever-concert-2026-bangkok": {
    "clicks": 0,
    "impressions": 1,
    "position": 8
-  },
-  "bangkok-the-island-bangkok-top-rated-thai-restaurant-bar": {
-   "clicks": 0,
-   "impressions": 3,
-   "position": 4
   },
   "barcelona-gloria-osteria": {
    "clicks": 0,
@@ -463,8 +568,8 @@
   },
   "daegu-nazar-kebab": {
    "clicks": 0,
-   "impressions": 10,
-   "position": 9.3
+   "impressions": 9,
+   "position": 9.5
   },
   "damyang-bamboo-forest": {
    "clicks": 0,
@@ -491,25 +596,20 @@
    "impressions": 1,
    "position": 10
   },
-  "jakarta-gajah-mada-food-street": {
-   "clicks": 0,
-   "impressions": 4,
-   "position": 2
-  },
   "jakarta-pestapora-2026": {
    "clicks": 0,
    "impressions": 4,
    "position": 9.3
   },
+  "jakarta-social-house-grand-indonesia": {
+   "clicks": 0,
+   "impressions": 3,
+   "position": 43.5
+  },
   "kampong-glam-kampong-glam-cafe": {
    "clicks": 0,
    "impressions": 1,
    "position": 22
-  },
-  "katong-east-coast-park": {
-   "clicks": 0,
-   "impressions": 3,
-   "position": 30.5
   },
   "kuala-lumpur-aaron-kwok-iconic-world-tour-2026": {
    "clicks": 0,
@@ -541,6 +641,11 @@
    "impressions": 1,
    "position": 10
   },
+  "mumbai-chhatrapati-shivaji-maharaj-vastu-sangrahalaya": {
+   "clicks": 0,
+   "impressions": 2,
+   "position": 1
+  },
   "nagoya-glitch-coffee-roasters-nagoya": {
    "clicks": 0,
    "impressions": 7,
@@ -551,6 +656,11 @@
    "impressions": 9,
    "position": 7
   },
+  "nara-todai-ji": {
+   "clicks": 0,
+   "impressions": 1,
+   "position": 50
+  },
   "new-taipei-yangmingshan-national-park": {
    "clicks": 0,
    "impressions": 1,
@@ -558,7 +668,7 @@
   },
   "new-york-city-atomix": {
    "clicks": 0,
-   "impressions": 2,
+   "impressions": 3,
    "position": 3
   },
   "osaka-lilo-coffee-roasters": {
@@ -573,8 +683,8 @@
   },
   "pattaya-mini-siam": {
    "clicks": 0,
-   "impressions": 1,
-   "position": 8
+   "impressions": 4,
+   "position": 18.5
   },
   "pattaya-the-collective-pattaya": {
    "clicks": 0,
@@ -593,13 +703,8 @@
   },
   "seoul-eid-halal-korean-food": {
    "clicks": 0,
-   "impressions": 4,
-   "position": 3
-  },
-  "seoul-euljiro": {
-   "clicks": 0,
    "impressions": 3,
-   "position": 9
+   "position": 10
   },
   "seoul-hakusi": {
    "clicks": 0,
@@ -616,15 +721,15 @@
    "impressions": 1,
    "position": 11
   },
-  "seoul-sanchon": {
-   "clicks": 0,
-   "impressions": 6,
-   "position": 19
-  },
   "siena-piazza-del-campo": {
    "clicks": 0,
    "impressions": 1,
    "position": 55
+  },
+  "singapore-cloud-forest": {
+   "clicks": 0,
+   "impressions": 1,
+   "position": 1
   },
   "sokcho-seoraksan-cable-car": {
    "clicks": 0,
@@ -648,7 +753,7 @@
   },
   "xi-an-tang-paradise": {
    "clicks": 0,
-   "impressions": 3,
+   "impressions": 4,
    "position": 21
   },
   "abu-dhabi-art-house-cafe": {
@@ -661,20 +766,15 @@
    "impressions": 1,
    "position": 90
   },
-  "agra-taj-terrace": {
-   "clicks": 0,
-   "impressions": 1,
-   "position": 17
-  },
   "ajman-the-seat-cafe": {
    "clicks": 0,
-   "impressions": 4,
-   "position": 23.3
+   "impressions": 9,
+   "position": 13.3
   },
   "ajman-yemeni-corner-restaurant": {
    "clicks": 0,
-   "impressions": 14,
-   "position": 10.8
+   "impressions": 16,
+   "position": 10.7
   },
   "al-ain-al-fanar-restaurant-cafe": {
    "clicks": 0,
@@ -684,7 +784,7 @@
   "andong-talbing-go": {
    "clicks": 0,
    "impressions": 4,
-   "position": 8.5
+   "position": 8.8
   },
   "ankara-ankara-castle": {
    "clicks": 0,
@@ -698,8 +798,8 @@
   },
   "bali-bukit-peninsula-uluwatu-avli": {
    "clicks": 0,
-   "impressions": 2,
-   "position": 20.5
+   "impressions": 3,
+   "position": 57.7
   },
   "bali-chai-of-the-tiger-indian-street-food": {
    "clicks": 0,
@@ -716,15 +816,20 @@
    "impressions": 3,
    "position": 39.7
   },
+  "bangkok-saladaeng": {
+   "clicks": 0,
+   "impressions": 1,
+   "position": 65
+  },
   "bangkok-sea-life-bangkok-ocean-world": {
    "clicks": 0,
-   "impressions": 3,
-   "position": 68
+   "impressions": 2,
+   "position": 69.5
   },
   "bangkok-somsak": {
    "clicks": 0,
-   "impressions": 2,
-   "position": 45.5
+   "impressions": 3,
+   "position": 49.3
   },
   "bangkok-treehouse-cafe-bar": {
    "clicks": 0,
@@ -733,38 +838,38 @@
   },
   "bangkok-wat-arun-ratchawararam-ratchawaramahawihan": {
    "clicks": 0,
-   "impressions": 10,
-   "position": 53.2
+   "impressions": 9,
+   "position": 58.4
   },
   "barcelona-parada-torres": {
    "clicks": 0,
-   "impressions": 2,
-   "position": 53
+   "impressions": 3,
+   "position": 58.3
+  },
+  "bengaluru-guns-n-roses-india-tour": {
+   "clicks": 0,
+   "impressions": 3,
+   "position": 61.3
   },
   "bilbao-victor-montes": {
    "clicks": 0,
    "impressions": 3,
    "position": 31.7
   },
-  "busan-huinnyeoul-culture-village": {
+  "bunol-la-tomatina": {
    "clicks": 0,
    "impressions": 1,
-   "position": 62
+   "position": 4
   },
   "busan-namaste-haeundae": {
    "clicks": 0,
-   "impressions": 2,
-   "position": 19
+   "impressions": 1,
+   "position": 11
   },
   "chiang-mai-garden-to-table-chiangmai": {
    "clicks": 0,
    "impressions": 1,
    "position": 11
-  },
-  "chiang-mai-the-baristro-asian-style": {
-   "clicks": 0,
-   "impressions": 1,
-   "position": 68
   },
   "chiang-mai-wat-phra-that-doi-suthep": {
    "clicks": 0,
@@ -773,13 +878,13 @@
   },
   "chiba-tokyo-and-osaka-summer-sonic-2026": {
    "clicks": 0,
-   "impressions": 1,
-   "position": 68
+   "impressions": 2,
+   "position": 62.5
   },
   "chicago-cloud-gate": {
    "clicks": 0,
-   "impressions": 9,
-   "position": 91
+   "impressions": 8,
+   "position": 91.3
   },
   "chicago-navy-pier": {
    "clicks": 0,
@@ -803,8 +908,8 @@
   },
   "clarke-quay-cq-clarke-quay": {
    "clicks": 0,
-   "impressions": 4,
-   "position": 90.5
+   "impressions": 1,
+   "position": 93
   },
   "da-nang-xliii-specialty-coffee": {
    "clicks": 0,
@@ -818,13 +923,8 @@
   },
   "davao-philippine-eagle-center": {
    "clicks": 0,
-   "impressions": 1,
-   "position": 64
-  },
-  "dubai-al-khayma-heritage-restaurant": {
-   "clicks": 0,
-   "impressions": 7,
-   "position": 47.4
+   "impressions": 2,
+   "position": 68.5
   },
   "dubai-barrafina": {
    "clicks": 0,
@@ -836,6 +936,11 @@
    "impressions": 2,
    "position": 13
   },
+  "fujairah-steki": {
+   "clicks": 0,
+   "impressions": 2,
+   "position": 9
+  },
   "fukuoka-gyukatsu-motomura-fukuoka-parco-branch": {
    "clicks": 0,
    "impressions": 1,
@@ -846,25 +951,25 @@
    "impressions": 2,
    "position": 45.5
   },
-  "gangneung-gyeongpo-beach": {
-   "clicks": 0,
-   "impressions": 8,
-   "position": 50.4
-  },
   "gangneung-gyeongpo-lake": {
    "clicks": 0,
    "impressions": 1,
    "position": 5
   },
-  "guilin-reed-flute-cave": {
+  "hanoi-hong-hoai-s-restaurant": {
    "clicks": 0,
    "impressions": 1,
-   "position": 98
+   "position": 8
   },
   "hiroshima-gyumon-hiroshima": {
    "clicks": 0,
-   "impressions": 7,
-   "position": 10
+   "impressions": 10,
+   "position": 10.3
+  },
+  "hiroshima-itsukushima-jinja": {
+   "clicks": 0,
+   "impressions": 1,
+   "position": 13
   },
   "hiroshima-nagataya": {
    "clicks": 0,
@@ -873,8 +978,8 @@
   },
   "ho-chi-minh-city-ben-nghe-street-food": {
    "clicks": 0,
-   "impressions": 3,
-   "position": 34.3
+   "impressions": 5,
+   "position": 42.4
   },
   "hoi-an-nhan-s-kitchen": {
    "clicks": 0,
@@ -893,33 +998,38 @@
   },
   "incheon-haesong-ssambap": {
    "clicks": 0,
-   "impressions": 16,
+   "impressions": 14,
    "position": 7
   },
   "incheon-songdo-central-park": {
    "clicks": 0,
-   "impressions": 2,
-   "position": 6
+   "impressions": 1,
+   "position": 11
   },
   "incheon-wolmi-theme-park": {
    "clicks": 0,
-   "impressions": 25,
-   "position": 8.6
+   "impressions": 21,
+   "position": 8.8
   },
   "istanbul-sen-den-restaurant": {
    "clicks": 0,
-   "impressions": 4,
-   "position": 8.5
+   "impressions": 7,
+   "position": 8.3
   },
   "jaipur-suvarna-mahal": {
    "clicks": 0,
    "impressions": 3,
    "position": 76.7
   },
-  "jakarta-social-house-grand-indonesia": {
+  "jakarta-lalala-festival-2026": {
+   "clicks": 0,
+   "impressions": 1,
+   "position": 1
+  },
+  "jakarta-the-sounds-project-vol-9": {
    "clicks": 0,
    "impressions": 2,
-   "position": 43.5
+   "position": 6.5
   },
   "jeju-aewol-cafes": {
    "clicks": 0,
@@ -943,13 +1053,18 @@
   },
   "kota-kinabalu-tanjung-aru-beach": {
    "clicks": 0,
-   "impressions": 6,
-   "position": 63
+   "impressions": 8,
+   "position": 66.3
   },
   "krabi-lan-lek-lek": {
    "clicks": 0,
    "impressions": 4,
    "position": 9.5
+  },
+  "kuala-lumpur-honne-10-year-anniversary-world-tour-kuala-lumpur": {
+   "clicks": 0,
+   "impressions": 1,
+   "position": 5
   },
   "kuala-lumpur-jalinan": {
    "clicks": 0,
@@ -958,8 +1073,8 @@
   },
   "labuan-bajo-la-moringa-labuan-bajo": {
    "clicks": 0,
-   "impressions": 2,
-   "position": 10.5
+   "impressions": 3,
+   "position": 30.3
   },
   "labuan-bajo-mimamori-cafe-labuan-bajo": {
    "clicks": 0,
@@ -971,6 +1086,11 @@
    "impressions": 1,
    "position": 8
   },
+  "las-vegas-bellagio-conservatory-botanical-gardens": {
+   "clicks": 0,
+   "impressions": 1,
+   "position": 59
+  },
   "lombok-elamu-lombok": {
    "clicks": 0,
    "impressions": 3,
@@ -978,23 +1098,38 @@
   },
   "lombok-vandal-restaurant-elevated-global-street-food": {
    "clicks": 0,
-   "impressions": 294,
-   "position": 6.3
+   "impressions": 289,
+   "position": 6.2
   },
   "los-angeles-bad-roman": {
    "clicks": 0,
+   "impressions": 3,
+   "position": 1.3
+  },
+  "los-angeles-hollyhock-house": {
+   "clicks": 0,
    "impressions": 1,
-   "position": 1
+   "position": 80
   },
   "los-angeles-urth-caffe": {
    "clicks": 0,
    "impressions": 1,
    "position": 53
   },
+  "lyon-basilica-of-notre-dame-of-fourviere": {
+   "clicks": 0,
+   "impressions": 1,
+   "position": 63
+  },
   "lyon-carmelo": {
    "clicks": 0,
    "impressions": 4,
-   "position": 43.5
+   "position": 33.3
+  },
+  "madrid-formula-1-spanish-grand-prix-madring": {
+   "clicks": 0,
+   "impressions": 2,
+   "position": 96
   },
   "malacca-menara-taming-sari": {
    "clicks": 0,
@@ -1003,13 +1138,13 @@
   },
   "manila-azukitoyo": {
    "clicks": 0,
-   "impressions": 1,
-   "position": 6
+   "impressions": 2,
+   "position": 6.5
   },
   "marina-bay-satay-by-the-bay": {
    "clicks": 0,
-   "impressions": 2,
-   "position": 38
+   "impressions": 1,
+   "position": 11
   },
   "marina-bay-skypark-observation-deck": {
    "clicks": 0,
@@ -1028,13 +1163,13 @@
   },
   "nagoya-atsuta-horaiken-honten": {
    "clicks": 0,
-   "impressions": 2,
-   "position": 62
+   "impressions": 4,
+   "position": 49.5
   },
   "nara-chami-specialty-coffee-roaster-nara-japan": {
    "clicks": 0,
-   "impressions": 4,
-   "position": 6.8
+   "impressions": 6,
+   "position": 19.2
   },
   "new-delhi-humayun-s-tomb": {
    "clicks": 0,
@@ -1051,6 +1186,11 @@
    "impressions": 1,
    "position": 2
   },
+  "nha-trang-nha-he-coffee-shop": {
+   "clicks": 0,
+   "impressions": 1,
+   "position": 11
+  },
   "okinawa-philippines-street-food-gonta": {
    "clicks": 0,
    "impressions": 3,
@@ -1058,13 +1198,13 @@
   },
   "okinawa-southeast-botanical-gardens": {
    "clicks": 0,
-   "impressions": 11,
-   "position": 81
+   "impressions": 10,
+   "position": 81.1
   },
   "orchard-road-merci-marcel-orchard": {
    "clicks": 0,
-   "impressions": 1,
-   "position": 68
+   "impressions": 2,
+   "position": 70.5
   },
   "osaka-oko-fun-okonomiyaki-bar": {
    "clicks": 0,
@@ -1081,11 +1221,6 @@
    "impressions": 8,
    "position": 59.1
   },
-  "paris-kubaba": {
-   "clicks": 0,
-   "impressions": 1,
-   "position": 7
-  },
   "paris-shwi": {
    "clicks": 0,
    "impressions": 9,
@@ -1098,38 +1233,33 @@
   },
   "pattaya-sheeva-cafe": {
    "clicks": 0,
-   "impressions": 2,
-   "position": 12.5
+   "impressions": 1,
+   "position": 13
   },
   "phu-quoc-camia-restaurant": {
    "clicks": 0,
-   "impressions": 6,
+   "impressions": 7,
    "position": 4.8
-  },
-  "phu-quoc-chuon-chuon-bistro-bar": {
-   "clicks": 0,
-   "impressions": 5,
-   "position": 5
   },
   "phu-quoc-grand-world-phu-quoc": {
    "clicks": 0,
-   "impressions": 7,
+   "impressions": 8,
    "position": 73.9
   },
-  "phuket-green-elephant-sanctuary-park": {
+  "phu-quoc-vietnam-international-flute-festival-viff-2026": {
    "clicks": 0,
    "impressions": 1,
-   "position": 20
+   "position": 10
   },
   "phuket-hug-street-food-kata-phuket": {
    "clicks": 0,
-   "impressions": 98,
-   "position": 51.2
+   "impressions": 97,
+   "position": 46
   },
   "phuket-the-big-buddha-phuket": {
    "clicks": 0,
-   "impressions": 2,
-   "position": 98.5
+   "impressions": 3,
+   "position": 98.7
   },
   "portland-portland-saturday-market": {
    "clicks": 0,
@@ -1139,7 +1269,7 @@
   "provence-lavender-sunflower-field": {
    "clicks": 0,
    "impressions": 8,
-   "position": 77
+   "position": 77.1
   },
   "ras-al-khaimah-jebel-jais": {
    "clicks": 0,
@@ -1148,18 +1278,18 @@
   },
   "ras-al-khaimah-rukn-al-falafel-cafeteria": {
    "clicks": 0,
-   "impressions": 10,
-   "position": 9.5
+   "impressions": 20,
+   "position": 9.4
   },
   "rome-luna": {
    "clicks": 0,
-   "impressions": 1,
-   "position": 63
+   "impressions": 2,
+   "position": 33
   },
   "rome-sant-eustachio-caffe": {
    "clicks": 0,
-   "impressions": 4,
-   "position": 21.3
+   "impressions": 5,
+   "position": 17.8
   },
   "san-francisco-rich-table": {
    "clicks": 0,
@@ -1168,13 +1298,13 @@
   },
   "san-sebastian-bar-txepetxa": {
    "clicks": 0,
-   "impressions": 1,
-   "position": 61
+   "impressions": 4,
+   "position": 58.3
   },
   "sapporo-mermaid-coffee-roasters": {
    "clicks": 0,
-   "impressions": 2,
-   "position": 26
+   "impressions": 3,
+   "position": 32.7
   },
   "sapporo-sapporo-tv-tower": {
    "clicks": 0,
@@ -1183,53 +1313,38 @@
   },
   "seattle-jack-s-fish-spot": {
    "clicks": 0,
-   "impressions": 7,
-   "position": 45.3
+   "impressions": 10,
+   "position": 51.6
   },
   "seattle-pike-place-market": {
    "clicks": 0,
-   "impressions": 6,
-   "position": 68.2
-  },
-  "seattle-the-gum-wall": {
-   "clicks": 0,
-   "impressions": 62,
-   "position": 71.7
-  },
-  "seattle-the-pink-door": {
-   "clicks": 0,
-   "impressions": 3,
-   "position": 55.7
+   "impressions": 4,
+   "position": 63
   },
   "sentosa-fiamma": {
    "clicks": 0,
    "impressions": 1,
    "position": 19
   },
+  "sentosa-skyline-luge-singapore": {
+   "clicks": 0,
+   "impressions": 1,
+   "position": 26
+  },
   "seoul-dallas-pizza": {
    "clicks": 0,
-   "impressions": 4,
-   "position": 5.8
+   "impressions": 1,
+   "position": 6
   },
   "seoul-seongsu-cafes": {
    "clicks": 0,
    "impressions": 1,
    "position": 5
   },
-  "shanghai-love-sushi": {
-   "clicks": 0,
-   "impressions": 1,
-   "position": 7
-  },
   "shanghai-vice": {
    "clicks": 0,
    "impressions": 2,
    "position": 9
-  },
-  "sharjah-tpt-by-late": {
-   "clicks": 0,
-   "impressions": 1,
-   "position": 53
   },
   "singapore-bop-bartenders-of-pony": {
    "clicks": 0,
@@ -1276,6 +1391,16 @@
    "impressions": 4,
    "position": 79
   },
+  "taipei-official-hige-dandism-asia-tour-2026": {
+   "clicks": 0,
+   "impressions": 1,
+   "position": 8
+  },
+  "taipei-taipei-fringe-festival-2026": {
+   "clicks": 0,
+   "impressions": 1,
+   "position": 75
+  },
   "tokyo-ise-sueyoshi": {
    "clicks": 0,
    "impressions": 5,
@@ -1283,8 +1408,13 @@
   },
   "tokyo-lenox-house": {
    "clicks": 0,
-   "impressions": 2,
-   "position": 8
+   "impressions": 1,
+   "position": 6
+  },
+  "tokyo-pan-pacific-open-toray-pan-pacific-open": {
+   "clicks": 0,
+   "impressions": 1,
+   "position": 1
   },
   "tokyo-senso-ji": {
    "clicks": 0,
@@ -1296,6 +1426,11 @@
    "impressions": 2,
    "position": 10
   },
+  "tokyo-smith-wollensky-tokyo": {
+   "clicks": 0,
+   "impressions": 1,
+   "position": 9
+  },
   "tokyo-smith-wollensky": {
    "clicks": 0,
    "impressions": 1,
@@ -1303,8 +1438,8 @@
   },
   "tokyo-teamlab-planets-tokyo-dmm": {
    "clicks": 0,
-   "impressions": 5,
-   "position": 66.2
+   "impressions": 7,
+   "position": 67
   },
   "tokyo-tokyo-tower": {
    "clicks": 0,
@@ -1313,13 +1448,8 @@
   },
   "turin-mercato-centrale-torino": {
    "clicks": 0,
-   "impressions": 3,
-   "position": 29
-  },
-  "turin-mole-antonelliana": {
-   "clicks": 0,
-   "impressions": 3,
-   "position": 67
+   "impressions": 5,
+   "position": 31.6
   },
   "yogyakarta-blanco-coffee-and-books": {
    "clicks": 0,
@@ -1328,13 +1458,8 @@
   },
   "yokohama-yokohama-chinatown": {
    "clicks": 0,
-   "impressions": 5,
-   "position": 78.8
-  },
-  "yokohama-yokohama-marine-tower": {
-   "clicks": 0,
-   "impressions": 1,
-   "position": 76
+   "impressions": 4,
+   "position": 74
   },
   "busan-cheongsapo": {
    "clicks": 0,
@@ -1348,8 +1473,8 @@
   },
   "chinatown-my-awesome-cafe": {
    "clicks": 0,
-   "impressions": 7,
-   "position": 62
+   "impressions": 8,
+   "position": 61.9
   },
   "florence-palazzo-vecchio": {
    "clicks": 0,
@@ -1361,6 +1486,11 @@
    "impressions": 1,
    "position": 7
   },
+  "johor-bahru-johor-zoo": {
+   "clicks": 0,
+   "impressions": 1,
+   "position": 57
+  },
   "los-angeles-griffith-observatory": {
    "clicks": 0,
    "impressions": 3,
@@ -1371,20 +1501,30 @@
    "impressions": 2,
    "position": 36.5
   },
-  "mumbai-chhatrapati-shivaji-maharaj-vastu-sangrahalaya": {
+  "phu-quoc-chuon-chuon-bistro-bar": {
    "clicks": 0,
-   "impressions": 2,
-   "position": 26.5
+   "impressions": 4,
+   "position": 5
   },
-  "portland-pittock-mansion": {
+  "rome-colosseum": {
    "clicks": 0,
    "impressions": 1,
-   "position": 4
+   "position": 6
+  },
+  "rome-futura": {
+   "clicks": 0,
+   "impressions": 1,
+   "position": 5
   },
   "suwon-hwaseong-fortress": {
    "clicks": 0,
    "impressions": 1,
    "position": 81
+  },
+  "yokohama-manchinro": {
+   "clicks": 0,
+   "impressions": 3,
+   "position": 8.3
   }
  }
 }
