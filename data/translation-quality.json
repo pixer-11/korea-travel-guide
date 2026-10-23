@@ -37343,5 +37343,89 @@
   "registerBreak": false,
   "worst": "这些石径展现了大地在岁月中被慢慢塑造的过程。",
   "at": "2026-10-23T08:18:19.683Z"
+ },
+ "es/kyoto-kurama-fire-festival": {
+  "hash": "5c2420697be2",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "porque la calle es estrecha y las antorchas, pesadas y ardientes, están en movimiento",
+  "at": "2026-10-23T13:23:37.128Z"
+ },
+ "ja/kyoto-jidai-matsuri": {
+  "hash": "821810467912",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "2026年の開催日は10月22日でした。",
+  "at": "2026-10-23T13:23:44.516Z"
+ },
+ "ko/kyoto-jidai-matsuri": {
+  "hash": "bbe4e3cd44db",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "교토가 이 행렬을 볼거리인 동시에 살아 있는 기록 보관소로 여기는 것도 그래서입니다.",
+  "at": "2026-10-23T13:23:51.319Z"
+ },
+ "zh/kyoto-kurama-fire-festival": {
+  "hash": "b11674e228f0",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "远在黄昏之前。",
+  "at": "2026-10-23T13:23:53.145Z"
+ },
+ "es/akhaltsikhe-samtskhe-javakheti-history-museum": {
+  "hash": "ed36fb41a117",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Actualmente el museo cierra ese día y abre de 10am a 6pm el resto de la semana.",
+  "at": "2026-10-23T13:24:00.039Z"
+ },
+ "es/auckland-maungawhau-mount-eden": {
+  "hash": "951f7cdd08b0",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Fue la Tūpuna Maunga Authority, organismo que gestiona de forma conjunta los conos volcánicos...",
+  "at": "2026-10-23T13:24:01.109Z"
+ },
+ "ja/akhaltsikhe-samtskhe-javakheti-history-museum": {
+  "hash": "d1eef462e3d1",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "そのため、外の中庭がにぎわっていても、展示室は静かなことがよくあります。",
+  "at": "2026-10-23T13:24:02.202Z"
+ },
+ "ja/auckland-maungawhau-mount-eden": {
+  "hash": "39add0f4ebcd",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "深さは約50メートルあり、草に覆われたなめらかなすり鉢状の地形は、「マターホの鉢」を意味するテ・イプ・ア・マターホと呼ばれています。",
+  "at": "2026-10-23T13:24:04.300Z"
+ },
+ "ko/akhaltsikhe-samtskhe-javakheti-history-museum": {
+  "hash": "73d5cf30df7d",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "카메라를 가리키며 눈썹을 살짝 올려 보이기만 해도 말이 통하지 않아도 뜻이 전해집니다.",
+  "at": "2026-10-23T13:24:11.635Z"
+ },
+ "ko/auckland-maungawhau-mount-eden": {
+  "hash": "ac9dd7889981",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "경사가 어찌나 가파르고 고른지 거대한 숟가락으로 꾹 눌러 파낸 것처럼 보입니다.",
+  "at": "2026-10-23T13:24:12.753Z"
+ },
+ "zh/akhaltsikhe-samtskhe-javakheti-history-museum": {
+  "hash": "0969cc7a33f7",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "指指相机、挑挑眉毛，这个动作不需要任何语言也能看懂。",
+  "at": "2026-10-23T13:24:14.943Z"
+ },
+ "zh/auckland-maungawhau-mount-eden": {
+  "hash": "aea177b1dba5",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "黄金时刻的马努考港美景就是最好的理由。",
+  "at": "2026-10-23T13:24:16.893Z"
  }
 }

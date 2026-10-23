@@ -2,11 +2,11 @@
  "_note": "Per-topic search→post yield, written by scripts/generate.mjs (scripts/lib/topic-yield.mjs). Seeded 2026-08-23 from the 08-17..23 publish/bulk logs; counts halve past 200 so recent runs weigh more.",
  "topics": {
   "local restaurant": {
-   "attempts": 137,
-   "hits": 15
+   "attempts": 157,
+   "hits": 17
   },
   "historic site": {
-   "attempts": 159,
+   "attempts": 160,
    "hits": 92
   },
   "park": {
@@ -30,8 +30,8 @@
    "hits": 5
   },
   "museum": {
-   "attempts": 145,
-   "hits": 86
+   "attempts": 151,
+   "hits": 87
   },
   "noodles": {
    "attempts": 71,
@@ -54,7 +54,7 @@
    "hits": 4
   },
   "hidden gem": {
-   "attempts": 147,
+   "attempts": 150,
    "hits": 85
   },
   "breakfast": {
@@ -62,11 +62,11 @@
    "hits": 5
   },
   "trendy cafe": {
-   "attempts": 144,
+   "attempts": 146,
    "hits": 12
   },
   "street food": {
-   "attempts": 126,
+   "attempts": 130,
    "hits": 18
   },
   "bakery": {
@@ -888,7 +888,163 @@
   "Distillery Historic District": {
    "attempts": 1,
    "hits": 1
+  },
+  "Plaza de Armas of Arequipa": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Uros Floating Islands": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Paracas National Reserve": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "La Calera Hot Springs": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Belen Market": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Wilcahuain": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Sky Tower": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Parque del Amor": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Aguas Calientes Hot Springs": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "TSS Earnslaw": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Zealandia Ecosanctuary": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Museo Santuarios Andinos": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Huacachina Oasis": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Ballestas Islands": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Pisac Archaeological Park": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Huacachina Sand Dunes": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Nazca Lines": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Amazon Rescue Center": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Qorikancha": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Puente de los Suspiros": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Huaca Pucllana": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Sacsayhuaman": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Prince of Wales Northern Heritage Centre": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Queenstown Gardens": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Rideau Canal": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Pisac Market": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Heritage Park Historical Village": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Fairmont Empress and Inner Harbour": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Cantalloc Aqueducts": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Mount Victoria Lookout": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Christchurch Tram": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Jean-Talon Market": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Gastown Steam Clock": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "National Gallery of Canada": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Red Valley": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Maungawhau / Mount Eden": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "San Pedro Market": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Basilica and Convent of San Francisco": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "San Blas Neighbourhood": {
+   "attempts": 1,
+   "hits": 1
   }
  },
- "updated": "2026-10-23T08:13:16.831Z"
+ "updated": "2026-10-23T13:19:36.242Z"
 }

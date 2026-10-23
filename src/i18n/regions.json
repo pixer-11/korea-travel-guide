@@ -13873,5 +13873,32 @@
       "getting": "几乎所有游客都是从库斯科出发、经陆路前往维尼昆卡，通常参加天亮前出发的一日游团，乘车约3小时到达库西帕塔（Cusipata）或皮图马尔卡（Pitumarca）附近的登山起点，再徒步前往山顶。自助旅行者也可以从库斯科的地区交通枢纽乘坐公共小巴到这些村庄，再换乘当地出租车前往登山口，不过行程安排更为复杂，时间也不太容易把控。",
       "days": "游览维尼昆卡通常安排为一天的长途往返行程，从库斯科出发到返回大约需要12到16小时，其中包括往返车程、约2到3小时的徒步上下山观景时间，以及出发前的高原适应时间——建议提前在库斯科停留2到3天进行适应。"
     }
+  },
+  "Yellowknife": {
+    "en": {
+      "blurb": "Yellowknife is the capital of Canada's Northwest Territories, a small city of log cabins and houseboats perched on the rocky shores of Great Slave Lake. It is best known as one of the world's most reliable places to see the Aurora Borealis, thanks to clear subarctic skies and long winter nights far from city light pollution.",
+      "getting": "Most travellers fly into Yellowknife Airport (YZF), the territory's main air hub, with direct connections from cities such as Edmonton, Calgary and Vancouver; there is no passenger rail service to Yellowknife. The airport sits only a few minutes from downtown, so onward transport is a short taxi or hotel shuttle ride rather than a long transfer.",
+      "days": "Plan on ~2 to 4 days to cover the city's lakeside walking trails, old town and museums by day, with at least two nights set aside for aurora viewing excursions."
+    },
+    "ko": {
+      "blurb": "옐로나이프는 캐나다 노스웨스트 준주의 주도로, 그레이트슬레이브호(Great Slave Lake)의 바위투성이 호숫가에 자리 잡은 통나무집과 수상가옥이 어우러진 작은 도시입니다. 도심의 불빛이 닿지 않는 청명한 아북극 하늘과 긴 겨울밤 덕분에, 오로라(Aurora Borealis)를 가장 안정적으로 볼 수 있는 세계적인 명소로 잘 알려져 있습니다.",
+      "getting": "대부분의 여행자는 준주의 주요 관문인 옐로나이프 공항(YZF)을 통해 입국하며, 에드먼턴, 캘거리, 밴쿠버 등에서 직항편이 운항됩니다. 옐로나이프까지 가는 여객 철도는 없습니다. 공항은 시내에서 불과 몇 분 거리에 있어, 이후 이동은 긴 환승 과정 없이 짧은 택시나 호텔 셔틀로 간단히 해결됩니다.",
+      "days": "낮에는 호숫가 산책로와 올드타운, 박물관 등을 둘러보는 데 약 2~4일 정도를 계획하시고, 오로라 관람 투어를 위해 최소 이틀 밤은 따로 비워두시길 권합니다."
+    },
+    "ja": {
+      "blurb": "イエローナイフは、カナダ・ノースウエスト準州の州都。グレートスレーブ湖の岩がちな湖畔に、丸太小屋やハウスボートが点在する小さな街だ。街の灯りが届かない亜北極圏ならではの澄んだ空と長い冬の夜のおかげで、世界屈指のオーロラ観測地として知られている。",
+      "getting": "多くの旅行者は、準州の玄関口であるイエローナイフ空港(YZF)を利用して訪れる。エドモントン、カルガリー、バンクーバーなどから直行便があるが、イエローナイフへの旅客鉄道は通っていない。空港は市街地からわずか数分の距離にあるため、そこから先はタクシーかホテルのシャトルバスで短時間移動するだけで済む。",
+      "days": "湖畔の散策路やオールドタウン、博物館などを日中に巡るなら、滞在日数の目安は2〜4日。そのうえで、オーロラ鑑賞ツアーのために最低でも2泊は確保しておきたい。"
+    },
+    "es": {
+      "blurb": "Yellowknife es la capital de los Territorios del Noroeste de Canadá, una pequeña ciudad de cabañas de madera y casas flotantes asentada sobre las costas rocosas del Gran Lago del Esclavo. Es conocida sobre todo por ser uno de los lugares más fiables del mundo para contemplar la Aurora Boreal, gracias a los cielos subárticos despejados y a las largas noches de invierno, lejos de la contaminación lumínica de las grandes ciudades.",
+      "getting": "La mayoría de los viajeros llega a Yellowknife por el Aeropuerto de Yellowknife (YZF), el principal centro aéreo del territorio, con conexiones directas desde ciudades como Edmonton, Calgary y Vancouver; no existe servicio de tren de pasajeros hasta Yellowknife. El aeropuerto se encuentra a solo unos minutos del centro, por lo que el traslado posterior es un corto trayecto en taxi o en el servicio de transporte del hotel, en lugar de un traslado largo.",
+      "days": "Se recomienda dedicar entre 2 y 4 días para recorrer durante el día los senderos junto al lago, el casco antiguo y los museos de la ciudad, reservando al menos dos noches para las excursiones de observación de la aurora boreal."
+    },
+    "zh": {
+      "blurb": "黄刀镇是加拿大西北地区的首府，一座坐落在大奴湖嶙峋湖畔的小城，木屋与船屋错落其间，别具风情。由于地处亚北极地带，夜空澄澈，加之远离城市光污染，冬夜漫长，这里被公认为全球观赏北极光最可靠的地方之一。",
+      "getting": "大多数旅客会选择飞抵黄刀镇机场（YZF），这是该地区主要的航空枢纽，与埃德蒙顿、卡尔加里和温哥华等城市均有直飞航班；目前没有客运铁路通往黄刀镇。机场距市中心仅几分钟车程，后续交通只需乘坐短途出租车或酒店班车即可，无需长途转乘。",
+      "days": "建议安排约2到4天时间，白天游览环湖步道、老城区和各类博物馆，同时至少预留两个夜晚专门用于观赏北极光。"
+    }
   }
 }
