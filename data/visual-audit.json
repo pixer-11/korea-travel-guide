@@ -8949,7 +8949,7 @@
   "slug": "goyang-charlie-puth-concert",
   "verdict": "MATCH",
   "reason": "patrol replace: Performer on stage at concert event",
-  "at": "2026-10-22T00:08:36.119Z"
+  "at": "2026-10-23T22:31:52.059Z"
  },
  "goyang-charlie-puth-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Charlie_Puth_al_Poble_Espanyol_%2857304%29.jpg/3840px-Charlie_Puth_al_Poble_Espanyol_%2857304%29.jpg": {
   "slug": "goyang-charlie-puth-concert",
@@ -9673,6 +9673,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Different event (World Junior Championships), not World Tour Finals",
   "at": "2026-10-22T22:38:45.649Z"
+ },
+ "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/a/ad/TOTAL_BWF_World_Champs_2015_Day_2_Iris_Tabeling.jpg": {
+  "slug": "hangzhou-bwf-world-tour-finals",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Badminton player at professional tournament court",
+  "at": "2026-10-23T22:31:58.422Z"
  },
  "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/f/f6/2018_BWF_World_Championships.jpg": {
   "slug": "hangzhou-bwf-world-tour-finals",
@@ -10688,6 +10694,24 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: identity: Commons places this in India, post says Hong Kong",
   "at": "2026-10-22T22:39:01.820Z"
+ },
+ "hong-kong-hong-kong-open-badminton\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Kai_Tak_Arena_South_Entrance.jpg/3840px-Kai_Tak_Arena_South_Entrance.jpg": {
+  "slug": "hong-kong-hong-kong-open-badminton",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Kai Tak Arena exterior, modern venue architecture",
+  "at": "2026-10-23T22:32:20.411Z"
+ },
+ "hong-kong-hong-kong-open-badminton\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Kai_Tak_Arena_19-04-2026%282%29.jpg/3840px-Kai_Tak_Arena_19-04-2026%282%29.jpg": {
+  "slug": "hong-kong-hong-kong-open-badminton",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Generic cityscape, not badminton event or Kai Tak Arena",
+  "at": "2026-10-23T22:32:17.479Z"
+ },
+ "hong-kong-hong-kong-open-badminton\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Kai_Tak_Arena_19-04-2026%281%29.jpg/3840px-Kai_Tak_Arena_19-04-2026%281%29.jpg": {
+  "slug": "hong-kong-hong-kong-open-badminton",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Generic cityscape, not badminton event or Kai Tak Arena",
+  "at": "2026-10-23T22:32:12.865Z"
  },
  "hong-kong-hong-kong-park\u0001https://upload.wikimedia.org/wikipedia/commons/3/39/Hong_Kong_Park_Overview_2009.jpg": {
   "slug": "hong-kong-hong-kong-park",
@@ -16074,8 +16098,8 @@
  "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Alvaro_Bautista-motogp-2015.JPG/3840px-Alvaro_Bautista-motogp-2015.JPG": {
   "slug": "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia",
   "verdict": "MATCH",
-  "reason": "patrol replace: MotoGP rider at circuit pit garage.",
-  "at": "2026-10-22T00:12:06.992Z"
+  "reason": "patrol replace: MotoGP rider and bike at racing event venue",
+  "at": "2026-10-23T22:34:57.605Z"
  },
  "lombok-mount-rinjani-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Lembah_Torean_Rinjani.jpg/1920px-Lembah_Torean_Rinjani.jpg": {
   "slug": "lombok-mount-rinjani-national-park",
@@ -16113,6 +16137,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Photo of advertising banner, not actual event/players",
   "at": "2026-10-19T23:04:32.251Z"
+ },
+ "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2019_ATP_Finals_at_the_o2_%2849069357912%29.jpg/3840px-2019_ATP_Finals_at_the_o2_%2849069357912%29.jpg": {
+  "slug": "london-atp-finals",
+  "verdict": "MATCH",
+  "reason": "patrol replace: ATP Finals tennis court, blue hard court, arena seating",
+  "at": "2026-10-23T22:35:05.068Z"
  },
  "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Doubles_at_the_ATP_Finals_%2849070105758%29.jpg/3840px-Doubles_at_the_ATP_Finals_%2849070105758%29.jpg": {
   "slug": "london-atp-finals",
@@ -20920,6 +20950,12 @@
   "reason": "hand-reviewed: filename shares only \"christkindlesmarkt\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-23T08:26:13.497Z"
  },
+ "nuremberg-nuremberg-christkindlesmarkt\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Hauptmarkt%2C_Nuremberg_%28P1200902%29.jpg/3840px-Hauptmarkt%2C_Nuremberg_%28P1200902%29.jpg": {
+  "slug": "nuremberg-nuremberg-christkindlesmarkt",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Sightseeing bus, not Christkindlesmarkt venue or event",
+  "at": "2026-10-23T22:36:50.638Z"
+ },
  "nuremberg-nuremberg-christkindlesmarkt\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Lights_in_Christkindlesmarkt_Nuremberg.jpg/3840px-Lights_in_Christkindlesmarkt_Nuremberg.jpg": {
   "slug": "nuremberg-nuremberg-christkindlesmarkt",
   "verdict": "MISMATCH",
@@ -20931,6 +20967,12 @@
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: filename shares only \"christkindlesmarkt\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-22T08:00:49.296Z"
+ },
+ "nuremberg-nuremberg-christkindlesmarkt\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Hauptmarkt%2C_Nuremberg_%28P1200899%29.jpg/3840px-Hauptmarkt%2C_Nuremberg_%28P1200899%29.jpg": {
+  "slug": "nuremberg-nuremberg-christkindlesmarkt",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shows tourist train, not Christkindlesmarkt venue or market",
+  "at": "2026-10-23T22:36:49.119Z"
  },
  "nusa-penida-broken-beach\u0001https://upload.wikimedia.org/wikipedia/commons/6/65/Nusa_Penida_-_Bali_-_Broken_Beach.jpg": {
   "slug": "nusa-penida-broken-beach",
@@ -21384,6 +21426,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Shows a car with Osaka Metro banners, not marathon race",
   "at": "2026-10-22T00:14:57.821Z"
+ },
+ "osaka-osaka-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Osaka_Marathon_2015_006.JPG/3840px-Osaka_Marathon_2015_006.JPG": {
+  "slug": "osaka-osaka-marathon",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Marathon runners in Osaka street race event",
+  "at": "2026-10-23T22:36:57.371Z"
  },
  "osaka-shitenno-ji\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Shitennoji_%26_Abeno_Harukas.jpg/1920px-Shitennoji_%26_Abeno_Harukas.jpg": {
   "slug": "osaka-shitenno-ji",
@@ -22239,7 +22287,7 @@
   "slug": "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour",
   "verdict": "MATCH",
   "reason": "patrol replace: Guitarist performing, plausibly 5SOS band member",
-  "at": "2026-10-22T00:15:47.565Z"
+  "at": "2026-10-23T22:37:47.828Z"
  },
  "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/5_Seconds_of_Summer_First_USA_Acoustic_IMG_3798_%2814848886021%29.jpg/3840px-5_Seconds_of_Summer_First_USA_Acoustic_IMG_3798_%2814848886021%29.jpg": {
   "slug": "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour",
@@ -23449,6 +23497,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Visible photo credit watermark overlaid on image",
   "at": "2026-10-21T22:39:51.614Z"
+ },
+ "puerto-princesa-ironman-70-3-puerto-princesa\u0001https://upload.wikimedia.org/wikipedia/commons/4/4f/Ironman_70.3_World_Championships_%289703304940%29.jpg": {
+  "slug": "puerto-princesa-ironman-70-3-puerto-princesa",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Cyclists racing in triathlon event, appropriate sport",
+  "at": "2026-10-23T22:38:04.382Z"
  },
  "puerto-princesa-ironman-70-3-puerto-princesa\u0001https://upload.wikimedia.org/wikipedia/commons/d/db/Bart_Aernouts_Ironman_70.3_Austria_2012.jpg": {
   "slug": "puerto-princesa-ironman-70-3-puerto-princesa",

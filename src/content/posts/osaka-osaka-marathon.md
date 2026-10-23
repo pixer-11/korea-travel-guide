@@ -11,7 +11,6 @@ eventRecurring: true
 eventOffers:
   url: https://www.osaka-marathon.com/2026/en/
 eventFactsAsked: true
-gallery: []
 tags:
   - osaka
   - event
@@ -29,6 +28,16 @@ faq:
     a: Osaka Castle is right beside the hub. Kyobashi has izakaya a short ride away, Shinsekai is known for kushikatsu under Tsutenkaku, and Dotonbori in Namba is the place for okonomiyaki and takoyaki.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Osaka_Marathon_2015_006.JPG/3840px-Osaka_Marathon_2015_006.JPG
+  credit: 'Photo: Mc681 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Osaka_Marathon_2015_006.JPG
+  focus:
+    x: 48
+    'y': 46
+    top: 44
+    bottom: 48
 ---
 
 ## A city race in late November

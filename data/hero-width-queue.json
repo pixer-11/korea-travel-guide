@@ -2970,7 +2970,12 @@
   "wellington-mount-victoria-lookout\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Wellington_from_the_Mount_Victoria_lookout_2026-06-13.jpg/3840px-Wellington_from_the_Mount_Victoria_lookout_2026-06-13.jpg": 3840,
   "yellowknife-prince-of-wales-northern-heritage-centre\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Prince_of_Wales_Northern_Heritage_Centre%2C_Yellowknife%2C_NT%2C_from_city_hall.jpg/1920px-Prince_of_Wales_Northern_Heritage_Centre%2C_Yellowknife%2C_NT%2C_from_city_hall.jpg": 1920,
   "queenstown-queenstown-gardens\u0001https://upload.wikimedia.org/wikipedia/commons/5/5e/Photograph_of_Queenstown_Gardens_in_New_Zealand.jpg": 3024,
-  "vancouver-gastown-steam-clock\u0001https://upload.wikimedia.org/wikipedia/commons/a/ae/Gastown_Steam_Clock_%26_Buildings.JPG": 2713
+  "vancouver-gastown-steam-clock\u0001https://upload.wikimedia.org/wikipedia/commons/a/ae/Gastown_Steam_Clock_%26_Buildings.JPG": 2713,
+  "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/a/ad/TOTAL_BWF_World_Champs_2015_Day_2_Iris_Tabeling.jpg": 2032,
+  "hong-kong-hong-kong-open-badminton\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Kai_Tak_Arena_South_Entrance.jpg/3840px-Kai_Tak_Arena_South_Entrance.jpg": 3840,
+  "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2019_ATP_Finals_at_the_o2_%2849069357912%29.jpg/3840px-2019_ATP_Finals_at_the_o2_%2849069357912%29.jpg": 3840,
+  "osaka-osaka-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Osaka_Marathon_2015_006.JPG/3840px-Osaka_Marathon_2015_006.JPG": 3840,
+  "puerto-princesa-ironman-70-3-puerto-princesa\u0001https://upload.wikimedia.org/wikipedia/commons/4/4f/Ironman_70.3_World_Championships_%289703304940%29.jpg": 1200
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -3059,8 +3064,8 @@
   },
   "cameron-highlands-sam-poh-temple": {
    "width": 674,
-   "attempts": 9,
-   "nextTry": "2026-10-23",
+   "attempts": 10,
+   "nextTry": "2026-10-30",
    "flaggedAt": "2026-08-20",
    "lastResult": "no-wider"
   },
@@ -3073,29 +3078,29 @@
   },
   "hong-kong-montana": {
    "width": 1080,
-   "attempts": 8,
-   "nextTry": "2026-10-23",
+   "attempts": 9,
+   "nextTry": "2026-10-30",
    "flaggedAt": "2026-08-28",
    "lastResult": "no-wider"
   },
   "kuala-lumpur-niji-sushi-izakaya": {
    "width": 1080,
-   "attempts": 8,
-   "nextTry": "2026-10-23",
+   "attempts": 9,
+   "nextTry": "2026-10-30",
    "flaggedAt": "2026-08-28",
    "lastResult": "no-wider"
   },
   "lyon-ayla": {
    "width": 1008,
-   "attempts": 8,
-   "nextTry": "2026-10-23",
+   "attempts": 9,
+   "nextTry": "2026-10-30",
    "flaggedAt": "2026-08-28",
    "lastResult": "no-wider"
   },
   "madrid-el-campero": {
    "width": 1080,
-   "attempts": 8,
-   "nextTry": "2026-10-23",
+   "attempts": 9,
+   "nextTry": "2026-10-30",
    "flaggedAt": "2026-08-28",
    "lastResult": "no-wider"
   },
@@ -3136,8 +3141,8 @@
   },
   "jakarta-erre-urrechu": {
    "width": 1080,
-   "attempts": 7,
-   "nextTry": "2026-10-23",
+   "attempts": 8,
+   "nextTry": "2026-10-30",
    "flaggedAt": "2026-09-03",
    "lastResult": "no-wider"
   },
@@ -3490,5 +3495,5 @@
    "flaggedAt": "2026-10-21"
   }
  },
- "updated": "2026-10-23T13:33:32.697Z"
+ "updated": "2026-10-23T22:42:18.076Z"
 }

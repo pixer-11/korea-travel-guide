@@ -30,6 +30,14 @@ faq:
     a: Matches are best of three games to 21 points. Singles typically run from about 40 minutes to over an hour, and doubles are often shorter.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Kai_Tak_Arena_South_Entrance.jpg/3840px-Kai_Tak_Arena_South_Entrance.jpg
+  credit: 'Photo: Ceeseven / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Kai_Tak_Arena_South_Entrance.jpg
+  focus:
+    x: 50
+    'y': 45
 ---
 
 ## Six days, five draws, one arena
