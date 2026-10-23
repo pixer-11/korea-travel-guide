@@ -1,44 +1,52 @@
 ---
-title: "Jean Talon Market: Montreal Travel Guide (4.6★)"
-description: "Jean Talon Market is Montreal's big open-air farmers' market in Little Italy, a few minutes' walk from De Castelnau metro station (Blue Line). 4.6★ (34,123 reviews) — what visitors say, hours, and tips."
-country: "Canada"
-region: "Montreal"
-category: "hidden-gem"
-pubDate: "2026-10-23T13:19:47.913Z"
+title: 'Jean Talon Market: Montreal Travel Guide (4.6★)'
+description: >-
+  Jean Talon Market is Montreal's big open-air farmers' market in Little Italy,
+  a few minutes' walk from De Castelnau metro station (Blue Line). 4.6★ (34,131
+  reviews) — what visitors say, hours, and tips.
+country: Canada
+region: Montreal
+category: hidden-gem
+pubDate: '2026-10-23T13:19:47.913Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/March%C3%A9_Jean-Talon_05-11-2024.jpg/1920px-March%C3%A9_Jean-Talon_05-11-2024.jpg"
-  credit: "Photo: Brandon Moore (Raskuly) / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:March%C3%A9_Jean-Talon_05-11-2024.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/March%C3%A9_Jean-Talon_05-11-2024.jpg/1920px-March%C3%A9_Jean-Talon_05-11-2024.jpg
+  credit: 'Photo: Brandon Moore (Raskuly) / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:March%C3%A9_Jean-Talon_05-11-2024.jpg
   focus:
     x: 50
-    y: 30
+    'y': 30
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/4/4f/Jean-Talon_Market_MTL_FruitBoxes_20060927.jpg"
-    credit: "Photo: Niranjan Arminius / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Jean-Talon_Market_MTL_FruitBoxes_20060927.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/4/4f/Jean-Talon_Market_MTL_FruitBoxes_20060927.jpg
+    credit: 'Photo: Niranjan Arminius / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Jean-Talon_Market_MTL_FruitBoxes_20060927.jpg
 place:
-  id: "ChIJnYQwYRMZyUwRgXnYONiYEFw"
-  name: "Jean Talon Market"
-  address: "7070 Av. Henri-Julien, Montréal, QC H2S 3A3, Canada"
+  id: ChIJnYQwYRMZyUwRgXnYONiYEFw
+  name: Jean Talon Market
+  address: '7070 Av. Henri-Julien, Montréal, QC H2S 3A3, Canada'
   rating: 4.6
-  userRatingsTotal: 34123
-  googleMapsUrl: "https://maps.google.com/?cid=6633970305550809473&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 34131
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6633970305550809473&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 45.536109499999995
   lng: -73.61489019999999
-  phone: "+1 514-937-7754"
+  phone: +1 514-937-7754
   openingHours:
-    - "Monday: 8:00 AM – 6:00 PM"
-    - "Tuesday: 8:00 AM – 6:00 PM"
-    - "Wednesday: 8:00 AM – 6:00 PM"
-    - "Thursday: 8:00 AM – 6:00 PM"
-    - "Friday: 8:00 AM – 6:00 PM"
-    - "Saturday: 8:00 AM – 6:00 PM"
-    - "Sunday: 8:00 AM – 5:00 PM"
+    - 'Monday: 8:00 AM – 6:00 PM'
+    - 'Tuesday: 8:00 AM – 6:00 PM'
+    - 'Wednesday: 8:00 AM – 6:00 PM'
+    - 'Thursday: 8:00 AM – 6:00 PM'
+    - 'Friday: 8:00 AM – 6:00 PM'
+    - 'Saturday: 8:00 AM – 6:00 PM'
+    - 'Sunday: 8:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-10-23
+    updated: 2026-10-23T00:00:00.000Z
     weekdayQuiet:
       - 8
       - 9
@@ -54,24 +62,44 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_77464559694e4f596e5867527755795a4d52597751596e4a496843"
+    venueId: ven_77464559694e4f596e5867527755795a4d52597751596e4a496843
 tags:
-  - "montreal"
-  - "Jean-Talon Market"
-quickAnswer: "Jean Talon Market is Montreal's big open-air farmers' market in Little Italy, a few minutes' walk from De Castelnau metro station (Blue Line). Go on a weekday between 8am and 11am, or 8am–9am at weekends, and stay away after 11am on Saturdays and Sundays, when the aisles stay packed until closing. Right now it opens 8am–6pm Monday to Saturday and 8am–5pm on Sunday."
+  - montreal
+  - Jean-Talon Market
+quickAnswer: >-
+  Jean Talon Market is Montreal's big open-air farmers' market in Little Italy,
+  a few minutes' walk from De Castelnau metro station (Blue Line). Go on a
+  weekday between 8am and 11am, or 8am–9am at weekends, and stay away after 11am
+  on Saturdays and Sundays, when the aisles stay packed until closing. Right now
+  it opens 8am–6pm Monday to Saturday and 8am–5pm on Sunday.
 faq:
-  - q: "When is the quietest time to visit Jean Talon Market?"
-    a: "On weekdays it's calmest between 8am and 11am. At weekends the only quiet window is 8am–9am. Stay away on Saturdays and Sundays from 11am to 6pm, when it's busiest."
-  - q: "What's the nearest metro station?"
-    a: "De Castelnau on the Blue Line is the closest, a short walk away. Jean-Talon station, on both the Orange and Blue lines, is a little farther."
-  - q: "Is Jean Talon Market open in winter?"
-    a: "Yes. Enclosures go up around the central stalls and trading carries on, though there are fewer farm stands. Hours can change through the year, so check the official site."
-  - q: "How long should I spend there?"
-    a: "Allow 1–2 hours to walk every aisle. Give yourself longer if you want to taste and eat as you go."
-  - q: "What's nearby?"
-    a: "The market sits in Little Italy, so you're steps from the cafés on Boulevard Saint-Laurent. The Church of Notre-Dame-de-la-Défense is a few blocks away."
+  - q: When is the quietest time to visit Jean Talon Market?
+    a: >-
+      On weekdays it's calmest between 8am and 11am. At weekends the only quiet
+      window is 8am–9am. Stay away on Saturdays and Sundays from 11am to 6pm,
+      when it's busiest.
+  - q: What's the nearest metro station?
+    a: >-
+      De Castelnau on the Blue Line is the closest, a short walk away.
+      Jean-Talon station, on both the Orange and Blue lines, is a little
+      farther.
+  - q: Is Jean Talon Market open in winter?
+    a: >-
+      Yes. Enclosures go up around the central stalls and trading carries on,
+      though there are fewer farm stands. Hours can change through the year, so
+      check the official site.
+  - q: How long should I spend there?
+    a: >-
+      Allow 1–2 hours to walk every aisle. Give yourself longer if you want to
+      taste and eat as you go.
+  - q: What's nearby?
+    a: >-
+      The market sits in Little Italy, so you're steps from the cafés on
+      Boulevard Saint-Laurent. The Church of Notre-Dame-de-la-Défense is a few
+      blocks away.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-23'
 ---
 
 ## Aisles that change with the season

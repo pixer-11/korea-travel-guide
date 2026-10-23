@@ -1,60 +1,90 @@
 ---
-title: "Cascade of Time Garden: Banff Travel Guide (4.7★)"
-description: "Cascade of Time Garden sits at the south end of Banff Avenue in Banff, just across the Bow River Bridge behind the stone Park Administration Building, about a 10-minute walk from downtown. 4.7★ (3,980 reviews) — what visitors say, hours, and tips."
-country: "Canada"
-region: "Banff"
-category: "attraction"
-pubDate: "2026-10-23T08:11:59.290Z"
+title: 'Cascade of Time Garden: Banff Travel Guide (4.7★)'
+description: >-
+  Cascade of Time Garden sits at the south end of Banff Avenue in Banff, just
+  across the Bow River Bridge behind the stone Park Administration Building,
+  about a 10-minute walk from downtown. 4.7★ (3,981 reviews) — what visitors
+  say, hours, and tips.
+country: Canada
+region: Banff
+category: attraction
+pubDate: '2026-10-23T08:11:59.290Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Mount_Rundle_Cascades_of_Time_Garden.jpg/3840px-Mount_Rundle_Cascades_of_Time_Garden.jpg"
-  credit: "Photo: Adam Bishop / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Mount_Rundle_Cascades_of_Time_Garden.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Mount_Rundle_Cascades_of_Time_Garden.jpg/3840px-Mount_Rundle_Cascades_of_Time_Garden.jpg
+  credit: 'Photo: Adam Bishop / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Mount_Rundle_Cascades_of_Time_Garden.jpg
+  via: act
   focus:
     x: 50
-    y: 55
+    'y': 55
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Cascades_of_Time_Garden.jpg/3840px-Cascades_of_Time_Garden.jpg"
-    credit: "Photo: Adam Bishop / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Cascades_of_Time_Garden.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Cascades_of_Time_Garden.jpg/3840px-Cascades_of_Time_Garden.jpg
+    credit: 'Photo: Adam Bishop / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Cascades_of_Time_Garden.jpg'
 place:
-  id: "ChIJHX8xRUfKcFMRfyvAhgminoI"
-  name: "Cascade of Time Garden"
-  address: "Cave Ave, Banff, AB T1L 1K2, Canada"
+  id: ChIJHX8xRUfKcFMRfyvAhgminoI
+  name: Cascade of Time Garden
+  address: 'Cave Ave, Banff, AB T1L 1K2, Canada'
   rating: 4.7
-  userRatingsTotal: 3980
-  googleMapsUrl: "https://maps.google.com/?cid=9412138433050061695&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 3981
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9412138433050061695&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 51.171378999999995
   lng: -115.5717516
-  phone: "+1 403-762-1550"
+  phone: +1 403-762-1550
   openingHours:
-    - "Monday: 8:00 AM – 11:00 PM"
-    - "Tuesday: 8:00 AM – 11:00 PM"
-    - "Wednesday: 8:00 AM – 11:00 PM"
-    - "Thursday: 8:00 AM – 11:00 PM"
-    - "Friday: 8:00 AM – 11:00 PM"
-    - "Saturday: 8:00 AM – 11:00 PM"
-    - "Sunday: 8:00 AM – 11:00 PM"
+    - 'Monday: 8:00 AM – 11:00 PM'
+    - 'Tuesday: 8:00 AM – 11:00 PM'
+    - 'Wednesday: 8:00 AM – 11:00 PM'
+    - 'Thursday: 8:00 AM – 11:00 PM'
+    - 'Friday: 8:00 AM – 11:00 PM'
+    - 'Saturday: 8:00 AM – 11:00 PM'
+    - 'Sunday: 8:00 AM – 11:00 PM'
 tags:
-  - "banff"
-  - "park"
-quickAnswer: "Cascade of Time Garden sits at the south end of Banff Avenue in Banff, just across the Bow River Bridge behind the stone Park Administration Building, about a 10-minute walk from downtown. It is currently open 8am–11pm, but hours can shift with the season, so check before a late visit. Give it 30–60 minutes, ideally in summer when the terraces are in bloom."
+  - banff
+  - park
+quickAnswer: >-
+  Cascade of Time Garden sits at the south end of Banff Avenue in Banff, just
+  across the Bow River Bridge behind the stone Park Administration Building,
+  about a 10-minute walk from downtown. It is currently open 8am–11pm, but hours
+  can shift with the season, so check before a late visit. Give it 30–60
+  minutes, ideally in summer when the terraces are in bloom.
 faq:
-  - q: "Where exactly is Cascade of Time Garden in Banff?"
-    a: "It's on Cave Avenue at the south end of Banff Avenue, just across the Bow River Bridge. It surrounds the stone Banff Park Administration Building, about a 10–15 minute walk from downtown."
-  - q: "What are the opening hours?"
-    a: "Right now it's listed as open 8am–11pm daily. Garden hours can change with the season, so check the Parks Canada site before planning a very early or late visit."
-  - q: "How long should I spend there?"
-    a: "Most visitors spend 30–60 minutes walking the terraces and sitting by the water. Leave more time if you're adding Cave and Basin or the Bow River trail nearby."
-  - q: "When is the best time of year to visit?"
-    a: "July and August are best for flowers, and September brings autumn colour and clear mountain views. In winter the garden is under snow, though the stone terraces and Cascade Mountain view are still there."
-  - q: "Can I park near the garden?"
-    a: "Parking near downtown Banff is limited in summer, and the rules change, so check the Town of Banff website or the signs at each lot. Walking from Banff Avenue or taking Roam Transit is usually easier. You need a Parks Canada pass to stop anywhere in the park."
+  - q: Where exactly is Cascade of Time Garden in Banff?
+    a: >-
+      It's on Cave Avenue at the south end of Banff Avenue, just across the Bow
+      River Bridge. It surrounds the stone Banff Park Administration Building,
+      about a 10–15 minute walk from downtown.
+  - q: What are the opening hours?
+    a: >-
+      Right now it's listed as open 8am–11pm daily. Garden hours can change with
+      the season, so check the Parks Canada site before planning a very early or
+      late visit.
+  - q: How long should I spend there?
+    a: >-
+      Most visitors spend 30–60 minutes walking the terraces and sitting by the
+      water. Leave more time if you're adding Cave and Basin or the Bow River
+      trail nearby.
+  - q: When is the best time of year to visit?
+    a: >-
+      July and August are best for flowers, and September brings autumn colour
+      and clear mountain views. In winter the garden is under snow, though the
+      stone terraces and Cascade Mountain view are still there.
+  - q: Can I park near the garden?
+    a: >-
+      Parking near downtown Banff is limited in summer, and the rules change, so
+      check the Town of Banff website or the signs at each lot. Walking from
+      Banff Avenue or taking Roam Transit is usually easier. You need a Parks
+      Canada pass to stop anywhere in the park.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-23'
 ---
 
 ## Banff Avenue's other end

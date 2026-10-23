@@ -1,59 +1,88 @@
 ---
-title: "Plaza San Blas: Cusco Travel Guide (4.5★)"
-description: "Plaza San Blas is a small sloping square at the top of Cuesta de San Blas in Cusco's San Blas artisan neighbourhood, a steep 10–15 minute walk uphill from the Plaza de Armas. 4.5★ (3,224 reviews) — what visitors say, hours, and tips."
-country: "Peru"
-region: "Cusco"
-category: "hidden-gem"
-pubDate: "2026-10-23T13:19:55.162Z"
+title: 'Plaza San Blas: Cusco Travel Guide (4.5★)'
+description: >-
+  Plaza San Blas is a small sloping square at the top of Cuesta de San Blas in
+  Cusco's San Blas artisan neighbourhood, a steep 10–15 minute walk uphill from
+  the Plaza de Armas. 4.5★ (3,225 reviews) — what visitors say, hours, and tips.
+country: Peru
+region: Cusco
+category: hidden-gem
+pubDate: '2026-10-23T13:19:55.162Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/8/82/Lascar_Plaza_San_Blas_at_dawn_%28Cuzco%29_%284577529043%29.jpg"
-  credit: "Photo: Jorge Láscar from Australia / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Lascar_Plaza_San_Blas_at_dawn_(Cuzco)_(4577529043).jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/8/82/Lascar_Plaza_San_Blas_at_dawn_%28Cuzco%29_%284577529043%29.jpg
+  credit: 'Photo: Jorge Láscar from Australia / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Lascar_Plaza_San_Blas_at_dawn_(Cuzco)_(4577529043).jpg
+  via: act
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/b/b5/Plaza_de_San_Blas%2C_Cusco%2C_Per%C3%BA.jpg"
-    credit: "Photo: Carlos Adampol Galindo / Wikimedia Commons (CC BY-SA 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Plaza_de_San_Blas,_Cusco,_Per%C3%BA.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/b/b5/Plaza_de_San_Blas%2C_Cusco%2C_Per%C3%BA.jpg
+    credit: 'Photo: Carlos Adampol Galindo / Wikimedia Commons (CC BY-SA 2.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Plaza_de_San_Blas,_Cusco,_Per%C3%BA.jpg
 place:
-  id: "ChIJ5SmbwgzWbZERUh13dAx8Ax0"
-  name: "Plaza San Blas"
-  address: "F2MG+W7Q Cuesta de San Blas, Cusco 08003, Peru"
+  id: ChIJ5SmbwgzWbZERUh13dAx8Ax0
+  name: Plaza San Blas
+  address: 'F2MG+W7Q Cuesta de San Blas, Cusco 08003, Peru'
   rating: 4.5
-  userRatingsTotal: 3224
-  googleMapsUrl: "https://maps.google.com/?cid=2090651044965457234&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 3225
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2090651044965457234&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -13.515163399999999
   lng: -71.9742527
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "cusco"
-  - "San Blas Neighbourhood"
-quickAnswer: "Plaza San Blas is a small sloping square at the top of Cuesta de San Blas in Cusco's San Blas artisan neighbourhood, a steep 10–15 minute walk uphill from the Plaza de Armas. Come for the whitewashed Templo de San Blas and its carved cedar pulpit, the workshops on the surrounding lanes, and the rooftop views. Morning light and a slow pace suit the altitude best."
+  - cusco
+  - San Blas Neighbourhood
+quickAnswer: >-
+  Plaza San Blas is a small sloping square at the top of Cuesta de San Blas in
+  Cusco's San Blas artisan neighbourhood, a steep 10–15 minute walk uphill from
+  the Plaza de Armas. Come for the whitewashed Templo de San Blas and its carved
+  cedar pulpit, the workshops on the surrounding lanes, and the rooftop views.
+  Morning light and a slow pace suit the altitude best.
 faq:
-  - q: "How do I get to Plaza San Blas from the Plaza de Armas?"
-    a: "Walk. Head up Calle Hatunrumiyoc past the Twelve-Angled Stone, then continue up Cuesta de San Blas to the square. It takes about 10–15 minutes uphill, and taxis can't get through the narrow lanes."
-  - q: "How long should I spend in San Blas?"
-    a: "Allow 1.5–2 hours for the square, the Templo de San Blas and a loop along Calle Tandapata and Carmen Alto. Add more time for a café stop or the climb to the Mirador de San Blas."
-  - q: "Can I go inside the Templo de San Blas?"
-    a: "Yes. Entry is part of the Boleto Religioso circuit ticket, which also covers Cusco's cathedral. The current price and hours are posted at the church and the cathedral ticket office. Photography isn't allowed inside."
-  - q: "What's the best time of day to visit?"
-    a: "Mornings are good for clear light and for a slower climb before the walking tours come up from the centre. Dusk is good for watching the city lights come on below."
-  - q: "Is the walk hard because of the altitude?"
-    a: "It's steep, and Cusco sits at around 3,400 metres, so pause on the landings. If you've just arrived, leave San Blas until you've had a day or two to acclimatise."
+  - q: How do I get to Plaza San Blas from the Plaza de Armas?
+    a: >-
+      Walk. Head up Calle Hatunrumiyoc past the Twelve-Angled Stone, then
+      continue up Cuesta de San Blas to the square. It takes about 10–15 minutes
+      uphill, and taxis can't get through the narrow lanes.
+  - q: How long should I spend in San Blas?
+    a: >-
+      Allow 1.5–2 hours for the square, the Templo de San Blas and a loop along
+      Calle Tandapata and Carmen Alto. Add more time for a café stop or the
+      climb to the Mirador de San Blas.
+  - q: Can I go inside the Templo de San Blas?
+    a: >-
+      Yes. Entry is part of the Boleto Religioso circuit ticket, which also
+      covers Cusco's cathedral. The current price and hours are posted at the
+      church and the cathedral ticket office. Photography isn't allowed inside.
+  - q: What's the best time of day to visit?
+    a: >-
+      Mornings are good for clear light and for a slower climb before the
+      walking tours come up from the centre. Dusk is good for watching the city
+      lights come on below.
+  - q: Is the walk hard because of the altitude?
+    a: >-
+      It's steep, and Cusco sits at around 3,400 metres, so pause on the
+      landings. If you've just arrived, leave San Blas until you've had a day or
+      two to acclimatise.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-23'
 ---
 
 ## A Square Built on a Slope

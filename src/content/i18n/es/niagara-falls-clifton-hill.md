@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: niagara-falls-clifton-hill
-srcHash: '4defd7f67cc4'
+srcHash: '4ca4f981a64d'
 title: 'Clifton Hill: guía de viaje de Niagara Falls (4.7★)'
-description: En Niagara Falls (Ontario), Clifton Hill es una calle turística corta y empinada que sube desde el río Niágara, junto al Rainbow Bridge, hasta Victoria Avenue. Tiene una valoración de 4.7★ (1,586 reseñas). Aquí encontrará las opiniones de los visitantes, los horarios y algunos consejos.
+description: En Niagara Falls (Ontario), Clifton Hill es una calle turística corta y empinada que sube desde el río Niágara, junto al Rainbow Bridge, hasta Victoria Avenue. Tiene una valoración de 4.7★ (1,588 reseñas). Aquí encontrará las opiniones de los visitantes, los horarios y algunos consejos.
 quickAnswer: En Niagara Falls (Ontario), Clifton Hill es una calle turística corta y empinada que sube desde el río Niágara, junto al Rainbow Bridge, hasta Victoria Avenue. A ambos lados se apiñan la noria Niagara SkyWheel, campos de minigolf, museos de cera, casas del terror y restaurantes de cadena. Calcule entre 2 y 4 horas de visita y baje hasta los miradores de las cataratas, al pie de la cuesta. Antes de comprar entradas, consulte los precios y horarios en los carteles de cada atracción o en las webs oficiales.
 faq:
   - q: ¿Cuánto tiempo conviene dedicar a Clifton Hill?

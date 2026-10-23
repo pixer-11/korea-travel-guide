@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: arequipa-plaza-de-armas-arequipa
-srcHash: 'c6131caf3758'
+srcHash: '05fe0df3d116'
 title: 'Plaza de Armas: guía de viaje de Arequipa (4.7★)'
-description: La Plaza de Armas es la plaza principal del centro histórico de Arequipa. Tres de sus lados están rodeados de portales de piedra blanca y la Basílica Catedral ocupa el cuarto entero. Tiene una valoración de 4.7★ (52,586 reseñas). Aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
+description: La Plaza de Armas es la plaza principal del centro histórico de Arequipa. Tres de sus lados están rodeados de portales de piedra blanca y la Basílica Catedral ocupa el cuarto entero. Tiene una valoración de 4.7★ (52,593 reseñas). Aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
 quickAnswer: La Plaza de Armas es la plaza principal del centro histórico de Arequipa. Tres de sus lados están rodeados de portales de piedra blanca y la Basílica Catedral ocupa el cuarto entero. Lo ideal es llegar temprano, en una mañana despejada, cuando el Misti asoma detrás de las torres de la catedral. Con una hora basta para recorrerla. Desde allí, la iglesia de La Compañía queda a dos cuadras y el Monasterio de Santa Catalina, a unas pocas más.
 faq:
   - q: ¿Cuál es el mejor momento del día para visitar la Plaza de Armas de Arequipa?

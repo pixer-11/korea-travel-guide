@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: calgary-heritage-park
-srcHash: '82d5d71d6322'
+srcHash: 'de25445f6048'
 title: 'Heritage Park: guía de viaje de Calgary (4.7★)'
-description: 'En el suroeste de Calgary, a orillas del embalse Glenmore, Heritage Park recrea una aldea histórica viva con tren de vapor, barco de rueda de popa, atracciones de feria antiguas y guías caracterizados de época. 4.7★ (8,655 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En el suroeste de Calgary, a orillas del embalse Glenmore, Heritage Park recrea una aldea histórica viva con tren de vapor, barco de rueda de popa, atracciones de feria antiguas y guías caracterizados de época. 4.7★ (8,658 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En el suroeste de Calgary, a orillas del embalse Glenmore, Heritage Park recrea una aldea histórica viva con tren de vapor, barco de rueda de popa, atracciones de feria antiguas y guías caracterizados de época. Conviene dedicarle como mínimo media jornada. Los fines de semana, la mayor afluencia se concentra de 10am–5pm, así que es preferible ir entre semana si es posible. Antes de salir, consulte en el sitio oficial los horarios de la temporada en curso.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar Heritage Park?

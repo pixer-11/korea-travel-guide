@@ -1,60 +1,93 @@
 ---
-title: "Plaza de Armas: Arequipa Travel Guide (4.7★)"
-description: "Plaza de Armas is the main square of Arequipa's historic centre: arcaded white stone on three sides and the Basilica Cathedral filling the whole fourth. 4.7★ (52,586 reviews) — what visitors say, hours, and tips."
-country: "Peru"
-region: "Arequipa"
-category: "attraction"
-pubDate: "2026-10-23T08:12:46.448Z"
+title: 'Plaza de Armas: Arequipa Travel Guide (4.7★)'
+description: >-
+  Plaza de Armas is the main square of Arequipa's historic centre: arcaded white
+  stone on three sides and the Basilica Cathedral filling the whole fourth. 4.7★
+  (52,593 reviews) — what visitors say, hours, and tips.
+country: Peru
+region: Arequipa
+category: attraction
+pubDate: '2026-10-23T08:12:46.448Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Arequipa_-_Plaza_de_Armas_-_panoramio_%281%29.jpg/3840px-Arequipa_-_Plaza_de_Armas_-_panoramio_%281%29.jpg"
-  credit: "Photo: Pavel Špindler / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Arequipa_-_Plaza_de_Armas_-_panoramio_(1).jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Arequipa_-_Plaza_de_Armas_-_panoramio_%281%29.jpg/3840px-Arequipa_-_Plaza_de_Armas_-_panoramio_%281%29.jpg
+  credit: 'Photo: Pavel Špindler / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Arequipa_-_Plaza_de_Armas_-_panoramio_(1).jpg
+  via: act
   focus:
     x: 78
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Arequipa_-_Plaza_de_Armas_-_panoramio.jpg/3840px-Arequipa_-_Plaza_de_Armas_-_panoramio.jpg"
-    credit: "Photo: Pavel Špindler / Wikimedia Commons (CC BY 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Arequipa_-_Plaza_de_Armas_-_panoramio.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Arequipa_-_Plaza_de_Armas_-_panoramio.jpg/3840px-Arequipa_-_Plaza_de_Armas_-_panoramio.jpg
+    credit: 'Photo: Pavel Špindler / Wikimedia Commons (CC BY 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Arequipa_-_Plaza_de_Armas_-_panoramio.jpg
 place:
-  id: "ChIJmSmu_1lKQpERcNKcH530GcQ"
-  name: "Plaza de Armas Arequipa"
-  address: "Arequipa 04001, Peru"
+  id: ChIJmSmu_1lKQpERcNKcH530GcQ
+  name: Plaza de Armas Arequipa
+  address: 'Arequipa 04001, Peru'
   rating: 4.7
-  userRatingsTotal: 52586
-  googleMapsUrl: "https://maps.google.com/?cid=14130594261529055856&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 52593
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14130594261529055856&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -16.398814599999998
   lng: -71.5368919
-  phone: "+51 54 211021"
+  phone: +51 54 211021
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "arequipa"
-  - "historic site"
-quickAnswer: "Plaza de Armas is the main square of Arequipa's historic centre: arcaded white stone on three sides and the Basilica Cathedral filling the whole fourth. Come early on a clear morning, when El Misti stands behind the cathedral towers. Give it an hour, then walk two blocks to La Compañía and a few more to Santa Catalina Monastery."
+  - arequipa
+  - historic site
+quickAnswer: >-
+  Plaza de Armas is the main square of Arequipa's historic centre: arcaded white
+  stone on three sides and the Basilica Cathedral filling the whole fourth. Come
+  early on a clear morning, when El Misti stands behind the cathedral towers.
+  Give it an hour, then walk two blocks to La Compañía and a few more to Santa
+  Catalina Monastery.
 faq:
-  - q: "When is the best time of day to visit Plaza de Armas in Arequipa?"
-    a: "Morning usually gives the clearest view of El Misti behind the cathedral, because cloud can build over the volcanoes later in the day. Come back after dark to see the cathedral facade floodlit. The square is public space and Google lists it as open 24 hours."
-  - q: "How long should I spend at the Plaza de Armas?"
-    a: "Allow about an hour for the square and the cathedral, more if you stop for a drink on a portal balcony. Add a couple of hours if you continue to Santa Catalina Monastery, a few blocks north."
-  - q: "Can I go inside Arequipa Cathedral?"
-    a: "Yes. The cathedral offers guided visits and has a museum, and inside you'll find a large Belgian organ and a carved pulpit with the devil at its base. Visiting hours and mass times change, so check the cathedral's posted notices before you go, and avoid taking photos during services."
-  - q: "How do I get to the Plaza de Armas from the airport or bus terminal?"
-    a: "Arequipa has no metro. Take an official taxi or use a ride-hailing app from Rodríguez Ballón airport or the Terrapuerto bus terminal and ask for \"Plaza de Armas\". From hotels in the historic centre, it's usually a short walk."
-  - q: "What is there to see near the Plaza de Armas?"
-    a: "Iglesia de la Compañía and its cloisters are just off the southeast corner. Santa Catalina Monastery is a few blocks north, and Calle Mercaderes is a pedestrian street leading off the square. The Yanahuara viewpoint, across the Chili River, frames El Misti through sillar arches."
+  - q: When is the best time of day to visit Plaza de Armas in Arequipa?
+    a: >-
+      Morning usually gives the clearest view of El Misti behind the cathedral,
+      because cloud can build over the volcanoes later in the day. Come back
+      after dark to see the cathedral facade floodlit. The square is public
+      space and Google lists it as open 24 hours.
+  - q: How long should I spend at the Plaza de Armas?
+    a: >-
+      Allow about an hour for the square and the cathedral, more if you stop for
+      a drink on a portal balcony. Add a couple of hours if you continue to
+      Santa Catalina Monastery, a few blocks north.
+  - q: Can I go inside Arequipa Cathedral?
+    a: >-
+      Yes. The cathedral offers guided visits and has a museum, and inside
+      you'll find a large Belgian organ and a carved pulpit with the devil at
+      its base. Visiting hours and mass times change, so check the cathedral's
+      posted notices before you go, and avoid taking photos during services.
+  - q: How do I get to the Plaza de Armas from the airport or bus terminal?
+    a: >-
+      Arequipa has no metro. Take an official taxi or use a ride-hailing app
+      from Rodríguez Ballón airport or the Terrapuerto bus terminal and ask for
+      "Plaza de Armas". From hotels in the historic centre, it's usually a short
+      walk.
+  - q: What is there to see near the Plaza de Armas?
+    a: >-
+      Iglesia de la Compañía and its cloisters are just off the southeast
+      corner. Santa Catalina Monastery is a few blocks north, and Calle
+      Mercaderes is a pedestrian street leading off the square. The Yanahuara
+      viewpoint, across the Chili River, frames El Misti through sillar arches.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-23'
 ---
 
 ## White stone, three volcanoes

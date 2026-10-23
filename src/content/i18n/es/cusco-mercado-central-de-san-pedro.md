@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: cusco-mercado-central-de-san-pedro
-srcHash: '12f6d992c6b1'
+srcHash: 'd2e90e9ab76f'
 title: 'Mercado Central de San Pedro: guía de viaje de Cusco (4.3★)'
 description: A 10 minutos a pie al suroeste de la Plaza de Armas se encuentra el Mercado Central de San Pedro, el gran mercado cubierto de Cusco. Tiene una valoración de 4.3★ con 46,008 reseñas; aquí encontrará la opinión de los visitantes, el horario y algunos consejos.
 quickAnswer: A 10 minutos a pie al suroeste de la Plaza de Armas se levanta el Mercado Central de San Pedro, el principal mercado cubierto de Cusco. Merece la pena ir a desayunar un jugo, tomar un plato de sopa en sus mostradores y recorrer los pasillos de productos frescos. Hay más calma entre las 7am–9am los días laborables y entre las 7am–8am los fines de semana. Conviene evitar las tardes del fin de semana, porque la afluencia no decae desde las 10am hasta el cierre de las 6pm del sábado.

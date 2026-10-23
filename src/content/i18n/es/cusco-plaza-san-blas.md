@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: cusco-plaza-san-blas
-srcHash: 'ca95be94116a'
+srcHash: 'f3d49c10859d'
 title: 'Plaza San Blas: guía de viaje de Cusco (4.5★)'
-description: 'En lo alto de la Cuesta de San Blas, dentro del barrio artesano de San Blas, en Cusco, se encuentra esta pequeña plaza en pendiente, a unos 10–15 minutos de empinada subida desde la Plaza de Armas. Valoración de 4.5★ (3,224 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En lo alto de la Cuesta de San Blas, dentro del barrio artesano de San Blas, en Cusco, se encuentra esta pequeña plaza en pendiente, a unos 10–15 minutos de empinada subida desde la Plaza de Armas. Valoración de 4.5★ (3,225 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En lo alto de la Cuesta de San Blas, dentro del barrio artesano de San Blas, en Cusco, se encuentra la Plaza San Blas, una pequeña plaza en pendiente a la que se llega tras 10–15 minutos de empinada subida desde la Plaza de Armas. Merece la visita por el encalado Templo de San Blas y su púlpito de cedro tallado, por los talleres de las callejuelas que la rodean y por las vistas desde las azoteas. Para sobrellevar mejor la altitud, conviene ir por la mañana, con buena luz, y caminar sin prisas.
 faq:
   - q: ¿Cómo se llega a la Plaza San Blas desde la Plaza de Armas?

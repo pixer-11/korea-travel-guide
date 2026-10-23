@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: montreal-jean-talon-market
-srcHash: 'b660e9cc804f'
+srcHash: '56102e732618'
 title: 'Mercado Jean-Talon: guía de viaje de Montreal (4.6★)'
-description: El Mercado Jean-Talon es el gran mercado de productores al aire libre de Montreal. Se encuentra en la Pequeña Italia, a pocos minutos a pie de la estación de metro De Castelnau (línea azul). Tiene una valoración de 4.6★ (34,123 reseñas). Aquí encontrará qué opinan los visitantes, los horarios y algunos consejos.
+description: El Mercado Jean-Talon es el gran mercado de productores al aire libre de Montreal. Se encuentra en la Pequeña Italia, a pocos minutos a pie de la estación de metro De Castelnau (línea azul). Tiene una valoración de 4.6★ (34,131 reseñas). Aquí encontrará qué opinan los visitantes, los horarios y algunos consejos.
 quickAnswer: En plena Pequeña Italia, a pocos minutos a pie de la estación de metro De Castelnau (línea azul), se encuentra el Mercado Jean-Talon (Marché Jean-Talon), el gran mercado de productores al aire libre de Montreal. Entre semana conviene ir de 8 a 11 de la mañana. Los fines de semana, lo mejor es llegar de 8 a 9 de la mañana. Evite los sábados y domingos a partir de las 11 de la mañana, porque los pasillos permanecen abarrotados hasta el cierre. Actualmente abre de lunes a sábado de 8 de la mañana a 6 de la tarde, y los domingos de 8 de la mañana a 5 de la tarde.
 faq:
   - q: ¿Cuándo hay menos gente en el Mercado Jean-Talon?

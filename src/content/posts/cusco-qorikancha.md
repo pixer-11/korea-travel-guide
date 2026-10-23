@@ -1,45 +1,53 @@
 ---
-title: "Qorikancha: Cusco Travel Guide (4.7★)"
-description: "Qorikancha, Cusco's Inca Temple of the Sun, stands on Santo Domingo a short walk downhill from the Plaza de Armas, with the colonial Convent of Santo Domingo built on top of it. 4.7★ (20,718 reviews) — what visitors say, hours, and tips."
-country: "Peru"
-region: "Cusco"
-category: "attraction"
-pubDate: "2026-10-23T08:13:24.743Z"
+title: 'Qorikancha: Cusco Travel Guide (4.7★)'
+description: >-
+  Qorikancha, Cusco's Inca Temple of the Sun, stands on Santo Domingo a short
+  walk downhill from the Plaza de Armas, with the colonial Convent of Santo
+  Domingo built on top of it. 4.7★ (20,721 reviews) — what visitors say, hours,
+  and tips.
+country: Peru
+region: Cusco
+category: attraction
+pubDate: '2026-10-23T08:13:24.743Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Qorikancha_-_Cusco_-_panoramio.jpg/3840px-Qorikancha_-_Cusco_-_panoramio.jpg"
-  credit: "Photo: Pavel Špindler / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Qorikancha_-_Cusco_-_panoramio.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Qorikancha_-_Cusco_-_panoramio.jpg/3840px-Qorikancha_-_Cusco_-_panoramio.jpg
+  credit: 'Photo: Pavel Špindler / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Qorikancha_-_Cusco_-_panoramio.jpg'
+  via: act
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/d/d2/Peru_-_Cusco_023_-_Qorikancha_%287084772615%29.jpg"
-    credit: "Photo: McKay Savage from London, UK / Wikimedia Commons (CC BY 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Peru_-_Cusco_023_-_Qorikancha_(7084772615).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/d/d2/Peru_-_Cusco_023_-_Qorikancha_%287084772615%29.jpg
+    credit: 'Photo: McKay Savage from London, UK / Wikimedia Commons (CC BY 2.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Peru_-_Cusco_023_-_Qorikancha_(7084772615).jpg
 place:
-  id: "ChIJJT73zArWbZERPWclxK0YkWk"
-  name: "Qorikancha"
-  address: "Santo Domingo s/n, Cusco 08002, Peru"
+  id: ChIJJT73zArWbZERPWclxK0YkWk
+  name: Qorikancha
+  address: 'Santo Domingo s/n, Cusco 08002, Peru'
   rating: 4.7
-  userRatingsTotal: 20718
-  googleMapsUrl: "https://maps.google.com/?cid=7606888380204672829&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 20721
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=7606888380204672829&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -13.520236500000001
   lng: -71.97523389999999
-  phone: "+51 84 249176"
+  phone: +51 84 249176
   openingHours:
-    - "Monday: 8:30 AM – 5:30 PM"
-    - "Tuesday: 8:30 AM – 5:30 PM"
-    - "Wednesday: 8:30 AM – 5:30 PM"
-    - "Thursday: 8:30 AM – 5:30 PM"
-    - "Friday: 8:30 AM – 5:30 PM"
-    - "Saturday: 8:30 AM – 5:30 PM"
-    - "Sunday: 2:00 – 5:00 PM"
+    - 'Monday: 8:30 AM – 5:30 PM'
+    - 'Tuesday: 8:30 AM – 5:30 PM'
+    - 'Wednesday: 8:30 AM – 5:30 PM'
+    - 'Thursday: 8:30 AM – 5:30 PM'
+    - 'Friday: 8:30 AM – 5:30 PM'
+    - 'Saturday: 8:30 AM – 5:30 PM'
+    - 'Sunday: 2:00 – 5:00 PM'
   busyness:
-    updated: 2026-10-23
+    updated: 2026-10-23T00:00:00.000Z
     weekdayQuiet:
       - 9
     weekdayBusy:
@@ -51,24 +59,43 @@ place:
       - 12
       - 13
       - 14
-    venueId: "ven_6b576b59304b786c63575052455a625772417a3337544a4a496843"
+    venueId: ven_6b576b59304b786c63575052455a625772417a3337544a4a496843
 tags:
-  - "cusco"
-  - "museum"
-quickAnswer: "Qorikancha, Cusco's Inca Temple of the Sun, stands on Santo Domingo a short walk downhill from the Plaza de Armas, with the colonial Convent of Santo Domingo built on top of it. Plan on 1–1.5 hours. It's calmest between 9am and 10am on weekdays and Saturdays. Avoid weekend afternoons from 12pm to 3pm, and note that on Sundays it currently opens only from 2pm to 5pm."
+  - cusco
+  - museum
+quickAnswer: >-
+  Qorikancha, Cusco's Inca Temple of the Sun, stands on Santo Domingo a short
+  walk downhill from the Plaza de Armas, with the colonial Convent of Santo
+  Domingo built on top of it. Plan on 1–1.5 hours. It's calmest between 9am and
+  10am on weekdays and Saturdays. Avoid weekend afternoons from 12pm to 3pm, and
+  note that on Sundays it currently opens only from 2pm to 5pm.
 faq:
-  - q: "When is the quietest time to visit Qorikancha?"
-    a: "Between 9am and 10am on weekdays and Saturdays. Avoid 12pm–3pm on weekends, which is the busiest window. On Sundays it currently opens only from 2pm to 5pm."
-  - q: "How do I get to Qorikancha from the Plaza de Armas?"
-    a: "Walk down Calle Loreto towards Avenida El Sol. It's about 5–10 minutes on foot, past original Inca walls. The entrance is on Santo Domingo."
-  - q: "Is Qorikancha included in the Cusco boleto turístico?"
-    a: "No. The temple and Santo Domingo convent have their own ticket, which you buy at the entrance where the price is posted. The underground Museo de Sitio del Qorikancha on Avenida El Sol is part of the boleto turístico."
-  - q: "How long should I spend at Qorikancha?"
-    a: "About 1–1.5 hours for the cloister, the Inca chambers and the view of the curved wall. Allow longer if you add the gardens and the site museum."
-  - q: "Do I need a guide?"
-    a: "It helps a lot. Licensed guides wait at the entrance. Agree on the fee and duration first, or read up beforehand so you can recognise the Inca features yourself."
+  - q: When is the quietest time to visit Qorikancha?
+    a: >-
+      Between 9am and 10am on weekdays and Saturdays. Avoid 12pm–3pm on
+      weekends, which is the busiest window. On Sundays it currently opens only
+      from 2pm to 5pm.
+  - q: How do I get to Qorikancha from the Plaza de Armas?
+    a: >-
+      Walk down Calle Loreto towards Avenida El Sol. It's about 5–10 minutes on
+      foot, past original Inca walls. The entrance is on Santo Domingo.
+  - q: Is Qorikancha included in the Cusco boleto turístico?
+    a: >-
+      No. The temple and Santo Domingo convent have their own ticket, which you
+      buy at the entrance where the price is posted. The underground Museo de
+      Sitio del Qorikancha on Avenida El Sol is part of the boleto turístico.
+  - q: How long should I spend at Qorikancha?
+    a: >-
+      About 1–1.5 hours for the cloister, the Inca chambers and the view of the
+      curved wall. Allow longer if you add the gardens and the site museum.
+  - q: Do I need a guide?
+    a: >-
+      It helps a lot. Licensed guides wait at the entrance. Agree on the fee and
+      duration first, or read up beforehand so you can recognise the Inca
+      features yourself.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-23'
 ---
 
 ## Two empires, one wall

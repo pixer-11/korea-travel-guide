@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: cusco-qorikancha
-srcHash: '7254215d79df'
+srcHash: '1441cfd98222'
 title: 'Qorikancha: guía de viaje de Cusco (4.7★)'
-description: El Templo del Sol de los incas se alza en la calle Santo Domingo, a pocos minutos cuesta abajo de la Plaza de Armas, y sobre él se levanta el convento colonial de Santo Domingo. Tiene 4.7★ (20,718 reseñas). Aquí encontrará la opinión de los visitantes, los horarios y algunos consejos.
+description: El Templo del Sol de los incas se alza en la calle Santo Domingo, a pocos minutos cuesta abajo de la Plaza de Armas, y sobre él se levanta el convento colonial de Santo Domingo. Tiene 4.7★ (20,721 reseñas). Aquí encontrará la opinión de los visitantes, los horarios y algunos consejos.
 quickAnswer: El Qorikancha, Templo del Sol de los incas en Cusco, se encuentra en la calle Santo Domingo, a pocos minutos cuesta abajo de la Plaza de Armas, y sobre sus muros se construyó el convento colonial de Santo Domingo. Reserve entre 1 y 1.5 horas para la visita. Los momentos más tranquilos son de 9am a 10am, tanto entre semana como los sábados. Conviene evitar las tardes del fin de semana, de 12pm a 3pm. Tenga en cuenta, además, que actualmente los domingos solo abre de 2pm a 5pm.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Qorikancha?

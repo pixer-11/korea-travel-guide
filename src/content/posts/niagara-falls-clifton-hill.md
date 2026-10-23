@@ -1,50 +1,82 @@
 ---
-title: "Clifton Hill: Niagara Falls Travel Guide (4.7★)"
-description: "Clifton Hill in Niagara Falls, Ontario, is the short, steep tourist street that climbs from the Niagara River near the Rainbow Bridge up to Victoria Avenue. 4.7★ (1,586 reviews) — what visitors say, hours, and tips."
-country: "Canada"
-region: "Niagara Falls"
-category: "attraction"
-pubDate: "2026-10-22T14:54:54.476Z"
+title: 'Clifton Hill: Niagara Falls Travel Guide (4.7★)'
+description: >-
+  Clifton Hill in Niagara Falls, Ontario, is the short, steep tourist street
+  that climbs from the Niagara River near the Rainbow Bridge up to Victoria
+  Avenue. 4.7★ (1,588 reviews) — what visitors say, hours, and tips.
+country: Canada
+region: Niagara Falls
+category: attraction
+pubDate: '2026-10-22T14:54:54.476Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Visitor_attractions_and_restaurants%2C_Clifton_Hill%2C_Niagara_Falls_ON_20170418_1.jpg/3840px-Visitor_attractions_and_restaurants%2C_Clifton_Hill%2C_Niagara_Falls_ON_20170418_1.jpg"
-  credit: "Photo: DXR / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Visitor_attractions_and_restaurants,_Clifton_Hill,_Niagara_Falls_ON_20170418_1.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Visitor_attractions_and_restaurants%2C_Clifton_Hill%2C_Niagara_Falls_ON_20170418_1.jpg/3840px-Visitor_attractions_and_restaurants%2C_Clifton_Hill%2C_Niagara_Falls_ON_20170418_1.jpg
+  credit: 'Photo: DXR / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Visitor_attractions_and_restaurants,_Clifton_Hill,_Niagara_Falls_ON_20170418_1.jpg
+  via: act
   focus:
     x: 60
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Visitor_attractions_and_restaurants%2C_Clifton_Hill%2C_Niagara_Falls_ON_20170418_2.jpg/3840px-Visitor_attractions_and_restaurants%2C_Clifton_Hill%2C_Niagara_Falls_ON_20170418_2.jpg"
-    credit: "Photo: DXR / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Visitor_attractions_and_restaurants,_Clifton_Hill,_Niagara_Falls_ON_20170418_2.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Visitor_attractions_and_restaurants%2C_Clifton_Hill%2C_Niagara_Falls_ON_20170418_2.jpg/3840px-Visitor_attractions_and_restaurants%2C_Clifton_Hill%2C_Niagara_Falls_ON_20170418_2.jpg
+    credit: 'Photo: DXR / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Visitor_attractions_and_restaurants,_Clifton_Hill,_Niagara_Falls_ON_20170418_2.jpg
 place:
-  id: "ChIJlbr3jBlD04kR_4O7eyy05U4"
-  name: "Clifton Hill"
-  address: "Clifton Hill, Niagara Falls, ON, Canada"
+  id: ChIJlbr3jBlD04kR_4O7eyy05U4
+  name: Clifton Hill
+  address: 'Clifton Hill, Niagara Falls, ON, Canada'
   rating: 4.7
-  userRatingsTotal: 1586
-  googleMapsUrl: "https://maps.google.com/?cid=5685148207772566527&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  userRatingsTotal: 1588
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5685148207772566527&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   lat: 43.0910869
   lng: -79.0740499
 tags:
-  - "niagara falls"
-  - "Clifton Hill"
-quickAnswer: "Clifton Hill in Niagara Falls, Ontario, is the short, steep tourist street that climbs from the Niagara River near the Rainbow Bridge up to Victoria Avenue. It's packed with the Niagara SkyWheel, mini-golf, wax museums, haunted houses and chain restaurants. Plan on 2–4 hours, walk down to the falls viewpoints at the bottom, and check prices and hours on the posted boards or official sites before you buy."
+  - niagara falls
+  - Clifton Hill
+quickAnswer: >-
+  Clifton Hill in Niagara Falls, Ontario, is the short, steep tourist street
+  that climbs from the Niagara River near the Rainbow Bridge up to Victoria
+  Avenue. It's packed with the Niagara SkyWheel, mini-golf, wax museums, haunted
+  houses and chain restaurants. Plan on 2–4 hours, walk down to the falls
+  viewpoints at the bottom, and check prices and hours on the posted boards or
+  official sites before you buy.
 faq:
-  - q: "How long should I spend on Clifton Hill?"
-    a: "Two to four hours covers a ride on the Niagara SkyWheel, one or two attractions and a meal. Add more time if you're also walking down to the falls viewpoints or taking a Niagara City Cruises boat from the dock below."
-  - q: "How far is Clifton Hill from the falls?"
-    a: "The bottom of the hill at River Road looks straight across the gorge at the American Falls and Bridal Veil Falls. The Horseshoe Falls at Table Rock is roughly a 20–25 minute walk south along the Niagara Parkway."
-  - q: "When is the best time to visit Clifton Hill?"
-    a: "Evenings are the most atmospheric, because the signs are lit and the falls are illuminated. They're also the busiest, especially on summer weekends. For shorter lines, go on a weekday earlier in the day. Fireworks over the falls run on set nights in summer, so check the Niagara Parks schedule."
-  - q: "Where do I park for Clifton Hill?"
-    a: "Many municipal and private lots surround the hill, and rates vary a lot. Each lot posts its rate at the entrance. If you're staying in Fallsview, walking or taking the WEGO bus avoids parking altogether."
-  - q: "Is Clifton Hill good for kids?"
-    a: "Yes, mostly. Mini-golf, the midway, arcades, wax museums and the enclosed SkyWheel all suit families. Some haunted houses are genuinely frightening, so check the age guidance posted at each door."
+  - q: How long should I spend on Clifton Hill?
+    a: >-
+      Two to four hours covers a ride on the Niagara SkyWheel, one or two
+      attractions and a meal. Add more time if you're also walking down to the
+      falls viewpoints or taking a Niagara City Cruises boat from the dock
+      below.
+  - q: How far is Clifton Hill from the falls?
+    a: >-
+      The bottom of the hill at River Road looks straight across the gorge at
+      the American Falls and Bridal Veil Falls. The Horseshoe Falls at Table
+      Rock is roughly a 20–25 minute walk south along the Niagara Parkway.
+  - q: When is the best time to visit Clifton Hill?
+    a: >-
+      Evenings are the most atmospheric, because the signs are lit and the falls
+      are illuminated. They're also the busiest, especially on summer weekends.
+      For shorter lines, go on a weekday earlier in the day. Fireworks over the
+      falls run on set nights in summer, so check the Niagara Parks schedule.
+  - q: Where do I park for Clifton Hill?
+    a: >-
+      Many municipal and private lots surround the hill, and rates vary a lot.
+      Each lot posts its rate at the entrance. If you're staying in Fallsview,
+      walking or taking the WEGO bus avoids parking altogether.
+  - q: Is Clifton Hill good for kids?
+    a: >-
+      Yes, mostly. Mini-golf, the midway, arcades, wax museums and the enclosed
+      SkyWheel all suit families. Some haunted houses are genuinely frightening,
+      so check the age guidance posted at each door.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-23'
 ---
 
 ## A street that runs downhill to the falls

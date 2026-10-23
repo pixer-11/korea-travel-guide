@@ -1,44 +1,56 @@
 ---
-title: "Christchurch Tram: Travel Guide (4.6★)"
-description: "The Christchurch Tram is a narrated heritage tram loop around Christchurch Central City, boarding from stops including 109 Worcester Street, with hop-on, hop-off travel between landmarks like Cathedral Square, New Regent Street and the Arts Centre. 4.6★ (2,319 reviews) — what visitors say, hours, and tips."
-country: "New Zealand"
-region: "Christchurch"
-category: "attraction"
-pubDate: "2026-10-23T13:19:46.890Z"
+title: 'Christchurch Tram: Travel Guide (4.6★)'
+description: >-
+  The Christchurch Tram is a narrated heritage tram loop around Christchurch
+  Central City, boarding from stops including 109 Worcester Street, with hop-on,
+  hop-off travel between landmarks like Cathedral Square, New Regent Street and
+  the Arts Centre. 4.6★ (2,318 reviews) — what visitors say, hours, and tips.
+country: New Zealand
+region: Christchurch
+category: attraction
+pubDate: '2026-10-23T13:19:46.890Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Christchurch_Tram.jpg/1920px-Christchurch_Tram.jpg"
-  credit: "Photo: No machine-readable author provided. / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Christchurch_Tram.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Christchurch_Tram.jpg/1920px-Christchurch_Tram.jpg
+  credit: >-
+    Photo: No machine-readable author provided. / Wikimedia Commons (CC BY-SA
+    3.0)
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Christchurch_Tram.jpg'
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/8/8a/A_tram%2C_Christchurch%2C_New_Zealand.jpg"
-    credit: "Photo: Michal Klajban / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:A_tram,_Christchurch,_New_Zealand.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/8/8a/A_tram%2C_Christchurch%2C_New_Zealand.jpg
+    credit: 'Photo: Michal Klajban / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:A_tram,_Christchurch,_New_Zealand.jpg
 place:
-  id: "ChIJBd_wPSOKMW0Rai-MoinUpeA"
-  name: "Christchurch Tram"
-  address: "109 Worcester Street, Christchurch Central City, Christchurch 8011, New Zealand"
+  id: ChIJBd_wPSOKMW0Rai-MoinUpeA
+  name: Christchurch Tram
+  address: >-
+    109 Worcester Street, Christchurch Central City, Christchurch 8011, New
+    Zealand
   rating: 4.6
-  userRatingsTotal: 2319
-  googleMapsUrl: "https://maps.google.com/?cid=16187577710938959722&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2318
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16187577710938959722&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -43.5304492
   lng: 172.63882350000003
-  phone: "+64 3 366 7830"
+  phone: +64 3 366 7830
   openingHours:
-    - "Monday: 8:30 AM – 6:30 PM"
-    - "Tuesday: 8:30 AM – 6:30 PM"
-    - "Wednesday: 8:30 AM – 6:30 PM"
-    - "Thursday: 8:30 AM – 6:30 PM"
-    - "Friday: 8:30 AM – 6:30 PM"
-    - "Saturday: 8:30 AM – 6:30 PM"
-    - "Sunday: 8:30 AM – 6:30 PM"
+    - 'Monday: 8:30 AM – 6:30 PM'
+    - 'Tuesday: 8:30 AM – 6:30 PM'
+    - 'Wednesday: 8:30 AM – 6:30 PM'
+    - 'Thursday: 8:30 AM – 6:30 PM'
+    - 'Friday: 8:30 AM – 6:30 PM'
+    - 'Saturday: 8:30 AM – 6:30 PM'
+    - 'Sunday: 8:30 AM – 6:30 PM'
   busyness:
-    updated: 2026-10-23
+    updated: 2026-10-23T00:00:00.000Z
     weekdayQuiet:
       - 17
     weekendQuiet:
@@ -51,24 +63,49 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_416570556e696f4d2d69615230574d4b4f5350775f64424a496843"
+    venueId: ven_416570556e696f4d2d69615230574d4b4f5350775f64424a496843
 tags:
-  - "christchurch"
-  - "Christchurch Tram"
-quickAnswer: "The Christchurch Tram is a narrated heritage tram loop around Christchurch Central City, boarding from stops including 109 Worcester Street, with hop-on, hop-off travel between landmarks like Cathedral Square, New Regent Street and the Arts Centre. It currently runs 8:30am–6:30pm. The quietest window is 5pm–6pm on both weekdays and weekends, so avoid 10am–5pm on weekends if you want a seat by the window."
+  - christchurch
+  - Christchurch Tram
+quickAnswer: >-
+  The Christchurch Tram is a narrated heritage tram loop around Christchurch
+  Central City, boarding from stops including 109 Worcester Street, with hop-on,
+  hop-off travel between landmarks like Cathedral Square, New Regent Street and
+  the Arts Centre. It currently runs 8:30am–6:30pm. The quietest window is
+  5pm–6pm on both weekdays and weekends, so avoid 10am–5pm on weekends if you
+  want a seat by the window.
 faq:
-  - q: "When is the quietest time to ride the Christchurch Tram?"
-    a: "5pm–6pm is the quietest window on both weekdays and weekends. The busiest time is 10am–5pm on weekends. A full loop takes about an hour and the tram currently runs until 6:30pm, so check the last full-circuit departure before you plan on a 5pm ride."
-  - q: "How long does the Christchurch Tram loop take?"
-    a: "A full narrated loop takes roughly an hour if you stay on board. If you use the hop-on, hop-off pass to visit the museum, the Botanic Gardens and New Regent Street, plan for half a day or more."
-  - q: "Where do I board the Christchurch Tram?"
-    a: "There are several stops around the central city loop. One of them is at 109 Worcester Street, near Cathedral Square. Other stops serve the Arts Centre, Canterbury Museum, New Regent Street and the Riverside Market area. Board only at the marked stops."
-  - q: "What are the opening hours?"
-    a: "At the moment the tram runs 8:30am–6:30pm every day of the week. Hours can change by season and on public holidays, so check the official Christchurch Tram website before you go."
-  - q: "What's near the Christchurch Tram route?"
-    a: "The loop passes Cathedral Square, Worcester Boulevard, the Arts Centre, Canterbury Museum, the Botanic Gardens, New Regent Street and the rebuilt retail area around Cashel Street and Riverside Market. You can also walk along the Avon River from several stops."
+  - q: When is the quietest time to ride the Christchurch Tram?
+    a: >-
+      5pm–6pm is the quietest window on both weekdays and weekends. The busiest
+      time is 10am–5pm on weekends. A full loop takes about an hour and the tram
+      currently runs until 6:30pm, so check the last full-circuit departure
+      before you plan on a 5pm ride.
+  - q: How long does the Christchurch Tram loop take?
+    a: >-
+      A full narrated loop takes roughly an hour if you stay on board. If you
+      use the hop-on, hop-off pass to visit the museum, the Botanic Gardens and
+      New Regent Street, plan for half a day or more.
+  - q: Where do I board the Christchurch Tram?
+    a: >-
+      There are several stops around the central city loop. One of them is at
+      109 Worcester Street, near Cathedral Square. Other stops serve the Arts
+      Centre, Canterbury Museum, New Regent Street and the Riverside Market
+      area. Board only at the marked stops.
+  - q: What are the opening hours?
+    a: >-
+      At the moment the tram runs 8:30am–6:30pm every day of the week. Hours can
+      change by season and on public holidays, so check the official
+      Christchurch Tram website before you go.
+  - q: What's near the Christchurch Tram route?
+    a: >-
+      The loop passes Cathedral Square, Worcester Boulevard, the Arts Centre,
+      Canterbury Museum, the Botanic Gardens, New Regent Street and the rebuilt
+      retail area around Cashel Street and Riverside Market. You can also walk
+      along the Avon River from several stops.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-23'
 ---
 
 ## Wood, brass and a driver with a microphone

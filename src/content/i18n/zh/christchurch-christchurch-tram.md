@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: christchurch-christchurch-tram
-srcHash: '57e1f44d914f'
+srcHash: 'f01232ec7de0'
 title: 基督城有轨电车旅行指南（4.6★）
-description: 基督城有轨电车（Christchurch Tram）是一条环绕基督城中心城区的复古电车线路，全程配有讲解，可在伍斯特街109号（109 Worcester Street）等站点上车，凭票在大教堂广场、新摄政街、艺术中心等地标之间随上随下。4.6★（2,319条评价），这里汇总了游客评价、运营时间和实用建议。
+description: 基督城有轨电车（Christchurch Tram）是一条环绕基督城中心城区的复古电车线路，全程配有讲解，可在伍斯特街109号（109 Worcester Street）等站点上车，凭票在大教堂广场、新摄政街、艺术中心等地标之间随上随下。4.6★（2,318条评价），这里汇总了游客评价、运营时间和实用建议。
 quickAnswer: 基督城有轨电车（Christchurch Tram）是一条环绕基督城中心城区的复古电车线路，全程配有讲解，可在伍斯特街109号（109 Worcester Street）等站点上车，凭票在大教堂广场、新摄政街、艺术中心等地标之间随上随下。目前运营时间为8:30am–6:30pm。无论工作日还是周末，5pm–6pm都是人最少的时段；想抢到靠窗座位的话，周末10am–5pm最好避开。
 faq:
   - q: 什么时候乘坐基督城有轨电车人最少？
