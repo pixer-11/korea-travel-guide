@@ -93,28 +93,30 @@
     "mexico-city-boynextdoor-knock-on-tour",
     "san-fernando-giant-lantern-festival-ligligan-parul",
     "shanghai-china-international-import-expo-ciie",
-    "san-francisco-balmy-alley"
+    "san-francisco-balmy-alley",
+    "khiva-khiva-ichan-kala"
   ],
-  "lastSentDay": "2026-10-23",
+  "lastSentDay": "2026-10-24",
   "material": {
-    "day": "2026-10-23",
-    "slug": "san-francisco-balmy-alley",
-    "title": "Balmy Alley: San Francisco Travel Guide (4.5★)",
+    "day": "2026-10-24",
+    "slug": "khiva-khiva-ichan-kala",
+    "title": "Khiva Ichan Kala: Travel Guide",
     "urls": [
-      "https://wanderatlasguides.com/og/social/2026-10-23-san-francisco-balmy-alley-1.jpg",
-      "https://wanderatlasguides.com/og/social/2026-10-23-san-francisco-balmy-alley-2.jpg",
-      "https://wanderatlasguides.com/og/social/2026-10-23-san-francisco-balmy-alley-3.jpg"
+      "https://wanderatlasguides.com/og/social/2026-10-24-khiva-khiva-ichan-kala-1.jpg",
+      "https://wanderatlasguides.com/og/social/2026-10-24-khiva-khiva-ichan-kala-2.jpg",
+      "https://wanderatlasguides.com/og/social/2026-10-24-khiva-khiva-ichan-kala-3.jpg",
+      "https://wanderatlasguides.com/og/social/2026-10-24-khiva-khiva-ichan-kala-4.jpg"
     ],
-    "igCaption": "A single block in the Mission District where every garage door, fence, and wall is covered in murals — some dating back to the early 1970s. Walls get repainted as old ones fade, so this gallery never looks the same twice.\n\n#BalmyAlley #SanFrancisco #UnitedStates #travelguide #travel #wanderatlas #MissionDistrict #StreetArt #MuralArt #TravelGuide\n📷 Photo: DestinationFearFan / Wikimedia Commons (CC BY 4.0) (edited)\n📷 Photo: Foursquare user content (Balmy Alley) (edited)",
-    "thOption": "Balmy Alley murals have covered everything from 1980s Central America politics to today's gentrification debates. Which era of mural art would you want to see first?",
-    "link": "https://wanderatlasguides.com/posts/san-francisco-balmy-alley/"
+    "igCaption": "Walk end to end in under 20 minutes, but give it hours: Khiva's Ichan Kala is a walled open-air museum of mud-brick madrasas, minarets and khan's palaces, with almost nothing modern inside. Stay past sunset and the walls glow orange before anyone else is awake.\n\n#KhivaIchanKala #Khiva #Uzbekistan #travelguide #travel #wanderatlas #IchanKala #SilkRoad #CentralAsia #TravelGuide\n📷 Photo: Petar Milošević / Wikimedia Commons (CC BY-SA 4.0) (edited)",
+    "thOption": "Most people treat Ichan Kala as a half-day stop between trains, but locals say the real reward is staying overnight inside the walls — would you trade your schedule for lamplight and empty dawn courtyards?",
+    "link": "https://wanderatlasguides.com/posts/khiva-khiva-ichan-kala/"
   },
   "social": {
-    "thDay": "2026-10-23",
-    "thId": "18112241675622761",
+    "thDay": "2026-10-24",
+    "thId": "17953406835270814",
     "igDay": "2026-10-23",
     "igId": "18088207508304384",
-    "thSlug": "san-francisco-balmy-alley",
+    "thSlug": "khiva-khiva-ichan-kala",
     "igSlug": "san-francisco-balmy-alley",
     "history": [
       {
@@ -252,7 +254,17 @@
       {
         "day": "2026-10-17",
         "slug": "adelaide-adelaide-botanic-garden",
-        "thId": "18130041838840770"
+        "thId": "18130041838840770",
+        "insights": {
+          "at": "2026-10-24",
+          "th": {
+            "views": 42,
+            "likes": 0,
+            "replies": 0,
+            "reposts": 0,
+            "quotes": 0
+          }
+        }
       },
       {
         "day": "2026-10-18",
@@ -286,6 +298,11 @@
         "slug": "san-francisco-balmy-alley",
         "thId": "18112241675622761",
         "igId": "18088207508304384"
+      },
+      {
+        "day": "2026-10-24",
+        "slug": "khiva-khiva-ichan-kala",
+        "thId": "17953406835270814"
       }
     ]
   }
