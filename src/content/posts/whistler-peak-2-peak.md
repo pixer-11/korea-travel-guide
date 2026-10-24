@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 85
     y: 35
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/2339083_Gp46HgCGjhqatPHT34XzCoOCTF51VCcrbXpSr9sCO2o.jpg"
+    credit: "Photo: Foursquare user content (Whistler Mtn. Peak)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b92cd8cf964a5203f1d34e3"
 place:
   id: "ChIJVVUl16ojh1QRj71D637vrsM"
   name: "Peak 2 Peak"

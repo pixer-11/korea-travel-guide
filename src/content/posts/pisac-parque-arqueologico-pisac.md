@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 55
     y: 55
-gallery: []
+gallery:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/7/77/Parque_Arqueol%C3%B3gico_de_Pisac%2C_Peru_-_panoramio_%281%29.jpg"
+    credit: "Photo: Paulo JC Nogueira / Wikimedia Commons (CC BY-SA 3.0)"
+    license: "wikimedia"
+    source: "https://commons.wikimedia.org/wiki/File:Parque_Arqueol%C3%B3gico_de_Pisac,_Peru_-_panoramio_(1).jpg"
 place:
   id: "ChIJEcaWNKVwbpERdZaV8OjsBaw"
   name: "Parque Arqueológico Pisac"

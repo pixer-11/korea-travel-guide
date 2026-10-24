@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/136200_9UGiHsSC7cmCieXjTi_Dep8MpBwd60Kn6wfqs4M0I1E.jpg"
+    credit: "Photo: Foursquare user content (Sentinal Pass)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/5b3d33e4bed4830039800f0f"
 place:
   id: "ChIJH0qDmORbd1MRgrNAB9BP_NM"
   name: "Sentinel Pass"

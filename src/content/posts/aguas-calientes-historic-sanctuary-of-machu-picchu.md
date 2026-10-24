@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 50
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/1389444033_K1bc6R562DYvlZB4PCJdxkABgcZtoVyxJgueZ0tqLZM.jpg"
+    credit: "Photo: Foursquare user content (Machu Picchu)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4be22195f07b0f47b8def443"
 place:
   id: "ChIJVVVViV-abZERJxqgpA43EDo"
   name: "Historic Sanctuary of Machu Picchu"

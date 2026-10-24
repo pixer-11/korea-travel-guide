@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 55
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/13073026_Ll8uNBuOFEDLDPRIxOUDhGIcHj1zG5oArBBN7b2N27g.jpg"
+    credit: "Photo: Foursquare user content (Buffet de l'Antiquaire)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b5a40e9f964a520b8b728e3"
 place:
   id: "ChIJGblCReeVuEwRev9hS8GNkcY"
   name: "L'Antiquaire Buffet"

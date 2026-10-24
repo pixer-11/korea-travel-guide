@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 20
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/335062461_Wz2tac5nadwZdEAWw3Xvb4zMOD8e7W6Jz6GrUUW_Gcw.jpg"
+    credit: "Photo: Foursquare user content (Wanaka Lavender Farm)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/54890d60498e251fd2f6aa03"
 place:
   id: "ChIJvfb5MchO1akRdsieOg01VH8"
   name: "Wānaka Lavender Farm"

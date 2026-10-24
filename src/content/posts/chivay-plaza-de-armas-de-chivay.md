@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 50
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/2695827_lB3JYcpcnqCfnxmzBJZfzAs4AfgLdDT0ibPflKMoeLc.jpg"
+    credit: "Photo: Foursquare user content (Plaza de Armas de Chivay)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4c65b64819f3c9b6acea9dff"
 place:
   id: "ChIJlyOS4yHnaZER7yotEM87LRA"
   name: "Plaza de Armas de Chivay"

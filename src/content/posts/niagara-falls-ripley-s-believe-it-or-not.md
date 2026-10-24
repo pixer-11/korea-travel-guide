@@ -19,7 +19,11 @@ heroImage:
   focus:
     x: 55
     'y': 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/1590966_jliyX_bUxGUz_j4Ef1z4iErLI6LFPNO6kcQbgPEy0zM.jpg"
+    credit: "Photo: Foursquare user content (Ripley's Believe It or Not!)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4bbf8da2461576b0e2bf7832"
 place:
   id: ChIJTUdo4BlD04kRRJFFD8yBfNk
   name: Ripley's Believe It or Not!

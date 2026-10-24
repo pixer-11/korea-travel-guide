@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 45
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/71286473_ttDUn9iKt-ufj9vTo-oK3steEEM4ijLK8jDO5MBQYr4.jpg"
+    credit: "Photo: Foursquare user content (Samtskhe- Javakheti History Mueseum)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/61503a1aa5739b33f5be62d8"
 place:
   id: "ChIJtxIsXobaQkARsc2xTmBO3Ak"
   name: "Samtskhe-Javakheti History Museum"

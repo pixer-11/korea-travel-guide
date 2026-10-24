@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/4731718_7G1WefgGBky2rdc_VwQr_gpPvbxC7WwXwIjQb4avKl4.jpg"
+    credit: "Photo: Foursquare user content (Carter Observatory)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4bc8ff273740b71314ef5d65"
 place:
   id: "ChIJQTEYkiywOG0RdXyQvBsQqt0"
   name: "Space Place at Carter Observatory"

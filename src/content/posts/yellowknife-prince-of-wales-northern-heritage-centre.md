@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 55
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/38961610_P5FNQQyEHC08cJAjWRlT7YCQEpPgWtyZB96IAPMHhBI.jpg"
+    credit: "Photo: Foursquare user content (Prince of Wales Northern Heritage Centre)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4e053657b0fbba5eee0de08a"
 place:
   id: "ChIJlzxQycX20VMRn1N6hMWJcpU"
   name: "Prince of Wales Northern Heritage Centre"

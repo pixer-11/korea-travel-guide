@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 60
     y: 55
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/73023419_Nb9TSZ8As3fb8ZcEzBaVk5NTPMIUGmliSaH9lbWUOLA.jpg"
+    credit: "Photo: Foursquare user content (Orakei Korako)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4e3119a8814dbf53b1d25946"
 place:
   id: "ChIJQetM_k4EbG0RkUpViw8mwMw"
   name: "Orakei Korako Geothermal Park & Cave"

@@ -20,7 +20,11 @@ heroImage:
   focus:
     x: 55
     'y': 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/1396733541_FPs6I4Kyk39iuAk8-lWi2Vs5qhcO38NyLz1kbzpc150.jpg"
+    credit: "Photo: Foursquare user content (Ananuri Castle Complex (ანანურის ციხის კომპლექსი))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4c9b1d2fb8e9224bc47b533d"
 place:
   id: ChIJy4IxzJL6REARjpHtdHy_8N4
   name: Ananuri Fortress Complex

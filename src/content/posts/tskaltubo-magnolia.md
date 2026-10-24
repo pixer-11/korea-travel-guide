@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/1370668271_hHiSc1QYQCiCE9ECDocfo-xHzaMeKjbnGeFUDB40Lp0.jpg"
+    credit: "Photo: Foursquare user content (Magnolia | მაგნოლია)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/609263aca4c02610beaf4db8"
 place:
   id: "ChIJSePL0TaLXEAR6CzBstWBgyc"
   name: "Magnolia"

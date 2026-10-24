@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 45
     y: 55
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/14330909_6JD-8QSuD58PeEIvgg8NWReDE9exfOW20SkonY9_Pl4.jpg"
+    credit: "Photo: Foursquare user content (Acueductos de Cantayo)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4cbc0280352ebfb73d8c8ef2"
 place:
   id: "ChIJJ6raz40eFJERhExeMrZvRtw"
   name: "Acueductos de Cantalloc"

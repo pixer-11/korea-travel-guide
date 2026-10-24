@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 24
     y: 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/87983667_V0CDUDXlw9G5cEU_ukE1FrStVXrpQw3nHExSIvFmyAk.jpg"
+    credit: "Photo: Foursquare user content (Gastown Steam Clock)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4aa9662cf964a520795320e3"
 place:
   id: "ChIJ36zlvedzhlQRAFUUd93cPgg"
   name: "Gastown Steam Clock"

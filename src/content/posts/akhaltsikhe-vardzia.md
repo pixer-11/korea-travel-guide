@@ -18,7 +18,11 @@ heroImage:
   focus:
     x: 55
     'y': 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/56869506_E-8B9KZhA9m1Um7Hgmv-Ti05JSwJsRxAOquS6Ghbs2k.jpg"
+    credit: "Photo: Foursquare user content (Vardzia Cave Monastery (ვარძიის სამონასტრო კომპლექსი))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4e64b439d4c06542abe83f2f"
 place:
   id: ChIJ20lpRFTxQkARHB-2vHJL8KM
   name: Vardzia

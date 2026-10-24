@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 55
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/259402_bX8bmVS0Qt2aLmMHCCZ-W2CZwhOlxijU3pI-hEWWhYY.jpg"
+    credit: "Photo: Foursquare user content (Fyffe House)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/559c68ba498e977eaf4c4e6c"
 place:
   id: "ChIJNeHnX1hWN20RRKKgdCyQpcQ"
   name: "Fyffe House"

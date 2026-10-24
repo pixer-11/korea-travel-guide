@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 65
     y: 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/78787_3JW7iZHFWvJ4foQ4DLN62TsVuCybI-EBv-UTxL6k1T4.jpg"
+    credit: "Photo: Foursquare user content (Mount Temple)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/502be514e4b050746e767df9"
 place:
   id: "ChIJN0JHUPNbd1MRriRI3m9moKI"
   name: "Mount Temple"

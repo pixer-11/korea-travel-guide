@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/510500282_C9OQPS2mAW_cfrNqa5dYm4ZrOJ_6tbzk6xDltToIXX4.jpg"
+    credit: "Photo: Foursquare user content (Peace Bell)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/5ae91b20d807ee002c5afa5e"
 place:
   id: "ChIJc7mteEGKMW0RgCMAzvpuQnU"
   name: "New Zealand World Peace Bell"

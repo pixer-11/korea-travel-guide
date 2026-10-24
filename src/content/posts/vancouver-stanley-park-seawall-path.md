@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 55
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/435703679_V-bZBs3iInWwQwPayK5Q6v9wUGJuyejOFU_jWfkCV5I.jpg"
+    credit: "Photo: Foursquare user content (Stanley Park Harbourfront Seawall)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4aa72e38f964a520274c20e3"
 place:
   id: "ChIJ837Jw5FxhlQRWCcjx5Arizg"
   name: "Stanley Park Seawall Path"

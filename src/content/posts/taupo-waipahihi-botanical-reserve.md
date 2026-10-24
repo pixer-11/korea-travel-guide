@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 50
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/84327008_thl5Bax9uVmvaEPZp8pR_46Acpwp3Yzm4Wk5fkdualE.jpg"
+    credit: "Photo: Foursquare user content (Taupo Botanical Gardens)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4d44b07a0349224bb003fd4e"
 place:
   id: "ChIJNT6EW2P6a20RwE2dJGLvAA8"
   name: "Waipahihi Botanical Reserve"

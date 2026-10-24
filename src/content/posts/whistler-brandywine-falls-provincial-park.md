@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 83
     y: 55
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/59770014_vyks1ZIlp-jb_T5Zx4ZFt4jVmhaQ06VPvYzwTiCm1C4.jpg"
+    credit: "Photo: Foursquare user content (Brandywine Falls)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4c1a6d57b9f876b0fda47846"
 place:
   id: "ChIJWSxr5ZAZh1QROxoPIT1vUKo"
   name: "Brandywine Falls Provincial Park"
