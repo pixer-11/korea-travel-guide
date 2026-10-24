@@ -595,11 +595,23 @@
   "reason": "publish gate: Aerial view of Rabati Castle complex, representative hero shot",
   "at": "2026-10-19T15:41:57.975Z"
  },
+ "akhaltsikhe-mtirala-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Waterfall_in_Mtirala_National_Park.JPG/1920px-Waterfall_in_Mtirala_National_Park.JPG": {
+  "slug": "akhaltsikhe-mtirala-national-park",
+  "verdict": "MATCH",
+  "reason": "publish gate: Lush waterfall scene matches national park forest landscape",
+  "at": "2026-10-24T07:56:57.259Z"
+ },
  "akhaltsikhe-samtskhe-javakheti-history-museum\u0001https://upload.wikimedia.org/wikipedia/commons/a/a2/Akhaltsikhe_museum.jpg": {
   "slug": "akhaltsikhe-samtskhe-javakheti-history-museum",
   "verdict": "MATCH",
   "reason": "publish gate: Museum entrance with sign, matches venue exterior",
   "at": "2026-10-23T13:19:35.426Z"
+ },
+ "akhaltsikhe-vardzia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2025-05-25_Vardzia_9.jpg/1920px-2025-05-25_Vardzia_9.jpg": {
+  "slug": "akhaltsikhe-vardzia",
+  "verdict": "MATCH",
+  "reason": "publish gate: Authentic view of Vardzia cave monastery complex",
+  "at": "2026-10-24T07:56:57.125Z"
  },
  "al-ain-al-ain-central-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Al-Ain_Central_Market_-_goats.jpg/3840px-Al-Ain_Central_Market_-_goats.jpg": {
   "slug": "al-ain-al-ain-central-market",
@@ -3545,6 +3557,12 @@
   "reason": "patrol reject: width: 541px < 640",
   "at": "2026-09-03T21:54:17.972Z"
  },
+ "beijing-din-tai-fung\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Taiwan_2009_Taipei_DinTaiFung_Dumpling_House_at_Pacific_Sogo_ZhongXiao_Store_FRD_9000.jpg/1920px-Taiwan_2009_Taipei_DinTaiFung_Dumpling_House_at_Pacific_Sogo_ZhongXiao_Store_FRD_9000.jpg": {
+  "slug": "beijing-din-tai-fung",
+  "verdict": "MATCH",
+  "reason": "publish gate: Kitchen staff making dumplings, representative interior scene",
+  "at": "2026-10-24T07:56:57.154Z"
+ },
  "beijing-forbidden-city\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Beijing_forbidden_city_Belvedere_of_Embodying_Benevolence-20071018-RM-142403.jpg/1920px-Beijing_forbidden_city_Belvedere_of_Embodying_Benevolence-20071018-RM-142403.jpg": {
   "slug": "beijing-forbidden-city",
   "verdict": "MATCH",
@@ -5148,6 +5166,12 @@
   "reason": "publish gate: Exterior of heritage building plausibly matching venue in Cairns",
   "at": "2026-09-29T14:19:17.090Z"
  },
+ "calgary-devonian-gardens\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Devonian_Gardens_Calgary_%288599506466%29.jpg/3840px-Devonian_Gardens_Calgary_%288599506466%29.jpg": {
+  "slug": "calgary-devonian-gardens",
+  "verdict": "MATCH",
+  "reason": "publish gate: Indoor garden fountain with greenery, matches Devonian Gardens interior",
+  "at": "2026-10-24T07:56:57.315Z"
+ },
  "calgary-heritage-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Heritage_park_Calgary_%2811506476156%29.jpg/3840px-Heritage_park_Calgary_%2811506476156%29.jpg": {
   "slug": "calgary-heritage-park",
   "verdict": "MATCH",
@@ -5159,6 +5183,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Park pond with geese, trees, rocks - typical park scene",
   "at": "2026-10-21T13:29:32.159Z"
+ },
+ "calgary-studio-bell-home-of-the-national-music-centre\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Studio_Bell_home_of_the_National_Music_Center_%2843870574572%29.jpg/3840px-Studio_Bell_home_of_the_National_Music_Center_%2843870574572%29.jpg": {
+  "slug": "calgary-studio-bell-home-of-the-national-music-centre",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior entrance with Studio Bell signage, representative view",
+  "at": "2026-10-24T07:56:57.046Z"
  },
  "cambridge-museum-of-archaeology-and-anthropology\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Museum_of_Archaeology_and_Anthropology%2C_Cambridge_16.jpg/3840px-Museum_of_Archaeology_and_Anthropology%2C_Cambridge_16.jpg": {
   "slug": "cambridge-museum-of-archaeology-and-anthropology",
@@ -6864,6 +6894,18 @@
   "verdict": "MATCH",
   "reason": "publish gate: Exterior of Margaritaville Cozumel with signage and patrons",
   "at": "2026-10-05T16:26:27.311Z"
+ },
+ "cusco-calle-loreto\u0001https://upload.wikimedia.org/wikipedia/commons/d/d0/Calle_Loreto%2C_Cusco%2C_Peru.jpg": {
+  "slug": "cusco-calle-loreto",
+  "verdict": "MATCH",
+  "reason": "publish gate: Narrow Cusco stone-walled street, representative of Calle Loreto",
+  "at": "2026-10-24T07:56:57.287Z"
+ },
+ "cusco-mercado-artesanal-de-cusco-peru\u0001https://upload.wikimedia.org/wikipedia/commons/2/2d/Jewelry_display_at_the_Mercado_Artesanal_de_Pisac_in_Cusco%2C_Peru.jpg": {
+  "slug": "cusco-mercado-artesanal-de-cusco-peru",
+  "verdict": "MATCH",
+  "reason": "publish gate: Jewelry market stall display, plausible Cusco artisan market",
+  "at": "2026-10-24T07:56:57.204Z"
  },
  "cusco-mercado-central-de-san-pedro\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Fruit_juices_heaven_at_the_Mercado_Central_de_San_Pedro.jpg/3840px-Fruit_juices_heaven_at_the_Mercado_Central_de_San_Pedro.jpg": {
   "slug": "cusco-mercado-central-de-san-pedro",
@@ -15882,6 +15924,18 @@
   "reason": "publish gate: Interior arcade with courtyard, representative of convent cloister",
   "at": "2026-10-23T13:19:36.151Z"
  },
+ "lima-huaca-huallamarca\u0001https://upload.wikimedia.org/wikipedia/commons/7/70/San_Isidro_Huallamarca_view01.jpg": {
+  "slug": "lima-huaca-huallamarca",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows pyramid-shaped huaca with Lima cityscape backdrop",
+  "at": "2026-10-24T10:29:22.153Z"
+ },
+ "lima-larco-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Lima_museo_larco.jpg/1920px-Lima_museo_larco.jpg": {
+  "slug": "lima-larco-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior facade with museum sign, matches Larco Museum",
+  "at": "2026-10-24T10:28:42.200Z"
+ },
  "lima-love-park\u0001https://upload.wikimedia.org/wikipedia/commons/2/20/El_Parque_del_Amor_%28Love_Park%29%2C_Lima%2C_Peru.jpg": {
   "slug": "lima-love-park",
   "verdict": "MATCH",
@@ -21439,6 +21493,18 @@
   "reason": "publish gate: Shows Shitennō-ji pagoda and hall, representative view",
   "at": "2026-09-09T07:38:31.303Z"
  },
+ "ottawa-canadian-museum-of-history\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Canadian_Museum_of_History_in_2026.jpg/1920px-Canadian_Museum_of_History_in_2026.jpg": {
+  "slug": "ottawa-canadian-museum-of-history",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows distinctive museum building with flag across river",
+  "at": "2026-10-24T07:56:57.093Z"
+ },
+ "ottawa-confederation-building\u0001https://upload.wikimedia.org/wikipedia/commons/3/3c/Confederation_Building_at_night.jpg": {
+  "slug": "ottawa-confederation-building",
+  "verdict": "MATCH",
+  "reason": "publish gate: Representative exterior view of the grand building at dusk",
+  "at": "2026-10-24T07:56:57.231Z"
+ },
  "ottawa-national-gallery-of-canada\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Ottawa_-_ON_-_National_Gallery_of_Canada.jpg/1920px-Ottawa_-_ON_-_National_Gallery_of_Canada.jpg": {
   "slug": "ottawa-national-gallery-of-canada",
   "verdict": "MATCH",
@@ -23663,6 +23729,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Historic Place Royale buildings at night, representative view",
   "at": "2026-10-21T13:29:32.268Z"
+ },
+ "queenstown-kiwi-park-queenstown\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Queenstown_Kiwi_Birdlife_Park_-_2013.04_-_panoramio.jpg/3840px-Queenstown_Kiwi_Birdlife_Park_-_2013.04_-_panoramio.jpg": {
+  "slug": "queenstown-kiwi-park-queenstown",
+  "verdict": "MATCH",
+  "reason": "publish gate: Aviary enclosure matches Kiwi Park wildlife attraction setting",
+  "at": "2026-10-24T07:56:57.341Z"
  },
  "queenstown-queenstown-gardens\u0001https://upload.wikimedia.org/wikipedia/commons/5/5e/Photograph_of_Queenstown_Gardens_in_New_Zealand.jpg": {
   "slug": "queenstown-queenstown-gardens",

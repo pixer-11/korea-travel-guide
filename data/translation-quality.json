@@ -37455,5 +37455,89 @@
   "registerBreak": false,
   "worst": "对游客来说，这种灵活性是2026年新形式在实际中最大的好处。",
   "at": "2026-10-24T03:03:33.500Z"
+ },
+ "es/akhaltsikhe-mtirala-national-park": {
+  "hash": "7c530ed50819",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "El trayecto es corto, pero asciende sin descanso y, en el último tramo, discurre por...",
+  "at": "2026-10-24T09:59:28.346Z"
+ },
+ "es/akhaltsikhe-vardzia": {
+  "hash": "333cd4408873",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-24T09:59:29.234Z"
+ },
+ "es/beijing-din-tai-fung": {
+  "hash": "b721cb644c7c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Aquí no se ven las multitudes internacionales del local insignia de Taipéi.",
+  "at": "2026-10-24T09:59:34.478Z"
+ },
+ "ja/akhaltsikhe-mtirala-national-park": {
+  "hash": "6f22a750ee1c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "バトゥミから北上してチャクヴィへ行き、谷沿いの道を内陸へ進むとチャクヴィスタヴィに着きます。",
+  "at": "2026-10-24T09:59:35.987Z"
+ },
+ "ja/akhaltsikhe-vardzia": {
+  "hash": "37d8cc7bedfd",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "現在目にする光景の大半は、もともと人目に触れるはずのないものでした。",
+  "at": "2026-10-24T09:59:41.740Z"
+ },
+ "ja/beijing-din-tai-fung": {
+  "hash": "e3cac559b043",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "この店舗にも窓があれば、待ち時間にぜひのぞいてみてください。",
+  "at": "2026-10-24T09:59:42.854Z"
+ },
+ "ko/akhaltsikhe-mtirala-national-park": {
+  "hash": "ed9bbf422828",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-24T09:59:43.628Z"
+ },
+ "ko/akhaltsikhe-vardzia": {
+  "hash": "136ae3ff40e3",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-24T09:59:49.007Z"
+ },
+ "ko/beijing-din-tai-fung": {
+  "hash": "822499bd94a9",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "회사 측 설명에 따르면 만두 하나하나에 주름을 열여덟 번 잡는다고 합니다.",
+  "at": "2026-10-24T10:00:14.427Z"
+ },
+ "zh/akhaltsikhe-mtirala-national-park": {
+  "hash": "f4774ece6758",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "黑海上的湿润空气吹向内陆，撞上第一道高耸的山脊，便在此化作雨水倾泻而下。",
+  "at": "2026-10-24T10:00:15.785Z"
+ },
+ "zh/akhaltsikhe-vardzia": {
+  "hash": "bf8016c01abe",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "这也是旅游大巴集中在上午中段到午后抵达的原因。",
+  "at": "2026-10-24T10:00:20.424Z"
+ },
+ "zh/beijing-din-tai-fung": {
+  "hash": "7fc864627044",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "按品牌的说法，每只小笼包都要捏出十八道褶。",
+  "at": "2026-10-24T10:00:32.832Z"
  }
 }

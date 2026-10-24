@@ -6,12 +6,12 @@
    "hits": 17
   },
   "historic site": {
-   "attempts": 160,
-   "hits": 92
+   "attempts": 165,
+   "hits": 95
   },
   "park": {
-   "attempts": 172,
-   "hits": 104
+   "attempts": 176,
+   "hits": 107
   },
   "viewpoint": {
    "attempts": 83,
@@ -30,20 +30,20 @@
    "hits": 5
   },
   "museum": {
-   "attempts": 151,
-   "hits": 87
+   "attempts": 155,
+   "hits": 90
   },
   "noodles": {
-   "attempts": 71,
-   "hits": 2
+   "attempts": 73,
+   "hits": 3
   },
   "old quarter": {
-   "attempts": 163,
-   "hits": 76
+   "attempts": 164,
+   "hits": 77
   },
   "local market": {
-   "attempts": 137,
-   "hits": 54
+   "attempts": 138,
+   "hits": 55
   },
   "bookshop": {
    "attempts": 48,
@@ -54,7 +54,7 @@
    "hits": 4
   },
   "hidden gem": {
-   "attempts": 150,
+   "attempts": 151,
    "hits": 85
   },
   "breakfast": {
@@ -1062,5 +1062,5 @@
    "hits": 0
   }
  },
- "updated": "2026-10-24T02:08:09.814Z"
+ "updated": "2026-10-24T10:29:22.173Z"
 }
