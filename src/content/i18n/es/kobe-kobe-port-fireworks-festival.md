@@ -1,72 +1,72 @@
 ---
 lang: es
 slug: kobe-kobe-port-fireworks-festival
-srcHash: 'fc983ce94c8e'
+srcHash: '9e740368830b'
 title: 'Festival de Fuegos Artificiales del Puerto de Kobe: fechas, entradas y lugar (Kobe)'
-description: Del 19 al 23 de octubre de 2026, el puerto de Kobe se ilumina durante varias noches con su gran festival de fuegos artificiales, que puede contemplarse gratis desde el paseo marítimo.
-quickAnswer: Del 19 al 23 de octubre de 2026, el puerto de Kobe acoge durante varias noches su festival de fuegos artificiales, que puede verse gratis desde el paseo marítimo. Lo más práctico es llegar en tren a Motomachi o a Sannomiya, bajar a pie hasta el puerto y buscar sitio mucho antes de que anochezca. En la web oficial se pueden comprobar los horarios exactos, las zonas de observación y la posible existencia de asientos de pago.
+description: Se anunciaron varias noches para el Festival de Fuegos Artificiales del Puerto de Kobe, del 19 al 23 de octubre de 2026. Los fuegos se lanzaban sobre el puerto y podían verse gratis desde el paseo marítimo.
+quickAnswer: El Festival de Fuegos Artificiales del Puerto de Kobe tenía programadas varias noches sobre el puerto de la ciudad, del 19 al 23 de octubre de 2026, y desde el paseo marítimo se podía ver gratis. El puerto está a poca distancia a pie de las estaciones de Motomachi y Sannomiya. Las principales zonas para contemplar los fuegos son el césped del parque Meriken, alrededor de la Torre del Puerto, y los paseos entarimados de Harborland.
 faq:
-  - q: ¿Cuándo se celebra el Festival de Fuegos Artificiales del Puerto de Kobe en 2026?
-    a: Está anunciado para varias noches entre el 19 y el 23 de octubre de 2026. El programa exacto de cada noche y las horas de inicio deben confirmarse en la web oficial.
-  - q: ¿Hace falta entrada para verlo?
-    a: No. Desde el paseo marítimo se puede ver gratis. Si la organización ofrece asientos reservados o de pago, encontrará la información en la web oficial, que es el único canal por el que conviene comprarlos.
-  - q: ¿Qué estación queda más cerca de las zonas de observación?
-    a: Desde la estación de Motomachi (línea JR Kobe o Hanshin) se llega en unos diez minutos a pie al parque Meriken y a la Torre del Puerto. Para la zona de Harborland, lo mejor es bajarse en la estación JR de Kobe o en la estación de Harborland, en la línea Kaigan del metro.
-  - q: ¿Cuál es el mejor sitio para verlo?
-    a: 'La parte central del frente marítimo: las praderas del parque Meriken, alrededor de la Torre del Puerto, o los paseos de tablones de Harborland que miran a la dársena. En la web oficial se indican las zonas de observación habilitadas y los cortes de acceso.'
-  - q: ¿Qué más hay cerca?
-    a: En el parque Meriken se encuentran la Torre del Puerto de Kobe, el Museo Marítimo de Kobe y el Parque Conmemorativo del Terremoto. A pocos minutos a pie al norte de Motomachi está Nankinmachi, el barrio chino, y en Harborland se suceden los centros comerciales umie y Mosaic.
+  - q: ¿Qué fechas tenía el Festival de Fuegos Artificiales del Puerto de Kobe en 2026?
+    a: Se anunció para varias noches, del 19 al 23 de octubre de 2026. El anuncio daba las fechas, pero no la hora de inicio de cada noche.
+  - q: ¿Hacía falta entrada para verlo?
+    a: No. Desde el paseo marítimo se podía ver gratis. Si había asientos reservados o de pago, los ofrecía la organización, no las webs de reventa.
+  - q: ¿Qué estación queda más cerca de las zonas para ver los fuegos?
+    a: Desde la estación de Motomachi (línea JR Kobe o Hanshin) se llega a pie al parque Meriken y a la Torre del Puerto en unos diez minutos. Para el lado de Harborland, las estaciones más cercanas son la estación JR de Kobe y la estación de Harborland, en la línea Kaigan del metro.
+  - q: ¿Cuál era el mejor sitio para verlos?
+    a: El tramo central del paseo marítimo, ya sea el césped del parque Meriken, alrededor de la Torre del Puerto, o los paseos entarimados de Harborland que dan a la dársena. Por seguridad y para las operaciones de lanzamiento, la organización suele acordonar algunas partes del frente marítimo.
+  - q: ¿Qué más había cerca?
+    a: En el parque Meriken están la Torre del Puerto de Kobe, el Museo Marítimo de Kobe y el Parque Conmemorativo del Terremoto. A un corto paseo al norte de Motomachi se encuentra Nankinmachi, el barrio chino, y en Harborland están los centros comerciales umie y Mosaic.
 ---
 
 ## Fuegos sobre el puerto
 
-Kobe vive de cara al mar, y este festival lo aprovecha por completo. Los cohetes estallan sobre la dársena y se reflejan en el agua, mientras las montañas que rodean la ciudad devuelven el eco. Entre el espectador y las explosiones se interponen dos siluetas: el entramado rojo de la Torre del Puerto de Kobe (Kobe Port Tower) y la estructura blanca del Museo Marítimo de Kobe (Kobe Maritime Museum).
+Kobe mira al mar, y este festival saca partido de toda su bahía. Los fuegos estallan sobre la dársena y se reflejan en el agua, mientras las montañas que rodean la ciudad devuelven el eco. Entre el paseo marítimo y los estallidos se recortan la celosía roja de la Torre del Puerto de Kobe (Kobe Port Tower) y la estructura blanca del Museo Marítimo de Kobe.
 
-Se trata de uno de los mayores espectáculos pirotécnicos de Kansai. En 2026 no se concentra en una única noche de verano, sino que se reparte entre varias veladas de octubre, del 19 al 23. Verlo desde el paseo marítimo no cuesta nada. Este formato de varias noches tiene más importancia de la que parece: el público se distribuye a lo largo de cinco veladas en lugar de agolparse en una sola.
+Es uno de los mayores espectáculos pirotécnicos de Kansai. En 2026 no se concentraba en una sola noche de verano, sino que ocupaba varias noches de octubre, del 19 al 23. Desde el paseo marítimo se podía ver gratis. El formato de varias noches tiene más importancia de lo que parece, porque reparte al público en cinco veladas en lugar de amontonarlo en una sola.
 
-## Fechas, entradas y lo que está confirmado
+## Fechas, entradas y lo que se confirmó
 
-Las fechas anunciadas son del **19 al 23 de octubre de 2026**. Poder ver los fuegos gratis desde el frente marítimo forma parte de la esencia del festival. Si hay asientos reservados o zonas de pago, la organización los publica en su web, así que es preferible consultarla allí y no fiarse de páginas de reventa.
+Las fechas anunciadas eran del **19 al 23 de octubre de 2026**. Ver los fuegos gratis desde el paseo marítimo forma parte de la esencia del festival. Los asientos reservados o las zonas de pago, si los había, eran de la propia organización y no ofertas de reventa.
 
-Antes de viajar, compruebe en la web oficial los horarios, el programa de cada noche y la información sobre entradas. Esta guía no indica hora de inicio ni programa, puesto que no se nos facilitaron y los calendarios de fuegos artificiales suelen cambiar.
+Junto con las fechas no se anunció ni la hora de inicio ni el programa de cada noche. En Japón, los horarios de los fuegos artificiales suelen cambiar según el viento y el tiempo.
 
-A finales de octubre, en Kobe el sol se pone hacia las 5:30pm, de modo que el espectáculo transcurre ya en plena oscuridad. Junto al agua, las noches refrescan. Aunque la tarde haya sido templada, conviene llevar una chaqueta ligera.
+A finales de octubre, en Kobe el sol se pone hacia las 5:30pm, de modo que los espectáculos empiezan ya de noche cerrada. Junto al agua refresca al anochecer, y aunque la tarde haya sido templada suele hacer falta una chaqueta ligera.
 
-## Cómo llegar al frente marítimo
+## Cómo llegar al paseo marítimo
 
-Desde tres grandes nudos ferroviarios se llega al puerto de Kobe con un paseo corto y llano. Elija el que mejor le convenga según dónde quiera situarse:
+Desde tres grandes nudos ferroviarios se llega al puerto de Kobe con un paseo corto y llano. Cada uno conviene para una zona distinta:
 
-- **Estación de Motomachi** (línea JR Kobe y línea principal de Hanshin): es el camino más directo hasta el parque Meriken y la Torre del Puerto, a unos diez minutos a pie.
-- **Sannomiya** (JR, Hankyu, Hanshin, metro y Port Liner): el principal nudo de transporte, a 15 minutos andando hacia el sur hasta el puerto.
-- **Estación de Harborland** y **estación de Minato Motomachi** (línea Kaigan del metro municipal de Kobe): las más próximas a la zona de Harborland y al centro comercial umie.
-- **Estación JR de Kobe**: un pasaje subterráneo desemboca directamente en Harborland.
+- **Estación de Motomachi** (línea JR Kobe, línea principal Hanshin): es el camino más directo hasta el parque Meriken y la Torre del Puerto, a unos diez minutos a pie.
+- **Sannomiya** (JR, Hankyu, Hanshin, metro, Port Liner): es el nudo principal, y desde allí se tarda 15 minutos a pie hacia el sur hasta el puerto.
+- **Estación de Harborland** y **estación de Minato Motomachi** (línea Kaigan del metro municipal de Kobe): son las más cercanas al lado de Harborland y al centro comercial umie.
+- **Estación JR de Kobe**: un pasaje subterráneo lleva directamente a Harborland.
 
-Desde la estación de Osaka, el tren Rápido Especial de JR llega a Sannomiya en unos 20 minutos. Desde el aeropuerto de Kobe, el Port Liner lleva hasta Sannomiya.
+Desde la estación de Osaka, el tren JR Special Rapid llega a Sannomiya en unos 20 minutos. Desde el aeropuerto de Kobe, el Port Liner va hasta Sannomiya.
 
 ## Qué tramo del muelle elegir
 
-El núcleo del espectáculo se vive en el centro del frente marítimo, es decir, en las praderas del parque Meriken (Meriken Park) que rodean la Torre del Puerto y, al otro lado del agua, en los paseos de tablones de Harborland. Ambos lugares dan a la dársena abierta, por lo que la visibilidad es amplia.
+El corazón del espectáculo es el tramo central del paseo marítimo. Comprende el césped del parque Meriken, alrededor de la Torre del Puerto, y, al otro lado del agua, los paseos entarimados de Harborland. Ambas zonas dan a la bahía abierta, así que la vista es amplia.
 
-El parque Meriken dispone de más espacio despejado, ideal para grupos que quieran sentarse. En Harborland, en cambio, los cafés, restaurantes y aseos de umie y Mosaic quedan justo a la espalda, algo que se agradece en una noche fría. Su principal inconveniente son los pasillos estrechos, que se colapsan cuando todo el mundo se marcha a la vez.
+El parque Meriken dispone de más espacio despejado, lo que conviene a los grupos que quieren sentarse. En Harborland, justo detrás de los paseos, umie y Mosaic ofrecen cafeterías, restaurantes y aseos, algo de agradecer en una noche fría. Su principal inconveniente son las pasarelas estrechas, que se atascan cuando todo el mundo se marcha a la vez.
 
-Consulte en la web oficial las zonas de observación habilitadas y los posibles cortes. Es habitual que la organización acordone parte del frente marítimo por motivos de seguridad y para las operaciones de lanzamiento.
+Por seguridad y para las operaciones de lanzamiento, la organización suele acordonar partes del frente marítimo, de modo que las zonas habilitadas para ver los fuegos cambian de un año a otro.
 
-## Ver los fuegos como en Kobe
+## Los fuegos al estilo de Kobe
 
-El público japonés de los fuegos artificiales sigue unas cuantas costumbres. Conocerlas hace la velada más llevadera.
+El público japonés de los fuegos artificiales sigue unas cuantas costumbres, y conocerlas facilita la velada.
 
-- **Lleve una lona de picnic.** Todo el mundo se sienta sobre esas finas lonas de plástico que venden en cualquier tienda de conveniencia o de 100 yenes. Procure no extenderla más de la cuenta: ocupar demasiado espacio en las mejores zonas atrae miradas de reproche.
-- **Recargue antes su tarjeta IC.** Cargue la ICOCA o la Suica antes del espectáculo. Tras el final, se forman largas colas ante las máquinas expendedoras y el personal de las estaciones suele organizar el paso por los tornos en un solo sentido.
-- **Llévese la basura.** En Japón escasean las papeleras públicas, y en las noches de festival se llenan enseguida. Lleve una bolsa y guarde los desperdicios hasta llegar a casa o al hotel.
-- **Siga las indicaciones del personal.** Al terminar el espectáculo, unos guías uniformados con bastones luminosos dirigen a la multitud. Seguir el itinerario que marcan resulta más rápido que ir a contracorriente.
-- **Coma antes o después, nunca durante.** A la hora de la cena, los restaurantes cercanos al puerto se llenan. Un picnic comprado en una tienda de conveniencia (konbini) junto a la estación le ahorrará la espera.
+- **Esterillas.** Todo el mundo se sienta sobre la fina lona de plástico para pícnics que venden en cualquier tienda de conveniencia o tienda de 100 yenes. Lo habitual son esterillas pequeñas; quien se extiende a sus anchas en los mejores sitios se gana miradas de reproche.
+- **Tarjetas IC con saldo.** Los asiduos recargan la ICOCA o la Suica antes del espectáculo. Tras el final se forman largas colas ante las máquinas de billetes, y el personal de la estación suele imponer un sentido único de paso en los tornos.
+- **La basura, a casa.** En Japón escasean las papeleras públicas, y en las noches de festival se llenan enseguida. La gente lleva una bolsa y se lleva la basura a casa o al hotel.
+- **El personal dirige la salida.** Al terminar, guías uniformados con bastones luminosos encauzan a la multitud. Seguir el recorrido que indican es más rápido que ir a contracorriente.
+- **Comer antes o después, nunca durante.** Los restaurantes cercanos al puerto se llenan a la hora de la cena. Con un pícnic de konbini comprado cerca de la estación se evita la espera.
 
-Sacar el móvil con el primer estallido es lo normal. Hablar a voces durante el final, no.
+Es normal levantar el móvil con el primer estallido. Hablar en voz alta durante el gran final, en cambio, no lo es.
 
-## Cómo aprovechar la noche
+## Aprovechar la noche
 
-Al haber cinco veladas, usted puede elegir la que más le convenga, e incluso cambiar de noche si el pronóstico anuncia lluvia. Para el visitante, esta flexibilidad es la gran ventaja práctica del festival.
+Con cinco noches, los visitantes podían elegir la suya. Si para una velada se anunciaba lluvia, quedaban otras. Esa flexibilidad era la mayor ventaja práctica del formato de 2026 para el visitante.
 
-Llegue pronto y recorra el frente marítimo a la luz del día. En el parque Meriken se encuentran la Torre del Puerto de Kobe, el Museo Marítimo y el Parque Conmemorativo del Terremoto (Earthquake Memorial Park). En este último se conserva un tramo de muelle que quedó destrozado en el gran terremoto de Hanshin de 1995. A pocos minutos al norte de Motomachi está Nankinmachi, el barrio chino de Kobe, cuyos puestos de comida para llevar ofrecen una cena sencilla.
+Merece la pena recorrer el paseo marítimo de día. En el parque Meriken se encuentran la Torre del Puerto de Kobe, el Museo Marítimo y el Parque Conmemorativo del Terremoto. Este último conserva un tramo de muelle que quedó destrozado en el gran terremoto de Hanshin de 1995. A pocos minutos al norte de Motomachi está Nankinmachi, el barrio chino de Kobe, cuyos puestos de comida para llevar resuelven la cena sin complicaciones.
 
-Cuando terminen los fuegos, deje que se disperse la primera oleada de gente. Veinte minutos tomando algo en Harborland suelen ser mejor opción que hacer cola en un andén abarrotado.
+Tras el gran final, compensa dejar que se disperse la primera oleada de gente. Veinte minutos tomando algo en Harborland suelen ser mejor opción que hacer cola en un andén abarrotado.

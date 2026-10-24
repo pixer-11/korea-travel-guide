@@ -37420,5 +37420,40 @@
   "registerBreak": false,
   "worst": "黄金时刻的马努考港美景就是最好的理由。",
   "at": "2026-10-23T13:24:16.893Z"
+ },
+ "es/hoi-an-hoi-an-lantern-festival": {
+  "hash": "341e01ba27fa",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Puede agacharse desde los escalones de la orilla y posarlo sobre el agua.",
+  "at": "2026-10-24T03:03:09.257Z"
+ },
+ "es/kobe-kobe-port-fireworks-festival": {
+  "hash": "b4be2297920a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "El corazón del espectáculo es el tramo central del paseo marítimo.",
+  "at": "2026-10-24T03:03:10.180Z"
+ },
+ "ja/hoi-an-hoi-an-lantern-festival": {
+  "hash": "35c3d9f2a30b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "今回の開催日は**2026年10月23日**でした。旧暦の日付は新暦に換算するときに読み違えやすく",
+  "at": "2026-10-24T03:03:11.324Z"
+ },
+ "zh/hoi-an-hoi-an-lantern-festival": {
+  "hash": "8704c6822e3c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "错过了也不用等太久",
+  "at": "2026-10-24T03:03:12.002Z"
+ },
+ "zh/kobe-kobe-port-fireworks-festival": {
+  "hash": "2d4d54d4db94",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "对游客来说，这种灵活性是2026年新形式在实际中最大的好处。",
+  "at": "2026-10-24T03:03:33.500Z"
  }
 }
