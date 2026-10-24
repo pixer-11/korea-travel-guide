@@ -3563,6 +3563,12 @@
   "reason": "publish gate: Kitchen staff making dumplings, representative interior scene",
   "at": "2026-10-24T07:56:57.154Z"
  },
+ "beijing-din-tai-fung\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Din_Tai_Fung_at_Beijing_apm_6F_%2820211201174838%29.jpg/3840px-Din_Tai_Fung_at_Beijing_apm_6F_%2820211201174838%29.jpg": {
+  "slug": "beijing-din-tai-fung",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: This is a mall storefront, not Din Tai Fung restaurant",
+  "at": "2026-10-24T21:46:44.475Z"
+ },
  "beijing-forbidden-city\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Beijing_forbidden_city_Belvedere_of_Embodying_Benevolence-20071018-RM-142403.jpg/1920px-Beijing_forbidden_city_Belvedere_of_Embodying_Benevolence-20071018-RM-142403.jpg": {
   "slug": "beijing-forbidden-city",
   "verdict": "MATCH",
@@ -9015,7 +9021,7 @@
   "slug": "goyang-charlie-puth-concert",
   "verdict": "MATCH",
   "reason": "patrol replace: Performer on stage at concert event",
-  "at": "2026-10-22T22:38:33.408Z"
+  "at": "2026-10-24T21:46:59.473Z"
  },
  "goyang-charlie-puth-seoul-2026\u0001https://upload.wikimedia.org/wikipedia/commons/8/86/Charlie_Puth_2017_%28cropped%29.jpg": {
   "slug": "goyang-charlie-puth-seoul-2026",
@@ -9727,6 +9733,12 @@
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: filename shares no word with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-22T08:00:48.700Z"
+ },
+ "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/6/61/TOTAL_BWF_World_Champs_2015_Day_2_Sam_Magee.jpg": {
+  "slug": "hangzhou-bwf-world-tour-finals",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Professional badminton player at tournament venue",
+  "at": "2026-10-24T21:47:05.871Z"
  },
  "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/7/79/Saurabh_Sharma_at_the_2024_BWF_World_Junior_Championships.jpg": {
   "slug": "hangzhou-bwf-world-tour-finals",
@@ -16176,8 +16188,8 @@
  "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia\u0001https://upload.wikimedia.org/wikipedia/commons/e/ee/Vladimir_leonov_motogp.jpg": {
   "slug": "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia",
   "verdict": "MATCH",
-  "reason": "patrol replace: MotoGP racing at circuit with safety barriers",
-  "at": "2026-10-22T22:40:41.686Z"
+  "reason": "patrol replace: MotoGP motorcycle racing at circuit with safety barriers",
+  "at": "2026-10-24T21:47:21.643Z"
  },
  "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Alvaro_Bautista-motogp-2015.JPG/3840px-Alvaro_Bautista-motogp-2015.JPG": {
   "slug": "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia",
@@ -16221,6 +16233,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Photo of advertising banner, not actual event/players",
   "at": "2026-10-19T23:04:32.251Z"
+ },
+ "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/f/ff/Rafa_Nadal_exits_O2_Arena_after_defeat_to_defending_champion_Alexander_Zverev_at_Nitto_ATP_Finals_2019_%2849052005756%29.jpg": {
+  "slug": "london-atp-finals",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Tennis player at ATP Finals on blue court",
+  "at": "2026-10-24T21:47:27.420Z"
  },
  "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2019_ATP_Finals_at_the_o2_%2849069357912%29.jpg/3840px-2019_ATP_Finals_at_the_o2_%2849069357912%29.jpg": {
   "slug": "london-atp-finals",
@@ -22341,7 +22359,7 @@
   "slug": "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour",
   "verdict": "MATCH",
   "reason": "patrol replace: Band performing on stage at concert venue",
-  "at": "2026-10-22T22:42:15.039Z"
+  "at": "2026-10-24T21:48:26.613Z"
  },
  "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/9/93/5_Seconds_of_Summer_11_15_2014_-25_%2815187260193%29.jpg": {
   "slug": "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour",
@@ -23611,6 +23629,12 @@
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: filename shares only \"ironman\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-24T02:12:34.838Z"
+ },
+ "puerto-princesa-ironman-70-3-puerto-princesa\u0001https://upload.wikimedia.org/wikipedia/commons/7/71/Ironman_70.3_World_Championships_%289703303916%29.jpg": {
+  "slug": "puerto-princesa-ironman-70-3-puerto-princesa",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Triathlon cyclist in competition, mountainous terrain.",
+  "at": "2026-10-24T21:48:51.494Z"
  },
  "puerto-princesa-ironman-70-3-puerto-princesa\u0001https://upload.wikimedia.org/wikipedia/commons/d/db/Bart_Aernouts_Ironman_70.3_Austria_2012.jpg": {
   "slug": "puerto-princesa-ironman-70-3-puerto-princesa",

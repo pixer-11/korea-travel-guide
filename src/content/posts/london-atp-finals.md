@@ -29,6 +29,16 @@ faq:
     a: Yes. The O2 on the Greenwich Peninsula is right by North Greenwich station on the Jubilee line, and the river boat and the cable car across the Thames also stop there.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/f/ff/Rafa_Nadal_exits_O2_Arena_after_defeat_to_defending_champion_Alexander_Zverev_at_Nitto_ATP_Finals_2019_%2849052005756%29.jpg
+  credit: 'Photo: Chris Czermak / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Rafa_Nadal_exits_O2_Arena_after_defeat_to_defending_champion_Alexander_Zverev_at_Nitto_ATP_Finals_2019_(49052005756).jpg
+  focus:
+    x: 51
+    'y': 31
+    top: 28
+    bottom: 34
 ---
 
 ## London hosted it until 2020

@@ -2993,7 +2993,10 @@
   "taupo-orakei-korako-geothermal-park-cave\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Looking_down_into_Ruatapu_Cave_at_Orakei_Korako_geothermal_park.jpg/3840px-Looking_down_into_Ruatapu_Cave_at_Orakei_Korako_geothermal_park.jpg": 3840,
   "paracas-candelabro-de-paracas\u0001https://upload.wikimedia.org/wikipedia/commons/f/f9/Candelabro_de_Paracas_03.JPG": 2304,
   "tskaltubo-sanatorium-imereti\u0001https://upload.wikimedia.org/wikipedia/commons/7/77/Georgia%2C_Imereti_-_Meshakhte_Sanatorium_Building_%28Tskaltubo%29_WMID7140708.jpg": 2106,
-  "tbilisi-vere-park\u0001https://upload.wikimedia.org/wikipedia/commons/0/09/2024-07-20_Viewpoint_in_Vere_Park.jpg": 2627
+  "tbilisi-vere-park\u0001https://upload.wikimedia.org/wikipedia/commons/0/09/2024-07-20_Viewpoint_in_Vere_Park.jpg": 2627,
+  "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/6/61/TOTAL_BWF_World_Champs_2015_Day_2_Sam_Magee.jpg": 3024,
+  "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/f/ff/Rafa_Nadal_exits_O2_Arena_after_defeat_to_defending_champion_Alexander_Zverev_at_Nitto_ATP_Finals_2019_%2849052005756%29.jpg": 1616,
+  "puerto-princesa-ironman-70-3-puerto-princesa\u0001https://upload.wikimedia.org/wikipedia/commons/7/71/Ironman_70.3_World_Championships_%289703303916%29.jpg": 1200
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -3166,8 +3169,8 @@
   },
   "mumbai-mokai": {
    "width": 906,
-   "attempts": 7,
-   "nextTry": "2026-10-24",
+   "attempts": 8,
+   "nextTry": "2026-10-31",
    "flaggedAt": "2026-09-03",
    "lastResult": "no-wider"
   },
@@ -3264,8 +3267,8 @@
   },
   "sharjah-arabian-fish-house-restaurant-cafe-al-hirah-beach-sharjah": {
    "width": 1055,
-   "attempts": 4,
-   "nextTry": "2026-10-24",
+   "attempts": 5,
+   "nextTry": "2026-10-31",
    "flaggedAt": "2026-09-19",
    "lastResult": "no-wider"
   },
@@ -3278,8 +3281,8 @@
   },
   "bali-sana-uluwatu": {
    "width": 1080,
-   "attempts": 3,
-   "nextTry": "2026-10-24",
+   "attempts": 4,
+   "nextTry": "2026-10-31",
    "flaggedAt": "2026-09-24",
    "lastResult": "no-wider"
   },
@@ -3513,5 +3516,5 @@
    "flaggedAt": "2026-10-21"
   }
  },
- "updated": "2026-10-24T16:23:30.463Z"
+ "updated": "2026-10-24T21:50:37.835Z"
 }
