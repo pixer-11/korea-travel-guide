@@ -1960,6 +1960,34 @@
       "query": "Holy Rosary Church Sa Pa stone church"
     },
     {
+      "country": "Vietnam",
+      "region": "Sapa",
+      "topic": "Ta Van Village",
+      "category": "hidden-gem",
+      "query": "Ta Van Village Sa Pa"
+    },
+    {
+      "country": "Vietnam",
+      "region": "Sapa",
+      "topic": "Lao Chai Village",
+      "category": "hidden-gem",
+      "query": "Lao Chai Village Sa Pa"
+    },
+    {
+      "country": "Vietnam",
+      "region": "Sapa",
+      "topic": "Ta Phin Village",
+      "category": "hidden-gem",
+      "query": "Ta Phin Village Sa Pa"
+    },
+    {
+      "country": "Vietnam",
+      "region": "Sapa",
+      "topic": "Sapa Museum",
+      "category": "attraction",
+      "query": "Sa Pa Museum"
+    },
+    {
       "country": "Mongolia",
       "region": "Ulaanbaatar",
       "topic": "Gandan Monastery",
