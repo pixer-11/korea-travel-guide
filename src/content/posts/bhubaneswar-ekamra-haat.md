@@ -113,7 +113,7 @@ Every stall is separate, so the rules change from one table to the next.
 - **Check the weave.** For ikat, turn the fabric over. On true double or single ikat, the pattern shows on both sides.
 - **Ask for rolls.** Pattachitra and appliqué pack best rolled rather than folded. Stallholders are used to wrapping them for travel.
 
-A few words of Odia go a long way. Asking "how much?" in Odia gets a smile, and so does a plain "dhanyabad" (thank you) when you leave.
+A few words of Odia go a long way. Asking 'how much?' in Odia gets a smile, and so does a plain "dhanyabad" (thank you) when you leave.
 
 ## When the haat turns into a venue
 

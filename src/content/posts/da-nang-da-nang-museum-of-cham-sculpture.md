@@ -89,7 +89,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-01'
 ---
-
 ## Why go
 
 You come here to see faces carved a thousand years ago still looking back at you. This is the world's largest collection of Cham sculpture, the art of the Hindu-Buddhist kingdom that ruled central Vietnam for over a millennium. The French-built galleries hold sandstone deities, dancers, and lingas pulled from temple sites like My Son, Dong Duong, and Tra Kieu.
@@ -107,8 +106,8 @@ If you're coming from My Khe Beach, expect a 15–20 minute drive across one of 
 The collection is organized by region (My Son, Tra Kieu, Dong Duong, Thap Mam) each with a distinct sculptural style worth slowing down for.
 
 - The Tra Kieu Altar, carved with dancing apsaras, is one of the museum's signature pieces.
-- Look for the Dong Duong Buddha, a bronze figure blending Cham and Indian influences.
-- The Thap Mam room holds fiercer, more stylized guardian figures and mythical beasts from the 12th–13th centuries.
+- Look for the Dong Duong Buddha, one of the museum's notable pieces.
+- The Thap Mam room holds sculptures in a distinct, more stylized and dramatic style compared to the other regions.
 - Don't skip the small side displays of Cham textiles, instruments, and everyday tools, they round out the religious carvings with a sense of daily life.
 
 Plan for 45 minutes if you're moving quickly, closer to 90 if you read the placards and linger.

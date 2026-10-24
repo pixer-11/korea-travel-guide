@@ -38,7 +38,6 @@ heroImage:
     x: 50
     'y': 40
 ---
-
 ## A Saturday night on Yas Island
 
 Four acts, one night, one open-air stage. On November 21, 2026, OFFLIMITS Music Festival returns to Etihad Park on Yas Island, with Shakira and the Jonas Brothers at the top of the bill and Ne-Yo and Myles Smith beside them.
@@ -47,7 +46,7 @@ This is a bill built for singing along. Between the four acts you have roughly t
 
 ## Who is on the bill
 
-The headliners have catalogues that many people grew up on. Here is what each act brings to the stage, going by their recorded work rather than any announced setlist:
+The headliners have catalogues that many people grew up on. Their recorded work, rather than any announced setlist, is the best guide to what each act brings:
 
 - **Shakira:** the Colombian star behind "Hips Don't Lie", "Whenever, Wherever" and "Waka Waka", with a stage reputation built on dance as much as voice.
 - **Jonas Brothers:** Kevin, Joe and Nick, whose 2019 reunion single "Sucker" put them back on top of the charts years after "Burnin' Up".

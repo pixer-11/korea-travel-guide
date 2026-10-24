@@ -94,7 +94,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-10-11'
 ---
-
 ## Breakfast at the Start of Route 66
 
 Jackson Boulevard is where Route 66 historically began. Lou Mitchell's has been feeding people on this block since 1923, and it still serves only breakfast and lunch. The diner is listed on the National Register of Historic Places. Inside you'll find a long counter with stools on one side and tight rows of tables on the other.
@@ -121,7 +120,7 @@ Measured foot traffic shows weekends are busiest for the entire 7am–2pm window
 - Give your name and party size at the front and wait to be called.
 - Solo diners and pairs often get seated faster at the counter.
 - Groups of five or more wait longest. Split up if you don't mind.
-- If someone comes down the line with a free treat, take it. Handing out donut holes and Milk Duds to people waiting is a long-running house tradition.
+- If someone comes down the line with a free treat, take it.
 
 ## Paying and Moving On
 

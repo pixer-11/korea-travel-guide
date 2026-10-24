@@ -90,7 +90,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-10-07'
 ---
-
 ## A temple built for the goddess of the sea
 
 Macau takes its name from A-Ma. Most visitors only see her older temple on the peninsula, at Barra. Up here on Alto de Coloane, the island's high ground, is a newer tribute: a temple complex dedicated to the goddess, with a museum and memento shops.
@@ -99,7 +98,7 @@ The nearby A-Ma Statue is a pale stone figure about 20 metres tall. She faces ou
 
 ## Reaching the hilltop
 
-The address is Estrada do Alto de Coloane, a road that winds up through forest away from Coloane's coastal villages. A taxi is the simplest way up. Ask for the A-Ma statue, *Ma Zu Xiang* in Mandarin or *Ma Tsou Tchong* to a Cantonese-speaking driver, and show the written address too.
+The address is Estrada do Alto de Coloane, a road that winds up through forest away from Coloane's coastal villages. A taxi is the simplest way up. Ask for the A-Ma statue, and show the written address too.
 
 If you like hiking, the Coloane Trail network runs across these hills, so you can walk up and come down a different way. Bring water, because the climb is steep and much of it is unshaded. Taxis are scarce at the top, so before you get out, sort out how you will get down.
 
@@ -119,7 +118,7 @@ Prices for incense, museum entry and souvenirs are posted on site. Shoulders don
 
 ## Beating the weekend tour groups
 
-Few visitors make it up here, which is much of the appeal. On weekdays the place stays quiet from opening at 9am right through to the 6pm close, so you can come whenever you like.
+Few visitors make it up here, which is much of the appeal. On weekdays the place stays quiet throughout opening hours, from 9am to 6pm, so you can come whenever you like.
 
 Weekends work differently. It is calmest between 9am and 11am. Try not to arrive between 11am and 5pm, when the crowds build and the area around the statue fills with groups taking photos.
 

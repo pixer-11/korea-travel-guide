@@ -36,7 +36,7 @@ Lumphini Park looks like a dark green carpet from up here. Iris & Wild Iris sits
 
 That view is the whole reason it's on this corner. Most Bangkok rooftops look out over more towers. This one looks over the biggest stretch of open green in central Bangkok, with the Silom and Sathorn skylines rising around its edges.
 
-It opened in 2026 and was quickly counted among the buzziest new high-rise openings of the year. The concept borrows from the Riviera, meaning the Mediterranean seaside. You're in tropical Bangkok, with the slow, sunlit holiday mood of that coast.
+It opened in 2026 and was quickly counted among the buzziest new high-rise openings of the year. The concept borrows from the Riviera, the stretch of Mediterranean coastline in southern France and Italy. You're in tropical Bangkok, with the slow, sunlit holiday mood of that coast.
 
 ## Reading the Riviera Brief
 

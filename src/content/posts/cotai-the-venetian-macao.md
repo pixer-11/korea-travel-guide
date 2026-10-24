@@ -77,7 +77,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-10-08'
 ---
-
 ## A Venice built on reclaimed land
 
 The campanile is the giveaway. From the road, a copy of St Mark's bell tower rises over a pastel copy of the Doge's Palace, with a Rialto-style bridge arching over a lagoon at its feet. None of this is old. Cotai itself is reclaimed land, filled in between Taipa and Coloane, and The Venetian Macao opened on it in 2007.
@@ -98,7 +97,7 @@ Gondoliers in striped shirts and straw boater hats steer boats along the water a
 
 ## Staying in the suites
 
-Every room here is a suite. The hotel describes itself as all-suite, with a sunken living area separated from the bed. The resort's own summary sums it up as "elegant suites in a posh resort with plush restaurants, outdoor pools & indoor canals". That matches what guests consistently rate highly.
+Every room here is a suite. The hotel describes itself as all-suite. The resort's own summary sums it up as "elegant suites in a posh resort with plush restaurants, outdoor pools & indoor canals". That matches what guests consistently rate highly.
 
 The pools are outdoors on the pool deck, which is a welcome change after hours of air-conditioned corridors. Staying in means you can reach the canals before the day-trippers arrive. You can also come back down after the shops close and walk the waterways when they're nearly empty.
 

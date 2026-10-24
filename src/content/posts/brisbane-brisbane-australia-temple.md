@@ -65,7 +65,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A White Spire on River Terrace
 
 River Terrace follows the top of the Kangaroo Point peninsula, and one stretch of it holds a pale stone temple with a single spire. This is the Brisbane Australia Temple of The Church of Jesus Christ of Latter-day Saints, dedicated in 2003. A gilded figure of the angel Moroni stands on top of the spire, as it does on most of the church's temples.
@@ -94,7 +93,7 @@ The posted hours belong to the temple. Check them before you set out, because tw
 - Saturday: 6:30am to 7:15pm, closing an hour earlier
 - Sunday: closed
 
-Try not to come on a Saturday between 8am and 7pm. That is the busiest window of the week. The car park fills, and you may find yourself stepping around wedding parties having photos taken on the lawns.
+Try to avoid visiting on a Saturday if you can. That is the busiest window of the week. The car park fills, and you may find yourself stepping around wedding parties having photos taken on the lawns.
 
 A weekday morning after the 7:30am opening is the better choice. Wednesday to Friday evenings are good too, when the white stone picks up the last of the light. On Tuesdays, nothing opens until 4:30pm.
 

@@ -55,7 +55,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Inside the walls
 
 High stone walls close around you here. Adelaide Gaol took its first prisoners in 1841, only five years after the colony was founded. It kept operating until 1988, which makes it one of the longest continuously running prisons in Australia.
@@ -85,7 +84,7 @@ Afterwards, Bonython Park has open lawns beside the river for a picnic, and Theb
 
 ## Timing your visit and the tours
 
-At the moment the gaol opens 10am–4pm, seven days a week. Museum hours shift through the year and on public holidays, so check the official site before you go. Last entry falls before closing, which means a 3:30pm arrival is too late to see it properly.
+At the moment the gaol opens 10am–4pm, seven days a week. Museum hours shift through the year and on public holidays, so check the official site before you go. Last entry falls before closing, so arriving too close to closing time means missing the chance to see it properly.
 
 Plan on 90 minutes to two hours for a self-guided visit. Get there in the morning or by early afternoon. A first-thing arrival usually beats any school or tour groups that come later in the day.
 

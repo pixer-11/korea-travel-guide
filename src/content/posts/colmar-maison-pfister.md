@@ -105,7 +105,7 @@ It also happens to sit on an ordinary shopping street. That is the charm, and it
 
 ## A hatter's house from 1537
 
-The house was built for Ludwig Scherer, who got rich enough to commission the most ambitious townhouse on the street. It dates from the early Alsatian Renaissance. You can see that in the way the stone ground floor gives way to timber and paint above. A merchant was advertising his success to everyone heading for the market.
+The house was built for a wealthy local merchant, who got rich enough to commission the most ambitious townhouse on the street. It dates from the early Alsatian Renaissance. You can see that in the way the stone ground floor gives way to timber and paint above. A merchant was advertising his success to everyone heading for the market.
 
 The name came much later. The Pfister family later owned the house, and their name stuck. Today it is listed as a historical landmark.
 

@@ -45,7 +45,7 @@ Picture the old commercial core of Adana. Low stone and brick buildings line nar
 
 ## Dates and tickets for 2026
 
-The rule is easy to remember: it is held every year on the second Saturday night of December. Because it is overnight, the party carries on past midnight into Sunday morning.
+The event is held once a year, overnight on a Saturday, though the exact date changes annually. Because it is overnight, the party carries on past midnight into Sunday morning.
 
 Ticketing depends on how each venue organises its own night. The streets are public, but restaurants and meyhanes inside the area run their own tables and reservations. Confirm timing, venue boundaries and tickets on the official festival source, and book a table directly with any restaurant you have your heart set on.
 

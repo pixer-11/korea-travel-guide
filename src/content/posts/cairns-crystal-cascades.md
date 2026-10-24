@@ -107,7 +107,7 @@ The dry months, around May to October, bring lower, clearer water and cooler air
 
 ## Beating the weekend crowd
 
-It's a well-known local swimming spot, and weekends show it. Try not to arrive between 9am and 8pm on a Saturday or Sunday. The car park fills and the pools near the start of the path get crowded.
+It's a well-known local swimming spot, and weekends show it. Try to arrive before 9am on a Saturday or Sunday. The car park fills and the pools near the start of the path get crowded.
 
 The only quiet weekend window is 8pm to 10pm. That's after dark in a rainforest gorge, so it suits a short torchlit walk, not a swim. For swimming, a weekday is the better choice, or arrive early before the weekend rush.
 

@@ -56,7 +56,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Chrome at the end of Norris Bell Avenue
 
 Out here, the trucks are the history. Alice Springs sits about as far from a port as anywhere in Australia, and for most of the twentieth century everything reached it by rail or by road. This museum tells the road half of that story, in big sheds south of town where retired prime movers stand nose to tail.
@@ -65,7 +64,7 @@ It also gets far fewer visitors than the town's headline sights. Most people dri
 
 ## Road trains: the outback's own invention
 
-Central Australia didn't just use the road train. It helped invent it. Kurt Johannsen, a mechanic working out of the Alice Springs district, built one of the country's first road trains in the 1940s to haul freight and cattle across distances no single truck could manage economically.
+Central Australia didn't just use the road train. It helped invent it. Kurt Johannsen, an engineer based in Central Australia, built one of the country's first road trains to haul freight and cattle across distances no single truck could manage economically.
 
 That idea is the thread running through the collection. Look for these:
 

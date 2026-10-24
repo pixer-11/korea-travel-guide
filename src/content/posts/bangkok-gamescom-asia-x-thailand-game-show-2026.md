@@ -36,7 +36,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Two shows under one roof
 
 For four days, QSNCC holds two events at once. gamescom asia, the Asian spin-off of the Cologne trade fair, brings publishers, developers and investors together for business days. Thailand Game Show, the country's long-running consumer expo, fills the halls with playable demos, stage events and esports matches.
@@ -57,7 +56,7 @@ Visitors from abroad usually stay around Asok or Phrom Phong. Both are a short M
 
 Fan weekends get the biggest crowds. October 31 and November 1 fall on a Saturday and Sunday, and Thailand Game Show regularly draws families and students on those days. Regulars usually head straight for the most hyped demo booths when the doors open, because those lines grow fastest. Stage shows and merchandise come later.
 
-Here is what attendees usually carry:
+A few essentials make the day easier:
 
 - A charged phone and power bank, for e-tickets, QR payments and booth sign-ups
 - A light layer, as the halls are kept cold

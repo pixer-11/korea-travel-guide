@@ -47,7 +47,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A shrine at village scale
 
 Most visitors to Macau never come this far south. Coloane is the greener, slower end of the territory, past the Cotai casino strip. Its old village still runs at the pace of a fishing settlement.
@@ -72,7 +71,7 @@ This is a place people come to pray, not a museum exhibit.
 
 This is the mistake that costs visitors the most time. Macau has several sites named for Kun Iam, and maps and taxi drivers can send you to the wrong one.
 
-- **Kun Iam Tong (Templo de Kun Iam)** is the big, famous temple complex in Mong Ha on the Macau peninsula. In 1844 it hosted the signing of the first treaty between China and the United States.
+- **Kun Iam Tong (Templo de Kun Iam)** is the big, famous temple complex in Mong Ha on the Macau peninsula, and one of the territory's oldest and most significant temples.
 - **The Kun Iam Statue** is the bronze figure on a lotus-shaped base on the NAPE waterfront, near the Macau Science Center.
 - **Kun Iam Temple, Coloane** is the small village shrine this guide covers, at the far southern tip of the territory.
 

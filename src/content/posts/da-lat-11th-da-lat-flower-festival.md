@@ -39,12 +39,11 @@ heroImage:
     x: 50
     'y': 45
 ---
-
 ## Twelve days of flowers on the plateau
 
 Da Lat grows flowers for a living. The hillsides around the city are terraced with greenhouses, and their white plastic roofs reflect the light across whole valleys. The Flower Festival brings that crop into town.
 
-The 11th edition runs from December 19 to 31, 2026. It opens at Lam Vien Square, and displays, markets and cultural events then spread across Da Lat and the wider Lam Dong province. The festival has been held since 2004, usually every couple of years, so each edition is a big occasion for the city.
+The 11th edition runs from December 19 to 31, 2026. It opens at Lam Vien Square, and displays, markets and cultural events then spread across Da Lat and the wider Lam Dong province. The festival has been held since 2004, and each edition is a big occasion for the city.
 
 ## Lam Vien Square and the lake
 

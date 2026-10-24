@@ -105,7 +105,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-31'
 ---
-
 ## Why this stretch, and not the others
 
 Of the four connecting paths in Cinque Terre, Monterosso to Vernazza is the one people talk about for a reason.
@@ -149,9 +148,9 @@ Skip rolling luggage, heels, or anything you're not prepared to carry on uneven 
 
 The trail is officially open 24 hours a day, every day, with no closing gate. That doesn't mean every hour is pleasant.
 
-Weekends get busy from 7am until 11pm, with a steadier flow of hikers all day. On weekdays, though, the crowd thins out noticeably between 4pm and 5pm, a good window if you want the ridge views without a queue at the narrow spots.
+Weekends get busy from 7am until 11pm, with a steadier flow of hikers all day. On weekdays, though, the crowd thins out noticeably in the late afternoon, a good window if you want the ridge views without a queue at the narrow spots.
 
-Weekend mornings before 8am are also relatively calm before the day-trippers arrive. Avoid full midday sun in summer, when the exposed cliffside sections turn into a genuine heat trap.
+Early mornings, before the day-trippers arrive, are also relatively calm. Avoid full midday sun in summer, when the exposed cliffside sections turn into a genuine heat trap.
 
 ## How to visit like a local
 

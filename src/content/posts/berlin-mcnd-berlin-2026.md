@@ -42,7 +42,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A Sunday show on Hermannstraße
 
 The date is Sunday, December 6, 2026. The room is Hole 44, a club-sized music venue in Neukölln that sits right on the traffic of Hermannstraße. The act is MCND, the TOP Media boy group that debuted in 2020 with "Ice Age".
@@ -51,7 +50,7 @@ At a club this size you are close to the stage, not watching a video wall from t
 
 ## Who you're coming to see
 
-MCND is a five-member group. Castle J, BIC, Huijun, Minjae and Win came out of TOP Media, the agency behind Teen Top and UP10TION. Castle J is well known for his work on the group's own songs, and the group's style is self-produced and dance-heavy.
+MCND is a five-member group. Castle J, BIC, Huijun, Minjae and Win came out of TOP Media, the agency behind Teen Top and UP10TION. The group's style is self-produced and dance-heavy.
 
 Nobody gave us a setlist or a support act, so this page doesn't list one. The organiser publishes ticket links and show details on its own channels, and those are the sources for times and ticket types. We name no price here because none was supplied to us.
 

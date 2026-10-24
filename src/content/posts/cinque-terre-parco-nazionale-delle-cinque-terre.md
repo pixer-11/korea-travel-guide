@@ -125,7 +125,7 @@ The Sentiero Azzurro (Blue Trail) once linked all five villages along the cliffs
 
 The park itself never closes (it's open every day, all day), but the villages feel completely different depending on the hour.
 
-Crowd patterns are sharp and predictable here. On weekends, things stay manageable from 7am to 6pm, then swell hard from 1pm through 11pm as day-trippers arrive by train and boat. Weekday mornings, even without confirmed quiet-hour data, tend to follow the same early-calm pattern.
+Crowd patterns are sharp and predictable here. On weekends, things stay manageable until mid-morning, then swell hard from midday through early evening as day-trippers arrive by train and boat. Weekday mornings, even without confirmed quiet-hour data, tend to follow the same early-calm pattern.
 
 Come in May, June or September for warm water and thinner crowds than peak July–August. Spring also brings wildflowers along the terraces; autumn brings grape harvest in the vineyards above Manarola and Riomaggiore.
 

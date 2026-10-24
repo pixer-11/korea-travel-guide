@@ -111,7 +111,7 @@ The easiest approach is Nampo Station (Busan Metro Line 1), Exit 7, which puts y
 
 From there you have three options:
 
-- Walk up through the stone stairways and garden paths, 10-15 minutes, shaded most of the way
+- Walk up through the stone stairways and garden paths
 - Take the outdoor escalators that cut through the hillside, a local shortcut that skips most of the climb
 - Ride the free elevator inside the Lotte Department Store Gwangbok branch, which lets out near the top
 
@@ -127,7 +127,7 @@ Below the tower, the park's paths are dotted with monuments worth slowing down f
 - The Busan Citizen's Bell, cast to mark the city's civic milestones and rung on New Year's Eve
 - Assorted stone markers and small gardens tucked between the main paths
 
-Give the park itself 45 minutes to an hour if you're just wandering the terraces and monuments. Add another 30-40 minutes if you're going up the tower.
+Give yourself a relaxed stretch of time if you're just wandering the terraces and monuments, with extra time on top if you're planning to go up the tower.
 
 ## When to go for the best light and fewest crowds
 

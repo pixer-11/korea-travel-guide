@@ -39,7 +39,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 Shuttles cross the net on several courts at once, under hall lights, inside an indoor arena in an old river city. That is the Odisha Masters Super 100 in its first days: a lot of badminton, at close range. In 2026 it runs from **December 8 to 13** in Cuttack, Odisha's former capital. It comes straight after the Guwahati Masters, so much of the field arrives from Assam already match-sharp.
 
 ## What a Super 100 actually is
@@ -68,7 +67,7 @@ Past editions of the Odisha Masters, and the Odisha Open before it, were held at
 
 Getting in from outside the city:
 
-- **By air:** Biju Patnaik International Airport is in Bhubaneswar, roughly 30 km south. Most visitors take a taxi or app cab up the highway.
+- **By air:** Biju Patnaik International Airport is in Bhubaneswar, a short drive from Cuttack. Most visitors take a taxi or app cab up the highway.
 - **By rail:** Cuttack Junction lies on the main Howrah–Chennai line, with direct trains from Kolkata, Bhubaneswar and beyond.
 - **Within the city:** auto-rickshaws and app cabs handle the short hop to the stadium area.
 
@@ -80,7 +79,7 @@ Badminton has its own crowd etiquette, and a home crowd in Odisha follows it clo
 
 A few things regulars do:
 
-- **Wait for the interval.** Each game pauses when the leading side reaches 11 points, and there is a short break between games. That is when people find seats or head out for food.
+- **Wait for the interval.** There is a short break between games, and that is when people find seats or head out for food.
 - **Skip the flash.** Camera flashes and bright phone screens distract players tracking a white shuttle under lights.
 - **Cheer between points, not during them.** The roar comes after the rally ends, never while the shuttle is in the air.
 - **Bring a layer.** Indoor halls are often air-conditioned, and you will sit still for hours.

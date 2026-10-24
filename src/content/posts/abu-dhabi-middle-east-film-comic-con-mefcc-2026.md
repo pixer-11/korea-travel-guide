@@ -57,7 +57,7 @@ The 2026 edition was set for September 11-13, 2026, at ADNEC Centre Abu Dhabi, t
 - **Venue**: ADNEC Centre, Abu Dhabi
 - **Edition**: 14th
 
-Hall assignments and daily opening hours came from the organizers, who set them for the weekend rather than leaving them to third parties.
+Hall assignments and daily opening hours were set by the organizers for the weekend.
 
 ## Getting there and getting around
 
@@ -75,11 +75,11 @@ Past editions have built the weekend around a familiar rhythm, and the 2026 plan
 - Artist alley and comic vendor rows for prints, commissions and back issues
 - Retailer booths selling collectibles, manga, and film memorabilia
 
-MEFCC announced the specific guest list, panel schedule and ticket pricing tiers for the weekend. Guest rosters shift edition to edition, so last year's names are no guide to this one.
+MEFCC typically announces its guest list, panel schedule and ticket pricing tiers ahead of the event. Guest rosters shift edition to edition, so last year's names are no guide to this one.
 
 ## How to visit like a local
 
-Regulars treat MEFCC like a marathon, not a sprint. Tickets were sold online in advance through the official site; weekend days move briskly, and door queues are always slower than online checkout.
+Regulars treat MEFCC like a marathon, not a sprint. Tickets are sold online in advance through the official site; weekend days move briskly, and door queues are always slower than online checkout.
 
 The quietest stretch for unobstructed photos of cosplay builds is right at opening, before the halls fill with foot traffic; by early afternoon the main aisles get genuinely congested. Most transactions inside — food stalls, merchandise booths — take card and mobile payment, though smaller independent artist-alley vendors often prefer cash.
 

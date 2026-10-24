@@ -48,10 +48,9 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 A white, peaked roof rises over the old rail land beside Anhalter Bahnhof. Inside, the light drops to one green rectangle. For a week each winter, the Tempodrom's tent-shaped arena becomes one of the loudest rooms in snooker between shots, and one of the quietest during them.
 
-The German Masters is a professional ranking tournament on the World Snooker Tour. The 2027 edition runs from **January 25 to 31, 2027**, and Berlin's Tempodrom hosts it again.
+The German Masters is a professional ranking tournament on the World Snooker Tour. The 2027 edition runs from January 25 to 31, 2027, and Berlin's Tempodrom hosts it again.
 
 ## A tent roof over a baize table
 

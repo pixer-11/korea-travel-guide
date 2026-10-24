@@ -40,12 +40,11 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A K-pop night inside an old brewery
 
 The venue is made of brick. Kulturbrauerei is the old Schultheiss brewery complex, and its red and yellow brick halls were designed in the late 19th century by Franz Schwechten. Today the courtyards hold a cinema, bars and concert spaces. The Kesselhaus (boiler house) and the Maschinenhaus (machine house) sit side by side and keep their industrial bones.
 
-On November 25, 2026, ARTMS plays here. The group is HeeJin, HaSeul, Kim Lip, JinSoul and Choerry, all formerly of LOONA, now with the label Modhaus. The set list and support acts aren't covered here, and neither are door times or prices.
+On November 25, 2026, ARTMS plays here. The group is HeeJin, HaSeul, Kim Lip, JinSoul and Choerry, all formerly of LOONA, now with the label Modhaus. The set list and support acts, along with door times and prices, have not been announced yet.
 
 ## Getting to Kulturbrauerei
 

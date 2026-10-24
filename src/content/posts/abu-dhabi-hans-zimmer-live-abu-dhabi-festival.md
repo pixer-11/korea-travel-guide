@@ -49,7 +49,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A film score at arena scale
 
 The date is November 13, 2026. Hans Zimmer brings his live show to Etihad Arena as part of the 23rd edition of the Abu Dhabi Festival, the annual arts programme run by the Abu Dhabi Music & Arts Foundation (ADMAF).
@@ -58,7 +57,7 @@ This is the composer behind *The Lion King*, *Gladiator*, *Inception*, *Interste
 
 ## Etihad Arena and Yas Bay
 
-Etihad Arena is the indoor venue on Yas Island. It opened in 2021 and holds around 18,000 people, which makes it the biggest indoor arena in Abu Dhabi. Its curved, shell-like front looks straight onto the Yas Bay waterfront, a promenade lined with restaurants and cafés.
+Etihad Arena is the indoor venue on Yas Island. It opened in 2021 and is the biggest indoor arena in Abu Dhabi. Its curved, shell-like front looks straight onto the Yas Bay waterfront, a promenade lined with restaurants and cafés.
 
 The rest of Yas Island sits within a short drive:
 

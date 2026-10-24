@@ -64,7 +64,7 @@ draft: false
 ---
 ## Rainforest to reef under one roof
 
-The route through the building follows water downhill. You start with the freshwater of Queensland's tropical north and end in the open ocean. Across 9 ecosystems it holds more than 16,000 specimens. For a first-time visitor that is a useful preview: the tanks show what the reef boats and rainforest tours will point at later.
+The route through the building follows water downhill. You start with the freshwater of Queensland's tropical north and end in the open ocean. The exhibits move through a series of distinct ecosystems, each built to echo a stage of that journey. For a first-time visitor that is a useful preview: the tanks show what the reef boats and rainforest tours will point at later.
 
 It's one of the most-reviewed attractions in Cairns and consistently well rated. The whole visit is indoors and air-conditioned, so it works as a fallback on wet-season afternoons when boats stay in port. Give it two to three hours. Families with small children often take longer at the touch-level tanks.
 

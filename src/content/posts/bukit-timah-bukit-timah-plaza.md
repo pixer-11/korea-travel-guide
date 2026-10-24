@@ -121,4 +121,4 @@ Bukit Timah Plaza is one part of the Beauty World cluster around the MRT station
 
 If you'd rather see some green, the Rail Corridor passes close to the area. That's the old railway line, now a long walking and cycling trail. Bukit Timah Nature Reserve, home to Singapore's highest natural hill, is a short bus or taxi ride up the road. It's worth doing first thing in the morning, then coming back to the plaza for groceries and air conditioning.
 
-Give the mall itself 45 minutes to an hour and a half. Add more time if you combine it with the food centre or a walk nearby.
+Give the mall itself as much time as your errands need. Add more time if you combine it with the food centre or a walk nearby.

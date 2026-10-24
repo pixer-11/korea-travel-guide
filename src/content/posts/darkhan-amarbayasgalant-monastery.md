@@ -43,12 +43,11 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A Walled City in an Empty Valley
 
 The walls come into view long before anything else. Amarbayasgalant sits alone on the floor of the Iven Valley, below Mount Bürengiin Nuruu. Its symmetrical compound faces south across open grassland, and there are no other buildings to compete with it.
 
-The Yongzheng Emperor of the Qing dynasty commissioned it in 1727 to honour Zanabazar, Mongolia's first Bogd Gegeen. Zanabazar was a revered sculptor and spiritual leader. Today 28 temples survive inside the walls, out of a much larger original layout. Many halls were destroyed during the 1937 purges, and the complex was restored in the decades that followed.
+The Yongzheng Emperor of the Qing dynasty commissioned it in 1727 to honour Zanabazar, Mongolia's first Bogd Gegeen. Zanabazar was a revered sculptor and spiritual leader. Today a number of temples survive inside the walls, out of a much larger original layout. Many halls were destroyed during the 1937 purges, and the complex was restored in the decades that followed.
 
 ## Reading the Courtyards
 

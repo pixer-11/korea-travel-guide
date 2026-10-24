@@ -63,7 +63,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-29'
 ---
-
 You spot the building before you spot the sign: a squat, colonial-era capitol with thick columns and a wide staircase, the kind of structure that used to run a province and now quietly houses its story instead. That's the National Museum of the Philippines – Bohol, tucked into the Old Capitol Complex on Carlos P. Garcia Avenue in Tagbilaran City's Poblacion district.
 
 ## Why go
@@ -103,7 +102,7 @@ Weekday mornings tend to be a safe, unhurried bet if your itinerary allows it.
 
 This is still very much an under-the-radar stop on most Bohol itineraries, which means you can move through it without jostling for space in front of a display case.
 
-- **Pay at the entrance**, Philippine national museums typically use a simple ticket or logbook system at the door; bring small bills just in case.
+- **Pay at the entrance**, follow whatever check-in process the staff have in place, and bring small bills just in case.
 - **Dress respectfully**. It's a heritage government building, not a beach, so shorts and slippers are fine but swimwear isn't appropriate.
 - **Go slow with the ground-floor architecture**, many visitors rush to the exhibits and miss the building's own restored details.
 - **Ask the staff**, attendants are often happy to point out which galleries are new or being rotated, since not everything is signposted from the entrance.

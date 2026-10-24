@@ -75,7 +75,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-30'
 ---
-
 ## Why go
 
 Most Korean temples sit deep in mountain forests. Haedong Yonggungsa breaks the mold entirely.
@@ -110,7 +109,7 @@ The temple opens early (4am to 8pm, every day of the week), so you have far more
 
 Weekends turn busy between 9am and 6pm, with tour buses arriving in waves. If you can, aim for a weekday, or arrive right at opening.
 
-The quietest window, weekday or weekend, runs 7am to 8pm outside that weekend midday surge, early morning light on the water is also simply the best time for photos, before the haze sets in.
+The quietest window, weekday or weekend, is early morning before 9am or evening after 6pm, outside that weekend midday surge, early morning light on the water is also simply the best time for photos, before the haze sets in.
 
 ## How to visit like a local
 
@@ -121,9 +120,8 @@ This is one of Busan's most-visited attractions, not a quiet find, so plan aroun
 - **Dress modestly**. This is an active place of worship, not just a viewpoint. Cover shoulders and avoid overly short hemlines.
 - **Stay quiet near the halls**, chanting and services happen throughout the day, and monks and worshippers are often present.
 - **Skip the shuttle bus line if you can walk**, many visitors queue for the small shuttle between the parking area and entrance, but it's a manageable 10–15 minute walk downhill if you'd rather skip the wait.
-- **Bring small cash** for the stalls near the entrance selling grilled fish cakes, roasted chestnuts, and tea, handy if you want a snack before or after the visit.
+- **Bring small cash** for the stalls near the entrance selling snacks and drinks, handy if you want a bite before or after the visit.
 
 The biggest mistake visitors make is treating this as a quick 20-minute photo stop. The site rewards a slower pace, following the path down to the water's edge, crossing the footbridge to the small dragon shrine, and pausing at the upper terrace where the golden Buddha overlooks the open sea.
 
 Combine it with a stop at nearby Gijang Market or the Oryukdo Skywalk if you're already out this side of the city, since both sit a short drive away and make for an easy half-day loop.
-

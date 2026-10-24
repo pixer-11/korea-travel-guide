@@ -100,7 +100,7 @@ Pair the ride with a walk through the Spice Souk on the Deira side beforehand, o
 
 This attraction is under the radar compared to Dubai's big-ticket sights, and the crossing runs 24 hours a day, every day.
 
-Weekend mornings between 8am and 10am are the calmest window, with just a handful of other passengers and soft light bouncing off the water. Try to avoid 6pm to 11pm on weekends, when the dock fills with photographers chasing the skyline at dusk and queues for a full boat stretch longer.
+Weekend mornings between 8am and 10am are the calmest window, with just a handful of other passengers and soft light bouncing off the water. Try to avoid 6pm to 8pm on weekends, when the dock fills with photographers chasing the skyline at dusk and queues for a full boat stretch longer.
 
 Early morning also means cooler air, a real factor in a city where midday heat can make even a short walk to the dock uncomfortable.
 

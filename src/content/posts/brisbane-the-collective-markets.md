@@ -127,7 +127,7 @@ Prices aren't standard across stalls. Each maker sets their own and usually labe
 
 The numbers here are blunt. Both Saturday and Sunday sessions tend to be busy throughout, so there isn't a reliable quiet window on either weekend day.
 
-If you want space to browse and time to talk to stallholders, Friday evening is the only session outside that weekend window. That makes it the best bet for a calmer look. If you can only come at the weekend, expect shoulder-to-shoulder footpaths and plan around them.
+If you want space to browse and time to talk to stallholders, Friday evening is the only option outside the weekend crowd. That makes it the best bet for a calmer look. If you can only come at the weekend, expect shoulder-to-shoulder footpaths and plan around them.
 
 On a weekend, a few things help:
 

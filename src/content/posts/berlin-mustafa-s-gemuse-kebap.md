@@ -119,7 +119,7 @@ The kebab is chicken in toasted flatbread with the hot vegetables piled in. The 
 
 - Chicken off the spit, sliced to order
 - Grilled vegetables, the house signature
-- Crumbled cheese and a squeeze of lemon
+- Any extra toppings offered at the hatch
 - A choice of sauces, usually including a spicy one
 
 It's a budget-friendly meal and a filling one. One kebab is plenty for lunch. If you're travelling with someone vegetarian, ask at the hatch whether there's a version without meat before you reach the front.
@@ -139,7 +139,7 @@ Have napkins ready and don't wear your best shirt. With vegetables, sauce and ch
 
 ## Hours that run late
 
-The schedule runs late into the night, and the kiosk is built for after-dark appetites. Monday to Wednesday it opens from 11am to 11:30pm. On Thursday and Sunday it stays open even later into the night.
+The schedule runs late into the night, and the kiosk is built for after-dark appetites. Monday to Wednesday it opens from 11am to 11:30pm. On Thursday and Sunday it stays open later into the evening.
 
 Friday is the odd one out. The kiosk opens at **2pm** rather than 11am, so you can't make it a Friday lunch stop, but it stays open until 2:30am. Saturday runs the longest, from 11am through to 2:30am. That makes it an easy late stop after a night out in Kreuzberg.
 

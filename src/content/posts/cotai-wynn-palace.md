@@ -55,7 +55,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Riding In Over the Water
 
 Most resorts make you walk in. At Wynn Palace you can ride in on the SkyCab, a free gondola that carries you over Performance Lake to the hotel's entrance. Through the glass you look down on the fountain jets and over to the rest of the Cotai Strip.
@@ -71,7 +70,7 @@ All of the main sights are free to walk into:
 - **Art collection:** pieces are placed through the public areas. The best known is Jeff Koons's *Tulips*.
 - **The shopping arcade:** a quiet run of luxury boutiques, good for cooling off in air-conditioning.
 
-The resort has 12 restaurants and cafés. Wing Lei Palace serves Cantonese food and Sichuan Moon serves Sichuan cooking; both are on the pricier side, so book ahead. There are also cafés for something lighter, and the spa takes bookings separately.
+The resort has a range of restaurants and cafés. Wing Lei Palace serves Cantonese food and Sichuan Moon serves Sichuan cooking; both are on the pricier side, so book ahead. There are also cafés for something lighter, and the spa takes bookings separately.
 
 ## Moving Around Cotai
 

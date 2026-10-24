@@ -51,7 +51,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A garden on the Strip
 
 Cotai was built for indoor life. Air-conditioned malls, casino floors and covered walkways link one resort to the next. Le Jardin sits outside all that on Estrada do Istmo, the road where City of Dreams, The Parisian and The Londoner have their addresses.
@@ -64,7 +63,7 @@ Most visitors arrive the Cotai way, through the resorts:
 
 - **Free resort shuttles** run from the Macau Outer Harbour Ferry Terminal, Taipa Ferry Terminal and the Border Gate to the big Cotai properties. Get off at whichever resort is closest on Estrada do Istmo and walk the rest.
 - **The Macau LRT Taipa Line** has stations along Cotai. Check the route map for the stop nearest your resort.
-- **Taxis** know Estrada do Istmo. Show the address in writing, since many drivers speak Cantonese more than English.
+- **Taxis** know Estrada do Istmo. Show the address in writing, since not all drivers speak English.
 
 On foot, the resort walkways make the Strip feel smaller than it is. At street level the distances are long and the crossings are wide, so give yourself extra time.
 

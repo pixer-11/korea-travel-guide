@@ -38,7 +38,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Eight days of tennis by the Mediterranean
 
 Picture a compact show court and a scoreboard with names you half recognise. Players from all over the world are scrapping for ranking points. That is the Challenger Tour, the level just below the ATP Tour proper, and Alicante hosts a stop from **Wednesday October 28 to Wednesday November 4, 2026**.
@@ -65,9 +64,9 @@ Challenger schedules are fluid by design. A match listed "not before" a certain 
 
 ## Getting to Alicante
 
-Alicante is easy to reach from most of Europe. **Alicante-Elche Miguel Hernández Airport (ALC)** sits about 12 km southwest of the city, and the C-6 bus runs between the terminal and the centre.
+Alicante is easy to reach from most of Europe. **Alicante-Elche Miguel Hernández Airport (ALC)** sits a short distance from the city, and the C-6 bus runs between the terminal and the centre.
 
-- **By train:** AVE high-speed services link Madrid to Alicante-Terminal station in roughly two and a half hours
+- **By train:** AVE high-speed services link Madrid to Alicante-Terminal station
 - **Around town:** the TRAM d'Alacant light-rail network and city buses cover the centre and the beach suburbs north towards San Juan
 - **Where people stay:** the streets behind the Explanada de España and around Mercado Central keep you walkable to the seafront and the old town
 
@@ -82,7 +81,7 @@ Tennis has its own etiquette, and smaller courts make it obvious when someone br
 - **Phones:** sound off, flash off
 - **Paying:** card and contactless payment are standard across Alicante, including in most bars and cafés
 
-The city eats late. Lunch usually starts around 2pm and dinner rarely before 9pm, which fits a day at the courts well. Evening sessions end in time for a proper Spanish dinner. Spain moves its clocks back on the last Sunday of October, so by tournament week it is dark around 6pm.
+The city eats late, which fits a day at the courts well. Evening sessions end in time for a proper Spanish dinner. Spain moves its clocks back on the last Sunday of October, so by tournament week it is dark around 6pm.
 
 Sunday November 1 is *Todos los Santos*, All Saints' Day, a national holiday. Some shops close that day, while families fill the promenades and restaurants.
 

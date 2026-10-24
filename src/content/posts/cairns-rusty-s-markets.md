@@ -55,10 +55,9 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Fruit you won't find down south
 
-Rusty's is where far north Queensland's growing season goes on sale. The market is an enclosed hall at 89 Grafton Street, a short walk inland from the Esplanade, and it has been running on weekends since 1975. Produce makes up most of it. Flowers, clothing and gift stalls fill in the rest.
+Rusty's is where far north Queensland's growing season goes on sale. The market is an enclosed hall at 89 Grafton Street, a short walk inland from the Esplanade, and it operates on weekends. Produce makes up most of it. Flowers, clothing and gift stalls fill in the rest.
 
 Come for the tropical fruit that rarely reaches southern supermarkets. Depending on the season, look for:
 

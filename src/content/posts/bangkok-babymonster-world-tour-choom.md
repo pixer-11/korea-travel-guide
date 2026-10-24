@@ -45,7 +45,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Two nights, two hometown members
 
 The Bangkok stop runs for two nights, November 7 and 8, 2026. It is the CHOOM tour's stop in Thailand, a market that matters more to BABYMONSTER than most. Two of its seven members, Pharita and Chiquita, are Thai. Their Thai-language moments are what local fans, known with the rest of the fandom as MONSTIEZ, tend to wait for.
@@ -54,7 +53,7 @@ YG Entertainment built the group to be a performance act. Expect choreography-he
 
 ## Inside Impact Arena
 
-Impact Arena is the oldest building in the IMPACT Exhibition and Convention Center complex. It opened in 1999 and has been Bangkok's default indoor venue for K-pop for years. It is a single enclosed bowl, with tiered seating on three sides and a floor area in front of the stage. Seating capacity is roughly 12,000, so even the upper tiers keep a clear sightline to the stage.
+Impact Arena is the oldest building in the IMPACT Exhibition and Convention Center complex. It has been Bangkok's default indoor venue for K-pop for years. It is a single enclosed bowl, with tiered seating on three sides and a floor area in front of the stage. Seating capacity is large, so even the upper tiers keep a clear sightline to the stage.
 
 The complex is huge. The Challenger halls, the exhibition halls and the arena share one campus around the Muang Thong Thani lake. Signage in Thai and English directs concertgoers to the arena entrances. The Novotel Bangkok Impact sits inside the grounds, and fans travelling from abroad often stay there to skip the late-night trip back.
 

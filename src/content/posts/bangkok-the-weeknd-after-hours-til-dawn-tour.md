@@ -44,7 +44,7 @@ Three consecutive nights is a rare commitment for any touring artist in Southeas
 
 ## What the three nights actually mean for you
 
-A single-city, multi-night stadium run usually signals either a huge local fanbase or a hub strategy that pulls in fans from across the region. Bangkok has become both for major international tours in recent years. Such runs typically draw heavily from neighbouring countries as well as from Thailand.
+A single-city, multi-night stadium run usually signals either a huge local fanbase or a hub strategy that pulls in fans from across the region. Bangkok has become a hub for major international tours in recent years. Such runs typically draw heavily from neighbouring countries as well as from Thailand.
 
 When a show repeats over three nights in one city, ticket demand tends to spread more evenly than it does for a single-date stop. That gives buyers who are flexible about the night more choice of seat and price.
 

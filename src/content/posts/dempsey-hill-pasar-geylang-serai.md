@@ -59,7 +59,7 @@ draft: false
 
 This market sits in Geylang Serai, the historic Malay heartland near Paya Lebar, a good twenty-minute drive or MRT ride from the city centre.
 
-That distance is actually the point. Where Dempsey trades in restored military barracks and manicured lawns, Geylang Serai trades in raw fish on ice and the smell of fried banana fritters at 7am.
+That distance is actually the point. Where Dempsey trades in restored military barracks and manicured lawns, Geylang Serai trades in raw fish on ice and the everyday smells of a working wet market.
 
 ## Why it's worth the detour
 

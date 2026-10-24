@@ -130,7 +130,7 @@ The park is laid out symmetrically around the central hill. Beyond the peaks, lo
 
 ## Timing the crowds
 
-Weekday and weekend mornings between 7am and 11am are the quiet window, before tour groups arrive from the palace next door. Weekends turn busy fast, with crowds building from noon and holding until 10pm.
+Weekday and weekend mornings between 7am and 11am are the quiet window, before tour groups arrive from the palace next door. Weekends turn busy fast, with crowds building from late morning and holding steady through the afternoon.
 
 Sunrise and sunset are popular for photos precisely because the light hits the golden roofs at an angle, so expect company at the summit even in the early morning slot. Arrive right at opening if you want the pavilion platform to yourself for even a few minutes.
 

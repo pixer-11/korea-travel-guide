@@ -76,7 +76,7 @@ The building started as a modest seaside villa for the Prince of Wales, the futu
 
 The tour runs through the state rooms in one direction. The look changes fast, and the rooms feel more theatrical than stately.
 
-- **The Banqueting Room**: a chandelier hangs from the claws of a silvered dragon under a ceiling painted with a giant plantain tree, and it weighs about a ton.
+- **The Banqueting Room**: a chandelier hangs from the claws of a silvered dragon under a ceiling painted with a giant plantain tree.
 - **The Music Room**: lotus-shaped glass lamps hang beneath a domed ceiling of gilded scales. The room was badly damaged by an arson attack in 1975 and took years of painstaking restoration.
 - **The Long Gallery**: the spine of the house. It is lined with pink and blue painted bamboo motifs, and the staircase rails look like bamboo but are made of cast iron.
 - **The upstairs bedrooms**: quieter and plainer. They include rooms associated with Queen Victoria, who never warmed to the place.

@@ -80,7 +80,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-10-08'
 ---
-
 ## Gold domes on the Cotai strip
 
 Look for the gold domes. Galaxy Macau's towers sit on the western side of the Cotai strip, on reclaimed land between Taipa and Coloane. Their glass is tinted gold and each tower is topped with a crown-like dome, so the complex is easy to pick out from the Venetian's campanile across the road.
@@ -99,7 +98,7 @@ A tip on position: the rails right at the water fill first. Standing a few steps
 
 ## Up on the Grand Resort Deck
 
-The deck is the reason families book here. The Grand Resort Deck is a rooftop-level garden and water park. Galaxy bills its Skytop Wave Pool as the world's largest, and it sits beside a stretch of white sand piled on top of the building. Around it you'll find:
+The deck is the reason families book here. The Grand Resort Deck is a rooftop-level garden and water park. The Skytop Wave Pool sits beside a stretch of white sand piled on top of the building. Around it you'll find:
 
 - **The Skytop Wave Pool**, with machine-made waves rolling in toward the sand
 - **The Skytop Adventure Rapids**, a long lazy river you float around on a tube

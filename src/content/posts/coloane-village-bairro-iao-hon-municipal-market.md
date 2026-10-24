@@ -69,7 +69,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Where it is
 
 The address, Rua do Mercado de Iao Hon, puts the market in the Iao Hon neighbourhood of the northern Macau peninsula. Pair it with other sights on the northern peninsula.
@@ -102,7 +101,7 @@ Don't handle the fish or meat yourself. The stallholder picks it out, weighs it 
 
 ## When to come and what's nearby
 
-The doors open at 7am and close at 8pm every day of the week. On weekdays the market is quiet from opening to closing, so any hour suits you.
+The doors open at 7am and close at 8pm every day of the week. On weekdays the market is generally quieter than at weekends, so most hours suit you.
 
 Weekends are different. Come between 7am and 9am, when stock is fresh and the aisles are clear. Avoid 10am to 12pm on Saturdays and Sundays, because that is the peak and the narrow aisles fill with shopping trolleys.
 

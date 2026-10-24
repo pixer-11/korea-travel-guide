@@ -76,7 +76,7 @@ Start with the art. The Aboriginal and Torres Strait Islander collections are th
 After the art, most visitors head for these:
 
 - **Cyclone Tracy.** This gallery covers the storm that flattened Darwin on Christmas Eve 1974. A darkened sound room plays a recording of the wind, and the noise stays with people long after they leave.
-- **Sweetheart.** This preserved saltwater crocodile is around five metres long. In the 1970s he became famous for attacking boats.
+- **Sweetheart.** This preserved saltwater crocodile is one of the museum's best-known exhibits, with its own story on display alongside it.
 - **Natural sciences.** Fossils and specimens of Top End wildlife, from marine life to birds.
 - **Maritime gallery.** Seafaring history, including vessels from the region's pearling and trading past.
 

@@ -136,11 +136,11 @@ Within the grounds, sealed paths and service roads link the forests. Some walker
 
 ## Beating the Weekend Rush on the Hill
 
-The arboretum is busy, especially at weekends. The crowd data is simple: weekdays stay quiet from 9am to 4pm, so any weekday slot works. On weekends it gets busy from 10am to 4pm. If you arrive after 10am on a Saturday, the café and the playground will already be full.
+The arboretum is busy, especially at weekends. The crowd data is simple: weekdays stay quiet throughout the day, so any weekday slot works. On weekends it gets busy from 10am to 4pm. If you arrive after 10am on a Saturday, the café and the playground will already be full.
 
 These habits make a visit go more smoothly:
 
-- **Arrive at 9am on weekends.** The Village Centre opens then, and you get an hour before the rush
+- **Arrive at 9am on weekends.** You get an hour before the rush
 - **Walk the hill first, eat later.** Climbing Dairy Farmers Hill in the cool of the morning avoids the heat, then come back for coffee
 - **Picnic on the lawns.** Families spread rugs on the grass below the Village Centre, which takes pressure off the café
 - **Pay by tap.** Cards and phone payments are standard across Canberra, and nobody expects a tip at the counter

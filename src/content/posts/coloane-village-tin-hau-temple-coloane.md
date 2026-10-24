@@ -43,7 +43,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A goddess for a fishing village
 
 Coloane was built by people who lived off the sea. Tin Hau, the Queen of Heaven, is the goddess Macau's fishing families prayed to before a boat went out. In Macau she is better known as A-Ma, the same deity the city takes its name from.
@@ -90,6 +89,6 @@ The temple is the start of a loop. Coloane Village is small enough to walk end t
 
 ## When to go
 
-Weekday mornings suit the village. Day-trippers from Cotai tend to come later in the day, and the bakery queue builds through the afternoon. Macau's summers are hot and humid, with typhoon season peaking from July to September. October to December brings drier air and makes the uphill lanes far more pleasant to walk.
+Weekday mornings suit the village. Day-trippers from Cotai tend to come later in the day, and the bakery queue builds through the afternoon. Macau's summers are hot and humid, with typhoon season peaking from July to September. October to December brings drier air and makes walking the uphill lanes far more pleasant.
 
 The temple's hours aren't published in a reliable form. Small neighbourhood temples usually keep daytime hours, but arriving in the morning or early afternoon is your safest bet. Ask at the Macau Government Tourism Office if you are planning around a festival.

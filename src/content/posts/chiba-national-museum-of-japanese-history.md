@@ -60,10 +60,9 @@ faq: []
 aiGenerated: true
 draft: false
 ---
-
 Most visitors come to Sakura for the castle ruins and end up staying for the museum instead. The National Museum of Japanese History sits on the former grounds of Sakura Castle, and the building itself, a long concrete structure from the early 1980s, was designed to feel like a modern annex to that older site rather than a freestanding attraction.
 
-Inside, the scale is bigger than most first-timers expect. Six permanent exhibition rooms move chronologically from the Jōmon and Yayoi periods through the samurai era into the Meiji Restoration and modern folk life, with rotating special exhibitions filling a seventh space. Full-size reconstructions, not just glass cases, carry a lot of the storytelling here: a Jōmon-period dwelling, a Edo-era townscape, folk tools laid out as they'd have been used.
+Inside, the scale is bigger than most first-timers expect. Six permanent exhibition rooms move chronologically from the Jōmon and Yayoi periods through the samurai era into the Meiji Restoration and modern folk life, with rotating special exhibitions filling a seventh space. Full-size reconstructions, not just glass cases, carry a lot of the storytelling here: a Jōmon-period dwelling, an Edo-period townscape, folk tools laid out as they'd have been used.
 
 ## Getting there from Tokyo or Narita
 
@@ -86,7 +85,7 @@ Each gallery is built around a period rather than a theme, which makes the visit
 - Gallery 5: the Meiji Restoration and the shift into the modern state
 - Gallery 6: folk customs, rural life and regional traditions
 
-Labels are in Japanese with English support in most rooms, though the depth of English translation varies by section. If you read exhibit text closely, this is not a 90-minute museum; plan closer to three hours if you want all six galleries.
+Labels are in Japanese with English support in most rooms, though the depth of English translation varies by section. If you read exhibit text closely, this is not a 90-minute museum; plan for a much longer visit if you want to see all six galleries.
 
 ## The reconstructed Edo street, and why it's worth slowing down for
 

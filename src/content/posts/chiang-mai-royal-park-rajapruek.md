@@ -81,7 +81,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-19'
 ---
-
 ## What's actually here
 
 Royal Park Rajapruek was built for Thailand's 2006 royal horticultural expo and never closed after. The grounds cover roughly 80 hectares of themed gardens: a Chinese garden, a Japanese garden, a rose garden, cactus and bonsai sections, all arranged along paved paths and connected by a small tram.
@@ -98,7 +97,7 @@ There's no train or songthaew route dedicated to the park, so most visitors arra
 
 ## When to go
 
-The park is open every day, 8am to 6pm, with no midweek variation. Weekends stay busy the entire day, so if you want quieter paths, come on a weekday morning close to opening.
+The park is open every day, 8am to 6pm, with no midweek variation. Weekends tend to be busier than weekdays, so if you want quieter paths, come on a weekday morning close to opening.
 
 Cooler months (November through February) suit walking the outdoor gardens best; Chiang Mai's hot season (March-May) makes the shadeless stretches between garden zones uncomfortable by midday. Rainy season (June-October) keeps the gardens green but afternoon downpours are common, so mornings are safer bets.
 
