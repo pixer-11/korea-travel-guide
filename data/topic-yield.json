@@ -2,16 +2,16 @@
  "_note": "Per-topic search→post yield, written by scripts/generate.mjs (scripts/lib/topic-yield.mjs). Seeded 2026-08-23 from the 08-17..23 publish/bulk logs; counts halve past 200 so recent runs weigh more.",
  "topics": {
   "local restaurant": {
-   "attempts": 157,
+   "attempts": 158,
    "hits": 17
   },
   "historic site": {
-   "attempts": 165,
-   "hits": 95
+   "attempts": 171,
+   "hits": 97
   },
   "park": {
-   "attempts": 176,
-   "hits": 107
+   "attempts": 180,
+   "hits": 108
   },
   "viewpoint": {
    "attempts": 83,
@@ -54,15 +54,15 @@
    "hits": 4
   },
   "hidden gem": {
-   "attempts": 151,
-   "hits": 85
+   "attempts": 169,
+   "hits": 92
   },
   "breakfast": {
    "attempts": 67,
    "hits": 5
   },
   "trendy cafe": {
-   "attempts": 146,
+   "attempts": 168,
    "hits": 12
   },
   "street food": {
@@ -1060,7 +1060,19 @@
   "Ta Phin Village": {
    "attempts": 1,
    "hits": 0
+  },
+  "Larco Museum": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Magic Water Circuit": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Cusco Cathedral": {
+   "attempts": 1,
+   "hits": 1
   }
  },
- "updated": "2026-10-24T10:29:22.173Z"
+ "updated": "2026-10-24T14:05:43.688Z"
 }

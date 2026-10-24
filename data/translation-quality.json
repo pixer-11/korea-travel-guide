@@ -37539,5 +37539,82 @@
   "registerBreak": false,
   "worst": "按品牌的说法，每只小笼包都要捏出十八道褶。",
   "at": "2026-10-24T10:00:32.832Z"
+ },
+ "es/chivay-colca-canyon": {
+  "hash": "b34cb1cfe7af",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-24T16:14:46.715Z"
+ },
+ "es/gudauri-ananuri-fortress-complex": {
+  "hash": "d91308659bec",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "nada cómodos con falda larga o mochila",
+  "at": "2026-10-24T16:14:53.620Z"
+ },
+ "ja/chivay-colca-canyon": {
+  "hash": "f0a8505b6cbc",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "海抜ゼロ地帯からいきなりやって来て翌朝にトレッキングをすると、体調を崩しがちです。",
+  "at": "2026-10-24T16:14:54.792Z"
+ },
+ "ja/cusco-cusco-cathedral": {
+  "hash": "6c6cc411ba5c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "編集部の概要で植民地時代の絵画を強調しているのは、なによりこのクスコ派の存在があるからです。",
+  "at": "2026-10-24T16:14:59.670Z"
+ },
+ "ja/gudauri-ananuri-fortress-complex": {
+  "hash": "cf41162ddca1",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "丈の長いスカートやバックパックでは登るのに苦労するでしょう。",
+  "at": "2026-10-24T16:15:07.909Z"
+ },
+ "ko/chivay-colca-canyon": {
+  "hash": "9150639147b1",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-24T16:15:08.693Z"
+ },
+ "ko/cusco-cusco-cathedral": {
+  "hash": "0f0488a39d00",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "편집부 요약에서 식민지 시대 회화를 특히 강조한 것도 주로 쿠스코 화파 때문입니다.",
+  "at": "2026-10-24T16:15:14.288Z"
+ },
+ "ko/gudauri-ananuri-fortress-complex": {
+  "hash": "03e00c450bc3",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "편집부 요약에서는 수많은 전투를 겪은 성이라고 소개하지만, 실제 역사는 그보다 훨씬 더 피비린내 나는 것이었습니다.",
+  "at": "2026-10-24T16:15:15.627Z"
+ },
+ "zh/chivay-colca-canyon": {
+  "hash": "15217dd91e32",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "奇瓦伊海拔约3,600米。站在镇上的广场向西望去，科尔卡河谷在一层层石砌梯田间铺展开来。",
+  "at": "2026-10-24T16:15:16.998Z"
+ },
+ "zh/cusco-cusco-cathedral": {
+  "hash": "36cfe15ba8e2",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "编辑简介之所以着重提到殖民时期画作，主要就是因为库斯科画派。",
+  "at": "2026-10-24T16:15:18.039Z"
+ },
+ "zh/gudauri-ananuri-fortress-complex": {
+  "hash": "688dfd8611fe",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "官方简介说它是一座\"历经多次战火的城堡\"，这种说法实在低估了它血腥的过往。",
+  "at": "2026-10-24T16:15:19.205Z"
  }
 }

@@ -13900,5 +13900,59 @@
       "getting": "大多数旅客会选择飞抵黄刀镇机场（YZF），这是该地区主要的航空枢纽，与埃德蒙顿、卡尔加里和温哥华等城市均有直飞航班；目前没有客运铁路通往黄刀镇。机场距市中心仅几分钟车程，后续交通只需乘坐短途出租车或酒店班车即可，无需长途转乘。",
       "days": "建议安排约2到4天时间，白天游览环湖步道、老城区和各类博物馆，同时至少预留两个夜晚专门用于观赏北极光。"
     }
+  },
+  "Paracas": {
+    "en": {
+      "blurb": "Paracas is a small desert port town on Peru's southern coast, known as the gateway to the Ballestas Islands, often nicknamed the \"poor man's Galápagos\" for their dense colonies of sea lions, penguins and seabirds. It also borders the Paracas National Reserve, a stark coastal desert of red sand beaches, wind-carved cliffs and salt flats that meets the Pacific.",
+      "getting": "Paracas has no airport of its own and no rail line; the nearest airport is Lima (LIM), roughly 260km to the north. Most travellers arrive by road from Lima via the Panamericana Sur highway, either on a direct public bus or a hop-on hop-off service, a journey of around 3.5 to 4 hours.",
+      "days": "Plan on ~1 to 2 days: a single day covers the Ballestas Islands boat tour and a highlights loop of the National Reserve, while a second day allows a more relaxed pace or a side trip to Huacachina."
+    },
+    "ko": {
+      "blurb": "파라카스는 페루 남부 해안에 자리한 작은 사막 항구 마을로, 바예스타스 제도로 가는 관문으로 잘 알려져 있다. 이 섬들은 바다사자, 펭귄, 각종 바닷새가 빽빽하게 서식해 흔히 \"가난한 자의 갈라파고스\"라는 별명으로 불린다. 또한 파라카스는 붉은 모래 해변과 바람에 깎인 절벽, 염전이 태평양과 맞닿아 있는 황량한 해안 사막, 파라카스 국립보호구역과도 맞닿아 있다.",
+      "getting": "파라카스에는 자체 공항이나 철도가 없으며, 가장 가까운 공항은 북쪽으로 약 260km 떨어진 리마(LIM)다. 대부분의 여행자는 리마에서 판아메리카나 수르 고속도로를 따라 육로로 이동하며, 직행 대중 버스나 홉온홉오프 서비스를 이용해 약 3.5~4시간이 걸린다.",
+      "days": "1~2일 정도를 계획하면 좋다. 하루면 바예스타스 제도 보트 투어와 국립보호구역의 주요 명소를 둘러보는 코스를 소화할 수 있고, 이틀째에는 좀 더 여유롭게 둘러보거나 와카치나로 당일치기 여행을 다녀올 수 있다."
+    },
+    "ja": {
+      "blurb": "パラカスは、ペルー南部海岸に位置する小さな砂漠の港町で、バジェスタス諸島への玄関口として知られています。同諸島はアシカ、ペンギン、海鳥が密集して生息することから「庶民のガラパゴス」とも呼ばれています。また、この町はパラカス国立保護区にも隣接しており、赤い砂浜や風食でできた断崖、塩田が太平洋と出会う荒涼とした海岸砂漠が広がっています。",
+      "getting": "パラカスには空港も鉄道もありません。最寄りの空港はリマ(LIM)で、北へ約260kmの距離にあります。ほとんどの旅行者は、パンアメリカン・スール・ハイウェイを使ってリマから陸路でアクセスし、直行の長距離バスまたは乗り降り自由なホップオン・ホップオフバスを利用します。所要時間は約3.5〜4時間です。",
+      "days": "滞在日数の目安は1〜2日です。1日あればバジェスタス諸島のボートツアーと国立保護区のハイライト巡りを両方楽しめますが、2日目を加えればもっとゆったりとしたペースで過ごしたり、ワカチナへ足を延ばしたりすることもできます。"
+    },
+    "es": {
+      "blurb": "Paracas es un pequeño puerto desértico en la costa sur de Perú, conocido como la puerta de entrada a las Islas Ballestas, apodadas a menudo las \"Galápagos del pobre\" por sus densas colonias de lobos marinos, pingüinos y aves marinas. El pueblo también limita con la Reserva Nacional de Paracas, un árido desierto costero de playas de arena roja, acantilados tallados por el viento y salares que se funden con el Pacífico.",
+      "getting": "Paracas no cuenta con aeropuerto propio ni con línea de tren; el aeropuerto más cercano es el de Lima (LIM), a unos 260 km al norte. La mayoría de los viajeros llega por carretera desde Lima a través de la Panamericana Sur, ya sea en un bus público directo o en un servicio hop-on hop-off, un trayecto de entre 3,5 y 4 horas.",
+      "days": "Calcula entre 1 y 2 días: con uno solo alcanza para el tour en bote a las Islas Ballestas y un recorrido por los puntos destacados de la Reserva Nacional, mientras que un segundo día permite ir con más calma o hacer una excursión a Huacachina."
+    },
+    "zh": {
+      "blurb": "帕拉卡斯（Paracas）是秘鲁南部海岸的一座沙漠小港口镇，被誉为巴列斯塔斯群岛（Ballestas Islands）的门户。这些岛屿因栖息着大量海狮、企鹅和海鸟而被戏称为\"穷人的加拉帕戈斯\"。小镇还毗邻帕拉卡斯国家保护区（Paracas National Reserve），那里红沙滩、风蚀峭壁与盐沼交织，构成一片苍茫的滨海荒漠，直抵太平洋岸边。",
+      "getting": "帕拉卡斯本身没有机场，也没有铁路连接，最近的机场是约260公里外的利马（LIM）。大多数游客选择从利马走泛美公路南段（Panamericana Sur）乘车前往，可以搭乘直达的公共巴士，也可以选择随上随下的旅游巴士，车程约3.5到4小时。",
+      "days": "建议安排1到2天：一天足以游览巴列斯塔斯群岛的船上观光，并绕行国家保护区的精华景点；第二天则可以放慢脚步悠闲游览，或者安排一趟去瓦卡奇纳（Huacachina）的短途旅行。"
+    }
+  },
+  "Puno": {
+    "en": {
+      "blurb": "Puno sits on the shore of Lake Titicaca at over 3,800 metres above sea level, making it the launchpad for visits to the lake's floating Uros islands and traditional communities like Taquile. Known as Peru's \"City of the Lake,\" it blends a high-altitude Andean urban centre with access to one of South America's most striking natural and cultural landscapes.",
+      "getting": "Puno has no commercial airport, so travellers fly into Inca Manco Cápac International Airport (JUL) in nearby Juliaca and continue overland by taxi or transfer (~45 minutes to an hour) to reach the city. Many visitors instead arrive overland from Cusco, either by long-distance bus or on the scenic PeruRail route linking Cusco, Juliaca and Puno.",
+      "days": "Plan on ~2 days to cover Puno's highlights, enough time for a half or full day on the lake visiting the Uros islands and Taquile, plus time in the city itself."
+    },
+    "ko": {
+      "blurb": "푸노는 해발 3,800미터가 넘는 티티카카 호수 기슭에 자리 잡고 있어, 호수 위에 떠 있는 우로스 섬과 타킬레 같은 전통 공동체를 방문하기 위한 관문 역할을 합니다. '호수의 도시'로 불리는 페루의 이곳은 고지대 안데스 도시의 매력과 남미에서 손꼽히는 자연·문화 경관으로의 접근성을 동시에 지니고 있습니다.",
+      "getting": "푸노에는 상업 공항이 없어, 여행자들은 인근 훌리아카에 있는 잉카 만코 카팍 국제공항(JUL)으로 입국한 뒤 택시나 트랜스퍼를 이용해 육로로 약 45분에서 1시간 정도 이동해 시내로 들어갑니다. 많은 여행자들은 쿠스코에서 육로로 이동하는 방법을 택하기도 하는데, 장거리 버스를 이용하거나 쿠스코·훌리아카·푸노를 잇는 경치 좋은 페루레일 노선을 이용할 수 있습니다.",
+      "days": "푸노의 주요 명소를 둘러보려면 약 2일 정도를 계획하세요. 우로스 섬과 타킬레를 방문하는 반나절 또는 하루짜리 호수 투어에 더해 시내를 둘러볼 시간까지 충분히 확보할 수 있습니다."
+    },
+    "ja": {
+      "blurb": "プーノは標高3,800メートルを超えるチチカカ湖畔に位置し、湖に浮かぶウロス島やタキーレ島などの伝統的なコミュニティを訪れる際の拠点となる街です。ペルーの「湖の都」として知られ、高地にあるアンデスの都市ならではの魅力と、南米屈指ともいえる自然・文化の景観へのアクセスを兼ね備えています。",
+      "getting": "プーノには商業空港がないため、まずは近郊フリアカにあるインカ・マンコ・カパック国際空港（JUL）へ飛び、そこからタクシーや送迎で陸路約45分～1時間かけて市内へ向かうのが一般的です。また、クスコから陸路で訪れる旅行者も多く、長距離バスを利用するか、クスコ、フリアカ、プーノを結ぶ景観美しいペルーレイルの列車を利用する方法もあります。",
+      "days": "プーノの見どころを巡るには2日程度を見ておくとよいでしょう。ウロス島やタキーレ島を訪れる湖観光に半日から1日、さらに市内観光にも時間を充てられます。"
+    },
+    "es": {
+      "blurb": "Puno se asienta a orillas del lago Titicaca, a más de 3.800 metros sobre el nivel del mar, lo que la convierte en el punto de partida ideal para visitar las islas flotantes de los Uros y comunidades tradicionales como Taquile. Conocida como la \"Ciudad del Lago\" de Perú, combina un centro urbano andino de gran altitud con el acceso a uno de los paisajes naturales y culturales más impresionantes de Sudamérica.",
+      "getting": "Puno no cuenta con aeropuerto comercial propio, por lo que los viajeros llegan al Aeropuerto Internacional Inca Manco Cápac (JUL), en la cercana Juliaca, y continúan por tierra en taxi o transfer (entre 45 minutos y una hora) hasta la ciudad. Muchos visitantes optan, en cambio, por llegar por vía terrestre desde Cusco, ya sea en autobús de larga distancia o en la pintoresca ruta de PeruRail que conecta Cusco, Juliaca y Puno.",
+      "days": "Se recomienda dedicar unos 2 días para conocer lo mejor de Puno, tiempo suficiente para dedicar medio día o un día completo al lago, visitando las islas de los Uros y Taquile, además de recorrer la ciudad."
+    },
+    "zh": {
+      "blurb": "普诺坐落在的的喀喀湖畔，海拔超过3800米，是前往湖上乌罗斯浮岛以及塔基莱岛等传统社区的门户城市。普诺素有秘鲁\"湖滨之城\"的美誉，这里既有高原安第斯城市的独特风貌，又能便捷抵达南美洲最令人惊叹的自然与人文景观之一。",
+      "getting": "普诺没有商业机场，游客需飞往附近胡利亚卡的因卡曼科卡帕克国际机场（JUL），再搭乘出租车或接驳车经陆路前往市区（车程约45分钟至1小时）。许多游客则选择从库斯科经陆路抵达，可乘坐长途大巴，也可搭乘风景优美的秘鲁铁路（PeruRail），沿途串联库斯科、胡利亚卡与普诺三地。",
+      "days": "建议安排约2天时间游览普诺的主要景点，这样既能留出半天或一整天游览的的喀喀湖上的乌罗斯浮岛和塔基莱岛，也有足够时间探索市区本身。"
+    }
   }
 }

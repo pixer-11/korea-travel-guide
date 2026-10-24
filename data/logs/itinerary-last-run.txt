@@ -23,10 +23,6 @@ Bali, Indonesia — 13 qualifying post(s), variants: 3
 Barcelona, Spain — 15 qualifying post(s), variants: 3
   = Barcelona 3d — unchanged, skipping
 
-Beijing, China — 12 qualifying post(s), variants: 3
-  ⚠ Beijing 3d — guard found 1 hours/price + 1 rain-leak issue(s) on first pass; retrying once
-NEW_ITINERARY: Beijing 3d
-
 Brighton, United Kingdom — 12 qualifying post(s), variants: 3
   = Brighton 3d — unchanged, skipping
 
@@ -68,7 +64,7 @@ Singapore, Singapore — 78 qualifying post(s), variants: 3, 5
   = Singapore 3d — unchanged, skipping
   = Singapore 5d — unchanged, skipping
 
-Done.
+Done. Nothing changed.
 
 🗺️  Un-park: 0 republished · 0 still held
 UNPARK_SUMMARY freed=0 held=0
