@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: niagara-falls-flying-saucer-restaurant
-srcHash: 'c5e6652868ba'
+srcHash: '1f1e52bd0a62'
 title: 飞碟餐厅：尼亚加拉瀑布城吃什么
-description: 飞碟餐厅（Flying Saucer Restaurant）是一家外形酷似UFO的美式餐馆，位于安大略省尼亚加拉瀑布城伦迪巷6768号（6768 Lundy's Lane），从瀑布和克利夫顿山向西开车不远就到。评分4.4★（9,752条评价），本文汇总食客评价、营业时间和实用建议。
+description: 飞碟餐厅（Flying Saucer Restaurant）是一家外形酷似UFO的美式餐馆，位于安大略省尼亚加拉瀑布城伦迪巷6768号（6768 Lundy's Lane），从瀑布和克利夫顿山向西开车不远就到。评分4.4★（9,783条评价），本文汇总食客评价、营业时间和实用建议。
 quickAnswer: 飞碟餐厅（Flying Saucer Restaurant）是一家外形酷似UFO的美式餐馆，地址在安大略省尼亚加拉瀑布城伦迪巷6768号（6768 Lundy's Lane），从瀑布和克利夫顿山（Clifton Hill）向西开车很快就到。本周每天营业时间为早上7点至晚上10点。想免排队，工作日可选早上7点到9点或晚上8点以后前往；周末上午9点到晚上9点是最忙的时段，最好避开。
 faq:
   - q: 什么时候去飞碟餐厅人最少？

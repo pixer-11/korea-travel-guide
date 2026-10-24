@@ -1,54 +1,82 @@
 ---
-title: "Vardzia: Akhaltsikhe Travel Guide (4.8★)"
-description: "Vardzia is a 12th-century cave monastery cut into the cliffs of Erusheti Mountain above the Mtkvari River, roughly 1–1.5 hours' drive south of Akhaltsikhe via Aspindza. 4.8★ (8,380 reviews) — what visitors say, hours, and tips."
-country: "Georgia"
-region: "Akhaltsikhe"
-category: "attraction"
-pubDate: "2026-10-24T07:56:59.110Z"
+title: 'Vardzia: Akhaltsikhe Travel Guide (4.8★)'
+description: >-
+  Vardzia is a 12th-century cave monastery cut into the cliffs of Erusheti
+  Mountain above the Mtkvari River, roughly 1–1.5 hours' drive south of
+  Akhaltsikhe via Aspindza. 4.8★ (8,382 reviews) — what visitors say, hours, and
+  tips.
+country: Georgia
+region: Akhaltsikhe
+category: attraction
+pubDate: '2026-10-24T07:56:59.110Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2025-05-25_Vardzia_9.jpg/1920px-2025-05-25_Vardzia_9.jpg"
-  credit: "Photo: Alexkom000 / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:2025-05-25_Vardzia_9.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2025-05-25_Vardzia_9.jpg/1920px-2025-05-25_Vardzia_9.jpg
+  credit: 'Photo: Alexkom000 / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:2025-05-25_Vardzia_9.jpg'
   focus:
     x: 55
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJ20lpRFTxQkARHB-2vHJL8KM"
-  name: "Vardzia"
-  address: "97JM+CMH, Gogasheni, Georgia"
+  id: ChIJ20lpRFTxQkARHB-2vHJL8KM
+  name: Vardzia
+  address: '97JM+CMH, Gogasheni, Georgia'
   rating: 4.8
-  userRatingsTotal: 8380
-  googleMapsUrl: "https://maps.google.com/?cid=11813024778757218076&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 8382
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=11813024778757218076&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 41.3810511
   lng: 43.284247099999995
   openingHours:
-    - "Monday: 10:00 AM – 7:00 PM"
-    - "Tuesday: 10:00 AM – 7:00 PM"
-    - "Wednesday: 10:00 AM – 7:00 PM"
-    - "Thursday: 10:00 AM – 7:00 PM"
-    - "Friday: 10:00 AM – 7:00 PM"
-    - "Saturday: 10:00 AM – 7:00 PM"
-    - "Sunday: 10:00 AM – 7:00 PM"
+    - 'Monday: 10:00 AM – 7:00 PM'
+    - 'Tuesday: 10:00 AM – 7:00 PM'
+    - 'Wednesday: 10:00 AM – 7:00 PM'
+    - 'Thursday: 10:00 AM – 7:00 PM'
+    - 'Friday: 10:00 AM – 7:00 PM'
+    - 'Saturday: 10:00 AM – 7:00 PM'
+    - 'Sunday: 10:00 AM – 7:00 PM'
 tags:
-  - "akhaltsikhe"
-  - "historic site"
-quickAnswer: "Vardzia is a 12th-century cave monastery cut into the cliffs of Erusheti Mountain above the Mtkvari River, roughly 1–1.5 hours' drive south of Akhaltsikhe via Aspindza. At the moment it opens 10am–7pm daily, but hours shift through the year, so check the official listing before you set off. Allow 2–3 hours on the cliff, and arrive near opening to get ahead of the tour groups."
+  - akhaltsikhe
+  - historic site
+quickAnswer: >-
+  Vardzia is a 12th-century cave monastery cut into the cliffs of Erusheti
+  Mountain above the Mtkvari River, roughly 1–1.5 hours' drive south of
+  Akhaltsikhe via Aspindza. At the moment it opens 10am–7pm daily, but hours
+  shift through the year, so check the official listing before you set off.
+  Allow 2–3 hours on the cliff, and arrive near opening to get ahead of the tour
+  groups.
 faq:
-  - q: "How do I get to Vardzia from Akhaltsikhe?"
-    a: "Drive or take a taxi south through Aspindza along the Mtkvari gorge, roughly 1–1.5 hours. Marshrutkas leave from Akhaltsikhe bus station, but departures are few, so confirm the return time before you set off."
-  - q: "When is the best time of day to visit Vardzia?"
-    a: "Arrive close to the 10am opening. Day tours from Tbilisi and Borjomi usually arrive later in the morning, and late afternoon tends to thin out as they leave. Hours currently run 10am–7pm daily but change with the season, so check before you go."
-  - q: "How long should I spend at Vardzia?"
-    a: "Allow 2–3 hours for the cliff route, the Church of the Dormition and the tunnel descent. Add about 45 minutes if you stop at Khertvisi Fortress on the way."
-  - q: "Is there a dress code at Vardzia?"
-    a: "Yes. It is still a working monastery. Cover your shoulders and knees, and women should bring a scarf to cover their heads inside the church."
-  - q: "Is Vardzia physically demanding?"
-    a: "Moderately. Expect steep, uneven stairs, little shade on the cliff face and a narrow, dark tunnel near the end. Wear shoes with grip, carry water and keep a torch handy."
+  - q: How do I get to Vardzia from Akhaltsikhe?
+    a: >-
+      Drive or take a taxi south through Aspindza along the Mtkvari gorge,
+      roughly 1–1.5 hours. Marshrutkas leave from Akhaltsikhe bus station, but
+      departures are few, so confirm the return time before you set off.
+  - q: When is the best time of day to visit Vardzia?
+    a: >-
+      Arrive close to the 10am opening. Day tours from Tbilisi and Borjomi
+      usually arrive later in the morning, and late afternoon tends to thin out
+      as they leave. Hours currently run 10am–7pm daily but change with the
+      season, so check before you go.
+  - q: How long should I spend at Vardzia?
+    a: >-
+      Allow 2–3 hours for the cliff route, the Church of the Dormition and the
+      tunnel descent. Add about 45 minutes if you stop at Khertvisi Fortress on
+      the way.
+  - q: Is there a dress code at Vardzia?
+    a: >-
+      Yes. It is still a working monastery. Cover your shoulders and knees, and
+      women should bring a scarf to cover their heads inside the church.
+  - q: Is Vardzia physically demanding?
+    a: >-
+      Moderately. Expect steep, uneven stairs, little shade on the cliff face
+      and a narrow, dark tunnel near the end. Wear shoes with grip, carry water
+      and keep a torch handy.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-24'
 ---
 
 ## A city stacked into the rock

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: gudauri-ananuri-fortress-complex
-srcHash: '8b32edafe08a'
+srcHash: 'bad1ecb4cff9'
 title: 'Complejo fortificado de Ananuri: guía de viaje desde Gudauri (4.6★)'
-description: El complejo fortificado de Ananuri se alza sobre el embalse de Zhinvali, junto a la Carretera Militar Georgiana. Queda a unos 45 km al sur de Gudauri y a unos 72 km al norte de Tiflis, así que resulta una parada cómoda entre ambas. Con una valoración de 4.6★ (16,153 reseñas), aquí encontrará las opiniones de los visitantes, el horario y varios consejos.
+description: El complejo fortificado de Ananuri se alza sobre el embalse de Zhinvali, junto a la Carretera Militar Georgiana. Queda a unos 45 km al sur de Gudauri y a unos 72 km al norte de Tiflis, así que resulta una parada cómoda entre ambas. Con una valoración de 4.6★ (16,154 reseñas), aquí encontrará las opiniones de los visitantes, el horario y varios consejos.
 quickAnswer: El complejo fortificado de Ananuri se alza sobre el embalse de Zhinvali, junto a la Carretera Militar Georgiana. Está a unos 45 km al sur de Gudauri y a unos 72 km al norte de Tiflis, de modo que es fácil detenerse allí en el trayecto entre una y otra. Calcule entre 45 y 90 minutos para la visita. Actualmente abre de 9am–8pm. Hay menos gente entre semana de 3pm a 8pm; conviene evitar los fines de semana entre las 10am y las 3pm, cuando llegan los grupos organizados.
 faq:
   - q: ¿A qué distancia de Gudauri se encuentra el complejo fortificado de Ananuri?

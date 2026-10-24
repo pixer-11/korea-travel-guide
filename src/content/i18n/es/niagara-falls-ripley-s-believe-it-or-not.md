@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: niagara-falls-ripley-s-believe-it-or-not
-srcHash: '19265bfcc5e6'
+srcHash: 'e04dab4293c5'
 title: 'Ripley''s Believe It or Not! en las cataratas del Niágara: guía de viaje'
-description: En el 4960 de Clifton Hill, en plena zona turística de Niagara Falls y a un breve paseo cuesta arriba desde el río y las cataratas, se encuentra Ripley's Believe It or Not!. Con una valoración de 4.4★ (3,313 reseñas), le contamos qué opinan los visitantes, el horario y algunos consejos.
+description: En el 4960 de Clifton Hill, en plena zona turística de Niagara Falls y a un breve paseo cuesta arriba desde el río y las cataratas, se encuentra Ripley's Believe It or Not!. Con una valoración de 4.4★ (3,312 reseñas), le contamos qué opinan los visitantes, el horario y algunos consejos.
 quickAnswer: En el 4960 de Clifton Hill, en plena zona turística de Niagara Falls, se encuentra Ripley's Believe It or Not!, a un breve paseo cuesta arriba desde el río y las cataratas. Este museo de rarezas se recorre sin guía y reúne piezas como cabezas humanas reducidas y esqueletos de animales poco comunes. La mayoría de los visitantes tarda alrededor de una hora en verlo. Actualmente abre todos los días de 10am a 11pm, de modo que resulta una buena opción para la noche, después de visitar las cataratas.
 faq:
   - q: ¿Dónde se encuentra Ripley's Believe It or Not! en Niagara Falls?

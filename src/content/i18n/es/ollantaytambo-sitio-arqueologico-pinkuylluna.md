@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: ollantaytambo-sitio-arqueologico-pinkuylluna
-srcHash: 'a43443f04bb2'
+srcHash: '6eaea135e405'
 title: 'Sitio arqueológico Pinkuylluna: guía de viaje de Ollantaytambo'
-description: 'En la montaña que domina el pueblo de Ollantaytambo se alzan las ruinas de los almacenes incas de Pinkuylluna, a las que se sube por un empinado sendero de piedra que arranca de la calle Lares, junto a la plaza principal. 4.7★ (861 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En la montaña que domina el pueblo de Ollantaytambo se alzan las ruinas de los almacenes incas de Pinkuylluna, a las que se sube por un empinado sendero de piedra que arranca de la calle Lares, junto a la plaza principal. 4.7★ (862 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En la montaña que se levanta justo encima del pueblo de Ollantaytambo se encuentran las ruinas de Pinkuylluna, unos antiguos almacenes incas. Se llega a ellas por un empinado sendero de piedra que sale de la calle Lares, muy cerca de la plaza principal. El horario actual es de 7:30am–4:30pm, así que conviene empezar la subida a media tarde como muy tarde. Entre subir, contemplar la fortaleza de enfrente y volver a bajar, calcule de 1–2 horas en total.
 faq:
   - q: ¿Dónde empieza el sendero de Pinkuylluna?

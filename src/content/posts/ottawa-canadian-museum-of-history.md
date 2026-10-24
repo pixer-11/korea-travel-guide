@@ -1,59 +1,89 @@
 ---
-title: "Canadian Museum of History: Ottawa Travel Guide (4.7★)"
-description: "The Canadian Museum of History sits in Gatineau, Quebec, directly across the Ottawa River from Parliament Hill, and most visitors reach it by walking over the Alexandra Bridge from downtown Ottawa. 4.7★ (14,924 reviews) — what visitors say, hours, and tips."
-country: "Canada"
-region: "Ottawa"
-category: "attraction"
-pubDate: "2026-10-24T07:56:58.071Z"
+title: 'Canadian Museum of History: Ottawa Travel Guide (4.7★)'
+description: >-
+  The Canadian Museum of History sits in Gatineau, Quebec, directly across the
+  Ottawa River from Parliament Hill, and most visitors reach it by walking over
+  the Alexandra Bridge from downtown Ottawa. 4.7★ (14,925 reviews) — what
+  visitors say, hours, and tips.
+country: Canada
+region: Ottawa
+category: attraction
+pubDate: '2026-10-24T07:56:58.071Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Canadian_Museum_of_History_in_2026.jpg/1920px-Canadian_Museum_of_History_in_2026.jpg"
-  credit: "Photo: Hayden Soloviev / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Canadian_Museum_of_History_in_2026.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Canadian_Museum_of_History_in_2026.jpg/1920px-Canadian_Museum_of_History_in_2026.jpg
+  credit: 'Photo: Hayden Soloviev / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Canadian_Museum_of_History_in_2026.jpg
   focus:
     x: 30
-    y: 55
+    'y': 55
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Canadian_Museum_of_Civilization_panorama.jpg/3840px-Canadian_Museum_of_Civilization_panorama.jpg"
-    credit: "Photo: Óðinn / Wikimedia Commons (CC BY-SA 2.5 ca)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Canadian_Museum_of_Civilization_panorama.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Canadian_Museum_of_Civilization_panorama.jpg/3840px-Canadian_Museum_of_Civilization_panorama.jpg
+    credit: 'Photo: Óðinn / Wikimedia Commons (CC BY-SA 2.5 ca)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Canadian_Museum_of_Civilization_panorama.jpg
 place:
-  id: "ChIJL-0QIPEEzkwRxPx5idTJaKo"
-  name: "Canadian Museum of History"
-  address: "100 Rue Laurier, Gatineau, QC K1A 0M8, Canada"
+  id: ChIJL-0QIPEEzkwRxPx5idTJaKo
+  name: Canadian Museum of History
+  address: '100 Rue Laurier, Gatineau, QC K1A 0M8, Canada'
   rating: 4.7
-  userRatingsTotal: 14924
-  googleMapsUrl: "https://maps.google.com/?cid=12279286298702380228&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 14925
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=12279286298702380228&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 45.4298745
   lng: -75.7082739
-  phone: "+1 819-776-7000"
+  phone: +1 819-776-7000
   openingHours:
-    - "Monday: 9:00 AM – 5:00 PM"
-    - "Tuesday: 9:00 AM – 5:00 PM"
-    - "Wednesday: 9:00 AM – 5:00 PM"
-    - "Thursday: 9:00 AM – 7:00 PM"
-    - "Friday: 9:00 AM – 5:00 PM"
-    - "Saturday: 9:00 AM – 5:00 PM"
-    - "Sunday: 9:00 AM – 5:00 PM"
+    - 'Monday: 9:00 AM – 5:00 PM'
+    - 'Tuesday: 9:00 AM – 5:00 PM'
+    - 'Wednesday: 9:00 AM – 5:00 PM'
+    - 'Thursday: 9:00 AM – 7:00 PM'
+    - 'Friday: 9:00 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 5:00 PM'
+    - 'Sunday: 9:00 AM – 5:00 PM'
 tags:
-  - "ottawa"
-  - "museum"
-quickAnswer: "The Canadian Museum of History sits in Gatineau, Quebec, directly across the Ottawa River from Parliament Hill, and most visitors reach it by walking over the Alexandra Bridge from downtown Ottawa. Plan three to four hours for the Grand Hall's totem poles, the Canadian History Hall and the First Peoples Hall. It currently opens at 9am daily, with a later 7pm close on Thursdays."
+  - ottawa
+  - museum
+quickAnswer: >-
+  The Canadian Museum of History sits in Gatineau, Quebec, directly across the
+  Ottawa River from Parliament Hill, and most visitors reach it by walking over
+  the Alexandra Bridge from downtown Ottawa. Plan three to four hours for the
+  Grand Hall's totem poles, the Canadian History Hall and the First Peoples
+  Hall. It currently opens at 9am daily, with a later 7pm close on Thursdays.
 faq:
-  - q: "How do I get to the Canadian Museum of History from downtown Ottawa?"
-    a: "Walk across the Alexandra Bridge from near the National Gallery of Canada. It takes roughly 20 minutes from Parliament Hill. STO buses also cross to Gatineau, and there is underground parking at the museum."
-  - q: "How long should I spend at the museum?"
-    a: "Three to four hours covers the Grand Hall, the Canadian History Hall and the First Peoples Hall. Add more time if you are visiting the Children's Museum with kids."
-  - q: "What are the current opening hours?"
-    a: "At the moment it opens at 9am daily and closes at 5pm, except Thursday, when it closes at 7pm. Hours change with the seasons and on holidays, so check the official site before visiting."
-  - q: "What is the museum best known for?"
-    a: "The Grand Hall, which holds the world's largest indoor display of totem poles beneath a huge window looking across the river to Parliament Hill. Douglas Cardinal's curving limestone building is also a big draw."
-  - q: "Is the museum in Ottawa or Gatineau?"
-    a: "It is in Gatineau, Quebec, directly across the Ottawa River from Parliament Hill. It runs on the same time zone as Ottawa and is a short walk from downtown."
+  - q: How do I get to the Canadian Museum of History from downtown Ottawa?
+    a: >-
+      Walk across the Alexandra Bridge from near the National Gallery of Canada.
+      It takes roughly 20 minutes from Parliament Hill. STO buses also cross to
+      Gatineau, and there is underground parking at the museum.
+  - q: How long should I spend at the museum?
+    a: >-
+      Three to four hours covers the Grand Hall, the Canadian History Hall and
+      the First Peoples Hall. Add more time if you are visiting the Children's
+      Museum with kids.
+  - q: What are the current opening hours?
+    a: >-
+      At the moment it opens at 9am daily and closes at 5pm, except Thursday,
+      when it closes at 7pm. Hours change with the seasons and on holidays, so
+      check the official site before visiting.
+  - q: What is the museum best known for?
+    a: >-
+      The Grand Hall, which holds the world's largest indoor display of totem
+      poles beneath a huge window looking across the river to Parliament Hill.
+      Douglas Cardinal's curving limestone building is also a big draw.
+  - q: Is the museum in Ottawa or Gatineau?
+    a: >-
+      It is in Gatineau, Quebec, directly across the Ottawa River from
+      Parliament Hill. It runs on the same time zone as Ottawa and is a short
+      walk from downtown.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-24'
 ---
 
 ## Curves of stone on the Quebec shore

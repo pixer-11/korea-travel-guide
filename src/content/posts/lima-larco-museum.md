@@ -1,59 +1,89 @@
 ---
-title: "Larco Museum: Lima Travel Guide (4.8★)"
-description: "The Larco Museum (Museo Larco) is in Pueblo Libre, Lima. It is an 18th-century mansion holding one of Peru's best-known private collections of pre-Columbian art, including its famous gallery of erotic ceramics. 4.8★ (18,051 reviews) — what visitors say, hours, and tips."
-country: "Peru"
-region: "Lima"
-category: "attraction"
-pubDate: "2026-10-24T10:28:42.178Z"
+title: 'Larco Museum: Lima Travel Guide (4.8★)'
+description: >-
+  The Larco Museum (Museo Larco) is in Pueblo Libre, Lima. It is an 18th-century
+  mansion holding one of Peru's best-known private collections of pre-Columbian
+  art, including its famous gallery of erotic ceramics. 4.8★ (18,055 reviews) —
+  what visitors say, hours, and tips.
+country: Peru
+region: Lima
+category: attraction
+pubDate: '2026-10-24T10:28:42.178Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Lima_museo_larco.jpg/1920px-Lima_museo_larco.jpg"
-  credit: "Photo: Velvet / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Lima_museo_larco.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Lima_museo_larco.jpg/1920px-Lima_museo_larco.jpg
+  credit: 'Photo: Velvet / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Lima_museo_larco.jpg'
   focus:
     x: 45
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Larco_Museum%2C_Lima%2C_Peru_-_Laslovarga_%2830%29.jpg/3840px-Larco_Museum%2C_Lima%2C_Peru_-_Laslovarga_%2830%29.jpg"
-    credit: "Photo: Laslovarga / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Larco_Museum,_Lima,_Peru_-_Laslovarga_(30).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Larco_Museum%2C_Lima%2C_Peru_-_Laslovarga_%2830%29.jpg/3840px-Larco_Museum%2C_Lima%2C_Peru_-_Laslovarga_%2830%29.jpg
+    credit: 'Photo: Laslovarga / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Larco_Museum,_Lima,_Peru_-_Laslovarga_(30).jpg
 place:
-  id: "ChIJPWUAUBrJBZER6aEuGlDVVBY"
-  name: "Larco Museum"
-  address: "169 (frente al Parque Larco PE, Ingreso por la, Av. Simón Bolívar 1515, Pueblo Libre 21, Peru"
+  id: ChIJPWUAUBrJBZER6aEuGlDVVBY
+  name: Larco Museum
+  address: >-
+    169 (frente al Parque Larco PE, Ingreso por la, Av. Simón Bolívar 1515,
+    Pueblo Libre 21, Peru
   rating: 4.8
-  userRatingsTotal: 18051
-  googleMapsUrl: "https://maps.google.com/?cid=1609145506891473385&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 18055
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1609145506891473385&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -12.072569000000001
   lng: -77.0710106
-  phone: "+51 1 4611312"
+  phone: +51 1 4611312
   openingHours:
-    - "Monday: 9:00 AM – 7:00 PM"
-    - "Tuesday: 9:00 AM – 7:00 PM"
-    - "Wednesday: 9:00 AM – 7:00 PM"
-    - "Thursday: 9:00 AM – 7:00 PM"
-    - "Friday: 9:00 AM – 7:00 PM"
-    - "Saturday: 9:00 AM – 7:00 PM"
-    - "Sunday: 9:00 AM – 7:00 PM"
+    - 'Monday: 9:00 AM – 7:00 PM'
+    - 'Tuesday: 9:00 AM – 7:00 PM'
+    - 'Wednesday: 9:00 AM – 7:00 PM'
+    - 'Thursday: 9:00 AM – 7:00 PM'
+    - 'Friday: 9:00 AM – 7:00 PM'
+    - 'Saturday: 9:00 AM – 7:00 PM'
+    - 'Sunday: 9:00 AM – 7:00 PM'
 tags:
-  - "lima"
-  - "museum"
-quickAnswer: "The Larco Museum (Museo Larco) is in Pueblo Libre, Lima. It is an 18th-century mansion holding one of Peru's best-known private collections of pre-Columbian art, including its famous gallery of erotic ceramics. Give it 2–3 hours, take a taxi or ride-hail from Miraflores, and check the official site for this month's hours. The current schedule is 9am–7pm."
+  - lima
+  - museum
+quickAnswer: >-
+  The Larco Museum (Museo Larco) is in Pueblo Libre, Lima. It is an 18th-century
+  mansion holding one of Peru's best-known private collections of pre-Columbian
+  art, including its famous gallery of erotic ceramics. Give it 2–3 hours, take
+  a taxi or ride-hail from Miraflores, and check the official site for this
+  month's hours. The current schedule is 9am–7pm.
 faq:
-  - q: "How do I get to the Larco Museum from Miraflores?"
-    a: "Most visitors take a taxi or a ride-hailing app like Uber or Cabify to Museo Larco on Avenida Simón Bolívar in Pueblo Libre. The drive usually takes 20–40 minutes depending on traffic."
-  - q: "How long should I spend at the Larco Museum?"
-    a: "Plan on 2–3 hours for the main galleries, the open storerooms and the erotic gallery. Add time if you want lunch at the garden café or plan to walk on to the national museum on Plaza Bolívar."
-  - q: "What are the opening hours?"
-    a: "At the moment it opens 9am–7pm every day of the week. Hours can change for holidays and seasons, so check the museum's official website before you go."
-  - q: "Is the erotic gallery suitable for children?"
-    a: "It is explicit, but it sits in a separate space from the main galleries. Families can easily skip it or take turns visiting it."
-  - q: "What else is nearby?"
-    a: "A painted blue line on the pavement leads about 15–20 minutes on foot to the Museo Nacional de Arqueología, Antropología e Historia del Perú on Plaza Bolívar. The historic Antigua Taberna Queirolo bar is close by too."
+  - q: How do I get to the Larco Museum from Miraflores?
+    a: >-
+      Most visitors take a taxi or a ride-hailing app like Uber or Cabify to
+      Museo Larco on Avenida Simón Bolívar in Pueblo Libre. The drive usually
+      takes 20–40 minutes depending on traffic.
+  - q: How long should I spend at the Larco Museum?
+    a: >-
+      Plan on 2–3 hours for the main galleries, the open storerooms and the
+      erotic gallery. Add time if you want lunch at the garden café or plan to
+      walk on to the national museum on Plaza Bolívar.
+  - q: What are the opening hours?
+    a: >-
+      At the moment it opens 9am–7pm every day of the week. Hours can change for
+      holidays and seasons, so check the museum's official website before you
+      go.
+  - q: Is the erotic gallery suitable for children?
+    a: >-
+      It is explicit, but it sits in a separate space from the main galleries.
+      Families can easily skip it or take turns visiting it.
+  - q: What else is nearby?
+    a: >-
+      A painted blue line on the pavement leads about 15–20 minutes on foot to
+      the Museo Nacional de Arqueología, Antropología e Historia del Perú on
+      Plaza Bolívar. The historic Antigua Taberna Queirolo bar is close by too.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-24'
 ---
 
 ## A white mansion on top of a pyramid

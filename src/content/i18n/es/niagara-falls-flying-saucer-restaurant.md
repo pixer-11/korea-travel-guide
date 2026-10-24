@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: niagara-falls-flying-saucer-restaurant
-srcHash: 'c5e6652868ba'
+srcHash: '1f1e52bd0a62'
 title: 'Flying Saucer Restaurant: dónde comer en Niagara Falls'
-description: 'En el 6768 de Lundy''s Lane, en Niagara Falls (Ontario), a pocos minutos en coche al oeste de las cataratas y de Clifton Hill, se alza Flying Saucer Restaurant, un diner americano con forma de ovni. Valoración de 4.4★ (9,752 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En el 6768 de Lundy''s Lane, en Niagara Falls (Ontario), a pocos minutos en coche al oeste de las cataratas y de Clifton Hill, se alza Flying Saucer Restaurant, un diner americano con forma de ovni. Valoración de 4.4★ (9,783 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En el 6768 de Lundy's Lane, en Niagara Falls (Ontario), a pocos minutos en coche al oeste de las cataratas y de Clifton Hill, se encuentra Flying Saucer Restaurant, un diner americano con forma de ovni. Esta semana abre todos los días de 7am a 10pm. Si no quiere hacer cola, vaya entre semana de 7am a 9am o a partir de las 8pm. Los fines de semana, la franja de 9am a 9pm es la de mayor afluencia y conviene evitarla.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar Flying Saucer Restaurant?

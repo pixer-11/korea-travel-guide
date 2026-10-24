@@ -1,9 +1,9 @@
 ---
 lang: ko
 slug: niagara-falls-flying-saucer-restaurant
-srcHash: 'c5e6652868ba'
+srcHash: '1f1e52bd0a62'
 title: '플라잉 소서 레스토랑: 나이아가라 폭포 맛집 가이드'
-description: 플라잉 소서 레스토랑(Flying Saucer Restaurant)은 온타리오주 나이아가라 폭포시 6768 Lundy's Lane에 있는 UFO 모양의 미국식 다이너입니다. 폭포와 클리프턴 힐에서 서쪽으로 차를 타고 조금만 가면 나옵니다. 평점 4.4★(리뷰 9,752개)를 받은 이곳의 방문객 후기와 영업시간, 이용 팁을 정리했습니다.
+description: 플라잉 소서 레스토랑(Flying Saucer Restaurant)은 온타리오주 나이아가라 폭포시 6768 Lundy's Lane에 있는 UFO 모양의 미국식 다이너입니다. 폭포와 클리프턴 힐에서 서쪽으로 차를 타고 조금만 가면 나옵니다. 평점 4.4★(리뷰 9,783개)를 받은 이곳의 방문객 후기와 영업시간, 이용 팁을 정리했습니다.
 quickAnswer: 플라잉 소서 레스토랑(Flying Saucer Restaurant)은 온타리오주 나이아가라 폭포시 6768 Lundy's Lane에 자리한 UFO 모양의 미국식 다이너입니다. 폭포와 클리프턴 힐(Clifton Hill)에서 서쪽으로 차로 금방입니다. 이번 주에는 매일 오전 7시부터 오후 10시까지 문을 엽니다. 기다리지 않으려면 평일 오전 7시~9시나 오후 8시 이후에 가시는 것이 좋습니다. 가장 붐비는 주말 오전 9시~오후 9시는 피하시기 바랍니다.
 faq:
   - q: 플라잉 소서 레스토랑이 가장 한산한 시간은 언제인가요?

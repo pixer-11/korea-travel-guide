@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: akhaltsikhe-vardzia
-srcHash: '9f3dafaf6279'
+srcHash: '03d7234878cb'
 title: 'Vardzia: guía de viaje desde Ajaltsije (4.8★)'
-description: 'Excavado en los acantilados del monte Erusheti sobre el río Kura, Vardzia es un monasterio rupestre del siglo XII situado a 1–1.5 horas en coche al sur de Ajaltsije, pasando por Aspindza. 4.8★ (8,380 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'Excavado en los acantilados del monte Erusheti sobre el río Kura, Vardzia es un monasterio rupestre del siglo XII situado a 1–1.5 horas en coche al sur de Ajaltsije, pasando por Aspindza. 4.8★ (8,382 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Vardzia es un monasterio rupestre del siglo XII excavado en los acantilados del monte Erusheti, sobre el río Kura (Mtkvari). Se llega en 1–1.5 horas en coche desde Ajaltsije (Akhaltsikhe), en dirección sur y pasando por Aspindza. Actualmente abre todos los días de 10am–7pm, aunque el horario varía a lo largo del año, por lo que conviene consultar la información oficial antes de salir. Calcule entre 2 y 3 horas para recorrer el acantilado y procure llegar poco después de la apertura para adelantarse a los grupos organizados.
 faq:
   - q: ¿Cómo se llega a Vardzia desde Ajaltsije?

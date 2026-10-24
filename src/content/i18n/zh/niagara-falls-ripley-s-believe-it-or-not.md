@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: niagara-falls-ripley-s-believe-it-or-not
-srcHash: '19265bfcc5e6'
+srcHash: 'e04dab4293c5'
 title: 尼亚加拉瀑布城雷普利信不信由你博物馆旅行指南
-description: 雷普利信不信由你博物馆（Ripley's Believe It or Not!）位于尼亚加拉瀑布城4960 Clifton Hill，地处游客街区，从河边和瀑布往坡上走几步就到。评分4.4★（3,313条评价），本文汇总游客评价、开放时间和参观建议。
+description: 雷普利信不信由你博物馆（Ripley's Believe It or Not!）位于尼亚加拉瀑布城4960 Clifton Hill，地处游客街区，从河边和瀑布往坡上走几步就到。评分4.4★（3,312条评价），本文汇总游客评价、开放时间和参观建议。
 quickAnswer: 雷普利信不信由你博物馆（Ripley's Believe It or Not!）位于尼亚加拉瀑布城4960 Clifton Hill，就在游客街区上，从河边和瀑布往坡上走一小段即可到达。这是一座可以自助参观的奇趣博物馆，藏品里有缩头和珍稀动物骨骼，大多数游客逛一小时左右。目前每天10am–11pm开放，看完瀑布后晚上再来正合适。
 faq:
   - q: 尼亚加拉瀑布城的雷普利信不信由你博物馆在哪里？

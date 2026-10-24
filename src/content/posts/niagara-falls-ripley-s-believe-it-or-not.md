@@ -1,56 +1,80 @@
 ---
-title: "Ripley's Believe It or Not!: Niagara Falls Travel Guide"
-description: "Ripley's Believe It or Not! sits at 4960 Clifton Hill, Niagara Falls, on the tourist strip a short walk uphill from the river and the Falls. 4.4★ (3,313 reviews) — what visitors say, hours, and tips."
-country: "Canada"
-region: "Niagara Falls"
-category: "attraction"
-pubDate: "2026-10-22T07:49:30.363Z"
+title: 'Ripley''s Believe It or Not!: Niagara Falls Travel Guide'
+description: >-
+  Ripley's Believe It or Not! sits at 4960 Clifton Hill, Niagara Falls, on the
+  tourist strip a short walk uphill from the river and the Falls. 4.4★ (3,312
+  reviews) — what visitors say, hours, and tips.
+country: Canada
+region: Niagara Falls
+category: attraction
+pubDate: '2026-10-22T07:49:30.363Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Ripley%27s_Believe_It_or_Not%2C_Niagara_Falls_2026.jpg/3840px-Ripley%27s_Believe_It_or_Not%2C_Niagara_Falls_2026.jpg"
-  credit: "Photo: Chicken4War / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Ripley%27s_Believe_It_or_Not,_Niagara_Falls_2026.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Ripley%27s_Believe_It_or_Not%2C_Niagara_Falls_2026.jpg/3840px-Ripley%27s_Believe_It_or_Not%2C_Niagara_Falls_2026.jpg
+  credit: 'Photo: Chicken4War / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Ripley%27s_Believe_It_or_Not,_Niagara_Falls_2026.jpg
+  via: act
   focus:
     x: 55
-    y: 40
+    'y': 40
 gallery: []
 place:
-  id: "ChIJTUdo4BlD04kRRJFFD8yBfNk"
-  name: "Ripley's Believe It or Not!"
-  address: "4960 Clifton Hill, Niagara Falls, ON L2G 3N4, Canada"
+  id: ChIJTUdo4BlD04kRRJFFD8yBfNk
+  name: Ripley's Believe It or Not!
+  address: '4960 Clifton Hill, Niagara Falls, ON L2G 3N4, Canada'
   rating: 4.4
-  userRatingsTotal: 3313
-  googleMapsUrl: "https://maps.google.com/?cid=15671543516772012356&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 3312
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15671543516772012356&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 43.0915967
   lng: -79.0757648
-  phone: "+1 905-356-2238"
+  phone: +1 905-356-2238
   openingHours:
-    - "Monday: 10:00 AM – 11:00 PM"
-    - "Tuesday: 10:00 AM – 11:00 PM"
-    - "Wednesday: 10:00 AM – 11:00 PM"
-    - "Thursday: 10:00 AM – 11:00 PM"
-    - "Friday: 10:00 AM – 11:00 PM"
-    - "Saturday: 10:00 AM – 11:00 PM"
-    - "Sunday: 10:00 AM – 11:00 PM"
+    - 'Monday: 10:00 AM – 11:00 PM'
+    - 'Tuesday: 10:00 AM – 11:00 PM'
+    - 'Wednesday: 10:00 AM – 11:00 PM'
+    - 'Thursday: 10:00 AM – 11:00 PM'
+    - 'Friday: 10:00 AM – 11:00 PM'
+    - 'Saturday: 10:00 AM – 11:00 PM'
+    - 'Sunday: 10:00 AM – 11:00 PM'
 tags:
-  - "niagara falls"
-  - "museum"
-quickAnswer: "Ripley's Believe It or Not! sits at 4960 Clifton Hill, Niagara Falls, on the tourist strip a short walk uphill from the river and the Falls. It's a self-guided museum of oddities, including shrunken heads and rare animal skeletons, and most visitors take about an hour. At the moment it opens 10am–11pm every day, so it works well as an evening stop after the Falls."
+  - niagara falls
+  - museum
+quickAnswer: >-
+  Ripley's Believe It or Not! sits at 4960 Clifton Hill, Niagara Falls, on the
+  tourist strip a short walk uphill from the river and the Falls. It's a
+  self-guided museum of oddities, including shrunken heads and rare animal
+  skeletons, and most visitors take about an hour. At the moment it opens
+  10am–11pm every day, so it works well as an evening stop after the Falls.
 faq:
-  - q: "Where is Ripley's Believe It or Not! in Niagara Falls?"
-    a: "It's at 4960 Clifton Hill, on the attraction strip that runs uphill from the Niagara Parkway, close to Rainbow Bridge and the American Falls viewpoints."
-  - q: "How long does a visit take?"
-    a: "Most people spend about an hour on the self-guided route. Allow a little more if you read every exhibit."
-  - q: "What are the opening hours?"
-    a: "At the moment it's open 10am–11pm every day. Hours can change by season, so check the official site before you go."
-  - q: "Is it suitable for young children?"
-    a: "Mostly, yes. Some exhibits, such as the shrunken human heads, are graphic, so it's worth looking ahead in each gallery before sensitive kids do."
-  - q: "What else is nearby?"
-    a: "The Niagara SkyWheel and the other Clifton Hill attractions are steps away. Niagara City Cruises is at the bottom of the hill, and the Horseshoe Falls is about a 20–25 minute walk along the Parkway."
+  - q: Where is Ripley's Believe It or Not! in Niagara Falls?
+    a: >-
+      It's at 4960 Clifton Hill, on the attraction strip that runs uphill from
+      the Niagara Parkway, close to Rainbow Bridge and the American Falls
+      viewpoints.
+  - q: How long does a visit take?
+    a: >-
+      Most people spend about an hour on the self-guided route. Allow a little
+      more if you read every exhibit.
+  - q: What are the opening hours?
+    a: >-
+      At the moment it's open 10am–11pm every day. Hours can change by season,
+      so check the official site before you go.
+  - q: Is it suitable for young children?
+    a: >-
+      Mostly, yes. Some exhibits, such as the shrunken human heads, are graphic,
+      so it's worth looking ahead in each gallery before sensitive kids do.
+  - q: What else is nearby?
+    a: >-
+      The Niagara SkyWheel and the other Clifton Hill attractions are steps
+      away. Niagara City Cruises is at the bottom of the hill, and the Horseshoe
+      Falls is about a 20–25 minute walk along the Parkway.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-24'
 ---
 
 ## Shrunken heads on Clifton Hill

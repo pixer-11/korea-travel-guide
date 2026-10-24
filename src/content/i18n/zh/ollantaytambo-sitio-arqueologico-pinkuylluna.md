@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: ollantaytambo-sitio-arqueologico-pinkuylluna
-srcHash: 'a43443f04bb2'
+srcHash: '6eaea135e405'
 title: 平库伊柳纳考古遗址：奥扬泰坦博旅行指南
-description: 平库伊柳纳考古遗址（Sitio arqueológico Pinkuylluna）是一处印加粮仓遗迹，就在奥扬泰坦博小镇头顶的山坡上。登山石径陡峭，起点位于主广场附近的拉雷斯街（Calle Lares）。遗址评分4.7★（861条评价），本文汇总游客评价、开放时间与实用贴士。
+description: 平库伊柳纳考古遗址（Sitio arqueológico Pinkuylluna）是一处印加粮仓遗迹，就在奥扬泰坦博小镇头顶的山坡上。登山石径陡峭，起点位于主广场附近的拉雷斯街（Calle Lares）。遗址评分4.7★（862条评价），本文汇总游客评价、开放时间与实用贴士。
 quickAnswer: 平库伊柳纳考古遗址（Sitio arqueológico Pinkuylluna）是一处印加粮仓遗迹，就在奥扬泰坦博（Ollantaytambo）小镇头顶的山坡上。登山石径陡峭，起点位于主广场附近的拉雷斯街（Calle Lares）。目前开放时间为7:30am–4:30pm，最晚下午三四点前就要动身上山。上山、远眺对面的要塞、再下山，往返预留1–2小时即可。
 faq:
   - q: 平库伊柳纳的登山步道从哪里开始？

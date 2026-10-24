@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: ottawa-canadian-museum-of-history
-srcHash: '73836d84ca7f'
+srcHash: 'af24fd2f6350'
 title: 'Museo Canadiense de Historia: guía de viaje de Ottawa (4.7★)'
-description: Frente a la Colina del Parlamento, en la otra orilla del río Ottawa, se alza en Gatineau (Quebec) el Museo Canadiense de Historia, al que casi todos llegan a pie desde el centro de Ottawa por el puente Alexandra. Con una valoración de 4.7★ (14,924 reseñas), le contamos qué opinan los visitantes, sus horarios y algunos consejos.
+description: Frente a la Colina del Parlamento, en la otra orilla del río Ottawa, se alza en Gatineau (Quebec) el Museo Canadiense de Historia, al que casi todos llegan a pie desde el centro de Ottawa por el puente Alexandra. Con una valoración de 4.7★ (14,925 reseñas), le contamos qué opinan los visitantes, sus horarios y algunos consejos.
 quickAnswer: En Gatineau (Quebec), justo enfrente de la Colina del Parlamento y al otro lado del río Ottawa, se encuentra el Museo Canadiense de Historia (Canadian Museum of History). La mayoría de los visitantes llega cruzando a pie el puente Alexandra desde el centro de Ottawa. Conviene reservar entre tres y cuatro horas para recorrer los tótems del Gran Salón, la Sala de la Historia Canadiense y la Sala de los Primeros Pueblos. Actualmente abre todos los días a las 9am, y los jueves el cierre se retrasa hasta las 7pm.
 faq:
   - q: ¿Cómo se llega al Museo Canadiense de Historia desde el centro de Ottawa?

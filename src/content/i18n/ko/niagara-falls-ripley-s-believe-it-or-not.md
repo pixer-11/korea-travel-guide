@@ -1,9 +1,9 @@
 ---
 lang: ko
 slug: niagara-falls-ripley-s-believe-it-or-not
-srcHash: '19265bfcc5e6'
+srcHash: 'e04dab4293c5'
 title: '리플리의 믿거나 말거나!: 나이아가라 폭포 여행 가이드'
-description: 리플리의 믿거나 말거나!(Ripley's Believe It or Not!)는 강과 폭포에서 언덕길을 따라 조금만 걸어 올라가면 나오는 관광 거리, 4960 Clifton Hill, Niagara Falls에 있습니다. 평점 4.4★(리뷰 3,313개)를 받은 곳으로, 방문객 후기와 운영 시간, 관람 팁을 정리했습니다.
+description: 리플리의 믿거나 말거나!(Ripley's Believe It or Not!)는 강과 폭포에서 언덕길을 따라 조금만 걸어 올라가면 나오는 관광 거리, 4960 Clifton Hill, Niagara Falls에 있습니다. 평점 4.4★(리뷰 3,312개)를 받은 곳으로, 방문객 후기와 운영 시간, 관람 팁을 정리했습니다.
 quickAnswer: 리플리의 믿거나 말거나!(Ripley's Believe It or Not!)는 4960 Clifton Hill, Niagara Falls에 있습니다. 강과 폭포에서 언덕길을 따라 조금만 걸어 올라가면 나오는 관광 거리입니다. 축소된 사람 머리와 희귀 동물 골격 같은 기묘한 전시물을 자유롭게 둘러보는 박물관이며, 관람에는 대부분 1시간 정도 걸립니다. 현재는 매일 10am–11pm에 문을 열기 때문에 폭포를 구경한 뒤 저녁에 들르기에 좋습니다.
 faq:
   - q: 나이아가라 폭포의 리플리의 믿거나 말거나!는 어디에 있습니까?

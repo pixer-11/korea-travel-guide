@@ -1,42 +1,48 @@
 ---
-title: "Flying Saucer Restaurant: Where to Eat in Niagara Falls"
-description: "Flying Saucer Restaurant is a UFO-shaped American diner at 6768 Lundy's Lane in Niagara Falls, Ontario, a short drive west of the falls and Clifton Hill. 4.4★ (9,752 reviews) — what visitors say, hours, and tips."
-country: "Canada"
-region: "Niagara Falls"
-category: "restaurant"
-pubDate: "2026-10-23T13:19:45.867Z"
+title: 'Flying Saucer Restaurant: Where to Eat in Niagara Falls'
+description: >-
+  Flying Saucer Restaurant is a UFO-shaped American diner at 6768 Lundy's Lane
+  in Niagara Falls, Ontario, a short drive west of the falls and Clifton Hill.
+  4.4★ (9,783 reviews) — what visitors say, hours, and tips.
+country: Canada
+region: Niagara Falls
+category: restaurant
+pubDate: '2026-10-23T13:19:45.867Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/0/08/A_Flying_Saucer_Spotted_in_Niagara_Falls_-_panoramio.jpg"
-  credit: "Photo: saychinqua1 / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:A_Flying_Saucer_Spotted_in_Niagara_Falls_-_panoramio.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/0/08/A_Flying_Saucer_Spotted_in_Niagara_Falls_-_panoramio.jpg
+  credit: 'Photo: saychinqua1 / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:A_Flying_Saucer_Spotted_in_Niagara_Falls_-_panoramio.jpg
+  via: act
   focus:
     x: 55
-    y: 40
+    'y': 40
 gallery: []
 place:
-  id: "ChIJaVnbyGJD04kR0z0mlpJgvps"
-  name: "Flying Saucer Restaurant"
-  address: "6768 Lundy's Ln, Niagara Falls, ON L2G 1V5, Canada"
+  id: ChIJaVnbyGJD04kR0z0mlpJgvps
+  name: Flying Saucer Restaurant
+  address: '6768 Lundy''s Ln, Niagara Falls, ON L2G 1V5, Canada'
   rating: 4.4
-  userRatingsTotal: 9752
+  userRatingsTotal: 9783
   priceLevel: 1
-  googleMapsUrl: "https://maps.google.com/?cid=11222513504154435027&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=11222513504154435027&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 43.0887609
   lng: -79.1081983
-  phone: "+1 905-356-4553"
+  phone: +1 905-356-4553
   openingHours:
-    - "Monday: 7:00 AM – 10:00 PM"
-    - "Tuesday: 7:00 AM – 10:00 PM"
-    - "Wednesday: 7:00 AM – 10:00 PM"
-    - "Thursday: 7:00 AM – 10:00 PM"
-    - "Friday: 7:00 AM – 10:00 PM"
-    - "Saturday: 7:00 AM – 10:00 PM"
-    - "Sunday: 7:00 AM – 10:00 PM"
+    - 'Monday: 7:00 AM – 10:00 PM'
+    - 'Tuesday: 7:00 AM – 10:00 PM'
+    - 'Wednesday: 7:00 AM – 10:00 PM'
+    - 'Thursday: 7:00 AM – 10:00 PM'
+    - 'Friday: 7:00 AM – 10:00 PM'
+    - 'Saturday: 7:00 AM – 10:00 PM'
+    - 'Sunday: 7:00 AM – 10:00 PM'
   busyness:
-    updated: 2026-10-23
+    updated: 2026-10-23T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -58,24 +64,45 @@ place:
       - 18
       - 19
       - 20
-    venueId: "ven_737076674a706c6d307a30526b3430444a4779626e56614a496843"
+    venueId: ven_737076674a706c6d307a30526b3430444a4779626e56614a496843
 tags:
-  - "niagara falls"
-  - "local restaurant"
-quickAnswer: "Flying Saucer Restaurant is a UFO-shaped American diner at 6768 Lundy's Lane in Niagara Falls, Ontario, a short drive west of the falls and Clifton Hill. Currently it opens 7am–10pm every day of this week. To skip the wait, go between 7am and 9am or after 8pm on weekdays, and avoid weekends from 9am to 9pm, when it's busiest."
+  - niagara falls
+  - local restaurant
+quickAnswer: >-
+  Flying Saucer Restaurant is a UFO-shaped American diner at 6768 Lundy's Lane
+  in Niagara Falls, Ontario, a short drive west of the falls and Clifton Hill.
+  Currently it opens 7am–10pm every day of this week. To skip the wait, go
+  between 7am and 9am or after 8pm on weekdays, and avoid weekends from 9am to
+  9pm, when it's busiest.
 faq:
-  - q: "When is the quietest time to visit Flying Saucer Restaurant?"
-    a: "On weekdays it's calmest from 7am to 9am and from 8pm to 10pm. On weekends the quiet windows shrink to 7am–8am and 9pm–10pm. Avoid weekends between 9am and 9pm, which is the busiest stretch."
-  - q: "What are the opening hours?"
-    a: "This week Google lists 7am–10pm every day. Hours can change, so check the restaurant's listing before you make a special trip."
-  - q: "How do I get there from the falls?"
-    a: "It's at 6768 Lundy's Lane, a few kilometres west of the Horseshoe Falls. Most people drive or take a taxi or rideshare from the Fallsview area. The seasonal WEGO bus also serves the Lundy's Lane corridor, so check the current route map first."
-  - q: "What kind of food does it serve?"
-    a: "Classic American diner food: breakfast plates, burgers, sandwiches and comfort-food dinners, all in a budget-friendly price range. The current menu and prices are on the restaurant's menu and website."
-  - q: "What else is nearby on Lundy's Lane?"
-    a: "Drummond Hill Cemetery, the site of the War of 1812 Battle of Lundy's Lane, is a short drive east toward the falls. Clifton Hill and the Horseshoe Falls are a few minutes further on."
+  - q: When is the quietest time to visit Flying Saucer Restaurant?
+    a: >-
+      On weekdays it's calmest from 7am to 9am and from 8pm to 10pm. On weekends
+      the quiet windows shrink to 7am–8am and 9pm–10pm. Avoid weekends between
+      9am and 9pm, which is the busiest stretch.
+  - q: What are the opening hours?
+    a: >-
+      This week Google lists 7am–10pm every day. Hours can change, so check the
+      restaurant's listing before you make a special trip.
+  - q: How do I get there from the falls?
+    a: >-
+      It's at 6768 Lundy's Lane, a few kilometres west of the Horseshoe Falls.
+      Most people drive or take a taxi or rideshare from the Fallsview area. The
+      seasonal WEGO bus also serves the Lundy's Lane corridor, so check the
+      current route map first.
+  - q: What kind of food does it serve?
+    a: >-
+      Classic American diner food: breakfast plates, burgers, sandwiches and
+      comfort-food dinners, all in a budget-friendly price range. The current
+      menu and prices are on the restaurant's menu and website.
+  - q: What else is nearby on Lundy's Lane?
+    a: >-
+      Drummond Hill Cemetery, the site of the War of 1812 Battle of Lundy's
+      Lane, is a short drive east toward the falls. Clifton Hill and the
+      Horseshoe Falls are a few minutes further on.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-24'
 ---
 
 ## A spaceship parked on Lundy's Lane

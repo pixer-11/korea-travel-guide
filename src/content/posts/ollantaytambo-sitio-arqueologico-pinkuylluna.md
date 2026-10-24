@@ -1,59 +1,87 @@
 ---
-title: "Sitio arqueológico Pinkuylluna: Ollantaytambo Travel Guide"
-description: "Sitio arqueológico Pinkuylluna is the Inca storehouse ruin on the mountain right above Ollantaytambo town, reached by a steep stone path that starts off Calle Lares near the main plaza. 4.7★ (861 reviews) — what visitors say, hours, and tips."
-country: "Peru"
-region: "Ollantaytambo"
-category: "attraction"
-pubDate: "2026-10-22T14:52:11.211Z"
+title: 'Sitio arqueológico Pinkuylluna: Ollantaytambo Travel Guide'
+description: >-
+  Sitio arqueológico Pinkuylluna is the Inca storehouse ruin on the mountain
+  right above Ollantaytambo town, reached by a steep stone path that starts off
+  Calle Lares near the main plaza. 4.7★ (862 reviews) — what visitors say,
+  hours, and tips.
+country: Peru
+region: Ollantaytambo
+category: attraction
+pubDate: '2026-10-22T14:52:11.211Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sitio_arqueologico_de_Pinkuylluna-2026_53.jpg/3840px-Sitio_arqueologico_de_Pinkuylluna-2026_53.jpg"
-  credit: "Photo: Yanela Ccalluco Vargas / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Sitio_arqueologico_de_Pinkuylluna-2026_53.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sitio_arqueologico_de_Pinkuylluna-2026_53.jpg/3840px-Sitio_arqueologico_de_Pinkuylluna-2026_53.jpg
+  credit: 'Photo: Yanela Ccalluco Vargas / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Sitio_arqueologico_de_Pinkuylluna-2026_53.jpg
+  via: act
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Sitio_arqueologico_de_Pinkuylluna-2026_75.jpg/3840px-Sitio_arqueologico_de_Pinkuylluna-2026_75.jpg"
-    credit: "Photo: Yanela Ccalluco Vargas / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Sitio_arqueologico_de_Pinkuylluna-2026_75.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Sitio_arqueologico_de_Pinkuylluna-2026_75.jpg/3840px-Sitio_arqueologico_de_Pinkuylluna-2026_75.jpg
+    credit: 'Photo: Yanela Ccalluco Vargas / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Sitio_arqueologico_de_Pinkuylluna-2026_75.jpg
 place:
-  id: "ChIJvxpNBGvqbZERH5b1ftG85CQ"
-  name: "Sitio arqueológico Pinkuylluna"
-  address: "Cerca de Pottery Eduardo Huaman, Lares Calle 659, Ollantaytambo 08676, Peru"
+  id: ChIJvxpNBGvqbZERH5b1ftG85CQ
+  name: Sitio arqueológico Pinkuylluna
+  address: 'Cerca de Pottery Eduardo Huaman, Lares Calle 659, Ollantaytambo 08676, Peru'
   rating: 4.7
-  userRatingsTotal: 861
-  googleMapsUrl: "https://maps.google.com/?cid=2658457288019645983&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 862
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2658457288019645983&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -13.2562635
   lng: -72.261034
   openingHours:
-    - "Monday: 7:30 AM – 4:30 PM"
-    - "Tuesday: 7:30 AM – 4:30 PM"
-    - "Wednesday: 7:30 AM – 4:30 PM"
-    - "Thursday: 7:30 AM – 4:30 PM"
-    - "Friday: 7:30 AM – 4:30 PM"
-    - "Saturday: 7:30 AM – 4:30 PM"
-    - "Sunday: 7:30 AM – 4:30 PM"
+    - 'Monday: 7:30 AM – 4:30 PM'
+    - 'Tuesday: 7:30 AM – 4:30 PM'
+    - 'Wednesday: 7:30 AM – 4:30 PM'
+    - 'Thursday: 7:30 AM – 4:30 PM'
+    - 'Friday: 7:30 AM – 4:30 PM'
+    - 'Saturday: 7:30 AM – 4:30 PM'
+    - 'Sunday: 7:30 AM – 4:30 PM'
 tags:
-  - "ollantaytambo"
-  - "top attraction"
-quickAnswer: "Sitio arqueológico Pinkuylluna is the Inca storehouse ruin on the mountain right above Ollantaytambo town, reached by a steep stone path that starts off Calle Lares near the main plaza. It's currently open 7:30am–4:30pm, so start your climb by mid-afternoon at the latest. Allow 1–2 hours return to walk up, look across at the fortress and come back down."
+  - ollantaytambo
+  - top attraction
+quickAnswer: >-
+  Sitio arqueológico Pinkuylluna is the Inca storehouse ruin on the mountain
+  right above Ollantaytambo town, reached by a steep stone path that starts off
+  Calle Lares near the main plaza. It's currently open 7:30am–4:30pm, so start
+  your climb by mid-afternoon at the latest. Allow 1–2 hours return to walk up,
+  look across at the fortress and come back down.
 faq:
-  - q: "Where does the Pinkuylluna trail start?"
-    a: "On Calle Lares, a narrow street running up from Ollantaytambo's Plaza de Armas, near Pottery Eduardo Huaman at number 659. Look for a small gate between the houses."
-  - q: "How long does the Pinkuylluna hike take?"
-    a: "Allow 1–2 hours return. Most people reach the main storehouse terraces in 20–40 minutes of steep climbing, and the way down takes almost as long."
-  - q: "What are the opening hours?"
-    a: "Currently 7:30am–4:30pm every day, but hours can change with the season. Check at the gate before you go, and don't start after mid-afternoon."
-  - q: "Is the hike difficult?"
-    a: "It's short but steep, with uneven stone steps, exposed drops and altitude of roughly 2,800 metres. Shoes with good grip and an acclimatisation day help a lot."
-  - q: "What else can I see nearby?"
-    a: "The Ollantaytambo fortress and Temple of the Sun are directly across the valley. The town's Inca street grid and water channels are around the plaza, and the train station for Machu Picchu is a short walk away."
+  - q: Where does the Pinkuylluna trail start?
+    a: >-
+      On Calle Lares, a narrow street running up from Ollantaytambo's Plaza de
+      Armas, near Pottery Eduardo Huaman at number 659. Look for a small gate
+      between the houses.
+  - q: How long does the Pinkuylluna hike take?
+    a: >-
+      Allow 1–2 hours return. Most people reach the main storehouse terraces in
+      20–40 minutes of steep climbing, and the way down takes almost as long.
+  - q: What are the opening hours?
+    a: >-
+      Currently 7:30am–4:30pm every day, but hours can change with the season.
+      Check at the gate before you go, and don't start after mid-afternoon.
+  - q: Is the hike difficult?
+    a: >-
+      It's short but steep, with uneven stone steps, exposed drops and altitude
+      of roughly 2,800 metres. Shoes with good grip and an acclimatisation day
+      help a lot.
+  - q: What else can I see nearby?
+    a: >-
+      The Ollantaytambo fortress and Temple of the Sun are directly across the
+      valley. The town's Inca street grid and water channels are around the
+      plaza, and the train station for Machu Picchu is a short walk away.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-24'
 ---
 
 ## Storehouses Hanging Over the Rooftops
