@@ -94,29 +94,30 @@
     "san-fernando-giant-lantern-festival-ligligan-parul",
     "shanghai-china-international-import-expo-ciie",
     "san-francisco-balmy-alley",
-    "khiva-khiva-ichan-kala"
+    "khiva-khiva-ichan-kala",
+    "kolkata-victoria-memorial"
   ],
-  "lastSentDay": "2026-10-24",
+  "lastSentDay": "2026-10-25",
   "material": {
-    "day": "2026-10-24",
-    "slug": "khiva-khiva-ichan-kala",
-    "title": "Khiva Ichan Kala: Travel Guide",
+    "day": "2026-10-25",
+    "slug": "kolkata-victoria-memorial",
+    "title": "Victoria Memorial: Kolkata Travel Guide (4.6★)",
     "urls": [
-      "https://wanderatlasguides.com/og/social/2026-10-24-khiva-khiva-ichan-kala-1.jpg",
-      "https://wanderatlasguides.com/og/social/2026-10-24-khiva-khiva-ichan-kala-2.jpg",
-      "https://wanderatlasguides.com/og/social/2026-10-24-khiva-khiva-ichan-kala-3.jpg",
-      "https://wanderatlasguides.com/og/social/2026-10-24-khiva-khiva-ichan-kala-4.jpg"
+      "https://wanderatlasguides.com/og/social/2026-10-25-kolkata-victoria-memorial-1.jpg",
+      "https://wanderatlasguides.com/og/social/2026-10-25-kolkata-victoria-memorial-2.jpg",
+      "https://wanderatlasguides.com/og/social/2026-10-25-kolkata-victoria-memorial-3.jpg",
+      "https://wanderatlasguides.com/og/social/2026-10-25-kolkata-victoria-memorial-4.jpg"
     ],
-    "igCaption": "Walk end to end in under 20 minutes, but give it hours: Khiva's Ichan Kala is a walled open-air museum of mud-brick madrasas, minarets and khan's palaces, with almost nothing modern inside. Stay past sunset and the walls glow orange before anyone else is awake.\n\n#KhivaIchanKala #Khiva #Uzbekistan #travelguide #travel #wanderatlas #IchanKala #SilkRoad #CentralAsia #TravelGuide\n📷 Photo: Petar Milošević / Wikimedia Commons (CC BY-SA 4.0) (edited)",
-    "thOption": "Most people treat Ichan Kala as a half-day stop between trains, but locals say the real reward is staying overnight inside the walls — would you trade your schedule for lamplight and empty dawn courtyards?",
-    "link": "https://wanderatlasguides.com/posts/khiva-khiva-ichan-kala/"
+    "igCaption": "White marble, a spinning bronze angel, and 64 acres of gardens in the heart of Kolkata's Maidan. Victoria Memorial isn't just a photo stop from the gates — the Calcutta Gallery inside tells the city's whole story.\n\n#VictoriaMemorial #Kolkata #India #travelguide #travel #wanderatlas #IndiaTravel #TravelGuide #Maidan #IncredibleIndia\n📷 Photo: Subhrajyoti07 / Wikimedia Commons (CC BY-SA 4.0) (edited)\n📷 Photo: DeepanjanGhosh / Wikimedia Commons (CC BY-SA 4.0) (edited)",
+    "thOption": "The Memorial is closed every Monday and weekends get packed from 11am to 6pm — would you brave the crowds or plan around them?",
+    "link": "https://wanderatlasguides.com/posts/kolkata-victoria-memorial/"
   },
   "social": {
-    "thDay": "2026-10-24",
-    "thId": "17953406835270814",
+    "thDay": "2026-10-25",
+    "thId": "17881106160546045",
     "igDay": "2026-10-23",
     "igId": "18088207508304384",
-    "thSlug": "khiva-khiva-ichan-kala",
+    "thSlug": "kolkata-victoria-memorial",
     "igSlug": "san-francisco-balmy-alley",
     "history": [
       {
@@ -269,7 +270,17 @@
       {
         "day": "2026-10-18",
         "slug": "singapore-deepavali-diwali-little-india-festival",
-        "thId": "17961367515239252"
+        "thId": "17961367515239252",
+        "insights": {
+          "at": "2026-10-25",
+          "th": {
+            "views": 11,
+            "likes": 0,
+            "replies": 0,
+            "reposts": 0,
+            "quotes": 0
+          }
+        }
       },
       {
         "day": "2026-10-19",
@@ -303,6 +314,11 @@
         "day": "2026-10-24",
         "slug": "khiva-khiva-ichan-kala",
         "thId": "17953406835270814"
+      },
+      {
+        "day": "2026-10-25",
+        "slug": "kolkata-victoria-memorial",
+        "thId": "17881106160546045"
       }
     ]
   }
