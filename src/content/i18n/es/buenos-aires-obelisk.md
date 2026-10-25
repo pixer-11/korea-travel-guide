@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: buenos-aires-obelisk
-srcHash: '5f2b444b5740'
+srcHash: '46176f3732ad'
 title: 'El Obelisco: guía de viaje de Buenos Aires (4.6★)'
-description: En pleno barrio porteño de San Nicolás, sobre la Plaza de la República, se alza el Obelisco, donde se cruzan la Avenida 9 de Julio y la Avenida Corrientes. Tiene una valoración de 4.6★ (186,994 reseñas). Aquí encontrará qué opinan los visitantes, los horarios y algunos consejos.
+description: En pleno barrio porteño de San Nicolás, sobre la Plaza de la República, se alza el Obelisco, donde se cruzan la Avenida 9 de Julio y la Avenida Corrientes. Tiene una valoración de 4.6★ (187,019 reseñas). Aquí encontrará qué opinan los visitantes, los horarios y algunos consejos.
 quickAnswer: En pleno barrio porteño de San Nicolás, sobre la Plaza de la República, se alza el Obelisco, justo donde se cruzan la Avenida 9 de Julio y la Avenida Corrientes. Al ser un monumento al aire libre, puede verse a cualquier hora, y tiene debajo estaciones de tres líneas de subte (B, C y D). Basta con dedicarle entre 20 y 30 minutos, aunque también sirve de punto de partida para recorrer los teatros y pizzerías de Corrientes o para caminar hasta el Teatro Colón.
 faq:
   - q: ¿Cómo se llega al Obelisco en subte?

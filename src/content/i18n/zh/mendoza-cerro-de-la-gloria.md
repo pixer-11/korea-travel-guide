@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: mendoza-cerro-de-la-gloria
-srcHash: 'c65ee7dc2aa3'
+srcHash: 'b1c5126b1dee'
 title: 荣耀山（Cerro de la Gloria）：门多萨旅行指南（4.7★）
-description: 荣耀山位于门多萨城西缘的圣马丁将军公园内，山顶矗立着青铜铸造的安第斯军纪念碑。4.7★（3,049条评价），这里汇总了游客评价、开放时间和实用贴士。
+description: 荣耀山位于门多萨城西缘的圣马丁将军公园内，山顶矗立着青铜铸造的安第斯军纪念碑。4.7★（3,051条评价），这里汇总了游客评价、开放时间和实用贴士。
 quickAnswer: 荣耀山（Cerro de la Gloria）是圣马丁将军公园（Parque General San Martín）里的一座小山，地处门多萨城西缘，山顶立着青铜铸造的安第斯军纪念碑。上山可以打车、坐观光巴士、骑车，也可以穿过公园一路步行爬坡，只是路程较长。最好挑晴朗的早晨去，这个时段最有机会看到雕像背后的安第斯山脉。
 faq:
   - q: 从门多萨市中心怎么去荣耀山？

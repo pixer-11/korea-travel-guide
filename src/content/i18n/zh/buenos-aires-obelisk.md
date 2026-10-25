@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: buenos-aires-obelisk
-srcHash: '5f2b444b5740'
+srcHash: '46176f3732ad'
 title: 布宜诺斯艾利斯方尖碑旅行指南（4.6★）
-description: 布宜诺斯艾利斯方尖碑（el Obelisco）位于圣尼古拉斯区（San Nicolás）的共和国广场（Plaza de la República），地处七月九日大道与科连特斯大道交会处。评分4.6★（186,994条评价），本文汇总游客评价、开放时间和游览建议。
+description: 布宜诺斯艾利斯方尖碑（el Obelisco）位于圣尼古拉斯区（San Nicolás）的共和国广场（Plaza de la República），地处七月九日大道与科连特斯大道交会处。评分4.6★（187,019条评价），本文汇总游客评价、开放时间和游览建议。
 quickAnswer: 布宜诺斯艾利斯方尖碑（el Obelisco）位于圣尼古拉斯区（San Nicolás）的共和国广场（Plaza de la República），地处七月九日大道（Avenida 9 de Julio）与科连特斯大道（Avenida Corrientes）交会处。这是一座露天纪念碑，任何时候都能来看。B、C、D三条地铁线就在它的正下方停靠。单看方尖碑，留出20–30分钟即可；也可以把这里当作起点，去科连特斯大道逛剧院、吃披萨，再步行前往科隆剧院。
 faq:
   - q: 怎样乘地铁前往方尖碑？

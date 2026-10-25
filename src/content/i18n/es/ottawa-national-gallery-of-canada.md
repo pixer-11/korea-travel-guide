@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: ottawa-national-gallery-of-canada
-srcHash: 'c48df006c8d7'
+srcHash: '546e72ca2bff'
 title: 'Galería Nacional de Canadá: guía de viaje de Ottawa (4.7★)'
-description: 'En el 380 de Sussex Drive, en Ottawa, a pocos pasos del mercado ByWard y de la Colina del Parlamento, se alza la Galería Nacional de Canadá. 4.7★ (10,951 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En el 380 de Sussex Drive, en Ottawa, a pocos pasos del mercado ByWard y de la Colina del Parlamento, se alza la Galería Nacional de Canadá. 4.7★ (10,958 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: La Galería Nacional de Canadá se encuentra en el 380 de Sussex Drive, en Ottawa, a poca distancia a pie del mercado ByWard (ByWard Market) y de la Colina del Parlamento (Parliament Hill). En la actualidad abre de martes a domingo a partir de las 9:30am y cierra los lunes; los jueves prolonga su horario hasta las 8pm. Los momentos de mayor tranquilidad son el sábado o el domingo de 10am–11am, o el jueves después de las 5pm. La mayor afluencia se concentra los fines de semana de 1pm–4pm.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar la Galería Nacional de Canadá?

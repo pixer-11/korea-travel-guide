@@ -1,60 +1,95 @@
 ---
-title: "White Water Walk: Niagara Falls Travel Guide (4.6★)"
-description: "White Water Walk in Niagara Falls, Ontario, is a Niagara Parks attraction on River Road, about 3 km downriver from the Horseshoe Falls. 4.6★ (8,200 reviews) — what visitors say, hours, and tips."
-country: "Canada"
-region: "Niagara Falls"
-category: "hidden-gem"
-pubDate: "2026-10-25T07:48:06.550Z"
+title: 'White Water Walk: Niagara Falls Travel Guide (4.6★)'
+description: >-
+  White Water Walk in Niagara Falls, Ontario, is a Niagara Parks attraction on
+  River Road, about 3 km downriver from the Horseshoe Falls. 4.6★ (8,208
+  reviews) — what visitors say, hours, and tips.
+country: Canada
+region: Niagara Falls
+category: hidden-gem
+pubDate: '2026-10-25T07:48:06.550Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/b/b8/White_Water_Walk%2C_Niagara_Falls_%28470626%29_%289450054858%29.jpg"
-  credit: "Photo: Robert Linsdell from St. Andrews, Canada / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:White_Water_Walk,_Niagara_Falls_(470626)_(9450054858).jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/b/b8/White_Water_Walk%2C_Niagara_Falls_%28470626%29_%289450054858%29.jpg
+  credit: >-
+    Photo: Robert Linsdell from St. Andrews, Canada / Wikimedia Commons (CC BY
+    2.0)
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:White_Water_Walk,_Niagara_Falls_(470626)_(9450054858).jpg
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/White_Water_Walk%2C_Niagara_Falls_%28460360%29_%289449369394%29.jpg/3840px-White_Water_Walk%2C_Niagara_Falls_%28460360%29_%289449369394%29.jpg"
-    credit: "Photo: Robert Linsdell from St. Andrews, Canada / Wikimedia Commons (CC BY 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:White_Water_Walk,_Niagara_Falls_(460360)_(9449369394).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/White_Water_Walk%2C_Niagara_Falls_%28460360%29_%289449369394%29.jpg/3840px-White_Water_Walk%2C_Niagara_Falls_%28460360%29_%289449369394%29.jpg
+    credit: >-
+      Photo: Robert Linsdell from St. Andrews, Canada / Wikimedia Commons (CC BY
+      2.0)
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:White_Water_Walk,_Niagara_Falls_(460360)_(9449369394).jpg
 place:
-  id: "ChIJwU829NRC04kRV9IJHqdqmJg"
-  name: "White Water Walk"
-  address: "4330 River Rd, Niagara Falls, ON L2G 6T2, Canada"
+  id: ChIJwU829NRC04kRV9IJHqdqmJg
+  name: White Water Walk
+  address: '4330 River Rd, Niagara Falls, ON L2G 6T2, Canada'
   rating: 4.6
-  userRatingsTotal: 8200
-  googleMapsUrl: "https://maps.google.com/?cid=10995655756221108823&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 8208
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10995655756221108823&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 43.1109554
   lng: -79.0604553
-  phone: "+1 877-642-7275"
+  phone: +1 877-642-7275
   openingHours:
-    - "Monday: 10:00 AM – 5:00 PM"
-    - "Tuesday: 10:00 AM – 5:00 PM"
-    - "Wednesday: 10:00 AM – 5:00 PM"
-    - "Thursday: 10:00 AM – 5:00 PM"
-    - "Friday: 10:00 AM – 5:00 PM"
-    - "Saturday: 10:00 AM – 5:00 PM"
-    - "Sunday: 10:00 AM – 5:00 PM"
+    - 'Monday: 10:00 AM – 5:00 PM'
+    - 'Tuesday: 10:00 AM – 5:00 PM'
+    - 'Wednesday: 10:00 AM – 5:00 PM'
+    - 'Thursday: 10:00 AM – 5:00 PM'
+    - 'Friday: 10:00 AM – 5:00 PM'
+    - 'Saturday: 10:00 AM – 5:00 PM'
+    - 'Sunday: 10:00 AM – 5:00 PM'
 tags:
-  - "niagara falls"
-  - "hidden gem"
-quickAnswer: "White Water Walk in Niagara Falls, Ontario, is a Niagara Parks attraction on River Road, about 3 km downriver from the Horseshoe Falls. An elevator and tunnel take you to a boardwalk at the bottom of the gorge, right beside the Class 6 Whirlpool Rapids. Give it 45–60 minutes. It currently opens 10am–5pm, but the season changes through the year, so check the Niagara Parks site before you go."
+  - niagara falls
+  - hidden gem
+quickAnswer: >-
+  White Water Walk in Niagara Falls, Ontario, is a Niagara Parks attraction on
+  River Road, about 3 km downriver from the Horseshoe Falls. An elevator and
+  tunnel take you to a boardwalk at the bottom of the gorge, right beside the
+  Class 6 Whirlpool Rapids. Give it 45–60 minutes. It currently opens 10am–5pm,
+  but the season changes through the year, so check the Niagara Parks site
+  before you go.
 faq:
-  - q: "How do you get to White Water Walk from the Horseshoe Falls?"
-    a: "It's about 3 km north along the Niagara Parkway, at 4330 River Rd. You can walk the riverside path, take the Niagara Parks WEGO bus (it stops at the attraction) or drive and use the on-site parking."
-  - q: "What are the opening hours of White Water Walk?"
-    a: "At the moment it opens 10am–5pm daily. The attraction is seasonal, closes in winter and changes its hours through the year, so check the Niagara Parks website for this month's schedule. Don't arrive right at closing time."
-  - q: "How long does White Water Walk take?"
-    a: "Most visitors spend 45 minutes to an hour. That includes the elevator descent, the tunnel and an out-and-back walk along the boardwalk of about 300 metres."
-  - q: "Is White Water Walk worth it if I've already seen the falls?"
-    a: "Yes, if you want a different side of the river. You stand a few metres from Class 6 rapids at the bottom of the gorge, which is a very different experience from looking at the falls from above."
-  - q: "What else is nearby?"
-    a: "The Whirlpool Aero Car is a short way north, with the Niagara Parks Botanical Gardens and Floral Clock further along the Parkway. Clifton Hill and the Horseshoe Falls are to the south."
+  - q: How do you get to White Water Walk from the Horseshoe Falls?
+    a: >-
+      It's about 3 km north along the Niagara Parkway, at 4330 River Rd. You can
+      walk the riverside path, take the Niagara Parks WEGO bus (it stops at the
+      attraction) or drive and use the on-site parking.
+  - q: What are the opening hours of White Water Walk?
+    a: >-
+      At the moment it opens 10am–5pm daily. The attraction is seasonal, closes
+      in winter and changes its hours through the year, so check the Niagara
+      Parks website for this month's schedule. Don't arrive right at closing
+      time.
+  - q: How long does White Water Walk take?
+    a: >-
+      Most visitors spend 45 minutes to an hour. That includes the elevator
+      descent, the tunnel and an out-and-back walk along the boardwalk of about
+      300 metres.
+  - q: Is White Water Walk worth it if I've already seen the falls?
+    a: >-
+      Yes, if you want a different side of the river. You stand a few metres
+      from Class 6 rapids at the bottom of the gorge, which is a very different
+      experience from looking at the falls from above.
+  - q: What else is nearby?
+    a: >-
+      The Whirlpool Aero Car is a short way north, with the Niagara Parks
+      Botanical Gardens and Floral Clock further along the Parkway. Clifton Hill
+      and the Horseshoe Falls are to the south.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-25'
 ---
 
 ## Down Through the Rock

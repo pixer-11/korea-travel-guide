@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: bariloche-cerro-campanario
-srcHash: '1124b29531e1'
+srcHash: '63866584fd93'
 title: 坎帕纳里奥山：巴里洛切旅行指南（4.9★）
-description: 坎帕纳里奥山位于埃塞基耶尔·布斯蒂略大道（Avenida Ezequiel Bustillo）km 17.5处，距圣卡洛斯-德巴里洛切市中心以西约17公里。评分4.9★（1,590条评价），本文汇总游客评价、开放时间与实用贴士。
+description: 坎帕纳里奥山位于埃塞基耶尔·布斯蒂略大道（Avenida Ezequiel Bustillo）km 17.5处，距圣卡洛斯-德巴里洛切市中心以西约17公里。评分4.9★（1,591条评价），本文汇总游客评价、开放时间与实用贴士。
 quickAnswer: 坎帕纳里奥山（Cerro Campanario）紧邻埃塞基耶尔·布斯蒂略大道（Avenida Ezequiel Bustillo）km 17.5处，距圣卡洛斯-德巴里洛切市中心以西约17公里。上山可以坐缆椅，也可以走一条短而陡的步道。到了山顶，纳韦尔瓦皮湖（Lago Nahuel Huapi）、佩里托莫雷诺湖（Lago Perito Moreno）和尧尧半岛（Llao Llao）尽收眼底，视野360度无遮挡。建议预留1.5–2小时，挑晴天前往。缆椅运营时间常有变动，出发前请先上官网查询。
 faq:
   - q: 从巴里洛切市区怎么去坎帕纳里奥山？

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: paihia-paihia-wharf
-srcHash: '2f87898d6bb8'
+srcHash: '0474232f94d5'
 title: 'Muelle de Paihia (Paihia Wharf): guía de viaje (4.6★)'
-description: 'El muelle de Paihia es el principal punto de salida de barcos en Paihia, en la Bahía de las Islas: de aquí zarpan los ferris de pasajeros a Russell y la mayoría de los cruceros a Hole in the Rock, para ver delfines o recorrer las islas. Con 4.6★ (2,609 reseñas), le contamos qué opinan los visitantes, los horarios y algunos consejos.'
+description: 'El muelle de Paihia es el principal punto de salida de barcos en Paihia, en la Bahía de las Islas: de aquí zarpan los ferris de pasajeros a Russell y la mayoría de los cruceros a Hole in the Rock, para ver delfines o recorrer las islas. Con 4.6★ (2,611 reseñas), le contamos qué opinan los visitantes, los horarios y algunos consejos.'
 quickAnswer: El muelle de Paihia es el principal punto de salida de barcos en Paihia, en la Bahía de las Islas. De aquí zarpan los ferris de pasajeros a Russell y la mayoría de los cruceros a Hole in the Rock, para ver delfines o recorrer las islas. Actualmente figura como abierto las 24 horas, aunque cada salida se rige por el horario de su propio operador. En verano conviene reservar plaza con antelación y llegar al embarcadero antes de la hora de embarque.
 faq:
   - q: ¿Cómo se llega a Russell desde el muelle de Paihia?

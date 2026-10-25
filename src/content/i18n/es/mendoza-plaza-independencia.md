@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: mendoza-plaza-independencia
-srcHash: '046834a61262'
+srcHash: 'b40a8282c434'
 title: 'Plaza Independencia: guía de viaje de Mendoza (4.5★)'
-description: 'En pleno centro de Mendoza, en Gral. Espejo 300, la Plaza Independencia ocupa cuatro manzanas con árboles de sombra, una fuente semicircular y vendedores ambulantes. 4.5★ (79,356 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En pleno centro de Mendoza, en Gral. Espejo 300, la Plaza Independencia ocupa cuatro manzanas con árboles de sombra, una fuente semicircular y vendedores ambulantes. 4.5★ (79,361 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En pleno centro de Mendoza, en Gral. Espejo 300, la Plaza Independencia ocupa cuatro manzanas con árboles de sombra, una fuente semicircular y vendedores ambulantes. Según la información actual, permanece abierta las 24 horas. Para recorrerla bastan entre 45 minutos y una hora, aunque conviene dedicarle más tiempo si los fines de semana están instalados los puestos de artesanía. Además, es el punto de partida ideal para llegar a pie a las cuatro plazas más pequeñas que la rodean.
 faq:
   - q: ¿Dónde se encuentra exactamente la Plaza Independencia de Mendoza?

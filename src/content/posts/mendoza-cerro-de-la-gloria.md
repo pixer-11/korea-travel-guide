@@ -1,49 +1,79 @@
 ---
-title: "Cerro de la Gloria: Mendoza Travel Guide (4.7★)"
-description: "Cerro de la Gloria is the hill inside Parque General San Martín, on the western edge of Mendoza city, topped by the bronze Monument to the Army of the Andes. 4.7★ (3,049 reviews) — what visitors say, hours, and tips."
-country: "Argentina"
-region: "Mendoza"
-category: "attraction"
-pubDate: "2026-10-25T13:01:09.010Z"
+title: 'Cerro de la Gloria: Mendoza Travel Guide (4.7★)'
+description: >-
+  Cerro de la Gloria is the hill inside Parque General San Martín, on the
+  western edge of Mendoza city, topped by the bronze Monument to the Army of the
+  Andes. 4.7★ (3,051 reviews) — what visitors say, hours, and tips.
+country: Argentina
+region: Mendoza
+category: attraction
+pubDate: '2026-10-25T13:01:09.010Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Army_of_the_Andes_Monument%2C_Mendoza_01.jpg/1920px-Army_of_the_Andes_Monument%2C_Mendoza_01.jpg"
-  credit: "Photo: Bernard Gagnon / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Army_of_the_Andes_Monument,_Mendoza_01.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Army_of_the_Andes_Monument%2C_Mendoza_01.jpg/1920px-Army_of_the_Andes_Monument%2C_Mendoza_01.jpg
+  credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Army_of_the_Andes_Monument,_Mendoza_01.jpg
   focus:
     x: 50
-    y: 25
+    'y': 25
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/e/e1/Mendoza%2C_cerro_de_la_gloria.jpg"
-    credit: "Photo: MartaTeresa / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Mendoza,_cerro_de_la_gloria.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/e/e1/Mendoza%2C_cerro_de_la_gloria.jpg
+    credit: 'Photo: MartaTeresa / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Mendoza,_cerro_de_la_gloria.jpg'
 place:
-  id: "ChIJ9XM92jQIfpYRT7vN4Esf2ic"
-  name: "Cerro de la Gloria"
-  address: "Cerro de la Gloria, Capital Department, Mendoza Province, Argentina"
+  id: ChIJ9XM92jQIfpYRT7vN4Esf2ic
+  name: Cerro de la Gloria
+  address: 'Cerro de la Gloria, Capital Department, Mendoza Province, Argentina'
   rating: 4.7
-  userRatingsTotal: 3049
-  googleMapsUrl: "https://maps.google.com/?cid=2871642123156699983&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  userRatingsTotal: 3051
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2871642123156699983&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   lat: -32.8887289
   lng: -68.8911835
 tags:
-  - "mendoza"
-  - "Parque General San Martin and Cerro de la Gloria"
-quickAnswer: "Cerro de la Gloria is the hill inside Parque General San Martín, on the western edge of Mendoza city, topped by the bronze Monument to the Army of the Andes. Go by taxi, tour bus, bike or a long uphill walk through the park. A clear morning is the best time, because that is when you are most likely to see the Andes behind the sculptures."
+  - mendoza
+  - Parque General San Martin and Cerro de la Gloria
+quickAnswer: >-
+  Cerro de la Gloria is the hill inside Parque General San Martín, on the
+  western edge of Mendoza city, topped by the bronze Monument to the Army of the
+  Andes. Go by taxi, tour bus, bike or a long uphill walk through the park. A
+  clear morning is the best time, because that is when you are most likely to
+  see the Andes behind the sculptures.
 faq:
-  - q: "How do I get to Cerro de la Gloria from downtown Mendoza?"
-    a: "Head west to the Portones del Parque at the end of Avenida Emilio Civit, then follow the road through Parque General San Martín up the hill. Walking takes well over an hour. A taxi, ride-hail car, bike or the city tourist bus is faster."
-  - q: "How long should I spend at Cerro de la Gloria?"
-    a: "Plan on 45 minutes to an hour at the summit to walk around the monument and take in the views. Add one to two hours if you walk or cycle up through the park."
-  - q: "What is the best time to visit?"
-    a: "Clear mornings give the best chance of seeing the Andes. In summer, early morning also avoids the strongest heat. Autumn, from March to May, brings colour to the park's trees."
-  - q: "What does the monument depict?"
-    a: "It is the Monument to the Army of the Andes by Juan Manuel Ferrari, inaugurated in 1914. Liberty breaking her chains stands at the top, with San Martín on horseback below. Reliefs show the women of Mendoza sewing the flag and Fray Luis Beltrán forging the army's weapons."
-  - q: "What else is nearby?"
-    a: "Parque General San Martín surrounds the hill. It contains the rowing lake, the Frank Romero Day Greek Theatre where the Vendimia festival is held, the Estadio Malvinas Argentinas and the Portones del Parque gates."
+  - q: How do I get to Cerro de la Gloria from downtown Mendoza?
+    a: >-
+      Head west to the Portones del Parque at the end of Avenida Emilio Civit,
+      then follow the road through Parque General San Martín up the hill.
+      Walking takes well over an hour. A taxi, ride-hail car, bike or the city
+      tourist bus is faster.
+  - q: How long should I spend at Cerro de la Gloria?
+    a: >-
+      Plan on 45 minutes to an hour at the summit to walk around the monument
+      and take in the views. Add one to two hours if you walk or cycle up
+      through the park.
+  - q: What is the best time to visit?
+    a: >-
+      Clear mornings give the best chance of seeing the Andes. In summer, early
+      morning also avoids the strongest heat. Autumn, from March to May, brings
+      colour to the park's trees.
+  - q: What does the monument depict?
+    a: >-
+      It is the Monument to the Army of the Andes by Juan Manuel Ferrari,
+      inaugurated in 1914. Liberty breaking her chains stands at the top, with
+      San Martín on horseback below. Reliefs show the women of Mendoza sewing
+      the flag and Fray Luis Beltrán forging the army's weapons.
+  - q: What else is nearby?
+    a: >-
+      Parque General San Martín surrounds the hill. It contains the rowing lake,
+      the Frank Romero Day Greek Theatre where the Vendimia festival is held,
+      the Estadio Malvinas Argentinas and the Portones del Parque gates.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-25'
 ---
 
 ## Bronze, granite and a general on horseback

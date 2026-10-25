@@ -1,49 +1,79 @@
 ---
-title: "Caminito: Buenos Aires Travel Guide (4.5★)"
-description: "Caminito is a short, brightly painted pedestrian street in La Boca, Buenos Aires, named after the 1926 tango song and kept as an open-air street museum since 1959. 4.5★ (6,397 reviews) — what visitors say, hours, and tips."
-country: "Argentina"
-region: "Buenos Aires"
-category: "attraction"
-pubDate: "2026-10-25T13:01:03.850Z"
+title: 'Caminito: Buenos Aires Travel Guide (4.5★)'
+description: >-
+  Caminito is a short, brightly painted pedestrian street in La Boca, Buenos
+  Aires, named after the 1926 tango song and kept as an open-air street museum
+  since 1959. 4.5★ (6,398 reviews) — what visitors say, hours, and tips.
+country: Argentina
+region: Buenos Aires
+category: attraction
+pubDate: '2026-10-25T13:01:03.850Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Caminito_-_Entrada.jpg/1920px-Caminito_-_Entrada.jpg"
-  credit: "Photo: Hernán Piñera / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Caminito_-_Entrada.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Caminito_-_Entrada.jpg/1920px-Caminito_-_Entrada.jpg
+  credit: 'Photo: Hernán Piñera / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Caminito_-_Entrada.jpg'
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Caminito_%28La_Boca%2C_Buenos_Aires%29_%282955796294%29.jpg/3840px-Caminito_%28La_Boca%2C_Buenos_Aires%29_%282955796294%29.jpg"
-    credit: "Photo: Felipe Gabaldón / Wikimedia Commons (CC BY 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Caminito_(La_Boca,_Buenos_Aires)_(2955796294).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Caminito_%28La_Boca%2C_Buenos_Aires%29_%282955796294%29.jpg/3840px-Caminito_%28La_Boca%2C_Buenos_Aires%29_%282955796294%29.jpg
+    credit: 'Photo: Felipe Gabaldón / Wikimedia Commons (CC BY 2.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Caminito_(La_Boca,_Buenos_Aires)_(2955796294).jpg
 place:
-  id: "ChIJk5Zj-LA0o5URFK_uteT36Z4"
-  name: "Caminito"
-  address: "Caminito"
+  id: ChIJk5Zj-LA0o5URFK_uteT36Z4
+  name: Caminito
+  address: Caminito
   rating: 4.5
-  userRatingsTotal: 6397
-  googleMapsUrl: "https://maps.google.com/?cid=11450956089243119380&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  userRatingsTotal: 6398
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=11450956089243119380&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   lat: -34.6393256
   lng: -58.3626807
 tags:
-  - "buenos aires"
-  - "Caminito"
-quickAnswer: "Caminito is a short, brightly painted pedestrian street in La Boca, Buenos Aires, named after the 1926 tango song and kept as an open-air street museum since 1959. Give it one to two hours, combine it with the Museo Benito Quinquela Martín or La Bombonera stadium a few blocks away, and leave the tourist blocks before dark."
+  - buenos aires
+  - Caminito
+quickAnswer: >-
+  Caminito is a short, brightly painted pedestrian street in La Boca, Buenos
+  Aires, named after the 1926 tango song and kept as an open-air street museum
+  since 1959. Give it one to two hours, combine it with the Museo Benito
+  Quinquela Martín or La Bombonera stadium a few blocks away, and leave the
+  tourist blocks before dark.
 faq:
-  - q: "How do I get to Caminito?"
-    a: "Caminito is in La Boca, in the south of Buenos Aires. No Subte line goes there, so take a colectivo (you need a SUBE card) or a taxi or app ride. Ask to be dropped at Vuelta de Rocha on the river, at the start of the street. The city's BA Cómo Llego app shows the current bus routes."
-  - q: "How long should I spend at Caminito?"
-    a: "The street itself takes under an hour, including photos. Allow two to three hours if you add the Museo Benito Quinquela Martín or a tour of La Bombonera stadium."
-  - q: "Is Caminito safe to visit?"
-    a: "The blocks around Caminito are busy and patrolled during the day. Stay on the main tourist streets, keep your phone and bag close, don't wander into side streets, and leave before dusk."
-  - q: "What is the best time to visit Caminito?"
-    a: "Mornings are usually calmer, before the tour buses and the lunch-time tango shows. Avoid match days at La Bombonera unless you're going to the game, because the whole neighbourhood fills up."
-  - q: "Why is Caminito so colourful?"
-    a: "La Boca's immigrant port workers traditionally painted their metal-clad tenement houses with leftover paint from the boatyards. In 1959 the painter Benito Quinquela Martín helped turn the street into an open-air museum, named after the 1926 tango song \"Caminito\"."
+  - q: How do I get to Caminito?
+    a: >-
+      Caminito is in La Boca, in the south of Buenos Aires. No Subte line goes
+      there, so take a colectivo (you need a SUBE card) or a taxi or app ride.
+      Ask to be dropped at Vuelta de Rocha on the river, at the start of the
+      street. The city's BA Cómo Llego app shows the current bus routes.
+  - q: How long should I spend at Caminito?
+    a: >-
+      The street itself takes under an hour, including photos. Allow two to
+      three hours if you add the Museo Benito Quinquela Martín or a tour of La
+      Bombonera stadium.
+  - q: Is Caminito safe to visit?
+    a: >-
+      The blocks around Caminito are busy and patrolled during the day. Stay on
+      the main tourist streets, keep your phone and bag close, don't wander into
+      side streets, and leave before dusk.
+  - q: What is the best time to visit Caminito?
+    a: >-
+      Mornings are usually calmer, before the tour buses and the lunch-time
+      tango shows. Avoid match days at La Bombonera unless you're going to the
+      game, because the whole neighbourhood fills up.
+  - q: Why is Caminito so colourful?
+    a: >-
+      La Boca's immigrant port workers traditionally painted their metal-clad
+      tenement houses with leftover paint from the boatyards. In 1959 the
+      painter Benito Quinquela Martín helped turn the street into an open-air
+      museum, named after the 1926 tango song "Caminito".
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-25'
 ---
 
 ## A street painted like a ship

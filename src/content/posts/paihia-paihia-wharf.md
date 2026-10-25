@@ -1,59 +1,90 @@
 ---
-title: "Paihia Wharf: Travel Guide (4.6★)"
-description: "Paihia Wharf is the main boat departure point in Paihia, Bay of Islands: passenger ferries to Russell and most Hole in the Rock, dolphin and island cruises leave from here. 4.6★ (2,609 reviews) — what visitors say, hours, and tips."
-country: "New Zealand"
-region: "Paihia"
-category: "attraction"
-pubDate: "2026-10-20T14:47:25.868Z"
+title: 'Paihia Wharf: Travel Guide (4.6★)'
+description: >-
+  Paihia Wharf is the main boat departure point in Paihia, Bay of Islands:
+  passenger ferries to Russell and most Hole in the Rock, dolphin and island
+  cruises leave from here. 4.6★ (2,611 reviews) — what visitors say, hours, and
+  tips.
+country: New Zealand
+region: Paihia
+category: attraction
+pubDate: '2026-10-20T14:47:25.868Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Paihia_Wharf%2C_2013_%2801%29.jpg/3840px-Paihia_Wharf%2C_2013_%2801%29.jpg"
-  credit: "Photo: Bahnfrend / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Paihia_Wharf,_2013_(01).jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Paihia_Wharf%2C_2013_%2801%29.jpg/3840px-Paihia_Wharf%2C_2013_%2801%29.jpg
+  credit: 'Photo: Bahnfrend / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Paihia_Wharf,_2013_(01).jpg'
+  via: act
   focus:
     x: 30
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Paihia_wharf.jpg/3840px-Paihia_wharf.jpg"
-    credit: "Photo: Pseudopanax at English Wikipedia / Wikimedia Commons (Public domain)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Paihia_wharf.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Paihia_wharf.jpg/3840px-Paihia_wharf.jpg
+    credit: >-
+      Photo: Pseudopanax at English Wikipedia / Wikimedia Commons (Public
+      domain)
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Paihia_wharf.jpg'
 place:
-  id: "ChIJkzw9RtC6C20RmX8DUf1ea-Y"
-  name: "Paihia Wharf"
-  address: "Bay Of Islands, Paihia 0200, New Zealand"
+  id: ChIJkzw9RtC6C20RmX8DUf1ea-Y
+  name: Paihia Wharf
+  address: 'Bay Of Islands, Paihia 0200, New Zealand'
   rating: 4.6
-  userRatingsTotal: 2609
-  googleMapsUrl: "https://maps.google.com/?cid=16603468893310386073&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2611
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16603468893310386073&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -35.281049599999996
   lng: 174.0926596
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "paihia"
-  - "top attraction"
-quickAnswer: "Paihia Wharf is the main boat departure point in Paihia, Bay of Islands: passenger ferries to Russell and most Hole in the Rock, dolphin and island cruises leave from here. Currently it shows as open 24 hours, but each sailing runs to its own operator's timetable. Book a seat ahead in summer and be at the pier before boarding time."
+  - paihia
+  - top attraction
+quickAnswer: >-
+  Paihia Wharf is the main boat departure point in Paihia, Bay of Islands:
+  passenger ferries to Russell and most Hole in the Rock, dolphin and island
+  cruises leave from here. Currently it shows as open 24 hours, but each sailing
+  runs to its own operator's timetable. Book a seat ahead in summer and be at
+  the pier before boarding time.
 faq:
-  - q: "How do I get from Paihia Wharf to Russell?"
-    a: "Take the passenger ferry from the wharf. The crossing takes only a few minutes and lands on The Strand in Russell. If you're bringing a car, use the vehicle ferry from Opua to Okiato instead."
-  - q: "Which tours leave from Paihia Wharf?"
-    a: "Most of the main Bay of Islands trips: Hole in the Rock cruises to Cape Brett, dolphin-watching trips, ferries and cruises to Urupukapuka Island, sailing and fishing charters, and water taxis. Book at the shore-end offices, at the i-SITE on Marsden Road, or online."
-  - q: "Is there parking at Paihia Wharf?"
-    a: "There is street parking along Marsden Road and nearby, but it fills up in peak summer. If you're staying in central Paihia, walking to the wharf is easier."
-  - q: "How long should I allow?"
-    a: "A walk out along the pier takes 15–20 minutes. Allow a half day for a Hole in the Rock or dolphin cruise, or a full day if you add an island stop on Urupukapuka."
-  - q: "What is near Paihia Wharf?"
-    a: "The Bay of Islands i-SITE is right by the wharf. The Waitangi Treaty Grounds are about 2 km north along the waterfront, and Russell is a short ferry ride across the bay."
+  - q: How do I get from Paihia Wharf to Russell?
+    a: >-
+      Take the passenger ferry from the wharf. The crossing takes only a few
+      minutes and lands on The Strand in Russell. If you're bringing a car, use
+      the vehicle ferry from Opua to Okiato instead.
+  - q: Which tours leave from Paihia Wharf?
+    a: >-
+      Most of the main Bay of Islands trips: Hole in the Rock cruises to Cape
+      Brett, dolphin-watching trips, ferries and cruises to Urupukapuka Island,
+      sailing and fishing charters, and water taxis. Book at the shore-end
+      offices, at the i-SITE on Marsden Road, or online.
+  - q: Is there parking at Paihia Wharf?
+    a: >-
+      There is street parking along Marsden Road and nearby, but it fills up in
+      peak summer. If you're staying in central Paihia, walking to the wharf is
+      easier.
+  - q: How long should I allow?
+    a: >-
+      A walk out along the pier takes 15–20 minutes. Allow a half day for a Hole
+      in the Rock or dolphin cruise, or a full day if you add an island stop on
+      Urupukapuka.
+  - q: What is near Paihia Wharf?
+    a: >-
+      The Bay of Islands i-SITE is right by the wharf. The Waitangi Treaty
+      Grounds are about 2 km north along the waterfront, and Russell is a short
+      ferry ride across the bay.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-25'
 ---
 
 Out on the planks, the boats line up along both sides. Catamarans with tour company names on their hulls, the smaller Russell passenger ferry, water taxis tied up between them. Paihia Wharf is less a sight than the Bay of Islands' front door. Nearly every trip onto the water starts with a walk down this pier.

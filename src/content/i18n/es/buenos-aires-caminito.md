@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: buenos-aires-caminito
-srcHash: 'bb1563d058c3'
+srcHash: '049b9221688e'
 title: 'Caminito: guía de viaje de Buenos Aires (4.5★)'
-description: En pleno barrio de La Boca, en Buenos Aires, Caminito es una breve calle peatonal de colores vivos que debe su nombre al tango de 1926 y funciona como museo a cielo abierto desde 1959. Con una valoración de 4.5★ (6,397 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
+description: En pleno barrio de La Boca, en Buenos Aires, Caminito es una breve calle peatonal de colores vivos que debe su nombre al tango de 1926 y funciona como museo a cielo abierto desde 1959. Con una valoración de 4.5★ (6,398 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
 quickAnswer: En pleno barrio de La Boca, en Buenos Aires, Caminito es una breve calle peatonal de colores vivos que debe su nombre al tango de 1926 y se conserva como museo a cielo abierto desde 1959. Bastan una o dos horas para recorrerla. Conviene sumar a la visita el Museo Benito Quinquela Martín o el estadio de La Bombonera, ambos a pocas cuadras, y abandonar la zona turística antes de que anochezca.
 faq:
   - q: ¿Cómo se llega a Caminito?

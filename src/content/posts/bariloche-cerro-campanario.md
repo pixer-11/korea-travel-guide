@@ -1,51 +1,84 @@
 ---
-title: "Cerro Campanario: Bariloche Travel Guide (4.9★)"
-description: "Cerro Campanario rises beside Avenida Ezequiel Bustillo at km 17.5, about 17 km west of central San Carlos de Bariloche. 4.9★ (1,590 reviews) — what visitors say, hours, and tips."
-country: "Argentina"
-region: "Bariloche"
-category: "attraction"
-pubDate: "2026-10-25T13:01:00.747Z"
+title: 'Cerro Campanario: Bariloche Travel Guide (4.9★)'
+description: >-
+  Cerro Campanario rises beside Avenida Ezequiel Bustillo at km 17.5, about 17
+  km west of central San Carlos de Bariloche. 4.9★ (1,591 reviews) — what
+  visitors say, hours, and tips.
+country: Argentina
+region: Bariloche
+category: attraction
+pubDate: '2026-10-25T13:01:00.747Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/1/1d/Cerro_Campanario_Bariloche_Argentina_-_panoramio.jpg"
-  credit: "Photo: Hiroki Ogawa / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Cerro_Campanario_Bariloche_Argentina_-_panoramio.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/1/1d/Cerro_Campanario_Bariloche_Argentina_-_panoramio.jpg
+  credit: 'Photo: Hiroki Ogawa / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Cerro_Campanario_Bariloche_Argentina_-_panoramio.jpg
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/7/72/Cerro_Campanario_Bariloche_Argentina_-_panoramio_%283%29.jpg"
-    credit: "Photo: Hiroki Ogawa / Wikimedia Commons (CC BY 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Cerro_Campanario_Bariloche_Argentina_-_panoramio_(3).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/7/72/Cerro_Campanario_Bariloche_Argentina_-_panoramio_%283%29.jpg
+    credit: 'Photo: Hiroki Ogawa / Wikimedia Commons (CC BY 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Cerro_Campanario_Bariloche_Argentina_-_panoramio_(3).jpg
 place:
-  id: "ChIJZ1PVAgB3GpYRas8rRrek0Qg"
-  name: "Cerro Campanario"
-  address: "Confitería Cerro Campanario, Av. Ezequiel Bustillo 17500, R8400 San Carlos de Bariloche, Río Negro, Argentina"
+  id: ChIJZ1PVAgB3GpYRas8rRrek0Qg
+  name: Cerro Campanario
+  address: >-
+    Confitería Cerro Campanario, Av. Ezequiel Bustillo 17500, R8400 San Carlos
+    de Bariloche, Río Negro, Argentina
   rating: 4.9
-  userRatingsTotal: 1590
-  googleMapsUrl: "https://maps.google.com/?cid=635470129499197290&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1591
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=635470129499197290&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -41.075317899999995
   lng: -71.47696859999999
 tags:
-  - "bariloche"
-  - "top attraction"
-quickAnswer: "Cerro Campanario rises beside Avenida Ezequiel Bustillo at km 17.5, about 17 km west of central San Carlos de Bariloche. You reach the summit by chairlift or a short, steep footpath, and the 360-degree view takes in Lago Nahuel Huapi, Lago Perito Moreno and the Llao Llao peninsula. Give it 1.5–2 hours, go on a clear day, and check the official site for the chairlift's current hours before you set out."
+  - bariloche
+  - top attraction
+quickAnswer: >-
+  Cerro Campanario rises beside Avenida Ezequiel Bustillo at km 17.5, about 17
+  km west of central San Carlos de Bariloche. You reach the summit by chairlift
+  or a short, steep footpath, and the 360-degree view takes in Lago Nahuel
+  Huapi, Lago Perito Moreno and the Llao Llao peninsula. Give it 1.5–2 hours, go
+  on a clear day, and check the official site for the chairlift's current hours
+  before you set out.
 faq:
-  - q: "How do I get to Cerro Campanario from downtown Bariloche?"
-    a: "Take city bus line 20 west along Avenida Ezequiel Bustillo and get off at km 17.5, where the chairlift base sits beside the road. You need a loaded SUBE card for the bus. A taxi or your own car also works, and there is parking at the base."
-  - q: "Can I hike up instead of taking the chairlift?"
-    a: "Yes. A steep path climbs beside the lift and most fit walkers reach the top in 30–40 minutes. Good shoes help, because the surface is loose and can be slippery after rain or snow."
-  - q: "How long should I plan for a visit?"
-    a: "Allow 1.5–2 hours for the ride up, time on the viewing platform, a drink at the summit confitería and the ride down. Add more time if you walk up."
-  - q: "What is the best time to go?"
-    a: "Go on a clear day, because low cloud can hide the whole panorama. Setting off early usually puts you ahead of the Circuito Chico tour vans. Chairlift hours change with the season, so check the official site for this month's schedule."
-  - q: "What else is nearby?"
-    a: "Cerro Campanario is the first major stop on Circuito Chico. From the base you can continue to Hotel Llao Llao, Capilla San Eduardo, Puerto Pañuelo for Isla Victoria boats, Punto Panorámico and Colonia Suiza."
+  - q: How do I get to Cerro Campanario from downtown Bariloche?
+    a: >-
+      Take city bus line 20 west along Avenida Ezequiel Bustillo and get off at
+      km 17.5, where the chairlift base sits beside the road. You need a loaded
+      SUBE card for the bus. A taxi or your own car also works, and there is
+      parking at the base.
+  - q: Can I hike up instead of taking the chairlift?
+    a: >-
+      Yes. A steep path climbs beside the lift and most fit walkers reach the
+      top in 30–40 minutes. Good shoes help, because the surface is loose and
+      can be slippery after rain or snow.
+  - q: How long should I plan for a visit?
+    a: >-
+      Allow 1.5–2 hours for the ride up, time on the viewing platform, a drink
+      at the summit confitería and the ride down. Add more time if you walk up.
+  - q: What is the best time to go?
+    a: >-
+      Go on a clear day, because low cloud can hide the whole panorama. Setting
+      off early usually puts you ahead of the Circuito Chico tour vans.
+      Chairlift hours change with the season, so check the official site for
+      this month's schedule.
+  - q: What else is nearby?
+    a: >-
+      Cerro Campanario is the first major stop on Circuito Chico. From the base
+      you can continue to Hotel Llao Llao, Capilla San Eduardo, Puerto Pañuelo
+      for Isla Victoria boats, Punto Panorámico and Colonia Suiza.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-25'
 ---
 
 ## A summit that takes seven minutes

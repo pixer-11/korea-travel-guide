@@ -1,9 +1,9 @@
 ---
 lang: ko
 slug: buenos-aires-obelisk
-srcHash: '5f2b444b5740'
+srcHash: '46176f3732ad'
 title: '오벨리스크: 부에노스아이레스 여행 가이드 (4.6★)'
-description: 오벨리스크(el Obelisco)는 부에노스아이레스 산니콜라스(San Nicolás) 지구의 공화국 광장(Plaza de la República)에 있으며, 7월 9일 대로와 코리엔테스 대로가 만나는 곳에 서 있습니다. 평점 4.6★(리뷰 186,994개)를 받은 명소로, 방문객 후기와 운영 시간, 여행 팁을 한데 모았습니다.
+description: 오벨리스크(el Obelisco)는 부에노스아이레스 산니콜라스(San Nicolás) 지구의 공화국 광장(Plaza de la República)에 있으며, 7월 9일 대로와 코리엔테스 대로가 만나는 곳에 서 있습니다. 평점 4.6★(리뷰 187,019개)를 받은 명소로, 방문객 후기와 운영 시간, 여행 팁을 한데 모았습니다.
 quickAnswer: 오벨리스크(el Obelisco)는 부에노스아이레스 산니콜라스(San Nicolás) 지구의 공화국 광장(Plaza de la República)에 있습니다. 7월 9일 대로(Avenida 9 de Julio)와 코리엔테스 대로(Avenida Corrientes)가 교차하는 지점입니다. 야외 기념비라서 시간에 상관없이 언제든 볼 수 있고, 바로 아래에 수브테(지하철) B·C·D선 세 노선이 정차합니다. 오벨리스크만 둘러본다면 20–30분이면 충분합니다. 코리엔테스 대로의 극장가와 피자집을 구경하거나 콜론 극장까지 걸어가는 산책의 출발점으로 삼아도 좋습니다.
 faq:
   - q: 지하철로 오벨리스크에 가려면 어떻게 해야 하나요?

@@ -1,51 +1,87 @@
 ---
-title: "Obelisk: Buenos Aires Travel Guide (4.6★)"
-description: "The Obelisk (el Obelisco) stands in Buenos Aires' San Nicolás district, at the crossing of Avenida 9 de Julio and Avenida Corrientes on Plaza de la República. 4.6★ (186,994 reviews) — what visitors say, hours, and tips."
-country: "Argentina"
-region: "Buenos Aires"
-category: "attraction"
-pubDate: "2026-10-25T13:01:02.816Z"
+title: 'Obelisk: Buenos Aires Travel Guide (4.6★)'
+description: >-
+  The Obelisk (el Obelisco) stands in Buenos Aires' San Nicolás district, at the
+  crossing of Avenida 9 de Julio and Avenida Corrientes on Plaza de la
+  República. 4.6★ (187,019 reviews) — what visitors say, hours, and tips.
+country: Argentina
+region: Buenos Aires
+category: attraction
+pubDate: '2026-10-25T13:01:02.816Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Obelisk_of_Buenos_Aires_%28Obelisco_de_Buenos_Aires_-_Buenos_Aires_Argentina_%285269820034%29.jpg/3840px-Obelisk_of_Buenos_Aires_%28Obelisco_de_Buenos_Aires_-_Buenos_Aires_Argentina_%285269820034%29.jpg"
-  credit: "Photo: David Berkowitz from New York, NY, USA / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Obelisk_of_Buenos_Aires_(Obelisco_de_Buenos_Aires_-_Buenos_Aires_Argentina_(5269820034).jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Obelisk_of_Buenos_Aires_%28Obelisco_de_Buenos_Aires_-_Buenos_Aires_Argentina_%285269820034%29.jpg/3840px-Obelisk_of_Buenos_Aires_%28Obelisco_de_Buenos_Aires_-_Buenos_Aires_Argentina_%285269820034%29.jpg
+  credit: >-
+    Photo: David Berkowitz from New York, NY, USA / Wikimedia Commons (CC BY
+    2.0)
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Obelisk_of_Buenos_Aires_(Obelisco_de_Buenos_Aires_-_Buenos_Aires_Argentina_(5269820034).jpg
+  via: act
   focus:
     x: 48
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Obelisk_of_Buenos_Aires_%28Obelisco_de_Buenos_Aires_-_Buenos_Aires_Argentina_%285269210617%29.jpg/3840px-Obelisk_of_Buenos_Aires_%28Obelisco_de_Buenos_Aires_-_Buenos_Aires_Argentina_%285269210617%29.jpg"
-    credit: "Photo: David Berkowitz from New York, NY, USA / Wikimedia Commons (CC BY 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Obelisk_of_Buenos_Aires_(Obelisco_de_Buenos_Aires_-_Buenos_Aires_Argentina_(5269210617).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Obelisk_of_Buenos_Aires_%28Obelisco_de_Buenos_Aires_-_Buenos_Aires_Argentina_%285269210617%29.jpg/3840px-Obelisk_of_Buenos_Aires_%28Obelisco_de_Buenos_Aires_-_Buenos_Aires_Argentina_%285269210617%29.jpg
+    credit: >-
+      Photo: David Berkowitz from New York, NY, USA / Wikimedia Commons (CC BY
+      2.0)
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Obelisk_of_Buenos_Aires_(Obelisco_de_Buenos_Aires_-_Buenos_Aires_Argentina_(5269210617).jpg
 place:
-  id: "ChIJ217apvCpSgARi1VOI06tvhE"
-  name: "Obelisk"
-  address: "Av. Corrientes, C1010 Cdad. Autónoma de Buenos Aires, Argentina"
+  id: ChIJ217apvCpSgARi1VOI06tvhE
+  name: Obelisk
+  address: 'Av. Corrientes, C1010 Cdad. Autónoma de Buenos Aires, Argentina'
   rating: 4.6
-  userRatingsTotal: 186994
-  googleMapsUrl: "https://maps.google.com/?cid=1278649895331190155&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 187019
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1278649895331190155&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -34.6037014
   lng: -58.3816048
 tags:
-  - "buenos aires"
-  - "top attraction"
-quickAnswer: "The Obelisk (el Obelisco) stands in Buenos Aires' San Nicolás district, at the crossing of Avenida 9 de Julio and Avenida Corrientes on Plaza de la República. It is an open-air monument, so you can see it at any hour, and three subte lines stop directly underneath it (B, C and D). Give it 20–30 minutes on its own, or use it as the starting point for Corrientes' theatres and pizzerias and a walk down to Teatro Colón."
+  - buenos aires
+  - top attraction
+quickAnswer: >-
+  The Obelisk (el Obelisco) stands in Buenos Aires' San Nicolás district, at the
+  crossing of Avenida 9 de Julio and Avenida Corrientes on Plaza de la
+  República. It is an open-air monument, so you can see it at any hour, and
+  three subte lines stop directly underneath it (B, C and D). Give it 20–30
+  minutes on its own, or use it as the starting point for Corrientes' theatres
+  and pizzerias and a walk down to Teatro Colón.
 faq:
-  - q: "How do I get to the Obelisk by subway?"
-    a: "Three subte lines stop underneath it: Line B at Carlos Pellegrini, Line C at Diagonal Norte and Line D at 9 de Julio. The stations connect underground, and you pay with a SUBE card."
-  - q: "Can you go inside the Obelisk?"
-    a: "Not normally. The interior is generally closed to the public, so plan to see it from outside: from the plaza, the medians and the avenues that lead to it."
-  - q: "How long should I spend at the Obelisk?"
-    a: "About 20–30 minutes covers photos and the inscriptions around the base. Most visitors combine it with Corrientes' theatres and pizzerias, Teatro Colón a few blocks north, or a walk down Diagonal Norte to Plaza de Mayo."
-  - q: "What is the best time to see the Obelisk?"
-    a: "Early morning gives you the clearest photos with the fewest people. After dark it is lit up, and the Corrientes theatre signs make the busiest scene. On days of big football wins or large marches, expect huge crowds and road closures."
-  - q: "Why was the Obelisk built?"
-    a: "It went up in 1936 to mark 400 years since Pedro de Mendoza first founded Buenos Aires. It stands where the church of San Nicolás de Bari once stood, the site where the Argentine flag was first raised in the city in 1812."
+  - q: How do I get to the Obelisk by subway?
+    a: >-
+      Three subte lines stop underneath it: Line B at Carlos Pellegrini, Line C
+      at Diagonal Norte and Line D at 9 de Julio. The stations connect
+      underground, and you pay with a SUBE card.
+  - q: Can you go inside the Obelisk?
+    a: >-
+      Not normally. The interior is generally closed to the public, so plan to
+      see it from outside: from the plaza, the medians and the avenues that lead
+      to it.
+  - q: How long should I spend at the Obelisk?
+    a: >-
+      About 20–30 minutes covers photos and the inscriptions around the base.
+      Most visitors combine it with Corrientes' theatres and pizzerias, Teatro
+      Colón a few blocks north, or a walk down Diagonal Norte to Plaza de Mayo.
+  - q: What is the best time to see the Obelisk?
+    a: >-
+      Early morning gives you the clearest photos with the fewest people. After
+      dark it is lit up, and the Corrientes theatre signs make the busiest
+      scene. On days of big football wins or large marches, expect huge crowds
+      and road closures.
+  - q: Why was the Obelisk built?
+    a: >-
+      It went up in 1936 to mark 400 years since Pedro de Mendoza first founded
+      Buenos Aires. It stands where the church of San Nicolás de Bari once
+      stood, the site where the Argentine flag was first raised in the city in
+      1812.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-25'
 ---
 
 ## A white needle between the traffic

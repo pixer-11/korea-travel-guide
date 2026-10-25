@@ -1,59 +1,87 @@
 ---
-title: "Plaza Independencia: Mendoza Travel Guide (4.5★)"
-description: "Plaza Independencia is the four-block central square of downtown Mendoza, at Gral. Espejo 300, with shade trees, a semicircular fountain and street vendors. 4.5★ (79,356 reviews) — what visitors say, hours, and tips."
-country: "Argentina"
-region: "Mendoza"
-category: "attraction"
-pubDate: "2026-10-25T13:00:57.636Z"
+title: 'Plaza Independencia: Mendoza Travel Guide (4.5★)'
+description: >-
+  Plaza Independencia is the four-block central square of downtown Mendoza, at
+  Gral. Espejo 300, with shade trees, a semicircular fountain and street
+  vendors. 4.5★ (79,361 reviews) — what visitors say, hours, and tips.
+country: Argentina
+region: Mendoza
+category: attraction
+pubDate: '2026-10-25T13:00:57.636Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/2/2a/ALTURA_Argentina_Wine_Tourism_-_Mendoza%2C_Plaza_Independencia_-_panoramio.jpg"
-  credit: "Photo: ArgentinaWineTourism… / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:ALTURA_Argentina_Wine_Tourism_-_Mendoza,_Plaza_Independencia_-_panoramio.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/2/2a/ALTURA_Argentina_Wine_Tourism_-_Mendoza%2C_Plaza_Independencia_-_panoramio.jpg
+  credit: 'Photo: ArgentinaWineTourism… / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:ALTURA_Argentina_Wine_Tourism_-_Mendoza,_Plaza_Independencia_-_panoramio.jpg
+  via: act
   focus:
     x: 50
-    y: 47
+    'y': 47
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/5/5d/Agua_Azul_en_la_plaza_Independencia_-_panoramio.jpg"
-    credit: "Photo: HoracioGarro / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Agua_Azul_en_la_plaza_Independencia_-_panoramio.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/5/5d/Agua_Azul_en_la_plaza_Independencia_-_panoramio.jpg
+    credit: 'Photo: HoracioGarro / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Agua_Azul_en_la_plaza_Independencia_-_panoramio.jpg
 place:
-  id: "ChIJSzL2swcJfpYRIfuNlSEVHVA"
-  name: "Plaza Independencia"
-  address: "Gral. Espejo 300, M5502 AVJ, Mendoza, Argentina"
+  id: ChIJSzL2swcJfpYRIfuNlSEVHVA
+  name: Plaza Independencia
+  address: 'Gral. Espejo 300, M5502 AVJ, Mendoza, Argentina'
   rating: 4.5
-  userRatingsTotal: 79356
-  googleMapsUrl: "https://maps.google.com/?cid=5772793531346058017&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 79361
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5772793531346058017&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -32.8895571
   lng: -68.8448326
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "mendoza"
-  - "top attraction"
-quickAnswer: "Plaza Independencia is the four-block central square of downtown Mendoza, at Gral. Espejo 300, with shade trees, a semicircular fountain and street vendors. It's currently listed as open 24 hours. Give it 45 minutes to an hour, longer if the weekend craft stalls are out, and use it as the starting point for walking to the four smaller plazas around it."
+  - mendoza
+  - top attraction
+quickAnswer: >-
+  Plaza Independencia is the four-block central square of downtown Mendoza, at
+  Gral. Espejo 300, with shade trees, a semicircular fountain and street
+  vendors. It's currently listed as open 24 hours. Give it 45 minutes to an
+  hour, longer if the weekend craft stalls are out, and use it as the starting
+  point for walking to the four smaller plazas around it.
 faq:
-  - q: "Where exactly is Plaza Independencia in Mendoza?"
-    a: "It's in the centre of downtown Mendoza at Gral. Espejo 300, filling four blocks between Chile, Rivadavia, Patricias Mendocinas and Espejo. Paseo Sarmiento runs east from it toward Avenida San Martín."
-  - q: "Is Plaza Independencia open at night?"
-    a: "It's currently listed as open 24 hours, and it's busiest in the evening when the heat drops. The museum under the plaza and the theatre keep their own hours, so check those separately."
-  - q: "How long should I spend there?"
-    a: "Allow 45 minutes to an hour for the square itself. Plan one to two hours if you add the walk to Plaza España, Plaza Italia, Plaza Chile and Plaza San Martín."
-  - q: "When is the craft market on?"
-    a: "The artisan stalls set up mainly at weekends along the plaza's paths. During the week you'll still find some vendors around the fountain."
-  - q: "What's nearby?"
-    a: "Teatro Independencia and the Park Hyatt (the former Plaza Hotel) face the square, and the Museo Municipal de Arte Moderno is underneath it. The pedestrian cafés of Paseo Sarmiento start at the east edge."
+  - q: Where exactly is Plaza Independencia in Mendoza?
+    a: >-
+      It's in the centre of downtown Mendoza at Gral. Espejo 300, filling four
+      blocks between Chile, Rivadavia, Patricias Mendocinas and Espejo. Paseo
+      Sarmiento runs east from it toward Avenida San Martín.
+  - q: Is Plaza Independencia open at night?
+    a: >-
+      It's currently listed as open 24 hours, and it's busiest in the evening
+      when the heat drops. The museum under the plaza and the theatre keep their
+      own hours, so check those separately.
+  - q: How long should I spend there?
+    a: >-
+      Allow 45 minutes to an hour for the square itself. Plan one to two hours
+      if you add the walk to Plaza España, Plaza Italia, Plaza Chile and Plaza
+      San Martín.
+  - q: When is the craft market on?
+    a: >-
+      The artisan stalls set up mainly at weekends along the plaza's paths.
+      During the week you'll still find some vendors around the fountain.
+  - q: What's nearby?
+    a: >-
+      Teatro Independencia and the Park Hyatt (the former Plaza Hotel) face the
+      square, and the Museo Municipal de Arte Moderno is underneath it. The
+      pedestrian cafés of Paseo Sarmiento start at the east edge.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-25'
 ---
 
 ## A city rebuilt around one square

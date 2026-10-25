@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: mendoza-cerro-de-la-gloria
-srcHash: 'c65ee7dc2aa3'
+srcHash: 'b1c5126b1dee'
 title: 'Cerro de la Gloria: guía de viaje de Mendoza (4.7★)'
-description: En el límite oeste de la ciudad de Mendoza, dentro del Parque General San Martín, se alza el Cerro de la Gloria, coronado por el Monumento al Ejército de los Andes, de bronce. Con una valoración de 4.7★ (3,049 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
+description: En el límite oeste de la ciudad de Mendoza, dentro del Parque General San Martín, se alza el Cerro de la Gloria, coronado por el Monumento al Ejército de los Andes, de bronce. Con una valoración de 4.7★ (3,051 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
 quickAnswer: En el límite oeste de la ciudad de Mendoza, dentro del Parque General San Martín, se alza el Cerro de la Gloria, en cuya cima se levanta el Monumento al Ejército de los Andes, de bronce. Se puede subir en taxi, en bus turístico, en bicicleta o a pie, con una larga caminata cuesta arriba por el parque. Conviene ir una mañana despejada, ya que es entonces cuando hay más posibilidades de ver la cordillera detrás de las esculturas.
 faq:
   - q: ¿Cómo se llega al Cerro de la Gloria desde el centro de Mendoza?

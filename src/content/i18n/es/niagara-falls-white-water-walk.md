@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: niagara-falls-white-water-walk
-srcHash: '848a516e17b6'
+srcHash: 'f5ad3ddf2cb2'
 title: 'White Water Walk: guía de viaje de las cataratas del Niágara (4.6★)'
-description: Gestionado por Niagara Parks, el White Water Walk se encuentra en River Road, en Niagara Falls (Ontario), unos 3 km río abajo de las cataratas Horseshoe. Tiene una valoración de 4.6★ (8,200 reseñas). Aquí encontrará la opinión de los visitantes, el horario y consejos prácticos.
+description: Gestionado por Niagara Parks, el White Water Walk se encuentra en River Road, en Niagara Falls (Ontario), unos 3 km río abajo de las cataratas Horseshoe. Tiene una valoración de 4.6★ (8,208 reseñas). Aquí encontrará la opinión de los visitantes, el horario y consejos prácticos.
 quickAnswer: Gestionado por Niagara Parks, el White Water Walk se encuentra en River Road, en Niagara Falls (Ontario), unos 3 km río abajo de las cataratas Horseshoe. Primero se baja en ascensor y luego se cruza un túnel hasta una pasarela situada en el fondo del desfiladero, junto a los rápidos Whirlpool, de clase 6. Calcule entre 45 y 60 minutos para la visita. El horario actual es de 10am–5pm, aunque cambia según la temporada, así que conviene consultar la web de Niagara Parks antes de ir.
 faq:
   - q: ¿Cómo se llega al White Water Walk desde las cataratas Horseshoe?

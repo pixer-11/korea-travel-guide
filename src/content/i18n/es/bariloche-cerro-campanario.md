@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: bariloche-cerro-campanario
-srcHash: '1124b29531e1'
+srcHash: '63866584fd93'
 title: 'Cerro Campanario: guía de viaje de Bariloche (4.9★)'
-description: El Cerro Campanario se alza junto a la Avenida Ezequiel Bustillo, en el km 17.5, a unos 17 km al oeste del centro de San Carlos de Bariloche. Con 4.9★ (1,590 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
+description: El Cerro Campanario se alza junto a la Avenida Ezequiel Bustillo, en el km 17.5, a unos 17 km al oeste del centro de San Carlos de Bariloche. Con 4.9★ (1,591 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
 quickAnswer: A unos 17 km al oeste del centro de San Carlos de Bariloche, junto a la Avenida Ezequiel Bustillo, en el km 17.5, se alza el Cerro Campanario. A la cumbre se sube en aerosilla o por un sendero corto y empinado. Desde arriba, la vista de 360 grados abarca el Lago Nahuel Huapi, el Lago Perito Moreno y la península Llao Llao. Calcule entre 1.5 y 2 horas, elija un día despejado y, antes de salir, consulte en el sitio oficial el horario vigente de la aerosilla.
 faq:
   - q: ¿Cómo se llega al Cerro Campanario desde el centro de Bariloche?

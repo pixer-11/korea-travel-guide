@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: el-calafate-parque-nacional-los-glaciares
-srcHash: 'ece2ab89ec65'
+srcHash: '954125c34514'
 title: 'Parque Nacional Los Glaciares: guía de viaje desde El Calafate'
-description: A las puertas de El Calafate se extiende el Parque Nacional Los Glaciares, con una valoración de 4.9★ (6,477 reseñas). Opiniones de los visitantes, horarios y consejos prácticos.
+description: A las puertas de El Calafate se extiende el Parque Nacional Los Glaciares, con una valoración de 4.9★ (6,478 reseñas). Opiniones de los visitantes, horarios y consejos prácticos.
 quickAnswer: El Parque Nacional Los Glaciares empieza prácticamente a las puertas de El Calafate. Su atractivo más visitado es el glaciar Perito Moreno, que se encuentra a unos 80 km al oeste de la ciudad por la Ruta Provincial 11. En coche o en autobús se llega en unos 90 minutos. Conviene reservar un día entero para el Perito Moreno y organizar aparte una excursión al norte, hasta El Chaltén, para recorrer los senderos del Fitz Roy. Por ahora, la entrada del parque indica un horario de 8am–6pm, aunque varía según la temporada; consulte la web oficial antes de ir.
 faq:
   - q: ¿Cómo se llega desde El Calafate hasta el glaciar Perito Moreno?

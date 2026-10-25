@@ -1,44 +1,52 @@
 ---
-title: "National Gallery of Canada: Ottawa Travel Guide (4.7★)"
-description: "The National Gallery of Canada stands at 380 Sussex Drive in Ottawa, a short walk from the ByWard Market and Parliament Hill. 4.7★ (10,951 reviews) — what visitors say, hours, and tips."
-country: "Canada"
-region: "Ottawa"
-category: "attraction"
-pubDate: "2026-10-23T13:19:49.999Z"
+title: 'National Gallery of Canada: Ottawa Travel Guide (4.7★)'
+description: >-
+  The National Gallery of Canada stands at 380 Sussex Drive in Ottawa, a short
+  walk from the ByWard Market and Parliament Hill. 4.7★ (10,958 reviews) — what
+  visitors say, hours, and tips.
+country: Canada
+region: Ottawa
+category: attraction
+pubDate: '2026-10-23T13:19:49.999Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Ottawa_-_ON_-_National_Gallery_of_Canada.jpg/1920px-Ottawa_-_ON_-_National_Gallery_of_Canada.jpg"
-  credit: "Photo: – Wladyslaw [Disk.] / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Ottawa_-_ON_-_National_Gallery_of_Canada.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Ottawa_-_ON_-_National_Gallery_of_Canada.jpg/1920px-Ottawa_-_ON_-_National_Gallery_of_Canada.jpg
+  credit: 'Photo: – Wladyslaw [Disk.] / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Ottawa_-_ON_-_National_Gallery_of_Canada.jpg
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/5/59/Nepean_Point_and_National_Gallery_of_Canada.jpg"
-    credit: "Photo: Óðinn / Wikimedia Commons (CC BY-SA 2.5 ca)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Nepean_Point_and_National_Gallery_of_Canada.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/5/59/Nepean_Point_and_National_Gallery_of_Canada.jpg
+    credit: 'Photo: Óðinn / Wikimedia Commons (CC BY-SA 2.5 ca)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Nepean_Point_and_National_Gallery_of_Canada.jpg
 place:
-  id: "ChIJQyDSePwEzkwRtxch6RS79GY"
-  name: "National Gallery of Canada"
-  address: "380 Sussex Dr, Ottawa, ON K1N 9N4, Canada"
+  id: ChIJQyDSePwEzkwRtxch6RS79GY
+  name: National Gallery of Canada
+  address: '380 Sussex Dr, Ottawa, ON K1N 9N4, Canada'
   rating: 4.7
-  userRatingsTotal: 10951
-  googleMapsUrl: "https://maps.google.com/?cid=7418760184671049655&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 10958
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=7418760184671049655&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 45.429535
   lng: -75.6989062
-  phone: "+1 613-990-1985"
+  phone: +1 613-990-1985
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 9:30 AM – 5:00 PM"
-    - "Wednesday: 9:30 AM – 5:00 PM"
-    - "Thursday: 9:30 AM – 8:00 PM"
-    - "Friday: 9:30 AM – 5:00 PM"
-    - "Saturday: 9:30 AM – 5:00 PM"
-    - "Sunday: 9:30 AM – 5:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 9:30 AM – 5:00 PM'
+    - 'Wednesday: 9:30 AM – 5:00 PM'
+    - 'Thursday: 9:30 AM – 8:00 PM'
+    - 'Friday: 9:30 AM – 5:00 PM'
+    - 'Saturday: 9:30 AM – 5:00 PM'
+    - 'Sunday: 9:30 AM – 5:00 PM'
   busyness:
-    updated: 2026-10-23
+    updated: 2026-10-23T00:00:00.000Z
     weekdayQuiet:
       - 17
     weekendQuiet:
@@ -47,24 +55,45 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_594739375352366863787452776b7a45775065534479514a496843"
+    venueId: ven_594739375352366863787452776b7a45775065534479514a496843
 tags:
-  - "ottawa"
-  - "National Gallery of Canada"
-quickAnswer: "The National Gallery of Canada stands at 380 Sussex Drive in Ottawa, a short walk from the ByWard Market and Parliament Hill. It is currently open Tuesday to Sunday from 9:30am, closed Mondays, and stays open until 8pm on Thursdays. The calmest times are Saturday or Sunday 10am–11am, or Thursday after 5pm; weekends from 1pm–4pm are the busiest."
+  - ottawa
+  - National Gallery of Canada
+quickAnswer: >-
+  The National Gallery of Canada stands at 380 Sussex Drive in Ottawa, a short
+  walk from the ByWard Market and Parliament Hill. It is currently open Tuesday
+  to Sunday from 9:30am, closed Mondays, and stays open until 8pm on Thursdays.
+  The calmest times are Saturday or Sunday 10am–11am, or Thursday after 5pm;
+  weekends from 1pm–4pm are the busiest.
 faq:
-  - q: "When is the quietest time to visit the National Gallery of Canada?"
-    a: "On weekends it's calmest 10am–11am. On weekdays the quietest hour is 5pm–6pm, which only works on Thursdays, when the gallery stays open until 8pm. Avoid weekends between 1pm and 4pm, the busiest stretch."
-  - q: "Is the National Gallery of Canada open on Mondays?"
-    a: "No. It is currently closed Mondays and opens 9:30am Tuesday to Sunday. It closes at 5pm on most days and 8pm on Thursdays. Hours can change around holidays, so check the official site first."
-  - q: "How do I get to the National Gallery by public transit?"
-    a: "Take O-Train Line 1 (Confederation Line) to Rideau Station, then walk about 10–15 minutes north through the ByWard Market to 380 Sussex Drive."
-  - q: "How long should I spend at the gallery?"
-    a: "Allow two to three hours to see the Canadian and Indigenous galleries, the international collection and the Rideau Chapel. Add more time for a major temporary exhibition or a stop at one of the two cafés."
-  - q: "What is there to see nearby?"
-    a: "Directly nearby: the Notre-Dame Cathedral Basilica across Sussex Drive, the Royal Canadian Mint next door, Nepean Point and Major's Hill Park behind the gallery, and the ByWard Market a few minutes' walk south. Parliament Hill is under 20 minutes on foot."
+  - q: When is the quietest time to visit the National Gallery of Canada?
+    a: >-
+      On weekends it's calmest 10am–11am. On weekdays the quietest hour is
+      5pm–6pm, which only works on Thursdays, when the gallery stays open until
+      8pm. Avoid weekends between 1pm and 4pm, the busiest stretch.
+  - q: Is the National Gallery of Canada open on Mondays?
+    a: >-
+      No. It is currently closed Mondays and opens 9:30am Tuesday to Sunday. It
+      closes at 5pm on most days and 8pm on Thursdays. Hours can change around
+      holidays, so check the official site first.
+  - q: How do I get to the National Gallery by public transit?
+    a: >-
+      Take O-Train Line 1 (Confederation Line) to Rideau Station, then walk
+      about 10–15 minutes north through the ByWard Market to 380 Sussex Drive.
+  - q: How long should I spend at the gallery?
+    a: >-
+      Allow two to three hours to see the Canadian and Indigenous galleries, the
+      international collection and the Rideau Chapel. Add more time for a major
+      temporary exhibition or a stop at one of the two cafés.
+  - q: What is there to see nearby?
+    a: >-
+      Directly nearby: the Notre-Dame Cathedral Basilica across Sussex Drive,
+      the Royal Canadian Mint next door, Nepean Point and Major's Hill Park
+      behind the gallery, and the ByWard Market a few minutes' walk south.
+      Parliament Hill is under 20 minutes on foot.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-25'
 ---
 
 ## Glass, Granite and a Long Ramp

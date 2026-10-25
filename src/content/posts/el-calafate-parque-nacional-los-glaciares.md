@@ -1,60 +1,87 @@
 ---
-title: "Parque Nacional Los Glaciares: El Calafate Travel Guide"
-description: "Parque Nacional Los Glaciares is the national park on El Calafate's doorstep. 4.9★ (6,477 reviews) — what visitors say, hours, and tips."
-country: "Argentina"
-region: "El Calafate"
-category: "attraction"
-pubDate: "2026-10-25T13:01:06.947Z"
+title: 'Parque Nacional Los Glaciares: El Calafate Travel Guide'
+description: >-
+  Parque Nacional Los Glaciares is the national park on El Calafate's doorstep.
+  4.9★ (6,478 reviews) — what visitors say, hours, and tips.
+country: Argentina
+region: El Calafate
+category: attraction
+pubDate: '2026-10-25T13:01:06.947Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Parque_Nacional_Los_Glaciares.jpg/3840px-Parque_Nacional_Los_Glaciares.jpg"
-  credit: "Photo: Thomas.mazzarulli / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Parque_Nacional_Los_Glaciares.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Parque_Nacional_Los_Glaciares.jpg/3840px-Parque_Nacional_Los_Glaciares.jpg
+  credit: 'Photo: Thomas.mazzarulli / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Parque_Nacional_Los_Glaciares.jpg'
+  via: act
   focus:
     x: 50
-    y: 55
+    'y': 55
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Parque_Nacional_Los_Glaciares_-_In_Explore_04-21-2015_-_Flickr_-_Doug_Scortegagna.jpg/3840px-Parque_Nacional_Los_Glaciares_-_In_Explore_04-21-2015_-_Flickr_-_Doug_Scortegagna.jpg"
-    credit: "Photo: Douglas Scortegagna from Flores da Cunha, Brasil / Wikimedia Commons (CC BY 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Parque_Nacional_Los_Glaciares_-_In_Explore_04-21-2015_-_Flickr_-_Doug_Scortegagna.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Parque_Nacional_Los_Glaciares_-_In_Explore_04-21-2015_-_Flickr_-_Doug_Scortegagna.jpg/3840px-Parque_Nacional_Los_Glaciares_-_In_Explore_04-21-2015_-_Flickr_-_Doug_Scortegagna.jpg
+    credit: >-
+      Photo: Douglas Scortegagna from Flores da Cunha, Brasil / Wikimedia
+      Commons (CC BY 2.0)
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Parque_Nacional_Los_Glaciares_-_In_Explore_04-21-2015_-_Flickr_-_Doug_Scortegagna.jpg
 place:
-  id: "ChIJVZJRWSiypL0R3dHwpGmtXeY"
-  name: "Parque Nacional Los Glaciares"
-  address: "Santa Cruz Province, Argentina"
+  id: ChIJVZJRWSiypL0R3dHwpGmtXeY
+  name: Parque Nacional Los Glaciares
+  address: 'Santa Cruz Province, Argentina'
   rating: 4.9
-  userRatingsTotal: 6477
-  googleMapsUrl: "https://maps.google.com/?cid=16599614470807933405&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 6478
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16599614470807933405&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -50.3305556
   lng: -73.2341667
-  phone: "+54 2902 49-1005"
+  phone: +54 2902 49-1005
   openingHours:
-    - "Monday: 8:00 AM – 6:00 PM"
-    - "Tuesday: 8:00 AM – 6:00 PM"
-    - "Wednesday: 8:00 AM – 6:00 PM"
-    - "Thursday: 8:00 AM – 6:00 PM"
-    - "Friday: 8:00 AM – 6:00 PM"
-    - "Saturday: 8:00 AM – 6:00 PM"
-    - "Sunday: 8:00 AM – 6:00 PM"
+    - 'Monday: 8:00 AM – 6:00 PM'
+    - 'Tuesday: 8:00 AM – 6:00 PM'
+    - 'Wednesday: 8:00 AM – 6:00 PM'
+    - 'Thursday: 8:00 AM – 6:00 PM'
+    - 'Friday: 8:00 AM – 6:00 PM'
+    - 'Saturday: 8:00 AM – 6:00 PM'
+    - 'Sunday: 8:00 AM – 6:00 PM'
 tags:
-  - "el calafate"
-  - "Perito Moreno Glacier"
-quickAnswer: "Parque Nacional Los Glaciares is the national park on El Calafate's doorstep. Its most visited sight, the Perito Moreno Glacier, sits about 80 km west of town along Ruta Provincial 11, roughly 90 minutes by car or bus. Plan a full day for Perito Moreno and add a separate trip north to El Chaltén for the Fitz Roy hikes. At the moment the park gate lists 8am–6pm, but hours change with the season, so check the official site before you go."
+  - el calafate
+  - Perito Moreno Glacier
+quickAnswer: >-
+  Parque Nacional Los Glaciares is the national park on El Calafate's doorstep.
+  Its most visited sight, the Perito Moreno Glacier, sits about 80 km west of
+  town along Ruta Provincial 11, roughly 90 minutes by car or bus. Plan a full
+  day for Perito Moreno and add a separate trip north to El Chaltén for the Fitz
+  Roy hikes. At the moment the park gate lists 8am–6pm, but hours change with
+  the season, so check the official site before you go.
 faq:
-  - q: "How do I get from El Calafate to Perito Moreno Glacier?"
-    a: "It's about 80 km west on Ruta Provincial 11, roughly 90 minutes. You can drive, take a scheduled bus from the El Calafate terminal, or join a tour."
-  - q: "How long should I spend at Parque Nacional Los Glaciares?"
-    a: "Give Perito Moreno a full day, with 2–3 hours on the walkways. Add 2–3 days if you're going on to El Chaltén for the Fitz Roy and Cerro Torre hikes."
-  - q: "What is the best time to visit?"
-    a: "November to March gives the longest days and most boat trips. Winter is quieter, and the glacier is still visible from the walkways. Go early in the day to get ahead of the tour buses."
-  - q: "What are the park's opening hours?"
-    a: "Right now Google lists 8am–6pm daily. Hours change with the season, so check the Parques Nacionales website for this month's times."
-  - q: "Can I walk on the glacier?"
-    a: "Yes, but only on a guided ice trek with a licensed operator, booked in El Calafate. Crampons are supplied. In summer, reserve ahead."
+  - q: How do I get from El Calafate to Perito Moreno Glacier?
+    a: >-
+      It's about 80 km west on Ruta Provincial 11, roughly 90 minutes. You can
+      drive, take a scheduled bus from the El Calafate terminal, or join a tour.
+  - q: How long should I spend at Parque Nacional Los Glaciares?
+    a: >-
+      Give Perito Moreno a full day, with 2–3 hours on the walkways. Add 2–3
+      days if you're going on to El Chaltén for the Fitz Roy and Cerro Torre
+      hikes.
+  - q: What is the best time to visit?
+    a: >-
+      November to March gives the longest days and most boat trips. Winter is
+      quieter, and the glacier is still visible from the walkways. Go early in
+      the day to get ahead of the tour buses.
+  - q: What are the park's opening hours?
+    a: >-
+      Right now Google lists 8am–6pm daily. Hours change with the season, so
+      check the Parques Nacionales website for this month's times.
+  - q: Can I walk on the glacier?
+    a: >-
+      Yes, but only on a guided ice trek with a licensed operator, booked in El
+      Calafate. Crampons are supplied. In summer, reserve ahead.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-25'
 ---
 
 ## Where the ice meets the walkways

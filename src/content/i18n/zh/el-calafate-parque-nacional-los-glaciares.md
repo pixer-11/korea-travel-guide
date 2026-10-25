@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: el-calafate-parque-nacional-los-glaciares
-srcHash: 'ece2ab89ec65'
+srcHash: '954125c34514'
 title: 冰川国家公园（Parque Nacional Los Glaciares）：埃尔卡拉法特旅行指南
-description: 冰川国家公园就在埃尔卡拉法特家门口，评分4.9★（6,477条评价）。本文汇总游客评价、开放时间与实用建议。
+description: 冰川国家公园就在埃尔卡拉法特家门口，评分4.9★（6,478条评价）。本文汇总游客评价、开放时间与实用建议。
 quickAnswer: 冰川国家公园（Parque Nacional Los Glaciares）紧邻埃尔卡拉法特（El Calafate）。园内最热门的景点莫雷诺冰川（Perito Moreno）位于小镇以西约80公里处，沿11号省道（Ruta Provincial 11）自驾或乘大巴约需90分钟。游览莫雷诺冰川建议留出一整天；如想去菲茨罗伊峰（Fitz Roy）徒步，还要另外安排行程，北上查尔滕（El Chaltén）。目前公园大门标注的开放时间为8am–6pm，但具体时间随季节调整，出发前请先查看官方网站。
 faq:
   - q: 从埃尔卡拉法特怎么去莫雷诺冰川？

@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: niagara-falls-white-water-walk
-srcHash: '848a516e17b6'
+srcHash: 'f5ad3ddf2cb2'
 title: 白水步道：尼亚加拉瀑布旅行指南（4.6★）
-description: 白水步道（White Water Walk）位于安大略省尼亚加拉瀑布城的River Road，由尼亚加拉公园管理局运营，距马蹄瀑布下游约3公里。4.6★（8,200条评价），游客口碑、开放时间和游览贴士都在这里。
+description: 白水步道（White Water Walk）位于安大略省尼亚加拉瀑布城的River Road，由尼亚加拉公园管理局运营，距马蹄瀑布下游约3公里。4.6★（8,208条评价），游客口碑、开放时间和游览贴士都在这里。
 quickAnswer: 白水步道（White Water Walk）是尼亚加拉公园管理局（Niagara Parks）旗下的景点，位于安大略省尼亚加拉瀑布城的River Road，在马蹄瀑布下游约3公里处。游客先乘电梯下降，再穿过隧道，就能来到峡谷底部的木栈道。栈道紧挨着6级的漩涡急流。游览大约需要45–60分钟。目前开放时间为上午10点至下午5点，不过全年会随季节调整，出发前请先上尼亚加拉公园管理局官网查询。
 faq:
   - q: 从马蹄瀑布怎么去白水步道？
