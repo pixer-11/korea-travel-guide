@@ -30,16 +30,6 @@ faq:
     a: The Puerto Princesa Subterranean River, a UNESCO site about two hours north at Sabang, is the main day trip. Honda Bay island hopping, Plaza Cuartel and the Baywalk are all closer to the city.
 aiGenerated: true
 draft: false
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/7/71/Ironman_70.3_World_Championships_%289703303916%29.jpg
-  credit: 'Photo: Lake Mead NRA Public Affairs / Wikimedia Commons (CC BY-SA 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Ironman_70.3_World_Championships_(9703303916).jpg
-  focus:
-    x: 69
-    'y': 23
-    top: 18
-    bottom: 27
 ---
 
 Seventy point three is the number to start with. That is the race distance in miles: a 1.9 km swim, a 90 km bike leg and a 21.1 km half-marathon, all in one morning. In mid-November 2026, Puerto Princesa City puts that distance on Palawan's roads and coastline, and athletes from around the region fly in for it.
