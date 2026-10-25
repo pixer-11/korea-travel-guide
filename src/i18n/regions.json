@@ -14251,5 +14251,221 @@
       "getting": "大多数游客选择乘飞机抵达乌斯怀亚——马尔维纳斯阿根廷国际机场（USH）距市中心约4公里，有往返布宜诺斯艾利斯的衔接航班；当地没有客运铁路，因此走陆路的游客需依靠沿3号国道（Ruta Nacional 3）从区域枢纽前来的长途巴士。",
       "days": "建议安排约2到3天时间，游览市区主要景点、乘船游览比格尔海峡，并前往国家公园游玩；如果打算参加南极探险之旅或继续深入巴塔哥尼亚地区，则需要预留更多时间。"
     }
+  },
+  "Bukit Mertajam": {
+    "en": {
+      "blurb": "Bukit Mertajam is a mainland Penang trading town built around its railway junction, where heritage shophouses, a buzzing Sunday market and some of the region's best hawker food sit in the shadow of its namesake hill. It is best known as home to the Minor Basilica of St Anne, whose July Novena and Feast draw huge crowds of pilgrims from across Malaysia and beyond.",
+      "getting": "Bukit Mertajam's railway station on the KTM West Coast Line is a key stop for both Komuter and ETS intercity trains, making rail the most reliable way in. There is no airport in town; travellers usually fly into Penang International Airport (PEN) and continue by road, typically ~25 to ~30 minutes by car or taxi, or a longer route via bus and the regional Sungai Nibong hub.",
+      "days": "A half day to a full day is enough to cover the town centre, market and St Anne's Church, with an extra half day if you plan to add the recreational forest or nearby heritage sites."
+    },
+    "ko": {
+      "blurb": "부킷 머르타잠(Bukit Mertajam)은 철도 교차점을 중심으로 형성된 페낭 본토의 상업 도시로, 유서 깊은 상점 건물들과 활기 넘치는 일요 시장, 그리고 이 지역 최고 수준의 호커 음식이 도시 이름의 유래가 된 언덕 아래에 자리하고 있습니다. 이곳은 특히 세인트 앤 소성당(Minor Basilica of St Anne)으로 잘 알려져 있는데, 매년 7월에 열리는 노베나와 축일 행사에는 말레이시아 전역은 물론 해외에서도 수많은 순례객이 몰려듭니다.",
+      "getting": "부킷 머르타잠역은 KTM 웨스트 코스트 라인(West Coast Line)에 위치한 주요 역으로, 코뮤터(Komuter) 열차와 ETS 도시 간 열차가 모두 정차해 기차로 이동하는 것이 가장 안정적인 방법입니다. 시내에는 공항이 없기 때문에 보통 페낭 국제공항(PEN)으로 입국한 뒤 육로로 이동하며, 자동차나 택시로는 약 25~30분 정도 걸립니다. 버스를 이용해 숭가이 니봉(Sungai Nibong) 환승 허브를 거쳐 가는 방법도 있지만 시간이 더 소요됩니다.",
+      "days": "시내 중심가와 시장, 세인트 앤 성당을 둘러보는 데는 반나절에서 하루 정도면 충분하며, 근처의 산림 휴양지나 유적지까지 방문할 계획이라면 반나절 정도 더 여유를 두는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "ブキット・メルタジャムは、鉄道の分岐点を中心に発展したペナン本土の商業町で、歴史あるショップハウス群や活気あふれる日曜市、そしてこの地域屈指のホーカーフードが、町の名前の由来となった丘のふもとに広がっています。中でも有名なのが聖アンナ・マイナーバシリカで、毎年7月に行われるノベナ祭と祝祭には、マレーシア各地はもちろん海外からも大勢の巡礼者が訪れます。",
+      "getting": "ブキット・メルタジャム駅はKTMウエストコースト線にあり、近郊列車(コミューター)と都市間特急ETSの両方が停車する主要駅で、鉄道が最も確実なアクセス手段です。町自体に空港はなく、通常はペナン国際空港(PEN)を利用し、そこから陸路で向かうのが一般的です。車やタクシーならおよそ25~30分ほど。バスで向かう場合は、周辺のスンガイ・ニボン・ターミナルを経由するため、もう少し時間がかかります。",
+      "days": "町の中心部や市場、聖アンナ教会を巡るだけなら、半日から1日あれば十分です。レクリエーションフォレストや近隣の史跡も訪れたい場合は、さらに半日ほど見ておくとよいでしょう。"
+    },
+    "es": {
+      "blurb": "Bukit Mertajam es una localidad comercial de la Malasia peninsular, en la parte continental de Penang, construida alrededor de su nudo ferroviario, donde casas-tienda con encanto patrimonial, un animado mercado dominical y algunas de las mejores comidas callejeras de la región conviven a la sombra de la colina que le da nombre. Es conocida sobre todo por albergar la Basílica Menor de Santa Ana, cuya Novena y Fiesta de julio atraen a enormes multitudes de peregrinos de toda Malasia y del extranjero.",
+      "getting": "La estación de tren de Bukit Mertajam, en la línea KTM West Coast, es una parada clave tanto para los trenes Komuter como para los ETS de larga distancia, lo que convierte al ferrocarril en la forma más fiable de llegar. La ciudad no cuenta con aeropuerto propio; los viajeros suelen volar al Aeropuerto Internacional de Penang (PEN) y continuar por carretera, un trayecto de entre 25 y 30 minutos en coche o taxi, o bien optar por una ruta más larga combinando autobús y el centro regional de Sungai Nibong.",
+      "days": "Con medio día o un día completo es suficiente para recorrer el centro de la ciudad, el mercado y la Iglesia de Santa Ana; conviene añadir medio día más si se planea visitar también el bosque recreativo o los sitios patrimoniales cercanos."
+    },
+    "zh": {
+      "blurb": "大山脚（Bukit Mertajam）是槟城州大陆部分的一座商贸小镇，围绕铁路交汇处发展而成。古色古香的店屋、热闹的星期日市集，以及本地区数一数二的小贩美食，都坐落在与小镇同名的山丘脚下。这里最为人熟知的，是圣安娜小圣殿（Minor Basilica of St Anne）的所在地——每年七月的novena祈祷周和瞻礼庆典，都会吸引来自马来西亚各地乃至海外的大批朝圣者前来朝拜。",
+      "getting": "大山脚火车站位于KTM西海岸线上，是Komuter通勤列车和ETS城际列车的重要停靠站，因此搭乘火车是最稳妥的进出方式。镇上没有机场，旅客通常会先飞抵槟城国际机场（PEN），再转乘陆路交通前往，车程（自驾或搭德士）大约25至30分钟；也可以选择搭巴士经由双溪汝莪（Sungai Nibong）转运站前往，但耗时会较长。",
+      "days": "半天到一天的时间，足以逛完市中心、市集和圣安娜教堂；如果还想顺道走访休闲森林或附近的历史古迹，建议再多留半天。"
+    }
+  },
+  "Fujiyoshida": {
+    "en": {
+      "blurb": "Fujiyoshida sits at the northern foot of Mount Fuji, a historic pilgrim town that has long served as a gateway for climbers heading up the mountain's Yoshida Trail. It is best known for the Chureito Pagoda, a five-storey monument above the Arakura Sengen Shrine that frames Mount Fuji in one of Japan's most photographed views.",
+      "getting": "There is no direct train from central Tokyo: travellers typically take a direct highway bus from Shinjuku or Tokyo Station, or ride the train via Otsuki to Fujisan Station, with the journey taking roughly ~1h50min to ~2h30min depending on the route and transfers. The nearest major rail hub is Kawaguchiko Station, from which local Fujikyu Railway trains run on to Fujiyoshida's own stations.",
+      "days": "Plan on ~1 day for the highlights, such as the Chureito Pagoda and the old town's pilgrim lodges, or ~2 to 4 days if combining it with the wider Fuji Five Lakes area and a Fuji climbing season ascent."
+    },
+    "ko": {
+      "blurb": "후지요시다는 후지산 북쪽 기슭에 자리한 유서 깊은 순례 마을로, 오랫동안 요시다 등산로를 오르는 등산객들의 관문 역할을 해왔습니다. 이곳은 아라쿠라 센겐 신사 위에 세워진 5층짜리 탑, 추레이토 탑으로 가장 잘 알려져 있는데, 이 탑은 후지산을 배경으로 일본에서 가장 많이 사진에 담기는 풍경 중 하나를 완성합니다.",
+      "getting": "도쿄 도심에서 바로 연결되는 기차는 없습니다. 보통 신주쿠나 도쿄역에서 출발하는 직행 고속버스를 이용하거나, 오쓰키를 거쳐 후지산역까지 기차로 이동하며, 경로와 환승 여부에 따라 소요 시간은 약 1시간 50분에서 2시간 30분 정도입니다. 가장 가까운 주요 철도 거점은 가와구치코역으로, 이곳에서 후지큐 행 지역 열차를 타면 후지요시다 내 각 역으로 이어집니다.",
+      "days": "추레이토 탑과 옛 시가지의 순례자 숙소 등 주요 명소만 둘러본다면 하루 정도면 충분하며, 후지고코(후지 오호) 일대와 후지산 등반 시즌의 등정까지 함께 즐기려면 2일에서 4일 정도를 계획하는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "富士吉田は富士山の北麓に位置する、古くから続く御師の町であり、吉田口登山道を登る登山者たちの玄関口として長く栄えてきました。この町を代表するのが、新倉浅間神社の高台に建つ五重塔「忠霊塔」です。塔越しに富士山を望む光景は、日本で最も写真に撮られる景色のひとつとして知られています。",
+      "getting": "東京都心からの直通電車はなく、新宿駅や東京駅から高速バスで直行するか、大月駅経由の電車で富士山駅まで向かうのが一般的です。所要時間はルートや乗り換えによって異なりますが、おおよそ1時間50分から2時間30分ほどです。最寄りの主要なターミナル駅は河口湖駅で、そこから富士急行線のローカル列車に乗り換えれば、富士吉田市内の各駅へアクセスできます。",
+      "days": "忠霊塔や御師の町並みなど主要な見どころを巡るだけなら1日もあれば十分です。富士五湖エリア全体を合わせて周遊したり、登山シーズンに富士登山に挑戦したりする場合は、2日から4日程度の日程を見ておくとよいでしょう。"
+    },
+    "es": {
+      "blurb": "Fujiyoshida se encuentra a los pies del norte del monte Fuji, una histórica ciudad de peregrinación que desde hace mucho tiempo sirve de puerta de entrada para los escaladores que se dirigen a la montaña por la ruta Yoshida Trail. Es conocida sobre todo por la Pagoda Chureito, un monumento de cinco pisos situado sobre el santuario Arakura Sengen, que enmarca al monte Fuji en una de las vistas más fotografiadas de Japón.",
+      "getting": "No hay tren directo desde el centro de Tokio: lo habitual es tomar un autobús de larga distancia directo desde Shinjuku o la estación de Tokio, o bien viajar en tren vía Otsuki hasta la estación de Fujisan, con un trayecto de aproximadamente 1h50min a 2h30min según la ruta y los transbordos. El principal nudo ferroviario cercano es la estación de Kawaguchiko, desde donde los trenes locales de la línea Fujikyu continúan hasta las propias estaciones de Fujiyoshida.",
+      "days": "Calcula aproximadamente 1 día para ver lo más destacado, como la Pagoda Chureito y las antiguas posadas de peregrinos del casco histórico, o entre 2 y 4 días si lo combinas con la zona más amplia de los Cinco Lagos Fuji y una ascensión al monte Fuji en temporada de escalada."
+    },
+    "zh": {
+      "blurb": "富士吉田市坐落在富士山北麓，是一座历史悠久的朝圣小镇，长久以来都是登山者经由吉田口登顶富士山的门户。这里最负盛名的当属新仓浅间神社境内的五重塔——忠灵塔，从塔旁望去，富士山的身影尽收眼底，堪称日本被拍摄次数最多的经典景致之一。",
+      "getting": "从东京市区并没有直达列车前往富士吉田：游客通常可以选择从新宿或东京站乘坐直达高速巴士，又或是搭乘电车经大月站转乘至富士山站，全程视路线及换乘情况而定，大约需要1小时50分钟到2小时30分钟不等。附近最主要的铁路枢纽是河口湖站，从那里可以换乘富士急行线的当地列车，继续前往富士吉田市内各站。",
+      "days": "若只想游览忠灵塔、老城区的朝圣旅馆等主要景点，安排约1天时间即可；若想顺带游览富士五湖一带，或是赶上富士山开山季节登顶，则建议安排2到4天左右。"
+    }
+  },
+  "Funes": {
+    "en": {
+      "blurb": "Funes is a small, affluent city on the western edge of Greater Rosario, known locally as the \"Garden of the Province\" for its leafy residential streets and large private houses. It functions as a quieter suburban counterpart to Rosario, drawing weekend and summer visitors from the city while retaining its own low-key, green character.",
+      "getting": "Most travellers arrive via Rosario, Islas Malvinas International Airport (ROS), which sits only a few kilometres from Funes itself; from there, taxis, remises or transfer services cover the short hop into town. Funes also lies on National Route 9, so buses and cars from Rosario's regional hub or from Córdoba are a straightforward option.",
+      "days": "A half day to a full day is enough to see Funes itself, though many visitors combine it with a longer stay in nearby Rosario, ~20 minutes away."
+    },
+    "ko": {
+      "blurb": "푸네스는 그레이터 로사리오 서쪽 끝에 자리한 작고 부유한 도시로, 나무가 우거진 주택가와 널찍한 개인 주택들로 인해 현지에서는 \"주의 정원\"이라는 애칭으로 불린다. 로사리오보다 한적한 교외 지역 역할을 하며, 주말과 여름철이면 로사리오 시내에서 많은 방문객을 끌어모으면서도 특유의 차분하고 녹음이 짙은 분위기를 그대로 간직하고 있다.",
+      "getting": "대부분의 여행자는 로사리오 이슬라스 말비나스 국제공항(ROS)을 통해 들어오는데, 이 공항은 푸네스에서 불과 몇 킬로미터밖에 떨어져 있지 않다. 공항에서는 택시, 레미세(remise, 지역 콜택시) 또는 транс퍼 서비스를 이용해 짧은 거리를 이동해 시내로 들어갈 수 있다. 푸네스는 국도 9호선(Route 9)상에 위치해 있어, 로사리오의 터미널이나 코르도바에서 출발하는 버스와 자동차로도 손쉽게 접근할 수 있다.",
+      "days": "푸네스 자체를 둘러보는 데는 반나절에서 하루면 충분하지만, 많은 방문객들이 약 20분 거리에 있는 인근 로사리오에서 더 긴 일정을 함께 보내는 경우가 많다."
+    },
+    "ja": {
+      "blurb": "フネスは、グレーター・ロサリオ西端に位置する、小さいながらも裕福な街です。緑豊かな住宅街と広大な邸宅が立ち並ぶことから、地元では「州の庭園」として親しまれています。ロサリオから週末や夏のシーズンに訪れる人々を引き寄せつつも、落ち着いた緑豊かな独自の雰囲気を保っており、ロサリオの静かな郊外版といった存在です。",
+      "getting": "多くの旅行者は、フネスからわずか数キロの場所にあるロサリオ・イスラス・マルビナス国際空港(ROS)を利用して訪れます。空港からはタクシーやレミス(配車サービス)、送迎サービスを使えば、市街地まであっという間です。フネスは国道9号線沿いにも位置しているため、ロサリオの長距離バスターミナルやコルドバからのバス・車でのアクセスも簡単です。",
+      "days": "フネス自体を観光するなら、半日から1日あれば十分です。とはいえ、車で約20分のロサリオに長めに滞在し、あわせて訪れる旅行者も少なくありません。"
+    },
+    "es": {
+      "blurb": "Funes es una pequeña y acomodada ciudad situada en el extremo oeste del Gran Rosario, conocida popularmente como el \"Jardín de la Provincia\" por sus frondosas calles residenciales y sus amplias casas particulares. Funciona como una alternativa suburbana más tranquila a Rosario, atrayendo a visitantes de fin de semana y de verano que llegan desde la ciudad, aunque conserva su propio carácter apacible y verde.",
+      "getting": "La mayoría de los viajeros llega a través del Aeropuerto Internacional Rosario - Islas Malvinas (ROS), que se encuentra a apenas unos kilómetros de Funes; desde allí, taxis, remises o servicios de traslado cubren el breve trayecto hasta el pueblo. Funes también se encuentra sobre la Ruta Nacional 9, por lo que los colectivos y autos que vienen desde la terminal regional de Rosario o desde Córdoba son una opción sencilla.",
+      "days": "Con medio día o un día completo alcanza para conocer Funes, aunque muchos visitantes lo combinan con una estadía más larga en la cercana Rosario, a unos 20 minutos de distancia."
+    },
+    "zh": {
+      "blurb": "富内斯（Funes）是大罗萨里奥西侧的一座小巧而富裕的城市，当地人称之为“省之花园”，以绿树成荫的住宅街道和宽敞的私人宅邸闻名。它是罗萨里奥（Rosario）宁静的郊区版本，吸引着不少周末和夏季前来度假的市民，却依然保留着自己低调而葱郁的气质。",
+      "getting": "大多数游客会经由罗萨里奥的马尔维纳斯群岛国际机场（ROS）抵达，该机场距离富内斯仅几公里之遥，从机场搭乘出租车、雷米斯（remise，即预约出租车）或接送服务即可轻松到达市区。此外，富内斯还位于9号国道（National Route 9）沿线，因此从罗萨里奥的区域客运枢纽或从科尔多瓦（Córdoba）乘坐长途汽车或自驾前往也十分方便。",
+      "days": "游览富内斯本身，半天到一天的时间就足够了，不过许多游客会将其与车程约20分钟、近在咫尺的罗萨里奥结合起来，作更长时间的停留。"
+    }
+  },
+  "La Plata": {
+    "en": {
+      "blurb": "La Plata is Argentina's purpose-built provincial capital, laid out in the 1880s on a strict grid of diagonal avenues radiating from a central plaza, and anchored by its soaring neo-Gothic cathedral and world-renowned natural history museum. It functions as both a serious university city and a green, low-rise counterpoint to Buenos Aires, just a short hop to the southeast.",
+      "getting": "Most travellers arrive via Buenos Aires's international airports, Ezeiza (EZE) or Jorge Newbery (AEP), then continue to La Plata by the Roca Line commuter train from Constitución station, or by bus or car along the La Plata highway; the train journey takes ~1 to 1.5 hours. La Plata does have its own small airport (LPG), but it serves general aviation rather than scheduled passenger flights.",
+      "days": "Plan on ~1 to 2 days: enough time to walk the plaza-and-diagonal grid, tour the cathedral and museum, and take in the city's parks and university quarter at an easy pace."
+    },
+    "ko": {
+      "blurb": "라플라타는 아르헨티나가 처음부터 계획해 세운 주도(州都)로, 1880년대에 중앙 광장을 중심으로 대각선 도로들이 사방으로 뻗어나가는 엄격한 격자형 도시 계획에 따라 건설되었다. 하늘을 찌를 듯 솟은 네오고딕 양식의 대성당과 세계적으로 유명한 자연사박물관이 도시의 상징이다. 진지한 대학 도시이자, 부에노스아이레스와는 대조적으로 녹음이 우거지고 건물이 낮은 도시로, 부에노스아이레스에서 남동쪽으로 잠깐이면 닿을 수 있는 거리에 자리하고 있다.",
+      "getting": "대부분의 여행자는 부에노스아이레스의 국제공항인 에세이사(EZE)나 호르헤 뉴베리(AEP)를 통해 들어온 뒤, 콘스티투시온 역에서 로카 선 통근열차를 타고 라플라타로 이동하거나, 라플라타 고속도로를 따라 버스나 자동차로 이동한다. 기차로는 약 1~1.5시간이 걸린다. 라플라타에도 자체 소규모 공항(LPG)이 있지만, 정기 여객 노선이 아닌 일반 항공용으로 운영된다.",
+      "days": "1~2일 정도를 계획하면 충분하다. 광장과 대각선 도로가 교차하는 격자 구역을 걷고, 대성당과 박물관을 둘러보며, 여유롭게 도시의 공원과 대학가를 둘러보기에 알맞은 시간이다."
+    },
+    "ja": {
+      "blurb": "ラ・プラタは、1880年代に計画都市として誕生したアルゼンチンの州都だ。中央広場から放射状に斜めの大通りが延びる厳格な碁盤目状の都市計画が特徴で、天に向かってそびえるネオゴシック様式の大聖堂と、世界的に有名な自然史博物館がその象徴となっている。学問の街としての顔を持つ一方、緑豊かで背の低い建物が並ぶこの街は、ブエノスアイレスからほんの一っ飛びの距離にありながら、まったく異なる落ち着いた雰囲気を醸し出している。",
+      "getting": "多くの旅行者は、ブエノスアイレスの国際空港であるエセイサ空港(EZE)かホルヘ・ニューベリー空港(AEP)を経由して到着する。そこからラ・プラタへは、コンスティトゥシオン駅発のロカ線近郊列車を利用するか、ラ・プラタ幹線道路をバスまたは車で移動するのが一般的だ。列車の所要時間はおよそ1〜1.5時間。ラ・プラタにも小さな空港(LPG)があるが、定期旅客便は就航しておらず、もっぱら自家用機などの一般航空用として使われている。",
+      "days": "滞在日数の目安は1〜2日。広場と斜め大通りが織りなす碁盤目状の街並みを歩き、大聖堂と博物館を見学し、公園や大学エリアをのんびり巡るのにちょうどよい長さだ。"
+    },
+    "es": {
+      "blurb": "La Plata es la capital provincial de Argentina concebida desde cero, trazada en la década de 1880 sobre una rígida cuadrícula de avenidas diagonales que irradian desde una plaza central, y presidida por su imponente catedral neogótica y su museo de historia natural de renombre mundial. Es a la vez una ciudad universitaria de peso y un contrapunto verde y de baja altura frente a Buenos Aires, a un breve salto hacia el sudeste.",
+      "getting": "La mayoría de los viajeros llega a través de los aeropuertos internacionales de Buenos Aires, Ezeiza (EZE) o Jorge Newbery (AEP), y desde allí continúa hacia La Plata en el tren de la Línea Roca que sale de la estación Constitución, o bien en colectivo o auto por la autopista La Plata-Buenos Aires; el viaje en tren dura entre 1 y 1,5 horas aproximadamente. La Plata cuenta con su propio aeropuerto pequeño (LPG), pero este se dedica a la aviación general y no a vuelos comerciales regulares.",
+      "days": "Calculá entre 1 y 2 días: tiempo suficiente para recorrer a pie la cuadrícula de plazas y diagonales, visitar la catedral y el museo, y disfrutar con calma de los parques y el barrio universitario de la ciudad."
+    },
+    "zh": {
+      "blurb": "拉普拉塔是阿根廷一座规划而生的省会城市，始建于19世纪80年代，城区严格按照网格布局，对角大道从中央广场向四周放射延伸，高耸的新哥特式主教座堂与享誉世界的自然历史博物馆则是这座城市的地标所在。它既是一座治学氛围浓厚的大学城，也是布宜诺斯艾利斯东南方不远处那片绿意盎然、楼宇低矮的宁静对照。",
+      "getting": "大多数游客会先抵达布宜诺斯艾利斯的国际机场——埃塞萨机场（EZE）或豪尔赫·纽贝里机场（AEP），再从君士坦西翁车站乘坐罗卡线通勤火车前往拉普拉塔，也可以选择沿拉普拉塔公路乘坐大巴或自驾前往；火车车程约1到1.5小时。拉普拉塔本身也有一座小型机场（LPG），不过它主要服务于通用航空，并不提供定期客运航班。",
+      "days": "建议安排1到2天：这段时间足以悠闲地漫步于广场与对角大道交织的街区，参观主教座堂与博物馆，并细细领略这座城市的公园风光与大学城氛围。"
+    }
+  },
+  "Mandaluyong": {
+    "en": {
+      "blurb": "Mandaluyong is Metro Manila's self-styled \"Shopping Capital,\" home to the vast SM Megamall and Shangri-La Plaza along EDSA, and it shares the Ortigas Center business district, Metro Manila's second-largest, with neighbouring Pasig and Quezon City. Known locally as the Tiger City for its rapid growth, it sits squarely between Makati and Ortigas, making it less a sightseeing destination than a hub for malls, offices and transit connections.",
+      "getting": "Most travellers arrive via Ninoy Aquino International Airport (MNL), roughly 7 to 9 km away, reaching Mandaluyong by taxi or ride-hailing app in ~20 to 45 minutes depending on traffic, or by combining the airport bus/train link with the MRT-3, which runs along EDSA and stops at Shaw Boulevard and Boni Avenue stations in the city. Within Metro Manila, the MRT-3 is the fastest way in from Quezon City or Makati, bypassing EDSA's notorious traffic.",
+      "days": "Allow ~1 to 2 days: enough for a loop through Ortigas Center's malls and office towers, the Shangri-La and Megamall shopping strip, and a short walk to the EDSA Shrine, before moving on to the rest of Metro Manila."
+    },
+    "ko": {
+      "blurb": "만달루용은 스스로를 메트로 마닐라의 \"쇼핑 수도\"라 칭하는 도시로, EDSA를 따라 거대한 SM 메가몰과 샹그릴라 플라자가 자리하고 있으며, 이웃한 파식, 케손시티와 함께 메트로 마닐라에서 두 번째로 큰 비즈니스 지구인 오르티가스 센터를 공유하고 있다. 급속한 성장으로 현지에서는 \"타이거 시티\"라 불리는 이곳은 마카티와 오르티가스 사이에 정확히 자리 잡고 있어, 관광 명소라기보다는 쇼핑몰과 오피스, 교통 환승의 중심지에 가깝다.",
+      "getting": "대부분의 여행자는 니노이 아키노 국제공항(MNL)을 통해 입국하며, 이곳에서 만달루용까지는 약 7~9km 거리로, 택시나 차량 호출 앱을 이용하면 교통 상황에 따라 약 20~45분이 소요된다. 또는 공항버스나 철도 연계편과 EDSA를 따라 운행하며 쇼 대로(Shaw Boulevard)와 보니 애비뉴(Boni Avenue) 역에 정차하는 MRT-3를 함께 이용할 수도 있다. 메트로 마닐라 내에서는 케손시티나 마카티에서 올 경우 MRT-3가 EDSA의 악명 높은 정체를 피할 수 있는 가장 빠른 방법이다.",
+      "days": "1~2일 정도면 충분하다. 오르티가스 센터의 쇼핑몰과 오피스 타워를 둘러보고, 샹그릴라와 메가몰이 늘어선 쇼핑가를 거닐고, EDSA 신전(EDSA Shrine)까지 짧게 걸어본 뒤 메트로 마닐라의 다른 지역으로 이동하기에 알맞은 일정이다."
+    },
+    "ja": {
+      "blurb": "マンダルヨンは、メトロマニラが自ら「ショッピングの首都」と称する街で、EDSA沿いに広大なSMメガモールやシャングリ・ラ プラザを擁しています。また、隣接するパシッグやケソンシティとともに、メトロマニラ第2位の規模を誇るビジネス街オルティガス・センターを共有しています。急速な発展ぶりから地元では「タイガーシティ」とも呼ばれ、マカティとオルティガスのちょうど中間に位置することから、観光地というよりはモール、オフィス、交通の結節点としての性格が強いエリアです。",
+      "getting": "ほとんどの旅行者はニノイ・アキノ国際空港(MNL)を利用して到着します。空港からは約7〜9kmで、タクシーや配車アプリを使えば交通状況次第で約20〜45分でマンダルヨンに到着します。あるいは、空港バス・鉄道リンクとMRT-3を組み合わせる方法もあります。MRT-3はEDSA沿いを走り、市内のショウ・ブールバード駅とボニ・アベニュー駅に停車します。メトロマニラ内であれば、ケソンシティやマカティからアクセスする場合、悪名高いEDSAの渋滞を避けられるMRT-3が最速の移動手段です。",
+      "days": "滞在日数の目安は1〜2日です。オルティガス・センターのモールやオフィスビル群を巡り、シャングリ・ラとメガモールが並ぶショッピングエリアを歩き、さらにEDSAシュラインまで足を延ばすには十分な日数で、その後メトロマニラの他エリアへ移動できます。"
+    },
+    "es": {
+      "blurb": "Mandaluyong se autoproclama la \"Capital de las Compras\" de Metro Manila, sede del enorme SM Megamall y del Shangri-La Plaza a lo largo de la EDSA, y comparte con las vecinas Pasig y Quezon City el distrito empresarial de Ortigas Center, el segundo más grande de Metro Manila. Conocida localmente como la Ciudad Tigre por su rápido crecimiento, se ubica justo entre Makati y Ortigas, lo que la convierte más en un centro de centros comerciales, oficinas y conexiones de transporte que en un destino turístico propiamente dicho.",
+      "getting": "La mayoría de los viajeros llega a través del Aeropuerto Internacional Ninoy Aquino (MNL), situado a unos 7-9 km de distancia, y llega a Mandaluyong en taxi o con una app de transporte en aproximadamente 20 a 45 minutos, según el tráfico, o combinando el enlace de autobús/tren del aeropuerto con el MRT-3, que recorre la EDSA y para en las estaciones de Shaw Boulevard y Boni Avenue dentro de la ciudad. Dentro de Metro Manila, el MRT-3 es la forma más rápida de llegar desde Quezon City o Makati, evitando el tráfico notoriamente caótico de la EDSA.",
+      "days": "Calcula entre 1 y 2 días: tiempo suficiente para recorrer los centros comerciales y torres de oficinas de Ortigas Center, la franja comercial del Shangri-La y el Megamall, y dar un breve paseo hasta el Santuario de EDSA, antes de continuar explorando el resto de Metro Manila."
+    },
+    "zh": {
+      "blurb": "曼达卢永市自诩为大马尼拉地区的\"购物之都\"，坐拥EDSA大道沿线的巨型商场SM Megamall和香格里拉广场，并与邻近的巴石市和奎松市共享奥的加斯中心商务区——大马尼拉第二大商业区。当地人称其为\"虎城\"，意指其飞速发展的势头。这座城市恰好位于马卡蒂和奥的加斯之间，与其说是观光胜地，不如说是购物中心、写字楼和交通枢纽的集中地。",
+      "getting": "大多数旅客经由尼诺伊·阿基诺国际机场（MNL）抵达，该机场距市区约7至9公里，乘出租车或网约车前往曼达卢永约需20至45分钟，具体视路况而定；也可先搭乘机场巴士或机场快线，再转乘沿EDSA大道行驶的MRT-3轻轨，在市内的Shaw Boulevard站或Boni Avenue站下车。在大马尼拉地区内部，从奎松市或马卡蒂出发，MRT-3轻轨是避开EDSA大道恶名远扬的拥堵、最快抵达的方式。",
+      "days": "建议安排1至2天：足以逛遍奥的加斯中心的商场和写字楼群、香格里拉广场与Megamall购物区，再步行前往不远处的EDSA圣殿，之后便可继续前往大马尼拉地区的其他地方。"
+    }
+  },
+  "Nevşehir": {
+    "en": {
+      "blurb": "Nevşehir is the provincial capital that gives Cappadocia its name, a workaday Turkish city overshadowed by the fairy chimneys, cave churches and hot air balloons of the valleys around it. Most travellers pass through its hilltop citadel and bus station on their way to Göreme, Ürgüp or Uçhisar rather than lingering for the city itself.",
+      "getting": "The nearest airport is Nevşehir Kapadokya Airport (NAV), about 30 km from the city, reached by shuttle, taxi or pre-booked transfer as there is no direct public bus into the Cappadocia towns. Nevşehir has no train station; most overland travellers arrive by intercity coach into the city's otogar, often on overnight buses from Istanbul or Ankara, then continue by dolmuş or taxi to nearby villages.",
+      "days": "Nevşehir itself needs only a few hours for its castle and museum, but most visitors base themselves in or near the city for ~3 to 4 days to cover the wider Cappadocia region's valleys, underground cities and balloon flights."
+    },
+    "ko": {
+      "blurb": "네브셰히르는 카파도키아라는 이름의 유래가 된 주도(州都)로, 주변 계곡을 수놓는 기암(요정의 굴뚝), 동굴 교회, 열기구들의 화려함에 가려진 평범한 터키 도시다. 대부분의 여행자는 도시 자체에 오래 머물기보다 언덕 위의 성채와 버스터미널을 거쳐 괴레메, 우르귀프, 우치히사르로 향하는 경유지로 이곳을 스쳐 지나간다.",
+      "getting": "가장 가까운 공항은 네브셰히르 카파도키아 공항(NAV)으로, 시내에서 약 30km 떨어져 있으며 셔틀버스, 택시, 또는 사전 예약 transfer로 이동할 수 있다. 카파도키아 지역 마을들로 바로 가는 직행 대중버스는 없다. 네브셰히르에는 기차역이 없어서, 육로로 오는 대부분의 여행자는 시내 오토가르(otogar, 버스터미널)로 도착하는 시외버스를 이용하며, 특히 이스탄불이나 앙카라에서 출발하는 야간버스를 많이 이용한다. 이후 돌무쉬(dolmuş, 합승 미니버스)나 택시로 환승해 주변 마을로 이동한다.",
+      "days": "네브셰히르 자체는 성과 박물관을 둘러보는 데 몇 시간이면 충분하다. 하지만 대부분의 여행자는 카파도키아 지역 전체의 계곡, 지하 도시, 열기구 투어까지 둘러보기 위해 이 도시나 인근을 거점으로 삼아 약 3~4일 정도 머문다."
+    },
+    "ja": {
+      "blurb": "ネヴシェヒルは、カッパドキアという地名の由来となった州都でありながら、周囲の谷に点在する奇岩群「妖精の煙突」や洞窟教会、熱気球といった見どころの陰に隠れがちな、どこにでもあるトルコの地方都市だ。丘の上の城塞とオトガル(バスターミナル)は、ギョレメやユルギュップ、ウチヒサールへ向かう旅行者が通過するだけの場所になっていることが多く、町自体でじっくり時間を過ごす人は少ない。",
+      "getting": "最寄りの空港はネヴシェヒル・カッパドキア空港(NAV)で、市街地から約30km。カッパドキアの各町へ直通の路線バスはないため、シャトルバスやタクシー、事前予約の送迎サービスを利用することになる。ネヴシェヒルには鉄道駅がなく、陸路で訪れる旅行者の多くは市内のオトガルに到着する都市間バスを利用する。イスタンブールやアンカラからの夜行バスで来る人も多く、そこからさらにドルムシュ(乗合タクシー)やタクシーに乗り換えて近隣の村へと向かう。",
+      "days": "ネヴシェヒルの町自体は、城塞と博物館を見るだけなら数時間もあれば十分だ。しかし多くの旅行者は、カッパドキア地方全体に広がる谷や地下都市、熱気球ツアーを満喫するため、この町やその周辺を拠点に3~4日ほど滞在する。"
+    },
+    "es": {
+      "blurb": "Nevşehir es la capital de provincia que da nombre a Capadocia, una ciudad turca de día a día eclipsada por las chimeneas de hadas, las iglesias rupestres y los globos aerostáticos de los valles que la rodean. La mayoría de los viajeros solo pasa por su ciudadela en lo alto de la colina y por su estación de autobuses de camino a Göreme, Ürgüp o Uçhisar, sin detenerse demasiado en la ciudad en sí.",
+      "getting": "El aeropuerto más cercano es el Aeropuerto de Nevşehir Kapadokya (NAV), a unos 30 km de la ciudad, al que se llega en shuttle, taxi o traslado reservado con antelación, ya que no hay autobús público directo hacia los pueblos de Capadocia. Nevşehir no tiene estación de tren; la mayoría de los viajeros por tierra llegan en autocar interurbano a la terminal de autobuses (otogar) de la ciudad, muchas veces en buses nocturnos desde Estambul o Ankara, y luego continúan en dolmuş o taxi hacia los pueblos cercanos.",
+      "days": "La propia Nevşehir solo requiere unas pocas horas para visitar su castillo y su museo, pero la mayoría de los visitantes se instala en la ciudad o cerca de ella durante unos 3 o 4 días para recorrer los valles, las ciudades subterráneas y los vuelos en globo de la región más amplia de Capadocia."
+    },
+    "zh": {
+      "blurb": "内夫谢希尔是卡帕多奇亚得名的省会城市，但它本身只是一座朴实无华的土耳其城市，光芒完全被周边山谷中的精灵烟囱、洞穴教堂和热气球所掩盖。大多数游客只是途经山顶城堡和汽车站，前往格雷梅、于尔居普或于奇萨尔，很少会为内夫谢希尔本身停留。",
+      "getting": "最近的机场是内夫谢希尔卡帕多奇亚机场（NAV），距市区约30公里，没有直达卡帕多奇亚各小镇的公共巴士，需乘坐班车、出租车或提前预订的接送服务前往。内夫谢希尔没有火车站，大多数陆路旅客乘坐长途大巴抵达市内的汽车站（otogar），常见的是从伊斯坦布尔或安卡拉出发的夜间巴士，再转乘小巴（dolmuş）或出租车前往附近村镇。",
+      "days": "内夫谢希尔本身只需几个小时即可游览城堡和博物馆，但大多数游客会以市区或周边为据点，停留约3到4天，以便探索卡帕多奇亚更广阔区域的山谷、地下城和热气球之旅。"
+    }
+  },
+  "Reggio Calabria": {
+    "en": {
+      "blurb": "Reggio Calabria sits on the toe of Italy's boot, staring across the Strait of Messina at Sicily's volcanic coastline, with Mount Etna often visible on clear days. The city is best known for the Riace Bronzes, two monumental Greek statues housed in its archaeological museum, and for a seafront promenade that locals call the most beautiful mile in Italy.",
+      "getting": "Most travellers fly into Reggio Calabria Airport (REG), locally called Tito Minniti, which has its own small rail stop on the Jonica line linking directly to Reggio Calabria Centrale station in a few minutes; others arrive by train or ferry via the regional hub at Villa San Giovanni, just across the strait. Centrale station, the city's main rail terminus, also connects south to Sicily and north along Calabria's coast.",
+      "days": "Allow ~1 to 2 days: enough for the archaeological museum and Riace Bronzes, the seafront corso, and a half-day detour across the strait to Sicily if time allows."
+    },
+    "ko": {
+      "blurb": "레조 칼라브리아는 이탈리아 반도가 '장화' 모양이라면 그 앞코 끝자락에 자리한 도시로, 메시나 해협 건너로 시칠리아의 화산 해안선을 마주하고 있다. 날씨가 맑은 날에는 에트나 화산이 또렷이 보이기도 한다. 이 도시를 대표하는 명소는 고고학 박물관에 소장된 두 점의 거대한 그리스 청동상, 바로 리아체의 전사상이다. 또한 현지인들이 \"이탈리아에서 가장 아름다운 1마일\"이라 자부하는 해변 산책로로도 유명하다.",
+      "getting": "대부분의 여행자는 현지에서 '티토 미니티'라 불리는 레조 칼라브리아 공항(REG)을 이용해 도착한다. 이 공항에는 자체 기차역이 있어 요니카 선을 타면 단 몇 분 만에 레조 칼라브리아 첸트랄레 역까지 직행으로 연결된다. 그 밖에 기차나 페리를 이용하는 경우에는 해협 건너편의 교통 요지인 빌라 산 조반니를 거쳐 들어오기도 한다. 시내 중심 기차역인 첸트랄레 역은 남쪽으로 시칠리아, 북쪽으로는 칼라브리아 해안을 따라가는 노선과도 연결된다.",
+      "days": "1~2일 정도면 충분하다. 고고학 박물관과 리아체 청동상 관람, 해변 코르소 산책을 즐기고, 시간이 허락한다면 반나절 일정으로 해협을 건너 시칠리아까지 다녀올 수 있다."
+    },
+    "ja": {
+      "blurb": "レッジョ・カラブリアは、イタリア半島の「ブーツのつま先」部分に位置し、メッシーナ海峡を挟んでシチリア島の火山性海岸線と向かい合っています。天気が良い日には、エトナ山の姿を望むこともできます。この街は、考古学博物館に所蔵されている2体のギリシャ彫刻の傑作「リアーチェの青銅像」と、地元の人々が「イタリアで最も美しい1マイル」と呼ぶ海沿いの遊歩道で広く知られています。",
+      "getting": "多くの旅行者は、地元では「ティト・ミンニティ」の愛称で知られるレッジョ・カラブリア空港(REG)を利用します。空港には小さな鉄道駅があり、ヨニカ線でレッジョ・カラブリア・チェントラーレ駅までわずか数分で直結しています。そのほか、海峡の対岸にあるヴィッラ・サン・ジョヴァンニの地域拠点を経由して、鉄道やフェリーで到着する旅行者も少なくありません。市の中心的な鉄道駅であるチェントラーレ駅からは、南はシチリア島へ、北はカラブリアの海岸線沿いへと列車が繋がっています。",
+      "days": "滞在の目安は1〜2日。考古学博物館とリアーチェの青銅像、海沿いのコルソ(大通り)を巡るのに十分な時間で、余裕があれば海峡を渡ってシチリア島へ半日観光に出かけることもできます。"
+    },
+    "es": {
+      "blurb": "Reggio Calabria se asienta en la punta de la \"bota\" italiana, mirando hacia la costa volcánica de Sicilia al otro lado del Estrecho de Mesina, con el Etna a menudo visible en los días despejados. La ciudad es conocida sobre todo por los Bronces de Riace, dos monumentales estatuas griegas que se exhiben en su museo arqueológico, y por un paseo marítimo que los lugareños consideran la milla más bella de Italia.",
+      "getting": "La mayoría de los viajeros llega al Aeropuerto de Reggio Calabria (REG), conocido localmente como Tito Minniti, que cuenta con su propia pequeña parada de tren en la línea Jonica, conectada en pocos minutos directamente con la estación de Reggio Calabria Centrale; otros llegan en tren o en ferry a través del nudo regional de Villa San Giovanni, justo al otro lado del estrecho. La estación Centrale, la principal terminal ferroviaria de la ciudad, también conecta hacia el sur con Sicilia y hacia el norte a lo largo de la costa de Calabria.",
+      "days": "Calcula entre 1 y 2 días: suficiente para visitar el museo arqueológico y los Bronces de Riace, recorrer el paseo marítimo (el corso) y, si el tiempo lo permite, hacer una escapada de medio día a Sicilia cruzando el estrecho."
+    },
+    "zh": {
+      "blurb": "雷焦卡拉布里亚坐落在意大利\"靴尖\"之上，隔着墨西拿海峡与西西里岛的火山海岸遥遥相望，天气晴朗时常能望见远处的埃特纳火山。这座城市最负盛名的，当属收藏于考古博物馆中的两尊希腊青铜巨像——里亚切青铜像，以及被当地人誉为\"意大利最美一英里\"的海滨大道。",
+      "getting": "大多数游客会选择飞抵雷焦卡拉布里亚机场（REG），当地人称之为\"蒂托·明尼蒂机场\"，该机场设有自己的小型火车站，位于约尼卡铁路线上，几分钟车程即可直达雷焦卡拉布里亚中央车站；也有游客选择乘火车或轮渡，经由海峡对岸的圣乔瓦尼别墅枢纽抵达。中央车站作为该市的主要铁路总站，还可向南连接西西里岛，向北沿卡拉布里亚海岸线延伸。",
+      "days": "建议安排1到2天：足够游览考古博物馆与里亚切青铜像、漫步海滨大道，若时间允许，还能抽出半天跨越海峡前往西西里岛一日游。"
+    }
+  },
+  "Saarbrücken": {
+    "en": {
+      "blurb": "Saarbrücken sits right on the French border, a compact Saarland capital where German efficiency meets a distinctly French-tinged ease in the cafes and sandstone streets of Sankt Johann. It is a city shaped by coal, steel and shifting borders, now better known as a relaxed gateway between two countries than as a tourist magnet in its own right.",
+      "getting": "Most travellers arrive by train into Saarbrücken Hauptbahnhof, which sits on the Paris to Frankfurt high-speed line served by ICE and TGV trains, with Paris reachable in ~1h50 and Frankfurt in ~2h30. There is a small regional airport nearby, but flight options are limited, so rail or a drive across the French or Luxembourg border is the typical access route.",
+      "days": "~1 to 2 days is enough to cover the old town, the Saarbrücken Castle area and a riverside stroll, with a third day useful if adding a side trip to the Völklingen Ironworks."
+    },
+    "ko": {
+      "blurb": "자르브뤼켄은 프랑스 국경에 바로 맞닿아 있는, 자를란트주의 아담한 주도입니다. 상크트 요한 지구의 사암 건물이 늘어선 거리와 카페들에는 독일 특유의 효율성과 프랑스풍의 여유로움이 함께 묻어납니다. 석탄과 철강 산업, 그리고 끊임없이 바뀌어 온 국경선 속에서 형성된 도시로, 지금은 그 자체로 관광 명소라기보다는 두 나라를 잇는 느긋한 관문 도시로 더 잘 알려져 있습니다.",
+      "getting": "대부분의 여행자는 기차로 자르브뤼켄 중앙역(Hauptbahnhof)에 도착합니다. 이 역은 파리와 프랑크푸르트를 잇는 고속철 노선에 위치해 ICE와 TGV가 운행하며, 파리까지는 약 1시간 50분, 프랑크푸르트까지는 약 2시간 30분이 걸립니다. 근처에 소규모 지역 공항이 있긴 하지만 운항 노선이 제한적이라, 보통은 기차를 이용하거나 프랑스 또는 룩셈부르크 국경을 넘어 차로 이동하는 것이 일반적인 접근 방법입니다.",
+      "days": "구시가지와 자르브뤼켄 성 주변, 강변 산책까지 둘러보는 데는 1~2일이면 충분하며, 푈클링겐 제철소(Völklingen Ironworks)로 당일치기 여행을 더하고 싶다면 3일째 일정을 잡는 것도 좋습니다."
+    },
+    "ja": {
+      "blurb": "ザールブリュッケンはフランス国境のすぐそばに位置する、ザールラント州のこぢんまりとした州都です。ドイツ的な効率性と、ザンクト・ヨハン地区の砂岩造りの街並みやカフェに漂うどこかフランス風の肩肘張らない雰囲気が溶け合っています。石炭と鉄鋼、そして幾度も揺れ動いた国境線によって形づくられてきた街であり、今では観光地としてというよりも、ドイツとフランスをゆるやかに結ぶ玄関口として知られています。",
+      "getting": "多くの旅行者はザールブリュッケン中央駅から列車で到着します。この駅はパリ〜フランクフルト間の高速鉄道路線上にあり、ICEやTGVが乗り入れているため、パリまで約1時間50分、フランクフルトまで約2時間30分でアクセスできます。近くに小さな地方空港もありますが、就航便は限られているため、鉄道、あるいはフランスやルクセンブルクとの国境を越えて車で向かうのが一般的なアクセス方法です。",
+      "days": "旧市街、ザールブリュッケン城周辺、そして川沿いの散策を楽しむなら、1〜2日あれば十分です。フェルクリンゲン製鉄所への小旅行も組み込みたい場合は、3日目を用意すると良いでしょう。"
+    },
+    "es": {
+      "blurb": "Saarbrücken se asienta justo en la frontera con Francia, una compacta capital del Sarre donde la eficiencia alemana se encuentra con un aire afrancesado en los cafés y las calles de arenisca de Sankt Johann. Es una ciudad forjada por el carbón, el acero y fronteras cambiantes, hoy más conocida como una relajada puerta de entrada entre dos países que como un imán turístico por derecho propio.",
+      "getting": "La mayoría de los viajeros llega en tren a la Saarbrücken Hauptbahnhof, situada en la línea de alta velocidad entre París y Fráncfort, con servicios ICE y TGV que permiten llegar a París en aproximadamente 1h50 y a Fráncfort en unas 2h30. Hay un pequeño aeropuerto regional cerca, pero las opciones de vuelo son limitadas, así que lo habitual es llegar en tren o en coche cruzando la frontera francesa o luxemburguesa.",
+      "days": "Con 1 o 2 días basta para recorrer el casco antiguo, la zona del castillo de Saarbrücken y pasear por la orilla del río; un tercer día resulta útil si se añade una excursión a las antiguas fábricas siderúrgicas de Völklingen."
+    },
+    "zh": {
+      "blurb": "萨尔布吕肯紧邻法国边境，是萨尔州这个袖珍州府的所在地。在圣约翰区的砂岩街道与咖啡馆里，德式的高效与一种明显带着法国味的悠闲在此交融。这座城市曾因煤炭、钢铁与边界变迁而兴起，如今与其说是旅游胜地，不如说更像是连接两国的一座轻松惬意的门户城市。",
+      "getting": "多数旅客搭乘火车抵达萨尔布吕肯中央车站，该站位于巴黎至法兰克福的高速铁路线上，有ICE和TGV列车停靠，到巴黎约1小时50分钟，到法兰克福约2小时30分钟。附近虽有一座小型地区机场，但航班选择有限，因此经铁路或自驾跨越法国或卢森堡边境，是比较常见的到达方式。",
+      "days": "安排1到2天便足以逛完老城区、萨尔布吕肯城堡一带，再沿河悠闲散步；如果还想顺道去一趟弗尔克林根炼铁厂，不妨多留一天。"
+    }
   }
 }
