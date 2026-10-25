@@ -95,30 +95,31 @@
     "shanghai-china-international-import-expo-ciie",
     "san-francisco-balmy-alley",
     "khiva-khiva-ichan-kala",
-    "kolkata-victoria-memorial"
+    "kolkata-victoria-memorial",
+    "mexico-city-bosque-de-chapultepec"
   ],
-  "lastSentDay": "2026-10-25",
+  "lastSentDay": "2026-10-26",
   "material": {
-    "day": "2026-10-25",
-    "slug": "kolkata-victoria-memorial",
-    "title": "Victoria Memorial: Kolkata Travel Guide (4.6★)",
+    "day": "2026-10-26",
+    "slug": "mexico-city-bosque-de-chapultepec",
+    "title": "Bosque de Chapultepec: Mexico City Travel Guide (4.7★)",
     "urls": [
-      "https://wanderatlasguides.com/og/social/2026-10-25-kolkata-victoria-memorial-1.jpg",
-      "https://wanderatlasguides.com/og/social/2026-10-25-kolkata-victoria-memorial-2.jpg",
-      "https://wanderatlasguides.com/og/social/2026-10-25-kolkata-victoria-memorial-3.jpg",
-      "https://wanderatlasguides.com/og/social/2026-10-25-kolkata-victoria-memorial-4.jpg"
+      "https://wanderatlasguides.com/og/social/2026-10-26-mexico-city-bosque-de-chapultepec-1.jpg",
+      "https://wanderatlasguides.com/og/social/2026-10-26-mexico-city-bosque-de-chapultepec-2.jpg",
+      "https://wanderatlasguides.com/og/social/2026-10-26-mexico-city-bosque-de-chapultepec-3.jpg",
+      "https://wanderatlasguides.com/og/social/2026-10-26-mexico-city-bosque-de-chapultepec-4.jpg"
     ],
-    "igCaption": "White marble, a spinning bronze angel, and 64 acres of gardens in the heart of Kolkata's Maidan. Victoria Memorial isn't just a photo stop from the gates — the Calcutta Gallery inside tells the city's whole story.\n\n#VictoriaMemorial #Kolkata #India #travelguide #travel #wanderatlas #IndiaTravel #TravelGuide #Maidan #IncredibleIndia\n📷 Photo: Subhrajyoti07 / Wikimedia Commons (CC BY-SA 4.0) (edited)\n📷 Photo: DeepanjanGhosh / Wikimedia Commons (CC BY-SA 4.0) (edited)",
-    "thOption": "The Memorial is closed every Monday and weekends get packed from 11am to 6pm — would you brave the crowds or plan around them?",
-    "link": "https://wanderatlasguides.com/posts/kolkata-victoria-memorial/"
+    "igCaption": "Bosque de Chapultepec: Mexico City Travel Guide (4.7★) — Mexico City, Mexico\n📷 Photo: EneasMx / Wikimedia Commons (CC BY-SA 4.0) (edited)\n📷 Photo: José Luiz / Wikimedia Commons (CC BY-SA 4.0) (edited)\n📷 Photo: Own work / Wikimedia Commons (CC BY-SA 4.0) (edited)",
+    "thOption": "Get to Chapultepec between 7-8am (any day) for empty paths — after 10am on weekends it's packed until the 6pm close. Carry small pesos for vendors and boat rentals; museums take cards.",
+    "link": "https://wanderatlasguides.com/posts/mexico-city-bosque-de-chapultepec/"
   },
   "social": {
-    "thDay": "2026-10-25",
-    "thId": "17881106160546045",
-    "igDay": "2026-10-23",
-    "igId": "18088207508304384",
-    "thSlug": "kolkata-victoria-memorial",
-    "igSlug": "san-francisco-balmy-alley",
+    "thDay": "2026-10-26",
+    "thId": "18086772302702927",
+    "igDay": "2026-10-26",
+    "igId": "18113028917171926",
+    "thSlug": "mexico-city-bosque-de-chapultepec",
+    "igSlug": "mexico-city-bosque-de-chapultepec",
     "history": [
       {
         "day": "2026-10-10",
@@ -286,7 +287,25 @@
         "day": "2026-10-19",
         "slug": "bangkok-bigbang-world-tour-xx-cosmos-in-bangkok",
         "thId": "18470029012141604",
-        "igId": "18118026506050222"
+        "igId": "18118026506050222",
+        "insights": {
+          "at": "2026-10-26",
+          "th": {
+            "views": 85,
+            "likes": 0,
+            "replies": 0,
+            "reposts": 0,
+            "quotes": 0
+          },
+          "ig": {
+            "reach": 0,
+            "saved": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "views": 0
+          }
+        }
       },
       {
         "day": "2026-10-20",
@@ -319,6 +338,12 @@
         "day": "2026-10-25",
         "slug": "kolkata-victoria-memorial",
         "thId": "17881106160546045"
+      },
+      {
+        "day": "2026-10-26",
+        "slug": "mexico-city-bosque-de-chapultepec",
+        "thId": "18086772302702927",
+        "igId": "18113028917171926"
       }
     ]
   }
