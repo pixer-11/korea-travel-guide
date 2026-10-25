@@ -37651,5 +37651,89 @@
   "registerBreak": false,
   "worst": "演出顺序和各自时长以主办方公布为准，本文不作任何推测。",
   "at": "2026-10-25T07:52:49.695Z"
+ },
+ "es/dubai-nancy-ajram-live-in-dubai": {
+  "hash": "600b28e783fa",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Las 24 de octubre de 2026",
+  "at": "2026-10-25T13:04:59.719Z"
+ },
+ "es/bariloche-cerro-campanario": {
+  "hash": "02dbca326a86",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Más que la hora, lo decisivo es el tiempo, porque de él depende por completo la vista.",
+  "at": "2026-10-25T13:05:01.087Z"
+ },
+ "es/borjomi-borjomi-park": {
+  "hash": "225ea5d6abec",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Los horarios cambian, d",
+  "at": "2026-10-25T13:05:02.304Z"
+ },
+ "ja/bariloche-cerro-campanario": {
+  "hash": "71b471012015",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "高い峰々には一年の大半で雪が残っていて、尾根の輪郭がひときわくっきりと浮かび上がります。",
+  "at": "2026-10-25T13:05:03.527Z"
+ },
+ "ja/borjomi-borjomi-park": {
+  "hash": "9cfaea6286be",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "彫刻が施された木のバルコニーや、パステルカラーの19世紀の邸宅",
+  "at": "2026-10-25T13:05:05.057Z"
+ },
+ "ja/buenos-aires-caminito": {
+  "hash": "9ee13af03e93",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-25T13:05:06.153Z"
+ },
+ "ko/bariloche-cerro-campanario": {
+  "hash": "857c5b3af72f",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "탑승장에서 2인승 체어리프트에 오르면 해발 약 1,050미터의 정상까지 데려다줍니다.",
+  "at": "2026-10-25T13:05:15.055Z"
+ },
+ "ko/borjomi-borjomi-park": {
+  "hash": "90856dd025d0",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "보르조미는 삼츠헤자바헤티 지역, 소나무로 뒤덮인 므트크바리 강의 좁은 협곡 안에 자리하고 있습니다.",
+  "at": "2026-10-25T13:05:24.846Z"
+ },
+ "ko/buenos-aires-caminito": {
+  "hash": "50c18260dd74",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이 땅을 야외 거리 박물관으로 바꾸자고 밀어붙인 사람이 이 동네 화가 베니토 킨켈라 마르틴이었고",
+  "at": "2026-10-25T13:05:32.766Z"
+ },
+ "zh/bariloche-cerro-campanario": {
+  "hash": "3775829a29bd",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "巴塔哥尼亚从来不缺大风，风一大缆椅就可能停运，这时只能走步道上山。",
+  "at": "2026-10-25T13:05:34.487Z"
+ },
+ "zh/borjomi-borjomi-park": {
+  "hash": "ca440bf50f2e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "温泉池由天然泉水注入，池壁砌着石头，水温暖和，隐在山谷尽头的树林之间。",
+  "at": "2026-10-25T13:05:36.274Z"
+ },
+ "zh/buenos-aires-caminito": {
+  "hash": "672234285a9b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "坐出租车或网约车会在河边的罗查湾（Vuelta de Rocha）下车，从这里开始游览正合适。",
+  "at": "2026-10-25T13:05:43.692Z"
  }
 }

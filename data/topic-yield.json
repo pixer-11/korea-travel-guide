@@ -10,11 +10,11 @@
    "hits": 97
   },
   "park": {
-   "attempts": 182,
-   "hits": 109
+   "attempts": 184,
+   "hits": 110
   },
   "viewpoint": {
-   "attempts": 83,
+   "attempts": 91,
    "hits": 9
   },
   "art gallery": {
@@ -30,7 +30,7 @@
    "hits": 5
   },
   "museum": {
-   "attempts": 158,
+   "attempts": 167,
    "hits": 91
   },
   "noodles": {
@@ -62,11 +62,11 @@
    "hits": 5
   },
   "trendy cafe": {
-   "attempts": 168,
+   "attempts": 170,
    "hits": 12
   },
   "street food": {
-   "attempts": 130,
+   "attempts": 141,
    "hits": 18
   },
   "bakery": {
@@ -86,8 +86,8 @@
    "hits": 0
   },
   "top attraction": {
-   "attempts": 155,
-   "hits": 116
+   "attempts": 169,
+   "hits": 123
   },
   "grill": {
    "attempts": 56,
@@ -1072,7 +1072,47 @@
   "Cusco Cathedral": {
    "attempts": 1,
    "hits": 1
+  },
+  "Laguna de los Tres and Mount Fitz Roy": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Cerro Campanario": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Museum of High Altitude Archaeology": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Bodega El Esteco": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Caminito": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Puerto de Frutos": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Iguazu Falls and the Devil's Throat": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Perito Moreno Glacier": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "End of the World Train": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Parque General San Martin and Cerro de la Gloria": {
+   "attempts": 1,
+   "hits": 1
   }
  },
- "updated": "2026-10-25T07:47:57.581Z"
+ "updated": "2026-10-25T13:00:56.047Z"
 }

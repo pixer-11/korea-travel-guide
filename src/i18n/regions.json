@@ -13981,5 +13981,275 @@
       "getting": "大多数旅行者前往梅斯蒂亚的方式是：先乘火车从第比利斯到祖格迪迪，再换乘marshrutka（共乘小巴）沿山路驶入斯瓦涅季，从祖格迪迪算起大约需要3到4小时车程。当地还有一座小型国内机场（塔玛尔女王机场），在天气允许的情况下，从第比利斯附近的一个支线机场提供季节性航班飞往梅斯蒂亚，不过座位有限，航班时间也并不固定。",
       "days": "建议安排3到5天左右：留出往返路程所需的时间，再用一天游览梅斯蒂亚的塔楼和博物馆，此外至少安排一次多日行程，深入前往乌树故里或周边的高山徒步路线。"
     }
+  },
+  "Bariloche": {
+    "en": {
+      "blurb": "Bariloche sits on the shores of Lake Nahuel Huapi in the Argentine Patagonian Andes, a chocolate-making town turned year-round outdoor base framed by jagged peaks. It draws travellers for ski season on Cerro Catedral in winter and for trekking, lake crossings and mountain scenery the rest of the year.",
+      "getting": "Most travellers fly into San Carlos de Bariloche Airport (BRC), located a short drive east of the centre, with regular domestic connections from Buenos Aires. An overnight bus from Buenos Aires's Retiro terminal is the common overland option, taking roughly 20 to 25 hours, while a weekly train also links the town to Viedma on the coast.",
+      "days": "Plan on ~3 to 5 days to cover the Circuito Chico lake-and-mountain drive, a Cerro Campanario or Catedral viewpoint, and time in the town itself, with extra days needed for multi-day treks or lake crossings into Chile."
+    },
+    "ko": {
+      "blurb": "바리로체는 아르헨티나 파타고니아 안데스 산맥, 나우엘 우아피 호수 기슭에 자리한 도시로, 초콜릿 산업으로 유명했던 마을에서 사계절 내내 즐길 수 있는 아웃도어 거점으로 변신했으며, 삐죽삐죽한 봉우리들이 그 주위를 둘러싸고 있다. 겨울에는 세로 카테드랄의 스키 시즌을, 나머지 계절에는 트레킹과 호수 크루즈, 그리고 웅장한 산악 경치를 즐기려는 여행자들이 이곳을 찾는다.",
+      "getting": "대부분의 여행자는 시내에서 동쪽으로 짧게 이동하면 닿는 산 카를로스 데 바리로체 공항(BRC)을 이용하며, 부에노스아이레스에서 국내선이 자주 운항된다. 부에노스아이레스 레티로 터미널에서 출발하는 야간 버스도 흔히 이용되는 육로 이동 수단으로, 약 20~25시간이 소요된다. 또한 주 1회 운행하는 기차가 해안 도시 비에드마와 바리로체를 연결한다.",
+      "days": "서르키토 치코(Circuito Chico) 호수·산악 드라이브 코스와 세로 캄파나리오 또는 카테드랄 전망대, 그리고 시내 자체를 둘러보는 데는 대략 3~5일이면 충분하다. 다만 여러 날에 걸친 트레킹이나 칠레로 넘어가는 호수 크루즈를 계획한다면 추가 일정이 필요하다."
+    },
+    "ja": {
+      "blurb": "バリローチェは、アルゼンチン・パタゴニアのアンデス山脈に抱かれたナウエル・ウアピ湖畔に広がる町。もとはチョコレート作りで知られていたが、今では切り立った山々を背景に、一年を通じてアウトドアの拠点として人気を集めている。冬はセロ・カテドラルでのスキーシーズンを、それ以外の季節はトレッキングや湖の渡航、雄大な山岳風景を目当てに多くの旅行者が訪れる。",
+      "getting": "ほとんどの旅行者はサン・カルロス・デ・バリローチェ空港(BRC)を利用して訪れる。空港は中心部から車で少し東に行った場所にあり、ブエノスアイレスからの国内線が定期的に運航している。陸路なら、ブエノスアイレスのレティーロ・ターミナルから出る夜行バスが一般的な選択肢で、所要時間はおよそ20〜25時間。また、週1便の列車が沿岸部のビエドマとバリローチェを結んでいる。",
+      "days": "観光には3〜5日程度を見ておくとよい。湖と山岳地帯を巡るサーキト・チコのドライブ、セロ・カンパナリオやセロ・カテドラルの展望スポット、そして町自体を散策する時間が目安だ。数日がかりのトレッキングやチリへの湖越えの船旅を加える場合は、さらに日数が必要になる。"
+    },
+    "es": {
+      "blurb": "Bariloche se asiste a orillas del lago Nahuel Huapi, en los Andes de la Patagonia argentina. Es un pueblo chocolatero convertido en una base al aire libre para todo el año, enmarcado por picos escarpados. Atrae viajeros por la temporada de esquí en el Cerro Catedral durante el invierno, y por el trekking, las travesías lacustres y los paisajes de montaña el resto del año.",
+      "getting": "La mayoría de los viajeros llega en avión al Aeropuerto San Carlos de Bariloche (BRC), ubicado a poca distancia en auto al este del centro, con vuelos domésticos frecuentes desde Buenos Aires. Un ómnibus nocturno desde la terminal de Retiro, en Buenos Aires, es la opción terrestre más habitual, con una duración de entre 20 y 25 horas aproximadamente, mientras que un tren semanal también conecta la ciudad con Viedma, en la costa.",
+      "days": "Conviene reservar entre 3 y 5 días para recorrer el Circuito Chico, con sus lagos y montañas, disfrutar de las vistas desde el Cerro Campanario o el Cerro Catedral, y pasar tiempo en el pueblo mismo. Habrá que sumar días adicionales si se planean trekkings de varios días o travesías lacustres hacia Chile."
+    },
+    "zh": {
+      "blurb": "巴里洛切坐落在阿根廷巴塔哥尼亚安第斯山脉的纳韦尔瓦皮湖畔，这座曾以巧克力闻名的小镇，如今已成为群峰环绕、四季皆宜的户外活动基地。冬季，它因卡特德拉尔山的滑雪季而备受青睐；其余时节，则吸引着徒步旅行者前来欣赏湖泊风光、体验跨湖之旅。",
+      "getting": "多数旅行者选择飞抵圣卡洛斯-德巴里洛切机场（BRC），该机场位于市中心以东不远处，与布宜诺斯艾利斯之间有稳定的国内航班往来。从布宜诺斯艾利斯雷蒂罗车站出发的夜间大巴是常见的陆路选择，车程约20到25小时；此外，每周还有一班火车连接巴里洛切与海滨城市别德马。",
+      "days": "建议安排约3到5天时间，游览奇科环线（Circuito Chico）沿湖沿山公路、坎帕纳里奥山或卡特德拉尔山观景点，并在小镇本身游览一番；若计划进行多日徒步，或是穿越湖泊前往智利，则需预留额外的时间。"
+    }
+  },
+  "Buenos Aires": {
+    "en": {
+      "blurb": "Buenos Aires pairs grand European-style boulevards and Belle Epoque architecture with the tango halls, steak houses and all-night cafe culture that give the Argentine capital its own unmistakable rhythm. Spread across neighbourhoods as varied as cobbled San Telmo and the glass towers of Puerto Madero, it is a city built for wandering on foot between long, late meals.",
+      "getting": "Most international flights land at Ezeiza International Airport (EZE), around 22km southwest of the centre, from where travellers reach the city by taxi, private transfer or the Tienda León shuttle bus to Retiro, with the journey taking roughly ~45-60 minutes. Domestic and regional flights typically use the smaller Aeroparque Jorge Newbery (AEP), just a few kilometres from downtown and a quicker ~20-30 minute taxi or bus ride away.",
+      "days": "Allow ~3-4 days to cover the main barrios, markets and a tango show, with extra time if day trips to the Tigre Delta or across the river to Uruguay are on the list."
+    },
+    "ko": {
+      "blurb": "부에노스아이레스는 유럽풍의 웅장한 대로와 벨 에포크 양식 건축물이, 탱고홀과 스테이크 하우스, 밤새 이어지는 카페 문화와 어우러지며 아르헨티나 수도만의 독특한 리듬을 만들어냅니다. 자갈길이 깔린 산텔모부터 유리 타워가 늘어선 푸에르토 마데로까지 저마다 색다른 매력을 지닌 동네들이 펼쳐져 있어, 느긋하고 긴 식사 사이사이 발길 닿는 대로 걸어 다니기 좋은 도시입니다.",
+      "getting": "대부분의 국제선은 시내에서 남서쪽으로 약 22km 떨어진 에세이사 국제공항(EZE)에 도착하며, 이곳에서 택시나 프라이빗 транс퍼, 혹은 레티로까지 운행하는 티엔다 레온 셔틀버스를 이용해 시내로 이동할 수 있습니다. 소요 시간은 대략 45~60분 정도입니다. 국내선 및 인근 지역 노선은 대개 시내에서 불과 몇 킬로미터 떨어진 더 작은 공항인 아에로파르케 호르헤 뉴베리(AEP)를 이용하며, 택시나 버스로 약 20~30분이면 도착할 수 있어 더 빠른 편입니다.",
+      "days": "주요 바리오(동네)와 시장들을 둘러보고 탱고 공연을 관람하려면 약 3~4일 정도를 잡는 것이 좋으며, 티그레 삼각주나 강 건너 우루과이로의 당일치기 여행까지 고려한다면 일정에 여유를 더 두는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "ブエノスアイレスは、ヨーロッパ風の壮大な並木道やベル・エポック様式の建築と、タンゴホール、ステーキハウス、そして夜通し賑わうカフェ文化が同居する街で、アルゼンチンの首都ならではの独特のリズムを生み出している。石畳が続くサン・テルモから、ガラス張りの高層ビルが立ち並ぶプエルト・マデロまで、表情豊かな地区が点在し、長く遅い食事の合間を縫って歩き回るのにぴったりの街だ。",
+      "getting": "国際線の多くはエセイサ国際空港(EZE)に到着する。中心部から南西へ約22kmの場所にあり、タクシーや送迎サービス、あるいはレティーロ行きのティエンダ・レオンのシャトルバスで市内へ向かうことができ、所要時間はおよそ45~60分ほど。一方、国内線や近隣諸国からの便は、ダウンタウンからわずか数kmのホルヘ・ニューベリー空港(AEP、通称アエロパルケ)を利用することが多く、タクシーやバスでの所要時間は20~30分程度と短い。",
+      "days": "主要な地区やマーケット巡り、タンゴショー鑑賞まで一通り楽しむには3~4日ほど見ておきたい。ティグレ・デルタへの日帰り旅行や、川を渡ってウルグアイまで足を延ばす予定があるなら、さらに日数を加えるとよいだろう。"
+    },
+    "es": {
+      "blurb": "Buenos Aires combina grandes bulevares de estilo europeo y arquitectura de la Belle Époque con salones de tango, parrillas y una cultura de cafés que no duerme, y que le dan a la capital argentina un ritmo inconfundible. Repartida en barrios tan diversos como el empedrado San Telmo y las torres de cristal de Puerto Madero, es una ciudad pensada para recorrerse a pie entre comidas largas y nocturnas.",
+      "getting": "La mayoría de los vuelos internacionales aterrizan en el Aeropuerto Internacional de Ezeiza (EZE), a unos 22 km al suroeste del centro, desde donde se llega a la ciudad en taxi, traslado privado o el servicio de combi de Tienda León hasta Retiro, con un trayecto de aproximadamente 45 a 60 minutos. Los vuelos domésticos y regionales suelen operar desde el más pequeño Aeroparque Jorge Newbery (AEP), a solo unos kilómetros del centro y a un viaje más corto, de unos 20 a 30 minutos en taxi o colectivo.",
+      "days": "Conviene reservar entre 3 y 4 días para recorrer los principales barrios, ferias y disfrutar de un show de tango, sumando tiempo extra si se planean excursiones de un día al Delta del Tigre o cruzando el río hacia Uruguay."
+    },
+    "zh": {
+      "blurb": "布宜诺斯艾利斯将欧式大道与美好年代建筑，和探戈厅、牛排馆以及彻夜不眠的咖啡馆文化融为一体，造就了这座阿根廷首都独有的生活节奏。从石板铺就的圣特尔莫（San Telmo）到玻璃幕墙林立的波多马德罗（Puerto Madero），城市分散在风格迥异的街区之中，正适合漫步其间，在一顿顿悠长的深夜大餐间穿梭游走。",
+      "getting": "大多数国际航班降落在埃塞萨国际机场（EZE），位于市中心西南约22公里处，旅客可乘出租车、私人接送服务，或搭乘Tienda León班车前往雷蒂罗（Retiro），车程约45-60分钟。国内及地区航班通常使用较小的豪尔赫·纽贝里机场（AEP，即Aeroparque），距市区仅几公里，乘出租车或巴士约20-30分钟即可到达，更为便捷快速。",
+      "days": "建议安排约3-4天时间，游览主要街区、集市并观赏一场探戈表演；若计划前往蒂格雷三角洲（Tigre Delta），或跨河前往乌拉圭一日游，则需预留更多时间。"
+    }
+  },
+  "El Calafate": {
+    "en": {
+      "blurb": "El Calafate sits on the shore of Lake Argentino in Argentine Patagonia, a once-sleepy sheep-trading outpost transformed into the gateway for the Perito Moreno Glacier and Los Glaciares National Park. The town itself is modest, but it exists almost entirely to serve travellers heading out to the ice.",
+      "getting": "Most visitors fly into El Calafate's own airport, Comandante Armando Tola International (FTE), with regular domestic connections from Buenos Aires, Ushuaia and Bariloche; there is no train line to the town. From the airport, which sits around 20 km from the centre, travellers reach town by shuttle, taxi or pre-booked transfer, since there is no public bus service on that route.",
+      "days": "Allow ~2 to 3 days: one for the ~1.5 hour journey each way to Perito Moreno Glacier itself, and extra time if you plan to add a side trip to El Chaltén or across the border to Puerto Natales, Chile."
+    },
+    "ko": {
+      "blurb": "아르헨티나 파타고니아의 아르헨티노 호숫가에 자리한 엘 칼라파테는 한때 한적한 양 거래 마을이었지만, 이제는 페리토 모레노 빙하와 로스 글라시아레스 국립공원으로 향하는 관문으로 탈바꿈했다. 마을 자체는 소박하지만, 그 존재 이유는 거의 전적으로 얼음을 보러 떠나는 여행자들을 맞이하는 데 있다.",
+      "getting": "대부분의 방문객은 엘 칼라파테 자체 공항인 코만단테 아르만도 톨라 국제공항(FTE)을 이용하며, 부에노스아이레스, 우수아이아, 바릴로체에서 국내선이 정기적으로 운항된다. 이 마을까지 연결되는 철도는 없다. 공항은 시내에서 약 20km 떨어져 있으며, 이 구간에는 대중버스가 없기 때문에 셔틀버스, 택시 또는 사전 예약한 трансфер(트랜스퍼)를 이용해 시내로 이동한다.",
+      "days": "약 2~3일 정도를 잡는 것이 좋다. 페리토 모레노 빙하까지 편도 약 1시간 30분이 걸리는 왕복 여정에 하루를 쓰고, 엘 찰텐이나 국경 너머 칠레의 푸에르토 나탈레스로 당일치기 또는 추가 여행을 계획한다면 그만큼의 시간을 더 확보해야 한다."
+    },
+    "ja": {
+      "blurb": "エル・カラファテは、アルゼンチン・パタゴニアのアルヘンティーノ湖畔に位置する町だ。かつては羊の取引で生計を立てるのどかな前哨地にすぎなかったが、今やペリト・モレノ氷河とロス・グラシアレス国立公園への玄関口として生まれ変わった。町自体はこぢんまりとしているが、その存在意義はほぼ一つ、氷河を目指す旅行者たちをもてなすことにある。",
+      "getting": "多くの旅行者は、エル・カラファテ自前の空港であるコマンダンテ・アルマンド・トーラ国際空港(FTE)を利用して訪れる。ブエノスアイレス、ウシュアイア、バリローチェからの国内便が定期的に運航しているが、町へ鉄道で行く手段はない。空港は市街地から約20km離れており、そこから町までは、シャトルバス、タクシー、あるいは事前予約の送迎サービスを利用することになる。この区間には路線バスが走っていないためだ。",
+      "days": "滞在日数の目安は2〜3日。ペリト・モレノ氷河への往復だけでも片道約1.5時間かかるため、それだけで1日は見ておきたい。さらに、エル・チャルテンへの小旅行や、国境を越えてチリのプエルト・ナタレスまで足を延ばす予定があるなら、その分の日数も加算しておこう。"
+    },
+    "es": {
+      "blurb": "El Calafate se encuentra a orillas del lago Argentino, en plena Patagonia argentina. Este antiguo pueblo dedicado al comercio de lana, antes tranquilo y poco conocido, se ha convertido en la puerta de entrada al Glaciar Perito Moreno y al Parque Nacional Los Glaciares. El pueblo en sí es modesto, pero existe casi exclusivamente para atender a los viajeros que parten rumbo al hielo.",
+      "getting": "La mayoría de los visitantes llega en avión al propio aeropuerto de El Calafate, el Comandante Armando Tola International (FTE), que cuenta con vuelos regulares de cabotaje desde Buenos Aires, Ushuaia y Bariloche; no existe línea de tren hasta el pueblo. Desde el aeropuerto, ubicado a unos 20 km del centro, se llega a la ciudad en combi, taxi o traslado reservado con antelación, ya que no hay servicio de colectivo público en ese trayecto.",
+      "days": "Conviene reservar entre 2 y 3 días: uno para el viaje de ida y vuelta (de aproximadamente 1 hora y media cada tramo) hasta el Glaciar Perito Moreno, y tiempo adicional si se planea sumar una excursión a El Chaltén o cruzar la frontera hacia Puerto Natales, Chile."
+    },
+    "zh": {
+      "blurb": "埃尔卡拉法特坐落在阿根廷巴塔哥尼亚阿根廷湖畔，曾经只是个默默无闻的绵羊贸易小镇，如今已摇身一变，成为通往莫雷诺冰川和洛斯格拉西亚雷斯国家公园的门户。小镇本身规模不大，几乎完全是为了服务前往冰川的游客而存在的。",
+      "getting": "大多数游客会飞抵埃尔卡拉法特自己的机场——指挥官阿曼多·托拉国际机场（FTE），该机场与布宜诺斯艾利斯、乌斯怀亚和巴里洛切之间有定期的国内航班往来；小镇没有铁路线路。机场距市中心约20公里，由于该线路没有公共巴士服务，游客需要搭乘班车、出租车或提前预订的接驳车前往市区。",
+      "days": "建议安排约2到3天的行程：前往莫雷诺冰川本身单程约需1.5小时，这部分至少要留出一天时间；如果你还计划顺道前往埃尔查尔顿，或是跨境前往智利的纳塔莱斯港，则需要预留额外的时间。"
+    }
+  },
+  "El Chalten": {
+    "en": {
+      "blurb": "El Chalten is Argentina's official national trekking capital, a small Patagonian village set inside Los Glaciares National Park at the foot of Mount Fitz Roy. Trails to iconic viewpoints like Laguna de los Tres and Laguna Torre begin right at the edge of town, with no permits or transport needed to reach the trailheads.",
+      "getting": "El Chalten has no airport of its own: travellers fly into El Calafate International Airport (FTE) and continue overland, typically by bus, shuttle or rental car, on the paved road north. The journey covers roughly 200 to 220 km and takes approximately 3 hours.",
+      "days": "Plan on ~3 to 4 days in El Chalten to cover the three signature day hikes to Fitz Roy and Cerro Torre viewpoints, plus a buffer day for Patagonia's unpredictable winds and weather."
+    },
+    "ko": {
+      "blurb": "엘 찰텐은 아르헨티나가 공식적으로 인정한 '트레킹의 수도'로, 피츠로이 산 기슭의 로스 글라시아레스 국립공원 안에 자리한 작은 파타고니아 마을입니다. 라구나 데 로스 트레스, 라구나 토레 같은 대표 전망 포인트로 향하는 트레일이 마을 끝자락에서 바로 시작되며, 별도의 허가증이나 교통편 없이도 걸어서 출발점까지 갈 수 있습니다.",
+      "getting": "엘 찰텐에는 자체 공항이 없습니다. 여행자는 엘 칼라파테 국제공항(FTE)으로 입국한 뒤, 북쪽으로 포장도로를 따라 버스, 셔틀 또는 렌터카로 육로 이동을 이어갑니다. 이동 거리는 약 200~220km이며, 소요 시간은 약 3시간입니다.",
+      "days": "피츠로이와 세로 토레 전망대로 향하는 대표적인 당일 트레킹 세 코스를 둘러보려면 엘 찰텐에서 약 3~4일 정도를 계획하는 것이 좋습니다. 여기에 파타고니아 특유의 변덕스러운 바람과 날씨에 대비한 여유일도 하루 추가하는 것을 추천합니다."
+    },
+    "ja": {
+      "blurb": "エル・チャルテンは、アルゼンチン公式の「トレッキングの首都」に認定されているパタゴニアの小さな村で、ロス・グラシアレス国立公園内、フィッツ・ロイ山の麓に位置しています。ラグーナ・デ・ロス・トレスやラグーナ・トーレといった象徴的なビューポイントへのトレイルは町外れからすぐに始まり、許可証や特別な交通手段なしで登山口まで行くことができます。",
+      "getting": "エル・チャルテンには空港がないため、旅行者はまずエル・カラファテ国際空港（FTE）へ飛び、そこから陸路で北へ向かいます。移動手段はバス、シャトル、レンタカーが一般的で、舗装された道を進みます。距離はおよそ200〜220km、所要時間は約3時間です。",
+      "days": "フィッツ・ロイとセロ・トーレ、2つの展望地を巡る定番の日帰りハイキング3コースを楽しむには、エル・チャルテンに3〜4日ほど滞在するのがおすすめです。さらに、パタゴニア特有の変わりやすい風や天候に備えて、予備日を1日見ておくと安心です。"
+    },
+    "es": {
+      "blurb": "El Chaltén es la capital nacional del trekking en Argentina, un pequeño pueblo patagónico ubicado dentro del Parque Nacional Los Glaciares, a los pies del Monte Fitz Roy. Los senderos hacia miradores emblemáticos como Laguna de los Tres y Laguna Torre arrancan justo a las afueras del pueblo, sin necesidad de permisos ni traslados para llegar hasta el inicio de la caminata.",
+      "getting": "El Chaltén no cuenta con aeropuerto propio: los viajeros llegan en avión al Aeropuerto Internacional de El Calafate (FTE) y continúan por tierra, generalmente en bus, combi o auto alquilado, por la ruta asfaltada hacia el norte. El trayecto cubre entre 200 y 220 km y demora aproximadamente 3 horas.",
+      "days": "Se recomienda destinar entre 3 y 4 días en El Chaltén para recorrer las tres caminatas de día más emblemáticas hacia los miradores del Fitz Roy y el Cerro Torre, sumando un día extra de margen por los vientos y el clima impredecible de la Patagonia."
+    },
+    "zh": {
+      "blurb": "埃尔查尔顿是阿根廷官方认证的国家徒步之都，这座巴塔哥尼亚小镇坐落在洛斯格拉西亚雷斯国家公园内，就在菲茨罗伊峰脚下。通往三湖（Laguna de los Tres）和托雷湖（Laguna Torre）等标志性观景点的步道，从镇子边缘就能直接出发，无需办理许可证，也不用额外搭乘交通工具前往起点。",
+      "getting": "埃尔查尔顿本身没有机场：游客通常先飞抵埃尔卡拉法特国际机场（FTE），再沿北上的柏油公路换乘大巴、班车或自驾前往，全程约200至220公里，车程大约3小时。",
+      "days": "建议在埃尔查尔顿停留约3到4天，足以完成前往菲茨罗伊峰和托雷峰观景点的三条经典徒步路线，再预留一天作为机动时间，以应对巴塔哥尼亚多变的大风和天气。"
+    }
+  },
+  "Mendoza": {
+    "en": {
+      "blurb": "Mendoza sits at the foot of the Andes as Argentina's capital of wine, surrounded by vineyards, snow-capped peaks and irrigated desert that turns green the moment water reaches it. It is a city built for slow afternoons of malbec tasting, cycling through wine estates and staring up at Aconcagua's distant summit.",
+      "getting": "Most travellers fly into Governor Francisco Gabrielli International Airport (MDZ), also known as El Plumerillo, which sits a short drive northeast of the city centre; taxis, remises and airport buses connect it to downtown. Overland travellers typically arrive by long-distance bus from Buenos Aires or Santiago de Chile into Mendoza's main bus terminal, a journey of roughly 13 to 17 hours from Buenos Aires or around 7 hours from Santiago.",
+      "days": "Plan on ~3 to 4 days to cover the city centre, a day trip into the Maipú or Luján de Cuyo wine regions, and some time to simply take in the Andean backdrop."
+    },
+    "ko": {
+      "blurb": "멘도사는 안데스산맥 기슭에 자리한 아르헨티나 와인의 수도로, 포도밭과 만년설 봉우리, 그리고 물이 닿는 순간 초록빛으로 변하는 관개 사막에 둘러싸여 있습니다. 말벡 와인을 음미하고, 와이너리 사이를 자전거로 누비고, 저 멀리 아콩카과 정상을 바라보며 여유로운 오후를 보내기에 더없이 좋은 도시입니다.",
+      "getting": "대부분의 여행자는 엘 플루메리요로도 불리는 멘도사 주지사 프란시스코 가브리엘리 국제공항(MDZ)을 이용해 입국합니다. 공항은 시내 북동쪽에서 차로 얼마 걸리지 않는 거리에 있으며, 택시, 레미세(예약제 차량), 공항버스를 통해 시내와 연결됩니다. 육로로 이동하는 여행자들은 대개 부에노스아이레스나 칠레 산티아고에서 장거리 버스를 타고 멘도사 중앙 버스터미널로 들어오는데, 부에노스아이레스에서는 약 13~17시간, 산티아고에서는 약 7시간이 소요됩니다.",
+      "days": "시내를 둘러보는 데 약 3~4일, 마이푸나 루한 데 쿠요 와인 산지로의 당일치기 여행, 그리고 안데스산맥의 풍경을 여유롭게 감상할 시간까지 고려해 일정을 짜는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "メンドーサはアルゼンチン・ワインの首都として、アンデス山脈の麓に広がる街だ。ぶどう畑と雪を頂く山々、そして水が届いた途端に緑を取り戻す灌漑砂漠に囲まれている。マルベックをゆっくり味わいながら午後を過ごし、自転車でワイナリーを巡り、遥か彼方にそびえるアコンカグアの頂を見上げる——そんな時間の流れ方がよく似合う街だ。",
+      "getting": "多くの旅行者は、通称「エル・プルメリージョ」として知られるメンドーサ州知事フランシスコ・ガブリエッリ国際空港(MDZ)を利用する。空港は市街中心部から北東へ少し行ったところにあり、タクシーやレミス(ハイヤー)、空港バスで市内へアクセスできる。陸路で訪れる旅行者は、ブエノスアイレスやチリのサンティアゴから長距離バスでメンドーサのバスターミナルに到着するのが一般的で、所要時間はブエノスアイレスからおよそ13〜17時間、サンティアゴからは約7時間ほどだ。",
+      "days": "市街中心部を巡るだけでも3〜4日ほど見ておきたい。さらに、マイプーやルハン・デ・クージョのワイン産地への日帰り旅行、そしてアンデスの山々をただ眺めて過ごす時間も加えておくといいだろう。"
+    },
+    "es": {
+      "blurb": "Mendoza se asienta a los pies de los Andes como la capital del vino de Argentina, rodeada de viñedos, picos nevados y un desierto irrigado que reverdece apenas el agua lo alcanza. Es una ciudad hecha para tardes pausadas de cata de malbec, paseos en bicicleta por las bodegas y la mirada perdida en la cumbre lejana del Aconcagua.",
+      "getting": "La mayoría de los viajeros llega por el Aeropuerto Internacional Gobernador Francisco Gabrielli (MDZ), conocido también como El Plumerillo, ubicado a pocos minutos en auto al noreste del centro; taxis, remises y buses del aeropuerto lo conectan con la ciudad. Quienes viajan por tierra suelen llegar en micros de larga distancia desde Buenos Aires o Santiago de Chile a la terminal principal de ómnibus de Mendoza, con un trayecto de entre 13 y 17 horas desde Buenos Aires o unas 7 horas desde Santiago.",
+      "days": "Calculá entre 3 y 4 días para recorrer el centro de la ciudad, sumar una excursión de un día a las zonas vitivinícolas de Maipú o Luján de Cuyo, y reservar algo de tiempo simplemente para disfrutar del paisaje andino de fondo."
+    },
+    "zh": {
+      "blurb": "门多萨坐落于安第斯山脉脚下,是阿根廷的葡萄酒之都。这里葡萄园遍布,雪山环绕,原本干旱的荒漠一旦引水灌溉便立刻焕发绿意。这座城市天生适合悠闲度日——品一杯马尔贝克红酒,骑车穿梭于各个酒庄之间,或是远眺阿空加瓜山遥远的峰顶,时光都变得格外从容。",
+      "getting": "大多数旅行者会乘飞机抵达门多萨省长弗朗西斯科·加布里埃利国际机场(MDZ,又称\"埃尔普卢梅里约机场\"),该机场位于市中心东北方向车程不远处,出租车、城际专车(remise)和机场大巴均可往返市区。选择陆路出行的旅客通常从布宜诺斯艾利斯或智利圣地亚哥搭乘长途大巴抵达门多萨市中心的主汽车站,从布宜诺斯艾利斯出发车程约13至17小时,从圣地亚哥出发则约需7小时。",
+      "days": "建议安排约3至4天的行程:用一部分时间游览市中心,再安排一日前往迈普(Maipú)或卢汉德库约(Luján de Cuyo)葡萄酒产区一日游,剩下的时间不妨什么都不做,只是静静欣赏安第斯山脉的壮丽背景。"
+    }
+  },
+  "Puerto Iguazu": {
+    "en": {
+      "blurb": "Puerto Iguazu sits in Argentina's subtropical Misiones province, right at the point where Argentina, Brazil and Paraguay meet, and it exists almost entirely as a gateway to the thundering Iguazu Falls next door. The town itself is low-key and green, a base of guesthouses and asado joints rather than a destination in its own right, built around the rhythm of falls visits and river views.",
+      "getting": "Most travellers fly into Cataratas del Iguazú International Airport (IGR), located about 20km from town, then take a shuttle, public bus or taxi into the centre, a journey of roughly 30 to 45 minutes. Long-distance buses from Buenos Aires, Posadas and other Argentine cities also arrive at the Terminal de Ómnibus de Puerto Iguazú in the town centre.",
+      "days": "Plan on ~2 to 3 days: one full day for the Argentine side of the falls, which has far more trails and viewpoints than the Brazilian side, plus extra time if you want to cross into Brazil or Paraguay or add a boat excursion under the falls."
+    },
+    "ko": {
+      "blurb": "푸에르토 이과수는 아르헨티나의 아열대 기후 미시오네스 주, 아르헨티나·브라질·파라과이 세 나라가 맞닿는 지점에 자리한 도시로, 바로 옆에 있는 웅장한 이과수 폭포로 가는 관문 역할을 거의 전담하다시피 하는 곳이다. 도시 자체는 차분하고 녹음이 우거져 있으며, 그 자체로 목적지라기보다는 게스트하우스와 아사도 식당들이 모여 있는 거점에 가깝고, 폭포 방문과 강변 풍경을 중심으로 돌아가는 리듬 속에 형성되어 있다.",
+      "getting": "대부분의 여행자는 시내에서 약 20km 떨어진 카타라타스 델 이과수 국제공항(IGR)으로 입국한 뒤, 셔틀버스나 시내버스, 택시를 이용해 30~45분 정도 걸려 시내로 이동한다. 부에노스아이레스, 포사다스를 비롯한 아르헨티나 각 도시에서 출발하는 장거리 버스는 시내 중심가에 있는 푸에르토 이과수 버스터미널(Terminal de Ómnibus de Puerto Iguazú)에 도착한다.",
+      "days": "대략 2~3일 정도를 잡으면 된다. 아르헨티나 쪽 폭포는 브라질 쪽보다 훨씬 많은 트레일과 전망대를 갖추고 있어 하루를 통째로 할애할 만하며, 브라질이나 파라과이로 국경을 넘거나 폭포 아래를 지나는 보트 투어를 추가하고 싶다면 여유 시간을 더 두는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "プエルト・イグアスは、アルゼンチン、ブラジル、パラグアイの三国が接する地点に位置する、アルゼンチン亜熱帯ミシオネス州の町です。その存在意義はほぼ、すぐ隣にある轟音響くイグアスの滝への玄関口としての役割に尽きます。町自体はこぢんまりとして緑豊かで、観光地というよりは宿とアサード(アルゼンチン風バーベキュー)の店が並ぶ拠点といった趣があり、滝巡りと川の眺めを中心に時間が流れていきます。",
+      "getting": "多くの旅行者は、町から約20kmの場所にあるイグアス滝国際空港(IGR)を利用し、そこからシャトルバス、路線バス、またはタクシーで中心部へ向かいます。所要時間はおよそ30~45分です。ブエノスアイレスやポサーダスなど、アルゼンチン各地からの長距離バスも、町中心部にあるプエルト・イグアスバスターミナルに到着します。",
+      "days": "滞在の目安は2~3日です。アルゼンチン側の滝だけでも、ブラジル側よりはるかに多くの遊歩道や展望ポイントがあるため、丸1日は確保しておきたいところ。さらにブラジルやパラグアイへ足を延ばしたり、滝壺近くまで迫るボートツアーに参加したりする場合は、その分の日数を追加しましょう。"
+    },
+    "es": {
+      "blurb": "Puerto Iguazú se encuentra en la subtropical provincia argentina de Misiones, justo en el punto donde se encuentran Argentina, Brasil y Paraguay, y existe casi exclusivamente como puerta de entrada a las atronadoras Cataratas del Iguazú, a un paso de distancia. El pueblo en sí es tranquilo y verde, una base de hospedajes y asadores más que un destino en sí mismo, organizado en torno al ritmo de las visitas a las cataratas y las vistas al río.",
+      "getting": "La mayoría de los viajeros llega en avión al Aeropuerto Internacional Cataratas del Iguazú (IGR), ubicado a unos 20 km del pueblo, y luego toma un traslado, un colectivo público o un taxi hasta el centro, un trayecto de entre 30 y 45 minutos aproximadamente. Los ómnibus de larga distancia desde Buenos Aires, Posadas y otras ciudades argentinas también llegan a la Terminal de Ómnibus de Puerto Iguazú, en pleno centro del pueblo.",
+      "days": "Conviene planear entre 2 y 3 días: un día completo para el lado argentino de las cataratas, que cuenta con muchos más senderos y miradores que el lado brasileño, además de tiempo extra si se quiere cruzar a Brasil o Paraguay, o sumar una excursión en lancha por debajo de las cataratas."
+    },
+    "zh": {
+      "blurb": "伊瓜苏港位于阿根廷亚热带的米西奥内斯省，正好坐落在阿根廷、巴西和巴拉圭三国交界之处，几乎完全是作为前往近旁那气势磅礴的伊瓜苏瀑布的门户而存在的。小镇本身低调而葱郁，与其说是一个旅游目的地，不如说是一处落脚点，遍布民宿和烤肉馆，整个节奏都围绕着游览瀑布和欣赏河景展开。",
+      "getting": "大多数游客会飞抵伊瓜苏瀑布国际机场（IGR），该机场距市中心约20公里，之后可乘坐班车、公交车或出租车进城，车程约30到45分钟。来自布宜诺斯艾利斯、波萨达斯及阿根廷其他城市的长途汽车，则会抵达位于市中心的伊瓜苏港汽车总站。",
+      "days": "建议安排2到3天左右的行程：用一整天游览阿根廷一侧的瀑布，这里的步道和观景点比巴西一侧丰富得多；如果还想跨境前往巴西或巴拉圭，或者加一项瀑布下的游船项目，记得多预留些时间。"
+    }
+  },
+  "Purmamarca": {
+    "en": {
+      "blurb": "Purmamarca sits at the foot of the Cerro de los Siete Colores, a striated hillside whose bands of red, ochre and green rock have made this tiny adobe village one of the most photographed spots in the Argentine Andes. Its cobbled streets, artisan market and colonial chapel retain a strong Quechua character, even as day trippers pour in from across the Quebrada de Humahuaca.",
+      "getting": "The nearest airport is Jujuy (JUJ), roughly ~60 miles away, from which travellers typically take a taxi, rideshare or transfer (~1 to 1.5 hours) into San Salvador de Jujuy before connecting onward. From the regional bus hub in San Salvador de Jujuy, regular buses to Purmamarca take ~1 to 1.5 hours.",
+      "days": "Most visitors base here for ~1 to 2 days, enough time to walk the circuit around the Cerro de los Siete Colores, browse the market square and use Purmamarca as a springboard for day trips to Salinas Grandes and the wider Quebrada de Humahuaca."
+    },
+    "ko": {
+      "blurb": "푸르마마르카는 '일곱 빛깔 언덕(Cerro de los Siete Colores)'의 기슭에 자리한 마을이다. 붉은빛, 황토빛, 초록빛 암석층이 줄무늬처럼 겹겹이 쌓인 이 언덕 덕분에, 아도베 흙집이 늘어선 이 작은 마을은 아르헨티나 안데스에서 가장 사진이 많이 찍히는 명소 중 하나가 되었다. 케브라다 데 우마우아카 곳곳에서 당일치기 여행객들이 몰려드는 와중에도, 자갈길과 수공예품 시장, 식민지 시대 예배당은 여전히 짙은 케추아족의 정취를 간직하고 있다.",
+      "getting": "가장 가까운 공항은 후후이 공항(JUJ)으로, 거리는 약 60마일(약 97km) 정도다. 이곳에서 대부분 택시나 라이드셰어, 또는 транс퍼 차량을 이용해 약 1~1.5시간을 달려 산살바도르 데 후후이로 이동한 뒤 환승한다. 산살바도르 데 후후이의 지역 버스 터미널에서는 푸르마마르카행 버스가 정기적으로 운행되며, 소요 시간은 약 1~1.5시간이다.",
+      "days": "대부분의 여행자는 이곳에서 약 1~2일을 머문다. 일곱 빛깔 언덕 주변 트레일을 걷고, 시장 광장을 둘러보고, 살리나스 그란데스와 케브라다 데 우마우아카 일대로 당일치기 여행을 다녀오기에 충분한 시간이다."
+    },
+    "ja": {
+      "blurb": "プルママルカは「七色の丘」ことセロ・デ・ロス・シエテ・コロレスの麓に広がる小さなアドベ造りの村で、赤やオーカー、緑の地層が織りなす丘の縞模様は、アルゼンチン・アンデスの中でも屈指の撮影スポットとして知られています。石畳の道や職人市、植民地時代のチャペルには今も色濃くケチュアの文化が息づいており、ケブラダ・デ・ウマワカ各地から日帰り客が押し寄せる今もその雰囲気は健在です。",
+      "getting": "最寄り空港はフフイ空港(JUJ)で、村までは約60マイル。多くの旅行者はここからタクシーやライドシェア、送迎サービス(所要約1~1.5時間)でサン・サルバドル・デ・フフイへ向かい、そこで乗り継ぎます。サン・サルバドル・デ・フフイの地方バスターミナルからは、プルママルカ行きのバスが定期的に運行しており、所要時間は約1~1.5時間です。",
+      "days": "滞在の目安は1~2日ほど。セロ・デ・ロス・シエテ・コロレスを一周する散策路を歩いたり、市場の広場をのんびり巡ったりするのに十分な時間です。また、サリナス・グランデスやケブラダ・デ・ウマワカ一帯への日帰り旅行の拠点としても便利です。"
+    },
+    "es": {
+      "blurb": "Purmamarca se asienta a los pies del Cerro de los Siete Colores, una ladera estriada cuyas bandas de roca roja, ocre y verde han convertido a este pequeño pueblo de adobe en uno de los rincones más fotografiados de los Andes argentinos. Sus calles empedradas, su mercado artesanal y su capilla colonial conservan un marcado carácter quechua, pese a la avalancha de visitantes de un día que llegan desde toda la Quebrada de Humahuaca.",
+      "getting": "El aeropuerto más cercano es el de Jujuy (JUJ), a unos 95 km de distancia, desde donde lo habitual es tomar un taxi, un servicio de traslado o una app de viajes (entre 1 y 1,5 horas) hasta San Salvador de Jujuy para luego continuar el trayecto. Desde la terminal de ómnibus de San Salvador de Jujuy, hay buses regulares a Purmamarca que demoran entre 1 y 1,5 horas.",
+      "days": "La mayoría de los viajeros se queda entre 1 y 2 días, tiempo suficiente para recorrer el circuito alrededor del Cerro de los Siete Colores, curiosear en la plaza del mercado y usar Purmamarca como base para excursiones de un día a las Salinas Grandes y al resto de la Quebrada de Humahuaca."
+    },
+    "zh": {
+      "blurb": "普马马尔卡坐落在七彩山脚下，这座层理分明的山丘以红、赭、绿交织的岩层闻名，让这个小小的土坯村庄成为阿根廷安第斯地区最上镜的地方之一。尽管来自乌马瓦卡峡谷各地的游客络绎不绝，这里的鹅卵石街道、手工艺品市场和殖民时期小教堂依然保留着浓厚的克丘亚风情。",
+      "getting": "最近的机场是胡胡伊机场（JUJ），距离约60英里。旅客通常先乘坐出租车、网约车或接驳车（约1至1.5小时）前往圣萨尔瓦多-德胡胡伊，再转乘前往目的地的交通工具。从圣萨尔瓦多-德胡胡伊的区域巴士枢纽出发，乘坐班车前往普马马尔卡约需1至1.5小时。",
+      "days": "大多数游客会在这里停留约1至2天，足够时间沿七彩山徒步一圈、逛逛市集广场，并以普马马尔卡为据点，前往萨利纳斯格兰德斯盐沼和更广阔的乌马瓦卡峡谷进行一日游。"
+    }
+  },
+  "Salta": {
+    "en": {
+      "blurb": "Salta sits in a high Andean valley in northwestern Argentina, its colonial centre of whitewashed churches and cobbled plazas framed by surrounding mountains. The city is best known as the gateway to the Tren a las Nubes, the historic high-altitude railway that climbs from the Lerma Valley toward the Andean plateau.",
+      "getting": "Most travellers fly into Salta's Martín Miguel de Güemes International Airport (SLA), located a few kilometres southwest of downtown, with regular domestic connections from Buenos Aires and other regional hubs. Long-distance buses from major Argentine cities also serve Salta's central bus terminal, a journey of many hours given the distances involved.",
+      "days": "Plan on ~3 to 4 days: enough to explore the historic centre and museums, take a day trip into the Lerma Valley or Quebrada del Toro, and allow a full day for the Tren a las Nubes excursion itself."
+    },
+    "ko": {
+      "blurb": "살타는 아르헨티나 북서부, 안데스 산맥 고지대의 계곡에 자리 잡은 도시로, 하얀 벽의 교회와 돌이 깔린 광장이 어우러진 식민지 시대의 구시가지를 사방의 산들이 병풍처럼 둘러싸고 있다. 이 도시는 무엇보다 '구름 열차(Tren a las Nubes)'의 출발점으로 유명한데, 레르마 계곡에서 출발해 안데스 고원을 향해 올라가는 역사적인 고산 철도다.",
+      "getting": "대부분의 여행자는 시내 남서쪽으로 몇 킬로미터 떨어진 살타의 마르틴 미겔 데 구에메스 국제공항(SLA)을 이용해 들어온다. 부에노스아이레스를 비롯한 주요 지방 거점 도시에서 국내선이 정기적으로 운항된다. 아르헨티나 각지의 주요 도시에서 출발하는 장거리 버스도 살타 중앙 버스터미널까지 운행하지만, 워낙 거리가 먼 탓에 소요 시간이 상당히 길다.",
+      "days": "3~4일 정도를 잡으면 적당하다. 역사 지구와 박물관들을 둘러보고, 레르마 계곡이나 케브라다 델 토로로 당일치기 여행을 다녀오고, 구름 열차 투어 자체에는 온전히 하루를 할애할 수 있는 일정이다."
+    },
+    "ja": {
+      "blurb": "サルタはアルゼンチン北西部、アンデスの山々に囲まれた高地の谷に広がる街で、白壁の教会と石畳の広場が立ち並ぶ植民地時代の中心街を、周囲の山並みが縁取っている。この街が最もよく知られているのは、レルマ渓谷からアンデスの高原地帯へと登っていく歴史ある高地鉄道「雲の列車(Tren a las Nubes)」の玄関口としてだろう。",
+      "getting": "多くの旅行者は、ダウンタウンから南西に数キロの場所にあるサルタ・マルティン・ミゲル・デ・グエメス国際空港(SLA)を利用して到着する。ブエノスアイレスをはじめ、各地の主要都市から定期的な国内線が就航している。アルゼンチン各地の主要都市からは長距離バスもサルタの中央バスターミナルに乗り入れているが、距離が長いため移動には何時間もかかる。",
+      "days": "滞在の目安は3〜4日ほど。歴史地区や博物館をゆっくり巡る時間に加え、レルマ渓谷やケブラダ・デル・トロへの日帰り旅行、そして「雲の列車」の小旅行そのものに丸一日を充てるとちょうどよい。"
+    },
+    "es": {
+      "blurb": "Salta se asienta en un valle andino de altura, en el noroeste de Argentina, con un centro colonial de iglesias encaladas y plazas empedradas enmarcado por las montañas que la rodean. La ciudad es conocida sobre todo como la puerta de entrada al Tren a las Nubes, el histórico ferrocarril de altura que asciende desde el Valle de Lerma hacia la puna andina.",
+      "getting": "La mayoría de los viajeros llega a Salta por el Aeropuerto Internacional Martín Miguel de Güemes (SLA), ubicado a pocos kilómetros al suroeste del centro, con conexiones regulares de cabotaje desde Buenos Aires y otros polos regionales. Los ómnibus de larga distancia desde las principales ciudades argentinas también llegan a la terminal de ómnibus de Salta, aunque el viaje demanda muchas horas dadas las distancias.",
+      "days": "Conviene planear entre 3 y 4 días: suficientes para recorrer el centro histórico y sus museos, hacer una excursión de un día al Valle de Lerma o a la Quebrada del Toro, y reservar una jornada completa para la excursión del Tren a las Nubes."
+    },
+    "zh": {
+      "blurb": "萨尔塔坐落于阿根廷西北部的安第斯高原河谷之中，殖民时期的市中心白墙教堂与鹅卵石广场林立，四周群山环绕，景色宜人。这座城市最为人称道的，是作为\"云端列车\"（Tren a las Nubes）的门户所在——这条历史悠久的高海拔铁路，从莱尔马山谷蜿蜒而上，直抵安第斯高原。",
+      "getting": "大多数旅行者会选择飞抵萨尔塔的马丁·米格尔·德·古埃梅斯国际机场（SLA），该机场位于市中心西南几公里处，有来自布宜诺斯艾利斯及其他地区枢纽城市的定期国内航班。阿根廷各大城市也有长途巴士通往萨尔塔市中心的汽车总站，不过由于路途遥远，车程往往长达数小时。",
+      "days": "建议安排3到4天的行程：足够探索历史中心和各类博物馆，再安排一天前往莱尔马山谷或托罗峡谷（Quebrada del Toro）游玩，此外还需预留一整天时间专门用于\"云端列车\"之旅。"
+    }
+  },
+  "Tigre": {
+    "en": {
+      "blurb": "Tigre sits where the Paraná Delta's brown waterways meet the edge of Greater Buenos Aires, a town built around boats rather than streets. Its riverside promenade, rowing clubs and the sprawling Puerto de Frutos market give it a languid, almost amphibious character that feels far removed from the capital just upriver.",
+      "getting": "Tigre is reached by commuter train on the Mitre Line, which runs from Retiro station in Buenos Aires directly to Tigre's riverside terminus in around an hour. Travellers wanting a more scenic approach can instead ride the Tren de la Costa, a separate coastal line that connects to the Mitre Line via a footbridge at Maipú station.",
+      "days": "A single day covers Tigre's essentials comfortably, including a boat ride through the delta channels, a wander through Puerto de Frutos market and a stroll along the Paseo Victorica promenade."
+    },
+    "ko": {
+      "blurb": "티그레는 파라나 삼각주의 황톳빛 물길이 광역 부에노스아이레스의 끝자락과 만나는 곳에 자리한 마을로, 거리보다는 배를 중심으로 이루어진 곳이다. 강변 산책로인 파세오와 조정 클럽, 그리고 널찍하게 펼쳐진 푸에르토 데 프루토스 시장이 어우러져, 강 상류에 있는 수도와는 사뭇 다른 나른하고 거의 물 위에 떠 있는 듯한 분위기를 자아낸다.",
+      "getting": "티그레는 부에노스아이레스의 레티로 역에서 출발하는 미트레 선 통근 열차를 타면 약 한 시간 만에 티그레의 강변 종착역에 닿을 수 있다. 좀 더 운치 있는 경로를 원한다면, 마이푸 역의 보행자 다리를 통해 미트레 선과 연결되는 별도의 해안 노선인 트렌 데 라 코스타를 이용해도 좋다.",
+      "days": "티그레의 핵심 볼거리는 하루면 충분히 둘러볼 수 있다. 삼각주 수로를 따라 보트를 타고, 푸에르토 데 프루토스 시장을 거닐고, 파세오 빅토리카 산책로를 따라 걷는 일정이면 넉넉하다."
+    },
+    "ja": {
+      "blurb": "ティグレは、パラナ川デルタの褐色の水路がブエノスアイレス首都圏の端と出会う場所にある町で、通りではなく船を中心に築かれている。川沿いの遊歩道、ボート漕ぎクラブ、そして広大なプエルト・デ・フルトス市場が、このんびりとした、ほとんど水生動物的とも言える独特の雰囲気を醸し出しており、川を少し上っただけの首都とはまるで違う世界が広がっている。",
+      "getting": "ティグレへは、ブエノスアイレスのレティーロ駅からミトレ線の近郊列車で直接行くことができ、川沿いの終着駅まで約1時間で到着する。より景色を楽しみたい旅行者には、海岸沿いを走る別路線「トレン・デ・ラ・コスタ」もおすすめで、マイプー駅の歩道橋を通ってミトレ線と接続している。",
+      "days": "ティグレの主な見どころは、1日あれば十分に回ることができる。デルタの水路をめぐるボートツアー、プエルト・デ・フルトス市場の散策、そしてパセオ・ビクトリカ遊歩道の散歩が、その代表的な楽しみ方だ。"
+    },
+    "es": {
+      "blurb": "Tigre se extiende en el punto donde las aguas pardas del Delta del Paraná se encuentran con el borde del Gran Buenos Aires, un pueblo construido en torno a los botes más que a las calles. Su costanera, sus clubes de remo y el extenso Puerto de Frutos le dan un carácter apacible, casi anfibio, que se siente muy alejado de la capital, río arriba.",
+      "getting": "A Tigre se llega en tren de pasajeros por la Línea Mitre, que va desde la estación Retiro, en Buenos Aires, directamente hasta la terminal ribereña de Tigre en poco más de una hora. Quienes prefieran un recorrido más pintoresco pueden optar por el Tren de la Costa, una línea costera independiente que se conecta con la Línea Mitre a través de una pasarela peatonal en la estación Maipú.",
+      "days": "Un solo día alcanza para recorrer con comodidad lo esencial de Tigre: un paseo en lancha por los canales del delta, una vuelta por el mercado del Puerto de Frutos y una caminata por la costanera del Paseo Victorica."
+    },
+    "zh": {
+      "blurb": "蒂格雷坐落在巴拉那三角洲浑浊水道与大布宜诺斯艾利斯边缘的交汇处，是一座以船只而非街道为中心建起的小城。沿河的滨水步道、划船俱乐部，以及规模庞大的Puerto de Frutos市场，赋予了它一种悠然自得、近乎\"水陆两栖\"的气质，与上游不远处的首都形成鲜明对比，仿佛置身另一个世界。",
+      "getting": "前往蒂格雷可乘坐Mitre线通勤火车，从布宜诺斯艾利斯的Retiro车站出发，约一小时即可直达蒂格雷临河的终点站。若想体验更具风景的路线，也可以选择搭乘Tren de la Costa——这是一条独立的沿海铁路线，经由Maipú车站的天桥与Mitre线相连。",
+      "days": "一天时间便足以悠闲游览蒂格雷的精华景点：乘船穿行三角洲水道，漫步Puerto de Frutos市场选购一番，再沿着Paseo Victorica滨水步道悠然散步。"
+    }
+  },
+  "Ushuaia": {
+    "en": {
+      "blurb": "Ushuaia clings to the southern edge of Tierra del Fuego, wedged between the snow-capped Martial range and the Beagle Channel, earning its nickname as the \"end of the world\". It is best known as the main departure point for Antarctica cruises, alongside access to glaciers, penguin colonies and the trails of Tierra del Fuego National Park.",
+      "getting": "Most travellers arrive by air via Ushuaia - Malvinas Argentinas International Airport (USH), roughly 4km from the city centre, with connecting flights from Buenos Aires; there is no passenger rail link, so overland travellers rely on long-distance buses along Ruta Nacional 3 from the regional hub.",
+      "days": "Plan on ~2 to 3 days to cover the city's main sights, boat trips on the Beagle Channel and a visit to the national park, with extra time needed if joining an Antarctic expedition or heading further into Patagonia."
+    },
+    "ko": {
+      "blurb": "우수아이아는 티에라델푸에고 남쪽 끝자락, 눈 덮인 마르시알 산맥과 비글 해협 사이에 자리 잡고 있어 \"세상의 끝\"이라는 별칭으로 불린다. 남극 크루즈의 주요 출발지로 가장 잘 알려져 있으며, 빙하와 펭귄 서식지, 티에라델푸에고 국립공원의 트레일도 이곳에서 쉽게 접할 수 있다.",
+      "getting": "대부분의 여행자는 시내에서 약 4km 떨어진 우수아이아 말비나스 아르헨티나스 국제공항(USH)을 통해 비행기로 도착하며, 부에노스아이레스에서 연결편이 운항된다. 여객 철도는 없어서 육로 여행자는 지역 거점에서 출발해 국도 3호선(Ruta Nacional 3)을 따라 운행하는 장거리 버스를 이용해야 한다.",
+      "days": "도시의 주요 명소, 비글 해협 보트 투어, 국립공원 방문을 둘러보는 데는 약 2~3일이면 충분하지만, 남극 탐험에 참여하거나 파타고니아 더 깊숙이 이동할 계획이라면 추가 일정을 고려해야 한다."
+    },
+    "ja": {
+      "blurb": "ウシュアイアは、雪をかぶったマルシャル山脈とビーグル水道に挟まれるようにして、ティエラ・デル・フエゴ島の南端に広がる町で、「世界の果て」の異名で知られています。最大の魅力は南極クルーズの主要な出発地であること。さらに氷河やペンギンのコロニー、ティエラ・デル・フエゴ国立公園のトレイルへもここからアクセスできます。",
+      "getting": "多くの旅行者はウシュアイア・マルビナス・アルヘンティナス国際空港(USH)を利用して空路で訪れます。空港は市街地から約4kmの距離にあり、ブエノスアイレスからの直行便が運航しています。旅客鉄道は通っていないため、陸路で向かう場合は、地域の拠点都市からルータ・ナシオナル3号線を走る長距離バスが頼りになります。",
+      "days": "市内の主要な見どころに加え、ビーグル水道のボートツアーや国立公園への訪問まで含めると、目安として2〜3日ほど見ておくとよいでしょう。南極遠征クルーズに参加したり、さらにパタゴニア奥地へ足を延ばしたりする場合は、プラスで日程を確保しておく必要があります。"
+    },
+    "es": {
+      "blurb": "Ushuaia se aferra al extremo sur de Tierra del Fuego, encajada entre la cordillera de Martial, cubierta de nieve, y el canal Beagle, lo que le ha valido el apodo de \"fin del mundo\". Es conocida principalmente como el principal punto de partida para los cruceros a la Antártida, además de ofrecer acceso a glaciares, colonias de pingüinos y los senderos del Parque Nacional Tierra del Fuego.",
+      "getting": "La mayoría de los viajeros llega por vía aérea al Aeropuerto Internacional de Ushuaia - Malvinas Argentinas (USH), ubicado a unos 4 km del centro de la ciudad, con vuelos de conexión desde Buenos Aires; no existe servicio de tren de pasajeros, por lo que quienes viajan por tierra dependen de los ómnibus de larga distancia que recorren la Ruta Nacional 3 desde el centro regional.",
+      "days": "Se recomienda destinar entre 2 y 3 días para recorrer los principales atractivos de la ciudad, realizar excursiones en barco por el canal Beagle y visitar el parque nacional, sumando tiempo adicional si se planea una expedición a la Antártida o continuar viaje hacia la Patagonia."
+    },
+    "zh": {
+      "blurb": "乌斯怀亚坐落在火地岛的最南端，夹在白雪皑皑的马夏尔山脉与比格尔海峡之间，因此赢得了“世界尽头”的美誉。这里最为人熟知的身份是南极邮轮航线的主要出发港，同时也是探访冰川、企鹅聚居地以及火地岛国家公园徒步步道的理想门户。",
+      "getting": "大多数游客选择乘飞机抵达乌斯怀亚——马尔维纳斯阿根廷国际机场（USH）距市中心约4公里，有往返布宜诺斯艾利斯的衔接航班；当地没有客运铁路，因此走陆路的游客需依靠沿3号国道（Ruta Nacional 3）从区域枢纽前来的长途巴士。",
+      "days": "建议安排约2到3天时间，游览市区主要景点、乘船游览比格尔海峡，并前往国家公园游玩；如果打算参加南极探险之旅或继续深入巴塔哥尼亚地区，则需要预留更多时间。"
+    }
   }
 }

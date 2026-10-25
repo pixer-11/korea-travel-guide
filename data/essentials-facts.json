@@ -1,5 +1,842 @@
 {
   "countries": {
+    "Argentina": {
+      "srcHash": "93b97ca58592",
+      "en": {
+        "summary": [
+          {
+            "key": "entry",
+            "title": "90 days visa-free",
+            "sub": "US, EU, UK, Australia, Japan and more"
+          },
+          {
+            "key": "money",
+            "title": "Pay by card in pesos",
+            "sub": "Avoids poor dynamic conversion rates and 21% VAT on cards"
+          },
+          {
+            "key": "season",
+            "title": "Oct–Nov or Mar–Apr best",
+            "sub": "Patagonia open, BA and Mendoza mild, Iguazú comfortable"
+          },
+          {
+            "key": "transport",
+            "title": "Subte, buses, SUBE card",
+            "sub": "Contactless Visa/Mastercard now works across BA transport"
+          }
+        ],
+        "visa": {
+          "cards": [
+            {
+              "name": "Visa-free entry",
+              "code": "",
+              "who": "Citizens of US, EU, UK, Australia, NZ, Japan and most of Latin America",
+              "cost": "",
+              "stay": "90 days or less",
+              "note": "No visa required"
+            },
+            {
+              "name": "AVE (Autorización de Viaje Electrónica)",
+              "code": "",
+              "who": "",
+              "cost": "",
+              "stay": "Up to 90 consecutive days",
+              "note": "Must carry a printed copy before boarding; valid 90 days from issue; can be extended once for 90 more days from DNM"
+            }
+          ],
+          "warnings": [
+            {
+              "title": "Mustard scam",
+              "text": "Petty theft, pickpocketing and the mustard scam occur in crowded tourist areas."
+            },
+            {
+              "title": "Express kidnappings",
+              "text": "Occasional express kidnappings occur in a few crowded areas."
+            },
+            {
+              "title": "Avoid informal settlements",
+              "text": "Avoid visiting villa miseria neighbourhoods even in tourist zones, as police assistance is very limited there."
+            }
+          ]
+        },
+        "transport": {
+          "rows": [],
+          "tips": [
+            {
+              "title": "Combine SUBE and contactless",
+              "text": "Use contactless Visa/Mastercard for Subte and buses, SUBE for commuter trains."
+            },
+            {
+              "title": "No cash on buses",
+              "text": "Cash payments to drivers are not accepted on buses."
+            },
+            {
+              "title": "Getting a SUBE card",
+              "text": "Available at Ezeiza airport, subway stations, kiosks; only a passport is needed, no Argentine ID required."
+            }
+          ]
+        },
+        "money": {
+          "budget": null,
+          "tips": [
+            {
+              "title": "Pay in pesos",
+              "text": "Always pay in pesos rather than your home currency, since dynamic currency conversion rates are poor."
+            },
+            {
+              "title": "Card avoids VAT",
+              "text": "Paying by foreign card avoids the 21% VAT on cash payments at VAT-registered hotels."
+            },
+            {
+              "title": "ATM limits and fees",
+              "text": "Foreign cards face withdrawal caps of roughly USD 100 to 200 per transaction, with fees of 5 to 10% plus a fixed charge."
+            },
+            {
+              "title": "Declare large cash",
+              "text": "Cash of US$10,000 or more must be declared on arrival; changing money requires a passport."
+            }
+          ]
+        },
+        "season": {
+          "best": [
+            3,
+            4,
+            10,
+            11
+          ],
+          "rows": [
+            {
+              "label": "Patagonia ski season",
+              "sub": "Bariloche and the Andes around Mendoza",
+              "best": [
+                6,
+                7,
+                8,
+                9
+              ],
+              "busy": [],
+              "avoid": []
+            },
+            {
+              "label": "Iguazú Falls",
+              "sub": "Water flow vs heat balance",
+              "best": [
+                4,
+                5,
+                6,
+                8,
+                9,
+                10
+              ],
+              "busy": [
+                12,
+                1,
+                2
+              ],
+              "avoid": []
+            }
+          ]
+        },
+        "emergency": {
+          "numbers": [
+            {
+              "number": "911",
+              "label": "Nationwide emergency",
+              "note": ""
+            },
+            {
+              "number": "101",
+              "label": "Police",
+              "note": ""
+            },
+            {
+              "number": "107",
+              "label": "Ambulance",
+              "note": "Free, 24 hours a day in Buenos Aires City"
+            },
+            {
+              "number": "100",
+              "label": "Fire",
+              "note": ""
+            }
+          ],
+          "chips": [
+            "Beware pickpocketing and mustard scam",
+            "Avoid villa miseria settlements",
+            "Buy travel medical insurance",
+            "Private clinics expect upfront payment",
+            "Level 1 safety, lowest advisory tier"
+          ]
+        }
+      },
+      "ko": {
+        "summary": [
+          {
+            "title": "90일 무비자",
+            "sub": "미국, EU, 영국, 호주, 일본 등",
+            "key": "entry"
+          },
+          {
+            "title": "페소로 카드 결제",
+            "sub": "불리한 동적 환율 적용과 카드 결제 21% 부가세를 피할 수 있음",
+            "key": "money"
+          },
+          {
+            "title": "10~11월 또는 3~4월이 최적",
+            "sub": "파타고니아 개방, 부에노스아이레스와 멘도사 온화, 이구아수 쾌적",
+            "key": "season"
+          },
+          {
+            "title": "수브테, 버스, SUBE 카드",
+            "sub": "컨택리스 Visa/Mastercard가 이제 부에노스아이레스 대중교통 전역에서 사용 가능",
+            "key": "transport"
+          }
+        ],
+        "visa": {
+          "cards": [
+            {
+              "name": "무비자 입국",
+              "code": "",
+              "who": "미국, EU, 영국, 호주, 뉴질랜드, 일본 및 대부분의 라틴아메리카 국적자",
+              "cost": "",
+              "stay": "90일 이하",
+              "note": "비자 불필요"
+            },
+            {
+              "name": "AVE (Autorización de Viaje Electrónica)",
+              "code": "",
+              "who": "",
+              "cost": "",
+              "stay": "최대 연속 90일",
+              "note": "탑승 전 인쇄본을 소지해야 함; 발급일로부터 90일간 유효; DNM을 통해 90일 1회 연장 가능"
+            }
+          ],
+          "warnings": [
+            {
+              "title": "머스터드 사기",
+              "text": "혼잡한 관광지에서는 소매치기와 머스터드 사기 등 경범죄가 발생함"
+            },
+            {
+              "title": "급행 납치",
+              "text": "일부 혼잡 지역에서 드물게 급행 납치가 발생함"
+            },
+            {
+              "title": "빈민가 방문 자제",
+              "text": "관광 지역 내라도 비야 미세리아(빈민가) 지역 방문은 피해야 함, 경찰 지원이 매우 제한적임"
+            }
+          ]
+        },
+        "transport": {
+          "rows": [],
+          "tips": [
+            {
+              "title": "SUBE와 컨택리스 병행 사용",
+              "text": "수브테와 버스는 컨택리스 Visa/Mastercard를, 통근 열차는 SUBE를 사용하세요."
+            },
+            {
+              "title": "버스 내 현금 불가",
+              "text": "버스 기사에게 현금 결제는 받지 않음"
+            },
+            {
+              "title": "SUBE 카드 발급",
+              "text": "에세이사 공항, 지하철역, 키오스크에서 구매 가능; 여권만 있으면 되며 아르헨티나 신분증은 필요 없음"
+            }
+          ]
+        },
+        "money": {
+          "budget": null,
+          "tips": [
+            {
+              "title": "페소로 결제",
+              "text": "동적 환율 적용이 불리하므로 자국 통화가 아닌 페소로 항상 결제하세요."
+            },
+            {
+              "title": "카드로 부가세 회피",
+              "text": "외국 카드로 결제하면 부가세 등록 호텔에서 현금 결제 시 부과되는 21% 부가세를 피할 수 있음"
+            },
+            {
+              "title": "ATM 한도 및 수수료",
+              "text": "외국 카드는 거래당 약 USD 100~200의 인출 한도가 있으며, 수수료는 5~10%에 고정 수수료가 추가됨"
+            },
+            {
+              "title": "고액 현금 신고",
+              "text": "미화 10,000달러 이상의 현금은 입국 시 신고해야 하며, 환전 시 여권이 필요함"
+            }
+          ]
+        },
+        "season": {
+          "rows": [
+            {
+              "label": "파타고니아 스키 시즌",
+              "sub": "바릴로체와 멘도사 인근 안데스 산맥",
+              "best": [
+                6,
+                7,
+                8,
+                9
+              ],
+              "busy": [],
+              "avoid": []
+            },
+            {
+              "label": "이구아수 폭포",
+              "sub": "수량과 더위의 균형",
+              "best": [
+                4,
+                5,
+                6,
+                8,
+                9,
+                10
+              ],
+              "busy": [
+                12,
+                1,
+                2
+              ],
+              "avoid": []
+            }
+          ],
+          "best": [
+            3,
+            4,
+            10,
+            11
+          ]
+        },
+        "emergency": {
+          "numbers": [
+            {
+              "number": "911",
+              "label": "전국 긴급 신고",
+              "note": ""
+            },
+            {
+              "number": "101",
+              "label": "경찰",
+              "note": ""
+            },
+            {
+              "number": "107",
+              "label": "구급차",
+              "note": "부에노스아이레스 시내에서 무료, 24시간 운영"
+            },
+            {
+              "number": "100",
+              "label": "소방서",
+              "note": ""
+            }
+          ],
+          "chips": [
+            "소매치기와 머스터드 사기 주의",
+            "비야 미세리아(빈민가) 방문 자제",
+            "여행자 의료보험 가입",
+            "개인 병원은 선불 결제를 요구함",
+            "레벨 1 안전, 가장 낮은 권고 단계"
+          ]
+        }
+      },
+      "ja": {
+        "summary": [
+          {
+            "title": "90日間ビザ免除",
+            "sub": "米国、EU、英国、オーストラリア、日本など",
+            "key": "entry"
+          },
+          {
+            "title": "カード払いはペソで",
+            "sub": "不利なダイナミック為替レートとカード決済への21%付加価値税を回避",
+            "key": "money"
+          },
+          {
+            "title": "10〜11月または3〜4月がベスト",
+            "sub": "パタゴニアは開通、ブエノスアイレスとメンドーサは穏やか、イグアスは快適",
+            "key": "season"
+          },
+          {
+            "title": "スブテ、バス、SUBEカード",
+            "sub": "コンタクトレスVisa/Mastercardが現在ブエノスアイレスの交通全域で利用可能",
+            "key": "transport"
+          }
+        ],
+        "visa": {
+          "cards": [
+            {
+              "name": "ビザ免除入国",
+              "code": "",
+              "who": "米国、EU、英国、オーストラリア、ニュージーランド、日本、ラテンアメリカのほとんどの国の国民",
+              "cost": "",
+              "stay": "90日以内",
+              "note": "ビザ不要"
+            },
+            {
+              "name": "AVE（Autorización de Viaje Electrónica）",
+              "code": "",
+              "who": "",
+              "cost": "",
+              "stay": "連続最大90日間",
+              "note": "搭乗前に印刷したコピーを携帯する必要あり；発行から90日間有効；DNMで1回のみ90日間延長可能"
+            }
+          ],
+          "warnings": [
+            {
+              "title": "マスタード詐欺",
+              "text": "混雑した観光地ではスリやマスタード詐欺などの軽犯罪が発生しています。"
+            },
+            {
+              "title": "速攻誘拐（エクスプレス・キッドナッピング）",
+              "text": "一部の混雑地域で稀に速攻誘拐が発生しています。"
+            },
+            {
+              "title": "非公式居住区を避ける",
+              "text": "観光地内であってもビジャ・ミセリア（スラム街）地区への訪問は避けてください。警察の支援が非常に限られています。"
+            }
+          ]
+        },
+        "transport": {
+          "rows": [],
+          "tips": [
+            {
+              "title": "SUBEとコンタクトレスを併用",
+              "text": "スブテとバスにはコンタクトレスVisa/Mastercardを、近郊列車にはSUBEを使用してください。"
+            },
+            {
+              "title": "バスでは現金不可",
+              "text": "バス運転手への現金支払いは受け付けられません。"
+            },
+            {
+              "title": "SUBEカードの取得方法",
+              "text": "エセイサ空港、地下鉄駅、キオスクで入手可能；パスポートのみで取得でき、アルゼンチンのIDは不要です。"
+            }
+          ]
+        },
+        "money": {
+          "budget": null,
+          "tips": [
+            {
+              "title": "ペソで支払う",
+              "text": "ダイナミック為替レートは不利なため、常に自国通貨ではなくペソで支払いましょう。"
+            },
+            {
+              "title": "カードで付加価値税を回避",
+              "text": "外国カードで支払うと、付加価値税登録ホテルでの現金払いにかかる21%の付加価値税を回避できます。"
+            },
+            {
+              "title": "ATMの限度額と手数料",
+              "text": "外国カードは1回の取引につきおよそUSD 100〜200の引き出し上限があり、手数料は5〜10％に加えて固定手数料がかかります。"
+            },
+            {
+              "title": "高額現金の申告",
+              "text": "10,000米ドル以上の現金は入国時に申告する必要があり、両替にはパスポートが必要です。"
+            }
+          ]
+        },
+        "season": {
+          "rows": [
+            {
+              "label": "パタゴニアのスキーシーズン",
+              "sub": "バリローチェとメンドーサ周辺のアンデス山脈",
+              "best": [
+                6,
+                7,
+                8,
+                9
+              ],
+              "busy": [],
+              "avoid": []
+            },
+            {
+              "label": "イグアスの滝",
+              "sub": "水量と暑さのバランス",
+              "best": [
+                4,
+                5,
+                6,
+                8,
+                9,
+                10
+              ],
+              "busy": [
+                12,
+                1,
+                2
+              ],
+              "avoid": []
+            }
+          ],
+          "best": [
+            3,
+            4,
+            10,
+            11
+          ]
+        },
+        "emergency": {
+          "numbers": [
+            {
+              "number": "911",
+              "label": "全国共通緊急通報",
+              "note": ""
+            },
+            {
+              "number": "101",
+              "label": "警察",
+              "note": ""
+            },
+            {
+              "number": "107",
+              "label": "救急車",
+              "note": "ブエノスアイレス市内では無料、24時間対応"
+            },
+            {
+              "number": "100",
+              "label": "消防",
+              "note": ""
+            }
+          ],
+          "chips": [
+            "スリとマスタード詐欺に注意",
+            "ビジャ・ミセリア（スラム街）を避ける",
+            "海外旅行保険に加入する",
+            "私立クリニックは前払いを求める",
+            "レベル1の安全性、最も低い渡航情報レベル"
+          ]
+        }
+      },
+      "es": {
+        "summary": [
+          {
+            "title": "90 días sin visa",
+            "sub": "EE. UU., UE, Reino Unido, Australia, Japón y más",
+            "key": "entry"
+          },
+          {
+            "title": "Paga con tarjeta en pesos",
+            "sub": "Evita las malas tasas de conversión dinámica y el IVA del 21% en tarjetas",
+            "key": "money"
+          },
+          {
+            "title": "Oct–nov o mar–abr, lo mejor",
+            "sub": "Patagonia abierta, BA y Mendoza templadas, Iguazú agradable",
+            "key": "season"
+          },
+          {
+            "title": "Subte, colectivos, tarjeta SUBE",
+            "sub": "Visa/Mastercard contactless ya funciona en todo el transporte de BA",
+            "key": "transport"
+          }
+        ],
+        "visa": {
+          "cards": [
+            {
+              "name": "Entrada sin visa",
+              "code": "",
+              "who": "Ciudadanos de EE. UU., UE, Reino Unido, Australia, Nueva Zelanda, Japón y la mayoría de América Latina",
+              "cost": "",
+              "stay": "90 días o menos",
+              "note": "No se requiere visa"
+            },
+            {
+              "name": "AVE (Autorización de Viaje Electrónica)",
+              "code": "",
+              "who": "",
+              "cost": "",
+              "stay": "Hasta 90 días consecutivos",
+              "note": "Debe llevarse una copia impresa antes de abordar; válida 90 días desde la emisión; puede extenderse una vez por 90 días más desde la DNM"
+            }
+          ],
+          "warnings": [
+            {
+              "title": "Estafa de la mostaza",
+              "text": "Hurtos menores, carterismo y la estafa de la mostaza ocurren en zonas turísticas concurridas."
+            },
+            {
+              "title": "Secuestros exprés",
+              "text": "Ocasionalmente ocurren secuestros exprés en algunas zonas concurridas."
+            },
+            {
+              "title": "Evitar asentamientos informales",
+              "text": "Evita visitar villas miseria incluso en zonas turísticas, ya que la asistencia policial allí es muy limitada."
+            }
+          ]
+        },
+        "transport": {
+          "rows": [],
+          "tips": [
+            {
+              "title": "Combina SUBE y contactless",
+              "text": "Usa Visa/Mastercard contactless para el subte y los colectivos, y SUBE para los trenes suburbanos."
+            },
+            {
+              "title": "No se acepta efectivo en los colectivos",
+              "text": "Los pagos en efectivo a los choferes no se aceptan en los colectivos."
+            },
+            {
+              "title": "Cómo obtener una tarjeta SUBE",
+              "text": "Disponible en el aeropuerto de Ezeiza, estaciones de subte y quioscos; solo se necesita el pasaporte, no se requiere DNI argentino."
+            }
+          ]
+        },
+        "money": {
+          "budget": null,
+          "tips": [
+            {
+              "title": "Paga en pesos",
+              "text": "Paga siempre en pesos en lugar de tu moneda local, ya que las tasas de conversión dinámica son desfavorables."
+            },
+            {
+              "title": "La tarjeta evita el IVA",
+              "text": "Pagar con tarjeta extranjera evita el IVA del 21% en pagos en efectivo en hoteles registrados para IVA."
+            },
+            {
+              "title": "Límites y comisiones de cajeros",
+              "text": "Las tarjetas extranjeras tienen límites de retiro de aproximadamente USD 100 a 200 por transacción, con comisiones del 5 al 10% más un cargo fijo."
+            },
+            {
+              "title": "Declarar efectivo elevado",
+              "text": "El efectivo de US$10,000 o más debe declararse al llegar; cambiar dinero requiere pasaporte."
+            }
+          ]
+        },
+        "season": {
+          "rows": [
+            {
+              "label": "Temporada de esquí en la Patagonia",
+              "sub": "Bariloche y los Andes alrededor de Mendoza",
+              "best": [
+                6,
+                7,
+                8,
+                9
+              ],
+              "busy": [],
+              "avoid": []
+            },
+            {
+              "label": "Cataratas del Iguazú",
+              "sub": "Equilibrio entre caudal de agua y calor",
+              "best": [
+                4,
+                5,
+                6,
+                8,
+                9,
+                10
+              ],
+              "busy": [
+                12,
+                1,
+                2
+              ],
+              "avoid": []
+            }
+          ],
+          "best": [
+            3,
+            4,
+            10,
+            11
+          ]
+        },
+        "emergency": {
+          "numbers": [
+            {
+              "number": "911",
+              "label": "Emergencias en todo el país",
+              "note": ""
+            },
+            {
+              "number": "101",
+              "label": "Policía",
+              "note": ""
+            },
+            {
+              "number": "107",
+              "label": "Ambulancia",
+              "note": "Gratis, las 24 horas en la Ciudad de Buenos Aires"
+            },
+            {
+              "number": "100",
+              "label": "Bomberos",
+              "note": ""
+            }
+          ],
+          "chips": [
+            "Cuidado con el carterismo y la estafa de la mostaza",
+            "Evitar las villas miseria",
+            "Contratar seguro médico de viaje",
+            "Las clínicas privadas piden pago por adelantado",
+            "Nivel 1 de seguridad, el nivel de advertencia más bajo"
+          ]
+        }
+      },
+      "zh": {
+        "summary": [
+          {
+            "title": "90天免签",
+            "sub": "美国、欧盟、英国、澳大利亚、日本等",
+            "key": "entry"
+          },
+          {
+            "title": "用比索刷卡支付",
+            "sub": "避免不利的动态货币转换汇率和21%的刷卡增值税",
+            "key": "money"
+          },
+          {
+            "title": "10-11月或3-4月最佳",
+            "sub": "巴塔哥尼亚开放，布宜诺斯艾利斯和门多萨气候温和，伊瓜苏舒适宜人",
+            "key": "season"
+          },
+          {
+            "title": "地铁、公交、SUBE卡",
+            "sub": "非接触式Visa/万事达卡现已可在布宜诺斯艾利斯全部公共交通中使用",
+            "key": "transport"
+          }
+        ],
+        "visa": {
+          "cards": [
+            {
+              "name": "免签入境",
+              "code": "",
+              "who": "美国、欧盟、英国、澳大利亚、新西兰、日本及大多数拉丁美洲国家公民",
+              "cost": "",
+              "stay": "90天或以内",
+              "note": "无需签证"
+            },
+            {
+              "name": "AVE（电子旅行授权）",
+              "code": "",
+              "who": "",
+              "cost": "",
+              "stay": "最长连续90天",
+              "note": "登机前须携带打印件；自签发之日起90天内有效；可通过移民局（DNM）延长一次，再延90天"
+            }
+          ],
+          "warnings": [
+            {
+              "title": "芥末酱骗局",
+              "text": "拥挤的旅游区会发生扒窃和芥末酱骗局等小偷小摸行为。"
+            },
+            {
+              "title": "快速绑架",
+              "text": "少数拥挤地区偶尔会发生快速绑架事件。"
+            },
+            {
+              "title": "避免前往非正式聚居区",
+              "text": "即使在旅游区内，也应避免前往贫民窟（villa miseria），因为那里的警力支援非常有限。"
+            }
+          ]
+        },
+        "transport": {
+          "rows": [],
+          "tips": [
+            {
+              "title": "结合使用SUBE卡和非接触式支付",
+              "text": "地铁和公交使用非接触式Visa/万事达卡，市郊列车使用SUBE卡。"
+            },
+            {
+              "title": "公交车不收现金",
+              "text": "公交车司机不接受现金支付。"
+            },
+            {
+              "title": "办理SUBE卡",
+              "text": "可在埃塞萨机场、地铁站、报刊亭办理；只需护照即可，无需阿根廷身份证。"
+            }
+          ]
+        },
+        "money": {
+          "budget": null,
+          "tips": [
+            {
+              "title": "用比索支付",
+              "text": "由于动态货币转换汇率不划算，应始终选择以比索而非本国货币付款。"
+            },
+            {
+              "title": "刷卡可免增值税",
+              "text": "使用外国卡支付可避免在已注册增值税的酒店现金支付时产生的21%增值税。"
+            },
+            {
+              "title": "ATM限额与手续费",
+              "text": "外国卡每笔交易取现上限约为100至200美元，手续费为5%至10%，外加一笔固定费用。"
+            },
+            {
+              "title": "申报大额现金",
+              "text": "入境时需申报10,000美元及以上的现金；兑换货币需出示护照。"
+            }
+          ]
+        },
+        "season": {
+          "rows": [
+            {
+              "label": "巴塔哥尼亚滑雪季",
+              "sub": "巴里洛切及门多萨周边安第斯山脉",
+              "best": [
+                6,
+                7,
+                8,
+                9
+              ],
+              "busy": [],
+              "avoid": []
+            },
+            {
+              "label": "伊瓜苏瀑布",
+              "sub": "水量与炎热程度的平衡",
+              "best": [
+                4,
+                5,
+                6,
+                8,
+                9,
+                10
+              ],
+              "busy": [
+                12,
+                1,
+                2
+              ],
+              "avoid": []
+            }
+          ],
+          "best": [
+            3,
+            4,
+            10,
+            11
+          ]
+        },
+        "emergency": {
+          "numbers": [
+            {
+              "number": "911",
+              "label": "全国紧急求助",
+              "note": ""
+            },
+            {
+              "number": "101",
+              "label": "警察",
+              "note": ""
+            },
+            {
+              "number": "107",
+              "label": "救护车",
+              "note": "在布宜诺斯艾利斯市内免费，全天24小时提供"
+            },
+            {
+              "number": "100",
+              "label": "消防",
+              "note": ""
+            }
+          ],
+          "chips": [
+            "谨防扒窃和芥末酱骗局",
+            "避免前往贫民窟（villa miseria）",
+            "购买旅行医疗保险",
+            "私立诊所通常要求预付费用"
+          ]
+        }
+      }
+    },
     "Australia": {
       "srcHash": "9d7c2de57c4b",
       "en": {

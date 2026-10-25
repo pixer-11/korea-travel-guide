@@ -3413,6 +3413,12 @@
   "reason": "patrol reject: identity: Commons places this in United Kingdom, post says Spain",
   "at": "2026-10-12T22:10:23.244Z"
  },
+ "bariloche-cerro-campanario\u0001https://upload.wikimedia.org/wikipedia/commons/1/1d/Cerro_Campanario_Bariloche_Argentina_-_panoramio.jpg": {
+  "slug": "bariloche-cerro-campanario",
+  "verdict": "MATCH",
+  "reason": "publish gate: Scenic view from Cerro Campanario overlook, matches locale",
+  "at": "2026-10-25T13:00:55.771Z"
+ },
  "barra-chapel-of-our-lady-of-penha\u0001https://upload.wikimedia.org/wikipedia/commons/6/6f/Chapel_of_Our_Lady_of_Penha%2C_Macau_-_panoramio.jpg": {
   "slug": "barra-chapel-of-our-lady-of-penha",
   "verdict": "MATCH",
@@ -4361,6 +4367,12 @@
   "reason": "publish gate: Shows park pathway, trees, benches representative of venue",
   "at": "2026-10-19T15:41:57.898Z"
  },
+ "borjomi-borjomi-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Trees_in_Borjomula_gorge_in_the_Borjomi_Park_02.jpg/3840px-Trees_in_Borjomula_gorge_in_the_Borjomi_Park_02.jpg": {
+  "slug": "borjomi-borjomi-park",
+  "verdict": "MATCH",
+  "reason": "publish gate: Forest stream scene plausible for Borjomi Park setting",
+  "at": "2026-10-25T13:00:55.562Z"
+ },
  "borjomi-gogia-fortress\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/2024-08-25_Gogia_Fortress%2C_Borjomi.jpg/3840px-2024-08-25_Gogia_Fortress%2C_Borjomi.jpg": {
   "slug": "borjomi-gogia-fortress",
   "verdict": "MATCH",
@@ -4703,6 +4715,18 @@
   "verdict": "MATCH",
   "reason": "publish gate: Exterior of the historic museum building with gate and signage",
   "at": "2026-10-01T07:49:54.974Z"
+ },
+ "buenos-aires-caminito\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Caminito_-_Entrada.jpg/1920px-Caminito_-_Entrada.jpg": {
+  "slug": "buenos-aires-caminito",
+  "verdict": "MATCH",
+  "reason": "publish gate: Colorful Caminito corner building, representative street view",
+  "at": "2026-10-25T13:00:55.867Z"
+ },
+ "buenos-aires-obelisk\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Obelisk_of_Buenos_Aires_%28Obelisco_de_Buenos_Aires_-_Buenos_Aires_Argentina_%285269820034%29.jpg/3840px-Obelisk_of_Buenos_Aires_%28Obelisco_de_Buenos_Aires_-_Buenos_Aires_Argentina_%285269820034%29.jpg": {
+  "slug": "buenos-aires-obelisk",
+  "verdict": "MATCH",
+  "reason": "publish gate: Clear view of the Obelisk in Buenos Aires",
+  "at": "2026-10-25T13:00:55.833Z"
  },
  "bugis-albert-centre-market-food-centre\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Albert_Centre_Market_and_Food_Centre%2C_exterior.jpg/3840px-Albert_Centre_Market_and_Food_Centre%2C_exterior.jpg": {
   "slug": "bugis-albert-centre-market-food-centre",
@@ -7963,6 +7987,18 @@
   "verdict": "MATCH",
   "reason": "publish gate: Exterior entrance with name sign, representative venue view",
   "at": "2026-10-01T14:52:33.789Z"
+ },
+ "el-calafate-parque-nacional-los-glaciares\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Parque_Nacional_Los_Glaciares.jpg/3840px-Parque_Nacional_Los_Glaciares.jpg": {
+  "slug": "el-calafate-parque-nacional-los-glaciares",
+  "verdict": "MATCH",
+  "reason": "publish gate: Glacier ice formations match Los Glaciares National Park scenery",
+  "at": "2026-10-25T13:00:55.963Z"
+ },
+ "el-chalten-el-chalten\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/El_Chalt%C3%A9n.jpg/1920px-El_Chalt%C3%A9n.jpg": {
+  "slug": "el-chalten-el-chalten",
+  "verdict": "MATCH",
+  "reason": "publish gate: Aerial view of El Chaltén town and mountains, representative",
+  "at": "2026-10-25T13:00:55.618Z"
  },
  "el-nido-cadlao-lagoon\u0001https://fastly.4sqi.net/img/general/original/125542906_Mo31fgMNRtyAUxSCI4bHSS2J0uwf98yz7zrJ0vhJiQ0.jpg": {
   "slug": "el-nido-cadlao-lagoon",
@@ -18371,6 +18407,18 @@
   "reason": "publish gate: Aerial view of market sheds and parking matches venue",
   "at": "2026-10-14T07:48:33.859Z"
  },
+ "mendoza-cerro-de-la-gloria\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Army_of_the_Andes_Monument%2C_Mendoza_01.jpg/1920px-Army_of_the_Andes_Monument%2C_Mendoza_01.jpg": {
+  "slug": "mendoza-cerro-de-la-gloria",
+  "verdict": "MATCH",
+  "reason": "publish gate: Iconic monument statue at Cerro de la Gloria, Mendoza",
+  "at": "2026-10-25T13:00:56.026Z"
+ },
+ "mendoza-plaza-independencia\u0001https://upload.wikimedia.org/wikipedia/commons/2/2a/ALTURA_Argentina_Wine_Tourism_-_Mendoza%2C_Plaza_Independencia_-_panoramio.jpg": {
+  "slug": "mendoza-plaza-independencia",
+  "verdict": "MATCH",
+  "reason": "publish gate: Fountain and park plausibly depicting Plaza Independencia",
+  "at": "2026-10-25T13:00:55.653Z"
+ },
  "merida-arco-de-san-juan\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Arco_de_San_Juan%2C_M%C3%A9rida%2C_Yucat%C3%A1n_%2802%29.JPG/3840px-Arco_de_San_Juan%2C_M%C3%A9rida%2C_Yucat%C3%A1n_%2802%29.JPG": {
   "slug": "merida-arco-de-san-juan",
   "verdict": "MATCH",
@@ -23642,6 +23690,12 @@
   "reason": "publish gate: Zócalo fountain and cathedral tower, representative plaza view",
   "at": "2026-10-15T08:09:57.890Z"
  },
+ "puerto-iguazu-devil-s-throat\u0001https://upload.wikimedia.org/wikipedia/commons/1/1c/Garganta_del_Diablo_%28Devil%27s_Throat%29_%284811647725%29.jpg": {
+  "slug": "puerto-iguazu-devil-s-throat",
+  "verdict": "MATCH",
+  "reason": "publish gate: Representative view of Devil's Throat waterfall basin",
+  "at": "2026-10-25T13:00:55.932Z"
+ },
  "puerto-princesa-immaculate-conception-cathedral\u0001https://upload.wikimedia.org/wikipedia/commons/7/75/The_Immaculate_Conception_Cathedral_-_panoramio_%282%29.jpg": {
   "slug": "puerto-princesa-immaculate-conception-cathedral",
   "verdict": "MATCH",
@@ -23768,6 +23822,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows Sillustani funerary tower overlooking lake, representative view",
   "at": "2026-10-24T14:02:28.229Z"
+ },
+ "purmamarca-purmamarca-jujuy\u0001https://upload.wikimedia.org/wikipedia/commons/8/86/Jujuy_-_Tumbaya_-_Purmamarca_-_Pueblo_de_Purmamarca.jpg": {
+  "slug": "purmamarca-purmamarca-jujuy",
+  "verdict": "MATCH",
+  "reason": "publish gate: Aerial view of Purmamarca town with colorful mountains",
+  "at": "2026-10-25T13:00:55.686Z"
  },
  "putrajaya-putra-mosque\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Masjid_Putra%2C_Putrajaya%2C_Malaysia.jpg/1920px-Masjid_Putra%2C_Putrajaya%2C_Malaysia.jpg": {
   "slug": "putrajaya-putra-mosque",
@@ -24372,6 +24432,12 @@
   "verdict": "MATCH",
   "reason": "width upgrade: Portrait of The Weeknd, valid performer photo for concert event",
   "at": "2026-08-20T20:17:42.894Z"
+ },
+ "salta-san-bernardo-s-hill\u0001https://upload.wikimedia.org/wikipedia/commons/8/82/Salta_Desde_El_Cerro_San_Bernardo_%28242638079%29.jpeg": {
+  "slug": "salta-san-bernardo-s-hill",
+  "verdict": "MATCH",
+  "reason": "publish gate: Scenic viewpoint over city, consistent with hill overlook",
+  "at": "2026-10-25T13:00:55.801Z"
  },
  "samarkand-afrasiyab-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Afrasiab_Museum_of_Samarkand.jpg/1920px-Afrasiab_Museum_of_Samarkand.jpg": {
   "slug": "samarkand-afrasiyab-museum",
@@ -30138,6 +30204,12 @@
   "reason": "patrol reject: Aerial lake/industrial view, unrelated to marathon event",
   "at": "2026-10-22T00:18:21.950Z"
  },
+ "tigre-puerto-de-frutos\u0001https://upload.wikimedia.org/wikipedia/commons/b/b2/Puerto_de_frutos%2C_tempranito_-_panoramio.jpg": {
+  "slug": "tigre-puerto-de-frutos",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Puerto de Frutos riverside market with boat, buildings",
+  "at": "2026-10-25T13:00:55.899Z"
+ },
  "tioman-tioman-island\u0001https://upload.wikimedia.org/wikipedia/commons/d/d5/Tioman_island_%283679435126%29.jpg": {
   "slug": "tioman-tioman-island",
   "verdict": "MATCH",
@@ -31590,6 +31662,18 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows fortress-like mudbrick wall consistent with Ulli Hovli site",
   "at": "2026-09-13T14:22:48.852Z"
+ },
+ "ushuaia-cartel-ushuaia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Cartel_de_Ushuaia.jpg/3840px-Cartel_de_Ushuaia.jpg": {
+  "slug": "ushuaia-cartel-ushuaia",
+  "verdict": "MATCH",
+  "reason": "publish gate: Iconic Ushuaia sign with mountains and harbor, representative",
+  "at": "2026-10-25T13:00:55.720Z"
+ },
+ "ushuaia-southern-fuegian-railway\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/End_of_The_World_Train_at_station.jpg/1920px-End_of_The_World_Train_at_station.jpg": {
+  "slug": "ushuaia-southern-fuegian-railway",
+  "verdict": "MATCH",
+  "reason": "publish gate: Steam train with carriages, matches Ushuaia Fuegian Railway scene",
+  "at": "2026-10-25T13:00:55.996Z"
  },
  "valencia-central-market-of-valencia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Mercado_Central%2C_Valencia%2C_Espa%C3%B1a%2C_2014-06-30%2C_DD_116.JPG/3840px-Mercado_Central%2C_Valencia%2C_Espa%C3%B1a%2C_2014-06-30%2C_DD_116.JPG": {
   "slug": "valencia-central-market-of-valencia",
