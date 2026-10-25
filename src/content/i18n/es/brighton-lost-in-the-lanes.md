@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: brighton-lost-in-the-lanes
-srcHash: '27fd4bdcb889'
+srcHash: '20a8e669333e'
 title: 'Lost in the Lanes: dónde comer en Brighton (4.6★)'
 description: En plena zona de The Lanes, en Nile Street, Lost in the Lanes es una cafetería minimalista de precio medio que sirve desayunos, almuerzos y comida para llevar, todos ellos sanos, desde las 9am todos los días. Con una valoración de 4.6★ (1,342 reseñas), le contamos qué opinan los visitantes, cuál es su horario y algunos consejos.
 quickAnswer: En Nile Street, en pleno barrio de The Lanes de Brighton, se encuentra Lost in the Lanes, una cafetería minimalista de precio medio. Abre todos los días a las 9am y sirve desayunos, almuerzos y comida para llevar, todo ello sano y casero. De jueves a sábado cierra a las 11pm. Entre semana, la franja más tranquila es de 5pm a 6pm, aunque solo los jueves y viernes, que son las tardes en que abre hasta tarde. El fin de semana conviene evitar las franjas de 11am a 4pm y de 5pm a 9pm y acudir a desayunar a las 9am.
@@ -37,7 +37,7 @@ Los precios son moderados. En el mostrador y en las mesas encontrará la carta c
 
 ## Cómo esquivar las horas punta
 
-Los fines de semana el local se llena durante casi todo el día. Si quiere evitar las aglomeraciones, procure no ir el sábado o el domingo en el tramo de mayor afluencia. Si va en fin de semana, la mejor manera de conseguir mesa es presentarse justo a la apertura, a las 9am, antes de que llegue desde la estación el público del *brunch*.
+Los fines de semana el local se llena durante casi todo el día. Si quiere evitar las aglomeraciones, procure no ir el sábado o el domingo en el tramo de mayor afluencia. Si va en fin de semana, la mejor manera de conseguir mesa es presentarse justo a la apertura, a las 9am, antes de que llegue el público del *brunch*.
 
 Entre semana, la hora más tranquila es de 5pm a 6pm. Esto solo sirve los jueves y viernes, ya que los demás días laborables la cafetería cierra a las 5pm. Cenar pronto un jueves, a las 5pm, es la forma más sosegada de disfrutar del sitio.
 

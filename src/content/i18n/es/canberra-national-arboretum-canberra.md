@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: canberra-national-arboretum-canberra
-srcHash: '657687ec4af9'
+srcHash: 'c3ea620d8b3f'
 title: 'Arboreto Nacional: guía de viaje de Canberra (4.7★)'
 description: En Forest Drive, al oeste de Canberra y a pocos minutos en coche del centro, se encuentra el Arboreto Nacional de Canberra, abierto todos los días de 9am a 4pm según su horario oficial. Con 4.7★ (8,169 reseñas), aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
 quickAnswer: El Arboreto Nacional de Canberra (National Arboretum Canberra) se encuentra en Forest Drive, en la zona oeste de la ciudad y a pocos minutos en coche del centro. Según su horario oficial, abre todos los días de 9am a 4pm. Lo ideal es ir entre semana, porque de 9am a 4pm reina la tranquilidad. Los fines de semana se llena de 10am a 4pm; si solo puede ir un sábado o un domingo, procure llegar a las 9am.
@@ -58,11 +58,11 @@ Dentro del recinto, los bosques están comunicados por caminos asfaltados y pist
 
 ## Cómo evitar las aglomeraciones del fin de semana
 
-El arboreto recibe muchos visitantes, sobre todo los fines de semana. Los datos de afluencia son claros: entre semana reina la tranquilidad de 9am a 4pm, por lo que cualquier franja horaria es buena. Los fines de semana, en cambio, hay mucha gente de 10am a 4pm. Quien llegue un sábado después de las 10am encontrará ya llenos la cafetería y el parque infantil.
+El arboreto recibe muchos visitantes, sobre todo los fines de semana. Los datos de afluencia son claros: entre semana reina la tranquilidad durante todo el día, por lo que cualquier franja horaria es buena. Los fines de semana, en cambio, hay mucha gente de 10am a 4pm. Quien llegue un sábado después de las 10am encontrará ya llenos la cafetería y el parque infantil.
 
 Algunas costumbres ayudan a que la visita resulte más fluida:
 
-- **Los fines de semana, llegue a las 9am.** A esa hora abre el Village Centre y dispondrá de una hora antes de que lleguen las multitudes
+- **Los fines de semana, llegue a las 9am.** Dispondrá de una hora antes de que lleguen las multitudes
 - **Primero la colina y después la comida.** Subir a Dairy Farmers Hill con el fresco de la mañana le permitirá evitar el calor; después, vuelva a tomar un café
 - **Haga un pícnic en las praderas.** Las familias extienden sus mantas sobre el césped que hay debajo del Village Centre, lo que descongestiona la cafetería
 - **Pague sin contacto.** En toda Canberra lo habitual es pagar con tarjeta o con el móvil, y en el mostrador nadie espera propina

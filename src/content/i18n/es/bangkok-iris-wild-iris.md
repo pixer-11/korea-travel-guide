@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bangkok-iris-wild-iris
-srcHash: '7559672f5d69'
+srcHash: '8cf089cd3fd7'
 title: 'Iris & Wild Iris: guía de viaje de Bangkok'
 description: Iris & Wild Iris es un bar y restaurante en azotea de inspiración riviera que ocupa los pisos 29 y 30 del So/ Bangkok, en North Sathorn Road, frente al parque Lumphini.
 quickAnswer: 'Iris & Wild Iris es un bar y restaurante en azotea de inspiración riviera que ocupa los pisos 29 y 30 del So/ Bangkok, en North Sathorn Road, frente al parque Lumphini. Conviene reservar con antelación y llegar antes del atardecer: así verá el parque con luz de día y, después, la ciudad iluminada. Como el local es nuevo, tanto el horario como la política de reservas pueden cambiar, de modo que es recomendable confirmar ambos directamente antes de ir.'
@@ -24,7 +24,7 @@ Visto desde aquí arriba, el parque Lumphini parece una alfombra de color verde 
 
 Esa panorámica explica por sí sola la elección de esta esquina. Desde la mayoría de las azoteas de Bangkok solo se ven más rascacielos. Desde esta, en cambio, se contempla la mayor extensión de zona verde abierta del centro de la ciudad, rodeada por los perfiles urbanos de Silom y Sathorn.
 
-Se inauguró en 2026 y no tardó en figurar entre las aperturas en altura más comentadas del año. El concepto se inspira en la Riviera, es decir, en la costa mediterránea: aunque uno esté en la tropical Bangkok, el ambiente evoca las vacaciones pausadas y soleadas de aquel litoral.
+Se inauguró en 2026 y no tardó en figurar entre las aperturas en altura más comentadas del año. El concepto se inspira en la Riviera, el tramo de costa mediterránea que recorre el sur de Francia y de Italia: aunque uno esté en la tropical Bangkok, el ambiente evoca las vacaciones pausadas y soleadas de aquel litoral.
 
 ## Qué significa la propuesta riviera
 

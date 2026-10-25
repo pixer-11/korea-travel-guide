@@ -1,15 +1,15 @@
 ---
 lang: es
 slug: beijing-jingshan-park
-srcHash: '8425f3df16f9'
+srcHash: 'bef7ba5d489a'
 title: 'Parque Jingshan: Guía de viaje de Pekín (4,6★)'
 description: 'El parque Jingshan se encuentra justo al norte de la Ciudad Prohibida, en el distrito de Xicheng, Pekín, y su colina central ofrece el mejor mirador sobre los tejados dorados del palacio. 4,6★ (1.527 reseñas): lo que dicen los visitantes, horarios y consejos.'
-quickAnswer: El parque Jingshan se encuentra justo al norte de la Ciudad Prohibida, en el distrito de Xicheng, Pekín, y su colina central ofrece el mejor mirador sobre los tejados dorados del palacio. El momento más tranquilo es entre las 7:00 y las 11:00, tanto entre semana como los fines de semana; conviene evitar el mediodía y hasta las 22:00 los fines de semana, cuando los senderos se llenan de gente. Conviene reservar entre 45 y 60 minutos para la subida y el pabellón mirador.
+quickAnswer: El parque Jingshan se encuentra justo al norte de la Ciudad Prohibida, en el distrito de Xicheng, Pekín, y su colina central ofrece el mejor mirador sobre los tejados dorados del palacio. El momento más tranquilo es entre las 7:00 y las 11:00, tanto entre semana como los fines de semana; los fines de semana conviene evitar la franja que va desde media mañana hasta el final de la tarde, cuando los senderos se llenan de gente. Conviene reservar entre 45 y 60 minutos para la subida y el pabellón mirador.
 faq:
   - q: ¿Cómo se llega al parque Jingshan?
     a: Basta con caminar hacia el norte desde la puerta Shenwumen (Puerta Norte) de la Ciudad Prohibida; la puerta sur del parque queda justo enfrente. En metro, la estación Beihai North de la Línea 6 está a unos 10 minutos a pie, y la estación Shichahai de la Línea 8, a unos 15 minutos.
   - q: ¿Cuál es el mejor momento para ir y evitar las multitudes?
-    a: El tramo entre las 7:00 y las 11:00 es, de forma constante, el más tranquilo, tanto en días laborables como en fin de semana. Los fines de semana la afluencia aumenta desde el mediodía hasta las 22:00, así que conviene evitar llegar a esa hora si es posible.
+    a: El tramo entre las 7:00 y las 11:00 es, de forma constante, el más tranquilo, tanto en días laborables como en fin de semana. Los fines de semana la afluencia aumenta desde media mañana y se mantiene durante toda la tarde, así que conviene evitar llegar en esa franja si es posible.
   - q: ¿Cuánto dura la visita?
     a: 'La mayoría de los visitantes dedica entre 45 y 60 minutos: la subida al pabellón Wanchun, un rato en la cima para hacer fotos y el descenso por uno de los jardines laterales.'
   - q: ¿Hay que pagar entrada?
@@ -38,7 +38,7 @@ El parque está distribuido de forma simétrica alrededor de la colina central. 
 
 ## Cuándo evitar las aglomeraciones
 
-Las mañanas entre las 7:00 y las 11:00, tanto entre semana como en fin de semana, son el momento más tranquilo, antes de que lleguen los grupos turísticos procedentes del palacio vecino. Los fines de semana la afluencia aumenta rápidamente, y las multitudes se mantienen desde el mediodía hasta las 22:00.
+Las mañanas entre las 7:00 y las 11:00, tanto entre semana como en fin de semana, son el momento más tranquilo, antes de que lleguen los grupos turísticos procedentes del palacio vecino. Los fines de semana la afluencia aumenta rápidamente, y las multitudes empiezan a formarse a media mañana y se mantienen durante toda la tarde.
 
 El amanecer y el atardecer son horarios muy solicitados para hacer fotos, precisamente porque la luz incide en ángulo sobre los tejados dorados; por eso, incluso a primera hora de la mañana, es probable encontrar compañía en la cima. Para tener la plataforma del pabellón para uno mismo, aunque sea unos minutos, conviene llegar justo a la hora de apertura.
 

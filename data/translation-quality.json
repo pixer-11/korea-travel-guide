@@ -32319,11 +32319,11 @@
   "at": "2026-10-11T14:27:45.474Z"
  },
  "ko/abu-dhabi-middle-east-film-comic-con-mefcc-2026": {
-  "hash": "f97b63f348e0",
+  "hash": "48a9da49f62a",
   "score": 1,
   "registerBreak": false,
-  "worst": "홀 배정과 날짜별 운영 시간은 제3자에게 맡기지 않고 주최 측이 직접 정해 발표했습니다.",
-  "at": "2026-10-12T00:20:12.270Z"
+  "worst": "처음 온 사람들이 가장 많이 하는 실수는 하루에 모든 걸 몰아서 보는 것입니다.",
+  "at": "2026-10-25T07:52:38.385Z"
  },
  "ko/austin-f1-united-states-grand-prix": {
   "hash": "f3ff1f96a588",
@@ -32975,13 +32975,6 @@
   "registerBreak": false,
   "worst": "건물 전체의 중심축 구실도 합니다.",
   "at": "2026-10-12T02:43:40.284Z"
- },
- "ko/dubai-nancy-ajram-live-in-dubai": {
-  "hash": "6e5cd9f38d4b",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "관객들이 특정 노래를 특정한 방식으로 듣기 위해 모이는 공연인 만큼, 첫 곡이 시작되기 전에 입장하려면 조금 일찍 서두를 만한 가치가 충분합니다.",
-  "at": "2026-10-12T02:43:40.788Z"
  },
  "ko/darwin-museum-and-art-gallery-of-the-northern-territory": {
   "hash": "df17c822b6ae",
@@ -35034,13 +35027,6 @@
   "worst": "자카르타를 찾은 대형 스타디움 투어마다 이 타원형 경기장은 관객으로 가득 찼습니다.",
   "at": "2026-10-12T11:43:26.548Z"
  },
- "ko/jakarta-kanye-west-jakarta": {
-  "hash": "0963c9c0586f",
-  "score": 0,
-  "registerBreak": false,
-  "worst": "",
-  "at": "2026-10-12T11:43:26.697Z"
- },
  "ko/jakarta-lee-hi-808-hi-recordings-world-tour-2026": {
   "hash": "9c085daffafc",
   "score": 1,
@@ -36337,18 +36323,18 @@
   "at": "2026-10-19T08:57:53.510Z"
  },
  "ko/abu-dhabi-hans-zimmer-live-abu-dhabi-festival": {
-  "hash": "1ea21b7e79a4",
-  "score": 1,
+  "hash": "febb7b0f9332",
+  "score": 0,
   "registerBreak": false,
-  "worst": "한스 짐머가 이 축제의 무대로 에티하드 아레나에서 라이브 공연을 펼칩니다.",
-  "at": "2026-10-19T08:59:28.112Z"
+  "worst": "",
+  "at": "2026-10-25T07:52:37.233Z"
  },
  "ko/abu-dhabi-offlimits-music-festival-shakira-jonas-brothers": {
-  "hash": "682e73e615a8",
+  "hash": "c2ade49ec446",
   "score": 1,
   "registerBreak": false,
-  "worst": "그래서 이곳에서는 공연장 입구가 하루의 출발점이 되는 경우가 드뭅니다.",
-  "at": "2026-10-19T08:59:29.342Z"
+  "worst": "헤드라이너들은 많은 사람이 듣고 자란 노래를 가진 가수들입니다.",
+  "at": "2026-10-25T07:52:46.306Z"
  },
  "ko/abu-dhabi-tamer-hosny-and-tamer-ashour-concert": {
   "hash": "c9952f292e55",
@@ -37616,5 +37602,54 @@
   "registerBreak": false,
   "worst": "官方简介说它是一座\"历经多次战火的城堡\"，这种说法实在低估了它血腥的过往。",
   "at": "2026-10-24T16:15:19.205Z"
+ },
+ "es/abu-dhabi-hans-zimmer-live-abu-dhabi-festival": {
+  "hash": "c43a867ff0dd",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Cuando un pabellón con las entradas agotadas se vacía, enseguida se forman colas para conseguir vehículo.",
+  "at": "2026-10-25T07:52:02.499Z"
+ },
+ "es/abu-dhabi-offlimits-music-festival-shakira-jonas-brothers": {
+  "hash": "fd1d27f0ee67",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Su discografía, y no ningún repertorio anunciado, es la mejor guía de lo que aporta cada uno",
+  "at": "2026-10-25T07:52:12.047Z"
+ },
+ "ja/abu-dhabi-hans-zimmer-live-abu-dhabi-festival": {
+  "hash": "c54623b807fb",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-25T07:52:12.776Z"
+ },
+ "ja/abu-dhabi-offlimits-music-festival-shakira-jonas-brothers": {
+  "hash": "3af731c757d4",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "スタジアムの照明に照らされた夜のあとには、プールサイドでもう1時間過ごすよりも、こちらのほうがきっと心に響きます。",
+  "at": "2026-10-25T07:52:36.496Z"
+ },
+ "zh/abu-dhabi-hans-zimmer-live-abu-dhabi-festival": {
+  "hash": "332cd540256f",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "在阿联酋的公共场所，肩膀和膝盖需要遮住；竞技场的空调又开得很冷，带一件薄外套会很实用。",
+  "at": "2026-10-25T07:52:47.533Z"
+ },
+ "zh/abu-dhabi-middle-east-film-comic-con-mefcc-2026": {
+  "hash": "c22d22a6dedd",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "MEFCC通常会在展会开幕前公布嘉宾名单、座谈会日程以及门票价位档次。",
+  "at": "2026-10-25T07:52:48.726Z"
+ },
+ "zh/abu-dhabi-offlimits-music-festival-shakira-jonas-brothers": {
+  "hash": "1e83f4404591",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "演出顺序和各自时长以主办方公布为准，本文不作任何推测。",
+  "at": "2026-10-25T07:52:49.695Z"
  }
 }

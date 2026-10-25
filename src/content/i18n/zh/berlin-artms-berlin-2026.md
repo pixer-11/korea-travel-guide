@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: berlin-artms-berlin-2026
-srcHash: '3c2b2a843e75'
+srcHash: '102bff8594dd'
 title: ARTMS 2026柏林演出：日期、门票与场馆（柏林）
 description: ARTMS 2026柏林演出定于2026年11月25日（星期三）举行。场地位于柏林普伦茨劳贝格区的文化酿酒厂锅炉房与机器房（Kesselhaus & Maschinenhaus Kulturbrauerei），从地铁U2线埃伯斯瓦尔德街站（Eberswalder Straße）步行几分钟即到。
 quickAnswer: ARTMS 2026柏林演出定于2026年11月25日（星期三）举行。场地位于柏林普伦茨劳贝格区的文化酿酒厂锅炉房与机器房（Kesselhaus & Maschinenhaus Kulturbrauerei），从地铁U2线埃伯斯瓦尔德街站（Eberswalder Straße）步行几分钟即到。门票和入场时间以主办方官网公布为准，本文不提供票价和演出开始时间。
@@ -22,7 +22,7 @@ faq:
 
 这座场馆通体由砖砌成。文化酿酒厂（Kulturbrauerei）的前身是舒尔特海斯（Schultheiss）啤酒厂，红黄两色的砖砌厂房出自建筑师弗朗茨·施韦希滕（Franz Schwechten）之手，建于19世纪末。如今，几座庭院里开着电影院、酒吧和演出空间。锅炉房（Kesselhaus）与机器房（Maschinenhaus）两座厂房紧挨在一起，至今保留着工业建筑的骨架。
 
-2026年11月25日，ARTMS将在这里登台。组合成员HeeJin、HaSeul、Kim Lip、JinSoul和Choerry都曾是本月少女（LOONA）的成员，现签约Modhaus。本文不涉及歌单和暖场嘉宾，也不提供入场时间和票价。
+2026年11月25日，ARTMS将在这里登台。组合成员HeeJin、HaSeul、Kim Lip、JinSoul和Choerry都曾是本月少女（LOONA）的成员，现签约Modhaus。歌单、暖场嘉宾以及入场时间和票价目前均尚未公布。
 
 ## 如何前往文化酿酒厂
 

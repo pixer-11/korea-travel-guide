@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bangkok-the-weeknd-after-hours-til-dawn-tour
-srcHash: 'eaac47db229a'
+srcHash: 'd4fe11a728bd'
 title: 'The Weeknd: After Hours Til Dawn Tour en Bangkok: fechas, entradas y recinto'
 description: La gira After Hours Til Dawn de The Weeknd tenía previstas tres noches en Bangkok (Tailandia), del 11 al 13 de octubre de 2026, con pantallas LED y pirotecnia.
 quickAnswer: La gira After Hours Til Dawn de The Weeknd tenía tres noches anunciadas en Bangkok, del 11 al 13 de octubre de 2026. Era una de las mayores producciones de estadio contratadas en la ciudad ese año. El espectáculo anunciado era la producción completa de la etapa «After Hours», con varias capas de imágenes en pantallas LED, pirotecnia y un repertorio centrado en sus éxitos más conocidos fuera del R&B.
@@ -24,7 +24,7 @@ Hay túneles bañados en luz roja, un grupo de intérpretes con máscara y una p
 
 ## Qué significaban en la práctica las tres noches
 
-Cuando una gira de estadios se queda varias noches en una sola ciudad, suele deberse a una base de fans local enorme o a una estrategia de ciudad centro que atrae a público de toda la región. En los últimos años, Bangkok ha cumplido ambos papeles en las grandes giras internacionales. Estas series de conciertos suelen atraer a mucho público de los países vecinos, además del tailandés.
+Cuando una gira de estadios se queda varias noches en una sola ciudad, suele deberse a una base de fans local enorme o a una estrategia de ciudad centro que atrae a público de toda la región. En los últimos años, Bangkok se ha convertido en una ciudad centro para las grandes giras internacionales. Estas series de conciertos suelen atraer a mucho público de los países vecinos, además del tailandés.
 
 Si un espectáculo se repite tres noches en la misma ciudad, la demanda de entradas suele repartirse de forma más equilibrada que en una parada de una sola fecha. Así, quien no tenía preferencia por una noche concreta disponía de más opciones de asiento y precio.
 

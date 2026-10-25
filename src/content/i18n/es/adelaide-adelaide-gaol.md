@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: adelaide-adelaide-gaol
-srcHash: 'd2d1c0357e9e'
+srcHash: '55d7ad63e489'
 title: 'Cárcel de Adelaida (Adelaide Gaol): guía de viaje (4.6★)'
 description: En el 18 Gaol Rd, en el extremo occidental de los Adelaide Park Lands y a poca distancia del centro, se alza la antigua cárcel de Adelaida. Con 4.6★ (185 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
 quickAnswer: En el 18 Gaol Rd, en el extremo occidental de los Adelaide Park Lands y a poca distancia del centro, se encuentra la cárcel de Adelaida (Adelaide Gaol). Acogió presos desde 1841 hasta 1988, lo que la sitúa entre las prisiones australianas que más tiempo funcionaron sin interrupción. Hoy es un museo que ofrece visitas históricas y recorridos de fantasmas. Actualmente abre de 10am–4pm. Conviene reservarle unas dos horas y llegar antes de las 2pm para recorrerla sin prisas.
@@ -47,7 +47,7 @@ Después de la visita, los amplios céspedes de Bonython Park, junto al río, in
 
 ## Horarios y visitas guiadas
 
-Actualmente la cárcel abre de 10am–4pm, los siete días de la semana. El horario del museo varía a lo largo del año y en días festivos, así que consulte la web oficial antes de ir. La última entrada se admite antes del cierre, de modo que llegar a las 3:30pm no deja tiempo para verla como merece.
+Actualmente la cárcel abre de 10am–4pm, los siete días de la semana. El horario del museo varía a lo largo del año y en días festivos, así que consulte la web oficial antes de ir. La última entrada se admite antes del cierre, de modo que llegar demasiado cerca de la hora de cierre impide verla como merece.
 
 Para una visita por libre, calcule entre 90 minutos y dos horas. Lo ideal es ir por la mañana o, como tarde, a primera hora de la tarde. Quien llega en cuanto abren suele adelantarse a los grupos escolares y turísticos que aparecen más tarde.
 

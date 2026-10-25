@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: berlin-mcnd-berlin-2026
-srcHash: 'e4f25444e1cf'
+srcHash: 'a225237ec917'
 title: 'MCND en Berlín 2026: fecha, entradas y recinto'
 description: El grupo masculino de K-pop MCND actuará el domingo 6 de diciembre de 2026 en Hole 44, una sala de conciertos situada en la Hermannstraße, en el barrio berlinés de Neukölln.
 quickAnswer: El grupo masculino de K-pop MCND actuará el domingo 6 de diciembre de 2026 en Hole 44, una sala de conciertos situada en la Hermannstraße, en el barrio berlinés de Neukölln. Los enlaces de venta y el horario de apertura de puertas los publica el organizador. Desde la estación Leinestraße de la U8 se llega a Hole 44 en un breve paseo.
@@ -26,7 +26,7 @@ En una sala de estas dimensiones no se ve el espectáculo en una pantalla gigant
 
 ## A quién va a ver
 
-MCND está formado por cinco integrantes: Castle J, BIC, Huijun, Minjae y Win. Todos salieron de TOP Media, la agencia de Teen Top y UP10TION. Castle J es conocido por su trabajo en las canciones propias del grupo, cuyo estilo se basa en la autoproducción y en un fuerte protagonismo del baile.
+MCND está formado por cinco integrantes: Castle J, BIC, Huijun, Minjae y Win. Todos salieron de TOP Media, la agencia de Teen Top y UP10TION. El estilo del grupo se basa en la autoproducción y en un fuerte protagonismo del baile.
 
 Como nadie nos ha facilitado el repertorio ni el nombre de un posible telonero, esta página no los recoge. Los enlaces de venta y los detalles del concierto los publica el organizador en sus propios canales, que son la referencia para consultar horarios y tipos de entrada. Tampoco indicamos ningún precio, puesto que no se nos ha proporcionado.
 

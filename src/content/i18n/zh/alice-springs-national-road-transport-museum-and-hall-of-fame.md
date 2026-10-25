@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: alice-springs-national-road-transport-museum-and-hall-of-fame
-srcHash: 'aeff6c60fc06'
+srcHash: 'db3d8ea7e83f'
 title: 国家公路运输博物馆暨名人堂：艾丽斯斯普林斯旅行指南
 description: 国家公路运输博物馆暨名人堂位于阿伦贝拉（Arumbera）92 Norris Bell Ave，从艾丽斯斯普林斯市中心往南穿过希维特里峡口，开车很快就到。评分4.6★（777条评价），本文汇总游客评价、开放时间和参观建议。
 quickAnswer: 国家公路运输博物馆暨名人堂（National Road Transport Museum and Hall of Fame）位于阿伦贝拉（Arumbera）92 Norris Bell Ave，从艾丽斯斯普林斯市中心往南穿过希维特里峡口（Heavitree Gap），开车很快就到。目前除周六闭馆外，每天9am–3pm开放。建议上午前往，留出两到三个小时慢慢逛各个展棚。
@@ -26,7 +26,7 @@ faq:
 
 ## 公路列车：内陆腹地自己的发明
 
-澳大利亚中部不只是用上了公路列车，更参与了它的发明。20世纪40年代，在艾丽斯斯普林斯一带工作的机械师库尔特·约翰森（Kurt Johannsen）打造出了全国最早的公路列车之一。如此遥远的路途，单靠一辆卡车运货、运牛很难划算，公路列车由此应运而生。
+澳大利亚中部不只是用上了公路列车，更参与了它的发明。以澳大利亚中部为基地的工程师库尔特·约翰森（Kurt Johannsen）打造出了全国最早的公路列车之一。如此遥远的路途，单靠一辆卡车运货、运牛很难划算，公路列车由此应运而生。
 
 这一思路贯穿了整个馆藏。参观时不妨留意以下几类：
 

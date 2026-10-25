@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: cinque-terre-sentiero-monterosso-vernazza
-srcHash: 'baf446964341'
+srcHash: '28d2ac7f7514'
 title: 'Sentiero Monterosso - Vernazza: Guía de viaje de Cinque Terre'
 description: 'El tramo Monterosso–Vernazza es el clásico primer segmento del Sentiero Azzurro (Sendero Azul): unos 3,3 km, 1,5–2 horas subiendo y bajando entre viñedos y vistas al mar desde los acantilados. 4,5★ (1.414 reseñas) — lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El tramo Monterosso–Vernazza es el clásico primer segmento del Sentiero Azzurro (Sendero Azul): unos 3,3 km, 1,5–2 horas subiendo y bajando entre viñedos y vistas al mar desde los acantilados. Está abierto las 24 horas y no tiene barrera, pero conviene ir a primera hora de la mañana o después de las 16:00 en días de semana para evitar las aglomeraciones. Suele exigirse un pase de senderismo (Cinque Terre Card) en temporada alta — comprueba las normas vigentes antes de salir.'
@@ -61,9 +61,9 @@ Evita maletas con ruedas, tacones o cualquier cosa que no estés dispuesto a car
 
 El sendero está oficialmente abierto las 24 horas del día, todos los días, sin barrera de cierre. Eso no significa que todas las horas sean agradables.
 
-Los fines de semana hay mucho movimiento de 7:00 a 23:00, con un flujo constante de excursionistas durante todo el día. Entre semana, en cambio, la afluencia disminuye notablemente entre las 16:00 y las 17:00 — una buena franja si quieres las vistas desde la cresta sin cola en los puntos estrechos.
+Los fines de semana hay mucho movimiento de 7:00 a 23:00, con un flujo constante de excursionistas durante todo el día. Entre semana, en cambio, la afluencia disminuye notablemente a última hora de la tarde — una buena franja si quieres las vistas desde la cresta sin cola en los puntos estrechos.
 
-Las mañanas de fin de semana antes de las 8:00 también son relativamente tranquilas, antes de que lleguen los excursionistas de un día. Evita el sol de mediodía en pleno verano, cuando los tramos expuestos del acantilado se convierten en una auténtica trampa de calor.
+Las primeras horas de la mañana, antes de que lleguen los excursionistas de un día, también son relativamente tranquilas. Evita el sol de mediodía en pleno verano, cuando los tramos expuestos del acantilado se convierten en una auténtica trampa de calor.
 
 ## Cómo visitarlo como un local
 

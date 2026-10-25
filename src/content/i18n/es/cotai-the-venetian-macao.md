@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: cotai-the-venetian-macao
-srcHash: '6763ee6719e7'
+srcHash: 'ed65b76a99b3'
 title: 'The Venetian Macao: guía de viaje de Cotai (4.5★)'
 description: 'En plena Cotai Strip de Macao se alza The Venetian Macao, un enorme complejo con casino cuyas habitaciones son todas suites. Valoración de 4.5★ (28,997 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En plena Cotai Strip, en Cotai (Macao), se alza The Venetian Macao, un enorme complejo con casino cuyas habitaciones son todas suites. Su gran reclamo son las Grand Canal Shoppes, donde las góndolas surcan canales interiores bajo un cielo pintado. Figura entre los complejos más visitados de Macao. Conviene reservar al menos dos horas para recorrer los canales y llegar en los autobuses lanzadera gratuitos de los hoteles. Si quiere hacer fotos sin multitudes, vaya a primera hora.
@@ -38,7 +38,7 @@ Los gondoleros, con camisa de rayas y canotier de paja, conducen las barcas por 
 
 ## Alojarse en las suites
 
-Aquí todas las habitaciones son suites. El hotel se presenta como un establecimiento exclusivamente de suites, con una sala de estar a desnivel separada de la cama. La descripción oficial del complejo lo resume como «elegantes suites en un complejo de lujo con restaurantes refinados, piscinas al aire libre y canales interiores», algo que coincide con lo que los huéspedes valoran sistemáticamente.
+Aquí todas las habitaciones son suites. El hotel se presenta como un establecimiento exclusivamente de suites. La descripción oficial del complejo lo resume como «elegantes suites en un complejo de lujo con restaurantes refinados, piscinas al aire libre y canales interiores», algo que coincide con lo que los huéspedes valoran sistemáticamente.
 
 Las piscinas están al aire libre, en la terraza, y se agradecen después de horas recorriendo pasillos climatizados. Quien se aloja en el hotel puede llegar a los canales antes que los excursionistas. También puede volver a bajar cuando cierran las tiendas y pasear junto al agua, casi vacía a esas horas.
 

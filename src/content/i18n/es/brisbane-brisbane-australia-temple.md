@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: brisbane-brisbane-australia-temple
-srcHash: 'effe25c81c94'
+srcHash: '16562c23d3cf'
 title: 'Templo de Brisbane, Australia: guía de viaje (4.8★)'
 description: El Templo de Brisbane, Australia, se alza en el 200 de River Terrace, en Kangaroo Point. Con 4.8★ (271 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
 quickAnswer: En el 200 de River Terrace, en Kangaroo Point, se alza el Templo de Brisbane, Australia (Brisbane Australia Temple). Pertenece a la Iglesia de Jesucristo de los Santos de los Últimos Días. Cualquiera puede pasear por sus jardines y fotografiar su fachada blanca, que domina el río Brisbane, pero al interior solo acceden los miembros que tienen una recomendación para el templo. Permanece cerrado los domingos y los lunes. Como la mayor afluencia se concentra los sábados de 8am a 7pm, conviene ir entre semana.
@@ -46,7 +46,7 @@ Los horarios publicados son los del propio templo. Consúltelos antes de salir, 
 - Sábado: de 6:30am a 7:15pm, con cierre una hora antes
 - Domingo: cerrado
 
-Procure no acudir un sábado entre las 8am y las 7pm. Es la franja de mayor afluencia de la semana: el aparcamiento se llena y quizá tenga que sortear a los cortejos nupciales que se hacen fotos en el césped.
+Si le es posible, evite acudir un sábado. Es la franja de mayor afluencia de la semana: el aparcamiento se llena y quizá tenga que sortear a los cortejos nupciales que se hacen fotos en el césped.
 
 Es preferible ir una mañana entre semana, después de la apertura de las 7:30am. Las tardes de miércoles a viernes también son buena opción, cuando la piedra blanca recoge las últimas luces del día. Los martes no se abre hasta las 4:30pm.
 

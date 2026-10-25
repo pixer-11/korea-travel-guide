@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bangkok-babymonster-world-tour-choom
-srcHash: 'c80c3ee754e0'
+srcHash: '3c2900bbfd4c'
 title: 'BABYMONSTER World Tour CHOOM en Bangkok: fechas, entradas y recinto'
 description: 'El grupo femenino de siete integrantes de YG Entertainment llevará su BABYMONSTER World Tour CHOOM al Impact Arena de Bangkok, situado en Muang Thong Thani (Nonthaburi), durante dos noches: el 7 y el 8 de noviembre de 2026.'
 quickAnswer: 'El grupo femenino de siete integrantes de YG Entertainment llevará su BABYMONSTER World Tour CHOOM al Impact Arena de Bangkok, situado en Muang Thong Thani (Nonthaburi), durante dos noches: el 7 y el 8 de noviembre de 2026. El recinto queda justo al norte del límite municipal de la ciudad. La mayoría de los fans llega en la línea Rosa del MRT y completa el trayecto con un breve viaje en taxi. Los enlaces para comprar entradas los publica el organizador en sus canales oficiales.'
@@ -26,7 +26,7 @@ YG Entertainment concibió el grupo como un proyecto centrado en la actuación e
 
 ## El Impact Arena por dentro
 
-De todos los edificios que forman el complejo IMPACT Exhibition and Convention Center, el Impact Arena es el más antiguo. Se inauguró en 1999 y desde hace años es el recinto cubierto por excelencia de Bangkok para el K-pop. Se trata de un único pabellón cerrado: las gradas escalonadas ocupan tres de sus lados y frente al escenario se extiende la pista. Con un aforo aproximado de 12.000 localidades sentadas, el escenario se ve con claridad incluso desde los niveles superiores.
+De todos los edificios que forman el complejo IMPACT Exhibition and Convention Center, el Impact Arena es el más antiguo. Desde hace años es el recinto cubierto por excelencia de Bangkok para el K-pop. Se trata de un único pabellón cerrado: las gradas escalonadas ocupan tres de sus lados y frente al escenario se extiende la pista. Gracias a su gran aforo, el escenario se ve con claridad incluso desde los niveles superiores.
 
 El complejo es enorme. Los pabellones Challenger, las salas de exposiciones y el estadio cubierto comparten un mismo recinto a orillas del lago de Muang Thong Thani. La señalización, en tailandés y en inglés, guía a los asistentes hasta las entradas del pabellón. Dentro del propio recinto se encuentra el hotel Novotel Bangkok Impact, donde suelen alojarse los fans llegados del extranjero para ahorrarse el regreso a altas horas de la noche.
 

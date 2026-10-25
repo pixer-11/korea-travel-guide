@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bangkok-gamescom-asia-x-thailand-game-show-2026
-srcHash: '5b0fd87ab9ee'
+srcHash: 'f11f23c08c6d'
 title: 'gamescom asia x Thailand Game Show 2026: fechas, entradas y sede (Bangkok)'
 description: Del 29 de octubre al 1 de noviembre de 2026, el Queen Sirikit National Convention Center (QSNCC), en el distrito bangkokiano de Khlong Toei, acoge gamescom asia x Thailand Game Show 2026.
 quickAnswer: Del 29 de octubre al 1 de noviembre de 2026, gamescom asia x Thailand Game Show 2026 se celebra en el Queen Sirikit National Convention Center (QSNCC), situado en el distrito de Khlong Toei, en Bangkok. El evento une las jornadas profesionales de gamescom asia con la gran feria de videojuegos y deportes electrónicos que Thailand Game Show dirige al público general. Las entradas y el programa de cada día se consultan en las webes oficiales de los organizadores. Para llegar, la línea azul del MRT tiene parada justo a la puerta del recinto.
@@ -38,7 +38,7 @@ Quienes vienen del extranjero suelen alojarse en Asok o en Phrom Phong. Desde am
 
 El fin de semana dedicado a los aficionados es cuando más gente acude. El 31 de octubre y el 1 de noviembre caen en sábado y domingo, días en los que Thailand Game Show atrae habitualmente a familias y estudiantes. Nada más abrirse las puertas, los asistentes veteranos se dirigen directamente a los puestos con las demos más esperadas, porque allí es donde antes crecen las colas. Los espectáculos y las compras quedan para más tarde.
 
-Esto es lo que suelen llevar los asistentes:
+Algunos elementos imprescindibles facilitan la jornada:
 
 - Un móvil cargado y una batería externa, imprescindibles para las entradas electrónicas, los pagos con código QR y las inscripciones en los puestos
 - Una prenda ligera de abrigo, ya que en los pabellones hace frío

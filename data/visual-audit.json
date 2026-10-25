@@ -5196,6 +5196,12 @@
   "reason": "publish gate: Exterior entrance with Studio Bell signage, representative view",
   "at": "2026-10-24T07:56:57.046Z"
  },
+ "calgary-wonderland-sculpture\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Wonderland_Sculpture._Calgary._%2836851329563%29.jpg/3840px-Wonderland_Sculpture._Calgary._%2836851329563%29.jpg": {
+  "slug": "calgary-wonderland-sculpture",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Wonderland wire-mesh head sculpture in Calgary plaza",
+  "at": "2026-10-25T07:47:57.504Z"
+ },
  "cambridge-museum-of-archaeology-and-anthropology\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Museum_of_Archaeology_and_Anthropology%2C_Cambridge_16.jpg/3840px-Museum_of_Archaeology_and_Anthropology%2C_Cambridge_16.jpg": {
   "slug": "cambridge-museum-of-archaeology-and-anthropology",
   "verdict": "MATCH",
@@ -13292,6 +13298,12 @@
   "reason": "publish gate: Lake with mountain reflection, matches Lac Beauvert, Jasper",
   "at": "2026-10-21T13:29:32.111Z"
  },
+ "jasper-valley-of-the-five-lakes\u0001https://upload.wikimedia.org/wikipedia/commons/2/2e/Valley_of_Five_Lakes_%289826528935%29.jpg": {
+  "slug": "jasper-valley-of-the-five-lakes",
+  "verdict": "MATCH",
+  "reason": "publish gate: Turquoise lake with mountains matches Jasper's Valley of Five Lakes",
+  "at": "2026-10-25T07:47:57.381Z"
+ },
  "jeju-black-pork\u0001https://fastly.4sqi.net/img/general/original/1414603250_m5OmYkUnSWOP65ahmVtZhcXnYeuM_txcsyOcKtGIRW8.jpg": {
   "slug": "jeju-black-pork",
   "verdict": "MISMATCH",
@@ -15654,6 +15666,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Snow-capped mountain peak, plausible representative view of Mount Temple",
   "at": "2026-10-22T07:49:24.440Z"
+ },
+ "lake-louise-peyto-lake-viewpoint\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Peyto_Lake-Banff_NP-Canada.jpg/3840px-Peyto_Lake-Banff_NP-Canada.jpg": {
+  "slug": "lake-louise-peyto-lake-viewpoint",
+  "verdict": "MATCH",
+  "reason": "publish gate: Iconic turquoise lake view matches Peyto Lake viewpoint scene",
+  "at": "2026-10-25T07:47:57.411Z"
  },
  "lake-louise-sentinel-pass\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sentinel_Pass.jpg/3840px-Sentinel_Pass.jpg": {
   "slug": "lake-louise-sentinel-pass",
@@ -18395,6 +18413,12 @@
   "reason": "publish gate: Shows park plaza with church, trees, holiday lights at night",
   "at": "2026-10-06T08:00:56.439Z"
  },
+ "mestia-koruldi-lakes\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Koruldi_Lakes%2C_Svaneti%2C_June%2C_2018-1.jpg/3840px-Koruldi_Lakes%2C_Svaneti%2C_June%2C_2018-1.jpg": {
+  "slug": "mestia-koruldi-lakes",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows alpine lake with snow and mountains, matches venue",
+  "at": "2026-10-25T07:47:57.317Z"
+ },
  "mexico-city-2026-gridiron-nations-championship\u0001https://upload.wikimedia.org/wikipedia/commons/4/45/GREATNESS_BEYOND_THE_GRIDIRON_%2830764554380%29.jpg": {
   "slug": "mexico-city-2026-gridiron-nations-championship",
   "verdict": "MISMATCH",
@@ -20763,6 +20787,12 @@
   "reason": "publish gate: Shows Table Rock Welcome Centre exterior with signage clearly",
   "at": "2026-10-21T13:29:32.430Z"
  },
+ "niagara-falls-white-water-walk\u0001https://upload.wikimedia.org/wikipedia/commons/b/b8/White_Water_Walk%2C_Niagara_Falls_%28470626%29_%289450054858%29.jpg": {
+  "slug": "niagara-falls-white-water-walk",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows turbulent whitewater rapids matching White Water Walk attraction",
+  "at": "2026-10-25T07:47:57.564Z"
+ },
  "nice-cascade-du-chateau\u0001https://upload.wikimedia.org/wikipedia/commons/1/18/Cascade_du_ch%C3%A2teau%2C_Nice_%287726528602%29.jpg": {
   "slug": "nice-cascade-du-chateau",
   "verdict": "MATCH",
@@ -21275,6 +21305,12 @@
   "verdict": "MATCH",
   "reason": "Ivy-covered storefront with 'Darwin' signage visible, trendy",
   "at": "2026-07-25T02:47:29.067Z"
+ },
+ "ollantaytambo-plaza-de-armas-de-ollantaytambo\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Vista_desde_la_plaza_de_armas_de_Ollantaytambo_-_panoramio.jpg/3840px-Vista_desde_la_plaza_de_armas_de_Ollantaytambo_-_panoramio.jpg": {
+  "slug": "ollantaytambo-plaza-de-armas-de-ollantaytambo",
+  "verdict": "MATCH",
+  "reason": "publish gate: Plaza with mountain backdrop, consistent with Ollantaytambo's plaza",
+  "at": "2026-10-25T07:47:57.268Z"
  },
  "ollantaytambo-sitio-arqueologico-pinkuylluna\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sitio_arqueologico_de_Pinkuylluna-2026_53.jpg/3840px-Sitio_arqueologico_de_Pinkuylluna-2026_53.jpg": {
   "slug": "ollantaytambo-sitio-arqueologico-pinkuylluna",
@@ -23721,6 +23757,12 @@
   "reason": "event publish gate: Group photo with Bajaj Pune Marathon event branding",
   "at": "2026-10-15T00:05:28.018Z"
  },
+ "puno-museo-carlos-dreyer\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Museo_Carlos_Dreyer_en_Puno_02.jpg/3840px-Museo_Carlos_Dreyer_en_Puno_02.jpg": {
+  "slug": "puno-museo-carlos-dreyer",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior facade with museum name clearly visible",
+  "at": "2026-10-25T07:47:57.350Z"
+ },
  "puno-sillustani\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Sillustani%2C_Per%C3%BA%2C_2015-08-01%2C_DD_87.JPG/1920px-Sillustani%2C_Per%C3%BA%2C_2015-08-01%2C_DD_87.JPG": {
   "slug": "puno-sillustani",
   "verdict": "MATCH",
@@ -23801,6 +23843,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Historic Place Royale buildings at night, representative view",
   "at": "2026-10-21T13:29:32.268Z"
+ },
+ "quebec-city-the-citadelle-of-quebec\u0001https://upload.wikimedia.org/wikipedia/commons/9/9e/Quebec_City_View_of_the_Citadelle_from_the_western_ramparts.jpg": {
+  "slug": "quebec-city-the-citadelle-of-quebec",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows fortification wall and buildings consistent with Citadelle",
+  "at": "2026-10-25T07:47:57.533Z"
  },
  "queenstown-kiwi-park-queenstown\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Queenstown_Kiwi_Birdlife_Park_-_2013.04_-_panoramio.jpg/3840px-Queenstown_Kiwi_Birdlife_Park_-_2013.04_-_panoramio.jpg": {
   "slug": "queenstown-kiwi-park-queenstown",
@@ -31844,6 +31892,12 @@
   "reason": "publish gate: Miniature figures and corral scene, representative of Miniature World",
   "at": "2026-10-22T07:49:24.255Z"
  },
+ "victoria-mystic-vale\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mystic_vale_trees.jpg/1920px-Mystic_vale_trees.jpg": {
+  "slug": "victoria-mystic-vale",
+  "verdict": "MATCH",
+  "reason": "publish gate: Wooded forest scene plausible for Mystic Vale nature trail",
+  "at": "2026-10-25T07:47:57.443Z"
+ },
  "victoria-royal-bc-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Main_entrance_to_Royal_British_Columbia_Museum%2C_Victoria%2C_British_Columbia_02.jpg/1920px-Main_entrance_to_Royal_British_Columbia_Museum%2C_Victoria%2C_British_Columbia_02.jpg": {
   "slug": "victoria-royal-bc-museum",
   "verdict": "MATCH",
@@ -31922,6 +31976,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows vintage cars and fire trucks inside transport museum",
   "at": "2026-10-21T07:49:46.711Z"
+ },
+ "wanaka-new-world-wanaka\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Puzzling_World%2C_Wanaka%2C_New_Zealand_%28panorama_photo%29.jpg/3840px-Puzzling_World%2C_Wanaka%2C_New_Zealand_%28panorama_photo%29.jpg": {
+  "slug": "wanaka-new-world-wanaka",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Puzzling World Wanaka exterior, quirky architecture, mountains",
+  "at": "2026-10-25T07:47:57.473Z"
  },
  "wanaka-puzzling-world\u0001https://upload.wikimedia.org/wikipedia/commons/1/15/Puzzling_World%2C_New_Zealand.jpg": {
   "slug": "wanaka-puzzling-world",

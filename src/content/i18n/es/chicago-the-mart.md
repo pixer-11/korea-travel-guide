@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: chicago-the-mart
-srcHash: '1addfe2ff04f'
+srcHash: '60a757a3bb6f'
 title: 'THE MART: Guía de viaje de Chicago (4.5★)'
 description: THE MART en Chicago (oficialmente el Merchandise Mart, junto al río en 222 W Merchandise Mart Plaza) es el enorme edificio mayorista de diseño situado en la orilla norte del río Chicago, conocido sobre todo por sus salas de exposición de muebles solo para profesionales y por sus eventos de diseño abiertos al público. 4.5★ (2,590 reseñas) — opiniones de los visitantes, horarios y consejos.
 quickAnswer: THE MART en Chicago (oficialmente el Merchandise Mart, junto al río en 222 W Merchandise Mart Plaza) es el enorme edificio mayorista de diseño situado en la orilla norte del río Chicago, conocido sobre todo por sus salas de exposición de muebles solo para profesionales y por sus eventos de diseño abiertos al público. Abre entre semana de 9am a 5pm y permanece cerrado los sábados y domingos, así que conviene planear la visita en un día laborable, aprovechando alguna feria comercial o los locales y restaurantes junto al río abiertos al público general. Reserve al menos una hora solo para orientarse en el vestíbulo antes de subir a los pisos superiores.
@@ -34,7 +34,7 @@ Al entrar, conviene dirigirse directamente al mostrador de información del vest
 
 - Línea Brown/Purple del CTA: parada Merchandise Mart, a pasos de la entrada
 - A menos de 15 minutos a pie desde River North y desde el Loop
-- El Riverwalk de Chicago discurre por la orilla opuesta del río, frente al lado sur del edificio
+- El Riverwalk de Chicago discurre junto al río, justo enfrente del edificio, y ofrece vistas de su fachada
 
 ## Un ritmo exclusivamente entre semana
 

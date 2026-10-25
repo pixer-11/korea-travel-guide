@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: alicante-atp-challenger-alicante
-srcHash: '2601d60f145f'
+srcHash: '6b4d69c034dd'
 title: 'ATP Challenger de Alicante: fechas, entradas y sede'
 description: El ATP Challenger de Alicante se disputa del 28 de octubre al 4 de noviembre de 2026 y es una de las 13 paradas que el ATP Challenger Tour hace cada año en España.
 quickAnswer: Del 28 de octubre al 4 de noviembre de 2026, Alicante acoge su ATP Challenger, una de las 13 citas anuales del circuito en España. En la web oficial del torneo, la organización da a conocer la sede, el orden de juego y los enlaces para comprar entradas. La mayoría de los visitantes aprovecha la jornada de tenis para conocer también el paseo marítimo, el castillo y el casco antiguo de la ciudad.
@@ -44,9 +44,9 @@ Por su propia naturaleza, los horarios de un Challenger son flexibles. Un partid
 
 ## Cómo llegar a Alicante
 
-Desde casi cualquier punto de Europa se llega a Alicante sin complicaciones. A unos 12 km al suroeste de la ciudad se encuentra el **Aeropuerto de Alicante-Elche Miguel Hernández (ALC)**, comunicado con el centro por la línea de autobús C-6.
+Desde casi cualquier punto de Europa se llega a Alicante sin complicaciones. A poca distancia de la ciudad se encuentra el **Aeropuerto de Alicante-Elche Miguel Hernández (ALC)**, comunicado con el centro por la línea de autobús C-6.
 
-- **En tren:** los AVE unen Madrid con la estación de Alicante-Terminal en unas dos horas y media
+- **En tren:** los AVE unen Madrid con la estación de Alicante-Terminal
 - **Por la ciudad:** la red de tranvía TRAM d'Alacant y los autobuses urbanos dan servicio al centro y a los barrios de playa que se extienden hacia el norte, en dirección a San Juan
 - **Dónde alojarse:** desde las calles situadas detrás de la Explanada de España y en torno al Mercado Central se puede ir a pie tanto al paseo marítimo como al casco antiguo
 
@@ -61,7 +61,7 @@ El tenis tiene su propio protocolo, y en una pista pequeña cualquier descuido s
 - **Móviles:** sin sonido y sin flash
 - **Pagos:** en Alicante se acepta de forma generalizada el pago con tarjeta y sin contacto, también en la mayoría de bares y cafeterías
 
-En esta ciudad se come tarde: el almuerzo suele empezar hacia las 2pm y la cena rara vez antes de las 9pm, un ritmo que encaja muy bien con una jornada de tenis. Las sesiones vespertinas terminan a tiempo para una buena cena a la española. Como el último domingo de octubre se atrasan los relojes, durante la semana del torneo anochece hacia las 6pm.
+En esta ciudad se come tarde, un ritmo que encaja muy bien con una jornada de tenis. Las sesiones vespertinas terminan a tiempo para una buena cena a la española. Como el último domingo de octubre se atrasan los relojes, durante la semana del torneo anochece hacia las 6pm.
 
 El domingo 1 de noviembre es *Todos los Santos*, festivo nacional. Ese día algunos comercios cierran, mientras las familias llenan los paseos y los restaurantes.
 

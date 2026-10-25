@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: cairns-cairns-aquarium
-srcHash: '06f1ea294e4f'
+srcHash: 'b96c9a0572af'
 title: 'Cairns Aquarium: guía de viaje (4.6★)'
 description: En el número 5 de Florence St, en Cairns City y a pocos pasos de la Esplanade, el Cairns Aquarium reúne más de 16.000 ejemplares repartidos en 9 ecosistemas, desde los ríos del interior hasta el arrecife. Con una valoración de 4.6★ (7466 reseñas), le contamos qué opinan los visitantes, sus horarios y algunos consejos.
 quickAnswer: A pocos pasos de la Esplanade, en el número 5 de Florence St (Cairns City), el Cairns Aquarium alberga más de 16.000 ejemplares repartidos en 9 ecosistemas que van de los ríos del interior al arrecife. Según nuestros datos de afluencia, el edificio registra menos público entre las 9:30 y las 15:30. Los fines de semana conviene evitar la franja de 11:00 a 14:00, que es la de mayor concurrencia.
@@ -20,7 +20,7 @@ faq:
 
 ## De la selva al arrecife bajo un mismo techo
 
-El recorrido por el edificio sigue el curso del agua cuesta abajo: comienza en las aguas dulces del norte tropical de Queensland y termina en mar abierto. En total, sus 9 ecosistemas albergan más de 16.000 ejemplares. Para quien visita la zona por primera vez supone un anticipo muy útil, ya que en los tanques aparecen las mismas especies que más tarde le señalarán en los barcos al arrecife y en las excursiones por la selva.
+El recorrido por el edificio sigue el curso del agua cuesta abajo: comienza en las aguas dulces del norte tropical de Queensland y termina en mar abierto. Las exhibiciones avanzan por una serie de ecosistemas diferenciados, cada uno concebido para evocar una etapa de ese trayecto. Para quien visita la zona por primera vez supone un anticipo muy útil, ya que en los tanques aparecen las mismas especies que más tarde le señalarán en los barcos al arrecife y en las excursiones por la selva.
 
 Es una de las atracciones de Cairns con más reseñas y goza de valoraciones altas de forma constante. Toda la visita se hace en interiores con aire acondicionado, así que funciona como plan alternativo en las tardes de la temporada de lluvias, cuando los barcos no salen del puerto. Reserve entre dos y tres horas. Las familias con niños pequeños suelen tardar más, porque se entretienen en los tanques a la altura de la mano.
 

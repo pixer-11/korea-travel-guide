@@ -1,17 +1,17 @@
 ---
 lang: es
 slug: deira-abra-dubai
-srcHash: '527af96279a7'
+srcHash: 'e62fe86766ba'
 title: 'Abra en Dubái: Guía de viaje de Deira (4,7★)'
 description: 'El cruce en abra de Deira sobre el Dubai Creek funciona las 24 horas y cuesta una tarifa simbólica de AED 1, tardando entre cinco y diez minutos en llegar a Al Seef o Al Fahidi, en el lado de Bur Dubai. 4,7★ (573 reseñas): lo que dicen los visitantes, horarios y consejos.'
-quickAnswer: El cruce en abra de Deira sobre el Dubai Creek funciona las 24 horas y cuesta una tarifa simbólica de AED 1, tardando entre cinco y diez minutos en llegar a Al Seef o Al Fahidi, en el lado de Bur Dubai. Ve entre las 8 y las 10 de la mañana los fines de semana para disfrutar de un barco casi vacío y una suave luz matutina; evita el ajetreo de 6pm a 11pm, cuando todos los demás tienen la misma idea.
+quickAnswer: El cruce en abra de Deira sobre el Dubai Creek funciona las 24 horas y cuesta una tarifa simbólica de AED 1, tardando entre cinco y diez minutos en llegar a Al Seef o Al Fahidi, en el lado de Bur Dubai. Ve entre las 8 y las 10 de la mañana los fines de semana para disfrutar de un barco casi vacío y una suave luz matutina; evita el ajetreo de 6pm a 8pm, cuando todos los demás tienen la misma idea.
 faq:
   - q: ¿Cuánto cuesta el viaje en abra?
     a: Es una tarifa fija y simbólica —alrededor de AED 1— que se paga en efectivo directamente al barquero o en una pequeña taquilla en el muelle.
   - q: ¿Cuánto dura el cruce?
     a: Entre cinco y diez minutos por trayecto, según en qué muelle desembarques en el lado de Bur Dubai.
   - q: ¿Cuál es el mejor momento para ir con menos gente?
-    a: Las mañanas de fin de semana entre las 8am y las 10am son cuando hay menos pasajeros. Evita el horario de 6pm a 11pm los fines de semana, cuando se reúnen multitudes para ver el perfil de la ciudad al atardecer.
+    a: Las mañanas de fin de semana entre las 8am y las 10am son cuando hay menos pasajeros. Evita el horario de 6pm a 8pm los fines de semana, cuando se reúnen multitudes para ver el perfil de la ciudad al atardecer.
   - q: ¿Cuál es la estación de metro más cercana?
     a: Al Ras o Baniyas Square, ambas en la Línea Verde, están a poca distancia a pie de la estación de abra de Deira, en Baniyas Road.
   - q: ¿Necesito reservar con antelación?
@@ -54,7 +54,7 @@ Combina el paseo con una visita al Zoco de las Especias en el lado de Deira ante
 
 Esta atracción pasa bastante desapercibida frente a los grandes íconos turísticos de Dubái, y el cruce funciona las 24 horas del día, todos los días.
 
-Las mañanas de fin de semana entre las 8am y las 10am son el momento más tranquilo, con apenas unos pocos pasajeros más y una luz suave que se refleja en el agua. Intenta evitar el horario de 6pm a 11pm los fines de semana, cuando el muelle se llena de fotógrafos que buscan capturar el perfil de la ciudad al atardecer y las colas para completar un barco se alargan bastante.
+Las mañanas de fin de semana entre las 8am y las 10am son el momento más tranquilo, con apenas unos pocos pasajeros más y una luz suave que se refleja en el agua. Intenta evitar el horario de 6pm a 8pm los fines de semana, cuando el muelle se llena de fotógrafos que buscan capturar el perfil de la ciudad al atardecer y las colas para completar un barco se alargan bastante.
 
 Ir temprano por la mañana también significa aire más fresco, un factor real en una ciudad donde el calor del mediodía puede hacer incómodo incluso un corto paseo hasta el muelle.
 

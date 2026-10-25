@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: coloane-kun-iam-temple-coloane
-srcHash: 'b5aaf748205d'
+srcHash: '68798f5528fd'
 title: 'Templo de Kun Iam de Coloane: guía de viaje'
 description: En el antiguo pueblo de Coloane, al sur de Macao, se encuentra el Templo de Kun Iam, un pequeño santuario budista consagrado a la diosa de la Misericordia.
 quickAnswer: En el pueblo de Coloane, en el sur de Macao, se alza el Templo de Kun Iam, un pequeño santuario budista dedicado a la diosa de la Misericordia. Encaja sin esfuerzo en un paseo que pase por la capilla del pueblo, sus otros templos y las pastelerías de tartaletas de huevo. Bastan entre 15 y 20 minutos. Conviene ir con luz de día y no confundirlo con Kun Iam Tong, un templo mucho mayor situado en la península de Macao.
@@ -42,7 +42,7 @@ No se trata de una pieza de museo, sino de un lugar al que la gente acude a reza
 
 Este es el error que más tiempo hace perder a los visitantes. En Macao hay varios lugares que llevan el nombre de Kun Iam, y tanto los mapas como los taxistas pueden llevarle al equivocado.
 
-- **Kun Iam Tong (Templo de Kun Iam)** es el gran conjunto de templos, el más célebre, situado en Mong Ha, en la península de Macao. Allí se firmó en 1844 el primer tratado entre China y Estados Unidos.
+- **Kun Iam Tong (Templo de Kun Iam)** es el gran conjunto de templos, el más célebre, situado en Mong Ha, en la península de Macao, y uno de los templos más antiguos e importantes del territorio.
 - **La Estatua de Kun Iam** es la figura de bronce que se levanta sobre una base en forma de loto en el paseo marítimo de NAPE, cerca del Centro de Ciencia de Macao.
 - **El Templo de Kun Iam de Coloane** es el pequeño santuario de pueblo del que trata esta guía, en el extremo sur del territorio.
 

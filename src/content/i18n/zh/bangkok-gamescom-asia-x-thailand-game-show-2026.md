@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: bangkok-gamescom-asia-x-thailand-game-show-2026
-srcHash: '5b0fd87ab9ee'
+srcHash: 'f11f23c08c6d'
 title: 2026 gamescom asia x 泰国游戏展：日期、门票与场馆全攻略（曼谷）
 description: 2026 gamescom asia x 泰国游戏展将于2026年10月29日至11月1日在曼谷孔堤区的诗丽吉王后国家会议中心（QSNCC）举行。
 quickAnswer: 2026 gamescom asia x 泰国游戏展（Thailand Game Show）将于2026年10月29日至11月1日登陆曼谷孔堤区（Khlong Toei）的诗丽吉王后国家会议中心（Queen Sirikit National Convention Center，简称QSNCC）。展会分两部分：gamescom asia负责面向业内的B2B商务日，泰国游戏展则带来大规模的玩家游戏展和电竞赛事。门票信息和每日日程以主办方官网公布为准。地铁MRT蓝线在场馆门口设有站点。
@@ -38,7 +38,7 @@ gamescom asia从新加坡移师曼谷以后，两展这是第二次在曼谷联�
 
 玩家周末人最多。10月31日和11月1日恰逢周六、周日，每年这两天泰国游戏展都会吸引大批家庭和学生。老玩家通常一开门就直奔最热门的试玩展台，因为那里的队伍涨得最快，舞台表演和周边可以晚些再看。
 
-观众一般会带上这些东西：
+带上几样必备物品，逛展会轻松不少：
 
 - 充满电的手机和充电宝，电子票、扫码支付和展台报名都要用
 - 一件薄外套，展厅里空调开得很足

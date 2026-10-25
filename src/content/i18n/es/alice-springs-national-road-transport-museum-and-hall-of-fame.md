@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: alice-springs-national-road-transport-museum-and-hall-of-fame
-srcHash: 'aeff6c60fc06'
+srcHash: 'db3d8ea7e83f'
 title: 'Museo Nacional del Transporte por Carretera y Salón de la Fama: guía de viaje de Alice Springs'
 description: El Museo Nacional del Transporte por Carretera y Salón de la Fama (National Road Transport Museum and Hall of Fame) se encuentra en 92 Norris Bell Ave, en Arumbera. Desde el centro de Alice Springs se llega en un breve trayecto en coche hacia el sur, cruzando Heavitree Gap. Tiene una valoración de 4.6★ (777 reseñas). Aquí encontrará las opiniones de los visitantes, el horario y algunos consejos.
 quickAnswer: El Museo Nacional del Transporte por Carretera y Salón de la Fama (National Road Transport Museum and Hall of Fame) está en 92 Norris Bell Ave, en Arumbera, a poca distancia en coche al sur del centro de Alice Springs, al otro lado de Heavitree Gap. En la actualidad abre todos los días de 9am–3pm, salvo los sábados, en que permanece cerrado. Conviene ir por la mañana y reservar entre dos y tres horas para recorrer las naves.
@@ -26,7 +26,7 @@ Además, recibe muchísimos menos visitantes que los grandes reclamos de la ciud
 
 ## Trenes de carretera: un invento del interior australiano
 
-El centro de Australia no se limitó a usar el tren de carretera, sino que contribuyó a inventarlo. En la década de 1940, Kurt Johannsen, un mecánico que trabajaba en la comarca de Alice Springs, construyó uno de los primeros del país. Su objetivo era transportar mercancías y ganado a lo largo de distancias que ningún camión por sí solo podía cubrir de forma rentable.
+El centro de Australia no se limitó a usar el tren de carretera, sino que contribuyó a inventarlo. Kurt Johannsen, un ingeniero afincado en el centro de Australia, construyó uno de los primeros del país. Su objetivo era transportar mercancías y ganado a lo largo de distancias que ningún camión por sí solo podía cubrir de forma rentable.
 
 Esa idea es el hilo conductor de toda la colección. No deje de buscar:
 

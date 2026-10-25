@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: avignon-jardin-des-doms
-srcHash: '9c3d8873fd6b'
+srcHash: '9270d82be6b0'
 title: 'Jardin des Doms: guía de viaje de Aviñón (4,5★)'
 description: 'El Jardin des Doms es el parque situado en lo alto de la colina que domina el Palacio de los Papas, abierto todos los días de 7:30 a 22:00, con vistas panorámicas al Ródano y al puente Saint-Bénézet. 4,5★ (3.955 opiniones): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Jardin des Doms es el parque situado en lo alto de la colina que domina el Palacio de los Papas, abierto todos los días de 7:30 a 22:00, con vistas panorámicas al Ródano y al puente Saint-Bénézet. Conviene subir a última hora de la tarde para disfrutar de la mejor luz, y acudir a primera hora de la mañana o después de las 20:00 si se busca tener los caminos para uno mismo, ya que los fines de semana el parque se llena entre el mediodía y las 20:00. Calcule entre 45 minutos y una hora, más si se entretiene junto al estanque o en la cafetería.
@@ -52,7 +52,7 @@ Entre semana, las horas más tranquilas son de 20:00 a 22:00, cuando ya se ha id
 
 El Jardin des Doms de Aviñón es un lugar muy conocido y concurrido, así que aquí importa más elegir bien el momento que buscar una entrada secreta. Lo ideal es acudir a primera hora, justo tras la apertura de las 7:30, o acercarse después de cenar, antes del cierre a las 22:00: ambas franjas son notablemente más tranquilas.
 
-No hay entrada que pagar, así que basta con entrar directamente. La cafetería del interior funciona como cualquier cafetería de parque francés: se pide en el mostrador o se espera a que atiendan en la mesa.
+No hay entrada que pagar, así que basta con entrar directamente. La cafetería del interior funciona como cualquier cafetería de parque francés: se pide en el mostrador.
 
 El error más habitual de los visitantes es tratar este lugar como una parada fotográfica rápida de camino al Palacio de los Papas. Los locales, en cambio, lo viven como un paseo en toda regla: recorren el circuito completo, se sientan un rato junto al estanque y disfrutan de las vistas desde más de una terraza, ya que el ángulo sobre el Ródano cambia según el punto de la roca desde el que se mire.
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: coloane-village-tin-hau-temple-coloane
-srcHash: '172771177afd'
+srcHash: 'd45f0e813773'
 title: 'Templo de Tin Hau de Coloane: guía de viaje por la aldea de Coloane'
 description: En la aldea de Coloane, en Macao, se alza el Templo de Tin Hau, un pequeño santuario de la dinastía Qing dedicado a la diosa del mar. Se llega en un breve paseo cuesta arriba desde el paseo marítimo y la Capilla de San Francisco Javier.
 quickAnswer: 'En la aldea de Coloane, en Macao, se alza el Templo de Tin Hau, un pequeño santuario de la dinastía Qing dedicado a la diosa del mar. Se llega en un breve paseo cuesta arriba desde el paseo marítimo y la Capilla de San Francisco Javier. La visita al templo lleva entre 15 y 20 minutos, así que conviene completarla con el resto de la aldea: el Templo de Tam Kong, el paseo marítimo y la pastelería original de Lord Stow''s Bakery. Como no hay un horario publicado que sea fiable, infórmese en la zona antes de desviarse expresamente para verlo.'

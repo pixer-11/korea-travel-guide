@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: berlin-german-masters-snooker
-srcHash: '9cb7a6666468'
+srcHash: '6ef831f7336a'
 title: 斯诺克德国大师赛（柏林）：赛期、门票与场馆指南
 description: 2027年斯诺克德国大师赛将于1月25日至31日在柏林克罗伊茨贝格区的Tempodrom举行，场馆距安哈尔特火车站（Anhalter Bahnhof）城铁站仅几步之遥。
 quickAnswer: 2027年斯诺克德国大师赛将于1月25日至31日在柏林克罗伊茨贝格区的Tempodrom举行，从安哈尔特火车站（Anhalter Bahnhof）城铁站步行过去用不了多久。这是世界斯诺克巡回赛的排名赛之一，赛期、场馆和购票链接均以巡回赛官网公布的为准。对不少球迷来说，这一周的节奏通常是：在场馆里连看几个长场次，场次间隙再去冬日柏林逛一逛。

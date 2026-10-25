@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: brisbane-the-collective-markets
-srcHash: '019377f6cc71'
+srcHash: 'a9ae6c8fabfb'
 title: 布里斯班 Collective 市集（The Collective Markets）旅行指南（4.2★）
 description: Collective 市集位于南布里斯班南岸区的小斯坦利街（Little Stanley Street），每周五 5–9pm、周六 10am–9pm、周日 9am–4pm 开市，售卖本地手作、首饰、艺术品、家居用品和服装。评分 4.2★（1,270 条评价），本文汇总游客评价、营业时间和实用贴士。
 quickAnswer: Collective 市集（The Collective Markets）设在南布里斯班南岸区的小斯坦利街（Little Stanley Street），专卖本地制作的手工艺品、首饰、艺术品、家居用品和服装。开放时间为周五 5–9pm、周六 10am–9pm、周日 9am–4pm，周一至周四休市。周末从 9am 到 9pm 一直是人流高峰，想避开这个时段，只能选周五晚上。
@@ -77,7 +77,7 @@ faq:
 
 数据很直白：周六和周日的场次往往从开市到收摊都很拥挤，所以无论周末哪一天，都没有靠得住的清闲时段可挑。
 
-如果想有空间慢慢逛、有时间和摊主聊天，周五晚上是唯一避开周末高峰的场次，想逛得清静些，选它最稳妥。如果只能周末来，就要做好人行道上摩肩接踵的准备，提前规划好。
+如果想有空间慢慢逛、有时间和摊主聊天，周五晚上是唯一能避开周末人潮的选择，想逛得清静些，选它最稳妥。如果只能周末来，就要做好人行道上摩肩接踵的准备，提前规划好。
 
 周末逛市集，以下几招会有帮助：
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: cuttack-odisha-masters-super-100
-srcHash: 'a499477fc709'
+srcHash: 'e9d9262692a2'
 title: 'Odisha Masters Super 100: fechas, entradas y sede (Cuttack)'
 description: Del 8 al 13 de diciembre de 2026, Cuttack (India) acoge el Odisha Masters Super 100, un torneo de bádminton del BWF World Tour que dura seis días. Las ediciones anteriores se disputaron en el Jawaharlal Nehru Indoor Stadium.
 quickAnswer: Del 8 al 13 de diciembre de 2026, Cuttack (India) acoge el Odisha Masters Super 100, un torneo de bádminton del BWF World Tour que dura seis días. Las ediciones anteriores se disputaron en el Jawaharlal Nehru Indoor Stadium. La información sobre entradas y acceso corre a cargo de los organizadores, y los cuadros y resultados pueden consultarse en la BWF. Las primeras jornadas son las que ofrecen más partidos desde un mismo asiento. Los cinco títulos se deciden el último día.
@@ -46,7 +46,7 @@ Tanto las ediciones anteriores del Odisha Masters como las del Odisha Open, su p
 
 Para llegar desde fuera de la ciudad:
 
-- **En avión:** el Aeropuerto Internacional Biju Patnaik está en Bhubaneswar, unos 30 km al sur. La mayoría de los visitantes recorre la autopista en taxi convencional o en taxi por aplicación.
+- **En avión:** el Aeropuerto Internacional Biju Patnaik está en Bhubaneswar, a poca distancia en coche de Cuttack. La mayoría de los visitantes recorre la autopista en taxi convencional o en taxi por aplicación.
 - **En tren:** Cuttack Junction se encuentra en la línea principal Howrah–Chennai y tiene trenes directos desde Calcuta, Bhubaneswar y otras ciudades.
 - **Dentro de la ciudad:** para el corto trayecto hasta la zona del estadio bastan los mototaxis o los taxis por aplicación.
 
@@ -58,7 +58,7 @@ El bádminton tiene sus propias normas de comportamiento para el público, y la 
 
 Algunas costumbres de los asiduos:
 
-- **Esperar al descanso.** Cada juego se detiene cuando uno de los lados llega a 11 puntos, y entre juego y juego hay una breve pausa. Es el momento de buscar asiento o de salir a comer algo.
+- **Esperar al descanso.** Entre juego y juego hay una breve pausa, y es el momento de buscar asiento o de salir a comer algo.
 - **Prescindir del flash.** Los destellos de las cámaras y las pantallas brillantes de los móviles distraen a unos jugadores que siguen un volante blanco bajo los focos.
 - **Animar entre puntos, nunca durante ellos.** El rugido de la grada llega cuando termina el punto, jamás con el volante en el aire.
 - **Llevar algo de abrigo.** Los pabellones suelen tener aire acondicionado y se pasan muchas horas sentado.

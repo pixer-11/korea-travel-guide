@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: berlin-mustafa-s-gemuse-kebap
-srcHash: '2c3589cb6431'
+srcHash: '800d01f0fd0b'
 title: 'Mustafa''s Gemüse Kebap: dónde comer en Berlín (4.2★)'
 description: En Mehringdamm 33, en pleno Kreuzberg (Berlín) y a pocos pasos de la estación de U-Bahn Mehringdamm (U6 y U7), se encuentra Mustafa's Gemüse Kebap, un diminuto quiosco de comida para llevar famoso por sus kebabs de pollo repletos de verduras a la plancha. Con 4.2★ (22,378 reseñas), aquí encontrará lo que opinan los visitantes, el horario y algunos consejos.
 quickAnswer: En Mehringdamm 33, en pleno Kreuzberg (Berlín) y a pocos pasos de la estación de U-Bahn Mehringdamm (U6 y U7), se encuentra Mustafa's Gemüse Kebap, un diminuto quiosco de comida para llevar famoso por sus kebabs de pollo repletos de verduras a la plancha. Entre semana, la cola es más corta fuera de las horas punta del almuerzo y la cena; los fines de semana, de 11am a 1pm. Conviene evitar los sábados y domingos de 1pm a 11pm, cuando se forman las colas más largas. Tenga en cuenta, además, que los viernes no abre hasta las 2pm.
@@ -32,7 +32,7 @@ El kebab consiste en pollo envuelto en pan plano tostado, con abundantes verdura
 
 - Pollo del asador, cortado en el momento
 - Verduras a la plancha, la seña de identidad de la casa
-- Queso desmenuzado y unas gotas de limón
+- Los ingredientes adicionales que se ofrezcan en la ventanilla
 - Varias salsas a elegir, entre las que suele haber una picante
 
 Es una comida económica y saciante: con un kebab hay de sobra para almorzar. Si viaja con alguien vegetariano, pregunte en la ventanilla si existe una versión sin carne antes de que le llegue el turno.
@@ -52,7 +52,7 @@ Tenga servilletas a mano y no se ponga su mejor camisa, porque con tanta verdura
 
 ## Un horario que se alarga hasta la madrugada
 
-El quiosco está pensado para el hambre nocturna y su horario se prolonga hasta muy tarde. De lunes a miércoles abre de 11am a 11:30pm. Los jueves y domingos permanece abierto hasta aún más entrada la noche.
+El quiosco está pensado para el hambre nocturna y su horario se prolonga hasta muy tarde. De lunes a miércoles abre de 11am a 11:30pm. Los jueves y domingos permanece abierto hasta algo más tarde.
 
 El viernes es la excepción: el quiosco no abre a las 11am, sino a las **2pm**, por lo que no sirve para almorzar ese día, aunque permanece abierto hasta las 2:30am. El sábado es la jornada más larga, de 11am a 2:30am, lo que lo convierte en una parada cómoda al final de una noche de fiesta en Kreuzberg.
 

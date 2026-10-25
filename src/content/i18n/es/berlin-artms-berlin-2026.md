@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: berlin-artms-berlin-2026
-srcHash: '3c2b2a843e75'
+srcHash: '102bff8594dd'
 title: 'ARTMS en Berlín 2026: fecha, entradas y recinto'
 description: ARTMS actuará en Berlín el miércoles 25 de noviembre de 2026 en la Kesselhaus & Maschinenhaus de la Kulturbrauerei, en el barrio de Prenzlauer Berg, a pocos minutos a pie de la estación de U-Bahn Eberswalder Straße (U2).
 quickAnswer: El concierto de ARTMS en Berlín será el miércoles 25 de noviembre de 2026 en la Kesselhaus & Maschinenhaus de la Kulturbrauerei, en Prenzlauer Berg. El recinto queda a pocos minutos a pie de la estación de U-Bahn Eberswalder Straße (U2). Las entradas y el horario de apertura de puertas se publican en la web oficial del promotor. En esta guía no figuran precios ni horarios de actuación.
@@ -22,7 +22,7 @@ faq:
 
 Todo el recinto es de ladrillo. La Kulturbrauerei ocupa el antiguo complejo cervecero Schultheiss, cuyas naves de ladrillo rojo y amarillo proyectó Franz Schwechten a finales del siglo XIX. En sus patios conviven hoy un cine, varios bares y diversas salas de conciertos. La Kesselhaus (sala de calderas) y la Maschinenhaus (sala de máquinas) están una junto a otra y conservan su estructura industrial.
 
-El 25 de noviembre de 2026 llega aquí ARTMS. El grupo lo forman HeeJin, HaSeul, Kim Lip, JinSoul y Choerry, todas ellas exintegrantes de LOONA y hoy bajo el sello Modhaus. Esta guía no trata del repertorio ni de los teloneros, como tampoco del horario de apertura de puertas ni de los precios.
+El 25 de noviembre de 2026 llega aquí ARTMS. El grupo lo forman HeeJin, HaSeul, Kim Lip, JinSoul y Choerry, todas ellas exintegrantes de LOONA y hoy bajo el sello Modhaus. El repertorio y los teloneros, así como el horario de apertura de puertas y los precios, aún no se han anunciado.
 
 ## Cómo llegar a la Kulturbrauerei
 

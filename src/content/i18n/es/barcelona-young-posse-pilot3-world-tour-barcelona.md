@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: barcelona-young-posse-pilot3-world-tour-barcelona
-srcHash: 'f5959863e26a'
+srcHash: 'dbc701a8ff4d'
 title: 'Young Posse PILOT3 World Tour en Barcelona: fecha, entradas y sala'
 description: El 29 de octubre de 2026, Young Posse llevará su PILOT3 World Tour a Barcelona. Actuarán en la Sala Salamandra, un club con entradas de pie situado en L'Hospitalet de Llobregat, en el límite occidental de la ciudad.
 quickAnswer: 'El 29 de octubre de 2026, Young Posse llevará su PILOT3 World Tour a Barcelona. La cita será en la Sala Salamandra, un club con entradas de pie situado en L''Hospitalet de Llobregat, en el límite occidental de la ciudad. Barcelona es una de las paradas de PILOT3: The 1st FLIGHT TO EUROPE, la primera gira europea del grupo. Lo habitual es llegar en la línea 1 de metro hasta Avinguda Carrilet. Los precios y las categorías de entrada vigentes figuran en la página oficial de venta de la gira.'
@@ -40,7 +40,7 @@ En metro el viaje es sencillo. La parada más próxima a la sala es **Avinguda C
 
 Los trenes de cercanías de FGC que salen de Plaça Espanya también paran en L'Hospitalet–Av. Carrilet, una buena alternativa si se aloja cerca de Montjuïc o de la Gran Via. En taxi o con un servicio de VTC, el trayecto desde el centro de Barcelona dura más o menos lo mismo que en metro, si el tráfico lo permite.
 
-El 29 de octubre es un día laborable. De lunes a jueves, el metro de Barcelona cierra hacia la medianoche. Si se queda a comprar merchandising o a disfrutar del ambiente en la puerta, lo normal es volver en los autobuses nocturnos NitBus o en taxi.
+El 29 de octubre es un día laborable. Entre semana, el metro de Barcelona no funciona toda la noche, así que si se queda a comprar merchandising o a disfrutar del ambiente en la puerta, lo normal es volver en los autobuses nocturnos NitBus o en taxi.
 
 ## Colas, lightsticks y vuelta a casa: cómo transcurre la noche
 
@@ -53,7 +53,7 @@ Esto es lo que suelen llevar y hacer los asistentes:
 - **El merchandising, lo primero.** En los puestos de las giras se agotan pronto las tallas más populares, por lo que muchos compran antes de que empiece el concierto.
 - **Pago sin contacto.** En casi todas las barras y puestos de Barcelona se puede pagar con tarjeta o con el móvil. En la barra de una sala no se espera propina.
 
-En España se cena tarde y la mayoría de los restaurantes de barrio no sirven cenas antes de las 20:30 o las 21:00. Por eso el público suele comer tarde o compra unos bocadillos en alguna panadería cercana al metro. En el mostrador siempre se agradece un «gràcies» en catalán o un «gracias» en castellano.
+En España se cena tarde y en muchos restaurantes de barrio las cenas no empiezan a animarse hasta bien entrada la noche. Por eso el público suele comer tarde o compra unos bocadillos en alguna panadería cercana al metro. En el mostrador siempre se agradece un «gràcies» en catalán o un «gracias» en castellano.
 
 ## Entradas y datos importantes
 

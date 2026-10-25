@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: cotai-le-jardin
-srcHash: '0160f10fd347'
+srcHash: 'bf01977731b8'
 title: 'Le Jardin: guía de viaje de Cotai'
 description: En la Estrada do Istmo de Cotai (Macao), la avenida que flanquean los grandes resorts del Strip, se encuentra Le Jardin, un pequeño parque.
 quickAnswer: En la Estrada do Istmo de Cotai (Macao), la avenida que flanquean los grandes resorts del Strip, se encuentra Le Jardin, un pequeño parque. Entre casino y casino, ofrece un rincón tranquilo al aire libre. Actualmente abre todos los días de 10am–8pm, y basta con dedicarle entre 20–45 minutos.
@@ -30,7 +30,7 @@ La mayoría de los visitantes llega como es costumbre en Cotai, a través de los
 
 - **Los autobuses lanzadera gratuitos de los resorts** conectan la Terminal de Ferris del Puerto Exterior de Macao, la Terminal de Ferris de Taipa y las Portas do Cerco con los grandes complejos de Cotai. Bájese en el resort de la Estrada do Istmo que le quede más cerca y recorra a pie el resto del trayecto.
 - **La línea de Taipa del metro ligero (LRT) de Macao** tiene varias estaciones repartidas por Cotai. Consulte el mapa de la red para saber cuál es la parada más próxima a su resort.
-- **Los taxistas** conocen bien la Estrada do Istmo. Muéstreles la dirección por escrito, ya que muchos hablan más cantonés que inglés.
+- **Los taxistas** conocen bien la Estrada do Istmo. Muéstreles la dirección por escrito, ya que no todos hablan inglés.
 
 Caminando por las pasarelas de los resorts, el Strip parece más pequeño de lo que es en realidad. A pie de calle, en cambio, las distancias son largas y los cruces, anchos, así que calcule tiempo de sobra.
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: coloane-a-ma-cultural-village
-srcHash: 'a36ac51781c9'
+srcHash: '86f99c7e7bc4'
 title: 'Aldea Cultural de A-Ma: guía de viaje por Coloane (4.4★)'
 description: Casi en la cima de la colina de Coloane, en la Estrada do Alto de Coloane, al sur de Macao, se encuentra la Aldea Cultural de A-Ma. Con 4.4★ (325 reseñas), le contamos qué opinan los visitantes, cuál es su horario y algunos consejos.
 quickAnswer: Casi en la cima de la colina de Coloane, en la Estrada do Alto de Coloane, al sur de Macao, se alza la Aldea Cultural de A-Ma (A-Ma Cultural Village). Este moderno conjunto de templos está consagrado a A-Ma, la diosa del mar, y cuenta con un museo y tiendas de recuerdos. Abre todos los días de 9:00 a 18:00. Entre semana hay poca gente durante toda la jornada; el fin de semana conviene llegar entre las 9:00 y las 11:00, antes de la aglomeración que se forma de 11:00 a 17:00.
@@ -26,7 +26,7 @@ Muy cerca se encuentra la Estatua de A-Ma, una figura de piedra clara de unos 20
 
 ## Cómo subir a la cima
 
-La dirección es Estrada do Alto de Coloane, una carretera que asciende serpenteando entre el bosque y se aleja de los pueblos costeros de Coloane. Lo más sencillo es subir en taxi. Pida que le lleven a la estatua de A-Ma (*Ma Zu Xiang* en mandarín; si el conductor habla cantonés, *Ma Tsou Tchong*) y muéstrele además la dirección por escrito.
+La dirección es Estrada do Alto de Coloane, una carretera que asciende serpenteando entre el bosque y se aleja de los pueblos costeros de Coloane. Lo más sencillo es subir en taxi. Pida que le lleven a la estatua de A-Ma y muéstrele además la dirección por escrito.
 
 Si le gusta caminar, puede aprovechar la red de senderos de Coloane (Coloane Trail), que recorre estas colinas: así podrá subir a pie y bajar por otra ruta. Lleve agua, porque la subida es empinada y en gran parte no tiene sombra. Arriba escasean los taxis, de modo que conviene decidir cómo va a bajar antes de apearse.
 

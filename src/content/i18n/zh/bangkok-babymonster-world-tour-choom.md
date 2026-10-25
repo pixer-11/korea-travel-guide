@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: bangkok-babymonster-world-tour-choom
-srcHash: 'c80c3ee754e0'
+srcHash: '3c2900bbfd4c'
 title: BABYMONSTER「CHOOM」世界巡演曼谷站：日期、门票与场馆
 description: 2026年11月7日、8日，YG娱乐旗下七人女团BABYMONSTER将把「CHOOM」世界巡演带到暖武里府蒙通他尼的曼谷Impact Arena，连演两晚。
 quickAnswer: 2026年11月7日、8日，YG娱乐旗下七人女团BABYMONSTER的「CHOOM」世界巡演将在曼谷Impact Arena连演两晚。场馆位于暖武里府蒙通他尼（Muang Thong Thani），紧邻曼谷市界北侧。大多数歌迷会先乘MRT粉色线，再换乘出租车走完最后一小段路。购票链接由主办方在官方渠道发布。
@@ -26,7 +26,7 @@ YG娱乐从一开始就把这支团体定位为舞台表演型组合。演出会
 
 ## 走进Impact Arena
 
-Impact Arena是IMPACT会展中心（IMPACT Exhibition and Convention Center）园区里历史最久的建筑，1999年落成，多年来一直是曼谷K-pop室内演出的首选场地。场馆为全封闭的碗状结构，三面是阶梯看台，舞台前方是内场区域。座位约12,000个，即便坐在上层看台，看舞台的视线也毫无遮挡。
+Impact Arena是IMPACT会展中心（IMPACT Exhibition and Convention Center）园区里历史最久的建筑，多年来一直是曼谷K-pop室内演出的首选场地。场馆为全封闭的碗状结构，三面是阶梯看台，舞台前方是内场区域。座位数量众多，即便坐在上层看台，看舞台的视线也毫无遮挡。
 
 整个园区占地极广，Challenger展厅、各个展览馆和Impact Arena都围绕蒙通他尼湖而建，同处一片园区。泰英双语指示牌会把观众引到场馆入口。曼谷IMPACT诺富特酒店就在园区内，从海外赶来的歌迷常住在这里，省去深夜返程的奔波。
 

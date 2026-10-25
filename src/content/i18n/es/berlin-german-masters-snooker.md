@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: berlin-german-masters-snooker
-srcHash: '9cb7a6666468'
+srcHash: '6ef831f7336a'
 title: 'German Masters de snooker en Berlín: fechas, entradas y sede'
 description: Del 25 al 31 de enero de 2027, el German Masters de snooker se disputa en el Tempodrom, en el barrio berlinés de Kreuzberg, a pocos pasos de la estación de S-Bahn Anhalter Bahnhof.
 quickAnswer: Del 25 al 31 de enero de 2027, el German Masters de snooker se disputa en el Tempodrom, en el barrio berlinés de Kreuzberg, a pocos pasos de la estación de S-Bahn Anhalter Bahnhof. Se trata de un torneo puntuable para el ranking del World Snooker Tour, organismo que publica en su web oficial las fechas, la sede y los enlaces de venta de entradas. Los aficionados suelen repartir la semana entre largas sesiones en el pabellón y paseos invernales por la ciudad en los ratos libres.

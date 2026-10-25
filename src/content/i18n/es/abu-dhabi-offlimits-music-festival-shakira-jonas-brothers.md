@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: abu-dhabi-offlimits-music-festival-shakira-jonas-brothers
-srcHash: '6d9381293e61'
+srcHash: '8fc70246d35a'
 title: 'Offlimits Music Festival (Shakira, Jonas Brothers): fechas, entradas y recinto (Abu Dabi)'
 description: La edición 2026 del Offlimits Music Festival (Shakira, Jonas Brothers) se celebra en una sola noche, el 21 de noviembre, en el Etihad Park de la isla de Yas, en Abu Dabi. La información sobre entradas y accesos la publica el organizador en la web oficial del festival.
 quickAnswer: La edición 2026 del Offlimits Music Festival (Shakira, Jonas Brothers) se celebra en una sola noche, el 21 de noviembre, en el Etihad Park de la isla de Yas, en Abu Dabi. La información sobre entradas y accesos la publica el organizador en la web oficial del festival. Shakira y los Jonas Brothers encabezan el cartel, que completan Ne-Yo y Myles Smith. La cita cae en sábado, primer día del fin de semana en los Emiratos, de modo que la mayoría de los asistentes de Abu Dabi y Dubái tendrá el domingo libre para recuperarse.
@@ -26,7 +26,7 @@ Es un cartel pensado para cantar de principio a fin. Entre los cuatro reúnen ce
 
 ## Quién actúa
 
-Muchos asistentes han crecido con las canciones de estos artistas. Esto es lo que aporta cada uno al escenario, a juzgar por su discografía y no por ningún repertorio anunciado:
+Muchos asistentes han crecido con las canciones de estos artistas. Su discografía, y no ningún repertorio anunciado, es la mejor guía de lo que aporta cada uno:
 
 - **Shakira:** la estrella colombiana de «Hips Don't Lie», «Whenever, Wherever» y «Waka Waka», cuya fama sobre el escenario descansa tanto en el baile como en la voz.
 - **Jonas Brothers:** Kevin, Joe y Nick, que años después de «Burnin' Up» volvieron a lo más alto de las listas en 2019 con «Sucker», el sencillo de su reencuentro.

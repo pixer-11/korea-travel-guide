@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bugis-supertree-grove
-srcHash: '9373022113b1'
+srcHash: '530b516ab846'
 title: 'Supertree Grove: Guía de viaje de Marina Bay (4,7★)'
 description: 'Supertree Grove se encuentra en Gardens by the Bay, junto al malecón de Marina Bay, al lado de Marina Bay Sands. 4,7★ (54.520 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Supertree Grove se encuentra en Gardens by the Bay, junto al malecón de Marina Bay, al lado de Marina Bay Sands. Abre de 5:00 a 2:00 todos los días, pero el verdadero motivo para ir es el espectáculo gratuito de luz y sonido Garden Rhapsody, que tiene lugar cada noche a las 19:45 y a las 20:45. Conviene llegar antes de las 19:00 para hacerse con un buen sitio en el césped antes de que se llene de gente.
@@ -48,7 +48,7 @@ La mayoría de los visitantes pasa entre 45 minutos y una hora en el bosquecillo
 
 Al ser la atracción más fotografiada de Singapur, el momento de la visita importa aquí más que en casi cualquier otro lugar de la ciudad. Al mediodía el calor es intenso y hay menos sombra, por lo que el bosquecillo está más tranquilo, pero resulta bastante incómodo.
 
-El momento ideal es a partir de las 17:00, ya avanzada la tarde: las temperaturas bajan, la luz se vuelve más suave para las fotos y da tiempo de instalarse bien antes del espectáculo de las 19:45. Conviene evitar llegar justo a las 19:30 los fines de semana, cuando las zonas de césped se llenan rápido y escasean los buenos sitios para ver el espectáculo.
+El momento ideal es a partir de las 17:00, ya avanzada la tarde: las temperaturas bajan, la luz se vuelve más suave para las fotos y da tiempo de instalarse bien antes del espectáculo nocturno. Conviene evitar llegar justo a las 19:30 los fines de semana, cuando las zonas de césped se llenan rápido y escasean los buenos sitios para ver el espectáculo.
 
 Los jardines permanecen abiertos oficialmente hasta las 2:00, así que, si te pierdes los espectáculos, un paseo nocturno bajo los árboles iluminados sigue siendo una experiencia con mucho ambiente y, además, con muchas menos multitudes.
 
@@ -56,7 +56,7 @@ Los jardines permanecen abiertos oficialmente hasta las 2:00, así que, si te pi
 
 Los singapurenses que traen visitantes aquí consideran el espectáculo de las 19:45 como el plato fuerte, no como algo secundario, y organizan toda la visita en función de él.
 
-- **Calcula bien el horario.** Llega antes de las 19:00 para asegurarte un lugar en el césped cerca de las torres de sonido antes de que se llene.
+- **Calcula bien el horario.** Llega con antelación para asegurarte un lugar en el césped antes de que se llene.
 - **Olvídate del efectivo.** Cualquier atracción adicional con entrada paga (Skyway, invernaderos) se paga con tarjeta o pago móvil en los quioscos.
 - **No hagas fila en la entrada principal.** Entra por el lado de la estación Bayfront del MRT en lugar de rodear desde Marina Bay Sands: es un camino más corto y con más sombra.
 - **Lleva una prenda ligera.** El bosquecillo al aire libre es húmedo, pero quedarse sentado en el césped después de la puesta del sol puede sentirse sorprendentemente fresco.

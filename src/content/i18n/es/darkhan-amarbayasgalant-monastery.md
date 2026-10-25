@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: darkhan-amarbayasgalant-monastery
-srcHash: '6222cd7b0562'
+srcHash: '1f289b9a33b7'
 title: 'Monasterio de Amarbayasgalant: guía de viaje desde Darjan (4.6★)'
 description: 'Fundado en 1727, en plena dinastía Qing, el monasterio budista de Amarbayasgalant se alza en el remoto valle del Iven, en la provincia de Selenge, y se suele llegar a él por carretera desde Darjan (Darkhan). 4.6★ (296 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Fundado en 1727, en plena dinastía Qing, el monasterio budista de Amarbayasgalant se alza en el remoto valle del Iven, en la provincia de Selenge, y lo habitual es llegar por carretera desde Darjan (Darkhan). Conviene reservarle un día entero o incluso pasar allí la noche, ya que el último tramo del camino no está asfaltado y los patios se encuentran más vacíos a primera y a última hora. Aquí no figura ningún horario de apertura ni de ceremonias, así que infórmese sobre el terreno antes de ir.
@@ -22,7 +22,7 @@ faq:
 
 Lo primero que se distingue a lo lejos son las murallas. Amarbayasgalant se levanta en solitario en el fondo del valle del Iven, al pie del monte Bürengiin Nuruu. Ninguna otra construcción le hace sombra a su recinto simétrico, que mira al sur sobre la pradera abierta.
 
-En 1727, el emperador Yongzheng, de la dinastía Qing, ordenó erigirlo en honor de Zanabazar, primer Bogd Gegeen de Mongolia, venerado como escultor y como guía espiritual. Del trazado original, mucho más extenso, se conservan hoy 28 templos dentro del recinto. Las purgas de 1937 arrasaron muchos de sus pabellones, y el conjunto se fue restaurando a lo largo de las décadas siguientes.
+En 1727, el emperador Yongzheng, de la dinastía Qing, ordenó erigirlo en honor de Zanabazar, primer Bogd Gegeen de Mongolia, venerado como escultor y como guía espiritual. Del trazado original, mucho más extenso, se conservan hoy varios templos dentro del recinto. Las purgas de 1937 arrasaron muchos de sus pabellones, y el conjunto se fue restaurando a lo largo de las décadas siguientes.
 
 ## Cómo recorrer los patios
 

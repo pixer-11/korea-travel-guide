@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: cairns-rusty-s-markets
-srcHash: '9d91760bd137'
+srcHash: '4dc3a486728f'
 title: 'Rusty''s Markets: guía de viaje de Cairns (4.5★)'
 description: 'En Grafton Street, en pleno Cairns City, el mercado cubierto Rusty''s Markets abre los fines de semana desde 1975 con frutas tropicales, flores, ropa y regalos. 4.5★ (3,539 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En Grafton Street, en pleno Cairns City, se encuentra Rusty's Markets, un mercado cubierto de fin de semana que vende frutas tropicales, flores, ropa y regalos desde 1975. Actualmente abre viernes y sábados de 5am–4pm y domingos de 5am–3pm, mientras que de lunes a jueves permanece cerrado. Si madruga, encontrará la mejor fruta y el ambiente más fresco.
@@ -20,7 +20,7 @@ faq:
 
 ## Frutas que no verá en el sur del país
 
-En Rusty's se pone a la venta todo lo que da la temporada de cultivo del extremo norte de Queensland. Este mercado de nave cerrada, situado en el 89 de Grafton Street, abre los fines de semana desde 1975 y queda a pocos minutos a pie de la Esplanade, hacia el interior. La mayor parte de los puestos son de frutas y verduras, y el resto lo completan flores, ropa y regalos.
+En Rusty's se pone a la venta todo lo que da la temporada de cultivo del extremo norte de Queensland. Este mercado de nave cerrada, situado en el 89 de Grafton Street, abre los fines de semana y queda a pocos minutos a pie de la Esplanade, hacia el interior. La mayor parte de los puestos son de frutas y verduras, y el resto lo completan flores, ropa y regalos.
 
 Lo que de verdad merece la visita es la fruta tropical, que rara vez llega a los supermercados del sur. Según la temporada, conviene buscar:
 

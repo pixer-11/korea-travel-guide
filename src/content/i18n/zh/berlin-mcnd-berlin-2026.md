@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: berlin-mcnd-berlin-2026
-srcHash: 'e4f25444e1cf'
+srcHash: 'a225237ec917'
 title: MCND 2026柏林演唱会：日期、门票与场馆（柏林）
 description: 2026年12月6日（星期日），韩流男团MCND将在柏林新克尔恩区赫尔曼大街（Hermannstraße）上的俱乐部场馆Hole 44举办演唱会。
 quickAnswer: 2026年12月6日（星期日），韩流男团MCND将在柏林新克尔恩区赫尔曼大街（Hermannstraße）上的俱乐部场馆Hole 44开唱。购票链接和入场时间以主办方发布的信息为准。从地铁U8线莱讷大街站（Leinestraße）出来，步行不远即可到达。
@@ -26,7 +26,7 @@ faq:
 
 ## 你要见的是谁
 
-MCND共有五名成员：Castle J、BIC、Huijun、Minjae和Win。他们出自TOP Media，也就是Teen Top和UP10TION所在的经纪公司。Castle J以参与团队自己的歌曲创作而为人熟知，整个组合走的是自主制作、以舞蹈为重的路线。
+MCND共有五名成员：Castle J、BIC、Huijun、Minjae和Win。他们出自TOP Media，也就是Teen Top和UP10TION所在的经纪公司。整个组合走的是自主制作、以舞蹈为重的路线。
 
 我们没有拿到歌单，也不清楚是否有暖场嘉宾，因此本页不作列举。购票链接和演出详情由主办方在其官方渠道发布，演出时间和票种都请以那里为准。由于没有收到任何票价信息，这里也不标注价格。
 

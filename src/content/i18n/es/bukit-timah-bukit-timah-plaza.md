@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bukit-timah-bukit-timah-plaza
-srcHash: '5ff7f72cce94'
+srcHash: 'fcfd5af14802'
 title: 'Bukit Timah Plaza: Guía de Viaje (4.0★)'
 description: 'Bukit Timah Plaza es un centro comercial de barrio de varios pisos ubicado en 1 Jalan Anak Bukit, en Bukit Timah, Singapur, junto a la estación de metro Beauty World de la Downtown Line. 4.0★ (1.990 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Bukit Timah Plaza es un centro comercial de barrio de varios pisos ubicado en 1 Jalan Anak Bukit, en Bukit Timah, Singapur, junto a la estación de metro Beauty World de la Downtown Line. Abre todos los días de 10:00 a 22:00 y cuenta con un supermercado, opciones de comida informal, tiendas especializadas y numerosos centros educativos. Entre semana está tranquilo a cualquier hora. Los fines de semana conviene evitar el tramo de 11:00 a 20:00 y visitarlo, en cambio, entre las 21:00 y las 22:00.
@@ -13,7 +13,7 @@ faq:
   - q: ¿Cuál es el horario de apertura?
     a: Abre todos los días de 10:00 a 22:00, con el mismo horario durante toda la semana.
   - q: ¿Cuánto tiempo conviene dedicarle?
-    a: El centro comercial en sí requiere entre 45 minutos y una hora y media. Conviene sumar más tiempo si también se come en Beauty World Food Centre, al otro lado de la calle, o si se recorre el cercano Rail Corridor.
+    a: Al centro comercial en sí conviene dedicarle el tiempo que requieran sus recados. Conviene sumar más tiempo si también se come en Beauty World Food Centre, al otro lado de la calle, o si se recorre el cercano Rail Corridor.
   - q: ¿Qué más hay cerca?
     a: Beauty World Centre, con su centro de comida en el último piso, está justo al otro lado de la calle. El sendero Rail Corridor pasa cerca, y la reserva natural Bukit Timah Nature Reserve queda a un corto trayecto en autobús o taxi.
 ---
@@ -65,4 +65,4 @@ Bukit Timah Plaza forma parte del conjunto de locales que rodea la estación de 
 
 Si se prefiere algo de naturaleza, el Rail Corridor pasa muy cerca de la zona: se trata de la antigua línea de ferrocarril, hoy convertida en un largo sendero para caminar y andar en bicicleta. La reserva natural Bukit Timah Nature Reserve, donde se encuentra la colina natural más alta de Singapur, queda a un corto trayecto en autobús o taxi. Conviene visitarla a primera hora de la mañana y luego regresar al centro comercial para hacer las compras y refrescarse con el aire acondicionado.
 
-Para el centro comercial en sí, calcule entre 45 minutos y una hora y media. Sume más tiempo si lo combina con una visita al centro de comida o con un paseo por los alrededores.
+Para el centro comercial en sí, calcule el tiempo que requieran sus recados. Sume más tiempo si lo combina con una visita al centro de comida o con un paseo por los alrededores.

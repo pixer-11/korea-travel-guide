@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: cotai-wynn-palace
-srcHash: '4126ddad8b85'
+srcHash: '140d68fc4b3c'
 title: 'Wynn Palace: guía de viaje de Cotai (4.6★)'
 description: El Wynn Palace es un complejo hotelero con casino situado en la Avenida da Nave Desportiva, en Cotai (Macao). Cuenta con 4.6★ (9,207 reseñas). Le contamos qué opinan los visitantes, cuál es su horario y algunos consejos útiles.
 quickAnswer: El Wynn Palace es un complejo hotelero con casino situado en la Avenida da Nave Desportiva, en Cotai (Macao). La visita típica incluye el trayecto gratuito en la góndola SkyCab sobre el Performance Lake, el espectáculo de fuentes, los arreglos florales del vestíbulo y una cena en alguno de sus restaurantes. Como abre las 24 horas, conviene organizarse en función de los espectáculos nocturnos de las fuentes y reservar entre dos y tres horas.
@@ -33,7 +33,7 @@ La entrada a todos los atractivos principales es gratuita:
 - **Colección de arte:** las obras se reparten por las zonas comunes. La más conocida es *Tulips*, de Jeff Koons.
 - **La galería comercial:** una tranquila sucesión de boutiques de lujo, ideal para refrescarse con el aire acondicionado.
 
-El complejo reúne 12 restaurantes y cafeterías. En el Wing Lei Palace se sirve cocina cantonesa, y en el Sichuan Moon, cocina de Sichuan. Ambos tienen precios elevados, por lo que conviene reservar con antelación. Para algo más ligero hay varias cafeterías, y el spa gestiona sus reservas por separado.
+El complejo reúne una variada oferta de restaurantes y cafeterías. En el Wing Lei Palace se sirve cocina cantonesa, y en el Sichuan Moon, cocina de Sichuan. Ambos tienen precios elevados, por lo que conviene reservar con antelación. Para algo más ligero hay varias cafeterías, y el spa gestiona sus reservas por separado.
 
 ## Cómo moverse por Cotai
 

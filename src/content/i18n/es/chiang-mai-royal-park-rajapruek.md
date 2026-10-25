@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: chiang-mai-royal-park-rajapruek
-srcHash: '2f7e96001668'
+srcHash: 'f8e207dad5a7'
 title: 'Royal Park Rajapruek: Guía de Viaje de Chiang Mai (4.6★)'
 description: Royal Park Rajapruek se ubica en Tambon Mae Hia, en el extremo suroeste de Chiang Mai, y abre todos los días de 8:00 a 18:00. Con 4.6★ (8,317 reseñas), esta guía reúne lo que dicen los visitantes, los horarios y consejos prácticos.
 quickAnswer: Royal Park Rajapruek se encuentra en Tambon Mae Hia, en el extremo suroeste de Chiang Mai, y abre todos los días de 8:00 a 18:00. Se trata de un extenso parque ajardinado construido para una exposición real de horticultura, que hoy reúne jardines temáticos de distintos países, un pabellón real y una capilla conmemorativa. Los fines de semana el parque se mantiene concurrido durante todo el horario de 8:00 a 18:00, así que conviene llegar justo a la apertura si se quiere recorrer los senderos sin aglomeraciones.
@@ -34,7 +34,7 @@ Como no existe una línea de tren ni de songthaew dedicada al parque, la mayorí
 
 ## Cuándo ir
 
-El parque abre todos los días de 8:00 a 18:00, sin variaciones entre semana. Los fines de semana se mantiene concurrido durante toda la jornada, así que quienes busquen senderos más tranquilos deberían visitarlo un día de semana por la mañana, cerca de la hora de apertura.
+El parque abre todos los días de 8:00 a 18:00, sin variaciones entre semana. Los fines de semana suele haber más gente que entre semana, así que quienes busquen senderos más tranquilos deberían visitarlo un día de semana por la mañana, cerca de la hora de apertura.
 
 Los meses más frescos, de noviembre a febrero, son los más adecuados para recorrer los jardines al aire libre. En la temporada calurosa de Chiang Mai (de marzo a mayo), los tramos sin sombra entre las distintas zonas resultan incómodos hacia el mediodía. La temporada de lluvias (de junio a octubre) mantiene los jardines verdes, pero los aguaceros de la tarde son frecuentes, por lo que las mañanas son la opción más segura.
 

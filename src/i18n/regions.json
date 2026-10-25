@@ -13954,5 +13954,32 @@
       "getting": "普诺没有商业机场，游客需飞往附近胡利亚卡的因卡曼科卡帕克国际机场（JUL），再搭乘出租车或接驳车经陆路前往市区（车程约45分钟至1小时）。许多游客则选择从库斯科经陆路抵达，可乘坐长途大巴，也可搭乘风景优美的秘鲁铁路（PeruRail），沿途串联库斯科、胡利亚卡与普诺三地。",
       "days": "建议安排约2天时间游览普诺的主要景点，这样既能留出半天或一整天游览的的喀喀湖上的乌罗斯浮岛和塔基莱岛，也有足够时间探索市区本身。"
     }
+  },
+  "Mestia": {
+    "en": {
+      "blurb": "Mestia is the high-altitude capital of Upper Svaneti, a cluster of stone defensive towers set beneath some of the Caucasus's highest peaks. It serves as the main gateway for trekkers heading into the surrounding glacier valleys and remote villages like Ushguli.",
+      "getting": "Most travellers reach Mestia by taking the train from Tbilisi to Zugdidi, then continuing by marshrutka (shared minibus) on the mountain road into Svaneti, a journey of roughly 3 to 4 hours from Zugdidi. A small domestic airport (Queen Tamar Airport) also operates limited seasonal flights to Mestia from a regional airfield near Tbilisi, weather permitting, though seats are few and schedules are not guaranteed.",
+      "days": "Plan on ~3 to 5 days: enough time for the journey in and out, a day exploring Mestia's towers and museums, and at least one multi-day push toward Ushguli or the surrounding alpine trails."
+    },
+    "ko": {
+      "blurb": "메스티아는 코카서스산맥의 최고봉들 아래 자리한 고지대 도시로, 어퍼 스바네티의 중심지입니다. 돌로 쌓은 방어탑들이 곳곳에 늘어서 있는 이곳은 주변 빙하 계곡과 우슈굴리 같은 외딴 마을로 향하는 트레커들의 주요 관문 역할을 합니다.",
+      "getting": "대부분의 여행자는 트빌리시에서 주그디디까지 기차를 타고 간 다음, 마르슈루트카(합승 미니버스)로 갈아타고 산길을 따라 스바네티까지 이동합니다. 주그디디에서 약 3~4시간이 걸리는 여정입니다. 퀸 타마르 공항이라는 소규모 국내선 공항도 있어 트빌리시 인근 지방 공항에서 메스티아로 가는 계절 항공편이 제한적으로 운항되지만, 날씨에 따라 변동이 있고 좌석도 많지 않아 일정이 보장되지는 않습니다.",
+      "days": "3~5일 정도를 계획하세요. 오가는 이동 시간을 고려하고, 메스티아의 방어탑과 박물관을 둘러볼 하루, 그리고 우슈굴리나 주변 고산 트레일로 떠나는 최소 1박 이상의 여정을 포함하기에 충분한 기간입니다."
+    },
+    "ja": {
+      "blurb": "メスティアは、スヴァネティ地方（上スヴァネティ）の中心地であり、コーカサス山脈でも屈指の高峰群の麓に、石造りの防御塔が立ち並ぶ標高の高い町です。周辺の氷河渓谷やウシュグリのような辺境の村々を目指すトレッカーたちにとって、ここが主要な玄関口となっています。",
+      "getting": "メスティアを訪れる旅行者の多くは、トビリシからズグディディまで鉄道で移動し、そこからマルシュルートカ（乗合ミニバス）に乗り換えて山道を進み、スヴァネティ地方へと入ります。ズグディディからは所要3〜4時間ほどの道のりです。また、トビリシ近郊の地方飛行場からメスティア（クイーン・タマラ空港）へ季節限定のフライトが運航することもありますが、天候に左右されるうえ座席数も少なく、運航スケジュールは確定的なものではありません。",
+      "days": "目安として3〜5日ほど見ておくとよいでしょう。往復の移動に加え、メスティア市内の塔や博物館を巡る1日、そしてウシュグリや周辺の高山トレイルへ向かう複数日の行程を組み込むだけの余裕が必要です。"
+    },
+    "es": {
+      "blurb": "Mestia es la capital de altura de la Alta Svanetia, un conjunto de torres defensivas de piedra situadas a los pies de algunas de las cumbres más altas del Cáucaso. Es la puerta de entrada principal para los senderistas que se adentran en los valles glaciares cercanos y en aldeas remotas como Ushguli.",
+      "getting": "La mayoría de los viajeros llegan a Mestia tomando el tren desde Tbilisi hasta Zugdidi, para luego continuar en marshrutka (minibús compartido) por la carretera de montaña que se adentra en Svanetia, un trayecto de aproximadamente 3 a 4 horas desde Zugdidi. También existe un pequeño aeropuerto doméstico (el Aeropuerto Reina Tamar) que opera vuelos estacionales limitados a Mestia desde un aeródromo regional cerca de Tbilisi, siempre que el clima lo permita, aunque los asientos son escasos y los horarios no están garantizados.",
+      "days": "Calcula entre 3 y 5 días: tiempo suficiente para el trayecto de ida y vuelta, un día para explorar las torres y los museos de Mestia, y al menos una excursión de varios días hacia Ushguli o los senderos alpinos de los alrededores."
+    },
+    "zh": {
+      "blurb": "梅斯蒂亚是上斯瓦涅季的高山首府，坐落在高加索山脉最雄伟的几座山峰脚下，城中林立着一座座石砌防御塔楼。这里是徒步者前往周边冰川山谷以及乌树故里等偏远村庄的主要门户。",
+      "getting": "大多数旅行者前往梅斯蒂亚的方式是：先乘火车从第比利斯到祖格迪迪，再换乘marshrutka（共乘小巴）沿山路驶入斯瓦涅季，从祖格迪迪算起大约需要3到4小时车程。当地还有一座小型国内机场（塔玛尔女王机场），在天气允许的情况下，从第比利斯附近的一个支线机场提供季节性航班飞往梅斯蒂亚，不过座位有限，航班时间也并不固定。",
+      "days": "建议安排3到5天左右：留出往返路程所需的时间，再用一天游览梅斯蒂亚的塔楼和博物馆，此外至少安排一次多日行程，深入前往乌树故里或周边的高山徒步路线。"
+    }
   }
 }

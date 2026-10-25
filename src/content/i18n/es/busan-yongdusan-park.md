@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: busan-yongdusan-park
-srcHash: 'ef310cc5fff8'
+srcHash: '4efa76c57ba5'
 title: 'Parque Yongdusan: Guía de viaje de Busan (4,3★)'
 description: El parque Yongdusan es el espacio verde en la colina de Busan situado en Jung-gu, conocido sobre todo por la Torre de Busan y sus vistas de la ciudad y el puerto. 4,3★ (6.575 reseñas) — lo que dicen los visitantes, horarios y consejos.
 quickAnswer: 'El parque Yongdusan es el espacio verde en la colina de Busan situado en Jung-gu, conocido sobre todo por la Torre de Busan y sus vistas de la ciudad y el puerto. Está abierto las 24 horas, así que aprovecha para ir temprano: los fines de semana el momento más tranquilo es entre las 7 y las 8 de la mañana, mientras que las mañanas y tardes de días de semana (7am–8am y 10pm–11pm) también se mantienen manejables. Evita la avalancha de 10am a 9pm los fines de semana si quieres disfrutar de las escaleras mecánicas y los miradores sin agobios.'
@@ -30,7 +30,7 @@ La forma más sencilla de llegar es por la estación Nampo (Línea 1 del Metro d
 
 Desde ahí tienes tres opciones:
 
-- Subir a pie por las escaleras de piedra y los senderos ajardinados: 10-15 minutos, con sombra la mayor parte del camino
+- Subir a pie por las escaleras de piedra y los senderos ajardinados
 - Tomar las escaleras mecánicas al aire libre que atraviesan la colina, un atajo local que evita casi toda la subida
 - Usar el ascensor gratuito dentro de la sucursal Gwangbok de la tienda Lotte Department Store, que te deja cerca de la cima
 
@@ -46,7 +46,7 @@ Debajo de la torre, los senderos del parque están salpicados de monumentos que 
 - La Campana Ciudadana de Busan (Busan Citizen's Bell), fundida para conmemorar hitos cívicos de la ciudad y que se hace sonar en Nochevieja
 - Diversos marcadores de piedra y pequeños jardines escondidos entre los senderos principales
 
-Reserva entre 45 minutos y una hora para el parque en sí si solo vas a recorrer las terrazas y monumentos. Suma otros 30-40 minutos si subes a la torre.
+Reserva un buen rato, sin prisas, si solo vas a recorrer las terrazas y monumentos, y suma algo más de tiempo si piensas subir a la torre.
 
 ## Cuándo ir para la mejor luz y menos multitudes
 

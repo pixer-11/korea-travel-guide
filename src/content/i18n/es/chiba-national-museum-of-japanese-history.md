@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: chiba-national-museum-of-japanese-history
-srcHash: '392873ed78f4'
+srcHash: '0c40d7e0746e'
 title: 'Museo Nacional de Historia de Japón: guía de viaje de Chiba'
 description: 'El Museo Nacional de Historia de Japón, en Sakura (Chiba), recorre la historia japonesa desde el periodo Jōmon hasta el siglo XX a lo largo de seis salas permanentes, además de un extenso jardín botánico. 4,4★ (4.021 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo Nacional de Historia de Japón, en Sakura (Chiba), recorre la historia japonesa desde el periodo Jōmon hasta el siglo XX a lo largo de seis salas permanentes, además de un extenso jardín botánico. Abre de martes a domingo, de 9:30 a 17:00 (cierra los lunes), y los fines de semana la mayor afluencia se concentra entre las 10:00 y las 17:00. Conviene reservar medio día y combinar la visita con las ruinas cercanas del Parque del Castillo de Sakura para una salida completa.
@@ -33,7 +33,7 @@ Cada sala se organiza en torno a un periodo histórico, no a un tema, lo que fac
 - Sala 5: la Restauración Meiji y la transición hacia el Estado moderno
 - Sala 6: costumbres populares, vida rural y tradiciones regionales
 
-Los rótulos están en japonés, con apoyo en inglés en la mayoría de las salas, aunque el nivel de detalle de la traducción varía según la sección. Para quien lea con atención los textos expositivos, esto no es un museo de 90 minutos: conviene calcular cerca de tres horas si se quieren ver las seis salas.
+Los rótulos están en japonés, con apoyo en inglés en la mayoría de las salas, aunque el nivel de detalle de la traducción varía según la sección. Para quien lea con atención los textos expositivos, esto no es un museo de 90 minutos: conviene prever una visita mucho más larga si se quieren ver las seis salas.
 
 ## La calle reconstruida del periodo Edo, y por qué merece la pena detenerse
 

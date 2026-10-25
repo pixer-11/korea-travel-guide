@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: chicago-the-mart
-srcHash: '1addfe2ff04f'
+srcHash: '60a757a3bb6f'
 title: 芝加哥THE MART旅行指南（4.5星）
 description: 芝加哥的THE MART（正式名称为Merchandise Mart，坐落于芝加哥河畔222 W Merchandise Mart Plaza）是一栋规模庞大的批发设计大楼，位于芝加哥河北岸，以行业专供的家具展厅和面向公众的设计活动闻名。4.5星（2,590条点评）——看看游客怎么说，附营业时间和实用建议。
 quickAnswer: 芝加哥的THE MART（正式名称为Merchandise Mart，坐落于芝加哥河畔222 W Merchandise Mart Plaza）是一栋规模庞大的批发设计大楼，位于芝加哥河北岸，以行业专供的家具展厅和面向公众的设计活动闻名。这里只在工作日9:00至17:00开放，周六周日全天休息，因此最好把行程安排在工作日，配合某场行业展会，或者只是逛逛大楼里面向公众的商铺和临河餐厅。光是在大堂里熟悉方向，就值得预留至少一个小时，再考虑上楼参观。
@@ -32,7 +32,7 @@ THE MART就坐落在河边，地址是222 W Merchandise Mart Plaza，拥有CTA�
 
 - CTA棕线／紫线：Merchandise Mart站，出站即到入口
 - 从River North和Loop步行过来，不到15分钟
-- 芝加哥河滨步道（Riverwalk）沿对岸延伸，与大楼南侧隔河相望
+- 芝加哥河滨步道（Riverwalk）沿河延伸，与大楼隔河相望，可以欣赏大楼的立面
 
 ## 只在工作日运转的节奏
 

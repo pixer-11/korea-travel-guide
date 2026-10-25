@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: abu-dhabi-offlimits-music-festival-shakira-jonas-brothers
-srcHash: '6d9381293e61'
+srcHash: '8fc70246d35a'
 title: 阿布扎比OFFLIMITS音乐节（夏奇拉、乔纳斯兄弟）：日期、门票与场地
 description: 2026年OFFLIMITS音乐节（夏奇拉、乔纳斯兄弟）将于11月21日在阿布扎比亚斯岛的阿提哈德公园举行，仅此一晚。门票及入场信息以主办方官网为准。
 quickAnswer: 2026年的OFFLIMITS音乐节（Offlimits Music Festival）只办一晚：11月21日，地点在阿布扎比亚斯岛（Yas Island）的阿提哈德公园（Etihad Park）。门票和入场信息均由主办方在音乐节官网发布。夏奇拉与乔纳斯兄弟担任压轴，同台的还有尼欧（Ne-Yo）和迈尔斯·史密斯（Myles Smith）。当天是周六，也是阿联酋周末的第一天，所以从阿布扎比和迪拜赶来的乐迷大多能在周日好好歇一歇。
@@ -26,7 +26,7 @@ faq:
 
 ## 演出阵容
 
-几位压轴艺人的作品，陪伴了很多人的成长。以下仅根据他们已发行的作品介绍各自的看点，并非官方公布的曲目单：
+几位压轴艺人的作品，陪伴了很多人的成长。要了解各组艺人的看点，最好的参考是他们已发行的作品，而非任何公布的曲目单：
 
 - **夏奇拉**：来自哥伦比亚的天后，代表作有《Hips Don't Lie》《Whenever, Wherever》和《Waka Waka》。她的舞台口碑既靠歌声，也靠舞蹈。
 - **乔纳斯兄弟**：凯文、乔、尼克三兄弟。继《Burnin' Up》多年之后，2019年的重组单曲《Sucker》让他们再度登上榜首。

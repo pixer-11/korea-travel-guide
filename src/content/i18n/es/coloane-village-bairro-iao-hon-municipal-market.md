@@ -1,15 +1,15 @@
 ---
 lang: es
 slug: coloane-village-bairro-iao-hon-municipal-market
-srcHash: 'cd8b440e8bb4'
+srcHash: '49c76d9ac347'
 title: 'Mercado Municipal de Iao Hon: guía de viaje por la península de Macao'
 description: 'En la Rua do Mercado de Iao Hon, al norte de la península de Macao, se encuentra el Mercado Municipal de Iao Hon. Valoración de 4.2★ (102 reseñas): opiniones de los visitantes, horarios y consejos.'
-quickAnswer: El Mercado Municipal de Iao Hon (Bairro Iao Hon Municipal Market) se encuentra en la Rua do Mercado de Iao Hon, al norte de la península de Macao. Es un mercado de abastos de barrio que abre todos los días de 7:00 a 20:00. Entre semana hay poca gente durante toda la jornada; los fines de semana conviene llegar entre las 7:00 y las 9:00 y evitar la franja de 10:00 a 12:00.
+quickAnswer: El Mercado Municipal de Iao Hon (Bairro Iao Hon Municipal Market) se encuentra en la Rua do Mercado de Iao Hon, al norte de la península de Macao. Es un mercado de abastos de barrio que abre todos los días de 7:00 a 20:00. Entre semana suele estar más tranquilo que el fin de semana; los fines de semana conviene llegar entre las 7:00 y las 9:00 y evitar la franja de 10:00 a 12:00.
 faq:
   - q: ¿Dónde está el Mercado Municipal de Iao Hon?
     a: En la Rua do Mercado de Iao Hon, dentro del barrio de Iao Hon, al norte de la península de Macao.
   - q: ¿Cuál es el momento más tranquilo para visitarlo?
-    a: Entre semana hay calma durante todo el horario de apertura, de 7:00 a 20:00. Los fines de semana, en cambio, la franja tranquila va de 7:00 a 9:00. Los sábados y domingos es mejor evitar el tramo de 10:00 a 12:00, que es el de mayor afluencia.
+    a: Entre semana suele haber más calma que los fines de semana, y la mayoría de las horas entre las 7:00 y las 20:00 resultan adecuadas. Los fines de semana, en cambio, la franja tranquila va de 7:00 a 9:00. Los sábados y domingos es mejor evitar el tramo de 10:00 a 12:00, que es el de mayor afluencia.
   - q: ¿Cuál es el horario de apertura?
     a: Abre todos los días, de lunes a domingo, de 7:00 a 20:00.
   - q: ¿Cuánto tiempo conviene dedicarle?
@@ -50,7 +50,7 @@ No toque el pescado ni la carne. Es el vendedor quien elige la pieza, la pesa y 
 
 ## Cuándo ir y qué ver en los alrededores
 
-El mercado abre a las 7:00 y cierra a las 20:00 todos los días de la semana. De lunes a viernes reina la tranquilidad desde la apertura hasta el cierre, así que cualquier hora es buena.
+El mercado abre a las 7:00 y cierra a las 20:00 todos los días de la semana. De lunes a viernes suele haber menos gente que los fines de semana, así que casi cualquier hora es buena.
 
 Los fines de semana la situación cambia. Lo recomendable es acudir entre las 7:00 y las 9:00, cuando el género está recién llegado y los pasillos despejados. Los sábados y domingos evite la franja de 10:00 a 12:00: es la hora punta, y los estrechos pasillos se llenan de carritos de la compra.
 

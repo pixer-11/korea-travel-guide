@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: abu-dhabi-hans-zimmer-live-abu-dhabi-festival
-srcHash: '0668bec0210e'
+srcHash: 'eb85efa8e816'
 title: 'Hans Zimmer Live en el Abu Dhabi Festival: fechas, entradas y recinto (Abu Dabi)'
 description: El 13 de noviembre de 2026, Hans Zimmer Live llega al Etihad Arena de Yas Bay, en la isla de Yas (Abu Dabi), dentro de la 23.ª edición del Abu Dhabi Festival.
 quickAnswer: El 13 de noviembre de 2026, Hans Zimmer Live se presenta en el Etihad Arena de Yas Bay, en la isla de Yas (Abu Dabi), como parte de la 23.ª edición del Abu Dhabi Festival. Tanto el festival como el recinto se encargan de la venta de entradas y de la información sobre el espectáculo. La mayoría del público aprovecha para pasar la velada completa y cena antes en el paseo marítimo de Yas Bay.
@@ -26,7 +26,7 @@ Zimmer es el compositor de *El rey león*, *Gladiator*, *Origen*, *Interstellar*
 
 ## El Etihad Arena y Yas Bay
 
-El Etihad Arena es el recinto cubierto de la isla de Yas. Inaugurado en 2021, tiene capacidad para unas 18.000 personas y es el mayor pabellón cubierto de Abu Dabi. Su fachada curva, con forma de concha, mira directamente al paseo marítimo de Yas Bay, donde se suceden restaurantes y cafeterías.
+El Etihad Arena es el recinto cubierto de la isla de Yas. Inaugurado en 2021, es el mayor pabellón cubierto de Abu Dabi. Su fachada curva, con forma de concha, mira directamente al paseo marítimo de Yas Bay, donde se suceden restaurantes y cafeterías.
 
 El resto de la isla queda a pocos minutos en coche:
 

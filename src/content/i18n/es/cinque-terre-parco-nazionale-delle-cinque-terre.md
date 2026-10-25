@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: cinque-terre-parco-nazionale-delle-cinque-terre
-srcHash: '820140bf4a28'
+srcHash: 'c6b7373a72a2'
 title: 'Parque Nacional de Cinque Terre: Guía de viaje (4,7★)'
 description: 'El Parque Nacional de Cinque Terre está formado por cinco pueblos colgados de los acantilados —Monterosso, Vernazza, Corniglia, Manarola, Riomaggiore— unidos por senderos, trenes y barcos a lo largo de la costa protegida de Liguria. 4,7★ (46.756 opiniones): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Parque Nacional de Cinque Terre está formado por cinco pueblos colgados de los acantilados —Monterosso, Vernazza, Corniglia, Manarola, Riomaggiore— unidos por senderos, trenes y barcos a lo largo de la costa protegida de Liguria. Está abierto las 24 horas, pero para una visita más tranquila conviene ir los fines de semana por la mañana, entre las 7:00 y las 18:00; evita la avalancha de gente entre las 13:00 y las 23:00 los fines de semana. Dedícale un día completo como mínimo, y dos si quieres realmente recorrer los senderos.
@@ -48,7 +48,7 @@ El Sentiero Azzurro (Sendero Azul) unía antiguamente los cinco pueblos a lo lar
 
 El parque en sí nunca cierra —está abierto todos los días, a todas horas—, pero los pueblos se sienten completamente distintos según la hora.
 
-Los patrones de afluencia son marcados y predecibles aquí. Los fines de semana, la situación se mantiene manejable de 7:00 a 18:00, y luego se intensifica fuerte de 13:00 a 23:00, cuando llegan los excursionistas de un día en tren y en barco. Las mañanas de días de semana, aunque no hay datos confirmados sobre horas tranquilas, tienden a seguir el mismo patrón de calma temprana.
+Los patrones de afluencia son marcados y predecibles aquí. Los fines de semana, la situación se mantiene manejable hasta media mañana, y luego se intensifica fuerte desde el mediodía hasta primera hora de la noche, cuando llegan los excursionistas de un día en tren y en barco. Las mañanas de días de semana, aunque no hay datos confirmados sobre horas tranquilas, tienden a seguir el mismo patrón de calma temprana.
 
 Visita en mayo, junio o septiembre para disfrutar de agua templada y menos aglomeraciones que en el pico de julio y agosto. La primavera también trae flores silvestres a lo largo de las terrazas; el otoño trae la vendimia en los viñedos sobre Manarola y Riomaggiore.
 

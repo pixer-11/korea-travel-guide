@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: da-lat-11th-da-lat-flower-festival
-srcHash: '045b06772b2c'
+srcHash: '759236690643'
 title: 'XI Festival de las Flores de Da Lat: fechas, entradas y sede (Da Lat)'
 description: Del 19 al 31 de diciembre de 2026, Da Lat (Vietnam) acoge el XI Festival de las Flores.
 quickAnswer: Del 19 al 31 de diciembre de 2026, Da Lat (Vietnam) acoge el XI Festival de las Flores. La ceremonia de apertura tiene lugar en la plaza Lam Vien, a orillas del lago Xuan Huong. Las exposiciones florales, los mercados y las actividades culturales se reparten después por toda la ciudad y por la provincia de Lam Dong. Como las fechas coinciden con Navidad y Año Nuevo, son unos de los días de mayor afluencia del año en esta localidad de montaña.
@@ -22,7 +22,7 @@ faq:
 
 En Da Lat, las flores son un medio de vida. Las laderas que rodean la ciudad están escalonadas en terrazas cubiertas de invernaderos, cuyos techos de plástico blanco devuelven la luz en valles enteros. Con el Festival de las Flores, esa cosecha llega por fin a las calles.
 
-La undécima edición se celebrará del 19 al 31 de diciembre de 2026. Arranca en la plaza Lam Vien y, a partir de ahí, las exposiciones, los mercados y las actividades culturales se extienden por Da Lat y por el resto de la provincia de Lam Dong. El festival existe desde 2004 y suele organizarse cada dos años aproximadamente, por lo que cada edición supone un gran acontecimiento para la ciudad.
+La undécima edición se celebrará del 19 al 31 de diciembre de 2026. Arranca en la plaza Lam Vien y, a partir de ahí, las exposiciones, los mercados y las actividades culturales se extienden por Da Lat y por el resto de la provincia de Lam Dong. El festival existe desde 2004 y cada edición supone un gran acontecimiento para la ciudad.
 
 ## La plaza Lam Vien y el lago
 

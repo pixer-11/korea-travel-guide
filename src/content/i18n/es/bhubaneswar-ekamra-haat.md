@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bhubaneswar-ekamra-haat
-srcHash: 'a6ce35a6ebdb'
+srcHash: 'd12455bc893c'
 title: 'Ekamra Haat: Guía de viaje de Bhubaneswar (4,3★)'
 description: 'Ekamra Haat, en Bhubaneswar, es un bazar artesanal permanente al aire libre situado en Madhusudan Marg, en la Unidad 3 de Ekamra Vihar, donde los puestos de artesanos venden textiles de telar manual, pinturas y piezas de metal de Odisha. 4,3★ (9.257 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Ekamra Haat, en Bhubaneswar, es un bazar artesanal permanente al aire libre situado en Madhusudan Marg, en la Unidad 3 de Ekamra Vihar, donde los puestos de artesanos venden textiles de telar manual, pinturas y piezas de metal de Odisha. Abre todos los días de 11:00 a 21:00. El momento con menos gente es entre las 11:00 y las 12:00, tanto entre semana como los fines de semana, y la afluencia de público el fin de semana aumenta entre las 14:00 y las 21:00.
