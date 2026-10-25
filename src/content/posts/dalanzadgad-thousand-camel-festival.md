@@ -10,6 +10,14 @@ eventEndDate: '2027-01-31'
 eventRecurring: true
 eventVenue: South Gobi Desert
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/6/6b/Dalanzadgad_01.JPG'
+  credit: 'Photo: Brücke-Osteuropa / Wikimedia Commons (Public domain)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Dalanzadgad_01.JPG'
+  focus:
+    x: 50
+    y: 40
 gallery: []
 tags:
   - dalanzadgad

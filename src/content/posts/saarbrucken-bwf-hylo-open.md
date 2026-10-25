@@ -12,7 +12,6 @@ eventOrganizer:
   name: Badminton World Federation
   url: https://bwfbadminton.com
 eventFactsAsked: true
-gallery: []
 tags:
   - saarbrücken
   - event
@@ -30,6 +29,16 @@ faq:
     a: St. Johanner Markt and the Ludwigskirche are in the city centre, and Saarbrücken Castle is on the south bank. The UNESCO-listed Völklinger Hütte ironworks is a short regional train ride west.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/2/2d/BWF_Badminton_World_Tour.jpg
+  credit: 'Photo: Nardisoero / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:BWF_Badminton_World_Tour.jpg
+  focus:
+    x: 46
+    'y': 47
+    top: 44
+    bottom: 50
 ---
 
 ## Six days of shuttles on the Saar

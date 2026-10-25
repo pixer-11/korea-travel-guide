@@ -13,7 +13,6 @@ eventOrganizer:
   name: NBA
   url: https://www.nba.com
 eventFactsAsked: true
-gallery: []
 tags:
   - new york
   - event
@@ -31,6 +30,14 @@ faq:
     a: Macy's Herald Square and its holiday windows are a block east. The Empire State Building is about a ten-minute walk away, and Bryant Park Winter Village is at 42nd Street. The Rockefeller Center tree is a short subway ride north. Koreatown on West 32nd Street is where many fans go to eat, since a lot of Midtown restaurants close for the holiday.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/d/dc/Clippers_%40_Nuggets%2C_2025_NBA_playoffs%2C_Game_1%2C_Ball_Arena.jpg
+  credit: 'Photo: MhcL947 / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Clippers_@_Nuggets,_2025_NBA_playoffs,_Game_1,_Ball_Arena.jpg
+  focus:
+    x: 50
+    'y': 70
 ---
 
 ## A Finals rematch to open the day

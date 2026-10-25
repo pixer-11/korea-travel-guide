@@ -3054,7 +3054,16 @@
   "tbilisi-china-moses-tbilisi-concert\u0001https://upload.wikimedia.org/wikipedia/commons/7/7a/China_Moses%2C_Festival_Au_gr%C3%A8s_du_Jazz%2C_La_Petite_Pierre%2C_2023_-_03.jpg": 2048,
   "vancouver-triples-world-tour-andless-vancouver\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/TripleS_%40%25_in_Vancouver.jpg/3840px-TripleS_%40%25_in_Vancouver.jpg": 3840,
   "toronto-triples-world-tour-andless-toronto\u0001https://upload.wikimedia.org/wikipedia/commons/e/e3/TripleS_250512.jpg": 1902,
-  "tbilisi-kreator-with-overkill-tbilisi-2026\u0001https://upload.wikimedia.org/wikipedia/commons/f/fe/Atlas_Weekend_Festival_Kyiv_2018_21.jpg": 2968
+  "tbilisi-kreator-with-overkill-tbilisi-2026\u0001https://upload.wikimedia.org/wikipedia/commons/f/fe/Atlas_Weekend_Festival_Kyiv_2018_21.jpg": 2968,
+  "bangkok-my-chemical-romance-bangkok\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/My_Chemical_Romance_at_Qudos_Arena_in_March_2023_80.jpg/3840px-My_Chemical_Romance_at_Qudos_Arena_in_March_2023_80.jpg": 3840,
+  "buenos-aires-semana-del-patrimonio-de-buenos-aires-heritage-week\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Ceremonia_inaugural_de_la_semana_Criolla_2024_23.jpg/3840px-Ceremonia_inaugural_de_la_semana_Criolla_2024_23.jpg": 3840,
+  "bangkok-fujii-kaze-bangkok\u0001https://upload.wikimedia.org/wikipedia/commons/c/c6/Fujii_Kaze_Stadium_Live_%22Feelin%27_Good%22_at_Nissan_stadium.jpg": 2048,
+  "auckland-christmas-in-the-park-auckland\u0001https://upload.wikimedia.org/wikipedia/commons/d/d5/Christmas_street_light_decorations_%284195980503%29.jpg": 2513,
+  "lima-marc-anthony-manuel-turizo-fonseca-concert\u0001https://upload.wikimedia.org/wikipedia/commons/1/1d/Marc_Anthony_-_World_Economic_Forum_on_Latin_America_2010.jpg": 3240,
+  "madrid-rock-n-roll-madrid-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/a/ae/El_Marat%C3%B3n_de_Madrid_cumple_40_a%C3%B1os_con_37.000_participantes_%2802%29.jpg": 1333,
+  "new-york-nba-christmas-day-games\u0001https://upload.wikimedia.org/wikipedia/commons/d/dc/Clippers_%40_Nuggets%2C_2025_NBA_playoffs%2C_Game_1%2C_Ball_Arena.jpg": 1242,
+  "puerto-princesa-ironman-70-3-puerto-princesa\u0001https://upload.wikimedia.org/wikipedia/commons/9/97/Ironman_70.3_World_Championships_%289700067665%29.jpg": 1200,
+  "saarbrucken-bwf-hylo-open\u0001https://upload.wikimedia.org/wikipedia/commons/2/2d/BWF_Badminton_World_Tour.jpg": 3000
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -3386,15 +3395,15 @@
   },
   "istanbul-araf": {
    "width": 1080,
-   "attempts": 1,
-   "nextTry": "2026-10-22",
+   "attempts": 2,
+   "nextTry": "2026-11-01",
    "flaggedAt": "2026-10-01",
    "lastResult": "no-wider"
   },
   "istanbul-istanbul-marathon": {
    "width": 1024,
-   "attempts": 1,
-   "nextTry": "2026-10-22",
+   "attempts": 2,
+   "nextTry": "2026-11-01",
    "flaggedAt": "2026-10-01",
    "lastResult": "no-wider"
   },
@@ -3574,5 +3583,5 @@
    "flaggedAt": "2026-10-21"
   }
  },
- "updated": "2026-10-25T23:19:26.097Z"
+ "updated": "2026-10-25T23:31:08.762Z"
 }

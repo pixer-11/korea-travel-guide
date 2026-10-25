@@ -10,6 +10,14 @@ eventEndDate: '2026-12-31'
 eventRecurring: false
 eventVenue: SM Mall of Asia Arena
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/f/f7/Pic_geo_photos_-_ph%3Dmm%3Dpasay%3Dbay_city_skyline_-_aerial_shot_from_cityland_vito_cruz_-philippines--2015-0624--ls-.JPG'
+  credit: 'Photo: Patrick Roque / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Pic_geo_photos_-_ph%3Dmm%3Dpasay%3Dbay_city_skyline_-_aerial_shot_from_cityland_vito_cruz_-philippines--2015-0624--ls-.JPG'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - pasay

@@ -14,16 +14,15 @@ eventPerformer:
   kind: group
 eventFactsAsked: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/9/96/My_Chemical_Romance_performing_Teenagers_in_2011.png
-  credit: 'Photo: 23ladyhawke23 / Wikimedia Commons (CC BY 3.0)'
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/My_Chemical_Romance_at_Qudos_Arena_in_March_2023_80.jpg/3840px-My_Chemical_Romance_at_Qudos_Arena_in_March_2023_80.jpg
+  credit: 'Photo: Chris.sherlock2 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:My_Chemical_Romance_performing_Teenagers_in_2011.png
+  source: https://commons.wikimedia.org/wiki/File:My_Chemical_Romance_at_Qudos_Arena_in_March_2023_80.jpg
   focus:
-    x: 52
-    'y': 52
-    top: 47
-    bottom: 57
-gallery: []
+    x: 14
+    'y': 30
+    top: 26
+    bottom: 33
 tags:
   - bangkok
   - event
@@ -40,8 +39,6 @@ faq:
   - q: Where should I stay for the concert?
     a: The Novotel Bangkok Impact is inside the complex, and there are other hotels along Chaeng Watthana Road. Fans who stay central usually pick a hotel near a BTS Sukhumvit Line station and connect to the Pink Line.
 aiGenerated: true
-draft: true
-heldReason: wrong-venue-photo
 ---
 
 ## A Tuesday night in black

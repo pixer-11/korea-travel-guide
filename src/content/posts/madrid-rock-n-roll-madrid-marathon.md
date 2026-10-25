@@ -9,7 +9,6 @@ eventStartDate: '2026-11-29'
 eventEndDate: '2026-11-29'
 eventRecurring: true
 eventFactsAsked: true
-gallery: []
 tags:
   - madrid
   - event
@@ -27,6 +26,14 @@ faq:
     a: El Retiro's boating lake and the Palacio de Cristal are inside the park. The Puerta de Alcalá is at its corner and the Museo del Prado is a short walk west.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/a/ae/El_Marat%C3%B3n_de_Madrid_cumple_40_a%C3%B1os_con_37.000_participantes_%2802%29.jpg
+  credit: 'Photo: Diario de Madrid / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:El_Marat%C3%B3n_de_Madrid_cumple_40_a%C3%B1os_con_37.000_participantes_(02).jpg
+  focus:
+    x: 20
+    'y': 55
 ---
 
 ## Live music on the Castellana

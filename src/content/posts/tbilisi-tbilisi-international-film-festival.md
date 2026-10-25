@@ -10,6 +10,14 @@ eventEndDate: '2026-12-07'
 eventRecurring: true
 eventVenue: Amirani Cinema
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Tbilisi%2C_Old_Tbilisi%2C_Kura_River_2%2C_Georgia.jpg/3840px-Tbilisi%2C_Old_Tbilisi%2C_Kura_River_2%2C_Georgia.jpg'
+  credit: 'Photo: Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Tbilisi,_Old_Tbilisi,_Kura_River_2,_Georgia.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - tbilisi

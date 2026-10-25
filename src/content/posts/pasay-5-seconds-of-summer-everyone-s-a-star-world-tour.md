@@ -32,14 +32,14 @@ aiGenerated: true
 draft: true
 heldFinal: 'duplicate of manila-5sos-everyone-s-a-star-world-tour: the same two nights at SM Mall of Asia Arena, filed under the Pasay alias. Retired 2026-10-05, its URL 301s to the kept twin.'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/5_Seconds_Of_Summer%2C_Hammersmith_Apollo%2C_London_%2846534757555%29.jpg/1920px-5_Seconds_Of_Summer%2C_Hammersmith_Apollo%2C_London_%2846534757555%29.jpg
-  credit: 'Photo: Drew de F Fawkes / Wikimedia Commons (CC BY 2.0)'
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/5_Seconds_of_Summer_First_USA_Acoustic_IMG_3808_%2814851611632%29.jpg/3840px-5_Seconds_of_Summer_First_USA_Acoustic_IMG_3808_%2814851611632%29.jpg
+  credit: 'Photo: Melissa Rose from USA / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:5_Seconds_Of_Summer,_Hammersmith_Apollo,_London_(46534757555).jpg
+  source: https://commons.wikimedia.org/wiki/File:5_Seconds_of_Summer_First_USA_Acoustic_IMG_3808_(14851611632).jpg
   focus:
-    x: 45
-    'y': 34
-    top: 22
+    x: 78
+    'y': 25
+    top: 5
     bottom: 45
 ---
 

@@ -6422,5 +6422,93 @@
    "x": 25,
    "y": 35
   }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/e/ea/Bandung_city_at_night_%282517163687%29.jpg": {
+  "w": 1600,
+  "h": 1200,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/6/6b/Dalanzadgad_01.JPG": {
+  "w": 3328,
+  "h": 1872,
+  "focus": {
+   "x": 50,
+   "y": 40
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Mount_Fuji_Fujiyoshida_Japan_Travel_Photography_%28243668553%29.jpeg/1280px-Mount_Fuji_Fujiyoshida_Japan_Travel_Photography_%28243668553%29.jpeg": {
+  "w": 1280,
+  "h": 853,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/f/fc/Guadalajara_M%C3%A9xico_Temple_2.jpeg": {
+  "w": 3264,
+  "h": 2448,
+  "focus": {
+   "x": 50,
+   "y": 40
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/5/5a/British_Museum_Great_Court%2C_London%2C_UK_-_Diliff.jpg": {
+  "w": 3806,
+  "h": 3736,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/St_Mary%27s%2C_Bourne_Street_Church_1%2C_London%2C_UK_-_Diliff.jpg/3840px-St_Mary%27s%2C_Bourne_Street_Church_1%2C_London%2C_UK_-_Diliff.jpg": {
+  "w": 3840,
+  "h": 3341,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Mustafapa%C5%9Fa%2C_Nev%C5%9Fehir_03.jpg/1280px-Mustafapa%C5%9Fa%2C_Nev%C5%9Fehir_03.jpg": {
+  "w": 1280,
+  "h": 1917,
+  "focus": {
+   "x": 50,
+   "y": 55
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/f/f7/Pic_geo_photos_-_ph%3Dmm%3Dpasay%3Dbay_city_skyline_-_aerial_shot_from_cityland_vito_cruz_-philippines--2015-0624--ls-.JPG": {
+  "w": 3648,
+  "h": 2736,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Front_view_of_Heungnyemun_Gate_in_Gyeongbokgung_Palace_Seoul_South_Korea.jpg/3840px-Front_view_of_Heungnyemun_Gate_in_Gyeongbokgung_Palace_Seoul_South_Korea.jpg": {
+  "w": 3840,
+  "h": 1553,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/20110421_Tbilisi_Georgia_Panoramic.jpg/3840px-20110421_Tbilisi_Georgia_Panoramic.jpg": {
+  "w": 3840,
+  "h": 1813,
+  "focus": {
+   "x": 50,
+   "y": 40
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Tbilisi%2C_Old_Tbilisi%2C_Kura_River_2%2C_Georgia.jpg/3840px-Tbilisi%2C_Old_Tbilisi%2C_Kura_River_2%2C_Georgia.jpg": {
+  "w": 3840,
+  "h": 2552,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
  }
 }

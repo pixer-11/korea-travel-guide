@@ -10,6 +10,14 @@ eventEndDate: '2026-11-14'
 eventRecurring: false
 eventVenue: Courtyard Theatre
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/St_Mary%27s%2C_Bourne_Street_Church_1%2C_London%2C_UK_-_Diliff.jpg/3840px-St_Mary%27s%2C_Bourne_Street_Church_1%2C_London%2C_UK_-_Diliff.jpg'
+  credit: 'Photo: Diliff / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:St_Mary%27s,_Bourne_Street_Church_1,_London,_UK_-_Diliff.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - london

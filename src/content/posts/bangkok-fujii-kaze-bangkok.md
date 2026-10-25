@@ -13,7 +13,6 @@ eventPerformer:
   name: Fujii Kaze
   kind: person
 eventFactsAsked: true
-gallery: []
 tags:
   - bangkok
   - event
@@ -31,6 +30,14 @@ faq:
     a: There's street food on Banthat Thong Road behind the stadium. MBK Center and the Bangkok Art and Culture Centre are across Rama I Road, Jim Thompson House is a short walk away, and Siam Square and Siam Paragon are one BTS stop east.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/c/c6/Fujii_Kaze_Stadium_Live_%22Feelin%27_Good%22_at_Nissan_stadium.jpg
+  credit: 'Photo: なまけもの人間 / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Fujii_Kaze_Stadium_Live_%22Feelin%27_Good%22_at_Nissan_stadium.jpg
+  focus:
+    x: 50
+    'y': 40
 ---
 
 ## A football ground for a piano man

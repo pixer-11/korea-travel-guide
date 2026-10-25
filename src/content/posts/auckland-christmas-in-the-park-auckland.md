@@ -17,7 +17,6 @@ eventOffers:
   free: true
   currency: NZD
 eventFactsAsked: true
-gallery: []
 tags:
   - auckland
   - event
@@ -35,6 +34,14 @@ faq:
     a: The Auckland War Memorial Museum, the Cenotaph and the Wintergardens glasshouses are all inside the Domain. Parnell Road's restaurants and bars are a short walk downhill.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/d/d5/Christmas_street_light_decorations_%284195980503%29.jpg
+  credit: 'Photo: Pedro Ribeiro Simões from Lisboa, Portugal / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Christmas_street_light_decorations_(4195980503).jpg
+  focus:
+    x: 50
+    'y': 45
 ---
 
 ## A city picnic on a volcano

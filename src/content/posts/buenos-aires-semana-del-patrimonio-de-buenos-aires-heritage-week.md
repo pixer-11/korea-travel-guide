@@ -16,7 +16,6 @@ eventOffers:
   free: true
   currency: ARS
 eventFactsAsked: true
-gallery: []
 tags:
   - buenos aires
   - event
@@ -34,6 +33,14 @@ faq:
     a: Two full days lets you see a good selection of interiors in two neighbourhoods. Most visitors pick two or three buildings per day, because queues at the best-known palaces can be long.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Ceremonia_inaugural_de_la_semana_Criolla_2024_23.jpg/3840px-Ceremonia_inaugural_de_la_semana_Criolla_2024_23.jpg
+  credit: 'Photo: Pablo La Rosa / IM / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Ceremonia_inaugural_de_la_semana_Criolla_2024_23.jpg
+  focus:
+    x: 50
+    'y': 50
 ---
 
 ## A week of open front doors

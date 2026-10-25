@@ -13,6 +13,14 @@ eventOrganizer:
   name: DESIGN magazine
   url: https://seoul.designfestival.co.kr/en/main/
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Front_view_of_Heungnyemun_Gate_in_Gyeongbokgung_Palace_Seoul_South_Korea.jpg/3840px-Front_view_of_Heungnyemun_Gate_in_Gyeongbokgung_Palace_Seoul_South_Korea.jpg'
+  credit: 'Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Front_view_of_Heungnyemun_Gate_in_Gyeongbokgung_Palace_Seoul_South_Korea.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - seoul

@@ -12,6 +12,14 @@ eventOrganizer:
   name: European Table Tennis Union
   url: https://www.ettu.org/
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Mustafapa%C5%9Fa%2C_Nev%C5%9Fehir_03.jpg/1280px-Mustafapa%C5%9Fa%2C_Nev%C5%9Fehir_03.jpg'
+  credit: 'Photo: Bernard Gagnon (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'File:Mustafapaşa, Nevşehir 03.jpg'
+  focus:
+    x: 50
+    y: 55
 gallery: []
 tags:
   - nevşehir

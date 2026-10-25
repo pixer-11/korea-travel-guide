@@ -12,6 +12,14 @@ eventOrganizer:
   name: R-bies Sports Foundation
   url: https://mtfujimarathon.com/
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Mount_Fuji_Fujiyoshida_Japan_Travel_Photography_%28243668553%29.jpeg/1280px-Mount_Fuji_Fujiyoshida_Japan_Travel_Photography_%28243668553%29.jpeg'
+  credit: 'Photo: Giuseppe Milo (CC BY 3.0)'
+  license: wikimedia
+  source: 'File:Mount Fuji Fujiyoshida Japan Travel Photography (243668553).jpeg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - fujiyoshida

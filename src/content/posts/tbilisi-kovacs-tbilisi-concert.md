@@ -13,6 +13,14 @@ eventPerformer:
   name: Kovacs
   kind: person
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/20110421_Tbilisi_Georgia_Panoramic.jpg/3840px-20110421_Tbilisi_Georgia_Panoramic.jpg'
+  credit: 'Photo: User:Ggia / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:20110421_Tbilisi_Georgia_Panoramic.jpg'
+  focus:
+    x: 50
+    y: 40
 gallery: []
 tags:
   - tbilisi

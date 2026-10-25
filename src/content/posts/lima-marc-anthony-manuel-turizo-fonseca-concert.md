@@ -14,16 +14,15 @@ eventPerformer:
   kind: person
 eventFactsAsked: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/f/ff/Marc_Anthony_en_Noche_Inaugural_Festival_Verano_Iquique_2011.jpg
-  credit: 'Photo: Viva Iquique weblog / Wikimedia Commons (CC BY 2.0)'
+  url: https://upload.wikimedia.org/wikipedia/commons/1/1d/Marc_Anthony_-_World_Economic_Forum_on_Latin_America_2010.jpg
+  credit: 'Photo: World Economic Forum / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Marc_Anthony_en_Noche_Inaugural_Festival_Verano_Iquique_2011.jpg
+  source: https://commons.wikimedia.org/wiki/File:Marc_Anthony_-_World_Economic_Forum_on_Latin_America_2010.jpg
   focus:
-    x: 40
-    'y': 19
+    x: 35
+    'y': 28
     top: 10
-    bottom: 27
-gallery: []
+    bottom: 46
 tags:
   - lima
   - event
@@ -40,8 +39,6 @@ faq:
   - q: What is the weather like in Lima in early December?
     a: It is the start of summer. Skies are usually clearer than in winter, rain is very rare and evenings are mild, so a light layer is usually enough.
 aiGenerated: true
-draft: true
-heldReason: wrong-venue-photo
 ---
 
 ## Three Voices, One Stadium Night

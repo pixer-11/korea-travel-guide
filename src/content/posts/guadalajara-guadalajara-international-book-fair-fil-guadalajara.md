@@ -15,6 +15,14 @@ eventOrganizer:
 eventOffers:
   url: https://www.fil.com.mx
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/f/fc/Guadalajara_M%C3%A9xico_Temple_2.jpeg'
+  credit: 'Photo: Richard E. Struempler / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Guadalajara_M%C3%A9xico_Temple_2.jpeg'
+  focus:
+    x: 50
+    y: 40
 gallery: []
 tags:
   - guadalajara

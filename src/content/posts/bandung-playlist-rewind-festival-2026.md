@@ -10,6 +10,14 @@ eventEndDate: '2026-11-15'
 eventRecurring: true
 eventVenue: Secapa
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/e/ea/Bandung_city_at_night_%282517163687%29.jpg'
+  credit: 'Photo: Syed Abdul Khaliq from Shah Alam, Malaysia / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Bandung_city_at_night_(2517163687).jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - bandung
