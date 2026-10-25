@@ -2270,5 +2270,200 @@
         "delta": -11
       }
     ]
+  },
+  {
+    "week": "2026-10-25",
+    "pageviews": 12324,
+    "visits": 12135,
+    "top": [
+      {
+        "path": "/es/regions/queenstown/",
+        "views": 446
+      },
+      {
+        "path": "/",
+        "views": 59
+      },
+      {
+        "path": "/zh/posts/venice-grand-canal/",
+        "views": 37
+      },
+      {
+        "path": "/zh/posts/tashkent-2026-asian-table-tennis-championships/",
+        "views": 35
+      },
+      {
+        "path": "/ko/",
+        "views": 28
+      },
+      {
+        "path": "/zh/posts/hanoi-bigbang-2026-2027-world-tour-in-hanoi/",
+        "views": 22
+      },
+      {
+        "path": "/zh/",
+        "views": 21
+      },
+      {
+        "path": "/ja/regions/queenstown/",
+        "views": 19
+      },
+      {
+        "path": "/posts/bangkok-babymonster-world-tour-choom/",
+        "views": 15
+      },
+      {
+        "path": "/zh/posts/chinatown-chinatown-complex/",
+        "views": 14
+      },
+      {
+        "path": "/essentials/united-states/",
+        "views": 12
+      },
+      {
+        "path": "/posts/shanghai-china-international-import-expo-ciie/",
+        "views": 12
+      },
+      {
+        "path": "/zh/posts/tashkent-hazrati-imam-complex/",
+        "views": 12
+      },
+      {
+        "path": "/posts/busan-g-star-2026/",
+        "views": 12
+      },
+      {
+        "path": "/zh/tools/esim/singapore/",
+        "views": 10
+      },
+      {
+        "path": "/zh/posts/tashkent-bon/",
+        "views": 10
+      },
+      {
+        "path": "/ko/regions/alicante/",
+        "views": 10
+      },
+      {
+        "path": "/zh/posts/seoul-exo-planet-6-exhorizon-dot-encore-concert/",
+        "views": 10
+      },
+      {
+        "path": "/posts/ho-chi-minh-city-saigon-zoo-and-botanical-gardens/",
+        "views": 9
+      },
+      {
+        "path": "/zh/posts/lijiang-blue-moon-valley/",
+        "views": 9
+      },
+      {
+        "path": "/posts/tashkent-2026-asian-table-tennis-championships/",
+        "views": 9
+      },
+      {
+        "path": "/posts/bangkok-bigbang-world-tour-xx-cosmos-in-bangkok/",
+        "views": 9
+      },
+      {
+        "path": "/zh/posts/paris-basilique-du-sacre-c-ur-de-montmartre/",
+        "views": 9
+      },
+      {
+        "path": "/zh/posts/tsim-sha-tsui-tsim-sha-tsui-promenade/",
+        "views": 9
+      },
+      {
+        "path": "/posts/hong-kong-hong-kong-winterfest/",
+        "views": 8
+      },
+      {
+        "path": "/zh/posts/causeway-bay-east-coast-park-precinct/",
+        "views": 8
+      },
+      {
+        "path": "/zh/posts/jeju-black-pork/",
+        "views": 8
+      },
+      {
+        "path": "/ja/posts/samarkand-shah-i-zinda-necropolis/",
+        "views": 8
+      },
+      {
+        "path": "/zh/posts/kuala-lumpur-thean-hou-temple/",
+        "views": 8
+      },
+      {
+        "path": "/regions/kuala-lumpur/",
+        "views": 8
+      }
+    ],
+    "risers": [
+      {
+        "path": "/es/regions/queenstown/",
+        "delta": 446
+      },
+      {
+        "path": "/zh/posts/venice-grand-canal/",
+        "delta": 37
+      },
+      {
+        "path": "/zh/posts/tashkent-2026-asian-table-tennis-championships/",
+        "delta": 35
+      },
+      {
+        "path": "/ja/regions/queenstown/",
+        "delta": 19
+      },
+      {
+        "path": "/posts/bangkok-babymonster-world-tour-choom/",
+        "delta": 15
+      },
+      {
+        "path": "/",
+        "delta": 12
+      },
+      {
+        "path": "/essentials/united-states/",
+        "delta": 12
+      },
+      {
+        "path": "/zh/posts/tashkent-hazrati-imam-complex/",
+        "delta": 12
+      }
+    ],
+    "fallers": [
+      {
+        "path": "/zh/posts/shanghai-ignis-table/",
+        "delta": -18
+      },
+      {
+        "path": "/zh/posts/singapore-bigbang-xx-cosmos-world-tour/",
+        "delta": -17
+      },
+      {
+        "path": "/zh/posts/kuala-lumpur-batu-caves/",
+        "delta": -17
+      },
+      {
+        "path": "/zh/posts/tsim-sha-tsui-tsim-sha-tsui-waterfront-park/",
+        "delta": -17
+      },
+      {
+        "path": "/zh/posts/jakarta-gajah-mada-food-street/",
+        "delta": -15
+      },
+      {
+        "path": "/zh/posts/paris-notre-dame-cathedral-of-paris/",
+        "delta": -12
+      },
+      {
+        "path": "/zh/posts/indian-wells-wta-finals/",
+        "delta": -12
+      },
+      {
+        "path": "/zh/posts/shanghai-rolex-shanghai-masters/",
+        "delta": -12
+      }
+    ]
   }
 ]
