@@ -39,6 +39,11 @@ import holidays
 # days off (Holy Week, Independence on 28-29 July, Santa Rosa de Lima ...).
 # Cusco's Inti Raymi on 24 June is a local celebration, not a national day
 # off, so it is not on this list (2026-10-22).
+# Argentina (AR) stays on the default "public" with no subdivision: the national
+# feriados (Carnival, 24 March, Malvinas, 25 May, 9 July ...) plus the bridge
+# days the government sets each year "con fines turísticos". Provincial days
+# such as Salta's Güemes are already national; the rest are not on this list
+# (2026-10-25).
 CATEGORIES = {"HK": ("optional",), "MO": ("optional",)}
 
 # The UK's no-subdivision set is only what all four nations share, which drops

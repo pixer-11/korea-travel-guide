@@ -807,6 +807,32 @@
         "Huaraz"
       ],
       "continent": "South America"
+    },
+    {
+      "name": "Argentina",
+      "iso2": "ar",
+      "priority": 29,
+      "slug": "argentina",
+      "flag": "🇦🇷",
+      "active": true,
+      "blurb": "Iguazu Falls thundering through the subtropical forest, the Perito Moreno Glacier calving into Lago Argentino, granite spires above El Chalten and the end-of-the-world port of Ushuaia, with tango halls in Buenos Aires, Malbec vineyards under the Andes at Mendoza and the striped hills of the Quebrada de Humahuaca in the north. Distances are huge, so most trips link the regions by domestic flights.",
+      "regions": [
+        "Buenos Aires",
+        "Puerto Iguazu",
+        "El Calafate",
+        "El Chalten",
+        "Ushuaia",
+        "Bariloche",
+        "Mendoza",
+        "Salta",
+        "Cafayate",
+        "Purmamarca",
+        "Humahuaca",
+        "Puerto Madryn",
+        "Tigre",
+        "Mar del Plata"
+      ],
+      "continent": "South America"
     }
   ]
 }

@@ -260,6 +260,10 @@ export const KLOOK_CITY: Record<string, KlookCity> = {
   "Arequipa": { id: 53445, slug: 'arequipa', country: "Peru" }, // 2026-10-22: in the en-US, ko, ja, es and zh-cn city sitemaps
   "Puno": { id: 21817, slug: 'puno', country: "Peru" }, // 2026-10-22: in the en-US, ko, ja, es and zh-cn city sitemaps
   "Paracas": { id: 45666, slug: 'paracas', country: "Peru" }, // 2026-10-22: in the en-US, ko, ja, es and zh-cn city sitemaps
+  "Buenos Aires": { id: 27111, slug: 'buenos-aires', country: "Argentina" }, // 2026-10-25: in the en-US, ko, ja, es and zh-cn city sitemaps (c6333 is the province, not used)
+  "Mendoza": { id: 6674, slug: 'mendoza', country: "Argentina" }, // 2026-10-25: in all five city sitemaps; the page sits under co4183-argentina and is the city
+  "El Calafate": { id: 80621, slug: 'el-calafate', country: "Argentina" }, // 2026-10-25: in the en-US, ko, ja, es and zh-cn city sitemaps
+  "Ushuaia": { id: 37092, slug: 'ushuaia', country: "Argentina" }, // 2026-10-25: in the en-US, ko, ja, es and zh-cn city sitemaps
   "Pasay": { id: 26286, slug: 'pasay', country: "Philippines" },
   "Philadelphia": { id: 80779, slug: 'philadelphia', country: "United States" },
   "Phnom Penh": { id: 44, slug: 'phnom-penh', country: "Cambodia" },

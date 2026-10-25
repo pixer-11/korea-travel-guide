@@ -161,6 +161,12 @@
     "es": "Arequipa",
     "zh": "阿雷基帕"
   },
+  "Argentina": {
+    "ko": "아르헨티나",
+    "ja": "アルゼンチン",
+    "es": "Argentina",
+    "zh": "阿根廷"
+  },
   "Arlington": {
     "ko": "알링턴",
     "ja": "アーリントン",
@@ -250,6 +256,12 @@
     "ja": "バルセロナ",
     "es": "Barcelona",
     "zh": "巴塞罗那"
+  },
+  "Bariloche": {
+    "ko": "바릴로체",
+    "ja": "バリローチェ",
+    "es": "Bariloche",
+    "zh": "巴里洛切"
   },
   "Barra": {
     "ko": "바라",
@@ -401,6 +413,12 @@
     "es": "Brisbane",
     "zh": "布里斯班"
   },
+  "Buenos Aires": {
+    "ko": "부에노스아이레스",
+    "ja": "ブエノスアイレス",
+    "es": "Buenos Aires",
+    "zh": "布宜诺斯艾利斯"
+  },
   "Bugis": {
     "ko": "부기스",
     "ja": "ブギス",
@@ -448,6 +466,12 @@
     "ja": "バイロンベイ",
     "es": "Byron Bay",
     "zh": "拜伦湾"
+  },
+  "Cafayate": {
+    "ko": "카파야테",
+    "ja": "カファヤテ",
+    "es": "Cafayate",
+    "zh": "卡法亚特"
   },
   "Cairns": {
     "ko": "케언즈",
@@ -863,6 +887,18 @@
     "es": "Edimburgo",
     "zh": "爱丁堡"
   },
+  "El Calafate": {
+    "ko": "엘칼라파테",
+    "ja": "エル・カラファテ",
+    "es": "El Calafate",
+    "zh": "埃尔卡拉法特"
+  },
+  "El Chalten": {
+    "ko": "엘찰텐",
+    "ja": "エル・チャルテン",
+    "es": "El Chaltén",
+    "zh": "埃尔查尔滕"
+  },
   "El Nido": {
     "ko": "엘니도",
     "ja": "エルニド",
@@ -1264,6 +1300,12 @@
     "ja": "フエ",
     "es": "Hue",
     "zh": "顺化"
+  },
+  "Humahuaca": {
+    "ko": "우마우아카",
+    "ja": "ウマワカ",
+    "es": "Humahuaca",
+    "zh": "乌马瓦卡"
   },
   "Hyderabad": {
     "ko": "하이데라바드",
@@ -1871,6 +1913,12 @@
     "es": "Manila",
     "zh": "马尼拉"
   },
+  "Mar del Plata": {
+    "ko": "마르델플라타",
+    "ja": "マル・デル・プラタ",
+    "es": "Mar del Plata",
+    "zh": "马德普拉塔"
+  },
   "Marbella": {
     "ko": "마르베야",
     "ja": "マルベーリャ",
@@ -1924,6 +1972,12 @@
     "ja": "メルボルン",
     "es": "Melbourne",
     "zh": "墨尔本"
+  },
+  "Mendoza": {
+    "ko": "멘도사",
+    "ja": "メンドーサ",
+    "es": "Mendoza",
+    "zh": "门多萨"
   },
   "Merida": {
     "ko": "메리다",
@@ -2495,6 +2549,18 @@
     "es": "Puebla",
     "zh": "普埃布拉"
   },
+  "Puerto Iguazu": {
+    "ko": "푸에르토이과수",
+    "ja": "プエルト・イグアス",
+    "es": "Puerto Iguazú",
+    "zh": "伊瓜苏港"
+  },
+  "Puerto Madryn": {
+    "ko": "푸에르토마드린",
+    "ja": "プエルト・マドリン",
+    "es": "Puerto Madryn",
+    "zh": "马德林港"
+  },
   "Puerto Princesa": {
     "ko": "푸에르토프린세사",
     "ja": "プエルトプリンセサ",
@@ -2518,6 +2584,12 @@
     "ja": "プーノ",
     "es": "Puno",
     "zh": "普诺"
+  },
+  "Purmamarca": {
+    "ko": "푸르마마르카",
+    "ja": "プルママルカ",
+    "es": "Purmamarca",
+    "zh": "普尔马马卡"
   },
   "Pushkar": {
     "ko": "푸시카르",
@@ -2620,6 +2692,12 @@
     "ja": "埼玉",
     "es": "Saitama",
     "zh": "埼玉"
+  },
+  "Salta": {
+    "ko": "살타",
+    "ja": "サルタ",
+    "es": "Salta",
+    "zh": "萨尔塔"
   },
   "Samarkand": {
     "ko": "사마르칸트",
@@ -3089,6 +3167,12 @@
     "es": "Tianzhong",
     "zh": "田中镇"
   },
+  "Tigre": {
+    "ko": "티그레",
+    "ja": "ティグレ",
+    "es": "Tigre",
+    "zh": "蒂格雷"
+  },
   "Tioman": {
     "ko": "티오만",
     "ja": "ティオマン島",
@@ -3250,6 +3334,12 @@
     "ja": "ウルゲンチ",
     "es": "Urgench",
     "zh": "乌尔根奇"
+  },
+  "Ushuaia": {
+    "ko": "우수아이아",
+    "ja": "ウシュアイア",
+    "es": "Ushuaia",
+    "zh": "乌斯怀亚"
   },
   "Uzbekistan": {
     "ko": "우즈베키스탄",

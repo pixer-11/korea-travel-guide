@@ -34,6 +34,10 @@ export const COUNTRY_TZ = {
   Georgia: 'Asia/Tbilisi', // one zone for the whole country, no daylight saving (2026-10-19)
   'New Zealand': 'Pacific/Auckland', // zone1970.tab: all of NZ but the Chatham Islands, none of which is a region (2026-10-20)
   Peru: 'America/Lima', // zone1970.tab: one zone for the whole country, no daylight saving (2026-10-22)
+  // zone1970.tab lists twelve America/Argentina/* zones, but they differ only in
+  // pre-2009 history: every province has kept UTC-3 with no daylight saving since,
+  // so one zone is right for any venue and an unlisted city never falls to null (2026-10-25).
+  Argentina: 'America/Argentina/Buenos_Aires',
 };
 
 const ET = 'America/New_York', CT = 'America/Chicago', PT = 'America/Los_Angeles';

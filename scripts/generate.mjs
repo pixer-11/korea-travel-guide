@@ -1032,6 +1032,8 @@ const COUNTRY_LANG = {
   Mexico: 'es',
   // 스페인어가 현지어 — 페루에서 영어 리뷰는 관광객이다(2026-10-22).
   Peru: 'es',
+  // 스페인어가 현지어 — 아르헨티나에서 영어 리뷰는 관광객이다(2026-10-25).
+  Argentina: 'es',
   // Uzbek is unambiguously local; Russian is also widely used by locals but is
   // equally the language of the biggest tourist group, so only 'uz' counts.
   Uzbekistan: 'uz',

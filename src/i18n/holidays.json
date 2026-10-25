@@ -1,4 +1,112 @@
 {
+  "Argentina|Bridge Public Holiday": {
+    "ko": "관광 목적 징검다리 휴일",
+    "ja": "観光目的の振替連休",
+    "es": "Feriado puente turístico",
+    "zh": "旅游桥休日"
+  },
+  "Argentina|Carnival Monday": {
+    "ko": "카니발 월요일",
+    "ja": "カーニバルの月曜日",
+    "es": "Lunes de Carnaval",
+    "zh": "狂欢节星期一"
+  },
+  "Argentina|Carnival Tuesday": {
+    "ko": "카니발 화요일",
+    "ja": "カーニバルの火曜日",
+    "es": "Martes de Carnaval",
+    "zh": "狂欢节星期二"
+  },
+  "Argentina|Christmas Day": {
+    "ko": "성탄절",
+    "ja": "クリスマス",
+    "es": "Navidad",
+    "zh": "圣诞节"
+  },
+  "Argentina|Good Friday": {
+    "ko": "성금요일",
+    "ja": "聖金曜日",
+    "es": "Viernes Santo",
+    "zh": "耶稣受难日"
+  },
+  "Argentina|Immaculate Conception": {
+    "ko": "원죄 없이 잉태되신 성모 대축일",
+    "ja": "無原罪の聖母の日",
+    "es": "Inmaculada Concepción",
+    "zh": "圣母无原罪节"
+  },
+  "Argentina|Independence Day": {
+    "ko": "독립기념일",
+    "ja": "独立記念日",
+    "es": "Día de la Independencia",
+    "zh": "独立日"
+  },
+  "Argentina|Labor Day": {
+    "ko": "노동절",
+    "ja": "メーデー",
+    "es": "Día del Trabajador",
+    "zh": "劳动节"
+  },
+  "Argentina|Maundy Thursday": {
+    "ko": "성목요일",
+    "ja": "聖木曜日",
+    "es": "Jueves Santo",
+    "zh": "濯足节"
+  },
+  "Argentina|May Revolution Day": {
+    "ko": "5월 혁명 기념일",
+    "ja": "五月革命記念日",
+    "es": "Día de la Revolución de Mayo",
+    "zh": "五月革命纪念日"
+  },
+  "Argentina|National Day of Remembrance for Truth and Justice": {
+    "ko": "진실과 정의를 위한 국가 기억의 날",
+    "ja": "真実と正義のための国家記憶の日",
+    "es": "Día Nacional de la Memoria por la Verdad y la Justicia",
+    "zh": "真相与正义国家纪念日"
+  },
+  "Argentina|National Sovereignty Day": {
+    "ko": "국가 주권의 날",
+    "ja": "国家主権の日",
+    "es": "Día de la Soberanía Nacional",
+    "zh": "国家主权日"
+  },
+  "Argentina|New Year's Day": {
+    "ko": "신정",
+    "ja": "元日",
+    "es": "Año Nuevo",
+    "zh": "元旦"
+  },
+  "Argentina|Pass to the Immortality of General Don José de San Martín": {
+    "ko": "산마르틴 장군 서거 기념일",
+    "ja": "サン・マルティン将軍逝去記念日",
+    "es": "Paso a la Inmortalidad del General Don José de San Martín",
+    "zh": "圣马丁将军逝世纪念日"
+  },
+  "Argentina|Pass to the Immortality of General Don Manuel Belgrano": {
+    "ko": "벨그라노 장군 서거 기념일(국기의 날)",
+    "ja": "ベルグラーノ将軍逝去記念日(国旗の日)",
+    "es": "Paso a la Inmortalidad del General Don Manuel Belgrano",
+    "zh": "贝尔格拉诺将军逝世纪念日(国旗日)"
+  },
+  "Argentina|Pass to the Immortality of General Don Martín Miguel de Güemes": {
+    "ko": "구에메스 장군 서거 기념일",
+    "ja": "グエメス将軍逝去記念日",
+    "es": "Paso a la Inmortalidad del General Don Martín Miguel de Güemes",
+    "zh": "格梅斯将军逝世纪念日"
+  },
+  "Argentina|Respect for Cultural Diversity Day": {
+    "ko": "문화 다양성 존중의 날",
+    "ja": "文化多様性尊重の日",
+    "es": "Día del Respeto a la Diversidad Cultural",
+    "zh": "文化多样性尊重日"
+  },
+  "Argentina|Veteran's Day and the Fallen in the Malvinas War": {
+    "ko": "말비나스 전쟁 참전용사·전몰자의 날",
+    "ja": "マルビナス戦争退役軍人・戦没者の日",
+    "es": "Día del Veterano y de los Caídos en la Guerra de Malvinas",
+    "zh": "马尔维纳斯战争老兵与阵亡者纪念日"
+  },
   "Australia|ANZAC Day": {
     "ko": "안작의 날",
     "ja": "アンザックデー",

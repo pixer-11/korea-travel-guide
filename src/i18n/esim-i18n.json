@@ -1276,5 +1276,44 @@
       ]
     },
     "_srcHash": "be7aadebaf5a5529"
+  },
+  "argentina": {
+    "ko": {
+      "intro": "아르헨티나에는 Claro, Movistar, Personal 세 개의 이동통신사가 있습니다. 세 곳 모두 자체 eSIM 상품을 판매하며, 해외 판매자가 제공하는 여행용 eSIM도 결국 이 세 통신사 중 하나의 망을 빌려 쓰는 방식이므로, 구매 전에 어떤 통신사 망을 사용하는지 반드시 확인해야 합니다. 각 통신사는 자사 사이트에 커버리지 지도를 공개하고 있는데, Claro는 자사 지도가 어디까지나 예측치일 뿐이며 특정 지점에서의 실제 신호 수신을 보장하지는 않는다고 명시하고 있습니다.",
+      "coverage": "부에노스아이레스, 멘도사, 살타, 우수아이아를 비롯한 주요 도시들은 안정적인 신호를 제공합니다. 다만 아르헨티나는 국토가 매우 넓고 마을 사이 인구 밀도가 낮아, 파타고니아를 가로지르는 루타 40의 긴 구간들, 안데스산맥의 고산 고개들, 엘찰텐 주변 트레킹 코스, 북부의 케브라다(협곡) 지역 등에서는 신호가 약하거나 아예 잡히지 않을 수 있습니다.",
+      "tips": [
+        "파타고니아나 북부 지역에서 장거리 육상 이동을 하기 전에는 오프라인 지도를 미리 다운로드하고, 항공편·버스·투어 정보도 저장해 두세요. 다음 마을까지 몇 시간씩 걸릴 수 있습니다.",
+        "대부분의 여행 일정은 지역 간 이동을 국내선 항공편으로 연결하므로, 탑승권과 호텔 주소는 데이터가 필요한 앱에만 의존하지 말고 휴대폰에 따로 저장해 두세요.",
+        "이구아수 폭포는 브라질과 국경을 맞대고 있습니다. 브라질 쪽도 함께 방문할 계획이라면, 두 나라 모두를 커버하는 요금제를 선택하세요."
+      ]
+    },
+    "ja": {
+      "intro": "アルゼンチンには、Claro、Movistar、Personalという3つの携帯通信会社があります。3社とも自社ブランドのeSIM回線を販売しており、海外の業者が提供する旅行者向けeSIMもこのいずれかの回線を利用する形になっているため、購入前にどの通信会社の回線を使っているか確認しておきましょう。各社は自社サイトでエリアカバレッジマップを公開していますが、Claroはそのマップがあくまで予測であり、特定の場所での電波受信を保証するものではないと明記しています。",
+      "coverage": "ブエノスアイレス、メンドーサ、サルタ、ウシュアイアなどの都市部では、電波は安定しています。ただしアルゼンチンは国土が非常に広く、町と町の間は人口がまばらです。パタゴニアを貫くルータ40の長い区間、アンデス山脈の峠道、エル・チャルテン周辺のトレイルコース、北部のケブラーダ(渓谷)地帯などでは、電波がほとんど、あるいはまったく入らないこともあります。",
+      "tips": [
+        "パタゴニアや北部での長距離移動の前には、オフラインマップをダウンロードし、フライトやバス、ツアーの詳細情報を保存しておきましょう。次の町まで何時間もかかることがあります。",
+        "多くの旅程では、地域間の移動に国内線を利用します。搭乗券やホテルの住所は、データ通信が必要なアプリだけに頼らず、スマートフォン本体にも保存しておきましょう。",
+        "イグアスの滝はブラジルとの国境に位置しています。ブラジル側の訪問も予定している場合は、両国をカバーするプランを選びましょう。"
+      ]
+    },
+    "es": {
+      "intro": "Argentina tiene tres redes móviles: Claro, Movistar y Personal. Las tres venden sus propias líneas eSIM, y una eSIM de viaje de un proveedor internacional funciona sobre una de ellas, así que conviene revisar qué red indica antes de comprarla. Cada operador publica su propio mapa de cobertura en su sitio web; Claro aclara que su mapa es una predicción y no garantiza señal en un punto determinado.",
+      "coverage": "Buenos Aires, Mendoza, Salta, Ushuaia y las demás ciudades cuentan con señal estable. El país es muy extenso y está poco poblado entre pueblo y pueblo: largos tramos de la Ruta 40 en la Patagonia, los pasos cordilleranos de altura, los senderos alrededor de El Chaltén y las quebradas del norte pueden tener poca o ninguna cobertura.",
+      "tips": [
+        "Descarga mapas offline y guarda los datos de tus vuelos, ómnibus y excursiones antes de los trayectos largos por tierra en la Patagonia o el norte, donde el próximo pueblo puede estar a horas de distancia.",
+        "La mayoría de los viajes conectan las regiones mediante vuelos domésticos, así que conviene guardar las tarjetas de embarque y las direcciones de los hoteles en el teléfono, y no depender solo de una aplicación que necesite datos móviles.",
+        "Las Cataratas del Iguazú están en la frontera con Brasil; si también planeas visitar el lado brasileño, elige un plan que cubra ambos países."
+      ]
+    },
+    "zh": {
+      "intro": "阿根廷有三大移动网络运营商：Claro、Movistar 和 Personal。这三家都自行销售 eSIM 套餐，而国际卖家提供的旅行 eSIM 实际上也是挂靠在其中某一家网络上运行的，所以购买前要先确认它所使用的是哪家网络。每家运营商都会在自己的官网上公布信号覆盖地图；Claro 特别说明，其地图只是预测结果，并不能保证某个具体地点一定有信号。",
+      "coverage": "布宜诺斯艾利斯、门多萨、萨尔塔、乌斯怀亚等城市信号稳定。阿根廷国土辽阔，城镇之间人烟稀少：穿越巴塔哥尼亚的40号公路（Ruta 40）长段路程、安第斯山脉的高海拔山口、埃尔查尔滕（El Chalten）周边的徒步路线，以及北部的峡谷地带（quebradas），都可能信号微弱甚至完全没有信号。",
+      "tips": [
+        "在巴塔哥尼亚或北部地区进行长途陆路路段出发前，提前下载离线地图，并保存好航班、长途汽车及行程详情，因为下一个城镇可能要几个小时车程才能到达。",
+        "大多数行程会通过国内航班往返于各个地区之间，建议把登机牌和酒店地址直接保存在手机里，而不要只依赖需要联网才能打开的App。",
+        "伊瓜苏瀑布地处阿根廷与巴西边境，如果你也计划前往巴西一侧游览，请选择能同时覆盖两国的套餐。"
+      ]
+    },
+    "_srcHash": "8f829cc4c6d0fb91"
   }
 }

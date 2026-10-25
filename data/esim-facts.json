@@ -482,5 +482,20 @@
       "Download offline maps and save your train tickets, tour pick-up details and hotel addresses before heading to Machu Picchu, Rainbow Mountain or the Colca Canyon.",
       "Iquitos cannot be reached by road, only by plane or river boat, so have your onward bookings saved on the phone before you fly in."
     ]
+  },
+  "argentina": {
+    "name": "Argentina",
+    "carriers": [
+      "Claro",
+      "Movistar",
+      "Personal"
+    ],
+    "intro": "Argentina has three mobile networks: Claro, Movistar and Personal. All three sell eSIM lines of their own, and a travel eSIM from an international seller rides on one of them, so check which network it names before you buy. Each network publishes its coverage map on its own site; Claro notes that its map is a prediction and does not guarantee signal at any given spot.",
+    "coverage": "Buenos Aires, Mendoza, Salta, Ushuaia and the other cities have steady signal. The country is very large and thinly populated between towns: long stretches of Ruta 40 through Patagonia, the high Andean passes, the trails around El Chalten and the quebradas of the north can have little or no coverage.",
+    "tips": [
+      "Download offline maps and save your flight, bus and tour details before long overland legs in Patagonia or the north, where the next town can be hours away.",
+      "Most trips join the regions by domestic flights, so keep boarding passes and hotel addresses saved on the phone rather than only in an app that needs data.",
+      "Iguazu Falls sits on the border with Brazil; if you plan to visit the Brazilian side too, choose a plan that covers both countries."
+    ]
   }
 }

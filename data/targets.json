@@ -3169,6 +3169,244 @@
       "topic": "Wilcahuain",
       "category": "hidden-gem",
       "query": "Wilcahuain archaeological site Huaraz Peru"
+    },
+    {
+      "country": "Argentina",
+      "region": "Buenos Aires",
+      "topic": "Caminito",
+      "category": "attraction",
+      "query": "Caminito La Boca Buenos Aires Argentina"
+    },
+    {
+      "country": "Argentina",
+      "region": "Buenos Aires",
+      "topic": "Recoleta Cemetery",
+      "category": "attraction",
+      "query": "Cementerio de la Recoleta Buenos Aires Argentina"
+    },
+    {
+      "country": "Argentina",
+      "region": "Buenos Aires",
+      "topic": "Teatro Colon",
+      "category": "attraction",
+      "query": "Teatro Colon Buenos Aires Argentina"
+    },
+    {
+      "country": "Argentina",
+      "region": "Buenos Aires",
+      "topic": "Casa Rosada and Plaza de Mayo",
+      "category": "attraction",
+      "query": "Casa Rosada Plaza de Mayo Buenos Aires Argentina"
+    },
+    {
+      "country": "Argentina",
+      "region": "Buenos Aires",
+      "topic": "El Ateneo Grand Splendid",
+      "category": "hidden-gem",
+      "query": "El Ateneo Grand Splendid bookshop Buenos Aires Argentina"
+    },
+    {
+      "country": "Argentina",
+      "region": "Buenos Aires",
+      "topic": "San Telmo Market",
+      "category": "attraction",
+      "query": "Mercado de San Telmo Buenos Aires Argentina"
+    },
+    {
+      "country": "Argentina",
+      "region": "Tigre",
+      "topic": "Puerto de Frutos",
+      "category": "attraction",
+      "query": "Puerto de Frutos Tigre Buenos Aires Argentina"
+    },
+    {
+      "country": "Argentina",
+      "region": "Tigre",
+      "topic": "Museo de Arte Tigre",
+      "category": "hidden-gem",
+      "query": "Museo de Arte Tigre Argentina"
+    },
+    {
+      "country": "Argentina",
+      "region": "Puerto Iguazu",
+      "topic": "Iguazu Falls and the Devil's Throat",
+      "category": "attraction",
+      "query": "Garganta del Diablo Parque Nacional Iguazu Misiones Argentina"
+    },
+    {
+      "country": "Argentina",
+      "region": "Puerto Iguazu",
+      "topic": "Hito Tres Fronteras",
+      "category": "hidden-gem",
+      "query": "Hito Tres Fronteras Puerto Iguazu Argentina"
+    },
+    {
+      "country": "Argentina",
+      "region": "El Calafate",
+      "topic": "Perito Moreno Glacier",
+      "category": "attraction",
+      "query": "Glaciar Perito Moreno Parque Nacional Los Glaciares Santa Cruz Argentina"
+    },
+    {
+      "country": "Argentina",
+      "region": "El Calafate",
+      "topic": "Glaciarium",
+      "category": "attraction",
+      "query": "Glaciarium Museo del Hielo Patagonico El Calafate Argentina"
+    },
+    {
+      "country": "Argentina",
+      "region": "El Calafate",
+      "topic": "Laguna Nimez Reserve",
+      "category": "hidden-gem",
+      "query": "Reserva Laguna Nimez El Calafate Argentina"
+    },
+    {
+      "country": "Argentina",
+      "region": "El Chalten",
+      "topic": "Laguna de los Tres and Mount Fitz Roy",
+      "category": "attraction",
+      "query": "Laguna de los Tres Fitz Roy El Chalten Argentina"
+    },
+    {
+      "country": "Argentina",
+      "region": "Ushuaia",
+      "topic": "End of the World Train",
+      "category": "attraction",
+      "query": "Tren del Fin del Mundo Ushuaia Argentina"
+    },
+    {
+      "country": "Argentina",
+      "region": "Ushuaia",
+      "topic": "Tierra del Fuego National Park",
+      "category": "attraction",
+      "query": "Parque Nacional Tierra del Fuego Ushuaia Argentina"
+    },
+    {
+      "country": "Argentina",
+      "region": "Ushuaia",
+      "topic": "Maritime Museum and Old Prison",
+      "category": "attraction",
+      "query": "Museo Maritimo y del Presidio Ushuaia Argentina"
+    },
+    {
+      "country": "Argentina",
+      "region": "Bariloche",
+      "topic": "Cerro Campanario",
+      "category": "attraction",
+      "query": "Cerro Campanario chairlift Bariloche Argentina"
+    },
+    {
+      "country": "Argentina",
+      "region": "Bariloche",
+      "topic": "Centro Civico",
+      "category": "attraction",
+      "query": "Centro Civico San Carlos de Bariloche Argentina"
+    },
+    {
+      "country": "Argentina",
+      "region": "Bariloche",
+      "topic": "Cerro Catedral",
+      "category": "attraction",
+      "query": "Cerro Catedral Bariloche Argentina"
+    },
+    {
+      "country": "Argentina",
+      "region": "Mendoza",
+      "topic": "Parque General San Martin and Cerro de la Gloria",
+      "category": "attraction",
+      "query": "Parque General San Martin Cerro de la Gloria Mendoza Argentina"
+    },
+    {
+      "country": "Argentina",
+      "region": "Mendoza",
+      "topic": "Plaza Independencia",
+      "category": "attraction",
+      "query": "Plaza Independencia Mendoza Argentina"
+    },
+    {
+      "country": "Argentina",
+      "region": "Salta",
+      "topic": "Museum of High Altitude Archaeology",
+      "category": "attraction",
+      "query": "Museo de Arqueologia de Alta Montana MAAM Salta Argentina"
+    },
+    {
+      "country": "Argentina",
+      "region": "Salta",
+      "topic": "Cerro San Bernardo Cable Car",
+      "category": "attraction",
+      "query": "Teleferico San Bernardo Salta Argentina"
+    },
+    {
+      "country": "Argentina",
+      "region": "Salta",
+      "topic": "Train to the Clouds",
+      "category": "attraction",
+      "query": "Tren a las Nubes Salta Argentina"
+    },
+    {
+      "country": "Argentina",
+      "region": "Cafayate",
+      "topic": "Bodega El Esteco",
+      "category": "attraction",
+      "query": "Bodega El Esteco Cafayate Salta Argentina"
+    },
+    {
+      "country": "Argentina",
+      "region": "Cafayate",
+      "topic": "Museo de la Vid y el Vino",
+      "category": "hidden-gem",
+      "query": "Museo de la Vid y el Vino Cafayate Argentina"
+    },
+    {
+      "country": "Argentina",
+      "region": "Purmamarca",
+      "topic": "Hill of Seven Colours",
+      "category": "attraction",
+      "query": "Cerro de los Siete Colores Purmamarca Jujuy Argentina"
+    },
+    {
+      "country": "Argentina",
+      "region": "Purmamarca",
+      "topic": "Paseo de los Colorados",
+      "category": "hidden-gem",
+      "query": "Paseo de los Colorados Purmamarca Jujuy Argentina"
+    },
+    {
+      "country": "Argentina",
+      "region": "Humahuaca",
+      "topic": "Serrania de Hornocal",
+      "category": "hidden-gem",
+      "query": "Serrania de Hornocal Humahuaca Jujuy Argentina"
+    },
+    {
+      "country": "Argentina",
+      "region": "Humahuaca",
+      "topic": "Independence Monument",
+      "category": "attraction",
+      "query": "Monumento a la Independencia Humahuaca Jujuy Argentina"
+    },
+    {
+      "country": "Argentina",
+      "region": "Puerto Madryn",
+      "topic": "Ecocentro",
+      "category": "attraction",
+      "query": "Ecocentro Puerto Madryn Chubut Argentina"
+    },
+    {
+      "country": "Argentina",
+      "region": "Puerto Madryn",
+      "topic": "Peninsula Valdes",
+      "category": "attraction",
+      "query": "Peninsula Valdes Puerto Piramides Chubut Argentina"
+    },
+    {
+      "country": "Argentina",
+      "region": "Mar del Plata",
+      "topic": "Torreon del Monje",
+      "category": "attraction",
+      "query": "Torreon del Monje Mar del Plata Argentina"
     }
   ]
 }
