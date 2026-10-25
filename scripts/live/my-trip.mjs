@@ -74,7 +74,18 @@ ok(s1.length === pick.length && s1.every((i) => i.rs === 'barcelona' && 'week' i
 ok((await pg.$$('.mt-item')).length === pick.length, 'cards rendered');
 ok(/바르셀로나 \d+곳/.test(await pg.$eval('[data-headline]', (e) => e.textContent)), 'headline city + count');
 ok(/^\d\d:\d\d$/.test(await pg.$eval('[data-clock-time]', (e) => e.textContent)), 'local clock');
-ok(/7시간 느려요/.test(await pg.$eval('[data-clock-diff]', (e) => e.textContent)), 'Barcelona 7 h behind Seoul');
+// The gap is computed for TODAY, not written down: it was "7" and failed on
+// 2026-10-25, the morning Europe left summer time and the page — correctly —
+// started saying 8. Seoul has no DST; Madrid's offset moves twice a year.
+const offsetH = (tz) => {
+  const v = new Intl.DateTimeFormat('en-US', { timeZone: tz, timeZoneName: 'longOffset' })
+    .formatToParts(new Date()).find((x) => x.type === 'timeZoneName').value; // "GMT+01:00"
+  const m = /GMT([+-])(\d\d):(\d\d)/.exec(v);
+  return m ? (m[1] === '-' ? -1 : 1) * (Number(m[2]) + Number(m[3]) / 60) : 0;
+};
+const gapH = offsetH('Asia/Seoul') - offsetH('Europe/Madrid');
+const diffText = await pg.$eval('[data-clock-diff]', (e) => e.textContent);
+ok(new RegExp(`${gapH}시간 느려요`).test(diffText), `Barcelona ${gapH} h behind Seoul today (page says "${diffText.trim()}")`);
 const counts = await pg.$$eval('[data-count]', (els) => els.map((e) => parseInt(e.textContent)));
 ok(counts.reduce((a, c) => a + c, 0) <= pick.length && counts.every((n) => n >= 0), `open/soon/closed counts ${counts}`);
 const statuses = await pg.$$eval('.mt-status', (els) => els.map((e) => e.textContent));
