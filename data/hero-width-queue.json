@@ -3017,7 +3017,10 @@
   "ushuaia-cartel-ushuaia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Cartel_de_Ushuaia.jpg/3840px-Cartel_de_Ushuaia.jpg": 3840,
   "ushuaia-southern-fuegian-railway\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/End_of_The_World_Train_at_station.jpg/1920px-End_of_The_World_Train_at_station.jpg": 1920,
   "salta-san-bernardo-s-hill\u0001https://upload.wikimedia.org/wikipedia/commons/8/82/Salta_Desde_El_Cerro_San_Bernardo_%28242638079%29.jpeg": 2048,
-  "purmamarca-purmamarca-jujuy\u0001https://upload.wikimedia.org/wikipedia/commons/8/86/Jujuy_-_Tumbaya_-_Purmamarca_-_Pueblo_de_Purmamarca.jpg": 2304
+  "purmamarca-purmamarca-jujuy\u0001https://upload.wikimedia.org/wikipedia/commons/8/86/Jujuy_-_Tumbaya_-_Purmamarca_-_Pueblo_de_Purmamarca.jpg": 2304,
+  "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TOTAL_BWF_World_Champs_2015_Day_2_Carla_Nelte.jpg/3840px-TOTAL_BWF_World_Champs_2015_Day_2_Carla_Nelte.jpg": 3840,
+  "mandaluyong-pluck\u0001https://fastly.4sqi.net/img/general/original/2777214_efj_7sp7H-K3GwUSNOWh7bzjGEvDxGxbabhZIsFgNKI.jpg": 1440,
+  "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/2/23/ATP_World_Tour_Final_Tennis_at_The_02_Arena_London.jpg": 1600
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -3246,15 +3249,15 @@
   },
   "istanbul-lina-anatolian": {
    "width": 1024,
-   "attempts": 5,
-   "nextTry": "2026-10-25",
+   "attempts": 6,
+   "nextTry": "2026-11-01",
    "flaggedAt": "2026-09-17",
    "lastResult": "no-wider"
   },
   "jakarta-esa": {
    "width": 1080,
-   "attempts": 5,
-   "nextTry": "2026-10-25",
+   "attempts": 6,
+   "nextTry": "2026-11-01",
    "flaggedAt": "2026-09-17",
    "lastResult": "no-wider"
   },
@@ -3295,8 +3298,8 @@
   },
   "istanbul-bosphorus-view-point": {
    "width": 875,
-   "attempts": 4,
-   "nextTry": "2026-10-25",
+   "attempts": 5,
+   "nextTry": "2026-11-01",
    "flaggedAt": "2026-09-21",
    "lastResult": "no-wider"
   },
@@ -3537,5 +3540,5 @@
    "flaggedAt": "2026-10-21"
   }
  },
- "updated": "2026-10-25T13:18:21.713Z"
+ "updated": "2026-10-25T22:04:03.963Z"
 }

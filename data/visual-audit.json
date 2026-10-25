@@ -9050,8 +9050,8 @@
  "goyang-charlie-puth-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Charlie_Puth%2C_Regency_Ballroom%2C_San_Francisco_%28Nine_Track_Mind_Tour%29_2.jpg/3840px-Charlie_Puth%2C_Regency_Ballroom%2C_San_Francisco_%28Nine_Track_Mind_Tour%29_2.jpg": {
   "slug": "goyang-charlie-puth-concert",
   "verdict": "MATCH",
-  "reason": "patrol replace: Performer on stage at concert event",
-  "at": "2026-10-23T22:31:52.059Z"
+  "reason": "patrol replace: Performer on stage at concert venue",
+  "at": "2026-10-25T21:59:33.790Z"
  },
  "goyang-charlie-puth-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Charlie_Puth_al_Poble_Espanyol_%2857304%29.jpg/3840px-Charlie_Puth_al_Poble_Espanyol_%2857304%29.jpg": {
   "slug": "goyang-charlie-puth-concert",
@@ -9805,6 +9805,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Logo/banner graphic, not an actual photo of event",
   "at": "2026-10-22T00:08:49.434Z"
+ },
+ "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TOTAL_BWF_World_Champs_2015_Day_2_Carla_Nelte.jpg/3840px-TOTAL_BWF_World_Champs_2015_Day_2_Carla_Nelte.jpg": {
+  "slug": "hangzhou-bwf-world-tour-finals",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Badminton player at professional tournament venue",
+  "at": "2026-10-25T21:59:40.895Z"
  },
  "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TOTAL_BWF_World_Champs_2015_Day_2_Marc_Zwiebler.jpg/3840px-TOTAL_BWF_World_Champs_2015_Day_2_Marc_Zwiebler.jpg": {
   "slug": "hangzhou-bwf-world-tour-finals",
@@ -16248,8 +16254,8 @@
  "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Alvaro_Bautista-motogp-2015.JPG/3840px-Alvaro_Bautista-motogp-2015.JPG": {
   "slug": "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia",
   "verdict": "MATCH",
-  "reason": "patrol replace: MotoGP rider and bike at racing event venue",
-  "at": "2026-10-23T22:34:57.605Z"
+  "reason": "patrol replace: MotoGP rider and bike at racing event",
+  "at": "2026-10-25T21:59:51.334Z"
  },
  "lombok-mount-rinjani-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Lembah_Torean_Rinjani.jpg/1920px-Lembah_Torean_Rinjani.jpg": {
   "slug": "lombok-mount-rinjani-national-park",
@@ -16281,6 +16287,12 @@
   "verdict": "MISMATCH",
   "reason": "Image shows coastal bay, not waterfall",
   "at": "2026-07-25T02:46:05.832Z"
+ },
+ "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/2/23/ATP_World_Tour_Final_Tennis_at_The_02_Arena_London.jpg": {
+  "slug": "london-atp-finals",
+  "verdict": "MATCH",
+  "reason": "patrol replace: ATP Finals tennis court, indoor arena, crowded venue",
+  "at": "2026-10-25T21:59:57.449Z"
  },
  "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/3/31/Who_knew_John_Peers_had_this_much_hair%3F%21_-_23260071985.jpg": {
   "slug": "london-atp-finals",
@@ -17851,6 +17863,12 @@
   "verdict": "MATCH",
   "reason": "event-mode back-audit: MotoGP race pack action, valid event photo",
   "at": "2026-09-13T16:21:26.647Z"
+ },
+ "mandaluyong-pluck\u0001https://fastly.4sqi.net/img/general/original/2777214_efj_7sp7H-K3GwUSNOWh7bzjGEvDxGxbabhZIsFgNKI.jpg": {
+  "slug": "mandaluyong-pluck",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Modern upscale bar interior, Philippines aesthetic fits",
+  "at": "2026-10-25T22:00:04.078Z"
  },
  "manila-5sos-everyone-s-a-star-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/5_Seconds_of_Summer_at_Enmore_Theatre%2C_Sydney%2C_30.04.14.jpg/3840px-5_Seconds_of_Summer_at_Enmore_Theatre%2C_Sydney%2C_30.04.14.jpg": {
   "slug": "manila-5sos-everyone-s-a-star-world-tour",
@@ -22496,8 +22514,8 @@
  "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/5_Seconds_Of_Summer%2C_Hammersmith_Apollo%2C_London_%2846534757555%29.jpg/1920px-5_Seconds_Of_Summer%2C_Hammersmith_Apollo%2C_London_%2846534757555%29.jpg": {
   "slug": "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour",
   "verdict": "MATCH",
-  "reason": "patrol replace: Guitarist performing, plausibly 5SOS band member",
-  "at": "2026-10-23T22:37:47.828Z"
+  "reason": "patrol replace: Guitarist performing, plausibly 5SOS member",
+  "at": "2026-10-25T22:00:41.775Z"
  },
  "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/5_Seconds_of_Summer_First_USA_Acoustic_IMG_3798_%2814848886021%29.jpg/3840px-5_Seconds_of_Summer_First_USA_Acoustic_IMG_3798_%2814848886021%29.jpg": {
   "slug": "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour",
@@ -23725,6 +23743,12 @@
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: filename shares only \"ironman\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-25T08:13:38.835Z"
+ },
+ "puerto-princesa-ironman-70-3-puerto-princesa\u0001https://upload.wikimedia.org/wikipedia/commons/a/a1/Ironman_70.3_World_Championships_%289703304740%29.jpg": {
+  "slug": "puerto-princesa-ironman-70-3-puerto-princesa",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Cycling event, not Ironman triathlon venue",
+  "at": "2026-10-25T22:01:00.863Z"
  },
  "puerto-princesa-ironman-70-3-puerto-princesa\u0001https://upload.wikimedia.org/wikipedia/commons/d/db/Bart_Aernouts_Ironman_70.3_Austria_2012.jpg": {
   "slug": "puerto-princesa-ironman-70-3-puerto-princesa",
@@ -30648,20 +30672,20 @@
  "tokyo-the-kura\u0001https://live.staticflickr.com/44/138262874_720f18db21_k.jpg": {
   "slug": "tokyo-the-kura",
   "verdict": "MISMATCH",
-  "reason": "patrol reject: Dark, incidental architectural fragment, not representative venue shot",
-  "at": "2026-09-25T22:42:25.713Z"
+  "reason": "patrol reject: Just a window/facade fragment, not representative venue view",
+  "at": "2026-10-25T22:01:54.448Z"
  },
  "tokyo-the-kura\u0001https://live.staticflickr.com/51/138267530_ab1a874ed4_k.jpg": {
   "slug": "tokyo-the-kura",
   "verdict": "MISMATCH",
-  "reason": "patrol reject: Isolated lantern fixture, not representative venue view",
-  "at": "2026-09-25T22:42:27.809Z"
+  "reason": "patrol reject: Incidental lamp/wall fragment, not representative venue view",
+  "at": "2026-10-25T22:01:56.761Z"
  },
  "tokyo-the-kura\u0001https://live.staticflickr.com/55/138267469_42ed6054f3_k.jpg": {
   "slug": "tokyo-the-kura",
   "verdict": "MISMATCH",
-  "reason": "patrol reject: audit: Historic building facade, not a restaurant interior/food",
-  "at": "2026-09-25T22:42:30.869Z"
+  "reason": "patrol reject: audit: Traditional Japanese architecture, not trendy modern venue",
+  "at": "2026-10-25T22:03:00.035Z"
  },
  "tokyo-the-kura\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Kura_River_in_the_central_part_of_Tbilisi%2C_2007-09-28.jpg/3840px-Kura_River_in_the_central_part_of_Tbilisi%2C_2007-09-28.jpg": {
   "slug": "tokyo-the-kura",

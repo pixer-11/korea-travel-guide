@@ -5,7 +5,6 @@ country: Philippines
 region: Mandaluyong
 category: restaurant
 pubDate: '2026-09-02'
-gallery: []
 tags:
   - mandaluyong
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: Is Pluck good for a casual meal or a special occasion?
     a: Both work, but the wine pairing focus and elevated setting make it better suited to a relaxed date night or small group dinner than a quick solo meal.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/2777214_efj_7sp7H-K3GwUSNOWh7bzjGEvDxGxbabhZIsFgNKI.jpg
+  credit: 'Photo: Foursquare user content (Pluck)'
+  license: foursquare
+  source: https://foursquare.com/v/69a05b423dcde5583a2e33aa
+  focus:
+    x: 55
+    'y': 50
 ---
 
 ## What Pluck actually is
