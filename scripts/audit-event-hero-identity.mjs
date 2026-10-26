@@ -56,7 +56,12 @@ const STOP = new Set(['the', 'of', 'in', 'at', 'and', 'an', 'guide', 'travel', '
   'tickets', 'dates', 'venue', 'city', 'show', 'music', 'performing', 'during', 'stage', 'know',
   'what', 'fest']);
 
-const toks = (s) => decodeURIComponent(String(s))
+// Safe decode: callers pass names that are often ALREADY decoded, and a real
+// "%" left in one — Commons file "TripleS_@%_in_Vancouver.jpg" — made a second
+// decodeURIComponent throw URIError and killed the whole audit, so the publish
+// reported "자동 수리 단계 실패" (2026-10-26).
+const safeDecode = (s) => { try { return decodeURIComponent(s); } catch { return s; } };
+const toks = (s) => safeDecode(String(s))
   .toLowerCase().replace(/[^a-z0-9]+/g, ' ').split(' ')
   .filter((t) => t.length > 3 && !STOP.has(t) && !/^\d+$/.test(t));
 
