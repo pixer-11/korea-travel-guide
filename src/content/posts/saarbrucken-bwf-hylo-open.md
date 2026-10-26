@@ -12,6 +12,14 @@ eventOrganizer:
   name: Badminton World Federation
   url: https://bwfbadminton.com
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/20211106_Altes_Rathaus_Saarbr%C3%BCcken.jpg/1280px-20211106_Altes_Rathaus_Saarbr%C3%BCcken.jpg'
+  credit: 'Photo: Flocci Nivis (CC BY 4.0)'
+  license: wikimedia
+  source: 'File:20211106 Altes Rathaus Saarbrücken.jpg'
+  focus:
+    x: 50
+    y: 45
 tags:
   - saarbrücken
   - event

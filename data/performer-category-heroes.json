@@ -67,7 +67,7 @@
  "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/5_Seconds_Of_Summer%2C_Hammersmith_Apollo%2C_London_%2846534757555%29.jpg/1920px-5_Seconds_Of_Summer%2C_Hammersmith_Apollo%2C_London_%2846534757555%29.jpg",
   "category": "5 Seconds of Summer",
-  "at": "2026-10-26T14:40:24.647Z"
+  "at": "2026-10-26T23:22:15.809Z"
  },
  "jakarta-babymonsta-2026-27-world-tour-choom-in-jakarta": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Rora_Summer_Sonic_2026.jpg",
@@ -92,7 +92,7 @@
  "goyang-charlie-puth-concert": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Charlie_Puth%2C_Regency_Ballroom%2C_San_Francisco_%28Nine_Track_Mind_Tour%29_2.jpg/3840px-Charlie_Puth%2C_Regency_Ballroom%2C_San_Francisco_%28Nine_Track_Mind_Tour%29_2.jpg",
   "category": "Charlie Puth",
-  "at": "2026-10-26T14:34:08.336Z"
+  "at": "2026-10-26T23:17:57.534Z"
  },
  "seoul-melon-music-awards-mma-2026": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/IVE_2024_MMA_2.jpg",
@@ -743,5 +743,10 @@
   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Big_Bang_at_their_Big_Show_performance%2C_2011_-_3.jpg/3840px-Big_Bang_at_their_Big_Show_performance%2C_2011_-_3.jpg",
   "category": "Big Bang (musical group from South Korea)",
   "at": "2026-10-26T14:47:03.938Z"
+ },
+ "london-aespa-world-tour": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/241005_aespa_K-Link_Festival_%28cropped%29.jpg/3840px-241005_aespa_K-Link_Festival_%28cropped%29.jpg",
+  "category": "Aespa (musical group)",
+  "at": "2026-10-26T23:19:59.339Z"
  }
 }

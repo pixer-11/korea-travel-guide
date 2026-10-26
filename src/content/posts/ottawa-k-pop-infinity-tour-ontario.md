@@ -18,7 +18,6 @@ eventPerformer:
   name: K-POP INFINITY
   kind: group
 eventFactsAsked: true
-gallery: []
 tags:
   - ottawa
   - event
@@ -36,6 +35,14 @@ faq:
     a: It is usually cold, with evenings around or below freezing. Fans waiting outside for merch or trades tend to wear winter layers.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/3/36/TD_Place_field%2C_Ottawa.JPG
+  credit: 'Photo: Pjposullivan / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:TD_Place_field,_Ottawa.JPG
+  focus:
+    x: 50
+    'y': 50
 ---
 
 ## A K-pop production lands at Lansdowne

@@ -13,7 +13,6 @@ eventPerformer:
   name: aespa
   kind: group
 eventFactsAsked: true
-gallery: []
 tags:
   - london
   - event
@@ -31,6 +30,16 @@ faq:
     a: North Greenwich station often runs queue control after big shows. Many fans wait it out with food or a drink inside the dome, take a boat from North Greenwich Pier, or catch a bus towards Greenwich or Stratford instead.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/241005_aespa_K-Link_Festival_%28cropped%29.jpg/3840px-241005_aespa_K-Link_Festival_%28cropped%29.jpg
+  credit: 'Photo: plumflower snow / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:241005_aespa_K-Link_Festival_(cropped).jpg
+  focus:
+    x: 67
+    'y': 24
+    top: 15
+    bottom: 32
 ---
 
 ## One Saturday under the white canopy

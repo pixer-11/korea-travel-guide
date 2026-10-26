@@ -6510,5 +6510,21 @@
    "x": 50,
    "y": 45
   }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Municipio_de_De%C3%A1n_funes.jpg/1280px-Municipio_de_De%C3%A1n_funes.jpg": {
+  "w": 1280,
+  "h": 720,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/20211106_Altes_Rathaus_Saarbr%C3%BCcken.jpg/1280px-20211106_Altes_Rathaus_Saarbr%C3%BCcken.jpg": {
+  "w": 1280,
+  "h": 854,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
  }
 }

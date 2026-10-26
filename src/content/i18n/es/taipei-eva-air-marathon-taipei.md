@@ -2,88 +2,88 @@
 lang: es
 slug: taipei-eva-air-marathon-taipei
 srcHash: '3e825f13baa0'
-title: 'Maratón EVA Air (Taipéi): fechas, inscripciones y sede'
-description: El Maratón EVA Air se celebra en Taipéi (Taiwán) el domingo 25 de octubre de 2026. Su programa incluye un maratón, un medio maratón y carreras de 10km y 3km.
-quickAnswer: El Maratón EVA Air se celebra en Taipéi (Taiwán) el domingo 25 de octubre de 2026. Su programa incluye un maratón, un medio maratón y carreras de 10km y 3km. La prueba se disputa cada año desde 2018. En su web oficial encontrará la inscripción, el recorrido y la ubicación de la salida.
+title: 'Maratón EVA Air de Taipéi: fechas, inscripciones y sede'
+description: Para la edición 2026, el Maratón EVA Air de Taipéi (Taiwán) tenía fecha el domingo 25 de octubre de 2026. El programa incluía maratón, medio maratón, 10km y una carrera de 3km.
+quickAnswer: 'Para la edición 2026, el Maratón EVA Air de Taipéi (Taiwán) tenía fecha el domingo 25 de octubre de 2026. El programa reunía cuatro pruebas: maratón, medio maratón, 10km y 3km. La carrera se venía celebrando cada año desde 2018. La inscripción, el recorrido y la zona de salida se publicaban en su web oficial.'
 faq:
-  - q: ¿Cuándo se celebra el Maratón EVA Air de 2026?
-    a: La edición de 2026 del Maratón EVA Air de Taipéi tendrá lugar el domingo 25 de octubre de 2026. Es una carrera anual que se celebra en Taipéi desde 2018.
-  - q: ¿Qué distancias pueden elegirse?
-    a: 'Hay cuatro: el maratón completo, el medio maratón, una carrera de 10km y una carrera popular de 3km. Todas se disputan el mismo día.'
-  - q: ¿Qué tiempo suele hacer el día de la carrera?
-    a: A finales de octubre, Taipéi suele disfrutar de un clima templado, con máximas diurnas de entre veintipocos y veinticinco grados. La humedad sigue siendo bastante alta y el monzón del nordeste puede traer llovizna. Por eso los corredores suelen afrontarla como una carrera calurosa y llevan una capa ligera para la lluvia mientras esperan la salida.
-  - q: ¿Cómo llegan los corredores a la salida?
-    a: La mayoría utiliza el metro de Taipéi (MRT) y paga con la tarjeta EasyCard. La organización es la encargada de fijar la zona de salida y el plano del recorrido, que pueden consultarse en la web oficial de la carrera.
-  - q: ¿Dónde suelen alojarse los corredores que vienen de fuera?
-    a: Muchos eligen la zona de la estación principal de Taipéi (Taipei Main Station). Allí termina el metro del aeropuerto de Taoyuan y confluyen varias líneas del metro urbano, de modo que el resto de la ciudad queda muy a mano.
+  - q: ¿Cuándo era el Maratón EVA Air 2026?
+    a: La edición 2026 del Maratón EVA Air de Taipéi tenía fecha el domingo 25 de octubre de 2026. Era una carrera anual que se venía celebrando en Taipéi desde 2018.
+  - q: ¿Qué distancias se ofrecían?
+    a: 'Eran cuatro: maratón, medio maratón, 10km y una carrera popular de 3km. Las cuatro se disputaban el mismo día.'
+  - q: ¿Qué tiempo solía hacer durante la carrera?
+    a: A finales de octubre, Taipéi suele tener un clima suave, con máximas diurnas de entre 20 y 25 grados. La humedad se mantiene bastante alta y el monzón del noreste puede traer llovizna. Por eso los corredores solían afrontarla como una carrera de calor y llevaban una capa ligera contra la lluvia para la salida.
+  - q: ¿Cómo llegaban los corredores a la salida?
+    a: La mayoría iba en el metro de Taipéi (MRT) y pagaba con la EasyCard. La organización determinaba la zona de salida y el mapa del recorrido, y ambos se publicaban en la web oficial de la carrera.
+  - q: ¿Dónde solían alojarse los corredores que venían de fuera?
+    a: Muchos se alojaban cerca de la estación Central de Taipéi (Taipei Main Station). Allí termina el MRT del aeropuerto de Taoyuan y se cruzan varias líneas del metro urbano, de modo que el resto de Taipéi quedaba muy a mano.
 ---
 
 ## Un domingo de finales de octubre
 
-La edición de 2026 se disputará el domingo 25 de octubre. Para entonces ya habrá llegado el otoño a Taipéi y habrá pasado lo peor del calor estival. Es la época en que el calendario de carreras de la ciudad está más cargado.
+Para la edición de 2026 se anunció el domingo 25 de octubre. Era plena temporada de otoño en Taipéi: el peor calor del verano ya había pasado y el calendario de carreras de la ciudad vivía sus semanas más intensas.
 
-La prueba debe su nombre a EVA Air, la aerolínea taiwanesa con sede en Taoyuan. Se celebra cada año desde 2018, así que es un evento joven si se compara con los maratones urbanos más veteranos de Asia. Aun así, ya ocupa un hueco fijo en el calendario internacional.
+La prueba toma su nombre de EVA Air, la aerolínea taiwanesa con sede en Taoyuan. Se venía disputando cada año desde 2018, de modo que era un evento joven si se compara con los grandes maratones urbanos más veteranos de Asia. Aun así, ya se había ganado un hueco fijo en el calendario internacional.
 
-## Cuatro distancias en una misma mañana
+## Cuatro distancias en una sola mañana
 
-No hace falta ser maratoniano para participar. El programa reúne cuatro carreras:
+No hacía falta ser maratoniano para participar. El programa constaba de cuatro carreras:
 
 - **Maratón**: la prueba reina, de 42.195km.
-- **Medio maratón**: 21.1km. Muchos corredores extranjeros eligen esta distancia para su primera carrera fuera de casa.
-- **10km**: una opción rápida y compacta para quien quiera tener la tarde libre.
-- **3km**: una breve carrera popular que familias y participantes ocasionales suelen tomarse como un paseo por la ciudad con medalla al final.
+- **Medio maratón**: 21.1km, la distancia que muchos corredores extranjeros elegían para estrenarse fuera de su país.
+- **10km**: una opción rápida y compacta para quien quisiera conservar libre la tarde.
+- **3km**: una carrera popular corta que las familias y los participantes ocasionales solían vivir como un paseo por la ciudad con medalla final.
 
-Como todas las distancias se corren el mismo día, en la zona de salida coinciden corredores de élite, equipos de empresa y padres con carritos de bebé. Por lo general, los participantes del maratón salen primero y las carreras más cortas lo hacen a continuación. La organización fija los horarios de salida y el orden de los cajones de cada distancia, y los publica en la web oficial de la carrera.
+Como todas las distancias coincidían en el mismo día, por la zona de salida pasaban corredores de élite, equipos de empresa y padres con carritos de bebé. Lo habitual era que el maratón saliera primero y que las pruebas más cortas lo siguieran. El horario de salida y el orden de los cajones de cada distancia los fijaba la organización, y se publicaban en la web oficial de la carrera.
 
-## Por dónde pasa el recorrido
+## Por dónde pasaba el recorrido
 
-Taipéi ocupa una cuenca llana rodeada de colinas verdes. Gracias a ese relieve, la ciudad resulta más amable para el corredor de lo que hacen pensar las montañas que la rodean.
+Taipéi ocupa una cuenca llana rodeada de colinas verdes. Por esa forma, la ciudad resulta mucho más amable para correr de lo que hace pensar su telón de fondo montañoso.
 
-Las pruebas de fondo suelen discurrir por las grandes avenidas y por los parques ribereños de los ríos Tamsui y Keelung, que bordean buena parte de la ciudad con carriles bici y amplias praderas. La organización es la que determina la salida, la meta y el trazado exactos de 2026, y el plano del recorrido puede consultarse en la web oficial de la carrera.
+Las carreras de fondo de la ciudad suelen aprovechar sus amplias avenidas y los parques fluviales que bordean los ríos Tamsui y Keelung. Estos parques, con carriles bici y grandes praderas, recorren buena parte del perímetro urbano. La salida, la meta y el trazado exactos de 2026 dependían de la organización, y el mapa del recorrido figuraba en la web oficial de la carrera.
 
-Esté donde esté la línea de salida, la mayoría de los corredores llega en el metro de Taipéi (MRT). Sus líneas, identificadas por colores, llegan a casi todos los distritos, y la señalización de las estaciones está en inglés y en chino.
+Estuviera donde estuviera la línea de salida, la mayoría de los corredores llegaba en el metro de Taipéi (MRT). Sus líneas, identificadas por colores, llegan a casi todos los distritos, y las estaciones están señalizadas en inglés y en chino.
 
 ## La cuenca en la última semana de octubre
 
-Lo que define esta carrera es el tiempo de finales de octubre. El verano de Taipéi es largo y muy húmedo, pero cuando octubre toca a su fin el ambiente ya suele haber refrescado y las máximas diurnas rondan los veintipocos o los veinticinco grados.
+El tiempo de finales de octubre era la gran baza de esta carrera. En Taipéi el verano es largo y muy húmedo, pero a final de octubre las máximas diurnas suelen haber bajado a una franja de entre 20 y 25 grados.
 
-Eso no garantiza que no llueva. En esta época del año, el monzón del nordeste empieza a cubrir de nubes grises el norte de Taiwán y a traer llovizna. Además, la humedad sigue siendo alta para lo que se acostumbra en Europa o Norteamérica.
+Eso no garantiza un día seco. En esta época del año, el monzón del noreste empieza a traer al norte de Taiwán cielos grises y llovizna. Además, la humedad sigue siendo alta para lo que se acostumbra en Europa o Norteamérica.
 
-Quienes entrenan en climas frescos suelen afrontarla como una carrera calurosa:
+Quienes entrenaban en climas frescos solían afrontarla como una carrera de calor:
 
-- Beben en los avituallamientos desde los primeros kilómetros, sin esperar a tener sed.
-- Llevan un cortavientos impermeable ligero o un chubasquero desechable para la espera en la salida.
-- Guardan una muda seca en la bolsa que dejan en el guardarropa.
+- Bebían en los avituallamientos desde los primeros kilómetros, sin esperar a tener sed.
+- Llevaban un chubasquero ligero o un poncho desechable para la espera en la salida.
+- Dejaban ropa seca de recambio en la bolsa del guardarropa.
 
-## Ánimos, colas y pagos el día de la carrera
+## Ánimos, colas y pagos la mañana de la carrera
 
-Las mañanas de carrera en Taipéi siguen unas cuantas normas no escritas. Conocerlas le facilitará la jornada.
+Las mañanas de carrera en Taipéi siguen algunas normas no escritas que hacían más llevadera la jornada.
 
-**Desplazamientos.** La mayoría de los vecinos pasa los torniquetes del metro con la EasyCard, una tarjeta prepago que se compra y se recarga en las máquinas de las estaciones y en las tiendas de conveniencia. También sirve para pagar en 7-Eleven y FamilyMart, algo muy práctico a la hora de comprar una bebida después de la carrera. Dentro de las estaciones y los trenes del metro está prohibido comer y beber, así que termínese el plátano en las escaleras de fuera, antes de bajar al andén.
+**Desplazamientos.** La mayoría de los vecinos pasa los torniquetes del MRT con la EasyCard, una tarjeta recargable que se compra y se recarga en las máquinas de las estaciones y en las tiendas de conveniencia. También sirve para pagar en 7-Eleven y FamilyMart, algo práctico para comprar una bebida después de la carrera. Dentro de las estaciones y los trenes del MRT está prohibido comer y beber, así que el plátano se terminaba fuera, en las escaleras de acceso.
 
-**Colas.** En los andenes, los viajeros taiwaneses hacen cola en carriles señalizados y dejan salir antes de subir. La mañana de la carrera, los vagones se llenan de corredores con dorsal, pero se mantiene el mismo orden.
+**Colas.** En el andén, los viajeros taiwaneses forman fila en los carriles marcados y dejan salir antes de subir. La mañana de la carrera, los vagones se llenaban de corredores con dorsal y se mantenía el mismo orden.
 
-**Ánimos.** Desde las aceras oirá constantemente *jiayou* (加油). Literalmente significa «echa aceite», y se usa para decir «¡ánimo, sigue!». Si se lo devuelve a voluntarios y espectadores, le responderán siempre con una sonrisa.
+**Ánimos.** Desde las aceras se oía sobre todo *jiayou* (加油), que literalmente significa «echa aceite» y equivale a «¡vamos, sigue!». Devolver el grito a voluntarios y espectadores arrancaba siempre una sonrisa.
 
-**Pagos.** En Taiwán no hay costumbre de dejar propina, ni en los restaurantes ni en ningún otro sitio. Los pequeños locales de desayunos y los puestos de los mercados nocturnos suelen aceptar solo efectivo, mientras que los restaurantes grandes y las cadenas normalmente admiten tarjeta.
+**Pagos.** En Taiwán la propina no forma parte de la vida diaria, ni en los restaurantes ni en ningún otro sitio. Los pequeños locales de desayunos y los puestos de los mercados nocturnos suelen cobrar en efectivo, mientras que los restaurantes grandes y las cadenas aceptan tarjeta por lo general.
 
 ## Después de la meta: leche de soja, fideos y aguas termales
 
-La cultura del desayuno de Taipéi le sienta de maravilla a un corredor cansado. En los locales tradicionales sirven *doujiang* (leche de soja) caliente acompañada de *youtiao* (tiras de masa frita) y *shaobing* (pan plano hojaldrado con sésamo). Muchos cierran a media mañana, lo que encaja bien con cruzar la meta antes del mediodía.
+La cultura del desayuno de Taipéi le sienta de maravilla a un corredor agotado. En los locales tradicionales se sirve *doujiang* (leche de soja) caliente con *youtiao* (barritas de masa frita) y *shaobing* (pan plano hojaldrado con sésamo). Muchos cierran a media mañana, un horario que encajaba bien con quien cruzaba la meta antes del mediodía.
 
-Más tarde, la comida clásica para recuperarse es la sopa de fideos con ternera. La calle Yongkang (Yongkang Street), cerca de la estación de Dongmen, en las líneas roja y naranja, es famosa por ella. En esa misma zona se encuentra el Din Tai Fung original de la avenida Xinyi, célebre por sus empanadillas rellenas de caldo.
+Más tarde, la sopa de fideos con ternera es la comida de recuperación por excelencia. La calle Yongkang (Yongkang Street), junto a la estación de Dongmen, en las líneas roja y naranja, tiene fama por ella. En esa misma zona se encuentra el Din Tai Fung original de la avenida Xinyi (Xinyi Road), célebre por sus *xiaolongbao*, las empanadillas rellenas de caldo.
 
-Para aliviar las piernas doloridas, los taipeineses se van al norte, a Beitou. La estación de Xinbeitou está en un pequeño ramal de la línea roja, y los baños termales de la zona son una tradición muy arraigada en la ciudad. En los baños públicos hay que ducharse antes de entrar en el agua, y algunos tienen sus propias normas sobre el traje de baño.
+Para aliviar las piernas, los taipeiños suben hacia Beitou, al norte. La estación de Xinbeitou está en un pequeño ramal de la línea roja, y los baños termales de la zona son una tradición muy arraigada en la ciudad. En los baños públicos hay que ducharse antes de entrar al agua, y algunos establecimientos tienen sus propias normas sobre el bañador.
 
 ## De una carrera a un fin de semana largo
 
-La mayoría de los corredores que vienen de fuera aterriza en el aeropuerto internacional de Taoyuan, la base de EVA Air. El metro del aeropuerto de Taoyuan (Taoyuan Airport MRT) lo une con la estación principal de Taipéi, y muchos visitantes se alojan en sus alrededores porque allí confluyen numerosas líneas de metro.
+La mayoría de los corredores extranjeros llegaba por el Aeropuerto Internacional de Taoyuan, base de EVA Air. El MRT del aeropuerto lo une con la estación Central de Taipéi (Taipei Main Station), y muchos visitantes se alojaban en sus alrededores porque allí confluyen numerosas líneas de metro.
 
-Los días previos y posteriores a la carrera dan para conocer los lugares más emblemáticos de la ciudad:
+Los días previos y posteriores a la carrera daban margen para conocer los grandes reclamos de la ciudad:
 
-- **Taipei 101** y el distrito de Xinyi, junto a la estación de Taipei 101/World Trade Center, en la línea roja.
-- **El monte Elefante (Xiangshan)**: una subida corta y empinada por escaleras que regala la vista clásica de la torre. Muchos corredores prefieren hacerla el día antes de la carrera y no el día después.
-- **El templo Longshan**, en Wanhua, al lado de la estación de Longshan Temple, en la línea azul.
-- **Los mercados nocturnos de Shilin o Raohe**, para pasar la noche probando comida callejera.
+- **Taipei 101** y el distrito de Xinyi, en la estación Taipei 101/World Trade Center de la línea roja.
+- **La montaña del Elefante (Xiangshan)**, una subida corta y empinada por escaleras con la vista clásica de la torre. Muchos corredores la reservaban para la víspera y no para el día siguiente a la carrera.
+- **El templo Longshan**, en Wanhua, junto a la estación Longshan Temple de la línea azul.
+- **Los mercados nocturnos de Shilin o Raohe**, para una velada de comida callejera.
 
-A finales de octubre, en Taipéi hace el fresco suficiente para recorrer la ciudad a pie durante todo el día. Eso explica, en buena parte, por qué tantos corredores vienen a competir aquí.
+A finales de octubre, en Taipéi hace el fresco justo para recorrerla a pie de la mañana a la noche, y eso explicaba la mitad del atractivo de correr aquí.

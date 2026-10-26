@@ -4878,6 +4878,30 @@
   "reason": "patrol reject: Religious procession, unrelated to Buenos Aires Heritage Week",
   "at": "2026-10-25T23:22:00.725Z"
  },
+ "buenos-aires-semana-del-patrimonio-de-buenos-aires-heritage-week\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Semana_da_M%C3%BAsica_Cl%C3%A1udia_Castelo_Branco_03.jpg/3840px-Semana_da_M%C3%BAsica_Cl%C3%A1udia_Castelo_Branco_03.jpg": {
+  "slug": "buenos-aires-semana-del-patrimonio-de-buenos-aires-heritage-week",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Pianist on stage, unrelated to heritage buildings event",
+  "at": "2026-10-26T23:17:08.401Z"
+ },
+ "buenos-aires-semana-del-patrimonio-de-buenos-aires-heritage-week\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Semana_da_M%C3%BAsica_Cl%C3%A1udia_Castelo_Branco_04.jpg/3840px-Semana_da_M%C3%BAsica_Cl%C3%A1udia_Castelo_Branco_04.jpg": {
+  "slug": "buenos-aires-semana-del-patrimonio-de-buenos-aires-heritage-week",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Concert pianist, unrelated to heritage buildings event",
+  "at": "2026-10-26T23:17:03.447Z"
+ },
+ "buenos-aires-semana-del-patrimonio-de-buenos-aires-heritage-week\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Semana_da_M%C3%BAsica_Cl%C3%A1udia_Castelo_Branco_05.jpg/3840px-Semana_da_M%C3%BAsica_Cl%C3%A1udia_Castelo_Branco_05.jpg": {
+  "slug": "buenos-aires-semana-del-patrimonio-de-buenos-aires-heritage-week",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Pianist performance, unrelated to heritage buildings event",
+  "at": "2026-10-26T23:17:22.430Z"
+ },
+ "buenos-aires-semana-del-patrimonio-de-buenos-aires-heritage-week\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Misterio_del_Buen_Fin_Semana_Santa_2025.jpg/3840px-Misterio_del_Buen_Fin_Semana_Santa_2025.jpg": {
+  "slug": "buenos-aires-semana-del-patrimonio-de-buenos-aires-heritage-week",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Religious procession in Spain, unrelated to Buenos Aires Heritage Week",
+  "at": "2026-10-26T23:16:56.139Z"
+ },
  "buenos-aires-semana-del-patrimonio-de-buenos-aires-heritage-week\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Ceremonia_inaugural_de_la_semana_Criolla_2024_23.jpg/3840px-Ceremonia_inaugural_de_la_semana_Criolla_2024_23.jpg": {
   "slug": "buenos-aires-semana-del-patrimonio-de-buenos-aires-heritage-week",
   "verdict": "MISMATCH",
@@ -8693,6 +8717,30 @@
   "reason": "hand-reviewed: filename shares only \"cluster\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-26T19:00:10.619Z"
  },
+ "funes-the-cluster-2026\u0001https://upload.wikimedia.org/wikipedia/commons/9/9c/Graff%27s_Cluster_July_13_2026.png": {
+  "slug": "funes-the-cluster-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Star field image, unrelated to the event",
+  "at": "2026-10-26T23:17:35.219Z"
+ },
+ "funes-the-cluster-2026\u0001https://upload.wikimedia.org/wikipedia/commons/e/e4/Mothra_Cluster_July_11_2026.png": {
+  "slug": "funes-the-cluster-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Star field, not event venue or Funes",
+  "at": "2026-10-26T23:17:45.116Z"
+ },
+ "funes-the-cluster-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/City_of_London_building_cluster_2026-07-08.jpg/3840px-City_of_London_building_cluster_2026-07-08.jpg": {
+  "slug": "funes-the-cluster-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: London skyline, unrelated to Funes, Argentina event",
+  "at": "2026-10-26T23:17:40.255Z"
+ },
+ "funes-the-cluster-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/City_of_London_tall_building_cluster_2026-07-08.jpg/3840px-City_of_London_tall_building_cluster_2026-07-08.jpg": {
+  "slug": "funes-the-cluster-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: London skyline, not Funes, Argentina venue",
+  "at": "2026-10-26T23:17:48.830Z"
+ },
  "fussen-benediktinerkloster-st-mang\u0001https://upload.wikimedia.org/wikipedia/commons/3/3e/Benediktinerkloster_St._Mang_-_panoramio_%281%29.jpg": {
   "slug": "fussen-benediktinerkloster-st-mang",
   "verdict": "MATCH",
@@ -9248,8 +9296,8 @@
  "goyang-charlie-puth-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Charlie_Puth%2C_Regency_Ballroom%2C_San_Francisco_%28Nine_Track_Mind_Tour%29_2.jpg/3840px-Charlie_Puth%2C_Regency_Ballroom%2C_San_Francisco_%28Nine_Track_Mind_Tour%29_2.jpg": {
   "slug": "goyang-charlie-puth-concert",
   "verdict": "MATCH",
-  "reason": "patrol replace: Performer on stage at concert venue",
-  "at": "2026-10-26T14:34:08.336Z"
+  "reason": "patrol replace: Performer on stage with concert lighting setup",
+  "at": "2026-10-26T23:17:57.534Z"
  },
  "goyang-charlie-puth-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Charlie_Puth_al_Poble_Espanyol_%2857304%29.jpg/3840px-Charlie_Puth_al_Poble_Espanyol_%2857304%29.jpg": {
   "slug": "goyang-charlie-puth-concert",
@@ -10016,6 +10064,12 @@
   "reason": "patrol reject: Different event (World Junior Championships), not World Tour Finals",
   "at": "2026-10-22T22:38:45.649Z"
  },
+ "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/8/8c/TOTAL_BWF_World_Champs_2015_Day_2_Keigo_Sonoda.jpg": {
+  "slug": "hangzhou-bwf-world-tour-finals",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Badminton player at professional tournament event",
+  "at": "2026-10-26T23:18:07.140Z"
+ },
  "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/a/ad/TOTAL_BWF_World_Champs_2015_Day_2_Iris_Tabeling.jpg": {
   "slug": "hangzhou-bwf-world-tour-finals",
   "verdict": "MISMATCH",
@@ -10634,11 +10688,35 @@
   "reason": "patrol reject: width: 221px < 1024",
   "at": "2026-08-30T22:07:30.846Z"
  },
+ "ho-chi-minh-city-vietnam-open-badminton\u0001https://upload.wikimedia.org/wikipedia/commons/2/25/Badminton_court_view.jpg": {
+  "slug": "ho-chi-minh-city-vietnam-open-badminton",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Indoor badminton court with shuttlecocks and racket",
+  "at": "2026-10-26T23:18:55.734Z"
+ },
  "ho-chi-minh-city-vietnam-open-badminton\u0001https://upload.wikimedia.org/wikipedia/commons/9/90/Badminton_racket.jpg": {
   "slug": "ho-chi-minh-city-vietnam-open-badminton",
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: filename shares only \"badminton\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-26T19:00:11.002Z"
+ },
+ "ho-chi-minh-city-vietnam-open-badminton\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/140922-Z-PL933-088_%2815415878652%29.jpg/3840px-140922-Z-PL933-088_%2815415878652%29.jpg": {
+  "slug": "ho-chi-minh-city-vietnam-open-badminton",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Military rescue drill, unrelated to badminton event",
+  "at": "2026-10-26T23:18:52.288Z"
+ },
+ "ho-chi-minh-city-vietnam-open-badminton\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/140924-Z-PL933-334_%2815413272181%29.jpg/3840px-140924-Z-PL933-334_%2815413272181%29.jpg": {
+  "slug": "ho-chi-minh-city-vietnam-open-badminton",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Tug-of-war soldiers, unrelated to badminton event",
+  "at": "2026-10-26T23:18:50.935Z"
+ },
+ "ho-chi-minh-city-vietnam-open-badminton\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/140923-Z-PL933-026_%2815416581115%29.jpg/3840px-140923-Z-PL933-026_%2815416581115%29.jpg": {
+  "slug": "ho-chi-minh-city-vietnam-open-badminton",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Military training scene, unrelated to badminton event",
+  "at": "2026-10-26T23:18:48.692Z"
  },
  "ho-chi-minh-city-war-remnants-museum\u0001https://fastly.4sqi.net/img/general/original/40427565_DRRKdHilxlcOXTRllvvz568cKZSlxYRnh7JSSDHGlUY.jpg": {
   "slug": "ho-chi-minh-city-war-remnants-museum",
@@ -16566,8 +16644,8 @@
  "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Alvaro_Bautista-motogp-2015.JPG/3840px-Alvaro_Bautista-motogp-2015.JPG": {
   "slug": "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia",
   "verdict": "MATCH",
-  "reason": "patrol replace: MotoGP rider and bike at racing event",
-  "at": "2026-10-26T14:37:25.425Z"
+  "reason": "patrol replace: MotoGP rider, bike, pit garage setting",
+  "at": "2026-10-26T23:19:36.198Z"
  },
  "lombok-mount-rinjani-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Lembah_Torean_Rinjani.jpg/1920px-Lembah_Torean_Rinjani.jpg": {
   "slug": "lombok-mount-rinjani-national-park",
@@ -16600,11 +16678,35 @@
   "reason": "Image shows coastal bay, not waterfall",
   "at": "2026-07-25T02:46:05.832Z"
  },
+ "london-aespa-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/241005_aespa_K-Link_Festival_02.jpg/3840px-241005_aespa_K-Link_Festival_02.jpg": {
+  "slug": "london-aespa-world-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Visible watermark overlaid on photo",
+  "at": "2026-10-26T23:19:54.953Z"
+ },
+ "london-aespa-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/241005_aespa_K-Link_Festival_%28cropped%29.jpg/3840px-241005_aespa_K-Link_Festival_%28cropped%29.jpg": {
+  "slug": "london-aespa-world-tour",
+  "verdict": "MATCH",
+  "reason": "patrol replace: aespa performance photo, concert event documentation",
+  "at": "2026-10-26T23:19:59.339Z"
+ },
+ "london-aespa-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/241005_aespa_K-Link_Festival.jpg/3840px-241005_aespa_K-Link_Festival.jpg": {
+  "slug": "london-aespa-world-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Visible watermark/credit text overlaid on photo",
+  "at": "2026-10-26T23:19:52.963Z"
+ },
  "london-aespa-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/20250306_Aespa_Amsterdam_concert_02.jpg/1920px-20250306_Aespa_Amsterdam_concert_02.jpg": {
   "slug": "london-aespa-world-tour",
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: filename shares only \"aespa\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-26T19:00:11.193Z"
+ },
+ "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/1/1e/Novak_Djokovic_at_the_ATP_Tennis_World_Finals.jpg": {
+  "slug": "london-atp-finals",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Tennis player at ATP Finals on blue court",
+  "at": "2026-10-26T23:20:16.861Z"
  },
  "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/2/23/ATP_World_Tour_Final_Tennis_at_The_02_Arena_London.jpg": {
   "slug": "london-atp-finals",
@@ -16618,6 +16720,18 @@
   "reason": "patrol reject: Photo of advertising banner, not actual event/players",
   "at": "2026-10-19T23:04:32.251Z"
  },
+ "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/3/37/Sydney_International_Tennis_ATP_250_%2846001156835%29.jpg": {
+  "slug": "london-atp-finals",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Visible watermark/credit overlaid on photo",
+  "at": "2026-10-26T23:20:11.246Z"
+ },
+ "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/8/8b/Sydney_International_Tennis_ATP_%2833040174978%29.jpg": {
+  "slug": "london-atp-finals",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Visible photographer watermark overlaid on image",
+  "at": "2026-10-26T23:20:09.100Z"
+ },
  "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/f/ff/Rafa_Nadal_exits_O2_Arena_after_defeat_to_defending_champion_Alexander_Zverev_at_Nitto_ATP_Finals_2019_%2849052005756%29.jpg": {
   "slug": "london-atp-finals",
   "verdict": "MISMATCH",
@@ -16629,6 +16743,12 @@
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: filename shares only \"finals\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-24T02:12:34.707Z"
+ },
+ "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Cincinnati-Tennis-2015-ATP-WTA-98_%2820232731523%29.jpg/3840px-Cincinnati-Tennis-2015-ATP-WTA-98_%2820232731523%29.jpg": {
+  "slug": "london-atp-finals",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Visible photographer watermark overlaid on image",
+  "at": "2026-10-26T23:20:13.484Z"
  },
  "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Doubles_at_the_ATP_Finals_%2849070105758%29.jpg/3840px-Doubles_at_the_ATP_Finals_%2849070105758%29.jpg": {
   "slug": "london-atp-finals",
@@ -21071,6 +21191,12 @@
   "reason": "hand-reviewed: filename shares no word with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-26T19:00:11.568Z"
  },
+ "new-york-nba-christmas-day-games\u0001https://upload.wikimedia.org/wikipedia/commons/e/ea/Partido_NBA_-i---i-_%2832248212036%29.jpg": {
+  "slug": "new-york-nba-christmas-day-games",
+  "verdict": "MATCH",
+  "reason": "patrol replace: NBA game at indoor arena, purple team uniforms visible",
+  "at": "2026-10-26T23:21:26.503Z"
+ },
  "new-york-ocean-prime\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Ocean_Prime_Phoenix_%2833119074285%29.jpg/1920px-Ocean_Prime_Phoenix_%2833119074285%29.jpg": {
   "slug": "new-york-ocean-prime",
   "verdict": "MATCH",
@@ -22075,6 +22201,12 @@
   "reason": "hand-reviewed: filename shares no word with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-26T19:00:11.760Z"
  },
+ "ottawa-k-pop-infinity-tour-ontario\u0001https://upload.wikimedia.org/wikipedia/commons/3/36/TD_Place_field%2C_Ottawa.JPG": {
+  "slug": "ottawa-k-pop-infinity-tour-ontario",
+  "verdict": "MATCH",
+  "reason": "patrol replace: TD Place stadium in Ottawa, Canada",
+  "at": "2026-10-26T23:22:04.349Z"
+ },
  "ottawa-national-gallery-of-canada\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Ottawa_-_ON_-_National_Gallery_of_Canada.jpg/1920px-Ottawa_-_ON_-_National_Gallery_of_Canada.jpg": {
   "slug": "ottawa-national-gallery-of-canada",
   "verdict": "MATCH",
@@ -22946,8 +23078,8 @@
  "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/5_Seconds_Of_Summer%2C_Hammersmith_Apollo%2C_London_%2846534757555%29.jpg/1920px-5_Seconds_Of_Summer%2C_Hammersmith_Apollo%2C_London_%2846534757555%29.jpg": {
   "slug": "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour",
   "verdict": "MATCH",
-  "reason": "patrol replace: Guitarist performing on stage, plausible concert act",
-  "at": "2026-10-26T14:40:24.647Z"
+  "reason": "patrol replace: Musician with guitar, plausibly 5SOS performer",
+  "at": "2026-10-26T23:22:15.809Z"
  },
  "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/5_Seconds_of_Summer_First_USA_Acoustic_IMG_3798_%2814848886021%29.jpg/3840px-5_Seconds_of_Summer_First_USA_Acoustic_IMG_3798_%2814848886021%29.jpg": {
   "slug": "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour",
@@ -24876,6 +25008,12 @@
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: filename shares no word with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-26T19:00:12.141Z"
+ },
+ "saarbrucken-bwf-hylo-open\u0001https://upload.wikimedia.org/wikipedia/commons/3/3e/Bwf_Profile.png": {
+  "slug": "saarbrucken-bwf-hylo-open",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: BWF website screenshot, not event or athlete photo",
+  "at": "2026-10-26T23:22:49.044Z"
  },
  "saarbrucken-bwf-hylo-open\u0001https://upload.wikimedia.org/wikipedia/commons/f/f8/HSBC_BWF_Badminton_World_Tour.jpg": {
   "slug": "saarbrucken-bwf-hylo-open",
@@ -28057,6 +28195,30 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Wax figure, not actual performer or event photo",
   "at": "2026-10-25T23:27:46.480Z"
+ },
+ "singapore-jay-chou-carnival-ii-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/4/4e/Jay_Chou_wax_figure_in_Hongkong%27s_Madame_Tussauds_museum.jpg": {
+  "slug": "singapore-jay-chou-carnival-ii-world-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Wax figures museum scene, not Jay Chou concert event",
+  "at": "2026-10-26T23:24:02.480Z"
+ },
+ "singapore-jay-chou-carnival-ii-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/6/62/Jay_Nemor_in_concert_%28223425%29.jpg": {
+  "slug": "singapore-jay-chou-carnival-ii-world-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Generic band photo, not Jay Chou concert",
+  "at": "2026-10-26T23:24:00.766Z"
+ },
+ "singapore-jay-chou-carnival-ii-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/b/b6/Jay_Hoggard.jpg": {
+  "slug": "singapore-jay-chou-carnival-ii-world-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated musician photo, not Jay Chou concert",
+  "at": "2026-10-26T23:24:04.077Z"
+ },
+ "singapore-jay-chou-carnival-ii-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Jay_Chou_Opus_Tour_Hong_Kong_2013_IMG_2324w_%289788756223%29.jpg/3840px-Jay_Chou_Opus_Tour_Hong_Kong_2013_IMG_2324w_%289788756223%29.jpg": {
+  "slug": "singapore-jay-chou-carnival-ii-world-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Visible photographer watermark overlay",
+  "at": "2026-10-26T23:23:59.179Z"
  },
  "singapore-jay-chou-carnival-ii-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Jay_Chou_Opus_Tour_Hong_Kong_2013_IMG_2511w_%289788670546%29.jpg/3840px-Jay_Chou_Opus_Tour_Hong_Kong_2013_IMG_2511w_%289788670546%29.jpg": {
   "slug": "singapore-jay-chou-carnival-ii-world-tour",

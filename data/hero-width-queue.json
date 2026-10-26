@@ -3096,55 +3096,61 @@
   "purmamarca-cerro-de-los-siete-colores\u0001https://upload.wikimedia.org/wikipedia/commons/0/0a/Cerro_de_los_siete_colores.jpg": 1600,
   "tokyo-bigbang-japan-dome-tour-tokyo\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Big_Bang_at_their_Big_Bang_Big_Show_performance%2C_2011_-_2.jpg/3840px-Big_Bang_at_their_Big_Bang_Big_Show_performance%2C_2011_-_2.jpg": 3840,
   "tbilisi-viewpoint\u0001https://upload.wikimedia.org/wikipedia/commons/5/51/View_to_Tbilisi_from_Betlemi_Rise_Viewpoint-2%2C_May%2C_2022.jpg": 2903,
-  "tigre-museo-de-arte-de-tigre\u0001https://upload.wikimedia.org/wikipedia/commons/9/99/Museo_de_Arte_Tigre_00.jpg": 1408
+  "tigre-museo-de-arte-de-tigre\u0001https://upload.wikimedia.org/wikipedia/commons/9/99/Museo_de_Arte_Tigre_00.jpg": 1408,
+  "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/8/8c/TOTAL_BWF_World_Champs_2015_Day_2_Keigo_Sonoda.jpg": 1616,
+  "ho-chi-minh-city-vietnam-open-badminton\u0001https://upload.wikimedia.org/wikipedia/commons/2/25/Badminton_court_view.jpg": 1280,
+  "london-aespa-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/241005_aespa_K-Link_Festival_%28cropped%29.jpg/3840px-241005_aespa_K-Link_Festival_%28cropped%29.jpg": 3840,
+  "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/1/1e/Novak_Djokovic_at_the_ATP_Tennis_World_Finals.jpg": 1695,
+  "new-york-nba-christmas-day-games\u0001https://upload.wikimedia.org/wikipedia/commons/e/ea/Partido_NBA_-i---i-_%2832248212036%29.jpg": 1920,
+  "ottawa-k-pop-infinity-tour-ontario\u0001https://upload.wikimedia.org/wikipedia/commons/3/36/TD_Place_field%2C_Ottawa.JPG": 1600
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
    "width": 1080,
-   "attempts": 12,
-   "nextTry": "2026-10-26",
+   "attempts": 13,
+   "nextTry": "2026-11-02",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "ajman-souryana-restaurant-and-cafe": {
    "width": 1100,
-   "attempts": 12,
-   "nextTry": "2026-10-26",
+   "attempts": 13,
+   "nextTry": "2026-11-02",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "goa-fort-aguada": {
    "width": 960,
-   "attempts": 12,
-   "nextTry": "2026-10-26",
+   "attempts": 13,
+   "nextTry": "2026-11-02",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "hue-maison-trang": {
    "width": 1080,
-   "attempts": 12,
-   "nextTry": "2026-10-26",
+   "attempts": 13,
+   "nextTry": "2026-11-02",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "jeonju-jeonju-hanok-village-cafe-masirange": {
    "width": 1080,
-   "attempts": 12,
-   "nextTry": "2026-10-26",
+   "attempts": 13,
+   "nextTry": "2026-11-02",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "phuket-day-night-of-phuket": {
    "width": 1080,
-   "attempts": 12,
-   "nextTry": "2026-10-26",
+   "attempts": 13,
+   "nextTry": "2026-11-02",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "provence-lavender-sunflower-field": {
    "width": 1080,
-   "attempts": 12,
-   "nextTry": "2026-10-26",
+   "attempts": 13,
+   "nextTry": "2026-11-02",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
@@ -3157,8 +3163,8 @@
   },
   "el-nido-taraw-cliff": {
    "width": 960,
-   "attempts": 11,
-   "nextTry": "2026-10-26",
+   "attempts": 12,
+   "nextTry": "2026-11-02",
    "flaggedAt": "2026-08-10",
    "lastResult": "no-wider"
   },
@@ -3616,5 +3622,5 @@
    "flaggedAt": "2026-10-21"
   }
  },
- "updated": "2026-10-26T19:00:46.904Z"
+ "updated": "2026-10-26T23:27:30.525Z"
 }

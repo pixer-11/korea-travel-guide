@@ -9,6 +9,14 @@ eventStartDate: '2026-11-19'
 eventEndDate: '2026-11-22'
 eventRecurring: true
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Municipio_de_De%C3%A1n_funes.jpg/1280px-Municipio_de_De%C3%A1n_funes.jpg'
+  credit: 'Photo: Cmontesvn (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'File:Municipio de Deán funes.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - funes
