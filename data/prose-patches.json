@@ -463,6 +463,51 @@
    }
   ]
  },
+ "austin-formula-1-united-states-grand-prix": {
+  "steps": [
+   {
+    "from": "9e5e8b065c1f",
+    "to": "fa83f873c326",
+    "at": "2026-10-26T08:21:21.278Z",
+    "removed": [
+     "[DESCRIPTION] Formula 1 United States Grand Prix in Austin, United States — October 23-25, 2026. What it is, when and where, and how to plan around it.",
+     "[QUICK ANSWER] The Formula 1 United States Grand Prix runs October 23-25, 2026 at Circuit of the Americas (COTA) in southeast Austin, Texas, with headline concerts from Maroon 5 and Post Malone alongside the on-track action. Book tickets and travel early — Austin's hotel inventory tightens fast for this weekend — and confirm exact schedule, gate times, and prices on F1's and COTA's official sites before you commit.",
+     "[FAQ 1] Q: What are the official dates for the 2026 US Grand Prix? A: October 23-25, 2026, at Circuit of the Americas in Austin, Texas.",
+     "[FAQ 3] Q: Is there more than just racing this year? A: Yes — the weekend features headline concerts from Maroon 5 and Post Malone in addition to practice, qualifying, and the Sunday Grand Prix.",
+     "[FAQ 4] Q: Which day has the smallest crowds? A: Friday practice sessions draw the lightest crowds, making it the easiest day for exploring the grounds and grandstands.",
+     "[FAQ 5] Q: How do I get tickets? A: Buy directly through Formula1.com or COTA's official ticketing page, and book early — Austin hotels and shuttle capacity tighten fast for this weekend.",
+     "There's no other weekend in Austin quite like this one. For three days the city's usual slow drawl gives way to the shriek of twenty V6 hybrid engines, a full-blown music festival bolted onto a race weekend, and a crowd that mixes Texas oil money, European F1 diehards, and curious first-timers who came for the Maroon 5 or Post Malone set and stayed for the racing.",
+     "Circuit of the Americas has hosted the US Grand Prix since 2012, and it's built specifically for this, 20 corners, a dramatic uphill run to Turn 1 modeled loosely on Silverstone's Maggotts-Becketts, and sightlines from the grandstands that let you actually watch a whole lap rather than a blur.",
+     "- **Fly into** Austin-Bergstrom International Airport (AUS). It's the closest airport and floods with extra flights that week\n- **Get to the circuit** via official shuttle services from downtown and park-and-ride lots, which F1 and COTA typically publish for each event\n- **Rideshare** works but expect surge pricing and long pickup queues after the race and concerts end",
+     "Driving yourself is possible but parking fills early and exit traffic afterward can take well over an hour. Give yourself more time than feels reasonable.",
+     "Friday brings practice sessions and a lower-key crowd, making it the easiest day to explore the paddock area and grandstands without shoulder-to-shoulder crowds. Saturday is qualifying, with intensity building as the grid order gets set. Sunday is race day, the big one, when the amphitheater-style main grandstand and the Turn 1 hill fill early.",
+     "The concerts were a genuine draw in their own right this year, with Maroon 5 and Post Malone announced as headliners for evening sets set to turn the infield into a festival ground once the cars go quiet. The published plan had practice/qualifying/concerts across Friday and Saturday, with the Grand Prix itself as Sunday's centerpiece.",
+     "- **Turn 1** grandstands: dramatic elevation change, great for overtakes into the first corner\n- **Main straight/start-finish**: best for watching the start and catching the podium ceremony\n- **GA infield**: cheaper, mobile, but no guaranteed sightline. Bring a small stool",
+     "October in Austin still runs hot, often into the 80s°F during the day, so sun protection matters more than most people expect. Bring earplugs, trackside is loud, and a portable charger, since cell networks strain under the crowd.",
+     "Most payment at COTA concessions and merchandise stands is card or mobile-pay rather than cash, so don't bother hunting for an ATM. Shuttle queues move faster if you walk to a pickup point slightly away from the main gate rather than joining the crowd right outside it.",
+     "The mistake first-timers make is underestimating exit time, leaving before the podium ceremony or the final concert set to \"beat traffic\" is common, but locals who've done it a few times will tell you the shuttle and rideshare lines are just as long whether you leave at lap 50 or after the finish, so you might as well stay for it."
+    ],
+    "added": [
+     "[DESCRIPTION] Formula 1 United States Grand Prix in Austin, United States — October 23-25, 2026, at Circuit of the Americas, with Maroon 5 and Post Malone concerts.",
+     "[QUICK ANSWER] The Formula 1 United States Grand Prix was set for October 23-25, 2026 at Circuit of the Americas (COTA) in southeast Austin, Texas. Maroon 5 and Post Malone were announced as headline concert acts alongside the on-track action. Tickets were sold through Formula1.com and COTA's official ticketing page. Austin's hotel inventory tends to tighten fast for this weekend.",
+     "[FAQ 1] Q: What are the official dates for the 2026 US Grand Prix? A: The race weekend was set for October 23-25, 2026, at Circuit of the Americas in Austin, Texas.",
+     "[FAQ 3] Q: Is there more than just racing this year? A: Yes. The announced programme added headline concerts from Maroon 5 and Post Malone to practice, qualifying, and the Sunday Grand Prix.",
+     "[FAQ 4] Q: Which day has the smallest crowds? A: Friday practice sessions usually draw the lightest crowds, which makes Friday the easiest day for exploring the grounds and grandstands.",
+     "[FAQ 5] Q: How do I get tickets? A: Tickets were sold directly through Formula1.com and COTA's official ticketing page. Austin hotels and shuttle capacity tend to tighten fast for this weekend.",
+     "There's no other weekend in Austin quite like this one. For three days the city's usual slow drawl gives way to the shriek of twenty V6 hybrid engines, a full-blown music festival bolted onto a race weekend, and a crowd that mixes Texas oil money, European F1 diehards, and curious first-timers. For 2026, the music side featured Maroon 5 and Post Malone as headliners.",
+     "Circuit of the Americas has hosted the US Grand Prix since 2012, and it's built specifically for this. It has 20 corners, a dramatic uphill run to Turn 1, and a sequence modeled loosely on Silverstone's Maggotts-Becketts. Sightlines from the grandstands let you follow a whole lap rather than a blur.",
+     "- **Fly into** Austin-Bergstrom International Airport (AUS). It's the closest airport and usually adds extra flights for race week\n- **Get to the circuit** via shuttle services from downtown and park-and-ride lots, which typically operate for each event\n- **Rideshare** works, but surge pricing and long pickup queues are common after the race and concerts end",
+     "Driving yourself is possible, but parking fills early and exit traffic afterward can take well over an hour.",
+     "Friday usually brings practice sessions and a lower-key crowd, making it the easiest day to explore the paddock area and grandstands without shoulder-to-shoulder crowds. Saturday is qualifying, with intensity building as the grid order gets set. Sunday is race day, the big one, when the amphitheater-style main grandstand and the Turn 1 hill fill early.",
+     "For 2026, Maroon 5 and Post Malone were announced as headliners for evening sets, planned to turn the infield into a festival ground once the cars went quiet. The schedule placed practice, qualifying and concerts across Friday and Saturday, with the Grand Prix itself as Sunday's centerpiece.",
+     "- **Turn 1** grandstands: dramatic elevation change, great for overtakes into the first corner\n- **Main straight/start-finish**: best for watching the start and catching the podium ceremony\n- **GA infield**: cheaper and mobile, but with no guaranteed sightline. A small stool helps",
+     "October in Austin is still often hot, with daytime highs into the 80s°F, so sun protection matters more than many visitors assume. Trackside is loud, so earplugs are standard kit. A portable charger is useful too, since cell networks strain under the crowd.",
+     "Most payment at COTA concessions and merchandise stands is card or mobile-pay rather than cash, so an ATM is rarely needed. Shuttle queues move faster from pickup points slightly away from the main gate than from the crowd right outside it.",
+     "The classic first-timer mistake is underestimating exit time. Leaving before the podium ceremony or the final concert set to \"beat traffic\" is common, but locals who've done it a few times say the shuttle and rideshare lines are just as long whether you leave at lap 50 or after the finish."
+    ]
+   }
+  ]
+ },
  "avignon-jardin-des-doms": {
   "steps": [
    {
@@ -530,6 +575,47 @@
     ],
     "added": [
      "It mattered because Avignon mattered. The city grew into a major crossing point on the Rhône, and later the seat of the papacy itself during the 14th-century Avignon Papacy. The bridge and the Palais des Papes rising above it were built for the same reason: to control this stretch of river."
+    ]
+   }
+  ]
+ },
+ "bacolod-masskara-festival": {
+  "steps": [
+   {
+    "from": "d5fbd30fc189",
+    "to": "4ac7d550cb6d",
+    "at": "2026-10-26T08:21:50.347Z",
+    "removed": [
+     "[DESCRIPTION] MassKara Festival in Bacolod, Philippines — October 1-25, 2026. What it is, when and where, and how to plan around it.",
+     "[QUICK ANSWER] MassKara Festival in Bacolod runs October 1-25, 2026, with the main street and arena dance competitions concentrated October 9-18 and closing ceremonies on October 25. The festival centers on Bacolod's downtown streets and the Bacolod Public Plaza area, with dancers in oversized, painted smiling masks the city is known for. Confirm exact schedules, venue assignments, and ticket prices on the official MassKara Festival and Bacolod City government channels before booking travel.",
+     "[FAQ 1] Q: When exactly is MassKara Festival 2026? A: The festival runs October 1-25, 2026, with the main street and arena dance competitions October 9-18 and closing ceremonies on October 25.",
+     "[FAQ 2] Q: Do I need a ticket to watch MassKara? A: Street-side viewing along the parade route is free. Reserved grandstand or arena seating for the dance competition finals requires a paid ticket; confirm prices on the official festival site.",
+     "[FAQ 3] Q: How do I get to Bacolod for the festival? A: Fly into Bacolod-Silay International Airport, which has direct flights from Manila and Cebu. Downtown Bacolod, near the Bacolod Public Plaza, is the festival hub.",
+     "[FAQ 4] Q: How many days should I plan for? A: Two to three days covers the main dance competition atmosphere; dedicated fans often stay for multiple competition dates between October 9 and 18.",
+     "[FAQ 5] Q: Where can I confirm the official schedule and prices? A: Check the official MassKara Festival channels and the Bacolod City government tourism office for current dates, venue details, and ticket prices before booking.",
+     "MassKara is Bacolod's \"Festival of Smiles,\" a month-long civic celebration built around masked street dancing. The 2026 edition runs October 1-25, with the street and arena dance competitions, the festival's real spectacle, held October 9-18. Closing ceremonies fall on October 25.",
+     "- Fly into Bacolod-Silay International Airport (BCD)\n- Base yourself downtown, walking distance to the plaza\n- Book accommodation early: October is the city's highest-demand month",
+     "Street-side viewing along the parade route costs nothing. Reserved grandstand seats for the main dance competitions are sold separately and prices vary by seating tier and proximity to the judges' area.",
+     "Exact ticket prices, on-sale dates, and seating maps change year to year and are not something to guess at. Confirm timing and tickets on the official MassKara Festival site and the Bacolod City government's tourism office before you plan seating or travel dates around them.",
+     "Arrive early for the dance competition days; the best free sidewalk spots along the parade route fill up well before the troupes start moving. Vendors sell local specialties like chicken inasal and piaya along the route, cash is the default payment for street stalls.",
+     "Bring earplugs if you're sensitive to sound systems: speaker trucks run the length of the route at high volume for hours. Dancers rehearse for months, so routines are tight and long; expect each troupe's segment to run well past what a quick photo stop covers.",
+     "If you want a seat rather than a curb spot, buy grandstand tickets ahead rather than showing up hoping for walk-up availability, since good sightlines sell out. Traffic rerouting is heavy on competition days, so if you're driving in from outside Bacolod, park early and walk the last stretch."
+    ],
+    "added": [
+     "[DESCRIPTION] MassKara Festival in Bacolod, Philippines was set for October 1-25, 2026, with dance competitions around the Bacolod Public Plaza.",
+     "[QUICK ANSWER] MassKara Festival in Bacolod was set for October 1-25, 2026. The main street and arena dance competitions were concentrated on October 9-18, with closing ceremonies on October 25. The festival centers on Bacolod's downtown streets and the Bacolod Public Plaza area, with dancers in the oversized, painted smiling masks the city is known for. Street-side viewing along the parade route is free, while grandstand seating for the finals was ticketed.",
+     "[FAQ 1] Q: When exactly is MassKara Festival 2026? A: The festival was set for October 1-25, 2026. The programme put the main street and arena dance competitions on October 9-18 and closing ceremonies on October 25.",
+     "[FAQ 2] Q: Do I need a ticket to watch MassKara? A: Street-side viewing along the parade route is free. Reserved grandstand or arena seating for the dance competition finals required a paid ticket, with prices varying by seating tier.",
+     "[FAQ 3] Q: How do I get to Bacolod for the festival? A: Bacolod-Silay International Airport has direct flights from Manila and Cebu. Downtown Bacolod, near the Bacolod Public Plaza, is the festival hub.",
+     "[FAQ 4] Q: How many days should I plan for? A: Two to three days typically covers the main dance competition atmosphere. Dedicated fans often stay for several competition dates, which in 2026 fell between October 9 and 18.",
+     "[FAQ 5] Q: Where can I confirm the official schedule and prices? A: The official MassKara Festival channels and the Bacolod City government tourism office are the sources for festival dates, venue details and ticket prices.",
+     "MassKara is Bacolod's \"Festival of Smiles,\" a month-long civic celebration built around masked street dancing. The 2026 edition was set for October 1-25, with the street and arena dance competitions, the festival's real spectacle, on October 9-18. The programme put closing ceremonies on October 25.",
+     "- Bacolod-Silay International Airport (BCD) serves the city\n- Downtown hotels are within walking distance of the plaza\n- October is the city's highest-demand month for accommodation",
+     "Street-side viewing along the parade route costs nothing. Reserved grandstand seats for the main dance competitions were sold separately, with prices varying by seating tier and proximity to the judges' area.",
+     "Exact ticket prices, on-sale dates and seating maps change from year to year, so figures from earlier editions are no guide to 2026. The official MassKara Festival channels and the Bacolod City government's tourism office handle festival ticketing and timing.",
+     "On dance competition days, the best free sidewalk spots along the parade route typically fill well before the troupes start moving. Vendors sell local specialties like chicken inasal and piaya along the route, and cash is the default payment at street stalls.",
+     "Speaker trucks usually travel the length of the route at high volume for hours, which can be hard on anyone sensitive to sound. Dancers rehearse for months, so routines are tight and long; each troupe's segment typically lasts well past a quick photo stop.",
+     "Grandstand seats with good sightlines tend to sell out, and walk-up availability is rarely reliable. Traffic rerouting is heavy on competition days, and drivers coming in from outside Bacolod usually park at the edge of downtown and walk the last stretch."
     ]
    }
   ]
@@ -3573,6 +3659,75 @@
    }
   ]
  },
+ "frankfurt-am-main-frankfurt-marathon": {
+  "steps": [
+   {
+    "from": "2d8a84d3ba28",
+    "to": "0dfbba5ba43a",
+    "at": "2026-10-26T08:22:29.573Z",
+    "removed": [
+     "[DESCRIPTION] The Frankfurt Marathon in Frankfurt am Main runs on October 25, 2026, with the start and finish around the Messe trade-fair grounds and the famous indoor finish inside the Festhalle.",
+     "[QUICK ANSWER] The Frankfurt Marathon in Frankfurt am Main runs on October 25, 2026, with the start and finish around the Messe trade-fair grounds and the famous indoor finish inside the Festhalle. Watching from the course is free on public streets; runner entries go through the official registration. Confirm timing, entry and course details on the official site.",
+     "[FAQ 1] Q: When is the Frankfurt Marathon in 2026? A: Sunday, October 25, 2026. That is also the night Central Europe ends summer time, so clocks go back one hour overnight. Check the start time against the new local time, and confirm details on the official site.",
+     "[FAQ 3] Q: Do spectators need tickets? A: No. The course runs on public streets, and watching from outside the barriers is free. Runners register through the official race registration, where entry fees and categories are listed.",
+     "[FAQ 4] Q: How do I get there from Frankfurt Airport? A: Take S-Bahn S8 or S9 to Frankfurt Hauptbahnhof. From there you can walk to the Messe start area or take the S-Bahn one stop to Messe. Driving is a bad idea on race day because of road closures.",
+     "[FAQ 5] Q: Where should I go after the race? A: Cross the Main to Alt-Sachsenhausen for Apfelwein served from a Bembel jug, with Grüne Soße or Handkäs mit Musik. Most shops are closed on Sunday, so buy supplies on Saturday.",
+     "Most big-city marathons end on an open road. Frankfurt ends indoors. The final metres run off the street and into the Festhalle, a domed exhibition hall from 1909 on the Messe grounds. Runners cross the line under lights, with a crowd packed around them on every side.",
+     "That finish is the reason many international runners pick this race. Frankfurt is Germany's longest-established city marathon and its second-largest by finishers. The 2026 edition is set for **October 25, 2026**, and it draws over 20,000 participants from around the world.",
+     "The course is flat. Frankfurt has a long-standing reputation as one of the faster marathons in the world, and elite fields have set fast times here more than once. If you are chasing a personal best in autumn, that is the attraction.",
+     "The facts that hold steady:",
+     "Start times, wave allocations, the exact route and bag-drop arrangements can change from year to year. Confirm timing and tickets on the official site. Do not rely on a route map from a previous edition.",
+     "In past years, number pick-up and the race expo have been held at the Messe on the days before the race. Check the official schedule for the pick-up window. Plan to arrive in Frankfurt by Saturday at the latest.",
+     "This date has a quirk worth knowing. October 25, 2026 is the last Sunday of October. That is the night Central Europe switches from summer time back to standard time. At 3am, clocks go back to 2am.",
+     "For runners, this is a gift: an extra hour in bed before a morning start. It is also a trap. Your phone updates itself. A hotel-room alarm clock or an older watch may not.",
+     "- Set your alarm on your phone, not the bedside clock.\n- Check the race start time against the new local time, not summer time.\n- If you flew in from another continent, your body clock is already confused. Write the start time down in plain numbers the night before.",
+     "Spectators do not need a ticket. The course runs along public streets, and you can stand anywhere outside the barriers for free.",
+     "For runners, the \"ticket\" is a race entry. You buy it through the official registration platform. Entry fees, categories and any relay or shorter-distance options are listed there, and the price is printed on the registration page. Big autumn marathons in Europe can fill up, so register early if you have your heart set on this one.",
+     "Inside the Festhalle, seating around the finish has historically been limited. Check the official site for how access works for friends and family.",
+     "Along the course, the city-centre stretches and the river crossings draw the biggest crowds. Pick two or three points on the official route map that you can link by tram or U-Bahn. That way you see your runner more than once.",
+     "What to bring:",
+     "- Warm layers. Late October in Frankfurt is usually cool, and standing still for hours feels colder than it is.\n- A sign with your runner's name, large enough to read at speed.\n- The live-tracking app, if the race offers one, so you know when to look up.",
+     "On race day, many roads are closed and driving across town is slow. Use the trains. Frankfurt's public transport network is run under the RMV system, and it works well for spectators.",
+     "Book a hotel near the Hauptbahnhof or the Messe and you can walk to the start. That saves you a crowded early train on race morning.",
+     "Germans take the Sunday rest day seriously. Most supermarkets and shops close on Sundays, and race day is a Sunday. Buy your breakfast, gels and post-race snacks on Saturday. Shops inside the Hauptbahnhof are the usual exception when you forget something.",
+     "Cash still matters here more than in many European cities. Cards are widely accepted, but small bakeries, kiosks and older taverns may prefer cash. Carry some euros.",
+     "After the race, do what Frankfurters do and cross the river to **Alt-Sachsenhausen**. This is the old apple-wine quarter on the south bank of the Main. The local drink is *Apfelwein*, called *Ebbelwoi* in dialect. It is a dry, sour cider served in a grey stoneware jug called a *Bembel*, which you pour into ridged glasses known as *Gerippte*.",
+     "At the traditional taverns you often sit at long shared wooden tables, and nobody minds strangers squeezing in. Order the regional dishes:",
+     "Tipping is done by rounding up when you pay, not by leaving coins on the table. Tell the server the total you want to pay as you hand over the money. You can usually walk to Sachsenhausen from the city centre over the Eiserner Steg footbridge."
+    ],
+    "added": [
+     "[DESCRIPTION] The 2026 Frankfurt Marathon was set for October 25, 2026, starting and finishing at the Messe grounds with its famous indoor finish inside the Festhalle.",
+     "[QUICK ANSWER] The Frankfurt Marathon in Frankfurt am Main was set for October 25, 2026, with the start and finish around the Messe trade-fair grounds and the famous indoor finish inside the Festhalle. Watching from the course is free on public streets. Runner entries were sold through the official race registration.",
+     "[FAQ 1] Q: When is the Frankfurt Marathon in 2026? A: The race was set for Sunday, October 25, 2026. The last Sunday of October is the night Central Europe ends summer time, so the clocks went back one hour in the night before the start.",
+     "[FAQ 3] Q: Do spectators need tickets? A: No. The course runs on public streets, and watching from outside the barriers is free. Runner entries were sold through the official race registration, with separate entry fees and categories.",
+     "[FAQ 4] Q: How do I get there from Frankfurt Airport? A: S-Bahn lines S8 and S9 run from the airport to Frankfurt Hauptbahnhof. From there it is a short walk to the Messe start area, or one S-Bahn stop to Messe. Driving on race day is slow because of road closures.",
+     "[FAQ 5] Q: Where should I go after the race? A: Alt-Sachsenhausen, across the Main, is the traditional place for Apfelwein served from a Bembel jug, with Grüne Soße or Handkäs mit Musik. Most shops in Frankfurt are closed on Sundays, and the race was set for a Sunday.",
+     "Most big-city marathons end on an open road. Frankfurt ends indoors. The final metres run off the street and into the Festhalle, a domed exhibition hall from 1909 on the Messe grounds. Runners cross the line under lights, with spectators packed around them on every side.",
+     "That finish is the reason many international runners pick this race. Frankfurt is Germany's longest-established city marathon and its second-largest by finishers. The 2026 edition was set for **October 25, 2026**. The race draws over 20,000 participants from around the world.",
+     "The course is flat. Frankfurt has a long-standing reputation as one of the faster marathons in the world, and elite fields have set fast times here more than once. For runners chasing a personal best in autumn, that is the attraction.",
+     "The key facts for 2026:",
+     "Start times, wave allocations, the exact route and bag-drop arrangements change from year to year, so a route map from one edition does not carry over to the next.",
+     "In past years, number pick-up and the race expo have been held at the Messe on the days before the race. Most runners arrive in Frankfurt by Saturday.",
+     "The 2026 date had a quirk. October 25, 2026 is the last Sunday of October. That is the night Central Europe switches from summer time back to standard time. At 3am, clocks go back to 2am.",
+     "For runners, that meant a gift: an extra hour in bed before a morning start. It was also a trap. Phones update themselves. A hotel-room alarm clock or an older watch may not.",
+     "- Phone alarms switch to the new time automatically; bedside clocks often do not.\n- Race start times are given in local time, which after the change is standard time, not summer time.\n- Runners who fly in from another continent deal with jet lag on top of the clock change, and a start time written down in plain numbers removes any doubt.",
+     "Spectators do not need a ticket. The course runs along public streets, and anyone can stand outside the barriers for free.",
+     "For runners, the \"ticket\" was a race entry, sold through the official registration platform. Entries came in different categories, with any relay or shorter-distance options priced separately, and the entry fee was shown on the registration page. Big autumn marathons in Europe can fill up well ahead of race day.",
+     "Inside the Festhalle, seating around the finish has historically been limited, and access for friends and family is usually controlled.",
+     "Along the course, the city-centre stretches and the river crossings draw the biggest crowds. Spectators often pick two or three points on the route that link up by tram or U-Bahn, so they see their runner more than once.",
+     "What spectators usually bring:",
+     "- Warm layers. Late October in Frankfurt is usually cool, and standing still for hours feels colder than it is.\n- A sign with the runner's name, large enough to read at speed.\n- The live-tracking app, when the race offers one, to know when to look up.",
+     "On race day, many roads are closed and driving across town is slow. The trains are the easier option. Frankfurt's public transport network is run under the RMV system, and it works well for spectators.",
+     "Hotels near the Hauptbahnhof or the Messe are within walking distance of the start, which avoids a crowded early train on race morning.",
+     "Germans take the Sunday rest day seriously. Most supermarkets and shops close on Sundays, and the 2026 race was set for a Sunday. Runners usually buy breakfast, gels and post-race snacks on Saturday. Shops inside the Hauptbahnhof are the usual exception when something is forgotten.",
+     "Cash still matters here more than in many European cities. Cards are widely accepted, but small bakeries, kiosks and older taverns may prefer cash, so a few euros in your pocket help.",
+     "After a race, Frankfurters cross the river to **Alt-Sachsenhausen**. This is the old apple-wine quarter on the south bank of the Main. The local drink is *Apfelwein*, called *Ebbelwoi* in dialect. It is a dry, sour cider served in a grey stoneware jug called a *Bembel*, which you pour into ridged glasses known as *Gerippte*.",
+     "At the traditional taverns you often sit at long shared wooden tables, and nobody minds strangers squeezing in. The regional dishes to look for:",
+     "Tipping is done by rounding up when you pay, not by leaving coins on the table. You tell the server the total you want to pay as you hand over the money. Sachsenhausen is usually a walk from the city centre over the Eiserner Steg footbridge."
+    ]
+   }
+  ]
+ },
  "frankfurt-am-main-frankfurter-buchmesse": {
   "steps": [
    {
@@ -4007,6 +4162,59 @@
     ],
     "added": [
      "This is one of Germany's most-visited attractions, so dodging crowds matters. Weekends are busiest from late morning through early evening. If you can only come on a Saturday, arrive for the 8am opening and get the big rooms done before the late-morning surge. On weekdays the quietest slot is 6pm–7pm. Only Friday stays open that late, so a Friday afternoon ticket lets you finish in the calmest hour."
+    ]
+   }
+  ]
+ },
+ "hanoi-bigbang-2026-2027-world-tour-in-hanoi": {
+  "steps": [
+   {
+    "from": "f53150ed66b6",
+    "to": "aeb96fadc816",
+    "at": "2026-10-26T08:22:58.014Z",
+    "removed": [
+     "[DESCRIPTION] BigBang 2026-2027 World Tour in Hanoi in Hanoi, Vietnam — October 24-25, 2026. What it is, when and where, and how to plan around it.",
+     "[QUICK ANSWER] BigBang's 2026-2027 World Tour in Hanoi brings G-Dragon, Taeyang and Daesung to My Dinh National Stadium for two nights, October 24-25, 2026 — their first world tour as a full trio in nine years. Expect stadium-scale production, a mostly-standing general floor plus tiered seating, and a crowd that fills Hanoi's biggest venue both nights. Confirm timing and tickets on the official site before booking flights or hotels.",
+     "[FAQ 1] Q: Where exactly is BigBang performing in Hanoi? A: My Dinh National Stadium in Nam Tu Liem District, about 8km west of Hanoi's Old Quarter — Vietnam's national stadium and its usual venue for the biggest concerts.",
+     "[FAQ 2] Q: What are the concert dates? A: October 24-25, 2026, two consecutive nights. Confirm exact set times and gate-opening on the official site before you finalize travel plans.",
+     "[FAQ 3] Q: How do I get tickets? A: Ticketing details, price tiers and seating maps are announced through official channels closer to sales windows. Buy only through the officially designated platform for Vietnam and avoid unverified resale listings.",
+     "[FAQ 4] Q: How do I get to My Dinh Stadium and back? A: Grab (ride-hailing) is the easiest option; buses also stop nearby. Traffic around the stadium is heavy before and especially after the show, so build in extra time both ways.",
+     "[FAQ 5] Q: Is this BigBang's full lineup? A: The 2026-2027 World Tour features G-Dragon, Taeyang and Daesung performing together — their first world tour as a complete group in nine years.",
+     "Nine years is a long wait. BigBang last toured as a complete unit back before military service, solo careers and side projects pulled the members apart, so a two-night stand at My Dinh with G-Dragon, Taeyang and Daesung together on one stage is a genuine event, not a routine tour stop.",
+     "Hanoi is one stadium among many on the 2026-2027 World Tour route, but landing two consecutive dates here signals how deep the group's Vietnamese fanbase runs. Southeast Asia has been a stronghold for K-pop stadium touring for over a decade, and Hanoi rarely gets multi-night runs from acts this size.",
+     "- **Taxi/ride-hail (Grab):** the simplest option from anywhere in the city; expect surge pricing right after the show ends.\n- **Bus:** several city routes stop near the stadium gates, cheap but slower during event traffic.\n- **Motorbike:** common for locals, but parking fills fast and exiting afterward is slow.",
+     "Budget extra time both ways. With two full stadium crowds converging on the same intersections, the roads around My Dinh choke up badly in the hour before doors and for well over an hour after the final encore.",
+     "The shows run October 24-25, 2026, both at My Dinh National Stadium. Two-night stadium runs typically mean similar setlists across both dates with some rotation, though BigBang has surprised fans with encore changes on past tours.",
+     "Stadium concerts here generally follow a familiar shape: gates open a few hours before showtime, opening acts or VCR segments run first, and the headline set stretches well past two hours. Given the scale of production BigBang tours are known for (pyrotechnics, moving stages, elaborate LED work) arrive with plenty of buffer rather than cutting it close.",
+     "Stadium shows like this usually split into standing floor zones (often the priciest and most sought-after) and tiered stand seating around the pitch. Floor sections sell out first and typically require the fastest fingers when sales open.",
+     "Because ticketing platforms, price tiers and on-sale windows shift by market and can change without notice, don't rely on secondhand screenshots or resale listings as your source of truth. Confirm timing and tickets on the official site before purchasing anything, and double-check the platform is the officially designated one for Vietnam.",
+     "Hanoi concertgoers travel light and move fast once doors open. Bring only what you need and expect bag checks at the gates. Cash is still useful for street food stalls near the stadium, but most taxis and convenience stores now take cards or e-wallets like Momo.",
+     "Book your Grab ride well before the encore ends rather than after; everyone else has the same idea and surge pricing spikes hard in that first post-show window. If you're staying in the Old Quarter, factor in a 20-30 minute ride each way outside peak traffic, longer on show nights.",
+     "Vietnamese fans tend to arrive early to soak up the pre-show atmosphere and trade merchandise or light sticks outside the gates. It's part of the experience, not just a queue to endure. Follow that lead rather than rolling up at the last minute.",
+     "Street vendors set up near the stadium selling food, drinks and unofficial merch; prices aren't fixed, so a quick, friendly haggle is normal and expected. Keep small notes on hand for this rather than breaking a large bill.",
+     "My Dinh sits near the Vietnam National Convention Center and within reach of West Lake (Ho Tay), a good spot to unwind before or after the show with lakeside cafés and a slower pace than the Old Quarter. If you're building a longer trip around the concert, pair it with a day exploring the Old Quarter's street food and a visit to the Temple of Literature, both a manageable taxi ride from the stadium."
+    ],
+    "added": [
+     "[DESCRIPTION] BigBang's 2026-2027 World Tour in Hanoi was set for October 24-25, 2026 at My Dinh National Stadium, with G-Dragon, Taeyang and Daesung.",
+     "[QUICK ANSWER] BigBang's 2026-2027 World Tour in Hanoi was set for two nights, October 24-25, 2026, at My Dinh National Stadium. The shows brought G-Dragon, Taeyang and Daesung together on the bill for their first world tour as a full trio in nine years. The format was a stadium-scale production at Hanoi's biggest venue, with a mostly-standing general floor plus tiered seating.",
+     "[FAQ 1] Q: Where exactly is BigBang performing in Hanoi? A: The shows were set for My Dinh National Stadium in Nam Tu Liem District, about 8km west of Hanoi's Old Quarter. It is Vietnam's national stadium and its usual venue for the biggest concerts.",
+     "[FAQ 2] Q: What are the concert dates? A: October 24-25, 2026, two consecutive nights.",
+     "[FAQ 3] Q: How do I get tickets? A: Tickets were sold through the officially designated platform for Vietnam, with price tiers and seating maps tied to each sales window. Unverified resale listings were not part of the official sale.",
+     "[FAQ 4] Q: How do I get to My Dinh Stadium and back? A: Grab (ride-hailing) is the easiest option, and buses also stop nearby. Traffic around the stadium is heavy before big shows and heavier still after them.",
+     "[FAQ 5] Q: Is this BigBang's full lineup? A: The 2026-2027 World Tour was billed with G-Dragon, Taeyang and Daesung performing together. It was their first world tour as a complete group in nine years.",
+     "Nine years is a long wait. BigBang last toured as a complete unit before military service, solo careers and side projects pulled the members apart. That made a two-night stand at My Dinh with G-Dragon, Taeyang and Daesung together on one stage a genuine event, not a routine tour stop.",
+     "Hanoi was one stadium among many on the 2026-2027 World Tour route, but two consecutive dates here showed how deep the group's Vietnamese fanbase runs. Southeast Asia has been a stronghold for K-pop stadium touring for over a decade, and Hanoi rarely gets multi-night runs from acts this size.",
+     "- **Taxi/ride-hail (Grab):** the simplest option from anywhere in the city; surge pricing is common right after big shows end.\n- **Bus:** several city routes stop near the stadium gates, cheap but slower during event traffic.\n- **Motorbike:** common for locals, but parking fills fast and leaving afterward is slow.",
+     "On big concert nights, full stadium crowds converge on the same intersections. The roads around My Dinh choke up badly in the hour before doors and for well over an hour after the final encore.",
+     "The shows were set for October 24-25, 2026, both at My Dinh National Stadium. Two-night stadium runs typically mean similar setlists across both dates with some rotation, though BigBang has surprised fans with encore changes on past tours.",
+     "Stadium concerts here generally follow a familiar shape: gates open a few hours before showtime, opening acts or VCR segments come first, and the headline set stretches well past two hours. BigBang tours are known for large-scale production, with pyrotechnics, moving stages and elaborate LED work.",
+     "Stadium shows like this usually split into standing floor zones (often the priciest and most sought-after) and tiered stand seating around the pitch. Floor sections sell out first and typically go to the fastest buyers when sales open.",
+     "Ticketing platforms, price tiers and on-sale windows shift by market and can change without notice, and secondhand screenshots and resale listings are unreliable sources. For Hanoi, tickets were sold through the officially designated platform for Vietnam.",
+     "Hanoi concertgoers travel light and move fast once doors open, and bag checks at the gates are standard. Cash is still useful for street food stalls near the stadium, but most taxis and convenience stores now take cards or e-wallets like Momo.",
+     "Grab rides requested before the encore ends are far easier to get than those requested after, when everyone has the same idea and surge pricing spikes hard. From the Old Quarter, the ride takes 20-30 minutes each way outside peak traffic, longer on show nights.",
+     "Vietnamese fans tend to gather early to soak up the pre-show atmosphere and trade merchandise or light sticks outside the gates. It's part of the experience, not just a queue to endure.",
+     "Street vendors set up near the stadium selling food, drinks and unofficial merch. Prices aren't fixed, so a quick, friendly haggle is normal, and small notes are handier than large bills.",
+     "My Dinh sits near the Vietnam National Convention Center and within reach of West Lake (Ho Tay), a good spot to unwind with lakeside cafés and a slower pace than the Old Quarter. A longer Hanoi trip pairs well with a day exploring the Old Quarter's street food and a visit to the Temple of Literature, both a manageable taxi ride from the stadium."
     ]
    }
   ]
@@ -4712,6 +4920,55 @@
      "[QUICK ANSWER] Israel & New Breed - Til the Whole World Knows Tour plays Jakarta on 15 October 2026, with the date as announced, at The Kasablanka Hall in the Kota Kasablanka mall in Tebet, South Jakarta. The hall sits upstairs inside the mall, so concertgoers usually combine the show with dinner at Kota Kasablanka and use Gojek or Grab to beat the parking queues.",
      "[FAQ 1] Q: When and where did Israel & New Breed play in Jakarta? A: The Til the Whole World Knows Tour 2026 plays Jakarta on 15 October 2026, a Thursday, at The Kasablanka Hall inside the Kota Kasablanka mall in Tebet, South Jakarta.",
      "The date is Thursday, 15 October 2026. Israel & New Breed bring their *Til the Whole World Knows Tour 2026* to The Kasablanka Hall in Jakarta. It is one stop on a tour built around the worship collective led by Israel Houghton."
+    ]
+   }
+  ]
+ },
+ "jakarta-jakarta-running-festival": {
+  "steps": [
+   {
+    "from": "d90fa37f6cc6",
+    "to": "c7898c242eda",
+    "at": "2026-10-26T08:23:58.736Z",
+    "removed": [
+     "[DESCRIPTION] The Jakarta Running Festival runs over two days in Jakarta on October 24-25, 2026, with 5K, 10K, half-marathon and full marathon races.",
+     "[QUICK ANSWER] The Jakarta Running Festival runs over two days in Jakarta on October 24-25, 2026, with 5K, 10K, half-marathon and full marathon races. The marathon is on Sunday, October 25, with a strict 5-hour cut-off set because of the city's heat and humidity. Confirm the venue, start times and tickets on the official site before you book travel.",
+     "[FAQ 1] Q: When is the Jakarta Running Festival 2026? A: The announced dates are Saturday, October 24 and Sunday, October 25, 2026. The full marathon is on Sunday, October 25. Confirm exact timing on the official site.",
+     "[FAQ 2] Q: What race distances are offered? A: There are four: 5K, 10K, half marathon and full marathon. The official source lists which distances run on which day.",
+     "[FAQ 3] Q: What is the marathon cut-off time? A: Five hours, and it is strict. It is set to protect runners from Jakarta's heat and humidity, so pick the half marathon if you usually finish near that limit.",
+     "[FAQ 4] Q: Where is the venue and how do I get there? A: The start, finish and race-pack collection locations are on the official site. For central Jakarta, the MRT North–South line under Sudirman–Thamrin, the TransJakarta buses and the Gojek and Grab apps are the quickest ways to move around early in the morning.",
+     "[FAQ 5] Q: How do I register? A: Register through the organiser's official channels. Current fees and any remaining places are listed on the official registration page.",
+     "Jakarta Running Festival packs four race distances into one weekend. The dates are Saturday, October 24 and Sunday, October 25, 2026. It is one of Indonesia's leading road races run to international standard, so you get measured courses and a proper field.",
+     "The official source sets which shorter races fall on which day. Check it before you plan a weekend around a single distance.",
+     "The marathon cut-off is five hours, and organisers enforce it. It exists because Jakarta is hot and humid all year, and October falls at the turn toward the wet season. Treat it as a hard limit, not a target.",
+     "If your recent marathons have taken longer than about four and a half hours, choose the half instead. The humidity adds time even for runners who train in warm climates. Racers flying in from cooler countries should arrive several days early so the body has time to adjust to the sweat rate.",
+     "On the course, take water at every station, even in the opening kilometres. Salt tablets or an electrolyte drink you already trust will serve you better than anything new on race morning.",
+     "The official site publishes the start, the finish and the race-pack collection point. Confirm timing and tickets there, because registration for a race this size runs through the organiser and nowhere else. No prices appear on this page; the current fees are listed on the official registration page.",
+     "Jakarta traffic is heavy at almost any hour. Plan your route to the start the night before, and choose a hotel near an MRT station if you can.",
+     "Running in Jakarta follows the clock of the sun. Locals run before dawn, and Sunday mornings on Sudirman–Thamrin are a weekly Car Free Day when the avenue is full of runners and cyclists. The marathon falls on a Sunday, so expect the same early-rising crowd energy.",
+     "Practical behaviour that helps:",
+     "- **Pay cashless.** QRIS codes are everywhere, and Gojek and Grab take in-app payment. Keep some rupiah in small notes for street vendors.\n- **Book your ride early.** Ride-hailing demand jumps near big race starts; booking a few minutes earlier than you think you need is the usual workaround.\n- **Eat breakfast you know.** Nasi uduk and bubur ayam (rice porridge with chicken) sell from carts at dawn, but they are better as post-race food than as fuel.\n- **Mind the drink stations.** Step to the side before you slow down, and drop cups where volunteers are collecting them.\n- **Learn two words.** \"Terima kasih\" (thank you) goes a long way with the volunteers who stand out in the humidity for hours.",
+     "After you finish, get into air-conditioning and drink before you go looking for a celebration meal."
+    ],
+    "added": [
+     "[DESCRIPTION] The Jakarta Running Festival was set for October 24-25, 2026 in Jakarta, with 5K, 10K, half-marathon and full marathon races.",
+     "[QUICK ANSWER] The Jakarta Running Festival was set for October 24-25, 2026 in Jakarta, with 5K, 10K, half-marathon and full marathon races. The marathon was scheduled for Sunday, October 25, with a strict 5-hour cut-off because of the city's heat and humidity.",
+     "[FAQ 1] Q: When is the Jakarta Running Festival 2026? A: The announced dates were Saturday, October 24 and Sunday, October 25, 2026. The full marathon was on the Sunday, October 25.",
+     "[FAQ 2] Q: What race distances are offered? A: There were four: 5K, 10K, half marathon and full marathon. The organisers decided which of the shorter distances fell on which day.",
+     "[FAQ 3] Q: What is the marathon cut-off time? A: Five hours, and organisers made it strict. The limit protected runners from Jakarta's heat and humidity, and the half marathon suited runners who usually finish near that time.",
+     "[FAQ 4] Q: Where is the venue and how do I get there? A: The organiser chose the start, finish and race-pack collection locations. In central Jakarta, the MRT North–South line under Sudirman–Thamrin, the TransJakarta buses and the Gojek and Grab apps are the quickest ways to move around early in the morning.",
+     "[FAQ 5] Q: How do I register? A: Registration went through the organiser alone, on its own registration page, which also carried the fees and remaining places.",
+     "The programme announced four race distances over one weekend. The festival was set for Saturday, October 24 and Sunday, October 25, 2026. It is one of Indonesia's leading road races and is organised to international standard, with measured courses and a proper field.",
+     "The organisers decided which shorter races fell on which day.",
+     "The marathon cut-off was five hours, and organisers said they would enforce it. The limit exists because Jakarta is hot and humid all year, and October falls at the turn toward the wet season. It was a hard limit, not a target.",
+     "Runners whose recent marathons have taken longer than about four and a half hours are usually better suited to the half. The humidity adds time even for runners who train in warm climates. Racers from cooler countries generally need several days for the body to adjust to the sweat rate.",
+     "In heat like this, experienced runners take water at every station, even in the opening kilometres. Salt tablets or a familiar electrolyte drink serve better than anything new on race morning.",
+     "The organiser chose the start, the finish and the race-pack collection point. Registration for a race this size goes through the organiser and nowhere else, and fees were set on its registration page.",
+     "Jakarta traffic is heavy at almost any hour. A hotel near an MRT station makes a pre-dawn trip to a race start much simpler.",
+     "Running in Jakarta follows the clock of the sun. Locals run before dawn, and Sunday mornings on Sudirman–Thamrin are a weekly Car Free Day when the avenue is full of runners and cyclists. The marathon was scheduled for a Sunday, the same morning as Car Free Day.",
+     "Local habits that help:",
+     "- **Cashless payment.** QRIS codes are everywhere, and Gojek and Grab take in-app payment. Small rupiah notes still help with street vendors.\n- **Early rides.** Ride-hailing demand jumps near big race starts; requesting a car a few minutes earlier than seems necessary is the usual workaround.\n- **Familiar breakfast.** Nasi uduk and bubur ayam (rice porridge with chicken) sell from carts at dawn, but they are better as post-race food than as fuel.\n- **Drink-station manners.** Runners step to the side before slowing down and drop cups where volunteers are collecting them.\n- **Two useful words.** \"Terima kasih\" (thank you) goes a long way with the volunteers who stand out in the humidity for hours.",
+     "After a race in this heat, air-conditioning and fluids come before any celebration meal."
     ]
    }
   ]
@@ -5807,6 +6064,51 @@
    }
   ]
  },
+ "paris-art-basel-paris": {
+  "steps": [
+   {
+    "from": "63d1d1e144f9",
+    "to": "50e57355f428",
+    "at": "2026-10-26T08:24:50.602Z",
+    "removed": [
+     "[DESCRIPTION] Art Basel Paris in Paris, France — October 23-25, 2026. What it is, when and where, and how to plan around it.",
+     "[QUICK ANSWER] Art Basel Paris runs October 23–25, 2026 at the Grand Palais, with preview days typically preceding the public weekend. Confirm exact dates, hours, and tickets on the official Art Basel site before booking travel. The Grand Palais sits on Avenue Winston Churchill in the 8th arrondissement, an easy walk from Champs-Élysées.",
+     "[FAQ 1] Q: What are the dates for Art Basel Paris 2026? A: October 23 to 25, 2026, at the Grand Palais. Confirm exact opening hours and any preview days on the official Art Basel site.",
+     "[FAQ 3] Q: How do I get to the Grand Palais by public transport? A: Take Metro lines 1 or 13 to Champs-Élysées–Clemenceau, or RER C to Invalides and walk across Pont Alexandre III.",
+     "[FAQ 4] Q: How long should I plan to spend at the fair? A: Two to three hours for a focused visit; collectors and researchers often spend longer across multiple days.",
+     "[FAQ 5] Q: Is it better to visit on a public day or a preview day? A: Preview days are typically invitation-only; public days are open to ticket holders. Check the official site for which category applies to your ticket.",
+     "Art Basel Paris takes over the Grand Palais from October 23 to 25, 2026. The venue is the restored 19th-century glass-and-steel hall on Avenue Winston Churchill, between the Champs-Élysées and the Seine.",
+     "Expect modern and contemporary galleries from across the world showing painting, sculpture, photography and installation under the Grand Palais's vast iron-and-glass nave. The fair's Paris edition has grown into one of the anchor stops on the international art calendar, alongside Basel and Miami Beach.",
+     "Public days typically follow invitation-only preview days, a pattern the fair has kept in prior editions. Confirm the exact split between preview and public days on the official site closer to your visit.",
+     "- Nearest metro: Champs-Élysées–Clemenceau (lines 1, 13)\n- Alternate stop: Invalides (RER C; Metro lines 8, 13)\n- Bus: several lines stop along Avenue Winston Churchill and Cours la Reine\n- Driving is not recommended; the surrounding streets close for pedestrian flow during fair days",
+     "Tickets are sold by timed entry slot in past editions, with separate categories for preview and public days. Buy directly through the official Art Basel Paris site; resale tickets carry no guarantee of entry.",
+     "Two to three hours covers a focused walk through the main galleries; serious collectors and researchers often return across multiple days. The Grand Palais also runs a public program of talks and film alongside the gallery booths in past editions, worth checking on arrival.",
+     "Cloakrooms handle coats and bags above a certain size; large backpacks and rolling luggage are typically restricted from the floor. Wear shoes you can stand in for hours: the nave floor is stone and there are few seating areas inside the booths themselves.",
+     "Galleries cluster by section, and the fair map (available at entry and online) groups exhibitors by sector rather than alphabetically, so decide your priorities before you're inside. Mornings on public days tend to move slower than the final afternoon, when browsing thins out and dealers are more open to conversation.",
+     "- Check the official Art Basel Paris site for the current floor plan and exhibitor list before you go\n- Book timed tickets in advance; the fair does not guarantee walk-up entry\n- Cash isn't needed inside; card and contactless cover the on-site cafés and bookshop\n- If you want to speak with a gallery representative at length, midweek public hours are calmer than the closing day",
+     "Confirm timing, ticket categories, and any last-minute venue changes on the official Art Basel Paris site before finalizing plans."
+    ],
+    "added": [
+     "[DESCRIPTION] Art Basel Paris in Paris, France — October 23-25, 2026, at the Grand Palais in the 8th arrondissement.",
+     "[QUICK ANSWER] Art Basel Paris was set for October 23–25, 2026 at the Grand Palais, with preview days typically preceding the public weekend. The Grand Palais sits on Avenue Winston Churchill in the 8th arrondissement, an easy walk from Champs-Élysées.",
+     "[FAQ 1] Q: What are the dates for Art Basel Paris 2026? A: October 23 to 25, 2026, at the Grand Palais. Preview days typically come before the public days.",
+     "[FAQ 3] Q: How do I get to the Grand Palais by public transport? A: Metro lines 1 and 13 stop at Champs-Élysées–Clemenceau, and RER C stops at Invalides, a walk across Pont Alexandre III.",
+     "[FAQ 4] Q: How long should I plan to spend at the fair? A: Two to three hours covers a focused visit; collectors and researchers often spend longer across multiple days.",
+     "[FAQ 5] Q: Is it better to visit on a public day or a preview day? A: Preview days are typically invitation-only; public days are open to ticket holders, and the fair has sold separate ticket categories for each.",
+     "Art Basel Paris was set for the Grand Palais from October 23 to 25, 2026. The venue is the restored 19th-century glass-and-steel hall on Avenue Winston Churchill, between the Champs-Élysées and the Seine.",
+     "The fair brings modern and contemporary galleries from across the world, showing painting, sculpture, photography and installation under the Grand Palais's vast iron-and-glass nave. The fair's Paris edition has grown into one of the anchor stops on the international art calendar, alongside Basel and Miami Beach.",
+     "Public days typically follow invitation-only preview days, a pattern the fair has kept in prior editions.",
+     "- Nearest metro: Champs-Élysées–Clemenceau (lines 1, 13)\n- Alternate stop: Invalides (RER C; Metro lines 8, 13)\n- Bus: several lines stop along Avenue Winston Churchill and Cours la Reine\n- Driving is impractical; the surrounding streets close for pedestrian flow during fair days",
+     "In past editions, tickets were sold by timed entry slot, with separate categories for preview and public days. Tickets for 2026 were sold through the official Art Basel Paris site; resale tickets carry no guarantee of entry.",
+     "Two to three hours covers a focused walk through the main galleries; serious collectors and researchers often return across multiple days. Past editions have included a public program of talks and film alongside the gallery booths.",
+     "Cloakrooms typically handle coats and bags above a certain size, and large backpacks and rolling luggage are usually restricted from the floor. Comfortable shoes matter: the nave floor is stone and there are few seating areas inside the booths themselves.",
+     "Galleries cluster by section, and the fair map (available at entry and online) groups exhibitors by sector rather than alphabetically. Mornings on public days tend to move slower than the final afternoon, when browsing thins out and dealers are more open to conversation.",
+     "- The floor plan and exhibitor list are the quickest way to set priorities in a fair this size\n- Timed tickets are the norm; the fair has not guaranteed walk-up entry\n- Cash isn't needed inside; card and contactless cover the on-site cafés and bookshop\n- Midweek public hours are typically calmer than the closing day for longer conversations with gallery representatives",
+     "With a clear sense of which sectors matter most, a single afternoon covers the highlights of the nave."
+    ]
+   }
+  ]
+ },
  "paris-celine-dion-paris-residency": {
   "steps": [
    {
@@ -6065,6 +6367,55 @@
      "[FAQ 1] Q: When was the 2026 MotoGP Australian Grand Prix at Phillip Island? A: It runs October 23-25, 2026 at the Phillip Island Grand Prix Circuit in Victoria. Friday was practice, Saturday had qualifying and the Sprint, and the full Grand Prix was on Sunday.",
      "[FAQ 2] Q: Is MotoGP still held at Phillip Island? A: No. The 2026 event is MotoGP's final visit to Phillip Island. The Australian Motorcycle Grand Prix moves to Adelaide from 2027.",
      "The 2026 Australian Motorcycle Grand Prix runs October 23-25. It was the last time MotoGP came here, because the event moves to Adelaide in 2027. That turned the weekend into a farewell to a circuit that riders have long rated among the best on the calendar."
+    ]
+   }
+  ]
+ },
+ "phnom-penh-aia-pink-run-2026": {
+  "steps": [
+   {
+    "from": "6d7101b41629",
+    "to": "52c45733a5ff",
+    "at": "2026-10-26T08:25:52.534Z",
+    "removed": [
+     "[DESCRIPTION] AIA Pink Run 2026 in Phnom Penh, Cambodia — October 25, 2026. What it is, when and where, and how to plan around it.",
+     "[QUICK ANSWER] AIA Pink Run 2026 takes place on October 25, 2026 at Botumvatey Pagoda Park in Phnom Penh, with a 2.5km course open to national and international runners. It's a charity fun run built around women's health awareness rather than a timed race, so expect a walkable, family-friendly morning rather than competitive heats. Confirm timing and tickets on the official AIA Cambodia channels before you plan travel.",
+     "[FAQ 1] Q: When is the AIA Pink Run 2026? A: It's scheduled for October 25, 2026, a Sunday, at Botumvatey Pagoda Park in Phnom Penh.",
+     "[FAQ 2] Q: Where exactly does the run take place? A: The venue is Botumvatey Pagoda Park in Phnom Penh, a public pagoda park used for community and civic events.",
+     "[FAQ 3] Q: How long is the course? A: It's a 2.5km fun run, designed to be walkable and accessible rather than a competitive distance race.",
+     "[FAQ 4] Q: How do I register or buy a ticket? A: Registration is handled through the official AIA Cambodia channels; confirm timing and tickets on the official site rather than assuming walk-up entry.",
+     "[FAQ 5] Q: Is this event only for serious runners? A: No. It's framed as a charity fun run supporting women's health awareness, open to both Cambodian and international participants of varying fitness levels.",
+     "This is a charity fun run, not a competitive road race. The distance is a flat, manageable 2.5km, which tells you the organizers built it for turnout and awareness rather than split times.",
+     "The cause is women's health, and the run draws a mix of Cambodian participants and international runners based in or visiting Phnom Penh. Pink is the operative color: expect branded shirts, pink accents on signage and barricades, and a start-line atmosphere closer to a community walk than a marathon expo.",
+     "The run is staged at Botumvatey Pagoda Park in Phnom Penh. Pagoda parks like this one function as the city's open-air civic spaces: paved paths, mature trees, and enough flat ground to lay out a start/finish chute and vendor tents.",
+     "If you know Phnom Penh's riverside and central pagoda grounds, this is the same style of venue: a public park anchored by a Buddhist pagoda, used regularly for community events rather than sport specifically. That makes it walkable, and it's the kind of place where you'll see families, monks, and vendors sharing the grounds on any given morning, not just race day.",
+     "Mark October 25, 2026 for the AIA Pink Run, which fits the pattern of most Phnom Penh charity runs: early-morning start before the heat builds, wrapped up well before midday.",
+     "Because this is a single annual fixture rather than a multi-day festival, there's no separate \"packet pickup day\" or expo to track down, at least none stated by the organizers. Confirm timing and tickets on the official site so you have the exact start time and any registration deadline in hand.",
+     "Phnom Penh's charity runs typically close nearby roads for a few hours around the start, so build in extra time if you're arriving by car or tuk-tuk.",
+     "- Tuk-tuk or Grab (ride-hailing app) is the simplest way in from most hotels; have the driver aim for Botumvatey Pagoda Park by name.\n- If you're staying near the riverside or central Phnom Penh, the park is within a reasonable tuk-tuk ride, so you don't need to leave hours early.\n- Parking directly at the park is limited on event mornings given the road closures typical of these runs, so arriving on foot or by ride-hail is more reliable than driving yourself.\n- Wear light, breathable clothing. Phnom Penh in late October sits at the tail end of the wet season, so a light rain layer is worth packing even for a morning event.",
+     "Don't assume you can simply show up and join. Confirm timing and tickets on the official AIA Cambodia site or its event partners, since that's also where you'll find the exact start time, registration cutoff, and any category splits (individual versus team entries, for instance).",
+     "Because the run itself only takes an hour or so to complete at a 2.5km distance, it's easy to treat it as the start of a longer day out rather than the whole itinerary.",
+     "Botumvatey Pagoda Park's setting means you can wander the pagoda grounds afterward before heading toward the riverside for breakfast. If you're new to the city, pair race morning with a visit to Wat Phnom or the Tonle Sap riverside promenade, both reachable by a short tuk-tuk ride, to round out the day while it's still cool enough to walk comfortably."
+    ],
+    "added": [
+     "[DESCRIPTION] AIA Pink Run 2026 in Phnom Penh, Cambodia was set for October 25, 2026 at Botumvatey Pagoda Park, with a 2.5km charity course.",
+     "[QUICK ANSWER] AIA Pink Run 2026 was set for October 25, 2026 at Botumvatey Pagoda Park in Phnom Penh, with a 2.5km course open to national and international runners. It was billed as a charity fun run built around women's health awareness rather than a timed race, with a walkable, family-friendly format instead of competitive heats. Registration was through AIA Cambodia.",
+     "[FAQ 1] Q: When is the AIA Pink Run 2026? A: It was set for October 25, 2026, a Sunday, at Botumvatey Pagoda Park in Phnom Penh.",
+     "[FAQ 2] Q: Where exactly does the run take place? A: The announced venue was Botumvatey Pagoda Park in Phnom Penh, a public pagoda park used for community and civic events.",
+     "[FAQ 3] Q: How long is the course? A: The course was a 2.5km fun run, designed to be walkable and accessible rather than a competitive distance race.",
+     "[FAQ 4] Q: How do I register or buy a ticket? A: Registration was through AIA Cambodia, with entry by advance registration rather than walk-up.",
+     "[FAQ 5] Q: Is this event only for serious runners? A: No. It was framed as a charity fun run supporting women's health awareness, open to both Cambodian and international participants of varying fitness levels.",
+     "This was planned as a charity fun run, not a competitive road race. The distance was a flat, manageable 2.5km, which shows the organizers built it for turnout and awareness rather than split times.",
+     "The cause was women's health, and the run was aimed at a mix of Cambodian participants and international runners based in or visiting Phnom Penh. The theme colour was pink, with branded shirts, and the format suggested a community walk more than a marathon expo.",
+     "The run was set at Botumvatey Pagoda Park in Phnom Penh. Pagoda parks like this one function as the city's open-air civic spaces: paved paths, mature trees, and enough flat ground to lay out a start/finish chute and vendor tents.",
+     "If you know Phnom Penh's riverside and central pagoda grounds, this is the same style of venue: a public park anchored by a Buddhist pagoda, used regularly for community events rather than sport specifically. That makes it walkable, and it's the kind of place where families, monks, and vendors share the grounds on any given morning.",
+     "The AIA Pink Run was set for October 25, 2026. Phnom Penh charity runs usually start early in the morning, before the heat builds, and wrap up well before midday.",
+     "As a single annual fixture rather than a multi-day festival, it had no separate \"packet pickup day\" or expo stated by the organizers.",
+     "Phnom Penh's charity runs typically close nearby roads for a few hours around the start, which slows travel by car or tuk-tuk.",
+     "- Tuk-tuk or Grab (ride-hailing app) is the simplest way in from most hotels, and Botumvatey Pagoda Park works as a destination by name.\n- From the riverside or central Phnom Penh, the park is within a reasonable tuk-tuk ride.\n- Parking directly at the park is limited on event mornings given the road closures typical of these runs, so arriving on foot or by ride-hail is more reliable than driving.\n- Phnom Penh in late October sits at the tail end of the wet season, with warm, humid mornings and a chance of rain.",
+     "Registration for this edition was through AIA Cambodia and its event partners. Fun runs of this kind often split entries into categories, such as individual versus team.",
+     "At a 2.5km distance, the run itself takes an hour or so at most, so it fits easily into a longer day out rather than filling the whole itinerary.",
+     "Botumvatey Pagoda Park's setting lends itself to a wander around the pagoda grounds, with the riverside close by for breakfast. Wat Phnom and the Tonle Sap riverside promenade are both a short tuk-tuk ride away, and mornings are the coolest time to walk them comfortably."
     ]
    }
   ]
@@ -6662,6 +7013,49 @@
    }
   ]
  },
+ "taichung-taichung-jazz-festival-2026": {
+  "steps": [
+   {
+    "from": "7ce43c098975",
+    "to": "9215a6857a5e",
+    "at": "2026-10-26T08:26:20.520Z",
+    "removed": [
+     "[DESCRIPTION] Taichung Jazz Festival 2026 runs October 16-25, 2026, at Taichung Civic Square in Xitun District, Taichung.",
+     "[QUICK ANSWER] Taichung Jazz Festival 2026 runs October 16-25, 2026, at Taichung Civic Square in Xitun District, Taichung. Announced acts include the Alfredo Rodriguez Trio from Cuba and the Alessio Menconi Trio from Italy. Confirm timing, the full programme and any ticketing on the official festival site.",
+     "[FAQ 1] Q: When is Taichung Jazz Festival 2026? A: The announced dates are October 16-25, 2026. Daily set times are on the official festival site.",
+     "[FAQ 3] Q: Do I need tickets? A: The main event happens on an open-air lawn. Admission arrangements and any ticketed sections can vary by year, so confirm timing and tickets on the official site.",
+     "[FAQ 4] Q: Who is in the 2026 lineup? A: The announced international acts include the Alfredo Rodriguez Trio from Cuba and the Alessio Menconi Trio from Italy, playing alongside local bands. The full lineup is on the official site.",
+     "[FAQ 5] Q: What should I bring? A: Bring a picnic mat, a light layer for cooler October evenings, a compact umbrella and an EasyCard for buses and convenience stores. Plan to take your rubbish home, since public bins are scarce.",
+     "The 2026 edition runs **October 16-25, 2026**, as announced. It is one of the longest-running city jazz festivals in Taiwan, organised under Taichung's cultural affairs authorities. Most years it mixes local Taiwanese bands with touring international names.",
+     "Two international trios are confirmed in the announced programme:",
+     "Local acts fill out the bill alongside them. Day-by-day set times and the full lineup are on the official festival site. Check there before planning around a particular performer.",
+     "Civic Square sits on the west side of the city, close to Taiwan Boulevard. Dozens of city bus routes run along the boulevard, so the bus is the simplest option from Taichung Station or the downtown hotels. Taxis and ride-hailing apps both work well for the late finish.",
+     "Arriving by High Speed Rail, you get off at Taichung HSR station in Wuri. From there, take a taxi or a connecting bus into Xitun. The Calligraphy Greenway runs from the National Museum of Natural Science to the square, so you can walk the greenway's shaded lawns and shops before the music starts.",
+     "On a festival evening, the lawn fills from the front. Locals arrive early with a picnic mat, put down a small patch of territory, then take turns going for food. A few habits help:",
+     "- **Bring a mat or thin sheet.** The square is mostly grass and paving, and sitting is the norm.\n- **Tap with an EasyCard.** It pays Taichung buses and most convenience stores, including the 7-Eleven and FamilyMart branches around Civic Square.\n- **Carry your rubbish out.** Public bins are scarce in Taiwan. People take their trash home or sort it at official collection points, and leaving litter on the lawn is frowned on.\n- **Keep talk low during sets.** Crowds here are relaxed, but people do listen. Save the chatting for between songs.",
+     "October is usually dry and mild in Taichung, which is why the festival takes place outdoors at this time of year. Evenings cool off, so pack a light layer, plus a compact umbrella in case a late typhoon-season shower comes through.",
+     "Weekend nights draw the biggest crowds, which is predictable for a free-flowing city event. If the act you want plays on a weekday, that is usually the easier night for space on the grass. Admission rules, any ticketed or seated sections, and set times can change from year to year, so confirm timing and tickets on the official site."
+    ],
+    "added": [
+     "[DESCRIPTION] Taichung Jazz Festival 2026 was set for October 16-25, 2026, at Taichung Civic Square in Xitun District, Taichung. The Alfredo Rodriguez Trio was announced.",
+     "[QUICK ANSWER] Taichung Jazz Festival 2026 was set for October 16-25, 2026, at Taichung Civic Square in Xitun District, Taichung. Announced acts included the Alfredo Rodriguez Trio from Cuba and the Alessio Menconi Trio from Italy. Local bands filled out the rest of the bill.",
+     "[FAQ 1] Q: When is Taichung Jazz Festival 2026? A: The festival was set for October 16-25, 2026. The programme covered ten evenings of music on the lawn.",
+     "[FAQ 3] Q: Do I need tickets? A: The main stage faced an open-air lawn. Admission arrangements and ticketed sections at this festival vary from year to year.",
+     "[FAQ 4] Q: Who is in the 2026 lineup? A: The announced international acts were the Alfredo Rodriguez Trio from Cuba and the Alessio Menconi Trio from Italy, playing alongside local bands.",
+     "[FAQ 5] Q: What should I bring? A: Festival-goers at Civic Square usually carry a picnic mat, a light layer for cooler October evenings, a compact umbrella and an EasyCard for buses and convenience stores. Public bins are scarce, so people take their rubbish home.",
+     "The 2026 edition was set for **October 16-25, 2026**. It is one of the longest-running city jazz festivals in Taiwan, organised under Taichung's cultural affairs authorities. Most years it mixes local Taiwanese bands with touring international names.",
+     "The announced programme named two international trios:",
+     "Local acts filled out the bill alongside them, spread across the ten evenings of the festival.",
+     "Civic Square sits on the west side of the city, close to Taiwan Boulevard. Dozens of city bus routes run along the boulevard, so the bus is the simplest option from Taichung Station or the downtown hotels. Taxis and ride-hailing apps both work well for a late finish.",
+     "From the High Speed Rail, the stop is Taichung HSR station in Wuri. From there, a taxi or a connecting bus runs into Xitun. The Calligraphy Greenway runs from the National Museum of Natural Science to the square, lined with shaded lawns and shops.",
+     "On a festival evening, the lawn fills from the front. Locals typically come early with a picnic mat, put down a small patch of territory, then take turns going for food. A few local habits:",
+     "- **Mats and thin sheets.** The square is mostly grass and paving, and sitting is the norm.\n- **EasyCard payments.** The card pays Taichung buses and most convenience stores, including the 7-Eleven and FamilyMart branches around Civic Square.\n- **Rubbish goes home.** Public bins are scarce in Taiwan. People take their trash home or sort it at official collection points, and leaving litter on the lawn is frowned on.\n- **Quiet during sets.** Audiences here are relaxed, but people do listen. Chatting waits for the gaps between songs.",
+     "October is usually dry and mild in Taichung, which is why the festival is staged outdoors at this time of year. Evenings cool off, so a light layer is useful, along with a compact umbrella in case a late typhoon-season shower comes through.",
+     "Weekend nights usually draw the biggest audiences at a free-flowing city event like this one. Weekday nights tend to be easier for space on the grass. Admission rules, any ticketed or seated sections, and set times change from year to year."
+    ]
+   }
+  ]
+ },
  "taipei-bigbang-taipei-dome": {
   "steps": [
    {
@@ -6959,6 +7353,63 @@
    }
   ]
  },
+ "tokyo-mamamoo-tokyo-concert": {
+  "steps": [
+   {
+    "from": "96901e983414",
+    "to": "a0831fc3170d",
+    "at": "2026-10-26T08:26:51.237Z",
+    "removed": [
+     "[DESCRIPTION] The MAMAMOO Tokyo Concert takes place on October 25, 2026 at Tokyo Garden Theater in Ariake, on Tokyo Bay.",
+     "[QUICK ANSWER] The MAMAMOO Tokyo Concert takes place on October 25, 2026 at Tokyo Garden Theater in Ariake, on Tokyo Bay. The nearest station is Ariake-tennis-no-mori on the Yurikamome line, a short walk from the hall. Confirm timing and tickets on the official site, because Japanese K-pop tickets usually go through lottery systems rather than open sale.",
+     "[FAQ 1] Q: When and where is the MAMAMOO Tokyo concert? A: It takes place on October 25, 2026, a Sunday, at Tokyo Garden Theater in the Ariake Garden complex, Koto ward. Confirm the start time on the official site.",
+     "[FAQ 2] Q: How do I get to Tokyo Garden Theater? A: Take the Yurikamome line to Ariake-tennis-no-mori Station, a few minutes' walk away. You can also take the Rinkai line to Kokusai-Tenjijō Station, about ten minutes on foot. The Rinkai line is often the easier option when you leave after the show.",
+     "[FAQ 3] Q: How can overseas fans get tickets? A: Japanese K-pop tickets are usually sold by lottery, with fan club presales first and then playguide lotteries. Some shows open an overseas-applicant lottery. Buy only through the official site or its authorised resale service, because unofficial resale is illegal in Japan.",
+     "[FAQ 4] Q: Can I take photos or videos during the show? A: Usually not. Japanese venues generally ban filming and photography during performances, and staff enforce it. Put your phone away unless the artist specifically allows photos.",
+     "MAMAMOO bring their show to Tokyo on October 25, 2026. That date falls on a Sunday, and the venue is Tokyo Garden Theater, a purpose-built concert hall that opened in 2020 inside the Ariake Garden complex on reclaimed land in Koto ward.",
+     "Since debuting in 2014, the group has built its name on live vocals: Solar, Moonbyul, Wheein and Hwasa made their reputations on songs like \"Starry Night\", \"HIP\" and \"Décalcomanie\". Confirm the setlist, the members appearing and the start time on the official site. None of that is given here, and we won't guess.",
+     "Japanese concert tickets rarely go on simple first-come sale. Most are sold by lottery (抽選, *chūsen*). You apply during a window, and the winners are drawn afterwards.",
+     "The usual order of priority runs like this:",
+     "Many Japanese platforms ask for a Japanese phone number or address. Some international shows open a separate overseas-applicant lottery. Check the official channel for which route applies to this date.",
+     "Tickets are often digital, held in a ticketing app on your phone. Names can be checked against ID at the door. Unofficial resale is illegal in Japan for designated tickets, so buy only through the official route or its authorised resale service.",
+     "Ariake sits on the Tokyo Bay waterfront, south-east of central Tokyo. You have two rail options:",
+     "The Yurikamome is a driverless elevated line from Shimbashi. It crosses the Rainbow Bridge loop and Odaiba on the way out. It's scenic, but it runs short trains that fill up fast on show nights.",
+     "After the show, thousands of people leave at once. Walking to Kokusai-Tenjijō for the Rinkai line usually spreads the load better than queuing for the Yurikamome platform. Load a Suica or PASMO card beforehand so you don't end up at the ticket machines with everyone else.",
+     "- **Bring the official lightstick.** Fans call it the Moobong, and it often syncs to the stage lighting by Bluetooth. Homemade or oversized light-up signs are commonly banned.\n- **Filming and photography are usually prohibited** during the performance. Staff do enforce this. Keep your phone away unless the artist explicitly allows a moment for photos.\n- **Stay in your assigned spot.** Standing is normal at K-pop shows, but leaving your seat area or holding banners above head height blocks the row behind you.\n- **Learn the fanchants.** Japanese audiences call out on cue and stay quiet otherwise.\n- **Merch lines start early.** Official goods booths often open hours before doors. Many tours also sell through an online shop, which is worth checking first.",
+     "Seat locations are often revealed only when your digital ticket is issued, so don't plan around a specific block.",
+     "Coin lockers near the venue fill early. Bring as little as possible. Japanese venues generally don't allow large bags inside the hall.",
+     "The hall is built for concerts. It isn't a converted sports arena, so the tiers rise steeply around the stage across several levels. Even the upper balconies feel closer to the performers than they would in a dome.",
+     "Capacity is around 8,000, which makes it one of Tokyo's mid-sized major venues. That's intimate for a group that also plays larger arenas. The upper tiers are steep, so take the stairs slowly with a drink in hand.",
+     "Ariake Garden itself is a full complex, so you don't need to leave the block. It has a shopping mall with a food court and restaurants, and the Izumi Tenku no Yu hot-spring facility. There's also a hotel attached, useful if you'd rather not join the post-show rail scrum.",
+     "A Sunday show means Monday is a working day for many locals. Late trains back to central Tokyo stay busy until well after the crowd clears. Confirm timing and tickets on the official site before you build the rest of your evening around them."
+    ],
+    "added": [
+     "[DESCRIPTION] The MAMAMOO Tokyo Concert was set for October 25, 2026 at Tokyo Garden Theater in Ariake, on Tokyo Bay.",
+     "[QUICK ANSWER] The MAMAMOO Tokyo Concert was set for October 25, 2026 at Tokyo Garden Theater in Ariake, on Tokyo Bay. The nearest station is Ariake-tennis-no-mori on the Yurikamome line, a short walk from the hall. Japanese K-pop tickets usually go through lottery systems rather than open sale.",
+     "[FAQ 1] Q: When and where is the MAMAMOO Tokyo concert? A: It was set for October 25, 2026, a Sunday, at Tokyo Garden Theater in the Ariake Garden complex, Koto ward.",
+     "[FAQ 2] Q: How do I get to Tokyo Garden Theater? A: The Yurikamome line stops at Ariake-tennis-no-mori Station, a few minutes' walk away. The Rinkai line's Kokusai-Tenjijō Station is about ten minutes on foot. The Rinkai line is often the easier option when leaving after a show.",
+     "[FAQ 3] Q: How can overseas fans get tickets? A: Japanese K-pop tickets are usually sold by lottery, with fan club presales first and then playguide lotteries. Some shows open an overseas-applicant lottery. Unofficial resale is illegal in Japan, so the official route and its authorised resale service are the legal options.",
+     "[FAQ 4] Q: Can I take photos or videos during the show? A: Usually not. Japanese venues generally ban filming and photography during performances, and staff enforce it. The exception is when the artist specifically allows photos.",
+     "MAMAMOO's Tokyo show was set for October 25, 2026, a Sunday. The venue was Tokyo Garden Theater, a purpose-built concert hall that opened in 2020 inside the Ariake Garden complex on reclaimed land in Koto ward.",
+     "Since debuting in 2014, the group has built its name on live vocals: Solar, Moonbyul, Wheein and Hwasa made their reputations on songs like \"Starry Night\", \"HIP\" and \"Décalcomanie\".",
+     "Japanese concert tickets rarely go on simple first-come sale. Most are sold by lottery (抽選, *chūsen*). Fans apply during a window, and the winners are drawn afterwards.",
+     "The usual order of priority looks like this:",
+     "Many Japanese platforms ask for a Japanese phone number or address. Some international shows open a separate overseas-applicant lottery.",
+     "Tickets are often digital, held in a ticketing app on a phone. Names can be checked against ID at the door. Unofficial resale is illegal in Japan for designated tickets, so the official route and its authorised resale service are the only legal ways to buy.",
+     "Ariake sits on the Tokyo Bay waterfront, south-east of central Tokyo. Two rail lines serve it:",
+     "The Yurikamome is a driverless elevated line from Shimbashi. It crosses the Rainbow Bridge loop and Odaiba on the way out. It's scenic, but its short trains fill up fast on show nights.",
+     "After a show at the hall, thousands of people leave at once. Walking to Kokusai-Tenjijō for the Rinkai line usually spreads the load better than queuing for the Yurikamome platform. A preloaded Suica or PASMO card avoids the crush at the ticket machines.",
+     "- **The official lightstick is standard.** Fans call it the Moobong, and it often syncs to the stage lighting by Bluetooth. Homemade or oversized light-up signs are commonly banned.\n- **Filming and photography are usually prohibited** during the performance. Staff do enforce this, unless the artist explicitly allows a moment for photos.\n- **Fans stay in their assigned spot.** Standing is normal at K-pop shows, but leaving a seat area or holding banners above head height blocks the row behind.\n- **Fanchants matter.** Japanese audiences call out on cue and stay quiet otherwise.\n- **Merch lines start early.** Official goods booths often open hours before doors. Many tours also sell through an online shop.",
+     "Seat locations are often revealed only when the digital ticket is issued.",
+     "Coin lockers near the venue fill early, and Japanese venues generally don't allow large bags inside the hall.",
+     "The hall is built for concerts. It isn't a converted sports arena, so the tiers rise steeply around the stage across several levels. Even the upper balconies feel far more intimate than a dome.",
+     "Capacity is around 8,000, which makes it one of Tokyo's mid-sized major venues. That's intimate for a group that also plays larger arenas. The upper tiers are steep, and the stairs are tricky with a drink in hand.",
+     "Ariake Garden itself is a full complex, so there's little reason to leave the block. It has a shopping mall with a food court and restaurants, and the Izumi Tenku no Yu hot-spring facility. There's also a hotel attached, a handy way to skip the post-show rail scrum.",
+     "On Sunday nights, concert crowds share the trains with locals heading home before the working week. Late trains back to central Tokyo stay busy well after a venue crowd clears."
+    ]
+   }
+  ]
+ },
  "toulouse-jardin-royal": {
   "steps": [
    {
@@ -6991,6 +7442,53 @@
    }
   ]
  },
+ "ubud-ubud-writers-readers-festival": {
+  "steps": [
+   {
+    "from": "f610f99af405",
+    "to": "04d6c6ff4307",
+    "at": "2026-10-26T08:27:19.074Z",
+    "removed": [
+     "[DESCRIPTION] The Ubud Writers & Readers Festival runs from 21 to 25 October 2026 in Ubud, Bali.",
+     "[QUICK ANSWER] The Ubud Writers & Readers Festival runs from 21 to 25 October 2026 in Ubud, Bali. It is Southeast Asia's largest literary festival, with up to 170 writers and artists from around the world. Check dates, venues and tickets on the official festival site, and book a room in Ubud early because the festival fills the town that week.",
+     "[FAQ 1] Q: When is the Ubud Writers & Readers Festival in 2026? A: The 2026 edition runs from 21 to 25 October. Confirm the exact programme dates on the official festival site.",
+     "[FAQ 2] Q: How do I get to Ubud for the festival? A: Fly into Ngurah Rai International Airport (DPS) and take a private driver or a pre-booked transfer. The drive takes roughly 1 to 1.5 hours, depending on traffic.",
+     "[FAQ 3] Q: Where are the festival venues? A: In recent editions, the main programme has been based along Jalan Raya Sanggingan in north-western Ubud, with side events around town. Venues can change, so check the official site.",
+     "[FAQ 4] Q: How many days should I attend? A: Two or three days gives you a solid mix of main-programme panels and one or two special events. Ubud's traffic makes it tiring to cram in more sessions across separate venues in a single day.",
+     "The 2026 festival runs from 21 to 25 October. The 2025 edition ran from 29 October to 2 November, so late October is when it usually happens. Up to 170 writers and artists come from around the world, which makes it Southeast Asia's largest literary festival.",
+     "Janet DeNeefe founded it in 2004 as a response to the 2002 Bali bombings, which badly hurt the island's tourism. The programme still mixes international names with Indonesian writers. You get novelists, poets, journalists and activists, with some sessions in Bahasa Indonesia and many in English.",
+     "Ubud is a town in the hills, roughly 1 to 1.5 hours by road from Ngurah Rai International Airport (DPS). The drive depends heavily on traffic through Denpasar and Gianyar. There is no train, and buses are not a practical way to get there. Most visitors book a private driver or a pre-arranged airport transfer.",
+     "In recent editions, the main programme has been based along Jalan Raya Sanggingan, at the north-western edge of town. Side events have been spread through central Ubud. The venues can change from year to year, so confirm them on the official site before you book somewhere to stay.",
+     "If you stay near Sanggingan, you can walk to sessions. It also puts you close to the Campuhan Ridge Walk, a grassy spine between two river valleys that is best walked early in the morning. Ubud Palace and Ubud Art Market are a short drive down the hill, on Jalan Raya Ubud.",
+     "Some community and children's events have been free in past years. Confirm current ticket types, prices and the full programme on the official festival site. Don't rely on resellers or third-party listings.",
+     "October falls at the end of Bali's dry season. Expect warm, humid days and the chance of an afternoon downpour. Many sessions take place in open-sided pavilions, which keep you in the shade but are not air-conditioned. Bring:\n- a light layer for evenings, when the hills cool down\n- a refillable water bottle\n- a small umbrella",
+     "Ubud's traffic is the real constraint. The main roads are narrow, and festival crowds share them with scooters and tour vans. Allow extra time between venues, or simply stay at one venue for a day. Many regulars walk or hire a scooter rather than wait for a car.",
+     "App-based ride-hailing (Grab, Gojek) works in parts of Ubud. Some central streets restrict pickups by app drivers, so you may need to walk to a main road or use a local driver. Most locals pay drivers in cash in rupiah. Agree the fare before you get in.",
+     "You'll see small palm-leaf offerings called *canang sari* on pavements and doorsteps. Step around them, not on them. If an evening event takes you into a temple compound, wear a sarong and sash; they are usually available to borrow at the entrance.",
+     "Book signings follow most sessions, often with the festival's bookshop selling titles on site. Join the line soon after the session ends, because popular authors draw long queues. Popular special events can sell out, so book those first and fill the gaps with main-programme sessions."
+    ],
+    "added": [
+     "[DESCRIPTION] The Ubud Writers & Readers Festival was set for 21 to 25 October 2026 in Ubud, Bali. It is Southeast Asia's largest literary festival.",
+     "[QUICK ANSWER] The Ubud Writers & Readers Festival was set for 21 to 25 October 2026 in Ubud, Bali. It is Southeast Asia's largest literary festival, with up to 170 writers and artists from around the world. Rooms in Ubud tend to fill up during festival week.",
+     "[FAQ 1] Q: When is the Ubud Writers & Readers Festival in 2026? A: The 2026 edition was set for 21 to 25 October.",
+     "[FAQ 2] Q: How do I get to Ubud for the festival? A: The nearest airport is Ngurah Rai International Airport (DPS). Most visitors use a private driver or a pre-arranged transfer. The drive takes roughly 1 to 1.5 hours, depending on traffic.",
+     "[FAQ 3] Q: Where are the festival venues? A: In recent editions, the main programme has been based along Jalan Raya Sanggingan in north-western Ubud, with side events around town. Venues can change from year to year.",
+     "[FAQ 4] Q: How many days should I attend? A: Two or three days typically gives a solid mix of main-programme panels and one or two special events. Ubud's traffic makes it tiring to fit more sessions across separate venues into a single day.",
+     "The 2026 festival was set for 21 to 25 October. The 2025 edition ran from 29 October to 2 November, so late October is when it usually happens. Up to 170 writers and artists come from around the world, which makes it Southeast Asia's largest literary festival.",
+     "Janet DeNeefe founded it in 2004 as a response to the 2002 Bali bombings, which badly hurt the island's tourism. The programme mixes international names with Indonesian writers. It features novelists, poets, journalists and activists, with some sessions in Bahasa Indonesia and many in English.",
+     "Ubud is a town in the hills, roughly 1 to 1.5 hours by road from Ngurah Rai International Airport (DPS). The drive depends heavily on traffic through Denpasar and Gianyar. There is no train, and buses are not a practical way to get there. Most visitors use a private driver or a pre-arranged airport transfer.",
+     "In recent editions, the main programme has been based along Jalan Raya Sanggingan, at the north-western edge of town. Side events have been spread through central Ubud. The venues can change from year to year.",
+     "Sanggingan is within walking distance of that main programme area. It is also close to the Campuhan Ridge Walk, a grassy spine between two river valleys that is at its best early in the morning. Ubud Palace and Ubud Art Market are a short drive down the hill, on Jalan Raya Ubud.",
+     "Some community and children's events have been free in past years. Resellers and third-party listings are not a reliable source for ticket types or prices.",
+     "October falls at the end of Bali's dry season, with warm, humid days and the chance of an afternoon downpour. Many sessions are held in open-sided pavilions, which give shade but are not air-conditioned. Useful items in this climate:\n- a light layer for evenings, when the hills cool down\n- a refillable water bottle\n- a small umbrella",
+     "Ubud's traffic is the real constraint. The main roads are narrow, and during big events they fill with festival-goers, scooters and tour vans. Getting between venues takes longer than the distances suggest. Many regulars stay at one venue for a day, walk, or hire a scooter rather than wait for a car.",
+     "App-based ride-hailing (Grab, Gojek) works in parts of Ubud. Some central streets restrict pickups by app drivers, so riders often walk to a main road or use a local driver. Most locals pay drivers in cash in rupiah, and the fare is usually agreed before the ride.",
+     "Small palm-leaf offerings called *canang sari* sit on pavements and doorsteps. The custom is to step around them, not on them. Temple compounds require a sarong and sash, which are usually available to borrow at the entrance.",
+     "Book signings usually follow sessions, often with the festival's bookshop selling titles on site. Popular authors draw long queues soon after a session ends. Popular special events can sell out, while main-programme sessions are easier to fit around them."
+    ]
+   }
+  ]
+ },
  "ulaanbaatar-raphael-and-bernini-in-ulaanbaatar-exhibition": {
   "steps": [
    {
@@ -7016,6 +7514,57 @@
      "The exhibition runs from October 1 to November 1, 2026. It was reported as the first time these works had been shown anywhere in Asia.",
      "## What comes from the Galleria Borghese",
      "The dates as announced are October 1 to November 1, 2026. The venue was the Chinggis Khaan National Museum, the large modern museum that opened in central Ulaanbaatar in 2022."
+    ]
+   }
+  ]
+ },
+ "valencia-medio-maraton-valencia-trinidad-alfonso-zurich-valencia-half-marathon": {
+  "steps": [
+   {
+    "from": "e6806a68983a",
+    "to": "50bf6b0dd92e",
+    "at": "2026-10-26T08:27:43.571Z",
+    "removed": [
+     "[DESCRIPTION] Medio Maratón Valencia Trinidad Alfonso Zurich (Valencia Half Marathon) in Valencia, Spain — October 25, 2026. What it is, when and where, and how to plan around it.",
+     "[QUICK ANSWER] The Medio Maratón Valencia Trinidad Alfonso Zurich (Valencia Half Marathon) is set for October 25, 2026, with around 25,000 runners moving through the city on a course widely regarded as the fastest half marathon route in the world. Registration, bib pickup, and start-corral details all sit on the race's official site, so confirm timing and tickets there before booking flights or hotels. Expect the city center and the Turia riverbed area to be the focal points for both the race and the pre-race expo.",
+     "[FAQ 1] Q: When is the Valencia Half Marathon in 2026? A: The Medio Maratón Valencia Trinidad Alfonso Zurich takes place on October 25, 2026.",
+     "[FAQ 2] Q: How many runners take part? A: Around 25,000 runners are registered for the race, making it one of the largest half marathons on the calendar.",
+     "[FAQ 3] Q: Where do I buy tickets or register? A: Registration is handled entirely through the official race website. Confirm timing, pricing, and entry categories there, since these details are managed centrally and can vary by edition.",
+     "[FAQ 5] Q: Where's the best place to watch if I'm not running? A: The Turia riverbed gardens offer easier movement between viewing points than the packed historic center streets, letting spectators catch runners at multiple spots along the course.",
+     "[FAQ 6] Q: How do I get to the start area? A: Valencia's metro and compact city center make the race walkable from most central hotels; the airport and Estación del Norte train station both connect easily to downtown.",
+     "Valencia shuts down a good chunk of its historic center for one Sunday in October, and the reason is this half marathon, a World Athletics Gold Label race that pulls elite pacers and record chasers specifically because the course is flat, fast, and famously PR-friendly. The 35th edition runs on October 25, 2026, with roughly 25,000 registered runners.",
+     "That number alone tells you what the day feels like: closed roads, packed metro cars heading toward the start, and a finish line atmosphere that spills into the surrounding streets for hours afterward.",
+     "This isn't a scenic-but-slow route through hills. The Valencia half marathon has built its reputation on flat asphalt, minimal turns, and cool autumn air, the exact conditions distance runners chase for a personal best.",
+     "Elite fields regularly use it as a proving ground for sub-59 and sub-66 minute times. If you're running rather than watching, expect a course laid out for speed, not sightseeing detours.",
+     "Start and finish zones sit close enough to the historic center that spectators can post up near landmarks like the Ciutat de les Arts i les Ciències or the Plaza del Ayuntamiento and catch the race at more than one point if they move quickly between viewing spots.",
+     "Entry works like most major-label marathons: runners register in advance through the official event site, with a field capped around 25,000. Given the Gold Label status and the course's reputation among serious runners, spots in recent editions have filled well before race day.",
+     "Confirm timing and tickets on the official site, since registration windows, pricing tiers, and any qualifying-time categories are managed there and can shift between editions. The same site is the accurate source for bib pickup logistics and expo dates, which typically happen in the days leading up to the race.",
+     "Valencia's compact center means most visitors don't need a car for race weekend. The airport connects to the center by metro, and the Estación del Norte train station puts you within walking distance of the old town.",
+     "Book accommodation near the Turia gardens or the historic center if you want to walk to the start rather than deal with race-day transit changes. Hotels near Ruzafa or El Carmen put you close to both the route and the post-race food scene.",
+     "Spectating a 25,000-runner race takes some strategy if you want to see your runner more than once. The Turia riverbed lets you cut across on foot faster than the crowds lining the main avenues, so it's the better bet for repeat viewings.",
+     "Bring a printed or photographed copy of the runner's bib number and estimated pace; phone signal gets patchy in the densest crowd zones near the finish. Cafes near the finish line fill up fast after 10am, so grab a table early if you want to watch from a seat rather than standing in the crush.",
+     "Locals treat race morning as a reason to be out early regardless of whether they're running: bakeries near the route often open earlier than usual, and it's common to see entire families camped at the same corner every year. Confirm exact road closures on the official site or city announcements beforehand, since blocked streets can complicate getting between hotel and viewing spot on foot."
+    ],
+    "added": [
+     "[DESCRIPTION] Medio Maratón Valencia Trinidad Alfonso Zurich (Valencia Half Marathon) was set for October 25, 2026 in Valencia, Spain, with around 25,000 runners.",
+     "[QUICK ANSWER] The Medio Maratón Valencia Trinidad Alfonso Zurich (Valencia Half Marathon) was set for October 25, 2026, with around 25,000 runners on a course widely regarded as the fastest half marathon route in the world. Registration, bib pickup and start corrals were handled by the race organisers through the official race website. The race and the pre-race expo centred on the city center and the Turia riverbed area.",
+     "[FAQ 1] Q: When is the Valencia Half Marathon in 2026? A: The Medio Maratón Valencia Trinidad Alfonso Zurich was set for October 25, 2026.",
+     "[FAQ 2] Q: How many runners take part? A: Around 25,000 runners were registered for the 2026 race, making it one of the largest half marathons on the calendar.",
+     "[FAQ 3] Q: Where do I buy tickets or register? A: Registration was handled entirely through the official race website. Timing, pricing and entry categories were managed centrally there and can vary by edition.",
+     "[FAQ 5] Q: Where's the best place to watch if I'm not running? A: The Turia riverbed gardens offer easier movement between viewing points than the packed historic center streets, so spectators can catch runners at several spots along the course.",
+     "[FAQ 6] Q: How do I get to the start area? A: Valencia's metro and compact city center put the race within walking distance of most central hotels, and the airport and Estación del Norte train station both connect easily to downtown.",
+     "Valencia closes a good chunk of its historic center for one Sunday in October for this half marathon, a World Athletics Gold Label race that draws elite pacers and record chasers because the course is flat, fast and famously PR-friendly. The 35th edition was set for October 25, 2026, with roughly 25,000 registered runners.",
+     "A field that size usually means closed roads, packed metro cars heading toward the start, and a finish-line atmosphere that spills into the surrounding streets for hours afterward.",
+     "This isn't a scenic-but-slow route through hills. The Valencia half marathon has built its reputation on flat asphalt, minimal turns and cool autumn air, the exact conditions distance runners chase for a personal best.",
+     "Elite fields regularly use it as a proving ground for sub-59 and sub-66 minute times. The course is laid out for speed, not sightseeing detours.",
+     "Start and finish zones sit close to the historic center, so spectators near landmarks like the Ciutat de les Arts i les Ciències or the Plaza del Ayuntamiento can catch the race at more than one point by moving quickly between viewing spots.",
+     "Entry worked like most major-label marathons: runners registered in advance through the official event site, with a field capped around 25,000. Given the Gold Label status and the course's reputation among serious runners, spots in recent editions have filled well before race day.",
+     "Registration windows, pricing tiers and any qualifying-time categories were managed through the official site and can shift between editions. Bib pickup and the expo typically happen in the days leading up to the race.",
+     "Valencia's compact center means most visitors don't need a car for race weekend. The airport connects to the center by metro, and the Estación del Norte train station is within walking distance of the old town.",
+     "Hotels near the Turia gardens or the historic center are within walking distance of the start, which avoids race-day transit changes. Ruzafa and El Carmen sit close to both the route and the post-race food scene.",
+     "Spectating a 25,000-runner race takes some strategy to see a runner more than once. The Turia riverbed lets people cut across on foot faster than the crowds lining the main avenues, so it's the better bet for repeat viewings.",
+     "Experienced spectators carry a printed or photographed copy of the runner's bib number and estimated pace, since phone signal gets patchy in the densest crowd zones near the finish. Cafes near the finish line fill up fast after 10am, and tables go to those who sit down early.",
+     "Locals treat race morning as a reason to be out early whether or not they're running: bakeries near the route often open earlier than usual, and it's common to see entire families camped at the same corner every year. Road closures on race morning can complicate getting between a hotel and a viewing spot on foot."
     ]
    }
   ]

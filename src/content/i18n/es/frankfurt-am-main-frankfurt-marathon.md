@@ -1,101 +1,101 @@
 ---
 lang: es
 slug: frankfurt-am-main-frankfurt-marathon
-srcHash: '2d8a84d3ba28'
+srcHash: '0dfbba5ba43a'
 title: 'Maratón de Fráncfort: fechas, inscripciones y sede (Fráncfort del Meno)'
-description: El Maratón de Fráncfort se celebra el 25 de octubre de 2026 en Fráncfort del Meno. La salida y la meta se sitúan junto al recinto ferial de la Messe, y la célebre llegada tiene lugar bajo techo, en el interior de la Festhalle.
-quickAnswer: El Maratón de Fráncfort se celebra el 25 de octubre de 2026 en Fráncfort del Meno (Frankfurt am Main). La salida y la meta se sitúan junto al recinto ferial de la Messe, y la célebre llegada tiene lugar bajo techo, en el interior de la Festhalle. Ver la carrera desde las calles es gratuito, mientras que los corredores deben inscribirse a través del sistema oficial. Antes de viajar, conviene comprobar en la web oficial los horarios, las condiciones de inscripción y el recorrido.
+description: El Maratón de Fráncfort 2026 tenía como fecha el 25 de octubre de 2026. La salida y la llegada estaban en el recinto ferial de la Messe, con su célebre meta bajo techo en el interior de la Festhalle.
+quickAnswer: La fecha anunciada para el Maratón de Fráncfort, en Fráncfort del Meno (Frankfurt am Main), era el 25 de octubre de 2026. La salida y la llegada se situaban en torno al recinto ferial de la Messe, y la famosa meta bajo techo estaba dentro de la Festhalle. Como la carrera discurría por vías públicas, seguirla desde el recorrido no costaba nada. Los corredores se inscribían a través del registro oficial de la prueba.
 faq:
-  - q: ¿Cuándo se celebra el Maratón de Fráncfort en 2026?
-    a: El domingo 25 de octubre de 2026. Esa misma noche termina el horario de verano en Europa central, por lo que los relojes se atrasan una hora de madrugada. Compruebe la hora de salida según el nuevo horario local y confirme los detalles en la web oficial.
-  - q: ¿Dónde están la salida y la meta del Maratón de Fráncfort?
-    a: En los alrededores del recinto ferial de la Messe Frankfurt, junto a la Messeturm. La prueba es famosa por su llegada bajo techo, en el interior de la Festhalle. Las estaciones más cercanas son Messe (S-Bahn) y Festhalle/Messe (U4), y la estación central (Hauptbahnhof) queda a poca distancia a pie.
-  - q: ¿Necesita entrada el público?
-    a: No. El recorrido discurre por la vía pública y verlo desde fuera de las vallas es gratuito. Los corredores se inscriben a través del sistema oficial de la carrera, donde figuran las cuotas y las categorías.
-  - q: ¿Cómo se llega desde el aeropuerto de Fráncfort?
-    a: En las líneas S8 o S9 del S-Bahn hasta la estación central de Fráncfort (Frankfurt Hauptbahnhof). Desde allí puede ir andando hasta la zona de salida de la Messe o tomar el S-Bahn una parada hasta Messe. Ir en coche el día de la carrera no es buena idea, ya que hay muchas calles cortadas.
+  - q: ¿Cuándo era el Maratón de Fráncfort en 2026?
+    a: La carrera estaba fijada para el domingo 25 de octubre de 2026. El último domingo de octubre es la noche en que Europa central pone fin al horario de verano, así que los relojes se retrasaban una hora durante la noche anterior a la salida.
+  - q: ¿Dónde estaban la salida y la llegada del Maratón de Fráncfort?
+    a: En torno al recinto ferial Messe Frankfurt, junto a la Messeturm. La carrera es conocida por su llegada bajo techo, dentro de la Festhalle. Las estaciones más cercanas son Messe (S-Bahn) y Festhalle/Messe (U4), y la Hauptbahnhof queda a poca distancia a pie.
+  - q: ¿Necesitaban entrada los espectadores?
+    a: No. El recorrido discurría por vías públicas y verlo desde fuera de las vallas era gratuito. Las inscripciones de los corredores se vendían a través del registro oficial de la prueba, con categorías y cuotas propias.
+  - q: ¿Cómo se llegaba desde el aeropuerto de Fráncfort?
+    a: Las líneas S8 y S9 del S-Bahn unen el aeropuerto con la Frankfurt Hauptbahnhof. Desde allí, la zona de salida de la Messe queda a un corto paseo, o a una sola parada de S-Bahn, en Messe. Ir en coche el día de la carrera resultaba lento por los cortes de tráfico.
   - q: ¿Adónde ir después de la carrera?
-    a: Cruce el Meno hasta Alt-Sachsenhausen para tomar Apfelwein servido en jarra Bembel, acompañado de Grüne Soße o de Handkäs mit Musik. Como la mayoría de las tiendas cierran el domingo, haga las compras el sábado.
+    a: Al otro lado del Meno, Alt-Sachsenhausen es el lugar tradicional para tomar Apfelwein servido en jarra Bembel, acompañado de Grüne Soße o de Handkäs mit Musik. En Fráncfort, la mayoría de las tiendas cierran los domingos, y la carrera estaba fijada en domingo.
 ---
 
-En la mayoría de los grandes maratones urbanos, la meta está al aire libre. En Fráncfort del Meno (Frankfurt am Main), en cambio, está bajo techo. Los últimos metros abandonan la calle y se adentran en la Festhalle, un pabellón de exposiciones de 1909 coronado por una cúpula y situado en el recinto de la Messe. Allí los corredores cruzan la línea bajo los focos, rodeados por todas partes de un público que llena el recinto.
+En la mayoría de los grandes maratones urbanos, la meta está en plena calle. En Fráncfort está bajo techo. Los últimos metros abandonan el asfalto y entran en la Festhalle, un pabellón de exposiciones de 1909 coronado por una cúpula, situado en el recinto de la Messe. Los corredores cruzan la línea de meta bajo los focos, rodeados por todas partes de un público apiñado.
 
-Esa llegada explica por qué tantos corredores extranjeros eligen esta prueba. Se trata del maratón urbano con más historia de Alemania y del segundo del país en número de corredores que lo terminan. La edición de 2026 está prevista para el **25 de octubre de 2026** y reúne a más de 20.000 participantes llegados de todo el mundo.
+Muchos corredores internacionales eligen esta carrera precisamente por esa llegada. Fráncfort es el maratón urbano con más tradición de Alemania y el segundo del país en número de corredores que llegan a meta. La edición de 2026 tenía como fecha el **25 de octubre de 2026**. La prueba reúne a más de 20.000 participantes llegados de todo el mundo.
 
 ## Una carrera que termina bajo techo
 
-Lo que todo el mundo recuerda es la Festhalle. Este gran pabellón circular, con cúpula de vidrio y acero, suele acoger conciertos y ferias comerciales. El día de la carrera, la recta de meta lo atraviesa por el centro y el estruendo del público rebota en sus muros curvos.
+Lo que todo el mundo recuerda es la Festhalle. Se trata de un gran pabellón circular con una cúpula de vidrio y acero que suele acoger conciertos y ferias. El día de la carrera, la recta de meta lo atraviesa por el centro y el estruendo rebota en sus muros curvos.
 
-Fuera, la Messeturm domina la zona de salida. Esta torre alta y estilizada, con forma de lápiz y remate en punta, es uno de los edificios más reconocibles del perfil urbano de Fráncfort. Los cajones de salida se forman en las amplias avenidas que bordean el recinto ferial, muy cerca de los rascacielos del distrito financiero.
+Fuera, la Messeturm domina la zona de salida. Es esa torre alta y estilizada, con forma de lápiz y remate en punta, uno de los edificios más reconocibles del horizonte de Fráncfort. Los corredores se colocan en los cajones de salida sobre las amplias avenidas contiguas al recinto ferial, a poca distancia de los rascacielos del distrito financiero.
 
-El recorrido es llano. Desde hace mucho tiempo, Fráncfort tiene fama de ser uno de los maratones más rápidos del mundo, y los corredores de élite han firmado aquí grandes marcas en más de una ocasión. Para quien busque batir su marca personal en otoño, ese es su gran atractivo.
+El recorrido es llano. Fráncfort goza desde hace mucho de fama como uno de los maratones más rápidos del mundo, y los corredores de élite han firmado aquí grandes marcas en más de una ocasión. Ese es el atractivo para quien busca batir su mejor marca personal en otoño.
 
-## La fecha, la Messe y lo que conviene comprobar
+## La fecha, la Messe y lo que conviene saber
 
-Estos son los datos fijos:
+Los datos clave de 2026:
 
-- **Fecha:** domingo, 25 de octubre de 2026
+- **Fecha:** domingo 25 de octubre de 2026
 - **Ciudad:** Fráncfort del Meno, Hesse
-- **Zona de salida y meta:** recinto de la Messe Frankfurt, junto a la Messeturm y la Festhalle
-- **Participación:** más de 20.000 corredores
+- **Zona de salida y llegada:** el recinto de la Messe Frankfurt, junto a la Messeturm y la Festhalle
+- **Dimensión:** más de 20.000 participantes
 
-Los horarios de salida, la asignación de tandas, el trazado exacto y el servicio de guardarropa pueden variar de un año a otro. Compruebe los horarios y las inscripciones en la web oficial, y no se fíe de los mapas del recorrido de ediciones anteriores.
+Los horarios de salida, el reparto por oleadas, el trazado exacto y el sistema de guardarropa cambian de un año a otro, de modo que el plano del recorrido de una edición no sirve para la siguiente.
 
-En años anteriores, la recogida de dorsales y la feria del corredor se celebraron en la Messe durante los días previos a la carrera. Consulte en el programa oficial el horario de recogida y procure llegar a Fráncfort como muy tarde el sábado.
+En años anteriores, la recogida de dorsales y la feria del corredor se celebraron en la Messe durante los días previos a la carrera. La mayoría de los corredores llega a Fráncfort como muy tarde el sábado.
 
-## La hora extra: la carrera coincide con el cambio de hora
+## La hora de más: la carrera coincidía con el cambio de hora
 
-Esta fecha tiene una particularidad que conviene conocer. El 25 de octubre de 2026 es el último domingo de octubre, la noche en que Europa central abandona el horario de verano y vuelve al horario estándar. A las 3 de la madrugada, los relojes se atrasan a las 2.
+La fecha de 2026 tenía una particularidad. El 25 de octubre de 2026 es el último domingo de octubre, la noche en que Europa central abandona el horario de verano y vuelve al horario estándar. A las 3:00, los relojes se retrasan hasta las 2:00.
 
-Para los corredores es todo un regalo, porque supone una hora más de sueño antes de una salida matinal. Pero también puede ser una trampa: el teléfono móvil se actualiza solo, mientras que el despertador del hotel o un reloj antiguo quizá no lo hagan.
+Para los corredores, eso suponía un regalo: una hora más de sueño antes de una salida matinal. Pero también una trampa. Los teléfonos se actualizan solos; el despertador de la habitación del hotel o un reloj antiguo, quizá no.
 
-- Ponga la alarma en el móvil y no en el despertador de la mesilla.
-- Compruebe la hora de salida según el nuevo horario local, no según el de verano.
-- Si viene de otro continente, su reloj biológico ya estará desajustado. La noche anterior, anote la hora de salida en cifras bien claras.
+- Las alarmas del móvil adoptan la nueva hora de forma automática, algo que los despertadores de mesilla a menudo no hacen.
+- Los horarios de salida se expresan en hora local, que tras el cambio corresponde al horario estándar y no al de verano.
+- Quienes llegan en avión desde otro continente suman el desfase horario al cambio de hora, y tener anotada la hora de salida en cifras disipa cualquier duda.
 
 ## Inscripciones, no entradas
 
-El público no necesita entrada. El recorrido discurre por la vía pública y cualquiera puede situarse gratuitamente donde quiera, siempre fuera de las vallas.
+El público no necesita entrada. El recorrido transcurre por vías públicas y cualquiera puede situarse gratis detrás de las vallas.
 
-Para los corredores, la «entrada» es la inscripción, que se formaliza a través de la plataforma oficial. Allí figuran las cuotas, las categorías y las posibles modalidades de relevos o de distancias más cortas, y el precio aparece en la propia página de inscripción. Los grandes maratones otoñales de Europa pueden agotar sus plazas, así que, si tiene especial interés en este, inscríbase pronto.
+Para los corredores, la «entrada» era la inscripción, que se vendía en la plataforma oficial de registro. Había distintas categorías; los relevos o las distancias más cortas, cuando existían, tenían un precio aparte, y la cuota figuraba en la página de inscripción. En Europa, los grandes maratones de otoño pueden agotar sus plazas mucho antes del día de la prueba.
 
-Dentro de la Festhalle, las plazas en torno a la meta han sido tradicionalmente escasas. Consulte en la web oficial cómo pueden acceder familiares y amigos.
+Dentro de la Festhalle, los asientos alrededor de la meta siempre han sido escasos, y el acceso de familiares y amigos suele estar controlado.
 
-## Dónde ver la carrera
+## Cómo elegir un buen sitio junto al bordillo
 
-La zona de salida, junto a la Messeturm, es el lugar más cómodo para ver la prueba: está bien comunicada y permite vivir el ambiente de miles de corredores arrancando a la vez. La llegada a la Festhalle es el momento más emotivo, aunque se llena de gente y el acceso puede estar restringido.
+La zona de salida, junto a la Messeturm, es el lugar más cómodo para ver la carrera: queda cerca del transporte público y permite vivir el ambiente de miles de corredores arrancando a la vez. La llegada en la Festhalle es el momento más emocionante, aunque se llena mucho y el acceso puede estar restringido.
 
-A lo largo del recorrido, los tramos del centro y los puentes sobre el río son los que más público congregan. Elija en el mapa oficial dos o tres puntos que pueda enlazar en tranvía o en U-Bahn; así verá pasar a su corredor más de una vez.
+A lo largo del recorrido, los tramos del centro y los puentes sobre el río son los que más público atraen. Los espectadores suelen escoger dos o tres puntos del trazado bien comunicados por tranvía o U-Bahn para ver pasar a su corredor más de una vez.
 
-Qué llevar:
+Lo que el público suele llevar:
 
-- Ropa de abrigo por capas. A finales de octubre suele hacer fresco en Fráncfort, y pasar horas de pie hace que el frío se note más.
-- Un cartel con el nombre de su corredor, lo bastante grande como para leerse al pasar a toda velocidad.
-- La aplicación de seguimiento en directo, si la organización la ofrece, para saber cuándo estar atento.
+- Ropa de abrigo por capas. A finales de octubre, Fráncfort suele estar fresco, y pasar horas de pie hace que el frío se note más de lo que marca el termómetro.
+- Un cartel con el nombre del corredor, con letras lo bastante grandes para leerlo a toda velocidad.
+- La aplicación de seguimiento en directo, si la carrera la ofrece, para saber en qué momento levantar la vista.
 
-## Cómo moverse por una ciudad con calles cortadas
+## Moverse por una ciudad con calles cortadas
 
-El día de la carrera hay muchas calles cortadas, y cruzar la ciudad en coche resulta lento. Lo mejor es usar el tren. La red de transporte público de Fráncfort, gestionada por el consorcio RMV, funciona muy bien para los espectadores.
+El día de la carrera hay muchas calles cortadas y cruzar la ciudad en coche resulta lento. El tren es la opción más sencilla. La red de transporte público de Fráncfort, gestionada dentro del sistema RMV, funciona muy bien para los espectadores.
 
-- La **estación de S-Bahn de Messe** está junto al recinto ferial, en el tramo troncal del S-Bahn.
-- La **estación de U-Bahn de Festhalle/Messe**, en la línea U4, deja muy cerca del pabellón.
-- La **estación central de Fráncfort (Frankfurt Hauptbahnhof)** queda a poca distancia a pie de la Messe.
-- Desde el **aeropuerto de Fráncfort**, las líneas S8 y S9 del S-Bahn llegan a la estación central en un cuarto de hora aproximadamente.
+- La **estación de S-Bahn Messe** se encuentra junto al recinto ferial, en el tramo central del S-Bahn.
+- La **estación de U-Bahn Festhalle/Messe**, en la línea U4, deja muy cerca del pabellón.
+- La **Frankfurt Hauptbahnhof**, la estación central, está a poca distancia a pie de la Messe.
+- Desde el **aeropuerto de Fráncfort**, las líneas S8 y S9 del S-Bahn llegan a la Hauptbahnhof en un cuarto de hora aproximadamente.
 
-Si se aloja cerca de la estación central o de la Messe, podrá ir andando hasta la salida y evitará los trenes abarrotados de primera hora de la mañana.
+Los hoteles cercanos a la Hauptbahnhof o a la Messe quedan a un paseo de la salida, lo que ahorra coger un tren abarrotado a primera hora de la mañana de la carrera.
 
-## Domingo en Fráncfort: comercios cerrados, tabernas abiertas
+## Domingo en Fráncfort: tiendas cerradas, tabernas abiertas
 
-En Alemania, el descanso dominical se respeta a rajatabla. La mayoría de los supermercados y tiendas cierran los domingos, y la carrera cae en domingo. Compre el desayuno, los geles y algo para picar después de la prueba el sábado. Si se le olvida algo, las tiendas de la estación central suelen ser la excepción.
+Los alemanes se toman muy en serio el descanso dominical. La mayoría de los supermercados y comercios cierran los domingos, y la carrera de 2026 estaba fijada en domingo. Por eso, los corredores suelen comprar el sábado el desayuno, los geles y algo para picar después de la prueba. Si se olvida algo, las tiendas del interior de la Hauptbahnhof son la excepción habitual.
 
-El dinero en efectivo sigue teniendo aquí más peso que en muchas otras ciudades europeas. Las tarjetas se aceptan en casi todas partes, pero las pequeñas panaderías, los quioscos y las tabernas más antiguas pueden preferir el pago en metálico. Lleve algunos euros encima.
+Aquí el dinero en efectivo sigue pesando más que en muchas ciudades europeas. Las tarjetas se aceptan de forma generalizada, pero las panaderías pequeñas, los quioscos y las tabernas de toda la vida pueden preferir efectivo, así que viene bien llevar unos euros en el bolsillo.
 
-Tras la carrera, haga como los propios fráncfortenses y cruce el río hasta **Alt-Sachsenhausen**, el antiguo barrio de la sidra situado en la orilla sur del Meno. La bebida local es el *Apfelwein*, que en dialecto se llama *Ebbelwoi*: una sidra seca y ácida que se sirve en una jarra de gres gris llamada *Bembel* y se vierte en unos vasos tallados conocidos como *Gerippte*.
+Después de una carrera, los fráncfortenses cruzan el río hasta **Alt-Sachsenhausen**, el antiguo barrio de la sidra en la orilla sur del Meno. La bebida local es el *Apfelwein*, que en dialecto se llama *Ebbelwoi*: una sidra seca y ácida que se sirve en una jarra gris de gres, el *Bembel*, y se vierte en unos vasos tallados en relieve conocidos como *Gerippte*.
 
-En las tabernas tradicionales es habitual sentarse en largas mesas de madera compartidas, y a nadie le molesta hacer sitio a desconocidos. Pida los platos de la región:
+En las tabernas tradicionales es habitual sentarse en largas mesas de madera compartidas, y a nadie le molesta que unos desconocidos se hagan un hueco. Estos son los platos regionales que merece la pena buscar:
 
 - **Grüne Soße**, una salsa fría de hierbas que se acompaña de huevos cocidos y patatas
 - **Handkäs mit Musik**, un queso de leche agria marinado con cebolla
 - **Frankfurter Rippchen**, chuleta de cerdo curada con chucrut
 
-La propina se da redondeando la cuenta al pagar, no dejando monedas sobre la mesa: al entregar el dinero, indique al camarero el importe total que desea abonar. Desde el centro se suele llegar a pie a Sachsenhausen por la pasarela peatonal Eiserner Steg.
+La propina se deja redondeando al pagar, no dejando monedas sobre la mesa: al entregar el dinero, se le indica al camarero el importe total que se desea pagar. Desde el centro, a Sachsenhausen se suele llegar a pie por la pasarela Eiserner Steg.

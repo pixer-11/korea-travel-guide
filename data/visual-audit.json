@@ -4812,11 +4812,23 @@
   "reason": "publish gate: Colorful Caminito corner building, representative street view",
   "at": "2026-10-25T13:00:55.867Z"
  },
+ "buenos-aires-museo-nacional-de-arte-decorativo\u0001https://upload.wikimedia.org/wikipedia/commons/2/29/Museo_Nacional_de_Arte_Decorativo.jpg": {
+  "slug": "buenos-aires-museo-nacional-de-arte-decorativo",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior facade of the museum building, representative view",
+  "at": "2026-10-26T07:42:57.397Z"
+ },
  "buenos-aires-obelisk\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Obelisk_of_Buenos_Aires_%28Obelisco_de_Buenos_Aires_-_Buenos_Aires_Argentina_%285269820034%29.jpg/3840px-Obelisk_of_Buenos_Aires_%28Obelisco_de_Buenos_Aires_-_Buenos_Aires_Argentina_%285269820034%29.jpg": {
   "slug": "buenos-aires-obelisk",
   "verdict": "MATCH",
   "reason": "publish gate: Clear view of the Obelisk in Buenos Aires",
   "at": "2026-10-25T13:00:55.833Z"
+ },
+ "buenos-aires-palacio-barolo\u0001https://upload.wikimedia.org/wikipedia/commons/5/5e/Buenos_Aires-Av._de_Mayo-Palacio_Barolo-1.jpg": {
+  "slug": "buenos-aires-palacio-barolo",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Palacio Barolo's distinctive tower and facade",
+  "at": "2026-10-26T07:42:57.425Z"
  },
  "buenos-aires-semana-del-patrimonio-de-buenos-aires-heritage-week\u0001https://upload.wikimedia.org/wikipedia/commons/1/1a/Virgen_del_Roc%C3%ADo_Malaga_Semana_Santa.jpg": {
   "slug": "buenos-aires-semana-del-patrimonio-de-buenos-aires-heritage-week",
@@ -4829,6 +4841,12 @@
   "verdict": "WEAK",
   "reason": "patrol replace: Buenos Aires aerial, but generic venue—no heritage building ",
   "at": "2026-10-25T23:22:04.353Z"
+ },
+ "buenos-aires-tres-de-febrero-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Parque_Tres_de_Febrero_during_the_2018_YOG_03.jpg/3840px-Parque_Tres_de_Febrero_during_the_2018_YOG_03.jpg": {
+  "slug": "buenos-aires-tres-de-febrero-park",
+  "verdict": "MATCH",
+  "reason": "publish gate: Park pathway with trees, representative of Tres de Febrero Park",
+  "at": "2026-10-26T07:42:57.453Z"
  },
  "bugis-albert-centre-market-food-centre\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Albert_Centre_Market_and_Food_Centre%2C_exterior.jpg/3840px-Albert_Centre_Market_and_Food_Centre%2C_exterior.jpg": {
   "slug": "bugis-albert-centre-market-food-centre",
@@ -18689,11 +18707,29 @@
   "reason": "publish gate: Iconic monument statue at Cerro de la Gloria, Mendoza",
   "at": "2026-10-25T13:00:56.026Z"
  },
+ "mendoza-museo-de-ciencias-naturales-y-antropologicas-juan-cornelio-moyano\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Museo_de_Ciencias_Naturales_y_Antropol%C3%B3gicas_Juan_Cornelio_Moyano.jpg/3840px-Museo_de_Ciencias_Naturales_y_Antropol%C3%B3gicas_Juan_Cornelio_Moyano.jpg": {
+  "slug": "mendoza-museo-de-ciencias-naturales-y-antropologicas-juan-cornelio-moyano",
+  "verdict": "MATCH",
+  "reason": "publish gate: Museum exterior with name clearly displayed, representative facade",
+  "at": "2026-10-26T07:42:57.207Z"
+ },
+ "mendoza-parque-general-san-martin\u0001https://upload.wikimedia.org/wikipedia/commons/2/26/ALTURA_Argentina_Wine_Tourism_-_Mendoza%2C_Lago_San_Mart%C3%ADn%2C_Parque_San_Mart%C3%ADn_-_panoramio.jpg": {
+  "slug": "mendoza-parque-general-san-martin",
+  "verdict": "MATCH",
+  "reason": "publish gate: Park lake with trees, representative of San Martín Park",
+  "at": "2026-10-26T07:42:57.342Z"
+ },
  "mendoza-plaza-independencia\u0001https://upload.wikimedia.org/wikipedia/commons/2/2a/ALTURA_Argentina_Wine_Tourism_-_Mendoza%2C_Plaza_Independencia_-_panoramio.jpg": {
   "slug": "mendoza-plaza-independencia",
   "verdict": "MATCH",
   "reason": "publish gate: Fountain and park plausibly depicting Plaza Independencia",
   "at": "2026-10-25T13:00:55.653Z"
+ },
+ "mendoza-santuario-nuestra-senora-de-lourdes\u0001https://upload.wikimedia.org/wikipedia/commons/c/c9/Santuario_Nuestra_Se%C3%B1ora_de_Lourdes_de_El_Challao.JPG": {
+  "slug": "mendoza-santuario-nuestra-senora-de-lourdes",
+  "verdict": "MATCH",
+  "reason": "publish gate: Modern church exterior, plausible hero image for sanctuary",
+  "at": "2026-10-26T07:42:57.285Z"
  },
  "merida-arco-de-san-juan\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Arco_de_San_Juan%2C_M%C3%A9rida%2C_Yucat%C3%A1n_%2802%29.JPG/3840px-Arco_de_San_Juan%2C_M%C3%A9rida%2C_Yucat%C3%A1n_%2802%29.JPG": {
   "slug": "merida-arco-de-san-juan",
@@ -28727,6 +28763,12 @@
   "reason": "Ferris wheel, not a restaurant or food venue",
   "at": "2026-07-25T02:50:00.455Z"
  },
+ "surabaya-monumen-bambu-runcing\u0001https://upload.wikimedia.org/wikipedia/commons/4/4c/Dawn_%40_bambu_runcing_monumen%2C_jl_jendral_sudirman_-_panoramio.jpg": {
+  "slug": "surabaya-monumen-bambu-runcing",
+  "verdict": "MATCH",
+  "reason": "publish gate: Monument shown at night, matches Bambu Runcing landmark",
+  "at": "2026-10-26T07:42:57.481Z"
+ },
  "surabaya-monumen-kapal-selam-surabaya\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Bagian_Dalam_Monumen_Kapal_Selam_%28Monkasel%29_Surabaya_4.jpg/1920px-Bagian_Dalam_Monumen_Kapal_Selam_%28Monkasel%29_Surabaya_4.jpg": {
   "slug": "surabaya-monumen-kapal-selam-surabaya",
   "verdict": "MATCH",
@@ -32178,6 +32220,24 @@
   "verdict": "MATCH",
   "reason": "publish gate: Iconic Ushuaia sign with mountains and harbor, representative",
   "at": "2026-10-25T13:00:55.720Z"
+ },
+ "ushuaia-estancia-tunel\u0001https://upload.wikimedia.org/wikipedia/commons/c/c5/Estancia_tunel_-_panoramio.jpg": {
+  "slug": "ushuaia-estancia-tunel",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows estancia buildings by water with surrounding hills, Ushuaia setting",
+  "at": "2026-10-26T07:42:57.314Z"
+ },
+ "ushuaia-laguna-esmeralda\u0001https://upload.wikimedia.org/wikipedia/commons/5/51/Laguna_Esmeralda_%28136247461%29.jpeg": {
+  "slug": "ushuaia-laguna-esmeralda",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows lagoon with mountains, matches Laguna Esmeralda",
+  "at": "2026-10-26T07:42:57.370Z"
+ },
+ "ushuaia-museo-del-fin-del-mundo\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Museo_del_Fin_del_Mundo_%285540794550%29.jpg/3840px-Museo_del_Fin_del_Mundo_%285540794550%29.jpg": {
+  "slug": "ushuaia-museo-del-fin-del-mundo",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior building plausibly matching museum in Ushuaia",
+  "at": "2026-10-26T07:42:57.254Z"
  },
  "ushuaia-southern-fuegian-railway\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/End_of_The_World_Train_at_station.jpg/1920px-End_of_The_World_Train_at_station.jpg": {
   "slug": "ushuaia-southern-fuegian-railway",

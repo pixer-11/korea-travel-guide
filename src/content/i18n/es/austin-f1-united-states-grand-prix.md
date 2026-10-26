@@ -2,65 +2,65 @@
 lang: es
 slug: austin-f1-united-states-grand-prix
 srcHash: '9ee30b3f642d'
-title: 'Gran Premio de Estados Unidos de F1: fechas, entradas y sede (Austin)'
-description: Del 22 al 25 de octubre de 2026, el Circuito de las Américas (Circuit of the Americas, COTA), en Austin (Texas), acoge el Gran Premio de Estados Unidos de Fórmula 1.
-quickAnswer: Del 22 al 25 de octubre de 2026, el Circuito de las Américas (Circuit of the Americas, COTA), en Austin (Texas), acoge el Gran Premio de Estados Unidos de Fórmula 1. Este año el programa suma una cuarta jornada, el Grand PrixView Thursday, que precede a los habituales días de entrenamientos, clasificación y carrera. Las fechas, las entradas y los planos de asientos pueden consultarse en las webs oficiales del circuito y de la Fórmula 1.
+title: 'Gran Premio de Estados Unidos de F1: fechas, entradas y circuito (Austin)'
+description: Las fechas anunciadas para el Gran Premio de Estados Unidos de Fórmula 1 eran del 22 al 25 de octubre de 2026, en el Circuito de las Américas (COTA) de Austin, Texas.
+quickAnswer: Las fechas anunciadas para el Gran Premio de Estados Unidos de Fórmula 1 eran del 22 al 25 de octubre de 2026, en el Circuito de las Américas (Circuit of the Americas, COTA) de Austin, Texas. El calendario de 2026 sumaba una cuarta jornada, el Grand PrixView Thursday, a los habituales días de entrenamientos, clasificación y carrera. Las fechas, las entradas y los planos de asientos figuraban en las webs oficiales del circuito y de la Fórmula 1.
 faq:
-  - q: ¿Cuándo se celebra el Gran Premio de Estados Unidos de F1 de 2026?
-    a: Se disputa del 22 al 25 de octubre de 2026 en el Circuito de las Américas de Austin (Texas). El fin de semana arranca con el Grand PrixView Thursday; de viernes a domingo tienen lugar los entrenamientos, la clasificación y la carrera.
-  - q: ¿Dónde está el Circuito de las Américas y cómo se llega?
-    a: El COTA se encuentra en Del Valle, al sureste de Austin y a poca distancia del Aeropuerto Internacional Austin-Bergstrom. Como las carreteras rurales que rodean el circuito se colapsan con facilidad, la mayoría de los aficionados opta por los autobuses lanzadera oficiales que salen del centro de Austin o por los vehículos con conductor contratados por aplicación, que disponen de zonas de bajada específicas.
-  - q: ¿Qué tribuna o zona ofrece la mejor vista?
-    a: Para ver la salida y la empinada subida, lo mejor es la curva 1. En la curva 12 se produce la mayoría de los adelantamientos, mientras que en las eses se aprecia a los coches rodando al límite. La tribuna principal está frente al pit lane y al podio. Con la entrada general, en cambio, es posible desplazarse de una zona de césped a otra.
-  - q: ¿Dónde suelen alojarse los visitantes?
-    a: Junto al circuito hay pocos hoteles, de modo que la mayoría de los visitantes se aloja en el centro, en South Congress o en las inmediaciones del aeropuerto y se desplaza cada día hasta el trazado.
-  - q: ¿Qué más se puede hacer en Austin durante el fin de semana de carrera?
-    a: Salir de noche por Sixth Street y Rainey Street, pasear por South Congress Avenue, recorrer el sendero del lago Lady Bird, contemplar al atardecer el vuelo de los murciélagos del puente de Congress Avenue y probar la barbacoa típica del centro de Texas.
+  - q: ¿Cuándo era el Gran Premio de Estados Unidos de F1 de 2026?
+    a: Las fechas anunciadas eran del 22 al 25 de octubre de 2026, en el Circuito de las Américas de Austin, Texas. El fin de semana se abría con el Grand PrixView Thursday; de viernes a domingo seguían los entrenamientos, la clasificación y la carrera.
+  - q: ¿Dónde está el Circuito de las Américas y cómo se llegaba?
+    a: El COTA se encuentra en Del Valle, al sureste de Austin y muy cerca del Aeropuerto Internacional Austin-Bergstrom. La mayoría de los aficionados recurría a los autobuses lanzadera oficiales desde el centro de Austin o a las zonas de bajada para vehículos de transporte con conductor, ya que las carreteras rurales que rodean el circuito se colapsaban con facilidad.
+  - q: ¿Qué tribuna o zona ofrecía la mejor vista?
+    a: Para la salida y la empinada subida, lo mejor era la curva 1. La curva 12 era el principal punto de adelantamiento; en las eses se veía a los coches al límite, y la tribuna principal daba al pit lane y al podio. La entrada general permitía moverse entre las distintas zonas de césped.
+  - q: ¿Dónde solían alojarse los visitantes?
+    a: Como apenas hay hoteles junto al circuito, la mayoría se alojaba en el centro, en South Congress o cerca del aeropuerto y se desplazaba cada día hasta la pista.
+  - q: ¿Qué más se podía hacer en Austin durante el fin de semana de carrera?
+    a: Salir por la noche por Sixth Street y Rainey Street, pasear por South Congress Avenue, recorrer el sendero de Lady Bird Lake, ver al anochecer la salida de los murciélagos del puente de Congress Avenue y probar la barbacoa del centro de Texas.
 ---
 
 ## Una colina, una horquilla y cuatro días de octubre
 
-En el Circuito de las Américas, la curva 1 se alza como un muro de asfalto. Nada más tomar la salida, los coches trepan por una fuerte pendiente hasta una cerrada curva a izquierdas situada en la cima y, acto seguido, se lanzan cuesta abajo hacia las eses. El día de la carrera, la colina entera se cubre de aficionados sentados en el césped. Es la imagen que casi todo el mundo asocia con el Gran Premio de Austin.
+La curva 1 del Circuito de las Américas (Circuit of the Americas) parece un muro de asfalto. Nada más salir, los coches remontan una fuerte pendiente hasta un cerrado giro a la izquierda situado en lo alto. Desde allí se lanzan cuesta abajo hacia las eses. El día de la carrera, esa ladera de césped se llena de aficionados, y esa es la imagen que casi todo el mundo asocia con el Gran Premio de Austin.
 
-La edición de 2026 se celebra del **22 al 25 de octubre**. Al habitual programa de viernes a domingo, con entrenamientos, clasificación y carrera, se añade una cuarta jornada previa: el **Grand PrixView Thursday**. Para quien viaja desde el extranjero, ese día adicional cuenta, pues alarga la estancia y permite pasar más tiempo dentro del recinto.
+Las fechas anunciadas para la edición de 2026 eran del **22 al 25 de octubre**. A los habituales entrenamientos, clasificación y carrera de viernes a domingo se sumaba una cuarta jornada, el **Grand PrixView Thursday**. Para quien llegaba desde otro país, ese día de más no era un detalle menor: alargaba el viaje y permitía pasar más tiempo dentro del recinto.
 
 ## El circuito
 
-Inaugurado en 2012, el COTA fue el primer circuito de Estados Unidos construido expresamente para albergar un Gran Premio. Su diseño corrió a cargo de Hermann Tilke. La vuelta, que se recorre en sentido antihorario, mide unos 5,5 km y cuenta con 20 curvas. Varios tramos se inspiran en trazados célebres de otros países: las rápidas curvas enlazadas que siguen a la curva 1 evocan las Maggotts y Becketts de Silverstone, y el sector del estadio, al final de la vuelta, concentra una sucesión de curvas lentas y cerradas.
+Inaugurado en 2012, el COTA fue el primer circuito de Estados Unidos construido expresamente para la Fórmula 1. Su diseño es obra de Hermann Tilke y la vuelta, de unos 5,5 km con 20 curvas, se recorre en sentido antihorario. Varios tramos se inspiran en trazados célebres de otros países. Las rápidas curvas enlazadas que siguen a la curva 1 recuerdan a Maggotts y Becketts, en Silverstone, mientras que el sector del estadio, al final de la vuelta, reúne una sucesión de curvas lentas muy próximas entre sí.
 
-Sobre todo el conjunto se eleva la torre de observación roja, junto a la curva 17. Desde su mirador con suelo de cristal se domina la pista, enmarcada por los soportes curvos de acero rojo de la estructura. En el anfiteatro contiguo se celebran los conciertos nocturnos que desde hace años forman parte del fin de semana de carrera. La mayor parte de los adelantamientos se produce en la larga recta trasera, que desemboca en una fuerte frenada.
+Sobre todo el conjunto se alza, junto a la curva 17, la torre de observación roja. Desde su mirador con suelo de cristal se contempla la pista, enmarcada por los soportes curvos de acero rojo. En el anfiteatro contiguo se celebran los conciertos nocturnos que desde hace años forman parte del fin de semana de carrera. La larga recta trasera desemboca en una fuerte frenada, y es ahí donde se producen la mayoría de los adelantamientos.
 
-## Cómo elegir el sitio
+## Dónde sentarse
 
-En el COTA conviene escoger la zona con un objetivo claro. Estos son algunos de los criterios que los aficionados suelen tener en cuenta:
+En el COTA conviene elegir la zona con un criterio claro. Estos eran algunos de los aspectos que sopesaban los aficionados:
 
-- **Tribuna y colina de la curva 1:** la salida, el arranque cuesta arriba y el caos de la primera vuelta.
-- **Curva 12:** la frenada al final de la recta trasera, el mejor terreno para los adelantamientos.
-- **Eses (curvas 3-6):** rápidos cambios de dirección; el lugar idóneo para ver a los coches al límite.
-- **Tribuna principal:** el pit lane, la preparación de la parrilla y el podio.
-- **Entrada general:** laderas de césped repartidas por el trazado, con libertad para moverse de una curva a otra.
+- **Tribuna y colina de la curva 1:** la salida, la arrancada cuesta arriba y el caos de la primera vuelta.
+- **Curva 12:** la frenada al final de la recta trasera, terreno privilegiado para adelantar.
+- **Eses (curvas 3-6):** rápidos cambios de dirección, ideales para ver a los coches al límite.
+- **Tribuna principal:** el pit lane, los preparativos en la parrilla y el podio.
+- **Entrada general:** laderas de césped repartidas por todo el trazado y libertad para ir de una curva a otra.
 
-Buena parte de la zona de entrada general es una explanada de hierba con poca sombra. A finales de octubre, los días en Austin suelen ser cálidos y soleados, así que el sombrero y la crema solar resultan imprescindibles. En el plano oficial de asientos se muestra la vista desde cada sector, y la web del circuito detalla los tipos de entrada y sus precios.
+Buena parte de la zona de entrada general es césped abierto con poca sombra. A finales de octubre, los días en Austin suelen ser cálidos y soleados, así que el sombrero y la crema solar eran lo habitual. El plano oficial de asientos mostraba la vista desde cada sector, y los tipos de entrada y sus precios figuraban en la web del circuito.
 
-## Hasta el extremo de la ciudad
+## Hasta las afueras de la ciudad
 
-El circuito está en Del Valle, al sureste de Austin, cerca del Aeropuerto Internacional Austin-Bergstrom. Un día cualquiera, el trayecto en coche desde el centro dura una media hora. Durante el fin de semana de carrera, sin embargo, las carreteras de los alrededores se convierten en un embudo. El grueso del tráfico circula por la FM 812 y por Elroy Road, dos vías rurales de un carril por sentido que no están pensadas para semejante afluencia.
+El circuito se encuentra en Del Valle, al sureste de Austin, a una media hora en coche del centro en un día normal y muy cerca del Aeropuerto Internacional Austin-Bergstrom. Durante el fin de semana de carrera, el cuello de botella son las carreteras de los alrededores. La mayor parte del tráfico circula por FM 812 y Elroy Road, dos vías rurales de un carril por sentido que no están pensadas para semejante afluencia.
 
-Por eso la mayoría de los visitantes evita hacer todo el recorrido en coche. Desde hace tiempo, la principal alternativa son los autobuses lanzadera oficiales que parten del centro de Austin; los vehículos con conductor contratados por aplicación cuentan, por su parte, con una zona de bajada reservada. Como apenas hay hoteles junto al circuito, lo habitual es alojarse en el centro, en South Congress o en las inmediaciones del aeropuerto y desplazarse a diario.
+Por eso la mayoría de los visitantes evitaba hacer todo el trayecto en coche. Los autobuses lanzadera oficiales desde el centro de Austin han sido durante años la principal alternativa, y los servicios de vehículos con conductor disponían de una zona de bajada específica. Como apenas hay hoteles cerca del circuito, lo normal era alojarse en el centro, en South Congress o en los alrededores del aeropuerto y desplazarse a diario.
 
-## El fin de semana de carrera, a la manera de Austin
+## El fin de semana de carrera, al estilo de Austin
 
-El público aquí es tejano de pura cepa: sombreros vaqueros en las gradas, camisetas de los equipos por todas partes y largas caminatas desde cualquier puerta de acceso. Estas costumbres hacen más llevaderas las jornadas.
+El público es puramente texano: sombreros vaqueros en las tribunas, camisetas de los equipos por todas partes y largas caminatas desde cualquier puerta. Estas costumbres hacían más llevaderas las jornadas.
 
-- **Pagos:** en los puestos de comida y de recuerdos se paga habitualmente con tarjeta o sin contacto, y en los bares se deja propina, como es costumbre en Estados Unidos.
-- **Desplazamientos entre curvas:** ir a pie desde la entrada principal hasta el fondo del circuito lleva mucho tiempo. Quienes tienen entrada general suelen quedarse en una sola zona por sesión en lugar de recorrer la vuelta entera.
-- **Salida:** las colas para las lanzaderas y los vehículos con conductor alcanzan su máximo justo después de la bandera a cuadros. Muchos aficionados se quedan a ver el podio, la invasión de pista (cuando se permite) o el concierto nocturno, y esperan a que se disuelva la primera oleada.
-- **El jueves:** con menos coches en pista, la nueva jornada inaugural es la más cómoda para explorar el recinto y la torre.
+- **Pagos:** en los puestos de comida y de recuerdos se pagaba normalmente con tarjeta o sin contacto, y en los bares regía la propina al estilo estadounidense.
+- **Desplazamientos entre curvas:** ir a pie desde la entrada principal hasta el fondo del circuito lleva mucho tiempo. Los aficionados con entrada general solían quedarse en una zona por sesión en lugar de dar la vuelta completa andando.
+- **Salida:** justo después de la bandera a cuadros, las colas de las lanzaderas y de los vehículos con conductor alcanzaban su punto máximo. Muchos aficionados se quedaban al podio, a la invasión de pista (cuando estaba permitida) o al concierto nocturno, y dejaban pasar la primera oleada.
+- **Jueves:** con menos coches en pista, la nueva jornada inaugural era la más cómoda para recorrer el recinto y subir a la torre.
 
 ## Más allá del circuito
 
-Con la carrera, Austin entera se vuelca en una gran fiesta. Cada noche, Sixth Street y Rainey Street, en pleno centro, se llenan de aficionados vestidos con los colores de sus equipos. South Congress Avenue es el sitio ideal para comprar botas tejanas y contemplar el Capitolio. Si busca un rato de calma, el lago Lady Bird ofrece un sendero circular a la sombra.
+Con la carrera, toda Austin se convierte en una fiesta. En el centro, Sixth Street y Rainey Street se llenaban cada noche de aficionados vestidos con los colores de sus equipos. South Congress Avenue es el lugar para comprar botas texanas y contemplar el Capitolio. Para una hora más tranquila, Lady Bird Lake cuenta con un sendero circular a la sombra.
 
-La colonia de murciélagos que vive bajo el puente de Congress Avenue alza el vuelo al anochecer, y en octubre todavía es posible verlos antes de que migren al sur para pasar el invierno.
+Al anochecer, la colonia de murciélagos del puente de Congress Avenue emprende el vuelo, y en octubre todavía puede verse antes de que emigre al sur para pasar el invierno.
 
-La gran cita gastronómica de la ciudad es la barbacoa. En los asadores más afamados, las colas para conseguir pecho de res ahumado pueden formarse mucho antes de la hora de comer, por lo que muchos visitantes los reservan para el día anterior o el posterior al fin de semana de carrera. Quienes vuelan para asistir a las cuatro jornadas suelen calcular al menos una semana de estancia en Austin.
+La barbacoa es la gran cita gastronómica de la ciudad. En los asadores más conocidos, las colas para el brisket pueden empezar mucho antes de la hora de comer, por lo que muchos visitantes los dejaban para el día anterior o posterior al fin de semana de carrera. Quienes volaban hasta allí para los cuatro días solían reservar al menos una semana para Austin.
