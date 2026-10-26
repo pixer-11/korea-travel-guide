@@ -371,13 +371,81 @@ const OFFSTAGE = /\b(airport|KLIA|ICN|Incheon International|Gimpo|Narita|Haneda|
 // is a spirits-company event ("Won Spirits CEO Jay Park"), his 2012 one a stage.
 const ONSTAGE = /\b(perform\w*|concert|stage|live|singing|sings|tour|festival|showcase|music bank|inkigayo|countdown|fancon|fan meeting)\b/i;
 const PERFORMER_SUFFIXES = ['singer', 'musician', 'band', 'group', 'rapper', 'South Korean group', 'Japanese group', 'DJ', 'composer'];
-export async function performerCategoryPhotos(name, { limit = 8 } = {}) {
+// The act's category when its title is not one we can spell (2026-10-26).
+// BIGBANG's is "Big Bang (musical group from South Korea)" — a space, and a
+// suffix no fixed list held — so 11 BIGBANG guides never reached it: six
+// shared one text-search series, two shipped photoless, and Tokyo's carried
+// Norway's rock band Bigbang. Search the category namespace, keep the musical
+// ones whose name squashes to the act's, and when namesakes remain (South
+// Korea, Norway, the UK) take the one whose member sub-categories — G-Dragon,
+// Taeyang — the guide itself names. No winner, no category: a namesake's
+// photo is worse than none.
+const MUSIC_PAREN = /\(([^)]*\b(?:musical group|band|singer|rapper|musician|idol|duo|trio|girl group|boy group)\b[^)]*)\)\s*$/i;
+const squash = (s) => fold(String(s)).replace(/[^a-z0-9]/g, '');
+// How a guide says where an act is from. A city does not count — BIGBANG's
+// London guide says London because the show is there.
+const COUNTRY_CUES = {
+  'South Korea': /\bk-?pop\b|\bkorean\b|\bsouth korea\b/i,
+  Japan: /\bj-?pop\b|\bjapanese\b/i,
+  China: /\bc-?pop\b|\bmandopop\b|\bchinese\b/i,
+  Taiwan: /\bmandopop\b|\btaiwanese\b/i,
+  Norway: /\bnorwegian\b|\bnorway\b/i,
+  'United Kingdom': /\bbritish\b|\bunited kingdom\b/i,
+  'United States': /\bamerican\b/i,
+};
+export function pickPerformerCategory(name, candidates, memberHits = new Map()) {
+  const cands = [...new Set(candidates.filter((t) => MUSIC_PAREN.test(t)
+    && !/\b(?:19|20)\d{2}\b/.test(t)
+    && squash(t.replace(/\s*\(.*\)$/, '')) === squash(name)))];
+  if (cands.length <= 1) return cands[0] || null;
+  const scored = cands.map((c) => [memberHits.get(c) || 0, c]).sort((a, b) => b[0] - a[0]);
+  return scored[0][0] > 0 && scored[0][0] > scored[1][0] ? scored[0][1] : null;
+}
+async function searchedPerformerCategory(n, context) {
+  const found = (await commonsJson('https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srlimit=15&origin=*&srsearch=' + encodeURIComponent(n)))?.query?.search ?? [];
+  const titles = found.map((s) => s.title.replace(/^Category:/, ''));
+  const ctx = ` ${allWords(context).join(' ')} `;
+  const memberHits = new Map();
+  const musical = titles.filter((t) => MUSIC_PAREN.test(t) && squash(t.replace(/\s*\(.*\)$/, '')) === squash(n));
+  if (musical.length > 1) {
+    for (const c of musical) {
+      const subs = (await commonsJson('https://commons.wikimedia.org/w/api.php?action=query&format=json&list=categorymembers&cmtype=subcat&cmlimit=50&origin=*&cmtitle=' + encodeURIComponent(`Category:${c}`)))?.query?.categorymembers ?? [];
+      let hits = 0;
+      for (const m of subs) {
+        const base = m.title.replace(/^Category:/, '').replace(/\s*\(.*\)$/, '');
+        if (/\b(?:19|20)\d{2}\b/.test(base)) continue;
+        const w = allWords(base).filter((x) => x.length > 2);
+        if (w.length && w.every((x) => ctx.includes(` ${x} `))) hits++;
+      }
+      // The country in the category's own name, against what the guide says
+      // the act is ("a K-pop group", "the Korean five-piece"). Most guides name
+      // a member; Kaohsiung's names none and says only "K-pop" (10-26).
+      const from = (c.match(/\bfrom (?:the )?([^)]+)\)/i) || [])[1] || '';
+      const cue = COUNTRY_CUES[from] || (from && new RegExp(`\\b${from.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\b`, 'i'));
+      if (cue && cue.test(context)) hits += 2;
+      memberHits.set(c, hits);
+    }
+  }
+  return pickPerformerCategory(n, titles, memberHits);
+}
+
+export async function performerCategoryPhotos(name, { limit = 8, context = '' } = {}) {
   const n = String(name ?? '').trim();
   if (!n) return [];
   // Category titles are case-sensitive past the first letter: an act styled
   // in capitals (BABYMONSTER) is filed as Category:Babymonster.
   const spellings = [...new Set([n, /^[^a-z]+$/.test(n) ? n[0] + n.slice(1).toLowerCase() : n])];
-  for (const cat of spellings.flatMap((sp) => [...PERFORMER_SUFFIXES.map((s) => `${sp} (${s})`), sp])) {
+  const fixed = spellings.flatMap((sp) => [...PERFORMER_SUFFIXES.map((s) => `${sp} (${s})`), sp]);
+  let searched = false;
+  for (let k = 0; k < fixed.length + 1; k++) {
+    let cat = fixed[k];
+    if (k === fixed.length) {
+      // Every spelled guess came back empty: look the category up instead.
+      if (searched) break;
+      searched = true;
+      cat = await searchedPerformerCategory(n, `${n} ${context}`);
+      if (!cat) break;
+    }
     // The act's own files, then its sub-categories that carry its name (2026-10-09:
     // Category:Jay Park holds two files, a signboard among them, while his stage
     // photos sit in "Jay Park by year" → "Jay Park in 2014" — the London guide

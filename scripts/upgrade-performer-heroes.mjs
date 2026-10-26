@@ -57,7 +57,7 @@ for (const { f, slug, raw, data } of posts) {
   if (!cur) continue; // a photoless guide is the photo patrol's — it tries the act first now
   if (tried[slug] === cur) { skipped++; continue; }
   let cands = [];
-  try { cands = await performerCategoryPhotos(act, { limit: 8 }); } catch {}
+  try { cands = await performerCategoryPhotos(act, { limit: 8, context: raw }); } catch {}
   cands = cands.filter((c) => !isUsedImage(used, c.url)).slice(0, 2);
   if (DRY) { console.log(`  · ${slug} (${act}): ${cands.length} candidate(s) from Category:${cands[0]?.category ?? '—'}`); continue; }
   let won = null, vis = null;

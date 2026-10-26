@@ -28,3 +28,21 @@ test('eventCategoryFits 역방향 (코덱스 10-09 재현 3건)', async () => {
   assert.equal(eventCategoryFits('Bangkok Marathon', 'Bangkok Half Marathon', 'Bangkok'), false);
   assert.ok(eventCategoryFits('Maratona internazionale di Palermo', 'Palermo Marathon (Maratona Internazionale di Palermo)', 'Palermo'));
 });
+
+// 2026-10-26: BIGBANG's category is "Big Bang (musical group from South Korea)"
+// — no fixed suffix spelled it — and Norway and the UK have bands of the same
+// name. Tokyo's guide carried the Norwegian band's photo.
+test('pickPerformerCategory: namesakes are told apart by the guide, or not at all', async () => {
+  const { pickPerformerCategory } = await import('./commons.mjs');
+  const titles = ['Bigbang', 'Bigbang (musical group from Norway)', 'Big Bang (musical group from South Korea)',
+    'Øystein Greni', 'Big Bang', 'Daesung', 'G-Dragon', 'Big Bang (musical group from South Korea) in 2016'];
+  assert.equal(pickPerformerCategory('BIGBANG', titles), null, 'two namesakes and no evidence: none');
+  assert.equal(pickPerformerCategory('BIGBANG', titles, new Map([
+    ['Big Bang (musical group from South Korea)', 2], ['Bigbang (musical group from Norway)', 0]])),
+  'Big Bang (musical group from South Korea)');
+  assert.equal(pickPerformerCategory('BIGBANG', titles, new Map([
+    ['Big Bang (musical group from South Korea)', 2], ['Bigbang (musical group from Norway)', 2]])), null, 'a tie is not a winner');
+  assert.equal(pickPerformerCategory('Babymonster', ['Babymonster (musical group from South Korea)', 'Baby Monster (film)']),
+    'Babymonster (musical group from South Korea)', 'one musical match needs no evidence');
+  assert.equal(pickPerformerCategory('Khalid', ['Khalid (politician)', 'Khalid Sheikh']), null, 'not a musical category');
+});

@@ -31,15 +31,15 @@ faq:
 aiGenerated: true
 draft: false
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/4/47/%C3%98ystein_Greni_Bigbang_EnergiM%C3%B8lla.jpg
-  credit: 'Photo: Jose Sa / Wikimedia Commons (CC BY 2.0)'
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Big_Bang_at_their_Big_Bang_Big_Show_performance%2C_2011_-_2.jpg/3840px-Big_Bang_at_their_Big_Bang_Big_Show_performance%2C_2011_-_2.jpg
+  credit: 'Photo: Korea.net / Korean Culture and Information Service / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:%C3%98ystein_Greni_Bigbang_EnergiM%C3%B8lla.jpg
+  source: https://commons.wikimedia.org/wiki/File:Big_Bang_at_their_Big_Bang_Big_Show_performance,_2011_-_2.jpg
   focus:
-    x: 52
+    x: 33
     'y': 26
-    top: 20
-    bottom: 32
+    top: 22
+    bottom: 29
 ---
 
 ## Three nights under the Big Egg

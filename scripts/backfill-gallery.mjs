@@ -105,7 +105,7 @@ for (const { f, data } of candidates) {
   // Same sources and the same gate as publish (lib/inbody-candidates): only
   // the retry cadence is this file's.
   const offered = isEvent
-    ? eventInBodyCandidates({ name, region: data.region || '', performer: data.eventPerformer?.name || '', heroUrl }, why)
+    ? eventInBodyCandidates({ name, region: data.region || '', performer: data.eventPerformer?.name || '', heroUrl, context: `${data.title} ${data.description || ''} ${data.quickAnswer || ''}` }, why)
     : venueInBodyCandidates({ name, region: data.region, country: data.country, lat: data.place.lat, lng: data.place.lng, heroUrl, landmark: isLandmarkPost(data.category, data.heroImage.license, name) }, why);
   const picked = await pickFirstPassing(offered, {
     used: usedUrls, why, allowed: isImageAllowed,

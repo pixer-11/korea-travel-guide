@@ -13,7 +13,6 @@ eventPerformer:
   name: BIGBANG
   kind: group
 eventFactsAsked: true
-gallery: []
 tags:
   - kaohsiung
   - event
@@ -31,6 +30,16 @@ faq:
     a: Lotus Pond and the Dragon and Tiger Pagodas are close to Zuoying. Pier-2 Art Center and the Cijin Island ferry are on the harbour side of the city. Liuhe and Ruifeng night markets are both on or near the Red Line.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Big_Bang_at_their_Big_Show_performance%2C_2011_-_3.jpg/3840px-Big_Bang_at_their_Big_Show_performance%2C_2011_-_3.jpg
+  credit: 'Photo: Korea.net / Korean Culture and Information Service / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Big_Bang_at_their_Big_Show_performance,_2011_-_3.jpg
+  focus:
+    x: 61
+    'y': 21
+    top: 17
+    bottom: 25
 ---
 
 ## Three nights under the dragon roof

@@ -13,7 +13,6 @@ eventPerformer:
   name: BIGBANG
   kind: group
 eventFactsAsked: true
-gallery: []
 tags:
   - jakarta
   - event
@@ -31,6 +30,14 @@ faq:
     a: Many stay in Sentul City or Bogor to avoid the late drive back to Jakarta. That also puts the Bogor Botanical Gardens and Jungleland within easy reach the next day.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Big_Bang_at_their_Big_Show_performance%2C_2011.jpg/3840px-Big_Bang_at_their_Big_Show_performance%2C_2011.jpg
+  credit: 'Photo: KOREA.NET - Official page of the Republic of Korea / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Big_Bang_at_their_Big_Show_performance,_2011.jpg
+  focus:
+    x: 50
+    'y': 45
 ---
 
 ## Twenty years, one Saturday night

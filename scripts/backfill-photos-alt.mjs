@@ -437,7 +437,7 @@ for (const f of files) {
     if (performer) {
       try {
         const picked = [];
-        for (const o of await performerCategoryPhotos(performer, { limit: 10 })) {
+        for (const o of await performerCategoryPhotos(performer, { limit: 10, context: `${data.title} ${content}` })) {
           if (picked.length >= 3) break;
           if (judgedWrong(slug, o.url, data.category)) continue;
           if (isUsedImage(used, o.url)) continue;

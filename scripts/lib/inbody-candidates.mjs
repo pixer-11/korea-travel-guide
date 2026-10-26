@@ -123,12 +123,12 @@ export function namesEventSubject(title = '', { performer = '', name = '', regio
  * the file's own NAME must say who or what it shows: every word of the act,
  * or the event's key word. A hero with no doubt beats a pair with one.
  */
-export async function* eventInBodyCandidates({ name, region, performer = '', heroUrl }, why = []) {
+export async function* eventInBodyCandidates({ name, region, performer = '', heroUrl, context = '' }, why = []) {
   const used = new Set();
   markUsedImage(used, heroUrl);
   let n = 0;
   const sources = [
-    ['performer category', () => (performer ? performerCategoryPhotos(performer, { limit: 12 }) : [])],
+    ['performer category', () => (performer ? performerCategoryPhotos(performer, { limit: 12, context }) : [])],
     ['event category', () => eventCategoryPhotos(name, { region, limit: 12 })],
   ];
   const namesIt = (c) => namesEventSubject(c.title, { performer, name, region });

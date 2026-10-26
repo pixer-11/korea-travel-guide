@@ -9195,7 +9195,7 @@
   "slug": "goyang-charlie-puth-concert",
   "verdict": "MATCH",
   "reason": "patrol replace: Performer on stage at concert venue",
-  "at": "2026-10-25T21:59:33.790Z"
+  "at": "2026-10-26T14:34:08.336Z"
  },
  "goyang-charlie-puth-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Charlie_Puth_al_Poble_Espanyol_%2857304%29.jpg/3840px-Charlie_Puth_al_Poble_Espanyol_%2857304%29.jpg": {
   "slug": "goyang-charlie-puth-concert",
@@ -12945,6 +12945,12 @@
   "reason": "patrol reject: audit: DJ booth, record store. Not restaurant/food venue.",
   "at": "2026-08-20T20:04:07.560Z"
  },
+ "jakarta-bigbang-jakarta-concert-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Big_Bang_at_their_Big_Show_performance%2C_2011.jpg/3840px-Big_Bang_at_their_Big_Show_performance%2C_2011.jpg": {
+  "slug": "jakarta-bigbang-jakarta-concert-2026",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Concert stage with performers and audience lighting",
+  "at": "2026-10-26T14:36:27.972Z"
+ },
  "jakarta-bts-world-tour-arirang-jakarta\u0001https://upload.wikimedia.org/wikipedia/commons/5/55/BTS_performing_%22Fake_Love%22_at_Seoul_Music_Awards%2C_15_January_2019.jpg": {
   "slug": "jakarta-bts-world-tour-arirang-jakarta",
   "verdict": "MATCH",
@@ -14187,6 +14193,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Isolated studio-style drink shot, not venue interior/exterior",
   "at": "2026-10-01T23:29:18.928Z"
+ },
+ "kaohsiung-bigbang-20th-anniversary-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Big_Bang_at_their_Big_Show_performance%2C_2011_-_3.jpg/3840px-Big_Bang_at_their_Big_Show_performance%2C_2011_-_3.jpg": {
+  "slug": "kaohsiung-bigbang-20th-anniversary-world-tour",
+  "verdict": "MATCH",
+  "reason": "patrol replace: BIGBANG concert performance, plausible archive photo",
+  "at": "2026-10-26T14:47:03.938Z"
  },
  "kaohsiung-dome-of-light\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Dome_of_Light%2C_Kaohsiung%2C_May_2026.jpg/1920px-Dome_of_Light%2C_Kaohsiung%2C_May_2026.jpg": {
   "slug": "kaohsiung-dome-of-light",
@@ -16495,7 +16507,7 @@
   "slug": "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia",
   "verdict": "MATCH",
   "reason": "patrol replace: MotoGP rider and bike at racing event",
-  "at": "2026-10-25T21:59:51.334Z"
+  "at": "2026-10-26T14:37:25.425Z"
  },
  "lombok-mount-rinjani-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Lembah_Torean_Rinjani.jpg/1920px-Lembah_Torean_Rinjani.jpg": {
   "slug": "lombok-mount-rinjani-national-park",
@@ -22856,8 +22868,8 @@
  "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/5_Seconds_Of_Summer%2C_Hammersmith_Apollo%2C_London_%2846534757555%29.jpg/1920px-5_Seconds_Of_Summer%2C_Hammersmith_Apollo%2C_London_%2846534757555%29.jpg": {
   "slug": "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour",
   "verdict": "MATCH",
-  "reason": "patrol replace: Guitarist performing, plausibly 5SOS member",
-  "at": "2026-10-25T22:00:41.775Z"
+  "reason": "patrol replace: Guitarist performing on stage, plausible concert act",
+  "at": "2026-10-26T14:40:24.647Z"
  },
  "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/5_Seconds_of_Summer_First_USA_Acoustic_IMG_3798_%2814848886021%29.jpg/3840px-5_Seconds_of_Summer_First_USA_Acoustic_IMG_3798_%2814848886021%29.jpg": {
   "slug": "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour",
@@ -27956,11 +27968,35 @@
   "reason": "patrol reject: Watermark credit overlay visible on photo",
   "at": "2026-10-25T23:27:42.808Z"
  },
+ "singapore-jay-chou-carnival-ii-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Jay_Chou_Opus_Tour_Hong_Kong_2013_IMG_2596w_%289788669466%29.jpg/3840px-Jay_Chou_Opus_Tour_Hong_Kong_2013_IMG_2596w_%289788669466%29.jpg": {
+  "slug": "singapore-jay-chou-carnival-ii-world-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Visible photographer watermark overlaid on image",
+  "at": "2026-10-26T14:42:28.498Z"
+ },
+ "singapore-jay-chou-carnival-ii-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Jay_Chou_Opus_Tour_Hong_Kong_2013_IMG_2449w_%289788680896%29.jpg/3840px-Jay_Chou_Opus_Tour_Hong_Kong_2013_IMG_2449w_%289788680896%29.jpg": {
+  "slug": "singapore-jay-chou-carnival-ii-world-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Visible photographer watermark credit overlay",
+  "at": "2026-10-26T14:42:24.707Z"
+ },
  "singapore-jay-chou-carnival-ii-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Jay_Chou_Opus_Tour_Hong_Kong_2013_IMG_2455w_%289788676656%29.jpg/3840px-Jay_Chou_Opus_Tour_Hong_Kong_2013_IMG_2455w_%289788676656%29.jpg": {
   "slug": "singapore-jay-chou-carnival-ii-world-tour",
   "verdict": "MISMATCH",
   "reason": "patrol reject: Photographer credit watermark overlaid on image",
   "at": "2026-10-25T23:27:48.526Z"
+ },
+ "singapore-jay-chou-carnival-ii-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Jay_Chou_Opus_Tour_Hong_Kong_2013_IMG_2500w_%289788670896%29.jpg/3840px-Jay_Chou_Opus_Tour_Hong_Kong_2013_IMG_2500w_%289788670896%29.jpg": {
+  "slug": "singapore-jay-chou-carnival-ii-world-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Visible photographer watermark overlaid on image",
+  "at": "2026-10-26T14:42:19.013Z"
+ },
+ "singapore-jay-chou-carnival-ii-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Jay_Chou_Opus_Tour_Hong_Kong_2013_IMG_2344w_%289788680664%29.jpg/3840px-Jay_Chou_Opus_Tour_Hong_Kong_2013_IMG_2344w_%289788680664%29.jpg": {
+  "slug": "singapore-jay-chou-carnival-ii-world-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Visible watermark credit overlay on photo",
+  "at": "2026-10-26T14:42:34.575Z"
  },
  "singapore-jay-chou-carnival-ii-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Jay_Chou_Opus_Tour_Hong_Kong_2013_IMG_2577w_%289788669936%29.jpg/3840px-Jay_Chou_Opus_Tour_Hong_Kong_2013_IMG_2577w_%289788669936%29.jpg": {
   "slug": "singapore-jay-chou-carnival-ii-world-tour",
@@ -27985,6 +28021,24 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Photographer watermark/credit overlaid on image",
   "at": "2026-10-25T23:27:50.955Z"
+ },
+ "singapore-jay-chou-carnival-ii-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Jay_Chou_Opus_Tour_Hong_Kong_2013_IMG_2462w_%289788673016%29.jpg/3840px-Jay_Chou_Opus_Tour_Hong_Kong_2013_IMG_2462w_%289788673016%29.jpg": {
+  "slug": "singapore-jay-chou-carnival-ii-world-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Visible photographer watermark overlaid on image",
+  "at": "2026-10-26T14:42:31.333Z"
+ },
+ "singapore-jay-chou-carnival-ii-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Jay_Chou_Opus_Tour_Hong_Kong_2013_IMG_2477w_%289788647125%29.jpg/3840px-Jay_Chou_Opus_Tour_Hong_Kong_2013_IMG_2477w_%289788647125%29.jpg": {
+  "slug": "singapore-jay-chou-carnival-ii-world-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Visible photographer watermark overlay on image",
+  "at": "2026-10-26T14:42:21.567Z"
+ },
+ "singapore-jay-chou-carnival-ii-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Jay_Chou_Opus_Tour_Hong_Kong_2013_IMG_2571w_%289788663134%29.jpg/3840px-Jay_Chou_Opus_Tour_Hong_Kong_2013_IMG_2571w_%289788663134%29.jpg": {
+  "slug": "singapore-jay-chou-carnival-ii-world-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Visible photographer watermark overlaid on image",
+  "at": "2026-10-26T14:42:15.150Z"
  },
  "singapore-jiin-omakase\u0001https://fastly.4sqi.net/img/general/original/136816523_lt-OryHUk5B-ZkDV4P0kyRvNNZCAztPaBSW1YHdbyQw.jpg": {
   "slug": "singapore-jiin-omakase",
@@ -30816,9 +30870,15 @@
  },
  "tokyo-bigbang-japan-dome-tour-tokyo\u0001https://upload.wikimedia.org/wikipedia/commons/4/47/%C3%98ystein_Greni_Bigbang_EnergiM%C3%B8lla.jpg": {
   "slug": "tokyo-bigbang-japan-dome-tour-tokyo",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: Norway's rock band Bigbang (Øystein Greni), not the Korean BIGBANG",
+  "at": "2026-10-26T14:31:40.388Z"
+ },
+ "tokyo-bigbang-japan-dome-tour-tokyo\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Big_Bang_at_their_Big_Bang_Big_Show_performance%2C_2011_-_2.jpg/3840px-Big_Bang_at_their_Big_Bang_Big_Show_performance%2C_2011_-_2.jpg": {
+  "slug": "tokyo-bigbang-japan-dome-tour-tokyo",
   "verdict": "MATCH",
-  "reason": "patrol replace: Live concert performance, likely BIGBANG era",
-  "at": "2026-10-12T00:47:55.161Z"
+  "reason": "patrol replace: BIGBANG concert performance on stage",
+  "at": "2026-10-26T14:44:58.426Z"
  },
  "tokyo-chez-calvert\u0001https://fastly.4sqi.net/img/general/original/105403_P6Spg16hKbvifZXhcHcv8jreNXnlu0jaZNfQhvCfV2g.jpg": {
   "slug": "tokyo-chez-calvert",

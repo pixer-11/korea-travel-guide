@@ -337,7 +337,7 @@ async function writeDiscovered(item, ctx) {
   if (cat === 'event') {
     const performer = typeof item.performer === 'string' ? item.performer.trim() : '';
     const pool = [];
-    try { if (performer) pool.push(...await performerCategoryPhotos(performer, { limit: 6 })); } catch {}
+    try { if (performer) pool.push(...await performerCategoryPhotos(performer, { limit: 6, context: `${item.name} ${item.summary || ''}` })); } catch {}
     try { pool.push(...await eventCategoryPhotos(item.name, { region: item.city || '', limit: 6 })); } catch {}
     let tried = 0;
     for (const c of pool) {
@@ -432,7 +432,7 @@ async function writeDiscovered(item, ctx) {
       const why = [];
       const performer = typeof item.performer === 'string' ? item.performer.trim() : '';
       const picked = await pickFirstPassing(
-        eventInBodyCandidates({ name: item.name, region: item.city || '', performer, heroUrl: heroImage.url }, why),
+        eventInBodyCandidates({ name: item.name, region: item.city || '', performer, heroUrl: heroImage.url, context: `${item.name} ${item.summary || ''}` }, why),
         {
           used: ctx.usedImages, why, allowed: isImageAllowed,
           verify: (c) => verifyGalleryImage({

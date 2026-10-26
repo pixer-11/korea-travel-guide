@@ -181,6 +181,20 @@ const ENDED_SCHEDULE = {
   Spanish: 'Give the dates once as the schedule — "Las fechas anunciadas eran del 20 al 24 de septiembre de 2026". Any other date is a plain fact about that schedule ("la final era el 5 de septiembre, en Ciudad Ho Chi Minh"). Use prevista/programada at most once in a title, description, answer or paragraph.',
 };
 
+// An event that has NOT happened yet, translated so that it stays true after it
+// has (2026-10-26, 픽서님: "애초에 발행할 때 문제가 생기지 않도록"). The English
+// has been written this way since 10-06 — "The dates are…", the organiser
+// "publishes" tickets — but every translation still said 열립니다 / 開催されます /
+// se celebrará / 将于, which is wrong the morning after the event; then each
+// one had to be re-translated (82 the weekend of 10-25, 24 a run). A schedule
+// stated as a fact about this edition reads as naturally before as after.
+const EVENT_TIMELESS = {
+  Korean: 'State the dates as the schedule of this edition: "일정은 2026년 9월 20~24일입니다", "2026년 9월 20~24일 일정의 (event)", "결승 일정은 9월 5일, 장소는 호찌민시입니다". Never 열립니다, 진행됩니다, 개최됩니다, 열릴 예정입니다/예정이며, 진행될 예정 — those turn wrong the day after it ends.',
+  Japanese: 'State the dates as the schedule of this edition: "会期は2026年9月20日〜24日です", "決勝は9月5日、会場はホーチミン市です". Never 開催されます, 行われます, 予定です, 開催予定です.',
+  'Simplified Chinese': 'State the dates as the schedule of this edition: "日程为2026年9月20日至24日", "决赛日期为9月5日，地点为胡志明市". Never 将于, 将在, 即将, 定于.',
+  Spanish: 'State the dates as the schedule of this edition: "Las fechas de la edición de 2026 son del 20 al 24 de septiembre", "la final es el 5 de septiembre, en Ciudad Ho Chi Minh". Never se celebrará, tendrá lugar, se llevará a cabo, se celebra el / se celebra del.',
+};
+
 function prompt(langName, data) {
   return `Rewrite this English travel guide in ${langName}, as if a native ${langName} travel editor had written it from scratch. Every word of your output must be in ${langName}.
 
@@ -210,7 +224,10 @@ ${data.ended ? `- This event has ALREADY TAKEN PLACE. The source is written as a
   · A previous attempt wrote ${data.outcomeFeedback.map((q) => `"${q}"`).join(', ')}. That either tells the reader to do something or says this edition actually happened ("se celebró", "열렸습니다", "開催されました"), and the source says neither. Rewrite that sentence as what was announced: the event was set for its dates and venue.` : ''}
   · Plain voice. A closing signpost such as "What it was, when and where." is not content: render it as one short natural sentence or fold it into the sentence before. Never unfold it into a list of questions ("what it was, when and where it was to be held, what was announced…") — that reads as machine-written.
   · Drop nothing: a question like "Where can I eat before the show?" keeps its answer, but the framing follows the same rule — it describes what was there, not what a reader should do now.
-  · Add no instruction to check, confirm, verify, book, reserve or arrive early.` : ''}
+  · Add no instruction to check, confirm, verify, book, reserve or arrive early.` : ''}${data.event && !data.ended ? `- This is a dated event that has not happened yet, but this page stays online after it, so every sentence must still be true the day after it ends — as the English already is.
+  · DATES: ${EVENT_TIMELESS[langName] || 'state the dates as a fact about this edition\'s schedule, never in the future tense.'}
+  · Where the English says the organiser publishes tickets or details on its site, keep it a fact; practical tips stay what attendees usually do. Add no instruction to check, confirm, verify, book, reserve or arrive early.${data.timelessFeedback?.length ? `
+  · A previous attempt wrote ${data.timelessFeedback.map((q) => `"${q}"`).join(', ')}. That is the future or the announcing present, which reads wrong once the event is over. Rewrite those sentences as the schedule of this edition, as above.` : ''}` : ''}
 
 SOURCE
 Title: ${data.title}
@@ -581,6 +598,22 @@ async function translateOne(langCode, srcId, data, hash, attempt = 1, pre = null
     }
   }
 
+  // At birth, for an event that has not happened yet: the same vocabulary the
+  // end-of-event audit will use, applied now, so the translation is born in the
+  // form that stays true. A miss here is kept after three tries (the page is
+  // correct today; the end-of-event repair is still there as the net), never
+  // thrown — an upcoming event must not lose its translation over a verb.
+  if (!bad && data.event && !data.ended) {
+    const upcoming = upcomingHits(out, langCode);
+    if (upcoming.length) {
+      if (attempt < 3) {
+        console.log(`     ↻ ${langCode}/${srcId} — upcoming event written as "will be held" (${upcoming.slice(0, 2).join(', ')}), retrying for a form that survives the date (attempt ${attempt + 1})`);
+        return translateOne(langCode, srcId, { ...data, timelessFeedback: upcoming.slice(0, 3) }, hash, attempt + 1);
+      }
+      console.log(`     ⚠ ${langCode}/${srcId} — still dated in the future tense after ${attempt} attempts (${upcoming.slice(0, 2).join(', ')}); kept, the end-of-event repair will redo it`);
+    }
+  }
+
   if (!bad && data.ended) {
     const advice = ENDED_ADVICE[langCode];
     const fields = [out.description, out.quickAnswer, ...(Array.isArray(out.faq) ? out.faq.map((f) => `${f?.q} ${f?.a}`) : []), out.body].join('\n');
@@ -748,7 +781,7 @@ for (const f of files) {
   const endedRaw = fm.eventEndDate || fm.eventStartDate;
   const endedDay = endedRaw instanceof Date ? endedRaw.toISOString().slice(0, 10) : String(endedRaw || '').slice(0, 10);
   const ended = fm.category === 'event' && !!endedDay && endedDay < new Date().toISOString().slice(0, 10);
-  const data = { title: fm.title, description: fm.description, quickAnswer: fm.quickAnswer, faq: fm.faq, body, ended };
+  const data = { title: fm.title, description: fm.description, quickAnswer: fm.quickAnswer, faq: fm.faq, body, ended, event: fm.category === 'event' };
   REGION_OF.set(id, String(fm.region ?? ''));
   // Through the shared reader, so a tool that re-stamps a translation's hash
   // (resync-rating-badges, resync-prose-ratings) computes the identical value.
