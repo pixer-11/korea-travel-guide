@@ -96,29 +96,30 @@
     "san-francisco-balmy-alley",
     "khiva-khiva-ichan-kala",
     "kolkata-victoria-memorial",
-    "mexico-city-bosque-de-chapultepec"
+    "mexico-city-bosque-de-chapultepec",
+    "taipei-cks-shilin-residence-chrysanthemum-festival"
   ],
-  "lastSentDay": "2026-10-26",
+  "lastSentDay": "2026-10-27",
   "material": {
-    "day": "2026-10-26",
-    "slug": "mexico-city-bosque-de-chapultepec",
-    "title": "Bosque de Chapultepec: Mexico City Travel Guide (4.7★)",
+    "day": "2026-10-27",
+    "slug": "taipei-cks-shilin-residence-chrysanthemum-festival",
+    "title": "CKS Shilin Residence Chrysanthemum Festival: Dates, Tickets & Venue (Taipei)",
     "urls": [
-      "https://wanderatlasguides.com/og/social/2026-10-26-mexico-city-bosque-de-chapultepec-1.jpg",
-      "https://wanderatlasguides.com/og/social/2026-10-26-mexico-city-bosque-de-chapultepec-2.jpg",
-      "https://wanderatlasguides.com/og/social/2026-10-26-mexico-city-bosque-de-chapultepec-3.jpg",
-      "https://wanderatlasguides.com/og/social/2026-10-26-mexico-city-bosque-de-chapultepec-4.jpg"
+      "https://wanderatlasguides.com/og/social/2026-10-27-taipei-cks-shilin-residence-chrysanthemum-festival-1.jpg",
+      "https://wanderatlasguides.com/og/social/2026-10-27-taipei-cks-shilin-residence-chrysanthemum-festival-2.jpg",
+      "https://wanderatlasguides.com/og/social/2026-10-27-taipei-cks-shilin-residence-chrysanthemum-festival-3.jpg",
+      "https://wanderatlasguides.com/og/social/2026-10-27-taipei-cks-shilin-residence-chrysanthemum-festival-4.jpg"
     ],
-    "igCaption": "Bosque de Chapultepec: Mexico City Travel Guide (4.7★) — Mexico City, Mexico\n📷 Photo: EneasMx / Wikimedia Commons (CC BY-SA 4.0) (edited)\n📷 Photo: José Luiz / Wikimedia Commons (CC BY-SA 4.0) (edited)\n📷 Photo: Own work / Wikimedia Commons (CC BY-SA 4.0) (edited)",
-    "thOption": "Get to Chapultepec between 7-8am (any day) for empty paths — after 10am on weekends it's packed until the 6pm close. Carry small pesos for vendors and boat rentals; museums take cards.",
-    "link": "https://wanderatlasguides.com/posts/mexico-city-bosque-de-chapultepec/"
+    "igCaption": "A presidential garden turns into a sea of chrysanthemums every late November. Cascades, thousand-bloom domes, and spidery exhibition blooms fill the lawns of the Chiang Kai-shek Shilin Residence — free to walk through, straight from Fulin Road.\n\n#Taipei #Taiwan #events #travel #wanderatlas #ChrysanthemumFestival #ShilinResidence #TravelTaiwan #GardenTravel\n📷 Photo: 阿道 / Wikimedia Commons (CC BY-SA 4.0) (edited)",
+    "thOption": "Cascade curtains, thousand-bloom domes, or spidery single-stem blooms — which chrysanthemum form would you want to see up close at Shilin Guandi?",
+    "link": "https://wanderatlasguides.com/posts/taipei-cks-shilin-residence-chrysanthemum-festival/"
   },
   "social": {
-    "thDay": "2026-10-26",
-    "thId": "18086772302702927",
+    "thDay": "2026-10-27",
+    "thId": "18449738785132202",
     "igDay": "2026-10-26",
     "igId": "18113028917171926",
-    "thSlug": "mexico-city-bosque-de-chapultepec",
+    "thSlug": "taipei-cks-shilin-residence-chrysanthemum-festival",
     "igSlug": "mexico-city-bosque-de-chapultepec",
     "history": [
       {
@@ -310,7 +311,17 @@
       {
         "day": "2026-10-20",
         "slug": "mexico-city-boynextdoor-knock-on-tour",
-        "thId": "18334505047302452"
+        "thId": "18334505047302452",
+        "insights": {
+          "at": "2026-10-27",
+          "th": {
+            "views": 10,
+            "likes": 0,
+            "replies": 0,
+            "reposts": 0,
+            "quotes": 0
+          }
+        }
       },
       {
         "day": "2026-10-21",
@@ -344,6 +355,11 @@
         "slug": "mexico-city-bosque-de-chapultepec",
         "thId": "18086772302702927",
         "igId": "18113028917171926"
+      },
+      {
+        "day": "2026-10-27",
+        "slug": "taipei-cks-shilin-residence-chrysanthemum-festival",
+        "thId": "18449738785132202"
       }
     ]
   }
