@@ -27,6 +27,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 38.9067529
   lng: 1.4366501999999999
+  phone: '+34 971 39 92 32'
 tags:
   - ibiza
   - hidden gem
