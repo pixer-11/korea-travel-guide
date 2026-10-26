@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: buenos-aires-palacio-barolo
-srcHash: '7c7eb51a9c4b'
+srcHash: '9c40db21d90d'
 title: 'Palacio Barolo: guía de viaje de Buenos Aires (4.6★)'
-description: 'Inaugurado en 1923 en Av. de Mayo 1370, en la zona de Monserrat/Congreso de Buenos Aires, el Palacio Barolo es un edificio de oficinas concebido a partir de la Divina Comedia de Dante. Sus pisos superiores y su faro solo pueden recorrerse con visita guiada. 4.6★ (30,234 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'Inaugurado en 1923 en Av. de Mayo 1370, en la zona de Monserrat/Congreso de Buenos Aires, el Palacio Barolo es un edificio de oficinas concebido a partir de la Divina Comedia de Dante. Sus pisos superiores y su faro solo pueden recorrerse con visita guiada. 4.6★ (30,237 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Inaugurado en 1923 en Av. de Mayo 1370, en la zona de Monserrat/Congreso de Buenos Aires, el Palacio Barolo es un edificio de oficinas concebido a partir de la Divina Comedia de Dante. Sus pisos superiores y su faro solo pueden recorrerse con visita guiada, así que conviene reservar turno con antelación. Los momentos más tranquilos son de martes a viernes entre las 9am–10am y, los fines de semana, de 10am–5pm o de 8pm–10pm.
 faq:
   - q: ¿Hay que reservar con antelación la visita al Palacio Barolo?

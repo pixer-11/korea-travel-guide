@@ -1,55 +1,86 @@
 ---
-title: "Templo del sol: Ollantaytambo Travel Guide (4.8★)"
-description: "The Templo del sol sits at the top of the Inca terraces of the Ollantaytambo archaeological site in Peru's Sacred Valley, a short walk from the town's main plaza. 4.8★ (1,019 reviews) — what visitors say, hours, and tips."
-country: "Peru"
-region: "Ollantaytambo"
-category: "attraction"
-pubDate: "2026-10-26T15:34:26.201Z"
+title: 'Templo del sol: Ollantaytambo Travel Guide (4.8★)'
+description: >-
+  The Templo del sol sits at the top of the Inca terraces of the Ollantaytambo
+  archaeological site in Peru's Sacred Valley, a short walk from the town's main
+  plaza. 4.8★ (1,018 reviews) — what visitors say, hours, and tips.
+country: Peru
+region: Ollantaytambo
+category: attraction
+pubDate: '2026-10-26T15:34:26.201Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/a/af/Templo_del_Sol_en_Sitio_Arqueol%C3%B3gico_de_Ollantaytambo.jpg"
-  credit: "Photo: Ankim29 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Templo_del_Sol_en_Sitio_Arqueol%C3%B3gico_de_Ollantaytambo.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/a/af/Templo_del_Sol_en_Sitio_Arqueol%C3%B3gico_de_Ollantaytambo.jpg
+  credit: 'Photo: Ankim29 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Templo_del_Sol_en_Sitio_Arqueol%C3%B3gico_de_Ollantaytambo.jpg
+  via: act
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJ_zmhmWnqbZERcgD2wyC8mtI"
-  name: "Templo del sol"
-  address: "PPVM+34M, Ollantaytambo 08676, Peru"
+  id: ChIJ_zmhmWnqbZERcgD2wyC8mtI
+  name: Templo del sol
+  address: 'PPVM+34M, Ollantaytambo 08676, Peru'
   rating: 4.8
-  userRatingsTotal: 1019
-  googleMapsUrl: "https://maps.google.com/?cid=15175648743290962034&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1018
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15175648743290962034&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -13.257278399999999
   lng: -72.2672098
   openingHours:
-    - "Monday: 8:00 AM – 5:00 PM"
-    - "Tuesday: 8:00 AM – 5:00 PM"
-    - "Wednesday: 8:00 AM – 5:00 PM"
-    - "Thursday: 8:00 AM – 5:00 PM"
-    - "Friday: 8:00 AM – 5:00 PM"
-    - "Saturday: 8:00 AM – 5:00 PM"
-    - "Sunday: 8:00 AM – 5:00 PM"
+    - 'Monday: 8:00 AM – 5:00 PM'
+    - 'Tuesday: 8:00 AM – 5:00 PM'
+    - 'Wednesday: 8:00 AM – 5:00 PM'
+    - 'Thursday: 8:00 AM – 5:00 PM'
+    - 'Friday: 8:00 AM – 5:00 PM'
+    - 'Saturday: 8:00 AM – 5:00 PM'
+    - 'Sunday: 8:00 AM – 5:00 PM'
 tags:
-  - "ollantaytambo"
-  - "historic site"
-quickAnswer: "The Templo del sol sits at the top of the Inca terraces of the Ollantaytambo archaeological site in Peru's Sacred Valley, a short walk from the town's main plaza. Its best-known feature is a wall of six huge pink stone monoliths. At the moment the site opens 8:00 AM to 5:00 PM, but hours change through the year. Arriving at opening usually puts you at the top before the day tours from Cusco come in."
+  - ollantaytambo
+  - historic site
+quickAnswer: >-
+  The Templo del sol sits at the top of the Inca terraces of the Ollantaytambo
+  archaeological site in Peru's Sacred Valley, a short walk from the town's main
+  plaza. Its best-known feature is a wall of six huge pink stone monoliths. At
+  the moment the site opens 8:00 AM to 5:00 PM, but hours change through the
+  year. Arriving at opening usually puts you at the top before the day tours
+  from Cusco come in.
 faq:
-  - q: "What are the opening hours of the Templo del sol in Ollantaytambo?"
-    a: "At the moment the archaeological site is listed as open 8:00 AM to 5:00 PM. Archaeological sites in the Cusco region change hours through the year and on some holidays, so check the official site or ask at the gate before you go."
-  - q: "How long does it take to visit the Temple of the Sun?"
-    a: "Allow two to three hours for the whole site. The climb up the terraces to the temple takes about 20–30 minutes at a steady pace, and the altitude of roughly 2,800 metres slows most people down."
-  - q: "Do I need a special ticket?"
-    a: "Ollantaytambo is included in the Boleto Turístico del Cusco, the combined tourist ticket for Cusco and Sacred Valley sites. Current prices and circuit options are posted at the ticket office and on the official site."
-  - q: "When is the best time to visit?"
-    a: "Early morning, right at the current 8:00 AM opening, usually beats the day tours from Cusco and gives you morning light over the valley. If you want to tie your visit to the solstice alignments, Inca ceremony was most closely linked to the June solstice."
-  - q: "What else is nearby?"
-    a: "You can see the Kachiqhata quarry, where the pink stone came from, across the river. The Pinkuylluna storehouses are on the opposite hillside, and the Inca street grid of Ollantaytambo town is a short walk away. Ollantaytambo station has trains to Aguas Calientes for Machu Picchu."
+  - q: What are the opening hours of the Templo del sol in Ollantaytambo?
+    a: >-
+      At the moment the archaeological site is listed as open 8:00 AM to 5:00
+      PM. Archaeological sites in the Cusco region change hours through the year
+      and on some holidays, so check the official site or ask at the gate before
+      you go.
+  - q: How long does it take to visit the Temple of the Sun?
+    a: >-
+      Allow two to three hours for the whole site. The climb up the terraces to
+      the temple takes about 20–30 minutes at a steady pace, and the altitude of
+      roughly 2,800 metres slows most people down.
+  - q: Do I need a special ticket?
+    a: >-
+      Ollantaytambo is included in the Boleto Turístico del Cusco, the combined
+      tourist ticket for Cusco and Sacred Valley sites. Current prices and
+      circuit options are posted at the ticket office and on the official site.
+  - q: When is the best time to visit?
+    a: >-
+      Early morning, right at the current 8:00 AM opening, usually beats the day
+      tours from Cusco and gives you morning light over the valley. If you want
+      to tie your visit to the solstice alignments, Inca ceremony was most
+      closely linked to the June solstice.
+  - q: What else is nearby?
+    a: >-
+      You can see the Kachiqhata quarry, where the pink stone came from, across
+      the river. The Pinkuylluna storehouses are on the opposite hillside, and
+      the Inca street grid of Ollantaytambo town is a short walk away.
+      Ollantaytambo station has trains to Aguas Calientes for Machu Picchu.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-26'
 ---
 
 ## Six stones at the top of the stairs

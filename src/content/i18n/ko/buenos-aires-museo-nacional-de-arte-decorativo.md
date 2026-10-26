@@ -1,9 +1,9 @@
 ---
 lang: ko
 slug: buenos-aires-museo-nacional-de-arte-decorativo
-srcHash: '85e348b7bccd'
+srcHash: '967567a350b7'
 title: '국립장식미술관(Museo Nacional de Arte Decorativo): 부에노스아이레스 여행 가이드'
-description: 국립장식미술관은 부에노스아이레스의 레콜레타와 팔레르모 치코가 만나는 Av. del Libertador 1902에 있습니다. 프랑스풍 저택인 에라수리스 궁전 안에 자리 잡았으며 평점은 4.7★(리뷰 16,932건)입니다. 방문객 후기와 운영 시간, 관람 팁을 함께 정리했습니다.
+description: 국립장식미술관은 부에노스아이레스의 레콜레타와 팔레르모 치코가 만나는 Av. del Libertador 1902에 있습니다. 프랑스풍 저택인 에라수리스 궁전 안에 자리 잡았으며 평점은 4.7★(리뷰 16,934건)입니다. 방문객 후기와 운영 시간, 관람 팁을 함께 정리했습니다.
 quickAnswer: 국립장식미술관은 부에노스아이레스의 레콜레타와 팔레르모 치코가 만나는 Av. del Libertador 1902에 있으며, 프랑스풍 저택인 에라수리스 궁전(Palacio Errázuriz) 안에 자리 잡고 있습니다. 현재는 수요일부터 일요일까지 1–7pm에 문을 열고 월요일과 화요일은 휴관합니다. 주말에는 1pm–7pm 운영 시간 내내 붐비므로, 가능하면 수요일에서 금요일 사이에 방문하시기 바랍니다.
 faq:
   - q: 국립장식미술관이 가장 한산한 시간은 언제입니까?

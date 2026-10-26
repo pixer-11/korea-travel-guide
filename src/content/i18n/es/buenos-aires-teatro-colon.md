@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: buenos-aires-teatro-colon
-srcHash: 'ef6b33d0194a'
+srcHash: 'bbda113c7c40'
 title: 'Teatro Colón: guía de viaje de Buenos Aires (4.8★)'
-description: 'El Teatro Colón, la gran casa de ópera de Buenos Aires, se encuentra en Cerrito 628, en San Nicolás, a pocos pasos del Obelisco y de la estación Tribunales de la línea D del subte. Reserve con antelación. 4.8★ (90,478 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'El Teatro Colón, la gran casa de ópera de Buenos Aires, se encuentra en Cerrito 628, en San Nicolás, a pocos pasos del Obelisco y de la estación Tribunales de la línea D del subte. Reserve con antelación. 4.8★ (90,487 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Teatro Colón, la gran casa de ópera de Buenos Aires, se encuentra en Cerrito 628, en el barrio de San Nicolás, a pocos pasos del Obelisco y de la estación Tribunales de la línea D del subte. Puede reservar una visita guiada de unos 50 minutos o, mejor aún, una función a través del sitio oficial, teatrocolon.org.ar, donde figuran los horarios, las fechas y los precios vigentes. Como la demanda es muy alta, conviene asegurarse con tiempo tanto el turno de la visita como una buena ubicación.
 faq:
   - q: ¿Cómo se llega al Teatro Colón en subte?

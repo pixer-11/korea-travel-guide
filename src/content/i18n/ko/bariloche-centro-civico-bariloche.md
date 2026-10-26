@@ -1,9 +1,9 @@
 ---
 lang: ko
 slug: bariloche-centro-civico-bariloche
-srcHash: '5853e3a10f63'
+srcHash: 'd82145f8b182'
 title: '센트로 시비코: 바릴로체 여행 가이드 (4.6★)'
-description: 센트로 시비코(Centro Cívico)는 나우엘우아피 호숫가의 Libertad 56에 자리한 산카를로스데바릴로체의 중앙 광장입니다. 돌과 목재로 지었으며 광장은 24시간 개방됩니다. 평점 4.6★(리뷰 12,347개)를 받은 이곳의 방문객 후기와 운영 시간, 여행 팁을 정리했습니다.
+description: 센트로 시비코(Centro Cívico)는 나우엘우아피 호숫가의 Libertad 56에 자리한 산카를로스데바릴로체의 중앙 광장입니다. 돌과 목재로 지었으며 광장은 24시간 개방됩니다. 평점 4.6★(리뷰 12,348개)를 받은 이곳의 방문객 후기와 운영 시간, 여행 팁을 정리했습니다.
 quickAnswer: 센트로 시비코(Centro Cívico)는 산카를로스데바릴로체(San Carlos de Bariloche)의 중앙 광장으로, 나우엘우아피 호수(Lago Nahuel Huapi) 가장자리의 Libertad 56에 있습니다. 돌과 목재로 지은 이 광장은 24시간 내내 개방됩니다. 아케이드를 거닐고 파타고니아 박물관(Museo de la Patagonia)을 둘러본 뒤 호숫가나 미트레 거리(Calle Mitre)로 내려가면 되는데, 한 시간 정도면 충분합니다. 시내에서 가장 붐비는 곳 중 하나이므로 인파 없이 사진을 찍으려면 이른 아침에 가는 것이 가장 좋습니다.
 faq:
   - q: 바릴로체 센트로 시비코는 밤에도 개방하나요?

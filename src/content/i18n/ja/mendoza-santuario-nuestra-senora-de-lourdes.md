@@ -1,9 +1,9 @@
 ---
 lang: ja
 slug: mendoza-santuario-nuestra-senora-de-lourdes
-srcHash: 'a1f58555e1b2'
+srcHash: '252169b01b63'
 title: ルルドの聖母聖堂（Santuario Nuestra Señora de Lourdes）：メンドーサ旅行ガイド
-description: メンドーサ中心部の北西に広がる山麓の町、エル・チャジャオ（El Challao）。P. Julio Valicenti 3530にあるルルドの聖母聖堂は、丘の斜面に建つ巡礼教会と洞窟です。評価は4.7★（12,653件のレビュー）です。訪れた人の声や開館時間、訪問のコツをご紹介します。
+description: メンドーサ中心部の北西に広がる山麓の町、エル・チャジャオ（El Challao）。P. Julio Valicenti 3530にあるルルドの聖母聖堂は、丘の斜面に建つ巡礼教会と洞窟です。評価は4.7★（12,654件のレビュー）です。訪れた人の声や開館時間、訪問のコツをご紹介します。
 quickAnswer: ルルドの聖母聖堂（Santuario Nuestra Señora de Lourdes）は、メンドーサ中心部から北西の山麓に入ったエル・チャジャオ（El Challao）の丘に建つ巡礼教会で、洞窟もあります。住所はP. Julio Valicenti 3530です。比較的すいているのは平日の午前9時〜11時と午後8時〜9時です。いちばん混雑するのは週末の午前10時〜午後2時と午後4時〜8時なので、この時間帯は避けましょう。開館時間ははっきりしていないため、出かける前に確認してください。
 faq:
   - q: ルルドの聖母聖堂がいちばんすいているのはいつですか？

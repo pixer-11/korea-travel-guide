@@ -1,56 +1,84 @@
 ---
-title: "Museo de Ciencias Naturales y Antropológicas Juan Cornelio Moyano: Mendoza Travel Guide"
-description: "The Museo de Ciencias Naturales y Antropológicas Juan Cornelio Moyano sits on Av. 4.6★ (6,861 reviews) — what visitors say, hours, and tips."
-country: "Argentina"
-region: "Mendoza"
-category: "attraction"
-pubDate: "2026-10-26T07:42:57.184Z"
+title: >-
+  Museo de Ciencias Naturales y Antropológicas Juan Cornelio Moyano: Mendoza
+  Travel Guide
+description: >-
+  The Museo de Ciencias Naturales y Antropológicas Juan Cornelio Moyano sits on
+  Av. 4.6★ (6,863 reviews) — what visitors say, hours, and tips.
+country: Argentina
+region: Mendoza
+category: attraction
+pubDate: '2026-10-26T07:42:57.184Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Museo_de_Ciencias_Naturales_y_Antropol%C3%B3gicas_Juan_Cornelio_Moyano.jpg/3840px-Museo_de_Ciencias_Naturales_y_Antropol%C3%B3gicas_Juan_Cornelio_Moyano.jpg"
-  credit: "Photo: basilicofresco / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Museo_de_Ciencias_Naturales_y_Antropol%C3%B3gicas_Juan_Cornelio_Moyano.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Museo_de_Ciencias_Naturales_y_Antropol%C3%B3gicas_Juan_Cornelio_Moyano.jpg/3840px-Museo_de_Ciencias_Naturales_y_Antropol%C3%B3gicas_Juan_Cornelio_Moyano.jpg
+  credit: 'Photo: basilicofresco / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Museo_de_Ciencias_Naturales_y_Antropol%C3%B3gicas_Juan_Cornelio_Moyano.jpg
+  via: act
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJc_O426UJfpYRJ_JxEVFJYS8"
-  name: "Museo de Ciencias Naturales y Antropológicas Juan Cornelio Moyano"
-  address: "Av. las Tipas, M5500 Mendoza, Argentina"
+  id: ChIJc_O426UJfpYRJ_JxEVFJYS8
+  name: Museo de Ciencias Naturales y Antropológicas Juan Cornelio Moyano
+  address: 'Av. las Tipas, M5500 Mendoza, Argentina'
   rating: 4.6
-  userRatingsTotal: 6861
-  googleMapsUrl: "https://maps.google.com/?cid=3414090605057405479&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 6863
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3414090605057405479&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -32.8984677
   lng: -68.86481719999999
-  phone: "+54 261 428-7666"
+  phone: +54 261 428-7666
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 9:00 AM – 7:00 PM"
-    - "Wednesday: 9:00 AM – 7:00 PM"
-    - "Thursday: 9:00 AM – 7:00 PM"
-    - "Friday: 9:00 AM – 7:00 PM"
-    - "Saturday: 9:00 AM – 7:00 PM"
-    - "Sunday: 2:00 – 7:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 9:00 AM – 7:00 PM'
+    - 'Wednesday: 9:00 AM – 7:00 PM'
+    - 'Thursday: 9:00 AM – 7:00 PM'
+    - 'Friday: 9:00 AM – 7:00 PM'
+    - 'Saturday: 9:00 AM – 7:00 PM'
+    - 'Sunday: 2:00 – 7:00 PM'
 tags:
-  - "mendoza"
-  - "museum"
-quickAnswer: "The Museo de Ciencias Naturales y Antropológicas Juan Cornelio Moyano sits on Av. las Tipas inside Parque General San Martín, on the western edge of central Mendoza, beside the park's lake. At the moment it opens Tuesday to Saturday 9am–7pm and Sunday 2–7pm, and it is closed Mondays. Allow 1.5–2 hours, then walk on to the Rosedal or up to Cerro de la Gloria."
+  - mendoza
+  - museum
+quickAnswer: >-
+  The Museo de Ciencias Naturales y Antropológicas Juan Cornelio Moyano sits on
+  Av. las Tipas inside Parque General San Martín, on the western edge of central
+  Mendoza, beside the park's lake. At the moment it opens Tuesday to Saturday
+  9am–7pm and Sunday 2–7pm, and it is closed Mondays. Allow 1.5–2 hours, then
+  walk on to the Rosedal or up to Cerro de la Gloria.
 faq:
-  - q: "Where exactly is the Museo Moyano in Mendoza?"
-    a: "It is on Av. las Tipas inside Parque General San Martín, beside the park lake and close to the Rosedal. It is about 3–4 km west of Plaza Independencia, a short taxi ride or roughly a 45-minute walk."
-  - q: "Is the museum open on Mondays?"
-    a: "No. At the moment it is closed on Mondays and open Tuesday to Saturday 9am–7pm, and Sunday 2–7pm. Hours can change with the season and on holidays, so check the official site before you go."
-  - q: "How long should I spend there?"
-    a: "Allow 1.5–2 hours for the natural science and anthropology galleries. Add a few more hours if you want to walk the lake, see the Rosedal or go up to Cerro de la Gloria."
-  - q: "Are the exhibits in English?"
-    a: "Expect most labels to be in Spanish. A translation app with camera mode helps, and the fossils and animal displays are easy to follow without much text."
-  - q: "What else is nearby?"
-    a: "The park lake and Rosedal are right beside the museum. Cerro de la Gloria with the Monumento al Ejército de los Andes, the Ecoparque and the Portones del Parque gates are all within Parque General San Martín."
+  - q: Where exactly is the Museo Moyano in Mendoza?
+    a: >-
+      It is on Av. las Tipas inside Parque General San Martín, beside the park
+      lake and close to the Rosedal. It is about 3–4 km west of Plaza
+      Independencia, a short taxi ride or roughly a 45-minute walk.
+  - q: Is the museum open on Mondays?
+    a: >-
+      No. At the moment it is closed on Mondays and open Tuesday to Saturday
+      9am–7pm, and Sunday 2–7pm. Hours can change with the season and on
+      holidays, so check the official site before you go.
+  - q: How long should I spend there?
+    a: >-
+      Allow 1.5–2 hours for the natural science and anthropology galleries. Add
+      a few more hours if you want to walk the lake, see the Rosedal or go up to
+      Cerro de la Gloria.
+  - q: Are the exhibits in English?
+    a: >-
+      Expect most labels to be in Spanish. A translation app with camera mode
+      helps, and the fossils and animal displays are easy to follow without much
+      text.
+  - q: What else is nearby?
+    a: >-
+      The park lake and Rosedal are right beside the museum. Cerro de la Gloria
+      with the Monumento al Ejército de los Andes, the Ecoparque and the
+      Portones del Parque gates are all within Parque General San Martín.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-26'
 ---
 
 ## A museum at the end of a lakeside walk

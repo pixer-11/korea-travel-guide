@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: mendoza-parque-general-san-martin
-srcHash: 'd9e66462d592'
+srcHash: 'd3b6a684204a'
 title: 'Parque General San Martín: guía de viaje de Mendoza (4.8★)'
-description: 'El Parque General San Martín es el enorme parque de Mendoza diseñado por Charles Thays, al que se accede por unos portones de hierro forjado en la Av. 4.8★ (62,806 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'El Parque General San Martín es el enorme parque de Mendoza diseñado por Charles Thays, al que se accede por unos portones de hierro forjado en la Av. 4.8★ (62,813 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'El Parque General San Martín, enorme espacio verde diseñado por Charles Thays, se encuentra a unos 2 km al oeste del centro de Mendoza y se entra por los portones de hierro forjado de la Av. Emilio Civit. Conviene dedicarle medio día: primero el lago y el rosedal, y después la subida al Cerro de la Gloria, donde esperan el monumento al Ejército de los Andes y una buena vista de la ciudad. Es mejor ir de día. La primavera y el otoño son las estaciones más agradables.'
 faq:
   - q: ¿Cómo se llega al Parque General San Martín desde el centro de Mendoza?

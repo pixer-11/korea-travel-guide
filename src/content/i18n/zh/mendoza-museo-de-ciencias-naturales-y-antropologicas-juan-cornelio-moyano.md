@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: mendoza-museo-de-ciencias-naturales-y-antropologicas-juan-cornelio-moyano
-srcHash: 'ef012db759ec'
+srcHash: 'aac38b61f131'
 title: 门多萨胡安·科尔内利奥·莫亚诺自然科学与人类学博物馆旅行指南
-description: 胡安·科尔内利奥·莫亚诺自然科学与人类学博物馆位于门多萨Av. las Tipas，评分4.6★（6,861条评价）。本文汇总游客评价、开放时间与参观贴士。
+description: 胡安·科尔内利奥·莫亚诺自然科学与人类学博物馆位于门多萨Av. las Tipas，评分4.6★（6,863条评价）。本文汇总游客评价、开放时间与参观贴士。
 quickAnswer: 胡安·科尔内利奥·莫亚诺自然科学与人类学博物馆（Museo de Ciencias Naturales y Antropológicas Juan Cornelio Moyano）坐落在门多萨市中心西缘的圣马丁将军公园（Parque General San Martín）内，地址为Av. las Tipas，紧邻公园湖畔。目前开放时间为周二至周六9am–7pm、周日2–7pm，周一闭馆。参观约需1.5–2小时，看完可以步行前往玫瑰园（Rosedal），或登上荣耀山（Cerro de la Gloria）。
 faq:
   - q: 门多萨的莫亚诺博物馆具体在哪里？

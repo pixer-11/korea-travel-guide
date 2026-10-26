@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: mendoza-museo-de-ciencias-naturales-y-antropologicas-juan-cornelio-moyano
-srcHash: 'ef012db759ec'
+srcHash: 'aac38b61f131'
 title: 'Museo de Ciencias Naturales y Antropológicas Juan Cornelio Moyano: guía de viaje de Mendoza'
 description: Valorado con 4.6★ en 6,861 reseñas, el Museo de Ciencias Naturales y Antropológicas Juan Cornelio Moyano se encuentra en la Av. las Tipas. Opiniones de los visitantes, horarios y consejos.
 quickAnswer: En el extremo oeste del centro de Mendoza, dentro del Parque General San Martín, el Museo de Ciencias Naturales y Antropológicas Juan Cornelio Moyano ocupa un edificio de la Av. las Tipas junto al lago del parque. Actualmente abre de martes a sábado de 9am–7pm y los domingos de 2–7pm. Los lunes permanece cerrado. Calcule entre 1.5–2 horas de visita y, al salir, siga a pie hasta el Rosedal o suba al Cerro de la Gloria.

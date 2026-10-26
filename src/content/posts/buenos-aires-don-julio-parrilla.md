@@ -1,46 +1,52 @@
 ---
-title: "Don Julio Parrilla: Where to Eat in Buenos Aires (4.4★)"
-description: "Don Julio Parrilla is a high-end steakhouse at Guatemala 4699, on the corner of Gurruchaga in Palermo Soho, Buenos Aires. 4.4★ (20,017 reviews) — what visitors say, hours, and tips."
-country: "Argentina"
-region: "Buenos Aires"
-category: "restaurant"
-pubDate: "2026-10-26T15:38:55.696Z"
+title: 'Don Julio Parrilla: Where to Eat in Buenos Aires (4.4★)'
+description: >-
+  Don Julio Parrilla is a high-end steakhouse at Guatemala 4699, on the corner
+  of Gurruchaga in Palermo Soho, Buenos Aires. 4.4★ (20,019 reviews) — what
+  visitors say, hours, and tips.
+country: Argentina
+region: Buenos Aires
+category: restaurant
+pubDate: '2026-10-26T15:38:55.696Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Don_Julio_03.jpg/3840px-Don_Julio_03.jpg"
-  credit: "Photo: Roberto Fiadone / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Don_Julio_03.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Don_Julio_03.jpg/3840px-Don_Julio_03.jpg
+  credit: 'Photo: Roberto Fiadone / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Don_Julio_03.jpg'
+  via: act
   focus:
     x: 49
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Don_Julio_01.jpg/3840px-Don_Julio_01.jpg"
-    credit: "Photo: Roberto Fiadone / Wikimedia Commons (CC BY 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Don_Julio_01.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Don_Julio_01.jpg/3840px-Don_Julio_01.jpg
+    credit: 'Photo: Roberto Fiadone / Wikimedia Commons (CC BY 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Don_Julio_01.jpg'
 place:
-  id: "ChIJoYl36oa1vJURWWhqD9z3UV8"
-  name: "Don Julio Parrilla"
-  address: "Guatemala 4699, C1425 Cdad. Autónoma de Buenos Aires, Argentina"
+  id: ChIJoYl36oa1vJURWWhqD9z3UV8
+  name: Don Julio Parrilla
+  address: 'Guatemala 4699, C1425 Cdad. Autónoma de Buenos Aires, Argentina'
   rating: 4.4
-  userRatingsTotal: 20017
+  userRatingsTotal: 20019
   priceLevel: 4
-  googleMapsUrl: "https://maps.google.com/?cid=6868543431240214617&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6868543431240214617&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -34.5863711
   lng: -58.424241200000004
-  phone: "+54 11 5311-5668"
+  phone: +54 11 5311-5668
   openingHours:
-    - "Monday: 11:30 AM – 4:00 PM, 7:00 PM – 1:00 AM"
-    - "Tuesday: 11:30 AM – 4:00 PM, 7:00 PM – 1:00 AM"
-    - "Wednesday: 11:30 AM – 4:00 PM, 7:00 PM – 1:00 AM"
-    - "Thursday: 11:30 AM – 4:00 PM, 7:00 PM – 1:00 AM"
-    - "Friday: 11:30 AM – 4:00 PM, 7:00 PM – 1:00 AM"
-    - "Saturday: 11:30 AM – 4:00 PM, 7:00 PM – 1:00 AM"
-    - "Sunday: 11:30 AM – 4:00 PM, 7:00 PM – 1:00 AM"
+    - 'Monday: 11:30 AM – 4:00 PM, 7:00 PM – 1:00 AM'
+    - 'Tuesday: 11:30 AM – 4:00 PM, 7:00 PM – 1:00 AM'
+    - 'Wednesday: 11:30 AM – 4:00 PM, 7:00 PM – 1:00 AM'
+    - 'Thursday: 11:30 AM – 4:00 PM, 7:00 PM – 1:00 AM'
+    - 'Friday: 11:30 AM – 4:00 PM, 7:00 PM – 1:00 AM'
+    - 'Saturday: 11:30 AM – 4:00 PM, 7:00 PM – 1:00 AM'
+    - 'Sunday: 11:30 AM – 4:00 PM, 7:00 PM – 1:00 AM'
   busyness:
-    updated: 2026-10-26
+    updated: 2026-10-26T00:00:00.000Z
     weekdayBusy:
       - 19
       - 20
@@ -52,24 +58,41 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_385655337a39447168575752554a7631616f36336c596f4a496843"
+    venueId: ven_385655337a39447168575752554a7631616f36336c596f4a496843
 tags:
-  - "buenos aires"
-  - "local restaurant"
-quickAnswer: "Don Julio Parrilla is a high-end steakhouse at Guatemala 4699, on the corner of Gurruchaga in Palermo Soho, Buenos Aires. Book online weeks ahead, order a long-aged cut cooked a punto, and avoid the weekend peaks of 1pm–2pm and 7pm–11pm. Currently it serves lunch 11:30am–4pm and dinner 7pm–1am."
+  - buenos aires
+  - local restaurant
+quickAnswer: >-
+  Don Julio Parrilla is a high-end steakhouse at Guatemala 4699, on the corner
+  of Gurruchaga in Palermo Soho, Buenos Aires. Book online weeks ahead, order a
+  long-aged cut cooked a punto, and avoid the weekend peaks of 1pm–2pm and
+  7pm–11pm. Currently it serves lunch 11:30am–4pm and dinner 7pm–1am.
 faq:
-  - q: "Do I need a reservation at Don Julio?"
-    a: "Yes, for dinner especially. Book online through the restaurant's official site, ideally weeks ahead. Walk-ins should expect a long wait outside."
-  - q: "When is the quietest time to visit?"
-    a: "We don't have a measured quiet window. The data does show weekends are busiest from 1pm–2pm and 7pm–11pm, so aim for the 11:30am opening or a late table after 11pm. Dinner currently runs until 1am."
-  - q: "What are the current opening hours?"
-    a: "At the moment it opens every day of the week for lunch, 11:30am–4pm, and dinner, 7pm–1am. It closes between services, so check the official site before you go."
-  - q: "How do I get there?"
-    a: "The address is Guatemala 4699, at Gurruchaga in Palermo Soho. Take Subte Line D to Scalabrini Ortiz or Plaza Italia, then walk 10–15 minutes."
-  - q: "What should I order?"
-    a: "Start with the bife de chorizo or ojo de bife cooked a punto. Add mollejas and provoleta to share, plus an Argentine Malbec."
+  - q: Do I need a reservation at Don Julio?
+    a: >-
+      Yes, for dinner especially. Book online through the restaurant's official
+      site, ideally weeks ahead. Walk-ins should expect a long wait outside.
+  - q: When is the quietest time to visit?
+    a: >-
+      We don't have a measured quiet window. The data does show weekends are
+      busiest from 1pm–2pm and 7pm–11pm, so aim for the 11:30am opening or a
+      late table after 11pm. Dinner currently runs until 1am.
+  - q: What are the current opening hours?
+    a: >-
+      At the moment it opens every day of the week for lunch, 11:30am–4pm, and
+      dinner, 7pm–1am. It closes between services, so check the official site
+      before you go.
+  - q: How do I get there?
+    a: >-
+      The address is Guatemala 4699, at Gurruchaga in Palermo Soho. Take Subte
+      Line D to Scalabrini Ortiz or Plaza Italia, then walk 10–15 minutes.
+  - q: What should I order?
+    a: >-
+      Start with the bife de chorizo or ojo de bife cooked a punto. Add mollejas
+      and provoleta to share, plus an Argentine Malbec.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-26'
 ---
 
 ## A corner grill in Palermo Soho

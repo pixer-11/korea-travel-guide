@@ -1,51 +1,80 @@
 ---
-title: "Teatro Colón: Buenos Aires Travel Guide (4.8★)"
-description: "Teatro Colón is Buenos Aires' opera house, at Cerrito 628 in San Nicolás, a short walk from the Obelisco and Tribunales station on Subte Line D. Book. 4.8★ (90,478 reviews) — what visitors say, hours, and tips."
-country: "Argentina"
-region: "Buenos Aires"
-category: "attraction"
-pubDate: "2026-10-26T15:38:57.770Z"
+title: 'Teatro Colón: Buenos Aires Travel Guide (4.8★)'
+description: >-
+  Teatro Colón is Buenos Aires' opera house, at Cerrito 628 in San Nicolás, a
+  short walk from the Obelisco and Tribunales station on Subte Line D. Book.
+  4.8★ (90,487 reviews) — what visitors say, hours, and tips.
+country: Argentina
+region: Buenos Aires
+category: attraction
+pubDate: '2026-10-26T15:38:57.770Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Fachada_del_Teatro_Col%C3%B3n_en_Buenos_Aires%2C_Argentina.jpg/1920px-Fachada_del_Teatro_Col%C3%B3n_en_Buenos_Aires%2C_Argentina.jpg"
-  credit: "Photo: EEJCC / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Fachada_del_Teatro_Col%C3%B3n_en_Buenos_Aires,_Argentina.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Fachada_del_Teatro_Col%C3%B3n_en_Buenos_Aires%2C_Argentina.jpg/1920px-Fachada_del_Teatro_Col%C3%B3n_en_Buenos_Aires%2C_Argentina.jpg
+  credit: 'Photo: EEJCC / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Fachada_del_Teatro_Col%C3%B3n_en_Buenos_Aires,_Argentina.jpg
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Teatro_Col%C3%B3n%2C_Buenos_Aires_01.jpg/3840px-Teatro_Col%C3%B3n%2C_Buenos_Aires_01.jpg"
-    credit: "Photo: Bernard Gagnon / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Teatro_Col%C3%B3n,_Buenos_Aires_01.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Teatro_Col%C3%B3n%2C_Buenos_Aires_01.jpg/3840px-Teatro_Col%C3%B3n%2C_Buenos_Aires_01.jpg
+    credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Teatro_Col%C3%B3n,_Buenos_Aires_01.jpg
 place:
-  id: "ChIJIxYSMMbKvJURqZGJyCpvOFM"
-  name: "Teatro Colón"
-  address: "Cerrito 628, C1010 Cdad. Autónoma de Buenos Aires, Argentina"
+  id: ChIJIxYSMMbKvJURqZGJyCpvOFM
+  name: Teatro Colón
+  address: 'Cerrito 628, C1010 Cdad. Autónoma de Buenos Aires, Argentina'
   rating: 4.8
-  userRatingsTotal: 90478
-  googleMapsUrl: "https://maps.google.com/?cid=5996665133387583913&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 90487
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5996665133387583913&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -34.601152
   lng: -58.3833278
-  phone: "+54 11 4378-7100"
+  phone: +54 11 4378-7100
 tags:
-  - "buenos aires"
-  - "Teatro Colon"
-quickAnswer: "Teatro Colón is Buenos Aires' opera house, at Cerrito 628 in San Nicolás, a short walk from the Obelisco and Tribunales station on Subte Line D. Book a guided tour (about 50 minutes) or, better, a performance through the official site, teatrocolon.org.ar, where current hours, dates and prices are listed. It is very popular, so reserve tour slots and good seats ahead."
+  - buenos aires
+  - Teatro Colon
+quickAnswer: >-
+  Teatro Colón is Buenos Aires' opera house, at Cerrito 628 in San Nicolás, a
+  short walk from the Obelisco and Tribunales station on Subte Line D. Book a
+  guided tour (about 50 minutes) or, better, a performance through the official
+  site, teatrocolon.org.ar, where current hours, dates and prices are listed. It
+  is very popular, so reserve tour slots and good seats ahead.
 faq:
-  - q: "How do I get to Teatro Colón by Subte?"
-    a: "Tribunales station on Line D is closest, on the Plaza Lavalle side of the theatre. Carlos Pellegrini (Line B) and Diagonal Norte (Line C), both under the Obelisco, are a few blocks' walk north along Avenida 9 de Julio."
-  - q: "How long does the Teatro Colón tour take?"
-    a: "About 50 minutes. Tours run in Spanish and English and cover the main foyer, the Salón Dorado and a view of the auditorium. Book a slot ahead on teatrocolon.org.ar because they fill up."
-  - q: "Is it better to take the tour or see a performance?"
-    a: "If you have time, see a performance. The building is famous for its acoustics, and you only hear them during a show. The tour suits daytime visitors or anyone who can't make the dates in the programme."
-  - q: "When is the performance season?"
-    a: "The main season for opera, ballet and concerts runs roughly from March to December. The official site lists exact dates, times and seat prices for each production."
-  - q: "Is there a dress code?"
-    a: "There's no strict dress code. Smart-casual is fine, and many local audience members dress up a little for evening opera and ballet. Arrive on time, because latecomers wait outside until a break."
+  - q: How do I get to Teatro Colón by Subte?
+    a: >-
+      Tribunales station on Line D is closest, on the Plaza Lavalle side of the
+      theatre. Carlos Pellegrini (Line B) and Diagonal Norte (Line C), both
+      under the Obelisco, are a few blocks' walk north along Avenida 9 de Julio.
+  - q: How long does the Teatro Colón tour take?
+    a: >-
+      About 50 minutes. Tours run in Spanish and English and cover the main
+      foyer, the Salón Dorado and a view of the auditorium. Book a slot ahead on
+      teatrocolon.org.ar because they fill up.
+  - q: Is it better to take the tour or see a performance?
+    a: >-
+      If you have time, see a performance. The building is famous for its
+      acoustics, and you only hear them during a show. The tour suits daytime
+      visitors or anyone who can't make the dates in the programme.
+  - q: When is the performance season?
+    a: >-
+      The main season for opera, ballet and concerts runs roughly from March to
+      December. The official site lists exact dates, times and seat prices for
+      each production.
+  - q: Is there a dress code?
+    a: >-
+      There's no strict dress code. Smart-casual is fine, and many local
+      audience members dress up a little for evening opera and ballet. Arrive on
+      time, because latecomers wait outside until a break.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-26'
 ---
 
 ## A horseshoe of red velvet and gold

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: buenos-aires-museo-nacional-de-arte-decorativo
-srcHash: '85e348b7bccd'
+srcHash: '967567a350b7'
 title: 'Museo Nacional de Arte Decorativo: guía de viaje de Buenos Aires'
-description: En el afrancesado Palacio Errázuriz, sobre Av. del Libertador 1902 y justo donde Recoleta se encuentra con Palermo Chico, se halla el Museo Nacional de Arte Decorativo de Buenos Aires. Con 4.7★ (16.932 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
+description: En el afrancesado Palacio Errázuriz, sobre Av. del Libertador 1902 y justo donde Recoleta se encuentra con Palermo Chico, se halla el Museo Nacional de Arte Decorativo de Buenos Aires. Con 4.7★ (16.934 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
 quickAnswer: En Av. del Libertador 1902, en el límite entre Recoleta y Palermo Chico, el Palacio Errázuriz, de estilo francés, alberga el Museo Nacional de Arte Decorativo de Buenos Aires. Por ahora abre de miércoles a domingo, de 13 a 19 h, y permanece cerrado lunes y martes. Los fines de semana hay mucho público durante todo el horario de 13 a 19 h, así que conviene ir entre miércoles y viernes si es posible.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Museo Nacional de Arte Decorativo?

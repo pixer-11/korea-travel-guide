@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: buenos-aires-don-julio-parrilla
-srcHash: '7adae36a3dec'
+srcHash: '6096a28910bc'
 title: Don Julio Parrilla：布宜诺斯艾利斯必吃烤肉馆（4.4★）
-description: Don Julio Parrilla是布宜诺斯艾利斯巴勒莫苏荷区（Palermo Soho）的一家高端牛排馆，坐落在Guatemala 4699，与Gurruchaga街交汇的街角。评分4.4★（20,017条评价），本文汇总食客口碑、营业时间与实用贴士。
+description: Don Julio Parrilla是布宜诺斯艾利斯巴勒莫苏荷区（Palermo Soho）的一家高端牛排馆，坐落在Guatemala 4699，与Gurruchaga街交汇的街角。评分4.4★（20,019条评价），本文汇总食客口碑、营业时间与实用贴士。
 quickAnswer: Don Julio Parrilla是一家高端牛排馆，位于布宜诺斯艾利斯巴勒莫苏荷区（Palermo Soho）Guatemala 4699，地处与Gurruchaga街交汇的街角。建议提前几周在网上订位，点一份长时间熟成的牛排，烤到*a punto*（五分熟）即可。周末1pm–2pm和7pm–11pm是高峰，最好避开。目前午市营业时间为11:30am–4pm，晚市为7pm–1am。
 faq:
   - q: 去Don Julio需要订位吗？

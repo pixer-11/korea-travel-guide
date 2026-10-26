@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: buenos-aires-teatro-colon
-srcHash: 'ef6b33d0194a'
+srcHash: 'bbda113c7c40'
 title: 科隆剧院：布宜诺斯艾利斯旅行指南（4.8★）
-description: 科隆剧院是布宜诺斯艾利斯的歌剧院，位于圣尼古拉斯区（San Nicolás）Cerrito 628，从方尖碑和地铁D线Tribunales站步行过去都很近。4.8★（90,478条评价），汇集游客口碑、开放时间与实用贴士。
+description: 科隆剧院是布宜诺斯艾利斯的歌剧院，位于圣尼古拉斯区（San Nicolás）Cerrito 628，从方尖碑和地铁D线Tribunales站步行过去都很近。4.8★（90,487条评价），汇集游客口碑、开放时间与实用贴士。
 quickAnswer: 科隆剧院（Teatro Colón）是布宜诺斯艾利斯的歌剧院，坐落在圣尼古拉斯区（San Nicolás）Cerrito 628，从方尖碑（Obelisco）或地铁D线Tribunales站步行过去都只需几分钟。可以预约约50分钟的导览，不过更推荐去看一场演出。两者都可通过官网teatrocolon.org.ar预订，最新的开放时间、演出日期和票价也都公布在官网上。这里人气极旺，导览场次和好座位都要提前订。
 faq:
   - q: 乘地铁怎么去科隆剧院？

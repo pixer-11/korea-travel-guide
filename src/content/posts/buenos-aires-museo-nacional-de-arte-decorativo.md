@@ -1,45 +1,53 @@
 ---
-title: "Museo Nacional de Arte Decorativo: Buenos Aires Travel Guide"
-description: "The Museo Nacional de Arte Decorativo sits at Av. del Libertador 1902 in Buenos Aires, where Recoleta meets Palermo Chico, inside the French-style Palacio Errázuriz. 4.7★ (16,932 reviews) — what visitors say, hours, and tips."
-country: "Argentina"
-region: "Buenos Aires"
-category: "attraction"
-pubDate: "2026-10-26T07:43:03.383Z"
+title: 'Museo Nacional de Arte Decorativo: Buenos Aires Travel Guide'
+description: >-
+  The Museo Nacional de Arte Decorativo sits at Av. del Libertador 1902 in
+  Buenos Aires, where Recoleta meets Palermo Chico, inside the French-style
+  Palacio Errázuriz. 4.7★ (16,934 reviews) — what visitors say, hours, and tips.
+country: Argentina
+region: Buenos Aires
+category: attraction
+pubDate: '2026-10-26T07:43:03.383Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/2/29/Museo_Nacional_de_Arte_Decorativo.jpg"
-  credit: "Photo: Roberto Fiadone / Wikimedia Commons (Public domain)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Museo_Nacional_de_Arte_Decorativo.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/2/29/Museo_Nacional_de_Arte_Decorativo.jpg
+  credit: 'Photo: Roberto Fiadone / Wikimedia Commons (Public domain)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Museo_Nacional_de_Arte_Decorativo.jpg
+  via: act
   focus:
     x: 50
-    y: 35
+    'y': 35
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Biblioteca_-_Museo_Nacional_de_Arte_Decorativo.jpg/3840px-Biblioteca_-_Museo_Nacional_de_Arte_Decorativo.jpg"
-    credit: "Photo: Gobonobo / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Biblioteca_-_Museo_Nacional_de_Arte_Decorativo.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Biblioteca_-_Museo_Nacional_de_Arte_Decorativo.jpg/3840px-Biblioteca_-_Museo_Nacional_de_Arte_Decorativo.jpg
+    credit: 'Photo: Gobonobo / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Biblioteca_-_Museo_Nacional_de_Arte_Decorativo.jpg
 place:
-  id: "ChIJ-TTbA2K1vJURG1oy4SQwOA4"
-  name: "Museo Nacional de Arte Decorativo"
-  address: "Av. del Libertador 1902, C1425 Cdad. Autónoma de Buenos Aires, Argentina"
+  id: ChIJ-TTbA2K1vJURG1oy4SQwOA4
+  name: Museo Nacional de Arte Decorativo
+  address: 'Av. del Libertador 1902, C1425 Cdad. Autónoma de Buenos Aires, Argentina'
   rating: 4.7
-  userRatingsTotal: 16932
-  googleMapsUrl: "https://maps.google.com/?cid=1024621850181917211&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 16934
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1024621850181917211&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -34.5826725
   lng: -58.4010755
-  phone: "+54 11 4801-8248"
+  phone: +54 11 4801-8248
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: Closed"
-    - "Wednesday: 1:00 – 7:00 PM"
-    - "Thursday: 1:00 – 7:00 PM"
-    - "Friday: 1:00 – 7:00 PM"
-    - "Saturday: 1:00 – 7:00 PM"
-    - "Sunday: 1:00 – 7:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 1:00 – 7:00 PM'
+    - 'Thursday: 1:00 – 7:00 PM'
+    - 'Friday: 1:00 – 7:00 PM'
+    - 'Saturday: 1:00 – 7:00 PM'
+    - 'Sunday: 1:00 – 7:00 PM'
   busyness:
-    updated: 2026-10-26
+    updated: 2026-10-26T00:00:00.000Z
     weekdayBusy:
       - 13
       - 14
@@ -54,24 +62,42 @@ place:
       - 16
       - 17
       - 18
-    venueId: "ven_34414f77515334796f314752554a76314b32416254542d4a496843"
+    venueId: ven_34414f77515334796f314752554a76314b32416254542d4a496843
 tags:
-  - "buenos aires"
-  - "museum"
-quickAnswer: "The Museo Nacional de Arte Decorativo sits at Av. del Libertador 1902 in Buenos Aires, where Recoleta meets Palermo Chico, inside the French-style Palacio Errázuriz. It currently opens Wednesday to Sunday, 1–7pm, and is closed Monday and Tuesday. Weekends are busy for the whole 1pm–7pm opening, so come Wednesday to Friday if you can."
+  - buenos aires
+  - museum
+quickAnswer: >-
+  The Museo Nacional de Arte Decorativo sits at Av. del Libertador 1902 in
+  Buenos Aires, where Recoleta meets Palermo Chico, inside the French-style
+  Palacio Errázuriz. It currently opens Wednesday to Sunday, 1–7pm, and is
+  closed Monday and Tuesday. Weekends are busy for the whole 1pm–7pm opening, so
+  come Wednesday to Friday if you can.
 faq:
-  - q: "When is the quietest time to visit the Museo Nacional de Arte Decorativo?"
-    a: "Weekends are busy for the whole 1pm–7pm opening, so the way to avoid crowds is a weekday visit, Wednesday to Friday."
-  - q: "Is the museum open on Monday or Tuesday?"
-    a: "No. It is currently closed on Monday and Tuesday and opens 1–7pm Wednesday to Sunday. Hours can change with the season and on holidays, so check the official site before you go."
-  - q: "How do I get there?"
-    a: "It is at Av. del Libertador 1902, on the Recoleta–Palermo Chico border. Buses along Libertador stop nearby, and Las Heras station on Subte Line H is about 15 minutes away on foot."
-  - q: "How long should I spend inside?"
-    a: "Plan on 60–90 minutes for the salons and garden, and longer if you join a guided tour."
-  - q: "What else is nearby?"
-    a: "The Museo Nacional de Bellas Artes, Floralis Genérica, Recoleta Cemetery and MALBA are all within walking distance or a short ride away."
+  - q: When is the quietest time to visit the Museo Nacional de Arte Decorativo?
+    a: >-
+      Weekends are busy for the whole 1pm–7pm opening, so the way to avoid
+      crowds is a weekday visit, Wednesday to Friday.
+  - q: Is the museum open on Monday or Tuesday?
+    a: >-
+      No. It is currently closed on Monday and Tuesday and opens 1–7pm Wednesday
+      to Sunday. Hours can change with the season and on holidays, so check the
+      official site before you go.
+  - q: How do I get there?
+    a: >-
+      It is at Av. del Libertador 1902, on the Recoleta–Palermo Chico border.
+      Buses along Libertador stop nearby, and Las Heras station on Subte Line H
+      is about 15 minutes away on foot.
+  - q: How long should I spend inside?
+    a: >-
+      Plan on 60–90 minutes for the salons and garden, and longer if you join a
+      guided tour.
+  - q: What else is nearby?
+    a: >-
+      The Museo Nacional de Bellas Artes, Floralis Genérica, Recoleta Cemetery
+      and MALBA are all within walking distance or a short ride away.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-26'
 ---
 
 ## A Paris mansion on Libertador

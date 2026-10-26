@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: buenos-aires-casa-rosada
-srcHash: 'fe8fc0b7826c'
+srcHash: '61a651a65998'
 title: 玫瑰宫：布宜诺斯艾利斯旅行指南（4.6★）
-description: 玫瑰宫是阿根廷总统府，坐落在布宜诺斯艾利斯蒙特塞拉特区（Monserrat）五月广场东侧，地址为Balcarce 78。评分4.6★（5,739条评价）。本文汇总游客评价、开放时间与参观建议。
+description: 玫瑰宫是阿根廷总统府，坐落在布宜诺斯艾利斯蒙特塞拉特区（Monserrat）五月广场东侧，地址为Balcarce 78。评分4.6★（5,743条评价）。本文汇总游客评价、开放时间与参观建议。
 quickAnswer: 玫瑰宫（Casa Rosada）是阿根廷总统府，地址为Balcarce 78，坐落在布宜诺斯艾利斯蒙特塞拉特区（Monserrat）五月广场（Plaza de Mayo）东侧。站在广场上，随时都能看到粉色的外墙和“埃维塔阳台”。想进宫内参观，就得通过玫瑰宫官网预约导览。建议提前订好名额，当天记得带上护照。
 faq:
   - q: 玫瑰宫可以进去参观吗？

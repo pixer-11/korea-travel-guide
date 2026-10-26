@@ -1,59 +1,89 @@
 ---
-title: "Parque General San Martín: Mendoza Travel Guide (4.8★)"
-description: "Parque General San Martín is Mendoza's huge Charles Thays-designed park, entered through wrought-iron gates on Av. 4.8★ (62,806 reviews) — what visitors say, hours, and tips."
-country: "Argentina"
-region: "Mendoza"
-category: "attraction"
-pubDate: "2026-10-26T07:43:01.327Z"
+title: 'Parque General San Martín: Mendoza Travel Guide (4.8★)'
+description: >-
+  Parque General San Martín is Mendoza's huge Charles Thays-designed park,
+  entered through wrought-iron gates on Av. 4.8★ (62,813 reviews) — what
+  visitors say, hours, and tips.
+country: Argentina
+region: Mendoza
+category: attraction
+pubDate: '2026-10-26T07:43:01.327Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/2/26/ALTURA_Argentina_Wine_Tourism_-_Mendoza%2C_Lago_San_Mart%C3%ADn%2C_Parque_San_Mart%C3%ADn_-_panoramio.jpg"
-  credit: "Photo: ArgentinaWineTourism… / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:ALTURA_Argentina_Wine_Tourism_-_Mendoza,_Lago_San_Mart%C3%ADn,_Parque_San_Mart%C3%ADn_-_panoramio.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/2/26/ALTURA_Argentina_Wine_Tourism_-_Mendoza%2C_Lago_San_Mart%C3%ADn%2C_Parque_San_Mart%C3%ADn_-_panoramio.jpg
+  credit: 'Photo: ArgentinaWineTourism… / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:ALTURA_Argentina_Wine_Tourism_-_Mendoza,_Lago_San_Mart%C3%ADn,_Parque_San_Mart%C3%ADn_-_panoramio.jpg
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/General_San_Mart%C3%ADn_Park%2C_Mendoza_01.jpg/3840px-General_San_Mart%C3%ADn_Park%2C_Mendoza_01.jpg"
-    credit: "Photo: Bernard Gagnon / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:General_San_Mart%C3%ADn_Park,_Mendoza_01.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/General_San_Mart%C3%ADn_Park%2C_Mendoza_01.jpg/3840px-General_San_Mart%C3%ADn_Park%2C_Mendoza_01.jpg
+    credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:General_San_Mart%C3%ADn_Park,_Mendoza_01.jpg
 place:
-  id: "ChIJf5QZdRgmo5URiQK7IWNggW0"
-  name: "Parque General San Martín"
-  address: "Av. Emilio Civit 701, M5500 Mendoza, Argentina"
+  id: ChIJf5QZdRgmo5URiQK7IWNggW0
+  name: Parque General San Martín
+  address: 'Av. Emilio Civit 701, M5500 Mendoza, Argentina'
   rating: 4.8
-  userRatingsTotal: 62806
-  googleMapsUrl: "https://maps.google.com/?cid=7890694001013752457&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 62813
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=7890694001013752457&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -32.8898095
   lng: -68.8700868
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "mendoza"
-  - "park"
-quickAnswer: "Parque General San Martín is Mendoza's huge Charles Thays-designed park, entered through wrought-iron gates on Av. Emilio Civit about 2km west of the city centre. Give it half a day: walk the lake and rose garden, then climb Cerro de la Gloria for the Andes monument and views back over the city. Go in daylight. Spring and autumn are the most comfortable seasons."
+  - mendoza
+  - park
+quickAnswer: >-
+  Parque General San Martín is Mendoza's huge Charles Thays-designed park,
+  entered through wrought-iron gates on Av. Emilio Civit about 2km west of the
+  city centre. Give it half a day: walk the lake and rose garden, then climb
+  Cerro de la Gloria for the Andes monument and views back over the city. Go in
+  daylight. Spring and autumn are the most comfortable seasons.
 faq:
-  - q: "How do I get to Parque General San Martín from downtown Mendoza?"
-    a: "From Plaza Independencia, walk west along Av. Sarmiento and then Av. Emilio Civit. It takes about 25 minutes and ends at the iron park gates (Av. Emilio Civit 701). A taxi or ride-hailing app can take you closer to the lake or up towards Cerro de la Gloria."
-  - q: "How long should I spend in the park?"
-    a: "About two hours covers the gates, the lake and the rose garden. Allow half a day if you also climb Cerro de la Gloria to the Andes Army monument."
-  - q: "When is the best time to visit?"
-    a: "Spring (October–November) and autumn (March–April) are the most comfortable seasons. Summer afternoons are hot and the hill road has little shade. Go in daylight, because the paths are empty after dark."
-  - q: "Is the park open at night?"
-    a: "Google currently lists the park as open 24 hours. The Ecoparque and other facilities keep their own schedules, though, and the park is best visited in daylight and early evening."
-  - q: "What else is inside or next to the park?"
-    a: "Inside the park you'll find the lake and rowing club, the Rosedal rose garden, the Teatro Griego Frank Romero Day amphitheatre, the Ecoparque wildlife centre and Cerro de la Gloria with the Monumento al Ejército de los Andes."
+  - q: How do I get to Parque General San Martín from downtown Mendoza?
+    a: >-
+      From Plaza Independencia, walk west along Av. Sarmiento and then Av.
+      Emilio Civit. It takes about 25 minutes and ends at the iron park gates
+      (Av. Emilio Civit 701). A taxi or ride-hailing app can take you closer to
+      the lake or up towards Cerro de la Gloria.
+  - q: How long should I spend in the park?
+    a: >-
+      About two hours covers the gates, the lake and the rose garden. Allow half
+      a day if you also climb Cerro de la Gloria to the Andes Army monument.
+  - q: When is the best time to visit?
+    a: >-
+      Spring (October–November) and autumn (March–April) are the most
+      comfortable seasons. Summer afternoons are hot and the hill road has
+      little shade. Go in daylight, because the paths are empty after dark.
+  - q: Is the park open at night?
+    a: >-
+      Google currently lists the park as open 24 hours. The Ecoparque and other
+      facilities keep their own schedules, though, and the park is best visited
+      in daylight and early evening.
+  - q: What else is inside or next to the park?
+    a: >-
+      Inside the park you'll find the lake and rowing club, the Rosedal rose
+      garden, the Teatro Griego Frank Romero Day amphitheatre, the Ecoparque
+      wildlife centre and Cerro de la Gloria with the Monumento al Ejército de
+      los Andes.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-26'
 ---
 
 ## Through the English gates

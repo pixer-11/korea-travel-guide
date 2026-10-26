@@ -1,33 +1,39 @@
 ---
-title: "Santuario Nuestra Señora de Lourdes: Mendoza Travel Guide"
-description: "Santuario Nuestra Señora de Lourdes is a hillside pilgrimage church and grotto in El Challao, in the foothills northwest of central Mendoza, at P. Julio Valicenti 3530. 4.7★ (12,653 reviews) — what visitors say, hours, and tips."
-country: "Argentina"
-region: "Mendoza"
-category: "attraction"
-pubDate: "2026-10-26T07:42:59.269Z"
+title: 'Santuario Nuestra Señora de Lourdes: Mendoza Travel Guide'
+description: >-
+  Santuario Nuestra Señora de Lourdes is a hillside pilgrimage church and grotto
+  in El Challao, in the foothills northwest of central Mendoza, at P. Julio
+  Valicenti 3530. 4.7★ (12,654 reviews) — what visitors say, hours, and tips.
+country: Argentina
+region: Mendoza
+category: attraction
+pubDate: '2026-10-26T07:42:59.269Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/c/c9/Santuario_Nuestra_Se%C3%B1ora_de_Lourdes_de_El_Challao.JPG"
-  credit: "Photo: Dario Alpern / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Santuario_Nuestra_Se%C3%B1ora_de_Lourdes_de_El_Challao.JPG"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/c/c9/Santuario_Nuestra_Se%C3%B1ora_de_Lourdes_de_El_Challao.JPG
+  credit: 'Photo: Dario Alpern / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Santuario_Nuestra_Se%C3%B1ora_de_Lourdes_de_El_Challao.JPG
+  via: act
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery: []
 place:
-  id: "ChIJD-vOdygIfpYRQrwJVz9p_8s"
-  name: "Santuario Nuestra Señora de Lourdes"
-  address: "P. Julio Valicenti 3530, M5539 El Challao, Mendoza, Argentina"
+  id: ChIJD-vOdygIfpYRQrwJVz9p_8s
+  name: Santuario Nuestra Señora de Lourdes
+  address: 'P. Julio Valicenti 3530, M5539 El Challao, Mendoza, Argentina'
   rating: 4.7
-  userRatingsTotal: 12653
-  googleMapsUrl: "https://maps.google.com/?cid=14699583429524700226&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 12654
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14699583429524700226&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -32.8578356
   lng: -68.8999355
-  phone: "+54 261 444-2950"
+  phone: +54 261 444-2950
   busyness:
-    updated: 2026-10-26
+    updated: 2026-10-26T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 10
@@ -43,24 +49,47 @@ place:
       - 17
       - 18
       - 19
-    venueId: "ven_73385f70397a564a77725152597066496779644f762d444a496843"
+    venueId: ven_73385f70397a564a77725152597066496779644f762d444a496843
 tags:
-  - "mendoza"
-  - "historic site"
-quickAnswer: "Santuario Nuestra Señora de Lourdes is a hillside pilgrimage church and grotto in El Challao, in the foothills northwest of central Mendoza, at P. Julio Valicenti 3530. It's quietest on weekdays between 9am and 11am and from 8pm to 9pm. Avoid weekends between 10am and 2pm and between 4pm and 8pm, when it's busiest. Opening hours aren't confirmed, so check them before you make the trip."
+  - mendoza
+  - historic site
+quickAnswer: >-
+  Santuario Nuestra Señora de Lourdes is a hillside pilgrimage church and grotto
+  in El Challao, in the foothills northwest of central Mendoza, at P. Julio
+  Valicenti 3530. It's quietest on weekdays between 9am and 11am and from 8pm to
+  9pm. Avoid weekends between 10am and 2pm and between 4pm and 8pm, when it's
+  busiest. Opening hours aren't confirmed, so check them before you make the
+  trip.
 faq:
-  - q: "When is the quietest time to visit Santuario Nuestra Señora de Lourdes?"
-    a: "On weekdays it's quietest from 9am to 11am and from 8pm to 9pm. On weekends the calm window is 8pm to 9pm. Avoid weekends between 10am and 2pm and between 4pm and 8pm, which are the busiest times. Opening hours aren't confirmed, so check before you go."
-  - q: "How do I get to the sanctuary from downtown Mendoza?"
-    a: "It's in El Challao, northwest of the city centre, at P. Julio Valicenti 3530. A taxi or rideshare is the easiest way. City buses also reach El Challao, but you pay with a rechargeable SUBE card. Check the current route in a transit app before you leave."
-  - q: "How long should I spend there?"
-    a: "One to two hours covers the grotto, the church and the view. Allow more if you want to walk the hillside Stations of the Cross path or attend Mass."
-  - q: "What happens on February 11?"
-    a: "It's the feast day of Our Lady of Lourdes and the focus of Mendoza's best-known pilgrimage, with crowds of faithful walking up to El Challao. It's a powerful sight, but expect heavy crowds and traffic."
-  - q: "Is there a dress code?"
-    a: "It's an active shrine, so modest clothing is expected inside the church: covered shoulders and no hat. Keep your voice down at the grotto, and don't take photos during Mass."
+  - q: When is the quietest time to visit Santuario Nuestra Señora de Lourdes?
+    a: >-
+      On weekdays it's quietest from 9am to 11am and from 8pm to 9pm. On
+      weekends the calm window is 8pm to 9pm. Avoid weekends between 10am and
+      2pm and between 4pm and 8pm, which are the busiest times. Opening hours
+      aren't confirmed, so check before you go.
+  - q: How do I get to the sanctuary from downtown Mendoza?
+    a: >-
+      It's in El Challao, northwest of the city centre, at P. Julio Valicenti
+      3530. A taxi or rideshare is the easiest way. City buses also reach El
+      Challao, but you pay with a rechargeable SUBE card. Check the current
+      route in a transit app before you leave.
+  - q: How long should I spend there?
+    a: >-
+      One to two hours covers the grotto, the church and the view. Allow more if
+      you want to walk the hillside Stations of the Cross path or attend Mass.
+  - q: What happens on February 11?
+    a: >-
+      It's the feast day of Our Lady of Lourdes and the focus of Mendoza's
+      best-known pilgrimage, with crowds of faithful walking up to El Challao.
+      It's a powerful sight, but expect heavy crowds and traffic.
+  - q: Is there a dress code?
+    a: >-
+      It's an active shrine, so modest clothing is expected inside the church:
+      covered shoulders and no hat. Keep your voice down at the grotto, and
+      don't take photos during Mass.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-26'
 ---
 
 ## A grotto on the edge of the precordillera

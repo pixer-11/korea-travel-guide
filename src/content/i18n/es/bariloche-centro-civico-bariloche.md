@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: bariloche-centro-civico-bariloche
-srcHash: '5853e3a10f63'
+srcHash: 'd82145f8b182'
 title: 'Centro Cívico: guía de viaje de Bariloche (4.6★)'
-description: El Centro Cívico es la plaza principal de San Carlos de Bariloche. Construida en piedra y madera, se encuentra en Libertad 56, a orillas del lago Nahuel Huapi, y permanece abierta las 24 horas. Tiene una valoración de 4.6★ (12,347 reseñas). Aquí encontrará lo que opinan los visitantes, los horarios y algunos consejos.
+description: El Centro Cívico es la plaza principal de San Carlos de Bariloche. Construida en piedra y madera, se encuentra en Libertad 56, a orillas del lago Nahuel Huapi, y permanece abierta las 24 horas. Tiene una valoración de 4.6★ (12,348 reseñas). Aquí encontrará lo que opinan los visitantes, los horarios y algunos consejos.
 quickAnswer: El Centro Cívico es la plaza principal de San Carlos de Bariloche. Construida en piedra y madera, se encuentra en Libertad 56, a orillas del lago Nahuel Huapi, y está abierta a cualquier hora del día y de la noche. Con una hora basta para recorrer las galerías y visitar el Museo de la Patagonia antes de bajar a la costa del lago o seguir por la calle Mitre. Es uno de los lugares más concurridos de la ciudad, así que, si quiere fotografiarlo sin multitudes, lo mejor es ir a primera hora de la mañana.
 faq:
   - q: ¿El Centro Cívico de Bariloche está abierto de noche?

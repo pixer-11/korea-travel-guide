@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: buenos-aires-don-julio-parrilla
-srcHash: '7adae36a3dec'
+srcHash: '6096a28910bc'
 title: 'Don Julio Parrilla: dónde comer en Buenos Aires (4.4★)'
-description: En la esquina de Guatemala 4699 y Gurruchaga, en Palermo Soho (Buenos Aires), se encuentra Don Julio Parrilla, una parrilla de alta gama con una valoración de 4.4★ (20,017 reseñas). Le contamos qué opinan los visitantes, cuál es su horario y algunos consejos prácticos.
+description: En la esquina de Guatemala 4699 y Gurruchaga, en Palermo Soho (Buenos Aires), se encuentra Don Julio Parrilla, una parrilla de alta gama con una valoración de 4.4★ (20,019 reseñas). Le contamos qué opinan los visitantes, cuál es su horario y algunos consejos prácticos.
 quickAnswer: Don Julio Parrilla es una parrilla de alta gama situada en Guatemala 4699, esquina con Gurruchaga, en pleno Palermo Soho (Buenos Aires). Conviene reservar en línea con varias semanas de antelación y pedir un corte de maduración larga cocido a punto. Los fines de semana, las horas de mayor afluencia van de 1pm a 2pm y de 7pm a 11pm, así que es mejor evitarlas. Actualmente, el almuerzo se sirve de 11:30am a 4pm y la cena de 7pm a 1am.
 faq:
   - q: ¿Hace falta reservar en Don Julio?

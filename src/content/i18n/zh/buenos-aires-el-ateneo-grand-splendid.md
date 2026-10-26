@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: buenos-aires-el-ateneo-grand-splendid
-srcHash: '2e312e8ccc41'
+srcHash: 'd1744575d7a8'
 title: 雅典人书店：布宜诺斯艾利斯旅行指南（4.8★）
-description: 雅典人书店由一座1919年的老剧院改建而成，评分4.8★（103,556条评价）。本文汇总游客评价、营业时间和实用贴士。
+description: 雅典人书店由一座1919年的老剧院改建而成，评分4.8★（103,574条评价）。本文汇总游客评价、营业时间和实用贴士。
 quickAnswer: 雅典人书店（El Ateneo Grand Splendid）的前身是一座1919年建成的剧院，地址为Av. Santa Fe 1860，在布宜诺斯艾利斯北区（Barrio Norte）与雷科莱塔（Recoleta）交界一带。如今读者可以在昔日的池座和包厢里挑书，头顶就是彩绘穹顶。建议工作日9am至10am前往，或者周六中午12点以前去。周末12pm至8pm人最多，尽量避开。另外要注意，目前周日中午才开门。
 faq:
   - q: 什么时候去雅典人书店人最少？

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: mendoza-santuario-nuestra-senora-de-lourdes
-srcHash: 'a1f58555e1b2'
+srcHash: '252169b01b63'
 title: 'Santuario Nuestra Señora de Lourdes: guía de viaje de Mendoza'
-description: En El Challao, al pie de los cerros que se alzan al noroeste del centro de Mendoza, se encuentran la iglesia y la gruta de peregrinación del Santuario Nuestra Señora de Lourdes (P. Julio Valicenti 3530). Con una valoración de 4.7★ (12,653 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
+description: En El Challao, al pie de los cerros que se alzan al noroeste del centro de Mendoza, se encuentran la iglesia y la gruta de peregrinación del Santuario Nuestra Señora de Lourdes (P. Julio Valicenti 3530). Con una valoración de 4.7★ (12,654 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
 quickAnswer: En El Challao, sobre las laderas que se alzan al noroeste del centro de Mendoza, se levantan la iglesia y la gruta de peregrinación del Santuario Nuestra Señora de Lourdes, en P. Julio Valicenti 3530. Entre semana, los momentos más tranquilos van de 9 a. m. a 11 a. m. y de 8 p. m. a 9 p. m. Durante el fin de semana conviene evitar las franjas de 10 a. m. a 2 p. m. y de 4 p. m. a 8 p. m., que son las de mayor afluencia. Como los horarios de apertura no están confirmados, le recomendamos verificarlos antes de ir.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Santuario Nuestra Señora de Lourdes?

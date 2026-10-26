@@ -1,9 +1,9 @@
 ---
 lang: ko
 slug: mendoza-museo-de-ciencias-naturales-y-antropologicas-juan-cornelio-moyano
-srcHash: 'ef012db759ec'
+srcHash: 'aac38b61f131'
 title: '후안 코르넬리오 모야노 자연과학·인류학 박물관: 멘도사 여행 가이드'
-description: 멘도사 라스 티파스 대로에 자리한 후안 코르넬리오 모야노 자연과학·인류학 박물관은 평점 4.6★(리뷰 6,861개)을 받은 명소입니다. 방문객 후기와 운영 시간, 알아 두면 좋은 팁을 정리했습니다.
+description: 멘도사 라스 티파스 대로에 자리한 후안 코르넬리오 모야노 자연과학·인류학 박물관은 평점 4.6★(리뷰 6,863개)을 받은 명소입니다. 방문객 후기와 운영 시간, 알아 두면 좋은 팁을 정리했습니다.
 quickAnswer: 후안 코르넬리오 모야노 자연과학·인류학 박물관(Museo de Ciencias Naturales y Antropológicas Juan Cornelio Moyano)은 멘도사 시내 서쪽 끝에 있는 헤네랄 산마르틴 공원(Parque General San Martín) 안에 있습니다. 주소는 라스 티파스 대로(Av. las Tipas)이고, 공원 호수와 바로 붙어 있습니다. 현재 운영 시간은 화요일부터 토요일까지 9am–7pm, 일요일 2–7pm이며 월요일은 휴관합니다. 관람에는 1.5–2시간 정도를 잡으시고, 다 보신 뒤에는 로세달 장미정원까지 걸어가거나 세로 데 라 글로리아 언덕에 올라 보시기 바랍니다.
 faq:
   - q: 멘도사의 모야노 박물관은 정확히 어디에 있나요?

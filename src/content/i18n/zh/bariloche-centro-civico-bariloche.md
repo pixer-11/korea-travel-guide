@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: bariloche-centro-civico-bariloche
-srcHash: '5853e3a10f63'
+srcHash: 'd82145f8b182'
 title: 巴里洛切市民中心（Centro Cívico）旅行指南（4.6★）
-description: 巴里洛切市民中心位于纳韦尔瓦皮湖畔的Libertad 56，是圣卡洛斯-德巴里洛切以石材和木料筑成的中心广场，全天24小时开放。评分4.6★（12,347条评价），本文汇总游客评价、开放时间与游览建议。
+description: 巴里洛切市民中心位于纳韦尔瓦皮湖畔的Libertad 56，是圣卡洛斯-德巴里洛切以石材和木料筑成的中心广场，全天24小时开放。评分4.6★（12,348条评价），本文汇总游客评价、开放时间与游览建议。
 quickAnswer: 巴里洛切市民中心（Centro Cívico）位于纳韦尔瓦皮湖（Lago Nahuel Huapi）畔的Libertad 56，是圣卡洛斯-德巴里洛切（San Carlos de Bariloche）以石材和木料筑成的中心广场，广场本身全天24小时开放。建议预留1小时左右：先沿拱廊走一圈，再参观巴塔哥尼亚博物馆（Museo de la Patagonia），之后可以下到湖滨，或者去米特雷街（Calle Mitre）逛逛。这里是全城最热闹的地方之一，想拍到没有人群的照片，最好清早前往。
 faq:
   - q: 巴里洛切市民中心晚上开放吗？

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: ollantaytambo-templo-del-sol
-srcHash: 'ad6126033a77'
+srcHash: '4ec019dbaea6'
 title: 'Templo del Sol de Ollantaytambo: guía de viaje (4.8★)'
-description: En lo alto de los andenes incas del complejo arqueológico de Ollantaytambo, en el Valle Sagrado del Perú, se alza el Templo del Sol, a poca distancia a pie de la plaza principal del pueblo. Con una valoración de 4.8★ (1,019 reseñas), le contamos qué opinan los visitantes, cuál es el horario y qué conviene saber antes de ir.
+description: En lo alto de los andenes incas del complejo arqueológico de Ollantaytambo, en el Valle Sagrado del Perú, se alza el Templo del Sol, a poca distancia a pie de la plaza principal del pueblo. Con una valoración de 4.8★ (1,018 reseñas), le contamos qué opinan los visitantes, cuál es el horario y qué conviene saber antes de ir.
 quickAnswer: En lo alto de los andenes incas del complejo arqueológico de Ollantaytambo, en el Valle Sagrado del Perú, se alza el Templo del Sol, a poca distancia a pie de la plaza principal del pueblo. Lo que más fama le da es un muro formado por seis enormes monolitos de piedra rosada. Actualmente el recinto abre de 8:00 AM a 5:00 PM, aunque el horario varía a lo largo del año. Quien llega a la hora de apertura suele alcanzar la cima antes que los tours de un día procedentes de Cusco.
 faq:
   - q: ¿Cuál es el horario del Templo del Sol de Ollantaytambo?

@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: mendoza-santuario-nuestra-senora-de-lourdes
-srcHash: 'a1f58555e1b2'
+srcHash: '252169b01b63'
 title: 卢尔德圣母朝圣所：门多萨旅行指南
-description: 卢尔德圣母朝圣所（Santuario Nuestra Señora de Lourdes）是一座依山而建的朝圣教堂和岩洞，坐落在门多萨市中心西北方山麓的El Challao，地址为P. Julio Valicenti 3530。评分4.7★（12,653条评价）。本文汇总游客评价、开放时间和参观建议。
+description: 卢尔德圣母朝圣所（Santuario Nuestra Señora de Lourdes）是一座依山而建的朝圣教堂和岩洞，坐落在门多萨市中心西北方山麓的El Challao，地址为P. Julio Valicenti 3530。评分4.7★（12,654条评价）。本文汇总游客评价、开放时间和参观建议。
 quickAnswer: 卢尔德圣母朝圣所（Santuario Nuestra Señora de Lourdes）是一座依山而建的朝圣教堂和岩洞，坐落在门多萨市中心西北方山麓的El Challao，地址为P. Julio Valicenti 3530。工作日上午9点至11点、晚上8点至9点人最少。周末上午10点至下午2点、下午4点至晚上8点人最多，最好避开。开放时间尚未确认，出发前请先查询。
 faq:
   - q: 什么时候去卢尔德圣母朝圣所人最少？

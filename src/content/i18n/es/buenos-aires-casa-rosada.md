@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: buenos-aires-casa-rosada
-srcHash: 'fe8fc0b7826c'
+srcHash: '61a651a65998'
 title: 'Casa Rosada: guía de viaje de Buenos Aires (4.6★)'
-description: En Balcarce 78, en el lado este de la Plaza de Mayo, en el barrio porteño de Monserrat, se alza la Casa Rosada, sede de la presidencia argentina. Con 4.6★ (5,739 reseñas), reunimos aquí opiniones de visitantes, horarios y consejos.
+description: En Balcarce 78, en el lado este de la Plaza de Mayo, en el barrio porteño de Monserrat, se alza la Casa Rosada, sede de la presidencia argentina. Con 4.6★ (5,743 reseñas), reunimos aquí opiniones de visitantes, horarios y consejos.
 quickAnswer: La Casa Rosada, sede de la presidencia argentina, ocupa el lado este de la Plaza de Mayo, en Balcarce 78, dentro del barrio porteño de Monserrat. Desde la plaza pueden contemplarse a cualquier hora su fachada rosada y el balcón de Evita. Para entrar, en cambio, hay que hacer una visita guiada, que se reserva en el sitio web oficial de la Casa Rosada. Conviene reservar con antelación y llevar el pasaporte.
 faq:
   - q: ¿Se puede entrar en la Casa Rosada?

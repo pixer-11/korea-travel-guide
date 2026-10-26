@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: buenos-aires-museo-nacional-de-arte-decorativo
-srcHash: '85e348b7bccd'
+srcHash: '967567a350b7'
 title: 布宜诺斯艾利斯国家装饰艺术博物馆旅行指南
-description: 国家装饰艺术博物馆位于布宜诺斯艾利斯雷科莱塔与小巴勒莫（Palermo Chico）交界处，地址为Av. del Libertador 1902，馆舍是一座法式风格的埃拉苏里斯宫（Palacio Errázuriz）。评分4.7★（16,932条评价），游客评价、开放时间和参观贴士都在这里。
+description: 国家装饰艺术博物馆位于布宜诺斯艾利斯雷科莱塔与小巴勒莫（Palermo Chico）交界处，地址为Av. del Libertador 1902，馆舍是一座法式风格的埃拉苏里斯宫（Palacio Errázuriz）。评分4.7★（16,934条评价），游客评价、开放时间和参观贴士都在这里。
 quickAnswer: 国家装饰艺术博物馆（Museo Nacional de Arte Decorativo）坐落在布宜诺斯艾利斯雷科莱塔与小巴勒莫（Palermo Chico）的交界处，地址为Av. del Libertador 1902，馆舍是一座法式风格的埃拉苏里斯宫（Palacio Errázuriz）。目前每周三至周日下午1–7点开放，周一、周二闭馆。周末从下午1点开门到7点闭馆一直人多，时间允许的话，最好选周三到周五前往。
 faq:
   - q: 什么时候去国家装饰艺术博物馆人最少？

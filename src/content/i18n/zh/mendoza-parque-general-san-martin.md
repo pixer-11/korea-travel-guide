@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: mendoza-parque-general-san-martin
-srcHash: 'd9e66462d592'
+srcHash: 'd3b6a684204a'
 title: 圣马丁将军公园（Parque General San Martín）：门多萨旅行指南（4.8★）
-description: 圣马丁将军公园是门多萨一座占地广阔的大公园，由景观设计师夏尔·泰斯（Charles Thays）规划，入口是一道铸铁大门。评分4.8★（62,806条评价），本文汇总游客评价、开放时间和游览建议。
+description: 圣马丁将军公园是门多萨一座占地广阔的大公园，由景观设计师夏尔·泰斯（Charles Thays）规划，入口是一道铸铁大门。评分4.8★（62,813条评价），本文汇总游客评价、开放时间和游览建议。
 quickAnswer: 圣马丁将军公园位于门多萨市中心以西约2km，是一座由夏尔·泰斯（Charles Thays）设计的大型公园，从埃米利奥·西维特大道（Av. Emilio Civit）上的铸铁大门进入。建议留出半天：先沿湖边散步、逛玫瑰园，再登上荣耀山（Cerro de la Gloria），看看安第斯军纪念碑，回望整座城市。最好白天前往。春秋两季气候最宜人。
 faq:
   - q: 从门多萨市中心怎么去圣马丁将军公园？

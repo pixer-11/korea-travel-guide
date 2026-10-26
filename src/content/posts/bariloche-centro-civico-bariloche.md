@@ -1,59 +1,94 @@
 ---
-title: "Centro Cívico: Bariloche Travel Guide (4.6★)"
-description: "Centro Cívico Bariloche is the stone-and-timber main square of San Carlos de Bariloche, at Libertad 56 on the edge of Lake Nahuel Huapi, and the square itself is open around the clock. 4.6★ (12,347 reviews) — what visitors say, hours, and tips."
-country: "Argentina"
-region: "Bariloche"
-category: "attraction"
-pubDate: "2026-10-26T15:38:27.224Z"
+title: 'Centro Cívico: Bariloche Travel Guide (4.6★)'
+description: >-
+  Centro Cívico Bariloche is the stone-and-timber main square of San Carlos de
+  Bariloche, at Libertad 56 on the edge of Lake Nahuel Huapi, and the square
+  itself is open around the clock. 4.6★ (12,348 reviews) — what visitors say,
+  hours, and tips.
+country: Argentina
+region: Bariloche
+category: attraction
+pubDate: '2026-10-26T15:38:27.224Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/2/28/Centro_C%C3%ADvico_Bariloche_Argentina_-_panoramio.jpg"
-  credit: "Photo: Hiroki Ogawa / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Centro_C%C3%ADvico_Bariloche_Argentina_-_panoramio.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/2/28/Centro_C%C3%ADvico_Bariloche_Argentina_-_panoramio.jpg
+  credit: 'Photo: Hiroki Ogawa / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Centro_C%C3%ADvico_Bariloche_Argentina_-_panoramio.jpg
+  via: act
   focus:
     x: 57
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/3/36/Centro_C%C3%ADvico_Bariloche_Argentina_-_panoramio_%281%29.jpg"
-    credit: "Photo: Hiroki Ogawa / Wikimedia Commons (CC BY 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Centro_C%C3%ADvico_Bariloche_Argentina_-_panoramio_(1).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/3/36/Centro_C%C3%ADvico_Bariloche_Argentina_-_panoramio_%281%29.jpg
+    credit: 'Photo: Hiroki Ogawa / Wikimedia Commons (CC BY 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Centro_C%C3%ADvico_Bariloche_Argentina_-_panoramio_(1).jpg
 place:
-  id: "ChIJ4Qi323J7GpYRlKog-JJ-G9k"
-  name: "Centro Cívico Bariloche"
-  address: "Centro Cívico, Libertad 56, R8400 San Carlos de Bariloche, Río Negro, Argentina"
+  id: ChIJ4Qi323J7GpYRlKog-JJ-G9k
+  name: Centro Cívico Bariloche
+  address: >-
+    Centro Cívico, Libertad 56, R8400 San Carlos de Bariloche, Río Negro,
+    Argentina
   rating: 4.6
-  userRatingsTotal: 12347
-  googleMapsUrl: "https://maps.google.com/?cid=15644236900294765204&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 12348
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15644236900294765204&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -41.133496
   lng: -71.3102123
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "bariloche"
-  - "Centro Civico"
-quickAnswer: "Centro Cívico Bariloche is the stone-and-timber main square of San Carlos de Bariloche, at Libertad 56 on the edge of Lake Nahuel Huapi, and the square itself is open around the clock. Give it about an hour: walk the arcades, see the Museo de la Patagonia, then head down to the lakefront or along Calle Mitre. It's one of the busiest spots in town, so early morning is your best chance at photos without the crowds."
+  - bariloche
+  - Centro Civico
+quickAnswer: >-
+  Centro Cívico Bariloche is the stone-and-timber main square of San Carlos de
+  Bariloche, at Libertad 56 on the edge of Lake Nahuel Huapi, and the square
+  itself is open around the clock. Give it about an hour: walk the arcades, see
+  the Museo de la Patagonia, then head down to the lakefront or along Calle
+  Mitre. It's one of the busiest spots in town, so early morning is your best
+  chance at photos without the crowds.
 faq:
-  - q: "Is the Centro Cívico in Bariloche open at night?"
-    a: "Yes. The square is listed as open 24 hours, so you can walk the arcades and see the lake view at any hour. The Museo de la Patagonia inside the complex keeps its own hours, so check them before you go."
-  - q: "How long should I spend at the Centro Cívico?"
-    a: "About 30 minutes for the square, the arcades and photos. Allow an hour or more if you visit the Museo de la Patagonia Francisco P. Moreno or stop at the tourist office to plan excursions."
-  - q: "When is the best time to visit for photos?"
-    a: "Early morning, before tour groups and student trips arrive, is the easiest time to photograph the square without crowds. For snow on the slate roofs, come in winter (roughly June to September). The town is at its fullest during the July school holidays."
-  - q: "What is there to do near the Centro Cívico?"
-    a: "Calle Mitre, the main street full of chocolate shops, starts right at the square. The Costanera lakefront runs below it, and the stone Catedral de Nuestra Señora del Nahuel Huapi is a few blocks east."
-  - q: "Why is the Roca statue often covered in graffiti?"
-    a: "General Julio Argentino Roca led the Conquest of the Desert campaigns that took Patagonia from Indigenous peoples. Many people, especially Mapuche communities, contest the statue, and the square is a regular site of protest."
+  - q: Is the Centro Cívico in Bariloche open at night?
+    a: >-
+      Yes. The square is listed as open 24 hours, so you can walk the arcades
+      and see the lake view at any hour. The Museo de la Patagonia inside the
+      complex keeps its own hours, so check them before you go.
+  - q: How long should I spend at the Centro Cívico?
+    a: >-
+      About 30 minutes for the square, the arcades and photos. Allow an hour or
+      more if you visit the Museo de la Patagonia Francisco P. Moreno or stop at
+      the tourist office to plan excursions.
+  - q: When is the best time to visit for photos?
+    a: >-
+      Early morning, before tour groups and student trips arrive, is the easiest
+      time to photograph the square without crowds. For snow on the slate roofs,
+      come in winter (roughly June to September). The town is at its fullest
+      during the July school holidays.
+  - q: What is there to do near the Centro Cívico?
+    a: >-
+      Calle Mitre, the main street full of chocolate shops, starts right at the
+      square. The Costanera lakefront runs below it, and the stone Catedral de
+      Nuestra Señora del Nahuel Huapi is a few blocks east.
+  - q: Why is the Roca statue often covered in graffiti?
+    a: >-
+      General Julio Argentino Roca led the Conquest of the Desert campaigns that
+      took Patagonia from Indigenous peoples. Many people, especially Mapuche
+      communities, contest the statue, and the square is a regular site of
+      protest.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-26'
 ---
 
 Grey-green stone walls, dark timber balconies and steep slate roofs form a horseshoe around a paved plaza. The open side faces Lake Nahuel Huapi, with the Andes beyond. Most visitors to Bariloche end up here within an hour of arriving, because this is where the town begins: kilometre zero, the town hall, the tourist office and the main museum all sit around one square.

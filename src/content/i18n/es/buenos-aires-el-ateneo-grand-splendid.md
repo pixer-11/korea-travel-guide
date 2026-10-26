@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: buenos-aires-el-ateneo-grand-splendid
-srcHash: '2e312e8ccc41'
+srcHash: 'd1744575d7a8'
 title: 'El Ateneo Grand Splendid: guía de viaje de Buenos Aires (4.8★)'
-description: El Ateneo Grand Splendid es un teatro de 1919 reconvertido en librería, con una valoración de 4.8★ (103,556 reseñas). Aquí encontrará la opinión de los visitantes, los horarios y algunos consejos.
+description: El Ateneo Grand Splendid es un teatro de 1919 reconvertido en librería, con una valoración de 4.8★ (103,574 reseñas). Aquí encontrará la opinión de los visitantes, los horarios y algunos consejos.
 quickAnswer: En la Av. Santa Fe 1860, donde Barrio Norte se encuentra con Recoleta, un antiguo teatro de 1919 alberga hoy El Ateneo Grand Splendid. Es una librería en la que se curiosea entre la antigua platea y los palcos, bajo una cúpula pintada. Le conviene ir un día laborable entre las 9am y las 10am, o bien un sábado por la mañana antes del mediodía. Evite las tardes de fin de semana, de 12pm a 8pm, y tenga en cuenta que los domingos abre por ahora a mediodía.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar El Ateneo Grand Splendid?

@@ -1,45 +1,56 @@
 ---
-title: "Palacio Barolo: Buenos Aires Travel Guide (4.6★)"
-description: "Palacio Barolo is a 1923 office tower at Av. de Mayo 1370 in Buenos Aires's Monserrat/Congreso area, laid out after Dante's Divine Comedy, and you can only see the upper floors and lighthouse on a guided tour. 4.6★ (30,234 reviews) — what visitors say, hours, and tips."
-country: "Argentina"
-region: "Buenos Aires"
-category: "attraction"
-pubDate: "2026-10-26T07:43:04.411Z"
+title: 'Palacio Barolo: Buenos Aires Travel Guide (4.6★)'
+description: >-
+  Palacio Barolo is a 1923 office tower at Av. de Mayo 1370 in Buenos Aires's
+  Monserrat/Congreso area, laid out after Dante's Divine Comedy, and you can
+  only see the upper floors and lighthouse on a guided tour. 4.6★ (30,237
+  reviews) — what visitors say, hours, and tips.
+country: Argentina
+region: Buenos Aires
+category: attraction
+pubDate: '2026-10-26T07:43:04.411Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Buenos_Aires-Av._de_Mayo-Palacio_Barolo-1.jpg"
-  credit: "Photo: Guglielmo Celata / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Buenos_Aires-Av._de_Mayo-Palacio_Barolo-1.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/5/5e/Buenos_Aires-Av._de_Mayo-Palacio_Barolo-1.jpg
+  credit: 'Photo: Guglielmo Celata / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Buenos_Aires-Av._de_Mayo-Palacio_Barolo-1.jpg
+  via: act
   focus:
     x: 45
-    y: 30
+    'y': 30
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/2/2b/Buenos_Aires_-_Avenida_de_Mayo_-_Palacio_Barolo_-_Interior.jpg"
-    credit: "Photo: Beatrice Murch from Buenos Aires, Argentina / Wikimedia Commons (CC BY 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Buenos_Aires_-_Avenida_de_Mayo_-_Palacio_Barolo_-_Interior.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/2/2b/Buenos_Aires_-_Avenida_de_Mayo_-_Palacio_Barolo_-_Interior.jpg
+    credit: >-
+      Photo: Beatrice Murch from Buenos Aires, Argentina / Wikimedia Commons (CC
+      BY 2.0)
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Buenos_Aires_-_Avenida_de_Mayo_-_Palacio_Barolo_-_Interior.jpg
 place:
-  id: "ChIJW3Va2NrKvJUROiaH5K0ualk"
-  name: "Palacio Barolo"
-  address: "Av. de Mayo 1370, C1085 Cdad. Autónoma de Buenos Aires, Argentina"
+  id: ChIJW3Va2NrKvJUROiaH5K0ualk
+  name: Palacio Barolo
+  address: 'Av. de Mayo 1370, C1085 Cdad. Autónoma de Buenos Aires, Argentina'
   rating: 4.6
-  userRatingsTotal: 30234
-  googleMapsUrl: "https://maps.google.com/?cid=6443013541305198138&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 30237
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6443013541305198138&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -34.6095914
   lng: -58.3858428
-  phone: "+54 11 6915-2385"
+  phone: +54 11 6915-2385
   openingHours:
-    - "Monday: 10:00 AM – 10:00 PM"
-    - "Tuesday: 9:00 AM – 10:00 PM"
-    - "Wednesday: 9:00 AM – 10:00 PM"
-    - "Thursday: 9:00 AM – 10:00 PM"
-    - "Friday: 9:00 AM – 10:00 PM"
-    - "Saturday: 10:00 AM – 11:00 PM"
-    - "Sunday: 10:00 AM – 9:00 PM"
+    - 'Monday: 10:00 AM – 10:00 PM'
+    - 'Tuesday: 9:00 AM – 10:00 PM'
+    - 'Wednesday: 9:00 AM – 10:00 PM'
+    - 'Thursday: 9:00 AM – 10:00 PM'
+    - 'Friday: 9:00 AM – 10:00 PM'
+    - 'Saturday: 10:00 AM – 11:00 PM'
+    - 'Sunday: 10:00 AM – 9:00 PM'
   busyness:
-    updated: 2026-10-26
+    updated: 2026-10-26T00:00:00.000Z
     weekdayQuiet:
       - 9
     weekendQuiet:
@@ -52,24 +63,43 @@ place:
       - 16
       - 20
       - 21
-    venueId: "ven_6b6c6175304b354861694f52554a764b724e32615633574a496843"
+    venueId: ven_6b6c6175304b354861694f52554a764b724e32615633574a496843
 tags:
-  - "buenos aires"
-  - "historic site"
-quickAnswer: "Palacio Barolo is a 1923 office tower at Av. de Mayo 1370 in Buenos Aires's Monserrat/Congreso area, laid out after Dante's Divine Comedy, and you can only see the upper floors and lighthouse on a guided tour. Book a slot ahead. It is quietest 9am–10am Tuesday to Friday, and 10am–5pm or 8pm–10pm on weekends."
+  - buenos aires
+  - historic site
+quickAnswer: >-
+  Palacio Barolo is a 1923 office tower at Av. de Mayo 1370 in Buenos Aires's
+  Monserrat/Congreso area, laid out after Dante's Divine Comedy, and you can
+  only see the upper floors and lighthouse on a guided tour. Book a slot ahead.
+  It is quietest 9am–10am Tuesday to Friday, and 10am–5pm or 8pm–10pm on
+  weekends.
 faq:
-  - q: "Do I need to book a Palacio Barolo tour in advance?"
-    a: "Yes. The upper floors and lighthouse are open only on guided tours, and slots fill up. Book on the official Palacio Barolo website, which also lists the current times and languages."
-  - q: "When is the quietest time to visit?"
-    a: "On weekdays it's 9am–10am, Tuesday to Friday, because Monday opens at 10am. On weekends it's 10am–5pm and 8pm–10pm. Sunday closes at 9pm."
-  - q: "How do I get to Palacio Barolo by subway?"
-    a: "Take Subte Line A to Sáenz Peña station on Avenida de Mayo, a few steps from the entrance at Av. de Mayo 1370. Congreso station on the same line is about two blocks west."
-  - q: "How long does the visit take?"
-    a: "Allow about an hour for a standard tour, which ends with a climb up a narrow spiral staircase to the lighthouse cupola."
-  - q: "What's nearby?"
-    a: "Café Tortoni is further east along Avenida de Mayo, at number 825. At the east end of the avenue are Plaza de Mayo and the Casa Rosada. The Congreso Nacional and Plaza del Congreso are a short walk west."
+  - q: Do I need to book a Palacio Barolo tour in advance?
+    a: >-
+      Yes. The upper floors and lighthouse are open only on guided tours, and
+      slots fill up. Book on the official Palacio Barolo website, which also
+      lists the current times and languages.
+  - q: When is the quietest time to visit?
+    a: >-
+      On weekdays it's 9am–10am, Tuesday to Friday, because Monday opens at
+      10am. On weekends it's 10am–5pm and 8pm–10pm. Sunday closes at 9pm.
+  - q: How do I get to Palacio Barolo by subway?
+    a: >-
+      Take Subte Line A to Sáenz Peña station on Avenida de Mayo, a few steps
+      from the entrance at Av. de Mayo 1370. Congreso station on the same line
+      is about two blocks west.
+  - q: How long does the visit take?
+    a: >-
+      Allow about an hour for a standard tour, which ends with a climb up a
+      narrow spiral staircase to the lighthouse cupola.
+  - q: What's nearby?
+    a: >-
+      Café Tortoni is further east along Avenida de Mayo, at number 825. At the
+      east end of the avenue are Plaza de Mayo and the Casa Rosada. The Congreso
+      Nacional and Plaza del Congreso are a short walk west.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-26'
 ---
 
 ## Dante on Avenida de Mayo

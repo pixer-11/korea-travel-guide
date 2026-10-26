@@ -1,9 +1,9 @@
 ---
 lang: ko
 slug: mendoza-santuario-nuestra-senora-de-lourdes
-srcHash: 'a1f58555e1b2'
+srcHash: '252169b01b63'
 title: '루르드 성모 성지(Santuario Nuestra Señora de Lourdes): 멘도사 여행 가이드'
-description: 루르드 성모 성지는 멘도사 도심 북서쪽 산자락의 엘 차야오(El Challao)에 있는 순례 성당이자 동굴 성소로, 주소는 P. Julio Valicenti 3530입니다. 4.7★(리뷰 12,653개)를 받은 이곳의 방문객 후기와 운영 시간, 방문 팁을 정리했습니다.
+description: 루르드 성모 성지는 멘도사 도심 북서쪽 산자락의 엘 차야오(El Challao)에 있는 순례 성당이자 동굴 성소로, 주소는 P. Julio Valicenti 3530입니다. 4.7★(리뷰 12,654개)를 받은 이곳의 방문객 후기와 운영 시간, 방문 팁을 정리했습니다.
 quickAnswer: 루르드 성모 성지는 멘도사 도심 북서쪽 산자락의 엘 차야오에 있으며, 순례 성당과 동굴 성소가 언덕에 함께 자리하고 있습니다. 주소는 P. Julio Valicenti 3530입니다. 평일 오전 9시~11시와 저녁 8시~9시가 가장 한산합니다. 주말 오전 10시~오후 2시와 오후 4시~저녁 8시는 가장 붐비므로 피하시는 것이 좋습니다. 운영 시간은 확인되지 않았으니 출발 전에 꼭 확인하시기 바랍니다.
 faq:
   - q: 루르드 성모 성지는 언제 가야 가장 한산한가요?

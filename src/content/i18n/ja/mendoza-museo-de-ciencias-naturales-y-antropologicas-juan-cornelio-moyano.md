@@ -1,9 +1,9 @@
 ---
 lang: ja
 slug: mendoza-museo-de-ciencias-naturales-y-antropologicas-juan-cornelio-moyano
-srcHash: 'ef012db759ec'
+srcHash: 'aac38b61f131'
 title: フアン・コルネリオ・モヤノ自然科学・人類学博物館：メンドーサ旅行ガイド
-description: フアン・コルネリオ・モヤノ自然科学・人類学博物館はラス・ティパス通り（Av. las Tipas）沿いにあり、評価は4.6★（6,861件のレビュー）です。来館者の声や開館時間、訪問のコツをまとめました。
+description: フアン・コルネリオ・モヤノ自然科学・人類学博物館はラス・ティパス通り（Av. las Tipas）沿いにあり、評価は4.6★（6,863件のレビュー）です。来館者の声や開館時間、訪問のコツをまとめました。
 quickAnswer: フアン・コルネリオ・モヤノ自然科学・人類学博物館（Museo de Ciencias Naturales y Antropológicas Juan Cornelio Moyano）は、メンドーサ中心部の西端に広がるサン・マルティン将軍公園（Parque General San Martín）の中にあります。ラス・ティパス通り（Av. las Tipas）沿いで、公園の湖のすぐそばです。現在の開館時間は火曜〜土曜が午前9時〜午後7時、日曜が午後2時〜7時で、月曜は休館です。見学には1.5〜2時間ほどみておきましょう。見終わったら、バラ園「ロセダル」（Rosedal）まで歩いたり、グロリアの丘（Cerro de la Gloria）へ登ったりするのがおすすめです。
 faq:
   - q: メンドーサのモヤノ博物館は具体的にどこにありますか？
