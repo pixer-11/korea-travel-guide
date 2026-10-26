@@ -3,68 +3,68 @@ lang: es
 slug: phillip-island-motogp-australian-grand-prix-phillip-island
 srcHash: '500f04aa6667'
 title: 'Gran Premio de Australia de MotoGP (Phillip Island): fechas, entradas y circuito'
-description: El Gran Premio de Australia de MotoGP se celebra del 23 al 25 de octubre de 2026 en el Circuito de Phillip Island, en Victoria. Las entradas se venden en la web oficial del organizador.
-quickAnswer: El Gran Premio de Australia de MotoGP se disputa del 23 al 25 de octubre de 2026 en el Circuito de Phillip Island (Phillip Island Grand Prix Circuit), en el estado de Victoria. Las entradas se venden en la web oficial del organizador. Es la última visita del campeonato a la isla, ya que en 2027 la carrera se traslada a Adelaida. Desde Melbourne se llega en unas dos horas de coche en dirección sureste, cruzando el único puente que parte de San Remo.
+description: Las fechas anunciadas para el Gran Premio de Australia de MotoGP en Phillip Island eran del 23 al 25 de octubre de 2026, en el Phillip Island Grand Prix Circuit (Victoria). Las entradas se vendían en la web oficial del organizador.
+quickAnswer: Las fechas anunciadas para el Gran Premio de Australia de MotoGP en Phillip Island eran del 23 al 25 de octubre de 2026, en el Phillip Island Grand Prix Circuit (Victoria), y las entradas se vendían en la web oficial del organizador. Era la última visita de MotoGP a la isla, porque en 2027 la carrera se trasladaba a Adelaida. Desde Melbourne se llega al circuito en unas dos horas de coche en dirección sureste, tras cruzar el único puente, el de San Remo.
 faq:
-  - q: ¿Cuándo se celebró el Gran Premio de Australia de MotoGP de 2026 en Phillip Island?
-    a: Se disputa del 23 al 25 de octubre de 2026 en el Circuito de Phillip Island, en Victoria. El viernes hubo entrenamientos libres, el sábado la clasificación y el Sprint, y el domingo se corrió el Gran Premio completo.
-  - q: ¿Sigue celebrándose MotoGP en Phillip Island?
-    a: No. La edición de 2026 es la última visita de MotoGP a Phillip Island. A partir de 2027, el Gran Premio de Australia de Motociclismo se celebra en Adelaida.
+  - q: ¿Qué fechas tenía el Gran Premio de Australia de MotoGP 2026 en Phillip Island?
+    a: Las fechas anunciadas eran del 23 al 25 de octubre de 2026, en el Phillip Island Grand Prix Circuit de Victoria. El viernes estaba reservado a los entrenamientos; el sábado, a la clasificación y la Sprint, y el domingo, al Gran Premio completo.
+  - q: ¿Sigue disputándose MotoGP en Phillip Island?
+    a: No. La edición de 2026 era la última visita de MotoGP a Phillip Island, porque a partir de 2027 el Gran Premio de Australia de Motociclismo pasa a Adelaida.
   - q: ¿Cómo se llega a Phillip Island desde Melbourne para ver la carrera?
-    a: La isla está a unas dos horas en coche al sureste de Melbourne, y se accede por el único puente que une San Remo y Newhaven. Ese puente se colapsa tras la carrera del domingo, así que muchos aficionados se alojan en Cowes o acampan en la zona para no tener que cruzarlo.
-  - q: ¿Cuáles son los mejores lugares para ver la carrera en Phillip Island?
-    a: Entre quienes tienen entrada general gozan de gran popularidad Lukey Heights, la curva Doohan y los alrededores de la curva Stoner. Las tribunas ofrecen un asiento reservado y mayor protección frente al viento de la costa.
-  - q: ¿Qué más se puede hacer en Phillip Island durante el fin de semana de carreras?
-    a: Ver al atardecer el Desfile de los Pingüinos en la playa de Summerland, recorrer la pasarela de los Nobbies frente a Seal Rocks, pasear por la playa y el muelle de Cowes o visitar la granja histórica de Churchill Island, cerca de Newhaven.
+    a: La isla está a unas dos horas en coche al sureste de Melbourne, y se entra por el único puente, que une San Remo y Newhaven. Muchos aficionados se alojaban en Cowes o acampaban en la zona para no depender de ese puente, que se colapsa tras la carrera del domingo.
+  - q: ¿Cuáles son los mejores sitios para ver la carrera en Phillip Island?
+    a: Entre el público con entrada general son muy populares Lukey Heights, Doohan Corner y los alrededores de Stoner Corner. Las tribunas ofrecen un asiento reservado y mejor protección frente al viento de la costa.
+  - q: ¿Qué más se puede hacer en Phillip Island durante el fin de semana de la carrera?
+    a: Entre los atractivos de la isla figuraban el Desfile de los Pingüinos en Summerland Beach al atardecer, la pasarela de los Nobbies frente a Seal Rocks, la playa y el muelle de Cowes y la granja histórica de la isla Churchill, cerca de Newhaven.
 ---
 
 ## Un circuito asomado al mar
 
-El Circuito de Phillip Island ocupa un promontorio que domina el estrecho de Bass. Desde los taludes de hierba se ve a las motos coronar una loma con el mar abierto al fondo. Como en la isla no hay nada que se interponga entre el trazado y el océano Austral, el viento llega directamente del mar y barre la pista de lado a lado.
+El Phillip Island Grand Prix Circuit ocupa un promontorio sobre el estrecho de Bass. Desde los taludes de hierba se ve a las motos coronar una loma con el mar abierto al fondo. Entre el trazado y el océano Austral no se interpone nada en la isla, de modo que el viento llega directamente del mar y barre la pista de lado a lado.
 
-El Gran Premio de Australia de Motociclismo de 2026 se celebra del 23 al 25 de octubre. MotoGP no volverá aquí, puesto que en 2027 la prueba se traslada a Adelaida. Por eso aquel fin de semana sirvió de despedida a un circuito que los pilotos sitúan desde hace tiempo entre los mejores del calendario.
+Las fechas del Gran Premio de Australia de Motociclismo de 2026 eran del 23 al 25 de octubre. Era la última visita de MotoGP a este circuito, ya que en 2027 la prueba pasaba a Adelaida. Por eso aquel fin de semana se convirtió en la despedida de un trazado que los pilotos llevan años situando entre los mejores del calendario.
 
 ## Así se organiza el fin de semana
 
-Los fines de semana de MotoGP siguen siempre el mismo esquema. El viernes se dedica a los entrenamientos libres. El sábado llegan la clasificación y el Sprint, una carrera más corta. El domingo se corre el Gran Premio completo.
+Los fines de semana de MotoGP siguen siempre el mismo esquema. El viernes se dedica a los entrenamientos y el sábado, a la clasificación y a la Sprint, una carrera más corta. El Gran Premio completo se disputa el domingo.
 
-Entre las sesiones de MotoGP ruedan las categorías de apoyo, Moto2 y Moto3. Así, hay motos en pista durante casi toda la jornada y no solo en la carrera estelar.
+Entre las sesiones de MotoGP ruedan las categorías de apoyo, Moto2 y Moto3. Así, hay motos en pista durante casi toda la jornada y no solo en la carrera principal.
 
-El trazado mide 4,4 kilómetros. Es rápido y fluido, y carece de las horquillas cerradas que en otros circuitos obligan a frenar en seco. Estas son las curvas de las que más hablan los aficionados:
+El trazado, de 4,4 kilómetros, es rápido y fluido. Carece de las horquillas cerradas que en otros circuitos obligan a los pilotos a frenar casi del todo. Estas son las curvas de las que más hablan los aficionados:
 
-- **Curva Doohan (curva 1):** al final de la recta principal, donde los pilotos alcanzan la velocidad máxima, exige una frenada muy fuerte.
-- **Curva Stoner:** larga y rápida, gira a la izquierda y lleva el nombre del australiano Casey Stoner, dos veces campeón del mundo.
-- **Lukey Heights:** en este cambio de rasante ciego las motos se aligeran. Su ladera es uno de los lugares preferidos por quienes tienen entrada general.
-- **Siberia y curva Honda:** en estos tramos más lentos del sur del circuito se producen muchos adelantamientos.
+- **Doohan Corner (curva 1):** al final de la recta principal, donde los pilotos alcanzan la velocidad máxima, llega una frenada muy fuerte.
+- **Stoner Corner:** larga y rápida curva a izquierdas que lleva el nombre del australiano Casey Stoner, dos veces campeón del mundo.
+- **Lukey Heights:** en este cambio de rasante ciego las motos se aligeran. Su ladera es uno de los puntos preferidos del público con entrada general.
+- **Siberia y Honda Corner:** son los tramos más lentos, situados en la parte sur del circuito, y en ellos abundan los adelantamientos.
 
 ## Cómo llegar a la isla
 
-Phillip Island solo tiene una conexión por carretera con el continente: el puente que une San Remo y Newhaven. Desde Melbourne se suele tomar la M1 y después las autopistas South Gippsland y Bass. Con poco tráfico, el trayecto ronda las dos horas. Durante el fin de semana de carreras, sin embargo, el tráfico está lejos de ser escaso.
+Phillip Island solo está unida al continente por una carretera: la del puente entre San Remo y Newhaven. Desde Melbourne lo habitual es tomar la M1 y después las autopistas South Gippsland y Bass. Con poco tráfico, el trayecto ronda las dos horas, pero el fin de semana de la carrera el tráfico dista mucho de ser ligero.
 
-Todo el fin de semana gira en torno a ese puente. El peor momento llega el domingo por la tarde, cuando decenas de miles de personas intentan marcharse a la vez. Muchos aficionados se alojan en la propia isla, en Cowes, la localidad principal de la costa norte, o acampan en los alrededores. Otros prefieren dormir en San Remo o en los pueblos de la Bass Highway y acudir en coche cada mañana.
+Todo el fin de semana gira en torno a ese puente. El peor momento llega el domingo por la tarde, cuando decenas de miles de personas intentan marcharse a la vez. Muchos aficionados se alojaban en la propia isla, en Cowes, la localidad principal de la costa norte, o acampaban en los alrededores. Otros dormían en San Remo o en los pueblos de la Bass Highway y entraban en coche cada mañana.
 
 Durante el fin de semana suele haber lanzaderas y autocares desde Melbourne y desde los pueblos de la isla. Para buena parte del público, llegar en moto forma parte de la tradición.
 
 ## Entradas y dónde ver la carrera
 
-En su web oficial, el organizador publica las fechas, los tipos de entrada y los enlaces de compra, además de una descripción de cada tribuna y zona de espectadores. Hay dos opciones principales: la entrada general o un asiento reservado en tribuna.
+El organizador publicaba en su web oficial las fechas, los tipos de entrada y los enlaces de compra, junto con la descripción de cada tribuna y zona de público. Había dos opciones principales: la entrada general o un asiento reservado en tribuna.
 
-Con la entrada general se accede a los taludes de hierba que rodean gran parte del circuito. Esa libertad de movimiento es precisamente lo que atrae al público. Se puede ver la carrera del domingo desde Lukey Heights y luego volver a pie hacia la recta de meta para presenciar el podio. La entrada de tribuna, por su parte, garantiza un asiento fijo y cierta protección frente al viento.
+Con la entrada general se accede a los taludes de hierba que rodean buena parte del circuito, y esa libertad de movimiento es precisamente lo que buscan muchos. Se puede seguir la carrera del domingo desde Lukey Heights y luego volver andando hacia la recta de salida y meta para ver el podio. La tribuna, en cambio, garantiza un asiento fijo y cierta protección frente al viento.
 
-Los abonos de varios días y las zonas de acampada tienen mucho éxito. Quienes vienen desde lejos suelen quedarse los tres días en lugar de acudir solo el domingo.
+Los abonos de varios días y la acampada tienen mucho éxito. Quien recorre grandes distancias suele quedarse los tres días en lugar de acudir solo el domingo.
 
-## Cómo sobrellevar el clima del estrecho de Bass
+## Sobrevivir al clima del estrecho de Bass
 
-Este es el aspecto que más sorprende a quienes vienen por primera vez. A finales de octubre es primavera en Victoria, y en esta costa vivir las cuatro estaciones en un mismo día no es una forma de hablar, sino lo habitual. En pocas horas pueden sucederse el sol, la lluvia racheada y un viento frío del sur.
+Este es el aspecto que más sorprende a los novatos. A finales de octubre es primavera en Victoria, y en esta costa lo de las cuatro estaciones en un mismo día no es ninguna exageración. En pocas horas pueden sucederse el sol, la lluvia racheada y un viento frío del sur.
 
-Los asiduos suelen vestirse por capas y llevar ropa impermeable aunque la mañana amanezca despejada. Tampoco olvidan la crema solar, porque la radiación ultravioleta es intensa incluso con el aire frío. La mayoría lleva algo sobre lo que sentarse en la hierba, así como una radio o unos auriculares para seguir los comentarios. En las curvas más alejadas, el rugido de los motores apenas deja oírlos.
+Los habituales suelen vestirse por capas y llevar ropa impermeable aunque la mañana amanezca despejada. Tampoco olvidan la crema solar, porque la radiación ultravioleta es intensa aunque haga frío. La mayoría lleva algo sobre lo que sentarse en la hierba, además de una radio o unos auriculares para seguir los comentarios, que en las curvas más alejadas apenas se oyen por el ruido de los motores.
 
-Como en el resto de Australia, en el circuito se paga casi siempre con tarjeta o con el móvil, y en los puestos de comida no se espera propina. Las colas para comer y para los aseos se alargan sobre todo en las pausas entre sesiones, de modo que muchos aficionados aprovechan para comer mientras ruedan las categorías de apoyo.
+Como en el resto de Australia, en el circuito se paga casi siempre con tarjeta o con el móvil, y en los puestos de comida no se espera propina. Las colas para comer y para los aseos se alargan sobre todo en las pausas entre sesiones, así que muchos aficionados aprovechaban las carreras de las categorías de apoyo para comer.
 
-Al terminar la carrera, buena parte de los espectadores no se dirige enseguida al aparcamiento. Prefieren esperar una o dos horas a que se despeje lo peor del atasco del puente.
+Al terminar la carrera, buena parte del público no se dirige enseguida al aparcamiento. Prefiere quedarse una o dos horas más mientras se despeja lo peor del atasco del puente.
 
 ## Más allá del circuito
 
-El resto de Phillip Island ofrece mucho para llenar un día libre. Casi todo el mundo acude al Desfile de los Pingüinos (Penguin Parade) en la playa de Summerland, donde, tras la puesta de sol, los pingüinos azules salen del agua y suben por la arena hasta sus madrigueras. En el extremo occidental, la pasarela de los Nobbies se asoma a Seal Rocks y a su colonia de lobos marinos.
+El resto de Phillip Island da para llenar de sobra un día libre. El gran reclamo es el Desfile de los Pingüinos (Penguin Parade) en Summerland Beach: tras la puesta de sol, los pingüinos pequeños salen del agua y suben por la playa hasta sus madrigueras. En el extremo occidental de la isla, la pasarela de los Nobbies mira hacia Seal Rocks, donde vive una colonia de lobos marinos.
 
-Cowes reúne el muelle, cafeterías y alojamientos, además de una playa en la resguardada costa norte. A Churchill Island se llega por una pasarela peatonal cerca de Newhaven. Cuenta con una granja histórica y se visita sin prisas en media jornada.
+En Cowes están el muelle, las cafeterías y la mayor parte del alojamiento, además de una playa en la resguardada costa norte. A la isla Churchill (Churchill Island) se llega por una pasarela peatonal cerca de Newhaven. Alberga una granja histórica y su visita ocupa cómodamente media jornada.

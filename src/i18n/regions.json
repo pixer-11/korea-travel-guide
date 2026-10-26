@@ -14467,5 +14467,59 @@
       "getting": "多数旅客搭乘火车抵达萨尔布吕肯中央车站，该站位于巴黎至法兰克福的高速铁路线上，有ICE和TGV列车停靠，到巴黎约1小时50分钟，到法兰克福约2小时30分钟。附近虽有一座小型地区机场，但航班选择有限，因此经铁路或自驾跨越法国或卢森堡边境，是比较常见的到达方式。",
       "days": "安排1到2天便足以逛完老城区、萨尔布吕肯城堡一带，再沿河悠闲散步；如果还想顺道去一趟弗尔克林根炼铁厂，不妨多留一天。"
     }
+  },
+  "Humahuaca": {
+    "en": {
+      "blurb": "Humahuaca is a high-altitude Andean town in Argentina's Jujuy Province, set within the Quebrada de Humahuaca, a UNESCO World Heritage cultural landscape carved by the Rio Grande. Once a stop on the ancient Camino Inca trade route, it retains cobbled streets, colonial-era adobe buildings and a living indigenous heritage amid dramatic, multicoloured rock formations.",
+      "getting": "The nearest airport is Jujuy (JUJ), roughly 125km to the south; from there, buses run from San Salvador de Jujuy's main terminal along National Route 9 into the Quebrada, reaching Humahuaca in ~2 to 3 hours. There is no rail passenger service to the town, so road transport, by bus or hired car, is the standard way in.",
+      "days": "Allow ~1 to 2 days to explore Humahuaca's old town, museums and nearby archaeological sites, or longer if combining it with other villages strung along the Quebrada such as Tilcara and Purmamarca."
+    },
+    "ko": {
+      "blurb": "우마우아카는 아르헨티나 후후이주에 위치한 고산 안데스 마을로, 리오 그란데강이 깎아놓은 유네스코 세계문화유산 경관인 케브라다 데 우마우아카 안에 자리하고 있다. 과거 고대 잉카 교역로인 카미노 잉카의 길목이었던 이곳에는 자갈길과 식민지 시대의 아도베 건물들이 그대로 남아 있으며, 화려한 색채의 기암절벽 사이로 지금도 살아 숨 쉬는 원주민 문화를 느낄 수 있다.",
+      "getting": "가장 가까운 공항은 남쪽으로 약 125km 떨어진 후후이 공항(JUJ)이다. 이곳에서 산살바도르 데 후후이의 중앙 터미널을 출발한 버스가 국도 9호선을 따라 케브라다로 들어가며, 약 2~3시간이면 우마우아카에 도착한다. 이 마을까지 가는 철도 여객 노선은 없기 때문에, 버스나 렌터카를 이용한 육로 이동이 일반적인 방법이다.",
+      "days": "우마우아카의 구시가지와 박물관, 인근 고고학 유적지를 둘러보려면 1~2일 정도를 잡으면 되고, 틸카라나 푸르마마르카처럼 케브라다를 따라 늘어선 다른 마을들과 함께 돌아볼 계획이라면 좀 더 여유 있게 일정을 잡는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "フマウアカは、アルゼンチン・フフイ州にある標高の高いアンデスの町で、リオ・グランデ川が刻んだユネスコ世界遺産の文化的景観「ケブラーダ・デ・フマウアカ」の中に位置しています。かつてインカの交易路「カミノ・インカ」の中継地として栄えたこの町には、石畳の路地や植民地時代のアドベ造りの建物が今も残り、色鮮やかな岩山の風景の中で先住民の文化が息づいています。",
+      "getting": "最寄りの空港はフフイ空港(JUJ)で、町から南へ約125kmの距離にあります。空港からはサン・サルバドール・デ・フフイのバスターミナルを経由し、国道9号線を北上してケブラーダへ向かうバスが運行しており、フマウアカまでは約2〜3時間かかります。町へは鉄道の旅客便がないため、バスやレンタカーなど陸路での移動が基本となります。",
+      "days": "フマウアカの旧市街や博物館、周辺の遺跡を巡るには1〜2日ほど見ておくとよいでしょう。ティルカラやプルママルカなど、ケブラーダ沿いに点在する他の村々と合わせて訪れる場合は、もう少し日程に余裕を持たせるのがおすすめです。"
+    },
+    "es": {
+      "blurb": "Humahuaca es un poblado andino de gran altitud ubicado en la provincia de Jujuy, Argentina, dentro de la Quebrada de Humahuaca, un paisaje cultural declarado Patrimonio de la Humanidad por la UNESCO y tallado por el Río Grande. Antigua parada en la ruta comercial del Camino Inca, conserva calles empedradas, construcciones de adobe de la época colonial y un legado indígena vivo, todo rodeado de formaciones rocosas multicolores de paisaje imponente.",
+      "getting": "El aeropuerto más cercano es el de Jujuy (JUJ), a unos 125 km al sur; desde allí, parten colectivos desde la terminal principal de San Salvador de Jujuy que recorren la Ruta Nacional 9 hacia la Quebrada, llegando a Humahuaca en aproximadamente 2 a 3 horas. No existe servicio ferroviario de pasajeros hasta el pueblo, por lo que el transporte por tierra —en colectivo o auto alquilado— es la forma habitual de llegar.",
+      "days": "Se recomienda reservar entre 1 y 2 días para recorrer el casco histórico de Humahuaca, sus museos y los sitios arqueológicos cercanos, o más tiempo si se combina la visita con otros pueblos de la Quebrada, como Tilcara y Purmamarca."
+    },
+    "zh": {
+      "blurb": "乌马瓦卡（Humahuaca）是阿根廷胡胡伊省（Jujuy Province）境内一座地处安第斯高原的小镇，坐落在由格兰德河（Rio Grande）切割而成的乌马瓦卡峡谷（Quebrada de Humahuaca）之中，这片峡谷是联合国教科文组织认定的世界文化遗产景观。小镇曾是古印加古道（Camino Inca）贸易线路上的一个驿站，至今仍保留着石板街道、殖民时期的土坯建筑，以及在色彩斑斓的岩层映衬下延续至今的原住民文化传统。",
+      "getting": "距离小镇最近的机场是胡胡伊机场（JUJ），约在南侧125公里处。从圣萨尔瓦多德胡胡伊（San Salvador de Jujuy）的主汽车站出发，沿9号国道（National Route 9）驶入峡谷，大约2到3小时即可抵达乌马瓦卡。镇上没有客运铁路服务，因此乘坐长途汽车或自驾是进入当地的主要方式。",
+      "days": "建议预留1到2天时间游览乌马瓦卡的老城区、各类博物馆以及附近的考古遗址；如果打算一并探访蒂尔卡拉（Tilcara）、普尔马马卡（Purmamarca）等散布在峡谷沿线的其他村落，则可适当延长行程。"
+    }
+  },
+  "Mar del Plata": {
+    "en": {
+      "blurb": "Mar del Plata is Argentina's largest seaside resort, a sprawl of sandy beaches, cliffside rambla and Belle Époque villas facing the South Atlantic. Known to locals simply as \"Mardel\", it swells each summer with holidaymakers from Buenos Aires while also functioning as a working fishing port and university city year-round.",
+      "getting": "Most travellers fly into Ástor Piazzolla International Airport (MDQ), a short hop from Buenos Aires, or take the overnight or daytime train on the Roca line from Constitución station, a journey of roughly 5 to 6 hours. Long-distance buses from Buenos Aires's Retiro terminal cover the same route in around 5 hours and arrive at the city's combined rail and bus station.",
+      "days": "Plan on ~2 to 3 days to cover the beaches, the historic port and the main coastal sights, or longer if settling in for a full summer holiday by the sea."
+    },
+    "ko": {
+      "blurb": "마르델플라타는 아르헨티나 최대의 해변 휴양 도시로, 모래사장과 절벽을 따라 이어지는 산책로(람블라), 그리고 남대서양을 마주한 벨 에포크풍 저택들이 펼쳐진 곳이다. 현지인들은 그냥 \"마르델\"이라 부르는데, 여름이면 부에노스아이레스에서 몰려드는 피서객들로 북적이는 한편, 연중 내내 활기찬 어항이자 대학 도시로서의 모습도 함께 지니고 있다.",
+      "getting": "대부분의 여행객은 부에노스아이레스에서 금방 닿는 아스토르 피아졸라 국제공항(MDQ)을 이용해 비행기로 들어오거나, 콘스티투시온 역에서 출발하는 로카 선 열차를 타고 야간 혹은 주간으로 약 5~6시간에 걸쳐 이동한다. 부에노스아이레스의 레티로 터미널에서 출발하는 장거리 버스도 비슷한 노선을 약 5시간 만에 주파하며, 철도와 버스가 함께 있는 마르델플라타의 복합 터미널에 도착한다.",
+      "days": "해변과 유서 깊은 항구, 주요 해안 명소를 둘러보려면 대략 2~3일 정도를 잡으면 되고, 바닷가에서 여름 휴가를 제대로 즐기고 싶다면 그보다 더 길게 머무는 것도 좋다."
+    },
+    "ja": {
+      "blurb": "マル・デル・プラタは、アルゼンチン最大のビーチリゾート地。南大西洋に面し、砂浜のビーチ、断崖沿いに延びる遊歩道「ランブラ」、そしてベル・エポック様式の邸宅群が広がっています。地元の人々からは親しみを込めて「マルデル」と呼ばれ、夏にはブエノスアイレスから大勢の行楽客が押し寄せて賑わう一方、一年を通じては漁業の拠点港であり大学都市としての顔も持っています。",
+      "getting": "多くの旅行者は、ブエノスアイレスから一っ飛びのアストル・ピアソラ国際空港(MDQ)を利用するか、コンスティトゥシオン駅からロカ線の夜行または日中の列車に乗ります。所要時間はおよそ5~6時間です。ブエノスアイレスのレティーロ・ターミナルからの長距離バスも同じルートを約5時間で結び、鉄道とバスが一体となった市内のターミナルに到着します。",
+      "days": "ビーチや歴史ある港、海沿いの主要な見どころを回るなら2~3日ほどを見ておくとよいでしょう。海辺で夏休みをじっくり満喫したいなら、もっと長く滞在するのもおすすめです。"
+    },
+    "es": {
+      "blurb": "Mar del Plata es el balneario más grande de Argentina, una extensa franja de playas de arena, una rambla sobre los acantilados y villas de estilo Belle Époque frente al Atlántico Sur. Conocida por los lugareños simplemente como \"Mardel\", se llena cada verano de turistas llegados desde Buenos Aires, aunque durante todo el año funciona también como un activo puerto pesquero y una ciudad universitaria.",
+      "getting": "La mayoría de los viajeros llega en avión al Aeropuerto Internacional Ástor Piazzolla (MDQ), a un corto vuelo desde Buenos Aires, o toma el tren nocturno o diurno de la línea Roca desde la estación Constitución, un viaje de entre 5 y 6 horas aproximadamente. Los ómnibus de larga distancia que salen de la terminal de Retiro, en Buenos Aires, cubren el mismo trayecto en unas 5 horas y llegan a la estación combinada de trenes y ómnibus de la ciudad.",
+      "days": "Conviene reservar entre 2 y 3 días para recorrer las playas, el histórico puerto y los principales atractivos costeros, o más tiempo si se busca instalarse para disfrutar de unas vacaciones de verano completas junto al mar."
+    },
+    "zh": {
+      "blurb": "马德普拉塔是阿根廷最大的海滨度假城市，绵延的沙滩、临崖而建的滨海大道（rambla）以及一栋栋面朝南大西洋的\"美好年代\"风格别墅构成了这里的独特风貌。当地人干脆将其称作\"Mardel\"，每逢夏季，这里都会涌入大批来自布宜诺斯艾利斯的度假游客，但与此同时，它全年也是一座繁忙的渔港和大学城。",
+      "getting": "大多数游客会选择飞抵阿斯托尔·皮亚佐拉国际机场（MDQ），从布宜诺斯艾利斯出发航程很短；也可以从康斯蒂图西翁车站（Constitución）搭乘罗卡线（Roca line）的夜班或日班火车，车程大约5到6小时。从布宜诺斯艾利斯的雷蒂罗（Retiro）长途汽车站出发的长途大巴走的是同一条路线，耗时约5小时，抵达马德普拉塔的铁路与汽车客运联合车站。",
+      "days": "建议安排约2到3天时间，游览海滩、历史悠久的港口以及主要的海岸景点；如果打算在海边度过一个完整的夏季假期，则可以多留几天，从容安顿下来。"
+    }
   }
 }

@@ -1,53 +1,53 @@
 ---
 lang: es
 slug: taichung-taichung-jazz-festival-2026
-srcHash: '7ce43c098975'
+srcHash: '9215a6857a5e'
 title: 'Festival de Jazz de Taichung 2026: fechas, entradas y recinto (Taichung)'
-description: El Festival de Jazz de Taichung 2026 se celebrará del 16–25 de octubre de 2026 en la Plaza Cívica de Taichung, en el distrito de Xitun.
-quickAnswer: Del 16–25 de octubre de 2026, la Plaza Cívica de Taichung (Taichung Civic Square), situada en el distrito de Xitun, acoge el Festival de Jazz de Taichung 2026. Entre los artistas anunciados figuran el trío cubano de Alfredo Rodríguez y el trío italiano de Alessio Menconi. Conviene consultar en la web oficial del festival los horarios, el programa completo y la información sobre entradas, si las hubiera.
+description: Las fechas anunciadas del Festival de Jazz de Taichung 2026 eran del 16 al 25 de octubre de 2026, en la Plaza Cívica de Taichung, en el distrito de Xitun. Entre los artistas confirmados figuraba el Alfredo Rodriguez Trio.
+quickAnswer: 'Las fechas anunciadas del Festival de Jazz de Taichung 2026 eran del 16 al 25 de octubre de 2026, y su sede era la Plaza Cívica de Taichung (Taichung Civic Square), en el distrito de Xitun. En el cartel figuraban dos formaciones internacionales: el Alfredo Rodriguez Trio, de Cuba, y el Alessio Menconi Trio, de Italia. El resto de la programación corría a cargo de grupos locales.'
 faq:
-  - q: ¿Cuándo se celebra el Festival de Jazz de Taichung 2026?
-    a: Las fechas anunciadas son del 16–25 de octubre de 2026. Los horarios de cada jornada se publican en la web oficial del festival.
-  - q: ¿Dónde tiene lugar el festival?
-    a: En la Plaza Cívica de Taichung, en el distrito de Xitun, muy cerca del bulevar Taiwán (Taiwan Boulevard). Desde el Museo Nacional de Ciencias Naturales se llega a la plaza a través del Corredor Verde de la Caligrafía (Calligraphy Greenway).
-  - q: ¿Hace falta entrada?
-    a: El evento principal se desarrolla sobre un césped al aire libre. Las condiciones de acceso y la existencia de zonas con entrada pueden cambiar de una edición a otra, por lo que es recomendable comprobar horarios y entradas en la web oficial.
-  - q: ¿Quiénes actúan en 2026?
-    a: Entre los artistas internacionales anunciados están el trío cubano de Alfredo Rodríguez y el trío italiano de Alessio Menconi, que compartirán cartel con grupos locales. La programación completa puede consultarse en la web oficial.
-  - q: ¿Qué conviene llevar?
-    a: Una esterilla para sentarse en el césped, una prenda ligera de abrigo para las noches más frescas de octubre, un paraguas plegable y una tarjeta EasyCard para pagar el autobús y las compras en las tiendas de conveniencia. Como apenas hay papeleras públicas, cuente con llevarse la basura a casa.
+  - q: ¿Qué fechas tenía el Festival de Jazz de Taichung 2026?
+    a: Las fechas anunciadas eran del 16 al 25 de octubre de 2026. El programa abarcaba diez noches de música sobre el césped.
+  - q: ¿Cuál era la sede del festival?
+    a: La Plaza Cívica de Taichung (Taichung Civic Square), en el distrito de Xitun, muy cerca del bulevar Taiwán (Taiwan Boulevard). Desde el Museo Nacional de Ciencias Naturales se llega a la plaza por el Paseo Verde de la Caligrafía (Calligraphy Greenway).
+  - q: ¿Hacía falta entrada?
+    a: El escenario principal daba a una explanada de césped al aire libre. Las condiciones de acceso y las zonas con entrada de este festival cambian de un año a otro.
+  - q: ¿Quiénes formaban el cartel de 2026?
+    a: Los artistas internacionales anunciados eran el Alfredo Rodriguez Trio, de Cuba, y el Alessio Menconi Trio, de Italia. Junto a ellos actuaban varios grupos locales.
+  - q: ¿Qué solía llevar el público?
+    a: Quienes acuden a la Plaza Cívica suelen llevar una esterilla de pícnic, una prenda ligera para las noches más frescas de octubre, un paraguas plegable y una tarjeta EasyCard para pagar el autobús y las tiendas de conveniencia. Como apenas hay papeleras públicas, la gente se lleva la basura a casa.
 ---
 
 ## Diez noches sobre el césped
 
-Frente al escenario se extiende una gran explanada de hierba. La Plaza Cívica de Taichung (Taichung Civic Square) es un amplio espacio llano de césped y pavimento en el distrito de Xitun, rodeado de torres de viviendas y comercios. Durante el Festival de Jazz de Taichung se transforma en un recinto de conciertos al aire libre donde el público, en lugar de apiñarse en filas de butacas, se reparte por la hierba delante del escenario.
+El escenario mira a una amplia explanada de hierba. La Plaza Cívica de Taichung (Taichung Civic Square) es un espacio llano y abierto del distrito de Xitun, con zonas pavimentadas y de césped, rodeado de torres de viviendas y comercios. Durante el Festival de Jazz de Taichung se transformaba en un recinto de conciertos al aire libre: en lugar de ocupar filas de butacas, el público se repartía por la hierba frente al escenario.
 
-Según lo anunciado, la edición de 2026 se celebrará del **16–25 de octubre de 2026**. Organizado por las autoridades culturales de Taichung, es uno de los festivales de jazz urbanos con más trayectoria de Taiwán. La mayoría de los años combina grupos taiwaneses con figuras internacionales en gira.
+Para la edición de 2026 se habían anunciado las fechas **del 16 al 25 de octubre de 2026**. Organizado por las autoridades culturales de Taichung, es uno de los festivales de jazz urbanos con más trayectoria de Taiwán. Casi todos los años combina grupos taiwaneses con figuras internacionales de gira.
 
-## Quién actúa en 2026
+## Quiénes tocaban en 2026
 
-El programa anunciado confirma dos tríos internacionales:
+En el programa anunciado figuraban dos tríos internacionales:
 
-- **Trío de Alfredo Rodríguez** (Cuba): formación encabezada por el piano que fusiona los ritmos cubanos con la improvisación jazzística.
-- **Trío de Alessio Menconi** (Italia): el proyecto en pequeño formato del guitarrista Menconi.
+- **Alfredo Rodriguez Trio** (Cuba): trío encabezado por el piano, que fusiona los ritmos cubanos con la improvisación jazzística.
+- **Alessio Menconi Trio** (Italia): el proyecto en formato reducido del guitarrista Menconi.
 
-Junto a ellos, varios grupos locales completan el cartel. En la web oficial del festival se publican la programación completa y los horarios de cada día; consúltela antes de organizarse para ver a un artista concreto.
+Completaban el cartel varios grupos locales, cuyas actuaciones se repartían a lo largo de las diez noches del festival.
 
 ## Cómo llegar a la Plaza Cívica
 
-La Plaza Cívica se encuentra en la zona oeste de la ciudad, muy cerca del bulevar Taiwán (Taiwan Boulevard). Por esta avenida circulan decenas de líneas de autobús urbano, de modo que el autobús es la opción más sencilla tanto desde la estación de Taichung como desde los hoteles del centro. Para volver al final de la noche, tanto los taxis como las aplicaciones de transporte con conductor son una buena alternativa.
+La plaza se encuentra en el oeste de la ciudad, muy cerca del bulevar Taiwán (Taiwan Boulevard). Por este bulevar circulan decenas de líneas de autobús urbano, de modo que el autobús es la forma más sencilla de llegar desde la estación de Taichung o desde los hoteles del centro. Para volver tarde, tanto el taxi como las aplicaciones de transporte con conductor funcionan bien.
 
-Quienes viajen en tren de alta velocidad deben bajarse en la estación del Tren de Alta Velocidad de Taichung, en Wuri, y continuar hasta Xitun en taxi o en un autobús de enlace. El Corredor Verde de la Caligrafía (Calligraphy Greenway) une el Museo Nacional de Ciencias Naturales con la plaza, así que antes de que empiece la música puede pasear entre sus céspedes sombreados y sus tiendas.
+Quien viaje en tren de alta velocidad debe bajarse en la estación de Taichung del THSR, situada en Wuri. Desde allí se puede seguir hasta Xitun en taxi o en un autobús de enlace. Entre el Museo Nacional de Ciencias Naturales y la plaza se extiende el Paseo Verde de la Caligrafía (Calligraphy Greenway), flanqueado por céspedes con sombra y tiendas.
 
-## Hacerse un hueco en la hierba al estilo de Taichung
+## Hacerse un hueco en el césped al estilo de Taichung
 
-En las noches de festival, el césped se va llenando desde la parte delantera. Los vecinos llegan pronto con su esterilla, reservan un pequeño trozo de terreno y se turnan para ir a por comida. Algunas costumbres le serán útiles:
+Las noches de festival, la explanada se va llenando desde las primeras filas. Lo habitual entre los vecinos es llegar pronto con una esterilla, marcar un pequeño territorio y turnarse después para ir a buscar comida. Estas son algunas costumbres locales:
 
-- **Lleve una esterilla o una sábana fina.** La plaza es sobre todo hierba y pavimento, y lo habitual es sentarse en el suelo.
-- **Pague con la EasyCard.** Sirve para los autobuses de Taichung y para la mayoría de las tiendas de conveniencia, incluidos los 7-Eleven y FamilyMart que rodean la Plaza Cívica.
-- **Llévese la basura.** En Taiwán escasean las papeleras públicas. La gente se lleva los desperdicios a casa o los separa en los puntos de recogida oficiales, y dejar restos en el césped está mal visto.
-- **Hable en voz baja durante los conciertos.** El ambiente es distendido, pero el público escucha con atención. Guarde la charla para los intervalos entre canciones.
+- **Esterillas y lonas finas.** La plaza es sobre todo césped y pavimento, y lo normal es sentarse en el suelo.
+- **Pago con EasyCard.** Con esta tarjeta se pagan los autobuses de Taichung y la mayoría de las tiendas de conveniencia, incluidos los 7-Eleven y FamilyMart que rodean la Plaza Cívica.
+- **La basura, a casa.** En Taiwán escasean las papeleras públicas. La gente se lleva los desperdicios a casa o los separa en los puntos de recogida oficiales, y dejar restos sobre el césped está mal visto.
+- **Silencio durante las actuaciones.** El público es relajado, pero escucha de verdad. Las conversaciones se dejan para las pausas entre tema y tema.
 
-En Taichung, octubre suele ser un mes seco y templado; por eso el festival se celebra al aire libre en esta época. Al caer la noche refresca, así que conviene llevar una prenda ligera de abrigo y un paraguas plegable por si llega algún chubasco tardío de la temporada de tifones.
+En Taichung, octubre suele ser un mes seco y templado, y por eso el festival se organiza al aire libre en esta época del año. Al caer la noche refresca, así que viene bien una prenda ligera, además de un paraguas plegable por si llega algún chubasco tardío de la temporada de tifones.
 
-Como es lógico en un evento urbano de acceso libre, las noches de fin de semana son las más concurridas. Si el artista que le interesa actúa entre semana, normalmente le resultará más fácil encontrar sitio en la hierba. Las condiciones de acceso, las posibles zonas con entrada o con asientos y los horarios pueden variar de un año a otro, por lo que es recomendable confirmar horarios y entradas en la web oficial.
+En un acontecimiento urbano de acceso libre como este, las noches de fin de semana suelen reunir a más público. Entre semana resulta más fácil encontrar sitio en el césped. Las normas de acceso, las posibles zonas con entrada o con asientos y los horarios de las actuaciones cambian de un año a otro.

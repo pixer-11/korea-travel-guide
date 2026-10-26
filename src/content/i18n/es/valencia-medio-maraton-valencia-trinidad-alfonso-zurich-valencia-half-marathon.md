@@ -1,61 +1,61 @@
 ---
 lang: es
 slug: valencia-medio-maraton-valencia-trinidad-alfonso-zurich-valencia-half-marathon
-srcHash: 'e6806a68983a'
-title: 'Medio Maratón Valencia Trinidad Alfonso Zurich: fechas, entradas y sede (Valencia)'
-description: El Medio Maratón Valencia Trinidad Alfonso Zurich se celebra en Valencia (España) el 25 de octubre de 2026. Qué es, cuándo y dónde se disputa, y cómo organizar la visita en torno a la carrera.
-quickAnswer: El Medio Maratón Valencia Trinidad Alfonso Zurich se disputará el 25 de octubre de 2026, con unos 25.000 corredores recorriendo la ciudad por un trazado considerado el más rápido del mundo entre los medios maratones. Todos los detalles sobre inscripción, recogida de dorsales y cajones de salida figuran en la web oficial de la carrera, así que conviene confirmar allí los horarios y las entradas antes de reservar vuelos u hotel. El centro de la ciudad y la zona del cauce del Turia serán los puntos neurálgicos tanto de la carrera como de la expo previa.
+srcHash: '50bf6b0dd92e'
+title: 'Medio Maratón Valencia Trinidad Alfonso Zurich: fechas, inscripción y sede (Valencia)'
+description: La fecha anunciada del Medio Maratón Valencia Trinidad Alfonso Zurich era el 25 de octubre de 2026, en Valencia (España), con unos 25.000 corredores.
+quickAnswer: El Medio Maratón Valencia Trinidad Alfonso Zurich estaba previsto para el 25 de octubre de 2026. Se esperaban unos 25.000 corredores en un circuito que muchos consideran el medio maratón más rápido del mundo. La organización gestionaba la inscripción, la recogida de dorsales y los cajones de salida a través de la web oficial de la carrera. Tanto la prueba como la feria del corredor se concentraban en el centro de la ciudad y en el antiguo cauce del Turia.
 faq:
-  - q: ¿Cuándo se celebra el Medio Maratón de Valencia en 2026?
-    a: El Medio Maratón Valencia Trinidad Alfonso Zurich tiene lugar el 25 de octubre de 2026.
-  - q: ¿Cuántos corredores participan?
-    a: Hay unos 25.000 corredores inscritos, lo que convierte esta carrera en uno de los medios maratones más multitudinarios del calendario.
-  - q: ¿Dónde se compran las entradas o se hace la inscripción?
-    a: La inscripción se gestiona íntegramente a través de la web oficial de la carrera. Conviene confirmar allí los horarios, los precios y las categorías de participación, ya que estos datos se administran de forma centralizada y pueden variar de una edición a otra.
-  - q: ¿Es un buen circuito para lograr una marca personal?
-    a: Sí. El trazado está considerado uno de los más llanos y rápidos del mundo entre los medios maratones, y suele dejar récords personales tanto entre los elite como entre los corredores aficionados.
-  - q: ¿Cuál es el mejor lugar para verlo si no voy a correr?
-    a: Los jardines del cauce del Turia permiten desplazarse con más facilidad entre distintos puntos de observación que las abarrotadas calles del centro histórico, lo que deja a los espectadores ver a los corredores en varios tramos del recorrido.
-  - q: ¿Cómo se llega a la zona de salida?
-    a: Gracias al metro y a lo compacto del centro de Valencia, la carrera queda a distancia caminable desde la mayoría de los hoteles céntricos; tanto el aeropuerto como la Estación del Norte conectan fácilmente con el centro de la ciudad.
+  - q: ¿Cuándo era el Medio Maratón de Valencia en 2026?
+    a: La fecha anunciada del Medio Maratón Valencia Trinidad Alfonso Zurich era el 25 de octubre de 2026.
+  - q: ¿Cuántos corredores participaban?
+    a: Para la edición de 2026 había inscritos unos 25.000 corredores, lo que la situaba entre los medios maratones más multitudinarios del calendario.
+  - q: ¿Dónde se compraban las entradas o se hacía la inscripción?
+    a: Toda la inscripción se tramitaba en la web oficial de la carrera. Allí se gestionaban de forma centralizada los plazos, los precios y las categorías de participación, que pueden cambiar de una edición a otra.
+  - q: ¿Es un buen circuito para hacer marca personal?
+    a: Sí. Tiene fama de ser uno de los recorridos de medio maratón más llanos y rápidos del mundo, y en él se baten con frecuencia marcas personales tanto de élite como populares.
+  - q: ¿Cuál era el mejor sitio para ver la carrera sin correrla?
+    a: En los jardines del antiguo cauce del Turia resultaba más fácil desplazarse de un punto a otro que por las abarrotadas calles del casco histórico, de modo que el público podía ver pasar a los corredores en varios tramos del recorrido.
+  - q: ¿Cómo se llegaba a la zona de salida?
+    a: Gracias al metro y a lo compacto del centro de Valencia, la carrera quedaba a poca distancia a pie de la mayoría de los hoteles céntricos. Además, tanto el aeropuerto como la Estación del Norte tienen buena conexión con el centro.
 ---
 
-Cada octubre, un domingo, Valencia cierra buena parte de su centro histórico por este medio maratón, una prueba World Athletics Gold Label que atrae a liebres de élite y a cazadores de récords precisamente porque el trazado es llano, rápido y famoso por facilitar las marcas personales. La 35ª edición se disputa el 25 de octubre de 2026, con aproximadamente 25.000 corredores inscritos.
+Un domingo de octubre, Valencia cierra buena parte de su casco histórico para acoger este medio maratón. Se trata de una prueba con Etiqueta Oro de World Athletics que atrae a liebres de élite y a cazadores de récords, porque su circuito llano y rápido es célebre por favorecer las marcas personales. La fecha anunciada de la 35.ª edición era el 25 de octubre de 2026, con alrededor de 25.000 corredores inscritos.
 
-Esa cifra ya anticipa el ambiente del día: calles cortadas, vagones de metro abarrotados camino de la salida y una atmósfera en la línea de meta que se extiende por las calles cercanas durante horas después de la carrera.
+Con tantos participantes, lo habitual son calles cortadas, vagones de metro repletos camino de la salida y un ambiente de meta que se extiende durante horas por las calles de alrededor.
 
 ## Qué hace diferente a este circuito
 
-No se trata de una ruta pintoresca pero lenta entre cuestas. El medio maratón de Valencia se ha ganado su fama gracias al asfalto llano, a los giros mínimos y al aire fresco del otoño: exactamente las condiciones que buscan los fondistas para lograr una marca personal.
+No es un recorrido bonito pero lento entre cuestas. El medio maratón de Valencia se ha ganado su prestigio gracias al asfalto llano, a las pocas curvas y al aire fresco del otoño, justo las condiciones que buscan los fondistas para mejorar su marca.
 
-Los grupos de élite lo utilizan habitualmente como banco de pruebas para bajar de 59 y de 66 minutos. Si vas a correr en lugar de a mirar, prepárate para un recorrido pensado para la velocidad, no para desvíos turísticos.
+Los corredores de élite lo eligen a menudo para intentar bajar de 59 minutos en categoría masculina y de 66 en la femenina. El trazado está pensado para correr rápido, no para dar rodeos turísticos.
 
-## Dónde ocurre la acción
+## Dónde se vive la carrera
 
-La carrera atraviesa el centro de Valencia, y los jardines del cauce del Turia (el antiguo lecho del río convertido en un parque hundido) actúan como arteria clave tanto para el recorrido como para el desbordamiento de público.
+La prueba recorre el centro de Valencia. Los jardines del antiguo cauce del Turia, un parque hundido donde antes corría el río, son una arteria clave tanto para el trazado como para el público que no cabe en otras zonas.
 
-Las zonas de salida y meta están lo bastante cerca del centro histórico como para que los espectadores puedan situarse junto a lugares emblemáticos como la Ciutat de les Arts i les Ciències o la Plaza del Ayuntamiento y, moviéndose con rapidez entre puntos de observación, ver pasar la carrera en más de una ocasión.
+Las zonas de salida y meta quedan cerca del casco histórico. Así, quien se coloque junto a lugares emblemáticos como la Ciudad de las Artes y las Ciencias (Ciutat de les Arts i les Ciències) o la Plaza del Ayuntamiento puede ver la carrera en más de un punto si se mueve con rapidez.
 
-- Centro histórico: mucha afluencia, ideal para el ambiente
-- Jardines del Turia: más fácil moverse, buenos para las fotos
-- Zona de meta: la más concurrida durante la hora posterior al paso de los corredores de élite
+- Casco histórico: mucho público y el mejor ambiente
+- Jardines del Turia: más facilidad para moverse y buenas fotos
+- Zona de meta: la más concurrida durante la hora siguiente al paso de la élite
 
-## Cómo conseguir entrada y dorsal
+## Entradas e inscripción
 
-La inscripción funciona como en la mayoría de los grandes maratones de referencia: los corredores se apuntan con antelación a través de la web oficial del evento, con un límite de participantes en torno a los 25.000. Dado el estatus Gold Label y la reputación del circuito entre los corredores serios, en las últimas ediciones las plazas se han agotado mucho antes del día de la carrera.
+La inscripción funcionaba como en la mayoría de las grandes carreras con etiqueta internacional: los corredores se apuntaban con antelación en la web oficial del evento, con un cupo limitado a unos 25.000 participantes. Por su Etiqueta Oro y por la fama del circuito entre los corredores más exigentes, en las últimas ediciones las plazas se agotaron mucho antes del día de la carrera.
 
-Conviene confirmar horarios y entradas en la web oficial, ya que los plazos de inscripción, las franjas de precio y las posibles categorías por marca mínima se gestionan allí y pueden cambiar entre ediciones. Esa misma web es la fuente fiable para todo lo relativo a la recogida de dorsales y a las fechas de la expo, que normalmente tiene lugar en los días previos a la carrera.
+Los plazos de inscripción, los tramos de precio y las posibles categorías con marca mínima se gestionaban en la web oficial y pueden variar de una edición a otra. La recogida de dorsales y la feria del corredor suelen celebrarse en los días previos a la prueba.
 
 ## Cómo llegar y dónde alojarse
 
-Al ser tan compacto el centro de Valencia, la mayoría de los visitantes no necesitan coche durante el fin de semana de la carrera. El aeropuerto conecta con el centro en metro, y la Estación del Norte deja al viajero a poca distancia a pie del casco antiguo.
+Al ser el centro de Valencia tan compacto, la mayoría de los visitantes no necesita coche el fin de semana de la carrera. El metro une el aeropuerto con el centro, y la Estación del Norte está a poca distancia a pie del casco antiguo.
 
-Si prefieres ir andando hasta la salida en lugar de lidiar con los cambios de tráfico del día de la carrera, reserva alojamiento cerca de los jardines del Turia o del centro histórico. Los hoteles próximos a Ruzafa o El Carmen te dejan cerca tanto del recorrido como de la animada oferta gastronómica posterior a la prueba.
+Desde los hoteles cercanos a los jardines del Turia o al casco histórico se llega andando a la salida, sin necesidad de transbordos el día de la prueba. Ruzafa y El Carmen quedan cerca tanto del recorrido como de los bares y restaurantes a los que se acude después de correr.
 
-## Cómo verlo desde la experiencia
+## Ver la carrera como un veterano
 
-Seguir una carrera con 25.000 corredores exige algo de estrategia si quieres ver a tu corredor más de una vez. El cauce del Turia permite cruzar a pie más rápido que sortear a la multitud en las avenidas principales, por lo que es la mejor opción para verlo en repetidas ocasiones.
+Para ver más de una vez a un corredor entre 25.000 hace falta cierta estrategia. Por el cauce del Turia se puede cruzar a pie más deprisa que entre la multitud que llena las grandes avenidas, así que era la mejor opción para verlo pasar varias veces.
 
-Lleva impresa o fotografiada la dorsal del corredor y su ritmo estimado, porque la señal del teléfono falla en las zonas más concurridas cerca de la meta. Las cafeterías próximas a la línea de meta se llenan enseguida después de las 10:00, así que conviene coger mesa pronto si prefieres ver la carrera sentado en lugar de entre el gentío de pie.
+Los espectadores con experiencia llevaban el número de dorsal y el ritmo estimado del corredor impresos o en una foto, ya que la cobertura móvil falla en las zonas más abarrotadas cerca de la meta. Las cafeterías próximas a la línea de llegada se llenan enseguida a partir de las 10:00, y las mesas son para quienes se sientan primero.
 
-Los vecinos aprovechan la mañana de la carrera para salir temprano, corran o no: las panaderías cercanas al recorrido suelen abrir antes de lo habitual, y no es raro ver a familias enteras apostadas cada año en la misma esquina. Conviene confirmar de antemano los cortes de tráfico exactos en la web oficial o en los avisos del ayuntamiento, ya que las calles cortadas pueden complicar el trayecto a pie entre el hotel y el punto de observación.
+Para los valencianos, la mañana de la carrera es un motivo para salir temprano, corran o no. Las panaderías cercanas al recorrido suelen abrir antes de lo habitual, y es frecuente ver a familias enteras instaladas en la misma esquina año tras año. Los cortes de tráfico de esa mañana podían complicar el trayecto a pie entre el hotel y el punto elegido para ver la carrera.

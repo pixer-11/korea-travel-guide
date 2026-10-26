@@ -2,20 +2,20 @@
  "_note": "Per-topic search→post yield, written by scripts/generate.mjs (scripts/lib/topic-yield.mjs). Seeded 2026-08-23 from the 08-17..23 publish/bulk logs; counts halve past 200 so recent runs weigh more.",
  "topics": {
   "local restaurant": {
-   "attempts": 158,
-   "hits": 17
+   "attempts": 166,
+   "hits": 18
   },
   "historic site": {
-   "attempts": 175,
-   "hits": 100
+   "attempts": 186,
+   "hits": 105
   },
   "park": {
-   "attempts": 187,
+   "attempts": 192,
    "hits": 113
   },
   "viewpoint": {
-   "attempts": 92,
-   "hits": 10
+   "attempts": 98,
+   "hits": 11
   },
   "art gallery": {
    "attempts": 78,
@@ -42,8 +42,8 @@
    "hits": 77
   },
   "local market": {
-   "attempts": 153,
-   "hits": 57
+   "attempts": 154,
+   "hits": 58
   },
   "bookshop": {
    "attempts": 48,
@@ -66,7 +66,7 @@
    "hits": 12
   },
   "street food": {
-   "attempts": 141,
+   "attempts": 144,
    "hits": 18
   },
   "bakery": {
@@ -1112,7 +1112,103 @@
   "Parque General San Martin and Cerro de la Gloria": {
    "attempts": 1,
    "hits": 1
+  },
+  "Independence Monument": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Ecocentro": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Paseo de los Colorados": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Museo de la Vid y el Vino": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Laguna Nimez Reserve": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Peninsula Valdes": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Cerro San Bernardo Cable Car": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Tierra del Fuego National Park": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Plaza Independencia": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Glaciarium": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Train to the Clouds": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Maritime Museum and Old Prison": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Recoleta Cemetery": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Torreon del Monje": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Museo de Arte Tigre": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Hito Tres Fronteras": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "El Ateneo Grand Splendid": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Serrania de Hornocal": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Hill of Seven Colours": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Centro Civico": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Cerro Catedral": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Teatro Colon": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Casa Rosada and Plaza de Mayo": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "San Telmo Market": {
+   "attempts": 1,
+   "hits": 1
   }
  },
- "updated": "2026-10-26T07:42:57.499Z"
+ "updated": "2026-10-26T15:39:07.393Z"
 }

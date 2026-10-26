@@ -545,6 +545,12 @@
   "reason": "publish gate: Mountain landscape consistent with Machu Picchu sanctuary surroundings",
   "at": "2026-10-22T14:55:56.286Z"
  },
+ "aguas-calientes-the-temple-of-the-sun\u0001https://upload.wikimedia.org/wikipedia/commons/3/3e/Temple_of_the_Sun_at_Machu_Picchu.jpg": {
+  "slug": "aguas-calientes-the-temple-of-the-sun",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Machu Picchu stonework consistent with Temple of the Sun",
+  "at": "2026-10-26T15:35:04.981Z"
+ },
  "ahmedabad-diljit-dosanjh-rupay-aura-india-tour-2026-ahmedabad\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/IIFA_2017_Green_Carpet_%2835586493033%29.jpg/3840px-IIFA_2017_Green_Carpet_%2835586493033%29.jpg": {
   "slug": "ahmedabad-diljit-dosanjh-rupay-aura-india-tour-2026-ahmedabad",
   "verdict": "MATCH",
@@ -3497,11 +3503,23 @@
   "reason": "patrol reject: identity: Commons places this in United Kingdom, post says Spain",
   "at": "2026-10-12T22:10:23.244Z"
  },
+ "bariloche-centro-civico-bariloche\u0001https://upload.wikimedia.org/wikipedia/commons/2/28/Centro_C%C3%ADvico_Bariloche_Argentina_-_panoramio.jpg": {
+  "slug": "bariloche-centro-civico-bariloche",
+  "verdict": "MATCH",
+  "reason": "publish gate: Civic Center plaza with statue, buildings, representative view",
+  "at": "2026-10-26T15:38:14.238Z"
+ },
  "bariloche-cerro-campanario\u0001https://upload.wikimedia.org/wikipedia/commons/1/1d/Cerro_Campanario_Bariloche_Argentina_-_panoramio.jpg": {
   "slug": "bariloche-cerro-campanario",
   "verdict": "MATCH",
   "reason": "publish gate: Scenic view from Cerro Campanario overlook, matches locale",
   "at": "2026-10-25T13:00:55.771Z"
+ },
+ "bariloche-cerro-catedral\u0001https://upload.wikimedia.org/wikipedia/commons/8/89/Cerro_Catedral_-_panoramio_%284%29.jpg": {
+  "slug": "bariloche-cerro-catedral",
+  "verdict": "MATCH",
+  "reason": "publish gate: Ski lift building with snow guns at Cerro Catedral",
+  "at": "2026-10-26T15:38:41.756Z"
  },
  "barra-chapel-of-our-lady-of-penha\u0001https://upload.wikimedia.org/wikipedia/commons/6/6f/Chapel_of_Our_Lady_of_Penha%2C_Macau_-_panoramio.jpg": {
   "slug": "barra-chapel-of-our-lady-of-penha",
@@ -4812,6 +4830,30 @@
   "reason": "publish gate: Colorful Caminito corner building, representative street view",
   "at": "2026-10-25T13:00:55.867Z"
  },
+ "buenos-aires-casa-rosada\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Casa_Rosada_exterior_from_Plaza_de_Mayo.JPG/1920px-Casa_Rosada_exterior_from_Plaza_de_Mayo.JPG": {
+  "slug": "buenos-aires-casa-rosada",
+  "verdict": "MATCH",
+  "reason": "publish gate: Clear exterior view of Casa Rosada with Argentine flag",
+  "at": "2026-10-26T15:38:41.815Z"
+ },
+ "buenos-aires-don-julio-parrilla\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Don_Julio_03.jpg/3840px-Don_Julio_03.jpg": {
+  "slug": "buenos-aires-don-julio-parrilla",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of Don Julio with signage, representative of venue",
+  "at": "2026-10-26T15:38:41.710Z"
+ },
+ "buenos-aires-el-ateneo-grand-splendid\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Yenny_Ateneo_Grand_Splendid.jpg/1920px-Yenny_Ateneo_Grand_Splendid.jpg": {
+  "slug": "buenos-aires-el-ateneo-grand-splendid",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior facade of El Ateneo Grand Splendid, representative",
+  "at": "2026-10-26T15:36:09.018Z"
+ },
+ "buenos-aires-mercado-san-telmo\u0001https://upload.wikimedia.org/wikipedia/commons/3/3a/Mercado_San_Telmo.JPG": {
+  "slug": "buenos-aires-mercado-san-telmo",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior facade with name sign, representative building view",
+  "at": "2026-10-26T15:39:07.357Z"
+ },
  "buenos-aires-museo-nacional-de-arte-decorativo\u0001https://upload.wikimedia.org/wikipedia/commons/2/29/Museo_Nacional_de_Arte_Decorativo.jpg": {
   "slug": "buenos-aires-museo-nacional-de-arte-decorativo",
   "verdict": "MATCH",
@@ -4841,6 +4883,12 @@
   "verdict": "WEAK",
   "reason": "patrol replace: Buenos Aires aerial, but generic venue—no heritage building ",
   "at": "2026-10-25T23:22:04.353Z"
+ },
+ "buenos-aires-teatro-colon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Fachada_del_Teatro_Col%C3%B3n_en_Buenos_Aires%2C_Argentina.jpg/1920px-Fachada_del_Teatro_Col%C3%B3n_en_Buenos_Aires%2C_Argentina.jpg": {
+  "slug": "buenos-aires-teatro-colon",
+  "verdict": "MATCH",
+  "reason": "publish gate: Representative exterior facade of Teatro Colón building",
+  "at": "2026-10-26T15:38:41.785Z"
  },
  "buenos-aires-tres-de-febrero-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Parque_Tres_de_Febrero_during_the_2018_YOG_03.jpg/3840px-Parque_Tres_de_Febrero_during_the_2018_YOG_03.jpg": {
   "slug": "buenos-aires-tres-de-febrero-park",
@@ -6658,6 +6706,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Terraced canyon landscape matches Colca Canyon scenery",
   "at": "2026-10-24T14:03:31.992Z"
+ },
+ "chivay-parish-of-our-lady-of-the-assumption\u0001https://upload.wikimedia.org/wikipedia/commons/6/63/Chivay.-_Parish_of_Our_Lady_of_the_Assumption.jpg": {
+  "slug": "chivay-parish-of-our-lady-of-the-assumption",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows church exterior with bell towers, representative hero shot",
+  "at": "2026-10-26T15:33:56.501Z"
  },
  "chivay-plaza-de-armas-de-chivay\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Plaza_de_Armas_de_Chivay.jpg/3840px-Plaza_de_Armas_de_Chivay.jpg": {
   "slug": "chivay-plaza-de-armas-de-chivay",
@@ -11697,6 +11751,12 @@
   "verdict": "WEAK",
   "reason": "Generic ice cream dessert, no venue-specific context",
   "at": "2026-07-25T02:44:19.538Z"
+ },
+ "humahuaca-serrania-de-hornocal\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Serran%C3%ADa_de_Hornocal_up_close_near_Humahuaca.jpg/1920px-Serran%C3%ADa_de_Hornocal_up_close_near_Humahuaca.jpg": {
+  "slug": "humahuaca-serrania-de-hornocal",
+  "verdict": "MATCH",
+  "reason": "publish gate: Striped multicolored mountain matches Serranía de Hornocal landscape",
+  "at": "2026-10-26T15:36:48.649Z"
  },
  "hyderabad-charminar-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Charminar_Market_Hyderabad.jpg/3840px-Charminar_Market_Hyderabad.jpg": {
   "slug": "hyderabad-charminar-market",
@@ -18313,6 +18373,12 @@
   "reason": "patrol reject: Conference room presentation, unrelated to a restaurant venue",
   "at": "2026-08-28T03:48:31.701Z"
  },
+ "mar-del-plata-torreon-del-monje\u0001https://upload.wikimedia.org/wikipedia/commons/3/34/Torre%C3%B3n_del_Monje%2C_Mar_del_Plata.JPG": {
+  "slug": "mar-del-plata-torreon-del-monje",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Torreón del Monje tower and building in Mar del Plata",
+  "at": "2026-10-26T15:35:05.020Z"
+ },
  "margilan-silk-factory\u0001https://upload.wikimedia.org/wikipedia/commons/9/97/Silk_factory_in_Margilan.jpg": {
   "slug": "margilan-silk-factory",
   "verdict": "MATCH",
@@ -21720,6 +21786,12 @@
   "reason": "publish gate: Shows Pinkuylluna ruins overlooking Ollantaytambo town and valley",
   "at": "2026-10-22T14:52:07.227Z"
  },
+ "ollantaytambo-templo-del-sol\u0001https://upload.wikimedia.org/wikipedia/commons/a/af/Templo_del_Sol_en_Sitio_Arqueol%C3%B3gico_de_Ollantaytambo.jpg": {
+  "slug": "ollantaytambo-templo-del-sol",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows the monumental wall of Templo del Sol, Ollantaytambo",
+  "at": "2026-10-26T15:34:23.223Z"
+ },
  "orchard-road-din-tai-fung\u0001\"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Taiwan_2009_Taipei_DinTaiFung_Dumpling_House_at_Pacific_Sogo_ZhongXiao_Store_FRD_9000.jpg/1920px-Taiwan_2009_Taipei_DinTaiFung_Dumpling_House_at_Pacific_Sogo_ZhongXiao_Store_FRD_9000.jpg\"": {
   "slug": "orchard-road-din-tai-fung",
   "verdict": "MISMATCH",
@@ -22256,6 +22328,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows the actual Candelabro geoglyph carved into hillside",
   "at": "2026-10-24T14:04:36.486Z"
+ },
+ "paracas-islas-ballestas-paracas\u0001https://upload.wikimedia.org/wikipedia/commons/9/93/Islas_Ballestas%2C_Paracas_National_Reserve%2C_Peru_-_panoramio.jpg": {
+  "slug": "paracas-islas-ballestas-paracas",
+  "verdict": "MATCH",
+  "reason": "publish gate: Rocky island with birds and sea lions, matches Islas Ballestas",
+  "at": "2026-10-26T15:34:23.175Z"
  },
  "paris-2026-tour-de-france-final-stages-paris-finish\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Tour_de_France%2C_2014_02.jpg/3840px-Tour_de_France%2C_2014_02.jpg": {
   "slug": "paris-2026-tour-de-france-final-stages-paris-finish",
@@ -24092,6 +24170,12 @@
   "reason": "publish gate: Representative view of Devil's Throat waterfall basin",
   "at": "2026-10-25T13:00:55.932Z"
  },
+ "puerto-iguazu-hito-tres-fronteras-argentina\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Hito_de_las_Tres_Fronteras._Puesta_de_Sol.jpg/3840px-Hito_de_las_Tres_Fronteras._Puesta_de_Sol.jpg": {
+  "slug": "puerto-iguazu-hito-tres-fronteras-argentina",
+  "verdict": "MATCH",
+  "reason": "publish gate: River confluence sunset view matches Tres Fronteras viewpoint",
+  "at": "2026-10-26T15:35:39.484Z"
+ },
  "puerto-princesa-immaculate-conception-cathedral\u0001https://upload.wikimedia.org/wikipedia/commons/7/75/The_Immaculate_Conception_Cathedral_-_panoramio_%282%29.jpg": {
   "slug": "puerto-princesa-immaculate-conception-cathedral",
   "verdict": "MATCH",
@@ -24231,11 +24315,23 @@
   "reason": "publish gate: Exterior facade with museum name clearly visible",
   "at": "2026-10-25T07:47:57.350Z"
  },
+ "puno-plaza-mayor-de-puno\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Plaza_Mayor_de_Puno_2025_02.jpg/3840px-Plaza_Mayor_de_Puno_2025_02.jpg": {
+  "slug": "puno-plaza-mayor-de-puno",
+  "verdict": "MATCH",
+  "reason": "publish gate: Plaza with cathedral, representative view of Plaza Mayor Puno",
+  "at": "2026-10-26T15:33:56.549Z"
+ },
  "puno-sillustani\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Sillustani%2C_Per%C3%BA%2C_2015-08-01%2C_DD_87.JPG/1920px-Sillustani%2C_Per%C3%BA%2C_2015-08-01%2C_DD_87.JPG": {
   "slug": "puno-sillustani",
   "verdict": "MATCH",
   "reason": "publish gate: Shows Sillustani funerary tower overlooking lake, representative view",
   "at": "2026-10-24T14:02:28.229Z"
+ },
+ "purmamarca-cerro-de-los-siete-colores\u0001https://upload.wikimedia.org/wikipedia/commons/0/0a/Cerro_de_los_siete_colores.jpg": {
+  "slug": "purmamarca-cerro-de-los-siete-colores",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows colorful mountain with town, representative of landmark",
+  "at": "2026-10-26T15:37:29.084Z"
  },
  "purmamarca-purmamarca-jujuy\u0001https://upload.wikimedia.org/wikipedia/commons/8/86/Jujuy_-_Tumbaya_-_Purmamarca_-_Pueblo_de_Purmamarca.jpg": {
   "slug": "purmamarca-purmamarca-jujuy",
@@ -30684,6 +30780,12 @@
   "reason": "event publish gate: Performer singing on stage, correct event subject",
   "at": "2026-10-25T23:02:54.619Z"
  },
+ "tbilisi-dry-bridge-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/2025-03-30_Dry_Bridge_Market%2C_Tbilisi_1.jpg/3840px-2025-03-30_Dry_Bridge_Market%2C_Tbilisi_1.jpg": {
+  "slug": "tbilisi-dry-bridge-market",
+  "verdict": "MATCH",
+  "reason": "publish gate: Flea market table with coins, medals, pins, typical of Dry Bridge",
+  "at": "2026-10-26T15:34:23.254Z"
+ },
  "tbilisi-georgian-national-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Museum_of_the_Soviet_Occupation_in_Tbilisi.jpg/1920px-Museum_of_the_Soviet_Occupation_in_Tbilisi.jpg": {
   "slug": "tbilisi-georgian-national-museum",
   "verdict": "MATCH",
@@ -30719,6 +30821,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Scenic overlook view of Tbilisi from park viewpoint",
   "at": "2026-10-24T14:05:43.598Z"
+ },
+ "tbilisi-viewpoint\u0001https://upload.wikimedia.org/wikipedia/commons/5/51/View_to_Tbilisi_from_Betlemi_Rise_Viewpoint-2%2C_May%2C_2022.jpg": {
+  "slug": "tbilisi-viewpoint",
+  "verdict": "MATCH",
+  "reason": "publish gate: Panoramic view of Tbilisi consistent with viewpoint attraction",
+  "at": "2026-10-26T15:35:39.514Z"
  },
  "telavi-gombori-pass\u0001https://upload.wikimedia.org/wikipedia/commons/a/a7/View_to_Gombori_pass_-_panoramio.jpg": {
   "slug": "telavi-gombori-pass",
@@ -30779,6 +30887,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Aerial lake/industrial view, unrelated to marathon event",
   "at": "2026-10-22T00:18:21.950Z"
+ },
+ "tigre-museo-de-arte-de-tigre\u0001https://upload.wikimedia.org/wikipedia/commons/9/99/Museo_de_Arte_Tigre_00.jpg": {
+  "slug": "tigre-museo-de-arte-de-tigre",
+  "verdict": "MATCH",
+  "reason": "publish gate: Matches Tigre museum building with riverside colonnade view",
+  "at": "2026-10-26T15:35:39.438Z"
  },
  "tigre-puerto-de-frutos\u0001https://upload.wikimedia.org/wikipedia/commons/b/b2/Puerto_de_frutos%2C_tempranito_-_panoramio.jpg": {
   "slug": "tigre-puerto-de-frutos",

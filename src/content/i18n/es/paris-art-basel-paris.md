@@ -1,57 +1,57 @@
 ---
 lang: es
 slug: paris-art-basel-paris
-srcHash: '63d1d1e144f9'
+srcHash: '50e57355f428'
 title: 'Art Basel Paris: fechas, entradas y sede (París)'
-description: Art Basel Paris se celebra en París, Francia, del 23 al 25 de octubre de 2026. Qué es, cuándo y dónde tiene lugar, y cómo organizar la visita.
-quickAnswer: Art Basel Paris se celebra del 23 al 25 de octubre de 2026 en el Grand Palais, con jornadas de preview que normalmente preceden al fin de semana abierto al público. Conviene confirmar las fechas exactas, los horarios y las entradas en la web oficial de Art Basel antes de reservar el viaje. El Grand Palais está en la Avenue Winston Churchill, en el distrito 8, a poca distancia a pie de los Campos Elíseos (Champs-Élysées).
+description: Las fechas anunciadas de Art Basel Paris eran del 23 al 25 de octubre de 2026, en el Grand Palais del distrito 8 de París (Francia).
+quickAnswer: Art Basel Paris estaba prevista del 23 al 25 de octubre de 2026 en el Grand Palais. Como es habitual, unas jornadas de preestreno solían preceder al fin de semana abierto al público. El Grand Palais se encuentra en la Avenue Winston Churchill, en el distrito 8, a un corto paseo de los Campos Elíseos.
 faq:
-  - q: ¿Cuáles son las fechas de Art Basel Paris 2026?
-    a: Del 23 al 25 de octubre de 2026, en el Grand Palais. Los horarios exactos de apertura y las jornadas de preview deben confirmarse en la web oficial de Art Basel.
-  - q: ¿Dónde se ubica exactamente la sede?
-    a: En el Grand Palais, en la Avenue Winston Churchill, distrito 8, entre los Campos Elíseos y el Sena, cerca del Pont Alexandre III.
+  - q: ¿Cuáles eran las fechas de Art Basel Paris 2026?
+    a: Del 23 al 25 de octubre de 2026, en el Grand Palais. Por lo general, los días de preestreno se celebran antes de las jornadas abiertas al público.
+  - q: ¿Dónde se encuentra exactamente la sede?
+    a: En el Grand Palais, en la Avenue Winston Churchill del distrito 8. Queda entre los Campos Elíseos y el Sena, cerca del puente de Alejandro III (Pont Alexandre III).
   - q: ¿Cómo se llega al Grand Palais en transporte público?
-    a: Se puede tomar el metro, líneas 1 o 13, hasta Champs-Élysées–Clemenceau, o el RER C hasta Invalides y cruzar a pie el Pont Alexandre III.
-  - q: ¿Cuánto tiempo conviene reservar para la visita a la feria?
-    a: De dos a tres horas para una visita centrada en lo esencial; coleccionistas e investigadores suelen dedicarle más tiempo a lo largo de varios días.
-  - q: ¿Es mejor visitar la feria en un día abierto al público o en un día de preview?
-    a: Los días de preview suelen ser solo por invitación, mientras que los días abiertos al público admiten a cualquier titular de entrada. Conviene revisar en la web oficial qué categoría corresponde a la entrada adquirida.
+    a: Las líneas 1 y 13 del metro paran en Champs-Élysées–Clemenceau. La línea C del RER para en Invalides, desde donde se llega a pie cruzando el puente de Alejandro III.
+  - q: ¿Cuánto tiempo conviene dedicar a la feria?
+    a: Con dos o tres horas basta para una visita centrada en lo esencial. Los coleccionistas y los investigadores suelen dedicarle más tiempo, repartido en varios días.
+  - q: ¿Convenía más ir un día abierto al público o un día de preestreno?
+    a: Por lo general, al preestreno solo se accede por invitación, mientras que los días abiertos al público están reservados a quienes tienen entrada. La feria ha vendido categorías de entrada distintas para cada tipo de jornada.
 ---
 
-## Qué ofrece la feria y dónde se celebra
+## Qué se presentaba y dónde
 
-Del 23 al 25 de octubre de 2026, el Grand Palais acoge Art Basel Paris. La sede es la restaurada nave decimonónica de hierro y cristal situada en la Avenue Winston Churchill, entre los Campos Elíseos y el Sena.
+Las fechas anunciadas de Art Basel Paris eran del 23 al 25 de octubre de 2026, en el Grand Palais. Este gran pabellón de vidrio y acero del siglo XIX, hoy restaurado, se alza en la Avenue Winston Churchill, entre los Campos Elíseos y el Sena.
 
-Bajo la inmensa nave de hierro y vidrio del Grand Palais, galerías de arte moderno y contemporáneo de todo el mundo presentan pintura, escultura, fotografía e instalaciones. La edición parisina de la feria se ha consolidado como una de las citas principales del calendario artístico internacional, junto con las de Basilea y Miami Beach.
+Bajo la inmensa nave de hierro y vidrio del Grand Palais, galerías de arte moderno y contemporáneo llegadas de todo el mundo exponen pintura, escultura, fotografía e instalaciones. Con los años, la edición parisina se ha consolidado como una de las grandes citas del calendario artístico internacional, junto a las de Basilea y Miami Beach.
 
-Como en ediciones anteriores, las jornadas abiertas al público suelen seguir a los días de preview, reservados solo por invitación. Conviene confirmar en la web oficial, cerca de la fecha de la visita, cómo se reparten exactamente los días de preview y los abiertos al público.
+Según la pauta mantenida en ediciones anteriores, las jornadas abiertas al público solían llegar después de unos días de preestreno reservados a invitados.
 
 ## Cómo llegar y cómo entrar
 
-El Grand Palais se encuentra a poca distancia a pie de la estación Champs-Élysées–Clemenceau, servida por las líneas 1 y 13 de metro. El RER C para en Invalides, a unos diez minutos a pie cruzando el Pont Alexandre III.
+El Grand Palais queda a pocos pasos de la estación Champs-Élysées–Clemenceau, por la que pasan las líneas 1 y 13 del metro. La parada de Invalides, en la línea C del RER, está a unos diez minutos a pie cruzando el puente de Alejandro III (Pont Alexandre III).
 
 - Metro más cercano: Champs-Élysées–Clemenceau (líneas 1 y 13)
-- Parada alternativa: Invalides (RER C; líneas 8 y 13 de metro)
-- Autobús: varias líneas paran en la Avenue Winston Churchill y en Cours la Reine
-- No se recomienda ir en coche: durante los días de feria, las calles del entorno cierran al tráfico para facilitar el paso de peatones
+- Parada alternativa: Invalides (RER C; líneas 8 y 13 del metro)
+- Autobús: varias líneas paran a lo largo de la Avenue Winston Churchill y del Cours la Reine
+- Ir en coche resulta poco práctico, porque durante los días de feria se cierran las calles de alrededor para facilitar el paso de los peatones
 
-En ediciones anteriores, las entradas se han vendido por franja horaria, con categorías distintas para los días de preview y los abiertos al público. Lo mejor es comprarlas directamente en la web oficial de Art Basel Paris, ya que las entradas de reventa no garantizan el acceso.
+En ediciones anteriores, las entradas se vendían por franjas horarias, con categorías distintas para el preestreno y para los días abiertos al público. Las de 2026 se vendieron a través de la web oficial de Art Basel Paris; las de reventa no garantizan el acceso.
 
 ## Cómo organizar la visita
 
-Dos o tres horas bastan para recorrer con atención las galerías principales, aunque coleccionistas e investigadores serios suelen volver varios días. En ediciones anteriores, el Grand Palais también ha ofrecido, junto a los estands de las galerías, un programa público de charlas y proyecciones que vale la pena consultar al llegar.
+Con dos o tres horas basta para recorrer con criterio las galerías principales, aunque los coleccionistas y los investigadores más dedicados suelen volver varios días. En ediciones pasadas, la feria ofreció además, junto a los estands de las galerías, un programa público de charlas y proyecciones.
 
-El guardarropa se encarga de abrigos y bolsos a partir de cierto tamaño; mochilas grandes y maletas con ruedas suelen estar restringidas dentro del recinto. Conviene calzar zapatos cómodos, ya que el suelo de la nave es de piedra y dentro de los estands hay pocas zonas para sentarse.
+El guardarropa suele recoger los abrigos y los bolsos que superan cierto tamaño, y por lo general no se permite entrar en la zona de exposición con mochilas grandes ni maletas con ruedas. Un calzado cómodo marca la diferencia: el suelo de la nave es de piedra y en los propios estands apenas hay dónde sentarse.
 
-Octubre en París suele ser fresco y lluvioso, así que una capa de abrigo para el trayecto desde el metro importa más que la ropa que se lleve dentro del recinto.
+En octubre, París es fresco y a menudo lluvioso. Por eso, una prenda de abrigo para el trayecto desde el metro importa más que la ropa que se lleve dentro.
 
-## Cómo recorrer el Grand Palais sin perder el día
+## Recorrer el Grand Palais sin perder el día
 
-Las galerías se agrupan por sectores, y el plano de la feria (disponible en la entrada y en línea) organiza a los expositores por sector y no por orden alfabético, así que conviene definir las prioridades antes de entrar. Durante los días abiertos al público, las mañanas suelen avanzar más despacio que la última tarde, cuando la afluencia disminuye y los galeristas se muestran más dispuestos a conversar.
+Las galerías se agrupan por secciones. El plano de la feria, disponible a la entrada y en internet, ordena a los expositores por sectores y no por orden alfabético. En los días abiertos al público, por la mañana se suele avanzar más despacio que en la última tarde, cuando hay menos visitantes y los galeristas se muestran más dispuestos a conversar.
 
-- Antes de ir, conviene revisar en la web oficial de Art Basel Paris el plano de planta y la lista de expositores vigentes
-- Es recomendable reservar las entradas con antelación, ya que la feria no garantiza el acceso sin reserva previa
-- Dentro del recinto no hace falta efectivo: las cafeterías y la librería aceptan tarjeta y pago sin contacto
-- Si se desea conversar largo y tendido con algún representante de galería, las horas públicas entre semana son más tranquilas que el día de cierre
+- En una feria de estas dimensiones, el plano y la lista de expositores son la forma más rápida de fijar prioridades
+- Lo habitual son las entradas con franja horaria; la feria no ha garantizado el acceso a quien se presente sin entrada
+- Dentro no hace falta efectivo: en las cafeterías y en la librería se paga con tarjeta o sin contacto
+- Para conversar con calma con los representantes de las galerías, las jornadas públicas entre semana suelen ser más tranquilas que el día de clausura
 
-Antes de cerrar los planes de viaje, conviene confirmar en la web oficial de Art Basel Paris los horarios, las categorías de entrada y cualquier cambio de última hora en la sede.
+Si se tiene claro qué sectores interesan más, una sola tarde basta para ver lo más destacado de la nave.

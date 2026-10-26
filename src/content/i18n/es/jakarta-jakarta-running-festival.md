@@ -1,66 +1,66 @@
 ---
 lang: es
 slug: jakarta-jakarta-running-festival
-srcHash: 'd90fa37f6cc6'
+srcHash: 'c7898c242eda'
 title: 'Jakarta Running Festival: fechas, inscripciones y sede (Yakarta)'
-description: Los días 24 y 25 de octubre de 2026, Yakarta acoge el Jakarta Running Festival, con pruebas de 5K, 10K, media maratón y maratón.
-quickAnswer: Los días 24 y 25 de octubre de 2026, Yakarta acoge el Jakarta Running Festival, con pruebas de 5K, 10K, media maratón y maratón. La maratón se corre el domingo 25 de octubre y su tiempo límite de 5 horas es estricto, ya que el calor y la humedad de la ciudad así lo exigen. Antes de reservar el viaje, conviene comprobar en la web oficial la sede, los horarios de salida y las inscripciones.
+description: El Jakarta Running Festival tenía fechas anunciadas para el 24 y el 25 de octubre de 2026 en Yakarta, con pruebas de 5K, 10K, media maratón y maratón completa.
+quickAnswer: Las fechas anunciadas del Jakarta Running Festival eran el 24 y el 25 de octubre de 2026, en Yakarta, con pruebas de 5K, 10K, media maratón y maratón completa. La maratón estaba programada para el domingo 25 de octubre. Por el calor y la humedad de la ciudad, su tiempo límite era de 5 horas y se aplicaba de forma estricta.
 faq:
-  - q: ¿Cuándo se celebra el Jakarta Running Festival 2026?
-    a: Las fechas anunciadas son el sábado 24 y el domingo 25 de octubre de 2026, y la maratón se disputa el domingo 25. Los horarios exactos deben confirmarse en la web oficial.
-  - q: ¿Qué distancias se pueden correr?
-    a: 'Hay cuatro pruebas: 5K, 10K, media maratón y maratón. La fuente oficial indica qué día se corre cada una.'
-  - q: ¿Cuál es el tiempo límite de la maratón?
-    a: Cinco horas, sin margen. Se ha fijado para proteger a los corredores del calor y la humedad de Yakarta, de modo que, si usted suele terminar cerca de ese tiempo, es preferible que se apunte a la media maratón.
-  - q: ¿Dónde está la sede y cómo se llega?
-    a: La web oficial publica dónde están la salida, la meta y el punto de recogida de dorsales. Para moverse por el centro de Yakarta a primera hora, lo más rápido es la línea Norte–Sur del MRT, que discurre bajo Sudirman–Thamrin, los autobuses de TransJakarta o las aplicaciones Gojek y Grab.
-  - q: ¿Cómo me inscribo?
-    a: La inscripción se hace a través de los canales oficiales del organizador. En la página oficial de inscripción figuran las tarifas vigentes y las plazas que quedan libres.
+  - q: ¿Cuándo era el Jakarta Running Festival 2026?
+    a: Las fechas anunciadas eran el sábado 24 y el domingo 25 de octubre de 2026. La maratón completa correspondía al domingo 25 de octubre.
+  - q: ¿Qué distancias se ofrecían?
+    a: 'Había cuatro: 5K, 10K, media maratón y maratón completa. Era la organización quien decidía en qué día se disputaba cada una de las distancias más cortas.'
+  - q: ¿Cuál era el tiempo límite de la maratón?
+    a: Cinco horas, y la organización lo aplicaba con rigor. Ese límite protegía a los corredores del calor y la humedad de Yakarta. A quienes solían terminar cerca de esa marca les convenía más la media maratón.
+  - q: ¿Dónde estaba la sede y cómo se llegaba?
+    a: La organización fijó los puntos de salida, de llegada y de recogida de dorsales. En el centro de Yakarta, la forma más rápida de desplazarse a primera hora era la línea Norte–Sur del MRT, que discurre bajo el eje Sudirman–Thamrin. También lo eran los autobuses de TransJakarta y las aplicaciones Gojek y Grab.
+  - q: ¿Cómo era la inscripción?
+    a: La inscripción se hacía exclusivamente a través de la organización, en su propia página de registro. Allí figuraban también las tarifas y las plazas disponibles.
 ---
 
-## Dos días y cuatro distancias
+## Dos días, cuatro distancias
 
-En un solo fin de semana, el Jakarta Running Festival reúne cuatro pruebas de distinta distancia. Se celebrará el sábado 24 y el domingo 25 de octubre de 2026. Al tratarse de una de las principales carreras en ruta de Indonesia y organizarse conforme a estándares internacionales, ofrece recorridos medidos y una participación de buen nivel.
+El programa anunciado reunía cuatro distancias en un mismo fin de semana: el sábado 24 y el domingo 25 de octubre de 2026. Se trata de una de las principales carreras en ruta de Indonesia. Su organización sigue estándares internacionales, con recorridos homologados y un pelotón de nivel.
 
-Estas son las distancias:
+Las distancias:
 
 - 5K
 - 10K
 - Media maratón
-- Maratón, el domingo 25 de octubre
+- Maratón completa (domingo 25 de octubre)
 
-El reparto de las pruebas cortas entre ambos días lo establece la fuente oficial. Si piensa organizar el fin de semana en torno a una sola distancia, consúltela antes.
+Era la organización quien decidía qué día se corría cada una de las pruebas más cortas.
 
-## El calor y el límite de 5 horas
+## El límite de 5 horas y el calor
 
-La organización hace cumplir a rajatabla el tiempo límite de cinco horas fijado para la maratón. El motivo es el clima de Yakarta, caluroso y húmedo durante todo el año, y además octubre coincide con el inicio de la estación de lluvias. Más que un objetivo, ese tiempo debe entenderse como un tope infranqueable.
+La maratón tenía un tiempo límite de cinco horas, y la organización advirtió que lo haría cumplir. La razón está en el clima de Yakarta, caluroso y húmedo durante todo el año. Además, octubre marca la transición hacia la estación de lluvias. No se trataba de un objetivo orientativo, sino de un corte estricto.
 
-Si en sus últimas maratones ha superado aproximadamente las cuatro horas y media, es mejor que elija la media. La humedad ralentiza incluso a quienes entrenan en climas cálidos. A los corredores que lleguen en avión desde países más frescos les conviene viajar con varios días de antelación para que el cuerpo se adapte al ritmo de sudoración.
+A quienes han tardado más de unas cuatro horas y media en sus maratones recientes suele convenirles más la media maratón. La humedad añade minutos incluso a quienes entrenan en climas cálidos. Los corredores que llegan de países más frescos suelen necesitar varios días para que el cuerpo se adapte al ritmo de sudoración.
 
-Durante la carrera, beba en todos los avituallamientos, también en los primeros kilómetros. Las pastillas de sal o una bebida isotónica que ya conozca le darán mejor resultado que cualquier novedad que pruebe la misma mañana de la prueba.
+Con un calor así, los corredores experimentados beben en todos los avituallamientos, incluso en los primeros kilómetros. La mañana de la carrera, las pastillas de sal o una bebida isotónica ya conocida funcionan mejor que cualquier producto nuevo.
 
-## Sede, inscripciones y desplazamientos
+## Sede, inscripciones y transporte
 
-En la web oficial se indican la salida, la meta y el punto de recogida de dorsales. Allí deben confirmarse también los horarios y las inscripciones, puesto que en una carrera de estas dimensiones solo es posible inscribirse a través del organizador. Esta página no recoge precios: las tarifas vigentes figuran en la página oficial de inscripción.
+La salida, la meta y el punto de recogida de dorsales los eligió la organización. En una carrera de esta envergadura, la inscripción solo se tramita a través de la organización, y las tarifas figuraban en su página de registro.
 
-Para moverse por el centro de Yakarta:
+Cómo moverse por el centro de Yakarta:
 
 - **MRT Jakarta**: la línea Norte–Sur circula bajo Jalan Sudirman y Jalan Thamrin, el gran eje financiero de la ciudad.
-- **TransJakarta**: sus carriles exclusivos para autobuses llegan a casi toda la ciudad y enlazan con el MRT.
-- **Gojek y Grab**: los mototaxis sortean el tráfico con más rapidez que los coches, algo muy útil antes del amanecer.
+- **TransJakarta**: sus carriles exclusivos de autobús cubren la mayor parte de la ciudad y enlazan con el MRT.
+- **Gojek y Grab**: los mototaxis sortean el tráfico con más rapidez que los coches, una ventaja notable antes del amanecer.
 
-En Yakarta hay mucho tráfico prácticamente a cualquier hora. Planifique la víspera cómo llegar a la salida y, si es posible, alójese cerca de una estación del MRT.
+El tráfico de Yakarta es denso casi a cualquier hora. Desde un hotel cercano a una estación del MRT, el trayecto de madrugada hasta la salida de una carrera resulta mucho más sencillo.
 
-## Costumbres matinales para el día de la carrera
+## Costumbres de la mañana de carrera en Yakarta
 
-En Yakarta se corre al compás del sol. Los vecinos salen a entrenar antes del amanecer, y cada domingo por la mañana el eje Sudirman–Thamrin se convierte en el Día sin Coches (Car Free Day), con la avenida llena de corredores y ciclistas. Como la maratón cae en domingo, cabe esperar ese mismo ambiente madrugador.
+En Yakarta se corre al compás del sol. Los vecinos salen a correr antes del amanecer. Los domingos por la mañana, el eje Sudirman–Thamrin acoge su jornada semanal sin coches (Car Free Day), y la avenida se llena de corredores y ciclistas. La maratón estaba programada en domingo, coincidiendo con esa jornada sin coches.
 
-Algunos consejos prácticos:
+Algunas costumbres locales que facilitan las cosas:
 
-- **Pague sin efectivo.** Los códigos QRIS están por todas partes, y Gojek y Grab admiten el pago desde la aplicación. Lleve, no obstante, algunas rupias en billetes pequeños para los vendedores ambulantes.
-- **Reserve el transporte con antelación.** Cerca de la salida de las grandes carreras se disparan las solicitudes de vehículos con conductor; lo habitual es pedirlo unos minutos antes de lo que uno cree necesario.
-- **Desayune algo conocido.** Al amanecer, los puestos callejeros venden nasi uduk y bubur ayam (gachas de arroz con pollo), pero resultan más adecuados para después de la carrera que como combustible.
-- **Cuidado en los avituallamientos.** Apártese a un lado antes de aflojar el paso y deje los vasos donde los voluntarios los estén recogiendo.
-- **Aprenda dos palabras.** Un «terima kasih» (gracias) se agradece mucho entre los voluntarios, que pasan horas a la intemperie soportando la humedad.
+- **Pago sin efectivo.** Los códigos QRIS están por todas partes, y Gojek y Grab admiten el pago desde la aplicación. Aun así, los billetes pequeños de rupias siguen siendo prácticos con los vendedores ambulantes.
+- **Pedir el vehículo con margen.** Cerca de la salida de las grandes carreras, la demanda de vehículos con conductor se dispara. Lo habitual es solicitarlo unos minutos antes de lo que parecería necesario.
+- **Un desayuno conocido.** Al amanecer, los carritos venden nasi uduk y bubur ayam (gachas de arroz con pollo), aunque sientan mejor como comida de después que como combustible previo.
+- **Modales en los avituallamientos.** Los corredores se apartan a un lado antes de frenar y dejan los vasos allí donde los recogen los voluntarios.
+- **Dos palabras útiles.** Un «terima kasih» (gracias) se agradece mucho entre los voluntarios que pasan horas a pie firme bajo la humedad.
 
-Al cruzar la meta, busque un lugar con aire acondicionado y beba antes de salir a celebrarlo con una buena comida.
+Tras una carrera con este calor, el aire acondicionado y la hidratación van antes que cualquier comida de celebración.
