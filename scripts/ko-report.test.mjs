@@ -59,3 +59,26 @@ test('a slug alone does not count as English', () => {
   const line = '• taipei-itzy-tunnel-vision-world-tour-taipei.md — 끝난 행사인데 본문이 아직 예정처럼 쓰여 있어요';
   assert.equal(guard(line), line);
 });
+
+// 2026-10-26: audit-event-hero-identity crashed on a URIError and its stack
+// trace reached the owner as eleven "점검 항목 — 대상 미상". Run the real
+// reporter over a checker that crashes the same way, and over one that is fine.
+test('a crashed checker is reported once as a crash, not as a list of findings', async () => {
+  const { spawnSync } = await import('node:child_process');
+  const { writeFileSync, mkdtempSync } = await import('node:fs');
+  const { join } = await import('node:path');
+  const { tmpdir } = await import('node:os');
+  const dir = mkdtempSync(join(tmpdir(), 'ko-report-'));
+  const crash = join(dir, 'crash.mjs');
+  writeFileSync(crash, "const toks = (s) => decodeURIComponent(s);\ntoks('TripleS_@%_in_Vancouver');\n");
+  const fine = join(dir, 'fine.mjs');
+  writeFileSync(fine, "console.log('✓ nothing to report');\n");
+  const report = (f) => spawnSync(process.execPath, ['scripts/ko-report.mjs', f], { encoding: 'utf8' });
+  const r = report(crash);
+  assert.equal(r.status, 0, 'the notifier never fails the job');
+  const lines = r.stdout.trim().split('\n');
+  assert.equal(lines.length, 1, `one line, got:\n${r.stdout}`);
+  assert.match(lines[0], /URIError로 멈췄어요/);
+  assert.doesNotMatch(r.stdout, /대상 미상/);
+  assert.match(report(fine).stdout, /이상 없음/);
+});

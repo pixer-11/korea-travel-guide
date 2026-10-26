@@ -43,6 +43,17 @@ if (!out) {
   process.exit(0);
 }
 
+// A checker that CRASHED is one fact, not a list of findings. On 2026-10-26
+// audit-event-hero-identity died on a URIError and its stack trace — "at
+// decodeURIComponent", "at toks (…:59:21)" — went through koDigest line by
+// line and reached the owner as eleven "점검 항목 — 대상 미상". Say it once.
+const crashed = /^\s+at .+[:(].*\d+:\d+\)?\s*$/m.test(out) && /^\s*(\w*Error|Uncaught \w+)[:\s]/m.test(out);
+if (crashed && run.status !== 0) {
+  const kind = (out.match(/^\s*(\w*Error)\b/m) || [])[1] || '오류';
+  console.log(`⚠️ 점검 도구가 ${kind}로 멈췄어요 (${target}) — 검사 자체가 끝나지 않았으니 실행 로그를 확인해 주세요.`);
+  process.exit(0);
+}
+
 let digest = koDigest(out);
 if (!digest) {
   // "Nothing to summarise" and "the check died" look identical from here, and
