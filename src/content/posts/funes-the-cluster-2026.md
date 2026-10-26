@@ -9,14 +9,6 @@ eventStartDate: '2026-11-19'
 eventEndDate: '2026-11-22'
 eventRecurring: true
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/3/34/Beehive_Cluster_October_17_2026.jpg
-  credit: 'Photo: Minnastronomer / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Beehive_Cluster_October_17_2026.jpg
-  focus:
-    x: 50
-    'y': 50
 gallery: []
 tags:
   - funes

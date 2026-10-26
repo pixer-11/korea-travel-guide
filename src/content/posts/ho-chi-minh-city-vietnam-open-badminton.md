@@ -13,14 +13,6 @@ eventOrganizer:
   name: Badminton World Federation
   url: https://bwfbadminton.com
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/9/90/Badminton_racket.jpg
-  credit: 'Photo: DEEPAN RAJA .M / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Badminton_racket.jpg
-  focus:
-    x: 62
-    'y': 65
 gallery: []
 tags:
   - ho chi minh city

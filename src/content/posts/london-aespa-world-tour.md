@@ -13,16 +13,6 @@ eventPerformer:
   name: aespa
   kind: group
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/20250306_Aespa_Amsterdam_concert_02.jpg/1920px-20250306_Aespa_Amsterdam_concert_02.jpg
-  credit: 'Photo: Robbie Klinkenberg / Wikimedia Commons (CC BY 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:20250306_Aespa_Amsterdam_concert_02.jpg
-  focus:
-    x: 50
-    'y': 23
-    top: 15
-    bottom: 30
 gallery: []
 tags:
   - london

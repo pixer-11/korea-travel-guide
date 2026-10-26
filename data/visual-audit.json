@@ -4880,9 +4880,9 @@
  },
  "buenos-aires-semana-del-patrimonio-de-buenos-aires-heritage-week\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Ceremonia_inaugural_de_la_semana_Criolla_2024_23.jpg/3840px-Ceremonia_inaugural_de_la_semana_Criolla_2024_23.jpg": {
   "slug": "buenos-aires-semana-del-patrimonio-de-buenos-aires-heritage-week",
-  "verdict": "WEAK",
-  "reason": "patrol replace: Buenos Aires aerial, but generic venue—no heritage building ",
-  "at": "2026-10-25T23:22:04.353Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"semana\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-26T19:00:10.431Z"
  },
  "buenos-aires-teatro-colon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Fachada_del_Teatro_Col%C3%B3n_en_Buenos_Aires%2C_Argentina.jpg/1920px-Fachada_del_Teatro_Col%C3%B3n_en_Buenos_Aires%2C_Argentina.jpg": {
   "slug": "buenos-aires-teatro-colon",
@@ -8689,9 +8689,9 @@
  },
  "funes-the-cluster-2026\u0001https://upload.wikimedia.org/wikipedia/commons/3/34/Beehive_Cluster_October_17_2026.jpg": {
   "slug": "funes-the-cluster-2026",
-  "verdict": "MATCH",
-  "reason": "event publish gate: Star cluster image matches astronomical event type",
-  "at": "2026-10-25T23:07:06.182Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"cluster\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-26T19:00:10.619Z"
  },
  "fussen-benediktinerkloster-st-mang\u0001https://upload.wikimedia.org/wikipedia/commons/3/3e/Benediktinerkloster_St._Mang_-_panoramio_%281%29.jpg": {
   "slug": "fussen-benediktinerkloster-st-mang",
@@ -10036,9 +10036,9 @@
  },
  "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TOTAL_BWF_World_Champs_2015_Day_2_Carla_Nelte.jpg/3840px-TOTAL_BWF_World_Champs_2015_Day_2_Carla_Nelte.jpg": {
   "slug": "hangzhou-bwf-world-tour-finals",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Badminton player at professional tournament venue",
-  "at": "2026-10-25T21:59:40.895Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares no word with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-26T19:00:10.809Z"
  },
  "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TOTAL_BWF_World_Champs_2015_Day_2_Marc_Zwiebler.jpg/3840px-TOTAL_BWF_World_Champs_2015_Day_2_Marc_Zwiebler.jpg": {
   "slug": "hangzhou-bwf-world-tour-finals",
@@ -10636,9 +10636,9 @@
  },
  "ho-chi-minh-city-vietnam-open-badminton\u0001https://upload.wikimedia.org/wikipedia/commons/9/90/Badminton_racket.jpg": {
   "slug": "ho-chi-minh-city-vietnam-open-badminton",
-  "verdict": "MATCH",
-  "reason": "event publish gate: Badminton racket and shuttlecock represent the event type",
-  "at": "2026-10-25T22:56:36.308Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"badminton\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-26T19:00:11.002Z"
  },
  "ho-chi-minh-city-war-remnants-museum\u0001https://fastly.4sqi.net/img/general/original/40427565_DRRKdHilxlcOXTRllvvz568cKZSlxYRnh7JSSDHGlUY.jpg": {
   "slug": "ho-chi-minh-city-war-remnants-museum",
@@ -16602,15 +16602,15 @@
  },
  "london-aespa-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/20250306_Aespa_Amsterdam_concert_02.jpg/1920px-20250306_Aespa_Amsterdam_concert_02.jpg": {
   "slug": "london-aespa-world-tour",
-  "verdict": "MATCH",
-  "reason": "event publish gate: Performers on concert stage, valid tour photo",
-  "at": "2026-10-25T23:00:50.766Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"aespa\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-26T19:00:11.193Z"
  },
  "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/2/23/ATP_World_Tour_Final_Tennis_at_The_02_Arena_London.jpg": {
   "slug": "london-atp-finals",
-  "verdict": "MATCH",
-  "reason": "patrol replace: ATP Finals tennis court, indoor arena, crowded venue",
-  "at": "2026-10-25T21:59:57.449Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"london\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-26T19:00:11.385Z"
  },
  "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/3/31/Who_knew_John_Peers_had_this_much_hair%3F%21_-_23260071985.jpg": {
   "slug": "london-atp-finals",
@@ -21067,9 +21067,9 @@
  },
  "new-york-nba-christmas-day-games\u0001https://upload.wikimedia.org/wikipedia/commons/d/dc/Clippers_%40_Nuggets%2C_2025_NBA_playoffs%2C_Game_1%2C_Ball_Arena.jpg": {
   "slug": "new-york-nba-christmas-day-games",
-  "verdict": "MATCH",
-  "reason": "patrol replace: NBA game at Madison Square Garden, New York",
-  "at": "2026-10-25T23:25:35.298Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares no word with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-26T19:00:11.568Z"
  },
  "new-york-ocean-prime\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Ocean_Prime_Phoenix_%2833119074285%29.jpg/1920px-Ocean_Prime_Phoenix_%2833119074285%29.jpg": {
   "slug": "new-york-ocean-prime",
@@ -22071,9 +22071,9 @@
  },
  "ottawa-k-pop-infinity-tour-ontario\u0001https://upload.wikimedia.org/wikipedia/commons/1/1b/Taemin_at_K-POP_Concert_in_October_2015_02.jpg": {
   "slug": "ottawa-k-pop-infinity-tour-ontario",
-  "verdict": "MATCH",
-  "reason": "event publish gate: Performer photo, valid for K-pop concert tour event",
-  "at": "2026-10-25T23:04:40.046Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares no word with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-26T19:00:11.760Z"
  },
  "ottawa-national-gallery-of-canada\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Ottawa_-_ON_-_National_Gallery_of_Canada.jpg/1920px-Ottawa_-_ON_-_National_Gallery_of_Canada.jpg": {
   "slug": "ottawa-national-gallery-of-canada",
@@ -24214,9 +24214,9 @@
  },
  "puerto-princesa-ironman-70-3-puerto-princesa\u0001https://upload.wikimedia.org/wikipedia/commons/9/97/Ironman_70.3_World_Championships_%289700067665%29.jpg": {
   "slug": "puerto-princesa-ironman-70-3-puerto-princesa",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Ironman triathlon cycling event, mountainous venue",
-  "at": "2026-10-25T23:26:48.593Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"ironman\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-26T19:00:11.950Z"
  },
  "puerto-princesa-ironman-70-3-puerto-princesa\u0001https://upload.wikimedia.org/wikipedia/commons/a/a1/Ironman_70.3_World_Championships_%289703304740%29.jpg": {
   "slug": "puerto-princesa-ironman-70-3-puerto-princesa",
@@ -24873,9 +24873,9 @@
  },
  "saarbrucken-bwf-hylo-open\u0001https://upload.wikimedia.org/wikipedia/commons/2/2d/BWF_Badminton_World_Tour.jpg": {
   "slug": "saarbrucken-bwf-hylo-open",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Badminton match at professional tournament venue",
-  "at": "2026-10-25T23:27:09.027Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares no word with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-26T19:00:12.141Z"
  },
  "saarbrucken-bwf-hylo-open\u0001https://upload.wikimedia.org/wikipedia/commons/f/f8/HSBC_BWF_Badminton_World_Tour.jpg": {
   "slug": "saarbrucken-bwf-hylo-open",
