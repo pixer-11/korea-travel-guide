@@ -1,5 +1,11 @@
 {
-  "validate-content": {},
+  "validate-content": {
+    "IMAGE london-can-t-be-blue-european-tour.md": {
+      "since": "2026-10-26",
+      "last": "2026-10-26",
+      "seen": 1
+    }
+  },
   "audit-translations": {},
   "audit-hours-claims": {}
 }
