@@ -339,6 +339,22 @@ cases.push(['MATCH 판정이 있으면 조용하다', () => {
   const out = run(OFFTOPIC, { verdicts: { [key]: { verdict: 'MATCH', reason: 'natural history museum interior' } } });
   return has(out, 'IMAGE MISMATCH') ? `오탐: ${out.join(' | ')}` : null;
 }]);
+// 2026-10-26: 런던 공연 글에 도시 사진 단계(9-11 픽서님 규칙)가 대영박물관
+// 중정 사진을 넣었고, 금지어 "British Museum" 이 그것을 무관 사진으로 경고했다.
+const CITY_HERO = {
+  f: 'london-can-t-be-blue-european-tour.md', category: 'event',
+  title: "can't be blue European Tour: Dates, Tickets & Venue (London)", placeName: "can't be blue", region: 'London',
+  license: 'wikimedia', url: 'https://upload.wikimedia.org/wikipedia/commons/5/5a/British_Museum_Great_Court%2C_London%2C_UK_-_Diliff.jpg',
+  credit: 'Photo: Diliff / Wikimedia Commons (CC BY-SA 3.0)',
+};
+cases.push(['행사 글의 도시 사진(파일명에 그 도시)은 무관 사진이 아니다', () => {
+  const out = run(CITY_HERO, { verdicts: {} });
+  return has(out, 'IMAGE MISMATCH') ? `오탐: ${out.join(' | ')}` : null;
+}]);
+cases.push(['장소 글이면 같은 사진이어도 여전히 경고한다', () => {
+  const out = run({ ...CITY_HERO, f: 'london-some-cafe.md', category: 'restaurant', title: 'Some Cafe: London Travel Guide', placeName: 'Some Cafe' }, { verdicts: {} });
+  return has(out, 'IMAGE MISMATCH') ? null : `놓침: ${out.join(' | ') || '(clean)'}`;
+}]);
 cases.push(['MISMATCH 판정은 침묵시키지 않는다', () => {
   const key = `toulouse-museum-de-toulouse${SEP}${OFFTOPIC.url}`;
   const out = run(OFFTOPIC, { verdicts: { [key]: { verdict: 'MISMATCH', reason: 'wrong building' } } });

@@ -328,7 +328,14 @@ export function postProblems(p, { today = new Date().toISOString().slice(0, 10),
     // Only a MATCH silences this; an unjudged photo still gets flagged.
     const seen = verdicts[`${p.f.replace(/\.md$/, '')}${String.fromCharCode(1)}${p.url}`];
     const cleared = seen && String(seen.verdict).toUpperCase() === 'MATCH';
-    if (!cleared && offTopicToken(hay, subject)) {
+    // An event guide with no photo of its own shows its CITY — the owner's
+    // third tier (2026-09-11, fill-event-city-heroes.mjs), picked only when the
+    // filename names the region. "British_Museum_Great_Court,_London" on a
+    // London concert is that rule working, not a keyword collision (10-26).
+    const fileOnly = decodeURIComponent(p.url).split('/').pop() || '';
+    const cityTier = p.category === 'event' && p.region
+      && new RegExp(`(^|[^a-z])${p.region.toLowerCase().replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/\s+/g, '[ _-]')}([^a-z]|$)`).test(fileOnly.toLowerCase());
+    if (!cleared && !cityTier && offTopicToken(hay, subject)) {
       const fileName = (decodeURIComponent(p.url).split('/').pop() || '').replace(/\.(jpg|jpeg|png|svg).*$/i, '').slice(0, 48);
       issues.push(`IMAGE MISMATCH suspect [${p.category}] "${p.region}" — off-topic hero (${fileName}): ${p.f}`);
     }
