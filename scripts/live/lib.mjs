@@ -37,8 +37,14 @@ function retrySlowGoto(page) {
     try {
       return await goto(url, opts);
     } catch (e) {
-      if (e?.name !== 'TimeoutError') throw e;
-      console.log(`  (slow load, trying once more: ${url})`);
+      // An error status with no page is the other one-off: /ja/essentials/
+      // answered one at 03:58 KST on 10-28 and 200 every time after, while the
+      // other pages of the same run passed. Tried once more; a page that is
+      // really missing answers the same twice and still fails.
+      const blip = /ERR_HTTP_RESPONSE_CODE_FAILURE|ERR_CONNECTION_RESET|ERR_EMPTY_RESPONSE/.test(e?.message || '');
+      if (e?.name !== 'TimeoutError' && !blip) throw e;
+      console.log(`  (${blip ? 'error response' : 'slow load'}, trying once more: ${url})`);
+      if (blip) await new Promise((r) => setTimeout(r, 5_000));
       // The timed-out load is still in flight; going to the same URL over it
       // is answered net::ERR_ABORTED. Clear it first.
       await goto('about:blank').catch(() => {});

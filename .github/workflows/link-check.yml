@@ -22,6 +22,8 @@ jobs:
       - run: npm ci
 
       - name: Build site
+        env:
+          NODE_OPTIONS: --max-old-space-size=8192   # default ~4 GB OOMs (10-27)
         run: npm run build
 
       - name: Crawl internal links

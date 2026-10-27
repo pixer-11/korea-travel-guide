@@ -1084,6 +1084,8 @@ jobs:
       - name: Build site for output audits
         id: distbuild
         continue-on-error: true
+        env:
+          NODE_OPTIONS: --max-old-space-size=8192   # default ~4 GB OOMs (10-27)
         run: npm run build
 
       - name: Audit localized pages for English leaks
