@@ -38260,5 +38260,82 @@
   "registerBreak": false,
   "worst": "沿街那些世纪之交的建筑立面和阳台，都是仿照马德里的林荫大道修建的。",
   "at": "2026-10-27T08:00:18.180Z"
+ },
+ "es/seoul-benson-boone-wanted-man-tour": {
+  "hash": "089082b470ed",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "En los pabellones de Kintex se revisan los bolsos de forma rutinaria, y en la puerta no suel",
+  "at": "2026-10-27T17:29:07.079Z"
+ },
+ "ja/seoul-benson-boone-wanted-man-tour": {
+  "hash": "6ecf9608cb66",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "モバイルチケットを発行するサイトも多くあります。これほど広い会場では…",
+  "at": "2026-10-27T17:29:13.767Z"
+ },
+ "es/arequipa-mirador-de-sachaca": {
+  "hash": "80d34604af17",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Por ahora, la torre abre todos los días de 10am–5pm.",
+  "at": "2026-10-27T17:29:18.525Z"
+ },
+ "es/cafayate-bodega-vasija-secreta": {
+  "hash": "1b09d6cf034e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Gracias al clima seco y soleado de Cafayate, el valle merece la visita en cualquier época del año.",
+  "at": "2026-10-27T17:29:24.549Z"
+ },
+ "ja/arequipa-mirador-de-sachaca": {
+  "hash": "cc5ef45babfb",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "段差はやや急で、ところどころ幅も狭いため、手すりにつかまりながら、下りてくる人がいれば道を譲るつもりで上りましょう。",
+  "at": "2026-10-27T17:29:25.810Z"
+ },
+ "ja/cafayate-bodega-vasija-secreta": {
+  "hash": "bc53c7934244",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "訪れる人は多いと思っておきましょう。",
+  "at": "2026-10-27T17:29:26.929Z"
+ },
+ "ko/arequipa-mirador-de-sachaca": {
+  "hash": "22ec318e0ce1",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "층계참에서도 경치가 어느 정도 보이니 쉬는 시간이 아깝지 않습니다.",
+  "at": "2026-10-27T17:29:31.118Z"
+ },
+ "ko/cafayate-bodega-vasija-secreta": {
+  "hash": "7725179373b7",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "늘 방문객으로 붐빈다고 생각하시는 편이 좋습니다.",
+  "at": "2026-10-27T17:29:35.121Z"
+ },
+ "zh/arequipa-mirador-de-sachaca": {
+  "hash": "496e5a584b7e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "塔楼本身结构简单，魅力也正在于此。",
+  "at": "2026-10-27T17:29:36.072Z"
+ },
+ "zh/cafayate-bodega-vasija-secreta": {
+  "hash": "a419038165bc",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "在卡尔查基谷地（Valles Calchaquíes），这里是评价数量最多的酒庄之一，也是镇上历史最悠久的酒庄之一",
+  "at": "2026-10-27T17:29:37.350Z"
+ },
+ "zh/cusco-mirador-de-san-cristobal": {
+  "hash": "2efda0f235a5",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "回头沿山坡往上看，能找到那尊白色的白色基督像（Cristo Blanco）",
+  "at": "2026-10-27T17:29:41.445Z"
  }
 }

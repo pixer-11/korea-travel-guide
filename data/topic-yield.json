@@ -2,7 +2,7 @@
  "_note": "Per-topic search→post yield, written by scripts/generate.mjs (scripts/lib/topic-yield.mjs). Seeded 2026-08-23 from the 08-17..23 publish/bulk logs; counts halve past 200 so recent runs weigh more.",
  "topics": {
   "local restaurant": {
-   "attempts": 166,
+   "attempts": 172,
    "hits": 18
   },
   "historic site": {
@@ -10,12 +10,12 @@
    "hits": 105
   },
   "park": {
-   "attempts": 197,
-   "hits": 116
+   "attempts": 102,
+   "hits": 60
   },
   "viewpoint": {
-   "attempts": 98,
-   "hits": 11
+   "attempts": 107,
+   "hits": 14
   },
   "art gallery": {
    "attempts": 78,
@@ -42,7 +42,7 @@
    "hits": 79
   },
   "local market": {
-   "attempts": 162,
+   "attempts": 167,
    "hits": 61
   },
   "bookshop": {
@@ -54,8 +54,8 @@
    "hits": 4
   },
   "hidden gem": {
-   "attempts": 184,
-   "hits": 100
+   "attempts": 190,
+   "hits": 103
   },
   "breakfast": {
    "attempts": 69,
@@ -1210,5 +1210,5 @@
    "hits": 1
   }
  },
- "updated": "2026-10-27T08:29:58.983Z"
+ "updated": "2026-10-27T15:25:08.054Z"
 }

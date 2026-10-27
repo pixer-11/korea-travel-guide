@@ -1240,6 +1240,12 @@
   "reason": "publish gate: Exterior view of Arequipa Cathedral, representative hero shot",
   "at": "2026-10-22T14:52:35.382Z"
  },
+ "arequipa-mirador-de-sachaca\u0001https://upload.wikimedia.org/wikipedia/commons/8/8a/Mirador_de_Sachaca.jpg": {
+  "slug": "arequipa-mirador-de-sachaca",
+  "verdict": "MATCH",
+  "reason": "publish gate: Panoramic city/volcano view matches viewpoint attraction in Arequipa",
+  "at": "2026-10-27T15:25:07.911Z"
+ },
  "arequipa-plaza-de-armas-arequipa\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Arequipa_-_Plaza_de_Armas_-_panoramio_%281%29.jpg/3840px-Arequipa_-_Plaza_de_Armas_-_panoramio_%281%29.jpg": {
   "slug": "arequipa-plaza-de-armas-arequipa",
   "verdict": "MATCH",
@@ -5382,6 +5388,12 @@
   "reason": "publish gate: Shows Cape Byron Lighthouse atop headland, representative view",
   "at": "2026-09-28T17:07:40.866Z"
  },
+ "cafayate-bodega-vasija-secreta\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bodega_Vasija_Secreta%2C_Cafayate_2021.jpg/3840px-Bodega_Vasija_Secreta%2C_Cafayate_2021.jpg": {
+  "slug": "cafayate-bodega-vasija-secreta",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior with venue sign, representative hero of bodega",
+  "at": "2026-10-27T15:22:48.209Z"
+ },
  "cairns-cairns-aquarium\u0001https://upload.wikimedia.org/wikipedia/commons/6/69/Entrance_to_the_Cairns_Aquarium%2C_Florence_Street%2C_Cairns_CBD%2C_2018.jpg": {
   "slug": "cairns-cairns-aquarium",
   "verdict": "MATCH",
@@ -7188,6 +7200,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Market interior with fruit stalls, seating, authentic atmosphere",
   "at": "2026-10-23T13:19:36.128Z"
+ },
+ "cusco-mirador-de-san-cristobal\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Vista_del_Mirador_de_San_Crist%C3%B3bal.jpg/3840px-Vista_del_Mirador_de_San_Crist%C3%B3bal.jpg": {
+  "slug": "cusco-mirador-de-san-cristobal",
+  "verdict": "MATCH",
+  "reason": "publish gate: Cityscape view of Cusco from the viewpoint, as expected",
+  "at": "2026-10-27T15:24:23.828Z"
  },
  "cusco-orellana-pumaqchupan-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Parque_Orellana_Pumaqchupan_-_Cusco_-_Peru_-_street_bench.jpg/3840px-Parque_Orellana_Pumaqchupan_-_Cusco_-_Peru_-_street_bench.jpg": {
   "slug": "cusco-orellana-pumaqchupan-park",
@@ -20646,6 +20664,12 @@
   "reason": "publish gate: Aerial view of Nazca spider geoglyph, representative hero shot",
   "at": "2026-10-24T14:05:43.642Z"
  },
+ "nazca-plaza-de-armas-de-nasca\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Plaza_de_Armas_de_Nasca.jpg/3840px-Plaza_de_Armas_de_Nasca.jpg": {
+  "slug": "nazca-plaza-de-armas-de-nasca",
+  "verdict": "MATCH",
+  "reason": "publish gate: Night view of plaza with fountains, benches, trees",
+  "at": "2026-10-27T15:23:57.847Z"
+ },
  "new-delhi-bwf-world-championships-2026\u0001https://upload.wikimedia.org/wikipedia/commons/0/08/Alistair_Casey_-_2007_BWF_World_Championships.jpg": {
   "slug": "new-delhi-bwf-world-championships-2026",
   "verdict": "MISMATCH",
@@ -22503,6 +22527,12 @@
   "reason": "publish gate: Rocky island with birds and sea lions, matches Islas Ballestas",
   "at": "2026-10-26T15:34:23.175Z"
  },
+ "paracas-reserva-nacional-de-paracas\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Paracas_National_Reserve._Ica%2C_Peru.jpg/1920px-Paracas_National_Reserve._Ica%2C_Peru.jpg": {
+  "slug": "paracas-reserva-nacional-de-paracas",
+  "verdict": "MATCH",
+  "reason": "publish gate: Coastal desert cliffs match Paracas reserve landscape",
+  "at": "2026-10-27T15:22:19.389Z"
+ },
  "paris-2026-tour-de-france-final-stages-paris-finish\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Tour_de_France%2C_2014_02.jpg/3840px-Tour_de_France%2C_2014_02.jpg": {
   "slug": "paris-2026-tour-de-france-final-stages-paris-finish",
   "verdict": "MATCH",
@@ -24115,6 +24145,12 @@
   "reason": "publish gate: Shows Pisac's iconic agricultural terraces in Andean mountains",
   "at": "2026-10-22T14:52:35.271Z"
  },
+ "pisac-pisac\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Pisac_-_panoramio_%282%29.jpg/1920px-Pisac_-_panoramio_%282%29.jpg": {
+  "slug": "pisac-pisac",
+  "verdict": "MATCH",
+  "reason": "publish gate: Aerial view of Pisac town, valley, mountains - representative",
+  "at": "2026-10-27T15:25:07.955Z"
+ },
  "playa-del-carmen-el-castillo\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/El_Castillo_%2816682767642%29.jpg/3840px-El_Castillo_%2816682767642%29.jpg": {
   "slug": "playa-del-carmen-el-castillo",
   "verdict": "MATCH",
@@ -24337,6 +24373,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Representative view of Devil's Throat waterfall basin",
   "at": "2026-10-25T13:00:55.932Z"
+ },
+ "puerto-iguazu-guira-oga\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/G%C3%BCira_Oga_o_paisaje_protegido_Andr%C3%A9s_Giai_es_un_centro_de_rescate%2C_rehabilitaci%C3%B3n_y_recr%C3%ADa_de_fauna_silvestre%2C_que_se_encuentra_a_5_km_de_Puerto_Iguaz%C3%BA%2C_Misiones%2C_Argentina.jpg/3840px-thumbnail.jpg": {
+  "slug": "puerto-iguazu-guira-oga",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows entrance sign and parking of Güirá Oga venue",
+  "at": "2026-10-27T15:23:20.122Z"
  },
  "puerto-iguazu-hito-tres-fronteras-argentina\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Hito_de_las_Tres_Fronteras._Puesta_de_Sol.jpg/3840px-Hito_de_las_Tres_Fronteras._Puesta_de_Sol.jpg": {
   "slug": "puerto-iguazu-hito-tres-fronteras-argentina",
@@ -32628,6 +32670,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows lagoon with mountains, matches Laguna Esmeralda",
   "at": "2026-10-26T07:42:57.370Z"
+ },
+ "ushuaia-martial-glacier\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Martial_Glacier_ski_slope.JPG/3840px-Martial_Glacier_ski_slope.JPG": {
+  "slug": "ushuaia-martial-glacier",
+  "verdict": "MATCH",
+  "reason": "publish gate: Trail view toward Beagle Channel, consistent with Ushuaia hike",
+  "at": "2026-10-27T15:24:23.785Z"
  },
  "ushuaia-museo-del-fin-del-mundo\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Museo_del_Fin_del_Mundo_%285540794550%29.jpg/3840px-Museo_del_Fin_del_Mundo_%285540794550%29.jpg": {
   "slug": "ushuaia-museo-del-fin-del-mundo",
