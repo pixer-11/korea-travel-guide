@@ -32388,13 +32388,6 @@
   "worst": "가장 가까이 데려다주는 교통수단은 지하철(U반)입니다.",
   "at": "2026-10-12T00:20:46.120Z"
  },
- "ko/berlin-le-sserafim-pureflow-world-tour": {
-  "hash": "51efd9221448",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "콘서트를 열 때는 약 17,000명을 수용합니다.",
-  "at": "2026-10-12T00:20:47.480Z"
- },
  "ko/berlin-markthalle-neun": {
   "hash": "13e6141af7f0",
   "score": 1,
@@ -38183,5 +38176,89 @@
   "registerBreak": false,
   "worst": "그래서 거리보다 높은 곳에 녹색 공간을 두는 것이 현실적으로도 합리적인 선택이었습니다.",
   "at": "2026-10-26T17:55:58.043Z"
+ },
+ "es/bariloche-parque-nacional-nahuel-huapi": {
+  "hash": "e53de2ed6a82",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Puede hacerse en coche o en bicicleta, que se alquila en la zona de los kilómetros",
+  "at": "2026-10-27T07:59:34.390Z"
+ },
+ "es/buenos-aires-jardin-botanico-carlos-thays": {
+  "hash": "b143a6b0bff3",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "El jardín encaja muy bien dentro de un paseo más largo por Palermo",
+  "at": "2026-10-27T08:00:51.613Z"
+ },
+ "es/buenos-aires-plaza-de-mayo": {
+  "hash": "33eadc81e312",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Colóquese junto a la Pirámide de Mayo, que se alza en el centro a modo de obelisco, y gire",
+  "at": "2026-10-27T07:59:43.689Z"
+ },
+ "ja/bariloche-parque-nacional-nahuel-huapi": {
+  "hash": "5beb1808031a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "標高は3,400メートルをゆうに超えます。",
+  "at": "2026-10-27T07:59:44.822Z"
+ },
+ "ja/buenos-aires-jardin-botanico-carlos-thays": {
+  "hash": "d3163699d5f0",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "広さは7ヘクタールなので、午前中があればのんびり見て回れます。",
+  "at": "2026-10-27T07:59:48.827Z"
+ },
+ "ja/buenos-aires-plaza-de-mayo": {
+  "hash": "11e7e9f34d1b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "取り囲む建物のひとつひとつが、この歴史に関わってきました。",
+  "at": "2026-10-27T07:59:50.086Z"
+ },
+ "ko/bariloche-parque-nacional-nahuel-huapi": {
+  "hash": "7cf10360b222",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "그 사이를 지나 비탈길을 내려가면 거리 끝이 나우엘우아피 호수로 가득 찹니다.",
+  "at": "2026-10-27T08:00:00.577Z"
+ },
+ "ko/buenos-aires-jardin-botanico-carlos-thays": {
+  "hash": "15376c6c4c48",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "구역마다 발밑에서 느껴지는 분위기도 다릅니다.",
+  "at": "2026-10-27T08:00:08.011Z"
+ },
+ "ko/buenos-aires-plaza-de-mayo": {
+  "hash": "a462cd588016",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-27T08:00:09.161Z"
+ },
+ "zh/bariloche-parque-nacional-nahuel-huapi": {
+  "hash": "050381cd6b02",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "巴里洛切并不在这座公园旁边，而是就在公园里头。",
+  "at": "2026-10-27T08:00:10.440Z"
+ },
+ "zh/buenos-aires-jardin-botanico-carlos-thays": {
+  "hash": "fca1d1810f8c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "这里也是全城评价数量最多的绿地之一，所以别指望能独享清净。",
+  "at": "2026-10-27T08:00:16.663Z"
+ },
+ "zh/buenos-aires-plaza-de-mayo": {
+  "hash": "cce1807425a1",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "沿街那些世纪之交的建筑立面和阳台，都是仿照马德里的林荫大道修建的。",
+  "at": "2026-10-27T08:00:18.180Z"
  }
 }

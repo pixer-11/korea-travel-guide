@@ -3521,6 +3521,12 @@
   "reason": "publish gate: Ski lift building with snow guns at Cerro Catedral",
   "at": "2026-10-26T15:38:41.756Z"
  },
+ "bariloche-parque-nacional-nahuel-huapi\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Llao_Llao_Peninsula.jpg/1920px-Llao_Llao_Peninsula.jpg": {
+  "slug": "bariloche-parque-nacional-nahuel-huapi",
+  "verdict": "MATCH",
+  "reason": "publish gate: Aerial view of Nahuel Huapi lake, forest, and mountains",
+  "at": "2026-10-27T07:54:40.622Z"
+ },
  "barra-chapel-of-our-lady-of-penha\u0001https://upload.wikimedia.org/wikipedia/commons/6/6f/Chapel_of_Our_Lady_of_Penha%2C_Macau_-_panoramio.jpg": {
   "slug": "barra-chapel-of-our-lady-of-penha",
   "verdict": "MATCH",
@@ -4848,6 +4854,12 @@
   "reason": "publish gate: Exterior facade of El Ateneo Grand Splendid, representative",
   "at": "2026-10-26T15:36:09.018Z"
  },
+ "buenos-aires-jardin-botanico-carlos-thays\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Jard%C3%ADn_Bot%C3%A1nico_Carlos_Thays_Buenos_Aires.jpg/3840px-Jard%C3%ADn_Bot%C3%A1nico_Carlos_Thays_Buenos_Aires.jpg": {
+  "slug": "buenos-aires-jardin-botanico-carlos-thays",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows exterior building of the botanical garden venue",
+  "at": "2026-10-27T07:54:40.451Z"
+ },
  "buenos-aires-mercado-san-telmo\u0001https://upload.wikimedia.org/wikipedia/commons/3/3a/Mercado_San_Telmo.JPG": {
   "slug": "buenos-aires-mercado-san-telmo",
   "verdict": "MATCH",
@@ -4871,6 +4883,18 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows Palacio Barolo's distinctive tower and facade",
   "at": "2026-10-26T07:42:57.425Z"
+ },
+ "buenos-aires-plaza-de-mayo\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vista_a%C3%A9rea_de_Plaza_de_Mayo_03.jpg/1920px-Vista_a%C3%A9rea_de_Plaza_de_Mayo_03.jpg": {
+  "slug": "buenos-aires-plaza-de-mayo",
+  "verdict": "MATCH",
+  "reason": "publish gate: Aerial view of Plaza de Mayo with Casa Rosada visible",
+  "at": "2026-10-27T07:54:40.533Z"
+ },
+ "buenos-aires-san-telmo-fair\u0001https://upload.wikimedia.org/wikipedia/commons/6/6d/Plaza_Dorrego_-_San_Telmo%2C_2005_-_panoramio.jpg": {
+  "slug": "buenos-aires-san-telmo-fair",
+  "verdict": "MATCH",
+  "reason": "publish gate: Street scene with market umbrellas matches San Telmo Fair setting",
+  "at": "2026-10-27T07:54:40.502Z"
  },
  "buenos-aires-semana-del-patrimonio-de-buenos-aires-heritage-week\u0001https://upload.wikimedia.org/wikipedia/commons/1/1a/Virgen_del_Roc%C3%ADo_Malaga_Semana_Santa.jpg": {
   "slug": "buenos-aires-semana-del-patrimonio-de-buenos-aires-heritage-week",
@@ -22183,6 +22207,12 @@
   "reason": "publish gate: Shows Shitennō-ji pagoda and hall, representative view",
   "at": "2026-09-09T07:38:31.303Z"
  },
+ "ottawa-byward-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ByWard_Market_Building_in_Ottawa%2C_Ontario.jpg/1920px-ByWard_Market_Building_in_Ottawa%2C_Ontario.jpg": {
+  "slug": "ottawa-byward-market",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of ByWard Market building, representative street view",
+  "at": "2026-10-27T07:54:40.754Z"
+ },
  "ottawa-canadian-museum-of-history\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Canadian_Museum_of_History_in_2026.jpg/1920px-Canadian_Museum_of_History_in_2026.jpg": {
   "slug": "ottawa-canadian-museum-of-history",
   "verdict": "MATCH",
@@ -22280,6 +22310,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Night street scene with shops matches Pai Walking Street",
   "at": "2026-09-22T07:39:30.102Z"
+ },
+ "paihia-bay-of-islands-vintage-railway\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bay_of_Islands_Vintage_Railway_-_Gabriel_on_Number_5_Bridge.JPG/1920px-Bay_of_Islands_Vintage_Railway_-_Gabriel_on_Number_5_Bridge.JPG": {
+  "slug": "paihia-bay-of-islands-vintage-railway",
+  "verdict": "MATCH",
+  "reason": "publish gate: Vintage steam train on bridge matches heritage railway attraction",
+  "at": "2026-10-27T07:54:40.683Z"
  },
  "paihia-paihia-wharf\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Paihia_Wharf%2C_2013_%2801%29.jpg/3840px-Paihia_Wharf%2C_2013_%2801%29.jpg": {
   "slug": "paihia-paihia-wharf",
@@ -24465,6 +24501,18 @@
   "reason": "publish gate: Shows colorful mountain with town, representative of landmark",
   "at": "2026-10-26T15:37:29.084Z"
  },
+ "purmamarca-paseo-de-los-colorados\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Paseo_de_los_Colorados_-_Purmamarca.jpg/3840px-Paseo_de_los_Colorados_-_Purmamarca.jpg": {
+  "slug": "purmamarca-paseo-de-los-colorados",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows colorful eroded hills matching Paseo de los Colorados landscape",
+  "at": "2026-10-27T07:54:40.592Z"
+ },
+ "purmamarca-pucara-de-tilcara\u0001https://upload.wikimedia.org/wikipedia/commons/6/69/Pucar%C3%A1_de_Tilcara_01.JPG": {
+  "slug": "purmamarca-pucara-de-tilcara",
+  "verdict": "MATCH",
+  "reason": "publish gate: Stone ruins and cacti match Pucará de Tilcara site",
+  "at": "2026-10-27T07:54:40.562Z"
+ },
  "purmamarca-purmamarca-jujuy\u0001https://upload.wikimedia.org/wikipedia/commons/8/86/Jujuy_-_Tumbaya_-_Purmamarca_-_Pueblo_de_Purmamarca.jpg": {
   "slug": "purmamarca-purmamarca-jujuy",
   "verdict": "MATCH",
@@ -25104,6 +25152,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Scenic viewpoint over city, consistent with hill overlook",
   "at": "2026-10-25T13:00:55.801Z"
+ },
+ "salta-valle-encantado\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Paisaje_capturado_desde_un_sector_del_Valle_Encantado_-_Parque_Nacional_Los_Cardones.jpg/3840px-Paisaje_capturado_desde_un_sector_del_Valle_Encantado_-_Parque_Nacional_Los_Cardones.jpg": {
+  "slug": "salta-valle-encantado",
+  "verdict": "MATCH",
+  "reason": "publish gate: Landscape of rocky valley with mountains, fits hidden-gem venue",
+  "at": "2026-10-27T07:54:40.722Z"
  },
  "samarkand-afrasiyab-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Afrasiab_Museum_of_Samarkand.jpg/1920px-Afrasiab_Museum_of_Samarkand.jpg": {
   "slug": "samarkand-afrasiyab-museum",
@@ -30990,6 +31044,12 @@
   "reason": "publish gate: Panoramic view of Tbilisi consistent with viewpoint attraction",
   "at": "2026-10-26T15:35:39.514Z"
  },
+ "te-anau-fiordland-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Hollyford_River_NZ_11.jpg/1920px-Hollyford_River_NZ_11.jpg": {
+  "slug": "te-anau-fiordland-national-park",
+  "verdict": "MATCH",
+  "reason": "publish gate: Representative mountain valley and river scene in Fiordland",
+  "at": "2026-10-27T08:29:58.947Z"
+ },
  "telavi-gombori-pass\u0001https://upload.wikimedia.org/wikipedia/commons/a/a7/View_to_Gombori_pass_-_panoramio.jpg": {
   "slug": "telavi-gombori-pass",
   "verdict": "MATCH",
@@ -33164,6 +33224,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows Peak 2 Peak gondola cabin over Whistler forest view",
   "at": "2026-10-21T13:29:32.586Z"
+ },
+ "whistler-whistler-village-stroll\u0001https://upload.wikimedia.org/wikipedia/commons/4/40/Stilt_hockey%2C_Whistler_Village_%288221622796%29.jpg": {
+  "slug": "whistler-whistler-village-stroll",
+  "verdict": "MATCH",
+  "reason": "publish gate: Whistler Village street scene with buildings and snow",
+  "at": "2026-10-27T07:54:40.651Z"
  },
  "wuhan-2026-wuhan-open-snooker\u0001https://upload.wikimedia.org/wikipedia/commons/5/58/Snooker_table_selby.JPG": {
   "slug": "wuhan-2026-wuhan-open-snooker",
