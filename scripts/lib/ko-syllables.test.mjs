@@ -39,6 +39,11 @@ test('the same broken syllable twice is reported once', () => {
   assert.deepEqual(koMangledSyllables({ title: '장소쯽', body: '장소쯽으로' }), ['쯽']);
 });
 
+test('allows 푈클링겐 (Völklingen) but not a stray 푈 (2026-10-27)', () => {
+  assert.deepEqual(koBrokenSyllables('유네스코 세계유산인 푈클링겐 제철소는 서쪽으로'), []);
+  assert.deepEqual(koBrokenSyllables('푈레이드'), ['푈 — 푈레이드']);
+});
+
 test('됭 is allowed only inside 베르됭 — 됭장 is still a typo (Codex, 10-03)', () => {
   assert.deepEqual(koBrokenSyllables('됭장찌개'), ['됭 — 됭장찌개']);
 });

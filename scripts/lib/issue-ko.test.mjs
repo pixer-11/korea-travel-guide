@@ -119,6 +119,29 @@ test('detail lines (↳), ⭐ headlines and "(es)" tallies are not findings', as
   assert.equal(koDigest('⭐ 평점 기준선 감사 — 1974편 검사\n✓ 기준선 아래 공개글 없음.'), '');
 });
 
+// 2026-10-27: the price audit's real output reached the owner as "문제 2건" over
+// six "점검 항목 — 대상 미상" and a "점검 항목 — 수준". Run the audit itself, not
+// a hand-copied sample of it, so its next format change is caught here.
+test('지어낸 가격 감사의 실제 출력이 한국어 알림으로 읽힌다', async () => {
+  const { koDigest } = await import('./issue-ko.mjs');
+  const { mkdtempSync, mkdirSync, writeFileSync } = await import('node:fs');
+  const { tmpdir } = await import('node:os');
+  const { join } = await import('node:path');
+  const { spawnSync } = await import('node:child_process');
+  const root = mkdtempSync(join(tmpdir(), 'money-'));
+  mkdirSync(join(root, 'src/content/posts'), { recursive: true });
+  const post = (q) => `---\ntitle: T\nquickAnswer: "${q}"\n---\nBody.\n`;
+  writeFileSync(join(root, 'src/content/posts/bali-warung.md'), post('A plate runs about Rp 35.000.'));
+  writeFileSync(join(root, 'src/content/posts/clean.md'), post('Mid-range for the area.'));
+  const audit = new URL('../audit-money-claims.mjs', import.meta.url);
+  const run = spawnSync(process.execPath, [audit.pathname.replace(/^\/(\w:)/, '$1')], { cwd: root, encoding: 'utf8' });
+  assert.equal(run.status, 1, run.stdout + run.stderr);
+  const d = koDigest(run.stdout);
+  assert.match(d, /^문제 1건/);
+  assert.match(d, /bali-warung\.md — 출처 없는 금액/);
+  assert.doesNotMatch(d, /대상 미상|점검 항목/);
+});
+
 test('보류-공개 검사: 안내문은 문제로 세지 않는다 (2026-10-15)', () => {
   const out = '3 post(s) carry a hold; 1 of them are still published\n'
     + 'HELD-BUT-PUBLISHED: a.md — heldReason: wrong-venue-photo, but draft is not true\n\n'

@@ -68,10 +68,13 @@ console.log(`\n💸 지어낸 가격 감사 — 글 ${posts}편 검사`);
 if (byPost.size) {
   console.log(`❌ ${byPost.size}편에 출처 없는 금액 ${total}건:\n`);
   for (const [slug, hits] of byPost) {
-    console.log(`  • ${slug} (${hits.length})`);
-    for (const h of hits.slice(0, 2)) console.log(`      [${h.where}] …${h.context}…`);
+    // CODE: file.md shape and ↳ detail lines, so ko-report can read it. As
+    // "• slug (2)" plus bare evidence and advice lines, the owner's 10-27
+    // warning was seven "점검 항목 — 대상 미상" and one "점검 항목 — 수준".
+    console.log(`  • MONEY-CLAIM: ${slug}.md — ${hits.length}`);
+    for (const h of hits.slice(0, 2)) console.log(`      ↳ [${h.where}] …${h.context}…`);
   }
-  console.log('\n가격은 우리에게 주어지지 않는다 — 금액을 지우고 가격 "수준"을 말로 쓰거나, 어디에 붙어 있는지만 알려라.');
+  console.log('\n↳ 가격은 우리에게 주어지지 않는다 — 금액을 지우고 가격 "수준"을 말로 쓰거나, 어디에 붙어 있는지만 알려라.');
   requireExamined(posts, '글', `${DIR} 가 비어 있나?`);
   process.exit(1);
 }

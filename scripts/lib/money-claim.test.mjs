@@ -35,6 +35,16 @@ test('중국어 병음 주소의 Dong 을 베트남 동으로 읽지 않는다',
   assert.deepEqual(moneyClaims("It's at 9 Dong Da Zhi Jie in Nangang District"), []);
 });
 
+test('아르헨티나 지방도로 RP73 은 루피아가 아니다 (10-27)', () => {
+  // 살타 두 글의 진짜 문장. 대소문자 무시 정규식이 RP 를 Rp 로 읽었다.
+  assert.deepEqual(moneyClaims('Plan to be heading down before dark. RP73 is no road for driving at night.'), []);
+  assert.deepEqual(moneyClaims('Most traffic on RP33 drives straight past it'), []);
+  assert.deepEqual(moneyClaims('take rp 9 north'), []);
+  // 역방향: 진짜 루피아는 그대로 잡는다.
+  assert.equal(moneyClaims('a plate costs Rp 35.000 here').length, 1);
+  assert.equal(moneyClaims('entry is Rp.50,000 per person').length, 1);
+});
+
 test('금액 없는 가격 표현은 건드리지 않는다', () => {
   assert.deepEqual(moneyClaims("It's mid-range for Bilbao, on the pricier side for the area."), []);
   assert.deepEqual(moneyClaims('Entry is free; donation boxes sit by the shrine.'), []);

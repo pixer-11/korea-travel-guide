@@ -35,7 +35,11 @@ export const KO_EXTENDED_OK = new Set([...'웻똠쩻뻄뻭녓얙뻉뜽냣셱췩�
 // in 됭장 (Codex, 10-03), but 베르됭 (Verdun — Nicholas of Verdun, goldsmith of
 // Cologne's Shrine of the Three Kings) is the standard spelling; the Cologne
 // posts were retranslated three times over it.
-export const KO_WORDS_OK = ['베르됭'];
+// 푈클링겐 (Völklingen — the UNESCO ironworks near Saarbrücken; German ö+l is
+// 푈 under the 외래어 표기법). The fixer deleted saarbrucken-bwf-hylo-open for it
+// and the retranslation wrote it again (2026-10-27). A word, not the syllable:
+// 푈 is one jamo off 펠 and 풀.
+export const KO_WORDS_OK = ['베르됭', '푈클링겐'];
 const okWords = new RegExp(KO_WORDS_OK.join('|'), 'g');
 
 // Every broken syllable in `text`, each with a little context so a human can see

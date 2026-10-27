@@ -43,6 +43,11 @@ export function moneyClaims(text) {
   const out = [];
   for (const m of src.matchAll(AMOUNT)) {
     const i = m.index;
+    // Rupiah is written "Rp" — the regex is case-insensitive for the currency
+    // words, and so read Argentina's provincial routes RP73 and RP33 as money.
+    // Two Salta guides were flagged and sent to the model for repair on every
+    // publish, which failed each time: there was no price to take out (10-27).
+    if (/^r/i.test(m[0]) && !m[0].startsWith('Rp')) continue;
     const window = src.slice(Math.max(0, i - 70), i + m[0].length + 40);
     if (PINYIN_STREET.test(src.slice(Math.max(0, i - 4), i + m[0].length + 12))) continue;
     if (NOT_A_PRICE.some((re) => re.test(window))) continue;
