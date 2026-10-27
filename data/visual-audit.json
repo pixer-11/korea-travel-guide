@@ -4908,6 +4908,18 @@
   "reason": "patrol reject: Religious procession, unrelated to Buenos Aires Heritage Week",
   "at": "2026-10-25T23:22:00.725Z"
  },
+ "buenos-aires-semana-del-patrimonio-de-buenos-aires-heritage-week\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apertura_de_la_Semana_de_la_Ingenier%C3%ADa_2012.JPG/3840px-Apertura_de_la_Semana_de_la_Ingenier%C3%ADa_2012.JPG": {
+  "slug": "buenos-aires-semana-del-patrimonio-de-buenos-aires-heritage-week",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: University concert, not heritage building/neighborhood scene",
+  "at": "2026-10-27T23:07:48.766Z"
+ },
+ "buenos-aires-semana-del-patrimonio-de-buenos-aires-heritage-week\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Semana_da_M%C3%BAsica_Cl%C3%A1udia_Castelo_Branco_01.jpg/3840px-Semana_da_M%C3%BAsica_Cl%C3%A1udia_Castelo_Branco_01.jpg": {
+  "slug": "buenos-aires-semana-del-patrimonio-de-buenos-aires-heritage-week",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Concert pianist, unrelated to heritage buildings event",
+  "at": "2026-10-27T23:08:02.803Z"
+ },
  "buenos-aires-semana-del-patrimonio-de-buenos-aires-heritage-week\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Semana_da_M%C3%BAsica_Cl%C3%A1udia_Castelo_Branco_03.jpg/3840px-Semana_da_M%C3%BAsica_Cl%C3%A1udia_Castelo_Branco_03.jpg": {
   "slug": "buenos-aires-semana-del-patrimonio-de-buenos-aires-heritage-week",
   "verdict": "MISMATCH",
@@ -4925,6 +4937,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Pianist performance, unrelated to heritage buildings event",
   "at": "2026-10-26T23:17:22.430Z"
+ },
+ "buenos-aires-semana-del-patrimonio-de-buenos-aires-heritage-week\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Semana_da_M%C3%BAsica_Cl%C3%A1udia_Castelo_Branco_02.jpg/3840px-Semana_da_M%C3%BAsica_Cl%C3%A1udia_Castelo_Branco_02.jpg": {
+  "slug": "buenos-aires-semana-del-patrimonio-de-buenos-aires-heritage-week",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Concert pianist unrelated to heritage buildings event",
+  "at": "2026-10-27T23:07:55.997Z"
  },
  "buenos-aires-semana-del-patrimonio-de-buenos-aires-heritage-week\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Misterio_del_Buen_Fin_Semana_Santa_2025.jpg/3840px-Misterio_del_Buen_Fin_Semana_Santa_2025.jpg": {
   "slug": "buenos-aires-semana-del-patrimonio-de-buenos-aires-heritage-week",
@@ -10118,6 +10136,12 @@
   "reason": "hand-reviewed: filename shares no word with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-24T02:12:34.583Z"
  },
+ "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/a/af/TOTAL_BWF_World_Champs_2015_Day_2_Samantha_Barning.jpg": {
+  "slug": "hangzhou-bwf-world-tour-finals",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Badminton doubles match, sport matches event type",
+  "at": "2026-10-27T23:08:15.167Z"
+ },
  "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/f/f6/2018_BWF_World_Championships.jpg": {
   "slug": "hangzhou-bwf-world-tour-finals",
   "verdict": "MISMATCH",
@@ -10742,6 +10766,30 @@
   "reason": "hand-reviewed: filename shares only \"badminton\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-26T19:00:11.002Z"
  },
+ "ho-chi-minh-city-vietnam-open-badminton\u0001https://upload.wikimedia.org/wikipedia/commons/e/ea/Badminton_Tournament.jpg": {
+  "slug": "ho-chi-minh-city-vietnam-open-badminton",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: identity: Commons places this in India, post says Vietnam",
+  "at": "2026-10-27T23:09:42.450Z"
+ },
+ "ho-chi-minh-city-vietnam-open-badminton\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Badminton_Chiasma_5.0.jpg/3840px-Badminton_Chiasma_5.0.jpg": {
+  "slug": "ho-chi-minh-city-vietnam-open-badminton",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: identity: Commons places this in India, post says Vietnam",
+  "at": "2026-10-27T23:09:45.276Z"
+ },
+ "ho-chi-minh-city-vietnam-open-badminton\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/140921-Z-PL933-188_%2815413029571%29.jpg/3840px-140921-Z-PL933-188_%2815413029571%29.jpg": {
+  "slug": "ho-chi-minh-city-vietnam-open-badminton",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Military personnel at camp, unrelated to badminton event",
+  "at": "2026-10-27T23:09:32.864Z"
+ },
+ "ho-chi-minh-city-vietnam-open-badminton\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/-i---i-_%2838646530084%29.jpg/3840px--i---i-_%2838646530084%29.jpg": {
+  "slug": "ho-chi-minh-city-vietnam-open-badminton",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Food vendor scene, unrelated to badminton event",
+  "at": "2026-10-27T23:09:34.266Z"
+ },
  "ho-chi-minh-city-vietnam-open-badminton\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/140922-Z-PL933-088_%2815415878652%29.jpg/3840px-140922-Z-PL933-088_%2815415878652%29.jpg": {
   "slug": "ho-chi-minh-city-vietnam-open-badminton",
   "verdict": "MISMATCH",
@@ -10759,6 +10807,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Military training scene, unrelated to badminton event",
   "at": "2026-10-26T23:18:48.692Z"
+ },
+ "ho-chi-minh-city-vietnam-open-badminton\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/%22Hello%21_What%27s_your_name%3F%22_%2822614926239%29.jpg/3840px-%22Hello%21_What%27s_your_name%3F%22_%2822614926239%29.jpg": {
+  "slug": "ho-chi-minh-city-vietnam-open-badminton",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Children at bamboo house, unrelated to badminton event",
+  "at": "2026-10-27T23:09:39.667Z"
  },
  "ho-chi-minh-city-war-remnants-museum\u0001https://fastly.4sqi.net/img/general/original/40427565_DRRKdHilxlcOXTRllvvz568cKZSlxYRnh7JSSDHGlUY.jpg": {
   "slug": "ho-chi-minh-city-war-remnants-museum",
@@ -13033,6 +13087,12 @@
   "verdict": "MATCH",
   "reason": "event publish gate: Concert performance photo of band on stage",
   "at": "2026-10-12T00:06:26.327Z"
+ },
+ "jakarta-arue\u0001https://upload.wikimedia.org/wikipedia/commons/7/7d/G-ARUE_%2816204721077%29.jpg": {
+  "slug": "jakarta-arue",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Image shows an airplane, unrelated to restaurant",
+  "at": "2026-10-27T23:10:53.898Z"
  },
  "jakarta-avenged-sevenfold-jakarta-2026\u0001https://upload.wikimedia.org/wikipedia/commons/1/1a/Avenged_Sevenfold_in_Bercy_3.jpg": {
   "slug": "jakarta-avenged-sevenfold-jakarta-2026",
@@ -16767,6 +16827,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Visible watermark/credit overlaid on photo",
   "at": "2026-10-26T23:20:11.246Z"
+ },
+ "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/5/50/Roger_Federer_at_the_ATP_Tennis_World_Finals.jpg": {
+  "slug": "london-atp-finals",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Tennis player at ATP Finals, archive photo acceptable",
+  "at": "2026-10-27T23:12:17.304Z"
  },
  "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/8/8b/Sydney_International_Tennis_ATP_%2833040174978%29.jpg": {
   "slug": "london-atp-finals",
@@ -21232,6 +21298,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Random portrait, not NBA event or venue",
   "at": "2026-10-25T23:25:32.116Z"
+ },
+ "new-york-nba-christmas-day-games\u0001https://upload.wikimedia.org/wikipedia/commons/c/ce/Jalen_Williams_OKCThunder_2025_NBA_Cup.jpg": {
+  "slug": "new-york-nba-christmas-day-games",
+  "verdict": "MATCH",
+  "reason": "patrol replace: NBA player in OKC uniform, professional court setting",
+  "at": "2026-10-27T23:14:07.439Z"
  },
  "new-york-nba-christmas-day-games\u0001https://upload.wikimedia.org/wikipedia/commons/d/dc/Clippers_%40_Nuggets%2C_2025_NBA_playoffs%2C_Game_1%2C_Ball_Arena.jpg": {
   "slug": "new-york-nba-christmas-day-games",
