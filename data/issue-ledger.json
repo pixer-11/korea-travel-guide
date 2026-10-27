@@ -1,11 +1,5 @@
 {
   "validate-content": {},
-  "audit-translations": {
-    "broken-syllable posts/ko/saarbrucken-bwf-hylo-open.md": {
-      "since": "2026-10-27",
-      "last": "2026-10-27",
-      "seen": 1
-    }
-  },
+  "audit-translations": {},
   "audit-hours-claims": {}
 }
