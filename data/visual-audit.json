@@ -10090,9 +10090,9 @@
  },
  "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/8/8c/TOTAL_BWF_World_Champs_2015_Day_2_Keigo_Sonoda.jpg": {
   "slug": "hangzhou-bwf-world-tour-finals",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Badminton player at professional tournament event",
-  "at": "2026-10-26T23:18:07.140Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares no word with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-27T10:38:23.346Z"
  },
  "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/a/ad/TOTAL_BWF_World_Champs_2015_Day_2_Iris_Tabeling.jpg": {
   "slug": "hangzhou-bwf-world-tour-finals",
@@ -10714,9 +10714,9 @@
  },
  "ho-chi-minh-city-vietnam-open-badminton\u0001https://upload.wikimedia.org/wikipedia/commons/2/25/Badminton_court_view.jpg": {
   "slug": "ho-chi-minh-city-vietnam-open-badminton",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Indoor badminton court with shuttlecocks and racket",
-  "at": "2026-10-26T23:18:55.734Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"badminton\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-27T10:38:23.536Z"
  },
  "ho-chi-minh-city-vietnam-open-badminton\u0001https://upload.wikimedia.org/wikipedia/commons/9/90/Badminton_racket.jpg": {
   "slug": "ho-chi-minh-city-vietnam-open-badminton",
@@ -16728,9 +16728,9 @@
  },
  "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/1/1e/Novak_Djokovic_at_the_ATP_Tennis_World_Finals.jpg": {
   "slug": "london-atp-finals",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Tennis player at ATP Finals on blue court",
-  "at": "2026-10-26T23:20:16.861Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"finals\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-27T10:38:23.727Z"
  },
  "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/2/23/ATP_World_Tour_Final_Tennis_at_The_02_Arena_London.jpg": {
   "slug": "london-atp-finals",
@@ -21217,9 +21217,9 @@
  },
  "new-york-nba-christmas-day-games\u0001https://upload.wikimedia.org/wikipedia/commons/e/ea/Partido_NBA_-i---i-_%2832248212036%29.jpg": {
   "slug": "new-york-nba-christmas-day-games",
-  "verdict": "MATCH",
-  "reason": "patrol replace: NBA game at indoor arena, purple team uniforms visible",
-  "at": "2026-10-26T23:21:26.503Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares no word with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-27T10:38:23.926Z"
  },
  "new-york-ocean-prime\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Ocean_Prime_Phoenix_%2833119074285%29.jpg/1920px-Ocean_Prime_Phoenix_%2833119074285%29.jpg": {
   "slug": "new-york-ocean-prime",

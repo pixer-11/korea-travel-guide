@@ -30,14 +30,6 @@ faq:
     a: Two or three days covers the knockout rounds and the finals and leaves time for Ben Thanh Market, Tao Dan Park and the Independence Palace between sessions.
 aiGenerated: true
 draft: false
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/2/25/Badminton_court_view.jpg
-  credit: 'Photo: Darakshanehaluddin / Wikimedia Commons (CC0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Badminton_court_view.jpg
-  focus:
-    x: 55
-    'y': 55
 ---
 
 ## A Super 100 week on Nguyen Du street
