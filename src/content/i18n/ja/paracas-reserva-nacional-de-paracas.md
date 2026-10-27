@@ -1,9 +1,9 @@
 ---
 lang: ja
 slug: paracas-reserva-nacional-de-paracas
-srcHash: '988d948c5484'
+srcHash: '34200027dc08'
 title: パラカス国立保護区 旅行ガイド（4.6★）
-description: パラカス国立保護区（Reserva Nacional de Paracas）は、ペルー南部の海岸沿いにあるパラカスの町のすぐ南に広がる海岸砂漠の保護区です。評価は4.6★（7,450件）。訪れた人の声や営業時間、観光のコツをまとめました。
+description: パラカス国立保護区（Reserva Nacional de Paracas）は、ペルー南部の海岸沿いにあるパラカスの町のすぐ南に広がる海岸砂漠の保護区です。評価は4.6★（7,451件）。訪れた人の声や営業時間、観光のコツをまとめました。
 quickAnswer: パラカス国立保護区（Reserva Nacional de Paracas）は、ペルー南部の海岸にあるパラカスの町のすぐ南に広がる海岸砂漠の保護区です。プラヤ・ロハ（Playa Roja）とラ・カテドラル（La Catedral）の展望ポイントを巡り、ラグニーリャス（Lagunillas）で昼食をとる半日コースで回る人がほとんどです。パラカス特有の風は午後にかけて強まることが多いので、朝早めに着くようにしましょう。現在Googleに掲載されている開園時間は9:00 AM–4:00 PMです。
 faq:
   - q: リマからパラカス国立保護区へはどう行けばよいですか？

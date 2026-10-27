@@ -1,44 +1,51 @@
 ---
-title: "ByWard Market: Ottawa Travel Guide (4.4★)"
-description: "ByWard Market is Ottawa's oldest public market, trading since 1826 in Lowertown a short walk from Rideau Station on the O-Train Line 1. 4.4★ (8,651 reviews) — what visitors say, hours, and tips."
-country: "Canada"
-region: "Ottawa"
-category: "hidden-gem"
-pubDate: "2026-10-27T07:54:49.737Z"
+title: 'ByWard Market: Ottawa Travel Guide (4.4★)'
+description: >-
+  ByWard Market is Ottawa's oldest public market, trading since 1826 in
+  Lowertown a short walk from Rideau Station on the O-Train Line 1. 4.4★ (8,653
+  reviews) — what visitors say, hours, and tips.
+country: Canada
+region: Ottawa
+category: hidden-gem
+pubDate: '2026-10-27T07:54:49.737Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ByWard_Market_Building_in_Ottawa%2C_Ontario.jpg/1920px-ByWard_Market_Building_in_Ottawa%2C_Ontario.jpg"
-  credit: "Photo: Hayden Soloviev / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:ByWard_Market_Building_in_Ottawa,_Ontario.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ByWard_Market_Building_in_Ottawa%2C_Ontario.jpg/1920px-ByWard_Market_Building_in_Ottawa%2C_Ontario.jpg
+  credit: 'Photo: Hayden Soloviev / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:ByWard_Market_Building_in_Ottawa,_Ontario.jpg
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Ottawa_Byward_Market_Hall_%2812%29.JPG/3840px-Ottawa_Byward_Market_Hall_%2812%29.JPG"
-    credit: "Photo: Pierre André / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Ottawa_Byward_Market_Hall_(12).JPG"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Ottawa_Byward_Market_Hall_%2812%29.JPG/3840px-Ottawa_Byward_Market_Hall_%2812%29.JPG
+    credit: 'Photo: Pierre André / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Ottawa_Byward_Market_Hall_(12).JPG'
 place:
-  id: "ChIJdX9fhAIFzkwRKibJAOinIR0"
-  name: "ByWard Market"
-  address: "55 Byward Market Square, Ottawa, ON K1N 1K1, Canada"
+  id: ChIJdX9fhAIFzkwRKibJAOinIR0
+  name: ByWard Market
+  address: '55 Byward Market Square, Ottawa, ON K1N 1K1, Canada'
   rating: 4.4
-  userRatingsTotal: 8651
-  googleMapsUrl: "https://maps.google.com/?cid=2099143516218795562&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 8653
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2099143516218795562&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 45.42775640000001
   lng: -75.692438
-  phone: "+1 613-244-4410"
+  phone: +1 613-244-4410
   openingHours:
-    - "Monday: 10:00 AM – 6:00 PM"
-    - "Tuesday: 10:00 AM – 6:00 PM"
-    - "Wednesday: 10:00 AM – 6:00 PM"
-    - "Thursday: 10:00 AM – 6:00 PM"
-    - "Friday: 10:00 AM – 6:00 PM"
-    - "Saturday: 10:00 AM – 6:00 PM"
-    - "Sunday: 10:00 AM – 6:00 PM"
+    - 'Monday: 10:00 AM – 6:00 PM'
+    - 'Tuesday: 10:00 AM – 6:00 PM'
+    - 'Wednesday: 10:00 AM – 6:00 PM'
+    - 'Thursday: 10:00 AM – 6:00 PM'
+    - 'Friday: 10:00 AM – 6:00 PM'
+    - 'Saturday: 10:00 AM – 6:00 PM'
+    - 'Sunday: 10:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-10-27
+    updated: 2026-10-27T00:00:00.000Z
     weekdayQuiet:
       - 10
       - 11
@@ -50,24 +57,43 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_3052496e694f414a62694b52776b7a46494168663958644a496843"
+    venueId: ven_3052496e694f414a62694b52776b7a46494168663958644a496843
 tags:
-  - "ottawa"
-  - "local market"
-quickAnswer: "ByWard Market is Ottawa's oldest public market, trading since 1826 in Lowertown a short walk from Rideau Station on the O-Train Line 1. The market building at 55 Byward Market Square currently opens 10am–6pm every day this week. Go on a weekday between 10am and 12pm, or 5pm and 6pm, for the calmest aisles, and avoid weekends from 12pm to 6pm."
+  - ottawa
+  - local market
+quickAnswer: >-
+  ByWard Market is Ottawa's oldest public market, trading since 1826 in
+  Lowertown a short walk from Rideau Station on the O-Train Line 1. The market
+  building at 55 Byward Market Square currently opens 10am–6pm every day this
+  week. Go on a weekday between 10am and 12pm, or 5pm and 6pm, for the calmest
+  aisles, and avoid weekends from 12pm to 6pm.
 faq:
-  - q: "When is the quietest time to visit ByWard Market?"
-    a: "On weekdays it is calmest between 10am and 12pm and again between 5pm and 6pm. Avoid weekends from 12pm to 6pm, the busiest stretch."
-  - q: "How do I get to ByWard Market by transit?"
-    a: "Take the O-Train Confederation Line (Line 1) to Rideau Station, exit through CF Rideau Centre and walk a few minutes north into Lowertown."
-  - q: "What are the market building's hours?"
-    a: "This week the building at 55 Byward Market Square opens 10am–6pm every day. Hours can shift with holidays and seasons, so check before going. Surrounding restaurants and bars keep their own hours."
-  - q: "How long should I spend there?"
-    a: "Allow 1–2 hours for the market. Pair it with Notre-Dame Cathedral Basilica, the National Gallery of Canada and Parliament Hill, all walkable, for a half day."
-  - q: "Is ByWard Market worth visiting in winter?"
-    a: "Yes, though outdoor stalls are reduced. The indoor building, the district's restaurants and nearby skating on the Rideau Canal (when conditions allow) make it a solid winter stop."
+  - q: When is the quietest time to visit ByWard Market?
+    a: >-
+      On weekdays it is calmest between 10am and 12pm and again between 5pm and
+      6pm. Avoid weekends from 12pm to 6pm, the busiest stretch.
+  - q: How do I get to ByWard Market by transit?
+    a: >-
+      Take the O-Train Confederation Line (Line 1) to Rideau Station, exit
+      through CF Rideau Centre and walk a few minutes north into Lowertown.
+  - q: What are the market building's hours?
+    a: >-
+      This week the building at 55 Byward Market Square opens 10am–6pm every
+      day. Hours can shift with holidays and seasons, so check before going.
+      Surrounding restaurants and bars keep their own hours.
+  - q: How long should I spend there?
+    a: >-
+      Allow 1–2 hours for the market. Pair it with Notre-Dame Cathedral
+      Basilica, the National Gallery of Canada and Parliament Hill, all
+      walkable, for a half day.
+  - q: Is ByWard Market worth visiting in winter?
+    a: >-
+      Yes, though outdoor stalls are reduced. The indoor building, the
+      district's restaurants and nearby skating on the Rideau Canal (when
+      conditions allow) make it a solid winter stop.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-27'
 ---
 
 ## Four blocks older than the country

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: ottawa-byward-market
-srcHash: '83415d5e1b86'
+srcHash: '90bfc58b5659'
 title: 'Mercado ByWard: guía de viaje de Ottawa (4.4★)'
-description: Desde 1826, el mercado ByWard (ByWard Market) es el mercado público más antiguo de Ottawa. Se encuentra en Lowertown, a pocos minutos a pie de la estación Rideau (línea 1 del O-Train). Con una valoración de 4.4★ (8,651 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
+description: Desde 1826, el mercado ByWard (ByWard Market) es el mercado público más antiguo de Ottawa. Se encuentra en Lowertown, a pocos minutos a pie de la estación Rideau (línea 1 del O-Train). Con una valoración de 4.4★ (8,653 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
 quickAnswer: Desde 1826, el mercado ByWard (ByWard Market) es el mercado público más antiguo de Ottawa. Está en el barrio de Lowertown, a poca distancia a pie de la estación Rideau (Rideau Station), en la línea 1 del O-Train. Esta semana, el edificio del mercado, situado en 55 Byward Market Square, abre todos los días de 10am–6pm. Si busca pasillos tranquilos, vaya entre semana de 10am a 12pm o de 5pm a 6pm. Los fines de semana conviene evitar la franja de 12pm a 6pm.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el mercado ByWard?

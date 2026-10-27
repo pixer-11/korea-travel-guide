@@ -1,50 +1,78 @@
 ---
-title: "Plaza de Mayo: Buenos Aires Travel Guide (4.6★)"
-description: "Plaza de Mayo is the main square of Buenos Aires, in the Monserrat and San Nicolás districts, with the pink Casa Rosada on one side and the white Cabildo on the other. 4.6★ (143,619 reviews) — what visitors say, hours, and tips."
-country: "Argentina"
-region: "Buenos Aires"
-category: "hidden-gem"
-pubDate: "2026-10-27T07:54:42.517Z"
+title: 'Plaza de Mayo: Buenos Aires Travel Guide (4.6★)'
+description: >-
+  Plaza de Mayo is the main square of Buenos Aires, in the Monserrat and San
+  Nicolás districts, with the pink Casa Rosada on one side and the white Cabildo
+  on the other. 4.6★ (143,637 reviews) — what visitors say, hours, and tips.
+country: Argentina
+region: Buenos Aires
+category: hidden-gem
+pubDate: '2026-10-27T07:54:42.517Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vista_a%C3%A9rea_de_Plaza_de_Mayo_03.jpg/1920px-Vista_a%C3%A9rea_de_Plaza_de_Mayo_03.jpg"
-  credit: "Photo: ProtoplasmaKid / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Vista_a%C3%A9rea_de_Plaza_de_Mayo_03.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vista_a%C3%A9rea_de_Plaza_de_Mayo_03.jpg/1920px-Vista_a%C3%A9rea_de_Plaza_de_Mayo_03.jpg
+  credit: 'Photo: ProtoplasmaKid / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Vista_a%C3%A9rea_de_Plaza_de_Mayo_03.jpg
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Plaza_de_Mayo_panorama.jpg/3840px-Plaza_de_Mayo_panorama.jpg"
-    credit: "Photo: The Cosmonaut / Wikimedia Commons (CC BY-SA 2.5 ca)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Plaza_de_Mayo_panorama.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Plaza_de_Mayo_panorama.jpg/3840px-Plaza_de_Mayo_panorama.jpg
+    credit: 'Photo: The Cosmonaut / Wikimedia Commons (CC BY-SA 2.5 ca)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Plaza_de_Mayo_panorama.jpg'
 place:
-  id: "ChIJXx79V9vKvJURS2GosE58c8w"
-  name: "Plaza de Mayo"
-  address: "Av. Hipólito Yrigoyen s/n, C1087 Cdad. Autónoma de Buenos Aires, Argentina"
+  id: ChIJXx79V9vKvJURS2GosE58c8w
+  name: Plaza de Mayo
+  address: 'Av. Hipólito Yrigoyen s/n, C1087 Cdad. Autónoma de Buenos Aires, Argentina'
   rating: 4.6
-  userRatingsTotal: 143619
-  googleMapsUrl: "https://maps.google.com/?cid=14732255483472142667&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 143637
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14732255483472142667&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -34.6083667
   lng: -58.3722832
 tags:
-  - "buenos aires"
-  - "old quarter"
-quickAnswer: "Plaza de Mayo is the main square of Buenos Aires, in the Monserrat and San Nicolás districts, with the pink Casa Rosada on one side and the white Cabildo on the other. Take Subte Line A to Plaza de Mayo, Line D to Catedral or Line E to Bolívar. Give it an hour, and come on a Thursday afternoon to see the Mothers of Plaza de Mayo walk."
+  - buenos aires
+  - old quarter
+quickAnswer: >-
+  Plaza de Mayo is the main square of Buenos Aires, in the Monserrat and San
+  Nicolás districts, with the pink Casa Rosada on one side and the white Cabildo
+  on the other. Take Subte Line A to Plaza de Mayo, Line D to Catedral or Line E
+  to Bolívar. Give it an hour, and come on a Thursday afternoon to see the
+  Mothers of Plaza de Mayo walk.
 faq:
-  - q: "Which Subte station is closest to Plaza de Mayo?"
-    a: "Three lines stop here. Line A's Plaza de Mayo station is on the Avenida de Mayo side, Line D's Catedral station is by the cathedral, and Line E's Bolívar station is by the Cabildo. You pay with a SUBE card."
-  - q: "When do the Mothers of Plaza de Mayo march?"
-    a: "They walk around the Pirámide de Mayo on Thursday afternoons, as they have every week since 1977. Watch respectfully from the edge, and don't photograph faces up close without asking."
-  - q: "Can I go inside the Casa Rosada?"
-    a: "Guided tours run on some weekends and have to be booked ahead on the official Argentine government site. Bring your passport for the security check."
-  - q: "How long should I spend at Plaza de Mayo?"
-    a: "About an hour covers the square and the cathedral. Allow more if you visit the Cabildo museum or walk down Avenida de Mayo to Café Tortoni and Congreso."
-  - q: "What is nearby?"
-    a: "Avenida de Mayo runs west to Congreso and passes Café Tortoni on the way. Calle Defensa leads south to San Telmo, about 15 minutes on foot, and Puerto Madero is just east, behind the Casa Rosada."
+  - q: Which Subte station is closest to Plaza de Mayo?
+    a: >-
+      Three lines stop here. Line A's Plaza de Mayo station is on the Avenida de
+      Mayo side, Line D's Catedral station is by the cathedral, and Line E's
+      Bolívar station is by the Cabildo. You pay with a SUBE card.
+  - q: When do the Mothers of Plaza de Mayo march?
+    a: >-
+      They walk around the Pirámide de Mayo on Thursday afternoons, as they have
+      every week since 1977. Watch respectfully from the edge, and don't
+      photograph faces up close without asking.
+  - q: Can I go inside the Casa Rosada?
+    a: >-
+      Guided tours run on some weekends and have to be booked ahead on the
+      official Argentine government site. Bring your passport for the security
+      check.
+  - q: How long should I spend at Plaza de Mayo?
+    a: >-
+      About an hour covers the square and the cathedral. Allow more if you visit
+      the Cabildo museum or walk down Avenida de Mayo to Café Tortoni and
+      Congreso.
+  - q: What is nearby?
+    a: >-
+      Avenida de Mayo runs west to Congreso and passes Café Tortoni on the way.
+      Calle Defensa leads south to San Telmo, about 15 minutes on foot, and
+      Puerto Madero is just east, behind the Casa Rosada.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-27'
 ---
 
 ## A square built for shouting

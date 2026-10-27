@@ -1,23 +1,29 @@
 ---
 title: 'Arc de Triomphe: Paris Travel Guide'
-description: Climb the Arc de Triomphe at Place Charles de Gaulle for one of the best skyline views in Paris — the Champs-Élysées stretching one way, the Grande Arche de la Défense the other.
+description: >-
+  Climb the Arc de Triomphe at Place Charles de Gaulle for one of the best
+  skyline views in Paris — the Champs-Élysées stretching one way, the Grande
+  Arche de la Défense the other.
 country: France
 region: Paris
 category: attraction
 pubDate: '2026-08-02T09:28:15.300Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Arc_de_Triomphe%2C_Paris_21_October_2010.jpg/1920px-Arc_de_Triomphe%2C_Paris_21_October_2010.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Arc_de_Triomphe%2C_Paris_21_October_2010.jpg/1920px-Arc_de_Triomphe%2C_Paris_21_October_2010.jpg
   credit: 'Photo: Jiuguang Wang / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Arc_de_Triomphe,_Paris_21_October_2010.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Arc_de_Triomphe,_Paris_21_October_2010.jpg
 gallery: []
 place:
   id: ChIJjx37cOxv5kcRPWQuEW5ntdk
   name: Arc de Triomphe
-  address: Pl. Charles de Gaulle, 75008 Paris, France
+  address: 'Pl. Charles de Gaulle, 75008 Paris, France'
   rating: 4.7
-  userRatingsTotal: 295634
-  googleMapsUrl: https://maps.google.com/?cid=15687558599447307325&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 301676
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15687558599447307325&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 48.8737917
   lng: 2.2950274999999998
@@ -51,20 +57,41 @@ place:
 tags:
   - paris
   - top attraction
-quickAnswer: Climb the Arc de Triomphe at Place Charles de Gaulle for one of the best skyline views in Paris — the Champs-Élysées stretching one way, the Grande Arche de la Défense the other. It's open daily (Monday, Wednesday–Sunday 10am–11pm; Tuesday from 11am), and the calmest hours are earlier in the day, before the 1pm–8pm weekend crush. Reach it via the pedestrian underpass at Charles de Gaulle–Étoile — never cross the roundabout on foot.
+quickAnswer: >-
+  Climb the Arc de Triomphe at Place Charles de Gaulle for one of the best
+  skyline views in Paris — the Champs-Élysées stretching one way, the Grande
+  Arche de la Défense the other. It's open daily (Monday, Wednesday–Sunday
+  10am–11pm; Tuesday from 11am), and the calmest hours are earlier in the day,
+  before the 1pm–8pm weekend crush. Reach it via the pedestrian underpass at
+  Charles de Gaulle–Étoile — never cross the roundabout on foot.
 faq:
   - q: What are the opening hours?
-    a: 10am–11pm Monday and Wednesday through Sunday; Tuesdays it opens later, at 11am. Last access to the tower is typically about 45 minutes before closing, so don't cut it too fine.
+    a: >-
+      10am–11pm Monday and Wednesday through Sunday; Tuesdays it opens later, at
+      11am. Last access to the tower is typically about 45 minutes before
+      closing, so don't cut it too fine.
   - q: When is the quietest time to visit?
-    a: Mornings and evenings, any day of the week — the crowd data shows weekends get heavily busy from 1pm to 8pm, so arriving near opening or in the last couple of hours before closing avoids the worst of it.
+    a: >-
+      Mornings and evenings, any day of the week — the crowd data shows weekends
+      get heavily busy from 1pm to 8pm, so arriving near opening or in the last
+      couple of hours before closing avoids the worst of it.
   - q: How do I get to the Arc de Triomphe?
-    a: Take the metro/RER to Charles de Gaulle–Étoile (Lines 1, 2, 6, or RER A) and follow signs to the underground pedestrian passage — do not try to cross the traffic circle on foot.
+    a: >-
+      Take the metro/RER to Charles de Gaulle–Étoile (Lines 1, 2, 6, or RER A)
+      and follow signs to the underground pedestrian passage — do not try to
+      cross the traffic circle on foot.
   - q: How long should I plan for the visit?
-    a: Most visitors spend 45 minutes to an hour, including the ticket line, the 284-step climb, and time at the top for photos.
+    a: >-
+      Most visitors spend 45 minutes to an hour, including the ticket line, the
+      284-step climb, and time at the top for photos.
   - q: What's nearby to combine with the visit?
-    a: It sits at the top of the Champs-Élysées, so it pairs naturally with a walk down toward Place de la Concorde, or a stroll through the Avenue Foch and Bois de Boulogne direction on the opposite side.
+    a: >-
+      It sits at the top of the Champs-Élysées, so it pairs naturally with a
+      walk down toward Place de la Concorde, or a stroll through the Avenue Foch
+      and Bois de Boulogne direction on the opposite side.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-27'
 ---
 
 ## Why go

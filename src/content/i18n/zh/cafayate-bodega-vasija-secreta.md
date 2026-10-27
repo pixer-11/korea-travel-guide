@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: cafayate-bodega-vasija-secreta
-srcHash: '0525b0e467a9'
+srcHash: '319e2ecd19f4'
 title: 卡法亚特秘密陶罐酒庄（Bodega Vasija Secreta）旅行指南（4.5★）
-description: 秘密陶罐酒庄（Bodega Vasija Secreta）是阿根廷萨尔塔省卡法亚特的一家老牌酒庄，坐落在城北入口的40号国道（Ruta 40）旁，从镇中心广场打车或骑车很快就到。评分4.5★（2,930条评价）。本文汇总游客评价、开放时间和实用建议。
+description: 秘密陶罐酒庄（Bodega Vasija Secreta）是阿根廷萨尔塔省卡法亚特的一家老牌酒庄，坐落在城北入口的40号国道（Ruta 40）旁，从镇中心广场打车或骑车很快就到。评分4.5★（2,933条评价）。本文汇总游客评价、开放时间和实用建议。
 quickAnswer: 秘密陶罐酒庄（Bodega Vasija Secreta）是阿根廷萨尔塔省卡法亚特（Cafayate）的一家老牌酒庄，位于城北入口的40号国道（Ruta 40）旁，从镇中心广场打车或骑车很快就到。本周每天开放，时间为9:00 AM–5:30 PM。建议上午前往，先品一轮特浓情（Torrontés），再去同一段公路上的其他酒庄逛逛。
 faq:
   - q: 秘密陶罐酒庄具体在哪里？

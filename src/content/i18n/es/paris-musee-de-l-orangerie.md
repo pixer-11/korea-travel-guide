@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: paris-musee-de-l-orangerie
-srcHash: 'be75bacf908d'
+srcHash: '06740660456b'
 title: 'Museo de la Orangerie: Guía de Viaje de París (4,6★)'
-description: 'El Museo de la Orangerie se encuentra en el extremo occidental del Jardín de las Tullerías, en pleno centro de París, justo al lado de la Plaza de la Concordia. 4,6★ (24.793 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Museo de la Orangerie se encuentra en el extremo occidental del Jardín de las Tullerías, en pleno centro de París, justo al lado de la Plaza de la Concordia. 4,6★ (25.243 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo de la Orangerie se encuentra en el extremo occidental del Jardín de las Tullerías, en pleno centro de París, justo al lado de la Plaza de la Concordia. Su eje central son los ocho murales de los Nenúfares de Monet, expuestos en dos salas ovaladas diseñadas según sus propias indicaciones. El museo cierra los martes y abre de 9:00 a 18:00 el resto de la semana; los fines de semana, entre las 11:00 y las 18:00, se llena rápidamente.
 faq:
   - q: ¿Abre el Museo de la Orangerie todos los días?

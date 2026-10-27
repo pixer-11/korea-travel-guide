@@ -1,27 +1,35 @@
 ---
 title: 'Notre-Dame Cathedral of Paris: Travel Guide'
-description: Notre-Dame reopened to visitors in December 2024 after the 2019 fire and restoration, and it's once again one of the most-visited sights in Paris — so aim for the doors right at opening (7:50am weekdays, 8:15am weekends) or, on Thursdays, take advantage of the extended 10pm hours.
+description: >-
+  Notre-Dame reopened to visitors in December 2024 after the 2019 fire and
+  restoration, and it's once again one of the most-visited sights in Paris — so
+  aim for the doors right at opening (7:50am weekdays, 8:15am weekends) or, on
+  Thursdays, take advantage of the extended 10pm hours.
 country: France
 region: Paris
 category: attraction
 pubDate: '2026-08-02T09:26:12.902Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Notre_Dame_Paris_front_facade_lower.jpg/1920px-Notre_Dame_Paris_front_facade_lower.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Notre_Dame_Paris_front_facade_lower.jpg/1920px-Notre_Dame_Paris_front_facade_lower.jpg
   credit: 'Photo: Benh LIEU SONG / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Notre_Dame_Paris_front_facade_lower.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Notre_Dame_Paris_front_facade_lower.jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Paris_Notre-Dame_East_View_02.JPG/3840px-Paris_Notre-Dame_East_View_02.JPG
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Paris_Notre-Dame_East_View_02.JPG/3840px-Paris_Notre-Dame_East_View_02.JPG
     credit: 'Photo: Uoaei1 / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Paris_Notre-Dame_East_View_02.JPG
+    source: 'https://commons.wikimedia.org/wiki/File:Paris_Notre-Dame_East_View_02.JPG'
 place:
   id: ChIJATr1n-Fx5kcRjQb6q6cdQDY
   name: Notre-Dame Cathedral of Paris
-  address: 6 Parvis Notre-Dame - Pl. Jean-Paul II, 75004 Paris, France
+  address: '6 Parvis Notre-Dame - Pl. Jean-Paul II, 75004 Paris, France'
   rating: 4.7
-  userRatingsTotal: 96950
-  googleMapsUrl: https://maps.google.com/?cid=3909157082539624077&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 102742
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3909157082539624077&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 48.85296820000001
   lng: 2.3499021
@@ -36,12 +44,16 @@ place:
     - 'Sunday: 8:15 AM – 7:30 PM'
   busyness:
     updated: 2026-08-02T00:00:00.000Z
-    weekdayQuiet: [8, 9, 19]
+    weekdayQuiet:
+      - 8
+      - 9
+      - 19
     weekdayBusy:
       - 13
       - 14
       - 15
-    weekendQuiet: [9]
+    weekendQuiet:
+      - 9
     weekendBusy:
       - 11
       - 12
@@ -54,20 +66,45 @@ place:
 tags:
   - paris
   - Notre-Dame Cathedral
-quickAnswer: Notre-Dame reopened to visitors in December 2024 after the 2019 fire and restoration, and it's once again one of the most-visited sights in Paris — so aim for the doors right at opening (7:50am weekdays, 8:15am weekends) or, on Thursdays, take advantage of the extended 10pm hours. Weekend mornings between 8:15am and 10am are the calmest window; avoid 11am–6pm on Saturdays and Sundays when queues stretch across the parvis. Entry to the nave is free, and you'll want 45 minutes to an hour inside plus time to circle the exterior.
+quickAnswer: >-
+  Notre-Dame reopened to visitors in December 2024 after the 2019 fire and
+  restoration, and it's once again one of the most-visited sights in Paris — so
+  aim for the doors right at opening (7:50am weekdays, 8:15am weekends) or, on
+  Thursdays, take advantage of the extended 10pm hours. Weekend mornings between
+  8:15am and 10am are the calmest window; avoid 11am–6pm on Saturdays and
+  Sundays when queues stretch across the parvis. Entry to the nave is free, and
+  you'll want 45 minutes to an hour inside plus time to circle the exterior.
 faq:
   - q: Do I need to book tickets in advance?
-    a: No advance booking is required for general visits — entry to the nave is free and works on a walk-in queue basis. Special access (towers, treasury) may have separate arrangements, so check the official Notre-Dame website before you go.
+    a: >-
+      No advance booking is required for general visits — entry to the nave is
+      free and works on a walk-in queue basis. Special access (towers, treasury)
+      may have separate arrangements, so check the official Notre-Dame website
+      before you go.
   - q: What's the quietest time to visit?
-    a: On weekdays it stays relatively calm all day, from opening at 7:50am until closing (7pm, or 10pm on Thursdays). On weekends the only real quiet window is 8:15am–10am, right after opening — after 11am, queues build until around 6pm.
+    a: >-
+      On weekdays it stays relatively calm all day, from opening at 7:50am until
+      closing (7pm, or 10pm on Thursdays). On weekends the only real quiet
+      window is 8:15am–10am, right after opening — after 11am, queues build
+      until around 6pm.
   - q: How long should I plan for the visit?
-    a: Budget 45 minutes to an hour for the interior, plus extra time to walk the exterior and see the flying buttresses from Square Jean XXIII behind the apse.
+    a: >-
+      Budget 45 minutes to an hour for the interior, plus extra time to walk the
+      exterior and see the flying buttresses from Square Jean XXIII behind the
+      apse.
   - q: What's the closest metro station?
-    a: Cité station on Line 4 is closest, a short walk across the Pont au Double. Saint-Michel–Notre-Dame (Line 4 and RER B/C) is another good option from the Left Bank.
+    a: >-
+      Cité station on Line 4 is closest, a short walk across the Pont au Double.
+      Saint-Michel–Notre-Dame (Line 4 and RER B/C) is another good option from
+      the Left Bank.
   - q: Is Notre-Dame fully open after the restoration?
-    a: Yes, the cathedral reopened to the public in December 2024 following the restoration after the 2019 fire. Interior areas may still see occasional adjustments, so it's worth confirming current hours before visiting.
+    a: >-
+      Yes, the cathedral reopened to the public in December 2024 following the
+      restoration after the 2019 fire. Interior areas may still see occasional
+      adjustments, so it's worth confirming current hours before visiting.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-27'
 ---
 ## Why go
 

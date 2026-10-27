@@ -1,24 +1,34 @@
 ---
 title: 'Les Deux Magots: Paris Travel Guide (4.2★)'
-description: Les Deux Magots is the legendary Saint-Germain-des-Prés café-brasserie (open daily 7:30am–1am) famous for its literary past and prime people-watching terrace. It's on the pricier side and always busy, so aim for early morning or after 9pm — weekends get packed from noon to 9pm. 4.2★ (12,019 reviews) — what visitors say, hours, and tips.
+description: >-
+  Les Deux Magots is the legendary Saint-Germain-des-Prés café-brasserie (open
+  daily 7:30am–1am) famous for its literary past and prime people-watching
+  terrace. It's on the pricier side and always busy, so aim for early morning or
+  after 9pm — weekends get packed from noon to 9pm. 4.2★ (12,433 reviews) — what
+  visitors say, hours, and tips.
 country: France
 region: Paris
 category: trendy
 pubDate: '2026-08-03T10:58:51.699Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Les_Deux_Magots%2C_25_September_2019.jpg/1920px-Les_Deux_Magots%2C_25_September_2019.jpg
-  credit: 'Photo: Cheng-en Cheng from Taichung City, Taiwan / Wikimedia Commons (CC BY-SA 2.0)'
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Les_Deux_Magots%2C_25_September_2019.jpg/1920px-Les_Deux_Magots%2C_25_September_2019.jpg
+  credit: >-
+    Photo: Cheng-en Cheng from Taichung City, Taiwan / Wikimedia Commons (CC
+    BY-SA 2.0)
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Les_Deux_Magots,_25_September_2019.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Les_Deux_Magots,_25_September_2019.jpg
 gallery: []
 place:
   id: ChIJLeslLNhx5kcRtkpSU9ZmNvo
   name: Les Deux Magots
-  address: 6 Pl. Saint-Germain des Prés, 75006 Paris, France
+  address: '6 Pl. Saint-Germain des Prés, 75006 Paris, France'
   rating: 4.2
-  userRatingsTotal: 12019
-  priceLevel: 3
-  googleMapsUrl: https://maps.google.com/?cid=18029711228931295926&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 12433
+  priceLevel: 2
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=18029711228931295926&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 48.854051999999996
   lng: 2.3331062
@@ -33,13 +43,18 @@ place:
     - 'Sunday: 7:30 AM – 1:00 AM'
   busyness:
     updated: 2026-08-03T00:00:00.000Z
-    weekdayQuiet: [8, 9, 22]
+    weekdayQuiet:
+      - 8
+      - 9
+      - 22
     weekdayBusy:
       - 15
       - 16
       - 17
       - 18
-    weekendQuiet: [8, 22]
+    weekendQuiet:
+      - 8
+      - 22
     weekendBusy:
       - 12
       - 13
@@ -54,20 +69,38 @@ place:
 tags:
   - paris
   - trendy cafe
-quickAnswer: Les Deux Magots is the legendary Saint-Germain-des-Prés café-brasserie (open daily 7:30am–1am) famous for its literary past and prime people-watching terrace. It's on the pricier side and always busy, so aim for early morning or after 9pm — weekends get packed from noon to 9pm. Budget 45–90 minutes for a coffee or full meal.
+quickAnswer: >-
+  Les Deux Magots is the legendary Saint-Germain-des-Prés café-brasserie (open
+  daily 7:30am–1am) famous for its literary past and prime people-watching
+  terrace. It's on the pricier side and always busy, so aim for early morning or
+  after 9pm — weekends get packed from noon to 9pm. Budget 45–90 minutes for a
+  coffee or full meal.
 faq:
   - q: What's the nearest metro station?
-    a: Saint-Germain-des-Prés on Line 4, about a 2-minute walk from the café's front terrace.
+    a: >-
+      Saint-Germain-des-Prés on Line 4, about a 2-minute walk from the café's
+      front terrace.
   - q: How much should I budget?
-    a: It's on the pricier side for Paris cafés — a coffee costs noticeably more than a neighborhood bistro, and a full meal with wine can run into the higher end of brasserie pricing. You're paying partly for the address and history.
+    a: >-
+      It's on the pricier side for Paris cafés — a coffee costs noticeably more
+      than a neighborhood bistro, and a full meal with wine can run into the
+      higher end of brasserie pricing. You're paying partly for the address and
+      history.
   - q: When is it quietest?
-    a: Early morning, roughly 7:30am to 11am, on both weekdays and weekends. After 9pm also tends to be calmer than midday.
+    a: >-
+      Early morning, roughly 7:30am to 11am, on both weekdays and weekends.
+      After 9pm also tends to be calmer than midday.
   - q: What time should I avoid?
-    a: Weekends from noon to 9pm are the busiest stretch, with the terrace often full and short waits for a table.
+    a: >-
+      Weekends from noon to 9pm are the busiest stretch, with the terrace often
+      full and short waits for a table.
   - q: How long should I plan to stay?
-    a: A coffee or hot chocolate takes about 30–45 minutes; a full sit-down meal is closer to 90 minutes given the leisurely brasserie pace.
+    a: >-
+      A coffee or hot chocolate takes about 30–45 minutes; a full sit-down meal
+      is closer to 90 minutes given the leisurely brasserie pace.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-27'
 ---
 ## Why go
 

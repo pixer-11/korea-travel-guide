@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: buenos-aires-jardin-botanico-carlos-thays
-srcHash: 'c98f27a237c5'
+srcHash: '230d311ad5bf'
 title: 卡洛斯·泰斯植物园：布宜诺斯艾利斯旅行指南
-description: 卡洛斯·泰斯植物园位于布宜诺斯艾利斯巴勒莫区Av. Santa Fe 3957，紧邻地铁D线意大利广场站。周末上午10点至11点最清静，下午2点至6点人最多。4.6★（67,054条评价），游客口碑、开放时间与游览建议一览。
+description: 卡洛斯·泰斯植物园位于布宜诺斯艾利斯巴勒莫区Av. Santa Fe 3957，紧邻地铁D线意大利广场站。周末上午10点至11点最清静，下午2点至6点人最多。4.6★（67,059条评价），游客口碑、开放时间与游览建议一览。
 quickAnswer: 卡洛斯·泰斯植物园（Jardín Botánico Carlos Thays）位于布宜诺斯艾利斯巴勒莫区Av. Santa Fe 3957，就在地铁D线意大利广场（Plaza Italia）站旁边。周末上午10点至11点游人最少，下午2点至6点最为拥挤。园区周一闭园，目前工作日早上8点开门，周末上午9:30开门。
 faq:
   - q: 什么时候去卡洛斯·泰斯植物园人最少？

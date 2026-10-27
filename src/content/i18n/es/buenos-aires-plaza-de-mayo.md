@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: buenos-aires-plaza-de-mayo
-srcHash: '5ca606b19b6e'
+srcHash: 'edbb4df55d05'
 title: 'Plaza de Mayo: guía de viaje de Buenos Aires (4.6★)'
-description: 'Entre los barrios de Monserrat y San Nicolás se extiende la Plaza de Mayo, la plaza principal de Buenos Aires, con la rosada Casa Rosada a un lado y el blanco Cabildo al otro. 4.6★ (143,619 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'Entre los barrios de Monserrat y San Nicolás se extiende la Plaza de Mayo, la plaza principal de Buenos Aires, con la rosada Casa Rosada a un lado y el blanco Cabildo al otro. 4.6★ (143,637 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Entre los barrios de Monserrat y San Nicolás se extiende la Plaza de Mayo, la plaza principal de Buenos Aires, con la rosada Casa Rosada a un lado y el blanco Cabildo al otro. Para llegar, puede tomar la línea A del Subte hasta Plaza de Mayo, la línea D hasta Catedral o la línea E hasta Bolívar. Con una hora es suficiente. Si viene un jueves por la tarde, podrá ver la ronda de las Madres de Plaza de Mayo.
 faq:
   - q: ¿Qué estación del Subte queda más cerca de la Plaza de Mayo?

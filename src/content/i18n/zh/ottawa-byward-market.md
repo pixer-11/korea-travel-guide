@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: ottawa-byward-market
-srcHash: '83415d5e1b86'
+srcHash: '90bfc58b5659'
 title: 拜沃德市场：渥太华旅行指南（4.4★）
-description: 拜沃德市场（ByWard Market）是渥太华历史最悠久的公共市场，自1826年开市至今。市场位于下城区，从O-Train 1号线里多站步行片刻即到。评分4.4★（8,651条评价），本文汇总游客评价、开放时间与实用贴士。
+description: 拜沃德市场（ByWard Market）是渥太华历史最悠久的公共市场，自1826年开市至今。市场位于下城区，从O-Train 1号线里多站步行片刻即到。评分4.4★（8,653条评价），本文汇总游客评价、开放时间与实用贴士。
 quickAnswer: 拜沃德市场（ByWard Market）是渥太华历史最悠久的公共市场，1826年开市至今，坐落在下城区（Lowertown），从O-Train 1号线里多站（Rideau Station）步行几分钟即到。市场大楼位于55 Byward Market Square，本周每天上午10点至下午6点开放。想避开人潮，最好选工作日的上午10点到中午12点或下午5点到6点前往。周末中午12点到下午6点人最多，尽量别去。
 faq:
   - q: 拜沃德市场什么时候去人最少？

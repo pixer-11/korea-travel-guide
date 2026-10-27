@@ -1,32 +1,39 @@
 ---
-title: "Eiffel Tower: Paris Travel Guide"
-description: Buy timed-entry tickets online in advance (booking opens roughly 60-90 days ahead) and go either at opening (9am) or after sunset for the light show.
+title: 'Eiffel Tower: Paris Travel Guide'
+description: >-
+  Buy timed-entry tickets online in advance (booking opens roughly 60-90 days
+  ahead) and go either at opening (9am) or after sunset for the light show.
 country: France
 region: Paris
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Paris_-_The_Eiffel_Tower_in_spring_-_2307.jpg/1920px-Paris_-_The_Eiffel_Tower_in_spring_-_2307.jpg
-  credit: "Photo: Jorge Royan / Wikimedia Commons (CC BY-SA 3.0)"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Paris_-_The_Eiffel_Tower_in_spring_-_2307.jpg/1920px-Paris_-_The_Eiffel_Tower_in_spring_-_2307.jpg
+  credit: 'Photo: Jorge Royan / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Paris_-_The_Eiffel_Tower_in_spring_-_2307.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Paris_-_The_Eiffel_Tower_in_spring_-_2307.jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Eiffel_Tower_and_Pont_Alexandre_III_at_night.jpg/1920px-Eiffel_Tower_and_Pont_Alexandre_III_at_night.jpg
-    credit: "Photo: Getfunky Paris / Wikimedia Commons (CC BY 2.0)"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Eiffel_Tower_and_Pont_Alexandre_III_at_night.jpg/1920px-Eiffel_Tower_and_Pont_Alexandre_III_at_night.jpg
+    credit: 'Photo: Getfunky Paris / Wikimedia Commons (CC BY 2.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Eiffel_Tower_and_Pont_Alexandre_III_at_night.jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Eiffel_Tower_and_Pont_Alexandre_III_at_night.jpg
 place:
   id: ChIJLU7jZClu5kcR4PcOOO6p3I0
   name: Eiffel Tower
-  address: Av. Gustave Eiffel, 75007 Paris, France
+  address: 'Av. Gustave Eiffel, 75007 Paris, France'
   rating: 4.7
-  userRatingsTotal: 492579
-  googleMapsUrl: https://maps.google.com/?cid=10222232094831998944&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 499212
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10222232094831998944&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 48.858370099999995
   lng: 2.2944812999999997
   busyness:
-    updated: "2026-07-23"
+    updated: '2026-07-23'
     weekdayQuiet:
       - 9
       - 10
@@ -45,30 +52,49 @@ place:
       - 22
     venueId: ven_30493370364f4f4f63503452636b35756c435a6a37554c4a496843
   openingHours:
-    - "Monday: 9:00 AM – 12:00 AM"
-    - "Tuesday: 9:00 AM – 12:00 AM"
-    - "Wednesday: 9:00 AM – 12:00 AM"
-    - "Thursday: 9:00 AM – 12:00 AM"
-    - "Friday: 9:00 AM – 12:00 AM"
-    - "Saturday: 9:00 AM – 12:00 AM"
-    - "Sunday: 9:00 AM – 12:00 AM"
+    - 'Monday: 9:00 AM – 12:00 AM'
+    - 'Tuesday: 9:00 AM – 12:00 AM'
+    - 'Wednesday: 9:00 AM – 12:00 AM'
+    - 'Thursday: 9:00 AM – 12:00 AM'
+    - 'Friday: 9:00 AM – 12:00 AM'
+    - 'Saturday: 9:00 AM – 12:00 AM'
+    - 'Sunday: 9:00 AM – 12:00 AM'
 tags:
   - paris
   - Eiffel Tower
-quickAnswer: Buy timed-entry tickets online in advance (booking opens roughly 60-90 days ahead) and go either at opening (9am) or after sunset for the light show. Budget 2-3 hours including security lines, and choose the stairs to the 2nd floor if you want a cheaper, faster, more active option than the elevator queue. The nearest metro stops are Bir-Hakeim (Line 6) and Trocadéro (Line 9), both a short walk with classic photo views.
+quickAnswer: >-
+  Buy timed-entry tickets online in advance (booking opens roughly 60-90 days
+  ahead) and go either at opening (9am) or after sunset for the light show.
+  Budget 2-3 hours including security lines, and choose the stairs to the 2nd
+  floor if you want a cheaper, faster, more active option than the elevator
+  queue. The nearest metro stops are Bir-Hakeim (Line 6) and Trocadéro (Line 9),
+  both a short walk with classic photo views.
 faq:
   - q: How do I get to the Eiffel Tower by metro?
-    a: Take Line 6 to Bir-Hakeim or Line 9 to Trocadéro — both are a short walk from the tower. RER C to Champ de Mars–Tour Eiffel is another good option.
+    a: >-
+      Take Line 6 to Bir-Hakeim or Line 9 to Trocadéro — both are a short walk
+      from the tower. RER C to Champ de Mars–Tour Eiffel is another good option.
   - q: Should I book tickets in advance?
-    a: Yes. Online booking opens roughly 60-90 days ahead and walk-up lines can exceed an hour. Stair tickets to the 2nd floor are usually cheaper and less crowded than elevator tickets.
+    a: >-
+      Yes. Online booking opens roughly 60-90 days ahead and walk-up lines can
+      exceed an hour. Stair tickets to the 2nd floor are usually cheaper and
+      less crowded than elevator tickets.
   - q: How long should I plan for a visit?
-    a: Budget 2-3 hours total, including the mandatory security screening at the entrance and time in the elevator or stair queues.
+    a: >-
+      Budget 2-3 hours total, including the mandatory security screening at the
+      entrance and time in the elevator or stair queues.
   - q: What's the best time of day to visit?
-    a: Right at the 9am opening or after sunset, when the tower is lit and the light show sparkles for five minutes every hour until midnight.
+    a: >-
+      Right at the 9am opening or after sunset, when the tower is lit and the
+      light show sparkles for five minutes every hour until midnight.
   - q: Is it worth climbing the stairs instead of taking the elevator?
-    a: The stairs (about 300-400 steps) only go to the 2nd floor and are often faster and cheaper than elevator tickets; the summit above that is accessible by elevator only.
+    a: >-
+      The stairs (about 300-400 steps) only go to the 2nd floor and are often
+      faster and cheaper than elevator tickets; the summit above that is
+      accessible by elevator only.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-27'
 ---
 
 ## Why go

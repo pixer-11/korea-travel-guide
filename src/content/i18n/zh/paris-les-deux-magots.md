@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: paris-les-deux-magots
-srcHash: '91c7e5e75118'
+srcHash: '4223617054e0'
 title: 花神咖啡馆(Les Deux Magots):巴黎旅行指南(4.2★)
-description: 花神咖啡馆(Les Deux Magots)是圣日耳曼德佩区(Saint-Germain-des-Prés)传奇的咖啡馆兼餐酒馆(brasserie,每日7:30–凌晨1:00营业),以其文学历史和绝佳的观景露台闻名。这里消费偏高且总是人满为患，建议清晨或晚上9点后前往——周末从正午到晚上9点都十分拥挤。4.2★(12,019条评价)——看看游客怎么说、营业时间及实用贴士。
+description: 花神咖啡馆(Les Deux Magots)是圣日耳曼德佩区(Saint-Germain-des-Prés)传奇的咖啡馆兼餐酒馆(brasserie,每日7:30–凌晨1:00营业),以其文学历史和绝佳的观景露台闻名。这里消费偏高且总是人满为患，建议清晨或晚上9点后前往——周末从正午到晚上9点都十分拥挤。4.2★(12,433条评价)——看看游客怎么说、营业时间及实用贴士。
 quickAnswer: 花神咖啡馆(Les Deux Magots)是圣日耳曼德佩区(Saint-Germain-des-Prés)传奇的咖啡馆兼餐酒馆(brasserie,每日7:30–凌晨1:00营业),以其文学历史和绝佳的观景露台闻名。这里消费偏高且总是人满为患，建议清晨或晚上9点后前往——周末从正午到晚上9点都十分拥挤。喝咖啡或用一顿正餐，预留45–90分钟。
 faq:
   - q: 最近的地铁站是哪个?

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: paracas-reserva-nacional-de-paracas
-srcHash: '988d948c5484'
+srcHash: '34200027dc08'
 title: 'Reserva Nacional de Paracas: guía de viaje (4.6★)'
-description: 'Al sur del pueblo de Paracas, en la costa sur del Perú, se extiende la Reserva Nacional de Paracas, una reserva de desierto costero. 4.6★ (7,450 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'Al sur del pueblo de Paracas, en la costa sur del Perú, se extiende la Reserva Nacional de Paracas, una reserva de desierto costero. 4.6★ (7,451 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'Justo al sur del pueblo de Paracas, en la costa sur del Perú, se encuentra la Reserva Nacional de Paracas, una reserva de desierto costero. A la mayoría de los visitantes les basta medio día para recorrerla: Playa Roja, el mirador de La Catedral y un almuerzo en Lagunillas. Conviene llegar a primera hora de la mañana, ya que el viento de Paracas suele arreciar a lo largo de la tarde. Según Google, la reserva abre actualmente de 9:00 AM a 4:00 PM.'
 faq:
   - q: ¿Cómo se llega a la Reserva Nacional de Paracas desde Lima?

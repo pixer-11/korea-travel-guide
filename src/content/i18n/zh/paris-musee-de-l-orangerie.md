@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: paris-musee-de-l-orangerie
-srcHash: 'be75bacf908d'
+srcHash: '06740660456b'
 title: 奥赛橘园美术馆（Musée de l'Orangerie）：巴黎游览指南（4.6★）
-description: 橘园美术馆位于巴黎市中心杜乐丽花园（Jardin des Tuileries）西端，紧邻协和广场（Place de la Concorde）。4.6★（24,793条评价）——看看游客怎么说，附开放时间与实用建议。
+description: 橘园美术馆位于巴黎市中心杜乐丽花园（Jardin des Tuileries）西端，紧邻协和广场（Place de la Concorde）。4.6★（25,243条评价）——看看游客怎么说，附开放时间与实用建议。
 quickAnswer: 橘园美术馆坐落在巴黎市中心杜乐丽花园西端，紧邻协和广场。馆内核心是莫奈（Monet）的八幅《睡莲》（Water Lilies）壁画，分别陈列在两间按他本人要求设计的椭圆形展厅中。美术馆周二闭馆，其余每天开放时间为上午9点至下午6点，周末上午11点到下午6点这段时间人流最为集中。
 faq:
   - q: 橘园美术馆是每天都开放吗？

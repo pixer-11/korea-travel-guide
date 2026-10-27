@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: buenos-aires-plaza-de-mayo
-srcHash: '5ca606b19b6e'
+srcHash: 'edbb4df55d05'
 title: 五月广场：布宜诺斯艾利斯旅行指南（4.6★）
-description: 五月广场（Plaza de Mayo）是布宜诺斯艾利斯的主广场，地跨蒙塞拉特区与圣尼古拉斯区，一侧是粉红色的玫瑰宫，另一侧是白色的殖民时期市政厅。评分4.6★（143,619条评价），游客口碑、开放时间和实用贴士都在这里。
+description: 五月广场（Plaza de Mayo）是布宜诺斯艾利斯的主广场，地跨蒙塞拉特区与圣尼古拉斯区，一侧是粉红色的玫瑰宫，另一侧是白色的殖民时期市政厅。评分4.6★（143,637条评价），游客口碑、开放时间和实用贴士都在这里。
 quickAnswer: 五月广场（Plaza de Mayo）是布宜诺斯艾利斯的主广场，地跨蒙塞拉特区（Monserrat）与圣尼古拉斯区（San Nicolás）。粉红色的玫瑰宫（Casa Rosada）和白色的殖民时期市政厅（Cabildo）分立广场两侧。乘地铁A线到五月广场站（Plaza de Mayo）、D线到主教座堂站（Catedral）或E线到玻利瓦尔站（Bolívar）均可抵达。游览约需一小时；若赶上周四下午前来，还能看到“五月广场母亲”的绕行。
 faq:
   - q: 离五月广场最近的地铁站是哪个？

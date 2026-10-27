@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: cafayate-bodega-vasija-secreta
-srcHash: '0525b0e467a9'
+srcHash: '319e2ecd19f4'
 title: 'Bodega Vasija Secreta: guía de viaje de Cafayate (4.5★)'
-description: 'En la entrada norte de Cafayate, sobre la Ruta 40, se encuentra Bodega Vasija Secreta, una bodega de larga trayectoria en la provincia argentina de Salta, a poca distancia en taxi o bicicleta de la plaza del pueblo. 4.5★ (2,930 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En la entrada norte de Cafayate, sobre la Ruta 40, se encuentra Bodega Vasija Secreta, una bodega de larga trayectoria en la provincia argentina de Salta, a poca distancia en taxi o bicicleta de la plaza del pueblo. 4.5★ (2,933 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En la entrada norte de Cafayate, sobre la Ruta 40, se encuentra Bodega Vasija Secreta, una bodega de larga trayectoria en la provincia argentina de Salta. Desde la plaza del pueblo se llega en pocos minutos en taxi o bicicleta. Esta semana abre todos los días de 9:00 AM a 5:30 PM. Le conviene ir por la mañana para degustar un Torrontés antes de recorrer las demás bodegas de ese mismo tramo de la ruta.
 faq:
   - q: ¿Dónde está exactamente Bodega Vasija Secreta?

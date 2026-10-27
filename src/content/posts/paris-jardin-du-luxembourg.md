@@ -1,59 +1,88 @@
 ---
-title: "Jardin du Luxembourg: Paris Travel Guide (4.7★)"
-description: "Jardin du Luxembourg sits in the 6th arrondissement of Paris, between Saint-Germain-des-Prés and the Latin Quarter, and it's open daily from 7:30am to as late as 9:30pm in summer. 4.7★ (128,928 reviews) — what visitors say, hours, and tips."
-country: "France"
-region: "Paris"
-category: "attraction"
-pubDate: "2026-09-09T07:37:51.948Z"
+title: 'Jardin du Luxembourg: Paris Travel Guide (4.7★)'
+description: >-
+  Jardin du Luxembourg sits in the 6th arrondissement of Paris, between
+  Saint-Germain-des-Prés and the Latin Quarter, and it's open daily from 7:30am
+  to as late as 9:30pm in summer. 4.7★ (130,239 reviews) — what visitors say,
+  hours, and tips.
+country: France
+region: Paris
+category: attraction
+pubDate: '2026-09-09T07:37:51.948Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LuxembourgMontparnasse.JPG/1920px-LuxembourgMontparnasse.JPG"
-  credit: "Photo: Kirua / Wikimedia Commons (Public domain)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:LuxembourgMontparnasse.JPG"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LuxembourgMontparnasse.JPG/1920px-LuxembourgMontparnasse.JPG
+  credit: 'Photo: Kirua / Wikimedia Commons (Public domain)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:LuxembourgMontparnasse.JPG'
   focus:
     x: 45
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/6082867_WUDxtA2tex6LbzjdWJynf-6DJIJKu3FAqY80OsgNFaw.jpg"
-    credit: "Photo: Foursquare user content (Luxembourg Garden (Jardin du Luxembourg))"
-    license: "foursquare"
-    source: "https://foursquare.com/v/4ba8b203f964a520a6e739e3"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/6082867_WUDxtA2tex6LbzjdWJynf-6DJIJKu3FAqY80OsgNFaw.jpg
+    credit: 'Photo: Foursquare user content (Luxembourg Garden (Jardin du Luxembourg))'
+    license: foursquare
+    source: 'https://foursquare.com/v/4ba8b203f964a520a6e739e3'
 place:
-  id: "ChIJe2jeNttx5kcRi_mJsGHdkQc"
-  name: "Jardin du Luxembourg"
-  address: "75006 Paris, France"
+  id: ChIJe2jeNttx5kcRi_mJsGHdkQc
+  name: Jardin du Luxembourg
+  address: '75006 Paris, France'
   rating: 4.7
-  userRatingsTotal: 128928
-  googleMapsUrl: "https://maps.google.com/?cid=545460441531939211&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 130239
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=545460441531939211&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 48.8466144
   lng: 2.3363309
-  phone: "+33 1 42 34 20 00"
+  phone: +33 1 42 34 20 00
   openingHours:
-    - "Monday: 7:30 AM – 9:15 PM"
-    - "Tuesday: 7:30 AM – 9:30 PM"
-    - "Wednesday: 7:30 AM – 9:30 PM"
-    - "Thursday: 7:30 AM – 9:30 PM"
-    - "Friday: 7:30 AM – 9:15 PM"
-    - "Saturday: 7:30 AM – 9:15 PM"
-    - "Sunday: 7:30 AM – 9:15 PM"
+    - 'Monday: 7:30 AM – 9:15 PM'
+    - 'Tuesday: 7:30 AM – 9:30 PM'
+    - 'Wednesday: 7:30 AM – 9:30 PM'
+    - 'Thursday: 7:30 AM – 9:30 PM'
+    - 'Friday: 7:30 AM – 9:15 PM'
+    - 'Saturday: 7:30 AM – 9:15 PM'
+    - 'Sunday: 7:30 AM – 9:15 PM'
 tags:
-  - "paris"
-  - "park"
-quickAnswer: "Jardin du Luxembourg sits in the 6th arrondissement of Paris, between Saint-Germain-des-Prés and the Latin Quarter, and it's open daily from 7:30am to as late as 9:30pm in summer. It's one of the most-visited gardens in the city, so aim for the early morning hours to get the gravel paths and the octagonal pond to yourself. Budget an hour for a walk-through, half a day if you want to claim a green chair and stay."
+  - paris
+  - park
+quickAnswer: >-
+  Jardin du Luxembourg sits in the 6th arrondissement of Paris, between
+  Saint-Germain-des-Prés and the Latin Quarter, and it's open daily from 7:30am
+  to as late as 9:30pm in summer. It's one of the most-visited gardens in the
+  city, so aim for the early morning hours to get the gravel paths and the
+  octagonal pond to yourself. Budget an hour for a walk-through, half a day if
+  you want to claim a green chair and stay.
 faq:
-  - q: "How do I get to Jardin du Luxembourg?"
-    a: "The closest stop is Luxembourg station on RER B, right at the Rue de Médicis entrance. Several Métro stations, including Saint-Sulpice (Line 4) and Odéon (Lines 4 and 10), are a 5-10 minute walk away."
-  - q: "Is Jardin du Luxembourg free to enter?"
-    a: "Yes, the garden itself is free and open to the public daily. Some individual attractions inside, like renting a toy sailboat for the pond or entering the puppet theatre, carry a small separate cost."
-  - q: "What time does the garden open and close?"
-    a: "It opens at 7:30am every day. Closing time shifts with the season, between 9:15pm and 9:30pm on weekdays in summer and slightly earlier, around 9:15pm, on Mondays, Fridays, weekends."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Go right at opening, around 7:30am, before tour groups and weekend crowds arrive. This is a very popular garden, so afternoons, especially on sunny weekends, get busy fast."
-  - q: "How long should I plan to spend there?"
-    a: "A walking loop past the main statues, the Grand Bassin, and the Medici Fountain takes about an hour. Bring a book or claim a green chair and you can easily spend half a day."
+  - q: How do I get to Jardin du Luxembourg?
+    a: >-
+      The closest stop is Luxembourg station on RER B, right at the Rue de
+      Médicis entrance. Several Métro stations, including Saint-Sulpice (Line 4)
+      and Odéon (Lines 4 and 10), are a 5-10 minute walk away.
+  - q: Is Jardin du Luxembourg free to enter?
+    a: >-
+      Yes, the garden itself is free and open to the public daily. Some
+      individual attractions inside, like renting a toy sailboat for the pond or
+      entering the puppet theatre, carry a small separate cost.
+  - q: What time does the garden open and close?
+    a: >-
+      It opens at 7:30am every day. Closing time shifts with the season, between
+      9:15pm and 9:30pm on weekdays in summer and slightly earlier, around
+      9:15pm, on Mondays, Fridays, weekends.
+  - q: When is the best time to visit to avoid crowds?
+    a: >-
+      Go right at opening, around 7:30am, before tour groups and weekend crowds
+      arrive. This is a very popular garden, so afternoons, especially on sunny
+      weekends, get busy fast.
+  - q: How long should I plan to spend there?
+    a: >-
+      A walking loop past the main statues, the Grand Bassin, and the Medici
+      Fountain takes about an hour. Bring a book or claim a green chair and you
+      can easily spend half a day.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-27'
 ---
 
 Sixty acres of formal French garden sit behind the Palais du Luxembourg, laid out in the 1610s for Marie de Medici and still run on the same geometric logic four centuries later. Straight gravel allées converge on a central octagonal basin. Chestnut and lime trees are pruned into pattern, not left to sprawl. It reads less like a park you wander into and more like a plan you walk through.

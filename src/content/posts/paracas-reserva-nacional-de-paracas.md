@@ -1,58 +1,86 @@
 ---
-title: "Reserva Nacional de Paracas: Travel Guide (4.6★)"
-description: "Reserva Nacional de Paracas is the coastal desert reserve just south of Paracas town on Peru's south coast. 4.6★ (7,450 reviews) — what visitors say, hours, and tips."
-country: "Peru"
-region: "Paracas"
-category: "attraction"
-pubDate: "2026-10-27T15:22:19.370Z"
+title: 'Reserva Nacional de Paracas: Travel Guide (4.6★)'
+description: >-
+  Reserva Nacional de Paracas is the coastal desert reserve just south of
+  Paracas town on Peru's south coast. 4.6★ (7,451 reviews) — what visitors say,
+  hours, and tips.
+country: Peru
+region: Paracas
+category: attraction
+pubDate: '2026-10-27T15:22:19.370Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Paracas_National_Reserve._Ica%2C_Peru.jpg/1920px-Paracas_National_Reserve._Ica%2C_Peru.jpg"
-  credit: "Photo: masT3rOD / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Paracas_National_Reserve._Ica,_Peru.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Paracas_National_Reserve._Ica%2C_Peru.jpg/1920px-Paracas_National_Reserve._Ica%2C_Peru.jpg
+  credit: 'Photo: masT3rOD / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Paracas_National_Reserve._Ica,_Peru.jpg
   focus:
     x: 40
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Reserva_Nacional_de_Paracas%2C_Playa_Supay%2C_Ica%2C_Per%C3%BA.JPG/3840px-Reserva_Nacional_de_Paracas%2C_Playa_Supay%2C_Ica%2C_Per%C3%BA.JPG"
-    credit: "Photo: Josue Hermoza / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Reserva_Nacional_de_Paracas,_Playa_Supay,_Ica,_Per%C3%BA.JPG"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Reserva_Nacional_de_Paracas%2C_Playa_Supay%2C_Ica%2C_Per%C3%BA.JPG/3840px-Reserva_Nacional_de_Paracas%2C_Playa_Supay%2C_Ica%2C_Per%C3%BA.JPG
+    credit: 'Photo: Josue Hermoza / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Reserva_Nacional_de_Paracas,_Playa_Supay,_Ica,_Per%C3%BA.JPG
 place:
-  id: "ChIJa7gRqSrGEJEROYSpI65CTaU"
-  name: "Reserva Nacional de Paracas"
-  address: "Of. 102 c, Paracas C10, Paracas 11550, Peru"
+  id: ChIJa7gRqSrGEJEROYSpI65CTaU
+  name: Reserva Nacional de Paracas
+  address: 'Of. 102 c, Paracas C10, Paracas 11550, Peru'
   rating: 4.6
-  userRatingsTotal: 7450
-  googleMapsUrl: "https://maps.google.com/?cid=11911249905154884665&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 7451
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=11911249905154884665&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -13.9118585
   lng: -76.31833449999999
   openingHours:
-    - "Monday: 9:00 AM – 4:00 PM"
-    - "Tuesday: 9:00 AM – 4:00 PM"
-    - "Wednesday: 9:00 AM – 4:00 PM"
-    - "Thursday: 9:00 AM – 4:00 PM"
-    - "Friday: 9:00 AM – 4:00 PM"
-    - "Saturday: 9:00 AM – 4:00 PM"
-    - "Sunday: 9:00 AM – 4:00 PM"
+    - 'Monday: 9:00 AM – 4:00 PM'
+    - 'Tuesday: 9:00 AM – 4:00 PM'
+    - 'Wednesday: 9:00 AM – 4:00 PM'
+    - 'Thursday: 9:00 AM – 4:00 PM'
+    - 'Friday: 9:00 AM – 4:00 PM'
+    - 'Saturday: 9:00 AM – 4:00 PM'
+    - 'Sunday: 9:00 AM – 4:00 PM'
 tags:
-  - "paracas"
-  - "park"
-quickAnswer: "Reserva Nacional de Paracas is the coastal desert reserve just south of Paracas town on Peru's south coast. Most visitors see it in half a day: Playa Roja, the La Catedral viewpoint and lunch at Lagunillas. Get there early in the morning, because the Paracas wind usually builds through the afternoon, and Google currently lists the reserve as open 9:00 AM–4:00 PM."
+  - paracas
+  - park
+quickAnswer: >-
+  Reserva Nacional de Paracas is the coastal desert reserve just south of
+  Paracas town on Peru's south coast. Most visitors see it in half a day: Playa
+  Roja, the La Catedral viewpoint and lunch at Lagunillas. Get there early in
+  the morning, because the Paracas wind usually builds through the afternoon,
+  and Google currently lists the reserve as open 9:00 AM–4:00 PM.
 faq:
-  - q: "How do I get to Reserva Nacional de Paracas from Lima?"
-    a: "Take a bus south on the Panamericana Sur with Cruz del Sur, Oltursa or Peru Hop. It takes roughly 3.5–4 hours to Paracas town. From there, the reserve entrance is a short drive by tour van, taxi or rented bike."
-  - q: "What are the opening hours?"
-    a: "Google currently lists 9:00 AM–4:00 PM daily. Hours at protected areas can change with the season, so check SERNANP's official channels before you go."
-  - q: "How long should I spend in the reserve?"
-    a: "Three to four hours covers the main viewpoints (the museum, La Catedral, Playa Roja) and a seafood lunch at Lagunillas. Allow most of a day if you want time on the beaches."
-  - q: "What is the best time of day to visit?"
-    a: "Morning, starting near the 9:00 AM opening. The Paracas wind usually picks up after midday and brings blowing sand. Many tour vans also arrive later, after the Ballestas boat trips."
-  - q: "Can I do the Ballestas Islands and the reserve on the same day?"
-    a: "Yes, and that's the usual plan. Take a morning boat from El Chaco pier to the Ballestas Islands, then drive into the reserve afterwards."
+  - q: How do I get to Reserva Nacional de Paracas from Lima?
+    a: >-
+      Take a bus south on the Panamericana Sur with Cruz del Sur, Oltursa or
+      Peru Hop. It takes roughly 3.5–4 hours to Paracas town. From there, the
+      reserve entrance is a short drive by tour van, taxi or rented bike.
+  - q: What are the opening hours?
+    a: >-
+      Google currently lists 9:00 AM–4:00 PM daily. Hours at protected areas can
+      change with the season, so check SERNANP's official channels before you
+      go.
+  - q: How long should I spend in the reserve?
+    a: >-
+      Three to four hours covers the main viewpoints (the museum, La Catedral,
+      Playa Roja) and a seafood lunch at Lagunillas. Allow most of a day if you
+      want time on the beaches.
+  - q: What is the best time of day to visit?
+    a: >-
+      Morning, starting near the 9:00 AM opening. The Paracas wind usually picks
+      up after midday and brings blowing sand. Many tour vans also arrive later,
+      after the Ballestas boat trips.
+  - q: Can I do the Ballestas Islands and the reserve on the same day?
+    a: >-
+      Yes, and that's the usual plan. Take a morning boat from El Chaco pier to
+      the Ballestas Islands, then drive into the reserve afterwards.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-27'
 ---
 
 ## Where the desert hits the ocean

@@ -1,44 +1,51 @@
 ---
-title: "Musée de l'Orangerie: Paris Travel Guide (4.6★)"
-description: "Musée de l'Orangerie sits at the western end of the Jardin des Tuileries in central Paris, right by Place de la Concorde. 4.6★ (24,793 reviews) — what visitors say, hours, and tips."
-country: "France"
-region: "Paris"
-category: "attraction"
-pubDate: "2026-09-08T14:30:28.739Z"
+title: 'Musée de l''Orangerie: Paris Travel Guide (4.6★)'
+description: >-
+  Musée de l'Orangerie sits at the western end of the Jardin des Tuileries in
+  central Paris, right by Place de la Concorde. 4.6★ (25,243 reviews) — what
+  visitors say, hours, and tips.
+country: France
+region: Paris
+category: attraction
+pubDate: '2026-09-08T14:30:28.739Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mus%C3%A9e_de_l%E2%80%99Orangerie_exterior.JPG/1920px-Mus%C3%A9e_de_l%E2%80%99Orangerie_exterior.JPG"
-  credit: "Photo: Homonihilis / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_de_l%E2%80%99Orangerie_exterior.JPG"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mus%C3%A9e_de_l%E2%80%99Orangerie_exterior.JPG/1920px-Mus%C3%A9e_de_l%E2%80%99Orangerie_exterior.JPG
+  credit: 'Photo: Homonihilis / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_de_l%E2%80%99Orangerie_exterior.JPG
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/215494_pq0x57tgqsRPRSgKCjIlcS5c28EbogWQxfIHukZ6mvk.jpg"
-    credit: "Photo: Foursquare user content (Musée de l'Orangerie)"
-    license: "foursquare"
-    source: "https://foursquare.com/v/4adcda10f964a520983521e3"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/215494_pq0x57tgqsRPRSgKCjIlcS5c28EbogWQxfIHukZ6mvk.jpg
+    credit: 'Photo: Foursquare user content (Musée de l''Orangerie)'
+    license: foursquare
+    source: 'https://foursquare.com/v/4adcda10f964a520983521e3'
 place:
-  id: "ChIJo6qq6i5u5kcRCpYBp4rQP9w"
-  name: "Musée de l'Orangerie"
-  address: "Jardin des Tuileries, 75001 Paris, France"
+  id: ChIJo6qq6i5u5kcRCpYBp4rQP9w
+  name: Musée de l'Orangerie
+  address: 'Jardin des Tuileries, 75001 Paris, France'
   rating: 4.6
-  userRatingsTotal: 24793
-  googleMapsUrl: "https://maps.google.com/?cid=15870632905802880522&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 25243
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15870632905802880522&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 48.8637884
   lng: 2.3226724
-  phone: "+33 1 44 50 43 00"
+  phone: +33 1 44 50 43 00
   openingHours:
-    - "Monday: 9:00 AM – 6:00 PM"
-    - "Tuesday: Closed"
-    - "Wednesday: 9:00 AM – 6:00 PM"
-    - "Thursday: 9:00 AM – 6:00 PM"
-    - "Friday: 9:00 AM – 6:00 PM"
-    - "Saturday: 9:00 AM – 6:00 PM"
-    - "Sunday: 9:00 AM – 6:00 PM"
+    - 'Monday: 9:00 AM – 6:00 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 9:00 AM – 6:00 PM'
+    - 'Thursday: 9:00 AM – 6:00 PM'
+    - 'Friday: 9:00 AM – 6:00 PM'
+    - 'Saturday: 9:00 AM – 6:00 PM'
+    - 'Sunday: 9:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-09-08
+    updated: 2026-09-08T00:00:00.000Z
     weekdayBusy:
       - 11
       - 12
@@ -54,24 +61,40 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_773950517234704259704352636b35753569367171366f4a496843"
+    venueId: ven_773950517234704259704352636b35753569367171366f4a496843
 tags:
-  - "paris"
-  - "museum"
-quickAnswer: "Musée de l'Orangerie sits at the western end of the Jardin des Tuileries in central Paris, right by Place de la Concorde. It's built around eight of Monet's Water Lilies murals, displayed in two oval rooms designed to his own specifications. It's closed Tuesdays, open 9am–6pm the rest of the week, and weekends fill up fast between 11am and 6pm."
+  - paris
+  - museum
+quickAnswer: >-
+  Musée de l'Orangerie sits at the western end of the Jardin des Tuileries in
+  central Paris, right by Place de la Concorde. It's built around eight of
+  Monet's Water Lilies murals, displayed in two oval rooms designed to his own
+  specifications. It's closed Tuesdays, open 9am–6pm the rest of the week, and
+  weekends fill up fast between 11am and 6pm.
 faq:
-  - q: "Is Musée de l'Orangerie open every day?"
-    a: "It's closed Tuesdays. Every other day, including weekends, it runs 9am to 6pm."
-  - q: "How long should I spend there?"
-    a: "Most visits take 90 minutes to two hours: enough time in the oval Monet rooms plus the Walter-Guillaume collection downstairs."
-  - q: "When is it least crowded?"
-    a: "Avoid weekends between 11am and 6pm, the busiest stretch. Arriving near opening on a weekday is the best bet for quieter rooms."
-  - q: "Do I need to book tickets in advance?"
-    a: "Booking online ahead is strongly recommended. Walk-up queues can be long, especially on weekend afternoons."
-  - q: "What's nearby if I want to combine visits?"
-    a: "It sits at the edge of the Tuileries garden near Place de la Concorde; the Louvre and Musée d'Orsay are both within a short walk or one metro stop."
+  - q: Is Musée de l'Orangerie open every day?
+    a: >-
+      It's closed Tuesdays. Every other day, including weekends, it runs 9am to
+      6pm.
+  - q: How long should I spend there?
+    a: >-
+      Most visits take 90 minutes to two hours: enough time in the oval Monet
+      rooms plus the Walter-Guillaume collection downstairs.
+  - q: When is it least crowded?
+    a: >-
+      Avoid weekends between 11am and 6pm, the busiest stretch. Arriving near
+      opening on a weekday is the best bet for quieter rooms.
+  - q: Do I need to book tickets in advance?
+    a: >-
+      Booking online ahead is strongly recommended. Walk-up queues can be long,
+      especially on weekend afternoons.
+  - q: What's nearby if I want to combine visits?
+    a: >-
+      It sits at the edge of the Tuileries garden near Place de la Concorde; the
+      Louvre and Musée d'Orsay are both within a short walk or one metro stop.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-27'
 ---
 
 ## What's actually inside

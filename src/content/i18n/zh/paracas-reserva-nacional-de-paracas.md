@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: paracas-reserva-nacional-de-paracas
-srcHash: '988d948c5484'
+srcHash: '34200027dc08'
 title: 帕拉卡斯国家保护区（Reserva Nacional de Paracas）旅行指南（4.6★）
-description: 帕拉卡斯国家保护区是秘鲁南部海岸的一片滨海荒漠保护区，紧邻帕拉卡斯镇以南。评分4.6★（7,450条评价），游客口碑、开放时间和实用贴士都在这里。
+description: 帕拉卡斯国家保护区是秘鲁南部海岸的一片滨海荒漠保护区，紧邻帕拉卡斯镇以南。评分4.6★（7,451条评价），游客口碑、开放时间和实用贴士都在这里。
 quickAnswer: 帕拉卡斯国家保护区（Reserva Nacional de Paracas）就在秘鲁南部海岸帕拉卡斯镇的南边，是一片滨海荒漠保护区。大多数游客花半天时间游览，主要去红沙滩（Playa Roja）和大教堂（La Catedral）观景点，午饭在拉古尼利亚斯（Lagunillas）吃。帕拉卡斯的风一般越到下午越大，最好一早就进园。据Google目前显示，保护区开放时间为9:00 AM–4:00 PM。
 faq:
   - q: 从利马怎么去帕拉卡斯国家保护区？

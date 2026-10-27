@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: buenos-aires-jardin-botanico-carlos-thays
-srcHash: 'c98f27a237c5'
+srcHash: '230d311ad5bf'
 title: 'Jardín Botánico Carlos Thays: guía de viaje de Buenos Aires'
-description: 'El Jardín Botánico Carlos Thays está en Av. Santa Fe 3957, en Palermo (Buenos Aires), a pasos de la estación Plaza Italia de la línea D del Subte. Los fines de semana, la franja más tranquila va de 10am a 11am y la de mayor afluencia, de 2pm a 6pm. 4.6★ (67,054 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'El Jardín Botánico Carlos Thays está en Av. Santa Fe 3957, en Palermo (Buenos Aires), a pasos de la estación Plaza Italia de la línea D del Subte. Los fines de semana, la franja más tranquila va de 10am a 11am y la de mayor afluencia, de 2pm a 6pm. 4.6★ (67,059 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Jardín Botánico Carlos Thays está en Av. Santa Fe 3957, en Palermo (Buenos Aires), a pasos de la estación Plaza Italia de la línea D del Subte. Los fines de semana, la franja más tranquila va de 10am a 11am y la de mayor afluencia, de 2pm a 6pm. Cierra los lunes. Actualmente abre a las 8am de martes a viernes y a las 9:30am los sábados y domingos.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Jardín Botánico Carlos Thays?

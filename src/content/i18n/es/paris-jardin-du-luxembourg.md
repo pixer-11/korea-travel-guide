@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: paris-jardin-du-luxembourg
-srcHash: '7ecef7b9235f'
+srcHash: 'e5447b31ef2a'
 title: 'Jardin du Luxembourg: guía de viaje de París (4,7★)'
-description: 'El Jardín de Luxemburgo se encuentra en el distrito 6 de París, entre Saint-Germain-des-Prés y el Barrio Latino, y abre a diario de 7:30 a 21:30 en verano. 4,7★ (128.928 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'El Jardín de Luxemburgo se encuentra en el distrito 6 de París, entre Saint-Germain-des-Prés y el Barrio Latino, y abre a diario de 7:30 a 21:30 en verano. 4,7★ (130.239 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Jardín de Luxemburgo se encuentra en el distrito 6 de París, entre Saint-Germain-des-Prés y el Barrio Latino, y abre a diario de 7:30 a 21:30 en verano, según la época del año. Es uno de los jardines más visitados de la ciudad, así que conviene ir a primera hora de la mañana si se quiere disfrutar a solas de los caminos de grava y del estanque octogonal. Para un simple paseo basta con una hora; para reservar una silla verde y quedarse un buen rato, mejor calcular medio día.
 faq:
   - q: ¿Cómo se llega al Jardin du Luxembourg?
