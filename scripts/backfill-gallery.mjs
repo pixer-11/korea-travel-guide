@@ -56,8 +56,8 @@ const candidates = [];
 for (const f of files) {
   const raw = await readFile(join(POSTS_DIR, f), 'utf8');
   for (const m of raw.matchAll(/^\s+(?:- )?url:\s*"?([^"\n]+?)"?\s*$/gm)) markUsedImage(usedUrls, m[1].trim());
-  let data;
-  try { ({ data } = matter(raw)); } catch { continue; }
+  let data, content;
+  try { ({ data, content } = matter(raw)); } catch { continue; }
   // Events joined 2026-10-17: 305 of 305 since 10-01 had one photo, because
   // neither their publish path nor this patrol ever looked.
   const isEvent = data.category === 'event';
@@ -68,7 +68,7 @@ for (const f of files) {
   if (ONLY && !ONLY.has(slug)) continue;
   const last = state[slug]?.lastTried;
   if (!ONLY && last && (Date.now() - Date.parse(last)) < RETRY_DAYS * 864e5) continue;
-  candidates.push({ f, data });
+  candidates.push({ f, data, content });
 }
 
 // Two lanes. Posts published in the last 14 days go first, newest first —
@@ -89,7 +89,7 @@ console.log(`${candidates.length} one-photo venue/event post(s) eligible · tryi
 let tried = 0, added = 0;
 const wins = [];
 
-for (const { f, data } of candidates) {
+for (const { f, data, content } of candidates) {
   if (tried >= LIMIT) break;
   tried++;
   const slug = f.replace(/\.md$/, '');
@@ -105,7 +105,7 @@ for (const { f, data } of candidates) {
   // Same sources and the same gate as publish (lib/inbody-candidates): only
   // the retry cadence is this file's.
   const offered = isEvent
-    ? eventInBodyCandidates({ name, region: data.region || '', performer: data.eventPerformer?.name || '', heroUrl, context: `${data.title} ${data.description || ''} ${data.quickAnswer || ''}` }, why)
+    ? eventInBodyCandidates({ name, region: data.region || '', performer: data.eventPerformer?.name || '', heroUrl, context: `${data.title} ${content}` }, why)
     : venueInBodyCandidates({ name, region: data.region, country: data.country, lat: data.place.lat, lng: data.place.lng, heroUrl, landmark: isLandmarkPost(data.category, data.heroImage.license, name) }, why);
   const picked = await pickFirstPassing(offered, {
     used: usedUrls, why, allowed: isImageAllowed,

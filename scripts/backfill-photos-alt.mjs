@@ -229,6 +229,13 @@ for (const f of files) {
   if (!ONLY.length && isPausedTonight(retryCount[slug], slug)) { pausedSkipped++; continue; }
   const path = `${POSTS}/${f}`;
   const { data, content } = matter(await readFile(path, 'utf8'));
+  // heldFinal is a decision a machine never lifts (see `decided` below), so a
+  // photo found for it can never be shown — and it takes a good photo out of
+  // the pool for live guides. Three retired duplicates (Charlie Puth Goyang,
+  // MotoGP Lombok, 5SOS Pasay) were re-photographed every night, a vision
+  // call each, and logged as "FIXED + republished" while staying held
+  // (2026-10-27). Only a run that names the slug touches one.
+  if (data.heldFinal && !ONLY.includes(slug)) continue;
   // Events used to be skipped outright here ("events keep their performer/type
   // pipeline") — but that pipeline only exists at GENERATION time, so a
   // quarantined event post had NO refill path at all: the venue sources can't
@@ -768,7 +775,11 @@ for (const f of files) {
     markUsedImage(used, cand.url);
     fixed++;
     if (wasDraft && otherHolds.length) console.log(`  ✅ ${slug}: photo FIXED, but kept quarantined — ${otherHolds[0]}`);
-    else if (wasDraft) { undrafted++; console.log(`  ✅ ${slug}: FIXED + republished (${vis.reason})`); }
+    // Counted as republished only if the hold was actually lifted above — a gate
+    // hold, a live twin or a heldFinal keeps draft:true, and calling those
+    // "republished" put held posts into the owner's count (2026-10-27).
+    else if (wasDraft && data.draft !== true) { undrafted++; console.log(`  ✅ ${slug}: FIXED + republished (${vis.reason})`); }
+    else if (wasDraft) console.log(`  ✅ ${slug}: photo FIXED, post stays held`);
     else console.log(`  ✅ ${slug}: FIXED (${vis.reason})`);
     done = true;
     break;

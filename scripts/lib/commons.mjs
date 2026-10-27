@@ -401,12 +401,32 @@ export function pickPerformerCategory(name, candidates, memberHits = new Map()) 
   const scored = cands.map((c) => [memberHits.get(c) || 0, c]).sort((a, b) => b[0] - a[0]);
   return scored[0][0] > 0 && scored[0][0] > scored[1][0] ? scored[0][1] : null;
 }
+// Parent categories that say "this is a person or an act".
+const PERSON_PARENT = /musical group|music group|boy band|girl group|\bbands\b|singers|rappers|musicians|composers|comedians|actors|actresses|\bbirths\b|living people|entertainers|\bdjs\b|\bidols?\b/i;
+const personCache = new Map();
+export async function isPersonCategory(cat) {
+  if (personCache.has(cat)) return personCache.get(cat);
+  const pages = (await commonsJson('https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=categories&cllimit=60&origin=*&titles=' + encodeURIComponent(`Category:${cat}`)))?.query?.pages ?? {};
+  const parents = Object.values(pages).flatMap((p) => (p.categories || []).map((c) => c.title));
+  const ok = parents.some((t) => PERSON_PARENT.test(t));
+  personCache.set(cat, ok);
+  return ok;
+}
+
 async function searchedPerformerCategory(n, context) {
   const found = (await commonsJson('https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srlimit=15&origin=*&srsearch=' + encodeURIComponent(n)))?.query?.search ?? [];
   const titles = found.map((s) => s.title.replace(/^Category:/, ''));
   const ctx = ` ${allWords(context).join(' ')} `;
   const memberHits = new Map();
   const musical = titles.filter((t) => MUSIC_PAREN.test(t) && squash(t.replace(/\s*\(.*\)$/, '')) === squash(n));
+  // A lone namesake is not proof either: if search only surfaced Norway's
+  // Bigbang while the guide says "K-pop", it is the wrong band (review 10-27).
+  if (musical.length === 1) {
+    const from = (musical[0].match(/\bfrom (?:the )?([^)]+)\)/i) || [])[1] || '';
+    const own = COUNTRY_CUES[from];
+    const other = Object.entries(COUNTRY_CUES).some(([k, re]) => k !== from && re.test(context));
+    if (from && other && !(own && own.test(context))) return null;
+  }
   if (musical.length > 1) {
     for (const c of musical) {
       const subs = (await commonsJson('https://commons.wikimedia.org/w/api.php?action=query&format=json&list=categorymembers&cmtype=subcat&cmlimit=50&origin=*&cmtitle=' + encodeURIComponent(`Category:${c}`)))?.query?.categorymembers ?? [];
@@ -436,15 +456,18 @@ export async function performerCategoryPhotos(name, { limit = 8, context = '' } 
   // in capitals (BABYMONSTER) is filed as Category:Babymonster.
   const spellings = [...new Set([n, /^[^a-z]+$/.test(n) ? n[0] + n.slice(1).toLowerCase() : n])];
   const fixed = spellings.flatMap((sp) => [...PERFORMER_SUFFIXES.map((s) => `${sp} (${s})`), sp]);
-  let searched = false;
   for (let k = 0; k < fixed.length + 1; k++) {
     let cat = fixed[k];
     if (k === fixed.length) {
       // Every spelled guess came back empty: look the category up instead.
-      if (searched) break;
-      searched = true;
       cat = await searchedPerformerCategory(n, `${n} ${context}`);
       if (!cat) break;
+    } else if (!/\(/.test(cat) && !(await isPersonCategory(cat))) {
+      // The bare name is somebody's only when Commons files it under people:
+      // Category:Plave is a Slovenian village ("PLAVE 04.08.2014 002" even
+      // passes a filename check), Category:Twice holds fried tofu (review,
+      // 2026-10-27). Babymonster, BTS, Trevor Noah, Gong Yoo all pass.
+      continue;
     }
     // The act's own files, then its sub-categories that carry its name (2026-10-09:
     // Category:Jay Park holds two files, a signboard among them, while his stage

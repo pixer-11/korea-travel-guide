@@ -401,7 +401,9 @@ async function patchedReply(job, msg) {
     }
     if (edits.length) patchStats.patched++; else patchStats.unchanged++;
     console.log(`     ✎ ${job.lang}/${job.id} — patched with ${edits.length} edit(s) instead of re-translating`);
-    return { stop_reason: 'tool_use', content: [{ type: 'tool_use', input: { ...job.cur, ...fields } }] };
+    // `patched` lets translateOne tell a patch from a fresh translation: the
+    // birth-time tense check must not judge paragraphs the patch never touched.
+    return { stop_reason: 'tool_use', patched: true, content: [{ type: 'tool_use', input: { ...job.cur, ...fields } }] };
   } catch (e) {
     patchStats.fellBack++;
     console.log(`     ↻ ${job.lang}/${job.id} — patch unusable (${String(e.message).slice(0, 80)}), translating in full`);
@@ -603,10 +605,16 @@ async function translateOne(langCode, srcId, data, hash, attempt = 1, pre = null
   // form that stays true. A miss here is kept after three tries (the page is
   // correct today; the end-of-event repair is still there as the net), never
   // thrown — an upcoming event must not lose its translation over a verb.
-  if (!bad && data.event && !data.ended) {
+  // Not on a patch (review 10-27): the paragraphs it left alone are the old
+  // translation, and refusing the patch for them turned a cheap batch edit into
+  // up to three full, direct re-translations. Once at most on a fresh one: the
+  // vocabulary also catches practical sentences ("보안 검색은 입구에서
+  // 진행됩니다"), and a third attempt must stay free for the gates that
+  // throw.
+  if (!bad && data.event && !data.ended && !msg?.patched) {
     const upcoming = upcomingHits(out, langCode);
     if (upcoming.length) {
-      if (attempt < 3) {
+      if (attempt < 2) {
         console.log(`     ↻ ${langCode}/${srcId} — upcoming event written as "will be held" (${upcoming.slice(0, 2).join(', ')}), retrying for a form that survives the date (attempt ${attempt + 1})`);
         return translateOne(langCode, srcId, { ...data, timelessFeedback: upcoming.slice(0, 3) }, hash, attempt + 1);
       }
