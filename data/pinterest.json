@@ -29,7 +29,8 @@
     "New Zealand": "1103100571170915301",
     "Georgia": "1103100571170917152",
     "Canada": "1103100571170927737",
-    "Peru": "1103100571170937353"
+    "Peru": "1103100571170937353",
+    "Argentina": "1103100571170939351"
   },
   "pinned": {
     "amalfi-coast-positano": "1103100502523648064",
@@ -558,7 +559,10 @@
     "hanoi-golden-disc-awards-gda": "1103100502530519289",
     "jakarta-bigbang-jakarta-concert-2026": "1103100502530519293",
     "jakarta-dimash-qudaibergen-jakarta-concert": "1103100502530519295",
-    "lima-marc-anthony-manuel-turizo-fonseca-concert": "1103100502530519296"
+    "lima-marc-anthony-manuel-turizo-fonseca-concert": "1103100502530519296",
+    "lima-robbie-williams-concert": "1103100502530570673",
+    "london-aespa-world-tour": "1103100502530570674",
+    "macau-macau-international-fireworks-display-contest": "1103100502530570677"
   },
   "magnetPinned": {
     "magnet:itinerary:bangkok-3-days": "1103100502524165822",
@@ -583,6 +587,7 @@
     "magnet:itinerary:brighton-3-days": "1103100502528980927",
     "magnet:itinerary:chicago-3-days": "1103100502529211978",
     "magnet:itinerary:ho-chi-minh-city-3-days": "1103100502529889760",
-    "magnet:itinerary:beijing-3-days": "1103100502530216552"
+    "magnet:itinerary:beijing-3-days": "1103100502530216552",
+    "magnet:itinerary:buenos-aires-3-days": "1103100502530570672"
   }
 }
