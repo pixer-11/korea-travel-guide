@@ -22,6 +22,7 @@
 //   node scripts/check-affiliate-status.mjs
 import { appendFileSync, readdirSync, readFileSync, statSync } from 'node:fs';
 import { join } from 'node:path';
+import { request as httpsRequest } from 'node:https';
 
 const MARKER = '754088';
 const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0 Safari/537.36';
@@ -57,6 +58,21 @@ async function get(url, init = {}, withBody = false) {
     const res = await fetch(url, { ...init, signal: ctrl.signal, headers: { 'User-Agent': UA, ...(init.headers || {}) } });
     return withBody ? { res, body: await res.text() } : { res, body: '' };
   } finally { clearTimeout(t); }
+}
+
+// Node's fetch replaces any Sec-Fetch-Mode with "cors" (checked 10-28), and
+// the worker refuses that as a script request. node:https sends headers as
+// given. Only the redirect status and Location are needed, so no body.
+function rawGet(url, headers) {
+  return new Promise((resolve, reject) => {
+    const req = httpsRequest(url, { headers: { 'User-Agent': UA, ...headers }, timeout: 20000 }, (res) => {
+      res.resume();
+      resolve({ res: { status: res.statusCode, headers: { get: (k) => res.headers[k.toLowerCase()] ?? null } }, body: '' });
+    });
+    req.on('timeout', () => req.destroy(Object.assign(new Error('timeout'), { name: 'AbortError' })));
+    req.on('error', reject);
+    req.end();
+  });
 }
 
 // Seeing 754088 is not always enough. Klook credits a click only through the
@@ -112,9 +128,13 @@ async function followLink(url) {
     let res;
     // Our /go/ relay mints a click only for a reader — a browser coming from
     // one of our pages (worker isReaderClick, 10-18). This probe is meant to
-    // be one such click a day, so it says where it "came from".
+    // be one such click a day, so it says where it "came from". Since 10-28 the
+    // worker also reads Sec-Fetch-*, and Node's fetch sends "Sec-Fetch-Mode:
+    // cors" on its own — so the probe says what a click says, through rawGet
+    // (run 40701413871 failed without this: refused as a bot, 403 at klook.com).
     const ownHop = /^https:\/\/(www\.)?wanderatlasguides\.com\//.test(cur);
-    try { ({ res } = await get(cur, { redirect: 'manual', ...(ownHop ? { headers: { Referer: 'https://wanderatlasguides.com/' } } : {}) })); }
+    const READER = { Referer: 'https://wanderatlasguides.com/', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'navigate' };
+    try { ({ res } = ownHop ? await rawGet(cur, READER) : await get(cur, { redirect: 'manual' })); }
     catch (e) { return { verdict: 'unmeasured', detail: e.name === 'AbortError' ? 'timeout' : e.message }; }
     if (res.status >= 300 && res.status < 400 && res.headers.get('location')) {
       cur = new URL(res.headers.get('location'), cur).href;
