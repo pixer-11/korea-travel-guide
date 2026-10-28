@@ -30,16 +30,6 @@ faq:
     a: Macy's Herald Square and its holiday windows are a block east. The Empire State Building is about a ten-minute walk away, and Bryant Park Winter Village is at 42nd Street. The Rockefeller Center tree is a short subway ride north. Koreatown on West 32nd Street is where many fans go to eat, since a lot of Midtown restaurants close for the holiday.
 aiGenerated: true
 draft: false
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/c/ce/Jalen_Williams_OKCThunder_2025_NBA_Cup.jpg
-  credit: 'Photo: Daiei Onoguchi / Wikimedia Commons (CC BY 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Jalen_Williams_OKCThunder_2025_NBA_Cup.jpg
-  focus:
-    x: 42
-    'y': 28
-    top: 24
-    bottom: 32
 ---
 
 ## A Finals rematch to open the day

@@ -29,16 +29,6 @@ faq:
     a: Yes. The O2 on the Greenwich Peninsula is right by North Greenwich station on the Jubilee line, and the river boat and the cable car across the Thames also stop there.
 aiGenerated: true
 draft: false
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/5/50/Roger_Federer_at_the_ATP_Tennis_World_Finals.jpg
-  credit: 'Photo: David Jones / Wikimedia Commons (CC BY 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Roger_Federer_at_the_ATP_Tennis_World_Finals.jpg
-  focus:
-    x: 46
-    'y': 19
-    top: 13
-    bottom: 24
 ---
 
 ## London hosted it until 2020

@@ -10162,9 +10162,9 @@
  },
  "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/a/af/TOTAL_BWF_World_Champs_2015_Day_2_Samantha_Barning.jpg": {
   "slug": "hangzhou-bwf-world-tour-finals",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Badminton doubles match, sport matches event type",
-  "at": "2026-10-27T23:08:15.167Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares no word with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-28T08:38:18.387Z"
  },
  "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/f/f6/2018_BWF_World_Championships.jpg": {
   "slug": "hangzhou-bwf-world-tour-finals",
@@ -16860,9 +16860,9 @@
  },
  "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/5/50/Roger_Federer_at_the_ATP_Tennis_World_Finals.jpg": {
   "slug": "london-atp-finals",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Tennis player at ATP Finals, archive photo acceptable",
-  "at": "2026-10-27T23:12:17.304Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"finals\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-28T08:38:18.568Z"
  },
  "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/8/8b/Sydney_International_Tennis_ATP_%2833040174978%29.jpg": {
   "slug": "london-atp-finals",
@@ -21337,9 +21337,9 @@
  },
  "new-york-nba-christmas-day-games\u0001https://upload.wikimedia.org/wikipedia/commons/c/ce/Jalen_Williams_OKCThunder_2025_NBA_Cup.jpg": {
   "slug": "new-york-nba-christmas-day-games",
-  "verdict": "MATCH",
-  "reason": "patrol replace: NBA player in OKC uniform, professional court setting",
-  "at": "2026-10-27T23:14:07.439Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares no word with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-28T08:38:18.732Z"
  },
  "new-york-nba-christmas-day-games\u0001https://upload.wikimedia.org/wikipedia/commons/d/dc/Clippers_%40_Nuggets%2C_2025_NBA_playoffs%2C_Game_1%2C_Ball_Arena.jpg": {
   "slug": "new-york-nba-christmas-day-games",
