@@ -1,50 +1,79 @@
 ---
-title: "Pattaya Beach: Travel Guide (4.5★)"
-description: "Pattaya Beach is the long curved city beach along Beach Road in central Pattaya, running from the North Pattaya end down to Walking Street and Bali Hai Pier. 4.5★ (799 reviews) — what visitors say, hours, and tips."
-country: "Thailand"
-region: "Pattaya"
-category: "attraction"
-pubDate: "2026-09-29T07:42:59.567Z"
+title: 'Pattaya Beach: Travel Guide (4.5★)'
+description: >-
+  Pattaya Beach is the long curved city beach along Beach Road in central
+  Pattaya, running from the North Pattaya end down to Walking Street and Bali
+  Hai Pier. 4.5★ (810 reviews) — what visitors say, hours, and tips.
+country: Thailand
+region: Pattaya
+category: attraction
+pubDate: '2026-09-29T07:42:59.567Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Pattaya_beach_from_view_point.jpg/1920px-Pattaya_beach_from_view_point.jpg"
-  credit: "Photo: Sergey S. Dukachev / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Pattaya_beach_from_view_point.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Pattaya_beach_from_view_point.jpg/1920px-Pattaya_beach_from_view_point.jpg
+  credit: 'Photo: Sergey S. Dukachev / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Pattaya_beach_from_view_point.jpg'
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Pattaya_Beach%2C_Trees%2C_Thailand.jpg/3840px-Pattaya_Beach%2C_Trees%2C_Thailand.jpg"
-    credit: "Photo: Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Pattaya_Beach,_Trees,_Thailand.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Pattaya_Beach%2C_Trees%2C_Thailand.jpg/3840px-Pattaya_Beach%2C_Trees%2C_Thailand.jpg
+    credit: 'Photo: Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Pattaya_Beach,_Trees,_Thailand.jpg'
 place:
-  id: "ChIJY6uaH-m9AjEROC67uD9Qg3s"
-  name: "Pattaya Beach"
-  address: "489 Beach Rd, Muang Pattaya, Amphoe Bang Lamung, Chang Wat Chon Buri 20150, Thailand"
+  id: ChIJY6uaH-m9AjEROC67uD9Qg3s
+  name: Pattaya Beach
+  address: >-
+    489 Beach Rd, Muang Pattaya, Amphoe Bang Lamung, Chang Wat Chon Buri 20150,
+    Thailand
   rating: 4.5
-  userRatingsTotal: 799
-  googleMapsUrl: "https://maps.google.com/?cid=8900045523226668600&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 810
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=8900045523226668600&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 12.9488972
   lng: 100.8844065
 tags:
-  - "pattaya"
-  - "waterfront"
-quickAnswer: "Pattaya Beach is the long curved city beach along Beach Road in central Pattaya, running from the North Pattaya end down to Walking Street and Bali Hai Pier. Come for late-afternoon walks and the sunset over the Gulf of Thailand. For clearer water, take the ferry from Bali Hai Pier to Koh Larn."
+  - pattaya
+  - waterfront
+quickAnswer: >-
+  Pattaya Beach is the long curved city beach along Beach Road in central
+  Pattaya, running from the North Pattaya end down to Walking Street and Bali
+  Hai Pier. Come for late-afternoon walks and the sunset over the Gulf of
+  Thailand. For clearer water, take the ferry from Bali Hai Pier to Koh Larn.
 faq:
-  - q: "How do I get to Pattaya Beach from Bangkok?"
-    a: "Take a bus from Ekkamai (Eastern) Bus Terminal, which takes around two hours depending on traffic. There are also direct buses from Suvarnabhumi Airport. Once you are in town, the blue baht buses loop along Beach Road."
-  - q: "Is the water at Pattaya Beach good for swimming?"
-    a: "You can swim, but the bay is busy with boats and the water is usually murkier than on the islands. For clearer water, take a ferry from Bali Hai Pier to Koh Larn."
-  - q: "What is the best time of year to visit Pattaya Beach?"
-    a: "November to February, when it is cooler and drier and the sea is usually calm. March to May is very hot. From roughly June to October, rain showers are common."
-  - q: "How long should I spend at Pattaya Beach?"
-    a: "Allow two to three hours to walk the promenade, swim and watch the sunset. Add more time if you want to carry on to Walking Street at the south end in the evening."
-  - q: "What is near Pattaya Beach?"
-    a: "Near the beach you have Central Festival Pattaya Beach mall on Beach Road and Walking Street at the southern end. Bali Hai Pier, where ferries leave for Koh Larn, is beyond Walking Street, and the Pattaya City sign is on Pratamnak Hill."
+  - q: How do I get to Pattaya Beach from Bangkok?
+    a: >-
+      Take a bus from Ekkamai (Eastern) Bus Terminal, which takes around two
+      hours depending on traffic. There are also direct buses from Suvarnabhumi
+      Airport. Once you are in town, the blue baht buses loop along Beach Road.
+  - q: Is the water at Pattaya Beach good for swimming?
+    a: >-
+      You can swim, but the bay is busy with boats and the water is usually
+      murkier than on the islands. For clearer water, take a ferry from Bali Hai
+      Pier to Koh Larn.
+  - q: What is the best time of year to visit Pattaya Beach?
+    a: >-
+      November to February, when it is cooler and drier and the sea is usually
+      calm. March to May is very hot. From roughly June to October, rain showers
+      are common.
+  - q: How long should I spend at Pattaya Beach?
+    a: >-
+      Allow two to three hours to walk the promenade, swim and watch the sunset.
+      Add more time if you want to carry on to Walking Street at the south end
+      in the evening.
+  - q: What is near Pattaya Beach?
+    a: >-
+      Near the beach you have Central Festival Pattaya Beach mall on Beach Road
+      and Walking Street at the southern end. Bali Hai Pier, where ferries leave
+      for Koh Larn, is beyond Walking Street, and the Pattaya City sign is on
+      Pratamnak Hill.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-28'
 ---
 
 ## The long curve of Pattaya Bay

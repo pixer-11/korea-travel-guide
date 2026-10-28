@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: paris-pantheon
-srcHash: '5b28fdc06b7e'
+srcHash: 'f2fae616aee4'
 title: 'Panteón de París: guía de viaje (4.6★)'
 description: En lo alto del Barrio Latino, sobre la Plaza del Panteón (Place du Panthéon) del distrito 5 de París, se alza el Panteón. Con 4.6★ y 69,926 reseñas, aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
 quickAnswer: En lo alto del Barrio Latino, sobre la Plaza del Panteón (Place du Panthéon) del distrito 5 de París, se alza el Panteón. Abre todos los días de 10:00 a 18:30. La hora más tranquila es de 10:00 a 11:00, tanto entre semana como en fin de semana. Conviene evitar los sábados y domingos de 13:00 a 18:00, cuando se concentra la mayor afluencia. Para recorrer la nave, ver el péndulo de Foucault y bajar a la cripta donde reposan Voltaire, Victor Hugo y Marie Curie, calcule unos 90 minutos.

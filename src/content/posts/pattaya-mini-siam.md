@@ -1,31 +1,40 @@
 ---
 title: 'Mini Siam: Pattaya Travel Guide'
-description: Mini Siam is a miniature park on Sukhumvit Road at the northern edge of Pattaya, showing scaled-down replicas of Thai landmarks (like Wat Arun and the Grand Palace) and world monuments (Eiffel Tower, Big Ben, Angkor Wat) laid out across open grounds.
+description: >-
+  Mini Siam is a miniature park on Sukhumvit Road at the northern edge of
+  Pattaya, showing scaled-down replicas of Thai landmarks (like Wat Arun and the
+  Grand Palace) and world monuments (Eiffel Tower, Big Ben, Angkor Wat) laid out
+  across open grounds.
 country: Thailand
 region: Pattaya
 category: attraction
 pubDate: '2026-07-22T09:08:53.948Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/202307_Mini_Siam%2C_Pattaya_16.jpg/1920px-202307_Mini_Siam%2C_Pattaya_16.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/202307_Mini_Siam%2C_Pattaya_16.jpg/1920px-202307_Mini_Siam%2C_Pattaya_16.jpg
   credit: 'Photo: Jonashtand / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:202307_Mini_Siam,_Pattaya_16.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:202307_Mini_Siam,_Pattaya_16.jpg'
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/202307_Mini_Siam%2C_Pattaya_12.jpg/1920px-202307_Mini_Siam%2C_Pattaya_12.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/202307_Mini_Siam%2C_Pattaya_12.jpg/1920px-202307_Mini_Siam%2C_Pattaya_12.jpg
     credit: 'Photo: Jonashtand / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:202307_Mini_Siam,_Pattaya_12.jpg
+    source: 'https://commons.wikimedia.org/wiki/File:202307_Mini_Siam,_Pattaya_12.jpg'
 place:
   id: ChIJGyhn0uCe4jARKsHCvBXG7Dw
   name: Mini Siam
-  address: 387 Sukhumvit Rd, Muang Pattaya, Amphoe Bang Lamung, Chang Wat Chon Buri 20150, Thailand
+  address: >-
+    387 Sukhumvit Rd Village No.6 Muang Pattaya, Amphoe Bang Lamung, Chang Wat
+    Chon Buri 20150, Thailand
   rating: 4.2
-  userRatingsTotal: 7904
-  googleMapsUrl: https://maps.google.com/?cid=4390101533442883882&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 8009
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4390101533442883882&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 12.9553217
   lng: 100.90890999999999
-  phone: '+66 81 735 6340'
+  phone: +66 81 735 6340
   openingHours:
     - 'Monday: 9:00 AM – 7:00 PM'
     - 'Tuesday: 9:00 AM – 7:00 PM'
@@ -37,20 +46,40 @@ place:
 tags:
   - pattaya
   - top attraction
-quickAnswer: Mini Siam is a miniature park on Sukhumvit Road at the northern edge of Pattaya, showing scaled-down replicas of Thai landmarks (like Wat Arun and the Grand Palace) and world monuments (Eiffel Tower, Big Ben, Angkor Wat) laid out across open grounds. Budget 1.5–2 hours, go late afternoon into early evening to catch both daylight photos and the lights turning on, and combine it with other North Pattaya stops since it sits away from the beach strip.
+quickAnswer: >-
+  Mini Siam is a miniature park on Sukhumvit Road at the northern edge of
+  Pattaya, showing scaled-down replicas of Thai landmarks (like Wat Arun and the
+  Grand Palace) and world monuments (Eiffel Tower, Big Ben, Angkor Wat) laid out
+  across open grounds. Budget 1.5–2 hours, go late afternoon into early evening
+  to catch both daylight photos and the lights turning on, and combine it with
+  other North Pattaya stops since it sits away from the beach strip.
 faq:
   - q: How much time should I set aside for Mini Siam?
-    a: Plan for about 1.5–2 hours to walk the full grounds comfortably; add extra time if you're visiting with kids or want to stay through sunset for the lit-up models.
+    a: >-
+      Plan for about 1.5–2 hours to walk the full grounds comfortably; add extra
+      time if you're visiting with kids or want to stay through sunset for the
+      lit-up models.
   - q: How do I get to Mini Siam without a rental car?
-    a: Take a Grab or metered taxi (about 10–15 minutes from Central Pattaya) or flag down a blue songthaew along Sukhumvit Road and ask for Mini Siam; it's directly on the highway.
+    a: >-
+      Take a Grab or metered taxi (about 10–15 minutes from Central Pattaya) or
+      flag down a blue songthaew along Sukhumvit Road and ask for Mini Siam;
+      it's directly on the highway.
   - q: What's the best time of day to visit?
-    a: Late afternoon, roughly 4–5pm, works best — you get daylight for photos early on and can stay to see several replicas lit up after dusk.
+    a: >-
+      Late afternoon, roughly 4–5pm, works best — you get daylight for photos
+      early on and can stay to see several replicas lit up after dusk.
   - q: Is there food available on site?
-    a: Yes, there's an on-site café for drinks and snacks, though it's wise to carry water too since shaded areas between exhibits are limited.
+    a: >-
+      Yes, there's an on-site café for drinks and snacks, though it's wise to
+      carry water too since shaded areas between exhibits are limited.
   - q: Is Mini Siam good for kids?
-    a: Yes, it's a popular family stop — the open layout, viewing platforms, and photo-friendly scale models make it easy for children to enjoy without a long attention span requirement.
+    a: >-
+      Yes, it's a popular family stop — the open layout, viewing platforms, and
+      photo-friendly scale models make it easy for children to enjoy without a
+      long attention span requirement.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-28'
 ---
 
 ## Why go

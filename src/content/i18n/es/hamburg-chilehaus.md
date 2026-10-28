@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: hamburg-chilehaus
-srcHash: '4bdce146798b'
+srcHash: 'aafdf09a477b'
 title: 'Chilehaus: guía de viaje de Hamburgo (4.6★)'
-description: En pleno Kontorhausviertel (Altstadt) de Hamburgo, a pocos pasos de la estación de U-Bahn Meßberg (línea U1), se alza el Chilehaus, un edificio de oficinas de ladrillo de los años veinte. Con 4.6★ (4,042 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
+description: En pleno Kontorhausviertel (Altstadt) de Hamburgo, a pocos pasos de la estación de U-Bahn Meßberg (línea U1), se alza el Chilehaus, un edificio de oficinas de ladrillo de los años veinte. Con 4.6★ (4,043 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
 quickAnswer: El Chilehaus es un edificio de oficinas de ladrillo levantado en los años veinte en el Kontorhausviertel (Altstadt) de Hamburgo, a poca distancia a pie de la estación de U-Bahn Meßberg, en la línea U1. Su esquina oriental, terminada en punta, recuerda la proa de un barco. Forma parte del conjunto de la Speicherstadt y el barrio de los Kontorhaus, declarado Patrimonio de la Humanidad por la UNESCO, y su exterior puede contemplarse a cualquier hora. Entre semana hay menos gente de 10pm a 11pm; los fines de semana, de 7am a 1pm o de 6pm a 11pm.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Chilehaus?

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: paris-sainte-chapelle
-srcHash: 'd0dc1974889d'
+srcHash: '831a37418fe7'
 title: 'Sainte-Chapelle: Guía de viaje de París (4.6★)'
-description: 'La Sainte-Chapelle se ubica en la Île de la Cité, en el número 10 del Bd du Palais, dentro del mismo recinto amurallado que el Palais de Justice, y su momento de mayor afluencia es los fines de semana entre las 13:00 y las 17:00. 4.6★ (50.186 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'La Sainte-Chapelle se ubica en la Île de la Cité, en el número 10 del Bd du Palais, dentro del mismo recinto amurallado que el Palais de Justice, y su momento de mayor afluencia es los fines de semana entre las 13:00 y las 17:00. 4.6★ (50.767 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: La Sainte-Chapelle se ubica en la Île de la Cité, en el número 10 del Bd du Palais, dentro del mismo recinto amurallado que el Palais de Justice, y su momento de mayor afluencia es los fines de semana entre las 13:00 y las 17:00. Para que las vidrieras realmente resplandezcan, conviene llegar justo a la apertura (9:00) un día de semana soleado. Calcule entre 45 minutos y una hora para la visita, y reserve una entrada con horario en línea, ya que no existe una puerta separada para saltarse la fila.
 faq:
   - q: ¿Cómo se llega a la Sainte-Chapelle?

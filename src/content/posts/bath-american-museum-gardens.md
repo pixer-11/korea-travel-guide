@@ -1,56 +1,82 @@
 ---
-title: "American Museum & Gardens: Bath Travel Guide (4.5★)"
-description: "The American Museum & Gardens sits at Claverton Manor on Claverton Down, about 2.5 miles southeast of central Bath, above the Limpley Stoke valley. 4.5★ (1,341 reviews) — what visitors say, hours, and tips."
-country: "United Kingdom"
-region: "Bath"
-category: "attraction"
-pubDate: "2026-10-28T08:21:29.413Z"
+title: 'American Museum & Gardens: Bath Travel Guide (4.5★)'
+description: >-
+  The American Museum & Gardens sits at Claverton Manor on Claverton Down, about
+  2.5 miles southeast of central Bath, above the Limpley Stoke valley. 4.5★
+  (1,343 reviews) — what visitors say, hours, and tips.
+country: United Kingdom
+region: Bath
+category: attraction
+pubDate: '2026-10-28T08:21:29.413Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/e/eb/American_Museum_in_Bath.jpg"
-  credit: "Photo: don cload / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:American_Museum_in_Bath.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/e/eb/American_Museum_in_Bath.jpg
+  credit: 'Photo: don cload / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:American_Museum_in_Bath.jpg'
+  via: act
   focus:
     x: 55
-    y: 40
+    'y': 40
 gallery: []
 place:
-  id: "ChIJ1ZewOM-BcUgRgBPq59DsHD0"
-  name: "American Museum & Gardens"
-  address: "Claverton Manor, Claverton Down, Bath BA2 7BD, UK"
+  id: ChIJ1ZewOM-BcUgRgBPq59DsHD0
+  name: American Museum & Gardens
+  address: 'Claverton Manor, Claverton Down, Bath BA2 7BD, UK'
   rating: 4.5
-  userRatingsTotal: 1341
-  googleMapsUrl: "https://maps.google.com/?cid=4403654917649732480&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1343
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4403654917649732480&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 51.375027599999996
   lng: -2.3112767
-  phone: "+44 1225 460503"
+  phone: +44 1225 460503
   openingHours:
-    - "Monday: 10:00 AM – 5:00 PM"
-    - "Tuesday: 10:00 AM – 5:00 PM"
-    - "Wednesday: 10:00 AM – 5:00 PM"
-    - "Thursday: 10:00 AM – 5:00 PM"
-    - "Friday: 10:00 AM – 5:00 PM"
-    - "Saturday: 10:00 AM – 5:00 PM"
-    - "Sunday: 10:00 AM – 5:00 PM"
+    - 'Monday: 10:00 AM – 5:00 PM'
+    - 'Tuesday: 10:00 AM – 5:00 PM'
+    - 'Wednesday: 10:00 AM – 5:00 PM'
+    - 'Thursday: 10:00 AM – 5:00 PM'
+    - 'Friday: 10:00 AM – 5:00 PM'
+    - 'Saturday: 10:00 AM – 5:00 PM'
+    - 'Sunday: 10:00 AM – 5:00 PM'
 tags:
-  - "bath"
-  - "museum"
-quickAnswer: "The American Museum & Gardens sits at Claverton Manor on Claverton Down, about 2.5 miles southeast of central Bath, above the Limpley Stoke valley. At the moment it opens 10am–5pm, but the season and hours change through the year, so check the official site before you go. Plan on a half day for the period rooms, the quilt collection and the gardens."
+  - bath
+  - museum
+quickAnswer: >-
+  The American Museum & Gardens sits at Claverton Manor on Claverton Down, about
+  2.5 miles southeast of central Bath, above the Limpley Stoke valley. At the
+  moment it opens 10am–5pm, but the season and hours change through the year, so
+  check the official site before you go. Plan on a half day for the period
+  rooms, the quilt collection and the gardens.
 faq:
-  - q: "Where is the American Museum & Gardens in Bath?"
-    a: "It is at Claverton Manor, Claverton Down, Bath BA2 7BD. That is about 2.5 miles southeast of the city centre, near the University of Bath, on a ridge above the Limpley Stoke valley."
-  - q: "Is the museum open all year?"
-    a: "No. It runs on a season, and its hours and closed periods change through the year, with a separate Christmas programme. At the moment it opens 10am–5pm. Check the official website for this month's dates before you go."
-  - q: "How long should I spend there?"
-    a: "Allow a half day. That gives you time for the period rooms, the quilt collection and any special exhibition, plus a walk through the Mount Vernon garden and the arboretum."
-  - q: "How do I get there without a car?"
-    a: "Take a bus from the city centre up to the University of Bath on Claverton Down, then walk; check the current route first. You can also walk up from the Kennet and Avon Canal towpath, but the climb is steep."
-  - q: "Is it good for children?"
-    a: "Yes. The museum has a play area and a café, and children usually find the period rooms and the big gardens easier going than a day in the city centre."
+  - q: Where is the American Museum & Gardens in Bath?
+    a: >-
+      It is at Claverton Manor, Claverton Down, Bath BA2 7BD. That is about 2.5
+      miles southeast of the city centre, near the University of Bath, on a
+      ridge above the Limpley Stoke valley.
+  - q: Is the museum open all year?
+    a: >-
+      No. It runs on a season, and its hours and closed periods change through
+      the year, with a separate Christmas programme. At the moment it opens
+      10am–5pm. Check the official website for this month's dates before you go.
+  - q: How long should I spend there?
+    a: >-
+      Allow a half day. That gives you time for the period rooms, the quilt
+      collection and any special exhibition, plus a walk through the Mount
+      Vernon garden and the arboretum.
+  - q: How do I get there without a car?
+    a: >-
+      Take a bus from the city centre up to the University of Bath on Claverton
+      Down, then walk; check the current route first. You can also walk up from
+      the Kennet and Avon Canal towpath, but the climb is steep.
+  - q: Is it good for children?
+    a: >-
+      Yes. The museum has a play area and a café, and children usually find the
+      period rooms and the big gardens easier going than a day in the city
+      centre.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-28'
 ---
 
 ## A Bath stone house full of America

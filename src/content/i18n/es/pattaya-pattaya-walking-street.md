@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: pattaya-pattaya-walking-street
-srcHash: '0013d0217778'
+srcHash: 'bbb19480594c'
 title: 'Walking Street de Pattaya: guía de viaje (4.3★)'
-description: 'En el sur de Pattaya, entre el arco de Beach Road y el muelle de Bali Hai, la Walking Street es una calle peatonal de ocio nocturno cerrada al tráfico todas las noches de 7pm a 3am. Tiene una valoración de 4.3★ (53,408 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En el sur de Pattaya, entre el arco de Beach Road y el muelle de Bali Hai, la Walking Street es una calle peatonal de ocio nocturno cerrada al tráfico todas las noches de 7pm a 3am. Tiene una valoración de 4.3★ (53,612 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En el sur de Pattaya, la Walking Street es una calle peatonal dedicada al ocio nocturno que se cierra al tráfico todas las noches de 7pm a 3am, desde el arco de Beach Road hasta el muelle de Bali Hai. Cualquier día de la semana, la franja más tranquila va de 7pm a 8pm. Los fines de semana conviene evitar el tramo de 9pm a 11pm, cuando se concentra la mayor cantidad de gente.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar la Walking Street de Pattaya?

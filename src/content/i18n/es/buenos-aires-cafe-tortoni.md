@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: buenos-aires-cafe-tortoni
-srcHash: 'f23c298bdcfb'
+srcHash: '3bbecea63df8'
 title: 'Café Tortoni: guía de viaje de Buenos Aires (4.5★)'
-description: Desde 1858 se sirve café en el Café Tortoni, situado en Av. de Mayo 825, en pleno centro de Buenos Aires y a pocos pasos de la estación Piedras de la línea A del Subte. Con 4.5★ (40,927 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
+description: Desde 1858 se sirve café en el Café Tortoni, situado en Av. de Mayo 825, en pleno centro de Buenos Aires y a pocos pasos de la estación Piedras de la línea A del Subte. Con 4.5★ (40,926 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
 quickAnswer: En pleno centro de Buenos Aires, en Av. de Mayo 825, el Café Tortoni sirve café desde 1858. Se encuentra a pocos pasos de la estación Piedras de la línea A del Subte. Los fines de semana, el momento más tranquilo es entre las 8am y las 9am, nada más abrir y antes de que empiece a formarse la fila en la vereda. Actualmente abre todos los días de 8am–9pm. Los espectáculos de tango del salón del fondo se reservan aparte.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Café Tortoni?

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: paris-rue-mouffetard-market
-srcHash: '85812ea19b51'
+srcHash: '505ffc669507'
 title: 'Mercado de la Rue Mouffetard: Guía de Viaje de París (4.5★)'
-description: 'El mercado de la Rue Mouffetard se extiende por su calle empedrada en el distrito 5 de París, abierto de martes a domingo de 8:00 a 13:00 y cerrado los lunes. 4.5★ (2.130 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El mercado de la Rue Mouffetard se extiende por su calle empedrada en el distrito 5 de París, abierto de martes a domingo de 8:00 a 13:00 y cerrado los lunes. 4.5★ (2.148 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El mercado de la Rue Mouffetard se extiende por su calle empedrada en el distrito 5 de París, abierto de martes a domingo de 8:00 a 13:00 y cerrado los lunes. Es un lugar muy conocido, no un hallazgo secreto, así que conviene llegar cerca de las 8:00 si se quiere moverse con libertad entre los puestos. Vaya con hambre: esta es una calle para comprar y picar algo, no un destino para sentarse a comer con calma.'
 faq:
   - q: ¿Cuál es el horario del mercado de la Rue Mouffetard?

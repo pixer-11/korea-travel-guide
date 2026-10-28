@@ -1,59 +1,91 @@
 ---
-title: "Puerto de Mar del Plata: Travel Guide (4.4★)"
-description: "Puerto de Mar del Plata is the working fishing port on the south side of Mar del Plata, where you can watch the yellow fishing boats at the Banquina de Pescadores, see the sea lion colony and eat fried squid at the seafood cantinas. 4.4★ (25,167 reviews) — what visitors say, hours, and tips."
-country: "Argentina"
-region: "Mar del Plata"
-category: "hidden-gem"
-pubDate: "2026-10-28T08:21:24.256Z"
+title: 'Puerto de Mar del Plata: Travel Guide (4.4★)'
+description: >-
+  Puerto de Mar del Plata is the working fishing port on the south side of Mar
+  del Plata, where you can watch the yellow fishing boats at the Banquina de
+  Pescadores, see the sea lion colony and eat fried squid at the seafood
+  cantinas. 4.4★ (25,168 reviews) — what visitors say, hours, and tips.
+country: Argentina
+region: Mar del Plata
+category: hidden-gem
+pubDate: '2026-10-28T08:21:24.256Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Puerto_pesquero_de_Mar_del_Plata_01.jpg/3840px-Puerto_pesquero_de_Mar_del_Plata_01.jpg"
-  credit: "Photo: Fernando de Gorocica / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Puerto_pesquero_de_Mar_del_Plata_01.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Puerto_pesquero_de_Mar_del_Plata_01.jpg/3840px-Puerto_pesquero_de_Mar_del_Plata_01.jpg
+  credit: 'Photo: Fernando de Gorocica / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Puerto_pesquero_de_Mar_del_Plata_01.jpg
+  via: act
   focus:
     x: 60
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Puerto_pesquero_de_Mar_del_Plata_03.jpg/3840px-Puerto_pesquero_de_Mar_del_Plata_03.jpg"
-    credit: "Photo: Fernando de Gorocica / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Puerto_pesquero_de_Mar_del_Plata_03.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Puerto_pesquero_de_Mar_del_Plata_03.jpg/3840px-Puerto_pesquero_de_Mar_del_Plata_03.jpg
+    credit: 'Photo: Fernando de Gorocica / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Puerto_pesquero_de_Mar_del_Plata_03.jpg
 place:
-  id: "ChIJO0gpkfLdhJURRYn3r0XyS00"
-  name: "Puerto de Mar del Plata"
-  address: "B7600 Mar del Plata, Buenos Aires Province, Argentina"
+  id: ChIJO0gpkfLdhJURRYn3r0XyS00
+  name: Puerto de Mar del Plata
+  address: 'B7600 Mar del Plata, Buenos Aires Province, Argentina'
   rating: 4.4
-  userRatingsTotal: 25167
-  googleMapsUrl: "https://maps.google.com/?cid=5569811745292650821&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 25168
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5569811745292650821&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -38.050253999999995
   lng: -57.53815259999999
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "mar del plata"
-  - "old quarter"
-quickAnswer: "Puerto de Mar del Plata is the working fishing port on the south side of Mar del Plata, where you can watch the yellow fishing boats at the Banquina de Pescadores, see the sea lion colony and eat fried squid at the seafood cantinas. It is one of the most visited spots in the city, so come outside peak summer weekends if you can, and allow two to three hours for a walk, the sea lions and a long seafood lunch."
+  - mar del plata
+  - old quarter
+quickAnswer: >-
+  Puerto de Mar del Plata is the working fishing port on the south side of Mar
+  del Plata, where you can watch the yellow fishing boats at the Banquina de
+  Pescadores, see the sea lion colony and eat fried squid at the seafood
+  cantinas. It is one of the most visited spots in the city, so come outside
+  peak summer weekends if you can, and allow two to three hours for a walk, the
+  sea lions and a long seafood lunch.
 faq:
-  - q: "How do I get to Puerto de Mar del Plata from the city centre?"
-    a: "It is a few kilometres south of the Casino and the Rambla. A taxi or ride-hail is quickest. City buses also run to the Puerto neighbourhood, so check a transit app for the current line. You can also walk the coast from Playa Grande."
-  - q: "Where exactly are the sea lions?"
-    a: "The colony of southern sea lions hauls out on the Escollera Sur, the southern breakwater, close to the fishing wharf. You can watch from the walkway. Do not feed them or climb onto the rocks."
-  - q: "What should I eat at the port?"
-    a: "Rabas (fried squid rings) are the classic first plate. After that, try cornalitos, fried merluza (hake), a cazuela de mariscos or a paella to share. Portions are big."
-  - q: "How long should I spend there?"
-    a: "Two to three hours covers the Banquina de Pescadores, the sea lions and a long seafood lunch. Add time for a harbour boat trip in the warmer months."
-  - q: "When is the best time to visit?"
-    a: "Mornings are best for seeing the working boats. Late afternoon is good for photos of the yellow fleet. January and February are the busiest months, and spring or autumn are calmer. Restaurants keep their own hours, so check them before you go."
+  - q: How do I get to Puerto de Mar del Plata from the city centre?
+    a: >-
+      It is a few kilometres south of the Casino and the Rambla. A taxi or
+      ride-hail is quickest. City buses also run to the Puerto neighbourhood, so
+      check a transit app for the current line. You can also walk the coast from
+      Playa Grande.
+  - q: Where exactly are the sea lions?
+    a: >-
+      The colony of southern sea lions hauls out on the Escollera Sur, the
+      southern breakwater, close to the fishing wharf. You can watch from the
+      walkway. Do not feed them or climb onto the rocks.
+  - q: What should I eat at the port?
+    a: >-
+      Rabas (fried squid rings) are the classic first plate. After that, try
+      cornalitos, fried merluza (hake), a cazuela de mariscos or a paella to
+      share. Portions are big.
+  - q: How long should I spend there?
+    a: >-
+      Two to three hours covers the Banquina de Pescadores, the sea lions and a
+      long seafood lunch. Add time for a harbour boat trip in the warmer months.
+  - q: When is the best time to visit?
+    a: >-
+      Mornings are best for seeing the working boats. Late afternoon is good for
+      photos of the yellow fleet. January and February are the busiest months,
+      and spring or autumn are calmer. Restaurants keep their own hours, so
+      check them before you go.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-28'
 ---
 
 ## The yellow fleet at the Banquina

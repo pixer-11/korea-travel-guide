@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: mar-del-plata-puerto-de-mar-del-plata
-srcHash: 'a4c691976013'
+srcHash: '5300e39d29fd'
 title: 'Puerto de Mar del Plata: guía de viaje (4.4★)'
-description: 'En el extremo sur de Mar del Plata, el puerto pesquero en plena actividad reúne la flota amarilla de la Banquina de Pescadores, la colonia de lobos marinos y las cantinas donde se comen rabas. 4.4★ (25,167 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En el extremo sur de Mar del Plata, el puerto pesquero en plena actividad reúne la flota amarilla de la Banquina de Pescadores, la colonia de lobos marinos y las cantinas donde se comen rabas. 4.4★ (25,168 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En el extremo sur de Mar del Plata se encuentra su puerto pesquero, todavía en plena actividad. Allí se puede contemplar la flota amarilla amarrada en la Banquina de Pescadores, observar la colonia de lobos marinos y comer rabas en las cantinas de mariscos. Es uno de los rincones más visitados de la ciudad, por lo que conviene evitar los fines de semana de pleno verano. Calcule entre dos y tres horas para recorrerlo, ver los lobos marinos y almorzar sin prisas.
 faq:
   - q: ¿Cómo se llega al Puerto de Mar del Plata desde el centro?

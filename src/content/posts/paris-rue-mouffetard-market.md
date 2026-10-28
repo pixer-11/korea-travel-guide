@@ -1,59 +1,85 @@
 ---
-title: "Rue Mouffetard Market: Paris Travel Guide (4.5★)"
-description: "Rue Mouffetard Market runs down its cobbled street in Paris's 5th arrondissement, open Tuesday through Sunday from 8am to 1pm and closed Mondays. 4.5★ (2,130 reviews) — what visitors say, hours, and tips."
-country: "France"
-region: "Paris"
-category: "hidden-gem"
-pubDate: "2026-09-21T07:47:53.106Z"
+title: 'Rue Mouffetard Market: Paris Travel Guide (4.5★)'
+description: >-
+  Rue Mouffetard Market runs down its cobbled street in Paris's 5th
+  arrondissement, open Tuesday through Sunday from 8am to 1pm and closed
+  Mondays. 4.5★ (2,148 reviews) — what visitors say, hours, and tips.
+country: France
+region: Paris
+category: hidden-gem
+pubDate: '2026-09-21T07:47:53.106Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/4/4f/Rue_Mouffetard_food_market%2C_Paris_8_May_2012.jpg"
-  credit: "Photo: edwin.11 / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Rue_Mouffetard_food_market,_Paris_8_May_2012.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/4/4f/Rue_Mouffetard_food_market%2C_Paris_8_May_2012.jpg
+  credit: 'Photo: edwin.11 / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Rue_Mouffetard_food_market,_Paris_8_May_2012.jpg
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/8/8f/Street_market_rue_Mouffetard_St_Medard_dsc00727.jpg"
-    credit: "Photo: David Monniaux / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Street_market_rue_Mouffetard_St_Medard_dsc00727.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/8/8f/Street_market_rue_Mouffetard_St_Medard_dsc00727.jpg
+    credit: 'Photo: David Monniaux / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Street_market_rue_Mouffetard_St_Medard_dsc00727.jpg
 place:
-  id: "ChIJS3JfE-xx5kcRBwxbA7agJOQ"
-  name: "Rue Mouffetard Market"
-  address: "139 Rue Mouffetard, 75005 Paris, France"
+  id: ChIJS3JfE-xx5kcRBwxbA7agJOQ
+  name: Rue Mouffetard Market
+  address: '139 Rue Mouffetard, 75005 Paris, France'
   rating: 4.5
-  userRatingsTotal: 2130
-  googleMapsUrl: "https://maps.google.com/?cid=16439441243409943559&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2148
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16439441243409943559&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 48.8404307
   lng: 2.3498002
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 8:00 AM – 1:00 PM"
-    - "Wednesday: 8:00 AM – 1:00 PM"
-    - "Thursday: 8:00 AM – 1:00 PM"
-    - "Friday: 8:00 AM – 1:00 PM"
-    - "Saturday: 8:00 AM – 1:00 PM"
-    - "Sunday: 8:00 AM – 1:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 8:00 AM – 1:00 PM'
+    - 'Wednesday: 8:00 AM – 1:00 PM'
+    - 'Thursday: 8:00 AM – 1:00 PM'
+    - 'Friday: 8:00 AM – 1:00 PM'
+    - 'Saturday: 8:00 AM – 1:00 PM'
+    - 'Sunday: 8:00 AM – 1:00 PM'
 tags:
-  - "paris"
-  - "local market"
-quickAnswer: "Rue Mouffetard Market runs down its cobbled street in Paris's 5th arrondissement, open Tuesday through Sunday from 8am to 1pm and closed Mondays. It's well-known, not a secret find, so arrive close to 8am if you want to move freely between stalls. Come hungry: this is a shopping and grazing street, not a sit-down destination."
+  - paris
+  - local market
+quickAnswer: >-
+  Rue Mouffetard Market runs down its cobbled street in Paris's 5th
+  arrondissement, open Tuesday through Sunday from 8am to 1pm and closed
+  Mondays. It's well-known, not a secret find, so arrive close to 8am if you
+  want to move freely between stalls. Come hungry: this is a shopping and
+  grazing street, not a sit-down destination.
 faq:
-  - q: "What are the opening hours for Rue Mouffetard Market?"
-    a: "Tuesday through Sunday, 8am to 1pm. It's closed all day Monday, and there's no evening trading any day of the week."
-  - q: "What metro station is closest?"
-    a: "Place Monge on Line 7 is closest to the top of the street near Place de la Contrescarpe; Censier-Daubenton, also Line 7, is closer to the southern end near Saint-Médard church."
-  - q: "Is Rue Mouffetard Market a hidden gem or a tourist spot?"
-    a: "It's well-known and popular with both residents and visitors, not an undiscovered spot, so expect crowds especially on weekend mornings."
-  - q: "How long should I spend at the market?"
-    a: "Plan on 45 minutes to an hour for browsing the stalls; longer if you stop to eat or linger at Saint-Médard church at the southern end."
-  - q: "What's nearby if I want to eat or see more?"
-    a: "Saint-Médard church sits at the southern end of the street, and the strip continues as a dining street with bakeries and small bistros that stay open past market hours."
+  - q: What are the opening hours for Rue Mouffetard Market?
+    a: >-
+      Tuesday through Sunday, 8am to 1pm. It's closed all day Monday, and
+      there's no evening trading any day of the week.
+  - q: What metro station is closest?
+    a: >-
+      Place Monge on Line 7 is closest to the top of the street near Place de la
+      Contrescarpe; Censier-Daubenton, also Line 7, is closer to the southern
+      end near Saint-Médard church.
+  - q: Is Rue Mouffetard Market a hidden gem or a tourist spot?
+    a: >-
+      It's well-known and popular with both residents and visitors, not an
+      undiscovered spot, so expect crowds especially on weekend mornings.
+  - q: How long should I spend at the market?
+    a: >-
+      Plan on 45 minutes to an hour for browsing the stalls; longer if you stop
+      to eat or linger at Saint-Médard church at the southern end.
+  - q: What's nearby if I want to eat or see more?
+    a: >-
+      Saint-Médard church sits at the southern end of the street, and the strip
+      continues as a dining street with bakeries and small bistros that stay
+      open past market hours.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-28'
 ---
 
 ## What you're walking into

@@ -1,44 +1,54 @@
 ---
-title: "Pattaya Walking Street: Travel Guide (4.3★)"
-description: "Pattaya Walking Street is South Pattaya's pedestrian nightlife strip, closed to traffic from 7pm to 3am every night between the Beach Road arch and Bali Hai Pier. 4.3★ (53,408 reviews) — what visitors say, hours, and tips."
-country: "Thailand"
-region: "Pattaya"
-category: "hidden-gem"
-pubDate: "2026-09-28T07:49:08.085Z"
+title: 'Pattaya Walking Street: Travel Guide (4.3★)'
+description: >-
+  Pattaya Walking Street is South Pattaya's pedestrian nightlife strip, closed
+  to traffic from 7pm to 3am every night between the Beach Road arch and Bali
+  Hai Pier. 4.3★ (53,612 reviews) — what visitors say, hours, and tips.
+country: Thailand
+region: Pattaya
+category: hidden-gem
+pubDate: '2026-09-28T07:49:08.085Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/5/53/Walking_street%2Cpattaya%2CTHAILAND_-_panoramio.jpg"
-  credit: "Photo: Biswajit Majumdar / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Walking_street,pattaya,THAILAND_-_panoramio.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/5/53/Walking_street%2Cpattaya%2CTHAILAND_-_panoramio.jpg
+  credit: 'Photo: Biswajit Majumdar / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Walking_street,pattaya,THAILAND_-_panoramio.jpg
+  via: act
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Pattaya%2C_Walking_Street_at_night%2C_Thailand.jpg/3840px-Pattaya%2C_Walking_Street_at_night%2C_Thailand.jpg"
-    credit: "Photo: Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Pattaya,_Walking_Street_at_night,_Thailand.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Pattaya%2C_Walking_Street_at_night%2C_Thailand.jpg/3840px-Pattaya%2C_Walking_Street_at_night%2C_Thailand.jpg
+    credit: 'Photo: Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Pattaya,_Walking_Street_at_night,_Thailand.jpg
 place:
-  id: "ChIJq-9EkxOWAjER7WWBPBHXd1c"
-  name: "Pattaya Walking Street"
-  address: "Walking St, Muang Pattaya, Amphoe Bang Lamung, Chang Wat Chon Buri 20150, Thailand"
+  id: ChIJq-9EkxOWAjER7WWBPBHXd1c
+  name: Pattaya Walking Street
+  address: >-
+    Walking St, Muang Pattaya, Amphoe Bang Lamung, Chang Wat Chon Buri 20150,
+    Thailand
   rating: 4.3
-  userRatingsTotal: 53408
-  googleMapsUrl: "https://maps.google.com/?cid=6302742672557827565&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 53612
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6302742672557827565&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 12.927374799999999
   lng: 100.8746134
   openingHours:
-    - "Monday: 7:00 PM – 3:00 AM"
-    - "Tuesday: 7:00 PM – 3:00 AM"
-    - "Wednesday: 7:00 PM – 3:00 AM"
-    - "Thursday: 7:00 PM – 3:00 AM"
-    - "Friday: 7:00 PM – 3:00 AM"
-    - "Saturday: 7:00 PM – 3:00 AM"
-    - "Sunday: 7:00 PM – 3:00 AM"
+    - 'Monday: 7:00 PM – 3:00 AM'
+    - 'Tuesday: 7:00 PM – 3:00 AM'
+    - 'Wednesday: 7:00 PM – 3:00 AM'
+    - 'Thursday: 7:00 PM – 3:00 AM'
+    - 'Friday: 7:00 PM – 3:00 AM'
+    - 'Saturday: 7:00 PM – 3:00 AM'
+    - 'Sunday: 7:00 PM – 3:00 AM'
   busyness:
-    updated: 2026-09-28
+    updated: 2026-09-28T00:00:00.000Z
     weekdayQuiet:
       - 19
     weekdayBusy:
@@ -48,24 +58,45 @@ place:
     weekendBusy:
       - 21
       - 22
-    venueId: "ven_633164584842504257573752456a41574f786b45392d714a496843"
+    venueId: ven_633164584842504257573752456a41574f786b45392d714a496843
 tags:
-  - "pattaya"
-  - "old quarter"
-quickAnswer: "Pattaya Walking Street is South Pattaya's pedestrian nightlife strip, closed to traffic from 7pm to 3am every night between the Beach Road arch and Bali Hai Pier. It's quietest from 7pm to 8pm on every day of the week. Avoid 9pm to 11pm on weekends, when the crowds are thickest."
+  - pattaya
+  - old quarter
+quickAnswer: >-
+  Pattaya Walking Street is South Pattaya's pedestrian nightlife strip, closed
+  to traffic from 7pm to 3am every night between the Beach Road arch and Bali
+  Hai Pier. It's quietest from 7pm to 8pm on every day of the week. Avoid 9pm to
+  11pm on weekends, when the crowds are thickest.
 faq:
-  - q: "When is the quietest time to visit Pattaya Walking Street?"
-    a: "The quietest time is 7pm to 8pm, on weekdays and weekends alike. That's the first hour after the street closes to traffic. Avoid 9pm to 11pm on weekends, which is the busiest window."
-  - q: "What hours is Walking Street open?"
-    a: "It's pedestrian-only from 7pm to 3am every night of the week, Monday to Sunday. Outside those hours it's a normal road with most venues closed."
-  - q: "How do I get to Walking Street?"
-    a: "Catch a blue songthaew (baht bus) heading south along Beach Road. It stops at the Walking Street arch. Press the ceiling buzzer to get off and pay the driver in cash. Taxis from Jomtien can drop you at the Bali Hai Pier end."
-  - q: "Is Walking Street suitable if I'm not interested in the bars?"
-    a: "Many couples and groups walk it once just to see it, and there are seafood restaurants and street food along the way. But it's openly a red-light district, and the go-go bars are its main business. Go early in the evening if you mainly want a look."
-  - q: "What's nearby?"
-    a: "Bali Hai Pier is at the southern end, with ferries to Koh Larn. Pratumnak Hill rises just beyond it, with the Pattaya City sign and the Khao Pattaya viewpoint over the bay."
+  - q: When is the quietest time to visit Pattaya Walking Street?
+    a: >-
+      The quietest time is 7pm to 8pm, on weekdays and weekends alike. That's
+      the first hour after the street closes to traffic. Avoid 9pm to 11pm on
+      weekends, which is the busiest window.
+  - q: What hours is Walking Street open?
+    a: >-
+      It's pedestrian-only from 7pm to 3am every night of the week, Monday to
+      Sunday. Outside those hours it's a normal road with most venues closed.
+  - q: How do I get to Walking Street?
+    a: >-
+      Catch a blue songthaew (baht bus) heading south along Beach Road. It stops
+      at the Walking Street arch. Press the ceiling buzzer to get off and pay
+      the driver in cash. Taxis from Jomtien can drop you at the Bali Hai Pier
+      end.
+  - q: Is Walking Street suitable if I'm not interested in the bars?
+    a: >-
+      Many couples and groups walk it once just to see it, and there are seafood
+      restaurants and street food along the way. But it's openly a red-light
+      district, and the go-go bars are its main business. Go early in the
+      evening if you mainly want a look.
+  - q: What's nearby?
+    a: >-
+      Bali Hai Pier is at the southern end, with ferries to Koh Larn. Pratumnak
+      Hill rises just beyond it, with the Pattaya City sign and the Khao Pattaya
+      viewpoint over the bay.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-28'
 ---
 
 ## Neon from the arch to the pier

@@ -1,36 +1,42 @@
 ---
-title: "Sainte-Chapelle: Paris Travel Guide (4.6★)"
-description: "Sainte-Chapelle sits on the Île de la Cité at 10 Bd du Palais, inside the same walled complex as the Palais de Justice, and it's busiest on weekends between 1pm and 5pm. 4.6★ (50,186 reviews) — what visitors say, hours, and tips."
-country: "France"
-region: "Paris"
-category: "attraction"
-pubDate: "2026-09-09T07:36:40.507Z"
+title: 'Sainte-Chapelle: Paris Travel Guide (4.6★)'
+description: >-
+  Sainte-Chapelle sits on the Île de la Cité at 10 Bd du Palais, inside the same
+  walled complex as the Palais de Justice, and it's busiest on weekends between
+  1pm and 5pm. 4.6★ (50,767 reviews) — what visitors say, hours, and tips.
+country: France
+region: Paris
+category: attraction
+pubDate: '2026-09-09T07:36:40.507Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Sainte_Chapelle_Interior_Stained_Glass.jpg/1920px-Sainte_Chapelle_Interior_Stained_Glass.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Sainte_Chapelle_Interior_Stained_Glass.jpg/1920px-Sainte_Chapelle_Interior_Stained_Glass.jpg
   credit: 'Photo: Oldmanisold / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Sainte_Chapelle_Interior_Stained_Glass.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Sainte_Chapelle_Interior_Stained_Glass.jpg
 place:
-  id: "ChIJR3122B9u5kcRaCck3PlB9DM"
-  name: "Sainte-Chapelle"
-  address: "10 Bd du Palais, 75001 Paris, France"
+  id: ChIJR3122B9u5kcRaCck3PlB9DM
+  name: Sainte-Chapelle
+  address: '10 Bd du Palais, 75001 Paris, France'
   rating: 4.6
-  userRatingsTotal: 50186
-  googleMapsUrl: "https://maps.google.com/?cid=3743689731647743848&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 50767
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3743689731647743848&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 48.855374999999995
   lng: 2.3449609
-  phone: "+33 1 53 40 60 80"
+  phone: +33 1 53 40 60 80
   openingHours:
-    - "Monday: 9:00 AM – 7:00 PM"
-    - "Tuesday: 9:00 AM – 7:00 PM"
-    - "Wednesday: 9:00 AM – 7:00 PM"
-    - "Thursday: 9:00 AM – 7:00 PM"
-    - "Friday: 9:00 AM – 7:00 PM"
-    - "Saturday: 9:00 AM – 7:00 PM"
-    - "Sunday: 9:00 AM – 7:00 PM"
+    - 'Monday: 9:00 AM – 7:00 PM'
+    - 'Tuesday: 9:00 AM – 7:00 PM'
+    - 'Wednesday: 9:00 AM – 7:00 PM'
+    - 'Thursday: 9:00 AM – 7:00 PM'
+    - 'Friday: 9:00 AM – 7:00 PM'
+    - 'Saturday: 9:00 AM – 7:00 PM'
+    - 'Sunday: 9:00 AM – 7:00 PM'
   busyness:
-    updated: 2026-09-09
+    updated: 2026-09-09T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 17
@@ -47,24 +53,43 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_4d4439426c50336b63436152636b3575394232323133524a496843"
+    venueId: ven_4d4439426c50336b63436152636b3575394232323133524a496843
 tags:
-  - "paris"
-  - "historic site"
-quickAnswer: "Sainte-Chapelle sits on the Île de la Cité at 10 Bd du Palais, inside the same walled complex as the Palais de Justice, and it's busiest on weekends between 1pm and 5pm. Go right at opening (9am) on a sunny weekday for the stained glass to actually glow. Plan on 45 minutes to an hour, and book a timed ticket online since there's no separate \"skip the line\" gate."
+  - paris
+  - historic site
+quickAnswer: >-
+  Sainte-Chapelle sits on the Île de la Cité at 10 Bd du Palais, inside the same
+  walled complex as the Palais de Justice, and it's busiest on weekends between
+  1pm and 5pm. Go right at opening (9am) on a sunny weekday for the stained
+  glass to actually glow. Plan on 45 minutes to an hour, and book a timed ticket
+  online since there's no separate "skip the line" gate.
 faq:
-  - q: "How do I get to Sainte-Chapelle?"
-    a: "Take Metro Line 4 to Cité station, a two-minute walk, or RER B/C to Saint-Michel–Notre-Dame, about five minutes away. It's on Île de la Cité at 10 Bd du Palais."
-  - q: "When is the quietest time to visit?"
-    a: "Crowd patterns show the site is quiet 9am–10am and 5pm–7pm on weekdays and busy 1pm–3pm, but weekends specifically get heavy between 1pm and 5pm. A weekday morning arrival is the safest bet to avoid the worst of it."
-  - q: "How much does it cost and do I need to book ahead?"
-    a: "Check current prices on the official site before going, as they change; a combined ticket with the Conciergerie next door is usually available. Booking a timed slot online is strongly recommended over walking up."
-  - q: "How long should I spend there?"
-    a: "Most visitors need 45 minutes to an hour, including the security check at the shared courtyard entrance with the Palais de Justice."
-  - q: "What's nearby if I want to combine the visit?"
-    a: "The Conciergerie is next door in the same complex, and Notre-Dame Cathedral is a short walk east across the island."
+  - q: How do I get to Sainte-Chapelle?
+    a: >-
+      Take Metro Line 4 to Cité station, a two-minute walk, or RER B/C to
+      Saint-Michel–Notre-Dame, about five minutes away. It's on Île de la Cité
+      at 10 Bd du Palais.
+  - q: When is the quietest time to visit?
+    a: >-
+      Crowd patterns show the site is quiet 9am–10am and 5pm–7pm on weekdays and
+      busy 1pm–3pm, but weekends specifically get heavy between 1pm and 5pm. A
+      weekday morning arrival is the safest bet to avoid the worst of it.
+  - q: How much does it cost and do I need to book ahead?
+    a: >-
+      Check current prices on the official site before going, as they change; a
+      combined ticket with the Conciergerie next door is usually available.
+      Booking a timed slot online is strongly recommended over walking up.
+  - q: How long should I spend there?
+    a: >-
+      Most visitors need 45 minutes to an hour, including the security check at
+      the shared courtyard entrance with the Palais de Justice.
+  - q: What's nearby if I want to combine the visit?
+    a: >-
+      The Conciergerie is next door in the same complex, and Notre-Dame
+      Cathedral is a short walk east across the island.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-28'
 ---
 ## What you're actually looking at
 

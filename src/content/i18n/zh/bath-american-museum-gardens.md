@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: bath-american-museum-gardens
-srcHash: '11b60a0fdbbc'
+srcHash: '5cd6fbbe93f0'
 title: 巴斯美国博物馆与花园旅行指南（4.5★）
-description: 美国博物馆与花园坐落在克拉弗顿高地（Claverton Down）的克拉弗顿庄园内，距巴斯市中心东南约2.5英里，俯瞰林普利斯托克河谷。评分4.5★（1,341条评价），这里汇总了游客评价、开放时间和实用贴士。
+description: 美国博物馆与花园坐落在克拉弗顿高地（Claverton Down）的克拉弗顿庄园内，距巴斯市中心东南约2.5英里，俯瞰林普利斯托克河谷。评分4.5★（1,343条评价），这里汇总了游客评价、开放时间和实用贴士。
 quickAnswer: 美国博物馆与花园位于巴斯市中心东南约2.5英里处，坐落在克拉弗顿高地（Claverton Down）的克拉弗顿庄园（Claverton Manor）内，脚下就是林普利斯托克河谷（Limpley Stoke valley）。目前的开放时间为10am–5pm，不过开放季和具体时间全年都会调整，出发前请先上官网确认。时代陈列室、拼布藏品和花园都值得细看，建议留出半天时间。
 faq:
   - q: 巴斯的美国博物馆与花园在哪里？

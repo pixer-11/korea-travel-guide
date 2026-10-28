@@ -1,30 +1,35 @@
 ---
-title: 'Shwi, Canal Saint-Martin: Menu, Prices & Hours (Paris, 4.2★)'
-description: 'Lebanese grilled chicken by the Canal Saint-Martin, from the Kubri team: what''s on the menu, what it costs, opening hours and the quiet times. 4.2★.'
+title: 'Shwi, Canal Saint-Martin: Menu, Prices & Hours (Paris, 4.1★)'
+description: >-
+  Lebanese grilled chicken by the Canal Saint-Martin, from the Kubri team:
+  what's on the menu, what it costs, opening hours and the quiet times. 4.2★.
 country: France
 region: Paris
 category: restaurant
 pubDate: '2026-07-23'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/561107504_eASdpbuuVCLUzfcMaGXoPON22Q-u3yuPM90ZPmMJTO0.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/561107504_eASdpbuuVCLUzfcMaGXoPON22Q-u3yuPM90ZPmMJTO0.jpg
   credit: 'Photo: Foursquare user content (SHWI Canal)'
   license: foursquare
-  source: https://foursquare.com/v/69f25221b6017e2fe578a235
+  source: 'https://foursquare.com/v/69f25221b6017e2fe578a235'
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: https://fastly.4sqi.net/img/general/original/1400292653_nBNi996WiOHbpwnF7OSxepPqx5cVB1Jo6fUf7VZb698.jpg
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/1400292653_nBNi996WiOHbpwnF7OSxepPqx5cVB1Jo6fUf7VZb698.jpg
     credit: 'Photo: Foursquare user content (SHWI Canal)'
     license: foursquare
-    source: https://foursquare.com/v/69f25221b6017e2fe578a235
+    source: 'https://foursquare.com/v/69f25221b6017e2fe578a235'
 place:
   id: ChIJ27AVGK5v5kcRb_4bpLIQXRI
   name: SHWI Canal
-  address: 60 Rue de Lancry, 75010 Paris, France
-  rating: 4.2
-  userRatingsTotal: 335
-  googleMapsUrl: https://maps.google.com/?cid=1323232224960314991&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  address: '60 Rue de Lancry, 75010 Paris, France'
+  rating: 4.1
+  userRatingsTotal: 628
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1323232224960314991&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 48.8726674
   lng: 2.3635672
@@ -36,23 +41,42 @@ place:
     - 'Friday: Closed'
     - 'Saturday: Closed'
     - 'Sunday: 12:00 – 3:00 PM, 6:30 – 10:30 PM'
+  priceLevel: 2
 tags:
   - paris
   - new & trending
-quickAnswer: Shwi is a Lebanese grilled-chicken counter from the Kubri team, set along the Canal Saint-Martin in Paris's 10th arrondissement. It opened in spring 2026 and has quickly become a canal-side lunch and takeaway favorite. Go on a weekday for a shorter wait, and confirm current hours before heading over since the spot is still new and details can shift.
+quickAnswer: >-
+  Shwi is a Lebanese grilled-chicken counter from the Kubri team, set along the
+  Canal Saint-Martin in Paris's 10th arrondissement. It opened in spring 2026
+  and has quickly become a canal-side lunch and takeaway favorite. Go on a
+  weekday for a shorter wait, and confirm current hours before heading over
+  since the spot is still new and details can shift.
 faq:
   - q: Where exactly is Shwi located?
-    a: It's along the Canal Saint-Martin in Paris's 10th arrondissement. Confirm the precise address on a map before you go, as the canal has many closely packed storefronts.
+    a: >-
+      It's along the Canal Saint-Martin in Paris's 10th arrondissement. Confirm
+      the precise address on a map before you go, as the canal has many closely
+      packed storefronts.
   - q: How do I get there by metro?
-    a: Jacques Bonsergent (Line 5), République (Lines 3, 5, 8, 9, 11), and Goncourt (Line 11) are all a short, flat walk from the canal.
+    a: >-
+      Jacques Bonsergent (Line 5), République (Lines 3, 5, 8, 9, 11), and
+      Goncourt (Line 11) are all a short, flat walk from the canal.
   - q: What's the signature dish?
-    a: Lebanese grilled chicken, served street-food style — the specialty the team (also behind Kubri) built the concept around.
+    a: >-
+      Lebanese grilled chicken, served street-food style — the specialty the
+      team (also behind Kubri) built the concept around.
   - q: Do I need a reservation?
-    a: Given its street-food, counter-style format, it's likely walk-in only, but confirm current policy directly since it's a new and evolving opening.
+    a: >-
+      Given its street-food, counter-style format, it's likely walk-in only, but
+      confirm current policy directly since it's a new and evolving opening.
   - q: When's the best time to visit?
-    a: Weekday lunch or a quieter mid-afternoon slot; weekends and peak lunch/dinner hours can mean queues, especially since it opened to strong buzz in spring 2026.
+    a: >-
+      Weekday lunch or a quieter mid-afternoon slot; weekends and peak
+      lunch/dinner hours can mean queues, especially since it opened to strong
+      buzz in spring 2026.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-28'
 ---
 
 ## Why go

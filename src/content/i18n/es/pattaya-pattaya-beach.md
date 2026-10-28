@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: pattaya-pattaya-beach
-srcHash: '4843d57de50b'
+srcHash: '191616b0f479'
 title: 'Playa de Pattaya: guía de viaje (4.5★)'
-description: 'La playa de Pattaya es la larga playa urbana que se curva a lo largo de Beach Road, en el centro de Pattaya, desde el extremo de Pattaya Norte hasta Walking Street y el muelle de Bali Hai. 4.5★ (799 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'La playa de Pattaya es la larga playa urbana que se curva a lo largo de Beach Road, en el centro de Pattaya, desde el extremo de Pattaya Norte hasta Walking Street y el muelle de Bali Hai. 4.5★ (810 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: La playa de Pattaya es la larga playa urbana que se curva a lo largo de Beach Road, en el centro de Pattaya, desde el extremo de Pattaya Norte hasta Walking Street y el muelle de Bali Hai (Bali Hai Pier). Lo mejor es venir a pasear a última hora de la tarde y contemplar la puesta de sol sobre el golfo de Tailandia. Si busca aguas más limpias, tome el ferri a Koh Larn en el muelle de Bali Hai.
 faq:
   - q: ¿Cómo se llega a la playa de Pattaya desde Bangkok?

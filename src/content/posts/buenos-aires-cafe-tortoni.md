@@ -1,61 +1,87 @@
 ---
-title: "Café Tortoni: Buenos Aires Travel Guide (4.5★)"
-description: "Café Tortoni is at Av. de Mayo 825 in central Buenos Aires, a short walk from Piedras station on Subte Line A, and it has been serving coffee since 1858. 4.5★ (40,927 reviews) — what visitors say, hours, and tips."
-country: "Argentina"
-region: "Buenos Aires"
-category: "trendy"
-pubDate: "2026-10-28T15:30:40.316Z"
+title: 'Café Tortoni: Buenos Aires Travel Guide (4.5★)'
+description: >-
+  Café Tortoni is at Av. de Mayo 825 in central Buenos Aires, a short walk from
+  Piedras station on Subte Line A, and it has been serving coffee since 1858.
+  4.5★ (40,926 reviews) — what visitors say, hours, and tips.
+country: Argentina
+region: Buenos Aires
+category: trendy
+pubDate: '2026-10-28T15:30:40.316Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Avenida_de_Mayo_Caf%C3%A9_Tortoni.jpg/1920px-Avenida_de_Mayo_Caf%C3%A9_Tortoni.jpg"
-  credit: "Photo: Roberto Fiadone is the author of this work / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Avenida_de_Mayo_Caf%C3%A9_Tortoni.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Avenida_de_Mayo_Caf%C3%A9_Tortoni.jpg/1920px-Avenida_de_Mayo_Caf%C3%A9_Tortoni.jpg
+  credit: >-
+    Photo: Roberto Fiadone is the author of this work / Wikimedia Commons (CC
+    BY-SA 3.0)
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Avenida_de_Mayo_Caf%C3%A9_Tortoni.jpg
   focus:
     x: 45
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJ01wendHKvJURLcQXvCCCC1I"
-  name: "Café Tortoni"
-  address: "Av. de Mayo 825, C1084 Cdad. Autónoma de Buenos Aires, Argentina"
+  id: ChIJ01wendHKvJURLcQXvCCCC1I
+  name: Café Tortoni
+  address: 'Av. de Mayo 825, C1084 Cdad. Autónoma de Buenos Aires, Argentina'
   rating: 4.5
-  userRatingsTotal: 40927
+  userRatingsTotal: 40926
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=5911962012960146477&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5911962012960146477&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -34.6086531
   lng: -58.3782121
-  phone: "+54 11 4342-4328"
+  phone: +54 11 4342-4328
   openingHours:
-    - "Monday: 8:00 AM – 9:00 PM"
-    - "Tuesday: 8:00 AM – 9:00 PM"
-    - "Wednesday: 8:00 AM – 9:00 PM"
-    - "Thursday: 8:00 AM – 9:00 PM"
-    - "Friday: 8:00 AM – 9:00 PM"
-    - "Saturday: 8:00 AM – 9:00 PM"
-    - "Sunday: 8:00 AM – 9:00 PM"
+    - 'Monday: 8:00 AM – 9:00 PM'
+    - 'Tuesday: 8:00 AM – 9:00 PM'
+    - 'Wednesday: 8:00 AM – 9:00 PM'
+    - 'Thursday: 8:00 AM – 9:00 PM'
+    - 'Friday: 8:00 AM – 9:00 PM'
+    - 'Saturday: 8:00 AM – 9:00 PM'
+    - 'Sunday: 8:00 AM – 9:00 PM'
   busyness:
-    updated: 2026-10-28
+    updated: 2026-10-28T00:00:00.000Z
     weekendQuiet:
       - 8
-    venueId: "ven_493143434343765851634c52554a764b48646e657731304a496843"
+    venueId: ven_493143434343765851634c52554a764b48646e657731304a496843
 tags:
-  - "buenos aires"
-  - "trendy cafe"
-quickAnswer: "Café Tortoni is at Av. de Mayo 825 in central Buenos Aires, a short walk from Piedras station on Subte Line A, and it has been serving coffee since 1858. On weekends it is calmest between 8am and 9am, right at opening, before the sidewalk queue builds. At the moment it opens 8am–9pm daily, and the tango shows in the back room are booked separately."
+  - buenos aires
+  - trendy cafe
+quickAnswer: >-
+  Café Tortoni is at Av. de Mayo 825 in central Buenos Aires, a short walk from
+  Piedras station on Subte Line A, and it has been serving coffee since 1858. On
+  weekends it is calmest between 8am and 9am, right at opening, before the
+  sidewalk queue builds. At the moment it opens 8am–9pm daily, and the tango
+  shows in the back room are booked separately.
 faq:
-  - q: "When is the quietest time to visit Café Tortoni?"
-    a: "On weekends it is calmest between 8am and 9am, right when it opens. Later in the day a queue often forms on the pavement outside."
-  - q: "How do I get to Café Tortoni?"
-    a: "Take Subte Line A to Piedras station, about a block from Av. de Mayo 825. Line C's Avenida de Mayo station is a few blocks west at Avenida 9 de Julio."
-  - q: "What should I order at Café Tortoni?"
-    a: "Chocolate con churros is the classic order. Medialunas with café con leche and a submarino (dark chocolate melted into hot milk) are also popular."
-  - q: "Do I need to book for the tango show?"
-    a: "Yes. The tango shows are held in a back room and ticketed separately from the café. Book ahead and confirm show times when you reserve."
-  - q: "What can I see nearby?"
-    a: "Walk east to Plaza de Mayo, the Casa Rosada and the Catedral Metropolitana. Or head west along Avenida de Mayo to Palacio Barolo and the Congress building."
+  - q: When is the quietest time to visit Café Tortoni?
+    a: >-
+      On weekends it is calmest between 8am and 9am, right when it opens. Later
+      in the day a queue often forms on the pavement outside.
+  - q: How do I get to Café Tortoni?
+    a: >-
+      Take Subte Line A to Piedras station, about a block from Av. de Mayo 825.
+      Line C's Avenida de Mayo station is a few blocks west at Avenida 9 de
+      Julio.
+  - q: What should I order at Café Tortoni?
+    a: >-
+      Chocolate con churros is the classic order. Medialunas with café con leche
+      and a submarino (dark chocolate melted into hot milk) are also popular.
+  - q: Do I need to book for the tango show?
+    a: >-
+      Yes. The tango shows are held in a back room and ticketed separately from
+      the café. Book ahead and confirm show times when you reserve.
+  - q: What can I see nearby?
+    a: >-
+      Walk east to Plaza de Mayo, the Casa Rosada and the Catedral
+      Metropolitana. Or head west along Avenida de Mayo to Palacio Barolo and
+      the Congress building.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-28'
 ---
 
 ## A salon on Avenida de Mayo

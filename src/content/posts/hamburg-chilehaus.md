@@ -1,44 +1,53 @@
 ---
-title: "Chilehaus: Hamburg Travel Guide (4.6★)"
-description: "Chilehaus is a 1920s brick office block in Hamburg's Kontorhausviertel (Altstadt), a short walk from Meßberg U-Bahn station on the U1. 4.6★ (4,042 reviews) — what visitors say, hours, and tips."
-country: "Germany"
-region: "Hamburg"
-category: "hidden-gem"
-pubDate: "2026-10-28T08:32:10.438Z"
+title: 'Chilehaus: Hamburg Travel Guide (4.6★)'
+description: >-
+  Chilehaus is a 1920s brick office block in Hamburg's Kontorhausviertel
+  (Altstadt), a short walk from Meßberg U-Bahn station on the U1. 4.6★ (4,043
+  reviews) — what visitors say, hours, and tips.
+country: Germany
+region: Hamburg
+category: hidden-gem
+pubDate: '2026-10-28T08:32:10.438Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Chilehaus_-_Hamburg.jpg/1920px-Chilehaus_-_Hamburg.jpg"
-  credit: "Photo: Esther Westerveld from Haarlemmermeer, Nederland / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Chilehaus_-_Hamburg.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Chilehaus_-_Hamburg.jpg/1920px-Chilehaus_-_Hamburg.jpg
+  credit: >-
+    Photo: Esther Westerveld from Haarlemmermeer, Nederland / Wikimedia Commons
+    (CC BY 2.0)
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Chilehaus_-_Hamburg.jpg'
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Hamburg%2C_Kontorhausviertel%2C_Chilehaus_--_2016_--_3428-34.jpg/3840px-Hamburg%2C_Kontorhausviertel%2C_Chilehaus_--_2016_--_3428-34.jpg"
-    credit: "Photo: Dietmar Rabich / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Hamburg,_Kontorhausviertel,_Chilehaus_--_2016_--_3428-34.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Hamburg%2C_Kontorhausviertel%2C_Chilehaus_--_2016_--_3428-34.jpg/3840px-Hamburg%2C_Kontorhausviertel%2C_Chilehaus_--_2016_--_3428-34.jpg
+    credit: 'Photo: Dietmar Rabich / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Hamburg,_Kontorhausviertel,_Chilehaus_--_2016_--_3428-34.jpg
 place:
-  id: "ChIJMx6O7uKOsUcRGU-reXfjQ50"
-  name: "Chilehaus"
-  address: "Fischertwiete 2A, 20095 Hamburg, Germany"
+  id: ChIJMx6O7uKOsUcRGU-reXfjQ50
+  name: Chilehaus
+  address: 'Fischertwiete 2A, 20095 Hamburg, Germany'
   rating: 4.6
-  userRatingsTotal: 4042
-  googleMapsUrl: "https://maps.google.com/?cid=11332151189676183321&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 4043
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=11332151189676183321&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 53.5483037
   lng: 10.0029951
-  phone: "+49 40 349190"
+  phone: +49 40 349190
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-10-28
+    updated: 2026-10-28T00:00:00.000Z
     weekdayQuiet:
       - 22
     weekdayBusy:
@@ -64,24 +73,47 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_3035516a665865722d5547526355734f4b75374f36784d4a496843"
+    venueId: ven_3035516a665865722d5547526355734f4b75374f36784d4a496843
 tags:
-  - "hamburg"
-  - "old quarter"
-quickAnswer: "Chilehaus is a 1920s brick office block in Hamburg's Kontorhausviertel (Altstadt), a short walk from Meßberg U-Bahn station on the U1. Its pointed eastern corner looks like a ship's bow. It's part of the UNESCO-listed Speicherstadt and Kontorhaus District, and you can look at the outside at any hour. Crowds are thinnest between 10pm and 11pm on weekdays, and on weekends between 7am and 1pm or between 6pm and 11pm."
+  - hamburg
+  - old quarter
+quickAnswer: >-
+  Chilehaus is a 1920s brick office block in Hamburg's Kontorhausviertel
+  (Altstadt), a short walk from Meßberg U-Bahn station on the U1. Its pointed
+  eastern corner looks like a ship's bow. It's part of the UNESCO-listed
+  Speicherstadt and Kontorhaus District, and you can look at the outside at any
+  hour. Crowds are thinnest between 10pm and 11pm on weekdays, and on weekends
+  between 7am and 1pm or between 6pm and 11pm.
 faq:
-  - q: "When is the quietest time to visit Chilehaus?"
-    a: "On weekdays it's calmest between 10pm and 11pm. On weekends it's quietest from 7am to 1pm and from 6pm to 11pm. Early weekend mornings are best for photos with few people in them."
-  - q: "Which U-Bahn station is closest to Chilehaus?"
-    a: "Meßberg on the U1 is the closest, a couple of minutes on foot. Steinstraße, also on the U1, is nearly as close. From Hamburg Hauptbahnhof it's an easy walk of about 10–15 minutes."
-  - q: "Can you go inside Chilehaus?"
-    a: "Yes, you can walk the public areas: the Fischertwiete passage, the arcades and the inner courtyards, plus the ground-floor shops and restaurants. The upper floors are private offices, and the shops keep their own hours."
-  - q: "How long should I spend at Chilehaus?"
-    a: "Allow 30–45 minutes for the bow, the curved Pumpen façade and the courtyards. If you add the rest of the Kontorhausviertel and the Speicherstadt next door, it easily fills half a day."
-  - q: "What is there to see near Chilehaus?"
-    a: "Next to it are Sprinkenhof and Messberghof, two more 1920s brick office blocks. The Speicherstadt warehouse district and Miniatur Wunderland are just south across the canal. St. Jacobi church is on the walk to the main station."
+  - q: When is the quietest time to visit Chilehaus?
+    a: >-
+      On weekdays it's calmest between 10pm and 11pm. On weekends it's quietest
+      from 7am to 1pm and from 6pm to 11pm. Early weekend mornings are best for
+      photos with few people in them.
+  - q: Which U-Bahn station is closest to Chilehaus?
+    a: >-
+      Meßberg on the U1 is the closest, a couple of minutes on foot.
+      Steinstraße, also on the U1, is nearly as close. From Hamburg Hauptbahnhof
+      it's an easy walk of about 10–15 minutes.
+  - q: Can you go inside Chilehaus?
+    a: >-
+      Yes, you can walk the public areas: the Fischertwiete passage, the arcades
+      and the inner courtyards, plus the ground-floor shops and restaurants. The
+      upper floors are private offices, and the shops keep their own hours.
+  - q: How long should I spend at Chilehaus?
+    a: >-
+      Allow 30–45 minutes for the bow, the curved Pumpen façade and the
+      courtyards. If you add the rest of the Kontorhausviertel and the
+      Speicherstadt next door, it easily fills half a day.
+  - q: What is there to see near Chilehaus?
+    a: >-
+      Next to it are Sprinkenhof and Messberghof, two more 1920s brick office
+      blocks. The Speicherstadt warehouse district and Miniatur Wunderland are
+      just south across the canal. St. Jacobi church is on the walk to the main
+      station.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-28'
 ---
 
 ## A ship made of brick

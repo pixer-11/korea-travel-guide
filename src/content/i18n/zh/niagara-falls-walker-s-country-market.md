@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: niagara-falls-walker-s-country-market
-srcHash: '244a9484414e'
+srcHash: '063f2107375f'
 title: 沃克乡村市场：尼亚加拉瀑布旅行指南（4.6★）
-description: 沃克乡村市场（Walker's Country Market）是一家开了多年的老店，卖水果、烘焙和三明治，位于湖滨尼亚加拉（Niagara-on-the-Lake）的15796 Niagara River Parkway。从尼亚加拉瀑布沿河北上即可到达，沿途风景优美。店铺评分4.6★（1,827条评价），本文汇总游客评价、营业时间和实用贴士。
+description: 沃克乡村市场（Walker's Country Market）是一家开了多年的老店，卖水果、烘焙和三明治，位于湖滨尼亚加拉（Niagara-on-the-Lake）的15796 Niagara River Parkway。从尼亚加拉瀑布沿河北上即可到达，沿途风景优美。店铺评分4.6★（1,828条评价），本文汇总游客评价、营业时间和实用贴士。
 quickAnswer: 沃克乡村市场（Walker's Country Market）是一家经营多年的老店，主营水果、烘焙和三明治，地址为湖滨尼亚加拉（Niagara-on-the-Lake）的15796 Niagara River Parkway。从尼亚加拉瀑布出发，沿河一路向北，风景很美。目前店铺每天上午9点至下午5点营业，往返瀑布和老城之间时，正好可以在这里吃午饭或者买点零食。想吃到最多的本地水果，夏季或初秋来最合适；想挑到最好的烘焙点心，就早上来。
 faq:
   - q: 沃克乡村市场具体在哪里？

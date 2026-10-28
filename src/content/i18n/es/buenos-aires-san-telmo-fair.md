@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: buenos-aires-san-telmo-fair
-srcHash: '6271fde34cbc'
+srcHash: '62e911480e8a'
 title: 'Feria de San Telmo: guía de viaje de Buenos Aires (4.5★)'
-description: Cada domingo, la Feria de San Telmo ocupa la calle Defensa, en el barrio porteño de San Telmo. Sus puestos de antigüedades, artesanías, ropa vintage y objetos curiosos se extienden desde las inmediaciones de la Plaza de Mayo hasta la Plaza Dorrego y más allá. Con una valoración de 4.5★ (5,495 reseñas), aquí encontrará la opinión de los visitantes, los horarios y consejos prácticos.
+description: Cada domingo, la Feria de San Telmo ocupa la calle Defensa, en el barrio porteño de San Telmo. Sus puestos de antigüedades, artesanías, ropa vintage y objetos curiosos se extienden desde las inmediaciones de la Plaza de Mayo hasta la Plaza Dorrego y más allá. Con una valoración de 4.5★ (5,496 reseñas), aquí encontrará la opinión de los visitantes, los horarios y consejos prácticos.
 quickAnswer: La Feria de San Telmo es un mercado callejero que solo abre los domingos. Ocupa la calle Defensa, en el barrio de San Telmo, y sus puestos de antigüedades, artesanías, ropa vintage y objetos curiosos van desde las cercanías de la Plaza de Mayo hasta la Plaza Dorrego y más allá. En la actualidad funciona los domingos de 9:00 AM a 6:30 PM y permanece cerrada el resto de la semana. Reserve entre tres y cuatro horas para recorrerla y empiece por el extremo de la Plaza de Mayo para avanzar hacia el sur.
 faq:
   - q: ¿Qué días abre la Feria de San Telmo?

@@ -1,31 +1,35 @@
 ---
-title: "Pattaya Park Night Market: Travel Guide (4.4★)"
-description: "Pattaya Park Night Market sits on Jomtien-facing Pattaya City in Bang Lamung District, open daily from noon to 1am. 4.4★ (7,834 reviews) — what visitors say, hours, and tips."
-country: "Thailand"
-region: "Pattaya"
-category: "hidden-gem"
-pubDate: "2026-09-23T07:37:55.788Z"
+title: 'Pattaya Park Night Market: Travel Guide (4.4★)'
+description: >-
+  Pattaya Park Night Market sits on Jomtien-facing Pattaya City in Bang Lamung
+  District, open daily from noon to 1am. 4.4★ (7,834 reviews) — what visitors
+  say, hours, and tips.
+country: Thailand
+region: Pattaya
+category: hidden-gem
+pubDate: '2026-09-23T07:37:55.788Z'
 gallery: []
 place:
-  id: "ChIJ6Znh81yWAjERiAEGKA8wTP8"
-  name: "Pattaya Park Night Market"
-  address: "Pattaya City, Bang Lamung District, Chon Buri 20150, Thailand"
+  id: ChIJ6Znh81yWAjERiAEGKA8wTP8
+  name: Pattaya Park Night Market
+  address: 'Pattaya City, Bang Lamung District, Chon Buri 20150, Thailand'
   rating: 4.4
-  userRatingsTotal: 7834
-  googleMapsUrl: "https://maps.google.com/?cid=18396131419555758472&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 7882
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=18396131419555758472&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 12.9095462
   lng: 100.8638021
   openingHours:
-    - "Monday: 12:00 PM – 1:00 AM"
-    - "Tuesday: 12:00 PM – 1:00 AM"
-    - "Wednesday: 12:00 PM – 1:00 AM"
-    - "Thursday: 12:00 PM – 1:00 AM"
-    - "Friday: 12:00 PM – 1:00 AM"
-    - "Saturday: 12:00 PM – 1:00 AM"
-    - "Sunday: 12:00 PM – 1:00 AM"
+    - 'Monday: 12:00 PM – 1:00 AM'
+    - 'Tuesday: 12:00 PM – 1:00 AM'
+    - 'Wednesday: 12:00 PM – 1:00 AM'
+    - 'Thursday: 12:00 PM – 1:00 AM'
+    - 'Friday: 12:00 PM – 1:00 AM'
+    - 'Saturday: 12:00 PM – 1:00 AM'
+    - 'Sunday: 12:00 PM – 1:00 AM'
   busyness:
-    updated: 2026-09-23
+    updated: 2026-09-23T00:00:00.000Z
     weekdayQuiet:
       - 12
       - 13
@@ -47,24 +51,43 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_3850547738414b4745416952456a4157793138686e5a364a496843"
+    venueId: ven_3850547738414b4745416952456a4157793138686e5a364a496843
 tags:
-  - "pattaya"
-  - "local market"
-quickAnswer: "Pattaya Park Night Market sits on Jomtien-facing Pattaya City in Bang Lamung District, open daily from noon to 1am. It's calmest between 12pm and 4pm on both weekdays and weekends, and busiest after 6pm on weekends when the covered aisles fill with shoppers and diners. Go in the early afternoon if you want room to browse; go after dark for the full, crowded market atmosphere."
+  - pattaya
+  - local market
+quickAnswer: >-
+  Pattaya Park Night Market sits on Jomtien-facing Pattaya City in Bang Lamung
+  District, open daily from noon to 1am. It's calmest between 12pm and 4pm on
+  both weekdays and weekends, and busiest after 6pm on weekends when the covered
+  aisles fill with shoppers and diners. Go in the early afternoon if you want
+  room to browse; go after dark for the full, crowded market atmosphere.
 faq:
-  - q: "What are the opening hours for Pattaya Park Night Market?"
-    a: "It's open every day of the week from 12pm (noon) until 1am, so despite the name it's actually open through the afternoon too."
-  - q: "When is the quietest time to visit?"
-    a: "Both weekdays and weekends are calmest between 12pm and 4pm. If you want to browse without crowds, come in the early afternoon rather than the evening."
-  - q: "When should I avoid going if I don't like crowds?"
-    a: "Try not to arrive after 6pm on weekends; that's the busiest window, running through to about 11pm, when the covered aisles get tightly packed."
-  - q: "How long should I plan to spend there?"
-    a: "An hour covers a solid walk-through and a meal. Give it two hours if you want to sit down for food and shop the clothing and accessory stalls at a relaxed pace."
-  - q: "Is this a local favorite or mainly for tourists?"
-    a: "It's a genuinely popular, well-reviewed market that draws large crowds rather than being an under-the-radar spot, so expect a busy, tourist-friendly atmosphere, especially in the evening."
+  - q: What are the opening hours for Pattaya Park Night Market?
+    a: >-
+      It's open every day of the week from 12pm (noon) until 1am, so despite the
+      name it's actually open through the afternoon too.
+  - q: When is the quietest time to visit?
+    a: >-
+      Both weekdays and weekends are calmest between 12pm and 4pm. If you want
+      to browse without crowds, come in the early afternoon rather than the
+      evening.
+  - q: When should I avoid going if I don't like crowds?
+    a: >-
+      Try not to arrive after 6pm on weekends; that's the busiest window,
+      running through to about 11pm, when the covered aisles get tightly packed.
+  - q: How long should I plan to spend there?
+    a: >-
+      An hour covers a solid walk-through and a meal. Give it two hours if you
+      want to sit down for food and shop the clothing and accessory stalls at a
+      relaxed pace.
+  - q: Is this a local favorite or mainly for tourists?
+    a: >-
+      It's a genuinely popular, well-reviewed market that draws large crowds
+      rather than being an under-the-radar spot, so expect a busy,
+      tourist-friendly atmosphere, especially in the evening.
 aiGenerated: true
 draft: true
+updatedDate: '2026-10-28'
 ---
 
 Under one long corrugated roof, rows of stalls press close enough that you can smell grilled skewers from three aisles over. This is Pattaya Park Night Market, and despite the name it opens at noon, not nightfall.

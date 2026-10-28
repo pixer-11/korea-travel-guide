@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: hamburg-chilehaus
-srcHash: '4bdce146798b'
+srcHash: 'aafdf09a477b'
 title: 智利屋：汉堡旅行指南（4.6★）
-description: 智利屋（Chilehaus）是一座建于20世纪20年代的砖砌办公楼，坐落在汉堡老城区的商馆区（Kontorhausviertel），从U1线Meßberg地铁站步行片刻即到。评分4.6★（4,042条评价），本文汇总游客评价、开放时间和参观建议。
+description: 智利屋（Chilehaus）是一座建于20世纪20年代的砖砌办公楼，坐落在汉堡老城区的商馆区（Kontorhausviertel），从U1线Meßberg地铁站步行片刻即到。评分4.6★（4,043条评价），本文汇总游客评价、开放时间和参观建议。
 quickAnswer: 智利屋（Chilehaus）位于汉堡老城区的商馆区（Kontorhausviertel），是一座20世纪20年代落成的砖砌办公楼，从U1线Meßberg地铁站步行片刻即到。大楼东端收成尖角，形似船头。它属于联合国教科文组织世界遗产“仓库城与商馆区”的一部分，外观全天都能参观。人最少的时段：工作日为晚上10点至11点；周末为早上7点至下午1点，以及傍晚6点至晚上11点。
 faq:
   - q: 什么时候去智利屋人最少？

@@ -1,40 +1,47 @@
 ---
-title: "Royal Tyrrell Museum: Jasper Travel Guide (4.8★)"
-description: "The Royal Tyrrell Museum is in Drumheller, Alberta, not Jasper: it sits in the Red Deer River badlands about 1.5 hours northeast of Calgary, so from Jasper it is a long day's drive and best treated as its own trip. 4.8★ (18,228 reviews) — what visitors say, hours, and tips."
-country: "Canada"
-region: "Jasper"
-category: "attraction"
-pubDate: "2026-10-28T08:21:27.358Z"
+title: 'Royal Tyrrell Museum: Jasper Travel Guide (4.8★)'
+description: >-
+  The Royal Tyrrell Museum is in Drumheller, Alberta, not Jasper: it sits in the
+  Red Deer River badlands about 1.5 hours northeast of Calgary, so from Jasper
+  it is a long day's drive and best treated as its own trip. 4.8★ (18,228
+  reviews) — what visitors say, hours, and tips.
+country: Canada
+region: Jasper
+category: attraction
+pubDate: '2026-10-28T08:21:27.358Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Royal_Tyrrell_Museum_from_the_staircase.jpg/1920px-Royal_Tyrrell_Museum_from_the_staircase.jpg"
-  credit: "Photo: Ymblanter / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Royal_Tyrrell_Museum_from_the_staircase.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Royal_Tyrrell_Museum_from_the_staircase.jpg/1920px-Royal_Tyrrell_Museum_from_the_staircase.jpg
+  credit: 'Photo: Ymblanter / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Royal_Tyrrell_Museum_from_the_staircase.jpg
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery: []
 place:
-  id: "ChIJy38C1IcSc1MR1Bh0FOdJtRI"
-  name: "Royal Tyrrell Museum"
-  address: "1500 N Dinosaur Trail, Drumheller, AB T0J 0Y0, Canada"
+  id: ChIJy38C1IcSc1MR1Bh0FOdJtRI
+  name: Royal Tyrrell Museum
+  address: '1500 N Dinosaur Trail, Drumheller, AB T0J 0Y0, Canada'
   rating: 4.8
-  userRatingsTotal: 18228
-  googleMapsUrl: "https://maps.google.com/?cid=1348064920296757460&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 18229
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1348064920296757460&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 51.4792097
   lng: -112.7901466
-  phone: "+1 403-823-7707"
+  phone: +1 403-823-7707
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 10:00 AM – 5:00 PM"
-    - "Wednesday: 10:00 AM – 5:00 PM"
-    - "Thursday: 10:00 AM – 5:00 PM"
-    - "Friday: 10:00 AM – 5:00 PM"
-    - "Saturday: 10:00 AM – 5:00 PM"
-    - "Sunday: 10:00 AM – 5:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 10:00 AM – 5:00 PM'
+    - 'Wednesday: 10:00 AM – 5:00 PM'
+    - 'Thursday: 10:00 AM – 5:00 PM'
+    - 'Friday: 10:00 AM – 5:00 PM'
+    - 'Saturday: 10:00 AM – 5:00 PM'
+    - 'Sunday: 10:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-10-28
+    updated: 2026-10-28T00:00:00.000Z
     weekendBusy:
       - 11
       - 12
@@ -42,25 +49,46 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_4952744a644f4630684231524d316353634931433833794a496843"
+    venueId: ven_4952744a644f4630684231524d316353634931433833794a496843
 tags:
-  - "jasper"
-  - "museum"
-quickAnswer: "The Royal Tyrrell Museum is in Drumheller, Alberta, not Jasper: it sits in the Red Deer River badlands about 1.5 hours northeast of Calgary, so from Jasper it is a long day's drive and best treated as its own trip. Plan on 3–4 hours inside, and avoid weekends between 11am and 5pm, when it is busiest. At the moment it opens 10am–5pm Tuesday to Sunday and is closed Mondays, but hours change through the year, so check the official site."
+  - jasper
+  - museum
+quickAnswer: >-
+  The Royal Tyrrell Museum is in Drumheller, Alberta, not Jasper: it sits in the
+  Red Deer River badlands about 1.5 hours northeast of Calgary, so from Jasper
+  it is a long day's drive and best treated as its own trip. Plan on 3–4 hours
+  inside, and avoid weekends between 11am and 5pm, when it is busiest. At the
+  moment it opens 10am–5pm Tuesday to Sunday and is closed Mondays, but hours
+  change through the year, so check the official site.
 faq:
-  - q: "Is the Royal Tyrrell Museum in Jasper?"
-    a: "No. It is in Drumheller, Alberta, in the Red Deer River badlands about 1.5 hours northeast of Calgary. From Jasper it is a long day's drive, so most visitors go from Calgary or stay overnight in Drumheller."
-  - q: "When is the quietest time to visit?"
-    a: "It is busiest on weekends from 11am to 5pm, so avoid weekend afternoons. If a weekend is your only option, arrive at 10am opening. A weekday is generally the calmer choice."
-  - q: "How long should I spend at the museum?"
-    a: "Allow 3–4 hours to see the galleries properly, including Dinosaur Hall and the Burgess Shale exhibit. Add more time if you have booked a dig or casting program."
-  - q: "Is it open on Mondays?"
-    a: "At the moment it is closed on Mondays and open 10am–5pm Tuesday to Sunday. Hours change through the year, so check the official site before you go."
-  - q: "What else is there to see nearby?"
-    a: "Horsethief Canyon on North Dinosaur Trail, the Hoodoos Trail near East Coulee, Atlas Coal Mine, and the climbable World's Largest Dinosaur in downtown Drumheller."
+  - q: Is the Royal Tyrrell Museum in Jasper?
+    a: >-
+      No. It is in Drumheller, Alberta, in the Red Deer River badlands about 1.5
+      hours northeast of Calgary. From Jasper it is a long day's drive, so most
+      visitors go from Calgary or stay overnight in Drumheller.
+  - q: When is the quietest time to visit?
+    a: >-
+      It is busiest on weekends from 11am to 5pm, so avoid weekend afternoons.
+      If a weekend is your only option, arrive at 10am opening. A weekday is
+      generally the calmer choice.
+  - q: How long should I spend at the museum?
+    a: >-
+      Allow 3–4 hours to see the galleries properly, including Dinosaur Hall and
+      the Burgess Shale exhibit. Add more time if you have booked a dig or
+      casting program.
+  - q: Is it open on Mondays?
+    a: >-
+      At the moment it is closed on Mondays and open 10am–5pm Tuesday to Sunday.
+      Hours change through the year, so check the official site before you go.
+  - q: What else is there to see nearby?
+    a: >-
+      Horsethief Canyon on North Dinosaur Trail, the Hoodoos Trail near East
+      Coulee, Atlas Coal Mine, and the climbable World's Largest Dinosaur in
+      downtown Drumheller.
 aiGenerated: true
 draft: true
 heldReason: wrong-region
+updatedDate: '2026-10-28'
 ---
 
 ## Badlands, not mountains

@@ -1,45 +1,53 @@
 ---
-title: "Nongnooch Pattaya Garden: Travel Guide (4.6★)"
-description: "Nongnooch Pattaya Garden, a 500-acre botanical park in Na Chom Thian, Sattahip District south of central Pattaya, is open daily 8am–6pm and best tackled right at opening. 4.6★ (44,349 reviews) — what visitors say, hours, and tips."
-country: "Thailand"
-region: "Pattaya"
-category: "attraction"
-pubDate: "2026-08-29T13:14:48.667Z"
+title: 'Nongnooch Pattaya Garden: Travel Guide (4.6★)'
+description: >-
+  Nongnooch Pattaya Garden, a 500-acre botanical park in Na Chom Thian, Sattahip
+  District south of central Pattaya, is open daily 8am–6pm and best tackled
+  right at opening. 4.6★ (44,685 reviews) — what visitors say, hours, and tips.
+country: Thailand
+region: Pattaya
+category: attraction
+pubDate: '2026-08-29T13:14:48.667Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Dinosaur_Garden_Nongnooch_Pattaya.jpg/3840px-Dinosaur_Garden_Nongnooch_Pattaya.jpg"
-  credit: "Photo: Sstdapalm / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Dinosaur_Garden_Nongnooch_Pattaya.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Dinosaur_Garden_Nongnooch_Pattaya.jpg/3840px-Dinosaur_Garden_Nongnooch_Pattaya.jpg
+  credit: 'Photo: Sstdapalm / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Dinosaur_Garden_Nongnooch_Pattaya.jpg
+  via: act
   focus:
     x: 60
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/%E0%B8%BA%E0%B8%BABromeliad_Garden_Nongnooch_Pattaya.jpg/3840px-%E0%B8%BA%E0%B8%BABromeliad_Garden_Nongnooch_Pattaya.jpg"
-    credit: "Photo: Sstdapalm / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:%E0%B8%BA%E0%B8%BABromeliad_Garden_Nongnooch_Pattaya.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/%E0%B8%BA%E0%B8%BABromeliad_Garden_Nongnooch_Pattaya.jpg/3840px-%E0%B8%BA%E0%B8%BABromeliad_Garden_Nongnooch_Pattaya.jpg
+    credit: 'Photo: Sstdapalm / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:%E0%B8%BA%E0%B8%BABromeliad_Garden_Nongnooch_Pattaya.jpg
 place:
-  id: "ChIJvzMZsGySAjERUYRvklulr98"
-  name: "Nongnooch Pattaya Garden"
-  address: "Na Chom Thian, Sattahip District, Chon Buri 20250, Thailand"
+  id: ChIJvzMZsGySAjERUYRvklulr98
+  name: Nongnooch Pattaya Garden
+  address: 'Na Chom Thian, Sattahip District, Chon Buri 20250, Thailand'
   rating: 4.6
-  userRatingsTotal: 44349
-  googleMapsUrl: "https://maps.google.com/?cid=16118283404099683409&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 44685
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16118283404099683409&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 12.765497
   lng: 100.93513139999999
-  phone: "+66 81 919 2153"
+  phone: +66 81 919 2153
   openingHours:
-    - "Monday: 8:00 AM – 6:00 PM"
-    - "Tuesday: 8:00 AM – 6:00 PM"
-    - "Wednesday: 8:00 AM – 6:00 PM"
-    - "Thursday: 8:00 AM – 6:00 PM"
-    - "Friday: 8:00 AM – 6:00 PM"
-    - "Saturday: 8:00 AM – 6:00 PM"
-    - "Sunday: 8:00 AM – 6:00 PM"
+    - 'Monday: 8:00 AM – 6:00 PM'
+    - 'Tuesday: 8:00 AM – 6:00 PM'
+    - 'Wednesday: 8:00 AM – 6:00 PM'
+    - 'Thursday: 8:00 AM – 6:00 PM'
+    - 'Friday: 8:00 AM – 6:00 PM'
+    - 'Saturday: 8:00 AM – 6:00 PM'
+    - 'Sunday: 8:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-08-29
+    updated: 2026-08-29T00:00:00.000Z
     weekdayQuiet:
       - 8
       - 9
@@ -57,24 +65,46 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_3839726c756c6b7652595552456a41537947735a4d7a764a496843"
+    venueId: ven_3839726c756c6b7652595552456a41537947735a4d7a764a496843
 tags:
-  - "pattaya"
-  - "park"
-quickAnswer: "Nongnooch Pattaya Garden, a 500-acre botanical park in Na Chom Thian, Sattahip District south of central Pattaya, is open daily 8am–6pm and best tackled right at opening. Weekends get packed between 11am and 4pm, so arriving early buys you empty paths through the topiary and cactus gardens before the tour buses land. Budget half a day minimum if you want to catch the elephant and cultural shows too."
+  - pattaya
+  - park
+quickAnswer: >-
+  Nongnooch Pattaya Garden, a 500-acre botanical park in Na Chom Thian, Sattahip
+  District south of central Pattaya, is open daily 8am–6pm and best tackled
+  right at opening. Weekends get packed between 11am and 4pm, so arriving early
+  buys you empty paths through the topiary and cactus gardens before the tour
+  buses land. Budget half a day minimum if you want to catch the elephant and
+  cultural shows too.
 faq:
-  - q: "How do I get to Nongnooch Pattaya Garden?"
-    a: "It's in Na Chom Thian, Sattahip District, south of central Pattaya. Most visitors arrive by taxi, songthaew, or a booked tour transfer; there's no direct public bus route from central Pattaya."
-  - q: "What's the quietest time to visit?"
-    a: "Both weekdays and early weekend hours (8am–10am and 5pm–6pm) run calmer overall, but the safest bet is arriving right at the 8am opening on any day, since weekends get heavily crowded from 11am to 4pm."
-  - q: "How long should I plan to spend there?"
-    a: "At least three to four hours to see a few themed gardens plus one show. A full half-day covers the elephant show, cultural performance, and lunch on-site."
-  - q: "Is it worth visiting on a weekend?"
-    a: "Yes, but arrive at opening. Weekend crowds peak between 11am and 4pm with tour buses from Pattaya and Bangkok, so early morning is far more pleasant."
-  - q: "What's nearby if I want to combine the trip?"
-    a: "The garden sits toward Sattahip, en route to Pattaya's southern beaches; many visitors pair it with a half-day trip toward Na Jomtien or combine it with a Pattaya city tour."
+  - q: How do I get to Nongnooch Pattaya Garden?
+    a: >-
+      It's in Na Chom Thian, Sattahip District, south of central Pattaya. Most
+      visitors arrive by taxi, songthaew, or a booked tour transfer; there's no
+      direct public bus route from central Pattaya.
+  - q: What's the quietest time to visit?
+    a: >-
+      Both weekdays and early weekend hours (8am–10am and 5pm–6pm) run calmer
+      overall, but the safest bet is arriving right at the 8am opening on any
+      day, since weekends get heavily crowded from 11am to 4pm.
+  - q: How long should I plan to spend there?
+    a: >-
+      At least three to four hours to see a few themed gardens plus one show. A
+      full half-day covers the elephant show, cultural performance, and lunch
+      on-site.
+  - q: Is it worth visiting on a weekend?
+    a: >-
+      Yes, but arrive at opening. Weekend crowds peak between 11am and 4pm with
+      tour buses from Pattaya and Bangkok, so early morning is far more
+      pleasant.
+  - q: What's nearby if I want to combine the trip?
+    a: >-
+      The garden sits toward Sattahip, en route to Pattaya's southern beaches;
+      many visitors pair it with a half-day trip toward Na Jomtien or combine it
+      with a Pattaya city tour.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-28'
 ---
 > Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

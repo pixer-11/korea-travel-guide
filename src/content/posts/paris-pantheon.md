@@ -1,43 +1,50 @@
 ---
-title: "Panthéon: Paris Travel Guide (4.6★)"
-description: "The Panthéon sits at the top of the Latin Quarter on Place du Panthéon in Paris's 5th arrondissement. 4.6★ (69,926 reviews) — what visitors say, hours, and tips."
-country: "France"
-region: "Paris"
-category: "hidden-gem"
-pubDate: "2026-09-28T07:41:27.652Z"
+title: 'Panthéon: Paris Travel Guide (4.6★)'
+description: >-
+  The Panthéon sits at the top of the Latin Quarter on Place du Panthéon in
+  Paris's 5th arrondissement. 4.6★ (70,497 reviews) — what visitors say, hours,
+  and tips.
+country: France
+region: Paris
+category: hidden-gem
+pubDate: '2026-09-28T07:41:27.652Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Pantheon_of_Paris_007.JPG/1920px-Pantheon_of_Paris_007.JPG"
-  credit: "Photo: Moonik / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Pantheon_of_Paris_007.JPG"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Pantheon_of_Paris_007.JPG/1920px-Pantheon_of_Paris_007.JPG
+  credit: 'Photo: Moonik / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Pantheon_of_Paris_007.JPG'
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Panth%C3%A9on_de_Paris_in_July_2022_%282%29.jpg/3840px-Panth%C3%A9on_de_Paris_in_July_2022_%282%29.jpg"
-    credit: "Photo: Maksim Sokolov (maxergon.com) / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Panth%C3%A9on_de_Paris_in_July_2022_(2).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Panth%C3%A9on_de_Paris_in_July_2022_%282%29.jpg/3840px-Panth%C3%A9on_de_Paris_in_July_2022_%282%29.jpg
+    credit: 'Photo: Maksim Sokolov (maxergon.com) / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Panth%C3%A9on_de_Paris_in_July_2022_(2).jpg
 place:
-  id: "ChIJc8mX0udx5kcRWKcjTwDr5QA"
-  name: "Panthéon"
-  address: "Pl. du Panthéon, 75005 Paris, France"
+  id: ChIJc8mX0udx5kcRWKcjTwDr5QA
+  name: Panthéon
+  address: 'Pl. du Panthéon, 75005 Paris, France'
   rating: 4.6
-  userRatingsTotal: 69926
-  googleMapsUrl: "https://maps.google.com/?cid=64716156227004248&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 70497
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=64716156227004248&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 48.846221799999995
   lng: 2.3464138
   openingHours:
-    - "Monday: 10:00 AM – 6:30 PM"
-    - "Tuesday: 10:00 AM – 6:30 PM"
-    - "Wednesday: 10:00 AM – 6:30 PM"
-    - "Thursday: 10:00 AM – 6:30 PM"
-    - "Friday: 10:00 AM – 6:30 PM"
-    - "Saturday: 10:00 AM – 6:30 PM"
-    - "Sunday: 10:00 AM – 6:30 PM"
+    - 'Monday: 10:00 AM – 6:30 PM'
+    - 'Tuesday: 10:00 AM – 6:30 PM'
+    - 'Wednesday: 10:00 AM – 6:30 PM'
+    - 'Thursday: 10:00 AM – 6:30 PM'
+    - 'Friday: 10:00 AM – 6:30 PM'
+    - 'Saturday: 10:00 AM – 6:30 PM'
+    - 'Sunday: 10:00 AM – 6:30 PM'
   busyness:
-    updated: 2026-09-28
+    updated: 2026-09-28T00:00:00.000Z
     weekdayQuiet:
       - 10
     weekendQuiet:
@@ -48,24 +55,44 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_415135724477546a634b5752636b3578647530586d38634a496843"
+    venueId: ven_415135724477546a634b5752636b3578647530586d38634a496843
 tags:
-  - "paris"
-  - "old quarter"
-quickAnswer: "The Panthéon sits at the top of the Latin Quarter on Place du Panthéon in Paris's 5th arrondissement. It's open daily from 10am to 6:30pm, and the quietest time is 10am–11am on both weekdays and weekends. Try not to come between 1pm and 6pm at weekends, when it's busiest. Give it about 90 minutes to see the nave, Foucault's pendulum and the crypt where Voltaire, Victor Hugo and Marie Curie are buried."
+  - paris
+  - old quarter
+quickAnswer: >-
+  The Panthéon sits at the top of the Latin Quarter on Place du Panthéon in
+  Paris's 5th arrondissement. It's open daily from 10am to 6:30pm, and the
+  quietest time is 10am–11am on both weekdays and weekends. Try not to come
+  between 1pm and 6pm at weekends, when it's busiest. Give it about 90 minutes
+  to see the nave, Foucault's pendulum and the crypt where Voltaire, Victor Hugo
+  and Marie Curie are buried.
 faq:
-  - q: "When is the quietest time to visit the Panthéon?"
-    a: "It's quietest from 10am to 11am, on weekdays and weekends alike. Try not to come between 1pm and 6pm at weekends, which is the busiest period."
-  - q: "What are the Panthéon's opening hours?"
-    a: "It's open every day from 10am to 6:30pm. Last entry is before closing time, so arrive well before 6:30pm."
-  - q: "How do I get to the Panthéon?"
-    a: "Take RER B to Luxembourg and walk about five minutes up rue Soufflot. On Metro Line 10, the nearest stops are Cardinal Lemoine and Maubert–Mutualité."
-  - q: "Who is buried in the Panthéon?"
-    a: "The crypt holds Voltaire, Rousseau, Victor Hugo, Émile Zola, Alexandre Dumas, Marie and Pierre Curie and Jean Moulin. Josephine Baker's cenotaph was added in 2021."
-  - q: "Can you climb the Panthéon dome?"
-    a: "Between spring and autumn, a guided climb goes up to the colonnade around the dome. Slots are limited, so check dates and booking on the Centre des monuments nationaux website."
+  - q: When is the quietest time to visit the Panthéon?
+    a: >-
+      It's quietest from 10am to 11am, on weekdays and weekends alike. Try not
+      to come between 1pm and 6pm at weekends, which is the busiest period.
+  - q: What are the Panthéon's opening hours?
+    a: >-
+      It's open every day from 10am to 6:30pm. Last entry is before closing
+      time, so arrive well before 6:30pm.
+  - q: How do I get to the Panthéon?
+    a: >-
+      Take RER B to Luxembourg and walk about five minutes up rue Soufflot. On
+      Metro Line 10, the nearest stops are Cardinal Lemoine and
+      Maubert–Mutualité.
+  - q: Who is buried in the Panthéon?
+    a: >-
+      The crypt holds Voltaire, Rousseau, Victor Hugo, Émile Zola, Alexandre
+      Dumas, Marie and Pierre Curie and Jean Moulin. Josephine Baker's cenotaph
+      was added in 2021.
+  - q: Can you climb the Panthéon dome?
+    a: >-
+      Between spring and autumn, a guided climb goes up to the colonnade around
+      the dome. Slots are limited, so check dates and booking on the Centre des
+      monuments nationaux website.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-28'
 ---
 
 ## A church that became a tomb

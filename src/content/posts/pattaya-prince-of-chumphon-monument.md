@@ -1,15 +1,20 @@
 ---
 title: 'Prince of Chumphon Monument: Pattaya Travel Guide (4.7★)'
-description: The Prince of Chumphon Monument in Pattaya sits on a headland above Bang Lamung District, and it's open daily from 7:30am to 7pm with no admission charge. 4.7★ (1,390 reviews) — what visitors say, hours, and tips.
+description: >-
+  The Prince of Chumphon Monument in Pattaya sits on a headland above Bang
+  Lamung District, and it's open daily from 7:30am to 7pm with no admission
+  charge. 4.7★ (1,422 reviews) — what visitors say, hours, and tips.
 country: Thailand
 region: Pattaya
 category: attraction
 pubDate: '2026-08-28T19:31:25.221Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Prince_of_Chumphon_Monument%2C_Phra_Tamnak%2C_Pattaya_-_panoramio.jpg/1920px-Prince_of_Chumphon_Monument%2C_Phra_Tamnak%2C_Pattaya_-_panoramio.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Prince_of_Chumphon_Monument%2C_Phra_Tamnak%2C_Pattaya_-_panoramio.jpg/1920px-Prince_of_Chumphon_Monument%2C_Phra_Tamnak%2C_Pattaya_-_panoramio.jpg
   credit: 'Photo: Anil Kaushik / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Prince_of_Chumphon_Monument,_Phra_Tamnak,_Pattaya_-_panoramio.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Prince_of_Chumphon_Monument,_Phra_Tamnak,_Pattaya_-_panoramio.jpg
   via: act
   focus:
     x: 49
@@ -18,10 +23,11 @@ gallery: []
 place:
   id: ChIJYZSxQUCWAjERJvPMYi4KZyc
   name: Prince of Chumphon Monument
-  address: WVC8+QCH, Pattaya City, Bang Lamung District, Chon Buri 20150, Thailand
+  address: 'WVC8+QCH, Pattaya City, Bang Lamung District, Chon Buri 20150, Thailand'
   rating: 4.7
-  userRatingsTotal: 1390
-  googleMapsUrl: https://maps.google.com/?cid=2839249284422759206&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 1422
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2839249284422759206&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 12.921928399999999
   lng: 100.8661162
@@ -53,20 +59,40 @@ place:
 tags:
   - pattaya
   - historic site
-quickAnswer: The Prince of Chumphon Monument in Pattaya sits on a headland above Bang Lamung District, and it's open daily from 7:30am to 7pm with no admission charge. The quietest window is 8am to 9am on both weekdays and weekends, before tour buses arrive; avoid the 10am–7pm weekend stretch if you want the viewpoint to yourself. Give it 45 minutes to an hour, longer if you linger for sunset over the bay.
+quickAnswer: >-
+  The Prince of Chumphon Monument in Pattaya sits on a headland above Bang
+  Lamung District, and it's open daily from 7:30am to 7pm with no admission
+  charge. The quietest window is 8am to 9am on both weekdays and weekends,
+  before tour buses arrive; avoid the 10am–7pm weekend stretch if you want the
+  viewpoint to yourself. Give it 45 minutes to an hour, longer if you linger for
+  sunset over the bay.
 faq:
   - q: What are the opening hours for the Prince of Chumphon Monument?
-    a: It's open daily from 7:30am to 7pm, with no variation by day of the week, so there's flexibility to plan around morning or evening light.
+    a: >-
+      It's open daily from 7:30am to 7pm, with no variation by day of the week,
+      so there's flexibility to plan around morning or evening light.
   - q: Is there an entrance fee?
-    a: No formal admission fee is charged; it's a public monument and shrine site, though small donations or offerings at the base are customary.
+    a: >-
+      No formal admission fee is charged; it's a public monument and shrine
+      site, though small donations or offerings at the base are customary.
   - q: When is the quietest time to visit?
-    a: Both weekdays and weekends are calmest between 8am and 9am. Weekends get busy from 10am through 7pm, so arriving right at opening avoids the crowds.
+    a: >-
+      Both weekdays and weekends are calmest between 8am and 9am. Weekends get
+      busy from 10am through 7pm, so arriving right at opening avoids the
+      crowds.
   - q: How do I get to the monument without a car?
-    a: There's no direct public bus to the summit; most visitors use a motorbike taxi, chartered songthaew, or rented scooter from central Pattaya, since the hill climb is too steep for a comfortable walk from the base.
+    a: >-
+      There's no direct public bus to the summit; most visitors use a motorbike
+      taxi, chartered songthaew, or rented scooter from central Pattaya, since
+      the hill climb is too steep for a comfortable walk from the base.
   - q: How long should I plan for the visit?
-    a: Around 45 minutes to an hour is enough to see the statue, read the plaques on Prince Abhakara's naval career, and take in the bay view, longer if you stay for sunset.
+    a: >-
+      Around 45 minutes to an hour is enough to see the statue, read the plaques
+      on Prince Abhakara's naval career, and take in the bay view, longer if you
+      stay for sunset.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-28'
 ---
 The road up to the Prince of Chumphon Monument climbs a headland at the southern edge of Pattaya, past scrubby hillside and the occasional stray dog dozing in the shade. You know you're close when the trees thin out and the bay opens up below you in a wide grey-blue sweep, container ships anchored offshore like toys.
 

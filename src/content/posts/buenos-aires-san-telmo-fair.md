@@ -1,6 +1,6 @@
 ---
 title: "San Telmo Fair: Buenos Aires Travel Guide (4.5★)"
-description: San Telmo Fair (Feria de San Telmo) is a Sunday-only street market on Calle Defensa in San Telmo, Buenos Aires, with stalls of antiques, handicrafts, vintage clothing and knick-knacks stretching down from near Plaza de Mayo to Plaza Dorrego and beyond. 4.5★ (5,495 reviews) — what visitors say, hours, and tips.
+description: San Telmo Fair (Feria de San Telmo) is a Sunday-only street market on Calle Defensa in San Telmo, Buenos Aires, with stalls of antiques, handicrafts, vintage clothing and knick-knacks stretching down from near Plaza de Mayo to Plaza Dorrego and beyond. 4.5★ (5,496 reviews) — what visitors say, hours, and tips.
 country: Argentina
 region: Buenos Aires
 category: hidden-gem

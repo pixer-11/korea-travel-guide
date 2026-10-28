@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: niagara-falls-walker-s-country-market
-srcHash: '244a9484414e'
+srcHash: '063f2107375f'
 title: 'Walker''s Country Market: guía de viaje de las cataratas del Niágara (4.6★)'
-description: En el 15796 de la Niagara River Parkway, en Niagara-on-the-Lake, Walker's Country Market vende fruta, bollería y sándwiches desde hace muchos años. Se llega por una carretera panorámica que bordea el río al norte de las cataratas del Niágara. Con una valoración de 4.6★ (1,827 reseñas), aquí encontrará las opiniones de los visitantes, el horario y algunos consejos.
+description: En el 15796 de la Niagara River Parkway, en Niagara-on-the-Lake, Walker's Country Market vende fruta, bollería y sándwiches desde hace muchos años. Se llega por una carretera panorámica que bordea el río al norte de las cataratas del Niágara. Con una valoración de 4.6★ (1,828 reseñas), aquí encontrará las opiniones de los visitantes, el horario y algunos consejos.
 quickAnswer: En el 15796 de la Niagara River Parkway, en Niagara-on-the-Lake, se encuentra Walker's Country Market, una tienda de fruta, bollería y sándwiches con muchos años de historia. Para llegar basta con seguir el río hacia el norte desde las cataratas del Niágara por una carretera de gran belleza. Actualmente abre todos los días de la semana de 9am a 5pm, de modo que resulta una parada cómoda para almorzar o picar algo entre las cataratas y el casco antiguo. Si busca la mayor variedad de fruta local, vaya en verano o a principios de otoño. Si lo que le interesa es la mejor bollería, conviene ir por la mañana.
 faq:
   - q: ¿Dónde se encuentra exactamente Walker's Country Market?

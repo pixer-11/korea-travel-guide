@@ -1,56 +1,85 @@
 ---
-title: "Walker's Country Market: Niagara Falls Travel Guide (4.6★)"
-description: "Walker's Country Market is a longtime fruit, bakery and sandwich shop at 15796 Niagara River Parkway in Niagara-on-the-Lake, a scenic drive north of Niagara Falls along the river. 4.6★ (1,827 reviews) — what visitors say, hours, and tips."
-country: "Canada"
-region: "Niagara Falls"
-category: "hidden-gem"
-pubDate: "2026-10-28T08:21:26.329Z"
+title: 'Walker''s Country Market: Niagara Falls Travel Guide (4.6★)'
+description: >-
+  Walker's Country Market is a longtime fruit, bakery and sandwich shop at 15796
+  Niagara River Parkway in Niagara-on-the-Lake, a scenic drive north of Niagara
+  Falls along the river. 4.6★ (1,828 reviews) — what visitors say, hours, and
+  tips.
+country: Canada
+region: Niagara Falls
+category: hidden-gem
+pubDate: '2026-10-28T08:21:26.329Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Fruits_at_Walker%27s_Country_Market%2C_Niagara-on-the-Lake_2026.jpg/3840px-Fruits_at_Walker%27s_Country_Market%2C_Niagara-on-the-Lake_2026.jpg"
-  credit: "Photo: Chicken4War / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Fruits_at_Walker%27s_Country_Market,_Niagara-on-the-Lake_2026.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Fruits_at_Walker%27s_Country_Market%2C_Niagara-on-the-Lake_2026.jpg/3840px-Fruits_at_Walker%27s_Country_Market%2C_Niagara-on-the-Lake_2026.jpg
+  credit: 'Photo: Chicken4War / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Fruits_at_Walker%27s_Country_Market,_Niagara-on-the-Lake_2026.jpg
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery: []
 place:
-  id: "ChIJidR6YVNe04kRC6_kSrYtbPw"
-  name: "Walker's Country Market"
-  address: "15796 Niagara River Pkwy, Niagara-on-the-Lake, ON L0S 1J0, Canada"
+  id: ChIJidR6YVNe04kRC6_kSrYtbPw
+  name: Walker's Country Market
+  address: '15796 Niagara River Pkwy, Niagara-on-the-Lake, ON L0S 1J0, Canada'
   rating: 4.6
-  userRatingsTotal: 1827
-  googleMapsUrl: "https://maps.google.com/?cid=18188963256006389515&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1828
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=18188963256006389515&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 43.2262582
   lng: -79.05868869999999
-  phone: "+1 905-468-2767"
+  phone: +1 905-468-2767
   openingHours:
-    - "Monday: 9:00 AM – 5:00 PM"
-    - "Tuesday: 9:00 AM – 5:00 PM"
-    - "Wednesday: 9:00 AM – 5:00 PM"
-    - "Thursday: 9:00 AM – 5:00 PM"
-    - "Friday: 9:00 AM – 5:00 PM"
-    - "Saturday: 9:00 AM – 5:00 PM"
-    - "Sunday: 9:00 AM – 5:00 PM"
+    - 'Monday: 9:00 AM – 5:00 PM'
+    - 'Tuesday: 9:00 AM – 5:00 PM'
+    - 'Wednesday: 9:00 AM – 5:00 PM'
+    - 'Thursday: 9:00 AM – 5:00 PM'
+    - 'Friday: 9:00 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 5:00 PM'
+    - 'Sunday: 9:00 AM – 5:00 PM'
 tags:
-  - "niagara falls"
-  - "local market"
-quickAnswer: "Walker's Country Market is a longtime fruit, bakery and sandwich shop at 15796 Niagara River Parkway in Niagara-on-the-Lake, a scenic drive north of Niagara Falls along the river. Right now it opens 9am to 5pm each day of the week, so it works as a lunch or snack stop between the Falls and Old Town. Come in summer or early autumn for the most local fruit, and in the morning if you want the best of the baked goods."
+  - niagara falls
+  - local market
+quickAnswer: >-
+  Walker's Country Market is a longtime fruit, bakery and sandwich shop at 15796
+  Niagara River Parkway in Niagara-on-the-Lake, a scenic drive north of Niagara
+  Falls along the river. Right now it opens 9am to 5pm each day of the week, so
+  it works as a lunch or snack stop between the Falls and Old Town. Come in
+  summer or early autumn for the most local fruit, and in the morning if you
+  want the best of the baked goods.
 faq:
-  - q: "Where exactly is Walker's Country Market?"
-    a: "It's at 15796 Niagara River Pkwy, Niagara-on-the-Lake, ON. That's on the Niagara River Parkway between Queenston and Old Town Niagara-on-the-Lake, north of Niagara Falls."
-  - q: "What are the opening hours?"
-    a: "This week it opens 9am to 5pm, Monday to Sunday. Hours can change with the season, so check the current listing before you make a special trip."
-  - q: "What should I buy there?"
-    a: "Get whatever local fruit is in season: strawberries and cherries in early summer, peaches and plums later on, then pears and apples in autumn. There are also baked goods, sandwiches for lunch, and jellies, jams and gourmet gifts."
-  - q: "Can I take fruit from the market back to the US?"
-    a: "Fresh fruit may be restricted or confiscated at the US border, so check US Customs and Border Protection rules first. Sealed jams and baked goods are usually the safer things to bring home."
-  - q: "How long should I plan to spend, and what's nearby?"
-    a: "Allow 20 to 45 minutes. Nearby you have Queenston Heights and Brock's Monument, the Floral Clock, Queenston village, Parkway wineries and Old Town Niagara-on-the-Lake."
+  - q: Where exactly is Walker's Country Market?
+    a: >-
+      It's at 15796 Niagara River Pkwy, Niagara-on-the-Lake, ON. That's on the
+      Niagara River Parkway between Queenston and Old Town Niagara-on-the-Lake,
+      north of Niagara Falls.
+  - q: What are the opening hours?
+    a: >-
+      This week it opens 9am to 5pm, Monday to Sunday. Hours can change with the
+      season, so check the current listing before you make a special trip.
+  - q: What should I buy there?
+    a: >-
+      Get whatever local fruit is in season: strawberries and cherries in early
+      summer, peaches and plums later on, then pears and apples in autumn. There
+      are also baked goods, sandwiches for lunch, and jellies, jams and gourmet
+      gifts.
+  - q: Can I take fruit from the market back to the US?
+    a: >-
+      Fresh fruit may be restricted or confiscated at the US border, so check US
+      Customs and Border Protection rules first. Sealed jams and baked goods are
+      usually the safer things to bring home.
+  - q: 'How long should I plan to spend, and what''s nearby?'
+    a: >-
+      Allow 20 to 45 minutes. Nearby you have Queenston Heights and Brock's
+      Monument, the Floral Clock, Queenston village, Parkway wineries and Old
+      Town Niagara-on-the-Lake.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-28'
 ---
 
 ## A fruit stop on the slow road
