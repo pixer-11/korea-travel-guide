@@ -38421,5 +38421,61 @@
   "registerBreak": false,
   "worst": "开市之所以这么早，也是历史使然：当年集市必须赶在做礼拜之前结束。",
   "at": "2026-10-28T08:26:45.001Z"
+ },
+ "es/buenos-aires-cafe-tortoni": {
+  "hash": "0bcd21f31258",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Horario actual: de 8am–9pm, los siete días de la semana.",
+  "at": "2026-10-28T15:34:39.647Z"
+ },
+ "es/nazca-mirador-el-telar": {
+  "hash": "3122adf5be6e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Agua, más de la que crea necesitar",
+  "at": "2026-10-28T15:34:44.045Z"
+ },
+ "ja/buenos-aires-cafe-tortoni": {
+  "hash": "66316738d801",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "値段は市内では中程度ですが、その一部はこの空間を味わうための代金だと考えるとよいでしょう。",
+  "at": "2026-10-28T15:34:45.162Z"
+ },
+ "ja/nazca-mirador-el-telar": {
+  "hash": "8262429a57ad",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-28T15:34:46.467Z"
+ },
+ "ko/buenos-aires-cafe-tortoni": {
+  "hash": "b0c4021c9b5e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "가격은 이 도시에서 중간 정도이며, 이 공간을 누리는 값이 일부 포함되어 있다고 보시면 됩니다.",
+  "at": "2026-10-28T15:34:47.730Z"
+ },
+ "ko/nazca-mirador-el-telar": {
+  "hash": "fd52e2173c45",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "다음 몇 가지 습관을 지키면 방문이 한결 수월해집니다.",
+  "at": "2026-10-28T15:34:48.735Z"
+ },
+ "zh/buenos-aires-cafe-tortoni": {
+  "hash": "50a231ee9b02",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "目前营业时间：每周七天，早上8点至晚上9点。节假日营业时间可能有变，出发前最好先查一下。",
+  "at": "2026-10-28T15:34:50.033Z"
+ },
+ "zh/nazca-mirador-el-telar": {
+  "hash": "1bf36b8383dd",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "在大多数游客的清单上，El Telar都排不上号，而这恰恰是它的优势。",
+  "at": "2026-10-28T15:34:50.941Z"
  }
 }

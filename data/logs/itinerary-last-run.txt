@@ -26,8 +26,8 @@ Barcelona, Spain — 15 qualifying post(s), variants: 3
 Brighton, United Kingdom — 12 qualifying post(s), variants: 3
   = Brighton 3d — unchanged, skipping
 
-Buenos Aires, Argentina — 12 qualifying post(s), variants: 3
-  = Buenos Aires 3d — unchanged, skipping
+Buenos Aires, Argentina — 14 qualifying post(s), variants: 3
+  · Buenos Aires 3d — skipped: day 1 totals only 233 min (floor 240) and no further sight can be added to it
 
 Busan, South Korea — 13 qualifying post(s), variants: 3
   = Busan 3d — unchanged, skipping

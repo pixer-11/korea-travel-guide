@@ -4848,6 +4848,12 @@
   "reason": "publish gate: Exterior of the historic museum building with gate and signage",
   "at": "2026-10-01T07:49:54.974Z"
  },
+ "buenos-aires-cafe-tortoni\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Avenida_de_Mayo_Caf%C3%A9_Tortoni.jpg/1920px-Avenida_de_Mayo_Caf%C3%A9_Tortoni.jpg": {
+  "slug": "buenos-aires-cafe-tortoni",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior storefront clearly showing Café Tortoni signage and entrance",
+  "at": "2026-10-28T15:30:39.334Z"
+ },
  "buenos-aires-caminito\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Caminito_-_Entrada.jpg/1920px-Caminito_-_Entrada.jpg": {
   "slug": "buenos-aires-caminito",
   "verdict": "MATCH",
@@ -20753,6 +20759,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Spiral stone aqueduct matches Cantalloc aqueducts in Nazca",
   "at": "2026-10-23T13:19:35.788Z"
+ },
+ "nazca-mirador-el-telar\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Mirador_El_Telar%2C_Nazca_06.jpg/3840px-Mirador_El_Telar%2C_Nazca_06.jpg": {
+  "slug": "nazca-mirador-el-telar",
+  "verdict": "MATCH",
+  "reason": "publish gate: Scenic overlook view matching Nazca desert landscape viewpoint",
+  "at": "2026-10-28T15:30:39.288Z"
  },
  "nazca-nazca-lines\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/L%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_49.JPG/1920px-L%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_49.JPG": {
   "slug": "nazca-nazca-lines",

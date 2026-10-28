@@ -14,8 +14,8 @@
    "hits": 60
   },
   "viewpoint": {
-   "attempts": 107,
-   "hits": 14
+   "attempts": 112,
+   "hits": 15
   },
   "art gallery": {
    "attempts": 78,
@@ -42,7 +42,7 @@
    "hits": 83
   },
   "local market": {
-   "attempts": 185,
+   "attempts": 191,
    "hits": 65
   },
   "bookshop": {
@@ -54,7 +54,7 @@
    "hits": 4
   },
   "hidden gem": {
-   "attempts": 191,
+   "attempts": 193,
    "hits": 103
   },
   "breakfast": {
@@ -62,15 +62,15 @@
    "hits": 5
   },
   "trendy cafe": {
-   "attempts": 170,
-   "hits": 12
+   "attempts": 175,
+   "hits": 13
   },
   "street food": {
    "attempts": 144,
    "hits": 18
   },
   "bakery": {
-   "attempts": 60,
+   "attempts": 62,
    "hits": 4
   },
   "bar": {
@@ -1210,5 +1210,5 @@
    "hits": 1
   }
  },
- "updated": "2026-10-28T08:32:10.647Z"
+ "updated": "2026-10-28T15:30:39.352Z"
 }
