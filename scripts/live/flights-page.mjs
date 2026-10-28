@@ -54,6 +54,7 @@ for (const lang of Object.keys(ORIGIN)) {
   check(/class="nl-dek"/.test(html), `${lang} newsletter block`);
   const hol = (html.match(/class="fl-hol-btn"/g) || []).length;
   check(ORIGIN[lang] ? hol >= 1 : hol === 0, `${lang} ${hol} long-weekend buttons`);
+  check((html.match(/class="fl-trip-btn"/g) || []).length === 2, `${lang} round trip / one way buttons`);
   check(/kiwitaxi\.tpx\.lv\/yRbl5tIp/.test(html) && /rel="sponsored noopener"/.test(html), `${lang} pickup partner link intact`);
   for (const m of main.matchAll(/href="(\/[^"#]*)"/g)) hrefs.add(m[1]);
 }
@@ -79,6 +80,24 @@ const st = await pg.evaluate(() => ({
 }));
 check(new RegExp(`destination=${code}`).test(st.src) && /origin=SEL/.test(st.src), `chip → widget ${st.src.match(/(origin|destination)=\w+/g)?.join(' ')}`);
 check(st.open.length === 1 && st.open[0] === code, `chip opens only its year (${st.open.join(',')})`);
+// One way (10-28): the button empties the widget's return date — the widget's
+// own one-way search — and round trip brings a return date back.
+// A third-party widget: waits are generous (30 s), and a wait that runs out is
+// reported as such rather than read as a wrong value.
+const RET = () => document.querySelector('#fl-widget tp-cascoon')?.shadowRoot?.querySelector('input[name="DateRange_to_name"]')?.value ?? null;
+const until = (fn) => pg.waitForFunction(fn, null, { timeout: 30_000 }).then(() => true, () => false);
+const loaded = await until(() => !!document.querySelector('#fl-widget tp-cascoon')?.shadowRoot?.querySelector('input[name="DateRange_to_name"]')?.value);
+check(loaded, 'search widget loaded with a return date');
+if (loaded) {
+  await pg.click('.fl-trip-btn[data-trip="one"]');
+  const emptied = await until(() => document.querySelector('#fl-widget tp-cascoon')?.shadowRoot?.querySelector('input[name="DateRange_to_name"]')?.value === '');
+  const lit = await pg.$eval('.fl-trip-btn[data-trip="one"]', (b) => b.getAttribute('aria-pressed'));
+  check(emptied && lit === 'true', `one way empties the return date (emptied ${emptied}, lit ${lit})`);
+  await pg.click('.fl-trip-btn[data-trip="round"]');
+  const back = await until(() => !!document.querySelector('#fl-widget tp-cascoon')?.shadowRoot?.querySelector('input[name="DateRange_to_name"]')?.value);
+  const src = await pg.$eval('#fl-widget script', (s) => s.src);
+  check(back && /origin=SEL/.test(src) && new RegExp(`destination=${code}`).test(src), `round trip brings a return date back, same cities ("${await pg.evaluate(RET)}")`);
+}
 await pg.close();
 
 const ph = await b.newPage({ viewport: { width: 375, height: 812 } });

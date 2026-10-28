@@ -295,6 +295,15 @@ const HOL_MARKET: Partial<Record<Lang, string>> = { ko: 'South Korea', ja: 'Japa
 const holLabel: Partial<Record<Lang, string>> = { ko: '연휴 날짜로 바로 채우기', ja: '連休の日程ですぐ入力' };
 const holFmt = new Intl.DateTimeFormat(locale, { month: 'numeric', day: 'numeric', weekday: 'short', timeZone: 'UTC' });
 const holDay = (iso: string) => holFmt.format(new Date(`${iso}T12:00:00Z`));
+// Round trip / one way above the widget (owner, 10-28). Wired in the script.
+const TRIP: Record<Lang, { group: string; round: string; one: string }> = {
+  en: { group: 'Trip type', round: 'Round trip', one: 'One way' },
+  ko: { group: '여정', round: '왕복', one: '편도' },
+  ja: { group: '旅程', round: '往復', one: '片道' },
+  es: { group: 'Tipo de viaje', round: 'Ida y vuelta', one: 'Solo ida' },
+  zh: { group: '行程类型', round: '往返', one: '单程' },
+};
+const trip = TRIP[lang];
 const holidays = HOL_MARKET[lang]
   ? longWeekends(factsBy[HOL_MARKET[lang]!]?.holidays ?? [], {
       fromISO: new Date(buildToday().getTime() + 86400000).toISOString().slice(0, 10), limit: 6,
@@ -340,6 +349,10 @@ const jsonLd = {
       <div class="fl-search" id="fl-search">
         <!-- locale follows the page language; origin is the language's home
              city (ko/ja) and destination is set by the chips below. -->
+        <div class="fl-trip" role="group" aria-label={trip.group}>
+          <button type="button" class="fl-trip-btn" data-trip="round" aria-pressed="true" aria-controls="fl-widget">{trip.round}</button>
+          <button type="button" class="fl-trip-btn" data-trip="one" aria-pressed="false" aria-controls="fl-widget">{trip.one}</button>
+        </div>
         <div class="tp-widget-card" id="fl-widget" data-src={widgetSrc()}>
           <script is:inline async src={widgetSrc()} charset="utf-8"></script>
         </div>
@@ -490,9 +503,44 @@ const jsonLd = {
     const base = box.dataset.src || '';
     // One reload for both controls, so a destination chip keeps the dates a
     // holiday button set and the other way round.
-    const pick = { dest: '', from: '', to: '' };
+    const pick = { origin: '', dest: '', from: '', to: '', oneWay: false };
+    // Round trip / one way (owner, 10-28: "편도 체크도 할 수 있어야지"). The
+    // widget takes no one-way option in its URL (one_way, oneway, an empty
+    // return_date — all tried live 10-28). Its own one way is the × on the
+    // return date: the return goes empty and the search becomes SEL0411PNH100,
+    // no return leg (checked live). "One way" presses that ×, again after each
+    // reload, which puts the default return date back. The buttons then follow
+    // the widget, not the other way round: a return date picked inside it lights
+    // "Round trip", its own × lights "One way", and a × we cannot find (the
+    // widget renamed it) gives up after 20 s with "Round trip" lit — the truth.
+    const tripBtns = document.querySelectorAll<HTMLButtonElement>('.fl-trip-btn');
+    const showTrip = (one: boolean) => tripBtns.forEach((b) => b.setAttribute('aria-pressed', String((b.dataset.trip === 'one') === one)));
+    const widgetReturn = () => box.querySelector('tp-cascoon')?.shadowRoot?.querySelector<HTMLInputElement>('input[name="DateRange_to_name"]') ?? null;
+    let applying = false;
+    const applyTrip = () => {
+      if (!pick.oneWay || applying) return;
+      applying = true;
+      const t0 = Date.now();
+      const tick = () => {
+        const r = widgetReturn();
+        // Round trip or a holiday pressed meanwhile: stop, or this would empty their return date.
+        if (!pick.oneWay || (r && !r.value)) { applying = false; return; }
+        const x = r && [...(r.getRootNode() as ShadowRoot).querySelectorAll('.date-range-picker .calendar-svg--close')].pop();
+        x?.dispatchEvent(new MouseEvent('click', { bubbles: true, composed: true }));
+        if (Date.now() - t0 > 20000) { applying = false; pick.oneWay = false; return; }
+        setTimeout(tick, 300);
+      };
+      tick();
+    };
+    setInterval(() => {
+      const r = widgetReturn();
+      if (applying || !r) return;
+      pick.oneWay = !r.value;
+      showTrip(pick.oneWay);
+    }, 700);
     const reload = () => {
       const url = new URL(base);
+      if (pick.origin) url.searchParams.set('origin', pick.origin);
       if (pick.dest) url.searchParams.set('destination', pick.dest);
       if (pick.from) url.searchParams.set('departure_date', pick.from);
       if (pick.to) url.searchParams.set('return_date', pick.to);
@@ -503,7 +551,33 @@ const jsonLd = {
       s.src = url.toString();
       box.appendChild(s);
       fitDates(box);
+      applyTrip();
     };
+    tripBtns.forEach((btn) => btn.addEventListener('click', () => {
+      const one = btn.dataset.trip === 'one';
+      showTrip(one);
+      if (one === pick.oneWay) return;
+      pick.oneWay = one;
+      if (one) { applyTrip(); return; }
+      // Back to round trip: a fresh widget, carrying what the reader set in the
+      // old one (cities, departure) and a return a week later — the widget's own
+      // default gap — rather than the page's defaults (Codex, 10-28).
+      const form = widgetReturn()?.form;
+      if (form) {
+        const f = new FormData(form);
+        const from = String(f.get('DateRange_from_name') || '');
+        // The *_slug fields hold the code (SEL); the visible ones a name (서울특별시),
+        // and an empty destination's slug is a URL — codes only.
+        const code = (k: string) => (/^[A-Z]{3}$/.test(String(f.get(k))) ? String(f.get(k)) : '');
+        pick.origin = code('origin_slug') || pick.origin;
+        pick.dest = code('destination_slug') || pick.dest;
+        if (/^\d{4}-\d\d-\d\d$/.test(from)) {
+          pick.from = from;
+          pick.to = new Date(Date.parse(`${from}T12:00:00Z`) + 7 * 86400000).toISOString().slice(0, 10);
+        }
+      }
+      reload();
+    }));
     // Holiday buttons: drop any that have started by the reader's date.
     const todayIso = new Date(Date.now() - new Date().getTimezoneOffset() * 60000).toISOString().slice(0, 10);
     document.querySelectorAll<HTMLButtonElement>('.fl-hol-btn').forEach((btn) => {
@@ -512,6 +586,8 @@ const jsonLd = {
         document.querySelectorAll('.fl-hol-btn').forEach((x) => x.setAttribute('aria-pressed', String(x === btn)));
         pick.from = btn.dataset.from || '';
         pick.to = btn.dataset.to || '';
+        pick.oneWay = false; // a long weekend has a way back
+        showTrip(false);
         reload();
       });
     });
@@ -584,6 +660,10 @@ const jsonLd = {
   .fl-checks li { display: flex; gap: 0.5rem; align-items: baseline; }
   .fl-checks span { color: var(--pine); font-weight: 700; }
   .fl-search .tp-widget-card { margin: 0; min-height: 220px; }
+  .fl-trip { display: inline-flex; gap: 0.25rem; padding: 0.2rem; margin-bottom: 0.6rem; border: 1px solid var(--line); border-radius: var(--r-pill); background: var(--surface); }
+  .fl-trip-btn { font: inherit; font-size: 0.88rem; padding: 0.35rem 1rem; border: 0; border-radius: var(--r-pill); background: transparent; color: var(--ink-soft); cursor: pointer; }
+  .fl-trip-btn:hover { color: var(--ink); }
+  .fl-trip-btn[aria-pressed='true'] { background: var(--accent); color: #fff; font-weight: 600; }
   .fl-crumbs { justify-content: flex-start; margin-bottom: 0.6rem; }
   .fl-hol { display: flex; flex-wrap: wrap; align-items: center; gap: 0.45rem; margin-top: 0.8rem; }
   .fl-hol[hidden], .fl-hol-btn[hidden] { display: none; }
