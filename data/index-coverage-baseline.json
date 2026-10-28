@@ -157,5 +157,7 @@
   "throttleWasApplied": "yes - 5 posts/day since 09-01, verified from pubDates",
   "nextRevisit": "2026-10-07; the number to watch is Googlebot requests/day (81 today, 162 before the throttle)",
   "whatIsLeft": "Google fetches 81 pages a day from a site offering ~12,000 URLs. No publishing rate fixes that. The constraint is authority, and backlinks are the lever."
- }
+ },
+ "supersededOn": "2026-10-28",
+ "supersededBy": "data/index-core-set.json + scripts/audit-index-core-set.mjs (weekly, index-core-set.yml). 사이트 전체 색인 수·발견됨-미색인 총량은 더 이상 KPI 가 아니다 — 10-28 전수 조사: 그 7,500 은 대부분 구글이 한 번도 가져가지 않은 글이고 구글도 색인/비색인 비율은 품질 척도가 아니라고 말한다. 새 자는 결과를 보기 전에 고정한 영문 핵심 집합의 색인%·28일 노출%·정체(90일+ 미재크롤)·코호트 재크롤률이다. 이 파일은 09-18 에 닫힌 기록으로 그대로 둔다."
 }

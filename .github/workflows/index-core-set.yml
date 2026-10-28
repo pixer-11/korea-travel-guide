@@ -1,0 +1,46 @@
+# Weekly core-set index ruler (2026-10-28 잣대 교체).
+# '사이트 전체 색인 수' 대신, 결과를 보기 전에 고정한 영문 핵심 집합(data/index-core-set.json)
+# 의 색인%·노출%·정체·코호트 재크롤률을 URL Inspection API 로 전수 측정해 Telegram(한국어)
+# 으로 보고하고 장부(data/logs/index-core-set.jsonl)에 한 줄 남긴다.
+# 화요일의 index-coverage(표본 240)와 다른 날에 돌려 하루 2,000 검사 한도를 나눠 쓴다.
+# 건당 ~8초 × 약 460쪽 ≈ 60분 — 35분이던 index-coverage 의 교훈대로 여유를 둔다.
+name: Index core-set ruler
+on:
+  schedule:
+    - cron: '41 21 * * 3' # Thu 06:41 KST (Wed 21:41 UTC)
+  workflow_dispatch: {}
+
+concurrency:
+  group: index-core-set
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  ruler:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 24
+      - name: Inspect the core set
+        env:
+          GSC_SERVICE_ACCOUNT_JSON: ${{ secrets.GSC_SERVICE_ACCOUNT_JSON }}
+          GSC_SITE_URL: ${{ secrets.GSC_SITE_URL }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: node scripts/audit-index-core-set.mjs
+      - name: Commit the ledger
+        run: |
+          git config user.name "Korea Travel Guide"
+          git config user.email "bot@wanderatlasguides.com"
+          git add data/logs/index-core-set.jsonl
+          if git diff --cached --quiet; then
+            echo "변화 없음 — 커밋 생략"
+          else
+            git commit -m "data: weekly index core-set ruler ($(date -u +%Y-%m-%d))"
+            bash scripts/git-push-retry.sh
+          fi

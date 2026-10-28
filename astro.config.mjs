@@ -48,7 +48,13 @@ function contentLastmod() {
       try { fm = readFileSync(join(dir, f), 'utf8').split('---')[1] || ''; } catch { continue; }
       /** @param {string} k */
       const pick = (k) => new RegExp(`(?:^|\\n)${k}:\\s*['"]?(\\d{4}-\\d{2}-\\d{2})`).exec(fm)?.[1];
-      const date = pick('updatedDate') || pick('pubDate') || pick('lastReviewed');
+      // The newest of the dates a file carries, not the first one found: a post
+      // whose Places facts were re-checked in August and whose in-body photo was
+      // added in November last changed in November. galleryAddedOn is stamped
+      // by backfill-gallery.mjs (2026-10-28) so a real content addition reaches
+      // the sitemap without pretending the facts were re-checked that day.
+      const date = [pick('updatedDate'), pick('pubDate'), pick('lastReviewed'), pick('galleryAddedOn')]
+        .filter(Boolean).sort().at(-1);
       if (date) map.set(toPath(f.replace(/\.md$/, '')), date);
     }
   };

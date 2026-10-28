@@ -32,6 +32,7 @@ import { verifyGalleryImage } from './lib/vision-check.mjs';
 import { isImageAllowed } from './lib/guardrails.mjs';
 import { isUsedImage, markUsedImage } from './lib/hero-url.mjs';
 import { sendTelegram } from './lib/telegram.mjs';
+import { editFrontmatter } from './lib/frontmatter-edit.mjs';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const POSTS_DIR = join(ROOT, 'src', 'content', 'posts');
@@ -79,11 +80,32 @@ for (const f of files) {
 // rest oldest-first, as before: those have waited longest since their try.
 const FRESH_MS = 14 * 864e5;
 const when = (d) => Date.parse(d.pubDate || d.date || 0) || 0;
+// Lane zero (2026-10-28): posts the weekly core-set ruler found INDEXED but not
+// re-crawled for 90+ days (data/logs/index-core-set.jsonl, last line). A verified
+// second photo plus a changed sitemap date is the one real content change this
+// patrol can give such a page, and the ruler then reads whether Google comes
+// back for it (its photoRefresh cohort). Before the ledger exists this lane is
+// simply empty and the two older lanes run as they always did.
+const STALE_LEDGER = join(ROOT, 'data', 'logs', 'index-core-set.jsonl');
+const staleSlugs = new Set();
+if (existsSync(STALE_LEDGER)) {
+  const last = (await readFile(STALE_LEDGER, 'utf8')).trim().split('\n').at(-1);
+  try {
+    for (const u of JSON.parse(last || '{}').staleUrls || []) {
+      const m = /\/posts\/([a-z0-9-]+)\/?$/.exec(u);
+      if (m) staleSlugs.add(m[1]);
+    }
+  } catch { /* an unreadable ledger line must not stop the patrol */ }
+}
+const isStale = (f) => staleSlugs.has(f.replace(/\.md$/, ''));
 candidates.sort((a, b) => {
+  const sa = isStale(a.f), sb = isStale(b.f);
+  if (sa !== sb) return sa ? -1 : 1;
   const fa = Date.now() - when(a.data) < FRESH_MS, fb = Date.now() - when(b.data) < FRESH_MS;
   if (fa !== fb) return fa ? -1 : 1;
   return fa ? when(b.data) - when(a.data) : when(a.data) - when(b.data);
 });
+if (staleSlugs.size) console.log(`stale-indexed lane: ${candidates.filter((c) => isStale(c.f)).length} of ${staleSlugs.size} ruler-flagged posts are eligible here`);
 
 console.log(`${candidates.length} one-photo venue/event post(s) eligible · trying up to ${LIMIT}${DRY ? ' (dry-run)' : ''}`);
 let tried = 0, added = 0;
@@ -136,6 +158,12 @@ for (const { f, data, content } of candidates) {
       out = raw.replace(/^heroImage:\s*$/m, `${block}${eol}heroImage:`);
     }
     if (out === raw) { console.log(`  ⚠ ${slug}: no anchor for gallery — left untouched`); continue; }
+    // Stamp the content change so the sitemap <lastmod> moves (astro.config takes
+    // the newest date a file carries). Not updatedDate: the byline reads that as
+    // the day the facts were re-checked, which a photo is not. A stamp failure
+    // must not cost the photo — the page is better with it either way.
+    try { out = editFrontmatter(out, { galleryAddedOn: new Date().toISOString().slice(0, 10) }); }
+    catch (e) { console.log(`  ⚠ ${slug}: galleryAddedOn not stamped (${String(e.message).split('\n')[0]}) — photo still added`); }
     await writeFile(p, out, 'utf8');
   }
   // Recorded only after the file actually changed — a splice failure above

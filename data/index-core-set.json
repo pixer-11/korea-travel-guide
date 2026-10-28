@@ -1,0 +1,1851 @@
+{
+ "createdOn": "2026-10-28",
+ "rule": "영문 페이지 중 (A) 2026-09-27~10-25 28일간 구글 노출이 1회 이상 있던 페이지 전부 + (B) 참조형 페이지 전부(/essentials/, /tools/esim/, /tools/ 기타, /destinations/ 나라 허브). 성적으로 고르지 않았고 결과를 보기 전에 고정했다. 직접 경험 글(/editor-photos/ 포함)은 올라가는 즉시 자동 합류(audit-index-core-set.mjs). 일정표·지역 허브·날씨 페이지는 회전·대량이라 A 에 든 것만.",
+ "siteUrl": "sc-domain:wanderatlasguides.com",
+ "staleDays": 90,
+ "cohortStart": "2026-10-28",
+ "thresholds": {
+  "judgeOn": "2026-12-09",
+  "group": "firsthand",
+  "recrawlRatio": 2,
+  "minNewlyIndexed": 1,
+  "rule": "2026-12-09 이후 첫 측정에서: firsthand(직접 경험 글) 재크롤률 ≥ 비교군(같은 나라 posts, 그룹 밖) 2배 이고 미색인→색인 전환 ≥1 이면 expand(현장메모 우선순위 확대). 양쪽 재크롤 0 이면 unmeasurable(측정 불가 — 닫고 재제안 금지). 그 외 noEffect. photoRefresh(정체 글 사진 보강) 그룹은 같은 표로 참고만 보고, 판정 대상은 firsthand 하나다.",
+  "defense": "집합 색인% 가 기준선(첫 줄)보다 10%p 넘게 떨어지면 방어 경보 — 정체 풀부터 본다. 숫자는 결과를 보기 전에 적었다(2026-10-28)."
+ },
+ "groups": {},
+ "urls": [
+  {
+   "url": "https://wanderatlasguides.com/posts/lombok-vandal-restaurant-elevated-global-street-food/",
+   "kind": "posts",
+   "country": "Indonesia"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/seattle-the-gum-wall/",
+   "kind": "posts",
+   "country": "United States"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/phuket-hug-street-food-kata-phuket/",
+   "kind": "posts",
+   "country": "Thailand"
+  },
+  {
+   "url": "https://wanderatlasguides.com/regions/siargao/",
+   "kind": "region"
+  },
+  {
+   "url": "https://wanderatlasguides.com/events/",
+   "kind": "events"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/washington-dc-founding-farmers-dc/",
+   "kind": "posts",
+   "country": "United States"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/france/september/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/italy/february/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/tokyo-pan-pacific-open-toray-pan-pacific-open/",
+   "kind": "posts",
+   "country": "Japan"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/ras-al-khaimah-rukn-al-falafel-cafeteria/",
+   "kind": "posts",
+   "country": "United Arab Emirates"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/washington-dc-u-s-national-arboretum/",
+   "kind": "posts",
+   "country": "United States"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/esim/taiwan/",
+   "kind": "esim"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/ajman-yemeni-corner-restaurant/",
+   "kind": "posts",
+   "country": "United Arab Emirates"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/japan/july/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/japan/november/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/spain/december/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/philippines/december/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/turkey/july/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/regions/makati/",
+   "kind": "region"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/japan/october/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/singapore/august/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/incheon-wolmi-theme-park/",
+   "kind": "posts",
+   "country": "South Korea"
+  },
+  {
+   "url": "https://wanderatlasguides.com/terms/",
+   "kind": "other"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/chicago-cloud-gate/",
+   "kind": "posts",
+   "country": "United States"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/dubai-al-khayma-heritage-restaurant/",
+   "kind": "posts",
+   "country": "United Arab Emirates"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/kyoto-gyukatsu-kyoto-katsugyu-kyoto-ekimae/",
+   "kind": "posts",
+   "country": "Japan"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/okinawa-southeast-botanical-gardens/",
+   "kind": "posts",
+   "country": "Japan"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/esim/cambodia/",
+   "kind": "esim"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/thailand/october/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/ajman-the-seat-cafe/",
+   "kind": "posts",
+   "country": "United Arab Emirates"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/al-ain-al-fanar-restaurant-cafe/",
+   "kind": "posts",
+   "country": "United Arab Emirates"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/bangkok-wat-arun-ratchawararam-ratchawaramahawihan/",
+   "kind": "posts",
+   "country": "Thailand"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/esim/hong-kong/",
+   "kind": "esim"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/japan/april/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/palawan-secret-lagoon/",
+   "kind": "posts",
+   "country": "Philippines"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/phu-quoc-grand-world-phu-quoc/",
+   "kind": "posts",
+   "country": "Vietnam"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/france/july/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/philippines/august/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/singapore/january/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/about/",
+   "kind": "other"
+  },
+  {
+   "url": "https://wanderatlasguides.com/contact/",
+   "kind": "other"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/abu-dhabi-art-house-cafe/",
+   "kind": "posts",
+   "country": "United Arab Emirates"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/istanbul-sen-den-restaurant/",
+   "kind": "posts",
+   "country": "Turkey"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/kaohsiung-dome-of-light/",
+   "kind": "posts",
+   "country": "Taiwan"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/nagoya-atsuta-horaiken-honten/",
+   "kind": "posts",
+   "country": "Japan"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/paris-shwi/",
+   "kind": "posts",
+   "country": "France"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/provence-lavender-sunflower-field/",
+   "kind": "posts",
+   "country": "France"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/tokyo-teamlab-planets-tokyo-dmm/",
+   "kind": "posts",
+   "country": "Japan"
+  },
+  {
+   "url": "https://wanderatlasguides.com/privacy/",
+   "kind": "other"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/france/january/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/south-korea/june/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/vietnam/may/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/essentials/",
+   "kind": "essentials"
+  },
+  {
+   "url": "https://wanderatlasguides.com/methodology/",
+   "kind": "other"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/barcelona-gloria-osteria/",
+   "kind": "posts",
+   "country": "Spain"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/gangneung-gyeongpo-beach/",
+   "kind": "posts",
+   "country": "South Korea"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/koh-samui-tarnim-magic-garden/",
+   "kind": "posts",
+   "country": "Thailand"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/nagoya-noritake-garden/",
+   "kind": "posts",
+   "country": "Japan"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/nara-mizuya-chaya/",
+   "kind": "posts",
+   "country": "Japan"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/seattle-jack-s-fish-spot/",
+   "kind": "posts",
+   "country": "United States"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/turin-mercato-centrale-torino/",
+   "kind": "posts",
+   "country": "Italy"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/esim/",
+   "kind": "esim"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/japan/june/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/singapore/july/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/singapore/october/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/",
+   "kind": "other"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/bali-cure-bali/",
+   "kind": "posts",
+   "country": "Indonesia"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/chiba-hiyodori-zaka/",
+   "kind": "posts",
+   "country": "Japan"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/chicago-navy-pier/",
+   "kind": "posts",
+   "country": "United States"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/ho-chi-minh-city-ben-nghe-street-food/",
+   "kind": "posts",
+   "country": "Vietnam"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/orchard-road-merci-marcel-orchard/",
+   "kind": "posts",
+   "country": "Singapore"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/singapore-bop-bartenders-of-pony/",
+   "kind": "posts",
+   "country": "Singapore"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/singapore-casa-mori/",
+   "kind": "posts",
+   "country": "Singapore"
+  },
+  {
+   "url": "https://wanderatlasguides.com/regions/hue/",
+   "kind": "region"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/indonesia/august/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/japan/august/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/singapore/april/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/united-states/september/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/continents/north-america/",
+   "kind": "other"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/andong-talbing-go/",
+   "kind": "posts",
+   "country": "South Korea"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/austin-formula-1-united-states-grand-prix/",
+   "kind": "posts",
+   "country": "United States"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/bengaluru-guns-n-roses-india-tour/",
+   "kind": "posts",
+   "country": "India"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/incheon-haesong-ssambap/",
+   "kind": "posts",
+   "country": "South Korea"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/kanazawa-kourin-sushi/",
+   "kind": "posts",
+   "country": "Japan"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/kota-kinabalu-tanjung-aru-beach/",
+   "kind": "posts",
+   "country": "Malaysia"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/kyoto-yoichiba/",
+   "kind": "posts",
+   "country": "Japan"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/labuan-bajo-la-moringa-labuan-bajo/",
+   "kind": "posts",
+   "country": "Indonesia"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/langkawi-kilim-geoforest-park/",
+   "kind": "posts",
+   "country": "Malaysia"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/lyon-carmelo/",
+   "kind": "posts",
+   "country": "France"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/madrid-formula-1-spanish-grand-prix-madring/",
+   "kind": "posts",
+   "country": "Spain"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/malaga-jardin-botanico-historico-la-concepcion/",
+   "kind": "posts",
+   "country": "Spain"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/pattaya-mini-siam/",
+   "kind": "posts",
+   "country": "Thailand"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/phuket-the-big-buddha-phuket/",
+   "kind": "posts",
+   "country": "Thailand"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/portland-portland-saturday-market/",
+   "kind": "posts",
+   "country": "United States"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/san-sebastian-bar-txepetxa/",
+   "kind": "posts",
+   "country": "Spain"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/seoul-euljiro/",
+   "kind": "posts",
+   "country": "South Korea"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/suzhou-lion-grove-garden/",
+   "kind": "posts",
+   "country": "China"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/tokyo-fuglen-tokyo/",
+   "kind": "posts",
+   "country": "Japan"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/yokohama-yokohama-chinatown/",
+   "kind": "posts",
+   "country": "Japan"
+  },
+  {
+   "url": "https://wanderatlasguides.com/regions/kuala-lumpur/",
+   "kind": "region"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/france/april/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/philippines/july/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/philippines/may/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/singapore/december/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/south-korea/august/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/united-states/november/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/esim/india/",
+   "kind": "esim"
+  },
+  {
+   "url": "https://wanderatlasguides.com/destinations/france/",
+   "kind": "country"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/bali-bukit-peninsula-uluwatu-avli/",
+   "kind": "posts",
+   "country": "Indonesia"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/bangkok-khao-san-sek/",
+   "kind": "posts",
+   "country": "Thailand"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/bangkok-somsak/",
+   "kind": "posts",
+   "country": "Thailand"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/barcelona-parada-torres/",
+   "kind": "posts",
+   "country": "Spain"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/bilbao-victor-montes/",
+   "kind": "posts",
+   "country": "Spain"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/boracay-willy-s-rock/",
+   "kind": "posts",
+   "country": "Philippines"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/chuncheon-1-5-dakgalbi/",
+   "kind": "posts",
+   "country": "South Korea"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/hue-vietnamese-food-hue-local-food-fastfood-22-restaurant-hue/",
+   "kind": "posts",
+   "country": "Vietnam"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/jakarta-giyanti-coffee-roastery/",
+   "kind": "posts",
+   "country": "Indonesia"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/lombok-elamu-lombok/",
+   "kind": "posts",
+   "country": "Indonesia"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/los-angeles-bad-roman/",
+   "kind": "posts",
+   "country": "United States"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/marina-bay-skypark-observation-deck/",
+   "kind": "posts",
+   "country": "Singapore"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/nara-chami-specialty-coffee-roaster-nara-japan/",
+   "kind": "posts",
+   "country": "Japan"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/new-york-balthazar/",
+   "kind": "posts",
+   "country": "United States"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/sapporo-mermaid-coffee-roasters/",
+   "kind": "posts",
+   "country": "Japan"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/seattle-the-pink-door/",
+   "kind": "posts",
+   "country": "United States"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/seoul-sanchon/",
+   "kind": "posts",
+   "country": "South Korea"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/singapore-bouillon-gavroche/",
+   "kind": "posts",
+   "country": "Singapore"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/surabaya-black-owl-surabaya/",
+   "kind": "posts",
+   "country": "Indonesia"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/valencia-ciudad-de-las-artes-y-las-ciencias/",
+   "kind": "posts",
+   "country": "Spain"
+  },
+  {
+   "url": "https://wanderatlasguides.com/regions/",
+   "kind": "region"
+  },
+  {
+   "url": "https://wanderatlasguides.com/regions/alcaniz/",
+   "kind": "region"
+  },
+  {
+   "url": "https://wanderatlasguides.com/regions/chandigarh/",
+   "kind": "region"
+  },
+  {
+   "url": "https://wanderatlasguides.com/regions/little-india/things-to-do/",
+   "kind": "region"
+  },
+  {
+   "url": "https://wanderatlasguides.com/regions/monza/",
+   "kind": "region"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/china/november/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/india/march/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/italy/april/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/italy/march/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/philippines/october/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/philippines/september/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/spain/june/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/taiwan/april/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/taiwan/august/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/thailand/february/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/united-states/august/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/makati-kariton-x-sabi-sounds/",
+   "kind": "posts",
+   "country": "Philippines"
+  },
+  {
+   "url": "https://wanderatlasguides.com/destinations/",
+   "kind": "country"
+  },
+  {
+   "url": "https://wanderatlasguides.com/essentials/emergency/",
+   "kind": "essentials"
+  },
+  {
+   "url": "https://wanderatlasguides.com/essentials/singapore/",
+   "kind": "essentials"
+  },
+  {
+   "url": "https://wanderatlasguides.com/essentials/transport/",
+   "kind": "essentials"
+  },
+  {
+   "url": "https://wanderatlasguides.com/essentials/united-arab-emirates/",
+   "kind": "essentials"
+  },
+  {
+   "url": "https://wanderatlasguides.com/events/france/",
+   "kind": "events"
+  },
+  {
+   "url": "https://wanderatlasguides.com/itinerary/new-york-3-days/",
+   "kind": "itinerary"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/ankara-ankara-castle/",
+   "kind": "posts",
+   "country": "Turkey"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/bangkok-sea-life-bangkok-ocean-world/",
+   "kind": "posts",
+   "country": "Thailand"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/chiang-mai-garden-to-table-chiangmai/",
+   "kind": "posts",
+   "country": "Thailand"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/chiba-tokyo-and-osaka-summer-sonic-2026/",
+   "kind": "posts",
+   "country": "Japan"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/clarke-quay-clarke-quay-jetty/",
+   "kind": "posts",
+   "country": "Singapore"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/da-nang-the-marble-mountains/",
+   "kind": "posts",
+   "country": "Vietnam"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/daegu-daegu-83-tower/",
+   "kind": "posts",
+   "country": "South Korea"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/daegu-nazar-kebab/",
+   "kind": "posts",
+   "country": "South Korea"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/davao-philippine-eagle-center/",
+   "kind": "posts",
+   "country": "Philippines"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/fujairah-al-meshwar-restaurant/",
+   "kind": "posts",
+   "country": "United Arab Emirates"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/fujairah-steki/",
+   "kind": "posts",
+   "country": "United Arab Emirates"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/fukuoka-manly/",
+   "kind": "posts",
+   "country": "Japan"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/gangneung-arte-museum-valley-gangneung/",
+   "kind": "posts",
+   "country": "South Korea"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/hoi-an-nhan-s-kitchen/",
+   "kind": "posts",
+   "country": "Vietnam"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/jakarta-social-house-grand-indonesia/",
+   "kind": "posts",
+   "country": "Indonesia"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/jakarta-the-sounds-project-vol-9/",
+   "kind": "posts",
+   "country": "Indonesia"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/kanazawa-kenroku-en/",
+   "kind": "posts",
+   "country": "Japan"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/los-angeles-urth-caffe/",
+   "kind": "posts",
+   "country": "United States"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/manila-azukitoyo/",
+   "kind": "posts"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/marina-bay-le-noir/",
+   "kind": "posts",
+   "country": "Singapore"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/marseille-port-antique/",
+   "kind": "posts",
+   "country": "France"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/new-orleans-napoleon-house/",
+   "kind": "posts",
+   "country": "United States"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/new-york-city-atomix/",
+   "kind": "posts",
+   "country": "United States"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/okinawa-chatan-steam-seafood/",
+   "kind": "posts",
+   "country": "Japan"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/osaka-lilo-coffee-roasters/",
+   "kind": "posts",
+   "country": "Japan"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/phu-quoc-camia-restaurant/",
+   "kind": "posts",
+   "country": "Vietnam"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/qingdao-zhanqiao-pier/",
+   "kind": "posts",
+   "country": "China"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/ras-al-khaimah-jebel-jais/",
+   "kind": "posts",
+   "country": "United Arab Emirates"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/rome-luna/",
+   "kind": "posts",
+   "country": "Italy"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/rome-sant-eustachio-caffe/",
+   "kind": "posts",
+   "country": "Italy"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/sentosa-sentosa-sensoryscape/",
+   "kind": "posts",
+   "country": "Singapore"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/seoul-eid-halal-korean-food/",
+   "kind": "posts",
+   "country": "South Korea"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/seoul-plant-cafe-seoul-yeonnam/",
+   "kind": "posts",
+   "country": "South Korea"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/shanghai-vice/",
+   "kind": "posts",
+   "country": "China"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/singapore-lau-pa-sat/",
+   "kind": "posts",
+   "country": "Singapore"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/tokyo-ise-sueyoshi/",
+   "kind": "posts",
+   "country": "Japan"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/tokyo-shinjuku-gyoen-national-garden/",
+   "kind": "posts",
+   "country": "Japan"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/xi-an-tang-paradise/",
+   "kind": "posts",
+   "country": "China"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/xian-emperor-qinshihuang-s-mausoleum-site-museum/",
+   "kind": "posts",
+   "country": "China"
+  },
+  {
+   "url": "https://wanderatlasguides.com/regions/bandung/",
+   "kind": "region"
+  },
+  {
+   "url": "https://wanderatlasguides.com/regions/bocaue/",
+   "kind": "region"
+  },
+  {
+   "url": "https://wanderatlasguides.com/regions/glasgow/",
+   "kind": "region"
+  },
+  {
+   "url": "https://wanderatlasguides.com/regions/ho-chi-minh-city/things-to-do/",
+   "kind": "region"
+  },
+  {
+   "url": "https://wanderatlasguides.com/regions/mexico-city/",
+   "kind": "region"
+  },
+  {
+   "url": "https://wanderatlasguides.com/regions/motegi/",
+   "kind": "region"
+  },
+  {
+   "url": "https://wanderatlasguides.com/regions/seoul/",
+   "kind": "region"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/best-time/",
+   "kind": "tools"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/esim/indonesia/",
+   "kind": "esim"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/esim/singapore/",
+   "kind": "esim"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/esim/uzbekistan/",
+   "kind": "esim"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/france/october/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/india/august/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/malaysia/october/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/philippines/november/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/south-korea/march/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/spain/january/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/taiwan/march/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/turkey/november/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/united-states/december/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/essentials/taiwan/",
+   "kind": "essentials"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/lombok-bukit-merese/",
+   "kind": "posts",
+   "country": "Indonesia"
+  },
+  {
+   "url": "https://wanderatlasguides.com/continents/europe/",
+   "kind": "other"
+  },
+  {
+   "url": "https://wanderatlasguides.com/destinations/indonesia/",
+   "kind": "country"
+  },
+  {
+   "url": "https://wanderatlasguides.com/destinations/singapore/",
+   "kind": "country"
+  },
+  {
+   "url": "https://wanderatlasguides.com/destinations/spain/",
+   "kind": "country"
+  },
+  {
+   "url": "https://wanderatlasguides.com/destinations/taiwan/",
+   "kind": "country"
+  },
+  {
+   "url": "https://wanderatlasguides.com/destinations/thailand/",
+   "kind": "country"
+  },
+  {
+   "url": "https://wanderatlasguides.com/essentials/france/",
+   "kind": "essentials"
+  },
+  {
+   "url": "https://wanderatlasguides.com/essentials/india/",
+   "kind": "essentials"
+  },
+  {
+   "url": "https://wanderatlasguides.com/essentials/indonesia/",
+   "kind": "essentials"
+  },
+  {
+   "url": "https://wanderatlasguides.com/essentials/italy/",
+   "kind": "essentials"
+  },
+  {
+   "url": "https://wanderatlasguides.com/essentials/malaysia/",
+   "kind": "essentials"
+  },
+  {
+   "url": "https://wanderatlasguides.com/essentials/philippines/",
+   "kind": "essentials"
+  },
+  {
+   "url": "https://wanderatlasguides.com/essentials/turkey/",
+   "kind": "essentials"
+  },
+  {
+   "url": "https://wanderatlasguides.com/essentials/vietnam/",
+   "kind": "essentials"
+  },
+  {
+   "url": "https://wanderatlasguides.com/essentials/visa/",
+   "kind": "essentials"
+  },
+  {
+   "url": "https://wanderatlasguides.com/flights/",
+   "kind": "other"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/agra-agra-fort/",
+   "kind": "posts",
+   "country": "India"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/agra-taj-terrace/",
+   "kind": "posts",
+   "country": "India"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/ajman-souryana-restaurant-and-cafe/",
+   "kind": "posts",
+   "country": "United Arab Emirates"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/ayutthaya-the-artisans-ayutthaya/",
+   "kind": "posts",
+   "country": "Thailand"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/ayutthaya-the-summer-house/",
+   "kind": "posts",
+   "country": "Thailand"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/bali-chai-of-the-tiger-indian-street-food/",
+   "kind": "posts",
+   "country": "Indonesia"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/bali-livingstone/",
+   "kind": "posts",
+   "country": "Indonesia"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/bandung-hummingbird-eatery-space/",
+   "kind": "posts",
+   "country": "Indonesia"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/bandung-wheels-coffee-roasters-heritage-lifestyle-hub-riau/",
+   "kind": "posts",
+   "country": "Indonesia"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/bangkok-saladaeng/",
+   "kind": "posts",
+   "country": "Thailand"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/bangkok-treehouse-cafe-bar/",
+   "kind": "posts",
+   "country": "Thailand"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/bordeaux-bordeaux-wine-trails-wine-tours/",
+   "kind": "posts",
+   "country": "France"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/bunol-la-tomatina/",
+   "kind": "posts",
+   "country": "Spain"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/chengdu-gudashengci-temple/",
+   "kind": "posts",
+   "country": "China"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/chiang-mai-wat-phra-that-doi-suthep/",
+   "kind": "posts",
+   "country": "Thailand"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/chinatown-chinatown-heritage-centre/",
+   "kind": "posts",
+   "country": "Singapore"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/chuncheon-nami-island/",
+   "kind": "posts",
+   "country": "South Korea"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/clarke-quay-cq-clarke-quay/",
+   "kind": "posts",
+   "country": "Singapore"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/damyang-bamboo-forest/",
+   "kind": "posts",
+   "country": "South Korea"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/damyang-juknokwon/",
+   "kind": "posts",
+   "country": "South Korea"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/davao-people-s-park/",
+   "kind": "posts",
+   "country": "Philippines"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/fukuoka-fuglen-coffee-keyakidori/",
+   "kind": "posts",
+   "country": "Japan"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/fukuoka-ohori-park/",
+   "kind": "posts",
+   "country": "Japan"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/gangneung-gyeongpo-lake/",
+   "kind": "posts",
+   "country": "South Korea"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/goyang-ilsan-lake-park/",
+   "kind": "posts",
+   "country": "South Korea"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/granada-generalife/",
+   "kind": "posts",
+   "country": "Spain"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/guangzhou-shangxiajiu-commercial-pedestrian-street/",
+   "kind": "posts",
+   "country": "China"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/ha-long-bay-sung-sot-cave/",
+   "kind": "posts",
+   "country": "Vietnam"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/hanoi-hong-hoai-s-restaurant/",
+   "kind": "posts",
+   "country": "Vietnam"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/hiroshima-itsukushima-jinja/",
+   "kind": "posts",
+   "country": "Japan"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/hiroshima-nagataya/",
+   "kind": "posts",
+   "country": "Japan"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/hong-kong-hong-kong-disneyland/",
+   "kind": "posts",
+   "country": "Hong Kong"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/incheon-songdo-central-park/",
+   "kind": "posts",
+   "country": "South Korea"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/izmir-agora-of-smyrna/",
+   "kind": "posts",
+   "country": "Turkey"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/jaipur-suvarna-mahal/",
+   "kind": "posts",
+   "country": "India"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/jakarta-lalala-festival-2026/",
+   "kind": "posts",
+   "country": "Indonesia"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/jeonju-jeonju-hanok-village-restaurant-jeonju-is-jeonju/",
+   "kind": "posts",
+   "country": "South Korea"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/jiufen-jiufen-old-street/",
+   "kind": "posts",
+   "country": "Taiwan"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/kuala-lumpur-jalinan/",
+   "kind": "posts",
+   "country": "Malaysia"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/labuan-bajo-mimamori-cafe-labuan-bajo/",
+   "kind": "posts",
+   "country": "Indonesia"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/las-vegas-bellagio-conservatory-botanical-gardens/",
+   "kind": "posts",
+   "country": "United States"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/los-angeles-hollyhock-house/",
+   "kind": "posts",
+   "country": "United States"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/los-angeles-santa-monica-pier/",
+   "kind": "posts",
+   "country": "United States"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/lyon-basilica-of-notre-dame-of-fourviere/",
+   "kind": "posts",
+   "country": "France"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/malacca-menara-taming-sari/",
+   "kind": "posts",
+   "country": "Malaysia"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/milan-langosteria-montenapoleone/",
+   "kind": "posts",
+   "country": "Italy"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/monza-italian-grand-prix-formula-1/",
+   "kind": "posts",
+   "country": "Italy"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/monza-reggia-di-monza/",
+   "kind": "posts",
+   "country": "Italy"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/nara-sahha-halal-restaurant/",
+   "kind": "posts",
+   "country": "Japan"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/new-delhi-humayun-s-tomb/",
+   "kind": "posts",
+   "country": "India"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/new-york-flushing-queens-us-open-tennis-championships-2026/",
+   "kind": "posts",
+   "country": "United States"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/new-york-strand-bookstore/",
+   "kind": "posts",
+   "country": "United States"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/nha-trang-nha-he-coffee-shop/",
+   "kind": "posts",
+   "country": "Vietnam"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/osaka-osaka-castle/",
+   "kind": "posts",
+   "country": "Japan"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/pattaya-sheeva-cafe/",
+   "kind": "posts",
+   "country": "Thailand"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/phu-quoc-vietnam-international-flute-festival-viff-2026/",
+   "kind": "posts",
+   "country": "Vietnam"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/san-francisco-rich-table/",
+   "kind": "posts",
+   "country": "United States"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/sapporo-sapporo-tv-tower/",
+   "kind": "posts",
+   "country": "Japan"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/seattle-pike-place-market/",
+   "kind": "posts",
+   "country": "United States"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/sentosa-fiamma/",
+   "kind": "posts",
+   "country": "Singapore"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/sentosa-fort-siloso/",
+   "kind": "posts",
+   "country": "Singapore"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/sentosa-skyline-luge-singapore/",
+   "kind": "posts",
+   "country": "Singapore"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/seoul-bukchon-yukgyeong-photo-spot/",
+   "kind": "posts",
+   "country": "South Korea"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/seoul-dallas-pizza/",
+   "kind": "posts",
+   "country": "South Korea"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/singapore-david-byrne-who-is-the-sky-tour/",
+   "kind": "posts",
+   "country": "Singapore"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/tainan-anping-old-street/",
+   "kind": "posts",
+   "country": "Taiwan"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/taipei-official-hige-dandism-asia-tour-2026/",
+   "kind": "posts"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/taipei-taipei-fringe-festival-2026/",
+   "kind": "posts",
+   "country": "Taiwan"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/tokyo-senso-ji/",
+   "kind": "posts",
+   "country": "Japan"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/tokyo-smith-wollensky/",
+   "kind": "posts",
+   "country": "Japan"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/tokyo-tokyo-tower/",
+   "kind": "posts",
+   "country": "Japan"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/turin-mole-antonelliana/",
+   "kind": "posts",
+   "country": "Italy"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/venice-grand-canal/",
+   "kind": "posts",
+   "country": "Italy"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/yogyakarta-blanco-coffee-and-books/",
+   "kind": "posts",
+   "country": "Indonesia"
+  },
+  {
+   "url": "https://wanderatlasguides.com/posts/yokohama-yokohama-marine-tower/",
+   "kind": "posts",
+   "country": "Japan"
+  },
+  {
+   "url": "https://wanderatlasguides.com/regions/bilbao/",
+   "kind": "region"
+  },
+  {
+   "url": "https://wanderatlasguides.com/regions/bohol/",
+   "kind": "region"
+  },
+  {
+   "url": "https://wanderatlasguides.com/regions/dubai/",
+   "kind": "region"
+  },
+  {
+   "url": "https://wanderatlasguides.com/regions/fremantle/",
+   "kind": "region"
+  },
+  {
+   "url": "https://wanderatlasguides.com/regions/hue/things-to-do/",
+   "kind": "region"
+  },
+  {
+   "url": "https://wanderatlasguides.com/regions/incheon/",
+   "kind": "region"
+  },
+  {
+   "url": "https://wanderatlasguides.com/regions/jakarta/things-to-do/",
+   "kind": "region"
+  },
+  {
+   "url": "https://wanderatlasguides.com/regions/new-york/",
+   "kind": "region"
+  },
+  {
+   "url": "https://wanderatlasguides.com/regions/nikko/",
+   "kind": "region"
+  },
+  {
+   "url": "https://wanderatlasguides.com/regions/orchard-road/",
+   "kind": "region"
+  },
+  {
+   "url": "https://wanderatlasguides.com/regions/pattaya/things-to-do/",
+   "kind": "region"
+  },
+  {
+   "url": "https://wanderatlasguides.com/regions/rome/",
+   "kind": "region"
+  },
+  {
+   "url": "https://wanderatlasguides.com/regions/rome/things-to-do/",
+   "kind": "region"
+  },
+  {
+   "url": "https://wanderatlasguides.com/regions/sokcho/",
+   "kind": "region"
+  },
+  {
+   "url": "https://wanderatlasguides.com/regions/suzhou/",
+   "kind": "region"
+  },
+  {
+   "url": "https://wanderatlasguides.com/regions/takayama/",
+   "kind": "region"
+  },
+  {
+   "url": "https://wanderatlasguides.com/regions/turin/",
+   "kind": "region"
+  },
+  {
+   "url": "https://wanderatlasguides.com/regions/yeosu/",
+   "kind": "region"
+  },
+  {
+   "url": "https://wanderatlasguides.com/regions/york/best-restaurants/",
+   "kind": "region"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/esim/germany/",
+   "kind": "esim"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/esim/japan/",
+   "kind": "esim"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/esim/turkey/",
+   "kind": "esim"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/esim/united-arab-emirates/",
+   "kind": "esim"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/france/august/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/indonesia/april/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/indonesia/january/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/indonesia/november/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/italy/june/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/malaysia/may/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/taiwan/november/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/turkey/may/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/turkey/october/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/turkey/september/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/united-states/june/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/when-to-go/united-states/may/",
+   "kind": "when-to-go"
+  },
+  {
+   "url": "https://wanderatlasguides.com/destinations/argentina/",
+   "kind": "country"
+  },
+  {
+   "url": "https://wanderatlasguides.com/destinations/australia/",
+   "kind": "country"
+  },
+  {
+   "url": "https://wanderatlasguides.com/destinations/cambodia/",
+   "kind": "country"
+  },
+  {
+   "url": "https://wanderatlasguides.com/destinations/canada/",
+   "kind": "country"
+  },
+  {
+   "url": "https://wanderatlasguides.com/destinations/china/",
+   "kind": "country"
+  },
+  {
+   "url": "https://wanderatlasguides.com/destinations/georgia/",
+   "kind": "country"
+  },
+  {
+   "url": "https://wanderatlasguides.com/destinations/germany/",
+   "kind": "country"
+  },
+  {
+   "url": "https://wanderatlasguides.com/destinations/hong-kong/",
+   "kind": "country"
+  },
+  {
+   "url": "https://wanderatlasguides.com/destinations/india/",
+   "kind": "country"
+  },
+  {
+   "url": "https://wanderatlasguides.com/destinations/italy/",
+   "kind": "country"
+  },
+  {
+   "url": "https://wanderatlasguides.com/destinations/japan/",
+   "kind": "country"
+  },
+  {
+   "url": "https://wanderatlasguides.com/destinations/macau/",
+   "kind": "country"
+  },
+  {
+   "url": "https://wanderatlasguides.com/destinations/malaysia/",
+   "kind": "country"
+  },
+  {
+   "url": "https://wanderatlasguides.com/destinations/mexico/",
+   "kind": "country"
+  },
+  {
+   "url": "https://wanderatlasguides.com/destinations/mongolia/",
+   "kind": "country"
+  },
+  {
+   "url": "https://wanderatlasguides.com/destinations/new-zealand/",
+   "kind": "country"
+  },
+  {
+   "url": "https://wanderatlasguides.com/destinations/peru/",
+   "kind": "country"
+  },
+  {
+   "url": "https://wanderatlasguides.com/destinations/philippines/",
+   "kind": "country"
+  },
+  {
+   "url": "https://wanderatlasguides.com/destinations/south-korea/",
+   "kind": "country"
+  },
+  {
+   "url": "https://wanderatlasguides.com/destinations/turkey/",
+   "kind": "country"
+  },
+  {
+   "url": "https://wanderatlasguides.com/destinations/united-arab-emirates/",
+   "kind": "country"
+  },
+  {
+   "url": "https://wanderatlasguides.com/destinations/united-kingdom/",
+   "kind": "country"
+  },
+  {
+   "url": "https://wanderatlasguides.com/destinations/united-states/",
+   "kind": "country"
+  },
+  {
+   "url": "https://wanderatlasguides.com/destinations/uzbekistan/",
+   "kind": "country"
+  },
+  {
+   "url": "https://wanderatlasguides.com/destinations/vietnam/",
+   "kind": "country"
+  },
+  {
+   "url": "https://wanderatlasguides.com/essentials/argentina/",
+   "kind": "essentials"
+  },
+  {
+   "url": "https://wanderatlasguides.com/essentials/australia/",
+   "kind": "essentials"
+  },
+  {
+   "url": "https://wanderatlasguides.com/essentials/best-time-to-visit/",
+   "kind": "essentials"
+  },
+  {
+   "url": "https://wanderatlasguides.com/essentials/cambodia/",
+   "kind": "essentials"
+  },
+  {
+   "url": "https://wanderatlasguides.com/essentials/canada/",
+   "kind": "essentials"
+  },
+  {
+   "url": "https://wanderatlasguides.com/essentials/china/",
+   "kind": "essentials"
+  },
+  {
+   "url": "https://wanderatlasguides.com/essentials/georgia/",
+   "kind": "essentials"
+  },
+  {
+   "url": "https://wanderatlasguides.com/essentials/germany/",
+   "kind": "essentials"
+  },
+  {
+   "url": "https://wanderatlasguides.com/essentials/hong-kong/",
+   "kind": "essentials"
+  },
+  {
+   "url": "https://wanderatlasguides.com/essentials/japan/",
+   "kind": "essentials"
+  },
+  {
+   "url": "https://wanderatlasguides.com/essentials/luggage-storage/",
+   "kind": "essentials"
+  },
+  {
+   "url": "https://wanderatlasguides.com/essentials/macau/",
+   "kind": "essentials"
+  },
+  {
+   "url": "https://wanderatlasguides.com/essentials/mexico/",
+   "kind": "essentials"
+  },
+  {
+   "url": "https://wanderatlasguides.com/essentials/money/",
+   "kind": "essentials"
+  },
+  {
+   "url": "https://wanderatlasguides.com/essentials/mongolia/",
+   "kind": "essentials"
+  },
+  {
+   "url": "https://wanderatlasguides.com/essentials/new-zealand/",
+   "kind": "essentials"
+  },
+  {
+   "url": "https://wanderatlasguides.com/essentials/peru/",
+   "kind": "essentials"
+  },
+  {
+   "url": "https://wanderatlasguides.com/essentials/south-korea/",
+   "kind": "essentials"
+  },
+  {
+   "url": "https://wanderatlasguides.com/essentials/spain/",
+   "kind": "essentials"
+  },
+  {
+   "url": "https://wanderatlasguides.com/essentials/thailand/",
+   "kind": "essentials"
+  },
+  {
+   "url": "https://wanderatlasguides.com/essentials/united-kingdom/",
+   "kind": "essentials"
+  },
+  {
+   "url": "https://wanderatlasguides.com/essentials/united-states/",
+   "kind": "essentials"
+  },
+  {
+   "url": "https://wanderatlasguides.com/essentials/uzbekistan/",
+   "kind": "essentials"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/esim/argentina/",
+   "kind": "esim"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/esim/australia/",
+   "kind": "esim"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/esim/canada/",
+   "kind": "esim"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/esim/china/",
+   "kind": "esim"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/esim/france/",
+   "kind": "esim"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/esim/georgia/",
+   "kind": "esim"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/esim/italy/",
+   "kind": "esim"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/esim/macau/",
+   "kind": "esim"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/esim/malaysia/",
+   "kind": "esim"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/esim/mexico/",
+   "kind": "esim"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/esim/mongolia/",
+   "kind": "esim"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/esim/new-zealand/",
+   "kind": "esim"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/esim/peru/",
+   "kind": "esim"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/esim/philippines/",
+   "kind": "esim"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/esim/south-korea/",
+   "kind": "esim"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/esim/spain/",
+   "kind": "esim"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/esim/thailand/",
+   "kind": "esim"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/esim/united-kingdom/",
+   "kind": "esim"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/esim/united-states/",
+   "kind": "esim"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/esim/vietnam/",
+   "kind": "esim"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/holiday-overlap/",
+   "kind": "tools"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/whats-closed/",
+   "kind": "tools"
+  },
+  {
+   "url": "https://wanderatlasguides.com/tools/widget/",
+   "kind": "tools"
+  }
+ ]
+}

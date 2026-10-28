@@ -37,6 +37,7 @@ const TIMEOUT_MS = 90_000;
 const EXEMPT = new Map([
   ['audit-cron-punctuality', '깃허브 Actions 실행 이력을 API 로 읽는다 — 저장소 파일이 입력이 아니다'],
   ['audit-index-coverage', 'GSC 색인 데이터를 API 로 읽는다'],
+  ['audit-index-core-set', 'GSC URL 검사·노출 데이터를 API 로 읽는다(핵심 집합 자, 2026-10-28)'],
   ['audit-impression-cohort', 'GSC 노출 데이터를 API 로 읽는다'],
   ['check-4sqi-health', 'Foursquare API 의 상태를 직접 찌른다'],
   ['check-affiliate-status', '제휴사 링크를 네트워크로 확인한다'],

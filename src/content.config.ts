@@ -22,6 +22,13 @@ const posts = defineCollection({
     ]),
     pubDate: z.coerce.date(),
     updatedDate: z.coerce.date().optional(),
+    // The day the weekly photo patrol added an in-body photo (backfill-gallery,
+    // 2026-10-28). Only the sitemap reads it (newest date wins); the byline's
+    // "checked on" stays tied to updatedDate, which means a fact re-check.
+    galleryAddedOn: z.coerce.date().optional(),
+    // The day the editor's own visit (field note + photos) went into this post,
+    // new or upgraded. The weekly core-set ruler counts only crawls after it.
+    firsthandOn: z.coerce.date().optional(),
     // For category:event — the actual event dates (ISO). Drive the "upcoming vs
     // ended" state, hub sorting, and Event schema. Optional so a post without a
     // parseable date simply stays "upcoming" rather than mis-expiring.
