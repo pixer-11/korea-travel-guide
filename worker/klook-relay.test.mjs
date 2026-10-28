@@ -148,6 +148,28 @@ t('봇 UA·UA 없음은 독자가 아니다', () => {
   return bad.length ? `독자로 셈: ${bad.join(' | ')}` : null;
 });
 
+// ── 10-28 재발: Referer 를 위조한 봇 ──────────────────────────
+// 10월 클룩 클릭 45,149회·예약 0. 워커 2분 로그: 베트남·요르단·남아공·파키스탄·
+// 필리핀 가정용 회선, 크롬 UA, Referer "https://wanderatlasguides.com"(끝 / 없음),
+// Sec-Fetch-Site "none". 브라우저는 이 조합을 보내지 않는다.
+const reqH = (h) => ({ headers: new Headers({ 'user-agent': CHROME, ...h }) });
+t('Referer 를 위조한 봇(10-28 로그 그대로)은 독자가 아니다', () => {
+  const bad = [
+    reqH({ referer: 'https://wanderatlasguides.com', 'sec-fetch-site': 'none', 'sec-fetch-mode': 'navigate', 'sec-fetch-user': '?1' }),
+    reqH({ referer: 'https://wanderatlasguides.com' }),
+    reqH({ referer: 'https://wanderatlasguides.com/posts/x/', 'sec-fetch-site': 'none' }),
+    reqH({ referer: 'https://wanderatlasguides.com/posts/x/', 'sec-fetch-site': 'cross-site' }),
+    reqH({ referer: 'https://wanderatlasguides.com/posts/x/', 'sec-fetch-site': 'same-origin', 'sec-fetch-mode': 'cors' }),
+    reqH({ referer: 'https://wanderatlasguides.com/posts/x/', 'sec-fetch-site': 'same-origin', 'sec-fetch-mode': 'no-cors' }),
+  ].filter(isReaderClick);
+  return bad.length ? `${bad.length}건을 독자로 셌다` : null;
+});
+t('Sec-Fetch 를 보내는 진짜 클릭과 안 보내는 옛 브라우저는 독자다', () =>
+  isReaderClick(reqH({ referer: 'https://wanderatlasguides.com/posts/x/', 'sec-fetch-site': 'same-origin', 'sec-fetch-mode': 'navigate', 'sec-fetch-user': '?1' })) &&
+  isReaderClick(reqH({ referer: 'https://wanderatlasguides.com/' })) &&
+  isReaderClick(reqH({ referer: 'https://wanderatlasguides.com/es/?q=1' }))
+    ? null : '정상 클릭을 막는다 — 수익이 끊긴다');
+
 t('독자가 아니면 TP 단축 링크를 부르기 전에 돌려보낸다', () => {
   // 순서가 핵심이다: fetch(shortLink) 자체가 TP 가 세는 클릭이다.
   const fn = src.match(/async function handleKlookGo[\s\S]*?\n}/)?.[0] ?? '';

@@ -456,12 +456,28 @@ function explicitSubId(url) {
 // always arrives from one of our pages: every /go/klook href is same-origin,
 // and the browser sends that page as the Referer. Anything else still reaches
 // Klook, but as a plain link — no affiliate click is recorded for it.
+//
+// 2026-10-28: it came back at 1–5 thousand a day (TP: 45,149 Klook clicks in
+// October, 0 bookings). A two-minute tail: residential ISPs in VN, JO, ZA, PK,
+// PH, Chrome UAs, Referer "https://wanderatlasguides.com" — and
+// Sec-Fetch-Site "none". A browser never sends that pair: "none" means typed
+// or bookmarked, which carries no Referer, and a click on our page says
+// "same-origin". A browser also never sends a Referer without the "/" after
+// the host (strict-origin-when-cross-origin sends the full page URL here).
+// Browsers too old for Sec-Fetch-* still pass on the Referer alone.
 const NOT_A_READER = /bot|crawl|spider|slurp|preview|scan|fetch|python|curl|wget|httpclient|go-http|java\/|okhttp|axios|headless|phantom|puppeteer|playwright|selenium/i;
 export function isReaderClick(request) {
   const ua = request?.headers?.get('user-agent') || '';
   if (!ua || NOT_A_READER.test(ua)) return false;
+  const site = request.headers.get('sec-fetch-site');
+  if (site && site !== 'same-origin') return false;
+  // A click is a navigation; a prefetch or fetch() from a page is not.
+  const mode = request.headers.get('sec-fetch-mode');
+  if (mode && mode !== 'navigate') return false;
+  const raw = request.headers.get('referer') || '';
+  if (!/^https:\/\/[^/?#]+\//.test(raw)) return false;
   let ref;
-  try { ref = new URL(request.headers.get('referer') || ''); } catch { return false; }
+  try { ref = new URL(raw); } catch { return false; }
   if (!/(^|\.)wanderatlasguides\.com$/.test(ref.hostname)) return false;
   return !ref.pathname.startsWith('/go/');
 }
