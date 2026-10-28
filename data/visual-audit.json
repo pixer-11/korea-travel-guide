@@ -619,6 +619,12 @@
   "reason": "publish gate: Museum entrance with sign, matches venue exterior",
   "at": "2026-10-23T13:19:35.426Z"
  },
+ "akhaltsikhe-the-akhaltsikhe-synagogue\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Old_Synagogue_in_Akhaltsikhe.jpg/3840px-Old_Synagogue_in_Akhaltsikhe.jpg": {
+  "slug": "akhaltsikhe-the-akhaltsikhe-synagogue",
+  "verdict": "MATCH",
+  "reason": "publish gate: Representative exterior of historic building matching location/style",
+  "at": "2026-10-28T08:21:23.314Z"
+ },
  "akhaltsikhe-vardzia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2025-05-25_Vardzia_9.jpg/1920px-2025-05-25_Vardzia_9.jpg": {
   "slug": "akhaltsikhe-vardzia",
   "verdict": "MATCH",
@@ -3556,6 +3562,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Dragon boat display plausibly representing Maritime Museum exhibit",
   "at": "2026-10-08T07:40:56.072Z"
+ },
+ "bath-american-museum-gardens\u0001https://upload.wikimedia.org/wikipedia/commons/e/eb/American_Museum_in_Bath.jpg": {
+  "slug": "bath-american-museum-gardens",
+  "verdict": "MATCH",
+  "reason": "publish gate: Grand historic mansion matches American Museum & Gardens, Bath",
+  "at": "2026-10-28T08:21:23.427Z"
  },
  "bath-museum-of-bath-at-work\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Museum_of_Bath_at_Work.jpg/1920px-Museum_of_Bath_at_Work.jpg": {
   "slug": "bath-museum-of-bath-at-work",
@@ -10046,6 +10058,18 @@
   "reason": "publish gate: Chinese temple exterior, plausible representative hero shot",
   "at": "2026-10-07T07:42:05.505Z"
  },
+ "hamburg-chilehaus\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Chilehaus_-_Hamburg.jpg/1920px-Chilehaus_-_Hamburg.jpg": {
+  "slug": "hamburg-chilehaus",
+  "verdict": "MATCH",
+  "reason": "publish gate: Clear exterior view of Chilehaus building in Hamburg",
+  "at": "2026-10-28T08:32:10.463Z"
+ },
+ "hamburg-fischmarkt\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Hamburg%2C_St.-Pauli-Fischmarkt_%28und_Hafen%29_--_2016_--_3072.jpg/3840px-Hamburg%2C_St.-Pauli-Fischmarkt_%28und_Hafen%29_--_2016_--_3072.jpg": {
+  "slug": "hamburg-fischmarkt",
+  "verdict": "MATCH",
+  "reason": "publish gate: Hamburg waterfront with skyline, plausible Fischmarkt area view",
+  "at": "2026-10-28T08:21:23.457Z"
+ },
  "hamburg-hamburger-kunsthalle\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Hamburger_Kunsthalle.jpg/1920px-Hamburger_Kunsthalle.jpg": {
   "slug": "hamburg-hamburger-kunsthalle",
   "verdict": "MATCH",
@@ -13789,6 +13813,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Lake with mountain reflection, matches Lac Beauvert, Jasper",
   "at": "2026-10-21T13:29:32.111Z"
+ },
+ "jasper-royal-tyrrell-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Royal_Tyrrell_Museum_from_the_staircase.jpg/1920px-Royal_Tyrrell_Museum_from_the_staircase.jpg": {
+  "slug": "jasper-royal-tyrrell-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Royal Tyrrell Museum exterior with sign and entrance visible",
+  "at": "2026-10-28T08:21:23.372Z"
  },
  "jasper-valley-of-the-five-lakes\u0001https://upload.wikimedia.org/wikipedia/commons/2/2e/Valley_of_Five_Lakes_%289826528935%29.jpg": {
   "slug": "jasper-valley-of-the-five-lakes",
@@ -18601,6 +18631,12 @@
   "reason": "patrol reject: Conference room presentation, unrelated to a restaurant venue",
   "at": "2026-08-28T03:48:31.701Z"
  },
+ "mar-del-plata-puerto-de-mar-del-plata\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Puerto_pesquero_de_Mar_del_Plata_01.jpg/3840px-Puerto_pesquero_de_Mar_del_Plata_01.jpg": {
+  "slug": "mar-del-plata-puerto-de-mar-del-plata",
+  "verdict": "MATCH",
+  "reason": "publish gate: Harbor view with fishing boats, representative of Mar del Plata port",
+  "at": "2026-10-28T08:21:23.273Z"
+ },
  "mar-del-plata-torreon-del-monje\u0001https://upload.wikimedia.org/wikipedia/commons/3/34/Torre%C3%B3n_del_Monje%2C_Mar_del_Plata.JPG": {
   "slug": "mar-del-plata-torreon-del-monje",
   "verdict": "MATCH",
@@ -21500,6 +21536,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows Table Rock Welcome Centre exterior with signage clearly",
   "at": "2026-10-21T13:29:32.430Z"
+ },
+ "niagara-falls-walker-s-country-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Fruits_at_Walker%27s_Country_Market%2C_Niagara-on-the-Lake_2026.jpg/3840px-Fruits_at_Walker%27s_Country_Market%2C_Niagara-on-the-Lake_2026.jpg": {
+  "slug": "niagara-falls-walker-s-country-market",
+  "verdict": "MATCH",
+  "reason": "publish gate: Interior market display, representative of produce stand venue",
+  "at": "2026-10-28T08:21:23.344Z"
  },
  "niagara-falls-white-water-walk\u0001https://upload.wikimedia.org/wikipedia/commons/b/b8/White_Water_Walk%2C_Niagara_Falls_%28470626%29_%289450054858%29.jpg": {
   "slug": "niagara-falls-white-water-walk",
@@ -24457,6 +24499,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: River confluence sunset view matches Tres Fronteras viewpoint",
   "at": "2026-10-26T15:35:39.484Z"
+ },
+ "puerto-iguazu-plaza-san-martin\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Obelisco_en_Plaza_San_Mart%C3%ADn_en_Puerto_Iguaz%C3%BA_%28Provincia_de_Misiones%2C_Argentina%29.jpg/3840px-Obelisco_en_Plaza_San_Mart%C3%ADn_en_Puerto_Iguaz%C3%BA_%28Provincia_de_Misiones%2C_Argentina%29.jpg": {
+  "slug": "puerto-iguazu-plaza-san-martin",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows plaza monument/obelisk, representative of this landmark",
+  "at": "2026-10-28T08:21:23.191Z"
  },
  "puerto-princesa-immaculate-conception-cathedral\u0001https://upload.wikimedia.org/wikipedia/commons/7/75/The_Immaculate_Conception_Cathedral_-_panoramio_%282%29.jpg": {
   "slug": "puerto-princesa-immaculate-conception-cathedral",
@@ -29168,6 +29216,12 @@
   "reason": "publish gate: Shows Aussie World entrance sign and Ferris wheel",
   "at": "2026-09-28T16:55:38.976Z"
  },
+ "sunshine-coast-eumundi-markets\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Eumundi_Markets%2C_January_2026_03.jpg/3840px-Eumundi_Markets%2C_January_2026_03.jpg": {
+  "slug": "sunshine-coast-eumundi-markets",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows market entrance with sign, stalls, and visitors",
+  "at": "2026-10-28T08:21:23.399Z"
+ },
  "sunshine-coast-kondalilla-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Sunshine_Coast%2C_Queensland_-_Kondalilla_falls.jpg/1920px-Sunshine_Coast%2C_Queensland_-_Kondalilla_falls.jpg": {
   "slug": "sunshine-coast-kondalilla-national-park",
   "verdict": "MATCH",
@@ -31236,6 +31290,12 @@
   "reason": "publish gate: Shows Puerto de Frutos riverside market with boat, buildings",
   "at": "2026-10-25T13:00:55.899Z"
  },
+ "tigre-sarmiento-house\u0001https://upload.wikimedia.org/wikipedia/commons/6/6c/Casa_de_Sarmiento.jpg": {
+  "slug": "tigre-sarmiento-house",
+  "verdict": "MATCH",
+  "reason": "publish gate: Historic house enclosed in protective glass structure, Tigre",
+  "at": "2026-10-28T08:21:23.518Z"
+ },
  "tioman-tioman-island\u0001https://upload.wikimedia.org/wikipedia/commons/d/d5/Tioman_island_%283679435126%29.jpg": {
   "slug": "tioman-tioman-island",
   "verdict": "MATCH",
@@ -32113,6 +32173,12 @@
   "verdict": "MATCH",
   "reason": "patrol re-check: Interior of Muséum de Toulouse with elephant and pterosaur skeleton",
   "at": "2026-08-16T20:35:32.445Z"
+ },
+ "toulouse-place-du-capitole\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Toulouse_Capitole_Night_Wikimedia_Commons.jpg/1920px-Toulouse_Capitole_Night_Wikimedia_Commons.jpg": {
+  "slug": "toulouse-place-du-capitole",
+  "verdict": "MATCH",
+  "reason": "publish gate: Iconic Capitole building facade at night, accurate view",
+  "at": "2026-10-28T08:21:23.487Z"
  },
  "trabzon-sumela-monastery\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Sumela_From_Across_Valley.JPG/1920px-Sumela_From_Across_Valley.JPG": {
   "slug": "trabzon-sumela-monastery",

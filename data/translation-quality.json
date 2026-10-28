@@ -38337,5 +38337,89 @@
   "registerBreak": false,
   "worst": "回头沿山坡往上看，能找到那尊白色的白色基督像（Cristo Blanco）",
   "at": "2026-10-27T17:29:41.445Z"
+ },
+ "es/akhaltsikhe-the-akhaltsikhe-synagogue": {
+  "hash": "0486e1b5b1cd",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Lo mismo vale para las festividade",
+  "at": "2026-10-28T08:26:01.619Z"
+ },
+ "es/bath-american-museum-gardens": {
+  "hash": "b16a072aa2ca",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Actualmente abre de 10am–5pm, pero las fechas del mes en curso figuran en la web oficial.",
+  "at": "2026-10-28T08:26:02.918Z"
+ },
+ "es/hamburg-fischmarkt": {
+  "hash": "d9b69c2b24a6",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Según Google, el horario actual es el domingo de 5:00 a 9:30.",
+  "at": "2026-10-28T08:26:03.896Z"
+ },
+ "ja/akhaltsikhe-the-akhaltsikhe-synagogue": {
+  "hash": "4cd4364e610c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Googleでは現在、このシナゴーグは今週は毎日24時間営業と表示されています。",
+  "at": "2026-10-28T08:26:10.127Z"
+ },
+ "ja/bath-american-museum-gardens": {
+  "hash": "953e9fd9cce7",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "この2つは博物館自身が案内している設備です。",
+  "at": "2026-10-28T08:26:15.023Z"
+ },
+ "ja/hamburg-fischmarkt": {
+  "hash": "be11294dfba8",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "屋台が並ぶのは、アルトナ（Altona）とザンクト・パウリ（St. Pauli）の境にあたる川沿いの Fischmarkt 2 です。",
+  "at": "2026-10-28T08:26:16.471Z"
+ },
+ "ko/akhaltsikhe-the-akhaltsikhe-synagogue": {
+  "hash": "1e3e9b9727d1",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이곳은 조지아 남부에 남아 있는 조지아계 유대인의 삶의 흔적 가운데 가장 오래된 축에 듭니다.",
+  "at": "2026-10-28T08:26:17.662Z"
+ },
+ "ko/bath-american-museum-gardens": {
+  "hash": "8758e52a57c8",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "박물관이 직접 안내하는 편의 시설이 바로 이 두 가지입니다.",
+  "at": "2026-10-28T08:26:24.637Z"
+ },
+ "ko/hamburg-fischmarkt": {
+  "hash": "2753ef449f88",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-28T08:26:25.611Z"
+ },
+ "zh/akhaltsikhe-the-akhaltsikhe-synagogue": {
+  "hash": "c8907eeb10ac",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "比较合理的安排是先看拉巴蒂城堡，再到会堂待上20–40分钟，瓦尔齐亚则留到下午或第二天上午。",
+  "at": "2026-10-28T08:26:26.954Z"
+ },
+ "zh/bath-american-museum-gardens": {
+  "hash": "233a200e1465",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "走出宅邸，地势陡然下降，一直落进林普利斯托克河谷。",
+  "at": "2026-10-28T08:26:44.078Z"
+ },
+ "zh/hamburg-fischmarkt": {
+  "hash": "3dcb3d08dd92",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "开市之所以这么早，也是历史使然：当年集市必须赶在做礼拜之前结束。",
+  "at": "2026-10-28T08:26:45.001Z"
  }
 }

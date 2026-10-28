@@ -1,90 +1,61 @@
 ---
-title: 'San Telmo Fair: Buenos Aires Travel Guide (4.5★)'
-description: >-
-  San Telmo Fair (Feria de San Telmo) is a Sunday-only street market on Calle
-  Defensa in San Telmo, Buenos Aires, with stalls of antiques, handicrafts,
-  vintage clothing and knick-knacks stretching down from near Plaza de Mayo to
-  Plaza Dorrego and beyond. 4.5★ (5,495 reviews) — what visitors say, hours, and
-  tips.
+title: "San Telmo Fair: Buenos Aires Travel Guide (4.5★)"
+description: San Telmo Fair (Feria de San Telmo) is a Sunday-only street market on Calle Defensa in San Telmo, Buenos Aires, with stalls of antiques, handicrafts, vintage clothing and knick-knacks stretching down from near Plaza de Mayo to Plaza Dorrego and beyond. 4.5★ (5,495 reviews) — what visitors say, hours, and tips.
 country: Argentina
 region: Buenos Aires
 category: hidden-gem
-pubDate: '2026-10-27T07:54:41.481Z'
+pubDate: "2026-10-27T07:54:41.481Z"
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/6/6d/Plaza_Dorrego_-_San_Telmo%2C_2005_-_panoramio.jpg
-  credit: 'Photo: ogwen / Wikimedia Commons (CC BY-SA 3.0)'
+  url: https://upload.wikimedia.org/wikipedia/commons/6/6d/Plaza_Dorrego_-_San_Telmo%2C_2005_-_panoramio.jpg
+  credit: "Photo: ogwen / Wikimedia Commons (CC BY-SA 3.0)"
   license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Plaza_Dorrego_-_San_Telmo,_2005_-_panoramio.jpg
+  source: https://commons.wikimedia.org/wiki/File:Plaza_Dorrego_-_San_Telmo,_2005_-_panoramio.jpg
   via: act
   focus:
     x: 50
-    'y': 45
+    "y": 45
 gallery:
-  - url: >-
-      https://upload.wikimedia.org/wikipedia/commons/a/a3/San_Pedro_Telmo_%284729482264%29.jpg
-    credit: 'Photo: Jorge Láscar from Australia / Wikimedia Commons (CC BY 2.0)'
+  - url: https://upload.wikimedia.org/wikipedia/commons/a/a3/San_Pedro_Telmo_%284729482264%29.jpg
+    credit: "Photo: Jorge Láscar from Australia / Wikimedia Commons (CC BY 2.0)"
     license: wikimedia
-    source: 'https://commons.wikimedia.org/wiki/File:San_Pedro_Telmo_(4729482264).jpg'
+    source: https://commons.wikimedia.org/wiki/File:San_Pedro_Telmo_(4729482264).jpg
 place:
   id: ChIJzVuUqdTKvJURVVORztvgRRs
   name: San Telmo Fair
-  address: 'Defensa 320, C1065AAT C1065AAT, Cdad. Autónoma de Buenos Aires, Argentina'
+  address: Defensa 320, C1065AAT C1065AAT, Cdad. Autónoma de Buenos Aires, Argentina
   rating: 4.5
   userRatingsTotal: 5496
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=1965224047085179733&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=1965224047085179733&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: -34.6114448
   lng: -58.371905
   phone: +54 9 11 6201-1871
   openingHours:
-    - 'Monday: Closed'
-    - 'Tuesday: Closed'
-    - 'Wednesday: Closed'
-    - 'Thursday: Closed'
-    - 'Friday: Closed'
-    - 'Saturday: Closed'
-    - 'Sunday: 9:00 AM – 6:30 PM'
+    - "Monday: Closed"
+    - "Tuesday: Closed"
+    - "Wednesday: Closed"
+    - "Thursday: Closed"
+    - "Friday: Closed"
+    - "Saturday: Closed"
+    - "Sunday: 9:00 AM – 6:30 PM"
 tags:
   - buenos aires
   - local market
-quickAnswer: >-
-  San Telmo Fair (Feria de San Telmo) is a Sunday-only street market on Calle
-  Defensa in San Telmo, Buenos Aires, with stalls of antiques, handicrafts,
-  vintage clothing and knick-knacks stretching down from near Plaza de Mayo to
-  Plaza Dorrego and beyond. At the moment it runs Sundays 9:00 AM – 6:30 PM and
-  is closed the rest of the week. Give it three to four hours, start at the
-  Plaza de Mayo end, and walk south.
+quickAnswer: San Telmo Fair (Feria de San Telmo) is a Sunday-only street market on Calle Defensa in San Telmo, Buenos Aires, with stalls of antiques, handicrafts, vintage clothing and knick-knacks stretching down from near Plaza de Mayo to Plaza Dorrego and beyond. At the moment it runs Sundays 9:00 AM – 6:30 PM and is closed the rest of the week. Give it three to four hours, start at the Plaza de Mayo end, and walk south.
 faq:
   - q: What days is the San Telmo Fair open?
-    a: >-
-      Only Sundays. It currently runs 9:00 AM – 6:30 PM on Sunday and is closed
-      Monday to Saturday. Hours can change, so check before you go.
+    a: Only Sundays. It currently runs 9:00 AM – 6:30 PM on Sunday and is closed Monday to Saturday. Hours can change, so check before you go.
   - q: How do I get to the San Telmo Fair by Subte?
-    a: >-
-      Take Line A to Perú or Line D to Catedral, both at Plaza de Mayo, and walk
-      to the north end of Calle Defensa. Line E (Belgrano or Independencia) and
-      Line C (San Juan) leave you closer to the middle and south of the fair.
+    a: Take Line A to Perú or Line D to Catedral, both at Plaza de Mayo, and walk to the north end of Calle Defensa. Line E (Belgrano or Independencia) and Line C (San Juan) leave you closer to the middle and south of the fair.
   - q: How long should I spend at the fair?
-    a: >-
-      Allow three to four hours to walk the full length of Defensa, look around
-      Plaza Dorrego and eat at the Mercado de San Telmo. Plan on longer if you
-      are hunting for antiques.
+    a: Allow three to four hours to walk the full length of Defensa, look around Plaza Dorrego and eat at the Mercado de San Telmo. Plan on longer if you are hunting for antiques.
   - q: Can I pay by card at the stalls?
-    a: >-
-      Mostly not. Most vendors want Argentine pesos in cash. Many also accept QR
-      payments through Mercado Pago, but card terminals are rare.
+    a: Mostly not. Most vendors want Argentine pesos in cash. Many also accept QR payments through Mercado Pago, but card terminals are rare.
   - q: What else is nearby?
-    a: >-
-      The Mercado de San Telmo (1897), El Zanjón de Granados at Defensa 755,
-      Parque Lezama, the Museo de Arte Moderno on Avenida San Juan, and Plaza de
-      Mayo with the Casa Rosada.
+    a: The Mercado de San Telmo (1897), El Zanjón de Granados at Defensa 755, Parque Lezama, the Museo de Arte Moderno on Avenida San Juan, and Plaza de Mayo with the Casa Rosada.
 aiGenerated: true
-draft: true
-heldReason: hours
-updatedDate: '2026-10-27'
+draft: false
+updatedDate: "2026-10-27"
 ---
 
 ## A street that only exists on Sundays
@@ -123,7 +94,7 @@ Starting at Plaza de Mayo and walking south is the natural direction. It also me
 
 ## Working Defensa on a Sunday
 
-Arriving soon after opening usually means walking room. Vendors are still unpacking and the day-trippers haven't come yet. By the afternoon, the narrow pavements near Plaza Dorrego slow to a shuffle. Opening hours can change, so check before you go, and remember that a Saturday visit gets you a normal street.
+Arriving soon after opening usually means walking room. Vendors are still unpacking and the day-trippers haven't come yet. By the afternoon, the narrow pavements near Plaza Dorrego slow to a shuffle. Opening hours can change, so check before you go, and remember that the fair is closed on Saturday, when Defensa reverts to a normal street.
 
 How people actually buy here:
 
