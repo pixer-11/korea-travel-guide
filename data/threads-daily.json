@@ -98,28 +98,28 @@
     "kolkata-victoria-memorial",
     "mexico-city-bosque-de-chapultepec",
     "taipei-cks-shilin-residence-chrysanthemum-festival",
-    "auckland-christmas-in-the-park-auckland"
+    "auckland-christmas-in-the-park-auckland",
+    "los-angeles-triples-world-tour-andless-los-angeles"
   ],
-  "lastSentDay": "2026-10-28",
+  "lastSentDay": "2026-10-29",
   "material": {
-    "day": "2026-10-28",
-    "slug": "auckland-christmas-in-the-park-auckland",
-    "title": "Christmas in the Park Auckland: Dates, Tickets & Venue (Auckland)",
+    "day": "2026-10-29",
+    "slug": "los-angeles-triples-world-tour-andless-los-angeles",
+    "title": "tripleS World Tour ANDLESS - Los Angeles: Dates, Tickets & Venue (Los Angeles)",
     "urls": [
-      "https://wanderatlasguides.com/og/social/2026-10-28-auckland-christmas-in-the-park-auckland-1.jpg",
-      "https://wanderatlasguides.com/og/social/2026-10-28-auckland-christmas-in-the-park-auckland-2.jpg",
-      "https://wanderatlasguides.com/og/social/2026-10-28-auckland-christmas-in-the-park-auckland-3.jpg"
+      "https://wanderatlasguides.com/og/social/2026-10-29-los-angeles-triples-world-tour-andless-los-angeles-1.jpg",
+      "https://wanderatlasguides.com/og/social/2026-10-29-los-angeles-triples-world-tour-andless-los-angeles-2.jpg"
     ],
-    "igCaption": "Picnic rugs fill an old volcanic crater as up to 250,000 people gather for a free Christmas concert under the Auckland Museum's columns. Daylight turns to dusk, then fireworks close the show over the Domain.\n\n#Auckland #NewZealand #events #travel #wanderatlas #AucklandNZ #ChristmasInThePark #AucklandDomain #NewZealandTravel #FreeConcert\n📷 Photo: Pedro Ribeiro Simões from Lisboa, Portugal / Wikimedia Commons (CC BY 2.0) (edited)\n📷 Photo: russellstreet / Wikimedia Commons (CC BY-SA 2.0) (edited)",
-    "thOption": "After the finale, the whole crowd leaves at once — would you rather wait 20–30 minutes on your rug, or try to beat the rush to the trains?",
-    "link": "https://wanderatlasguides.com/posts/auckland-christmas-in-the-park-auckland/"
+    "igCaption": "tripleS brings ANDLESS to The Wiltern on Nov 24, 2026 — a 1931 Art Deco theatre right in the heart of LA's Koreatown. Expect sunburst ceilings, a packed Wilshire sidewalk queue, and 24 members whose lineup is never confir\n\n#LosAngeles #UnitedStates #events #travel #wanderatlas\n📷 Photo: K-POPIT 케이팝잇 / Wikimedia Commons (CC BY 3.0) (edited)",
+    "thOption": "tripleS never confirms which of its 24 members show up on any given night. Would you fly to LA two days before Thanksgiving without knowing the lineup?",
+    "link": "https://wanderatlasguides.com/posts/los-angeles-triples-world-tour-andless-los-angeles/"
   },
   "social": {
-    "thDay": "2026-10-28",
-    "thId": "18104649440011897",
+    "thDay": "2026-10-29",
+    "thId": "18155520937490815",
     "igDay": "2026-10-28",
     "igId": "18107559517967482",
-    "thSlug": "auckland-christmas-in-the-park-auckland",
+    "thSlug": "los-angeles-triples-world-tour-andless-los-angeles",
     "igSlug": "auckland-christmas-in-the-park-auckland",
     "history": [
       {
@@ -350,7 +350,17 @@
       {
         "day": "2026-10-22",
         "slug": "shanghai-china-international-import-expo-ciie",
-        "thId": "18102978269289350"
+        "thId": "18102978269289350",
+        "insights": {
+          "at": "2026-10-29",
+          "th": {
+            "views": 22,
+            "likes": 0,
+            "replies": 0,
+            "reposts": 0,
+            "quotes": 0
+          }
+        }
       },
       {
         "day": "2026-10-23",
@@ -384,6 +394,11 @@
         "slug": "auckland-christmas-in-the-park-auckland",
         "thId": "18104649440011897",
         "igId": "18107559517967482"
+      },
+      {
+        "day": "2026-10-29",
+        "slug": "los-angeles-triples-world-tour-andless-los-angeles",
+        "thId": "18155520937490815"
       }
     ]
   }
