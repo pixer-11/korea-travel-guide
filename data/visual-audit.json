@@ -3837,6 +3837,12 @@
   "reason": "patrol reject: Error screenshot/illustration, not a real venue photo",
   "at": "2026-09-17T22:21:31.920Z"
  },
+ "bengaluru-403-forbidden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/403_Forbidden_%2811629478764%29.jpg/3840px-403_Forbidden_%2811629478764%29.jpg": {
+  "slug": "bengaluru-403-forbidden",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Photo of a sign, not the venue itself",
+  "at": "2026-10-28T23:26:10.033Z"
+ },
  "bengaluru-aquarium-paradise\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Aquarium_Paradise%2C_Bangalore_%282025%29_86.jpg/1920px-Aquarium_Paradise%2C_Bangalore_%282025%29_86.jpg": {
   "slug": "bengaluru-aquarium-paradise",
   "verdict": "MATCH",
@@ -10136,6 +10142,12 @@
   "reason": "event publish gate: XG group members posing, valid performer photo",
   "at": "2026-10-21T23:54:06.811Z"
  },
+ "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/0/06/TOTAL_BWF_World_Champs_2015_Day_2_Huang_Yaqiong.jpg": {
+  "slug": "hangzhou-bwf-world-tour-finals",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Badminton player at tournament venue",
+  "at": "2026-10-28T23:27:49.671Z"
+ },
  "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/2/2d/BWF_Badminton_World_Tour.jpg": {
   "slug": "hangzhou-bwf-world-tour-finals",
   "verdict": "MISMATCH",
@@ -10790,6 +10802,12 @@
   "reason": "hand-reviewed: filename shares only \"badminton\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-27T10:38:23.536Z"
  },
+ "ho-chi-minh-city-vietnam-open-badminton\u0001https://upload.wikimedia.org/wikipedia/commons/5/52/-_panoramio_%283305%29.jpg": {
+  "slug": "ho-chi-minh-city-vietnam-open-badminton",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Resort building with palm trees, unrelated to badminton event",
+  "at": "2026-10-28T23:28:26.048Z"
+ },
  "ho-chi-minh-city-vietnam-open-badminton\u0001https://upload.wikimedia.org/wikipedia/commons/9/90/Badminton_racket.jpg": {
   "slug": "ho-chi-minh-city-vietnam-open-badminton",
   "verdict": "MISMATCH",
@@ -10801,6 +10819,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: identity: Commons places this in India, post says Vietnam",
   "at": "2026-10-27T23:09:42.450Z"
+ },
+ "ho-chi-minh-city-vietnam-open-badminton\u0001https://upload.wikimedia.org/wikipedia/commons/f/f9/Badminton-1428046.jpg": {
+  "slug": "ho-chi-minh-city-vietnam-open-badminton",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Badminton racket and shuttlecock, sport equipment",
+  "at": "2026-10-28T23:28:29.587Z"
  },
  "ho-chi-minh-city-vietnam-open-badminton\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Badminton_Chiasma_5.0.jpg/3840px-Badminton_Chiasma_5.0.jpg": {
   "slug": "ho-chi-minh-city-vietnam-open-badminton",
@@ -16924,6 +16948,12 @@
   "reason": "hand-reviewed: filename shares only \"finals\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-21T08:07:23.168Z"
  },
+ "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Casper_Ruud%2C_ATP_500_Basel_2025.jpg/3840px-Casper_Ruud%2C_ATP_500_Basel_2025.jpg": {
+  "slug": "london-atp-finals",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Tennis player at ATP Finals event on court",
+  "at": "2026-10-28T23:29:28.843Z"
+ },
  "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Doubles_at_the_ATP_Finals_%2849070106548%29.jpg/3840px-Doubles_at_the_ATP_Finals_%2849070106548%29.jpg": {
   "slug": "london-atp-finals",
   "verdict": "MISMATCH",
@@ -21365,6 +21395,18 @@
   "reason": "hand-reviewed: filename shares no word with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-27T10:38:23.926Z"
  },
+ "new-york-nba-christmas-day-games\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Partido_NBA_-i---i-_%2832137594662%29.jpg/1280px-Partido_NBA_-i---i-_%2832137594662%29.jpg": {
+  "slug": "new-york-nba-christmas-day-games",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Generic arena practice shot, not NBA Christmas Day Games venue",
+  "at": "2026-10-28T23:30:30.802Z"
+ },
+ "new-york-nba-christmas-day-games\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Partido_NBA_-i---i-_%2832286990055%29.jpg/1280px-Partido_NBA_-i---i-_%2832286990055%29.jpg": {
+  "slug": "new-york-nba-christmas-day-games",
+  "verdict": "MATCH",
+  "reason": "patrol replace: NBA player shooting at indoor arena venue",
+  "at": "2026-10-28T23:30:33.326Z"
+ },
  "new-york-ocean-prime\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Ocean_Prime_Phoenix_%2833119074285%29.jpg/1920px-Ocean_Prime_Phoenix_%2833119074285%29.jpg": {
   "slug": "new-york-ocean-prime",
   "verdict": "MATCH",
@@ -24535,6 +24577,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Visible photo credit watermark overlaid on image",
   "at": "2026-10-21T22:39:51.614Z"
+ },
+ "puerto-princesa-ironman-70-3-puerto-princesa\u0001https://upload.wikimedia.org/wikipedia/commons/3/34/Ironman_70.3_World_Championships_%289700067755%29.jpg": {
+  "slug": "puerto-princesa-ironman-70-3-puerto-princesa",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Triathlon cycling event on wet road",
+  "at": "2026-10-28T23:31:53.375Z"
  },
  "puerto-princesa-ironman-70-3-puerto-princesa\u0001https://upload.wikimedia.org/wikipedia/commons/4/4f/Ironman_70.3_World_Championships_%289703304940%29.jpg": {
   "slug": "puerto-princesa-ironman-70-3-puerto-princesa",

@@ -3131,7 +3131,12 @@
   "tigre-sarmiento-house\u0001https://upload.wikimedia.org/wikipedia/commons/6/6c/Casa_de_Sarmiento.jpg": 1322,
   "toulouse-place-du-capitole\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Toulouse_Capitole_Night_Wikimedia_Commons.jpg/1920px-Toulouse_Capitole_Night_Wikimedia_Commons.jpg": 1920,
   "buenos-aires-cafe-tortoni\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Avenida_de_Mayo_Caf%C3%A9_Tortoni.jpg/1920px-Avenida_de_Mayo_Caf%C3%A9_Tortoni.jpg": 1920,
-  "nazca-mirador-el-telar\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Mirador_El_Telar%2C_Nazca_06.jpg/3840px-Mirador_El_Telar%2C_Nazca_06.jpg": 3840
+  "nazca-mirador-el-telar\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Mirador_El_Telar%2C_Nazca_06.jpg/3840px-Mirador_El_Telar%2C_Nazca_06.jpg": 3840,
+  "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/0/06/TOTAL_BWF_World_Champs_2015_Day_2_Huang_Yaqiong.jpg": 2640,
+  "ho-chi-minh-city-vietnam-open-badminton\u0001https://upload.wikimedia.org/wikipedia/commons/f/f9/Badminton-1428046.jpg": 3840,
+  "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Casper_Ruud%2C_ATP_500_Basel_2025.jpg/3840px-Casper_Ruud%2C_ATP_500_Basel_2025.jpg": 3840,
+  "new-york-nba-christmas-day-games\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Partido_NBA_-i---i-_%2832286990055%29.jpg/1280px-Partido_NBA_-i---i-_%2832286990055%29.jpg": 1280,
+  "puerto-princesa-ironman-70-3-puerto-princesa\u0001https://upload.wikimedia.org/wikipedia/commons/3/34/Ironman_70.3_World_Championships_%289700067755%29.jpg": 1200
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -3283,8 +3288,8 @@
   },
   "nagoya-asian-games-2026": {
    "width": 960,
-   "attempts": 8,
-   "nextTry": "2026-10-28",
+   "attempts": 9,
+   "nextTry": "2026-11-04",
    "flaggedAt": "2026-09-02",
    "lastResult": "no-wider"
   },
@@ -3381,15 +3386,15 @@
   },
   "hong-kong-fello": {
    "width": 1080,
-   "attempts": 5,
-   "nextTry": "2026-10-28",
+   "attempts": 6,
+   "nextTry": "2026-11-04",
    "flaggedAt": "2026-09-18",
    "lastResult": "no-wider"
   },
   "hiroshima-hiroshima-botanical-garden": {
    "width": 800,
-   "attempts": 5,
-   "nextTry": "2026-10-28",
+   "attempts": 6,
+   "nextTry": "2026-11-04",
    "flaggedAt": "2026-09-19",
    "lastResult": "no-wider"
   },
@@ -3423,8 +3428,8 @@
   },
   "barcelona-chambacu": {
    "width": 1103,
-   "attempts": 3,
-   "nextTry": "2026-10-28",
+   "attempts": 4,
+   "nextTry": "2026-11-04",
    "flaggedAt": "2026-09-24",
    "lastResult": "no-wider"
   },
@@ -3651,5 +3656,5 @@
    "flaggedAt": "2026-10-21"
   }
  },
- "updated": "2026-10-28T15:38:58.694Z"
+ "updated": "2026-10-28T23:35:46.193Z"
 }
