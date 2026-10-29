@@ -3202,7 +3202,14 @@
   "xiamen-xiamen-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Main_Entrance_of_Xiamen_University.jpg/1280px-Main_Entrance_of_Xiamen_University.jpg": 1280,
   "seoul-eugene-seoul-open\u0001https://upload.wikimedia.org/wikipedia/commons/5/50/August_2007%2C_walking_in_Seoul_116.jpg": 3072,
   "stuttgart-karlsplatz\u0001https://upload.wikimedia.org/wikipedia/commons/a/a1/Flohmarkt_Karlsplatz_Stuttgart_2.jpg": 3252,
-  "ollantaytambo-chocomuseo-ollantaytambo\u0001https://upload.wikimedia.org/wikipedia/commons/4/47/Ollantaytambo_ChocoMuseo.jpg": 3103
+  "ollantaytambo-chocomuseo-ollantaytambo\u0001https://upload.wikimedia.org/wikipedia/commons/4/47/Ollantaytambo_ChocoMuseo.jpg": 3103,
+  "belek-ironman-70-3-turkey\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/IRONMAN_70.3_Hradec_Kralove_2024_4_c%C3%ADlov%C3%A1_rovinka.jpg/1920px-IRONMAN_70.3_Hradec_Kralove_2024_4_c%C3%ADlov%C3%A1_rovinka.jpg": 1920,
+  "barcelona-guitar-bcn-festival-2026\u0001https://upload.wikimedia.org/wikipedia/commons/2/22/L%27Auditori_050529_Barcelona_031.jpg": 2304,
+  "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/c/cf/TOTAL_BWF_World_Champs_2015_Day_2_Osleni_Guerrero.jpg": 3665,
+  "calgary-113th-grey-cup\u0001https://upload.wikimedia.org/wikipedia/commons/0/0d/Grey_Cup%21_07122006.jpg": 1536,
+  "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Doubles_at_the_ATP_Finals_%2849070108528%29.jpg/3840px-Doubles_at_the_ATP_Finals_%2849070108528%29.jpg": 3840,
+  "new-york-nba-christmas-day-games\u0001https://upload.wikimedia.org/wikipedia/commons/1/16/Partido_NBA_-i---i-_%2831445390924%29.jpg": 1920,
+  "tbilisi-tbilisi-christmas-market-new-year-village\u0001https://upload.wikimedia.org/wikipedia/commons/3/35/Christmas_Lights_at_Orbeliani_Palace.jpg": 3297
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -3508,8 +3515,8 @@
   },
   "kyoto-kurama-fire-festival": {
    "width": 1024,
-   "attempts": 3,
-   "nextTry": "2026-10-29",
+   "attempts": 4,
+   "nextTry": "2026-11-05",
    "flaggedAt": "2026-09-24",
    "lastResult": "no-wider"
   },
@@ -3521,8 +3528,8 @@
   },
   "beijing-beijing-marathon": {
    "width": 1024,
-   "attempts": 2,
-   "nextTry": "2026-10-29",
+   "attempts": 3,
+   "nextTry": "2026-11-05",
    "flaggedAt": "2026-10-01",
    "lastResult": "no-wider"
   },
@@ -3722,5 +3729,5 @@
    "flaggedAt": "2026-10-21"
   }
  },
- "updated": "2026-10-29T15:02:15.586Z"
+ "updated": "2026-10-29T23:45:39.449Z"
 }

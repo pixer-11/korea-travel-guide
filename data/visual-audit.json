@@ -36,11 +36,23 @@
   "reason": "event publish gate: F1 cars grid lineup, representative of race event",
   "at": "2026-10-21T23:46:51.228Z"
  },
+ "abu-dhabi-adnoc-abu-dhabi-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/1/1a/Al_Marfa_Beach_Adnoc_pump_3_-_panoramio.jpg": {
+  "slug": "abu-dhabi-adnoc-abu-dhabi-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Coastal scene unrelated to marathon event",
+  "at": "2026-10-29T23:31:13.365Z"
+ },
  "abu-dhabi-adnoc-abu-dhabi-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/2/21/Al_Marfa_Beach_Adnoc_pump_7_-_panoramio.jpg": {
   "slug": "abu-dhabi-adnoc-abu-dhabi-marathon",
   "verdict": "MISMATCH",
   "reason": "patrol reject: Unrelated building scene, not marathon event related",
   "at": "2026-10-29T00:54:00.022Z"
+ },
+ "abu-dhabi-adnoc-abu-dhabi-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/4/44/Al_Marfa_Beach_Adnoc_pump_10_-_panoramio.jpg": {
+  "slug": "abu-dhabi-adnoc-abu-dhabi-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Street scene unrelated to marathon event",
+  "at": "2026-10-29T23:31:14.789Z"
  },
  "abu-dhabi-adnoc-abu-dhabi-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/9/9b/Al_Marfa_Beach_Adnoc_pump_2_-_panoramio.jpg": {
   "slug": "abu-dhabi-adnoc-abu-dhabi-marathon",
@@ -392,6 +404,18 @@
   "reason": "patrol replace: Concert performer on stage, event venue appropriate",
   "at": "2026-08-21T19:49:17.466Z"
  },
+ "abu-dhabi-spartan-world-championship\u0001https://upload.wikimedia.org/wikipedia/commons/0/0e/Exercise_Spartan_Kopis_140608-A-AR422-291.jpg": {
+  "slug": "abu-dhabi-spartan-world-championship",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Naval ship and helicopter, unrelated to Spartan race event",
+  "at": "2026-10-29T23:31:25.014Z"
+ },
+ "abu-dhabi-spartan-world-championship\u0001https://upload.wikimedia.org/wikipedia/commons/5/54/Exercise_Spartan_Kopis_140608-Z-AR422-647.jpg": {
+  "slug": "abu-dhabi-spartan-world-championship",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated subject: helicopter over ocean, not event",
+  "at": "2026-10-29T23:31:28.460Z"
+ },
  "abu-dhabi-spartan-world-championship\u0001https://upload.wikimedia.org/wikipedia/commons/6/62/WW_Chicago_2014_-_Halo_Spartan_%2815067975785%29.jpg": {
   "slug": "abu-dhabi-spartan-world-championship",
   "verdict": "MISMATCH",
@@ -410,11 +434,23 @@
   "reason": "patrol reject: Sailboat unrelated to Spartan obstacle race event",
   "at": "2026-10-29T00:54:09.366Z"
  },
+ "abu-dhabi-spartan-world-championship\u0001https://upload.wikimedia.org/wikipedia/commons/e/ef/Spartan_Model_12_Executive.jpg": {
+  "slug": "abu-dhabi-spartan-world-championship",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Airplane unrelated to Spartan obstacle race event",
+  "at": "2026-10-29T23:31:23.414Z"
+ },
  "abu-dhabi-spartan-world-championship\u0001https://upload.wikimedia.org/wikipedia/commons/f/fb/World_operators_of_the_C-27J_Spartan_act.png": {
   "slug": "abu-dhabi-spartan-world-championship",
   "verdict": "MISMATCH",
   "reason": "patrol reject: This is a world map, not the event or venue",
   "at": "2026-10-29T00:54:07.199Z"
+ },
+ "abu-dhabi-spartan-world-championship\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Exercise_Spartan_Kopis_140608-A-AR422-438.jpg/3840px-Exercise_Spartan_Kopis_140608-A-AR422-438.jpg": {
+  "slug": "abu-dhabi-spartan-world-championship",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Helicopter on ship deck, unrelated to Spartan race event",
+  "at": "2026-10-29T23:31:26.616Z"
  },
  "abu-dhabi-tamer-hosny-and-tamer-ashour-concert\u0001https://upload.wikimedia.org/wikipedia/commons/2/2e/Tamer_Hosny%27s_NYE_Concert_%282025%29.png": {
   "slug": "abu-dhabi-tamer-hosny-and-tamer-ashour-concert",
@@ -3305,6 +3341,12 @@
   "reason": "hand-reviewed: filename shares only \"guitar\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-29T08:14:14.911Z"
  },
+ "barcelona-guitar-bcn-festival-2026\u0001https://upload.wikimedia.org/wikipedia/commons/2/22/L%27Auditori_050529_Barcelona_031.jpg": {
+  "slug": "barcelona-guitar-bcn-festival-2026",
+  "verdict": "MATCH",
+  "reason": "patrol replace: L'Auditori de Barcelona exterior, matches venue",
+  "at": "2026-10-29T23:31:45.267Z"
+ },
  "barcelona-jay-wheeler-concert\u0001https://upload.wikimedia.org/wikipedia/commons/4/41/Jay-wheeler-2020.png": {
   "slug": "barcelona-jay-wheeler-concert",
   "verdict": "MATCH",
@@ -3926,6 +3968,12 @@
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: filename shares only \"ironman\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-29T08:14:15.063Z"
+ },
+ "belek-ironman-70-3-turkey\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/IRONMAN_70.3_Hradec_Kralove_2024_4_c%C3%ADlov%C3%A1_rovinka.jpg/1920px-IRONMAN_70.3_Hradec_Kralove_2024_4_c%C3%ADlov%C3%A1_rovinka.jpg": {
+  "slug": "belek-ironman-70-3-turkey",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Ironman 70.3 event crowd and timer display visible",
+  "at": "2026-10-29T23:32:50.002Z"
  },
  "belfast-black-sheep-coffee\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Black_Sheep_Coffee_Bishopsgate.jpg/1920px-Black_Sheep_Coffee_Bishopsgate.jpg": {
   "slug": "belfast-black-sheep-coffee",
@@ -5633,6 +5681,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Exterior of heritage building plausibly matching venue in Cairns",
   "at": "2026-09-29T14:19:17.090Z"
+ },
+ "calgary-113th-grey-cup\u0001https://upload.wikimedia.org/wikipedia/commons/0/0d/Grey_Cup%21_07122006.jpg": {
+  "slug": "calgary-113th-grey-cup",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Grey Cup trophy, appropriate for Calgary event guide",
+  "at": "2026-10-29T23:34:53.424Z"
  },
  "calgary-113th-grey-cup\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/111th_Grey_Cup%2C_Trophy.jpg/3840px-111th_Grey_Cup%2C_Trophy.jpg": {
   "slug": "calgary-113th-grey-cup",
@@ -8297,6 +8351,18 @@
   "reason": "patrol replace: Performer with guitar matches concert event type",
   "at": "2026-08-29T21:57:15.468Z"
  },
+ "dubai-sole-dxb\u0001https://upload.wikimedia.org/wikipedia/commons/4/49/Dubai_Design_District.jpg": {
+  "slug": "dubai-sole-dxb",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Dubai street scene, not Design District or event venue",
+  "at": "2026-10-29T23:36:17.235Z"
+ },
+ "dubai-sole-dxb\u0001https://upload.wikimedia.org/wikipedia/commons/4/4b/Sole_DXB_CROWD.jpg": {
+  "slug": "dubai-sole-dxb",
+  "verdict": "UNMEASURED",
+  "reason": "patrol retry: width: unknown (<1024) — could not measure",
+  "at": "2026-10-29T23:36:17.334Z"
+ },
  "dubai-sole-dxb\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/KID_SOLE.jpg/3840px-KID_SOLE.jpg": {
   "slug": "dubai-sole-dxb",
   "verdict": "MISMATCH",
@@ -10418,6 +10484,12 @@
   "reason": "hand-reviewed: filename shares no word with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-28T08:38:18.387Z"
  },
+ "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/c/cf/TOTAL_BWF_World_Champs_2015_Day_2_Osleni_Guerrero.jpg": {
+  "slug": "hangzhou-bwf-world-tour-finals",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Badminton player at event venue with branding",
+  "at": "2026-10-29T23:36:29.415Z"
+ },
  "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/f/f6/2018_BWF_World_Championships.jpg": {
   "slug": "hangzhou-bwf-world-tour-finals",
   "verdict": "MISMATCH",
@@ -11083,6 +11155,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Military rescue drill, unrelated to badminton event",
   "at": "2026-10-26T23:18:52.288Z"
+ },
+ "ho-chi-minh-city-vietnam-open-badminton\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Yonex_German_Open_Badminton_Championships.jpg/3840px-Yonex_German_Open_Badminton_Championships.jpg": {
+  "slug": "ho-chi-minh-city-vietnam-open-badminton",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: This is a logo, not a photo of event or venue",
+  "at": "2026-10-29T23:38:33.073Z"
  },
  "ho-chi-minh-city-vietnam-open-badminton\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/140924-Z-PL933-334_%2815413272181%29.jpg/3840px-140924-Z-PL933-334_%2815413272181%29.jpg": {
   "slug": "ho-chi-minh-city-vietnam-open-badminton",
@@ -16247,6 +16325,12 @@
   "verdict": "MISMATCH",
   "reason": "hero file name reads as unusable: \"Eye of Spring under construction in Kunming\""
  },
+ "kunming-kunming-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Marathon_-_windmill.jpg/3840px-Marathon_-_windmill.jpg": {
+  "slug": "kunming-kunming-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Rural windmill scene unrelated to marathon event",
+  "at": "2026-10-29T23:39:09.211Z"
+ },
  "kurashiki-kurashiki-bikan-historical-quarter\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/161015_At_Kurashiki_Bikan_historical_quarter_Kurashiki_Okayama_pref_Japan01s3.jpg/3840px-161015_At_Kurashiki_Bikan_historical_quarter_Kurashiki_Okayama_pref_Japan01s3.jpg": {
   "slug": "kurashiki-kurashiki-bikan-historical-quarter",
   "verdict": "MATCH",
@@ -17204,6 +17288,12 @@
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: filename shares only \"finals\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-24T02:12:34.707Z"
+ },
+ "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Doubles_at_the_ATP_Finals_%2849070108528%29.jpg/3840px-Doubles_at_the_ATP_Finals_%2849070108528%29.jpg": {
+  "slug": "london-atp-finals",
+  "verdict": "MATCH",
+  "reason": "patrol replace: ATP Finals tennis match, professional venue setting",
+  "at": "2026-10-29T23:39:27.658Z"
  },
  "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Cincinnati-Tennis-2015-ATP-WTA-98_%2820232731523%29.jpg/3840px-Cincinnati-Tennis-2015-ATP-WTA-98_%2820232731523%29.jpg": {
   "slug": "london-atp-finals",
@@ -21753,6 +21843,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Random portrait, not NBA event or venue",
   "at": "2026-10-25T23:25:32.116Z"
+ },
+ "new-york-nba-christmas-day-games\u0001https://upload.wikimedia.org/wikipedia/commons/1/16/Partido_NBA_-i---i-_%2831445390924%29.jpg": {
+  "slug": "new-york-nba-christmas-day-games",
+  "verdict": "MATCH",
+  "reason": "patrol replace: NBA game at indoor arena, Ciudad de México visible",
+  "at": "2026-10-29T23:40:06.761Z"
  },
  "new-york-nba-christmas-day-games\u0001https://upload.wikimedia.org/wikipedia/commons/c/ce/Jalen_Williams_OKCThunder_2025_NBA_Cup.jpg": {
   "slug": "new-york-nba-christmas-day-games",
@@ -31300,6 +31396,12 @@
   "reason": "publish gate: Equestrian statue in park, matches Tashkent landmark",
   "at": "2026-09-20T12:33:34.402Z"
  },
+ "tashkent-anime-soundtrack-concert-tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/7/72/Anime_Saiko_2017.jpg": {
+  "slug": "tashkent-anime-soundtrack-concert-tashkent",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: identity: Commons places this in Malaysia, post says Uzbekistan",
+  "at": "2026-10-29T23:43:18.458Z"
+ },
  "tashkent-anime-soundtrack-concert-tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Anime_Summit_2023.jpg/3840px-Anime_Summit_2023.jpg": {
   "slug": "tashkent-anime-soundtrack-concert-tashkent",
   "verdict": "MISMATCH",
@@ -31858,6 +31960,12 @@
   "verdict": "MATCH",
   "reason": "event publish gate: Books displayed outdoors in Tbilisi, matches book event",
   "at": "2026-10-29T00:38:15.921Z"
+ },
+ "tbilisi-tbilisi-christmas-market-new-year-village\u0001https://upload.wikimedia.org/wikipedia/commons/3/35/Christmas_Lights_at_Orbeliani_Palace.jpg": {
+  "slug": "tbilisi-tbilisi-christmas-market-new-year-village",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Festive Christmas lights, trees, elegant architecture",
+  "at": "2026-10-29T23:44:31.374Z"
  },
  "tbilisi-tbilisi-christmas-market-new-year-village\u0001https://upload.wikimedia.org/wikipedia/commons/5/56/Orbeliani_Palace_Christmas_Decorations.jpg": {
   "slug": "tbilisi-tbilisi-christmas-market-new-year-village",

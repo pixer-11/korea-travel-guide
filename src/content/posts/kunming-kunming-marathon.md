@@ -1,6 +1,8 @@
 ---
 title: 'Kunming Marathon: Dates, Tickets & Venue (Kunming)'
-description: The Kunming Marathon takes place on December 13, 2026, in Kunming, the capital of Yunnan province in southwest China, with roughly 10,000 participants.
+description: >-
+  The Kunming Marathon takes place on December 13, 2026, in Kunming, the capital
+  of Yunnan province in southwest China, with roughly 10,000 participants.
 country: China
 region: Kunming
 category: event
@@ -9,32 +11,45 @@ eventStartDate: '2026-12-13'
 eventEndDate: '2026-12-13'
 eventRecurring: true
 eventFactsAsked: true
-heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Eye_of_Spring_under_construction_in_Kunming.jpg/1280px-Eye_of_Spring_under_construction_in_Kunming.jpg'
-  credit: 'Photo: Mx. Granger (CC0)'
-  license: wikimedia
-  source: 'File:Eye of Spring under construction in Kunming.jpg'
-  focus:
-    x: 50
-    y: 45
 gallery: []
 tags:
   - kunming
   - event
-quickAnswer: The Kunming Marathon takes place on December 13, 2026, in Kunming, the capital of Yunnan province in southwest China, with roughly 10,000 participants. Entries work as race registration rather than spectator tickets, and the organiser publishes the route, start venue and entry details on its official site. Expect dry, sunny winter weather and an altitude of about 1,900 metres, which runners feel from the first kilometre.
+quickAnswer: >-
+  The Kunming Marathon takes place on December 13, 2026, in Kunming, the capital
+  of Yunnan province in southwest China, with roughly 10,000 participants.
+  Entries work as race registration rather than spectator tickets, and the
+  organiser publishes the route, start venue and entry details on its official
+  site. Expect dry, sunny winter weather and an altitude of about 1,900 metres,
+  which runners feel from the first kilometre.
 faq:
   - q: When is the Kunming Marathon in 2026?
-    a: The Kunming Marathon takes place on Sunday, December 13, 2026, in Kunming, Yunnan province, with roughly 10,000 participants.
+    a: >-
+      The Kunming Marathon takes place on Sunday, December 13, 2026, in Kunming,
+      Yunnan province, with roughly 10,000 participants.
   - q: Where does the race start and finish?
-    a: The course runs through central Kunming. The organiser publishes the exact start, finish and route map on its official site. Most runners reach the start by metro, because roads along the course close on race morning.
+    a: >-
+      The course runs through central Kunming. The organiser publishes the exact
+      start, finish and route map on its official site. Most runners reach the
+      start by metro, because roads along the course close on race morning.
   - q: Does the altitude affect runners?
-    a: Yes. Kunming sits at around 1,900 metres, so effort feels higher than usual at a given pace. Runners from sea level usually arrive several days early to acclimatise and treat it as an enjoyable race rather than a personal-best attempt.
+    a: >-
+      Yes. Kunming sits at around 1,900 metres, so effort feels higher than
+      usual at a given pace. Runners from sea level usually arrive several days
+      early to acclimatise and treat it as an enjoyable race rather than a
+      personal-best attempt.
   - q: What is the weather like in Kunming in mid-December?
-    a: 'It is the dry season: usually sunny, with cold mornings that can approach freezing and strong sun later in the day. Runners typically start in a discardable layer and wear sun protection.'
+    a: >-
+      It is the dry season: usually sunny, with cold mornings that can approach
+      freezing and strong sun later in the day. Runners typically start in a
+      discardable layer and wear sun protection.
   - q: How do I get to Kunming for the marathon?
-    a: Kunming Changshui International Airport links to the city on Metro Line 6, and high-speed trains arrive at Kunming South Railway Station on Metro Line 1. Visitors often stay near Green Lake or the city centre.
+    a: >-
+      Kunming Changshui International Airport links to the city on Metro Line 6,
+      and high-speed trains arrive at Kunming South Railway Station on Metro
+      Line 1. Visitors often stay near Green Lake or the city centre.
 aiGenerated: true
-draft: true
+draft: false
 ---
 
 ## Racing at 1,900 metres

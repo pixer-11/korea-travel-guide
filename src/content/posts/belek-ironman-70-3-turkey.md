@@ -13,7 +13,6 @@ eventOrganizer:
   name: Ironman Group
   url: https://www.ironman.com/races/im703-turkey/
 eventFactsAsked: true
-gallery: []
 tags:
   - belek
   - event
@@ -31,6 +30,14 @@ faq:
     a: The Roman theatre at Aspendos and the ruins of Perge are both close. Antalya's old town, Kaleiçi, Side's ruins and seafront, and Köprülü Canyon National Park are all good day trips.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/IRONMAN_70.3_Hradec_Kralove_2024_4_c%C3%ADlov%C3%A1_rovinka.jpg/1920px-IRONMAN_70.3_Hradec_Kralove_2024_4_c%C3%ADlov%C3%A1_rovinka.jpg
+  credit: 'Photo: Romanvysansky / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:IRONMAN_70.3_Hradec_Kralove_2024_4_c%C3%ADlov%C3%A1_rovinka.jpg
+  focus:
+    x: 50
+    'y': 50
 ---
 
 ## A triathlon on a resort coastline

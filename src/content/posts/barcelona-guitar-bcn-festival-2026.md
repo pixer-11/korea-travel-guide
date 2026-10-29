@@ -12,7 +12,6 @@ eventVenue: L'Auditori de Barcelona
 eventOrganizer:
   name: Agenda Barcelona
 eventFactsAsked: true
-gallery: []
 tags:
   - barcelona
   - event
@@ -30,6 +29,14 @@ faq:
     a: The Teatre Nacional de Catalunya is next door. Torre Glòries, the Els Encants flea market and the Museu del Disseny are all close to Plaça de les Glòries, and Sagrada Família is roughly a 15-minute walk away. The Museu de la Música, with its collection of historic guitars, is inside L'Auditori itself.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/2/22/L%27Auditori_050529_Barcelona_031.jpg
+  credit: 'Photo: Sergi Larripa (User:SergiL) / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:L%27Auditori_050529_Barcelona_031.jpg
+  focus:
+    x: 45
+    'y': 40
 ---
 
 ## A festival built around one instrument
