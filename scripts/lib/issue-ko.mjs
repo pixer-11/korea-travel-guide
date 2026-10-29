@@ -114,6 +114,19 @@ const T = {
   'PLACEHOLDER-TEXT': () => '자리표시 문구가 그대로 남아 있음',
   'STALE-TRANSLATION': () => '원문이 바뀐 뒤 번역이 갱신되지 않음',
   'ORPHAN-TRANSLATION': () => '원문 없는 번역 파일',
+  // validate-content 가 CODE: 형식으로 내는데 여기 없던 10종(10-29 전수 대조).
+  'ENDED-EVENT-FABRICATED-AVAILABILITY': () => '끝난 행사인데 아직 표·자리가 있다고 지어냄',
+  'ENDED-EVENT-ADVICE': () => '끝난 행사인데 "예매 전 확인하라" 같은 안내가 남아 있음',
+  'STUB-BODY': () => '본문이 너무 짧음 — 글이 잘렸거나 비어 있음',
+  'PROMPT-LEAK': () => '본문 첫머리에 AI 작성 지시문이 그대로 남아 있음',
+  'EVENT-SINGLE-DAY-RANGE': () => '행사가 하루짜리로 저장됐는데 본문은 여러 날이라고 함 — 달력에 마지막 날만 뜸',
+  'EVENT-VENUE-GUESSED': () => '행사장을 확실히 모른다고 쓰고도 특정 역까지 길안내를 함 — 장소 확인 또는 길안내 삭제',
+  'WALL-OF-TEXT': () => '한 문단이 너무 김 — reflow-paragraphs 실행 필요',
+  'STALE-PRICE-CLAIM': () => '가격 언급이 오래 재확인되지 않음',
+  'STALE-NEW-CLAIM': () => '"새로 생긴" 같은 표현이 오래돼 사실과 어긋날 수 있음',
+  'DOUBLE-DISCLOSURE': () => 'AI 작성 고지가 본문과 하단 표시에 두 번 나옴',
+  'UNQUARANTINED-MISMATCH': () => '사진이 틀렸다고 판정됐는데 글이 아직 공개돼 있음',
+  'UNVERIFIED-PHOTO': () => '대표사진이 AI 사진 검증을 한 번도 거치지 않음 — 21:40 사진 감사 확인',
   // 공통
   'PARSE-ERROR': () => '파일을 읽지 못함 (형식 오류)',
 };
@@ -284,6 +297,15 @@ export function koIssueLine(raw) {
     [/^SLASH in region/, () => '지역명에 "/"가 있어 주소가 깨짐'],
     [/^ESSENTIALS .*incomplete/, () => '국가 기본정보 페이지에 빠진 항목이 있음'],
     [/^WALL THUMB missing/, () => '카드 썸네일이 없어 빈 카드로 보임 (build-wall 실행 필요)'],
+    // 10-29: "Cebu City" 대 "Cebu" 가 "점검 항목 — 파일"로만 갔다. 같은 날 전수
+    // 대조로 찾은 문장형 7종을 함께 등록한다.
+    [/^REGION SPELLING TWIN "[^"]+" vs "([^"]+)"/, (mm) => `같은 도시가 지역 이름 두 개로 갈라짐 — "${mm[1]}"로 맞춰야 함`],
+    [/^REGION NAME COLLISION/, () => '같은 지역 이름이 두 나라에 쓰임 — 새 글의 지역명에 도시를 붙여 구분해야 함'],
+    [/^PLACEHOLDER region/, () => '지역이 임시값으로 들어감 — 행사의 실제 도시로 고정해야 함'],
+    [/^EDITOR-NOTE in/, () => '수리 도구의 메모가 고친 문장 대신 글에 남음'],
+    [/^FILLER "A Visitor'?s Guide" in title/, () => '제목에 상투 문구가 되살아남'],
+    [/^IMAGE TRACKING-QUERY/, () => '대표사진 주소에 추적 꼬리표(utm)가 붙어 광고차단기에 사진이 가려짐'],
+    [/^LLM-NOTE leaked/, () => '본문 첫 줄이 AI가 혼잣말한 메모임'],
   ];
   for (const [re, render] of PHRASES) {
     const mm = line.match(re);

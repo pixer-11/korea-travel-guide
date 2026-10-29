@@ -99,6 +99,7 @@ export const REGION_TZ = {
     Ulaanbaatar: ULN, Terelj: ULN, 'Tsonjin Boldog': ULN, 'Khustai National Park': ULN,
     Kharkhorin: ULN, Tsetserleg: ULN, 'Lake Khuvsgul': ULN, Murun: ULN,
     Dalanzadgad: ULN, 'Gobi Gurvansaikhan National Park': ULN, Erdenet: ULN, Darkhan: ULN,
+    Batnorov: ULN, // Khentii province, east of the capital (10-29 event)
     Olgii: HOVD, Khovd: HOVD,
   },
 };

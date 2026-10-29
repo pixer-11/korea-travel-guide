@@ -156,3 +156,39 @@ test('예정 행사 과거형: 글 이름과 한국어 설명으로 나간다 (2
   assert.match(line, /hong-kong-stray-kids\.md/);
   assert.match(line, /과거형/);
 });
+
+// 2026-10-29: "REGION SPELLING TWIN" reached the owner as "점검 항목 — 파일",
+// and a sweep of every message validate-content.mjs can print found 16 more
+// with no Korean. Each one, in the shape that script prints it.
+test('every validate-content message shape has Korean of its own', () => {
+  const f = 'cebu-city-sinulog-festival.md';
+  const lines = [
+    `REGION SPELLING TWIN "Cebu City" vs "Cebu" (Philippines) — one city split into two hubs; adopt "Cebu": ${f}`,
+    `REGION NAME COLLISION "Chinatown" spans countries (Singapore: a.md vs Thailand: ${f}) — qualify the new region name`,
+    `PLACEHOLDER region "Various" — anchor the event to its finish/start city: ${f}`,
+    `EDITOR-NOTE in description: ${f} — the repair left its note where the edit belonged: "Note: x"`,
+    `FILLER "A Visitor's Guide" in title (title-rule regression): ${f}`,
+    `IMAGE TRACKING-QUERY — hero URL carries utm params (content blockers will hide this photo): ${f}`,
+    `LLM-NOTE leaked in posts/${f} — first body line is the writer talking to itself`,
+    `STUB-BODY: ${f} — 120-char article ("…end")`,
+    `PROMPT-LEAK: ${f} — body opens with model scaffolding ("Here is…")`,
+    `EVENT-SINGLE-DAY-RANGE: ${f} — stored as one day (2027-01-18) but the text says "8 to 18"; the calendar feed will show only the last day`,
+    `EVENT-VENUE-GUESSED: ${f} — says "venue not confirmed" and still gives directions to a named station. Confirm the venue (and the CITY) or drop the directions.`,
+    `WALL-OF-TEXT: ${f} — a 140-word paragraph ("…"); run scripts/reflow-paragraphs.mjs`,
+    `STALE-PRICE-CLAIM: ${f} — "x" unverified since 2026-01-01 (>180 days)`,
+    `STALE-NEW-CLAIM: ${f} — "newly opened" written 2025-01-01 (>365 days ago)`,
+    `DOUBLE-DISCLOSURE: ${f} — the AI disclosure is in the body AND in the component`,
+    `UNQUARANTINED-MISMATCH: ${f} — photo judged wrong on 2026-10-01 (x) but the post is still published`,
+    `UNVERIFIED-PHOTO: ${f} — published 9 days ago and its hero has never been through the vision check`,
+    // ENDED-EVENT-${label} has three labels; only FUTURE-TENSE was mapped.
+    `ENDED-EVENT-FUTURE-TENSE: ${f} — ended 2026-10-28 but the body still says "will be"`,
+    `ENDED-EVENT-FABRICATED-AVAILABILITY: ${f} — ended 2026-10-28 but the body still says "tickets remain"`,
+    `ENDED-EVENT-ADVICE: ${f} — ended 2026-10-28 but the body still says "Confirm the date"`,
+  ];
+  for (const l of lines) {
+    const out = koIssueLine(l);
+    assert.doesNotMatch(out, /점검 항목|점검 필요 \(코드/, `unmapped: ${l.slice(0, 40)} → ${out}`);
+    assert.match(out, /[가-힣]/);
+  }
+  assert.match(koIssueLine(lines[0]), /"Cebu"로 맞춰야/);
+});

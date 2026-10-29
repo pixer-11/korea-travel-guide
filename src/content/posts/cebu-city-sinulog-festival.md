@@ -2,7 +2,7 @@
 title: 'Sinulog Festival: Dates, Tickets & Venue (Cebu City)'
 description: Sinulog Festival in Cebu City runs from January 8 to 18, 2027, with masses, processions and street dancing centred on the Basilica Minore del Santo Niño downtown.
 country: Philippines
-region: Cebu City
+region: Cebu
 category: event
 pubDate: '2026-10-29'
 eventStartDate: '2027-01-08'
