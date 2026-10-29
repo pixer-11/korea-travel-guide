@@ -22505,6 +22505,12 @@
   "reason": "Ivy-covered storefront with 'Darwin' signage visible, trendy",
   "at": "2026-07-25T02:47:29.067Z"
  },
+ "ollantaytambo-chocomuseo-ollantaytambo\u0001https://upload.wikimedia.org/wikipedia/commons/4/47/Ollantaytambo_ChocoMuseo.jpg": {
+  "slug": "ollantaytambo-chocomuseo-ollantaytambo",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior with clear ChocoMuseo sign, matches venue",
+  "at": "2026-10-29T14:56:43.367Z"
+ },
  "ollantaytambo-plaza-de-armas-de-ollantaytambo\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Vista_desde_la_plaza_de_armas_de_Ollantaytambo_-_panoramio.jpg/3840px-Vista_desde_la_plaza_de_armas_de_Ollantaytambo_-_panoramio.jpg": {
   "slug": "ollantaytambo-plaza-de-armas-de-ollantaytambo",
   "verdict": "MATCH",

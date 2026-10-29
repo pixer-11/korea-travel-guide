@@ -38561,5 +38561,33 @@
   "registerBreak": false,
   "worst": "据Google目前显示，公园全年无休，每天24小时开放。",
   "at": "2026-10-29T08:06:14.067Z"
+ },
+ "es/ollantaytambo-chocomuseo-ollantaytambo": {
+  "hash": "ba056c61baa2",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-29T14:57:58.423Z"
+ },
+ "ja/ollantaytambo-chocomuseo-ollantaytambo": {
+  "hash": "db3d137c4f2e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-29T14:58:03.079Z"
+ },
+ "ko/ollantaytambo-chocomuseo-ollantaytambo": {
+  "hash": "c50ce212d0a3",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "공항보다 이곳에서 사야 할 충분한 이유가 됩니다.",
+  "at": "2026-10-29T14:58:08.222Z"
+ },
+ "zh/ollantaytambo-chocomuseo-ollantaytambo": {
+  "hash": "868c3097eb6e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "谷歌把这家分店归为巧克力商店，所以来这里主要还是购物，别指望看到完整的展览。",
+  "at": "2026-10-29T14:58:09.452Z"
  }
 }
