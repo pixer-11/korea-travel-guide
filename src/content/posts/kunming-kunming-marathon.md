@@ -34,7 +34,7 @@ faq:
   - q: How do I get to Kunming for the marathon?
     a: Kunming Changshui International Airport links to the city on Metro Line 6, and high-speed trains arrive at Kunming South Railway Station on Metro Line 1. Visitors often stay near Green Lake or the city centre.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Racing at 1,900 metres
