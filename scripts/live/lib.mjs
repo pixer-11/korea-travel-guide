@@ -24,6 +24,28 @@ export const BASE = (process.argv[2] || process.env.LIVE_BASE || 'https://wander
 
 const BLOCK = (url) => isAnalyticsRequest(url.href);
 
+// The same one-off for the checks' plain fetch(). 2026-10-29 03:4x KST: the
+// home check died on "fetch failed / ECONNRESET" and the essentials topics
+// check read one link as status 0 (/zh/essentials/united-kingdom/) — both
+// passed on rerun minutes later, the link answered 200. A request that never
+// got an answer (a thrown network error, not an HTTP status) is tried once
+// more after 3 s; a site that is really down fails twice. Every check imports
+// this file, so all of them get it.
+if (!globalThis.fetch.__waRetry) {
+  const plain = globalThis.fetch;
+  globalThis.fetch = async (input, init) => {
+    try {
+      return await plain(input, init);
+    } catch (e) {
+      if (e?.name === 'AbortError' || init?.signal?.aborted) throw e;
+      console.log(`  (no answer: ${e?.cause?.code || e?.message}, trying once more: ${input?.url ?? input})`);
+      await new Promise((r) => setTimeout(r, 3_000));
+      return plain(input, init);
+    }
+  };
+  globalThis.fetch.__waRetry = true;
+}
+
 // One slow page load is not a broken site. 2026-10-10 22:47 KST: the header
 // check's first page.goto hit Playwright's 30 s limit once, the other 22
 // checks — the same pages included — passed, and an alert went out for
