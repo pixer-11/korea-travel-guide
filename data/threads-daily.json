@@ -99,28 +99,29 @@
     "mexico-city-bosque-de-chapultepec",
     "taipei-cks-shilin-residence-chrysanthemum-festival",
     "auckland-christmas-in-the-park-auckland",
-    "los-angeles-triples-world-tour-andless-los-angeles"
+    "los-angeles-triples-world-tour-andless-los-angeles",
+    "lima-martin-garrix-lima-2026"
   ],
-  "lastSentDay": "2026-10-29",
+  "lastSentDay": "2026-10-30",
   "material": {
-    "day": "2026-10-29",
-    "slug": "los-angeles-triples-world-tour-andless-los-angeles",
-    "title": "tripleS World Tour ANDLESS - Los Angeles: Dates, Tickets & Venue (Los Angeles)",
+    "day": "2026-10-30",
+    "slug": "lima-martin-garrix-lima-2026",
+    "title": "Martin Garrix Lima 2026: Dates, Tickets & Venue (Lima)",
     "urls": [
-      "https://wanderatlasguides.com/og/social/2026-10-29-los-angeles-triples-world-tour-andless-los-angeles-1.jpg",
-      "https://wanderatlasguides.com/og/social/2026-10-29-los-angeles-triples-world-tour-andless-los-angeles-2.jpg"
+      "https://wanderatlasguides.com/og/social/2026-10-30-lima-martin-garrix-lima-2026-1.jpg",
+      "https://wanderatlasguides.com/og/social/2026-10-30-lima-martin-garrix-lima-2026-2.jpg"
     ],
-    "igCaption": "tripleS brings ANDLESS to The Wiltern on Nov 24, 2026 — a 1931 Art Deco theatre right in the heart of LA's Koreatown. Expect sunburst ceilings, a packed Wilshire sidewalk queue, and 24 members whose lineup is never confir\n\n#LosAngeles #UnitedStates #events #travel #wanderatlas\n📷 Photo: K-POPIT 케이팝잇 / Wikimedia Commons (CC BY 3.0) (edited)",
-    "thOption": "tripleS never confirms which of its 24 members show up on any given night. Would you fly to LA two days before Thanksgiving without knowing the lineup?",
-    "link": "https://wanderatlasguides.com/posts/los-angeles-triples-world-tour-andless-los-angeles/"
+    "igCaption": "Martin Garrix Lima 2026: Dates, Tickets & Venue (Lima) — Lima, Peru\n📷 Photo: Visualbass Photography / Wikimedia Commons (CC BY-SA 2.0) (edited)",
+    "thOption": "A Monday night, a stadium next door, and a holiday waiting",
+    "link": "https://wanderatlasguides.com/posts/lima-martin-garrix-lima-2026/"
   },
   "social": {
-    "thDay": "2026-10-29",
-    "thId": "18155520937490815",
-    "igDay": "2026-10-28",
-    "igId": "18107559517967482",
-    "thSlug": "los-angeles-triples-world-tour-andless-los-angeles",
-    "igSlug": "auckland-christmas-in-the-park-auckland",
+    "thDay": "2026-10-30",
+    "thId": "17913690006506002",
+    "igDay": "2026-10-30",
+    "igId": "18024068792943409",
+    "thSlug": "lima-martin-garrix-lima-2026",
+    "igSlug": "lima-martin-garrix-lima-2026",
     "history": [
       {
         "day": "2026-10-10",
@@ -366,7 +367,25 @@
         "day": "2026-10-23",
         "slug": "san-francisco-balmy-alley",
         "thId": "18112241675622761",
-        "igId": "18088207508304384"
+        "igId": "18088207508304384",
+        "insights": {
+          "at": "2026-10-30",
+          "th": {
+            "views": 10,
+            "likes": 0,
+            "replies": 0,
+            "reposts": 0,
+            "quotes": 0
+          },
+          "ig": {
+            "reach": 0,
+            "saved": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "views": 0
+          }
+        }
       },
       {
         "day": "2026-10-24",
@@ -399,6 +418,12 @@
         "day": "2026-10-29",
         "slug": "los-angeles-triples-world-tour-andless-los-angeles",
         "thId": "18155520937490815"
+      },
+      {
+        "day": "2026-10-30",
+        "slug": "lima-martin-garrix-lima-2026",
+        "thId": "17913690006506002",
+        "igId": "18024068792943409"
       }
     ]
   }
