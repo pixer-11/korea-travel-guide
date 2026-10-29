@@ -3301,9 +3301,9 @@
  },
  "barcelona-guitar-bcn-festival-2026\u0001https://upload.wikimedia.org/wikipedia/commons/1/19/Guitar-1333353440ujZ.jpg": {
   "slug": "barcelona-guitar-bcn-festival-2026",
-  "verdict": "MATCH",
-  "reason": "event publish gate: Guitar close-up fits guitar festival theme, blurry fragment though",
-  "at": "2026-10-29T00:32:16.648Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"guitar\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-29T08:14:14.911Z"
  },
  "barcelona-jay-wheeler-concert\u0001https://upload.wikimedia.org/wikipedia/commons/4/41/Jay-wheeler-2020.png": {
   "slug": "barcelona-jay-wheeler-concert",
@@ -3923,9 +3923,9 @@
  },
  "belek-ironman-70-3-turkey\u0001https://upload.wikimedia.org/wikipedia/commons/d/db/Bart_Aernouts_Ironman_70.3_Austria_2012.jpg": {
   "slug": "belek-ironman-70-3-turkey",
-  "verdict": "MATCH",
-  "reason": "event publish gate: Triathlete racing with BEL bib, fits Ironman 70.3 event",
-  "at": "2026-10-29T00:35:20.502Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"ironman\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-29T08:14:15.063Z"
  },
  "belfast-black-sheep-coffee\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Black_Sheep_Coffee_Bishopsgate.jpg/1920px-Black_Sheep_Coffee_Bishopsgate.jpg": {
   "slug": "belfast-black-sheep-coffee",
@@ -5636,9 +5636,9 @@
  },
  "calgary-113th-grey-cup\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/111th_Grey_Cup%2C_Trophy.jpg/3840px-111th_Grey_Cup%2C_Trophy.jpg": {
   "slug": "calgary-113th-grey-cup",
-  "verdict": "MATCH",
-  "reason": "event publish gate: Grey Cup trophy with RCMP officers, event-related hero",
-  "at": "2026-10-29T00:39:49.315Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"grey\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-29T08:14:15.207Z"
  },
  "calgary-devonian-gardens\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Devonian_Gardens_Calgary_%288599506466%29.jpg/3840px-Devonian_Gardens_Calgary_%288599506466%29.jpg": {
   "slug": "calgary-devonian-gardens",
@@ -8299,9 +8299,9 @@
  },
  "dubai-sole-dxb\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/KID_SOLE.jpg/3840px-KID_SOLE.jpg": {
   "slug": "dubai-sole-dxb",
-  "verdict": "MATCH",
-  "reason": "event publish gate: Performer singing on stage, valid concert event photo",
-  "at": "2026-10-29T00:32:58.388Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"sole\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-29T08:14:15.350Z"
  },
  "dubai-suteki\u0001https://fastly.4sqi.net/img/general/original/11462708_FyU5DrH3bw7YpRGGIlD6l3JSI8u991aKrJORdoGhsAg.jpg": {
   "slug": "dubai-suteki",
@@ -10378,9 +10378,9 @@
  },
  "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/0/06/TOTAL_BWF_World_Champs_2015_Day_2_Huang_Yaqiong.jpg": {
   "slug": "hangzhou-bwf-world-tour-finals",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Badminton player at tournament venue",
-  "at": "2026-10-28T23:27:49.671Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares no word with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-29T08:14:15.503Z"
  },
  "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/2/2d/BWF_Badminton_World_Tour.jpg": {
   "slug": "hangzhou-bwf-world-tour-finals",
@@ -11056,9 +11056,9 @@
  },
  "ho-chi-minh-city-vietnam-open-badminton\u0001https://upload.wikimedia.org/wikipedia/commons/f/f9/Badminton-1428046.jpg": {
   "slug": "ho-chi-minh-city-vietnam-open-badminton",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Badminton racket and shuttlecock, sport equipment",
-  "at": "2026-10-28T23:28:29.587Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"badminton\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-29T08:14:15.651Z"
  },
  "ho-chi-minh-city-vietnam-open-badminton\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Badminton_Chiasma_5.0.jpg/3840px-Badminton_Chiasma_5.0.jpg": {
   "slug": "ho-chi-minh-city-vietnam-open-badminton",
@@ -17243,9 +17243,9 @@
  },
  "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Casper_Ruud%2C_ATP_500_Basel_2025.jpg/3840px-Casper_Ruud%2C_ATP_500_Basel_2025.jpg": {
   "slug": "london-atp-finals",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Tennis player at ATP Finals event on court",
-  "at": "2026-10-28T23:29:28.843Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares no word with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-29T08:14:15.797Z"
  },
  "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Doubles_at_the_ATP_Finals_%2849070106548%29.jpg/3840px-Doubles_at_the_ATP_Finals_%2849070106548%29.jpg": {
   "slug": "london-atp-finals",
@@ -21780,9 +21780,9 @@
  },
  "new-york-nba-christmas-day-games\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Partido_NBA_-i---i-_%2832286990055%29.jpg/1280px-Partido_NBA_-i---i-_%2832286990055%29.jpg": {
   "slug": "new-york-nba-christmas-day-games",
-  "verdict": "MATCH",
-  "reason": "patrol replace: NBA player shooting at indoor arena venue",
-  "at": "2026-10-28T23:30:33.326Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares no word with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-29T08:14:15.967Z"
  },
  "new-york-ocean-prime\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Ocean_Prime_Phoenix_%2833119074285%29.jpg/1920px-Ocean_Prime_Phoenix_%2833119074285%29.jpg": {
   "slug": "new-york-ocean-prime",
@@ -25023,9 +25023,9 @@
  },
  "puerto-princesa-ironman-70-3-puerto-princesa\u0001https://upload.wikimedia.org/wikipedia/commons/3/34/Ironman_70.3_World_Championships_%289700067755%29.jpg": {
   "slug": "puerto-princesa-ironman-70-3-puerto-princesa",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Triathlon cycling event on wet road",
-  "at": "2026-10-28T23:31:53.375Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"ironman\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-29T08:14:16.116Z"
  },
  "puerto-princesa-ironman-70-3-puerto-princesa\u0001https://upload.wikimedia.org/wikipedia/commons/4/4f/Ironman_70.3_World_Championships_%289703304940%29.jpg": {
   "slug": "puerto-princesa-ironman-70-3-puerto-princesa",
@@ -31296,9 +31296,9 @@
  },
  "tashkent-anime-soundtrack-concert-tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Anime_Summit_2023.jpg/3840px-Anime_Summit_2023.jpg": {
   "slug": "tashkent-anime-soundtrack-concert-tashkent",
-  "verdict": "MATCH",
-  "reason": "event publish gate: Concert stage with anime visuals and crowd, matches event",
-  "at": "2026-10-29T00:36:48.362Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"anime\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-29T08:14:16.264Z"
  },
  "tashkent-bon\u0001https://fastly.4sqi.net/img/general/original/56026411_FS3jqrCtXEnlO-4gONBG9KFYKWkcE998EuS35WGpcPk.jpg": {
   "slug": "tashkent-bon",
@@ -31867,9 +31867,9 @@
  },
  "tbilisi-tbilisi-christmas-market-new-year-village\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Christmas_Lights_in_Orbeliani_Palace_Yard.jpg/3840px-Christmas_Lights_in_Orbeliani_Palace_Yard.jpg": {
   "slug": "tbilisi-tbilisi-christmas-market-new-year-village",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Festive outdoor venue with holiday lights, Georgian flag",
-  "at": "2026-10-29T01:12:59.702Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"christmas\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-29T08:14:16.406Z"
  },
  "tbilisi-tbilisi-international-film-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Soap_Film.jpg/3840px-Soap_Film.jpg": {
   "slug": "tbilisi-tbilisi-international-film-festival",

@@ -12,14 +12,6 @@ eventVenue: L'Auditori de Barcelona
 eventOrganizer:
   name: Agenda Barcelona
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/1/19/Guitar-1333353440ujZ.jpg
-  credit: 'Photo: Anna Longova / Wikimedia Commons (CC0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Guitar-1333353440ujZ.jpg
-  focus:
-    x: 40
-    'y': 40
 gallery: []
 tags:
   - barcelona

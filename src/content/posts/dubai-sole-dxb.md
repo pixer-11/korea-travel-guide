@@ -10,16 +10,6 @@ eventEndDate: '2026-12-13'
 eventRecurring: true
 eventVenue: Dubai Design District
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/KID_SOLE.jpg/3840px-KID_SOLE.jpg
-  credit: 'Photo: Kidsolekiddy / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:KID_SOLE.jpg
-  focus:
-    x: 69
-    'y': 20
-    top: 13
-    bottom: 26
 gallery: []
 tags:
   - dubai

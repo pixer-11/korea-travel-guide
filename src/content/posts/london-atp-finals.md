@@ -29,16 +29,6 @@ faq:
     a: Yes. The O2 on the Greenwich Peninsula is right by North Greenwich station on the Jubilee line, and the river boat and the cable car across the Thames also stop there.
 aiGenerated: true
 draft: false
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Casper_Ruud%2C_ATP_500_Basel_2025.jpg/3840px-Casper_Ruud%2C_ATP_500_Basel_2025.jpg
-  credit: 'Photo: Peter Arnold / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Casper_Ruud,_ATP_500_Basel_2025.jpg
-  focus:
-    x: 42
-    'y': 14
-    top: 10
-    bottom: 18
 ---
 
 ## London hosted it until 2020

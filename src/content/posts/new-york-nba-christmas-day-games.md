@@ -30,16 +30,6 @@ faq:
     a: Macy's Herald Square and its holiday windows are a block east. The Empire State Building is about a ten-minute walk away, and Bryant Park Winter Village is at 42nd Street. The Rockefeller Center tree is a short subway ride north. Koreatown on West 32nd Street is where many fans go to eat, since a lot of Midtown restaurants close for the holiday.
 aiGenerated: true
 draft: false
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Partido_NBA_-i---i-_%2832286990055%29.jpg/1280px-Partido_NBA_-i---i-_%2832286990055%29.jpg
-  credit: 'Photo: Gobierno CDMX / Wikimedia Commons (CC0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Partido_NBA_-i---i-_(32286990055).jpg
-  focus:
-    x: 40
-    'y': 38
-    top: 35
-    bottom: 41
 ---
 
 ## A Finals rematch to open the day

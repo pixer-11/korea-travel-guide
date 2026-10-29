@@ -13,14 +13,6 @@ eventOrganizer:
   name: Canadian Football League
   url: https://www.cfl.ca
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/111th_Grey_Cup%2C_Trophy.jpg/3840px-111th_Grey_Cup%2C_Trophy.jpg
-  credit: 'Photo: Cmm3 / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:111th_Grey_Cup,_Trophy.jpg
-  focus:
-    x: 55
-    'y': 45
 gallery: []
 tags:
   - calgary

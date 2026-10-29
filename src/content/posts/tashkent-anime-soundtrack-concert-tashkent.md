@@ -10,14 +10,6 @@ eventEndDate: '2026-12-13'
 eventRecurring: false
 eventVenue: Turkistan Concert Hall
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Anime_Summit_2023.jpg/3840px-Anime_Summit_2023.jpg
-  credit: 'Photo: Macacaosapao / Wikimedia Commons (CC0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Anime_Summit_2023.jpg
-  focus:
-    x: 60
-    'y': 40
 gallery: []
 tags:
   - tashkent

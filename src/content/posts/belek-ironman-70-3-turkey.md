@@ -13,16 +13,6 @@ eventOrganizer:
   name: Ironman Group
   url: https://www.ironman.com/races/im703-turkey/
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/d/db/Bart_Aernouts_Ironman_70.3_Austria_2012.jpg
-  credit: 'Photo: Christian Jansky / Wikimedia Commons (CC BY-SA 3.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Bart_Aernouts_Ironman_70.3_Austria_2012.jpg
-  focus:
-    x: 47
-    'y': 15
-    top: 6
-    bottom: 24
 gallery: []
 tags:
   - belek
