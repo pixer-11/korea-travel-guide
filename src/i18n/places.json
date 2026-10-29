@@ -125,6 +125,12 @@
     "es": "Andong",
     "zh": "安东"
   },
+  "Angeles City": {
+    "ko": "앙헬레스",
+    "ja": "アンヘレス",
+    "es": "Angeles City",
+    "zh": "安赫莱斯"
+  },
   "Angono": {
     "ko": "앙고노",
     "ja": "アンゴノ",
@@ -172,6 +178,12 @@
     "ja": "アーリントン",
     "es": "Arlington",
     "zh": "阿灵顿"
+  },
+  "Assago": {
+    "ko": "아사고",
+    "ja": "アッサーゴ",
+    "es": "Assago",
+    "zh": "阿萨戈"
   },
   "Auckland": {
     "ko": "오클랜드",
@@ -281,6 +293,12 @@
     "es": "Bathurst",
     "zh": "巴瑟斯特"
   },
+  "Batnorov": {
+    "ko": "바트노로브",
+    "ja": "バトノロブ",
+    "es": "Batnorov",
+    "zh": "巴特诺罗布"
+  },
   "Battambang": {
     "ko": "바탐방",
     "ja": "バッタンバン",
@@ -298,6 +316,12 @@
     "ja": "北京",
     "es": "Pekín",
     "zh": "北京"
+  },
+  "Belek": {
+    "ko": "벨렉",
+    "ja": "ベレク",
+    "es": "Belek",
+    "zh": "贝莱克"
   },
   "Belfast": {
     "ko": "벨파스트",
@@ -569,6 +593,12 @@
     "es": "Cebú",
     "zh": "宿务"
   },
+  "Cebu City": {
+    "ko": "세부",
+    "ja": "セブ",
+    "es": "Cebú",
+    "zh": "宿务"
+  },
   "Central": {
     "ko": "센트럴",
     "ja": "セントラル",
@@ -652,6 +682,12 @@
     "ja": "チバイ",
     "es": "Chivay",
     "zh": "奇瓦伊"
+  },
+  "Chonburi": {
+    "ko": "촌부리",
+    "ja": "チョンブリー",
+    "es": "Chonburi",
+    "zh": "春武里"
   },
   "Christchurch": {
     "ko": "크라이스트처치",
@@ -1073,6 +1109,12 @@
     "es": "Islas Gili",
     "zh": "吉利群岛"
   },
+  "Gisborne": {
+    "ko": "기즈번",
+    "ja": "ギズボーン",
+    "es": "Gisborne",
+    "zh": "吉斯伯恩"
+  },
   "Glasgow": {
     "ko": "글래스고",
     "ja": "グラスゴー",
@@ -1180,6 +1222,12 @@
     "ja": "慶州",
     "es": "Gyeongju",
     "zh": "庆州"
+  },
+  "Göreme": {
+    "ko": "괴레메",
+    "ja": "ギョレメ",
+    "es": "Göreme",
+    "zh": "格雷梅"
   },
   "Ha Giang": {
     "ko": "하장",
@@ -1691,6 +1739,12 @@
     "es": "Kumamoto",
     "zh": "熊本"
   },
+  "Kunming": {
+    "ko": "쿤밍",
+    "ja": "昆明",
+    "es": "Kunming",
+    "zh": "昆明"
+  },
   "Kurashiki": {
     "ko": "구라시키",
     "ja": "倉敷",
@@ -2159,6 +2213,12 @@
     "es": "Naha",
     "zh": "那霸"
   },
+  "Nakhon Ratchasima": {
+    "ko": "나콘랏차시마",
+    "ja": "ナコーンラーチャシーマー",
+    "es": "Nakhon Ratchasima",
+    "zh": "呵叻"
+  },
   "Namangan": {
     "ko": "나망간",
     "ja": "ナマンガン",
@@ -2482,6 +2542,12 @@
     "ja": "ペルー",
     "es": "Perú",
     "zh": "秘鲁"
+  },
+  "Petaling Jaya": {
+    "ko": "페탈링자야",
+    "ja": "プタリンジャヤ",
+    "es": "Petaling Jaya",
+    "zh": "八打灵再也"
   },
   "Philadelphia": {
     "ko": "필라델피아",
@@ -3502,6 +3568,12 @@
     "ja": "西安",
     "es": "Xi'an",
     "zh": "西安"
+  },
+  "Xiamen": {
+    "ko": "샤먼",
+    "ja": "アモイ",
+    "es": "Xiamen",
+    "zh": "厦门"
   },
   "Xian": {
     "ko": "시안",

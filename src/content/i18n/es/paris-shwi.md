@@ -1,53 +1,51 @@
 ---
 lang: es
 slug: paris-shwi
-srcHash: 'fc0671b891a7'
-title: 'Shwi, Canal Saint-Martin: menú, precios y horarios (París, 4,2★)'
-description: 'Pollo asado al estilo libanés junto al Canal Saint-Martin, del equipo de Kubri: qué ofrece el menú, cuánto cuesta, horarios y las horas más tranquilas. 4,2★.'
-quickAnswer: Shwi es un puesto de pollo asado libanés del equipo detrás de Kubri, instalado junto al Canal Saint-Martin, en el distrito 10 de París. Abrió en la primavera de 2026 y rápidamente se ha convertido en uno de los favoritos para almorzar o comprar para llevar junto al canal. Conviene ir un día entre semana para esperar menos, y confirmar los horarios actuales antes de acercarse, ya que se trata de un local todavía nuevo y los detalles pueden cambiar.
+srcHash: '04eb9becad71'
+title: 'Shwi, Canal Saint-Martin: carta, precios y horarios (París, 4.1★)'
+description: 'Pollo a la parrilla libanés junto al Canal Saint-Martin, de la mano del equipo de Kubri: qué ofrece la carta, cuánto cuesta, sus horarios y las horas más tranquilas. 4.2★.'
+quickAnswer: A orillas del Canal Saint-Martin, en el distrito 10 de París, el equipo de Kubri ha abierto Shwi, un mostrador dedicado al pollo a la parrilla al estilo libanés. Desde su inauguración en la primavera de 2026, se ha convertido enseguida en uno de los sitios favoritos para comer junto al canal o llevarse la comida. Entre semana la espera suele ser más corta. Como el local es todavía nuevo y algunos detalles pueden cambiar, conviene comprobar el horario vigente antes de acercarse.
 faq:
   - q: ¿Dónde se encuentra exactamente Shwi?
-    a: Está junto al Canal Saint-Martin, en el distrito 10 de París. Conviene confirmar la dirección exacta en un mapa antes de ir, ya que el canal tiene muchos locales muy próximos entre sí.
+    a: Está a orillas del Canal Saint-Martin, en el distrito 10 de París. En el canal se suceden muchos locales pegados unos a otros, así que es mejor comprobar la dirección exacta en un mapa antes de ir.
   - q: ¿Cómo se llega en metro?
-    a: Las estaciones de Jacques Bonsergent (línea 5), République (líneas 3, 5, 8, 9, 11) y Goncourt (línea 11) están todas a un corto y llano paseo del canal.
+    a: Las estaciones de Jacques Bonsergent (línea 5), République (líneas 3, 5, 8, 9 y 11) y Goncourt (línea 11) quedan a un corto paseo del canal, sin cuestas.
   - q: ¿Cuál es el plato estrella?
-    a: 'El pollo asado al estilo libanés, servido al estilo de la comida callejera: la especialidad sobre la que el equipo (también detrás de Kubri) construyó el concepto.'
+    a: El pollo a la parrilla libanés, servido como comida callejera. Es la especialidad sobre la que el equipo, responsable también de Kubri, construyó todo el concepto.
   - q: ¿Hace falta reservar?
-    a: Dado su formato de comida callejera y barra, es probable que solo se atienda sin reserva, pero conviene confirmar directamente la política actual, ya que se trata de una apertura reciente y en evolución.
+    a: Al tratarse de un local de comida callejera con servicio en mostrador, lo más probable es que no admita reservas. Aun así, al ser una apertura reciente que sigue evolucionando, conviene confirmar directamente su política actual.
   - q: ¿Cuál es el mejor momento para ir?
-    a: El almuerzo entre semana o una franja más tranquila a media tarde; los fines de semana y las horas punta de almuerzo o cena pueden implicar colas, sobre todo porque abrió con mucha expectación en la primavera de 2026.
+    a: A mediodía entre semana o a media tarde, cuando hay menos gente. Los fines de semana y en las horas punta del almuerzo y la cena puede haber colas, sobre todo porque su apertura en la primavera de 2026 despertó mucha expectación.
 ---
 
 ## Por qué ir
 
-Shwi es el proyecto más reciente del equipo detrás de Kubri, una de las cocinas libanesas más conocidas de París, y llega con un enfoque más acotado y definido: pollo asado al estilo libanés, pensado para comer caminando o para compartir en un banco junto al canal. Desde su apertura en la primavera de 2026, se ha convertido en uno de los recién llegados de los que más se habla en el distrito 10, sumándose a la misma ola de energía callejera levantina que ha transformado este tramo de París en los últimos años.
+Detrás de Shwi está el equipo de Kubri, una de las cocinas libanesas más conocidas de París. Su nuevo proyecto tiene un enfoque más concreto y definido: el pollo a la parrilla al estilo libanés, pensado para comer sobre la marcha o compartir en algún banco junto al canal. Desde su apertura en la primavera de 2026, figura entre las novedades más comentadas del distrito 10. Aprovecha así el auge de la comida callejera levantina, que en los últimos años ha transformado esta zona de París.
 
-Para quien ya conoce la cocina de Kubri, Shwi se presenta como una especie de derivado construido alrededor de una sola idea bien ejecutada, más que como un menú de restaurante completo: el tipo de sitio que los vecinos del barrio incorporan a un paseo por el canal, no un lugar para planear toda una velada.
+Quien ya conozca la cocina de Kubri verá en Shwi una propuesta derivada que gira en torno a una sola idea bien ejecutada, lejos de la carta completa de un restaurante. Es el tipo de sitio que los vecinos incorporan a un paseo por el canal, no un lugar en torno al cual se organiza toda una velada.
 
 ## Cómo llegar
 
-Shwi se encuentra junto al Canal Saint-Martin, la vía de agua bordeada de árboles que atraviesa el distrito 10 y que desde hace tiempo atrae a paseantes de fin de semana, a quienes hacen pícnic y a una escena gastronómica cada vez más sólida. Se llega fácilmente en metro: las estaciones de Jacques Bonsergent (línea 5), République (líneas 3, 5, 8, 9, 11) y Goncourt (línea 11) están todas a poca distancia a pie del agua, y desde cualquiera de ellas el paseo hasta la dirección exacta es corto y llano, bordeando los muelles.
+Shwi se encuentra junto al Canal Saint-Martin, ese curso de agua flanqueado de árboles que atraviesa el distrito 10. Desde hace tiempo atrae a paseantes de fin de semana y a quienes van de pícnic, y su oferta gastronómica es cada vez más seria. Llegar en metro resulta sencillo, ya que las estaciones de Jacques Bonsergent (línea 5), République (líneas 3, 5, 8, 9 y 11) y Goncourt (línea 11) están a poca distancia del agua. Desde cualquiera de ellas, un agradable paseo llano por los muelles le llevará hasta la dirección exacta.
 
-Como este tramo del canal está lleno de pequeños locales y los negocios cambian con frecuencia, conviene ubicar la dirección exacta en un mapa antes de salir, en lugar de fiarse de lo que uno recuerde del barrio.
+En este tramo del canal abundan los pequeños comercios y los locales cambian de manos constantemente. Por eso, antes de salir, es preferible buscar la ubicación precisa en un mapa en lugar de fiarse del recuerdo que se tenga del barrio.
 
 ## Qué esperar
 
-El plato estrella es el pollo asado al estilo libanés: una preparación cercana al shawarma, cocinada al espetón o a la parrilla, que bebe de la misma tradición callejera levantina con la que Kubri se hizo un nombre, y que clásicamente se sirve con salsa de ajo, encurtidos y pan plano. Aun así, conviene confirmar el mismo día cómo lo presenta exactamente Shwi.
+El plato principal es el pollo a la parrilla libanés. Se trata de un pollo asado en espetón o a la brasa, muy cercano al shawarma, que bebe de la misma tradición callejera levantina que dio fama a Kubri y que suele acompañarse de salsa de ajo, encurtidos y pan plano. Eso sí, conviene comprobar en el momento cómo lo sirve exactamente Shwi.
 
-Más allá de eso, no hay datos concretos y confirmados aquí sobre el resto del menú, los precios ni el formato de las raciones, y los menús de los locales nuevos que se mueven rápido suelen cambiar en los primeros meses, así que conviene tomar como provisional cualquier precio o lista de platos que se vea en internet de segunda mano.
+Del resto de la carta, los precios y el tamaño de las raciones aún no hay datos confirmados aquí. Además, en las aperturas recientes y dinámicas la carta suele cambiar durante los primeros meses, de modo que cualquier precio o lista de platos que circule por internet debe tomarse como provisional.
 
-Lo que sí es más fiable: se trata de un local con formato de comida callejera, lo que significa servicio rápido, probablemente una combinación de mesas de barra y comida para llevar, y un enfoque en hacer muy bien una sola cosa —el pollo asado— en lugar de ofrecer un menú extenso.
+Hay algo más seguro: es un local con formato de comida callejera. Eso significa servicio rápido, probablemente una combinación de asientos en la barra y comida para llevar, y la apuesta por hacer muy bien una sola cosa, el pollo a la parrilla, en lugar de ofrecer una carta extensa.
 
 ## Cuándo ir
 
-El Canal Saint-Martin está en su mejor momento en una tarde despejada, cuando los muelles se llenan de gente almorzando sentada en los bordes de piedra junto al agua; el formato de Shwi encaja perfectamente con ese tipo de visita. Los almuerzos entre semana suelen ser más tranquilos que las tardes de fin de semana, cuando el canal recibe mucho tráfico de paseantes y los locales cercanos pueden formar cola rápidamente, sobre todo si se trata de algo recién popular.
+El Canal Saint-Martin luce en todo su esplendor las tardes despejadas, cuando los muelles se llenan de gente que almuerza sentada en los bordes de piedra junto al agua. El formato de Shwi encaja a la perfección con ese plan. A mediodía entre semana suele haber más calma que los fines de semana por la tarde. Esos días el canal recibe una gran afluencia de paseantes y en los locales cercanos se forman colas enseguida, sobre todo en los que acaban de ponerse de moda.
 
-Como Shwi abrió apenas en la primavera de 2026, es de esperar que el interés inicial se traduzca en colas en las horas punta —el almuerzo hacia el mediodía y, de nuevo, a primera hora de la noche— durante al menos el primer año. Si hay margen para elegir el horario, ir a almorzar temprano justo después de la apertura o hacer una visita a media tarde suele evitar lo peor de la afluencia.
+Shwi abrió en la primavera de 2026, así que es de esperar que la expectación inicial se traduzca en colas en las horas punta, hacia el mediodía y de nuevo a primera hora de la noche, al menos durante el primer año. Si puede elegir, almorzar temprano, justo después de la apertura, o ir a media tarde suele ser la mejor forma de evitar las peores esperas.
 
 ## Alrededores y consejos
 
-El corredor del Canal Saint-Martin es uno de los lugares de París donde más fácil resulta armar una tarde de paseo y buena mesa: los puentes de hierro del canal, el Hôtel du Nord (famoso por la película de Marcel Carné) y una serie de librerías independientes, bares de vino natural y tiendas vintage se encuentran todos a pocos minutos a pie.
+Pocos lugares de París se prestan tanto como el entorno del Canal Saint-Martin a una tarde de comer y callejear. A pocos minutos a pie se encuentran las pasarelas de hierro del canal, el Hôtel du Nord, célebre por la película de Marcel Carné, y toda una serie de librerías independientes, bares de vinos naturales y tiendas de ropa vintage. Para alargar el recorrido junto al agua, puede combinar la visita a Shwi con un paseo hacia el Square des Récollets o subir hasta el Bassin de la Villette.
 
-Se puede combinar la visita a Shwi con un paseo hacia el Square des Récollets o, para un recorrido más largo junto al agua, hacia el Bassin de la Villette.
-
-Al tratarse de un local joven y en plena evolución, conviene confirmar directamente antes de la visita los horarios actuales, si se aceptan reservas y cualquier detalle sobre el menú: los datos de los locales recién abiertos cambian rápido durante el primer año, y lo que es exacto en el momento de la apertura puede no seguir siéndolo seis meses después.
+Al tratarse de una apertura reciente que evoluciona deprisa, confirme directamente antes de ir el horario vigente, si admiten reservas y cualquier detalle de la carta. En los locales recién inaugurados, la información cambia con rapidez durante el primer año, y lo que es cierto en el lanzamiento puede dejar de serlo seis meses después.

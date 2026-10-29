@@ -14575,5 +14575,356 @@
       "getting": "蒂阿瑙没有客运铁路，也没有自己的大型商业机场，因此大多数旅行者会先飞往皇后镇机场（ZQN），再租车或乘巴士前往，沿6号和94号国道行驶约2小时即可到达。因弗卡吉尔机场也提供类似的陆路路线，从南边驱车前往同样约需2小时。",
       "days": "建议至少安排2到3天，足以游览萤火虫洞、体验一次湖上游船，并安排一日前往米尔福德峡湾；如果你打算挑战附近的某条\"大徒步径\"，则需要预留更多时间。"
     }
+  },
+  "Angeles City": {
+    "en": {
+      "blurb": "Angeles City is best known as the gateway to Clark Freeport Zone and for its round-the-clock nightlife strip along Fields Avenue, a legacy of its decades as home to the former U.S. Clark Air Base. It now mixes casinos, duty-free shopping and expat bars with a growing reputation as a base for exploring Pampanga's volcanoes and culinary scene.",
+      "getting": "Most travellers fly into Clark International Airport (CRK), which sits on the edge of the city within the Clark Freeport Zone, then take a metered taxi or the P2P bus into central Angeles City in around ~15 to 30 minutes. Travellers arriving at Manila's main airport (NAIA) instead take a long-distance bus north along the expressway, a journey of roughly ~2 to 3 hours.",
+      "days": "Plan on ~2 to 3 days to cover the nightlife district, Clark's duty-free and casino zone, and a day trip into Pampanga's surrounding countryside."
+    },
+    "ko": {
+      "blurb": "앙헬레스 시티는 클락 자유무역지대(Clark Freeport Zone)로 가는 관문이자, 필즈 애비뉴(Fields Avenue)를 따라 밤새도록 불이 꺼지지 않는 유흥가로 유명하다. 이는 과거 수십 년간 미군 클락 공군기지가 주둔했던 역사의 흔적이기도 하다. 지금은 카지노와 면세 쇼핑, 외국인들이 즐겨 찾는 바들이 뒤섞여 있으며, 팜팡가의 화산과 미식 여행을 즐기기 위한 거점 도시로도 점점 주목받고 있다.",
+      "getting": "대부분의 여행객은 클락 국제공항(CRK)을 이용해 입국하는데, 이 공항은 클락 자유무역지대 내 도시 외곽에 자리하고 있다. 공항에서는 미터제 택시나 P2P 버스를 타면 약 15~30분 만에 앙헬레스 시티 중심부에 도착할 수 있다. 반면 마닐라의 주요 공항인 니노이 아키노 국제공항(NAIA)으로 입국한 여행객은 고속도로를 따라 북쪽으로 장거리 버스를 타야 하며, 이동 시간은 대략 2~3시간 정도 걸린다.",
+      "days": "유흥가 지구와 클락의 면세·카지노 구역을 둘러보고 팜팡가 주변 시골 지역으로 당일치기 여행을 다녀오려면 약 2~3일 정도 일정을 잡는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "アンヘレス市は、クラーク・フリーポート・ゾーンへの玄関口として、またフィールズ・アベニュー沿いに広がる昼夜を問わない歓楽街として知られています。これは、かつて米軍のクラーク空軍基地が置かれていた時代から続く名残でもあります。現在ではカジノや免税ショッピング、外国人向けのバーが立ち並ぶ一方、パンパンガ州の火山群やグルメを巡る拠点としても注目を集めつつあります。",
+      "getting": "多くの旅行者はクラーク国際空港(CRK)を利用します。空港は市の外れ、クラーク・フリーポート・ゾーン内に位置しており、そこからメータータクシーやP2Pバスでアンヘレス市中心部まで約15~30分ほどで到着します。一方、マニラの主要空港(NAIA)に到着した場合は、高速道路を北上する長距離バスに乗り換える必要があり、所要時間はおよそ2~3時間です。",
+      "days": "歓楽街の散策、クラークの免税店やカジノエリア巡り、そしてパンパンガ州郊外への日帰り旅行を含めると、滞在日数の目安は2~3日程度です。"
+    },
+    "es": {
+      "blurb": "Angeles City es conocida sobre todo como la puerta de entrada a Clark Freeport Zone y por su animada vida nocturna, activa las 24 horas a lo largo de Fields Avenue, un legado de las décadas en que albergó la antigua base aérea estadounidense Clark Air Base. Hoy combina casinos, tiendas libres de impuestos y bares frecuentados por expatriados, y se ha ganado cada vez más fama como base para explorar los volcanes y la escena gastronómica de Pampanga.",
+      "getting": "La mayoría de los viajeros llega por el Aeropuerto Internacional de Clark (CRK), ubicado en las afueras de la ciudad, dentro de la Clark Freeport Zone, desde donde toman un taxi con taxímetro o el autobús P2P hacia el centro de Angeles City en unos ~15 a 30 minutos. Quienes llegan al aeropuerto principal de Manila (NAIA) deben tomar en cambio un autobús de larga distancia hacia el norte por la autopista, un trayecto de aproximadamente ~2 a 3 horas.",
+      "days": "Se recomienda planear entre ~2 y 3 días para recorrer la zona de vida nocturna, el área de tiendas libres de impuestos y casinos de Clark, además de una excursión de un día por el campo que rodea Pampanga."
+    },
+    "zh": {
+      "blurb": "安吉利斯市最广为人知的身份,是通往克拉克经济自由区的门户,以及沿菲尔兹大道（Fields Avenue）全天候运转的夜生活长廊——这一切都是当年作为美国克拉克空军基地所在地留下的历史印记。如今，这里融合了赌场、免税购物和外籍人士酒吧，同时也逐渐成为探索邦板牙省（Pampanga）火山风光与特色美食的理想据点。",
+      "getting": "大多数旅客会飞抵克拉克国际机场（CRK），该机场就位于城市边缘的克拉克经济自由区内，之后可乘坐计价出租车或P2P巴士前往安吉利斯市中心，车程约15至30分钟。若是从马尼拉主要机场（NAIA）入境，则需改乘长途巴士沿高速公路北上，车程大约需要2至3小时。",
+      "days": "建议安排约2至3天时间，用来游览夜生活区、克拉克的免税购物与赌场区，并抽一天前往邦板牙省周边乡村一日游。"
+    }
+  },
+  "Assago": {
+    "en": {
+      "blurb": "Assago is a satellite town just southwest of Milan, best known as home to the Mediolanum Forum, one of Italy's largest indoor arenas for concerts, basketball and ice events. Beyond the arena, it is largely a modern business and residential district rather than a historic destination, functioning as an easy day-trip extension of Milan rather than a standalone base.",
+      "getting": "Assago is reached directly via Milan's M2 (green) metro line, which terminates at the Assago Milanofiori Forum station, a short walk from the arena. Travellers flying into Malpensa or Linate airports typically ride a train or bus into central Milan (to hubs like Cadorna or Centrale) and then connect onto the M2 southbound.",
+      "days": "A few hours, or at most a single day, is enough to cover Assago, since most visits centre on a specific event at the Forum rather than extended sightseeing."
+    },
+    "ko": {
+      "blurb": "아사고는 밀라노 남서쪽에 자리한 위성 도시로, 콘서트와 농구, 아이스 이벤트 등을 위한 이탈리아 최대 규모의 실내 경기장 중 하나인 메디올라눔 포럼이 있는 곳으로 가장 잘 알려져 있다. 이 경기장을 제외하면 역사적인 볼거리가 있는 관광지라기보다는 현대적인 비즈니스 및 주거 지역에 가까워서, 독립적인 여행 거점이라기보다 밀라노에서 손쉽게 다녀올 수 있는 당일치기 연장 코스로 기능한다.",
+      "getting": "아사고는 밀라노의 M2(녹색) 지하철 노선을 타면 바로 갈 수 있으며, 이 노선은 경기장에서 도보로 얼마 걸리지 않는 아사고 밀라노피오리 포럼(Assago Milanofiori Forum) 역에서 종착한다. 말펜사나 리나테 공항으로 입국하는 여행자는 보통 기차나 버스를 타고 먼저 밀라노 시내(카도르나나 첸트랄레 같은 주요 거점)로 이동한 뒤, 그곳에서 M2 남행 열차로 갈아탄다.",
+      "days": "아사고를 둘러보는 데는 몇 시간, 길어야 하루면 충분한데, 이는 대부분의 방문이 폭넓은 관광보다는 포럼에서 열리는 특정 행사를 중심으로 이루어지기 때문이다."
+    },
+    "ja": {
+      "blurb": "アッサーゴはミラノの南西に位置するベッドタウンで、コンサートやバスケットボール、アイスイベントなどが開催されるイタリア最大級の室内アリーナ「メディオラヌム・フォーラム」があることで知られています。このアリーナを除けば、歴史的な見どころが点在する観光地というよりは、オフィスや住宅が立ち並ぶ現代的なエリアで、単独の滞在先というよりミラノからの日帰り旅行先として訪れるのに向いています。",
+      "getting": "アッサーゴへはミラノのM2線（緑色）で直接アクセスでき、終点のアッサーゴ・ミラノフィオーリ・フォーラム駅からアリーナまでは徒歩すぐです。マルペンサ空港やリナーテ空港から向かう場合は、まず電車やバスでミラノ中心部（カドルナ駅やチェントラーレ駅など）へ出て、そこからM2線の南行きに乗り換えるのが一般的です。",
+      "days": "アッサーゴの観光は数時間、長くても1日あれば十分です。訪れる人の多くはフォーラムでの特定のイベント目当てであり、じっくり観光して回るような場所ではないためです。"
+    },
+    "es": {
+      "blurb": "Assago es una localidad satélite ubicada justo al suroeste de Milán, conocida sobre todo por albergar el Mediolanum Forum, uno de los recintos cubiertos más grandes de Italia para conciertos, baloncesto y eventos sobre hielo. Más allá del pabellón, se trata en gran medida de una zona residencial y de negocios moderna, sin mayor atractivo histórico, por lo que funciona como una práctica extensión de una excursión de un día desde Milán más que como un destino en sí mismo.",
+      "getting": "Se llega a Assago directamente a través de la línea M2 (verde) del metro de Milán, que finaliza en la estación Assago Milanofiori Forum, a pocos pasos del recinto. Quienes lleguen en avión a los aeropuertos de Malpensa o Linate suelen tomar un tren o autobús hasta el centro de Milán (hacia terminales como Cadorna o Centrale) y luego hacer transbordo a la línea M2 en dirección sur.",
+      "days": "Unas pocas horas, o como mucho un día completo, son suficientes para conocer Assago, ya que la mayoría de las visitas giran en torno a un evento concreto en el Forum y no a un recorrido turístico extenso."
+    },
+    "zh": {
+      "blurb": "阿萨戈是位于米兰西南郊的一座卫星城，最为人熟知的是梅迪奥拉农论坛（Mediolanum Forum）——意大利规模最大的室内场馆之一，常举办演唱会、篮球赛和冰上项目。除了这座场馆之外，阿萨戈本身并没有太多历史看点，更多是一片现代化的商业与居住区，适合作为米兰一日游的延伸，而不太适合单独作为旅行据点。",
+      "getting": "从米兰出发，乘坐M2号线（绿线）地铁可直达阿萨戈，终点站Assago Milanofiori Forum距离场馆仅几步之遥。若是从马尔彭萨（Malpensa）或利纳特（Linate）机场抵达，通常需要先乘火车或巴士前往米兰市区（如Cadorna或Centrale等枢纽站），再换乘M2线南下前往阿萨戈。",
+      "days": "游览阿萨戈通常只需几个小时，最多一天就足够了，因为大多数人到访此地都是为了参加论坛场馆举办的特定活动，而非长时间观光。"
+    }
+  },
+  "Batnorov": {
+    "en": {
+      "blurb": "Batnorov is a remote herding district in Khentii Province, eastern Mongolia, where open steppe, horse culture and nomadic ger camps define daily life far from any paved highway. It is best known beyond the region for its annual winter horse festival, which draws visitors keen to see traditional Mongolian horsemanship in a genuinely rural setting.",
+      "getting": "There is no airport or railway in Batnorov itself, so travellers reach it overland by road from Ulaanbaatar, usually via Chinggis city (the Khentii provincial centre), with Öndörkhaan serving as the nearest airfield in the province. The drive from Ulaanbaatar covers roughly 430 km and typically takes most of a day by private vehicle or hired driver.",
+      "days": "Allow ~2-4 days: one day each way for the journey from Ulaanbaatar, plus at least a day in Batnorov to experience the ger camps, horse culture and surrounding countryside."
+    },
+    "ko": {
+      "blurb": "바트노로브는 몽골 동부 헨티 아이막에 자리한 외딴 유목 지역으로, 드넓은 초원과 말 문화, 그리고 유목민들의 게르 캠프가 포장도로와는 거리가 먼 이곳 사람들의 일상을 그대로 보여줍니다. 이 지역이 외부에 가장 널리 알려진 이유는 매년 열리는 겨울 말 축제 덕분으로, 진정한 시골 풍경 속에서 펼쳐지는 전통 몽골 기마술을 보기 위해 많은 방문객들이 이곳을 찾습니다.",
+      "getting": "바트노로브에는 공항이나 철도가 없기 때문에, 여행자들은 울란바토르에서 육로로 이동해야 하며, 보통 헨티 아이막의 중심 도시인 칭기스를 경유합니다. 이 지역에서 가장 가까운 비행장은 운두르한에 있습니다. 울란바토르에서부터의 이동 거리는 약 430km로, 자가용이나 기사를 고용한 차량으로 대개 하루 대부분을 소요합니다.",
+      "days": "대략 2~4일 정도를 잡으시면 됩니다: 울란바토르에서 오가는 데 각각 하루씩, 그리고 바트노로브에 머물며 게르 캠프와 말 문화, 주변 시골 풍경을 둘러보는 데 최소 하루가 필요합니다."
+    },
+    "ja": {
+      "blurb": "バトノロヴは、モンゴル東部ヘンティー県にある辺境の牧畜地区で、舗装道路から遠く離れた広大なステップ、馬の文化、そして遊牧民のゲルキャンプが日々の暮らしを形づくっています。地域外でその名を知られているのは、毎年冬に開催される馬祭りのおかげで、昔ながらのモンゴル式乗馬技術を本物の田舎の風景の中で見ようと、多くの旅行者が訪れます。",
+      "getting": "バトノロヴ自体には空港も鉄道もないため、旅行者はウランバートルから陸路で向かうことになります。通常はヘンティー県の中心地であるチンギス市を経由し、県内で最も近い飛行場はウンドゥルハーンにあります。ウランバートルからの道のりはおよそ430kmで、自家用車または運転手付きの車を利用すると、通常はほぼ丸一日かかります。",
+      "days": "目安として2〜4日みておきましょう。ウランバートルからの往復にそれぞれ1日ずつかかり、さらにバトノロヴでゲルキャンプや馬の文化、周辺の田園地帯を楽しむために少なくとも1日は必要です。"
+    },
+    "es": {
+      "blurb": "Batnorov es un remoto distrito ganadero de la provincia de Khentii, en el este de Mongolia, donde la estepa abierta, la cultura ecuestre y los campamentos nómadas de gers marcan el ritmo de la vida cotidiana, lejos de cualquier carretera asfaltada. Más allá de la región, es conocido sobre todo por su festival invernal de caballos, que atrae a visitantes deseosos de presenciar la auténtica equitación tradicional mongola en un entorno genuinamente rural.",
+      "getting": "Batnorov no cuenta con aeropuerto ni ferrocarril propios, por lo que se llega por carretera desde Ulán Bator, generalmente pasando por la ciudad de Chinggis (capital de la provincia de Khentii), siendo Öndörkhaan el aeródromo más cercano en la provincia. El trayecto desde Ulán Bator cubre unos 430 km y suele ocupar casi todo un día en vehículo privado o con chófer contratado.",
+      "days": "Se recomienda entre 2 y 4 días: uno de ida y otro de vuelta para el trayecto desde Ulán Bator, más al menos un día en Batnorov para disfrutar de los campamentos de gers, la cultura ecuestre y el paisaje circundante."
+    },
+    "zh": {
+      "blurb": "巴特诺洛夫（Batnorov）是蒙古国东部肯特省（Khentii Province）一个偏远的游牧地区，广袤的草原、马背文化和逐水草而居的蒙古包营地构成了当地人远离铺装公路的日常生活。这里在区域之外最为人所知的，是每年冬季举办的赛马节，吸引着众多游客前来，在原汁原味的乡村环境中领略传统蒙古马术的风采。",
+      "getting": "巴特诺洛夫本地没有机场或铁路，因此游客需要从乌兰巴托（Ulaanbaatar）走陆路前往，通常会途经成吉思市（Chinggis，肯特省的省会），而省内最近的机场则在温都尔汗（Öndörkhaan）。从乌兰巴托出发的车程约430公里，乘坐私家车或雇用司机通常需要大半天时间。",
+      "days": "建议安排2-4天行程：往返乌兰巴托各需一天车程，再加上至少一天时间留在巴特诺洛夫，体验蒙古包营地、马背文化和周边的乡野风光。"
+    }
+  },
+  "Belek": {
+    "en": {
+      "blurb": "Belek is Turkey's golf capital, a stretch of Mediterranean coastline where pine forests give way to championship fairways and five-star all-inclusive resorts. Along this same strip of Turkish Riviera sand, golfers, families and spa-seekers share a coastline that was purpose-built for holidaymaking rather than grown into it.",
+      "getting": "Belek is reached via Antalya Airport (AYT), the nearest air hub, with most travellers taking a taxi, private transfer or rental car for the ~30 to 40 minute road journey. Budget travellers can take a bus to Antalya's main bus terminal and change onto a connecting service towards Belek or Serik, though this takes longer and runs on a less predictable schedule.",
+      "days": "Two to four days suits a beach-and-pool break, while golfers planning to play multiple courses typically stay closer to a week."
+    },
+    "ko": {
+      "blurb": "벨렉은 튀르키예 골프의 수도라 할 수 있는 곳으로, 소나무 숲이 챔피언십급 페어웨이와 5성급 올인클루시브 리조트로 이어지는 지중해 연안의 휴양지입니다. 튀르키예 리비에라의 이 모래 해안을 따라 골퍼, 가족 여행객, 스파를 찾는 이들이 한데 어우러지는데, 이곳은 자연스럽게 발전한 해변이 아니라 처음부터 휴양을 위해 설계된 곳입니다.",
+      "getting": "벨렉에 가려면 가장 가까운 공항인 안탈리아 공항(AYT)을 이용하는 것이 일반적이며, 대부분의 여행객은 택시, 프라이빗 transfer, 또는 렌터카로 약 30~40분 거리를 이동합니다. 예산을 아끼려는 여행객이라면 버스를 타고 안탈리아 중앙 버스터미널까지 간 뒤 벨렉이나 세리크 방면 환승 버스를 이용할 수 있지만, 시간이 더 걸리고 배차 간격도 일정하지 않은 편입니다.",
+      "days": "해변과 수영장을 즐기는 휴식이 목적이라면 2~4일이면 충분하지만, 여러 골프 코스를 돌아볼 계획이라면 보통 일주일 가까이 머무는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "ベレクはトルコが誇るゴルフの聖地。地中海沿岸に広がる松林の先には、チャンピオンシップコースと五つ星のオールインクルーシブリゾートが並ぶ。このトルコ・リビエラの一帯は、自然に観光地化したのではなく、最初から「休暇を過ごすための場所」として作り上げられたビーチで、ゴルファーも家族連れもスパ目当ての旅行者も、同じ海岸線を思い思いに楽しんでいる。",
+      "getting": "ベレクへの玄関口はアンタルヤ空港(AYT)。多くの旅行者はここからタクシーや専用送迎車、レンタカーを利用し、約30〜40分かけて陸路で向かう。予算を抑えたい場合は、バスでアンタルヤの中央バスターミナルまで行き、そこからベレクまたはセリク方面行きの便に乗り継ぐ方法もあるが、所要時間は長くなり、運行スケジュールもやや不規則になる。",
+      "days": "ビーチとプールでのんびり過ごすなら2〜4日が目安。複数のコースを回りたいゴルファーなら、1週間近く滞在するのが一般的だ。"
+    },
+    "es": {
+      "blurb": "Belek es la capital del golf en Turquía, un tramo de costa mediterránea donde los bosques de pinos dan paso a fairways de categoría mundial y a resorts todo incluido de cinco estrellas. A lo largo de esta misma franja de arena de la Riviera turca, golfistas, familias y amantes del spa comparten una costa concebida desde el principio para las vacaciones, y no convertida en destino turístico con el tiempo.",
+      "getting": "Para llegar a Belek hay que pasar por el aeropuerto de Antalya (AYT), el aeropuerto más cercano, desde donde la mayoría de los viajeros toma un taxi, un traslado privado o un coche de alquiler para recorrer los 30 a 40 minutos de trayecto por carretera. Los viajeros con presupuesto ajustado pueden tomar un autobús hasta la terminal principal de Antalya y hacer transbordo a un servicio con destino a Belek o Serik, aunque este trayecto es más largo y los horarios son menos fiables.",
+      "days": "De dos a cuatro días son suficientes para unas vacaciones de playa y piscina, mientras que los golfistas que planean jugar en varios campos suelen quedarse casi una semana."
+    },
+    "zh": {
+      "blurb": "贝莱克是土耳其的高尔夫之都,这片地中海沿岸地区,松林向冠军级球道和五星级全包度假村延伸开去。在这同一段土耳其里维埃拉的沙滩上,高尔夫球手、家庭游客和水疗爱好者共享着这片海岸——它并非自然发展而来,而是专为度假而精心打造的。",
+      "getting": "前往贝莱克最便捷的方式是经由最近的空中枢纽安塔利亚机场(AYT),大多数游客会选择出租车、私人接送服务或租车,路程约30至40分钟。预算有限的游客可以先乘巴士到安塔利亚主汽车站,再换乘开往贝莱克或塞里克方向的班车,不过这种方式耗时更长,班次也不太固定。",
+      "days": "如果只是享受沙滩与泳池的悠闲时光,两到四天就足够了;而计划体验多个球场的高尔夫爱好者,通常会安排将近一周的行程。"
+    }
+  },
+  "Cebu City": {
+    "en": {
+      "blurb": "Cebu City is the oldest city in the Philippines and the de facto capital of the Visayas, a dense sprawl of colonial-era churches, forts and cathedrals wedged between modern malls and a busy harbour. It serves as the main gateway for island-hopping across the central Philippines, from Bohol's hills to the diving spots off Moalboal and Malapascua.",
+      "getting": "Most travellers arrive via Mactan-Cebu International Airport (CEB), located on Mactan Island and linked to the city by bridges across the Mactan Channel. From there, taxis, ride-hailing apps or airport shuttle buses cross one of the bridges into central Cebu City, a trip that typically takes ~30 to 90 minutes depending on traffic.",
+      "days": "Plan on ~2 to 3 days to cover the historic core, markets and waterfront, enough time before heading onward to Cebu province's beaches and neighbouring islands."
+    },
+    "ko": {
+      "blurb": "세부 시티는 필리핀에서 가장 오래된 도시이자 비사야 제도의 실질적인 수도로, 식민지 시대의 성당과 요새, 교회들이 현대적인 쇼핑몰과 분주한 항구 사이에 빽빽하게 들어서 있다. 보홀의 구릉지대부터 모알보알과 말라파스쿠아의 다이빙 명소에 이르기까지, 필리핀 중부 전역을 섬 투어로 둘러보기 위한 주요 관문 역할을 한다.",
+      "getting": "대부분의 여행자는 막탄 섬에 위치한 막탄-세부 국제공항(CEB)을 통해 입국하며, 이곳은 막탄 해협을 가로지르는 다리들로 시내와 연결되어 있다. 공항에서는 택시, 차량 호출 앱 또는 공항 셔틀버스를 이용해 다리를 건너 세부 시티 중심부로 이동할 수 있으며, 교통 상황에 따라 보통 30분에서 90분 정도 소요된다.",
+      "days": "역사 지구와 시장, 해안가를 둘러보는 데 약 2~3일 정도를 계획하면 충분하며, 이후 세부 주의 해변과 인근 섬들로 이동하기에도 알맞은 일정이다."
+    },
+    "ja": {
+      "blurb": "セブ市はフィリピン最古の都市であり、ビサヤ地方の事実上の中心地だ。近代的なショッピングモールや活気ある港に挟まれるようにして、スペイン統治時代の教会、要塞、大聖堂が密集して建ち並んでいる。ボホール島の丘陵地帯から、モアルボアルやマラパスクア沖のダイビングスポットまで、フィリピン中部の島々を巡る旅の玄関口としての役割を担っている。",
+      "getting": "多くの旅行者はマクタン島にあるマクタン・セブ国際空港(CEB)から入国する。空港とセブ市街は、マクタン海峡に架かる橋でつながっている。空港からはタクシー、配車アプリ、空港シャトルバスなどを利用し、橋を渡ってセブ市中心部へ向かう。所要時間は交通状況により、おおよそ30分から90分程度だ。",
+      "days": "歴史地区、市場、海沿いのエリアを巡るには2〜3日程度を見ておくとよい。その後はセブ州のビーチや周辺の島々へ足を延ばすのに十分な時間が取れるはずだ。"
+    },
+    "es": {
+      "blurb": "Cebú es la ciudad más antigua de Filipinas y la capital de facto de las Visayas, un denso entramado de iglesias, fuertes y catedrales de la época colonial encajado entre centros comerciales modernos y un concurrido puerto. Funciona como la principal puerta de entrada para recorrer las islas del centro de Filipinas, desde las colinas de Bohol hasta los puntos de buceo frente a Moalboal y Malapascua.",
+      "getting": "La mayoría de los viajeros llega a través del Aeropuerto Internacional de Mactán-Cebú (CEB), ubicado en la isla de Mactán y conectado con la ciudad mediante puentes que cruzan el canal de Mactán. Desde allí, taxis, aplicaciones de transporte o autobuses lanzadera del aeropuerto cruzan uno de los puentes hacia el centro de Cebú, un trayecto que suele durar entre 30 y 90 minutos según el tráfico.",
+      "days": "Conviene calcular entre 2 y 3 días para recorrer el casco histórico, los mercados y el malecón, tiempo suficiente antes de continuar hacia las playas de la provincia de Cebú y las islas vecinas."
+    },
+    "zh": {
+      "blurb": "宿务市是菲律宾历史最悠久的城市,也是米沙鄢群岛名副其实的首府。殖民时期的教堂、城堡与大教堂鳞次栉比,与现代化商场和繁忙的港口交错相间,构成一幅密集而独特的城市景象。作为前往菲律宾中部各岛屿的主要门户,宿务市连接着从薄荷岛起伏的丘陵,到莫阿尔博阿尔和马拉帕斯夸附近潜水胜地的诸多目的地。",
+      "getting": "大多数旅客通过麦克坦-宿务国际机场(CEB)抵达,该机场位于麦克坦岛上,经跨越麦克坦海峡的几座大桥与市区相连。从机场出发,可乘坐出租车、网约车或机场穿梭巴士经由其中一座大桥前往宿务市中心,车程视交通状况而定,通常约需30到90分钟。",
+      "days": "建议安排约2到3天时间游览历史城区、市场及海滨地带,之后还有充足时间前往宿务省的海滩及周边岛屿继续行程。"
+    }
+  },
+  "Chonburi": {
+    "en": {
+      "blurb": "Chonburi is the beachside province closest to Bangkok, anchored by a bustling provincial capital and home to the sprawling resort sprawl of Pattaya along its coast. It blends an industrial port city feel with seaside escapism, from fresh seafood markets to the kitsch and nightlife that have made the coastline famous.",
+      "getting": "The usual approach is by bus from Suvarnabhumi Airport's bus terminal, reached via a free shuttle from the arrival hall, with the ride to Chonburi taking roughly ~2 hours. Travellers can also take the State Railway of Thailand's Eastern Line train, which connects Bangkok's rail network to Chonburi station in around ~2 to 3 hours.",
+      "days": "Most visitors allow 2 to 4 days, enough time to cover both the provincial capital's old town and markets and a few days relaxing along the Pattaya coast."
+    },
+    "ko": {
+      "blurb": "촌부리는 방콕에서 가장 가까운 해변 지역으로, 활기찬 주도(州都)를 중심으로 해안을 따라 광활하게 뻗은 파타야 리조트 지대를 품고 있다. 신선한 해산물 시장부터 해안가를 유명하게 만든 키치한 볼거리와 나이트라이프까지, 산업 항구 도시의 분위기와 해변 휴양지 특유의 일탈감이 공존하는 곳이다.",
+      "getting": "가장 일반적인 방법은 수완나품 공항에서 버스를 이용하는 것으로, 도착 홀에서 무료 셔틀을 타고 버스 터미널로 이동한 뒤 촌부리까지 약 2시간 정도 걸린다. 태국 국영철도(State Railway of Thailand)의 동부선 열차를 이용할 수도 있는데, 방콕 철도망과 연결되어 촌부리역까지 약 2~3시간이 소요된다.",
+      "days": "대부분의 여행자는 2~4일 정도를 할애하며, 이 정도면 주도의 구시가지와 시장을 둘러보고 며칠간 파타야 해안에서 여유를 즐기기에 충분하다."
+    },
+    "ja": {
+      "blurb": "チョンブリーはバンコクに最も近いビーチ沿いの県で、活気ある県都を中心に、海岸沿いには広大なリゾート地パタヤが広がっている。新鮮なシーフード市場から、海岸線を一躍有名にしたキッチュな雰囲気やナイトライフまで、工業港湾都市らしさと海辺のリゾート気分が入り混じったエリアだ。",
+      "getting": "一般的なアクセス方法は、スワンナプーム空港のバスターミナルから出るバスを利用する方法で、ターミナルへは到着ロビーから無料シャトルで向かう。チョンブリーまでの所要時間はおよそ2時間ほど。また、タイ国鉄の東線列車を利用すれば、バンコクの鉄道網からチョンブリー駅まで約2〜3時間で結ばれている。",
+      "days": "多くの旅行者は2〜4日程度の滞在を見込んでおり、県都の旧市街や市場を巡りつつ、残りの日数をパタヤの海岸でのんびり過ごすには十分な時間となる。"
+    },
+    "es": {
+      "blurb": "Chonburi es la provincia costera más cercana a Bangkok, con una bulliciosa capital provincial como eje y hogar de la extensa zona turística de Pattaya a lo largo de su litoral. Combina el ambiente de ciudad portuaria industrial con el escapismo costero, desde mercados de mariscos frescos hasta el kitsch y la vida nocturna que han hecho famosa a esta costa.",
+      "getting": "La forma más habitual de llegar es en autobús desde la terminal de buses del aeropuerto de Suvarnabhumi, a la que se accede mediante un traslado gratuito desde la sala de llegadas, con un trayecto de aproximadamente ~2 horas hasta Chonburi. Los viajeros también pueden tomar el tren de la Línea Oriental de los Ferrocarriles Estatales de Tailandia, que conecta la red ferroviaria de Bangkok con la estación de Chonburi en unas ~2 a 3 horas.",
+      "days": "La mayoría de los visitantes reserva entre 2 y 4 días, tiempo suficiente para recorrer tanto el casco antiguo y los mercados de la capital provincial como para disfrutar de unos días de relax en la costa de Pattaya."
+    },
+    "zh": {
+      "blurb": "春武里府是离曼谷最近的海滨府,以热闹繁忙的府城为中心,沿海一带则是规模庞大的芭提雅度假区。这里既有工业港口城市的烟火气,又有尽情享受海边生活的惬意,从新鲜海鲜市场到让这段海岸线声名远播的浮华夜生活,应有尽有。",
+      "getting": "最常见的方式是从素万那普机场的巴士总站乘坐巴士前往,机场航站楼内有免费接驳车可直达总站,车程约2小时左右。旅客也可以选择泰国国家铁路东线列车,从曼谷铁路网衔接至春武里站,车程约2到3小时。",
+      "days": "大多数游客会安排2到4天的行程,这样的时间足以逛遍府城的老城区和各大市场,还能在芭提雅海岸悠闲度过几天。"
+    }
+  },
+  "Gisborne": {
+    "en": {
+      "blurb": "Gisborne sits at the easternmost point of New Zealand's North Island, on Poverty Bay, and is famously the first city in the world to see the sunrise each day. It's a laid-back surf and wine region known for its warm climate, Māori heritage as one of Captain Cook's first landing sites, and some of the country's sunniest weather.",
+      "getting": "Gisborne Airport (GIS) has domestic flights to Auckland and Wellington with Air New Zealand, with the flight from Auckland taking around 1 hour. There's no passenger rail service to Gisborne, so overland travellers rely on InterCity coaches from Auckland, Rotorua or Wellington, a journey of roughly 10 hours by direct bus.",
+      "days": "Allow ~3 to 4 days to cover the city's beaches, wineries and Cook landing sites at a relaxed pace, or longer if combining it with the wider East Cape road trip."
+    },
+    "ko": {
+      "blurb": "기즈번은 뉴질랜드 북섬의 최동단, 포버티만(Poverty Bay)에 자리한 도시로, 매일 세계에서 가장 먼저 해돋이를 맞이하는 곳으로 유명합니다. 따뜻한 기후와 여유로운 서핑·와인 문화로 알려져 있으며, 쿡 선장이 처음 상륙한 지역 중 하나로 마오리족의 유산이 깊이 서려 있고, 뉴질랜드에서도 손꼽히게 햇살이 풍부한 지역입니다.",
+      "getting": "기즈번 공항(GIS)에서는 에어 뉴질랜드가 오클랜드와 웰링턴으로 가는 국내선을 운항하며, 오클랜드에서 출발하는 비행시간은 약 1시간입니다. 기즈번까지는 여객 철도가 없어서, 육로로 이동하는 여행객들은 오클랜드, 로토루아, 웰링턴에서 출발하는 인터시티(InterCity) 버스를 이용하며, 직행버스 기준 약 10시간이 소요됩니다.",
+      "days": "해변과 와이너리, 쿡 선장 상륙지를 여유롭게 둘러보려면 3~4일 정도를 잡는 것이 좋고, 이스트 케이프(East Cape) 로드트립과 함께 묶어서 여행한다면 그보다 더 길게 일정을 잡는 것을 추천합니다."
+    },
+    "ja": {
+      "blurb": "ギズボーンはニュージーランド北島の最東端、ポバティ湾に面した街で、世界で最も早く日の出を迎える都市として知られています。温暖な気候とのんびりとしたサーフ&ワインの産地という雰囲気に加え、クック船長が最初に上陸した地のひとつとしてマオリの歴史的背景も色濃く残り、国内でも屈指の晴天率を誇るエリアです。",
+      "getting": "ギズボーン空港(GIS)からはエア・ニュージーランドによる国内線がオークランドとウェリントンへ就航しており、オークランドからのフライトは約1時間です。ギズボーンには鉄道の旅客サービスがないため、陸路で訪れる場合はオークランド、ロトルア、ウェリントンからのインターシティ(InterCity)の長距離バスが頼りとなり、直行便でも所要時間は約10時間かかります。",
+      "days": "市内のビーチやワイナリー、クック船長ゆかりの上陸地をゆったり巡るなら3〜4日程度を見ておくとよいでしょう。イースト・ケープ一帯のロードトリップと組み合わせる場合は、さらに日数をプラスするのがおすすめです。"
+    },
+    "es": {
+      "blurb": "Gisborne se encuentra en el punto más oriental de la Isla Norte de Nueva Zelanda, a orillas de la bahía de Poverty Bay, y tiene la particularidad de ser la primera ciudad del mundo en ver el amanecer cada día. Es una región de surf y viñedos de ambiente relajado, conocida por su clima cálido, su herencia maorí como uno de los primeros lugares donde desembarcó el capitán Cook, y por tener algunos de los días más soleados de todo el país.",
+      "getting": "El aeropuerto de Gisborne (GIS) ofrece vuelos domésticos a Auckland y Wellington operados por Air New Zealand, con un trayecto desde Auckland de aproximadamente 1 hora. Gisborne no cuenta con servicio de tren de pasajeros, por lo que quienes viajan por tierra dependen de los autobuses de InterCity desde Auckland, Rotorua o Wellington, un trayecto directo de unas 10 horas.",
+      "days": "Se recomienda dedicar entre 3 y 4 días para recorrer con calma las playas, bodegas y los lugares vinculados al desembarco de Cook, o más tiempo si se combina con un recorrido más amplio por la East Cape."
+    },
+    "zh": {
+      "blurb": "吉斯伯恩（Gisborne）坐落在新西兰北岛最东端的波弗蒂湾（Poverty Bay）畔，因是全球每天最早迎来日出的城市而闻名。这里气候温暖，拥有全国最充足的阳光，是一处悠闲惬意的冲浪与葡萄酒产区，同时也是库克船长（Captain Cook）最早登陆新西兰的地点之一，承载着深厚的毛利文化底蕴。",
+      "getting": "吉斯伯恩机场（GIS）有新西兰航空（Air New Zealand）运营的国内航班往返奥克兰和惠灵顿，从奥克兰出发的航程约1小时。吉斯伯恩没有客运铁路服务，因此陆路出行主要依靠InterCity长途巴士，从奥克兰、罗托鲁瓦（Rotorua）或惠灵顿出发，直达车程约需10小时。",
+      "days": "建议安排约3到4天时间，以轻松的节奏游览市区海滩、酒庄以及库克船长登陆地等景点；若想顺道游览更广阔的东角（East Cape）公路之旅，则需更长时间。"
+    }
+  },
+  "Göreme": {
+    "en": {
+      "blurb": "Göreme sits at the heart of Cappadocia's fairy chimney landscape, a UNESCO World Heritage site where Byzantine churches were carved directly into volcanic rock and many hotels still occupy cave rooms. The village is best known as the launch point for sunrise hot air balloon flights that drift over the surrounding valleys, and as the gateway to the Göreme Open Air Museum's rock-cut monasteries.",
+      "getting": "There is no airport in Göreme itself: travellers fly into either Nevşehir Kapadokya Airport (NAV), ~40 km away, or Kayseri Erkilet Airport (ASR), ~75 to 80 km away, then continue by shared shuttle, private transfer or taxi, with the road journey taking roughly 40 minutes from Nevşehir or over an hour from Kayseri. Both airports lack rail links, so the final leg into Göreme is always by road.",
+      "days": "Plan on ~2 to 3 days to cover a sunrise balloon flight (weather permitting), the Open Air Museum, and at least one valley walk among the fairy chimneys."
+    },
+    "ko": {
+      "blurb": "괴레메는 카파도키아의 요정 굴뚝 지형 한가운데 자리한 유네스코 세계문화유산 마을로, 비잔틴 시대 교회들이 화산암을 그대로 깎아 만들어졌으며 지금도 많은 호텔이 동굴 객실을 그대로 사용하고 있다. 이 마을은 주변 계곡 위를 떠다니는 일출 열기구 비행의 출발지로, 그리고 암굴 수도원이 모여 있는 괴레메 야외 박물관으로 향하는 관문으로 가장 잘 알려져 있다.",
+      "getting": "괴레메에는 공항이 없어, 여행자들은 약 40km 떨어진 네브셰히르 카파도키아 공항(NAV)이나 약 75~80km 떨어진 카이세리 에르킬레트 공항(ASR)으로 입국한 뒤, 셔틀버스나 프라이빗 транс퍼, 택시 등을 이용해 이동해야 한다. 네브셰히르에서는 약 40분, 카이세리에서는 1시간 이상 도로 이동이 필요하다. 두 공항 모두 철도 노선이 없기 때문에 괴레메까지의 마지막 구간은 항상 도로로 이동하게 된다.",
+      "days": "일출 열기구 비행(날씨에 따라 가능), 야외 박물관 관람, 그리고 요정 굴뚝 사이를 걷는 계곡 트레킹을 최소 한 번 즐기려면 약 2~3일 정도를 계획하는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "ギョレメは、カッパドキアの奇岩群「妖精の煙突」が織りなす風景の中心に位置する村。ユネスコ世界遺産にも登録されており、ビザンツ時代の教会が火山岩を掘り抜いて造られ、今も多くのホテルが洞窟部屋をそのまま客室として使っています。村は、周囲の渓谷を漂う日の出の熱気球フライトの出発地として、またギョレメ野外博物館の岩窟修道院群への玄関口として広く知られています。",
+      "getting": "ギョレメ自体に空港はありません。旅行者はまずネヴシェヒル・カッパドキア空港(NAV、村から約40km)、またはケイセリ・エルキレット空港(ASR、約75〜80km)に飛行機で到着し、そこからシャトルバス、専用送迎車、またはタクシーでギョレメまで移動します。所要時間はネヴシェヒルからだと約40分、ケイセリからだと1時間以上です。どちらの空港にも鉄道の接続はないため、ギョレメまでの最後の区間は必ず陸路での移動となります。",
+      "days": "日の出の熱気球フライト(天候次第)、野外博物館の見学、そして妖精の煙突が立ち並ぶ渓谷のハイキングを少なくとも1回は楽しむなら、2〜3日ほど滞在するのがおすすめです。"
+    },
+    "es": {
+      "blurb": "Göreme se encuentra en el corazón del paisaje de chimeneas de hadas de Capadocia, un sitio declarado Patrimonio de la Humanidad por la UNESCO donde se tallaron iglesias bizantinas directamente en la roca volcánica, y muchos hoteles siguen ocupando habitaciones excavadas en cuevas. El pueblo es conocido sobre todo como el punto de partida de los vuelos en globo aerostático al amanecer, que sobrevuelan los valles circundantes, y como la puerta de entrada al Museo al Aire Libre de Göreme, con sus monasterios excavados en la roca.",
+      "getting": "Göreme no cuenta con aeropuerto propio: los viajeros llegan en avión al Aeropuerto de Nevşehir Kapadokya (NAV), a unos 40 km, o al Aeropuerto de Kayseri Erkilet (ASR), a entre 75 y 80 km, y desde allí continúan en traslado compartido, transfer privado o taxi. El trayecto por carretera dura aproximadamente 40 minutos desde Nevşehir o más de una hora desde Kayseri. Ninguno de los dos aeropuertos tiene conexión ferroviaria, así que el último tramo hasta Göreme siempre se hace por carretera.",
+      "days": "Conviene reservar entre 2 y 3 días para disfrutar de un vuelo en globo al amanecer (si el clima lo permite), visitar el Museo al Aire Libre y recorrer al menos un valle a pie entre las chimeneas de hadas."
+    },
+    "zh": {
+      "blurb": "格雷梅坐落于卡帕多奇亚奇石地貌的核心地带，是联合国教科文组织世界遗产地。这里的拜占庭教堂直接凿刻于火山岩之中，许多酒店至今仍设在洞穴房间里。这个小镇最广为人知的，是作为日出热气球之旅的起飞地——气球缓缓飘过四周的山谷，景色壮美；同时它也是通往格雷梅露天博物馆石窟修道院群的门户。",
+      "getting": "格雷梅本地并没有机场：游客通常会飞抵内夫谢希尔卡帕多奇亚机场（NAV，距格雷梅约40公里），或是凯塞利埃尔基莱特机场（ASR，距格雷梅约75至80公里），再转乘共乘接驳车、私人接送或出租车前往。从内夫谢希尔出发车程约40分钟，从凯塞利出发则需一个多小时。这两座机场均没有铁路连接，因此前往格雷梅的最后一程始终需要依靠公路交通。",
+      "days": "建议预留约2至3天时间，安排一次日出热气球飞行（需视天气情况而定）、参观露天博物馆，并至少进行一次穿行于奇石地貌之间的山谷徒步。"
+    }
+  },
+  "Kunming": {
+    "en": {
+      "blurb": "Kunming earns its nickname the \"City of Eternal Spring\" with a mild, high-altitude climate that makes it a year-round gateway to Yunnan's mountains, lakes and ethnic minority cultures. Perched above 1,800 metres, it blends a fast-growing modern skyline with nearby natural landmarks like the Stone Forest and Dian Lake.",
+      "getting": "Most travellers fly into Kunming Changshui International Airport (KMG), the region's main air hub, with connections on to onward destinations in Southeast and South Asia. High-speed rail services arrive at Kunming South Railway Station, linking the city to Beijing, Shanghai, Guangzhou and other major Chinese cities, while the older Kunming Railway Station closer to downtown handles most intra-Yunnan and non-high-speed trains.",
+      "days": "Allow ~2-3 days to cover Kunming's city sights, including the old town, Green Lake Park and a day trip to the Stone Forest, or longer if using it as a base for wider Yunnan travel."
+    },
+    "ko": {
+      "blurb": "쿤밍은 '사계절 봄의 도시'라는 별칭에 걸맞게 해발 1,800미터가 넘는 고지대에 자리해 온화한 기후를 자랑하며, 윈난성의 산과 호수, 소수민족 문화로 향하는 사계절 관문 역할을 합니다. 빠르게 성장하는 현대적인 스카이라인과 스린(石林, 스톤 포레스트), 뎬츠(滇池) 호수 같은 인근 자연 명소가 조화를 이루는 도시입니다.",
+      "getting": "대부분의 여행객은 이 지역의 주요 항공 허브인 쿤밍 창수이 국제공항(KMG)을 이용해 입국하며, 이곳에서 동남아시아와 남아시아 각지로 연결편을 이용할 수 있습니다. 고속철도는 쿤밍 남역(쿤밍난역)에 도착하며, 베이징, 상하이, 광저우 등 중국 주요 도시와 연결됩니다. 반면 시내와 더 가까운 구 쿤밍역은 윈난성 내 노선과 고속철이 아닌 일반 열차를 주로 취급합니다.",
+      "days": "옛 시가지와 그린 레이크 파크(추이후 공원), 스린(석림) 당일 여행을 포함해 쿤밍 시내 명소를 둘러보려면 약 2~3일이 적당하며, 윈난성 전역을 여행하는 거점으로 삼을 경우 더 길게 머무는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "昆明は「春城」の異名を持つ都市で、標高1,800メートルを超える高地ならではの穏やかな気候に恵まれ、一年を通して雲南省の山々や湖、そして少数民族文化への玄関口となっています。急速に発展する近代的な都市景観と、石林や滇池といった近郊の自然の名所が見事に調和しているのも魅力です。",
+      "getting": "多くの旅行者は、この地域の主要な航空拠点である昆明長水国際空港（KMG）を利用して到着します。ここから東南アジアや南アジア各地への乗り継ぎ便も充実しています。高速鉄道を利用する場合は昆明南駅に到着し、北京、上海、広州をはじめとする中国各地の主要都市と結ばれています。一方、市街地により近い旧来の昆明駅は、雲南省内の移動や高速鉄道以外の列車の発着を主に扱っています。",
+      "days": "旧市街、翠湖公園の観光に加え、石林への日帰り旅行も含めると、昆明の市内観光には2〜3日程度を見ておくとよいでしょう。雲南省全体を巡る旅の拠点として利用する場合は、さらに日数をとることをおすすめします。"
+    },
+    "es": {
+      "blurb": "Kunming se gana a pulso su apodo de \"Ciudad de la Eterna Primavera\" gracias a un clima suave de altitud que la convierte en una puerta de entrada durante todo el año a las montañas, los lagos y las culturas de las minorías étnicas de Yunnan. Situada a más de 1.800 metros sobre el nivel del mar, combina un horizonte moderno en rápido crecimiento con hitos naturales cercanos como el Bosque de Piedra y el Lago Dian.",
+      "getting": "La mayoría de los viajeros llega por el Aeropuerto Internacional Changshui de Kunming (KMG), el principal centro aéreo de la región, con conexiones hacia destinos del sudeste y sur de Asia. Los trenes de alta velocidad llegan a la Estación Ferroviaria Sur de Kunming, que conecta la ciudad con Pekín, Shanghái, Guangzhou y otras grandes ciudades chinas, mientras que la Estación de Tren de Kunming, más antigua y cercana al centro, se encarga de la mayoría de los trenes dentro de Yunnan y de los que no son de alta velocidad.",
+      "days": "Conviene reservar entre 2 y 3 días para recorrer los puntos de interés de Kunming, incluyendo el casco antiguo, el Parque del Lago Verde y una excursión de un día al Bosque de Piedra, o más tiempo si se usa la ciudad como base para explorar el resto de Yunnan."
+    },
+    "zh": {
+      "blurb": "昆明素有\"春城\"的美誉，得天独厚的高原温润气候让它四季皆宜出游，是通往云南山川湖泊与多彩民族文化的门户。这座城市坐落在海拔1800多米的高原之上，既有日新月异的现代化天际线，又与石林、滇池等自然地标近在咫尺，相得益彰。",
+      "getting": "多数旅客选择飞抵昆明长水国际机场（KMG），这里是云南地区的主要航空枢纽，可中转前往东南亚及南亚多个目的地。高铁列车停靠昆明南站，与北京、上海、广州等国内主要城市相连；而更靠近市中心的昆明站（老火车站）则主要承担云南省内及非高铁列车的运营。",
+      "days": "游览昆明市区景点，包括老城区、翠湖公园，再加上一天前往石林一日游，大约需要2-3天时间；若以昆明为据点探索云南其他地区，则可适当延长行程。"
+    }
+  },
+  "Nakhon Ratchasima": {
+    "en": {
+      "blurb": "Nakhon Ratchasima, known locally as Korat, is the largest city in Thailand's northeastern Isan region and serves as the main gateway to both Khao Yai National Park and the Khmer ruins of Phimai. It is a working provincial capital rather than a resort town, offering spicy Isan cuisine, busy night markets and an unhurried pace far removed from Bangkok's tourist trail.",
+      "getting": "Most travellers reach Korat by bus or train from Bangkok, with buses from the capital's terminal taking roughly 3 to 4 hours along Highway 2; trains run on the Northeastern Line into the city's Thanon Chira Junction and Nakhon Ratchasima stations, with journeys taking ~4 to 6 hours. The local airport (NAK) currently has no scheduled commercial flights, so road or rail is the reliable route in.",
+      "days": "Plan on ~2 to 3 days to cover the city itself plus a day trip to Khao Yai National Park, or longer if adding Phimai's ancient temple complex to the itinerary."
+    },
+    "ko": {
+      "blurb": "나콘랏차시마는 현지에서 '코랏'이라는 애칭으로 더 많이 불리며, 태국 동북부 이산 지역에서 가장 큰 도시입니다. 카오야이 국립공원과 크메르 유적지인 피마이로 향하는 관문 역할을 하는 곳이기도 하죠. 휴양지보다는 지역 행정의 중심지에 가까운 도시로, 매콤한 이산 요리와 활기찬 야시장을 즐길 수 있으며, 방콕의 관광객 몰린 분위기와는 거리가 먼 느긋한 생활 리듬이 특징입니다.",
+      "getting": "코랏으로 가는 가장 일반적인 방법은 방콕에서 버스나 기차를 이용하는 것입니다. 방콕 터미널에서 출발하는 버스는 2번 고속도로를 따라 약 3~4시간이 소요되며, 동북선 열차는 시내의 타논 치라 분기역과 나콘랏차시마역까지 운행하며 약 4~6시간이 걸립니다. 현지 공항(NAK)은 현재 정기 상업 항공편이 운항되지 않으므로, 육로나 철도를 이용하는 것이 가장 확실한 방법입니다.",
+      "days": "도시 자체를 둘러보는 데는 약 2~3일 정도를 예상하면 되고, 여기에 카오야이 국립공원 당일치기 여행을 더할 수 있습니다. 피마이의 고대 사원 유적까지 일정에 포함하고 싶다면 며칠 더 여유를 두는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "ナコンラチャシマは、地元では「コラート」の愛称で知られ、タイ東北部イサーン地方最大の都市です。カオヤイ国立公園とクメール遺跡が残るピマーイへの玄関口として知られていますが、リゾート地というより実務的な県都であり、スパイシーなイサーン料理や活気ある夜市、バンコクの観光ルートとは一線を画したのんびりとした時間の流れが魅力です。",
+      "getting": "コラートへは、バンコクからバスか鉄道で向かうのが一般的です。バンコクのバスターミナルからは国道2号線経由でおよそ3〜4時間。鉄道は東北本線を利用し、市内のタノン・チラー・ジャンクション駅やナコンラチャシマ駅まで約4〜6時間かかります。地元の空港(NAK)には現在定期便の就航がないため、陸路または鉄道が確実なアクセス手段となります。",
+      "days": "市内観光とカオヤイ国立公園への日帰り旅行を合わせて、2〜3日程度を見ておくとよいでしょう。古代遺跡が残るピマーイまで足を延ばす場合は、もう少し日数を確保してください。"
+    },
+    "es": {
+      "blurb": "Nakhon Ratchasima, conocida localmente como Korat, es la ciudad más grande de la región de Isan, en el noreste de Tailandia, y funciona como la principal puerta de entrada tanto al Parque Nacional Khao Yai como a las ruinas jemeres de Phimai. Se trata de una capital provincial dedicada al trabajo y no de un destino turístico al uso, con una picante cocina isan, animados mercados nocturnos y un ritmo pausado muy alejado de la ruta turística de Bangkok.",
+      "getting": "La mayoría de los viajeros llega a Korat en autobús o en tren desde Bangkok. Los autobuses que salen de la terminal de la capital tardan entre 3 y 4 horas aproximadamente por la Carretera 2, mientras que los trenes circulan por la Línea Nororiental hasta las estaciones de Thanon Chira Junction y Nakhon Ratchasima, con trayectos de entre 4 y 6 horas. El aeropuerto local (NAK) actualmente no cuenta con vuelos comerciales regulares, por lo que la carretera o el tren son las opciones más fiables para llegar.",
+      "days": "Conviene reservar entre 2 y 3 días para recorrer la ciudad y hacer una excursión de un día al Parque Nacional Khao Yai, o más tiempo si se añade al itinerario el antiguo complejo de templos de Phimai."
+    },
+    "zh": {
+      "blurb": "呵叻（Nakhon Ratchasima），当地人多称其为「Korat」，是泰国东北部依善（Isan）地区最大的城市，也是前往考艾国家公园（Khao Yai National Park）和帕侬叻（Phimai）高棉遗址的主要门户。这里是一座务实的府治城市，而非度假胜地，以辛辣的依善美食、热闹的夜市和远离曼谷旅游热潮的悠闲步调见长。",
+      "getting": "多数游客会选择从曼谷乘坐巴士或火车前往呵叻。从曼谷汽车站出发的巴士沿2号公路行驶，车程约3至4小时；火车则沿东北线驶入市区，停靠Thanon Chira Junction站和呵叻站，全程约需4至6小时。当地机场（NAK）目前尚无定期商业航班，因此陆路或铁路是进入该地区最可靠的方式。",
+      "days": "建议安排约2至3天游览市区并前往考艾国家公园一日游；若想加上帕侬叻的古代寺庙建筑群，则可适当延长行程。"
+    }
+  },
+  "Petaling Jaya": {
+    "en": {
+      "blurb": "Petaling Jaya grew out of Kuala Lumpur's overspill in the 1950s into Malaysia's first satellite township, and it has since become a sprawling hub of malls, tech offices, and some of the Klang Valley's best-regarded hawker and cafe scenes. Locals just call it PJ, and its grid of numbered \"Sections\" and older SS (Sungai Way) neighbourhoods give it a different, more suburban texture than the capital next door.",
+      "getting": "Most travellers arrive via Kuala Lumpur International Airport (KUL), taking the KLIA Ekspres train to KL Sentral and then continuing on the LRT Kelana Jaya Line, which runs directly into Petaling Jaya with stops like Taman Bahagia, Asia Jaya, and Kelana Jaya; the full journey takes roughly ~1 hour depending on transfers. Buses and taxis/ride-hailing from KL Sentral or the city centre are also common for the final stretch.",
+      "days": "Most visitors spend ~1-2 days in Petaling Jaya, enough to cover a couple of its malls, a street-food crawl, and a neighbourhood or two, often as a side trip from a longer Kuala Lumpur stay."
+    },
+    "ko": {
+      "blurb": "페탈링자야는 1950년대 쿠알라룸푸르의 인구 과밀을 해소하기 위해 조성된 말레이시아 최초의 위성도시로 출발했습니다. 이후 쇼핑몰과 테크 기업 사무실이 즐비한 거대한 허브로 성장했고, 클랑밸리에서도 손꼽히는 호커센터와 카페 문화를 자랑하는 곳이 되었습니다. 현지인들은 이곳을 줄여서 \"PJ\"라고 부르며, 번호로 구분된 \"섹션(Section)\"들과 그보다 오래된 SS(Sungai Way) 지역들이 격자형으로 이어져 있어, 바로 옆 수도 쿠알라룸푸르와는 사뭇 다른, 좀 더 교외스러운 분위기를 자아냅니다.",
+      "getting": "대부분의 여행자는 쿠알라룸푸르 국제공항(KUL)을 통해 도착한 뒤, KLIA 익스프레스 열차를 타고 KL 센트럴까지 이동합니다. 그런 다음 LRT 클라나자야 노선(Kelana Jaya Line)으로 환승하면 타만 바하기아(Taman Bahagia), 아시아자야(Asia Jaya), 클라나자야(Kelana Jaya) 등의 역을 거쳐 페탈링자야까지 곧장 들어갈 수 있습니다. 환승 상황에 따라 전체 이동 시간은 대략 1시간 정도 소요됩니다. KL 센트럴이나 시내에서 버스나 택시, 차량 호출 서비스를 이용해 마지막 구간을 이동하는 경우도 흔합니다.",
+      "days": "대부분의 여행자는 페탈링자야에서 1~2일 정도를 보내며, 이 정도면 몇몇 쇼핑몰을 둘러보고 길거리 음식 탐방을 즐기며 한두 개 동네를 구경하기에 충분합니다. 보통 쿠알라룸푸르 여행 중 잠시 다녀오는 당일 코스로 많이 찾습니다."
+    },
+    "ja": {
+      "blurb": "ペタリンジャヤは1950年代、クアラルンプールの人口増加の受け皿として誕生したマレーシア初のニュータウンで、今ではモールやテック企業のオフィスが立ち並び、クラン・バレー屈指と評判のホーカーやカフェ文化が根付く一大拠点へと成長を遂げた。地元では親しみを込めて「PJ」と呼ばれ、番号で区切られた「セクション」や、古くからあるSS(スンガイ・ウェイ)地区が入り組む街並みは、隣接する首都とはひと味違う、どこか郊外らしいのどかな雰囲気を漂わせている。",
+      "getting": "多くの旅行者はクアラルンプール国際空港(KUL)から入り、KLIAエクスプレスでKLセントラル駅まで行き、そこからLRTクラナジャヤ線に乗り換えるのが定番ルートだ。この路線はペタリンジャヤへ直通しており、タマン・バハギア、アジア・ジャヤ、クラナジャヤといった駅に停車する。乗り換え状況にもよるが、所要時間はおおよそ1時間程度。KLセントラルや市内中心部からは、バスやタクシー・配車サービスを使って最後の区間を移動するのも一般的な方法だ。",
+      "days": "ペタリンジャヤでの滞在は1〜2日ほどが一般的で、モールを数カ所回ったり、屋台グルメを食べ歩いたり、地区を1〜2つ散策したりするのにちょうどよい長さだ。多くの場合、クアラルンプール滞在を延長する形での日帰り・小旅行として訪れられている。"
+    },
+    "es": {
+      "blurb": "Petaling Jaya nació del crecimiento desbordante de Kuala Lumpur en la década de 1950, convirtiéndose en la primera ciudad satélite de Malasia, y desde entonces se ha transformado en un extenso núcleo de centros comerciales, oficinas tecnológicas y algunas de las mejores escenas de puestos callejeros (hawker) y cafeterías de todo el Valle de Klang. Los locales simplemente la llaman PJ, y su cuadrícula de \"Secciones\" numeradas junto con los barrios más antiguos de SS (Sungai Way) le dan una textura distinta, más suburbana, que la de la capital vecina.",
+      "getting": "La mayoría de los viajeros llega a través del Aeropuerto Internacional de Kuala Lumpur (KUL), tomando el tren KLIA Ekspres hasta KL Sentral y continuando después en la Línea LRT Kelana Jaya, que llega directamente a Petaling Jaya con paradas como Taman Bahagia, Asia Jaya y Kelana Jaya; el trayecto completo toma aproximadamente 1 hora, dependiendo de los transbordos. También es común usar autobuses o taxis/apps de transporte desde KL Sentral o el centro de la ciudad para el tramo final.",
+      "days": "La mayoría de los visitantes pasa entre 1 y 2 días en Petaling Jaya, tiempo suficiente para recorrer un par de sus centros comerciales, disfrutar de un recorrido gastronómico callejero y explorar uno o dos barrios, a menudo como una excursión complementaria durante una estancia más larga en Kuala Lumpur."
+    },
+    "zh": {
+      "blurb": "八打灵再也在20世纪50年代由吉隆坡的人口外溢发展而来,是马来西亚第一座卫星市镇。如今它已发展成一个繁华枢纽,商场林立、科技公司云集,还拥有巴生谷一带最受推崇的小贩美食和咖啡馆文化。当地人都简称它为\"PJ\",城内按数字编号划分的\"Section\"区以及更老旧的SS(双威)社区,让它呈现出与隔壁首都截然不同的郊区风貌。",
+      "getting": "大多数旅客经吉隆坡国际机场(KUL)抵达,先乘坐KLIA Ekspres快铁到KL Sentral(中央车站),再转乘LRT Kelana Jaya线,该线路直接驶入八打灵再也境内,沿途设有打曼峇哈家(Taman Bahagia)、亚洲再也(Asia Jaya)、格拉那再也(Kelana Jaya)等站点;全程视换乘情况大约需要1小时左右。从KL Sentral或市中心乘坐巴士或出租车/网约车前往最后一段路程也很常见。",
+      "days": "大多数游客会在八打灵再也停留1到2天,足以逛上几家商场、来一场街头美食巡礼,再探索一两个社区,通常是作为吉隆坡长途行程中的一次短途延伸游。"
+    }
+  },
+  "Spain": {
+    "en": {
+      "blurb": "Spain spans sun-baked Mediterranean coastline, snow-capped sierras and two vast plateaus, with each region, Basque, Catalan, Andalusian, holding onto its own language, cuisine and rhythm of life. From Gaudí's Barcelona to the Moorish palaces of Andalusia and the tapas bars of Madrid, the country rewards travellers who move slowly between its cities rather than rushing through them.",
+      "getting": "Most international travellers fly into Adolfo Suárez Madrid-Barajas Airport (MAD), the country's busiest hub, or Barcelona-El Prat on the northeast coast. From either airport, metro, bus or taxi links run into the respective city centre, and Spain's extensive AVE high-speed rail network, radiating from Madrid's Atocha station, connects major cities such as Barcelona, Seville and Valencia in a few hours.",
+      "days": "Allow at least 10 to 14 days to combine two or three major cities with a coastal or rural detour, though a lifetime spent exploring Spain's regions would still leave corners unseen."
+    },
+    "ko": {
+      "blurb": "스페인은 태양이 작열하는 지중해 해안선부터 눈 덮인 산맥, 그리고 광활한 두 개의 고원지대까지 다채로운 풍경을 품고 있다. 바스크, 카탈루냐, 안달루시아 등 지역마다 고유한 언어와 음식, 삶의 리듬을 간직하고 있어 그 색깔이 저마다 뚜렷하다. 가우디의 도시 바르셀로나부터 안달루시아의 무어 양식 궁전들, 마드리드의 타파스 바에 이르기까지, 스페인은 도시들을 서둘러 훑고 지나가기보다 천천히 머무르며 음미하는 여행자에게 더 큰 선물을 안겨주는 나라다.",
+      "getting": "대부분의 해외 여행객은 스페인에서 가장 분주한 관문인 아돌포 수아레스 마드리드-바라하스 공항(MAD), 또는 북동부 해안에 위치한 바르셀로나 엘프라트 공항을 통해 입국한다. 두 공항 모두 지하철, 버스, 택시로 각 도시 중심부까지 쉽게 이동할 수 있으며, 마드리드의 아토차역을 기점으로 뻗어나가는 스페인의 광범위한 고속철도망 AVE를 이용하면 바르셀로나, 세비야, 발렌시아 같은 주요 도시들을 단 몇 시간 만에 오갈 수 있다.",
+      "days": "주요 도시 두세 곳에 해안이나 시골 지역 일정을 더해 제대로 둘러보려면 최소 10일에서 14일은 필요하다. 하지만 평생을 바쳐 스페인 곳곳을 탐험한다 해도 여전히 가보지 못한 구석이 남아 있을 만큼, 이 나라는 깊고 넓다."
+    },
+    "ja": {
+      "blurb": "スペインという国は一筋縄ではいかない。太陽に焼かれた地中海沿岸、雪を頂く山並み、そして広大な二つの高原台地が同居し、バスク、カタルーニャ、アンダルシアと、地方ごとに独自の言語、食文化、そして生活のリズムが息づいている。ガウディが遺したバルセロナの街並みから、アンダルシアに残るムーア様式の宮殿、マドリードのタパスバーまで――この国が真価を見せてくれるのは、都市から都市へと急がず、ゆっくり旅する人に対してだ。",
+      "getting": "海外からの旅行者の多くは、国内最大のハブ空港であるアドルフォ・スアレス・マドリード‐バラハス空港（MAD）、もしくは北東沿岸のバルセロナ・エル・プラット空港を利用して入国する。どちらの空港からも、地下鉄・バス・タクシーでそれぞれの市街地へアクセスでき、さらにマドリードのアトーチャ駅を起点に広がるスペイン高速鉄道網「AVE」を使えば、バルセロナ、セビリア、バレンシアといった主要都市へわずか数時間で移動できる。",
+      "days": "主要都市を2〜3か所組み合わせ、海沿いや田舎町への寄り道も楽しむなら、最低でも10日から14日は見ておきたい。とはいえ、一生かけてスペインの各地方を巡ったとしても、まだ訪れていない隅々が残ってしまうほど奥深い国である。"
+    },
+    "es": {
+      "blurb": "España se extiende entre un litoral mediterráneo bañado por el sol, sierras nevadas y dos vastas mesetas, y cada región, vasca, catalana, andaluza, conserva su propia lengua, gastronomía y ritmo de vida. Desde la Barcelona de Gaudí hasta los palacios moriscos de Andalucía y los bares de tapas de Madrid, el país recompensa a los viajeros que se desplazan despacio entre sus ciudades en lugar de recorrerlas a toda prisa.",
+      "getting": "La mayoría de los viajeros internacionales llega al aeropuerto Adolfo Suárez Madrid-Barajas (MAD), el hub más concurrido del país, o al aeropuerto de Barcelona-El Prat, en la costa noreste. Desde cualquiera de los dos, el metro, el autobús o el taxi conectan con el centro de la ciudad correspondiente, y la extensa red de alta velocidad AVE de España, que parte de la estación de Atocha en Madrid, une en pocas horas ciudades principales como Barcelona, Sevilla y Valencia.",
+      "days": "Conviene reservar al menos de 10 a 14 días para combinar dos o tres ciudades principales con una escapada costera o rural, aunque toda una vida explorando las regiones de España seguiría dejando rincones por descubrir."
+    },
+    "zh": {
+      "blurb": "西班牙既有阳光炙烤的地中海海岸线，也有白雪皑皑的山脉和两大片辽阔的高原，而巴斯克、加泰罗尼亚、安达卢西亚等每个地区都保留着各自独特的语言、美食与生活节奏。从高迪笔下的巴塞罗那，到安达卢西亚的摩尔式宫殿，再到马德里的塔帕斯酒吧，这个国家最眷顾那些愿意放慢脚步、细细品味城市的旅人，而非行色匆匆的过客。",
+      "getting": "大多数国际旅客会飞抵该国最繁忙的枢纽——马德里阿道夫·苏亚雷斯-巴拉哈斯机场（MAD），或是位于东北海岸的巴塞罗那埃尔普拉特机场。从这两座机场出发，都可乘坐地铁、巴士或出租车前往各自的市中心。此外，西班牙发达的AVE高速铁路网以马德里阿托查车站为枢纽向四周延伸，几小时内即可连接巴塞罗那、塞维利亚、瓦伦西亚等主要城市。",
+      "days": "建议至少安排10到14天，将两三座主要城市与一段海岸或乡村之旅结合起来。不过，即便倾尽一生游历西班牙的各个地区，也仍会留下未曾涉足的角落。"
+    }
+  },
+  "Xiamen": {
+    "en": {
+      "blurb": "Xiamen is a laid-back port city on China's southeastern coast, known for its colonial-era island enclave of Gulangyu, seafront boulevards and a gentler pace than many mainland megacities. Banyan trees, university campuses and a thriving coffee-shop culture give it a reputation as one of China's most liveable cities.",
+      "getting": "Most travellers fly into Xiamen Gaoqi International Airport (XMN), located on Xiamen Island itself, or arrive by high-speed rail at Xiamen North Railway Station, the city's main rail hub, or the more central Xiamen Railway Station. From either station, onward travel into downtown is by metro, BRT or taxi.",
+      "days": "Allow ~2 to 3 days to cover Gulangyu Island, the old town and a seafront stroll at a relaxed pace."
+    },
+    "ko": {
+      "blurb": "샤먼은 중국 남동부 해안에 자리한 느긋한 분위기의 항구 도시로, 식민지 시대의 흔적이 남아 있는 구랑위 섬, 해안을 따라 이어지는 대로, 그리고 다른 대도시들보다 한결 여유로운 생활 리듬으로 잘 알려져 있다. 榕나무(반얀트리) 가로수와 대학 캠퍼스, 활기 넘치는 카페 문화 덕분에 중국에서 가장 살기 좋은 도시 중 하나로 꼽힌다.",
+      "getting": "대부분의 여행자는 샤먼 섬 안에 위치한 샤먼 가오치 국제공항(XMN)을 통해 입국하거나, 고속철도를 이용해 도시의 주요 철도 거점인 샤먼베이(북역) 또는 시내와 더 가까운 샤먼역에 도착한다. 두 역 모두에서 시내로 이동할 때는 지하철, BRT 또는 택시를 이용하면 된다.",
+      "days": "구랑위 섬과 구시가지, 그리고 여유롭게 즐기는 해안 산책까지 둘러보려면 약 2~3일 정도를 잡는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "厦门は中国南東部の海岸に位置する、のんびりとした雰囲気の港町です。植民地時代の面影を残す島、鼓浪嶼(コロンス島)や、海沿いの美しい並木道で知られ、他の中国本土の大都市に比べてゆったりとした時間が流れています。ガジュマルの並木、大学キャンパス、そして活気あるカフェ文化が、厦門を中国で最も暮らしやすい都市のひとつという評判に押し上げています。",
+      "getting": "多くの旅行者は、厦門島内にある厦門高崎国際空港(XMN)を利用するか、高速鉄道で市の主要なターミナルである厦門北駅、またはより市街地に近い厦門駅まで移動します。どちらの駅からも、地下鉄やBRT(バス高速輸送システム)、タクシーで市内中心部へアクセスできます。",
+      "days": "鼓浪嶼島、旧市街の散策、そして海沿いをのんびり歩くには、2〜3日ほど見ておくとよいでしょう。"
+    },
+    "es": {
+      "blurb": "Xiamen es una ciudad portuaria relajada en la costa sureste de China, conocida por Gulangyu, su enclave insular de herencia colonial, sus bulevares junto al mar y un ritmo de vida más pausado que el de muchas megaciudades del continente. Los árboles banianos, los campus universitarios y una próspera cultura de cafeterías le han dado fama de ser una de las ciudades más habitables de China.",
+      "getting": "La mayoría de los viajeros llega en avión al Aeropuerto Internacional Xiamen Gaoqi (XMN), ubicado en la propia isla de Xiamen, o en tren de alta velocidad a la Estación Ferroviaria Norte de Xiamen, el principal nodo ferroviario de la ciudad, o a la más céntrica Estación de Xiamen. Desde cualquiera de las dos estaciones, se puede continuar hacia el centro en metro, BRT o taxi.",
+      "days": "Conviene reservar entre 2 y 3 días para recorrer la isla de Gulangyu, el casco antiguo y disfrutar de un paseo junto al mar sin prisas."
+    },
+    "zh": {
+      "blurb": "厦门是中国东南沿海一座悠闲的港口城市，以殖民时期遗留下来的鼓浪屿小岛、滨海大道以及比许多内地大城市更为从容的生活节奏而闻名。榕树成荫、高校云集，加上蓬勃发展的咖啡馆文化，让厦门享有中国最宜居城市之一的美誉。",
+      "getting": "大多数游客会选择飞抵位于厦门岛内的厦门高崎国际机场（XMN），或乘坐高铁抵达，可选择厦门市主要的铁路枢纽厦门北站，也可选择位置更靠近市中心的厦门站。从这两个车站出发，前往市区可乘坐地铁、BRT快速公交或出租车。",
+      "days": "建议安排约2到3天时间，以轻松的节奏游览鼓浪屿、老城区，并沿海滨漫步。"
+    }
   }
 }
