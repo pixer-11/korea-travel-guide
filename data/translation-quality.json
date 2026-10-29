@@ -38477,5 +38477,89 @@
   "registerBreak": false,
   "worst": "在大多数游客的清单上，El Telar都排不上号，而这恰恰是它的优势。",
   "at": "2026-10-28T15:34:50.941Z"
+ },
+ "es/sydney-hans-zimmer-live": {
+  "hash": "90da7f2eaf49",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "La iluminación se monta a la escala de un gran pabellón y no a la de un auditorio.",
+  "at": "2026-10-29T08:05:24.258Z"
+ },
+ "es/auckland-howick-historical-village": {
+  "hash": "fe4eace7d760",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Con ellos, se convierte en una historia social de los barrios del este que usted acaba de atravesar",
+  "at": "2026-10-29T08:05:29.910Z"
+ },
+ "es/bath-bath-abbey": {
+  "hash": "272a01af151a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "la franja más tranquila va de 10am a 11am",
+  "at": "2026-10-29T08:05:36.759Z"
+ },
+ "ja/auckland-howick-historical-village": {
+  "hash": "7c53994a9ac7",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "その隣にあるからこそ、木造の村はいっそう時代を少しずらしたような空間に感じられます。",
+  "at": "2026-10-29T08:05:40.352Z"
+ },
+ "ja/bath-bath-abbey": {
+  "hash": "bf6172853891",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "もともとの聖歌隊席のヴォールトを設計したのは、ロバート・ヴァーチューとウィリアム・ヴァーチューです。",
+  "at": "2026-10-29T08:05:45.837Z"
+ },
+ "ja/bath-royal-victoria-park": {
+  "hash": "13c1abeb89ba",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "風の穏やかな夏の夕方には、芝生から熱気球が飛び立ち、街の屋根の上を漂っていくこともあります。",
+  "at": "2026-10-29T08:05:49.604Z"
+ },
+ "ko/auckland-howick-historical-village": {
+  "hash": "b53236774905",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "펜서블 가족이 작은 방 두어 칸에서 어떻게 살았는지, 식민지 시대 교실에서 아이들이 무엇을 배웠는지...",
+  "at": "2026-10-29T08:05:50.992Z"
+ },
+ "ko/barcelona-guitar-bcn-festival-2026": {
+  "hash": "301f95ffbca8",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "마드리드에 오래 살아온 덕분에 스페인 관객은 그를 거의 이 나라 사람처럼 여깁니다.",
+  "at": "2026-10-29T08:05:58.275Z"
+ },
+ "ko/bath-bath-abbey": {
+  "hash": "4d63f995239a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "사람들이 미리 예약하고 찾는 것은 바로 타워 투어입니다.",
+  "at": "2026-10-29T08:06:00.161Z"
+ },
+ "zh/auckland-howick-historical-village": {
+  "hash": "d96b393c21da",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "每栋建筑和哪些乘防卫军船只远道而来的家庭有关，牌子上都写得清清楚楚。",
+  "at": "2026-10-29T08:06:06.093Z"
+ },
+ "zh/bath-bath-abbey": {
+  "hash": "535c2dd2b4e6",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "数百块铭牌和墓石上，记录着乔治王时代那些来巴斯泡温泉、最终长眠于此的人。",
+  "at": "2026-10-29T08:06:08.310Z"
+ },
+ "zh/bath-royal-victoria-park": {
+  "hash": "7203f01f6990",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "据Google目前显示，公园全年无休，每天24小时开放。",
+  "at": "2026-10-29T08:06:14.067Z"
  }
 }

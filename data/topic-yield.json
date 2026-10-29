@@ -6,12 +6,12 @@
    "hits": 18
   },
   "historic site": {
-   "attempts": 191,
-   "hits": 105
+   "attempts": 195,
+   "hits": 107
   },
   "park": {
-   "attempts": 102,
-   "hits": 60
+   "attempts": 108,
+   "hits": 62
   },
   "viewpoint": {
    "attempts": 112,
@@ -38,19 +38,19 @@
    "hits": 3
   },
   "old quarter": {
-   "attempts": 189,
-   "hits": 83
+   "attempts": 105,
+   "hits": 47
   },
   "local market": {
-   "attempts": 191,
-   "hits": 65
+   "attempts": 195,
+   "hits": 66
   },
   "bookshop": {
    "attempts": 48,
    "hits": 6
   },
   "seafood": {
-   "attempts": 91,
+   "attempts": 92,
    "hits": 4
   },
   "hidden gem": {
@@ -90,7 +90,7 @@
    "hits": 123
   },
   "grill": {
-   "attempts": 57,
+   "attempts": 58,
    "hits": 0
   },
   "design shop": {
@@ -1210,5 +1210,5 @@
    "hits": 1
   }
  },
- "updated": "2026-10-28T15:30:39.352Z"
+ "updated": "2026-10-29T08:09:37.623Z"
 }

@@ -1466,6 +1466,12 @@
   "reason": "event publish gate: Performer singing at mic, concert event photo",
   "at": "2026-10-29T00:39:10.732Z"
  },
+ "auckland-howick-historical-village\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Old_cottage_and_church_in_Howick_Historical_Village.jpg/1920px-Old_cottage_and_church_in_Howick_Historical_Village.jpg": {
+  "slug": "auckland-howick-historical-village",
+  "verdict": "MATCH",
+  "reason": "publish gate: Historic village cottages and path, representative scene",
+  "at": "2026-10-29T08:01:01.642Z"
+ },
  "auckland-iron-maiden-with-megadeth\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Iron_Maiden_performing_at_North_Island_Credit_Union_Amphitheatre_on_25_September_2022.jpg/3840px-Iron_Maiden_performing_at_North_Island_Credit_Union_Amphitheatre_on_25_September_2022.jpg": {
   "slug": "auckland-iron-maiden-with-megadeth",
   "verdict": "MATCH",
@@ -3665,11 +3671,23 @@
   "reason": "publish gate: Grand historic mansion matches American Museum & Gardens, Bath",
   "at": "2026-10-28T08:21:23.427Z"
  },
+ "bath-bath-abbey\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Bath_Abbey_from_the_South_West.jpg/1920px-Bath_Abbey_from_the_South_West.jpg": {
+  "slug": "bath-bath-abbey",
+  "verdict": "MATCH",
+  "reason": "publish gate: Clear exterior view of Bath Abbey building",
+  "at": "2026-10-29T08:01:01.507Z"
+ },
  "bath-museum-of-bath-at-work\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Museum_of_Bath_at_Work.jpg/1920px-Museum_of_Bath_at_Work.jpg": {
   "slug": "bath-museum-of-bath-at-work",
   "verdict": "MATCH",
   "reason": "publish gate: Exterior building with visible museum sign and entrance",
   "at": "2026-10-01T10:05:48.785Z"
+ },
+ "bath-royal-victoria-park\u0001https://upload.wikimedia.org/wikipedia/commons/a/ab/Balloon_at_Royal_Victoria_Park%2C_Bath_-_panoramio.jpg": {
+  "slug": "bath-royal-victoria-park",
+  "verdict": "MATCH",
+  "reason": "publish gate: Park greenspace with hot air balloon, plausible Royal Victoria Park scene",
+  "at": "2026-10-29T08:01:01.591Z"
  },
  "bath-the-roman-baths\u0001https://upload.wikimedia.org/wikipedia/commons/0/08/Roman_Baths_in_Bath_Spa%2C_England_-_July_2006.jpg": {
   "slug": "bath-the-roman-baths",
@@ -5651,6 +5669,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows Wonderland wire-mesh head sculpture in Calgary plaza",
   "at": "2026-10-25T07:47:57.504Z"
+ },
+ "cambridge-anglesey-abbey\u0001https://upload.wikimedia.org/wikipedia/commons/9/97/Anglesey_Abbey%2C_Lode%2C_Cambridgeshire.jpg": {
+  "slug": "cambridge-anglesey-abbey",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of historic manor house, representative of Anglesey Abbey",
+  "at": "2026-10-29T08:01:01.717Z"
  },
  "cambridge-museum-of-archaeology-and-anthropology\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Museum_of_Archaeology_and_Anthropology%2C_Cambridge_16.jpg/3840px-Museum_of_Archaeology_and_Anthropology%2C_Cambridge_16.jpg": {
   "slug": "cambridge-museum-of-archaeology-and-anthropology",
@@ -14066,6 +14090,12 @@
   "reasonKo": "신발 매장, 여행지 아님",
   "at": "2026-08-20T13:30:03.465Z"
  },
+ "jasper-jasper-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Mount_Andromeda_at_dusk%2C_Jasper_National_Park%2C_Alberta%2C_Canada.jpg/1920px-Mount_Andromeda_at_dusk%2C_Jasper_National_Park%2C_Alberta%2C_Canada.jpg": {
+  "slug": "jasper-jasper-national-park",
+  "verdict": "MATCH",
+  "reason": "publish gate: Mountain landscape representative of Jasper National Park scenery",
+  "at": "2026-10-29T08:01:01.561Z"
+ },
  "jasper-lac-beauvert\u0001https://upload.wikimedia.org/wikipedia/commons/4/4d/Lac_Beavart_and_Jasper_Park_Lodge.jpg": {
   "slug": "jasper-lac-beauvert",
   "verdict": "MATCH",
@@ -16211,6 +16241,11 @@
   "verdict": "MATCH",
   "reason": "publish gate: Pond, gardens, and cityscape match Suizenji Jojuen Garden setting",
   "at": "2026-09-15T07:45:53.345Z"
+ },
+ "kunming-kunming-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Eye_of_Spring_under_construction_in_Kunming.jpg/1280px-Eye_of_Spring_under_construction_in_Kunming.jpg": {
+  "slug": "kunming-kunming-marathon",
+  "verdict": "MISMATCH",
+  "reason": "hero file name reads as unusable: \"Eye of Spring under construction in Kunming\""
  },
  "kurashiki-kurashiki-bikan-historical-quarter\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/161015_At_Kurashiki_Bikan_historical_quarter_Kurashiki_Okayama_pref_Japan01s3.jpg/3840px-161015_At_Kurashiki_Bikan_historical_quarter_Kurashiki_Okayama_pref_Japan01s3.jpg": {
   "slug": "kurashiki-kurashiki-bikan-historical-quarter",
@@ -19385,6 +19420,12 @@
   "reason": "publish gate: Fountain and park plausibly depicting Plaza Independencia",
   "at": "2026-10-25T13:00:55.653Z"
  },
+ "mendoza-plaza-pedro-del-castillo\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Plaza_Pedro_del_Castillo%2C_Mendoza_02.jpg/3840px-Plaza_Pedro_del_Castillo%2C_Mendoza_02.jpg": {
+  "slug": "mendoza-plaza-pedro-del-castillo",
+  "verdict": "MATCH",
+  "reason": "publish gate: Plaza with fountain, palm trees, matches Mendoza plaza",
+  "at": "2026-10-29T08:01:01.617Z"
+ },
  "mendoza-santuario-nuestra-senora-de-lourdes\u0001https://upload.wikimedia.org/wikipedia/commons/c/c9/Santuario_Nuestra_Se%C3%B1ora_de_Lourdes_de_El_Challao.JPG": {
   "slug": "mendoza-santuario-nuestra-senora-de-lourdes",
   "verdict": "MATCH",
@@ -21920,6 +21961,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows waterfall and visitors in ponchos, matches attraction",
   "at": "2026-10-21T13:29:32.186Z"
+ },
+ "niagara-falls-old-stone-chimney\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Old_Stone_Chimney_20160417_0337.jpg/1920px-Old_Stone_Chimney_20160417_0337.jpg": {
+  "slug": "niagara-falls-old-stone-chimney",
+  "verdict": "MATCH",
+  "reason": "publish gate: Stone chimney landmark shown clearly at dusk setting",
+  "at": "2026-10-29T08:01:01.462Z"
  },
  "niagara-falls-ripley-s-believe-it-or-not\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Ripley%27s_Believe_It_or_Not%2C_Niagara_Falls_2026.jpg/3840px-Ripley%27s_Believe_It_or_Not%2C_Niagara_Falls_2026.jpg": {
   "slug": "niagara-falls-ripley-s-believe-it-or-not",
@@ -25205,6 +25252,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows classical museum building exterior with Quebec flag",
   "at": "2026-10-22T07:49:24.410Z"
+ },
+ "quebec-city-place-d-armes\u0001https://upload.wikimedia.org/wikipedia/commons/0/03/Quebec_City_Place_d%27Armes_and_Rue_Sainte-Anne_16-18.jpg": {
+  "slug": "quebec-city-place-d-armes",
+  "verdict": "MATCH",
+  "reason": "publish gate: Plausible Quebec City square with historic buildings and park",
+  "at": "2026-10-29T08:01:01.690Z"
  },
  "quebec-city-place-royale\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Maison_Barbel_on_Place_Royale_at_night%2C_Quebec_City.jpg/3840px-Maison_Barbel_on_Place_Royale_at_night%2C_Quebec_City.jpg": {
   "slug": "quebec-city-place-royale",
@@ -29634,6 +29687,18 @@
   "reason": "publish gate: Chinese garden with pond, pavilion, lantern - representative view",
   "at": "2026-10-05T07:54:09.864Z"
  },
+ "stuttgart-karlsplatz\u0001https://upload.wikimedia.org/wikipedia/commons/a/a1/Flohmarkt_Karlsplatz_Stuttgart_2.jpg": {
+  "slug": "stuttgart-karlsplatz",
+  "verdict": "MATCH",
+  "reason": "publish gate: Flea market under trees, plausible Karlsplatz scene in Stuttgart",
+  "at": "2026-10-29T08:09:37.586Z"
+ },
+ "stuttgart-markthalle-stuttgart\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Markthalle_Stuttgart_Fresken_1.jpg/3840px-Markthalle_Stuttgart_Fresken_1.jpg": {
+  "slug": "stuttgart-markthalle-stuttgart",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of Markthalle building with name clearly visible",
+  "at": "2026-10-29T08:01:01.744Z"
+ },
  "stuttgart-mercedes-benz-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Mercedes-Benz_Museum_201312_08_blue_hour.jpg/1920px-Mercedes-Benz_Museum_201312_08_blue_hour.jpg": {
   "slug": "stuttgart-mercedes-benz-museum",
   "verdict": "MATCH",
@@ -29791,6 +29856,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Exterior storefront with clear SEA LIFE Sunshine Coast signage",
   "at": "2026-09-28T17:09:00.040Z"
+ },
+ "sunshine-coast-the-wharf-mooloolaba\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/The_Wharf_Mooloolaba%2C_January_2026.jpg/3840px-The_Wharf_Mooloolaba%2C_January_2026.jpg": {
+  "slug": "sunshine-coast-the-wharf-mooloolaba",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows venue entrance sign and parking area at The Wharf",
+  "at": "2026-10-29T08:01:01.534Z"
  },
  "surabaya-alun-alun-surabaya\u0001https://fastly.4sqi.net/img/general/original/3675959_vAvJ-7xXuWeTjXiFJP2BPdtkWtL3VwYmiYkA-XFmPiI.jpg": {
   "slug": "surabaya-alun-alun-surabaya",
