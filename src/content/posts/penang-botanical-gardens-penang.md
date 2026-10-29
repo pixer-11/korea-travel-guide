@@ -1,30 +1,38 @@
 ---
 title: 'Botanical Gardens: Penang Travel Guide (4.5★)'
-description: Penang Botanical Gardens (locals call it "Waterfall Gardens" after the spring inside) is open daily 7am–7pm and free to enter. 4.5★ (8,423 reviews) — what visitors say, hours, and tips.
+description: >-
+  Penang Botanical Gardens (locals call it "Waterfall Gardens" after the spring
+  inside) is open daily 7am–7pm and free to enter. 4.5★ (8,487 reviews) — what
+  visitors say, hours, and tips.
 country: Malaysia
 region: Penang
 category: attraction
 pubDate: '2026-08-19T08:10:17.966Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Penang_Botanical_Garden_scene.jpg/3840px-Penang_Botanical_Garden_scene.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Penang_Botanical_Garden_scene.jpg/3840px-Penang_Botanical_Garden_scene.jpg
   credit: 'Photo: Cerevisae / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Penang_Botanical_Garden_scene.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Penang_Botanical_Garden_scene.jpg'
   focus:
     x: 62
     'y': 48
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Penang_Botanic_Gardens.jpg/1920px-Penang_Botanic_Gardens.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Penang_Botanic_Gardens.jpg/1920px-Penang_Botanic_Gardens.jpg
     credit: 'Photo: Richard N Horne / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Penang_Botanic_Gardens.jpg
+    source: 'https://commons.wikimedia.org/wiki/File:Penang_Botanic_Gardens.jpg'
 place:
   id: ChIJWeDiIPHCSjAROzyNNz_QUx8
   name: Botanical Gardens Penang
-  address: Kompleks Pentadbiran,Bangunan Pavilion, Jalan Kebun Bunga, 10350 George Town, Pulau Pinang, Malaysia
+  address: >-
+    Kompleks Pentadbiran,Bangunan Pavilion, Jalan Kebun Bunga, 10350 George
+    Town, Pulau Pinang, Malaysia
   rating: 4.5
-  userRatingsTotal: 8423
-  googleMapsUrl: https://maps.google.com/?cid=2257376808176270395&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 8487
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2257376808176270395&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 5.4377324
   lng: 100.2906982
@@ -40,20 +48,35 @@ place:
 tags:
   - penang
   - park
-quickAnswer: Penang Botanical Gardens (locals call it "Waterfall Gardens" after the spring inside) is open daily 7am–7pm and free to enter. Go before 9am on a weekday to beat tour buses and the midday heat, and budget 1.5–2 hours to walk the main loop and lily pond.
+quickAnswer: >-
+  Penang Botanical Gardens (locals call it "Waterfall Gardens" after the spring
+  inside) is open daily 7am–7pm and free to enter. Go before 9am on a weekday to
+  beat tour buses and the midday heat, and budget 1.5–2 hours to walk the main
+  loop and lily pond.
 faq:
   - q: How much does it cost to enter Penang Botanical Gardens?
-    a: Entry is free. There's no ticket booth at the gate, so you can walk or drive straight in during opening hours.
+    a: >-
+      Entry is free. There's no ticket booth at the gate, so you can walk or
+      drive straight in during opening hours.
   - q: What are the opening hours?
-    a: The gardens are open daily from 7:00 AM to 7:00 PM, including weekends and public holidays.
+    a: >-
+      The gardens are open daily from 7:00 AM to 7:00 PM, including weekends and
+      public holidays.
   - q: What's the best time to visit to avoid crowds?
-    a: Arrive right at 7am on a weekday. Late morning and afternoon, especially on weekends, bring tour buses and school groups.
+    a: >-
+      Arrive right at 7am on a weekday. Late morning and afternoon, especially
+      on weekends, bring tour buses and school groups.
   - q: How do I get there from George Town?
-    a: Take Rapid Penang bus 10 from Komtar, or a Grab/taxi (about 15-20 minutes) to the end of Jalan Kebun Bunga.
+    a: >-
+      Take Rapid Penang bus 10 from Komtar, or a Grab/taxi (about 15-20 minutes)
+      to the end of Jalan Kebun Bunga.
   - q: How long should I plan for a visit?
-    a: Budget 1.5 to 2 hours to cover the lily ponds, orchid house, and the upper trail toward the old quarry waterfall.
+    a: >-
+      Budget 1.5 to 2 hours to cover the lily ponds, orchid house, and the upper
+      trail toward the old quarry waterfall.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-29'
 ---
 
 ## Why go

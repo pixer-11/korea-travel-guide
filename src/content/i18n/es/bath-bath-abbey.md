@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: bath-bath-abbey
-srcHash: '8439d459d705'
+srcHash: '9262738d36ee'
 title: 'Abadía de Bath: guía de viaje (4.6★)'
-description: Junto a las termas romanas, en pleno centro de Bath, se alza la abadía, en Abbey Churchyard. Con 4.6★ (7,495 reseñas), le contamos qué opinan los visitantes, los horarios y algunos consejos.
+description: Junto a las termas romanas, en pleno centro de Bath, se alza la abadía, en Abbey Churchyard. Con 4.6★ (7,498 reseñas), le contamos qué opinan los visitantes, los horarios y algunos consejos.
 quickAnswer: En pleno centro de Bath, en la plaza de Abbey Churchyard y junto a las termas romanas (Roman Baths), se levanta la abadía. Esta iglesia de finales de la Edad Media conserva bóvedas de abanico en piedra y un interior neogótico victoriano obra de sir George Gilbert Scott. Además, ofrece visitas guiadas a la torre que llegan hasta el tejado. La franja más tranquila va de 10am a 11am. Conviene evitar las tardes de fin de semana, de 1pm a 6pm, y tener presente que los domingos solo se puede visitar, por ahora, de 1 a 3:30pm.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar la abadía de Bath?

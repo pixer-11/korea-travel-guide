@@ -1,44 +1,55 @@
 ---
-title: "Anglesey Abbey: Cambridge Travel Guide (4.7★)"
-description: "Anglesey Abbey sits in the village of Lode, about six miles northeast of Cambridge on the B1102, and combines a furnished Jacobean-style house, a working watermill and 98 acres of sculpted gardens. 4.7★ (8,168 reviews) — what visitors say, hours, and tips."
-country: "United Kingdom"
-region: "Cambridge"
-category: "attraction"
-pubDate: "2026-10-29T08:01:09.705Z"
+title: 'Anglesey Abbey: Cambridge Travel Guide (4.7★)'
+description: >-
+  Anglesey Abbey sits in the village of Lode, about six miles northeast of
+  Cambridge on the B1102, and combines a furnished Jacobean-style house, a
+  working watermill and 98 acres of sculpted gardens. 4.7★ (8,169 reviews) —
+  what visitors say, hours, and tips.
+country: United Kingdom
+region: Cambridge
+category: attraction
+pubDate: '2026-10-29T08:01:09.705Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/9/97/Anglesey_Abbey%2C_Lode%2C_Cambridgeshire.jpg"
-  credit: "Photo: James.stringer / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Anglesey_Abbey,_Lode,_Cambridgeshire.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/9/97/Anglesey_Abbey%2C_Lode%2C_Cambridgeshire.jpg
+  credit: 'Photo: James.stringer / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Anglesey_Abbey,_Lode,_Cambridgeshire.jpg
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/3/35/Anglesey_Abbey_%28NT%29_16-10-2010_%285168591561%29.jpg"
-    credit: "Photo: Karen Roe from Bury St Edmunds, Suffolk, UK, United Kingdom / Wikimedia Commons (CC BY 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Anglesey_Abbey_(NT)_16-10-2010_(5168591561).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/3/35/Anglesey_Abbey_%28NT%29_16-10-2010_%285168591561%29.jpg
+    credit: >-
+      Photo: Karen Roe from Bury St Edmunds, Suffolk, UK, United Kingdom /
+      Wikimedia Commons (CC BY 2.0)
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Anglesey_Abbey_(NT)_16-10-2010_(5168591561).jpg
 place:
-  id: "ChIJJ8ZORVVu2EcRM-UyHYKMMf4"
-  name: "Anglesey Abbey"
-  address: "Quy Rd, Lode, Cambridge CB25 9EJ, UK"
+  id: ChIJJ8ZORVVu2EcRM-UyHYKMMf4
+  name: Anglesey Abbey
+  address: 'Quy Rd, Lode, Cambridge CB25 9EJ, UK'
   rating: 4.7
-  userRatingsTotal: 8168
-  googleMapsUrl: "https://maps.google.com/?cid=18316575649956029747&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 8169
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=18316575649956029747&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 52.2365077
   lng: 0.24401029999999999
-  phone: "+44 1223 810080"
+  phone: +44 1223 810080
   openingHours:
-    - "Monday: 9:30 AM – 5:00 PM"
-    - "Tuesday: 9:30 AM – 5:00 PM"
-    - "Wednesday: 9:30 AM – 5:00 PM"
-    - "Thursday: 9:30 AM – 5:00 PM"
-    - "Friday: 9:30 AM – 5:00 PM"
-    - "Saturday: 9:30 AM – 5:00 PM"
-    - "Sunday: 9:30 AM – 5:00 PM"
+    - 'Monday: 9:30 AM – 5:00 PM'
+    - 'Tuesday: 9:30 AM – 5:00 PM'
+    - 'Wednesday: 9:30 AM – 5:00 PM'
+    - 'Thursday: 9:30 AM – 5:00 PM'
+    - 'Friday: 9:30 AM – 5:00 PM'
+    - 'Saturday: 9:30 AM – 5:00 PM'
+    - 'Sunday: 9:30 AM – 5:00 PM'
   busyness:
-    updated: 2026-10-29
+    updated: 2026-10-29T00:00:00.000Z
     weekdayQuiet:
       - 10
       - 16
@@ -50,24 +61,45 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_34664d4d4b594879552d4d52634532755656524f5a384a4a496843"
+    venueId: ven_34664d4d4b594879552d4d52634532755656524f5a384a4a496843
 tags:
-  - "cambridge"
-  - "historic site"
-quickAnswer: "Anglesey Abbey sits in the village of Lode, about six miles northeast of Cambridge on the B1102, and combines a furnished Jacobean-style house, a working watermill and 98 acres of sculpted gardens. On weekdays it's quietest between 10am and 11am and from 4pm to 5pm. On weekends, avoid 11am–4pm and come for the last hour, 4pm–5pm."
+  - cambridge
+  - historic site
+quickAnswer: >-
+  Anglesey Abbey sits in the village of Lode, about six miles northeast of
+  Cambridge on the B1102, and combines a furnished Jacobean-style house, a
+  working watermill and 98 acres of sculpted gardens. On weekdays it's quietest
+  between 10am and 11am and from 4pm to 5pm. On weekends, avoid 11am–4pm and
+  come for the last hour, 4pm–5pm.
 faq:
-  - q: "When is the quietest time to visit Anglesey Abbey?"
-    a: "On weekdays it's quietest from 10am to 11am and from 4pm to 5pm. On weekends the only quiet window is 4pm–5pm. Avoid weekends between 11am and 4pm, which is the busiest stretch."
-  - q: "How do I get to Anglesey Abbey from Cambridge?"
-    a: "It's about six miles northeast of the city in Lode, off the B1102 via Quy. The drive takes roughly 20 minutes and there's an on-site car park at CB25 9EJ. Buses run from central Cambridge, but check the current timetable first."
-  - q: "How long should I spend there?"
-    a: "Allow three to four hours to see the house, Lode Mill and a full loop of the 98-acre gardens."
-  - q: "What is the best season to visit?"
-    a: "Winter is the most famous season, for the Winter Garden's birch grove and February's snowdrops. Spring brings the Hyacinth Garden and late summer the Dahlia Garden. February weekends are the most crowded, so book ahead."
-  - q: "Are the house and gardens open the same hours?"
-    a: "Not always. The grounds currently open 9:30am–5pm, but the house and mill often keep shorter or seasonal hours. Check the National Trust website for the current month's times."
+  - q: When is the quietest time to visit Anglesey Abbey?
+    a: >-
+      On weekdays it's quietest from 10am to 11am and from 4pm to 5pm. On
+      weekends the only quiet window is 4pm–5pm. Avoid weekends between 11am and
+      4pm, which is the busiest stretch.
+  - q: How do I get to Anglesey Abbey from Cambridge?
+    a: >-
+      It's about six miles northeast of the city in Lode, off the B1102 via Quy.
+      The drive takes roughly 20 minutes and there's an on-site car park at CB25
+      9EJ. Buses run from central Cambridge, but check the current timetable
+      first.
+  - q: How long should I spend there?
+    a: >-
+      Allow three to four hours to see the house, Lode Mill and a full loop of
+      the 98-acre gardens.
+  - q: What is the best season to visit?
+    a: >-
+      Winter is the most famous season, for the Winter Garden's birch grove and
+      February's snowdrops. Spring brings the Hyacinth Garden and late summer
+      the Dahlia Garden. February weekends are the most crowded, so book ahead.
+  - q: Are the house and gardens open the same hours?
+    a: >-
+      Not always. The grounds currently open 9:30am–5pm, but the house and mill
+      often keep shorter or seasonal hours. Check the National Trust website for
+      the current month's times.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-29'
 ---
 
 ## A priory turned collector's house

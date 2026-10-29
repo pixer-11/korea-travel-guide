@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: auckland-howick-historical-village
-srcHash: 'ce291fb52ab5'
+srcHash: '4e62a7baed22'
 title: 'Howick Historical Village: guía de viaje de Auckland (4.7★)'
-description: En el parque Lloyd Elsmore, sobre Bells Road, en Pakuranga (este de Auckland), Howick Historical Village recrea un asentamiento colonial. Tiene una valoración de 4.7★ (841 reseñas). Aquí encontrará qué opinan los visitantes, los horarios y algunos consejos.
+description: En el parque Lloyd Elsmore, sobre Bells Road, en Pakuranga (este de Auckland), Howick Historical Village recrea un asentamiento colonial. Tiene una valoración de 4.7★ (842 reseñas). Aquí encontrará qué opinan los visitantes, los horarios y algunos consejos.
 quickAnswer: En el parque Lloyd Elsmore, sobre Bells Road, en Pakuranga (este de Auckland), Howick Historical Village recrea un asentamiento colonial. Cuenta con escuelas, tiendas y casitas de época, además de exposiciones de ropa y objetos del siglo XIX. Esta semana abre de martes a jueves y el domingo de 10am a 4pm, y el viernes y el sábado ofrece sesiones nocturnas de 5pm a 9pm. Cierra los lunes. La mayor afluencia se concentra los fines de semana entre las 10am y las 4pm.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar Howick Historical Village?

@@ -1,45 +1,54 @@
 ---
-title: "Kings Park and Botanic Garden: Perth Travel Guide (4.8★)"
-description: "Kings Park and Botanic Garden in Perth sits on Mount Eliza, just west of the CBD at Fraser Ave, with views over the Swan River, the State War Memorial and the Western Australian Botanic Garden. 4.8★ (28,540 reviews) — what visitors say, hours, and tips."
-country: "Australia"
-region: "Perth"
-category: "attraction"
-pubDate: "2026-10-01T07:47:11.013Z"
+title: 'Kings Park and Botanic Garden: Perth Travel Guide (4.8★)'
+description: >-
+  Kings Park and Botanic Garden in Perth sits on Mount Eliza, just west of the
+  CBD at Fraser Ave, with views over the Swan River, the State War Memorial and
+  the Western Australian Botanic Garden. 4.8★ (28,586 reviews) — what visitors
+  say, hours, and tips.
+country: Australia
+region: Perth
+category: attraction
+pubDate: '2026-10-01T07:47:11.013Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Red_Flower_in_Kings_Park_Botanic_Garden.jpg/3840px-Red_Flower_in_Kings_Park_Botanic_Garden.jpg"
-  credit: "Photo: Fvanrenterghem / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Red_Flower_in_Kings_Park_Botanic_Garden.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Red_Flower_in_Kings_Park_Botanic_Garden.jpg/3840px-Red_Flower_in_Kings_Park_Botanic_Garden.jpg
+  credit: 'Photo: Fvanrenterghem / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Red_Flower_in_Kings_Park_Botanic_Garden.jpg
+  via: act
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Perth_%28AU%29%2C_View_from_Kings_Park_--_2019_--_0525-30.jpg/3840px-Perth_%28AU%29%2C_View_from_Kings_Park_--_2019_--_0525-30.jpg"
-    credit: "Photo: Dietmar Rabich / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Perth_(AU),_View_from_Kings_Park_--_2019_--_0525-30.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Perth_%28AU%29%2C_View_from_Kings_Park_--_2019_--_0525-30.jpg/3840px-Perth_%28AU%29%2C_View_from_Kings_Park_--_2019_--_0525-30.jpg
+    credit: 'Photo: Dietmar Rabich / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Perth_(AU),_View_from_Kings_Park_--_2019_--_0525-30.jpg
 place:
-  id: "ChIJLx-NCSWlMioR5zBnYpB7Suw"
-  name: "Kings Park and Botanic Garden"
-  address: "Fraser Ave, Perth WA 6005, Australia"
+  id: ChIJLx-NCSWlMioR5zBnYpB7Suw
+  name: Kings Park and Botanic Garden
+  address: 'Fraser Ave, Perth WA 6005, Australia'
   rating: 4.8
-  userRatingsTotal: 28540
-  googleMapsUrl: "https://maps.google.com/?cid=17026557201284018407&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 28586
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=17026557201284018407&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -31.960910600000002
   lng: 115.8321929
-  phone: "+61 8 9480 3600"
+  phone: +61 8 9480 3600
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-10-01
+    updated: 2026-10-01T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 22
@@ -61,24 +70,44 @@ place:
       - 19
       - 20
       - 21
-    venueId: "ven_777553374270596e427a35526f694d6c5753434e2d784c4a496843"
+    venueId: ven_777553374270596e427a35526f694d6c5753434e2d784c4a496843
 tags:
-  - "perth"
-  - "park"
-quickAnswer: "Kings Park and Botanic Garden in Perth sits on Mount Eliza, just west of the CBD at Fraser Ave, with views over the Swan River, the State War Memorial and the Western Australian Botanic Garden. It is open 24 hours. Weekdays are quiet from 7am to 11pm, but on weekends only 7am–8am is calm, and it stays busy from 9am to 10pm."
+  - perth
+  - park
+quickAnswer: >-
+  Kings Park and Botanic Garden in Perth sits on Mount Eliza, just west of the
+  CBD at Fraser Ave, with views over the Swan River, the State War Memorial and
+  the Western Australian Botanic Garden. It is open 24 hours. Weekdays are quiet
+  from 7am to 11pm, but on weekends only 7am–8am is calm, and it stays busy from
+  9am to 10pm.
 faq:
-  - q: "When is the quietest time to visit Kings Park?"
-    a: "On weekdays it is quiet all day, from 7am to 11pm. On weekends only 7am–8am is calm. Avoid weekends between 9am and 10pm, the busiest stretch."
-  - q: "Is Kings Park open at night?"
-    a: "Yes. The park is open 24 hours every day, and sunset and evening views from the Fraser Avenue lookout are popular. Paths through the bushland are best walked in daylight."
-  - q: "How do I get to Kings Park from Perth CBD?"
-    a: "Walk west up St Georges Terrace and Mount Street, or climb Jacob's Ladder off Cliff Street. Transperth bus route 935 also runs from the city. Check the Transperth journey planner for current stops."
-  - q: "How long should I spend at Kings Park?"
-    a: "Allow two to three hours for Fraser Avenue, the State War Memorial, the Federation Walkway and the Botanic Garden. Allow half a day if you add a picnic, the bush trails or the Rio Tinto Naturescape with children."
-  - q: "When is wildflower season at Kings Park?"
-    a: "Roughly August to October. The Kings Park Festival in September is built around the flowering season. Check the official Kings Park website for each year's dates."
+  - q: When is the quietest time to visit Kings Park?
+    a: >-
+      On weekdays it is quiet all day, from 7am to 11pm. On weekends only
+      7am–8am is calm. Avoid weekends between 9am and 10pm, the busiest stretch.
+  - q: Is Kings Park open at night?
+    a: >-
+      Yes. The park is open 24 hours every day, and sunset and evening views
+      from the Fraser Avenue lookout are popular. Paths through the bushland are
+      best walked in daylight.
+  - q: How do I get to Kings Park from Perth CBD?
+    a: >-
+      Walk west up St Georges Terrace and Mount Street, or climb Jacob's Ladder
+      off Cliff Street. Transperth bus route 935 also runs from the city. Check
+      the Transperth journey planner for current stops.
+  - q: How long should I spend at Kings Park?
+    a: >-
+      Allow two to three hours for Fraser Avenue, the State War Memorial, the
+      Federation Walkway and the Botanic Garden. Allow half a day if you add a
+      picnic, the bush trails or the Rio Tinto Naturescape with children.
+  - q: When is wildflower season at Kings Park?
+    a: >-
+      Roughly August to October. The Kings Park Festival in September is built
+      around the flowering season. Check the official Kings Park website for
+      each year's dates.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-29'
 ---
 
 ## A city park that is mostly bush

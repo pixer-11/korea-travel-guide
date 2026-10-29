@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: perth-mindeerup
-srcHash: '866fca6cf3d7'
+srcHash: 'e215ecc68ba4'
 title: 'Mindeerup: guía de viaje de Perth (4.7★)'
-description: A orillas del río Swan, en South Perth Esplanade (South Perth), Mindeerup es un rincón de acceso libre con el perfil urbano de Perth en la otra orilla. Tiene 4.7★ (118 reseñas). Aquí encontrará qué opinan los visitantes, los horarios y algunos consejos.
+description: A orillas del río Swan, en South Perth Esplanade (South Perth), Mindeerup es un rincón de acceso libre con el perfil urbano de Perth en la otra orilla. Tiene 4.7★ (119 reseñas). Aquí encontrará qué opinan los visitantes, los horarios y algunos consejos.
 quickAnswer: Mindeerup es un rincón ribereño de South Perth Esplanade, en South Perth, que puede recorrerse libremente y desde el que se contempla, al otro lado del río Swan, el perfil urbano de Perth. Figura como abierto las 24 horas. Lo ideal es llegar a última hora de la tarde y quedarse hasta el anochecer, cuando se encienden las luces de la ciudad. Después, el ferri de Mends Street Jetty le devolverá a Elizabeth Quay.
 faq:
   - q: ¿Cómo se llega a Mindeerup desde el centro de Perth?

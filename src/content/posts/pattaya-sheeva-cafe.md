@@ -1,37 +1,47 @@
 ---
 title: 'Sheeva Cafe: Pattaya Travel Guide'
-description: Sheeva Cafe is a jungle-themed café-restaurant on Sukhumvit-Pattaya 75 (Soi 75) in Pattaya, known for its dense greenery, waterfalls, koi ponds, and photogenic tunnels of vines woven around dining nooks.
+description: >-
+  Sheeva Cafe is a jungle-themed café-restaurant on Sukhumvit-Pattaya 75 (Soi
+  75) in Pattaya, known for its dense greenery, waterfalls, koi ponds, and
+  photogenic tunnels of vines woven around dining nooks.
 country: Thailand
 region: Pattaya
 category: trendy
 pubDate: '2026-07-22T09:18:59.526Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/5012659_iusbX7c9dz8z7V6gxw2DqgRkA1A3--sgv8VGkdRyaUg.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/5012659_iusbX7c9dz8z7V6gxw2DqgRkA1A3--sgv8VGkdRyaUg.jpg
   credit: 'Photo: Foursquare user content (Sheeva Café (ชีวาคาเฟ่))'
   license: foursquare
-  source: https://foursquare.com/v/5d52717c2f162b00088561fe
+  source: 'https://foursquare.com/v/5d52717c2f162b00088561fe'
   focus:
     x: 25
-    y: 45
+    'y': 45
 gallery:
-  - url: https://fastly.4sqi.net/img/general/original/497885554_bEFKyY4AAtqFzsipBmyrpwurEIjcb9g_moQyHn3jZI8.jpg
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/497885554_bEFKyY4AAtqFzsipBmyrpwurEIjcb9g_moQyHn3jZI8.jpg
     credit: 'Photo: Foursquare user content (Sheeva Café (ชีวาคาเฟ่))'
     license: foursquare
-    source: https://foursquare.com/v/5d52717c2f162b00088561fe
+    source: 'https://foursquare.com/v/5d52717c2f162b00088561fe'
 place:
   id: ChIJHT86W9yVAjERq1m5fI2V5lE
   name: Sheeva Cafe
-  address: 146 167 Sukhumvit-Pattaya 75, Muang Pattaya, Amphoe Bang Lamung, Chang Wat Chon Buri 20150, Thailand
+  address: >-
+    146 167 Sukhumvit-Pattaya 75, Muang Pattaya, Amphoe Bang Lamung, Chang Wat
+    Chon Buri 20150, Thailand
   rating: 4.9
-  userRatingsTotal: 4890
-  priceLevel: 2
-  googleMapsUrl: https://maps.google.com/?cid=5901568796631062955&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 5433
+  priceLevel: 1
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5901568796631062955&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 12.9178728
   lng: 100.8981846
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [9, 10]
+    weekdayQuiet:
+      - 9
+      - 10
     weekendBusy:
       - 11
       - 12
@@ -40,7 +50,7 @@ place:
       - 15
       - 16
     venueId: ven_456c3556324966356d317152456a4156793957363854484a496843
-  phone: '+66 81 782 3099'
+  phone: +66 81 782 3099
   openingHours:
     - 'Monday: 9:00 AM – 6:30 PM'
     - 'Tuesday: 9:00 AM – 6:00 PM'
@@ -52,19 +62,39 @@ place:
 tags:
   - pattaya
   - trendy cafe
-quickAnswer: Sheeva Cafe is a jungle-themed café-restaurant on Sukhumvit-Pattaya 75 (Soi 75) in Pattaya, known for its dense greenery, waterfalls, koi ponds, and photogenic tunnels of vines woven around dining nooks. Go for an early lunch or mid-afternoon coffee to see the foliage in daylight, budget mid-range prices for Thai and international dishes, and set aside 1.5–2 hours to eat and wander the grounds for photos.
+quickAnswer: >-
+  Sheeva Cafe is a jungle-themed café-restaurant on Sukhumvit-Pattaya 75 (Soi
+  75) in Pattaya, known for its dense greenery, waterfalls, koi ponds, and
+  photogenic tunnels of vines woven around dining nooks. Go for an early lunch
+  or mid-afternoon coffee to see the foliage in daylight, budget mid-range
+  prices for Thai and international dishes, and set aside 1.5–2 hours to eat and
+  wander the grounds for photos.
 faq:
   - q: How do I get to Sheeva Cafe from central Pattaya?
-    a: The easiest way is Grab or a metered taxi to 146/167 Sukhumvit-Pattaya 75 — roughly a 15-25 minute ride from Central Pattaya Road or Jomtien. If self-driving, the café has on-site parking off Soi 75.
+    a: >-
+      The easiest way is Grab or a metered taxi to 146/167 Sukhumvit-Pattaya 75
+      — roughly a 15-25 minute ride from Central Pattaya Road or Jomtien. If
+      self-driving, the café has on-site parking off Soi 75.
   - q: How much does a meal cost at Sheeva Cafe?
-    a: It's mid-range (priceLevel 2 on Google) — expect standard Thai and international café-restaurant pricing, not a luxury splurge. Confirm current menu prices on-site or via delivery apps, as they can shift.
+    a: >-
+      It's mid-range (priceLevel 2 on Google) — expect standard Thai and
+      international café-restaurant pricing, not a luxury splurge. Confirm
+      current menu prices on-site or via delivery apps, as they can shift.
   - q: What's the best time to visit for photos?
-    a: Late morning to mid-afternoon gives the best natural light through the jungle canopy. Early evening adds atmosphere but some shaded corners get dim for photos.
+    a: >-
+      Late morning to mid-afternoon gives the best natural light through the
+      jungle canopy. Early evening adds atmosphere but some shaded corners get
+      dim for photos.
   - q: How long should I plan to spend there?
-    a: 'Budget 1.5-2 hours: enough time for a full meal plus a walk through the multi-level, plant-covered seating areas and water features.'
+    a: >-
+      Budget 1.5-2 hours: enough time for a full meal plus a walk through the
+      multi-level, plant-covered seating areas and water features.
   - q: Is Sheeva Cafe near the beach or Walking Street?
-    a: No — it's inland on Sukhumvit-Pattaya 75, off Sukhumvit Road, so plan it as a separate trip rather than pairing it with a beach outing.
+    a: >-
+      No — it's inland on Sukhumvit-Pattaya 75, off Sukhumvit Road, so plan it
+      as a separate trip rather than pairing it with a beach outing.
 aiGenerated: true
+updatedDate: '2026-10-29'
 ---
 
 ## Why go

@@ -1,40 +1,46 @@
 ---
-title: "Pinang Peranakan Mansion: Penang Travel Guide (4.5★)"
-description: "Pinang Peranakan Mansion in Georgetown is open daily 9:30am–5:30pm, and it's the best way to see a 19th-century Baba Nyonya merchant's home crammed with carved teak, mother-of-pearl inlay and antiques. 4.5★ (6,430 reviews) — what visitors say, hours, and tips."
-country: "Malaysia"
-region: "Penang"
-category: "attraction"
-pubDate: "2026-08-18T08:59:26.997Z"
+title: 'Pinang Peranakan Mansion: Penang Travel Guide (4.5★)'
+description: >-
+  Pinang Peranakan Mansion in Georgetown is open daily 9:30am–5:30pm, and it's
+  the best way to see a 19th-century Baba Nyonya merchant's home crammed with
+  carved teak, mother-of-pearl inlay and antiques. 4.5★ (6,594 reviews) — what
+  visitors say, hours, and tips.
+country: Malaysia
+region: Penang
+category: attraction
+pubDate: '2026-08-18T08:59:26.997Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Pinang_Peranakan_Mansion_%28I%29.jpg/1920px-Pinang_Peranakan_Mansion_%28I%29.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Pinang_Peranakan_Mansion_%28I%29.jpg/1920px-Pinang_Peranakan_Mansion_%28I%29.jpg
   credit: 'Photo: Supanut Arunoprayote / Wikimedia Commons (CC BY 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Pinang_Peranakan_Mansion_(I).jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Pinang_Peranakan_Mansion_(I).jpg'
   focus:
     x: 50
     'y': 45
 gallery: []
 place:
-  id: "ChIJCWvz3I_DSjAR5hveCXjdfIs"
-  name: "Pinang Peranakan Mansion"
-  address: "29, Church St, Georgetown, 10200 George Town, Penang, Malaysia"
+  id: ChIJCWvz3I_DSjAR5hveCXjdfIs
+  name: Pinang Peranakan Mansion
+  address: '29, Church St, Georgetown, 10200 George Town, Penang, Malaysia'
   rating: 4.5
-  userRatingsTotal: 6430
-  googleMapsUrl: "https://maps.google.com/?cid=10051151976015469542&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 6594
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10051151976015469542&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 5.4178275
   lng: 100.3412046
-  phone: "+60 4-264 2929"
+  phone: +60 4-264 2929
   openingHours:
-    - "Monday: 9:30 AM – 5:30 PM"
-    - "Tuesday: 9:30 AM – 5:30 PM"
-    - "Wednesday: 9:30 AM – 5:30 PM"
-    - "Thursday: 9:30 AM – 5:30 PM"
-    - "Friday: 9:30 AM – 5:30 PM"
-    - "Saturday: 9:30 AM – 5:30 PM"
-    - "Sunday: 9:30 AM – 5:30 PM"
+    - 'Monday: 9:30 AM – 5:30 PM'
+    - 'Tuesday: 9:30 AM – 5:30 PM'
+    - 'Wednesday: 9:30 AM – 5:30 PM'
+    - 'Thursday: 9:30 AM – 5:30 PM'
+    - 'Friday: 9:30 AM – 5:30 PM'
+    - 'Saturday: 9:30 AM – 5:30 PM'
+    - 'Sunday: 9:30 AM – 5:30 PM'
   busyness:
-    updated: 2026-08-18
+    updated: 2026-08-18T00:00:00.000Z
     weekendQuiet:
       - 10
     weekendBusy:
@@ -43,24 +49,43 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_734966646a58436576683552416a53445f49337a7657434a496843"
+    venueId: ven_734966646a58436576683552416a53445f49337a7657434a496843
 tags:
-  - "penang"
-  - "museum"
-quickAnswer: "Pinang Peranakan Mansion in Georgetown is open daily 9:30am–5:30pm, and it's the best way to see a 19th-century Baba Nyonya merchant's home crammed with carved teak, mother-of-pearl inlay and antiques. Budget 60–90 minutes. Weekend mornings between 10am and 11am are the calmest window; avoid noon to 5pm on weekends when tour buses arrive."
+  - penang
+  - museum
+quickAnswer: >-
+  Pinang Peranakan Mansion in Georgetown is open daily 9:30am–5:30pm, and it's
+  the best way to see a 19th-century Baba Nyonya merchant's home crammed with
+  carved teak, mother-of-pearl inlay and antiques. Budget 60–90 minutes. Weekend
+  mornings between 10am and 11am are the calmest window; avoid noon to 5pm on
+  weekends when tour buses arrive.
 faq:
-  - q: "What are the opening hours for Pinang Peranakan Mansion?"
-    a: "It's open every day of the week, including weekends, from 9:30am to 5:30pm. There are no separate late hours, so plan your visit within that window."
-  - q: "When is the quietest time to visit?"
-    a: "On weekends, the calmest window is 10am to 11am, shortly after opening. Try to avoid 12pm to 5pm on Saturdays and Sundays, when tour groups peak."
-  - q: "How long should I spend at the mansion?"
-    a: "Plan for 60–90 minutes. The rooms are dense with antiques and carvings, so a slow walk-through with the signage is worth the extra time."
-  - q: "How do I get there?"
-    a: "It's at 29 Church Street in George Town's UNESCO heritage core, walkable from Armenian Street and the clan jetties. Rapid Penang buses stop nearby on Beach Street and Lebuh Pantai, and Grab rides are easy to find."
-  - q: "What's nearby that I can combine with this visit?"
-    a: "The Cheong Fatt Tze Blue Mansion, Armenian Street's street art, Khoo Kongsi clan house, and Little India are all within a short walk, making for a solid half-day heritage loop."
+  - q: What are the opening hours for Pinang Peranakan Mansion?
+    a: >-
+      It's open every day of the week, including weekends, from 9:30am to
+      5:30pm. There are no separate late hours, so plan your visit within that
+      window.
+  - q: When is the quietest time to visit?
+    a: >-
+      On weekends, the calmest window is 10am to 11am, shortly after opening.
+      Try to avoid 12pm to 5pm on Saturdays and Sundays, when tour groups peak.
+  - q: How long should I spend at the mansion?
+    a: >-
+      Plan for 60–90 minutes. The rooms are dense with antiques and carvings, so
+      a slow walk-through with the signage is worth the extra time.
+  - q: How do I get there?
+    a: >-
+      It's at 29 Church Street in George Town's UNESCO heritage core, walkable
+      from Armenian Street and the clan jetties. Rapid Penang buses stop nearby
+      on Beach Street and Lebuh Pantai, and Grab rides are easy to find.
+  - q: What's nearby that I can combine with this visit?
+    a: >-
+      The Cheong Fatt Tze Blue Mansion, Armenian Street's street art, Khoo
+      Kongsi clan house, and Little India are all within a short walk, making
+      for a solid half-day heritage loop.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-29'
 ---
 ## Why go
 

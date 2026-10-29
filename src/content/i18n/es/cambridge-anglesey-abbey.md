@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: cambridge-anglesey-abbey
-srcHash: 'f4b7487a5ed5'
+srcHash: 'ea2e82a9285b'
 title: 'Anglesey Abbey: guía de viaje de Cambridge (4.7★)'
-description: 'En el pueblo de Lode, a unas seis millas al noreste de Cambridge por la B1102, Anglesey Abbey reúne una casa amueblada de estilo jacobino, un molino de agua aún en funcionamiento y 98 acres de jardines escultóricos. 4.7★ (8,168 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En el pueblo de Lode, a unas seis millas al noreste de Cambridge por la B1102, Anglesey Abbey reúne una casa amueblada de estilo jacobino, un molino de agua aún en funcionamiento y 98 acres de jardines escultóricos. 4.7★ (8,169 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En el pueblo de Lode, a unas seis millas al noreste de Cambridge por la B1102, Anglesey Abbey reúne una casa amueblada de estilo jacobino, un molino de agua aún en funcionamiento y 98 acres de jardines escultóricos. Entre semana, los momentos más tranquilos son de 10am a 11am y de 4pm a 5pm. Los fines de semana conviene evitar la franja de 11am–4pm y acudir en la última hora, de 4pm a 5pm.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar Anglesey Abbey?

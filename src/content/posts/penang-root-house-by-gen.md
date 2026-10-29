@@ -1,30 +1,36 @@
 ---
 title: Root House by Gēn in Penang
-description: 'Root House by Gēn in Penang, Malaysia — a new/trending spot: what it is, where it is, and how to visit.'
+description: >-
+  Root House by Gēn in Penang, Malaysia — a new/trending spot: what it is, where
+  it is, and how to visit.
 country: Malaysia
 region: Penang
 category: restaurant
 pubDate: '2026-07-24'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/5813125__zh1cKoiIYithsD4gZs6z9VO130H6boY02giDa8_VFc.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/5813125__zh1cKoiIYithsD4gZs6z9VO130H6boY02giDa8_VFc.jpg
   credit: 'Photo: Foursquare user content (Root House By Gēn)'
   license: foursquare
-  source: https://foursquare.com/v/6a2b90ffa6ff823cbbb1e61f
+  source: 'https://foursquare.com/v/6a2b90ffa6ff823cbbb1e61f'
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery: []
 place:
   id: ChIJvW2-l__DSjAR992DAVFF_h0
   name: Root House by Gēn 根家菜
-  address: 1926, Heritage Hotel, 227, Jalan Burma, 10050 George Town, Pulau Pinang, Malaysia
+  address: >-
+    1926, Heritage Hotel, 227, Jalan Burma, 10050 George Town, Pulau Pinang,
+    Malaysia
   rating: 4.4
-  userRatingsTotal: 33
-  googleMapsUrl: https://maps.google.com/?cid=2161241085404503543&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 50
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2161241085404503543&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 5.4239455
   lng: 100.320585
-  phone: '+60 12-827 1926'
+  phone: +60 12-827 1926
   openingHours:
     - 'Monday: 12:00 – 3:00 PM, 5:00 – 11:00 PM'
     - 'Tuesday: 12:00 – 3:00 PM, 5:00 – 11:00 PM'
@@ -36,20 +42,43 @@ place:
 tags:
   - penang
   - new & trending
-quickAnswer: Root House by Gēn is a refined Malaysian Chinese restaurant inside the restored 1926 Heritage Hotel in George Town, Penang, run by the team behind the acclaimed restaurant Gēn. It's best visited for a leisurely dinner to appreciate both the heritage architecture and the modern cooking, and since it's a newly opened, buzzed-about concept, book ahead and confirm current hours before heading over.
+quickAnswer: >-
+  Root House by Gēn is a refined Malaysian Chinese restaurant inside the
+  restored 1926 Heritage Hotel in George Town, Penang, run by the team behind
+  the acclaimed restaurant Gēn. It's best visited for a leisurely dinner to
+  appreciate both the heritage architecture and the modern cooking, and since
+  it's a newly opened, buzzed-about concept, book ahead and confirm current
+  hours before heading over.
 faq:
   - q: Where exactly is Root House by Gēn located?
-    a: It's inside the 1926 Heritage Hotel in George Town, Penang's UNESCO-listed historic core, within walking distance of Armenian Street and the Cheong Fatt Tze Mansion.
+    a: >-
+      It's inside the 1926 Heritage Hotel in George Town, Penang's UNESCO-listed
+      historic core, within walking distance of Armenian Street and the Cheong
+      Fatt Tze Mansion.
   - q: Do I need a reservation?
-    a: It's strongly recommended. As a newly opened, trending concept from the team behind Gēn, tables can fill quickly, especially on weekend evenings — book ahead and confirm the current reservation process directly with the restaurant.
+    a: >-
+      It's strongly recommended. As a newly opened, trending concept from the
+      team behind Gēn, tables can fill quickly, especially on weekend evenings —
+      book ahead and confirm the current reservation process directly with the
+      restaurant.
   - q: What kind of food does it serve?
-    a: A refined, modern take on Malaysian Chinese cuisine. Specific menu items and prices weren't confirmed at the time of writing, so check the restaurant's own channels for current offerings.
+    a: >-
+      A refined, modern take on Malaysian Chinese cuisine. Specific menu items
+      and prices weren't confirmed at the time of writing, so check the
+      restaurant's own channels for current offerings.
   - q: How do I get there without a car?
-    a: George Town's old town is highly walkable, so if you're staying within the heritage zone you can likely walk. Otherwise, e-hailing apps or trishaws are the easiest way in from elsewhere on the island.
+    a: >-
+      George Town's old town is highly walkable, so if you're staying within the
+      heritage zone you can likely walk. Otherwise, e-hailing apps or trishaws
+      are the easiest way in from elsewhere on the island.
   - q: What's nearby to combine with a visit?
-    a: The restaurant sits in the heart of George Town's heritage district, close to the Blue Mansion, Armenian Street, and the city's famous street art trail — good for an afternoon of sightseeing before dinner.
+    a: >-
+      The restaurant sits in the heart of George Town's heritage district, close
+      to the Blue Mansion, Armenian Street, and the city's famous street art
+      trail — good for an afternoon of sightseeing before dinner.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-29'
 ---
 
 ## Why Root House by Gēn stands out

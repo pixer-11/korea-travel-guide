@@ -1,31 +1,39 @@
 ---
-title: "The Collective: Where to Eat in Pattaya"
-description: The Collective Pattaya is the all-day dining hall inside the Holiday Inn Pattaya on Beach Road, best known for its sprawling international buffet spreads (seafood, sushi, curries, live cooking stations) alongside an à la carte menu.
+title: 'The Collective: Where to Eat in Pattaya'
+description: >-
+  The Collective Pattaya is the all-day dining hall inside the Holiday Inn
+  Pattaya on Beach Road, best known for its sprawling international buffet
+  spreads (seafood, sushi, curries, live cooking stations) alongside an à la
+  carte menu.
 country: Thailand
 region: Pattaya
 category: restaurant
-pubDate: "2026-07-22T09:12:24.736Z"
+pubDate: '2026-07-22T09:12:24.736Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/52952452_aHkA2nNzYSbQze9dfaZMLHEeMjK50kvtulIw3QUn4Ws.jpg
-  credit: "Photo: Foursquare user content (North Pattaya Beach)"
+  url: >-
+    https://fastly.4sqi.net/img/general/original/52952452_aHkA2nNzYSbQze9dfaZMLHEeMjK50kvtulIw3QUn4Ws.jpg
+  credit: 'Photo: Foursquare user content (North Pattaya Beach)'
   license: foursquare
-  source: https://foursquare.com/v/537ba766498eeca2266be38e
+  source: 'https://foursquare.com/v/537ba766498eeca2266be38e'
   focus:
     x: 50
-    y: 35
+    'y': 35
 gallery: []
 place:
   id: ChIJsejiuTO9AjERnTBniNqKjII
   name: The Collective Pattaya
-  address: 463/68 Beachfront, Holiday Inn Pattaya 463/99 Beach Rd, Muang Pattaya, Amphoe Bang Lamung, Chang Wat Chon Buri 20150, Thailand
+  address: >-
+    463/68 Beachfront, Holiday Inn Pattaya 463/99 Beach Rd, Muang Pattaya,
+    Amphoe Bang Lamung, Chang Wat Chon Buri 20150, Thailand
   rating: 4.8
-  userRatingsTotal: 2173
-  googleMapsUrl: https://maps.google.com/?cid=9407046392866091165&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 2295
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9407046392866091165&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 12.9477202
   lng: 100.8847605
   busyness:
-    updated: "2026-07-23"
+    updated: '2026-07-23'
     weekdayQuiet:
       - 12
       - 13
@@ -48,30 +56,53 @@ place:
     venueId: ven_49496a4b714e696e42546e52456a41394f5475696a65734a496843
   phone: +66 38 725 555
   openingHours:
-    - "Monday: 12:00 PM – 12:00 AM"
-    - "Tuesday: 12:00 PM – 12:00 AM"
-    - "Wednesday: 12:00 PM – 12:00 AM"
-    - "Thursday: 12:00 PM – 12:00 AM"
-    - "Friday: 12:00 PM – 12:00 AM"
-    - "Saturday: 12:00 PM – 12:00 AM"
-    - "Sunday: 12:00 PM – 12:00 AM"
+    - 'Monday: 12:00 PM – 12:00 AM'
+    - 'Tuesday: 12:00 PM – 12:00 AM'
+    - 'Wednesday: 12:00 PM – 12:00 AM'
+    - 'Thursday: 12:00 PM – 12:00 AM'
+    - 'Friday: 12:00 PM – 12:00 AM'
+    - 'Saturday: 12:00 PM – 12:00 AM'
+    - 'Sunday: 12:00 PM – 12:00 AM'
+  priceLevel: 2
 tags:
   - pattaya
   - local restaurant
-quickAnswer: The Collective Pattaya is the all-day dining hall inside the Holiday Inn Pattaya on Beach Road, best known for its sprawling international buffet spreads (seafood, sushi, curries, live cooking stations) alongside an à la carte menu. With a 4.8 rating across 2,173+ reviews, it's a reliable pick for families and groups who want variety without leaving the beachfront strip — go for lunch or the dinner buffet, and book ahead on weekends.
+quickAnswer: >-
+  The Collective Pattaya is the all-day dining hall inside the Holiday Inn
+  Pattaya on Beach Road, best known for its sprawling international buffet
+  spreads (seafood, sushi, curries, live cooking stations) alongside an à la
+  carte menu. With a 4.8 rating across 2,173+ reviews, it's a reliable pick for
+  families and groups who want variety without leaving the beachfront strip — go
+  for lunch or the dinner buffet, and book ahead on weekends.
 faq:
   - q: Where exactly is The Collective Pattaya located?
-    a: It's inside the Holiday Inn Pattaya at 463/99 Beach Road, Muang Pattaya, Bang Lamung, Chon Buri — on the beach side of Beach Road, easily reached by baht bus, taxi, or a walk from Central Pattaya or Walking Street.
+    a: >-
+      It's inside the Holiday Inn Pattaya at 463/99 Beach Road, Muang Pattaya,
+      Bang Lamung, Chon Buri — on the beach side of Beach Road, easily reached
+      by baht bus, taxi, or a walk from Central Pattaya or Walking Street.
   - q: Do I need to be a hotel guest to eat there?
-    a: No, it's open to outside diners as well as Holiday Inn guests, though reservations are recommended for dinner and peak weekends since it's a popular buffet spot.
+    a: >-
+      No, it's open to outside diners as well as Holiday Inn guests, though
+      reservations are recommended for dinner and peak weekends since it's a
+      popular buffet spot.
   - q: How much does the buffet cost?
-    a: Pricing varies by meal (lunch vs. dinner) and season, so it's best to check current rates directly with the Holiday Inn Pattaya before visiting rather than rely on older listed prices.
+    a: >-
+      Pricing varies by meal (lunch vs. dinner) and season, so it's best to
+      check current rates directly with the Holiday Inn Pattaya before visiting
+      rather than rely on older listed prices.
   - q: What's the best time to go?
-    a: Lunch, right after the venue opens at noon, is quieter and a good value option; dinner gets busy after 7 PM, especially on weekends and holidays, so arrive early or book ahead.
+    a: >-
+      Lunch, right after the venue opens at noon, is quieter and a good value
+      option; dinner gets busy after 7 PM, especially on weekends and holidays,
+      so arrive early or book ahead.
   - q: What's nearby if I want to combine it with sightseeing?
-    a: It's a short walk to Pattaya's main beachfront promenade, Central Pattaya's shopping area, and the northern end of Walking Street, making it easy to pair a meal with an evening stroll.
+    a: >-
+      It's a short walk to Pattaya's main beachfront promenade, Central
+      Pattaya's shopping area, and the northern end of Walking Street, making it
+      easy to pair a meal with an evening stroll.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-29'
 ---
 
 ## Why go

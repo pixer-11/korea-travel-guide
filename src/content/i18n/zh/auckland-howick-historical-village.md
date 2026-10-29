@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: auckland-howick-historical-village
-srcHash: 'ce291fb52ab5'
+srcHash: '4e62a7baed22'
 title: 豪伊克历史村：奥克兰旅行指南（4.7★）
-description: 豪伊克历史村是奥克兰东区帕库兰加的一处殖民时期定居点复原景区，坐落在Bells Road上的劳埃德·埃尔斯莫尔公园里。评分4.7★（841条评价），这里汇总了游客评价、开放时间和游览建议。
+description: 豪伊克历史村是奥克兰东区帕库兰加的一处殖民时期定居点复原景区，坐落在Bells Road上的劳埃德·埃尔斯莫尔公园里。评分4.7★（842条评价），这里汇总了游客评价、开放时间和游览建议。
 quickAnswer: 豪伊克历史村（Howick Historical Village）位于奥克兰东区帕库兰加（Pakuranga）Bells Road的劳埃德·埃尔斯莫尔公园（Lloyd Elsmore Park）内，复原了一处殖民时期的定居点。村里有旧式学校、杂货店和小屋，还陈列着19世纪的服饰与器物。本周周二至周四和周日的开放时间为上午10点至下午4点，周五、周六只在晚间开放，时间为下午5点至晚上9点。周一闭馆。周末上午10点至下午4点是游客最多的时段。
 faq:
   - q: 什么时候去豪伊克历史村人最少？

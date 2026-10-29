@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: penang-penang-street-art
-srcHash: 'c23e95f300a3'
+srcHash: 'd25067ffb036'
 title: 'Arte urbano de Penang: guía de viaje (4.4★)'
-description: 'Por todo el casco antiguo de George Town, declarado Patrimonio de la Humanidad por la UNESCO, se reparten los murales y las caricaturas de hierro forjado del arte urbano de Penang, y sus callejuelas pueden recorrerse gratis a cualquier hora. 4.4★ (12,284 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'Por todo el casco antiguo de George Town, declarado Patrimonio de la Humanidad por la UNESCO, se reparten los murales y las caricaturas de hierro forjado del arte urbano de Penang, y sus callejuelas pueden recorrerse gratis a cualquier hora. 4.4★ (12,357 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Por todo el casco antiguo de George Town, declarado Patrimonio de la Humanidad por la UNESCO, se reparten los murales y las caricaturas de hierro forjado del arte urbano de Penang, y sus callejuelas pueden recorrerse gratis a cualquier hora. El mejor momento para ir es entre las 7am y las 9am, sea cual sea el día de la semana, porque es cuando menos gente hay. Los fines de semana, de 10am a 11pm, habrá que hacer cola para fotografiar las paredes más conocidas.
 faq:
   - q: ¿Cuál es el momento más tranquilo para ver el arte urbano de Penang?

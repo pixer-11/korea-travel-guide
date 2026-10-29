@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: perth-mindeerup
-srcHash: '866fca6cf3d7'
+srcHash: 'e215ecc68ba4'
 title: Mindeerup：珀斯旅行指南（4.7★）
-description: Mindeerup位于南珀斯（South Perth）的南珀斯滨河大道（South Perth Esplanade），是一处免费开放、可随意漫步的河畔景点，隔着天鹅河与珀斯城市天际线相望。评分4.7★（118条评价），本文汇总游客评价、开放时间与游览建议。
+description: Mindeerup位于南珀斯（South Perth）的南珀斯滨河大道（South Perth Esplanade），是一处免费开放、可随意漫步的河畔景点，隔着天鹅河与珀斯城市天际线相望。评分4.7★（119条评价），本文汇总游客评价、开放时间与游览建议。
 quickAnswer: Mindeerup坐落在南珀斯的南珀斯滨河大道（South Perth Esplanade）上，免费开放，可随意漫步，隔着天鹅河正对珀斯城市天际线。据标注，这里24小时开放。建议傍晚前来，一直待到黄昏，看城市灯火次第亮起，之后从门兹街码头（Mends Street Jetty）搭渡轮返回伊丽莎白码头（Elizabeth Quay）。
 faq:
   - q: 从珀斯市中心怎么去Mindeerup？

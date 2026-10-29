@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: penang-botanical-gardens-penang
-srcHash: 'e3dd5d6acf82'
+srcHash: '92610dcf7ea3'
 title: 'Jardín Botánico de Penang: guía de viaje (4,5★)'
-description: 'El Jardín Botánico de Penang (los lugareños lo llaman "Waterfall Gardens" por el manantial que hay en su interior) abre todos los días de 7:00 a 19:00 y la entrada es gratuita. 4,5★ (8.423 reseñas): lo que opinan los visitantes, horarios y consejos.'
+description: 'El Jardín Botánico de Penang (los lugareños lo llaman "Waterfall Gardens" por el manantial que hay en su interior) abre todos los días de 7:00 a 19:00 y la entrada es gratuita. 4,5★ (8.487 reseñas): lo que opinan los visitantes, horarios y consejos.'
 quickAnswer: El Jardín Botánico de Penang (los lugareños lo llaman "Waterfall Gardens" por el manantial que hay en su interior) abre todos los días de 7:00 a 19:00 y la entrada es gratuita. Conviene llegar antes de las 9:00 en día laborable para evitar los autobuses turísticos y el calor del mediodía, y hay que reservar entre 1,5 y 2 horas para recorrer el circuito principal y el estanque de nenúfares.
 faq:
   - q: ¿Cuánto cuesta entrar al Jardín Botánico de Penang?

@@ -1,44 +1,54 @@
 ---
-title: "Howick Historical Village: Auckland Travel Guide (4.7★)"
-description: "Howick Historical Village is a recreated colonial settlement inside Lloyd Elsmore Park on Bells Road, Pakuranga, in east Auckland. 4.7★ (841 reviews) — what visitors say, hours, and tips."
-country: "New Zealand"
-region: "Auckland"
-category: "hidden-gem"
-pubDate: "2026-10-29T08:01:07.630Z"
+title: 'Howick Historical Village: Auckland Travel Guide (4.7★)'
+description: >-
+  Howick Historical Village is a recreated colonial settlement inside Lloyd
+  Elsmore Park on Bells Road, Pakuranga, in east Auckland. 4.7★ (842 reviews) —
+  what visitors say, hours, and tips.
+country: New Zealand
+region: Auckland
+category: hidden-gem
+pubDate: '2026-10-29T08:01:07.630Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Old_cottage_and_church_in_Howick_Historical_Village.jpg/1920px-Old_cottage_and_church_in_Howick_Historical_Village.jpg"
-  credit: "Photo: Pseudopanax at English Wikipedia / Wikimedia Commons (Public domain)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Old_cottage_and_church_in_Howick_Historical_Village.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Old_cottage_and_church_in_Howick_Historical_Village.jpg/1920px-Old_cottage_and_church_in_Howick_Historical_Village.jpg
+  credit: 'Photo: Pseudopanax at English Wikipedia / Wikimedia Commons (Public domain)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Old_cottage_and_church_in_Howick_Historical_Village.jpg
   focus:
     x: 30
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/f/fa/Early_Settler%27s_Sod_Cottage_in_Howick_Historical_Village_%28cropped%29.jpg"
-    credit: "Photo: Pseudopanax at English Wikipedia / Wikimedia Commons (Public domain)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Early_Settler%27s_Sod_Cottage_in_Howick_Historical_Village_(cropped).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/f/fa/Early_Settler%27s_Sod_Cottage_in_Howick_Historical_Village_%28cropped%29.jpg
+    credit: >-
+      Photo: Pseudopanax at English Wikipedia / Wikimedia Commons (Public
+      domain)
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Early_Settler%27s_Sod_Cottage_in_Howick_Historical_Village_(cropped).jpg
 place:
-  id: "ChIJE__9bQtLDW0RMNdIKDnR-HU"
-  name: "Howick Historical Village"
-  address: "Lloyd Elsmore Park, Bells Road, Pakuranga, Auckland 2010, New Zealand"
+  id: ChIJE__9bQtLDW0RMNdIKDnR-HU
+  name: Howick Historical Village
+  address: 'Lloyd Elsmore Park, Bells Road, Pakuranga, Auckland 2010, New Zealand'
   rating: 4.7
-  userRatingsTotal: 841
-  googleMapsUrl: "https://maps.google.com/?cid=8500774340081014576&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 842
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=8500774340081014576&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -36.9073974
   lng: 174.90328889999998
-  phone: "+64 9 576 9506"
+  phone: +64 9 576 9506
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 10:00 AM – 4:00 PM"
-    - "Wednesday: 10:00 AM – 4:00 PM"
-    - "Thursday: 10:00 AM – 4:00 PM"
-    - "Friday: 5:00 – 9:00 PM"
-    - "Saturday: 5:00 – 9:00 PM"
-    - "Sunday: 10:00 AM – 4:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 10:00 AM – 4:00 PM'
+    - 'Wednesday: 10:00 AM – 4:00 PM'
+    - 'Thursday: 10:00 AM – 4:00 PM'
+    - 'Friday: 5:00 – 9:00 PM'
+    - 'Saturday: 5:00 – 9:00 PM'
+    - 'Sunday: 10:00 AM – 4:00 PM'
   busyness:
-    updated: 2026-10-29
+    updated: 2026-10-29T00:00:00.000Z
     weekendBusy:
       - 10
       - 11
@@ -46,24 +56,45 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_55482d526e444b49644e4d523057444c745162395f5f454a496843"
+    venueId: ven_55482d526e444b49644e4d523057444c745162395f5f454a496843
 tags:
-  - "auckland"
-  - "old quarter"
-quickAnswer: "Howick Historical Village is a recreated colonial settlement inside Lloyd Elsmore Park on Bells Road, Pakuranga, in east Auckland. It has period schools, stores, cottages and displays of 19th-century clothing and artefacts. This week it opens Tuesday to Thursday and Sunday from 10am to 4pm, with evening sessions Friday and Saturday from 5pm to 9pm. It is closed Monday, and weekend days between 10am and 4pm are its busiest window."
+  - auckland
+  - old quarter
+quickAnswer: >-
+  Howick Historical Village is a recreated colonial settlement inside Lloyd
+  Elsmore Park on Bells Road, Pakuranga, in east Auckland. It has period
+  schools, stores, cottages and displays of 19th-century clothing and artefacts.
+  This week it opens Tuesday to Thursday and Sunday from 10am to 4pm, with
+  evening sessions Friday and Saturday from 5pm to 9pm. It is closed Monday, and
+  weekend days between 10am and 4pm are its busiest window.
 faq:
-  - q: "When is the quietest time to visit Howick Historical Village?"
-    a: "No quiet window has been measured, but the busiest one has: weekends from 10am to 4pm. To avoid it, visit Tuesday to Thursday during the current 10am to 4pm opening."
-  - q: "What days is Howick Historical Village open?"
-    a: "This week it opens Tuesday, Wednesday, Thursday and Sunday from 10am to 4pm, and Friday and Saturday evenings from 5pm to 9pm. It is closed Monday. Hours change seasonally and for events, so check the official website first."
-  - q: "How do I get to Howick Historical Village?"
-    a: "It is in Lloyd Elsmore Park on Bells Road, Pakuranga, east Auckland, and has parking. By public transport, take the Eastern Busway from Panmure station to Pakuranga, then use a local bus or walk."
-  - q: "How long should I spend there?"
-    a: "Allow two to three hours to enter the cottages, schoolhouse and stores and read the displays. Families with children often stay longer."
-  - q: "What is nearby?"
-    a: "Howick township, settled by the Fencible soldiers, is a short drive east. So are the beaches of Cockle Bay and Mellons Bay."
+  - q: When is the quietest time to visit Howick Historical Village?
+    a: >-
+      No quiet window has been measured, but the busiest one has: weekends from
+      10am to 4pm. To avoid it, visit Tuesday to Thursday during the current
+      10am to 4pm opening.
+  - q: What days is Howick Historical Village open?
+    a: >-
+      This week it opens Tuesday, Wednesday, Thursday and Sunday from 10am to
+      4pm, and Friday and Saturday evenings from 5pm to 9pm. It is closed
+      Monday. Hours change seasonally and for events, so check the official
+      website first.
+  - q: How do I get to Howick Historical Village?
+    a: >-
+      It is in Lloyd Elsmore Park on Bells Road, Pakuranga, east Auckland, and
+      has parking. By public transport, take the Eastern Busway from Panmure
+      station to Pakuranga, then use a local bus or walk.
+  - q: How long should I spend there?
+    a: >-
+      Allow two to three hours to enter the cottages, schoolhouse and stores and
+      read the displays. Families with children often stay longer.
+  - q: What is nearby?
+    a: >-
+      Howick township, settled by the Fencible soldiers, is a short drive east.
+      So are the beaches of Cockle Bay and Mellons Bay.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-29'
 ---
 
 ## A colonial village on a suburban park

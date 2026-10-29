@@ -1,46 +1,52 @@
 ---
-title: "Penang Street Art: Travel Guide (4.4★)"
-description: "Penang Street Art is a spread of murals and wrought-iron caricatures across George Town's UNESCO-listed old quarter, and you can walk the lanes free at any hour. 4.4★ (12,284 reviews) — what visitors say, hours, and tips."
-country: "Malaysia"
-region: "Penang"
-category: "hidden-gem"
-pubDate: "2026-09-29T07:53:38.218Z"
+title: 'Penang Street Art: Travel Guide (4.4★)'
+description: >-
+  Penang Street Art is a spread of murals and wrought-iron caricatures across
+  George Town's UNESCO-listed old quarter, and you can walk the lanes free at
+  any hour. 4.4★ (12,357 reviews) — what visitors say, hours, and tips.
+country: Malaysia
+region: Penang
+category: hidden-gem
+pubDate: '2026-09-29T07:53:38.218Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Georgetown_penang_street_arts.jpg/3840px-Georgetown_penang_street_arts.jpg"
-  credit: "Photo: Kushared (Mohammed Sardar) / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Georgetown_penang_street_arts.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Georgetown_penang_street_arts.jpg/3840px-Georgetown_penang_street_arts.jpg
+  credit: 'Photo: Kushared (Mohammed Sardar) / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Georgetown_penang_street_arts.jpg'
+  via: act
   focus:
     x: 57
-    y: 28
+    'y': 28
     top: 22
     bottom: 33
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Penang_Street_Art_Bicycle.JPG/3840px-Penang_Street_Art_Bicycle.JPG"
-    credit: "Photo: DTW / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Penang_Street_Art_Bicycle.JPG"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Penang_Street_Art_Bicycle.JPG/3840px-Penang_Street_Art_Bicycle.JPG
+    credit: 'Photo: DTW / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Penang_Street_Art_Bicycle.JPG'
 place:
-  id: "ChIJ-cCMa5LDSjARF1sg9FiPauc"
-  name: "Penang Street Art"
-  address: "316, Beach St, Georgetown, 10300 George Town, Penang, Malaysia"
+  id: ChIJ-cCMa5LDSjARF1sg9FiPauc
+  name: Penang Street Art
+  address: '316, Beach St, Georgetown, 10300 George Town, Penang, Malaysia'
   rating: 4.4
-  userRatingsTotal: 12284
-  googleMapsUrl: "https://maps.google.com/?cid=16675298182508337943&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 12357
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16675298182508337943&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 5.4145962
   lng: 100.3382558
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-09-29
+    updated: 2026-09-29T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -69,24 +75,41 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_637561506946396773314652416a53444c35614d43632d4a496843"
+    venueId: ven_637561506946396773314652416a53444c35614d43632d4a496843
 tags:
-  - "penang"
-  - "old quarter"
-quickAnswer: "Penang Street Art is a spread of murals and wrought-iron caricatures across George Town's UNESCO-listed old quarter, and you can walk the lanes free at any hour. Go between 7am and 9am on any day of the week, when the lanes are quietest. From 10am to 11pm on weekends, expect to queue for photos at the best-known walls."
+  - penang
+  - old quarter
+quickAnswer: >-
+  Penang Street Art is a spread of murals and wrought-iron caricatures across
+  George Town's UNESCO-listed old quarter, and you can walk the lanes free at
+  any hour. Go between 7am and 9am on any day of the week, when the lanes are
+  quietest. From 10am to 11pm on weekends, expect to queue for photos at the
+  best-known walls.
 faq:
-  - q: "When is the quietest time to see Penang Street Art?"
-    a: "7am to 9am, on weekdays and weekends alike. Avoid 10am to 11pm on weekends, when queues build at the famous murals."
-  - q: "Is Penang Street Art open at night?"
-    a: "Yes. The murals are outdoors on public streets and listed as open 24 hours, but daylight is best for photos."
-  - q: "How long does the mural walk take?"
-    a: "Allow two to three hours to cover Armenian Street, Cannon Street, Ah Quee Street and Beach Street on foot, plus stops."
-  - q: "How do I get to the murals?"
-    a: "Take the ferry from Butterworth to Weld Quay and walk, or ride the free CAT shuttle bus around the heritage zone. You can also book a Grab to Armenian Street."
-  - q: "What else is near the street art?"
-    a: "Khoo Kongsi, Kapitan Keling Mosque, Chew Jetty and Cheong Fatt Tze Mansion are all within walking distance in George Town's old quarter."
+  - q: When is the quietest time to see Penang Street Art?
+    a: >-
+      7am to 9am, on weekdays and weekends alike. Avoid 10am to 11pm on
+      weekends, when queues build at the famous murals.
+  - q: Is Penang Street Art open at night?
+    a: >-
+      Yes. The murals are outdoors on public streets and listed as open 24
+      hours, but daylight is best for photos.
+  - q: How long does the mural walk take?
+    a: >-
+      Allow two to three hours to cover Armenian Street, Cannon Street, Ah Quee
+      Street and Beach Street on foot, plus stops.
+  - q: How do I get to the murals?
+    a: >-
+      Take the ferry from Butterworth to Weld Quay and walk, or ride the free
+      CAT shuttle bus around the heritage zone. You can also book a Grab to
+      Armenian Street.
+  - q: What else is near the street art?
+    a: >-
+      Khoo Kongsi, Kapitan Keling Mosque, Chew Jetty and Cheong Fatt Tze Mansion
+      are all within walking distance in George Town's old quarter.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-29'
 ---
 
 ## Paint on Old Shophouse Walls

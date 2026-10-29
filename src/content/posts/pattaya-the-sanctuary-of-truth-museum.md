@@ -1,27 +1,33 @@
 ---
 title: 'The Sanctuary of Truth Museum: Pattaya Travel Guide'
-description: The Sanctuary of Truth is a monumental, all-wood temple-palace on Naklua's northern coast, still under construction since 1981 by hand-carving craftsmen.
+description: >-
+  The Sanctuary of Truth is a monumental, all-wood temple-palace on Naklua's
+  northern coast, still under construction since 1981 by hand-carving craftsmen.
 country: Thailand
 region: Pattaya
 category: hidden-gem
 pubDate: '2026-07-22T09:15:39.203Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sanctuary_of_Truth_20240916-1.jpg/1920px-Sanctuary_of_Truth_20240916-1.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sanctuary_of_Truth_20240916-1.jpg/1920px-Sanctuary_of_Truth_20240916-1.jpg
   credit: 'Photo: Suicasmo / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Sanctuary_of_Truth_20240916-1.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Sanctuary_of_Truth_20240916-1.jpg'
 gallery: []
 place:
   id: ChIJHaK3Sd-9AjERaQw5hd_K3VU
   name: The Sanctuary of Truth Museum
-  address: 206, 2 Soi Na Kluea 12 Moo 5, Muang Pattaya, Amphoe Bang Lamung, Chang Wat Chon Buri 20150, Thailand
+  address: >-
+    206, 2 Soi Na Kluea 12 Moo 5, Muang Pattaya, Amphoe Bang Lamung, Chang Wat
+    Chon Buri 20150, Thailand
   rating: 4.7
-  userRatingsTotal: 44360
-  googleMapsUrl: https://maps.google.com/?cid=6187324524438555753&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 49649
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6187324524438555753&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 12.972870499999999
   lng: 100.88913199999999
-  phone: '+66 81 350 8710'
+  phone: +66 81 350 8710
   openingHours:
     - 'Monday: 8:00 AM – 8:30 PM'
     - 'Tuesday: 8:00 AM – 8:30 PM'
@@ -33,19 +39,41 @@ place:
 tags:
   - pattaya
   - hidden gem
-quickAnswer: The Sanctuary of Truth is a monumental, all-wood temple-palace on Naklua's northern coast, still under construction since 1981 by hand-carving craftsmen. Budget 1.5–2 hours (more if you catch the traditional dance show or cultural demonstrations), and go in the morning before tour buses arrive and heat builds. It's roughly 15–20 minutes by car/taxi from central Pattaya (Beach Road/Walking Street), or reachable by songthaew and a short walk.
+quickAnswer: >-
+  The Sanctuary of Truth is a monumental, all-wood temple-palace on Naklua's
+  northern coast, still under construction since 1981 by hand-carving craftsmen.
+  Budget 1.5–2 hours (more if you catch the traditional dance show or cultural
+  demonstrations), and go in the morning before tour buses arrive and heat
+  builds. It's roughly 15–20 minutes by car/taxi from central Pattaya (Beach
+  Road/Walking Street), or reachable by songthaew and a short walk.
 faq:
   - q: How long should I plan to spend at the Sanctuary of Truth?
-    a: Most visitors spend 1.5 to 2 hours touring the towers and galleries; add 20–30 minutes if you want to catch one of the traditional dance or puppet shows near the entrance.
+    a: >-
+      Most visitors spend 1.5 to 2 hours touring the towers and galleries; add
+      20–30 minutes if you want to catch one of the traditional dance or puppet
+      shows near the entrance.
   - q: How do I get there from central Pattaya?
-    a: It's about 15–20 minutes by taxi or Grab from Beach Road/Walking Street, since the site sits in Naklua, north of the main tourist strip. Songthaews along Naklua Road also pass nearby, followed by a short walk.
+    a: >-
+      It's about 15–20 minutes by taxi or Grab from Beach Road/Walking Street,
+      since the site sits in Naklua, north of the main tourist strip. Songthaews
+      along Naklua Road also pass nearby, followed by a short walk.
   - q: Is the museum really still under construction?
-    a: Yes — construction began in 1981 and continues by design, with woodcarvers and craftsmen actively working on-site, so the experience can vary slightly between visits.
+    a: >-
+      Yes — construction began in 1981 and continues by design, with woodcarvers
+      and craftsmen actively working on-site, so the experience can vary
+      slightly between visits.
   - q: What should I wear?
-    a: Modest dress covering shoulders and knees is recommended since it's a religious and cultural site, and closed-toe shoes are practical for the uneven wooden and stone walkways.
+    a: >-
+      Modest dress covering shoulders and knees is recommended since it's a
+      religious and cultural site, and closed-toe shoes are practical for the
+      uneven wooden and stone walkways.
   - q: What else is nearby worth combining with this visit?
-    a: The Naklua Market and seafood restaurants along the coast road make a natural pairing, letting you turn the trip into a half-day outing rather than a single stop.
+    a: >-
+      The Naklua Market and seafood restaurants along the coast road make a
+      natural pairing, letting you turn the trip into a half-day outing rather
+      than a single stop.
 aiGenerated: true
+updatedDate: '2026-10-29'
 ---
 
 ## Why go

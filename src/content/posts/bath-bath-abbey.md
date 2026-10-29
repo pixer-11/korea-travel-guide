@@ -1,44 +1,50 @@
 ---
-title: "Bath Abbey: Travel Guide (4.6★)"
-description: "Bath Abbey stands in Abbey Churchyard in central Bath, beside the Roman Baths. 4.6★ (7,495 reviews) — what visitors say, hours, and tips."
-country: "United Kingdom"
-region: "Bath"
-category: "attraction"
-pubDate: "2026-10-29T08:01:02.488Z"
+title: 'Bath Abbey: Travel Guide (4.6★)'
+description: >-
+  Bath Abbey stands in Abbey Churchyard in central Bath, beside the Roman Baths.
+  4.6★ (7,498 reviews) — what visitors say, hours, and tips.
+country: United Kingdom
+region: Bath
+category: attraction
+pubDate: '2026-10-29T08:01:02.488Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Bath_Abbey_from_the_South_West.jpg/1920px-Bath_Abbey_from_the_South_West.jpg"
-  credit: "Photo: GarfieldJAustin / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Bath_Abbey_from_the_South_West.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Bath_Abbey_from_the_South_West.jpg/1920px-Bath_Abbey_from_the_South_West.jpg
+  credit: 'Photo: GarfieldJAustin / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Bath_Abbey_from_the_South_West.jpg'
   focus:
     x: 60
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/7/70/Bath_Abbey_and_Entertainer_-_July_2006.jpg"
-    credit: "Photo: Diliff / Wikimedia Commons (CC BY 2.5)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Bath_Abbey_and_Entertainer_-_July_2006.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/7/70/Bath_Abbey_and_Entertainer_-_July_2006.jpg
+    credit: 'Photo: Diliff / Wikimedia Commons (CC BY 2.5)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Bath_Abbey_and_Entertainer_-_July_2006.jpg
 place:
-  id: "ChIJtRFG0ROBcUgRRCWgSqjiiA0"
-  name: "Bath Abbey"
-  address: "Bath BA1 1LT, UK"
+  id: ChIJtRFG0ROBcUgRRCWgSqjiiA0
+  name: Bath Abbey
+  address: 'Bath BA1 1LT, UK'
   rating: 4.6
-  userRatingsTotal: 7495
-  googleMapsUrl: "https://maps.google.com/?cid=975278531760104772&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 7498
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=975278531760104772&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 51.3814809
   lng: -2.3587346
-  phone: "+44 1225 422462"
+  phone: +44 1225 422462
   openingHours:
-    - "Monday: 10:00 AM – 5:00 PM"
-    - "Tuesday: 10:00 AM – 5:00 PM"
-    - "Wednesday: 10:00 AM – 5:00 PM"
-    - "Thursday: 10:00 AM – 5:00 PM"
-    - "Friday: 10:00 AM – 5:00 PM"
-    - "Saturday: 10:00 AM – 6:00 PM"
-    - "Sunday: 1:00 – 3:30 PM"
+    - 'Monday: 10:00 AM – 5:00 PM'
+    - 'Tuesday: 10:00 AM – 5:00 PM'
+    - 'Wednesday: 10:00 AM – 5:00 PM'
+    - 'Thursday: 10:00 AM – 5:00 PM'
+    - 'Friday: 10:00 AM – 5:00 PM'
+    - 'Saturday: 10:00 AM – 6:00 PM'
+    - 'Sunday: 1:00 – 3:30 PM'
   busyness:
-    updated: 2026-10-29
+    updated: 2026-10-29T00:00:00.000Z
     weekdayQuiet:
       - 10
     weekendQuiet:
@@ -49,24 +55,44 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_304169696a71536757435252675563424f5230474652744a496843"
+    venueId: ven_304169696a71536757435252675563424f5230474652744a496843
 tags:
-  - "bath"
-  - "historic site"
-quickAnswer: "Bath Abbey stands in Abbey Churchyard in central Bath, beside the Roman Baths. It is a late medieval church with stone fan vaulting, a Victorian Gothic interior by Sir George Gilbert Scott, and tower tours up to the roof. It is calmest between 10am and 11am. Avoid weekend afternoons from 1pm–6pm, and remember Sunday visiting is currently limited to 1–3:30pm."
+  - bath
+  - historic site
+quickAnswer: >-
+  Bath Abbey stands in Abbey Churchyard in central Bath, beside the Roman Baths.
+  It is a late medieval church with stone fan vaulting, a Victorian Gothic
+  interior by Sir George Gilbert Scott, and tower tours up to the roof. It is
+  calmest between 10am and 11am. Avoid weekend afternoons from 1pm–6pm, and
+  remember Sunday visiting is currently limited to 1–3:30pm.
 faq:
-  - q: "When is the quietest time to visit Bath Abbey?"
-    a: "Between 10am and 11am, on weekdays and on weekends. Avoid weekend afternoons from 1pm to 6pm, which are the busiest hours. On Sunday the abbey currently opens only from 1pm to 3:30pm, so Saturday is the only weekend day with a quiet morning."
-  - q: "How do I get to Bath Abbey from the train station?"
-    a: "Bath Spa station is about a ten-minute walk north through the pedestrian centre. The abbey is in Abbey Churchyard, next to the Roman Baths and the Pump Room."
-  - q: "Do I need to book the tower tour?"
-    a: "Yes, booking ahead is wise. Tours are guided with limited places and often sell out on weekends. The climb is on narrow spiral stairs with no lift. Book, and check the current price, on the abbey's official website."
-  - q: "How long should I spend at Bath Abbey?"
-    a: "Allow 45 minutes to an hour for the interior, the fan vaulting and the memorials. Add the length of the tower tour if you've booked one."
-  - q: "What is near Bath Abbey?"
-    a: "The Roman Baths and the Pump Room share the same square. Pulteney Bridge, Parade Gardens and the River Avon are a few minutes' walk east."
+  - q: When is the quietest time to visit Bath Abbey?
+    a: >-
+      Between 10am and 11am, on weekdays and on weekends. Avoid weekend
+      afternoons from 1pm to 6pm, which are the busiest hours. On Sunday the
+      abbey currently opens only from 1pm to 3:30pm, so Saturday is the only
+      weekend day with a quiet morning.
+  - q: How do I get to Bath Abbey from the train station?
+    a: >-
+      Bath Spa station is about a ten-minute walk north through the pedestrian
+      centre. The abbey is in Abbey Churchyard, next to the Roman Baths and the
+      Pump Room.
+  - q: Do I need to book the tower tour?
+    a: >-
+      Yes, booking ahead is wise. Tours are guided with limited places and often
+      sell out on weekends. The climb is on narrow spiral stairs with no lift.
+      Book, and check the current price, on the abbey's official website.
+  - q: How long should I spend at Bath Abbey?
+    a: >-
+      Allow 45 minutes to an hour for the interior, the fan vaulting and the
+      memorials. Add the length of the tower tour if you've booked one.
+  - q: What is near Bath Abbey?
+    a: >-
+      The Roman Baths and the Pump Room share the same square. Pulteney Bridge,
+      Parade Gardens and the River Avon are a few minutes' walk east.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-29'
 ---
 
 ## Angels on the west front

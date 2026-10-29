@@ -1,60 +1,89 @@
 ---
-title: "Mindeerup: Perth Travel Guide (4.7★)"
-description: "Mindeerup is a free-to-wander riverside spot on South Perth Esplanade in South Perth, facing the Perth city skyline across the Swan River. 4.7★ (118 reviews) — what visitors say, hours, and tips."
-country: "Australia"
-region: "Perth"
-category: "hidden-gem"
-pubDate: "2026-09-28T16:48:51.211Z"
+title: 'Mindeerup: Perth Travel Guide (4.7★)'
+description: >-
+  Mindeerup is a free-to-wander riverside spot on South Perth Esplanade in South
+  Perth, facing the Perth city skyline across the Swan River. 4.7★ (119 reviews)
+  — what visitors say, hours, and tips.
+country: Australia
+region: Perth
+category: hidden-gem
+pubDate: '2026-09-28T16:48:51.211Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/South_Perth_Mindeerup_02_meerkats.jpg/3840px-South_Perth_Mindeerup_02_meerkats.jpg"
-  credit: "Photo: Orderinchaos / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:South_Perth_Mindeerup_02_meerkats.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/South_Perth_Mindeerup_02_meerkats.jpg/3840px-South_Perth_Mindeerup_02_meerkats.jpg
+  credit: 'Photo: Orderinchaos / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:South_Perth_Mindeerup_02_meerkats.jpg
+  via: act
   focus:
     x: 65
-    y: 55
+    'y': 55
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/South_Perth_Mindeerup_artwork.jpg/3840px-South_Perth_Mindeerup_artwork.jpg"
-    credit: "Photo: Orderinchaos / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:South_Perth_Mindeerup_artwork.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/South_Perth_Mindeerup_artwork.jpg/3840px-South_Perth_Mindeerup_artwork.jpg
+    credit: 'Photo: Orderinchaos / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:South_Perth_Mindeerup_artwork.jpg'
 place:
-  id: "ChIJN26T1iu7MioRtq3yd6XwSqE"
-  name: "Mindeerup"
-  address: "S Perth Esplanade, South Perth WA 6151, Australia"
+  id: ChIJN26T1iu7MioRtq3yd6XwSqE
+  name: Mindeerup
+  address: 'S Perth Esplanade, South Perth WA 6151, Australia'
   rating: 4.7
-  userRatingsTotal: 118
-  googleMapsUrl: "https://maps.google.com/?cid=11622366381855649206&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 119
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=11622366381855649206&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -31.971444999999996
   lng: 115.85325549999997
-  phone: "+61 8 9474 0777"
+  phone: +61 8 9474 0777
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "perth"
-  - "hidden gem"
-quickAnswer: "Mindeerup is a free-to-wander riverside spot on South Perth Esplanade in South Perth, facing the Perth city skyline across the Swan River. It's listed as open 24 hours. Come in the late afternoon and stay through dusk as the city lights come on, then pair it with the Mends Street Jetty ferry back to Elizabeth Quay."
+  - perth
+  - hidden gem
+quickAnswer: >-
+  Mindeerup is a free-to-wander riverside spot on South Perth Esplanade in South
+  Perth, facing the Perth city skyline across the Swan River. It's listed as
+  open 24 hours. Come in the late afternoon and stay through dusk as the city
+  lights come on, then pair it with the Mends Street Jetty ferry back to
+  Elizabeth Quay.
 faq:
-  - q: "How do I get to Mindeerup from central Perth?"
-    a: "Take the Transperth ferry from Elizabeth Quay Jetty to Mends Street Jetty in South Perth. It's a short crossing, and the jetty sits right on South Perth Esplanade. You can also walk or cycle over the Narrows Bridge shared path, or take a bus along Mill Point Road."
-  - q: "When is the best time to visit Mindeerup?"
-    a: "Late afternoon through dusk. The Esplanade faces the city across the Swan River, so you see the towers in daylight, the sunset toward Kings Park and the Narrows Bridge, and then the skyline lighting up after dark."
-  - q: "Is Mindeerup open at night?"
-    a: "Yes. It's listed as open 24 hours, every day. Stick to lit paths after dark and check the last ferry time if you plan to return to Elizabeth Quay by boat."
-  - q: "How long should I spend there?"
-    a: "Twenty minutes covers the view. Allow two to three hours if you ferry across, walk the foreshore to the Old Mill at Mill Point and stay for sunset."
-  - q: "What else is nearby?"
-    a: "Mends Street Jetty and the cafés on Mends Street, the Old Mill at Mill Point, Sir James Mitchell Park along the river to the east, and Perth Zoo on Labouchere Road."
+  - q: How do I get to Mindeerup from central Perth?
+    a: >-
+      Take the Transperth ferry from Elizabeth Quay Jetty to Mends Street Jetty
+      in South Perth. It's a short crossing, and the jetty sits right on South
+      Perth Esplanade. You can also walk or cycle over the Narrows Bridge shared
+      path, or take a bus along Mill Point Road.
+  - q: When is the best time to visit Mindeerup?
+    a: >-
+      Late afternoon through dusk. The Esplanade faces the city across the Swan
+      River, so you see the towers in daylight, the sunset toward Kings Park and
+      the Narrows Bridge, and then the skyline lighting up after dark.
+  - q: Is Mindeerup open at night?
+    a: >-
+      Yes. It's listed as open 24 hours, every day. Stick to lit paths after
+      dark and check the last ferry time if you plan to return to Elizabeth Quay
+      by boat.
+  - q: How long should I spend there?
+    a: >-
+      Twenty minutes covers the view. Allow two to three hours if you ferry
+      across, walk the foreshore to the Old Mill at Mill Point and stay for
+      sunset.
+  - q: What else is nearby?
+    a: >-
+      Mends Street Jetty and the cafés on Mends Street, the Old Mill at Mill
+      Point, Sir James Mitchell Park along the river to the east, and Perth Zoo
+      on Labouchere Road.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-29'
 ---
 
 Stand at the edge of the grass and the whole of central Perth sits in front of you, low and wide across the water. The towers of the CBD line the far bank. Between you and them runs the Swan River, which the Whadjuk Noongar people call Derbarl Yerrigan. Mindeerup puts you on the South Perth side of that view, and it's the side most visitors never cross over to.

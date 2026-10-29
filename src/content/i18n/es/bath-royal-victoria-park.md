@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: bath-royal-victoria-park
-srcHash: '8af256fec64e'
+srcHash: '6486fc72d2b6'
 title: 'Royal Victoria Park: guía de viaje de Bath (4.6★)'
-description: 'En Marlborough Lane, justo debajo del Royal Crescent, se extiende el Royal Victoria Park, un gran parque victoriano de Bath con amplias praderas, jardín botánico, skate park, zonas infantiles, estanque de barcas y pistas de tenis. 4.6★ (8,535 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En Marlborough Lane, justo debajo del Royal Crescent, se extiende el Royal Victoria Park, un gran parque victoriano de Bath con amplias praderas, jardín botánico, skate park, zonas infantiles, estanque de barcas y pistas de tenis. 4.6★ (8,534 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Justo debajo del Royal Crescent, en Marlborough Lane, se encuentra el Royal Victoria Park, un gran parque victoriano de Bath. Cuenta con amplias praderas, jardín botánico, skate park, zonas infantiles, estanque de barcas y pistas de tenis. Según Google, ahora mismo abre las 24 horas. Los fines de semana, la mayor afluencia se concentra entre las 10am y las 7pm. Si busca un paseo tranquilo, vaya un sábado o un domingo entre las 7am y las 8am.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Royal Victoria Park?

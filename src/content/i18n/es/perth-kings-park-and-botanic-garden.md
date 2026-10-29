@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: perth-kings-park-and-botanic-garden
-srcHash: 'bf6239f57754'
+srcHash: '1f5a033df9f8'
 title: 'Kings Park y Jardín Botánico: guía de viaje de Perth (4.8★)'
-description: En lo alto del monte Eliza, justo al oeste del centro de Perth, en Fraser Ave, el Kings Park y su Jardín Botánico ofrecen vistas sobre el río Swan, el Monumento Estatal a los Caídos y el Jardín Botánico de Australia Occidental. Con 4.8★ (28,540 reseñas), aquí encontrará la opinión de los visitantes, los horarios y consejos prácticos.
+description: En lo alto del monte Eliza, justo al oeste del centro de Perth, en Fraser Ave, el Kings Park y su Jardín Botánico ofrecen vistas sobre el río Swan, el Monumento Estatal a los Caídos y el Jardín Botánico de Australia Occidental. Con 4.8★ (28,586 reseñas), aquí encontrará la opinión de los visitantes, los horarios y consejos prácticos.
 quickAnswer: En lo alto del monte Eliza (Mount Eliza), justo al oeste del centro financiero de Perth, en Fraser Ave, el Kings Park y su Jardín Botánico dominan el río Swan (Swan River), el Monumento Estatal a los Caídos (State War Memorial) y el Jardín Botánico de Australia Occidental. Abre las 24 horas. Entre semana reina la tranquilidad de 7am a 11pm; los fines de semana, en cambio, solo hay calma de 7am–8am, y la afluencia es alta de 9am a 10pm.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Kings Park?

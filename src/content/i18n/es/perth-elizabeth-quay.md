@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: perth-elizabeth-quay
-srcHash: '16546c318516'
+srcHash: '0d1985fecfa8'
 title: 'Elizabeth Quay: guía de viaje de Perth (4.6★)'
-description: 'A orillas del río Swan, en el extremo sur del centro de Perth (CBD), se extiende el paseo ribereño de Elizabeth Quay, al que se llega desde la estación de tren Elizabeth Quay, desde el embarcadero de ferris de Transperth o con un breve paseo por Barrack Street o William Street. 4.6★ (22,048 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'A orillas del río Swan, en el extremo sur del centro de Perth (CBD), se extiende el paseo ribereño de Elizabeth Quay, al que se llega desde la estación de tren Elizabeth Quay, desde el embarcadero de ferris de Transperth o con un breve paseo por Barrack Street o William Street. 4.6★ (22,169 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: A orillas del río Swan, en el extremo sur del centro de Perth (CBD), se extiende el paseo ribereño de Elizabeth Quay, al que se llega desde la estación de tren Elizabeth Quay, desde el embarcadero de ferris de Transperth o con un breve paseo por Barrack Street o William Street. Los fines de semana, la mayor afluencia se concentra entre las 11am y las 11pm. Si desea disfrutar a solas del puente, de la isla y de la escultura Spanda, acuda un sábado o un domingo entre las 7am y las 9am.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar Elizabeth Quay?

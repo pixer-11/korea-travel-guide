@@ -1,55 +1,80 @@
 ---
-title: "Kek Lok Si Temple: Penang Travel Guide (4.4★)"
-description: "Kek Lok Si Temple in Ayer Itam is Malaysia's largest Buddhist temple complex, open daily 8:30am–5:30pm, and it's genuinely worth 2-3 hours. 4.4★ (15,120 reviews) — what visitors say, hours, and tips."
-country: "Malaysia"
-region: "Penang"
-category: "attraction"
-pubDate: "2026-08-19T07:59:09.426Z"
+title: 'Kek Lok Si Temple: Penang Travel Guide (4.4★)'
+description: >-
+  Kek Lok Si Temple in Ayer Itam is Malaysia's largest Buddhist temple complex,
+  open daily 8:30am–5:30pm, and it's genuinely worth 2-3 hours. 4.4★ (15,424
+  reviews) — what visitors say, hours, and tips.
+country: Malaysia
+region: Penang
+category: attraction
+pubDate: '2026-08-19T07:59:09.426Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Kek_Lok_Si_at_dusk.jpg/1920px-Kek_Lok_Si_at_dusk.jpg"
-  credit: "Photo: HundenvonPenang / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Kek_Lok_Si_at_dusk.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Kek_Lok_Si_at_dusk.jpg/1920px-Kek_Lok_Si_at_dusk.jpg
+  credit: 'Photo: HundenvonPenang / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Kek_Lok_Si_at_dusk.jpg'
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery: []
 place:
-  id: "ChIJZYb8XRjCSjARxD5Df-qEkCw"
-  name: "Kek Lok Si Temple"
-  address: "Kek Lok Si Temple, 86s, Jln Balik Pulau, 11500 Ayer Itam, Pulau Pinang, Malaysia"
+  id: ChIJZYb8XRjCSjARxD5Df-qEkCw
+  name: Kek Lok Si Temple
+  address: >-
+    Kek Lok Si Temple, 86s, Jln Balik Pulau, 11500 Ayer Itam, Pulau Pinang,
+    Malaysia
   rating: 4.4
-  userRatingsTotal: 15120
-  googleMapsUrl: "https://maps.google.com/?cid=3211212677007490756&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 15424
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3211212677007490756&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 5.3996413
   lng: 100.27361259999999
-  phone: "+60 4-828 3317"
+  phone: +60 4-828 3317
   openingHours:
-    - "Monday: 8:30 AM – 5:30 PM"
-    - "Tuesday: 8:30 AM – 5:30 PM"
-    - "Wednesday: 8:30 AM – 5:30 PM"
-    - "Thursday: 8:30 AM – 5:30 PM"
-    - "Friday: 8:30 AM – 5:30 PM"
-    - "Saturday: 8:30 AM – 5:30 PM"
-    - "Sunday: 8:30 AM – 5:30 PM"
+    - 'Monday: 8:30 AM – 5:30 PM'
+    - 'Tuesday: 8:30 AM – 5:30 PM'
+    - 'Wednesday: 8:30 AM – 5:30 PM'
+    - 'Thursday: 8:30 AM – 5:30 PM'
+    - 'Friday: 8:30 AM – 5:30 PM'
+    - 'Saturday: 8:30 AM – 5:30 PM'
+    - 'Sunday: 8:30 AM – 5:30 PM'
 tags:
-  - "penang"
-  - "historic site"
-quickAnswer: "Kek Lok Si Temple in Ayer Itam is Malaysia's largest Buddhist temple complex, open daily 8:30am–5:30pm, and it's genuinely worth 2-3 hours. Go right at opening to beat the tour buses, ride the inclined lift up to the giant Kuan Yin statue, and budget separate small entrance fees for the pagoda and the lift rather than expecting one ticket for everything."
+  - penang
+  - historic site
+quickAnswer: >-
+  Kek Lok Si Temple in Ayer Itam is Malaysia's largest Buddhist temple complex,
+  open daily 8:30am–5:30pm, and it's genuinely worth 2-3 hours. Go right at
+  opening to beat the tour buses, ride the inclined lift up to the giant Kuan
+  Yin statue, and budget separate small entrance fees for the pagoda and the
+  lift rather than expecting one ticket for everything.
 faq:
-  - q: "How much time should I budget for Kek Lok Si Temple?"
-    a: "Plan on 2-3 hours to walk the terraces, climb the pagoda, and ride up to the Kuan Yin statue without rushing."
-  - q: "What are the entrance fees?"
-    a: "General entry to the temple grounds is free, but the pagoda climb and the inclined lift to the Kuan Yin statue each carry a small separate fee, payable in cash."
-  - q: "What's the best time of day to visit?"
-    a: "Arrive close to the 8:30am opening or in the last hour before the 5:30pm close, since mid-morning to early afternoon is when tour buses from George Town arrive."
-  - q: "How do I get to Kek Lok Si from George Town?"
-    a: "Take Rapid Penang bus 201, 203, 204, or 502 toward Ayer Itam, or book a Grab ride, which takes about 20 minutes from the city center."
-  - q: "Can I combine it with Penang Hill?"
-    a: "Yes, Penang Hill's funicular station is a short drive from the temple, so many visitors pair both into one half-day trip."
+  - q: How much time should I budget for Kek Lok Si Temple?
+    a: >-
+      Plan on 2-3 hours to walk the terraces, climb the pagoda, and ride up to
+      the Kuan Yin statue without rushing.
+  - q: What are the entrance fees?
+    a: >-
+      General entry to the temple grounds is free, but the pagoda climb and the
+      inclined lift to the Kuan Yin statue each carry a small separate fee,
+      payable in cash.
+  - q: What's the best time of day to visit?
+    a: >-
+      Arrive close to the 8:30am opening or in the last hour before the 5:30pm
+      close, since mid-morning to early afternoon is when tour buses from George
+      Town arrive.
+  - q: How do I get to Kek Lok Si from George Town?
+    a: >-
+      Take Rapid Penang bus 201, 203, 204, or 502 toward Ayer Itam, or book a
+      Grab ride, which takes about 20 minutes from the city center.
+  - q: Can I combine it with Penang Hill?
+    a: >-
+      Yes, Penang Hill's funicular station is a short drive from the temple, so
+      many visitors pair both into one half-day trip.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-29'
 ---
 
 ## Why go

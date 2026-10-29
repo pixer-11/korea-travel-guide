@@ -1,45 +1,54 @@
 ---
-title: "Royal Victoria Park: Bath Travel Guide (4.6★)"
-description: "Royal Victoria Park in Bath is a large Victorian park on Marlborough Lane, just below the Royal Crescent, with open lawns, a botanical garden, a skate park, playgrounds, a boating pond and tennis courts. 4.6★ (8,535 reviews) — what visitors say, hours, and tips."
-country: "United Kingdom"
-region: "Bath"
-category: "attraction"
-pubDate: "2026-10-29T08:01:05.578Z"
+title: 'Royal Victoria Park: Bath Travel Guide (4.6★)'
+description: >-
+  Royal Victoria Park in Bath is a large Victorian park on Marlborough Lane,
+  just below the Royal Crescent, with open lawns, a botanical garden, a skate
+  park, playgrounds, a boating pond and tennis courts. 4.6★ (8,534 reviews) —
+  what visitors say, hours, and tips.
+country: United Kingdom
+region: Bath
+category: attraction
+pubDate: '2026-10-29T08:01:05.578Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/a/ab/Balloon_at_Royal_Victoria_Park%2C_Bath_-_panoramio.jpg"
-  credit: "Photo: Matt Prosser / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Balloon_at_Royal_Victoria_Park,_Bath_-_panoramio.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/a/ab/Balloon_at_Royal_Victoria_Park%2C_Bath_-_panoramio.jpg
+  credit: 'Photo: Matt Prosser / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Balloon_at_Royal_Victoria_Park,_Bath_-_panoramio.jpg
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/The_Hollow_in_Royal_Victoria_Park%2C_Bath_-_panoramio.jpg/3840px-The_Hollow_in_Royal_Victoria_Park%2C_Bath_-_panoramio.jpg"
-    credit: "Photo: Matt Prosser / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:The_Hollow_in_Royal_Victoria_Park,_Bath_-_panoramio.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/The_Hollow_in_Royal_Victoria_Park%2C_Bath_-_panoramio.jpg/3840px-The_Hollow_in_Royal_Victoria_Park%2C_Bath_-_panoramio.jpg
+    credit: 'Photo: Matt Prosser / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:The_Hollow_in_Royal_Victoria_Park,_Bath_-_panoramio.jpg
 place:
-  id: "ChIJNbSuIRWBcUgRDWNdo793S88"
-  name: "Royal Victoria Park"
-  address: "Marlborough Ln, Bath BA1 2NQ, UK"
+  id: ChIJNbSuIRWBcUgRDWNdo793S88
+  name: Royal Victoria Park
+  address: 'Marlborough Ln, Bath BA1 2NQ, UK'
   rating: 4.6
-  userRatingsTotal: 8535
-  googleMapsUrl: "https://maps.google.com/?cid=14937164254067647245&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 8534
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14937164254067647245&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 51.3861504
   lng: -2.3720165
-  phone: "+44 1225 394041"
+  phone: +44 1225 394041
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-10-29
+    updated: 2026-10-29T00:00:00.000Z
     weekdayQuiet:
       - 22
     weekdayBusy:
@@ -61,24 +70,45 @@ place:
       - 16
       - 17
       - 18
-    venueId: "ven_3838533339376f644e574452675563425752497553624e4a496843"
+    venueId: ven_3838533339376f644e574452675563425752497553624e4a496843
 tags:
-  - "bath"
-  - "park"
-quickAnswer: "Royal Victoria Park in Bath is a large Victorian park on Marlborough Lane, just below the Royal Crescent, with open lawns, a botanical garden, a skate park, playgrounds, a boating pond and tennis courts. Google currently lists it as open 24 hours. Weekends are busiest from 10am to 7pm, so for a quiet walk go between 7am and 8am on a Saturday or Sunday."
+  - bath
+  - park
+quickAnswer: >-
+  Royal Victoria Park in Bath is a large Victorian park on Marlborough Lane,
+  just below the Royal Crescent, with open lawns, a botanical garden, a skate
+  park, playgrounds, a boating pond and tennis courts. Google currently lists it
+  as open 24 hours. Weekends are busiest from 10am to 7pm, so for a quiet walk
+  go between 7am and 8am on a Saturday or Sunday.
 faq:
-  - q: "When is the quietest time to visit Royal Victoria Park?"
-    a: "On weekends it's calmest from 7am to 8am and again from 10pm to 11pm. On weekdays the quietest hour is 10pm to 11pm. Avoid 10am to 7pm on weekends, which is the busiest stretch."
-  - q: "How do I get to Royal Victoria Park from Bath Spa station?"
-    a: "Walk about 20–25 minutes west through the city centre, past the Circus, or along the Upper Bristol Road. The main park is on Marlborough Lane, BA1 2NQ."
-  - q: "Is there parking at Royal Victoria Park?"
-    a: "Yes, there are pay-and-display bays on the park's internal roads, with tariffs on the machines. Central Bath is congested, so park-and-ride is often easier."
-  - q: "How long should I spend there?"
-    a: "About an hour for a walk below the Royal Crescent and a look at the obelisk. Half a day if you add the Botanical Gardens, the playground or a boat on the pond."
-  - q: "What's nearby?"
-    a: "The Royal Crescent overlooks the park, and the Circus is a few minutes' walk further on. The Botanical Gardens are inside the park, in its north-west corner."
+  - q: When is the quietest time to visit Royal Victoria Park?
+    a: >-
+      On weekends it's calmest from 7am to 8am and again from 10pm to 11pm. On
+      weekdays the quietest hour is 10pm to 11pm. Avoid 10am to 7pm on weekends,
+      which is the busiest stretch.
+  - q: How do I get to Royal Victoria Park from Bath Spa station?
+    a: >-
+      Walk about 20–25 minutes west through the city centre, past the Circus, or
+      along the Upper Bristol Road. The main park is on Marlborough Lane, BA1
+      2NQ.
+  - q: Is there parking at Royal Victoria Park?
+    a: >-
+      Yes, there are pay-and-display bays on the park's internal roads, with
+      tariffs on the machines. Central Bath is congested, so park-and-ride is
+      often easier.
+  - q: How long should I spend there?
+    a: >-
+      About an hour for a walk below the Royal Crescent and a look at the
+      obelisk. Half a day if you add the Botanical Gardens, the playground or a
+      boat on the pond.
+  - q: What's nearby?
+    a: >-
+      The Royal Crescent overlooks the park, and the Circus is a few minutes'
+      walk further on. The Botanical Gardens are inside the park, in its
+      north-west corner.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-29'
 ---
 
 ## Below the Crescent's curve

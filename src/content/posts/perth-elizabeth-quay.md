@@ -1,35 +1,45 @@
 ---
-title: "Elizabeth Quay: Perth Travel Guide (4.6★)"
-description: "Elizabeth Quay is a waterfront precinct on the Swan River at the southern edge of the Perth CBD, reached from Elizabeth Quay train station, the Transperth ferry jetty or a short walk down Barrack or William Street. 4.6★ (22,048 reviews) — what visitors say, hours, and tips."
-country: "Australia"
-region: "Perth"
-category: "attraction"
-pubDate: "2026-09-28T17:02:41.280Z"
+title: 'Elizabeth Quay: Perth Travel Guide (4.6★)'
+description: >-
+  Elizabeth Quay is a waterfront precinct on the Swan River at the southern edge
+  of the Perth CBD, reached from Elizabeth Quay train station, the Transperth
+  ferry jetty or a short walk down Barrack or William Street. 4.6★ (22,169
+  reviews) — what visitors say, hours, and tips.
+country: Australia
+region: Perth
+category: attraction
+pubDate: '2026-09-28T17:02:41.280Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Elizabeth_Quay_June_2018_b.jpg/1920px-Elizabeth_Quay_June_2018_b.jpg"
-  credit: "Photo: File:Elizabeth Quay June 2018.jpg: Nick-D derivative work: / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Elizabeth_Quay_June_2018_b.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Elizabeth_Quay_June_2018_b.jpg/1920px-Elizabeth_Quay_June_2018_b.jpg
+  credit: >-
+    Photo: File:Elizabeth Quay June 2018.jpg: Nick-D derivative work: /
+    Wikimedia Commons (CC BY-SA 3.0)
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Elizabeth_Quay_June_2018_b.jpg'
   focus:
     x: 55
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Perth_%28AU%29%2C_Elizabeth_Quay_Bridge_--_2019_--_0375-9.jpg/3840px-Perth_%28AU%29%2C_Elizabeth_Quay_Bridge_--_2019_--_0375-9.jpg"
-    credit: "Photo: Dietmar Rabich / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Perth_(AU),_Elizabeth_Quay_Bridge_--_2019_--_0375-9.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Perth_%28AU%29%2C_Elizabeth_Quay_Bridge_--_2019_--_0375-9.jpg/3840px-Perth_%28AU%29%2C_Elizabeth_Quay_Bridge_--_2019_--_0375-9.jpg
+    credit: 'Photo: Dietmar Rabich / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Perth_(AU),_Elizabeth_Quay_Bridge_--_2019_--_0375-9.jpg
 place:
-  id: "ChIJ1WsySSq7MioRjd2qHQepRag"
-  name: "Elizabeth Quay"
-  address: "The Esplanade, Perth WA 6000, Australia"
+  id: ChIJ1WsySSq7MioRjd2qHQepRag
+  name: Elizabeth Quay
+  address: 'The Esplanade, Perth WA 6000, Australia'
   rating: 4.6
-  userRatingsTotal: 22048
-  googleMapsUrl: "https://maps.google.com/?cid=12125283419792530829&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 22169
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=12125283419792530829&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -31.9575763
   lng: 115.85698740000001
   busyness:
-    updated: 2026-09-28
+    updated: 2026-09-28T00:00:00.000Z
     weekdayBusy:
       - 12
       - 13
@@ -53,7 +63,7 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_676152706551487132646a526f694d37715353797357314a496843"
+    venueId: ven_676152706551487132646a526f694d37715353797357314a496843
   openingHours:
     - 'Monday: Open 24 hours'
     - 'Tuesday: Open 24 hours'
@@ -63,22 +73,45 @@ place:
     - 'Saturday: Open 24 hours'
     - 'Sunday: Open 24 hours'
 tags:
-  - "perth"
-  - "top attraction"
-quickAnswer: "Elizabeth Quay is a waterfront precinct on the Swan River at the southern edge of the Perth CBD, reached from Elizabeth Quay train station, the Transperth ferry jetty or a short walk down Barrack or William Street. Weekends are busiest from 11am to 11pm, so if you want the bridge, the island and the Spanda sculpture to yourself, come between 7am and 9am on a Saturday or Sunday."
+  - perth
+  - top attraction
+quickAnswer: >-
+  Elizabeth Quay is a waterfront precinct on the Swan River at the southern edge
+  of the Perth CBD, reached from Elizabeth Quay train station, the Transperth
+  ferry jetty or a short walk down Barrack or William Street. Weekends are
+  busiest from 11am to 11pm, so if you want the bridge, the island and the
+  Spanda sculpture to yourself, come between 7am and 9am on a Saturday or
+  Sunday.
 faq:
-  - q: "When is the quietest time to visit Elizabeth Quay?"
-    a: "On weekends, the quietest window is 7am to 9am. Avoid 11am to 11pm on Saturdays and Sundays, because that is when the quay is at its busiest. We don't have weekday crowd data."
-  - q: "How do I get to Elizabeth Quay by public transport?"
-    a: "Take the train to Elizabeth Quay station, on the line to Mandurah, or a bus to Elizabeth Quay Bus Station. The free Blue CAT also stops nearby. From South Perth, the Transperth ferry runs from Mends Street jetty."
-  - q: "How long should I spend at Elizabeth Quay?"
-    a: "A lap of the promenade, the bridge and the island takes 30 to 45 minutes. Allow two to three hours if you add a meal, the South Perth ferry or time at the water park."
-  - q: "Is the BHP Water Park open all year?"
-    a: "It generally runs in the warmer months. Check the City of Perth or Elizabeth Quay website before you go, and bring swimwear and a towel for children."
-  - q: "What is near Elizabeth Quay?"
-    a: "Barrack Street Jetty and The Bell Tower are a few minutes' walk east, with Rottnest Island ferries leaving from the jetty. Kings Park is uphill to the west. South Perth and Perth Zoo are one short ferry ride across the river."
+  - q: When is the quietest time to visit Elizabeth Quay?
+    a: >-
+      On weekends, the quietest window is 7am to 9am. Avoid 11am to 11pm on
+      Saturdays and Sundays, because that is when the quay is at its busiest. We
+      don't have weekday crowd data.
+  - q: How do I get to Elizabeth Quay by public transport?
+    a: >-
+      Take the train to Elizabeth Quay station, on the line to Mandurah, or a
+      bus to Elizabeth Quay Bus Station. The free Blue CAT also stops nearby.
+      From South Perth, the Transperth ferry runs from Mends Street jetty.
+  - q: How long should I spend at Elizabeth Quay?
+    a: >-
+      A lap of the promenade, the bridge and the island takes 30 to 45 minutes.
+      Allow two to three hours if you add a meal, the South Perth ferry or time
+      at the water park.
+  - q: Is the BHP Water Park open all year?
+    a: >-
+      It generally runs in the warmer months. Check the City of Perth or
+      Elizabeth Quay website before you go, and bring swimwear and a towel for
+      children.
+  - q: What is near Elizabeth Quay?
+    a: >-
+      Barrack Street Jetty and The Bell Tower are a few minutes' walk east, with
+      Rottnest Island ferries leaving from the jetty. Kings Park is uphill to
+      the west. South Perth and Perth Zoo are one short ferry ride across the
+      river.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-29'
 ---
 
 ## An inlet dug back into the river
