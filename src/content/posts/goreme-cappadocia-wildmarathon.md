@@ -10,7 +10,6 @@ eventEndDate: '2026-11-08'
 eventRecurring: true
 eventVenue: Göreme, Cappadocia
 eventFactsAsked: true
-gallery: []
 tags:
   - göreme
   - event
@@ -28,6 +27,14 @@ faq:
     a: The Göreme Open-Air Museum is on the edge of the village. Nearby you also have Uçhisar Castle, the pottery town of Avanos and the underground cities of Derinkuyu and Kaymaklı. When the wind allows, hot-air balloons launch around Göreme at dawn.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/d/de/Cappadocia_19.JPG
+  credit: 'Photo: Sanjageni / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Cappadocia_19.JPG
+  focus:
+    x: 55
+    'y': 40
 ---
 
 ## A race run on soft rock

@@ -17,6 +17,14 @@ eventOffers:
   free: true
   currency: MYR
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Beach_Street%2C_George_Town_02.jpg/1280px-Beach_Street%2C_George_Town_02.jpg'
+  credit: 'Photo: C.W. Tan (alias PenangLion/gavreauri) (CC0)'
+  license: wikimedia
+  source: 'File:Beach Street, George Town 02.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - george town

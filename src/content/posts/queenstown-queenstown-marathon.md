@@ -15,6 +15,14 @@ eventOrganizer:
 eventOffers:
   url: https://www.queenstown-marathon.co.nz/entry-info
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/6/66/Queenstown_NZ_08.jpg'
+  credit: 'Photo: Krzysztof Golik / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Queenstown_NZ_08.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - queenstown

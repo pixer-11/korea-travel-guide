@@ -14,13 +14,15 @@ eventPerformer:
   kind: group
 eventFactsAsked: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Infosys_Theater_at_Madison_Square_Garden_%2855558113244%29.jpg/3840px-Infosys_Theater_at_Madison_Square_Garden_%2855558113244%29.jpg
-  credit: 'Photo: ajay_suresh / Wikimedia Commons (CC BY 4.0)'
+  url: https://upload.wikimedia.org/wikipedia/commons/e/e3/2026-01-16_BOYNEXTDOOR_at_Golden_Disc_Awards_01.png
+  credit: 'Photo: 티비텐 TV10 / Wikimedia Commons (CC BY 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Infosys_Theater_at_Madison_Square_Garden_(55558113244).jpg
+  source: https://commons.wikimedia.org/wiki/File:2026-01-16_BOYNEXTDOOR_at_Golden_Disc_Awards_01.png
   focus:
-    x: 50
-    'y': 25
+    x: 61
+    'y': 22
+    top: 15
+    bottom: 28
 gallery: []
 tags:
   - new york

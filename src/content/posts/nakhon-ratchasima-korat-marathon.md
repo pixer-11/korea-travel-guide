@@ -9,6 +9,14 @@ eventStartDate: '2026-11-08'
 eventEndDate: '2026-11-08'
 eventRecurring: true
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Medical_education_center_of_Maharat_Nakhon_Ratchasima_Hospital.jpg/1280px-Medical_education_center_of_Maharat_Nakhon_Ratchasima_Hospital.jpg'
+  credit: 'Photo: Reversemos.sapanaht (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'File:Medical education center of Maharat Nakhon Ratchasima Hospital.jpg'
+  focus:
+    x: 35
+    y: 35
 gallery: []
 tags:
   - nakhon ratchasima

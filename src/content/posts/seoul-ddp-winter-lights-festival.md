@@ -13,7 +13,6 @@ eventOffers:
   free: true
   currency: KRW
 eventFactsAsked: true
-gallery: []
 tags:
   - seoul
   - event
@@ -31,6 +30,14 @@ faq:
     a: Heunginjimun (the East Gate), the Dongdaemun fashion malls such as Doota, the Seoul City Wall remains in Dongdaemun History & Culture Park, and Gwangjang Market about one subway stop away.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/20240601_144028_Dongdaemun_Design_Plaza%2C_Seoul_08.jpg/3840px-20240601_144028_Dongdaemun_Design_Plaza%2C_Seoul_08.jpg
+  credit: 'Photo: Dwxn / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:20240601_144028_Dongdaemun_Design_Plaza,_Seoul_08.jpg
+  focus:
+    x: 20
+    'y': 40
 ---
 
 ## Light on a Building With No Corners

@@ -13,6 +13,14 @@ eventOrganizer:
   name: ATP Tour
   url: https://www.atptour.com
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/5/50/August_2007%2C_walking_in_Seoul_116.jpg'
+  credit: 'Photo: Syced / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:August_2007,_walking_in_Seoul_116.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - seoul

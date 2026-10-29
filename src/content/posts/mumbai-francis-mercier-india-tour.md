@@ -12,6 +12,14 @@ eventPerformer:
   name: Francis Mercier
   kind: person
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Middle_Ground_Coastal_Battery%2C_Arabian_Sea%2C_Mumbai%2C_India.jpg/3840px-Middle_Ground_Coastal_Battery%2C_Arabian_Sea%2C_Mumbai%2C_India.jpg'
+  credit: 'Photo: iMahesh / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Middle_Ground_Coastal_Battery,_Arabian_Sea,_Mumbai,_India.jpg'
+  focus:
+    x: 50
+    y: 40
 gallery: []
 tags:
   - mumbai

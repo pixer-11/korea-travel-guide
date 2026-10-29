@@ -11,6 +11,14 @@ eventRecurring: true
 eventOrganizer:
   name: Challenge Tour
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/32_Landmarks_of_Madrid_-_public_square_Plaza_de_la_Villa_in_Madrid%2C_Spain_Spanje.jpg/1280px-32_Landmarks_of_Madrid_-_public_square_Plaza_de_la_Villa_in_Madrid%2C_Spain_Spanje.jpg'
+  credit: 'Photo: Marek Ślusarczyk (Tupungato) Photo portfolio (CC BY 3.0)'
+  license: wikimedia
+  source: 'File:32 Landmarks of Madrid - public square Plaza de la Villa in Madrid, Spain Spanje.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - spain

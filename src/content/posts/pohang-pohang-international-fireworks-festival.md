@@ -13,6 +13,14 @@ eventOffers:
   free: true
   currency: KRW
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/2/27/Korea-Pohang-Goryongpo_Beach-01.jpg'
+  credit: 'Photo: by Junho Jung at Flickr from South Korea / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Korea-Pohang-Goryongpo_Beach-01.jpg'
+  focus:
+    x: 50
+    y: 40
 gallery: []
 tags:
   - pohang

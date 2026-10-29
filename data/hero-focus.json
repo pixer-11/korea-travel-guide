@@ -6526,5 +6526,117 @@
    "x": 50,
    "y": 45
   }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Beach_Street%2C_George_Town_02.jpg/1280px-Beach_Street%2C_George_Town_02.jpg": {
+  "w": 1280,
+  "h": 960,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Guadalajara%2C_Jalisco%2C_Mexico_%282021%29_-_151.jpg/3840px-Guadalajara%2C_Jalisco%2C_Mexico_%282021%29_-_151.jpg": {
+  "w": 3840,
+  "h": 2880,
+  "focus": {
+   "x": 50,
+   "y": 40
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Eye_of_Spring_under_construction_in_Kunming.jpg/1280px-Eye_of_Spring_under_construction_in_Kunming.jpg": {
+  "w": 1280,
+  "h": 815,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Middle_Ground_Coastal_Battery%2C_Arabian_Sea%2C_Mumbai%2C_India.jpg/3840px-Middle_Ground_Coastal_Battery%2C_Arabian_Sea%2C_Mumbai%2C_India.jpg": {
+  "w": 3840,
+  "h": 2560,
+  "focus": {
+   "x": 50,
+   "y": 40
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/3/3a/Mumbai_03-2016_30_Gateway_of_India.jpg": {
+  "w": 3585,
+  "h": 3585,
+  "focus": {
+   "x": 50,
+   "y": 40
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Medical_education_center_of_Maharat_Nakhon_Ratchasima_Hospital.jpg/1280px-Medical_education_center_of_Maharat_Nakhon_Ratchasima_Hospital.jpg": {
+  "w": 1280,
+  "h": 960,
+  "focus": {
+   "x": 35,
+   "y": 35
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Long_Island_City_New_York_May_2015_panorama_3.jpg/3840px-Long_Island_City_New_York_May_2015_panorama_3.jpg": {
+  "w": 3840,
+  "h": 1920,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Jalan_Prof_Khoo_Kay_Kim%2C_Petaling_Jaya_%28230611%29.jpg/1280px-Jalan_Prof_Khoo_Kay_Kim%2C_Petaling_Jaya_%28230611%29.jpg": {
+  "w": 1280,
+  "h": 960,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/2/27/Korea-Pohang-Goryongpo_Beach-01.jpg": {
+  "w": 1600,
+  "h": 1066,
+  "focus": {
+   "x": 50,
+   "y": 40
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/6/66/Queenstown_NZ_08.jpg": {
+  "w": 3780,
+  "h": 2520,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/5/50/August_2007%2C_walking_in_Seoul_116.jpg": {
+  "w": 3072,
+  "h": 2304,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/32_Landmarks_of_Madrid_-_public_square_Plaza_de_la_Villa_in_Madrid%2C_Spain_Spanje.jpg/1280px-32_Landmarks_of_Madrid_-_public_square_Plaza_de_la_Villa_in_Madrid%2C_Spain_Spanje.jpg": {
+  "w": 1280,
+  "h": 853,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/2013_-_banner_-_Georgia_-_The_Evening_Tbilisi.jpg/3840px-2013_-_banner_-_Georgia_-_The_Evening_Tbilisi.jpg": {
+  "w": 3840,
+  "h": 549,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Main_Entrance_of_Xiamen_University.jpg/1280px-Main_Entrance_of_Xiamen_University.jpg": {
+  "w": 1280,
+  "h": 640,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
  }
 }

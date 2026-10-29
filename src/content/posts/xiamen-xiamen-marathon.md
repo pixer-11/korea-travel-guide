@@ -9,6 +9,14 @@ eventStartDate: '2027-01-10'
 eventEndDate: '2027-01-10'
 eventRecurring: true
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Main_Entrance_of_Xiamen_University.jpg/1280px-Main_Entrance_of_Xiamen_University.jpg'
+  credit: 'Photo: David.C.LOK (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'File:Main Entrance of Xiamen University.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - xiamen

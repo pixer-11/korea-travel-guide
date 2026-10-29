@@ -14,15 +14,15 @@ eventPerformer:
   kind: group
 eventFactsAsked: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Big_Bang_at_their_Big_Show_performance%2C_2011_-_4.jpg/3840px-Big_Bang_at_their_Big_Show_performance%2C_2011_-_4.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Big_Bang_at_their_Big_Show_performance%2C_2011_-_5.jpg/3840px-Big_Bang_at_their_Big_Show_performance%2C_2011_-_5.jpg
   credit: 'Photo: Korea.net / Korean Culture and Information Service / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Big_Bang_at_their_Big_Show_performance,_2011_-_4.jpg
+  source: https://commons.wikimedia.org/wiki/File:Big_Bang_at_their_Big_Show_performance,_2011_-_5.jpg
   focus:
-    x: 42
-    'y': 50
-    top: 47
-    bottom: 53
+    x: 51
+    'y': 66
+    top: 63
+    bottom: 68
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/BigBang_Incheon_Asian_Games_2014_-_2.jpg/3840px-BigBang_Incheon_Asian_Games_2014_-_2.jpg
     credit: 'Photo: Republic of Korea flickr page / Wikimedia Commons (CC BY-SA 2.0)'
@@ -44,8 +44,6 @@ faq:
   - q: Where do fans usually stay for the Osaka shows?
     a: Most stay in Namba or Shinsaibashi, a few minutes from the dome on the Hanshin Namba Line, or in Umeda near JR Osaka Station. When those areas fill up, fans look further along the Hanshin line toward Amagasaki and Kobe.
 aiGenerated: true
-draft: true
-heldReason: wrong-venue-photo
 ---
 
 ## Three nights in Osaka

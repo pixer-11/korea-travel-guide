@@ -14,13 +14,15 @@ eventPerformer:
   kind: group
 eventFactsAsked: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Crypto.com_Arena_exterior_2023.jpg/3840px-Crypto.com_Arena_exterior_2023.jpg
-  credit: 'Photo: Troutfarm27 / Wikimedia Commons (CC BY-SA 4.0)'
+  url: https://upload.wikimedia.org/wikipedia/commons/0/09/2025-01-30_XG_at_Gimpo_Airport_06.jpg
+  credit: 'Photo: 티비텐 TV10 / Wikimedia Commons (CC BY 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Crypto.com_Arena_exterior_2023.jpg
+  source: https://commons.wikimedia.org/wiki/File:2025-01-30_XG_at_Gimpo_Airport_06.jpg
   focus:
-    x: 50
-    'y': 20
+    x: 65
+    'y': 24
+    top: 13
+    bottom: 34
 gallery: []
 tags:
   - los angeles

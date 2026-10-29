@@ -14,15 +14,15 @@ eventPerformer:
   kind: group
 eventFactsAsked: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/e/e4/Korn-Live-Metaltown_2011.jpg
-  credit: 'Photo: Dark Apostrophe / Wikimedia Commons (CC BY 3.0)'
+  url: https://upload.wikimedia.org/wikipedia/commons/b/b1/Korn_exorcizes_demons_at_Frequency_Festival_in_Austria_%287807381554%29.jpg
+  credit: 'Photo: Christopher Johnson from Tokyo, Japan / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Korn-Live-Metaltown_2011.jpg
+  source: https://commons.wikimedia.org/wiki/File:Korn_exorcizes_demons_at_Frequency_Festival_in_Austria_(7807381554).jpg
   focus:
-    x: 50
-    'y': 36
-    top: 33
-    bottom: 38
+    x: 53
+    'y': 28
+    top: 15
+    bottom: 40
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Korn_TOAMF_2012.jpg/3840px-Korn_TOAMF_2012.jpg
     credit: 'Photo: Nazgul03 / Wikimedia Commons (CC BY 2.0)'
@@ -44,8 +44,6 @@ faq:
   - q: Where do visitors usually stay for a Forum concert?
     a: Most stay in central Milan near an M2 station, such as Centrale, Garibaldi, Cadorna or Porta Genova, for a direct ride to Assago. Fans who want to avoid the late journey back stay in the Milanofiori hotels within walking distance of the arena.
 aiGenerated: true
-draft: true
-heldReason: wrong-venue-photo
 ---
 
 ## A Saturday in November, an arena on the M2

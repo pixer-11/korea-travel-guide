@@ -18,7 +18,6 @@ eventPerformer:
   name: BTS
   kind: group
 eventFactsAsked: true
-gallery: []
 tags:
   - toronto
   - event
@@ -36,6 +35,16 @@ faq:
     a: Most stay in the Entertainment District, along King Street West or near Union Station, because all three are walkable to the downtown waterfront stadiums.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/e/e6/Bangtan_Boys_at_a_fanmeeting_on_Music_Bank_in_July_2013_02.jpg
+  credit: 'Photo: BulletProof7BTS / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Bangtan_Boys_at_a_fanmeeting_on_Music_Bank_in_July_2013_02.jpg
+  focus:
+    x: 68
+    'y': 15
+    top: 5
+    bottom: 25
 ---
 
 ## Two nights of BTS in December

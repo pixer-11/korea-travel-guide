@@ -13,6 +13,14 @@ eventPerformer:
   name: wave to earth
   kind: group
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Jalan_Prof_Khoo_Kay_Kim%2C_Petaling_Jaya_%28230611%29.jpg/1280px-Jalan_Prof_Khoo_Kay_Kim%2C_Petaling_Jaya_%28230611%29.jpg'
+  credit: 'Photo: *angys* (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'File:Jalan Prof Khoo Kay Kim, Petaling Jaya (230611).jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - petaling jaya

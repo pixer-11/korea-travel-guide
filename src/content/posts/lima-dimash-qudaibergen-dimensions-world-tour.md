@@ -17,7 +17,6 @@ eventPerformer:
   name: Dimash Qudaibergen
   kind: person
 eventFactsAsked: true
-gallery: []
 tags:
   - lima
   - event
@@ -35,6 +34,16 @@ faq:
     a: Miraflores and Barranco have the widest choice of hotels and restaurants and connect directly to Costa 21 along the coast road. San Miguel, near the Plaza San Miguel shopping centre, puts you closest to the venue.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/5/55/Dimash_az_Operah%C3%A1zban_a_Virtu%C3%B3zok_sajt%C3%B3t%C3%A1j%C3%A9koztat%C3%B3j%C3%A1n.jpg
+  credit: 'Photo: Tösö8 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Dimash_az_Operah%C3%A1zban_a_Virtu%C3%B3zok_sajt%C3%B3t%C3%A1j%C3%A9koztat%C3%B3j%C3%A1n.jpg
+  focus:
+    x: 48
+    'y': 30
+    top: 12
+    bottom: 47
 ---
 
 ## A first night in Peru

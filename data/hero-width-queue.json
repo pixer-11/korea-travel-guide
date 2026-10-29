@@ -3180,7 +3180,16 @@
   "singapore-two-door-cinema-club-15th-anniversary-tour\u0001https://upload.wikimedia.org/wikipedia/commons/e/e1/Kevin_Baird.jpg": 2848,
   "tbilisi-taemin-liminal-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/0/06/Taemin_at_Dream_Concert_2015_04.jpg": 1702,
   "toronto-the-royal-agricultural-winter-fair\u0001https://upload.wikimedia.org/wikipedia/commons/0/04/Coliseum_exterior_photo_ca_1922.jpg": 3174,
-  "ulaanbaatar-tsagaan-sar-mongolian-lunar-new-year\u0001https://upload.wikimedia.org/wikipedia/commons/d/dc/Tsagaan_Sar_%2839414770395%29.jpg": 3072
+  "ulaanbaatar-tsagaan-sar-mongolian-lunar-new-year\u0001https://upload.wikimedia.org/wikipedia/commons/d/dc/Tsagaan_Sar_%2839414770395%29.jpg": 3072,
+  "chonburi-bangsaen42-chonburi-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Bang_Saen_01.JPG/3840px-Bang_Saen_01.JPG": 3840,
+  "assago-korn-milan-assago-2026\u0001https://upload.wikimedia.org/wikipedia/commons/b/b1/Korn_exorcizes_demons_at_Frequency_Festival_in_Austria_%287807381554%29.jpg": 3000,
+  "goreme-cappadocia-wildmarathon\u0001https://upload.wikimedia.org/wikipedia/commons/d/de/Cappadocia_19.JPG": 2272,
+  "auckland-bnz-auckland-diwali-festival\u0001https://upload.wikimedia.org/wikipedia/commons/e/ea/Aotea_Square_In_Auckland.jpg": 1600,
+  "osaka-bigbang-japan-dome-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Big_Bang_at_their_Big_Show_performance%2C_2011_-_5.jpg/3840px-Big_Bang_at_their_Big_Show_performance%2C_2011_-_5.jpg": 3840,
+  "seoul-ddp-winter-lights-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/20240601_144028_Dongdaemun_Design_Plaza%2C_Seoul_08.jpg/3840px-20240601_144028_Dongdaemun_Design_Plaza%2C_Seoul_08.jpg": 3840,
+  "tbilisi-tbilisi-christmas-market-new-year-village\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Christmas_Lights_in_Orbeliani_Palace_Yard.jpg/3840px-Christmas_Lights_in_Orbeliani_Palace_Yard.jpg": 3840,
+  "toronto-bts-world-tour-arirang-toronto\u0001https://upload.wikimedia.org/wikipedia/commons/e/e6/Bangtan_Boys_at_a_fanmeeting_on_Music_Bank_in_July_2013_02.jpg": 1500,
+  "lima-dimash-qudaibergen-dimensions-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/5/55/Dimash_az_Operah%C3%A1zban_a_Virtu%C3%B3zok_sajt%C3%B3t%C3%A1j%C3%A9koztat%C3%B3j%C3%A1n.jpg": 3072
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -3374,15 +3383,15 @@
   },
   "bali-motel-mexicola-uluwatu": {
    "width": 1080,
-   "attempts": 7,
-   "nextTry": "2026-10-29",
+   "attempts": 8,
+   "nextTry": "2026-11-05",
    "flaggedAt": "2026-09-10",
    "lastResult": "no-wider"
   },
   "dubai-suteki": {
    "width": 903,
-   "attempts": 7,
-   "nextTry": "2026-10-29",
+   "attempts": 8,
+   "nextTry": "2026-11-05",
    "flaggedAt": "2026-09-10",
    "lastResult": "no-wider"
   },
@@ -3444,8 +3453,8 @@
   },
   "hiroshima-nagataya": {
    "width": 1024,
-   "attempts": 5,
-   "nextTry": "2026-10-29",
+   "attempts": 6,
+   "nextTry": "2026-11-05",
    "flaggedAt": "2026-09-19",
    "lastResult": "no-wider"
   },
@@ -3479,8 +3488,8 @@
   },
   "istanbul-lina-anatolian-kitchen": {
    "width": 1024,
-   "attempts": 3,
-   "nextTry": "2026-10-29",
+   "attempts": 4,
+   "nextTry": "2026-11-05",
    "flaggedAt": "2026-09-24",
    "lastResult": "no-wider"
   },
@@ -3700,5 +3709,5 @@
    "flaggedAt": "2026-10-21"
   }
  },
- "updated": "2026-10-29T00:52:54.193Z"
+ "updated": "2026-10-29T01:16:18.860Z"
 }

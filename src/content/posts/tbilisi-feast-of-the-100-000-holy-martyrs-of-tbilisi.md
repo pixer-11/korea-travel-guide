@@ -13,6 +13,14 @@ eventOffers:
   free: true
   currency: GEL
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/2013_-_banner_-_Georgia_-_The_Evening_Tbilisi.jpg/3840px-2013_-_banner_-_Georgia_-_The_Evening_Tbilisi.jpg'
+  credit: 'Photo: Moahim / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:2013_-_banner_-_Georgia_-_The_Evening_Tbilisi.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - tbilisi

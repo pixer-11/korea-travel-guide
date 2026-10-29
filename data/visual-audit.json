@@ -36,6 +36,30 @@
   "reason": "event publish gate: F1 cars grid lineup, representative of race event",
   "at": "2026-10-21T23:46:51.228Z"
  },
+ "abu-dhabi-adnoc-abu-dhabi-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/2/21/Al_Marfa_Beach_Adnoc_pump_7_-_panoramio.jpg": {
+  "slug": "abu-dhabi-adnoc-abu-dhabi-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated building scene, not marathon event related",
+  "at": "2026-10-29T00:54:00.022Z"
+ },
+ "abu-dhabi-adnoc-abu-dhabi-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/9/9b/Al_Marfa_Beach_Adnoc_pump_2_-_panoramio.jpg": {
+  "slug": "abu-dhabi-adnoc-abu-dhabi-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Pier/beach scene unrelated to marathon event",
+  "at": "2026-10-29T00:54:01.996Z"
+ },
+ "abu-dhabi-adnoc-abu-dhabi-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/d/da/Abu_dhabi_ADNOC_Tower.jpg": {
+  "slug": "abu-dhabi-adnoc-abu-dhabi-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: City skyline at night, not marathon event",
+  "at": "2026-10-29T00:53:56.356Z"
+ },
+ "abu-dhabi-adnoc-abu-dhabi-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/ADNOC_Refining_Ruwais_Site-96.jpg/3840px-ADNOC_Refining_Ruwais_Site-96.jpg": {
+  "slug": "abu-dhabi-adnoc-abu-dhabi-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Industrial refinery unrelated to marathon event",
+  "at": "2026-10-29T00:53:57.823Z"
+ },
  "abu-dhabi-andrea-bocelli-yasalam-classics\u0001https://upload.wikimedia.org/wikipedia/commons/3/3e/Andrea_Bocelli_-_5315303241.jpg": {
   "slug": "abu-dhabi-andrea-bocelli-yasalam-classics",
   "verdict": "MISMATCH",
@@ -367,6 +391,30 @@
   "verdict": "MATCH",
   "reason": "patrol replace: Concert performer on stage, event venue appropriate",
   "at": "2026-08-21T19:49:17.466Z"
+ },
+ "abu-dhabi-spartan-world-championship\u0001https://upload.wikimedia.org/wikipedia/commons/6/62/WW_Chicago_2014_-_Halo_Spartan_%2815067975785%29.jpg": {
+  "slug": "abu-dhabi-spartan-world-championship",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Halo cosplay, unrelated to Spartan Race event",
+  "at": "2026-10-29T00:54:11.885Z"
+ },
+ "abu-dhabi-spartan-world-championship\u0001https://upload.wikimedia.org/wikipedia/commons/c/c6/World_operators_of_the_C-27J_Spartan.png": {
+  "slug": "abu-dhabi-spartan-world-championship",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: This is a world map, not the event or venue",
+  "at": "2026-10-29T00:54:13.612Z"
+ },
+ "abu-dhabi-spartan-world-championship\u0001https://upload.wikimedia.org/wikipedia/commons/d/d2/Spartan_Eco_60.jpg": {
+  "slug": "abu-dhabi-spartan-world-championship",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Sailboat unrelated to Spartan obstacle race event",
+  "at": "2026-10-29T00:54:09.366Z"
+ },
+ "abu-dhabi-spartan-world-championship\u0001https://upload.wikimedia.org/wikipedia/commons/f/fb/World_operators_of_the_C-27J_Spartan_act.png": {
+  "slug": "abu-dhabi-spartan-world-championship",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: This is a world map, not the event or venue",
+  "at": "2026-10-29T00:54:07.199Z"
  },
  "abu-dhabi-tamer-hosny-and-tamer-ashour-concert\u0001https://upload.wikimedia.org/wikipedia/commons/2/2e/Tamer_Hosny%27s_NYE_Concert_%282025%29.png": {
   "slug": "abu-dhabi-tamer-hosny-and-tamer-ashour-concert",
@@ -1310,6 +1358,12 @@
   "reason": "patrol replace: BTS concert performance on stage",
   "at": "2026-08-19T19:51:37.777Z"
  },
+ "assago-korn-milan-assago-2026\u0001https://upload.wikimedia.org/wikipedia/commons/b/b1/Korn_exorcizes_demons_at_Frequency_Festival_in_Austria_%287807381554%29.jpg": {
+  "slug": "assago-korn-milan-assago-2026",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Musician with guitar, plausibly Korn performer",
+  "at": "2026-10-29T00:54:35.087Z"
+ },
  "assago-korn-milan-assago-2026\u0001https://upload.wikimedia.org/wikipedia/commons/e/e4/Korn-Live-Metaltown_2011.jpg": {
   "slug": "assago-korn-milan-assago-2026",
   "verdict": "MATCH",
@@ -1381,6 +1435,18 @@
   "verdict": "MATCH",
   "reason": "publish gate: Exterior shows temple domes and signage, representative view",
   "at": "2026-10-21T07:50:01.676Z"
+ },
+ "auckland-bnz-auckland-diwali-festival\u0001https://upload.wikimedia.org/wikipedia/commons/d/d2/Featherston_BNZ.jpg": {
+  "slug": "auckland-bnz-auckland-diwali-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Old BNZ bank building, unrelated to Diwali Festival event",
+  "at": "2026-10-29T00:54:53.141Z"
+ },
+ "auckland-bnz-auckland-diwali-festival\u0001https://upload.wikimedia.org/wikipedia/commons/e/ea/Aotea_Square_In_Auckland.jpg": {
+  "slug": "auckland-bnz-auckland-diwali-festival",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Aotea Square venue with festival crowds and tents",
+  "at": "2026-10-29T00:54:57.083Z"
  },
  "auckland-christmas-in-the-park-auckland\u0001https://upload.wikimedia.org/wikipedia/commons/d/d5/Christmas_street_light_decorations_%284195980503%29.jpg": {
   "slug": "auckland-christmas-in-the-park-auckland",
@@ -3611,6 +3677,24 @@
   "reason": "publish gate: Iconic view of Roman Baths pool and abbey",
   "at": "2026-09-30T14:04:07.298Z"
  },
+ "batnorov-winter-horse-festival-steppe-horse-festival\u0001https://upload.wikimedia.org/wikipedia/commons/7/75/An_Horse_%283960815871%29.jpg": {
+  "slug": "batnorov-winter-horse-festival-steppe-horse-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Indoor concert, unrelated to Mongolian horse festival",
+  "at": "2026-10-29T00:55:24.588Z"
+ },
+ "batnorov-winter-horse-festival-steppe-horse-festival\u0001https://upload.wikimedia.org/wikipedia/commons/b/b7/An_Horse_%283960813735%29.jpg": {
+  "slug": "batnorov-winter-horse-festival-steppe-horse-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Indoor band performance, unrelated to Mongolian horse festival",
+  "at": "2026-10-29T00:55:26.729Z"
+ },
+ "batnorov-winter-horse-festival-steppe-horse-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Horse_on_a_winter_day_in_Holl%C3%A4ndar%C3%B6d.jpg/3840px-Horse_on_a_winter_day_in_Holl%C3%A4ndar%C3%B6d.jpg": {
+  "slug": "batnorov-winter-horse-festival-steppe-horse-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Single blanketed horse in snowy yard, not event/venue",
+  "at": "2026-10-29T00:55:22.610Z"
+ },
  "battambang-bamboo-train-battambang\u0001https://upload.wikimedia.org/wikipedia/commons/1/10/Bamboo_railway_at_Battambang_-_panoramio.jpg": {
   "slug": "battambang-bamboo-train-battambang",
   "verdict": "MATCH",
@@ -4913,6 +4997,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Clear exterior view of Casa Rosada with Argentine flag",
   "at": "2026-10-26T15:38:41.815Z"
+ },
+ "buenos-aires-challenger-aat-buenos-aires\u0001https://upload.wikimedia.org/wikipedia/commons/7/7b/Challenger_1A.jpg": {
+  "slug": "buenos-aires-challenger-aat-buenos-aires",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Space shuttle, unrelated to tennis event in Buenos Aires",
+  "at": "2026-10-29T00:56:37.086Z"
  },
  "buenos-aires-don-julio-parrilla\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Don_Julio_03.jpg/3840px-Don_Julio_03.jpg": {
   "slug": "buenos-aires-don-julio-parrilla",
@@ -6892,6 +6982,18 @@
   "verdict": "MATCH",
   "reason": "publish gate: Panoramic view of Plaza de Armas with church and mountains",
   "at": "2026-10-22T14:51:04.211Z"
+ },
+ "chonburi-bangsaen42-chonburi-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bang_Saen_03.JPG/3840px-Bang_Saen_03.JPG": {
+  "slug": "chonburi-bangsaen42-chonburi-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Coastal pier scene, unrelated to marathon event",
+  "at": "2026-10-29T00:57:12.135Z"
+ },
+ "chonburi-bangsaen42-chonburi-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Bang_Saen_01.JPG/3840px-Bang_Saen_01.JPG": {
+  "slug": "chonburi-bangsaen42-chonburi-marathon",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Bang Saen beachfront coastal development view.",
+  "at": "2026-10-29T00:57:15.108Z"
  },
  "christchurch-air-force-museum-of-new-zealand\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/RNZAFmuseumwigram.jpg/1920px-RNZAFmuseumwigram.jpg": {
   "slug": "christchurch-air-force-museum-of-new-zealand",
@@ -9394,6 +9496,18 @@
   "verdict": "MATCH",
   "reason": "publish gate: Coastal wave view consistent with Snapper Rocks surf break",
   "at": "2026-09-28T17:01:21.889Z"
+ },
+ "goreme-cappadocia-wildmarathon\u0001https://upload.wikimedia.org/wikipedia/commons/d/de/Cappadocia_19.JPG": {
+  "slug": "goreme-cappadocia-wildmarathon",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Iconic Cappadocia fairy chimneys in Göreme",
+  "at": "2026-10-29T00:58:37.667Z"
+ },
+ "goreme-cappadocia-wildmarathon\u0001https://upload.wikimedia.org/wikipedia/commons/e/ea/Cappadocia_23.JPG": {
+  "slug": "goreme-cappadocia-wildmarathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Random rock and tree, not marathon or venue",
+  "at": "2026-10-29T00:58:34.264Z"
  },
  "gori-gori-ethnographic-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Gori_Ethnographic_Museum.jpg/3840px-Gori_Ethnographic_Museum.jpg": {
   "slug": "gori-gori-ethnographic-museum",
@@ -16674,6 +16788,12 @@
   "reason": "publish gate: Exterior of colonial balcony building, plausible Casa de Aliaga facade",
   "at": "2026-10-24T14:05:08.244Z"
  },
+ "lima-dimash-qudaibergen-dimensions-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/5/55/Dimash_az_Operah%C3%A1zban_a_Virtu%C3%B3zok_sajt%C3%B3t%C3%A1j%C3%A9koztat%C3%B3j%C3%A1n.jpg": {
+  "slug": "lima-dimash-qudaibergen-dimensions-world-tour",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Performer at formal event panel setting",
+  "at": "2026-10-29T01:01:50.652Z"
+ },
  "lima-gorillaz-lima-2026\u0001https://upload.wikimedia.org/wikipedia/commons/3/3d/Damon_Albarn_au_Festival_Beauregard_2014_%282%29.JPG": {
   "slug": "lima-gorillaz-lima-2026",
   "verdict": "MATCH",
@@ -17677,6 +17797,12 @@
   "verdict": "MATCH",
   "reason": "release check: Park with fountains, grass, and pathways matches waterfront park setting",
   "at": "2026-08-11T04:13:04.874Z"
+ },
+ "los-angeles-xg-the-core-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/0/09/2025-01-30_XG_at_Gimpo_Airport_06.jpg": {
+  "slug": "los-angeles-xg-the-core-world-tour",
+  "verdict": "MATCH",
+  "reason": "performer upgrade: XG performer in candid photo, acceptable as archive hero",
+  "at": "2026-10-29T01:19:04.902Z"
  },
  "los-angeles-xg-the-core-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Crypto.com_Arena_exterior_2023.jpg/3840px-Crypto.com_Arena_exterior_2023.jpg": {
   "slug": "los-angeles-xg-the-core-world-tour",
@@ -20221,6 +20347,30 @@
   "reason": "patrol reject: Close-up plated dish, not representative venue hero shot",
   "at": "2026-09-17T22:24:10.203Z"
  },
+ "mumbai-francis-mercier-india-tour\u0001https://upload.wikimedia.org/wikipedia/commons/4/48/MERCIER_William_Francis_-_DPLA_-_0a4421beb79c548c903117171db7bf33.jpg": {
+  "slug": "mumbai-francis-mercier-india-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: This is a naturalization document, not an event photo",
+  "at": "2026-10-29T01:02:54.302Z"
+ },
+ "mumbai-francis-mercier-india-tour\u0001https://upload.wikimedia.org/wikipedia/commons/8/89/Pope_Francis_at_the_Athens_Concert_Hall_%2804%29.jpg": {
+  "slug": "mumbai-francis-mercier-india-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Religious ceremony unrelated to Francis Mercier India Tour event",
+  "at": "2026-10-29T01:03:00.125Z"
+ },
+ "mumbai-francis-mercier-india-tour\u0001https://upload.wikimedia.org/wikipedia/commons/b/b4/Concert_champ%C3%AAtre_-_Francis_Cotes_-_btv1b8430788n.jpg": {
+  "slug": "mumbai-francis-mercier-india-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Painting/illustration, not a photo of the event",
+  "at": "2026-10-29T01:02:58.230Z"
+ },
+ "mumbai-francis-mercier-india-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Pope_Francis_at_the_Athens_Concert_Hall_%2803%29.jpg/3840px-Pope_Francis_at_the_Athens_Concert_Hall_%2803%29.jpg": {
+  "slug": "mumbai-francis-mercier-india-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Greek signage, unrelated church event, not Francis Mercier tour",
+  "at": "2026-10-29T01:02:56.077Z"
+ },
  "mumbai-gateway-of-india-mumbai\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Panoramic_view_of_Taj_Palace_Hotel_and_Taj_Tower_with_the_iconic_Gateway_of_India_in_the_background.jpg/3840px-Panoramic_view_of_Taj_Palace_Hotel_and_Taj_Tower_with_the_iconic_Gateway_of_India_in_the_background.jpg": {
   "slug": "mumbai-gateway-of-india-mumbai",
   "verdict": "MATCH",
@@ -21456,6 +21606,12 @@
   "reasonKo": "뉴욕 전형적 레스토랑, 식사 장면",
   "at": "2026-08-04T12:23:02.479Z"
  },
+ "new-york-boynextdoor-knock-on-vol-2\u0001https://upload.wikimedia.org/wikipedia/commons/e/e3/2026-01-16_BOYNEXTDOOR_at_Golden_Disc_Awards_01.png": {
+  "slug": "new-york-boynextdoor-knock-on-vol-2",
+  "verdict": "MATCH",
+  "reason": "performer upgrade: Group photo of K-pop act BOYNEXTDOOR at event",
+  "at": "2026-10-29T01:19:15.511Z"
+ },
  "new-york-boynextdoor-knock-on-vol-2\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Infosys_Theater_at_Madison_Square_Garden_%2855558113244%29.jpg/3840px-Infosys_Theater_at_Madison_Square_Garden_%2855558113244%29.jpg": {
   "slug": "new-york-boynextdoor-knock-on-vol-2",
   "verdict": "MATCH",
@@ -21647,6 +21803,12 @@
   "verdict": "MATCH",
   "reason": "event-mode back-audit: Marathon runners on bridge, matches event type",
   "at": "2026-09-20T06:36:23.777Z"
+ },
+ "new-york-ten-us-showcase-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ten_Commandments%2C_Jasper_GA.jpg/3840px-Ten_Commandments%2C_Jasper_GA.jpg": {
+  "slug": "new-york-ten-us-showcase-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Photo of a plaque, unrelated to event/venue",
+  "at": "2026-10-29T01:04:40.729Z"
  },
  "new-york-the-channel-gardens\u0001https://upload.wikimedia.org/wikipedia/commons/c/cc/Channel_Gardens_Rockefeller_Center_New_York_2022.jpg": {
   "slug": "new-york-the-channel-gardens",
@@ -22420,6 +22582,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: American residential house, not Osaka trendy venue",
   "at": "2026-08-20T20:09:43.278Z"
+ },
+ "osaka-bigbang-japan-dome-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Big_Bang_at_their_Big_Show_performance%2C_2011_-_5.jpg/3840px-Big_Bang_at_their_Big_Show_performance%2C_2011_-_5.jpg": {
+  "slug": "osaka-bigbang-japan-dome-tour",
+  "verdict": "MATCH",
+  "reason": "patrol replace: BIGBANG concert performance on stage with dome lighting",
+  "at": "2026-10-29T01:04:54.925Z"
  },
  "osaka-bigbang-japan-dome-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Big_Bang_at_their_Big_Show_performance%2C_2011_-_4.jpg/3840px-Big_Bang_at_their_Big_Show_performance%2C_2011_-_4.jpg": {
   "slug": "osaka-bigbang-japan-dome-tour",
@@ -23868,6 +24036,18 @@
   "reason": "publish gate: Gallery interior with framed artworks, representative of AGWA",
   "at": "2026-09-30T14:15:23.515Z"
  },
+ "petaling-jaya-wave-to-earth-the-pieces-tour\u0001https://upload.wikimedia.org/wikipedia/commons/4/48/Wave_form.png": {
+  "slug": "petaling-jaya-wave-to-earth-the-pieces-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Diagram illustrating wave physics, not event or venue photo",
+  "at": "2026-10-29T01:05:37.760Z"
+ },
+ "petaling-jaya-wave-to-earth-the-pieces-tour\u0001https://upload.wikimedia.org/wikipedia/commons/d/d3/A_surfer_at_the_wave_edit.jpg": {
+  "slug": "petaling-jaya-wave-to-earth-the-pieces-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Surfer in ocean, unrelated to concert tour event",
+  "at": "2026-10-29T01:05:39.748Z"
+ },
  "philadelphia-bartram-s-garden\u0001https://fastly.4sqi.net/img/general/original/71124115_MlbE8k3ijYHrEL0nDQSB7gclLGLZT9MvewrKtqaNBXY.jpg": {
   "slug": "philadelphia-bartram-s-garden",
   "verdict": "MATCH",
@@ -24572,6 +24752,12 @@
   "verdict": "MATCH",
   "reason": "release check: Traditional pavilion pier over water, plausible Pohang K-drama site",
   "at": "2026-08-11T04:13:55.570Z"
+ },
+ "pohang-pohang-international-fireworks-festival\u0001https://upload.wikimedia.org/wikipedia/commons/4/42/Fireworks_Whippets.jpg": {
+  "slug": "pohang-pohang-international-fireworks-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Dogs on leashes, unrelated to fireworks festival",
+  "at": "2026-10-29T01:06:56.169Z"
  },
  "poipet-national-museum-of-cambodia\u0001https://fastly.4sqi.net/img/general/original/16132548_LoNYUugnDpfZUUsd3KwlqF435ZoNBXZ043x0uUWxmhk.jpg": {
   "slug": "poipet-national-museum-of-cambodia",
@@ -26816,6 +27002,24 @@
   "reason": "Soccer stadium, not a pizza restaurant in Seoul",
   "at": "2026-07-25T02:49:01.231Z"
  },
+ "seoul-ddp-winter-lights-festival\u0001https://upload.wikimedia.org/wikipedia/commons/2/24/3C_DDP-24_computer_card_rack_rear.JPG": {
+  "slug": "seoul-ddp-winter-lights-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated electronics equipment, not the festival or venue",
+  "at": "2026-10-29T01:08:47.311Z"
+ },
+ "seoul-ddp-winter-lights-festival\u0001https://upload.wikimedia.org/wikipedia/commons/b/b6/3C_DDP-24_computer_card_rack.JPG": {
+  "slug": "seoul-ddp-winter-lights-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Electronic equipment rack, unrelated to venue or event",
+  "at": "2026-10-29T01:08:45.477Z"
+ },
+ "seoul-ddp-winter-lights-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/20240601_144028_Dongdaemun_Design_Plaza%2C_Seoul_08.jpg/3840px-20240601_144028_Dongdaemun_Design_Plaza%2C_Seoul_08.jpg": {
+  "slug": "seoul-ddp-winter-lights-festival",
+  "verdict": "MATCH",
+  "reason": "patrol replace: DDP exterior and plaza clearly visible",
+  "at": "2026-10-29T01:08:50.397Z"
+ },
  "seoul-deoksugung-palace\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/%EB%8D%95%EC%88%98%EA%B6%81_%EC%A0%84%EA%B2%BD_%282013%29.jpg/1920px-%EB%8D%95%EC%88%98%EA%B6%81_%EC%A0%84%EA%B2%BD_%282013%29.jpg": {
   "slug": "seoul-deoksugung-palace",
   "verdict": "MATCH",
@@ -26847,6 +27051,24 @@
   "verdict": "MISMATCH",
   "reason": "Traditional Korean village street, not restaurant interior/e",
   "at": "2026-07-25T02:49:02.465Z"
+ },
+ "seoul-eugene-seoul-open\u0001https://upload.wikimedia.org/wikipedia/commons/4/46/USNS_PFC_Eugene_A._Obregon.jpg": {
+  "slug": "seoul-eugene-seoul-open",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Cargo ship unrelated to tennis event venue",
+  "at": "2026-10-29T01:09:36.812Z"
+ },
+ "seoul-eugene-seoul-open\u0001https://upload.wikimedia.org/wikipedia/commons/b/b2/David_Eugene_Edwards_%284779354255%29.jpg": {
+  "slug": "seoul-eugene-seoul-open",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Guitarist photo unrelated to tennis event",
+  "at": "2026-10-29T01:09:38.769Z"
+ },
+ "seoul-eugene-seoul-open\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Mazurka_de_concert_-_pour_piano_-_Eug%C3%A8ne_Berthemet_-_btv1b90748912_%285_of_8%29.jpg/3840px-Mazurka_de_concert_-_pour_piano_-_Eug%C3%A8ne_Berthemet_-_btv1b90748912_%285_of_8%29.jpg": {
+  "slug": "seoul-eugene-seoul-open",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Sheet music image, unrelated to tennis event",
+  "at": "2026-10-29T01:09:46.828Z"
  },
  "seoul-euljiro\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/LED_shop_in_Euljiro_Seoul.jpg/1920px-LED_shop_in_Euljiro_Seoul.jpg": {
   "slug": "seoul-euljiro",
@@ -29244,6 +29466,48 @@
   "reason": "publish gate: Shows red lighthouse on breakwater, representative Sokcho harbor view",
   "at": "2026-10-02T07:41:42.247Z"
  },
+ "spain-rolex-grand-final-challenge-tour-championship\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Window_reflections%2C_Rolex_headquarters%2C_Geneva-07.jpg/3840px-Window_reflections%2C_Rolex_headquarters%2C_Geneva-07.jpg": {
+  "slug": "spain-rolex-grand-final-challenge-tour-championship",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated building facade, not golf event imagery",
+  "at": "2026-10-29T01:10:55.990Z"
+ },
+ "spain-rolex-grand-final-challenge-tour-championship\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Passeig_de_Gr%C3%A0cia_75_portal.jpg/3840px-Passeig_de_Gr%C3%A0cia_75_portal.jpg": {
+  "slug": "spain-rolex-grand-final-challenge-tour-championship",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Street scene of Rolex store, not the golf event",
+  "at": "2026-10-29T01:10:51.003Z"
+ },
+ "spain-rolex-grand-final-challenge-tour-championship\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Window_reflections%2C_Rolex_headquarters%2C_Geneva-05.jpg/3840px-Window_reflections%2C_Rolex_headquarters%2C_Geneva-05.jpg": {
+  "slug": "spain-rolex-grand-final-challenge-tour-championship",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Office building, unrelated to golf tournament event",
+  "at": "2026-10-29T01:11:05.976Z"
+ },
+ "spain-rolex-grand-final-challenge-tour-championship\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/068_Casa_Enric_Batll%C3%B3%2C_pg._de_Gr%C3%A0cia_75_%28Barcelona%29%2C_detall.jpg/3840px-068_Casa_Enric_Batll%C3%B3%2C_pg._de_Gr%C3%A0cia_75_%28Barcelona%29%2C_detall.jpg": {
+  "slug": "spain-rolex-grand-final-challenge-tour-championship",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Rolex storefront, not related to golf tournament event",
+  "at": "2026-10-29T01:10:54.309Z"
+ },
+ "spain-rolex-grand-final-challenge-tour-championship\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Window_reflections%2C_Rolex_headquarters%2C_Geneva-03.jpg/3840px-Window_reflections%2C_Rolex_headquarters%2C_Geneva-03.jpg": {
+  "slug": "spain-rolex-grand-final-challenge-tour-championship",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated building reflection, not golf event",
+  "at": "2026-10-29T01:11:04.263Z"
+ },
+ "spain-rolex-grand-final-challenge-tour-championship\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/027_Antiga_Joieria_Roca%2C_pg._de_Gr%C3%A0cia_-_Gran_Via_%28Barcelona%29.jpg/3840px-027_Antiga_Joieria_Roca%2C_pg._de_Gr%C3%A0cia_-_Gran_Via_%28Barcelona%29.jpg": {
+  "slug": "spain-rolex-grand-final-challenge-tour-championship",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Rolex storefront, not the golf tour event",
+  "at": "2026-10-29T01:10:52.500Z"
+ },
+ "spain-rolex-grand-final-challenge-tour-championship\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Window_reflections%2C_Rolex_headquarters%2C_Geneva-02.jpg/3840px-Window_reflections%2C_Rolex_headquarters%2C_Geneva-02.jpg": {
+  "slug": "spain-rolex-grand-final-challenge-tour-championship",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated building reflection, not golf event",
+  "at": "2026-10-29T01:11:13.228Z"
+ },
  "st-lazarus-quarter-ruins-of-saint-paul-s\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/%E5%A4%A7%E4%B8%89%E5%B7%B4%E7%89%8C%E5%9D%8A.jpg/1920px-%E5%A4%A7%E4%B8%89%E5%B7%B4%E7%89%8C%E5%9D%8A.jpg": {
   "slug": "st-lazarus-quarter-ruins-of-saint-paul-s",
   "verdict": "MATCH",
@@ -31518,6 +31782,24 @@
   "reason": "event publish gate: Books displayed outdoors in Tbilisi, matches book event",
   "at": "2026-10-29T00:38:15.921Z"
  },
+ "tbilisi-tbilisi-christmas-market-new-year-village\u0001https://upload.wikimedia.org/wikipedia/commons/5/56/Orbeliani_Palace_Christmas_Decorations.jpg": {
+  "slug": "tbilisi-tbilisi-christmas-market-new-year-village",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Indoor fireplace mantel decor, not Tbilisi Christmas market",
+  "at": "2026-10-29T01:12:52.266Z"
+ },
+ "tbilisi-tbilisi-christmas-market-new-year-village\u0001https://upload.wikimedia.org/wikipedia/commons/7/77/Handmade_Christmas_tree_toys.jpg": {
+  "slug": "tbilisi-tbilisi-christmas-market-new-year-village",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Close-up of ornaments/basket, not market scene",
+  "at": "2026-10-29T01:12:50.510Z"
+ },
+ "tbilisi-tbilisi-christmas-market-new-year-village\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Christmas_Lights_in_Orbeliani_Palace_Yard.jpg/3840px-Christmas_Lights_in_Orbeliani_Palace_Yard.jpg": {
+  "slug": "tbilisi-tbilisi-christmas-market-new-year-village",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Festive outdoor venue with holiday lights, Georgian flag",
+  "at": "2026-10-29T01:12:59.702Z"
+ },
  "tbilisi-tbilisi-international-film-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Soap_Film.jpg/3840px-Soap_Film.jpg": {
   "slug": "tbilisi-tbilisi-international-film-festival",
   "verdict": "MISMATCH",
@@ -32430,6 +32712,18 @@
   "verdict": "MATCH",
   "reason": "publish gate: Interior of revolving restaurant with city view through windows",
   "at": "2026-10-21T13:29:32.402Z"
+ },
+ "toronto-bts-world-tour-arirang-toronto\u0001https://upload.wikimedia.org/wikipedia/commons/b/b8/Bangtan_Boys_at_fan_meeting_140824.jpg": {
+  "slug": "toronto-bts-world-tour-arirang-toronto",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Visible fan-page watermark overlaid on photo",
+  "at": "2026-10-29T01:13:16.426Z"
+ },
+ "toronto-bts-world-tour-arirang-toronto\u0001https://upload.wikimedia.org/wikipedia/commons/e/e6/Bangtan_Boys_at_a_fanmeeting_on_Music_Bank_in_July_2013_02.jpg": {
+  "slug": "toronto-bts-world-tour-arirang-toronto",
+  "verdict": "MATCH",
+  "reason": "patrol replace: BTS performance photo, plausible for tour event",
+  "at": "2026-10-29T01:13:19.450Z"
  },
  "toronto-cn-tower\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/CN_Tower%2C_Toronto%2C_Canada_%28Unsplash_DJ_kOgH5u0o%29.jpg/3840px-CN_Tower%2C_Toronto%2C_Canada_%28Unsplash_DJ_kOgH5u0o%29.jpg": {
   "slug": "toronto-cn-tower",

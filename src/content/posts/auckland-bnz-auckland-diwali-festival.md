@@ -13,7 +13,6 @@ eventOffers:
   free: true
   currency: NZD
 eventFactsAsked: true
-gallery: []
 tags:
   - auckland
   - event
@@ -31,6 +30,14 @@ faq:
     a: Most visitors spend two to four hours, which covers food, a few performances and the fireworks. Sunday usually suits families who want a calmer crowd than the Halloween Saturday.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/e/ea/Aotea_Square_In_Auckland.jpg
+  credit: 'Photo: Ingolfson at English Wikipedia (Original text: Uploader.) / Wikimedia Commons (Public domain)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Aotea_Square_In_Auckland.jpg
+  focus:
+    x: 50
+    'y': 30
 ---
 
 ## A festival of lights on the city's main street

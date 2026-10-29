@@ -9,6 +9,14 @@ eventStartDate: '2026-12-13'
 eventEndDate: '2026-12-13'
 eventRecurring: true
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Eye_of_Spring_under_construction_in_Kunming.jpg/1280px-Eye_of_Spring_under_construction_in_Kunming.jpg'
+  credit: 'Photo: Mx. Granger (CC0)'
+  license: wikimedia
+  source: 'File:Eye of Spring under construction in Kunming.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - kunming

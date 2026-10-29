@@ -9,6 +9,14 @@ eventStartDate: '2026-11-22'
 eventEndDate: '2026-11-22'
 eventRecurring: true
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/3/3a/Mumbai_03-2016_30_Gateway_of_India.jpg'
+  credit: 'Photo: A.Savin / Wikimedia Commons (FAL)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Mumbai_03-2016_30_Gateway_of_India.jpg'
+  focus:
+    x: 50
+    y: 40
 gallery: []
 tags:
   - mumbai

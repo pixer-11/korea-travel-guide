@@ -11,6 +11,14 @@ eventRecurring: true
 eventOffers:
   url: https://www.maratonguadalajara.org
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Guadalajara%2C_Jalisco%2C_Mexico_%282021%29_-_151.jpg/3840px-Guadalajara%2C_Jalisco%2C_Mexico_%282021%29_-_151.jpg'
+  credit: 'Photo: Another Believer / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Guadalajara,_Jalisco,_Mexico_(2021)_-_151.jpg'
+  focus:
+    x: 50
+    y: 40
 gallery: []
 tags:
   - guadalajara

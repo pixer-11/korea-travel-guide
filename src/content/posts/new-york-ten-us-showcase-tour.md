@@ -13,6 +13,14 @@ eventPerformer:
   name: Ten
   kind: person
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Long_Island_City_New_York_May_2015_panorama_3.jpg/3840px-Long_Island_City_New_York_May_2015_panorama_3.jpg'
+  credit: 'Photo: King of Hearts / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Long_Island_City_New_York_May_2015_panorama_3.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - new york

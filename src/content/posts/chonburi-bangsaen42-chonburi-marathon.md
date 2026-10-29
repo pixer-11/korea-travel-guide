@@ -10,7 +10,6 @@ eventEndDate: '2026-11-15'
 eventRecurring: true
 eventVenue: Bang Saen
 eventFactsAsked: true
-gallery: []
 tags:
   - chonburi
   - event
@@ -28,6 +27,14 @@ faq:
     a: There's Khao Sam Muk hill with its shrine and macaques, the Laem Thaen headland, Nong Mon Market for dried seafood and khao lam, and the seafood spots at nearby Ang Sila.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Bang_Saen_01.JPG/3840px-Bang_Saen_01.JPG
+  credit: 'Photo: atreyu / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Bang_Saen_01.JPG
+  focus:
+    x: 50
+    'y': 50
 ---
 
 ## A marathon with the Gulf on one side
