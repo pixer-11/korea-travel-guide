@@ -1,20 +1,10 @@
 Places 예산: backfill 몫 25회 (오늘 사용 11/100)
 Priority: 284 itinerary stop(s) queued first
-  – paris-pantheon.md: nothing new (resting 60d)
-  – bugis-albert-centre-market-food-centre.md: nothing new (resting 60d)
-  – bugis-bugis-street.md: nothing new (resting 60d)
-  – bukhara-toqi-zargaron.md: nothing new (resting 60d)
-  – mar-del-plata-puerto-de-mar-del-plata.md: nothing new (resting 60d)
-  – mendoza-plaza-pedro-del-castillo.md: nothing new (resting 60d)
-  – niagara-falls-old-stone-chimney.md: nothing new (resting 60d)
-  – paris-rue-mouffetard-market.md: nothing new (resting 60d)
-  – pattaya-pattaya-park-night-market.md: nothing new (resting 60d)
-  – pattaya-pattaya-walking-street.md: nothing new (resting 60d)
-  – pisa-piazza-dei-cavalieri.md: nothing new (resting 60d)
-  – quebec-city-place-d-armes.md: nothing new (resting 60d)
-  – stuttgart-karlsplatz.md: nothing new (resting 60d)
-  – jasper-jasper-national-park.md: nothing new (resting 60d)
-  – nazca-mirador-el-telar.md: nothing new (resting 60d)
-  – pattaya-pattaya-beach.md: nothing new (resting 60d)
+  – inverness-beauly-priory.md: nothing new (resting 60d)
+  – lake-louise-samson-mall.md: nothing new (resting 60d)
+  – penang-penang-street-art.md: nothing new (resting 60d)
+  – perth-perth-makers-market.md: nothing new (resting 60d)
+  – zhangjiajie-huangshizhai.md: nothing new (resting 60d)
+  – perth-elizabeth-quay.md: nothing new (resting 60d)
 
-BACKFILL RESULT: updated 0, backlog-updated 0, already-complete 1616, no-new-data 808, no-place 1135, closed-quarantined 0, quota-429 0, api-error 0, api-calls 16, remaining-askable 0 (APPLIED).
+BACKFILL RESULT: updated 0, backlog-updated 0, already-complete 1624, no-new-data 812, no-place 1135, closed-quarantined 0, quota-429 0, api-error 0, api-calls 6, remaining-askable 0 (APPLIED).
