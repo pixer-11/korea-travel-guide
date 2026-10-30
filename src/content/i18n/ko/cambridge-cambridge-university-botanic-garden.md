@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: cambridge-cambridge-university-botanic-garden
-srcHash: 'bd883b21b033'
+srcHash: '19455d3fffcb'
 title: 케임브리지 대학교 식물원 여행 가이드 (4.7★)
 description: 케임브리지 대학교 식물원은 케임브리지 남쪽 브룩사이드에 있는 40에이커 규모의 정원입니다. 리뷰 7,744개, 평점 4.7★를 받은 이곳의 방문 후기와 운영 시간, 관람 팁을 정리했습니다.
 quickAnswer: 케임브리지 대학교 식물원(Cambridge University Botanic Garden)은 케임브리지 남쪽 브룩사이드(Brookside)에 40에이커 규모로 자리 잡고 있습니다. 케임브리지 기차역에서 걸어서 10–15분 정도면 닿고, 안에는 온실과 호수, 카페가 있습니다. 현재 운영 시간은 오전 10시–오후 5시입니다. 가장 한산한 때는 평일 오전 10시–11시이고, 주말 오전 11시–오후 5시는 피하는 것이 좋습니다.

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: philadelphia-philadelphia-museum-of-art
-srcHash: 'd1eb48d04893'
+srcHash: 'f2afa5b4ad5d'
 title: 'Museo de Arte de Filadelfia: guía de viaje (4,8★)'
-description: 'El Museo de Arte de Filadelfia se encuentra en 2600 Benjamin Franklin Parkway, en el extremo occidental de Center City, sobre el río Schuylkill. 4,8★ (23.592 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Museo de Arte de Filadelfia se encuentra en 2600 Benjamin Franklin Parkway, en el extremo occidental de Center City, sobre el río Schuylkill. 4,8★ (23.706 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo de Arte de Filadelfia se encuentra en 2600 Benjamin Franklin Parkway, en el extremo occidental de Center City, sobre el río Schuylkill. Cierra los martes y miércoles, abre hasta las 8:45pm los viernes (el momento más tranquilo y mejor iluminado para la visita) y se llena todo el día de 10am a 5pm los fines de semana, así que conviene planear una tarde de viernes o una mañana de lunes o jueves. Para la colección permanente basta con reservar entre dos y tres horas, más si se quiere vivir con calma la experiencia completa de la escalinata de Rocky.
 faq:
   - q: ¿Cuál es el horario del Museo de Arte de Filadelfia?

@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: philadelphia-philadelphia-museum-of-art
-srcHash: 'd1eb48d04893'
+srcHash: 'f2afa5b4ad5d'
 title: 费城艺术博物馆旅行指南（4.8★）
-description: 费城艺术博物馆坐落在本杰明·富兰克林大道2600号（2600 Benjamin Franklin Parkway），位于中城区（Center City）西缘、斯库尔基尔河（Schuylkill River）上方。4.8★（23,592条评价）——游客怎么说、开放时间与实用建议，一并奉上。
+description: 费城艺术博物馆坐落在本杰明·富兰克林大道2600号（2600 Benjamin Franklin Parkway），位于中城区（Center City）西缘、斯库尔基尔河（Schuylkill River）上方。4.8★（23,706条评价）——游客怎么说、开放时间与实用建议，一并奉上。
 quickAnswer: 费城艺术博物馆坐落在本杰明·富兰克林大道2600号，位于中城区西缘、斯库尔基尔河上方。这里周二、周三闭馆，周五开到晚上8:45，是全周里最安静、光线也最好的参观时段；周末则从上午10点到下午5点全天都很拥挤，因此不妨挑一个周五傍晚，或是周一、周四的上午前往。光是看完常设展，就得预留两到三个小时，若还想体验一把“洛奇阶梯”的完整乐趣，时间还得更宽裕些。
 faq:
   - q: 费城艺术博物馆的开放时间是怎样的？

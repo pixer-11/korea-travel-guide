@@ -1,44 +1,53 @@
 ---
-title: "Choeung Ek Genocidal Center: Phnom Penh Travel Guide (4.6★)"
-description: "The Choeung Ek Genocidal Center, the \"Killing Fields\" site on the southern edge of Phnom Penh, is open daily from 7:30am to 5:30pm. 4.6★ (2,148 reviews) — what visitors say, hours, and tips."
-country: "Cambodia"
-region: "Phnom Penh"
-category: "attraction"
-pubDate: "2026-08-26T09:32:02.397Z"
+title: 'Choeung Ek Genocidal Center: Phnom Penh Travel Guide (4.6★)'
+description: >-
+  The Choeung Ek Genocidal Center, the "Killing Fields" site on the southern
+  edge of Phnom Penh, is open daily from 7:30am to 5:30pm. 4.6★ (2,194 reviews)
+  — what visitors say, hours, and tips.
+country: Cambodia
+region: Phnom Penh
+category: attraction
+pubDate: '2026-08-26T09:32:02.397Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Buddhist_Stupa_at_Choeung_Ek_killing_fields%2C_Cambodia.JPG/1920px-Buddhist_Stupa_at_Choeung_Ek_killing_fields%2C_Cambodia.JPG"
-  credit: "Photo: Timgray200 / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Buddhist_Stupa_at_Choeung_Ek_killing_fields,_Cambodia.JPG"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Buddhist_Stupa_at_Choeung_Ek_killing_fields%2C_Cambodia.JPG/1920px-Buddhist_Stupa_at_Choeung_Ek_killing_fields%2C_Cambodia.JPG
+  credit: 'Photo: Timgray200 / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Buddhist_Stupa_at_Choeung_Ek_killing_fields,_Cambodia.JPG
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/5890389_s_aO1qDu-d3rppUSqx3c4WlJ3HXeupAGVMugnCqAQVQ.jpg"
-    credit: "Photo: Foursquare user content (Choeung Ek Genocidal Center (មជ្ឈមណ្ឌល​ប្រល័យពូជសាសន៍​ជើងឯក))"
-    license: "foursquare"
-    source: "https://foursquare.com/v/4b8cb6b5f964a52031db32e3"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/5890389_s_aO1qDu-d3rppUSqx3c4WlJ3HXeupAGVMugnCqAQVQ.jpg
+    credit: >-
+      Photo: Foursquare user content (Choeung Ek Genocidal Center
+      (មជ្ឈមណ្ឌល​ប្រល័យពូជសាសន៍​ជើងឯក))
+    license: foursquare
+    source: 'https://foursquare.com/v/4b8cb6b5f964a52031db32e3'
 place:
-  id: "ChIJyZ59w2VaCTER07FCdaW0gMc"
-  name: "Choeung Ek Genocidal Center"
-  address: "FVMW+QX8, ផ្លូវជើងឯក, Phnom Penh, Cambodia"
+  id: ChIJyZ59w2VaCTER07FCdaW0gMc
+  name: Choeung Ek Genocidal Center
+  address: 'FVMW+QX8, ផ្លូវជើងឯក, Phnom Penh, Cambodia'
   rating: 4.6
-  userRatingsTotal: 2148
-  googleMapsUrl: "https://maps.google.com/?cid=14375688633296531923&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2194
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14375688633296531923&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 11.484245099999999
   lng: 104.9013585
-  phone: "+855 23 305 371"
+  phone: +855 23 305 371
   openingHours:
-    - "Monday: 7:30 AM – 5:30 PM"
-    - "Tuesday: 7:30 AM – 5:30 PM"
-    - "Wednesday: 7:30 AM – 5:30 PM"
-    - "Thursday: 7:30 AM – 5:30 PM"
-    - "Friday: 7:30 AM – 5:30 PM"
-    - "Saturday: 7:30 AM – 5:30 PM"
-    - "Sunday: 7:30 AM – 5:30 PM"
+    - 'Monday: 7:30 AM – 5:30 PM'
+    - 'Tuesday: 7:30 AM – 5:30 PM'
+    - 'Wednesday: 7:30 AM – 5:30 PM'
+    - 'Thursday: 7:30 AM – 5:30 PM'
+    - 'Friday: 7:30 AM – 5:30 PM'
+    - 'Saturday: 7:30 AM – 5:30 PM'
+    - 'Sunday: 7:30 AM – 5:30 PM'
   busyness:
-    updated: 2026-08-26
+    updated: 2026-08-26T00:00:00.000Z
     weekdayQuiet:
       - 8
     weekdayBusy:
@@ -49,24 +58,43 @@ place:
     weekendBusy:
       - 11
       - 12
-    venueId: "ven_634d673057616443463730524554436156327739355a794a496843"
+    venueId: ven_634d673057616443463730524554436156327739355a794a496843
 tags:
-  - "phnom penh"
-  - "museum"
-quickAnswer: "The Choeung Ek Genocidal Center, the \"Killing Fields\" site on the southern edge of Phnom Penh, is open daily from 7:30am to 5:30pm. It's quietest between 8am and 9am on both weekdays and weekends, so an early arrival gives you the most reflective visit. Plan for 90 minutes to two hours, including the audio tour, and avoid the 11am–1pm weekend crush."
+  - phnom penh
+  - museum
+quickAnswer: >-
+  The Choeung Ek Genocidal Center, the "Killing Fields" site on the southern
+  edge of Phnom Penh, is open daily from 7:30am to 5:30pm. It's quietest between
+  8am and 9am on both weekdays and weekends, so an early arrival gives you the
+  most reflective visit. Plan for 90 minutes to two hours, including the audio
+  tour, and avoid the 11am–1pm weekend crush.
 faq:
-  - q: "How do I get to Choeung Ek from central Phnom Penh?"
-    a: "It's about 15km southwest of the city center, a 30-40 minute tuk-tuk or car ride. Most visitors combine it with a stop at Tuol Sleng (S-21) museum."
-  - q: "How long should I spend at Choeung Ek?"
-    a: "Plan for 90 minutes to two hours, including the included audio tour, which is essential context and shouldn't be skipped."
-  - q: "What's the quietest time to visit?"
-    a: "Both weekdays and weekends are calmest between 8am and 9am, right after the 7:30am opening. Weekend mornings get busy from 11am to 1pm, so avoid that window if possible."
-  - q: "What are the opening hours?"
-    a: "Choeung Ek is open every day of the week, including weekends, from 7:30am to 5:30pm."
-  - q: "Is Choeung Ek appropriate to visit with children?"
-    a: "The site depicts genocide and mass graves in a direct, unflinching way, so it's generally recommended for teens and adults rather than young children."
+  - q: How do I get to Choeung Ek from central Phnom Penh?
+    a: >-
+      It's about 15km southwest of the city center, a 30-40 minute tuk-tuk or
+      car ride. Most visitors combine it with a stop at Tuol Sleng (S-21)
+      museum.
+  - q: How long should I spend at Choeung Ek?
+    a: >-
+      Plan for 90 minutes to two hours, including the included audio tour, which
+      is essential context and shouldn't be skipped.
+  - q: What's the quietest time to visit?
+    a: >-
+      Both weekdays and weekends are calmest between 8am and 9am, right after
+      the 7:30am opening. Weekend mornings get busy from 11am to 1pm, so avoid
+      that window if possible.
+  - q: What are the opening hours?
+    a: >-
+      Choeung Ek is open every day of the week, including weekends, from 7:30am
+      to 5:30pm.
+  - q: Is Choeung Ek appropriate to visit with children?
+    a: >-
+      The site depicts genocide and mass graves in a direct, unflinching way, so
+      it's generally recommended for teens and adults rather than young
+      children.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-30'
 ---
 Choeung Ek sits about 15km southwest of central Phnom Penh, past rice paddies and roadside noodle stalls that feel worlds away from what happened here. This was one of more than 300 killing fields across Cambodia, used by the Khmer Rouge between 1975 and 1979. Today it's a memorial, not a museum in the traditional sense, and the quiet is the point.
 

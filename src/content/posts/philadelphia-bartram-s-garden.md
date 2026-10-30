@@ -1,30 +1,37 @@
 ---
 title: 'Bartram''s Garden: Philadelphia Travel Guide (4.6★)'
-description: Bartram's Garden, on the Schuylkill River in Southwest Philadelphia, is a 45-acre National Historic Landmark that's free to walk through daily from 9am to 4pm. 4.6★ (2,251 reviews) — what visitors say, hours, and tips.
+description: >-
+  Bartram's Garden, on the Schuylkill River in Southwest Philadelphia, is a
+  45-acre National Historic Landmark that's free to walk through daily from 9am
+  to 4pm. 4.6★ (2,261 reviews) — what visitors say, hours, and tips.
 country: United States
 region: Philadelphia
 category: attraction
 pubDate: '2026-09-11T07:38:03.082Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/71124115_MlbE8k3ijYHrEL0nDQSB7gclLGLZT9MvewrKtqaNBXY.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/71124115_MlbE8k3ijYHrEL0nDQSB7gclLGLZT9MvewrKtqaNBXY.jpg
   credit: 'Photo: Foursquare user content (Bartram''s Garden)'
   license: foursquare
-  source: https://foursquare.com/v/4be98b744f5576b05b09b396
+  source: 'https://foursquare.com/v/4be98b744f5576b05b09b396'
   focus:
     x: 45
     'y': 45
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/John_Bartram%27s_Stone_Barn_at_Bartram%27s_Garden_in_Philadelphia%2C_PA.jpg/3840px-John_Bartram%27s_Stone_Barn_at_Bartram%27s_Garden_in_Philadelphia%2C_PA.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/John_Bartram%27s_Stone_Barn_at_Bartram%27s_Garden_in_Philadelphia%2C_PA.jpg/3840px-John_Bartram%27s_Stone_Barn_at_Bartram%27s_Garden_in_Philadelphia%2C_PA.jpg
     credit: 'Photo: Muran.Fox / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:John_Bartram%27s_Stone_Barn_at_Bartram%27s_Garden_in_Philadelphia,_PA.jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:John_Bartram%27s_Stone_Barn_at_Bartram%27s_Garden_in_Philadelphia,_PA.jpg
 place:
   id: ChIJmTX_74TGxokRtJ5tELv_3ms
   name: Bartram's Garden
-  address: 5400 Lindbergh Blvd., Philadelphia, PA 19143, USA
+  address: '5400 Lindbergh Blvd., Philadelphia, PA 19143, USA'
   rating: 4.6
-  userRatingsTotal: 2251
-  googleMapsUrl: https://maps.google.com/?cid=7772931185787641524&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 2261
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=7772931185787641524&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 39.9327414
   lng: -75.21220149999999
@@ -52,20 +59,40 @@ place:
 tags:
   - philadelphia
   - park
-quickAnswer: Bartram's Garden, on the Schuylkill River in Southwest Philadelphia, is a 45-acre National Historic Landmark that's free to walk through daily from 9am to 4pm. It's busiest on weekends from 10am to 4pm, so weekday mornings between 9 and 10am are your best bet for empty paths. Budget 90 minutes to two hours if you want to see the historic house, the river trail, and the community farm.
+quickAnswer: >-
+  Bartram's Garden, on the Schuylkill River in Southwest Philadelphia, is a
+  45-acre National Historic Landmark that's free to walk through daily from 9am
+  to 4pm. It's busiest on weekends from 10am to 4pm, so weekday mornings between
+  9 and 10am are your best bet for empty paths. Budget 90 minutes to two hours
+  if you want to see the historic house, the river trail, and the community
+  farm.
 faq:
   - q: Is Bartram's Garden free to visit?
-    a: Yes, walking the grounds is free. Guided tours of the historic house may have a separate fee, so check at the visitor center when you arrive.
+    a: >-
+      Yes, walking the grounds is free. Guided tours of the historic house may
+      have a separate fee, so check at the visitor center when you arrive.
   - q: What's the quietest time to visit Bartram's Garden?
-    a: Weekday mornings between 9am and 10am are the calmest window. Weekends from 10am to 4pm draw the biggest crowds, so avoid that stretch if you want the paths to yourself.
+    a: >-
+      Weekday mornings between 9am and 10am are the calmest window. Weekends
+      from 10am to 4pm draw the biggest crowds, so avoid that stretch if you
+      want the paths to yourself.
   - q: How do I get to Bartram's Garden without a car?
-    a: SEPTA's route 36 trolley and several bus lines stop within walking distance of the garden at 5400 Lindbergh Blvd. It's not directly at a station, so allow extra walking time.
+    a: >-
+      SEPTA's route 36 trolley and several bus lines stop within walking
+      distance of the garden at 5400 Lindbergh Blvd. It's not directly at a
+      station, so allow extra walking time.
   - q: Can you kayak at Bartram's Garden?
-    a: Yes, the on-site community boathouse offers free kayak and canoe rentals on the Schuylkill River, typically on weekends in warmer months. Confirm the current schedule online before you go, as it varies seasonally.
+    a: >-
+      Yes, the on-site community boathouse offers free kayak and canoe rentals
+      on the Schuylkill River, typically on weekends in warmer months. Confirm
+      the current schedule online before you go, as it varies seasonally.
   - q: How long should I plan for a visit?
-    a: Most visitors spend 90 minutes to two hours covering the historic trees, the river trail, the wetland boardwalk, and the community farm area.
+    a: >-
+      Most visitors spend 90 minutes to two hours covering the historic trees,
+      the river trail, the wetland boardwalk, and the community farm area.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-30'
 ---
 
 John Bartram bought this land along the Schuylkill River in 1728 and spent the next four decades filling it with plants he collected on trips through the American colonies. He was self-taught, a Quaker farmer who became the botanist King George III hired to send back specimens from the New World. The stone house he built by hand still stands here, and so does a lot of what he planted.

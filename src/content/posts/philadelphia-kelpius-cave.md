@@ -1,60 +1,85 @@
 ---
-title: "Kelpius Cave: Philadelphia Travel Guide (4.5★)"
-description: "Kelpius Cave sits in Philadelphia's Wissahickon Valley Park section of Fairmount Park, tucked off Hermit Lane near the Wissahickon Creek. 4.5★ (219 reviews) — what visitors say, hours, and tips."
-country: "United States"
-region: "Philadelphia"
-category: "hidden-gem"
-pubDate: "2026-08-24T08:10:16.132Z"
+title: 'Kelpius Cave: Philadelphia Travel Guide (4.5★)'
+description: >-
+  Kelpius Cave sits in Philadelphia's Wissahickon Valley Park section of
+  Fairmount Park, tucked off Hermit Lane near the Wissahickon Creek. 4.5★ (220
+  reviews) — what visitors say, hours, and tips.
+country: United States
+region: Philadelphia
+category: hidden-gem
+pubDate: '2026-08-24T08:10:16.132Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Cave_of_Kelpius%2C_Philadelphia%2C_PA.jpg/3840px-Cave_of_Kelpius%2C_Philadelphia%2C_PA.jpg"
-  credit: "Photo: JJonahJackalope / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Cave_of_Kelpius,_Philadelphia,_PA.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Cave_of_Kelpius%2C_Philadelphia%2C_PA.jpg/3840px-Cave_of_Kelpius%2C_Philadelphia%2C_PA.jpg
+  credit: 'Photo: JJonahJackalope / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Cave_of_Kelpius,_Philadelphia,_PA.jpg
+  via: act
   focus:
     x: 55
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/48255_4T7lxLNPvrdU1a01MmAxuq7UbIqUWnAxWyFWVhRYkn0.jpg"
-    credit: "Photo: Foursquare user content (Kelpius Cave)"
-    license: "foursquare"
-    source: "https://foursquare.com/v/4e1201467d8b4d5613df9fe8"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/48255_4T7lxLNPvrdU1a01MmAxuq7UbIqUWnAxWyFWVhRYkn0.jpg
+    credit: 'Photo: Foursquare user content (Kelpius Cave)'
+    license: foursquare
+    source: 'https://foursquare.com/v/4e1201467d8b4d5613df9fe8'
 place:
-  id: "ChIJRWQHqYq4xokRV5FpeelUzN8"
-  name: "Kelpius Cave"
-  address: "777 Hermit Ln, Philadelphia, PA 19128, USA"
+  id: ChIJRWQHqYq4xokRV5FpeelUzN8
+  name: Kelpius Cave
+  address: '777 Hermit Ln, Philadelphia, PA 19128, USA'
   rating: 4.5
-  userRatingsTotal: 219
-  googleMapsUrl: "https://maps.google.com/?cid=16126357727447978327&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 220
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16126357727447978327&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 40.0240314
   lng: -75.20141430000001
-  phone: "+1 856-684-8982"
+  phone: +1 856-684-8982
   openingHours:
-    - "Monday: 9:00 AM – 8:00 PM"
-    - "Tuesday: 9:00 AM – 8:00 PM"
-    - "Wednesday: 9:00 AM – 8:00 PM"
-    - "Thursday: 9:00 AM – 8:00 PM"
-    - "Friday: 9:00 AM – 8:00 PM"
-    - "Saturday: 9:00 AM – 8:00 PM"
-    - "Sunday: 9:00 AM – 8:00 PM"
+    - 'Monday: 9:00 AM – 8:00 PM'
+    - 'Tuesday: 9:00 AM – 8:00 PM'
+    - 'Wednesday: 9:00 AM – 8:00 PM'
+    - 'Thursday: 9:00 AM – 8:00 PM'
+    - 'Friday: 9:00 AM – 8:00 PM'
+    - 'Saturday: 9:00 AM – 8:00 PM'
+    - 'Sunday: 9:00 AM – 8:00 PM'
 tags:
-  - "philadelphia"
-  - "hidden gem"
-quickAnswer: "Kelpius Cave sits in Philadelphia's Wissahickon Valley Park section of Fairmount Park, tucked off Hermit Lane near the Wissahickon Creek. It's free to visit and open daily 9am–8pm, with the calmest visits on weekday mornings before hikers and dog-walkers fill the trail. Budget 45 minutes to an hour if you're combining it with a short creekside walk."
+  - philadelphia
+  - hidden gem
+quickAnswer: >-
+  Kelpius Cave sits in Philadelphia's Wissahickon Valley Park section of
+  Fairmount Park, tucked off Hermit Lane near the Wissahickon Creek. It's free
+  to visit and open daily 9am–8pm, with the calmest visits on weekday mornings
+  before hikers and dog-walkers fill the trail. Budget 45 minutes to an hour if
+  you're combining it with a short creekside walk.
 faq:
-  - q: "Is there an entrance fee for Kelpius Cave?"
-    a: "No, it's a free outdoor historical site within Wissahickon Valley Park with no ticket booth or admission charge."
-  - q: "What are the opening hours?"
-    a: "The site follows park hours, open daily from 9:00 AM to 8:00 PM, with no lighting on the trail after dark."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday mornings tend to be calmest, since the cave is under-the-radar and most foot traffic on the trail builds up midday and on weekends."
-  - q: "How do I get to Kelpius Cave?"
-    a: "Park near Valley Green Inn or along Forbidden Drive in Wissahickon Valley Park, then walk 10–15 minutes to the unmarked Hermit Lane side trail; there's no direct parking lot at the site."
-  - q: "What else is nearby worth seeing?"
-    a: "Valley Green Inn, the Livezey Covered Bridge, and the Devil's Pool swimming hole are all a short walk along the same Wissahickon trail system."
+  - q: Is there an entrance fee for Kelpius Cave?
+    a: >-
+      No, it's a free outdoor historical site within Wissahickon Valley Park
+      with no ticket booth or admission charge.
+  - q: What are the opening hours?
+    a: >-
+      The site follows park hours, open daily from 9:00 AM to 8:00 PM, with no
+      lighting on the trail after dark.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekday mornings tend to be calmest, since the cave is under-the-radar and
+      most foot traffic on the trail builds up midday and on weekends.
+  - q: How do I get to Kelpius Cave?
+    a: >-
+      Park near Valley Green Inn or along Forbidden Drive in Wissahickon Valley
+      Park, then walk 10–15 minutes to the unmarked Hermit Lane side trail;
+      there's no direct parking lot at the site.
+  - q: What else is nearby worth seeing?
+    a: >-
+      Valley Green Inn, the Livezey Covered Bridge, and the Devil's Pool
+      swimming hole are all a short walk along the same Wissahickon trail
+      system.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-30'
 ---
 
 Down a quiet spur off Hermit Lane, in the wooded folds of the Wissahickon Valley, a small stone grotto marks one of Philadelphia's odder footnotes. This is Kelpius Cave, named for Johannes Kelpius, the mystic who led a small band of German pietists into these woods around 1694 to await the end of the world.

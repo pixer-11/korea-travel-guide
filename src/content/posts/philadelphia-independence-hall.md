@@ -1,44 +1,52 @@
 ---
-title: "Independence Hall: Philadelphia Travel Guide (4.7★)"
-description: "Independence Hall in Philadelphia's Old City sits at 520 Chestnut St, open daily 9am to 5pm, and it's the single most-visited stop on the Independence National Historical Park mall. 4.7★ (8,179 reviews) — what visitors say, hours, and tips."
-country: "United States"
-region: "Philadelphia"
-category: "attraction"
-pubDate: "2026-09-10T08:06:23.645Z"
+title: 'Independence Hall: Philadelphia Travel Guide (4.7★)'
+description: >-
+  Independence Hall in Philadelphia's Old City sits at 520 Chestnut St, open
+  daily 9am to 5pm, and it's the single most-visited stop on the Independence
+  National Historical Park mall. 4.7★ (8,325 reviews) — what visitors say,
+  hours, and tips.
+country: United States
+region: Philadelphia
+category: attraction
+pubDate: '2026-09-10T08:06:23.645Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Independence_Hall.jpg/1920px-Independence_Hall.jpg"
-  credit: "Photo: Rdsmith4 / Wikimedia Commons (CC BY-SA 2.5)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Independence_Hall.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Independence_Hall.jpg/1920px-Independence_Hall.jpg
+  credit: 'Photo: Rdsmith4 / Wikimedia Commons (CC BY-SA 2.5)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Independence_Hall.jpg'
   focus:
     x: 50
-    y: 35
+    'y': 35
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Exterior_of_the_Independence_Hall%2C_Aug_2019.jpg/3840px-Exterior_of_the_Independence_Hall%2C_Aug_2019.jpg"
-    credit: "Photo: Mys 721tx / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Exterior_of_the_Independence_Hall,_Aug_2019.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Exterior_of_the_Independence_Hall%2C_Aug_2019.jpg/3840px-Exterior_of_the_Independence_Hall%2C_Aug_2019.jpg
+    credit: 'Photo: Mys 721tx / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Exterior_of_the_Independence_Hall,_Aug_2019.jpg
 place:
-  id: "ChIJd8kca4PIxokRqW59OWceihQ"
-  name: "Independence Hall"
-  address: "520 Chestnut St, Philadelphia, PA 19106, USA"
+  id: ChIJd8kca4PIxokRqW59OWceihQ
+  name: Independence Hall
+  address: '520 Chestnut St, Philadelphia, PA 19106, USA'
   rating: 4.7
-  userRatingsTotal: 8179
-  googleMapsUrl: "https://maps.google.com/?cid=1480028856239615657&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 8325
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1480028856239615657&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 39.948880599999995
   lng: -75.1500349
-  phone: "+1 215-965-2305"
+  phone: +1 215-965-2305
   openingHours:
-    - "Monday: 9:00 AM – 5:00 PM"
-    - "Tuesday: 9:00 AM – 5:00 PM"
-    - "Wednesday: 9:00 AM – 5:00 PM"
-    - "Thursday: 9:00 AM – 5:00 PM"
-    - "Friday: 9:00 AM – 5:00 PM"
-    - "Saturday: 9:00 AM – 5:00 PM"
-    - "Sunday: 9:00 AM – 5:00 PM"
+    - 'Monday: 9:00 AM – 5:00 PM'
+    - 'Tuesday: 9:00 AM – 5:00 PM'
+    - 'Wednesday: 9:00 AM – 5:00 PM'
+    - 'Thursday: 9:00 AM – 5:00 PM'
+    - 'Friday: 9:00 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 5:00 PM'
+    - 'Sunday: 9:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-09-10
+    updated: 2026-09-10T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 16
@@ -51,24 +59,45 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_5168696563574f39355771526b6f7849503461636b38644a496843"
+    venueId: ven_5168696563574f39355771526b6f7849503461636b38644a496843
 tags:
-  - "philadelphia"
-  - "historic site"
-quickAnswer: "Independence Hall in Philadelphia's Old City sits at 520 Chestnut St, open daily 9am to 5pm, and it's the single most-visited stop on the Independence National Historical Park mall. Entry is free but requires a timed ticket, so the quietest window is weekday mornings or weekend before 11am; avoid 11am to 4pm on weekends when the whole plaza clogs up. Budget 45 minutes to an hour once you're inside for the ranger-led tour through the Assembly Room."
+  - philadelphia
+  - historic site
+quickAnswer: >-
+  Independence Hall in Philadelphia's Old City sits at 520 Chestnut St, open
+  daily 9am to 5pm, and it's the single most-visited stop on the Independence
+  National Historical Park mall. Entry is free but requires a timed ticket, so
+  the quietest window is weekday mornings or weekend before 11am; avoid 11am to
+  4pm on weekends when the whole plaza clogs up. Budget 45 minutes to an hour
+  once you're inside for the ranger-led tour through the Assembly Room.
 faq:
-  - q: "Do I need a ticket to visit Independence Hall?"
-    a: "Yes, from March through December you need a free timed ticket, available same-day at the Independence Visitor Center or reserved in advance online for a small fee. January and February sometimes waive this; check current policy before your trip."
-  - q: "What's the quietest time to visit?"
-    a: "Weekday mornings stay calm all day. On weekends, go before 11am; from 11am to 4pm on Saturdays and Sundays the plaza and queues get crowded."
-  - q: "How long should I plan for the visit?"
-    a: "The ranger-led tour through the building itself takes about 45 minutes to an hour including security screening. Add another hour or two if you're also seeing the Liberty Bell and Congress Hall nearby."
-  - q: "How do I get there by public transit?"
-    a: "The Market East / 5th Street station on SEPTA's Market-Frankford Line is about a five-minute walk from the entrance at 520 Chestnut St."
-  - q: "What else is nearby worth combining with this visit?"
-    a: "The Liberty Bell Center is directly across the plaza, and Congress Hall, Old City Hall, and the National Constitution Center are all within a ten-minute walk."
+  - q: Do I need a ticket to visit Independence Hall?
+    a: >-
+      Yes, from March through December you need a free timed ticket, available
+      same-day at the Independence Visitor Center or reserved in advance online
+      for a small fee. January and February sometimes waive this; check current
+      policy before your trip.
+  - q: What's the quietest time to visit?
+    a: >-
+      Weekday mornings stay calm all day. On weekends, go before 11am; from 11am
+      to 4pm on Saturdays and Sundays the plaza and queues get crowded.
+  - q: How long should I plan for the visit?
+    a: >-
+      The ranger-led tour through the building itself takes about 45 minutes to
+      an hour including security screening. Add another hour or two if you're
+      also seeing the Liberty Bell and Congress Hall nearby.
+  - q: How do I get there by public transit?
+    a: >-
+      The Market East / 5th Street station on SEPTA's Market-Frankford Line is
+      about a five-minute walk from the entrance at 520 Chestnut St.
+  - q: What else is nearby worth combining with this visit?
+    a: >-
+      The Liberty Bell Center is directly across the plaza, and Congress Hall,
+      Old City Hall, and the National Constitution Center are all within a
+      ten-minute walk.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-30'
 ---
 You're standing in front of a red brick Georgian building with a white steeple, and it looks smaller than every photo of it ever made it seem. That's the first surprise of Independence Hall: it was built in the 1730s and 1740s as the Pennsylvania State House, a working colonial government building, not a monument designed to impress anyone.
 

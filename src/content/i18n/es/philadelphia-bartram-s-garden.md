@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: philadelphia-bartram-s-garden
-srcHash: '7af007df5f4f'
+srcHash: '763a25c1da70'
 title: 'Bartram''s Garden: guía de viaje de Filadelfia (4.6★)'
-description: 'Bartram''s Garden, a orillas del río Schuylkill en el suroeste de Filadelfia, es un Monumento Histórico Nacional de 45 acres que se puede recorrer gratis todos los días de 9:00 a 16:00. 4.6★ (2,251 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'Bartram''s Garden, a orillas del río Schuylkill en el suroeste de Filadelfia, es un Monumento Histórico Nacional de 45 acres que se puede recorrer gratis todos los días de 9:00 a 16:00. 4.6★ (2,261 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Bartram's Garden, a orillas del río Schuylkill en el suroeste de Filadelfia, es un Monumento Histórico Nacional de 45 acres que se puede recorrer gratis todos los días de 9:00 a 16:00. Los fines de semana de 10:00 a 16:00 son los momentos de mayor afluencia, así que las mañanas entre semana, entre las 9:00 y las 10:00, son la mejor opción para encontrar los senderos vacíos. Conviene reservar entre 90 minutos y dos horas si se quiere ver la casa histórica, el sendero junto al río y la granja comunitaria.
 faq:
   - q: ¿Es gratis visitar Bartram's Garden?

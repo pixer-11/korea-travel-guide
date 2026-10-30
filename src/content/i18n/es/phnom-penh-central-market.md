@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: phnom-penh-central-market
-srcHash: 'cf91cfcd5775'
+srcHash: '846b69509837'
 title: 'Mercado Central: Guía de Viaje de Phnom Penh (4,4★)'
-description: 'El Mercado Central (Phsar Thmei) se encuentra en el centro de Phnom Penh, en la calle 51, a cinco minutos a pie del centro comercial Sorya, y su momento más tranquilo es entre las 7 y las 9 de la mañana, cualquier día de la semana. 4,4★ (870 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Mercado Central (Phsar Thmei) se encuentra en el centro de Phnom Penh, en la calle 51, a cinco minutos a pie del centro comercial Sorya, y su momento más tranquilo es entre las 7 y las 9 de la mañana, cualquier día de la semana. 4,4★ (911 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Mercado Central (Phsar Thmei) se encuentra en el centro de Phnom Penh, en la calle 51, a cinco minutos a pie del centro comercial Sorya, y su momento más tranquilo es entre las 7 y las 9 de la mañana, cualquier día de la semana. Los fines de semana la afluencia crece rápido entre las 10 de la mañana y las 4 de la tarde, así que si quiere ver la cúpula art déco y los puestos de joyería sin codearse con la multitud, conviene llegar apenas abre. El mercado abre todos los días de 7am a 5pm, y los habitantes locales todavía lo llaman Phsar Thmei, el "Mercado Nuevo".
 faq:
   - q: ¿Por qué es conocido el Mercado Central de Phnom Penh?

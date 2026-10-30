@@ -1,40 +1,45 @@
 ---
-title: "Cambridge University Botanic Garden: Travel Guide (4.7★)"
-description: "Cambridge University Botanic Garden covers 40 acres on Brookside in south Cambridge. 4.7★ (7,744 reviews) — what visitors say, hours, and tips."
-country: "United Kingdom"
-region: "Cambridge"
-category: "attraction"
-pubDate: "2026-10-30T08:12:31.278Z"
+title: 'Cambridge University Botanic Garden: Travel Guide (4.7★)'
+description: >-
+  Cambridge University Botanic Garden covers 40 acres on Brookside in south
+  Cambridge. 4.7★ (7,745 reviews) — what visitors say, hours, and tips.
+country: United Kingdom
+region: Cambridge
+category: attraction
+pubDate: '2026-10-30T08:12:31.278Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Cambridge_University_Botanic_Garden_entrance%2C_England_-_DSCF2232.JPG/1920px-Cambridge_University_Botanic_Garden_entrance%2C_England_-_DSCF2232.JPG"
-  credit: "Photo: Rept0n1x / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Cambridge_University_Botanic_Garden_entrance,_England_-_DSCF2232.JPG"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Cambridge_University_Botanic_Garden_entrance%2C_England_-_DSCF2232.JPG/1920px-Cambridge_University_Botanic_Garden_entrance%2C_England_-_DSCF2232.JPG
+  credit: 'Photo: Rept0n1x / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Cambridge_University_Botanic_Garden_entrance,_England_-_DSCF2232.JPG
   focus:
     x: 40
-    y: 50
+    'y': 50
 gallery: []
 place:
-  id: "ChIJA_q2yZ1w2EcRSWXADT-R3O0"
-  name: "Cambridge University Botanic Garden"
-  address: "1 Brookside, Cambridge CB2 1JE, UK"
+  id: ChIJA_q2yZ1w2EcRSWXADT-R3O0
+  name: Cambridge University Botanic Garden
+  address: '1 Brookside, Cambridge CB2 1JE, UK'
   rating: 4.7
-  userRatingsTotal: 7744
-  googleMapsUrl: "https://maps.google.com/?cid=17139733981864944969&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 7745
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=17139733981864944969&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 52.1936373
   lng: 0.1273479
-  phone: "+44 1223 336265"
+  phone: +44 1223 336265
   openingHours:
-    - "Monday: 10:00 AM – 5:00 PM"
-    - "Tuesday: 10:00 AM – 5:00 PM"
-    - "Wednesday: 10:00 AM – 5:00 PM"
-    - "Thursday: 10:00 AM – 5:00 PM"
-    - "Friday: 10:00 AM – 5:00 PM"
-    - "Saturday: 10:00 AM – 5:00 PM"
-    - "Sunday: 10:00 AM – 5:00 PM"
+    - 'Monday: 10:00 AM – 5:00 PM'
+    - 'Tuesday: 10:00 AM – 5:00 PM'
+    - 'Wednesday: 10:00 AM – 5:00 PM'
+    - 'Thursday: 10:00 AM – 5:00 PM'
+    - 'Friday: 10:00 AM – 5:00 PM'
+    - 'Saturday: 10:00 AM – 5:00 PM'
+    - 'Sunday: 10:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-10-30
+    updated: 2026-10-30T00:00:00.000Z
     weekdayQuiet:
       - 10
     weekendBusy:
@@ -44,24 +49,40 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_304f33522d5444415857535263453277315a7932715f414a496843"
+    venueId: ven_304f33522d5444415857535263453277315a7932715f414a496843
 tags:
-  - "cambridge"
-  - "park"
-quickAnswer: "Cambridge University Botanic Garden covers 40 acres on Brookside in south Cambridge. It is about a 10–15 minute walk from Cambridge railway station, with glasshouses, a lake and a café inside. At the moment it opens 10am–5pm. Weekdays between 10am and 11am are the quietest, and weekend afternoons from 11am to 5pm are the time to avoid."
+  - cambridge
+  - park
+quickAnswer: >-
+  Cambridge University Botanic Garden covers 40 acres on Brookside in south
+  Cambridge. It is about a 10–15 minute walk from Cambridge railway station,
+  with glasshouses, a lake and a café inside. At the moment it opens 10am–5pm.
+  Weekdays between 10am and 11am are the quietest, and weekend afternoons from
+  11am to 5pm are the time to avoid.
 faq:
-  - q: "When is the quietest time to visit Cambridge University Botanic Garden?"
-    a: "Weekdays between 10am and 11am are the quietest. Avoid weekends between 11am and 5pm, when it is at its busiest."
-  - q: "How do I get there from Cambridge railway station?"
-    a: "Walk up Station Road and Hills Road. It takes about 10–15 minutes to reach the Hills Road gate. The main address is 1 Brookside, CB2 1JE."
-  - q: "What are the opening hours?"
-    a: "At the moment it opens 10am–5pm every day. Hours change with the seasons and on some holidays, so check the official website before you go."
-  - q: "How long should I spend there?"
-    a: "Allow 2–3 hours to see the glasshouses, the Systematic Beds and the lake. A quick loop of the main walks takes about an hour."
-  - q: "Is it worth visiting in winter?"
-    a: "Yes. The dedicated Winter Garden is planted for coloured stems, bark and winter scent, and the glasshouses give you warm shelter."
+  - q: When is the quietest time to visit Cambridge University Botanic Garden?
+    a: >-
+      Weekdays between 10am and 11am are the quietest. Avoid weekends between
+      11am and 5pm, when it is at its busiest.
+  - q: How do I get there from Cambridge railway station?
+    a: >-
+      Walk up Station Road and Hills Road. It takes about 10–15 minutes to reach
+      the Hills Road gate. The main address is 1 Brookside, CB2 1JE.
+  - q: What are the opening hours?
+    a: >-
+      At the moment it opens 10am–5pm every day. Hours change with the seasons
+      and on some holidays, so check the official website before you go.
+  - q: How long should I spend there?
+    a: >-
+      Allow 2–3 hours to see the glasshouses, the Systematic Beds and the lake.
+      A quick loop of the main walks takes about an hour.
+  - q: Is it worth visiting in winter?
+    a: >-
+      Yes. The dedicated Winter Garden is planted for coloured stems, bark and
+      winter scent, and the glasshouses give you warm shelter.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-30'
 ---
 
 ## Forty acres between the station and the colleges

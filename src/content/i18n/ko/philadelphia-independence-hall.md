@@ -1,9 +1,9 @@
 ---
 lang: ko
 slug: philadelphia-independence-hall
-srcHash: '53e77d7527aa'
+srcHash: '9396b6a9492d'
 title: '인디펜던스 홀: 필라델피아 여행 가이드 (4.7★)'
-description: 필라델피아 올드 시티(Old City)의 520 Chestnut St에 위치한 인디펜던스 홀은 매일 오전 9시부터 오후 5시까지 문을 열며, 인디펜던스 국립역사공원(Independence National Historical Park) 몰에서 가장 많은 사람이 찾는 곳입니다. 4.7★(리뷰 8,179개) — 방문객들의 후기와 운영 시간, 방문 팁을 소개합니다.
+description: 필라델피아 올드 시티(Old City)의 520 Chestnut St에 위치한 인디펜던스 홀은 매일 오전 9시부터 오후 5시까지 문을 열며, 인디펜던스 국립역사공원(Independence National Historical Park) 몰에서 가장 많은 사람이 찾는 곳입니다. 4.7★(리뷰 8,325개) — 방문객들의 후기와 운영 시간, 방문 팁을 소개합니다.
 quickAnswer: 필라델피아 올드 시티(Old City)의 520 Chestnut St에 위치한 인디펜던스 홀은 매일 오전 9시부터 오후 5시까지 문을 열며, 인디펜던스 국립역사공원(Independence National Historical Park) 몰에서 가장 많은 사람이 찾는 곳입니다. 입장은 무료지만 시간대별 지정 티켓이 필요하므로, 평일 오전이나 주말 오전 11시 이전이 가장 한산한 시간대입니다. 주말 오전 11시부터 오후 4시 사이에는 광장 전체가 붐비니 피하는 것이 좋습니다. 내부에 들어가면 회의실(Assembly Room)을 도는 레인저 동반 투어에 45분에서 1시간 정도 시간을 잡아두시기 바랍니다.
 faq:
   - q: 인디펜던스 홀을 방문하려면 티켓이 필요한가요?

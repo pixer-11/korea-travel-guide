@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: philadelphia-reading-terminal-market
-srcHash: '9c1be7af3316'
+srcHash: 'af0e9327c2b2'
 title: 'Reading Terminal Market: guía de viaje de Filadelfia (4.7★)'
-description: 'Reading Terminal Market es un enorme mercado gastronómico cubierto ubicado en el 1136 de Arch Street, en el centro de Filadelfia, a una cuadra del Ayuntamiento y de Chinatown, abierto todos los días de 8:00 a 18:00. 4.7★ (46,302 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'Reading Terminal Market es un enorme mercado gastronómico cubierto ubicado en el 1136 de Arch Street, en el centro de Filadelfia, a una cuadra del Ayuntamiento y de Chinatown, abierto todos los días de 8:00 a 18:00. 4.7★ (46,456 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Reading Terminal Market es un enorme mercado gastronómico cubierto ubicado en el 1136 de Arch Street, en el centro de Filadelfia, a una cuadra del Ayuntamiento y de Chinatown, abierto todos los días de 8:00 a 18:00. Para una visita tranquila, conviene ir entre las 8:00 y las 10:00 los días de semana, o entre las 8:00 y las 11:00 los fines de semana. Es mejor evitar los fines de semana desde las 11:00 hasta el cierre, cuando los pasillos se llenan por completo.
 faq:
   - q: ¿Cuál es el mejor momento para visitar Reading Terminal Market sin aglomeraciones?

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: perth-the-art-gallery-of-western-australia-agwa
-srcHash: '49627c5ffbd3'
+srcHash: 'd186db28bf60'
 title: 'Galería de Arte de Australia Occidental (AGWA): guía de viaje de Perth'
-description: La Galería de Arte de Australia Occidental (Art Gallery of Western Australia, AGWA) se encuentra en el Perth Cultural Centre, en el lado de Northbridge, a pocos minutos a pie de la estación de Perth, y abre todos los días de 10am a 5pm. Tiene una valoración de 4.4★ (2,986 reseñas). Aquí encontrará las opiniones de los visitantes, el horario y algunos consejos.
+description: La Galería de Arte de Australia Occidental (Art Gallery of Western Australia, AGWA) se encuentra en el Perth Cultural Centre, en el lado de Northbridge, a pocos minutos a pie de la estación de Perth, y abre todos los días de 10am a 5pm. Tiene una valoración de 4.4★ (3,012 reseñas). Aquí encontrará las opiniones de los visitantes, el horario y algunos consejos.
 quickAnswer: La Galería de Arte de Australia Occidental (Art Gallery of Western Australia, AGWA) está en el Perth Cultural Centre, en el lado de Northbridge, a pocos minutos a pie de la estación de Perth (Perth Station). Abre todos los días de 10am a 5pm. Los fines de semana hay mucha gente durante todo el horario, de 10am a 5pm, así que las salas están más tranquilas si va entre semana. Reserve entre dos y tres horas para la visita y termínela en la azotea.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar la AGWA?

@@ -1,45 +1,54 @@
 ---
-title: "Cambridge Market Square: Travel Guide (4.5★)"
-description: "Cambridge Market Square sits on Market Hill in central Cambridge, beside Great St Mary's Church and a few minutes' walk from King's College, with stalls currently trading 10am–4pm every day. 4.5★ (4,051 reviews) — what visitors say, hours, and tips."
-country: "United Kingdom"
-region: "Cambridge"
-category: "hidden-gem"
-pubDate: "2026-10-30T08:12:33.383Z"
+title: 'Cambridge Market Square: Travel Guide (4.5★)'
+description: >-
+  Cambridge Market Square sits on Market Hill in central Cambridge, beside Great
+  St Mary's Church and a few minutes' walk from King's College, with stalls
+  currently trading 10am–4pm every day. 4.5★ (4,052 reviews) — what visitors
+  say, hours, and tips.
+country: United Kingdom
+region: Cambridge
+category: hidden-gem
+pubDate: '2026-10-30T08:12:33.383Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Cambridge_Market_Square_Market_Hill_Cambridge_England_Britain_UK_United_Kingdom_United_Kingdom_of_Great_Britain_and_Northern_Ireland_%2841158381652%29.jpg/3840px-Cambridge_Market_Square_Market_Hill_Cambridge_England_Britain_UK_United_Kingdom_United_Kingdom_of_Great_Britain_and_Northern_Ireland_%2841158381652%29.jpg"
-  credit: "Photo: bryan... / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Cambridge_Market_Square_Market_Hill_Cambridge_England_Britain_UK_United_Kingdom_United_Kingdom_of_Great_Britain_and_Northern_Ireland_(41158381652).jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Cambridge_Market_Square_Market_Hill_Cambridge_England_Britain_UK_United_Kingdom_United_Kingdom_of_Great_Britain_and_Northern_Ireland_%2841158381652%29.jpg/3840px-Cambridge_Market_Square_Market_Hill_Cambridge_England_Britain_UK_United_Kingdom_United_Kingdom_of_Great_Britain_and_Northern_Ireland_%2841158381652%29.jpg
+  credit: 'Photo: bryan... / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Cambridge_Market_Square_Market_Hill_Cambridge_England_Britain_UK_United_Kingdom_United_Kingdom_of_Great_Britain_and_Northern_Ireland_(41158381652).jpg
+  via: act
   focus:
     x: 60
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Cambridge_Market_Square_Market_Hill_Cambridge_England_Britain_UK_United_Kingdom_United_Kingdom_of_Great_Britain_and_Northern_Ireland_%2840489303064%29.jpg/3840px-Cambridge_Market_Square_Market_Hill_Cambridge_England_Britain_UK_United_Kingdom_United_Kingdom_of_Great_Britain_and_Northern_Ireland_%2840489303064%29.jpg"
-    credit: "Photo: bryan... / Wikimedia Commons (CC BY-SA 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Cambridge_Market_Square_Market_Hill_Cambridge_England_Britain_UK_United_Kingdom_United_Kingdom_of_Great_Britain_and_Northern_Ireland_(40489303064).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Cambridge_Market_Square_Market_Hill_Cambridge_England_Britain_UK_United_Kingdom_United_Kingdom_of_Great_Britain_and_Northern_Ireland_%2840489303064%29.jpg/3840px-Cambridge_Market_Square_Market_Hill_Cambridge_England_Britain_UK_United_Kingdom_United_Kingdom_of_Great_Britain_and_Northern_Ireland_%2840489303064%29.jpg
+    credit: 'Photo: bryan... / Wikimedia Commons (CC BY-SA 2.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Cambridge_Market_Square_Market_Hill_Cambridge_England_Britain_UK_United_Kingdom_United_Kingdom_of_Great_Britain_and_Northern_Ireland_(40489303064).jpg
 place:
-  id: "ChIJmxZmlr1w2EcRoYdWLTCzDvU"
-  name: "Cambridge Market Square"
-  address: "Market Hill, Cambridge CB1 0SS, UK"
+  id: ChIJmxZmlr1w2EcRoYdWLTCzDvU
+  name: Cambridge Market Square
+  address: 'Market Hill, Cambridge CB1 0SS, UK'
   rating: 4.5
-  userRatingsTotal: 4051
-  googleMapsUrl: "https://maps.google.com/?cid=17658248208466741153&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 4052
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=17658248208466741153&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 52.2053745
   lng: 0.1190324
-  phone: "+44 1223 457466"
+  phone: +44 1223 457466
   openingHours:
-    - "Monday: 10:00 AM – 4:00 PM"
-    - "Tuesday: 10:00 AM – 4:00 PM"
-    - "Wednesday: 10:00 AM – 4:00 PM"
-    - "Thursday: 10:00 AM – 4:00 PM"
-    - "Friday: 10:00 AM – 4:00 PM"
-    - "Saturday: 10:00 AM – 4:00 PM"
-    - "Sunday: 10:00 AM – 4:00 PM"
+    - 'Monday: 10:00 AM – 4:00 PM'
+    - 'Tuesday: 10:00 AM – 4:00 PM'
+    - 'Wednesday: 10:00 AM – 4:00 PM'
+    - 'Thursday: 10:00 AM – 4:00 PM'
+    - 'Friday: 10:00 AM – 4:00 PM'
+    - 'Saturday: 10:00 AM – 4:00 PM'
+    - 'Sunday: 10:00 AM – 4:00 PM'
   busyness:
-    updated: 2026-10-30
+    updated: 2026-10-30T00:00:00.000Z
     weekdayQuiet:
       - 10
     weekendBusy:
@@ -48,24 +57,42 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_5576447a43544c5764596f526345327731726c6d5a786d4a496843"
+    venueId: ven_5576447a43544c5764596f526345327731726c6d5a786d4a496843
 tags:
-  - "cambridge"
-  - "local market"
-quickAnswer: "Cambridge Market Square sits on Market Hill in central Cambridge, beside Great St Mary's Church and a few minutes' walk from King's College, with stalls currently trading 10am–4pm every day. The calmest time is 10am–11am on weekdays. Try not to arrive between 11am and 4pm at weekends, when the square is at its fullest."
+  - cambridge
+  - local market
+quickAnswer: >-
+  Cambridge Market Square sits on Market Hill in central Cambridge, beside Great
+  St Mary's Church and a few minutes' walk from King's College, with stalls
+  currently trading 10am–4pm every day. The calmest time is 10am–11am on
+  weekdays. Try not to arrive between 11am and 4pm at weekends, when the square
+  is at its fullest.
 faq:
-  - q: "When is the quietest time to visit Cambridge Market Square?"
-    a: "Weekdays between 10am and 11am are the quietest. At weekends, try not to arrive between 11am and 4pm, when the square is at its busiest."
-  - q: "What are the market's opening hours?"
-    a: "At the moment the stalls trade 10am–4pm every day of the week. Individual traders keep their own days, so not every stall is there every day."
-  - q: "How do I get to Market Hill from Cambridge station?"
-    a: "It's about a 25-minute walk north-west via Hills Road and Regent Street, or a short bus ride into the city centre. Drivers are better off using one of the Park & Ride sites."
-  - q: "How long should I spend at the market?"
-    a: "Allow 45 minutes to an hour to walk the stalls, a bit longer if you're eating there. King's College and Great St Mary's are both close by, so it fits easily into a day of sightseeing."
-  - q: "Is there anywhere to sit and eat?"
-    a: "There's no dedicated seating. People eat on the fountain steps, by Great St Mary's, or walk ten minutes to the grass at Parker's Piece."
+  - q: When is the quietest time to visit Cambridge Market Square?
+    a: >-
+      Weekdays between 10am and 11am are the quietest. At weekends, try not to
+      arrive between 11am and 4pm, when the square is at its busiest.
+  - q: What are the market's opening hours?
+    a: >-
+      At the moment the stalls trade 10am–4pm every day of the week. Individual
+      traders keep their own days, so not every stall is there every day.
+  - q: How do I get to Market Hill from Cambridge station?
+    a: >-
+      It's about a 25-minute walk north-west via Hills Road and Regent Street,
+      or a short bus ride into the city centre. Drivers are better off using one
+      of the Park & Ride sites.
+  - q: How long should I spend at the market?
+    a: >-
+      Allow 45 minutes to an hour to walk the stalls, a bit longer if you're
+      eating there. King's College and Great St Mary's are both close by, so it
+      fits easily into a day of sightseeing.
+  - q: Is there anywhere to sit and eat?
+    a: >-
+      There's no dedicated seating. People eat on the fountain steps, by Great
+      St Mary's, or walk ten minutes to the grass at Parker's Piece.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-30'
 ---
 
 ## A square under a church tower

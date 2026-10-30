@@ -1,48 +1,75 @@
 ---
-title: "Independence National Historical Park: Philadelphia Travel Guide"
-description: "Independence National Historical Park is the 20-block stretch of Old City Philadelphia holding Independence Hall, the Liberty Bell Center, and a cluster of museums tracing America's founding. 4.6★ (26,599 reviews) — what visitors say, hours, and tips."
-country: "United States"
-region: "Philadelphia"
-category: "attraction"
-pubDate: "2026-08-14T08:50:34.926Z"
+title: 'Independence National Historical Park: Philadelphia Travel Guide'
+description: >-
+  Independence National Historical Park is the 20-block stretch of Old City
+  Philadelphia holding Independence Hall, the Liberty Bell Center, and a cluster
+  of museums tracing America's founding. 4.7★ (26,870 reviews) — what visitors
+  say, hours, and tips.
+country: United States
+region: Philadelphia
+category: attraction
+pubDate: '2026-08-14T08:50:34.926Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Liberty_Bell%2C_2016.jpg/1920px-Liberty_Bell%2C_2016.jpg"
-  credit: "Photo: Phil Roeder / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Liberty_Bell,_2016.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Liberty_Bell%2C_2016.jpg/1920px-Liberty_Bell%2C_2016.jpg
+  credit: 'Photo: Phil Roeder / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Liberty_Bell,_2016.jpg'
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Long_shot_of_Independence_Hall_in_Independence_National_Historical_Park_in_Philadelphia.jpg/3840px-Long_shot_of_Independence_Hall_in_Independence_National_Historical_Park_in_Philadelphia.jpg"
-    credit: "Photo: Mars1909 / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Long_shot_of_Independence_Hall_in_Independence_National_Historical_Park_in_Philadelphia.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Long_shot_of_Independence_Hall_in_Independence_National_Historical_Park_in_Philadelphia.jpg/3840px-Long_shot_of_Independence_Hall_in_Independence_National_Historical_Park_in_Philadelphia.jpg
+    credit: 'Photo: Mars1909 / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Long_shot_of_Independence_Hall_in_Independence_National_Historical_Park_in_Philadelphia.jpg
 place:
-  id: "ChIJGVDvkoTIxokRIQNxPpqAR4Y"
-  name: "Independence National Historical Park"
-  address: "Philadelphia, PA 19106, USA"
-  rating: 4.6
-  userRatingsTotal: 26599
-  googleMapsUrl: "https://maps.google.com/?cid=9675843724389712673&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  id: ChIJGVDvkoTIxokRIQNxPpqAR4Y
+  name: Independence National Historical Park
+  address: 'Philadelphia, PA 19106, USA'
+  rating: 4.7
+  userRatingsTotal: 26870
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9675843724389712673&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 39.949531199999996
   lng: -75.14973189999999
-  phone: "+1 215-965-2305"
+  phone: +1 215-965-2305
 tags:
-  - "philadelphia"
-  - "top attraction"
-quickAnswer: "Independence National Historical Park is the 20-block stretch of Old City Philadelphia holding Independence Hall, the Liberty Bell Center, and a cluster of museums tracing America's founding. Give it a half-day minimum — a full day if you want to tour Independence Hall and linger in Franklin Court. Arrive at opening or after 3pm to beat the tour-bus crush."
+  - philadelphia
+  - top attraction
+quickAnswer: >-
+  Independence National Historical Park is the 20-block stretch of Old City
+  Philadelphia holding Independence Hall, the Liberty Bell Center, and a cluster
+  of museums tracing America's founding. Give it a half-day minimum — a full day
+  if you want to tour Independence Hall and linger in Franklin Court. Arrive at
+  opening or after 3pm to beat the tour-bus crush.
 faq:
-  - q: "Do I need tickets to see Independence Hall?"
-    a: "Yes — entry is free but requires a timed ticket, available same-day at the Independence Visitor Center or in advance via recreation.gov during busy months. The Liberty Bell Center needs no ticket."
-  - q: "How long should I spend at the park?"
-    a: "Budget a half-day to hit the Liberty Bell, Independence Hall, and Congress Hall. A full day lets you add Franklin Court and the Second Bank portrait gallery."
-  - q: "What's the nearest subway stop?"
-    a: "SEPTA's Market-Frankford Line stops at 5th Street/Independence Hall, right at the edge of the park."
-  - q: "When is it least crowded?"
-    a: "Weekday mornings right at opening, and winter months generally, see far fewer visitors than summer weekends or the days around July 4th."
-  - q: "Is the National Constitution Center part of the park?"
-    a: "No, it's a separate nonprofit institution across the mall, but it's an easy add-on and gives useful context before or after visiting Independence Hall."
+  - q: Do I need tickets to see Independence Hall?
+    a: >-
+      Yes — entry is free but requires a timed ticket, available same-day at the
+      Independence Visitor Center or in advance via recreation.gov during busy
+      months. The Liberty Bell Center needs no ticket.
+  - q: How long should I spend at the park?
+    a: >-
+      Budget a half-day to hit the Liberty Bell, Independence Hall, and Congress
+      Hall. A full day lets you add Franklin Court and the Second Bank portrait
+      gallery.
+  - q: What's the nearest subway stop?
+    a: >-
+      SEPTA's Market-Frankford Line stops at 5th Street/Independence Hall, right
+      at the edge of the park.
+  - q: When is it least crowded?
+    a: >-
+      Weekday mornings right at opening, and winter months generally, see far
+      fewer visitors than summer weekends or the days around July 4th.
+  - q: Is the National Constitution Center part of the park?
+    a: >-
+      No, it's a separate nonprofit institution across the mall, but it's an
+      easy add-on and gives useful context before or after visiting Independence
+      Hall.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-30'
 ---
 
 You step off Market Street and the modern city just falls away. Cobblestones replace asphalt, brick rowhouses with shuttered windows line up in neat Georgian rows, and ahead of you rises a plain red-brick tower with a white steeple, Independence Hall, looking almost too small for what happened inside it.

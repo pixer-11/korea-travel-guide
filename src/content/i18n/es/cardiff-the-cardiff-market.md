@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: cardiff-the-cardiff-market
-srcHash: '29f51a63829e'
+srcHash: 'faa7ed833878'
 title: 'Mercado de Cardiff (Cardiff Market): guía de viaje (4.5★)'
-description: En pleno centro de Cardiff, entre St Mary Street y Trinity Street y a unos cinco minutos a pie del castillo, se encuentra el mercado cubierto victoriano de la ciudad. Con una valoración de 4.5★ (6,677 reseñas), reunimos aquí las opiniones de los visitantes, los horarios y algunos consejos prácticos.
+description: En pleno centro de Cardiff, entre St Mary Street y Trinity Street y a unos cinco minutos a pie del castillo, se encuentra el mercado cubierto victoriano de la ciudad. Con una valoración de 4.5★ (6,678 reseñas), reunimos aquí las opiniones de los visitantes, los horarios y algunos consejos prácticos.
 quickAnswer: 'Entre St Mary Street y Trinity Street, en pleno centro de Cardiff y a unos cinco minutos a pie del castillo, se alza el mercado cubierto victoriano de la ciudad (Cardiff Market). Actualmente abre de lunes a sábado, de 8am a 5pm, y cierra los domingos. Calcule entre 45 minutos y una hora de visita y vaya con hambre: los puestos de comida son el principal reclamo.'
 faq:
   - q: ¿Cuál es el horario del mercado de Cardiff?

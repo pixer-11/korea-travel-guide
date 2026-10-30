@@ -1,44 +1,52 @@
 ---
-title: "Central Market: Phnom Penh Travel Guide (4.4★)"
-description: "Central Market (Phsar Thmei) sits in central Phnom Penh on Street 51, a five-minute walk from Sorya Mall, and it's calmest between 7am and 9am on any day of the week. 4.4★ (870 reviews) — what visitors say, hours, and tips."
-country: "Cambodia"
-region: "Phnom Penh"
-category: "hidden-gem"
-pubDate: "2026-09-10T13:20:57.723Z"
+title: 'Central Market: Phnom Penh Travel Guide (4.4★)'
+description: >-
+  Central Market (Phsar Thmei) sits in central Phnom Penh on Street 51, a
+  five-minute walk from Sorya Mall, and it's calmest between 7am and 9am on any
+  day of the week. 4.4★ (911 reviews) — what visitors say, hours, and tips.
+country: Cambodia
+region: Phnom Penh
+category: hidden-gem
+pubDate: '2026-09-10T13:20:57.723Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/a/aa/Phnom_Penh_Central_Market_-_January_2020_-_1.jpg"
-  credit: "Photo: Mx. Granger / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Phnom_Penh_Central_Market_-_January_2020_-_1.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/a/aa/Phnom_Penh_Central_Market_-_January_2020_-_1.jpg
+  credit: 'Photo: Mx. Granger / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Phnom_Penh_Central_Market_-_January_2020_-_1.jpg
+  via: act
   focus:
     x: 50
-    y: 55
+    'y': 55
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/20171125_Central_Market%2C_Phnom_Penh_4368_DxO.jpg/3840px-20171125_Central_Market%2C_Phnom_Penh_4368_DxO.jpg"
-    credit: "Photo: Jakub Hałun / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:20171125_Central_Market,_Phnom_Penh_4368_DxO.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/20171125_Central_Market%2C_Phnom_Penh_4368_DxO.jpg/3840px-20171125_Central_Market%2C_Phnom_Penh_4368_DxO.jpg
+    credit: 'Photo: Jakub Hałun / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:20171125_Central_Market,_Phnom_Penh_4368_DxO.jpg
 place:
-  id: "ChIJVUQdpCxRCTERSA3VP5TCxZI"
-  name: "Central Market"
-  address: "E273 & E274, Central Market, 51 Street 51, Phnom Penh, Cambodia"
+  id: ChIJVUQdpCxRCTERSA3VP5TCxZI
+  name: Central Market
+  address: 'E273 & E274, Central Market, 51 Street 51, Phnom Penh, Cambodia'
   rating: 4.4
-  userRatingsTotal: 870
-  googleMapsUrl: "https://maps.google.com/?cid=10576073241931353416&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 911
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10576073241931353416&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 11.569563400000002
   lng: 104.921002
   openingHours:
-    - "Monday: 7:00 AM – 5:00 PM"
-    - "Tuesday: 7:00 AM – 5:00 PM"
-    - "Wednesday: 7:00 AM – 5:00 PM"
-    - "Thursday: 7:00 AM – 5:00 PM"
-    - "Friday: 7:00 AM – 5:00 PM"
-    - "Saturday: 7:00 AM – 5:00 PM"
-    - "Sunday: 7:00 AM – 5:00 PM"
+    - 'Monday: 7:00 AM – 5:00 PM'
+    - 'Tuesday: 7:00 AM – 5:00 PM'
+    - 'Wednesday: 7:00 AM – 5:00 PM'
+    - 'Thursday: 7:00 AM – 5:00 PM'
+    - 'Friday: 7:00 AM – 5:00 PM'
+    - 'Saturday: 7:00 AM – 5:00 PM'
+    - 'Sunday: 7:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-09-10
+    updated: 2026-09-10T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -52,24 +60,44 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_495a7843543550563341535245544352784370645155564a496843"
+    venueId: ven_495a7843543550563341535245544352784370645155564a496843
 tags:
-  - "phnom penh"
-  - "local market"
-quickAnswer: "Central Market (Phsar Thmei) sits in central Phnom Penh on Street 51, a five-minute walk from Sorya Mall, and it's calmest between 7am and 9am on any day of the week. Weekend crowds build fast from 10am to 4pm, so if you want the art deco dome and the jewelry stalls without shoulder-to-shoulder traffic, get there at opening. It's open daily 7am to 5pm, and locals still call it Phsar Thmei, the \"New Market.\""
+  - phnom penh
+  - local market
+quickAnswer: >-
+  Central Market (Phsar Thmei) sits in central Phnom Penh on Street 51, a
+  five-minute walk from Sorya Mall, and it's calmest between 7am and 9am on any
+  day of the week. Weekend crowds build fast from 10am to 4pm, so if you want
+  the art deco dome and the jewelry stalls without shoulder-to-shoulder traffic,
+  get there at opening. It's open daily 7am to 5pm, and locals still call it
+  Phsar Thmei, the "New Market."
 faq:
-  - q: "What is Central Market in Phnom Penh known for?"
-    a: "It's known as Phsar Thmei, a 1937 Art Deco market with a distinctive yellow dome and four wings selling gold and silver jewelry, clothing, electronics, souvenirs, and street food."
-  - q: "When is the quietest time to visit Central Market?"
-    a: "Both weekdays and weekends are calmest between 7am and 9am, right after opening. On weekends, try to avoid 10am to 4pm, when it gets busiest."
-  - q: "How do I get to Central Market from the riverfront?"
-    a: "It's about a 10 to 15 minute walk from the Tonle Sap riverfront, or a short, inexpensive tuk-tuk ride; drivers know it by the name Phsar Thmei."
-  - q: "Is haggling expected at Central Market?"
-    a: "Yes, especially in the clothing, souvenir, and electronics wings, where starting with a counter-offer around 40 to 50 percent of the asking price is normal. Prices at the gold and silver counters under the dome are less negotiable since they track metal value."
-  - q: "How much time should I plan for a visit?"
-    a: "About an hour covers a walk through the dome and all four wings; add extra time if you plan to eat at the surrounding food stalls or shop seriously."
+  - q: What is Central Market in Phnom Penh known for?
+    a: >-
+      It's known as Phsar Thmei, a 1937 Art Deco market with a distinctive
+      yellow dome and four wings selling gold and silver jewelry, clothing,
+      electronics, souvenirs, and street food.
+  - q: When is the quietest time to visit Central Market?
+    a: >-
+      Both weekdays and weekends are calmest between 7am and 9am, right after
+      opening. On weekends, try to avoid 10am to 4pm, when it gets busiest.
+  - q: How do I get to Central Market from the riverfront?
+    a: >-
+      It's about a 10 to 15 minute walk from the Tonle Sap riverfront, or a
+      short, inexpensive tuk-tuk ride; drivers know it by the name Phsar Thmei.
+  - q: Is haggling expected at Central Market?
+    a: >-
+      Yes, especially in the clothing, souvenir, and electronics wings, where
+      starting with a counter-offer around 40 to 50 percent of the asking price
+      is normal. Prices at the gold and silver counters under the dome are less
+      negotiable since they track metal value.
+  - q: How much time should I plan for a visit?
+    a: >-
+      About an hour covers a walk through the dome and all four wings; add extra
+      time if you plan to eat at the surrounding food stalls or shop seriously.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-30'
 ---
 The dome is the first thing that makes sense of the whole building. Painted mustard yellow and cast in reinforced concrete, it rises above four wings that stretch out like a cross, an Art Deco design finished in 1937 when this was reportedly one of the largest markets in Asia. Stand under the central rotunda and you can see how the whole structure funnels light and air down into the stalls below, a piece of engineering doing double duty as a covered bazaar.
 

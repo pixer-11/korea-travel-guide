@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: philadelphia-elfreth-s-alley-museum
-srcHash: '9c19a7f0d51d'
+srcHash: 'a8b711725be7'
 title: 'Elfreth''s Alley Museum: guía de viaje de Filadelfia (4.6★)'
-description: En el número 126 de Elfreth's Alley, en el barrio de Old City de Filadelfia, se encuentra el Elfreth's Alley Museum. Ocupa una casa de este estrecho callejón empedrado, considerado la calle residencial habitada sin interrupción más antigua de Estados Unidos. Con una valoración de 4.6★ (4,590 reseñas), aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
+description: En el número 126 de Elfreth's Alley, en el barrio de Old City de Filadelfia, se encuentra el Elfreth's Alley Museum. Ocupa una casa de este estrecho callejón empedrado, considerado la calle residencial habitada sin interrupción más antigua de Estados Unidos. Con una valoración de 4.6★ (4,608 reseñas), aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
 quickAnswer: En el número 126 de Elfreth's Alley, en el barrio de Old City de Filadelfia, se encuentra el Elfreth's Alley Museum. Ocupa una casa de este estrecho callejón empedrado, considerado la calle residencial habitada sin interrupción más antigua de Estados Unidos. Al tratarse de una vía pública, el callejón puede recorrerse cualquier día. La casa museo, en cambio, solo abre de viernes a domingo, de 12:00 a 4:00 PM, así que conviene organizar la visita en función de ese horario.
 faq:
   - q: ¿Qué días abre el Elfreth's Alley Museum?

@@ -1,44 +1,51 @@
 ---
-title: "Reading Terminal Market: Philadelphia Travel Guide (4.7★)"
-description: "Reading Terminal Market is a huge indoor food market at 1136 Arch Street in Center City Philadelphia, a block from City Hall and Chinatown, open daily 8am to 6pm. 4.7★ (46,302 reviews) — what visitors say, hours, and tips."
-country: "United States"
-region: "Philadelphia"
-category: "hidden-gem"
-pubDate: "2026-09-24T08:05:48.303Z"
+title: 'Reading Terminal Market: Philadelphia Travel Guide (4.7★)'
+description: >-
+  Reading Terminal Market is a huge indoor food market at 1136 Arch Street in
+  Center City Philadelphia, a block from City Hall and Chinatown, open daily 8am
+  to 6pm. 4.7★ (46,456 reviews) — what visitors say, hours, and tips.
+country: United States
+region: Philadelphia
+category: hidden-gem
+pubDate: '2026-09-24T08:05:48.303Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Reading_Terminal_Market_%2853587020195%29.jpg/1920px-Reading_Terminal_Market_%2853587020195%29.jpg"
-  credit: "Photo: ajay_suresh / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Reading_Terminal_Market_(53587020195).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Reading_Terminal_Market_%2853587020195%29.jpg/1920px-Reading_Terminal_Market_%2853587020195%29.jpg
+  credit: 'Photo: ajay_suresh / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Reading_Terminal_Market_(53587020195).jpg
   focus:
     x: 55
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/9/99/Reading_Terminal_Market.png"
-    credit: "Photo: Bruce Andersen / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Reading_Terminal_Market.png"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/9/99/Reading_Terminal_Market.png
+    credit: 'Photo: Bruce Andersen / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Reading_Terminal_Market.png'
 place:
-  id: "ChIJCQH7WCnGxokRAWsd3AfQj80"
-  name: "Reading Terminal Market"
-  address: "1136 Arch St, Philadelphia, PA 19107, USA"
+  id: ChIJCQH7WCnGxokRAWsd3AfQj80
+  name: Reading Terminal Market
+  address: '1136 Arch St, Philadelphia, PA 19107, USA'
   rating: 4.7
-  userRatingsTotal: 46302
-  googleMapsUrl: "https://maps.google.com/?cid=14812286431621114625&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 46456
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14812286431621114625&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 39.9531593
   lng: -75.15909839999999
-  phone: "+1 215-922-2317"
+  phone: +1 215-922-2317
   openingHours:
-    - "Monday: 8:00 AM – 6:00 PM"
-    - "Tuesday: 8:00 AM – 6:00 PM"
-    - "Wednesday: 8:00 AM – 6:00 PM"
-    - "Thursday: 8:00 AM – 6:00 PM"
-    - "Friday: 8:00 AM – 6:00 PM"
-    - "Saturday: 8:00 AM – 6:00 PM"
-    - "Sunday: 8:00 AM – 6:00 PM"
+    - 'Monday: 8:00 AM – 6:00 PM'
+    - 'Tuesday: 8:00 AM – 6:00 PM'
+    - 'Wednesday: 8:00 AM – 6:00 PM'
+    - 'Thursday: 8:00 AM – 6:00 PM'
+    - 'Friday: 8:00 AM – 6:00 PM'
+    - 'Saturday: 8:00 AM – 6:00 PM'
+    - 'Sunday: 8:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-09-24
+    updated: 2026-09-24T00:00:00.000Z
     weekdayQuiet:
       - 8
       - 9
@@ -54,24 +61,43 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_30386a5166413364735741526b6f78476e4357374851434a496843"
+    venueId: ven_30386a5166413364735741526b6f78476e4357374851434a496843
 tags:
-  - "philadelphia"
-  - "local market"
-quickAnswer: "Reading Terminal Market is a huge indoor food market at 1136 Arch Street in Center City Philadelphia, a block from City Hall and Chinatown, open daily 8am to 6pm. For the calmest visit, come 8am to 10am on weekdays or 8am to 11am on weekends. Avoid weekends from 11am until closing, when the aisles are packed."
+  - philadelphia
+  - local market
+quickAnswer: >-
+  Reading Terminal Market is a huge indoor food market at 1136 Arch Street in
+  Center City Philadelphia, a block from City Hall and Chinatown, open daily 8am
+  to 6pm. For the calmest visit, come 8am to 10am on weekdays or 8am to 11am on
+  weekends. Avoid weekends from 11am until closing, when the aisles are packed.
 faq:
-  - q: "When is the quietest time to visit Reading Terminal Market?"
-    a: "On weekdays it's quietest from 8am to 10am. On weekends it's quietest from 8am to 11am. The busiest time is weekends from 11am until the 6pm close."
-  - q: "What are the opening hours?"
-    a: "According to its current listing, the market is open every day from 8am to 6pm. Some Pennsylvania Dutch stalls work a shorter week, so check the official site if you're coming for one of them."
-  - q: "How do I get there by public transit?"
-    a: "Take SEPTA Regional Rail to Jefferson Station, which is directly below the market. Or take the Market-Frankford Line to 11th Street or 13th Street and walk two blocks north to Arch Street."
-  - q: "What should I eat on a first visit?"
-    a: "Split several things: a roast pork sandwich with broccoli rabe and sharp provolone from DiNic's, a soft pretzel from Miller's Twist, a doughnut from Beiler's and ice cream from Bassetts."
-  - q: "What is near Reading Terminal Market?"
-    a: "Chinatown is right across Arch Street, and City Hall is about three blocks west. Independence Hall and the Liberty Bell are roughly a ten-minute walk east."
+  - q: When is the quietest time to visit Reading Terminal Market?
+    a: >-
+      On weekdays it's quietest from 8am to 10am. On weekends it's quietest from
+      8am to 11am. The busiest time is weekends from 11am until the 6pm close.
+  - q: What are the opening hours?
+    a: >-
+      According to its current listing, the market is open every day from 8am to
+      6pm. Some Pennsylvania Dutch stalls work a shorter week, so check the
+      official site if you're coming for one of them.
+  - q: How do I get there by public transit?
+    a: >-
+      Take SEPTA Regional Rail to Jefferson Station, which is directly below the
+      market. Or take the Market-Frankford Line to 11th Street or 13th Street
+      and walk two blocks north to Arch Street.
+  - q: What should I eat on a first visit?
+    a: >-
+      Split several things: a roast pork sandwich with broccoli rabe and sharp
+      provolone from DiNic's, a soft pretzel from Miller's Twist, a doughnut
+      from Beiler's and ice cream from Bassetts.
+  - q: What is near Reading Terminal Market?
+    a: >-
+      Chinatown is right across Arch Street, and City Hall is about three blocks
+      west. Independence Hall and the Liberty Bell are roughly a ten-minute walk
+      east.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-30'
 ---
 ## Lunch under a railroad roof
 

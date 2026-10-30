@@ -1,60 +1,89 @@
 ---
-title: "The Victorian Market: Inverness Travel Guide (4.1★)"
-description: "The Victorian Market in Inverness is a covered 19th-century arcade on Academy Street, a two-minute walk from Inverness railway station, full of small independent shops and a food hall. 4.1★ (4,758 reviews) — what visitors say, hours, and tips."
-country: "United Kingdom"
-region: "Inverness"
-category: "hidden-gem"
-pubDate: "2026-10-30T08:12:36.463Z"
+title: 'The Victorian Market: Inverness Travel Guide (4.1★)'
+description: >-
+  The Victorian Market in Inverness is a covered 19th-century arcade on Academy
+  Street, a two-minute walk from Inverness railway station, full of small
+  independent shops and a food hall. 4.1★ (4,760 reviews) — what visitors say,
+  hours, and tips.
+country: United Kingdom
+region: Inverness
+category: hidden-gem
+pubDate: '2026-10-30T08:12:36.463Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Inverness_Victorian_Market_20211025.jpg/3840px-Inverness_Victorian_Market_20211025.jpg"
-  credit: "Photo: Daniel Kraft / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Inverness_Victorian_Market_20211025.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Inverness_Victorian_Market_20211025.jpg/3840px-Inverness_Victorian_Market_20211025.jpg
+  credit: 'Photo: Daniel Kraft / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Inverness_Victorian_Market_20211025.jpg
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Inverness-Victorian_Market-DSC_0087.JPG/3840px-Inverness-Victorian_Market-DSC_0087.JPG"
-    credit: "Photo: Vcarceler / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Inverness-Victorian_Market-DSC_0087.JPG"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Inverness-Victorian_Market-DSC_0087.JPG/3840px-Inverness-Victorian_Market-DSC_0087.JPG
+    credit: 'Photo: Vcarceler / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Inverness-Victorian_Market-DSC_0087.JPG
 place:
-  id: "ChIJO1XRDlVxj0gR4FZgbOqqVtc"
-  name: "The Victorian Market"
-  address: "Academy St, Inverness IV1 1JN, UK"
+  id: ChIJO1XRDlVxj0gR4FZgbOqqVtc
+  name: The Victorian Market
+  address: 'Academy St, Inverness IV1 1JN, UK'
   rating: 4.1
-  userRatingsTotal: 4758
-  googleMapsUrl: "https://maps.google.com/?cid=15516777489968944864&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 4760
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15516777489968944864&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 57.479202699999995
   lng: -4.2246646
-  phone: "+44 1463 710524"
+  phone: +44 1463 710524
   openingHours:
-    - "Monday: 8:00 AM – 6:00 PM"
-    - "Tuesday: 8:00 AM – 6:00 PM"
-    - "Wednesday: 8:00 AM – 6:00 PM"
-    - "Thursday: 8:00 AM – 8:00 PM"
-    - "Friday: 8:00 AM – 8:00 PM"
-    - "Saturday: 8:00 AM – 8:00 PM"
-    - "Sunday: 8:00 AM – 6:00 PM"
+    - 'Monday: 8:00 AM – 6:00 PM'
+    - 'Tuesday: 8:00 AM – 6:00 PM'
+    - 'Wednesday: 8:00 AM – 6:00 PM'
+    - 'Thursday: 8:00 AM – 8:00 PM'
+    - 'Friday: 8:00 AM – 8:00 PM'
+    - 'Saturday: 8:00 AM – 8:00 PM'
+    - 'Sunday: 8:00 AM – 6:00 PM'
 tags:
-  - "inverness"
-  - "local market"
-quickAnswer: "The Victorian Market in Inverness is a covered 19th-century arcade on Academy Street, a two-minute walk from Inverness railway station, full of small independent shops and a food hall. At the moment it opens from 8am every day, closing at 6pm Sunday to Wednesday and 8pm Thursday to Saturday. Give it 45 minutes to an hour, or longer if you're eating there."
+  - inverness
+  - local market
+quickAnswer: >-
+  The Victorian Market in Inverness is a covered 19th-century arcade on Academy
+  Street, a two-minute walk from Inverness railway station, full of small
+  independent shops and a food hall. At the moment it opens from 8am every day,
+  closing at 6pm Sunday to Wednesday and 8pm Thursday to Saturday. Give it 45
+  minutes to an hour, or longer if you're eating there.
 faq:
-  - q: "How do I get to the Victorian Market in Inverness?"
-    a: "It's on Academy Street, almost opposite Inverness railway station. The bus station on Margaret Street is a few minutes' walk away. Other entrances lead out to Union Street and Church Street."
-  - q: "What are the opening hours?"
-    a: "At the moment the building opens at 8am every day. It closes at 6pm Sunday to Wednesday and 8pm Thursday to Saturday. Individual shops may keep shorter hours, so check with them before you go."
-  - q: "How long should I spend there?"
-    a: "Around 45 minutes to an hour to browse the arcades. Allow longer if you're eating in the food hall."
-  - q: "Can I eat at the Victorian Market?"
-    a: "Yes. There are cafés in the arcades and a food hall with several street-food counters. You order and pay at the counter, then sit at the shared tables."
-  - q: "What is nearby?"
-    a: "Leakey's Bookshop is just off the Church Street side, and the Eastgate Shopping Centre is close by. The River Ness, Inverness Castle and Inverness Cathedral are all a short walk away."
+  - q: How do I get to the Victorian Market in Inverness?
+    a: >-
+      It's on Academy Street, almost opposite Inverness railway station. The bus
+      station on Margaret Street is a few minutes' walk away. Other entrances
+      lead out to Union Street and Church Street.
+  - q: What are the opening hours?
+    a: >-
+      At the moment the building opens at 8am every day. It closes at 6pm Sunday
+      to Wednesday and 8pm Thursday to Saturday. Individual shops may keep
+      shorter hours, so check with them before you go.
+  - q: How long should I spend there?
+    a: >-
+      Around 45 minutes to an hour to browse the arcades. Allow longer if you're
+      eating in the food hall.
+  - q: Can I eat at the Victorian Market?
+    a: >-
+      Yes. There are cafés in the arcades and a food hall with several
+      street-food counters. You order and pay at the counter, then sit at the
+      shared tables.
+  - q: What is nearby?
+    a: >-
+      Leakey's Bookshop is just off the Church Street side, and the Eastgate
+      Shopping Centre is close by. The River Ness, Inverness Castle and
+      Inverness Cathedral are all a short walk away.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-30'
 ---
 
 ## Under the iron and glass

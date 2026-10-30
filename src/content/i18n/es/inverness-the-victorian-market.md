@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: inverness-the-victorian-market
-srcHash: 'c81f7f1450c6'
+srcHash: '786c60261696'
 title: 'Victorian Market: guía de viaje de Inverness (4.1★)'
-description: 'En plena Academy Street, a dos minutos a pie de la estación de tren de Inverness, el Victorian Market es una galería cubierta del siglo XIX repleta de pequeñas tiendas independientes y con un mercado gastronómico. 4.1★ (4,758 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En plena Academy Street, a dos minutos a pie de la estación de tren de Inverness, el Victorian Market es una galería cubierta del siglo XIX repleta de pequeñas tiendas independientes y con un mercado gastronómico. 4.1★ (4,760 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En plena Academy Street, a dos minutos a pie de la estación de tren de Inverness, se encuentra el Victorian Market, una galería cubierta del siglo XIX repleta de pequeñas tiendas independientes y con un mercado gastronómico. Actualmente abre todos los días a partir de las 8am; cierra a las 6pm de domingo a miércoles y a las 8pm de jueves a sábado. Calcule entre 45 minutos y una hora de visita, o algo más si piensa comer allí.
 faq:
   - q: ¿Cómo se llega al Victorian Market de Inverness?

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: philadelphia-independence-hall
-srcHash: '53e77d7527aa'
+srcHash: '9396b6a9492d'
 title: 'Independence Hall: Guía de viaje de Filadelfia (4,7★)'
-description: 'Independence Hall, en el casco antiguo de Filadelfia (Old City), se encuentra en 520 Chestnut St, abre todos los días de 9 a 17 h y es la parada más visitada del recorrido del Independence National Historical Park. 4,7★ (8.179 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'Independence Hall, en el casco antiguo de Filadelfia (Old City), se encuentra en 520 Chestnut St, abre todos los días de 9 a 17 h y es la parada más visitada del recorrido del Independence National Historical Park. 4,7★ (8.325 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Independence Hall, en el casco antiguo de Filadelfia (Old City), se encuentra en 520 Chestnut St, abre todos los días de 9 a 17 h y es la parada más visitada del recorrido del Independence National Historical Park. La entrada es gratuita, pero requiere una entrada con horario asignado, así que el momento más tranquilo para ir es entre semana por la mañana o los fines de semana antes de las 11 h; conviene evitar el tramo de 11 a 16 h los fines de semana, cuando toda la plaza se satura. Una vez dentro, calcule entre 45 minutos y una hora para la visita guiada por un guardaparque a través de la Sala de la Asamblea (Assembly Room).
 faq:
   - q: ¿Hace falta entrada para visitar Independence Hall?

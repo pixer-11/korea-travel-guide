@@ -1,9 +1,9 @@
 ---
 lang: ko
 slug: philadelphia-philadelphia-museum-of-art
-srcHash: 'd1eb48d04893'
+srcHash: 'f2afa5b4ad5d'
 title: 필라델피아 미술관 여행 가이드 (4.8★)
-description: 필라델피아 미술관(Philadelphia Museum of Art)은 스쿨킬 강(Schuylkill River) 위쪽, 센터 시티(Center City) 서쪽 끝자락 2600 벤저민 프랭클린 파크웨이(2600 Benjamin Franklin Parkway)에 자리하고 있습니다. 4.8★(리뷰 23,592개) — 방문객들의 후기와 운영 시간, 관람 팁을 소개합니다.
+description: 필라델피아 미술관(Philadelphia Museum of Art)은 스쿨킬 강(Schuylkill River) 위쪽, 센터 시티(Center City) 서쪽 끝자락 2600 벤저민 프랭클린 파크웨이(2600 Benjamin Franklin Parkway)에 자리하고 있습니다. 4.8★(리뷰 23,706개) — 방문객들의 후기와 운영 시간, 관람 팁을 소개합니다.
 quickAnswer: 필라델피아 미술관은 스쿨킬 강 위쪽, 센터 시티 서쪽 끝자락 2600 벤저민 프랭클린 파크웨이에 자리하고 있습니다. 화요일과 수요일은 휴관이며, 금요일은 오후 8시 45분까지 문을 열어 가장 한산하고 조명도 좋은 시간대에 관람할 수 있습니다. 반면 주말에는 오전 10시부터 오후 5시까지 하루 종일 붐비므로, 금요일 저녁이나 월·목요일 오전 방문을 추천합니다. 상설 전시만 보더라도 두세 시간은 잡아야 하며, 록키 계단까지 제대로 즐기려면 시간을 더 넉넉히 잡는 것이 좋습니다.
 faq:
   - q: 필라델피아 미술관의 운영 시간은 어떻게 되나요?

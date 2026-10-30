@@ -1,60 +1,85 @@
 ---
-title: "The Cardiff Market: Travel Guide (4.5★)"
-description: "The Cardiff Market is the covered Victorian market in Cardiff city centre, running between St Mary Street and Trinity Street, about a five-minute walk from Cardiff Castle. 4.5★ (6,677 reviews) — what visitors say, hours, and tips."
-country: "United Kingdom"
-region: "Cardiff"
-category: "hidden-gem"
-pubDate: "2026-10-30T08:12:40.556Z"
+title: 'The Cardiff Market: Travel Guide (4.5★)'
+description: >-
+  The Cardiff Market is the covered Victorian market in Cardiff city centre,
+  running between St Mary Street and Trinity Street, about a five-minute walk
+  from Cardiff Castle. 4.5★ (6,678 reviews) — what visitors say, hours, and
+  tips.
+country: United Kingdom
+region: Cardiff
+category: hidden-gem
+pubDate: '2026-10-30T08:12:40.556Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/2/21/Cardiff_Market_4.jpg"
-  credit: "Photo: Tiia Monto / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Cardiff_Market_4.jpg"
-  via: "act"
+  url: 'https://upload.wikimedia.org/wikipedia/commons/2/21/Cardiff_Market_4.jpg'
+  credit: 'Photo: Tiia Monto / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Cardiff_Market_4.jpg'
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Cardiff_Market_%2851535656679%29.jpg/3840px-Cardiff_Market_%2851535656679%29.jpg"
-    credit: "Photo: Daniel from Glasgow, United Kingdom / Wikimedia Commons (CC BY 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Cardiff_Market_(51535656679).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Cardiff_Market_%2851535656679%29.jpg/3840px-Cardiff_Market_%2851535656679%29.jpg
+    credit: 'Photo: Daniel from Glasgow, United Kingdom / Wikimedia Commons (CC BY 2.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Cardiff_Market_(51535656679).jpg'
 place:
-  id: "ChIJ2TVDyWMdbkgRcn33KRLvgWM"
-  name: "The Cardiff Market"
-  address: "Cardiff CF10 1AU, UK"
+  id: ChIJ2TVDyWMdbkgRcn33KRLvgWM
+  name: The Cardiff Market
+  address: 'Cardiff CF10 1AU, UK'
   rating: 4.5
-  userRatingsTotal: 6677
-  googleMapsUrl: "https://maps.google.com/?cid=7170274943043075442&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 6678
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=7170274943043075442&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 51.480145799999995
   lng: -3.178665
-  phone: "+44 29 2087 1214"
+  phone: +44 29 2087 1214
   openingHours:
-    - "Monday: 8:00 AM – 5:00 PM"
-    - "Tuesday: 8:00 AM – 5:00 PM"
-    - "Wednesday: 8:00 AM – 5:00 PM"
-    - "Thursday: 8:00 AM – 5:00 PM"
-    - "Friday: 8:00 AM – 5:00 PM"
-    - "Saturday: 8:00 AM – 5:00 PM"
-    - "Sunday: Closed"
+    - 'Monday: 8:00 AM – 5:00 PM'
+    - 'Tuesday: 8:00 AM – 5:00 PM'
+    - 'Wednesday: 8:00 AM – 5:00 PM'
+    - 'Thursday: 8:00 AM – 5:00 PM'
+    - 'Friday: 8:00 AM – 5:00 PM'
+    - 'Saturday: 8:00 AM – 5:00 PM'
+    - 'Sunday: Closed'
 tags:
-  - "cardiff"
-  - "local market"
-quickAnswer: "The Cardiff Market is the covered Victorian market in Cardiff city centre, running between St Mary Street and Trinity Street, about a five-minute walk from Cardiff Castle. It currently opens Monday to Saturday from 8am to 5pm and is closed on Sundays. Plan on 45 minutes to an hour, and come hungry, because the food stalls are the main reason people go."
+  - cardiff
+  - local market
+quickAnswer: >-
+  The Cardiff Market is the covered Victorian market in Cardiff city centre,
+  running between St Mary Street and Trinity Street, about a five-minute walk
+  from Cardiff Castle. It currently opens Monday to Saturday from 8am to 5pm and
+  is closed on Sundays. Plan on 45 minutes to an hour, and come hungry, because
+  the food stalls are the main reason people go.
 faq:
-  - q: "What are the Cardiff Market opening hours?"
-    a: "At the moment it opens 8am to 5pm Monday to Saturday and is closed on Sundays. Check the official listing around bank holidays, and arrive well before 5pm, as some stalls pack up early."
-  - q: "How do I get to Cardiff Market from the train station?"
-    a: "Cardiff Central station is roughly a ten-minute walk away and Queen Street station is a similar distance. You can enter from St Mary Street or from Trinity Street, opposite St John the Baptist Church."
-  - q: "How long should I spend at Cardiff Market?"
-    a: "Allow 45 minutes to an hour to walk both floors and eat something. Stay longer if you want a proper sit-down lunch at one of the food counters."
-  - q: "What should I eat at Cardiff Market?"
-    a: "Try fresh Welsh cakes from the griddle. Cockles and laverbread are traditional South Wales seafood you'll find at the fish stalls, and the hot food counters cover lunch."
-  - q: "What is near Cardiff Market?"
-    a: "Cardiff Castle is about five minutes north, the Castle, Morgan and Royal Arcades are close by, and Principality Stadium is a short walk west."
+  - q: What are the Cardiff Market opening hours?
+    a: >-
+      At the moment it opens 8am to 5pm Monday to Saturday and is closed on
+      Sundays. Check the official listing around bank holidays, and arrive well
+      before 5pm, as some stalls pack up early.
+  - q: How do I get to Cardiff Market from the train station?
+    a: >-
+      Cardiff Central station is roughly a ten-minute walk away and Queen Street
+      station is a similar distance. You can enter from St Mary Street or from
+      Trinity Street, opposite St John the Baptist Church.
+  - q: How long should I spend at Cardiff Market?
+    a: >-
+      Allow 45 minutes to an hour to walk both floors and eat something. Stay
+      longer if you want a proper sit-down lunch at one of the food counters.
+  - q: What should I eat at Cardiff Market?
+    a: >-
+      Try fresh Welsh cakes from the griddle. Cockles and laverbread are
+      traditional South Wales seafood you'll find at the fish stalls, and the
+      hot food counters cover lunch.
+  - q: What is near Cardiff Market?
+    a: >-
+      Cardiff Castle is about five minutes north, the Castle, Morgan and Royal
+      Arcades are close by, and Principality Stadium is a short walk west.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-30'
 ---
 
 ## Under the Iron and Glass

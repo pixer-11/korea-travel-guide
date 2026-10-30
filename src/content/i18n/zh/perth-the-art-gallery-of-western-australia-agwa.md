@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: perth-the-art-gallery-of-western-australia-agwa
-srcHash: '49627c5ffbd3'
+srcHash: 'd186db28bf60'
 title: 西澳大利亚美术馆（AGWA）：珀斯旅行指南
-description: 西澳大利亚美术馆（AGWA）坐落在珀斯文化中心靠北桥一侧，从珀斯站步行几分钟即到，每天10am–5pm开放。4.4★（2,986条评价），这里汇总了游客评价、开放时间和参观建议。
+description: 西澳大利亚美术馆（AGWA）坐落在珀斯文化中心靠北桥一侧，从珀斯站步行几分钟即到，每天10am–5pm开放。4.4★（3,012条评价），这里汇总了游客评价、开放时间和参观建议。
 quickAnswer: 西澳大利亚美术馆（Art Gallery of Western Australia，简称AGWA）坐落在珀斯文化中心（Perth Cultural Centre）靠北桥（Northbridge）一侧，从珀斯站（Perth Station）步行几分钟即到，每天10am–5pm开放。周末从10am到5pm一直人多，想在清静的展厅里看展，最好挑工作日去。参观时间预留两到三个小时，最后一站别忘了去屋顶露台。
 faq:
   - q: 什么时候去AGWA人最少？

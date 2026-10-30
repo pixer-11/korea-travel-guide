@@ -1,45 +1,51 @@
 ---
-title: "The Art Gallery of Western Australia | AGWA: Perth Travel Guide"
-description: "The Art Gallery of Western Australia | AGWA sits in the Perth Cultural Centre in Perth, Northbridge side, a short walk from Perth Station, and opens daily from 10am to 5pm. 4.4★ (2,986 reviews) — what visitors say, hours, and tips."
-country: "Australia"
-region: "Perth"
-category: "attraction"
-pubDate: "2026-09-30T14:15:39.504Z"
+title: 'The Art Gallery of Western Australia | AGWA: Perth Travel Guide'
+description: >-
+  The Art Gallery of Western Australia | AGWA sits in the Perth Cultural Centre
+  in Perth, Northbridge side, a short walk from Perth Station, and opens daily
+  from 10am to 5pm. 4.4★ (3,012 reviews) — what visitors say, hours, and tips.
+country: Australia
+region: Perth
+category: attraction
+pubDate: '2026-09-30T14:15:39.504Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Converted_courtroom_in_the_Art_Gallery_of_Western_Australia_June_2018.jpg/3840px-Converted_courtroom_in_the_Art_Gallery_of_Western_Australia_June_2018.jpg"
-  credit: "Photo: Nick-D / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Converted_courtroom_in_the_Art_Gallery_of_Western_Australia_June_2018.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Converted_courtroom_in_the_Art_Gallery_of_Western_Australia_June_2018.jpg/3840px-Converted_courtroom_in_the_Art_Gallery_of_Western_Australia_June_2018.jpg
+  credit: 'Photo: Nick-D / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Converted_courtroom_in_the_Art_Gallery_of_Western_Australia_June_2018.jpg
+  via: act
   focus:
     x: 45
-    y: 35
+    'y': 35
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/c/c0/Art_Gallery_of_WA.jpg"
-    credit: "Photo: The Logical Positivist / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Art_Gallery_of_WA.jpg"
+  - url: 'https://upload.wikimedia.org/wikipedia/commons/c/c0/Art_Gallery_of_WA.jpg'
+    credit: 'Photo: The Logical Positivist / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Art_Gallery_of_WA.jpg'
 place:
-  id: "ChIJCWBB0da6MioR1-_4O8oDPxY"
-  name: "The Art Gallery of Western Australia | AGWA"
-  address: "Perth Cultural Centre, Perth WA 6000, Australia"
+  id: ChIJCWBB0da6MioR1-_4O8oDPxY
+  name: The Art Gallery of Western Australia | AGWA
+  address: 'Perth Cultural Centre, Perth WA 6000, Australia'
   rating: 4.4
-  userRatingsTotal: 2986
-  googleMapsUrl: "https://maps.google.com/?cid=1603004159491633111&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 3012
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1603004159491633111&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -31.950530999999998
   lng: 115.8608374
-  phone: "+61 8 9492 6601"
+  phone: +61 8 9492 6601
   openingHours:
-    - "Monday: 10:00 AM – 5:00 PM"
-    - "Tuesday: 10:00 AM – 5:00 PM"
-    - "Wednesday: 10:00 AM – 5:00 PM"
-    - "Thursday: 10:00 AM – 5:00 PM"
-    - "Friday: 10:00 AM – 5:00 PM"
-    - "Saturday: 10:00 AM – 5:00 PM"
-    - "Sunday: 10:00 AM – 5:00 PM"
+    - 'Monday: 10:00 AM – 5:00 PM'
+    - 'Tuesday: 10:00 AM – 5:00 PM'
+    - 'Wednesday: 10:00 AM – 5:00 PM'
+    - 'Thursday: 10:00 AM – 5:00 PM'
+    - 'Friday: 10:00 AM – 5:00 PM'
+    - 'Saturday: 10:00 AM – 5:00 PM'
+    - 'Sunday: 10:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-09-30
+    updated: 2026-09-30T00:00:00.000Z
     weekdayBusy:
       - 11
       - 12
@@ -53,24 +59,40 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_597850446f384f345f2d31526f694d36616430424257434a496843"
+    venueId: ven_597850446f384f345f2d31526f694d36616430424257434a496843
 tags:
-  - "perth"
-  - "museum"
-quickAnswer: "The Art Gallery of Western Australia | AGWA sits in the Perth Cultural Centre in Perth, Northbridge side, a short walk from Perth Station, and opens daily from 10am to 5pm. Weekends are busy for the whole 10am–5pm opening, so a weekday visit gets you quieter rooms. Allow two to three hours, and finish on the rooftop."
+  - perth
+  - museum
+quickAnswer: >-
+  The Art Gallery of Western Australia | AGWA sits in the Perth Cultural Centre
+  in Perth, Northbridge side, a short walk from Perth Station, and opens daily
+  from 10am to 5pm. Weekends are busy for the whole 10am–5pm opening, so a
+  weekday visit gets you quieter rooms. Allow two to three hours, and finish on
+  the rooftop.
 faq:
-  - q: "When is the quietest time to visit AGWA?"
-    a: "Weekends are busy for the full 10am–5pm opening, so aim for a weekday. The gallery keeps the same 10am–5pm hours all seven days."
-  - q: "How do I get to the Art Gallery of Western Australia?"
-    a: "Take the train to Perth Station and walk north a few minutes into the Perth Cultural Centre. Perth Underground and the Perth Busport are also nearby."
-  - q: "How long should I spend at AGWA?"
-    a: "Plan on two to three hours for the permanent collection, one exhibition and the rooftop. Arrive by 2pm, because doors close at 5pm."
-  - q: "Is it open on Mondays?"
-    a: "Yes. AGWA opens 10am–5pm every day, Monday included."
-  - q: "What else is nearby?"
-    a: "WA Museum Boola Bardip and the State Library of Western Australia share the Cultural Centre plaza. Northbridge's restaurants and bars are a short walk north."
+  - q: When is the quietest time to visit AGWA?
+    a: >-
+      Weekends are busy for the full 10am–5pm opening, so aim for a weekday. The
+      gallery keeps the same 10am–5pm hours all seven days.
+  - q: How do I get to the Art Gallery of Western Australia?
+    a: >-
+      Take the train to Perth Station and walk north a few minutes into the
+      Perth Cultural Centre. Perth Underground and the Perth Busport are also
+      nearby.
+  - q: How long should I spend at AGWA?
+    a: >-
+      Plan on two to three hours for the permanent collection, one exhibition
+      and the rooftop. Arrive by 2pm, because doors close at 5pm.
+  - q: Is it open on Mondays?
+    a: 'Yes. AGWA opens 10am–5pm every day, Monday included.'
+  - q: What else is nearby?
+    a: >-
+      WA Museum Boola Bardip and the State Library of Western Australia share
+      the Cultural Centre plaza. Northbridge's restaurants and bars are a short
+      walk north.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-30'
 ---
 
 ## Concrete, glass and a plaza

@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: cambridge-cambridge-university-botanic-garden
-srcHash: 'bd883b21b033'
+srcHash: '19455d3fffcb'
 title: 剑桥大学植物园旅行指南（4.7★）
-description: 剑桥大学植物园位于剑桥南部的布鲁克赛德（Brookside），占地40英亩，评分4.7★（7,744条评价）。本文汇总游客评价、开放时间与游览建议。
+description: 剑桥大学植物园位于剑桥南部的布鲁克赛德（Brookside），占地40英亩，评分4.7★（7,745条评价）。本文汇总游客评价、开放时间与游览建议。
 quickAnswer: 剑桥大学植物园坐落在剑桥南部的布鲁克赛德（Brookside），占地40英亩。从剑桥火车站步行过去约10–15分钟。园内有温室、湖泊和咖啡馆。目前开放时间为上午10点至下午5点。工作日上午10点到11点游客最少，周末上午11点到下午5点人最多，最好避开。
 faq:
   - q: 什么时候去剑桥大学植物园人最少？
