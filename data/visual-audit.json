@@ -3977,9 +3977,9 @@
  },
  "belek-ironman-70-3-turkey\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/IRONMAN_70.3_Hradec_Kralove_2024_4_c%C3%ADlov%C3%A1_rovinka.jpg/1920px-IRONMAN_70.3_Hradec_Kralove_2024_4_c%C3%ADlov%C3%A1_rovinka.jpg": {
   "slug": "belek-ironman-70-3-turkey",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Ironman 70.3 event crowd and timer display visible",
-  "at": "2026-10-29T23:32:50.002Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"ironman\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-30T08:31:02.942Z"
  },
  "belfast-black-sheep-coffee\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Black_Sheep_Coffee_Bishopsgate.jpg/1920px-Black_Sheep_Coffee_Bishopsgate.jpg": {
   "slug": "belfast-black-sheep-coffee",
@@ -5690,9 +5690,9 @@
  },
  "calgary-113th-grey-cup\u0001https://upload.wikimedia.org/wikipedia/commons/0/0d/Grey_Cup%21_07122006.jpg": {
   "slug": "calgary-113th-grey-cup",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Grey Cup trophy, appropriate for Calgary event guide",
-  "at": "2026-10-29T23:34:53.424Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"grey\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-30T08:31:03.070Z"
  },
  "calgary-113th-grey-cup\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/111th_Grey_Cup%2C_Trophy.jpg/3840px-111th_Grey_Cup%2C_Trophy.jpg": {
   "slug": "calgary-113th-grey-cup",
@@ -10522,9 +10522,9 @@
  },
  "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/c/cf/TOTAL_BWF_World_Champs_2015_Day_2_Osleni_Guerrero.jpg": {
   "slug": "hangzhou-bwf-world-tour-finals",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Badminton player at event venue with branding",
-  "at": "2026-10-29T23:36:29.415Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares no word with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-30T08:31:03.207Z"
  },
  "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/f/f6/2018_BWF_World_Championships.jpg": {
   "slug": "hangzhou-bwf-world-tour-finals",
@@ -17345,9 +17345,9 @@
  },
  "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Doubles_at_the_ATP_Finals_%2849070108528%29.jpg/3840px-Doubles_at_the_ATP_Finals_%2849070108528%29.jpg": {
   "slug": "london-atp-finals",
-  "verdict": "MATCH",
-  "reason": "patrol replace: ATP Finals tennis match, professional venue setting",
-  "at": "2026-10-29T23:39:27.658Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"finals\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-30T08:31:03.381Z"
  },
  "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Cincinnati-Tennis-2015-ATP-WTA-98_%2820232731523%29.jpg/3840px-Cincinnati-Tennis-2015-ATP-WTA-98_%2820232731523%29.jpg": {
   "slug": "london-atp-finals",
@@ -21900,9 +21900,9 @@
  },
  "new-york-nba-christmas-day-games\u0001https://upload.wikimedia.org/wikipedia/commons/1/16/Partido_NBA_-i---i-_%2831445390924%29.jpg": {
   "slug": "new-york-nba-christmas-day-games",
-  "verdict": "MATCH",
-  "reason": "patrol replace: NBA game at indoor arena, Ciudad de México visible",
-  "at": "2026-10-29T23:40:06.761Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares no word with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-30T08:31:03.512Z"
  },
  "new-york-nba-christmas-day-games\u0001https://upload.wikimedia.org/wikipedia/commons/c/ce/Jalen_Williams_OKCThunder_2025_NBA_Cup.jpg": {
   "slug": "new-york-nba-christmas-day-games",
@@ -32023,9 +32023,9 @@
  },
  "tbilisi-tbilisi-christmas-market-new-year-village\u0001https://upload.wikimedia.org/wikipedia/commons/3/35/Christmas_Lights_at_Orbeliani_Palace.jpg": {
   "slug": "tbilisi-tbilisi-christmas-market-new-year-village",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Festive Christmas lights, trees, elegant architecture",
-  "at": "2026-10-29T23:44:31.374Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"christmas\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-30T08:31:03.643Z"
  },
  "tbilisi-tbilisi-christmas-market-new-year-village\u0001https://upload.wikimedia.org/wikipedia/commons/5/56/Orbeliani_Palace_Christmas_Decorations.jpg": {
   "slug": "tbilisi-tbilisi-christmas-market-new-year-village",
