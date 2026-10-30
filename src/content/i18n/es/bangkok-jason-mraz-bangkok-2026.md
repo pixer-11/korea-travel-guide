@@ -1,56 +1,56 @@
 ---
 lang: es
 slug: bangkok-jason-mraz-bangkok-2026
-srcHash: '6452cc01c308'
-title: 'Jason Mraz en Bangkok 2026: fechas, entradas y recinto (Bangkok)'
-description: Según lo anunciado, Jason Mraz actuará con banda completa el 29 de octubre de 2026 en el BITEC Live, en el barrio de Bang Na (Bangkok).
-quickAnswer: Según lo anunciado, Jason Mraz actuará con banda completa el 29 de octubre de 2026 en el BITEC Live, situado en Bang Na (Bangkok). Será su quinta visita a la ciudad y forma parte de su primera gira asiática en siete años. Antes de ir, confirme el horario y las entradas en la web oficial. Para llegar, el BTS hasta la estación de Bang Na es mejor opción que el taxi.
+srcHash: 'eb800db5b964'
+title: 'Jason Mraz en Bangkok 2026: fecha, entradas y recinto'
+description: El concierto de Jason Mraz en Bangkok, con banda completa, tenía fecha anunciada el 29 de octubre de 2026 en el BITEC Live de Bang Na.
+quickAnswer: La fecha anunciada para el concierto de Jason Mraz en Bangkok era el jueves 29 de octubre de 2026, en el BITEC Live del barrio de Bang Na, y el músico iba a actuar con banda completa. Según el anuncio, se trataba de su quinta visita a la ciudad y formaba parte de su primera gira asiática en siete años. Al BITEC se llega por la línea Sukhumvit del BTS, en la estación de Bang Na, una opción más rápida que el taxi.
 faq:
-  - q: ¿Cuándo y dónde actúa Jason Mraz en Bangkok en 2026?
-    a: Según lo anunciado, el concierto será el jueves 29 de octubre de 2026 en el BITEC Live, en Bang Na (Bangkok). Confirme el horario y las entradas en la web oficial.
+  - q: ¿Cuándo y dónde tocaba Jason Mraz en Bangkok en 2026?
+    a: La fecha anunciada era el jueves 29 de octubre de 2026, en el BITEC Live de Bang Na, en Bangkok.
   - q: ¿Cómo se llega al BITEC Live?
-    a: Tome la línea Sukhumvit del BTS hasta la estación de Bang Na (E14), que está unida al complejo BITEC por una pasarela cubierta. Un jueves por la tarde conviene descartar el taxi, porque el tráfico en Sukhumvit y en Bang Na-Trat Road es muy denso.
-  - q: ¿Se trata de un concierto acústico en solitario?
-    a: No. Se ha anunciado como un concierto con banda completa. Forma parte de su primera gira asiática en siete años y será su quinta visita a Bangkok.
-  - q: ¿Dónde conviene comprar las entradas?
-    a: Cómprelas únicamente en la web oficial o a través del distribuidor de entradas que indique el organizador. Compruebe si van vinculadas a su documento de identidad y no recurra a revendedores en redes sociales.
-  - q: ¿Cómo vuelvo al hotel después del concierto?
-    a: Regrese en el BTS desde Bang Na. Si recarga antes la tarjeta Rabbit, evitará la cola de las máquinas expendedoras. Otra opción es esperar un poco antes de ir a la estación para que se disperse el gentío.
+    a: Al BITEC Live da servicio la estación de Bang Na (E14), en la línea Sukhumvit del BTS. Una pasarela cubierta une la estación con el complejo BITEC. Los jueves por la tarde el taxi resulta lento, porque el tráfico en Sukhumvit y en la avenida Bang Na-Trat es muy denso.
+  - q: ¿Era un concierto acústico en solitario?
+    a: No. Se anunció con banda completa, dentro de su primera gira asiática en siete años y como su quinta visita a Bangkok.
+  - q: ¿Dónde se compraban las entradas?
+    a: Las entradas se vendían en la web oficial y a través de la plataforma asociada al organizador. Muchas plataformas tailandesas vinculan la entrada al documento de identidad del titular, y en los grandes conciertos de Bangkok las entradas electrónicas falsas suelen aparecer en la reventa de las redes sociales.
+  - q: ¿Cómo se volvía al hotel después del concierto?
+    a: Lo habitual para regresar al centro era el BTS desde Bang Na. Tras un gran concierto, la cola ante las máquinas expendedoras es larga, por lo que una tarjeta Rabbit con saldo ahorraba tiempo, y esperar un poco permitía que la multitud se dispersara.
 ---
 
-## Una quinta noche en Bangkok, esta vez con banda
+## Quinta noche en Bangkok, esta vez con banda
 
-Jason Mraz vuelve a Bangkok el jueves 29 de octubre de 2026 en el BITEC Live y, en lugar de un repertorio sencillo en solitario, llegará acompañado de una banda completa. Además, es su primera gira por Asia en siete años, así que los seguidores tailandeses llevan mucho tiempo esperando esta fecha.
+Jason Mraz tenía anunciado su regreso a Bangkok para el jueves 29 de octubre de 2026, en el BITEC Live. En lugar de un formato acústico en solitario, el concierto contaba con banda completa. Al tratarse de su primera gira por Asia en siete años, los seguidores tailandeses llevaban mucho tiempo esperando esta cita.
 
-El público se sabe las letras de memoria. Hace años que «I'm Yours», «Lucky» e «I Won't Give Up» suenan sin parar en las radios y cafeterías de Tailandia. Esta guía no publica ningún repertorio, de modo que ninguna canción está garantizada: simplemente cabe esperarlas.
+El cantante tiene en Tailandia un público muy fiel. Desde hace años, «I'm Yours», «Lucky» e «I Won't Give Up» suenan sin parar en las radios y cafeterías del país. No se dio a conocer el repertorio.
 
 ## Cómo llegar al BITEC, en Bang Na
 
-El recinto forma parte del complejo ferial BITEC y se encuentra en Bang Na-Trat Road, al sureste de la zona céntrica de Sukhumvit. La forma más sencilla de llegar es tomar la línea Sukhumvit del BTS hasta la **estación de Bang Na (E14)**. Desde allí, una pasarela elevada y cubierta lleva directamente al complejo BITEC sin necesidad de pisar la calle.
+El recinto forma parte del complejo de exposiciones BITEC, situado en la avenida Bang Na-Trat, al sureste del centro de Sukhumvit. La forma más sencilla de llegar es tomar la línea Sukhumvit del BTS hasta la **estación de Bang Na (E14)**. Desde allí, una pasarela elevada y cubierta desemboca directamente en el complejo, sin necesidad de pisar la calle.
 
-En Bangkok, un jueves por la tarde coincide con la hora punta en Sukhumvit. Las vías cercanas a Bang Na se colapsan hasta tal punto que un coche puede tardar una hora en un trayecto que el tren cubre en pocos minutos. Por otra parte, a finales de octubre aún coletea la estación de lluvias, otra buena razón para usar la pasarela en vez de hacer cola fuera esperando un vehículo.
+Los jueves por la tarde, Sukhumvit vive su hora punta. Las calles de los alrededores de Bang Na se colapsan, y un trayecto que el tren cubre en pocos minutos puede llevar una hora en coche. Además, a finales de octubre aún coletea la temporada de lluvias: la pasarela cubierta protege del agua, cosa que no ocurre en las colas de taxis y vehículos con conductor.
 
 Referencias útiles:
 - **Desde Siam:** línea Sukhumvit del BTS en dirección a Kheha, con bajada en Bang Na
-- **Desde Asok/Sukhumvit (correspondencia con el MRT):** la misma línea y la misma dirección
-- **Al terminar el concierto:** BTS desde Bang Na o, cuando se haya dispersado la multitud, un paseo hasta Bang Na-Trat Road para pedir un vehículo por aplicación
+- **Desde Asok/Sukhumvit (correspondencia con el MRT):** la misma línea y en la misma dirección
+- **Después del concierto:** BTS desde Bang Na o, cuando la multitud se disipa, un paseo hasta la avenida Bang Na-Trat para pedir un vehículo por aplicación
 
-## Entradas e información oficial
+## Entradas y canales oficiales
 
-Confirme el horario y las entradas en la web oficial y en la del distribuidor que indique el organizador, y compre solo por esos canales. En los grandes conciertos de Bangkok, las entradas electrónicas falsas suelen aparecer en anuncios de reventa publicados en redes sociales.
+Las entradas se vendían en la web oficial y a través de la plataforma asociada al organizador. En los grandes conciertos de Bangkok, las entradas electrónicas falsas suelen aparecer en los anuncios de reventa de las redes sociales.
 
-Esta guía no indica precios. Consulte el plano de localidades y las distintas categorías en la página oficial de venta, donde están publicados. Antes de comprar, averigüe si el vendedor exige que el nombre del titular coincida con el del pasaporte o el documento de identidad. Muchas plataformas tailandesas lo hacen, y la transferencia de entradas puede estar limitada.
+Muchas plataformas tailandesas exigen que el nombre del titular coincida con el de su pasaporte o documento de identidad, y no siempre permiten transferir la entrada.
 
-## Cómo disfrutar como es debido de un concierto en Bangkok
+## Una noche de concierto en Bangkok como es debido
 
-El público tailandés llega pronto a los conciertos y hace cola de forma ordenada. En la entrada se registran los bolsos de manera habitual, por lo que con uno pequeño pasará más rápido. Lo mejor es dejar en el hotel cualquier cosa voluminosa.
+El público tailandés suele llegar con antelación y hace cola de forma ordenada. En la puerta se revisan los bolsos de manera rutinaria, de modo que con un bolso pequeño se entra antes que con uno voluminoso.
 
-Algunas costumbres prácticas que ahorran tiempo:
-- **Recargue la tarjeta Rabbit** antes del concierto. A la salida, la cola de las máquinas expendedoras de Bang Na es lo más lento de la noche.
-- **Lleve encima su documento de identidad** si la entrada es nominativa. Es posible que el personal se lo pida al acceder.
-- **Pague con código QR.** La mayoría de los comerciantes tailandeses aceptan PromptPay, y las aplicaciones bancarias de muchos visitantes pueden escanearlo. Lleve también algunos bahts para los puestos que no lo acepten.
-- **Coma antes de ir.** En Bang Na hay centros comerciales cerca de la línea del BTS, y comer allí es mejor que hacer cola en los puestos del recinto.
+Algunas costumbres que ahorran tiempo en los conciertos de Bangkok:
+- **Una tarjeta Rabbit con saldo** resulta de gran ayuda. Al terminar el concierto, la cola ante las máquinas expendedoras de Bang Na suele ser lo más lento de la noche.
+- **El documento de identidad cuenta** cuando la entrada es nominativa. El personal puede pedirlo en el acceso.
+- **El pago con código QR está muy extendido.** La mayoría de los vendedores tailandeses aceptan PromptPay, y muchas aplicaciones bancarias de los visitantes pueden leerlo. Algunos puestos, sin embargo, solo aceptan bahts.
+- **Cenar antes es más cómodo.** En Bang Na hay centros comerciales cerca de la línea del BTS, y comer allí es mejor que hacer cola en los puestos del recinto.
 
-Lo normal es cantar a coro, a menudo en un inglés sonoro y seguro, y los móviles se alzan en los grandes estribillos. Importa más la cortesía que hacerse sitio: un discreto «khor thot» (perdón) basta para abrirse paso entre la gente.
+Es habitual que el público cante, a menudo en un inglés sonoro y seguro. En los grandes estribillos, los móviles se alzan. La cortesía pesa más que ganar sitio: un discreto «khor thot» (perdón) basta para abrirse paso entre la gente.
 
-La salida es la segunda avalancha, ya que miles de personas se dirigen a una misma estación. Por eso, algunos asistentes esperan 20 minutos en las zonas de restauración del BITEC o en las pasarelas del complejo y después vuelven al centro en un tren más tranquilo.
+La salida suele ser el segundo momento de aglomeración. Miles de personas se dirigen a una única estación, así que algunos asistentes esperan unos 20 minutos en los patios de comidas del BITEC o en las pasarelas del complejo, y después vuelven al centro en un tren más tranquilo.
