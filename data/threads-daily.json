@@ -100,27 +100,28 @@
     "taipei-cks-shilin-residence-chrysanthemum-festival",
     "auckland-christmas-in-the-park-auckland",
     "los-angeles-triples-world-tour-andless-los-angeles",
-    "lima-martin-garrix-lima-2026"
+    "lima-martin-garrix-lima-2026",
+    "vancouver-triples-world-tour-andless-vancouver"
   ],
-  "lastSentDay": "2026-10-30",
+  "lastSentDay": "2026-10-31",
   "material": {
-    "day": "2026-10-30",
-    "slug": "lima-martin-garrix-lima-2026",
-    "title": "Martin Garrix Lima 2026: Dates, Tickets & Venue (Lima)",
+    "day": "2026-10-31",
+    "slug": "vancouver-triples-world-tour-andless-vancouver",
+    "title": "tripleS World Tour ANDLESS - Vancouver: Dates, Tickets & Venue (Vancouver)",
     "urls": [
-      "https://wanderatlasguides.com/og/social/2026-10-30-lima-martin-garrix-lima-2026-1.jpg",
-      "https://wanderatlasguides.com/og/social/2026-10-30-lima-martin-garrix-lima-2026-2.jpg"
+      "https://wanderatlasguides.com/og/social/2026-10-31-vancouver-triples-world-tour-andless-vancouver-1.jpg",
+      "https://wanderatlasguides.com/og/social/2026-10-31-vancouver-triples-world-tour-andless-vancouver-2.jpg"
     ],
-    "igCaption": "Martin Garrix Lima 2026: Dates, Tickets & Venue (Lima) — Lima, Peru\n📷 Photo: Visualbass Photography / Wikimedia Commons (CC BY-SA 2.0) (edited)",
-    "thOption": "A Monday night, a stadium next door, and a holiday waiting",
-    "link": "https://wanderatlasguides.com/posts/lima-martin-garrix-lima-2026/"
+    "igCaption": "tripleS brings their ANDLESS World Tour to The Centre in Vancouver on November 26, 2026 — a steep-tiered 1995 theatre designed by Moshe Safdie, right across from the library he also built. Expect lightsticks lighting up the room, fan chants by the second chorus, and WAV fans trading photocards on the plaza before doors.\n\n#Vancouver #Canada #events #travel #wanderatlas #KpopTravel #tripleS #ANDLESSTour #TravelG\n📷 Photo: David Lee / Wikimedia Commons (CC BY 4.0) (edited)",
+    "thOption": "WAV fans trade fan-made photocards and stickers on the library plaza before doors even open. Would you bring your own to swap with strangers before a show?",
+    "link": "https://wanderatlasguides.com/posts/vancouver-triples-world-tour-andless-vancouver/"
   },
   "social": {
-    "thDay": "2026-10-30",
-    "thId": "17913690006506002",
+    "thDay": "2026-10-31",
+    "thId": "18019322585956535",
     "igDay": "2026-10-30",
     "igId": "18024068792943409",
-    "thSlug": "lima-martin-garrix-lima-2026",
+    "thSlug": "vancouver-triples-world-tour-andless-vancouver",
     "igSlug": "lima-martin-garrix-lima-2026",
     "history": [
       {
@@ -390,7 +391,17 @@
       {
         "day": "2026-10-24",
         "slug": "khiva-khiva-ichan-kala",
-        "thId": "17953406835270814"
+        "thId": "17953406835270814",
+        "insights": {
+          "at": "2026-10-31",
+          "th": {
+            "views": 20,
+            "likes": 0,
+            "replies": 0,
+            "reposts": 0,
+            "quotes": 0
+          }
+        }
       },
       {
         "day": "2026-10-25",
@@ -424,6 +435,11 @@
         "slug": "lima-martin-garrix-lima-2026",
         "thId": "17913690006506002",
         "igId": "18024068792943409"
+      },
+      {
+        "day": "2026-10-31",
+        "slug": "vancouver-triples-world-tour-andless-vancouver",
+        "thId": "18019322585956535"
       }
     ]
   }
