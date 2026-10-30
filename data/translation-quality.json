@@ -30960,13 +30960,6 @@
   "worst": "공간이 이렇게 나뉘어 있다는 점은 방문 계획을 세울 때 중요합니다.",
   "at": "2026-10-05T16:36:21.212Z"
  },
- "ko/bangkok-jason-mraz-bangkok-2026": {
-  "hash": "2906dd67aa8c",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "방콕의 대형 콘서트에서 가짜 전자 티켓이 나도는 곳은 대개 SNS 재판매 게시물입니다.",
-  "at": "2026-10-19T08:59:49.363Z"
- },
  "ko/barcelona-la-oreja-de-van-gogh-with-amaia-montero": {
   "hash": "a6a9c8e7618d",
   "score": 1,
@@ -32562,13 +32555,6 @@
   "registerBreak": false,
   "worst": "아부다비 겨울의 온화한 공기 속에서, 그것도 야외에서 하룻저녁에 두 무대를 모두 즐길 수 있습니다.",
   "at": "2026-10-18T07:49:39.901Z"
- },
- "ko/barcelona-young-posse-pilot3-world-tour-barcelona": {
-  "hash": "ac569705962d",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "응원봉 물결과 응원법 소리가 금세 공간을 가득 채우기 때문에, 관객이 많지 않아도 열기가 뜨겁게 느껴집니다.",
-  "at": "2026-10-26T08:17:39.638Z"
  },
  "ko/berlin-taemin-berlin-2026": {
   "hash": "f0b16c15cc31",
@@ -38589,5 +38575,89 @@
   "registerBreak": false,
   "worst": "谷歌把这家分店归为巧克力商店，所以来这里主要还是购物，别指望看到完整的展览。",
   "at": "2026-10-29T14:58:09.452Z"
+ },
+ "es/alice-springs-todd-mall-markets": {
+  "hash": "a00672b8e4f0",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "camine los cien metros que le separan de las galerías comunitarias de la calle y compare",
+  "at": "2026-10-30T08:16:24.263Z"
+ },
+ "es/cambridge-cambridge-market-square": {
+  "hash": "cd9801ac5061",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Según las mediciones de afluencia, la plaza está más tranquila entre las 10am y las 11am",
+  "at": "2026-10-30T08:17:35.644Z"
+ },
+ "es/cambridge-cambridge-university-botanic-garden": {
+  "hash": "ad9f6c264d11",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Eso sí, las tardes concurridas de fin de semana sus estrechos pasillos obligan a avanzar casi a paso",
+  "at": "2026-10-30T08:16:37.282Z"
+ },
+ "ja/alice-springs-todd-mall-markets": {
+  "hash": "e7cea5117ec4",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-30T08:16:38.335Z"
+ },
+ "ja/cambridge-cambridge-market-square": {
+  "hash": "cf70ba3d2a4a",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-30T08:16:39.466Z"
+ },
+ "ja/cambridge-cambridge-university-botanic-garden": {
+  "hash": "4fcf51642cc6",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-30T08:16:40.540Z"
+ },
+ "ko/alice-springs-todd-mall-markets": {
+  "hash": "fbe2663c13a1",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "임시로 옮겨 온 시장이 지금 이곳에 천막을 세웁니다.",
+  "at": "2026-10-30T08:16:48.901Z"
+ },
+ "ko/cambridge-cambridge-market-square": {
+  "hash": "bbb49f1d713f",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "유동 인구를 측정한 결과에 따르면 광장이 가장 한산한 때는 평일 오전 10시~11시입니다.",
+  "at": "2026-10-30T08:16:54.075Z"
+ },
+ "ko/cambridge-cambridge-university-botanic-garden": {
+  "hash": "bef7ebfa542e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이 기록은 한동안 영국 역사상 최고 기온으로 남아 있었습니다.",
+  "at": "2026-10-30T08:16:55.303Z"
+ },
+ "zh/alice-springs-todd-mall-markets": {
+  "hash": "53b47d49f07b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "工作日和周六都没有场次可以补救。",
+  "at": "2026-10-30T08:16:56.440Z"
+ },
+ "zh/cambridge-cambridge-market-square": {
+  "hash": "605538e9d1da",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "集市目前上午10点至下午4点营业，撑完篙再傍晚赶来，摊主多半已经在收拾了。",
+  "at": "2026-10-30T08:17:01.698Z"
+ },
+ "zh/cambridge-cambridge-university-botanic-garden": {
+  "hash": "2ba53d6f1efc",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "系统分类花圃（Systematic Beds）是剑桥植物园独一无二的部分。这里有一大片岛状花床，植物按科归类，排列顺序与植物学家的分类次序一致。",
+  "at": "2026-10-30T08:17:03.146Z"
  }
 }

@@ -996,6 +996,12 @@
   "reason": "publish gate: Museum interior with displays, photos, and exhibits shown",
   "at": "2026-10-16T08:07:17.750Z"
  },
+ "alice-springs-todd-mall-markets\u0001https://upload.wikimedia.org/wikipedia/commons/1/11/Todd_Mall_Markets%2C_2015_%2804%29.JPG": {
+  "slug": "alice-springs-todd-mall-markets",
+  "verdict": "MATCH",
+  "reason": "publish gate: Outdoor street market scene matches Todd Mall Markets setting",
+  "at": "2026-10-30T08:12:31.348Z"
+ },
  "alishan-alishan-forest-railway-garage-park\u0001https://upload.wikimedia.org/wikipedia/commons/6/64/Alishan_Forest_Railway_Garage_Park_20160730.jpg": {
   "slug": "alishan-alishan-forest-railway-garage-park",
   "verdict": "MATCH",
@@ -5730,6 +5736,18 @@
   "reason": "publish gate: Exterior of historic manor house, representative of Anglesey Abbey",
   "at": "2026-10-29T08:01:01.717Z"
  },
+ "cambridge-cambridge-market-square\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Cambridge_Market_Square_Market_Hill_Cambridge_England_Britain_UK_United_Kingdom_United_Kingdom_of_Great_Britain_and_Northern_Ireland_%2841158381652%29.jpg/3840px-Cambridge_Market_Square_Market_Hill_Cambridge_England_Britain_UK_United_Kingdom_United_Kingdom_of_Great_Britain_and_Northern_Ireland_%2841158381652%29.jpg": {
+  "slug": "cambridge-cambridge-market-square",
+  "verdict": "MATCH",
+  "reason": "publish gate: Cheese stall at Cambridge market, representative view",
+  "at": "2026-10-30T08:12:31.394Z"
+ },
+ "cambridge-cambridge-university-botanic-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Cambridge_University_Botanic_Garden_entrance%2C_England_-_DSCF2232.JPG/1920px-Cambridge_University_Botanic_Garden_entrance%2C_England_-_DSCF2232.JPG": {
+  "slug": "cambridge-cambridge-university-botanic-garden",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows actual entrance gate and signage of the garden",
+  "at": "2026-10-30T08:12:31.294Z"
+ },
  "cambridge-museum-of-archaeology-and-anthropology\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Museum_of_Archaeology_and_Anthropology%2C_Cambridge_16.jpg/3840px-Museum_of_Archaeology_and_Anthropology%2C_Cambridge_16.jpg": {
   "slug": "cambridge-museum-of-archaeology-and-anthropology",
   "verdict": "MATCH",
@@ -6017,6 +6035,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Night exterior of illuminated temple building, representative hero shot",
   "at": "2026-10-17T07:46:10.913Z"
+ },
+ "cardiff-the-cardiff-market\u0001https://upload.wikimedia.org/wikipedia/commons/2/21/Cardiff_Market_4.jpg": {
+  "slug": "cardiff-the-cardiff-market",
+  "verdict": "MATCH",
+  "reason": "publish gate: Representative interior view of Cardiff Market with stalls",
+  "at": "2026-10-30T08:12:31.566Z"
  },
  "causeway-bay-east-coast-park-precinct\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/East_Coast_Park_Precinct%2C_Fortress_Hill_07-01-2023%286%29.jpg/3840px-East_Coast_Park_Precinct%2C_Fortress_Hill_07-01-2023%286%29.jpg": {
   "slug": "causeway-bay-east-coast-park-precinct",
@@ -7817,6 +7841,12 @@
   "reason": "publish gate: Representative exterior view of the monastery building",
   "at": "2026-10-11T07:56:51.598Z"
  },
+ "darwin-burnett-house\u0001https://upload.wikimedia.org/wikipedia/commons/6/6b/Burnett_House_at_Myilly_Point_in_the_Darwin_suburb_Larrakeyah_%283%29.jpg": {
+  "slug": "darwin-burnett-house",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of heritage house, plausible Darwin venue photo",
+  "at": "2026-10-30T08:12:31.452Z"
+ },
  "darwin-darwin-military-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Darwin_Military_Museum%2C_September_2025_03.jpg/1920px-Darwin_Military_Museum%2C_September_2025_03.jpg": {
   "slug": "darwin-darwin-military-museum",
   "verdict": "MATCH",
@@ -8435,6 +8465,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows the ruined castle walls representative of Kaiserpfalz Kaiserswerth",
   "at": "2026-10-05T07:45:58.742Z"
+ },
+ "dusseldorf-marktplatz\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Marktplatz_in_D%C3%BCsseldorf_mit_Rathaus_-_panoramio.jpg/3840px-Marktplatz_in_D%C3%BCsseldorf_mit_Rathaus_-_panoramio.jpg": {
+  "slug": "dusseldorf-marktplatz",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Marktplatz square with historic building and statue",
+  "at": "2026-10-30T08:12:31.427Z"
  },
  "dusseldorf-museum-kunstpalast\u0001https://upload.wikimedia.org/wikipedia/commons/a/af/Museum_Kunstpalast_-_Ehrenhof_und_n%C3%B6rdlicher_%C3%9Cbergang_%288241-49%29.jpg": {
   "slug": "dusseldorf-museum-kunstpalast",
@@ -12613,6 +12649,12 @@
   "reason": "patrol replace: Tennis player at professional indoor court venue",
   "at": "2026-10-08T14:38:37.944Z"
  },
+ "inverness-beauly-priory\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Scotlan_Beauly_Priory.jpg/1920px-Scotlan_Beauly_Priory.jpg": {
+  "slug": "inverness-beauly-priory",
+  "verdict": "MATCH",
+  "reason": "publish gate: Ruined priory walls with arched windows, representative exterior view",
+  "at": "2026-10-30T08:21:21.396Z"
+ },
  "inverness-clava-cairns\u0001https://upload.wikimedia.org/wikipedia/commons/1/1b/Clava_Cairns_%26_Standing_Stones_Culloden_Strathnairn_Inverness_Scotland_%282705317038%29.jpg": {
   "slug": "inverness-clava-cairns",
   "verdict": "MATCH",
@@ -12630,6 +12672,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: River with islands and trees, matches Ness Islands scenery",
   "at": "2026-10-18T07:45:16.419Z"
+ },
+ "inverness-the-victorian-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Inverness_Victorian_Market_20211025.jpg/3840px-Inverness_Victorian_Market_20211025.jpg": {
+  "slug": "inverness-the-victorian-market",
+  "verdict": "MATCH",
+  "reason": "publish gate: Interior shows Victorian arcade market with shops, representative view",
+  "at": "2026-10-30T08:12:31.474Z"
  },
  "inverness-urquhart-castle\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Urquhart_Castle_Tower_House_2.jpg/1920px-Urquhart_Castle_Tower_House_2.jpg": {
   "slug": "inverness-urquhart-castle",
@@ -16589,6 +16637,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Iconic turquoise lake view matches Peyto Lake viewpoint scene",
   "at": "2026-10-25T07:47:57.411Z"
+ },
+ "lake-louise-samson-mall\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Samson_Mall%2C_Lake_Louise_20240823_1.jpg/3840px-Samson_Mall%2C_Lake_Louise_20240823_1.jpg": {
+  "slug": "lake-louise-samson-mall",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior shows Samson Mall building with mountains, Lake Louise",
+  "at": "2026-10-30T08:12:31.499Z"
  },
  "lake-louise-sentinel-pass\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sentinel_Pass.jpg/3840px-Sentinel_Pass.jpg": {
   "slug": "lake-louise-sentinel-pass",
@@ -24178,6 +24232,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Elizabeth Quay/Mindeerup meerkat sculptures, ferry, Perth skyline",
   "at": "2026-09-28T16:48:47.225Z"
+ },
+ "perth-perth-makers-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Perth_Makers_Market_at_Goolugatup_Heathcote%2C_October_2026_16.jpg/3840px-Perth_Makers_Market_at_Goolugatup_Heathcote%2C_October_2026_16.jpg": {
+  "slug": "perth-perth-makers-market",
+  "verdict": "MATCH",
+  "reason": "publish gate: Market stalls with crowd under clock tower, Perth-like",
+  "at": "2026-10-30T08:12:31.521Z"
  },
  "perth-the-art-gallery-of-western-australia-agwa\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Converted_courtroom_in_the_Art_Gallery_of_Western_Australia_June_2018.jpg/3840px-Converted_courtroom_in_the_Art_Gallery_of_Western_Australia_June_2018.jpg": {
   "slug": "perth-the-art-gallery-of-western-australia-agwa",
@@ -34751,6 +34811,12 @@
   "verdict": "MATCH",
   "reason": "event-mode back-audit: Festival parade with performer in traditional costume, Zamboanga event",
   "at": "2026-09-13T16:22:02.375Z"
+ },
+ "zhangjiajie-huangshizhai\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/1_zhangjiajie_huangshizhai_wulingyuan_panorama_2012.jpg/3840px-1_zhangjiajie_huangshizhai_wulingyuan_panorama_2012.jpg": {
+  "slug": "zhangjiajie-huangshizhai",
+  "verdict": "MATCH",
+  "reason": "publish gate: Sandstone pillar landscape matches Zhangjiajie/Huangshizhai scenery",
+  "at": "2026-10-30T08:12:31.545Z"
  },
  "zhangjiajie-tianmenshan-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Tian_Men_Shan_Temple_2.jpg/1920px-Tian_Men_Shan_Temple_2.jpg": {
   "slug": "zhangjiajie-tianmenshan-temple",
