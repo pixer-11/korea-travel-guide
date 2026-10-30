@@ -452,6 +452,18 @@
   "reason": "patrol reject: Helicopter on ship deck, unrelated to Spartan race event",
   "at": "2026-10-29T23:31:26.616Z"
  },
+ "abu-dhabi-spartan-world-championship\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Exercise_Spartan_Kopis_140608-Z-AR422-461.jpg/3840px-Exercise_Spartan_Kopis_140608-Z-AR422-461.jpg": {
+  "slug": "abu-dhabi-spartan-world-championship",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated military helicopter scene, not Spartan race event",
+  "at": "2026-10-30T23:13:02.900Z"
+ },
+ "abu-dhabi-spartan-world-championship\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Exercise_Spartan_Kopis_140608-Z-AR422-613.jpg/3840px-Exercise_Spartan_Kopis_140608-Z-AR422-613.jpg": {
+  "slug": "abu-dhabi-spartan-world-championship",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated subject: helicopter and crew, not Spartan race",
+  "at": "2026-10-30T23:13:01.166Z"
+ },
  "abu-dhabi-tamer-hosny-and-tamer-ashour-concert\u0001https://upload.wikimedia.org/wikipedia/commons/2/2e/Tamer_Hosny%27s_NYE_Concert_%282025%29.png": {
   "slug": "abu-dhabi-tamer-hosny-and-tamer-ashour-concert",
   "verdict": "MATCH",
@@ -3479,6 +3491,12 @@
   "reasonKo": "MNAC의 상징적인 오르간이 있는 화려한 내부",
   "at": "2026-08-05T14:59:30.510Z"
  },
+ "barcelona-noush\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/%E0%B4%AA%E0%B5%97%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B4%A4%E0%B5%8D%E0%B4%A4%E0%B5%8B%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%8D_by_Noush.jpg/1920px-%E0%B4%AA%E0%B5%97%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B4%A4%E0%B5%8D%E0%B4%A4%E0%B5%8B%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%8D_by_Noush.jpg": {
+  "slug": "barcelona-noush",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated objects, not a venue photo",
+  "at": "2026-10-30T23:13:37.842Z"
+ },
  "barcelona-osteria-condal\u0001https://fastly.4sqi.net/img/general/original/20301078_7MWQvr9wroLPrxFUIL18gx2ZkU31ZOomxE2CQqSPDxQ.jpg": {
   "slug": "barcelona-osteria-condal",
   "verdict": "MISMATCH",
@@ -3980,6 +3998,12 @@
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: filename shares only \"ironman\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-30T08:31:02.942Z"
+ },
+ "belek-ironman-70-3-turkey\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/IRONMAN_70.3_Hradec_Kralove_2024_2.jpg/1920px-IRONMAN_70.3_Hradec_Kralove_2024_2.jpg": {
+  "slug": "belek-ironman-70-3-turkey",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Running event in urban street with sponsor banners",
+  "at": "2026-10-30T23:14:55.885Z"
  },
  "belfast-black-sheep-coffee\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Black_Sheep_Coffee_Bishopsgate.jpg/1920px-Black_Sheep_Coffee_Bishopsgate.jpg": {
   "slug": "belfast-black-sheep-coffee",
@@ -5699,6 +5723,12 @@
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: filename shares only \"grey\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-29T08:14:15.207Z"
+ },
+ "calgary-113th-grey-cup\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/111th_Grey_Cup%2C_Toronto_Argonauts_celebration_%281%29.jpg/3840px-111th_Grey_Cup%2C_Toronto_Argonauts_celebration_%281%29.jpg": {
+  "slug": "calgary-113th-grey-cup",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Grey Cup trophy ceremony, football players, stadium",
+  "at": "2026-10-30T23:17:21.767Z"
  },
  "calgary-devonian-gardens\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Devonian_Gardens_Calgary_%288599506466%29.jpg/3840px-Devonian_Gardens_Calgary_%288599506466%29.jpg": {
   "slug": "calgary-devonian-gardens",
@@ -8387,6 +8417,12 @@
   "reason": "patrol reject: Dubai street scene, not Design District or event venue",
   "at": "2026-10-29T23:36:17.235Z"
  },
+ "dubai-sole-dxb\u0001https://upload.wikimedia.org/wikipedia/commons/4/4b/Sole_DXB_CROWD.jpg": {
+  "slug": "dubai-sole-dxb",
+  "verdict": "UNMEASURED",
+  "reason": "patrol retry: width: unknown (<1024) — could not measure",
+  "at": "2026-10-30T23:18:43.211Z"
+ },
  "dubai-sole-dxb\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/KID_SOLE.jpg/3840px-KID_SOLE.jpg": {
   "slug": "dubai-sole-dxb",
   "verdict": "MISMATCH",
@@ -10477,6 +10513,12 @@
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: filename shares no word with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-29T08:14:15.503Z"
+ },
+ "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/1/17/TOTAL_BWF_World_Champs_2015_Day_2_Artem_Pochtarev.jpg": {
+  "slug": "hangzhou-bwf-world-tour-finals",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Badminton player in action at tournament",
+  "at": "2026-10-30T23:19:09.715Z"
  },
  "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/2/2d/BWF_Badminton_World_Tour.jpg": {
   "slug": "hangzhou-bwf-world-tour-finals",
@@ -17385,6 +17427,12 @@
   "reason": "hand-reviewed: filename shares no word with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-29T08:14:15.797Z"
  },
+ "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Mahesh_Bhupathi_and_Rohan_Bopanna_at_the_ATP_World_Tennis_Finals.jpg/3840px-Mahesh_Bhupathi_and_Rohan_Bopanna_at_the_ATP_World_Tennis_Finals.jpg": {
+  "slug": "london-atp-finals",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Tennis players at ATP Finals event",
+  "at": "2026-10-30T23:24:15.449Z"
+ },
  "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Doubles_at_the_ATP_Finals_%2849070106548%29.jpg/3840px-Doubles_at_the_ATP_Finals_%2849070106548%29.jpg": {
   "slug": "london-atp-finals",
   "verdict": "MISMATCH",
@@ -19184,6 +19232,24 @@
   "reason": "patrol reject: audit: Architecture photo, not venue interior or food",
   "at": "2026-09-20T21:47:13.314Z"
  },
+ "marina-bay-ps-cafe-marina-bay-sands\u0001https://fastly.4sqi.net/img/general/original/1935995_5vajtpbaw1OLzCGtysJdTTEUxsX2pq7G7AsW4yAy03Y.jpg": {
+  "slug": "marina-bay-ps-cafe-marina-bay-sands",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Product box held up, not the cafe venue",
+  "at": "2026-10-30T23:24:58.868Z"
+ },
+ "marina-bay-ps-cafe-marina-bay-sands\u0001https://fastly.4sqi.net/img/general/original/2421718_abMYItaPADM3bxTtYuymzEYjN-X7KIRse9Qa2noowwo.jpg": {
+  "slug": "marina-bay-ps-cafe-marina-bay-sands",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shows iPhone box, unrelated to cafe venue",
+  "at": "2026-10-30T23:24:55.432Z"
+ },
+ "marina-bay-ps-cafe-marina-bay-sands\u0001https://fastly.4sqi.net/img/general/original/2421718_hMFUXA4BSfYxoDNG6DYshhnWW4BNJS9uCgCgzVafRLA.jpg": {
+  "slug": "marina-bay-ps-cafe-marina-bay-sands",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shows Marina Bay skyline, not PS.Cafe venue",
+  "at": "2026-10-30T23:24:57.025Z"
+ },
  "marina-bay-ps-cafe-marina-bay-sands\u0001https://fastly.4sqi.net/img/general/original/2649720_eb6-gR6I-MHU0afAomL5wqAQbEbvBx2lcSwJOASBb2I.jpg": {
   "slug": "marina-bay-ps-cafe-marina-bay-sands",
   "verdict": "MISMATCH",
@@ -19207,6 +19273,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Shows spherical building, not PS.Cafe venue itself",
   "at": "2026-09-19T21:39:54.394Z"
+ },
+ "marina-bay-ps-cafe-marina-bay-sands\u0001https://fastly.4sqi.net/img/general/original/8470781_7gLpHPqpyzTp9eYnPRwk4MyzUtPNfQBvxOCw9S16Cdo.jpg": {
+  "slug": "marina-bay-ps-cafe-marina-bay-sands",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Apple Store interior, unrelated to the cafe venue",
+  "at": "2026-10-30T23:25:00.420Z"
  },
  "marina-bay-satay-by-the-bay\u0001https://fastly.4sqi.net/img/general/original/33316225_QOG777IoBjPwytdaPLumkACVIj8qZqpu2zk2srK3hcg.jpg": {
   "slug": "marina-bay-satay-by-the-bay",
@@ -21898,6 +21970,12 @@
   "reason": "hand-reviewed: filename shares no word with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-30T08:31:03.512Z"
  },
+ "new-york-nba-christmas-day-games\u0001https://upload.wikimedia.org/wikipedia/commons/9/97/Partido_NBA_-i---i-_%2832167365481%29.jpg": {
+  "slug": "new-york-nba-christmas-day-games",
+  "verdict": "MATCH",
+  "reason": "patrol replace: NBA game at indoor arena, plausible MSG venue",
+  "at": "2026-10-30T23:26:00.017Z"
+ },
  "new-york-nba-christmas-day-games\u0001https://upload.wikimedia.org/wikipedia/commons/c/ce/Jalen_Williams_OKCThunder_2025_NBA_Cup.jpg": {
   "slug": "new-york-nba-christmas-day-games",
   "verdict": "MISMATCH",
@@ -21915,6 +21993,12 @@
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: filename shares no word with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-27T10:38:23.926Z"
+ },
+ "new-york-nba-christmas-day-games\u0001https://upload.wikimedia.org/wikipedia/commons/e/ef/Partido_NBA_-i---i-_%2831445366164%29.jpg": {
+  "slug": "new-york-nba-christmas-day-games",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Arena in Mexico City, not NYC event",
+  "at": "2026-10-30T23:25:54.109Z"
  },
  "new-york-nba-christmas-day-games\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Partido_NBA_-i---i-_%2832137594662%29.jpg/1280px-Partido_NBA_-i---i-_%2832137594662%29.jpg": {
   "slug": "new-york-nba-christmas-day-games",
@@ -26015,6 +26099,12 @@
   "verdict": "MATCH",
   "reason": "patrol replace: Modern restaurant interior with elegant dining setup",
   "at": "2026-08-28T03:52:33.968Z"
+ },
+ "samarkand-merci\u0001https://fastly.4sqi.net/img/general/original/12661041_Cd9d2WYvmnSk9h97VfRHNc5ZnJXqGAFeVQdbp6ZwNuQ.jpg": {
+  "slug": "samarkand-merci",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Close-up plated dish, not venue's place/interior shown",
+  "at": "2026-10-30T23:26:57.675Z"
  },
  "samarkand-merci\u0001https://fastly.4sqi.net/img/general/original/12661041_TQY5Wx-zzfZKbrkUEzXNsDV4rjHTtFEgIdYeH37BPTI.jpg": {
   "slug": "samarkand-merci",
@@ -30749,6 +30839,12 @@
   "reason": "patrol reject: Close-up product-style dish shot, not venue setting",
   "at": "2026-09-24T22:49:17.715Z"
  },
+ "taipei-cang-lin\u0001https://fastly.4sqi.net/img/general/original/1413262133_yirWI0RXVjExVMNzWpqC6siXFPEor_RWdXD_j89TWv4.jpg": {
+  "slug": "taipei-cang-lin",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Soup bowl; no context confirming Cang Lin venue",
+  "at": "2026-10-30T23:29:12.623Z"
+ },
  "taipei-cang-lin\u0001https://fastly.4sqi.net/img/general/original/25075893_Wk2qLJyFQfsgxJTzGEkxFLMwouc_Qj1nAePQ7BipAKA.jpg": {
   "slug": "taipei-cang-lin",
   "verdict": "MISMATCH",
@@ -32014,6 +32110,12 @@
   "verdict": "MATCH",
   "reason": "event publish gate: Books displayed outdoors in Tbilisi, matches book event",
   "at": "2026-10-29T00:38:15.921Z"
+ },
+ "tbilisi-tbilisi-christmas-market-new-year-village\u0001https://upload.wikimedia.org/wikipedia/commons/0/0b/Rustaveli_-_Christmas_lights.png": {
+  "slug": "tbilisi-tbilisi-christmas-market-new-year-village",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Tbilisi street festively decorated for Christmas/New Year",
+  "at": "2026-10-30T23:31:16.131Z"
  },
  "tbilisi-tbilisi-christmas-market-new-year-village\u0001https://upload.wikimedia.org/wikipedia/commons/3/35/Christmas_Lights_at_Orbeliani_Palace.jpg": {
   "slug": "tbilisi-tbilisi-christmas-market-new-year-village",
