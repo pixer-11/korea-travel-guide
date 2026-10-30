@@ -8387,12 +8387,6 @@
   "reason": "patrol reject: Dubai street scene, not Design District or event venue",
   "at": "2026-10-29T23:36:17.235Z"
  },
- "dubai-sole-dxb\u0001https://upload.wikimedia.org/wikipedia/commons/4/4b/Sole_DXB_CROWD.jpg": {
-  "slug": "dubai-sole-dxb",
-  "verdict": "UNMEASURED",
-  "reason": "patrol retry: width: unknown (<1024) — could not measure",
-  "at": "2026-10-29T23:36:17.334Z"
- },
  "dubai-sole-dxb\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/KID_SOLE.jpg/3840px-KID_SOLE.jpg": {
   "slug": "dubai-sole-dxb",
   "verdict": "MISMATCH",
