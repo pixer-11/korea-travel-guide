@@ -41,3 +41,19 @@ test('either collector failing says which number is missing', () => {
   assert.match(noCf[1], /전체 접속\(Cloudflare\) 수집 실패/);
   assert.deepEqual(headlineLines(null, null), []);
 });
+
+test('a cluster Plausible itself counted is named under the headline, which already excludes it', () => {
+  // 10-30: 466 counted, 367 of them one Chrome build from China; 99 people left.
+  const cluster = { values: ['CN', 'Chrome', '151.0', 'Windows', 'Desktop', 'Direct / None'], visitors: 367, pageviews: 416, bounce: 77, duration: 7 };
+  const L = headlineLines({ visits: 1830, pageviews: 1852 }, { visitors: 99, pageviews: 140, botClusters: [cluster], botRemoved: 367 });
+  assert.match(L[0], /^👥 실제 방문자 99명 · 페이지뷰 140$/);
+  assert.match(L[1], /🤖 자동 접속 의심 367명은 뺐습니다\(중국·Chrome 151·Windows·직접 유입 — 그 조합 367명, 평균 7초\)/);
+  // 뺀 수는 머리 숫자의 전후 차이를 쓴다(조합 수의 합은 겹칠 수 있다).
+  const overlap = headlineLines(null, { visitors: 99, pageviews: 140, botClusters: [cluster, { ...cluster, values: cluster.values.with(2, '150.0'), visitors: 120 }], botRemoved: 470 });
+  assert.match(overlap[1], /자동 접속 의심 470명은 뺐습니다/);
+  assert.match(L[2], /전체 접속\(봇·본인 포함\) 1,830회/);
+  // 사람 99명 대비 접속 1,830회면 Cloudflare 줄의 급증 표시도 켜진다 — 두 표시가 같은 날을 같은 말로 설명한다.
+  assert.match(L[2], /자동 접속 급증/);
+  // 덩어리가 없는 날은 줄이 늘지 않는다.
+  assert.equal(headlineLines(cf, { ...pl, botClusters: [] }).length, 2);
+});

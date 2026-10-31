@@ -111,3 +111,25 @@ test('no rows, no block', () => {
   assert.deepEqual(bingLines([], DAILY), []);
   assert.deepEqual(bingLines(null, null), []);
 });
+
+test('one lottery day is named and the week is re-read without it (10-23: 556 of 1,109)', () => {
+  // 2026-10-15..10-28, Bing's real daily clicks.
+  const real = daily('2026-10-15', [53, 44, 48, 65, 86, 72, 48, 106, 556, 61, 91, 109, 86, 100]);
+  const d = bingDaily(real);
+  assert.equal(d.last.clicks, 1109);
+  assert.equal(d.prev.clicks, 416);
+  assert.deepEqual({ clicks: d.spike.clicks, rest: d.spike.rest }, { clicks: 556, rest: 553 });
+  const L = bingLines(ROWS, real);
+  assert.match(L[1], /최근 7일 클릭 1109 · 직전 7일 416 \(\+167%\)/);
+  // 6일을 7일과 비교하지 않는다 — 하루 평균끼리: 553/6 ≈ 92 vs 416/7 ≈ 59 → +55%.
+  assert.match(L[2], /⚡ 그중 10-23 하루가 556회로 몰렸습니다 — 그날을 빼면 하루 평균 92회\(직전 7일 하루 평균 59회 \(\+55%\)\)/);
+});
+
+test('an ordinary rising week is not called a spike', () => {
+  assert.equal(bingDaily(DAILY).spike, null);
+  assert.doesNotMatch(bingLines(ROWS, DAILY).join('\n'), /⚡/);
+  // 한 날이 크지만 주의 40% 에 못 미치면 급증이 아니다.
+  assert.equal(bingDaily(daily('2026-10-15', [50, 50, 50, 50, 50, 50, 50, 60, 60, 60, 150, 60, 60, 60])).spike, null);
+  // 너무 작은 주는 말하지 않는다.
+  assert.equal(bingDaily(daily('2026-10-15', [1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 20, 0, 0, 0])).spike, null);
+});

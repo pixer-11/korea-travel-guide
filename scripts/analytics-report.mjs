@@ -39,6 +39,7 @@ import { fileURLToPath } from 'node:url';
 import { bingLines } from './lib/bing-report.mjs';
 import { audienceLines } from './lib/report-audience.mjs';
 import { botSurge } from './lib/bot-surge.mjs';
+import { detectBotClusters, excludeClusters } from './lib/plausible-bot-cluster.mjs';
 const readJson = (rel) => {
   try { return JSON.parse(readFileSync(fileURLToPath(new URL(rel, import.meta.url)), 'utf8')); }
   catch { return {}; }
@@ -217,12 +218,21 @@ async function plaPublic(body) {
 }
 
 async function plausibleViaPublicDashboard() {
-  const [agg] = await plaPublic({ metrics: ['visitors', 'pageviews', 'bounce_rate', 'visit_duration'] });
-  const pages = await plaPublic({ metrics: ['visitors'], dimensions: ['event:page'], pagination: { limit: 5 } });
-  const sources = await plaPublic({ metrics: ['visitors'], dimensions: ['visit:source'], pagination: { limit: 5 } });
+  // Automated traffic that runs JavaScript lands in Plausible too: on 10-30, 367
+  // of the 466 "real visitors" were one combination (CN · Chrome 151 · Windows ·
+  // Desktop · Direct). Find such a cluster first and leave it out of every number
+  // below — headline, countries, sources, pages, clicks — so the report describes
+  // the people (lib/plausible-bot-cluster.mjs). A failed lookup removes nothing.
+  const { clusters: botClusters, total: rawVisitors, error: clusterErr } = await detectBotClusters(plaPublic);
+  if (clusterErr) console.log('bot-cluster check skipped:', clusterErr);
+  const ex = excludeClusters(botClusters);
+  const pq = (body) => plaPublic({ ...body, filters: [...ex, ...(body.filters || [])] });
+  const [agg] = await pq({ metrics: ['visitors', 'pageviews', 'bounce_rate', 'visit_duration'] });
+  const pages = await pq({ metrics: ['visitors'], dimensions: ['event:page'], pagination: { limit: 5 } });
+  const sources = await pq({ metrics: ['visitors'], dimensions: ['visit:source'], pagination: { limit: 5 } });
   let clicks = 0;
   try {
-    const [g] = await plaPublic({ metrics: ['events'], filters: [['is', 'event:goal', ['Affiliate click']]] });
+    const [g] = await pq({ metrics: ['events'], filters: [['is', 'event:goal', ['Affiliate click']]] });
     clicks = g?.metrics?.[0] ?? 0;
   } catch (e) { console.log('affiliate-click metric skipped:', e.message); }
   // The readers' countries (ISO-2 codes, like Cloudflare's) — the report's
@@ -230,7 +240,7 @@ async function plausibleViaPublicDashboard() {
   // live checks under "real visitors" (lib/report-audience.mjs).
   let countries = '';
   try {
-    const rows = await plaPublic({ metrics: ['visitors'], dimensions: ['visit:country'], pagination: { limit: 5 } });
+    const rows = await pq({ metrics: ['visitors'], dimensions: ['visit:country'], pagination: { limit: 5 } });
     countries = rows.map((c) => `${koCountry(c.dimensions[0])} ${c.metrics[0]}`).join(' · ');
   } catch (e) { console.log('country breakdown skipped:', e.message); }
   // Google, every day, zero included: it left the top five sources on 09-04 and
@@ -238,7 +248,10 @@ async function plausibleViaPublicDashboard() {
   let google = null;
   try {
     const isGoogle = [['is', 'visit:source', ['Google']]];
-    const [gd] = await plaPublic({ metrics: ['visitors'], filters: isGoogle });
+    // A cluster is Direct-only by definition (lib/plausible-bot-cluster.mjs), so
+    // excluding it never changes a Google-filtered count — the 28-day query below
+    // can stay raw without mixing cleaned and raw figures (Codex 2nd pass, 10-31).
+    const [gd] = await pq({ metrics: ['visitors'], filters: isGoogle });
     const [g28] = await plaPublic({
       metrics: ['visitors'], filters: isGoogle,
       date_range: [`${isoDay(-28).slice(0, 10)}T00:00:00+00:00`, `${dayLabel}T23:59:59+00:00`],
@@ -246,8 +259,11 @@ async function plausibleViaPublicDashboard() {
     google = { day: gd?.metrics?.[0] ?? 0, d28: g28?.metrics?.[0] ?? 0 };
   } catch (e) { console.log('google-source metric skipped:', e.message); }
   const [visitors = 0, pageviews = 0, bounce = 0, dur = 0] = agg?.metrics ?? [];
+  // How many the exclusion actually took off the headline — before minus after,
+  // not the clusters' own counts summed (one person can span combinations).
+  const botRemoved = botClusters.length && typeof rawVisitors === 'number' ? Math.max(0, rawVisitors - visitors) : 0;
   return {
-    visitors, pageviews, bounce, dur: Math.round(dur), clicks, countries, google,
+    visitors, pageviews, bounce, dur: Math.round(dur), clicks, countries, google, botClusters, botRemoved,
     topSrc: sources.map((x) => `${koSource(x.dimensions[0])} ${x.metrics[0]}`).join(' · ') || '—',
     topPages: pages.map((p) => `  • ${pageLabel(p.dimensions[0])} — ${p.metrics[0]}`).join('\n') || '  —',
   };
@@ -291,7 +307,13 @@ async function plausibleReport() {
       // path only; without this, a plan where the Stats API works would drop
       // both from the report (Codex, 10-04). The public path needs no key.
       let extra = {};
-      try { const pub = await plausibleViaPublicDashboard(); extra = { countries: pub.countries, google: pub.google }; }
+      try {
+        const pub = await plausibleViaPublicDashboard();
+        // The Stats API path has no cluster exclusion; when the public path
+        // found one, its cleaned figures are the ones that describe people.
+        if (pub.botClusters?.length) return pub;
+        extra = { countries: pub.countries, google: pub.google };
+      }
       catch (e) { console.log('countries/google via public dashboard skipped:', e.message.slice(0, 80)); }
       return { ...api, ...extra };
     }

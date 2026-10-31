@@ -13,6 +13,21 @@
 // named a culprit nobody had measured. The shape (many visits per person, one
 // page each) tells automated from human — it cannot tell whose automation.
 import { botSurge } from './bot-surge.mjs';
+import { describeCluster } from './plausible-bot-cluster.mjs';
+
+// When Plausible itself counted an automated cluster (10-29/30: one Chrome
+// build from China, 367 of 466 "real visitors"), the headline already excludes
+// it (analytics-report.mjs). Say what was removed, so the drop from yesterday's
+// inflated figure is explained rather than mysterious.
+function clusterLine(pl) {
+  const cs = pl?.botClusters ?? [];
+  if (!cs.length) return null;
+  // The headline's own before-minus-after when the report supplied it; the
+  // clusters' counts only as a fallback (they can overlap — Codex, 10-31).
+  const n = Number.isFinite(pl.botRemoved) && pl.botRemoved > 0 ? pl.botRemoved : cs.reduce((s, c) => s + c.visitors, 0);
+  const what = cs.map((c) => `${describeCluster(c)} — 그 조합 ${c.visitors.toLocaleString()}명, 평균 ${c.duration}초`).join(' / ');
+  return `   └ 🤖 자동 접속 의심 ${n.toLocaleString()}명은 뺐습니다(${what}) — 위 숫자와 아래 국가·유입·인기 페이지는 이걸 뺀 값입니다`;
+}
 
 /**
  * @param {{visits:number,pageviews:number}|null} cf  Cloudflare totals, null when that collector failed
@@ -23,6 +38,8 @@ export function headlineLines(cf, pl) {
   const L = [];
   if (pl) {
     L.push(`👥 실제 방문자 ${pl.visitors.toLocaleString()}명 · 페이지뷰 ${pl.pageviews.toLocaleString()}`);
+    const cl = clusterLine(pl);
+    if (cl) L.push(cl);
     if (cf) {
       const surge = botSurge(cf, pl);
       L.push(`   └ 전체 접속(봇·본인 포함) ${cf.visits.toLocaleString()}회 · 페이지뷰 ${cf.pageviews.toLocaleString()}${surge.suspect ? ' ⚠️ 자동 접속 급증' : ''}`);

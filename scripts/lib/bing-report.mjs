@@ -43,7 +43,24 @@ export function bingDaily(dailyRows) {
   const last = rows.slice(-7);
   const prev = rows.length >= 14 ? rows.slice(-14, -7) : null;
   const tot = (a) => ({ clicks: sum(a, 'Clicks'), imp: sum(a, 'Impressions') });
-  return { to: last[last.length - 1].t, last: tot(last), prev: prev ? tot(prev) : null };
+  return { to: last[last.length - 1].t, last: tot(last), prev: prev ? tot(prev) : null, spike: spikeDay(last) };
+}
+
+// One day that carries the week. 2026-10-23 had 556 Bing clicks against ~60-100
+// on the days around it — real people (the Bing app sent Mexico, Spain and
+// Colombia to the Spanish Queenstown page), but once: the next morning's report
+// read "+167%" for the week, and without that day the week was +33%. A lottery
+// day is news; it is not a trend. Named when one day holds at least 40% of the
+// week's clicks AND at least three times the median of the other six.
+export function spikeDay(week) {
+  if (!Array.isArray(week) || week.length < 7) return null;
+  const total = sum(week, 'Clicks');
+  if (total < 50) return null;
+  const top = week.reduce((a, b) => ((b.Clicks ?? 0) > (a.Clicks ?? 0) ? b : a));
+  const others = week.filter((r) => r !== top).map((r) => r.Clicks ?? 0).sort((a, b) => a - b);
+  const median = others[Math.floor(others.length / 2)] ?? 0;
+  if (top.Clicks / total < 0.4 || top.Clicks < 3 * Math.max(median, 1)) return null;
+  return { t: top.t, clicks: top.Clicks, rest: total - top.Clicks };
 }
 
 /**
@@ -61,6 +78,14 @@ export function bingLines(queryRows, dailyRows) {
   if (daily) {
     const was = daily.prev ? ` · 직전 7일 ${daily.prev.clicks}${pct(daily.last.clicks, daily.prev.clicks)}` : '';
     L.push(`   └ 일별 총계(${md(daily.to)}까지 — 빙 집계는 3~4일 늦습니다): 최근 7일 클릭 ${daily.last.clicks}${was}`);
+    if (daily.spike) {
+      // Six days against seven would flatter the week (Codex, 10-31): compare
+      // daily averages — the other six days' mean against the week before's.
+      const restAvg = Math.round(daily.spike.rest / 6);
+      const prevAvg = daily.prev ? Math.round(daily.prev.clicks / 7) : null;
+      const without = prevAvg ? ` — 그날을 빼면 하루 평균 ${restAvg}회(직전 7일 하루 평균 ${prevAvg}회${pct(daily.spike.rest / 6, daily.prev.clicks / 7)})` : '';
+      L.push(`   └ ⚡ 그중 ${md(daily.spike.t)} 하루가 ${daily.spike.clicks}회로 몰렸습니다${without}`);
+    }
   }
 
   // A bundle labelled D covers D-7 … D-1 (checked against per-query daily
