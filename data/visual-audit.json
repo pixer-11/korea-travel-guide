@@ -28870,6 +28870,12 @@
   "reason": "publish gate: Shows church and bell tower, representative of venue",
   "at": "2026-10-20T07:59:25.833Z"
  },
+ "sihanoukville-coastal-coffee\u0001/editor-photos/sihanoukville-coastal-coffee-1.jpg": {
+  "slug": "sihanoukville-coastal-coffee",
+  "verdict": "MATCH",
+  "reason": "owner photo: editor-original — Coastal Coffee surfboard sign and rattan swing on the sand of Ochheuteal Beach, facing the sea",
+  "at": "2026-10-31T11:35:43.649Z"
+ },
  "sihanoukville-independence-park\u0001https://upload.wikimedia.org/wikipedia/commons/e/eb/Sihanoukville_-_Independence_Park.jpg": {
   "slug": "sihanoukville-independence-park",
   "verdict": "MATCH",
