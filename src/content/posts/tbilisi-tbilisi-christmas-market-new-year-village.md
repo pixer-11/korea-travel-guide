@@ -29,14 +29,6 @@ faq:
     a: Try churchkhela (walnuts dipped in grape juice), gozinaki (honey-walnut brittle) and khachapuri. Look out for a chichilaki too, the shaved hazelnut-branch tree Georgians use at New Year.
 aiGenerated: true
 draft: false
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/0/0b/Rustaveli_-_Christmas_lights.png
-  credit: 'Photo: Kris Duda / Wikimedia Commons (CC BY-SA 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Rustaveli_-_Christmas_lights.png
-  focus:
-    x: 80
-    'y': 35
 ---
 
 ## Five weeks, two Christmases

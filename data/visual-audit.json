@@ -4007,9 +4007,9 @@
  },
  "belek-ironman-70-3-turkey\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/IRONMAN_70.3_Hradec_Kralove_2024_2.jpg/1920px-IRONMAN_70.3_Hradec_Kralove_2024_2.jpg": {
   "slug": "belek-ironman-70-3-turkey",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Running event in urban street with sponsor banners",
-  "at": "2026-10-30T23:14:55.885Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"ironman\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-31T08:07:44.204Z"
  },
  "belfast-black-sheep-coffee\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Black_Sheep_Coffee_Bishopsgate.jpg/1920px-Black_Sheep_Coffee_Bishopsgate.jpg": {
   "slug": "belfast-black-sheep-coffee",
@@ -5732,9 +5732,9 @@
  },
  "calgary-113th-grey-cup\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/111th_Grey_Cup%2C_Toronto_Argonauts_celebration_%281%29.jpg/3840px-111th_Grey_Cup%2C_Toronto_Argonauts_celebration_%281%29.jpg": {
   "slug": "calgary-113th-grey-cup",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Grey Cup trophy ceremony, football players, stadium",
-  "at": "2026-10-30T23:17:21.767Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"grey\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-31T08:07:44.410Z"
  },
  "calgary-devonian-gardens\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Devonian_Gardens_Calgary_%288599506466%29.jpg/3840px-Devonian_Gardens_Calgary_%288599506466%29.jpg": {
   "slug": "calgary-devonian-gardens",
@@ -10534,9 +10534,9 @@
  },
  "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/1/17/TOTAL_BWF_World_Champs_2015_Day_2_Artem_Pochtarev.jpg": {
   "slug": "hangzhou-bwf-world-tour-finals",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Badminton player in action at tournament",
-  "at": "2026-10-30T23:19:09.715Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares no word with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-31T08:07:44.615Z"
  },
  "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/2/2d/BWF_Badminton_World_Tour.jpg": {
   "slug": "hangzhou-bwf-world-tour-finals",
@@ -17465,9 +17465,9 @@
  },
  "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Mahesh_Bhupathi_and_Rohan_Bopanna_at_the_ATP_World_Tennis_Finals.jpg/3840px-Mahesh_Bhupathi_and_Rohan_Bopanna_at_the_ATP_World_Tennis_Finals.jpg": {
   "slug": "london-atp-finals",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Tennis players at ATP Finals event",
-  "at": "2026-10-30T23:24:15.449Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"finals\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-31T08:07:44.816Z"
  },
  "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Doubles_at_the_ATP_Finals_%2849070106548%29.jpg/3840px-Doubles_at_the_ATP_Finals_%2849070106548%29.jpg": {
   "slug": "london-atp-finals",
@@ -22014,9 +22014,9 @@
  },
  "new-york-nba-christmas-day-games\u0001https://upload.wikimedia.org/wikipedia/commons/9/97/Partido_NBA_-i---i-_%2832167365481%29.jpg": {
   "slug": "new-york-nba-christmas-day-games",
-  "verdict": "MATCH",
-  "reason": "patrol replace: NBA game at indoor arena, plausible MSG venue",
-  "at": "2026-10-30T23:26:00.017Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares no word with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-31T08:07:45.022Z"
  },
  "new-york-nba-christmas-day-games\u0001https://upload.wikimedia.org/wikipedia/commons/c/ce/Jalen_Williams_OKCThunder_2025_NBA_Cup.jpg": {
   "slug": "new-york-nba-christmas-day-games",
@@ -32173,9 +32173,9 @@
  },
  "tbilisi-tbilisi-christmas-market-new-year-village\u0001https://upload.wikimedia.org/wikipedia/commons/0/0b/Rustaveli_-_Christmas_lights.png": {
   "slug": "tbilisi-tbilisi-christmas-market-new-year-village",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Tbilisi street festively decorated for Christmas/New Year",
-  "at": "2026-10-30T23:31:16.131Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"christmas\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-10-31T08:07:45.221Z"
  },
  "tbilisi-tbilisi-christmas-market-new-year-village\u0001https://upload.wikimedia.org/wikipedia/commons/3/35/Christmas_Lights_at_Orbeliani_Palace.jpg": {
   "slug": "tbilisi-tbilisi-christmas-market-new-year-village",
