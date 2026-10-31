@@ -96,12 +96,11 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-10-22'
 ---
-
 ## A church you can read from the footpath
 
 From Hereford Street you see the whole idea at once. A tall A-frame of giant cardboard tubes leans together under a translucent roof, and a triangular wall of coloured glass fills the front. Nothing is hidden. The structure is the building.
 
-Japanese architect Shigeru Ban designed it after the February 2011 earthquake wrecked ChristChurch Cathedral in Cathedral Square. It opened in 2013 as a transitional cathedral for the Anglican diocese. "Interim" was always the plan, and the city's main cathedral is still being reinstated.
+Japanese architect Shigeru Ban designed it after the February 2011 earthquake damaged ChristChurch Cathedral in Cathedral Square. It opened in 2013 as a transitional cathedral for the Anglican diocese. "Interim" was always the plan, and the city's main cathedral is still being reinstated.
 
 ## Inside the tubes
 

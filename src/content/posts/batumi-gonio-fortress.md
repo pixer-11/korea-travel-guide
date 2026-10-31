@@ -84,7 +84,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-10-19'
 ---
-
 ## Inside the Roman rectangle
 
 The walls hit you first. They are a long rectangle of grey stone with squat towers along each side, enclosing a grassy field the size of several football pitches. The Romans called the fort Apsaros and garrisoned it from around the 1st century AD to guard the mouth of the Chorokhi River and the coast road.
@@ -106,7 +105,7 @@ The fortress stands a short walk inland from the highway, so you won't have trou
 
 ## Timing, tickets and the grave
 
-You buy tickets at the gate, where the current price is posted. At the moment it opens 10am–5pm every day of this week. Opening times change with the season and on some holidays, so check the official site for this month's schedule.
+You buy tickets at the gate, where the current price is posted. It generally opens from around 10am to 5pm, though hours can run later in summer. Opening times change with the season and on some holidays, so check the official site for this month's schedule.
 
 This is one of the best-known historic sites in Adjara and it draws plenty of visitors. Excursion groups from Batumi tend to arrive mid-morning, which is why turning up at 10am usually gets you a quieter field. Summer middays are hot because there is almost no shade inside the walls, so bring a hat and water.
 

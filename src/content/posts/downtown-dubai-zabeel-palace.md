@@ -46,14 +46,13 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## What you're actually looking at
 
 Zabeel Palace is the official residence of Dubai's ruling Al Maktoum family, not a museum or a converted heritage site. The compound sits in Za'abeel Second, a district built around it, southwest of the Downtown Dubai skyline. Reviewers consistently rate it 4.6 stars, largely for the grounds you can see from outside: palm-fringed gardens, manicured lawns, and peacocks reported wandering near the fence line. There is no public interior access.
 
 ## Getting there and what you'll see
 
-Zaa'beel Palace Street runs along the compound's perimeter and is the standard approach point. The palace itself is set back behind high walls and dense landscaping, so what you actually get is a glimpse of gates, guard posts, ornamental ironwork, and the tops of formal gardens over the boundary. It's a drive-by or brief stop rather than a destination you linger at for hours; most visitors spend 10 to 20 minutes here.
+Zaa'beel Palace Street runs along the compound's perimeter and is the standard approach point. The palace itself is set back behind high walls and dense landscaping, so what you actually get is a glimpse of gates, guard posts, ornamental ironwork, and the tops of formal gardens over the boundary. It's a drive-by or brief stop rather than a destination you linger at for hours.
 
 - Nearest reference points: Downtown Dubai and the Za'abeel district, a short taxi or car ride from Downtown's main cluster (Burj Khalifa, Dubai Mall)
 - No ticket booth, no visitor center, no scheduled tours
@@ -69,4 +68,4 @@ Dress and conduct should match anywhere else in the UAE near government or royal
 
 Because there's no admission and no fixed hours to work around, timing is about traffic and light, not a schedule. Za'abeel's streets get busier during weekday rush hours, so a mid-morning or early-evening pass is calmer for photos and parking.
 
-Pair it with nearby Downtown Dubai sights rather than making it a standalone trip: Burj Khalifa, Dubai Mall, and the Dubai Fountain are all a short drive away, and Zabeel Park itself, with its own gardens and walking paths, sits close by and welcomes visitors properly. Budget the palace as a 15-minute add-on to a Za'abeel or Downtown itinerary, not a half-day stop.
+Pair it with nearby Downtown Dubai sights rather than making it a standalone trip: Burj Khalifa, Dubai Mall, and the Dubai Fountain are all a short drive away, and Zabeel Park itself, with its own gardens and walking paths, sits close by and welcomes visitors properly. Treat the palace as a brief add-on to a Za'abeel or Downtown itinerary, not a half-day stop.

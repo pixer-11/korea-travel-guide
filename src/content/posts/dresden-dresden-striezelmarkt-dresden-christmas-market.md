@@ -44,7 +44,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Six centuries on one square
 
 The Altmarkt has held this market since 1434. That makes the Striezelmarkt Germany's oldest Christmas market, and the 2026 edition is its 592nd. It runs from November 25 to December 24, 2026.
@@ -56,7 +55,7 @@ For a month, the broad square in Dresden's Altstadt fills with rows of wooden hu
 The square is easy to reach on foot or by tram.
 
 - **Tram:** the Altmarkt stop sits on the square's edge, and the Pirnaischer Platz and Postplatz stops are a short walk away.
-- **From Dresden Hauptbahnhof:** walk north along the pedestrianised Prager Straße. It takes about 15 minutes and ends at the market's southern side.
+- **From Dresden Hauptbahnhof:** walk north along the pedestrianised Prager Straße, which leads directly toward the market.
 - **From the Neustadt:** cross the Augustusbrücke, pass the Frauenkirche and Neumarkt, then head south to the Altmarkt.
 
 Driving into the old town during Advent is slow, and city-centre parking garages fill up. Most visitors use the tram, or they stay within walking distance in the Altstadt or around Prager Straße.

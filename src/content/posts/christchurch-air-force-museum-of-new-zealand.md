@@ -55,7 +55,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## An airfield that became a suburb
 
 Wigram used to be an air base. The streets around the museum show it: Harvard Avenue is named after the trainer aircraft generations of pilots learned on. You drive in through new housing and arrive at large hangar-style halls on ground where New Zealand's military pilots trained for most of the twentieth century.
@@ -96,7 +95,7 @@ Without a car, Christchurch's Metro buses run through Wigram. Use the Metroinfo 
 A little planning pays off here. These habits make the visit go more smoothly:
 
 - **Book the tour first, then plan around it.** Do the halls before or after your set tour time, not in a rush between.
-- **Arrive at 9:30am if you can.** It currently opens 9:30am–4:30pm every day this week. Turning up at opening usually beats the school groups and family crowds that build later.
+- **Arrive at 9:30am if you can.** It currently opens 9:30am–4:30pm daily. Turning up at opening usually beats the school groups and family crowds that build later.
 - **Allow at least two hours.** If you arrive after 2pm, you'll be hurrying past the archive and medal displays.
 - **Treat the memorial material with respect.** Parts of the collection honour aircrew who died. Visitors keep their voices down there, and so should you.
 - **Ask before touching.** Some exhibits invite it and most aircraft don't. The volunteers and staff on the floor, many with a real air force background, are happy to say which is which.

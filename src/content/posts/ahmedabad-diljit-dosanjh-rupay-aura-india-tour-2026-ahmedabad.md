@@ -42,7 +42,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A Punjabi Night in the World's Biggest Cricket Ground
 
 The venue is a cricket stadium, not a concert hall. Narendra Modi Stadium in Motera is the largest cricket ground in the world. It was rebuilt on the site of the old Sardar Patel Stadium and has room for more than 100,000 people. On November 21, 2026, Diljit Dosanjh brings the RuPay Aura India Tour 2026 here.
@@ -78,7 +77,7 @@ Indian residents and foreign visitors can apply for liquor permits under state r
 
 ## Stadium-Night Habits in Motera
 
-Big Indian stadium shows follow a familiar pattern. Here is how regulars usually handle them:
+Big Indian stadium shows follow a familiar pattern. A few habits come up again and again:
 
 - **Tickets are digital.** Indian concert tickets for shows like this are normally delivered to your phone and scanned at the gate. Fans tend to save a screenshot, because mobile data slows down when tens of thousands of people are in one place.
 - **Security is strict.** Stadium checks in India usually ban outside food, bottles, power banks over a certain size and professional cameras. Fans who arrive with a small bag or none get through faster.

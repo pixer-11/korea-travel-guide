@@ -43,7 +43,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Nine days of very small players
 
 Picture rows of tables with boards and clocks. Behind each one sits a child whose feet may not reach the floor. That is the FIDE World Cadet Chess Championship 2026, held in Batumi, Georgia, from November 21 to 29, 2026.
@@ -60,7 +59,7 @@ FIDE and the local organising committee set the exact playing venue and publish 
 
 Most families fly. Batumi International Airport lies just south of the city, a short drive from the seafront. Many international visitors connect through Istanbul, or fly into Tbilisi or Kutaisi and continue overland.
 
-- **From Tbilisi:** the train to Batumi Central station takes about five to six hours and is the comfortable overland option.
+- **From Tbilisi:** the train to Batumi Central station is the comfortable overland option.
 - **From Turkey:** the Sarpi border crossing sits on the coast road a few kilometres south of the city.
 - **Around town:** taxis booked through ride-hailing apps are the usual way teams get from hotel to hall.
 

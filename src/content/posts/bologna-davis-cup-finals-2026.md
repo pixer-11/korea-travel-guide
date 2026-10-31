@@ -44,14 +44,13 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Eight nations, six days, one trophy
 
 Spain arrives in Bologna as top seed. Seven other nations join them, South Korea among them, for the last stage of men's tennis's biggest team competition. Play runs from November 24 to 29, 2026, at the SuperTennis Arena.
 
 The Finals use a straight knockout of quarterfinals, semifinals and a final. Each tie is a best-of-three: two singles rubbers, then a doubles if the score sits at one-all. That last rubber is often where a tie swings, so crowds tend to stay to the end.
 
-Italy has strong recent form here, having won the trophy in 2023 and 2024. That gives a Bologna crowd every reason to fill the stands for any home tie.
+Italy has a strong Davis Cup tradition, and that gives a Bologna crowd every reason to fill the stands for any home tie.
 
 ## Tickets and the session format
 

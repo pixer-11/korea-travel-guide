@@ -107,7 +107,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-10-23'
 ---
-
 ## Wood, brass and a driver with a microphone
 
 A restored tram rolls down Worcester Street at walking pace, its bell clanging as it nears a stop. Inside you sit on wooden seats under a painted ceiling, with windows that open onto the street. Up front, the driver works the controls and talks you through the city as it passes.
@@ -136,7 +135,7 @@ The rails run straight down the middle, so the tram slides between café tables 
 
 Timing changes this ride more than almost anything else. The measured quiet window is 5pm–6pm, on weekdays and weekends alike. Seats are easier to get then, and late light falls along Worcester Boulevard.
 
-Try not to board between 10am and 5pm on weekends. That's the busiest stretch, when carriages fill and you can end up standing at the back, away from the narration. Weekday mornings are a reasonable alternative if evenings don't suit.
+Try to avoid boarding between 10am and 5pm on weekends. That's the busiest stretch, when carriages fill and you can end up standing at the back, away from the narration. Weekday mornings are a reasonable alternative if evenings don't suit.
 
 There's one catch. The tram currently runs 8:30am–6:30pm, and a full loop takes about an hour, so the last complete circuit leaves before closing. Check the last departure time at the stop or on the official site before you plan around 5pm. These hours are this week's schedule and can shift, especially on public holidays.
 

@@ -116,7 +116,7 @@ Partway along the remaining arches sits a small two-level chapel dedicated to St
 
 There's no crossing to the other side anymore. You walk out onto the surviving arches, look down at the Rhône moving underneath, and look back at the walled city and the Palais des Papes over your shoulder. The view of both together is the reason people come.
 
-Inside the entry fee is an audio guide, included in most tickets, that walks you through the bridge's construction, collapses and rebuilds, and its odd afterlife as a folk song. It's worth taking; there's nothing else on-site explaining what you're looking at.
+An audio guide walks you through the bridge's construction, collapses and rebuilds, and its odd afterlife as a folk song. It's worth taking; there's nothing else on-site explaining what you're looking at.
 
 Give it 30 to 45 minutes. It's not a long visit, but the light on the water and the angle back toward the Palais des Papes are worth lingering for a few extra minutes rather than rushing through.
 

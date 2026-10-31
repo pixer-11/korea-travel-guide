@@ -103,7 +103,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-10-15'
 ---
-
 ## A king in gold, mid-stride
 
 He wears a Roman breastplate and no helmet. Augustus the Strong, Elector of Saxony and King of Poland as August II, sits on a rearing horse covered in gold leaf. The whole figure stands on a tall stone plinth in the middle of Neustädter Markt.
@@ -126,7 +125,7 @@ The gilding is the reason to come, and it changes with the light. Gold leaf is t
 
 Early morning gives you that low light and an empty square together. On grey days, come anyway: the detail on the harness and the folds of the cloak reads better without the glare.
 
-Walk all the way round the plinth. The horse's tail, the snake under its hooves and the king's face each look different from each side. One circuit takes about ten minutes, and most people stay 15–30 minutes, including photos.
+Walk all the way round the plinth. The horse's tail, the snake under its hooves and the king's face each look different from each side. Give yourself a few unhurried minutes to circle it before moving on.
 
 ## Seven o'clock on Neustädter Markt
 

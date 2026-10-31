@@ -48,7 +48,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## One December night on Yas Bay
 
 The show is a single night, and the date is fixed. Mariah Carey brings her ChristmasTime show to Etihad Arena on December 12, 2026, under the Yasalam Classics banner. Yasalam is Yas Island's season of headline events, so the concert lands in the island's busiest stretch of the year.
@@ -57,13 +56,13 @@ The set is built around the 1994 *Merry Christmas* album. That record gave the w
 
 ## Inside Etihad Arena
 
-The building is new and built for exactly this kind of show. Etihad Arena opened in 2021 and is the largest indoor venue in Abu Dhabi, holding around 18,000 people. The exterior faces the water, wrapped in a pale, scale-like facade that is lit after dark.
+The building is new and built for exactly this kind of show. Etihad Arena opened in 2021 and is the largest indoor venue in Abu Dhabi. The exterior faces the water, wrapped in a pale, scale-like facade that is lit after dark.
 
 Inside it is fully air-conditioned, which matters less in December than in summer. Seating rises in tiers around a floor that can be standing or seated depending on the show. Ticket details for this night sit with the Yasalam Classics programme and the arena.
 
 ## Reaching Yas Island
 
-Most people come by road. The arena is about 15–20 minutes from Zayed International Airport and roughly 30 minutes from downtown Abu Dhabi along the E10 and E12. From Dubai, the drive down the E11 usually takes about 75 minutes without traffic.
+Most people come by road. The arena sits on Yas Island, within reach of both Zayed International Airport and downtown Abu Dhabi by the main highways. Drivers coming from Dubai can expect the trip down the E11 to take a while, depending on traffic.
 
 - **Taxi or ride-hail:** Abu Dhabi's metered taxis, Uber and Careem all serve Yas Bay.
 - **Driving:** parking is spread around the Yas Bay Waterfront. Abu Dhabi's Darb toll gates apply to cars at peak hours.
@@ -76,7 +75,7 @@ After a sold-out arena show, the queue for cars and taxis at the kerb is usually
 Locals treat the evening as dinner plus a show. The Yas Bay Waterfront and Pier 71 restaurants are steps from the arena doors, and many attendees eat there beforehand. Yas Mall, Ferrari World and Yas Marina Circuit are all a short drive away on the same island.
 
 - **Payment:** cards and contactless payments are accepted almost everywhere, from taxis to food stalls.
-- **Dress:** December evenings by the water are mild, often in the low 20s °C. Smart-casual outfits are the norm, and a light layer helps against the arena air-conditioning.
+- **Dress:** December evenings by the water tend to be mild. Smart-casual outfits are the norm, and a light layer helps against the arena air-conditioning.
 - **Conduct:** the UAE expects modest public behaviour. Alcohol is served only at licensed venues, and public drunkenness can bring real legal trouble.
 - **Photos:** phones are standard at arena gigs. Professional cameras with detachable lenses are usually not allowed at major arena shows.
 

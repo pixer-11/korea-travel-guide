@@ -46,7 +46,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A ten-year band plays Daegu
 
 This is a band show, not a backing track. DAY6 debuted under JYP Entertainment in September 2015, and the four members play their own instruments on stage: Sungjin on guitar, Young K on bass, Wonpil on keyboards and Dowoon on drums.
@@ -76,7 +75,7 @@ Tickets for K-pop shows in Korea are normally tied to the buyer's name. Resale o
 
 ## Getting to Daegu and around it
 
-Dongdaegu Station is the front door. KTX and SRT trains from Seoul reach it in under two hours, and Daegu International Airport sits a short taxi ride from the station.
+Dongdaegu Station is the front door. KTX and SRT trains connect it to Seoul, and Daegu International Airport sits a short taxi ride from the station.
 
 From Dongdaegu, the Daegu Metro takes over. It has three lines:
 
@@ -106,7 +105,7 @@ Daegu has its own singer-songwriter shrine. Kim Gwang-seok-gil is a mural alley 
 
 The alley runs along a concrete embankment wall covered in paintings of him, lyrics and guitars. A bronze statue of him with a guitar sits on a bench, and visitors sit beside it for photos. Small speakers along the walk play his songs.
 
-For a crowd that follows a band built on lyrics and live guitar, it fits the day. The walk takes around 30 minutes. Line 3's Kyungpook National University Hospital Station is the usual stop for it.
+For a crowd that follows a band built on lyrics and live guitar, it fits the day. Line 3's Kyungpook National University Hospital Station is the usual stop for it.
 
 ## After the encore: makchang and jjimgalbi
 

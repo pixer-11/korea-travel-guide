@@ -44,7 +44,7 @@ faq:
 aiGenerated: true
 draft: false
 ---
-Etihad Arena has hosted plenty of Arabic-language megastars since it opened. A joint bill of Tamer Hosny and Tamer Ashour is the kind of pairing that draws people who know every lyric before the first note lands. Hosny brings the pop-star wattage and decades of chart-topping singles. Ashour is the newer generation's favourite for aching, piano-led ballads. The two were billed together on one stage on October 17, 2026, for a night built around singing along.
+Etihad Arena has hosted plenty of Arabic-language megastars since it opened. A joint bill of Tamer Hosny and Tamer Ashour is the kind of pairing that draws people who know every lyric before the first note lands. Hosny brings the pop-star wattage and decades of chart-topping singles. Ashour is the newer generation's favourite for aching, piano-led ballads. The two were billed together on one stage for a night built around singing along.
 
 ## What to expect from the show
 

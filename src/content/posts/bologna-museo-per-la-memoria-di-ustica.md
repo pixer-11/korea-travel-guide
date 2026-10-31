@@ -61,7 +61,7 @@ The centerpiece is the actual wreckage of Itavia Flight 870, a DC-9 that fell in
 
 Bologna-born artist Christian Boltanski and architect Christian Hauvette reassembled the recovered fragments into the full silhouette of the plane, suspended in a dark hall. Around it hang 81 black mirrors, one per victim, and speakers loop fragments of ordinary conversation and music recorded that same evening, meant to evoke the last radio contact.
 
-The crash itself remains one of Italy's great unsolved cases: decades of investigations have pointed toward a missile strike during a NATO-era air battle, but no state has ever admitted responsibility. The museum, opened in 2007, treats the wreckage as memorial rather than forensic exhibit; there's little text, mostly darkness, metal and sound.
+The crash itself remains one of Italy's great unsolved cases: decades of investigations have pointed toward a missile strike, but no state has ever admitted responsibility. The museum, opened in 2007, treats the wreckage as memorial rather than forensic exhibit; there's little text, mostly darkness, metal and sound.
 
 ## Hours and getting there
 

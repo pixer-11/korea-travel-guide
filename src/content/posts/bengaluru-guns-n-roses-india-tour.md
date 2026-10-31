@@ -105,7 +105,7 @@ Agree on a meeting point with friends before the lights go down; once the crowd 
 
 A Saturday show leaves Sunday for the city. Bengaluru repays a slow morning after a late night.
 
-- **Breakfast at MTR** on Lalbagh Road, a Bengaluru institution since 1924; queues are common at weekends
+- **Breakfast at MTR** on Lalbagh Road, a long-running Bengaluru institution; queues are common at weekends
 - **Lalbagh Botanical Garden**, next door, with its glasshouse modelled on London's Crystal Palace
 - **Cubbon Park**, the city's central green lung, flanked by the granite Vidhana Soudha and the red High Court building
 - **Church Street and MG Road**, for bookshops, cafés and microbreweries in the evening

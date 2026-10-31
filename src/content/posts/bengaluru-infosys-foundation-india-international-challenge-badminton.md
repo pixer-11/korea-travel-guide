@@ -39,7 +39,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Ranking points, six days, one city
 
 This is a ranking-point tournament. The Infosys Foundation India International Challenge runs from Tuesday, November 3 to Sunday, November 8, 2026, and brings international competitors to Bengaluru. International Challenge is a tier of the Badminton World Federation's circuit, so results here count towards world ranking points.
@@ -68,7 +67,7 @@ Badminton halls have their own etiquette. Fans and strong air conditioning are u
 - A refillable water bottle
 - A phone with the order of play open
 
-Spectators stay seated during rallies and move only between points or at the interval. The interval comes when the leading player reaches 11 in a game. Flash photography is off-limits because players are tracking a shuttle at speed. Home players usually get the loudest support, and the noise stops on the serve.
+Spectators stay seated during rallies and move only between points or at the interval. The interval comes when either player reaches 11 points in a game. Flash photography is off-limits because players are tracking a shuttle at speed. Home players usually get the loudest support, and the noise stops on the serve.
 
 Across Bengaluru, people mostly pay by UPI. QR codes are standard at snack counters and in auto-rickshaws, and cards work at larger outlets. Visitors without an Indian bank account usually carry some cash or use a ride app's card payment instead.
 

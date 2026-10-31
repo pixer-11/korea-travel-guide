@@ -105,7 +105,7 @@ The square is a residential corner, not a stage set. People live in the surround
 
 Lilau works best as one stop on a downhill walk through Barra.
 
-- **Mandarin's House (Casa do Mandarim):** around the corner on Travessa de António da Silva. This large courtyard residence was the home of the reformist writer Zheng Guanying. Allow 45 minutes.
+- **Mandarin's House (Casa do Mandarim):** around the corner on Travessa de António da Silva. This large courtyard residence was the home of the reformist writer Zheng Guanying.
 - **A-Ma Temple:** a few minutes' walk down toward the waterfront. It's the temple the name Macau is said to come from.
 - **Moorish Barracks:** on Calçada da Barra, a colonnaded building in yellow and white, between the square and the temple.
 - **St. Lawrence's Church:** uphill on Rua de São Lourenço, a good starting point if you're coming from the centre.

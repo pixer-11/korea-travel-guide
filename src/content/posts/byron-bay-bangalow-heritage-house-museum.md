@@ -52,12 +52,11 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A small museum in the hills behind the beach
 
 Bangalow runs at a different pace from Byron Bay. The coast is about surf and crowds. This village is a single main street of old timber shopfronts with deep verandahs, set in rolling green country that was once cleared for dairy farms and cedar logging.
 
-Bangalow Heritage House Museum is where that backstory is kept. It's a modest stop on Ashton Street, a quiet residential side street close to the centre of town. It rewards curiosity rather than a checklist. Visitors who come here generally want to know how a place like this came to be.
+Bangalow Heritage House Museum is where that backstory is kept. It's a modest stop on Ashton Street, a quiet side street just off the centre of town. It rewards curiosity rather than a checklist. Visitors who come here generally want to know how a place like this came to be.
 
 ## What you'll find at Ashton Street
 
@@ -67,7 +66,7 @@ The themes you'll want to look for follow the town's history:
 
 - **The village's name.** Bangalow was once known as Byron Creek. The current name is generally traced to an Aboriginal word for a local palm.
 - **Timber and dairy.** Red cedar first brought settlers into the hinterland. Dairying sustained the town for generations afterwards.
-- **Main-street life.** Byron Street's shopfront rows are part of what makes the village distinctive today.
+- **Main-street life.** Byron Street's shopfront rows, built with deep verandahs, trace the town's main-street history.
 
 Displays at small museums change, so treat these as threads to follow, not a guaranteed list of exhibits.
 

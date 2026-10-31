@@ -112,7 +112,7 @@ She stands alone in a domed room on the upper floor, lit softly in a glass case.
 
 The rest of the Egyptian collection fills the rooms around her. Highlights include:
 
-- Portrait heads from Amarna, including the quieter studies left in Thutmose's workshop
+- Portrait heads from Amarna, including studies attributed to the city's sculptors' workshops
 - Papyri and coffins from the Egyptian Museum and Papyrus Collection
 - Reliefs set into the restored courtyard galleries
 

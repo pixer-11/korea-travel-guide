@@ -47,7 +47,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A valley most of Sumner Road drives past
 
 Redcliffs is a seaside suburb most people pass through. Traffic on Main Road heads for Sumner's beach, and few drivers look up at the gully behind the houses. Barnett Park sits in that gully: an open reserve that narrows into a bush-lined valley climbing into the Port Hills.
@@ -71,7 +70,7 @@ Once you're inside the overhang, Main Road's traffic noise mostly drops away. Th
 
 Redcliffs is on the coastal road between Ferrymead and Sumner, roughly 20–25 minutes' drive from the central city. The Metro Purple Line bus runs along Main Road towards Sumner. Get off in Redcliffs village and walk up into the park from there.
 
-If you're driving, use the street parking near the park entrance and respect residents' driveways. These are quiet residential streets. From the park, the walk up to the cave is short. Most people spend 45 minutes to an hour on the round trip, including time at the cave.
+If you're driving, use the street parking near the park entrance and respect residents' driveways. These are quiet residential streets. From the park, the walk up to the cave is short, making for an easy round trip.
 
 ## Reading the rock: safety after the quakes
 

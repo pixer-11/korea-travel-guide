@@ -44,7 +44,7 @@ draft: false
 ---
 ## Three nights at Hua Mak
 
-BTS bring their 360° stadium World Tour 'ARIRANG' to Bangkok for three nights. The announced dates are December 3, 5 and 6, 2026, and all three are at Rajamangala National Stadium.
+BTS bring their 360° stadium World Tour 'ARIRANG' to Bangkok for three nights. The tour is scheduled for three nights in Bangkok, and all three shows are at Rajamangala National Stadium.
 
 The tour takes its name from "Arirang", the Korean folk song that is close to an unofficial national anthem. For a group whose fanbase calls itself ARMY, the name signals a show built around where BTS come from. Start times, set details and support acts are not part of the announcement. Confirm timing and tickets on the official site.
 

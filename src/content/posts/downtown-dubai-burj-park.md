@@ -76,7 +76,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 Burj Park is a strip of grass and paved walkway wedged between the Burj Khalifa tower and the Dubai Fountain lake, and it does one job better than almost anywhere else in the city: it gets the whole 828-metre building into a single frame without you paying for a ticket up it. Locals and tour groups alike end up here for exactly that reason, though it stays notably calmer than the mall concourse or the fountain boardwalk a few hundred metres away.
 
 The park sits on reclaimed land at the edge of the Burj Khalifa Lake, accessible from the Dubai Mall side via the walkway that loops around past the Address Downtown hotel. It's a short, flat walk from Burj Khalifa/Dubai Mall Metro Station, and most people fold it into a longer loop that also takes in the mall and the fountain show rather than visiting it as a standalone stop.
@@ -124,4 +123,4 @@ Because it's free, unticketed, and open around the clock, Burj Park doesn't have
 
 Arriving in that late-morning window means you get the lawn largely to yourself for photos, then can retreat mall-side for lunch before the afternoon crowd builds. If your priority is the fountain show itself rather than a quiet park, flip that logic: arrive in the early evening before showtime to claim a spot at the park's edge before the boardwalk overflow arrives.
 
-Locals tend to treat it as a through-route and evening cooldown spot rather than a destination in its own right, which is exactly why it still feels less packed than the fountain boardwalk despite sitting right next to it. Given the current under-the-radar standing, it's a reasonable bet for anyone who wants the money shot of Burj Khalifa without fighting for a foothold.
+Locals tend to treat it as a through-route and evening cooldown spot rather than a destination in its own right, which is exactly why it still feels less packed than the fountain boardwalk despite sitting right next to it. Given its current under-the-radar standing, it's a reasonable bet for anyone who wants the money shot of Burj Khalifa without fighting for space.

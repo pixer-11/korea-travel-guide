@@ -40,7 +40,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A ranking event you can sit right next to
 
 You are close enough to hear the ball. That is the main draw of a WTT Feeder event. Players here are chasing world ranking points on the first rung of the World Table Tennis ladder, and the sport is played in a university sports hall, not a stadium.
@@ -107,7 +106,7 @@ On the plus side, the rain brings the temperature down from the summer peaks. Hu
 Most visitors who aren't attached to a team stay in one of two places.
 
 - **GST Road corridor (Tambaram, Guduvanchery, Vandalur):** closest to the venue and on the suburban rail line. Plenty of mid-range business hotels.
-- **OMR (Sholinganallur, Navalur, Kelambakkam):** the IT corridor, with larger hotels and plenty of restaurants. It is a cab ride west along the Vandalur–Kelambakkam Road to the campus.
+- **OMR (Sholinganallur, Navalur, Kelambakkam):** the IT corridor, with larger hotels and plenty of restaurants. It is a cab ride along the Vandalur–Kelambakkam Road to the campus.
 
 Central Chennai neighbourhoods such as T. Nagar, Mylapore or Egmore give you more of the city. They also add a long daily commute south.
 

@@ -69,7 +69,7 @@ The complex is organized as a straight line of five main halls, each larger than
 - **Hall of the Wheel of the Law** – home to a large bronze statue of Tsongkhapa, founder of the Gelug school
 - **Pavilion of Ten Thousand Happinesses** – the finale, housing a towering sandalwood Maitreya Buddha
 
-That last statue is listed in Guinness World Records for the largest single-piece sandalwood carving anywhere, and the pavilion's roof was actually built up around it after the wood arrived from Tibet, since it was too tall to fit through the door.
+That last statue is carved from a single piece of sandalwood, and the pavilion's roof was actually built up around it after the wood arrived from Tibet, since it was too tall to fit through the door.
 
 ## The single-tree Buddha and why the roof is odd
 

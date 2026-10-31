@@ -145,7 +145,7 @@ There are entrances on both Görlitzer Straße and Alaunstraße. You can walk st
 
 The courtyards keep long hours. They open at 6am Monday to Friday and at 8am on weekends. They close at 11pm most nights, or midnight on Fridays and Saturdays. Shops and studios inside keep their own, shorter hours, so check those separately.
 
-Weekday mornings between 7am and 10am are the calmest time. That's your window for an empty shot of the drainpipe wall. On weekends, the courtyards are busiest from 12pm to 11pm, so aim to arrive before noon. Turn up at the 8am opening and the courtyards are still mostly yours.
+Weekday mornings between 7am and 10am are the calmest time. That's your window for an empty shot of the drainpipe wall. On weekends, the courtyards get busier from midday onward, so aim to arrive before noon. Turn up at the 8am opening and the courtyards are still mostly yours.
 
 A rainy day isn't bad luck here. It's the only time the Hof der Elemente actually plays.
 

@@ -109,7 +109,7 @@ Take Exit C and head north along Queen Street, keeping Bugis Street's covered ma
 
 The building works on two levels, and knowing the split saves you a wasted lap.
 
-- **Ground floor**: a wet market, fresh produce, fish, meat, and dried goods stalls that open early and wind down by early afternoon.
+- **Ground floor**: a wet market, with stalls selling fresh produce and other goods.
 - **Second floor**: the food centre proper, dozens of cooked-food stalls ringing a communal seating hall.
 
 Head straight upstairs if you're there to eat. The ground floor is worth a quick look on your way up, mostly for the produce and the theatre of vendors calling out prices.
@@ -120,7 +120,7 @@ Albert Centre's stalls lean toward Chinese and Peranakan hawker classics, with a
 
 Expect to find:
 
-- Fishball noodles and bak chor mee (minced pork noodles)
+- Various noodle dishes
 - Char kway teow cooked over high flame woks
 - Nasi lemak and mixed economy rice stalls
 - Fresh fruit juice and traditional dessert stalls (chendol, ice kachang)

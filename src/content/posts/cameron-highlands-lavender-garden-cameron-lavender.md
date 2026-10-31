@@ -114,7 +114,7 @@ Given how popular this stop is, the real skill is timing, not secrecy. This is a
 - **Avoid weekend midday entirely.** 10am–5pm on Saturdays and Sundays is when tour groups peak.
 - **Pay by card or e-wallet** where possible, most Cameron Highlands attractions and cafes now accept both, though small cash is handy for the gift shop.
 - **Skip the identical photo poses.** Everyone lines up at the same arch; walking to the upper terraces usually clears you some space.
-- **Pair it efficiently.** Since it sits near the tea estates and strawberry farms, slot it into a half-day loop rather than a standalone trip, most visitors spend 60–90 minutes here, not a full afternoon.
+- **Pair it efficiently.** Since it sits near the tea estates and strawberry farms, slot it into a half-day loop rather than a standalone trip, not a full afternoon.
 - **Dress for altitude.** Cameron Highlands runs noticeably cooler than the Malaysian lowlands; a light jacket helps, especially in the misty early hours.
 
 The mistake most first-timers make is arriving late morning on a weekend expecting a peaceful stroll. Check the day of the week before you commit to a time slot.

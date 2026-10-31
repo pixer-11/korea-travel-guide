@@ -52,7 +52,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 Two dark-brick towers with green copper spires rise over the eastern edge of Bremen's Marktplatz. They are easy to mistake for medieval work, but they are not. The church below them was founded in the 11th century. The towers you see went up in a big neo-Gothic rebuild in the late 1800s, after centuries of fire, collapse and patching.
 
 That mix is the reason to come. Inside one building you get Romanesque crypts, a Gothic nave, 19th-century stonework and a cellar of mummified bodies. You also get a tower climb with the whole old town below you.
@@ -72,7 +71,7 @@ The setting matters as much as the building. Turn your back to the west front an
 
 The interior is tall, pale and calm next to the square outside. Look for the double-aisled nave, the carved stone pulpit area and the stained glass, much of it from the 19th-century restoration. The cathedral is also known for its organs. The largest is a big Romantic instrument by the Wilhelm Sauer workshop, built in the 1890s.
 
-Go down into the crypts. The east and west crypts are the oldest parts of the building still standing, with squat Romanesque columns and low vaults. This is the closest you'll get to the 11th-century church the editorial summaries describe.
+Go down into the crypts. The east and west crypts are the oldest parts of the building still standing, with squat Romanesque columns and low vaults. This is the closest you'll get to the original 11th-century church.
 
 ## The Bleikeller and the cathedral museum
 

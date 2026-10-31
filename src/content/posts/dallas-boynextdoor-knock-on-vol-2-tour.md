@@ -46,7 +46,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Thursday night in North Texas
 
 The Dallas date falls on Thursday, October 22, 2026. It is a stop on "KNOCK ON Vol.2", the follow-up to BOYNEXTDOOR's first headline tour, "KNOCK ON Vol.1", in 2025.
@@ -64,7 +63,7 @@ Their fandom is called ONEDOOR. That name is printed on the banners and slogans 
 
 ## Venue, tickets and where they live
 
-This guide covers the date and city only. It does not name the hall, because our facts don't include it, and we won't guess a building.
+This guide covers the date and city only. It does not name the venue, since that detail isn't confirmed here.
 
 KOZ Entertainment posts tour notices through its official channels and BOYNEXTDOOR's Weverse community. Those notices carry the venue, door times, ticket links and any membership presale rules. For HYBE tours, Weverse membership often decides presale access, so fans who want the first window usually hold a membership.
 

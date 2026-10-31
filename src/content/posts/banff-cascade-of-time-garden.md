@@ -86,7 +86,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-10-23'
 ---
-
 ## Banff Avenue's other end
 
 Walk south down Banff Avenue and keep going past the shops. You cross the Bow River Bridge, and the street ends at a stone building with a lawn and terraces falling away around it. That building is the Banff Park Administration Building. The terraced slopes around it are Cascade of Time Garden.
@@ -120,7 +119,7 @@ The beds are tended and the slopes are steep. Keep to the paths, and don't climb
 
 Some timing tips, based on how the town works:
 
-- **Early morning:** the garden opens at 8am at the moment, before most day-trippers from Calgary have arrived. It's the best time for clean photos of the terraces.
+- **Early morning:** arriving early, before most day-trippers from Calgary have arrived, is the best time for clean photos of the terraces. Check the Parks Canada site for current opening hours.
 - **Evening:** the current late closing makes it an easy after-dinner stroll from Banff Avenue restaurants. Hours can change through the year, so check the Parks Canada site for this month's times.
 - **Benches:** they're shared. Sit a while, then let the next people have a turn.
 

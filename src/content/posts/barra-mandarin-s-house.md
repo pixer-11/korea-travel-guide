@@ -89,7 +89,7 @@ Barra is the part of the peninsula most visitors reach only for A-Ma Temple. A f
 
 ## The reformer who wrote here
 
-The house belonged to the family of Zheng Guanying, a merchant, comprador and political thinker of the late Qing dynasty. Building began around 1869, and the family added to it over the following decades. Locally it is known by the family name: Zheng Jia Da Wu in Mandarin, or Casa do Mandarim in Portuguese.
+The house belonged to the family of Zheng Guanying, a merchant, comprador and political thinker of the late Qing dynasty. The house was built in the late Qing dynasty, and the family added to it over the following decades. Locally it is known by the family name: Zheng Jia Da Wu in Mandarin, or Casa do Mandarim in Portuguese.
 
 Zheng is remembered for *Shengshi Weiyan*, usually translated as *Words of Warning to a Prosperous Age*. It argued that China needed to modernise its commerce, education and government. The book is often credited with shaping the thinking of later figures, Sun Yat-sen among them, and much of it was written in Macau.
 

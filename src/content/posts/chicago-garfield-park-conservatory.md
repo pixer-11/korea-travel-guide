@@ -71,7 +71,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-17'
 ---
-
 Under nearly two acres of glass, Garfield Park Conservatory grows a jungle in the middle of a city that spends five months a year below freezing. It opened in 1908, designed by Jens Jensen to look like a haystack rather than the ornate Victorian glasshouses common at the time, and the low, curved roofline still reads that way from the park outside.
 
 Inside, the building splits into distinct rooms rather than one big greenhouse. Each has its own climate and its own reason to slow down.
@@ -101,7 +100,7 @@ Wednesday is the one day the conservatory stays open until 8pm. Arriving after 4
 
 The conservatory has its own CTA Green Line stop, Conservatory–Central Park Drive, which lets out close to the main entrance. This is the easiest approach if you're coming from downtown or the Loop.
 
-Driving works too: there's a parking lot on site, and street parking along Central Park Avenue is usually manageable outside weekend peak hours. The surrounding Garfield Park itself has 184 acres to wander, including a fishing lagoon, athletic fields, tennis courts and an outdoor pool, worth a look if the weather's decent and you want to extend the visit.
+Driving works too: there's a parking lot on site, and street parking along Central Park Avenue is usually manageable outside weekend peak hours. The surrounding Garfield Park itself has 184 acres of parkland to wander through, including a fishing lagoon, athletic fields, tennis courts and an outdoor pool, worth a look if the weather's decent and you want to extend the visit.
 
 ## Walking it like a regular
 

@@ -94,12 +94,11 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-10-21'
 ---
-
 ## Bare rock where the river meets the bay
 
 Cape Merry sits at the end of Cape Merry Road, on the west side of the Churchill River mouth. The ground is glacier-scoured Precambrian rock, rounded and cracked and patched with lichen. There are hardly any trees. Across the channel stands Prince of Wales Fort, the Hudson's Bay Company's 18th-century stone fortress.
 
-On the point is the Cape Merry Battery, a low stone gun emplacement built in the 1740s to cover the river entrance together with the fort. Cannon still sit in it. It's part of Prince of Wales Fort National Historic Site, run by Parks Canada. Give it 45 minutes to an hour, or longer when the belugas are running.
+On the point is the Cape Merry Battery, a low stone gun emplacement built in the 1740s to cover the river entrance together with the fort. Cannon still sit in it. It's part of Prince of Wales Fort National Historic Site, run by Parks Canada.
 
 ## What to look for from the point
 

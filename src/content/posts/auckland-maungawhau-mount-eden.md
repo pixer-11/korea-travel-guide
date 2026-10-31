@@ -55,7 +55,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 Halfway up the path, the suburb drops away below you. Villa roofs, Mount Eden Road and the city grid fall behind, and the slope turns into stepped earth terraces under the grass. Those terraces are the remains of a Māori pā. Up top, the ground falls into a bowl so steep and even that it looks pressed out with a giant spoon.
 
 ## A crater you look into, never walk into
@@ -88,7 +87,7 @@ Eden Garden sits on the eastern flank, and Mount Eden Village is at the foot of 
 
 ## Timing your climb around the gates
 
-Hours here run by the clock, and the clock changes. At the moment the summit opens at 7am and closes at 8:30pm every day. Those are this week's times, though, not a permanent schedule. Auckland's maunga change their hours through the year, so check the Tūpuna Maunga Authority website for the current month before you plan an early or late visit.
+Hours here run by the clock, and the clock changes. The summit's opening and closing times shift through the year rather than staying fixed, so check the Tūpuna Maunga Authority website for the current month before you plan an early or late visit.
 
 Sunset is the most popular slot, and the view across the Manukau at golden hour makes it clear why. If you want that view, start climbing well before closing so you aren't rushed off the rim. Early mornings are usually calmer because the visitor groups and school trips haven't arrived yet.
 

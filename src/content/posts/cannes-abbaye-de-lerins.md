@@ -118,7 +118,7 @@ Expect roughly two to three hours to walk the island's perimeter path and see th
 
 ## Timing your visit
 
-Weekdays between 9am and 10am are the calmest hours on the island, right as the first boats land. Weekends are busiest between 11am and 5pm, with crowds easing off outside that window.
+Weekdays between 9am and 10am are the calmest hours on the island, right as the first boats land. Weekends are busiest in the late morning and into the afternoon, with crowds easing off outside that window.
 
 If you're on a weekend trip, take the earliest ferry you can and head straight for the far end of the island before the tour groups catch up. Midweek, that same early slot gives you the cloister and chapels almost to yourself.
 

@@ -78,7 +78,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-10-19'
 ---
-
 ## Stone, gold and a knight with a sword
 
 Look up before you look around. A stone knight stands on the cobbles holding a drawn sword and a shield, and he is facing the cathedral. This is the Roland, raised in 1404 as a sign of the city's freedom. He has watched this square for over six centuries.
@@ -89,7 +88,7 @@ Behind him rises the Town Hall. Its Gothic body dates from the early 1400s. The 
 
 The square is compact, and each side tells you something different.
 
-- **North:** the Town Hall. Beneath it is the Ratskeller, one of Germany's oldest wine cellars, which serves German wines only.
+- **North:** the Town Hall. Beneath it is the Ratskeller, one of Germany's oldest wine cellars.
 - **East:** St. Petri Cathedral. Its twin spires are the tallest thing on the skyline, and the brick-and-sandstone nave is far older than the façades around it.
 - **South:** the Schütting, the old merchants' guild house. Its stepped gable shows how the city made its money.
 - **Also east:** the Haus der Bürgerschaft, the state parliament. It is a glass-and-concrete building from the 1960s, and it divides opinion among Bremers to this day.

@@ -107,7 +107,7 @@ The temple closes for a few hours in the middle of the day, and plenty of visito
 - **Monday–Friday:** 9am–1pm and 5pm–9pm
 - **Saturday–Sunday:** 9am–2:30pm and 4pm–9pm
 
-Weekends are busy from 10am right through to 9pm. If you want space to look at each shrine properly, come on a weekday. Allow 45 minutes to an hour for a walk-round, and longer if you stay for a puja.
+Weekends are busy throughout both the morning and evening sessions. If you want space to look at each shrine properly, come on a weekday. Allow 45 minutes to an hour for a walk-round, and longer if you stay for a puja.
 
 ## Shoes off, then a clockwise walk
 

@@ -110,7 +110,7 @@ Down the centre of the floor runs the Meridian Line, a long sundial once used to
 
 - Main nave and chapels: free entry
 - Small fee for closer chapel access and the rooftop terraces
-- Terraces offer a rare street-level view over Piazza Maggiore's rooftops
+- Terraces offer an elevated view over Piazza Maggiore's rooftops
 
 ## When to go
 

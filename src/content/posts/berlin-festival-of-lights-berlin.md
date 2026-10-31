@@ -72,4 +72,4 @@ A few habits help at events like this:
 - **Stepping back pays off.** The best view of the Berliner Dom is from the Lustgarten lawn, not the steps. At the Gate, Pariser Platz gives the full facade.
 - **The U5 links the route.** Its stops, Brandenburger Tor, Unter den Linden, Museumsinsel, Rotes Rathaus and Alexanderplatz, make it easy to skip stretches when legs give out.
 - **Compact tripods suit the crowds.** Crowds pack tight in front of the main facades. Most people shoot handheld with a phone's night mode.
-- **Card works in most places.** Card is widely accepted at the Christmas-style food stalls and bars near the route, though smaller kiosks often take only euros in cash.
+- **Card works in most places.** It's worth carrying some cash as a backup, since acceptance can vary from stall to stall along the route.

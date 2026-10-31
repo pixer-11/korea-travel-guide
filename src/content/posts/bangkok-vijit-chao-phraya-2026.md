@@ -39,7 +39,6 @@ heroImage:
     x: 55
     'y': 55
 ---
-
 ## A month of light on Bangkok's river
 
 Bangkok's widest street is water. From November 13 to December 13, 2026, VIJIT CHAO PHRAYA uses the Chao Phraya River as the stage for a light and sound festival. Temple walls, bridges and riverside buildings carry illumination displays after dark.
@@ -77,7 +76,7 @@ The Chao Phraya Tourist Boat, marked with a blue flag, is the simpler hop-on opt
 
 ## Watching from the bank like a Bangkokian
 
-Most people watching from land never pay for a seat. In earlier editions, the public riverbanks were open to anyone, and families spread out along the promenades. Here is how the evening usually works:
+Most people watching from land never pay for a seat. In earlier editions, the public riverbanks were open to anyone, and families spread out along the promenades. Good vantage points include:
 
 - **Santichaiprakan Park**, beside the white Phra Sumen Fort in Banglamphu, faces Rama VIII Bridge head-on. Locals sit on the lawn and on the river wall.
 - **Tha Tien's riverside bars and rooftops** look straight across at Wat Arun. They fill fast on festival nights, and regulars book tables days in advance.

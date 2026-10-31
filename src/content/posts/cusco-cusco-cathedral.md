@@ -54,7 +54,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Granite from the Inca city
 
 From the Plaza de Armas, the cathedral is a wide, low wall of reddish-brown stone. It sits above a flight of steps on the plaza's northeast side. Two squat bell towers bracket a carved Renaissance-baroque facade, and the stonework comes from the Inca city that stood here first. Much of that granite was hauled down from Sacsayhuamán, the fortress on the hill above town.
@@ -80,7 +79,7 @@ The Cusco School is the main reason the editorial summary stresses colonial pain
 
 ## The Lord of the Earthquakes
 
-To one side of the nave hangs a darkened crucifix known as the Señor de los Temblores, the Lord of the Earthquakes. Cusqueños credit it with protecting the city during the earthquake of 1650. Centuries of candle smoke have turned the figure nearly black.
+To one side of the nave hangs a darkened crucifix known as the Señor de los Temblores, the Lord of the Earthquakes. The name reflects a long-standing devotion tied to the city's history of earthquakes. Centuries of candle smoke have turned the figure nearly black.
 
 Every Holy Monday, the week before Easter, the crucifix is carried out through the Plaza de Armas in one of the city's biggest processions. Red ñucchu flowers are thrown over it from balconies along the route. If your trip falls in Semana Santa, plan around crowds on the plaza and a packed cathedral.
 
@@ -90,7 +89,7 @@ High in the north tower hangs the María Angola bell, cast in the 17th century a
 
 The hours are unusual. Google currently shows the cathedral open in two short blocks every day: 6:00–7:00am and 8:00–9:00am. That pattern fits morning Masses rather than a tourist schedule. If you want to see the interior during these windows, you'd be arriving for worship, not a museum visit.
 
-Tourist visiting arrangements for churches in Cusco are often separate from Mass and change through the year and on religious holidays. Check the archdiocese's official information or ask at the door on the plaza before planning your day around it. Don't rely on turning up mid-afternoon on the off chance.
+Visiting hours for tourists at Cusco's churches change through the year and around religious holidays. Check the archdiocese's official information or ask at the door on the plaza before planning your day around it. Don't rely on turning up mid-afternoon on the off chance.
 
 Admission for visitors is usually sold separately from the city's general tourist ticket, and Cusco's religious-circuit ticket has covered the cathedral along with churches such as San Blas. Current prices are posted at the entrance and on the official site. A proper look at the paintings takes about an hour. Add time if you want to see all three churches.
 

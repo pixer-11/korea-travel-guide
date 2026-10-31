@@ -36,7 +36,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A December race on the river
 
 The Can Tho Heritage Marathon takes place on December 20, 2026. It is an annual international road race, and it is staged in a city built around water. Can Tho sits on the Hau River, the southern arm of the Mekong, and its centre faces the river at Ninh Kieu wharf.
@@ -57,7 +56,7 @@ Visitors usually stay in Ninh Kieu district. It is the walkable riverside core, 
 
 The organiser publishes the start location, distance categories, cut-off times and race-kit collection details on its official race page. Registration also runs through that page. These details belong to the organiser, so this guide does not guess at them.
 
-What is stable is the pattern. Road races in southern Vietnam start in the dark to beat the heat, often before 5am, and the course closes by mid-morning. Runners typically collect bibs a day or two before. Most stay within a short ride of the start, because traffic closures make pre-dawn transport slow.
+What is stable is the pattern. Road races in southern Vietnam start early in the morning to beat the heat, and the course closes by mid-morning. Runners typically collect bibs a day or two before. Most stay within a short ride of the start, because traffic closures make pre-dawn transport slow.
 
 ## How runners spend race morning and the day after
 

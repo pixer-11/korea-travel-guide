@@ -84,7 +84,7 @@ The dome sits at the junction of Bukhara's historic covered bazaar streets, an e
 
 Inside, the layout is simple: a raised central octagon under the dome, ringed by smaller shop cells and radiating corridors. Look up first. The brickwork ribbing and small skylights are the real architectural payoff, not the modern souvenir tables beneath them.
 
-Give it 15 to 20 minutes if you're moving through the bazaar quarter, longer if you want to browse or chat with a stallholder about a piece of jewelry.
+Give it a short while if you're passing through the bazaar quarter, longer if you want to browse or chat with a stallholder about a piece of jewelry.
 
 ## What to see and buy
 

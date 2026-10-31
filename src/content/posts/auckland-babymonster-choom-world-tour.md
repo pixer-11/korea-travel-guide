@@ -45,7 +45,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A Tuesday night on the waterfront
 
 This one is a school-night show. On Tuesday 8 December 2026, BABYMONSTER brings the CHOOM World Tour to Spark Arena, Auckland's largest indoor concert venue. *Choom* (춤) is the Korean word for dance, which fits a group whose choreography gets dissected frame by frame online.
@@ -54,7 +53,7 @@ December is early summer in Auckland. The evenings stay light late, so fans head
 
 ## Who you are seeing
 
-BABYMONSTER is a seven-member girl group from YG Entertainment, the agency behind BLACKPINK and BIGBANG. The members are Ruka, Pharita, Asa, Ahyeon, Rami, Rora and Chiquita. They come from Korea, Japan and Thailand, so expect a mix of languages in the stage talk between songs.
+BABYMONSTER is a seven-member girl group from YG Entertainment, the agency behind BLACKPINK and BIGBANG. The members are Ruka, Pharita, Asa, Ahyeon, Rami, Rora and Chiquita. They come from Korea, Japan and Thailand, reflecting the group's international line-up.
 
 The group's breakout came with "Sheesh" in 2024. Their first full album, *Drip*, followed later that year. The setlist and running order for this tour are not part of what we know, so this guide doesn't guess at them.
 

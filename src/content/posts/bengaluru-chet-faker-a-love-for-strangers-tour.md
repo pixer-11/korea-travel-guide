@@ -44,7 +44,7 @@ draft: false
 ---
 ## Venue and timing
 
-The specific venue for the Bengaluru date isn't detailed in the tour information here. Indian tour stops of this scale typically land in one of the city's mid-to-large indoor venues or outdoor grounds equipped for international production. The exact address, doors time and curfew sat with the promoter. Once that location is known, it's what decides which part of the city makes sense as a base.
+The specific venue for the Bengaluru date isn't detailed in the available tour information. Indian tour stops of this scale typically land in one of the city's mid-to-large indoor venues or outdoor grounds equipped for international production. The exact address, doors time and curfew sat with the promoter. Once that location is known, it's what decides which part of the city makes sense as a base.
 
 ## Getting tickets without overpaying
 
@@ -72,4 +72,4 @@ Cash is rarely needed inside; most concession stands and bars at Indian venues t
 
 ## The trip around the show
 
-Beyond the date and the city, the specifics of this one sat with the promoter: venue, doors time, ticket tiers and any support acts. Those details shape the rest of the logistics, since Bengaluru's traffic and metro coverage vary sharply by part of the city, and a venue in the core makes for a very different evening than one out past the ring road.
+Beyond the date and the city, the specifics, venue, doors time, ticket tiers and any support acts, sat with the promoter. Those details shape the rest of the logistics, since Bengaluru's traffic and metro coverage vary sharply by part of the city, and a venue in the core makes for a very different evening than one out past the ring road.

@@ -66,12 +66,11 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A stockade by the river
 
 Walk south down Banff Avenue and cross the Bow River Bridge. On your right, set back from Birch Avenue, is a building with a log palisade, the kind of frontier fort a film would use. That is the Buffalo Nations Museum, still often called by its older name, the Luxton Museum.
 
-Norman Luxton built it in the early 1950s. He was a Banff trader and promoter with close ties to the Stoney Nakoda, and he was tied up with Banff Indian Days, the summer gathering that brought First Nations families into town for decades. The collection grew out of those relationships.
+Norman Luxton founded the museum. He was a Banff trader and promoter with close ties to the Stoney Nakoda, and he was tied up with Banff Indian Days, the summer gathering that brought First Nations families into town for decades. The collection grew out of those relationships.
 
 ## Inside the log walls
 

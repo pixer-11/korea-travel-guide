@@ -45,7 +45,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## One date, one open-air stage
 
 Dubai gets one night of this tour. Indian singer-songwriter Anuv Jain brings his Dastakhat World Tour to the Dubai Millennium Amphitheatre at Expo City Dubai on **November 20, 2026**.
@@ -66,7 +65,7 @@ What's reliably true is how his shows feel. The quiet songs turn into a crowd si
 
 The amphitheatre is one of Expo City Dubai's outdoor venues. It's an open-air bowl on the former Expo 2020 site, with tiered seating curving around the stage. There's no roof between you and the sky.
 
-That suits November. Late autumn is when Dubai's evenings cool off, typically into the mid-20s Celsius, and outdoor concerts come back after the summer heat. A light layer covers the breeze late in the night.
+That suits November. Late autumn is when Dubai's evenings cool off, and outdoor concerts come back after the summer heat. A light layer covers the breeze late in the night.
 
 The Expo grounds are built for walking: wide shaded paths, signposted plazas and plenty of seating. Getting from the station or the car parks to the amphitheatre is a walk across the site, not a quick hop.
 

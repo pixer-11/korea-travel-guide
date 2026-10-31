@@ -44,7 +44,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Two nights on Mahuhu Crescent
 
 Spark Arena stands at the end of Mahuhu Crescent, below Parnell, with the railway lines and the port behind it. On November 7 and 8, 2026, Iron Maiden plays that bowl with Megadeth on the same bill. Both nights are in Auckland, at the same venue.
@@ -63,7 +62,7 @@ Running order, set times and set lists are not part of what is known here. They 
 
 ## Inside Spark Arena
 
-The arena opened in 2007 as Vector Arena. It holds around 12,000 people for concerts and is Auckland's main indoor venue for big touring acts. The layout is a standard bowl:
+Spark Arena holds around 12,000 people for concerts and is Auckland's main indoor venue for big touring acts. The layout is a standard bowl:
 
 - **The floor**: usually standing general admission for rock shows, with the densest crowd at the front.
 - **Lower tiers**: raked seating close to the stage, with a clear sightline over the floor.

@@ -140,6 +140,6 @@ Barbecues are only allowed where signs say so. Check before you unpack a grill.
 
 Tiergarten is open 24 hours, every day. Even so, the clock matters more than you'd think in a park this popular.
 
-On weekends it's calmest from 7am–9am. At that hour you mostly share the paths with joggers and dog walkers, and the light falls low across the canals. Try to avoid arriving between 10am and 8pm on a weekend. That's when families, picnic groups and tourists walking from the Brandenburg Gate fill the main routes and the lakeside seats.
+On weekends it's calmest from 7am–9am. At that hour you mostly share the paths with joggers and dog walkers, and the light falls low across the canals. Try to avoid arriving in the afternoon on a weekend. That's when families, picnic groups and tourists walking from the Brandenburg Gate fill the main routes and the lakeside seats.
 
 Allow time for the Victory Column and a lakeside loop. Make it half a day if you add the memorials, a beer garden and the gas lamps. After dark the park is large and poorly lit away from the boulevard, so stick to the main paths if you cross it at night.

@@ -36,7 +36,6 @@ heroImage:
     x: 50
     'y': 40
 ---
-
 ## Sixteen days of stage work in Pathum Wan
 
 The 24th Bangkok Theatre Festival runs from November 14 to 29, 2026. Its programme covers theatre, contemporary performance and movement works, so a single evening can hold a scripted drama and a wordless dance piece.
@@ -67,7 +66,7 @@ Ticket prices vary by production and appear on each show's listing.
 
 ## Around the venues between shows
 
-Back-to-back evenings are easy here because so much is close by. From BACC, **MBK Center** sits directly across the intersection, and its food court is quick and cheap. **Siam Discovery** and **Siam Paragon** are one stop east along Rama I.
+Back-to-back evenings are easy here because so much is close by. From BACC, **MBK Center** sits directly across the intersection, with floors of shops and a food court. **Siam Discovery** and **Siam Paragon** are one stop east along Rama I.
 
 **Jim Thompson House**, the teak-house museum by the Saen Saep canal, is a short walk from National Stadium station. It fills a daytime gap before an evening performance well.
 

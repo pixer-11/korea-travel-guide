@@ -40,7 +40,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A Wednesday night of K-pop in Barcelona
 
 Korea Spotlight comes back to Barcelona on Wednesday, November 25, 2026. It is a showcase, not a single-artist tour stop. The format exists to put Korean acts in front of European audiences and industry.
@@ -67,7 +66,7 @@ The avenue is one of the easiest places in Barcelona to reach by metro. Two stat
 - **Poble Sec** (L3), a few blocks further along the avenue
 - **Drassanes** (L3), near the bottom of La Rambla, if you are walking in from the old town
 
-Most visitors on a few days' stay buy a T-casual, the ten-journey metro and bus card, from station machines. On weeknights the metro stops running around midnight, so late finishers usually rely on the NitBus night buses or a taxi along the Paral·lel itself. Line 3 is known for pickpockets, and a phone in a back pocket does not stay there long.
+Most visitors on a few days' stay buy a T-casual, the ten-journey metro and bus card, from station machines. On weeknights the metro stops running around midnight, so late finishers usually rely on the NitBus night buses or a taxi along the Paral·lel itself. As on any crowded metro line, it's worth keeping a phone or wallet in a front pocket or zipped bag rather than somewhere easy to lift.
 
 ## How the crowd works at a K-pop showcase
 

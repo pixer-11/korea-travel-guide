@@ -72,7 +72,6 @@ faq:
 aiGenerated: true
 updatedDate: '2026-10-03'
 ---
-
 ## A table beside the Frauenkirche
 
 The address does most of the selling here. Pulverturm sits at An der Frauenkirche 12, so the sandstone dome of Dresden's most photographed church is just outside the door. Neumarkt fills the space between them, with its rebuilt baroque facades in pastel ochre and cream.
@@ -104,7 +103,7 @@ Hours at a glance:
 - **Friday and Saturday:** 11am to midnight
 - **Sunday:** 11am to 11pm
 
-Friday and Saturday run until midnight. That gives you room for a late dinner after a performance at the Semperoper, around ten minutes' walk away.
+Friday and Saturday run until midnight. That gives you room for a late dinner after a performance at the Semperoper, a short walk away.
 
 ## Booking, tipping and paying the bill
 

@@ -55,12 +55,9 @@ The pairing is a deliberate contrast. One act built a career on piano-led heartb
 
 ## Two sets, two very different crowds
 
-Expect the mood to change between the two sets. Capaldi's best-known songs are the slow ones:
+Expect the mood to change between the two sets. Capaldi is known for slow, piano-led ballads that tend to turn into crowd singalongs.
 
-- "Someone You Loved"
-- "Survive"
-
-Larsson works at a faster tempo. Her catalogue includes "Lush Life", "Never Forget You", "Ain't My Fault" and "Symphony", her hit with Clean Bandit. Neither artist's setlist or running order is part of our verified material, so we have left both out here.
+Larsson works at a faster tempo, built around dance-pop. Neither artist's setlist or running order is part of our verified material, so we have left both out here.
 
 Capaldi is also known for the dry, self-mocking chat between songs. Talking is part of his show, and audiences tend to go quiet for it.
 

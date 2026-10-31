@@ -51,7 +51,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A timber pagoda where Banff Avenue ends
 
 Walk south down Banff Avenue and the shops run out at the river. Just before the Bow River Bridge, set back among trees on the edge of Central Park, there is a building that looks nothing like the rest of the street. It is dark timber, built in layers, with flared rooflines that people often call "railway pagoda" style.
@@ -89,7 +88,7 @@ Parking in the downtown core fills up and the rules change, so check the Town of
 
 The schedule catches people out. Right now the museum opens 9:30am–5pm on Monday, Thursday, Friday, Saturday and Sunday, and it is **closed Tuesday and Wednesday**. If your Banff trip falls midweek, plan it for the start or end of your stay.
 
-These are this week's hours, not fixed ones. Parks Canada sites change their schedules by season and may close on some holidays, so check the official Banff Park Museum page for this month's times. Admission is charged. The current fee is posted there and at the door.
+These are this week's hours, not fixed ones. Parks Canada sites change their schedules by season and may close on some holidays, so check the official Banff Park Museum page for this month's times. Admission is charged; check the official page for the current fee.
 
 An hour is enough for most people. Allow longer if you read every label or come back down to the main floor after the gallery. It suits a wet afternoon well, when the trails are poor and the town is full of people with nowhere to go.
 
