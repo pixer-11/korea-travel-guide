@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: dusseldorf-konigsallee
-srcHash: '7348543befac'
+srcHash: '4ca15d048273'
 title: 国王大道（Königsallee）：杜塞尔多夫旅行指南（4.6★）
-description: 国王大道（Königsallee）被当地人简称为“Kö”，是杜塞尔多夫市中心的购物大街。评分4.6★（3,347条评价），本文汇总游客评价、开放时间与实用贴士。
+description: 国王大道（Königsallee）被当地人简称为“Kö”，是杜塞尔多夫市中心的购物大街。评分4.6★（3,348条评价），本文汇总游客评价、开放时间与实用贴士。
 quickAnswer: 国王大道（Königsallee）被当地人简称为“Kö”，是杜塞尔多夫市中心的购物大街。大道从宫廷花园（Hofgarten）向南延伸约一公里，直抵格拉夫-阿道夫广场（Graf-Adolf-Platz），中央是一条绿树夹岸的运河。建议乘地铁（U-Bahn）到Heinrich-Heine-Allee站或Steinstraße/Königsallee站下车，沿运河从头走到尾大约需要30分钟。周日大多数商店不营业，不妨把这一天留给散步。
 faq:
   - q: 怎样乘公共交通前往国王大道？

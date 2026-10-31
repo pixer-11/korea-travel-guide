@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: oxford-the-covered-market
-srcHash: 'ef6a1d294346'
+srcHash: '0de5b91cba2c'
 title: 'Covered Market: guía de viaje de Oxford (4.5★)'
-description: En Market Street, entre High Street y Cornmarket, el Covered Market de Oxford reúne bajo un mismo techo georgiano carnicerías, panaderías, cafeterías y pequeñas tiendas. Con una valoración de 4.5★ (11,940 reseñas), le contamos qué opinan los visitantes, cuál es el horario y algunos consejos prácticos.
+description: En Market Street, entre High Street y Cornmarket, el Covered Market de Oxford reúne bajo un mismo techo georgiano carnicerías, panaderías, cafeterías y pequeñas tiendas. Con una valoración de 4.5★ (11,942 reseñas), le contamos qué opinan los visitantes, cuál es el horario y algunos consejos prácticos.
 quickAnswer: En Market Street, entre High Street y Cornmarket, se encuentra el Covered Market de Oxford, un mercado cubierto de época georgiana que reúne bajo un mismo techo carnicerías, panaderías, cafeterías y pequeñas tiendas. Entre semana, el momento más tranquilo es de 8am a 10am. Los fines de semana conviene ir de 8am a 11am o de 9pm a 10pm y evitar la franja de 11am a 6pm, cuando los pasillos se llenan de gente.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Covered Market?

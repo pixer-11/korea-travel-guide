@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: lake-louise-fairmont-chateau-lake-louise
-srcHash: 'ff0444276a70'
+srcHash: 'dfb0640878ed'
 title: 'Fairmont Chateau: guía de viaje de Lake Louise (4.6★)'
 description: El Fairmont Chateau Lake Louise, gran hotel nacido en la época del ferrocarril, se alza en la orilla oriental del lago Louise, dentro del Parque Nacional Banff (Alberta), frente al glaciar Victoria. Tiene una valoración de 4.6★ en 24,741 reseñas. Aquí encontrará opiniones de visitantes, horarios y consejos.
 quickAnswer: En la orilla oriental del lago Louise, dentro del Parque Nacional Banff (Alberta), se levanta el Fairmont Chateau Lake Louise. Es un gran hotel de la época dorada del ferrocarril, con el glaciar Victoria justo enfrente, al otro lado del agua. Cualquier persona puede recorrer la orilla, el vestíbulo y los restaurantes. En verano, el estacionamiento público de Parks Canada se llena muy pronto, así que la mayoría de los visitantes de un día llega en la lanzadera de Parks Canada o a primerísima hora.

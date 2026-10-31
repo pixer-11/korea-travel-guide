@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: oxford-the-covered-market
-srcHash: 'ef6a1d294346'
+srcHash: '0de5b91cba2c'
 title: 牛津室内市场（Covered Market）旅行指南（4.5★）
-description: 牛津室内市场是一座乔治王时代风格的室内市场，位于高街与Cornmarket之间的Market Street。肉铺、面包店、咖啡馆和各色小店都聚在同一个屋顶下。4.5★（11,940条评价），本文汇总游客评价、营业时间和游览建议。
+description: 牛津室内市场是一座乔治王时代风格的室内市场，位于高街与Cornmarket之间的Market Street。肉铺、面包店、咖啡馆和各色小店都聚在同一个屋顶下。4.5★（11,942条评价），本文汇总游客评价、营业时间和游览建议。
 quickAnswer: 牛津室内市场是一座乔治王时代风格的室内市场，位于高街与Cornmarket之间的Market Street。肉铺、面包店、咖啡馆和各色小店都聚在同一个屋顶下。工作日8:00–10:00人最少。周末建议8:00–11:00或21:00–22:00前往。11:00–18:00的通道挤满人潮，最好避开。
 faq:
   - q: 什么时候去室内市场人最少？

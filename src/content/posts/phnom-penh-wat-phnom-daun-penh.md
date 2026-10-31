@@ -1,31 +1,37 @@
 ---
 title: 'Wat Phnom Daun Penh: Phnom Penh Travel Guide (4.4★)'
-description: Wat Phnom Daun Penh is the hilltop temple that gives Phnom Penh its name, set on a small mound at the north end of the city's riverside grid. 4.4★ (9,539 reviews) — what visitors say, hours, and tips.
+description: >-
+  Wat Phnom Daun Penh is the hilltop temple that gives Phnom Penh its name, set
+  on a small mound at the north end of the city's riverside grid. 4.4★ (9,667
+  reviews) — what visitors say, hours, and tips.
 country: Cambodia
 region: Phnom Penh
 category: attraction
 pubDate: '2026-08-26T09:32:43.261Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Wat_Phnom_Daun_Penh%2C_10.jpg/1920px-Wat_Phnom_Daun_Penh%2C_10.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Wat_Phnom_Daun_Penh%2C_10.jpg/1920px-Wat_Phnom_Daun_Penh%2C_10.jpg
   credit: 'Photo: Pierre André / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Wat_Phnom_Daun_Penh,_10.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Wat_Phnom_Daun_Penh,_10.jpg'
   via: act
   focus:
     x: 50
     'y': 40
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Wat_Phnom_Daun_Penh%2C_%285%29.jpg/1920px-Wat_Phnom_Daun_Penh%2C_%285%29.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Wat_Phnom_Daun_Penh%2C_%285%29.jpg/1920px-Wat_Phnom_Daun_Penh%2C_%285%29.jpg
     credit: 'Photo: Pierre André / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Wat_Phnom_Daun_Penh,_(5).jpg
+    source: 'https://commons.wikimedia.org/wiki/File:Wat_Phnom_Daun_Penh,_(5).jpg'
 place:
   id: ChIJEfPby0RRCTERZOuHF6zhiCU
   name: Wat Phnom Daun Penh
-  address: ផ្លូវវត្តភ្នំ, Phnom Penh, Cambodia
+  address: 'ផ្លូវវត្តភ្នំ, Phnom Penh, Cambodia'
   rating: 4.4
-  userRatingsTotal: 9539
-  googleMapsUrl: https://maps.google.com/?cid=2704659705481390948&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 9667
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2704659705481390948&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 11.5761468
   lng: 104.9230891
@@ -55,20 +61,35 @@ place:
 tags:
   - phnom penh
   - historic site
-quickAnswer: Wat Phnom Daun Penh is the hilltop temple that gives Phnom Penh its name, set on a small mound at the north end of the city's riverside grid. It's open daily 7am–7pm, and the calmest window is 7am–9am before tour groups and monkeys take over; avoid 5pm–7pm on weekends, when it's busiest. Budget 45 minutes to an hour, plus a small entry fee for foreign visitors.
+quickAnswer: >-
+  Wat Phnom Daun Penh is the hilltop temple that gives Phnom Penh its name, set
+  on a small mound at the north end of the city's riverside grid. It's open
+  daily 7am–7pm, and the calmest window is 7am–9am before tour groups and
+  monkeys take over; avoid 5pm–7pm on weekends, when it's busiest. Budget 45
+  minutes to an hour, plus a small entry fee for foreign visitors.
 faq:
   - q: What are the opening hours for Wat Phnom Daun Penh?
-    a: It's open every day from 7:00 AM to 7:00 PM, with no weekly closing day.
+    a: 'It''s open every day from 7:00 AM to 7:00 PM, with no weekly closing day.'
   - q: When is the quietest time to visit?
-    a: Weekdays between 7am and 8am are calmest; on weekends the quiet window stretches slightly to 7am–9am. Avoid weekend evenings from 5pm to 7pm, the busiest stretch.
+    a: >-
+      Weekdays between 7am and 8am are calmest; on weekends the quiet window
+      stretches slightly to 7am–9am. Avoid weekend evenings from 5pm to 7pm, the
+      busiest stretch.
   - q: How do I get to Wat Phnom from the riverside?
-    a: It's a 15–20 minute walk from the Royal Palace or Sisowath Quay, or a short, cheap tuk-tuk ride — drivers know it simply as 'Wat Phnom'.
+    a: >-
+      It's a 15–20 minute walk from the Royal Palace or Sisowath Quay, or a
+      short, cheap tuk-tuk ride — drivers know it simply as 'Wat Phnom'.
   - q: How long should I plan for the visit?
-    a: Most visitors spend 45 minutes to an hour, enough time to climb the steps, tour the main vihara, see the royal stupa, and take in the view.
+    a: >-
+      Most visitors spend 45 minutes to an hour, enough time to climb the steps,
+      tour the main vihara, see the royal stupa, and take in the view.
   - q: Is there an entrance fee?
-    a: Foreign visitors typically pay a small entry fee in cash at the base of the steps; bring small bills since card payment isn't accepted.
+    a: >-
+      Foreign visitors typically pay a small entry fee in cash at the base of
+      the steps; bring small bills since card payment isn't accepted.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-31'
 ---
 Wat Phnom Daun Penh sits on the only real hill in a city that's otherwise flat as a rice paddy, and that alone explains why it matters. Legend says a woman named Penh found four Buddha statues washed up on the Mekong and built a shrine here in the 14th century, giving the capital its name, "Penh's Hill." What stands today is newer, but the site's gravity as the spiritual anchor of Phnom Penh hasn't changed in six centuries.
 

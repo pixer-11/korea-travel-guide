@@ -1,60 +1,87 @@
 ---
-title: "Independence Monument: Phnom Penh Travel Guide (4.5★)"
-description: "Independence Monument in Phnom Penh sits at the intersection of Norodom Boulevard and Sihanouk Boulevard, right in the heart of the city's diplomatic quarter. 4.5★ (5,338 reviews) — what visitors say, hours, and tips."
-country: "Cambodia"
-region: "Phnom Penh"
-category: "hidden-gem"
-pubDate: "2026-08-24T09:42:16.005Z"
+title: 'Independence Monument: Phnom Penh Travel Guide (4.5★)'
+description: >-
+  Independence Monument in Phnom Penh sits at the intersection of Norodom
+  Boulevard and Sihanouk Boulevard, right in the heart of the city's diplomatic
+  quarter. 4.5★ (5,386 reviews) — what visitors say, hours, and tips.
+country: Cambodia
+region: Phnom Penh
+category: hidden-gem
+pubDate: '2026-08-24T09:42:16.005Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/02-Independence_Monument_Phnom_Penh-nX-3.jpg/3840px-02-Independence_Monument_Phnom_Penh-nX-3.jpg"
-  credit: "Photo: PsamatheM / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:02-Independence_Monument_Phnom_Penh-nX-3.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/02-Independence_Monument_Phnom_Penh-nX-3.jpg/3840px-02-Independence_Monument_Phnom_Penh-nX-3.jpg
+  credit: 'Photo: PsamatheM / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:02-Independence_Monument_Phnom_Penh-nX-3.jpg
+  via: act
   focus:
     x: 51
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/02-Independence_Monument_Phnom_Penh-nX-5.jpg/3840px-02-Independence_Monument_Phnom_Penh-nX-5.jpg"
-    credit: "Photo: PsamatheM / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:02-Independence_Monument_Phnom_Penh-nX-5.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/02-Independence_Monument_Phnom_Penh-nX-5.jpg/3840px-02-Independence_Monument_Phnom_Penh-nX-5.jpg
+    credit: 'Photo: PsamatheM / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:02-Independence_Monument_Phnom_Penh-nX-5.jpg
 place:
-  id: "ChIJ42tqxz1RCTERsG1wcg9Cxeo"
-  name: "Independence Monument"
-  address: "Norodom Blvd, 41, Phnom Penh, Cambodia"
+  id: ChIJ42tqxz1RCTERsG1wcg9Cxeo
+  name: Independence Monument
+  address: 'Norodom Blvd, 41, Phnom Penh, Cambodia'
   rating: 4.5
-  userRatingsTotal: 5338
-  googleMapsUrl: "https://maps.google.com/?cid=16917000209399049648&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 5386
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16917000209399049648&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 11.5564249
   lng: 104.92820739999999
-  phone: "+855 96 563 8118"
+  phone: +855 96 563 8118
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "phnom penh"
-  - "hidden gem"
-quickAnswer: "Independence Monument in Phnom Penh sits at the intersection of Norodom Boulevard and Sihanouk Boulevard, right in the heart of the city's diplomatic quarter. It's open 24 hours and free to view from outside, so the best time to visit is dusk when the tower is lit red-orange and the surrounding roundabout traffic calms slightly. Give it 15-20 minutes on foot, then continue to nearby riverside spots for a fuller evening."
+  - phnom penh
+  - hidden gem
+quickAnswer: >-
+  Independence Monument in Phnom Penh sits at the intersection of Norodom
+  Boulevard and Sihanouk Boulevard, right in the heart of the city's diplomatic
+  quarter. It's open 24 hours and free to view from outside, so the best time to
+  visit is dusk when the tower is lit red-orange and the surrounding roundabout
+  traffic calms slightly. Give it 15-20 minutes on foot, then continue to nearby
+  riverside spots for a fuller evening.
 faq:
-  - q: "Where exactly is Independence Monument located?"
-    a: "It stands at the roundabout where Norodom Boulevard meets Sihanouk Boulevard in central Phnom Penh, a short walk south of the Royal Palace and Wat Botum Park."
-  - q: "Is there an entrance fee or set opening hours?"
-    a: "No — it's a public monument on a traffic circle, open 24 hours with no ticket or entrance fee. You view it from outside rather than going in."
-  - q: "What's the best time to visit for photos?"
-    a: "Just after sunset, when floodlights turn the tower a deep orange-red. Midday visits are hot, noisy, and less photogenic."
-  - q: "How much time should I plan for the visit?"
-    a: "15-20 minutes is enough to walk around and photograph it, or longer if you combine it with a stroll through adjacent Wat Botum Park."
-  - q: "How do I get there without a car?"
-    a: "Tuk-tuks and ride-hailing apps like Grab or PassApp are the easiest options in Phnom Penh. Tell your driver \"Vimean Ekareach,\" the Khmer name for the monument."
+  - q: Where exactly is Independence Monument located?
+    a: >-
+      It stands at the roundabout where Norodom Boulevard meets Sihanouk
+      Boulevard in central Phnom Penh, a short walk south of the Royal Palace
+      and Wat Botum Park.
+  - q: Is there an entrance fee or set opening hours?
+    a: >-
+      No — it's a public monument on a traffic circle, open 24 hours with no
+      ticket or entrance fee. You view it from outside rather than going in.
+  - q: What's the best time to visit for photos?
+    a: >-
+      Just after sunset, when floodlights turn the tower a deep orange-red.
+      Midday visits are hot, noisy, and less photogenic.
+  - q: How much time should I plan for the visit?
+    a: >-
+      15-20 minutes is enough to walk around and photograph it, or longer if you
+      combine it with a stroll through adjacent Wat Botum Park.
+  - q: How do I get there without a car?
+    a: >-
+      Tuk-tuks and ride-hailing apps like Grab or PassApp are the easiest
+      options in Phnom Penh. Tell your driver "Vimean Ekareach," the Khmer name
+      for the monument.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-31'
 ---
 ## Why go
 

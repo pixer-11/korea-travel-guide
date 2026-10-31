@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: dusseldorf-konigsallee
-srcHash: '7348543befac'
+srcHash: '4ca15d048273'
 title: 'Königsallee: guía de viaje de Düsseldorf (4.6★)'
-description: La Königsallee, conocida como la «Kö», es el gran bulevar comercial del centro de Düsseldorf. Con 4.6★ (3,347 reseñas), le contamos qué opinan los visitantes, los horarios y consejos útiles.
+description: La Königsallee, conocida como la «Kö», es el gran bulevar comercial del centro de Düsseldorf. Con 4.6★ (3,348 reseñas), le contamos qué opinan los visitantes, los horarios y consejos útiles.
 quickAnswer: La Königsallee, o «Kö», es el bulevar de las compras en pleno centro de Düsseldorf. Desde el Hofgarten se extiende hacia el sur, en dirección a la Graf-Adolf-Platz, a lo largo de aproximadamente un kilómetro, y la recorre por el medio un canal flanqueado de árboles. Lo más práctico es llegar en U-Bahn a Heinrich-Heine-Allee o a Steinstraße/Königsallee. Recorrer el canal de punta a punta lleva unos 30 minutos. El domingo conviene reservarlo para pasear, ya que la mayoría de las tiendas cierran.
 faq:
   - q: ¿Cómo se llega a la Königsallee en transporte público?

@@ -1,52 +1,81 @@
 ---
-title: "Fairmont Chateau: Lake Louise Travel Guide (4.6★)"
-description: "Fairmont Chateau Lake Louise is the grand railway-era hotel on the east shore of Lake Louise in Banff National Park, Alberta, facing Victoria Glacier across the water. 4.6★ (24,741 reviews) — what visitors say, hours, and tips."
-country: "Canada"
-region: "Lake Louise"
-category: "hidden-gem"
-pubDate: "2026-10-31T07:54:37.521Z"
+title: 'Fairmont Chateau: Lake Louise Travel Guide (4.6★)'
+description: >-
+  Fairmont Chateau Lake Louise is the grand railway-era hotel on the east shore
+  of Lake Louise in Banff National Park, Alberta, facing Victoria Glacier across
+  the water. 4.6★ (24,743 reviews) — what visitors say, hours, and tips.
+country: Canada
+region: Lake Louise
+category: hidden-gem
+pubDate: '2026-10-31T07:54:37.521Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/9/9b/The_Fairmont_Chateau_Lake_Louise._%289633055517%29.jpg"
-  credit: "Photo: Bernard Spragg. NZ from Christchurch, New Zealand / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:The_Fairmont_Chateau_Lake_Louise._(9633055517).jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/9/9b/The_Fairmont_Chateau_Lake_Louise._%289633055517%29.jpg
+  credit: >-
+    Photo: Bernard Spragg. NZ from Christchurch, New Zealand / Wikimedia Commons
+    (CC0)
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:The_Fairmont_Chateau_Lake_Louise._(9633055517).jpg
+  via: act
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Lake_Louise_and_Chateau%2C_as_seen_from_northern_shore_20240822_2.jpg/3840px-Lake_Louise_and_Chateau%2C_as_seen_from_northern_shore_20240822_2.jpg"
-    credit: "Photo: DXR / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Lake_Louise_and_Chateau,_as_seen_from_northern_shore_20240822_2.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Lake_Louise_and_Chateau%2C_as_seen_from_northern_shore_20240822_2.jpg/3840px-Lake_Louise_and_Chateau%2C_as_seen_from_northern_shore_20240822_2.jpg
+    credit: 'Photo: DXR / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Lake_Louise_and_Chateau,_as_seen_from_northern_shore_20240822_2.jpg
 place:
-  id: "ChIJNZqvCRJdd1MRBBS7Nem5IEQ"
-  name: "Fairmont Chateau Lake Louise"
-  address: "111 Lake Louise Dr, Lake Louise, AB T0L 1E0, Canada"
+  id: ChIJNZqvCRJdd1MRBBS7Nem5IEQ
+  name: Fairmont Chateau Lake Louise
+  address: '111 Lake Louise Dr, Lake Louise, AB T0L 1E0, Canada'
   rating: 4.6
-  userRatingsTotal: 24741
-  googleMapsUrl: "https://maps.google.com/?cid=4909128005113811972&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 24743
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4909128005113811972&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 51.417719000000005
   lng: -116.21688200000001
-  phone: "+1 403-522-3511"
+  phone: +1 403-522-3511
 tags:
-  - "lake louise"
-  - "old quarter"
-quickAnswer: "Fairmont Chateau Lake Louise is the grand railway-era hotel on the east shore of Lake Louise in Banff National Park, Alberta, facing Victoria Glacier across the water. Anyone can walk the lakeshore, the lobby and the restaurants. The public Parks Canada lot fills early in summer, so most day visitors come on the Parks Canada shuttle or arrive very early."
+  - lake louise
+  - old quarter
+quickAnswer: >-
+  Fairmont Chateau Lake Louise is the grand railway-era hotel on the east shore
+  of Lake Louise in Banff National Park, Alberta, facing Victoria Glacier across
+  the water. Anyone can walk the lakeshore, the lobby and the restaurants. The
+  public Parks Canada lot fills early in summer, so most day visitors come on
+  the Parks Canada shuttle or arrive very early.
 faq:
-  - q: "Can I visit Fairmont Chateau Lake Louise if I'm not staying there?"
-    a: "Yes. The lobby, lounges, restaurants, shops and lakeshore are open to everyone. The pool and guest floors are for hotel guests only."
-  - q: "Where do day visitors park at Lake Louise?"
-    a: "Use the paid Parks Canada lakeshore lot beside the hotel, which fills early in summer. The other option is the Parks Canada shuttle from the Park and Ride at Lake Louise Ski Resort. Valet parking at the hotel is for guests."
-  - q: "When is the lake thawed for canoeing?"
-    a: "The ice usually goes out in early June, and canoes are rented from the boathouse through the summer. From about November to May the lake is frozen, and the hotel runs a skating rink on it."
-  - q: "How long should I spend there?"
-    a: "Give it two to three hours to walk the Lakeshore Trail and have tea or lunch. Make it half a day if you hike to the Lake Agnes Tea House."
-  - q: "What else is nearby?"
-    a: "Lake Louise village is about 4 km downhill, Moraine Lake is about 14 km away (shuttle or bus only) and Banff is about 45 minutes' drive."
+  - q: Can I visit Fairmont Chateau Lake Louise if I'm not staying there?
+    a: >-
+      Yes. The lobby, lounges, restaurants, shops and lakeshore are open to
+      everyone. The pool and guest floors are for hotel guests only.
+  - q: Where do day visitors park at Lake Louise?
+    a: >-
+      Use the paid Parks Canada lakeshore lot beside the hotel, which fills
+      early in summer. The other option is the Parks Canada shuttle from the
+      Park and Ride at Lake Louise Ski Resort. Valet parking at the hotel is for
+      guests.
+  - q: When is the lake thawed for canoeing?
+    a: >-
+      The ice usually goes out in early June, and canoes are rented from the
+      boathouse through the summer. From about November to May the lake is
+      frozen, and the hotel runs a skating rink on it.
+  - q: How long should I spend there?
+    a: >-
+      Give it two to three hours to walk the Lakeshore Trail and have tea or
+      lunch. Make it half a day if you hike to the Lake Agnes Tea House.
+  - q: What else is nearby?
+    a: >-
+      Lake Louise village is about 4 km downhill, Moraine Lake is about 14 km
+      away (shuttle or bus only) and Banff is about 45 minutes' drive.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-31'
 ---
 
 ## A hotel built for one view

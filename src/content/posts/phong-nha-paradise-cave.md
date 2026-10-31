@@ -1,59 +1,87 @@
 ---
-title: "Paradise Cave: Phong Nha Travel Guide (4.7★)"
-description: "Paradise Cave (Động Thiên Đường) sits at Km 16 on the Ho Chi Minh Road's western branch in Phong Nha, inside Phong Nha-Ke Bang National Park. 4.7★ (7,767 reviews) — what visitors say, hours, and tips."
-country: "Vietnam"
-region: "Phong Nha"
-category: "attraction"
-pubDate: "2026-09-11T07:48:41.523Z"
+title: 'Paradise Cave: Phong Nha Travel Guide (4.7★)'
+description: >-
+  Paradise Cave (Động Thiên Đường) sits at Km 16 on the Ho Chi Minh Road's
+  western branch in Phong Nha, inside Phong Nha-Ke Bang National Park. 4.7★
+  (7,859 reviews) — what visitors say, hours, and tips.
+country: Vietnam
+region: Phong Nha
+category: attraction
+pubDate: '2026-09-11T07:48:41.523Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/5/53/Paradise_cave.JPG"
-  credit: "Photo: [Tycho], http://shansov.net / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Paradise_cave.JPG"
-  via: "act"
+  url: 'https://upload.wikimedia.org/wikipedia/commons/5/53/Paradise_cave.JPG'
+  credit: 'Photo: [Tycho], http://shansov.net / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Paradise_cave.JPG'
+  via: act
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Cueva_Para%C3%ADso%2C_Phong_Nha%2C_Vietnam_%2836277324796%29.jpg/3840px-Cueva_Para%C3%ADso%2C_Phong_Nha%2C_Vietnam_%2836277324796%29.jpg"
-    credit: "Photo: Edgardo W. Olivera from Montevideo, Uruguay / Wikimedia Commons (CC BY 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Cueva_Para%C3%ADso,_Phong_Nha,_Vietnam_(36277324796).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Cueva_Para%C3%ADso%2C_Phong_Nha%2C_Vietnam_%2836277324796%29.jpg/3840px-Cueva_Para%C3%ADso%2C_Phong_Nha%2C_Vietnam_%2836277324796%29.jpg
+    credit: >-
+      Photo: Edgardo W. Olivera from Montevideo, Uruguay / Wikimedia Commons (CC
+      BY 2.0)
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Cueva_Para%C3%ADso,_Phong_Nha,_Vietnam_(36277324796).jpg
 place:
-  id: "ChIJ7VZ-YkO3ODERN98kaD5bmzY"
-  name: "Paradise Cave"
-  address: "Km 16 Đường Hồ Chí Minh, Nhánh Tây, Phong Nha, Quảng Trị, Vietnam"
+  id: ChIJ7VZ-YkO3ODERN98kaD5bmzY
+  name: Paradise Cave
+  address: 'Km 16 Đường Hồ Chí Minh, Nhánh Tây, Phong Nha, Quảng Trị, Vietnam'
   rating: 4.7
-  userRatingsTotal: 7767
-  googleMapsUrl: "https://maps.google.com/?cid=3934839023031607095&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 7859
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3934839023031607095&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 17.519451399999998
   lng: 106.2232849
   openingHours:
-    - "Monday: 7:00 AM – 4:30 PM"
-    - "Tuesday: 7:00 AM – 4:30 PM"
-    - "Wednesday: 7:00 AM – 4:30 PM"
-    - "Thursday: 7:00 AM – 4:30 PM"
-    - "Friday: 7:00 AM – 4:30 PM"
-    - "Saturday: 7:00 AM – 4:30 PM"
-    - "Sunday: 7:00 AM – 4:30 PM"
+    - 'Monday: 7:00 AM – 4:30 PM'
+    - 'Tuesday: 7:00 AM – 4:30 PM'
+    - 'Wednesday: 7:00 AM – 4:30 PM'
+    - 'Thursday: 7:00 AM – 4:30 PM'
+    - 'Friday: 7:00 AM – 4:30 PM'
+    - 'Saturday: 7:00 AM – 4:30 PM'
+    - 'Sunday: 7:00 AM – 4:30 PM'
 tags:
-  - "phong nha"
-  - "historic site"
-quickAnswer: "Paradise Cave (Động Thiên Đường) sits at Km 16 on the Ho Chi Minh Road's western branch in Phong Nha, inside Phong Nha-Ke Bang National Park. It's open daily 7:00 AM to 4:30 PM, and since it's one of the park's most visited sites, aim to arrive right at opening or after 2:30 PM to avoid tour-bus crowds. Only the first kilometer of the cave's 31km length is open to walkers, and that stretch alone takes most visitors 1.5 to 2 hours round trip."
+  - phong nha
+  - historic site
+quickAnswer: >-
+  Paradise Cave (Động Thiên Đường) sits at Km 16 on the Ho Chi Minh Road's
+  western branch in Phong Nha, inside Phong Nha-Ke Bang National Park. It's open
+  daily 7:00 AM to 4:30 PM, and since it's one of the park's most visited sites,
+  aim to arrive right at opening or after 2:30 PM to avoid tour-bus crowds. Only
+  the first kilometer of the cave's 31km length is open to walkers, and that
+  stretch alone takes most visitors 1.5 to 2 hours round trip.
 faq:
-  - q: "What are Paradise Cave's opening hours?"
-    a: "It's open every day from 7:00 AM to 4:30 PM, with last entry at 4:30 PM. There are no weekly closures."
-  - q: "How long does a visit to Paradise Cave take?"
-    a: "Plan for 2.5 to 3 hours total, including the 1km walk to the entrance, the boardwalk through the cave, and the walk back out. The cave section itself typically takes 1.5 to 2 hours round trip."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Tour buses tend to arrive between 9:30 and 11:30 AM, so aim to get there right at 7:00 AM opening or after 2:30 PM for a quieter boardwalk."
-  - q: "How do I get to Paradise Cave from Phong Nha town?"
-    a: "It's about a 40-minute drive via the western branch of the Ho Chi Minh Road. Most visitors go by taxi, rented motorbike, or organized tour van, since there's no direct public bus."
-  - q: "Can I see the whole cave, or just part of it?"
-    a: "Only the first kilometer of the cave's roughly 31km length is open to general visitors via the boardwalk. Going further requires booking a separate adventure caving tour in advance."
+  - q: What are Paradise Cave's opening hours?
+    a: >-
+      It's open every day from 7:00 AM to 4:30 PM, with last entry at 4:30 PM.
+      There are no weekly closures.
+  - q: How long does a visit to Paradise Cave take?
+    a: >-
+      Plan for 2.5 to 3 hours total, including the 1km walk to the entrance, the
+      boardwalk through the cave, and the walk back out. The cave section itself
+      typically takes 1.5 to 2 hours round trip.
+  - q: When is the best time to visit to avoid crowds?
+    a: >-
+      Tour buses tend to arrive between 9:30 and 11:30 AM, so aim to get there
+      right at 7:00 AM opening or after 2:30 PM for a quieter boardwalk.
+  - q: How do I get to Paradise Cave from Phong Nha town?
+    a: >-
+      It's about a 40-minute drive via the western branch of the Ho Chi Minh
+      Road. Most visitors go by taxi, rented motorbike, or organized tour van,
+      since there's no direct public bus.
+  - q: 'Can I see the whole cave, or just part of it?'
+    a: >-
+      Only the first kilometer of the cave's roughly 31km length is open to
+      general visitors via the boardwalk. Going further requires booking a
+      separate adventure caving tour in advance.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-31'
 ---
 
 Most people expect a dark tunnel. What they get is a cathedral: a single passage that climbs to 72 meters high, lit just enough to show stalactites the size of church organs hanging over a wooden boardwalk. Paradise Cave earned its name for a reason, and even visitors who've done a dozen caves elsewhere in Southeast Asia tend to go quiet for the first few minutes here.

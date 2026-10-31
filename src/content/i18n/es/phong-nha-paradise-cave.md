@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: phong-nha-paradise-cave
-srcHash: 'de3d3f86ab1c'
+srcHash: '2c1b8c539777'
 title: 'Cueva del Paraíso: Guía de viaje de Phong Nha (4,7★)'
-description: 'La Cueva del Paraíso (Động Thiên Đường) se encuentra en el Km 16 del ramal occidental de la Carretera Ho Chi Minh, en Phong Nha, dentro del Parque Nacional Phong Nha-Ke Bang. 4,7★ (7.767 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'La Cueva del Paraíso (Động Thiên Đường) se encuentra en el Km 16 del ramal occidental de la Carretera Ho Chi Minh, en Phong Nha, dentro del Parque Nacional Phong Nha-Ke Bang. 4,7★ (7.859 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: La Cueva del Paraíso (Động Thiên Đường) se encuentra en el Km 16 del ramal occidental de la Carretera Ho Chi Minh, en Phong Nha, dentro del Parque Nacional Phong Nha-Ke Bang. Abre todos los días de 7:00 a 16:30, y como es uno de los puntos más visitados del parque, conviene llegar justo a la apertura o después de las 14:30 para evitar las aglomeraciones de los autobuses turísticos. De los 31 km de longitud de la cueva, solo el primer kilómetro está abierto a los visitantes a pie, y ese tramo por sí solo suele llevar entre 1,5 y 2 horas ida y vuelta.
 faq:
   - q: ¿Cuál es el horario de apertura de la Cueva del Paraíso?

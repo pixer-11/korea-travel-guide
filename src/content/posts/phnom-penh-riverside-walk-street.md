@@ -1,55 +1,84 @@
 ---
-title: "Riverside Walk Street: Phnom Penh Travel Guide"
-description: "Riverside Walk Street in Phnom Penh is the pedestrian promenade along the Tonle Sap/Mekong confluence near the Royal Palace, and it only formally operates as a car-free walking street on Saturday and Sunday, running 24 hours those two days."
-country: "Cambodia"
-region: "Phnom Penh"
-category: "attraction"
-pubDate: "2026-09-19T13:27:39.748Z"
+title: 'Riverside Walk Street: Phnom Penh Travel Guide'
+description: >-
+  Riverside Walk Street in Phnom Penh is the pedestrian promenade along the
+  Tonle Sap/Mekong confluence near the Royal Palace, and it only formally
+  operates as a car-free walking street on Saturday and Sunday, running 24 hours
+  those two days.
+country: Cambodia
+region: Phnom Penh
+category: attraction
+pubDate: '2026-09-19T13:27:39.748Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tonle_sap_River%2C_walk_treet_riverside%2CSangkat_Phsar_Kandal_Ti_Muoy%2C_Phnom_Penh_12204%2C_Campuchia%2C25-06-16-Dyt_-_panoramio.jpg/3840px-Tonle_sap_River%2C_walk_treet_riverside%2CSangkat_Phsar_Kandal_Ti_Muoy%2C_Phnom_Penh_12204%2C_Campuchia%2C25-06-16-Dyt_-_panoramio.jpg"
-  credit: "Photo: trungydang / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Tonle_sap_River,_walk_treet_riverside,Sangkat_Phsar_Kandal_Ti_Muoy,_Phnom_Penh_12204,_Campuchia,25-06-16-Dyt_-_panoramio.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tonle_sap_River%2C_walk_treet_riverside%2CSangkat_Phsar_Kandal_Ti_Muoy%2C_Phnom_Penh_12204%2C_Campuchia%2C25-06-16-Dyt_-_panoramio.jpg/3840px-Tonle_sap_River%2C_walk_treet_riverside%2CSangkat_Phsar_Kandal_Ti_Muoy%2C_Phnom_Penh_12204%2C_Campuchia%2C25-06-16-Dyt_-_panoramio.jpg
+  credit: 'Photo: trungydang / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Tonle_sap_River,_walk_treet_riverside,Sangkat_Phsar_Kandal_Ti_Muoy,_Phnom_Penh_12204,_Campuchia,25-06-16-Dyt_-_panoramio.jpg
+  via: act
   focus:
     x: 85
-    y: 40
+    'y': 40
 gallery: []
 place:
-  id: "ChIJXcSKTgBRCTERaGAUIeWs5PA"
-  name: "Riverside Walk Street"
-  address: "HW8J+7X5 Riverside Walk, Street, Phnom Penh, Cambodia"
+  id: ChIJXcSKTgBRCTERaGAUIeWs5PA
+  name: Riverside Walk Street
+  address: 'HW8J+7X5 Riverside Walk, Street, Phnom Penh, Cambodia'
   rating: 4.7
-  userRatingsTotal: 90
-  googleMapsUrl: "https://maps.google.com/?cid=17358188963895205992&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 94
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=17358188963895205992&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 11.5656314
   lng: 104.9324872
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: Closed"
-    - "Wednesday: Closed"
-    - "Thursday: Closed"
-    - "Friday: Closed"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Closed'
+    - 'Tuesday: Closed'
+    - 'Wednesday: Closed'
+    - 'Thursday: Closed'
+    - 'Friday: Closed'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "phnom penh"
-  - "waterfront"
-quickAnswer: "Riverside Walk Street in Phnom Penh is the pedestrian promenade along the Tonle Sap/Mekong confluence near the Royal Palace, and it only formally operates as a car-free walking street on Saturday and Sunday, running 24 hours those two days. Best time is early evening (before dark for the sunset over the river, after dark for the lit-up stalls and cooler air). It's still a quieter stretch compared to the main riverfront strip, so weekend nights are lively but rarely overwhelming."
+  - phnom penh
+  - waterfront
+quickAnswer: >-
+  Riverside Walk Street in Phnom Penh is the pedestrian promenade along the
+  Tonle Sap/Mekong confluence near the Royal Palace, and it only formally
+  operates as a car-free walking street on Saturday and Sunday, running 24 hours
+  those two days. Best time is early evening (before dark for the sunset over
+  the river, after dark for the lit-up stalls and cooler air). It's still a
+  quieter stretch compared to the main riverfront strip, so weekend nights are
+  lively but rarely overwhelming.
 faq:
-  - q: "What days is Riverside Walk Street actually open as a pedestrian street?"
-    a: "Only Saturday and Sunday, when it runs 24 hours as a car-free promenade. Monday through Friday the road functions normally with traffic."
-  - q: "Is there an entrance fee?"
-    a: "No, it's an open public riverside promenade with no ticket booth or gate, since it's a stretch of garden and road rather than an attraction with its own entrance."
-  - q: "What's the best time of day to visit?"
-    a: "Early evening, roughly 20-30 minutes before sunset, to get a bench facing the river, then stay after dark once the lights come on and the air cools."
-  - q: "How do I get there by tuk-tuk or taxi?"
-    a: "Ask for the riverfront near the Royal Palace or the Tonle Sap/Mekong confluence rather than the walk street by name, since it's not a widely marketed landmark yet, then walk along Sisowath Quay to find the closed section."
-  - q: "Is it crowded like the main riverfront strip?"
-    a: "No, it's currently a quieter, under-the-radar stretch of garden compared to the busier restaurant-and-bar section of Sisowath Quay further south, though weekend evenings do bring local families and walkers."
+  - q: What days is Riverside Walk Street actually open as a pedestrian street?
+    a: >-
+      Only Saturday and Sunday, when it runs 24 hours as a car-free promenade.
+      Monday through Friday the road functions normally with traffic.
+  - q: Is there an entrance fee?
+    a: >-
+      No, it's an open public riverside promenade with no ticket booth or gate,
+      since it's a stretch of garden and road rather than an attraction with its
+      own entrance.
+  - q: What's the best time of day to visit?
+    a: >-
+      Early evening, roughly 20-30 minutes before sunset, to get a bench facing
+      the river, then stay after dark once the lights come on and the air cools.
+  - q: How do I get there by tuk-tuk or taxi?
+    a: >-
+      Ask for the riverfront near the Royal Palace or the Tonle Sap/Mekong
+      confluence rather than the walk street by name, since it's not a widely
+      marketed landmark yet, then walk along Sisowath Quay to find the closed
+      section.
+  - q: Is it crowded like the main riverfront strip?
+    a: >-
+      No, it's currently a quieter, under-the-radar stretch of garden compared
+      to the busier restaurant-and-bar section of Sisowath Quay further south,
+      though weekend evenings do bring local families and walkers.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-31'
 ---
 
 Phnom Penh's riverfront runs for kilometers, but the stretch officially designated Riverside Walk Street is a specific closed-to-traffic segment near the confluence of the Tonle Sap and Mekong rivers, close to the Royal Palace and Wat Ounalom. It's a garden-lined promenade rather than a market or a monument, which is exactly the point: it exists so people can walk here without dodging tuk-tuks.

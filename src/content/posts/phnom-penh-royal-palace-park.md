@@ -1,59 +1,86 @@
 ---
-title: "Royal Palace Park: Phnom Penh Travel Guide (4.5★)"
-description: "Royal Palace Park is the riverside strip of lawns and shade trees running along Sothearos Boulevard in Phnom Penh, right outside the walls of the Royal Palace. 4.5★ (5,589 reviews) — what visitors say, hours, and tips."
-country: "Cambodia"
-region: "Phnom Penh"
-category: "attraction"
-pubDate: "2026-08-28T09:11:59.521Z"
+title: 'Royal Palace Park: Phnom Penh Travel Guide (4.5★)'
+description: >-
+  Royal Palace Park is the riverside strip of lawns and shade trees running
+  along Sothearos Boulevard in Phnom Penh, right outside the walls of the Royal
+  Palace. 4.5★ (5,653 reviews) — what visitors say, hours, and tips.
+country: Cambodia
+region: Phnom Penh
+category: attraction
+pubDate: '2026-08-28T09:11:59.521Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Royal_Palace_Park%2C_Phnom_Penh_%281%29.jpg/3840px-Royal_Palace_Park%2C_Phnom_Penh_%281%29.jpg"
-  credit: "Photo: Radosław Botev / Wikimedia Commons (CC BY 3.0 pl)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Royal_Palace_Park,_Phnom_Penh_(1).jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Royal_Palace_Park%2C_Phnom_Penh_%281%29.jpg/3840px-Royal_Palace_Park%2C_Phnom_Penh_%281%29.jpg
+  credit: 'Photo: Radosław Botev / Wikimedia Commons (CC BY 3.0 pl)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Royal_Palace_Park,_Phnom_Penh_(1).jpg
+  via: act
   focus:
     x: 75
-    y: 35
+    'y': 35
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/2016_Phnom_Penh%2C_Park_Kr%C3%B3lewski%2C_Kaplica_Preah_Ang_Dorngkeu_%2803%29.jpg/3840px-2016_Phnom_Penh%2C_Park_Kr%C3%B3lewski%2C_Kaplica_Preah_Ang_Dorngkeu_%2803%29.jpg"
-    credit: "Photo: Marcin Konsek / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:2016_Phnom_Penh,_Park_Kr%C3%B3lewski,_Kaplica_Preah_Ang_Dorngkeu_(03).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/2016_Phnom_Penh%2C_Park_Kr%C3%B3lewski%2C_Kaplica_Preah_Ang_Dorngkeu_%2803%29.jpg/3840px-2016_Phnom_Penh%2C_Park_Kr%C3%B3lewski%2C_Kaplica_Preah_Ang_Dorngkeu_%2803%29.jpg
+    credit: 'Photo: Marcin Konsek / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:2016_Phnom_Penh,_Park_Kr%C3%B3lewski,_Kaplica_Preah_Ang_Dorngkeu_(03).jpg
 place:
-  id: "ChIJqUiG40lRCTERO91s5YjVEoY"
-  name: "Royal Palace Park"
-  address: "HW8J+3VX, Samdach Sothearos Blvd (3), Phnom Penh, Cambodia"
+  id: ChIJqUiG40lRCTERO91s5YjVEoY
+  name: Royal Palace Park
+  address: 'HW8J+3VX, Samdach Sothearos Blvd (3), Phnom Penh, Cambodia'
   rating: 4.5
-  userRatingsTotal: 5589
-  googleMapsUrl: "https://maps.google.com/?cid=9661018934604520763&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 5653
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9661018934604520763&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 11.56523
   lng: 104.932222
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "phnom penh"
-  - "park"
-quickAnswer: "Royal Palace Park is the riverside strip of lawns and shade trees running along Sothearos Boulevard in Phnom Penh, right outside the walls of the Royal Palace. It's open 24 hours and free to walk through, and the best time to visit is early morning or just before sunset when the heat breaks and the riverfront promenade fills with locals. Expect it to be busy most evenings, since it's one of the city's most popular public spaces, not a quiet find."
+  - phnom penh
+  - park
+quickAnswer: >-
+  Royal Palace Park is the riverside strip of lawns and shade trees running
+  along Sothearos Boulevard in Phnom Penh, right outside the walls of the Royal
+  Palace. It's open 24 hours and free to walk through, and the best time to
+  visit is early morning or just before sunset when the heat breaks and the
+  riverfront promenade fills with locals. Expect it to be busy most evenings,
+  since it's one of the city's most popular public spaces, not a quiet find.
 faq:
-  - q: "Is there an entrance fee for Royal Palace Park?"
-    a: "No, the park itself is free and open 24 hours. Only the adjacent Royal Palace and Silver Pagoda complex charges an entrance fee."
-  - q: "What's the best time to visit Royal Palace Park?"
-    a: "Early morning for a cooler, calmer walk, or the two hours before sunset for the best light and the liveliest street food and local crowd along the riverfront."
-  - q: "How long should I spend here?"
-    a: "Thirty to forty minutes is enough for a proper walk along the full stretch, longer if you want to sit and watch sunset over the Tonle Sap."
-  - q: "Is Royal Palace Park crowded?"
-    a: "Yes, it's one of the most visited public spaces in Phnom Penh, especially on weekend evenings and holidays. Weekday mornings are noticeably quieter."
-  - q: "What's nearby to combine with a visit?"
-    a: "The Royal Palace and Silver Pagoda are right next door, with Wat Ounalom, the National Museum of Cambodia, and Sisowath Quay's riverside restaurants all within a short walk."
+  - q: Is there an entrance fee for Royal Palace Park?
+    a: >-
+      No, the park itself is free and open 24 hours. Only the adjacent Royal
+      Palace and Silver Pagoda complex charges an entrance fee.
+  - q: What's the best time to visit Royal Palace Park?
+    a: >-
+      Early morning for a cooler, calmer walk, or the two hours before sunset
+      for the best light and the liveliest street food and local crowd along the
+      riverfront.
+  - q: How long should I spend here?
+    a: >-
+      Thirty to forty minutes is enough for a proper walk along the full
+      stretch, longer if you want to sit and watch sunset over the Tonle Sap.
+  - q: Is Royal Palace Park crowded?
+    a: >-
+      Yes, it's one of the most visited public spaces in Phnom Penh, especially
+      on weekend evenings and holidays. Weekday mornings are noticeably quieter.
+  - q: What's nearby to combine with a visit?
+    a: >-
+      The Royal Palace and Silver Pagoda are right next door, with Wat Ounalom,
+      the National Museum of Cambodia, and Sisowath Quay's riverside restaurants
+      all within a short walk.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-31'
 ---
 
 ## What this park actually is

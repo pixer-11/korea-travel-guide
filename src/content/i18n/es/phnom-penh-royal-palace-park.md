@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: phnom-penh-royal-palace-park
-srcHash: 'e98cf3a32614'
+srcHash: '15e3b62524ae'
 title: 'Royal Palace Park: Guía de viaje de Phnom Penh (4,5★)'
-description: 'Royal Palace Park es la franja de césped y árboles frondosos que corre junto al río a lo largo del bulevar Sothearos, en Phnom Penh, justo a las puertas del Palacio Real. 4,5★ (5.589 opiniones): lo que dicen los visitantes, horarios y consejos.'
+description: 'Royal Palace Park es la franja de césped y árboles frondosos que corre junto al río a lo largo del bulevar Sothearos, en Phnom Penh, justo a las puertas del Palacio Real. 4,5★ (5.653 opiniones): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Royal Palace Park es la franja de césped y árboles frondosos que corre junto al río a lo largo del bulevar Sothearos, en Phnom Penh, justo a las puertas del Palacio Real. Se puede recorrer las 24 horas y de forma gratuita, y el mejor momento para visitarlo es a primera hora de la mañana o justo antes de la puesta de sol, cuando el calor afloja y el paseo fluvial se llena de gente local. Hay que contar con que estará concurrido casi todas las tardes, ya que es uno de los espacios públicos más populares de la ciudad, no un rincón tranquilo y escondido.
 faq:
   - q: ¿Se paga entrada para Royal Palace Park?

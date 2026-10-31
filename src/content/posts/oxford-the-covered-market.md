@@ -1,41 +1,48 @@
 ---
-title: "The Covered Market: Oxford Travel Guide (4.5★)"
-description: "The Covered Market in Oxford is a Georgian indoor market on Market Street, between the High Street and Cornmarket, with butchers, bakers, cafés and small shops under one roof. 4.5★ (11,940 reviews) — what visitors say, hours, and tips."
-country: "United Kingdom"
-region: "Oxford"
-category: "hidden-gem"
-pubDate: "2026-10-31T07:54:40.632Z"
+title: 'The Covered Market: Oxford Travel Guide (4.5★)'
+description: >-
+  The Covered Market in Oxford is a Georgian indoor market on Market Street,
+  between the High Street and Cornmarket, with butchers, bakers, cafés and small
+  shops under one roof. 4.5★ (11,942 reviews) — what visitors say, hours, and
+  tips.
+country: United Kingdom
+region: Oxford
+category: hidden-gem
+pubDate: '2026-10-31T07:54:40.632Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Alice_in_Wonderland_White_Rabbit_lantern_in_Covered_Market%2C_Oxford_2025-05-04.jpg/3840px-Alice_in_Wonderland_White_Rabbit_lantern_in_Covered_Market%2C_Oxford_2025-05-04.jpg"
-  credit: "Photo: Andy Li / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Alice_in_Wonderland_White_Rabbit_lantern_in_Covered_Market,_Oxford_2025-05-04.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Alice_in_Wonderland_White_Rabbit_lantern_in_Covered_Market%2C_Oxford_2025-05-04.jpg/3840px-Alice_in_Wonderland_White_Rabbit_lantern_in_Covered_Market%2C_Oxford_2025-05-04.jpg
+  credit: 'Photo: Andy Li / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Alice_in_Wonderland_White_Rabbit_lantern_in_Covered_Market,_Oxford_2025-05-04.jpg
+  via: act
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery: []
 place:
-  id: "ChIJkc1WnrnGdkgRf5er3fFzhX0"
-  name: "The Covered Market"
-  address: "Market St, Oxford OX1 3DZ, UK"
+  id: ChIJkc1WnrnGdkgRf5er3fFzhX0
+  name: The Covered Market
+  address: 'Market St, Oxford OX1 3DZ, UK'
   rating: 4.5
-  userRatingsTotal: 11940
-  googleMapsUrl: "https://maps.google.com/?cid=9044762909286831999&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 11942
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9044762909286831999&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 51.75270080000001
   lng: -1.2569420999999998
-  phone: "+44 1865 250133"
+  phone: +44 1865 250133
   openingHours:
-    - "Monday: 8:00 AM – 5:30 PM"
-    - "Tuesday: 8:00 AM – 5:30 PM"
-    - "Wednesday: 8:00 AM – 5:30 PM"
-    - "Thursday: 8:00 AM – 10:00 PM"
-    - "Friday: 8:00 AM – 10:00 PM"
-    - "Saturday: 8:00 AM – 10:00 PM"
-    - "Sunday: 10:00 AM – 5:00 PM"
+    - 'Monday: 8:00 AM – 5:30 PM'
+    - 'Tuesday: 8:00 AM – 5:30 PM'
+    - 'Wednesday: 8:00 AM – 5:30 PM'
+    - 'Thursday: 8:00 AM – 10:00 PM'
+    - 'Friday: 8:00 AM – 10:00 PM'
+    - 'Saturday: 8:00 AM – 10:00 PM'
+    - 'Sunday: 10:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-10-31
+    updated: 2026-10-31T00:00:00.000Z
     weekdayQuiet:
       - 8
       - 9
@@ -54,24 +61,46 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_3058687a4666337265356652676b64476e726e5731636b4a496843"
+    venueId: ven_3058687a4666337265356652676b64476e726e5731636b4a496843
 tags:
-  - "oxford"
-  - "local market"
-quickAnswer: "The Covered Market in Oxford is a Georgian indoor market on Market Street, between the High Street and Cornmarket, with butchers, bakers, cafés and small shops under one roof. It's calmest on weekdays from 8am–10am. On weekends go 8am–11am or 9pm–10pm, and avoid 11am–6pm, when the avenues are packed."
+  - oxford
+  - local market
+quickAnswer: >-
+  The Covered Market in Oxford is a Georgian indoor market on Market Street,
+  between the High Street and Cornmarket, with butchers, bakers, cafés and small
+  shops under one roof. It's calmest on weekdays from 8am–10am. On weekends go
+  8am–11am or 9pm–10pm, and avoid 11am–6pm, when the avenues are packed.
 faq:
-  - q: "When is the quietest time to visit the Covered Market?"
-    a: "On weekdays, 8am–10am and 5pm–6pm. Monday to Wednesday it closes at 5:30pm, so the evening window is short. On weekends the quiet times are 8am–11am and 9pm–10pm. Avoid weekends from 11am to 6pm, which is the busiest stretch."
-  - q: "What are the Covered Market's opening hours?"
-    a: "At the moment it opens 8am–5:30pm Monday to Wednesday, 8am–10pm Thursday to Saturday, and 10am–5pm on Sunday. Individual traders set their own hours inside these times, so check before you go if you want a specific shop."
-  - q: "How do I get to the Covered Market from Oxford station?"
-    a: "It's about a 15-minute walk east from Oxford railway station, along Park End Street and George Street to Cornmarket. There are entrances on Market Street and the High Street, near Carfax Tower."
-  - q: "How long should I spend there?"
-    a: "Allow 45 minutes to an hour to walk the avenues and stop for coffee or a snack. If you want to shop properly at the butchers and grocers, give it longer."
-  - q: "What's nearby?"
-    a: "Carfax Tower is next to the High Street entrance. Jesus College and Turl Street are just north, and the Radcliffe Camera is about five minutes' walk east."
+  - q: When is the quietest time to visit the Covered Market?
+    a: >-
+      On weekdays, 8am–10am and 5pm–6pm. Monday to Wednesday it closes at
+      5:30pm, so the evening window is short. On weekends the quiet times are
+      8am–11am and 9pm–10pm. Avoid weekends from 11am to 6pm, which is the
+      busiest stretch.
+  - q: What are the Covered Market's opening hours?
+    a: >-
+      At the moment it opens 8am–5:30pm Monday to Wednesday, 8am–10pm Thursday
+      to Saturday, and 10am–5pm on Sunday. Individual traders set their own
+      hours inside these times, so check before you go if you want a specific
+      shop.
+  - q: How do I get to the Covered Market from Oxford station?
+    a: >-
+      It's about a 15-minute walk east from Oxford railway station, along Park
+      End Street and George Street to Cornmarket. There are entrances on Market
+      Street and the High Street, near Carfax Tower.
+  - q: How long should I spend there?
+    a: >-
+      Allow 45 minutes to an hour to walk the avenues and stop for coffee or a
+      snack. If you want to shop properly at the butchers and grocers, give it
+      longer.
+  - q: What's nearby?
+    a: >-
+      Carfax Tower is next to the High Street entrance. Jesus College and Turl
+      Street are just north, and the Radcliffe Camera is about five minutes'
+      walk east.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-31'
 ---
 
 ## A market older than most of the colleges' lawns
