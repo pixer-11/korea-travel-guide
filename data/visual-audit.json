@@ -3743,6 +3743,12 @@
   "reason": "publish gate: Clear exterior view of Bath Abbey building",
   "at": "2026-10-29T08:01:01.507Z"
  },
+ "bath-bath-guildhall-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Guildhall_Market%2C_Bath_01.jpg/3840px-Guildhall_Market%2C_Bath_01.jpg": {
+  "slug": "bath-bath-guildhall-market",
+  "verdict": "MATCH",
+  "reason": "publish gate: Interior market hall with stalls, arches, shoppers matches venue",
+  "at": "2026-10-31T07:54:35.777Z"
+ },
  "bath-museum-of-bath-at-work\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Museum_of_Bath_at_Work.jpg/1920px-Museum_of_Bath_at_Work.jpg": {
   "slug": "bath-museum-of-bath-at-work",
   "verdict": "MATCH",
@@ -5783,6 +5789,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Museum display case of pottery artifacts, visible storage exhibit",
   "at": "2026-10-01T07:53:41.073Z"
+ },
+ "cambridge-museum-of-cambridge\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Museum_of_Cambridge_2-3_Castle_Street_Cambridge_CB3_0AQ.jpg/3840px-Museum_of_Cambridge_2-3_Castle_Street_Cambridge_CB3_0AQ.jpg": {
+  "slug": "cambridge-museum-of-cambridge",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior building with clear Museum of Cambridge signage",
+  "at": "2026-10-31T07:54:35.501Z"
  },
  "cambridge-the-fitzwilliam-museum\u0001https://upload.wikimedia.org/wikipedia/commons/4/49/Fitzwilliam_Museum.JPG": {
   "slug": "cambridge-the-fitzwilliam-museum",
@@ -8495,6 +8507,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows the ruined castle walls representative of Kaiserpfalz Kaiserswerth",
   "at": "2026-10-05T07:45:58.742Z"
+ },
+ "dusseldorf-konigsallee\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/GER_D%C3%BCsseldorf%2C_K%C3%B6nigsallee%2C_Stadtgraben_0003.jpg/1920px-GER_D%C3%BCsseldorf%2C_K%C3%B6nigsallee%2C_Stadtgraben_0003.jpg": {
+  "slug": "dusseldorf-konigsallee",
+  "verdict": "MATCH",
+  "reason": "publish gate: Canal with buildings matches Königsallee cityscape in Düsseldorf",
+  "at": "2026-10-31T07:54:35.445Z"
  },
  "dusseldorf-marktplatz\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Marktplatz_in_D%C3%BCsseldorf_mit_Rathaus_-_panoramio.jpg/3840px-Marktplatz_in_D%C3%BCsseldorf_mit_Rathaus_-_panoramio.jpg": {
   "slug": "dusseldorf-marktplatz",
@@ -14721,6 +14739,12 @@
   "reason": "publish gate: Exterior view of historic colonial house, plausible Fyffe House",
   "at": "2026-10-24T14:02:57.119Z"
  },
+ "kaikoura-kaikoura-lookout\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Panoramic_view_over_Kaikoura_area_from_lower_Mt_Fyffe_lookout.jpg/3840px-Panoramic_view_over_Kaikoura_area_from_lower_Mt_Fyffe_lookout.jpg": {
+  "slug": "kaikoura-kaikoura-lookout",
+  "verdict": "MATCH",
+  "reason": "publish gate: Panoramic view from a lookout, matches venue type",
+  "at": "2026-10-31T07:54:35.717Z"
+ },
  "kaikoura-whale-watch-kaikoura\u0001https://upload.wikimedia.org/wikipedia/commons/d/db/Whale_watching_Kaikoura_NZ_%2812008134353%29.jpg": {
   "slug": "kaikoura-whale-watch-kaikoura",
   "verdict": "MATCH",
@@ -14751,6 +14775,12 @@
   "verdict": "WEAK",
   "reason": "Kampong Glam street view, no restaurant visible",
   "at": "2026-07-25T02:45:09.927Z"
+ },
+ "kampong-glam-haji-lane\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Haji_Lane%2C_Kampong_Glam_%2802%29.jpg/3840px-Haji_Lane%2C_Kampong_Glam_%2802%29.jpg": {
+  "slug": "kampong-glam-haji-lane",
+  "verdict": "MATCH",
+  "reason": "publish gate: Street scene with murals, cafes, flags matches Haji Lane",
+  "at": "2026-10-31T07:54:35.810Z"
  },
  "kampong-glam-kampong-glam\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/2016_Singapur%2C_Kampong_Glam%2C_Centrum_Dziedzictwa_Malajskiego%2C_Dawny_Pa%C5%82ac_Kampong_Glam_%2804%29.jpg/1920px-2016_Singapur%2C_Kampong_Glam%2C_Centrum_Dziedzictwa_Malajskiego%2C_Dawny_Pa%C5%82ac_Kampong_Glam_%2804%29.jpg": {
   "slug": "kampong-glam-kampong-glam",
@@ -16649,6 +16679,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Satellite view plausibly shows Khuvsgul Lake frozen landscape",
   "at": "2026-10-11T07:44:49.609Z"
+ },
+ "lake-louise-fairmont-chateau-lake-louise\u0001https://upload.wikimedia.org/wikipedia/commons/9/9b/The_Fairmont_Chateau_Lake_Louise._%289633055517%29.jpg": {
+  "slug": "lake-louise-fairmont-chateau-lake-louise",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of Fairmont Chateau with mountain backdrop, representative hero",
+  "at": "2026-10-31T07:54:35.539Z"
  },
  "lake-louise-lake-louise\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Banff_National_Park_%28AB%2C_Canada%29%2C_Lake_Louise_--_2022_--_2197.jpg/3840px-Banff_National_Park_%28AB%2C_Canada%29%2C_Lake_Louise_--_2022_--_2197.jpg": {
   "slug": "lake-louise-lake-louise",
@@ -19163,6 +19199,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Conference room presentation, unrelated to a restaurant venue",
   "at": "2026-08-28T03:48:31.701Z"
+ },
+ "mar-del-plata-catedral-mar-del-plata\u0001https://upload.wikimedia.org/wikipedia/commons/3/36/Interior_de_la_Catedral_de_Mar_del_Plata.JPG": {
+  "slug": "mar-del-plata-catedral-mar-del-plata",
+  "verdict": "MATCH",
+  "reason": "publish gate: Cathedral interior showing altar, representative hero shot",
+  "at": "2026-10-31T07:54:35.684Z"
  },
  "mar-del-plata-puerto-de-mar-del-plata\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Puerto_pesquero_de_Mar_del_Plata_01.jpg/3840px-Puerto_pesquero_de_Mar_del_Plata_01.jpg": {
   "slug": "mar-del-plata-puerto-de-mar-del-plata",
@@ -23124,6 +23166,12 @@
   "reason": "publish gate: Exterior of Oxford University Museum of Natural History building",
   "at": "2026-09-30T14:24:44.669Z"
  },
+ "oxford-the-covered-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Alice_in_Wonderland_White_Rabbit_lantern_in_Covered_Market%2C_Oxford_2025-05-04.jpg/3840px-Alice_in_Wonderland_White_Rabbit_lantern_in_Covered_Market%2C_Oxford_2025-05-04.jpg": {
+  "slug": "oxford-the-covered-market",
+  "verdict": "MATCH",
+  "reason": "publish gate: Interior view of Oxford Covered Market, representative and recognizable",
+  "at": "2026-10-31T07:54:35.648Z"
+ },
  "oxford-the-university-parks\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Engineering_Science_Building%2C_15_Mar_06.jpg/1920px-Engineering_Science_Building%2C_15_Mar_06.jpg": {
   "slug": "oxford-the-university-parks",
   "verdict": "MATCH",
@@ -25914,6 +25962,12 @@
   "reason": "publish gate: Iconic Villa Borghese gate entrance, representative of the site",
   "at": "2026-09-20T07:59:05.831Z"
  },
+ "rothenburg-ob-der-tauber-altstadt-rothenburg\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Rothenburg_ob_der_Tauber%2C_Burggarten%2C_Blick_zur_Altstadt%2C_zum_Kobolzeller-_und_Siebersturm.jpg/3840px-Rothenburg_ob_der_Tauber%2C_Burggarten%2C_Blick_zur_Altstadt%2C_zum_Kobolzeller-_und_Siebersturm.jpg": {
+  "slug": "rothenburg-ob-der-tauber-altstadt-rothenburg",
+  "verdict": "MATCH",
+  "reason": "publish gate: Representative skyline view of Rothenburg's old town",
+  "at": "2026-10-31T07:54:35.578Z"
+ },
  "rothenburg-ob-der-tauber-marktplatz-rothenburg-ob-der-tauber\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Rothenburg_ob_der_Tauber_Marktplatz-20130816-RM-142404.jpg/3840px-Rothenburg_ob_der_Tauber_Marktplatz-20130816-RM-142404.jpg": {
   "slug": "rothenburg-ob-der-tauber-marktplatz-rothenburg-ob-der-tauber",
   "verdict": "MATCH",
@@ -26063,6 +26117,12 @@
   "verdict": "MATCH",
   "reason": "width upgrade: Portrait of The Weeknd, valid performer photo for concert event",
   "at": "2026-08-20T20:17:42.894Z"
+ },
+ "salta-catedral-basilica-de-salta\u0001https://upload.wikimedia.org/wikipedia/commons/6/6c/Catedral_Bas%C3%ADlica_de_Salta_-_panoramio.jpg": {
+  "slug": "salta-catedral-basilica-de-salta",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows cathedral exterior with towers, plausible representative view",
+  "at": "2026-10-31T07:54:35.615Z"
  },
  "salta-san-bernardo-s-hill\u0001https://upload.wikimedia.org/wikipedia/commons/8/82/Salta_Desde_El_Cerro_San_Bernardo_%28242638079%29.jpeg": {
   "slug": "salta-san-bernardo-s-hill",

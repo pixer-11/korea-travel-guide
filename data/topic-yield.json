@@ -6,12 +6,12 @@
    "hits": 18
   },
   "historic site": {
-   "attempts": 196,
-   "hits": 107
+   "attempts": 198,
+   "hits": 109
   },
   "park": {
-   "attempts": 109,
-   "hits": 63
+   "attempts": 110,
+   "hits": 64
   },
   "viewpoint": {
    "attempts": 112,
@@ -38,12 +38,12 @@
    "hits": 3
   },
   "old quarter": {
-   "attempts": 119,
-   "hits": 50
+   "attempts": 132,
+   "hits": 55
   },
   "local market": {
-   "attempts": 103,
-   "hits": 38
+   "attempts": 107,
+   "hits": 40
   },
   "bookshop": {
    "attempts": 48,
@@ -74,7 +74,7 @@
    "hits": 5
   },
   "bar": {
-   "attempts": 57,
+   "attempts": 58,
    "hits": 0
   },
   "vegetarian": {
@@ -94,7 +94,7 @@
    "hits": 0
   },
   "design shop": {
-   "attempts": 51,
+   "attempts": 52,
    "hits": 0
   },
   "Sisowath Quay Riverside": {
@@ -1210,5 +1210,5 @@
    "hits": 1
   }
  },
- "updated": "2026-10-30T14:35:11.018Z"
+ "updated": "2026-10-31T07:54:35.834Z"
 }

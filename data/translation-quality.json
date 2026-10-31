@@ -20188,11 +20188,11 @@
   "at": "2026-08-15T02:32:02.049Z"
  },
  "ko/phnom-penh-central-market": {
-  "hash": "013a28e438fd",
+  "hash": "a1b7fcf75977",
   "score": 1,
   "registerBreak": false,
-  "worst": "건물 전체를 한눈에 이해하게 해주는 것은 다름 아닌 돔 지붕입니다.",
-  "at": "2026-09-10T13:54:07.929Z"
+  "worst": "시장에서 가장 비싼 물건이 가장 촘촘히 몰려 있는 구역이면서, 동시에 가장 질서 정연한 곳이기도 합니다.",
+  "at": "2026-10-31T07:58:17.631Z"
  },
  "ko/phnom-penh-riverside-walk-street": {
   "hash": "3e6e8eb2e15b",
@@ -38673,5 +38673,82 @@
   "registerBreak": false,
   "worst": "按照传统，主要大道两旁会挂起一串串国旗：蓝色条带之间是红底，中央是白色的吴哥窟图案。",
   "at": "2026-10-30T14:36:08.774Z"
+ },
+ "es/bath-bath-guildhall-market": {
+  "hash": "8259dc91e590",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Actualmente permanece cerrado los domingos, una sorpresa desagradable si ha planeado...",
+  "at": "2026-10-31T07:59:18.244Z"
+ },
+ "es/cambridge-museum-of-cambridge": {
+  "hash": "e3038ce5a2cb",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Si tiene movilidad reducida,",
+  "at": "2026-10-31T07:58:25.465Z"
+ },
+ "es/dusseldorf-konigsallee": {
+  "hash": "cba3590cde40",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-31T07:58:26.401Z"
+ },
+ "ja/bath-bath-guildhall-market": {
+  "hash": "a8474ce94036",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "現在の営業時間は月曜〜土曜の9amから5pmまでです。",
+  "at": "2026-10-31T07:58:34.006Z"
+ },
+ "ja/cambridge-museum-of-cambridge": {
+  "hash": "12e62e103db0",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "見た目のとおり、実際にこのあたりでいちばん古い建物です。",
+  "at": "2026-10-31T07:58:35.052Z"
+ },
+ "ja/dusseldorf-konigsallee": {
+  "hash": "4177475ea2c2",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "この通りを絵はがきの定番にしたのは、こうした店のショーウインドーです。",
+  "at": "2026-10-31T07:58:36.072Z"
+ },
+ "ko/bath-bath-guildhall-market": {
+  "hash": "f2cce52e5a18",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "꿀빛 배스 석재로 지은 실내 홀이 나타나고, 햇빛이 스며드는 지붕 아래로 작은 가게들이 줄지어 있습니다.",
+  "at": "2026-10-31T07:58:37.311Z"
+ },
+ "ko/cambridge-museum-of-cambridge": {
+  "hash": "7b3d7071ee18",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이만한 규모의 박물관에서는 세부가 곧 핵심입니다.",
+  "at": "2026-10-31T07:58:44.349Z"
+ },
+ "zh/bath-bath-guildhall-market": {
+  "hash": "926aa453f7b2",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "摊位会随时间更替，以上只能让你大致了解这里的面貌，不能当作固定的商户名录。",
+  "at": "2026-10-31T07:58:45.379Z"
+ },
+ "zh/cambridge-museum-of-cambridge": {
+  "hash": "a0ca043930a0",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "街角有一栋木构老楼，看上去比周围的建筑都要古老，事实也确实如此。",
+  "at": "2026-10-31T07:58:46.430Z"
+ },
+ "zh/dusseldorf-konigsallee": {
+  "hash": "665a73bac0dc",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "由此往南依次可见：**Kö-Bogen**：由丹尼尔·里伯斯金设计，白色与玻璃交织的弧形建筑群勾勒出大道的北端。",
+  "at": "2026-10-31T07:58:47.937Z"
  }
 }
