@@ -34993,11 +34993,11 @@
   "at": "2026-10-12T11:43:30.930Z"
  },
  "ko/jakarta-lany-the-soft-world-tour": {
-  "hash": "15a541563766",
+  "hash": "04365fad166f",
   "score": 1,
   "registerBreak": false,
-  "worst": "자카르타에서 진짜 오프닝 무대는 교통 체증입니다.",
-  "at": "2026-10-12T11:43:32.308Z"
+  "worst": "두 번 보는 이유의 절반은 무대를 두 각도에서 보려는 데 있습니다.",
+  "at": "2026-10-31T13:57:14.288Z"
  },
  "ko/jakarta-the-sounds-project-vol-9": {
   "hash": "c88efb7aa3e4",
@@ -38750,5 +38750,26 @@
   "registerBreak": false,
   "worst": "由此往南依次可见：**Kö-Bogen**：由丹尼尔·里伯斯金设计，白色与玻璃交织的弧形建筑群勾勒出大道的北端。",
   "at": "2026-10-31T07:58:47.937Z"
+ },
+ "es/jakarta-lany-the-soft-world-tour": {
+  "hash": "c1b5be86371a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Con un chubasquero ligero, la vuelta a casa resultaba más llevadera que calado hasta los huesos.",
+  "at": "2026-10-31T13:56:50.281Z"
+ },
+ "es/quezon-city-zara-larsson-midnight-sun-tour": {
+  "hash": "5c0a6d5d06e0",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Ningún otro escenario de conciertos de la región metropolitana de Manila tiene tan buenas conexiones",
+  "at": "2026-10-31T13:56:58.824Z"
+ },
+ "ja/quezon-city-zara-larsson-midnight-sun-tour": {
+  "hash": "4128b3e9090d",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "ザラ・ラーソンのスマート・アラネタ・コロシアム公演は、公演日が2026年10月30日でした。",
+  "at": "2026-10-31T13:57:07.116Z"
  }
 }

@@ -6,10 +6,11 @@
   "backfill": 20
  },
  "search": {
-  "spent": 22,
+  "spent": 25,
   "byJob": {
-   "publish": 22
+   "publish": 22,
+   "fill": 3
   }
  },
- "updated": "2026-10-31T13:44:42.130Z"
+ "updated": "2026-10-31T13:53:58.575Z"
 }

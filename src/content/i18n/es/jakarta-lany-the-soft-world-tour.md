@@ -1,85 +1,85 @@
 ---
 lang: es
 slug: jakarta-lany-the-soft-world-tour
-srcHash: '07d56aac69e0'
+srcHash: '984c13b01ddb'
 title: 'LANY en Yakarta con The Soft World Tour: fechas, entradas y recinto'
-description: LANY ofrecerá dos conciertos de The Soft World Tour en Yakarta (Indonesia) los días 29 y 30 de octubre de 2026, dentro de la gira que la banda realiza por Asia y Australia.
-quickAnswer: LANY ofrecerá dos conciertos de The Soft World Tour en Yakarta (Indonesia) los días 29 y 30 de octubre de 2026, dentro de la gira que la banda realiza por Asia y Australia. Consulte el recinto exacto, el horario de apertura de puertas y la venta de entradas en los canales oficiales de LANY y del promotor, y compre únicamente a través de sus enlaces. Para planificar el trayecto por la ciudad, el tráfico de Yakarta pesa tanto como el propio concierto.
+description: La gira The Soft World Tour de LANY anunció dos conciertos en Yakarta (Indonesia) para el 29 y el 30 de octubre de 2026. Era una de las paradas de su recorrido por Asia y Australia.
+quickAnswer: La gira The Soft World Tour de LANY anunció dos conciertos en Yakarta (Indonesia) para el 29 y el 30 de octubre de 2026, dentro de su recorrido por Asia y Australia. Las fechas caían en jueves y viernes. Los grandes conciertos internacionales de Yakarta se reparten entre recintos muy distintos. Algunos están en el complejo deportivo de Senayan, en Yakarta Central, y otros son centros de convenciones de las ciudades satélite. Una noche de concierto en esta ciudad depende tanto del tráfico como del propio espectáculo.
 faq:
-  - q: ¿Cuándo actúa LANY en Yakarta con The Soft World Tour?
-    a: 'LANY dará dos conciertos en Yakarta: el jueves 29 y el viernes 30 de octubre de 2026. Compruebe las fechas y los horarios en la web oficial de LANY y en los canales del promotor.'
-  - q: ¿Dónde se celebra el concierto de LANY en Yakarta?
-    a: El nombre del recinto figura en las páginas oficiales de la gira y del promotor. Consúltelo antes de reservar hotel, ya que los recintos de Yakarta pueden estar tanto en Senayan, en pleno centro, como en ciudades satélite a una hora o más de distancia.
-  - q: ¿Cómo llegar al concierto sin quedarse atrapado en el tráfico?
-    a: Salga con mucha más antelación de la que indique el mapa, sobre todo el viernes. Allí donde llegan hasta el recinto, la línea Norte-Sur del MRT, los carriles exclusivos de TransJakarta y los trenes de cercanías KRL Commuterline permiten esquivar los atascos. Por carretera, lo más rápido son los mototaxis de Gojek y Grab.
-  - q: ¿Qué hay que llevar para poder entrar?
-    a: Lleve un documento de identidad con el mismo nombre que figura en la entrada; los visitantes extranjeros deben llevar el pasaporte. Es posible que haya que canjear la entrada por una pulsera, así que consulte en la página oficial cómo se hace el canje y qué normas rigen para los bolsos.
-  - q: ¿Qué canciones es probable que toque LANY?
-    a: La gira incluye éxitos como «ILYSB» y «Malibu Nights». El repertorio completo no se fija de antemano, por lo que las fechas asiáticas anteriores de la gira son la mejor referencia.
+  - q: ¿Cuándo tocaba LANY en Yakarta con The Soft World Tour?
+    a: Los dos conciertos de LANY en Yakarta se anunciaron para el jueves 29 y el viernes 30 de octubre de 2026, dentro del recorrido de The Soft World Tour por Asia y Australia.
+  - q: ¿Dónde estaba el recinto del concierto de LANY en Yakarta?
+    a: Los grandes conciertos internacionales de Yakarta se reparten entre recintos muy distintos. Algunos están en el complejo deportivo de Senayan, en pleno centro, y otros son centros de convenciones de ciudades satélite situadas a una hora de coche o más. Por eso importaba dónde estaba el hotel.
+  - q: ¿Cómo se llegaba al concierto sin quedarse atrapado en el tráfico?
+    a: Cruzar Yakarta lleva mucho más tiempo de lo que indica el mapa, sobre todo los viernes por la tarde. Cuando el recinto quedaba dentro de su recorrido, la línea Norte-Sur del MRT, los carriles exclusivos de TransJakarta y el KRL Commuterline permitían esquivar los atascos. Por carretera, los mototaxis de Gojek y Grab eran la opción más rápida.
+  - q: ¿Qué hacía falta llevar para entrar?
+    a: Los promotores indonesios suelen vincular las entradas al nombre del comprador y comprobar que coincida con el documento de identidad. Los visitantes extranjeros se identifican con el pasaporte. En muchos conciertos de Yakarta, las entradas electrónicas se cambian por pulseras en una taquilla de canje y se restringe el acceso con bolsos grandes.
+  - q: ¿Qué canciones podía tocar LANY?
+    a: Entre las canciones más conocidas de LANY en Indonesia figuran "ILYSB" y "Malibu Nights". El repertorio completo no estaba cerrado de antemano, así que las paradas asiáticas anteriores de la gira eran la mejor referencia para este tramo.
 ---
 
 ## Dos noches de LANY en Yakarta
 
-LANY pasará dos noches en Yakarta. Los días 29 y 30 de octubre de 2026, la banda de pop de Los Ángeles llevará a la ciudad The Soft World Tour, una gira que también recorre Asia y Australia. Cabe esperar un repertorio centrado en las canciones que la convirtieron en habitual de las listas de reproducción indonesias, como «ILYSB» y «Malibu Nights».
+LANY planteó su visita a Yakarta en dos noches. La banda de pop de Los Ángeles incluyó la ciudad en el calendario de The Soft World Tour los días 29 y 30 de octubre de 2026, dentro de un recorrido por Asia y Australia. Su repertorio gira en torno a canciones como "ILYSB" y "Malibu Nights", que la convirtieron en una presencia fija de las listas de reproducción indonesias.
 
-Que haya dos fechas en una misma ciudad dice mucho de la demanda. Pocos artistas en gira programan una segunda noche en Yakarta si la primera no se vende con fuerza. Conviene, por tanto, planificar este concierto con tiempo en lugar de decidirlo esa misma tarde.
+Pocos artistas en gira programan una segunda noche en Yakarta. Que hubiera dos fechas en la misma ciudad apuntaba, por tanto, a una gran demanda.
 
-Los horarios, el recinto y las entradas deben confirmarse en la web oficial de LANY y en los canales del promotor. Son las únicas fuentes fiables para los datos de esta página.
+Un promotor local oficial gestionaba las fechas indonesias, y la propia banda también las comunicaba en sus anuncios de la gira.
 
-## ¿Jueves o viernes? Cómo elegir la noche
+## ¿Jueves o viernes? Cómo elegir noche
 
-Una fecha cae en jueves y la otra en viernes. En Yakarta, esa diferencia condiciona la velada más de lo que cabría pensar.
+Una fecha caía en jueves y la otra en viernes. En Yakarta, esa diferencia influye en la velada más de lo que muchos visitantes imaginan.
 
-- **Jueves 29 de octubre:** al ser día laborable, habrá que salir pronto para cruzar la ciudad antes de la apertura de puertas. A la salida, en cambio, las calles suelen despejarse antes que en vísperas de fin de semana.
-- **Viernes 30 de octubre:** arranca el fin de semana en una ciudad famosa por los atascos de los viernes por la tarde. A cambio, al día siguiente no hay que madrugar y resulta más fácil darse el gusto de cenar tarde.
-- **Si llega en avión:** a quien viaje desde otro punto de Indonesia o de la región, el viernes le deja el sábado para recuperarse, mientras que el jueves le permite volver a casa el viernes.
+- **Jueves 29 de octubre:** era una noche laborable, así que cruzar la ciudad antes de la apertura de puertas exigía salir con tiempo. A la vuelta, las calles suelen vaciarse antes que en vísperas de fin de semana.
+- **Viernes 30 de octubre:** daba comienzo al fin de semana en una ciudad famosa por los atascos de los viernes por la tarde. A cambio, no había que madrugar al día siguiente y una cena tardía resultaba más fácil de justificar.
+- **Llegada en avión:** a quien venía de otras partes de Indonesia o de la región, el concierto del viernes le dejaba el sábado para recuperarse. Con el del jueves, el viernes quedaba libre para el vuelo de vuelta.
 
-Si tiene entradas para las dos noches, elija una ubicación distinta en cada una. Ver el escenario desde dos ángulos es, en buena medida, la razón por la que muchos fans repiten.
+Los seguidores con entrada para las dos noches suelen escoger una ubicación distinta en cada una, ya sea sentados o de pie. Ver el escenario desde dos ángulos es buena parte de la razón para repetir.
 
 ## Recinto y entradas
 
-El recinto se anuncia en la página oficial de la gira. Esta guía no lo menciona porque, en una ciudad de más de diez millones de habitantes, una suposición errónea puede llevarle a la otra punta.
+El recinto importaba más de lo habitual. Yakarta supera los diez millones de habitantes, y un error de cálculo puede dejarle a uno en la otra punta de la ciudad.
 
-Los grandes conciertos internacionales de Yakarta se reparten por toda el área metropolitana. Algunos se celebran en el complejo deportivo de Senayan, en Yakarta Central, y otros en los recintos de convenciones de las ciudades satélite del sur y del oeste. Entre unos y otros puede haber una hora o más en coche. Por eso conviene comprobar el recinto antes de reservar hotel, y no después.
+Los grandes conciertos internacionales de Yakarta están muy repartidos. Unos tienen lugar en el complejo deportivo de Senayan, en Yakarta Central, y otros en los centros de convenciones de las ciudades satélite del sur y del oeste. Entre unos y otros puede haber una hora de coche o más, de modo que la zona donde se encuentra el hotel cobra mucha importancia.
 
-Para comprar entradas, parta de los enlaces que publiquen LANY y el promotor oficial en Indonesia. Las ofertas de reventa en redes sociales y las de los revendedores callejeros (*calo*, en indonesio) son la principal vía por la que el público pierde dinero en los conciertos de Yakarta. Los precios y las categorías de las entradas figuran en la página oficial de venta.
+Las entradas se vendían a través de LANY y del promotor oficial indonesio, en varias categorías de precio. En los conciertos de Yakarta, la mayoría de las pérdidas de dinero proceden de las reventas ofrecidas en redes sociales y de los revendedores, a los que en indonesio se llama *calo*.
 
-## Cómo cruzar Yakarta la noche del concierto
+## Cruzar Yakarta la noche del concierto
 
-En Yakarta, el verdadero telonero es el tráfico. Calcule mucho más tiempo del que indique el mapa, sobre todo el viernes.
+En Yakarta, el verdadero telonero es el tráfico. Cualquier trayecto dura mucho más de lo que indica el mapa, sobre todo en viernes.
 
 Estas son las principales opciones:
 
 - **MRT Jakarta:** la línea Norte-Sur une Lebak Bulus con Bundaran HI por Jalan Sudirman y Jalan Thamrin. Si el recinto queda cerca, es la forma más rápida de atravesar el eje financiero del centro.
-- **TransJakarta:** esta red de autobuses circula por carriles exclusivos en las vías principales. Es barata y llega a casi todas partes, aunque va abarrotada en hora punta.
-- **KRL Commuterline:** la red de trenes de cercanías resulta práctica si el recinto está en una ciudad satélite como Tangerang.
-- **Grab y Gojek:** los coches y mototaxis (*ojek*) de estas aplicaciones están por todas partes. Una moto se cuela entre atascos en los que los coches no se mueven.
+- **TransJakarta:** esta red de autobuses circula por carriles exclusivos en las grandes avenidas. Es barata y llega a muchísimos puntos, aunque en hora punta va abarrotada.
+- **KRL Commuterline:** la red de trenes de cercanías es útil para llegar a los recintos de ciudades satélite como Tangerang.
+- **Grab y Gojek:** sus coches y mototaxis (*ojek*) están por todas partes. Una moto logra colarse en atascos donde los coches permanecen inmóviles.
 
-Tras el bis, miles de personas abren a la vez las mismas aplicaciones. Las tarifas se disparan y a los conductores les cuesta llegar a las puertas. Lo habitual es que le recojan antes si se aleja unos diez minutos a pie del recinto antes de pedir el viaje.
+Cuando termina un gran concierto, miles de personas abren las mismas aplicaciones a la vez. Los precios se disparan y a los conductores les cuesta llegar hasta las puertas. Si uno se aleja diez minutos a pie del recinto antes de pedir el vehículo, normalmente lo recogen antes.
 
-A finales de octubre empieza la estación de lluvias en Yakarta y son frecuentes los aguaceros intensos al anochecer. Llevar un chubasquero ligero cuesta mucho menos que volver a casa empapado.
+A finales de octubre Yakarta entra en la estación de lluvias, y los aguaceros intensos al anochecer son frecuentes. Con un chubasquero ligero, la vuelta a casa resultaba más llevadera que calado hasta los huesos.
 
-## El canje de entradas, al estilo de Yakarta
+## El canje de entradas en Yakarta
 
-En Indonesia, el acceso a los conciertos sigue su propio ritual. Conocerlo le ahorrará una cola llena de nervios.
+En la entrada de los conciertos indonesios se sigue un ritual propio, y conocerlo hace que la cola resulte menos estresante.
 
-- **Lleve un documento de identidad que coincida con la entrada.** Los promotores locales suelen vincular las entradas al nombre del comprador y comprueban la identidad en el canje o en el acceso. Los visitantes extranjeros deben llevar el pasaporte.
-- **Prevea el canje por pulsera.** En muchos conciertos de Yakarta, las entradas electrónicas se cambian por pulseras en una taquilla de canje, a veces otro día o en otro horario. Lea con atención las instrucciones oficiales de esta gira.
-- **Pague con medios digitales.** En los eventos de Yakarta, los puestos de productos oficiales y de comida suelen aceptar códigos QRIS y monederos electrónicos como GoPay, OVO y DANA, y muchos también admiten tarjeta. Aun así, lleve algunas rupias por si falla la cobertura.
-- **Consulte las normas sobre bolsos.** Los promotores suelen restringir los bolsos grandes, las cámaras profesionales y la entrada de comida y bebida del exterior. En la página oficial se detalla lo que está permitido.
+- **Documento que coincida con la entrada.** Los promotores locales suelen vincular cada entrada al nombre del comprador y comprueban la identificación al canjearla o en el acceso. Los visitantes extranjeros se identifican con el pasaporte.
+- **Canje por pulseras.** En muchos conciertos de Yakarta, las entradas electrónicas se cambian por pulseras en una taquilla de canje, a veces en otro día o en otro horario.
+- **Pago digital.** En los eventos de Yakarta, los puestos de comida y de artículos oficiales suelen aceptar códigos QRIS y monederos electrónicos como GoPay, OVO y DANA, y muchos admiten también tarjeta. Llevar algunas rupias en efectivo viene bien cuando se pierde la cobertura.
+- **Normas sobre bolsos.** Los promotores suelen restringir los bolsos grandes, las cámaras profesionales y la comida y bebida traídas de fuera.
 
-Dentro, el público de Yakarta canta cada palabra a pleno pulmón y en inglés. En la pista, los fans hacen cola desde temprano para conseguir sitio junto a la valla. Si prefiere respirar con tranquilidad, la zona cercana a la mesa de sonido suele ofrecer buena visibilidad y más espacio.
+En la pista, el público de Yakarta acostumbra a cantar todas las letras a pleno pulmón y en inglés. Quienes tienen entrada de pie hacen cola desde temprano para conseguir sitio junto a la valla. Cerca de la mesa de sonido suele haber buena visibilidad y más espacio para moverse.
 
 ## Las canciones que el público espera
 
-El repertorio de LANY premia a quienes conocen sus primeros discos. «ILYSB» es la primera que corea todo el recinto: su gancho de sintetizador en bucle y su título breve la han convertido en una favorita duradera del público indonesio.
+El repertorio de LANY premia a quien conoce sus primeros discos. "ILYSB" es la primera que corea el público indonesio. Su gancho de sintetizador en bucle y su título breve la han convertido en una de las favoritas más duraderas de los oyentes del país.
 
-«Malibu Nights» va en sentido contrario: es lenta, gira en torno al piano y destila desamor. Es de esas canciones en las que se encienden las linternas de los móviles por todo el recinto. El vocalista, Paul Klein, suele charlar con el público entre canción y canción, así que es de esperar alguna pausa para dirigirse directamente a Yakarta.
+"Malibu Nights" va en la dirección contraria: es lenta, se apoya en el piano y habla de un corazón roto. Con canciones así se encienden las linternas de los móviles por todo el recinto. El cantante, Paul Klein, suele charlar con el público entre canción y canción, y a menudo se detiene para dirigirse directamente a la ciudad.
 
-El repertorio no se fija de antemano. Los fans que han seguido las fechas asiáticas anteriores de la gira son la referencia más rápida para saber qué está tocando la banda en esta etapa.
+El repertorio no estaba cerrado de antemano. La forma más rápida de saber qué tocaba la banda en este tramo de la gira era fijarse en los seguidores que la habían acompañado en las paradas asiáticas anteriores.
 
-## Cómo aprovechar la noche
+## Alargar la noche
 
-Llegue con hambre. La comida callejera de Yakarta se sirve hasta tarde y, las noches de concierto, los alrededores de los grandes recintos se llenan de carritos y de puestos de comida (*warung*). Busque nasi goreng, sate ayam y martabak.
+En Yakarta se come en la calle hasta tarde. Las noches de concierto, los alrededores de los grandes recintos suelen llenarse de carritos y de puestos *warung*. Los platos de siempre son el nasi goreng, el sate ayam y el martabak.
 
-Si va a pasar la noche en la ciudad, reserve hotel en la misma zona que el recinto. A medianoche, un trayecto corto es mucho mejor que uno largo por las autopistas de peaje de Yakarta. Antes de cerrar cualquier plan de viaje, confirme los horarios y las entradas en la web oficial.
+Para quien se quedaba a dormir en la ciudad, alojarse en la misma zona que el recinto suponía un trayecto corto de vuelta a medianoche. De lo contrario, tocaba un largo recorrido por las autopistas de peaje de Yakarta.
