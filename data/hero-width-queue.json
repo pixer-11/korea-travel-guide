@@ -3223,7 +3223,14 @@
   "rothenburg-ob-der-tauber-altstadt-rothenburg\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Rothenburg_ob_der_Tauber%2C_Burggarten%2C_Blick_zur_Altstadt%2C_zum_Kobolzeller-_und_Siebersturm.jpg/3840px-Rothenburg_ob_der_Tauber%2C_Burggarten%2C_Blick_zur_Altstadt%2C_zum_Kobolzeller-_und_Siebersturm.jpg": 3840,
   "salta-catedral-basilica-de-salta\u0001https://upload.wikimedia.org/wikipedia/commons/6/6c/Catedral_Bas%C3%ADlica_de_Salta_-_panoramio.jpg": 2816,
   "lake-louise-fairmont-chateau-lake-louise\u0001https://upload.wikimedia.org/wikipedia/commons/9/9b/The_Fairmont_Chateau_Lake_Louise._%289633055517%29.jpg": 2071,
-  "mar-del-plata-catedral-mar-del-plata\u0001https://upload.wikimedia.org/wikipedia/commons/3/36/Interior_de_la_Catedral_de_Mar_del_Plata.JPG": 2848
+  "mar-del-plata-catedral-mar-del-plata\u0001https://upload.wikimedia.org/wikipedia/commons/3/36/Interior_de_la_Catedral_de_Mar_del_Plata.JPG": 2848,
+  "belek-ironman-70-3-turkey\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Ironman_70.3_Budapest%2C_2014.08.23_Helyes_f%C3%A1jln%C3%A9v.jpg/3840px-Ironman_70.3_Budapest%2C_2014.08.23_Helyes_f%C3%A1jln%C3%A9v.jpg": 3840,
+  "calgary-113th-grey-cup\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Green_Day_playing_the_half-time_show_at_the_110th_Grey_Cup_in_Hamilton.jpg/3840px-Green_Day_playing_the_half-time_show_at_the_110th_Grey_Cup_in_Hamilton.jpg": 3840,
+  "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/e/e0/TOTAL_BWF_World_Champs_2015_Day_2_Takeshi_Kamura.jpg": 2096,
+  "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/b/be/Jannik_Sinner_after_winning_NextGen_ATP_Finals_in_Milan%2C_2019.jpg": 3520,
+  "new-york-nba-christmas-day-games\u0001https://upload.wikimedia.org/wikipedia/commons/e/eb/Partido_NBA_-i---i-_%2832248354146%29.jpg": 1920,
+  "tbilisi-tbilisi-christmas-market-new-year-village\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Orbeliani_Palace_on_Christmas.jpg/3840px-Orbeliani_Palace_on_Christmas.jpg": 3840,
+  "incheon-forest-outings\u0001https://fastly.4sqi.net/img/general/original/596941207_rdfOy-vPxNLmr4VCR2C_f4H7PfSkQpGzuKF-r-YGttM.jpg": 1440
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -3396,8 +3403,8 @@
   },
   "mumbai-mokai": {
    "width": 906,
-   "attempts": 8,
-   "nextTry": "2026-10-31",
+   "attempts": 9,
+   "nextTry": "2026-11-07",
    "flaggedAt": "2026-09-03",
    "lastResult": "no-wider"
   },
@@ -3494,8 +3501,8 @@
   },
   "sharjah-arabian-fish-house-restaurant-cafe-al-hirah-beach-sharjah": {
    "width": 1055,
-   "attempts": 5,
-   "nextTry": "2026-10-31",
+   "attempts": 6,
+   "nextTry": "2026-11-07",
    "flaggedAt": "2026-09-19",
    "lastResult": "no-wider"
   },
@@ -3508,8 +3515,8 @@
   },
   "bali-sana-uluwatu": {
    "width": 1080,
-   "attempts": 4,
-   "nextTry": "2026-10-31",
+   "attempts": 5,
+   "nextTry": "2026-11-07",
    "flaggedAt": "2026-09-24",
    "lastResult": "no-wider"
   },
@@ -3743,5 +3750,5 @@
    "flaggedAt": "2026-10-21"
   }
  },
- "updated": "2026-10-31T14:01:12.896Z"
+ "updated": "2026-10-31T23:08:16.680Z"
 }

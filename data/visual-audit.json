@@ -2490,6 +2490,12 @@
   "reason": "patrol reject: Marigold garland/offering, unrelated to a cup/cafe venue",
   "at": "2026-08-20T19:56:57.123Z"
  },
+ "bangkok-city-cup\u0001https://fastly.4sqi.net/img/general/original/25860484_qXDeaN28Cueo7zNs-7Sv5jpFJ1Zt6EfxMGuwmIjPpic.jpg": {
+  "slug": "bangkok-city-cup",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Thai temple, unrelated to a 'City Cup' venue",
+  "at": "2026-10-31T22:46:25.859Z"
+ },
  "bangkok-city-cup\u0001https://fastly.4sqi.net/img/general/original/28234004_a2Kvur8WvwvdcqigmX_PDV7G2bSYJzVLm_GRkkivefk.jpg": {
   "slug": "bangkok-city-cup",
   "verdict": "MISMATCH",
@@ -3993,6 +3999,12 @@
   "reason": "publish gate: Building exterior clearly showing Wangfujing Bookstore signage at night",
   "at": "2026-09-27T07:49:11.985Z"
  },
+ "belek-ironman-70-3-turkey\u0001https://upload.wikimedia.org/wikipedia/commons/0/08/Belinda_Granger_wins_2013_Ironman_70.3_Taiwan.jpg": {
+  "slug": "belek-ironman-70-3-turkey",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Visible photographer credit watermark overlaid on image",
+  "at": "2026-10-31T22:49:41.697Z"
+ },
  "belek-ironman-70-3-turkey\u0001https://upload.wikimedia.org/wikipedia/commons/d/db/Bart_Aernouts_Ironman_70.3_Austria_2012.jpg": {
   "slug": "belek-ironman-70-3-turkey",
   "verdict": "MISMATCH",
@@ -4004,6 +4016,18 @@
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: filename shares only \"ironman\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-30T08:31:02.942Z"
+ },
+ "belek-ironman-70-3-turkey\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Ironman_70.3_Budapest%2C_2014.08.23_Helyes_f%C3%A1jln%C3%A9v.jpg/3840px-Ironman_70.3_Budapest%2C_2014.08.23_Helyes_f%C3%A1jln%C3%A9v.jpg": {
+  "slug": "belek-ironman-70-3-turkey",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Running race event, spectators, outdoor venue",
+  "at": "2026-10-31T22:49:58.124Z"
+ },
+ "belek-ironman-70-3-turkey\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/2016-08-14_Ironman_70.3_Germany_2016_by_Olaf_Kosinsky-90.jpg/3840px-2016-08-14_Ironman_70.3_Germany_2016_by_Olaf_Kosinsky-90.jpg": {
+  "slug": "belek-ironman-70-3-turkey",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: identity: Commons places this in Germany, post says Turkey",
+  "at": "2026-10-31T22:49:51.546Z"
  },
  "belek-ironman-70-3-turkey\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/IRONMAN_70.3_Hradec_Kralove_2024_2.jpg/1920px-IRONMAN_70.3_Hradec_Kralove_2024_2.jpg": {
   "slug": "belek-ironman-70-3-turkey",
@@ -5729,6 +5753,12 @@
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: filename shares only \"grey\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-29T08:14:15.207Z"
+ },
+ "calgary-113th-grey-cup\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Green_Day_playing_the_half-time_show_at_the_110th_Grey_Cup_in_Hamilton.jpg/3840px-Green_Day_playing_the_half-time_show_at_the_110th_Grey_Cup_in_Hamilton.jpg": {
+  "slug": "calgary-113th-grey-cup",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Grey Cup event, stadium concert stage setup",
+  "at": "2026-10-31T22:52:17.908Z"
  },
  "calgary-113th-grey-cup\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/111th_Grey_Cup%2C_Toronto_Argonauts_celebration_%281%29.jpg/3840px-111th_Grey_Cup%2C_Toronto_Argonauts_celebration_%281%29.jpg": {
   "slug": "calgary-113th-grey-cup",
@@ -10574,6 +10604,12 @@
   "reason": "hand-reviewed: filename shares no word with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-30T08:31:03.207Z"
  },
+ "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/e/e0/TOTAL_BWF_World_Champs_2015_Day_2_Takeshi_Kamura.jpg": {
+  "slug": "hangzhou-bwf-world-tour-finals",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Badminton player at competition in red uniform",
+  "at": "2026-10-31T22:56:17.411Z"
+ },
  "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/f/f6/2018_BWF_World_Championships.jpg": {
   "slug": "hangzhou-bwf-world-tour-finals",
   "verdict": "MISMATCH",
@@ -12574,6 +12610,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: audit: Indoor tropical garden, not Incheon forest venue",
   "at": "2026-08-23T06:14:15.983Z"
+ },
+ "incheon-forest-outings\u0001https://fastly.4sqi.net/img/general/original/596941207_rdfOy-vPxNLmr4VCR2C_f4H7PfSkQpGzuKF-r-YGttM.jpg": {
+  "slug": "incheon-forest-outings",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Trendy café pastries, plausible Incheon venue",
+  "at": "2026-10-31T22:57:56.634Z"
  },
  "incheon-forest-outings\u0001https://fastly.4sqi.net/img/general/original/77790445_AgRQFoY2CDeDFZcxr9SVL4BueSpPOzQn7IcLyef_LOs.jpg": {
   "slug": "incheon-forest-outings",
@@ -17397,6 +17439,18 @@
   "reason": "patrol reject: Visible photographer watermark overlaid on image",
   "at": "2026-10-26T23:20:09.100Z"
  },
+ "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/9/90/Nitto_ATP_Finals_logo.jpg": {
+  "slug": "london-atp-finals",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: width: 496px < 1024",
+  "at": "2026-10-31T23:00:02.741Z"
+ },
+ "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/b/be/Jannik_Sinner_after_winning_NextGen_ATP_Finals_in_Milan%2C_2019.jpg": {
+  "slug": "london-atp-finals",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Tennis match ceremony at professional event venue",
+  "at": "2026-10-31T23:00:05.724Z"
+ },
  "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/f/ff/Rafa_Nadal_exits_O2_Arena_after_defeat_to_defending_champion_Alexander_Zverev_at_Nitto_ATP_Finals_2019_%2849052005756%29.jpg": {
   "slug": "london-atp-finals",
   "verdict": "MISMATCH",
@@ -17408,6 +17462,12 @@
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: filename shares only \"finals\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-24T02:12:34.707Z"
+ },
+ "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Cincinnati-Tennis-2015-ATP-WTA-58_%2820827622816%29.jpg/3840px-Cincinnati-Tennis-2015-ATP-WTA-58_%2820827622816%29.jpg": {
+  "slug": "london-atp-finals",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: WTA women's event with watermark, not ATP Finals",
+  "at": "2026-10-31T23:00:02.551Z"
  },
  "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Doubles_at_the_ATP_Finals_%2849070108528%29.jpg/3840px-Doubles_at_the_ATP_Finals_%2849070108528%29.jpg": {
   "slug": "london-atp-finals",
@@ -17438,6 +17498,12 @@
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: filename shares only \"finals\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-20T08:30:43.766Z"
+ },
+ "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Cincinnati-Tennis-2015-ATP-WTA-5_%2820666136738%29.jpg/3840px-Cincinnati-Tennis-2015-ATP-WTA-5_%2820666136738%29.jpg": {
+  "slug": "london-atp-finals",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Watermark present and WTA event, not ATP",
+  "at": "2026-10-31T22:59:56.437Z"
  },
  "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/2019_ATP_Finals_at_the_o2_%2849069150561%29.jpg/3840px-2019_ATP_Finals_at_the_o2_%2849069150561%29.jpg": {
   "slug": "london-atp-finals",
@@ -22029,6 +22095,12 @@
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: filename shares no word with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-27T10:38:23.926Z"
+ },
+ "new-york-nba-christmas-day-games\u0001https://upload.wikimedia.org/wikipedia/commons/e/eb/Partido_NBA_-i---i-_%2832248354146%29.jpg": {
+  "slug": "new-york-nba-christmas-day-games",
+  "verdict": "MATCH",
+  "reason": "patrol replace: NBA game at arena, Christmas Day context fits",
+  "at": "2026-10-31T23:00:35.322Z"
  },
  "new-york-nba-christmas-day-games\u0001https://upload.wikimedia.org/wikipedia/commons/e/ef/Partido_NBA_-i---i-_%2831445366164%29.jpg": {
   "slug": "new-york-nba-christmas-day-games",
@@ -32194,6 +32266,18 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Close-up of ornaments/basket, not market scene",
   "at": "2026-10-29T01:12:50.510Z"
+ },
+ "tbilisi-tbilisi-christmas-market-new-year-village\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Salome_Zourabichvili_at_Armenian_Christmas_Mass.jpg/3840px-Salome_Zourabichvili_at_Armenian_Christmas_Mass.jpg": {
+  "slug": "tbilisi-tbilisi-christmas-market-new-year-village",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Church gathering with masks, unrelated to Christmas market",
+  "at": "2026-10-31T23:05:38.677Z"
+ },
+ "tbilisi-tbilisi-christmas-market-new-year-village\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Orbeliani_Palace_on_Christmas.jpg/3840px-Orbeliani_Palace_on_Christmas.jpg": {
+  "slug": "tbilisi-tbilisi-christmas-market-new-year-village",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Tbilisi government building festively decorated for holidays",
+  "at": "2026-10-31T23:05:41.667Z"
  },
  "tbilisi-tbilisi-christmas-market-new-year-village\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Christmas_Lights_in_Orbeliani_Palace_Yard.jpg/3840px-Christmas_Lights_in_Orbeliani_Palace_Yard.jpg": {
   "slug": "tbilisi-tbilisi-christmas-market-new-year-village",
