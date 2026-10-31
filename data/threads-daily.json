@@ -101,27 +101,28 @@
     "auckland-christmas-in-the-park-auckland",
     "los-angeles-triples-world-tour-andless-los-angeles",
     "lima-martin-garrix-lima-2026",
-    "vancouver-triples-world-tour-andless-vancouver"
+    "vancouver-triples-world-tour-andless-vancouver",
+    "chonburi-bangsaen42-chonburi-marathon"
   ],
-  "lastSentDay": "2026-10-31",
+  "lastSentDay": "2026-11-01",
   "material": {
-    "day": "2026-10-31",
-    "slug": "vancouver-triples-world-tour-andless-vancouver",
-    "title": "tripleS World Tour ANDLESS - Vancouver: Dates, Tickets & Venue (Vancouver)",
+    "day": "2026-11-01",
+    "slug": "chonburi-bangsaen42-chonburi-marathon",
+    "title": "Bangsaen42 Chonburi Marathon: Dates, Tickets & Venue (Chonburi)",
     "urls": [
-      "https://wanderatlasguides.com/og/social/2026-10-31-vancouver-triples-world-tour-andless-vancouver-1.jpg",
-      "https://wanderatlasguides.com/og/social/2026-10-31-vancouver-triples-world-tour-andless-vancouver-2.jpg"
+      "https://wanderatlasguides.com/og/social/2026-11-01-chonburi-bangsaen42-chonburi-marathon-1.jpg",
+      "https://wanderatlasguides.com/og/social/2026-11-01-chonburi-bangsaen42-chonburi-marathon-2.jpg"
     ],
-    "igCaption": "tripleS brings their ANDLESS World Tour to The Centre in Vancouver on November 26, 2026 — a steep-tiered 1995 theatre designed by Moshe Safdie, right across from the library he also built. Expect lightsticks lighting up the room, fan chants by the second chorus, and WAV fans trading photocards on the plaza before doors.\n\n#Vancouver #Canada #events #travel #wanderatlas #KpopTravel #tripleS #ANDLESSTour #TravelG\n📷 Photo: David Lee / Wikimedia Commons (CC BY 4.0) (edited)",
-    "thOption": "WAV fans trade fan-made photocards and stickers on the library plaza before doors even open. Would you bring your own to swap with strangers before a show?",
-    "link": "https://wanderatlasguides.com/posts/vancouver-triples-world-tour-andless-vancouver/"
+    "igCaption": "A full marathon with the Gulf of Thailand on one side — Bangsaen42 starts in darkness and finishes with sea air, beach deckchairs, and seafood waiting at the end. A coastal race close to Bangkok, with a whole town behind it.\n\n#Chonburi #Thailand #events #travel #wanderatlas #Bangsaen42 #ThailandMarathon #RunningCommunity #BangSaen #TravelThailand\n📷 Photo: atreyu / Wikimedia Commons (CC BY-SA 3.0) (edited)",
+    "thOption": "After 42.195km in Bang Saen, would you rent a beachfront deckchair and order food right to it, or head straight for Nong Mon Market's sticky rice?",
+    "link": "https://wanderatlasguides.com/posts/chonburi-bangsaen42-chonburi-marathon/"
   },
   "social": {
-    "thDay": "2026-10-31",
-    "thId": "18019322585956535",
+    "thDay": "2026-11-01",
+    "thId": "18122852704947290",
     "igDay": "2026-10-30",
     "igId": "18024068792943409",
-    "thSlug": "vancouver-triples-world-tour-andless-vancouver",
+    "thSlug": "chonburi-bangsaen42-chonburi-marathon",
     "igSlug": "lima-martin-garrix-lima-2026",
     "history": [
       {
@@ -406,7 +407,17 @@
       {
         "day": "2026-10-25",
         "slug": "kolkata-victoria-memorial",
-        "thId": "17881106160546045"
+        "thId": "17881106160546045",
+        "insights": {
+          "at": "2026-11-01",
+          "th": {
+            "views": 12,
+            "likes": 0,
+            "replies": 0,
+            "reposts": 0,
+            "quotes": 0
+          }
+        }
       },
       {
         "day": "2026-10-26",
@@ -440,6 +451,11 @@
         "day": "2026-10-31",
         "slug": "vancouver-triples-world-tour-andless-vancouver",
         "thId": "18019322585956535"
+      },
+      {
+        "day": "2026-11-01",
+        "slug": "chonburi-bangsaen42-chonburi-marathon",
+        "thId": "18122852704947290"
       }
     ]
   }
