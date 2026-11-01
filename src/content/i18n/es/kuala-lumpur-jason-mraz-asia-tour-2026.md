@@ -1,84 +1,84 @@
 ---
 lang: es
 slug: kuala-lumpur-jason-mraz-asia-tour-2026
-srcHash: '4d82185d6241'
-title: 'Jason Mraz en Kuala Lumpur con su gira asiática de 2026: fecha, entradas y recinto'
-description: La gira asiática de 2026 de Jason Mraz llega a Kuala Lumpur el sábado 31 de octubre de 2026. El concierto será en el Estadio Nacional de Hockey de Bukit Jalil, dentro del Complejo Deportivo Nacional.
-quickAnswer: La gira asiática de 2026 de Jason Mraz llega a Kuala Lumpur el sábado 31 de octubre de 2026. El concierto será en el Estadio Nacional de Hockey (National Hockey Stadium) de Bukit Jalil, dentro del Complejo Deportivo Nacional (National Sports Complex). Lo más cómodo para llegar es tomar la línea Sri Petaling del LRT hasta la estación de Bukit Jalil. Consulte los horarios, las entradas y los detalles del recinto en las páginas oficiales de la gira y de venta de entradas.
+srcHash: '62c95881cb46'
+title: 'Jason Mraz Asia Tour 2026: fechas, entradas y recinto (Kuala Lumpur)'
+description: La gira Jason Mraz Asia Tour 2026 tenía previsto pasar por Kuala Lumpur el sábado 31 de octubre de 2026, con concierto en el Estadio Nacional de Hockey de Bukit Jalil.
+quickAnswer: La gira Jason Mraz Asia Tour 2026 tenía prevista su parada en Kuala Lumpur el sábado 31 de octubre de 2026. El concierto era en el Estadio Nacional de Hockey (National Hockey Stadium) de Bukit Jalil, dentro del Complejo Deportivo Nacional. Lo más sencillo para llegar era tomar la línea LRT Sri Petaling hasta la estación de Bukit Jalil, que tiene acceso directo al complejo.
 faq:
-  - q: ¿Cuándo y dónde actúa Jason Mraz en Kuala Lumpur en 2026?
-    a: Actúa el sábado 31 de octubre de 2026 en el Estadio Nacional de Hockey (National Hockey Stadium) de Bukit Jalil, en Kuala Lumpur, dentro de su gira asiática de 2026. Consulte los horarios y las entradas en las páginas oficiales de la gira y de venta de entradas.
-  - q: ¿Cuál es la mejor manera de llegar al Estadio Nacional de Hockey de Bukit Jalil?
-    a: Tome la línea Sri Petaling del LRT hasta la estación de Bukit Jalil, que da servicio al Complejo Deportivo Nacional. Desde allí, atraviese el complejo a pie hasta el estadio de hockey. En tren se evita el tráfico que colapsa las carreteras de la zona las noches de evento.
-  - q: ¿El recinto es cubierto o al aire libre?
-    a: Es un estadio de hockey sobre hierba al aire libre, así que estará expuesto a las inclemencias del tiempo. En Kuala Lumpur son frecuentes las tormentas nocturnas en octubre. Lleve un poncho y consulte las normas del organizador sobre paraguas y otros objetos.
-  - q: ¿Dónde se puede comer antes del concierto?
-    a: El centro comercial Pavilion Bukit Jalil, cerca del complejo deportivo, cuenta con patios de comidas y restaurantes. A una o dos paradas en la línea del LRT, Sri Petaling ofrece numerosos restaurantes chinos y locales mamak abiertos hasta tarde donde sirven roti canai y teh tarik.
-  - q: ¿Cómo se vuelve después del concierto?
-    a: La mayor parte del público se dirige directamente a la estación de Bukit Jalil del LRT, por lo que esperar entre 15 y 20 minutos después del bis suele permitir encontrar el andén menos lleno. Consulte el horario de los últimos trenes en la web de Rapid KL. Si prefiere pedir un Grab, aléjese antes unos minutos de las salidas principales.
+  - q: ¿Cuándo y dónde actuaba Jason Mraz en Kuala Lumpur en 2026?
+    a: El concierto estaba fijado para el sábado 31 de octubre de 2026 en el Estadio Nacional de Hockey de Bukit Jalil, en Kuala Lumpur. Era una de las fechas de su gira Asia 2026.
+  - q: ¿Cuál era la mejor forma de llegar al Estadio Nacional de Hockey de Bukit Jalil?
+    a: La línea LRT Sri Petaling llega hasta la estación de Bukit Jalil, que da servicio al Complejo Deportivo Nacional. Desde allí se llega a pie al estadio de hockey cruzando el complejo. En tren se evitan los atascos que se forman en las carreteras de alrededor las noches de eventos.
+  - q: ¿El recinto era cubierto o al aire libre?
+    a: Es un estadio de hockey sobre hierba al aire libre, así que el público queda a merced del tiempo. En octubre son frecuentes las tormentas nocturnas en Kuala Lumpur. Lo habitual es llevar un chubasquero ligero. Las normas sobre paraguas varían según el evento.
+  - q: ¿Dónde se podía comer antes del concierto?
+    a: Junto al complejo deportivo, el centro comercial Pavilion Bukit Jalil tiene zonas de restauración y restaurantes. A una o dos paradas en la línea de LRT, Sri Petaling reúne numerosos restaurantes chinos y locales mamak que cierran tarde y sirven roti canai y teh tarik.
+  - q: ¿Cómo se volvía a casa después del concierto?
+    a: Al terminar los grandes conciertos que se celebran aquí, casi todo el público se dirige directamente a la estación de LRT de Bukit Jalil. Por eso, si se esperaba entre 15 y 20 minutos después del bis, el andén solía estar menos abarrotado. Rapid KL publica en su web el horario del último tren. Los conductores de Grab suelen recoger antes a los pasajeros si estos se alejan unos minutos a pie de las salidas principales.
 ---
 
-## Noche de sábado en Bukit Jalil
+## Sábado por la noche en Bukit Jalil
 
-El concierto será el sábado 31 de octubre de 2026. Esa noche es Halloween y coincide con el final de la semana laboral, así que media ciudad estará en la calle.
+La fecha anunciada era el sábado 31 de octubre de 2026. Era noche de Halloween y caía al final de la semana laboral.
 
-Jason Mraz trae su gira asiática de 2026 al Estadio Nacional de Hockey (National Hockey Stadium) de Bukit Jalil, en el sur de Kuala Lumpur. Este cantautor firma éxitos como «I'm Yours», «I Won't Give Up» y «Lucky», el dueto que grabó con Colbie Caillat. Cabe esperar un público aficionado al sonido acústico que se sabe todos los estribillos de memoria.
+Jason Mraz tenía programada una parada de su gira Asia 2026 en el Estadio Nacional de Hockey (National Hockey Stadium) de Bukit Jalil, al sur de Kuala Lumpur. Este cantautor firma éxitos como "I'm Yours", "I Won't Give Up" y "Lucky", el dueto que grabó con Colbie Caillat. Son canciones hechas para que el público las cante con él.
 
-Esta guía recoge lo que se conoce hasta ahora: la fecha, el recinto y la manera de llegar. El anuncio en el que se basa no incluía teloneros, horarios de actuación ni el repertorio. Consulte los horarios y las entradas en la web oficial y en la página de su proveedor de entradas.
+El anuncio daba la fecha y el recinto. No mencionaba teloneros, horarios ni repertorio.
 
 ## Un campo de hockey, no un pabellón
 
-El Estadio Nacional de Hockey se construyó para el hockey sobre hierba y no como sala de conciertos, algo que marca el carácter de la velada.
+El Estadio Nacional de Hockey se construyó para el hockey sobre hierba y no como sala de conciertos, algo que condiciona cómo se desarrolla allí un concierto.
 
-Se encuentra dentro del Complejo Deportivo Nacional (National Sports Complex), el mismo recinto deportivo de Bukit Jalil donde están el Estadio Nacional de Bukit Jalil y el Axiata Arena. Se levantó para acoger las pruebas de hockey de los Juegos de la Mancomunidad de 1998, celebrados en Kuala Lumpur. En los conciertos, el escenario se monta en uno de los fondos del campo y las gradas se alzan a ambos lados.
+Forma parte del Complejo Deportivo Nacional (National Sports Complex), el mismo recinto deportivo de Bukit Jalil que alberga el Estadio Nacional de Bukit Jalil y el Axiata Arena. Se levantó para las pruebas de hockey de los Juegos de la Mancomunidad de Kuala Lumpur 1998. Cuando hay concierto, el escenario se monta en un extremo del campo y las gradas se elevan a ambos lados.
 
-Al tratarse de un recinto al aire libre, el sonido se propaga de otra manera que en un pabellón cerrado. Desde las gradas se gana altura y se ve el escenario sin obstáculos. En la pista se está más cerca, pero hay que aguantar de pie todo el concierto. Antes de ir, compruebe en la categoría de su entrada qué zona le corresponde.
+Como el campo está al aire libre, el sonido no se propaga igual que en un pabellón cerrado. Desde las gradas se ve el escenario desde arriba y sin obstáculos. En la pista se está más cerca, pero de pie durante todo el concierto. La categoría de la entrada determina a qué zona da acceso.
 
-## Cómo llegar en la línea Sri Petaling
+## En tren por la línea Sri Petaling
 
-Vaya en tren. Casi todo el mundo intentará llegar en coche o pedir un vehículo, y en las noches de grandes eventos las carreteras que rodean el complejo se colapsan.
+Lo más sencillo es ir en tren. Las noches de grandes eventos, la mayoría de la gente intenta llegar en coche o en vehículo con conductor, y las carreteras que rodean el complejo se colapsan.
 
-- **Línea:** línea Sri Petaling del LRT (Línea 4 en el plano de Rapid KL).
-- **Estación:** Bukit Jalil, que da servicio directo al Complejo Deportivo Nacional.
-- **Desde KLCC o Bukit Bintang:** según el trayecto, haga transbordo en Masjid Jamek o en Hang Tuah a la línea Sri Petaling en dirección sur.
-- **Desde la estación:** siga a la multitud y las indicaciones del estadio a través del complejo. Al estadio de hockey se llega a pie, sin necesidad de autobús.
+- **Línea:** LRT Sri Petaling Line (línea 4 en el mapa de Rapid KL).
+- **Estación:** Bukit Jalil, con acceso directo al Complejo Deportivo Nacional.
+- **Desde KLCC o Bukit Bintang:** según el trayecto, se hace transbordo en Masjid Jamek o en Hang Tuah a la línea Sri Petaling en dirección sur.
+- **Desde la estación:** hay que cruzar el complejo siguiendo los carteles del estadio. Se llega a pie al estadio de hockey, sin necesidad de autobús.
 
-En los tornos puede pagar con la tarjeta Touch 'n Go o, si el lector lo admite, con una tarjeta bancaria sin contacto. Recargue el saldo antes del concierto, porque a la vuelta es en las máquinas donde se forman las colas más largas.
+El billete se paga en los tornos con la tarjeta Touch 'n Go. También se puede pagar con una tarjeta bancaria sin contacto si el lector la admite. Cuando la gente vuelve de un concierto, las colas más largas se forman ante las máquinas de recarga.
 
-## Previsión ante las lluvias de octubre
+## Las lluvias de octubre
 
-En Kuala Lumpur, octubre forma parte del periodo entre monzones. Las tormentas son habituales a última hora de la tarde y por la noche, y estallan de repente.
+En Kuala Lumpur, octubre coincide con el periodo entre monzones. Son frecuentes las tormentas al caer la tarde y por la noche, y llegan de golpe.
 
-En un campo de hockey al aire libre, esto no es un detalle menor. Un chaparrón puede caer con las puertas ya abiertas o en pleno concierto, y es posible que algunas zonas de asientos no estén cubiertas. Las normas sobre paraguas cambian de un evento a otro, así que compruebe qué permite el organizador.
+En un campo de hockey al aire libre, eso importa. Puede caer un aguacero con las puertas ya abiertas o en plena actuación, y es posible que algunas zonas de asientos no estén cubiertas. Las normas sobre paraguas varían según el evento.
 
-- Un poncho ligero ocupa menos que un paraguas y no le tapa la vista a nadie.
-- En una bolsa con cierre hermético el móvil se mantiene seco, al igual que la entrada electrónica si piensa mostrarla en pantalla.
-- Si va a estar en la pista, conviene llevar un calzado que aguante el césped mojado en lugar de sandalias.
+- Un chubasquero ligero ocupa menos que un paraguas y no le tapa la vista a nadie.
+- En una bolsa con cierre hermético, el móvil se mantiene seco, y con él la entrada electrónica que se muestra en pantalla.
+- En las zonas de pie, un calzado que aguante el césped mojado es mejor opción que unas sandalias.
 
-El calor no afloja ni siquiera de noche. Beba agua antes de ponerse en la cola de acceso y consulte las normas del recinto sobre qué botellas se pueden entrar.
+El calor no da tregua ni siquiera de noche, y las colas de acceso dan sed. Las botellas que pueden entrar dependen de las normas que fije el recinto para cada evento.
 
-## Entrada y salida del recinto
+## Entrar y salir del recinto
 
-Los grandes conciertos de Bukit Jalil siguen siempre una pauta parecida: las puertas abren con bastante antelación al inicio de la música y la cola no deja de crecer a partir de ese momento.
+Los grandes conciertos de Bukit Jalil siguen una pauta conocida. Las puertas se abren mucho antes de que empiece la música y desde entonces la cola no deja de crecer.
 
-El público malasio suele esperar en la cola con orden y paciencia. La mayoría lleva las entradas en el móvil y en el acceso se registran los bolsos de forma habitual. Tenga también a mano su documento de identidad, ya que algunos organizadores comprueban que el nombre coincida con el de la entrada.
+En Malasia, el público de los conciertos suele hacer cola con orden y paciencia. La mayoría lleva la entrada en el móvil y los bolsos se registran en el acceso. También suele haber controles de identidad, porque algunos organizadores comprueban que el nombre coincida con el de la entrada.
 
-Compre únicamente a través del canal oficial que indique la gira. Las ofertas de reventa en redes sociales para conciertos agotados en Kuala Lumpur son un riesgo conocido, y un código QR falso no se descubre hasta que pasa por el escáner. Consulte las normas de acceso, los objetos permitidos y los límites de edad en la página oficial del evento.
+Cuando un concierto en Kuala Lumpur agota las entradas, en las redes sociales aparecen ofertas de reventa que entrañan un riesgo conocido: un código QR falso no se descubre hasta pasar por el escáner. Las condiciones de acceso, los objetos permitidos y los límites de edad los fija el organizador de cada evento.
 
-Al terminar el bis, miles de personas se dirigen a la misma estación del LRT. Hay dos opciones: salir enseguida y resignarse al andén abarrotado, o esperar a que pase la primera oleada. Quedarse veinte minutos en la grada o tomar algo por la zona suele asegurar un tren menos lleno.
+Aquí, al terminar el bis, miles de personas se dirigen a una sola estación de LRT. Algunos salen directamente y se encuentran con el andén abarrotado. Otros dejan pasar la primera oleada. Quedarse veinte minutos en la grada o tomar algo por los alrededores suele permitir subir a un tren menos lleno.
 
-## Dónde comer antes y después
+## Comer antes y después
 
-Llegue ya comido. Las colas de los puestos de comida del estadio avanzan despacio, y usted ha venido por la música.
+En el estadio, las colas para comprar comida avanzan despacio, así que la mayoría del público come antes de entrar.
 
-A una o dos paradas en la misma línea se encuentra Sri Petaling, con calles repletas de restaurantes chinos y locales mamak. Así se llaman los establecimientos indomusulmanes que abundan por toda Malasia, muchos de ellos abiertos hasta tarde. Pida un roti canai con dhal, un mee goreng mamak o un teh tarik, el té dulce con leche que se «estira» vertiéndolo de una jarra a otra para que haga espuma.
+A una o dos paradas en la misma línea, Sri Petaling tiene calles enteras de restaurantes chinos y locales mamak. Así se llaman los restaurantes indomusulmanes que abundan en toda Malasia, y muchos cierran tarde. Lo habitual es pedir roti canai con dhal o mee goreng mamak. También es típico el teh tarik, un té con leche dulce que se «estira» pasándolo de una jarra a otra para que haga espuma.
 
-Se paga en la barra o en la mesa, a menudo en efectivo, pero también con DuitNow QR o con monedero electrónico.
+Se paga en la barra o en la mesa, en efectivo y a menudo también con DuitNow QR o con monedero electrónico.
 
-Si prefiere el aire acondicionado, el gran centro comercial Pavilion Bukit Jalil está cerca del complejo deportivo. Tiene patios de comidas y restaurantes de cadena, y es un buen refugio para esperar a que pase una tormenta antes de que abran las puertas. Un sábado cabe esperar mucha gente.
+Para quien prefiere el aire acondicionado está Pavilion Bukit Jalil, el gran centro comercial cercano al complejo deportivo. Tiene zonas de restauración y restaurantes de cadena, y es un buen refugio mientras pasa una tormenta. Los sábados suele haber mucha gente.
 
 ## Halloween en las gradas
 
-Es un concierto en Halloween, una fecha que los centros comerciales y los bares de Kuala Lumpur sí celebran. Puede que vea gente disfrazada entre el público, aunque el concierto no exige ningún disfraz.
+El concierto caía en Halloween, y en Kuala Lumpur los centros comerciales y los bares no dejan pasar esa fecha. El anuncio, sin embargo, no pedía a los fans que fueran disfrazados.
 
-Si se aloja en el centro de Kuala Lumpur, Bukit Bintang seguirá animado cuando vuelva del concierto. Antes de salir, consulte en la web de Rapid KL a qué hora pasa el último tren. Si lo pierde, lo habitual es recurrir a aplicaciones de transporte como Grab, aunque conviene contar con tarifas dinámicas y con colas de recogida en los alrededores del complejo. Aléjese unos minutos de las salidas principales antes de pedir el vehículo: allí los conductores le encontrarán antes.
+Los sábados, Bukit Bintang, en el centro de Kuala Lumpur, suele seguir animado hasta tarde. Rapid KL publica en su web el horario del último tren. Una vez pasado, lo habitual es recurrir a aplicaciones de transporte como Grab. Tras los grandes eventos, sin embargo, suele haber tarifas dinámicas y colas de recogida cerca del complejo. Los conductores encuentran antes a sus pasajeros si estos se alejan unos minutos a pie de las salidas principales.
