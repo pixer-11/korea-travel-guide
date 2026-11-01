@@ -273,6 +273,23 @@ test('이번 달·다음 달 제목과 "진행 중" 제목은 통과한다', () 
   assert.equal(r.code, 0, r.out);
 });
 
+// 2026-11-01: 빌드는 10-31 23:12 UTC 에 시작, 이 검사는 자정 뒤에 돌아 그날
+// 맞게 만든 "octubre de 2026" 55쪽을 지난 달로 신고했다. 판정 기준은 빌드가
+// dist/build-day.txt 에 남긴 날짜다.
+test('빌드한 날 기준으로 판정한다 — 자정을 넘겨 돌아도 그날 맞던 제목은 통과', () => {
+  const root = dist({
+    'es/events/australia/index.html': hubPage('octubre de 2026'),
+    'build-day.txt': '2026-10-31\n',
+  });
+  const r = run(root);
+  writeFileSync(join(root, 'dist', 'build-day.txt'), '2026-11-01\n');
+  const r2 = run(root);
+  rmSync(root, { recursive: true, force: true });
+  assert.equal(r.code, 0, r.out);
+  assert.equal(r2.code, 1, r2.out);
+  assert.match(r2.out, /PAST-MONTH-HEAD/);
+});
+
 test('이벤트 허브가 아닌 페이지의 지난 달 제목은 규칙 밖이다', () => {
   // 예: 여행기·연표처럼 과거를 말하는 것이 정상인 페이지.
   const root = dist({ 'destinations/index.html': hubPage(monthLabel(5)) });

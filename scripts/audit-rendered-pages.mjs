@@ -98,7 +98,13 @@ const attr = (tag, name) => {
 // The site is rebuilt daily, so a date parameter is only ever wrong if someone
 // hardcoded it. Compared against the BUILD's own date, not a fixed string.
 const DATE_PARAM = /(?:checkIn|checkOut|check_in|check_out|depart_date|return_date)=(\d{4}-\d{2}-\d{2})/g;
-const today = new Date().toISOString().slice(0, 10);
+// The day the pages were rendered for (astro.config.mjs writes it), not the
+// day this audit happens to run. 2026-11-01: the build started 23:12 UTC on
+// 10-31, this audit ran after midnight, and 55 hub pages were reported for an
+// "October" heading that was correct on the day they were built
+// (audit-feed-noindex.mjs has read the stamp since 10-03).
+const stamped = existsSync('dist/build-day.txt') ? readFileSync('dist/build-day.txt', 'utf8').trim() : '';
+const today = /^\d{4}-\d{2}-\d{2}$/.test(stamped) ? stamped : new Date().toISOString().slice(0, 10);
 
 // ---- rule 4: exactly one h1 ----
 const H1 = /<h1\b[^>]*>/gi;
@@ -137,7 +143,7 @@ const OG_TAG = /<meta\b(?:[^>"']|"[^"]*"|'[^']*')*property="og:image"(?:[^>"']|"
 const EVENTS_PAGE = /^\/(?:[a-z]{2}\/)?events\//;
 const PAST_MONTH_LABELS = (() => {
   const out = new Set();
-  const now = new Date();
+  const now = new Date(`${today}T12:00:00Z`);
   for (const code of ['en', 'ko', 'ja', 'es', 'zh-Hans']) {
     for (let back = 1; back <= 36; back++) {
       const d = new Date(Date.UTC(now.getUTCFullYear(), now.getUTCMonth() - back, 1));
