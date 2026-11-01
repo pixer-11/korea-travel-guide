@@ -212,6 +212,12 @@ const TRANSLATION_FLAG = {
   'korean-leak': '다른 언어 번역에 한국어가 섞임',
   'japanese-leak': '다른 언어 번역에 일본어가 섞임',
   'cjk-leak': '스페인어 번역에 한글·한자·가나가 섞임',
+  // 11-01: TRUNCATED-DESCRIPTION 이 "번역 점검 필요 (코드)"로 갔다. audit-translations
+  // 가 내는 코드 전부를 대조해 빠진 4종을 함께 넣는다.
+  'TRUNCATED-DESCRIPTION': '검색 요약문(description)이 문장 중간에서 잘림',
+  'MISSING-SRCHASH': '원문 확인 표시(srcHash)가 없어 원문이 바뀌어도 재번역되지 않음',
+  'TOOL-SPILL': 'AI 도구 출력이 번역문에 그대로 유출됨',
+  'PLACEHOLDER-BODY': '본문이나 답변이 "placeholder" 한 단어뿐임',
 };
 
 export function koIssueLine(raw) {

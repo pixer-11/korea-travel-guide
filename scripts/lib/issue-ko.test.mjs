@@ -95,7 +95,8 @@ test('번역 검사 사유가 한국어로 나온다', () => {
 
 test('대문자 사유가 섞여도 번역 검사 줄을 알아본다 (코덱스 09-26)', () => {
   const out = koIssueLine('• posts/zh/a.md: broken-bold, MISSING-SRCHASH');
-  assert.match(out, /굵게 표시.*번역 점검 필요 \(MISSING-SRCHASH\)/);
+  // MISSING-SRCHASH got its own Korean on 11-01; the point is both reasons show.
+  assert.match(out, /굵게 표시.*원문 확인 표시\(srcHash\)/);
 });
 
 // 2026-10-05: 61 unreviewed event heroes reached the owner as "문제 248건", most
@@ -191,4 +192,18 @@ test('every validate-content message shape has Korean of its own', () => {
     assert.match(out, /[가-힣]/);
   }
   assert.match(koIssueLine(lines[0]), /"Cebu"로 맞춰야/);
+});
+
+// 2026-11-01: an es translation's cut description reached the owner as
+// "번역 점검 필요 (TRUNCATED-DESCRIPTION)". Every code audit-translations.mjs
+// can push must have Korean.
+test('every audit-translations code has Korean of its own', async () => {
+  const { readFileSync } = await import('node:fs');
+  const src = readFileSync(new URL('../audit-translations.mjs', import.meta.url), 'utf8');
+  const codes = [...new Set([...src.matchAll(/flags\.push\(\[\s*'([A-Za-z-]+)'/g)].map((m) => m[1]))];
+  assert.ok(codes.length >= 8, `found only ${codes.length} codes — the pattern no longer matches the audit`);
+  for (const c of codes) {
+    const out = koIssueLine(`posts/es/incheon-forest-outings.md: ${c}`);
+    assert.doesNotMatch(out, /번역 점검 필요/, `${c} → ${out}`);
+  }
 });
