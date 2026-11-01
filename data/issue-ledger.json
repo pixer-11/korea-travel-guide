@@ -1,11 +1,5 @@
 {
   "validate-content": {},
-  "audit-translations": {
-    "TRUNCATED-DESCRIPTION posts/es/incheon-forest-outings.md": {
-      "since": "2026-11-01",
-      "last": "2026-11-01",
-      "seen": 1
-    }
-  },
+  "audit-translations": {},
   "audit-hours-claims": {}
 }
