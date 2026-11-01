@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: abu-dhabi-mariah-carey-s-christmastime
-srcHash: '219678e98e46'
+srcHash: 'ab3e2d8fb603'
 title: 'Christmastime de Mariah Carey: fechas, entradas y recinto (Abu Dabi)'
 description: El 12 de diciembre de 2026, el Etihad Arena de la isla de Yas, en Abu Dabi, acoge el espectáculo Christmastime de Mariah Carey dentro del programa Yasalam Classics.
 quickAnswer: El 12 de diciembre de 2026, el Etihad Arena de la isla de Yas (Yas Island), en Abu Dabi, acoge el espectáculo Christmastime de Mariah Carey dentro del programa Yasalam Classics. El recinto se levanta junto al paseo marítimo de Yas Bay. Por carretera queda a una media hora del centro de Abu Dabi y a cerca de una hora y cuarto de Dubái.
@@ -26,13 +26,13 @@ El repertorio gira en torno a *Merry Christmas*, el álbum de 1994. De ese disco
 
 ## El Etihad Arena por dentro
 
-Se trata de un edificio nuevo, pensado precisamente para espectáculos de este tipo. Inaugurado en 2021, el Etihad Arena es el mayor recinto cubierto de Abu Dabi, con capacidad para unas 18.000 personas. Su exterior mira al agua y está envuelto en una fachada de tono claro que recuerda a unas escamas y que se ilumina al caer la noche.
+Se trata de un edificio nuevo, pensado precisamente para espectáculos de este tipo. Inaugurado en 2021, el Etihad Arena es el mayor recinto cubierto de Abu Dabi. Su exterior mira al agua y está envuelto en una fachada de tono claro que recuerda a unas escamas y que se ilumina al caer la noche.
 
 El interior cuenta con climatización integral, algo menos decisivo en diciembre que en verano. Las gradas se elevan en varios niveles alrededor de una pista que, según el espectáculo, puede tener localidades de pie o sentadas. Toda la información sobre las entradas de esta noche corresponde al programa Yasalam Classics y al propio recinto.
 
 ## Cómo llegar a la isla de Yas
 
-Casi todo el público llega por carretera. Desde el Aeropuerto Internacional Zayed (Zayed International Airport) hay entre 15–20 minutos hasta el recinto, y desde el centro de Abu Dabi, unos 30 minutos por la E10 y la E12. Si se viene de Dubái, el trayecto por la E11 suele durar unos 75 minutos cuando no hay tráfico.
+Casi todo el público llega por carretera. El recinto se encuentra en la isla de Yas, bien comunicado por las principales autopistas tanto con el Aeropuerto Internacional Zayed (Zayed International Airport) como con el centro de Abu Dabi. Si se viene de Dubái en coche, el trayecto por la E11 puede llevar un buen rato, según el tráfico.
 
 - **Taxi o vehículo con conductor:** tanto los taxis con taxímetro de Abu Dabi como Uber y Careem dan servicio en Yas Bay.
 - **En coche propio:** hay aparcamientos repartidos por el paseo marítimo de Yas Bay. En horas punta, los coches deben pagar en los peajes Darb de Abu Dabi.
@@ -45,7 +45,7 @@ Cuando el aforo está completo, lo más lento de la noche suele ser la cola de c
 Para los residentes, la velada consiste en cenar y después ver el espectáculo. Los restaurantes del paseo marítimo de Yas Bay y de Pier 71 están a pocos pasos de las puertas del recinto, y muchos asistentes cenan allí antes del concierto. En la misma isla, y a pocos minutos en coche, se encuentran Yas Mall, Ferrari World y el circuito de Yas Marina.
 
 - **Pago:** se aceptan tarjetas y pagos sin contacto prácticamente en todas partes, desde los taxis hasta los puestos de comida.
-- **Vestimenta:** junto al agua, las noches de diciembre son templadas y las temperaturas a menudo superan por poco los 20 °C. Lo habitual es un atuendo arreglado pero informal, y conviene llevar una prenda ligera de abrigo por el aire acondicionado del recinto.
+- **Vestimenta:** junto al agua, las noches de diciembre suelen ser templadas. Lo habitual es un atuendo arreglado pero informal, y conviene llevar una prenda ligera de abrigo por el aire acondicionado del recinto.
 - **Comportamiento:** en los Emiratos Árabes Unidos se espera una conducta discreta en público. El alcohol solo se sirve en establecimientos con licencia, y la embriaguez en la vía pública puede acarrear problemas legales serios.
 - **Fotografías:** en los conciertos en recintos de este tipo es normal usar el móvil. En cambio, en los grandes espectáculos no suelen permitirse cámaras profesionales de objetivos intercambiables.
 

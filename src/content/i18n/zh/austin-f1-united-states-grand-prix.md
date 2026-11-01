@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: austin-f1-united-states-grand-prix
-srcHash: '9ee30b3f642d'
+srcHash: '549064167f23'
 title: F1美国大奖赛：日期、门票与场地（奥斯汀）
 description: 2026年F1美国大奖赛的日程为10月22日至25日，比赛地点在得克萨斯州奥斯汀的美洲赛道（Circuit of the Americas，COTA）。
 quickAnswer: 2026年F1美国大奖赛的日程为10月22日至25日，比赛地点在得克萨斯州奥斯汀的美洲赛道（Circuit of the Americas，COTA）。除了往年的练习赛、排位赛和正赛，这一年的赛程在前面多加了一天，名为“大奖赛观赛星期四”（Grand PrixView Thursday）。赛事日期、门票和座位图都发布在赛道和F1的官方网站上。

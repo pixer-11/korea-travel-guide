@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bologna-museo-per-la-memoria-di-ustica
-srcHash: '6d7547bf62db'
+srcHash: '6e9692730c7c'
 title: 'Museo per la Memoria di Ustica: Guía de Viaje de Bolonia (4.8★)'
 description: 'El Museo per la Memoria di Ustica se encuentra en el barrio de la Bolognina, en Bolonia, dentro de un antiguo depósito de tranvías reconvertido en la Via di Saliceto. 4.8★ (1.799 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo per la Memoria di Ustica se encuentra en el barrio de la Bolognina, en Bolonia, dentro de un antiguo depósito de tranvías reconvertido en la Via di Saliceto. Solo abre viernes, sábado y domingo, de 17:00 a 20:00, así que conviene organizar la visita en torno a esa franja horaria tan limitada en lugar de intentar ir un día laborable. Basta con dedicarle entre 45 minutos y una hora, ya que el fuselaje reconstruido y la instalación sonora y lumínica de Christian Boltanski son el verdadero motivo de la visita.
@@ -24,7 +24,7 @@ La pieza central es el auténtico fuselaje del vuelo Itavia 870, un DC-9 que cay
 
 El artista bolonés Christian Boltanski, junto con el arquitecto Christian Hauvette, reconstruyó los fragmentos recuperados hasta recomponer la silueta completa del avión, suspendida en una sala oscura. Alrededor cuelgan 81 espejos negros, uno por cada víctima, mientras unos altavoces reproducen en bucle fragmentos de conversaciones cotidianas y música grabada aquella misma noche, en un intento de evocar el último contacto por radio.
 
-El accidente sigue siendo uno de los grandes casos sin resolver de Italia: décadas de investigaciones apuntan a un misil disparado durante un enfrentamiento aéreo de la era de la OTAN, aunque ningún Estado ha asumido nunca la responsabilidad. El museo, inaugurado en 2007, presenta los restos como memorial y no como exhibición forense; apenas hay texto, predominan la oscuridad, el metal y el sonido.
+El accidente sigue siendo uno de los grandes casos sin resolver de Italia: décadas de investigaciones apuntan a un misil, aunque ningún Estado ha asumido nunca la responsabilidad. El museo, inaugurado en 2007, presenta los restos como memorial y no como exhibición forense; apenas hay texto, predominan la oscuridad, el metal y el sonido.
 
 ## Horarios y cómo llegar
 

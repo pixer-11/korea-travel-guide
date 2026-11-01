@@ -6,7 +6,7 @@ title: 'New York in 3 Days: Rockefeller Center, Times Square, and the Harbor'
 description: A 3-day New York itinerary moving from Rockefeller Center's heights and Central Park to Times Square and Chelsea Market, then downtown to Strand Bookstore, One World Observatory, and the Statue of Liberty.
 quickAnswer: 'This is a 3-day New York itinerary: day one covers Rockefeller Plaza''s observation deck and gardens, an Upper East Side coffee stop, and a long Central Park evening; day two runs from Times Square to a Manhattan West lunch and a Chelsea Market evening; day three moves from a Broadway bookstore through downtown''s One World Observatory to Battery Park and a Statue of Liberty ferry.'
 pubDate: '2026-08-06T10:30:55.898Z'
-stopsHash: 6c70d8059ba1b2e6af7c29e5e7365774790f4069
+stopsHash: 78f3142b0cd51cad5e5db5ce9b0dbe4ba13c8351
 packedAvailable: true
 faq:
   - q: How much walking does this 3-day New York itinerary involve?
@@ -23,8 +23,16 @@ itinerary:
   - label: Rockefeller heights to Central Park calm
     intro: Day one starts high above 30 Rockefeller Plaza with skyline views, then drifts down through the Channel Gardens on the way toward Madison Avenue. From there it's an uptown crossing to 888 Madison Ave for a coffee break before settling into a long evening walk through Central Park.
     stops:
-      - slug: new-york-top-of-the-rock
+      - slug: new-york-times-square
         slot: morning
+        why: The neon crossroads of Broadway and Seventh Avenue is a sensory must-see start to the day, best taken in before the crowds thicken.
+        dwellMin: 150
+        walkToNext:
+          km: 0.7
+          minutes: 9
+          transit: false
+      - slug: new-york-top-of-the-rock
+        slot: afternoon
         why: Stacked on floors 67-70 of Rockefeller Center, this observation deck is a hidden-gem-rated way to start the day with wide skyline views before crowds build.
         dwellMin: 75
         walkToNext:
@@ -43,23 +51,15 @@ itinerary:
         slot: afternoon
         why: A café stop inside the Madison Avenue flagship gives the day a relaxed pause between the morning's heights and the evening's park walk.
         dwellMin: 30
-        walkToNext:
-          km: 1.6
-          minutes: 21
-          transit: false
-      - slug: new-york-central-park
-        slot: evening
-        why: With 240 minutes of dwell time, the park is the natural anchor for a long, unhurried evening after a day of sightseeing.
-        dwellMin: 240
         walkToNext: null
     rainSwapSlug: new-york-ocean-prime
   - label: Times Square lights to Chelsea's covered lane
     intro: Day two opens in the neon crush of Times Square, then heads to Manhattan West for a sit-down lunch at Ci Siamo. The evening carries you to Chelsea Market's covered lane of food stalls for a final graze.
     stops:
-      - slug: new-york-times-square
+      - slug: new-york-chelsea-market
         slot: morning
-        why: The neon crossroads of Broadway and Seventh Avenue is a sensory must-see start to the day, best taken in before the crowds thicken.
-        dwellMin: 150
+        why: A covered lane of food stalls and small shops on 9th Avenue rounds out the evening with easy grazing after a busy day out.
+        dwellMin: 60
         walkToNext:
           km: 1.7
           minutes: 22
@@ -69,13 +69,13 @@ itinerary:
         why: This modern Italian spot in the Hudson Yards area, known for its Rigatoni Alla Gricia, makes a fitting sit-down lunch midway through the day.
         dwellMin: 60
         walkToNext:
-          km: 1.7
-          minutes: 22
+          km: 1.4
+          minutes: 19
           transit: false
-      - slug: new-york-chelsea-market
+      - slug: new-york-times-square-ball
         slot: evening
-        why: A covered lane of food stalls and small shops on 9th Avenue rounds out the evening with easy grazing after a busy day out.
-        dwellMin: 60
+        why: An attraction rated 4.6 by visitors, included as a stop on this route.
+        dwellMin: 120
         walkToNext: null
     rainSwapSlug: new-york-balthazar
   - label: Broadway shelves to New York Harbor
@@ -113,6 +113,6 @@ itinerary:
     rainSwapSlug: new-york-american-museum-of-natural-history
 aiGenerated: true
 draft: false
-updatedDate: '2026-09-09T08:00:03.301Z'
+updatedDate: '2026-11-01T08:03:55.145Z'
 ---
 

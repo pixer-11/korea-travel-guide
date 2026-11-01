@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: cusco-cusco-cathedral
-srcHash: '8a7cd7c8eeb5'
+srcHash: '33097b1f5dcf'
 title: 'Catedral del Cusco: guía de viaje (4.6★)'
 description: En el lado noreste de la Plaza de Armas, en pleno centro del Cusco, se alza la catedral. Con una valoración de 4.6★ (2,214 reseñas), aquí encontrará la opinión de los visitantes, los horarios y consejos prácticos.
 quickAnswer: La Catedral del Cusco ocupa el lado noreste de la Plaza de Armas, en el centro de la ciudad. Se levantó entre los siglos XVI y XVII y alberga una enorme colección de pintura colonial. Por ahora, Google solo indica dos breves franjas matinales, de 6 a 7 y de 8 a 9 de la mañana, que parecen corresponder a los horarios de misa. Antes de ir, conviene consultar el horario oficial de visitas turísticas.
@@ -43,7 +43,7 @@ La Escuela Cusqueña es la principal razón por la que la reseña editorial pone
 
 ## El Señor de los Temblores
 
-En un lateral de la nave cuelga un crucifijo oscurecido al que se conoce como el Señor de los Temblores. Los cusqueños le atribuyen la protección de la ciudad durante el terremoto de 1650. Tras siglos de humo de velas, la imagen se ha vuelto casi negra.
+En un lateral de la nave cuelga un crucifijo oscurecido al que se conoce como el Señor de los Temblores. El nombre responde a una devoción arraigada desde hace siglos y ligada a la historia sísmica de la ciudad. Tras siglos de humo de velas, la imagen se ha vuelto casi negra.
 
 Cada Lunes Santo, en la semana anterior a la Pascua, el crucifijo sale en una de las procesiones más multitudinarias de la ciudad y recorre la Plaza de Armas. Desde los balcones del trayecto se le arrojan flores rojas de ñucchu. Si su viaje coincide con la Semana Santa, cuente con una plaza abarrotada y una catedral llena a rebosar.
 
@@ -53,7 +53,7 @@ En lo alto de la torre norte se halla la campana María Angola, fundida en el si
 
 El horario resulta poco habitual. Según Google, la catedral abre a diario en dos breves franjas: de 6:00 a 7:00 y de 8:00 a 9:00. Todo indica que se trata de misas matinales y no de un horario pensado para turistas. Quien entre en esas horas asistirá a un acto de culto, no a la visita de un museo.
 
-En el Cusco, las visitas turísticas a las iglesias suelen organizarse aparte de las misas, y sus horarios varían a lo largo del año y en las fiestas religiosas. Antes de planificar el día, consulte la información oficial del arzobispado o pregunte en la puerta que da a la plaza. No confíe en que, por presentarse a media tarde, vaya a encontrarla abierta.
+En el Cusco, los horarios de visita turística de las iglesias varían a lo largo del año y en torno a las fiestas religiosas. Antes de planificar el día, consulte la información oficial del arzobispado o pregunte en la puerta que da a la plaza. No confíe en que, por presentarse a media tarde, vaya a encontrarla abierta.
 
 La entrada para visitantes suele venderse por separado del boleto turístico general de la ciudad, y el boleto del circuito religioso del Cusco ha incluido la catedral junto con otros templos como San Blas. Los precios vigentes figuran en la entrada y en la web oficial. Para contemplar los cuadros con calma se necesita alrededor de una hora, y algo más si quiere recorrer las tres iglesias.
 

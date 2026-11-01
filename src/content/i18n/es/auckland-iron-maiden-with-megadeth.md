@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: auckland-iron-maiden-with-megadeth
-srcHash: '45617ebde0d6'
+srcHash: 'df201cd1c3fa'
 title: 'Iron Maiden y Megadeth en Auckland: fechas, entradas y recinto'
 description: Iron Maiden y Megadeth actuarán dos noches, el 7 y el 8 de noviembre de 2026, en el Spark Arena, situado en Quay Park, al borde del centro de Auckland y muy cerca de Britomart.
 quickAnswer: Iron Maiden y Megadeth actuarán dos noches, el 7 y el 8 de noviembre de 2026, en el Spark Arena, situado en Quay Park, al borde del centro de Auckland y muy cerca de Britomart. Las entradas para ambos conciertos de 2026 se venden a través del promotor del evento y de la cartelera oficial del propio Spark Arena. Desde la estación de Britomart se llega al recinto en unos 10–15 minutos a pie, y la mayoría del público acude en tren o caminando.
@@ -36,7 +36,7 @@ Aquí no se conocen ni el orden de actuación ni los horarios ni los repertorios
 
 ## El interior del Spark Arena
 
-Inaugurado en 2007 con el nombre de Vector Arena, el recinto tiene capacidad para unas 12.000 personas en concierto y es el principal espacio cubierto de Auckland para las grandes giras. Su distribución es la de un pabellón clásico:
+El Spark Arena tiene capacidad para unas 12.000 personas en concierto y es el principal espacio cubierto de Auckland para las grandes giras. Su distribución es la de un pabellón clásico:
 
 - **La pista**: en los conciertos de rock suele ser de entrada general de pie, y la multitud se concentra sobre todo en las primeras filas.
 - **Gradas inferiores**: asientos escalonados cerca del escenario y con buena visibilidad por encima de la pista.

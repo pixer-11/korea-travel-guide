@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: downtown-dubai-zabeel-palace
-srcHash: 'e39aa0f139ab'
+srcHash: '3342993c969f'
 title: 'Palacio Zabeel: Guía de viaje del centro de Dubái (4,6★)'
 description: 'El Palacio Zabeel se encuentra en Za''abeel, al borde del centro de Dubái, y no es una atracción que se pueda visitar por dentro: se trata de la residencia de trabajo de la familia gobernante de Dubái. 4,6★ (2.659 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Palacio Zabeel se encuentra en Za'abeel, al borde del centro de Dubái. No es una atracción que se pueda visitar por dentro, ya que se trata de la residencia de trabajo de la familia gobernante de Dubái, así que los visitantes solo pueden verlo desde fuera, principalmente a lo largo de la calle Zaa'beel Palace Street, donde los jardines perimetrales y las palmeras se ven a través de las verjas. Al no haber entrada ni boletos, la pregunta sobre el "mejor momento" para ir en realidad tiene que ver con el tráfico y la luz, no con horarios de apertura. Ir a primera hora de la mañana o justo antes del atardecer permite conseguir las fotos más nítidas de la garita y los terrenos, sin el resplandor del mediodía.
@@ -26,7 +26,7 @@ El Palacio Zabeel es la residencia oficial de la familia gobernante de Dubái, l
 
 La calle Zaa'beel Palace Street bordea el perímetro del complejo y es el punto de acercamiento habitual. El palacio en sí queda retirado tras altos muros y una vegetación densa, de modo que lo que en realidad se alcanza a ver son las verjas, los puestos de guardia, la herrería ornamental y las copas de los jardines formales por encima del muro.
 
-Se trata más de una parada breve o un paso en coche que de un destino en el que quedarse horas; la mayoría de los visitantes pasa entre 10 y 20 minutos en el lugar.
+Se trata más de una parada breve o un paso en coche que de un destino en el que quedarse horas.
 
 - Puntos de referencia más cercanos: el centro de Dubái y el distrito de Za'abeel, a un corto trayecto en taxi o en coche del núcleo principal del centro (Burj Khalifa, Dubai Mall)
 - No hay taquilla, ni centro de visitantes, ni visitas programadas
@@ -42,4 +42,4 @@ En cuanto a vestimenta y conducta, se aplican las mismas normas que en cualquier
 
 Como no hay entrada ni horarios fijos que respetar, la planificación depende del tráfico y de la luz, no de un horario establecido. Las calles de Za'abeel se congestionan durante las horas punta de los días laborables, así que pasar a media mañana o al principio de la tarde resulta más tranquilo tanto para las fotos como para aparcar.
 
-Lo mejor es combinar la visita con otros puntos cercanos del centro de Dubái, en lugar de convertirla en una excursión aparte: el Burj Khalifa, el Dubai Mall y la Fuente de Dubái están a poca distancia en coche, y el propio Zabeel Park, con sus jardines y senderos, se encuentra muy cerca y sí recibe visitantes con normalidad. Conviene calcular unos 15 minutos para el palacio dentro de un itinerario por Za'abeel o el centro de Dubái, no como una parada de medio día.
+Lo mejor es combinar la visita con otros puntos cercanos del centro de Dubái, en lugar de convertirla en una excursión aparte: el Burj Khalifa, el Dubai Mall y la Fuente de Dubái están a poca distancia en coche, y el propio Zabeel Park, con sus jardines y senderos, se encuentra muy cerca y sí recibe visitantes con normalidad. Conviene plantear el palacio como un complemento breve dentro de un itinerario por Za'abeel o el centro de Dubái, no como una parada de medio día.

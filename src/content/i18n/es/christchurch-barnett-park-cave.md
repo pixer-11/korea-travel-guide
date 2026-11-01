@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: christchurch-barnett-park-cave
-srcHash: 'cfaf0f342ab0'
+srcHash: 'd80b72bb4d1e'
 title: 'Cueva de Barnett Park (Barnett Park Cave): guía de viaje de Christchurch (4.7★)'
 description: 'En una tranquila reserva de Redcliffs, en Christchurch, un breve sendero remonta un valle de las Port Hills hasta la cueva de Barnett Park, un abrigo de roca volcánica. 4.7★ (139 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En una tranquila reserva de Redcliffs, en Christchurch, se encuentra la cueva de Barnett Park, un abrigo de roca volcánica al que se llega por un breve sendero que remonta un valle de las Port Hills. Como casi todo el mundo pasa de largo en coche camino de Sumner, la excursión resulta muy apacible. Calcule alrededor de una hora, lleve calzado con buen agarre y, antes de salir, consulte en el Ayuntamiento de Christchurch (Christchurch City Council) si el sendero está abierto.
@@ -41,7 +41,7 @@ Una vez bajo el saliente, el ruido del tráfico de Main Road prácticamente desa
 
 Redcliffs se encuentra en la carretera de la costa entre Ferrymead y Sumner, a unos 20–25 minutos en coche del centro de la ciudad. El autobús de la línea Purple de Metro recorre Main Road en dirección a Sumner. Bájese en el centro de Redcliffs y suba a pie hasta el parque.
 
-Si va en coche, aparque en la calle cerca de la entrada del parque y no bloquee los accesos de los vecinos, ya que se trata de calles residenciales tranquilas. Desde el parque, la subida hasta la cueva es corta. La mayoría de la gente dedica entre 45 minutos y una hora a la ida y vuelta, incluido el rato en la cueva.
+Si va en coche, aparque en la calle cerca de la entrada del parque y no bloquee los accesos de los vecinos, ya que se trata de calles residenciales tranquilas. Desde el parque, la subida hasta la cueva es corta, por lo que la ida y vuelta resulta sencilla.
 
 ## Leer la roca: seguridad tras los terremotos
 

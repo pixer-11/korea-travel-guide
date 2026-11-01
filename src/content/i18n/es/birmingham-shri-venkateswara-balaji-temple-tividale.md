@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: birmingham-shri-venkateswara-balaji-temple-tividale
-srcHash: '32a58d09d2d4'
+srcHash: '315821fae84c'
 title: 'Templo Shri Venkateswara (Balaji) de Tividale: guía de viaje de Birmingham'
 description: El templo Shri Venkateswara (Balaji) se encuentra en el 101 de Dudley Road East, en Tividale (Oldbury), a unas 8 millas al oeste del centro de Birmingham. Con una valoración de 4.9★ (10,613 reseñas), le contamos qué opinan los visitantes, sus horarios y algunos consejos.
 quickAnswer: 'El templo Shri Venkateswara (Balaji) se encuentra en el 101 de Dudley Road East, en Tividale (Oldbury), a unas 8 millas al oeste del centro de Birmingham. Los fines de semana hay mucha gente de 10am a 9pm, así que lo mejor es acudir un día laborable, ya sea por la mañana (9am–1pm) o por la tarde (5pm–9pm). Conviene organizarse en torno al cierre del mediodía: de lunes a viernes cierra de 1pm a 5pm, y los fines de semana, de 2:30pm a 4pm.'
@@ -31,7 +31,7 @@ Son muchos los visitantes que no saben que el templo cierra unas horas a mediod�
 - **De lunes a viernes:** de 9am a 1pm y de 5pm a 9pm
 - **Sábados y domingos:** de 9am a 2:30pm y de 4pm a 9pm
 
-Los fines de semana hay mucha afluencia sin interrupción desde las 10am hasta las 9pm. Si desea contemplar cada santuario con calma, elija un día laborable. Para recorrerlo calcule entre 45 minutos y una hora, y algo más si se queda a presenciar una puja.
+Los fines de semana hay mucha afluencia durante toda la franja de la mañana y también durante toda la de la tarde. Si desea contemplar cada santuario con calma, elija un día laborable. Para recorrerlo calcule entre 45 minutos y una hora, y algo más si se queda a presenciar una puja.
 
 ## Descalzarse y recorrer el templo en el sentido de las agujas del reloj
 

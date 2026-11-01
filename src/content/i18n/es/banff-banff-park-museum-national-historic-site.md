@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: banff-banff-park-museum-national-historic-site
-srcHash: 'f34aa28c660a'
+srcHash: 'f2f2343b52dd'
 title: 'Sitio Histórico Nacional Banff Park Museum: guía de viaje'
 description: En el 91 Banff Ave, en pleno centro de Banff, se alza el Sitio Histórico Nacional Banff Park Museum, al final de la calle principal que da al río y junto al puente del río Bow (Bow River Bridge). Tiene una valoración de 4.6★ (912 reseñas). Aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
 quickAnswer: En el 91 Banff Ave, en pleno centro de Banff, se encuentra el Sitio Histórico Nacional Banff Park Museum. Está al final de la calle principal, del lado del río, junto al puente del río Bow (Bow River Bridge). Es un pequeño museo de historia natural donde, en un edificio de madera de 1903, se recorre en una hora la fauna disecada de las Rocosas. Actualmente abre de jueves a lunes de 9:30am–5pm y cierra martes y miércoles. Como Parks Canada modifica el horario a lo largo del año, conviene consultar antes la web oficial.
@@ -55,7 +55,7 @@ El aparcamiento en el centro se llena y las normas varían, por lo que conviene 
 
 El horario pilla desprevenida a más de una persona. Actualmente el museo abre lunes, jueves, viernes, sábado y domingo de 9:30am–5pm, y **cierra martes y miércoles**. Si su viaje a Banff cae entre semana, programe la visita para el principio o el final de la estancia.
 
-Se trata del horario de esta semana, no de uno fijo. Los sitios de Parks Canada cambian de horario según la temporada y pueden cerrar algunos festivos, así que consulte en la página oficial del Banff Park Museum el horario del mes en curso. La entrada es de pago, y la tarifa vigente figura tanto en esa página como en la puerta.
+Se trata del horario de esta semana, no de uno fijo. Los sitios de Parks Canada cambian de horario según la temporada y pueden cerrar algunos festivos, así que consulte en la página oficial del Banff Park Museum el horario del mes en curso. La entrada es de pago; consulte la tarifa vigente en la página oficial.
 
 A la mayoría le basta con una hora. Si quiere leer todas las cartelas o volver a la planta principal tras recorrer la galería, cuente con algo más. Es un plan ideal para una tarde lluviosa, cuando los senderos están en malas condiciones y el pueblo se llena de gente sin saber adónde ir.
 

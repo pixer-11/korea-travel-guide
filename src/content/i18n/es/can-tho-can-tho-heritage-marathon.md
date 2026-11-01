@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: can-tho-can-tho-heritage-marathon
-srcHash: 'df40ef8e678a'
+srcHash: '95892246b5ed'
 title: 'Maratón del Patrimonio de Cần Thơ (Can Tho Heritage Marathon): fechas, inscripciones y sede'
 description: Cada año, Cần Thơ, la mayor ciudad del delta del Mekong en Vietnam, acoge el Maratón del Patrimonio, una carrera internacional en ruta cuya próxima edición se celebrará el 20 de diciembre de 2026.
 quickAnswer: Cada año, Cần Thơ, la mayor ciudad del delta del Mekong en Vietnam, acoge el Maratón del Patrimonio (Can Tho Heritage Marathon), una carrera internacional en ruta. La edición de este año se celebrará el 20 de diciembre de 2026. En su página oficial, la organización da a conocer las distancias, la zona de salida y los enlaces de inscripción. Como diciembre forma parte de la estación seca del delta, el fin de semana de la carrera cae en la época más fresca y menos lluviosa del año.
@@ -38,7 +38,7 @@ Lo habitual es alojarse en el distrito de Ninh Kiều. Este núcleo ribereño se
 
 La organización da a conocer en la página oficial de la carrera el lugar de salida, las categorías de distancia, los tiempos de corte y los detalles para recoger la bolsa del corredor. Las inscripciones también se tramitan a través de esa página. Puesto que estos datos dependen de la organización, esta guía no se aventura a suponerlos.
 
-Lo que sí se mantiene es la pauta general. Para esquivar el calor, las carreras en ruta del sur de Vietnam arrancan de noche, a menudo antes de las 5 de la mañana, y el recorrido se cierra a media mañana. Los dorsales suelen recogerse uno o dos días antes. La mayoría de los participantes se aloja a poca distancia de la salida, ya que los cortes de tráfico ralentizan los desplazamientos antes del amanecer.
+Lo que sí se mantiene es la pauta general. Para esquivar el calor, las carreras en ruta del sur de Vietnam arrancan a primera hora de la mañana, y el recorrido se cierra a media mañana. Los dorsales suelen recogerse uno o dos días antes. La mayoría de los participantes se aloja a poca distancia de la salida, ya que los cortes de tráfico ralentizan los desplazamientos antes del amanecer.
 
 ## La mañana de la carrera y el día siguiente
 

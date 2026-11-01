@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bengaluru-chet-faker-a-love-for-strangers-tour
-srcHash: '763b6c7ff111'
+srcHash: '3e6e51909fee'
 title: 'Chet Faker – A Love For Strangers Tour: fechas, entradas y recinto (Bengaluru)'
 description: La gira A Love For Strangers de Chet Faker tenía previsto pasar por Bengaluru el 20 de septiembre de 2026, como última parada tras Delhi NCR y Bombay.
 quickAnswer: La gira A Love For Strangers de Chet Faker tenía previsto pasar por Bengaluru el 20 de septiembre de 2026, cerrando así el recorrido tras las fechas de Delhi NCR (18 de septiembre) y Bombay (19 de septiembre). El recinto, el horario y los precios de las entradas para la fecha de Bengaluru dependían del promotor de la gira y de su socio de venta de entradas. La noche se anunciaba en torno al electro-soul introspectivo de su material más reciente, combinado con clásicos de la etapa de Thinking In Textures.

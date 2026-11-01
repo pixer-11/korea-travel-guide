@@ -1,66 +1,66 @@
 ---
 lang: es
 slug: phong-nha-phong-nha-ke-bang-national-park
-srcHash: 'e3168309986c'
-title: 'Parque Nacional Phong Nha - Ke Bang: Guía de viaje (4.6★)'
-description: 'El Parque Nacional Phong Nha - Ke Bang, en la provincia de Quang Binh, es la capital de las cuevas en Vietnam: aquí se encuentran Son Doong, la Cueva del Paraíso y el río subterráneo de la Cueva Phong Nha. 4.6★ (1.618 reseñas): opiniones de los visitantes, horarios y consejos.'
-quickAnswer: 'El Parque Nacional Phong Nha - Ke Bang, en la provincia de Quang Binh, es la capital de las cuevas en Vietnam: aquí se encuentran Son Doong, la Cueva del Paraíso y el río subterráneo de la Cueva Phong Nha. Lo mejor es alojarse en el pueblo de Phong Nha, reservar los tours a las cuevas con unos días de antelación y aprovechar la franja de 8:00 a 9:00 entre semana (o de 7:00 a 8:00 los fines de semana) para tener el muelle y los senderos de la selva casi para uno solo. Conviene dedicarle al menos dos o tres días; la propia expedición a Son Doong ya requiere varios días por sí sola.'
+srcHash: 'c6688547396b'
+title: 'Parque Nacional de Phong Nha - Ke Bang: guía de viaje (4.6★)'
+description: 'En la provincia de Quang Binh, el Parque Nacional de Phong Nha - Ke Bang es la capital de las cuevas de Vietnam, con Son Doong, la Cueva del Paraíso y el río subterráneo de la Cueva de Phong Nha. Tiene una valoración de 4.6★ (1,618 reseñas): opiniones de los visitantes, horarios y consejos.'
+quickAnswer: En la provincia de Quang Binh, el Parque Nacional de Phong Nha - Ke Bang es la capital de las cuevas de Vietnam. Aquí se encuentran Son Doong, la Cueva del Paraíso y el río subterráneo de la Cueva de Phong Nha. Lo ideal es alojarse en el pueblo de Phong Nha y reservar las excursiones a las cuevas con unos días de antelación. Si llega entre las 8am–9am en días laborables (o entre las 7am–8am el fin de semana), tendrá casi para usted solo el embarcadero y los senderos de la selva. Conviene dedicarle un mínimo de dos o tres días, ya que solo la expedición a Son Doong dura varios.
 faq:
-  - q: ¿Cuántos días necesito para Phong Nha - Ke Bang?
-    a: Con dos o tres días alcanza para visitar la Cueva Phong Nha, la Cueva del Paraíso y hacer una caminata por la selva. Si además se hace la expedición de varios días a Son Doong, hay que sumar bastantes más.
-  - q: ¿Cuál es el mejor horario para evitar multitudes en las cuevas?
-    a: El momento más tranquilo es de 8:00 a 9:00 entre semana, o de 7:00 a 8:00 los fines de semana. Conviene evitar las tardes y noches de fin de semana, de 14:00 a 23:00, cuando los autobuses turísticos nacionales colman el muelle.
+  - q: ¿Cuántos días hacen falta para recorrer Phong Nha - Ke Bang?
+    a: Con dos o tres días se pueden visitar la Cueva de Phong Nha y la Cueva del Paraíso, además de hacer una caminata por la selva. Si piensa apuntarse a la expedición de varios días a Son Doong, tendrá que sumar bastantes más.
+  - q: ¿Cuál es el momento más tranquilo para visitar las cuevas?
+    a: La mayor calma se da entre las 8am–9am los días laborables y entre las 7am–8am los fines de semana. Es mejor evitar las tardes y noches del fin de semana (2pm–11pm), cuando los autobuses de turistas nacionales abarrotan el embarcadero.
   - q: ¿Cómo se llega a Phong Nha desde Hanói o Hue?
-    a: Se puede volar o tomar un tren nocturno hasta Dong Hoi, y desde allí un taxi o autobús de unos 45 minutos hasta el pueblo de Phong Nha, que se encuentra justo en el borde del parque.
-  - q: ¿Hace falta reservar la Cueva de Son Doong con anticipación?
-    a: 'Sí, y con bastante tiempo: los permisos anuales son limitados y las expediciones, de varios días, se realizan con un operador autorizado. Las secciones más profundas de la Cueva del Paraíso también pueden requerir reserva previa.'
-  - q: ¿Qué hay cerca para descansar de las cuevas?
-    a: El Jardín Botánico y el Valle de Ma Da ofrecen caminatas más cortas hasta cascadas, mientras que el ramal occidental del Camino Ho Chi Minh, que atraviesa el parque, conserva vestigios de la guerra y rutas tranquilas para recorrer en moto.
+    a: Hay que ir primero a Dong Hoi, en avión o en tren nocturno. Desde allí, un taxi o un autobús le dejará en 45 minutos en el pueblo de Phong Nha, situado justo en el límite del parque.
+  - q: ¿Es necesario reservar con antelación la visita a la Cueva de Son Doong?
+    a: Sí, y con mucho tiempo. El número de permisos anuales es limitado y las expediciones, de varios días, se hacen siempre con un operador autorizado. Las zonas más profundas de la Cueva del Paraíso también pueden requerir reserva previa.
+  - q: ¿Qué se puede hacer cerca para descansar de las cuevas?
+    a: En el Jardín Botánico y el valle de Ma Da hay caminatas más cortas hasta varias cascadas. También puede recorrer el ramal occidental de la Ruta Ho Chi Minh, que atraviesa el parque y ofrece vestigios de la guerra y tranquilas rutas en moto.
 ---
 
 ## Por qué ir
 
-Aquí las montañas kársticas brotan directamente de los arrozales, horadadas por algunos de los sistemas de cuevas más grandes del planeta. Fue en este lugar donde, en 1991, se descubrió Son Doong —el pasaje de cueva más grande del mundo—, aunque no se abrió a los excursionistas hasta años más tarde.
+En esta zona, las montañas kársticas brotan en vertical entre los arrozales y esconden en su interior algunos de los sistemas de cuevas más grandes del planeta. Aquí se descubrió en 1991 Son Doong, la mayor galería subterránea del mundo, aunque no se abrió a los senderistas hasta años más tarde.
 
-Sin embargo, no hace falta linterna frontal ni cuerdas para sentir su magia. Basta con un paseo en bote por el río subterráneo de la Cueva Phong Nha para percibir ese mismo murmullo grave del agua sobre la piedra caliza y ese mismo aire fresco y mineral que exhala la roca.
+Para vivir esa sensación, sin embargo, no hacen falta ni frontal ni cuerdas. Basta con un paseo en barca por el río subterráneo de la Cueva de Phong Nha: se oye el mismo murmullo del agua contra la caliza y se respira el mismo aire fresco, con olor a mineral, que desprende la roca.
 
 ## Cómo llegar
 
-La mayoría de los viajeros llega en avión al aeropuerto de Dong Hoi, a unos 45 minutos en taxi o transporte del hotel hasta el pueblo de Phong Nha. También hay trenes nocturnos desde Hanói o Hue que paran en Dong Hoi, desde donde se puede continuar en autobús o traslado hasta el parque.
+La mayoría de los viajeros llega en avión al aeropuerto de Dong Hoi, a unos 45 minutos del pueblo de Phong Nha en taxi o en el traslado del hotel. Desde Hanói y Hue salen además trenes nocturnos con parada en Dong Hoi, donde se puede tomar un autobús o un traslado hasta el parque.
 
-El propio pueblo de Phong Nha se encuentra justo en el borde oriental del parque, a poca distancia a pie del muelle de la cueva principal. Desde allí, casi todos los tours a las cuevas y a la selva se organizan a través de operadores autorizados con sede en el pueblo: prácticamente nada aquí se puede hacer por cuenta propia sin más.
+El pueblo de Phong Nha está en el mismo límite oriental del parque, y desde él se puede ir andando al embarcadero de la cueva principal. Casi todas las excursiones a las cuevas y a la selva se contratan con operadores autorizados que tienen su sede en el pueblo; aquí prácticamente nada se puede visitar por libre llegando en coche.
 
 ## Qué ver y hacer
 
-La fama del parque descansa en sus cuevas, pero la variedad de experiencias es mayor de lo que la mayoría de los visitantes espera:
+Aunque el parque debe su fama a las cuevas, la variedad de experiencias es mayor de lo que imagina la mayoría de los visitantes:
 
-- **Cueva Phong Nha** — un bote se adentra directamente en la montaña siguiendo un río subterráneo, pasando junto a estalactitas iluminadas en tonos ámbar cálidos.
-- **Cueva del Paraíso (Thien Duong)** — una cueva seca recorrida por una pasarela de madera que serpentea entre cámaras del tamaño de catedrales, con formaciones blancas y doradas.
-- **Cueva Oscura (Hang Toi)** — con tirolesa, baños de barro y kayak, es la opción más animada y apta para familias.
-- **Cueva de Son Doong** — expediciones de varios días, con un número reducido de permisos al año, que hay que reservar con muchos meses de antelación.
-- **Jardín Botánico y Valle de Ma Da** — caminatas más cortas por la selva con cascadas, ideales para media jornada.
+- **Cueva de Phong Nha**: una barca se adentra en la montaña por un río subterráneo, entre estalactitas iluminadas con un cálido tono ámbar.
+- **Cueva del Paraíso (Thien Duong)**: en esta cueva seca, una pasarela serpentea entre salas tan grandes como catedrales, llenas de formaciones blancas y doradas.
+- **Cueva Oscura (Hang Toi)**: con tirolina, baños de barro y kayak, es la opción más animada y la preferida por las familias.
+- **Cueva de Son Doong**: se visita en expediciones de varios días, con un número reducido de permisos al año que se agotan con muchos meses de antelación.
+- **Jardín Botánico y valle de Ma Da**: caminatas más cortas por la selva, con cascadas, perfectas para media jornada.
 
-Fuera de las cuevas, el ramal occidental del Camino Ho Chi Minh atraviesa el territorio del parque, salpicado de vestigios de la guerra y tramos boscosos y tranquilos, perfectos para un paseo pausado en moto.
+Fuera de las cuevas, el ramal occidental de la Ruta Ho Chi Minh atraviesa el territorio del parque. A lo largo del camino aparecen vestigios de la guerra y tramos boscosos y tranquilos que merece la pena recorrer en moto sin prisas.
 
 ## Cuándo ir
 
-La estación seca, aproximadamente de febrero a agosto, ofrece las aguas más claras y las condiciones más seguras dentro de las cuevas. De septiembre a noviembre las lluvias se intensifican y existe un riesgo real de inundación en las cuevas más bajas, por lo que algunas pueden cerrar temporalmente.
+La estación seca, aproximadamente de febrero a agosto, ofrece las aguas más claras y las condiciones más seguras dentro de las cuevas. De septiembre a noviembre llueve con más fuerza y existe un riesgo real de inundación en las cuevas situadas a menor altitud, por lo que algunas pueden cerrar de forma temporal.
 
-En comparación con los puntos turísticos costeros de Vietnam, aquí la afluencia de visitantes es realmente baja. El tramo más tranquilo es de 8:00 a 9:00 entre semana, o de 7:00 a 8:00 los fines de semana si no queda otra opción.
+Comparado con los destinos costeros más concurridos de Vietnam, aquí hay realmente poca gente. La franja más tranquila es la de las 8am–9am en días laborables; si solo puede ir el fin de semana, la mejor hora es entre las 7am–8am.
 
-Las tardes y noches de fin de semana, aproximadamente de 14:00 a 23:00, son el momento de mayor afluencia: los turistas nacionales llegan en oleadas de autobuses y la cola en el muelle se alarga considerablemente.
+Las tardes y noches del fin de semana, más o menos de 2pm a 11pm, son el momento de mayor afluencia. Los turistas nacionales llegan entonces en oleadas de autobuses y se forman largas colas en el embarcadero.
 
 ## Cómo visitarlo como un local
 
-Conviene reservar los tours a las cuevas con dos o tres días de antelación, directamente a través de los operadores del pueblo de Phong Nha, en lugar de hacerlo a último momento por internet: el número de permisos para Son Doong, e incluso para las secciones más profundas de la Cueva del Paraíso, es limitado.
+Es preferible reservar las excursiones a las cuevas con dos o tres días de antelación, directamente con los operadores del pueblo de Phong Nha, en lugar de hacerlo por internet a última hora. Los permisos para Son Doong, e incluso para las zonas más profundas de la Cueva del Paraíso, son limitados.
 
-Lo ideal es llegar al muelle de la Cueva Phong Nha justo a la apertura, dentro de la franja de 7:00 a 8:00 o de 8:00 a 9:00 mencionada antes; así se comparte el río con casi nadie y la luz sobre la piedra caliza resulta más suave.
+Llegue al embarcadero de la Cueva de Phong Nha justo a la hora de apertura, en las franjas de 7-8am o 8-9am ya mencionadas. Compartirá el río con casi nadie y la luz sobre la caliza será más suave.
 
-- Pagar a guías y conductores en dong vietnamitas, en efectivo, ya que las tarjetas rara vez se aceptan fuera de los hoteles.
-- Dar una propina modesta a las tripulaciones de los botes y a los porteadores de las caminatas; se agradece, aunque no es obligatoria.
-- Alquilar una moto en el alojamiento para llegar por cuenta propia a la Cueva del Paraíso y al Jardín Botánico, en lugar de sumarse a un tour grupal numeroso.
-- Usar calzado de río o sandalias con buen agarre para las cuevas húmedas, ya que las chanclas resbalan sobre la roca cubierta de algas.
+- A los guías y conductores se les paga en efectivo y en dongs vietnamitas, porque fuera de los hoteles casi nunca se aceptan tarjetas.
+- Una propina modesta para los barqueros y los porteadores se agradece, aunque no es obligatoria.
+- Si alquila una moto en su alojamiento familiar, podrá llegar por su cuenta a la Cueva del Paraíso y al Jardín Botánico sin necesidad de sumarse a un gran grupo organizado.
+- Para las cuevas húmedas conviene llevar escarpines o sandalias con buen agarre, ya que las chanclas resbalan sobre la roca cubierta de algas.
 
-Este parque no sufre la misma masificación que la Bahía de Ha Long o Hoi An, así que no hay mucha prisa por recorrerlo todo de golpe. Vale la pena bajar el ritmo, sumar un día más y dejar que una caminata por la selva o un paseo en kayak llenen el tiempo entre visita y visita a las cuevas.
+Este parque no sufre las aglomeraciones de la bahía de Ha Long o de Hoi An, así que no hay motivo para ir con prisas. Tómeselo con calma, quédese un día más y aproveche el tiempo entre cueva y cueva para hacer una caminata por la selva o una salida en kayak.
 
-Los habitantes de la zona todavía viven de la agricultura y la pesca a orillas del río, así que un sencillo "xin chào" y algo de paciencia con el inglés son muy bien recibidos en los pueblos más pequeños que rodean el parque.
+La población local todavía vive de la agricultura y de la pesca en el río. En las aldeas más pequeñas de los alrededores del parque, un discreto «xin chào» y algo de paciencia con el inglés le abrirán muchas puertas.

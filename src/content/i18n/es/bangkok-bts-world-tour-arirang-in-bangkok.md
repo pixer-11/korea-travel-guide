@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bangkok-bts-world-tour-arirang-in-bangkok
-srcHash: 'af1d52821762'
+srcHash: 'eda144fc97b0'
 title: 'BTS World Tour ''ARIRANG'' en Bangkok: fechas, entradas y recinto (Bangkok)'
 description: 'BTS actuará tres noches en Bangkok con su World Tour ''ARIRANG'': el 3, el 5 y el 6 de diciembre de 2026. Los conciertos tendrán lugar en el Estadio Nacional Rajamangala, situado en la zona de Hua Mak, en el distrito de Bang Kapi.'
 quickAnswer: 'BTS actuará tres noches en Bangkok con su World Tour ''ARIRANG'': el 3, el 5 y el 6 de diciembre de 2026. Los conciertos tendrán lugar en el Estadio Nacional Rajamangala (Rajamangala National Stadium), en la zona de Hua Mak del distrito de Bang Kapi. Como el montaje es de 360°, las gradas rodean el escenario por completo. Compruebe fechas, recinto y entradas en los canales oficiales de la gira. Le conviene además decidir antes del concierto cómo volverá al hotel, porque salir del estadio lleva bastante más tiempo que llegar.'
@@ -20,7 +20,7 @@ faq:
 
 ## Tres noches en Hua Mak
 
-BTS llega a Bangkok con 'ARIRANG', su gira mundial por estadios con escenario de 360°, y lo hace durante tres noches. Las fechas anunciadas son el 3, el 5 y el 6 de diciembre de 2026, todas ellas en el Estadio Nacional Rajamangala (Rajamangala National Stadium).
+BTS llega a Bangkok con 'ARIRANG', su gira mundial por estadios con escenario de 360°, y lo hace durante tres noches. La gira tiene previstas tres noches en Bangkok, y los tres conciertos se celebrarán en el Estadio Nacional Rajamangala (Rajamangala National Stadium).
 
 El nombre de la gira procede de «Arirang», la canción popular coreana que funciona casi como un himno nacional oficioso. Tratándose de un grupo cuyos seguidores se hacen llamar ARMY, el título deja claro que el espectáculo gira en torno a los orígenes de BTS. El anuncio no incluye horarios de inicio, detalles del repertorio ni teloneros, así que conviene confirmar horarios y entradas en la web oficial.
 

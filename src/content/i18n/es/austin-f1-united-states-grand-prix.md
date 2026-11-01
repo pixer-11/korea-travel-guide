@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: austin-f1-united-states-grand-prix
-srcHash: '9ee30b3f642d'
+srcHash: '549064167f23'
 title: 'Gran Premio de Estados Unidos de F1: fechas, entradas y circuito (Austin)'
 description: Las fechas anunciadas para el Gran Premio de Estados Unidos de Fórmula 1 eran del 22 al 25 de octubre de 2026, en el Circuito de las Américas (COTA) de Austin, Texas.
 quickAnswer: Las fechas anunciadas para el Gran Premio de Estados Unidos de Fórmula 1 eran del 22 al 25 de octubre de 2026, en el Circuito de las Américas (Circuit of the Americas, COTA) de Austin, Texas. El calendario de 2026 sumaba una cuarta jornada, el Grand PrixView Thursday, a los habituales días de entrenamientos, clasificación y carrera. Las fechas, las entradas y los planos de asientos figuraban en las webs oficiales del circuito y de la Fórmula 1.

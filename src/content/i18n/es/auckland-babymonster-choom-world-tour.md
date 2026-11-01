@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: auckland-babymonster-choom-world-tour
-srcHash: '106d342e641f'
+srcHash: 'c63c04566e8c'
 title: 'BABYMONSTER CHOOM World Tour en Auckland: fecha, entradas y recinto'
 description: El martes 8 December 2026, el CHOOM World Tour de BABYMONSTER llega al Spark Arena de Auckland, única parada en Nueva Zelanda de la gira mundial del grupo de K-pop.
 quickAnswer: El martes 8 December 2026, el CHOOM World Tour de BABYMONSTER llega al Spark Arena de Auckland, única parada en Nueva Zelanda de la gira mundial del grupo de K-pop. El recinto se encuentra en Mahuhu Crescent, en el extremo oriental del centro de la ciudad y a unos diez minutos a pie de la estación de Britomart. Por eso la mayoría del público prefiere llegar en tren, autobús o ferri antes que en coche.
@@ -26,7 +26,7 @@ En Auckland, diciembre marca el comienzo del verano. Como anochece tarde, quiene
 
 ## A quién va a ver
 
-BABYMONSTER es un grupo femenino de siete integrantes de YG Entertainment, la agencia de BLACKPINK y BIGBANG. Lo forman Ruka, Pharita, Asa, Ahyeon, Rami, Rora y Chiquita. Proceden de Corea, Japón y Tailandia, de modo que entre canción y canción es probable que hablen al público en varios idiomas.
+BABYMONSTER es un grupo femenino de siete integrantes de YG Entertainment, la agencia de BLACKPINK y BIGBANG. Lo forman Ruka, Pharita, Asa, Ahyeon, Rami, Rora y Chiquita. Proceden de Corea, Japón y Tailandia, lo que refleja el carácter internacional del grupo.
 
 El salto a la fama les llegó en 2024 con «Sheesh», y ese mismo año publicaron *Drip*, su primer álbum completo. Como no se conocen ni el repertorio ni el orden de las canciones de esta gira, esta guía no se aventura a adivinarlos.
 

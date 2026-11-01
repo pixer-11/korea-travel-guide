@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: dresden-kunsthofpassage-dresden
-srcHash: '291663463daf'
+srcHash: '0fc75f773f55'
 title: 'Kunsthofpassage: guía de viaje de Dresde (4.6★)'
 description: En la Äußere Neustadt de Dresde, entre Görlitzer Straße y Alaunstraße, la Kunsthofpassage encadena cinco patios temáticos diseñados por artistas. Tiene una valoración de 4.6★ (7,781 reseñas). Aquí encontrará la opinión de los visitantes, los horarios y algunos consejos.
 quickAnswer: En la Äußere Neustadt de Dresde, entre Görlitzer Straße y Alaunstraße, se suceden los cinco patios temáticos de la Kunsthofpassage, todos ellos diseñados por artistas. Recorrerlos no cuesta nada y las puertas permanecen abiertas desde primera hora de la mañana hasta bien entrada la noche. Entre semana, el mejor momento para encontrarlos tranquilos va de las 7am a las 10am. El fin de semana conviene evitar la franja de 12pm–11pm y llegar justo cuando abren, a las 8am.
@@ -50,7 +50,7 @@ Hay entradas tanto por Görlitzer Straße como por Alaunstraße, de modo que pue
 
 Los patios tienen un horario amplio. De lunes a viernes abren a las 6am y los fines de semana, a las 8am. Casi todas las noches cierran a las 11pm, salvo los viernes y sábados, que lo hacen a medianoche. Las tiendas y los talleres del interior tienen su propio horario, más corto, así que conviene consultarlo aparte.
 
-Las mañanas de entre semana, de 7am a 10am, son el momento más tranquilo y la ocasión ideal para fotografiar la pared de los canalones sin nadie delante. Los fines de semana, la mayor afluencia se da entre las 12pm y las 11pm, por lo que es mejor no llegar después de mediodía. Si se presenta a la apertura de las 8am, tendrá los patios prácticamente para usted.
+Las mañanas de entre semana, de 7am a 10am, son el momento más tranquilo y la ocasión ideal para fotografiar la pared de los canalones sin nadie delante. Los fines de semana, la afluencia aumenta a partir de mediodía, por lo que es mejor no llegar después de mediodía. Si se presenta a la apertura de las 8am, tendrá los patios prácticamente para usted.
 
 Aquí un día de lluvia no es mala suerte, porque es el único momento en que el Hof der Elemente suena de verdad.
 

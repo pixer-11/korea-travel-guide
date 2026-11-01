@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: auckland-maungawhau-mount-eden
-srcHash: '6189e7fed5a3'
+srcHash: 'b9914ee5196c'
 title: 'Maungawhau: guía de viaje de Auckland (4.7★)'
 description: 'En el barrio aucklandés de Mount Eden se alza Maungawhau / Mount Eden, un cono volcánico al que se sube en poco tiempo desde Mount Eden Road para asomarse a un profundo cráter cubierto de hierba y contemplar ambas bahías en una panorámica de 360 grados. 4.7★ (8,447 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'Maungawhau / Mount Eden es el cono volcánico del barrio de Mount Eden, en Auckland. Desde Mount Eden Road, una breve subida conduce hasta un hondo cráter tapizado de hierba y a una vista de 360 grados sobre las dos bahías. Como los coches particulares ya no pueden llegar a la cima, hay que subir a pie. Calcule entre 1 y 2 horas y consulte antes el horario vigente de apertura: esta semana el acceso abre a las 7am y cierra a las 8:30pm, pero el horario varía a lo largo del año.'
@@ -50,7 +50,7 @@ En la ladera este se encuentra Eden Garden, y al pie de la montaña, Mount Eden 
 
 ## Planifique la subida según el horario de acceso
 
-Aquí manda el reloj, y el reloj cambia. Actualmente la cima abre a las 7am y cierra a las 8:30pm todos los días. Sin embargo, se trata del horario de esta semana y no de uno fijo. Como los maunga de Auckland modifican su horario a lo largo del año, conviene consultar la web de la Tūpuna Maunga Authority para conocer el del mes en curso antes de planear una visita a primera o última hora.
+Aquí manda el reloj, y el reloj cambia. El horario de apertura y cierre de la cima no es fijo, sino que varía a lo largo del año, así que conviene consultar la web de la Tūpuna Maunga Authority para conocer el del mes en curso antes de planear una visita a primera o última hora.
 
 La puesta de sol es el momento más solicitado, y basta ver la luz dorada sobre la bahía de Manukau para entender por qué. Si no quiere perdérsela, empiece a subir con bastante antelación al cierre para no tener que abandonar el borde a toda prisa. A primera hora de la mañana suele haber más calma, porque aún no han llegado los grupos de visitantes ni las excursiones escolares.
 

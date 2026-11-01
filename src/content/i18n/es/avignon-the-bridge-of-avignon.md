@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: avignon-the-bridge-of-avignon
-srcHash: '79ac048b8155'
+srcHash: 'cbdd7e7fb46d'
 title: 'El Puente de Aviñón: Guía de viaje (4.2★)'
 description: 'El Puente de Aviñón (Pont Saint-Bénézet) se alza sobre el Ródano justo debajo del Palacio de los Papas, y hoy solo sobreviven cuatro de sus arcos originales. 4.2★ (21.254 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Puente de Aviñón (Pont Saint-Bénézet) se alza sobre el Ródano justo debajo del Palacio de los Papas, y hoy solo sobreviven cuatro de sus arcos originales. Abre todos los días de 9:00 a 19:00, y el momento más tranquilo para visitarlo es un día de semana entre las 9:00 y las 11:00, antes de que lleguen los grupos turísticos. Calcule entre 30 y 45 minutos, y si piensa visitar también el Palacio de los Papas, conviene comprar la entrada combinada.
@@ -34,7 +34,7 @@ A mitad de los arcos que aún se conservan hay una pequeña capilla de dos nivel
 
 Ya no existe forma de cruzar al otro lado. Se camina sobre los arcos que sobreviven, se contempla el Ródano corriendo por debajo y, al volver la vista atrás, se distingue la ciudad amurallada con el Palacio de los Papas de fondo. Esa doble vista es, precisamente, lo que atrae a los visitantes.
 
-La entrada incluye, en la mayoría de los casos, una audioguía que explica la construcción del puente, sus sucesivos derrumbes y reconstrucciones, y su curioso destino como canción popular. Vale la pena escucharla, porque no hay ningún otro elemento en el lugar que explique lo que se está viendo.
+Hay una audioguía que explica la construcción del puente, sus sucesivos derrumbes y reconstrucciones, y su curioso destino como canción popular. Vale la pena escucharla, porque no hay ningún otro elemento en el lugar que explique lo que se está viendo.
 
 Basta con dedicarle entre 30 y 45 minutos. No es una visita larga, pero la luz sobre el agua y la perspectiva hacia el Palacio de los Papas merecen unos minutos extra de contemplación, en lugar de recorrerlo con prisa.
 

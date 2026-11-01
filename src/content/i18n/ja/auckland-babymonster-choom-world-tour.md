@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: auckland-babymonster-choom-world-tour
-srcHash: '106d342e641f'
+srcHash: 'c63c04566e8c'
 title: BABYMONSTER「CHOOM」ワールドツアー オークランド公演：日程・チケット・会場ガイド
 description: K-POPグループBABYMONSTERのワールドツアー「CHOOM」は、2026年12月8日（火）にオークランドのスパーク・アリーナ（Spark Arena）でニュージーランド公演を行います。
 quickAnswer: K-POPグループBABYMONSTERが世界各地を回る「CHOOM」ワールドツアーのニュージーランド公演は、2026年12月8日（火）にオークランドのスパーク・アリーナ（Spark Arena）で開催されます。会場は市中心部の東端にあたるマフフ・クレセント（Mahuhu Crescent）沿いにあります。ブリトマート駅（Britomart）からは徒歩10分ほどです。そのため、ほとんどのファンは車ではなく電車やバス、フェリーで会場に向かいます。
@@ -26,7 +26,7 @@ faq:
 
 ## BABYMONSTERとは
 
-BABYMONSTERは、BLACKPINKやBIGBANGを擁する事務所YG Entertainmentに所属する7人組ガールズグループです。メンバーはルカ、パリタ、アサ、アヒョン、ラミ、ロラ、チキータの7人です。韓国、日本、タイと出身国がさまざまなので、曲間のトークではいくつもの言語が飛び交うことでしょう。
+BABYMONSTERは、BLACKPINKやBIGBANGを擁する事務所YG Entertainmentに所属する7人組ガールズグループです。メンバーはルカ、パリタ、アサ、アヒョン、ラミ、ロラ、チキータの7人です。メンバーの出身国は韓国、日本、タイとさまざまで、グループの国際色豊かな顔ぶれを物語っています。
 
 グループがブレイクしたのは、2024年の「Sheesh」がきっかけでした。同じ年の後半には、初のフルアルバム*Drip*も発表しています。今回のツアーのセットリストや曲順は明らかになっていないため、本ガイドでは推測を控えます。
 

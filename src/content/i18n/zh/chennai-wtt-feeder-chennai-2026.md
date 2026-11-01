@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: chennai-wtt-feeder-chennai-2026
-srcHash: '83b8e6346562'
+srcHash: '2234ebadab95'
 title: 2026年WTT支线赛金奈站：赛期、门票与场馆（金奈）
 description: 2026年WTT支线赛金奈站将于2026年10月28日至11月1日举行。比赛场馆是泰米尔纳德邦体育大学（Tamil Nadu Physical Education and Sports University，TNPESU），位于金奈南郊Vandalur附近的Melakottaiyur。
 quickAnswer: 2026年WTT支线赛金奈站将于2026年10月28日至11月1日举行。比赛场馆是泰米尔纳德邦体育大学（Tamil Nadu Physical Education and Sports University，TNPESU），位于金奈南郊Vandalur附近的Melakottaiyur。支线赛是世界乒乓球职业大联盟赛历中级别最低的一档，观众不多，座位紧挨球台，五天里能看上大量比赛。
@@ -84,7 +84,7 @@ faq:
 不随队的观众大多选择住在以下两个区域：
 
 - **GST路沿线（Tambaram、Guduvanchery、Vandalur）**：离场馆最近，又在市郊铁路线上，中档商务酒店很多。
-- **OMR沿线（Sholinganallur、Navalur、Kelambakkam）**：这里是IT走廊，大型酒店集中，餐厅也多。前往校园需打车沿Vandalur–Kelambakkam路往西行驶。
+- **OMR沿线（Sholinganallur、Navalur、Kelambakkam）**：这里是IT走廊，大型酒店集中，餐厅也多。前往校园需打车沿Vandalur–Kelambakkam路行驶。
 
 住在T. Nagar、Mylapore或Egmore等金奈市中心街区，能更多地领略城市风貌，但每天都得长途往南通勤。
 

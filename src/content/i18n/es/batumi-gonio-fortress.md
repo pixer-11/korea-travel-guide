@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: batumi-gonio-fortress
-srcHash: '186948d5990d'
+srcHash: '755c38d8a861'
 title: 'Fortaleza de Gonio: guía de viaje desde Batumi (4.5★)'
 description: 'A unos 12 km al sur del centro de Batumi, en la localidad de Gonio y junto a la carretera costera que lleva a la frontera turca de Sarpi, se alza la fortaleza de Gonio, una excursión sencilla de media jornada en minibús, taxi o Bolt. Valoración de 4.5★ (6,747 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En la localidad de Gonio, a unos 12 km al sur del centro de Batumi y junto a la carretera costera que conduce a la frontera turca de Sarpi, se encuentra la fortaleza de Gonio. Llegar en minibús, taxi o Bolt es fácil, y la visita ocupa cómodamente media jornada. Dentro del recinto amurallado conviene calcular entre 1 y 1,5 horas. Actualmente abre de 10am a 5pm, aunque el horario varía a lo largo del año, por lo que se recomienda consultar la web oficial antes de ir.
@@ -39,7 +39,7 @@ La fortaleza queda a pocos pasos de la carretera, tierra adentro, así que no cu
 
 ## Horarios, entradas y la tumba
 
-Las entradas se compran en la puerta, donde figura el precio vigente. Esta semana abre todos los días de 10am a 5pm. El horario cambia según la temporada y en algunos festivos, de modo que conviene consultar en la web oficial el calendario de este mes.
+Las entradas se compran en la puerta, donde figura el precio vigente. Por lo general abre aproximadamente de 10am a 5pm, aunque en verano el horario puede prolongarse. El horario cambia según la temporada y en algunos festivos, de modo que conviene consultar en la web oficial el calendario de este mes.
 
 Se trata de uno de los enclaves históricos más conocidos de Adjaria y recibe a numerosos visitantes. Los grupos de excursión procedentes de Batumi suelen llegar a media mañana; si se presenta a las 10am, lo normal es encontrar el recinto mucho más tranquilo. En verano, a mediodía, el calor aprieta, ya que dentro de las murallas apenas hay sombra: no olvide sombrero y agua.
 

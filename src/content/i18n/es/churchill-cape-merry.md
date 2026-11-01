@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: churchill-cape-merry
-srcHash: '03e369722da4'
+srcHash: '96d65a43c1b6'
 title: 'Cabo Merry: guía de viaje de Churchill (4.7★)'
 description: 'En la desembocadura del río Churchill, en Churchill (Manitoba), se alza Cabo Merry, un promontorio rocoso con una batería de cañones de piedra del siglo XVIII y vistas al fuerte Prince of Wales, en la orilla opuesta. Valoración de 4.7★ (132 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En la desembocadura del río Churchill, en Churchill (Manitoba), se encuentra Cabo Merry (Cape Merry), un promontorio rocoso que conserva una batería de cañones de piedra del siglo XVIII y desde el que se divisa, al otro lado del agua, el fuerte Prince of Wales. En julio y agosto es uno de los mejores puntos en tierra firme para observar ballenas beluga. Por la presencia de osos polares, conviene llegar en vehículo y no a pie. Entre semana, el momento más tranquilo es de 8pm a 9pm.
@@ -22,7 +22,7 @@ faq:
 
 Al final de Cape Merry Road, en la orilla oeste de la desembocadura del río Churchill, se encuentra Cabo Merry. Los glaciares pulieron aquí la roca precámbrica, que hoy aparece redondeada, agrietada y cubierta de manchas de líquenes. Apenas crece algún árbol. En la otra orilla del canal se levanta el fuerte Prince of Wales, la fortaleza de piedra que la Compañía de la Bahía de Hudson construyó en el siglo XVIII.
 
-En la punta se conserva la batería de Cabo Merry (Cape Merry Battery). Este emplazamiento de artillería, una construcción baja de piedra de la década de 1740, defendía la entrada del río junto con el fuerte, y todavía guarda sus cañones. Forma parte del Sitio Histórico Nacional del Fuerte Prince of Wales, que gestiona Parks Canada. Calcule entre 45 minutos y una hora de visita, o algo más si es temporada de belugas.
+En la punta se conserva la batería de Cabo Merry (Cape Merry Battery). Este emplazamiento de artillería, una construcción baja de piedra de la década de 1740, defendía la entrada del río junto con el fuerte, y todavía guarda sus cañones. Forma parte del Sitio Histórico Nacional del Fuerte Prince of Wales, que gestiona Parks Canada.
 
 ## Qué observar desde la punta
 

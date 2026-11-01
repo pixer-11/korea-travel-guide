@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: christchurch-cardboard-cathedral
-srcHash: 'b697eca4fc9e'
+srcHash: 'fed2d19845d6'
 title: 'Catedral de Cartón (Cardboard Cathedral): guía de viaje de Christchurch (4.4★)'
 description: En pleno centro de Christchurch, la Catedral de Cartón se alza en Hereford Street, junto a Latimer Square y a pocos pasos al este de Cathedral Square. Con 4.4★ (2,207 reseñas), le contamos qué opinan los visitantes, cuál es su horario y algunos consejos útiles.
 quickAnswer: La Catedral de Cartón (Cardboard Cathedral) se encuentra en Hereford Street, en el centro de Christchurch, junto a Latimer Square y a un corto paseo al este de Cathedral Square. Es la catedral anglicana provisional que se levantó tras el terremoto de 2011. Los fines de semana, la franja más tranquila va de 1pm a 4pm, aunque el domingo cierra a las 3pm. Conviene evitar las mañanas de fin de semana entre las 9am y la 1pm, cuando se concentra el mayor número de visitantes.
@@ -22,7 +22,7 @@ faq:
 
 Basta con plantarse en Hereford Street para captar la idea de un solo vistazo. Bajo una cubierta translúcida, enormes tubos de cartón se inclinan unos hacia otros hasta formar un alto armazón en forma de A, y la fachada la ocupa por completo un muro triangular de vidrio de colores. Aquí no se oculta nada: la propia estructura es el edificio.
 
-Su autor es el arquitecto japonés Shigeru Ban, que la proyectó después de que el terremoto de febrero de 2011 destrozara la catedral de ChristChurch, situada en Cathedral Square. Se inauguró en 2013 como catedral de transición para la diócesis anglicana. Desde el principio se concibió como provisional, y la catedral principal de la ciudad sigue todavía en proceso de restauración.
+Su autor es el arquitecto japonés Shigeru Ban, que la proyectó después de que el terremoto de febrero de 2011 dañara la catedral de ChristChurch, situada en Cathedral Square. Se inauguró en 2013 como catedral de transición para la diócesis anglicana. Desde el principio se concibió como provisional, y la catedral principal de la ciudad sigue todavía en proceso de restauración.
 
 ## Entre los tubos
 

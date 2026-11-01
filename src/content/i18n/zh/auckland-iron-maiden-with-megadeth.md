@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: auckland-iron-maiden-with-megadeth
-srcHash: '45617ebde0d6'
+srcHash: 'df201cd1c3fa'
 title: 铁娘子携手麦加帝斯奥克兰站：演出日期、购票与场馆指南
 description: 2026年11月7日和8日，铁娘子乐队（Iron Maiden）将与麦加帝斯（Megadeth）连演两晚。演出场馆是奥克兰Quay Park的Spark Arena，位于市中心边缘，离Britomart很近。
 quickAnswer: 2026年11月7日和8日，铁娘子乐队（Iron Maiden）将与麦加帝斯（Megadeth）在奥克兰Spark Arena连演两晚。场馆位于Quay Park，地处市中心边缘，离Britomart很近。2026年两场演出的门票可通过主办方购买，也可以在Spark Arena官方的演出页面购买。从Britomart站步行到场馆约需10–15分钟，大多数乐迷都是坐火车或走路过去。
@@ -36,7 +36,7 @@ Spark Arena坐落在帕内尔（Parnell）坡下，就在Mahuhu Crescent的尽�
 
 ## 走进Spark Arena
 
-场馆于2007年启用，当时名叫Vector Arena。举办演唱会时可容纳约12,000人，是奥克兰接待大型巡演的主要室内场馆。场内是标准的碗形布局：
+Spark Arena举办演唱会时可容纳约12,000人，是奥克兰接待大型巡演的主要室内场馆。场内是标准的碗形布局：
 
 - **内场**：摇滚演出时通常为站票普通区，越靠前人越挤。
 - **低层看台**：阶梯座位离舞台很近，视线可以越过内场直达台前。

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: barcelona-korea-spotlight-barcelona-2026
-srcHash: '3acce25f2b03'
+srcHash: 'e67ab66584e4'
 title: 'Korea Spotlight Barcelona 2026: fechas, entradas y recinto (Barcelona)'
 description: Korea Spotlight Barcelona 2026 se celebrará el miércoles 25 de noviembre de 2026 en Barcelona, en el recinto anunciado como Razzmatazz (Paral·lel 62).
 quickAnswer: Korea Spotlight Barcelona 2026 se celebrará el miércoles 25 de noviembre de 2026 en Barcelona, en el recinto anunciado como Razzmatazz (Paral·lel 62). Se trata de una muestra de K-pop que el Ministerio de Cultura, Deportes y Turismo de Corea organiza a través de KOCCA, la Agencia Coreana de Contenidos Creativos. Los enlaces de venta de entradas y el cartel se publican en los canales propios del organizador. Como no se nos facilitó ningún precio ni nombre de artista, esta guía no menciona ninguno.
@@ -44,7 +44,7 @@ Pocas zonas de Barcelona están tan bien comunicadas por metro como esta avenida
 - **Poble Sec** (L3), unas cuantas manzanas más adelante por la avenida
 - **Drassanes** (L3), junto al final de La Rambla, para quien llegue a pie desde el casco antiguo
 
-Quien pasa pocos días en la ciudad suele comprar en las máquinas de las estaciones la T-casual, la tarjeta de diez viajes válida para metro y autobús. Entre semana, el metro deja de circular hacia la medianoche; quienes terminan tarde suelen volver en los autobuses nocturnos NitBus o en un taxi tomado en el mismo Paral·lel. La línea 3 tiene fama por sus carteristas, y un teléfono en el bolsillo trasero no dura allí mucho tiempo.
+Quien pasa pocos días en la ciudad suele comprar en las máquinas de las estaciones la T-casual, la tarjeta de diez viajes válida para metro y autobús. Entre semana, el metro deja de circular hacia la medianoche; quienes terminan tarde suelen volver en los autobuses nocturnos NitBus o en un taxi tomado en el mismo Paral·lel. Como en cualquier línea de metro concurrida, conviene llevar el teléfono o la cartera en un bolsillo delantero o en un bolso con cremallera, y no en un lugar del que resulte fácil sustraerlos.
 
 ## Cómo se comporta el público en una muestra de K-pop
 

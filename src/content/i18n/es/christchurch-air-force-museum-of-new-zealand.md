@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: christchurch-air-force-museum-of-new-zealand
-srcHash: '0510c1282f0b'
+srcHash: 'a46bb74adac0'
 title: 'Museo de la Fuerza Aérea de Nueva Zelanda: guía de viaje de Christchurch'
 description: En el 45 de Harvard Avenue, en el barrio de Wigram (Christchurch), se alza el Museo de la Fuerza Aérea de Nueva Zelanda, sobre el antiguo aeródromo donde nació la aviación militar del país. Con una valoración de 4.7★ (2,418 reseñas), le contamos qué opinan los visitantes, cuál es el horario y qué conviene tener en cuenta.
 quickAnswer: El Museo de la Fuerza Aérea de Nueva Zelanda (Air Force Museum of New Zealand) ocupa el antiguo aeródromo de Wigram, en el 45 de Harvard Avenue (Christchurch), donde comenzó la aviación militar del país. Para recorrer las salas de aviones y probar el simulador de vuelo hacen falta entre dos y tres horas. Si tiene ocasión, reserve también una visita guiada a las zonas internas. El horario actual es de 9:30am–4:30pm, y quien llega a la hora de apertura suele adelantarse a los grupos escolares y a las familias.
@@ -58,7 +58,7 @@ Si no tiene coche, puede tomar alguno de los autobuses de Christchurch Metro que
 Aquí, un poco de planificación marca la diferencia. Estos consejos le ayudarán a disfrutar más de la visita:
 
 - **Reserve primero la visita guiada y organice el resto en función de ella.** Recorra las salas antes o después de la hora fijada, no a toda prisa entre medias.
-- **Si puede, llegue a las 9:30am.** Esta semana abre todos los días de 9:30am–4:30pm. Presentarse a la hora de apertura suele librarle de los grupos escolares y de las familias, que se acumulan más tarde.
+- **Si puede, llegue a las 9:30am.** Por ahora abre todos los días de 9:30am–4:30pm. Presentarse a la hora de apertura suele librarle de los grupos escolares y de las familias, que se acumulan más tarde.
 - **Calcule al menos dos horas.** Si llega después de las 2pm, tendrá que pasar con prisas por delante del archivo y de las vitrinas de medallas.
 - **Trate con respeto el material conmemorativo.** Una parte de la colección rinde homenaje a tripulantes fallecidos. En esa zona los visitantes hablan en voz baja, y usted debería hacer lo mismo.
 - **Pregunte antes de tocar.** Algunas piezas están pensadas para ello, pero la mayoría de los aviones no. Los voluntarios y el personal de sala, muchos de ellos con verdadera experiencia en la fuerza aérea, le indicarán con gusto qué se puede tocar y qué no.

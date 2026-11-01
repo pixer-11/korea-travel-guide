@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: christchurch-christchurch-tram
-srcHash: 'f01232ec7de0'
+srcHash: 'a313bf1a12e6'
 title: 'Tranvía de Christchurch: guía de viaje (4.6★)'
 description: El tranvía histórico de Christchurch (Christchurch Tram) recorre en circuito el centro de la ciudad con comentarios en directo. Se puede subir en paradas como la de 109 Worcester Street y bajar y volver a subir libremente entre lugares emblemáticos como Cathedral Square, New Regent Street o el Arts Centre. Con una valoración de 4.6★ (2,318 reseñas), aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
 quickAnswer: El tranvía histórico de Christchurch (Christchurch Tram) recorre en circuito el centro de la ciudad con comentarios en directo. Se puede subir en paradas como la de 109 Worcester Street y bajar y volver a subir libremente entre lugares emblemáticos como Cathedral Square, New Regent Street o el Arts Centre. Actualmente funciona de 8:30am–6:30pm. La franja más tranquila es de 5pm–6pm, tanto entre semana como el fin de semana. Si quiere asegurarse un asiento junto a la ventanilla, evite los fines de semana de 10am–5pm.

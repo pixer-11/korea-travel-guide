@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: beijing-lama-temple
-srcHash: 'a176e4a6cfbe'
+srcHash: '6bd8262184c6'
 title: 'Templo de los Lamas: Guía de viaje de Pekín (4,7★)'
 description: 'El Templo de los Lamas (Yonghegong) se encuentra en Yonghegong Dajie, al noreste de Dongcheng, justo junto a la parada de metro que lleva su mismo nombre. 4,7★ (1.207 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Templo de los Lamas (Yonghegong) se encuentra en Yonghegong Dajie, al noreste de Dongcheng, justo junto a la parada de metro que lleva su mismo nombre. Abre todos los días de 9:00 a 17:00, y las horas más tranquilas son justo a la apertura o después de las 15:30, bastante antes de la avalancha del cierre. Conviene reservar entre 90 minutos y dos horas para recorrer los cinco salones principales sin sentirse apresurado.
@@ -34,7 +34,7 @@ El complejo está organizado en línea recta con cinco salones principales, cada
 - **Salón de la Rueda de la Ley** – alberga una gran estatua de bronce de Tsongkhapa, fundador de la escuela Gelug
 - **Pabellón de las Diez Mil Felicidades** – el gran final, con un imponente Buda Maitreya de sándalo
 
-Esa última estatua figura en el Libro Guinness de los Récords como la mayor talla en sándalo de una sola pieza del mundo, y el techo del pabellón se construyó en realidad alrededor de ella una vez que la madera llegó desde el Tíbet, ya que era demasiado alta para pasar por la puerta.
+Esa última estatua está tallada en una sola pieza de sándalo, y el techo del pabellón se construyó en realidad alrededor de ella una vez que la madera llegó desde el Tíbet, ya que era demasiado alta para pasar por la puerta.
 
 ## El Buda de un solo tronco y por qué el techo es tan peculiar
 

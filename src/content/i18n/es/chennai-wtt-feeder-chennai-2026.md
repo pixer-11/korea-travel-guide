@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: chennai-wtt-feeder-chennai-2026
-srcHash: '83b8e6346562'
+srcHash: '2234ebadab95'
 title: 'WTT Feeder Chennai 2026: fechas, entradas y sede (Chennai)'
 description: El WTT Feeder Chennai 2026 se disputará del 28 de octubre al 1 de noviembre de 2026 en la Universidad de Educación Física y Deportes de Tamil Nadu (TNPESU), situada en Melakottaiyur, cerca de Vandalur, en el extremo sur de Chennai.
 quickAnswer: Del 28 de octubre al 1 de noviembre de 2026, la Universidad de Educación Física y Deportes de Tamil Nadu (Tamil Nadu Physical Education and Sports University, TNPESU) acoge el WTT Feeder Chennai 2026. El campus se encuentra en Melakottaiyur, cerca de Vandalur, en el extremo sur de Chennai. Al tratarse de un torneo de nivel inicial dentro del calendario del World Table Tennis, el público es menos numeroso, los asientos quedan muy cerca de las mesas y durante cinco días se pueden ver muchísimos partidos.
@@ -84,7 +84,7 @@ La parte buena es que la lluvia rebaja las temperaturas respecto a los picos del
 La mayoría de los visitantes que no viajan con un equipo se aloja en una de estas dos zonas:
 
 - **Corredor de la GST Road (Tambaram, Guduvanchery, Vandalur):** la más cercana a la sede y servida por la línea de cercanías. Abundan los hoteles de negocios de gama media.
-- **OMR (Sholinganallur, Navalur, Kelambakkam):** el corredor tecnológico, con hoteles más grandes y numerosos restaurantes. Hasta el campus hay que ir en taxi hacia el oeste por la carretera Vandalur–Kelambakkam.
+- **OMR (Sholinganallur, Navalur, Kelambakkam):** el corredor tecnológico, con hoteles más grandes y numerosos restaurantes. Hasta el campus hay que ir en taxi por la carretera Vandalur–Kelambakkam.
 
 Los barrios del centro de Chennai, como T. Nagar, Mylapore o Egmore, permiten disfrutar más de la ciudad, a costa de un largo desplazamiento diario hacia el sur.
 

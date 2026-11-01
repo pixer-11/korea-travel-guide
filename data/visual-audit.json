@@ -17263,6 +17263,12 @@
   "reason": "publish gate: Park pathway with trees and grass, plausible Newsham Park scene",
   "at": "2026-10-19T08:15:21.159Z"
  },
+ "liverpool-st-george-s-hall\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/St_Georges_Hall_Liverpool_3_%286727529617%29.jpg/3840px-St_Georges_Hall_Liverpool_3_%286727529617%29.jpg": {
+  "slug": "liverpool-st-george-s-hall",
+  "verdict": "MATCH",
+  "reason": "publish gate: Clear exterior view of St George's Hall building",
+  "at": "2026-11-01T07:58:52.441Z"
+ },
  "liverpool-the-beatles-statues\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Ringo%2CPaul%2CGeorge_%26_John._%28The_Beatles%29_-_The_Beatles_statues%2C_Hard_Days_Night_Hotel%2C_North_John_Street_%26_Mathew_Street%2C_Liverpool_%282015-11-11_16.15.18_by_Loco_Steve%29.jpg/3840px-thumbnail.jpg": {
   "slug": "liverpool-the-beatles-statues",
   "verdict": "MATCH",
@@ -19266,6 +19272,12 @@
   "reason": "publish gate: Cathedral interior showing altar, representative hero shot",
   "at": "2026-10-31T07:54:35.684Z"
  },
+ "mar-del-plata-plaza-colon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Hotel_Provincial_y_Casino%2C_Plaza_seca_y_la_Plaza_Col%C3%B3n._Vista_panor%C3%A1mica_desde_el_Palacio_Ed%C3%A9n.jpg/3840px-Hotel_Provincial_y_Casino%2C_Plaza_seca_y_la_Plaza_Col%C3%B3n._Vista_panor%C3%A1mica_desde_el_Palacio_Ed%C3%A9n.jpg": {
+  "slug": "mar-del-plata-plaza-colon",
+  "verdict": "MATCH",
+  "reason": "publish gate: Aerial view of Plaza Colón with fountain and beach",
+  "at": "2026-11-01T07:58:52.376Z"
+ },
  "mar-del-plata-puerto-de-mar-del-plata\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Puerto_pesquero_de_Mar_del_Plata_01.jpg/3840px-Puerto_pesquero_de_Mar_del_Plata_01.jpg": {
   "slug": "mar-del-plata-puerto-de-mar-del-plata",
   "verdict": "MATCH",
@@ -20473,6 +20485,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Exterior facade of Montreal Museum of Fine Arts entrance",
   "at": "2026-10-22T07:49:24.317Z"
+ },
+ "montreal-montreal-underground-city\u0001https://upload.wikimedia.org/wikipedia/commons/b/bc/Underground_City%2C_Montr%C3%A9al_-_panoramio.jpg": {
+  "slug": "montreal-montreal-underground-city",
+  "verdict": "MATCH",
+  "reason": "publish gate: Underground corridor plausible for Montreal Underground City",
+  "at": "2026-11-01T07:58:52.478Z"
  },
  "montreal-notre-dame-basilica-of-montreal\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Notre-Dame_Basilica_Interior%2C_Montreal%2C_Canada_-_Diliff.jpg/3840px-Notre-Dame_Basilica_Interior%2C_Montreal%2C_Canada_-_Diliff.jpg": {
   "slug": "montreal-notre-dame-basilica-of-montreal",
@@ -22215,6 +22233,12 @@
   "reasonKo": "타임스퀘어의 상징적인 거리 풍경",
   "at": "2026-08-03T14:33:46.210Z"
  },
+ "new-york-times-square-ball\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Seventh_Times_Square_Ball_Closeup.jpg/1920px-Seventh_Times_Square_Ball_Closeup.jpg": {
+  "slug": "new-york-times-square-ball",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows the actual Times Square Ball with crystal panels",
+  "at": "2026-11-01T07:58:52.213Z"
+ },
  "new-york-top-of-the-rock\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/NYC_Top_of_the_Rock_Pano.jpg/1920px-NYC_Top_of_the_Rock_Pano.jpg": {
   "slug": "new-york-top-of-the-rock",
   "verdict": "MATCH",
@@ -23243,6 +23267,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Open parkland with trees and Oxford buildings in distance",
   "at": "2026-10-19T08:15:54.925Z"
+ },
+ "oxford-turf-tavern\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Turf_Tavern_in_Oxford%2C_England.jpg/1920px-Turf_Tavern_in_Oxford%2C_England.jpg": {
+  "slug": "oxford-turf-tavern",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior view of Turf Tavern building with sign visible",
+  "at": "2026-11-01T07:58:52.306Z"
  },
  "pai-huai-nam-dang-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/e/ec/Huai_Nam_Dang_National_Park.jpg": {
   "slug": "pai-huai-nam-dang-national-park",
@@ -25753,6 +25783,12 @@
   "reason": "event publish gate: Tennis court event scene matches Next Gen ATP Finals",
   "at": "2026-10-25T22:55:43.126Z"
  },
+ "rishikesh-lakshman-jhula\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Rishikesh-Lakshman_Jhula_by_Kaustubh_Nayyar.jpg/1920px-Rishikesh-Lakshman_Jhula_by_Kaustubh_Nayyar.jpg": {
+  "slug": "rishikesh-lakshman-jhula",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows suspension bridge over river in Rishikesh landscape",
+  "at": "2026-11-01T07:58:52.590Z"
+ },
  "rishikesh-parmarth-niketan-ashram\u0001https://fastly.4sqi.net/img/general/original/11878062_yBy9u1ZFlQk2ecjDq2ohPoJjo-rdkKvvJpZPEXk58eI.jpg": {
   "slug": "rishikesh-parmarth-niketan-ashram",
   "verdict": "MATCH",
@@ -26195,6 +26231,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Scenic viewpoint over city, consistent with hill overlook",
   "at": "2026-10-25T13:00:55.801Z"
+ },
+ "salta-san-martin-park\u0001https://upload.wikimedia.org/wikipedia/commons/d/dd/AMERICA_EN_BUS_%28WAYRA_01%29_-_EN_SALTA_-_PARQUE_SAN_MARTIN_-_panoramio.jpg": {
+  "slug": "salta-san-martin-park",
+  "verdict": "MATCH",
+  "reason": "publish gate: Park scene with trees, grass, bus, plausible Salta park",
+  "at": "2026-11-01T07:58:52.342Z"
  },
  "salta-valle-encantado\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Paisaje_capturado_desde_un_sector_del_Valle_Encantado_-_Parque_Nacional_Los_Cardones.jpg/3840px-Paisaje_capturado_desde_un_sector_del_Valle_Encantado_-_Parque_Nacional_Los_Cardones.jpg": {
   "slug": "salta-valle-encantado",
@@ -30033,6 +30075,12 @@
   "reason": "Spring flowers, manicured lawn, park setting in Strasbourg",
   "reasonKo": "스트라스부르 공원, 봄꽃, 정원 풍경",
   "at": "2026-09-18T16:41:53.180Z"
+ },
+ "strasbourg-place-kleber\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Absolute_place_Kleber_02.jpg/1920px-Absolute_place_Kleber_02.jpg": {
+  "slug": "strasbourg-place-kleber",
+  "verdict": "MATCH",
+  "reason": "publish gate: Square with Christmas tree, buildings, people - plausible Place Kléber",
+  "at": "2026-11-01T07:58:52.267Z"
  },
  "strasbourg-strasbourg-museum-of-modern-and-contemporary-art\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Strasbourg_18.jpg/1920px-Strasbourg_18.jpg": {
   "slug": "strasbourg-strasbourg-museum-of-modern-and-contemporary-art",
@@ -34126,6 +34174,12 @@
   "reason": "patrol reject: Shows cremation ghat, not Diwali festival lighting event",
   "at": "2026-10-08T15:05:59.602Z"
  },
+ "varanasi-ramnagar-fort\u0001https://upload.wikimedia.org/wikipedia/commons/8/89/Entrance_area_of_Ramnagar_Fort.jpg": {
+  "slug": "varanasi-ramnagar-fort",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior facade of Ramnagar Fort, representative hero shot",
+  "at": "2026-11-01T07:58:52.554Z"
+ },
  "varanasi-shri-kashi-vishwanath-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Shri_Kashi_Vishwanath_Temple_3.jpg/1920px-Shri_Kashi_Vishwanath_Temple_3.jpg": {
   "slug": "varanasi-shri-kashi-vishwanath-temple",
   "verdict": "MATCH",
@@ -34212,6 +34266,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows Giusti Garden view through arches with cypress trees",
   "at": "2026-09-11T07:43:21.004Z"
+ },
+ "verona-piazza-delle-erbe\u0001https://upload.wikimedia.org/wikipedia/commons/1/1f/Verona_-_Piazza_Erbe_as_seen_from_Lamberti_tower.jpg": {
+  "slug": "verona-piazza-delle-erbe",
+  "verdict": "MATCH",
+  "reason": "publish gate: Aerial view of Piazza delle Erbe with tower, Verona",
+  "at": "2026-11-01T07:58:52.520Z"
  },
  "verona-torre-dei-lamberti\u0001https://upload.wikimedia.org/wikipedia/commons/d/d1/Torre_dei_Lamberti-Verona.jpg": {
   "slug": "verona-torre-dei-lamberti",

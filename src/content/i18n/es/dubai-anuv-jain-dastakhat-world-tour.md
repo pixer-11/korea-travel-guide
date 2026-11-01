@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: dubai-anuv-jain-dastakhat-world-tour
-srcHash: '4d96aced0626'
+srcHash: '9a45c79c83da'
 title: 'Anuv Jain en Dubái con el Dastakhat World Tour: fecha, entradas y recinto'
 description: El Dastakhat World Tour de Anuv Jain llega a Dubái el 20 de noviembre de 2026. El concierto tendrá lugar en el Dubai Millennium Amphitheatre de Expo City Dubai.
 quickAnswer: El Dastakhat World Tour de Anuv Jain llega a Dubái el 20 de noviembre de 2026. El concierto se celebra en el Dubai Millennium Amphitheatre de Expo City Dubai. El recinto está al aire libre y la estación Expo 2020 de la Línea Roja del Metro de Dubái tiene parada en el propio lugar. El vendedor oficial de entradas de la gira es quien fija las categorías y los precios, así que esa información no aparece en esta página.
@@ -38,7 +38,7 @@ Lo que sí puede darse por seguro es el ambiente de sus conciertos. Las cancione
 
 El anfiteatro es uno de los recintos al aire libre de Expo City Dubai. Este gran cuenco abierto ocupa parte del antiguo recinto de la Expo 2020 y sus gradas rodean el escenario en curva. Entre el público y el cielo no hay ningún techo.
 
-Por eso noviembre es la época ideal. A finales de otoño, las noches de Dubái refrescan y suelen rondar los 25 °C. Ya pasado el calor del verano, vuelven los conciertos al aire libre. Para la brisa de última hora basta con llevar una prenda ligera.
+Por eso noviembre es la época ideal. A finales de otoño, las noches de Dubái refrescan. Ya pasado el calor del verano, vuelven los conciertos al aire libre. Para la brisa de última hora basta con llevar una prenda ligera.
 
 El recinto de la Expo está pensado para recorrerlo a pie, con amplios caminos a la sombra, plazas bien señalizadas y muchos sitios donde sentarse. Para llegar al anfiteatro desde la estación o desde los aparcamientos hay que cruzar el recinto andando, y el paseo no es corto.
 

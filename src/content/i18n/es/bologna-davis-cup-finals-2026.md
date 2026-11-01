@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bologna-davis-cup-finals-2026
-srcHash: 'f05765ef27e2'
+srcHash: 'ab41143cf591'
 title: 'Finales de la Copa Davis 2026: fechas, entradas y sede (Bolonia)'
 description: Bolonia (Italia) acoge del 24 al 29 de noviembre de 2026 las Finales de la Copa Davis 2026, que se disputarán en el SuperTennis Arena.
 quickAnswer: 'Del 24 al 29 de noviembre de 2026, el SuperTennis Arena de Bolonia (Italia) será el escenario de las Finales de la Copa Davis 2026. Ocho países lucharán por el título: España parte como primera cabeza de serie y Corea del Sur figura entre los participantes. La Federación Internacional de Tenis (ITF), organizadora de la Copa Davis, publica en su web oficial el calendario y los enlaces para comprar entradas.'
@@ -24,7 +24,7 @@ España llega a Bolonia como primera cabeza de serie. La acompañan otros siete 
 
 Las Finales siguen un formato de eliminación directa con cuartos de final, semifinales y final. Cada eliminatoria se juega al mejor de tres puntos: dos individuales y, en caso de empate a uno, un dobles. Como ese último partido suele inclinar la balanza, el público acostumbra a quedarse hasta el final.
 
-Italia llega en un gran momento, pues conquistó el trofeo en 2023 y 2024. Motivos de sobra para que la afición boloñesa llene las gradas cada vez que juegue su selección.
+Italia cuenta con una gran tradición en la Copa Davis: motivos de sobra para que la afición boloñesa llene las gradas cada vez que juegue su selección.
 
 ## Entradas y formato de las sesiones
 

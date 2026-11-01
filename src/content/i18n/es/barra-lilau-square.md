@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: barra-lilau-square
-srcHash: '01d8ba92746b'
+srcHash: 'b750363da47a'
 title: 'Plaza de Lilau: guía de viaje de Barra (4.2★)'
 description: 'En el barrio de Barra, en Macao, la Plaza de Lilau es una pequeña plaza abierta a todas horas que rodea el antiguo manantial de Lilau y forma parte del Centro Histórico de Macao, declarado Patrimonio de la Humanidad por la UNESCO. 4.2★ (177 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En el barrio de Barra, en Macao, la Plaza de Lilau es una pequeña plaza abierta a todas horas. Se formó alrededor del antiguo manantial de Lilau y pertenece al Centro Histórico de Macao, declarado Patrimonio de la Humanidad por la UNESCO. Con 15 a 30 minutos basta para recorrerla. Puede combinar la visita con la Casa del Mandarín, que está al lado, y con el Templo de A-Ma, a un breve paseo cuesta abajo.
@@ -44,7 +44,7 @@ La plaza es un rincón residencial, no un decorado. En las casas que la rodean v
 
 Lilau luce más como una parada dentro de un paseo cuesta abajo por el barrio de Barra.
 
-- **Casa del Mandarín (Casa do Mandarim):** a la vuelta de la esquina, en la Travessa de António da Silva. En esta gran residencia con patios vivió el escritor reformista Zheng Guanying. Calcule 45 minutos.
+- **Casa del Mandarín (Casa do Mandarim):** a la vuelta de la esquina, en la Travessa de António da Silva. En esta gran residencia con patios vivió el escritor reformista Zheng Guanying.
 - **Templo de A-Ma:** a pocos minutos a pie bajando hacia el paseo marítimo. Se dice que de este templo procede el nombre de Macao.
 - **Cuartel de los Moros (Quartel dos Mouros):** un edificio porticado en amarillo y blanco situado en la Calçada da Barra, entre la plaza y el templo.
 - **Iglesia de San Lorenzo:** cuesta arriba, en la Rua de São Lourenço. Es un buen punto de partida si viene del centro.

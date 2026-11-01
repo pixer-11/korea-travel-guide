@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: downtown-dubai-burj-park
-srcHash: '1c59ec21ef20'
+srcHash: '613212fd5042'
 title: 'Burj Park: guía de viaje del centro de Dubái (4,5★)'
 description: 'Burj Park es el parque frente al agua a los pies del Burj Khalifa, en el centro de Dubái, abierto las 24 horas y de entrada gratuita. 4,5★ (418 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'Burj Park es el parque frente al agua a los pies del Burj Khalifa, en el centro de Dubái, abierto las 24 horas y de entrada gratuita. Es el mejor lugar para fotografiar la torre sin pagar por un mirador, y los fines de semana está más tranquilo entre las 11:00 y el mediodía, antes de que las multitudes de la fuente se acumulen durante la tarde y la noche. Conviene ir por la vista, no por la sombra: apenas hay antes del atardecer.'

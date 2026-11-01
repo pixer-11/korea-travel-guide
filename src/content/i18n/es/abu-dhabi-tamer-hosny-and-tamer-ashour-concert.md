@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: abu-dhabi-tamer-hosny-and-tamer-ashour-concert
-srcHash: '7dcf59040be2'
+srcHash: '039edfe58946'
 title: 'Concierto de Tamer Hosny y Tamer Ashour: fechas, entradas y recinto (Abu Dabi)'
 description: La fecha anunciada para el concierto de Tamer Hosny y Tamer Ashour era el 17 de octubre de 2026, en el Etihad Arena de la isla de Yas, en Abu Dabi (Emiratos Árabes Unidos).
 quickAnswer: El concierto de Tamer Hosny y Tamer Ashour estaba programado para el 17 de octubre de 2026 en el Etihad Arena, en la isla de Yas (Abu Dabi). El cartel reunía a dos de las grandes voces de Egipto en una sola noche de baladas e himnos bailables. Las entradas se vendieron a través de la web del Etihad Arena y de plataformas de venta autorizadas. En los conciertos de este recinto, las zonas más próximas a la pista suelen ser las primeras en agotarse.
@@ -20,7 +20,7 @@ faq:
 
 Desde su inauguración, el Etihad Arena ha acogido a numerosas superestrellas de la música en árabe. Un cartel compartido por Tamer Hosny y Tamer Ashour es de los que atraen a un público capaz de corear cada letra antes incluso de que suene la primera nota. Hosny aporta el magnetismo de una estrella del pop y décadas de sencillos en lo más alto de las listas.
 
-Ashour, por su parte, es el favorito de las nuevas generaciones gracias a sus desgarradoras baladas al piano. La fecha anunciada para verlos juntos sobre el mismo escenario era el 17 de octubre de 2026, en una velada concebida para cantar de principio a fin.
+Ashour, por su parte, es el favorito de las nuevas generaciones gracias a sus desgarradoras baladas al piano. Ambos estaban anunciados juntos sobre el mismo escenario en una velada concebida para cantar de principio a fin.
 
 ## Qué ofrecía el espectáculo
 

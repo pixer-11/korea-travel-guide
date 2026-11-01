@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: bengaluru-chet-faker-a-love-for-strangers-tour
-srcHash: '763b6c7ff111'
+srcHash: '3e6e51909fee'
 title: Chet Faker：A Love For Strangers 巡演——班加罗尔场日期、门票与场馆信息
 description: Chet Faker 的 A Love For Strangers 巡演原定于2026年9月20日抵达班加罗尔（Bengaluru），作为继德里国家首都辖区（Delhi NCR）和孟买之后的收官场次。
 quickAnswer: Chet Faker 的 A Love For Strangers 巡演原定2026年9月20日在班加罗尔举办，这是继9月18日德里国家首都辖区（Delhi NCR）站和9月19日孟买站之后的收官场。班加罗尔场的具体场馆、开场时间及票价均由巡演主办方及其票务合作伙伴负责公布。当晚的演出被宣传为既有他新作中那种带着忧郁气质的电子灵魂乐（electro-soul），也少不了《Thinking In Textures》时期的经典老歌。

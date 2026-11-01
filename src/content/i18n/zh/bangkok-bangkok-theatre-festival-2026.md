@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: bangkok-bangkok-theatre-festival-2026
-srcHash: 'a0d8e2e5f401'
+srcHash: '72fa3724cc42'
 title: 2026曼谷戏剧节：日期、门票与场馆（曼谷）
 description: 2026曼谷戏剧节将于11月14日至29日在曼谷举行。戏剧、当代表演和肢体作品均售票演出，场馆包括曼谷艺术文化中心（Bangkok Art and Culture Centre，BACC）和TK Park等。
 quickAnswer: 2026曼谷戏剧节将于11月14日至29日在曼谷举行，这已是第24届。戏剧、当代表演和肢体作品均售票演出，场馆包括曼谷艺术文化中心（Bangkok Art and Culture Centre，BACC）和TK Park等。两大主场馆都在暹罗（Siam）和巴吞旺（Pathum Wan）一带，离BTS轻轨站很近。
@@ -48,7 +48,7 @@ TK Park全称泰国知识公园（Thailand Knowledge Park），是一处学习�
 
 ## 场次间隙逛逛周边
 
-这一带吃喝玩乐都近在咫尺，连着几个晚上看戏也很方便。从BACC出来，路口正对面就是**MBK购物中心**，里面的美食广场出餐快、价格实惠。沿拉玛一世路往东一站，就是**Siam Discovery**和**暹罗百丽宫（Siam Paragon）**。
+这一带吃喝玩乐都近在咫尺，连着几个晚上看戏也很方便。从BACC出来，路口正对面就是**MBK购物中心**，里面有好几层商铺，还有一个美食广场。沿拉玛一世路往东一站，就是**Siam Discovery**和**暹罗百丽宫（Siam Paragon）**。
 
 **金汤普森之家**是一座位于盛赛运河（Saen Saep）畔的柚木屋博物馆，从国家体育场站步行不远，正好用来打发晚场演出前的白天时光。
 

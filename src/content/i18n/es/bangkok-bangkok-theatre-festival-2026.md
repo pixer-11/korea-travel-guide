@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bangkok-bangkok-theatre-festival-2026
-srcHash: 'a0d8e2e5f401'
+srcHash: '72fa3724cc42'
 title: 'Festival de Teatro de Bangkok 2026: fechas, entradas y sedes (Bangkok)'
 description: Del 14 al 29 de noviembre, el Festival de Teatro de Bangkok 2026 ofrece en la capital tailandesa teatro, artes escénicas contemporáneas y obras de movimiento. Las entradas están a la venta y las funciones se reparten entre varias sedes, entre ellas el Centro de Arte y Cultura de Bangkok (BACC) y TK Park.
 quickAnswer: Del 14 al 29 de noviembre, Bangkok acoge el Festival de Teatro de Bangkok 2026, que llega así a su 24.ª edición. Ya se venden entradas para su programa de teatro, artes escénicas contemporáneas y obras de movimiento, repartido entre varias sedes, entre ellas el Centro de Arte y Cultura de Bangkok (Bangkok Art and Culture Centre, BACC) y TK Park. Las dos sedes principales quedan cerca del tren elevado BTS Skytrain, en la zona de Siam y Pathum Wan.
@@ -48,7 +48,7 @@ El precio de las entradas depende de cada producción y figura en la ficha corre
 
 ## Qué hay cerca de las sedes entre función y función
 
-Encadenar varias noches de teatro resulta sencillo, porque aquí casi todo queda a mano. Justo al otro lado del cruce del BACC se encuentra **MBK Center**, con un patio de comidas rápido y económico. A una parada hacia el este por Rama I están **Siam Discovery** y **Siam Paragon**.
+Encadenar varias noches de teatro resulta sencillo, porque aquí casi todo queda a mano. Justo al otro lado del cruce del BACC se encuentra **MBK Center**, con varias plantas de tiendas y un patio de comidas. A una parada hacia el este por Rama I están **Siam Discovery** y **Siam Paragon**.
 
 A poca distancia a pie de la estación National Stadium, junto al canal Saen Saep, se halla la **Casa de Jim Thompson** (Jim Thompson House), un museo instalado en casas de teca. Es una buena forma de llenar un hueco durante el día antes de la función de la noche.
 

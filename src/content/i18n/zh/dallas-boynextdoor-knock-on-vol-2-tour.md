@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: dallas-boynextdoor-knock-on-vol-2-tour
-srcHash: 'f6301a5041c2'
+srcHash: 'b277f4e4445c'
 title: BOYNEXTDOOR“KNOCK ON Vol.2”巡演达拉斯站：日期、门票与场馆
 description: BOYNEXTDOOR“KNOCK ON Vol.2”巡演的达拉斯站日期为2026年10月22日。这是这支六人K-pop男团第二次个人巡演的美国站之一，地点在得克萨斯州达拉斯。
 quickAnswer: BOYNEXTDOOR“KNOCK ON Vol.2”巡演的达拉斯站日期为2026年10月22日。这是这支六人K-pop男团第二次个人巡演的美国站之一，地点在得克萨斯州达拉斯。日期、场馆和购票链接等巡演官方通知，均由组合所属公司KOZ Entertainment及其Weverse社区发布。
@@ -35,7 +35,7 @@ faq:
 
 ## 场馆、门票与信息发布渠道
 
-本文只介绍日期和城市。我们的资料里没有具体场馆，因此不写场馆名称，也不作猜测。
+本文只介绍日期和城市。具体场馆在此尚未得到确认，因此本文不写场馆名称。
 
 KOZ Entertainment通过官方渠道和BOYNEXTDOOR的Weverse社区发布巡演通知，场馆、入场时间、购票链接以及会员优先购票规则都写在这些通知里。HYBE旗下艺人的巡演，往往要凭Weverse会员资格才能参加优先购票，所以想抢第一轮票的粉丝通常都开通了会员。
 

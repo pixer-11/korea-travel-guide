@@ -1,17 +1,17 @@
 ---
 lang: es
 slug: cannes-abbaye-de-lerins
-srcHash: 'a4c671d6d105'
+srcHash: 'd72108079beb'
 title: 'Abadía de Lérins: Guía de Viaje de Cannes (4.7★)'
 description: 'La Abadía de Lérins se encuentra en la Isla de San Honorato (Île Saint-Honorat), la más pequeña de las dos islas de Lérins frente a Cannes, a la que solo se puede llegar en un ferry de 15-20 minutos desde el Vieux Port de Cannes. 4.7★ (1.403 reseñas): opiniones de los visitantes, horarios y consejos.'
-quickAnswer: La Abadía de Lérins se encuentra en la Isla de San Honorato (Île Saint-Honorat), la más pequeña de las dos islas de Lérins frente a Cannes, a la que solo se puede llegar en un ferry de 15-20 minutos desde el Vieux Port de Cannes. Los monjes viven allí desde el siglo V, y el monasterio fortificado actual data en gran parte del siglo XI. Conviene ir entre las 9:00 y las 10:00 de la mañana entre semana, el momento más tranquilo, ya que los fines de semana la afluencia crece rápido entre las 11:00 y las 17:00.
+quickAnswer: La Abadía de Lérins se encuentra en la Isla de San Honorato (Île Saint-Honorat), la más pequeña de las dos islas de Lérins frente a Cannes, a la que solo se puede llegar en un ferry de 15-20 minutos desde el Vieux Port de Cannes. Los monjes viven allí desde el siglo V, y el monasterio fortificado actual data en gran parte del siglo XI. Conviene ir entre las 9:00 y las 10:00 de la mañana entre semana, el momento más tranquilo, ya que los fines de semana la afluencia crece rápido desde media mañana hasta entrada la tarde.
 faq:
   - q: ¿Cómo se llega a la Abadía de Lérins?
     a: Hay que tomar el ferry de Planète Croisières desde el Vieux Port de Cannes hasta la Isla de San Honorato, una travesía de 15-20 minutos. No existe otra forma de llegar a la isla.
   - q: ¿Cuál es el horario de apertura?
     a: La abadía abre todos los días del año, incluidos los fines de semana, de 9:00 a 18:30.
   - q: ¿Cuál es el mejor momento para evitar las multitudes?
-    a: El momento más tranquilo es entre semana, de 9:00 a 10:00. Los fines de semana el mayor ajetreo se concentra entre las 11:00 y las 17:00, y fuera de esa franja la afluencia disminuye.
+    a: El momento más tranquilo es entre semana, de 9:00 a 10:00. Los fines de semana el mayor ajetreo se concentra desde media mañana hasta entrada la tarde, y fuera de esa franja la afluencia disminuye.
   - q: ¿Cuánto tiempo hay que reservar para la visita?
     a: Conviene calcular entre dos y tres horas para recorrer el camino perimetral de la isla (unos 1,5 km, llano) y ver el claustro, las capillas y la torre fortificada.
   - q: ¿Hay algún lugar donde comer o comprar algo en la isla?
@@ -36,7 +36,7 @@ Conviene calcular entre dos y tres horas para recorrer el camino perimetral de l
 
 ## Cuándo conviene ir
 
-Entre semana, las horas más tranquilas de la isla son de 9:00 a 10:00, justo cuando llegan los primeros barcos. Los fines de semana, en cambio, el momento de mayor concurrencia es entre las 11:00 y las 17:00, y fuera de esa franja la afluencia disminuye.
+Entre semana, las horas más tranquilas de la isla son de 9:00 a 10:00, justo cuando llegan los primeros barcos. Los fines de semana, en cambio, el momento de mayor concurrencia va desde media mañana hasta entrada la tarde, y fuera de esa franja la afluencia disminuye.
 
 Si la visita es en fin de semana, conviene tomar el ferry más temprano posible y dirigirse directamente al extremo más alejado de la isla antes de que lleguen los grupos organizados. Entre semana, ese mismo horario matutino permite disfrutar del claustro y las capillas casi en soledad.
 

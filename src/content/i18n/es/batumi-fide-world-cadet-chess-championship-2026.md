@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: batumi-fide-world-cadet-chess-championship-2026
-srcHash: 'e253c6f6b446'
+srcHash: 'cef4ef731c4b'
 title: 'Campeonato Mundial Cadete de Ajedrez de la FIDE 2026: fechas, entradas y sede (Batumi)'
 description: Batumi (Georgia) acoge del 21 al 29 de noviembre de 2026 el Campeonato Mundial Cadete de Ajedrez de la FIDE, que se disputa en las categorías Sub-8, Sub-10 y Sub-12.
 quickAnswer: Del 21 al 29 de noviembre de 2026, la ciudad georgiana de Batumi acoge el Campeonato Mundial Cadete de Ajedrez de la FIDE, con categorías Sub-8, Sub-10 y Sub-12. Lo organiza la FIDE, la federación internacional de ajedrez. La sede, las condiciones de acceso para el público y la posible venta de entradas dependen de la FIDE y de los organizadores locales. En los torneos juveniles de este tipo, la entrada a la sala de juego suele estar restringida.
@@ -34,7 +34,7 @@ La sede concreta del torneo la determinan la FIDE y el comité organizador local
 
 Casi todas las familias llegan en avión. El Aeropuerto Internacional de Batumi se encuentra justo al sur de la ciudad, a pocos minutos en coche del paseo marítimo. Muchos viajeros internacionales hacen escala en Estambul o vuelan a Tiflis o Kutaisi para seguir después por tierra.
 
-- **Desde Tiflis:** la opción terrestre más cómoda es el tren hasta la estación Central de Batumi, con un trayecto de unas cinco o seis horas.
+- **Desde Tiflis:** la opción terrestre más cómoda es el tren hasta la estación Central de Batumi.
 - **Desde Turquía:** el paso fronterizo de Sarpi está en la carretera de la costa, a pocos kilómetros al sur de la ciudad.
 - **Por la ciudad:** los equipos suelen desplazarse del hotel a la sala en taxis reservados mediante aplicaciones de transporte.
 

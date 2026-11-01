@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bugis-albert-centre-market-food-centre
-srcHash: '0a3b375ab101'
+srcHash: '40a3c11f7ee1'
 title: 'Albert Centre Market & Food Centre: dónde comer en Bugis'
 description: 'Junto al canal Rochor, en el 270 de Queen St, el Albert Centre Market & Food Centre es un complejo de puestos de comida en dos niveles: abajo, el bullicio de un mercado húmedo; arriba, un extenso food court. 4,1★ (5.936 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'Junto al canal Rochor, en el 270 de Queen St, el Albert Centre Market & Food Centre es un complejo de puestos de comida en dos niveles: abajo, el bullicio de un mercado húmedo; arriba, un extenso food court. Si puedes, ve un día de semana antes del mediodía, ya que los fines de semana el lugar está lleno de forma continua de 11:00 a 19:00. Los jueves permanece cerrado, así que ten esto en cuenta al planear tu visita.'
@@ -34,7 +34,7 @@ Toma la salida C y camina hacia el norte por Queen Street, dejando a tu derecha 
 
 El edificio funciona en dos niveles, y conocer la diferencia te evita dar una vuelta de más.
 
-- **Planta baja**: un mercado húmedo con puestos de productos frescos, pescado, carne y alimentos secos que abren temprano y cierran a primera hora de la tarde.
+- **Planta baja**: un mercado húmedo con puestos de productos frescos y otros artículos.
 - **Segundo piso**: el centro de comida propiamente dicho, con decenas de puestos de comida cocinada alrededor de una sala de mesas compartida.
 
 Si vas a comer, sube directamente al segundo piso. Vale la pena echar un vistazo rápido a la planta baja de camino arriba, sobre todo por los productos frescos y por el espectáculo de los vendedores anunciando precios a viva voz.
@@ -45,7 +45,7 @@ Los puestos del Albert Centre se centran en clásicos de la cocina china y peran
 
 Entre lo que puedes encontrar:
 
-- Fideos con bolitas de pescado y bak chor mee (fideos con carne de cerdo picada)
+- Diversos platos de fideos
 - Char kway teow cocinado a fuego alto en wok
 - Nasi lemak y puestos de arroz económico mixto
 - Zumos de fruta fresca y postres tradicionales como el chendol y el ice kachang

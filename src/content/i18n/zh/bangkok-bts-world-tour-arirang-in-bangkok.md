@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: bangkok-bts-world-tour-arirang-in-bangkok
-srcHash: 'af1d52821762'
+srcHash: 'eda144fc97b0'
 title: 防弹少年团世界巡演“ARIRANG”曼谷站：日期、门票与场馆（曼谷）
 description: 防弹少年团（BTS）世界巡演“ARIRANG”曼谷站定于2026年12月3日、5日和6日连演三场，场地是位于邦卡比（Bang Kapi）区华马（Hua Mak）一带的拉查曼加拉国家体育场（Rajamangala National Stadium）。
 quickAnswer: 防弹少年团（BTS）世界巡演“ARIRANG”曼谷站定于2026年12月3日、5日和6日连演三场，场地是位于邦卡比（Bang Kapi）区华马（Hua Mak）一带的拉查曼加拉国家体育场（Rajamangala National Stadium）。本次演出采用360°舞台，观众席环绕舞台一整圈。日期、场馆和门票信息请以防弹少年团官方巡演渠道为准。散场比进场费时得多，回程路线最好在开演前就安排妥当。
@@ -20,7 +20,7 @@ faq:
 
 ## 华马三夜
 
-防弹少年团（BTS）将携360°体育场世界巡演“ARIRANG”登陆曼谷，连演三晚。已公布的日期为2026年12月3日、5日和6日，三场均在拉查曼加拉国家体育场（Rajamangala National Stadium）举行。
+防弹少年团（BTS）将携360°体育场世界巡演“ARIRANG”登陆曼谷，连演三晚。巡演计划在曼谷上演三晚，三场演出均在拉查曼加拉国家体育场（Rajamangala National Stadium）举行。
 
 巡演名称取自韩国民谣《阿里郎》，这首歌在韩国几乎相当于一首非官方国歌。对于粉丝自称ARMY的这支组合来说，这个名字意味着整场演出将围绕他们的根源展开。开演时间、曲目安排和嘉宾阵容均未在公告中提及，时间和门票信息请以官网为准。
 

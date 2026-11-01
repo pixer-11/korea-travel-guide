@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: christchurch-christchurch-botanic-gardens
-srcHash: 'ffcee912d65f'
+srcHash: '3d9e62fc8905'
 title: 'Jardines Botánicos de Christchurch: guía de viaje (4.7★)'
 description: En pleno centro de Christchurch (Christchurch Central City), sobre Rolleston Avenue, los Jardines Botánicos ocupan un rincón de Hagley Park que el río Avon rodea por tres de sus lados. Con una valoración de 4.7★ (15,030 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
 quickAnswer: En pleno centro de Christchurch (Christchurch Central City), sobre Rolleston Avenue, los Jardines Botánicos ocupan un rincón de Hagley Park que el río Avon rodea por tres de sus lados. No se paga entrada. Para recorrer la rosaleda, la sección de flora autóctona y el invernadero de Cuningham House conviene reservar entre dos y tres horas. Las puertas abren ahora a las 7am, aunque el horario varía según la estación; consulte la web del ayuntamiento para saber a qué hora cierran este mes.
@@ -70,7 +70,7 @@ Para los vecinos, este lugar es casi el patio de su casa, y las normas así lo r
 
 No dé pan a los patos, porque les perjudica a ellos y al río. En los parterres de flora autóctona y en las rosaledas, no se salga de los senderos ni arranque nada. Junto a la mayoría de las plantas hay etiquetas con su nombre científico, y en muchas de las autóctonas figura también el nombre maorí. Merece la pena leerlas.
 
-Los paseos en batea por el Avon salen de los Antigua Boat Sheds, en el extremo sur de los jardines. Un guía vestido a la moda eduardiana impulsa la embarcación con una pértiga bajo los sauces. Como la actividad tiene mucho éxito, reserve con antelación si va un fin de semana soleado. Tanto en la cafetería como en el embarcadero se paga con tarjeta; el pago sin contacto es habitual en toda Nueva Zelanda y no se acostumbra a dejar propina.
+Los paseos en batea por el Avon salen de los Antigua Boat Sheds, en el extremo sur de los jardines. Un guía vestido a la moda eduardiana impulsa la embarcación con una pértiga bajo los sauces. Como la actividad tiene mucho éxito, reserve con antelación si va un fin de semana soleado. Tanto en la cafetería como en el embarcadero se acepta el pago con tarjeta, ya que el pago sin contacto es habitual en toda Nueva Zelanda.
 
 ## Más allá de las puertas
 

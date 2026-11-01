@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: dresden-dresden-striezelmarkt-dresden-christmas-market
-srcHash: 'd73bcc3cbd32'
+srcHash: '8ab197eb177a'
 title: 'Striezelmarkt de Dresde (mercado navideño de Dresde): fechas, entradas y ubicación (Dresde)'
 description: Del 25 de noviembre al 24 de diciembre de 2026, la plaza del Altmarkt, en el casco antiguo de Dresde, acoge la 592.ª edición del Striezelmarkt, el mercado navideño de la ciudad.
 quickAnswer: 'Del 25 de noviembre al 24 de diciembre de 2026, la plaza del Altmarkt, en el casco antiguo de Dresde, acoge la 592.ª edición del Striezelmarkt, el mercado navideño de la ciudad. Sus orígenes se remontan a 1434, lo que lo convierte en el mercado navideño más antiguo de Alemania. No hace falta entrada: se accede libremente a la plaza y solo se paga lo que se compra en los puestos.'
@@ -29,7 +29,7 @@ Durante un mes, hileras de casetas de madera ocupan esta amplia plaza de la Alts
 Tanto a pie como en tranvía, llegar a la plaza resulta sencillo.
 
 - **En tranvía:** la parada Altmarkt está en el mismo borde de la plaza, y las de Pirnaischer Platz y Postplatz quedan a un breve paseo.
-- **Desde la estación central (Dresden Hauptbahnhof):** basta con recorrer hacia el norte la calle peatonal Prager Straße. En unos 15 minutos se llega al lado sur del mercado.
+- **Desde la estación central (Dresden Hauptbahnhof):** basta con recorrer hacia el norte la calle peatonal Prager Straße, que conduce directamente hacia el mercado.
 - **Desde la Neustadt:** hay que cruzar el puente de Augusto (Augustusbrücke), dejar atrás la Frauenkirche y el Neumarkt y seguir después hacia el sur hasta el Altmarkt.
 
 En Adviento, entrar en coche al casco antiguo es lento y los aparcamientos del centro se llenan. Por eso la mayoría de los visitantes opta por el tranvía o se aloja a poca distancia a pie, ya sea en la Altstadt o en los alrededores de Prager Straße.

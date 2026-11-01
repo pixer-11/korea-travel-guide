@@ -10,8 +10,8 @@
    "hits": 109
   },
   "park": {
-   "attempts": 110,
-   "hits": 64
+   "attempts": 112,
+   "hits": 66
   },
   "viewpoint": {
    "attempts": 112,
@@ -38,11 +38,11 @@
    "hits": 3
   },
   "old quarter": {
-   "attempts": 132,
-   "hits": 55
+   "attempts": 146,
+   "hits": 60
   },
   "local market": {
-   "attempts": 107,
+   "attempts": 111,
    "hits": 40
   },
   "bookshop": {
@@ -54,8 +54,8 @@
    "hits": 4
   },
   "hidden gem": {
-   "attempts": 193,
-   "hits": 103
+   "attempts": 194,
+   "hits": 104
   },
   "breakfast": {
    "attempts": 69,
@@ -70,7 +70,7 @@
    "hits": 18
   },
   "bakery": {
-   "attempts": 73,
+   "attempts": 74,
    "hits": 5
   },
   "bar": {
@@ -82,7 +82,7 @@
    "hits": 2
   },
   "concept cafe": {
-   "attempts": 55,
+   "attempts": 56,
    "hits": 0
   },
   "top attraction": {
@@ -1208,7 +1208,19 @@
   "San Telmo Market": {
    "attempts": 1,
    "hits": 1
+  },
+  "Christmas in Rome": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "New Year's Eve": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Christmas market": {
+   "attempts": 1,
+   "hits": 1
   }
  },
- "updated": "2026-10-31T13:53:58.576Z"
+ "updated": "2026-11-01T07:58:52.611Z"
 }

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: berlin-festival-of-lights-berlin
-srcHash: 'b7d17a03a321'
+srcHash: '3619580ae706'
 title: 'Festival of Lights de Berlín: fechas, entradas y ubicación (Berlín)'
 description: El Festival of Lights de Berlín anunció diez noches del 9 al 18 de octubre de 2026, con proyecciones gratuitas al aire libre sobre los grandes monumentos de la ciudad, desde la Puerta de Brandeburgo hasta la catedral de Berlín.
 quickAnswer: 'Las fechas anunciadas del Festival of Lights de Berlín eran del 9 al 18 de octubre de 2026. Su propuesta consistía en proyecciones de luz y vídeo sobre los monumentos más emblemáticos de la ciudad, desde la Puerta de Brandeburgo (Brandenburger Tor) hasta la catedral de Berlín (Berliner Dom). El espectáculo principal no requería entrada: solo las actividades organizadas complementarias se anunciaron como de pago. Según el programa, las proyecciones eran al aire libre y podían contemplarse desde las plazas públicas una vez caída la noche.'
@@ -54,4 +54,4 @@ En acontecimientos de este tipo resultan útiles algunas costumbres:
 - **Alejarse tiene premio.** La mejor vista de la catedral de Berlín se obtiene desde el césped del Lustgarten, no desde la escalinata. En la Puerta, Pariser Platz ofrece la fachada completa.
 - **La U5 enlaza todo el recorrido.** Sus paradas de Brandenburger Tor, Unter den Linden, Museumsinsel, Rotes Rathaus y Alexanderplatz permiten saltarse tramos cuando las piernas ya no responden.
 - **Entre el gentío, mejor un trípode compacto.** El público se apiña frente a las fachadas principales, y la mayoría fotografía a pulso con el modo nocturno del móvil.
-- **La tarjeta se acepta casi en todas partes.** Los puestos de comida de estilo navideño y los bares próximos al recorrido admitían tarjeta de forma generalizada, aunque los quioscos más pequeños a menudo solo aceptaban euros en efectivo.
+- **La tarjeta se acepta casi en todas partes.** Conviene llevar algo de efectivo por si acaso, ya que la aceptación podía variar de un puesto a otro a lo largo del recorrido.

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bremen-bremen-cathedral
-srcHash: 'ff93dbaa6524'
+srcHash: 'd8296f7dea11'
 title: 'Catedral de Bremen: guía de viaje (4.7★)'
 description: La catedral de Bremen (St. Petri Dom) se alza en la Plaza del Mercado (Marktplatz) del casco antiguo, junto al Ayuntamiento y la estatua de Roland, a dos minutos a pie de la parada de tranvía Domsheide. Con 4.7★ (4,121 reseñas), le contamos qué opinan los visitantes, sus horarios y algunos consejos.
 quickAnswer: En pleno casco antiguo de Bremen, la catedral (St. Petri Dom) ocupa un lado de la Plaza del Mercado (Marktplatz), junto al Ayuntamiento y la estatua de Roland. Desde la parada de tranvía Domsheide se llega caminando en dos minutos. Para recorrer la nave, las criptas románicas, el museo catedralicio, las momias del Bleikeller y la torre sur conviene reservar entre 1–2 horas. Actualmente abre de lunes a sábado de 10am–5pm, y los domingos de 11:30am–5pm, una vez terminado el culto matinal.
@@ -37,7 +37,7 @@ El entorno importa tanto como el propio edificio. Si da la espalda a la fachada 
 
 Frente al bullicio de la plaza, el interior resulta alto, luminoso y sereno. Fíjese en la nave de doble crujía, en la zona del púlpito de piedra tallada y en las vidrieras, buena parte de las cuales proceden de la restauración del siglo XIX. La catedral es famosa además por sus órganos; el mayor de ellos es un imponente instrumento romántico construido en la década de 1890 por el taller de Wilhelm Sauer.
 
-No deje de bajar a las criptas. Las de oriente y occidente, con sus achaparradas columnas románicas y sus bóvedas bajas, son las partes más antiguas que se conservan del edificio. Nada le acercará tanto a la iglesia del siglo XI de la que hablan las reseñas.
+No deje de bajar a las criptas. Las de oriente y occidente, con sus achaparradas columnas románicas y sus bóvedas bajas, son las partes más antiguas que se conservan del edificio. Nada le acercará tanto a la iglesia original del siglo XI.
 
 ## El Bleikeller y el museo catedralicio
 

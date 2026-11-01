@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: dallas-boynextdoor-knock-on-vol-2-tour
-srcHash: 'f6301a5041c2'
+srcHash: 'b277f4e4445c'
 title: 'Gira «KNOCK ON Vol.2» de BOYNEXTDOOR en Dallas: fecha, entradas y recinto'
 description: El 22 de octubre de 2026, la gira «KNOCK ON Vol.2» de BOYNEXTDOOR tenía una parada en Dallas (Texas). Era una de las fechas en Estados Unidos de la segunda gira como cabeza de cartel de este grupo de K-pop de seis integrantes.
 quickAnswer: El 22 de octubre de 2026, la gira «KNOCK ON Vol.2» de BOYNEXTDOOR pasaba por Dallas (Texas). Era una de las paradas estadounidenses de la segunda gira como cabeza de cartel de este sexteto de K-pop. Los avisos oficiales sobre fechas, recinto y enlaces de venta de entradas aparecían en los canales de su agencia, KOZ Entertainment, y en su comunidad de Weverse.
@@ -35,7 +35,7 @@ Sus seguidores se hacen llamar ONEDOOR. Es el nombre que aparecía impreso en la
 
 ## Recinto, entradas y dónde se publicaba la información
 
-Esta guía se limita a la fecha y la ciudad. No menciona el recinto porque no figura entre los datos de los que disponemos, y no vamos a aventurar ninguno.
+Esta guía se limita a la fecha y la ciudad. No menciona el recinto, ya que ese dato no está confirmado aquí.
 
 KOZ Entertainment publicaba los avisos de la gira en sus canales oficiales y en la comunidad de BOYNEXTDOOR en Weverse. En ellos figuraban el recinto, la hora de apertura de puertas, los enlaces de venta y las condiciones de preventa para miembros. En las giras de HYBE, el acceso a la preventa suele depender de la membresía de Weverse, por lo que quienes querían optar al primer turno de venta solían tenerla.
 

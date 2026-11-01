@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: daegu-day6-the-decade-concert-daegu
-srcHash: 'f56b07bb1f6b'
+srcHash: '9a4f8ca51113'
 title: 'Concierto «The DECADE» de DAY6 en Daegu: fechas, entradas y recinto'
 description: Daegu es una de las paradas de la gira de 2026 de la banda de K-pop DAY6 con «The DECADE». La organización da a conocer las entradas, la fecha exacta y el recinto en su página oficial de venta.
 quickAnswer: Daegu es una de las paradas de la gira de 2026 de la banda de K-pop DAY6 con «The DECADE». La organización da a conocer las entradas, la fecha exacta y el recinto en su página oficial de venta. Casi todos los fans que vienen de fuera llegan desde Seúl en KTX a la estación de Dongdaegu y se mueven por la ciudad en el metro de Daegu. Si se suman la calle Kim Gwang-seok y los callejones de makchang, el viaje da para un día entero.
@@ -47,7 +47,7 @@ Las entradas para espectáculos de K-pop en Corea normalmente van a nombre del c
 
 ## Cómo llegar a Daegu y moverse por la ciudad
 
-La puerta de entrada es la estación de Dongdaegu. Los trenes KTX y SRT procedentes de Seúl llegan en menos de dos horas, y el Aeropuerto Internacional de Daegu queda a un breve trayecto en taxi de la estación.
+La puerta de entrada es la estación de Dongdaegu. Los trenes KTX y SRT la conectan con Seúl, y el Aeropuerto Internacional de Daegu queda a un breve trayecto en taxi de la estación.
 
 A partir de Dongdaegu, el metro de Daegu toma el relevo. Cuenta con tres líneas:
 
@@ -77,7 +77,7 @@ Daegu tiene su propio santuario dedicado a un cantautor. Kim Gwang-seok-gil es u
 
 El callejón discurre junto a un muro de contención de hormigón cubierto de retratos suyos, letras de canciones y guitarras. En un banco hay una estatua de bronce del cantante con su guitarra, y los visitantes se sientan a su lado para hacerse fotos. A lo largo del paseo, unos pequeños altavoces reproducen sus canciones.
 
-Para un público que sigue a una banda cimentada en las letras y la guitarra en directo, encaja a la perfección con la jornada. El paseo dura unos 30 minutos. La parada habitual es la estación Hospital de la Universidad Nacional de Kyungpook (Kyungpook National University Hospital), en la Línea 3.
+Para un público que sigue a una banda cimentada en las letras y la guitarra en directo, encaja a la perfección con la jornada. La parada habitual es la estación Hospital de la Universidad Nacional de Kyungpook (Kyungpook National University Hospital), en la Línea 3.
 
 ## Después del bis: makchang y jjimgalbi
 

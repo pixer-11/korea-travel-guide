@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: banff-cascade-of-time-garden
-srcHash: 'b7a40d273214'
+srcHash: '4ae62c28a75e'
 title: 'Cascade of Time Garden: guía de viaje de Banff (4.7★)'
 description: En el extremo sur de Banff Avenue, nada más cruzar el puente del río Bow (Bow River Bridge), el Cascade of Time Garden rodea el edificio de piedra de la Administración del Parque, a unos 10 minutos a pie del centro de Banff. Con una valoración de 4.7★ (3,981 reseñas), aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
 quickAnswer: En el extremo sur de Banff Avenue, nada más cruzar el puente del río Bow (Bow River Bridge), el Cascade of Time Garden se extiende detrás del edificio de piedra de la Administración del Parque, a unos 10 minutos a pie del centro de Banff. Su horario actual es de 8am–11pm. Como puede variar según la temporada, conviene comprobarlo antes de acudir a última hora. Reserve entre 30 y 60 minutos para la visita, a ser posible en verano, cuando las terrazas están en flor.
@@ -51,7 +51,7 @@ Los parterres están muy cuidados y las pendientes son pronunciadas. No se salga
 
 Algunos consejos sobre el mejor momento, según el ritmo de la localidad:
 
-- **A primera hora:** por ahora el jardín abre a las 8am, antes de que llegue la mayoría de los excursionistas de Calgary. Es el momento ideal para fotografiar las terrazas sin gente.
+- **A primera hora:** llegar temprano, antes de que lo haga la mayoría de los excursionistas de Calgary, es la mejor forma de fotografiar las terrazas sin gente. Consulte el horario de apertura vigente en el sitio de Parks Canada.
 - **Al atardecer:** gracias al cierre tardío actual, resulta un paseo cómodo para después de cenar en los restaurantes de Banff Avenue. El horario puede cambiar a lo largo del año, así que consulte en el sitio de Parks Canada el de este mes.
 - **Bancos:** son de todos. Siéntese un rato y luego ceda el sitio a los siguientes.
 

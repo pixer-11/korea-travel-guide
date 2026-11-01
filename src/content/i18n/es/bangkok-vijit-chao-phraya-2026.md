@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bangkok-vijit-chao-phraya-2026
-srcHash: 'ae768026bfca'
+srcHash: 'ff8d9e79e082'
 title: 'VIJIT CHAO PHRAYA 2026: fechas, entradas y ubicación (Bangkok)'
 description: Del 13 de noviembre al 13 de diciembre de 2026, el festival de luz y sonido VIJIT CHAO PHRAYA ilumina los monumentos que bordean el río Chao Phraya, en Bangkok.
 quickAnswer: Del 13 de noviembre al 13 de diciembre de 2026, el festival de luz y sonido VIJIT CHAO PHRAYA llena de iluminaciones los monumentos que se alzan a orillas del río Chao Phraya, en Bangkok. El espectáculo comienza al caer la noche. Puede contemplarse desde parques ribereños, muelles y embarcaciones en el tramo comprendido entre el puente Rama VIII y la zona de Sathorn. Las fechas, el mapa de los puntos iluminados y las posibles travesías en barco de pago se publican en los canales oficiales del festival.
@@ -55,7 +55,7 @@ La opción más sencilla para subir y bajar libremente es el Chao Phraya Tourist
 
 ## Desde la orilla, como un vecino de Bangkok
 
-La mayoría de quienes siguen el espectáculo desde tierra no pagan por un asiento. En ediciones pasadas, las orillas públicas estaban abiertas a todo el mundo y las familias se repartían por los paseos ribereños. Así suele transcurrir la velada:
+La mayoría de quienes siguen el espectáculo desde tierra no pagan por un asiento. En ediciones pasadas, las orillas públicas estaban abiertas a todo el mundo y las familias se repartían por los paseos ribereños. Entre los buenos miradores figuran estos:
 
 - **El parque Santichaiprakan**, junto al blanco fuerte Phra Sumen, en Banglamphu, queda justo enfrente del puente Rama VIII. Los vecinos se sientan en el césped y en el murete del río.
 - **Los bares y las azoteas de la ribera de Tha Tien** miran de frente a Wat Arun. Las noches de festival se llenan enseguida, y los habituales reservan mesa con varios días de antelación.

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: barra-mandarin-s-house
-srcHash: '6e72ff581591'
+srcHash: '2d634944d1d6'
 title: 'Casa del Mandarín: guía de viaje por Barra (4.4★)'
 description: La Casa del Mandarín se encuentra en la Travessa de António da Silva, en el barrio de Barra (Macao), a pocos pasos de la plaza de Lilau. Con 4.4★ y 1,105 reseñas, aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
 quickAnswer: En la Travessa de António da Silva, dentro del barrio de Barra (Macao) y a pocos pasos de la plaza de Lilau, se alza la Casa del Mandarín (Mandarin's House). Este amplio conjunto residencial familiar de estilo cantonés, hoy restaurado, forma parte del Centro Histórico de Macao, declarado Patrimonio de la Humanidad por la UNESCO, y ofrece visitas guiadas. Abre todos los días de 10am a 6pm, salvo los miércoles, en que permanece cerrado. Conviene reservar entre una y dos horas para recorrerlo.
@@ -28,7 +28,7 @@ La mayoría de los visitantes solo se acerca a Barra, en la península, para ver
 
 ## El reformista que escribió entre estos muros
 
-La casa perteneció a la familia de Zheng Guanying, comerciante, comprador y pensador político de finales de la dinastía Qing. Las obras comenzaron hacia 1869 y la familia fue ampliándola durante las décadas siguientes. En la ciudad se la conoce por el apellido familiar: Zheng Jia Da Wu en mandarín y Casa do Mandarim en portugués.
+La casa perteneció a la familia de Zheng Guanying, comerciante, comprador y pensador político de finales de la dinastía Qing. La casa se construyó a finales de la dinastía Qing y la familia fue ampliándola durante las décadas siguientes. En la ciudad se la conoce por el apellido familiar: Zheng Jia Da Wu en mandarín y Casa do Mandarim en portugués.
 
 Zheng pasó a la historia por *Shengshi Weiyan*, título que suele traducirse como *Advertencias a una época próspera*. En esta obra defendía que China debía modernizar su comercio, su educación y su gobierno. A menudo se le atribuye una gran influencia en el pensamiento de figuras posteriores, entre ellas Sun Yat-sen, y buena parte del libro se escribió en Macao.
 

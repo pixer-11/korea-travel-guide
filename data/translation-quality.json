@@ -49,18 +49,18 @@
   "at": "2026-08-15T11:58:46.504Z"
  },
  "es/abu-dhabi-khalifa-park": {
-  "hash": "ba0500a88948",
+  "hash": "ebe8c8571b49",
   "score": 1,
   "registerBreak": false,
-  "worst": "El efectivo en billetes pequeños ayuda: los vendedores informales y los encargados...",
-  "at": "2026-10-18T07:49:17.823Z"
+  "worst": "No te apresures en el museo: es lo bastante pequeño como para que los grupos lo",
+  "at": "2026-11-01T08:02:00.487Z"
  },
  "es/abu-dhabi-louvre-abu-dhabi": {
-  "hash": "6edb3ca86f2a",
+  "hash": "3788761c8619",
   "score": 1,
   "registerBreak": false,
-  "worst": "ofreciendo una perspectiva de la arquitectura totalmente distinta a la que se aprecia desde dentro.",
-  "at": "2026-10-18T07:49:19.867Z"
+  "worst": "El Louvre Abu Dabi es una de las atracciones más visitadas de los Emiratos Árabes Unidos",
+  "at": "2026-11-01T08:02:02.739Z"
  },
  "es/abu-dhabi-qasr-al-hosn": {
   "hash": "bffea87230d4",
@@ -7546,18 +7546,18 @@
   "at": "2026-08-15T06:22:23.597Z"
  },
  "ja/abu-dhabi-khalifa-park": {
-  "hash": "3b746237d951",
+  "hash": "fd7733f87a67",
   "score": 1,
   "registerBreak": false,
   "worst": "ベンチがひとつあるだけの芝生とは違い、水景施設やヤシ並木の遊歩道、そして日中の散策も苦にならないほど充実した日陰スペースを備えた、しっかりデザインされたランドスケープです。",
-  "at": "2026-10-18T07:49:21.471Z"
+  "at": "2026-11-01T08:02:04.137Z"
  },
  "ja/abu-dhabi-louvre-abu-dhabi": {
-  "hash": "2d03298ee5da",
+  "hash": "a944149ebb23",
   "score": 1,
   "registerBreak": false,
   "worst": "人類の創造性はそれぞれの国の物語ではなく、ひとつの連続した物語である――そう主張するために作られた美術館なのです。",
-  "at": "2026-10-18T07:49:24.152Z"
+  "at": "2026-11-01T08:02:06.643Z"
  },
  "ja/abu-dhabi-qasr-al-hosn": {
   "hash": "61b5275acf0e",
@@ -12361,13 +12361,6 @@
   "worst": "この地域は10年前まではダイニングエリアとしてはほとんど存在感がありませんでしたが、その後高層ビルや商業施設が次々と建ち並び",
   "at": "2026-08-15T03:02:22.671Z"
  },
- "ja/new-york-city-harry-styles-residency-madison-square-garden": {
-  "hash": "bc32eada2243",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "このように先の日程は変更される可能性があり、チケットの価格帯も変わることがあるため、ここに記載した情報はあくまで計画の参考として",
-  "at": "2026-08-15T03:02:23.714Z"
- },
  "ja/new-york-conservatory-garden": {
   "hash": "4ffc517ecdf3",
   "score": 1,
@@ -14707,18 +14700,18 @@
   "at": "2026-09-14T08:02:33.641Z"
  },
  "ko/abu-dhabi-khalifa-park": {
-  "hash": "0816449df26c",
+  "hash": "d31a62b1b8db",
   "score": 1,
   "registerBreak": false,
-  "worst": "사람들에게 사랑받으며 활발히 이용되는 공공 공간이라 생각하시는 편이 좋습니다.",
-  "at": "2026-10-18T07:49:32.084Z"
+  "worst": "존 1(Zone 1) 알 문타자에 위치한 셰이크 자이드 빈 술탄 거리에 있으며",
+  "at": "2026-11-01T08:02:09.608Z"
  },
  "ko/abu-dhabi-louvre-abu-dhabi": {
-  "hash": "e423f7663836",
+  "hash": "3eccf3425a14",
   "score": 1,
   "registerBreak": false,
   "worst": "인간의 창조성이란 각 나라별로 나뉜 이야기가 아니라 하나로 이어진 이야기라는 것을, 이 미술관은 온몸으로 증명해 보입니다.",
-  "at": "2026-10-18T07:49:41.110Z"
+  "at": "2026-11-01T08:02:16.973Z"
  },
  "ko/abu-dhabi-qasr-al-hosn": {
   "hash": "c3af7ef86546",
@@ -19697,13 +19690,6 @@
   "worst": "이 지역은 불과 10년 전만 해도 식도락 명소로 존재하지 않았던 곳이지만, 이후 고층 건물과 상업 시설, 그리고 USHG 특유의 환대 문화로 채워지며 지금의 모습을 갖추게 되었습니다.",
   "at": "2026-08-15T02:29:22.592Z"
  },
- "ko/new-york-city-harry-styles-residency-madison-square-garden": {
-  "hash": "ee1bf0ff8fea",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "MSG의 유명하리만치 아늑한 원형 관중석이 경기장이 아니라 거대한 규모의 아레나형 거실처럼 느껴질 것으로 예상됩니다.",
-  "at": "2026-08-15T02:29:27.526Z"
- },
  "ko/new-york-conservatory-garden": {
   "hash": "e49174b0606e",
   "score": 1,
@@ -22015,18 +22001,18 @@
   "at": "2026-08-15T06:44:26.856Z"
  },
  "zh/abu-dhabi-khalifa-park": {
-  "hash": "5507263f692b",
+  "hash": "caa45c1c7a03",
   "score": 1,
   "registerBreak": false,
   "worst": "这座公园更适合慢慢体会——在喷泉旁找张长椅坐下，让孩子们坐一圈小火车，把博物馆当作锦上添花，而非行程的重点。",
-  "at": "2026-10-18T07:49:42.417Z"
+  "at": "2026-11-01T08:02:18.207Z"
  },
  "zh/abu-dhabi-louvre-abu-dhabi": {
-  "hash": "bfad0d0e3c49",
+  "hash": "606050d62a3e",
   "score": 1,
   "registerBreak": false,
-  "worst": "这一点确实名副其实。",
-  "at": "2026-10-18T07:49:44.674Z"
+  "worst": "馆外，博物馆真正被水环绕——海湾的水一直拍打到建筑外墙边，这里还提供绕馆皮划艇游览项目，是馆内视角无法比拟的体验。",
+  "at": "2026-11-01T08:02:26.724Z"
  },
  "zh/abu-dhabi-qasr-al-hosn": {
   "hash": "07c878ef8f87",
@@ -26591,13 +26577,6 @@
   "registerBreak": false,
   "worst": "这家餐厅走的是意大利地方经典菜的现代演绎路线，而非传统红酱意面那一套，头一次来访值得点的招牌菜正是烟肉黑椒宽通心粉",
   "at": "2026-08-15T09:22:15.286Z"
- },
- "zh/new-york-city-harry-styles-residency-madison-square-garden": {
-  "hash": "b7fe67a76ec6",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "如果你住在城市其他地方,演出当晚请预留额外时间——开场前一小时,第七大道及周边街区会人潮密集",
-  "at": "2026-08-15T04:07:13.216Z"
  },
  "zh/new-york-conservatory-garden": {
   "hash": "a8f75085dce0",
@@ -32550,11 +32529,11 @@
   "at": "2026-10-26T08:17:54.053Z"
  },
  "ko/abu-dhabi-lewis-capaldi-and-zara-larsson-abu-dhabi-gp-after-race-concert": {
-  "hash": "7f57341db542",
+  "hash": "8810d54364c6",
   "score": 1,
   "registerBreak": false,
-  "worst": "아부다비 겨울의 온화한 공기 속에서, 그것도 야외에서 하룻저녁에 두 무대를 모두 즐길 수 있습니다.",
-  "at": "2026-10-18T07:49:39.901Z"
+  "worst": "두 사람을 한 무대에 세운 것은 일부러 대비를 노린 조합입니다.",
+  "at": "2026-11-01T08:03:23.762Z"
  },
  "ko/berlin-taemin-berlin-2026": {
   "hash": "f0b16c15cc31",
@@ -34439,13 +34418,6 @@
   "worst": "관람은 무료이고, 대회의 분위기를 만드는 것도 관중입니다.",
   "at": "2026-10-12T09:17:43.375Z"
  },
- "ko/hong-kong-the-weeknd-after-hours-til-dawn-tour": {
-  "hash": "c44ba50b53be",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "개폐식 지붕을 갖춘 원형 경기장 구조로 이 정도 규모의 콘서트라면 수만 명을 수용할 수 있으며",
-  "at": "2026-10-12T09:17:46.292Z"
- },
  "ko/hong-kong-terrace-boulud": {
   "hash": "e51d0a4904b9",
   "score": 1,
@@ -35987,11 +35959,11 @@
   "at": "2026-10-16T08:18:14.346Z"
  },
  "es/abu-dhabi-lewis-capaldi-and-zara-larsson-abu-dhabi-gp-after-race-concert": {
-  "hash": "203e62c5adc5",
+  "hash": "c9fa3129770c",
   "score": 1,
   "registerBreak": false,
-  "worst": "Por eso muchos vi",
-  "at": "2026-10-18T07:49:18.716Z"
+  "worst": "No disponemos de información verificada sobre el repertorio ni sobre el orden de actuación",
+  "at": "2026-11-01T08:02:01.589Z"
  },
  "es/bangkok-babymonster-world-tour-choom": {
   "hash": "0c85e3d182b9",
@@ -36008,11 +35980,11 @@
   "at": "2026-10-16T08:18:21.608Z"
  },
  "ja/abu-dhabi-lewis-capaldi-and-zara-larsson-abu-dhabi-gp-after-race-concert": {
-  "hash": "e5628cfa3806",
+  "hash": "4a7ee66fe428",
   "score": 1,
   "registerBreak": false,
-  "worst": "片方は、ピアノを軸にした失恋ソングでキャリアを築き、観客全員が一語一句を大合唱するアーティスト。",
-  "at": "2026-10-18T07:49:22.761Z"
+  "worst": "周辺の道路からは、サーキットの照明や、コースをまたぐように建つホテル「W アブダビ・ヤス・アイランド」を眺められます。",
+  "at": "2026-11-01T08:02:05.358Z"
  },
  "ja/bangkok-babymonster-world-tour-choom": {
   "hash": "349e5ea654f5",
@@ -36029,11 +36001,11 @@
   "at": "2026-10-16T08:18:52.958Z"
  },
  "zh/abu-dhabi-lewis-capaldi-and-zara-larsson-abu-dhabi-gp-after-race-concert": {
-  "hash": "15fc4686229a",
+  "hash": "20d7c7c13407",
   "score": 1,
   "registerBreak": false,
   "worst": "由于我们未能核实两人的歌单与出场顺序，本文不作介绍。",
-  "at": "2026-10-18T07:49:43.708Z"
+  "at": "2026-11-01T08:02:19.568Z"
  },
  "zh/bangkok-babymonster-world-tour-choom": {
   "hash": "479bcd7b09af",

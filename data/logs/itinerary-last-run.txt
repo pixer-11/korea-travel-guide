@@ -56,8 +56,9 @@ Lyon, France — 15 qualifying post(s), variants: 3
 New Orleans, United States — 17 qualifying post(s), variants: 3
   = New Orleans 3d — unchanged, skipping
 
-New York, United States — 16 qualifying post(s), variants: 3
-  = New York 3d — unchanged, skipping
+New York, United States — 17 qualifying post(s), variants: 3
+  ~ New York 3d — minor structure change (2 slug diff), keeping existing prose
+  ✅ New York 3d — updated
 
 Paris, France — 13 qualifying post(s), variants: 3
   = Paris 3d — unchanged, skipping
@@ -69,7 +70,7 @@ Singapore, Singapore — 79 qualifying post(s), variants: 3, 5
   = Singapore 3d — unchanged, skipping
   = Singapore 5d — unchanged, skipping
 
-Done. Nothing changed.
+Done.
 
 🗺️  Un-park: 0 republished · 0 still held
 UNPARK_SUMMARY freed=0 held=0

@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: auckland-babymonster-choom-world-tour
-srcHash: '106d342e641f'
+srcHash: 'c63c04566e8c'
 title: BABYMONSTER CHOOM世界巡演奥克兰站：日期、门票与场馆
 description: 2026年12月8日（周二），K-pop女团BABYMONSTER将把CHOOM世界巡演带到奥克兰Spark Arena，这是本轮全球巡演的新西兰站。
 quickAnswer: 2026年12月8日（周二），K-pop女团BABYMONSTER的CHOOM世界巡演将登陆奥克兰Spark Arena，这是本轮全球巡演的新西兰站。场馆位于市中心东缘的Mahuhu Crescent，从布里托马特站（Britomart）步行约十分钟即到，因此大多数歌迷都会选择乘火车、公交或渡轮前往，而不是自驾。
@@ -26,7 +26,7 @@ faq:
 
 ## 台上是谁
 
-BABYMONSTER是YG娱乐（YG Entertainment）旗下的七人女团，这家经纪公司还打造了BLACKPINK和BIGBANG。成员包括Ruka、Pharita、Asa、Ahyeon、Rami、Rora和Chiquita，分别来自韩国、日本和泰国，所以歌曲间隙的舞台聊天多半会夹杂好几种语言。
+BABYMONSTER是YG娱乐（YG Entertainment）旗下的七人女团，这家经纪公司还打造了BLACKPINK和BIGBANG。成员包括Ruka、Pharita、Asa、Ahyeon、Rami、Rora和Chiquita，分别来自韩国、日本和泰国，可见这支女团阵容的国际化。
 
 2024年，一曲“Sheesh”让她们一炮而红；同年晚些时候，首张正规专辑*Drip*问世。本次巡演的歌单和曲目顺序目前尚无消息，本文也就不作猜测。
 

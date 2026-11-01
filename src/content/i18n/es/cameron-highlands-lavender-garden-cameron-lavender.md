@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: cameron-highlands-lavender-garden-cameron-lavender
-srcHash: '2524c94ee1e3'
+srcHash: 'ad6b918558ca'
 title: 'Lavender Garden (Cameron Lavender): Guía de viaje de las Cameron Highlands'
 description: 'Cameron Lavender (también llamado Lavender Garden), en Brinchang, es un jardín compacto en ladera con hileras de lavanda, túneles florales y rincones fotogénicos, abierto todos los días de 9:00 a 18:00. 4.1★ (12,044 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'Cameron Lavender (también llamado Lavender Garden), en Brinchang, es un jardín compacto en ladera con hileras de lavanda, túneles florales y rincones fotogénicos, abierto todos los días de 9:00 a 18:00. La afluencia de público es real: los fines de semana se llena de gente entre las 10:00 y las 17:00, así que conviene ir un día laborable o aprovechar la última hora antes del cierre (17:00–18:00) los fines de semana. Calcule entre 1 y 1.5 horas, incluyendo la cafetería y la tienda de regalos.'
@@ -60,7 +60,7 @@ Dado lo popular que es esta parada, la verdadera habilidad está en elegir bien 
 - **Evite por completo el mediodía de los fines de semana.** Entre las 10:00 y las 17:00 de sábados y domingos es cuando los grupos turísticos alcanzan su punto máximo.
 - **Pague con tarjeta o billetera electrónica** siempre que pueda: la mayoría de las atracciones y cafeterías de las Cameron Highlands ya aceptan ambas opciones, aunque conviene llevar algo de efectivo pequeño para la tienda de regalos.
 - **Evite las poses fotográficas repetidas.** Todo el mundo se coloca frente al mismo arco; caminar hasta las terrazas superiores suele dejarle algo más de espacio.
-- **Combínelo de forma eficiente.** Como se encuentra cerca de las plantaciones de té y los fresales, conviene incluirlo en un recorrido de medio día en lugar de hacerlo como visita independiente: la mayoría de los visitantes pasa aquí entre 60 y 90 minutos, no una tarde completa.
+- **Combínelo de forma eficiente.** Como se encuentra cerca de las plantaciones de té y los fresales, conviene incluirlo en un recorrido de medio día en lugar de hacerlo como visita independiente, no una tarde completa.
 - **Vístase pensando en la altitud.** Las Cameron Highlands son notablemente más frescas que las tierras bajas de Malasia; una chaqueta ligera es de gran ayuda, sobre todo en las horas de niebla matutina.
 
 El error más habitual entre quienes visitan el lugar por primera vez es llegar a media mañana en fin de semana esperando un paseo tranquilo: conviene comprobar el día de la semana antes de decidir a qué hora ir.
