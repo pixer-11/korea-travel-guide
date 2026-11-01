@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 50
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/1411029440_T8-zal61MuVkUc7UfuiHlL7-SAXXErDDR9mn3fUzDJo.jpg"
+    credit: "Photo: Foursquare user content (Kaikoura Lookout)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4d09642b0ead8cfa8c57f576"
 place:
   id: "ChIJddd3v4lWN20RdXiqSyVNeXM"
   name: "Kaikoura Lookout"
@@ -68,6 +72,7 @@ faq:
     a: "The Kaikōura Peninsula Walkway, the fur seals at Point Kean and Fyffe House are all a short drive away along the peninsula."
 aiGenerated: true
 draft: false
+galleryAddedOn: '2026-11-01'
 ---
 
 ## The whole coast from one ridge

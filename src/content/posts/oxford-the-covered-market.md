@@ -20,7 +20,11 @@ heroImage:
   focus:
     x: 50
     'y': 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/171482926_i_QvS4JVZ6fnq7fnG85N1l7QGcAwR2_ezlTl5yS80jw.jpg"
+    credit: "Photo: Foursquare user content (The Covered Market)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4be53fc0cf200f4751ff123c"
 place:
   id: ChIJkc1WnrnGdkgRf5er3fFzhX0
   name: The Covered Market
@@ -101,6 +105,7 @@ faq:
 aiGenerated: true
 draft: false
 updatedDate: '2026-10-31'
+galleryAddedOn: '2026-11-01'
 ---
 
 ## A market older than most of the colleges' lawns

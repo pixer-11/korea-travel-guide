@@ -7,6 +7,11 @@ country: Indonesia
 region: Lombok
 category: hidden-gem
 pubDate: '2026-07-23T07:20:43.655Z'
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/12732623_mx0L7xCJHbQquCdde81tL0cgKOh9h5wJvSwIOjEUMoo.jpg"
+    credit: "Photo: Foursquare user content (Bukit Meresek)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/55e03552498e7d18077f6f8b"
 heroImage:
   url: >-
     https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Merese.jpg/1920px-Merese.jpg
@@ -77,6 +82,7 @@ faq:
 aiGenerated: true
 draft: false
 updatedDate: '2026-09-08'
+galleryAddedOn: '2026-11-01'
 ---
 
 ## Why go

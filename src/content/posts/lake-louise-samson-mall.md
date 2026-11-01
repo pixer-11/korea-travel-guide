@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 60
     y: 55
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/337713_Iak_eO0DVjz8gcOuX8P8b4lZRo1wxVpO74qALjrm7tg.jpg"
+    credit: "Photo: Foursquare user content (Samson Mall)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4e52f1fd483b944199d8ba96"
 place:
   id: "ChIJq6qqTTFdd1MRS31ruO9ACyo"
   name: "Samson Mall"
@@ -42,6 +46,7 @@ faq:
     a: "Yes. It's the last proper shopping stop before Highway 93 North, where services and mobile signal are sparse. Buy food, water, a paper map and warm layers here."
 aiGenerated: true
 draft: false
+galleryAddedOn: '2026-11-01'
 ---
 
 Lake Louise village is barely a village. A gas station, a few lodges, a campground across the Bow River, and one low cluster of shops off Lake Louise Drive. That cluster is Samson Mall. Nearly everything you forgot to pack in Calgary or Banff can be found inside it.

@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 35
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/52972938_x9YCAKjzLZt0LOrLeOuYzb4hidc1dA83tcT0TG7r8KM.jpg"
+    credit: "Photo: Foursquare user content (Catedral de Mar del Plata - Basílica de San Pedro y Santa Cecilia)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4dc559da1f6ef43b8a129e14"
 place:
   id: "ChIJ69NCbmbdhJURnF7-Hkz4SDM"
   name: "Catedral Mar del Plata"
@@ -43,6 +47,7 @@ faq:
     a: "The Palacio Municipal on the same plaza, the Peatonal San Martín, the Casino and Rambla with the sea lion statues, and Playa Bristol are all walkable within a few minutes."
 aiGenerated: true
 draft: false
+galleryAddedOn: '2026-11-01'
 ---
 
 Mar del Plata's centre is mostly apartment blocks and shopfronts. Then a pointed stone tower rises over the treetops of Plaza San Martín, and the city suddenly looks a century older. That tower belongs to the Catedral de los Santos Pedro y Cecilia, the seat of the local diocese and a national historic monument.

@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/46356676_Hpc5oDUd_9IYCNNiqCTVl52FAe42p5QOaEi4Gv7qNcg.jpg"
+    credit: "Photo: Foursquare user content (Old Stone Chimney)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/57fe9428cd10509162b9fcad"
 place:
   id: "ChIJ-WdrpvFC04kRGRMNXD9OprA"
   name: "Old Stone Chimney"
@@ -49,6 +53,7 @@ faq:
     a: "Niagara Falls State Park, with Prospect Point and Goat Island, is a short drive away. Old Fort Niagara in Youngstown is roughly half an hour north along the river."
 aiGenerated: true
 draft: false
+galleryAddedOn: '2026-11-01'
 ---
 
 ## A chimney with no house around it

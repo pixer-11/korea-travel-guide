@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 60
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/489182483_eCaeWqiV6QKPpuYq-GvjIhvUR_vwB2m7kGIyVTKw1Eo.jpg"
+    credit: "Photo: Foursquare user content (Marktplatz)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4dd93889fa76ad96d14ff202"
 place:
   id: "ChIJ__8_6hnKuEcRYPycu6DdM2s"
   name: "Marktplatz"
@@ -51,6 +55,7 @@ faq:
     a: "Burgplatz with the Schlossturm, the Rheinuferpromenade, St. Lambertus church with its twisted spire, and Bolkerstraße, home to Heinrich Heine's birthplace and several Altbier taverns."
 aiGenerated: true
 draft: false
+galleryAddedOn: '2026-11-01'
 ---
 
 A horse and rider in dark bronze stand at the centre of the cobbles. Behind them rises a town hall with stepped gables and a slim tower. That pairing of Jan Wellem and the Rathaus is the Marktplatz, and it has been Düsseldorf's civic front room for more than four centuries.

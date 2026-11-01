@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 50
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/14044764_e3DW-vPbNEAw0yz68EGGrzb5Ntoe9CxrOtf-PHJ2ucE.jpg"
+    credit: "Photo: Foursquare user content (Karlsplatz)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4bdbff61c79cc92879f984e9"
 place:
   id: "ChIJ____oErbmUcRFV7h_2DorS0"
   name: "Karlsplatz"
@@ -42,6 +46,7 @@ faq:
     a: "The Altes Schloss and Landesmuseum Württemberg, Markthalle Stuttgart, the Hotel Silber memorial, Schillerplatz with the Stiftskirche, and Schlossplatz with the Neues Schloss."
 aiGenerated: true
 draft: false
+galleryAddedOn: '2026-11-01'
 ---
 
 ## A square behind the castle
