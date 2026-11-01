@@ -4019,9 +4019,9 @@
  },
  "belek-ironman-70-3-turkey\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Ironman_70.3_Budapest%2C_2014.08.23_Helyes_f%C3%A1jln%C3%A9v.jpg/3840px-Ironman_70.3_Budapest%2C_2014.08.23_Helyes_f%C3%A1jln%C3%A9v.jpg": {
   "slug": "belek-ironman-70-3-turkey",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Running race event, spectators, outdoor venue",
-  "at": "2026-10-31T22:49:58.124Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"ironman\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-01T08:22:04.993Z"
  },
  "belek-ironman-70-3-turkey\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/2016-08-14_Ironman_70.3_Germany_2016_by_Olaf_Kosinsky-90.jpg/3840px-2016-08-14_Ironman_70.3_Germany_2016_by_Olaf_Kosinsky-90.jpg": {
   "slug": "belek-ironman-70-3-turkey",
@@ -5756,9 +5756,9 @@
  },
  "calgary-113th-grey-cup\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Green_Day_playing_the_half-time_show_at_the_110th_Grey_Cup_in_Hamilton.jpg/3840px-Green_Day_playing_the_half-time_show_at_the_110th_Grey_Cup_in_Hamilton.jpg": {
   "slug": "calgary-113th-grey-cup",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Grey Cup event, stadium concert stage setup",
-  "at": "2026-10-31T22:52:17.908Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"grey\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-01T08:22:05.189Z"
  },
  "calgary-113th-grey-cup\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/111th_Grey_Cup%2C_Toronto_Argonauts_celebration_%281%29.jpg/3840px-111th_Grey_Cup%2C_Toronto_Argonauts_celebration_%281%29.jpg": {
   "slug": "calgary-113th-grey-cup",
@@ -10606,9 +10606,9 @@
  },
  "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/e/e0/TOTAL_BWF_World_Champs_2015_Day_2_Takeshi_Kamura.jpg": {
   "slug": "hangzhou-bwf-world-tour-finals",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Badminton player at competition in red uniform",
-  "at": "2026-10-31T22:56:17.411Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares no word with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-01T08:22:05.383Z"
  },
  "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/f/f6/2018_BWF_World_Championships.jpg": {
   "slug": "hangzhou-bwf-world-tour-finals",
@@ -17453,9 +17453,9 @@
  },
  "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/b/be/Jannik_Sinner_after_winning_NextGen_ATP_Finals_in_Milan%2C_2019.jpg": {
   "slug": "london-atp-finals",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Tennis match ceremony at professional event venue",
-  "at": "2026-10-31T23:00:05.724Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"finals\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-01T08:22:05.579Z"
  },
  "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/f/ff/Rafa_Nadal_exits_O2_Arena_after_defeat_to_defending_champion_Alexander_Zverev_at_Nitto_ATP_Finals_2019_%2849052005756%29.jpg": {
   "slug": "london-atp-finals",
@@ -22116,9 +22116,9 @@
  },
  "new-york-nba-christmas-day-games\u0001https://upload.wikimedia.org/wikipedia/commons/e/eb/Partido_NBA_-i---i-_%2832248354146%29.jpg": {
   "slug": "new-york-nba-christmas-day-games",
-  "verdict": "MATCH",
-  "reason": "patrol replace: NBA game at arena, Christmas Day context fits",
-  "at": "2026-10-31T23:00:35.322Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares no word with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-01T08:22:05.781Z"
  },
  "new-york-nba-christmas-day-games\u0001https://upload.wikimedia.org/wikipedia/commons/e/ef/Partido_NBA_-i---i-_%2831445366164%29.jpg": {
   "slug": "new-york-nba-christmas-day-games",
@@ -32323,9 +32323,9 @@
  },
  "tbilisi-tbilisi-christmas-market-new-year-village\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Orbeliani_Palace_on_Christmas.jpg/3840px-Orbeliani_Palace_on_Christmas.jpg": {
   "slug": "tbilisi-tbilisi-christmas-market-new-year-village",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Tbilisi government building festively decorated for holidays",
-  "at": "2026-10-31T23:05:41.667Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"christmas\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-01T08:22:05.973Z"
  },
  "tbilisi-tbilisi-christmas-market-new-year-village\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Christmas_Lights_in_Orbeliani_Palace_Yard.jpg/3840px-Christmas_Lights_in_Orbeliani_Palace_Yard.jpg": {
   "slug": "tbilisi-tbilisi-christmas-market-new-year-village",

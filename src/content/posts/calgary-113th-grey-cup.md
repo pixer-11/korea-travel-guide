@@ -30,14 +30,6 @@ faq:
     a: Kensington's cafés and pubs are between the stadium and downtown. Downtown has Stephen Avenue Walk and the Calgary Tower, and both are a short CTrain ride away. Banff is about 90 minutes west by car if you have an extra day.
 aiGenerated: true
 draft: false
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Green_Day_playing_the_half-time_show_at_the_110th_Grey_Cup_in_Hamilton.jpg/3840px-Green_Day_playing_the_half-time_show_at_the_110th_Grey_Cup_in_Hamilton.jpg
-  credit: 'Photo: Millsy0303 / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Green_Day_playing_the_half-time_show_at_the_110th_Grey_Cup_in_Hamilton.jpg
-  focus:
-    x: 50
-    'y': 40
 ---
 
 ## November 15 at McMahon
