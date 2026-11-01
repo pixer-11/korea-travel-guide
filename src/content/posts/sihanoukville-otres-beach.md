@@ -6,14 +6,22 @@ region: Sihanoukville
 category: attraction
 pubDate: '2026-08-22T09:09:56.291Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Otres_Beach_Sunset_-_panoramio.jpg/1920px-Otres_Beach_Sunset_-_panoramio.jpg
-  credit: 'Photo: MCantsin / Wikimedia Commons (CC BY-SA 3.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Otres_Beach_Sunset_-_panoramio.jpg
+  url: /editor-photos/sihanoukville-otres-beach-1.jpg
+  credit: 'Photo: Pixer / Wander Atlas'
+  license: editor
+  source: editor-original — wooden lifeguard tower under casuarina trees on Otres Beach at sunset
   focus:
-    x: 45
-    'y': 45
+    x: 35
+    'y': 55
 gallery:
+  - url: /editor-photos/sihanoukville-otres-beach-2.jpg
+    credit: 'Photo: Pixer / Wander Atlas'
+    license: editor
+    source: editor-original — fine white sand of Otres Beach at sunset under casuarina branches, swimmers in the shallows
+  - url: /editor-photos/sihanoukville-otres-beach-3.jpg
+    credit: 'Photo: Pixer / Wander Atlas'
+    license: editor
+    source: editor-original — sunset over the sea off Otres Beach, jet skis on the water
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Otres_Beach%2C_Sihanoukville.jpg/1920px-Otres_Beach%2C_Sihanoukville.jpg
     credit: 'Photo: Dmitry Makeev / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
@@ -31,7 +39,7 @@ place:
 tags:
   - sihanoukville
   - Otres Beach
-quickAnswer: Otres Beach is Sihanoukville's calmer alternative to the casino-lined main beach — a long stretch of white sand shaded by tamarisk and casuarina trees, backed by low-key beach bars rather than high-rises. Go for sunset, stay for the seafood grills, and rent a tuk-tuk (about 15-20 minutes from central Sihanoukville) rather than trying to walk it. It's not a secret anymore, but it's still far less packed than Serendipity or Ochheuteal beaches.
+quickAnswer: Otres Beach is Sihanoukville's calmer alternative to the casino-lined main beach — a long stretch of white sand shaded by tamarisk and casuarina trees, backed by low-key beach bars rather than high-rises. Go for sunset, stay for the seafood grills, and rent a tuk-tuk (about 15-20 minutes from central Sihanoukville) rather than trying to walk it. It's not a secret anymore, but it's still far less packed than Serendipity or Ochheuteal beaches. Our editor visited at sunset in late October and found it peaceful, with clean, fine white sand, a beautiful sunset and a well-kept beach that suits a quiet few hours with family.
 faq:
   - q: How do I get to Otres Beach from Sihanoukville?
     a: It's about 6-7 km southeast of the city center. A tuk-tuk takes 15-20 minutes; agree the fare beforehand or book through Grab/PassApp for a fixed price.
@@ -45,13 +53,22 @@ faq:
     a: Yes, several operators run boat and kayak trips from Otres out to Koh Ta Kiev and other nearby islands, usually as a half-day trip.
 aiGenerated: true
 draft: false
+firsthandOn: '2026-11-01'
 ---
 
 ## Why Otres Beach
 
 You come to Otres because Sihanoukville's main beaches got loud, and this one hasn't, not entirely.
 
-The sand runs pale and fine for a couple of kilometers, with tamarisk and casuarina trees leaning in from the tree line, throwing patchy shade over hammocks and low wooden loungers. There's no wall of high-rises here, just a scatter of bamboo bars, guesthouses, and the occasional beach dog dozing in the shade. It's a working beach, with fishing boats pulled up at either end, not a manicured resort strip.
+The sand runs pale and fine for a couple of kilometers, with tamarisk and casuarina trees leaning in from the tree line, throwing patchy shade over hammocks and low wooden loungers. There's no wall of high-rises here, just a scatter of bamboo bars, guesthouses, and the occasional beach dog dozing in the shade. It's a working beach, with fishing boats pulled up at either end, but the sand itself is kept clean.
+
+## From our visit
+
+We were on Otres Beach for sunset in late October, and the first thing that struck us was how peaceful it was. The white sand is clean and very fine underfoot, and the whole beach felt well kept.
+
+The sunset is the highlight. The sky over the sea turned orange and pink, a few jet skis cut across the bay, and a wooden lifeguard tower with a traditional-style roof stood in silhouette under the casuarina trees.
+
+If you want a calm, unhurried few hours with family, this is a good place to spend them.
 
 ## Getting there
 
@@ -85,7 +102,7 @@ The wet season (May to October) brings heavier afternoon downpours, though morni
 
 ## How to visit like a local
 
-Otres isn't an undiscovered spot anymore (word's gotten out, especially about Otres 2's sunset bars), so plan around the crowds rather than expecting to have it to yourself.
+Otres isn't an undiscovered spot anymore (word's gotten out, especially about Otres 2's sunset bars), but on our sunset visit in late October it was still peaceful, with plenty of open sand.
 
 - Arrive before 9am or after 4pm to avoid the midday crush and harshest sun
 - Carry small-denomination US dollars, Cambodia runs on USD for most tourist transactions, with riel used for change

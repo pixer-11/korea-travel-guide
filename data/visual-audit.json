@@ -28990,6 +28990,12 @@
   "reason": "publish gate: Shows park grounds, statues, pavilion consistent with Independence Park",
   "at": "2026-09-09T13:35:44.991Z"
  },
+ "sihanoukville-otres-beach\u0001/editor-photos/sihanoukville-otres-beach-1.jpg": {
+  "slug": "sihanoukville-otres-beach",
+  "verdict": "MATCH",
+  "reason": "owner photo: editor-original — wooden lifeguard tower under casuarina trees on Otres Beach at sunset",
+  "at": "2026-11-01T11:34:13.924Z"
+ },
  "sihanoukville-otres-beach\u0001https://upload.wikimedia.org/wikipedia/commons/c/c2/Otres_Beach_Sunset_-_panoramio.jpg": {
   "slug": "sihanoukville-otres-beach",
   "verdict": "MATCH",
