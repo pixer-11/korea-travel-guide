@@ -1,40 +1,47 @@
 ---
-title: "Montréal Underground City: Montreal Travel Guide (4.4★)"
-description: "Montréal Underground City (the RESO) is the tunnel network under downtown Montreal, and this listed entry is 747 Rue du Square-Victoria, at the World Trade Centre Montréal next to Square-Victoria–OACI metro on the Orange Line. 4.4★ (6,159 reviews) — what visitors say, hours, and tips."
-country: "Canada"
-region: "Montreal"
-category: "hidden-gem"
-pubDate: "2026-11-01T07:58:58.461Z"
+title: 'Montréal Underground City: Montreal Travel Guide (4.4★)'
+description: >-
+  Montréal Underground City (the RESO) is the tunnel network under downtown
+  Montreal, and this listed entry is 747 Rue du Square-Victoria, at the World
+  Trade Centre Montréal next to Square-Victoria–OACI metro on the Orange Line.
+  4.4★ (6,160 reviews) — what visitors say, hours, and tips.
+country: Canada
+region: Montreal
+category: hidden-gem
+pubDate: '2026-11-01T07:58:58.461Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/b/bc/Underground_City%2C_Montr%C3%A9al_-_panoramio.jpg"
-  credit: "Photo: Martin Cígler / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Underground_City,_Montr%C3%A9al_-_panoramio.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/b/bc/Underground_City%2C_Montr%C3%A9al_-_panoramio.jpg
+  credit: 'Photo: Martin Cígler / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Underground_City,_Montr%C3%A9al_-_panoramio.jpg
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery: []
 place:
-  id: "ChIJqdpCvUIayUwRB8iV-DwuDPM"
-  name: "Montréal Underground City"
-  address: "747 Rue du Square-Victoria #247, Montréal, QC H2Y 3Y9, Canada"
+  id: ChIJqdpCvUIayUwRB8iV-DwuDPM
+  name: Montréal Underground City
+  address: '747 Rue du Square-Victoria #247, Montréal, QC H2Y 3Y9, Canada'
   rating: 4.4
-  userRatingsTotal: 6159
-  googleMapsUrl: "https://maps.google.com/?cid=17513423890340497415&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 6160
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=17513423890340497415&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 45.5030419
   lng: -73.5711864
   openingHours:
-    - "Monday: 8:00 AM – 6:00 PM"
-    - "Tuesday: 8:00 AM – 6:00 PM"
-    - "Wednesday: 8:00 AM – 6:00 PM"
-    - "Thursday: 8:00 AM – 6:00 PM"
-    - "Friday: 8:00 AM – 6:00 PM"
-    - "Saturday: Closed"
-    - "Sunday: Closed"
+    - 'Monday: 8:00 AM – 6:00 PM'
+    - 'Tuesday: 8:00 AM – 6:00 PM'
+    - 'Wednesday: 8:00 AM – 6:00 PM'
+    - 'Thursday: 8:00 AM – 6:00 PM'
+    - 'Friday: 8:00 AM – 6:00 PM'
+    - 'Saturday: Closed'
+    - 'Sunday: Closed'
   busyness:
-    updated: 2026-11-01
+    updated: 2026-11-01T00:00:00.000Z
     weekdayBusy:
       - 11
       - 12
@@ -43,24 +50,51 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_4d50447577442d566938425277557961495576437064714a496843"
+    venueId: ven_4d50447577442d566938425277557961495576437064714a496843
 tags:
-  - "montreal"
-  - "hidden gem"
-quickAnswer: "Montréal Underground City (the RESO) is the tunnel network under downtown Montreal, and this listed entry is 747 Rue du Square-Victoria, at the World Trade Centre Montréal next to Square-Victoria–OACI metro on the Orange Line. Google currently shows it open 8am–6pm Monday to Friday and closed at weekends, so plan a weekday visit. Give yourself two to three hours to walk from the Old Montreal edge up to the downtown malls."
+  - montreal
+  - hidden gem
+quickAnswer: >-
+  Montréal Underground City (the RESO) is the tunnel network under downtown
+  Montreal, and this listed entry is 747 Rue du Square-Victoria, at the World
+  Trade Centre Montréal next to Square-Victoria–OACI metro on the Orange Line.
+  Google currently shows it open 8am–6pm Monday to Friday and closed at
+  weekends, so plan a weekday visit. Give yourself two to three hours to walk
+  from the Old Montreal edge up to the downtown malls.
 faq:
-  - q: "Which metro station is nearest to the Montréal Underground City entrance at Square-Victoria?"
-    a: "Square-Victoria–OACI on the Orange Line (Line 2). It connects straight to the World Trade Centre Montréal at 747 Rue du Square-Victoria, and its street exit has the Guimard Art Nouveau entrance given by Paris."
-  - q: "Is it open at weekends?"
-    a: "Google currently lists this entry as open 8am–6pm Monday to Friday and closed on Saturday and Sunday. Other buildings in the network keep their own hours, so check the ones you plan to pass through before a weekend visit."
-  - q: "How long do I need?"
-    a: "Allow about twenty minutes for the Ruelle des Fortifications, with its Berlin Wall section and Amphitrite fountain. Walking on through the downtown malls to McGill, Peel or Place-des-Arts takes two to three hours at a relaxed pace."
-  - q: "How do I avoid getting lost?"
-    a: "Follow the blue RESO signs. They point to buildings and metro stations by name. Look at the official RESO map before you go, because some links close while towers are renovated."
-  - q: "What is near this entrance?"
-    a: "Old Montreal is just above you. Place-d'Armes station, one stop away, comes out near the Palais des congrès and a short walk from Notre-Dame Basilica. The downtown shopping core around McGill station is reachable underground."
+  - q: >-
+      Which metro station is nearest to the Montréal Underground City entrance
+      at Square-Victoria?
+    a: >-
+      Square-Victoria–OACI on the Orange Line (Line 2). It connects straight to
+      the World Trade Centre Montréal at 747 Rue du Square-Victoria, and its
+      street exit has the Guimard Art Nouveau entrance given by Paris.
+  - q: Is it open at weekends?
+    a: >-
+      Google currently lists this entry as open 8am–6pm Monday to Friday and
+      closed on Saturday and Sunday. Other buildings in the network keep their
+      own hours, so check the ones you plan to pass through before a weekend
+      visit.
+  - q: How long do I need?
+    a: >-
+      Allow about twenty minutes for the Ruelle des Fortifications, with its
+      Berlin Wall section and Amphitrite fountain. Walking on through the
+      downtown malls to McGill, Peel or Place-des-Arts takes two to three hours
+      at a relaxed pace.
+  - q: How do I avoid getting lost?
+    a: >-
+      Follow the blue RESO signs. They point to buildings and metro stations by
+      name. Look at the official RESO map before you go, because some links
+      close while towers are renovated.
+  - q: What is near this entrance?
+    a: >-
+      Old Montreal is just above you. Place-d'Armes station, one stop away,
+      comes out near the Palais des congrès and a short walk from Notre-Dame
+      Basilica. The downtown shopping core around McGill station is reachable
+      underground.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-01'
 ---
 
 Climb out of the Orange Line at Square-Victoria–OACI and you pass under a cast-iron Art Nouveau arch with a "Métropolitain" sign. It is a real Hector Guimard entrance, given to Montreal by Paris in the 1960s. A few steps on, the address on your map, 747 Rue du Square-Victoria, opens into the World Trade Centre Montréal. That is a good way to step into a city that carries on below its streets.

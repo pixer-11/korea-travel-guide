@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: phuket-wat-chalong
-srcHash: 'e14c7885ca8a'
+srcHash: 'd70a7376da3b'
 title: 柴龙寺（Wat Chalong）：普吉岛旅行指南（4.6★）
-description: 柴龙寺是普吉岛规模最大、香火最旺的佛教寺庙，坐落在柴龙（Chalong）的Thanon Chao Fah Tawan Tok路上，从柴龙圆环（Chalong Circle）和拉威（Rawai）驱车即可到达。评分4.6星（17,345条评论）——看看游客怎么说，附开放时间和实用建议。
+description: 柴龙寺是普吉岛规模最大、香火最旺的佛教寺庙，坐落在柴龙（Chalong）的Thanon Chao Fah Tawan Tok路上，从柴龙圆环（Chalong Circle）和拉威（Rawai）驱车即可到达。评分4.6星（17,465条评论）——看看游客怎么说，附开放时间和实用建议。
 quickAnswer: 柴龙寺是普吉岛规模最大、香火最旺的佛教寺庙，坐落在柴龙（Chalong）的Thanon Chao Fah Tawan Tok路上，从柴龙圆环（Chalong Circle）和拉威（Rawai）驱车即可到达。寺庙每天早上8点到下午5点开放，免费入场（欢迎捐赠），但一到中午就会涌来大批旅游团，所以建议尽量在早上8点左右到达，这样才能安静地欣赏金色佛塔和壁画。
 faq:
   - q: 参观柴龙寺需要花多少钱？

@@ -1,30 +1,38 @@
 ---
 title: 'Khao Rang Viewpoint: Phuket Travel Guide'
-description: Khao Rang (Rang Hill) is a hilltop park just northwest of Phuket Town offering the best panoramic views of the town's rooftops, the harbor, and surrounding islands—free to enter and best visited late afternoon into sunset.
+description: >-
+  Khao Rang (Rang Hill) is a hilltop park just northwest of Phuket Town offering
+  the best panoramic views of the town's rooftops, the harbor, and surrounding
+  islands—free to enter and best visited late afternoon into sunset.
 country: Thailand
 region: Phuket
 category: attraction
 pubDate: '2026-07-22T09:10:53.913Z'
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/5834542_qq8ONHqe3JdFOGNOMssW77Xf35w0NqT_JKZPvDDT1e0.jpg"
-    credit: "Photo: Foursquare user content (Khao Rang Viewpoint (จุดชมวิวเขารัง))"
-    license: "foursquare"
-    source: "https://foursquare.com/v/52e4d682498ecbb0e886274a"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/5834542_qq8ONHqe3JdFOGNOMssW77Xf35w0NqT_JKZPvDDT1e0.jpg
+    credit: 'Photo: Foursquare user content (Khao Rang Viewpoint (จุดชมวิวเขารัง))'
+    license: foursquare
+    source: 'https://foursquare.com/v/52e4d682498ecbb0e886274a'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/9375124_op9-ZKTovVhe80ST4RdJ7eFLEsOGtkvNwkdaWOaDtIU.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/9375124_op9-ZKTovVhe80ST4RdJ7eFLEsOGtkvNwkdaWOaDtIU.jpg
   credit: 'Photo: Foursquare user content (Khao Rang Viewpoint (จุดชมวิวเขารัง))'
   license: foursquare
-  source: https://foursquare.com/v/52e4d682498ecbb0e886274a
+  source: 'https://foursquare.com/v/52e4d682498ecbb0e886274a'
   focus:
     x: 50
-    y: 50
+    'y': 50
 place:
   id: ChIJ36TUGOsxUDAR7hcbGCJ8tlc
   name: Khao Rang Viewpoint
-  address: 145/5 Thanon Patiphat Rang Hill, Tambon Wichit, Amphoe Mueang Phuket, Chang Wat Phuket 83000, Thailand
-  rating: 4.5
-  userRatingsTotal: 6968
-  googleMapsUrl: https://maps.google.com/?cid=6320375612936230894&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  address: >-
+    145/5 Thanon Patiphat Rang Hill, Tambon Wichit, Amphoe Mueang Phuket, Chang
+    Wat Phuket 83000, Thailand
+  rating: 4.6
+  userRatingsTotal: 7076
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6320375612936230894&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 7.892360199999999
   lng: 98.38006279999999
@@ -71,26 +79,46 @@ place:
 tags:
   - phuket
   - top attraction
-quickAnswer: Khao Rang (Rang Hill) is a hilltop park just northwest of Phuket Town offering the best panoramic views of the town's rooftops, the harbor, and surrounding islands—free to enter and best visited late afternoon into sunset. Plan on 45–90 minutes, bring a car or grab taxi/scooter since there's no direct public bus, and combine it with a meal at the hilltop restaurants or a walk in Phuket Town below.
+quickAnswer: >-
+  Khao Rang (Rang Hill) is a hilltop park just northwest of Phuket Town offering
+  the best panoramic views of the town's rooftops, the harbor, and surrounding
+  islands—free to enter and best visited late afternoon into sunset. Plan on
+  45–90 minutes, bring a car or grab taxi/scooter since there's no direct public
+  bus, and combine it with a meal at the hilltop restaurants or a walk in Phuket
+  Town below.
 faq:
   - q: Is there an entrance fee for Khao Rang Viewpoint?
-    a: No, the park and viewpoint are free to enter; you only pay if you eat at one of the hilltop restaurants or pay for parking during busy periods.
+    a: >-
+      No, the park and viewpoint are free to enter; you only pay if you eat at
+      one of the hilltop restaurants or pay for parking during busy periods.
   - q: How do I get to Khao Rang without a car?
-    a: There's no direct public bus to the summit, so most visitors use Grab, a metered taxi, or a scooter rental; the ride from Phuket Town takes about 10-15 minutes.
+    a: >-
+      There's no direct public bus to the summit, so most visitors use Grab, a
+      metered taxi, or a scooter rental; the ride from Phuket Town takes about
+      10-15 minutes.
   - q: What's the best time of day to visit?
-    a: Late afternoon into sunset (roughly 5:00-6:30 PM) is most popular for the light and views, while early morning offers cooler weather and fewer crowds.
+    a: >-
+      Late afternoon into sunset (roughly 5:00-6:30 PM) is most popular for the
+      light and views, while early morning offers cooler weather and fewer
+      crowds.
   - q: How much time should I plan for the visit?
-    a: 45 minutes to an hour is enough for the viewpoint and park; add extra time if dining at one of the two hilltop restaurants near the summit.
+    a: >-
+      45 minutes to an hour is enough for the viewpoint and park; add extra time
+      if dining at one of the two hilltop restaurants near the summit.
   - q: What else is nearby?
-    a: Phuket Old Town, with its Sino-Portuguese architecture on Thalang Road and Soi Romanee, is just a short drive away and pairs well with a Khao Rang visit.
+    a: >-
+      Phuket Old Town, with its Sino-Portuguese architecture on Thalang Road and
+      Soi Romanee, is just a short drive away and pairs well with a Khao Rang
+      visit.
 aiGenerated: true
+updatedDate: '2026-11-01'
 ---
 
 ## Why go
 
 Khao Rang, also called Rang Hill, is the highest point overlooking Phuket Town, and it's the spot locals themselves go to watch the sun set over the Andaman Sea. Unlike the more touristy viewpoints in the south of the island (Karon, Promthep Cape), Khao Rang gives you a 360-degree look at a working city: red-tiled Sino-Portuguese shophouse roofs in the old town, the port area, distant limestone islands, and on clear days the hills of Phang Nga.
 
-The 4.5-star rating from nearly 7,000 reviews reflects how consistently visitors rate the view itself, even though the surrounding park facilities are simple.
+The 4.6-star rating from nearly 7,000 reviews reflects how consistently visitors rate the view itself, even though the surrounding park facilities are simple.
 
 ## Getting there
 

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: liverpool-st-george-s-hall
-srcHash: 'f57dbbc7c79e'
+srcHash: 'a373d68a3cdf'
 title: 'St George''s Hall: guía de viaje de Liverpool (4.7★)'
-description: 'Justo enfrente de la estación de Lime Street, en St George''s Place, el St George''s Hall le recibe a pocos minutos de bajar del tren, en pleno centro de Liverpool. 4.7★ (4,586 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'Justo enfrente de la estación de Lime Street, en St George''s Place, el St George''s Hall le recibe a pocos minutos de bajar del tren, en pleno centro de Liverpool. 4.7★ (4,588 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En pleno centro de Liverpool, el St George's Hall se alza en St George's Place, justo enfrente de la estación de Lime Street, de modo que puede estar dentro a los pocos minutos de bajar del tren. Actualmente abre de lunes a sábado desde las 9:30am; cierra a las 4:45pm de lunes a jueves y a las 5pm los viernes y sábados, y por ahora permanece cerrado los domingos. Calcule una o dos horas para recorrer el Gran Salón, la Sala de Conciertos Pequeña y los antiguos calabozos del tribunal.
 faq:
   - q: ¿Cómo se llega al St George's Hall?

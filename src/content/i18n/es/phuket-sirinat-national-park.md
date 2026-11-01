@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: phuket-sirinat-national-park
-srcHash: 'c716d4984b71'
+srcHash: '9e2519392455'
 title: 'Parque Nacional Sirinat: Guía de viaje de Phuket (4.4★)'
-description: 'El Parque Nacional Sirinat, en el distrito de Thalang, en Phuket, une las playas de Nai Yang, Mai Khao y Nai Thon con un bosque de manglares y los célebres aviones que pasan a baja altura sobre el extremo norte de Mai Khao, cerca del Aeropuerto de Phuket. 4.4★ (6.205 opiniones): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Parque Nacional Sirinat, en el distrito de Thalang, en Phuket, une las playas de Nai Yang, Mai Khao y Nai Thon con un bosque de manglares y los célebres aviones que pasan a baja altura sobre el extremo norte de Mai Khao, cerca del Aeropuerto de Phuket. 4.4★ (6.242 opiniones): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Parque Nacional Sirinat, en el distrito de Thalang, en Phuket, une las playas de Nai Yang, Mai Khao y Nai Thon con un bosque de manglares y los célebres aviones que pasan a baja altura sobre el extremo norte de Mai Khao, cerca del Aeropuerto de Phuket. La oficina del parque y el acceso principal a la playa abren todos los días de 8:30 a 16:30; conviene llegar temprano en días de semana para adelantarse a los grupos turísticos y evitar el peor calor del mediodía. Reserva medio día si quieres combinar un paseo por la playa con el tramo de avistamiento de aviones y una visita al paseo elevado del manglar.
 faq:
   - q: ¿Cuál es el horario del Parque Nacional Sirinat?

@@ -1,39 +1,45 @@
 ---
-title: "Lingjiao Waterfall: Pingxi Travel Guide (4.1★)"
-description: "Lingjiao Waterfall (also spelled Lingjiao/Língjiǎo Falls) sits in Pingxi District, New Taipei City, reached by a short rainforest trail off the old railway line. 4.1★ (2,101 reviews) — what visitors say, hours, and tips."
-country: "Taiwan"
-region: "Pingxi"
-category: "attraction"
-pubDate: "2026-09-12T07:45:12.162Z"
+title: 'Lingjiao Waterfall: Pingxi Travel Guide (4.1★)'
+description: >-
+  Lingjiao Waterfall (also spelled Lingjiao/Língjiǎo Falls) sits in Pingxi
+  District, New Taipei City, reached by a short rainforest trail off the old
+  railway line. 4.1★ (2,131 reviews) — what visitors say, hours, and tips.
+country: Taiwan
+region: Pingxi
+category: attraction
+pubDate: '2026-09-12T07:45:12.162Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Lingjiao_Falls_%E5%B6%BA%E8%85%B3%E7%80%91%E5%B8%83_-_panoramio.jpg/1920px-Lingjiao_Falls_%E5%B6%BA%E8%85%B3%E7%80%91%E5%B8%83_-_panoramio.jpg"
-  credit: "Photo: lienyuan lee / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Lingjiao_Falls_%E5%B6%BA%E8%85%B3%E7%80%91%E5%B8%83_-_panoramio.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Lingjiao_Falls_%E5%B6%BA%E8%85%B3%E7%80%91%E5%B8%83_-_panoramio.jpg/1920px-Lingjiao_Falls_%E5%B6%BA%E8%85%B3%E7%80%91%E5%B8%83_-_panoramio.jpg
+  credit: 'Photo: lienyuan lee / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Lingjiao_Falls_%E5%B6%BA%E8%85%B3%E7%80%91%E5%B8%83_-_panoramio.jpg
   focus:
     x: 70
-    y: 40
+    'y': 40
 gallery: []
 place:
-  id: "ChIJ-VY3hjRRXTQRiLphc8yT1-0"
-  name: "Lingjiao Waterfall"
-  address: "Pingxi District, New Taipei City, Taiwan 226"
+  id: ChIJ-VY3hjRRXTQRiLphc8yT1-0
+  name: Lingjiao Waterfall
+  address: 'Pingxi District, New Taipei City, Taiwan 226'
   rating: 4.1
-  userRatingsTotal: 2101
-  googleMapsUrl: "https://maps.google.com/?cid=17138329413300107912&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2131
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=17138329413300107912&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 25.0281306
   lng: 121.7486399
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-09-12
+    updated: 2026-09-12T00:00:00.000Z
     weekendQuiet:
       - 7
     weekendBusy:
@@ -47,24 +53,43 @@ place:
       - 17
       - 19
       - 22
-    venueId: "ven_302d315479386368704c695251545852526a683359562d4a496843"
+    venueId: ven_302d315479386368704c695251545852526a683359562d4a496843
 tags:
-  - "pingxi"
-  - "park"
-quickAnswer: "Lingjiao Waterfall (also spelled Lingjiao/Língjiǎo Falls) sits in Pingxi District, New Taipei City, reached by a short rainforest trail off the old railway line. It's a two-tier drop into an emerald swimming pool, open around the clock with no admission fee, and quietest on weekends between 7am and 8am before day-trippers from Taipei arrive. Plan for roughly 30-45 minutes at the falls, more if you're swimming."
+  - pingxi
+  - park
+quickAnswer: >-
+  Lingjiao Waterfall (also spelled Lingjiao/Língjiǎo Falls) sits in Pingxi
+  District, New Taipei City, reached by a short rainforest trail off the old
+  railway line. It's a two-tier drop into an emerald swimming pool, open around
+  the clock with no admission fee, and quietest on weekends between 7am and 8am
+  before day-trippers from Taipei arrive. Plan for roughly 30-45 minutes at the
+  falls, more if you're swimming.
 faq:
-  - q: "How do I get to Lingjiao Waterfall from Taipei?"
-    a: "Take the Pingxi Branch Railway from Ruifang Station to Pingxi or Jingtong Station, then walk or take a short taxi to the marked trailhead. Driving is also possible, with informal roadside parking near the trail entrance."
-  - q: "Is there an entrance fee?"
-    a: "No, Lingjiao Waterfall has no gate or admission charge and is accessible 24 hours a day."
-  - q: "When is it least crowded?"
-    a: "Weekends are quietest between 7am and 8am, before day-trippers arrive; the busiest stretch runs from 9am to as late as 11pm on weekends."
-  - q: "Can you swim in the pool at the base?"
-    a: "Yes, the pool at the base is popular for wading and swimming in dry conditions, though there's no lifeguard, so check recent rainfall and current strength before getting in."
-  - q: "How long should I plan to spend there?"
-    a: "Most visitors spend 30-45 minutes at the falls, or longer if swimming; pair it with Pingxi Old Street for a half-day trip."
+  - q: How do I get to Lingjiao Waterfall from Taipei?
+    a: >-
+      Take the Pingxi Branch Railway from Ruifang Station to Pingxi or Jingtong
+      Station, then walk or take a short taxi to the marked trailhead. Driving
+      is also possible, with informal roadside parking near the trail entrance.
+  - q: Is there an entrance fee?
+    a: >-
+      No, Lingjiao Waterfall has no gate or admission charge and is accessible
+      24 hours a day.
+  - q: When is it least crowded?
+    a: >-
+      Weekends are quietest between 7am and 8am, before day-trippers arrive; the
+      busiest stretch runs from 9am to as late as 11pm on weekends.
+  - q: Can you swim in the pool at the base?
+    a: >-
+      Yes, the pool at the base is popular for wading and swimming in dry
+      conditions, though there's no lifeguard, so check recent rainfall and
+      current strength before getting in.
+  - q: How long should I plan to spend there?
+    a: >-
+      Most visitors spend 30-45 minutes at the falls, or longer if swimming;
+      pair it with Pingxi Old Street for a half-day trip.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-01'
 ---
 
 Pingxi is known for sky lanterns and a slow branch-line railway, but Lingjiao Waterfall is the district's answer for anyone who wants water instead of paper lanterns overhead. It drops in two separate spouts down a mossy rock face into a pool the color of green glass bottles, the kind of spot locals swam in long before it showed up on travel blogs.

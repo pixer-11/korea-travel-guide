@@ -1,59 +1,91 @@
 ---
-title: "St George's Hall: Liverpool Travel Guide (4.7★)"
-description: "St George's Hall in Liverpool city centre stands directly opposite Lime Street station on St George's Place, so you can be inside within a few minutes of stepping off the train. 4.7★ (4,586 reviews) — what visitors say, hours, and tips."
-country: "United Kingdom"
-region: "Liverpool"
-category: "hidden-gem"
-pubDate: "2026-11-01T07:58:57.407Z"
+title: 'St George''s Hall: Liverpool Travel Guide (4.7★)'
+description: >-
+  St George's Hall in Liverpool city centre stands directly opposite Lime Street
+  station on St George's Place, so you can be inside within a few minutes of
+  stepping off the train. 4.7★ (4,588 reviews) — what visitors say, hours, and
+  tips.
+country: United Kingdom
+region: Liverpool
+category: hidden-gem
+pubDate: '2026-11-01T07:58:57.407Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/St_Georges_Hall_Liverpool_3_%286727529617%29.jpg/3840px-St_Georges_Hall_Liverpool_3_%286727529617%29.jpg"
-  credit: "Photo: Tony Hisgett from Birmingham, UK / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:St_Georges_Hall_Liverpool_3_(6727529617).jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/St_Georges_Hall_Liverpool_3_%286727529617%29.jpg/3840px-St_Georges_Hall_Liverpool_3_%286727529617%29.jpg
+  credit: 'Photo: Tony Hisgett from Birmingham, UK / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:St_Georges_Hall_Liverpool_3_(6727529617).jpg
+  via: act
   focus:
     x: 50
-    y: 35
+    'y': 35
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/b/bf/St_George%27s_Hall%2C_Liverpool_-_panoramio.jpg"
-    credit: "Photo: Andrew Farquhar / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:St_George%27s_Hall,_Liverpool_-_panoramio.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/b/bf/St_George%27s_Hall%2C_Liverpool_-_panoramio.jpg
+    credit: 'Photo: Andrew Farquhar / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:St_George%27s_Hall,_Liverpool_-_panoramio.jpg
 place:
-  id: "ChIJXYxwICkhe0gRqx3wdY7T2jw"
-  name: "St George's Hall"
-  address: "St George's Pl, Liverpool L1 1JJ, UK"
+  id: ChIJXYxwICkhe0gRqx3wdY7T2jw
+  name: St George's Hall
+  address: 'St George''s Pl, Liverpool L1 1JJ, UK'
   rating: 4.7
-  userRatingsTotal: 4586
-  googleMapsUrl: "https://maps.google.com/?cid=4385049796016086443&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 4588
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4385049796016086443&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 53.40849
   lng: -2.9802578000000004
   openingHours:
-    - "Monday: 9:30 AM – 4:45 PM"
-    - "Tuesday: 9:30 AM – 4:45 PM"
-    - "Wednesday: 9:30 AM – 4:45 PM"
-    - "Thursday: 9:30 AM – 4:45 PM"
-    - "Friday: 9:30 AM – 5:00 PM"
-    - "Saturday: 9:30 AM – 5:00 PM"
-    - "Sunday: Closed"
+    - 'Monday: 9:30 AM – 4:45 PM'
+    - 'Tuesday: 9:30 AM – 4:45 PM'
+    - 'Wednesday: 9:30 AM – 4:45 PM'
+    - 'Thursday: 9:30 AM – 4:45 PM'
+    - 'Friday: 9:30 AM – 5:00 PM'
+    - 'Saturday: 9:30 AM – 5:00 PM'
+    - 'Sunday: Closed'
 tags:
-  - "liverpool"
-  - "old quarter"
-quickAnswer: "St George's Hall in Liverpool city centre stands directly opposite Lime Street station on St George's Place, so you can be inside within a few minutes of stepping off the train. At the moment it opens Monday to Saturday from 9:30am, closing at 4:45pm Monday to Thursday and 5pm on Friday and Saturday, and it is currently closed on Sundays. Allow an hour or two for the Great Hall, the Small Concert Room and the old court cells."
+  - liverpool
+  - old quarter
+quickAnswer: >-
+  St George's Hall in Liverpool city centre stands directly opposite Lime Street
+  station on St George's Place, so you can be inside within a few minutes of
+  stepping off the train. At the moment it opens Monday to Saturday from 9:30am,
+  closing at 4:45pm Monday to Thursday and 5pm on Friday and Saturday, and it is
+  currently closed on Sundays. Allow an hour or two for the Great Hall, the
+  Small Concert Room and the old court cells.
 faq:
-  - q: "How do I get to St George's Hall?"
-    a: "It sits on St George's Place (L1 1JJ), directly opposite Liverpool Lime Street station. Both mainline trains and Merseyrail stop there, and the walk across the square takes a couple of minutes."
-  - q: "Is St George's Hall open on Sundays?"
-    a: "Not currently. At the moment it opens from 9:30am, Monday to Saturday, and closes at 4:45pm Monday to Thursday and 5pm on Friday and Saturday. Hours can change with events and holidays, so check the official site before visiting."
-  - q: "Can I see the Minton tile floor?"
-    a: "Usually not: it is covered to protect it for most of the year. The hall uncovers it on occasional dates, which it announces in advance on its official website."
-  - q: "How long should I spend there?"
-    a: "An hour or two covers the Great Hall, the Small Concert Room, the courtrooms, the cells and the Heritage Centre. Add time for the café or a guided tour if one is running."
-  - q: "What else is nearby?"
-    a: "The Walker Art Gallery, World Museum and Central Library line William Brown Street right beside the hall, and St John's Gardens are directly behind it."
+  - q: How do I get to St George's Hall?
+    a: >-
+      It sits on St George's Place (L1 1JJ), directly opposite Liverpool Lime
+      Street station. Both mainline trains and Merseyrail stop there, and the
+      walk across the square takes a couple of minutes.
+  - q: Is St George's Hall open on Sundays?
+    a: >-
+      Not currently. At the moment it opens from 9:30am, Monday to Saturday, and
+      closes at 4:45pm Monday to Thursday and 5pm on Friday and Saturday. Hours
+      can change with events and holidays, so check the official site before
+      visiting.
+  - q: Can I see the Minton tile floor?
+    a: >-
+      Usually not: it is covered to protect it for most of the year. The hall
+      uncovers it on occasional dates, which it announces in advance on its
+      official website.
+  - q: How long should I spend there?
+    a: >-
+      An hour or two covers the Great Hall, the Small Concert Room, the
+      courtrooms, the cells and the Heritage Centre. Add time for the café or a
+      guided tour if one is running.
+  - q: What else is nearby?
+    a: >-
+      The Walker Art Gallery, World Museum and Central Library line William
+      Brown Street right beside the hall, and St John's Gardens are directly
+      behind it.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-01'
 ---
 
 ## A temple facing the trains

@@ -1,59 +1,91 @@
 ---
-title: "Sirinat National Park: Phuket Travel Guide (4.4★)"
-description: "Sirinat National Park in Phuket's Thalang district strings together Nai Yang, Mai Khao and Nai Thon beaches with mangrove forest and the famous low-flying planes over Mai Khao's northern end, near Phuket Airport. 4.4★ (6,205 reviews) — what visitors say, hours, and tips."
-country: "Thailand"
-region: "Phuket"
-category: "attraction"
-pubDate: "2026-09-03T10:40:11.966Z"
+title: 'Sirinat National Park: Phuket Travel Guide (4.4★)'
+description: >-
+  Sirinat National Park in Phuket's Thalang district strings together Nai Yang,
+  Mai Khao and Nai Thon beaches with mangrove forest and the famous low-flying
+  planes over Mai Khao's northern end, near Phuket Airport. 4.4★ (6,242 reviews)
+  — what visitors say, hours, and tips.
+country: Thailand
+region: Phuket
+category: attraction
+pubDate: '2026-09-03T10:40:11.966Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Nai_Yang_Beach%2C_Phuket_%284448621322%29.jpg/1920px-Nai_Yang_Beach%2C_Phuket_%284448621322%29.jpg"
-  credit: "Photo: Andy Mitchell from Glasgow, UK / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Nai_Yang_Beach,_Phuket_(4448621322).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Nai_Yang_Beach%2C_Phuket_%284448621322%29.jpg/1920px-Nai_Yang_Beach%2C_Phuket_%284448621322%29.jpg
+  credit: 'Photo: Andy Mitchell from Glasgow, UK / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Nai_Yang_Beach,_Phuket_(4448621322).jpg
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Sirinat_National_Park05.jpg/3840px-Sirinat_National_Park05.jpg"
-    credit: "Photo: Athichitra / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Sirinat_National_Park05.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Sirinat_National_Park05.jpg/3840px-Sirinat_National_Park05.jpg
+    credit: 'Photo: Athichitra / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Sirinat_National_Park05.jpg'
 place:
-  id: "ChIJe31Ogs1HUDARA7IgOdb0JCA"
-  name: "Sirinat National Park"
-  address: "89 Tambon Sa Khu, Amphoe Thalang, Chang Wat Phuket 83140, Thailand"
+  id: ChIJe31Ogs1HUDARA7IgOdb0JCA
+  name: Sirinat National Park
+  address: '89 Tambon Sa Khu, Amphoe Thalang, Chang Wat Phuket 83140, Thailand'
   rating: 4.4
-  userRatingsTotal: 6205
-  googleMapsUrl: "https://maps.google.com/?cid=2316245309293900291&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 6242
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2316245309293900291&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 8.0978703
   lng: 98.2991455
-  phone: "+66 76 328 226"
+  phone: +66 76 328 226
   openingHours:
-    - "Monday: 8:30 AM – 4:30 PM"
-    - "Tuesday: 8:30 AM – 4:30 PM"
-    - "Wednesday: 8:30 AM – 4:30 PM"
-    - "Thursday: 8:30 AM – 4:30 PM"
-    - "Friday: 8:30 AM – 4:30 PM"
-    - "Saturday: 8:30 AM – 4:30 PM"
-    - "Sunday: 8:30 AM – 4:30 PM"
+    - 'Monday: 8:30 AM – 4:30 PM'
+    - 'Tuesday: 8:30 AM – 4:30 PM'
+    - 'Wednesday: 8:30 AM – 4:30 PM'
+    - 'Thursday: 8:30 AM – 4:30 PM'
+    - 'Friday: 8:30 AM – 4:30 PM'
+    - 'Saturday: 8:30 AM – 4:30 PM'
+    - 'Sunday: 8:30 AM – 4:30 PM'
 tags:
-  - "phuket"
-  - "park"
-quickAnswer: "Sirinat National Park in Phuket's Thalang district strings together Nai Yang, Mai Khao and Nai Thon beaches with mangrove forest and the famous low-flying planes over Mai Khao's northern end, near Phuket Airport. The park office and main beach access are open daily 8:30am–4:30pm; go early on weekdays to beat tour groups and avoid the worst of the midday heat. Budget half a day if you want to combine a beach walk with the plane-spotting stretch and a look at the mangrove boardwalk."
+  - phuket
+  - park
+quickAnswer: >-
+  Sirinat National Park in Phuket's Thalang district strings together Nai Yang,
+  Mai Khao and Nai Thon beaches with mangrove forest and the famous low-flying
+  planes over Mai Khao's northern end, near Phuket Airport. The park office and
+  main beach access are open daily 8:30am–4:30pm; go early on weekdays to beat
+  tour groups and avoid the worst of the midday heat. Budget half a day if you
+  want to combine a beach walk with the plane-spotting stretch and a look at the
+  mangrove boardwalk.
 faq:
-  - q: "What are Sirinat National Park's opening hours?"
-    a: "The park operates daily from 8:30am to 4:30pm, with no variation by day of the week. Plan your beach or mangrove walk to finish before closing."
-  - q: "Where exactly do you go for the plane-spotting photos?"
-    a: "Head to the northern end of Mai Khao Beach, near the small car parks off the airport perimeter road. There's no formal viewpoint, just open sand along the runway approach path."
-  - q: "How do you get to Sirinat National Park from Phuket Airport?"
-    a: "It's about a 15-20 minute drive by taxi or rented scooter from the airport, since the park's northern boundary sits right against the airport perimeter. Public transport doesn't serve the park directly, so self-driving or a taxi is the practical option."
-  - q: "When is the best time to visit for turtles or good weather?"
-    a: "November to February is both the dry season and sea turtle nesting season on Mai Khao Beach, making it the most comfortable and eventful time to go. Expect roped-off nesting areas on parts of the sand during these months."
-  - q: "How can I avoid the crowds at Sirinat?"
-    a: "Arrive near the 8:30am opening on a weekday, especially if you want the main plane-spotting fence to yourself before tour groups arrive. For guaranteed quiet, skip the fence entirely and head to Nai Thon Beach or the far southern stretch of Mai Khao."
+  - q: What are Sirinat National Park's opening hours?
+    a: >-
+      The park operates daily from 8:30am to 4:30pm, with no variation by day of
+      the week. Plan your beach or mangrove walk to finish before closing.
+  - q: Where exactly do you go for the plane-spotting photos?
+    a: >-
+      Head to the northern end of Mai Khao Beach, near the small car parks off
+      the airport perimeter road. There's no formal viewpoint, just open sand
+      along the runway approach path.
+  - q: How do you get to Sirinat National Park from Phuket Airport?
+    a: >-
+      It's about a 15-20 minute drive by taxi or rented scooter from the
+      airport, since the park's northern boundary sits right against the airport
+      perimeter. Public transport doesn't serve the park directly, so
+      self-driving or a taxi is the practical option.
+  - q: When is the best time to visit for turtles or good weather?
+    a: >-
+      November to February is both the dry season and sea turtle nesting season
+      on Mai Khao Beach, making it the most comfortable and eventful time to go.
+      Expect roped-off nesting areas on parts of the sand during these months.
+  - q: How can I avoid the crowds at Sirinat?
+    a: >-
+      Arrive near the 8:30am opening on a weekday, especially if you want the
+      main plane-spotting fence to yourself before tour groups arrive. For
+      guaranteed quiet, skip the fence entirely and head to Nai Thon Beach or
+      the far southern stretch of Mai Khao.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-01'
 ---
 
 Most people who come to Sirinat National Park are chasing one specific photo: a jetliner passing so low over the sand at Mai Khao Beach that you can read the airline's name on the fuselage. That's a real thing here, and it happens because the northern tip of the park sits directly under the final approach path into Phuket International Airport.

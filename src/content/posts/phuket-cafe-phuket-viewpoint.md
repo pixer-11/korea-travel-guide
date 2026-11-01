@@ -1,43 +1,53 @@
 ---
 title: 'Cafe Phuket Viewpoint: Travel Guide'
-description: Cafe Phuket Viewpoint sits on Phrabaramee Road on the ridge above Patong, on the winding hill route toward Kata/Karon, and it's best visited late afternoon (around 4:30–6pm) to catch sunset over the Andaman Sea and Patong Bay from its terraced seating.
+description: >-
+  Cafe Phuket Viewpoint sits on Phrabaramee Road on the ridge above Patong, on
+  the winding hill route toward Kata/Karon, and it's best visited late afternoon
+  (around 4:30–6pm) to catch sunset over the Andaman Sea and Patong Bay from its
+  terraced seating.
 country: Thailand
 region: Phuket
 category: trendy
 pubDate: '2026-07-22T09:21:08.550Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/527455132_d3xvDUuNd623FpHRmzENIZ8BN2LVsj4PNTrDiFrIvoI.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/527455132_d3xvDUuNd623FpHRmzENIZ8BN2LVsj4PNTrDiFrIvoI.jpg
   credit: 'Photo: Foursquare user content (Cafe Phuket Viewpoint)'
   license: foursquare
-  source: https://foursquare.com/v/65d27c72178a93669187738a
+  source: 'https://foursquare.com/v/65d27c72178a93669187738a'
   focus:
     x: 50
-    y: 35
+    'y': 35
 gallery: []
 place:
   id: ChIJb7im6X47UDARtO5wpPmldQo
   name: Cafe Phuket Viewpoint
-  address: 255 Phrabaramee Rd, Tambon Patong, Amphoe Kathu, Chang Wat Phuket 83150, Thailand
-  rating: 4.6
-  userRatingsTotal: 20851
-  googleMapsUrl: https://maps.google.com/?cid=753691004278730420&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  address: >-
+    255 Phrabaramee Rd, Tambon Patong, Amphoe Kathu, Chang Wat Phuket 83150,
+    Thailand
+  rating: 4.7
+  userRatingsTotal: 22958
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=753691004278730420&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 7.919899399999999
   lng: 98.2807461
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [11]
+    weekdayQuiet:
+      - 11
     weekdayBusy:
       - 17
       - 18
-    weekendQuiet: [11]
+    weekendQuiet:
+      - 11
     weekendBusy:
       - 15
       - 16
       - 17
       - 18
     venueId: ven_6f51646c6d507077354f7452414455373458366d6937624a496843
-  phone: '+66 94 663 4124'
+  phone: +66 94 663 4124
   openingHours:
     - 'Monday: 10:30 AM – 7:30 PM'
     - 'Tuesday: 10:30 AM – 7:30 PM'
@@ -46,27 +56,54 @@ place:
     - 'Friday: 10:30 AM – 7:30 PM'
     - 'Saturday: 10:30 AM – 7:30 PM'
     - 'Sunday: 10:30 AM – 7:30 PM'
+  priceLevel: 2
 tags:
   - phuket
   - trendy cafe
-quickAnswer: Cafe Phuket Viewpoint sits on Phrabaramee Road on the ridge above Patong, on the winding hill route toward Kata/Karon, and it's best visited late afternoon (around 4:30–6pm) to catch sunset over the Andaman Sea and Patong Bay from its terraced seating. Go by rented scooter, taxi, or Grab since there's no public bus stop right at the door; budget 1–1.5 hours, longer if you want dinner. With a 4.6 rating from over 20,800 reviews, it's one of the most popular viewpoint cafes on the island, so arrive early or expect a wait for the best rail-side tables.
+quickAnswer: >-
+  Cafe Phuket Viewpoint sits on Phrabaramee Road on the ridge above Patong, on
+  the winding hill route toward Kata/Karon, and it's best visited late afternoon
+  (around 4:30–6pm) to catch sunset over the Andaman Sea and Patong Bay from its
+  terraced seating. Go by rented scooter, taxi, or Grab since there's no public
+  bus stop right at the door; budget 1–1.5 hours, longer if you want dinner.
+  With a 4.6 rating from over 20,800 reviews, it's one of the most popular
+  viewpoint cafes on the island, so arrive early or expect a wait for the best
+  rail-side tables.
 faq:
   - q: How do I get to Cafe Phuket Viewpoint without a rental scooter?
-    a: Book a Grab or taxi from Patong, Kata, or Karon — all are roughly 10-20 minutes away along the Patong Hill road. There's no direct public bus stop at the entrance, so ride-hail or taxi is the most reliable option for visitors without their own vehicle.
+    a: >-
+      Book a Grab or taxi from Patong, Kata, or Karon — all are roughly 10-20
+      minutes away along the Patong Hill road. There's no direct public bus stop
+      at the entrance, so ride-hail or taxi is the most reliable option for
+      visitors without their own vehicle.
   - q: What's the best time of day to visit?
-    a: Late afternoon, around 4:30-6pm, for sunset views over Patong Bay. Mornings are quieter with easier seating if you'd rather skip the crowds and don't mind softer daylight in photos.
+    a: >-
+      Late afternoon, around 4:30-6pm, for sunset views over Patong Bay.
+      Mornings are quieter with easier seating if you'd rather skip the crowds
+      and don't mind softer daylight in photos.
   - q: How long should I plan to stay?
-    a: Most visitors spend 1 to 1.5 hours — enough time for a drink or light meal and photos. Add extra time if you plan to stay through sunset, since the best-view tables fill up.
+    a: >-
+      Most visitors spend 1 to 1.5 hours — enough time for a drink or light meal
+      and photos. Add extra time if you plan to stay through sunset, since the
+      best-view tables fill up.
   - q: Is it expensive?
-    a: Prices are set for the tourist/viewpoint market, so drinks and meals cost more than typical local Thai eateries, though it remains generally affordable by international standards. Exact menu prices should be confirmed on-site since they can change seasonally.
+    a: >-
+      Prices are set for the tourist/viewpoint market, so drinks and meals cost
+      more than typical local Thai eateries, though it remains generally
+      affordable by international standards. Exact menu prices should be
+      confirmed on-site since they can change seasonally.
   - q: What else is nearby?
-    a: The café sits on the same scenic hill road connecting Patong to Kata and Karon, close to other viewpoint stops like Karon Viewpoint, and within a short drive of Patong Beach and Bangla Road.
+    a: >-
+      The café sits on the same scenic hill road connecting Patong to Kata and
+      Karon, close to other viewpoint stops like Karon Viewpoint, and within a
+      short drive of Patong Beach and Bangla Road.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-01'
 ---
 ## Why go
 
-Phuket has no shortage of hilltop viewpoints, but Cafe Phuket Viewpoint has become one of the island's most talked-about spots for a reason: it combines an actual working café-restaurant with an unobstructed, elevated panorama of Patong Bay and the Andaman coastline. At over 20,800 reviews and a 4.6 rating, it has crossed from local secret to bucket-list stop for visitors staying anywhere on the west coast.
+Phuket has no shortage of hilltop viewpoints, but Cafe Phuket Viewpoint has become one of the island's most talked-about spots for a reason: it combines an actual working café-restaurant with an unobstructed, elevated panorama of Patong Bay and the Andaman coastline. At over 20,800 reviews and a 4.7 rating, it has crossed from local secret to bucket-list stop for visitors staying anywhere on the west coast.
 
 The draw isn't a single dramatic structure. It's the layered terrace seating cut into the hillside on Phrabaramee Road, arranged so that nearly every table gets a sightline over the rooftops of Patong down to the curve of the bay.
 

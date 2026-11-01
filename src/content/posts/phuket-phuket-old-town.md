@@ -1,54 +1,82 @@
 ---
-title: "Phuket Old Town: Travel Guide (4.5★)"
-description: "Phuket Old Town is the Sino-Portuguese shophouse district of Phuket Town, built around Thalang Road in Talat Yai, on the island's east side and away from the beaches. 4.5★ (2,968 reviews) — what visitors say, hours, and tips."
-country: "Thailand"
-region: "Phuket"
-category: "hidden-gem"
-pubDate: "2026-09-27T07:45:51.362Z"
+title: 'Phuket Old Town: Travel Guide (4.5★)'
+description: >-
+  Phuket Old Town is the Sino-Portuguese shophouse district of Phuket Town,
+  built around Thalang Road in Talat Yai, on the island's east side and away
+  from the beaches. 4.5★ (3,057 reviews) — what visitors say, hours, and tips.
+country: Thailand
+region: Phuket
+category: hidden-gem
+pubDate: '2026-09-27T07:45:51.362Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Soi_Rommanee%2C_Phuket_Town.jpg/1920px-Soi_Rommanee%2C_Phuket_Town.jpg"
-  credit: "Photo: Christophe95 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Soi_Rommanee,_Phuket_Town.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Soi_Rommanee%2C_Phuket_Town.jpg/1920px-Soi_Rommanee%2C_Phuket_Town.jpg
+  credit: 'Photo: Christophe95 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Soi_Rommanee,_Phuket_Town.jpg'
   focus:
     x: 30
-    y: 40
+    'y': 40
 gallery: []
 place:
-  id: "ChIJMUZx9gsxUDARVEgNSi4n3e0"
-  name: "Phuket Old Town"
-  address: "Thanon Talang, Tambon Talat Yai, Amphoe Mueang Phuket, Chang Wat Phuket 83000, Thailand"
+  id: ChIJMUZx9gsxUDARVEgNSi4n3e0
+  name: Phuket Old Town
+  address: >-
+    Thanon Talang, Tambon Talat Yai, Amphoe Mueang Phuket, Chang Wat Phuket
+    83000, Thailand
   rating: 4.5
-  userRatingsTotal: 2968
-  googleMapsUrl: "https://maps.google.com/?cid=17139898836606339156&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 3057
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=17139898836606339156&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 7.884836099999999
   lng: 98.38751429999999
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "phuket"
-  - "old quarter"
-quickAnswer: "Phuket Old Town is the Sino-Portuguese shophouse district of Phuket Town, built around Thalang Road in Talat Yai, on the island's east side and away from the beaches. The streets are public and open around the clock. Walk it in the cooler early morning or late afternoon, and plan for Sunday evening if you want the Lard Yai walking street market on Thalang Road."
+  - phuket
+  - old quarter
+quickAnswer: >-
+  Phuket Old Town is the Sino-Portuguese shophouse district of Phuket Town,
+  built around Thalang Road in Talat Yai, on the island's east side and away
+  from the beaches. The streets are public and open around the clock. Walk it in
+  the cooler early morning or late afternoon, and plan for Sunday evening if you
+  want the Lard Yai walking street market on Thalang Road.
 faq:
-  - q: "Where exactly is Phuket Old Town?"
-    a: "It is in Talat Yai, central Phuket Town, on the island's east side. Thalang Road runs through the middle of it, with Dibuk, Krabi and Phang Nga Roads close by."
-  - q: "How long should I spend in Phuket Old Town?"
-    a: "About two hours covers Thalang Road, Soi Rommanee and the Krabi Road mansions on foot. Allow half a day if you add the Thai Hua Museum and a proper meal."
-  - q: "When is the best time to visit?"
-    a: "Early morning or late afternoon, when it's cooler. Sunday evening is when the Lard Yai walking street market runs on Thalang Road, and it gets very crowded. The Vegetarian Festival is usually in late September or October."
-  - q: "How do I get there from Patong?"
-    a: "By taxi or ride-hailing app, it's a short drive inland over the hill. Local songthaews also link Phuket Town's market area with several beaches during the day."
-  - q: "Is Phuket Old Town open at night?"
-    a: "The streets are public and open 24 hours. Shops, cafés and museums keep their own hours, and many close early in the evening, so check before you go."
+  - q: Where exactly is Phuket Old Town?
+    a: >-
+      It is in Talat Yai, central Phuket Town, on the island's east side.
+      Thalang Road runs through the middle of it, with Dibuk, Krabi and Phang
+      Nga Roads close by.
+  - q: How long should I spend in Phuket Old Town?
+    a: >-
+      About two hours covers Thalang Road, Soi Rommanee and the Krabi Road
+      mansions on foot. Allow half a day if you add the Thai Hua Museum and a
+      proper meal.
+  - q: When is the best time to visit?
+    a: >-
+      Early morning or late afternoon, when it's cooler. Sunday evening is when
+      the Lard Yai walking street market runs on Thalang Road, and it gets very
+      crowded. The Vegetarian Festival is usually in late September or October.
+  - q: How do I get there from Patong?
+    a: >-
+      By taxi or ride-hailing app, it's a short drive inland over the hill.
+      Local songthaews also link Phuket Town's market area with several beaches
+      during the day.
+  - q: Is Phuket Old Town open at night?
+    a: >-
+      The streets are public and open 24 hours. Shops, cafés and museums keep
+      their own hours, and many close early in the evening, so check before you
+      go.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-01'
 ---
 
 ## Shophouses from the tin boom

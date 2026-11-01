@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: pingxi-lingjiao-waterfall
-srcHash: '8c36787976db'
+srcHash: '9fba14449a8d'
 title: 'Cascada Lingjiao: guía de viaje de Pingxi (4.1★)'
-description: 'La cascada Lingjiao (también escrita Lingjiao o Língjiǎo) se encuentra en el distrito de Pingxi, en Nueva Taipéi, y se llega a ella tras un breve sendero por la selva tropical junto a la antigua línea de ferrocarril. 4.1★ (2.101 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'La cascada Lingjiao (también escrita Lingjiao o Língjiǎo) se encuentra en el distrito de Pingxi, en Nueva Taipéi, y se llega a ella tras un breve sendero por la selva tropical junto a la antigua línea de ferrocarril. 4.1★ (2.131 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: La cascada Lingjiao (también escrita Lingjiao o Língjiǎo) se encuentra en el distrito de Pingxi, en Nueva Taipéi, y se llega a ella tras un breve sendero por la selva tropical junto a la antigua línea de ferrocarril. Se trata de una caída en dos niveles que desemboca en una piscina natural de color esmeralda, abierta las 24 horas y sin tarifa de entrada; el momento más tranquilo es los fines de semana entre las 7:00 y las 8:00, antes de que lleguen los excursionistas de Taipéi. Conviene reservar entre 30 y 45 minutos para la visita, más si se piensa nadar.
 faq:
   - q: ¿Cómo se llega a la cascada Lingjiao desde Taipéi?

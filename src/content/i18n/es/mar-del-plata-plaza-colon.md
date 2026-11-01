@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: mar-del-plata-plaza-colon
-srcHash: '59a8e117597d'
+srcHash: '1d495bc59710'
 title: 'Plaza Colón en Mar del Plata: guía de viaje (4.4★)'
-description: Abierta y rodeada de palmeras, la Plaza Colón se encuentra junto al mar en pleno centro de Mar del Plata, a pocos pasos de la Rambla y de Playa Bristol. Con 4.4★ (42,568 reseñas), le contamos qué opinan los visitantes, los horarios y algunos consejos.
+description: Abierta y rodeada de palmeras, la Plaza Colón se encuentra junto al mar en pleno centro de Mar del Plata, a pocos pasos de la Rambla y de Playa Bristol. Con 4.4★ (42,569 reseñas), le contamos qué opinan los visitantes, los horarios y algunos consejos.
 quickAnswer: Abierta y rodeada de palmeras, la Plaza Colón se encuentra junto al mar en pleno centro de Mar del Plata, a pocos pasos de la Rambla y de Playa Bristol. Tanto entre semana como los fines de semana, la franja más tranquila va de 7am–10am. Conviene evitar los fines de semana de 3pm–11pm, cuando la plaza se llena de paseantes y de reuniones.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar la Plaza Colón?

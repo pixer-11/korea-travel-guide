@@ -1,30 +1,38 @@
 ---
 title: 'Phu Quoc Prison History Museum: Travel Guide (4.3★)'
-description: Phu Quoc Prison History Museum (also called Coco Prison, at 350 Đ. Nguyễn Văn Cừ) is open daily 7am–5pm, and admission is typically free. 4.3★ (9,758 reviews) — what visitors say, hours, and tips.
+description: >-
+  Phu Quoc Prison History Museum (also called Coco Prison, at 350 Đ. Nguyễn Văn
+  Cừ) is open daily 7am–5pm, and admission is typically free. 4.3★ (9,889
+  reviews) — what visitors say, hours, and tips.
 country: Vietnam
 region: Phu Quoc
 category: attraction
 pubDate: '2026-08-19T08:58:24.099Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/18746189_RkiM85314AzfKqx9-UywnLmcPEy5Poue1tQ7Z0dvh3g.jpg
-  credit: 'Photo: Foursquare user content (Phu Quoc Prison History Museum (Di tích Lịch sử Nhà tù Phú Quốc))'
+  url: >-
+    https://fastly.4sqi.net/img/general/original/18746189_RkiM85314AzfKqx9-UywnLmcPEy5Poue1tQ7Z0dvh3g.jpg
+  credit: >-
+    Photo: Foursquare user content (Phu Quoc Prison History Museum (Di tích Lịch
+    sử Nhà tù Phú Quốc))
   license: foursquare
-  source: https://foursquare.com/v/58c22e3f8cfe5478f4816c87
+  source: 'https://foursquare.com/v/58c22e3f8cfe5478f4816c87'
   focus:
     x: 55
     'y': 45
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Phu_Quoc_Prison_Jailbreak.jpg/960px-Phu_Quoc_Prison_Jailbreak.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Phu_Quoc_Prison_Jailbreak.jpg/960px-Phu_Quoc_Prison_Jailbreak.jpg
     credit: 'Photo: Frank Fox / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Phu_Quoc_Prison_Jailbreak.jpg
+    source: 'https://commons.wikimedia.org/wiki/File:Phu_Quoc_Prison_Jailbreak.jpg'
 place:
   id: ChIJ8zUfc5iXpzERSSpBZR01y2c
   name: Phu Quoc Prison History Museum
-  address: 350 Đ. Nguyễn Văn Cừ, Phú Quốc, An Giang, Vietnam
+  address: '350 Đ. Nguyễn Văn Cừ, Phú Quốc, An Giang, Vietnam'
   rating: 4.3
-  userRatingsTotal: 9758
-  googleMapsUrl: https://maps.google.com/?cid=7479130006547933769&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 9889
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=7479130006547933769&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 10.0443585
   lng: 104.0180085
@@ -54,20 +62,37 @@ place:
 tags:
   - phu quoc
   - museum
-quickAnswer: Phu Quoc Prison History Museum (also called Coco Prison, at 350 Đ. Nguyễn Văn Cừ) is open daily 7am–5pm, and admission is typically free. Go right at opening — weekdays 7am–9am or weekends 7am–8am are the calmest, since crowds build fast and stay heavy from 9am to 5pm on weekends. Budget about an hour to walk the compound and read the exhibits.
+quickAnswer: >-
+  Phu Quoc Prison History Museum (also called Coco Prison, at 350 Đ. Nguyễn Văn
+  Cừ) is open daily 7am–5pm, and admission is typically free. Go right at
+  opening — weekdays 7am–9am or weekends 7am–8am are the calmest, since crowds
+  build fast and stay heavy from 9am to 5pm on weekends. Budget about an hour to
+  walk the compound and read the exhibits.
 faq:
   - q: How much does it cost to enter?
-    a: Admission has typically been free, but confirm at the gate since this can change — there's no official online booking to check in advance.
+    a: >-
+      Admission has typically been free, but confirm at the gate since this can
+      change — there's no official online booking to check in advance.
   - q: How long should I spend there?
-    a: About an hour is enough to walk the compound and read the main exhibits; add extra time if you want to read every information panel closely.
+    a: >-
+      About an hour is enough to walk the compound and read the main exhibits;
+      add extra time if you want to read every information panel closely.
   - q: When is the quietest time to visit?
-    a: Weekdays between 7am and 9am, or weekends between 7am and 8am. After that, especially on weekends, it stays busy right through to the 5pm closing.
+    a: >-
+      Weekdays between 7am and 9am, or weekends between 7am and 8am. After that,
+      especially on weekends, it stays busy right through to the 5pm closing.
   - q: How do I get there without a car?
-    a: There's no public bus or train on Phu Quoc, so most visitors arrive by taxi, Grab, or rented scooter from Duong Dong town, about 20-30 minutes away.
+    a: >-
+      There's no public bus or train on Phu Quoc, so most visitors arrive by
+      taxi, Grab, or rented scooter from Duong Dong town, about 20-30 minutes
+      away.
   - q: Is it appropriate for kids?
-    a: The mannequin displays depict graphic torture scenes, so it's worth considering your children's age and sensitivity before bringing them.
+    a: >-
+      The mannequin displays depict graphic torture scenes, so it's worth
+      considering your children's age and sensitivity before bringing them.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-01'
 ---
 You smell the heat before you see anything, dust and hot tin roofing rising off a compound ringed with rusted barbed wire. This is Coco Prison, formally the Phu Quoc Prison History Museum, and it doesn't ease you in. Within the first few paces you're already looking at reconstructed cages.
 

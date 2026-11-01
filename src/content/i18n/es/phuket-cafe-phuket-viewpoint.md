@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: phuket-cafe-phuket-viewpoint
-srcHash: '94db6b626665'
+srcHash: 'a50dce44e71b'
 title: 'Cafe Phuket Viewpoint: Guía de viaje'
 description: Cafe Phuket Viewpoint se encuentra en Phrabaramee Road, en la cresta sobre Patong, en la sinuosa ruta de montaña hacia Kata/Karon, y lo mejor es visitarlo a última hora de la tarde (entre las 4:30 y las 6 pm) para disfrutar de la puesta de sol sobre el mar de Andamán y la bahía de Patong desde sus terrazas escalonadas.
 quickAnswer: Cafe Phuket Viewpoint se encuentra en Phrabaramee Road, en la cresta sobre Patong, en la sinuosa ruta de montaña hacia Kata/Karon, y lo mejor es visitarlo a última hora de la tarde (entre las 4:30 y las 6 pm) para disfrutar de la puesta de sol sobre el mar de Andamán y la bahía de Patong desde sus terrazas escalonadas. Se llega en scooter alquilado, taxi o Grab, ya que no hay parada de autobús público justo en la puerta; calcula entre 1 y 1,5 horas, más si quieres cenar. Con una calificación de 4.6 basada en más de 20.800 reseñas, es uno de los cafés-mirador más populares de la isla, así que llega temprano o cuenta con esperar por las mejores mesas junto a la baranda.
@@ -20,7 +20,7 @@ faq:
 
 ## Por qué ir
 
-Phuket no tiene escasez de miradores en la cima de colinas, pero Cafe Phuket Viewpoint se ha convertido en uno de los lugares más comentados de la isla por una razón: combina un café-restaurante en pleno funcionamiento con una panorámica elevada y sin obstáculos de la bahía de Patong y la costa de Andamán. Con más de 20.800 reseñas y una calificación de 4.6, ha pasado de ser un secreto local a convertirse en una parada obligada para quienes se alojan en cualquier punto de la costa oeste.
+Phuket no tiene escasez de miradores en la cima de colinas, pero Cafe Phuket Viewpoint se ha convertido en uno de los lugares más comentados de la isla por una razón: combina un café-restaurante en pleno funcionamiento con una panorámica elevada y sin obstáculos de la bahía de Patong y la costa de Andamán. Con más de 20.800 reseñas y una calificación de 4.7, ha pasado de ser un secreto local a convertirse en una parada obligada para quienes se alojan en cualquier punto de la costa oeste.
 
 El atractivo no es una estructura llamativa en particular, sino la disposición escalonada de las terrazas talladas en la ladera junto a Phrabaramee Road, organizadas de modo que casi todas las mesas tienen vista sobre los techos de Patong hasta la curva de la bahía.
 

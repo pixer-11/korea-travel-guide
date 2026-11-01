@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: phuket-chillva-market
-srcHash: '53c656927abe'
+srcHash: 'd90c68c27299'
 title: 'Mercado Chillva: Guía de Viaje de Phuket (4.4★)'
-description: 'El Mercado Chillva, en Ratsada, Phuket Town, es un mercado nocturno al aire libre de comida y artesanía construido con contenedores marítimos apilados, abierto de lunes a sábado de 17:00 a 23:00 y cerrado los domingos. 4.4★ (10,282 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Mercado Chillva, en Ratsada, Phuket Town, es un mercado nocturno al aire libre de comida y artesanía construido con contenedores marítimos apilados, abierto de lunes a sábado de 17:00 a 23:00 y cerrado los domingos. 4.4★ (10,390 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Mercado Chillva, en Ratsada, Phuket Town, es un mercado nocturno al aire libre de comida y artesanía construido con contenedores marítimos apilados, abierto de lunes a sábado de 17:00 a 23:00 y cerrado los domingos. Es realmente popular tanto entre turistas como entre locales, así que las noches de fin de semana entre las 18:00 y las 22:00 se llenan mucho. Conviene llegar justo a las 17:00 para conseguir sitio y poder sentarse.
 faq:
   - q: ¿Cuáles son los horarios de apertura del Mercado Chillva?

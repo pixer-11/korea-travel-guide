@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: phuket-wat-chalong
-srcHash: 'e14c7885ca8a'
+srcHash: 'd70a7376da3b'
 title: 'Wat Chalong: guía de viaje de Phuket (4,6★)'
-description: 'Wat Chalong, el templo budista más grande y visitado de Phuket, se encuentra en Chalong, sobre la calle Chao Fah Tawan Tok, a poca distancia en coche de Chalong Circle y Rawai. 4,6★ (17.345 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'Wat Chalong, el templo budista más grande y visitado de Phuket, se encuentra en Chalong, sobre la calle Chao Fah Tawan Tok, a poca distancia en coche de Chalong Circle y Rawai. 4,6★ (17.465 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Wat Chalong, el templo budista más grande y visitado de Phuket, se encuentra en Chalong, sobre la calle Chao Fah Tawan Tok, a poca distancia en coche de Chalong Circle y Rawai. Abre todos los días de 8:00 a 17:00, la entrada es gratuita (se agradecen las donaciones) y a mediodía suele llenarse de grupos de turistas en autobús, así que conviene llegar cerca de las 8:00 para disfrutar con más calma de la chedi dorada y los murales.
 faq:
   - q: ¿Cuánto cuesta visitar Wat Chalong?

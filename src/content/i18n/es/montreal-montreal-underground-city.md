@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: montreal-montreal-underground-city
-srcHash: '82b271364fb0'
+srcHash: '813ac46dcb72'
 title: 'Ciudad Subterránea de Montreal: guía de viaje de Montreal (4.4★)'
-description: La Ciudad Subterránea de Montreal, conocida como RESO, es la red de túneles que recorre el subsuelo del centro de la ciudad. El acceso aquí reseñado se encuentra en el 747 Rue du Square-Victoria, en el World Trade Centre Montréal, junto a la estación de metro Square-Victoria–OACI de la línea naranja. Con 4.4★ (6,159 reseñas), le contamos qué opinan los visitantes, sus horarios y algunos consejos.
+description: La Ciudad Subterránea de Montreal, conocida como RESO, es la red de túneles que recorre el subsuelo del centro de la ciudad. El acceso aquí reseñado se encuentra en el 747 Rue du Square-Victoria, en el World Trade Centre Montréal, junto a la estación de metro Square-Victoria–OACI de la línea naranja. Con 4.4★ (6,160 reseñas), le contamos qué opinan los visitantes, sus horarios y algunos consejos.
 quickAnswer: Bajo el centro de Montreal se extiende la Ciudad Subterránea, una red de túneles a la que los locales llaman RESO. El acceso que figura en esta ficha está en el 747 Rue du Square-Victoria, dentro del World Trade Centre Montréal y al lado de la estación de metro Square-Victoria–OACI, en la línea naranja. Según Google, abre de lunes a viernes de 8am–6pm y cierra los fines de semana, así que conviene ir un día laborable. Para recorrer el trayecto que va desde el límite del Viejo Montreal hasta los centros comerciales del centro, reserve entre dos y tres horas.
 faq:
   - q: ¿Cuál es la estación de metro más próxima al acceso de la Ciudad Subterránea en Square-Victoria?

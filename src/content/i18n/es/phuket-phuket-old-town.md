@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: phuket-phuket-old-town
-srcHash: 'b851d72e3be5'
+srcHash: '06efb3bab003'
 title: 'Phuket Old Town: Guía de viaje (4,5★)'
-description: 'Phuket Old Town es el barrio de casas comerciales sino-portuguesas de Phuket Town, construido en torno a Thalang Road, en Talat Yai, en el lado este de la isla y alejado de las playas. 4,5★ (2.968 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'Phuket Old Town es el barrio de casas comerciales sino-portuguesas de Phuket Town, construido en torno a Thalang Road, en Talat Yai, en el lado este de la isla y alejado de las playas. 4,5★ (3.057 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Phuket Old Town es el barrio de casas comerciales sino-portuguesas de Phuket Town, construido en torno a Thalang Road, en Talat Yai, en el lado este de la isla y alejado de las playas. Las calles son públicas y permanecen abiertas las 24 horas. Conviene recorrerlas temprano por la mañana o al final de la tarde, cuando refresca, y si se quiere coincidir con el mercado callejero de Lard Yai en Thalang Road, hay que planear la visita para el domingo por la noche.
 faq:
   - q: ¿Dónde está exactamente Phuket Old Town?

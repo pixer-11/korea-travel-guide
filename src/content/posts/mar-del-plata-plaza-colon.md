@@ -1,32 +1,40 @@
 ---
-title: "Plaza Colón: Mar del Plata Travel Guide (4.4★)"
-description: "Plaza Colón is an open, palm-lined square near the seafront in central Mar del Plata, a short walk from the Rambla and Playa Bristol. 4.4★ (42,568 reviews) — what visitors say, hours, and tips."
-country: "Argentina"
-region: "Mar del Plata"
-category: "attraction"
-pubDate: "2026-11-01T07:58:56.359Z"
+title: 'Plaza Colón: Mar del Plata Travel Guide (4.4★)'
+description: >-
+  Plaza Colón is an open, palm-lined square near the seafront in central Mar del
+  Plata, a short walk from the Rambla and Playa Bristol. 4.4★ (42,569 reviews) —
+  what visitors say, hours, and tips.
+country: Argentina
+region: Mar del Plata
+category: attraction
+pubDate: '2026-11-01T07:58:56.359Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Hotel_Provincial_y_Casino%2C_Plaza_seca_y_la_Plaza_Col%C3%B3n._Vista_panor%C3%A1mica_desde_el_Palacio_Ed%C3%A9n.jpg/3840px-Hotel_Provincial_y_Casino%2C_Plaza_seca_y_la_Plaza_Col%C3%B3n._Vista_panor%C3%A1mica_desde_el_Palacio_Ed%C3%A9n.jpg"
-  credit: "Photo: Eduardo N. Fortes / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Hotel_Provincial_y_Casino,_Plaza_seca_y_la_Plaza_Col%C3%B3n._Vista_panor%C3%A1mica_desde_el_Palacio_Ed%C3%A9n.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Hotel_Provincial_y_Casino%2C_Plaza_seca_y_la_Plaza_Col%C3%B3n._Vista_panor%C3%A1mica_desde_el_Palacio_Ed%C3%A9n.jpg/3840px-Hotel_Provincial_y_Casino%2C_Plaza_seca_y_la_Plaza_Col%C3%B3n._Vista_panor%C3%A1mica_desde_el_Palacio_Ed%C3%A9n.jpg
+  credit: 'Photo: Eduardo N. Fortes / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Hotel_Provincial_y_Casino,_Plaza_seca_y_la_Plaza_Col%C3%B3n._Vista_panor%C3%A1mica_desde_el_Palacio_Ed%C3%A9n.jpg
+  via: act
   focus:
     x: 30
-    y: 65
+    'y': 65
 gallery: []
 place:
-  id: "ChIJVRdIzhnchJURCv4SwJ2Iq3k"
-  name: "Plaza Colón"
-  address: "Buenos Aires EEH Mar del Plata Buenos Aires AR, Diagonal Centro 2100, B7600 Mar del Plata, Provincia de Buenos Aires, Argentina"
+  id: ChIJVRdIzhnchJURCv4SwJ2Iq3k
+  name: Plaza Colón
+  address: >-
+    Buenos Aires EEH Mar del Plata Buenos Aires AR, Diagonal Centro 2100, B7600
+    Mar del Plata, Provincia de Buenos Aires, Argentina
   rating: 4.4
-  userRatingsTotal: 42568
-  googleMapsUrl: "https://maps.google.com/?cid=8767251310720515594&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 42569
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=8767251310720515594&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -38.00562540000001
   lng: -57.54348239999999
   busyness:
-    updated: 2026-11-01
+    updated: 2026-11-01T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -52,24 +60,39 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_6b337149324a775334764352554a68636e687a496452564a496843"
+    venueId: ven_6b337149324a775334764352554a68636e687a496452564a496843
 tags:
-  - "mar del plata"
-  - "park"
-quickAnswer: "Plaza Colón is an open, palm-lined square near the seafront in central Mar del Plata, a short walk from the Rambla and Playa Bristol. It's quietest from 7am–10am on both weekdays and weekends. Avoid weekends from 3pm–11pm, when the square fills with strollers and gatherings."
+  - mar del plata
+  - park
+quickAnswer: >-
+  Plaza Colón is an open, palm-lined square near the seafront in central Mar del
+  Plata, a short walk from the Rambla and Playa Bristol. It's quietest from
+  7am–10am on both weekdays and weekends. Avoid weekends from 3pm–11pm, when the
+  square fills with strollers and gatherings.
 faq:
-  - q: "When is the quietest time to visit Plaza Colón?"
-    a: "From 7am–10am, on both weekdays and weekends. The busiest stretch is weekends from 3pm–11pm."
-  - q: "How long should I spend at Plaza Colón?"
-    a: "Around 30–45 minutes for the square itself. Allow a couple of hours if you combine it with the Rambla, Playa Bristol and Casino Central."
-  - q: "What's near Plaza Colón?"
-    a: "The Rambla seafront promenade, Playa Bristol, Casino Central and the sea lion statues are all a short walk away."
-  - q: "How do I get to Plaza Colón?"
-    a: "Most visitors walk from hotels in central Mar del Plata. Local buses run along Avenida Colón, but check current routes before you travel."
-  - q: "Is Plaza Colón safe in the evening?"
-    a: "It's busy and well used, especially on weekend evenings. As in any crowded city centre, keep your phone and wallet close."
+  - q: When is the quietest time to visit Plaza Colón?
+    a: >-
+      From 7am–10am, on both weekdays and weekends. The busiest stretch is
+      weekends from 3pm–11pm.
+  - q: How long should I spend at Plaza Colón?
+    a: >-
+      Around 30–45 minutes for the square itself. Allow a couple of hours if you
+      combine it with the Rambla, Playa Bristol and Casino Central.
+  - q: What's near Plaza Colón?
+    a: >-
+      The Rambla seafront promenade, Playa Bristol, Casino Central and the sea
+      lion statues are all a short walk away.
+  - q: How do I get to Plaza Colón?
+    a: >-
+      Most visitors walk from hotels in central Mar del Plata. Local buses run
+      along Avenida Colón, but check current routes before you travel.
+  - q: Is Plaza Colón safe in the evening?
+    a: >-
+      It's busy and well used, especially on weekend evenings. As in any crowded
+      city centre, keep your phone and wallet close.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-01'
 ---
 
 ## A square built for the evening walk
