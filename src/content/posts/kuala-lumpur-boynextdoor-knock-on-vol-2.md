@@ -97,6 +97,6 @@ December also falls in the northeast monsoon. In Kuala Lumpur that usually means
 
 ## Around the arena before and after
 
-You don't need to go back into the city to eat. **Pavilion Bukit Jalil**, the large mall that opened in 2024 beside the sports complex, has a food court and a long run of restaurants. Concertgoers commonly use it as a meeting point before the show.
+You don't need to go back into the city to eat. **Pavilion Bukit Jalil**, the large mall that opened in 2021 beside the sports complex, has a food court and a long run of restaurants. Concertgoers commonly use it as a meeting point before the show.
 
 A short ride north, **Sri Petaling** is a residential neighbourhood with many Chinese coffee shops and late-opening mamak stalls. Teh tarik and roti canai there make a classic Malaysian post-concert supper. If you have spare days around the show, Bukit Bintang, the Petronas Twin Towers and Merdeka Square are all on the same rail network that brought you to Bukit Jalil.

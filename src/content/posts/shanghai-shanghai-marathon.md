@@ -56,7 +56,7 @@ Because the start and finish are kilometres apart, the day works in two halves. 
 - **Start (the Bund):** East Nanjing Road station, Lines 2 and 10, then a short walk east down Nanjing Road to the river.
 - **Finish (Shanghai Stadium):** Shanghai Stadium station, Lines 4 and 11. Shanghai Indoor Stadium station on Lines 1 and 4 is also within walking distance.
 
-Shanghai Stadium is the big saddle-shaped bowl built for China's 1997 National Games. It is now a football ground, so the finish has stands, concourses and a running track. Runners finish to a real stadium crowd rather than a fenced-off car park.
+Shanghai Stadium is the big saddle-shaped bowl built for China's 1997 National Games. It was rebuilt as a football-only ground in 2021, so the finish has stands and concourses but no running track. Runners finish to a real stadium crowd rather than a fenced-off car park.
 
 ## Gun time on the Zhongshan Road waterfront
 
