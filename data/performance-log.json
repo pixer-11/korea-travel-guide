@@ -2465,5 +2465,200 @@
         "delta": -12
       }
     ]
+  },
+  {
+    "week": "2026-11-01",
+    "pageviews": 17686,
+    "visits": 17486,
+    "top": [
+      {
+        "path": "/",
+        "views": 48
+      },
+      {
+        "path": "/zh/posts/tashkent-2026-asian-table-tennis-championships/",
+        "views": 26
+      },
+      {
+        "path": "/zh/posts/nanjing-international-championship-snooker/",
+        "views": 22
+      },
+      {
+        "path": "/zh/posts/hanoi-bigbang-2026-2027-world-tour-in-hanoi/",
+        "views": 21
+      },
+      {
+        "path": "/zh/posts/shanghai-shanghai-marathon/",
+        "views": 19
+      },
+      {
+        "path": "/zh/posts/ulaanbaatar-mesa-pro-series-halloween-cup-2026/",
+        "views": 18
+      },
+      {
+        "path": "/ja/posts/new-delhi-safdarjung-tomb-delhi/",
+        "views": 18
+      },
+      {
+        "path": "/zh/posts/hong-kong-hong-kong-wine-dine-festival/",
+        "views": 16
+      },
+      {
+        "path": "/zh/posts/hangzhou-xixi-national-wetland-park/",
+        "views": 15
+      },
+      {
+        "path": "/ja/regions/queenstown/",
+        "views": 15
+      },
+      {
+        "path": "/ko/",
+        "views": 14
+      },
+      {
+        "path": "/zh/",
+        "views": 14
+      },
+      {
+        "path": "/zh/posts/chinatown-chinatown-complex/",
+        "views": 14
+      },
+      {
+        "path": "/zh/posts/tashkent-hazrati-imam-complex/",
+        "views": 14
+      },
+      {
+        "path": "/zh/posts/jeju-black-pork/",
+        "views": 13
+      },
+      {
+        "path": "/zh/posts/nape-macao-science-center/",
+        "views": 12
+      },
+      {
+        "path": "/posts/hong-kong-the-weeknd-after-hours-til-dawn-tour/",
+        "views": 12
+      },
+      {
+        "path": "/zh/posts/paris-basilique-du-sacre-c-ur-de-montmartre/",
+        "views": 12
+      },
+      {
+        "path": "/zh/events/macau/",
+        "views": 12
+      },
+      {
+        "path": "/zh/posts/seoul-exo-planet-6-exhorizon-dot-encore-concert/",
+        "views": 12
+      },
+      {
+        "path": "/zh/posts/seoul-seoul-forest-park/",
+        "views": 11
+      },
+      {
+        "path": "/zh/posts/bangkok-bts-world-tour-arirang-in-bangkok/",
+        "views": 11
+      },
+      {
+        "path": "/posts/lima-martin-garrix-lima-2026/",
+        "views": 11
+      },
+      {
+        "path": "/ja/posts/batumi-fountain/",
+        "views": 11
+      },
+      {
+        "path": "/posts/taipei-cks-shilin-residence-chrysanthemum-festival/",
+        "views": 10
+      },
+      {
+        "path": "/es/regions/downtown-dubai/things-to-do/",
+        "views": 10
+      },
+      {
+        "path": "/posts/mexico-city-bosque-de-chapultepec/",
+        "views": 10
+      },
+      {
+        "path": "/ja/posts/shanghai-china-international-import-expo-ciie/",
+        "views": 10
+      },
+      {
+        "path": "/posts/new-taipei-city-taipei-christmasland-2026/",
+        "views": 10
+      },
+      {
+        "path": "/posts/melbourne-melbourne-cup/",
+        "views": 10
+      }
+    ],
+    "risers": [
+      {
+        "path": "/zh/posts/nanjing-international-championship-snooker/",
+        "delta": 22
+      },
+      {
+        "path": "/zh/posts/shanghai-shanghai-marathon/",
+        "delta": 19
+      },
+      {
+        "path": "/zh/posts/ulaanbaatar-mesa-pro-series-halloween-cup-2026/",
+        "delta": 18
+      },
+      {
+        "path": "/ja/posts/new-delhi-safdarjung-tomb-delhi/",
+        "delta": 18
+      },
+      {
+        "path": "/zh/posts/hong-kong-hong-kong-wine-dine-festival/",
+        "delta": 16
+      },
+      {
+        "path": "/zh/posts/hangzhou-xixi-national-wetland-park/",
+        "delta": 15
+      },
+      {
+        "path": "/zh/posts/nape-macao-science-center/",
+        "delta": 12
+      },
+      {
+        "path": "/posts/hong-kong-the-weeknd-after-hours-til-dawn-tour/",
+        "delta": 12
+      }
+    ],
+    "fallers": [
+      {
+        "path": "/es/regions/queenstown/",
+        "delta": -446
+      },
+      {
+        "path": "/zh/posts/venice-grand-canal/",
+        "delta": -37
+      },
+      {
+        "path": "/posts/bangkok-babymonster-world-tour-choom/",
+        "delta": -15
+      },
+      {
+        "path": "/ko/",
+        "delta": -14
+      },
+      {
+        "path": "/essentials/united-states/",
+        "delta": -12
+      },
+      {
+        "path": "/posts/shanghai-china-international-import-expo-ciie/",
+        "delta": -12
+      },
+      {
+        "path": "/posts/busan-g-star-2026/",
+        "delta": -12
+      },
+      {
+        "path": "/",
+        "delta": -11
+      }
+    ]
   }
 ]
