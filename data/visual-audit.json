@@ -48,6 +48,12 @@
   "reason": "patrol reject: Unrelated building scene, not marathon event related",
   "at": "2026-10-29T00:54:00.022Z"
  },
+ "abu-dhabi-adnoc-abu-dhabi-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/2/28/Al_Marfa_Beach_Adnoc_pump_8_-_panoramio.jpg": {
+  "slug": "abu-dhabi-adnoc-abu-dhabi-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Pier/beach scene unrelated to marathon event",
+  "at": "2026-11-01T23:01:49.661Z"
+ },
  "abu-dhabi-adnoc-abu-dhabi-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/4/44/Al_Marfa_Beach_Adnoc_pump_10_-_panoramio.jpg": {
   "slug": "abu-dhabi-adnoc-abu-dhabi-marathon",
   "verdict": "MISMATCH",
@@ -4023,6 +4029,12 @@
   "reason": "hand-reviewed: filename shares only \"ironman\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-11-01T08:22:04.993Z"
  },
+ "belek-ironman-70-3-turkey\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Kenneth_Bulthuis_US_-_Ironman_70.3_Budapest%2C_2014.08.23_%282%29.jpg/3840px-Kenneth_Bulthuis_US_-_Ironman_70.3_Budapest%2C_2014.08.23_%282%29.jpg": {
+  "slug": "belek-ironman-70-3-turkey",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Marathon race in urban venue, plausibly Belek",
+  "at": "2026-11-01T23:06:19.768Z"
+ },
  "belek-ironman-70-3-turkey\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/2016-08-14_Ironman_70.3_Germany_2016_by_Olaf_Kosinsky-90.jpg/3840px-2016-08-14_Ironman_70.3_Germany_2016_by_Olaf_Kosinsky-90.jpg": {
   "slug": "belek-ironman-70-3-turkey",
   "verdict": "MISMATCH",
@@ -5747,6 +5759,12 @@
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: filename shares only \"grey\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-30T08:31:03.070Z"
+ },
+ "calgary-113th-grey-cup\u0001https://upload.wikimedia.org/wikipedia/commons/8/8f/111th_Grey_Cup%2C_Ben_Major.jpg": {
+  "slug": "calgary-113th-grey-cup",
+  "verdict": "MATCH",
+  "reason": "patrol replace: CFL official at Grey Cup event on field",
+  "at": "2026-11-01T23:08:39.385Z"
  },
  "calgary-113th-grey-cup\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/111th_Grey_Cup%2C_Trophy.jpg/3840px-111th_Grey_Cup%2C_Trophy.jpg": {
   "slug": "calgary-113th-grey-cup",
@@ -10621,6 +10639,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Logo/banner graphic, not an actual photo of event",
   "at": "2026-10-22T00:08:49.434Z"
+ },
+ "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TOTAL_BWF_World_Champs_2015_Day_2_Petya_Nedelcheva.jpg/3840px-TOTAL_BWF_World_Champs_2015_Day_2_Petya_Nedelcheva.jpg": {
+  "slug": "hangzhou-bwf-world-tour-finals",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Badminton player at professional tournament venue",
+  "at": "2026-11-01T23:13:52.106Z"
  },
  "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TOTAL_BWF_World_Champs_2015_Day_2_Carla_Nelte.jpg/3840px-TOTAL_BWF_World_Champs_2015_Day_2_Carla_Nelte.jpg": {
   "slug": "hangzhou-bwf-world-tour-finals",
@@ -17529,6 +17553,12 @@
   "reason": "hand-reviewed: filename shares no word with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-29T08:14:15.797Z"
  },
+ "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cincinnati-Tennis-2015-ATP-WTA-57_%2820844323642%29.jpg/3840px-Cincinnati-Tennis-2015-ATP-WTA-57_%2820844323642%29.jpg": {
+  "slug": "london-atp-finals",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Watermark present; WTA women's event, not ATP Finals",
+  "at": "2026-11-01T23:23:12.876Z"
+ },
  "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Mahesh_Bhupathi_and_Rohan_Bopanna_at_the_ATP_World_Tennis_Finals.jpg/3840px-Mahesh_Bhupathi_and_Rohan_Bopanna_at_the_ATP_World_Tennis_Finals.jpg": {
   "slug": "london-atp-finals",
   "verdict": "MISMATCH",
@@ -22125,6 +22155,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Arena in Mexico City, not NYC event",
   "at": "2026-10-30T23:25:54.109Z"
+ },
+ "new-york-nba-christmas-day-games\u0001https://upload.wikimedia.org/wikipedia/commons/f/f7/Partido_NBA_-i---i-_%2832286995525%29.jpg": {
+  "slug": "new-york-nba-christmas-day-games",
+  "verdict": "MATCH",
+  "reason": "patrol replace: NBA game at Madison Square Garden, New York",
+  "at": "2026-11-01T23:24:23.969Z"
  },
  "new-york-nba-christmas-day-games\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Partido_NBA_-i---i-_%2832137594662%29.jpg/1280px-Partido_NBA_-i---i-_%2832137594662%29.jpg": {
   "slug": "new-york-nba-christmas-day-games",
@@ -32309,6 +32345,18 @@
   "reason": "hand-reviewed: filename shares only \"christmas\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-30T08:31:03.643Z"
  },
+ "tbilisi-tbilisi-christmas-market-new-year-village\u0001https://upload.wikimedia.org/wikipedia/commons/3/3e/Christmas_choral_concert_at_Murmansk_College_of_Arts%2C_2018.jpg": {
+  "slug": "tbilisi-tbilisi-christmas-market-new-year-village",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Choir performance indoors, not Christmas market/village scene",
+  "at": "2026-11-01T23:30:39.848Z"
+ },
+ "tbilisi-tbilisi-christmas-market-new-year-village\u0001https://upload.wikimedia.org/wikipedia/commons/4/45/Wikimedia%27s_Christmas_concert.jpg": {
+  "slug": "tbilisi-tbilisi-christmas-market-new-year-village",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Indoor classical concert, unrelated to Christmas market event",
+  "at": "2026-11-01T23:30:41.440Z"
+ },
  "tbilisi-tbilisi-christmas-market-new-year-village\u0001https://upload.wikimedia.org/wikipedia/commons/5/56/Orbeliani_Palace_Christmas_Decorations.jpg": {
   "slug": "tbilisi-tbilisi-christmas-market-new-year-village",
   "verdict": "MISMATCH",
@@ -32320,6 +32368,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Close-up of ornaments/basket, not market scene",
   "at": "2026-10-29T01:12:50.510Z"
+ },
+ "tbilisi-tbilisi-christmas-market-new-year-village\u0001https://upload.wikimedia.org/wikipedia/commons/d/d1/Kalanchoe_blossfeldiana_Christmas_Kalanchoe_%E1%83%99%E1%83%90%E1%83%9A%E1%83%90%E1%83%9C%E1%83%AE%E1%83%9D%E1%83%94.JPG": {
+  "slug": "tbilisi-tbilisi-christmas-market-new-year-village",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated subject: a potted plant, not event",
+  "at": "2026-11-01T23:30:38.299Z"
  },
  "tbilisi-tbilisi-christmas-market-new-year-village\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Salome_Zourabichvili_at_Armenian_Christmas_Mass.jpg/3840px-Salome_Zourabichvili_at_Armenian_Christmas_Mass.jpg": {
   "slug": "tbilisi-tbilisi-christmas-market-new-year-village",
@@ -32338,6 +32392,12 @@
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: filename shares only \"christmas\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-29T08:14:16.406Z"
+ },
+ "tbilisi-tbilisi-christmas-market-new-year-village\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Gigi_Ugulava_at_Catholic_Christmas.JPG/3840px-Gigi_Ugulava_at_Catholic_Christmas.JPG": {
+  "slug": "tbilisi-tbilisi-christmas-market-new-year-village",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Crowd portrait, unrelated to Christmas market event",
+  "at": "2026-11-01T23:30:36.636Z"
  },
  "tbilisi-tbilisi-international-film-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Soap_Film.jpg/3840px-Soap_Film.jpg": {
   "slug": "tbilisi-tbilisi-international-film-festival",

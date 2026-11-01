@@ -3233,7 +3233,11 @@
   "strasbourg-place-kleber\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Absolute_place_Kleber_02.jpg/1920px-Absolute_place_Kleber_02.jpg": 1920,
   "salta-san-martin-park\u0001https://upload.wikimedia.org/wikipedia/commons/d/dd/AMERICA_EN_BUS_%28WAYRA_01%29_-_EN_SALTA_-_PARQUE_SAN_MARTIN_-_panoramio.jpg": 2592,
   "verona-piazza-delle-erbe\u0001https://upload.wikimedia.org/wikipedia/commons/1/1f/Verona_-_Piazza_Erbe_as_seen_from_Lamberti_tower.jpg": 2320,
-  "varanasi-ramnagar-fort\u0001https://upload.wikimedia.org/wikipedia/commons/8/89/Entrance_area_of_Ramnagar_Fort.jpg": 1920
+  "varanasi-ramnagar-fort\u0001https://upload.wikimedia.org/wikipedia/commons/8/89/Entrance_area_of_Ramnagar_Fort.jpg": 1920,
+  "belek-ironman-70-3-turkey\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Kenneth_Bulthuis_US_-_Ironman_70.3_Budapest%2C_2014.08.23_%282%29.jpg/3840px-Kenneth_Bulthuis_US_-_Ironman_70.3_Budapest%2C_2014.08.23_%282%29.jpg": 3840,
+  "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TOTAL_BWF_World_Champs_2015_Day_2_Petya_Nedelcheva.jpg/3840px-TOTAL_BWF_World_Champs_2015_Day_2_Petya_Nedelcheva.jpg": 3840,
+  "calgary-113th-grey-cup\u0001https://upload.wikimedia.org/wikipedia/commons/8/8f/111th_Grey_Cup%2C_Ben_Major.jpg": 2555,
+  "new-york-nba-christmas-day-games\u0001https://upload.wikimedia.org/wikipedia/commons/f/f7/Partido_NBA_-i---i-_%2832286995525%29.jpg": 1920
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -3462,15 +3466,15 @@
   },
   "istanbul-lina-anatolian": {
    "width": 1024,
-   "attempts": 6,
-   "nextTry": "2026-11-01",
+   "attempts": 7,
+   "nextTry": "2026-11-08",
    "flaggedAt": "2026-09-17",
    "lastResult": "no-wider"
   },
   "jakarta-esa": {
    "width": 1080,
-   "attempts": 6,
-   "nextTry": "2026-11-01",
+   "attempts": 7,
+   "nextTry": "2026-11-08",
    "flaggedAt": "2026-09-17",
    "lastResult": "no-wider"
   },
@@ -3511,8 +3515,8 @@
   },
   "istanbul-bosphorus-view-point": {
    "width": 875,
-   "attempts": 5,
-   "nextTry": "2026-11-01",
+   "attempts": 6,
+   "nextTry": "2026-11-08",
    "flaggedAt": "2026-09-21",
    "lastResult": "no-wider"
   },
@@ -3753,5 +3757,5 @@
    "flaggedAt": "2026-10-21"
   }
  },
- "updated": "2026-11-01T14:38:29.326Z"
+ "updated": "2026-11-01T23:33:44.982Z"
 }

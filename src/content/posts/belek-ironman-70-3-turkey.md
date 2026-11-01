@@ -30,6 +30,16 @@ faq:
     a: The Roman theatre at Aspendos and the ruins of Perge are both close. Antalya's old town, Kaleiçi, Side's ruins and seafront, and Köprülü Canyon National Park are all good day trips.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Kenneth_Bulthuis_US_-_Ironman_70.3_Budapest%2C_2014.08.23_%282%29.jpg/3840px-Kenneth_Bulthuis_US_-_Ironman_70.3_Budapest%2C_2014.08.23_%282%29.jpg
+  credit: 'Photo: Derzsi Elekes Andor / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Kenneth_Bulthuis_US_-_Ironman_70.3_Budapest,_2014.08.23_(2).jpg
+  focus:
+    x: 65
+    'y': 29
+    top: 26
+    bottom: 32
 ---
 
 ## A triathlon on a resort coastline

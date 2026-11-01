@@ -6638,5 +6638,21 @@
    "x": 50,
    "y": 45
   }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Super_moon_over_City_of_London_from_Tate_Modern_2018-01-31_4.jpg/3840px-Super_moon_over_City_of_London_from_Tate_Modern_2018-01-31_4.jpg": {
+  "w": 3840,
+  "h": 2160,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Kura_River_in_the_central_part_of_Tbilisi%2C_2007-09-28.jpg/3840px-Kura_River_in_the_central_part_of_Tbilisi%2C_2007-09-28.jpg": {
+  "w": 3840,
+  "h": 2560,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
  }
 }

@@ -12,6 +12,14 @@ eventOffers:
   free: true
   currency: GEL
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Kura_River_in_the_central_part_of_Tbilisi%2C_2007-09-28.jpg/3840px-Kura_River_in_the_central_part_of_Tbilisi%2C_2007-09-28.jpg'
+  credit: 'Photo: EvgenyGenkin / Wikimedia Commons (CC BY 2.5)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Kura_River_in_the_central_part_of_Tbilisi,_2007-09-28.jpg'
+  focus:
+    x: 50
+    y: 50
 tags:
   - tbilisi
   - event

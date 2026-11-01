@@ -12,6 +12,14 @@ eventOrganizer:
   name: ATP Tour
   url: https://www.atptour.com
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Super_moon_over_City_of_London_from_Tate_Modern_2018-01-31_4.jpg/3840px-Super_moon_over_City_of_London_from_Tate_Modern_2018-01-31_4.jpg'
+  credit: 'Photo: Colin / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Super_moon_over_City_of_London_from_Tate_Modern_2018-01-31_4.jpg'
+  focus:
+    x: 50
+    y: 45
 tags:
   - london
   - event
