@@ -13,6 +13,14 @@ eventPerformer:
   name: '&Team'
   kind: group
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Manchester_%28England%2C_United_Kingdom%29_2025.jpg/3840px-Manchester_%28England%2C_United_Kingdom%29_2025.jpg'
+  credit: 'Photo: Jorge Franganillo / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Manchester_(England,_United_Kingdom)_2025.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - manchester

@@ -13,6 +13,14 @@ eventPerformer:
   name: Zhou Shen
   kind: person
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Sculpture_dedicated_to_the_people_of_China%2C_Changzhou_2.jpg/1280px-Sculpture_dedicated_to_the_people_of_China%2C_Changzhou_2.jpg'
+  credit: 'Photo: Slyronit (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'File:Sculpture dedicated to the people of China, Changzhou 2.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - changzhou

@@ -5,7 +5,6 @@ country: India
 region: Hyderabad
 category: restaurant
 pubDate: '2026-09-09'
-gallery: []
 tags:
   - hyderabad
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: Is this the same menu as the Bangkok original?
     a: Not entirely. The signature Phad Thai carries over, but eight dishes on the Hyderabad menu were created exclusively for this location and aren't on the Bangkok menu.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/11209416_N9YlOQCSVjRtIFsUHYQ1pTVGzIr6KVTW-pF5nFhtj_s.jpg
+  credit: 'Photo: Foursquare user content (Baan Phadthai)'
+  license: foursquare
+  source: https://foursquare.com/v/6a4fbc255d445532c501e0f4
+  focus:
+    x: 50
+    'y': 50
 ---
 
 Bangkok's most talked-about Phad Thai counter did not stay in Bangkok. Baan Phadthai, the stall-turned-restaurant that earned a Michelin Bib Gourmand for its noodles, has set up inside Sattva Knowledge City in Hyderabad, and it arrived with its signature dish intact.

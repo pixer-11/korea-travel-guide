@@ -13,6 +13,14 @@ eventPerformer:
   name: Splin
   kind: group
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Batumi%2C_Georgia_%2843%29.jpg/3840px-Batumi%2C_Georgia_%2843%29.jpg'
+  credit: 'Photo: tjabeljan / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Batumi,_Georgia_(43).jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - batumi

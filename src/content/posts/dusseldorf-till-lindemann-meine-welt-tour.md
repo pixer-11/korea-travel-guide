@@ -14,15 +14,15 @@ eventPerformer:
   kind: person
 eventFactsAsked: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/2/2e/Rammstein_playing_Fruhling_in_Paris%28BBK_Live_2010_Bilbao%29.jpg
-  credit: 'Photo: Victor Climent / Wikimedia Commons (Public domain)'
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Till_Lindemann_P.R.Brown.JPG/3840px-Till_Lindemann_P.R.Brown.JPG
+  credit: 'Photo: P. R. Brown / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Rammstein_playing_Fruhling_in_Paris(BBK_Live_2010_Bilbao).jpg
+  source: https://commons.wikimedia.org/wiki/File:Till_Lindemann_P.R.Brown.JPG
   focus:
-    x: 85
-    'y': 21
-    top: 15
-    bottom: 27
+    x: 42
+    'y': 33
+    top: 0
+    bottom: 65
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/1/13/Till_Lindemann_e_Christoph_Schneider_LIVE.JPG
     credit: 'Photo: Viscontino / Wikimedia Commons (Public domain)'
@@ -44,8 +44,6 @@ faq:
   - q: What else is there to do in Düsseldorf that weekend?
     a: Popular options are Altbier in the Altstadt brewery pubs, a walk along the Rheinuferpromenade, the Gehry buildings at the MedienHafen and the Königsallee. The Christmas markets usually open around late November.
 aiGenerated: true
-draft: true
-heldReason: wrong-venue-photo
 ---
 
 ## One night, one arena, one very loud frontman

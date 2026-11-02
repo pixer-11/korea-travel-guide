@@ -12,6 +12,14 @@ eventOrganizer:
   name: Hong Kong, China Association of Athletics Affiliates (HKAAA)
   url: https://hkaaa.com
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Hong_Kong_Skyline_Panorama_-_Dec_2008.jpg/3840px-Hong_Kong_Skyline_Panorama_-_Dec_2008.jpg'
+  credit: 'Photo: Diliff / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Hong_Kong_Skyline_Panorama_-_Dec_2008.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - hong kong

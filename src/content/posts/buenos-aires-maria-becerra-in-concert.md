@@ -13,7 +13,6 @@ eventPerformer:
   name: Maria Becerra
   kind: person
 eventFactsAsked: true
-gallery: []
 tags:
   - buenos aires
   - event
@@ -31,6 +30,14 @@ faq:
     a: Yes. It is a fully roofed arena that opened in 2019, so the shows go ahead whatever the November weather does.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/5/59/Mar%C3%ADa_Becerra_en_vivo_2022_2.jpg
+  credit: 'Photo: Santi Miramon / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Mar%C3%ADa_Becerra_en_vivo_2022_2.jpg
+  focus:
+    x: 50
+    'y': 50
 ---
 
 ## Two weeks of "La Nena de Argentina"

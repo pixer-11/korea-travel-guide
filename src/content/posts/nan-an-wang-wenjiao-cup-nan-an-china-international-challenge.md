@@ -12,6 +12,14 @@ eventOrganizer:
   name: Chinese Badminton Association
   url: https://badmintonasia.org
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/5/5c/Nan%27an%2C_Quanzhou%2C_Fujian%2C_China_-_panoramio_%283%29.jpg'
+  credit: 'Photo: Wa18 / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Nan%27an,_Quanzhou,_Fujian,_China_-_panoramio_(3).jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - nan'an

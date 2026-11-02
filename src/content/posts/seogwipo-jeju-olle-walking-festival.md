@@ -13,7 +13,6 @@ eventOffers:
   free: true
   currency: KRW
 eventFactsAsked: true
-gallery: []
 tags:
   - seogwipo
   - event
@@ -31,6 +30,14 @@ faq:
     a: 'It is mostly flat: farm lanes, beach paths and village alleys, with each route taking most of a day. Walkers usually bring a windproof layer for the November coast and grippy shoes for wet basalt.'
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/3/38/Jeju_Olle_Route_16.jpg
+  credit: 'Photo: Jeju Olle Foundation / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Jeju_Olle_Route_16.jpg
+  focus:
+    x: 60
+    'y': 60
 ---
 
 Knee-high walls of black, pitted basalt run alongside the path. Behind them sit fields of root vegetables, and beyond those the sea is very pale over sand and dark over lava rock. Ribbons tied to fence posts mark the way in two colours. That is what Jeju Olle Routes 19 and 20 look like, and it is where the Jeju Olle Walking Festival takes place from November 5 to 7, 2026.

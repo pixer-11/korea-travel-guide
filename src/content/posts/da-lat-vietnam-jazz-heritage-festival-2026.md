@@ -16,6 +16,14 @@ eventOffers:
   free: true
   currency: VND
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Da_Lat_-_Viet_Nam.jpg/3840px-Da_Lat_-_Viet_Nam.jpg'
+  credit: 'Photo: Tuong Lam Photos / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Da_Lat_-_Viet_Nam.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - da lat

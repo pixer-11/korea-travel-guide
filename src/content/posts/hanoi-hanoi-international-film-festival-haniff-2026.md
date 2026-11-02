@@ -13,6 +13,14 @@ eventOrganizer:
   name: Ministry of Culture, Sports and Tourism and Hanoi People's Committee
   url: https://haniff.vn/en/
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Dai_Trung_gate%2C_Temple_of_Literature%2C_Hanoi%2C_Vietnam%2C_20240123_0929_3066.jpg/3840px-Dai_Trung_gate%2C_Temple_of_Literature%2C_Hanoi%2C_Vietnam%2C_20240123_0929_3066.jpg'
+  credit: 'Photo: Jakub Hałun / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Dai_Trung_gate,_Temple_of_Literature,_Hanoi,_Vietnam,_20240123_0929_3066.jpg'
+  focus:
+    x: 55
+    y: 45
 gallery: []
 tags:
   - hanoi

@@ -10,6 +10,14 @@ eventEndDate: '2026-12-20'
 eventRecurring: true
 eventVenue: Ma On Shan
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Panorama_of_Hong_Kong_Harbour_from_The_Peak_dllu.jpg/3840px-Panorama_of_Hong_Kong_Harbour_from_The_Peak_dllu.jpg'
+  credit: 'Photo: Dllu / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Panorama_of_Hong_Kong_Harbour_from_The_Peak_dllu.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - hong kong

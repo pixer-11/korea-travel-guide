@@ -15,6 +15,14 @@ eventPerformer:
   name: Supper Moment
   kind: group
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Legislative_Council_of_the_Macau_Special_Administrative_Region_05-02-2023%282%29.jpg/3840px-Legislative_Council_of_the_Macau_Special_Administrative_Region_05-02-2023%282%29.jpg'
+  credit: 'Photo: LN9267 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Legislative_Council_of_the_Macau_Special_Administrative_Region_05-02-2023(2).jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - macau

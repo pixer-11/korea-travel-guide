@@ -13,6 +13,14 @@ eventOffers:
   free: true
   currency: JPY
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Temple_of_Latter-day_Saints_in_Fukuoka%2C_Japan_20170520.jpg/3840px-Temple_of_Latter-day_Saints_in_Fukuoka%2C_Japan_20170520.jpg'
+  credit: 'Photo: そらみみ / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Temple_of_Latter-day_Saints_in_Fukuoka,_Japan_20170520.jpg'
+  focus:
+    x: 50
+    y: 40
 gallery: []
 tags:
   - fukuoka

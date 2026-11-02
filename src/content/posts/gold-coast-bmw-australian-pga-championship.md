@@ -12,6 +12,14 @@ eventOrganizer:
   name: DP World Tour
   url: https://www.europeantour.com
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beach_fishing_at_the_Gold_Coast%2C_Queensland%2C_Australia_02.jpg/3840px-Beach_fishing_at_the_Gold_Coast%2C_Queensland%2C_Australia_02.jpg'
+  credit: 'Photo: Kgbo / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Beach_fishing_at_the_Gold_Coast,_Queensland,_Australia_02.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - gold coast

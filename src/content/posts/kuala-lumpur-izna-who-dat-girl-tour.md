@@ -14,13 +14,15 @@ eventPerformer:
   kind: group
 eventFactsAsked: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Zepp_Kuala_Lumpur.jpg/3840px-Zepp_Kuala_Lumpur.jpg
-  credit: 'Photo: LegendaryLim / Wikimedia Commons (CC BY-SA 4.0)'
+  url: https://upload.wikimedia.org/wikipedia/commons/4/4f/241125_izna.png
+  credit: 'Photo: TenAsia / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Zepp_Kuala_Lumpur.jpg
+  source: https://commons.wikimedia.org/wiki/File:241125_izna.png
   focus:
-    x: 60
-    'y': 25
+    x: 50
+    'y': 19
+    top: 7
+    bottom: 30
 gallery: []
 tags:
   - kuala lumpur

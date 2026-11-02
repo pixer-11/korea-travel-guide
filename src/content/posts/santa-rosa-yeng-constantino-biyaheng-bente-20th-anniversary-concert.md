@@ -13,6 +13,14 @@ eventPerformer:
   name: Yeng Constantino
   kind: person
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/9171Barangays_Santa_Rosa_Laguna_Landmarks_06.jpg/1280px-9171Barangays_Santa_Rosa_Laguna_Landmarks_06.jpg'
+  credit: 'Photo: Judgefloro (CC0)'
+  license: wikimedia
+  source: 'File:9171Barangays Santa Rosa Laguna Landmarks 06.jpg'
+  focus:
+    x: 50
+    y: 35
 gallery: []
 tags:
   - santa rosa

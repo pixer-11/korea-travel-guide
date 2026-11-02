@@ -13,6 +13,14 @@ eventPerformer:
   name: Koyote
   kind: group
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Vancouver_dusk_pano.jpg/3840px-Vancouver_dusk_pano.jpg'
+  credit: 'Photo: Mfield, Matthew Field, http://www.photography.mattfield.com / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Vancouver_dusk_pano.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - vancouver

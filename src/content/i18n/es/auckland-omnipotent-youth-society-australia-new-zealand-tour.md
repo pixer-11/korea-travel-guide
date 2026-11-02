@@ -2,85 +2,85 @@
 lang: es
 slug: auckland-omnipotent-youth-society-australia-new-zealand-tour
 srcHash: '86335538557c'
-title: 'Omnipotent Youth Society en Australia y Nueva Zelanda: fechas, entradas y recinto en Auckland'
-description: La gira de Omnipotent Youth Society por Australia y Nueva Zelanda llega al Powerstation de Auckland el 1 de noviembre de 2026.
-quickAnswer: El 1 de noviembre de 2026, la gira de Omnipotent Youth Society por Australia y Nueva Zelanda hace parada en el Powerstation de Auckland. Esta sala de tamaño medio, con público de pie, se encuentra en el 33 Mount Eden Road, a poca distancia al sur del centro. Tanto los enlaces de venta como el calendario completo de la gira proceden del promotor y de la ficha del concierto que publica la propia sala.
+title: 'Gira de Omnipotent Youth Society por Australia y Nueva Zelanda: fechas, entradas y recinto (Auckland)'
+description: La gira de Omnipotent Youth Society por Australia y Nueva Zelanda tenía su parada de Auckland anunciada en la Powerstation para el 1 de noviembre de 2026.
+quickAnswer: 'La gira de Omnipotent Youth Society por Australia y Nueva Zelanda tenía anunciada su fecha de Auckland en la Powerstation: el 1 de noviembre de 2026. Esta sala de aforo medio, con público de pie, se encuentra en el 33 de Mount Eden Road, justo al sur del centro. Tanto los enlaces de venta de entradas como el calendario completo de la gira procedían del promotor y de la ficha del concierto publicada por la propia sala.'
 faq:
-  - q: ¿Dónde se celebra el concierto de Omnipotent Youth Society en Auckland?
-    a: En el Powerstation, situado en el 33 Mount Eden Road, en el límite de Eden Terrace y a poca distancia al sur del centro de Auckland. Es una sala de formato club, con público de pie, barra y una planta superior elevada.
-  - q: ¿Qué día toca Omnipotent Youth Society en Auckland?
-    a: El 1 de noviembre de 2026. Es la única parada en Nueva Zelanda de la gira que el grupo realiza por Australia y Nueva Zelanda.
-  - q: ¿Cómo se llega al Powerstation sin coche?
-    a: Puede ir caminando unos 15 minutos desde Karangahape Road o tomar en el centro alguno de los autobuses que recorren Mount Eden Road con gran frecuencia. Como hay poco aparcamiento en la calle por la zona, la mayoría del público no va en coche.
-  - q: ¿Hace falta entender mandarín para disfrutar del concierto?
-    a: No. Las canciones del grupo son largas y en gran parte instrumentales, y en ellas mandan la guitarra y la trompeta. Aun así, leer antes las traducciones de temas como «Matar a ese hombre de Shijiazhuang» enriquece mucho la experiencia. Además, buena parte del público suele cantar las letras en mandarín.
-  - q: ¿Qué documento de identidad se necesita para pedir una copa en el Powerstation?
-    a: En Nueva Zelanda la edad mínima para consumir alcohol es de 18 años. Se aceptan el pasaporte, el permiso de conducir neozelandés y la tarjeta Kiwi Access. Es posible que no se admitan permisos de conducir extranjeros.
+  - q: ¿Dónde era el concierto de Omnipotent Youth Society en Auckland?
+    a: En la Powerstation, situada en el 33 de Mount Eden Road, en el límite de Eden Terrace y justo al sur del centro de Auckland. Se trata de una sala de tamaño club, con público de pie, barra y una planta superior elevada.
+  - q: ¿Qué día tocaba Omnipotent Youth Society en Auckland?
+    a: El 1 de noviembre de 2026. Era la única parada en Nueva Zelanda de la gira del grupo por Australia y Nueva Zelanda.
+  - q: ¿Cómo se llegaba a la Powerstation sin coche?
+    a: A pie, en unos 15 minutos desde Karangahape Road, o en alguno de los frecuentes autobuses que recorren Mount Eden Road desde el centro. Como en los alrededores apenas hay aparcamiento en la calle, la mayoría del público no iba en coche.
+  - q: ¿Hacía falta entender mandarín para disfrutar del concierto?
+    a: No. Las canciones del grupo son largas y en su mayor parte instrumentales, con la guitarra y la trompeta como protagonistas. Haber leído antes traducciones al inglés de temas como «Matar a ese hombre de Shijiazhuang» enriquecía mucho la experiencia, y buena parte del público suele corear las letras en mandarín.
+  - q: ¿Qué documento se pedía para comprar una bebida en la Powerstation?
+    a: En Nueva Zelanda la edad mínima para consumir alcohol es de 18 años. Se aceptaban el pasaporte, el permiso de conducir neozelandés o la tarjeta Kiwi Access. Los permisos de conducir extranjeros podían no ser válidos.
 ---
 
 ## Un grupo de Hebei en Mount Eden Road
 
-Auckland recibe el 1 de noviembre de 2026 a una banda conocida sobre todo por una canción dedicada a Shijiazhuang. Omnipotent Youth Society (万能青年旅店, que sus seguidores suelen abreviar como Wanqing) trae su gira por Australia y Nueva Zelanda al Powerstation, una sala de formato club situada en la parte baja de Mount Eden Road.
+Conocido sobre todo por una canción sobre Shijiazhuang, este grupo tenía Auckland en su calendario. La fecha anunciada era el 1 de noviembre de 2026. Omnipotent Youth Society (万能青年旅店, a quienes casi todos llaman simplemente Wanqing) llevaba su gira por Australia y Nueva Zelanda a la Powerstation, una sala de tamaño club situada en la parte baja de Mount Eden Road.
 
-Verlos tan de cerca es una oportunidad poco común. En China, Wanqing actúa en los grandes escenarios de los festivales. Aquí, en cambio, la sala tiene capacidad para unas mil personas y nadie queda lejos de la trompeta.
+Era una ocasión poco habitual de verlos de cerca. En China, Wanqing actúa en los grandes escenarios de los festivales. Aquí, en cambio, el recinto tenía cabida para unas mil personas, y nadie quedaba lejos de la trompeta.
 
 ## La trompeta de «Matar a ese hombre de Shijiazhuang»
 
-Conviene empezar por la canción que todo el mundo espera. «杀死那个石家庄人» («Matar a ese hombre de Shijiazhuang») cierra el primer disco del grupo, publicado en 2010. Es un retrato lento y denso de una ciudad industrial desgastada que desemboca en una larga melodía de trompeta que los aficionados al rock chino tararean de memoria.
+Todo empieza por la canción que el público espera. «杀死那个石家庄人» («Matar a ese hombre de Shijiazhuang») cierra el primer álbum del grupo, publicado en 2010. Es un retrato lento y denso de una ciudad industrial desgastada, y termina con una larga melodía de trompeta que los aficionados al rock chino saben tararear de memoria.
 
-La banda se formó en los años noventa en Shijiazhuang, en la provincia de Hebei. Durante una década apenas publicó nada, hasta que lanzó el álbum homónimo que la hizo famosa. Tras otra larga pausa llegó en 2020 su segundo disco, 冀西南林路行 (*Ji Xi Nan Lin Lu Xing*).
+El grupo se formó en los años noventa en Shijiazhuang, en la provincia de Hebei. Durante una década apenas publicó nada, hasta que lanzó el disco homónimo que le dio la fama. Tras otra larga pausa llegó en 2020 un segundo álbum, 冀西南林路行 (*Ji Xi Nan Lin Lu Xing*).
 
-Su música es paciente y de gran densidad:
+Su música es paciente y densa:
 
-- En lugar de estrofas y estribillos, las guitarras van construyendo el tema a lo largo de varios minutos.
-- Los metales, y en especial la trompeta, llevan la melodía que normalmente correspondería al cantante.
-- Las letras, en mandarín, son poéticas e indirectas, y a menudo hablan de los pueblos de Hebei y de vidas corrientes.
-- Como las canciones son largas, el repertorio incluye menos temas que un concierto de pop.
+- En lugar de estrofas y estribillos, líneas de guitarra que crecen durante varios minutos
+- Metales, sobre todo la trompeta, que llevan la melodía en el lugar que normalmente ocuparía la voz
+- Letras en mandarín, poéticas y sugerentes, que a menudo hablan de pueblos de Hebei y de vidas corrientes
+- Canciones largas, por lo que el repertorio de un concierto incluye menos temas que el de un espectáculo de pop
 
-Incluso quien llega sin saber nada de todo esto suele seguir las canciones sin problema, porque es la trompeta la que se encarga de casi todo.
+Incluso quien llega sin saber nada de esto suele seguir las canciones sin dificultad, porque la trompeta se encarga de explicar casi todo.
 
-## El Powerstation por dentro
+## La Powerstation por dentro
 
-El Powerstation es una de las salas de música en directo más veteranas de Auckland: desde finales de los ochenta acoge giras de rock y de música independiente. Su distribución es sencilla. Frente al escenario se extiende una pista plana para el público de pie; hay además una barra y una planta superior elevada desde la que se domina la sala.
+La Powerstation es una de las salas de música en directo con más trayectoria de Auckland. Desde finales de los años ochenta acoge giras de grupos de rock e indie. Su distribución es sencilla: una pista plana para el público de pie frente al escenario, una barra y una planta superior elevada desde la que se domina a la multitud.
 
-En la pista el sonido es más potente y es allí donde el público canta a coro. Desde arriba se ve mejor al grupo al completo, algo muy útil en un concierto en el que los metales y las guitarras importan tanto como la voz. Por eso los asistentes de menor estatura suelen subir para no perderse nada.
+En la pista el sonido es más potente y es allí donde se corean las canciones. Desde arriba se ve mejor al grupo entero, algo valioso en un concierto en el que los metales y los guitarristas pesan tanto como el cantante. Por eso los espectadores de menor estatura suelen subir para tener mejor visibilidad.
 
-El horario de apertura de puertas, las restricciones de edad y las normas sobre bolsos figuran en la ficha que el Powerstation publica para cada concierto. Como en la mayoría de los conciertos en sala, las puertas suelen abrirse bastante antes de que el grupo salga al escenario.
+La hora de apertura de puertas, las restricciones de edad y la política sobre bolsos figuraban en la ficha de cada concierto publicada por la Powerstation. Como en la mayoría de los conciertos en salas, las puertas suelen abrir bastante antes de que el grupo salga al escenario.
 
-## Cómo llegar al 33 Mount Eden Road
+## Cómo llegar al 33 de Mount Eden Road
 
-La sala se encuentra en el 33 Mount Eden Road, en el límite de Eden Terrace, lo bastante cerca del centro como para ir a pie.
+La sala está en el 33 de Mount Eden Road, en el límite de Eden Terrace, lo bastante cerca del centro como para ir andando.
 
-- **A pie:** desde Karangahape Road, bajando más allá de Symonds Street, se tarda unos 15 minutos.
-- **En autobús:** desde el centro, los frecuentes autobuses de Mount Eden Road pasan por delante de la sala.
-- **En VTC o taxi:** el punto de bajada está en la misma Mount Eden Road, que se llena de gente cuando termina el concierto.
-- **En coche:** el aparcamiento en la calle es escaso en los alrededores, así que la mayoría del público prefiere no conducir.
+- **A pie:** desde Karangahape Road, el paseo cuesta abajo pasando por Symonds Street dura unos 15 minutos.
+- **En autobús:** los frecuentes autobuses de Mount Eden Road pasan por delante de la sala desde el centro.
+- **En VTC o taxi:** el punto de bajada está en la propia Mount Eden Road, que se llena de gente al terminar los conciertos.
+- **En coche:** en los alrededores apenas hay aparcamiento en la calle, y la mayoría del público prescinde del coche.
 
-Tras los bises, muchos asistentes vuelven caminando hacia Karangahape Road o hacia el centro en lugar de esperar un coche a la salida.
+Tras los bises, mucha gente prefiere volver a pie hacia Karangahape Road o el centro antes que esperar un coche a la salida.
 
-## Cantar a coro en el Powerstation
+## Cantar a coro en la Powerstation
 
-En un concierto de Wanqing es el público el que marca el ambiente. Auckland cuenta con una amplia comunidad china, con numerosos estudiantes y jóvenes profesionales, por lo que es probable que buena parte de los asistentes se sepa cada verso en mandarín. Lo habitual es que canten estrofas enteras junto al grupo, y el solo de trompeta de la canción final suele recibirse con un clamor.
+En un concierto de Wanqing es el público quien marca el ambiente. Auckland cuenta con una amplia comunidad china, con muchos estudiantes y jóvenes profesionales, así que era probable que buena parte de los asistentes se supiera cada verso en mandarín. Lo habitual es que coreen estrofas enteras al grupo, y el solo de trompeta de la canción final suele recibirse con un rugido.
 
-Algunos consejos para que la noche salga redonda:
+Algunos detalles hacían la noche más llevadera:
 
-- **Documentación en la barra.** En Nueva Zelanda la edad mínima para beber alcohol es de 18 años. El personal acepta el pasaporte, el permiso de conducir neozelandés o la tarjeta Kiwi Access. Los permisos extranjeros pueden ser rechazados.
-- **Pagos.** En las salas neozelandesas lo normal es pagar con tarjeta o sin contacto. No se espera propina para el personal de barra.
-- **Móviles.** Los seguidores graban los grandes momentos, pero en una pista plana quien mantiene el teléfono en alto durante toda una canción tapa la vista a los de detrás.
-- **Títulos de las canciones.** Los aficionados suelen referirse a los temas por su nombre chino. Uno de los más pedidos es 秦皇岛 («Qinhuangdao»), del primer disco, que debe su nombre a esa ciudad costera.
+- **Documentación en la barra.** En Nueva Zelanda la edad mínima para consumir alcohol es de 18 años. El personal de la barra aceptaba el pasaporte, el permiso de conducir neozelandés o la tarjeta Kiwi Access. Los permisos extranjeros podían ser rechazados.
+- **Pagos.** En las salas neozelandesas lo normal es pagar con tarjeta o sin contacto. No se espera propina para el personal de la barra.
+- **Móviles.** Los aficionados graban los grandes momentos, pero en una pista plana un móvil en alto durante toda una canción tapa la vista a quienes están detrás.
+- **Títulos de las canciones.** Los seguidores suelen referirse a los temas por su nombre chino. Uno de los más pedidos es 秦皇岛 («Qinhuangdao»), del primer álbum, que lleva el nombre de esa ciudad costera.
 
-Si no habla mandarín, busque antes las traducciones de las letras. Las canciones largas y pausadas le llegarán de otra manera.
+Para quien no habla mandarín, leer de antemano las traducciones al inglés de las letras cambia por completo la manera de recibir esas canciones largas y pausadas.
 
-## Fechas y entradas para el concierto de Auckland
+## Fechas y entradas del concierto de Auckland
 
-El concierto de Auckland tendrá lugar el 1 de noviembre de 2026 en el Powerstation. Forma parte de una gira más amplia por Australia y Nueva Zelanda cuyas demás fechas se celebran al otro lado del mar de Tasmania, en Australia.
+La cita de Auckland era el 1 de noviembre de 2026, en la Powerstation. Formaba parte de una gira más amplia por Australia y Nueva Zelanda cuyas demás fechas se repartían al otro lado del mar de Tasmania, en Australia.
 
-Las entradas para el Powerstation se venden a través de la plataforma colaboradora del promotor, enlazada desde la página del evento de la sala, donde también se indican los precios y las distintas categorías. Quienes viajan desde el extranjero para asistir suelen combinarlo con alguna fecha en Australia, ya que ambos países están a un vuelo corto de distancia.
+Las entradas para la Powerstation se vendían a través de la plataforma asociada al promotor, enlazada desde la página del evento en la web de la sala. Allí aparecían los precios y las distintas categorías de entrada. Los aficionados que viajaban desde el extranjero para el concierto solían combinarlo con alguna fecha australiana, ya que entre ambos países hay un vuelo corto.
 
 ## Antes y después, en Karangahape Road
 
-El barrio del Powerstation está muy bien preparado para una noche de concierto. A pocos minutos a pie hacia el norte se encuentra Karangahape Road, a la que los locales llaman K Road. Bares, restaurantes que cierran tarde y pequeñas salas de música se suceden a lo largo de la calle, y allí acaba buena parte del público al terminar el concierto.
+El barrio de la Powerstation se presta bien a una noche de concierto. A pocos minutos a pie hacia el norte se encuentra Karangahape Road, a la que en la ciudad todos llaman K Road. Está repleta de bares, locales de comida que cierran tarde y pequeñas salas de música, y es allí donde termina buena parte del público tras el concierto.
 
-En sentido contrario, Mount Eden Road sube hacia el pueblo de Mount Eden, cuyos cafés y restaurantes son ideales para cenar temprano. Por encima se alza Maungawhau / Mount Eden, un cono volcánico con un cráter profundo y vistas a todo el istmo. Lo mejor es recorrerlo de día, antes del concierto.
+En dirección contraria, Mount Eden Road sube hacia el barrio de Mount Eden, cuyos cafés y restaurantes encajan bien con una cena temprana. Por encima se alza Maungawhau / Mount Eden, un cono volcánico con un cráter profundo y vistas sobre todo el istmo. Lo ideal era recorrerlo de día, antes del concierto.
 
-Quienes no disponen de coche suelen alojarse en el centro o en los alrededores de K Road, desde donde a la sala se llega a pie o con un solo trayecto en autobús.
+Quienes viajaban sin coche solían alojarse en el centro o en los alrededores de K Road. Desde allí, la sala quedaba a un paseo o a un solo trayecto en autobús.

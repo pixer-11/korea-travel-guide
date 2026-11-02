@@ -9,6 +9,14 @@ eventStartDate: '2026-11-06'
 eventEndDate: '2026-11-10'
 eventRecurring: true
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/TRIAL_MART%2C_Gimhae%2C_South_Korea%2C_2015-05-07.jpg/1280px-TRIAL_MART%2C_Gimhae%2C_South_Korea%2C_2015-05-07.jpg'
+  credit: 'Photo: Prime number (CC BY 4.0)'
+  license: wikimedia
+  source: 'File:TRIAL MART, Gimhae, South Korea, 2015-05-07.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - gimhae

@@ -12,6 +12,14 @@ eventVenue: Ortigas East
 eventOffers:
   url: https://www.takbo.ph/
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/9317Santolan_Pasig_City_Roads_Buildings_Landmarks_36.jpg/1280px-9317Santolan_Pasig_City_Roads_Buildings_Landmarks_36.jpg'
+  credit: 'Photo: Judgefloro (CC0)'
+  license: wikimedia
+  source: 'File:9317Santolan Pasig City Roads Buildings Landmarks 36.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - pasig

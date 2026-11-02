@@ -3267,55 +3267,61 @@
   "tbilisi-tbilisi-christmas-market-new-year-village\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Kura_River_in_the_central_part_of_Tbilisi%2C_2007-09-28.jpg/3840px-Kura_River_in_the_central_part_of_Tbilisi%2C_2007-09-28.jpg": 3840,
   "tbilisi-till-lindemann-tbilisi\u0001https://upload.wikimedia.org/wikipedia/commons/9/98/RichardZK.JPG": 3072,
   "toronto-toronto-christmas-market-distillery-winter-village\u0001https://upload.wikimedia.org/wikipedia/commons/f/fc/Toronto_Christmas_Market_2018_lights.jpg": 3456,
-  "toronto-toronto-santa-claus-parade\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Santa_Claus_Parade_%28Toronto%29_%2822431838263%29.jpg/3840px-Santa_Claus_Parade_%28Toronto%29_%2822431838263%29.jpg": 3840
+  "toronto-toronto-santa-claus-parade\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Santa_Claus_Parade_%28Toronto%29_%2822431838263%29.jpg/3840px-Santa_Claus_Parade_%28Toronto%29_%2822431838263%29.jpg": 3840,
+  "dusseldorf-till-lindemann-meine-welt-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Till_Lindemann_P.R.Brown.JPG/3840px-Till_Lindemann_P.R.Brown.JPG": 3840,
+  "china-victor-badminton-asia-senior-championships\u0001https://upload.wikimedia.org/wikipedia/commons/1/1f/Victor_Svendsen_2026.jpg": 2214,
+  "buenos-aires-maria-becerra-in-concert\u0001https://upload.wikimedia.org/wikipedia/commons/5/59/Mar%C3%ADa_Becerra_en_vivo_2022_2.jpg": 1273,
+  "seogwipo-jeju-olle-walking-festival\u0001https://upload.wikimedia.org/wikipedia/commons/3/38/Jeju_Olle_Route_16.jpg": 2221,
+  "hyderabad-baan-phadthai\u0001https://fastly.4sqi.net/img/general/original/11209416_N9YlOQCSVjRtIFsUHYQ1pTVGzIr6KVTW-pF5nFhtj_s.jpg": 1080,
+  "taipei-kenshi-yonezu-concert\u0001https://upload.wikimedia.org/wikipedia/commons/2/21/Taipei_dome.png": 3822
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
    "width": 1080,
-   "attempts": 13,
-   "nextTry": "2026-11-02",
+   "attempts": 14,
+   "nextTry": "2026-11-09",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "ajman-souryana-restaurant-and-cafe": {
    "width": 1100,
-   "attempts": 13,
-   "nextTry": "2026-11-02",
+   "attempts": 14,
+   "nextTry": "2026-11-09",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "goa-fort-aguada": {
    "width": 960,
-   "attempts": 13,
-   "nextTry": "2026-11-02",
+   "attempts": 14,
+   "nextTry": "2026-11-09",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "hue-maison-trang": {
    "width": 1080,
-   "attempts": 13,
-   "nextTry": "2026-11-02",
+   "attempts": 14,
+   "nextTry": "2026-11-09",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "jeonju-jeonju-hanok-village-cafe-masirange": {
    "width": 1080,
-   "attempts": 13,
-   "nextTry": "2026-11-02",
+   "attempts": 14,
+   "nextTry": "2026-11-09",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "phuket-day-night-of-phuket": {
    "width": 1080,
-   "attempts": 13,
-   "nextTry": "2026-11-02",
+   "attempts": 14,
+   "nextTry": "2026-11-09",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "provence-lavender-sunflower-field": {
    "width": 1080,
-   "attempts": 13,
-   "nextTry": "2026-11-02",
+   "attempts": 14,
+   "nextTry": "2026-11-09",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
@@ -3328,8 +3334,8 @@
   },
   "el-nido-taraw-cliff": {
    "width": 960,
-   "attempts": 12,
-   "nextTry": "2026-11-02",
+   "attempts": 13,
+   "nextTry": "2026-11-09",
    "flaggedAt": "2026-08-10",
    "lastResult": "no-wider"
   },
@@ -3785,7 +3791,13 @@
    "attempts": 0,
    "nextTry": "2026-10-21",
    "flaggedAt": "2026-10-21"
+  },
+  "hyderabad-baan-phadthai": {
+   "width": 1080,
+   "attempts": 0,
+   "nextTry": "2026-11-02",
+   "flaggedAt": "2026-11-02"
   }
  },
- "updated": "2026-11-02T00:26:02.471Z"
+ "updated": "2026-11-02T01:14:54.598Z"
 }

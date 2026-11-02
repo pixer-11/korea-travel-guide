@@ -12,6 +12,14 @@ eventOrganizer:
   name: All India Chess Federation (AICF)
   url: https://aicf.in
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/A_torana%2C_gate_to_sacred_precinct%2C_Warangal_Fort_Park_and_Museum%2C_Telangana%2C_India_-_8.jpg/1280px-A_torana%2C_gate_to_sacred_precinct%2C_Warangal_Fort_Park_and_Museum%2C_Telangana%2C_India_-_8.jpg'
+  credit: 'Photo: Ms Sarah Welch (CC0)'
+  license: wikimedia
+  source: 'File:A torana, gate to sacred precinct, Warangal Fort Park and Museum, Telangana, India - 8.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - telangana

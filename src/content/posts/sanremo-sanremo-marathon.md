@@ -9,6 +9,14 @@ eventStartDate: '2026-12-06'
 eventEndDate: '2026-12-06'
 eventRecurring: true
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Via_Giacomo_Matteotti_Sanremo_1.jpg/1280px-Via_Giacomo_Matteotti_Sanremo_1.jpg'
+  credit: 'Photo: kallerna (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'File:Via Giacomo Matteotti Sanremo 1.jpg'
+  focus:
+    x: 50
+    y: 40
 gallery: []
 tags:
   - sanremo

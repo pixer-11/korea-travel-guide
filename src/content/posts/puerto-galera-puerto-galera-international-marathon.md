@@ -13,6 +13,14 @@ eventOrganizer:
   name: Maharlika Trail Series
   url: https://maharlikatrailseries.com/
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/2/24/Puerto_Galera_coral.jpg'
+  credit: 'Photo: Firth m / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Puerto_Galera_coral.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - puerto galera

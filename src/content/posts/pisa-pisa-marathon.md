@@ -9,6 +9,14 @@ eventStartDate: '2026-12-20'
 eventEndDate: '2026-12-20'
 eventRecurring: true
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/8/85/Pisa_-_Cattedrale_da_Battistero_02.jpg'
+  credit: 'Photo: Luca Aless / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Pisa_-_Cattedrale_da_Battistero_02.jpg'
+  focus:
+    x: 50
+    y: 40
 gallery: []
 tags:
   - pisa

@@ -10,6 +10,14 @@ eventEndDate: '2026-11-21'
 eventRecurring: true
 eventVenue: Sydney International Regatta Centre
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Sydney_Harbour_Bridge_from_Circular_Quay.jpg/3840px-Sydney_Harbour_Bridge_from_Circular_Quay.jpg'
+  credit: 'Photo: JJ Harrison (https://www.jjharrison.com.au/) / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Sydney_Harbour_Bridge_from_Circular_Quay.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - sydney

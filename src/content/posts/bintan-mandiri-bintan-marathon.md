@@ -12,6 +12,14 @@ eventVenue: Lagoi Bay
 eventOrganizer:
   name: Bank Mandiri
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Village_%40_Bintan%2C_Indonesia_%E6%B0%91%E4%B8%B9_03-12-12_-_panoramio.jpg/1280px-Village_%40_Bintan%2C_Indonesia_%E6%B0%91%E4%B8%B9_03-12-12_-_panoramio.jpg'
+  credit: 'Photo: jaysonh (CC BY 3.0)'
+  license: wikimedia
+  source: 'File:Village @ Bintan, Indonesia 民丹 03-12-12 - panoramio.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - bintan

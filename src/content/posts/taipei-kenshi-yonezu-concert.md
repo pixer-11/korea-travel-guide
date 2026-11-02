@@ -13,7 +13,6 @@ eventPerformer:
   name: Kenshi Yonezu
   kind: person
 eventFactsAsked: true
-gallery: []
 tags:
   - taipei
   - event
@@ -31,6 +30,14 @@ faq:
     a: Songshan Cultural and Creative Park is right next door, Sun Yat-sen Memorial Hall is across the road, and Taipei 101 is about a 20-minute walk south.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/2/21/Taipei_dome.png
+  credit: 'Photo: Bpp88520 / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Taipei_dome.png
+  focus:
+    x: 48
+    'y': 50
 ---
 
 ## One night at Taipei Dome

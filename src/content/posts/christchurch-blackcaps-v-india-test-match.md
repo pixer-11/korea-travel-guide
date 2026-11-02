@@ -10,6 +10,14 @@ eventEndDate: '2026-12-01'
 eventRecurring: false
 eventVenue: One New Zealand Stadium
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Christchurch_Arts_Centre%2C_Christchurch%2C_New_Zealand.jpg/3840px-Christchurch_Arts_Centre%2C_Christchurch%2C_New_Zealand.jpg'
+  credit: 'Photo: Michal Klajban / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Christchurch_Arts_Centre,_Christchurch,_New_Zealand.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - christchurch

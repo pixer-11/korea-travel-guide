@@ -1,85 +1,85 @@
 ---
 lang: es
 slug: berlin-jazzfest-berlin
-srcHash: '03d94afe1c86'
+srcHash: '6c9e0a2d9a0b'
 title: 'Jazzfest Berlin: fechas, entradas y sede (Berlín)'
-description: El Jazzfest Berlin se celebra del 29 de octubre al 1 de noviembre de 2026. Son cuatro días de programación a cargo de los Berliner Festspiele, presentados como el gran cierre del año jazzístico.
-quickAnswer: El Jazzfest Berlin se celebra del 29 de octubre al 1 de noviembre de 2026. Son cuatro días de programación organizados por los Berliner Festspiele y presentados como el gran cierre del año jazzístico. Desde hace décadas, su sede habitual es la Haus der Berliner Festspiele, en el barrio de Wilmersdorf, cerca de la estación de metro (U-Bahn) Spichernstraße (U3, U9). Antes de organizar el viaje en torno a un concierto concreto, consulte las sedes, el programa y las entradas en la web oficial de los Berliner Festspiele.
+description: Las fechas anunciadas para Jazzfest Berlin 2026 eran del 29 de octubre al 1 de noviembre. Fueron cuatro jornadas de programación a cargo de las Berliner Festspiele, presentadas como el gran cierre del año del jazz.
+quickAnswer: Las fechas anunciadas para Jazzfest Berlin 2026 eran del 29 de octubre al 1 de noviembre. Las Berliner Festspiele organizaban cuatro jornadas de programación y las presentaban como el gran cierre del año del jazz. Desde hace décadas, el festival tiene su sede en la Haus der Berliner Festspiele, en el barrio de Wilmersdorf, cerca de la estación de metro Spichernstraße (U3, U9). Las entradas se vendían a través de las Berliner Festspiele y cada concierto tenía su propio precio.
 faq:
-  - q: ¿Cuándo se celebra el Jazzfest Berlin 2026?
-    a: Del 29 de octubre al 1 de noviembre de 2026. Son cuatro días de programación organizados por los Berliner Festspiele. Los horarios exactos de cada concierto figuran en su web oficial.
-  - q: ¿Dónde tiene lugar el Jazzfest Berlin?
-    a: Su sede habitual desde hace décadas es la Haus der Berliner Festspiele, situada en Schaperstraße 24, en Wilmersdorf. En otras ediciones el festival también ha recurrido a otros espacios de la ciudad, así que conviene comprobar en la web oficial dónde se celebra cada concierto.
+  - q: ¿Qué fechas tenía Jazzfest Berlin 2026?
+    a: Las fechas anunciadas iban del 29 de octubre al 1 de noviembre de 2026. Eran cuatro jornadas de programación organizadas por las Berliner Festspiele, y en el programa figuraba la hora de inicio de cada concierto.
+  - q: ¿Dónde se celebra Jazzfest Berlin?
+    a: Su sede habitual desde hace muchos años es la Haus der Berliner Festspiele, en Schaperstraße 24, en Wilmersdorf. En ediciones anteriores el festival también ha recurrido a otros espacios de la ciudad, de modo que no todos los conciertos tenían por qué ser en Schaperstraße.
   - q: ¿Cómo se llega a la Haus der Berliner Festspiele?
-    a: Lo más sencillo es tomar la U3 o la U9 hasta Spichernstraße. Desde allí, Schaperstraße queda a pocos minutos a pie. La estación U Hohenzollernplatz (U3) también está cerca. Los fines de semana el metro funciona toda la noche.
-  - q: ¿Dónde se compran las entradas?
-    a: Se venden a través de los Berliner Festspiele, tanto en su web oficial como en su taquilla. Allí se indican los precios vigentes de cada concierto. Las sesiones nocturnas más populares pueden agotarse, por lo que es mejor reservar primero las que más le interesen.
-  - q: ¿Qué más hay en la zona para un fin de semana de festival?
-    a: Ludwigkirchplatz es un buen lugar para tomar un café o cenar. La Kurfürstendamm y la Kaiser-Wilhelm-Gedächtniskirche quedan una o dos paradas al norte. Muy cerca, en Charlottenburg, se encuentran los clubes de jazz A-Trane y Quasimodo, cada uno con su propia programación.
+    a: Las líneas U3 y U9 paran en Spichernstraße, a pocos minutos a pie de Schaperstraße. La estación de Hohenzollernplatz (U3) también queda cerca. Los fines de semana, el metro funciona toda la noche.
+  - q: ¿Dónde se compraban las entradas?
+    a: Las entradas se vendían a través de las Berliner Festspiele, tanto en su web oficial como en su taquilla. Cada concierto tenía su propio precio, que podía variar según fuera con asiento o de pie.
+  - q: ¿Qué más había cerca para completar un fin de semana de festival?
+    a: Para cafés y cenas, Ludwigkirchplatz era una buena elección. Una o dos paradas más al norte quedan la Kurfürstendamm y la Kaiser-Wilhelm-Gedächtniskirche. En la vecina Charlottenburg están los clubes de jazz A-Trane y Quasimodo, cada uno con su propia programación.
 ---
 
 ## Cuatro noches para cerrar el año del jazz
 
-El Jazzfest Berlin llega cuando el calendario jazzístico toca a su fin. La edición de 2026 se celebra del **29 de octubre al 1 de noviembre**. Durante cuatro días, la programación corre a cargo de los Berliner Festspiele, la institución cultural federal que está detrás de varios de los grandes festivales de la ciudad.
+Jazzfest Berlin llega cuando el calendario del jazz ya toca a su fin. Para la edición de 2026, las fechas anunciadas eran **del 29 de octubre al 1 de noviembre**. Eran cuatro jornadas de programación organizadas por las Berliner Festspiele, la institución cultural federal que está detrás de varios de los grandes festivales de la ciudad.
 
-Sus organizadores lo presentan como el gran cierre del año del jazz, y las fechas lo explican. Para entonces, la temporada de festivales de verano queda muy atrás y los clubes ya han recuperado su ritmo habitual. Durante un largo fin de semana, el público jazzístico de la ciudad se reúne en un mismo lugar.
+Sus organizadores lo presentan como el gran final del año del jazz, y el momento elegido lo explica. A esas alturas, la temporada de festivales de verano queda muy atrás y los clubes han recuperado su rutina semanal. Durante un fin de semana largo, el público jazzístico de la ciudad suele reunirse entonces en un mismo lugar.
 
-En esta época, Berlín ya está a oscuras a media tarde, porque el fin de semana anterior se retrasan los relojes. Cuando empiezan los conciertos, en la calle ya parece noche cerrada. Nada más apropiado para un festival que transcurre bajo techo.
+En esta época del año, Berlín ya está a oscuras a media tarde, porque el cambio de hora se produce el fin de semana anterior. Cuando empiezan los conciertos de la noche, las calles parecen ya de madrugada, algo que sienta bien a un festival que se vive bajo techo.
 
 ## De las Berliner Jazztage al Jazzfest
 
-Se trata de uno de los festivales de jazz más antiguos de Europa. Nació en 1964 con el nombre de **Berliner Jazztage**, de la mano del crítico y productor Joachim-Ernst Berendt. Más tarde pasó a llamarse Jazzfest Berlin y se integró en los Berliner Festspiele.
+Se trata de uno de los festivales de jazz más antiguos de Europa. Nació en 1964 con el nombre de **Berliner Jazztage**, de la mano del crítico y productor Joachim-Ernst Berendt. Más tarde pasó a llamarse Jazzfest Berlin y se integró en las Berliner Festspiele.
 
-Durante las décadas de la Guerra Fría, Berlín Occidental se sirvió del festival para enfrentar el jazz estadounidense a la nueva música improvisada europea. Desde entonces lo acompaña el debate sobre qué es y qué no es jazz. Las ediciones recientes mantienen ese espíritu con encargos, proyectos que cruzan géneros y carteles internacionales. No espere, por tanto, un desfile de grandes éxitos.
+Durante las décadas de la Guerra Fría, Berlín Occidental se sirvió del festival para enfrentar el jazz estadounidense a la nueva música improvisada europea. Desde entonces, el debate sobre qué es y qué no es jazz lo ha acompañado siempre. Las ediciones recientes mantienen ese espíritu con encargos, proyectos que cruzan géneros y carteles internacionales, en lugar de un desfile de grandes éxitos.
 
-En la práctica, conviene leer las notas del programa. Muchos de los conciertos que más dan que hablar son obra de artistas que quizá aún no conozca.
+Por eso merece la pena leer las notas del programa: muchas de las actuaciones más comentadas corren a cargo de artistas todavía poco conocidos.
 
 ## El escenario de Schaperstraße
 
-Desde hace décadas, el festival tiene su base en la **Haus der Berliner Festspiele**, en Schaperstraße 24, en el barrio de Wilmersdorf. El edificio, obra del arquitecto Fritz Bornemann, se inauguró en 1963 como teatro de la Freie Volksbühne. Es una construcción modernista de posguerra, baja y de líneas horizontales, cuya fachada acristalada da a un pequeño jardín.
+Desde hace mucho tiempo, el festival tiene su base en la **Haus der Berliner Festspiele**, en Schaperstraße 24, en el barrio de Wilmersdorf. Diseñado por el arquitecto Fritz Bornemann, el edificio se inauguró en 1963 como teatro de la Freie Volksbühne. Es una construcción modernista de posguerra, baja y de líneas horizontales, cuya fachada acristalada da a un pequeño jardín.
 
-En su interior hay un gran auditorio con gradas en pendiente, de modo que la visibilidad suele ser buena desde casi todas las butacas. Los vestíbulos sirven de punto de encuentro entre concierto y concierto. En años anteriores, el festival también ha utilizado otras salas y espacios asociados repartidos por la ciudad. **Compruebe en la web oficial la sede de cada concierto de 2026** antes de reservar nada en sus alrededores.
+En el interior hay un amplio auditorio con gradas en pendiente, por lo que la visibilidad suele ser buena desde casi todas las butacas. Los vestíbulos sirven de punto de encuentro entre actuación y actuación. En años anteriores, el festival también ha utilizado otras salas y espacios asociados de la ciudad, así que la Haus no tenía por qué ser la única sede en 2026.
 
 ## Cómo llegar a Wilmersdorf
 
-Llegar a la Haus der Berliner Festspiele en transporte público es muy fácil:
+A la Haus der Berliner Festspiele se llega fácilmente en transporte público:
 
-- **U Spichernstraße** (U3 y U9) está a un corto paseo. Salga por Bundesallee y camine hasta Schaperstraße.
-- **U Hohenzollernplatz** (U3) también queda a una distancia razonable a pie.
-- **Kurfürstendamm** y la Kaiser-Wilhelm-Gedächtniskirche están una o dos paradas al norte, algo práctico si se aloja en la zona de City West.
+- La estación de **Spichernstraße** (U3 y U9) está a un corto paseo. Sus salidas a Bundesallee conducen hacia Schaperstraße.
+- También la estación de **Hohenzollernplatz** (U3) queda a una distancia razonable a pie.
+- Una o dos paradas más al norte se encuentran la **Kurfürstendamm** y la Kaiser-Wilhelm-Gedächtniskirche, algo muy práctico para quienes se alojaban en la zona de City West.
 
-La red de la BVG, la empresa de transporte de Berlín, integra metro (U-Bahn), tren de cercanías (S-Bahn), tranvías y autobuses en un único sistema de billetes. Los fines de semana el metro funciona toda la noche, así que puede quedarse a un concierto tardío sin preocuparse por el último tren. Entre semana, cuando dejan de circular los trenes, el servicio pasa a los autobuses nocturnos.
+La red de transporte BVG de Berlín integra metro (U-Bahn), tren de cercanías (S-Bahn), tranvías y autobuses en un único sistema de billetes. Los fines de semana, el metro circula toda la noche, de modo que una actuación tardía no obliga a perder el último tren. Entre semana, cuando dejan de circular los trenes, el relevo lo toman los autobuses nocturnos.
 
-No merece la pena ir en coche a esta zona residencial de Wilmersdorf por la noche. Cuesta mucho aparcar en la calle y el metro es más rápido.
+No compensa ir en coche a esta zona residencial de Wilmersdorf de noche: aparcar en la calle es complicado y el metro resulta más rápido.
 
-## Entradas, guardarropa y normas de cortesía
+## Entradas, guardarropa y costumbres del festival
 
-Las entradas se compran a través de los **Berliner Festspiele**, en su web oficial o en su taquilla. Aquí no se indican precios: la web oficial los detalla para cada concierto, y pueden variar según sean localidades sentadas o de pie. Los conciertos nocturnos más populares pueden agotarse. Reserve primero los que más le interesen y deje hueco para algún descubrimiento.
+Las entradas se vendían a través de las **Berliner Festspiele**, tanto en su web oficial como en su taquilla. Cada concierto tenía su propio precio, que podía variar según fuera con asiento o de pie. El programa combinaba grandes conciertos nocturnos con actuaciones de formato más reducido.
 
-Algunas costumbres prácticas le facilitarán la velada:
+En los conciertos berlineses rigen algunas costumbres muy asentadas:
 
-- **Use la Garderobe.** En las salas de concierto alemanas se espera que el abrigo grueso se deje en el guardarropa y no se lleve a la butaca. A finales de octubre, seguro que llevará uno.
-- **Llegue antes de que cierren las puertas.** Una vez empezados los conciertos con público sentado, a menudo no se permite entrar hasta una pausa entre piezas, y podría quedarse esperando en el vestíbulo.
-- **Guarde silencio en los pasajes tranquilos.** El público berlinés escucha con gran atención, sobre todo durante la improvisación libre. Se aplauden los solos, pero fíjese en cómo reacciona la sala.
-- **Lleve algo de efectivo.** En Berlín ya se aceptan tarjetas casi en todas partes, pero es posible que los bares pequeños y los Spätis (tiendas de conveniencia) de la zona prefieran el pago en metálico.
-- **Valide su billete de la BVG.** Los billetes sencillos en papel deben picarse en las máquinas del andén. Hay revisores, y la multa no es precisamente el mejor recuerdo del festival.
+- **El guardarropa es importante.** En las salas de conciertos alemanas, lo habitual es dejar los abrigos gruesos en el guardarropa y no llevarlos hasta la butaca. A finales de octubre, el abrigo ya es imprescindible.
+- **Las puertas se cierran puntualmente.** En los conciertos con asiento, el acceso con retraso suele limitarse hasta una pausa entre piezas, y quien llega tarde puede quedarse esperando en el vestíbulo.
+- **Los pasajes tranquilos se respetan.** El público berlinés escucha con gran atención, sobre todo durante la improvisación libre. Se aplaude tras los solos, pero es la sala la que marca la pauta.
+- **El efectivo sigue siendo útil.** Hoy las tarjetas se aceptan casi en todas partes en Berlín, aunque los bares pequeños y los quioscos de barrio (Spätis) de la zona quizá prefieran el pago en efectivo.
+- **Los billetes de papel de la BVG deben validarse.** Los billetes sencillos comprados en papel tienen que picarse en las máquinas del andén. Los revisores sí hacen controles, y la multa no es precisamente un recuerdo agradable del festival.
 
 ## Un fin de semana largo
 
-Con cuatro días de programación, hay tiempo de sobra para alternar los conciertos del escenario principal con un paseo por el barrio. Wilmersdorf es un distrito residencial y tranquilo, con muchas cosas que hacer a pie.
+Con cuatro jornadas de programación había tiempo para alternar los conciertos del escenario principal con el resto del barrio. Wilmersdorf es un distrito residencial y tranquilo, con muchas cosas que hacer a pie.
 
-- **Ludwigkirchplatz**, a un corto paseo hacia el norte, es una plaza arbolada rodeada de cafés y restaurantes. Resulta ideal para cenar temprano antes de un concierto.
-- En la **Kurfürstendamm** se encuentran los grandes almacenes y la torre en ruinas de la Kaiser-Wilhelm-Gedächtniskirche, dañada por los bombardeos y conservada como memorial de guerra.
-- En la Tauentzienstraße se alzan los grandes almacenes **KaDeWe**, cuya última planta alberga una zona gastronómica. Es un buen refugio para pasar a cubierto una tarde gris.
+- A poca distancia hacia el norte, **Ludwigkirchplatz** es una plaza arbolada rodeada de cafés y restaurantes, ideal para cenar temprano antes de un concierto.
+- En la **Kurfürstendamm** se suceden los grandes almacenes, y allí se alza la torre bombardeada de la Kaiser-Wilhelm-Gedächtniskirche, conservada como monumento a la guerra.
+- En la Tauentzienstraße, los grandes almacenes **KaDeWe** tienen en su planta superior una galería gastronómica, un refugio cálido para una tarde gris.
 
-Si el festival le deja con ganas de más, los clubes de jazz que abren todo el año no quedan lejos. **A-Trane**, en Charlottenburg, y **Quasimodo**, bajo el cine Delphi y cerca de Zoologischer Garten, son dos clubes veteranos de esta misma zona de la ciudad. Tienen programación propia, así que consulte su cartelera.
+Los clubes de jazz que abren todo el año en Berlín quedan cerca. **A-Trane**, en Charlottenburg, y **Quasimodo**, bajo el cine Delphi y próximo a Zoologischer Garten, son dos locales veteranos de esta misma zona de la ciudad, con una programación independiente de la del festival.
 
-## Qué esperar del final del otoño
+## El final del otoño
 
-Entre finales de octubre y principios de noviembre, el tiempo suele ser frío y a menudo húmedo, y anochece pronto. Mejor que una sola chaqueta gruesa, lleve varias capas de ropa, porque los auditorios se caldean en cuanto se llenan.
+Entre finales de octubre y principios de noviembre, Berlín suele estar fría y a menudo húmeda, y la luz se va temprano. Varias capas funcionan mejor que una sola chaqueta gruesa, porque los auditorios se caldean en cuanto se llenan.
 
-En Berlín no son festivos ni el 31 de octubre ni el 1 de noviembre, de modo que comercios y transporte mantienen su horario habitual. En cambio, Brandeburgo, el estado federado que rodea la ciudad, celebra el Día de la Reforma el 31 de octubre. Téngalo en cuenta si piensa hacer una excursión a Potsdam.
+Ni el 31 de octubre ni el 1 de noviembre son festivos en Berlín, de modo que comercios y transporte mantienen su horario habitual. En cambio, Brandeburgo, el estado que rodea la ciudad, sí celebra el Día de la Reforma el 31 de octubre, algo que afecta a las excursiones de un día a Potsdam.
 
-Alojarse en un hotel de City West o de Wilmersdorf le permitirá llegar al festival en un trayecto corto. Reserve con antelación, porque en estas fechas también abundan las ferias comerciales y las escapadas urbanas de otoño.
+Los hoteles de City West y Wilmersdorf quedan a un trayecto corto de la Haus der Berliner Festspiele. Estas fechas también son de mucho movimiento por las ferias comerciales y las escapadas otoñales.
 
-Antes de cerrar fechas, sede o un concierto concreto, **confirme horarios y entradas en la web oficial de los Berliner Festspiele**. Es la única fuente fiable sobre el programa.
+El programa de 2026 corrió a cargo de las Berliner Festspiele, que organizaban el festival y vendían las entradas concierto a concierto.
