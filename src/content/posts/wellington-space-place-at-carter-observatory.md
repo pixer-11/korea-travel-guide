@@ -94,7 +94,7 @@ The exhibit floor has interactive displays on the solar system, space travel and
 
 Evenings are the point here. Currently Space Place opens 5pm–10:30pm on Tuesday and Wednesday, 10am–10:30pm on Thursday, and 10am–11pm on Friday and Saturday. Sunday it closes earlier, at 5pm, so there is no night viewing. It is closed on Monday. Museum hours shift through the year and on holidays, so check the official site for this month's times.
 
-Measured foot traffic shows weekends are busiest from 10am to 8pm. Try not to arrive then if you want unhurried time at the exhibits. A weekday evening gets you both the dark and the telescope.
+Typical foot traffic shows weekends are busiest from 10am to 8pm. Try not to arrive then if you want unhurried time at the exhibits. A weekday evening gets you both the dark and the telescope.
 
 Wellington's weather decides the telescope session. If cloud or wind comes in off Cook Strait, the planetarium still runs, but there may be no live viewing.
 

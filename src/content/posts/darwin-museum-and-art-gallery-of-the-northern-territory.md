@@ -90,7 +90,7 @@ Public buses run from the city towards Fannie Bay. Routes and timetables change,
 
 The doors open at 10am and close at 4pm, seven days a week. The day is short, so plan around it. Two to three hours is about right. That covers the Indigenous art, Cyclone Tracy, Sweetheart and a walk through the maritime gallery without rushing.
 
-The measured foot traffic is clear. On weekdays the calmest hour is 3pm to 4pm. Try not to arrive between 10am and 2pm on a weekend, because that's when the galleries fill up.
+The typical foot traffic is clear. On weekdays the calmest hour is 3pm to 4pm. Try not to arrive between 10am and 2pm on a weekend, because that's when the galleries fill up.
 
 The best plan is to arrive on a weekday around 1pm and do the art first. Keep Cyclone Tracy and Sweetheart for the final hour, when the rooms empty out.
 

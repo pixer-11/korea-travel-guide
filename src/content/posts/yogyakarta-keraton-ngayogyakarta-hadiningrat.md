@@ -88,7 +88,7 @@ From Tugu station, Malioboro runs about 2km south to the north square. You can w
 
 ## Timing around the crowds and the court
 
-The hours are 9am to 3pm, Tuesday through Sunday. The palace is closed every Monday. Measured foot traffic puts the weekend peak at **9am–3pm**, which is every hour it's open, so a weekend visit means crowds whatever time you pick. A weekday visit starting at 9am avoids the weekend rush. It also leaves time before the midday heat builds up on the open courtyards.
+The hours are 9am to 3pm, Tuesday through Sunday. The palace is closed every Monday. Typical foot traffic puts the weekend peak at **9am–3pm**, which is every hour it's open, so a weekend visit means crowds whatever time you pick. A weekday visit starting at 9am avoids the weekend rush. It also leaves time before the midday heat builds up on the open courtyards.
 
 Mornings are when the pavilions often host gamelan, *wayang* puppetry or classical dance. The schedule changes by day, so check it at the ticket window when you arrive. The palace can also close at short notice for court ceremonies, such as the Garebeg processions. Most visitors spend 1.5 to 2 hours inside.
 

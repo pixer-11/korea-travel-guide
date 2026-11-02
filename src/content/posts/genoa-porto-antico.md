@@ -75,7 +75,7 @@ faq:
       promenade.
   - q: When is the quietest time to visit?
     a: >-
-      Weekend mornings between 7am and 9am are calmest, based on measured
+      Weekend mornings between 7am and 9am are calmest, based on typical
       foot-traffic data. Avoid Saturday and Sunday afternoons from 2pm to 11pm,
       when crowds peak.
   - q: Is Porto Antico open at night?

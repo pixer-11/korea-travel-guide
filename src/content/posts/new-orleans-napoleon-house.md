@@ -119,7 +119,7 @@ The real draw is the courtyard out back, narrow, brick-paved, shaded by potted p
 
 ## When to go
 
-Napoleon House is open daily. The measured foot-traffic pattern here is fairly flat across the week, it's steady from opening straight through closing on both weekdays and weekends, but the crunch point to avoid is 3pm to 8pm on weekends, when Quarter foot traffic peaks and the courtyard tables turn over slowly.
+Napoleon House is open daily. The typical foot-traffic pattern here is fairly flat across the week, it's steady from opening straight through closing on both weekdays and weekends, but the crunch point to avoid is 3pm to 8pm on weekends, when Quarter foot traffic peaks and the courtyard tables turn over slowly.
 
 A lunch visit right at 11am, or a late-afternoon coffee-and-cocktail stop around 2pm on a weekday, gets you the room at its calmest.
 

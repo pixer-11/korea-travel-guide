@@ -8,7 +8,8 @@ import { buildSearchIndex } from '../lib/searchIndex';
 // built by the same function.
 export async function GET() {
   const posts = await getCollection('posts', ({ data }) => !data.draft);
-  const items = buildSearchIndex({ lang: 'en', posts, countries: countriesData.countries });
+  const itineraries = await getCollection('itineraries', ({ data }) => !data.draft);
+  const items = buildSearchIndex({ lang: 'en', posts, countries: countriesData.countries, itineraries });
   return new Response(JSON.stringify(items), {
     headers: { 'Content-Type': 'application/json' },
   });

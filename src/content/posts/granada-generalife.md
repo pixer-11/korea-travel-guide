@@ -117,7 +117,7 @@ Give yourself at least 45 minutes to walk the gardens properly, closer to an hou
 
 ## When to go
 
-The Generalife keeps the same hours as the rest of the Alhambra, which gives you a long window to plan around. Measured foot-traffic shows the calmest conditions are earliest in the morning and latest in the evening, on both weekdays and weekends, but the exception to watch is late morning: crowds thicken noticeably between 11am and 2pm on weekends, when tour groups cluster through the gardens en route to the Nasrid Palaces.
+The Generalife keeps the same hours as the rest of the Alhambra, which gives you a long window to plan around. Typical foot-traffic shows the calmest conditions are earliest in the morning and latest in the evening, on both weekdays and weekends, but the exception to watch is late morning: crowds thicken noticeably between 11am and 2pm on weekends, when tour groups cluster through the gardens en route to the Nasrid Palaces.
 
 Aim for an entry slot right after opening or later in the afternoon, and you'll get noticeably more breathing room by the pools.
 

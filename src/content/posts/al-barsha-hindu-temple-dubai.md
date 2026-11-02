@@ -72,7 +72,7 @@ faq:
       worth confirming before you head out.
   - q: When is the quietest time to visit?
     a: >-
-      Between 6pm and 8pm, on both weekdays and weekends, based on measured
+      Between 6pm and 8pm, on both weekdays and weekends, based on typical
       foot-traffic patterns. Weekends from 8am to 6pm are the busiest window and
       worth avoiding if you want a calmer visit.
   - q: How do I get there without a car?

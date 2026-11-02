@@ -109,7 +109,7 @@ Entry types and current prices are on the official Polynesian Spa website and at
 
 ## Reading the steam clock
 
-Crowds follow a pattern, and on a busy weekend the pools fill fast. Measured foot traffic puts the quietest weekday stretch at 9am–1pm. On weekends the calm window is shorter, 9am–11am. Every day, 10pm–11pm is quiet too.
+Crowds follow a pattern, and on a busy weekend the pools fill fast. Typical foot traffic puts the quietest weekday stretch at 9am–1pm. On weekends the calm window is shorter, 9am–11am. Every day, 10pm–11pm is quiet too.
 
 Try hard not to arrive between 3pm and 8pm on a weekend. That is the peak. Changing rooms get busy and the lake-facing pools fill up.
 

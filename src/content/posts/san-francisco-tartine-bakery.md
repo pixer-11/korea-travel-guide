@@ -92,7 +92,7 @@ Inside, it's compact, a glass pastry case running along one wall, a small huddle
 
 ## When to go
 
-Check current hours before you go, since bakery schedules can shift. The measured foot-traffic data is blunt about the pattern: weekdays stay relatively even from open to close, but on weekends the crowd builds fast after 9am and stays heavy until around 5pm. If you want the bakery closer to how it feels on a quiet Tuesday, aim for that narrow window right at Saturday or Sunday opening, 7:30am to 9am, before the case has been picked over and before the line snakes toward the door.
+Check current hours before you go, since bakery schedules can shift. The typical foot-traffic data is blunt about the pattern: weekdays stay relatively even from open to close, but on weekends the crowd builds fast after 9am and stays heavy until around 5pm. If you want the bakery closer to how it feels on a quiet Tuesday, aim for that narrow window right at Saturday or Sunday opening, 7:30am to 9am, before the case has been picked over and before the line snakes toward the door.
 
 ## How to visit like a local
 

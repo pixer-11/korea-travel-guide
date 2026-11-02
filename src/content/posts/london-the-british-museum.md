@@ -121,7 +121,7 @@ Two to three hours covers these at a sensible pace. A full day barely scratches 
 
 Opening hours shift across the week, so check the day before you plan. It opens at 10am daily. Most days it closes at 5pm, but Wednesday closes early at 3:30pm and Friday stays open until 8:30pm.
 
-Our measured foot-traffic says weekdays are quiet right across the 10am–6pm window. In practice that means any weekday hour the doors are open. Weekends work differently. The calm stretch is 10am–11am, and the busiest period runs from 12pm to 4pm.
+Our typical foot-traffic says weekdays are quiet right across the 10am–6pm window. In practice that means any weekday hour the doors are open. Weekends work differently. The calm stretch is 10am–11am, and the busiest period runs from 12pm to 4pm.
 
 Arrive after noon on a Saturday and you will be queueing at the Rosetta Stone for a clear look. A Friday evening, after the school groups leave, is a good weekday alternative.
 

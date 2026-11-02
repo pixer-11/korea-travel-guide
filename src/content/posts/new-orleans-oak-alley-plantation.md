@@ -121,7 +121,7 @@ There's also a restaurant on site serving Louisiana comfort food, useful if you'
 
 ## When to go
 
-Oak Alley is open daily, with no day off during the week. Measured foot-traffic data shows the calmest window is 8:30am to 10am, both on weekdays and weekends.
+Oak Alley is open daily, with no day off during the week. Typical foot-traffic data shows the calmest window is 8:30am to 10am, both on weekdays and weekends.
 
 Avoid arriving between noon and 3pm on weekends. That's when tour buses and day-trip crowds peak, and the mansion tour queue backs up fastest. Spring and fall bring milder temperatures than the thick heat of a Louisiana summer, though the oaks look striking in any season.
 

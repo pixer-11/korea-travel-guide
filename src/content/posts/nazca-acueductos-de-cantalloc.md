@@ -102,7 +102,7 @@ Plan on about an hour at the ojos. Add another half hour if you stop at Los Pare
 
 ## Beating the heat and the tour vans
 
-The best hours here are the early ones. Measured foot traffic shows Cantalloc is calmest from **8am–10am on weekdays** and **8am–9am on weekends**. That is also when the desert is coolest and the low sun picks out the rings of stone inside each funnel.
+The best hours here are the early ones. Typical foot traffic shows Cantalloc is calmest from **8am–10am on weekdays** and **8am–9am on weekends**. That is also when the desert is coolest and the low sun picks out the rings of stone inside each funnel.
 
 Try not to arrive on a weekend afternoon. From **1pm–6pm on Saturdays and Sundays** the site is at its busiest. It is also when the sun is hardest on an open site with almost no shade.
 

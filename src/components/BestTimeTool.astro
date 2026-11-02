@@ -127,6 +127,11 @@ const index = posts
       pats: uniq.join('|'),
       days: dayPatterns.map((x) => uniq.indexOf(x)).join(''),
       cells: defaultCells,
+      // No opening hours to trim by: every forecast hour reads as open, so a
+      // "quiet" hour may be after closing (34 venues, 18 of them quiet after
+      // 7pm — 2026-11-02). Flag it; the script says so and keeps these out of
+      // the "quiet right now" count and the top of the quiet sort.
+      nh: week === null,
     };
   })
   .sort((a, b) => a.c.localeCompare(b.c) || a.r.localeCompare(b.r) || a.t.localeCompare(b.t));
@@ -212,9 +217,9 @@ const L = {
     listTitle: 'Quiet hours, place by place', all: 'All', cityAll: 'All cities',
     modeNow: 'Now · local time', modePick: 'Pick a time', modeNote: 'Each place is computed in its own current local time',
     weekday: 'Weekday', weekend: 'Weekend', sortQuiet: 'Quietest first', sortRating: 'Top rated', sortCity: 'By city',
-    count: (n: number, when: string) => `Showing ${n} · ${when}`, whenNow: 'right now, local time',
-    stNow: { q: 'Quiet now', m: 'Moderate now', b: 'Busy now', x: 'Closed now', o: 'Outside measured hours' },
-    stAt: { q: 'Quiet', m: 'Moderate', b: 'Busy', x: 'Closed', o: 'Outside measured hours' }, local: 'local',
+    count: (n: number, when: string) => `Showing ${n} · ${when}`, whenNow: 'right now, local time', noHours: 'hours not confirmed',
+    stNow: { q: 'Quiet now', m: 'Moderate now', b: 'Busy now', x: 'Closed now', o: 'Outside forecast hours' },
+    stAt: { q: 'Quiet', m: 'Moderate', b: 'Busy', x: 'Closed', o: 'Outside forecast hours' }, local: 'local',
     guide: 'Read the guide →', add: '+ Add to day plan', added: '✓ In day plan', more: (n: number) => `Show ${n} more ↓`,
     planBar: (n: number) => `Day plan: ${n}`, clear: 'Clear', build: 'Plan by quiet hours →',
     planTitle: 'A day ordered by quiet hours', planNote: 'About an hour per place; travel time between places is not included.',
@@ -222,13 +227,13 @@ const L = {
     copy: 'Copy plan link', copied: 'Link copied ✓', close: 'Close', myTrip: 'Open My trip →',
     ticketsTitle: 'Still a queue at the quiet hour?', ticketsBody: 'Observation decks and big museums sell timed-entry tickets that do the queuing for you. Book the quiet slot and it is as sure as it gets.',
     ticketsCta: 'Browse tickets →', itinCta: 'Itineraries in quiet order',
-    whereTitle: "Where, and what", lblCountry: "Country", lblCity: "City", lblType: "Type", moreCountries: (n: number) => `+${n} more countries`, fewer: "Show fewer", cityHint: "Pick a country to narrow it down by city", allCities: "All cities", whenTitle: "When are you going?", wkGroup: "Weekdays", weGroup: "Weekend", todayLbl: "today", amLbl: "AM", pmLbl: "PM", nowBig: "Now", nowSub: "Each place on its own clock", nowNote: "Wherever you look from, each place is judged in its own local time · updates every minute", hintMorning: (pct: number) => `Weekday before 11 AM · ${pct}% of places are at their quietest`, hintPeak: (h: string) => `Weekend ${h} · the most common busy hour`, scopeWorld: "Worldwide", typeAll: "All types", basis: (n: number) => `basis · ${n} places`, reset: "Reset filters", reportPill: (n: number) => `Data report · ${n} places`, citeBtn: "Cite this data", c1Label: "Weekdays", c1Sentence: (pct: number) => `On weekdays, ${pct}% of places are quietest before 11 AM.`, c1Take: "Going early is the safe bet, anywhere", c2Label: "Weekend", c2Sentence: 'The most common busy hour on weekends.', c2Take: "Plan indoor stops or bookings for this hour", c3Label: "Sights · restaurants", c3Sentence: (pct: number) => `${pct}% of sights are quietest on weekday mornings.`, c3Take: (h: string) => `Restaurants are often easiest around ${h}`, chartSub: "The 10 cities with the most places · local time", bandLegend: "before 11 AM", sortMany: "Most places", sortEarly: "Earliest first", evening: "evening", insightA: (n: number, k: number, r: string) => `${k} of these ${n} cities are quietest around ${r}.`, insightB: (n: number, k: number, r: string, list: string) => `${k} of these ${n} cities are quietest around ${r}; quietest in the evening: ${list}.`, clickHint: "Tap a city to apply it to the filters above", placesN: (n: number) => `${n}`, srcT: "Source", srcB: "Live foot-traffic forecasts from BestTime.app, collected place by place.", adjT: "Adjusted", adjB: "Fitted to each place’s opening hours and to 7 AM–10 PM.", ruleT: "Rule", ruleB: "No estimates. A place without a reliable forecast is left out.", growing: (n: number) => `${n} places now · more with every new guide`, methodLink: "How it is measured →", citeTitle: "Cite or embed this data", citeAsText: "As text", citeAsHtml: "Link HTML", citeBody: "Journalists, bloggers and researchers may quote these figures with a link to wanderatlasguides.com.", citeText: (n: number, url: string) => `Source: Wander Atlas crowd data (${n} places), ${url}`, linkText: "Wander Atlas crowd data", copyBtn: "Copy", copiedOk: "Copied ✓", widgetRow: "Live crowd widget · every place guide has one you can embed", widgetCta: "See an example →", apiRow: "Raw data for developers · straight from the BestTime.app API",
+    whereTitle: "Where, and what", lblCountry: "Country", lblCity: "City", lblType: "Type", moreCountries: (n: number) => `+${n} more countries`, fewer: "Show fewer", cityHint: "Pick a country to narrow it down by city", allCities: "All cities", whenTitle: "When are you going?", wkGroup: "Weekdays", weGroup: "Weekend", todayLbl: "today", amLbl: "AM", pmLbl: "PM", nowBig: "Now", nowSub: "Each place on its own clock", nowNote: "Wherever you look from, each place is judged in its own local time · updates every minute", hintMorning: (pct: number) => `Weekday before 11 AM · ${pct}% of places are at their quietest`, hintPeak: (h: string) => `Weekend ${h} · the most common busy hour`, scopeWorld: "Worldwide", typeAll: "All types", basis: (n: number) => `basis · ${n} places`, reset: "Reset filters", reportPill: (n: number) => `Data report · ${n} places`, citeBtn: "Cite this data", c1Label: "Weekdays", c1Sentence: (pct: number) => `On weekdays, ${pct}% of places are quietest before 11 AM.`, c1Take: "Going early is the safe bet, anywhere", c2Label: "Weekend", c2Sentence: 'The most common busy hour on weekends.', c2Take: "Plan indoor stops or bookings for this hour", c3Label: "Sights · restaurants", c3Sentence: (pct: number) => `${pct}% of sights are quietest on weekday mornings.`, c3Take: (h: string) => `Restaurants are often easiest around ${h}`, chartSub: "The 10 cities with the most places · local time", bandLegend: "before 11 AM", sortMany: "Most places", sortEarly: "Earliest first", evening: "evening", insightA: (n: number, k: number, r: string) => `${k} of these ${n} cities are quietest around ${r}.`, insightB: (n: number, k: number, r: string, list: string) => `${k} of these ${n} cities are quietest around ${r}; quietest in the evening: ${list}.`, clickHint: "Tap a city to apply it to the filters above", placesN: (n: number) => `${n}`, srcT: "Source", srcB: "Foot-traffic forecasts from BestTime.app, fetched place by place when each guide is published.", adjT: "Adjusted", adjB: "Fitted to each place’s opening hours and to 7 AM–10 PM.", ruleT: "Rule", ruleB: "No guesses. A place without a reliable forecast is left out.", growing: (n: number) => `${n} places now · more with every new guide`, methodLink: "How the forecast works →", citeTitle: "Cite or embed this data", citeAsText: "As text", citeAsHtml: "Link HTML", citeBody: "Journalists, bloggers and researchers may quote these figures with a link to wanderatlasguides.com.", citeText: (n: number, url: string) => `Source: Wander Atlas crowd data (${n} places), ${url}`, linkText: "Wander Atlas crowd data", copyBtn: "Copy", copiedOk: "Copied ✓", widgetRow: "Crowd widget · every place guide has one you can embed", widgetCta: "See an example →", apiRow: "Raw data for developers · straight from the BestTime.app API",
     faqTitle: 'Frequently asked questions', faqDek: 'How crowd levels are calculated is set out on the', faqLink: 'methodology page',
     faq: [
-      ['How are crowd levels calculated?', 'From each venue’s measured visit data, hour by hour (BestTime.app foot-traffic forecasts), limited to its opening hours. We pick the quietest and busiest hours of the day from that.'],
+      ['How are crowd levels calculated?', 'From each venue’s hour-by-hour foot-traffic forecast (BestTime.app, built from historical visit patterns), limited to its opening hours. We pick the quietest and busiest hours of the day from that.'],
       ['Which time zone are the hours in?', 'Always the place’s own local time. "Now" mode works out each place’s current time where it is, so a Seoul museum and a New York café are each judged by their own clock.'],
       ['Why are weekdays and weekends separate?', 'Most places are busier at different hours on weekends. Where a place’s days differ, the card names the days its quiet hours apply to.'],
-      ['Are there places without data?', 'Yes. Only places with a measured forecast appear here. Holidays and special events can change crowds from the usual pattern.'],
+      ['Are there places without data?', 'Yes. Only places with a forecast appear here. Holidays and special events can change crowds from the usual pattern.'],
     ],
   },
   ko: {
@@ -242,9 +247,9 @@ const L = {
     listTitle: '장소별 한산한 시간', all: '전체', cityAll: '모든 도시',
     modeNow: '지금 · 현지 시각', modePick: '시간 정해서 보기', modeNote: '장소마다 그곳의 지금 시각으로 계산해요',
     weekday: '평일', weekend: '주말', sortQuiet: '한산한 순', sortRating: '평점순', sortCity: '도시순',
-    count: (n: number, when: string) => `${n}곳 · ${when}`, whenNow: '지금 현지 시각 기준',
-    stNow: { q: '지금 한산', m: '지금 보통', b: '지금 붐빔', x: '지금 영업 안 함', o: '지금은 측정 시간 밖' },
-    stAt: { q: '한산', m: '보통', b: '붐빔', x: '영업 안 함', o: '측정 시간 밖' }, local: '현지',
+    count: (n: number, when: string) => `${n}곳 · ${when}`, whenNow: '지금 현지 시각 기준', noHours: '영업시간 미확인',
+    stNow: { q: '지금 한산', m: '지금 보통', b: '지금 붐빔', x: '지금 영업 안 함', o: '지금은 예측 시간 밖' },
+    stAt: { q: '한산', m: '보통', b: '붐빔', x: '영업 안 함', o: '예측 시간 밖' }, local: '현지',
     guide: '가이드 보기 →', add: '+ 하루 동선에 담기', added: '✓ 동선에 담김', more: (n: number) => `${n}곳 더 보기 ↓`,
     planBar: (n: number) => `하루 동선에 담은 곳 ${n}곳`, clear: '비우기', build: '한산한 순서로 짜기 →',
     planTitle: '한산한 시간 순서로 짠 하루', planNote: '한 곳에 1시간쯤 머문다고 보고 짰어요. 장소 사이 이동 시간은 넣지 않았습니다.',
@@ -252,7 +257,7 @@ const L = {
     copy: '동선 링크 복사', copied: '링크를 복사했어요 ✓', close: '닫기', myTrip: '내 여행 열기 →',
     ticketsTitle: '한산한 시간에도 줄이 긴 곳이라면', ticketsBody: '전망대나 인기 박물관은 시간 지정 입장권이 줄을 대신 서 줍니다. 한산한 시간에 맞춰 예약하면 가장 확실해요.',
     ticketsCta: '입장권 둘러보기 →', itinCta: '한산한 순서의 코스',
-    whereTitle: "어디서, 무엇을", lblCountry: "나라", lblCity: "도시", lblType: "종류", moreCountries: (n: number) => `+${n}개국 더 보기`, fewer: "접기", cityHint: "나라를 고르면 도시별로 좁혀 볼 수 있어요", allCities: "전체 도시", whenTitle: "언제 가세요?", wkGroup: "평일", weGroup: "주말", todayLbl: "오늘", amLbl: "오전", pmLbl: "오후", nowBig: "지금", nowSub: "장소마다 그곳의 시각으로", nowNote: "어디에서 보든 각 장소의 현지 시각으로 혼잡도를 계산해요 · 1분마다 갱신", hintMorning: (pct: number) => `평일 오전 11시 전 · 장소 ${pct}%가 가장 한산한 때`, hintPeak: (h: string) => `주말 ${h} · 가장 흔한 혼잡 시간대`, scopeWorld: "전 세계", typeAll: "모든 종류", basis: (n: number) => `기준 · ${n}곳`, reset: "필터 초기화", reportPill: (n: number) => `데이터 리포트 · ${n}곳`, citeBtn: "이 데이터 인용하기", c1Label: "평일", c1Sentence: (pct: number) => `평일에는 장소 ${pct}%가 오전 11시 이전에 가장 한산해요.`, c1Take: "어디든 일찍 가는 편이 정답", c2Label: "주말", c2Sentence: '주말에 가장 흔한 혼잡 시간대예요.', c2Take: "이 시간엔 실내 일정이나 예약을", c3Label: "명소 · 식당", c3Sentence: (pct: number) => `관광 명소의 ${pct}%는 평일 오전이 가장 한산해요.`, c3Take: (h: string) => `식당은 ${h} 무렵이 여유로운 경우가 많아요`, chartSub: "장소가 많은 10개 도시 · 현지 시각", bandLegend: "오전 11시 전", sortMany: "장소 많은 순", sortEarly: "이른 시간 순", evening: "저녁", insightA: (n: number, k: number, r: string) => `${n}개 도시 중 ${k}곳이 ${r}에 가장 한산해요.`, insightB: (n: number, k: number, r: string, list: string) => `${n}개 도시 중 ${k}곳이 ${r}에 가장 한산하고, 저녁에 가장 한산한 곳은 ${list}예요.`, clickHint: "도시를 누르면 위 필터에 바로 적용돼요", placesN: (n: number) => `${n}곳`, srcT: "출처", srcB: "BestTime.app의 실시간 인파 예측을 장소별로 모아요.", adjT: "보정", adjB: "각 장소의 영업시간과 오전 7시~오후 10시 범위에 맞춰 정리해요.", ruleT: "원칙", ruleB: "추정치는 쓰지 않아요. 믿을 만한 예측이 없는 장소는 뺍니다.", growing: (n: number) => `지금 ${n}곳 · 새 가이드마다 늘어나요`, methodLink: "측정 방법 자세히 →", citeTitle: "이 데이터 인용·삽입하기", citeAsText: "문장으로", citeAsHtml: "링크 HTML", citeBody: "기자·블로거·연구자는 wanderatlasguides.com 링크와 함께 이 수치를 인용할 수 있어요.", citeText: (n: number, url: string) => `출처: Wander Atlas 혼잡 데이터(${n}곳), ${url}`, linkText: "Wander Atlas 혼잡 데이터", copyBtn: "복사하기", copiedOk: "복사했어요 ✓", widgetRow: "실시간 혼잡 위젯 · 장소 가이드마다 글에 넣을 수 있어요", widgetCta: "예시 보기 →", apiRow: "개발자용 원자료 · BestTime.app API에서 직접 받으세요",
+    whereTitle: "어디서, 무엇을", lblCountry: "나라", lblCity: "도시", lblType: "종류", moreCountries: (n: number) => `+${n}개국 더 보기`, fewer: "접기", cityHint: "나라를 고르면 도시별로 좁혀 볼 수 있어요", allCities: "전체 도시", whenTitle: "언제 가세요?", wkGroup: "평일", weGroup: "주말", todayLbl: "오늘", amLbl: "오전", pmLbl: "오후", nowBig: "지금", nowSub: "장소마다 그곳의 시각으로", nowNote: "어디에서 보든 각 장소의 현지 시각으로 혼잡도를 계산해요 · 1분마다 갱신", hintMorning: (pct: number) => `평일 오전 11시 전 · 장소 ${pct}%가 가장 한산한 때`, hintPeak: (h: string) => `주말 ${h} · 가장 흔한 혼잡 시간대`, scopeWorld: "전 세계", typeAll: "모든 종류", basis: (n: number) => `기준 · ${n}곳`, reset: "필터 초기화", reportPill: (n: number) => `데이터 리포트 · ${n}곳`, citeBtn: "이 데이터 인용하기", c1Label: "평일", c1Sentence: (pct: number) => `평일에는 장소 ${pct}%가 오전 11시 이전에 가장 한산해요.`, c1Take: "어디든 일찍 가는 편이 정답", c2Label: "주말", c2Sentence: '주말에 가장 흔한 혼잡 시간대예요.', c2Take: "이 시간엔 실내 일정이나 예약을", c3Label: "명소 · 식당", c3Sentence: (pct: number) => `관광 명소의 ${pct}%는 평일 오전이 가장 한산해요.`, c3Take: (h: string) => `식당은 ${h} 무렵이 여유로운 경우가 많아요`, chartSub: "장소가 많은 10개 도시 · 현지 시각", bandLegend: "오전 11시 전", sortMany: "장소 많은 순", sortEarly: "이른 시간 순", evening: "저녁", insightA: (n: number, k: number, r: string) => `${n}개 도시 중 ${k}곳이 ${r}에 가장 한산해요.`, insightB: (n: number, k: number, r: string, list: string) => `${n}개 도시 중 ${k}곳이 ${r}에 가장 한산하고, 저녁에 가장 한산한 곳은 ${list}예요.`, clickHint: "도시를 누르면 위 필터에 바로 적용돼요", placesN: (n: number) => `${n}곳`, srcT: "출처", srcB: "BestTime.app의 인파 예측을 글을 낼 때 장소별로 받아 모아요.", adjT: "보정", adjB: "각 장소의 영업시간과 오전 7시~오후 10시 범위에 맞춰 정리해요.", ruleT: "원칙", ruleB: "어림짐작은 쓰지 않아요. 믿을 만한 예측이 없는 장소는 뺍니다.", growing: (n: number) => `지금 ${n}곳 · 새 가이드마다 늘어나요`, methodLink: "예측 방법 자세히 →", citeTitle: "이 데이터 인용·삽입하기", citeAsText: "문장으로", citeAsHtml: "링크 HTML", citeBody: "기자·블로거·연구자는 wanderatlasguides.com 링크와 함께 이 수치를 인용할 수 있어요.", citeText: (n: number, url: string) => `출처: Wander Atlas 혼잡 데이터(${n}곳), ${url}`, linkText: "Wander Atlas 혼잡 데이터", copyBtn: "복사하기", copiedOk: "복사했어요 ✓", widgetRow: "혼잡 위젯 · 장소 가이드마다 글에 넣을 수 있어요", widgetCta: "예시 보기 →", apiRow: "개발자용 원자료 · BestTime.app API에서 직접 받으세요",
     faqTitle: '자주 묻는 질문', faqDek: '혼잡도를 어떻게 계산하는지는', faqLink: '방법론 페이지에 자세히 적었습니다',
     faq: [
       ['혼잡도는 어떻게 계산하나요?', '장소별 실제 방문 데이터(BestTime.app의 시간대별 방문 예측)를 영업시간 안에서 시간대별로 분석해, 하루 중 가장 한산한 시간과 붐비는 시간을 뽑습니다.'],
@@ -272,9 +277,9 @@ const L = {
     listTitle: 'スポット別の空いている時間', all: 'すべて', cityAll: 'すべての都市',
     modeNow: '今 · 現地時間', modePick: '時間を指定', modeNote: 'スポットごとに現地の今の時刻で計算します',
     weekday: '平日', weekend: '週末', sortQuiet: '空いている順', sortRating: '評価順', sortCity: '都市順',
-    count: (n: number, when: string) => `${n}か所 · ${when}`, whenNow: '今の現地時間',
-    stNow: { q: '今は空いている', m: '今は普通', b: '今は混雑', x: '今は営業時間外', o: '今は計測時間外' },
-    stAt: { q: '空いている', m: '普通', b: '混雑', x: '営業時間外', o: '計測時間外' }, local: '現地',
+    count: (n: number, when: string) => `${n}か所 · ${when}`, whenNow: '今の現地時間', noHours: '営業時間未確認',
+    stNow: { q: '今は空いている', m: '今は普通', b: '今は混雑', x: '今は営業時間外', o: '今は予測時間外' },
+    stAt: { q: '空いている', m: '普通', b: '混雑', x: '営業時間外', o: '予測時間外' }, local: '現地',
     guide: 'ガイドを見る →', add: '+ 1日のルートに追加', added: '✓ ルートに追加済み', more: (n: number) => `あと${n}か所を見る ↓`,
     planBar: (n: number) => `1日のルートに${n}か所`, clear: 'クリア', build: '空いている順に組む →',
     planTitle: '空いている時間の順に組んだ1日', planNote: '1か所に約1時間いると仮定しています。移動時間は含みません。',
@@ -282,7 +287,7 @@ const L = {
     copy: 'ルートのリンクをコピー', copied: 'リンクをコピーしました ✓', close: '閉じる', myTrip: 'マイトリップを開く →',
     ticketsTitle: '空いている時間でも行列が長い場所なら', ticketsBody: '展望台や人気の博物館は、時間指定チケットが行列の代わりになります。空いている時間に合わせて予約するのがいちばん確実です。',
     ticketsCta: 'チケットを見る →', itinCta: '空いている順のモデルコース',
-    whereTitle: "どこで、何を", lblCountry: "国", lblCity: "都市", lblType: "種類", moreCountries: (n: number) => `+${n}か国をもっと見る`, fewer: "閉じる", cityHint: "国を選ぶと都市ごとに絞り込めます", allCities: "すべての都市", whenTitle: "いつ行きますか？", wkGroup: "平日", weGroup: "週末", todayLbl: "今日", amLbl: "午前", pmLbl: "午後", nowBig: "今", nowSub: "スポットごとに現地の時刻で", nowNote: "どこから見ても、各スポットの現地時間で混雑度を計算します · 1分ごとに更新", hintMorning: (pct: number) => `平日の午前11時前 · スポットの${pct}%がいちばん空いている時間`, hintPeak: (h: string) => `週末の${h} · いちばんよくある混雑時間`, scopeWorld: "全世界", typeAll: "すべての種類", basis: (n: number) => `基準 · ${n}か所`, reset: "絞り込みをリセット", reportPill: (n: number) => `データレポート · ${n}か所`, citeBtn: "このデータを引用する", c1Label: "平日", c1Sentence: (pct: number) => `平日はスポットの${pct}%が午前11時より前にいちばん空いています。`, c1Take: "どこでも早めに行くのが正解", c2Label: "週末", c2Sentence: '週末にいちばんよくある混雑時間です。', c2Take: "この時間は屋内の予定や予約を", c3Label: "観光地 · 飲食店", c3Sentence: (pct: number) => `観光スポットの${pct}%は平日の午前がいちばん空いています。`, c3Take: (h: string) => `飲食店は${h}ごろが空いていることが多いです`, chartSub: "スポットの多い10都市 · 現地時間", bandLegend: "午前11時前", sortMany: "スポットの多い順", sortEarly: "早い時間順", evening: "夜", insightA: (n: number, k: number, r: string) => `${n}都市のうち${k}都市が${r}にいちばん空いています。`, insightB: (n: number, k: number, r: string, list: string) => `${n}都市のうち${k}都市が${r}にいちばん空いていて、夜がいちばん空いているのは${list}です。`, clickHint: "都市を押すと上の絞り込みにすぐ反映されます", placesN: (n: number) => `${n}か所`, srcT: "出典", srcB: "BestTime.appのリアルタイム混雑予測をスポットごとに集めています。", adjT: "補正", adjB: "各スポットの営業時間と午前7時〜午後10時の範囲に合わせて整理しています。", ruleT: "原則", ruleB: "推定値は使いません。信頼できる予測がないスポットは外します。", growing: (n: number) => `現在${n}か所 · 新しいガイドごとに増えます`, methodLink: "計測方法の詳細 →", citeTitle: "このデータを引用・埋め込む", citeAsText: "文章で", citeAsHtml: "リンクHTML", citeBody: "記者・ブロガー・研究者の方は、wanderatlasguides.comへのリンクとともにこの数値を引用できます。", citeText: (n: number, url: string) => `出典: Wander Atlas 混雑データ(${n}か所), ${url}`, linkText: "Wander Atlas 混雑データ", copyBtn: "コピー", copiedOk: "コピーしました ✓", widgetRow: "リアルタイム混雑ウィジェット · 各スポットのガイドで記事に埋め込めます", widgetCta: "例を見る →", apiRow: "開発者向けの元データ · BestTime.app APIから直接取得してください",
+    whereTitle: "どこで、何を", lblCountry: "国", lblCity: "都市", lblType: "種類", moreCountries: (n: number) => `+${n}か国をもっと見る`, fewer: "閉じる", cityHint: "国を選ぶと都市ごとに絞り込めます", allCities: "すべての都市", whenTitle: "いつ行きますか？", wkGroup: "平日", weGroup: "週末", todayLbl: "今日", amLbl: "午前", pmLbl: "午後", nowBig: "今", nowSub: "スポットごとに現地の時刻で", nowNote: "どこから見ても、各スポットの現地時間で混雑度を計算します · 1分ごとに更新", hintMorning: (pct: number) => `平日の午前11時前 · スポットの${pct}%がいちばん空いている時間`, hintPeak: (h: string) => `週末の${h} · いちばんよくある混雑時間`, scopeWorld: "全世界", typeAll: "すべての種類", basis: (n: number) => `基準 · ${n}か所`, reset: "絞り込みをリセット", reportPill: (n: number) => `データレポート · ${n}か所`, citeBtn: "このデータを引用する", c1Label: "平日", c1Sentence: (pct: number) => `平日はスポットの${pct}%が午前11時より前にいちばん空いています。`, c1Take: "どこでも早めに行くのが正解", c2Label: "週末", c2Sentence: '週末にいちばんよくある混雑時間です。', c2Take: "この時間は屋内の予定や予約を", c3Label: "観光地 · 飲食店", c3Sentence: (pct: number) => `観光スポットの${pct}%は平日の午前がいちばん空いています。`, c3Take: (h: string) => `飲食店は${h}ごろが空いていることが多いです`, chartSub: "スポットの多い10都市 · 現地時間", bandLegend: "午前11時前", sortMany: "スポットの多い順", sortEarly: "早い時間順", evening: "夜", insightA: (n: number, k: number, r: string) => `${n}都市のうち${k}都市が${r}にいちばん空いています。`, insightB: (n: number, k: number, r: string, list: string) => `${n}都市のうち${k}都市が${r}にいちばん空いていて、夜がいちばん空いているのは${list}です。`, clickHint: "都市を押すと上の絞り込みにすぐ反映されます", placesN: (n: number) => `${n}か所`, srcT: "出典", srcB: "BestTime.appの混雑予測を、ガイド公開時にスポットごとに取得しています。", adjT: "補正", adjB: "各スポットの営業時間と午前7時〜午後10時の範囲に合わせて整理しています。", ruleT: "原則", ruleB: "当て推量はしません。信頼できる予測がないスポットは外します。", growing: (n: number) => `現在${n}か所 · 新しいガイドごとに増えます`, methodLink: "予測方法の詳細 →", citeTitle: "このデータを引用・埋め込む", citeAsText: "文章で", citeAsHtml: "リンクHTML", citeBody: "記者・ブロガー・研究者の方は、wanderatlasguides.comへのリンクとともにこの数値を引用できます。", citeText: (n: number, url: string) => `出典: Wander Atlas 混雑データ(${n}か所), ${url}`, linkText: "Wander Atlas 混雑データ", copyBtn: "コピー", copiedOk: "コピーしました ✓", widgetRow: "混雑ウィジェット · 各スポットのガイドで記事に埋め込めます", widgetCta: "例を見る →", apiRow: "開発者向けの元データ · BestTime.app APIから直接取得してください",
     faqTitle: 'よくある質問', faqDek: '混雑度の計算方法は', faqLink: '方法論のページで詳しく説明しています',
     faq: [
       ['混雑度はどう計算していますか？', 'スポットごとの実際の来訪データ（BestTime.appの時間帯別予測）を営業時間内で時間ごとに分析し、1日のうちいちばん空いている時間と混む時間を割り出しています。'],
@@ -302,9 +307,9 @@ const L = {
     listTitle: 'Horas tranquilas, lugar por lugar', all: 'Todos', cityAll: 'Todas las ciudades',
     modeNow: 'Ahora · hora local', modePick: 'Elegir una hora', modeNote: 'Cada lugar se calcula con su hora local actual',
     weekday: 'Entre semana', weekend: 'Fin de semana', sortQuiet: 'Más tranquilos', sortRating: 'Mejor valorados', sortCity: 'Por ciudad',
-    count: (n: number, when: string) => `Mostrando ${n} · ${when}`, whenNow: 'ahora, hora local',
-    stNow: { q: 'Tranquilo ahora', m: 'Normal ahora', b: 'Lleno ahora', x: 'Cerrado ahora', o: 'Fuera de las horas medidas' },
-    stAt: { q: 'Tranquilo', m: 'Normal', b: 'Lleno', x: 'Cerrado', o: 'Fuera de las horas medidas' }, local: 'local',
+    count: (n: number, when: string) => `Mostrando ${n} · ${when}`, whenNow: 'ahora, hora local', noHours: 'horario sin confirmar',
+    stNow: { q: 'Tranquilo ahora', m: 'Normal ahora', b: 'Lleno ahora', x: 'Cerrado ahora', o: 'Fuera de las horas previstas' },
+    stAt: { q: 'Tranquilo', m: 'Normal', b: 'Lleno', x: 'Cerrado', o: 'Fuera de las horas previstas' }, local: 'local',
     guide: 'Ver la guía →', add: '+ Añadir al plan del día', added: '✓ En el plan', more: (n: number) => `Ver ${n} más ↓`,
     planBar: (n: number) => `Plan del día: ${n}`, clear: 'Vaciar', build: 'Ordenar por horas tranquilas →',
     planTitle: 'Un día ordenado por horas tranquilas', planNote: 'Calculado con una hora por lugar; no incluye el tiempo de desplazamiento.',
@@ -312,13 +317,13 @@ const L = {
     copy: 'Copiar enlace del plan', copied: 'Enlace copiado ✓', close: 'Cerrar', myTrip: 'Abrir Mi viaje →',
     ticketsTitle: '¿Hay cola incluso a la hora tranquila?', ticketsBody: 'Miradores y museos famosos venden entradas con hora que hacen la cola por ti. Reserva la franja tranquila y vas sobre seguro.',
     ticketsCta: 'Ver entradas →', itinCta: 'Rutas en orden tranquilo',
-    whereTitle: "Dónde y qué", lblCountry: "País", lblCity: "Ciudad", lblType: "Tipo", moreCountries: (n: number) => `+${n} países más`, fewer: "Ver menos", cityHint: "Elige un país para filtrar por ciudad", allCities: "Todas las ciudades", whenTitle: "¿Cuándo vas?", wkGroup: "Entre semana", weGroup: "Fin de semana", todayLbl: "hoy", amLbl: "a. m.", pmLbl: "p. m.", nowBig: "Ahora", nowSub: "Cada lugar con su propia hora", nowNote: "Mires desde donde mires, cada lugar se calcula con su hora local · se actualiza cada minuto", hintMorning: (pct: number) => `Entre semana antes de las 11 · el ${pct}% de los lugares está en su hora más tranquila`, hintPeak: (h: string) => `Fin de semana, ${h} · la hora punta más común`, scopeWorld: "Todo el mundo", typeAll: "Todos los tipos", basis: (n: number) => `base · ${n} lugares`, reset: "Quitar filtros", reportPill: (n: number) => `Informe de datos · ${n} lugares`, citeBtn: "Citar estos datos", c1Label: "Entre semana", c1Sentence: (pct: number) => `Entre semana, el ${pct}% de los lugares está más tranquilo antes de las 11.`, c1Take: "Ir temprano es lo más seguro, en cualquier sitio", c2Label: "Fin de semana", c2Sentence: 'La hora punta más común del fin de semana.', c2Take: "A esa hora, planes bajo techo o con reserva", c3Label: "Monumentos · restaurantes", c3Sentence: (pct: number) => `El ${pct}% de los monumentos está más tranquilo las mañanas entre semana.`, c3Take: (h: string) => `Los restaurantes suelen estar más libres hacia las ${h}`, chartSub: "Las 10 ciudades con más lugares · hora local", bandLegend: "antes de las 11", sortMany: "Más lugares", sortEarly: "Más temprano", evening: "tarde-noche", insightA: (n: number, k: number, r: string) => `${k} de estas ${n} ciudades están más tranquilas hacia las ${r}.`, insightB: (n: number, k: number, r: string, list: string) => `${k} de estas ${n} ciudades están más tranquilas hacia las ${r}; las más tranquilas por la noche: ${list}.`, clickHint: "Toca una ciudad para aplicarla a los filtros", placesN: (n: number) => `${n}`, srcT: "Fuente", srcB: "Previsiones de afluencia en tiempo real de BestTime.app, lugar por lugar.", adjT: "Ajuste", adjB: "Ajustadas al horario de cada lugar y a la franja de 7:00 a 22:00.", ruleT: "Regla", ruleB: "Sin estimaciones. Un lugar sin previsión fiable se queda fuera.", growing: (n: number) => `${n} lugares ahora · más con cada guía nueva`, methodLink: "Cómo se mide →", citeTitle: "Citar o insertar estos datos", citeAsText: "Como texto", citeAsHtml: "HTML del enlace", citeBody: "Periodistas, blogueros e investigadores pueden citar estas cifras con un enlace a wanderatlasguides.com.", citeText: (n: number, url: string) => `Fuente: datos de afluencia de Wander Atlas (${n} lugares), ${url}`, linkText: "Datos de afluencia de Wander Atlas", copyBtn: "Copiar", copiedOk: "Copiado ✓", widgetRow: "Widget de afluencia en vivo · cada guía de lugar tiene uno para insertar", widgetCta: "Ver un ejemplo →", apiRow: "Datos en bruto para desarrolladores · directamente de la API de BestTime.app",
+    whereTitle: "Dónde y qué", lblCountry: "País", lblCity: "Ciudad", lblType: "Tipo", moreCountries: (n: number) => `+${n} países más`, fewer: "Ver menos", cityHint: "Elige un país para filtrar por ciudad", allCities: "Todas las ciudades", whenTitle: "¿Cuándo vas?", wkGroup: "Entre semana", weGroup: "Fin de semana", todayLbl: "hoy", amLbl: "a. m.", pmLbl: "p. m.", nowBig: "Ahora", nowSub: "Cada lugar con su propia hora", nowNote: "Mires desde donde mires, cada lugar se calcula con su hora local · se actualiza cada minuto", hintMorning: (pct: number) => `Entre semana antes de las 11 · el ${pct}% de los lugares está en su hora más tranquila`, hintPeak: (h: string) => `Fin de semana, ${h} · la hora punta más común`, scopeWorld: "Todo el mundo", typeAll: "Todos los tipos", basis: (n: number) => `base · ${n} lugares`, reset: "Quitar filtros", reportPill: (n: number) => `Informe de datos · ${n} lugares`, citeBtn: "Citar estos datos", c1Label: "Entre semana", c1Sentence: (pct: number) => `Entre semana, el ${pct}% de los lugares está más tranquilo antes de las 11.`, c1Take: "Ir temprano es lo más seguro, en cualquier sitio", c2Label: "Fin de semana", c2Sentence: 'La hora punta más común del fin de semana.', c2Take: "A esa hora, planes bajo techo o con reserva", c3Label: "Monumentos · restaurantes", c3Sentence: (pct: number) => `El ${pct}% de los monumentos está más tranquilo las mañanas entre semana.`, c3Take: (h: string) => `Los restaurantes suelen estar más libres hacia las ${h}`, chartSub: "Las 10 ciudades con más lugares · hora local", bandLegend: "antes de las 11", sortMany: "Más lugares", sortEarly: "Más temprano", evening: "tarde-noche", insightA: (n: number, k: number, r: string) => `${k} de estas ${n} ciudades están más tranquilas hacia las ${r}.`, insightB: (n: number, k: number, r: string, list: string) => `${k} de estas ${n} ciudades están más tranquilas hacia las ${r}; las más tranquilas por la noche: ${list}.`, clickHint: "Toca una ciudad para aplicarla a los filtros", placesN: (n: number) => `${n}`, srcT: "Fuente", srcB: "Previsiones de afluencia de BestTime.app, obtenidas lugar por lugar al publicar cada guía.", adjT: "Ajuste", adjB: "Ajustadas al horario de cada lugar y a la franja de 7:00 a 22:00.", ruleT: "Regla", ruleB: "Nada inventado. Un lugar sin previsión fiable se queda fuera.", growing: (n: number) => `${n} lugares ahora · más con cada guía nueva`, methodLink: "Cómo se calcula →", citeTitle: "Citar o insertar estos datos", citeAsText: "Como texto", citeAsHtml: "HTML del enlace", citeBody: "Periodistas, blogueros e investigadores pueden citar estas cifras con un enlace a wanderatlasguides.com.", citeText: (n: number, url: string) => `Fuente: datos de afluencia de Wander Atlas (${n} lugares), ${url}`, linkText: "Datos de afluencia de Wander Atlas", copyBtn: "Copiar", copiedOk: "Copiado ✓", widgetRow: "Widget de afluencia · cada guía de lugar tiene uno para insertar", widgetCta: "Ver un ejemplo →", apiRow: "Datos en bruto para desarrolladores · directamente de la API de BestTime.app",
     faqTitle: 'Preguntas frecuentes', faqDek: 'Cómo calculamos la afluencia se explica en la', faqLink: 'página de metodología',
     faq: [
-      ['¿Cómo se calcula la afluencia?', 'Con los datos medidos de visitas de cada lugar, hora a hora (previsiones de afluencia de BestTime.app), limitados a su horario de apertura. De ahí sacamos las horas más tranquilas y más llenas del día.'],
+      ['¿Cómo se calcula la afluencia?', 'Con la previsión de afluencia hora a hora de cada lugar (BestTime.app, basada en patrones históricos de visitas), limitados a su horario de apertura. De ahí sacamos las horas más tranquilas y más llenas del día.'],
       ['¿En qué zona horaria están las horas?', 'Siempre en la hora local del lugar. El modo "ahora" calcula la hora actual de cada sitio, así que un museo de Seúl y un café de Nueva York se juzgan cada uno con su reloj.'],
       ['¿Por qué separar entre semana y fin de semana?', 'La mayoría de los lugares se llenan a otras horas el fin de semana. Donde los días cambian, la tarjeta indica a qué días se refieren las horas tranquilas.'],
-      ['¿Hay lugares sin datos?', 'Sí. Aquí solo aparecen lugares con previsión medida. Festivos y eventos especiales pueden cambiar la afluencia habitual.'],
+      ['¿Hay lugares sin datos?', 'Sí. Aquí solo aparecen lugares con previsión. Festivos y eventos especiales pueden cambiar la afluencia habitual.'],
     ],
   },
   zh: {
@@ -332,7 +337,7 @@ const L = {
     listTitle: '各地点的空闲时段', all: '全部', cityAll: '所有城市',
     modeNow: '现在 · 当地时间', modePick: '指定时间', modeNote: '每个地点按其当地当前时间计算',
     weekday: '工作日', weekend: '周末', sortQuiet: '最空闲优先', sortRating: '评分最高', sortCity: '按城市',
-    count: (n: number, when: string) => `${n} 处 · ${when}`, whenNow: '现在，当地时间',
+    count: (n: number, when: string) => `${n} 处 · ${when}`, whenNow: '现在，当地时间', noHours: '营业时间未确认',
     stNow: { q: '现在空闲', m: '现在一般', b: '现在拥挤', x: '现在未营业', o: '现在不在统计时段' },
     stAt: { q: '空闲', m: '一般', b: '拥挤', x: '未营业', o: '不在统计时段' }, local: '当地',
     guide: '查看指南 →', add: '+ 加入一日行程', added: '✓ 已加入行程', more: (n: number) => `再看 ${n} 处 ↓`,
@@ -342,13 +347,13 @@ const L = {
     copy: '复制行程链接', copied: '链接已复制 ✓', close: '关闭', myTrip: '打开我的行程 →',
     ticketsTitle: '空闲时段也要排长队的地方', ticketsBody: '观景台和热门博物馆有分时段门票，能替你排队。按空闲时段预约最稳妥。',
     ticketsCta: '浏览门票 →', itinCta: '按空闲顺序的路线',
-    whereTitle: "去哪里，看什么", lblCountry: "国家", lblCity: "城市", lblType: "类型", moreCountries: (n: number) => `+${n} 个国家`, fewer: "收起", cityHint: "选择国家后可以按城市筛选", allCities: "全部城市", whenTitle: "什么时候去？", wkGroup: "工作日", weGroup: "周末", todayLbl: "今天", amLbl: "上午", pmLbl: "下午", nowBig: "现在", nowSub: "每个地点按当地时间", nowNote: "无论你在哪里看，都按各地点的当地时间计算拥挤度 · 每分钟更新", hintMorning: (pct: number) => `工作日上午 11 点前 · ${pct}% 的地点最空闲`, hintPeak: (h: string) => `周末${h} · 最常见的拥挤时段`, scopeWorld: "全球", typeAll: "全部类型", basis: (n: number) => `依据 · ${n} 处`, reset: "重置筛选", reportPill: (n: number) => `数据报告 · ${n} 处`, citeBtn: "引用这份数据", c1Label: "工作日", c1Sentence: (pct: number) => `工作日有 ${pct}% 的地点在上午 11 点前最空闲。`, c1Take: "去哪里都是越早越好", c2Label: "周末", c2Sentence: '周末最常见的拥挤时段。', c2Take: "这个时段安排室内行程或提前预约", c3Label: "景点 · 餐厅", c3Sentence: (pct: number) => `${pct}% 的景点在工作日上午最空闲。`, c3Take: (h: string) => `餐厅通常在${h}左右比较宽松`, chartSub: "地点最多的 10 个城市 · 当地时间", bandLegend: "上午 11 点前", sortMany: "地点多的优先", sortEarly: "时间早的优先", evening: "晚上", insightA: (n: number, k: number, r: string) => `${n} 个城市中有 ${k} 个在${r}最空闲。`, insightB: (n: number, k: number, r: string, list: string) => `${n} 个城市中有 ${k} 个在${r}最空闲，晚上最空闲的是${list}。`, clickHint: "点击城市即可应用到上方筛选", placesN: (n: number) => `${n} 处`, srcT: "来源", srcB: "逐个地点收集 BestTime.app 的实时人流预测。", adjT: "校正", adjB: "按各地点的营业时间和上午 7 点至晚上 10 点的范围整理。", ruleT: "原则", ruleB: "不使用估算值。没有可靠预测的地点不收录。", growing: (n: number) => `目前 ${n} 处 · 每篇新指南都会增加`, methodLink: "测量方法详解 →", citeTitle: "引用或嵌入这份数据", citeAsText: "文字", citeAsHtml: "链接 HTML", citeBody: "记者、博主和研究者可以在附上 wanderatlasguides.com 链接的前提下引用这些数字。", citeText: (n: number, url: string) => `来源：Wander Atlas 拥挤度数据（${n} 处），${url}`, linkText: "Wander Atlas 拥挤度数据", copyBtn: "复制", copiedOk: "已复制 ✓", widgetRow: "实时拥挤度小组件 · 每篇地点指南都可以嵌入", widgetCta: "查看示例 →", apiRow: "开发者原始数据 · 请直接从 BestTime.app API 获取",
+    whereTitle: "去哪里，看什么", lblCountry: "国家", lblCity: "城市", lblType: "类型", moreCountries: (n: number) => `+${n} 个国家`, fewer: "收起", cityHint: "选择国家后可以按城市筛选", allCities: "全部城市", whenTitle: "什么时候去？", wkGroup: "工作日", weGroup: "周末", todayLbl: "今天", amLbl: "上午", pmLbl: "下午", nowBig: "现在", nowSub: "每个地点按当地时间", nowNote: "无论你在哪里看，都按各地点的当地时间计算拥挤度 · 每分钟更新", hintMorning: (pct: number) => `工作日上午 11 点前 · ${pct}% 的地点最空闲`, hintPeak: (h: string) => `周末${h} · 最常见的拥挤时段`, scopeWorld: "全球", typeAll: "全部类型", basis: (n: number) => `依据 · ${n} 处`, reset: "重置筛选", reportPill: (n: number) => `数据报告 · ${n} 处`, citeBtn: "引用这份数据", c1Label: "工作日", c1Sentence: (pct: number) => `工作日有 ${pct}% 的地点在上午 11 点前最空闲。`, c1Take: "去哪里都是越早越好", c2Label: "周末", c2Sentence: '周末最常见的拥挤时段。', c2Take: "这个时段安排室内行程或提前预约", c3Label: "景点 · 餐厅", c3Sentence: (pct: number) => `${pct}% 的景点在工作日上午最空闲。`, c3Take: (h: string) => `餐厅通常在${h}左右比较宽松`, chartSub: "地点最多的 10 个城市 · 当地时间", bandLegend: "上午 11 点前", sortMany: "地点多的优先", sortEarly: "时间早的优先", evening: "晚上", insightA: (n: number, k: number, r: string) => `${n} 个城市中有 ${k} 个在${r}最空闲。`, insightB: (n: number, k: number, r: string, list: string) => `${n} 个城市中有 ${k} 个在${r}最空闲，晚上最空闲的是${list}。`, clickHint: "点击城市即可应用到上方筛选", placesN: (n: number) => `${n} 处`, srcT: "来源", srcB: "在发布每篇指南时逐个地点获取 BestTime.app 的人流预测。", adjT: "校正", adjB: "按各地点的营业时间和上午 7 点至晚上 10 点的范围整理。", ruleT: "原则", ruleB: "不做臆测。没有可靠预测的地点不收录。", growing: (n: number) => `目前 ${n} 处 · 每篇新指南都会增加`, methodLink: "预测方法详解 →", citeTitle: "引用或嵌入这份数据", citeAsText: "文字", citeAsHtml: "链接 HTML", citeBody: "记者、博主和研究者可以在附上 wanderatlasguides.com 链接的前提下引用这些数字。", citeText: (n: number, url: string) => `来源：Wander Atlas 拥挤度数据（${n} 处），${url}`, linkText: "Wander Atlas 拥挤度数据", copyBtn: "复制", copiedOk: "已复制 ✓", widgetRow: "拥挤度小组件 · 每篇地点指南都可以嵌入", widgetCta: "查看示例 →", apiRow: "开发者原始数据 · 请直接从 BestTime.app API 获取",
     faqTitle: '常见问题', faqDek: '拥挤度如何计算，详见', faqLink: '方法论页面',
     faq: [
-      ['拥挤度是怎么算的？', '根据每个地点实测的到访数据（BestTime.app 的分时段人流预测），在营业时间内逐小时分析，找出一天中最空闲和最拥挤的时段。'],
+      ['拥挤度是怎么算的？', '根据每个地点的分时段人流预测（BestTime.app，基于历史到访规律），在营业时间内逐小时分析，找出一天中最空闲和最拥挤的时段。'],
       ['时间按哪个国家算？', '始终是该地点的当地时间。"现在"模式会分别计算每个地点的当前时间，首尔的博物馆和纽约的咖啡馆各按自己的时钟判断。'],
       ['为什么把工作日和周末分开？', '大多数地方周末拥挤的时段不同。不同日子情况不一样的地方，卡片上会注明空闲时段适用于哪几天。'],
-      ['有没有没有数据的地方？', '有。这里只列出有实测预测数据的地点。节假日和特别活动期间可能与平时不同。'],
+      ['有没有没有数据的地方？', '有。这里只列出有预测数据的地点。节假日和特别活动期间可能与平时不同。'],
     ],
   },
 } as const;
@@ -358,7 +363,7 @@ const catLabel: Record<string, string> = {
 };
 const nf = new Intl.NumberFormat(lang === 'zh' ? 'zh-CN' : lang);
 const STR = {
-  stNow: T.stNow, stAt: T.stAt, local: T.local, weekday: T.weekday, weekend: T.weekend, whenNow: T.whenNow,
+  stNow: T.stNow, stAt: T.stAt, local: T.local, weekday: T.weekday, weekend: T.weekend, whenNow: T.whenNow, noHours: T.noHours,
   add: T.add, added: T.added, saved: T.saved, copied: T.copied, noQuiet: T.noQuiet, multiCity: T.multiCity, overlap: T.overlap,
   wNone: T.wNone, guide: T.guide,
   am: AMPM.am, pm: AMPM.pm, lang,
@@ -377,7 +382,7 @@ const datasetLd = {
   '@type': 'Dataset',
   name: `Quiet & busy visiting hours for ${index.length} travel venues`,
   description:
-    'Quietest and busiest visiting hours per venue (cafés, restaurants, attractions) derived from BestTime.app live foot-traffic forecasts, clamped to each venue’s opening hours. Updated as new guides are published.',
+    'Quietest and busiest visiting hours per venue (cafés, restaurants, attractions) derived from BestTime.app foot-traffic forecasts (built from historical visit patterns), clamped to each venue’s opening hours. Updated as new guides are published.',
   url: 'https://wanderatlasguides.com/tools/best-time/',
   creator: { '@type': 'Organization', name: 'Wander Atlas', url: 'https://wanderatlasguides.com' },
   isAccessibleForFree: true,
@@ -566,7 +571,7 @@ const cellCls = { q: 'quiet', b: 'busy', m: 'mid', x: 'closed' } as const;
     <div class="bt-results" data-results>
       {index.map((d, i) => (
         <article class:list={['bt-card', { 'is-more': i >= PAGE }]} data-s={d.s} data-c={d.c} data-r={d.r} data-cat={d.cat}
-          data-rating={d.rating} data-tz={d.tz} data-p={d.pats} data-d={d.days}
+          data-rating={d.rating} data-tz={d.tz} data-p={d.pats} data-d={d.days} data-nh={d.nh ? '1' : undefined}
           data-q={`${d.t} ${d.r} ${d.c} ${d.region} ${d.country}`.toLowerCase()}
           data-save={JSON.stringify({ slug: d.s, title: d.t, region: d.region, country: d.country, href: d.u, image: d.b, rs: d.rs })}>
           <a class="bt-photo" href={d.u} tabindex="-1" aria-hidden="true">
@@ -755,10 +760,10 @@ const cellCls = { q: 'quiet', b: 'busy', m: 'mid', x: 'closed' } as const;
     const num = (tpl: string, n: number) => tpl.replace(/0/, String(n));
     const H = (h: number) => S.hours[h] as string;
     const PAGE = Number(root.dataset.page) || 24;
-    type Card = { el: HTMLElement; tz: string; pats: string[]; days: string; rating: number; order: number; status: string; hour: number; day: number };
+    type Card = { el: HTMLElement; tz: string; pats: string[]; days: string; rating: number; order: number; status: string; hour: number; day: number; nh: boolean };
     const cards: Card[] = [...root.querySelectorAll<HTMLElement>('.bt-card')].map((el, i) => ({
       el, tz: el.dataset.tz || '', pats: (el.dataset.p || '').split('|'), days: el.dataset.d || '0000000',
-      rating: Number(el.dataset.rating) || 0, order: i, status: 'o', hour: -1, day: 0,
+      rating: Number(el.dataset.rating) || 0, order: i, status: 'o', hour: -1, day: 0, nh: el.dataset.nh === '1',
     }));
     const WEEK = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'];
     const clock = (tz: string) => {
@@ -792,12 +797,13 @@ const cellCls = { q: 'quiet', b: 'busy', m: 'mid', x: 'closed' } as const;
           cell.className = CLS[pat[i]] || 'mid';
           if (i + 7 === c.hour) cell.classList.add('is-now');
         });
-        const label = (st.mode === 'now' ? S.stNow : S.stAt)[c.status];
+        const unsure = c.nh && (c.status === 'q' || c.status === 'm' || c.status === 'b');
+        const label = (st.mode === 'now' ? S.stNow : S.stAt)[c.status] + (unsure ? ` · ${S.noHours}` : '');
         const when = st.mode === 'now' ? `${S.local} ${H(c.hour)}` : `${S.days[st.day]} ${H(c.hour)}`;
         const p = c.el.querySelector<HTMLElement>('[data-status]')!;
         p.textContent = `${label} · ${when}`;
         p.className = `bt-status st-${c.status}`;
-        c.el.classList.toggle('is-quiet', c.status === 'q');
+        c.el.classList.toggle('is-quiet', c.status === 'q' && !c.nh);
       }
     }
 
@@ -806,11 +812,14 @@ const cellCls = { q: 'quiet', b: 'busy', m: 'mid', x: 'closed' } as const;
       return (!st.cat || d.cat === st.cat) && (!st.country || d.c === st.country) && (!st.region || d.r === st.region) && (!st.q || (d.q || '').includes(st.q));
     };
     const RANK: Record<string, number> = { q: 0, m: 1, b: 2, o: 3, x: 4 };
+    // A quiet hour we cannot place inside opening hours ranks just below the
+    // confirmed ones, never at the top of "quietest now".
+    const rankOf = (c: Card) => RANK[c.status] + (c.nh && c.status === 'q' ? 0.5 : 0);
 
     function render() {
       const vis = cards.filter(matches);
       const sorted = [...vis].sort((a, b) =>
-        st.sort === 'quiet' ? RANK[a.status] - RANK[b.status] || b.rating - a.rating || a.order - b.order
+        st.sort === 'quiet' ? rankOf(a) - rankOf(b) || b.rating - a.rating || a.order - b.order
         : st.sort === 'rating' ? b.rating - a.rating || a.order - b.order
         : a.order - b.order);
       const rank = new Map(sorted.map((c, i) => [c, i]));
@@ -881,7 +890,7 @@ const cellCls = { q: 'quiet', b: 'busy', m: 'mid', x: 'closed' } as const;
     }
 
     function widget(sorted: Card[]) {
-      const quiet = sorted.filter((c) => c.status === 'q').sort((a, b) => b.rating - a.rating);
+      const quiet = sorted.filter((c) => c.status === 'q' && !c.nh).sort((a, b) => b.rating - a.rating);
       const pick = st.mode === 'pick';
       const when = `${S.days[st.day]} ${H(st.hour)}`;
       root.querySelector('[data-w-kicker]')!.textContent = pick ? S.wPick.replace('{when}', when) : S.wNow;

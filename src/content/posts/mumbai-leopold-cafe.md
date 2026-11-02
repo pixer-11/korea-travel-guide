@@ -83,7 +83,7 @@ faq:
   - q: When is the quietest time to visit?
     a: >-
       Between 7:30am and 12pm, whether on a weekday or weekend, based on
-      measured foot-traffic patterns. Avoid weekend afternoons and evenings,
+      typical foot-traffic patterns. Avoid weekend afternoons and evenings,
       roughly 3pm to 11pm, when it's consistently busiest.
   - q: How much time should I plan for a visit?
     a: >-

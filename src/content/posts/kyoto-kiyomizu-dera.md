@@ -126,7 +126,7 @@ Tradition holds each stream grants a different fortune: longevity, success in st
 
 ## Timing it around the crowds
 
-Kiyomizu-dera is open 6am to 6pm every day, and that early opening matters more here than at almost any other Kyoto temple. Measured foot traffic shows the calmest window is 7am to 9am, on weekdays and weekends alike.
+Kiyomizu-dera is open 6am to 6pm every day, and that early opening matters more here than at almost any other Kyoto temple. Typical foot traffic shows the calmest window is 7am to 9am, on weekdays and weekends alike.
 
 By 10am the lanes below the Niomon gate start to clog, and the temple stays busy through to about 5pm on weekends. If you can only visit once, arrive at or near 6am; you'll have the veranda close to yourself before the tour buses reach Higashiyama.
 

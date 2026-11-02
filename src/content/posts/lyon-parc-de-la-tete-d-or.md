@@ -119,7 +119,7 @@ Scattered through the grounds you'll also find a mini-golf course, pony rides fo
 
 ## When to go
 
-The park keeps early-morning-to-evening hours daily, so early mornings and evenings both work well if you want the paths closer to empty. Measured foot-traffic data shows both weekdays and weekends stay calm from 7am through into the evening, but weekend afternoons are a different story: crowds build steadily and peak between 1pm and 8pm, when the lawns by the lake fill with picnicking families and the paths around the zoo get genuinely congested.
+The park keeps early-morning-to-evening hours daily, so early mornings and evenings both work well if you want the paths closer to empty. Typical foot-traffic data shows both weekdays and weekends stay calm from 7am through into the evening, but weekend afternoons are a different story: crowds build steadily and peak between 1pm and 8pm, when the lawns by the lake fill with picnicking families and the paths around the zoo get genuinely congested.
 
 If you can, visit on a weekday morning or aim for a weekend arrival before noon. Spring brings the rose garden into bloom, autumn turns the plane trees gold, and even in winter the park stays open and walkable, just quieter and starker.
 

@@ -33,11 +33,37 @@ const TAIL_START = {
 // ("포스트 말론 마닐라 공연 총정리", "大相撲九月場所(秋場所)完全ガイド").
 const END_PHRASE = {
   en: null,
-  ko: /\s*(?:완벽 가이드|완벽 정리|완전 정리|총정리|알아두기|참고 정보|가이드|안내)$/,
+  // "…스페인 공연 일정·티켓·공연장 안내" — the boilerplate glued with middle dots
+  // once the colon inside a quoted tour name is (rightly) not a cut point.
+  ko: /\s*(?:일정\s?[·・,，]\s?티켓\s?[·・,，]\s?(?:공연장|경기장|행사장|개최\s?장소)(?:\s?(?:안내|정보))?|완벽 가이드|완벽 정리|완전 정리|총정리|알아두기|참고 정보|가이드|안내)$/,
   ja: /\s*(?:について知っておきたいこと|で知っておきたいこと|知っておきたいこと|開催情報まとめ|開催情報|情報まとめ|完全ガイド|徹底ガイド|基本ガイド|観戦ガイド|ガイド|基礎知識|まとめ|について|とは)$/,
   es: null,
   zh: /\s*(?:需要了解的信息|看点全解|预告须知|观演指南|观演须知|观赛指南|出行须知|行前须知|参赛指南|完全指南|攻略指南|全攻略|指南|须知|需知)$/,
 };
+
+// A separator inside quotes or brackets is part of the name, not the start of
+// a tail: "엔믹스 월드 투어 '에피소드 1: 제로 프론티어' 스페인 공연…" was cut at
+// the colon inside the tour title and shipped as "엔믹스 월드 투어 '에피소드 1"
+// on /ko/events/ (2026-11-02). A cut is allowed only where every quote and
+// bracket opened before it has closed.
+// Straight quotes double as apostrophes ("Everyone's", "Don't", "Guns N' Roses",
+// "CRYIN'"), so they are counted by position: an OPENING quote follows a space
+// or an opening bracket and precedes text; a CLOSING quote follows text and
+// precedes a space, punctuation or the end. A mid-word apostrophe is neither.
+// The first version counted every ' and stopped 60 good cuts.
+const PAIRS = [['(', ')'], ['（', '）'], ['「', '」'], ['『', '』'], ['“', '”'], ['‘', '’'], ['《', '》'], ['【', '】']];
+const count = (s, re) => (s.match(re) || []).length;
+function balanced(head) {
+  // " is never an apostrophe: plain parity.
+  if (count(head, /"/g) % 2) return false;
+  const opens = count(head, /(?:^|[\s(（「『“])'(?=\S)/g);
+  // A closing ' is followed by anything but a Latin letter or digit — "'에피소드
+  // 1: 제로 프론티어' 스페인", "「…」" — while "Everyone's" is followed by s.
+  const closes = count(head, /(?<=\S)'(?![A-Za-z0-9À-ÿ])/g);
+  if (opens > closes) return false;
+  for (const [o, c] of PAIRS) if (head.split(o).length > head.split(c).length) return false;
+  return true;
+}
 
 // A trailing "(City)" / "（城市）" — the row prints the city in its own column.
 const TRAILING_PAREN = /\s*[(（][^()（）]*[)）]\s*$/;
@@ -68,6 +94,7 @@ export function eventShortName(title, lang = 'en') {
   }
   positions.sort((a, b) => a[0] - b[0] || b[1].length - a[1].length);
   for (const [i, sep] of positions) {
+    if (!balanced(unparen.slice(0, i))) continue;
     const tail = unparen.slice(i + sep.length).trim();
     if (TAIL_START[L].test(tail)) {
       s = unparen.slice(0, i);

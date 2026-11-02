@@ -114,7 +114,7 @@ Sundays have usually leaned towards arts, crafts and local produce. If you're af
 
 ## Beating the crowds on Market Hill
 
-Get there early on a weekday. Measured foot traffic shows the square is quietest between 10am and 11am on weekdays. That's also right at opening, so traders are still setting out and nobody is queuing for food yet.
+Get there early on a weekday. Typical foot traffic shows the square is quietest between 10am and 11am on weekdays. That's also right at opening, so traders are still setting out and nobody is queuing for food yet.
 
 Weekends are a different story. Between 11am and 4pm on Saturdays and Sundays the lanes fill up, the food queues get longer and you'll struggle to find space on the fountain steps. If a weekend is your only option, come at 10am and be finished before the rush.
 

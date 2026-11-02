@@ -90,7 +90,7 @@ Give yourself at least 60–90 minutes for the indoor galleries alone, then anot
 
 ## When to go
 
-This is a very popular stop on the Seattle Center circuit, so timing matters more here than at a quieter museum. Measured foot-traffic patterns show weekends get busy from 11am to 7pm. Avoid that window if you can. Weekdays are calmer across the whole day, roughly 9am to 9pm, and on weekends your best shot at breathing room is the last couple of hours before closing, 7pm to 9pm.
+This is a very popular stop on the Seattle Center circuit, so timing matters more here than at a quieter museum. Typical foot-traffic patterns show weekends get busy from 11am to 7pm. Avoid that window if you can. Weekdays are calmer across the whole day, roughly 9am to 9pm, and on weekends your best shot at breathing room is the last couple of hours before closing, 7pm to 9pm.
 
 Hours vary by day: Monday through Wednesday it closes at 8pm, Thursday and Saturday it stays open until 9:30pm, Friday opens earlier at 8:30am and runs to 9:30pm, and Sunday runs 9:30am to 8:30pm, worth checking the current schedule before you go, since museums do shift hours seasonally.
 

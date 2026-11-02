@@ -142,7 +142,7 @@ Benches are shared space. Families, students and older residents use them all da
 
 ## When to come, and when to skip
 
-The park itself never closes. Measured foot traffic shows weekends are busy from 9am to 11pm. Try not to arrive on a Saturday or Sunday expecting an empty bench or a free stool at the busiest stalls; that is when the square is fullest. A weekday visit is the easier choice.
+The park itself never closes. Typical foot traffic shows weekends are busy from 9am to 11pm. Try not to arrive on a Saturday or Sunday expecting an empty bench or a free stool at the busiest stalls; that is when the square is fullest. A weekday visit is the easier choice.
 
 Mérida's midday heat counts as much as the crowds. The trees give real shade, but between late morning and mid-afternoon most people stay out of the sun. Early morning and evening are the comfortable hours. Once the street lights come on, the church facade is lit and the stalls do steady business.
 

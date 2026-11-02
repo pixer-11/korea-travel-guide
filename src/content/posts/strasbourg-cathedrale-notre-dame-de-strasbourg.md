@@ -45,7 +45,7 @@ faq:
   - q: Is it free to visit Strasbourg Cathedral?
     a: Yes, entry to the main nave is free. Only the astronomical clock viewing and the climb to the tower platform require separate paid tickets, bought at the south portal counter.
   - q: When is the quietest time to visit?
-    a: Between 8:30am and 10am, on weekdays and Saturdays, according to measured foot-traffic — right after the doors open at 8:30am. Sundays open later, at 2pm, so the quiet window there starts right at 2 instead. Avoid weekend afternoons, when it's busiest.
+    a: Between 8:30am and 10am, on weekdays and Saturdays, according to typical foot-traffic — right after the doors open at 8:30am. Sundays open later, at 2pm, so the quiet window there starts right at 2 instead. Avoid weekend afternoons, when it's busiest.
   - q: How do I get to the cathedral from the train station?
     a: It's about a 20-minute walk, or take tram Line A or D to Langstross Grand'Rue or Broglie and walk the remaining five minutes through the pedestrian old town.
   - q: How long should I spend there?
@@ -71,7 +71,7 @@ Nearby, the Angels' Pillar carved around 1230 shows the Last Judgment in tiers o
 
 ## When to go
 
-The cathedral keeps a split schedule every day, closing over the middle of the day and opening later on Sundays, useful to know since Mass and services can restrict access at other times. Measured foot-traffic shows the calmest window is 8:30am to 10am on weekdays and Saturdays, right as the doors open, while Sunday's later 2pm start means the same quiet-window trick simply moves to arriving right at 2; crowds otherwise build steadily through the day and peak in the afternoon.
+The cathedral keeps a split schedule every day, closing over the middle of the day and opening later on Sundays, useful to know since Mass and services can restrict access at other times. Typical foot-traffic shows the calmest window is 8:30am to 10am on weekdays and Saturdays, right as the doors open, while Sunday's later 2pm start means the same quiet-window trick simply moves to arriving right at 2; crowds otherwise build steadily through the day and peak in the afternoon.
 
 Given how well-visited this place is year-round, that early slot isn't a nice-to-have, it's the difference between having the nave largely to yourself and shuffling shoulder-to-shoulder with tour groups under the rose window.
 

@@ -84,7 +84,7 @@ faq:
       figure you're told as approximate.
   - q: When is the quietest time to visit?
     a: >-
-      Between 7am and 9am, on both weekdays and weekends, according to measured
+      Between 7am and 9am, on both weekdays and weekends, according to typical
       foot-traffic. Avoid weekend afternoons from 2pm to 6pm, when it's busiest.
   - q: How long should I spend at Mitra's Ranch?
     a: >-

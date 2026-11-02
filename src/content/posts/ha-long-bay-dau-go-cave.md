@@ -73,12 +73,12 @@ place:
 tags:
   - "ha long bay"
   - "old quarter"
-quickAnswer: "Dau Go Cave is a limestone cave on Dau Go Island in Ha Long Bay, reached by boat from the Bai Chay side of Ha Long City and usually visited alongside Thien Cung Cave on the same stop. Budget 30 to 45 minutes inside, and skip weekends between 8am and 5pm, when it is at its busiest. Measured foot traffic is lowest from 6pm to 11pm, but your boat schedule decides whether you can actually get there then."
+quickAnswer: "Dau Go Cave is a limestone cave on Dau Go Island in Ha Long Bay, reached by boat from the Bai Chay side of Ha Long City and usually visited alongside Thien Cung Cave on the same stop. Budget 30 to 45 minutes inside, and skip weekends between 8am and 5pm, when it is at its busiest. Typical foot traffic is lowest from 6pm to 11pm, but your boat schedule decides whether you can actually get there then."
 faq:
   - q: "How do I get to Dau Go Cave?"
     a: "Only by boat. Day boats leave from the Bai Chay side of Ha Long City, and many overnight cruises leave from Tuan Chau Island marina. From the pier, a steep stone staircase climbs to the cave entrance."
   - q: "When is the quietest time to visit Dau Go Cave?"
-    a: "Measured foot traffic is lowest from 6pm to 11pm on both weekdays and weekends. Weekends from 8am to 5pm are the busiest time, so avoid them if you can. Check that your boat actually stops there in the evening before you plan around it."
+    a: "Typical foot traffic is lowest from 6pm to 11pm on both weekdays and weekends. Weekends from 8am to 5pm are the busiest time, so avoid them if you can. Check that your boat actually stops there in the evening before you plan around it."
   - q: "How long should I spend inside?"
     a: "Plan on 30 to 45 minutes for Dau Go. Most visitors also see Thien Cung Cave on the same island, which adds roughly the same again."
   - q: "Is Dau Go Cave hard to walk?"
@@ -110,7 +110,7 @@ From the landing pier, a steep stone staircase climbs the cliff to the cave mout
 Google lists the cave as open 24 hours every day. In practice, you arrive whenever your boat does.
 
 - **Avoid:** weekends from 8am to 5pm. Tour groups stack up on the stairs and the narrower passages then.
-- **Quietest:** 6pm to 11pm on both weekdays and weekends, going by measured foot traffic. Few boats schedule a cave stop that late, so ask your operator before counting on it.
+- **Quietest:** 6pm to 11pm on both weekdays and weekends, going by typical foot traffic. Few boats schedule a cave stop that late, so ask your operator before counting on it.
 - **Next best:** a weekday departure. Weekday daytime crowds run lighter than weekend peaks.
 
 Allow 30 to 45 minutes for Dau Go itself. Add roughly the same again if you are doing Thien Cung too.

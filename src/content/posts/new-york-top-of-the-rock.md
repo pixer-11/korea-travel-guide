@@ -115,7 +115,7 @@ At night the deck transforms, the city becomes a grid of lit windows and moving 
 
 ## When to go
 
-Opening and closing times vary by season, with the last elevator typically running about an hour before closing, worth confirming on the day before you go. Measured foot-traffic data points to the same quiet window both on weekdays and weekends: right at opening through late evening tends to stay manageable, while the crunch on weekends lands squarely between 4pm and 8pm as the after-lunch crowd overlaps with sunset-seekers.
+Opening and closing times vary by season, with the last elevator typically running about an hour before closing, worth confirming on the day before you go. Typical foot-traffic data points to the same quiet window both on weekdays and weekends: right at opening through late evening tends to stay manageable, while the crunch on weekends lands squarely between 4pm and 8pm as the after-lunch crowd overlaps with sunset-seekers.
 
 If you want the golden-hour-into-night transition without elbow-to-elbow rails, book a slot just before sunset on a weekday, or go for the last entry window and watch the city light up with a fraction of the daytime crowd around you.
 

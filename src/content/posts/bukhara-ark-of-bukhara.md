@@ -71,7 +71,7 @@ faq:
       confirm locally if visiting during a festival period.
   - q: When is the quietest time to visit?
     a: >-
-      Between 9am and 10am, on both weekdays and weekends, based on measured
+      Between 9am and 10am, on both weekdays and weekends, based on typical
       foot-traffic patterns. Try to avoid 5pm–6pm on weekends, when it's busiest
       before closing.
   - q: How do I get to the Ark from Bukhara's old town?

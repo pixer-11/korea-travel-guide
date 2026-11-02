@@ -113,7 +113,7 @@ From the downtown CTrain stations along 7 Avenue, you're looking at a 10–15 mi
 
 ## Timing the lawn and the paths
 
-The measured foot traffic is easy to read. On weekdays and weekends alike, the calmest window is 7am–9am. At that hour you mostly share the paths with runners and cyclists commuting along the river, and the light comes low across the water.
+The typical foot traffic is easy to read. On weekdays and weekends alike, the calmest window is 7am–9am. At that hour you mostly share the paths with runners and cyclists commuting along the river, and the light comes low across the water.
 
 Try not to arrive on a weekend after 11am. From then until 10pm the park is at its busiest, the bridges slow down and good picnic shade is gone. Google currently lists the island as open 24 hours, but city park rules and event closures can change that, so check the City of Calgary's park page before planning a late visit.
 

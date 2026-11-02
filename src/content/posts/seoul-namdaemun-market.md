@@ -87,7 +87,7 @@ The market sits at 21 Namdaemunsijang 4-gil in Jung District, a ten-minute walk 
 
 ## Reading the market's rhythm
 
-This is one of Seoul's most-visited markets, not a quiet find, so timing matters more than which entrance you use. Measured foot traffic shows the calmest hours are 9am to 10am, both on weekdays and weekends, right as stalls are rolling up their shutters.
+This is one of Seoul's most-visited markets, not a quiet find, so timing matters more than which entrance you use. Typical foot traffic shows the calmest hours are 9am to 10am, both on weekdays and weekends, right as stalls are rolling up their shutters.
 
 Weekend afternoons are the opposite: crowds build steadily from 11am through closing at 5pm, and the narrow alleys near the food stalls bottleneck fast. If you want photos of the stalls without a wall of shoulders in frame, get there at opening.
 

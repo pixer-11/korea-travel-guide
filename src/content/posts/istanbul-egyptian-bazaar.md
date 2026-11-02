@@ -122,7 +122,7 @@ Textile and ceramic stalls cluster toward the quieter side arms of the L, with h
 
 ## When to go
 
-The market keeps to a consistent daily schedule, so there's no early or late-closing day to plan around. The measured foot traffic backs up what you'd guess: weekdays between 8am and 11am are the quietest stretch, and on weekends you get a similar lull from opening until around noon. Once weekend afternoons hit 1pm, the lanes fill wall-to-wall until closing time, so if you want room to actually look at what's on the shelves rather than shuffle past it, front-load your visit.
+The market keeps to a consistent daily schedule, so there's no early or late-closing day to plan around. The typical foot traffic backs up what you'd guess: weekdays between 8am and 11am are the quietest stretch, and on weekends you get a similar lull from opening until around noon. Once weekend afternoons hit 1pm, the lanes fill wall-to-wall until closing time, so if you want room to actually look at what's on the shelves rather than shuffle past it, front-load your visit.
 
 ## How to visit like a local
 

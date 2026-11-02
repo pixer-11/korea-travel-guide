@@ -61,3 +61,18 @@ test('empty and degenerate input falls back to the title', () => {
   // Unknown language uses the English rules rather than throwing.
   assert.equal(eventShortName('Aloha Festivals: Dates, Tickets & Venue (Honolulu)', 'fr'), 'Aloha Festivals');
 });
+
+test('a colon inside a quoted tour name is not a cut point (11-02: /ko/events/ showed "엔믹스 월드 투어 \'에피소드 1")', () => {
+  assert.equal(
+    eventShortName("엔믹스 월드 투어 '에피소드 1: 제로 프론티어' 스페인 공연 일정·티켓·공연장 안내 (마드리드)", 'ko'),
+    "엔믹스 월드 투어 '에피소드 1: 제로 프론티어' 스페인 공연",
+  );
+  // dot-joined boilerplate glued to the end is trimmed like the colon form
+  assert.equal(eventShortName('ATP 파이널스 일정·티켓·경기장 안내 (토리노)', 'ko'), 'ATP 파이널스');
+});
+
+test('apostrophes are not quotes — cuts after "Everyone\'s", "Don\'t", "Guns N\' Roses" still happen', () => {
+  assert.equal(eventShortName("5SOS 'Everyone's A Star!' 월드투어: 마닐라 공연 일정, 티켓, 공연장 (마닐라)", 'ko'), "5SOS 'Everyone's A Star!' 월드투어");
+  assert.equal(eventShortName("Concierto de Guns N' Roses en Yakarta: fechas, entradas y recinto (Yakarta)", 'es'), "Concierto de Guns N' Roses en Yakarta");
+  assert.equal(eventShortName('A$AP Rocky "Don\'t Be Dumb"世界巡演（I-Days Milano）：日期、门票与场馆信息（米兰）', 'zh'), 'A$AP Rocky "Don\'t Be Dumb"世界巡演（I-Days Milano）');
+});

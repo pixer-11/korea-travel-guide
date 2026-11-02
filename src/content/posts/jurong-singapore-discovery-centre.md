@@ -107,7 +107,7 @@ Hours differ sharply by day, so check which one applies before you go:
 - Monday to Friday: 12:00pm–6:00pm
 - Saturday and Sunday: 11:00am–7:00pm
 
-That short weekday window means arriving right at noon gives you the fullest run of the afternoon. Measured foot traffic shows the quietest stretch on weekdays falls between 5pm and 6pm, right before closing. On weekends, 11am to 1pm is the calm patch, before family groups pack the simulators through the afternoon. With a 4.7-star average across more than 9,000 reviews, this is a well-visited attraction, so timing around those windows matters more than at a quieter museum.
+That short weekday window means arriving right at noon gives you the fullest run of the afternoon. Typical foot traffic shows the quietest stretch on weekdays falls between 5pm and 6pm, right before closing. On weekends, 11am to 1pm is the calm patch, before family groups pack the simulators through the afternoon. With a 4.7-star average across more than 9,000 reviews, this is a well-visited attraction, so timing around those windows matters more than at a quieter museum.
 
 ## Getting there and planning the visit
 

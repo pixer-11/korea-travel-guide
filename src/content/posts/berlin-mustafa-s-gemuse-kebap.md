@@ -126,7 +126,7 @@ It's a budget-friendly meal and a filling one. One kebab is plenty for lunch. If
 
 ## Working the Mehringdamm line
 
-Measured foot traffic makes timing easy. **On weekdays the kiosk is quietest outside the busiest lunch and dinner hours**, so a Monday to Thursday visit at almost any hour beats the weekend. **On weekends, come between 11am and 1pm.** Try not to turn up on a Saturday or Sunday between 1pm and 11pm; that's when the line stretches furthest down the pavement.
+Typical foot traffic makes timing easy. **On weekdays the kiosk is quietest outside the busiest lunch and dinner hours**, so a Monday to Thursday visit at almost any hour beats the weekend. **On weekends, come between 11am and 1pm.** Try not to turn up on a Saturday or Sunday between 1pm and 11pm; that's when the line stretches furthest down the pavement.
 
 How the queue works:
 

@@ -127,7 +127,7 @@ Budget an hour just to wander, longer if kids want rides or you want to sit with
 
 ## When to go
 
-Sunset is the pier's best-known hour, when the Ferris wheel lights up against a pink sky and the crowd thickens for photos, but that also means it's crowded. Measured foot traffic shows the pier stays comparatively calm from 7am to 11am on both weekdays and weekends, before the day-trip crowds arrive. The busiest stretch runs from noon to 10pm on weekends, so if you're weather-dependent or crowd-averse, aim to be there and gone before lunchtime, or come back after dark once families start heading home.
+Sunset is the pier's best-known hour, when the Ferris wheel lights up against a pink sky and the crowd thickens for photos, but that also means it's crowded. Typical foot traffic shows the pier stays comparatively calm from 7am to 11am on both weekdays and weekends, before the day-trip crowds arrive. The busiest stretch runs from noon to 10pm on weekends, so if you're weather-dependent or crowd-averse, aim to be there and gone before lunchtime, or come back after dark once families start heading home.
 
 ## How to visit like a local
 

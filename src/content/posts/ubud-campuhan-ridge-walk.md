@@ -68,7 +68,7 @@ faq:
   - q: "Is there an entrance fee?"
     a: "No, the trail is free and open to the public 24 hours a day. You'll only spend money if you stop at the warungs or Karsa Kafe along the way."
   - q: "When is the quietest time to visit?"
-    a: "Weekdays between 7am and 8am are calmest, based on measured foot traffic. Weekends stay busy from 8am until around 8pm, so avoid that window if you want breathing room."
+    a: "Weekdays between 7am and 8am are calmest, based on typical foot traffic. Weekends stay busy from 8am until around 8pm, so avoid that window if you want breathing room."
   - q: "How long does the walk take?"
     a: "Plan for 1 to 1.5 hours round-trip to walk the roughly 2km trail out to Karsa Kafe and back at a relaxed pace with stops for photos."
   - q: "What should I bring?"

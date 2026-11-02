@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: methodology
-srcHash: '0ecd8b9b97b0'
+srcHash: '253d9ca3dd99'
 metaTitle: Cómo funcionan nuestros datos — Metodología
 metaDescription: De dónde provienen los gráficos de afluencia, los horarios de apertura, las valoraciones y las tablas climáticas de Wander Atlas, con qué frecuencia los verificamos y cómo citarlos.
 eyebrow: Metodología
@@ -12,9 +12,9 @@ Wander Atlas publica muchos datos numéricos: qué tan concurrido está un lugar
 
 ## Datos de afluencia
 
-Cada gráfico de "mejor momento para visitar" en este sitio proviene de **tráfico peatonal medido, no de encuestas ni conjeturas**. Licenciamos las estimaciones de afluencia de cada lugar a través de BestTime.app, que las construye a partir de patrones de visita reales. Luego alineamos cada gráfico con los horarios de apertura verificados del lugar, para que nunca veas una "hora tranquila" a las 7am en un museo que abre a las 10. Los gráficos se actualizan de forma rotativa, y cuando un lugar cambia sus horarios, su gráfico se ajusta para coincidir.
+Cada gráfico de "mejor momento para visitar" en este sitio proviene de **previsiones basadas en patrones reales de visitas, no de encuestas ni conjeturas**. Licenciamos las estimaciones de afluencia de cada lugar a través de BestTime.app, que las construye a partir de patrones de visita reales. Luego alineamos cada gráfico con los horarios de apertura verificados del lugar, para que nunca veas una "hora tranquila" a las 7am en un museo que abre a las 10. La previsión de cada lugar se obtiene una vez, al publicar su guía (el gráfico muestra esa fecha), y cuando un lugar cambia sus horarios, su gráfico se ajusta para coincidir.
 
-**Qué significa esto para ti:** cuando una página de Wander Atlas dice que un mercado está más concurrido los sábados por la tarde, eso es lo que se midió en ese mercado, no una suposición general de que los fines de semana son concurridos.
+**Qué significa esto para ti:** cuando una página de Wander Atlas dice que un mercado está más concurrido los sábados por la tarde, eso sale de los patrones de visitas registrados en ese mercado, no una suposición general de que los fines de semana son concurridos.
 
 ## Datos de los lugares: valoraciones, horarios, cierres
 

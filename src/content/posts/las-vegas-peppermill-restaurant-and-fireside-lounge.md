@@ -137,7 +137,7 @@ It's a mid-range spot by Strip standards: not cheap diner prices, but nowhere ne
 
 The Peppermill keeps unusual hours depending on the day: Monday and Tuesday it runs 7am to 2am, Wednesday it closes earlier at midnight, and from Thursday through Sunday it's open all night, every night. That flexibility is part of its appeal. It's one of the few places on the Strip where a 3am plate of hash browns is genuinely possible, but only from Thursday onward.
 
-Measured foot traffic shows the calmest window is consistently 7am–8am, both on weekdays and weekends, before the breakfast rush builds. On weekends, things stay busy from mid-morning all the way through 11pm, so if you want the lounge's fire pit without a wait, an early-morning cocktail (yes, people do this) or a very late-night visit outside that 9am–11pm stretch is your best bet.
+Typical foot traffic shows the calmest window is consistently 7am–8am, both on weekdays and weekends, before the breakfast rush builds. On weekends, things stay busy from mid-morning all the way through 11pm, so if you want the lounge's fire pit without a wait, an early-morning cocktail (yes, people do this) or a very late-night visit outside that 9am–11pm stretch is your best bet.
 
 ## The lounge experience
 

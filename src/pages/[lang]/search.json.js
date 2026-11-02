@@ -13,7 +13,9 @@ export async function GET({ params }) {
   const lang = params.lang;
   const posts = await getCollection('posts', ({ data }) => !data.draft);
   const translations = await getCollection('postI18n', ({ data }) => data.lang === lang);
-  const items = buildSearchIndex({ lang, posts, countries: countriesData.countries, translations });
+  const itineraries = await getCollection('itineraries', ({ data }) => !data.draft);
+  const itineraryTranslations = await getCollection('itinerariesI18n', ({ data }) => data.lang === lang);
+  const items = buildSearchIndex({ lang, posts, countries: countriesData.countries, translations, itineraries, itineraryTranslations });
   return new Response(JSON.stringify(items), {
     headers: { 'Content-Type': 'application/json' },
   });

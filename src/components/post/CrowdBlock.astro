@@ -14,7 +14,7 @@ import Emoji from '../Emoji.astro';
 import { crowdRows, summaryLines } from '../../lib/crowd-chart.mjs';
 import { dayGroupText } from '../../lib/busyness.mjs';
 import { formatHour, formatHourRanges } from '../../lib/hours.mjs';
-import { useTranslations, localizePath } from '../../i18n/utils';
+import { useTranslations, localizePath, localeCodes } from '../../i18n/utils';
 import type { Lang } from '../../i18n/ui';
 import { usePostStrings } from '../../i18n/post-strings';
 import { siteHref } from '../../lib/urls.mjs';
@@ -52,6 +52,13 @@ const cellLines = (tab: Tab, key: 'quiet' | 'busy') =>
     text: ranges(l.hours) ?? '',
   })).filter((l) => l.text);
 
+// The day the forecast was fetched (2026-11-02). Each venue's forecast is taken
+// once, when its guide is published, and never re-fetched — the oldest date from
+// July. The chart called itself "live / measured" with no date at all; the date
+// is what lets a reader weigh a forecast. Absent date → no line, never a guess.
+const asOf = busyness?.updated instanceof Date && !Number.isNaN(busyness.updated.getTime())
+  ? ps('ps.crowdAsOf').replace('{date}', busyness.updated.toLocaleDateString(localeCodes[lang], { year: 'numeric', month: 'short', day: 'numeric', timeZone: 'UTC' }))
+  : null;
 const embedSrc = siteHref(`/embed/crowd/${postId.replace(/\.md$/, '')}`, Astro.site);
 const embedTitle = `${placeName.replace(/"/g, '&quot;')} busy times — Wander Atlas`;
 ---
@@ -114,7 +121,7 @@ const embedTitle = `${placeName.replace(/"/g, '&quot;')} busy times — Wander A
     </p>
     <p class="pcrowd-note">{ps('ps.chartNote')}</p>
     <p class="pcrowd-foot">
-      <span>{`${t('post.footTraffic')} `}<a href="https://besttime.app" target="_blank" rel="noopener nofollow">BestTime.app</a></span>
+      <span>{`${t('post.footTraffic')} `}<a href="https://besttime.app" target="_blank" rel="noopener nofollow">BestTime.app</a>{asOf && <span class="pcrowd-asof">{` · ${asOf}`}</span>}</span>
       {/* The crowd tool is the site's #2 page; a reader looking at one venue's
           quiet hours is the one who wants the whole-city comparison. */}
       <a class="pcrowd-more" href={localizePath('/tools/best-time', lang)}>{t('post.compareQuiet')} →</a>

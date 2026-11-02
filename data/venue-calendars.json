@@ -1,0 +1,13 @@
+{
+  "_comment": "Official closing rules a weekly opening-hours list cannot express, keyed by post id. Read at build by src/lib/venue-calendar.mjs: the itinerary page turns them into the dates where the plain 'Monday: Closed' list is wrong, so the arrival-date warning matches the venue's own calendar. Add a venue only from its official site, with source and checked date. Holidays come from data/country-facts.json (country).",
+  "tokyo-shinjuku-gyoen-national-garden": {
+    "country": "Japan",
+    "closedWeekdays": ["Monday"],
+    "holidayShift": true,
+    "openDaily": [["03-25", "04-24"], ["11-01", "11-15"]],
+    "closedRanges": [["12-29", "01-03"]],
+    "source": "https://fng.or.jp/shinjuku/en/",
+    "checked": "2026-11-02",
+    "note": "Closed Mondays (if Monday is a national holiday, closed on the next weekday); closed Dec 29 - Jan 3; open 7 days Mar 25 - Apr 24 and Nov 1 - 15."
+  }
+}

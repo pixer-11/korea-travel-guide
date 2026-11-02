@@ -95,7 +95,7 @@ The University of Glasgow's Gilbert Scott tower is a short walk south. Ashton La
 
 ## Timing it for a quiet glasshouse
 
-The glasshouse is open daily from 10am to 5:45pm, the same hours every day. Measured foot traffic shows the quietest window is 10am to 11am on weekdays. Arrive at opening and you may have the tree ferns largely to yourself.
+The glasshouse is open daily from 10am to 5:45pm, the same hours every day. Typical foot traffic shows the quietest window is 10am to 11am on weekdays. Arrive at opening and you may have the tree ferns largely to yourself.
 
 Weekends between 11am and 4pm are the time to avoid. That is when families and West End strollers fill the circular paths. The gardens outside close later than the glasshouse, so don't save Kibble for the end of a long afternoon walk.
 

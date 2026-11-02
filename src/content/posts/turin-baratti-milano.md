@@ -86,7 +86,7 @@ The café sits directly on Piazza Castello, at the mouth of the Galleria Subalpi
 
 ## When to go
 
-Baratti & Milano keeps regular café hours typical of central Turin's historic establishments. Measured foot-traffic patterns show it's quietest on weekdays between 9am and 10am, right at opening. That's your window if you want a table without waiting. Weekends run busy the entire day, from opening until close, so if you're visiting on a Saturday or Sunday, expect a fuller room whenever you arrive. This is a well-known, well-reviewed address, not a quiet back-street find, so plan around the crowds rather than expecting to dodge them entirely.
+Baratti & Milano keeps regular café hours typical of central Turin's historic establishments. Typical foot-traffic patterns show it's quietest on weekdays between 9am and 10am, right at opening. That's your window if you want a table without waiting. Weekends run busy the entire day, from opening until close, so if you're visiting on a Saturday or Sunday, expect a fuller room whenever you arrive. This is a well-known, well-reviewed address, not a quiet back-street find, so plan around the crowds rather than expecting to dodge them entirely.
 
 ## How to visit like a local
 

@@ -98,7 +98,7 @@ Skip driving. Parking in Centro is tight, and the last stretch is pedestrian str
 
 ## Beating the weekend crowd
 
-The sculpture is one of the most-photographed spots in town. When people are around, a line forms for the classic shot through the arch. Measured foot traffic shows the plaza is quietest from **7am to 8am**, on weekdays and weekends alike. At that hour the beach faces east into the morning light and the arch is mostly yours.
+The sculpture is one of the most-photographed spots in town. When people are around, a line forms for the classic shot through the arch. Typical foot traffic shows the plaza is quietest from **7am to 8am**, on weekdays and weekends alike. At that hour the beach faces east into the morning light and the arch is mostly yours.
 
 On weekends, avoid **12pm to 11pm**. The plaza fills for most of the day and stays full long after dark, with street performers and evening crowds spilling off Quinta Avenida. If a weekend is your only option, go early or settle for a wide shot from the sand.
 

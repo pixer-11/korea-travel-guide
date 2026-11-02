@@ -107,7 +107,7 @@ Look at the cells as you pass. They get bigger as you move through the decades o
 
 ## When the crowds come
 
-The measured foot-traffic is clear on this. Weekends are busiest between 11am and 4pm, when families and day-trippers from Perth fill the popular tour slots. Try not to turn up in that window without a booking, or you may wait a long time for a place.
+The typical foot-traffic is clear on this. Weekends are busiest between 11am and 4pm, when families and day-trippers from Perth fill the popular tour slots. Try not to turn up in that window without a booking, or you may wait a long time for a place.
 
 Weekdays are quiet from 9am to 5pm. Weekends are calmer from 9am to 5pm too, outside that 11am to 4pm peak. Opening hours and tour times change with the season, so check the official site before you go.
 

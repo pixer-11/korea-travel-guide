@@ -123,7 +123,7 @@ The street is flat and easy on foot. That makes it simple to fit a meal between 
 
 The doors never close. Every day of the week is listed as open 24 hours, so you can come for breakfast, a late lunch or a 3am stop on your way back from Garibaldi.
 
-Crowds are another matter. Measured foot traffic shows that 7am to 10am is the quietest window on weekdays and weekends alike. Avoid weekends from 12pm to 11pm. That's the peak, when tables fill and the counter backs up. A weekday visit outside lunch hour is your best bet if you want to sit down.
+Crowds are another matter. Typical foot traffic shows that 7am to 10am is the quietest window on weekdays and weekends alike. Avoid weekends from 12pm to 11pm. That's the peak, when tables fill and the counter backs up. A weekday visit outside lunch hour is your best bet if you want to sit down.
 
 ## Ordering tacos the Mexico City way
 

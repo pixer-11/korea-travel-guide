@@ -118,7 +118,7 @@ Two to three hours covers the highlights. With children who stop at every drawer
 
 ## Timing your visit around the crowds
 
-On weekdays, the measured foot traffic is quiet from 9am to 6pm. In practice that means the whole day the doors are open. Monday, Tuesday, Thursday and Friday run 9am–5pm. Wednesday stays open until 8pm, which suits an evening visit after work or after a day at the Messe.
+On weekdays, the typical foot traffic is quiet from 9am to 6pm. In practice that means the whole day the doors are open. Monday, Tuesday, Thursday and Friday run 9am–5pm. Wednesday stays open until 8pm, which suits an evening visit after work or after a day at the Messe.
 
 Weekends are different. Saturday and Sunday it opens 9am–6pm, and only the first hour, 9am–10am, is calm. Try not to arrive between 11am and 5pm, when families fill the dinosaur hall and the cloakroom queue backs up. If a weekend is your only option, come at opening and see the dinosaurs first, before the rest of the visitors arrive.
 

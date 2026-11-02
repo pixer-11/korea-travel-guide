@@ -83,7 +83,7 @@ The village sits between two subway stops, and either works: Anguk Station on Li
 
 ## When to go
 
-Bukchon itself has no gates or set opening hours since it's a lived-in residential district, and this isn't a place to stretch past dusk. There's no lighting plan for tourists, and by evening the residential streets are simply dark and quiet. The measured foot traffic backs up what you'd guess: the calmest hour, on both weekdays and weekends, is 10am–11am, right at opening.
+Bukchon itself has no gates or set opening hours since it's a lived-in residential district, and this isn't a place to stretch past dusk. There's no lighting plan for tourists, and by evening the residential streets are simply dark and quiet. The typical foot traffic backs up what you'd guess: the calmest hour, on both weekdays and weekends, is 10am–11am, right at opening.
 
 Avoid rolling in between noon and 5pm on a weekend, when the narrow lanes, especially Bukchon-ro 11-gil, fill with tour groups and the photo queue at the main viewpoint can stall completely.
 

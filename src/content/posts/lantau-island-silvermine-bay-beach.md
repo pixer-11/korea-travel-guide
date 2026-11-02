@@ -77,7 +77,7 @@ faq:
       walk roughly 10–15 minutes south along Tung Wan Tau Road to the beach.
   - q: When is the quietest time to visit?
     a: >-
-      Weekday mornings between 7am and 8am are the calmest, based on measured
+      Weekday mornings between 7am and 8am are the calmest, based on typical
       foot traffic. Weekends stay busy from 1pm until as late as 11pm, so avoid
       that window if you want space on the sand.
   - q: Is swimming safe at Silvermine Bay Beach?

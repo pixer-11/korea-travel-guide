@@ -129,7 +129,7 @@ Walk all the way round the plinth. The horse's tail, the snake under its hooves 
 
 ## Seven o'clock on Neustädter Markt
 
-The crowd figures here are measured foot traffic, and they're clear about when to come:
+The crowd figures here are typical foot traffic, and they're clear about when to come:
 
 - **Quietest on weekdays:** 7am–8am
 - **Quietest on weekends:** 7am–9am

@@ -86,7 +86,7 @@ The menu and prices change, so check them on the restaurant's own channels or at
 
 ## Timing a table: when the room empties and fills
 
-We have measured foot-traffic for this address, and it's clear. On weekdays the quietest hour is 1pm to 2pm. By then the breakfast crowd has left and the lunch trade is thinning out.
+We have typical foot-traffic for this address, and it's clear. On weekdays the quietest hour is 1pm to 2pm. By then the breakfast crowd has left and the lunch trade is thinning out.
 
 Weekends are a different story. The busiest stretch is 10am to 12pm. Try not to arrive in that window with a group of four and expect to walk straight in. That's when late-breakfast Hobart is out in force along Elizabeth Street.
 

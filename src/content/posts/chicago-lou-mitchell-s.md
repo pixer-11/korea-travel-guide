@@ -115,7 +115,7 @@ Portions are big. Two people with modest appetites can share a skillet and add t
 
 The schedule decides your morning. At the moment it's closed Monday and Tuesday. Wednesday to Friday it runs 6am–2pm, and Saturday and Sunday 7am–2pm. Don't leave lunch too late: the kitchen stops at 2pm every open day.
 
-Measured foot traffic shows weekends are busiest for the entire 7am–2pm window. There is no lull to aim for on a Saturday or Sunday, and that's when the line runs out the door onto the sidewalk. Your better chance is a weekday. Commuters fill the counter at the 6am opening, but a table usually turns over fast.
+Typical foot traffic shows weekends are busiest for the entire 7am–2pm window. There is no lull to aim for on a Saturday or Sunday, and that's when the line runs out the door onto the sidewalk. Your better chance is a weekday. Commuters fill the counter at the 6am opening, but a table usually turns over fast.
 
 - Give your name and party size at the front and wait to be called.
 - Solo diners and pairs often get seated faster at the counter.

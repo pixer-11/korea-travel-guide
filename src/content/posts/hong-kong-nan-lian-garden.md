@@ -119,7 +119,7 @@ Take the MTR to Diamond Hill Station (Kwun Tong Line) and use Exit C2, which fee
 
 ## When to go
 
-The garden opens at 7am and closes at 9pm every day of the week, with no seasonal variation to worry about. The measured foot traffic is clear: weekends get busy between 10am and 6pm, so if you want the paths and the golden pavilion view without a crowd of camera tripods, aim for the 7am opening or after 6pm. Weekdays run calmer throughout, essentially 7am to 9pm without a sharp peak, making a weekday morning the single best window if your schedule allows it.
+The garden opens at 7am and closes at 9pm every day of the week, with no seasonal variation to worry about. The typical foot traffic is clear: weekends get busy between 10am and 6pm, so if you want the paths and the golden pavilion view without a crowd of camera tripods, aim for the 7am opening or after 6pm. Weekdays run calmer throughout, essentially 7am to 9pm without a sharp peak, making a weekday morning the single best window if your schedule allows it.
 
 Evenings bring their own reward. Some of the pavilions are lit after dark, and the black-tiled roofline against the sky is worth the later visit even if you've already been in daylight.
 

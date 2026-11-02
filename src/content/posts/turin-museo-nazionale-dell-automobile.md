@@ -58,7 +58,7 @@ faq:
   - q: How do I get to Museo Nazionale dell'Automobile from central Turin?
     a: Take tram line 4, which stops close to the entrance on Corso Unità d'Italia. It's a quick ride from Porta Nuova station and the city center.
   - q: What is the quietest time to visit?
-    a: Weekday mornings between 10am and 11am are the calmest, according to measured foot-traffic data. Weekend afternoons from 11am to 6pm are the busiest, so avoid that window if you can.
+    a: Weekday mornings between 10am and 11am are the calmest, according to typical foot-traffic data. Weekend afternoons from 11am to 6pm are the busiest, so avoid that window if you can.
   - q: How long should I plan for a visit?
     a: Most visitors spend two to three hours moving through the galleries. Car enthusiasts or anyone catching a special exhibition should allow longer.
   - q: What are the opening hours?

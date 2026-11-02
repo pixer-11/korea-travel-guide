@@ -99,7 +99,7 @@ The building sits directly on Passeig de Gràcia, in the Eixample district, a fe
 
 ## When to go
 
-La Pedrera has no weekly closing day, which gives you more flexibility than most Barcelona sights. The measured foot-traffic pattern is consistent: things are calm right at opening and again in the evening, while the crush sets in from 11am to 7pm on weekends, exactly the window to avoid if you can. An early slot also gives you softer morning light on the roof terrace, and an evening visit (the building stays open into the night) means you get the chimneys and towers lit against a darkening sky, a completely different mood from the midday version.
+La Pedrera has no weekly closing day, which gives you more flexibility than most Barcelona sights. The typical foot-traffic pattern is consistent: things are calm right at opening and again in the evening, while the crush sets in from 11am to 7pm on weekends, exactly the window to avoid if you can. An early slot also gives you softer morning light on the roof terrace, and an evening visit (the building stays open into the night) means you get the chimneys and towers lit against a darkening sky, a completely different mood from the midday version.
 
 ## How to visit like a local
 

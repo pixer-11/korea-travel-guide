@@ -9,9 +9,9 @@ Wander Atlas publishes a lot of numbers: how busy a place gets and when, opening
 
 ## Crowd data
 
-Every "best time to visit" chart on this site comes from **measured foot traffic, not surveys or guesswork**. We license busyness estimates for each venue from BestTime.app, which builds them from real visit patterns. We then line every chart up with the venue's verified opening hours, so you will never see a "quiet hour" at 7am for a museum that opens at 10. Charts are refreshed on a rolling schedule, and when a venue changes its hours, its chart is adjusted to match.
+Every "best time to visit" chart on this site comes from **forecasts built from real visit patterns, not surveys or guesswork**. We license busyness estimates for each venue from BestTime.app, which builds them from real visit patterns. We then line every chart up with the venue's verified opening hours, so you will never see a "quiet hour" at 7am for a museum that opens at 10. Each venue's forecast is fetched once, when its guide is published (the chart shows that date), and when a venue changes its hours, its chart is trimmed to match.
 
-**What this means for you:** when a Wander Atlas page says a market is busiest on Saturday afternoons, that is what was measured at that market, not a general assumption that weekends are busy.
+**What this means for you:** when a Wander Atlas page says a market is busiest on Saturday afternoons, that comes from the visit patterns recorded for that market, not a general assumption that weekends are busy.
 
 ## Venue facts: ratings, hours, closures
 

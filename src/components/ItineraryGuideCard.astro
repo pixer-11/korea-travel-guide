@@ -3,17 +3,20 @@
 // 2026-08-14): the web page stays fully free — this card sells the
 // print-ready PDF version with per-stop map QR codes, verified hours, a
 // rain plan and a booking checklist. Renders nothing unless the itinerary
-// has an entry in data/gumroad-products.json, so rolling a new city out is
-// one JSON line. Sits right under the free email box on purpose: the free
-// option anchors trust, the PDF upsells the traveler who wants it offline.
+// has an entry in data/gumroad-products.json AND the page still shows the
+// itinerary that PDF was built from (stopsHash — src/lib/guide-product.mjs;
+// on 11-02 the Tokyo card was selling a PDF of stops the page no longer had).
+// Sits right under the free email box on purpose: the free option anchors
+// trust, the PDF upsells the traveler who wants it offline.
 import { useTranslations, type Lang } from '../i18n/utils';
 import Emoji from './Emoji.astro';
 import products from '../../data/gumroad-products.json';
+import { guideProductFor } from '../lib/guide-product.mjs';
 
-interface Props { lang: Lang; slug: string }
-const { lang, slug } = Astro.props;
+interface Props { lang: Lang; slug: string; stopsHash?: string }
+const { lang, slug, stopsHash } = Astro.props;
 const t = useTranslations(lang);
-const product = (products as Record<string, any>)[slug] as { url: string; price: string } | undefined;
+const product = guideProductFor(products as Record<string, any>, slug, stopsHash);
 ---
 {product && (
   <aside class="itin-guide" aria-labelledby="itin-guide-title">

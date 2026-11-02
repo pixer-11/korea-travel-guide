@@ -119,7 +119,7 @@ Santa Croce sits at Piazza di Santa Croce, 16, in the eastern edge of the histor
 
 ## When to go
 
-The basilica opens in the morning and closes in the late afternoon most days; Sundays it runs shorter hours, geared around morning services. Measured foot-traffic patterns show the calmest window is 9:30am–11am on weekdays and Saturdays. Arrive right at the opening bell and you'll have long stretches of the nave and the Pazzi Chapel nearly to yourself; Sundays open later, at 12:30pm, so the same logic applies to that first half hour instead.
+The basilica opens in the morning and closes in the late afternoon most days; Sundays it runs shorter hours, geared around morning services. Typical foot-traffic patterns show the calmest window is 9:30am–11am on weekdays and Saturdays. Arrive right at the opening bell and you'll have long stretches of the nave and the Pazzi Chapel nearly to yourself; Sundays open later, at 12:30pm, so the same logic applies to that first half hour instead.
 
 Weekend afternoons, especially 1pm–5pm, are the peak crush; if a Sunday visit is your only option, go as close to 12:30pm as you can rather than mid-afternoon.
 

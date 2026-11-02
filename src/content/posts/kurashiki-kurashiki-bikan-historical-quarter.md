@@ -88,7 +88,7 @@ faq:
       minutes down Kurashiki Chūō-dōri to the canal.
   - q: When is the quietest time to visit?
     a: >-
-      Measured foot traffic marks 7am–8am and 10pm–11pm as the quietest windows
+      Typical foot traffic marks 7am–8am and 10pm–11pm as the quietest windows
       on both weekdays and weekends. Weekends are busiest from 10am to 7pm, so
       on Saturdays and Sundays aim for before 10am or after 7pm.
   - q: How long should I spend there?

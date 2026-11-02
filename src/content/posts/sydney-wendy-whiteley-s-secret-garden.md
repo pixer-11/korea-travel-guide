@@ -104,7 +104,7 @@ Trains to and from Milsons Point run along the edge of the garden. Their rumble 
 
 ## Beating the weekend rush
 
-Weekends are when the garden fills. Measured foot traffic shows the busiest stretch is **9am to 6pm on Saturdays and Sundays**. That's when the good benches are taken, and the narrow paths turn into slow single-file walks.
+Weekends are when the garden fills. Typical foot traffic shows the busiest stretch is **9am to 6pm on Saturdays and Sundays**. That's when the good benches are taken, and the narrow paths turn into slow single-file walks.
 
 If a weekend is your only option, come before 9am or after 6pm. The garden is listed as open 24 hours. The paths are steep and shaded, though, so arrive with enough daylight to see your footing.
 

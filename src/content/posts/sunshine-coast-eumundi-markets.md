@@ -80,7 +80,7 @@ Street food runs through the whole site, so breakfast and an early lunch both ha
 
 Opening hours are short. At the moment the gates open at 7:30am on Wednesday and Saturday and stalls pack down at 2pm. Every other day the site is closed. Check the market's official site before you drive up, because public holidays and seasonal changes can move things.
 
-Saturday is the big day. Measured foot traffic puts the weekend peak at 8am–2pm, which covers almost the whole trading day. If Saturday is your only option, get there at 7:30am and work the lanes before 8am.
+Saturday is the big day. Typical foot traffic puts the weekend peak at 8am–2pm, which covers almost the whole trading day. If Saturday is your only option, get there at 7:30am and work the lanes before 8am.
 
 Wednesday is the obvious alternative for anyone with weekday flexibility. Arriving late is a real risk: by early afternoon some makers are already packing up, and 2pm is a hard finish.
 

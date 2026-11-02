@@ -107,7 +107,7 @@ From any of them, the final stretch is on foot through narrow calli and over sma
 
 ## Picking your hour
 
-The site is listed as open 24 hours, so timing is up to you. Measured foot traffic shows the quietest weekday window runs from **6pm to 8pm**. That is a good fit for an early-evening walk before dinner in the neighbourhood.
+The site is listed as open 24 hours, so timing is up to you. Typical foot traffic shows the quietest weekday window runs from **6pm to 8pm**. That is a good fit for an early-evening walk before dinner in the neighbourhood.
 
 Weekends are harder. The busiest stretch is **11am to 9pm**, so avoid the middle of a Saturday or Sunday if you want the lane to yourself. The weekend's quietest window is listed as 8am to 11pm, which overlaps with the busy period. In practice, the early-morning end of it, before 11am, is the safer choice.
 

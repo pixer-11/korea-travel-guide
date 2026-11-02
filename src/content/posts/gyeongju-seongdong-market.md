@@ -127,7 +127,7 @@ This isn't a place for tasting menus; it's a place to eat standing at a counter,
 
 ## When to go
 
-Seongdong Market runs the same hours every day of the week, 5am to 7pm, so there's flexibility, but not all hours feel the same. Measured foot-traffic shows the market stays comparatively calm across a wide window, 7am to 7pm on both weekdays and weekends, while the crush really builds on weekends between 10am and 6pm, when day-trippers and locals doing their weekly shopping overlap.
+Seongdong Market runs the same hours every day of the week, 5am to 7pm, so there's flexibility, but not all hours feel the same. Typical foot-traffic shows the market stays comparatively calm across a wide window, 7am to 7pm on both weekdays and weekends, while the crush really builds on weekends between 10am and 6pm, when day-trippers and locals doing their weekly shopping overlap.
 
 If you can, aim for a weekday morning, ideally before 10am: stalls are already open, breakfast food is fresh off the griddle, and you can actually see the produce displays without threading through shoulders. The very early hours near opening are for wholesale buyers and restaurant owners restocking, so mid-morning is the realistic sweet spot for visitors.
 

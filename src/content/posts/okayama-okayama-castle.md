@@ -118,7 +118,7 @@ From Korakuen, the Tsukimi-bashi bridge brings you over the river right to the c
 
 ## Timing the climb and the crossing
 
-Weekdays are the easy choice here. Measured foot traffic shows the castle quiet on weekdays from 9am–5pm. Weekends are a different story: between 10am and 4pm the elevator queue grows and the costume corner fills up. If a weekend is your only option, be at the gate when it opens at 9am, or come late in the afternoon.
+Weekdays are the easy choice here. Typical foot traffic shows the castle quiet on weekdays from 9am–5pm. Weekends are a different story: between 10am and 4pm the elevator queue grows and the costume corner fills up. If a weekend is your only option, be at the gate when it opens at 9am, or come late in the afternoon.
 
 The keep is open 9am–5:30pm, later on some event nights, and closes December 29–31. Check the official site for event evenings. Some practical points:
 

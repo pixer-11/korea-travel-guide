@@ -69,7 +69,7 @@ faq:
   - q: What's the best time to visit the Louvre to avoid crowds?
     a: >-
       Arrive right at 9am on a weekday, especially Wednesday or Friday since
-      those days stay open until 9pm. Measured foot traffic shows 9am–10am is
+      those days stay open until 9pm. Typical foot traffic shows 9am–10am is
       the quietest weekday window, while the busiest period to avoid is 11am–6pm
       on weekends.
   - q: How do I get to the Louvre by public transport?

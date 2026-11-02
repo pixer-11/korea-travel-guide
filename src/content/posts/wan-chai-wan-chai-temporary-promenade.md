@@ -99,7 +99,7 @@ Because it's open 24 hours, there's no risk of arriving to locked gates, which i
 
 ## When to go if you want the harbour to yourself
 
-This is a park with measured foot traffic, and the pattern is clear. Weekdays, it's quietest between 7am and 8am, before the Convention Centre's office crowd and tour groups start moving through the area.
+This is a park with typical foot traffic, and the pattern is clear. Weekdays, it's quietest between 7am and 8am, before the Convention Centre's office crowd and tour groups start moving through the area.
 
 On weekends, the calm window stretches much longer, from 7am through to around noon. After that, avoid arriving between 2pm and 6pm on weekends if you want space on the benches; that's when the promenade fills up with families, joggers and people cutting through en route to Convention Centre events.
 

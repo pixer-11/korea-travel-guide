@@ -118,7 +118,7 @@ The collection mixes art and natural history on purpose. Painting galleries sit 
 
 ## Beating the weekend crush
 
-Timing makes a big difference here. The measured foot-traffic is clear: on weekdays it's calmest between 10am and 12pm, and again from 4pm to 5pm. Try not to arrive on a Saturday or Sunday after 12pm, because from then until the 5pm close the halls fill with families and the Dalí room gets crowded.
+Timing makes a big difference here. The typical foot-traffic is clear: on weekdays it's calmest between 10am and 12pm, and again from 4pm to 5pm. Try not to arrive on a Saturday or Sunday after 12pm, because from then until the 5pm close the halls fill with families and the Dalí room gets crowded.
 
 Watch the opening times. At the moment it opens at 10am Monday to Thursday and on Saturday, but at 11am on Friday and Sunday. That makes a Tuesday or Wednesday at 10am the best slot for an empty Centre Hall. Hours can change around holidays, so check Glasgow Life's official site before you go.
 

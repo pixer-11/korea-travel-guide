@@ -100,7 +100,7 @@ There's no dedicated car park; street parking on Watson Rd and nearby side stree
 
 ## When to go
 
-Weekday mornings between 7am and 8am are the quietest window, according to measured foot traffic, before office workers and dog walkers arrive. Weekend mornings in that same 7am–8am slot are similarly calm.
+Weekday mornings between 7am and 8am are the quietest window, according to typical foot traffic, before office workers and dog walkers arrive. Weekend mornings in that same 7am–8am slot are similarly calm.
 
 Avoid weekend afternoons and evenings: the precinct gets busy from 9am through 9pm on Saturdays and Sundays, filling with joggers, cyclists and families out for the sea breeze. Since it's rated under-the-radar despite its 4.4-star average across nearly 800 reviews, arriving early still gets you a stretch of promenade largely to yourself, even on weekends.
 

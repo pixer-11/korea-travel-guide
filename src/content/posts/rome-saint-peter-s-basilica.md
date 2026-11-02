@@ -92,7 +92,7 @@ The dome climb (roughly 320 steps if you skip the elevator, more if you don't) r
 
 ## When to go
 
-The basilica keeps the same hours every day, 7:00 AM to 7:10 PM, with no weekly closing day. Measured foot-traffic shows it's calmest right at opening and stays manageable through most of the day on both weekdays and weekends. The real spike is 10am to 2pm on weekends, when tour groups and day-trippers overlap. If you can only pick one window, arriving at 7am on a weekday gets you the nave nearly to yourself for the first half hour, with soft morning light coming through the dome's lantern windows.
+The basilica keeps the same hours every day, 7:00 AM to 7:10 PM, with no weekly closing day. Typical foot-traffic shows it's calmest right at opening and stays manageable through most of the day on both weekdays and weekends. The real spike is 10am to 2pm on weekends, when tour groups and day-trippers overlap. If you can only pick one window, arriving at 7am on a weekday gets you the nave nearly to yourself for the first half hour, with soft morning light coming through the dome's lantern windows.
 
 ## How to visit like a local
 

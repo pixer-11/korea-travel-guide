@@ -121,7 +121,7 @@ Textiles, weapons, miniature paintings, astronomical instruments, the collection
 
 ## When to go
 
-This is a genuinely popular stop on the Jaipur circuit, and it shows in the courtyards by midday. Measured foot-traffic data points to 10am–11am on weekdays as the calmest stretch to walk through.
+This is a genuinely popular stop on the Jaipur circuit, and it shows in the courtyards by midday. Typical foot-traffic data points to 10am–11am on weekdays as the calmest stretch to walk through.
 
 Weekends are a different story. Expect a real crush between noon and 6pm, when tour buses and family groups overlap. If a weekend visit is unavoidable, aim for the first hour after opening instead.
 

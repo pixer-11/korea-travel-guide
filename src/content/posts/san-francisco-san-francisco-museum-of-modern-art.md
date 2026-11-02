@@ -84,7 +84,7 @@ Outside, the living wall on the third-floor terrace is one of the largest of its
 
 ## When to go
 
-The measured foot-traffic pattern here is consistent and useful: weekends get heaviest between 11am and 5pm, so if a weekend visit is your only option, book your entry for opening or push it later in the day. Both weekdays and weekends quiet down noticeably between 5pm and 6pm. That's the calm window if the museum's hours that day extend into early evening, and it's the best time to see the atrium and top-floor galleries without threading through tour groups.
+The typical foot-traffic pattern here is consistent and useful: weekends get heaviest between 11am and 5pm, so if a weekend visit is your only option, book your entry for opening or push it later in the day. Both weekdays and weekends quiet down noticeably between 5pm and 6pm. That's the calm window if the museum's hours that day extend into early evening, and it's the best time to see the atrium and top-floor galleries without threading through tour groups.
 
 Because opening hours and any late-evening days shift seasonally and the museum does close on select days, confirm the current schedule on SFMOMA's own site before you plan around a specific hour.
 

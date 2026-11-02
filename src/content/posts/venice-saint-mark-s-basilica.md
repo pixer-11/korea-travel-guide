@@ -89,7 +89,7 @@ Third, the Treasury, holding Byzantine reliquaries and silver that Venetian crus
 
 ## When to go
 
-The basilica opens the church to sightseers only after morning Mass, and closes earlier than you'd expect for a major landmark, so treat any visit as a mid-morning-to-late-afternoon plan rather than a first or last stop of the day (check the current hours on the basilica's own site before you go, since they shift with the liturgical calendar. Measured foot-traffic shows the calmest window runs 9:30am to 5:15pm on weekdays and Saturdays, and from 2pm to 5:15pm on Sundays) in other words, the whole open period is relatively even, but the one stretch to actively avoid is 12pm–3pm on weekends, when tour groups converge on the square between lunch and mid-afternoon.
+The basilica opens the church to sightseers only after morning Mass, and closes earlier than you'd expect for a major landmark, so treat any visit as a mid-morning-to-late-afternoon plan rather than a first or last stop of the day (check the current hours on the basilica's own site before you go, since they shift with the liturgical calendar. Typical foot-traffic shows the calmest window runs 9:30am to 5:15pm on weekdays and Saturdays, and from 2pm to 5:15pm on Sundays) in other words, the whole open period is relatively even, but the one stretch to actively avoid is 12pm–3pm on weekends, when tour groups converge on the square between lunch and mid-afternoon.
 
 Aim for the first hour after opening if you want the mosaics without a wall of shoulders in front of you.
 

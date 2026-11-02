@@ -11,7 +11,7 @@ import Newsletter from './Newsletter.astro';
 import Search from './Search.astro';
 import { useTranslations, localizePath, localeCodes, type Lang } from '../i18n/utils';
 import { homeT } from '../i18n/home-strings';
-import { eventSchemaName } from '../lib/eventName';
+import { eventShortName } from '../lib/eventShortName.mjs';
 import { editorHasTraveled, EDITOR_VISITED } from '../lib/editorVisited';
 import { localizePlace, localizeVenueOrTitle } from '../i18n/places';
 import { loadCardTranslations, cardHelpers } from '../i18n/cards';
@@ -150,8 +150,14 @@ const wallRow2 = wallTiles.slice(7, 14);
 const factsBy = (countryFacts as any).countries ?? countryFacts;
 const esimSlugs = new Set(esimCountries().map((c: any) => c.slug));
 const itins = (await getCollection('itineraries')).sort((a, b) => a.data.city.localeCompare(b.data.city));
+// Shortest trip first; among equal lengths, the city with the most guides —
+// not the alphabet, which sent "I've decided" readers for South Korea to Busan,
+// the US to Chicago and the UK to Brighton (2026-11-02 review).
+const cityGuides = new Map<string, number>();
+for (const p of posts) cityGuides.set(p.data.region, (cityGuides.get(p.data.region) ?? 0) + 1);
 const itinFor = (c: any) => {
-  const it = itins.filter((i) => (c.regions ?? []).includes(i.data.city)).sort((a, b) => a.data.days - b.data.days)[0];
+  const it = itins.filter((i) => (c.regions ?? []).includes(i.data.city))
+    .sort((a, b) => a.data.days - b.data.days || (cityGuides.get(b.data.city) ?? 0) - (cityGuides.get(a.data.city) ?? 0))[0];
   return it ? { href: P(`/itinerary/${it.id}/`), city: localizePlace(it.data.city, lang) } : null;
 };
 const pickCountries = live.map((c) => {
@@ -270,6 +276,13 @@ const guidesIn = (region: string) => posts.filter((p) => p.data.region === regio
 const goodMonthFor = (country: string, m: number) => {
   const c = pickCountries.find((x) => x.en === country);
   return !!c?.bands && bandOf(c, m) === 'g';
+};
+// The event's short name in this page's language — EventsList.astro's rule: a
+// translated title goes through that language's boilerplate list, an
+// untranslated one (card.title falls back to English) through English's.
+const eventCardName = (p: any) => {
+  const tt = card.title(p.id, p.data.title);
+  return lang === 'en' || tt === p.data.title ? eventShortName(p.data.title, 'en') : eventShortName(tt, lang);
 };
 const fmtEventDates = (p: any) => {
   const f = new Intl.DateTimeFormat(locale, { month: 'short', day: 'numeric', timeZone: 'UTC' });
@@ -520,15 +533,20 @@ const editorCountries = EDITOR_VISITED.filter((v) => !v.region).length;
           {monthSets.flatMap((m) => m.picks.map((p: any, i: number) => (
             <a class="story" href={card.href(p.id, true)} data-set={m.key} data-ev-end={evEndOf(p)} data-tz={venueTimeZone(p.data.country ?? 'South Korea', p.data.region) ?? undefined} hidden={!(m.current && i < PICKS)}>
               <div class="story-thumb">
+                {/* The event's short name, as on /events/ (EventsList.astro): the
+                    card already prints dates, city and country, and ko/ja cards
+                    were carrying the whole 60-character SEO headline ("…: 일정,
+                    티켓 및 공연장 안내 (라스베이거스)") — 2026-11-02 review. The
+                    alt text follows the page's language too. */}
                 {p.data.heroImage ? (
-                  <img src={tileSize(p.data.heroImage.url)} alt={eventSchemaName(p.data.title)} loading="lazy" width="600" height="400" />
+                  <img src={tileSize(p.data.heroImage.url)} alt={eventCardName(p)} loading="lazy" width="600" height="400" />
                 ) : (
-                  <TypesetPlate name={lang === 'en' ? eventSchemaName(p.data.title) : card.title(p.id, p.data.title)} />
+                  <TypesetPlate name={eventCardName(p)} />
                 )}
                 {goodMonthFor(countryOf(p), m.m) && <span class="story-badge">{H('goodChip')}</span>}
               </div>
               <span class="kicker gold">{fmtEventDates(p)}</span>
-              <h3>{lang === 'en' ? eventSchemaName(p.data.title) : card.title(p.id, p.data.title)}</h3>
+              <h3>{eventCardName(p)}</h3>
               <p class="story-meta">
                 {localizePlace(p.data.region, lang)} · {localizePlace(countryOf(p), lang)} · {guidesIn(p.data.region) === 1 ? H('guideOne') : t('home.monthly.guides').replace('{n}', String(guidesIn(p.data.region)))}
               </p>
@@ -757,6 +775,23 @@ const editorCountries = EDITOR_VISITED.filter((v) => !v.region).length;
         for (const b of tabs) { const on = b.dataset.tab === i; b.setAttribute('aria-selected', String(on)); b.tabIndex = on ? 0 : -1; }
         for (const p of panels) p.classList.toggle('is-off', p.dataset.panel !== i);
       };
+      // Measurement (2026-11-02): which stage readers pick, and which link in
+      // the three panels they follow — the baseline for the hero / country-chip
+      // / phone-photo-wall decisions. Tab index and link kind only.
+      const track = (name: string, props: Record<string, string>) => {
+        if ((window as any).plausible) (window as any).plausible(name, { props });
+      };
+      tabs.forEach((b) => b.addEventListener('click', () => track('Home tab', { tab: b.dataset.tab || '0' })));
+      for (const p of panels) {
+        p.addEventListener('click', (e) => {
+          const a = (e.target as HTMLElement).closest('a');
+          if (!a) return;
+          const href = a.getAttribute('href') || '';
+          const kind = /\/itinerary\//.test(href) ? 'itinerary' : /\/tools\/esim\//.test(href) ? 'esim' : /\/tools\/when-to-go\//.test(href) ? 'month'
+            : /\/destinations\//.test(href) ? 'country' : /\/regions\//.test(href) ? 'city' : /\/tools\//.test(href) ? 'tool' : /\/essentials\//.test(href) ? 'essentials' : 'other';
+          track('Home pick', { tab: p.dataset.panel || '0', kind });
+        });
+      }
       tabs.forEach((b, k) => {
         b.addEventListener('click', () => showTab(b.dataset.tab || '0'));
         b.addEventListener('keydown', (e) => {
@@ -1046,12 +1081,23 @@ const editorCountries = EDITOR_VISITED.filter((v) => !v.region).length;
     .hv3 .wall-cap { opacity: 1; transform: none; padding: 1rem 0.5rem 0.35rem; }
     /* Venue names are often English-only; on a phone the tile says where. */
     .hv3 .wall-cap b { display: none; }
-    .hv3 .wall-cap small { font-size: 0.72rem; font-weight: 700; opacity: 1; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .hv3 .wall-cap small { font-size: 0.78rem; font-weight: 700; opacity: 1; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    /* The 12px phone floor (08-22) — v3's new labels sat at 10.6-11.8px, the
+       affiliate disclosure smallest of all (2026-11-02 review). Phone only;
+       the desktop sizes above are untouched. */
+    .story-badge, .hv3-basis, .aff, .crowd-days, .hv3-editor small, .hv3-hol li em.now { font-size: 0.78rem; }
     .hv3 .cover-scrim { display: none; }
     .hv3-inner { padding-top: 1.4rem; }
     .hv3-hint { display: none; }
     .hv3-tabs { border-radius: var(--r-md); }
     .hv3-tabs button { font-size: 0.78rem; border-radius: var(--r-sm); padding: 0.5rem 0.25rem; }
+    /* Korean wraps between words, not syllables: at 375px "어디 갈지 고민 중"
+       left "중" alone on a second line (2026-11-02). Korean only — ja/zh have
+       no spaces, and keep-all would make their labels one unbreakable run. */
+    .hv3-tabs button:lang(ko) { word-break: keep-all; }
+    /* keep-all alone still breaks at the space before "중"; balance evens the
+       two lines ("어디 갈지 / 고민 중"). Harmless in every language. */
+    .hv3-tabs button { text-wrap: balance; }
     .hv3-group { grid-template-columns: minmax(0, 1fr); gap: 0.5rem; }
     .hv3-ctry { grid-template-columns: repeat(2, minmax(0, 1fr)); }
     .hv3-c-main img, .hv3-c-noimg { width: 48px; height: 40px; }
@@ -1061,7 +1107,7 @@ const editorCountries = EDITOR_VISITED.filter((v) => !v.region).length;
     .hv3-stats dl { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 0.6rem; width: 100%; }
     .hv3-stats dl div { display: grid; gap: 0.15rem; align-content: start; }
     .hv3-stats dt { font-size: 1.25rem; }
-    .hv3-stats dd { font-size: 0.72rem; }
+    .hv3-stats dd { font-size: 0.78rem; }
   }
 
   /* Dark mode: the light tints above sit behind text that turns light in dark

@@ -92,7 +92,7 @@ If you're coming from the train station, Gare Matabiau, it's roughly a 15-minute
 
 ## When to go
 
-Weekday mornings between 9am and 10am are the calmest hours to visit, based on measured foot traffic, the same quiet window holds true on weekends too. Weekend afternoons are a different story: from 11am until closing, tour groups and day-trippers fill the nave and the crowd noise rises with them.
+Weekday mornings between 9am and 10am are the calmest hours to visit, based on typical foot traffic, the same quiet window holds true on weekends too. Weekend afternoons are a different story: from 11am until closing, tour groups and day-trippers fill the nave and the crowd noise rises with them.
 
 Sunday hours are shorter, 10am to 5:30pm, and mass services can restrict tourist access to parts of the church, so plan around that if photography or a quiet look at the crypt matters to you.
 

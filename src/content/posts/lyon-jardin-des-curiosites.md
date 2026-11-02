@@ -120,7 +120,7 @@ There's no café or facilities inside, so this is very much a bring-your-own-lun
 
 The garden opens at 8am and closes at 10pm every day of the week, which gives you a lot of flexibility. Early morning and late afternoon are when the light does the most for the view, raking low across the rooftops.
 
-Measured foot-traffic data shows the calmest window is 8am–12pm, both on weekdays and weekends. Weekend afternoons, especially from 1pm to 8pm, are the busiest stretch. That's when locals and visitors alike show up for picnics and sunset views.
+Typical foot-traffic data shows the calmest window is 8am–12pm, both on weekdays and weekends. Weekend afternoons, especially from 1pm to 8pm, are the busiest stretch. That's when locals and visitors alike show up for picnics and sunset views.
 
 If you want the garden closer to yourself, aim for a weekday morning. If you're set on a weekend visit, get there before noon.
 

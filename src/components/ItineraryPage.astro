@@ -27,6 +27,10 @@ import { formatHourRanges, openHourSetsByDay } from '../lib/hours.mjs';
 import { klookCityDest } from '../lib/klookCities';
 import { tiqetsCityUrl } from '../lib/tiqets-link.mjs';
 import { closedDaysOf } from '../lib/itinerary.mjs';
+import { calendarExceptions, holidaySet } from '../lib/venue-calendar.mjs';
+import { buildToday } from '../lib/buildDay.mjs';
+import venueCalendars from '../../data/venue-calendars.json';
+import countryFacts from '../../data/country-facts.json';
 import SaveButton from './SaveButton.astro';
 import { hotelUrl } from '../lib/hotel-link.mjs';
 import { itinUi } from '../i18n/itinerary-ui-strings';
@@ -105,6 +109,19 @@ const maxStopsPerDay = Math.max(0, ...(d.itinerary ?? []).map((day: any) => (day
 const paceCanChangeSomething = maxStopsPerDay > 3;
 const postHref = (id: string) => (sameLangPostTitles.has(id) ? localizePath(`/posts/${id}`, lang) : `/posts/${id}`);
 const postTitleFor = (post: any) => sameLangPostTitles.get(post.id) ?? post.data.title;
+
+// Official calendars (data/venue-calendars.json) as the dates where the weekday
+// list is wrong — Shinjuku Gyoen opens on 2026-11-02, a Monday, and shuts on
+// 11-24, a Tuesday. Two years ahead from the build day (400 days left a trip
+// booked further out without its year-end closure — Codex, 11-02); the site
+// rebuilds daily.
+const BUILD_ISO = buildToday().toISOString().slice(0, 10);
+const calendarDates = (postId: string) => {
+  const rule = (venueCalendars as Record<string, any>)[postId];
+  if (!rule || typeof rule !== 'object') return { openOn: '', closedOn: '' };
+  const { openOn, closedOn } = calendarExceptions(rule, holidaySet(countryFacts, rule.country), BUILD_ISO, 730);
+  return { openOn: openOn.join(','), closedOn: closedOn.join(',') };
+};
 
 // Weekday name from Google's "Tuesday: Closed" style string, localized via the
 // same Intl formatter used for dates elsewhere — no separate translation table
@@ -482,7 +499,8 @@ const coverImage = mosaic[0]?.src;
     {/* 5–7. Per-day sections: label+intro → stop cards → legs → day footer */}
     {days.map((day: any, di: number) => (
       <>
-      <section id={`day-${di + 1}`} class="itin-day" data-has-rain={day.rainPost ? '1' : ''}>
+      <section id={`day-${di + 1}`} class="itin-day" data-has-rain={day.rainPost ? '1' : ''}
+        data-rain-closed={day.rainPost ? closedDaysOf(day.rainPost.data.place?.openingHours).join(',') : ''}>
         <h2 class="itin-day-title">
           {t('itin.day').replace('{n}', String(di + 1))}
           <span class="itin-day-date" data-day-date hidden></span> · {day.label}
@@ -518,6 +536,8 @@ const coverImage = mosaic[0]?.src;
                   data-lng={p.lng}
                   data-cats={interestCatsFor(post).join(',')}
                   data-closed={closedRaw.join(',')}
+                  data-open-on={calendarDates(post.id).openOn || undefined}
+                  data-closed-on={calendarDates(post.id).closedOn || undefined}
                   data-dwell={stop.dwellMin}
                 >
                   <div class="itin-stop-thumb">
@@ -607,6 +627,7 @@ const coverImage = mosaic[0]?.src;
                   (4.4★)" and "If it rains: Ise Sueyoshi: Where to Eat in Tokyo"
                   (2026-09-10). */}
               <a href={postHref(day.rainPost.id)}>{shortPlaceLabel(postTitleFor(day.rainPost), lang) || postTitleFor(day.rainPost)}</a>
+              <span class="itin-rain-closed" data-rain-closed-note hidden> {t('itin.rainAlsoClosed')}</span>
               {day.rainWhy && <span class="itin-rain-why"> — {day.rainWhy}</span>}
             </p>
           )}
@@ -634,7 +655,7 @@ const coverImage = mosaic[0]?.src;
       {di === 0 && (
         <div class="itin-email-slot" id="itin-email-slot">
           <ItineraryEmailBox lang={lang} region={d.city} country={d.country} slug={itinerary.id} />
-          <ItineraryGuideCard lang={lang} slug={itinerary.id} />
+          <ItineraryGuideCard lang={lang} slug={itinerary.id} stopsHash={itinerary.data.stopsHash} />
         </div>
       )}
       </>
@@ -786,8 +807,16 @@ const coverImage = mosaic[0]?.src;
         let dayHit = false;
         if (date) {
           const wd = WEEKDAYS[date.getUTCDay()];
+          // Same verdict as the stop's own chip below: the weekday list, then
+          // the venue's official calendar where it disagrees (Codex, 11-02 —
+          // the summary still called Shinjuku Gyoen closed on 11-02 while its
+          // card, rightly, did not). The input's calendar day, as YYYY-MM-DD.
+          const dayIso = date.toISOString().slice(0, 10);
           day.querySelectorAll<HTMLElement>('.itin-stop:not([hidden])').forEach((stop) => {
-            if ((stop.dataset.closed || '').split(',').includes(wd)) {
+            const weekly = (stop.dataset.closed || '').split(',').includes(wd);
+            const openOn = (stop.dataset.openOn || '').split(',').includes(dayIso);
+            const shutOn = (stop.dataset.closedOn || '').split(',').includes(dayIso);
+            if ((weekly && !openOn) || shutOn) {
               dayHit = true;
               hits.push(`${dayWord(i + 1)} ${(stop.querySelector('h3 a')?.textContent || '').trim()}`);
             }
@@ -818,6 +847,21 @@ const coverImage = mosaic[0]?.src;
       const label = rain.querySelector('[data-itin-rain-label]');
       if (label) label.textContent = (on ? P.rainOff : P.rainOn) || '';
       if (on) page.querySelector('.itin-rain')?.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      if (on) track('Itinerary rain view');
+    });
+
+    // Measurement (2026-11-02): which of the itinerary's tools readers use —
+    // arrival date, rainy-day view, save, share, the paid PDF. The baseline for
+    // the "gather the actions at the top" decision; none of it is personal.
+    function track(name: string) {
+      if ((window as any).plausible) (window as any).plausible(name);
+    }
+    arrivalEl?.addEventListener('change', () => { if (arrivalEl.value) track('Itinerary arrival date'); });
+    page.addEventListener('click', (e) => {
+      const el = e.target as HTMLElement;
+      if (el.closest('.itin-share a, .itin-share button')) track('Itinerary share');
+      else if (el.closest('.save-btn')) track('Itinerary save');
+      else if (el.closest('.itin-guide-btn')) track('PDF click');
     });
 
     // Book-ahead checklist, kept in this browser only.
@@ -1431,14 +1475,29 @@ const coverImage = mosaic[0]?.src;
           const weekdayName = WEEKDAYS[dayDate.getDay()];
           if (dateSpan) { dateSpan.hidden = false; dateSpan.textContent = ' \u00b7 ' + formatDayDate(dayDate); }
 
+          // Point at the indoor option only when it is itself open that day:
+          // across the 80 published itinerary days, 8 of the 16 with both a
+          // closed stop and an indoor option closed the indoor option on the
+          // same weekday (Bangkok National Museum, SeMA, HK Museum of Art —
+          // 2026-11-02). The warning was sending people to a second locked door.
           const hasRain = daySection.dataset.hasRain === '1';
-          const warningText = hasRain ? tClosedWarning : tClosedWarningNoSwap;
+          const rainClosed = (daySection.dataset.rainClosed || '').split(',').filter(Boolean).includes(weekdayName);
+          const rainNote = daySection.querySelector('[data-rain-closed-note]') as HTMLElement | null;
+          if (rainNote) rainNote.hidden = !rainClosed;
+          const warningText = hasRain && !rainClosed ? tClosedWarning : tClosedWarningNoSwap;
           stops.forEach((stopEl) => {
             const chip = stopEl.querySelector('.chip-closed') as HTMLElement | null;
             if (!chip) return;
             if (chip.dataset.orig === undefined) chip.dataset.orig = chip.textContent || '';
             const closedList = (stopEl.dataset.closed || '').split(',').filter(Boolean);
-            const isClosed = closedList.includes(weekdayName);
+            // The venue's official calendar overrides the weekday list where
+            // they disagree (data/venue-calendars.json): special opening
+            // periods, a holiday Monday's closure moved to Tuesday, year-end.
+            // Local calendar day, matching parseLocalDate — no UTC shift.
+            const dayIso = `${dayDate.getFullYear()}-${String(dayDate.getMonth() + 1).padStart(2, '0')}-${String(dayDate.getDate()).padStart(2, '0')}`;
+            const openOn = (stopEl.dataset.openOn || '').split(',');
+            const shutOn = (stopEl.dataset.closedOn || '').split(',');
+            const isClosed = (closedList.includes(weekdayName) && !openOn.includes(dayIso)) || shutOn.includes(dayIso);
             chip.textContent = isClosed && warningText ? warningText : chip.dataset.orig;
             chip.classList.toggle('chip-closed-warning', isClosed);
           });
@@ -1454,6 +1513,8 @@ const coverImage = mosaic[0]?.src;
         } else {
           if (dateSpan) { dateSpan.hidden = true; dateSpan.textContent = ''; }
           if (icsLink) { icsLink.hidden = true; icsLink.href = '#'; }
+          const rainNote = daySection.querySelector('[data-rain-closed-note]') as HTMLElement | null;
+          if (rainNote) rainNote.hidden = true;
           stops.forEach((stopEl) => {
             const chip = stopEl.querySelector('.chip-closed') as HTMLElement | null;
             if (chip && chip.dataset.orig !== undefined) {

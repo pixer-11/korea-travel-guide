@@ -138,7 +138,7 @@ Paths are flat and gravelled or paved. An unhurried loop takes about an hour. Al
 
 ## Timing the courtyards
 
-The courtyards look their best without a crowd in the shot. Measured foot traffic shows a clear pattern here.
+The courtyards look their best without a crowd in the shot. Typical foot traffic shows a clear pattern here.
 
 On weekdays, the quietest window is **9am to 10am**, the first hour after opening. On weekends, the calmer stretch runs **9am to 12pm**, but the busiest period is **10am to 1pm**. In practice, that means turning up at 9am. Try not to arrive after 10am on a Saturday or Sunday, because that is when the courtyards and the Mangyeongru stairs fill up.
 

@@ -63,7 +63,7 @@ faq:
   - q: How do I get to People's Park?
     a: Take Metro Lines 1, 2, or 8 to People's Square Station — several exits open directly onto the park. It's also an easy 15–20 minute walk west from the Bund along Nanjing Road.
   - q: What is the quietest time to visit?
-    a: Weekdays between 7am and 8am, or weekends between 7am and 9am, based on measured foot-traffic data. Weekend crowds build steadily and stay busy from about 10am until 11pm.
+    a: Weekdays between 7am and 8am, or weekends between 7am and 9am, based on typical foot-traffic data. Weekend crowds build steadily and stay busy from about 10am until 11pm.
   - q: How much time should I plan for a visit?
     a: About 45 minutes to an hour for a full loop of the pond and wooded paths; add another 30–45 minutes if you stop at the Barbarossa lakeside cafe.
   - q: Is there an entrance fee?

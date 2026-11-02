@@ -76,7 +76,7 @@ faq:
       market, concert, or festival, which happens frequently.
   - q: When is the quietest time to visit?
     a: >-
-      Between 7am and 9am, on both weekdays and weekends, based on measured
+      Between 7am and 9am, on both weekdays and weekends, based on typical
       foot-traffic patterns.
   - q: What's the best way to get there?
     a: >-

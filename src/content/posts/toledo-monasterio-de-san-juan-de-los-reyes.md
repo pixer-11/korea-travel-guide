@@ -85,7 +85,7 @@ The monastery sits on Calle de los Reyes Católicos, inside the old town, an eas
 
 ## When to go
 
-The monastery opens daily at 10am and closes at 6:45pm, with no midday closure, which makes it easy to slot into a walking day through the old town. Measured foot-traffic data shows the calmest window is 10am to 11am on weekdays. Arrive right at opening and you'll often have the upper cloister nearly to yourself. Weekends are a different story: crowds build steadily from noon and stay heavy until closing, so if you're visiting on a Saturday or Sunday, try to arrive before noon.
+The monastery opens daily at 10am and closes at 6:45pm, with no midday closure, which makes it easy to slot into a walking day through the old town. Typical foot-traffic data shows the calmest window is 10am to 11am on weekdays. Arrive right at opening and you'll often have the upper cloister nearly to yourself. Weekends are a different story: crowds build steadily from noon and stay heavy until closing, so if you're visiting on a Saturday or Sunday, try to arrive before noon.
 
 Plan on 45 minutes to an hour inside, more if you want to sit with the cloister ceiling for a while or read the informational panels on the building's history.
 

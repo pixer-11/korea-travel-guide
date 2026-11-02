@@ -123,7 +123,7 @@ Most local visitors come by car. On busy weekends the car parks fill along with 
 
 ## Timing around the weekend crowd
 
-The grounds are currently listed as open 24 hours. Measured foot traffic shows weekends stay busy from 8am to 5pm. On a Saturday or Sunday, that covers every daylight hour you'd want for walking.
+The grounds are currently listed as open 24 hours. Typical foot traffic shows weekends stay busy from 8am to 5pm. On a Saturday or Sunday, that covers every daylight hour you'd want for walking.
 
 If you can, go on a weekday instead. The quietest measured windows come late:
 

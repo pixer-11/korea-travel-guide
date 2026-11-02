@@ -102,7 +102,7 @@ The tram is the easier choice in summer heat or if you are carrying luggage. Coi
 
 ## Weekdays win: timing your visit
 
-The measured foot-traffic is blunt about weekends. Saturdays and Sundays are busy for the whole of opening hours, from 9am to 5pm. No weekend slot reliably avoids the people who come for a popular special show.
+The typical foot-traffic is blunt about weekends. Saturdays and Sundays are busy for the whole of opening hours, from 9am to 5pm. No weekend slot reliably avoids the people who come for a popular special show.
 
 If your schedule allows it, come Tuesday to Friday. At the moment the museum opens 9am–5pm on those days and closes all day Monday. Hours can shift for exhibition changeovers and holidays, so check the official site for this month's schedule. Give it 1.5–2 hours for one special exhibition plus the collection rooms.
 

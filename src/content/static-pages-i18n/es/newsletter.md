@@ -1,14 +1,14 @@
 ---
 lang: es
 slug: newsletter
-srcHash: 'b87e721e29d6'
+srcHash: '2db2990556da'
 metaTitle: El boletín de Wander Atlas — El resumen semanal
 metaDescription: 'Un resumen de viajes semanal y respaldado por datos: adónde ir ahora, franjas horarias tranquilas para los grandes lugares turísticos, nuevas guías e itinerarios verificados — en tu idioma, gratis.'
 eyebrow: Boletín
 h1: El resumen semanal
 ---
 
-Una vez a la semana, enviamos un breve resumen elaborado a partir de los mismos datos verificados que dan soporte a este sitio —datos de afluencia medidos, horarios de apertura comprobados, tablas climáticas de diez años— y nada de conjeturas.
+Una vez a la semana, enviamos un breve resumen elaborado a partir de los mismos datos verificados que dan soporte a este sitio —previsiones de afluencia, horarios de apertura comprobados, tablas climáticas de diez años— y nada de conjeturas.
 
 ## Lo que recibes cada semana
 

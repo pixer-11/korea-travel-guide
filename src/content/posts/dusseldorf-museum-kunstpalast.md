@@ -122,7 +122,7 @@ Temporary exhibitions take up separate galleries and often draw the weekend crow
 
 Thursday is this museum's quirk, and the best way to use it. The schedule is 11am to 6pm on most days, but on Thursdays the doors stay open until 9pm.
 
-Measured foot traffic shows that 6pm–7pm is the quietest weekday window. Thursday is the only weekday when the building is actually open then. Arrive around 5pm, see a temporary show while the daytime visitors leave, then have the permanent galleries mostly to yourself after six.
+Typical foot traffic shows that 6pm–7pm is the quietest weekday window. Thursday is the only weekday when the building is actually open then. Arrive around 5pm, see a temporary show while the daytime visitors leave, then have the permanent galleries mostly to yourself after six.
 
 Weekends are the opposite. Between 12pm and 6pm on Saturday and Sunday is the busiest stretch, so skip it if you can. If a weekend is your only option, be at the door at 11am opening, before that wave builds.
 

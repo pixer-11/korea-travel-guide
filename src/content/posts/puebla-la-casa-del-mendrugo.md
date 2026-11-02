@@ -94,7 +94,7 @@ The Spanish side of the menu gives you a fallback if someone in your group doesn
 
 ## Timing a table around the crowds
 
-This is a busy, well-known place, but the measured foot traffic is reassuring. **On weekdays it stays calm the whole time it's open, 8am to 11pm**, so a Tuesday dinner needs little planning.
+This is a busy, well-known place, but the typical foot traffic is reassuring. **On weekdays it stays calm the whole time it's open, 8am to 11pm**, so a Tuesday dinner needs little planning.
 
 Weekends are different. Saturday and Sunday are **busiest from 11am to 9pm**, so try not to arrive for a weekend lunch at noon. The quieter weekend window starts at 8am. Breakfast is the easiest way to get a table without waiting.
 

@@ -135,7 +135,7 @@ From the main station halls, leave by the north side toward the Alster. The red-
 
 ## Thursday after six
 
-The schedule has one quirk worth building a trip around. Every other open day the doors close at 6pm, but on Thursday the Kunsthalle stays open until 9pm. Measured foot traffic shows the quietest weekday window is 6pm–7pm. On a Thursday, that means you can still walk in during the calmest hour.
+The schedule has one quirk worth building a trip around. Every other open day the doors close at 6pm, but on Thursday the Kunsthalle stays open until 9pm. Typical foot traffic shows the quietest weekday window is 6pm–7pm. On a Thursday, that means you can still walk in during the calmest hour.
 
 Arrive around 6pm, head straight to the Friedrich room, then work outward. Weekends are the opposite case. From 11am to 6pm on Saturday and Sunday the galleries are at their fullest. That is when you will be waiting behind a row of phones at the *Wanderer*. Also remember the museum is closed every Monday.
 

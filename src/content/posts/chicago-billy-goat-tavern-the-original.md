@@ -85,7 +85,7 @@ faq:
   - q: What's the best time to visit to avoid crowds?
     a: >-
       Weekday mornings between 7am and 10am are the quietest window based on
-      measured foot traffic. Weekends stay busy most of the day, with the
+      typical foot traffic. Weekends stay busy most of the day, with the
       heaviest crowds from noon to 10pm.
   - q: How do I get to the original Billy Goat Tavern?
     a: >-
@@ -131,7 +131,7 @@ Portions are modest and prices stay budget-friendly, in keeping with its reputat
 
 ## When to go
 
-Billy Goat is open long hours (from 7am on weekdays (9am weekends) until midnight most nights, and until 1:30am Thursday through Saturday), so it works equally well as a breakfast burger stop or a late-night bite after a show. Measured foot-traffic shows the calmest window is weekday mornings between 7am and 10am, before the lunch office crowd and tour groups arrive.
+Billy Goat is open long hours (from 7am on weekdays (9am weekends) until midnight most nights, and until 1:30am Thursday through Saturday), so it works equally well as a breakfast burger stop or a late-night bite after a show. Typical foot-traffic shows the calmest window is weekday mornings between 7am and 10am, before the lunch office crowd and tour groups arrive.
 
 Weekends stay busy nearly all day, with the heaviest crush from noon to 10pm, worth avoiding if you want to actually get a seat rather than eat standing at the counter. If you can only come on a weekend, aim for the morning hours before 11am.
 

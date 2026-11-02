@@ -128,7 +128,7 @@ For breakfast, there are biscuits and grits and egg dishes with that same debris
 
 ## When to go
 
-Mother's keeps long hours every day of the week, so there's real flexibility here. This isn't a lunch-only spot. The measured foot-traffic pattern shows the calmest stretches are early mornings and the off-peak weekday hours; weekends are a different story; on Saturday and Sunday the line can snake toward the door as brunch crowds, tourists, and conventioneers all converge at once.
+Mother's keeps long hours every day of the week, so there's real flexibility here. This isn't a lunch-only spot. The typical foot-traffic pattern shows the calmest stretches are early mornings and the off-peak weekday hours; weekends are a different story; on Saturday and Sunday the line can snake toward the door as brunch crowds, tourists, and conventioneers all converge at once.
 
 If you can manage an early breakfast or a late-morning visit before 11, or swing by mid-afternoon on a weekday, you'll skip the worst of it.
 

@@ -55,7 +55,7 @@ faq:
   - q: Is there an entrance fee for Trevi Fountain?
     a: No — it's a public piazza with free, open access at all hours it's listed as open; there's no ticket or admission charge.
   - q: What's the quietest time to visit?
-    a: Between 9am and 11am, on both weekdays and weekends, based on measured foot-traffic — you'll get real space at the railing rather than a wall of phones.
+    a: Between 9am and 11am, on both weekdays and weekends, based on typical foot-traffic — you'll get real space at the railing rather than a wall of phones.
   - q: How do I get there by metro?
     a: Take Line A to Barberini station, then walk about 10 minutes downhill, or use Spanish Steps station (also Line A) and walk through the shopping streets.
   - q: How long should I spend at the fountain?
@@ -86,7 +86,7 @@ Look up and to the sides for the smaller stone panels showing the legendary orig
 
 ## When to go
 
-This is one of the most visited monuments in Italy, and the piazza is small relative to the crowd it pulls, so timing matters more here than almost anywhere else in Rome. Measured foot-traffic shows the calm window is 9am–11am, on both weekdays and weekends. Arrive then and you'll get actual space at the railing. Avoid showing up between 2pm and 9pm on a weekend, which is consistently the most packed stretch.
+This is one of the most visited monuments in Italy, and the piazza is small relative to the crowd it pulls, so timing matters more here than almost anywhere else in Rome. Typical foot-traffic shows the calm window is 9am–11am, on both weekdays and weekends. Arrive then and you'll get actual space at the railing. Avoid showing up between 2pm and 9pm on a weekend, which is consistently the most packed stretch.
 
 The fountain itself runs long hours, 9am to 10pm most days, though Mondays and Fridays it opens later, at 11:30am, so plan an early visit those two days around the later start rather than assuming a 9am arrival. Evening is worth it too, if crowds don't bother you, the water's lit and the stone glows warm gold against the dark.
 
