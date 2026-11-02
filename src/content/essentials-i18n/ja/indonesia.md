@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: indonesia
-srcHash: 5a7bb71a9aa4
+srcHash: '7ee9a1d98ce6'
 title: インドネシア旅行基本ガイド:ビザ・交通機関ほか
 description: インドネシア渡航前に知っておきたい情報——最新のビザ・入国情報、現地移動手段、お金、ベストシーズン、緊急連絡先を公式情報源とともに解説します。
 ---

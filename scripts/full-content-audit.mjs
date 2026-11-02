@@ -15,9 +15,10 @@ import { heroTierReason } from './lib/event-hero-tier.mjs';
 import regionCovers from '../data/region-covers.json' with { type: 'json' };
 import { crowdClaimSupported } from './lib/crowd-claim.mjs';
 import { recordBacksQuote, recordFactLines } from './lib/record-claim.mjs';
+import { isStableBackground } from './lib/stable-background.mjs';
 
-/** An "invented" finding that only repeats the post's own address or event days. */
-const backedByRecord = (issue, data) => issue?.type === 'invented-specifics' && recordBacksQuote(issue.quote, data);
+/** An "invented" finding that only repeats the post's own address or event days, or is an event/attraction page's stable background (lib/stable-background, 11-02). */
+const backedByRecord = (issue, data) => issue?.type === 'invented-specifics' && (recordBacksQuote(issue.quote, data) || isStableBackground(issue.quote, data.category));
 import { tellSpans } from './lib/ai-tells.mjs';
 import { readFile, writeFile, readdir } from 'node:fs/promises';
 import { existsSync, readFileSync } from 'node:fs';
@@ -55,7 +56,7 @@ async function editorCheck(post) {
         `- symbol-in-prose: rating symbols like "$$"/"★"/price-level codes written into sentences\n` +
         `- template-chatter: leftover AI/template phrases ("Here is", "as an AI", meta-instructions)\n` +
         `- broken-markdown: visible markdown syntax errors, stray **, unclosed brackets, raw HTML\n` +
-        `- invented-specifics: exact PRICES, exact OPENING HOURS, or specific MENU ITEMS stated as fact WITHOUT hedging AND not present in the VERIFIED DATA below. NOTE: star ratings and review counts (e.g. "4.6 from 8,000 reviews") are VERIFIED live data — NEVER flag those. Hours or price level that AGREE with the VERIFIED DATA are live facts from the venue's own record — NEVER flag those either.\n` +
+        `- invented-specifics: exact PRICES, exact OPENING HOURS, or specific MENU ITEMS stated as fact WITHOUT hedging AND not present in the VERIFIED DATA below. ONLY these three: stable encyclopedic background is NOT invented-specifics and must NEVER be flagged — founding, building or opening years and history more than ten years old (an opening, rebuild, renovation or rename within the last ten years MAY be flagged: that is where stale memory goes wrong), seat capacities and sizes, an artist's members, debut or songs, how long to spend, travel times and distances, transit lines, typical weather, what a city or region is known to eat. NOTE: star ratings and review counts (e.g. "4.6 from 8,000 reviews") are VERIFIED live data — NEVER flag those. Hours or price level that AGREE with the VERIFIED DATA are live facts from the venue's own record — NEVER flag those either.\n` +
         `- foreign-fragment: sentences in a language other than the article's (proper nouns/parenthetical native names are FINE)\n` +
         `- other-glaring: anything a reader would screenshot as embarrassing\n` +
         `Respond ONLY JSON: {"issues":[{"type":"...","quote":"<exact short quote>"}]} — empty array if clean. Max 5 issues.\n\n` +

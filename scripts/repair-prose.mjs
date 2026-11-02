@@ -30,6 +30,7 @@ import yaml from 'js-yaml';
 import { srcHashOfPostFile } from './lib/src-hash.mjs';
 import { paragraphDiff, recordRepair, pruneRecords, loadRecords, saveRecords, cleanRepairOutput } from './lib/prose-patch.mjs';
 import { recordBacksQuote } from './lib/record-claim.mjs';
+import { isStableBackground } from './lib/stable-background.mjs';
 
 const POSTS = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
 const AUDIT = fileURLToPath(new URL('../data/full-audit.json', import.meta.url));
@@ -112,7 +113,12 @@ for (const row of rows) {
   live = live.filter((f) => {
     const backed = f.type === 'invented-specifics' && recordBacksQuote(f.quote, fm);
     if (backed) console.log(`   ✓ the post's own address or event dates, not repaired: « ${String(f.quote).slice(0, 70)} »`);
-    return !backed;
+    // Stable background on an event or attraction page (a history date, a seat
+    // count, a line-up): 19 of 24 such findings checked true on 11-01, and the
+    // rule for this type deletes them (lib/stable-background).
+    const background = !backed && f.type === 'invented-specifics' && isStableBackground(f.quote, fm.category);
+    if (background) console.log(`   ✓ stable background, not repaired: « ${String(f.quote).slice(0, 70)} »`);
+    return !backed && !background;
   });
   // An "invented" hours/price finding whose numbers all appear in the venue's
   // own record is the auditor disagreeing with live data, not a defect — the

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: indonesia
-srcHash: 5a7bb71a9aa4
+srcHash: '7ee9a1d98ce6'
 title: 'Lo esencial para viajar a Indonesia: visado, transporte y más'
 description: 'Todo lo que debes saber antes de viajar a Indonesia: visado y requisitos de entrada vigentes, cómo moverte, dinero, mejor época para visitar y números de emergencia, con fuentes oficiales.'
 ---

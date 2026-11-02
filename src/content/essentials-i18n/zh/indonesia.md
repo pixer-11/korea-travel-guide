@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: indonesia
-srcHash: 5a7bb71a9aa4
+srcHash: '7ee9a1d98ce6'
 title: 印度尼西亚旅行必备指南：签证、交通及更多信息
 description: 赴印尼前必读——最新签证与入境规定、市内及岛际交通、货币与花费、最佳旅行时间，以及紧急求助电话，均附官方信息来源。
 ---

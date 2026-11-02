@@ -58,7 +58,7 @@ export const REGION_TZ = {
   },
   Indonesia: {
     Jakarta: WIB, Yogyakarta: WIB, Bandung: WIB, Surabaya: WIB, Malang: WIB,
-    Medan: WIB, 'Mount Bromo': WIB, Tangerang: WIB, Magelang: WIB,
+    Medan: WIB, 'Mount Bromo': WIB, Tangerang: WIB, Magelang: WIB, Bintan: WIB, // Riau Islands, on Jakarta time
     Bali: WITA, Ubud: WITA, Uluwatu: WITA, Canggu: WITA, 'Nusa Penida': WITA, Lombok: WITA, Denpasar: WITA, Buleleng: WITA,
     'Gili Islands': WITA, Mandalika: WITA, 'Labuan Bajo': WITA, Komodo: WITA,
     Makassar: WITA,

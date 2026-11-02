@@ -126,6 +126,11 @@ async function main() {
       // the model talking to itself, not the guide.
       const qa = body.search(/\*\*Quick answer:?\*\*/i);
       if (qa > 0) body = body.slice(qa).trim();
+      // A bare "~" pairs with the next one into strikethrough. Every other
+      // writer escapes it (translate-essentials, generate, discover-events);
+      // this one did not, and the 11-01 refresh shipped "(~USD 10)" on the
+      // Indonesia guide (validate-content TILDE warning, 11-02).
+      body = body.replace(/(?<!\\)~/g, '\\~');
       // Completeness gate: a guide missing any of the 6 required sections (usually
       // from truncation) must NOT ship — the topic hubs deep-link to these anchors,
       // and a half-written essentials page is worse than none on a young domain.

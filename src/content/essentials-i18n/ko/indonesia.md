@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: indonesia
-srcHash: 5a7bb71a9aa4
+srcHash: '7ee9a1d98ce6'
 title: '인도네시아 여행 필수 정보: 비자, 교통수단 등'
 description: 인도네시아 방문 전 알아야 할 것들 — 최신 비자 및 입국 정보, 현지 교통수단, 환전, 여행 최적기, 긴급 연락처까지 공식 출처와 함께 안내합니다.
 ---
