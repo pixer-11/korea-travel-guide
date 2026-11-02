@@ -1,6 +1,6 @@
 ---
 title: 'Sun Moon Lake Marathon: Dates, Tickets & Venue (Nantou)'
-description: The Sun Moon Lake Marathon takes place on November 1, 2026, on the roads around Sun Moon Lake in Yuchi Township, Nantou County, Taiwan.
+description: The Sun Moon Lake Marathon was set for November 1, 2026, on the roads around Sun Moon Lake in Yuchi Township, Nantou County, Taiwan.
 country: Taiwan
 region: Nantou
 category: event
@@ -11,23 +11,23 @@ eventRecurring: true
 eventVenue: Sun Moon Lake
 eventFactsAsked: true
 heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Nantou-County_Taiwan_Sun-Moon-Lake-Ropeway-01.jpg/1280px-Nantou-County_Taiwan_Sun-Moon-Lake-Ropeway-01.jpg'
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Nantou-County_Taiwan_Sun-Moon-Lake-Ropeway-01.jpg/1280px-Nantou-County_Taiwan_Sun-Moon-Lake-Ropeway-01.jpg
   credit: 'Photo: CEphoto, Uwe Aranas (CC BY-SA 3.0)'
   license: wikimedia
-  source: 'File:Nantou-County Taiwan Sun-Moon-Lake-Ropeway-01.jpg'
+  source: File:Nantou-County Taiwan Sun-Moon-Lake-Ropeway-01.jpg
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery: []
 tags:
   - nantou
   - event
-quickAnswer: The Sun Moon Lake Marathon takes place on November 1, 2026, on the roads around Sun Moon Lake in Yuchi Township, Nantou County, Taiwan. The course follows the lake's shoreline. The organiser publishes the dates, start area and registration links on its official site.
+quickAnswer: The Sun Moon Lake Marathon was set for November 1, 2026, on the roads around Sun Moon Lake in Yuchi Township, Nantou County, Taiwan. The announced course followed the lake's shoreline. The organiser named the start area alongside the race date and registration details.
 faq:
   - q: When is the Sun Moon Lake Marathon 2026?
-    a: The 2026 edition takes place on November 1, 2026.
+    a: The 2026 edition was set for November 1, 2026.
   - q: Where does the race take place?
-    a: It runs on the roads around Sun Moon Lake in Yuchi Township, Nantou County, in central Taiwan. The organiser publishes the start and finish area on its official site.
+    a: The race was planned on the roads around Sun Moon Lake in Yuchi Township, Nantou County, in central Taiwan. The organiser named the start and finish area along with the course.
   - q: How do runners get to Sun Moon Lake?
     a: Most take Nantou Bus route 6670 from Taichung HSR Station to Shuishe, a ride of roughly 90 minutes to two hours. Others drive in on Provincial Highway 21. There is no train line to the lake.
   - q: Where do participants usually stay?
@@ -37,12 +37,11 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A race around Taiwan's largest lake
 
-The 2026 edition runs on November 1. Sun Moon Lake (日月潭, Rìyuètán) is the largest freshwater lake in Taiwan, at roughly 750 metres up in the hills of central Nantou County. The race is known locally as 日月潭馬拉松.
+The 2026 edition was set for November 1. Sun Moon Lake (日月潭, Rìyuètán) is the largest freshwater lake in Taiwan, at roughly 750 metres up in the hills of central Nantou County. The race is known locally as 日月潭馬拉松.
 
-The lake road climbs and dips between forested headlands, so this is not a flat course. Runners pass the lakeside villages and the temples on the slopes above the water. Early November is the start of the cool, drier season in central Taiwan, which is why the event sits in the autumn calendar.
+The lake road climbs and dips between forested headlands, so this is not a flat course. The route passes the lakeside villages and the temples on the slopes above the water. Early November is the start of the cool, drier season in central Taiwan, which is why the event sits in the autumn calendar.
 
 This marathon is a separate event from the Sun Moon Lake Swimming Carnival. That is a mass open-water crossing, usually held earlier in the autumn.
 
@@ -52,7 +51,7 @@ There is no train to Sun Moon Lake. Most visitors arrive by bus or car.
 
 - **From Taichung HSR Station:** Nantou Bus route 6670 runs to Shuishe, the lake's main village. The ride takes roughly 90 minutes to two hours.
 - **From Taichung city:** buses run from the stations near Taichung Railway Station.
-- **By car:** Provincial Highway 21 circles much of the lake. Expect road closures on race morning.
+- **By car:** Provincial Highway 21 circles much of the lake. Roads around the lake typically close on race morning.
 
 Shuishe and Ita Thao are the two villages with most of the rooms. Runners usually stay the night before in one of them, or in Puli, about 30 minutes north by road. Rooms beside the lake are limited, so the overflow ends up in Puli.
 
@@ -61,7 +60,7 @@ Shuishe and Ita Thao are the two villages with most of the rooms. Runners usuall
 Mist often sits on the water at dawn here, and it lifts as the sun rises over the eastern ridges. Runners usually reach the start area well before the gun, because lake buses run on reduced schedules while roads are closed.
 
 - **Paying:** an EasyCard (悠遊卡) works on Nantou buses and at the 7-Eleven and FamilyMart in Shuishe.
-- **Tipping:** it is not customary in Taiwan, and nobody expects it at guesthouses or restaurants.
+- **Tipping:** it is not customary in Taiwan, at guesthouses or at restaurants.
 - **Food:** convenience stores in Shuishe and Ita Thao open early. Runners rely on them for rice balls, bananas and hot soy milk before the start.
 - **Etiquette:** spectators usually stand back from the narrow lakeside verges. Some stretches of the road have barely a shoulder.
 

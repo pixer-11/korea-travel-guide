@@ -1,6 +1,6 @@
 ---
 title: 'MotoGP Australian Grand Prix (Phillip Island): Dates, Tickets & Venue (Phillip Island)'
-description: The MotoGP Australian Grand Prix (Phillip Island) takes place October 23-25, 2026 at the Phillip Island Grand Prix Circuit in Victoria, with tickets sold through the organiser's official site.
+description: The 2026 MotoGP Australian Grand Prix was set for October 23-25 at the Phillip Island Grand Prix Circuit in Victoria, before the race moves to Adelaide.
 country: Australia
 region: Phillip Island
 category: event
@@ -29,14 +29,14 @@ gallery: []
 tags:
   - phillip island
   - event
-quickAnswer: The MotoGP Australian Grand Prix (Phillip Island) takes place October 23-25, 2026 at the Phillip Island Grand Prix Circuit in Victoria, with tickets sold through the organiser's official site. It is MotoGP's final visit to the island before the race moves to Adelaide in 2027. The circuit is roughly a two-hour drive southeast of Melbourne, over the single bridge at San Remo.
+quickAnswer: The MotoGP Australian Grand Prix (Phillip Island) was set for October 23-25, 2026 at the Phillip Island Grand Prix Circuit in Victoria. Tickets were sold through the organiser's official site. The 2026 race was announced as MotoGP's final visit to the island before the race moves to Adelaide in 2027. The circuit is roughly a two-hour drive southeast of Melbourne, over the single bridge at San Remo.
 faq:
   - q: When was the 2026 MotoGP Australian Grand Prix at Phillip Island?
-    a: It runs October 23-25, 2026 at the Phillip Island Grand Prix Circuit in Victoria. Friday was practice, Saturday had qualifying and the Sprint, and the full Grand Prix was on Sunday.
+    a: It was set for October 23-25, 2026 at the Phillip Island Grand Prix Circuit in Victoria. The schedule put practice on Friday, qualifying and the Sprint on Saturday, and the full Grand Prix on Sunday.
   - q: Is MotoGP still held at Phillip Island?
-    a: No. The 2026 event is MotoGP's final visit to Phillip Island. The Australian Motorcycle Grand Prix moves to Adelaide from 2027.
+    a: No. The 2026 event was announced as MotoGP's final visit to Phillip Island. The Australian Motorcycle Grand Prix moves to Adelaide from 2027.
   - q: How do you get to Phillip Island from Melbourne for the race?
-    a: The island is about two hours' drive southeast of Melbourne, over the single bridge between San Remo and Newhaven. Many fans stay in Cowes or camp locally so they avoid that bridge, which gets very congested after Sunday's race.
+    a: The island is about two hours' drive southeast of Melbourne, over the single bridge between San Remo and Newhaven. Many fans stay in Cowes or camp locally to avoid that bridge, which gets very congested after the Sunday race.
   - q: Where are the best places to watch at Phillip Island?
     a: Lukey Heights, Doohan Corner and the area around Stoner Corner are popular with general admission fans. Grandstands give you a reserved seat and more shelter from the coastal wind.
   - q: What else is there to do on Phillip Island during race weekend?
@@ -44,12 +44,11 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A track that ends at the sea
 
 The Phillip Island Grand Prix Circuit sits on a headland above Bass Strait. From the grass banks you watch bikes crest a rise with open water behind them. Nothing on the island stands between the circuit and the Southern Ocean, so the wind blows straight off the sea and runs right across the track.
 
-The 2026 Australian Motorcycle Grand Prix runs October 23-25. It was the last time MotoGP came here, because the event moves to Adelaide in 2027. That turned the weekend into a farewell to a circuit that riders have long rated among the best on the calendar.
+The 2026 Australian Motorcycle Grand Prix was set for October 23-25. It was announced as MotoGP's last visit here, because the event moves to Adelaide in 2027. That framed the 2026 weekend as a farewell to a circuit that riders have long rated among the best on the calendar.
 
 ## How the weekend runs
 
@@ -70,25 +69,25 @@ Phillip Island has only one road link to the mainland: the bridge between San Re
 
 That bridge decides how the whole weekend goes. Sunday evening is the worst time, when tens of thousands of people try to leave at once. Many fans stay on the island in Cowes, the main town on the north shore, or camp nearby. Others stay in San Remo or the towns along Bass Highway and drive in each morning.
 
-Shuttle and coach services usually run from Melbourne and from the island towns over the weekend. Riding in on a motorbike is part of the tradition for a large share of the crowd.
+Shuttle and coach services usually run from Melbourne and from the island towns over race weekends. Riding in on a motorbike is part of the tradition for a large share of the crowd.
 
 ## Tickets and where to watch
 
-The organiser publishes the dates, ticket types and ticket links on its official site. That is also where each grandstand and viewing area is described. There are two main options: general admission, or a seat in a reserved grandstand.
+Tickets for 2026 were sold through the organiser's official site. The two main options were general admission and a seat in a reserved grandstand.
 
-General admission gets you onto the grass banks around much of the circuit, and that freedom is what people come for. You can watch Sunday's race from Lukey Heights and then walk back toward the start-finish straight for the podium. Grandstand tickets give you a fixed seat and some shelter from the wind.
+General admission gets you onto the grass banks around much of the circuit, and that freedom is what people come for. You can watch the Sunday race from Lukey Heights and then walk back toward the start-finish straight for the podium. Grandstand tickets give you a fixed seat and some shelter from the wind.
 
 Camping and multi-day passes are popular. People who travel a long way tend to stay all three days instead of coming just for Sunday.
 
 ## Weathering a Bass Strait race day
 
-This is the part that catches first-timers out. Late October is spring in Victoria, and on this coast four seasons in one day is normal rather than a figure of speech. You can get sun, sideways rain and a cold southerly within a few hours.
+This is the part that catches first-timers out. Late October is spring in Victoria, and on this coast four seasons in one day is normal rather than a figure of speech. Sun, sideways rain and a cold southerly can all arrive within a few hours.
 
 Regulars usually wear layers and bring waterproofs even if the morning looks clear. They add sunscreen too, because the UV is strong even when the air is cold. Most bring something to sit on for the grass banks, plus a radio or earphones for the commentary, which is hard to hear over the engines out on the far corners.
 
-Payment around the circuit is mostly by card or phone, as everywhere in Australia, and tipping at food stalls isn't expected. Lines for food and bathrooms get longest during the breaks between sessions. Lots of fans eat while the support classes are running instead.
+Payment around the circuit is mostly by card or phone, as everywhere in Australia, and tipping at food stalls isn't customary. Lines for food and bathrooms get longest during the breaks between sessions. Lots of fans eat while the support classes are on track instead.
 
-When the race ends, many spectators don't head straight for the car park. They stay put for an hour or two while the worst of the bridge traffic clears.
+When a race ends, many spectators don't head straight for the car park. They stay put for an hour or two while the worst of the bridge traffic clears.
 
 ## Beyond the circuit
 

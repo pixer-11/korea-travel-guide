@@ -1,6 +1,6 @@
 ---
 title: 'EVA Air Marathon (Taipei): Dates, Tickets & Venue (Taipei)'
-description: The EVA Air Marathon (Taipei) takes place on Sunday, October 25, 2026, in Taipei, Taiwan, with a full marathon, half marathon, 10km and 3km race on the programme.
+description: The 2026 EVA Air Marathon (Taipei) was set for Sunday, October 25, 2026, with a full marathon, half marathon, 10km and 3km race on the programme.
 country: Taiwan
 region: Taipei
 category: event
@@ -26,46 +26,45 @@ gallery: []
 tags:
   - taipei
   - event
-quickAnswer: The EVA Air Marathon (Taipei) takes place on Sunday, October 25, 2026, in Taipei, Taiwan, with a full marathon, half marathon, 10km and 3km race on the programme. It has been held every year since 2018, and the race's official site is where registration, the route and the start area live.
+quickAnswer: The 2026 EVA Air Marathon (Taipei) was set for Sunday, October 25, 2026, in Taipei, Taiwan, with a full marathon, half marathon, 10km and 3km race on the programme. The race dates from 2018 and has been held every year since. Many visiting runners base themselves near Taipei Main Station, where the Taoyuan Airport MRT ends.
 faq:
   - q: When is the 2026 EVA Air Marathon?
-    a: The 2026 EVA Air Marathon (Taipei) takes place on Sunday, October 25, 2026. It is an annual race that has been held in Taipei since 2018.
+    a: The 2026 EVA Air Marathon (Taipei) was set for Sunday, October 25, 2026. It is an annual race that has been held in Taipei since 2018.
   - q: What race distances are offered?
-    a: 'There are four: a full marathon, a half marathon, a 10km and a 3km fun run. All four take place on the same day.'
+    a: 'The programme announced four: a full marathon, a half marathon, a 10km and a 3km fun run. All four were scheduled for the same day.'
   - q: What is the weather like for the race?
     a: Late October in Taipei is usually mild, with daytime temperatures in the low to mid-20s Celsius. Humidity stays fairly high, and the northeast monsoon can bring drizzle, so runners usually treat it as a warm race and carry a light rain layer for the start.
   - q: How do runners get to the start?
-    a: Most runners take the Taipei Metro (MRT) and pay with an EasyCard. The start area and course map come from the organiser and are on the race's official site.
+    a: Most runners take the Taipei Metro (MRT) and pay with an EasyCard. The organiser set the start area and course map for the 2026 race.
   - q: Where do visiting runners usually stay?
     a: Many stay near Taipei Main Station. The Taoyuan Airport MRT ends there and several city metro lines meet there, so the rest of Taipei is easy to reach.
 aiGenerated: true
 draft: false
 ---
-
 ## A Sunday in late October
 
-The 2026 edition falls on Sunday, October 25. That puts it in Taipei's autumn, after the worst of the summer heat, when the city's running calendar is at its busiest.
+The 2026 edition was set for Sunday, October 25. That put it in Taipei's autumn, after the worst of the summer heat, when the city's running calendar is at its busiest.
 
-EVA Air, the Taiwanese airline headquartered at Taoyuan, gives the race its name. The marathon has run every year since 2018, so it is a young event next to Asia's older city races. It has still settled into a regular slot in the international calendar.
+EVA Air, the Taiwanese airline headquartered at Taoyuan, gives the race its name. The marathon has been held every year since 2018, so it is a young event next to Asia's older city races. It has still settled into a regular slot in the international calendar.
 
 ## Four distances on one morning
 
-You do not have to be a marathoner to take part. The programme covers four races:
+You do not have to be a marathoner to take part. The programme announced four races:
 
 - **Full marathon**: the 42.195km headline event.
 - **Half marathon**: 21.1km, the distance many visiting runners choose for a first race abroad.
 - **10km**: a fast, compact option for anyone who still wants the afternoon free.
 - **3km**: a short fun run that families and casual entrants usually treat as a city walk with a medal at the end.
 
-Because every distance happens on the same day, the start area is shared by elite runners, office teams and parents pushing strollers. The full marathon field generally goes first and the shorter races follow it. The start times and wave order for each distance are set by the organiser, and the official race site is where they live.
+With every distance on the same day, the start area was planned to be shared by elite runners, office teams and parents pushing strollers. At races like this, the full marathon field generally goes first and the shorter races follow it. The organiser set the start times and wave order for each distance.
 
 ## Where the course goes
 
 Taipei is a flat basin ringed by green hills. That shape makes it friendlier to runners than its mountain backdrop suggests.
 
-Long races here tend to use the city's broad boulevards and the riverside parks along the Tamsui and Keelung rivers. Those parks line much of the city's edge with cycle paths and open lawns. The exact start, finish and route for 2026 come from the organiser, and the course map is on the race's official site.
+Long races here tend to use the city's broad boulevards and the riverside parks along the Tamsui and Keelung rivers. Those parks line much of the city's edge with cycle paths and open lawns. The organiser set the exact start, finish and route for 2026.
 
-Wherever the start line sits, the Taipei Metro (MRT) is how most runners get there. Its colour-coded lines reach almost every district, and stations are signed in English as well as Chinese.
+Wherever a start line sits, the Taipei Metro (MRT) is how most runners get there. Its colour-coded lines reach almost every district, and stations are signed in English as well as Chinese.
 
 ## The basin in the last week of October
 
@@ -81,13 +80,13 @@ Runners who train in cool climates usually treat it as a warm race:
 
 ## Cheering, queuing and paying on race morning
 
-Taipei's race mornings follow a few unwritten rules. Knowing them makes the day smoother.
+Taipei's race mornings follow a few unwritten rules, and they are easy to pick up.
 
-**Getting around.** Most locals tap through the MRT gates with an EasyCard, a stored-value card sold and topped up at station machines and convenience stores. It also works at 7-Eleven and FamilyMart, which is handy for a post-race drink. Eating and drinking are banned inside MRT stations and trains, so finish your banana on the platform steps outside.
+**Getting around.** Most locals tap through the MRT gates with an EasyCard, a stored-value card sold and topped up at station machines and convenience stores. It also works at 7-Eleven and FamilyMart, which is handy for a post-race drink. Eating and drinking are banned inside MRT stations and trains, so runners finish their bananas on the platform steps outside.
 
-**Queuing.** Taiwanese commuters line up in marked lanes on the platform and let people off before boarding. On race morning the carriages fill with runners in bibs, and the same order holds.
+**Queuing.** Taiwanese commuters line up in marked lanes on the platform and let people off before boarding. On race mornings the carriages typically fill with runners in bibs, and the same order holds.
 
-**Cheering.** The word you will hear from the roadside is *jiayou* (加油), literally "add oil", meaning "keep going". Shouting it back at volunteers and spectators gets a smile every time.
+**Cheering.** The word heard from the roadside is *jiayou* (加油), literally "add oil", meaning "keep going". Shouting it back at volunteers and spectators gets a smile every time.
 
 **Paying.** Tipping is not part of everyday life in Taiwan, at restaurants or anywhere else. Small breakfast shops and night-market stalls usually take cash. Larger restaurants and chains generally accept cards.
 

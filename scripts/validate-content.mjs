@@ -30,7 +30,7 @@ import { clampBusynessHours } from '../src/lib/hours.mjs';
 import { words as paraWords } from '../src/lib/paragraphs.mjs';
 import { endsInAbbreviation } from '../src/lib/sentence-boundary.mjs';
 import { FUTURE_PROMISE, FABRICATED_AVAILABILITY, ADVICE_IMPERATIVE, VENUE_UNCONFIRMED, NAMED_DIRECTIONS } from '../src/lib/ended-event-claims.mjs';
-import { upcomingPastTense } from './lib/invented-outcomes.mjs';
+import { upcomingPastTense, endedPresentTense } from './lib/invented-outcomes.mjs';
 import { ratingClaimProblems } from './lib/prose-rating-sync.mjs';
 import { hasBodyDisclosure } from './lib/body-disclosure.mjs';
 
@@ -478,6 +478,17 @@ export function postProblems(p, { today = new Date().toISOString().slice(0, 10),
           issues.push(`ENDED-EVENT-${label}: ${p.f} — ended ${isoDay(p.eventEnd)} but the ${where} still says "${m[0].replace(/\s+/g, ' ').trim()}"`);
           break;
         }
+      }
+    }
+    // The plain schedule sentence, still in the present: "takes place in Seoul on
+    // November 1, 2026" (30+ ended guides on 11-02). Same label family, so the
+    // publish repair picks it up with the rest (STALE= grep above).
+    const start = isoDay(p.eventStart || p.eventEnd);
+    for (const [where, text] of surfaces) {
+      const hit = endedPresentTense(text, start.slice(0, 4), [start.slice(5, 7), isoDay(p.eventEnd).slice(5, 7)])[0];
+      if (hit) {
+        issues.push(`ENDED-EVENT-PRESENT-TENSE: ${p.f} — ended ${isoDay(p.eventEnd)} but the ${where} still says "${hit.sentence.slice(0, 120)}"`);
+        break;
       }
     }
   }

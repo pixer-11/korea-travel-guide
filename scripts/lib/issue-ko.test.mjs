@@ -185,6 +185,7 @@ test('every validate-content message shape has Korean of its own', () => {
     `ENDED-EVENT-FUTURE-TENSE: ${f} — ended 2026-10-28 but the body still says "will be"`,
     `ENDED-EVENT-FABRICATED-AVAILABILITY: ${f} — ended 2026-10-28 but the body still says "tickets remain"`,
     `ENDED-EVENT-ADVICE: ${f} — ended 2026-10-28 but the body still says "Confirm the date"`,
+    `ENDED-EVENT-PRESENT-TENSE: ${f} — ended 2026-11-01 but the description still says "It takes place on November 1, 2026."`,
   ];
   for (const l of lines) {
     const out = koIssueLine(l);

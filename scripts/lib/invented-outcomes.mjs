@@ -183,3 +183,51 @@ export function upcomingPastTense(text, eventYear) {
   }
   return hits;
 }
+
+// The other half of the mirror: an event that HAS happened, still announced as
+// coming. "The JTBC Seoul Marathon takes place in Seoul on November 1, 2026"
+// stood in the description on 11-02, the day after, and in 30 of 266 ended
+// guides. FUTURE_PROMISE looks for promises about the event (lineups, ticket
+// sales), not the plain schedule sentence, so the English stayed and each
+// translation of it came back "열립니다" for the translation audit to catch.
+// Same narrowness as upcomingPastTense: a sentence that names this edition —
+// its year and no other, or (with no year at all) a day of the event's month —
+// and is not about a recurring habit ("is held every October").
+// A movement verb counts only when a place follows ("comes to Hong Kong", "comes
+// to the Alhambra") — "Phnom Penh comes to remember him" is not a schedule.
+// Checked case-sensitively after the match, since the verb list is not.
+const PLACE = /^\s+(?:the\s+)?[A-Z]/;
+const MOVEMENT = /^(?:comes|come|returns|return|will return|heads|lands|arrives)\s/i;
+// "runs" and "set/scheduled/slated for" are schedules only when a date follows:
+// "the course runs from City Hall", "the site is set for redevelopment" are not.
+const DATED = /^(?:runs|is set|is scheduled|is slated)\b/i;
+const WHEN = new RegExp(String.raw`^\s+(?:the\s+|a\s+)?(?:\d|(?:mon|tues|wednes|thurs|fri|satur|sun)day|${['january', 'february', 'march', 'april', 'may', 'june', 'july', 'august', 'september', 'october', 'november', 'december'].join('|')}|late|early|mid)`, 'i');
+const SCHEDULE_PRESENT = /\b(?:takes place|take place|will take place|is held|are held|will be held|kicks off|kick off|is staged|are staged|is set for|is scheduled for|is slated for|(?:is|are) (?:set|scheduled|slated|expected) to (?:take place|be held|be staged|run|return)|runs (?:from|on|through|until)|(?:comes|come|returns|return|will return|heads|lands|arrives)\s+(?:to|in))\b/gi;
+// "was set to return to Bangkok", "the group's first return to the city".
+const NOT_PRESENT = /\b(?:to|was|were|had|the|a|an|first|their|its|his|her)\s+$/i;
+const RECURRING = /\b(?:every|each|annually|yearly|usually|typically|traditionally|normally|generally|often)\b/i;
+const MONTHS = ['january', 'february', 'march', 'april', 'may', 'june', 'july', 'august', 'september', 'october', 'november', 'december'];
+/** eventMonth: the start month, or [start, end] for an event that crosses one. */
+export function endedPresentTense(text, eventYear, eventMonth) {
+  const year = String(eventYear || '');
+  if (!/^\d{4}$/.test(year)) return [];
+  const months = [].concat(eventMonth).map((m) => MONTHS[Number(m) - 1]).filter(Boolean);
+  const alt = [...new Set(months)].join('|');
+  const dayOfMonth = alt ? new RegExp(String.raw`\b(?:(?:${alt})\s+\d{1,2}|\d{1,2}\s+(?:${alt}))\b`, 'i') : null;
+  const hits = [];
+  for (const line of String(text || '').split('\n')) {
+    if (/^\s*#/.test(line)) continue;
+    for (const raw of splitSentences(line)) {
+      const sentence = raw.replace(/\s+/g, ' ').trim();
+      const years = sentence.match(/\b(?:19|20)\d{2}\b/g) || [];
+      if (years.some((y) => y !== year)) continue;
+      if (!years.length && !(dayOfMonth && dayOfMonth.test(sentence))) continue;
+      if (RECURRING.test(sentence)) continue;
+      const m = [...sentence.matchAll(SCHEDULE_PRESENT)].find((x) => !NOT_PRESENT.test(sentence.slice(0, x.index))
+        && (!MOVEMENT.test(x[0]) || PLACE.test(sentence.slice(x.index + x[0].length)))
+        && (!DATED.test(x[0]) || /\bto\b/.test(x[0]) || WHEN.test(sentence.slice(x.index + x[0].length))));
+      if (m) hits.push({ sentence, verb: m[0] });
+    }
+  }
+  return hits;
+}

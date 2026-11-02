@@ -1,103 +1,103 @@
 ---
 lang: es
 slug: chennai-wtt-feeder-chennai-2026
-srcHash: '2234ebadab95'
+srcHash: 'fe690f7470a4'
 title: 'WTT Feeder Chennai 2026: fechas, entradas y sede (Chennai)'
-description: Las fechas anunciadas del WTT Feeder Chennai 2026 eran del 28 de octubre al 1 de noviembre de 2026. La sede era la Universidad de Educación Física y Deportes de Tamil Nadu (TNPESU), en Melakottaiyur, en el extremo sur de Chennai y cerca de Vandalur.
-quickAnswer: Las fechas anunciadas del WTT Feeder Chennai 2026 eran del 28 de octubre al 1 de noviembre de 2026. La sede era la Universidad de Educación Física y Deportes de Tamil Nadu (TNPESU), en Melakottaiyur, en el extremo sur de Chennai y cerca de Vandalur. Se trataba de un torneo de nivel inicial dentro del calendario de World Table Tennis. Eso suponía menos público y asientos muy cerca de las mesas, además de muchos partidos repartidos a lo largo de cinco días.
+description: El WTT Feeder Chennai 2026 estaba programado del 28 de octubre al 1 de noviembre de 2026 en la Universidad de Educación Física y Deportes de Tamil Nadu (TNPESU), en Melakottaiyur.
+quickAnswer: Las fechas anunciadas del WTT Feeder Chennai 2026 eran del 28 de octubre al 1 de noviembre de 2026. La sede era la Universidad de Educación Física y Deportes de Tamil Nadu (Tamil Nadu Physical Education and Sports University, TNPESU), situada en Melakottaiyur, en el extremo sur de Chennai y cerca de Vandalur. Los torneos Feeder son el primer escalón del calendario de World Table Tennis. Atraen a menos público y sus gradas quedan muy cerca de las mesas, de modo que en cinco días los espectadores pueden ver una gran cantidad de partidos.
 faq:
-  - q: ¿Cuándo y dónde estaba previsto el WTT Feeder Chennai 2026?
-    a: Las fechas anunciadas eran del 28 de octubre al 1 de noviembre de 2026. La sede era la Universidad de Educación Física y Deportes de Tamil Nadu (TNPESU), en Melakottaiyur, cerca de Vandalur, en el extremo sur de Chennai.
+  - q: ¿Cuándo y dónde era el WTT Feeder Chennai 2026?
+    a: Estaba programado del 28 de octubre al 1 de noviembre de 2026 en la Universidad de Educación Física y Deportes de Tamil Nadu (TNPESU). El campus se encuentra en Melakottaiyur, cerca de Vandalur, en el extremo sur de Chennai.
   - q: ¿Cómo se llegaba a la TNPESU en transporte público?
-    a: El tren de cercanías Chennai Beach–Chengalpattu llega hasta la estación de Vandalur. Desde allí, el campus queda a un breve trayecto en autorrickshaw o en taxi hacia el este por la carretera Vandalur–Kelambakkam. Uber, Ola y Rapido también tienen servicio en la zona.
-  - q: ¿Qué día convenía más para asistir?
-    a: En las primeras jornadas funcionaban varias mesas a la vez y se jugaban más partidos. El último día, en cambio, todo se reducía a una única pista central para las finales. Los aficionados ocasionales suelen elegir una jornada de primeras rondas, mientras que quienes siguen los resultados prefieren las finales.
-  - q: ¿Dónde se consultaban los cuadros y los resultados?
-    a: El circuito lo organiza World Table Tennis. Su web oficial, worldtabletennis.com, publica los cuadros, los marcadores en directo y los resultados de sus torneos.
+    a: El tren de cercanías Chennai Beach–Chengalpattu tiene parada en la estación de Vandalur. Desde allí hasta el campus hay un trayecto corto en autorrickshaw o en taxi, hacia el este por la carretera Vandalur–Kelambakkam (Vandalur–Kelambakkam Road). Uber, Ola y Rapido también operan en la zona.
+  - q: ¿Qué día era el mejor para asistir?
+    a: En los torneos Feeder, durante las primeras jornadas se juega en varias mesas a la vez y se disputan más partidos. El último día todo se reduce a una única pista central, donde se juegan las finales. El aficionado ocasional suele decantarse por un día de primeras rondas, mientras que quien sigue los resultados acude a las finales.
+  - q: ¿Dónde aparecían los cuadros y los resultados?
+    a: La serie la organiza World Table Tennis. En su web, worldtabletennis.com, se publican los cuadros, los marcadores en directo y los resultados de sus torneos.
   - q: ¿Qué tiempo hace en Chennai a finales de octubre?
-    a: Es la temporada del monzón del nordeste, con mucha humedad y posibilidad de lluvias intensas. Los partidos se jugaban bajo techo. Sin embargo, las carreteras cercanas a Vandalur pueden inundarse y los taxis avanzan más despacio durante los aguaceros, así que un paraguas resultaba útil.
+    a: 'Por esas fechas Chennai está en plena temporada del monzón del noreste: puede llover con fuerza y la humedad es alta. Aunque el tenis de mesa se juega bajo techo, las carreteras cercanas a Vandalur pueden inundarse y los taxis tardan más cuando diluvia, así que un paraguas resulta útil.'
 ---
 
-## Un torneo puntuable a pie de mesa
+## Un torneo puntuable a un paso de la mesa
 
-Desde la grada se oye cada bote de la pelota, y ese es el gran atractivo de un WTT Feeder. Los jugadores persiguen aquí puntos para el ranking mundial en el primer peldaño de la escalera de World Table Tennis. Además, se juega en un pabellón universitario y no en un estadio.
+Desde la grada se oye hasta el bote de la pelota. Esa cercanía es el gran atractivo de un torneo WTT Feeder. Los jugadores de esta categoría compiten por puntos del ranking mundial en el primer peldaño de la escalera de World Table Tennis. Para la edición de Chennai no se eligió un estadio, sino el pabellón deportivo de una universidad.
 
-Las fechas anunciadas para el WTT Feeder Chennai 2026 eran del 28 de octubre al 1 de noviembre de 2026. La sede era la Universidad de Educación Física y Deportes de Tamil Nadu (Tamil Nadu Physical Education and Sports University), que es la universidad del estado dedicada al deporte. El circuito incluye también torneos Contender, Star Contender, Champions y Grand Smash.
+Las fechas anunciadas del WTT Feeder Chennai 2026 eran del 28 de octubre al 1 de noviembre de 2026. La sede era la Universidad de Educación Física y Deportes de Tamil Nadu, la universidad que el estado dedica en exclusiva al deporte. Además de los Feeder, la serie incluye los torneos Contender, Star Contender, Champions y Grand Smash. Los Feeder ocupan la base de esa pirámide.
 
-Los Feeder ocupan la base de esa pirámide. Los jóvenes y los profesionales de ranking más modesto que los disputan suelen aparecer en citas de categoría superior en una o dos temporadas.
+Los jóvenes y los profesionales de ranking modesto que se inscriben en ellos suelen dar el salto a torneos de categoría superior en una o dos temporadas.
 
-World Table Tennis organiza el circuito. En worldtabletennis.com, la página de cada torneo recoge los cuadros, los marcadores en directo y los resultados. Las condiciones de acceso y los posibles enlaces de venta de entradas de esta edición dependían del organizador. Esta guía no indica ningún precio.
+La serie la organiza World Table Tennis. En las páginas de cada torneo en worldtabletennis.com se publican los cuadros, los marcadores en directo y los resultados.
 
-## Cinco días, cada vez menos mesas
+## Cinco días y cada vez menos mesas
 
-La verdadera peculiaridad de este torneo era la forma en que cambiaba a lo largo de la semana. En las primeras jornadas, el pabellón suele albergar varias mesas a la vez, cada una con sus vallas y su silla de árbitro. Los partidos se encadenan sin pausa y basta con girar la cabeza para seguir tres peloteos al mismo tiempo.
+Lo más peculiar de un Feeder es cómo evoluciona a lo largo de la semana. En las primeras jornadas, el pabellón alberga varias mesas a la vez, cada una con sus vallas y su silla de árbitro. Los partidos se suceden sin pausa y basta con girar la cabeza para seguir tres peloteos al mismo tiempo.
 
-A medida que el cuadro se reduce, las mesas van desapareciendo. El último día suele quedar en la pista una sola mesa central para las finales. Las primeras jornadas ofrecen cantidad: más jugadores, más sorpresas y la libertad de pasear de una pista a otra. La última ofrece concentración, con un único partido cada vez y todo el pabellón pendiente de él.
+A medida que avanza el cuadro, las mesas se van retirando. El último día, lo habitual es que en la pista solo quede una mesa central para las finales. Los primeros días ofrecen cantidad: hay más jugadores y más sorpresas, y uno puede ir de pista en pista. La última jornada ofrece concentración, porque se juega un solo partido cada vez y todo el pabellón lo sigue.
 
-En la categoría Feeder, el programa suele incluir lo siguiente:
+En un Feeder, el programa suele incluir:
 
-- Individual masculino y femenino, normalmente con rondas de clasificación previas al cuadro principal
+- Individuales masculino y femenino, normalmente con rondas de clasificación previas al cuadro principal
 - Dobles masculino y femenino
 - Dobles mixtos
 - Partidos al mejor de cinco juegos, cada uno a 11 puntos
 
-Quien busca tomarle el pulso a este deporte suele acudir un día laborable de primeras rondas. Quien quiere un resultado que le importe se reserva para las finales.
+Quien quiere tomarle el pulso a este deporte suele ir un día de primeras rondas entre semana. Quien busca un resultado que de verdad le importe acude a las finales.
 
 ## Cómo llegar a Melakottaiyur
 
-La universidad no está en el centro de Chennai. El campus de la TNPESU se encuentra en Melakottaiyur, junto a la carretera Vandalur–Kelambakkam (Vandalur–Kelambakkam Road). Esa zona pertenece a la periferia sur del área metropolitana, de carácter semirrural, y queda entre GST Road y el corredor tecnológico de Old Mahabalipuram Road.
+La universidad no está en el centro de Chennai. El campus de la TNPESU se encuentra en Melakottaiyur, junto a la carretera Vandalur–Kelambakkam (Vandalur–Kelambakkam Road). Esa ubicación lo sitúa en la franja sur semirrural del área metropolitana, entre la GST Road y el corredor tecnológico que recorre la Old Mahabalipuram Road.
 
 Estas son las principales opciones:
 
-- **Tren de cercanías:** la estación de Vandalur pertenece a la línea de cercanías Chennai Beach–Chengalpattu. Desde allí hay un breve trayecto hacia el este en autorrickshaw o en taxi hasta el campus.
-- **Aplicaciones de taxi:** en la zona operan Uber, Ola y Rapido. Desde el aeropuerto o desde los hoteles de GST Road y OMR, son la alternativa más sencilla.
-- **Autobús interurbano:** cerca de Vandalur, la terminal de autobuses de Kilambakkam concentra los servicios de largo recorrido hacia el sur. Resulta práctica para quien combine el torneo con un viaje por la costa de Tamil Nadu.
-- **Desde el aeropuerto:** el Aeropuerto Internacional de Chennai está en GST Road, a la altura de Meenambakkam. Como se encuentra en el mismo lado sur de la ciudad que la sede, no hace falta atravesar el centro.
+- **Tren de cercanías:** la estación de Vandalur pertenece a la línea de cercanías Chennai Beach–Chengalpattu. Desde allí, el campus queda a un trayecto corto en autorrickshaw o taxi en dirección este.
+- **Aplicaciones de taxi:** Uber, Ola y Rapido funcionan en la zona. Son la opción más sencilla para llegar desde el aeropuerto o desde los hoteles de la GST Road y la OMR.
+- **Autobús interurbano:** la terminal de autobuses de Kilambakkam, cerca de Vandalur, concentra los servicios de largo recorrido con destino al sur. Resulta práctica para viajar por la costa de Tamil Nadu.
+- **Desde el aeropuerto:** el Aeropuerto Internacional de Chennai está en la GST Road, a la altura de Meenambakkam. Como se encuentra en el mismo lado sur de la ciudad que la sede, no hace falta atravesar el centro.
 
-A última hora de la tarde, encontrar un taxi de vuelta desde el campus puede llevar su tiempo. Lo habitual entre los espectadores es esperar a los conductores de autorrickshaw que se reúnen junto a la puerta de la universidad o en la estación de Vandalur.
+A última hora de la tarde puede costar encontrar un taxi de vuelta desde el campus. Los espectadores suelen esperar a los conductores de autorrickshaw que se reúnen junto a la entrada de la universidad o en la estación de Vandalur.
 
 ## Desde la grada
 
-El tenis de mesa tiene unos modales discretos. El público guarda silencio absoluto mientras el jugador bota la pelota antes de sacar. El punto se celebra cuando termina y nunca durante el peloteo. Con tener esto presente, cualquiera se integra enseguida.
+El tenis de mesa tiene sus códigos de silencio. Mientras el jugador bota la pelota antes de sacar, el público se queda inmóvil. Los puntos se aplauden cuando terminan, nunca en mitad del peloteo. Con tener eso presente, cualquiera se integra enseguida.
 
-En el pabellón, el público suele comportarse así:
+Así suele comportarse el público en el pabellón:
 
-- Para cambiar de asiento se espera a que acabe el punto o, mejor aún, el juego. En una jornada de primeras rondas es frecuente pasar de una pista a otra, así que este detalle importa.
-- Nada de flash. Un destello blanco cerca de una pelota que vuela a tanta velocidad distrae a los jugadores, y los árbitros lo advierten.
-- El móvil, en silencio. El pabellón es tan silencioso que un tono de llamada se oye en varias pistas a la vez.
-- Se aplaude a los dos jugadores. El público indio anima con fuerza a los suyos, pero también aplaude cuando un rival extranjero gana un peloteo largo.
+- Para cambiar de asiento se aprovecha el final de cada punto o, mejor aún, el de cada juego. Como en los días de primeras rondas se cambia a menudo de pista, este detalle cobra importancia.
+- No se usa el flash. Un destello blanco cerca de una pelota que viaja a tanta velocidad distrae a los jugadores, y los árbitros no tardan en advertirlo.
+- Los teléfonos se ponen en silencio. En un pabellón tan callado, un tono de llamada se oye en varias pistas a la vez.
+- Se aplaude a ambos jugadores. El público indio anima con fuerza a los suyos, pero un peloteo largo ganado por un rival extranjero también recibe aplausos.
 
-En los alrededores de la sede, como en el resto de Chennai, se paga sobre todo con UPI escaneando un código QR en el mostrador. Los visitantes extranjeros que no tienen una aplicación UPI india suelen llevar algo de efectivo para los autorrickshaws, los puestos de té y los pequeños vendedores de comida. Los hoteles y los restaurantes grandes aceptan tarjetas.
+Tanto en los alrededores de la sede como en el resto de Chennai, casi todo se paga mediante UPI, escaneando un código QR en el mostrador. Los visitantes extranjeros que no tienen una aplicación india de UPI suelen llevar algo de efectivo para los autorrickshaws, los puestos de té y los pequeños vendedores de comida. En los hoteles y en los restaurantes más grandes se aceptan tarjetas.
 
-## Una semana de monzón del nordeste
+## Una semana de monzón del noreste
 
-El monzón del nordeste alcanza su apogeo en Chennai entre finales de octubre y principios de noviembre. En esta estación cae la mayor parte de la lluvia anual de la ciudad, a menudo en forma de fuertes chaparrones por la tarde o de noche. El torneo se jugaba bajo techo, pero el trayecto hasta el pabellón no.
+Entre finales de octubre y principios de noviembre, Chennai está en pleno monzón del noreste. En esta estación cae la mayor parte de la lluvia anual de la ciudad, a menudo en forma de fuertes chaparrones por la tarde o durante la noche. El tenis de mesa se juega bajo techo, pero el trayecto hasta el pabellón no.
 
-En la práctica, esto supone lo siguiente:
+En la práctica, esto significa lo siguiente:
 
-- Tras las lluvias fuertes, las carreteras de la periferia sur tienden a encharcarse, incluidos algunos tramos en torno a Vandalur.
+- Las carreteras de la franja sur, incluidos algunos tramos en torno a Vandalur, tienden a encharcarse después de las lluvias intensas.
 - Durante los aguaceros, las tarifas de las aplicaciones de taxi suelen subir y las esperas se alargan.
-- Nada resulta tan útil en la bolsa como un paraguas plegable y un calzado capaz de aguantar los charcos.
+- Un paraguas plegable y un calzado capaz de soportar los charcos son lo más útil que se puede llevar en la bolsa.
 
-La parte buena es que la lluvia rebaja las temperaturas respecto a los picos del verano. Aun así, la humedad sigue siendo alta.
+La parte buena es que la lluvia hace bajar las temperaturas respecto a los picos del verano. Eso sí, la humedad sigue siendo alta.
 
 ## Alojamiento y alrededores
 
-La mayoría de los visitantes que no viajan con un equipo se alojan en una de estas dos zonas.
+La mayoría de los visitantes que no viajan con un equipo se alojan en una de estas dos zonas:
 
-- **Corredor de GST Road (Tambaram, Guduvanchery, Vandalur):** es la zona más cercana a la sede y está en la línea de cercanías. Abundan los hoteles de negocios de gama media.
-- **OMR (Sholinganallur, Navalur, Kelambakkam):** es el corredor tecnológico, con hoteles más grandes y muchos restaurantes. Para llegar al campus hay que hacer un trayecto en taxi por la carretera Vandalur–Kelambakkam.
+- **Corredor de la GST Road (Tambaram, Guduvanchery, Vandalur):** es la zona más próxima a la sede y está sobre la línea de cercanías. Abundan los hoteles de negocios de gama media.
+- **OMR (Sholinganallur, Navalur, Kelambakkam):** es el corredor tecnológico y cuenta con hoteles más grandes y numerosos restaurantes. Hasta el campus hay que ir en taxi por la carretera Vandalur–Kelambakkam.
 
 Los barrios del centro de Chennai, como T. Nagar, Mylapore o Egmore, permiten conocer mejor la ciudad. A cambio, obligan a hacer cada día un largo desplazamiento hacia el sur.
 
-Muy cerca de la sede se encuentra el Parque Zoológico Arignar Anna de Vandalur, uno de los zoológicos más grandes de la India. Es una excursión sencilla de media jornada para un día de descanso. Más al sur, en la costa, están el Templo de la Orilla y los monumentos excavados en la roca de Mamallapuram, declarados Patrimonio Mundial por la UNESCO. Se puede llegar a ellos desde OMR y por la East Coast Road.
+Cerca de la sede se encuentra el Parque Zoológico Arignar Anna (Arignar Anna Zoological Park), en Vandalur, uno de los zoológicos más grandes de la India y una excursión cómoda de media jornada. Más al sur, en la costa, el templo de la orilla y los monumentos excavados en la roca de Mamallapuram, inscritos en la lista de la UNESCO, quedan al alcance desde la OMR y la East Coast Road.
 
 ## Comer entre sesiones
 
-En torno a un campus deportivo universitario se come de forma práctica y sin pretensiones. En Vandalur y Kelambakkam hay pequeños comedores populares, los llamados «mess», y puestos de té que sirven a todas horas los platos básicos de la cocina tamil:
+En torno a un campus deportivo universitario, la comida es práctica antes que sofisticada. Alrededor de Vandalur y Kelambakkam, pequeños comedores de estilo «mess» y puestos de té sirven a todas horas los platos básicos de la cocina tamil:
 
-- Idli y dosa con sambar y chutneys, que son el desayuno por excelencia
-- A mediodía, comidas servidas sobre hoja de plátano: arroz con platos de verdura que van cambiando, rasam y cuajada
-- Café de filtro, que se sirve en un vaso de acero colocado dentro de un pequeño cuenco llamado dabarah
+- Idli y dosa con sambar y chutneys, el desayuno por excelencia
+- A mediodía, el menú servido sobre hoja de plátano: arroz con guarniciones de verdura que van cambiando, rasam y cuajada
+- Café de filtro, servido en un vaso de acero colocado dentro de un pequeño cuenco llamado dabarah
 
-Los espectadores que pasan el día entero en el pabellón suelen comer en alguno de estos locales entre partidos en lugar de volver a la ciudad. Para cenar después del último partido, OMR ofrece una variedad de restaurantes más amplia, con cadenas y cocinas internacionales.
+Los espectadores que pasan el día entero en el pabellón suelen comer en alguno de estos locales entre partido y partido, en lugar de volver a la ciudad. Para cenar después del último encuentro, la OMR ofrece una oferta más amplia de restaurantes, entre ellos cadenas y cocinas internacionales.

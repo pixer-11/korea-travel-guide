@@ -1,80 +1,80 @@
 ---
 lang: es
 slug: melbourne-nike-melbourne-marathon-festival
-srcHash: 'eb11b41e1373'
+srcHash: 'd0e44906d807'
 title: 'Nike Melbourne Marathon Festival: fechas, entradas y sede (Melbourne)'
-description: El Nike Melbourne Marathon Festival de Melbourne tenía como fecha anunciada el domingo 11 de octubre de 2026.
-quickAnswer: La fecha anunciada del Nike Melbourne Marathon Festival, en Melbourne, era el domingo 11 de octubre de 2026. El programa incluía maratón, media maratón y pruebas más cortas, y todas las carreras terminaban con una vuelta al interior del Melbourne Cricket Ground (MCG), en Yarra Park. En la web oficial del festival, la organización publicaba las modalidades de inscripción, los puntos de salida y los mapas de los recorridos. Las estaciones de tren más próximas a la meta eran Richmond y Jolimont.
+description: El Nike Melbourne Marathon Festival estaba previsto para el domingo 11 de octubre de 2026, y todas sus carreras terminaban dentro del Melbourne Cricket Ground.
+quickAnswer: 'La fecha anunciada del Nike Melbourne Marathon Festival era el domingo 11 de octubre de 2026. El programa incluía un maratón, una media maratón y varias distancias más cortas. Todas las carreras culminaban con una vuelta dentro del Melbourne Cricket Ground (MCG), en Yarra Park. Para participar no bastaba con una entrada general: había que inscribirse. Las estaciones de tren más próximas a la meta son Richmond y Jolimont.'
 faq:
   - q: ¿Cuándo era el Nike Melbourne Marathon Festival de 2026?
-    a: La fecha prevista era el domingo 11 de octubre de 2026. En la web oficial del festival, la organización publicaba los horarios de las tandas y los puntos de salida de cada distancia.
-  - q: ¿Dónde estaba la meta del Maratón de Melbourne?
-    a: Todas las distancias terminaban dentro del Melbourne Cricket Ground (MCG), en Yarra Park, tras dar una vuelta al estadio. El público seguía la llegada desde las gradas.
-  - q: ¿Cuál era la mejor forma de llegar al MCG el día de la carrera?
-    a: El tren. Desde las estaciones de Richmond y de Jolimont bastaba un corto paseo por Yarra Park para llegar al estadio, y la de Flinders Street quedaba a una caminata a través de Birrarung Marr. Con los cortes de tráfico, entrar en coche al centro aquella mañana resultaba complicado.
+    a: La fecha anunciada era el domingo 11 de octubre de 2026. Cada distancia tenía sus propios horarios de salida por oleadas y su propio punto de partida.
+  - q: ¿Dónde terminaba el Maratón de Melbourne?
+    a: Todas las distancias terminaban dentro del Melbourne Cricket Ground (MCG), en Yarra Park. Antes de cruzar la meta, los corredores daban una vuelta al estadio, mientras sus acompañantes seguían la llegada desde las gradas.
+  - q: ¿Cuál era la mejor manera de llegar al MCG el día de la carrera?
+    a: El tren era la opción más sencilla. Desde las estaciones de Richmond y de Jolimont se llega al estadio con un breve paseo por Yarra Park, y desde la estación de Flinders Street se puede ir a pie atravesando Birrarung Marr. Con los cortes de tráfico, entrar en coche en la ciudad la mañana de la carrera resultaba complicado.
   - q: ¿En qué distancias se podía participar?
-    a: El festival comprendía un maratón, una media maratón y varias pruebas más cortas pensadas para debutantes y familias. La web oficial recogía el programa completo y gestionaba las inscripciones.
-  - q: ¿Qué tiempo cabía esperar en octubre?
-    a: El de mediados de primavera, que en Melbourne cambia con rapidez. Las mañanas suelen ser frescas y en el tramo junto a la bahía puede soplar viento, de modo que corredores y espectadores solían llevar una capa de ropa adicional. El horario de verano entraba en vigor el domingo anterior, así que la mañana de la carrera comenzaba aún de noche.
+    a: El programa de 2026 incluía un maratón, una media maratón y distancias más cortas pensadas para debutantes y familias. Para participar había que inscribirse; no existía una entrada general.
+  - q: ¿Qué tiempo hace en octubre?
+    a: En Melbourne, octubre es plena primavera y el tiempo cambia con rapidez. Las mañanas suelen ser frescas y en el tramo junto a la bahía puede soplar el viento, de modo que corredores y espectadores acostumbran a llevar una prenda de abrigo adicional. El horario de verano entra en vigor el primer domingo de octubre, que en 2026 fue el domingo anterior a la carrera; por eso la mañana de la prueba empezaba a oscuras.
 ---
 
-## Una meta dentro del G
+## Una meta dentro del «G»
 
-Lo que de verdad atrae a la gente son los últimos cientos de metros. La mayoría de los maratones urbanos acaban en una calle cortada y flanqueada por vallas. Este, en cambio, conducía a los corredores por un túnel hasta el interior del Melbourne Cricket Ground, un estadio con capacidad para unas 100.000 personas, y la llegada estaba sobre el propio óvalo.
+Lo que de verdad atrae a la gente son los últimos cientos de metros. En la mayoría de los maratones urbanos se llega a meta por una calle cortada y flanqueada de vallas. Aquí, en cambio, los corredores cruzan un túnel y desembocan en el Melbourne Cricket Ground, un estadio con capacidad para unas 100,000 personas. La meta está sobre el mismo césped del óvalo.
 
-Los habitantes de Melbourne llaman al recinto «el G». Allí se disputa la Gran Final de la AFL y allí arranca cada verano el Boxing Day Test. La mañana del maratón, familiares y amigos llenaban las gradas, y los corredores daban una vuelta completa al estadio antes de cruzar la meta.
+Los habitantes de Melbourne llaman al estadio «el G». En él se disputa la gran final de la AFL y cada verano arranca allí el test del Boxing Day. La mañana del maratón, familiares y amigos llenan las gradas, y los corredores completan una vuelta al estadio antes de cruzar la línea.
 
-En esa vuelta reside el encanto del festival, que se presenta como la mayor carrera en ruta de Australia. Para muchos de los inscritos en las distancias cortas suponía la única ocasión de pisar el césped más célebre del deporte australiano.
+Esa vuelta es la clave del atractivo del festival, que se presenta como la mayor carrera en ruta de Australia. Muchos de los inscritos en las distancias cortas tienen ahí su única ocasión de pisar el césped más célebre del deporte australiano.
 
-## La jornada de 2026 en un vistazo
+## La jornada de 2026, de un vistazo
 
-La fecha del festival de 2026 era el **domingo 11 de octubre de 2026**. Más que una carrera de élite, era un gran domingo abierto a todos los niveles.
+La fecha anunciada para el festival de 2026 era el **domingo 11 de octubre de 2026**. Más que una única carrera de élite, el programa abarcaba todos los niveles.
 
-- **Maratón:** los 42,195 km completos, para los corredores más experimentados.
-- **Media maratón:** el salto más habitual para quienes corren con regularidad en parkrun o en un club.
-- **Distancias más cortas:** para debutantes, caminantes y familias que no querían renunciar a la llegada en el MCG.
+- **Maratón:** los 42.195km completos, para los participantes más experimentados.
+- **Media maratón:** el salto más habitual para quienes corren con regularidad en el parkrun o en un club.
+- **Distancias más cortas:** para debutantes, caminantes y familias que tampoco querían renunciar a la llegada en el MCG.
 
-En la web oficial del Nike Melbourne Marathon Festival, la organización publicaba las distancias exactas, los puntos de salida, los horarios de las tandas, los mapas de los recorridos y los enlaces de inscripción. No había entradas al uso: la participación se formalizaba mediante inscripción en esa misma web, donde figuraban también las cuotas.
+Cada distancia tenía su propio punto de salida, sus horarios por oleadas y su recorrido. No había entrada general: para participar había que inscribirse y pagar una cuota por cada carrera.
 
 ## Cómo llegar a Yarra Park con las calles cortadas
 
-Entrar en coche al centro la mañana de la carrera era una auténtica odisea. Los cortes de tráfico afectaban a buena parte del CBD y del recorrido, por lo que la mayoría de corredores y espectadores llegaban en tren.
+Entrar en coche en la ciudad la mañana de la carrera es una tarea ardua. Los cortes de tráfico afectan a buena parte del centro y del recorrido, así que la mayoría de corredores y espectadores llegan en tren.
 
-- **Estación de Richmond:** en ella paran casi todas las líneas del sureste y del este. Desde allí, un corto paseo a través de Yarra Park lleva hasta las puertas del estadio.
+- **Estación de Richmond:** por ella pasan casi todas las líneas del sureste y del este. Desde allí, un breve paseo por Yarra Park lleva hasta las puertas del estadio.
 - **Estación de Jolimont:** pertenece a las líneas Mernda y Hurstbridge y se encuentra justo en el límite norte de Yarra Park.
-- **Estación de Flinders Street:** el gran nudo central. Desde aquí se llega al recinto del MCG caminando hacia el este por Birrarung Marr y a lo largo del Yarra.
+- **Estación de Flinders Street:** es el gran nudo central. Desde aquí se llega al recinto del MCG caminando hacia el este por Birrarung Marr y a orillas del Yarra.
 
-Yarra Park es la zona verde que rodea el estadio y, el día de la carrera, se convertía en el gran punto de encuentro. Los corredores recogían su material, las familias se instalaban en el césped y alrededor del estadio se habilitaban el guardarropa y las zonas de reencuentro.
+Yarra Park, la explanada de césped que rodea el estadio, se convierte el día de la carrera en el gran punto de encuentro. Los corredores recogen su material, las familias se instalan sobre la hierba y alrededor del estadio se habilitan el guardarropa y las zonas de reencuentro.
 
 ## Ver la carrera desde el recorrido
 
-Quienes mejor la seguían eran los espectadores que elegían uno o dos puntos del trazado y se desplazaban entre ellos en tranvía. A lo largo de los años, el recorrido ha aprovechado los bulevares amplios y llanos de la ciudad, entre ellos St Kilda Road y el tramo costero en torno a Albert Park y St Kilda.
+Para disfrutar de las mejores vistas, lo ideal es elegir uno o dos puntos del trazado y desplazarse entre ellos en tranvía. A lo largo de los años, el recorrido ha aprovechado los bulevares anchos y llanos de la ciudad, como St Kilda Road y el tramo costero de Albert Park y St Kilda.
 
-St Kilda Road está bordeada de plátanos de sombra y tiene los tranvías circulando por el centro. Sus anchas aceras dejan sitio de sobra al público sin que nadie invada la calzada. Junto al agua, el recorrido se abre a la bahía de Port Phillip, con el mar a un lado y casas adosadas de época victoriana al otro.
+St Kilda Road está bordeada de plátanos de sombra y tiene los raíles del tranvía en el centro. Sus amplias aceras permiten a los aficionados animar sin invadir la calzada. Ya cerca del agua, el trazado se abre a la bahía de Port Phillip, con el mar a un lado y las casas adosadas de época victoriana al otro.
 
-El mapa oficial indicaba por dónde discurría el trazado cada año. Quienes querían ver pasar dos veces a su corredor solían escoger un punto a mitad de carrera y regresar después al MCG para la llegada.
+El mapa de cada edición indica por dónde pasa la carrera ese año. Quienes quieren ver dos veces a su corredor suelen escoger un punto a mitad de recorrido y regresar después hacia el MCG para presenciar la llegada.
 
-## Horario de verano y un domingo de primavera
+## El horario de verano y un domingo de primavera
 
-La fecha caía en una semana que pilla desprevenidos a algunos visitantes. Victoria adopta el horario de verano el primer domingo de octubre, que en 2026 fue el 4 de octubre, justo una semana antes de la carrera.
+La fecha coincide con una semana que despista a más de un visitante. Victoria adopta el horario de verano el primer domingo de octubre, que en 2026 cayó el 4 de octubre, justo una semana antes de la fecha de la carrera.
 
-Con el adelanto de la hora, la mañana de la carrera empezaba de noche y el amanecer llegaba más tarde que la semana anterior. Los corredores de otros estados y del extranjero que habían viajado para la semana de la prueba solían tener en cuenta esa hora al poner el despertador. Es un cambio fácil de olvidar cuando el teléfono ya se ha actualizado y el reloj biológico no.
+Al adelantarse la hora, la mañana de la carrera empieza a oscuras y el sol sale más tarde que la semana anterior. Los corredores que llegan en avión desde otros estados o del extranjero suelen tener en cuenta ese cambio al poner el despertador. Es fácil olvidarlo cuando el teléfono ya se ha actualizado y el reloj biológico todavía no.
 
-Octubre corresponde a mediados de la primavera en Melbourne, una ciudad famosa por lo variable de su clima. Una salida fresca y gris puede dar paso a un sol radiante a media mañana, y en el tramo costero es frecuente el viento procedente de la bahía. Los corredores solían salir con una camiseta vieja de manga larga de la que no les importaba desprenderse. Los espectadores acostumbraban a llevar una capa de abrigo y un chubasquero, aunque el pronóstico pareciera estable.
+En Melbourne, octubre es plena primavera, y el tiempo de la ciudad es famoso por lo cambiante. Una salida fresca y gris puede dar paso a un sol radiante a media mañana, y en el tramo costero suele soplar viento de la bahía. Es costumbre que los corredores salgan con una camiseta vieja de manga larga de la que puedan desprenderse sin pena. Los espectadores, por su parte, suelen llevar una prenda de abrigo y un chubasquero, aunque el pronóstico parezca estable.
 
-## Entre el gentío del MCG
+## Cómo moverse entre el público del MCG
 
-La mañana de la carrera tenía sus propias normas de cortesía, centradas sobre todo en la zona de meta.
+La mañana de la carrera tiene sus propias normas de cortesía, casi todas relacionadas con la zona de meta.
 
-- **Un punto de encuentro acordado en Yarra Park.** La zona situada tras la meta estaba muy concurrida y, con decenas de miles de personas en el mismo lugar, la cobertura móvil podía fallar. Las familias solían quedar junto a algún punto de referencia del césped del parque en lugar de intentar encontrarse en la puerta.
-- **El transporte se paga con myki.** Los trenes y tranvías de Melbourne funcionan con el sistema myki. La tarjeta se valida antes de subir, y la versión móvil en un teléfono compatible sirve igual que la de plástico. En los tranvías de la zona gratuita del CBD (Free Tram Zone) no hace falta validar, pero el MCG queda fuera de ella.
-- **Los ánimos, desde la grada y no desde el recorrido.** Dentro del MCG, el público seguía la carrera desde los asientos sin pisar el óvalo. En el circuito urbano, la gente permanecía detrás de las vallas y solo cruzaba por los pasos controlados por los comisarios.
-- **El café se pide, pero no se deja propina.** Tras la carrera, Swan Street, en Richmond, y los callejones del CBD se llenaban de corredores envueltos en mantas térmicas pidiendo un flat white. En las cafeterías australianas no se espera propina, y casi en todas partes se acepta tarjeta.
+- **Puntos de encuentro en Yarra Park.** La zona situada tras la meta está muy concurrida, y la cobertura móvil puede fallar cuando decenas de miles de personas se concentran en un mismo lugar. Por eso las familias suelen fijar como referencia algún punto destacado del césped del parque en lugar de citarse en la puerta.
+- **Pago con myki.** Los trenes y tranvías de Melbourne funcionan con el sistema myki. Los pasajeros validan la tarjeta antes de subir, y el myki móvil en un teléfono compatible sirve igual que la tarjeta de plástico. En los tranvías de la zona gratuita del centro (Free Tram Zone) no hace falta validar, pero el MCG queda fuera de ella.
+- **Animar desde las gradas, no desde la pista.** Dentro del MCG, los aficionados siguen la carrera desde los asientos y no pisan el óvalo. En el recorrido urbano, el público permanece tras las vallas y solo cruza por los pasos controlados por el personal de la organización.
+- **El café se pide sin propina.** Después de la carrera, Swan Street, en Richmond, y las callejuelas del centro se llenan de corredores envueltos en mantas térmicas que piden su flat white. En las cafeterías australianas no se acostumbra a dejar propina, y casi en todas partes se acepta tarjeta.
 
 ## Después de la meta
 
-Una vez recogidas las medallas, la multitud se dispersaba enseguida.
+En cuanto los corredores reciben sus medallas, la multitud se dispersa rápidamente.
 
-Al este del estadio, a un corto paseo a través de Yarra Park, se encuentra Swan Street, en Richmond, repleta de cafeterías y pubs. Al oeste, junto al recinto del MCG, están los Fitzroy Gardens, con sus senderos flanqueados de olmos y la Cooks' Cottage: un paseo cómodo y llano para unas piernas cansadas.
+Al este del estadio, a un breve paseo por Yarra Park, se encuentra Swan Street, en Richmond, repleta de cafeterías y pubs. Al oeste, junto al recinto del MCG, están los Fitzroy Gardens, cuyos senderos bordeados de olmos y la casa de los Cook (Cooks' Cottage) invitan a un paseo cómodo y llano, ideal para unas piernas cansadas.
 
-Al otro lado del Yarra, a lo largo de St Kilda Road, se hallan los Reales Jardines Botánicos y el Santuario del Recuerdo (Shrine of Remembrance). Los visitantes que se quedaban un día más solían incluirlos en una mañana tranquila de recuperación. Federation Square y la estación de Flinders Street están lo bastante cerca de la meta como para ir a pie, y desde allí salen trenes hacia casi todos los barrios de Melbourne.
+Al otro lado del Yarra, a lo largo de St Kilda Road, se alzan el Real Jardín Botánico (Royal Botanic Gardens) y el Santuario del Recuerdo (Shrine of Remembrance). Quienes se quedan un día más suelen incluirlos en una mañana tranquila de recuperación. Federation Square y la estación de Flinders Street están a poca distancia a pie de la meta, y desde allí salen trenes hacia casi todos los barrios de Melbourne.

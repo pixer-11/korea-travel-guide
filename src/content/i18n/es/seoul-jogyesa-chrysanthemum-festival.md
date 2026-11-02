@@ -1,85 +1,85 @@
 ---
 lang: es
 slug: seoul-jogyesa-chrysanthemum-festival
-srcHash: '17d85e869b4e'
-title: 'Festival del Crisantemo de Jogyesa: fechas, entradas y ubicación (Seúl)'
-description: Del 13 de octubre hasta bien entrado noviembre de 2026, el templo Jogyesa, en el distrito de Jongno (Seúl), acoge el Festival del Crisantemo. Se llega en pocos minutos a pie desde la calle comercial de Insadong y desde la estación de Anguk (línea 3, salida 6).
-quickAnswer: 'Del 13 de octubre hasta bien entrado noviembre de 2026, el templo Jogyesa, en el distrito de Jongno (Seúl), acoge el Festival del Crisantemo. Se llega en pocos minutos a pie desde la calle comercial de Insadong y desde la estación de Anguk (línea 3, salida 6). No hay taquilla: las flores ocupan el patio abierto del templo, al que se entra directamente desde la avenida Ujeongguk-ro. Basta una hora para recorrer las flores y la sala principal, y la mayoría de los visitantes aprovecha para cruzar la calle y pasear por Insadong.'
+srcHash: 'a794c8b95a82'
+title: 'Festival de Crisantemos de Jogyesa: fechas, entradas y recinto (Seúl)'
+description: Las fechas anunciadas para el Festival de Crisantemos de Jogyesa iban del 13 de octubre hasta noviembre de 2026, en el templo Jogyesa de Jongno (Seúl), cerca de la estación de Anguk (línea 3, salida 6).
+quickAnswer: Según lo anunciado, el Festival de Crisantemos de Jogyesa abría el 13 de octubre de 2026 y se prolongaba hasta noviembre en el templo Jogyesa de Jongno (Seúl), a pocos pasos de la calle comercial de Insadong y de la estación de Anguk (línea 3, salida 6). El plan no incluía taquilla. Las exposiciones ocupaban el patio abierto del templo, al que se accede directamente desde Ujeongguk-ro. En una hora se recorren el patio y la sala principal, y la mayoría de los visitantes aprovecha para pasear por Insadong, justo al otro lado de la calle.
 faq:
-  - q: ¿Cuándo se celebra el Festival del Crisantemo de Jogyesa en 2026?
-    a: La 16.ª edición arranca el 13 de octubre de 2026 y se prolonga hasta noviembre en el templo Jogyesa, en el distrito de Jongno (Seúl).
-  - q: ¿Hace falta entrada?
-    a: No. El patio de Jogyesa da directamente a la avenida Ujeongguk-ro y las flores se exponen al aire libre en el recinto, así que basta con cruzar la puerta. Junto a las salas hay cajas de donativos para quien desee contribuir.
+  - q: ¿Cuándo era el Festival de Crisantemos de Jogyesa en 2026?
+    a: Las fechas anunciadas para la 16.ª edición iban del 13 de octubre de 2026 hasta noviembre, en el templo Jogyesa de Jongno (Seúl).
+  - q: ¿Hacía falta entrada?
+    a: No se anunció ninguna entrada. El patio de Jogyesa da directamente a Ujeongguk-ro, y las exposiciones del festival se iban a instalar en ese recinto abierto. Se accedía a pie por la puerta, y junto a las salas había cajas de donativos para quien deseara contribuir.
   - q: ¿Cuál es la estación de metro más cercana?
-    a: Desde la salida 6 de la estación de Anguk (línea 3) se tarda unos cinco minutos a pie hacia el sur por Ujeongguk-ro. Desde la salida 2 de la estación de Jonggak (línea 1), el trayecto a pie hacia el norte es de unos siete minutos.
+    a: Desde la estación de Anguk (línea 3), salida 6, hay unos cinco minutos a pie en dirección sur por Ujeongguk-ro. Desde la estación de Jonggak (línea 1), salida 2, el paseo hacia el norte dura unos siete minutos.
   - q: ¿Cuánto tiempo conviene dedicarle?
-    a: 'Con una hora aproximadamente se pueden ver los crisantemos, la sala principal, Daeungjeon, y los viejos árboles: el pino blanco y la sófora. La mayoría de los visitantes amplía la visita a media jornada con un paseo por Insadong-gil, justo al otro lado de la calle.'
+    a: Con una hora aproximadamente se recorren el patio, la sala principal (Daeungjeon), el viejo pino blanco y la sófora japonesa. La mayoría de los visitantes lo convierte en una salida de media jornada al sumar Insadong-gil, que queda justo enfrente.
   - q: ¿Se puede entrar en la sala principal?
-    a: Sí. Daeungjeon es una sala de oración en activo abierta a los visitantes. Quítese los zapatos, entre por las puertas laterales en lugar de por la central, guarde silencio y no fotografíe a las personas mientras rezan.
+    a: Sí. Daeungjeon es una sala de oración en activo y los visitantes pueden entrar. Los zapatos se dejan en la puerta, se utilizan las puertas laterales en lugar de la central, se habla en voz baja y no se fotografía a quienes están rezando.
 ---
 
 ## Un patio teñido de amarillo
 
-El templo Jogyesa está pegado al tráfico de la ciudad. Basta con apartarse un paso de la avenida Ujeongguk-ro para encontrarse en un patio empedrado. Al frente se alza Daeungjeon, la sala principal, con su pesado tejado de tejas y unos aleros decorados con el *dancheong*, esa policromía en verde, rojo y azul propia de los templos coreanos.
+Jogyesa está pegado al tráfico de la ciudad. Basta un paso desde Ujeongguk-ro para encontrarse en un patio empedrado. Al fondo se alza Daeungjeon, la sala principal, con su pesado tejado de tejas y unos aleros pintados con los motivos verdes, rojos y azules del *dancheong*, propio de los templos coreanos.
 
-Durante el festival, ese patio se llena de crisantemos en maceta. Predominan los amarillos y los blancos, que se apilan en gradas y se agolpan contra el basamento de piedra de la sala. Algunos se cultivan hasta formar figuras de mayor tamaño, que la gente rodea y fotografía.
+Cada otoño, con motivo del festival, el patio se llena de crisantemos en maceta. Predominan los amarillos y los blancos, dispuestos en gradas y apilados contra el zócalo de piedra de la sala. Algunos se moldean en figuras de mayor tamaño que la gente rodea y fotografía.
 
-No se trata de un decorado: el templo sigue en pleno funcionamiento. Jogyesa es la sede principal de la Orden Jogye, la mayor escuela del budismo coreano. Mientras usted contempla las flores, monjes y fieles laicos entran y salen de la sala para rezar. Precisamente esa mezcla de cánticos, incienso y visitantes con el móvil en la mano es lo que da sentido a la visita.
+No se trata de un templo museo. Jogyesa es el templo principal de la Orden Jogye, la mayor escuela del budismo coreano. Mientras los visitantes contemplan las flores, monjes y fieles laicos entran y salen de la sala para rezar. Esa mezcla de cánticos, incienso y visitantes con el móvil en la mano es precisamente lo que da sentido a la visita.
 
 ## Fechas de la 16.ª edición
 
-El festival de 2026 celebra su 16.ª edición. Se inaugura el 13 de octubre y se prolonga hasta noviembre.
+La edición de 2026 era la decimosexta. Las fechas anunciadas iban del 13 de octubre hasta noviembre.
 
-Las fechas coinciden con el otoño de Seúl. Los ginkgos que bordean las calles de Jongno suelen volverse dorados a partir de finales de octubre, de modo que en las últimas semanas el amarillo de las hojas que hay fuera de la puerta hace juego con el de las flores del interior. Al principio del festival, en cambio, muchas de las flores todavía están abriéndose.
+El calendario coincidía con el otoño de Seúl. Los ginkgos de las calles de Jongno suelen dorarse a partir de finales de octubre, de modo que en las últimas semanas del festival las hojas amarillas del exterior acostumbran a hacer juego con las flores del interior. Al comienzo de la temporada, en cambio, buena parte de las flores aún está abriéndose.
 
-El festival se celebra cada año en el mismo templo, así que su ubicación no varía. El propio templo gestiona un sitio web, donde publica los avisos de sus actividades.
+El festival tiene lugar cada año en el mismo templo, por lo que su ubicación no cambia. El templo publica los avisos de sus actividades en su propia web.
 
 ## Entradas y acceso
 
-No hace falta entrada. El recinto de Jogyesa da directamente a la calle, y los crisantemos se exponen en ese espacio abierto. Los visitantes no tienen más que cruzar la puerta.
+Para 2026 no se anunció ninguna entrada. El recinto de Jogyesa da directamente a la calle, y los crisantemos iban a ocupar ese espacio abierto. Se accedía a pie por la puerta.
 
-Dentro, el dinero sirve para donar, no para pagar. Junto a las salas hay cajas de donativos. Al lado del patio se suceden varias tiendas de artículos budistas que venden rosarios de oración, incienso y farolillos. La mayoría de los visitantes se limita a mirar y se marcha sin dejar nada, algo que a nadie le molesta.
+Dentro, el dinero tiene que ver con la ofrenda y no con el pago. Junto a las salas hay cajas de donativos. Al lado del patio, una hilera de tiendas de artículos budistas vende rosarios, incienso y farolillos. La mayoría de los visitantes se limita a mirar y se marcha sin dejar nada, algo que a nadie le molesta.
 
 ## Cómo llegar a Jogyesa
 
 El templo se encuentra en 55 Ujeongguk-ro, Jongno-gu. Hay dos estaciones de metro a un paseo cómodo:
 
-- **Estación de Anguk (línea 3), salida 6:** camine unos cinco minutos hacia el sur por Ujeongguk-ro. Encontrará el templo a su derecha.
-- **Estación de Jonggak (línea 1), salida 2:** camine unos siete minutos hacia el norte, dejando atrás la zona del pabellón de la campana de Bosingak.
-- **Desde Insadong:** el extremo norte de Insadong-gil queda justo al otro lado de la calle, a un par de minutos a pie.
+- **Estación de Anguk (línea 3), salida 6:** unos cinco minutos a pie hacia el sur por Ujeongguk-ro. El templo queda a la derecha.
+- **Estación de Jonggak (línea 1), salida 2:** unos siete minutos a pie hacia el norte, pasando por la zona del pabellón de la campana de Bosingak.
+- **Desde Insadong:** el extremo norte de Insadong-gil está justo al otro lado de la calle, a un par de minutos andando.
 
-Junto al templo se levanta Ujeongchongguk, un pequeño edificio donde funcionó la primera oficina de correos de Corea en la década de 1880. Resulta un punto de referencia muy útil si sale del metro mirando en la dirección equivocada.
+Junto al templo se levanta Ujeongchongguk, un pequeño edificio donde funcionó la primera oficina de correos de Corea en la década de 1880. Es un punto de referencia muy útil para quien sale del metro en la dirección equivocada.
 
 ## Bajo el viejo pino blanco
 
-Los árboles son lo más antiguo del patio, más que cualquiera de las salas. Cerca de Daeungjeon crece un pino blanco declarado monumento natural protegido. Se le calculan unos 500 años, y su corteza pálida y moteada le da un aspecto casi blanco como la tiza.
+Los árboles son lo más antiguo del patio, más que cualquiera de sus salas. Cerca de Daeungjeon crece un pino blanco declarado monumento natural protegido. Se le atribuyen unos 500 años, y su corteza pálida y moteada le da un aspecto casi blanco como la tiza.
 
-Sobre el patio extiende también sus ramas una sófora del Japón, cuya edad se estima en unos 450 años. Durante las semanas del festival, las flores se amontonan alrededor de ambos troncos. El contraste entre sus ramas oscuras y retorcidas y todo ese amarillo de abajo ofrece una de las mejores fotografías del recinto.
+Sobre el patio extiende también sus ramas una sófora japonesa, cuya edad se calcula en unos 450 años. Durante las semanas del festival suelen apilarse flores alrededor de ambos troncos. Sus ramas oscuras y retorcidas sobre todo ese amarillo componen una de las mejores fotografías del recinto.
 
-La sala, por su parte, se construyó en 1938, una fecha reciente para un templo de tanta importancia. Merece la pena dedicar un minuto a alzar la vista hacia los paneles tallados que rodean sus puertas. Las celosías pintadas representan escenas de relatos budistas, aunque la mayoría de los visitantes, absortos en fotografiar las flores, ni repara en ellas.
+La sala, construida en 1938, es joven para un templo de semejante importancia. Sus puertas están rodeadas de paneles tallados. La celosía pintada representa escenas de relatos budistas, aunque la mayoría de los visitantes, ocupados en fotografiar las flores, ni se fija en ella.
 
-## Normas de cortesía en el templo en plena afluencia
+## Normas del templo entre la multitud del festival
 
-Daeungjeon sigue funcionando como sala de oración durante todo el festival. Unas cuantas costumbres le ayudarán a no estorbar:
+Durante las semanas del festival, Daeungjeon sigue funcionando como sala de oración. Algunas costumbres evitan que los visitantes estorben:
 
-- **Quítese los zapatos** antes de entrar en cualquier sala y déjelos en los zapateros de fuera.
-- **Entre por las puertas laterales.** Por tradición, la puerta central de la sala principal se reserva a los monjes de mayor rango.
-- **No fotografíe a quienes rezan** ni use el flash en el interior. Por lo general se tolera una foto rápida de las tres grandes estatuas de Buda tomada desde la puerta.
-- **Hable en voz baja** cerca de la sala, aunque fuera, en el patio, haya bullicio.
-- **No toque las macetas.** A quien se mete entre las composiciones para sacar una foto suele ganarse una mirada severa del personal del templo.
+- **Hay que descalzarse** antes de entrar en cualquier sala. Los zapatos se dejan en los zapateros del exterior.
+- **Los visitantes entran por las puertas laterales.** Por tradición, la puerta central de la sala principal se reserva a los monjes de mayor rango.
+- **No se fotografía a quienes rezan** ni se usa el flash en el interior. Sí suele tolerarse una foto rápida de las tres grandes estatuas de Buda desde el umbral.
+- **Se habla en voz baja** cerca de la sala, aunque el patio esté lleno de bullicio.
+- **Las macetas no se tocan.** Quien se mete entre las exposiciones para hacer una foto suele recibir una mirada severa del personal del templo.
 
-Es posible que dentro haya fieles realizando postraciones completas. Los visitantes pueden sentarse en silencio sobre un cojín al fondo de la sala, y muchos lo hacen.
+Es posible que en el interior haya fieles realizando postraciones completas. Los visitantes pueden sentarse en silencio sobre un cojín al fondo, y muchos lo hacen.
 
-Los fines de semana, sobre todo por la tarde, el templo se llena con el público que acude a comprar a Insadong, algo lógico dada su ubicación junto a una gran calle comercial. Las mañanas de los días laborables, cuando por la zona circulan sobre todo oficinistas camino del trabajo, las flores lucen con más holgura. Al anochecer, la sala principal resplandece desde dentro y el patio se va vaciando.
+Los fines de semana, sobre todo por la tarde, el templo se llena con el público que pasea por Insadong, algo lógico dada su ubicación junto a una gran calle comercial. Entre semana, por la mañana, cuando por la zona circulan sobre todo oficinistas camino del trabajo, las flores lucen con más holgura. Al anochecer, la sala principal se ilumina desde dentro y el patio se vacía.
 
-## Una excursión de media jornada
+## Media jornada por los alrededores
 
-La visita al templo, con las flores, la sala y los árboles, lleva alrededor de una hora. Si se añade el barrio que lo rodea, la mayoría de la gente la convierte en una salida de unas tres horas.
+La visita al templo, con las flores, la sala y los árboles, ocupa alrededor de una hora. Si se suma el barrio que lo rodea, la mayoría de la gente la convierte en una salida de tres horas.
 
-- **Insadong-gil:** justo al otro lado de la calle, con casas de té, tiendas de artesanía tradicional y la galería en espiral de Ssamziegil.
-- **Centro de Información de Templestay (Templestay Information Center):** frente al templo, informa sobre estancias con pernoctación en templos de toda Corea.
-- **Parque Tapgol:** a pocos minutos hacia el sur, es el lugar donde se leyó en 1919 la Declaración de Independencia del Primero de Marzo.
+- **Insadong-gil:** casas de té, tiendas de artesanía tradicional y la galería en espiral de Ssamziegil, justo enfrente.
+- **Centro de Información Templestay (Templestay Information Center):** frente al templo, con información sobre estancias nocturnas en templos de toda Corea.
+- **Parque Tapgol:** a pocos minutos hacia el sur, escenario de la lectura de la Declaración de Independencia del 1 de marzo en 1919.
 - **Aldea Bukchon Hanok:** al norte de la estación de Anguk, con calles de casas de tejado de tejas que trepan por la colina.
-- **Palacio de Gyeongbokgung:** a unos 15 minutos a pie hacia el noroeste, luce sus propios colores otoñales en octubre y noviembre.
+- **Palacio Gyeongbokgung:** a unos 15 minutos a pie hacia el noroeste, con su propio colorido otoñal en octubre y noviembre.
 
-En las callejuelas laterales de Insadong hay además restaurantes vegetarianos de cocina de templo. Fieles a la tradición budista, sus platos prescinden del ajo y la cebolla, de modo que el tema de la jornada puede prolongarse hasta la hora de comer.
+En las callejuelas de Insadong hay además restaurantes vegetarianos de cocina de templo. Fieles a la tradición budista, sus platos prescinden del ajo y la cebolla, de manera que el ambiente del templo se prolonga hasta la hora de comer.

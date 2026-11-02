@@ -1,6 +1,6 @@
 ---
 title: 'Eugene Seoul Open: Dates, Tickets & Venue (Seoul)'
-description: The Eugene Seoul Open takes place from October 26 to November 1, 2026 at the Seoul Olympic Park Tennis Center in Songpa-gu, Seoul, on outdoor hardcourts.
+description: The Eugene Seoul Open was set for October 26 to November 1, 2026 at the Seoul Olympic Park Tennis Center in Songpa-gu, Seoul, on outdoor hardcourts.
 country: South Korea
 region: Seoul
 category: event
@@ -14,49 +14,48 @@ eventOrganizer:
   url: https://www.atptour.com
 eventFactsAsked: true
 heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/5/50/August_2007%2C_walking_in_Seoul_116.jpg'
+  url: https://upload.wikimedia.org/wikipedia/commons/5/50/August_2007%2C_walking_in_Seoul_116.jpg
   credit: 'Photo: Syced / Wikimedia Commons (CC0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:August_2007,_walking_in_Seoul_116.jpg'
+  source: https://commons.wikimedia.org/wiki/File:August_2007,_walking_in_Seoul_116.jpg
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery: []
 tags:
   - seoul
   - event
-quickAnswer: The Eugene Seoul Open takes place from October 26 to November 1, 2026 at the Seoul Olympic Park Tennis Center in Songpa-gu, Seoul, on outdoor hardcourts. It is an ATP Challenger 125 event, one tier below the main ATP Tour, with players from Korea, Japan, China and across Asia. Olympic Park Station on Subway Line 5 is the nearest stop, and the tournament organiser publishes tickets and the order of play.
+quickAnswer: The Eugene Seoul Open was set for October 26 to November 1, 2026 at the Seoul Olympic Park Tennis Center in Songpa-gu, Seoul, on outdoor hardcourts. It is an ATP Challenger 125 event, one tier below the main ATP Tour, and it draws players from Korea, Japan, China and across Asia. Olympic Park Station on Subway Line 5 is the nearest stop. The tournament organiser handled tickets and the order of play.
 faq:
   - q: When is the Eugene Seoul Open 2026?
-    a: It runs from Monday, October 26 to Sunday, November 1, 2026. The singles and doubles finals are played on the closing weekend.
+    a: It was scheduled to run from Monday, October 26 to Sunday, November 1, 2026. The schedule placed the singles and doubles finals on the closing weekend.
   - q: Where is the Eugene Seoul Open held?
-    a: It is held at the Seoul Olympic Park Tennis Center, inside Olympic Park in Songpa-gu, on outdoor hardcourts. The same venue hosts the WTA Korea Open.
+    a: The tournament's home is the Seoul Olympic Park Tennis Center, inside Olympic Park in Songpa-gu, with outdoor hardcourts. The same venue hosts the WTA Korea Open.
   - q: What is the nearest subway station?
     a: Olympic Park Station, on Line 5 and Line 9, is on the park's eastern side and closest to the tennis center. Mongchontoseong Station (Line 8) and Hanseong Baekje Station (Line 9) also serve the park, but they mean a longer walk.
   - q: What level of tennis is it?
     a: It is an ATP Challenger 125, one of the higher tiers of the Challenger circuit, which sits one level below the main ATP Tour. The field draws heavily from Korea, Japan, China and other Asian countries.
   - q: Where do tickets and the schedule come from?
-    a: The tournament organiser handles ticketing, ticket prices and the daily order of play. This guide lists no prices because none were available to us.
+    a: The tournament organiser handled ticketing, ticket prices and the daily order of play.
 aiGenerated: true
 draft: false
 ---
-
 ## A week of tennis inside Olympic Park
 
 You reach the courts through Olympic Park itself. The 1988 Games left Seoul this huge green space in Songpa-gu, with lawns, sculpture trails and the restored earthen walls of Mongchon Fortress. The tennis center sits within it, so every walk to the gate passes through parkland.
 
-The Eugene Seoul Open runs from Monday, October 26 to Sunday, November 1, 2026. Matches are played on outdoor hardcourts. The venue also hosts the Korea Open, the WTA stop that has made it the city's best-known tennis address.
+The 2026 Eugene Seoul Open was set for Monday, October 26 to Sunday, November 1, 2026. The tournament plays on outdoor hardcourts. The venue also hosts the Korea Open, the WTA stop that has made it the city's best-known tennis address.
 
 ## What an ATP Challenger 125 week looks like
 
 Challenger events are the proving ground of men's professional tennis. The 125 label is the ranking-points value for the singles champion, which puts this among the higher Challenger tiers. That matters to players chasing a place in Grand Slam main draws.
 
-The field draws heavily from Asia, with Korean, Japanese and Chinese players featuring prominently. Expect:
+The field draws heavily from Asia, with Korean, Japanese and Chinese players featuring prominently. A Challenger 125 week usually follows this pattern:
 
 - Qualifying and first-round singles early in the week
 - Doubles running alongside singles throughout
 - Quarterfinals and semifinals building through Friday and Saturday
-- Both finals on the closing weekend, October 31–November 1
+- Both finals on the closing weekend, which in 2026 fell on October 31–November 1
 
 The early days are when the outside courts are full and you can drift from match to match. By the weekend, play narrows to the main court.
 
@@ -79,7 +78,7 @@ Tennis has its own rules for the stands, and Korean crowds tend to keep them str
 - **Getting there**: a T-money card, sold and topped up at convenience stores and station machines, covers the subway and buses.
 - **The Korean name**: taxi drivers recognise 올림픽공원 테니스경기장 (Olympic Park tennis stadium) more easily than the English.
 
-Tickets, the order of play and venue details come from the tournament organiser. Ticket prices are set there too; none appear in this guide.
+Tickets, ticket prices, the order of play and venue details were handled by the tournament organiser.
 
 ## Late-October Seoul between matches
 
@@ -94,6 +93,6 @@ Good ways to fill a rain delay or a gap in the schedule:
 
 ## Who comes, and how long to stay
 
-The crowd is a mix of committed local tennis fans, families from Songpa and people following particular players. Fans of Korean players tend to turn out in force when one of them reaches the later rounds.
+The crowd at this tournament is typically a mix of committed local tennis fans, families from Songpa and people following particular players. Fans of Korean players tend to turn out in force when one of them reaches the later rounds.
 
-A single session lasts a few hours. A full day spent wandering the side courts is easy in the first half of the week. Fans who come for the finals usually make a weekend of it, pairing October 31 and November 1 with a walk through the park and an evening in Jamsil.
+A single session lasts a few hours. A full day spent wandering the side courts is easy in the first half of the week. Fans who come for the finals usually make a weekend of it, pairing the final two days with a walk through the park and an evening in Jamsil. In 2026 those days fell on October 31 and November 1.

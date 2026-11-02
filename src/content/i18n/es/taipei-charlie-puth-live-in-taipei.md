@@ -1,32 +1,32 @@
 ---
 lang: es
 slug: taipei-charlie-puth-live-in-taipei
-srcHash: 'ecb748bf28be'
+srcHash: 'f92e34beeb1b'
 title: 'Charlie Puth Live in Taipei: fechas, entradas y recinto (Taipéi)'
-description: Charlie Puth Live in Taipei estaba programado para el 20 de octubre de 2026 en el Taipei Arena, el principal recinto cubierto de conciertos de la ciudad, situado en la avenida Nanjing Este (Nanjing East Road), en el distrito de Songshan.
-quickAnswer: Charlie Puth Live in Taipei tenía como fecha anunciada el 20 de octubre de 2026, y como escenario el Taipei Arena, el principal recinto cubierto de conciertos de la ciudad, situado en la avenida Nanjing Este (Nanjing East Road), en el distrito de Songshan. El pabellón se alza justo encima de la estación de MRT Taipei Arena, en la línea verde Songshan–Xindian, de modo que el metro era el medio de transporte de la mayoría del público, tanto a la llegada como a la salida.
+description: Charlie Puth Live in Taipei estaba previsto para el 20 de octubre de 2026 en el Taipei Arena, el principal recinto cubierto de conciertos de Taipéi, situado en la avenida Nanjing Este (Nanjing East Road), en el distrito de Songshan.
+quickAnswer: Charlie Puth Live in Taipei estaba previsto para el 20 de octubre de 2026 en el Taipei Arena, el principal recinto cubierto de conciertos de Taipéi, situado en la avenida Nanjing Este (Nanjing East Road), en el distrito de Songshan. Justo debajo del pabellón se encuentra la estación Taipei Arena, de la línea verde Songshan–Xindian del metro (MRT), así que la mayoría del público llega y se marcha en metro.
 faq:
   - q: ¿Cuándo y dónde era Charlie Puth Live in Taipei?
-    a: El concierto estaba programado para el 20 de octubre de 2026 en el Taipei Arena (Xiao Ju Dan), situado en la sección 4 de la avenida Nanjing Este, en el distrito de Songshan de Taipéi.
-  - q: ¿Cuál es la estación de MRT más cercana al Taipei Arena?
-    a: La estación Taipei Arena, en la línea verde Songshan–Xindian, desemboca junto a la explanada del pabellón. A una sola parada se encuentran Nanjing Fuxing (líneas verde y marrón) y Nanjing Sanmin (línea verde), y muchos asistentes se dirigen a pie hasta ellas al terminar el concierto para esquivar las aglomeraciones.
+    a: La fecha programada del concierto era el 20 de octubre de 2026, en el Taipei Arena (Xiao Ju Dan), situado en la sección 4 de la avenida Nanjing Este, en el distrito de Songshan de Taipéi.
+  - q: ¿Cuál es la estación de metro más cercana al Taipei Arena?
+    a: La estación Taipei Arena, de la línea verde Songshan–Xindian, tiene su salida junto a la explanada del pabellón. A una parada de distancia quedan Nanjing Fuxing (líneas verde y marrón) y Nanjing Sanmin (línea verde); muchos aficionados van caminando hasta ellas al terminar los conciertos para esquivar las aglomeraciones.
   - q: ¿Qué capacidad tiene el Taipei Arena y cómo es la visibilidad?
-    a: En configuración de concierto, el aforo ronda las 15.000 personas. Las gradas ascienden con gran pendiente por todos los lados, por lo que incluso desde la mayoría de los asientos superiores se ve el escenario de frente.
-  - q: ¿Dónde se podía comer cerca del Taipei Arena?
-    a: Para una comida rápida antes del concierto estaban el centro comercial Breeze Nanjing y las calles laterales de la avenida Nanjing Este. Para cenar tarde, el mercado nocturno de la calle Raohe quedaba a dos paradas de MRT hacia el este, en la estación de Songshan.
+    a: En formato de concierto caben unas 15.000 personas. Las gradas se elevan con fuerte pendiente por los cuatro costados, de modo que incluso desde la mayoría de los asientos superiores se ve el escenario de frente.
+  - q: ¿Dónde se puede comer cerca del Taipei Arena?
+    a: Para comer algo rápido antes del concierto estaban el centro comercial Breeze Nanjing y las calles laterales de la avenida Nanjing Este. Para cenar tarde, el mercado nocturno de la calle Raohe (Raohe Street Night Market) quedaba dos paradas de metro al este, en la estación Songshan.
   - q: ¿Se puede llegar desde el aeropuerto de Songshan?
-    a: Sí. Desde la estación Songshan Airport se toma la línea marrón Wenhu hasta Nanjing Fuxing y allí se cambia a la línea verde para recorrer una parada hacia el este, hasta la estación Taipei Arena.
+    a: Sí. La línea marrón Wenhu une la estación del aeropuerto de Songshan con Nanjing Fuxing; allí se toma la línea verde, y la estación Taipei Arena está una parada más al este.
 ---
 
 ## Una noche en la avenida Nanjing Este
 
-La actuación de Charlie Puth en el Taipei Arena se anunció para el 20 de octubre de 2026. El pabellón es un enorme bloque gris algo apartado de la sección 4 de la avenida Nanjing Este (Nanjing East Road). Delante se extiende una amplia explanada donde el público de los conciertos suele reunirse, intercambiar fotos y esperar a que abran las puertas.
+Charlie Puth Live in Taipei estaba previsto para el 20 de octubre de 2026 en el Taipei Arena. El pabellón es un enorme bloque gris algo retranqueado respecto a la sección 4 de la avenida Nanjing Este (Nanjing East Road), con una amplia explanada delante. Es en esa explanada donde el público de los conciertos se reúne, intercambia fotos y espera a que abran las puertas.
 
-Los habitantes de Taipéi lo llaman Xiao Ju Dan (小巨蛋), es decir, «el pequeño huevo gigante». El apodo resulta algo engañoso, ya que la cubierta no tiene forma de cúpula, sino que es plana y angulosa. Inaugurado en 2005 en el solar que ocupaba el antiguo estadio municipal de béisbol de Taipéi, el recinto se ha convertido desde entonces en parada obligada de las giras internacionales de pop.
+Los habitantes de Taipéi llaman al edificio Xiao Ju Dan (小巨蛋), es decir, «el pequeño huevo gigante». El apodo resulta algo engañoso, ya que su cubierta no es una cúpula, sino una estructura plana y angulosa. Inaugurado en 2005 en el solar que ocupaba el antiguo Estadio Municipal de Béisbol de Taipéi, se ha consolidado desde entonces como parada obligada de las giras internacionales de pop en la ciudad.
 
-## Por qué este concierto atraía a tanto público
+## Por qué este concierto atrae a tanto público
 
-Pocos artistas reúnen un repertorio tan variado como el de Puth. Buena parte del público lo conoció gracias a «See You Again», su colaboración con Wiz Khalifa. Otros llegaron a él a través de sus propios sencillos:
+Pocos artistas reúnen un repertorio tan variado como el de Puth. Muchos lo descubrieron con «See You Again», su colaboración con Wiz Khalifa. Otros llegaron a él a través de sus propios sencillos:
 
 - «We Don't Talk Anymore»
 - «Attention»
@@ -34,44 +34,44 @@ Pocos artistas reúnen un repertorio tan variado como el de Puth. Buena parte de
 - «How Long»
 - «Light Switch»
 
-También es famoso por su oído absoluto y por construir canciones en directo en las redes sociales. Esa fama de productor y arreglista explica en parte el interés de sus seguidores por verlo sobre el escenario. Esta guía no afirma nada sobre el repertorio, el telonero ni los horarios, porque ninguno de esos datos figura en la información en que se basa esta página.
+También es conocido por su oído absoluto y por componer canciones en directo en las redes sociales. Buena parte de su atractivo sobre el escenario se debe precisamente a esa fama de productor y arreglista.
 
-## El Pequeño Huevo, por dentro y por fuera
+## El Pequeño Huevo por dentro y por fuera
 
-En configuración de concierto, el Taipei Arena tiene capacidad para unas 15.000 personas. Las gradas rodean la pista principal por todos sus lados y ascienden con fuerte pendiente. Por eso, desde la mayoría de los asientos superiores se sigue viendo bien el escenario, algo que supera con creces la visibilidad del fondo de un estadio.
+En formato de concierto, el Taipei Arena tiene capacidad para unas 15.000 personas. Las gradas rodean la pista principal por los cuatro costados y se elevan con una pendiente muy pronunciada. Gracias a ello, desde la mayoría de los asientos superiores el escenario se sigue viendo sin obstáculos, algo que no ocurre en las últimas filas de un estadio.
 
-El edificio no se limita a los conciertos. Junto a la sala principal alberga una pista de hielo de dimensiones olímpicas, el Taipei Arena Ice Land. En la planta baja, numerosos locales de comida y bebida bordean el perímetro. Dentro del recinto, unos pasillos de circulación rodean las gradas, y el acceso a cada bloque está señalizado con la letra y el número de su sector. La entrada indica a cuál de ellos hay que dirigirse.
+El edificio no se limita a los conciertos. Junto a la sala principal alberga Taipei Arena Ice Land, una pista de hielo de dimensiones olímpicas. La planta baja está bordeada de locales de comida y bebida. Ya en el interior, unos pasillos de circulación rodean las gradas, y la entrada de cada bloque lleva indicada la letra y el número de su sección. Cada entrada remite a uno de esos accesos.
 
 ## Cómo llegar al Taipei Arena
 
-La mayor parte del público se desplaza en MRT. La estación Taipei Arena pertenece a la línea verde Songshan–Xindian, y su salida hacia el pabellón deja al viajero en la explanada tras uno o dos minutos a pie.
+La mayor parte del público de los conciertos se desplaza en metro (MRT). La estación Taipei Arena pertenece a la línea verde Songshan–Xindian, y su salida hacia el pabellón desemboca en la explanada, a uno o dos minutos a pie.
 
-- **Desde la estación Principal de Taipéi (Taipei Main Station):** la línea azul Bannan lleva hacia el este hasta Ximen o Zhongxiao Xinsheng, donde se cambia a la línea verde. Otra opción es subir en la línea roja hacia el norte hasta Zhongshan y hacer allí el transbordo.
-- **Desde el aeropuerto de Songshan:** la línea marrón Wenhu recorre dos paradas hacia el sur hasta Nanjing Fuxing; desde allí queda una parada hacia el este en la línea verde.
-- **A pie:** desde el distrito de oficinas de Nanjing Fuxing y desde la zona residencial de Minsheng, al norte, se llega al pabellón con un agradable paseo.
+- **Desde la estación Principal de Taipéi (Taipei Main Station):** la línea azul Bannan va hacia el este hasta Ximen o Zhongxiao Xinsheng, donde enlaza con la línea verde. Otra opción es tomar la línea roja hacia el norte hasta Zhongshan y hacer allí el transbordo.
+- **Desde el aeropuerto de Songshan:** la línea marrón Wenhu baja dos paradas hacia el sur hasta Nanjing Fuxing; desde allí queda una parada hacia el este por la línea verde.
+- **A pie:** el pabellón está a un agradable paseo tanto del distrito de oficinas de Nanjing Fuxing como de la zona residencial de Minsheng, situada al norte.
 
-En Taipéi funcionan tanto los taxis como Uber. Sin embargo, las noches de concierto el tráfico de la avenida Nanjing Este se vuelve muy lento cuando el público abandona el recinto.
+En Taipéi funcionan los taxis y Uber. Sin embargo, las noches de concierto el tráfico de la avenida Nanjing Este se vuelve muy lento a la salida del público.
 
-## Entre el público del Xiao Ju Dan
+## Entre la multitud del Xiao Ju Dan
 
-Las noches de concierto en el pabellón siguen una rutina que los asiduos conocen bien.
+Las noches de concierto en el pabellón siguen una rutina que los asiduos conocen de sobra.
 
-- **El transporte se paga con la EasyCard.** La mayoría de la gente usa esta tarjeta recargable, válida también en 7-Eleven y FamilyMart. Recargarla con antelación ahorra esperas en las máquinas cuando 15.000 personas bajan al metro a la vez.
-- **Nada de comida ni bebida en el MRT.** Comer, beber y mascar chicle está prohibido una vez pasados los torniquetes, y las multas se aplican. Los aficionados suelen terminarse el té de burbujas en la explanada.
-- **Hacer cola a la manera de Taipéi.** Las filas para el puesto de merchandising, los aseos y los andenes se forman con orden, y es habitual que el personal señale su final con carteles o bastones. Colarse no pasa desapercibido.
-- **Pensar en la salida.** Al terminar la noche, muchos aficionados caminan una parada hacia el este, hasta Nanjing Sanmin, o hacia el oeste, hasta Nanjing Fuxing, para evitar la avalancha de la estación Taipei Arena.
-- **Las varitas luminosas y las pancartas** forman parte habitual de la cultura de conciertos taiwanesa. Durante las baladas, las linternas de los móviles se encienden al unísono en un gesto casi ritual.
+- **La EasyCard para el transporte.** Casi todo el mundo paga con esta tarjeta recargable, que también sirve en los 7-Eleven y FamilyMart. Los habituales la recargan con antelación, porque las máquinas se saturan cuando 15.000 personas bajan a la vez al metro.
+- **Prohibido comer y beber en el metro.** Una vez pasados los tornos, no se permite comer, beber ni mascar chicle, y las multas se aplican de verdad. Por eso los aficionados suelen terminarse el té de burbujas en la explanada.
+- **Hacer cola al estilo de Taipéi.** Las filas para los puestos de merchandising, los aseos y los andenes se forman con orden. Es frecuente que el personal señale con carteles o bastones dónde terminan. Colarse no pasa desapercibido.
+- **El ritual de salida.** Al acabar el concierto, muchos aficionados caminan una parada hacia el este, hasta Nanjing Sanmin, o hacia el oeste, hasta Nanjing Fuxing, para evitar las aglomeraciones de la estación Taipei Arena.
+- **Las varitas luminosas y las pancartas** forman parte habitual de la cultura de los conciertos en Taiwán. Encender a la vez la linterna del móvil durante las baladas es casi un ritual.
 
-La venta de entradas de un concierto así corría a cargo del promotor y de su socio de venta, no de la taquilla del pabellón. Los planos de asientos y las normas de acceso procedían de ellos.
+En conciertos de este tipo, la venta de entradas suele correr a cargo del promotor y de su plataforma asociada, no de la taquilla del pabellón. Son ellos quienes publican los planos de asientos y las normas de acceso.
 
 ## Antes y después: dónde comer en Songshan
 
-Los aficionados suelen comer pronto en los alrededores o cenar tarde algo más al este. A poca distancia a pie del pabellón se encuentra el centro comercial Breeze Nanjing, con zona de restauración y restaurantes con servicio de mesa. Las calles laterales de la avenida Nanjing Este ofrecen la combinación típica de Taipéi: casas de fideos, mostradores de bento y tiendas de conveniencia. Muchos se conforman con unas bolas de arroz y un té antes de que abran las puertas.
+Los aficionados suelen comer pronto en los alrededores o cenar tarde más hacia el este. A poca distancia a pie del pabellón se encuentra el centro comercial Breeze Nanjing, con zona de restauración y restaurantes con servicio de mesa. En las calles laterales de la avenida Nanjing Este abunda la oferta típica de Taipéi: casas de fideos, mostradores de bento y tiendas de conveniencia. Muchos se conforman con unas bolas de arroz y un té antes de que se abran las puertas.
 
-Para cenar tarde, el mercado nocturno de la calle Raohe quedaba a dos paradas de MRT hacia el este, en la estación de Songshan, final de la línea verde. Su única y larga calle discurre junto al templo de Ciyou. El puesto que ha dado fama al mercado es el de los bollos de pimienta negra (hu jiao bing), que se hornean pegados a las paredes de hornos de barro. Los puestos abren hasta bien entrada la noche, algo muy conveniente para quien sale de un concierto.
+Para cenar tarde, el mercado nocturno de la calle Raohe (Raohe Street Night Market) queda dos paradas de metro al este, en la estación Songshan, final de la línea verde. Su única y larga calle discurre junto al templo Ciyou. El puesto más famoso del mercado es el de los bollos de pimienta negra (hu jiao bing), que se hornean pegados a las paredes de hornos de barro. Los puestos abren hasta altas horas de la noche, algo muy conveniente para quien sale de un concierto.
 
 ## Taipéi a finales de octubre
 
-Octubre es uno de los meses más llevaderos en Taipéi. Lo peor del calor estival ya ha pasado, aunque los días suelen ser cálidos y húmedos, y una prenda ligera viene bien frente al aire acondicionado del pabellón. La temporada de tifones puede prolongarse hasta octubre. Cuando llega una tormenta, el gobierno municipal declara a veces un día de tifón, lo que afecta al transporte y a los eventos de toda la ciudad.
+Octubre es uno de los meses más llevaderos en Taipéi. Lo peor del calor veraniego ya ha pasado, aunque los días suelen ser cálidos y húmedos, y en comparación el aire acondicionado del pabellón puede parecer fresco. La temporada de tifones todavía puede alcanzar octubre. Cuando llega una tormenta, el gobierno municipal declara a veces un «día de tifón», lo que afecta al transporte y a los eventos de toda la ciudad.
 
-Quienes pasan varios días en la ciudad suelen alojarse en Zhongshan, Ximending o Xinyi, tres zonas comunicadas con el pabellón por MRT en menos de media hora. El Taipei 101 y la zona comercial de Xinyi quedan a un corto trayecto en taxi hacia el sur. En ese mismo lado de la ciudad, el Parque Cultural y Creativo de Songshan, una antigua fábrica de tabaco reconvertida en espacio de diseño y exposiciones, es una visita diurna muy cómoda.
+Quienes pasan unos días en la ciudad suelen alojarse en Zhongshan, Ximending o Xinyi, tres zonas conectadas con el pabellón por metro en menos de media hora. Al sur, a un corto trayecto en taxi, se encuentran el Taipei 101 y el distrito comercial de Xinyi. En esa misma parte de la ciudad, el Parque Cultural y Creativo de Songshan, una antigua fábrica de tabaco reconvertida en espacio de diseño y exposiciones, es una parada cómoda durante el día.

@@ -1,6 +1,6 @@
 ---
 title: 'Nike Melbourne Marathon Festival: Dates, Tickets & Venue (Melbourne)'
-description: The Nike Melbourne Marathon Festival in Melbourne is held on Sunday, October 11, 2026.
+description: The Nike Melbourne Marathon Festival was set for Sunday, October 11, 2026, with every race finishing inside the Melbourne Cricket Ground.
 country: Australia
 region: Melbourne
 category: event
@@ -22,39 +22,38 @@ gallery: []
 tags:
   - melbourne
   - event
-quickAnswer: The Nike Melbourne Marathon Festival in Melbourne is held on Sunday, October 11, 2026. It offers a marathon, a half-marathon and shorter distances, and every race finishes with a lap inside the Melbourne Cricket Ground (MCG) in Yarra Park. The organiser publishes entry options, start locations and course maps on the festival's official site, and Richmond and Jolimont stations are the closest train stops to the finish.
+quickAnswer: The Nike Melbourne Marathon Festival was set for Sunday, October 11, 2026. The programme included a marathon, a half-marathon and shorter distances, and every race finished with a lap inside the Melbourne Cricket Ground (MCG) in Yarra Park. Entry was by registration rather than a general ticket. Richmond and Jolimont stations are the closest train stops to the finish.
 faq:
   - q: When is the 2026 Nike Melbourne Marathon Festival?
-    a: It is held on Sunday, October 11, 2026. The organiser publishes wave times and start locations for each distance on the official festival website.
+    a: The festival was set for Sunday, October 11, 2026. Each distance had its own wave times and start location.
   - q: Where does the Melbourne Marathon finish?
     a: Every distance finishes inside the Melbourne Cricket Ground (MCG) in Yarra Park, with a lap of the stadium before the line. Supporters watch the finish from the stands.
   - q: What is the best way to get to the MCG on race day?
-    a: Take the train. Richmond Station and Jolimont Station are both a short walk across Yarra Park from the stadium, and Flinders Street Station is a walk away through Birrarung Marr. Road closures make driving into the city difficult on race morning.
+    a: The train is the easiest option. Richmond Station and Jolimont Station are both a short walk across Yarra Park from the stadium, and Flinders Street Station is a walk away through Birrarung Marr. Road closures make driving into the city difficult on race morning.
   - q: Which distances can I enter?
-    a: The festival includes a marathon, a half-marathon and shorter distances suited to first-timers and families. The official site lists the full set of events and handles registration.
+    a: The 2026 programme included a marathon, a half-marathon and shorter distances suited to first-timers and families. Entry was by registration rather than a general ticket.
   - q: What weather should I expect in October?
-    a: Expect mid-spring conditions, which in Melbourne change quickly. Mornings are often cool and the bayside section can be windy, so runners and spectators usually bring a spare layer. Daylight saving begins the Sunday before, so race morning starts in the dark.
+    a: October is mid-spring in Melbourne, and conditions change quickly. Mornings are often cool and the bayside section can be windy, so runners and spectators usually bring a spare layer. Daylight saving begins on the first Sunday of October, which in 2026 was the Sunday before the race, so race morning starts in the dark.
 aiGenerated: true
 draft: false
 ---
-
 ## A finish line inside the G
 
 The last few hundred metres are what people come for. Most city marathons end on a closed street lined with barriers. This one sends runners through a tunnel and into the Melbourne Cricket Ground, a stadium built for crowds of around 100,000. They finish on the oval itself.
 
-Melburnians call the ground "the G". It is where the AFL Grand Final is played and where the Boxing Day Test opens each summer. On marathon morning the stands are filled with families and friends, and runners make one lap of the stadium before crossing the line.
+Melburnians call the ground "the G". It is where the AFL Grand Final is played and where the Boxing Day Test opens each summer. On marathon morning the stands fill with families and friends, and runners make one lap of the stadium before crossing the line.
 
 That lap explains the festival's appeal. It is billed as Australia's largest road race. For many entrants in the shorter distances, it is their one chance to stand on the most famous turf in Australian sport.
 
 ## The 2026 race day at a glance
 
-The 2026 festival runs on **Sunday, October 11, 2026**. It is one big Sunday for every ability level rather than a single elite race.
+The 2026 festival was set for **Sunday, October 11, 2026**. The programme covered every ability level rather than a single elite race.
 
 - **Marathon:** the full 42.195km, for the experienced end of the field.
 - **Half-marathon:** the most popular step up for regular parkrunners and club runners.
 - **Shorter distances:** for first-timers, walkers and families who still want the MCG finish.
 
-The organiser publishes the exact distances, start locations, wave times, course maps and entry links on the official Nike Melbourne Marathon Festival website. Entry is through registration on that site rather than a general ticket, so the race fees appear there too.
+Each distance had its own start location, wave times and course map. Entry was by registration rather than a general ticket, with a fee for each race.
 
 ## Getting to Yarra Park on a closed-road morning
 
@@ -72,13 +71,13 @@ Spectators get the best view by picking one or two points on the route and movin
 
 St Kilda Road is lined with plane trees and has trams running down the middle. Its broad footpaths give supporters room to stand without spilling onto the road. Near the water, the course opens onto Port Phillip Bay, with the sea on one side and Victorian-era terraces on the other.
 
-The official course map shows where the route runs in a given year. Supporters who want to see their runner twice usually choose one spot mid-course, then head back toward the MCG for the finish.
+The course map shows where the route runs in a given year. Supporters who want to see their runner twice usually choose one spot mid-course, then head back toward the MCG for the finish.
 
 ## Daylight saving and a spring Sunday
 
-The date falls in a week that catches some visitors out. Victoria switches to daylight saving on the first Sunday of October. In 2026 that is October 4, exactly one week before the race.
+The date falls in a week that catches some visitors out. Victoria switches to daylight saving on the first Sunday of October. In 2026 that was October 4, exactly one week before the race date.
 
-The jump forward means race morning starts in the dark, and sunrise comes later than it did the week before. Interstate and overseas runners who flew in for race week usually account for the hour when they set alarms. The shift is easy to forget if your phone has already updated and your body clock hasn't.
+The jump forward means race morning starts in the dark, and sunrise comes later than it did the week before. Interstate and overseas runners who fly in for race week usually account for the hour when they set alarms. The shift is easy to forget if your phone has already updated and your body clock hasn't.
 
 October is mid-spring in Melbourne, and the city's weather is famously changeable. A cool, grey start can turn into bright sun by mid-morning, and wind off the bay is common on the coastal stretch. Runners usually start in an old long-sleeve top they are happy to throw away. Spectators tend to bring a layer and a rain jacket, even when the forecast looks settled.
 
@@ -86,10 +85,10 @@ October is mid-spring in Melbourne, and the city's weather is famously changeabl
 
 Race morning has its own etiquette, and most of it is about the finish area.
 
-- **Agree on a meeting spot in Yarra Park.** The area behind the finish is busy, and phone signal can be patchy when tens of thousands of people are in one place. Families usually pick a landmark on the park lawns instead of trying to meet at the gate.
-- **Pay for transport with myki.** Melbourne's trains and trams run on the myki system. You tap on before you board, and a mobile myki on a compatible phone works as well as the plastic card. On trams in the CBD's Free Tram Zone you don't tap on, but the MCG sits outside that zone.
-- **Cheer in the stands, not on the course.** Supporters inside the MCG watch from the seating bowl and stay off the oval. On the road course, people keep behind the barriers and cross only at marshalled points.
-- **Coffee is ordered, not tipped.** After the race, Richmond's Swan Street and the CBD laneways fill with runners in foil blankets ordering flat whites. Tipping isn't expected in Australian cafés, and almost everywhere takes card.
+- **Meeting spots in Yarra Park.** The area behind the finish is busy, and phone signal can be patchy when tens of thousands of people are in one place. Families usually pick a landmark on the park lawns instead of trying to meet at the gate.
+- **Paying with myki.** Melbourne's trains and trams run on the myki system. Passengers tap on before boarding, and a mobile myki on a compatible phone works as well as the plastic card. On trams in the CBD's Free Tram Zone there is no need to tap on, but the MCG sits outside that zone.
+- **Cheering from the stands, not the course.** Supporters inside the MCG watch from the seating bowl and stay off the oval. On the road course, people keep behind the barriers and cross only at marshalled points.
+- **Coffee is ordered, not tipped.** After the race, Richmond's Swan Street and the CBD laneways fill with runners in foil blankets ordering flat whites. Tipping isn't customary in Australian cafés, and almost everywhere takes card.
 
 ## After the finish
 

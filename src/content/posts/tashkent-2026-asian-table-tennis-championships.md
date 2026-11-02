@@ -1,6 +1,6 @@
 ---
 title: '2026 Asian Table Tennis Championships: Dates, Tickets & Venue (Tashkent)'
-description: The 2026 Asian Table Tennis Championships take place in Tashkent, Uzbekistan, from 19 to 25 October 2026, and the organiser's official channels carry the venue and ticket details.
+description: The 2026 Asian Table Tennis Championships were set for 19 to 25 October 2026 in Tashkent, Uzbekistan, with Tomokazu Harimoto as defending champion.
 country: Uzbekistan
 region: Tashkent
 category: event
@@ -16,14 +16,14 @@ gallery: []
 tags:
   - tashkent
   - event
-quickAnswer: The 2026 Asian Table Tennis Championships take place in Tashkent, Uzbekistan, from 19 to 25 October 2026, and the organiser's official channels carry the venue and ticket details. This 29th edition brings Asia's strongest players to the Uzbek capital, including defending champion Tomokazu Harimoto of Japan and China's national team.
+quickAnswer: The 2026 Asian Table Tennis Championships were set for 19 to 25 October 2026 in Tashkent, Uzbekistan. This 29th edition was organised by the Asian Table Tennis Union with the Uzbek federation as host. The announced entries included defending champion Tomokazu Harimoto of Japan and China's national team.
 faq:
   - q: When are the 2026 Asian Table Tennis Championships?
-    a: They run from 19 to 25 October 2026 in Tashkent, Uzbekistan. This is the 29th edition of the championships.
+    a: They were set for 19 to 25 October 2026 in Tashkent, Uzbekistan. This was the 29th edition of the championships.
   - q: Where do I find the venue and tickets for the event in Tashkent?
-    a: The Asian Table Tennis Union, which organises the championships, and the host federation publish the venue, session schedule and ticket links on their official channels. Prices appear there too.
+    a: The Asian Table Tennis Union, which organises the championships, and the Uzbek host federation were responsible for the venue, the session schedule and ticketing. Prices were set by the organiser.
   - q: Which players are competing?
-    a: Japan's Tomokazu Harimoto competes as defending champion, and China sends its national team. Asia's other leading table tennis nations also take part.
+    a: Japan's Tomokazu Harimoto was the defending champion, and China named its national team. Asia's other leading table tennis nations were also among the announced entries.
   - q: Which days are best for watching?
     a: Continental championships usually build towards finals at the end of the week, so fans who want medal matches tend to pick the last two or three days. The early rounds often have several tables in play at once.
   - q: What is Tashkent like in October?
@@ -31,22 +31,21 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Seven days of Asia's fastest sport
 
-From 19 to 25 October 2026, Tashkent hosts the 29th Asian Table Tennis Championships. That is a full week of play in a city better known for blue-tiled madrasas than for topspin. For one week, though, the continent's deepest talent pool is here: Japan, China, South Korea, Chinese Taipei and the rest of Asia's table tennis powers.
+The 29th Asian Table Tennis Championships were set for 19 to 25 October 2026 in Tashkent. That meant a full week of play in a city better known for blue-tiled madrasas than for topspin. The championships are the continental meeting of Japan, China, South Korea, Chinese Taipei and the rest of Asia's table tennis powers.
 
-The headline names are clear. Tomokazu Harimoto of Japan arrives as defending champion. China sends its national team, and in this sport that usually means a squad of medal favourites. Asian titles count for a lot here, because the continent produces most of the world's top-ranked players.
+The headline names were clear. Tomokazu Harimoto of Japan was the defending champion. China named its national team, and in this sport that usually means a squad of medal favourites. Asian titles count for a lot, because the continent produces most of the world's top-ranked players.
 
 ## Dates, tickets and where the venue details live
 
-The championships run from Monday 19 to Sunday 25 October 2026. Continental championships usually play team events in the first half of the week. Individual draws then narrow towards finals at the weekend.
+The championships were scheduled to run from Monday 19 to Sunday 25 October 2026. Continental championships usually play team events in the first half of the week. Individual draws then narrow towards finals at the weekend.
 
 - **Organiser:** the Asian Table Tennis Union, the continental governing body, with the Uzbek national federation as host.
-- **Venue and ticket links:** on the organiser's official channels. That is also where the daily session schedule lives.
-- **Prices:** set by the organiser and shown on its ticketing pages. This guide doesn't print a figure.
+- **Venue and tickets:** handled by the organiser, which also set the daily session schedule.
+- **Prices:** set by the organiser.
 
-At events like this, fans who care about the medal matches usually pick the final two or three days. Early-round sessions tend to be the easier seats to get, and they often run several tables at once. You can watch a dozen nations play in a single afternoon.
+At events like this, fans who care about the medal matches usually pick the final two or three days. Early-round sessions tend to be the easier seats to get, and they often run several tables at once. A spectator can see a dozen nations play in a single afternoon.
 
 ## What the arena feels like
 
@@ -68,9 +67,9 @@ A few words of Russian or Uzbek go a long way. *Rahmat* (Uzbek) and *spasibo* (R
 
 ## Getting around Tashkent in October
 
-Most visitors fly into Tashkent International Airport, which is a short drive from the centre. Many nationalities can enter Uzbekistan visa-free, but the rules depend on your passport.
+Most visitors fly into Tashkent International Airport, which is a short drive from the centre. Many nationalities can enter Uzbekistan visa-free, though the rules depend on the passport.
 
-The Tashkent Metro is worth riding even if the venue is a taxi away. Stations such as Kosmonavtlar and Alisher Navoi have chandeliers, marble and Soviet-era mosaics. Visitors usually stay near Amir Timur Square, which is central to most of the city.
+The Tashkent Metro is worth riding even when the venue is a taxi away. Stations such as Kosmonavtlar and Alisher Navoi have chandeliers, marble and Soviet-era mosaics. Visitors usually stay near Amir Timur Square, which is central to most of the city.
 
 October is one of the gentler months here. Days are usually mild and evenings turn noticeably cool, so spectators heading home after a late session tend to carry a layer.
 
@@ -82,4 +81,4 @@ Rest days and mornings leave time to see the city. The obvious lunch is plov, Uz
 - **Hazrati Imam (Khast Imam) complex:** mosques and madrasas in the old town, home to an early Quran manuscript.
 - **Amir Timur Square and Broadway (Sayilgoh Street):** the modern centre, for an evening walk after play ends.
 
-Seven days of top-level table tennis and one of Central Asia's most walkable capitals make a good pairing. Most fans who travel for the medal rounds stay for at least the final weekend.
+Seven days of top-level table tennis suit one of Central Asia's most walkable capitals. Fans who travel for the medal rounds of a continental championship usually stay for at least the final weekend.

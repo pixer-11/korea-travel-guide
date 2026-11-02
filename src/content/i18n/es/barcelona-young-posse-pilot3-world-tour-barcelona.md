@@ -1,68 +1,68 @@
 ---
 lang: es
 slug: barcelona-young-posse-pilot3-world-tour-barcelona
-srcHash: 'dbc701a8ff4d'
-title: 'Young Posse PILOT3 World Tour en Barcelona: fecha, entradas y sala'
-description: El 29 de octubre de 2026, Young Posse llevará su PILOT3 World Tour a Barcelona. Actuarán en la Sala Salamandra, un club con entradas de pie situado en L'Hospitalet de Llobregat, en el límite occidental de la ciudad.
-quickAnswer: 'El 29 de octubre de 2026, Young Posse llevará su PILOT3 World Tour a Barcelona. La cita será en la Sala Salamandra, un club con entradas de pie situado en L''Hospitalet de Llobregat, en el límite occidental de la ciudad. Barcelona es una de las paradas de PILOT3: The 1st FLIGHT TO EUROPE, la primera gira europea del grupo. Lo habitual es llegar en la línea 1 de metro hasta Avinguda Carrilet. Los precios y las categorías de entrada vigentes figuran en la página oficial de venta de la gira.'
+srcHash: 'a3b9b9b0a775'
+title: 'Young Posse PILOT3 World Tour Barcelona: fechas, entradas y recinto (Barcelona)'
+description: El concierto Young Posse PILOT3 World Tour Barcelona estaba previsto para el 29 de octubre de 2026 en la Sala Salamandra, un club de L'Hospitalet de Llobregat donde el público asiste de pie.
+quickAnswer: 'La fecha anunciada para Young Posse PILOT3 World Tour Barcelona era el 29 de octubre de 2026. El escenario elegido fue la Sala Salamandra, un club de L''Hospitalet de Llobregat donde el público asiste de pie, en el límite occidental de Barcelona. Se trataba de la parada barcelonesa de PILOT3: The 1st FLIGHT TO EUROPE, la primera gira europea del grupo. Al recinto se llega en la línea 1 de metro, bajando en Avinguda Carrilet. Las entradas se vendían en la página oficial de venta de la gira.'
 faq:
-  - q: ¿Cuándo y dónde actúa Young Posse en Barcelona con PILOT3?
-    a: 'El concierto será el jueves 29 de octubre de 2026 en la Sala Salamandra. La sala está en L''Hospitalet de Llobregat, municipio que linda con el distrito barcelonés de Sants. Esta fecha forma parte de PILOT3: The 1st FLIGHT TO EUROPE, la primera gira europea del grupo.'
+  - q: ¿Cuándo y dónde era el concierto de Young Posse PILOT3 en Barcelona?
+    a: 'La fecha fijada para el concierto era el jueves 29 de octubre de 2026, en la Sala Salamandra. La sala se encuentra en L''Hospitalet de Llobregat, municipio que linda con el distrito barcelonés de Sants. El concierto formaba parte de PILOT3: The 1st FLIGHT TO EUROPE, la primera gira europea del grupo.'
   - q: ¿Cómo se llega a la Sala Salamandra en transporte público?
-    a: La opción más cómoda es la línea 1 de metro (roja) hasta Avinguda Carrilet. Desde Plaça de Catalunya el trayecto es directo y dura unos veinte minutos. También puede tomar en Plaça Espanya un tren de FGC, que para en L'Hospitalet–Av. Carrilet.
-  - q: ¿Hay asientos o es todo de pie?
-    a: La Sala Salamandra es un club de pie con un escenario bajo. Su sitio dependerá de la hora a la que se haya puesto en la cola. Por eso los fans suelen llegar mucho antes de que abran las puertas para quedarse cerca de la valla.
+    a: La línea 1 de metro (roja) llega hasta Avinguda Carrilet. Desde Plaça de Catalunya el trayecto es directo y dura unos veinte minutos. Los trenes de FGC que salen de Plaça Espanya también tienen parada en L'Hospitalet–Av. Carrilet.
+  - q: ¿El público estaba sentado o de pie?
+    a: La Sala Salamandra es un club sin asientos, con un escenario bajo. Cuando el público está de pie, el sitio de cada uno depende del orden de llegada. Por eso los fans suelen hacer cola mucho antes de que abran las puertas, con la idea de quedar cerca de la valla.
   - q: ¿Cómo se vuelve después del concierto un día laborable?
-    a: De lunes a jueves, el metro de Barcelona cierra hacia la medianoche. Quienes salen más tarde suelen volver al centro en los autobuses nocturnos NitBus o en taxi.
-  - q: ¿Dónde suele alojarse el público del concierto?
-    a: Las zonas más elegidas son Plaça Espanya y los alrededores de la estación de Sants. Desde ambas se llega a la sala en un trayecto corto de metro o de tren, y las dos están bien comunicadas con el resto de la ciudad y con el aeropuerto.
+    a: De lunes a jueves, el metro de Barcelona cierra hacia la medianoche. Cuando un concierto entre semana termina tarde, el público suele volver al centro de Barcelona en taxi o en los autobuses nocturnos NitBus.
+  - q: ¿Dónde suele alojarse el público?
+    a: Las zonas preferidas son Plaça Espanya y los alrededores de la estación de Sants. Desde ambas se llega al recinto en pocos minutos de metro o tren, y las dos están bien comunicadas con el resto de la ciudad y con el aeropuerto.
 ---
 
-## Un concierto de club, no de estadio
+## Un concierto de club, no de pabellón
 
-Young Posse no actuará en Barcelona en un estadio, sino en una sala. La cita es el jueves 29 de octubre de 2026 en la Sala Salamandra. Pocas veces se puede ver a un grupo femenino de K-pop en un club como este, donde la valla delantera queda a unos pasos del borde del escenario.
+La cita de Young Posse en Barcelona no se fijó en un estadio, sino en una sala: el jueves 29 de octubre de 2026, en la Sala Salamandra. Un grupo femenino de K-pop iba a actuar así en un club de esos en los que la valla delantera queda a pocos pasos del borde del escenario.
 
-El concierto es la parada barcelonesa de **PILOT3: The 1st FLIGHT TO EUROPE**, la primera gira del grupo por el continente. Muchos fans europeos solo los conocen a través de la pantalla del móvil. Ahora tendrán por fin la oportunidad de escuchar en directo su sonido, cargado de rap y muy próximo al hip-hop. Es el estilo que distingue al grupo desde que debutó en 2023 con «Macaroni Cheese».
+Era la etapa barcelonesa de **PILOT3: The 1st FLIGHT TO EUROPE**, la primera gira del grupo por el continente. Muchos fans europeos solo las habían visto en la pantalla del móvil. Para ellos, el concierto suponía la primera ocasión de escuchar en directo un sonido muy cargado de rap y con clara inclinación por el hip-hop. Ese estilo distingue al grupo desde que debutó en 2023 con «Macaroni Cheese».
 
 ## Así es la Sala Salamandra
 
-Salamandra es un club de música en directo con muchos años de trayectoria. Se encuentra en L'Hospitalet de Llobregat, un municipio independiente que se funde con el distrito barcelonés de Sants sin que se note dónde termina uno y empieza el otro. El interior es una caja oscura de paredes negras pensada para el público de pie. Las barras ocupan los laterales y el escenario se sitúa en uno de los extremos.
+Salamandra es un club de música en directo con una larga trayectoria en L'Hospitalet de Llobregat. Aunque L'Hospitalet es un municipio independiente, se funde con el distrito barcelonés de Sants sin ninguna frontera visible. La sala es una caja oscura de paredes negras, pensada para el público de pie. Tiene barras en los laterales y el escenario en uno de los extremos.
 
 Esa distribución marca el carácter de la noche:
 
-- **Pista de pie.** No hay números de asiento: su sitio depende de la hora a la que se haya puesto en la cola.
-- **Escenario bajo y buena visibilidad.** Incluso desde el fondo se está mucho más cerca de los artistas que en un estadio.
-- **Espacio reducido.** El movimiento de los lightsticks y los cánticos de los fans llenan la sala enseguida, así que hasta un público modesto suena con fuerza.
+- **Pista sin asientos.** El sitio de cada uno no lo decide un número de butaca, sino el momento en que se incorporó a la cola.
+- **Escenario bajo y buena visibilidad.** Incluso desde el fondo, los artistas quedan mucho más cerca que en un concierto de pabellón.
+- **Espacio reducido.** El movimiento de las barras luminosas y los cánticos de los fans llenan la sala enseguida, de modo que un público no muy numeroso suena con mucha fuerza.
 
 ## Cómo llegar a L'Hospitalet
 
-En metro el viaje es sencillo. La parada más próxima a la sala es **Avinguda Carrilet**, en la línea 1 (roja). Desde Plaça de Catalunya se llega sin transbordos en unos veinte minutos.
+En metro, el trayecto es sencillo. La parada más próxima al recinto es **Avinguda Carrilet**, en la línea 1 (roja). Desde Plaça de Catalunya se llega sin transbordos en unos veinte minutos.
 
-Los trenes de cercanías de FGC que salen de Plaça Espanya también paran en L'Hospitalet–Av. Carrilet, una buena alternativa si se aloja cerca de Montjuïc o de la Gran Via. En taxi o con un servicio de VTC, el trayecto desde el centro de Barcelona dura más o menos lo mismo que en metro, si el tráfico lo permite.
+También paran en L'Hospitalet–Av. Carrilet los trenes de cercanías de FGC que salen de Plaça Espanya, una opción cómoda para quien se aloje cerca de Montjuïc o de la Gran Via. Si el tráfico lo permite, en taxi o en vehículo de VTC desde el centro de Barcelona se tarda más o menos lo mismo que en metro.
 
-El 29 de octubre es un día laborable. Entre semana, el metro de Barcelona no funciona toda la noche, así que si se queda a comprar merchandising o a disfrutar del ambiente en la puerta, lo normal es volver en los autobuses nocturnos NitBus o en taxi.
+El 29 de octubre de 2026 caía en jueves. Entre semana, el metro de Barcelona no funciona toda la noche, así que el público de los conciertos en días laborables suele volver a casa en taxi o en los autobuses nocturnos NitBus.
 
-## Colas, lightsticks y vuelta a casa: cómo transcurre la noche
+## Colas, barras luminosas y vuelta a casa: así transcurre la noche
 
-Los conciertos de K-pop en sala tienen sus propias costumbres. Cuando el público está de pie, los fans suelen empezar a hacer cola en la calle mucho antes de que abran las puertas. Los primeros en entrar corren hacia la valla y el resto se va repartiendo hacia la barra.
+Los conciertos de K-pop en sala tienen sus propias costumbres. Cuando el público va a estar de pie, los fans suelen empezar a hacer cola en la calle mucho antes de que abran las puertas. Los primeros en entrar corren hacia la valla, y el resto se va repartiendo hacia la barra.
 
 Esto es lo que suelen llevar y hacer los asistentes:
 
-- **Lightstick oficial**, si se tiene. En una sala de este tamaño, el vaivén de los lightsticks se convierte en un auténtico espectáculo de luces.
-- **Cánticos de los fans** entre los versos. Los habituales se los aprenden gracias a la comunidad de seguidores del grupo, y los recién llegados ya los dominan hacia el segundo estribillo.
-- **El merchandising, lo primero.** En los puestos de las giras se agotan pronto las tallas más populares, por lo que muchos compran antes de que empiece el concierto.
-- **Pago sin contacto.** En casi todas las barras y puestos de Barcelona se puede pagar con tarjeta o con el móvil. En la barra de una sala no se espera propina.
+- **La barra luminosa oficial**, quien la tenga. En una sala de este tamaño, su vaivén se convierte en un auténtico espectáculo de luces.
+- **Los cánticos de los fans**, que se corean entre las frases de las canciones. Los habituales los aprenden en la comunidad de seguidores del grupo, y los recién llegados ya los dominan en el segundo estribillo.
+- **Los productos oficiales, antes que nada.** En los puestos de la gira suelen agotarse pronto las tallas más buscadas, por lo que mucha gente compra antes de que empiece el concierto.
+- **El pago sin contacto.** En Barcelona se puede pagar con tarjeta o con el móvil en casi cualquier barra o puesto. En la barra de una sala no se espera propina.
 
-En España se cena tarde y en muchos restaurantes de barrio las cenas no empiezan a animarse hasta bien entrada la noche. Por eso el público suele comer tarde o compra unos bocadillos en alguna panadería cercana al metro. En el mostrador siempre se agradece un «gràcies» en catalán o un «gracias» en castellano.
+En España se cena tarde, y en muchos restaurantes de barrio la cena no se anima hasta bien entrada la noche. Por eso el público suele comer tarde o comprar unos bocadillos en alguna panadería cercana al metro. En el mostrador siempre se agradece un «gràcies» en catalán o un «gracias» en castellano.
 
-## Entradas y datos importantes
+## Entradas y detalles importantes
 
-Hay datos que no cambian: Young Posse, Sala Salamandra, 29 de octubre de 2026. Los precios, las categorías de entrada y los posibles paquetes adicionales se consultan en la página oficial de venta de la gira, de modo que esta guía no incluye cifras.
+Lo anunciado se limitaba a lo esencial: Young Posse, la Sala Salamandra y el 29 de octubre de 2026. Las entradas se vendían en la página oficial de venta de la gira, con sus distintas categorías de precio y los posibles paquetes adicionales.
 
-Tampoco se detallan aquí los horarios de apertura de puertas y de inicio, los teloneros ni el repertorio, porque en giras como esta cambian de una ciudad a otra. Las normas sobre bolsos las fija la sala. En clubes de este tamaño, por lo general, solo se admiten bolsos pequeños y no se permiten cámaras profesionales.
+En giras de este tipo, el horario de apertura de puertas y de inicio, los teloneros y el repertorio cambian de una ciudad a otra. Las normas sobre bolsos dependen de cada recinto. Por lo general, los clubes de este tamaño solo admiten bolsos pequeños y prohíben las cámaras profesionales.
 
-## Qué hacer antes y después del concierto
+## Alrededores del recinto
 
-L'Hospitalet es una zona sobre todo residencial, así que conviene organizar el resto del día en Barcelona. Sants y Hostafrancs quedan justo al otro lado del límite municipal. Sus pequeños bares del Carrer de Sants y del Carrer de la Creu Coberta son una parada cómoda antes del concierto.
+L'Hospitalet es una zona sobre todo residencial, y casi todos los lugares de interés turístico están en la propia Barcelona. Al otro lado del límite municipal se encuentran Sants y Hostafrancs. Sus pequeños bares de Carrer de Sants y Carrer de la Creu Coberta son una parada cómoda antes de un concierto.
 
-Montjuïc está a un paso de Plaça Espanya. Allí puede pasar la tarde entre jardines, la Fundació Joan Miró y el MNAC. Quienes vienen a la ciudad solo para el concierto suelen alojarse cerca de Plaça Espanya o de la estación de Sants. Desde ambas zonas se llega a la sala en un trayecto corto de metro o de tren, y las dos tienen buena conexión con el aeropuerto.
+Muy cerca de Plaça Espanya está Montjuïc, con sus jardines, la Fundació Joan Miró y el MNAC. Quienes viajan a la ciudad para un concierto suelen alojarse en Plaça Espanya o junto a la estación de Sants. Desde ambas zonas se llega al recinto en pocos minutos de metro o tren, y las dos están bien comunicadas con el aeropuerto.

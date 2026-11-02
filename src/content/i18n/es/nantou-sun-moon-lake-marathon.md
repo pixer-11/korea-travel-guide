@@ -1,59 +1,59 @@
 ---
 lang: es
 slug: nantou-sun-moon-lake-marathon
-srcHash: '48839811a4cb'
-title: 'Maratón del Lago del Sol y la Luna: fechas, inscripciones y recorrido (Nantou)'
-description: La fecha anunciada para el Maratón del Lago del Sol y la Luna era el 1 de noviembre de 2026. El recorrido discurría por las carreteras que rodean el lago, en el municipio de Yuchi, condado de Nantou (Taiwán).
-quickAnswer: La fecha anunciada para el Maratón del Lago del Sol y la Luna (Sun Moon Lake Marathon) era el 1 de noviembre de 2026. El recorrido discurría por las carreteras que rodean el lago, en el municipio de Yuchi, condado de Nantou (Taiwán), y seguía de cerca su orilla. En su web oficial, la organización publicaba las fechas, la zona de salida y los enlaces de inscripción.
+srcHash: 'e74cad59d49d'
+title: 'Maratón del Lago del Sol y la Luna: fechas, inscripciones y sede (Nantou)'
+description: El Maratón del Lago del Sol y la Luna tenía fecha anunciada el 1 de noviembre de 2026, con un recorrido por las carreteras que rodean el lago, en el municipio de Yuchi, condado de Nantou (Taiwán).
+quickAnswer: La fecha anunciada del Maratón del Lago del Sol y la Luna era el 1 de noviembre de 2026. El recorrido discurría por las carreteras que rodean el lago, en el municipio de Yuchi, condado de Nantou (Taiwán), y seguía la orilla en todo su trazado. Junto con la fecha y los datos de inscripción, la organización dio a conocer la zona de salida.
 faq:
-  - q: ¿Cuándo era el Maratón del Lago del Sol y la Luna 2026?
-    a: La fecha anunciada para la edición de 2026 era el 1 de noviembre de 2026.
-  - q: ¿Dónde se disputaba la carrera?
-    a: El recorrido discurría por las carreteras que rodean el Lago del Sol y la Luna, en el municipio de Yuchi, condado de Nantou, en el centro de Taiwán. La organización publicaba en su web oficial la ubicación de la salida y la meta.
+  - q: ¿Qué fecha tenía el Maratón del Lago del Sol y la Luna 2026?
+    a: La edición de 2026 estaba programada para el 1 de noviembre de 2026.
+  - q: ¿Dónde se iba a disputar la carrera?
+    a: En las carreteras que rodean el Lago del Sol y la Luna, en el municipio de Yuchi, condado de Nantou, en el centro de Taiwán. La organización dio a conocer el recorrido y también la zona de salida y llegada.
   - q: ¿Cómo llegaban los corredores al Lago del Sol y la Luna?
     a: La mayoría tomaba la línea 6670 de Nantou Bus desde la estación del tren de alta velocidad de Taichung hasta Shuishe, un trayecto de entre 90 minutos y dos horas, aproximadamente. Otros llegaban en coche por la carretera provincial 21. Ninguna línea de tren llega hasta el lago.
   - q: ¿Dónde solían alojarse los participantes?
-    a: La mayoría se alojaba en Shuishe o en Ita Thao, los dos pueblos de la orilla. Cuando se llenaban, el resto se repartía por Puli, a unos 30 minutos por carretera hacia el norte.
+    a: Casi todos se alojaban en Shuishe o en Ita Thao, los dos pueblos a orillas del lago. Cuando se llenaban, el resto de corredores buscaba habitación en Puli, a unos 30 minutos al norte por carretera.
   - q: ¿Es la misma prueba que la travesía a nado del Lago del Sol y la Luna?
-    a: No. El Carnaval de Natación del Lago del Sol y la Luna es una travesía en aguas abiertas independiente, que suele celebrarse algo antes, también en otoño. El maratón, en cambio, es una carrera en ruta alrededor del lago.
+    a: No. El Carnaval de Natación del Lago del Sol y la Luna es una travesía en aguas abiertas independiente, que suele celebrarse a comienzos del otoño. El maratón, en cambio, es una carrera en ruta alrededor del lago.
 ---
 
 ## Una carrera alrededor del mayor lago de Taiwán
 
-La edición de 2026 tenía fecha el 1 de noviembre. El Lago del Sol y la Luna (日月潭, Rìyuètán) es el mayor lago de agua dulce de Taiwán y se encuentra a unos 750 metros de altitud, entre las colinas del centro del condado de Nantou. En la zona, la prueba se conoce como 日月潭馬拉松.
+La edición de 2026 tenía como fecha anunciada el 1 de noviembre. El Lago del Sol y la Luna (日月潭, Rìyuètán) es el mayor lago de agua dulce de Taiwán y se encuentra a unos 750 metros de altitud, entre las colinas del centro del condado de Nantou. En la zona, la prueba se conoce como 日月潭馬拉松.
 
-Entre los cabos boscosos, la carretera del lago no deja de subir y bajar, de modo que el trazado distaba mucho de ser llano. A su paso, los corredores dejaban atrás los pueblos de la orilla y los templos que se asoman al agua desde las laderas. En el centro de Taiwán, la temporada fresca y más seca comienza a principios de noviembre, y por eso la carrera ocupaba un lugar en el calendario otoñal.
+Entre los cabos boscosos, la carretera del lago no deja de subir y bajar, de modo que el recorrido no tenía nada de llano. A su paso aparecían los pueblos de la orilla y los templos que asoman en las laderas sobre el agua. En el centro de Taiwán, la temporada fresca y más seca empieza a principios de noviembre, y por eso la carrera ocupa un lugar en el calendario otoñal.
 
-No debe confundirse este maratón con el Carnaval de Natación del Lago del Sol y la Luna, una travesía multitudinaria en aguas abiertas que suele celebrarse algo antes, también en otoño.
+No debe confundirse este maratón con el Carnaval de Natación del Lago del Sol y la Luna, una multitudinaria travesía en aguas abiertas que suele celebrarse a comienzos del otoño.
 
 ## Cómo llegar a la carretera del lago
 
-Ningún tren llega hasta el Lago del Sol y la Luna, así que la mayoría de los visitantes acudía en autobús o en coche.
+Ningún tren llega al Lago del Sol y la Luna. Casi todos los visitantes vienen en autobús o en coche.
 
-- **Desde la estación del tren de alta velocidad de Taichung:** la línea 6670 de Nantou Bus llegaba hasta Shuishe, el pueblo principal del lago, en un trayecto de entre 90 minutos y dos horas, aproximadamente.
-- **Desde la ciudad de Taichung:** había autobuses que salían de las estaciones situadas junto a la estación de ferrocarril de Taichung.
-- **En coche:** buena parte del lago está rodeada por la carretera provincial 21. Para la mañana de la carrera estaban previstos cortes de tráfico.
+- **Desde la estación del tren de alta velocidad de Taichung:** la línea 6670 de Nantou Bus llega hasta Shuishe, el pueblo principal del lago, en un trayecto de entre 90 minutos y dos horas, aproximadamente.
+- **Desde la ciudad de Taichung:** hay autobuses que salen de las terminales próximas a la estación de ferrocarril de Taichung.
+- **En coche:** la carretera provincial 21 rodea buena parte del lago. Lo habitual es que las carreteras del entorno se corten la mañana de la carrera.
 
-Shuishe e Ita Thao concentran la mayor parte del alojamiento. Lo habitual entre los corredores era pasar la víspera en uno de estos dos pueblos o bien en Puli, a unos 30 minutos por carretera hacia el norte. Como las habitaciones a orillas del lago escasean, quienes no encontraban sitio acababan alojándose en Puli.
+La mayor parte de las habitaciones se concentra en dos pueblos, Shuishe e Ita Thao. Los corredores solían pasar la víspera en uno de ellos o en Puli, a unos 30 minutos al norte por carretera. Como a orillas del lago la oferta de alojamiento es escasa, quienes no encontraban sitio acababan en Puli.
 
-## La mañana de la carrera, junto al agua
+## La mañana de la carrera junto al agua
 
-Al amanecer, una neblina suele cubrir el lago hasta que el sol asoma por las crestas del este y la disipa. Los corredores solían llegar a la zona de salida con bastante antelación, ya que, mientras las carreteras permanecían cortadas, los autobuses del lago circulaban con horarios reducidos.
+Al amanecer, la bruma suele cubrir el lago y se disipa a medida que el sol se eleva sobre las crestas del este. Los corredores solían llegar a la zona de salida con mucha antelación, ya que los autobuses del lago funcionaban con horarios reducidos mientras las carreteras permanecían cortadas.
 
-- **Pagos:** la tarjeta EasyCard (悠遊卡) servía en los autobuses de Nantou y en las tiendas 7-Eleven y FamilyMart de Shuishe.
-- **Propinas:** en Taiwán no es costumbre dejarlas, y nadie las espera ni en las casas de huéspedes ni en los restaurantes.
-- **Comida:** las tiendas de conveniencia de Shuishe e Ita Thao abrían temprano, y en ellas se abastecían los corredores de bolas de arroz, plátanos y leche de soja caliente antes de la salida.
-- **Normas de cortesía:** el público solía mantenerse apartado de los estrechos márgenes de la orilla, pues en algunos tramos la carretera apenas tiene arcén.
+- **Pagos:** la tarjeta EasyCard (悠遊卡) sirve en los autobuses de Nantou y en el 7-Eleven y el FamilyMart de Shuishe.
+- **Propinas:** en Taiwán no se acostumbra a dejarlas, ni en las casas de huéspedes ni en los restaurantes.
+- **Comida:** las tiendas de conveniencia de Shuishe e Ita Thao abren temprano. Antes de la salida, los corredores recurrían a ellas para comprar bolas de arroz, plátanos y leche de soja caliente.
+- **Normas de cortesía:** el público suele mantenerse apartado de los estrechos arcenes de la orilla, pues en algunos tramos la carretera apenas tiene margen.
 
 ## El lago después de la meta
 
-Tras la carrera, el lago merece una jornada de descanso. Estas son sus paradas principales:
+El lago se disfruta de verdad con un día de descanso. Estas son sus paradas principales:
 
-- **Barcos del lago:** comunican los embarcaderos de Shuishe, Xuanguang e Ita Thao, y ofrecen la forma más cómoda de volver a recorrer la orilla sin caminar.
-- **Ita Thao:** es el pueblo de los thao, la comunidad indígena del lago, y sus callejuelas están repletas de puestos de comida.
-- **Centro de Visitantes de Xiangshan:** un edificio de hormigón firmado por un arquitecto, con un estanque espejo orientado hacia el agua.
-- **Templo Wenwu:** se alza en la orilla norte y destaca por sus leones de piedra y su larga escalinata.
+- **Barcos del lago:** unen el muelle de Shuishe, el de Xuanguang y el de Ita Thao, y son la forma más cómoda de volver a contemplar la orilla sin recorrerla a pie.
+- **Ita Thao:** es el pueblo de los thao, la comunidad indígena del lago, con callejuelas llenas de puestos de comida.
+- **Centro de Visitantes de Xiangshan:** un edificio de hormigón de autor, con un estanque reflectante frente al agua.
+- **Templo Wenwu:** en la orilla norte se alzan sus leones de piedra y su larga escalinata.
 - **Pagoda Ci'en:** corona una colina sobre la orilla sur, y la subida resulta dura para unas piernas cansadas.
-- **Teleférico del Lago del Sol y la Luna:** une Ita Thao con la Aldea Cultural Aborigen de Formosa (Formosan Aboriginal Culture Village), un parque temático situado en las colinas del este.
+- **Teleférico del Lago del Sol y la Luna:** va desde Ita Thao hasta la Aldea Cultural Aborigen de Formosa, un parque temático situado en las colinas del este.
 
-Muchos corredores añadían una noche en Puli, localidad conocida por su destilería de vino de Shaoxing y por su tradición en la fabricación de papel.
+Muchos corredores sumaban una noche en Puli, ciudad conocida por su destilería de vino de Shaoxing y por su tradición en la fabricación de papel.

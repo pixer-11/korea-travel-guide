@@ -1,55 +1,55 @@
 ---
 lang: es
 slug: hong-kong-vaundy-asia-arena-tour-horo-in-hong-kong
-srcHash: 'b8d02e25e49d'
-title: 'Vaundy Asia Arena Tour "HORO" en Hong Kong: fechas, entradas y recinto (Hong Kong)'
-description: El Vaundy Asia Arena Tour "HORO" tenía fecha en Hong Kong el sábado 3 de octubre de 2026, en el AsiaWorld-Expo, junto al Aeropuerto Internacional de Hong Kong, en la isla de Lantau.
-quickAnswer: La fecha anunciada para el Vaundy Asia Arena Tour "HORO" en Hong Kong era el sábado 3 de octubre de 2026, en el AsiaWorld-Expo, junto al Aeropuerto Internacional de Hong Kong, en la isla de Lantau. El recinto cuenta con estación propia, AsiaWorld-Expo, al final de la línea Airport Express del MTR. Por ella llegaba y se marchaba la mayoría del público.
+srcHash: '49af8f2105b7'
+title: 'Vaundy en Hong Kong con su Asia Arena Tour «HORO»: fecha, entradas y recinto (Hong Kong)'
+description: La fecha anunciada para el concierto de Vaundy en Hong Kong, dentro de su Asia Arena Tour «HORO», era el sábado 3 de octubre de 2026, en el AsiaWorld-Expo, junto al Aeropuerto Internacional de Hong Kong.
+quickAnswer: La fecha anunciada para la parada de Vaundy en Hong Kong dentro de su Asia Arena Tour «HORO» era el sábado 3 de octubre de 2026. El recinto era el AsiaWorld-Expo, situado junto al Aeropuerto Internacional de Hong Kong, en la isla de Lantau. Cuenta con estación propia, AsiaWorld-Expo, término de la línea Airport Express del MTR, y la mayoría del público la utiliza para ir y volver.
 faq:
-  - q: ¿Cuándo y dónde era el concierto HORO de Vaundy en Hong Kong?
-    a: El sábado 3 de octubre de 2026, en el AsiaWorld-Expo. El recinto está junto al Aeropuerto Internacional de Hong Kong, en Chek Lap Kok, en la isla de Lantau.
-  - q: ¿Cómo se llegaba al AsiaWorld-Expo?
-    a: Con el Airport Express del MTR hasta su última parada, la estación AsiaWorld-Expo, que da directamente al recinto. Desde la estación de Hong Kong (Hong Kong Station), en Central, el trayecto dura unos 30 minutos, con paradas intermedias en Kowloon y Tsing Yi.
-  - q: ¿Cómo se pagaba el tren?
-    a: La mayoría de los viajeros pasaba una tarjeta Octopus o una tarjeta bancaria sin contacto por los torniquetes del Airport Express, lo que les ahorraba la cola en las máquinas expendedoras.
-  - q: ¿Dónde solía alojarse el público que iba a un concierto en el AsiaWorld-Expo?
-    a: Muchos se alojaban en Central o en Kowloon, donde para el Airport Express. Otros preferían Tung Chung o los hoteles del aeropuerto, cerca del recinto, del centro comercial Citygate y del teleférico Ngong Ping 360.
-  - q: ¿Cómo era la salida después del concierto?
-    a: Todo el público se dirigía a la vez hacia la estación AsiaWorld-Expo, por lo que se formaban colas largas. Algunos fans esperaban un rato en el recinto o se acercaban caminando a las terminales del aeropuerto antes de tomar el tren.
+  - q: ¿Cuándo y dónde era el concierto «HORO» de Vaundy en Hong Kong?
+    a: La fecha anunciada era el sábado 3 de octubre de 2026, en el AsiaWorld-Expo, contiguo al Aeropuerto Internacional de Hong Kong, en Chek Lap Kok (isla de Lantau).
+  - q: ¿Cómo se llega al AsiaWorld-Expo?
+    a: La línea Airport Express del MTR termina en la estación AsiaWorld-Expo, que da directamente al recinto. Desde la estación de Hong Kong (Hong Kong Station), en Central, el trayecto dura unos 30 minutos, con paradas intermedias en Kowloon y Tsing Yi.
+  - q: ¿Cómo se paga el tren?
+    a: La mayoría de los viajeros pasa una tarjeta Octopus o una tarjeta bancaria sin contacto por los torniquetes del Airport Express y así se ahorra las colas de las máquinas expendedoras.
+  - q: ¿Dónde suelen alojarse los fans cuando hay un concierto en el AsiaWorld-Expo?
+    a: Muchos eligen Central o Kowloon, zonas con parada del Airport Express. Otros prefieren Tung Chung o los hoteles del aeropuerto, que quedan cerca del recinto, del centro comercial Citygate y del teleférico Ngong Ping 360.
+  - q: ¿Cómo es la salida al terminar el concierto?
+    a: Tras un gran concierto, todo el público se dirige a la vez a la estación AsiaWorld-Expo y se forman colas largas. Algunos fans esperan un rato en el recinto o van a pie hasta las terminales del aeropuerto antes de subir al tren.
 ---
 
 ## Una noche, un pabellón
 
-Vaundy tenía cita con Hong Kong el sábado 3 de octubre de 2026. El concierto formaba parte de su gira Asia Arena Tour "HORO", y el escenario elegido era el AsiaWorld-Expo, el mayor complejo de la ciudad construido expresamente para exposiciones y conciertos.
+El concierto de Vaundy en Hong Kong tenía fecha el sábado 3 de octubre de 2026. Formaba parte de su gira Asia Arena Tour «HORO», y el recinto elegido era el AsiaWorld-Expo, el mayor complejo de la ciudad construido expresamente para exposiciones y conciertos.
 
-Vaundy es un cantautor japonés que compone, arregla y produce sus propias canciones y que, además, se ocupa de buena parte de su dirección visual. Desde que debutó en internet en 2019, se ha convertido en uno de los artistas jóvenes con más reproducciones de Japón. El público de Hong Kong suele conocerlo tanto por sus colaboraciones con el anime como por las listas de éxitos:
+Vaundy es un cantautor japonés que compone, arregla y produce sus propias canciones y que, además, se ocupa de buena parte de su dirección visual. Desde su debut en internet en 2019 se ha convertido en uno de los artistas jóvenes con más reproducciones de Japón. En Hong Kong, el público lo conoce tanto por las listas de éxitos como por sus colaboraciones con series de anime:
 
-- "Kaiju no Hanauta", el tema coreable que lo lanzó a la fama
-- "Tokyo Flash", la canción de sus inicios con la que empezó todo
-- "CHAINSAW BLOOD", incluida en el anime *Chainsaw Man*
+- «Kaiju no Hanauta», el tema coreable que lo lanzó a la fama
+- «Tokyo Flash», la canción de sus inicios con la que empezó todo
+- «CHAINSAW BLOOD», del anime *Chainsaw Man*
 
 ## Dónde está el AsiaWorld-Expo
 
-El recinto se encuentra en Chek Lap Kok, pegado al Aeropuerto Internacional de Hong Kong y muy lejos de las zonas de ocio habituales de la ciudad. Esa ubicación condicionaba toda la velada: nadie se acercaba dando un paseo desde Tsim Sha Tsui después de cenar, sino que había que planificar el trayecto hasta la isla del aeropuerto.
+El recinto se encuentra en Chek Lap Kok, pegado al Aeropuerto Internacional de Hong Kong y muy lejos de las zonas de ocio habituales de la ciudad. Esa ubicación condiciona toda la velada: nadie se acerca dando un paseo desde Tsim Sha Tsui después de cenar. Un concierto aquí implica desplazarse hasta la isla del aeropuerto.
 
-Los conciertos del recinto se celebran en el AsiaWorld-Arena, una gran sala de suelo plano con zona de pie en la parte delantera y gradas escalonadas alrededor. Con su aspecto de hangar y su pista amplia y diáfana, se presta más a un directo enérgico de banda que a una actuación íntima.
+Los conciertos se montan en el AsiaWorld-Arena, una gran sala de suelo plano con zona de pie delante y gradas escalonadas alrededor. Con su amplia pista diáfana, recuerda a un hangar y se presta más a un directo de banda lleno de energía que a una actuación íntima.
 
-## El viaje de ida y vuelta
+## El trayecto de ida y vuelta
 
-El Airport Express del MTR sale de la estación de Hong Kong (Hong Kong Station), en Central, y para en Kowloon, Tsing Yi y Airport. Su última parada, la estación AsiaWorld-Expo, da directamente al recinto. Desde Central, el trayecto dura aproximadamente media hora.
+El Airport Express del MTR sale de la estación de Hong Kong (Hong Kong Station), en Central, y para en Kowloon, Tsing Yi y Airport. Su última parada, la estación AsiaWorld-Expo, da directamente al recinto. Desde Central, el viaje dura una media hora.
 
-En cambio, quienes se alojaban en Tung Chung o en los hoteles del aeropuerto tenían el recinto a un paso. Algunos fans llegados de fuera elegían esa zona como base, porque el centro comercial de outlets Citygate y el teleférico Ngong Ping 360, que sube hasta el Gran Buda (Big Buddha), permitían pasar un día completo en Lantau antes del concierto.
+Tung Chung y los hoteles del aeropuerto, en cambio, quedan a un paso. Algunos fans que viajan desde fuera se alojan allí: entre el centro comercial Citygate, especializado en tiendas de descuento, y el teleférico Ngong Ping 360, que sube hasta el Gran Buda (Big Buddha), se puede llenar un día entero en Lantau antes del concierto.
 
-Además, el 3 de octubre caía dos días después del Día Nacional de China, el 1 de octubre. Esa semana, los viajeros de la China continental que aprovechaban la Semana Dorada llenaban los hoteles y el transporte de la ciudad.
+Además, el 3 de octubre caía dos días después del Día Nacional de China, el 1 de octubre. Esa semana, los turistas de la China continental que viajan durante la Semana Dorada suelen llenar los hoteles y el transporte de la ciudad.
 
-## La entrada y la vuelta a casa
+## Entrada al recinto y vuelta a casa
 
-El público del AsiaWorld-Expo sigue ciertas pautas. Así suele transcurrir una noche de concierto en el recinto:
+El público del AsiaWorld-Expo sigue pautas bastante previsibles. Así suele transcurrir allí una noche de concierto:
 
-- **Pago del tren:** la mayoría de los viajeros pasa una tarjeta Octopus o una tarjeta bancaria sin contacto por los torniquetes del Airport Express. Algunos compran por la mañana un billete de ida y vuelta para no tener que pasar por las máquinas a la salida.
-- **Artículos oficiales:** en los conciertos de pabellón de Hong Kong, las mesas de productos oficiales de la gira registran las colas más largas en las horas anteriores a la apertura de puertas. Los fans que buscan una talla concreta suelen hacer cola mucho antes del comienzo.
-- **Pista de pie:** con entrada de pista, el acceso se realiza por tandas numeradas. El personal llama a los números en orden, de modo que un número bajo permite situarse más cerca del escenario.
-- **Normas de conducta:** en los conciertos de artistas japoneses, el público de Hong Kong suele corear las letras en japonés y mantener los móviles bajos. Las normas del recinto sobre cámaras profesionales y grabaciones están expuestas en la entrada.
-- **Después del bis:** miles de personas se dirigen a la vez hacia una única estación. Algunos fans se quedan unos veinte minutos en el recinto o van caminando hasta las terminales del aeropuerto para comer algo, y después toman un tren más tranquilo.
+- **Pago del tren:** la mayoría pasa una tarjeta Octopus o una tarjeta bancaria sin contacto por los torniquetes del Airport Express. Hay quien compra un billete de ida y vuelta por la mañana para no tener que pasar por las máquinas a la salida.
+- **Productos oficiales:** en los conciertos en pabellones de Hong Kong, los puestos de productos oficiales de la gira registran sus colas más largas en las horas previas a la apertura de puertas. Los fans que quieren asegurarse su talla suelen hacer cola mucho antes del inicio.
+- **Pista de pie:** quienes tienen entrada de pista suelen acceder por tandas numeradas. El personal llama a los números por orden, de modo que un número bajo significa un sitio más cerca del escenario.
+- **Normas de conducta:** el público hongkonés de los artistas japoneses suele cantar en japonés y mantener los móviles bajos. Las normas del recinto sobre cámaras profesionales y grabaciones están expuestas en la entrada.
+- **Después del bis:** miles de personas se dirigen a la vez a una única estación. Algunos fans se quedan unos veinte minutos en el recinto o van andando a las terminales del aeropuerto a comer algo, y luego toman un tren más tranquilo.
 
-En esta página no figuran precios, planos de asientos ni horarios. Los poseedores de entradas recibían esa información del promotor y de la empresa vendedora de entradas.
+Las entradas para la fecha de Hong Kong se vendieron a través del promotor y de su plataforma de venta, que se encargaba de los precios, los planos de asientos y los horarios.

@@ -1,6 +1,6 @@
 ---
 title: 'BOYNEXTDOOR "KNOCK ON Vol.2" Tour: Dates, Tickets & Venue (Dallas)'
-description: BOYNEXTDOOR "KNOCK ON Vol.2" Tour plays Dallas, Texas on October 22, 2026, as one of the US stops on the six-member K-pop group's second headline tour.
+description: BOYNEXTDOOR's "KNOCK ON Vol.2" Tour was set to play Dallas, Texas on October 22, 2026, a US stop on the six-member K-pop group's second headline tour.
 country: United States
 region: Dallas
 category: event
@@ -31,14 +31,14 @@ gallery:
 tags:
   - dallas
   - event
-quickAnswer: BOYNEXTDOOR "KNOCK ON Vol.2" Tour plays Dallas, Texas on October 22, 2026, as one of the US stops on the six-member K-pop group's second headline tour. The group's label, KOZ Entertainment, and its Weverse community are where official tour notices for dates, venue and ticket links appear.
+quickAnswer: BOYNEXTDOOR's "KNOCK ON Vol.2" Tour was set to play Dallas, Texas on October 22, 2026, as one of the US stops on the six-member K-pop group's second headline tour. The group records under KOZ Entertainment, and its fan community gathers on Weverse.
 faq:
   - q: When is BOYNEXTDOOR's Dallas show on the KNOCK ON Vol.2 tour?
-    a: The Dallas show takes place on Thursday, October 22, 2026.
+    a: The Dallas show was set for Thursday, October 22, 2026.
   - q: Which venue does the Dallas date play?
-    a: This guide doesn't name the hall because our facts don't include it. KOZ Entertainment's official channels and BOYNEXTDOOR's Weverse community carry the venue, door times and ticket links.
+    a: The specific hall for the October 22 date is not named here. Dallas-area arenas are spread across Dallas, Arlington, Irving, Grand Prairie and Fort Worth.
   - q: Where are tickets sold?
-    a: Official ticket links and any Weverse membership presale details appear in KOZ Entertainment's tour notices. Prices by seating tier are listed on the ticketing page.
+    a: Tickets were priced by seating tier. On HYBE tours, Weverse membership usually decides who gets presale access.
   - q: Which airport is best for the Dallas concert?
     a: DFW International handles most international and long-haul flights. Dallas Love Field serves mainly domestic routes and sits closer to central Dallas.
   - q: What do fans usually bring?
@@ -48,7 +48,7 @@ draft: false
 ---
 ## Thursday night in North Texas
 
-The Dallas date falls on Thursday, October 22, 2026. It is a stop on "KNOCK ON Vol.2", the follow-up to BOYNEXTDOOR's first headline tour, "KNOCK ON Vol.1", in 2025.
+The Dallas date was set for Thursday, October 22, 2026. It was a stop on "KNOCK ON Vol.2", the follow-up to BOYNEXTDOOR's first headline tour, "KNOCK ON Vol.1", in 2025.
 
 The group debuted in May 2023 under KOZ Entertainment, the HYBE label founded by rapper and producer Zico. On stage there are six members:
 
@@ -59,27 +59,25 @@ The group debuted in May 2023 under KOZ Entertainment, the HYBE label founded by
 - Leehan
 - Woonhak
 
-Their fandom is called ONEDOOR. That name is printed on the banners and slogans you see across the floor.
+Their fandom is called ONEDOOR. The name appears on the banners and slogans fans carry at the group's shows.
 
 ## Venue, tickets and where they live
 
-This guide covers the date and city only. It does not name the venue, since that detail isn't confirmed here.
+KOZ Entertainment typically issues tour notices through BOYNEXTDOOR's Weverse community. These notices usually cover the venue, door times, ticket links and any membership presale rules. On HYBE tours, Weverse membership often decides presale access, so fans who want the first window usually hold a membership.
 
-KOZ Entertainment posts tour notices through its official channels and BOYNEXTDOOR's Weverse community. Those notices carry the venue, door times, ticket links and any membership presale rules. For HYBE tours, Weverse membership often decides presale access, so fans who want the first window usually hold a membership.
-
-Ticket prices, seating maps and VIP or soundcheck packages vary by tier and are shown on the ticketing page. This guide prints no figures.
+Ticket prices, seating maps and VIP or soundcheck packages on these tours generally vary by tier.
 
 ## How ONEDOOR does show night
 
-K-pop arena nights in Dallas follow a familiar pattern, and this one is no exception.
+K-pop arena nights in Dallas follow a familiar pattern.
 
 - **Merch lines:** official merchandise usually opens hours before doors. Fans who want tour-exclusive items queue first and eat later.
 - **Lightsticks:** most of the crowd carries the official lightstick. At many HYBE shows these sync wirelessly once the seat is registered in the app.
-- **Fan chants:** chants for the title tracks circulate on fan accounts before the tour. Knowing the call-and-response parts is what makes the floor sound loud.
+- **Fan chants:** chants for the title tracks circulate on fan accounts before a tour. Knowing the call-and-response parts is what makes the floor sound loud.
 - **Freebies:** trading photocards and handing out small free gifts outside the venue is common. Fans usually just ask before taking a photo with someone.
 - **Bags:** large Texas venues generally run clear-bag policies. Attendees bring small transparent bags and leave banners on poles at home.
 
-Weeknight shows mean many fans come straight from work or school. So the doors-to-encore window is the whole evening for most of the crowd.
+Weeknight K-pop shows usually draw fans straight from work or school. For most of the crowd, the doors-to-encore window is the whole evening.
 
 ## Getting in and out of Dallas
 

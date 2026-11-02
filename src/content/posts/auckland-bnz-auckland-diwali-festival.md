@@ -1,6 +1,6 @@
 ---
 title: 'BNZ Auckland Diwali Festival: Dates, Tickets & Venue (Auckland)'
-description: The BNZ Auckland Diwali Festival takes place on October 31 – November 1, 2026, in Aotea Square and along Queen Street in Auckland's city centre.
+description: The BNZ Auckland Diwali Festival was set for October 31 – November 1, 2026, in Aotea Square and along Queen Street, Auckland. Entry was free.
 country: New Zealand
 region: Auckland
 category: event
@@ -16,18 +16,18 @@ eventFactsAsked: true
 tags:
   - auckland
   - event
-quickAnswer: The BNZ Auckland Diwali Festival takes place on October 31 – November 1, 2026, in Aotea Square and along Queen Street in Auckland's city centre. It is free, so no tickets are needed. You get Indian food stalls, stage performances and fireworks over one weekend in the CBD.
+quickAnswer: The BNZ Auckland Diwali Festival was set for October 31 – November 1, 2026, in Aotea Square and along Queen Street in Auckland's city centre. It was free, so no tickets were needed. The programme announced Indian food stalls, stage performances and fireworks over one weekend in the CBD.
 faq:
   - q: When is the BNZ Auckland Diwali Festival in 2026?
-    a: It runs from Saturday, October 31 to Sunday, November 1, 2026. The organiser publishes each day's stage schedule and fireworks timing on the festival's official site.
+    a: It was scheduled for Saturday, October 31 to Sunday, November 1, 2026. Each day had its own stage programme and fireworks timing.
   - q: Do I need tickets?
-    a: No. The festival is free to enter on both days. You pay only for food and drink, and each vendor posts its own prices at the stall.
+    a: No. The festival was free to enter on both days. Food and drink were the only costs, and each vendor set its own prices at the stall.
   - q: Where exactly is it held?
-    a: It is held in Aotea Square and along Queen Street in Auckland's city centre, beside Auckland Town Hall and the Aotea Centre. The carved waharoa (gateway) on the Queen Street side is a good meeting point.
+    a: The festival was set in Aotea Square and along Queen Street in Auckland's city centre, beside Auckland Town Hall and the Aotea Centre. The carved waharoa (gateway) on the Queen Street side is a well-known meeting point.
   - q: What's the easiest way to get there?
-    a: Take the train or ferry to Waitematā Station (Britomart) or the Downtown Ferry Terminal, then walk about 15 minutes up Queen Street. Several bus routes also stop on Queen and Wellesley Streets. Parking is limited, and road closures are common.
+    a: Waitematā Station (Britomart) and the Downtown Ferry Terminal are about a 15-minute walk up Queen Street from Aotea Square. Several bus routes stop on Queen and Wellesley Streets. Parking in the area is limited, and road closures are common during large events.
   - q: How long do people usually stay?
-    a: Most visitors spend two to four hours, which covers food, a few performances and the fireworks. Sunday usually suits families who want a calmer crowd than the Halloween Saturday.
+    a: Visits to festivals like this typically last two to four hours, which covers food, a few performances and the fireworks. The Saturday date fell on Halloween, while Sunday had no such overlap.
 aiGenerated: true
 draft: false
 heroImage:
@@ -39,12 +39,11 @@ heroImage:
     x: 50
     'y': 30
 ---
-
 ## A festival of lights on the city's main street
 
-For one weekend, Auckland's commercial spine hands itself over to Diwali. The BNZ Auckland Diwali Festival runs from Saturday, October 31 to Sunday, November 1, 2026. It spreads through Aotea Square and along the adjoining stretch of Queen Street.
+The festival turns Auckland's commercial spine over to Diwali for one weekend. The BNZ Auckland Diwali Festival was set for Saturday, October 31 to Sunday, November 1, 2026. Its site covered Aotea Square and the adjoining stretch of Queen Street.
 
-The format is simple and generous. Indian food vendors line the route, performers take the stage, and fireworks mark the celebration. Entry is free, so the crowd is a real cross-section of the city: families, office workers, students and people who just wandered up from the harbour.
+The announced format was simple and generous. Indian food vendors lined the route, performers had the stage, and fireworks marked the celebration. Entry was free, which tends to draw a real cross-section of the city: families, office workers, students and people who just wander up from the harbour.
 
 Diwali is the Hindu, Sikh and Jain festival of lights. Its themes are light winning over darkness and good over evil. In Auckland, which has one of New Zealand's largest Indian communities, the festival has long been one of the biggest cultural gatherings on the city calendar.
 
@@ -56,25 +55,25 @@ The venue is the civic heart of downtown, in the literal sense. Aotea Square is 
 - **Aotea Centre**, the performing arts venue that forms one edge of the square
 - **The Civic Theatre**, a short walk down Queen Street at the Wellesley Street corner
 
-A large carved wooden waharoa (Māori gateway) stands at the square's Queen Street side. It makes an easy meeting point when your group splits up between food queues.
+A large carved wooden waharoa (Māori gateway) stands at the square's Queen Street side. It makes an easy meeting point when a group splits up between food queues.
 
-Queen Street slopes steadily downhill toward the Waitematā Harbour. Festival stalls along the street mean you walk on a gentle grade, so it pays to start at the top and drift down.
+Queen Street slopes steadily downhill toward the Waitematā Harbour. With stalls planned along the street, the festival route followed a gentle grade from the square down toward the water.
 
 ## No tickets, one weekend
 
-There is nothing to buy at the gate. The festival is free to enter on both days, and you can come and go as you like. What costs money is the food, and each vendor posts its own prices at the stall.
+There was nothing to buy at the gate. The festival was free to enter on both days, with no limits on coming and going. The costs were the food, and each vendor set its own prices at the stall.
 
-The two-day format matters. Saturday and Sunday each have their own programme. The organiser publishes the stage schedule, fireworks timing and site map on the festival's official site, and that page is the authority on what happens when.
+The two-day format mattered. Saturday and Sunday were each planned with their own programme, covering the stage schedule, fireworks timing and site layout.
 
-Most visitors spend two to four hours. That is enough to eat properly, catch a few performances and stay for the fireworks. Families with small children often come for a shorter afternoon window instead.
+Visits to festivals of this kind typically last two to four hours. That is enough to eat properly, catch a few performances and stay for the fireworks. Families with small children often come for a shorter afternoon window instead.
 
 ## Halloween night meets Diwali
 
-The 2026 dates create a timing quirk unique to this edition. Saturday, October 31 is also Halloween. So the city centre carries two very different celebrations on the same night.
+The 2026 dates created a timing quirk unique to this edition. Saturday, October 31 was also Halloween. That put two very different celebrations in the city centre on the same night.
 
-Expect to see costumed trick-or-treaters and party-goers sharing the footpaths with families in kurtas and saris. Downtown bars run their own Halloween events, and Queen Street is busier than an ordinary Saturday as a result. Sunday, November 1 tends to suit anyone who prefers a calmer, more family-focused crowd.
+Downtown bars commonly run their own Halloween events, and Halloween Saturdays in the CBD draw costumed trick-or-treaters and party-goers. Sunday, November 1 carried no such overlap, which made it the more family-focused date on the calendar.
 
-There is also a seasonal backdrop. Early November is fireworks season in New Zealand, since Guy Fawkes falls on November 5. A festival that ends in fireworks fits a month when the sky is already crackling across the suburbs.
+There is also a seasonal backdrop. Early November is fireworks season in New Zealand, since Guy Fawkes falls on November 5. A festival planned to end in fireworks fit a month when the sky is already crackling across the suburbs.
 
 ## Eating your way down Queen Street
 
@@ -87,27 +86,27 @@ Food is the main event for many Aucklanders. Vendors at Indian festivals like th
 - **Sweets** like jalebi, gulab jamun and barfi, a Diwali tradition
 - **Masala chai** and mango lassi to drink
 
-Exactly who is trading changes each year. The vendor list is part of the official festival information, not something we can promise.
+The traders change from year to year.
 
 ## Getting the most from the crowd
 
 A few habits make the day smoother, and seasoned attendees follow most of them.
 
-- **Pay by card.** New Zealand is close to cashless, and contactless EFTPOS and card payment are standard at food stalls. Some smaller vendors prefer cash, so regulars carry a little.
-- **Skip the tip.** Tipping is not expected in New Zealand. The price on the board is the price.
-- **Split the queues.** Groups usually send one person to each stall and regroup at the waharoa or the Town Hall steps.
-- **Bring something to sit on.** Seating is limited, and families often spread a blanket on the square for the performances.
-- **Greet people properly.** "Happy Diwali" works for everyone. "Shubh Deepavali" is a warm Hindi alternative.
+- **Card payment.** New Zealand is close to cashless, and contactless EFTPOS and card payment are standard at food stalls. Some smaller vendors prefer cash, so regulars carry a little.
+- **No tipping.** Tipping is not customary in New Zealand. The price on the board is the price.
+- **Split queues.** Groups usually send one person to each stall and regroup at the waharoa or the Town Hall steps.
+- **Seating.** Seating is limited, and families often spread a blanket on the square for the performances.
+- **Greetings.** "Happy Diwali" works for everyone. "Shubh Deepavali" is a warm Hindi alternative.
 
-Late October is spring in Auckland, and the weather can turn in an afternoon. Locals tend to bring a light rain jacket rather than an umbrella, which is awkward in a dense crowd.
+Late October is spring in Auckland, and the weather can turn in an afternoon. Locals tend to carry a light rain jacket rather than an umbrella, which is awkward in a dense crowd.
 
 ## Getting into the city centre
 
-Public transport is the sensible way in, because the CBD streets around the square get very busy on festival days.
+Public transport is the usual way in, because the CBD streets around the square get very busy during large events.
 
 - **Train:** Waitematā Station (Britomart) sits at the bottom of Queen Street. From there it is roughly a 15-minute uphill walk to Aotea Square.
 - **Bus:** Many routes run along Queen Street, Wellesley Street and Symonds Street, all within a few minutes' walk.
 - **Ferry:** Downtown Ferry Terminal is beside Britomart, so visitors from Devonport, Waiheke or the North Shore come straight in by water.
-- **Car:** The Civic car park lies beneath the Aotea Square precinct. It fills quickly on festival days, and road closures around Queen Street are common for large events.
+- **Car:** The Civic car park lies beneath the Aotea Square precinct. It fills quickly during big events, and road closures around Queen Street are common for large gatherings.
 
-After the fireworks, the walk downhill to Britomart is the busiest it gets all weekend. Plenty of people let the first rush clear by lingering over a last chai on the square.
+After fireworks displays on the square, the downhill walk to Britomart is the busiest stretch. Plenty of people let the first rush clear by lingering over a last chai.

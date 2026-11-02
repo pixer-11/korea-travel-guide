@@ -1,6 +1,6 @@
 ---
 title: 'Young Posse PILOT3 World Tour Barcelona: Dates, Tickets & Venue (Barcelona)'
-description: Young Posse PILOT3 World Tour Barcelona is set for October 29, 2026 at Sala Salamandra, a standing-room club venue in L'Hospitalet de Llobregat on Barcelona's western edge.
+description: Young Posse PILOT3 World Tour Barcelona was set for October 29, 2026 at Sala Salamandra, a standing-room club venue in L'Hospitalet de Llobregat.
 country: Spain
 region: Barcelona
 category: event
@@ -14,26 +14,26 @@ eventPerformer:
   kind: group
 eventFactsAsked: true
 heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Estadi_Ol%C3%ADmpic_Llu%C3%ADs_Companys_-_Barcelona%2C_Spain_-_Jan_2007.jpg/3840px-Estadi_Ol%C3%ADmpic_Llu%C3%ADs_Companys_-_Barcelona%2C_Spain_-_Jan_2007.jpg'
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Estadi_Ol%C3%ADmpic_Llu%C3%ADs_Companys_-_Barcelona%2C_Spain_-_Jan_2007.jpg/3840px-Estadi_Ol%C3%ADmpic_Llu%C3%ADs_Companys_-_Barcelona%2C_Spain_-_Jan_2007.jpg
   credit: 'Photo: Diliff / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Estadi_Ol%C3%ADmpic_Llu%C3%ADs_Companys_-_Barcelona,_Spain_-_Jan_2007.jpg'
+  source: https://commons.wikimedia.org/wiki/File:Estadi_Ol%C3%ADmpic_Llu%C3%ADs_Companys_-_Barcelona,_Spain_-_Jan_2007.jpg
   focus:
     x: 50
-    y: 50
+    'y': 50
 tags:
   - barcelona
   - event
-quickAnswer: 'Young Posse PILOT3 World Tour Barcelona is set for October 29, 2026 at Sala Salamandra, a standing-room club venue in L''Hospitalet de Llobregat on Barcelona''s western edge. It is the Barcelona stop of the group''s debut European tour, PILOT3: The 1st FLIGHT TO EUROPE. Fans usually get there on metro Line 1 to Avinguda Carrilet, and the current ticket prices and tiers are on the tour''s ticket page.'
+quickAnswer: 'Young Posse PILOT3 World Tour Barcelona was set for October 29, 2026 at Sala Salamandra, a standing-room club venue in L''Hospitalet de Llobregat on Barcelona''s western edge. It was the Barcelona stop of the group''s debut European tour, PILOT3: The 1st FLIGHT TO EUROPE. The venue is reached on metro Line 1 to Avinguda Carrilet, and tickets were sold through the tour''s ticket page.'
 faq:
   - q: When and where is the Young Posse PILOT3 concert in Barcelona?
-    a: 'It is on Thursday, October 29, 2026 at Sala Salamandra in L''Hospitalet de Llobregat, which borders Barcelona''s Sants district. It is part of the group''s debut European tour, PILOT3: The 1st FLIGHT TO EUROPE.'
+    a: 'The concert was set for Thursday, October 29, 2026 at Sala Salamandra in L''Hospitalet de Llobregat, which borders Barcelona''s Sants district. It was part of the group''s debut European tour, PILOT3: The 1st FLIGHT TO EUROPE.'
   - q: How do I get to Sala Salamandra by public transport?
-    a: Take metro Line 1 (red) to Avinguda Carrilet, a direct ride of about twenty minutes from Plaça de Catalunya. FGC trains from Plaça Espanya also stop at L'Hospitalet–Av. Carrilet.
+    a: Metro Line 1 (red) runs to Avinguda Carrilet, a direct ride of about twenty minutes from Plaça de Catalunya. FGC trains from Plaça Espanya also stop at L'Hospitalet–Av. Carrilet.
   - q: Is it seated or standing?
-    a: Sala Salamandra is a standing club venue with a low stage. Where you stand depends on when you joined the queue, so fans usually line up well before doors open to get near the barrier.
+    a: Sala Salamandra is a standing club venue with a low stage. At standing shows there, position depends on arrival order, so fans usually line up well before doors open to get near the barrier.
   - q: How do people get back after the show on a weeknight?
-    a: From Monday to Thursday the Barcelona metro stops around midnight. Fans who leave later usually take the NitBus night buses or a taxi back to central Barcelona.
+    a: From Monday to Thursday the Barcelona metro stops around midnight. After late weeknight shows, concertgoers usually take the NitBus night buses or a taxi back to central Barcelona.
   - q: Where do concertgoers usually stay?
     a: Plaça Espanya and the area around Sants station are popular. Both are a short metro or train ride from the venue and have good links to the rest of the city and the airport.
 aiGenerated: true
@@ -41,9 +41,9 @@ draft: false
 ---
 ## A club show, not an arena
 
-Young Posse are playing Barcelona in a room, not a stadium. The date is Thursday, October 29, 2026, and the venue is Sala Salamandra. That puts a K-pop girl group in the kind of club where the front barrier sits a few steps from the stage lip.
+Young Posse's Barcelona date was set for a room, not a stadium: Thursday, October 29, 2026, at Sala Salamandra. That put a K-pop girl group in the kind of club where the front barrier sits a few steps from the stage lip.
 
-This is the Barcelona leg of **PILOT3: The 1st FLIGHT TO EUROPE**, the group's first tour of the continent. For European fans who have only seen them through a phone screen, it is a first chance to hear the rap-heavy, hip-hop-leaning sound live. That sound has set the group apart since their 2023 debut with "Macaroni Cheese".
+This was the Barcelona leg of **PILOT3: The 1st FLIGHT TO EUROPE**, the group's first tour of the continent. For European fans who had only seen them through a phone screen, it promised a first chance to hear the rap-heavy, hip-hop-leaning sound live. That sound has set the group apart since their 2023 debut with "Macaroni Cheese".
 
 ## Sala Salamandra, explained
 
@@ -59,9 +59,9 @@ The layout makes for a particular kind of night:
 
 The metro makes the trip easy. Line 1 (red) runs to **Avinguda Carrilet**, the stop closest to the venue. From Plaça de Catalunya the ride is direct, with no change, and takes about twenty minutes.
 
-FGC suburban trains from Plaça Espanya also stop at L'Hospitalet–Av. Carrilet. That helps if you are staying near Montjuïc or along Gran Via. Taxis and ride-hail cars reach the area from central Barcelona in about the same time as the metro, traffic allowing.
+FGC suburban trains from Plaça Espanya also stop at L'Hospitalet–Av. Carrilet, which suits anyone staying near Montjuïc or along Gran Via. Taxis and ride-hail cars reach the area from central Barcelona in about the same time as the metro, traffic allowing.
 
-October 29 falls on a weeknight. Barcelona's metro does not run through the night on weekdays, so fans who stay for merch or the crowd outside afterwards often go home on the NitBus night buses or by taxi instead.
+October 29, 2026 was a Thursday. Barcelona's metro does not run through the night on weekdays, so concertgoers at weeknight shows often go home on the NitBus night buses or by taxi instead.
 
 ## Queues, lightsticks and getting home: how the night works
 
@@ -78,12 +78,12 @@ Spanish evenings start late, and dinner in many neighbourhood restaurants doesn'
 
 ## Tickets and the details that matter
 
-The facts on this page are fixed: Young Posse, Sala Salamandra, October 29, 2026. Prices, ticket tiers and any extra packages are on the tour's own ticket page, so this guide gives no figures.
+The announced essentials were Young Posse, Sala Salamandra and October 29, 2026. Tickets, including the price tiers and any extra packages, were sold through the tour's own ticket page.
 
-Door and show times, support acts and setlist are not covered here either. They vary from city to city on tours like this. Bag rules come from the venue, and clubs of this size generally keep bags small and do not allow professional cameras.
+On tours like this, door and show times, support acts and setlists vary from city to city. Bag rules come from the venue, and clubs of this size generally keep bags small and do not allow professional cameras.
 
 ## Around the show
 
-L'Hospitalet is mostly residential, so it makes sense to plan the rest of the day in Barcelona. Sants and Hostafrancs are just over the border. Their small bars along Carrer de Sants and Carrer de la Creu Coberta make an easy stop before the show.
+L'Hospitalet is mostly residential, and most of the sightseeing is in Barcelona proper. Sants and Hostafrancs are just over the border, and their small bars along Carrer de Sants and Carrer de la Creu Coberta make an easy stop before a show.
 
-Montjuïc is a short ride from Plaça Espanya, and you can spend an afternoon among its gardens, the Fundació Joan Miró and the MNAC. Visitors who are only in town for the concert often stay near Plaça Espanya or Sants station. Both are a short metro or train ride from the venue and well connected to the airport.
+Montjuïc is a short ride from Plaça Espanya, with its gardens, the Fundació Joan Miró and the MNAC. Visitors in town for a concert often stay near Plaça Espanya or Sants station. Both are a short metro or train ride from the venue and well connected to the airport.

@@ -1,61 +1,61 @@
 ---
 lang: es
 slug: macau-2026-plave-world-tour-keep-it-manic-in-macao
-srcHash: 'c2e93753f959'
+srcHash: 'c7b8ebfbe410'
 title: 'Gira mundial de PLAVE 2026 [KEEP IT MANIC] en Macao: fechas, entradas y recinto'
-description: La gira mundial de PLAVE 2026 [KEEP IT MANIC] incluía dos conciertos en Macao del grupo virtual masculino de K-pop, en The Londoner Arena (Cotai). Las fechas anunciadas eran el 31 de octubre y el 1 de noviembre de 2026.
-quickAnswer: La gira mundial de PLAVE 2026 [KEEP IT MANIC] tenía en Macao dos conciertos del grupo virtual masculino de K-pop, en The Londoner Arena, en Cotai. Las fechas anunciadas eran el 31 de octubre y el 1 de noviembre de 2026. En su web oficial, el organizador publicó los enlaces de venta de entradas y la información sobre la distribución de asientos. Lo habitual entre los fans era llegar al recinto en las lanzaderas gratuitas de los complejos turísticos o en un breve trayecto en taxi desde la Terminal Marítima de Taipa (Taipa Ferry Terminal) o desde el puesto fronterizo del puente Hong Kong-Zhuhai-Macao.
+description: La gira mundial de PLAVE 2026 [KEEP IT MANIC] tenía como sede en Macao The Londoner Arena, en Cotai, con dos conciertos anunciados para el 31 de octubre y el 1 de noviembre de 2026.
+quickAnswer: Con la gira mundial [KEEP IT MANIC] de 2026, el grupo virtual masculino de K-pop PLAVE iba a actuar en The Londoner Arena, en Cotai (Macao). Las fechas anunciadas eran el 31 de octubre y el 1 de noviembre de 2026, con un concierto cada día. El organizador de la gira se encargaba de vender las entradas, que incluían la distribución de los asientos y las normas de acceso. Los fans suelen llegar al recinto en los autobuses lanzadera gratuitos de los complejos turísticos. Otra opción es un breve trayecto en taxi desde la Terminal Marítima de Taipa o desde el puesto fronterizo del puente Hong Kong–Zhuhai–Macao.
 faq:
   - q: ¿Cuándo y dónde era la gira KEEP IT MANIC de PLAVE en Macao?
-    a: Se anunciaron dos conciertos en The Londoner Arena, dentro de The Londoner Macao, en el Cotai Strip. Las fechas eran el 31 de octubre y el 1 de noviembre de 2026.
-  - q: ¿Cómo se llegaba a The Londoner Arena desde Hong Kong?
-    a: La mayoría de los fans tomaba un ferri de Cotai Water Jet hasta la Terminal Marítima de Taipa (Taipa Ferry Terminal) o un autobús que cruza el puente Hong Kong-Zhuhai-Macao. Desde cualquiera de los dos puntos, el último tramo hasta Cotai se cubre en las lanzaderas gratuitas de los complejos de Sands o en taxi.
+    a: Se programaron dos conciertos en The Londoner Arena, dentro del complejo The Londoner Macao, en la franja de Cotai. Las fechas anunciadas eran el 31 de octubre y el 1 de noviembre de 2026.
+  - q: ¿Cómo se llega a The Londoner Arena desde Hong Kong?
+    a: La mayoría de los fans toma un ferry de Cotai Water Jet hasta la Terminal Marítima de Taipa o un autobús que cruza el puente Hong Kong–Zhuhai–Macao. Desde cualquiera de los dos puntos, el último tramo hasta Cotai se cubre en las lanzaderas gratuitas de los complejos de Sands o en taxi.
   - q: ¿Dónde se publicaba la información sobre entradas y asientos?
-    a: El organizador publicó en su web oficial los enlaces de venta, los planos de asientos y las normas de acceso. Las normas sobre cámaras y bolsos de cada concierto figuraban en las condiciones de la entrada.
+    a: El organizador de la gira vendía las entradas, y cada compra incluía los planos de asientos y las normas de acceso. Las normas sobre cámaras y bolsos de cada concierto figuraban en las condiciones de la entrada.
   - q: ¿Cómo es un concierto de PLAVE si sus integrantes son virtuales?
-    a: Unos intérpretes reales cantan en directo con trajes de captura de movimiento, mientras sus avatares en 3D aparecen en tiempo real en enormes pantallas LED. Tanto la voz como la interacción con el público suceden en directo en la sala.
+    a: Unos artistas reales cantan en directo con trajes de captura de movimiento, mientras sus avatares en 3D aparecen al instante en gigantescas pantallas LED. Tanto las voces como la interacción con los fans suceden en directo en la sala.
   - q: ¿Qué hay cerca del recinto?
-    a: The Venetian Macao y The Parisian Macao están comunicados con The Londoner mediante pasillos cubiertos. La Vila da Taipa (Taipa Village) y el Centro Histórico de Macao quedan a un breve trayecto en taxi.
+    a: The Venetian Macao y The Parisian Macao comunican con The Londoner mediante pasarelas cubiertas. La Vila de Taipa y el Centro Histórico de Macao quedan a un breve trayecto en taxi.
 ---
 
 ## Dos noches de avatares en Cotai
 
-PLAVE es un grupo masculino de cinco integrantes: Yejun, Noah, Bamby, Eunho y Hamin. Sobre el escenario aparecen como personajes animados en 3D. Detrás de ellos hay intérpretes reales que cantan y se mueven con trajes de captura de movimiento, y sus avatares cobran vida en tiempo real en pantallas LED del tamaño de una pared. El resultado combina voces en directo, charla espontánea con el público y coreografías que responden al ambiente de la sala.
+PLAVE es un grupo masculino de cinco integrantes: Yejun, Noah, Bamby, Eunho y Hamin. Sobre el escenario adoptan la forma de personajes animados en 3D. Detrás de ellos hay artistas reales que cantan y bailan con trajes de captura de movimiento, y sus avatares cobran vida al instante en pantallas LED del tamaño de una pared. El resultado combina voces en directo, conversación espontánea con el público y coreografías que responden al ambiente de la sala.
 
-La gira KEEP IT MANIC hacía escala en Macao con dos conciertos. Las fechas anunciadas eran el sábado 31 de octubre y el domingo 1 de noviembre de 2026. La primera noche coincidía con Halloween. Ese fin de semana, los complejos de Cotai suelen engalanarse con decoración de temporada, de modo que los pasillos que rodean el recinto lucen más festivos de lo habitual.
+La gira KEEP IT MANIC tenía previsto hacer escala en Macao con dos conciertos, el sábado 31 de octubre y el domingo 1 de noviembre de 2026. La primera noche coincidía con Halloween. Ese fin de semana, los complejos de Cotai suelen engalanarse con decoración de temporada, lo que da a los pasillos que rodean el recinto un aire más festivo de lo habitual.
 
 ## The Londoner y cómo llegar
 
-The Londoner Arena se encuentra dentro de The Londoner Macao, en el Cotai Strip. La fachada del complejo reproduce el palacio de Westminster, y sobre la entrada principal se alza una torre del reloj inspirada en el Big Ben. Unos pasillos cubiertos lo comunican con The Venetian Macao y The Parisian Macao, así que es posible recorrer los tres sin salir a la humedad del exterior.
+The Londoner Arena se encuentra dentro del complejo The Londoner Macao, en la franja de Cotai (Cotai Strip). Su fachada reproduce el palacio de Westminster, y sobre la entrada principal se alza una torre del reloj inspirada en el Big Ben. Gracias a unas pasarelas cubiertas, el complejo comunica con The Venetian Macao y The Parisian Macao, de modo que es posible recorrer los tres sin salir a la humedad del exterior.
 
-La mayoría de los visitantes llegaba por uno de estos tres accesos:
+La mayoría de los visitantes llega por uno de estos tres accesos:
 
-- **Desde Hong Kong en ferri:** los barcos de Cotai Water Jet cubren la ruta hasta la Terminal Marítima de Taipa (Taipa Ferry Terminal), a poca distancia de Cotai.
-- **Desde Hong Kong por carretera:** varios autobuses transfronterizos cruzan el puente Hong Kong-Zhuhai-Macao hasta el puesto fronterizo de Macao.
-- **Desde China continental:** el paso fronterizo de las Portas do Cerco (Border Gate), con entrada desde Zhuhai.
+- **Desde Hong Kong en ferry:** Cotai Water Jet cubre la ruta hasta la Terminal Marítima de Taipa, a poca distancia de Cotai.
+- **Desde Hong Kong por carretera:** varios autobuses transfronterizos cruzan el puente Hong Kong–Zhuhai–Macao hasta el puesto fronterizo de Macao.
+- **Desde China continental:** el paso fronterizo de Portas do Cerco (Border Gate), procedente de Zhuhai.
 
-Los complejos de Sands ofrecen autobuses lanzadera gratuitos entre estas terminales y sus propiedades de Cotai, y era la forma más habitual de llegar entre los fans. En todas las terminales hay colas de taxis. La línea de Taipa del Metro Ligero de Macao también da servicio a la zona de Cotai.
+Desde estas terminales, los complejos de Sands ofrecen autobuses lanzadera gratuitos hasta sus establecimientos de Cotai, y es así como suelen llegar los fans al recinto. A la salida de cada terminal hay también una fila de taxis. Además, la línea de Taipa del Metro Ligero de Macao da servicio a la zona de Cotai.
 
-## Noche de concierto en Cotai
+## La noche del concierto en Cotai
 
-Los fans de PLAVE se hacen llamar PLLI, y en las filas el bastón de luz oficial suele verse por todas partes. Muchos llevan además pancartas impresas y artículos con el color de su integrante favorito. En los conciertos de K-pop en grandes recintos, las colas para la mercancía oficial suelen formarse horas antes de la apertura de puertas. Por eso muchos asistentes pasan primero por el puesto de productos y dejan la comida para después.
+Los fans del grupo se hacen llamar PLLI, y en sus conciertos abunda la barra luminosa oficial. Muchos llevan también pancartas impresas y artículos con los colores de cada integrante. En los conciertos de K-pop en grandes recintos, las colas para comprar productos oficiales suelen formarse horas antes de la apertura de puertas; por eso muchos asistentes pasan primero por el puesto de productos y dejan la comida para después.
 
-Algunas costumbres prácticas resultaban útiles:
+Conviene tener en cuenta algunas costumbres locales:
 
-- **Pagos:** las tiendas y los restaurantes de los complejos aceptan tarjeta. El dólar de Hong Kong se admite ampliamente junto a la pataca de Macao, aunque los taxistas prefieren el efectivo.
-- **Idioma:** el cantonés y el portugués son lenguas oficiales y el mandarín está muy extendido. Dentro de los complejos es posible entenderse en inglés.
-- **Fotografía:** cada concierto tenía sus propias normas sobre cámaras, recogidas en las condiciones de la entrada. Las restricciones a la grabación con el móvil suelen hacerse cumplir en los asientos.
+- **Pagos:** las tiendas y los restaurantes de los complejos aceptan tarjeta. Junto a la pataca de Macao circula ampliamente el dólar de Hong Kong, aunque los taxistas prefieren el efectivo.
+- **Idioma:** el cantonés y el portugués son las lenguas oficiales, el mandarín está muy extendido y dentro de los complejos es posible entenderse en inglés.
+- **Fotografía:** las condiciones de cada entrada recogían las normas sobre cámaras propias de cada concierto. En los asientos se suele vigilar que se cumplan las normas sobre grabación con el móvil.
 
-Al terminar un concierto, miles de personas salen a la vez y las paradas de lanzaderas y de taxis se colapsan enseguida. Muchos fans optan por quedarse en los complejos conectados para cenar tarde mientras se dispersa la multitud.
+Al terminar un concierto en un gran recinto, miles de personas salen a la vez y las paradas de lanzaderas y de taxis se saturan enseguida. Muchos fans se quedan a cenar tarde en los complejos conectados mientras se dispersa la multitud.
 
 ## Alojamiento y planes para el fin de semana
 
-Dormir en Cotai ahorra el trayecto nocturno hasta la península. The Londoner, The Venetian, The Parisian, Conrad y Sheraton están todos conectados bajo un mismo techo. Quienes viajan con un presupuesto más ajustado suelen alojarse en la Vila da Taipa (Taipa Village) o en la península de Macao, ambas a unos quince minutos en taxi.
+Quien duerme en Cotai se ahorra el trayecto nocturno hasta la península. The Londoner, The Venetian, The Parisian, Conrad y Sheraton están comunicados bajo un mismo techo. Los fans con un presupuesto más ajustado suelen alojarse en la Vila de Taipa o en la península de Macao, ambas a unos quince minutos en taxi.
 
-Las horas previas a un concierto se llenan casi solas:
+En Cotai y sus alrededores no faltan planes para llenar un día:
 
-- **Vila da Taipa:** en los puestos de la Rua do Cunha se venden bocadillos de chuleta de cerdo y galletas de almendra.
-- **Centro Histórico de Macao:** declarado Patrimonio Mundial por la UNESCO, reúne el Largo do Senado y las Ruinas de San Pablo.
-- **The Venetian:** sus canales interiores con góndolas quedan a diez minutos a pie a través de los centros comerciales conectados.
+- **Vila de Taipa:** en los puestos de la Rua do Cunha se venden bocadillos de chuleta de cerdo y galletas de almendra.
+- **Centro Histórico de Macao:** el Largo del Senado y las Ruinas de San Pablo, declarados Patrimonio de la Humanidad por la UNESCO.
+- **The Venetian:** canales interiores con góndolas, a diez minutos a pie por los centros comerciales conectados.
 
-Como los dos conciertos caían en días consecutivos, muchos fans llegados del extranjero planteaban un viaje de tres noches para asistir a ambos.
+Como los dos conciertos eran en días consecutivos, los fans que viajan desde el extranjero suelen convertir una escapada así en un viaje de tres noches y asistir a ambos.

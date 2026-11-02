@@ -1,75 +1,75 @@
 ---
 lang: es
 slug: ulaanbaatar-mesa-pro-series-halloween-cup-2026
-srcHash: '718a94ee65fe'
+srcHash: '5bb743606dfe'
 title: 'MESA Pro Series Halloween Cup 2026: fechas, entradas y sede (Ulán Bator)'
-description: La MESA Pro Series Halloween Cup 2026 era un torneo LAN de Counter-Strike 2 en Ulán Bator (Ulaanbaatar), Mongolia. Las fechas anunciadas iban del martes 27 al jueves 29 de octubre de 2026.
-quickAnswer: La MESA Pro Series Halloween Cup 2026 era un torneo LAN de Counter-Strike 2 en Ulán Bator (Ulaanbaatar), Mongolia, programado del martes 27 al jueves 29 de octubre de 2026. El organizador publicaba la sede, el calendario de partidas y los enlaces de venta de entradas en los canales oficiales de MESA Pro Series. A finales de octubre hace mucho frío en la capital mongola, así que los visitantes suelen llevar ropa de abrigo por capas y moverse en trayectos cortos de taxi entre el recinto y el hotel.
+description: La MESA Pro Series Halloween Cup 2026, un torneo LAN de Counter-Strike 2 en Ulán Bator (Mongolia), tenía como fechas del 27 al 29 de octubre de 2026.
+quickAnswer: La MESA Pro Series Halloween Cup 2026 era un torneo LAN de Counter-Strike 2 con sede en Ulán Bator (Mongolia). Las fechas anunciadas iban del martes 27 al jueves 29 de octubre de 2026. El organizador, MESA Pro Series, se encargaba del recinto, del calendario de partidos y de la venta de entradas. A finales de octubre hace mucho frío en la capital mongola, así que los visitantes suelen abrigarse por capas y desplazarse en taxi entre el pabellón y el hotel, en trayectos cortos.
 faq:
   - q: ¿Cuándo era la MESA Pro Series Halloween Cup 2026?
-    a: Las fechas anunciadas eran del martes 27 al jueves 29 de octubre de 2026, en Ulán Bator (Mongolia). Las tres jornadas caían entre semana, justo antes de Halloween.
+    a: Sus fechas iban del martes 27 al jueves 29 de octubre de 2026, en Ulán Bator (Mongolia). Las tres jornadas caían entre semana, justo antes de Halloween.
   - q: ¿Dónde estaba la sede y cómo se conseguían las entradas?
-    a: El organizador publicaba la sede, el calendario y los enlaces de venta de entradas en las páginas oficiales y las redes sociales de MESA Pro Series. Esa era la fuente para conocer la dirección, el horario de apertura de puertas y las condiciones de acceso.
+    a: El torneo se concibió como un evento LAN en Ulán Bator. Del pabellón, del horario de apertura de puertas y de las condiciones de acceso se ocupaba el organizador, MESA Pro Series.
   - q: ¿Qué tiempo hace en Ulán Bator a finales de octubre?
-    a: Hace frío. Durante el día las temperaturas rondan a menudo los cero grados, y por la noche caen muy por debajo. Como los edificios están muy caldeados, los visitantes suelen vestirse por capas que puedan quitarse al entrar.
+    a: Hace frío. De día, el termómetro suele rondar los cero grados y por la noche baja bastante más. Como los edificios tienen una calefacción muy potente, los visitantes suelen vestirse con capas que puedan quitarse al entrar.
   - q: ¿Cómo se llega del aeropuerto al centro de Ulán Bator?
-    a: El Aeropuerto Internacional Gengis Kan está a unos 50 km al sur de la ciudad. En taxi o traslado, el trayecto suele durar alrededor de una hora, y el tráfico del centro puede alargarlo.
-  - q: ¿Qué más había para ver cerca del centro entre partidas?
-    a: La plaza Sükhbaatar (o plaza Chinggis) y el Palacio de Gobierno se encuentran en pleno centro, con el Museo Nacional de Mongolia muy cerca. El monasterio de Gandan queda a un corto trayecto hacia el oeste, y desde el Memorial de Zaisan, en el extremo sur de la ciudad, se domina toda la urbe.
+    a: El Aeropuerto Internacional Gengis Kan (Chinggis Khaan International Airport) está a unos 50 km al sur de la ciudad. En taxi o traslado se tarda alrededor de una hora, y el tráfico del centro puede alargar el trayecto.
+  - q: ¿Qué había para ver cerca del centro entre partido y partido?
+    a: En pleno centro se encuentran la plaza Sükhbaatar (o plaza Gengis Kan) y el Palacio de Gobierno, con el Museo Nacional de Mongolia a poca distancia. Hacia el oeste, a un breve trayecto, está el monasterio de Gandan, y desde el monumento de Zaisan, en el extremo sur de la ciudad, se domina toda Ulán Bator.
 ---
 
 ## Tres días de CS2 en la capital de Mongolia
 
-Se trataba de una LAN, y eso lo cambia todo. La MESA Pro Series Halloween Cup 2026 reunía en una misma sala de Ulán Bator a equipos de Counter-Strike 2, y las fechas anunciadas eran del 27 al 29 de octubre de 2026. Todos los jugadores compartían la misma red local y competían a pocos metros del público.
+Se trataba de un torneo LAN, y eso lo cambia todo. Las fechas anunciadas para la MESA Pro Series Halloween Cup 2026 eran del 27 al 29 de octubre de 2026, con equipos de Counter-Strike 2 reunidos en una misma sala de Ulán Bator. En una LAN, todos los jugadores comparten la misma red local y compiten a pocos metros del público.
 
-Las tres jornadas caían en martes, miércoles y jueves, justo antes del propio Halloween. Era, por tanto, un evento entre semana. Los aficionados locales suelen encajar las sesiones entre el trabajo y la universidad, mientras que los visitantes tenían el lujo de poder asistir todos los días.
+Las tres jornadas caían en martes, miércoles y jueves, justo antes del propio Halloween. Era, por tanto, una cita entre semana. Los aficionados locales suelen encajar este tipo de sesiones entre el trabajo y la universidad. A quien venía de fuera, en cambio, tres días seguidos le permitían asistir a todas las sesiones.
 
-El escenario también cuenta. Mongolia se ha convertido en uno de los bastiones inesperados de Counter-Strike. The MongolZ han llevado la bandera del país muy lejos en las competiciones internacionales, y gracias a ese éxito Ulán Bator cuenta con una afición local que conoce el juego al detalle.
+El escenario también cuenta. Mongolia se ha convertido, contra todo pronóstico, en uno de los grandes bastiones del Counter-Strike. The MongolZ han llevado la bandera del país muy lejos en las competiciones internacionales, y ese éxito ha dado a Ulán Bator una afición local que conoce el juego al detalle.
 
-## Cómo se vive una LAN de CS2 en la sala
+## Así se vive una LAN de CS2 desde la grada
 
-Una vez que se capta el ritmo, el formato resulta fácil de seguir. Dos equipos de cinco disputan un mapa y, según el reglamento competitivo estándar de CS2, se lo lleva el primero que gana 13 rondas. Como las rondas son breves e intensas, el ruido de la sala sube y baja cada par de minutos.
+Una vez que se le coge el ritmo, el formato resulta fácil de seguir. Dos equipos de cinco jugadores se disputan un mapa y, según las reglas competitivas estándar de CS2, lo gana el primero que llega a 13 rondas. Las rondas son breves e intensas, de modo que el ruido de la sala sube y baja cada par de minutos.
 
 En una LAN típica se encuentra lo siguiente:
 
-- Cabinas en el escenario con los jugadores frente a sus monitores y, por encima, grandes pantallas con la retransmisión principal
+- Los jugadores, en cabinas sobre el escenario y frente a sus monitores, mientras la retransmisión principal se proyecta en pantallas gigantes por encima de ellos
 - Comentaristas que narran la acción en directo, normalmente en mongol cuando se trata de una liga nacional
-- Tiempos muertos y pausas tácticas, momentos en que la sala enmudece mientras se proyectan las repeticiones
-- El cambio entre mapas, que es cuando la gente aprovecha para ir a por comida y bebida
+- Tiempos muertos y pausas tácticas, durante los cuales la sala enmudece y se emiten las repeticiones
+- Un descanso entre mapas, que el público aprovecha para ir a comer y beber
 
-Qué alineaciones participaban y con qué cuadro era decisión del organizador. Esta guía no menciona equipos ni formato para esta edición.
+La elección de las plantillas y del formato del cuadro en esta edición correspondía al organizador.
 
-## Sede, entradas y dónde se publicaban los detalles
+## Sede, entradas y dónde se publicaba la información
 
-El organizador publicaba la sede, el calendario diario y los enlaces de venta de entradas en las páginas oficiales y las redes sociales de MESA Pro Series. Esa era la única fuente para conocer la dirección del recinto, el horario de apertura de puertas y las condiciones de acceso. Esta página no menciona ninguna sede porque no se nos ha facilitado.
+El recinto, el calendario diario y la venta de entradas de la Halloween Cup dependían del organizador, MESA Pro Series. La dirección del pabellón, el horario de apertura de puertas y las condiciones de acceso los comunicaba el propio organizador.
 
-En Mongolia, los eventos de esports suelen promocionarse a través de páginas de Facebook, que siguen siendo el principal tablón de anuncios público del país. Quienes siguen la liga reciben allí las novedades, además de a través de las retransmisiones. Las partidas de LAN como esta también se emiten habitualmente en streaming, de modo que cualquiera que estuviera fuera de la ciudad podía seguirlas.
+En Mongolia, los eventos de deportes electrónicos suelen promocionarse a través de páginas de Facebook, que siguen siendo el principal tablón de anuncios público del país. Quienes siguen una liga reciben allí las novedades, además de en las retransmisiones. Es habitual que los partidos de este tipo de LAN se emitan también en directo, lo que permite seguirlos desde fuera de la ciudad.
 
 ## Ulán Bator a finales de octubre
 
-Aquí, finales de octubre marca el comienzo del invierno. Ulán Bator es la capital nacional más fría del mundo y, cuando acaba el mes, las temperaturas diurnas rondan a menudo los cero grados, mientras que por la noche caen muy por debajo. Los edificios, en cambio, están muy caldeados gracias a la red de calefacción central de la ciudad, así que dentro del recinto haría calor.
+Con el final de octubre empieza aquí el invierno. Ulán Bator es la capital más fría del mundo y, a finales de mes, las máximas diurnas suelen rondar los cero grados, mientras que por la noche se baja muy por debajo. En el interior, la red de calefacción central de la ciudad mantiene los edificios muy caldeados, así que los pabellones resultan cálidos.
 
-Los visitantes suelen vestirse por capas fáciles de quitar: un buen plumífero, gorro y guantes para el trayecto a pie y una camiseta debajo. El aire es seco, y con el inicio de la temporada de calefacción se acumula el esmog de las estufas de los distritos de yurtas (ger). Por eso muchos visitantes llevan bálsamo labial y mascarilla.
+Los visitantes suelen vestirse por capas fáciles de quitar: un buen plumífero, gorro y guantes para el trayecto a pie y una camiseta debajo. El aire es seco y, con el inicio de la temporada de calefacción, se acumula el humo de las estufas de los barrios de yurtas (ger). Por eso muchos visitantes llevan bálsamo labial y mascarilla.
 
-En hora punta, el tráfico del centro es famoso por su lentitud, y los asistentes suelen dejar mucho margen de tiempo para cualquier desplazamiento por la ciudad.
+En hora punta, el tráfico del centro es famoso por su lentitud. Los habitantes de la ciudad suelen calcular con mucho margen cualquier desplazamiento de una punta a otra.
 
-## Entre el público mongol de Counter-Strike
+## En la grada con la afición mongola de Counter-Strike
 
-La afición local es ruidosa y entendida. Corea por su nombre a quienes resuelven las rondas decisivas, y en las tensas rondas de compra arrancan los cánticos a favor de los equipos locales. Sumarse a ellos se agradece; abuchear el error de un jugador, en cambio, no está bien visto.
+El público local es ruidoso y entendido. Las rondas decisivas se celebran coreando el nombre del jugador, y en las rondas de compra más tensas arrancan los cánticos a favor de los equipos de casa. Sumarse es bienvenido; abuchear el error de un jugador, en cambio, está mal visto.
 
 Algunas costumbres útiles:
 
-- **Pagos:** la tarjeta se acepta en la mayoría de cafeterías, centros comerciales y hoteles, y los locales recurren mucho a QPay, la aplicación de pago por código QR. En los quioscos pequeños viene bien llevar algo de efectivo en tögrög.
-- **Desplazamientos:** la forma más sencilla de pedir un coche es la aplicación UBCab. Mucha gente también para coches particulares que hacen de taxis informales, algo que los visitantes que no hablan mongol suelen evitar.
-- **Idioma:** «Sain baina uu» significa hola, y «bayarlalaa», gracias. Los aficionados más jóvenes a menudo hablan algo de inglés, y el vocabulario de los videojuegos es universal.
-- **Asientos:** en las LAN, los habituales suelen hacerse con sitios cerca de las primeras filas durante la pausa entre mapas, cuando quedan butacas libres.
+- **Pagos:** las tarjetas se aceptan en la mayoría de cafeterías, centros comerciales y hoteles, y los mongoles recurren muchísimo a QPay, la aplicación de pago por código QR. En los quioscos pequeños viene bien llevar algo de efectivo en tugriks (tögrög).
+- **Desplazamientos:** la aplicación UBCab es la forma más sencilla de pedir un coche. Mucha gente también para coches particulares que hacen de taxis no oficiales, algo que los visitantes que no hablan mongol suelen evitar.
+- **Idioma:** «Sain baina uu» significa hola, y «bayarlalaa», gracias. Los aficionados más jóvenes suelen hablar algo de inglés, y el vocabulario de los videojuegos es universal.
+- **Asientos:** en las LAN, los habituales aprovechan el descanso entre mapas, cuando quedan sitios libres, para hacerse con un hueco en las primeras filas.
 
 ## Entre jornada y jornada
 
-El centro es lo bastante compacto como para llenar una mañana libre. La plaza Sükhbaatar, también llamada plaza Chinggis, es el corazón institucional de la capital. Frente a ella se alza el Palacio de Gobierno, con su enorme estatua sedente de Gengis Kan.
+El centro de la ciudad es lo bastante compacto como para recorrerlo en una mañana libre. La plaza Sükhbaatar, también llamada plaza Gengis Kan, es el corazón institucional de la capital. Frente a ella se alza el Palacio de Gobierno, con su enorme estatua sedente de Gengis Kan.
 
-A poca distancia hacia el oeste se encuentra el monasterio de Gandan, el monasterio budista más importante del país. Su templo principal alberga una altísima estatua en pie de Avalokiteshvara, a la que allí se conoce como Migjid Janraisig. Cerca de la plaza, el Museo Nacional de Mongolia ofrece un recorrido rápido por los imperios de la estepa.
+A un breve trayecto hacia el oeste se encuentra el monasterio de Gandan, el más importante del budismo en el país. Su templo principal alberga una imponente estatua en pie de Avalokiteshvara, conocida aquí como Migjid Janraisig. Cerca de la plaza, el Museo Nacional de Mongolia ofrece un repaso rápido por los imperios de la estepa.
 
-Para contemplar todo el valle, el Memorial de Zaisan se levanta sobre una colina en el extremo sur de la ciudad. Por la noche, los restaurantes de la zona de Seoul Street y de los grandes almacenes estatales (State Department Store) ofrecen de todo, desde las empanadillas buuz hasta la barbacoa coreana. Por eso resultan un lugar natural para cenar después de las partidas.
+Para contemplar todo el valle, el monumento de Zaisan corona una colina en el extremo sur de la ciudad. Por la noche, los restaurantes de la calle Seúl (Seoul Street) y de los alrededores de los Grandes Almacenes del Estado (State Department Store) ofrecen de todo, desde empanadillas buuz hasta barbacoa coreana, lo que los convierte en el lugar ideal para cenar después de los partidos.
 
-Los visitantes internacionales llegan al Aeropuerto Internacional Gengis Kan (Chinggis Khaan International Airport), situado a unos 50 km al sur del centro. Según el tráfico, el trayecto hasta la ciudad suele durar alrededor de una hora.
+Los viajeros internacionales llegan al Aeropuerto Internacional Gengis Kan (Chinggis Khaan International Airport), a unos 50 km al sur del centro. El trayecto hasta la ciudad suele durar alrededor de una hora, según el tráfico.

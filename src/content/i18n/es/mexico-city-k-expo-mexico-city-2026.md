@@ -1,55 +1,55 @@
 ---
 lang: es
 slug: mexico-city-k-expo-mexico-city-2026
-srcHash: '4cda3ceb6eab'
+srcHash: '6e1759f4612b'
 title: 'K-Expo Mexico City 2026: fechas, entradas y sede (Ciudad de México)'
-description: La K-Expo Mexico City 2026 era un festival gratuito de cultura coreana en el World Trade Center de la colonia Nápoles, en la Ciudad de México, programado para alrededor de septiembre de 2026.
-quickAnswer: La K-Expo Mexico City 2026 era un festival gratuito de cultura coreana en el World Trade Center de la colonia Nápoles, en la Ciudad de México, previsto para alrededor de septiembre de 2026. No se cobraba la entrada a las salas de exposición, donde había espacios de K-beauty, K-drama y videojuegos, además de un Random Play Dance de K-pop. Solo el concierto Korea Spotlight, en el Pepsi Center WTC, requería entrada de pago.
+description: K-Expo Mexico City 2026, un festival gratuito de cultura coreana, tenía como fecha prevista septiembre de 2026, aproximadamente, en el World Trade Center de la colonia Nápoles, en Ciudad de México.
+quickAnswer: K-Expo Mexico City 2026 era un festival gratuito de cultura coreana anunciado para septiembre de 2026, aproximadamente, en el World Trade Center de la colonia Nápoles, en Ciudad de México. El acceso a las salas de exposición era libre. Allí había espacios de K-beauty, K-drama y videojuegos, además de un K-Pop Random Play Dance. Solo se pagaba entrada para el concierto Korea Spotlight, en el Pepsi Center WTC.
 faq:
-  - q: ¿Cuándo era la K-Expo Mexico City 2026?
-    a: La edición 2026 estaba programada para alrededor de septiembre. El organizador publicaba los días exactos en sus canales oficiales.
-  - q: ¿Dónde tenía lugar la K-Expo Mexico City?
-    a: En el World Trade Center (WTC) de la avenida de los Insurgentes, en la colonia Nápoles. El concierto Korea Spotlight correspondía al Pepsi Center WTC, situado dentro del mismo complejo.
-  - q: ¿Hacía falta entrada para la K-Expo?
-    a: 'Para las salas de exposición no se necesitaba entrada: las zonas de K-beauty, K-drama y videojuegos, así como el Random Play Dance de K-pop, eran gratuitas. Solo el concierto Korea Spotlight, en el Pepsi Center WTC, era de pago.'
+  - q: ¿Cuándo era K-Expo Mexico City 2026?
+    a: La edición de 2026 estaba prevista para septiembre, aproximadamente, en el World Trade Center de la colonia Nápoles.
+  - q: ¿Dónde se ubicaba K-Expo Mexico City?
+    a: En el World Trade Center (WTC) de la avenida de los Insurgentes, en la colonia Nápoles. El concierto Korea Spotlight estaba programado en el Pepsi Center WTC, que se encuentra dentro del mismo complejo.
+  - q: ¿Hacía falta entrada para K-Expo?
+    a: No se necesitaba entrada para las salas de exposición. Las zonas de K-beauty, K-drama y videojuegos eran gratuitas, igual que el K-Pop Random Play Dance. Solo se pagaba entrada para el concierto Korea Spotlight, en el Pepsi Center WTC.
   - q: ¿Cómo se llegaba al WTC en transporte público?
-    a: La Línea 1 del Metrobús recorre Insurgentes y para en Poliforum, justo al lado del WTC y del Polyforum Cultural Siqueiros.
-  - q: ¿Cómo funcionaba el Random Play Dance?
-    a: Sonaban fragmentos breves de canciones de K-pop en orden aleatorio. Quien conociera la coreografía entraba en la pista abierta a bailar y se retiraba al cambiar la canción. No hacía falta inscribirse.
+    a: La Línea 1 del Metrobús recorre Insurgentes y tiene parada en Poliforum, justo al lado del WTC y del Polyforum Cultural Siqueiros.
+  - q: ¿Cómo funciona el Random Play Dance?
+    a: Suenan fragmentos breves de canciones de K-pop en orden aleatorio. Quien conoce la coreografía entra en la pista abierta para bailar y sale en cuanto cambia la canción. No hace falta inscribirse.
 ---
 
-## Una torre y dos tipos de acceso
+## Una torre, dos formas de acceso
 
-Todo el evento se concentraba en una sola manzana. La K-Expo Mexico City 2026 ocupaba el World Trade Center, la alta torre acristalada de la avenida de los Insurgentes, en la colonia Nápoles. En sus salas de exposición se instalaba el festival gratuito, mientras que el espectáculo de pago Korea Spotlight correspondía al Pepsi Center WTC, el recinto de conciertos del mismo complejo.
+Todo el evento cabía en una sola manzana. Los planes de K-Expo Mexico City 2026 se concentraban en el World Trade Center, la alta torre de cristal de la avenida de los Insurgentes, en la colonia Nápoles. El festival gratuito iba a ocupar sus salas de exposiciones. El espectáculo de pago Korea Spotlight, por su parte, tenía como sede el Pepsi Center WTC, un recinto de conciertos situado dentro del mismo complejo.
 
-La edición 2026 estaba prevista para alrededor de septiembre. Los días exactos y el enlace de venta de entradas para el Korea Spotlight se daban a conocer en los canales oficiales del organizador. Como el acceso a la zona de exposición era libre, la mayoría del público la visitaba sin reserva alguna y solo pagaba por el concierto.
+La edición de 2026 estaba prevista para septiembre, aproximadamente. La entrada a la zona de exposición era libre y solo el concierto Korea Spotlight exigía entrada. En ferias gratuitas de este tipo, la mayoría del público recorre las salas sin más trámite y compra entrada únicamente para el concierto.
 
-## Las salas gratuitas por dentro
+## Dentro de las salas gratuitas
 
-La zona de exposición se dividía en áreas temáticas, cada una dedicada a una faceta de la ola coreana con gran número de seguidores en México:
+La zona de exposición se repartía en áreas temáticas. Cada una estaba dedicada a una faceta de la ola coreana que cuenta con muchos seguidores en México:
 
-- **K-beauty:** marcas de cosmética y cuidado de la piel, la categoría que suele acumular las filas más largas en casi todas las ferias de la hallyu.
-- **K-drama:** espacios dedicados a las series y a los actores que el público mexicano sigue en las plataformas de video bajo demanda.
-- **Videojuegos:** puestos para jugar, normalmente con su propia fila de espera.
-- **Random Play Dance de K-pop:** una pista abierta en la que sonaban fragmentos breves de canciones en orden aleatorio.
+- **K-beauty:** marcas de cuidado de la piel y de cosmética, la categoría que suele reunir las filas más largas en las ferias del hallyu.
+- **K-drama:** espacios dedicados a las series y a los actores que el público mexicano sigue en las plataformas digitales.
+- **Videojuegos:** puestos con juegos para probar, que en ferias como esta suelen tener su propia fila.
+- **K-Pop Random Play Dance:** una pista abierta en la que suenan fragmentos breves de canciones en orden aleatorio.
 
-En un Random Play Dance nadie se inscribe ni baila en solitario. En cuanto arrancaba un estribillo, todos los que conocían la coreografía corrían al centro, y al cortarse la canción volvían poco a poco hacia los bordes. Alrededor, los espectadores grababan con el teléfono.
+En un Random Play Dance nadie se inscribe ni baila en solitario. En cuanto arranca un estribillo, todos los que conocen la coreografía corren hacia el centro. Cuando se corta la canción, vuelven poco a poco al borde. Alrededor, los espectadores graban la escena con el teléfono.
 
 ## Korea Spotlight en el Pepsi Center WTC
 
-El concierto nocturno era la única parte de la K-Expo con entrada de pago. El Korea Spotlight tenía como sede el Pepsi Center WTC, una sala con zonas de pie y de butacas que acoge con frecuencia giras de pop y rock. La venta de entradas y el cartel de artistas se anunciaban en los canales del organizador y en la página de venta del recinto. En esta guía no figuran artistas ni precios porque no se facilitaron.
+El concierto nocturno era la única parte de K-Expo con entrada de pago. Korea Spotlight tenía como escenario el Pepsi Center WTC, una sala con zonas de pie y con asientos que recibe con frecuencia a artistas de pop y rock en gira.
 
-Al estar la sala dentro del propio WTC, muchos asistentes al concierto pasaban antes la tarde en la zona gratuita y después llegaban a las puertas del Pepsi Center sin salir del edificio.
+La sala de conciertos se encuentra dentro del WTC. Por eso, en eventos de este tipo, es habitual que el público del concierto pase antes la tarde en la zona gratuita y luego llegue a las puertas del Pepsi Center sin salir del edificio.
 
 ## Cómo moverse por Nápoles el día de la expo
 
-La mayoría de los visitantes llegaba en transporte público y no en coche. La Línea 1 del Metrobús recorre Insurgentes y tiene la parada Poliforum justo al pie del WTC. Pegado a la torre se alza el Polyforum Cultural Siqueiros, cubierto por los enormes murales exteriores de David Alfaro Siqueiros. Aunque bastaba un desvío de cinco minutos para verlo, casi todos los asistentes a la expo pasaban de largo.
+La mayoría de quienes acuden al WTC llegan en transporte público, no en coche. La Línea 1 del Metrobús recorre Insurgentes y su parada Poliforum queda al pie del WTC. Justo al lado se alza el Polyforum Cultural Siqueiros, cubierto por los enormes murales exteriores de David Alfaro Siqueiros. Basta un desvío de cinco minutos para verlo, aunque muchos visitantes de la expo pasan de largo.
 
-Algunas costumbres hacían la jornada más llevadera:
+Algunas costumbres hacen más llevadera la jornada:
 
-- Los grupos solían acordar un punto de encuentro fuera de la sala, ya que dentro de los espacios de exposición abarrotados la señal del teléfono fallaba a menudo.
-- Quienes iban a bailar acostumbraban a llevar calzado deportivo y poco equipaje: no había escenario donde cambiarse y el corro se formaba en cualquier hueco libre.
-- En todo el WTC se aceptaban tarjetas sin problema, pero los visitantes solían llevar también algunos pesos para la comida callejera de Insurgentes y la calle Filadelfia.
-- Las filas de las zonas de K-beauty y de videojuegos crecían por lo general después de comer, de modo que los más interesados en un puesto concreto solían ir allí primero.
+- Los grupos suelen fijar un punto de encuentro fuera de la sala, ya que la señal del teléfono falla con facilidad en los espacios de exposición abarrotados.
+- Quienes bailan suelen llevar calzado deportivo y cargar con poco. No hay escenario donde cambiarse y el círculo se forma en cualquier lugar donde quede espacio libre.
+- En todo el WTC se acepta tarjeta sin problema. Aun así, los visitantes suelen llevar también algunos pesos para la comida callejera de Insurgentes y de la calle Filadelfia.
+- Las filas de las zonas de K-beauty y de videojuegos suelen crecer después de comer. Por eso, los aficionados que tienen especial interés en un puesto concreto a menudo empiezan por él.
 
-A pocas cuadras, Nápoles ofrecía numerosos sitios para comer. Justo al sur quedaban los parques de la colonia del Valle, ideales para descansar entre la expo y el concierto.
+En Nápoles abundan los lugares para comer a pocas calles de distancia. Justo al sur quedan los parques de la colonia del Valle, buenos para hacer una pausa entre la expo y el concierto.

@@ -1,6 +1,6 @@
 ---
 title: 'ASB Auckland Marathon: Dates, Tickets & Venue (Auckland)'
-description: The ASB Auckland Marathon in Auckland takes place on Sunday, November 1, 2026, with a full marathon, a half marathon and shorter distances.
+description: The 2026 ASB Auckland Marathon was set for Sunday, November 1, 2026, with a full marathon, a half marathon and shorter distances.
 country: New Zealand
 region: Auckland
 category: event
@@ -10,38 +10,37 @@ eventEndDate: '2026-11-01'
 eventRecurring: true
 eventFactsAsked: true
 heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/1/1d/Auckland_High_Court.jpg'
+  url: https://upload.wikimedia.org/wikipedia/commons/1/1d/Auckland_High_Court.jpg
   credit: 'Photo: Krzysztof Golik / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Auckland_High_Court.jpg'
+  source: https://commons.wikimedia.org/wiki/File:Auckland_High_Court.jpg
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery: []
 tags:
   - auckland
   - event
-quickAnswer: The ASB Auckland Marathon in Auckland takes place on Sunday, November 1, 2026, with a full marathon, a half marathon and shorter distances. It is a World Marathon Majors qualifier, and its best-known stretch crosses the Auckland Harbour Bridge on foot. The organiser publishes entry links and race-day logistics on its official site.
+quickAnswer: The ASB Auckland Marathon in Auckland was set for Sunday, November 1, 2026, with a full marathon, a half marathon and shorter distances. It is a World Marathon Majors qualifier, and its best-known stretch crosses the Auckland Harbour Bridge on foot. The course has traditionally started on the North Shore and finished at Victoria Park in central Auckland.
 faq:
   - q: When is the ASB Auckland Marathon in 2026?
-    a: It takes place on Sunday, November 1, 2026, with full marathon, half marathon and shorter-distance events.
+    a: It was set for Sunday, November 1, 2026, with full marathon, half marathon and shorter-distance events.
   - q: Where do the races start and finish?
-    a: The course has traditionally started on the North Shore and finished at Victoria Park in central Auckland. Full marathon runners usually start in Devonport, and the half marathon starts around Takapuna. The organiser's official site has the current start locations.
+    a: The course has traditionally started on the North Shore and finished at Victoria Park in central Auckland. Full marathon runners usually start in Devonport, and the half marathon starts around Takapuna.
   - q: Do runners really cross the Auckland Harbour Bridge?
     a: Yes. Crossing the bridge on foot is the race's signature section. The bridge has no pedestrian path on normal days.
   - q: How do runners get to the start?
-    a: Full marathon runners have commonly taken early ferries from the Downtown Ferry Terminal to Devonport. Half marathoners use transport to the northern start. Many runners stay in the CBD near the finish.
+    a: Full marathon runners have commonly taken early ferries from the Downtown Ferry Terminal to Devonport. Half marathoners usually take transport to the northern start. Many runners stay in the CBD near the finish.
   - q: Where is the best place to watch?
     a: Tamaki Drive lets spectators see the full-marathon field going out and coming back along the waterfront. The finish area at Victoria Park is the other main gathering point.
 aiGenerated: true
 draft: false
 ---
-
 ## A bridge you normally can't walk
 
 On race morning, the Auckland Harbour Bridge belongs to runners. For the rest of the year the bridge carries eight lanes of motorway traffic and has no footpath. That makes the crossing from the North Shore to the city the reason many people enter.
 
-The 2026 edition takes place on November 1. It offers a full marathon, a half marathon and shorter distances. It also counts as a World Marathon Majors qualifier, so it draws serious runners chasing a time as well as first-timers.
+The 2026 edition was set for November 1. The programme offered a full marathon, a half marathon and shorter distances. The race also counts as a World Marathon Majors qualifier, so it draws serious runners chasing a time as well as first-timers.
 
 ## The course, shore to city
 
@@ -59,11 +58,11 @@ What the course usually means for runners:
 
 Because the start is on the North Shore, getting there is the main logistical job. Full marathon runners have commonly crossed to Devonport on early ferries from the Downtown Ferry Terminal at the bottom of Queen Street. Half marathoners usually take transport to the northern start.
 
-Many runners stay in the CBD, Ponsonby or Freemans Bay, close to the Victoria Park finish. That way the walk back after the race is short. Road closures around the bridge, the waterfront and Tamaki Drive affect traffic across the city that morning, so most spectators leave the car at home.
+Many runners stay in the CBD, Ponsonby or Freemans Bay, close to the Victoria Park finish. That way the walk back after the race is short. Road closures around the bridge, the waterfront and Tamaki Drive usually affect traffic across the city on race morning, so most spectators leave the car at home.
 
 ## Watching, running and recovering like Aucklanders
 
-Supporters usually split between two spots. Some line Tamaki Drive, where you can see the full-marathon field going out and coming back. Others wait at the finish in Victoria Park. Cafés along Tamaki Drive at Mission Bay fill with families after the race.
+Supporters usually split between two spots. Some line Tamaki Drive, where they can see the full-marathon field going out and coming back. Others wait at the finish in Victoria Park. Cafés along Tamaki Drive at Mission Bay fill with families after the race.
 
 How race day usually works:
 
@@ -72,4 +71,4 @@ How race day usually works:
 - **Card and phone payments:** nearly everywhere in Auckland takes contactless, including ferry fares on an AT HOP card or bank card.
 - **Tipping:** not expected in New Zealand cafés or restaurants.
 
-The organiser publishes distances, entry links, start locations and transport details on the official ASB Auckland Marathon site.
+For 2026, the announced programme paired the full and half marathons with shorter distances, all on Sunday, November 1.

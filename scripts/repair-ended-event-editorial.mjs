@@ -36,7 +36,7 @@ import { fileURLToPath } from 'node:url';
 import yaml from 'js-yaml';
 import { cutOffByRewrite } from '../src/lib/rewrite-guard.mjs';
 import { OFFENDING_CLAIM, ADVICE_IMPERATIVE } from '../src/lib/ended-event-claims.mjs';
-import { inventedOutcomes, ownEditionOutcomes } from './lib/invented-outcomes.mjs';
+import { inventedOutcomes, ownEditionOutcomes, endedPresentTense } from './lib/invented-outcomes.mjs';
 import { srcHashOfPostFile } from './lib/src-hash.mjs';
 import { fieldDiff, recordRepair, pruneRecords, loadRecords, saveRecords } from './lib/prose-patch.mjs';
 
@@ -132,7 +132,7 @@ ${doc}`,
 }
 
 /** Every mechanical rule this class has taught us, applied to one field. */
-function fieldProblems(name, cur, out, year, { md = false } = {}) {
+function fieldProblems(name, cur, out, year, { md = false, edition = { year, months: [] } } = {}) {
   const p = [];
   const label = (s) => `${name}: ${s}`;
   if (!out) { p.push(label('empty')); return p; }
@@ -140,6 +140,8 @@ function fieldProblems(name, cur, out, year, { md = false } = {}) {
   if (promise) p.push(label(`still a promise or a fabricated past — "${promise[0]}"`));
   const advice = out.match(ADVICE_IMPERATIVE);
   if (advice) p.push(label(`still advice to a reader who has not gone — "${advice[0]}"`));
+  const still = endedPresentTense(out, edition.year, edition.months);
+  if (still.length) p.push(label(`still announces the event in the present — "${still[0].sentence.slice(0, 140)}"`));
   const own = ownEditionOutcomes(out, year);
   if (own.length) p.push(label(`asserts an outcome of this edition — "${own[0].sentence.slice(0, 140)}"`));
   const added = inventedOutcomes(cur, out);
@@ -172,6 +174,10 @@ for (const file of (await readdir(POSTS)).filter((f) => f.endsWith('.md')).sort(
   if (!end || end >= TODAY) continue;
   scanned++;
   const year = end.slice(0, 4);
+  // The present-tense check reads the edition the way validate-content does —
+  // the start year, either month — or a rewrite it would flag passes here.
+  const start = isoDay(cur.fm.eventStartDate || end);
+  const edition = { year: start.slice(0, 4), months: [start.slice(5, 7), end.slice(5, 7)] };
   const faq = Array.isArray(cur.fm.faq) ? cur.fm.faq : [];
   const body = cur.body.trim();
   console.log(`\n📝 ${file} (ended ${end}${cur.fm.draft ? ', draft' : ''})`);
@@ -185,10 +191,10 @@ for (const file of (await readdir(POSTS)).filter((f) => f.endsWith('.md')).sort(
     out = unpack(text, faq.length);
     if (!out) { problems = ['reply did not follow the === LABEL === format']; feedback = problems[0]; console.log(`   ↻ attempt ${attempt + 1}: ${problems[0]} — retrying`); continue; }
     problems = [
-      ...fieldProblems('description', cur.fm.description || '', out.description, year),
-      ...fieldProblems('quickAnswer', cur.fm.quickAnswer || '', out.quickAnswer, year),
-      ...faq.flatMap((x, i) => fieldProblems(`FAQ ${i + 1}`, x?.a || '', out.faq[i], year)),
-      ...fieldProblems('body', body, out.body, year, { md: true }),
+      ...fieldProblems('description', cur.fm.description || '', out.description, year, { edition }),
+      ...fieldProblems('quickAnswer', cur.fm.quickAnswer || '', out.quickAnswer, year, { edition }),
+      ...faq.flatMap((x, i) => fieldProblems(`FAQ ${i + 1}`, x?.a || '', out.faq[i], year, { edition })),
+      ...fieldProblems('body', body, out.body, year, { md: true, edition }),
     ];
     if (out.description.length > 160) problems.push(`description: ${out.description.length} chars (limit 160)`);
     if (headings(out.body) !== headings(body)) problems.push(`body: heading count ${headings(out.body)} vs ${headings(body)}`);

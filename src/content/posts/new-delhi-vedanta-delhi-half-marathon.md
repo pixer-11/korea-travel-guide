@@ -1,6 +1,6 @@
 ---
 title: 'Vedanta Delhi Half Marathon: Dates, Tickets & Venue (New Delhi)'
-description: The Vedanta Delhi Half Marathon takes place in New Delhi in late October 2026.
+description: The Vedanta Delhi Half Marathon 2026 was set for late October in New Delhi. It is an AIMS-certified, IAAF Gold Label road race.
 country: India
 region: New Delhi
 category: event
@@ -16,18 +16,18 @@ eventFactsAsked: true
 tags:
   - new delhi
   - event
-quickAnswer: The Vedanta Delhi Half Marathon takes place in New Delhi in late October 2026. It is an AIMS-certified, IAAF Gold Label race that puts elite international runners and thousands of mass participants on the same course. Past editions have centred on Jawaharlal Nehru Stadium and passed the wide avenues around India Gate, and the organiser publishes dates, venue and entry details on the race's official site.
+quickAnswer: The Vedanta Delhi Half Marathon 2026 was set for late October 2026 in New Delhi. It is an AIMS-certified, IAAF Gold Label race that puts elite international runners and thousands of mass participants on the same course. Past editions have centred on Jawaharlal Nehru Stadium and passed the wide avenues around India Gate and Kartavya Path.
 faq:
   - q: When is the Vedanta Delhi Half Marathon 2026?
-    a: The 2026 edition is set for late October 2026 in New Delhi. The exact date and race-day details are on the official race website.
+    a: The 2026 edition was set for late October 2026 in New Delhi. It was planned as an AIMS-certified, IAAF Gold Label race with elite and mass fields.
   - q: Where does the race start and finish?
     a: Past editions have started and finished at Jawaharlal Nehru Stadium near Lodhi Road. The course went through central New Delhi and passed India Gate and Kartavya Path.
   - q: How do I get to the start by public transport?
-    a: Take the Delhi Metro. Jawaharlal Nehru Stadium station is on the Violet Line. Roads around the course are closed on race morning, so road transport usually drops people some distance away.
+    a: The Delhi Metro is the easiest option. Jawaharlal Nehru Stadium station is on the Violet Line. Roads around the course close on race morning, so road transport usually drops people some distance away.
   - q: Which races can amateurs enter?
-    a: In past editions, amateurs could enter the half marathon, an Open 10K, the shorter Great Delhi Run, a senior citizens' run and a category for runners with disabilities. Eligibility rules, cut-offs and fees for each edition are on the official site.
+    a: In past editions, amateurs could enter the half marathon, an Open 10K, the shorter Great Delhi Run, a senior citizens' run and a category for runners with disabilities. Each edition sets its own eligibility rules, cut-offs and fees.
   - q: What is the air quality like in late October?
-    a: Late October is when Delhi's smog season begins, and air quality varies from day to day. Many runners follow AQI readings in the days before. Runners with respiratory conditions often get medical advice first.
+    a: Late October is when Delhi's smog season begins, and air quality varies from day to day. Many runners follow AQI readings in the days before a race. Runners with respiratory conditions often get medical advice first.
 aiGenerated: true
 draft: false
 heroImage:
@@ -39,16 +39,15 @@ heroImage:
     x: 50
     'y': 45
 ---
-
 ## Delhi's road race with a world-class field
 
-Few city races in Asia mix fields like this one. The Vedanta Delhi Half Marathon runs every year in New Delhi. It carries AIMS certification and the IAAF Gold Label, the athletics federation's top road-race grade. In practice, East African professionals chasing course records set off on the same morning as office teams and first-timers.
+Few city races in Asia mix fields like this one. The Vedanta Delhi Half Marathon is an annual race in New Delhi. It carries AIMS certification and the IAAF Gold Label, the athletics federation's top road-race grade. In practice, East African professionals chasing course records set off on the same morning as office teams and first-timers.
 
-The 2026 edition is set for late October. The organiser publishes the exact date, venue and entry links on the race's official site. Procam International has run the event since its first edition in 2005, when it was sponsored by Airtel, and it has carried the Vedanta name in recent years.
+The 2026 edition was set for late October. Procam International has organised the event since its first edition in 2005, when it was sponsored by Airtel, and it has carried the Vedanta name in recent years.
 
 ## The course through Lutyens' Delhi
 
-The course stays flat and fast. Past editions have started and finished at Jawaharlal Nehru Stadium near Lodhi Road. From there the route passes through the government quarter Edwin Lutyens laid out in the 1920s and 30s.
+The course is flat and fast. Past editions have started and finished at Jawaharlal Nehru Stadium near Lodhi Road. From there the route passes through the government quarter Edwin Lutyens laid out in the 1920s and 30s.
 
 That means long, straight, tree-lined avenues and big roundabouts. Runners pass sandstone landmarks:
 
@@ -62,7 +61,7 @@ The low gradients are one reason elite times here are quick. They also make the 
 
 There are several races on the day. Alongside the half marathon, past editions have included an Open 10K, the shorter Great Delhi Run, a senior citizens' run and a category for runners with disabilities. The shorter races bring out families, school groups and corporate teams in matching T-shirts.
 
-Registration runs through the official race website. The categories, eligibility rules, time cut-offs and entry fees for each edition are posted there. Popular categories have filled up in past years, so regular runners usually register soon after entries open.
+Registration for the race is handled through the official race website. Each edition sets its own categories, eligibility rules, time cut-offs and entry fees. Popular categories have filled up in past years, so regular runners usually register soon after entries open.
 
 ## Running in late-October Delhi
 
@@ -78,10 +77,10 @@ Race morning starts before dawn. Here is how runners usually handle the day:
 
 - **Bib collection:** bibs and timing chips are usually handed out at a running expo in the days before the race, not on race morning. Photo ID and the registration confirmation are the usual requirements.
 - **Getting there:** the Delhi Metro is the obvious choice. Jawaharlal Nehru Stadium station is on the Violet Line. Roads around the course close to traffic, so runners who come by car or auto-rickshaw are usually dropped some distance away.
-- **Start pens:** runners are seeded into waves by category and expected finish time, and the elites go first. Bag-drop areas sit near the stadium.
+- **Start pens:** runners are seeded into waves by category and predicted finish time, and the elites go first. Bag-drop areas sit near the stadium.
 - **Spectators:** the best places to watch are the stretches near India Gate and the finish area. Cheering groups and running clubs set up along the route, and spectators shout "chalo" (let's go) and "shabash" (well done).
 
-Once the finishers are through, the stadium surroundings fill with runners eating snacks, posing with medals and stretching on the grass. Rehydration drinks get passed around groups who trained together all year.
+Once the finishers are through, the stadium surroundings typically fill with runners eating snacks, posing with medals and stretching on the grass. Rehydration drinks get passed around groups who trained together all year.
 
 ## Recovering in South-Central Delhi
 

@@ -292,7 +292,7 @@ jobs:
           TENSE_KEYS=$(node scripts/audit-ended-event-tense-i18n.mjs --list 2>/dev/null | grep -E '^ENDED-EVENT-I18N-TENSE: [a-z]{2}/' | awk '{print $2}' | tr '\n' ' ' || true)
           if [ -n "$TENSE_KEYS" ]; then
             echo "ended-event tense: re-translating $(echo $TENSE_KEYS | wc -w) translation(s)"
-            KEYS="$TENSE_KEYS" LIMIT=24 BATCH=8 node scripts/repair-flagged-translations.mjs 2>&1 | tail -6 || true
+            KEYS="$TENSE_KEYS" LIMIT=200 BATCH=40 node scripts/repair-flagged-translations.mjs 2>&1 | tail -6 || true
           fi
 
       # A singer's guide wears the singer (픽서님 10-06/10-08): a live concert

@@ -1,6 +1,6 @@
 ---
 title: 'K-Expo Mexico City 2026: Dates, Tickets & Venue (Mexico City)'
-description: K-Expo Mexico City 2026 is a free Korean culture festival at the World Trade Center in Colonia Nápoles, Mexico City, scheduled for around September 2026.
+description: K-Expo Mexico City 2026, a free Korean culture festival, was set for around September 2026 at the World Trade Center in Colonia Nápoles, Mexico City.
 country: Mexico
 region: Mexico City
 category: event
@@ -17,14 +17,14 @@ gallery: []
 tags:
   - mexico city
   - event
-quickAnswer: K-Expo Mexico City 2026 is a free Korean culture festival at the World Trade Center in Colonia Nápoles, Mexico City, scheduled for around September 2026. The expo halls with K-beauty, K-drama, gaming and a K-Pop Random Play Dance cost nothing to enter. The Korea Spotlight concert at the Pepsi Center WTC is the one ticketed part.
+quickAnswer: K-Expo Mexico City 2026 was a free Korean culture festival set for around September 2026 at the World Trade Center in Colonia Nápoles, Mexico City. The expo halls, with K-beauty, K-drama, gaming and a K-Pop Random Play Dance, were free to enter. The Korea Spotlight concert at the Pepsi Center WTC was the one ticketed part.
 faq:
   - q: When is K-Expo Mexico City 2026?
-    a: The 2026 edition is scheduled for around September. The organiser publishes the exact days on its official channels.
+    a: The 2026 edition was set for around September, at the World Trade Center in Colonia Nápoles.
   - q: Where is K-Expo Mexico City held?
-    a: At the World Trade Center (WTC) on Avenida de los Insurgentes in Colonia Nápoles. The Korea Spotlight concert takes place at the Pepsi Center WTC inside the same complex.
+    a: At the World Trade Center (WTC) on Avenida de los Insurgentes in Colonia Nápoles. The Korea Spotlight concert was planned for the Pepsi Center WTC, which sits inside the same complex.
   - q: Do I need a ticket for K-Expo?
-    a: 'No ticket is needed for the expo halls: the K-beauty, K-drama, gaming zones and the K-Pop Random Play Dance are free. Only the Korea Spotlight concert at the Pepsi Center WTC is ticketed.'
+    a: No ticket was needed for the expo halls. The K-beauty, K-drama and gaming zones and the K-Pop Random Play Dance were free. Only the Korea Spotlight concert at the Pepsi Center WTC was ticketed.
   - q: How do I get to the WTC by public transport?
     a: Metrobús Line 1 runs along Insurgentes and stops at Poliforum, right beside the WTC and the Polyforum Cultural Siqueiros.
   - q: How does the Random Play Dance work?
@@ -32,33 +32,32 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## One tower, two kinds of admission
 
-The whole event happens on one city block. K-Expo Mexico City 2026 fills the World Trade Center, the tall glass tower on Avenida de los Insurgentes in Colonia Nápoles. Its exhibition halls hold the free festival. The Pepsi Center WTC, the concert venue inside the same complex, hosts the ticketed Korea Spotlight show.
+The whole event was laid out on one city block. K-Expo Mexico City 2026 took over the plans for the World Trade Center, the tall glass tower on Avenida de los Insurgentes in Colonia Nápoles. Its exhibition halls were to hold the free festival. The Pepsi Center WTC, the concert venue inside the same complex, was the home of the ticketed Korea Spotlight show.
 
-The 2026 edition is scheduled for around September. The organiser publishes the exact days and the Korea Spotlight ticket link on its official channels. Entry to the expo floor is free, so most people treat it as a walk-in day and only buy a ticket for the concert.
+The 2026 edition was set for around September. Entry to the expo floor was free, and only the Korea Spotlight concert required a ticket. At free expos like this, most people treat the halls as a walk-in day and buy a ticket only for the concert.
 
 ## Inside the free halls
 
-The expo floor is split into themed zones. Each one matches a part of the Korean wave that has a big Mexican following:
+The expo floor was divided into themed zones. Each one matched a part of the Korean wave that has a big Mexican following:
 
 - **K-beauty:** skincare and cosmetics brands, the category that pulls the longest lines at most Hallyu fairs.
 - **K-drama:** areas built around series and the actors Mexican fans follow on streaming.
-- **Gaming:** playable stations, usually with a queue of their own.
+- **Gaming:** playable stations, which at fairs like this usually have a queue of their own.
 - **K-Pop Random Play Dance:** an open floor where short clips of songs play in random order.
 
 At a Random Play Dance, nobody signs up and nobody performs alone. When a chorus starts, everyone who knows the choreography rushes into the middle. When the track cuts out, they drift back to the edge. Spectators stand around the outside and film on their phones.
 
 ## Korea Spotlight at the Pepsi Center WTC
 
-The evening concert is the one part of K-Expo that charges admission. Korea Spotlight is held at the Pepsi Center WTC, a standing-and-seated hall that regularly books touring pop and rock acts. Ticket sales and the performer lineup appear on the organiser's channels and the venue's ticketing page. This guide lists no acts or prices because none were supplied.
+The evening concert was the one part of K-Expo that charged admission. Korea Spotlight was scheduled at the Pepsi Center WTC, a standing-and-seated hall that regularly books touring pop and rock acts.
 
-Since the concert hall sits inside the WTC, concertgoers often spend the afternoon on the free floor first. Then they walk straight to the Pepsi Center doors without leaving the building.
+Because the concert hall sits inside the WTC, concertgoers at events like this often spend the afternoon on the free floor first. Then they walk straight to the Pepsi Center doors without leaving the building.
 
 ## Moving through Nápoles on expo day
 
-Most visitors come by public transport rather than by car. Metrobús Line 1 runs along Insurgentes, and its Poliforum stop sits at the foot of the WTC. Right next door stands the Polyforum Cultural Siqueiros, covered in David Alfaro Siqueiros's huge exterior murals. It is a five-minute detour that most expo visitors walk straight past.
+Most visitors to the WTC come by public transport rather than by car. Metrobús Line 1 runs along Insurgentes, and its Poliforum stop sits at the foot of the WTC. Right next door stands the Polyforum Cultural Siqueiros, covered in David Alfaro Siqueiros's huge exterior murals. It is a five-minute detour that many expo visitors walk straight past.
 
 Habits that make the day easier:
 
