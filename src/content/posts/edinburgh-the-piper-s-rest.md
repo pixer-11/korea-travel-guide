@@ -125,7 +125,7 @@ It's a good stop to pair with the Royal Mile, the Tron Kirk or the Old Town clos
 
 It opens at 10am and closes at 1am, seven days a week. That covers a late breakfast, a long lunch and last orders after a show. Opening hours stay the same on every day of the week, so weekday and weekend planning only differs by crowd.
 
-The measured quiet spells are 10am to 1pm on weekdays and 10am to 12pm on weekends. Weekend evenings are when you'll struggle: between 4pm and 11pm on Saturdays and Sundays, finding a table gets hard. In August, the Fringe fills Hunter Square with performers and queues, so arrive earlier than you normally would.
+The quiet spells in the forecast are 10am to 1pm on weekdays and 10am to 12pm on weekends. Weekend evenings are when you'll struggle: between 4pm and 11pm on Saturdays and Sundays, finding a table gets hard. In August, the Fringe fills Hunter Square with performers and queues, so arrive earlier than you normally would.
 
 ## Ordering at the bar, Scottish style
 

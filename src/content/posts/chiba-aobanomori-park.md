@@ -110,7 +110,7 @@ Most visitors spend somewhere between forty-five minutes and two hours here, dep
 
 ## Weekend crowds and when to skip them
 
-The measured pattern here is straightforward: weekends from 9am to 6pm are when the park fills up, especially families with young children and groups doing the seasonal photo circuit under blossoming trees. If you're after a calmer walk, the quietest stretch on weekdays runs from 9pm to 11pm, and on weekends it narrows to 10pm to 11pm.
+The forecast pattern here is straightforward: weekends from 9am to 6pm are when the park fills up, especially families with young children and groups doing the seasonal photo circuit under blossoming trees. If you're after a calmer walk, the quietest stretch on weekdays runs from 9pm to 11pm, and on weekends it narrows to 10pm to 11pm.
 
 Since the park itself is open 24 hours every day, a late walk is genuinely possible and not unusual for locals finishing a run or walking a dog after dinner, though the museum and any seasonal food stalls will be long closed by then. If you want blossoms and quiet at the same time during peak season, an early weekday morning is your best compromise; a 9-11pm slot works for the gardens generally but not for catching flowers in good light.
 

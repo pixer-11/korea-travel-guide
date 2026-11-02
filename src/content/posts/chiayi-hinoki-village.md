@@ -123,7 +123,7 @@ Weekends are a different story. Crowds build steadily and the busiest window run
 
 Hinoki Village is genuinely well-visited, it draws heavy tour bus traffic, so don't expect a hidden corner of Chiayi to yourself. The smart move is timing, not secrecy.
 
-- Go on a weekday between 10am and noon, the measured quiet window, before groups arrive
+- Go on a weekday between 10am and noon, the forecast quiet window, before groups arrive
 - If a weekend is your only option, be at the gate at opening or wait until after 5pm
 - It's worth carrying a little cash alongside the usual cards or mobile pay, just in case
 - No tipping expected anywhere in Taiwan, including here

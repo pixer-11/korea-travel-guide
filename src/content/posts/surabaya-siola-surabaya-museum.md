@@ -99,7 +99,7 @@ The museum runs Tuesday through Sunday, 8am to 3pm, and stays closed all day Mon
 
 Try to avoid arriving between 10am and noon on Saturday or Sunday. That's peak busy time, with tour groups and families filling the ground floor. The calmest window on weekends runs 1pm to 3pm, right before closing, when hallways thin out and you can actually read the placards.
 
-Weekdays tend to be quieter overall, though no single quiet hour has been consistently measured, arriving soon after the 8am opening is a safe bet before school groups show up.
+Weekdays tend to be quieter overall, though the forecast shows no single quiet hour, arriving soon after the 8am opening is a safe bet before school groups show up.
 
 ## How to visit like a local
 

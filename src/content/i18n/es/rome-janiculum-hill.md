@@ -1,10 +1,10 @@
 ---
 lang: es
 slug: rome-janiculum-hill
-srcHash: 'c71879a39183'
+srcHash: '105888f9f6c4'
 title: 'Colina del Janículo: Guía de viaje de Roma (4.7★)'
 description: El Janículo (Gianicolo) es una terraza panorámica gratuita y abierta las 24 horas en la orilla oeste de Roma, a la que se llega mejor en taxi, en el autobús 115 o con una empinada caminata de 15 minutos desde Trastevere. 4.7★ (25.736 opiniones) — qué dicen los visitantes, horarios y consejos.
-quickAnswer: El Janículo (Gianicolo) es una terraza panorámica gratuita y abierta las 24 horas en la orilla oeste de Roma, a la que se llega mejor en taxi, en el autobús 115 o con una empinada caminata de 15 minutos desde Trastevere. Ve entre las 7 y las 9 de la mañana —la franja de tranquilidad comprobada tanto en días de semana como en fines de semana— para disfrutar solo de la vista, la fuente y el punto donde dispara el cañón antes de que lleguen las multitudes, que se mantienen densas hasta las 23:00 los fines de semana. Reserva medio día para combinar la colina con un paseo por Trastevere, abajo.
+quickAnswer: El Janículo (Gianicolo) es una terraza panorámica gratuita y abierta las 24 horas en la orilla oeste de Roma, a la que se llega mejor en taxi, en el autobús 115 o con una empinada caminata de 15 minutos desde Trastevere. Ve entre las 7 y las 9 de la mañana —la franja de tranquilidad prevista tanto en días de semana como en fines de semana— para disfrutar solo de la vista, la fuente y el punto donde dispara el cañón antes de que lleguen las multitudes, que se mantienen densas hasta las 23:00 los fines de semana. Reserva medio día para combinar la colina con un paseo por Trastevere, abajo.
 faq:
   - q: ¿Cómo llego a la colina del Janículo desde el centro de Roma?
     a: Sube caminando desde Trastevere (unos 15–20 minutos desde Piazza Trilussa por Via Garibaldi), toma el autobús 115, o usa un taxi/rideshare directo a Piazzale Giuseppe Garibaldi. No hay estación de metro en la propia colina.
@@ -42,7 +42,7 @@ Corredores, paseadores de perros y parejas sentadas en los bancos comparten el e
 
 ## Cuándo ir
 
-La franja más tranquila comprobada aquí es de 7 a 9 de la mañana, tanto en días de semana como en fines de semana: el cañón todavía no ha disparado, la luz sigue baja y dorada sobre los tejados, y la terraza pertenece casi solo a corredores y vecinos paseando a sus perros. Los fines de semana, la afluencia crece de forma constante y se mantiene alta desde las 10:00 hasta las 23:00, así que si buscas una foto vacía junto a la balaustrada, no vengas después del desayuno.
+Según la previsión, la franja más tranquila aquí es de 7 a 9 de la mañana, tanto en días de semana como en fines de semana: el cañón todavía no ha disparado, la luz sigue baja y dorada sobre los tejados, y la terraza pertenece casi solo a corredores y vecinos paseando a sus perros. Los fines de semana, la afluencia crece de forma constante y se mantiene alta desde las 10:00 hasta las 23:00, así que si buscas una foto vacía junto a la balaustrada, no vengas después del desayuno.
 
 El atardecer es la famosa alternativa —realmente espectacular, con la cúpula de San Pedro recortada contra un cielo naranja—, pero hay que contar con compartir la barandilla con una multitud de visitantes haciendo exactamente lo mismo.
 

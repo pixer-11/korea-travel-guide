@@ -130,7 +130,7 @@ The outdoor park has little shade, so an early slot also means cooler air and so
 This is a well-visited, well-reviewed stop on the Goa circuit, not a quiet find, so timing your visit matters more than finding a secret entrance.
 
 - **Go early on a weekday**: mornings right after 9:30am opening are your best shot at empty aircraft for photos.
-- **Avoid Saturday/Sunday 11am-5pm**: that's the measured peak window, when tour groups and families cluster.
+- **Avoid Saturday/Sunday 11am-5pm**: that's the forecast peak window, when tour groups and families cluster.
 - **Pay at the gate**: entry fees are modest and typically paid in cash at the ticket counter; carry small notes.
 - **Wear closed shoes**: the aircraft park is outdoors on tarmac and gravel, and there's genuine walking involved between exhibits.
 - **Ask about cockpit access**: some aircraft allow you to climb in briefly. Staff nearby can tell you which ones on the day.

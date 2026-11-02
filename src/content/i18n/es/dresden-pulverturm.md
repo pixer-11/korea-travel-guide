@@ -1,13 +1,13 @@
 ---
 lang: es
 slug: dresden-pulverturm
-srcHash: '6677b5d40f54'
+srcHash: '7d16915e3047'
 title: 'Pulverturm: dónde comer en Dresde (4.6★)'
 description: 'En An der Frauenkirche 12, en pleno Dresden-Altstadt, el Pulverturm sirve cocina internacional con servicio en mesa. Ocupa un edificio de varios siglos situado a pocos pasos de la Frauenkirche, en el Neumarkt. 4.6★ (5,085 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En An der Frauenkirche 12, en pleno Dresden-Altstadt, el Pulverturm sirve cocina internacional con servicio en mesa. Ocupa un edificio de varios siglos situado a pocos pasos de la Frauenkirche, en el Neumarkt. Sus precios son algo elevados y tiene muchísima demanda, así que conviene reservar. Los fines de semana, entre las 14:00 y las 22:00, se llena más que nunca, por lo que es mejor evitar esa franja. Tenga en cuenta también que los miércoles cierra.
 faq:
   - q: ¿Cuál es el momento más tranquilo para ir al Pulverturm?
-    a: Solo disponemos de datos sobre la franja de mayor afluencia, que son los fines de semana de 14:00 a 22:00, así que procure evitarla. Los sábados y domingos el restaurante abre a las 11:00, de modo que un almuerzo a última hora de la mañana se adelanta a ese pico. Otra alternativa para esquivarlo es comer entre semana a partir del mediodía, ya sea lunes, martes o jueves.
+    a: Solo disponemos de previsiones sobre la franja de mayor afluencia, que son los fines de semana de 14:00 a 22:00, así que procure evitarla. Los sábados y domingos el restaurante abre a las 11:00, de modo que un almuerzo a última hora de la mañana se adelanta a ese pico. Otra alternativa para esquivarlo es comer entre semana a partir del mediodía, ya sea lunes, martes o jueves.
   - q: ¿Abre el Pulverturm los miércoles?
     a: No, el miércoles permanece cerrado todo el día. Los lunes, martes y jueves abre a mediodía, mientras que de viernes a domingo lo hace a las 11:00. El viernes y el sábado cierra a medianoche, y a las 23:00 el resto de los días de apertura.
   - q: ¿Hace falta reservar?
@@ -38,7 +38,7 @@ Antes de sentarse, merece la pena decidir lo siguiente:
 
 ## Cómo esquivar las aglomeraciones
 
-Pocos restaurantes del casco antiguo acumulan tantas reseñas como este, y los fines de semana se nota. Si no tiene reserva, procure no presentarse el sábado o el domingo entre las 14:00 y las 22:00. Esa es la franja de máxima afluencia registrada, e incluye todo el servicio de cenas.
+Pocos restaurantes del casco antiguo acumulan tantas reseñas como este, y los fines de semana se nota. Si no tiene reserva, procure no presentarse el sábado o el domingo entre las 14:00 y las 22:00. Esa es la franja de máxima afluencia prevista, e incluye todo el servicio de cenas.
 
 Los fines de semana abre a las 11:00, por lo que un almuerzo a última hora de la mañana se adelanta al momento de mayor afluencia. Entre semana, el servicio empieza a mediodía los lunes, martes y jueves. Cuidado con el miércoles, porque el restaurante permanece cerrado todo el día.
 

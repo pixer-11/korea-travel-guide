@@ -241,6 +241,17 @@
     "added": [
      "Weekends get busy fast, with crowds building from the moment the doors open. If you want the galleries to yourself, arrive before the doors open, or visit on a weekday instead."
     ]
+   },
+   {
+    "from": "6d7f3420f983",
+    "to": "91836c06f3a7",
+    "at": "2026-11-02T18:30:22.788Z",
+    "removed": [
+     "[FAQ 2] Q: What's the quietest time to visit? A: On weekends, 10am to noon is the calmest window based on measured foot traffic. Weekend crowds build steadily and stay heavy from opening until around 7pm, so arriving right at 10am is your best bet."
+    ],
+    "added": [
+     "[FAQ 2] Q: What's the quietest time to visit? A: On weekends, 10am to noon is the calmest window based on typical foot traffic. Weekend crowds build steadily and stay heavy from opening until around 7pm, so arriving right at 10am is your best bet."
+    ]
    }
   ]
  },
@@ -537,6 +548,21 @@
    }
   ]
  },
+ "alishan-alishan-national-forest-recreation-area": {
+  "steps": [
+   {
+    "from": "eab929f51240",
+    "to": "e521304e1953",
+    "at": "2026-11-02T18:30:22.790Z",
+    "removed": [
+     "Alishan is a major domestic and international draw, not a quiet find, so timing your visit around the crowds matters more than finding a secret corner. The measured quiet window is 7am–8am on weekdays. Walk the Giant Tree Trail then and you'll often have long stretches of boardwalk to yourself before the first tour buses unload."
+    ],
+    "added": [
+     "Alishan is a major domestic and international draw, not a quiet find, so timing your visit around the crowds matters more than finding a secret corner. The forecast quiet window is 7am–8am on weekdays. Walk the Giant Tree Trail then and you'll often have long stretches of boardwalk to yourself before the first tour buses unload."
+    ]
+   }
+  ]
+ },
  "alishan-fenqihu-old-street": {
   "steps": [
    {
@@ -563,6 +589,21 @@
    }
   ]
  },
+ "amalfi-coast-villa-rufolo": {
+  "steps": [
+   {
+    "from": "8f71aa278aac",
+    "to": "7798f5692acb",
+    "at": "2026-11-02T18:30:22.792Z",
+    "removed": [
+     "Spring and early summer bring the gardens into full bloom, and the Ravello Festival (roughly June through September) turns the belvedere into a concert stage with orchestras performing against the sea view, worth timing a visit around if you can get tickets. Based on measured visitor patterns, the calmest hours to walk the gardens are between 9am and 8pm, both on weekdays and weekends, while the crush really builds on weekends between noon and 5pm, when day-trippers from Amalfi and Positano arrive en masse."
+    ],
+    "added": [
+     "Spring and early summer bring the gardens into full bloom, and the Ravello Festival (roughly June through September) turns the belvedere into a concert stage with orchestras performing against the sea view, worth timing a visit around if you can get tickets. Based on typical visitor patterns, the calmest hours to walk the gardens are between 9am and 8pm, both on weekdays and weekends, while the crush really builds on weekends between noon and 5pm, when day-trippers from Amalfi and Positano arrive en masse."
+    ]
+   }
+  ]
+ },
  "amritsar-ramgarhia-bunga": {
   "steps": [
    {
@@ -578,6 +619,53 @@
    }
   ]
  },
+ "ankara-6a-specialty-coffee": {
+  "steps": [
+   {
+    "from": "c5f8f51628d4",
+    "to": "bd012a3dd889",
+    "at": "2026-11-02T18:30:22.794Z",
+    "removed": [
+     "Working weeks in Çankaya follow office and embassy schedules. Weekday mornings and early lunch are likely to be the room's most businesslike stretch, and weekends are likely to be more relaxed. That's a guess from how the district works, not a measured pattern."
+    ],
+    "added": [
+     "Working weeks in Çankaya follow office and embassy schedules. Weekday mornings and early lunch are likely to be the room's most businesslike stretch, and weekends are likely to be more relaxed. That's a guess from how the district works, not a crowd forecast."
+    ]
+   }
+  ]
+ },
+ "ankara-an-tkabir": {
+  "steps": [
+   {
+    "from": "3bb9f7296a30",
+    "to": "bec54c849645",
+    "at": "2026-11-02T18:30:22.795Z",
+    "removed": [
+     "[QUICK ANSWER] Anıtkabir, Ankara's monumental mausoleum for Mustafa Kemal Atatürk, sits on Anıttepe hill in Çankaya and is worth two to three hours. It's extremely well-visited (well over 140,000 reviews and rated close to the maximum), so aim for a weekday between 9am and 5pm — the calmest window measured — and avoid weekend crowds between 11am and 4pm."
+    ],
+    "added": [
+     "[QUICK ANSWER] Anıtkabir, Ankara's monumental mausoleum for Mustafa Kemal Atatürk, sits on Anıttepe hill in Çankaya and is worth two to three hours. It's extremely well-visited (well over 140,000 reviews and rated close to the maximum), so aim for a weekday between 9am and 5pm — the calmest window in the forecast — and avoid weekend crowds between 11am and 4pm."
+    ]
+   }
+  ]
+ },
+ "ankara-museum-of-anatolian-civilizations": {
+  "steps": [
+   {
+    "from": "69997ec0a0d8",
+    "to": "cafd26921263",
+    "at": "2026-11-02T18:30:22.869Z",
+    "removed": [
+     "[FAQ 2] Q: When is the quietest time to visit? A: Weekday evenings between 7pm and 9pm are the calmest measured window. Weekends stay busy essentially all day, with the worst crowds between noon and 6pm.",
+     "- **Best time:** weekday evenings, 7–9pm, are consistently the quietest window measured here. Weekends never really thin out, even early morning.\n- **Tickets:** buy in advance online if the option is available, or arrive right at 8:30am on a weekday to beat the first tour groups.\n- **Pace yourself:** the domed main hall is where everyone clusters first. Skip ahead to the side galleries and loop back once the crowd thins.\n- **Combine it:** pair your visit with a walk up to Ankara Castle immediately after. The entrance is a two-minute walk and the views over old Ankara are worth the climb.\n- **Etiquette:** photography is generally allowed without flash; keep voices low near the reliefs, as the stone rooms carry sound.\n- **Common mistake:** tourists often treat this as a 45-minute stop between the castle and lunch. Locals and repeat visitors know the Hittite and Phrygian rooms alone reward a slow half hour each."
+    ],
+    "added": [
+     "[FAQ 2] Q: When is the quietest time to visit? A: Weekday evenings between 7pm and 9pm are the calmest window in the forecast. Weekends stay busy essentially all day, with the worst crowds between noon and 6pm.",
+     "- **Best time:** weekday evenings, 7–9pm, are consistently the quietest window in the forecast. Weekends never really thin out, even early morning.\n- **Tickets:** buy in advance online if the option is available, or arrive right at 8:30am on a weekday to beat the first tour groups.\n- **Pace yourself:** the domed main hall is where everyone clusters first. Skip ahead to the side galleries and loop back once the crowd thins.\n- **Combine it:** pair your visit with a walk up to Ankara Castle immediately after. The entrance is a two-minute walk and the views over old Ankara are worth the climb.\n- **Etiquette:** photography is generally allowed without flash; keep voices low near the reliefs, as the stone rooms carry sound.\n- **Common mistake:** tourists often treat this as a 45-minute stop between the castle and lunch. Locals and repeat visitors know the Hittite and Phrygian rooms alone reward a slow half hour each."
+    ]
+   }
+  ]
+ },
  "annecy-musee-chateau-d-annecy": {
   "steps": [
    {
@@ -589,6 +677,23 @@
     ],
     "added": [
      "[QUICK ANSWER] The Musée-Château d'Annecy sits on the hill above the old town, an easy 10-minute walk from Annecy's canals, and holds regional art, sculpture, and rotating contemporary exhibitions inside a genuinely restored medieval castle. It's open daily except Tuesday, 10:30am–6pm. Aim for 1–2pm on any day to dodge the crowds, especially on weekends when 11am–1pm and 2pm–6pm get busy."
+    ]
+   }
+  ]
+ },
+ "annecy-parc-animalier-de-la-grande-jeanne": {
+  "steps": [
+   {
+    "from": "6605fb00c517",
+    "to": "03c222854b1e",
+    "at": "2026-11-02T18:30:22.870Z",
+    "removed": [
+     "The park logs its quietest stretch on weekend mornings between 7am and 9am, before the day-trippers from Annecy make the drive up.",
+     "Weekdays don't have the same measured pattern, but logic still applies: term-time mornings tend to be thinner than a sunny weekend afternoon."
+    ],
+    "added": [
+     "The forecast puts the park's quietest stretch on weekend mornings between 7am and 9am, before the day-trippers from Annecy make the drive up.",
+     "Weekdays don't show the same pattern in the forecast, but logic still applies: term-time mornings tend to be thinner than a sunny weekend afternoon."
     ]
    }
   ]
@@ -694,6 +799,23 @@
      "Public transport is the usual way in, because the CBD streets around the square get very busy during large events.",
      "- **Train:** Waitematā Station (Britomart) sits at the bottom of Queen Street. From there it is roughly a 15-minute uphill walk to Aotea Square.\n- **Bus:** Many routes run along Queen Street, Wellesley Street and Symonds Street, all within a few minutes' walk.\n- **Ferry:** Downtown Ferry Terminal is beside Britomart, so visitors from Devonport, Waiheke or the North Shore come straight in by water.\n- **Car:** The Civic car park lies beneath the Aotea Square precinct. It fills quickly during big events, and road closures around Queen Street are common for large gatherings.",
      "After fireworks displays on the square, the downhill walk to Britomart is the busiest stretch. Plenty of people let the first rush clear by lingering over a last chai."
+    ]
+   }
+  ]
+ },
+ "auckland-howick-historical-village": {
+  "steps": [
+   {
+    "from": "4e62a7baed22",
+    "to": "f849dcc7d545",
+    "at": "2026-11-02T18:30:22.871Z",
+    "removed": [
+     "[FAQ 1] Q: When is the quietest time to visit Howick Historical Village? A: No quiet window has been measured, but the busiest one has: weekends from 10am to 4pm. To avoid it, visit Tuesday to Thursday during the current 10am to 4pm opening.",
+     "The busiest measured window is weekends from 10am to 4pm. Try not to arrive in the middle of a Sunday if you want the cottages to yourself. A Tuesday, Wednesday or Thursday visit avoids that weekend peak entirely."
+    ],
+    "added": [
+     "[FAQ 1] Q: When is the quietest time to visit Howick Historical Village? A: The forecast shows no quiet window, only the busiest one: weekends from 10am to 4pm. To avoid it, visit Tuesday to Thursday during the current 10am to 4pm opening.",
+     "The busiest window in the forecast is weekends from 10am to 4pm. Try not to arrive in the middle of a Sunday if you want the cottages to yourself. A Tuesday, Wednesday or Thursday visit avoids that weekend peak entirely."
     ]
    }
   ]
@@ -1005,6 +1127,21 @@
    }
   ]
  },
+ "bali-museum-pasifika-bali": {
+  "steps": [
+   {
+    "from": "fc78ef70cf3e",
+    "to": "6dcc2e219a9d",
+    "at": "2026-11-02T18:30:22.872Z",
+    "removed": [
+     "Go right at opening on a weekend (10am–11am) or late afternoon on a weekday (5pm–6pm) for the emptiest rooms. Both are measured quiet windows, not guesses. Admission is normally paid at a ticket counter by cash or card; bring small rupiah notes just in case card machines are slow that day."
+    ],
+    "added": [
+     "Go right at opening on a weekend (10am–11am) or late afternoon on a weekday (5pm–6pm) for the emptiest rooms. Both are quiet windows in the forecast, not guesses. Admission is normally paid at a ticket counter by cash or card; bring small rupiah notes just in case card machines are slow that day."
+    ]
+   }
+  ]
+ },
  "banff-banff-park-museum-national-historic-site": {
   "steps": [
    {
@@ -1031,6 +1168,17 @@
     ],
     "added": [
      "Norman Luxton founded the museum. He was a Banff trader and promoter with close ties to the Stoney Nakoda, and he was tied up with Banff Indian Days, the summer gathering that brought First Nations families into town for decades. The collection grew out of those relationships."
+    ]
+   },
+   {
+    "from": "fbc1721b1699",
+    "to": "801eab3c19b9",
+    "at": "2026-11-02T18:30:22.873Z",
+    "removed": [
+     "[FAQ 2] Q: When is the quietest time to visit? A: Weekends are busy for the whole 11am–5pm opening, so aim for a weekday. Nobody has measured a quiet weekend hour."
+    ],
+    "added": [
+     "[FAQ 2] Q: When is the quietest time to visit? A: Weekends are busy for the whole 11am–5pm opening, so aim for a weekday. The forecast has no quiet weekend hour."
     ]
    }
   ]
@@ -1438,6 +1586,21 @@
    }
   ]
  },
+ "bangkok-the-temple-of-the-emerald-buddha": {
+  "steps": [
+   {
+    "from": "06c72c2cfe1a",
+    "to": "0bdfb8423878",
+    "at": "2026-11-02T18:30:22.857Z",
+    "removed": [
+     "[QUICK ANSWER] Wat Phra Kaew, inside the Grand Palace complex in Bangkok's Rattanakosin Island old town, is open daily 8:30am–3:30pm and is best tackled right at opening. Arrive between 8:30am and 9:30am — the measured quietest window on both weekdays and weekends — because by 10am to noon on weekends tour buses stack up and the ticket queue snakes along Na Phra Lan Road. Budget two to three hours, dress with shoulders and knees covered, and go by river ferry to Tha Chang pier rather than fighting Bangkok traffic by car."
+    ],
+    "added": [
+     "[QUICK ANSWER] Wat Phra Kaew, inside the Grand Palace complex in Bangkok's Rattanakosin Island old town, is open daily 8:30am–3:30pm and is best tackled right at opening. Arrive between 8:30am and 9:30am — the forecast's quietest window on both weekdays and weekends — because by 10am to noon on weekends tour buses stack up and the ticket queue snakes along Na Phra Lan Road. Budget two to three hours, dress with shoulders and knees covered, and go by river ferry to Tha Chang pier rather than fighting Bangkok traffic by car."
+    ]
+   }
+  ]
+ },
  "bangkok-the-weeknd-after-hours-til-dawn-tour": {
   "steps": [
    {
@@ -1574,6 +1737,21 @@
    }
   ]
  },
+ "barcelona-la-colmena": {
+  "steps": [
+   {
+    "from": "7074e61fe4ca",
+    "to": "2b4064645b97",
+    "at": "2026-11-02T18:30:22.858Z",
+    "removed": [
+     "The shop opens at 9am and stays open straight through to 9pm, seven days a week, so there's no midday closure to plan around. The measured pattern of foot traffic backs up what you'd guess just standing outside: weekend mornings between 9am and noon are the calmest stretch, when you can actually study the cases without someone's elbow in your back."
+    ],
+    "added": [
+     "The shop opens at 9am and stays open straight through to 9pm, seven days a week, so there's no midday closure to plan around. The typical pattern of foot traffic backs up what you'd guess just standing outside: weekend mornings between 9am and noon are the calmest stretch, when you can actually study the cases without someone's elbow in your back."
+    ]
+   }
+  ]
+ },
  "barcelona-la-oreja-de-van-gogh-with-amaia-montero": {
   "steps": [
    {
@@ -1615,6 +1793,23 @@
     ],
     "added": [
      "If you don't speak Spanish or Catalan, a simple *bona nit* (good evening, in Catalan) at the door is always received well. Ask for the bill with a simple \"the bill, please.\" It won't come until you ask, because lingering at the table is part of the meal here."
+    ]
+   }
+  ]
+ },
+ "barcelona-the-grill-barcelona": {
+  "steps": [
+   {
+    "from": "b33687aaa841",
+    "to": "453475b66a61",
+    "at": "2026-11-02T18:30:22.859Z",
+    "removed": [
+     "[FAQ 2] Q: When is the quietest time to visit? A: Foot traffic is lowest across the general 10am–11pm window on both weekdays and weekends — avoid 1pm–8pm on Saturdays and Sundays, which is the measured busiest stretch.",
+     "Weekends get busy fast, foot traffic here measures busiest between 1pm and 8pm on Saturdays and Sundays, exactly when cruise crowds and day-trippers pour off La Rambla. The quiet windows, both on weekdays and weekends, run through the 10am–11pm stretch outside that afternoon peak."
+    ],
+    "added": [
+     "[FAQ 2] Q: When is the quietest time to visit? A: Foot traffic is lowest across the general 10am–11pm window on both weekdays and weekends — avoid 1pm–8pm on Saturdays and Sundays, which is the busiest stretch in the forecast.",
+     "Weekends get busy fast, foot traffic here is forecast to be busiest between 1pm and 8pm on Saturdays and Sundays, exactly when cruise crowds and day-trippers pour off La Rambla. The quiet windows, both on weekdays and weekends, run through the 10am–11pm stretch outside that afternoon peak."
     ]
    }
   ]
@@ -1736,6 +1931,36 @@
     ],
     "added": [
      "The galleries rise floor by floor, and each one has its own theme:"
+    ]
+   }
+  ]
+ },
+ "bath-bath-guildhall-market": {
+  "steps": [
+   {
+    "from": "d648a54c9aae",
+    "to": "49fcd4ddcf97",
+    "at": "2026-11-02T18:30:22.860Z",
+    "removed": [
+     "Timing is a matter of reasoning rather than measurement. Bath fills with day-trippers from late morning, so arriving soon after the 9am opening usually means calmer aisles. Saturdays tend to draw shoppers into the centre, which makes weekdays the easier choice."
+    ],
+    "added": [
+     "Timing is a matter of reasoning rather than a crowd forecast. Bath fills with day-trippers from late morning, so arriving soon after the 9am opening usually means calmer aisles. Saturdays tend to draw shoppers into the centre, which makes weekdays the easier choice."
+    ]
+   }
+  ]
+ },
+ "bath-royal-victoria-park": {
+  "steps": [
+   {
+    "from": "6486fc72d2b6",
+    "to": "9d12eef8372c",
+    "at": "2026-11-02T18:30:22.861Z",
+    "removed": [
+     "Weekends get busy. Try not to turn up between 10am and 7pm on a Saturday or Sunday, when the lawns below the Crescent fill with picnic blankets and the playground queues build. The quietest weekend window is 7am–8am, when you'll mostly share the paths with dog walkers and runners. On weekdays the measured lull comes late, 10pm–11pm."
+    ],
+    "added": [
+     "Weekends get busy. Try not to turn up between 10am and 7pm on a Saturday or Sunday, when the lawns below the Crescent fill with picnic blankets and the playground queues build. The quietest weekend window is 7am–8am, when you'll mostly share the paths with dog walkers and runners. On weekdays the forecast lull comes late, 10pm–11pm."
     ]
    }
   ]
@@ -2022,6 +2247,17 @@
     "added": [
      "- **A flat white or latte.** Robusta's body and lower acidity hold up well under milk.\n- **A straight espresso.** This is the honest test if you've never tried robusta on purpose.\n- **Iced coffee.** It's a staple of the chain's menu, and robusta comes through clearly when it's chilled.\n- **A pastry or baked good.** Check what's on the board at this branch."
     ]
+   },
+   {
+    "from": "7e86a35c52c3",
+    "to": "d2ce15347edc",
+    "at": "2026-11-02T18:30:22.866Z",
+    "removed": [
+     "[FAQ 1] Q: When is the quietest time to visit Black Sheep Coffee on Ann Street? A: On weekends it's calmest between 7am and 9am. Avoid 11am to 6pm, its busiest stretch, when the city-centre shoppers arrive. No quiet window has been measured for weekdays, but it opens early, at 6:45am."
+    ],
+    "added": [
+     "[FAQ 1] Q: When is the quietest time to visit Black Sheep Coffee on Ann Street? A: On weekends it's calmest between 7am and 9am. Avoid 11am to 6pm, its busiest stretch, when the city-centre shoppers arrive. The forecast shows no quiet window for weekdays, but it opens early, at 6:45am."
+    ]
    }
   ]
  },
@@ -2039,6 +2275,19 @@
      "[FAQ 1] Q: When is the quietest time to visit Cave Hill Country Park? A: On weekends, the measured quietest window is 8am–10am and the busiest is 10am–1pm and 6pm–8pm. Crowds build from 10am, so starting at 8am gets you the calmest trails. No weekday crowd data is available.",
      "The park is open 24 hours, but the cliff-edge paths are unlit and drop sharply. Plan to walk in daylight. On weekends, measured footfall puts the quietest window at 8am–10am and the busiest at 10am–1pm and 6pm–8pm. In practice, crowds build from 10am and stay until evening. Set off at 8am and you'll have McArt's Fort mostly to yourself before the mid-morning wave arrives."
     ]
+   },
+   {
+    "from": "9ad64e62fe68",
+    "to": "b3954174f085",
+    "at": "2026-11-02T18:30:22.867Z",
+    "removed": [
+     "[FAQ 1] Q: When is the quietest time to visit Cave Hill Country Park? A: On weekends, the measured quietest window is 8am–10am and the busiest is 10am–1pm and 6pm–8pm. Crowds build from 10am, so starting at 8am gets you the calmest trails. No weekday crowd data is available.",
+     "The park is open 24 hours, but the cliff-edge paths are unlit and drop sharply. Plan to walk in daylight. On weekends, measured footfall puts the quietest window at 8am–10am and the busiest at 10am–1pm and 6pm–8pm. In practice, crowds build from 10am and stay until evening. Set off at 8am and you'll have McArt's Fort mostly to yourself before the mid-morning wave arrives."
+    ],
+    "added": [
+     "[FAQ 1] Q: When is the quietest time to visit Cave Hill Country Park? A: On weekends, the quietest window in the forecast is 8am–10am and the busiest is 10am–1pm and 6pm–8pm. Crowds build from 10am, so starting at 8am gets you the calmest trails. No weekday crowd data is available.",
+     "The park is open 24 hours, but the cliff-edge paths are unlit and drop sharply. Plan to walk in daylight. On weekends, the footfall forecast puts the quietest window at 8am–10am and the busiest at 10am–1pm and 6pm–8pm. In practice, crowds build from 10am and stay until evening. Set off at 8am and you'll have McArt's Fort mostly to yourself before the mid-morning wave arrives."
+    ]
    }
   ]
  },
@@ -2053,6 +2302,23 @@
     ],
     "added": [
      "Crowds here follow the tour schedule. On weekdays the wall is quiet throughout its open hours of 7am to 7pm. You'll often have long stretches of it almost to yourself."
+    ]
+   }
+  ]
+ },
+ "belfast-st-george-s-market": {
+  "steps": [
+   {
+    "from": "018d8a40150f",
+    "to": "b11f3402cb89",
+    "at": "2026-11-02T18:30:22.867Z",
+    "removed": [
+     "[FAQ 2] Q: When is the quietest time to visit? A: We don't have a measured quiet window, but weekends are busy for the whole 9am–3pm trading day. Friday is the best choice if you want to avoid that weekend peak. It also opens earliest, at 8am.",
+     "Our foot-traffic data shows weekends busy from 9am to 3pm. That's the whole Saturday trading day and every hour of Sunday, so a weekend visit means crowds at any time. If your plans allow it, come on Friday. It opens earliest, at 8am, and it falls outside that measured weekend peak."
+    ],
+    "added": [
+     "[FAQ 2] Q: When is the quietest time to visit? A: The forecast shows no quiet window, but weekends are busy for the whole 9am–3pm trading day. Friday is the best choice if you want to avoid that weekend peak. It also opens earliest, at 8am.",
+     "The foot-traffic forecast shows weekends busy from 9am to 3pm. That's the whole Saturday trading day and every hour of Sunday, so a weekend visit means crowds at any time. If your plans allow it, come on Friday. It opens earliest, at 8am, and it falls outside that forecast weekend peak."
     ]
    }
   ]
@@ -2359,6 +2625,23 @@
    }
   ]
  },
+ "berlin-markthalle-neun": {
+  "steps": [
+   {
+    "from": "93f4d904f3c4",
+    "to": "3c9b909b7506",
+    "at": "2026-11-02T18:30:22.868Z",
+    "removed": [
+     "[FAQ 1] Q: When is the quietest time to visit Markthalle Neun? A: Weekdays are the quiet side of the week, with the calmest window measured at 9am–9pm, so any opening hour from Monday to Friday works well. Avoid Saturday between 11am and 7pm, which is the busiest stretch.",
+     "The weekday crowd figures show the quietest stretch running 9am–9pm. In practice, that means any hour the doors are open from Monday to Friday is comfortable. Saturday is the problem. Try not to arrive between 11am and 7pm, when the aisles fill and the tables are hard to come by. If Saturday is your only day, come at the 9am opening for coffee and bread or slip in for the last hour."
+    ],
+    "added": [
+     "[FAQ 1] Q: When is the quietest time to visit Markthalle Neun? A: Weekdays are the quiet side of the week, with the calmest window in the forecast at 9am–9pm, so any opening hour from Monday to Friday works well. Avoid Saturday between 11am and 7pm, which is the busiest stretch.",
+     "The weekday crowd forecast shows the quietest stretch running 9am–9pm. In practice, that means any hour the doors are open from Monday to Friday is comfortable. Saturday is the problem. Try not to arrive between 11am and 7pm, when the aisles fill and the tables are hard to come by. If Saturday is your only day, come at the 9am opening for coffee and bread or slip in for the last hour."
+    ]
+   }
+  ]
+ },
  "berlin-mcnd-berlin-2026": {
   "steps": [
    {
@@ -2510,6 +2793,36 @@
    }
   ]
  },
+ "bhubaneswar-lingaraj-temple": {
+  "steps": [
+   {
+    "from": "bde4313a9ae8",
+    "to": "ec1541d78f40",
+    "at": "2026-11-02T18:30:22.835Z",
+    "removed": [
+     "Lingaraj draws heavy numbers year-round, and it is not a quiet, undiscovered spot; expect company at almost any hour. The measured quiet spells are 7am to 8am on both weekdays and weekends, right after opening, before tour groups and the bulk of pilgrims arrive."
+    ],
+    "added": [
+     "Lingaraj draws heavy numbers year-round, and it is not a quiet, undiscovered spot; expect company at almost any hour. The quiet spells in the forecast are 7am to 8am on both weekdays and weekends, right after opening, before tour groups and the bulk of pilgrims arrive."
+    ]
+   }
+  ]
+ },
+ "birmingham-birmingham-museum-art-gallery": {
+  "steps": [
+   {
+    "from": "ba1ee919cd71",
+    "to": "256f6aba1538",
+    "at": "2026-11-02T18:30:22.836Z",
+    "removed": [
+     "[FAQ 1] Q: When is the quietest time to visit Birmingham Museum & Art Gallery? A: There's no measured quiet window, but weekends are busiest from 11am to 5pm. On a Saturday or Sunday, arrive when the doors open at 10am to see the Staffordshire Hoard before the crowds build."
+    ],
+    "added": [
+     "[FAQ 1] Q: When is the quietest time to visit Birmingham Museum & Art Gallery? A: The forecast shows no quiet window, but weekends are busiest from 11am to 5pm. On a Saturday or Sunday, arrive when the doors open at 10am to see the Staffordshire Hoard before the crowds build."
+    ]
+   }
+  ]
+ },
  "birmingham-lapworth-museum-of-geology": {
   "steps": [
    {
@@ -2584,6 +2897,19 @@
     ],
     "added": [
      "If you're visiting on a weekend, aim for the 9am–10am or 1pm–3pm windows, which typical foot traffic shows are the calmer stretches. Try to avoid rolling in between 3pm and 5pm on Saturday or Sunday, when visitor numbers climb toward the day's peak."
+    ]
+   },
+   {
+    "from": "c147f24b4678",
+    "to": "083e6863667a",
+    "at": "2026-11-02T18:30:22.838Z",
+    "removed": [
+     "[FAQ 3] Q: When is the quietest time to visit? A: On weekends, 9am to 5pm is the calmer window based on measured visitor patterns. Try to avoid 3pm to 5pm on Saturday and Sunday, when it gets busiest.",
+     "If you're visiting on a weekend, aim for the 9am–10am or 1pm–3pm windows, which typical foot traffic shows are the calmer stretches. Try to avoid rolling in between 3pm and 5pm on Saturday or Sunday, when visitor numbers climb toward the day's peak."
+    ],
+    "added": [
+     "[FAQ 3] Q: When is the quietest time to visit? A: On weekends, 9am to 5pm is the calmer window based on typical visitor patterns. Try to avoid 3pm to 5pm on Saturday and Sunday, when it gets busiest.",
+     "If you're visiting on a weekend, aim for the 9am–10am or 1pm–3pm windows, which the foot-traffic forecast shows are the calmer stretches. Try to avoid rolling in between 3pm and 5pm on Saturday or Sunday, when visitor numbers climb toward the day's peak."
     ]
    }
   ]
@@ -2897,6 +3223,17 @@
     "added": [
      "If you want space to browse and time to talk to stallholders, Friday evening is the only option outside the weekend crowd. That makes it the best bet for a calmer look. If you can only come at the weekend, expect shoulder-to-shoulder footpaths and plan around them."
     ]
+   },
+   {
+    "from": "a9ae6c8fabfb",
+    "to": "40f46e58b022",
+    "at": "2026-11-02T18:30:22.839Z",
+    "removed": [
+     "[FAQ 2] Q: When is the quietest time to visit? A: No quiet weekend window has been measured. On weekends the market is busiest from 9am to 9pm, which covers all of its trading hours. Friday evening, 5–9pm, is the only session outside that weekend peak, so it's the best choice if you want room to browse."
+    ],
+    "added": [
+     "[FAQ 2] Q: When is the quietest time to visit? A: The forecast shows no quiet weekend window. On weekends the market is busiest from 9am to 9pm, which covers all of its trading hours. Friday evening, 5–9pm, is the only session outside that weekend peak, so it's the best choice if you want room to browse."
+    ]
    }
   ]
  },
@@ -2925,6 +3262,51 @@
      "A visit to the fair usually takes a long afternoon. Pavilions at La Rural are big halls with concrete floors, and the booths are laid out in a grid of aisles. Most visitors spend three to four hours there and still take a second lap.",
      "- **Pace:** walk every aisle once, then go back to the booths you liked.\n- **Programme:** talks and curated sections are usually held alongside the commercial booths. They appear on the fair map at the entrance.\n- **Weekend:** Saturday and Sunday bring families and students, so the aisles fill up more than on a weekday.\n- **Food:** the grounds have cafés. Bigger meals are a short walk away on Santa Fe and in Palermo Soho.",
      "Booths are run by gallerists, and they welcome questions. Opening with \"Hola, buenas\" before asking anything is basic courtesy in Buenos Aires."
+    ]
+   }
+  ]
+ },
+ "buenos-aires-don-julio-parrilla": {
+  "steps": [
+   {
+    "from": "6096a28910bc",
+    "to": "aac684a480ae",
+    "at": "2026-11-02T18:30:22.840Z",
+    "removed": [
+     "[FAQ 2] Q: When is the quietest time to visit? A: We don't have a measured quiet window. The data does show weekends are busiest from 1pm–2pm and 7pm–11pm, so aim for the 11:30am opening or a late table after 11pm. Dinner currently runs until 1am."
+    ],
+    "added": [
+     "[FAQ 2] Q: When is the quietest time to visit? A: The forecast shows no quiet window, but it does show weekends are busiest from 1pm–2pm and 7pm–11pm, so aim for the 11:30am opening or a late table after 11pm. Dinner currently runs until 1am."
+    ]
+   }
+  ]
+ },
+ "buenos-aires-jardin-botanico-carlos-thays": {
+  "steps": [
+   {
+    "from": "230d311ad5bf",
+    "to": "09836897623c",
+    "at": "2026-11-02T18:30:22.797Z",
+    "removed": [
+     "On weekends, aim for 10am–11am, which is the quietest window. Try not to arrive between 2pm and 6pm on Saturday or Sunday. By then families and strollers have filled the main paths and the greenhouse gets crowded. Weekday mornings after the 8am opening are a sensible bet too. They follow the city's work rhythm rather than measured data."
+    ],
+    "added": [
+     "On weekends, aim for 10am–11am, which is the quietest window. Try not to arrive between 2pm and 6pm on Saturday or Sunday. By then families and strollers have filled the main paths and the greenhouse gets crowded. Weekday mornings after the 8am opening are a sensible bet too. They follow the city's work rhythm rather than the forecast."
+    ]
+   }
+  ]
+ },
+ "buenos-aires-tres-de-febrero-park": {
+  "steps": [
+   {
+    "from": "eec3d508d79a",
+    "to": "d90726beaadf",
+    "at": "2026-11-02T18:30:22.799Z",
+    "removed": [
+     "[FAQ 1] Q: When is the quietest time to visit Tres de Febrero Park? A: The measured peak is weekends from 1pm–8pm, so avoid those hours. Weekdays, or a weekend morning soon after the 8am opening, are much calmer."
+    ],
+    "added": [
+     "[FAQ 1] Q: When is the quietest time to visit Tres de Febrero Park? A: The forecast peak is weekends from 1pm–8pm, so avoid those hours. Weekdays, or a weekend morning soon after the 8am opening, are much calmer."
     ]
    }
   ]
@@ -3160,6 +3542,17 @@
     "added": [
      "- The exterior tiles are the turquoise-green cladding that gives the tomb its name\n- The interior tilework is largely original 15th-century work\n- The mihrab is the single most photographed detail inside"
     ]
+   },
+   {
+    "from": "6dc284c2936a",
+    "to": "6770b3ff9075",
+    "at": "2026-11-02T18:30:22.802Z",
+    "removed": [
+     "This is a very popular stop on the Bursa circuit, and it shows, tour groups cycle through steadily once the day gets going. The measured quiet windows are worth planning around."
+    ],
+    "added": [
+     "This is a very popular stop on the Bursa circuit, and it shows, tour groups cycle through steadily once the day gets going. The quiet windows in the forecast are worth planning around."
+    ]
    }
   ]
  },
@@ -3360,6 +3753,17 @@
     "added": [
      "It's a short walk but a sweaty one in tropical humidity. Carry water, wear shoes with grip, and allow 45 minutes to an hour. Fit walkers can take the much longer Blue Arrow circuit further into the conservation park. Many locals treat the Red Arrow as their regular early workout, so expect to share the steps with them if you climb early in the morning."
     ]
+   },
+   {
+    "from": "fc06cf8ba5c3",
+    "to": "6139c87232fb",
+    "at": "2026-11-02T18:30:22.804Z",
+    "removed": [
+     "[FAQ 1] Q: When is the quietest time to visit Cairns Botanic Gardens? A: The only measured peak is on weekends, from 8am to 2pm, so avoid that window. On a Saturday or Sunday, arrive after 2pm and you'll still have more than three hours before the 5:30pm close. Weekday visits avoid the weekend crowds altogether."
+    ],
+    "added": [
+     "[FAQ 1] Q: When is the quietest time to visit Cairns Botanic Gardens? A: The only peak in the forecast is on weekends, from 8am to 2pm, so avoid that window. On a Saturday or Sunday, arrive after 2pm and you'll still have more than three hours before the 5:30pm close. Weekday visits avoid the weekend crowds altogether."
+    ]
    }
   ]
  },
@@ -3404,6 +3808,21 @@
    }
   ]
  },
+ "calgary-heritage-park": {
+  "steps": [
+   {
+    "from": "de25445f6048",
+    "to": "f144fcee8c72",
+    "at": "2026-11-02T18:30:22.805Z",
+    "removed": [
+     "[FAQ 1] Q: When is the quietest time to visit Heritage Park? A: We only have measured crowd data for weekends, and it shows them busiest from 10am–5pm. A weekday visit is the best way to avoid that. On a weekend, book tickets online and start at the far end of the grounds."
+    ],
+    "added": [
+     "[FAQ 1] Q: When is the quietest time to visit Heritage Park? A: We only have a crowd forecast for weekends, and it shows them busiest from 10am–5pm. A weekday visit is the best way to avoid that. On a weekend, book tickets online and start at the far end of the grounds."
+    ]
+   }
+  ]
+ },
  "calgary-prince-s-island-park": {
   "steps": [
    {
@@ -3415,6 +3834,21 @@
     ],
     "added": [
      "The typical foot traffic is easy to read. On weekdays and weekends alike, the calmest window is 7am–9am. At that hour you mostly share the paths with runners and cyclists commuting along the river, and the light comes low across the water."
+    ]
+   }
+  ]
+ },
+ "calgary-wonderland-sculpture": {
+  "steps": [
+   {
+    "from": "af537800f35e",
+    "to": "b36954e58238",
+    "at": "2026-11-02T18:30:22.783Z",
+    "removed": [
+     "[FAQ 1] Q: When is the quietest time to visit Wonderland Sculpture? A: On weekends, the quietest window is 7am–11am. Try not to arrive between 4pm and 11pm on weekends, when the plaza is busiest and people line up for photos inside the head. There's no measured weekday data."
+    ],
+    "added": [
+     "[FAQ 1] Q: When is the quietest time to visit Wonderland Sculpture? A: On weekends, the quietest window is 7am–11am. Try not to arrive between 4pm and 11pm on weekends, when the plaza is busiest and people line up for photos inside the head. The forecast has no weekday data."
     ]
    }
   ]
@@ -3785,6 +4219,21 @@
    }
   ]
  },
+ "central-cupping-room-central": {
+  "steps": [
+   {
+    "from": "9e5c58f0ea67",
+    "to": "e3400ab29a33",
+    "at": "2026-11-02T18:30:22.784Z",
+    "removed": [
+     "[FAQ 1] Q: What are the best hours to avoid crowds at Cupping Room? A: Go on a weekday between 8am and 9am, right after opening — that's the measured quietest window. Weekend afternoons from noon to 5pm are the busiest, so avoid arriving then if you want a table without waiting."
+    ],
+    "added": [
+     "[FAQ 1] Q: What are the best hours to avoid crowds at Cupping Room? A: Go on a weekday between 8am and 9am, right after opening — that's the quietest window in the forecast. Weekend afternoons from noon to 5pm are the busiest, so avoid arriving then if you want a table without waiting."
+    ]
+   }
+  ]
+ },
  "central-hong-kong-zoological-and-botanical-gardens": {
   "steps": [
    {
@@ -3871,6 +4320,23 @@
     ],
     "added": [
      "Tea is paid for afterward, to the server rather than up front. Mobile payment via WeChat or Alipay is standard if you have a Chinese payment app set up; otherwise small cash works fine."
+    ]
+   }
+  ]
+ },
+ "chennai-arulmigu-marundeeswarar-temple": {
+  "steps": [
+   {
+    "from": "2fb765767e5b",
+    "to": "764e3ba3ff71",
+    "at": "2026-11-02T18:30:22.785Z",
+    "removed": [
+     "[FAQ 2] Q: When is the quietest time to visit? A: No exact quiet hours are measured, but weekends stay busy the entire 8am to 9pm stretch, so a weekday visit, ideally right near the 5:30am opening, is the best bet for a calmer visit. Avoid Monday evenings, which draw larger Shiva-worship crowds.",
+     "This is a genuinely well-visited temple, not an under-the-radar stop, and weekends show it. The measured pattern here is that Saturdays and Sundays stay busy across the entire open period, roughly 8am to 9pm, without a real lull."
+    ],
+    "added": [
+     "[FAQ 2] Q: When is the quietest time to visit? A: The forecast shows no quiet hours, but weekends stay busy the entire 8am to 9pm stretch, so a weekday visit, ideally right near the 5:30am opening, is the best bet for a calmer visit. Avoid Monday evenings, which draw larger Shiva-worship crowds.",
+     "This is a genuinely well-visited temple, not an under-the-radar stop, and weekends show it. The forecast here shows that Saturdays and Sundays stay busy across the entire open period, roughly 8am to 9pm, without a real lull."
     ]
    }
   ]
@@ -3991,6 +4457,21 @@
    }
   ]
  },
+ "chiang-mai-three-kings-monument": {
+  "steps": [
+   {
+    "from": "4fa744e3f4ca",
+    "to": "a703f66b998a",
+    "at": "2026-11-02T18:30:22.787Z",
+    "removed": [
+     "[FAQ 1] Q: When is the quietest time to visit the Three Kings Monument? A: The only measured figure is the peak: weekends from 3pm–11pm are the busiest. Go on a weekday or on a weekend morning to avoid it."
+    ],
+    "added": [
+     "[FAQ 1] Q: When is the quietest time to visit the Three Kings Monument? A: The forecast only shows the peak: weekends from 3pm–11pm are the busiest. Go on a weekday or on a weekend morning to avoid it."
+    ]
+   }
+  ]
+ },
  "chiayi-chiayi-park": {
   "steps": [
    {
@@ -4018,6 +4499,32 @@
     "added": [
      "- Go on a weekday between 10am and noon, the measured quiet window, before groups arrive\n- If a weekend is your only option, be at the gate at opening or wait until after 5pm\n- It's worth carrying a little cash alongside the usual cards or mobile pay, just in case\n- No tipping expected anywhere in Taiwan, including here\n- Wear socks you don't mind showing, a few interior spaces with tatami flooring ask you to remove shoes\n- The mistake most visitors make is treating it as a 20-minute photo stop; the real texture is in the side lanes away from the main entrance path, where the crowds thin out fast"
     ]
+   },
+   {
+    "from": "f996381bee11",
+    "to": "16df0c10cf06",
+    "at": "2026-11-02T18:30:22.755Z",
+    "removed": [
+     "- Go on a weekday between 10am and noon, the measured quiet window, before groups arrive\n- If a weekend is your only option, be at the gate at opening or wait until after 5pm\n- It's worth carrying a little cash alongside the usual cards or mobile pay, just in case\n- No tipping expected anywhere in Taiwan, including here\n- Wear socks you don't mind showing, a few interior spaces with tatami flooring ask you to remove shoes\n- The mistake most visitors make is treating it as a 20-minute photo stop; the real texture is in the side lanes away from the main entrance path, where the crowds thin out fast"
+    ],
+    "added": [
+     "- Go on a weekday between 10am and noon, the forecast quiet window, before groups arrive\n- If a weekend is your only option, be at the gate at opening or wait until after 5pm\n- It's worth carrying a little cash alongside the usual cards or mobile pay, just in case\n- No tipping expected anywhere in Taiwan, including here\n- Wear socks you don't mind showing, a few interior spaces with tatami flooring ask you to remove shoes\n- The mistake most visitors make is treating it as a 20-minute photo stop; the real texture is in the side lanes away from the main entrance path, where the crowds thin out fast"
+    ]
+   }
+  ]
+ },
+ "chiba-aobanomori-park": {
+  "steps": [
+   {
+    "from": "c158c5fe5ddf",
+    "to": "61a7ecdbbc23",
+    "at": "2026-11-02T18:30:22.760Z",
+    "removed": [
+     "The measured pattern here is straightforward: weekends from 9am to 6pm are when the park fills up, especially families with young children and groups doing the seasonal photo circuit under blossoming trees. If you're after a calmer walk, the quietest stretch on weekdays runs from 9pm to 11pm, and on weekends it narrows to 10pm to 11pm."
+    ],
+    "added": [
+     "The forecast pattern here is straightforward: weekends from 9am to 6pm are when the park fills up, especially families with young children and groups doing the seasonal photo circuit under blossoming trees. If you're after a calmer walk, the quietest stretch on weekdays runs from 9pm to 11pm, and on weekends it narrows to 10pm to 11pm."
+    ]
    }
   ]
  },
@@ -4034,6 +4541,21 @@
     "added": [
      "Inside, the scale is bigger than most first-timers expect. Six permanent exhibition rooms move chronologically from the Jōmon and Yayoi periods through the samurai era into the Meiji Restoration and modern folk life, with rotating special exhibitions filling a seventh space. Full-size reconstructions, not just glass cases, carry a lot of the storytelling here: a Jōmon-period dwelling, an Edo-period townscape, folk tools laid out as they'd have been used.",
      "Labels are in Japanese with English support in most rooms, though the depth of English translation varies by section. If you read exhibit text closely, this is not a 90-minute museum; plan for a much longer visit if you want to see all six galleries."
+    ]
+   }
+  ]
+ },
+ "chicago-360-chicago": {
+  "steps": [
+   {
+    "from": "c412479fb909",
+    "to": "bf9cfe2caad6",
+    "at": "2026-11-02T18:30:22.768Z",
+    "removed": [
+     "Check the current opening hours before you go, since they can vary by season, but there's typically enough of a window to catch sunset, blue hour, and full night skyline without rushing. Measured crowd patterns show weekdays stay fairly even from open to close, so any weekday hour is a reasonably safe bet. Weekends are different: the calm window is early, 9–11am, right after opening, while things build steadily and peak hard between 2pm and 10pm."
+    ],
+    "added": [
+     "Check the current opening hours before you go, since they can vary by season, but there's typically enough of a window to catch sunset, blue hour, and full night skyline without rushing. The crowd forecast shows weekdays stay fairly even from open to close, so any weekday hour is a reasonably safe bet. Weekends are different: the calm window is early, 9–11am, right after opening, while things build steadily and peak hard between 2pm and 10pm."
     ]
    }
   ]
@@ -4164,6 +4686,17 @@
     "added": [
      "Japanese architect Shigeru Ban designed it after the February 2011 earthquake damaged ChristChurch Cathedral in Cathedral Square. It opened in 2013 as a transitional cathedral for the Anglican diocese. \"Interim\" was always the plan, and the city's main cathedral is still being reinstated."
     ]
+   },
+   {
+    "from": "fed2d19845d6",
+    "to": "ab3eb19bcd17",
+    "at": "2026-11-02T18:30:22.770Z",
+    "removed": [
+     "- **Quietest:** 1pm–4pm on weekends. On Sunday that window ends at the 3pm close.\n- **Busiest:** 9am–1pm on weekends. Sunday worship falls in this window, so expect pews in use.\n- **Weekdays:** no measured data, so arrive with time to spare."
+    ],
+    "added": [
+     "- **Quietest:** 1pm–4pm on weekends. On Sunday that window ends at the 3pm close.\n- **Busiest:** 9am–1pm on weekends. Sunday worship falls in this window, so expect pews in use.\n- **Weekdays:** no forecast data, so arrive with time to spare."
+    ]
    }
   ]
  },
@@ -4193,6 +4726,17 @@
     ],
     "added": [
      "Try to avoid boarding between 10am and 5pm on weekends. That's the busiest stretch, when carriages fill and you can end up standing at the back, away from the narration. Weekday mornings are a reasonable alternative if evenings don't suit."
+    ]
+   },
+   {
+    "from": "a313bf1a12e6",
+    "to": "0a9723cee39b",
+    "at": "2026-11-02T18:30:22.772Z",
+    "removed": [
+     "Timing changes this ride more than almost anything else. The measured quiet window is 5pm–6pm, on weekdays and weekends alike. Seats are easier to get then, and late light falls along Worcester Boulevard."
+    ],
+    "added": [
+     "Timing changes this ride more than almost anything else. The forecast quiet window is 5pm–6pm, on weekdays and weekends alike. Seats are easier to get then, and late light falls along Worcester Boulevard."
     ]
    }
   ]
@@ -4283,6 +4827,36 @@
     ],
     "added": [
      "The house was built for a wealthy local merchant, who got rich enough to commission the most ambitious townhouse on the street. It dates from the early Alsatian Renaissance. You can see that in the way the stone ground floor gives way to timber and paint above. A merchant was advertising his success to everyone heading for the market."
+    ]
+   }
+  ]
+ },
+ "colmar-musee-unterlinden": {
+  "steps": [
+   {
+    "from": "4bf17eb667a0",
+    "to": "5b27a9734a29",
+    "at": "2026-11-02T18:30:22.841Z",
+    "removed": [
+     "This is not a quiet find anyone stumbles on by accident; it's one of the most-visited museums in Alsace, and the ticket hall shows it most weekend mornings. The measured quiet window is 9am to 10am on weekends, right at opening, before the 11am-to-6pm stretch when it fills up."
+    ],
+    "added": [
+     "This is not a quiet find anyone stumbles on by accident; it's one of the most-visited museums in Alsace, and the ticket hall shows it most weekend mornings. The forecast quiet window is 9am to 10am on weekends, right at opening, before the 11am-to-6pm stretch when it fills up."
+    ]
+   }
+  ]
+ },
+ "colmar-parc-saint-francois-xavier": {
+  "steps": [
+   {
+    "from": "45671d7ab9dd",
+    "to": "6b9ea493f342",
+    "at": "2026-11-02T18:30:22.843Z",
+    "removed": [
+     "Weekend crowd patterns are measured here: the calmest hours tend to fall in the morning on Saturdays and Sundays. Afternoons from 2pm to 7pm draw more local traffic, mostly families, so aim for the morning window if you want the lawns to yourself."
+    ],
+    "added": [
+     "There is a weekend crowd forecast for this park: the calmest hours tend to fall in the morning on Saturdays and Sundays. Afternoons from 2pm to 7pm draw more local traffic, mostly families, so aim for the morning window if you want the lawns to yourself."
     ]
    }
   ]
@@ -4500,6 +5074,21 @@
     "added": [
      "[FAQ 2] Q: What's the quietest time to visit? A: Foot-traffic data shows 7am–8am and 4pm–5pm on both weekdays and weekends are generally calm, but the real crush hits weekends between 9am and 1pm when tour buses cluster. Arrive at or near opening (6am) for the emptiest towers and softest light."
     ]
+   },
+   {
+    "from": "3e17b66aa8d2",
+    "to": "7b11ae1972ce",
+    "at": "2026-11-02T18:30:22.844Z",
+    "removed": [
+     "[FAQ 2] Q: What's the quietest time to visit? A: Foot-traffic data shows 7am–8am and 4pm–5pm on both weekdays and weekends are generally calm, but the real crush hits weekends between 9am and 1pm when tour buses cluster. Arrive at or near opening (6am) for the emptiest towers and softest light.",
+     "The site opens at 6am and closes at 5pm every day, and the hour you choose changes the experience completely. Crowd data shows weekends get genuinely busy between 9am and 1pm, when multiple tour buses converge at once.",
+     "- Aim for 7am–9am or after 3pm, the site's quietest measured windows on both weekdays and weekends\n- Skip the 9am–1pm weekend rush entirely if your schedule allows\n- Wear closed shoes with real tread, paths are uneven brick, tree roots and gravel, not paved walkway\n- Bring water and a hat; there's little shade once you're among the towers themselves\n- Pay entrance fees in Vietnamese dong cash; card acceptance at rural ticket counters is unreliable\n- Hire a guide at the entrance if you didn't book one. The carvings mean far more with context than without"
+    ],
+    "added": [
+     "[FAQ 2] Q: What's the quietest time to visit? A: The foot-traffic forecast shows 7am–8am and 4pm–5pm on both weekdays and weekends are generally calm, but the real crush hits weekends between 9am and 1pm when tour buses cluster. Arrive at or near opening (6am) for the emptiest towers and softest light.",
+     "The site opens at 6am and closes at 5pm every day, and the hour you choose changes the experience completely. The crowd forecast shows weekends get genuinely busy between 9am and 1pm, when multiple tour buses converge at once.",
+     "- Aim for 7am–9am or after 3pm, the site's quietest forecast windows on both weekdays and weekends\n- Skip the 9am–1pm weekend rush entirely if your schedule allows\n- Wear closed shoes with real tread, paths are uneven brick, tree roots and gravel, not paved walkway\n- Bring water and a hat; there's little shade once you're among the towers themselves\n- Pay entrance fees in Vietnamese dong cash; card acceptance at rural ticket counters is unreliable\n- Hire a guide at the entrance if you didn't book one. The carvings mean far more with context than without"
+    ]
    }
   ]
  },
@@ -4634,6 +5223,21 @@
     ],
     "added": [
      "Typical foot traffic makes the choice simple. The museum opens from 9:30am to 4pm on weekdays and Saturdays, and 10am–3pm on Sundays. Even within those hours, the busiest stretch tends to be late morning into early afternoon, when you can end up queuing for screens in the multimedia gallery."
+    ]
+   }
+  ]
+ },
+ "darwin-darwin-waterfront-precinct": {
+  "steps": [
+   {
+    "from": "df6324f9c7ad",
+    "to": "8260c1865712",
+    "at": "2026-11-02T18:30:22.845Z",
+    "removed": [
+     "[FAQ 1] Q: When is the quietest time to visit Darwin Waterfront Precinct? A: We only have measured data for the busy period: weekends from 11am to 11pm. Avoid that stretch by coming on a weekday, or arrive before 11am if you have to come on a weekend."
+    ],
+    "added": [
+     "[FAQ 1] Q: When is the quietest time to visit Darwin Waterfront Precinct? A: We only have a crowd forecast for the busy period: weekends from 11am to 11pm. Avoid that stretch by coming on a weekday, or arrive before 11am if you have to come on a weekend."
     ]
    }
   ]
@@ -4855,6 +5459,19 @@
     "added": [
      "Friday and Saturday run until midnight. That gives you room for a late dinner after a performance at the Semperoper, a short walk away."
     ]
+   },
+   {
+    "from": "6677b5d40f54",
+    "to": "7d16915e3047",
+    "at": "2026-11-02T18:30:22.847Z",
+    "removed": [
+     "[FAQ 1] Q: When is the quietest time to visit Pulverturm? A: We only have data on the busiest stretch: 2pm to 10pm on weekends. Try to avoid it. On Saturday and Sunday the restaurant opens at 11am, so a late-morning lunch arrives before that peak. Weekday lunch from noon on Monday, Tuesday or Thursday is another option outside it.",
+     "This is one of the most-reviewed restaurants in the Altstadt, and it shows on weekends. Try not to turn up between 2pm and 10pm on Saturday or Sunday without a booking. That is the measured peak, and the whole evening service falls inside it."
+    ],
+    "added": [
+     "[FAQ 1] Q: When is the quietest time to visit Pulverturm? A: We only have a crowd forecast for the busiest stretch: 2pm to 10pm on weekends. Try to avoid it. On Saturday and Sunday the restaurant opens at 11am, so a late-morning lunch arrives before that peak. Weekday lunch from noon on Monday, Tuesday or Thursday is another option outside it.",
+     "This is one of the most-reviewed restaurants in the Altstadt, and it shows on weekends. Try not to turn up between 2pm and 10pm on Saturday or Sunday without a booking. That is the forecast peak, and the whole evening service falls inside it."
+    ]
    }
   ]
  },
@@ -4869,6 +5486,21 @@
     ],
     "added": [
      "That suits November. Late autumn is when Dubai's evenings cool off, and outdoor concerts come back after the summer heat. A light layer covers the breeze late in the night."
+    ]
+   }
+  ]
+ },
+ "dubai-etihad-museum": {
+  "steps": [
+   {
+    "from": "eef4e20aedb3",
+    "to": "b3bf00817f46",
+    "at": "2026-11-02T18:30:22.814Z",
+    "removed": [
+     "The museum runs the same hours every day of the week: 10am to 8pm, seven days a week, which makes it easy to slot into a loose itinerary rather than plan around it. If you're visiting on a weekend, aim for that 10am to 11am opening window. That's the measured quiet stretch before tour groups and families start filling the galleries. Midday and early evening tend to draw the bigger crowds, especially on Saturdays."
+    ],
+    "added": [
+     "The museum runs the same hours every day of the week: 10am to 8pm, seven days a week, which makes it easy to slot into a loose itinerary rather than plan around it. If you're visiting on a weekend, aim for that 10am to 11am opening window. That's the quiet stretch in the forecast, before tour groups and families start filling the galleries. Midday and early evening tend to draw the bigger crowds, especially on Saturdays."
     ]
    }
   ]
@@ -4950,6 +5582,23 @@
    }
   ]
  },
+ "dusseldorf-japanese-garden": {
+  "steps": [
+   {
+    "from": "a1e7e632396e",
+    "to": "f9952b7e825a",
+    "at": "2026-11-02T18:30:22.818Z",
+    "removed": [
+     "[FAQ 2] Q: When is the quietest time to visit? A: We only have measured data for the busy period: weekends from 11am to 7pm. Avoid that window. At the weekend, arriving before 11am is your best bet.",
+     "If you can only come at the weekend, arrive before 11am. Early morning light on the pond is also more flattering than harsh midday sun. We don't have measured quiet hours for weekdays. Still, a garden like this usually feels calmer when office workers and schools are busy than it does on a free Saturday afternoon."
+    ],
+    "added": [
+     "[FAQ 2] Q: When is the quietest time to visit? A: We only have forecast data for the busy period: weekends from 11am to 7pm. Avoid that window. At the weekend, arriving before 11am is your best bet.",
+     "If you can only come at the weekend, arrive before 11am. Early morning light on the pond is also more flattering than harsh midday sun. The forecast has no quiet hours for weekdays. Still, a garden like this usually feels calmer when office workers and schools are busy than it does on a free Saturday afternoon."
+    ]
+   }
+  ]
+ },
  "dusseldorf-museum-kunstpalast": {
   "steps": [
    {
@@ -4961,6 +5610,21 @@
     ],
     "added": [
      "Typical foot traffic shows that 6pm–7pm is the quietest weekday window. Thursday is the only weekday when the building is actually open then. Arrive around 5pm, see a temporary show while the daytime visitors leave, then have the permanent galleries mostly to yourself after six."
+    ]
+   }
+  ]
+ },
+ "edinburgh-the-piper-s-rest": {
+  "steps": [
+   {
+    "from": "04fccd806a93",
+    "to": "7624983f9f0c",
+    "at": "2026-11-02T18:30:22.819Z",
+    "removed": [
+     "The measured quiet spells are 10am to 1pm on weekdays and 10am to 12pm on weekends. Weekend evenings are when you'll struggle: between 4pm and 11pm on Saturdays and Sundays, finding a table gets hard. In August, the Fringe fills Hunter Square with performers and queues, so arrive earlier than you normally would."
+    ],
+    "added": [
+     "The quiet spells in the forecast are 10am to 1pm on weekdays and 10am to 12pm on weekends. Weekend evenings are when you'll struggle: between 4pm and 11pm on Saturdays and Sundays, finding a table gets hard. In August, the Fringe fills Hunter Square with performers and queues, so arrive earlier than you normally would."
     ]
    }
   ]
@@ -5053,6 +5717,21 @@
     "added": [
      "Most visitors arrive at Santa Maria Novella, Florence's main rail station. From there the historic centre is walkable, and Santa Croce is within walking distance across town.",
      "For the post-race dinner, reserve a table. Trattorie near Santa Croce and across the river in Oltrarno fill with runners that evening, serving classic Tuscan dishes. Leave a day for the Uffizi, but book that ticket separately in advance."
+    ]
+   }
+  ]
+ },
+ "florence-galleria-dell-accademia-di-firenze": {
+  "steps": [
+   {
+    "from": "7183423036a1",
+    "to": "b0e604ebb5fb",
+    "at": "2026-11-02T18:30:22.821Z",
+    "removed": [
+     "This is consistently one of the most-visited museums in Italy, and the queue on Via Ricasoli without a reservation can run well over an hour, especially in spring and summer. The measured crowd pattern backs this up: weekends stay busy from 10am right through to 6pm, so the calm window is early, between 8:15am and 9am at opening. Arriving right when the doors open is the single best move you can make here."
+    ],
+    "added": [
+     "This is consistently one of the most-visited museums in Italy, and the queue on Via Ricasoli without a reservation can run well over an hour, especially in spring and summer. The crowd forecast backs this up: weekends stay busy from 10am right through to 6pm, so the calm window is early, between 8:15am and 9am at opening. Arriving right when the doors open is the single best move you can make here."
     ]
    }
   ]
@@ -5205,6 +5884,17 @@
      "Your visit starts at street level, not at the top. Because this is a working office tower, visitors pass through a security check much like an airport's. Bags go through a scanner, and you walk through a detector.",
      "- **Buy tickets on the official website if offered.** Prices are posted on the website and at the ticket desk at the entrance. Booking ahead usually means less time standing at the counter.\n- **Have your bag ready to open**, and keep phones, keys and coins together so the scanner moves quickly.\n- **Pay by card.** Germany still leans on cash in small shops, but a major attraction like this takes cards at the desk.\n- **Bring a layer and hold your hat.** It is noticeably colder and windier on the roof than at street level, even in summer.\n- **Shoot through the gaps, not the bars.** The railing has a fine mesh in places; step close and angle the lens through the openings for clean skyline photos."
     ]
+   },
+   {
+    "from": "88667c353c4e",
+    "to": "92c5801d512a",
+    "at": "2026-11-02T18:30:22.822Z",
+    "removed": [
+     "The measured crowd figures point the same way. On weekdays the calmest stretch is 7pm–10pm. From Monday to Thursday that means 7pm until the 9pm close. On Friday the quiet window runs a full three hours, with the lights of the financial district coming on around you."
+    ],
+    "added": [
+     "The crowd forecast points the same way. On weekdays the calmest stretch is 7pm–10pm. From Monday to Thursday that means 7pm until the 9pm close. On Friday the quiet window runs a full three hours, with the lights of the financial district coming on around you."
+    ]
    }
   ]
  },
@@ -5264,6 +5954,21 @@
     ],
     "added": [
      "- Pair it with Fujairah Fort next door; buying into the combined heritage-site rhythm of the area saves backtracking\n- Go on a weekday morning if you want the galleries essentially to yourself\n- Wear comfortable shoes for the fort visit that usually bookends this stop, since that site involves uneven stone underfoot\n- Check ahead on the entry fee and accepted payment methods so you're not caught off guard\n- Don't rush the excavation-site display panels; they're the part that explains why the rest of the emirate looks the way it does"
+    ]
+   }
+  ]
+ },
+ "fukuoka-fukuoka-christmas-market-christmas-advent": {
+  "steps": [
+   {
+    "from": "527623fbfe15",
+    "to": "8e823275de28",
+    "at": "2026-11-02T18:30:22.806Z",
+    "removed": [
+     "On timing, it's a matter of reasoning, not measurement. Weekday evenings after office hours and weekends bring the most people, since Tenjin is a commuter hub. An earlier visit, while it's still light, gives you shorter stall lines. Coming after dark gives you the illuminations at full effect, so many people arrive at dusk and get both."
+    ],
+    "added": [
+     "On timing, it's a matter of reasoning, not a crowd forecast. Weekday evenings after office hours and weekends bring the most people, since Tenjin is a commuter hub. An earlier visit, while it's still light, gives you shorter stall lines. Coming after dark gives you the illuminations at full effect, so many people arrive at dusk and get both."
     ]
    }
   ]
@@ -5331,6 +6036,21 @@
     ],
     "added": [
      "The gallery rooms run one after another, and visitors take them in roughly the same order. If a room is crowded, keep going and loop back. Space tends to open up once a group has moved on. Here are a few practical things to know:"
+    ]
+   }
+  ]
+ },
+ "genoa-galata-museo-del-mare": {
+  "steps": [
+   {
+    "from": "a92492c0dec2",
+    "to": "b5ac9344d677",
+    "at": "2026-11-02T18:30:22.807Z",
+    "removed": [
+     "[FAQ 2] Q: When is the quietest time to visit? A: Weekdays are calm across the full 10am–7pm opening window. On weekends, avoid arriving between 12pm and 6pm, the measured busiest stretch; go right at 10am opening or after 6pm instead."
+    ],
+    "added": [
+     "[FAQ 2] Q: When is the quietest time to visit? A: Weekdays are calm across the full 10am–7pm opening window. On weekends, avoid arriving between 12pm and 6pm, the busiest stretch in the forecast; go right at 10am opening or after 6pm instead."
     ]
    }
   ]
@@ -5490,6 +6210,36 @@
     ],
     "added": [
      "If you want fish, go early (the best cuts sell out by late morning). If you want the atmosphere, the golden hour before closing brings out the full crowd, though it's Panaji's everyday shopping rush rather than a tourist spectacle. Either way, wear shoes you don't mind getting a bit wet or muddy near the fish stalls, and carry a cloth bag — plastic bags aren't always offered."
+    ]
+   }
+  ]
+ },
+ "goa-naval-aviation-museum": {
+  "steps": [
+   {
+    "from": "eb0f03332337",
+    "to": "885ff1a0265f",
+    "at": "2026-11-02T18:30:22.808Z",
+    "removed": [
+     "- **Go early on a weekday**: mornings right after 9:30am opening are your best shot at empty aircraft for photos.\n- **Avoid Saturday/Sunday 11am-5pm**: that's the measured peak window, when tour groups and families cluster.\n- **Pay at the gate**: entry fees are modest and typically paid in cash at the ticket counter; carry small notes.\n- **Wear closed shoes**: the aircraft park is outdoors on tarmac and gravel, and there's genuine walking involved between exhibits.\n- **Ask about cockpit access**: some aircraft allow you to climb in briefly. Staff nearby can tell you which ones on the day.\n- **Combine it with Bogmalo Beach**: locals and repeat visitors often pair the museum with an afternoon at the beach just down the road, since the heat peaks right when the museum gets busiest."
+    ],
+    "added": [
+     "- **Go early on a weekday**: mornings right after 9:30am opening are your best shot at empty aircraft for photos.\n- **Avoid Saturday/Sunday 11am-5pm**: that's the forecast peak window, when tour groups and families cluster.\n- **Pay at the gate**: entry fees are modest and typically paid in cash at the ticket counter; carry small notes.\n- **Wear closed shoes**: the aircraft park is outdoors on tarmac and gravel, and there's genuine walking involved between exhibits.\n- **Ask about cockpit access**: some aircraft allow you to climb in briefly. Staff nearby can tell you which ones on the day.\n- **Combine it with Bogmalo Beach**: locals and repeat visitors often pair the museum with an afternoon at the beach just down the road, since the heat peaks right when the museum gets busiest."
+    ]
+   }
+  ]
+ },
+ "gold-coast-burleigh-head-national-park": {
+  "steps": [
+   {
+    "from": "1ad4ae021895",
+    "to": "a6409c0ab599",
+    "at": "2026-11-02T18:30:22.810Z",
+    "removed": [
+     "[QUICK ANSWER] Burleigh Head National Park sits on the headland at the southern end of Burleigh Heads on the Gold Coast, reached from Goodwin Terrace. It is open 24 hours, but weekends are busy from 8am–7pm, so pick a weekday. The quietest measured window is weekdays from 9pm–11pm, which suits a short stroll rather than a full walk."
+    ],
+    "added": [
+     "[QUICK ANSWER] Burleigh Head National Park sits on the headland at the southern end of Burleigh Heads on the Gold Coast, reached from Goodwin Terrace. It is open 24 hours, but weekends are busy from 8am–7pm, so pick a weekday. The quietest window in the forecast is weekdays from 9pm–11pm, which suits a short stroll rather than a full walk."
     ]
    }
   ]
@@ -5669,6 +6419,17 @@
     "added": [
      "The typical foot-traffic pattern here is stark: mornings tend to be the quietest time, before the crowds build later in the day, when you can actually get a spot at the railing without jostling. From noon onward, especially on weekends, the square fills steadily and remains crowded into the evening, sunset hour being the peak of the peak, when tour groups, day-trippers, and photographers converge at once."
     ]
+   },
+   {
+    "from": "caa7a1ad8e90",
+    "to": "467927ebba60",
+    "at": "2026-11-02T18:30:22.811Z",
+    "removed": [
+     "[FAQ 1] Q: What is the best time of day to visit Mirador de San Nicolás? A: For a quiet visit, go between 7am and 10am, the measured quietest window on both weekdays and weekends. For the famous view, sunset is spectacular but also the busiest stretch of the day — arrive 45–60 minutes early to get a spot."
+    ],
+    "added": [
+     "[FAQ 1] Q: What is the best time of day to visit Mirador de San Nicolás? A: For a quiet visit, go between 7am and 10am, the quietest window in the forecast on both weekdays and weekends. For the famous view, sunset is spectacular but also the busiest stretch of the day — arrive 45–60 minutes early to get a spot."
+    ]
    }
   ]
  },
@@ -5709,6 +6470,23 @@
    }
   ]
  },
+ "guadalajara-jardin-hidalgo": {
+  "steps": [
+   {
+    "from": "88655b269368",
+    "to": "f747fb535921",
+    "at": "2026-11-02T18:30:22.773Z",
+    "removed": [
+     "[FAQ 2] Q: When is the quietest time to visit? A: Avoid weekends from 11am to 11pm, which is the measured busiest period. Weekdays, or weekend mornings before 11am, are your best bet for a calmer visit.",
+     "The garden never closes, but crowds hit hard at fixed times. Weekends from 11am to 11pm are its busiest stretch. That's when the benches fill and the paths into El Parián get congested. Weekdays, or weekend mornings before 11am, are your best chance at a seat in the shade by the fountain. The only measured peak is that weekend block, so anything outside it should feel calmer."
+    ],
+    "added": [
+     "[FAQ 2] Q: When is the quietest time to visit? A: Avoid weekends from 11am to 11pm, which is the busiest period in the forecast. Weekdays, or weekend mornings before 11am, are your best bet for a calmer visit.",
+     "The garden never closes, but crowds hit hard at fixed times. Weekends from 11am to 11pm are its busiest stretch. That's when the benches fill and the paths into El Parián get congested. Weekdays, or weekend mornings before 11am, are your best chance at a seat in the shade by the fountain. The only peak in the forecast is that weekend block, so anything outside it should feel calmer."
+    ]
+   }
+  ]
+ },
  "gyeongju-seongdong-market": {
   "steps": [
    {
@@ -5735,6 +6513,21 @@
    }
   ]
  },
+ "ha-giang-ha-giang-market": {
+  "steps": [
+   {
+    "from": "5d4c9f05a4d5",
+    "to": "f3b2bfc31f35",
+    "at": "2026-11-02T18:30:22.775Z",
+    "removed": [
+     "For space to look around, go between 1pm and 2pm, Tuesday to Friday. That's the quietest measured window on weekdays, when the morning shopping is finished and nobody has started buying for dinner yet. Avoid weekends if you can: the aisles stay busy from 8am right through to the 7pm close."
+    ],
+    "added": [
+     "For space to look around, go between 1pm and 2pm, Tuesday to Friday. That's the quietest weekday window in the forecast, when the morning shopping is finished and nobody has started buying for dinner yet. Avoid weekends if you can: the aisles stay busy from 8am right through to the 7pm close."
+    ]
+   }
+  ]
+ },
  "ha-long-bay-dau-go-cave": {
   "steps": [
    {
@@ -5750,6 +6543,21 @@
      "[QUICK ANSWER] Dau Go Cave is a limestone cave on Dau Go Island in Ha Long Bay, reached by boat from the Bai Chay side of Ha Long City and usually visited alongside Thien Cung Cave on the same stop. Budget 30 to 45 minutes inside, and skip weekends between 8am and 5pm, when it is at its busiest. Typical foot traffic is lowest from 6pm to 11pm, but your boat schedule decides whether you can actually get there then.",
      "[FAQ 2] Q: When is the quietest time to visit Dau Go Cave? A: Typical foot traffic is lowest from 6pm to 11pm on both weekdays and weekends. Weekends from 8am to 5pm are the busiest time, so avoid them if you can. Check that your boat actually stops there in the evening before you plan around it.",
      "- **Avoid:** weekends from 8am to 5pm. Tour groups stack up on the stairs and the narrower passages then.\n- **Quietest:** 6pm to 11pm on both weekdays and weekends, going by typical foot traffic. Few boats schedule a cave stop that late, so ask your operator before counting on it.\n- **Next best:** a weekday departure. Weekday daytime crowds run lighter than weekend peaks."
+    ]
+   }
+  ]
+ },
+ "ha-long-bay-ha-long-market": {
+  "steps": [
+   {
+    "from": "0fea9e81fdab",
+    "to": "863b81f4a6b1",
+    "at": "2026-11-02T18:30:22.777Z",
+    "removed": [
+     "[FAQ 2] Q: When is the quietest time to visit? A: No exact quiet window is measured, but weekends get busy from 9am until closing at 6pm, so arriving right at 6am opening on a weekday is the safest bet to avoid crowds."
+    ],
+    "added": [
+     "[FAQ 2] Q: When is the quietest time to visit? A: The forecast shows no exact quiet window, but weekends get busy from 9am until closing at 6pm, so arriving right at 6am opening on a weekday is the safest bet to avoid crowds."
     ]
    }
   ]
@@ -5977,6 +6785,21 @@
    }
   ]
  },
+ "heidelberg-kulturbrauerei-heidelberg": {
+  "steps": [
+   {
+    "from": "daa82cdf40a7",
+    "to": "7b20b13265c8",
+    "at": "2026-11-02T18:30:22.779Z",
+    "removed": [
+     "Weekends are crowded from 1pm to 11pm, which covers most of the day. If you want a table without a wait, the quietest weekend window is 9pm to 11pm. Since Sunday closes at 9pm, that really means a late Saturday. We have no measured weekday pattern, so a weekday visit is the simplest way around the crowds."
+    ],
+    "added": [
+     "Weekends are crowded from 1pm to 11pm, which covers most of the day. If you want a table without a wait, the quietest weekend window is 9pm to 11pm. Since Sunday closes at 9pm, that really means a late Saturday. The forecast has no weekday pattern, so a weekday visit is the simplest way around the crowds."
+    ]
+   }
+  ]
+ },
  "heidelberg-vetter-s-alt-heidelberger-brauhaus": {
   "steps": [
    {
@@ -6025,6 +6848,17 @@
     ],
     "added": [
      "We have typical foot-traffic for this address, and it's clear. On weekdays the quietest hour is 1pm to 2pm. By then the breakfast crowd has left and the lunch trade is thinning out."
+    ]
+   },
+   {
+    "from": "e593316f4bc9",
+    "to": "a0e132ef8548",
+    "at": "2026-11-02T18:30:22.780Z",
+    "removed": [
+     "We have typical foot-traffic for this address, and it's clear. On weekdays the quietest hour is 1pm to 2pm. By then the breakfast crowd has left and the lunch trade is thinning out."
+    ],
+    "added": [
+     "There is a foot-traffic forecast for this address, and it's clear. On weekdays the quietest hour is 1pm to 2pm. By then the breakfast crowd has left and the lunch trade is thinning out."
     ]
    }
   ]
@@ -6510,6 +7344,23 @@
     ],
     "added": [
      "The zoo sits in Hsinchu's East District, right inside Hsinchu Park."
+    ]
+   }
+  ]
+ },
+ "hue-an-dinh-palace": {
+  "steps": [
+   {
+    "from": "9a4d221b26b5",
+    "to": "6c1c2a8de94e",
+    "at": "2026-11-02T18:30:22.812Z",
+    "removed": [
+     "[FAQ 1] Q: When is the quietest time to visit An Dinh Palace? A: Our crowd data only measures the busiest time: weekends from 8am to 11am. It has no measured quiet window. To avoid the peak, come on a weekday, or on a weekend right at the 7am opening or after 11am.",
+     "Weekend mornings are the pinch point. Our measured crowd data puts the weekend peak at 8am–11am. Arriving then means sharing the mural hall with groups. On a Saturday or Sunday, come after 11am, or go straight at the 7am opening before the rush builds."
+    ],
+    "added": [
+     "[FAQ 1] Q: When is the quietest time to visit An Dinh Palace? A: The crowd forecast only covers the busiest time: weekends from 8am to 11am. It shows no quiet window. To avoid the peak, come on a weekday, or on a weekend right at the 7am opening or after 11am.",
+     "Weekend mornings are the pinch point. The crowd forecast puts the weekend peak at 8am–11am. Arriving then means sharing the mural hall with groups. On a Saturday or Sunday, come after 11am, or go straight at the 7am opening before the rush builds."
     ]
    }
   ]
@@ -7279,6 +8130,40 @@
    }
   ]
  },
+ "jordan-spicy-salt-hk": {
+  "steps": [
+   {
+    "from": "7d1b05cb998f",
+    "to": "f4a9a22c869c",
+    "at": "2026-11-02T18:30:22.813Z",
+    "removed": [
+     "[FAQ 1] Q: What's the best time to visit to avoid crowds? A: Weekend afternoons between 4pm and 9pm are the quietest measured window. Weekend evenings from 7pm to 11pm are the busiest — try to avoid arriving then.",
+     "Weekend evenings get busy fast. The measured quiet window is 4pm–9pm on weekends, and the crowd data flags 7pm–11pm as the peak crush to avoid if you want a table without a wait.",
+     "Skip the early-evening rush hour block if you can, 7pm to 11pm on weekends is when it fills up, per measured crowd patterns. Weekend afternoons, from 4pm to about 9pm, are noticeably calmer."
+    ],
+    "added": [
+     "[FAQ 1] Q: What's the best time to visit to avoid crowds? A: Weekend afternoons between 4pm and 9pm are the quietest window in the forecast. Weekend evenings from 7pm to 11pm are the busiest — try to avoid arriving then.",
+     "Weekend evenings get busy fast. The forecast quiet window is 4pm–9pm on weekends, and the crowd data flags 7pm–11pm as the peak crush to avoid if you want a table without a wait.",
+     "Skip the early-evening rush hour block if you can, 7pm to 11pm on weekends is when it fills up, per the crowd forecast. Weekend afternoons, from 4pm to about 9pm, are noticeably calmer."
+    ]
+   }
+  ]
+ },
+ "jordan-yat-tung-heen-eaton-hk": {
+  "steps": [
+   {
+    "from": "290995dc65bb",
+    "to": "98e5aac499ce",
+    "at": "2026-11-02T18:30:22.829Z",
+    "removed": [
+     "Weekend crowds build fast: the busiest stretch runs from noon straight through to 10pm, so a walk-in during that window usually means a wait. The measured quiet spot is 10am to 11am on weekends, right after opening, when tables are still empty and the tea hasn't gone cold twice yet."
+    ],
+    "added": [
+     "Weekend crowds build fast: the busiest stretch runs from noon straight through to 10pm, so a walk-in during that window usually means a wait. The forecast quiet spot is 10am to 11am on weekends, right after opening, when tables are still empty and the tea hasn't gone cold twice yet."
+    ]
+   }
+  ]
+ },
  "jumeirah-dubai-water-canal": {
   "steps": [
    {
@@ -7464,6 +8349,21 @@
    }
   ]
  },
+ "kenting-national-museum-of-marine-biology-aquarium": {
+  "steps": [
+   {
+    "from": "938353b07138",
+    "to": "68ffa9fd790a",
+    "at": "2026-11-02T18:30:22.830Z",
+    "removed": [
+     "- Arrive at opening (9am) or after 4pm, both weekday and weekend crowds thin out then, per measured visitor patterns\n- Avoid 11am–5pm on weekends specifically, when the tunnel and touch-pool areas bottleneck hardest\n- Buy tickets online in advance during peak season to skip the counter queue\n- Bring a light layer. The Cold/Polar Seas hall is kept noticeably chilled compared to the tropical halls\n- Pace yourself: budget 3–4 hours minimum to see all three main halls plus the tunnel and theater without rushing\n- Check current ticket prices and any show times for the 3-D theater on the museum's official site before you go, since these details shift seasonally"
+    ],
+    "added": [
+     "- Arrive at opening (9am) or after 4pm, both weekday and weekend crowds thin out then, per typical visitor patterns\n- Avoid 11am–5pm on weekends specifically, when the tunnel and touch-pool areas bottleneck hardest\n- Buy tickets online in advance during peak season to skip the counter queue\n- Bring a light layer. The Cold/Polar Seas hall is kept noticeably chilled compared to the tropical halls\n- Pace yourself: budget 3–4 hours minimum to see all three main halls plus the tunnel and theater without rushing\n- Check current ticket prices and any show times for the 3-D theater on the museum's official site before you go, since these details shift seasonally"
+    ]
+   }
+  ]
+ },
  "kep-kep-national-park": {
   "steps": [
    {
@@ -7477,6 +8377,17 @@
     "added": [
      "Early morning is the most comfortable time to walk, before the heat builds under the canopy. The measured crowd pattern backs this up: weekend visits stay lightest early in the morning, while the busiest stretch runs from mid-morning into the afternoon as day-trippers arrive.",
      "If you're coming on a weekend, aim for that quieter early window rather than mid-morning. On weekdays the park rarely feels crowded at all. It's still very much an under-the-radar stop compared to Kep's beach and crab market, so you're unlikely to be jostling for space on the trail regardless of when you go."
+    ]
+   },
+   {
+    "from": "4e4bab968e07",
+    "to": "dff3e37c39d6",
+    "at": "2026-11-02T18:30:22.831Z",
+    "removed": [
+     "Early morning is the most comfortable time to walk, before the heat builds under the canopy. The measured crowd pattern backs this up: weekend visits stay lightest early in the morning, while the busiest stretch runs from mid-morning into the afternoon as day-trippers arrive."
+    ],
+    "added": [
+     "Early morning is the most comfortable time to walk, before the heat builds under the canopy. The crowd forecast backs this up: weekend visits stay lightest early in the morning, while the busiest stretch runs from mid-morning into the afternoon as day-trippers arrive."
     ]
    }
   ]
@@ -7635,6 +8546,21 @@
    }
   ]
  },
+ "kochi-subhash-bose-park": {
+  "steps": [
+   {
+    "from": "82518406281c",
+    "to": "a628f4a6100c",
+    "at": "2026-11-02T18:30:22.833Z",
+    "removed": [
+     "If you want breathing room, target the Sunday 11am-2pm window specifically. It's the calmest stretch measured across the week, mostly because it falls before the evening rush and after the early-morning walking crowd has cleared out."
+    ],
+    "added": [
+     "If you want breathing room, target the Sunday 11am-2pm window specifically. It's the calmest stretch of the week in the forecast, mostly because it falls before the evening rush and after the early-morning walking crowd has cleared out."
+    ]
+   }
+  ]
+ },
  "kokand-palace-of-khudayar-khan": {
   "steps": [
    {
@@ -7648,6 +8574,23 @@
     "added": [
      "- Weekdays, 9am–11am: the quietest stretch, courtyards nearly to yourself\n- Weekend mornings, 9am–12pm: still calm, a good backup if you're only passing through on a Saturday or Sunday\n- Weekends, 12pm–10pm: the busiest window, local families and tour groups fill the courtyard",
      "This is a well-kept museum, not a busy bazaar, so the etiquette here leans quiet and unhurried. Treat it the way you would any regional history museum."
+    ]
+   }
+  ]
+ },
+ "komodo-pink-beach": {
+  "steps": [
+   {
+    "from": "283a929eb9e9",
+    "to": "1e8468b0c0e5",
+    "at": "2026-11-02T18:30:22.834Z",
+    "removed": [
+     "[FAQ 2] Q: When is the quietest time to visit Pink Beach? A: Weekday evenings from 6pm–10pm are the calmest recorded window. On weekends, avoid 8am–1pm, which is the busiest stretch — afternoons and evenings after 1pm are noticeably quieter.",
+     "The measured crowd pattern here is useful: weekends tend to be busier, as multiple day-trip boats converge at once. If you're on a flexible charter, push your visit later."
+    ],
+    "added": [
+     "[FAQ 2] Q: When is the quietest time to visit Pink Beach? A: Weekday evenings from 6pm–10pm are the calmest window in the forecast. On weekends, avoid 8am–1pm, which is the busiest stretch — afternoons and evenings after 1pm are noticeably quieter.",
+     "The crowd forecast here is useful: weekends tend to be busier, as multiple day-trip boats converge at once. If you're on a flexible charter, push your visit later."
     ]
    }
   ]
@@ -7963,6 +8906,17 @@
     "added": [
      "[FAQ 2] Q: When is the quietest time to visit? A: Typical foot traffic marks 7am–8am and 10pm–11pm as the quietest windows on both weekdays and weekends. Weekends are busiest from 10am to 7pm, so on Saturdays and Sundays aim for before 10am or after 7pm."
     ]
+   },
+   {
+    "from": "cd03c22b9c2d",
+    "to": "e05b56339dfe",
+    "at": "2026-11-02T18:30:22.883Z",
+    "removed": [
+     "The quietest windows measured are 7am–8am and 10pm–11pm on both weekdays and weekends. Within it, the stretches before 10am and after 7pm are the calmest. Stay overnight and you can walk the canal at 7am while the shutters are still down."
+    ],
+    "added": [
+     "The quietest windows in the forecast are 7am–8am and 10pm–11pm on both weekdays and weekends. Within it, the stretches before 10am and after 7pm are the calmest. Stay overnight and you can walk the canal at 7am while the shutters are still down."
+    ]
    }
   ]
  },
@@ -8084,6 +9038,23 @@
    }
   ]
  },
+ "las-vegas-bellagio-conservatory-botanical-gardens": {
+  "steps": [
+   {
+    "from": "52face69d2d0",
+    "to": "31b9dad56059",
+    "at": "2026-11-02T18:30:22.884Z",
+    "removed": [
+     "[FAQ 2] Q: When is the quietest time to visit? A: Between 7am and 9am, on both weekdays and weekends, based on measured crowd patterns. After 11am on weekends it gets noticeably busier and stays that way until around 11pm.",
+     "This is one of the most visited free attractions on the Strip, and it draws a constant stream of hotel guests, casino floor traffic and tour groups, so don't expect a quiet garden. The measured quietest window is 7am to 9am, on both weekdays and weekends, before the casino floor fully wakes up."
+    ],
+    "added": [
+     "[FAQ 2] Q: When is the quietest time to visit? A: Between 7am and 9am, on both weekdays and weekends, based on typical crowd patterns. After 11am on weekends it gets noticeably busier and stays that way until around 11pm.",
+     "This is one of the most visited free attractions on the Strip, and it draws a constant stream of hotel guests, casino floor traffic and tour groups, so don't expect a quiet garden. The quietest window in the forecast is 7am to 9am, on both weekdays and weekends, before the casino floor fully wakes up."
+    ]
+   }
+  ]
+ },
  "las-vegas-peppermill-restaurant-and-fireside-lounge": {
   "steps": [
    {
@@ -8121,6 +9092,36 @@
     ],
     "added": [
      "[FAQ 1] Q: When is the quietest time to visit Clara-Zetkin-Park? A: Weekend crowd data shows the busiest period is 11am–8pm. The quiet weekend windows are listed as 7am–8am and 10pm–11pm, so go 7am–8am or 10pm–11pm for the calmest experience. No weekday data is available."
+    ]
+   }
+  ]
+ },
+ "leipzig-madler-passage": {
+  "steps": [
+   {
+    "from": "c532c146ad72",
+    "to": "e9a65c0e8b04",
+    "at": "2026-11-02T18:30:22.885Z",
+    "removed": [
+     "[FAQ 1] Q: When is the quietest time to visit Mädler-Passage? A: No measured quiet window is available. The data does show that Saturdays from 11am to 6pm are the busiest, so a weekday visit soon after the 10am opening is the safer bet."
+    ],
+    "added": [
+     "[FAQ 1] Q: When is the quietest time to visit Mädler-Passage? A: The forecast shows no quiet window. The data does show that Saturdays from 11am to 6pm are the busiest, so a weekday visit soon after the 10am opening is the safer bet."
+    ]
+   }
+  ]
+ },
+ "lima-larco-museum": {
+  "steps": [
+   {
+    "from": "6dbdc0a8ef8f",
+    "to": "fbf5de34054c",
+    "at": "2026-11-02T18:30:22.886Z",
+    "removed": [
+     "- **Tickets**: buy them at the entrance or through the museum's official website. The current price is posted there.\n- **Hours**: right now it opens 9am–7pm, Monday through Sunday. Museum hours change with holidays and seasons, so confirm on the official site before you go.\n- **Timing**: you have no measured crowd data to plan around, but arriving close to opening usually puts you ahead of the tour groups that come in from Miraflores later in the morning.\n- **Language**: staff at the front desk are used to international visitors. A \"buenos días\" at the counter is still the normal courtesy."
+    ],
+    "added": [
+     "- **Tickets**: buy them at the entrance or through the museum's official website. The current price is posted there.\n- **Hours**: right now it opens 9am–7pm, Monday through Sunday. Museum hours change with holidays and seasons, so confirm on the official site before you go.\n- **Timing**: you have no crowd forecast to plan around, but arriving close to opening usually puts you ahead of the tour groups that come in from Miraflores later in the morning.\n- **Language**: staff at the front desk are used to international visitors. A \"buenos días\" at the counter is still the normal courtesy."
     ]
    }
   ]
@@ -8203,6 +9204,19 @@
     ],
     "added": [
      "Our typical foot-traffic says weekdays are quiet right across the 10am–6pm window. In practice that means any weekday hour the doors are open. Weekends work differently. The calm stretch is 10am–11am, and the busiest period runs from 12pm to 4pm."
+    ]
+   },
+   {
+    "from": "bd7a46b01fef",
+    "to": "4f6fc455f728",
+    "at": "2026-11-02T18:30:22.887Z",
+    "removed": [
+     "[FAQ 1] Q: When is the quietest time to visit the British Museum? A: Weekdays are quiet right across the measured 10am–6pm window, so any weekday hour it is open works. At weekends the calm stretch is 10am–11am. Avoid 12pm–4pm on Saturdays and Sundays, when it is busiest.",
+     "Our typical foot-traffic says weekdays are quiet right across the 10am–6pm window. In practice that means any weekday hour the doors are open. Weekends work differently. The calm stretch is 10am–11am, and the busiest period runs from 12pm to 4pm."
+    ],
+    "added": [
+     "[FAQ 1] Q: When is the quietest time to visit the British Museum? A: Weekdays are quiet right across the 10am–6pm window in the forecast, so any weekday hour it is open works. At weekends the calm stretch is 10am–11am. Avoid 12pm–4pm on Saturdays and Sundays, when it is busiest.",
+     "The typical foot-traffic pattern says weekdays are quiet right across the 10am–6pm window. In practice that means any weekday hour the doors are open. Weekends work differently. The calm stretch is 10am–11am, and the busiest period runs from 12pm to 4pm."
     ]
    }
   ]
@@ -8686,6 +9700,36 @@
    }
   ]
  },
+ "madrid-mercado-de-san-miguel": {
+  "steps": [
+   {
+    "from": "e5d71975a729",
+    "to": "ac1f78f0b84b",
+    "at": "2026-11-02T18:30:22.848Z",
+    "removed": [
+     "The measured quiet spell is 10am to 11am, both on weekdays and weekends, right as the doors open. The measured rush runs from noon until the market closes, especially on weekends, covering lunch, the evening paseo, and most of the night."
+    ],
+    "added": [
+     "The forecast quiet spell is 10am to 11am, both on weekdays and weekends, right as the doors open. The forecast rush runs from noon until the market closes, especially on weekends, covering lunch, the evening paseo, and most of the night."
+    ]
+   }
+  ]
+ },
+ "madrid-royal-palace-of-madrid": {
+  "steps": [
+   {
+    "from": "e9683c2f965f",
+    "to": "9d1c6c749969",
+    "at": "2026-11-02T18:30:22.849Z",
+    "removed": [
+     "[FAQ 1] Q: What is the best time of day to visit the Royal Palace of Madrid? A: Weekday mornings between 10am and 11am, right at opening, are the quietest measured window. Avoid weekend afternoons from 1pm to 6pm, which are consistently the busiest."
+    ],
+    "added": [
+     "[FAQ 1] Q: What is the best time of day to visit the Royal Palace of Madrid? A: Weekday mornings between 10am and 11am, right at opening, are the quietest window in the forecast. Avoid weekend afternoons from 1pm to 6pm, which are consistently the busiest."
+    ]
+   }
+  ]
+ },
  "madrid-shakira-residency-las-mujeres-ya-no-lloran-tour": {
   "steps": [
    {
@@ -8731,6 +9775,21 @@
    }
   ]
  },
+ "madrid-temple-of-debod": {
+  "steps": [
+   {
+    "from": "04da4961e1c4",
+    "to": "f5eff3616921",
+    "at": "2026-11-02T18:30:22.850Z",
+    "removed": [
+     "The temple and its museum keep set opening hours and close for one day each week, so check the current schedule if you're building a Moncloa itinerary. Measured crowd patterns show the crush builds through the afternoon and peaks between 3pm and 8pm on weekends, exactly the window when everyone else has the same sunset idea you do. If you can, aim for a weekday, or get there for opening at 10am when the terraces are nearly empty and the low morning light rakes across the stonework instead of behind it."
+    ],
+    "added": [
+     "The temple and its museum keep set opening hours and close for one day each week, so check the current schedule if you're building a Moncloa itinerary. The crowd forecast shows the crush builds through the afternoon and peaks between 3pm and 8pm on weekends, exactly the window when everyone else has the same sunset idea you do. If you can, aim for a weekday, or get there for opening at 10am when the terraces are nearly empty and the low morning light rakes across the stonework instead of behind it."
+    ]
+   }
+  ]
+ },
  "malaga-jardines-de-pedro-luis-alonso": {
   "steps": [
    {
@@ -8742,6 +9801,21 @@
     ],
     "added": [
      "- Quietest weekend window: 7am-8am and 1pm-4pm\n- Quietest weekday window: 9pm-11pm\n- Busiest weekend stretch: 9am-12pm, 6pm-7pm and 8pm-10pm, when cruise groups and Alcazaba visitors pass through"
+    ]
+   }
+  ]
+ },
+ "malaga-museo-carmen-thyssen-malaga": {
+  "steps": [
+   {
+    "from": "9a9664293963",
+    "to": "a3b6fac58010",
+    "at": "2026-11-02T18:30:22.894Z",
+    "removed": [
+     "None of this is measured data, just how museum traffic in a historic center typically behaves. Treat it as a starting point, not a guarantee."
+    ],
+    "added": [
+     "None of this is forecast data, just how museum traffic in a historic center typically behaves. Treat it as a starting point, not a guarantee."
     ]
    }
   ]
@@ -8832,6 +9906,23 @@
      "Indonesian race fans and circuit staff treat this as a long weekend, not a single-day errand.",
      "- Regulars reach the circuit gates well before their session starts; security lines and the limited road access both slow entry, especially on Sunday morning.\n- Kuta Lombok suits visitors who want food and nightlife within walking distance of their hotel, while places by the circuit gates offer the shortest commute.\n- Food stalls and small vendors around the circuit perimeter mostly deal in cash in Indonesian rupiah, while larger ticket and hospitality purchases go through card or online payment.\n- Light, breathable clothing and a refillable water bottle are standard. The heat is the biggest factor fans underestimate.\n- Rooms across Kuta Mandalika fill up fast on race weekends, given how far attendance climbed in recent years.",
      "The most common first-timer mistake is treating this like a one-day trip from Bali. Between the transfer, the heat, and the scale of the crowd, the full weekend plus a buffer day either side makes for a far less stressful trip."
+    ]
+   }
+  ]
+ },
+ "manila-baluarte-de-san-diego": {
+  "steps": [
+   {
+    "from": "9bb02c3a29bc",
+    "to": "07ac140a6b66",
+    "at": "2026-11-02T18:30:22.899Z",
+    "removed": [
+     "Go right at opening. The measured quiet windows are 8am–9am on weekdays and 8am–10am on weekends, low humidity, soft morning light on the stone, and you'll likely have the amphitheater floor to yourself.",
+     "- Arrive at opening on a weekday if you can, 8–9am is the calmest window measured here, and the light is best for photos\n- Wear shoes with grip; the stone ramps and stairs are worn smooth and get slick after rain\n- Bring small bills for the entrance fee, as ticket booths at Intramuros sites are typically cash-based\n- Skip the elevator-less upper tiers if you have mobility concerns, the descent into the fort floor and climb back up involve uneven steps\n- Combine it with a walk along the connecting wall segment toward Fort Santiago rather than backtracking through the gate. It's a more scenic route and free"
+    ],
+    "added": [
+     "Go right at opening. The forecast quiet windows are 8am–9am on weekdays and 8am–10am on weekends, low humidity, soft morning light on the stone, and you'll likely have the amphitheater floor to yourself.",
+     "- Arrive at opening on a weekday if you can, 8–9am is the forecast's calmest window here, and the light is best for photos\n- Wear shoes with grip; the stone ramps and stairs are worn smooth and get slick after rain\n- Bring small bills for the entrance fee, as ticket booths at Intramuros sites are typically cash-based\n- Skip the elevator-less upper tiers if you have mobility concerns, the descent into the fort floor and climb back up involve uneven steps\n- Combine it with a walk along the connecting wall segment toward Fort Santiago rather than backtracking through the gate. It's a more scenic route and free"
     ]
    }
   ]
@@ -9179,6 +10270,21 @@
    }
   ]
  },
+ "milan-pinacoteca-di-brera": {
+  "steps": [
+   {
+    "from": "e859e5a793ce",
+    "to": "0785c2f64fee",
+    "at": "2026-11-02T18:30:22.900Z",
+    "removed": [
+     "According to measured visitor patterns, both weekdays and weekends stay comparatively calm across most of the day, but weekends still see a real surge between 10am and 6pm, when tour groups and day-trippers cluster in the main halls. Aim to arrive close to opening or after 6pm on a weekend, or pick a weekday morning, to have the Mantegna and Raphael rooms with breathing room."
+    ],
+    "added": [
+     "According to typical visitor patterns, both weekdays and weekends stay comparatively calm across most of the day, but weekends still see a real surge between 10am and 6pm, when tour groups and day-trippers cluster in the main halls. Aim to arrive close to opening or after 6pm on a weekend, or pick a weekday morning, to have the Mantegna and Raphael rooms with breathing room."
+    ]
+   }
+  ]
+ },
  "milan-pow-europe-tour-2026-color-on-milan": {
   "steps": [
    {
@@ -9216,6 +10322,38 @@
      "Milan has five metro lines, M1 to M5. Visitors without a strong preference usually stay near Centrale or along M1, M2 or M3 so that a late ride back is simple. Hotels around Centrale and Porta Garibaldi fill quickly with travellers arriving by train from other European cities.",
      "Late October in Milan is cool. Coats and umbrellas are normal for queues outside. Clocks in Italy went back one hour on October 25, 2026, the night before the show date. Visitors from the UK, Ireland or Portugal find Milan one hour ahead of home.",
      "Concertgoers with a few spare hours in Milan usually spend them around the Duomo and the Galleria Vittorio Emanuele II. Both are a short walk from Duomo station, where lines M1 and M3 meet."
+    ]
+   }
+  ]
+ },
+ "mong-kok-paradise-dynasty": {
+  "steps": [
+   {
+    "from": "492ebe8ed46a",
+    "to": "6b60a5495d16",
+    "at": "2026-11-02T18:30:22.901Z",
+    "removed": [
+     "[FAQ 3] Q: What's the best time to avoid crowds? A: Skip weekend evenings between 5pm and 9pm — that's the measured busiest window, with longer waits for a table.",
+     "On weekends specifically, avoid rolling in between 5pm and 9pm. That's the measured peak, when tables turn slowly and the entrance fills with waiting groups. A weekday lunch or an early weekend meal well before 5pm gets you seated faster."
+    ],
+    "added": [
+     "[FAQ 3] Q: What's the best time to avoid crowds? A: Skip weekend evenings between 5pm and 9pm — that's the forecast's busiest window, with longer waits for a table.",
+     "On weekends specifically, avoid rolling in between 5pm and 9pm. That's the forecast peak, when tables turn slowly and the entrance fills with waiting groups. A weekday lunch or an early weekend meal well before 5pm gets you seated faster."
+    ]
+   }
+  ]
+ },
+ "montreal-kondiaronk-belvedere": {
+  "steps": [
+   {
+    "from": "4478d3d13873",
+    "to": "192487a8709d",
+    "at": "2026-11-02T18:30:22.902Z",
+    "removed": [
+     "[FAQ 3] Q: When is the best time to visit? A: There's no measured crowd data for the terrace. Arriving soon after the 6am opening on a weekday is your best chance of a quiet railing. Fall colours peak around late September and October, and the city lights come on after dusk."
+    ],
+    "added": [
+     "[FAQ 3] Q: When is the best time to visit? A: There's no crowd forecast for the terrace. Arriving soon after the 6am opening on a weekday is your best chance of a quiet railing. Fall colours peak around late September and October, and the city lights come on after dusk."
     ]
    }
   ]
@@ -9395,6 +10533,21 @@
    }
   ]
  },
+ "new-delhi-shri-laxmi-narayan-temple-birla-mandir": {
+  "steps": [
+   {
+    "from": "b3715e734d3a",
+    "to": "de5716f519c7",
+    "at": "2026-11-02T18:30:22.881Z",
+    "removed": [
+     "Weekday mornings between 7am and 9am are the quietest window measured here, with soft light on the sandstone and far fewer people underfoot. Weekends are a different story: crowds build from 10am and stay heavy right through to closing, so an early arrival matters more here than almost anywhere else in Delhi."
+    ],
+    "added": [
+     "Weekday mornings between 7am and 9am are the quietest window in the forecast, with soft light on the sandstone and far fewer people underfoot. Weekends are a different story: crowds build from 10am and stay heavy right through to closing, so an early arrival matters more here than almost anywhere else in Delhi."
+    ]
+   }
+  ]
+ },
  "new-delhi-vedanta-delhi-half-marathon": {
   "steps": [
    {
@@ -9473,6 +10626,23 @@
     ],
     "added": [
      "Oak Alley is open daily, with no day off during the week. Typical foot-traffic data shows the calmest window is 8:30am to 10am, both on weekdays and weekends."
+    ]
+   }
+  ]
+ },
+ "new-taipei-national-palace-museum": {
+  "steps": [
+   {
+    "from": "48ea4b550093",
+    "to": "fc227324af9f",
+    "at": "2026-11-02T18:30:22.881Z",
+    "removed": [
+     "[FAQ 3] Q: When is the National Palace Museum least crowded? A: Weekends from 10am to 5pm are its busiest measured window, so a weekday morning right at 9am opening is your best bet for shorter lines.",
+     "Weekends between 10am and 5pm are the museum's busiest measured stretch, tour groups and families stack up through the main galleries and the queue for the Jadeite Cabbage can wind well back into the room. If a weekday is on the table, take it."
+    ],
+    "added": [
+     "[FAQ 3] Q: When is the National Palace Museum least crowded? A: Weekends from 10am to 5pm are its busiest window in the forecast, so a weekday morning right at 9am opening is your best bet for shorter lines.",
+     "Weekends between 10am and 5pm are the museum's busiest stretch in the forecast, tour groups and families stack up through the main galleries and the queue for the Jadeite Cabbage can wind well back into the room. If a weekday is on the table, take it."
     ]
    }
   ]
@@ -9636,6 +10806,17 @@
     "added": [
      "Opening and closing times vary by season, with the last elevator typically running about an hour before closing, worth confirming on the day before you go. Typical foot-traffic data points to the same quiet window both on weekdays and weekends: right at opening through late evening tends to stay manageable, while the crunch on weekends lands squarely between 4pm and 8pm as the after-lunch crowd overlaps with sunset-seekers."
     ]
+   },
+   {
+    "from": "901642679698",
+    "to": "bb8e64396edd",
+    "at": "2026-11-02T18:30:22.882Z",
+    "removed": [
+     "[FAQ 2] Q: When is the quietest time to visit? A: Measured crowd data shows the calmest windows are right at opening and later in the evening (8am–9am and 10pm–11pm on weekdays, 8am–12pm and 9pm–11pm on weekends), while 4pm–8pm on weekends is the busiest stretch to avoid."
+    ],
+    "added": [
+     "[FAQ 2] Q: When is the quietest time to visit? A: The crowd forecast shows the calmest windows are right at opening and later in the evening (8am–9am and 10pm–11pm on weekdays, 8am–12pm and 9pm–11pm on weekends), while 4pm–8pm on weekends is the busiest stretch to avoid."
+    ]
    }
   ]
  },
@@ -9671,6 +10852,21 @@
    }
   ]
  },
+ "nuremberg-memorium-nuremberg-trials": {
+  "steps": [
+   {
+    "from": "645946ee156d",
+    "to": "ae9bf5bcb47d",
+    "at": "2026-11-02T18:30:22.877Z",
+    "removed": [
+     "This is one of Nuremberg's most visited historic sites, so plan around the crowds. Weekends from 11am to 5pm are the measured busy period. That is when the courtroom fills with groups and the exhibition panels have people three deep in front of them."
+    ],
+    "added": [
+     "This is one of Nuremberg's most visited historic sites, so plan around the crowds. Weekends from 11am to 5pm are the forecast busy period. That is when the courtroom fills with groups and the exhibition panels have people three deep in front of them."
+    ]
+   }
+  ]
+ },
  "nusa-penida-diamond-beach": {
   "steps": [
    {
@@ -9699,6 +10895,19 @@
     ],
     "added": [
      "The grounds are currently listed as open 24 hours. Typical foot traffic shows weekends stay busy from 8am to 5pm. On a Saturday or Sunday, that covers every daylight hour you'd want for walking."
+    ]
+   },
+   {
+    "from": "b4047d7bb7f1",
+    "to": "80560ca4847e",
+    "at": "2026-11-02T18:30:22.878Z",
+    "removed": [
+     "[FAQ 1] Q: When is the quietest time to visit Miyama Park? A: Foot-traffic data puts the quietest times at 10pm–11pm on weekdays and 9pm–11pm on weekends. Weekends are busy from 8am to 5pm, so for a calm walk in daylight, go on a weekday.",
+     "If you can, go on a weekday instead. The quietest measured windows come late:"
+    ],
+    "added": [
+     "[FAQ 1] Q: When is the quietest time to visit Miyama Park? A: The foot-traffic forecast puts the quietest times at 10pm–11pm on weekdays and 9pm–11pm on weekends. Weekends are busy from 8am to 5pm, so for a calm walk in daylight, go on a weekday.",
+     "If you can, go on a weekday instead. The quietest windows in the forecast come late:"
     ]
    }
   ]
@@ -9729,6 +10938,23 @@
     ],
     "added": [
      "The typical foot-traffic is blunt about weekends. Saturdays and Sundays are busy for the whole of opening hours, from 9am to 5pm. No weekend slot reliably avoids the people who come for a popular special show."
+    ]
+   }
+  ]
+ },
+ "orchard-road-din-tai-fung": {
+  "steps": [
+   {
+    "from": "a40206951721",
+    "to": "a85bb9e52d76",
+    "at": "2026-11-02T18:30:22.879Z",
+    "removed": [
+     "[FAQ 2] Q: When is the quietest time to visit? A: Weekdays between 8pm and 9pm, just before closing, is the measured quiet window. Weekend crowds stay fairly steady all day.",
+     "The measured quiet spot is 8pm to 9pm on weekdays, right before the kitchen winds down. Weekends are steadier throughout, but avoid noon to 7pm on Saturday and Sunday, when queues stretch past the host stand and mall traffic peaks around it."
+    ],
+    "added": [
+     "[FAQ 2] Q: When is the quietest time to visit? A: Weekdays between 8pm and 9pm, just before closing, is the forecast quiet window. Weekend crowds stay fairly steady all day.",
+     "The quiet spot in the forecast is 8pm to 9pm on weekdays, right before the kitchen winds down. Weekends are steadier throughout, but avoid noon to 7pm on Saturday and Sunday, when queues stretch past the host stand and mall traffic peaks around it."
     ]
    }
   ]
@@ -10017,6 +11243,17 @@
     ],
     "added": [
      "[FAQ 1] Q: What's the best time to visit the Louvre to avoid crowds? A: Arrive right at 9am on a weekday, especially Wednesday or Friday since those days stay open until 9pm. Typical foot traffic shows 9am–10am is the quietest weekday window, while the busiest period to avoid is 11am–6pm on weekends."
+    ]
+   },
+   {
+    "from": "40ba69ed5279",
+    "to": "922477b7a923",
+    "at": "2026-11-02T18:30:22.880Z",
+    "removed": [
+     "Measured crowd patterns back this up. The calmest stretch on weekdays is 9am–10am, right at opening, while weekends stay comparatively manageable pretty much all day (9am–7pm), aside from the 11am–6pm stretch, which is consistently the busiest window and worth avoiding if you can help it."
+    ],
+    "added": [
+     "The crowd forecast backs this up. The calmest stretch on weekdays is 9am–10am, right at opening, while weekends stay comparatively manageable pretty much all day (9am–7pm), aside from the 11am–6pm stretch, which is consistently the busiest window and worth avoiding if you can help it."
     ]
    }
   ]
@@ -10530,6 +11767,17 @@
      "[FAQ 1] Q: When is the quietest time to visit Catedral de Puebla? A: Typical foot-traffic data puts the quietest windows at 7am–8am and 8pm–11pm on both weekdays and weekends. Weekends are busiest from 8am–8pm, so a weekday visit is the calmest option.",
      "Our typical foot-traffic data is unusually clear here. The quietest windows run from 7am–8am and 8pm–11pm on weekdays and on weekends. That covers essentially the whole day, so the real deciding factor is which day you choose."
     ]
+   },
+   {
+    "from": "4010453be3fa",
+    "to": "733597eca59a",
+    "at": "2026-11-02T18:30:22.888Z",
+    "removed": [
+     "Our typical foot-traffic data is unusually clear here. The quietest windows run from 7am–8am and 8pm–11pm on weekdays and on weekends. That covers essentially the whole day, so the real deciding factor is which day you choose."
+    ],
+    "added": [
+     "The foot-traffic forecast is unusually clear here. The quietest windows run from 7am–8am and 8pm–11pm on weekdays and on weekends. That covers essentially the whole day, so the real deciding factor is which day you choose."
+    ]
    }
   ]
  },
@@ -10559,6 +11807,36 @@
     ],
     "added": [
      "Weekends follow a different shape. The busiest hours are 9am–7pm, and that is the stretch to avoid if you want the trails to yourself. The weekend crowd data marks 7am–8am and 8pm–9pm as the quiet windows overall. Read alongside the busy hours, that leaves the hour before 9am and the last two hours before the 9:00 PM close as your best bets."
+    ]
+   }
+  ]
+ },
+ "puerto-iguazu-plaza-san-martin": {
+  "steps": [
+   {
+    "from": "5793e759d72a",
+    "to": "470d56faaaf8",
+    "at": "2026-11-02T18:30:22.889Z",
+    "removed": [
+     "In the early afternoon the avenue goes quiet, and the shade is the main reason to sit in the square. Things pick up again once businesses reopen and the heat eases toward evening. That's when the plaza works best: a cooler bench, the centre filling up, and dinner a short walk away. This is general town rhythm, not a measured crowd pattern, so treat it as a guide."
+    ],
+    "added": [
+     "In the early afternoon the avenue goes quiet, and the shade is the main reason to sit in the square. Things pick up again once businesses reopen and the heat eases toward evening. That's when the plaza works best: a cooler bench, the centre filling up, and dinner a short walk away. This is general town rhythm, not a crowd forecast, so treat it as a guide."
+    ]
+   }
+  ]
+ },
+ "quebec-city-l-antiquaire-buffet": {
+  "steps": [
+   {
+    "from": "073e71c15621",
+    "to": "4b757b60a2d8",
+    "at": "2026-11-02T18:30:22.890Z",
+    "removed": [
+     "There's no measured crowd data for this diner, so use the obvious pattern. Lower Town fills up through the morning as walking tours, day-trippers and, in cruise season, ship passengers come down to Place Royale and Petit-Champlain. A table before that wave usually means no wait. Weekend brunch hours are the likeliest time to queue."
+    ],
+    "added": [
+     "There's no crowd forecast for this diner, so use the obvious pattern. Lower Town fills up through the morning as walking tours, day-trippers and, in cruise season, ship passengers come down to Place Royale and Petit-Champlain. A table before that wave usually means no wait. Weekend brunch hours are the likeliest time to queue."
     ]
    }
   ]
@@ -10774,6 +12052,23 @@
    }
   ]
  },
+ "rome-janiculum-hill": {
+  "steps": [
+   {
+    "from": "c71879a39183",
+    "to": "105888f9f6c4",
+    "at": "2026-11-02T18:30:22.890Z",
+    "removed": [
+     "[QUICK ANSWER] Janiculum Hill (Gianicolo) is a free, open-24-hours panoramic terrace on Rome's west bank, best reached by taxi, bus 115, or a steep 15-minute walk up from Trastevere. Go between 7am and 9am — the measured quiet window on both weekdays and weekends — to get the view, the fountain, and the cannon-firing spot to yourself before crowds build through the day and stay heavy until 11pm on weekends. Budget half a day to combine the hill with a wander through Trastevere below.",
+     "The measured quietest window here is 7am to 9am, on both weekdays and weekends, the cannon hasn't fired yet, the light is still low and gold across the rooftops, and the terrace belongs mostly to runners and locals walking dogs. On weekends, crowds build steadily and stay heavy from 10am all the way to 11pm, so if you're chasing an empty photo at the balustrade, don't come after breakfast."
+    ],
+    "added": [
+     "[QUICK ANSWER] Janiculum Hill (Gianicolo) is a free, open-24-hours panoramic terrace on Rome's west bank, best reached by taxi, bus 115, or a steep 15-minute walk up from Trastevere. Go between 7am and 9am — the forecast quiet window on both weekdays and weekends — to get the view, the fountain, and the cannon-firing spot to yourself before crowds build through the day and stay heavy until 11pm on weekends. Budget half a day to combine the hill with a wander through Trastevere below.",
+     "The forecast's quietest window here is 7am to 9am, on both weekdays and weekends, the cannon hasn't fired yet, the light is still low and gold across the rooftops, and the terrace belongs mostly to runners and locals walking dogs. On weekends, crowds build steadily and stay heavy from 10am all the way to 11pm, so if you're chasing an empty photo at the balustrade, don't come after breakfast."
+    ]
+   }
+  ]
+ },
  "rome-roman-forum": {
   "steps": [
    {
@@ -10817,6 +12112,21 @@
     "added": [
      "[FAQ 2] Q: What's the quietest time to visit? A: Between 9am and 11am, on both weekdays and weekends, based on typical foot-traffic — you'll get real space at the railing rather than a wall of phones.",
      "This is one of the most visited monuments in Italy, and the piazza is small relative to the crowd it pulls, so timing matters more here than almost anywhere else in Rome. Typical foot-traffic shows the calm window is 9am–11am, on both weekdays and weekends. Arrive then and you'll get actual space at the railing. Avoid showing up between 2pm and 9pm on a weekend, which is consistently the most packed stretch."
+    ]
+   }
+  ]
+ },
+ "rothenburg-ob-der-tauber-marktplatz-rothenburg-ob-der-tauber": {
+  "steps": [
+   {
+    "from": "0df48f974908",
+    "to": "a9aa117b42e1",
+    "at": "2026-11-02T18:30:22.851Z",
+    "removed": [
+     "[FAQ 1] Q: When is the quietest time to visit Marktplatz? A: The square is open 24 hours. Coach tours tend to arrive around midday, so early morning or evening is usually calmer. No measured crowd data is available for this square."
+    ],
+    "added": [
+     "[FAQ 1] Q: When is the quietest time to visit Marktplatz? A: The square is open 24 hours. Coach tours tend to arrive around midday, so early morning or evening is usually calmer. No crowd forecast is available for this square."
     ]
    }
   ]
@@ -10938,6 +12248,36 @@
     "added": [
      "[FAQ 3] Q: When is the quietest time to visit? A: Weekdays are calm 8am–10am and 6pm–7pm, and weekends stay quiet too from 8am–11am and 6pm–7pm, but are busy between 2pm and 6pm, when tour groups peak.",
      "The site is open daily from 8am to 7pm, with no midday closure. Weekday mornings are consistently the quietest stretch, and weekends stay calm 8am–11am and 6pm–7pm too. Tour groups tend to cluster on weekend afternoons, busiest from about 2pm to 6pm, so aim earlier if you want the field to yourself."
+    ]
+   }
+  ]
+ },
+ "seminyak-32do-bali": {
+  "steps": [
+   {
+    "from": "1c989327b892",
+    "to": "ba43c1b72303",
+    "at": "2026-11-02T18:30:22.852Z",
+    "removed": [
+     "[FAQ 4] Q: When should I go to avoid crowds? A: No measured crowd data is available. As a general rule, arriving at opening on a weekday beats the photo crowd, and you get first pick of the pastries before popular items sell out."
+    ],
+    "added": [
+     "[FAQ 4] Q: When should I go to avoid crowds? A: No crowd forecast is available. As a general rule, arriving at opening on a weekday beats the photo crowd, and you get first pick of the pastries before popular items sell out."
+    ]
+   }
+  ]
+ },
+ "sen-monorom-bousra-waterfall": {
+  "steps": [
+   {
+    "from": "99929941843f",
+    "to": "db7934e47e9f",
+    "at": "2026-11-02T18:30:22.853Z",
+    "removed": [
+     "Bousra Waterfall is open daily from 7am to 5pm. The measured crowd pattern here is clear: weekends get genuinely busy between 10am and 4pm, when tour groups from Sen Monorom and beyond arrive in waves."
+    ],
+    "added": [
+     "Bousra Waterfall is open daily from 7am to 5pm. The crowd forecast here is clear: weekends get genuinely busy between 10am and 4pm, when tour groups from Sen Monorom and beyond arrive in waves."
     ]
    }
   ]
@@ -11292,6 +12632,21 @@
    }
   ]
  },
+ "seoul-sema-seoul-museum-of-art": {
+  "steps": [
+   {
+    "from": "c2e4b3b9171d",
+    "to": "b7597c3c3b01",
+    "at": "2026-11-02T18:30:22.854Z",
+    "removed": [
+     "If you want the galleries close to yourself, the quietest window measured is 8pm to 9pm on weekdays, right before closing. Weekend crowds build steadily and peak between 1pm and 5pm, so a Saturday or Sunday morning right at the 10am opening is a better bet than an afternoon drop-in."
+    ],
+    "added": [
+     "If you want the galleries close to yourself, the quietest window in the forecast is 8pm to 9pm on weekdays, right before closing. Weekend crowds build steadily and peak between 1pm and 5pm, so a Saturday or Sunday morning right at the 10am opening is a better bet than an afternoon drop-in."
+    ]
+   }
+  ]
+ },
  "seoul-seoul-light-hangang-bitseom-festival": {
   "steps": [
    {
@@ -11381,6 +12736,21 @@
      "Traffic is what catches visitors out. On Sunday, the roads fill well before the morning support races. After the Grand Prix, many local fans stay for the podium and fan-zone activities while the car parks empty, instead of joining the immediate exodus.",
      "A Kuala Lumpur base works well for the weekend. The city has the Petronas Twin Towers, the hawker stalls of Jalan Alor and easy rail links. Putrajaya, the planned administrative capital with its lakeside pink-domed Putra Mosque, sits between KL and Sepang and works as a half-day stop.",
      "For anyone flying in, the circuit's closeness to KLIA is a gift. Some fans land on Friday, go straight to practice and fly out on Sunday night."
+    ]
+   }
+  ]
+ },
+ "sha-tin-ten-thousand-buddhas-monastery": {
+  "steps": [
+   {
+    "from": "2d1de68b3ff3",
+    "to": "1a1a1bba0162",
+    "at": "2026-11-02T18:30:22.855Z",
+    "removed": [
+     "Weekday mornings and afternoons stay consistently calm, the crowd data backs this up, with 9am–5pm on weekdays running quiet throughout. Weekends are a different story, with visitor numbers climbing steadily from 9am and staying heavy until around 4pm."
+    ],
+    "added": [
+     "Weekday mornings and afternoons stay consistently calm, the crowd forecast backs this up, with 9am–5pm on weekdays running quiet throughout. Weekends are a different story, with visitor numbers climbing steadily from 9am and staying heavy until around 4pm."
     ]
    }
   ]
@@ -11513,6 +12883,21 @@
      "For a longer Shanghai stay, a base near a Metro Line 5 or Line 1 station makes for the easiest commute out to Dongchuan Road. The People's Square, Xintiandi, and Bund areas are all roughly 45 minutes to an hour from the venue by taxi or metro-plus-transfer.",
      "October in Shanghai is generally mild, with warm days easing into cool evenings, which is part of why the tournament sits comfortably in the autumn calendar. Night sessions can feel cool even after a warm afternoon, especially when the stadium roof stays open.",
      "- Language: English signage exists at the venue, but ticket staff and vendors may have limited English, so key phrases or a translation app help\n- Photography: cameras are typically fine for personal use, while professional equipment with long lenses is often restricted\n- Autographs and practice courts: the time well before a session starts offers the best chance of seeing players warm up on the practice courts, where access is more relaxed than inside the main stadium"
+    ]
+   }
+  ]
+ },
+ "sheung-wan-blake-garden": {
+  "steps": [
+   {
+    "from": "87aa88dedac8",
+    "to": "64ca5fa0a97f",
+    "at": "2026-11-02T18:30:22.825Z",
+    "removed": [
+     "The measured crowd patterns here are useful and specific. On weekdays, the calmest window is 8am to 10am, before any midday lunch-break foot traffic builds."
+    ],
+    "added": [
+     "The forecast crowd patterns here are useful and specific. On weekdays, the calmest window is 8am to 10am, before any midday lunch-break foot traffic builds."
     ]
    }
   ]
@@ -11912,6 +13297,21 @@
    }
   ]
  },
+ "south-jakarta-hvala": {
+  "steps": [
+   {
+    "from": "d7e37486110a",
+    "to": "55d7bc3a426c",
+    "at": "2026-11-02T18:30:22.827Z",
+    "removed": [
+     "There is no measured crowd data for this branch yet. What we do know is that new openings in Jakarta's café districts draw their biggest crowds at weekends, when people come to try the newest thing. A weekday visit is the safer bet if you'd rather not wait."
+    ],
+    "added": [
+     "There is no crowd forecast for this branch yet. What we do know is that new openings in Jakarta's café districts draw their biggest crowds at weekends, when people come to try the newest thing. A weekday visit is the safer bet if you'd rather not wait."
+    ]
+   }
+  ]
+ },
  "spain-rolex-grand-final-challenge-tour-championship": {
   "steps": [
    {
@@ -11974,6 +13374,21 @@
    }
   ]
  },
+ "stuttgart-old-castle": {
+  "steps": [
+   {
+    "from": "853d4f660ee8",
+    "to": "e4ccd76fa739",
+    "at": "2026-11-02T18:30:22.828Z",
+    "removed": [
+     "[FAQ 1] Q: When is the quietest time to visit the Old Castle? A: The measured data show weekends are busy for the whole 11am–5pm opening window. It doesn't pinpoint a quiet hour, so your best bet is a weekday, Tuesday to Friday."
+    ],
+    "added": [
+     "[FAQ 1] Q: When is the quietest time to visit the Old Castle? A: The forecast shows weekends are busy for the whole 11am–5pm opening window. It doesn't pinpoint a quiet hour, so your best bet is a weekday, Tuesday to Friday."
+    ]
+   }
+  ]
+ },
  "sunshine-coast-eumundi-markets": {
   "steps": [
    {
@@ -11985,6 +13400,51 @@
     ],
     "added": [
      "Saturday is the big day. Typical foot traffic puts the weekend peak at 8am–2pm, which covers almost the whole trading day. If Saturday is your only option, get there at 7:30am and work the lanes before 8am."
+    ]
+   },
+   {
+    "from": "cabb422e61e4",
+    "to": "82094061840e",
+    "at": "2026-11-02T18:30:22.903Z",
+    "removed": [
+     "[FAQ 2] Q: When is the quietest time to visit? A: No quiet window has been measured. Saturday is busiest from 8am to 2pm, so on that day arrive at 7:30am opening. Wednesday is the alternative if your dates are flexible."
+    ],
+    "added": [
+     "[FAQ 2] Q: When is the quietest time to visit? A: The forecast shows no quiet window. Saturday is busiest from 8am to 2pm, so on that day arrive at 7:30am opening. Wednesday is the alternative if your dates are flexible."
+    ]
+   }
+  ]
+ },
+ "sunshine-coast-kondalilla-national-park": {
+  "steps": [
+   {
+    "from": "5c03946b0fb1",
+    "to": "5f0d53f49f87",
+    "at": "2026-11-02T18:30:22.903Z",
+    "removed": [
+     "[FAQ 1] Q: When is the quietest time to visit Kondalilla National Park? A: We don't have a measured quiet window for this park. What the data does show is that weekends are busiest from 8am to 8pm, so the whole weekend day is crowded. A weekday outside school holidays is your best bet for easier parking and quieter rock pools.",
+     "Weekends are full all day. Our foot-traffic data shows the busiest weekend period runs from 8am to 8pm, which covers every sensible hiking hour. If Saturday or Sunday is your only option, accept company on the steps and try for a car park space early in that window.",
+     "A weekday is the simpler fix. With no measured quiet window to point to, the reasoning is simple: school groups and day trippers bunch up in school holidays and on weekends. Outside those times, a weekday morning usually means a shorter wait for parking and room at the rock pools."
+    ],
+    "added": [
+     "[FAQ 1] Q: When is the quietest time to visit Kondalilla National Park? A: The forecast shows no quiet window for this park. What it does show is that weekends are busiest from 8am to 8pm, so the whole weekend day is crowded. A weekday outside school holidays is your best bet for easier parking and quieter rock pools.",
+     "Weekends are full all day. The foot-traffic forecast shows the busiest weekend period runs from 8am to 8pm, which covers every sensible hiking hour. If Saturday or Sunday is your only option, accept company on the steps and try for a car park space early in that window.",
+     "A weekday is the simpler fix. With no quiet window in the forecast to point to, the reasoning is simple: school groups and day trippers bunch up in school holidays and on weekends. Outside those times, a weekday morning usually means a shorter wait for parking and room at the rock pools."
+    ]
+   }
+  ]
+ },
+ "surabaya-siola-surabaya-museum": {
+  "steps": [
+   {
+    "from": "a6660a9cbf7e",
+    "to": "33de60f0c274",
+    "at": "2026-11-02T18:30:22.905Z",
+    "removed": [
+     "Weekdays tend to be quieter overall, though no single quiet hour has been consistently measured, arriving soon after the 8am opening is a safe bet before school groups show up."
+    ],
+    "added": [
+     "Weekdays tend to be quieter overall, though the forecast shows no single quiet hour, arriving soon after the 8am opening is a safe bet before school groups show up."
     ]
    }
   ]
@@ -12077,6 +13537,21 @@
    }
   ]
  },
+ "sydney-royal-botanic-garden-sydney": {
+  "steps": [
+   {
+    "from": "340fd14988d7",
+    "to": "615691d00be9",
+    "at": "2026-11-02T18:30:22.906Z",
+    "removed": [
+     "This place has its own daily rhythm. The best hour is the first one. Gates open at 7am every day of the week, and the measured quiet window runs from 7am to 9am on weekdays and 7am to 10am on weekends."
+    ],
+    "added": [
+     "This place has its own daily rhythm. The best hour is the first one. Gates open at 7am every day of the week, and the forecast quiet window runs from 7am to 9am on weekdays and 7am to 10am on weekends."
+    ]
+   }
+  ]
+ },
  "sydney-wendy-whiteley-s-secret-garden": {
   "steps": [
    {
@@ -12088,6 +13563,17 @@
     ],
     "added": [
      "Weekends are when the garden fills. Typical foot traffic shows the busiest stretch is **9am to 6pm on Saturdays and Sundays**. That's when the good benches are taken, and the narrow paths turn into slow single-file walks."
+    ]
+   },
+   {
+    "from": "9b3923f0c478",
+    "to": "bc3cfaf593d9",
+    "at": "2026-11-02T18:30:22.907Z",
+    "removed": [
+     "[FAQ 2] Q: When is the quietest time to visit? A: Avoid weekends between 9am and 6pm, which is the measured busiest period. Weekdays are generally calmer. On a weekend, come before 9am or after 6pm, with enough daylight left for the steep paths."
+    ],
+    "added": [
+     "[FAQ 2] Q: When is the quietest time to visit? A: Avoid weekends between 9am and 6pm, which is the busiest period in the forecast. Weekdays are generally calmer. On a weekend, come before 9am or after 6pm, with enough daylight left for the steep paths."
     ]
    }
   ]
@@ -12447,6 +13933,36 @@
    }
   ]
  },
+ "taiyuan-yingze-park": {
+  "steps": [
+   {
+    "from": "3971cd73c7ae",
+    "to": "2dbc68dfed20",
+    "at": "2026-11-02T18:30:22.862Z",
+    "removed": [
+     "Weekends stay comfortably walkable anytime between 9am and 8pm, based on measured visitor patterns. The busiest stretch on weekends runs from 2pm to 8pm, when families and groups arrive after lunch, so an earlier weekend visit avoids that build-up. With a rating of 4.4 from a modest but consistent set of reviews, this is a park locals use daily rather than a stop dominated by tour groups, and it still feels under-the-radar for visitors to Taiyuan."
+    ],
+    "added": [
+     "Weekends stay comfortably walkable anytime between 9am and 8pm, based on typical visitor patterns. The busiest stretch on weekends runs from 2pm to 8pm, when families and groups arrive after lunch, so an earlier weekend visit avoids that build-up. With a rating of 4.4 from a modest but consistent set of reviews, this is a park locals use daily rather than a stop dominated by tour groups, and it still feels under-the-radar for visitors to Taiyuan."
+    ]
+   }
+  ]
+ },
+ "takamatsu-honetsukidori-ikkaku-takamatsu": {
+  "steps": [
+   {
+    "from": "99f3e46b96c3",
+    "to": "c4de92af48a1",
+    "at": "2026-11-02T18:30:22.863Z",
+    "removed": [
+     "[FAQ 1] Q: When is the quietest time to visit Honetsukidori Ikkaku Takamatsu? A: There's no measured quiet window. The busiest period is 1pm–10pm on Saturday and Sunday, so avoid that if you can. On weekends, arrive at the 11am opening. On weekdays, arrive close to the 5pm opening."
+    ],
+    "added": [
+     "[FAQ 1] Q: When is the quietest time to visit Honetsukidori Ikkaku Takamatsu? A: The forecast shows no quiet window. The busiest period is 1pm–10pm on Saturday and Sunday, so avoid that if you can. On weekends, arrive at the 11am opening. On weekdays, arrive close to the 5pm opening."
+    ]
+   }
+  ]
+ },
  "takayama-takayama-autumn-festival-hachiman-matsuri": {
   "steps": [
    {
@@ -12599,6 +14115,21 @@
    }
   ]
  },
+ "tbilisi-bridge-of-love": {
+  "steps": [
+   {
+    "from": "4914a9fb6c48",
+    "to": "65117682ffae",
+    "at": "2026-11-02T18:30:22.865Z",
+    "removed": [
+     "Ten minutes is enough for the bridge itself. Early morning tends to be quietest, before day-trippers drift down from the fortress cable car. That's reasoning, not a measured figure. Late evening has the bath domes lit and few people about."
+    ],
+    "added": [
+     "Ten minutes is enough for the bridge itself. Early morning tends to be quietest, before day-trippers drift down from the fortress cable car. That's reasoning, not a crowd forecast. Late evening has the bath domes lit and few people about."
+    ]
+   }
+  ]
+ },
  "tbilisi-kovacs-tbilisi-concert": {
   "steps": [
    {
@@ -12634,6 +14165,21 @@
      "Most concertgoers eat beforehand, and in Tbilisi that usually means Georgian food:",
      "- **Khinkali**: soup dumplings eaten by hand. Hold the twisted knot, bite a small hole, sip the broth, then eat the rest. Locals leave the knot on the plate.\n- **Adjaruli khachapuri**: a boat of bread filled with cheese, butter and an egg, stirred together at the table\n- **Natural wine**: many bars in Sololaki pour qvevri wines, which are fermented in clay vessels buried in the ground",
      "Georgians eat late, so an early-evening dinner reservation rarely competes with local crowds. Show-night details, including door times, usually appear on the e-ticket, and most people show it on their phone at the entrance."
+    ]
+   }
+  ]
+ },
+ "teshima-teshima-art-museum": {
+  "steps": [
+   {
+    "from": "932ba66ce4d3",
+    "to": "2ad7430a2003",
+    "at": "2026-11-02T18:30:22.891Z",
+    "removed": [
+     "Crowd measurements show weekends are busy for the whole day, 10am–4pm. Going on a weekday is the simplest way to get space on the floor. It opens 10am–5pm from March to September and 10am–4pm from October to February, and closes on Tuesdays; from December to February it also closes Wednesdays and Thursdays. The official site has this month's schedule."
+    ],
+    "added": [
+     "The crowd forecast shows weekends are busy for the whole day, 10am–4pm. Going on a weekday is the simplest way to get space on the floor. It opens 10am–5pm from March to September and 10am–4pm from October to February, and closes on Tuesdays; from December to February it also closes Wednesdays and Thursdays. The official site has this month's schedule."
     ]
    }
   ]
@@ -12909,6 +14455,23 @@
    }
   ]
  },
+ "tsim-sha-tsui-kowloon-park": {
+  "steps": [
+   {
+    "from": "038b0a32ce11",
+    "to": "33a3bdf8c05c",
+    "at": "2026-11-02T18:30:22.892Z",
+    "removed": [
+     "[FAQ 3] Q: When is the quietest time to visit? A: On weekdays, 10pm to 11pm is the calmest stretch measured. On weekends, mornings from around 7am before 11am are noticeably lighter than midday.",
+     "On weekdays, the calmest stretch measured is 10pm to 11pm, useful if you're staying in a Tsim Sha Tsui hotel and want a quiet walk after dinner. Weekend mornings before 11am also run noticeably lighter than the midday peak."
+    ],
+    "added": [
+     "[FAQ 3] Q: When is the quietest time to visit? A: On weekdays, 10pm to 11pm is the calmest stretch in the forecast. On weekends, mornings from around 7am before 11am are noticeably lighter than midday.",
+     "On weekdays, the calmest stretch in the forecast is 10pm to 11pm, useful if you're staying in a Tsim Sha Tsui hotel and want a quiet walk after dinner. Weekend mornings before 11am also run noticeably lighter than the midday peak."
+    ]
+   }
+  ]
+ },
  "turin-baratti-milano": {
   "steps": [
    {
@@ -13130,6 +14693,21 @@
    }
   ]
  },
+ "ulaanbaatar-national-museum-of-mongolia": {
+  "steps": [
+   {
+    "from": "7024dc3f109c",
+    "to": "eb3f39b1ed1c",
+    "at": "2026-11-02T18:30:22.893Z",
+    "removed": [
+     "Weekends are the easy choice. Measured visitor traffic shows Saturday and Sunday are quiet across the full 9am–6pm window. Arriving at 9am still gives you the costume galleries with the most room. Leave at least two hours before the 6pm close so you don't rush the 20th-century rooms."
+    ],
+    "added": [
+     "Weekends are the easy choice. The visitor-traffic forecast shows Saturday and Sunday are quiet across the full 9am–6pm window. Arriving at 9am still gives you the costume galleries with the most room. Leave at least two hours before the 6pm close so you don't rush the 20th-century rooms."
+    ]
+   }
+  ]
+ },
  "ulaanbaatar-raphael-and-bernini-in-ulaanbaatar-exhibition": {
   "steps": [
    {
@@ -13291,6 +14869,21 @@
    }
   ]
  },
+ "wan-chai-kam-s-roast-goose": {
+  "steps": [
+   {
+    "from": "d7fb50ba5a62",
+    "to": "823fa6d1c828",
+    "at": "2026-11-02T18:30:22.874Z",
+    "removed": [
+     "On weekends, the calmest window measured runs from noon through 9pm, steadier than the sharp lunch spike you'd expect. Arriving right at 11:30am opening, or after 2:30pm on weekdays, generally means less standing around."
+    ],
+    "added": [
+     "On weekends, the calmest window in the forecast runs from noon through 9pm, steadier than the sharp lunch spike you'd expect. Arriving right at 11:30am opening, or after 2:30pm on weekdays, generally means less standing around."
+    ]
+   }
+  ]
+ },
  "wan-chai-wan-chai-temporary-promenade": {
   "steps": [
    {
@@ -13302,6 +14895,32 @@
     ],
     "added": [
      "This is a park with typical foot traffic, and the pattern is clear. Weekdays, it's quietest between 7am and 8am, before the Convention Centre's office crowd and tour groups start moving through the area."
+    ]
+   },
+   {
+    "from": "b2019ba454fe",
+    "to": "9507637b71da",
+    "at": "2026-11-02T18:30:22.874Z",
+    "removed": [
+     "This is a park with typical foot traffic, and the pattern is clear. Weekdays, it's quietest between 7am and 8am, before the Convention Centre's office crowd and tour groups start moving through the area."
+    ],
+    "added": [
+     "This is a park with a foot-traffic forecast, and the pattern is clear. Weekdays, it's quietest between 7am and 8am, before the Convention Centre's office crowd and tour groups start moving through the area."
+    ]
+   }
+  ]
+ },
+ "washington-dc-tudor-place": {
+  "steps": [
+   {
+    "from": "571933ab03b9",
+    "to": "978c5d480cd5",
+    "at": "2026-11-02T18:30:22.875Z",
+    "removed": [
+     "[FAQ 1] Q: When is the quietest time to visit Tudor Place? A: Weekends are busiest across the full 10am to 4pm window. No specific quiet hour has been measured, but a Tuesday to Friday tour avoids the weekend peak and usually means a smaller group."
+    ],
+    "added": [
+     "[FAQ 1] Q: When is the quietest time to visit Tudor Place? A: Weekends are busiest across the full 10am to 4pm window. The forecast shows no specific quiet hour, but a Tuesday to Friday tour avoids the weekend peak and usually means a smaller group."
     ]
    }
   ]
@@ -13370,6 +14989,17 @@
     ],
     "added": [
      "The hours are 9am to 3pm, Tuesday through Sunday. The palace is closed every Monday. Typical foot traffic puts the weekend peak at **9am–3pm**, which is every hour it's open, so a weekend visit means crowds whatever time you pick. A weekday visit starting at 9am avoids the weekend rush. It also leaves time before the midday heat builds up on the open courtyards."
+    ]
+   },
+   {
+    "from": "32f342aa47fa",
+    "to": "ef803c0bdad7",
+    "at": "2026-11-02T18:30:22.876Z",
+    "removed": [
+     "[FAQ 1] Q: When is the quietest time to visit Keraton Ngayogyakarta Hadiningrat? A: We don't have a measured quiet window, but weekends are busiest for the whole time the palace is open, 9am–3pm. A weekday (Tuesday to Friday) starting close to the 9am opening is the best way to miss that crowd."
+    ],
+    "added": [
+     "[FAQ 1] Q: When is the quietest time to visit Keraton Ngayogyakarta Hadiningrat? A: The forecast shows no quiet window, but weekends are busiest for the whole time the palace is open, 9am–3pm. A weekday (Tuesday to Friday) starting close to the 9am opening is the best way to miss that crowd."
     ]
    }
   ]

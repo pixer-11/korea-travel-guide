@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: chiba-aobanomori-park
-srcHash: 'c158c5fe5ddf'
+srcHash: '61a7ecdbbc23'
 title: 'Parque Aobanomori: Guía de viaje de Chiba (4,1★)'
 description: 'El parque Aobanomori, en el distrito de Chuo, Chiba, es un gran parque público con una identidad dividida en dos: por un lado, un jardín formal de estilo occidental con rosas y flores; por otro, un jardín japonés con estanques y senderos para pasear, además de un museo de historia natural en su interior. 4,1★ (2.758 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El parque Aobanomori, en el distrito de Chuo, Chiba, es un gran parque público con una identidad dividida en dos: por un lado, un jardín formal de estilo occidental con rosas y flores; por otro, un jardín japonés con estanques y senderos para pasear, además de un museo de historia natural en su interior. Permanece abierto las veinticuatro horas, alcanza su mayor afluencia los fines de semana de 9:00 a 18:00 y es más tranquilo bien entrada la noche (de 21:00 a 23:00 entre semana, de 22:00 a 23:00 los fines de semana). La mejor época para visitarlo va de finales de marzo a principios de abril, cuando florecen los cerezos, o en febrero, para ver los ciruelos en flor.'
@@ -47,7 +47,7 @@ La mayoría de los visitantes pasa entre cuarenta y cinco minutos y dos horas en
 
 ## Las aglomeraciones de fin de semana y cuándo evitarlas
 
-El patrón observado aquí es sencillo: los fines de semana de 9:00 a 18:00 son cuando el parque se llena, especialmente de familias con niños pequeños y grupos que recorren el circuito fotográfico de temporada bajo los árboles en flor. Para dar un paseo más tranquilo, el tramo más silencioso entre semana va de 21:00 a 23:00, y los fines de semana se reduce a la franja de 22:00 a 23:00.
+El patrón previsto aquí es sencillo: los fines de semana de 9:00 a 18:00 son cuando el parque se llena, especialmente de familias con niños pequeños y grupos que recorren el circuito fotográfico de temporada bajo los árboles en flor. Para dar un paseo más tranquilo, el tramo más silencioso entre semana va de 21:00 a 23:00, y los fines de semana se reduce a la franja de 22:00 a 23:00.
 
 Como el propio parque permanece abierto las veinticuatro horas todos los días, un paseo nocturno es perfectamente posible y no resulta inusual entre los vecinos que terminan de correr o sacan al perro después de cenar, aunque para entonces el museo y cualquier puesto de comida de temporada llevarán mucho tiempo cerrados. Si se busca ver la floración y disfrutar de tranquilidad al mismo tiempo en plena temporada alta, una mañana temprano entre semana es la mejor opción intermedia; la franja de 21:00 a 23:00 funciona bien para pasear por los jardines en general, pero no para ver las flores con buena luz.
 

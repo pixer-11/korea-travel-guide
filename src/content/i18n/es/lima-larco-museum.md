@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: lima-larco-museum
-srcHash: '6dbdc0a8ef8f'
+srcHash: 'fbf5de34054c'
 title: 'Museo Larco: guía de viaje de Lima (4.8★)'
 description: 'En el distrito limeño de Pueblo Libre, una casona del siglo XVIII alberga el Museo Larco, una de las colecciones privadas de arte precolombino más conocidas del Perú, con su célebre sala de cerámica erótica. 4.8★ (18,055 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En el distrito limeño de Pueblo Libre, una casona del siglo XVIII alberga el Museo Larco, una de las colecciones privadas de arte precolombino más conocidas del Perú, con su célebre sala de cerámica erótica. Conviene dedicarle entre 2 y 3 horas. Desde Miraflores, lo práctico es llegar en taxi o con una aplicación de transporte. Antes de ir, consulte en la web oficial el horario del mes; el actual es de 9am–7pm.
@@ -63,7 +63,7 @@ Información práctica:
 
 - **Entradas**: se compran en la taquilla o en la web oficial del museo, donde figura el precio vigente.
 - **Horario**: actualmente abre de lunes a domingo, de 9am–7pm. Como el horario varía en festivos y según la temporada, confírmelo en la web oficial antes de ir.
-- **Cuándo ir**: no hay datos de afluencia medidos que sirvan de referencia, pero llegar poco después de la apertura suele permitir adelantarse a los grupos organizados que vienen de Miraflores a media mañana.
+- **Cuándo ir**: no hay previsión de afluencia que sirva de referencia, pero llegar poco después de la apertura suele permitir adelantarse a los grupos organizados que vienen de Miraflores a media mañana.
 - **Idioma**: el personal de recepción está acostumbrado a recibir visitantes extranjeros. Aun así, lo cortés es saludar con un «buenos días» en el mostrador.
 
 En el Perú no se acostumbra dar propina a los taxistas. En el museo se puede pagar con tarjeta sin problema.

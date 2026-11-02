@@ -86,7 +86,7 @@ faq:
       dragon-trekking stops.
   - q: When is the quietest time to visit Pink Beach?
     a: >-
-      Weekday evenings from 6pm–10pm are the calmest recorded window. On
+      Weekday evenings from 6pm–10pm are the calmest window in the forecast. On
       weekends, avoid 8am–1pm, which is the busiest stretch — afternoons and
       evenings after 1pm are noticeably quieter.
   - q: Do I need my own snorkel gear?
@@ -139,7 +139,7 @@ Officially the site is accessible from 4am to 10pm daily, though in practice you
 
 ## When to go
 
-The measured crowd pattern here is useful: weekends tend to be busier, as multiple day-trip boats converge at once. If you're on a flexible charter, push your visit later.
+The crowd forecast here is useful: weekends tend to be busier, as multiple day-trip boats converge at once. If you're on a flexible charter, push your visit later.
 
 Weekday evenings tend to be quieter, though most day-boats won't be out that late. It's more realistic for liveaboard guests anchoring overnight. Weekend afternoons and evenings after 1pm are the next best thing for a calmer stretch of sand.
 

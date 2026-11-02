@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: frankfurt-main-tower
-srcHash: '88667c353c4e'
+srcHash: '92c5801d512a'
 title: 'MAIN TOWER: guía de viaje de Fráncfort (4.6★)'
 description: 'Con sus 200 metros, el MAIN TOWER se alza en la Neue Mainzer Straße, en pleno distrito financiero de Fráncfort, y es el único rascacielos de la ciudad con un mirador público al aire libre en la azotea. Valoración de 4.6★ (7,571 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'En la Neue Mainzer Straße, en pleno distrito financiero de Fráncfort, se levanta el MAIN TOWER: un rascacielos de 200 metros y el único de la ciudad cuya azotea acoge un mirador público al aire libre. Entre semana, la franca más tranquila va de 7pm a 10pm, y los viernes y sábados el horario se alarga hasta las 11pm. Si sube tarde, verá el perfil urbano iluminado con muy poca gente alrededor.'

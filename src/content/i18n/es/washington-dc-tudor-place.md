@@ -1,13 +1,13 @@
 ---
 lang: es
 slug: washington-dc-tudor-place
-srcHash: '571933ab03b9'
+srcHash: '978c5d480cd5'
 title: 'Tudor Place: guía de viaje de Washington DC (4.5★)'
 description: 'Tudor Place es una casa museo neoclásica de 1816 situada en 1644 31st St NW, en Georgetown, Washington DC, que se recorre mediante visitas guiadas cada hora y cuyos jardines pueden explorarse libremente después. 4.5★ (628 reseñas): esto es lo que dicen los visitantes, el horario y algunos consejos.'
 quickAnswer: Tudor Place es una casa museo neoclásica de 1816 situada en 1644 31st St NW, en Georgetown, Washington DC, que se recorre mediante visitas guiadas cada hora y cuyos jardines pueden explorarse libremente después. Abre de martes a sábado de 10:00 a 16:00 y los domingos de 12:00 a 16:00; permanece cerrada los lunes. Los fines de semana son los días de mayor afluencia durante todo el tramo de 10:00 a 16:00, así que conviene reservar un horario entre martes y viernes si es posible.
 faq:
   - q: ¿Cuál es el mejor momento para visitar Tudor Place sin aglomeraciones?
-    a: Los fines de semana son los más concurridos durante toda la franja de 10:00 a 16:00. No se ha medido una hora exacta de menor afluencia, pero una visita entre martes y viernes evita el pico del fin de semana y suele significar grupos más reducidos.
+    a: Los fines de semana son los más concurridos durante toda la franja de 10:00 a 16:00. La previsión no muestra una hora exacta de menor afluencia, pero una visita entre martes y viernes evita el pico del fin de semana y suele significar grupos más reducidos.
   - q: ¿Se puede recorrer la casa sin guía?
     a: No. La casa solo se visita en recorridos guiados que salen cada hora en punto. Después, los jardines pueden explorarse libremente. Conviene reservar con antelación en línea y consultar el sitio oficial para conocer los horarios y precios de las entradas vigentes.
   - q: ¿Cuánto tiempo hay que reservar para Tudor Place?

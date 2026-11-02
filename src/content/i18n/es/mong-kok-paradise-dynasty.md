@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: mong-kok-paradise-dynasty
-srcHash: '492ebe8ed46a'
+srcHash: '6b60a5495d16'
 title: 'Paradise Dynasty: dónde comer en Mong Kok (4,8★)'
 description: 'Paradise Dynasty, en Mong Kok, es célebre por sus xiao long bao arcoíris: ocho colores, ocho sabores, en una sola vaporera. 4,8★ (6.404 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'Paradise Dynasty, en Mong Kok, es célebre por sus xiao long bao arcoíris: ocho colores, ocho sabores, servidos en una sola vaporera. Se encuentra en el segundo piso de un centro comercial de Nathan Road, tiene precios medios, y el momento más tranquilo para ir es entre semana o el fin de semana, de 11:30 a. m. hasta media tarde. Conviene evitar las noches de fin de semana entre las 5 y las 9 p. m., cuando la espera se alarga bastante.'
@@ -11,7 +11,7 @@ faq:
   - q: ¿Cuál es el momento más tranquilo para visitarlo?
     a: Tanto entre semana como en fin de semana, el ambiente es más calmado desde alrededor de las 11:30 a. m. hasta la tarde. Es la franja más fiable para conseguir mesa sin reserva, mucho más que por la noche.
   - q: ¿Cuál es el mejor momento para evitar las multitudes?
-    a: Evita las noches de fin de semana entre las 5 y las 9 p. m., que es la franja de mayor afluencia registrada, con esperas más largas para conseguir mesa.
+    a: Evita las noches de fin de semana entre las 5 y las 9 p. m., que es la franja de mayor afluencia prevista, con esperas más largas para conseguir mesa.
   - q: ¿Qué se recomienda pedir?
     a: Empieza por los xiao long bao arcoíris de ocho sabores y completa la mesa con la mian estirada a mano, arroz frito con trufa y una tortita de cebolleta.
   - q: ¿Hace falta reserva?
@@ -45,7 +45,7 @@ Las raciones están pensadas para compartir, así que conviene ir acompañado de
 
 Tanto entre semana como en fin de semana, el ambiente se mantiene tranquilo desde alrededor de las 11:30 a. m., justo a la apertura, lo que convierte el tramo de última hora de la mañana hasta media tarde en el momento más cómodo para una comida relajada. La aglomeración llega más tarde.
 
-En concreto los fines de semana, conviene evitar presentarse entre las 5 y las 9 p. m., la franja de mayor afluencia registrada, cuando las mesas tardan en liberarse y la entrada se llena de grupos esperando. Un almuerzo entre semana, o una comida temprana de fin de semana bien antes de las 5 p. m., permite sentarse mucho más rápido.
+En concreto los fines de semana, conviene evitar presentarse entre las 5 y las 9 p. m., la franja de mayor afluencia prevista, cuando las mesas tardan en liberarse y la entrada se llena de grupos esperando. Un almuerzo entre semana, o una comida temprana de fin de semana bien antes de las 5 p. m., permite sentarse mucho más rápido.
 
 ## Cómo visitarlo como un local
 

@@ -50,7 +50,7 @@ El Museo del Oriente Antiguo, más pequeño y a menudo más tranquilo, conserva 
 
 Calcula entre dos y tres horas si quieres recorrer bien los tres edificios, o menos si solo buscas ver el Sarcófago de Alejandro. El complejo se conecta con facilidad con un recorrido de medio día que incluya el Palacio de Topkapı y el Parque Gülhane.
 
-Según los patrones de visitantes registrados, los fines de semana entre las 12:00 y las 18:00 son el momento de mayor afluencia, así que una visita en día de semana o a primera hora de la mañana ofrece notablemente más espacio y tranquilidad frente a los grandes sarcófagos.
+Según la previsión de visitantes, los fines de semana entre las 12:00 y las 18:00 son el momento de mayor afluencia, así que una visita en día de semana o a primera hora de la mañana ofrece notablemente más espacio y tranquilidad frente a los grandes sarcófagos.
 
 ## Cómo visitarlo como un local
 

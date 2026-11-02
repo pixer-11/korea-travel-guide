@@ -76,7 +76,7 @@ faq:
       evenings.
   - q: What's the best time to avoid crowds?
     a: >-
-      Skip weekend evenings between 5pm and 9pm — that's the measured busiest
+      Skip weekend evenings between 5pm and 9pm — that's the forecast's busiest
       window, with longer waits for a table.
   - q: What should I order?
     a: >-
@@ -119,7 +119,7 @@ Portions are built for sharing, so come with at least one other person and order
 
 Both weekdays and weekends stay calm from around 11:30am, right at opening, which makes late morning through mid-afternoon the easiest window for a relaxed sit-down meal. The crunch comes later.
 
-On weekends specifically, avoid rolling in between 5pm and 9pm. That's the measured peak, when tables turn slowly and the entrance fills with waiting groups. A weekday lunch or an early weekend meal well before 5pm gets you seated faster.
+On weekends specifically, avoid rolling in between 5pm and 9pm. That's the forecast peak, when tables turn slowly and the entrance fills with waiting groups. A weekday lunch or an early weekend meal well before 5pm gets you seated faster.
 
 ## How to visit like a local
 

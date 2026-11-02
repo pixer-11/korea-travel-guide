@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: sunshine-coast-eumundi-markets
-srcHash: 'cabb422e61e4'
+srcHash: '82094061840e'
 title: 'Mercado de Eumundi (Eumundi Markets): guía de viaje por la Sunshine Coast (4.5★)'
 description: En Memorial Drive, en Eumundi, se instala el Eumundi Markets. Este pueblo del interior de la Sunshine Coast queda a unos 20 minutos de Noosa, y el mercado abre actualmente solo los miércoles y sábados, de 7:30am a 2pm. Con 4.5★ (12,595 reseñas), aquí encontrará las opiniones de los visitantes, el horario y varios consejos.
 quickAnswer: El Eumundi Markets se celebra en Memorial Drive, en Eumundi, un pueblo del interior de la Sunshine Coast situado a unos 20 minutos de Noosa. Actualmente solo abre los miércoles y sábados, de 7:30am a 2pm. Los sábados la mayor afluencia va de 8am a 2pm, de modo que ese día la única franja tranquila es la primera media hora tras la apertura. Reserve entre dos y tres horas para la visita.
@@ -9,7 +9,7 @@ faq:
   - q: ¿Qué días abre el Eumundi Markets?
     a: Actualmente abre los miércoles y sábados, de 7:30am a 2pm. Los otros cinco días permanece cerrado. Como los festivos pueden alterar el calendario, conviene consultar la web oficial antes de ir.
   - q: ¿Cuál es el momento más tranquilo para visitarlo?
-    a: No se ha medido ninguna franja tranquila. Los sábados la mayor afluencia se concentra entre las 8am y las 2pm, así que ese día lo mejor es llegar a la apertura, a las 7:30am. Si sus fechas son flexibles, el miércoles es la alternativa.
+    a: La previsión no muestra ninguna franja tranquila. Los sábados la mayor afluencia se concentra entre las 8am y las 2pm, así que ese día lo mejor es llegar a la apertura, a las 7:30am. Si sus fechas son flexibles, el miércoles es la alternativa.
   - q: ¿Cómo se llega al Eumundi Markets desde Noosa?
     a: En coche hay unos 20 minutos tierra adentro hasta Eumundi, muy cerca de la Bruce Highway. Los días de mercado hay aparcamientos de pago alrededor del recinto. Eumundi cuenta también con estación de tren, aunque los servicios son poco frecuentes.
   - q: ¿Cuánto tiempo hay que dedicar al mercado?

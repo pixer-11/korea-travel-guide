@@ -95,7 +95,7 @@ Give yourself a full hour once you're at the top to wander the terraces properly
 
 The monastery keeps the same hours every day of the week, 9am to 5pm, so there's no early-morning or late-evening loophole to exploit. What you can control is which day and hour you show up.
 
-Weekday mornings and afternoons stay consistently calm, the crowd data backs this up, with 9am–5pm on weekdays running quiet throughout. Weekends are a different story, with visitor numbers climbing steadily from 9am and staying heavy until around 4pm.
+Weekday mornings and afternoons stay consistently calm, the crowd forecast backs this up, with 9am–5pm on weekdays running quiet throughout. Weekends are a different story, with visitor numbers climbing steadily from 9am and staying heavy until around 4pm.
 
 If you can only come on a Saturday or Sunday, arrive right at 9am opening or plan for company on the stairs.
 

@@ -76,7 +76,7 @@ faq:
       plan an arrival between 12pm and 4pm.
   - q: When is the quietest time to visit?
     a: >-
-      No exact quiet hours are measured, but weekends stay busy the entire 8am
+      The forecast shows no quiet hours, but weekends stay busy the entire 8am
       to 9pm stretch, so a weekday visit, ideally right near the 5:30am opening,
       is the best bet for a calmer visit. Avoid Monday evenings, which draw
       larger Shiva-worship crowds.
@@ -138,7 +138,7 @@ Major Shiva festival days, Pradosham (the twice-monthly evening observance tied 
 
 ## Timing your visit to dodge the weekend crush
 
-This is a genuinely well-visited temple, not an under-the-radar stop, and weekends show it. The measured pattern here is that Saturdays and Sundays stay busy across the entire open period, roughly 8am to 9pm, without a real lull.
+This is a genuinely well-visited temple, not an under-the-radar stop, and weekends show it. The forecast here shows that Saturdays and Sundays stay busy across the entire open period, roughly 8am to 9pm, without a real lull.
 
 Given that, a weekday visit beats a weekend one outright if your schedule allows it. Within a weekday, arriving close to the 5:30am opening or early in the 4pm evening reopening will still likely beat the mid-morning and early-evening peaks, simply because you're ahead of the after-work and after-errands crowd that builds through both open windows.
 

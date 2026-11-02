@@ -70,7 +70,7 @@ faq:
       Montréal or Les amis de la montagne site before a late visit.
   - q: When is the best time to visit?
     a: >-
-      There's no measured crowd data for the terrace. Arriving soon after the
+      There's no crowd forecast for the terrace. Arriving soon after the
       6am opening on a weekday is your best chance of a quiet railing. Fall
       colours peak around late September and October, and the city lights come
       on after dusk.

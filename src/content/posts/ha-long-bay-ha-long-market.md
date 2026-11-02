@@ -45,7 +45,7 @@ faq:
   - q: "What are Ha Long Market's opening hours?"
     a: "It's open every day, 6:00 AM to 6:30 PM, with no weekly closing day."
   - q: "When is the quietest time to visit?"
-    a: "No exact quiet window is measured, but weekends get busy from 9am until closing at 6pm, so arriving right at 6am opening on a weekday is the safest bet to avoid crowds."
+    a: "The forecast shows no exact quiet window, but weekends get busy from 9am until closing at 6pm, so arriving right at 6am opening on a weekday is the safest bet to avoid crowds."
   - q: "What can I buy at Ha Long Market?"
     a: "Mainly fresh seafood: crab, shrimp, squid, and fish sold live or on ice, plus produce and flowers from separate stalls."
   - q: "Is Ha Long Market touristy or a local shopping spot?"

@@ -96,7 +96,7 @@ The grounds are free to enter. Some exhibitions and guided experiences are ticke
 
 ## Mrs Macquarie's Chair before the coaches
 
-This place has its own daily rhythm. The best hour is the first one. Gates open at 7am every day of the week, and the measured quiet window runs from 7am to 9am on weekdays and 7am to 10am on weekends.
+This place has its own daily rhythm. The best hour is the first one. Gates open at 7am every day of the week, and the forecast quiet window runs from 7am to 9am on weekdays and 7am to 10am on weekends.
 
 Use that window to walk the foreshore path out to Mrs Macquarie's Chair. It is a bench carved into the sandstone by convicts in 1810 for Elizabeth Macquarie, the governor's wife. From the point you see the Opera House and Harbour Bridge lined up in one frame.
 

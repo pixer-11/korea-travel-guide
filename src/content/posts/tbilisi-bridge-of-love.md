@@ -79,7 +79,7 @@ The bridge is public and unticketed, and Google lists it as open 24 hours. You d
 - **Keep the stream clean.** By custom the key goes in your pocket or a bin, not in the water. The stream feeds a gorge people walk through, and it isn't a wishing well.
 - **Step aside for bath traffic.** The lane is narrow, and staff and guests heading to the bath houses use it all the time.
 
-Ten minutes is enough for the bridge itself. Early morning tends to be quietest, before day-trippers drift down from the fortress cable car. That's reasoning, not a measured figure. Late evening has the bath domes lit and few people about.
+Ten minutes is enough for the bridge itself. Early morning tends to be quietest, before day-trippers drift down from the fortress cable car. That's reasoning, not a crowd forecast. Late evening has the bath domes lit and few people about.
 
 ## What surrounds it
 

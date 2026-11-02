@@ -70,7 +70,7 @@ quickAnswer: >-
 faq:
   - q: When is the quietest time to visit Howick Historical Village?
     a: >-
-      No quiet window has been measured, but the busiest one has: weekends from
+      The forecast shows no quiet window, only the busiest one: weekends from
       10am to 4pm. To avoid it, visit Tuesday to Thursday during the current
       10am to 4pm opening.
   - q: What days is Howick Historical Village open?
@@ -137,7 +137,7 @@ What to bring:
 - A layer for evening sessions, when the park cools quickly
 - Shoes that handle gravel and grass after rain
 
-The busiest measured window is weekends from 10am to 4pm. Try not to arrive in the middle of a Sunday if you want the cottages to yourself. A Tuesday, Wednesday or Thursday visit avoids that weekend peak entirely.
+The busiest window in the forecast is weekends from 10am to 4pm. Try not to arrive in the middle of a Sunday if you want the cottages to yourself. A Tuesday, Wednesday or Thursday visit avoids that weekend peak entirely.
 
 ## Moving through the village with the volunteers
 

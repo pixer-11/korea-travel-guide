@@ -128,7 +128,7 @@ The deck closes when the weather turns. Thunderstorms, ice or strong wind shut t
 
 The opening hours suit a sunset visit. Every day the tower opens at 10am. It closes at 9pm Sunday to Thursday and runs to 11pm on Friday and Saturday.
 
-The measured crowd figures point the same way. On weekdays the calmest stretch is 7pm–10pm. From Monday to Thursday that means 7pm until the 9pm close. On Friday the quiet window runs a full three hours, with the lights of the financial district coming on around you.
+The crowd forecast points the same way. On weekdays the calmest stretch is 7pm–10pm. From Monday to Thursday that means 7pm until the 9pm close. On Friday the quiet window runs a full three hours, with the lights of the financial district coming on around you.
 
 Weekends show a quiet window across the whole day, 10am–11pm, with no single rush hour flagged. Saturday is the most relaxed day to drift up whenever suits you. On Sunday, remember the earlier 9pm close.
 

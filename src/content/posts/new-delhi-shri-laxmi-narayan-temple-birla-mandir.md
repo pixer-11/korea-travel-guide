@@ -126,7 +126,7 @@ Connaught Place is about 2km east, so many visitors fold Birla Mandir into a hal
 
 The temple opens daily at 4:30am and closes at 9pm, with a midday break from 1:30–2:30pm. Plan around that gap, since the gates genuinely shut then.
 
-Weekday mornings between 7am and 9am are the quietest window measured here, with soft light on the sandstone and far fewer people underfoot. Weekends are a different story: crowds build from 10am and stay heavy right through to closing, so an early arrival matters more here than almost anywhere else in Delhi.
+Weekday mornings between 7am and 9am are the quietest window in the forecast, with soft light on the sandstone and far fewer people underfoot. Weekends are a different story: crowds build from 10am and stay heavy right through to closing, so an early arrival matters more here than almost anywhere else in Delhi.
 
 Major Hindu festivals, especially Janmashtami and Diwali, draw large crowds and add extra decoration and evening activity, atmospheric, but not the moment for a calm wander.
 

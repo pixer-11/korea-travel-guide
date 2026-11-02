@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: guadalajara-jardin-hidalgo
-srcHash: '88655b269368'
+srcHash: 'f747fb535921'
 title: 'Jardín Hidalgo: guía de viaje de Guadalajara (4.7★)'
 description: En pleno San Pedro Tlaquepaque, el pueblo artesano de la zona metropolitana de Guadalajara, el Jardín Hidalgo es la plaza principal y reúne una estatua de Miguel Hidalgo, una fuente y bancas a la sombra. Con 4.7★ (12,278 reseñas), aquí encontrará la opinión de los visitantes, el horario y consejos prácticos.
 quickAnswer: En San Pedro Tlaquepaque, el pueblo artesano de la zona metropolitana de Guadalajara, la plaza principal es el Jardín Hidalgo, con una estatua de Miguel Hidalgo, una fuente y bancas a la sombra. Abre las 24 horas y recorrerlo no cuesta nada. Los fines de semana, de 11am a 11pm, hay más gente que nunca; si quiere conseguir una banca, vaya entre semana o un sábado o domingo por la mañana.
@@ -9,7 +9,7 @@ faq:
   - q: ¿Dónde se encuentra exactamente el Jardín Hidalgo?
     a: Está en la calle Guillermo Prieto, en el Centro de San Pedro Tlaquepaque, a unos 7 km al sureste del centro de Guadalajara. La Parroquia de San Pedro Apóstol y el Santuario de la Soledad se alzan en sus costados, y El Parián queda justo al lado.
   - q: ¿Cuál es el momento más tranquilo para visitarlo?
-    a: Conviene evitar los fines de semana de 11am a 11pm, que es la franja de mayor afluencia registrada. Para una visita más sosegada, lo mejor es ir entre semana o en fin de semana antes de las 11am.
+    a: Conviene evitar los fines de semana de 11am a 11pm, que es la franja de mayor afluencia prevista. Para una visita más sosegada, lo mejor es ir entre semana o en fin de semana antes de las 11am.
   - q: ¿Cómo se llega en transporte público?
     a: Tome la Línea 3 del tren ligero de Guadalajara (SITEUR) y bájese en la estación Tlaquepaque Centro. Desde allí, la plaza queda a poca distancia a pie.
   - q: ¿El Jardín Hidalgo abre de noche?
@@ -44,7 +44,7 @@ Si piensa recorrer las tiendas con calma y comer, reserve entre dos y tres horas
 
 ## Cómo conseguir banca antes de que llegue la multitud
 
-Aunque el jardín nunca cierra, la afluencia se concentra en horarios muy concretos. Los fines de semana de 11am a 11pm hay más gente que en ningún otro momento: las bancas se llenan y los andadores hacia El Parián se congestionan. Entre semana, o bien el fin de semana antes de las 11am, tendrá más posibilidades de sentarse a la sombra junto a la fuente. Esa franja del fin de semana es el único pico registrado, así que fuera de ella el ambiente debería ser más tranquilo.
+Aunque el jardín nunca cierra, la afluencia se concentra en horarios muy concretos. Los fines de semana de 11am a 11pm hay más gente que en ningún otro momento: las bancas se llenan y los andadores hacia El Parián se congestionan. Entre semana, o bien el fin de semana antes de las 11am, tendrá más posibilidades de sentarse a la sombra junto a la fuente. Esa franja del fin de semana es el único pico previsto, así que fuera de ella el ambiente debería ser más tranquilo.
 
 Consejos prácticos sobre el terreno:
 

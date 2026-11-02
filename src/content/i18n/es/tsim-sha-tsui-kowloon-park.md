@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: tsim-sha-tsui-kowloon-park
-srcHash: '038b0a32ce11'
+srcHash: '33a3bdf8c05c'
 title: 'Parque de Kowloon: guía de viaje de Tsim Sha Tsui (4,4★)'
 description: 'El parque de Kowloon (Kowloon Park), en Tsim Sha Tsui, es el respiro verde que se esconde detrás de Nathan Road, a un corto paseo de la salida A1 del metro (MTR) de Tsim Sha Tsui, abierto todos los días de 5:00 a medianoche. 4,4★ (1.822 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El parque de Kowloon, en Tsim Sha Tsui, es el respiro verde que se esconde detrás de Nathan Road, a un corto paseo de la salida A1 del metro (MTR) de Tsim Sha Tsui, y abre todos los días de 5:00 a medianoche. El momento más tranquilo es muy temprano o muy tarde (entre las 22:00 y las 23:00 los días de semana es el tramo más silencioso), mientras que los fines de semana entre las 10:00 y las 19:00 se registra la mayor afluencia. Conviene reservar entre 45 y 90 minutos para recorrer el aviario, el complejo de piscinas y el estanque de los flamencos.
@@ -11,7 +11,7 @@ faq:
   - q: ¿Cuál es el horario de apertura?
     a: El parque de Kowloon abre todos los días de 5:00 a medianoche, sin excepción, incluidos los fines de semana.
   - q: ¿Cuál es el momento menos concurrido para la visita?
-    a: Los días de semana, el tramo más tranquilo registrado va de las 22:00 a las 23:00. Los fines de semana, las mañanas entre las 7:00 y las 11:00 son notablemente más despejadas que el mediodía.
+    a: Los días de semana, el tramo más tranquilo previsto va de las 22:00 a las 23:00. Los fines de semana, las mañanas entre las 7:00 y las 11:00 son notablemente más despejadas que el mediodía.
   - q: ¿Cuánto tiempo conviene dedicarle?
     a: La mayoría de los visitantes pasa entre 45 y 90 minutos recorriendo el aviario, el paseo de esculturas y el estanque de los flamencos, más tiempo si se nada o se asiste a las actuaciones del Kung Fu Corner los domingos.
   - q: ¿Qué hay cerca para combinar la visita?
@@ -48,7 +48,7 @@ Fuera de esos horarios de actuación, esta misma plaza abierta acoge por las ma�
 
 El parque de Kowloon registra su mayor afluencia los fines de semana entre las 10:00 y las 19:00, cuando familias, excursionistas de un día y grupos turísticos que van o vuelven de las tiendas de Nathan Road coinciden en los mismos caminos. Para disfrutar del aviario y el paseo de esculturas casi en soledad, lo mejor es acudir justo tras la apertura, a las 5:00, o en las horas tardías previas a la medianoche.
 
-Los días de semana, el tramo más tranquilo registrado es de 22:00 a 23:00, una buena opción para quienes se alojan en un hotel de Tsim Sha Tsui y quieren un paseo silencioso después de cenar. Las mañanas de fin de semana anteriores a las 11:00 también son notablemente más despejadas que el pico del mediodía.
+Los días de semana, el tramo más tranquilo previsto es de 22:00 a 23:00, una buena opción para quienes se alojan en un hotel de Tsim Sha Tsui y quieren un paseo silencioso después de cenar. Las mañanas de fin de semana anteriores a las 11:00 también son notablemente más despejadas que el pico del mediodía.
 
 - Franja tranquila en días de semana: 22:00–23:00
 - Franja tranquila en fin de semana: aproximadamente de 7:00 a antes de las 11:00

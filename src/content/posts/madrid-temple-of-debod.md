@@ -113,7 +113,7 @@ The interior houses a small museum on the temple's history and Egypt's rescue ca
 
 ## When to go
 
-The temple and its museum keep set opening hours and close for one day each week, so check the current schedule if you're building a Moncloa itinerary. Measured crowd patterns show the crush builds through the afternoon and peaks between 3pm and 8pm on weekends, exactly the window when everyone else has the same sunset idea you do. If you can, aim for a weekday, or get there for opening at 10am when the terraces are nearly empty and the low morning light rakes across the stonework instead of behind it.
+The temple and its museum keep set opening hours and close for one day each week, so check the current schedule if you're building a Moncloa itinerary. The crowd forecast shows the crush builds through the afternoon and peaks between 3pm and 8pm on weekends, exactly the window when everyone else has the same sunset idea you do. If you can, aim for a weekday, or get there for opening at 10am when the terraces are nearly empty and the low morning light rakes across the stonework instead of behind it.
 
 ## How to visit like a local
 

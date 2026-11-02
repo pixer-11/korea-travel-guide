@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: buenos-aires-jardin-botanico-carlos-thays
-srcHash: '230d311ad5bf'
+srcHash: '09836897623c'
 title: 'Jardín Botánico Carlos Thays: guía de viaje de Buenos Aires'
 description: 'El Jardín Botánico Carlos Thays está en Av. Santa Fe 3957, en Palermo (Buenos Aires), a pasos de la estación Plaza Italia de la línea D del Subte. Los fines de semana, la franja más tranquila va de 10am a 11am y la de mayor afluencia, de 2pm a 6pm. 4.6★ (67,059 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Jardín Botánico Carlos Thays está en Av. Santa Fe 3957, en Palermo (Buenos Aires), a pasos de la estación Plaza Italia de la línea D del Subte. Los fines de semana, la franja más tranquila va de 10am a 11am y la de mayor afluencia, de 2pm a 6pm. Cierra los lunes. Actualmente abre a las 8am de martes a viernes y a las 9:30am los sábados y domingos.
@@ -52,7 +52,7 @@ Los lunes el jardín permanece cerrado, así que no deje la visita para el últi
 
 Como ocurre en la mayoría de los parques y jardines, el horario puede variar según la época del año y en los días feriados. Antes de ir, consulte el calendario del mes en el sitio oficial de la Ciudad de Buenos Aires.
 
-Los fines de semana, lo ideal es llegar entre las 10am y las 11am, la franja más tranquila. Procure no aparecer entre las 2pm y las 6pm del sábado o el domingo: a esas horas las familias y los cochecitos ocupan los senderos principales y el invernadero se llena. Las mañanas de los días laborables, tras la apertura de las 8am, también son una apuesta razonable, aunque esta recomendación se basa en el ritmo laboral de la ciudad y no en datos medidos.
+Los fines de semana, lo ideal es llegar entre las 10am y las 11am, la franja más tranquila. Procure no aparecer entre las 2pm y las 6pm del sábado o el domingo: a esas horas las familias y los cochecitos ocupan los senderos principales y el invernadero se llena. Las mañanas de los días laborables, tras la apertura de las 8am, también son una apuesta razonable, aunque esta recomendación se basa en el ritmo laboral de la ciudad y no en la previsión de afluencia.
 
 ## Recorrerlo como un porteño
 

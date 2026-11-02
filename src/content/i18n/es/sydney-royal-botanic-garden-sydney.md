@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: sydney-royal-botanic-garden-sydney
-srcHash: '340fd14988d7'
+srcHash: '615691d00be9'
 title: 'Real Jardín Botánico: guía de viaje de Sídney (4.7★)'
 description: A orillas de Farm Cove, entre la Ópera de Sídney y Mrs Macquaries Point, en pleno centro de la ciudad, el Real Jardín Botánico de Sídney abre todos los días de 7am a 5pm. Con 4.7★ (25,525 reseñas), le contamos qué opinan los visitantes, cuáles son los horarios y qué conviene saber antes de ir.
 quickAnswer: 'En pleno centro de Sídney, entre la Ópera y Mrs Macquaries Point, el Real Jardín Botánico (Royal Botanic Garden Sydney) se extiende por la orilla de Farm Cove y abre todos los días de 7am a 5pm. Lo mejor es madrugar: los momentos más tranquilos van de 7am a 9am entre semana y de 7am a 10am los fines de semana. Conviene evitar las tardes del fin de semana, de 12pm a 5pm, cuando los céspedes y los paseos junto a la bahía registran la mayor afluencia.'

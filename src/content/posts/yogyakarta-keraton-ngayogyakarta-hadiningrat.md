@@ -57,7 +57,7 @@ tags:
 quickAnswer: "Keraton Ngayogyakarta Hadiningrat is the Sultan's palace in Kraton district, central Yogyakarta, open Tuesday to Sunday from 9am to 3pm and closed on Mondays. Weekends are busy the whole time it is open (9am–3pm), so go on a weekday morning soon after 9am. Plan on 1.5 to 2 hours, then walk to Taman Sari."
 faq:
   - q: "When is the quietest time to visit Keraton Ngayogyakarta Hadiningrat?"
-    a: "We don't have a measured quiet window, but weekends are busiest for the whole time the palace is open, 9am–3pm. A weekday (Tuesday to Friday) starting close to the 9am opening is the best way to miss that crowd."
+    a: "The forecast shows no quiet window, but weekends are busiest for the whole time the palace is open, 9am–3pm. A weekday (Tuesday to Friday) starting close to the 9am opening is the best way to miss that crowd."
   - q: "What are the opening hours?"
     a: "It's open Tuesday to Sunday from 9am to 3pm and closed on Mondays. Court ceremonies can close it at short notice, so check before you go."
   - q: "How do I get there from Malioboro or Tugu station?"

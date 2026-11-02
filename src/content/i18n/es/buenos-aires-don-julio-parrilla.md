@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: buenos-aires-don-julio-parrilla
-srcHash: '6096a28910bc'
+srcHash: 'aac684a480ae'
 title: 'Don Julio Parrilla: dónde comer en Buenos Aires (4.4★)'
 description: En la esquina de Guatemala 4699 y Gurruchaga, en Palermo Soho (Buenos Aires), se encuentra Don Julio Parrilla, una parrilla de alta gama con una valoración de 4.4★ (20,019 reseñas). Le contamos qué opinan los visitantes, cuál es su horario y algunos consejos prácticos.
 quickAnswer: Don Julio Parrilla es una parrilla de alta gama situada en Guatemala 4699, esquina con Gurruchaga, en pleno Palermo Soho (Buenos Aires). Conviene reservar en línea con varias semanas de antelación y pedir un corte de maduración larga cocido a punto. Los fines de semana, las horas de mayor afluencia van de 1pm a 2pm y de 7pm a 11pm, así que es mejor evitarlas. Actualmente, el almuerzo se sirve de 11:30am a 4pm y la cena de 7pm a 1am.
@@ -9,7 +9,7 @@ faq:
   - q: ¿Hace falta reservar en Don Julio?
     a: Sí, sobre todo para cenar. Lo ideal es reservar con varias semanas de antelación a través de la web oficial del restaurante. Quien llegue sin reserva debe contar con una larga espera en la puerta.
   - q: ¿Cuál es el momento más tranquilo para ir?
-    a: No disponemos de datos que indiquen una franja tranquila concreta. Lo que sí se sabe es que los fines de semana las horas de mayor afluencia van de 1pm a 2pm y de 7pm a 11pm. Por eso conviene llegar a la apertura de las 11:30am o reservar una mesa tardía, después de las 11pm. Actualmente, el servicio de cena se prolonga hasta la 1am.
+    a: La previsión no indica ninguna franja tranquila concreta. Lo que sí se sabe es que los fines de semana las horas de mayor afluencia van de 1pm a 2pm y de 7pm a 11pm. Por eso conviene llegar a la apertura de las 11:30am o reservar una mesa tardía, después de las 11pm. Actualmente, el servicio de cena se prolonga hasta la 1am.
   - q: ¿Cuál es el horario actual?
     a: Por ahora abre todos los días de la semana, con almuerzo de 11:30am a 4pm y cena de 7pm a 1am. Entre ambos servicios permanece cerrado, así que le recomendamos consultar la web oficial antes de ir.
   - q: ¿Cómo se llega?

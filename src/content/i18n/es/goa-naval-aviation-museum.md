@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: goa-naval-aviation-museum
-srcHash: 'eb0f03332337'
+srcHash: '885ff1a0265f'
 title: 'Museo de Aviación Naval: Guía de viaje de Goa (4.6★)'
 description: 'El Museo de Aviación Naval se encuentra en Bogmalo Road, cerca de Dabolim, a un breve trayecto del aeropuerto de Goa, y es el único museo de su tipo en Asia. 4.6★ (7,572 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El Museo de Aviación Naval se encuentra en Bogmalo Road, cerca de Dabolim, a un breve trayecto del aeropuerto de Goa, y es el único museo de su tipo en Asia. Reserva entre 90 minutos y dos horas: un parque de aviones al aire libre con cazas y helicópteros retirados del servicio, además de una galería interior que recorre la historia de la aviación naval india desde 1947. Cierra los lunes, y los fines de semana se llena entre las 11am y las 5pm, así que lo ideal es ir un día de semana por la mañana, justo después de la apertura a las 9:30am.'
@@ -59,7 +59,7 @@ El parque al aire libre tiene poca sombra, así que ir temprano también signifi
 Esta es una parada muy visitada y bien valorada dentro del circuito de Goa, no un hallazgo secreto, así que calcular bien el horario de tu visita importa más que buscar una entrada oculta.
 
 - **Ve temprano en día de semana**: las mañanas justo después de la apertura a las 9:30am son tu mejor oportunidad de fotografiar los aviones sin gente alrededor.
-- **Evita el sábado y domingo de 11am a 5pm**: esa es la franja de mayor concurrencia registrada, cuando se juntan grupos turísticos y familias.
+- **Evita el sábado y domingo de 11am a 5pm**: esa es la franja de mayor concurrencia prevista, cuando se juntan grupos turísticos y familias.
 - **Paga en la puerta**: las tarifas de entrada son modestas y suelen pagarse en efectivo en la boletería; lleva billetes pequeños.
 - **Usa calzado cerrado**: el parque de aviones está al aire libre, sobre asfalto y grava, y hay que caminar bastante entre las exhibiciones.
 - **Pregunta por el acceso a las cabinas**: en algunos aviones se permite subir brevemente; el personal cercano puede indicarte cuáles ese día.

@@ -100,7 +100,7 @@ faq:
       walkway inside the Bellagio hotel, open to anyone passing through.
   - q: When is the quietest time to visit?
     a: >-
-      Between 7am and 9am, on both weekdays and weekends, based on measured
+      Between 7am and 9am, on both weekdays and weekends, based on typical
       crowd patterns. After 11am on weekends it gets noticeably busier and stays
       that way until around 11pm.
   - q: How long should I spend there?
@@ -144,7 +144,7 @@ At night the space is lit artificially and the mood shifts, especially around th
 
 ## When to go if you don't want company
 
-This is one of the most visited free attractions on the Strip, and it draws a constant stream of hotel guests, casino floor traffic and tour groups, so don't expect a quiet garden. The measured quietest window is 7am to 9am, on both weekdays and weekends, before the casino floor fully wakes up.
+This is one of the most visited free attractions on the Strip, and it draws a constant stream of hotel guests, casino floor traffic and tour groups, so don't expect a quiet garden. The quietest window in the forecast is 7am to 9am, on both weekdays and weekends, before the casino floor fully wakes up.
 
 Weekend afternoons and evenings are the opposite: crowds build steadily from around 11am and stay heavy until 11pm, with the walkway sometimes backing up as people stop to photograph each scene. If you're set on an uncrowded look, an early breakfast at Bellagio followed by a walk through around 7:30am is close to your best shot.
 

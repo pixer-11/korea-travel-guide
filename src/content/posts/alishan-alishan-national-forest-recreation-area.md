@@ -106,7 +106,7 @@ Weekends and midday are the crunch points. Foot traffic on the main trails build
 
 ## How to visit like a local
 
-Alishan is a major domestic and international draw, not a quiet find, so timing your visit around the crowds matters more than finding a secret corner. The measured quiet window is 7am–8am on weekdays. Walk the Giant Tree Trail then and you'll often have long stretches of boardwalk to yourself before the first tour buses unload.
+Alishan is a major domestic and international draw, not a quiet find, so timing your visit around the crowds matters more than finding a secret corner. The forecast quiet window is 7am–8am on weekdays. Walk the Giant Tree Trail then and you'll often have long stretches of boardwalk to yourself before the first tour buses unload.
 
 A few practical habits locals and frequent visitors follow:
 

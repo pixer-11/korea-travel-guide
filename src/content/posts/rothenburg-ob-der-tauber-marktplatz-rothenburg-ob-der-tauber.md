@@ -44,7 +44,7 @@ tags:
 quickAnswer: "Marktplatz in Rothenburg ob der Tauber is the sloping main square of the walled old town. It is framed by the Town Hall, whose tower you can climb, and by the Councillors' Tavern clock, where the Meistertrunk figures appear on the hour. It is open 24 hours, and early morning or evening is your best chance at a quieter square, before and after the day-tour coaches."
 faq:
   - q: "When is the quietest time to visit Marktplatz?"
-    a: "The square is open 24 hours. Coach tours tend to arrive around midday, so early morning or evening is usually calmer. No measured crowd data is available for this square."
+    a: "The square is open 24 hours. Coach tours tend to arrive around midday, so early morning or evening is usually calmer. No crowd forecast is available for this square."
   - q: "When does the Meistertrunk clock perform?"
     a: "The Tilly and Nusch figures appear on the hour through the day. Check the exact schedule at the tourist office in the Ratstrinkstube."
   - q: "Is the Town Hall tower climb difficult?"

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: tbilisi-bridge-of-love
-srcHash: '4914a9fb6c48'
+srcHash: '65117682ffae'
 title: 'Puente del Amor (Bridge Of Love): guía de viaje de Tiflis (4.5★)'
 description: En el 31 Abano St, dentro de Abanotubani, el barrio de los baños de azufre del casco antiguo de Tiflis, se encuentra el Puente del Amor. Tiene una valoración de 4.5★ con 565 reseñas. Aquí encontrará la opinión de los visitantes, el horario y consejos prácticos.
 quickAnswer: El Puente del Amor (Bridge Of Love) está en el 31 Abano St, en Abanotubani, el barrio de los baños de azufre del casco antiguo de Tiflis. Se trata de una pequeña pasarela peatonal sobre el arroyo que recorre el desfiladero de Leghvtakhevi. Según Google, permanece abierto las 24 horas, y basta con 15–20 minutos para verlo. Lo más recomendable es combinar la visita con los baños, la cascada del desfiladero y la subida a la fortaleza de Narikala.
@@ -45,7 +45,7 @@ El puente es de acceso público y gratuito, y Google indica que está abierto la
 - **Respete la limpieza del arroyo.** La costumbre manda guardarse la llave en el bolsillo o tirarla a una papelera, nunca al agua. El arroyo desemboca en un desfiladero por el que pasea la gente y no es ninguna fuente de los deseos.
 - **Deje paso a quienes van a los baños.** La callejuela es angosta y la recorren continuamente empleados y clientes de las casas de baños.
 
-Para el puente en sí bastan diez minutos. A primera hora de la mañana suele haber menos gente, antes de que los excursionistas bajen desde el teleférico de la fortaleza, aunque esto es una deducción y no un dato medido. Al caer la noche, las cúpulas de los baños se iluminan y apenas queda nadie por la zona.
+Para el puente en sí bastan diez minutos. A primera hora de la mañana suele haber menos gente, antes de que los excursionistas bajen desde el teleférico de la fortaleza, aunque esto es una deducción y no una previsión de afluencia. Al caer la noche, las cúpulas de los baños se iluminan y apenas queda nadie por la zona.
 
 ## Qué hay en los alrededores
 

@@ -64,7 +64,7 @@ A few habits worth copying:
 - **Check before you travel.** We don't have confirmed opening hours, and the place is new, so check its current listing or social accounts first, along with whether it takes reservations.
 - **Laptops are a judgement call.** With a diplomatic and professional crowd, quiet laptop use is likely to fit in. Taking over a big table for hours at a busy moment probably won't.
 
-Working weeks in Çankaya follow office and embassy schedules. Weekday mornings and early lunch are likely to be the room's most businesslike stretch, and weekends are likely to be more relaxed. That's a guess from how the district works, not a measured pattern.
+Working weeks in Çankaya follow office and embassy schedules. Weekday mornings and early lunch are likely to be the room's most businesslike stretch, and weekends are likely to be more relaxed. That's a guess from how the district works, not a crowd forecast.
 
 ## Making a half-day of it
 

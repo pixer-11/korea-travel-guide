@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: fukuoka-fukuoka-christmas-market-christmas-advent
-srcHash: '527623fbfe15'
+srcHash: '8e823275de28'
 title: 'Mercado navideño de Fukuoka (Christmas Advent): fechas, entradas y recinto (Fukuoka)'
 description: Las fechas del Mercado navideño de Fukuoka (Christmas Advent) en su edición de 2026 son del 7 de noviembre al 25 de diciembre. Ocupa la ciudad entre la estación de Hakata y Tenjin y combina iluminaciones, mercado navideño y conciertos de música clásica.
 quickAnswer: Las fechas del Mercado navideño de Fukuoka (Christmas Advent) en su edición de 2026 son del 7 de noviembre al 25 de diciembre. Ocupa buena parte de la ciudad, entre la estación de Hakata y Tenjin, y su programa reúne iluminaciones, un mercado navideño y conciertos de música clásica. Solo dos paradas de la línea Kuko del metro separan ambos núcleos, de modo que la mayoría de los visitantes recorre los dos en una misma tarde. Las condiciones de acceso y la información sobre los conciertos figuran en la web oficial del organizador.
@@ -68,7 +68,7 @@ Aquí la mayoría de la gente paga el metro con tarjeta. Las tarjetas Suica, PAS
 
 Ante las casetas se forma una única fila ordenada, normalmente señalizada en el suelo o por el personal. Quien se coloca al final y deja libre el paso pasa desapercibido. Comer mientras se camina por zonas abarrotadas está mal visto, y por eso las mesas altas se llenan.
 
-En cuanto a los horarios, se trata de una deducción y no de una medición. Las tardes laborables tras la jornada de oficina y los fines de semana son los momentos de mayor afluencia, porque Tenjin es un gran nudo de transporte para quienes van a trabajar. Ir antes, todavía con luz, supone colas más cortas en las casetas. Llegar ya de noche permite ver las iluminaciones en todo su esplendor, por lo que muchos llegan al atardecer y disfrutan de ambas cosas.
+En cuanto a los horarios, se trata de una deducción y no de una previsión de afluencia. Las tardes laborables tras la jornada de oficina y los fines de semana son los momentos de mayor afluencia, porque Tenjin es un gran nudo de transporte para quienes van a trabajar. Ir antes, todavía con luz, supone colas más cortas en las casetas. Llegar ya de noche permite ver las iluminaciones en todo su esplendor, por lo que muchos llegan al atardecer y disfrutan de ambas cosas.
 
 En las ciudades japonesas apenas hay papeleras. Las casetas suelen recoger sus propios vasos y platos, y quien lleva una bolsita para el resto no acaba cargando con vasos vacíos.
 

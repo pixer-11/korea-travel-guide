@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: hobart-born-in-brunswick
-srcHash: 'e593316f4bc9'
+srcHash: 'a0e132ef8548'
 title: 'Born In Brunswick: guía de viaje de Hobart (4.5★)'
 description: En el 410 de Elizabeth St, en North Hobart, Born In Brunswick sirve brunch a precios moderados. Tiene muy buenas valoraciones y abre todos los días de 8am a 2pm.
 quickAnswer: En el 410 de Elizabeth St, en North Hobart, Born In Brunswick sirve brunch a precios moderados. Tiene muy buenas valoraciones y abre todos los días de la semana de 8am a 2pm. Entre semana, la franja más tranquila va de 1pm a 2pm. El fin de semana conviene evitar el intervalo de 10am a 12pm, que es cuando más clientes hay.

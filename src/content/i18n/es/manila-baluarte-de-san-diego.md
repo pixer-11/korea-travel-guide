@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: manila-baluarte-de-san-diego
-srcHash: '9bb02c3a29bc'
+srcHash: '07ac140a6b66'
 title: 'Baluarte de San Diego: Guía de Viaje de Manila (4.5★)'
 description: 'El Baluarte de San Diego es un fuerte circular en ruinas de piedra, escondido entre las murallas de Intramuros, construido en 1586 y hoy convertido en hogar de una colección de bonsáis dentro de sus antiguos emplazamientos de cañones. 4.5★ (848 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Baluarte de San Diego es un fuerte circular en ruinas de piedra, escondido entre las murallas de Intramuros, construido en 1586 y hoy convertido en hogar de una colección de bonsáis dentro de sus antiguos emplazamientos de cañones. Abre todos los días de 8:00 a 17:00, y el momento de menor afluencia es justo a la apertura (de 8:00 a 9:00 entre semana, de 8:00 a 10:00 los fines de semana), mientras que la mayor concurrencia se da entre las 13:00 y las 17:00 los fines de semana. Conviene reservar entre 45 minutos y una hora, y combinar la visita con un paseo por las murallas adyacentes.
@@ -45,7 +45,7 @@ El Baluarte de San Diego se encuentra en la calle Sta. Lucia, dentro de la ciuda
 
 Abre todos los días de 8:00 a 17:00, sin excepciones a lo largo de la semana.
 
-Lo ideal es llegar justo a la apertura. Los momentos de menor afluencia registrados son de 8:00 a 9:00 entre semana y de 8:00 a 10:00 los fines de semana: la humedad es baja, la luz de la mañana suaviza la piedra y es probable que el anfiteatro quede prácticamente vacío.
+Lo ideal es llegar justo a la apertura. Los momentos de menor afluencia previstos son de 8:00 a 9:00 entre semana y de 8:00 a 10:00 los fines de semana: la humedad es baja, la luz de la mañana suaviza la piedra y es probable que el anfiteatro quede prácticamente vacío.
 
 Las tardes de fin de semana son la experiencia opuesta. Entre las 13:00 y las 17:00 los sábados y domingos, los grupos turísticos y las familias llenan los pasillos, así que conviene evitar ese horario si se busca tomar fotos con calma.
 
@@ -55,7 +55,7 @@ La temporada seca de Manila, aproximadamente de noviembre a abril, resulta más 
 
 Al ser todavía un lugar poco conocido en comparación con Fort Santiago, que está justo al lado, se puede disfrutar como un verdadero respiro y no como una simple parada obligada.
 
-- Si es posible, llegue a la hora de apertura entre semana: el tramo de 8:00 a 9:00 es el más tranquilo registrado, y la luz resulta ideal para las fotos.
+- Si es posible, llegue a la hora de apertura entre semana: el tramo de 8:00 a 9:00 es el más tranquilo según la previsión, y la luz resulta ideal para las fotos.
 - Use calzado con buen agarre, ya que las rampas y escalones de piedra están desgastados y se vuelven resbaladizos después de la lluvia.
 - Lleve billetes pequeños para la entrada, porque las taquillas de los sitios de Intramuros suelen aceptar solo efectivo.
 - Si tiene problemas de movilidad, evite los niveles superiores, a los que no se puede acceder en ascensor: tanto el descenso al foso del fuerte como la subida posterior implican escalones irregulares.

@@ -18,7 +18,7 @@ faq:
   - q: What is 32do Bali known for?
     a: It's a Korean-style coffee shop and bakery. It became famous online for its photogenic architecture and its widely shared pastries.
   - q: When should I go to avoid crowds?
-    a: No measured crowd data is available. As a general rule, arriving at opening on a weekday beats the photo crowd, and you get first pick of the pastries before popular items sell out.
+    a: No crowd forecast is available. As a general rule, arriving at opening on a weekday beats the photo crowd, and you get first pick of the pastries before popular items sell out.
   - q: What else is nearby?
     a: Jalan Kayu Aya (Eat Street) for shops and restaurants, Seminyak Beach for sunset, and Petitenget Temple at the north end of the beach.
 aiGenerated: true

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: montreal-kondiaronk-belvedere
-srcHash: '4478d3d13873'
+srcHash: '192487a8709d'
 title: 'Mirador Kondiaronk: guía de viaje de Montreal (4.8★)'
 description: 'Frente al Chalet del Monte Real de Montreal se abre el Mirador Kondiaronk, una amplia terraza de piedra con vistas directas al centro de la ciudad y al río San Lorenzo. 4.8★ (13,468 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Frente al Chalet del Monte Real (Chalet du Mont-Royal), en Montreal, se extiende el Mirador Kondiaronk (Belvédère Kondiaronk), una amplia terraza de piedra desde la que se domina el centro de la ciudad y, a lo lejos, el río San Lorenzo. Se puede subir por la escalera que arranca al final de la calle Peel o por el sendero del camino Olmsted, de pendiente más suave. También puede tomar el autobús 11 y caminar un breve trecho. El horario actual es de 6am a medianoche. Si quiere asomarse a la barandilla sin aglomeraciones, lo más sencillo es ir a primera hora de la mañana.
@@ -11,7 +11,7 @@ faq:
   - q: ¿Cuál es el horario?
     a: Según la información actual, abre todos los días de 6am a medianoche. Como el horario del parque del Monte Real puede variar a lo largo del año, conviene consultar la web oficial de la Ciudad de Montreal o la de Les amis de la montagne antes de ir de noche.
   - q: ¿Cuál es el mejor momento para ir?
-    a: No existen datos medidos sobre la afluencia a la terraza. Lo más probable es encontrar la barandilla tranquila si llega un día laborable poco después de la apertura, a las 6am. Los colores otoñales alcanzan su esplendor hacia finales de septiembre y en octubre, y al anochecer se encienden las luces de la ciudad.
+    a: No existe una previsión de afluencia para la terraza. Lo más probable es encontrar la barandilla tranquila si llega un día laborable poco después de la apertura, a las 6am. Los colores otoñales alcanzan su esplendor hacia finales de septiembre y en octubre, y al anochecer se encienden las luces de la ciudad.
   - q: ¿Cuánto tiempo hay que reservar para la visita?
     a: Calcule 1.5–2 horas entre la subida desde el centro, el rato en la terraza y el regreso. Si además quiere ver la cruz del Monte Real o el lago de los Castores, añada una hora.
   - q: ¿Hay aparcamiento cerca del mirador?

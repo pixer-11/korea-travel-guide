@@ -1,13 +1,13 @@
 ---
 lang: es
 slug: london-the-british-museum
-srcHash: 'bd7a46b01fef'
+srcHash: '4f6fc455f728'
 title: 'Museo Británico: guía de viaje por Londres (4.5★)'
 description: 'El Museo Británico se encuentra en Great Russell Street, en el barrio londinense de Bloomsbury, a pocos minutos a pie de las estaciones de Tottenham Court Road y Holborn. 4.5★ (3,066 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Museo Británico (British Museum) se encuentra en Great Russell Street, en pleno Bloomsbury, en el centro de Londres. Las estaciones de Tottenham Court Road y Holborn quedan a pocos minutos a pie. Entre semana siempre hay poca gente, sea cual sea la hora de apertura. Si va en fin de semana, conviene llegar a las 10am para estar ya bien adentro de las salas antes de la hora punta, de 12pm a 4pm.
 faq:
   - q: ¿Cuándo hay menos gente en el Museo Británico?
-    a: Entre semana la afluencia es baja durante toda la franja medida, de 10am a 6pm, así que cualquier hora de apertura es buena. En fin de semana, el momento más tranquilo va de 10am a 11am. Los sábados y domingos conviene evitar la franja de 12pm a 4pm, que es la de mayor afluencia.
+    a: Según la previsión, entre semana la afluencia es baja durante toda la franja de 10am a 6pm, así que cualquier hora de apertura es buena. En fin de semana, el momento más tranquilo va de 10am a 11am. Los sábados y domingos conviene evitar la franja de 12pm a 4pm, que es la de mayor afluencia.
   - q: ¿Cuál es el horario del Museo Británico?
     a: Abre todos los días a las 10am. Los lunes, martes, jueves, sábados y domingos cierra a las 5pm; los miércoles, a las 3:30pm, y los viernes, a las 8:30pm.
   - q: ¿Cuánto tiempo hace falta para visitar el Museo Británico?
@@ -42,7 +42,7 @@ Para verlas a un ritmo razonable bastan dos o tres horas. Ni en un día entero s
 
 Como el horario cambia según el día de la semana, compruébelo antes de ir. El museo abre todos los días a las 10am. Casi siempre cierra a las 5pm, salvo los miércoles, que cierra antes, a las 3:30pm, y los viernes, que permanece abierto hasta las 8:30pm.
 
-Según nuestros datos habituales de afluencia, entre semana hay poca gente durante toda la franja de 10am a 6pm. En la práctica, cualquier hora de apertura es buena de lunes a viernes. Los fines de semana, en cambio, la situación es otra: el momento más tranquilo va de 10am a 11am, mientras que la mayor afluencia se concentra entre las 12pm y las 4pm.
+Según la previsión de afluencia, entre semana hay poca gente durante toda la franja de 10am a 6pm. En la práctica, cualquier hora de apertura es buena de lunes a viernes. Los fines de semana, en cambio, la situación es otra: el momento más tranquilo va de 10am a 11am, mientras que la mayor afluencia se concentra entre las 12pm y las 4pm.
 
 Quien llegue un sábado después del mediodía tendrá que hacer cola para ver bien la Piedra de Rosetta. Entre semana, una buena opción es el viernes por la tarde, cuando ya se han marchado los grupos escolares.
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: sydney-wendy-whiteley-s-secret-garden
-srcHash: '9b3923f0c478'
+srcHash: 'bc3cfaf593d9'
 title: 'Jardín Secreto de Wendy Whiteley: guía de viaje de Sídney (4.8★)'
 description: 'En Lavender Bay, North Sydney, junto a Luna Park y a unos 10 minutos a pie de la estación de Milsons Point, se encuentra el Jardín Secreto de Wendy Whiteley, un jardín público gratuito que nunca cierra. Valoración de 4.8★ (3,711 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Jardín Secreto de Wendy Whiteley (Wendy Whiteley's Secret Garden) es un jardín público de acceso gratuito y abierto a todas horas. Está en Lavender Bay, North Sydney, al lado de Luna Park y a unos 10 minutos a pie de la estación de Milsons Point. La mayor afluencia se registra los fines de semana entre las 9am y las 6pm; si va entre semana, o bien temprano o a última hora durante el fin de semana, tendrá los bancos y los atisbos del puerto casi solo para usted. Calcule entre 45 minutos y una hora, o algo más si lleva comida para un pícnic.
@@ -9,7 +9,7 @@ faq:
   - q: ¿Cómo se llega al Jardín Secreto de Wendy Whiteley?
     a: Tome el tren hasta la estación de Milsons Point y camine unos 10 minutos hacia el oeste por el paseo costero; tras pasar Luna Park, suba hasta Lavender Street, en Lavender Bay. Los ferris también paran en el muelle de Milsons Point, junto a Luna Park.
   - q: ¿Cuál es el momento más tranquilo para visitarlo?
-    a: Evite los fines de semana entre las 9am y las 6pm, la franja en la que se ha registrado más afluencia. Entre semana suele haber más calma. Si va en fin de semana, llegue antes de las 9am o después de las 6pm, con luz suficiente para recorrer los senderos empinados.
+    a: Evite los fines de semana entre las 9am y las 6pm, la franja de mayor afluencia según la previsión. Entre semana suele haber más calma. Si va en fin de semana, llegue antes de las 9am o después de las 6pm, con luz suficiente para recorrer los senderos empinados.
   - q: ¿Está abierto el jardín por la noche?
     a: Figura como abierto las 24 horas todos los días y no tiene puerta. Aun así, los senderos son empinados, irregulares y muy sombríos, de modo que la visita de día es, con diferencia, la más segura y la que más se disfruta.
   - q: ¿Cuánto tiempo conviene dedicarle?

@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: banff-buffalo-nations-museum
-srcHash: 'fbc1721b1699'
+srcHash: '801eab3c19b9'
 title: 班夫野牛民族博物馆（Buffalo Nations Museum）旅行指南（4.4★）
 description: 野牛民族博物馆位于班夫 1 Birch Ave，从班夫大道南端过弓河大桥即到。4.4★（622条评价），这里汇总游客评价、开放时间与参观建议。
 quickAnswer: 从班夫大道南端走过弓河大桥，就能看到野牛民族博物馆，地址是 1 Birch Ave。这是一座木构城堡式建筑，馆内收藏平原原住民和斯托尼纳科达人的文物，大多数游客参观一小时左右即可。周末在11am–5pm的整个开放时段里人都不少，最好挑工作日前往。

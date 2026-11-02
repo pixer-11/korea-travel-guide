@@ -112,7 +112,7 @@ Nothing is meant to be eaten standing at the counter; you buy by weight or by bo
 
 ## When to go
 
-The shop opens at 9am and stays open straight through to 9pm, seven days a week, so there's no midday closure to plan around. The measured pattern of foot traffic backs up what you'd guess just standing outside: weekend mornings between 9am and noon are the calmest stretch, when you can actually study the cases without someone's elbow in your back.
+The shop opens at 9am and stays open straight through to 9pm, seven days a week, so there's no midday closure to plan around. The typical pattern of foot traffic backs up what you'd guess just standing outside: weekend mornings between 9am and noon are the calmest stretch, when you can actually study the cases without someone's elbow in your back.
 
 Weekend afternoons are the opposite, foot traffic climbs steadily and peaks between 4pm and 8pm, when day-trippers and Cathedral crowds spill into the plaza. If your schedule is flexible, do your browsing in that quiet morning window and save the busy stretch for somewhere else.
 

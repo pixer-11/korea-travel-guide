@@ -53,7 +53,7 @@ tags:
 quickAnswer: "Tudor Place is an 1816 neoclassical house museum at 1644 31st St NW in Georgetown, Washington DC, seen on hourly guided tours with gardens you can walk around afterwards. It is open Tuesday to Saturday 10am to 4pm and Sunday noon to 4pm, and closed Mondays. Weekends are busiest across the whole 10am to 4pm stretch, so book a Tuesday to Friday slot if you can."
 faq:
   - q: "When is the quietest time to visit Tudor Place?"
-    a: "Weekends are busiest across the full 10am to 4pm window. No specific quiet hour has been measured, but a Tuesday to Friday tour avoids the weekend peak and usually means a smaller group."
+    a: "Weekends are busiest across the full 10am to 4pm window. The forecast shows no specific quiet hour, but a Tuesday to Friday tour avoids the weekend peak and usually means a smaller group."
   - q: "Can I tour the house without a guide?"
     a: "No. You see the house on guided tours that leave on the hour. You can explore the gardens on your own afterwards. Book online ahead, and check the official site for current tour times and ticket prices."
   - q: "How long should I plan for Tudor Place?"

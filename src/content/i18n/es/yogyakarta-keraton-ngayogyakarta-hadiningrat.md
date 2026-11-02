@@ -1,13 +1,13 @@
 ---
 lang: es
 slug: yogyakarta-keraton-ngayogyakarta-hadiningrat
-srcHash: '32f342aa47fa'
+srcHash: 'ef803c0bdad7'
 title: 'Keraton Ngayogyakarta Hadiningrat: guía de viaje de Yogyakarta'
 description: El Keraton Ngayogyakarta Hadiningrat, palacio del sultán, se encuentra en el distrito de Kraton, en pleno centro de Yogyakarta. Abre de martes a domingo de 9:00 a 15:00 y cierra los lunes. Tiene una valoración de 4.7★ (39,589 reseñas). Aquí encontrará las opiniones de los visitantes, los horarios y algunos consejos.
 quickAnswer: El Keraton Ngayogyakarta Hadiningrat es el palacio del sultán y está en el distrito de Kraton, en el centro de Yogyakarta. Abre de martes a domingo de 9:00 a 15:00 y permanece cerrado los lunes. Los fines de semana hay mucha gente durante todo el horario de apertura (9:00–15:00), así que conviene ir una mañana entre semana, poco después de las 9:00. Calcule entre 1,5 y 2 horas de visita y, al terminar, acérquese a pie hasta Taman Sari.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Keraton Ngayogyakarta Hadiningrat?
-    a: No disponemos de datos medidos sobre la franja más tranquila, pero sabemos que los fines de semana hay mucha gente durante todo el horario de apertura, de 9:00 a 15:00. Para evitar las aglomeraciones, lo mejor es ir entre semana (de martes a viernes) y llegar poco después de que abra, a las 9:00.
+    a: La previsión no muestra ninguna franja tranquila, pero sí indica que los fines de semana hay mucha gente durante todo el horario de apertura, de 9:00 a 15:00. Para evitar las aglomeraciones, lo mejor es ir entre semana (de martes a viernes) y llegar poco después de que abra, a las 9:00.
   - q: ¿Cuál es el horario de apertura?
     a: Abre de martes a domingo de 9:00 a 15:00 y cierra los lunes. Como las ceremonias de la corte pueden obligar a cerrarlo con poca antelación, conviene comprobarlo antes de ir.
   - q: ¿Cómo se llega desde Malioboro o desde la estación de Tugu?

@@ -61,7 +61,7 @@ place:
 tags:
   - "gold coast"
   - "park"
-quickAnswer: "Burleigh Head National Park sits on the headland at the southern end of Burleigh Heads on the Gold Coast, reached from Goodwin Terrace. It is open 24 hours, but weekends are busy from 8am–7pm, so pick a weekday. The quietest measured window is weekdays from 9pm–11pm, which suits a short stroll rather than a full walk."
+quickAnswer: "Burleigh Head National Park sits on the headland at the southern end of Burleigh Heads on the Gold Coast, reached from Goodwin Terrace. It is open 24 hours, but weekends are busy from 8am–7pm, so pick a weekday. The quietest window in the forecast is weekdays from 9pm–11pm, which suits a short stroll rather than a full walk."
 faq:
   - q: "When is the quietest time to visit Burleigh Head National Park?"
     a: "On weekdays the quietest window is 9pm–11pm. On weekends it's busy from 8am–7pm, so a weekday daytime visit is the practical choice for the full walk."

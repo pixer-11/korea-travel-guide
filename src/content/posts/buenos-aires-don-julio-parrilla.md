@@ -74,7 +74,7 @@ faq:
       site, ideally weeks ahead. Walk-ins should expect a long wait outside.
   - q: When is the quietest time to visit?
     a: >-
-      We don't have a measured quiet window. The data does show weekends are
+      The forecast shows no quiet window, but it does show weekends are
       busiest from 1pm–2pm and 7pm–11pm, so aim for the 11:30am opening or a
       late table after 11pm. Dinner currently runs until 1am.
   - q: What are the current opening hours?

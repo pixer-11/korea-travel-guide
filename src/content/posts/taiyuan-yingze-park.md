@@ -75,7 +75,7 @@ Once inside, signage is mostly in Chinese, so downloading an offline map app bef
 
 ## When to go
 
-Weekends stay comfortably walkable anytime between 9am and 8pm, based on measured visitor patterns. The busiest stretch on weekends runs from 2pm to 8pm, when families and groups arrive after lunch, so an earlier weekend visit avoids that build-up. With a rating of 4.4 from a modest but consistent set of reviews, this is a park locals use daily rather than a stop dominated by tour groups, and it still feels under-the-radar for visitors to Taiyuan.
+Weekends stay comfortably walkable anytime between 9am and 8pm, based on typical visitor patterns. The busiest stretch on weekends runs from 2pm to 8pm, when families and groups arrive after lunch, so an earlier weekend visit avoids that build-up. With a rating of 4.4 from a modest but consistent set of reviews, this is a park locals use daily rather than a stop dominated by tour groups, and it still feels under-the-radar for visitors to Taiyuan.
 
 Spring and autumn are the most comfortable seasons for a long walk, given Shanxi's hot summers and cold, dry winters. Early morning in any season rewards you with the tai chi groups and quieter paths before the midday warmth brings out more walkers.
 

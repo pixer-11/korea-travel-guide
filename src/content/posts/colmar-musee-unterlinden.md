@@ -93,7 +93,7 @@ The breadth means the museum rewards a slow walk rather than a sprint to one mas
 
 ## Beating the Saturday crowd
 
-This is not a quiet find anyone stumbles on by accident; it's one of the most-visited museums in Alsace, and the ticket hall shows it most weekend mornings. The measured quiet window is 9am to 10am on weekends, right at opening, before the 11am-to-6pm stretch when it fills up.
+This is not a quiet find anyone stumbles on by accident; it's one of the most-visited museums in Alsace, and the ticket hall shows it most weekend mornings. The forecast quiet window is 9am to 10am on weekends, right at opening, before the 11am-to-6pm stretch when it fills up.
 
 If you're visiting on a Saturday or Sunday, get to the entrance on Place des Unterlinden as close to 9am as you can manage. Weekday mornings are calmer by nature of tour-bus scheduling, since most coach groups build Colmar into an afternoon stop after Strasbourg or Riquewihr.
 

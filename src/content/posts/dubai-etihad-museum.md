@@ -112,7 +112,7 @@ The museum sits on Jumeira Street in Al Mina, Jumeira First, close to the Jumeir
 
 ## When to go
 
-The museum runs the same hours every day of the week: 10am to 8pm, seven days a week, which makes it easy to slot into a loose itinerary rather than plan around it. If you're visiting on a weekend, aim for that 10am to 11am opening window. That's the measured quiet stretch before tour groups and families start filling the galleries. Midday and early evening tend to draw the bigger crowds, especially on Saturdays.
+The museum runs the same hours every day of the week: 10am to 8pm, seven days a week, which makes it easy to slot into a loose itinerary rather than plan around it. If you're visiting on a weekend, aim for that 10am to 11am opening window. That's the quiet stretch in the forecast, before tour groups and families start filling the galleries. Midday and early evening tend to draw the bigger crowds, especially on Saturdays.
 
 Outside, the surrounding gardens and reflecting pool are pleasant any time, though the UAE's heat makes early morning or after 5pm the more comfortable window for lingering outdoors between March and October.
 

@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: sheung-wan-blake-garden
-srcHash: '87aa88dedac8'
+srcHash: '64ca5fa0a97f'
 title: '블레이크 가든: 성완(Sheung Wan) 여행 가이드 (4.0★)'
 description: 성완(Sheung Wan)의 블레이크 가든은 구인방(Kui In Fong)과 보흥방(Po Hing Fong) 사이에 자리한 작은 동네 공원으로, 매일 오전 7시 30분부터 밤 10시까지 문을 엽니다. 4.0★(리뷰 520개) — 방문객들의 후기와 운영 시간, 팁을 확인해 보세요.
 quickAnswer: 성완(Sheung Wan)의 블레이크 가든은 구인방(Kui In Fong)과 보흥방(Po Hing Fong) 사이에 자리한 작은 동네 공원으로, 매일 오전 7시 30분부터 밤 10시까지 문을 엽니다. 가장 한산한 시간대는 평일 오전 8시에서 10시 사이이며, 가장 붐비는 시간대는 주말 오후 4시부터 9시까지이니, 벤치를 여유롭게 차지하고 싶다면 이른 시간에 방문하는 것이 좋습니다. 15분에서 30분 정도면 충분히 둘러볼 수 있어서, 래더 스트리트(Ladder Street) 산책이나 근처 문무묘(Man Mo Temple) 방문과 함께 묶어서 일정을 짜기 좋습니다.

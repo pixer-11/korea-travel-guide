@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: buenos-aires-don-julio-parrilla
-srcHash: '6096a28910bc'
+srcHash: 'aac684a480ae'
 title: Don Julio Parrilla：布宜诺斯艾利斯必吃烤肉馆（4.4★）
 description: Don Julio Parrilla是布宜诺斯艾利斯巴勒莫苏荷区（Palermo Soho）的一家高端牛排馆，坐落在Guatemala 4699，与Gurruchaga街交汇的街角。评分4.4★（20,019条评价），本文汇总食客口碑、营业时间与实用贴士。
 quickAnswer: Don Julio Parrilla是一家高端牛排馆，位于布宜诺斯艾利斯巴勒莫苏荷区（Palermo Soho）Guatemala 4699，地处与Gurruchaga街交汇的街角。建议提前几周在网上订位，点一份长时间熟成的牛排，烤到*a punto*（五分熟）即可。周末1pm–2pm和7pm–11pm是高峰，最好避开。目前午市营业时间为11:30am–4pm，晚市为7pm–1am。
@@ -9,7 +9,7 @@ faq:
   - q: 去Don Julio需要订位吗？
     a: 需要，晚餐尤其如此。请通过餐厅官网在线预订，最好提前几周。不订位直接上门的话，得做好在门外久等的准备。
   - q: 什么时候去人最少？
-    a: 关于人少的时段，我们目前没有实测数据。但数据显示，周末1pm–2pm和7pm–11pm最为拥挤，因此不妨赶在11:30am开门时进店，或者订11pm以后的晚场。晚市目前营业到1am。
+    a: 预测中没有明显人少的时段。但数据显示，周末1pm–2pm和7pm–11pm最为拥挤，因此不妨赶在11:30am开门时进店，或者订11pm以后的晚场。晚市目前营业到1am。
   - q: 目前的营业时间是怎样的？
     a: 目前餐厅每天都营业，午市11:30am–4pm，晚市7pm–1am。两餐之间会暂停营业，出发前请先上官网确认。
   - q: 怎么去？

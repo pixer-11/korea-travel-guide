@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: colmar-musee-unterlinden
-srcHash: '4bf17eb667a0'
+srcHash: '5b27a9734a29'
 title: 'Museo Unterlinden: guía de viaje de Colmar (4,6★)'
 description: 'El Museo Unterlinden, en Colmar, es el gran museo de arte e historia de la ciudad, instalado en un convento dominico del siglo XIII muy cerca de la Place des Unterlinden, en pleno centro. 4,6★ (5.330 opiniones): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo Unterlinden, en Colmar, es el gran museo de arte e historia de la ciudad, instalado en un convento dominico del siglo XIII muy cerca de la Place des Unterlinden, en pleno centro. Abre todos los días excepto los martes, de 9:00 a 18:00, y es realmente popular, así que conviene aprovechar la franja de 9:00 a 10:00 los fines de semana antes de la avalancha de las 11:00. Hay que reservar al menos dos horas; solo el Retablo de Issenheim ya justifica la visita.
@@ -36,7 +36,7 @@ Esta amplitud premia un recorrido tranquilo más que una carrera hacia una sola 
 
 ## Cómo evitar la multitud del sábado
 
-Esto no es un hallazgo tranquilo que uno descubre por casualidad: es uno de los museos más visitados de Alsacia, y la sala de venta de entradas lo demuestra la mayoría de las mañanas de fin de semana. La franja tranquila y comprobada es de 9:00 a 10:00 los fines de semana, justo a la apertura, antes del tramo de 11:00 a 18:00 en que el museo se llena.
+Esto no es un hallazgo tranquilo que uno descubre por casualidad: es uno de los museos más visitados de Alsacia, y la sala de venta de entradas lo demuestra la mayoría de las mañanas de fin de semana. La franja tranquila prevista es de 9:00 a 10:00 los fines de semana, justo a la apertura, antes del tramo de 11:00 a 18:00 en que el museo se llena.
 
 Si visitas el museo un sábado o un domingo, procura llegar a la entrada de la Place des Unterlinden lo más cerca posible de las 9:00. Las mañanas de días laborables son más tranquilas por naturaleza, ya que los autocares de grupos turísticos suelen incluir Colmar como parada de tarde después de Estrasburgo o Riquewihr.
 

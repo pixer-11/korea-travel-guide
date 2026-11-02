@@ -58,7 +58,7 @@ tags:
 quickAnswer: Cupping Room on Hollywood Road is a specialty coffee shop on the first floor of Hilltop Plaza in Central, open daily from 8am (9am weekends) to 6pm. Go on a weekday between 8-9am for the quietest tables, and skip weekend afternoons (busy noon-5pm). Expect mid-range prices, third-wave coffee, and an all-day brunch menu.
 faq:
   - q: What are the best hours to avoid crowds at Cupping Room?
-    a: Go on a weekday between 8am and 9am, right after opening — that's the measured quietest window. Weekend afternoons from noon to 5pm are the busiest, so avoid arriving then if you want a table without waiting.
+    a: Go on a weekday between 8am and 9am, right after opening — that's the quietest window in the forecast. Weekend afternoons from noon to 5pm are the busiest, so avoid arriving then if you want a table without waiting.
   - q: How do I get to Cupping Room in Central?
     a: The address is 1/F, Hilltop Plaza, 49 Hollywood Rd, Central. Walk about 10-15 minutes uphill from Central or Sheung Wan MTR stations through the PoHo and Hollywood Road antiques district.
   - q: What time does Cupping Room open and close?

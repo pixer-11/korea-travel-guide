@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: teshima-teshima-art-museum
-srcHash: '932ba66ce4d3'
+srcHash: '2ad7430a2003'
 title: 'Museo de Arte de Teshima: guía de viaje (4.6★)'
 description: El Museo de Arte de Teshima (Teshima Art Museum) se encuentra en el distrito de Karato, en la isla de Teshima. Para llegar hay que tomar un breve ferri desde el puerto de Miyanoura, en Naoshima, hasta el de Ieura, en Teshima, y subir después en autobús o en bicicleta eléctrica. Tiene una valoración de 4.6★ (2,456 reseñas); aquí encontrará las opiniones de los visitantes, los horarios y algunos consejos.
 quickAnswer: El Museo de Arte de Teshima (Teshima Art Museum) se encuentra en el distrito de Karato, en la isla de Teshima. Para llegar hay que tomar un breve ferri desde el puerto de Miyanoura, en Naoshima, hasta el de Ieura, en Teshima, y subir después en autobús o en bicicleta eléctrica. Conviene reservar una entrada con horario en la web oficial de Benesse Art Site y evitar los fines de semana, cuando hay mucha afluencia de 10am a 4pm. Tenga en cuenta que actualmente cierra los martes.

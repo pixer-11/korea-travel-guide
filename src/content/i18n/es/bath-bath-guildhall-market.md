@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bath-bath-guildhall-market
-srcHash: 'd648a54c9aae'
+srcHash: '49fcd4ddcf97'
 title: 'Bath Guildhall Market: guía de viaje (4.4★)'
 description: 'En pleno centro de Bath, sobre High Street y a unos pasos de la abadía y del puente Pulteney, el Bath Guildhall Market es un mercado cubierto de piedra de Bath con puestos de charcutería, dulces, libros y artículos para mascotas, además de un café. Valoración de 4.4★ (1,317 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En pleno centro de Bath, sobre High Street y a unos pasos de la abadía y del puente Pulteney, se encuentra el Bath Guildhall Market. Este mercado cubierto de piedra de Bath reúne puestos de charcutería, dulces, libros y artículos para mascotas, además de un café. Actualmente abre de lunes a sábado, de 9am–5pm, y cierra los domingos. La visita lleva entre 30–45 minutos, o algo más si decide sentarse en el café.

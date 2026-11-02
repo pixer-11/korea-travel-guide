@@ -59,7 +59,7 @@ tags:
 quickAnswer: "Wonderland Sculpture stands on the plaza of The Bow tower at 110 6 Ave SE in downtown Calgary. Jaume Plensa's 12-metre wire-mesh head of a girl is outdoors and currently listed as open 24 hours, with no gate or ticket. Weekends are calmest from 7am–11am and busiest from 4pm–11pm."
 faq:
   - q: "When is the quietest time to visit Wonderland Sculpture?"
-    a: "On weekends, the quietest window is 7am–11am. Try not to arrive between 4pm and 11pm on weekends, when the plaza is busiest and people line up for photos inside the head. There's no measured weekday data."
+    a: "On weekends, the quietest window is 7am–11am. Try not to arrive between 4pm and 11pm on weekends, when the plaza is busiest and people line up for photos inside the head. The forecast has no weekday data."
   - q: "How do I get to Wonderland Sculpture by public transit?"
     a: "Take the CTrain Red or Blue Line to City Hall / Bow Valley College station on 7 Ave SE. From there it's a short walk north to the plaza of The Bow tower at 110 6 Ave SE."
   - q: "Can you go inside the Wonderland sculpture?"

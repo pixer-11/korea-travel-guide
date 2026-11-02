@@ -1,13 +1,13 @@
 ---
 lang: es
 slug: rothenburg-ob-der-tauber-marktplatz-rothenburg-ob-der-tauber
-srcHash: '0df48f974908'
+srcHash: 'a9aa117b42e1'
 title: 'Marktplatz: guía de viaje de Rothenburg ob der Tauber (4.8★)'
 description: La Marktplatz, plaza mayor en pendiente del casco antiguo amurallado de Rothenburg ob der Tauber, tiene una valoración de 4.8★ (2,314 reseñas). Opiniones de los visitantes, horarios y consejos.
 quickAnswer: 'La Marktplatz es la plaza mayor del casco antiguo amurallado de Rothenburg ob der Tauber y se extiende sobre una ligera pendiente. La enmarcan dos edificios: el Ayuntamiento, cuya torre se puede subir, y la Taberna de los Concejales, en cuyo reloj aparecen a cada hora en punto las figuras del Meistertrunk. Está abierta las 24 horas. Si busca una plaza más tranquila, venga a primera hora de la mañana o al anochecer, antes de que lleguen los autocares de excursiones de un día o después de que se marchen.'
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar la Marktplatz?
-    a: La plaza está abierta las 24 horas. Los grupos en autocar suelen llegar hacia mediodía, de modo que a primera hora de la mañana o al anochecer suele haber más calma. No existen datos medidos de afluencia para esta plaza.
+    a: La plaza está abierta las 24 horas. Los grupos en autocar suelen llegar hacia mediodía, de modo que a primera hora de la mañana o al anochecer suele haber más calma. No existe una previsión de afluencia para esta plaza.
   - q: ¿Cuándo se pone en marcha el reloj del Meistertrunk?
     a: Las figuras de Tilly y Nusch se asoman a cada hora en punto a lo largo del día. El horario exacto puede consultarse en la oficina de turismo de la Ratstrinkstube.
   - q: ¿Es difícil subir a la torre del Ayuntamiento?

@@ -76,7 +76,7 @@ faq:
       want to read the didactic labels in each room.
   - q: When is the quietest time to visit?
     a: >-
-      Weekday evenings between 7pm and 9pm are the calmest measured window.
+      Weekday evenings between 7pm and 9pm are the calmest window in the forecast.
       Weekends stay busy essentially all day, with the worst crowds between noon
       and 6pm.
   - q: How do I get to the museum from central Ankara?
@@ -143,7 +143,7 @@ By public transport, take the Ankaray or M1/M2 metro line to Ulus station, then 
 
 This museum is firmly on the tourist circuit. It's not a hidden find, so plan around the crowds rather than expecting to dodge them entirely.
 
-- **Best time:** weekday evenings, 7–9pm, are consistently the quietest window measured here. Weekends never really thin out, even early morning.
+- **Best time:** weekday evenings, 7–9pm, are consistently the quietest window in the forecast. Weekends never really thin out, even early morning.
 - **Tickets:** buy in advance online if the option is available, or arrive right at 8:30am on a weekday to beat the first tour groups.
 - **Pace yourself:** the domed main hall is where everyone clusters first. Skip ahead to the side galleries and loop back once the crowd thins.
 - **Combine it:** pair your visit with a walk up to Ankara Castle immediately after. The entrance is a two-minute walk and the views over old Ankara are worth the climb.

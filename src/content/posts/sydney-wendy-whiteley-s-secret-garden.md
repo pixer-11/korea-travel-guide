@@ -62,7 +62,7 @@ faq:
   - q: "How do I get to Wendy Whiteley's Secret Garden?"
     a: "Take a train to Milsons Point Station, then walk about 10 minutes west along the foreshore past Luna Park and up to Lavender Street, Lavender Bay. Ferries also stop at Milsons Point Wharf beside Luna Park."
   - q: "When is the quietest time to visit?"
-    a: "Avoid weekends between 9am and 6pm, which is the measured busiest period. Weekdays are generally calmer. On a weekend, come before 9am or after 6pm, with enough daylight left for the steep paths."
+    a: "Avoid weekends between 9am and 6pm, which is the busiest period in the forecast. Weekdays are generally calmer. On a weekend, come before 9am or after 6pm, with enough daylight left for the steep paths."
   - q: "Is the garden open at night?"
     a: "It's listed as open 24 hours every day, with no gate. The paths are steep, uneven and heavily shaded, though, so daylight is by far the safest and most rewarding time to go."
   - q: "How long should I spend there?"

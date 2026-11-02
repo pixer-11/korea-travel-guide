@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: annecy-parc-animalier-de-la-grande-jeanne
-srcHash: '6605fb00c517'
+srcHash: '03c222854b1e'
 title: 'Parc Animalier de la Grande Jeanne: guía de viaje de Annecy'
 description: 'El Parc Animalier de la Grande Jeanne se encuentra en las laderas bajas del Semnoz, unos 4 km por encima de Annecy; la entrada es gratuita, está abierto las 24 horas y no hay taquilla que retrase el acceso. 4,2★ (1.327 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Parc Animalier de la Grande Jeanne se encuentra en las laderas bajas del Semnoz, unos 4 km por encima de Annecy. La entrada es gratuita, el parque está abierto las 24 horas y no hay taquilla que ralentice el acceso. Los fines de semana, el momento más tranquilo es entre las 7:00 y las 9:00, mientras que la mayor afluencia se da entre las 11:00 y las 17:00, así que llegar temprano permite evitar las multitudes. Conviene llevar un picnic y calzado cómodo para los caminos de grava, y hay que tener en cuenta que los animales que se ven son especies alpinas salvajes, como marmotas e íbices, y no leones ni elefantes.
@@ -38,7 +38,7 @@ Al no haber personal ni verja de control como en una atracción de pago, tampoco
 
 ## Cuándo ir para disfrutar de los animales casi en solitario
 
-El parque registra su momento de menor afluencia las mañanas de fin de semana, entre las 7:00 y las 9:00, antes de que lleguen los excursionistas que suben desde Annecy.
+Según la previsión, el parque tiene su momento de menor afluencia las mañanas de fin de semana, entre las 7:00 y las 9:00, antes de que lleguen los excursionistas que suben desde Annecy.
 
 Los fines de semana, la afluencia aumenta de forma progresiva y alcanza su punto máximo entre las 11:00 y las 17:00, cuando familias y grupos de picnic ocupan las zonas de césped cercanas a los cercados. Si la visita es en sábado o domingo, llegar temprano cambia realmente la experiencia: los animales están más activos con el frescor de la mañana y no hay que compartir la valla con una docena de visitantes intentando fotografiar al mismo íbice.
 

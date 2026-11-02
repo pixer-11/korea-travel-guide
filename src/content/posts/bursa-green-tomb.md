@@ -120,7 +120,7 @@ If you're coming from central Bursa, a taxi or the T1 tram to the Yeşil stop dr
 
 ## When to go
 
-This is a very popular stop on the Bursa circuit, and it shows, tour groups cycle through steadily once the day gets going. The measured quiet windows are worth planning around.
+This is a very popular stop on the Bursa circuit, and it shows, tour groups cycle through steadily once the day gets going. The quiet windows in the forecast are worth planning around.
 
 - Weekdays: calmest from 8am to noon
 - Weekends: calmest from 8am to 11am

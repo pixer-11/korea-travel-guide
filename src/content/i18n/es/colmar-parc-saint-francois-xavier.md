@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: colmar-parc-saint-francois-xavier
-srcHash: '45671d7ab9dd'
+srcHash: '6b9ea493f342'
 title: 'Parc Saint François-Xavier: guía de viaje de Colmar (4,5★)'
 description: 'El Parc Saint François-Xavier es un tranquilo parque de barrio en la Rue de Rueil, a 15-20 minutos a pie al sur del casco antiguo de Colmar, abierto todos los días de 7:30 a 19:30. Valoración de 4,5★ (215 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Parc Saint François-Xavier es un tranquilo parque de barrio en la Rue de Rueil, a 15-20 minutos a pie al sur del casco antiguo de Colmar, abierto todos los días de 7:30 a 19:30. Es el tipo de espacio verde que frecuentan los vecinos y no los turistas con cámara en mano, así que conviene ir las mañanas de fin de semana, entre las 8:00 y el mediodía, para encontrar los caminos más despejados. Calcule entre 30 y 45 minutos de visita; la entrada es gratuita.
@@ -32,7 +32,7 @@ La Rue de Rueil se puede recorrer a pie desde el centro, aunque no está justo a
 
 El parque abre a las 7:30 y cierra a las 19:30 todos los días de la semana, por lo que no es posible organizar un pícnic nocturno después de una cena tardía.
 
-Se han estudiado los patrones de afluencia de fin de semana: las horas más tranquilas suelen darse por la mañana, tanto los sábados como los domingos. Las tardes, de 14:00 a 19:00, atraen más movimiento local, sobre todo familias, así que conviene aprovechar la franja matinal si se quiere disfrutar del césped en soledad.
+Hay una previsión de afluencia para el fin de semana: las horas más tranquilas suelen darse por la mañana, tanto los sábados como los domingos. Las tardes, de 14:00 a 19:00, atraen más movimiento local, sobre todo familias, así que conviene aprovechar la franja matinal si se quiere disfrutar del césped en soledad.
 
 ## Por qué tiene tan buena valoración
 

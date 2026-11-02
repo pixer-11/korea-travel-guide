@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: new-taipei-national-palace-museum
-srcHash: '48ea4b550093'
+srcHash: 'fc227324af9f'
 title: 'Museo del Palacio Nacional: Guía de viaje de Taipéi (4,6★)'
 description: 'El Museo del Palacio Nacional se encuentra en el distrito de Shilin, en Taipéi, y abre de martes a domingo de 9:00 a 17:00, cerrado los lunes. 4,6★ (62.894 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El Museo del Palacio Nacional se encuentra en el distrito de Shilin, en Taipéi, y abre de martes a domingo de 9:00 a 17:00, cerrado los lunes. Es un lugar realmente enorme y realmente concurrido: los fines de semana, entre las 10:00 y las 17:00, se forman las colas más largas, así que lo mejor es ir un día laborable a primera hora de la apertura. Conviene reservar al menos dos o tres horas, más si se quiere ver de cerca el famoso Repollo de Jade y la Piedra con Forma de Carne.'
@@ -45,7 +45,7 @@ Las multitudes se concentran sobre todo alrededor de las dos piezas «estrella»
 
 El museo cierra por completo los lunes, así que no conviene planear la visita ese día. El resto de la semana funciona de forma constante de 9:00 a 17:00.
 
-Los fines de semana, entre las 10:00 y las 17:00, se registra la mayor afluencia del museo: los grupos turísticos y las familias se acumulan en las salas principales, y la cola para ver el Repollo de Jade puede llegar a serpentear buena parte de la sala. Si es posible elegir un día laborable, es la mejor opción.
+Los fines de semana, entre las 10:00 y las 17:00, se prevé la mayor afluencia del museo: los grupos turísticos y las familias se acumulan en las salas principales, y la cola para ver el Repollo de Jade puede llegar a serpentear buena parte de la sala. Si es posible elegir un día laborable, es la mejor opción.
 
 Llegar cerca de la apertura, a las 9:00, cualquier día de la semana, ofrece una experiencia claramente distinta: pasillos más tranquilos, vistas despejadas hacia las vitrinas de cerámica y una espera más corta para ver las famosas tallas antes de que lleguen los autobuses turísticos.
 

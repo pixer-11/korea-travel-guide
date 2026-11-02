@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: seoul-sema-seoul-museum-of-art
-srcHash: 'c2e4b3b9171d'
+srcHash: 'b7597c3c3b01'
 title: 'SeMA - Museo de Arte de Seúl: Guía de Viaje (4.6★)'
 description: 'El SeMA, el Museo de Arte de Seúl, se encuentra en Deoksugung-gil, en el distrito de Jung, justo cuesta arriba del sendero junto al muro de piedra del Palacio Deoksugung. 4.6★ (2.204 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El SeMA, el Museo de Arte de Seúl, se encuentra en Deoksugung-gil, en el distrito de Jung, justo cuesta arriba del sendero junto al muro de piedra del Palacio Deoksugung. Cierra los lunes, abre hasta las 20:00 la mayoría de los días entre semana y hasta las 21:00 los viernes, y el momento más tranquilo es entre las 20:00 y las 21:00 en días de semana. Las tardes de fin de semana entre la 13:00 y las 17:00 concentran la mayor afluencia, así que conviene reservar una franja matinal en su lugar.
@@ -30,7 +30,7 @@ En la mayoría de los casos, el acceso al edificio permanente no tiene coste de 
 
 El SeMA cierra todos los lunes, algo que suele complicar los planes de muchos visitantes primerizos que organizan un itinerario entre semana. De martes a jueves funciona de 10:00 a 20:00, los viernes permanece abierto hasta las 21:00, y los fines de semana cierra antes, a las 19:00.
 
-Si se busca tener las salas casi en exclusiva, la franja más tranquila registrada es entre las 20:00 y las 21:00 en días de semana, justo antes del cierre. La afluencia de fin de semana crece de forma constante y alcanza su punto máximo entre la 13:00 y las 17:00, por lo que una mañana de sábado o domingo, justo a la apertura de las 10:00, es mejor opción que una visita improvisada por la tarde.
+Si se busca tener las salas casi en exclusiva, la franja más tranquila según la previsión es entre las 20:00 y las 21:00 en días de semana, justo antes del cierre. La afluencia de fin de semana crece de forma constante y alcanza su punto máximo entre la 13:00 y las 17:00, por lo que una mañana de sábado o domingo, justo a la apertura de las 10:00, es mejor opción que una visita improvisada por la tarde.
 
 ## Qué hay dentro
 

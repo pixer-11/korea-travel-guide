@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: takamatsu-honetsukidori-ikkaku-takamatsu
-srcHash: '99f3e46b96c3'
+srcHash: 'c4de92af48a1'
 title: 'Honetsukidori Ikkaku: dónde comer en Takamatsu (4.1★)'
 description: Honetsukidori Ikkaku Takamatsu se encuentra en 4-11 Kajiyamachi, en el centro de Takamatsu y a pocos pasos de las estaciones Kawaramachi y Kataharamachi de Kotoden. Con 4.1★ (4,033 reseñas), le contamos qué opinan los visitantes, su horario y algunos consejos.
 quickAnswer: En el centro de Takamatsu, a pocos pasos de las estaciones Kawaramachi y Kataharamachi de Kotoden, se encuentra Honetsukidori Ikkaku Takamatsu (4-11 Kajiyamachi). Su especialidad es el honetsukidori de Kagawa, un muslo entero de pollo asado con hueso, y el cliente elige entre el oyadori, de carne firme y correosa, y el tierno hinadori. Entre semana abre a las 5pm y los martes cierra. Como los fines de semana la mayor afluencia se concentra entre la 1pm y las 10pm, lo mejor es llegar el sábado o el domingo a las 11am, en cuanto abre.

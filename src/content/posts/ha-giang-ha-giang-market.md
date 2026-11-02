@@ -105,7 +105,7 @@ The hours are long but uneven, so check the day before you go:
 
 Monday is the one that catches people out. If you arrive on the afternoon bus from Hanoi on a Monday, the market will already be closed.
 
-For space to look around, go between 1pm and 2pm, Tuesday to Friday. That's the quietest measured window on weekdays, when the morning shopping is finished and nobody has started buying for dinner yet. Avoid weekends if you can: the aisles stay busy from 8am right through to the 7pm close.
+For space to look around, go between 1pm and 2pm, Tuesday to Friday. That's the quietest weekday window in the forecast, when the morning shopping is finished and nobody has started buying for dinner yet. Avoid weekends if you can: the aisles stay busy from 8am right through to the 7pm close.
 
 For the fullest spread of fresh produce and meat, the early hours after the 5am opening are the obvious choice. Vietnamese markets do most of their fresh trade before breakfast. You'll share the aisles with serious shoppers, not browsers.
 

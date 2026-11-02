@@ -65,7 +65,7 @@ faq:
   - q: "What are the opening hours?"
     a: "Kowloon Park is open daily from 5:00 AM to midnight, every day of the week including weekends."
   - q: "When is the quietest time to visit?"
-    a: "On weekdays, 10pm to 11pm is the calmest stretch measured. On weekends, mornings from around 7am before 11am are noticeably lighter than midday."
+    a: "On weekdays, 10pm to 11pm is the calmest stretch in the forecast. On weekends, mornings from around 7am before 11am are noticeably lighter than midday."
   - q: "How long should I plan to spend there?"
     a: "Most visitors spend 45 minutes to 90 minutes covering the aviary, sculpture walk, and flamingo pond, longer if you swim or catch the Sunday Kung Fu Corner performances."
   - q: "What's nearby if I want to combine the visit?"
@@ -104,7 +104,7 @@ Outside those performance windows, this same open plaza is where locals run tai 
 
 Kowloon Park is busiest on weekends between 10am and 7pm, when families, day-trippers, and tour groups heading to or from Nathan Road's shops all overlap in the same paths. If you'd rather have the aviary and sculpture walk mostly to yourself, aim for right after the 5am opening or the late-evening hours before midnight.
 
-On weekdays, the calmest stretch measured is 10pm to 11pm, useful if you're staying in a Tsim Sha Tsui hotel and want a quiet walk after dinner. Weekend mornings before 11am also run noticeably lighter than the midday peak.
+On weekdays, the calmest stretch in the forecast is 10pm to 11pm, useful if you're staying in a Tsim Sha Tsui hotel and want a quiet walk after dinner. Weekend mornings before 11am also run noticeably lighter than the midday peak.
 
 - Weekday quiet window: 10pm–11pm
 - Weekend quiet window: roughly 7am to before 11am

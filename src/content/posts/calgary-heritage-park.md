@@ -62,7 +62,7 @@ quickAnswer: >-
 faq:
   - q: When is the quietest time to visit Heritage Park?
     a: >-
-      We only have measured crowd data for weekends, and it shows them busiest
+      We only have a crowd forecast for weekends, and it shows them busiest
       from 10am–5pm. A weekday visit is the best way to avoid that. On a
       weekend, book tickets online and start at the far end of the grounds.
   - q: How do I get to Heritage Park without a car?

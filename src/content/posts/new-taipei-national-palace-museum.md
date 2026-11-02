@@ -80,7 +80,7 @@ faq:
       minutes.
   - q: When is the National Palace Museum least crowded?
     a: >-
-      Weekends from 10am to 5pm are its busiest measured window, so a weekday
+      Weekends from 10am to 5pm are its busiest window in the forecast, so a weekday
       morning right at 9am opening is your best bet for shorter lines.
   - q: How long should I plan for a visit?
     a: >-
@@ -123,7 +123,7 @@ The crowds cluster hardest around the two "celebrity" objects on the third floor
 
 The museum closes Mondays entirely, so don't plan around that day. Every other day it runs a steady 9am to 5pm.
 
-Weekends between 10am and 5pm are the museum's busiest measured stretch, tour groups and families stack up through the main galleries and the queue for the Jadeite Cabbage can wind well back into the room. If a weekday is on the table, take it.
+Weekends between 10am and 5pm are the museum's busiest stretch in the forecast, tour groups and families stack up through the main galleries and the queue for the Jadeite Cabbage can wind well back into the room. If a weekday is on the table, take it.
 
 Arriving close to the 9am opening, on any day, buys you a genuinely different experience: quieter corridors, unobstructed sightlines to the ceramics cases, and a shorter wait for the famous carvings before tour buses arrive.
 

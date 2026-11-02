@@ -1,13 +1,13 @@
 ---
 lang: es
 slug: cairns-cairns-botanic-gardens
-srcHash: 'fc06cf8ba5c3'
+srcHash: '6139c87232fb'
 title: 'Jardín Botánico de Cairns: guía de viaje (4.7★)'
 description: 'El Jardín Botánico de Cairns se encuentra en 78-96 Collins Ave, en el barrio de Edge Hill, a unos 4km al norte del centro de Cairns, y abre todos los días de 7:30am a 5:30pm. 4.7★ (5,513 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Jardín Botánico de Cairns se encuentra en 78-96 Collins Ave, en el barrio de Edge Hill, a unos 4km al norte del centro de Cairns, y abre todos los días de 7:30am a 5:30pm. Conviene reservar entre dos y tres horas para recorrer el Flecker Garden, la pasarela hasta los Centenary Lakes y, si se anima, el sendero Red Arrow. Los fines de semana, la mayor afluencia se concentra entre las 8am y las 2pm, así que lo mejor es ir un sábado o domingo por la tarde, o bien entre semana.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Jardín Botánico de Cairns?
-    a: 'El único pico de visitantes registrado se da los fines de semana entre las 8am y las 2pm, de modo que conviene evitar esa franja. Si va en sábado o domingo, llegue después de las 2pm: aun así dispondrá de más de tres horas antes del cierre, a las 5:30pm. Entre semana, en cambio, se libra por completo de las aglomeraciones.'
+    a: 'El único pico de visitantes previsto se da los fines de semana entre las 8am y las 2pm, de modo que conviene evitar esa franja. Si va en sábado o domingo, llegue después de las 2pm: aun así dispondrá de más de tres horas antes del cierre, a las 5:30pm. Entre semana, en cambio, se libra por completo de las aglomeraciones.'
   - q: ¿Cuál es el horario de apertura?
     a: Abre todos los días de la semana de 7:30am a 5:30pm, y el horario de los fines de semana es el mismo.
   - q: ¿Cuánto tiempo conviene dedicarle?

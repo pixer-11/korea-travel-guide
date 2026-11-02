@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: puerto-iguazu-plaza-san-martin
-srcHash: '5793e759d72a'
+srcHash: '470d56faaaf8'
 title: 'Plaza San Martín: guía de viaje de Puerto Iguazú (4.3★)'
 description: 'Situada sobre la avenida Victoria Aguirre, la arteria principal del centro de Puerto Iguazú, la Plaza San Martín figura actualmente en Google como abierta las 24 horas. 4.3★ (3,734 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: La Plaza San Martín se encuentra sobre la avenida Victoria Aguirre, la vía principal del centro de Puerto Iguazú, y Google la indica actualmente como abierta las 24 horas. No es un atractivo en sí mismo, sino una plaza pública con bancos y sombra. Conviene aprovecharla para hacer una pausa de 20–40 minutos entre la terminal de ómnibus, los restaurantes del pueblo y la caminata hasta el Hito Tres Fronteras. Los mejores momentos para ir son el final de la tarde y el comienzo de la noche, cuando ya ha bajado el calor subtropical.
@@ -38,7 +38,7 @@ Fíjese en el suelo de los senderos y los bordes del césped. Misiones es famosa
 
 Puerto Iguazú vive al ritmo del clima subtropical. En verano, las tardes son calurosas y muy húmedas. Muchos pequeños comercios de Misiones cierran durante una larga pausa al mediodía y vuelven a abrir al final de la tarde, lo que cambia por completo el ambiente de las calles que rodean la plaza.
 
-A primera hora de la tarde la avenida se aquieta, y la sombra pasa a ser el principal motivo para sentarse en la plaza. La actividad se reanuda cuando reabren los negocios y el calor empieza a ceder hacia la noche. Ese es el mejor momento de la plaza: los bancos están más frescos, el centro se va llenando y la cena queda a pocos pasos. Se trata del ritmo general del pueblo y no de una medición de la afluencia, así que tómelo solo como orientación.
+A primera hora de la tarde la avenida se aquieta, y la sombra pasa a ser el principal motivo para sentarse en la plaza. La actividad se reanuda cuando reabren los negocios y el calor empieza a ceder hacia la noche. Ese es el mejor momento de la plaza: los bancos están más frescos, el centro se va llenando y la cena queda a pocos pasos. Se trata del ritmo general del pueblo y no de una previsión de afluencia, así que tómelo solo como orientación.
 
 ## Compartir banco, mate y pesos
 

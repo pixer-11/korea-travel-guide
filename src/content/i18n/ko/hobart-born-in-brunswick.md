@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: hobart-born-in-brunswick
-srcHash: 'e593316f4bc9'
+srcHash: 'a0e132ef8548'
 title: '본 인 브런즈윅: 호바트 여행 가이드 (4.5★)'
 description: 본 인 브런즈윅(Born In Brunswick)은 410 Elizabeth St, North Hobart에 있는 브런치 레스토랑입니다. 가격대는 중간 수준이고 평이 좋으며, 매일 오전 8시부터 오후 2시까지 영업합니다.
 quickAnswer: 본 인 브런즈윅(Born In Brunswick)은 410 Elizabeth St, North Hobart에 있는 브런치 레스토랑입니다. 가격대는 중간 수준이고 평이 좋으며, 요일에 상관없이 매일 오전 8시부터 오후 2시까지 문을 엽니다. 평일에는 오후 1시에서 2시 사이가 가장 한산합니다. 주말에는 손님이 가장 몰리는 오전 10시부터 12시까지는 피하는 것이 좋습니다.

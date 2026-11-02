@@ -65,7 +65,7 @@ faq:
       number called out. There's no phone booking for standard tables.
   - q: When is the quietest time to visit?
     a: >-
-      Weekdays between 8pm and 9pm, just before closing, is the measured quiet
+      Weekdays between 8pm and 9pm, just before closing, is the forecast quiet
       window. Weekend crowds stay fairly steady all day.
   - q: What time should I avoid on weekends?
     a: >-
@@ -121,7 +121,7 @@ Dip dumplings lightly in the black vinegar and ginger provided rather than soy s
 
 Hours run 11am to 9pm most days, stretching to 9:15pm on Friday and Saturday. This is not a place with a dead hour. Weekends stay busy from opening until close.
 
-The measured quiet spot is 8pm to 9pm on weekdays, right before the kitchen winds down. Weekends are steadier throughout, but avoid noon to 7pm on Saturday and Sunday, when queues stretch past the host stand and mall traffic peaks around it.
+The quiet spot in the forecast is 8pm to 9pm on weekdays, right before the kitchen winds down. Weekends are steadier throughout, but avoid noon to 7pm on Saturday and Sunday, when queues stretch past the host stand and mall traffic peaks around it.
 
 If you can only come at lunch, arrive right at 11am. You'll beat the first wave of shoppers and office workers by minutes, not hours.
 

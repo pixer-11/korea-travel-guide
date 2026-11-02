@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: banff-buffalo-nations-museum
-srcHash: 'fbc1721b1699'
+srcHash: '801eab3c19b9'
 title: 'Museo Buffalo Nations: guía de viaje de Banff (4.4★)'
 description: El Museo Buffalo Nations se encuentra en 1 Birch Ave, en Banff, justo al otro lado del puente del río Bow desde el extremo sur de Banff Avenue. Con 4.4★ (622 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
 quickAnswer: En 1 Birch Ave, en Banff, nada más cruzar el puente del río Bow desde el extremo sur de Banff Avenue, se alza el Museo Buffalo Nations. Este edificio de troncos con aspecto de fuerte reúne objetos de los pueblos de las Llanuras y de los stoney nakoda, y la mayoría de los visitantes lo recorre en una hora aproximadamente. Los fines de semana hay mucha gente durante todo el horario de apertura, de 11am a 5pm, por lo que conviene ir entre semana.
@@ -9,7 +9,7 @@ faq:
   - q: ¿Dónde está el Museo Buffalo Nations en Banff?
     a: La dirección es 1 Birch Ave, nada más cruzar el puente del río Bow desde el extremo sur de Banff Avenue. Desde el centro se llega a pie en unos cinco minutos.
   - q: ¿Cuál es el momento más tranquilo para visitarlo?
-    a: Durante el fin de semana hay mucha gente en todo el horario de apertura, de 11am a 5pm, así que lo mejor es ir entre semana. No se ha registrado ninguna franja tranquila en sábado o domingo.
+    a: Durante el fin de semana hay mucha gente en todo el horario de apertura, de 11am a 5pm, así que lo mejor es ir entre semana. La previsión no muestra ninguna franja tranquila en sábado o domingo.
   - q: ¿Cuál es el horario de apertura?
     a: Ahora mismo abre todos los días de 11am a 5pm. Como el horario varía según la temporada, compruébelo en la web oficial antes de ir.
   - q: ¿Cuánto tiempo debo dedicarle?

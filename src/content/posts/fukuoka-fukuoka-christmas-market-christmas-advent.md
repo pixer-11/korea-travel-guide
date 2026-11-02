@@ -91,7 +91,7 @@ Most people here pay for the subway by card. A Suica, PASMO or Fukuoka's own Hay
 
 Queues at stalls form in a single orderly line, usually marked on the ground or by staff. Visitors who join the end and keep the walkway clear blend in. Eating while walking through crowded paths is frowned upon, which is why the standing tables fill up.
 
-On timing, it's a matter of reasoning, not measurement. Weekday evenings after office hours and weekends bring the most people, since Tenjin is a commuter hub. An earlier visit, while it's still light, gives you shorter stall lines. Coming after dark gives you the illuminations at full effect, so many people arrive at dusk and get both.
+On timing, it's a matter of reasoning, not a crowd forecast. Weekday evenings after office hours and weekends bring the most people, since Tenjin is a commuter hub. An earlier visit, while it's still light, gives you shorter stall lines. Coming after dark gives you the illuminations at full effect, so many people arrive at dusk and get both.
 
 Rubbish bins are scarce in Japanese cities. Stalls often take back their own cups and plates, and visitors who carry a small bag for the rest won't be left holding empty cups.
 

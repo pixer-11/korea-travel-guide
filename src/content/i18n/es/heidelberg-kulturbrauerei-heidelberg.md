@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: heidelberg-kulturbrauerei-heidelberg
-srcHash: 'daa82cdf40a7'
+srcHash: '7b20b13265c8'
 title: 'Kulturbrauerei: dónde comer en Heidelberg (4.2★)'
 description: 'En la Leyergasse, en pleno casco antiguo (Altstadt) de Heidelberg y a pocos minutos a pie del Puente Viejo (Alte Brücke), la Kulturbrauerei Heidelberg reúne hotel, cervecería propia, restaurante y taberna con jardín cervecero. 4.2★ (3,054 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En la Leyergasse, en el casco antiguo (Altstadt) de Heidelberg y a pocos minutos a pie del Puente Viejo (Alte Brücke), la Kulturbrauerei Heidelberg combina hotel, cervecería propia, restaurante y taberna con jardín cervecero. Abre todos los días a mediodía y cierra a las 11pm, salvo los domingos, cuando el cierre se adelanta a las 9pm. Los fines de semana se llena de 1pm a 11pm; la franja más tranquila es la de 9pm a 11pm, lo que en la práctica se reduce a la noche del sábado.

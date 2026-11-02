@@ -64,7 +64,7 @@ A few habits will make the visit easier:
 
 ## Picking your moment
 
-There is no measured crowd data for this branch yet. What we do know is that new openings in Jakarta's café districts draw their biggest crowds at weekends, when people come to try the newest thing. A weekday visit is the safer bet if you'd rather not wait.
+There is no crowd forecast for this branch yet. What we do know is that new openings in Jakarta's café districts draw their biggest crowds at weekends, when people come to try the newest thing. A weekday visit is the safer bet if you'd rather not wait.
 
 Jakarta's traffic matters as much as the queue. Weekday rush hours make crosstown trips slow, so a mid-afternoon visit usually means an easier ride both ways. From roughly November to March, heavy afternoon downpours are common. Leave yourself extra time, because ride-hailing demand jumps the moment the rain starts.
 

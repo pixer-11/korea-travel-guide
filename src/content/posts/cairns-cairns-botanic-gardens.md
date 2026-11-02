@@ -54,7 +54,7 @@ tags:
 quickAnswer: "Cairns Botanic Gardens is in the suburb of Edge Hill, about 4km north of the Cairns city centre at 78-96 Collins Ave, and it's open daily from 7:30am to 5:30pm. Give it two to three hours to cover Flecker Garden, the boardwalk to Centenary Lakes and possibly the Red Arrow track. Weekends are busiest between 8am and 2pm, so go on a weekend afternoon or a weekday."
 faq:
   - q: "When is the quietest time to visit Cairns Botanic Gardens?"
-    a: "The only measured peak is on weekends, from 8am to 2pm, so avoid that window. On a Saturday or Sunday, arrive after 2pm and you'll still have more than three hours before the 5:30pm close. Weekday visits avoid the weekend crowds altogether."
+    a: "The only peak in the forecast is on weekends, from 8am to 2pm, so avoid that window. On a Saturday or Sunday, arrive after 2pm and you'll still have more than three hours before the 5:30pm close. Weekday visits avoid the weekend crowds altogether."
   - q: "What are the opening hours?"
     a: "It's open 7:30am to 5:30pm every day of the week, with the same hours on weekends."
   - q: "How long should I spend there?"

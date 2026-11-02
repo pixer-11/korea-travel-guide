@@ -1,13 +1,13 @@
 ---
 lang: es
 slug: berlin-markthalle-neun
-srcHash: '93f4d904f3c4'
+srcHash: '3c9b909b7506'
 title: 'Markthalle Neun: guía de viaje de Berlín (4.4★)'
 description: En plena Eisenbahnstraße, en el barrio berlinés de Kreuzberg y a cinco minutos a pie de Görlitzer Bahnhof (U1/U3), se alza la Markthalle Neun, un mercado cubierto de ladrillo del siglo XIX lleno de puestos de comida, productores y largas mesas compartidas. Con una valoración de 4.4★ (20,428 reseñas), le contamos qué opinan los visitantes, cuáles son sus horarios y algunos consejos.
 quickAnswer: En plena Eisenbahnstraße, en el barrio berlinés de Kreuzberg y a cinco minutos a pie de Görlitzer Bahnhof (U1/U3), se encuentra la Markthalle Neun, un mercado cubierto de ladrillo del siglo XIX que reúne puestos de comida, productores y largas mesas compartidas. Entre semana el ambiente es tranquilo; los sábados, en cambio, la mayor afluencia se concentra de 11am a 7pm. Abre de lunes a sábado de 9am a 8pm, aunque los jueves alarga el horario hasta las 10pm para recibir al público de la sesión nocturna de comida callejera. Los domingos permanece cerrado.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar la Markthalle Neun?
-    a: Los días laborables son los más sosegados de la semana, y la franja más tranquila registrada va de 9am a 9pm, de modo que cualquier hora de apertura entre lunes y viernes resulta adecuada. Conviene evitar el sábado entre las 11am y las 7pm, cuando se alcanza el pico de afluencia.
+    a: Los días laborables son los más sosegados de la semana, y la franja más tranquila prevista va de 9am a 9pm, de modo que cualquier hora de apertura entre lunes y viernes resulta adecuada. Conviene evitar el sábado entre las 11am y las 7pm, cuando se alcanza el pico de afluencia.
   - q: ¿Abre la Markthalle Neun los domingos?
     a: No, los domingos está cerrada. De lunes a sábado abre de 9am a 8pm, y los jueves hasta las 10pm.
   - q: ¿Cuál es la estación de U-Bahn más cercana?
@@ -42,7 +42,7 @@ No merece la pena ir en coche. Aparcar en las calles del barrio es complicado y 
 
 El horario es sencillo: de lunes a sábado de 9am a 8pm, salvo los jueves, que se prolonga hasta las 10pm. **Los domingos permanece cerrado**, algo que pilla desprevenidos a muchos visitantes de fin de semana.
 
-Según los datos de afluencia, entre semana la franja más tranquila va de 9am a 9pm. En la práctica, cualquier hora de apertura de lunes a viernes resulta cómoda. El inconveniente es el sábado. Procure no llegar entre las 11am y las 7pm, cuando los pasillos se abarrotan y encontrar mesa se vuelve difícil. Si solo dispone del sábado, acuda a las 9am, a la hora de apertura, para tomar un café y comprar pan, o bien acérquese durante la última hora.
+Según la previsión de afluencia, entre semana la franja más tranquila va de 9am a 9pm. En la práctica, cualquier hora de apertura de lunes a viernes resulta cómoda. El inconveniente es el sábado. Procure no llegar entre las 11am y las 7pm, cuando los pasillos se abarrotan y encontrar mesa se vuelve difícil. Si solo dispone del sábado, acuda a las 9am, a la hora de apertura, para tomar un café y comprar pan, o bien acérquese durante la última hora.
 
 El jueves merece mención aparte. La apertura prolongada gira en torno a la sesión nocturna de comida callejera que dio fama al mercado. Durante el día reina la calma, pero la noche es animada por definición. Consulte la web oficial para saber qué se ofrece esa semana.
 

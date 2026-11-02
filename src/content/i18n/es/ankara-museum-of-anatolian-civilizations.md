@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: ankara-museum-of-anatolian-civilizations
-srcHash: '69997ec0a0d8'
+srcHash: 'cafd26921263'
 title: 'Museo de las Civilizaciones de Anatolia: guía de viaje de Ankara'
 description: 'El Museo de las Civilizaciones de Anatolia, instalado en un bazar otomano del siglo XV restaurado en el barrio de Ulus/Kale de Ankara, reúne una de las mejores colecciones del mundo de piezas hititas, frigias y neolíticas. 4,8★ (17.595 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Museo de las Civilizaciones de Anatolia ocupa un bazar otomano del siglo XV restaurado en el barrio de Ulus/Kale de Ankara y reúne una de las mejores colecciones del mundo de piezas hititas, frigias y neolíticas. Conviene reservarle entre dos y tres horas. Abre a diario de 8:30 a 21:00 (con una breve pausa de 18:45 a 19:00), y el momento más tranquilo para visitarlo es un día de semana por la tarde, entre las 19:00 y las 21:00; los fines de semana se mantiene concurrido desde la apertura hasta el cierre, con el punto más álgido entre el mediodía y las 18:00.
@@ -9,7 +9,7 @@ faq:
   - q: ¿Cuánto tiempo conviene dedicarle al Museo de las Civilizaciones de Anatolia?
     a: Conviene reservar entre dos y tres horas para ver bien la colección, y más tiempo aún si se quiere leer con calma los carteles explicativos de cada sala.
   - q: ¿Cuál es el momento más tranquilo para la visita?
-    a: Las tardes de los días de semana, entre las 19:00 y las 21:00, son el intervalo más tranquilo registrado. Los fines de semana el museo se mantiene concurrido prácticamente todo el día, y la mayor afluencia se da entre el mediodía y las 18:00.
+    a: Las tardes de los días de semana, entre las 19:00 y las 21:00, son el intervalo más tranquilo según la previsión. Los fines de semana el museo se mantiene concurrido prácticamente todo el día, y la mayor afluencia se da entre el mediodía y las 18:00.
   - q: ¿Cómo se llega al museo desde el centro de Ankara?
     a: Se puede tomar el metro hasta la estación de Ulus y subir caminando unos 10-15 minutos en dirección al Castillo de Ankara, o bien ir directamente en taxi hasta la calle Gözcü Sokak, en el barrio de Kale.
   - q: ¿Cuál es el horario de apertura?
@@ -62,7 +62,7 @@ En transporte público, se puede tomar la línea de metro Ankaray o M1/M2 hasta 
 
 Este museo forma parte por completo del circuito turístico: no es un hallazgo oculto, así que conviene planear la visita en función de las multitudes en lugar de esperar evitarlas del todo.
 
-- **Mejor momento:** las tardes de los días de semana, entre las 19:00 y las 21:00, son sistemáticamente el intervalo más tranquilo registrado. Los fines de semana apenas se vacía, ni siquiera a primera hora de la mañana.
+- **Mejor momento:** las tardes de los días de semana, entre las 19:00 y las 21:00, son sistemáticamente el intervalo más tranquilo según la previsión. Los fines de semana apenas se vacía, ni siquiera a primera hora de la mañana.
 - **Entradas:** conviene comprarlas por internet con antelación si existe esa opción, o bien llegar justo a las 8:30 un día de semana para adelantarse a los primeros grupos.
 - **Marque su propio ritmo:** la sala principal abovedada es donde todos se agolpan primero; conviene adelantarse hacia las galerías laterales y volver después, cuando la multitud haya disminuido.
 - **Combínelo con otra visita:** lo ideal es subir al Castillo de Ankara justo después; la entrada queda a dos minutos a pie y las vistas sobre la Ankara antigua compensan la subida.

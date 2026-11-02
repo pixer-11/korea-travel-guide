@@ -54,7 +54,7 @@ faq:
   - q: How long should I spend at the museum?
     a: Most visitors are comfortably done in an hour to ninety minutes, since it's a compact, focused museum rather than a sprawling one.
   - q: When is the quietest time to visit?
-    a: On weekends, 9am to 5pm is the calmer window based on measured visitor patterns. Try to avoid 3pm to 5pm on Saturday and Sunday, when it gets busiest.
+    a: On weekends, 9am to 5pm is the calmer window based on typical visitor patterns. Try to avoid 3pm to 5pm on Saturday and Sunday, when it gets busiest.
   - q: Is it open every day?
     a: Yes, it's open daily from 9am to 6pm, including weekends, with no separate closing day to plan around.
   - q: What's nearby if I want to combine this with other sights?
@@ -94,7 +94,7 @@ Labels are in English and Filipino, and the pacing feels more like a well-organi
 
 The museum is open daily from 9am to 6pm, so there's no early-closing day to plan around here, a rarity worth appreciating.
 
-If you're visiting on a weekend, aim for the 9am–10am or 1pm–3pm windows, which typical foot traffic shows are the calmer stretches. Try to avoid rolling in between 3pm and 5pm on Saturday or Sunday, when visitor numbers climb toward the day's peak.
+If you're visiting on a weekend, aim for the 9am–10am or 1pm–3pm windows, which the foot-traffic forecast shows are the calmer stretches. Try to avoid rolling in between 3pm and 5pm on Saturday or Sunday, when visitor numbers climb toward the day's peak.
 
 Weekday mornings tend to be a safe, unhurried bet if your itinerary allows it.
 

@@ -112,7 +112,7 @@ Keep your voice down near the attendants and don't touch the costumes. Many are 
 
 Currently the museum opens 9am–6pm Tuesday to Sunday and is closed on Mondays. Make sure Monday isn't your only free day in the city. Museum hours can shift with the season and over public holidays, so check the official listing before you go.
 
-Weekends are the easy choice. Measured visitor traffic shows Saturday and Sunday are quiet across the full 9am–6pm window. Arriving at 9am still gives you the costume galleries with the most room. Leave at least two hours before the 6pm close so you don't rush the 20th-century rooms.
+Weekends are the easy choice. The visitor-traffic forecast shows Saturday and Sunday are quiet across the full 9am–6pm window. Arriving at 9am still gives you the costume galleries with the most room. Leave at least two hours before the 6pm close so you don't rush the 20th-century rooms.
 
 ## Around Sükhbaatar Square
 

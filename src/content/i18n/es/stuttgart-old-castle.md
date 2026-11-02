@@ -1,13 +1,13 @@
 ---
 lang: es
 slug: stuttgart-old-castle
-srcHash: '853d4f660ee8'
+srcHash: 'e4ccd76fa739'
 title: 'Castillo Viejo: guía de viaje de Stuttgart (4.7★)'
 description: En plena Schillerplatz, en el corazón de Stuttgart, se alza el Castillo Viejo (Altes Schloss), que alberga parte del Museo Estatal de Wurtemberg y queda a pocos minutos a pie de las paradas de Stadtbahn de Charlottenplatz y Schlossplatz. Con una valoración de 4.7★ (2,064 reseñas), aquí encontrará las opiniones de los visitantes, el horario y algunos consejos.
 quickAnswer: En plena Schillerplatz, en el corazón de Stuttgart, se alza el Castillo Viejo (Altes Schloss), que alberga parte del Museo Estatal de Wurtemberg y queda a pocos minutos a pie de las paradas de Stadtbahn de Charlottenplatz y Schlossplatz. Abre de martes a domingo, de 11am a 5pm, y cierra los lunes. Como los fines de semana hay mucha afluencia durante todo el horario de 11am–5pm, conviene ir entre semana siempre que sea posible.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Castillo Viejo?
-    a: Según los datos registrados, los fines de semana hay mucha afluencia durante todo el horario de apertura, de 11am a 5pm. Como no se señala ninguna hora especialmente tranquila, lo más recomendable es ir entre semana, de martes a viernes.
+    a: Según la previsión, los fines de semana hay mucha afluencia durante todo el horario de apertura, de 11am a 5pm. Como no se señala ninguna hora especialmente tranquila, lo más recomendable es ir entre semana, de martes a viernes.
   - q: ¿Qué horario tiene el Castillo Viejo?
     a: Abre de martes a domingo, de 11am a 5pm. Los lunes permanece cerrado.
   - q: ¿Cómo se llega al Castillo Viejo en transporte público?

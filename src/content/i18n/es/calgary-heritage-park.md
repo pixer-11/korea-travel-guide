@@ -1,13 +1,13 @@
 ---
 lang: es
 slug: calgary-heritage-park
-srcHash: 'de25445f6048'
+srcHash: 'f144fcee8c72'
 title: 'Heritage Park: guía de viaje de Calgary (4.7★)'
 description: 'En el suroeste de Calgary, a orillas del embalse Glenmore, Heritage Park recrea una aldea histórica viva con tren de vapor, barco de rueda de popa, atracciones de feria antiguas y guías caracterizados de época. 4.7★ (8,658 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En el suroeste de Calgary, a orillas del embalse Glenmore, Heritage Park recrea una aldea histórica viva con tren de vapor, barco de rueda de popa, atracciones de feria antiguas y guías caracterizados de época. Conviene dedicarle como mínimo media jornada. Los fines de semana, la mayor afluencia se concentra de 10am–5pm, así que es preferible ir entre semana si es posible. Antes de salir, consulte en el sitio oficial los horarios de la temporada en curso.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar Heritage Park?
-    a: Solo disponemos de datos medidos de afluencia para los fines de semana, y según ellos la mayor concentración de público se da de 10am–5pm. La mejor manera de evitarla es ir entre semana. Si va en fin de semana, compre las entradas por internet y comience la visita por el extremo más alejado del recinto.
+    a: Solo disponemos de previsiones de afluencia para los fines de semana, y según ellas la mayor concentración de público se da de 10am–5pm. La mejor manera de evitarla es ir entre semana. Si va en fin de semana, compre las entradas por internet y comience la visita por el extremo más alejado del recinto.
   - q: ¿Cómo se llega a Heritage Park sin coche?
     a: Tome la Línea Roja del CTrain hasta la estación Heritage. Durante la temporada, un autobús de Calgary Transit une la estación con la entrada del parque. Como el trayecto a pie es largo, compruebe el recorrido vigente antes de salir.
   - q: ¿Cuánto tiempo conviene dedicar a Heritage Park?

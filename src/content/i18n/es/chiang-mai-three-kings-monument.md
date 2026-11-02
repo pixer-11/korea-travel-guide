@@ -1,13 +1,13 @@
 ---
 lang: es
 slug: chiang-mai-three-kings-monument
-srcHash: '4fa744e3f4ca'
+srcHash: 'a703f66b998a'
 title: 'Monumento de los Tres Reyes: guía de viaje de Chiang Mai (4.3★)'
 description: 'El Monumento de los Tres Reyes se alza en la calle Prapokklao, en el centro del Casco Antiguo de Chiang Mai, frente al Centro de Artes y Cultura de Chiang Mai. 4.3★ (9.053 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Monumento de los Tres Reyes se alza en la calle Prapokklao, en el centro del Casco Antiguo de Chiang Mai, frente al Centro de Artes y Cultura de Chiang Mai. La entrada es gratuita, permanece abierto las 24 horas y la visita dura unos 15 minutos, o una hora si se añade el museo que hay detrás. Los fines de semana de 15:00 a 23:00 h son el momento de mayor afluencia, así que conviene ir entre semana o un fin de semana por la mañana.
 faq:
   - q: ¿Cuál es el mejor momento para visitar el Monumento de los Tres Reyes sin aglomeraciones?
-    a: 'El único dato medido es el de mayor afluencia: los fines de semana de 15:00 a 23:00 h. Para evitarlo, conviene ir entre semana o un fin de semana por la mañana.'
+    a: 'La previsión solo señala el momento de mayor afluencia: los fines de semana de 15:00 a 23:00 h. Para evitarlo, conviene ir entre semana o un fin de semana por la mañana.'
   - q: ¿Está abierto el Monumento de los Tres Reyes por la noche?
     a: Sí. La explanada permanece abierta las 24 horas todos los días, y las estatuas se iluminan con focos al anochecer. Los museos cercanos tienen sus propios horarios, así que conviene consultarlos antes de ir.
   - q: ¿Cuánto tiempo conviene dedicarle?

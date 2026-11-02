@@ -60,7 +60,7 @@ tags:
 quickAnswer: "Honetsukidori Ikkaku Takamatsu is at 4-11 Kajiyamachi, a short walk from the Kotoden Kawaramachi and Kataharamachi stations in central Takamatsu. It serves Kagawa's honetsukidori, a whole roasted bone-in chicken leg, and you choose between the chewy oyadori and the tender hinadori. It opens at 5pm on weekdays, is closed Tuesdays, and is busiest from 1pm to 10pm on weekends, so on Saturday or Sunday arrive at the 11am opening."
 faq:
   - q: "When is the quietest time to visit Honetsukidori Ikkaku Takamatsu?"
-    a: "There's no measured quiet window. The busiest period is 1pm–10pm on Saturday and Sunday, so avoid that if you can. On weekends, arrive at the 11am opening. On weekdays, arrive close to the 5pm opening."
+    a: "The forecast shows no quiet window. The busiest period is 1pm–10pm on Saturday and Sunday, so avoid that if you can. On weekends, arrive at the 11am opening. On weekdays, arrive close to the 5pm opening."
   - q: "Is it open for lunch?"
     a: "Only on weekends, when it's open 11am–11pm. Monday and Wednesday to Friday it serves dinner only, 5pm–11pm. It is closed on Tuesdays."
   - q: "Should I order oyadori or hinadori?"

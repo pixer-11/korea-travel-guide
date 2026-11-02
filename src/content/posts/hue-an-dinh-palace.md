@@ -63,8 +63,8 @@ quickAnswer: >-
 faq:
   - q: When is the quietest time to visit An Dinh Palace?
     a: >-
-      Our crowd data only measures the busiest time: weekends from 8am to 11am.
-      It has no measured quiet window. To avoid the peak, come on a weekday, or
+      The crowd forecast only covers the busiest time: weekends from 8am to 11am.
+      It shows no quiet window. To avoid the peak, come on a weekday, or
       on a weekend right at the 7am opening or after 11am.
   - q: What are the opening hours?
     a: 'It''s open 7am to 5pm every day of the week, with no closing day.'
@@ -106,7 +106,7 @@ If you've seen Khải Định's tomb, you'll recognise his taste here: East and 
 
 ## Timing the Gate on Phan Đình Phùng
 
-Weekend mornings are the pinch point. Our measured crowd data puts the weekend peak at 8am–11am. Arriving then means sharing the mural hall with groups. On a Saturday or Sunday, come after 11am, or go straight at the 7am opening before the rush builds.
+Weekend mornings are the pinch point. The crowd forecast puts the weekend peak at 8am–11am. Arriving then means sharing the mural hall with groups. On a Saturday or Sunday, come after 11am, or go straight at the 7am opening before the rush builds.
 
 Hours are 7am to 5pm daily, with no closing day. Aim to arrive by about 4pm so the last hour isn't a scramble. Some practical habits:
 

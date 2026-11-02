@@ -75,7 +75,7 @@ quickAnswer: >-
 faq:
   - q: When is the quietest time to visit Markthalle Neun?
     a: >-
-      Weekdays are the quiet side of the week, with the calmest window measured
+      Weekdays are the quiet side of the week, with the calmest window in the forecast
       at 9am–9pm, so any opening hour from Monday to Friday works well. Avoid
       Saturday between 11am and 7pm, which is the busiest stretch.
   - q: Is Markthalle Neun open on Sunday?
@@ -122,7 +122,7 @@ There's no point in driving. Street parking in the Kiez is tight and the U-Bahn 
 
 The schedule is simple: 9am to 8pm Monday to Saturday, with Thursday running until 10pm. **Sunday it is closed**, which catches out plenty of weekend visitors.
 
-The weekday crowd figures show the quietest stretch running 9am–9pm. In practice, that means any hour the doors are open from Monday to Friday is comfortable. Saturday is the problem. Try not to arrive between 11am and 7pm, when the aisles fill and the tables are hard to come by. If Saturday is your only day, come at the 9am opening for coffee and bread or slip in for the last hour.
+The weekday crowd forecast shows the quietest stretch running 9am–9pm. In practice, that means any hour the doors are open from Monday to Friday is comfortable. Saturday is the problem. Try not to arrive between 11am and 7pm, when the aisles fill and the tables are hard to come by. If Saturday is your only day, come at the 9am opening for coffee and bread or slip in for the last hour.
 
 Thursday is a special case. The late opening is built around the evening street-food session that made the hall famous. Thursday daytime is calm, but the evening is lively by design. Check the official site for what's running that week.
 

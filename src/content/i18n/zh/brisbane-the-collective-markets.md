@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: brisbane-the-collective-markets
-srcHash: 'a9ae6c8fabfb'
+srcHash: '40f46e58b022'
 title: 布里斯班 Collective 市集（The Collective Markets）旅行指南（4.2★）
 description: Collective 市集位于南布里斯班南岸区的小斯坦利街（Little Stanley Street），每周五 5–9pm、周六 10am–9pm、周日 9am–4pm 开市，售卖本地手作、首饰、艺术品、家居用品和服装。评分 4.2★（1,270 条评价），本文汇总游客评价、营业时间和实用贴士。
 quickAnswer: Collective 市集（The Collective Markets）设在南布里斯班南岸区的小斯坦利街（Little Stanley Street），专卖本地制作的手工艺品、首饰、艺术品、家居用品和服装。开放时间为周五 5–9pm、周六 10am–9pm、周日 9am–4pm，周一至周四休市。周末从 9am 到 9pm 一直是人流高峰，想避开这个时段，只能选周五晚上。
@@ -9,7 +9,7 @@ faq:
   - q: Collective 市集什么时候开放？
     a: 周五 5:00–9:00pm，周六 10:00am–9:00pm，周日 9:00am–4:00pm，周一至周四休市。节假日前后营业时间可能有变，如果专程前往，出发前最好先到市集官方渠道确认。
   - q: 什么时候去人最少？
-    a: 周末目前没有测到明显的清闲时段。周末从 9am 到 9pm 都是高峰，正好覆盖全部营业时间。周五晚上 5–9pm 是唯一不在周末高峰内的场次，想从容逛摊的话，这是最好的选择。
+    a: 按预测，周末没有明显的清闲时段。周末从 9am 到 9pm 都是高峰，正好覆盖全部营业时间。周五晚上 5–9pm 是唯一不在周末高峰内的场次，想从容逛摊的话，这是最好的选择。
   - q: 怎么去 Collective 市集？
     a: 市集在南布里斯班南岸区的小斯坦利街。从皇后街（Queen Street）可步行经维多利亚桥（Victoria Bridge）过河，从植物园一侧则可走善意桥（Goodwill Bridge）。也可以乘火车到南岸站（South Bank）或南布里斯班站（South Brisbane），乘公交到文化中心（Cultural Centre）快速公交站，或者搭内河渡轮到南岸码头。
   - q: 需要逛多久？

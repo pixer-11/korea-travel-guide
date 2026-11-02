@@ -107,7 +107,7 @@ Practical timing logic:
 - The final two hours before the 8pm closing are consistently quieter, since day-trippers have moved on to dinner plans
 - Weekends run busier throughout the day than Tuesday through Thursday
 
-None of this is measured data, just how museum traffic in a historic center typically behaves. Treat it as a starting point, not a guarantee.
+None of this is forecast data, just how museum traffic in a historic center typically behaves. Treat it as a starting point, not a guarantee.
 
 ## Buying tickets and moving through the galleries
 

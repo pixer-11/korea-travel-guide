@@ -100,7 +100,7 @@ Give yourself at least an hour at the falls themselves, more if you plan to swim
 
 ## When to go
 
-Bousra Waterfall is open daily from 7am to 5pm. The measured crowd pattern here is clear: weekends get genuinely busy between 10am and 4pm, when tour groups from Sen Monorom and beyond arrive in waves.
+Bousra Waterfall is open daily from 7am to 5pm. The crowd forecast here is clear: weekends get genuinely busy between 10am and 4pm, when tour groups from Sen Monorom and beyond arrive in waves.
 
 Both weekdays and weekends are quietest from 7am to 9am, right at opening. Arriving then gets you the falls with far fewer people in your photos and a calmer path along the platforms.
 

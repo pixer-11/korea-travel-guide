@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: madrid-mercado-de-san-miguel
-srcHash: 'e5d71975a729'
+srcHash: 'ac1f78f0b84b'
 title: 'Mercado de San Miguel: Guía de Viaje de Madrid (4,4★)'
 description: 'El Mercado de San Miguel se encuentra en la Plaza de San Miguel, en el distrito Centro de Madrid, a dos minutos a pie de la Plaza Mayor. 4,4★ (164.644 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Mercado de San Miguel se encuentra en la Plaza de San Miguel, en el distrito Centro de Madrid, a dos minutos a pie de la Plaza Mayor. Con más de 164.000 reseñas y un estatus de muy popular, los fines de semana el momento de mayor afluencia va de mediodía a las 23:00, así que el rato tranquilo es justo al abrir, de 10:00 a 11:00. Conviene ir entonces para recorrer con calma la nave de hierro y cristal antes de que lleguen las multitudes.
@@ -40,7 +40,7 @@ Las raciones son deliberadamente pequeñas para poder ir pasando por varios most
 
 Lo primero a tener en cuenta al planificar la visita es la propia popularidad del mercado. Se trata de uno de los mercados gastronómicos más reseñados de España, y las tardes y noches de fin de semana los pasillos entre los puestos se llenan hombro con hombro.
 
-El momento de calma medido va de 10:00 a 11:00, tanto entre semana como los fines de semana, justo cuando abren las puertas. La hora punta medida se extiende desde el mediodía hasta el cierre del mercado, sobre todo los fines de semana, abarcando el almuerzo, el paseo vespertino y buena parte de la noche.
+El momento de calma previsto va de 10:00 a 11:00, tanto entre semana como los fines de semana, justo cuando abren las puertas. La hora punta prevista se extiende desde el mediodía hasta el cierre del mercado, sobre todo los fines de semana, abarcando el almuerzo, el paseo vespertino y buena parte de la noche.
 
 Si lo que se busca es realmente ver los puestos y no solo abrirse paso entre ellos, llegar dentro de esa primera hora de apertura marca la diferencia entre un paseo tranquilo y un avance lento entre la multitud.
 

@@ -140,7 +140,7 @@ Summer holidays (July–August) and Chinese New Year bring the heaviest domestic
 
 This is a genuinely popular, well-reviewed institution, not a quiet find, so the smart move is timing rather than hoping for empty rooms.
 
-- Arrive at opening (9am) or after 4pm, both weekday and weekend crowds thin out then, per measured visitor patterns
+- Arrive at opening (9am) or after 4pm, both weekday and weekend crowds thin out then, per typical visitor patterns
 - Avoid 11am–5pm on weekends specifically, when the tunnel and touch-pool areas bottleneck hardest
 - Buy tickets online in advance during peak season to skip the counter queue
 - Bring a light layer. The Cold/Polar Seas hall is kept noticeably chilled compared to the tropical halls

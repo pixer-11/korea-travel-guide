@@ -92,7 +92,7 @@ This isn't a workaround or a consolation prize, it's the accepted way most outsi
 
 ## Beating the weekend crush
 
-Lingaraj draws heavy numbers year-round, and it is not a quiet, undiscovered spot; expect company at almost any hour. The measured quiet spells are 7am to 8am on both weekdays and weekends, right after opening, before tour groups and the bulk of pilgrims arrive.
+Lingaraj draws heavy numbers year-round, and it is not a quiet, undiscovered spot; expect company at almost any hour. The quiet spells in the forecast are 7am to 8am on both weekdays and weekends, right after opening, before tour groups and the bulk of pilgrims arrive.
 
 Weekends between 5pm and 7pm are the hours to avoid. That's when the courtyard and platform area fill up fastest, particularly as evening aarti approaches and local families arrive after work. If you can only come on a Saturday or Sunday, shifting to the 7am slot instead of the evening will save you real time in the queue.
 

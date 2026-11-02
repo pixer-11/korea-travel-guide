@@ -50,7 +50,7 @@ tags:
 quickAnswer: "Old Castle (Altes Schloss) stands on Schillerplatz in central Stuttgart, a short walk from Charlottenplatz and Schlossplatz Stadtbahn stops, and houses part of the Württemberg State Museum. It opens Tuesday to Sunday, 11am to 5pm, and is closed Mondays. Weekends are busy for the whole 11am–5pm window, so come on a weekday if you can."
 faq:
   - q: "When is the quietest time to visit the Old Castle?"
-    a: "The measured data show weekends are busy for the whole 11am–5pm opening window. It doesn't pinpoint a quiet hour, so your best bet is a weekday, Tuesday to Friday."
+    a: "The forecast shows weekends are busy for the whole 11am–5pm opening window. It doesn't pinpoint a quiet hour, so your best bet is a weekday, Tuesday to Friday."
   - q: "What are the Old Castle's opening hours?"
     a: "It opens Tuesday to Sunday, 11am to 5pm. It is closed on Mondays."
   - q: "How do I get to the Old Castle by public transport?"

@@ -69,7 +69,7 @@ quickAnswer: >-
 faq:
   - q: When is the quietest time to visit the British Museum?
     a: >-
-      Weekdays are quiet right across the measured 10am–6pm window, so any
+      Weekdays are quiet right across the 10am–6pm window in the forecast, so any
       weekday hour it is open works. At weekends the calm stretch is 10am–11am.
       Avoid 12pm–4pm on Saturdays and Sundays, when it is busiest.
   - q: What are the British Museum's opening hours?
@@ -121,7 +121,7 @@ Two to three hours covers these at a sensible pace. A full day barely scratches 
 
 Opening hours shift across the week, so check the day before you plan. It opens at 10am daily. Most days it closes at 5pm, but Wednesday closes early at 3:30pm and Friday stays open until 8:30pm.
 
-Our typical foot-traffic says weekdays are quiet right across the 10am–6pm window. In practice that means any weekday hour the doors are open. Weekends work differently. The calm stretch is 10am–11am, and the busiest period runs from 12pm to 4pm.
+The typical foot-traffic pattern says weekdays are quiet right across the 10am–6pm window. In practice that means any weekday hour the doors are open. Weekends work differently. The calm stretch is 10am–11am, and the busiest period runs from 12pm to 4pm.
 
 Arrive after noon on a Saturday and you will be queueing at the Rosetta Stone for a clear look. A Friday evening, after the school groups leave, is a good weekday alternative.
 

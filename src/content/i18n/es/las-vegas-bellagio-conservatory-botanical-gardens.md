@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: las-vegas-bellagio-conservatory-botanical-gardens
-srcHash: '52face69d2d0'
+srcHash: '31b9dad56059'
 title: 'Jardín Botánico y Conservatorio del Bellagio: guía de viaje a Las Vegas'
 description: 'El Jardín Botánico y Conservatorio del Bellagio se encuentra justo al pasar el vestíbulo principal del Bellagio, en el Strip de Las Vegas, y es gratuito y abierto las 24 horas, aunque solo merece la pena verlo de día o al anochecer, cuando los tragaluces y la iluminación hacen su efecto. 4,8★ (41.791 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Jardín Botánico y Conservatorio del Bellagio se encuentra justo al pasar el vestíbulo principal del Bellagio, en el Strip de Las Vegas, y es gratuito y abierto las 24 horas, aunque solo merece la pena verlo de día o al anochecer, cuando los tragaluces y la iluminación hacen su efecto. Conviene ir entre las 7:00 y las 9:00, cualquier día de la semana, para verlo casi vacío; los fines de semana, a partir de las 11:00, el paso se llena y sigue concurrido hasta cerca de las 23:00. Cada instalación de temporada dura entre varias semanas y un par de meses, así que lo que se ve en marzo ya no estará en junio.
@@ -9,7 +9,7 @@ faq:
   - q: ¿Es gratis el Conservatorio del Bellagio?
     a: Sí, no hay entrada ni se necesita ningún ticket. Es un pasillo público dentro del hotel Bellagio, abierto a cualquiera que pase por allí.
   - q: ¿Cuál es el momento más tranquilo para visitarlo?
-    a: Entre las 7:00 y las 9:00, tanto entre semana como los fines de semana, según los patrones de afluencia medidos. A partir de las 11:00 los fines de semana la afluencia aumenta notablemente y se mantiene así hasta cerca de las 23:00.
+    a: Entre las 7:00 y las 9:00, tanto entre semana como los fines de semana, según los patrones de afluencia previstos. A partir de las 11:00 los fines de semana la afluencia aumenta notablemente y se mantiene así hasta cerca de las 23:00.
   - q: ¿Cuánto tiempo conviene dedicarle?
     a: La mayoría de la gente lo recorre en 15 a 20 minutos. Conviene calcular unos 30 minutos si se quiere apreciar con detalle la decoración de temporada y los elementos móviles, como el dragón o el carrusel.
   - q: ¿Cómo se llega al Conservatorio desde el Strip?
@@ -39,7 +39,7 @@ Por la noche el espacio se ilumina de forma artificial y el ambiente cambia, sob
 
 ## Cuándo ir si se busca evitar las multitudes
 
-Se trata de una de las atracciones gratuitas más visitadas del Strip, con un flujo constante de huéspedes del hotel, visitantes del casino y grupos turísticos, así que no hay que esperar un jardín tranquilo. Según las mediciones de afluencia, el momento de menor concurrencia es entre las 7:00 y las 9:00, tanto entre semana como los fines de semana, antes de que el casino esté en pleno funcionamiento.
+Se trata de una de las atracciones gratuitas más visitadas del Strip, con un flujo constante de huéspedes del hotel, visitantes del casino y grupos turísticos, así que no hay que esperar un jardín tranquilo. Según la previsión de afluencia, el momento de menor concurrencia es entre las 7:00 y las 9:00, tanto entre semana como los fines de semana, antes de que el casino esté en pleno funcionamiento.
 
 Las tardes y noches de fin de semana son justo lo contrario: la afluencia aumenta de forma constante a partir de las 11:00 y se mantiene alta hasta las 23:00, con el paso a veces bloqueado por quienes se detienen a fotografiar cada escena. Para quienes buscan una visita sin aglomeraciones, un desayuno temprano en el Bellagio seguido de un paseo hacia las 7:30 es, probablemente, la mejor opción.
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bali-museum-pasifika-bali
-srcHash: 'fc78ef70cf3e'
+srcHash: '6dcc2e219a9d'
 title: 'Museo Pasifika: Guía de viaje de Bali (4,6★)'
 description: 'El Museo Pasifika Bali se encuentra dentro del complejo turístico de Nusa Dua (zona BTDC/ITDC), en Benoa, South Kuta, y abre todos los días de 10:00 a 18:00. 4,6★ (821 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo Pasifika Bali se encuentra dentro del complejo turístico de Nusa Dua (zona BTDC/ITDC), en Benoa, South Kuta, y abre todos los días de 10:00 a 18:00. Los momentos de menor afluencia son los días laborables entre las 17:00 y las 18:00, o las mañanas de fin de semana entre las 10:00 y las 11:00; conviene evitar las tardes de fin de semana entre las 15:00 y las 17:00, cuando se llena. Conviene reservar entre 1,5 y 2 horas para recorrer sus 11 pabellones de arte asiático-pacífico.
@@ -59,7 +59,7 @@ Los niños suelen disfrutar más de la variedad de texturas y objetos que ofrece
 
 ## Cómo visitarlo como un local
 
-Para encontrar las salas más vacías, conviene ir justo a la apertura un fin de semana (10:00–11:00) o a última hora de la tarde entre semana (17:00–18:00); no son suposiciones, sino franjas de baja afluencia comprobadas. La entrada suele pagarse en la taquilla en efectivo o con tarjeta; es recomendable llevar billetes pequeños de rupias por si algún día los lectores de tarjeta funcionan con lentitud.
+Para encontrar las salas más vacías, conviene ir justo a la apertura un fin de semana (10:00–11:00) o a última hora de la tarde entre semana (17:00–18:00); no son suposiciones, sino franjas de baja afluencia según la previsión. La entrada suele pagarse en la taquilla en efectivo o con tarjeta; es recomendable llevar billetes pequeños de rupias por si algún día los lectores de tarjeta funcionan con lentitud.
 
 No hay un código de vestimenta estricto, pero se trata de una institución cultural, así que conviene dejar los pareos de playa para el hotel y optar por algo apropiado para entrar a un templo. Por lo general, se permite fotografiar sin flash, así que es mejor prescindir del trípode y tener consideración con otros visitantes en las salas más pequeñas.
 

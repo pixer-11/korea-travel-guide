@@ -72,7 +72,7 @@ faq:
       listing before you go, because special events can change the schedule.
   - q: When is the quietest time to visit?
     a: >-
-      We don't have a measured quiet window, but weekends are busy for the whole
+      The forecast shows no quiet window, but weekends are busy for the whole
       9am–3pm trading day. Friday is the best choice if you want to avoid that
       weekend peak. It also opens earliest, at 8am.
   - q: How do I get to St George's Market?
@@ -139,7 +139,7 @@ If you're driving, use one of the city-centre car parks and walk. Kerbside space
 
 ## Working the aisles without the crush
 
-Our foot-traffic data shows weekends busy from 9am to 3pm. That's the whole Saturday trading day and every hour of Sunday, so a weekend visit means crowds at any time. If your plans allow it, come on Friday. It opens earliest, at 8am, and it falls outside that measured weekend peak.
+The foot-traffic forecast shows weekends busy from 9am to 3pm. That's the whole Saturday trading day and every hour of Sunday, so a weekend visit means crowds at any time. If your plans allow it, come on Friday. It opens earliest, at 8am, and it falls outside that forecast weekend peak.
 
 How the market works:
 

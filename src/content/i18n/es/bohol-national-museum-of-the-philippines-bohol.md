@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bohol-national-museum-of-the-philippines-bohol
-srcHash: 'c147f24b4678'
+srcHash: '083e6863667a'
 title: 'Museo Nacional de Filipinas: guía de viaje de Bohol'
 description: 'El Museo Nacional de Filipinas – Bohol ocupa el antiguo edificio del Capitolio en Poblacion, ciudad de Tagbilaran, abierto todos los días de 9:00 a 18:00. 4.6★ (409 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo Nacional de Filipinas – Bohol ocupa el antiguo edificio del Capitolio en Poblacion, ciudad de Tagbilaran, y abre todos los días de 9:00 a 18:00. Es una parada compacta y bien curada que recorre la arqueología, la etnografía y el arte de Bohol; calcule una hora aproximadamente. Los fines de semana son más tranquilos entre las 9:00 y las 10:00 o entre las 13:00 y las 15:00, así que si puede, evite la avalancha de 15:00 a 17:00.
@@ -11,7 +11,7 @@ faq:
   - q: ¿Cuánto tiempo debería dedicar a la visita?
     a: La mayoría de los visitantes termina cómodamente en una hora u hora y media, ya que se trata de un museo compacto y bien enfocado, no de uno inmenso.
   - q: ¿Cuál es el momento más tranquilo para visitarlo?
-    a: Los fines de semana, las franjas de 9:00 a 10:00 y de 13:00 a 15:00 son las más tranquilas según los patrones de afluencia medidos. Conviene evitar el horario de 15:00 a 17:00 los sábados y domingos, cuando la afluencia alcanza su punto máximo.
+    a: Los fines de semana, las franjas de 9:00 a 10:00 y de 13:00 a 15:00 son las más tranquilas según los patrones de afluencia previstos. Conviene evitar el horario de 15:00 a 17:00 los sábados y domingos, cuando la afluencia alcanza su punto máximo.
   - q: ¿Abre todos los días?
     a: Sí, abre todos los días de 9:00 a 18:00, incluidos los fines de semana, sin ningún día de cierre que deba tenerse en cuenta.
   - q: ¿Qué hay cerca para combinar con otros atractivos?

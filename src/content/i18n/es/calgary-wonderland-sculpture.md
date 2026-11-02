@@ -1,13 +1,13 @@
 ---
 lang: es
 slug: calgary-wonderland-sculpture
-srcHash: 'af537800f35e'
+srcHash: 'b36954e58238'
 title: 'Escultura Wonderland: guía de viaje de Calgary (4.6★)'
 description: Frente a la torre The Bow, en 110 6 Ave SE, en pleno centro de Calgary, se alza la escultura Wonderland. Con una valoración de 4.6★ (1,321 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
 quickAnswer: La escultura Wonderland se encuentra en la plaza de la torre The Bow, en 110 6 Ave SE, en el centro de Calgary. Esta cabeza de niña de 12 metros, obra de Jaume Plensa, está hecha de malla de alambre y se expone al aire libre. Actualmente figura como abierta las 24 horas, y no hay vallas ni entradas. Los fines de semana, la franja más tranquila es de 7am–11am, mientras que entre las 4pm–11pm se concentra la mayor afluencia.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar la escultura Wonderland?
-    a: Los fines de semana, la franja más tranquila es de 7am–11am. Le conviene evitar la llegada entre las 4pm y las 11pm de esos mismos días, porque es cuando la plaza está más concurrida y se forman colas para fotografiarse dentro de la cabeza. No se dispone de datos medidos para los días laborables.
+    a: Los fines de semana, la franja más tranquila es de 7am–11am. Le conviene evitar la llegada entre las 4pm y las 11pm de esos mismos días, porque es cuando la plaza está más concurrida y se forman colas para fotografiarse dentro de la cabeza. No se dispone de previsión para los días laborables.
   - q: ¿Cómo se llega a la escultura Wonderland en transporte público?
     a: Tome el CTrain, línea Roja o Azul, hasta la estación City Hall / Bow Valley College, situada en 7 Ave SE. Desde allí, un breve paseo hacia el norte le lleva a la plaza de la torre The Bow, en 110 6 Ave SE.
   - q: ¿Se puede entrar en la escultura Wonderland?

@@ -99,7 +99,7 @@ Coming from Heidelberg Hauptbahnhof, take a bus to the Altstadt stops around Rat
 
 The kitchen side opens at 12:00 every day. From Monday to Saturday it stays open until 11pm. Sunday is shorter, with doors shut at 9pm, so plan a Sunday dinner for early evening.
 
-Weekends are crowded from 1pm to 11pm, which covers most of the day. If you want a table without a wait, the quietest weekend window is 9pm to 11pm. Since Sunday closes at 9pm, that really means a late Saturday. We have no measured weekday pattern, so a weekday visit is the simplest way around the crowds.
+Weekends are crowded from 1pm to 11pm, which covers most of the day. If you want a table without a wait, the quietest weekend window is 9pm to 11pm. Since Sunday closes at 9pm, that really means a late Saturday. The forecast has no weekday pattern, so a weekday visit is the simplest way around the crowds.
 
 Give it around 90 minutes for a sit-down meal, or longer if you're staying for a second round in the beer garden.
 

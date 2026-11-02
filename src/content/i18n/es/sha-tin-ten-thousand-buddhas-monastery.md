@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: sha-tin-ten-thousand-buddhas-monastery
-srcHash: '2d1de68b3ff3'
+srcHash: '1a1a1bba0162'
 title: 'Monasterio de los Diez Mil Budas: Guía de viaje de Sha Tin (4.5★)'
 description: El Monasterio de los Diez Mil Budas se alza en una colina sobre Sha Tin, al que se llega tras una empinada subida de 15 a 20 minutos bordeada por cientos de estatuas doradas de Buda. 4.5★ (2,665 reseñas) — opiniones de los visitantes, horarios y consejos.
 quickAnswer: El Monasterio de los Diez Mil Budas se alza en una colina sobre Sha Tin, al que se llega tras una empinada subida de 15 a 20 minutos bordeada por cientos de estatuas doradas de Buda. Abre todos los días de 9am a 5pm; ve un día entre semana por la mañana para tener la escalera y los pabellones prácticamente para ti solo. Calcula entre 1.5 y 2 horas para la visita completa, y usa calzado con buen agarre.
@@ -46,7 +46,7 @@ Date una hora completa una vez que llegues arriba para recorrer bien las terraza
 
 El monasterio mantiene el mismo horario todos los días de la semana, de 9am a 5pm, así que no hay un horario temprano en la mañana o tarde en la noche que aprovechar. Lo que sí puedes controlar es qué día y a qué hora vas.
 
-Las mañanas y tardes entre semana se mantienen consistentemente tranquilas: los datos de afluencia lo confirman, con las horas de 9am a 5pm entre semana registrando poco movimiento en general. Los fines de semana la historia es distinta, con un aumento constante de visitantes desde las 9am que se mantiene alto hasta cerca de las 4pm.
+Las mañanas y tardes entre semana se mantienen consistentemente tranquilas: la previsión de afluencia lo confirma, con las horas de 9am a 5pm entre semana mostrando poco movimiento en general. Los fines de semana la historia es distinta, con un aumento constante de visitantes desde las 9am que se mantiene alto hasta cerca de las 4pm.
 
 Si solo puedes ir un sábado o domingo, llega justo a la apertura a las 9am o cuenta con compartir la escalera con más gente.
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: ha-long-bay-ha-long-market
-srcHash: '0fea9e81fdab'
+srcHash: '863b81f4a6b1'
 title: 'Mercado de Ha Long: guía de viaje de la bahía de Ha Long (4,1★)'
 description: 'El mercado de Ha Long, en Hong Gai (bahía de Ha Long), es un mercado de pescado y productos frescos en pleno funcionamiento, no un montaje para turistas: tanques con cangrejos, calamares y camarones vivos conviven con puestos de flores y frutas. 4,1★ (3.797 reseñas): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El mercado de Ha Long, en Hong Gai (bahía de Ha Long), es un mercado de pescado y productos frescos en pleno funcionamiento, no un montaje para turistas: tanques con cangrejos, calamares y camarones vivos conviven con puestos de flores y frutas. Abre todos los días de 6:00 a 18:30, y los fines de semana se llena de 9:00 a 18:00, así que lo mejor es visitarlo temprano por la mañana. Para recorrerlo con calma, calcule entre 30 y 45 minutos.'

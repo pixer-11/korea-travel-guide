@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: ulaanbaatar-national-museum-of-mongolia
-srcHash: '7024dc3f109c'
+srcHash: 'eb3f39b1ed1c'
 title: 'Museo Nacional de Mongolia: guía de viaje de Ulán Bator (4.4★)'
 description: 'En pleno centro de Ulán Bator, sobre la calle Travel (Juulchin), a una manzana de la esquina noroeste de la plaza Sükhbaatar, se alza el Museo Nacional de Mongolia. Valoración de 4.4★ (1,693 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: A una manzana de la esquina noroeste de la plaza Sükhbaatar, en la calle Travel (Juulchin) del centro de Ulán Bator, se encuentra el Museo Nacional de Mongolia. Su recorrido arranca con las herramientas de la Edad de Piedra y continúa con el Imperio mongol y la vida nómada hasta llegar a la revolución democrática de 1990. La mayoría de los visitantes le dedica entre 1.5 y 2 horas. Abre actualmente de martes a domingo, de 9am–6pm, y cierra los lunes. Los fines de semana hay poca afluencia durante todo el horario de 9am–6pm.

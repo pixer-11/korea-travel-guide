@@ -131,7 +131,7 @@ Practical points:
 
 - **Tickets**: buy them at the entrance or through the museum's official website. The current price is posted there.
 - **Hours**: right now it opens 9am–7pm, Monday through Sunday. Museum hours change with holidays and seasons, so confirm on the official site before you go.
-- **Timing**: you have no measured crowd data to plan around, but arriving close to opening usually puts you ahead of the tour groups that come in from Miraflores later in the morning.
+- **Timing**: you have no crowd forecast to plan around, but arriving close to opening usually puts you ahead of the tour groups that come in from Miraflores later in the morning.
 - **Language**: staff at the front desk are used to international visitors. A "buenos días" at the counter is still the normal courtesy.
 
 In Peru, tipping a taxi driver is not expected. Card payment is normal at the museum itself.

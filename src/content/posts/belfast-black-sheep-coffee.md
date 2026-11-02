@@ -59,7 +59,7 @@ tags:
 quickAnswer: "Black Sheep Coffee on Ann Street sits in Belfast city centre, between Cornmarket and the Albert Memorial Clock. It's a budget-friendly coffee chain known for serving robusta when most specialty cafés pour only arabica. On weekends it's quietest from 7am to 9am, and it's best avoided from 11am to 6pm when the shopping crowds pile in."
 faq:
   - q: "When is the quietest time to visit Black Sheep Coffee on Ann Street?"
-    a: "On weekends it's calmest between 7am and 9am. Avoid 11am to 6pm, its busiest stretch, when the city-centre shoppers arrive. No quiet window has been measured for weekdays, but it opens early, at 6:45am."
+    a: "On weekends it's calmest between 7am and 9am. Avoid 11am to 6pm, its busiest stretch, when the city-centre shoppers arrive. The forecast shows no quiet window for weekdays, but it opens early, at 6:45am."
   - q: "What are the opening hours?"
     a: "6:45am to 7:30pm Monday to Friday, 7am to 7:30pm on Saturday and 7am to 7pm on Sunday."
   - q: "How do I get there from City Hall?"

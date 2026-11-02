@@ -63,7 +63,7 @@ place:
 tags:
   - rome
   - hidden gem
-quickAnswer: Janiculum Hill (Gianicolo) is a free, open-24-hours panoramic terrace on Rome's west bank, best reached by taxi, bus 115, or a steep 15-minute walk up from Trastevere. Go between 7am and 9am — the measured quiet window on both weekdays and weekends — to get the view, the fountain, and the cannon-firing spot to yourself before crowds build through the day and stay heavy until 11pm on weekends. Budget half a day to combine the hill with a wander through Trastevere below.
+quickAnswer: Janiculum Hill (Gianicolo) is a free, open-24-hours panoramic terrace on Rome's west bank, best reached by taxi, bus 115, or a steep 15-minute walk up from Trastevere. Go between 7am and 9am — the forecast quiet window on both weekdays and weekends — to get the view, the fountain, and the cannon-firing spot to yourself before crowds build through the day and stay heavy until 11pm on weekends. Budget half a day to combine the hill with a wander through Trastevere below.
 faq:
   - q: How do I get to Janiculum Hill from central Rome?
     a: Walk up from Trastevere (about 15–20 minutes from Piazza Trilussa via Via Garibaldi), take bus 115, or use a taxi/rideshare direct to Piazzale Giuseppe Garibaldi. There's no metro stop on the hill itself.
@@ -103,7 +103,7 @@ Joggers, dog-walkers, and couples on benches share the space with the tour group
 
 ## When to go
 
-The measured quietest window here is 7am to 9am, on both weekdays and weekends, the cannon hasn't fired yet, the light is still low and gold across the rooftops, and the terrace belongs mostly to runners and locals walking dogs. On weekends, crowds build steadily and stay heavy from 10am all the way to 11pm, so if you're chasing an empty photo at the balustrade, don't come after breakfast.
+The forecast's quietest window here is 7am to 9am, on both weekdays and weekends, the cannon hasn't fired yet, the light is still low and gold across the rooftops, and the terrace belongs mostly to runners and locals walking dogs. On weekends, crowds build steadily and stay heavy from 10am all the way to 11pm, so if you're chasing an empty photo at the balustrade, don't come after breakfast.
 
 Sunset is the famous alternative time (genuinely spectacular, with the dome of St. Peter's silhouetted against orange sky), but expect to share the rail with a real crowd of visitors doing exactly the same thing.
 

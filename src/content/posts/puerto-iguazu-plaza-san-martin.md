@@ -76,7 +76,7 @@ Look at the ground on the paths and verges. Misiones is known for its *tierra co
 
 Puerto Iguazu runs on a subtropical clock. Summer afternoons are hot and heavy with humidity. Many small shops in Misiones close for a long midday break and reopen in the late afternoon, which changes how the streets around the plaza feel.
 
-In the early afternoon the avenue goes quiet, and the shade is the main reason to sit in the square. Things pick up again once businesses reopen and the heat eases toward evening. That's when the plaza works best: a cooler bench, the centre filling up, and dinner a short walk away. This is general town rhythm, not a measured crowd pattern, so treat it as a guide.
+In the early afternoon the avenue goes quiet, and the shade is the main reason to sit in the square. Things pick up again once businesses reopen and the heat eases toward evening. That's when the plaza works best: a cooler bench, the centre filling up, and dinner a short walk away. This is general town rhythm, not a crowd forecast, so treat it as a guide.
 
 ## Sharing a bench, mate and pesos
 

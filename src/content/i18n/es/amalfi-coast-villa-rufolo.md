@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: amalfi-coast-villa-rufolo
-srcHash: '8f71aa278aac'
+srcHash: '7798f5692acb'
 title: 'Villa Rufolo: Guía de viaje de la Costa Amalfitana (4.6★)'
 description: 'Villa Rufolo se encuentra justo en la Piazza Duomo de Ravello, una villa del siglo XIII con influencia morisca cuyos jardines escalonados enmarcan una de las vistas al mar más fotografiadas de la Costa Amalfitana. 4.6★ (20,676 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Villa Rufolo se encuentra justo en la Piazza Duomo de Ravello, una villa del siglo XIII con influencia morisca cuyos jardines escalonados enmarcan una de las vistas al mar más fotografiadas de la Costa Amalfitana. Reserva entre 45 y 60 minutos para recorrer las torres, el claustro y el mirador. Las multitudes disminuyen antes de las 9am y se mantienen más ligeras hasta primera hora de la mañana y por la noche; los fines de semana entre el mediodía y las 5pm son el tramo más concurrido, así que procura ir antes o después de esa franja.
@@ -44,7 +44,7 @@ Sea como sea que llegues, la entrada de Villa Rufolo está justo frente a la pla
 
 ## Cuándo ir
 
-La primavera y el principio del verano traen los jardines en plena floración, y el Festival de Ravello (aproximadamente de junio a septiembre) convierte el mirador en un escenario de conciertos, con orquestas tocando frente al mar; vale la pena organizar la visita en torno a esto si logras conseguir entradas. Según los patrones de visitantes medidos, las horas más tranquilas para recorrer los jardines son entre las 9am y las 8pm, tanto en días de semana como en fines de semana, mientras que la mayor aglomeración se produce los fines de semana entre el mediodía y las 5pm, cuando llegan en masa los excursionistas de un día desde Amalfi y Positano.
+La primavera y el principio del verano traen los jardines en plena floración, y el Festival de Ravello (aproximadamente de junio a septiembre) convierte el mirador en un escenario de conciertos, con orquestas tocando frente al mar; vale la pena organizar la visita en torno a esto si logras conseguir entradas. Según los patrones habituales de visitantes, las horas más tranquilas para recorrer los jardines son entre las 9am y las 8pm, tanto en días de semana como en fines de semana, mientras que la mayor aglomeración se produce los fines de semana entre el mediodía y las 5pm, cuando llegan en masa los excursionistas de un día desde Amalfi y Positano.
 
 Si vas a ir un sábado o domingo, llega antes del mediodía o espera hasta después de las 5pm para disfrutar de un paso mucho más tranquilo por el claustro y las terrazas.
 

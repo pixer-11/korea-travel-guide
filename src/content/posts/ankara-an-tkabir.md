@@ -65,7 +65,7 @@ quickAnswer: >-
   Anıtkabir, Ankara's monumental mausoleum for Mustafa Kemal Atatürk, sits on
   Anıttepe hill in Çankaya and is worth two to three hours. It's extremely
   well-visited (well over 140,000 reviews and rated close to the maximum), so
-  aim for a weekday between 9am and 5pm — the calmest window measured — and
+  aim for a weekday between 9am and 5pm — the calmest window in the forecast — and
   avoid weekend crowds between 11am and 4pm.
 faq:
   - q: How do I get to Anıtkabir without a car?

@@ -97,7 +97,7 @@ By late morning the court sees a shift toward domestic helpers with young childr
 
 ## When to actually show up
 
-The measured crowd patterns here are useful and specific. On weekdays, the calmest window is 8am to 10am, before any midday lunch-break foot traffic builds.
+The forecast crowd patterns here are useful and specific. On weekdays, the calmest window is 8am to 10am, before any midday lunch-break foot traffic builds.
 
 Weekends compress that calm window further, to roughly 8am and 9am, after which local families start arriving for the play area. Avoid Saturday and Sunday afternoons between 4pm and 9pm if you want the space to yourself; that's when it's busiest, as after-work and after-school crowds converge.
 

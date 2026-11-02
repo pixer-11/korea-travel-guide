@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: barcelona-la-colmena
-srcHash: '7074e61fe4ca'
+srcHash: '2b4064645b97'
 title: 'La Colmena: Guía de viaje de Barcelona (4,5★)'
 description: 'La Colmena es un histórico mostrador de repostería en la Plaça de l''Àngel, justo en el límite del Barrio Gótico, abierto todos los días de 9:00 a 21:00. 4,5★ (1.743 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'La Colmena es un histórico mostrador de repostería en la Plaça de l''Àngel, justo en el límite del Barrio Gótico, abierto todos los días de 9:00 a 21:00. Ve por el turrón, la fruta escarchada y las galletas de estilo tradicional, no a tomar un café sentado: no hay mesas, solo un mostrador de mármol y una cola. Los fines de semana están más tranquilos entre las 9:00 y las 12:00; evita pasar entre las 16:00 y las 20:00 en sábado o domingo, cuando el mostrador se llena.'
@@ -40,7 +40,7 @@ Nada está pensado para comerse de pie en el mostrador; se compra por peso o por
 
 ## Cuándo ir
 
-La tienda abre a las 9:00 y permanece abierta sin interrupción hasta las 21:00, los siete días de la semana, así que no hay que planificar alrededor de un cierre a mediodía. El patrón medido de afluencia de visitantes confirma lo que uno intuiría solo con estar de pie afuera: las mañanas de fin de semana entre las 9:00 y las 12:00 son el tramo más tranquilo, cuando realmente se pueden estudiar las vitrinas sin que nadie te dé con el codo en la espalda.
+La tienda abre a las 9:00 y permanece abierta sin interrupción hasta las 21:00, los siete días de la semana, así que no hay que planificar alrededor de un cierre a mediodía. El patrón previsto de afluencia de visitantes confirma lo que uno intuiría solo con estar de pie afuera: las mañanas de fin de semana entre las 9:00 y las 12:00 son el tramo más tranquilo, cuando realmente se pueden estudiar las vitrinas sin que nadie te dé con el codo en la espalda.
 
 Las tardes de fin de semana son lo contrario: la afluencia sube de forma constante y alcanza su punto máximo entre las 16:00 y las 20:00, cuando los excursionistas de un día y las multitudes que salen de la Catedral se desbordan hacia la plaza. Si tu agenda es flexible, aprovecha esa ventana tranquila de la mañana para mirar con calma y deja el tramo más concurrido para otro lugar.
 

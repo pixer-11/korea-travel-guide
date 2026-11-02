@@ -58,7 +58,7 @@ faq:
   - q: "When is The Collective Markets open?"
     a: "Friday 5:00–9:00pm, Saturday 10:00am–9:00pm and Sunday 9:00am–4:00pm. It's closed Monday to Thursday. Hours can change around holidays, so check the market's official channels before a special trip."
   - q: "When is the quietest time to visit?"
-    a: "No quiet weekend window has been measured. On weekends the market is busiest from 9am to 9pm, which covers all of its trading hours. Friday evening, 5–9pm, is the only session outside that weekend peak, so it's the best choice if you want room to browse."
+    a: "The forecast shows no quiet weekend window. On weekends the market is busiest from 9am to 9pm, which covers all of its trading hours. Friday evening, 5–9pm, is the only session outside that weekend peak, so it's the best choice if you want room to browse."
   - q: "How do I get to The Collective Markets?"
     a: "It's on Little Stanley Street in South Bank, South Brisbane. You can walk over the Victoria Bridge from Queen Street or the Goodwill Bridge from the Botanic Gardens. You can also take the train to South Bank or South Brisbane station, the bus to Cultural Centre busway station, or a river ferry to South Bank."
   - q: "How long should I spend there?"

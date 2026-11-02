@@ -1,13 +1,13 @@
 ---
 lang: es
 slug: leipzig-madler-passage
-srcHash: 'c532c146ad72'
+srcHash: 'e9a65c0e8b04'
 title: 'Mädler-Passage: guía de viaje de Leipzig (4.7★)'
 description: En pleno casco antiguo de Leipzig, entre la Grimmaische Straße y el Neumarkt, se extiende la Mädler-Passage, la galería comercial cubierta más majestuosa de la ciudad, en cuyo sótano se encuentra la Auerbachs Keller del Fausto de Goethe. Con una valoración de 4.7★ (4,414 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y algunos consejos.
 quickAnswer: En pleno casco antiguo de Leipzig, entre la Grimmaische Straße y el Neumarkt, se extiende la Mädler-Passage, la galería comercial cubierta más majestuosa de la ciudad. En su sótano se encuentra la Auerbachs Keller, la taberna que aparece en el Fausto de Goethe. Actualmente las tiendas abren de 10am a 7pm entre semana y de 10am a 6pm los sábados; los domingos permanecen cerradas. La mayor afluencia se concentra los sábados entre las 11am y las 6pm, de modo que, si le es posible, conviene ir un día laborable.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar la Mädler-Passage?
-    a: No se dispone de mediciones sobre las horas de menor afluencia. Lo que sí indican los datos es que los sábados de 11am a 6pm son los de mayor concurrencia, por lo que lo más seguro es ir un día laborable poco después de la apertura de las 10am.
+    a: No se dispone de previsiones sobre las horas de menor afluencia. Lo que sí indican los datos es que los sábados de 11am a 6pm son los de mayor concurrencia, por lo que lo más seguro es ir un día laborable poco después de la apertura de las 10am.
   - q: ¿Cuál es el horario?
     a: Actualmente las tiendas abren de lunes a viernes de 10am a 7pm y los sábados de 10am a 6pm. Los domingos el pasaje permanece cerrado. La Auerbachs Keller tiene su propio horario, así que consulte su página web.
   - q: ¿Cómo se llega a la Mädler-Passage?

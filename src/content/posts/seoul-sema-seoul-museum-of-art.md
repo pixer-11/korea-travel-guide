@@ -90,7 +90,7 @@ There's no admission charge for the permanent building entry in most cases, thou
 
 SeMA is closed every Monday, which trips up a lot of first-time visitors planning a weekday itinerary around it. Tuesday through Thursday it runs 10am to 8pm, Friday it stays open until 9pm, and weekends close earlier at 7pm.
 
-If you want the galleries close to yourself, the quietest window measured is 8pm to 9pm on weekdays, right before closing. Weekend crowds build steadily and peak between 1pm and 5pm, so a Saturday or Sunday morning right at the 10am opening is a better bet than an afternoon drop-in.
+If you want the galleries close to yourself, the quietest window in the forecast is 8pm to 9pm on weekdays, right before closing. Weekend crowds build steadily and peak between 1pm and 5pm, so a Saturday or Sunday morning right at the 10am opening is a better bet than an afternoon drop-in.
 
 ## What's inside
 

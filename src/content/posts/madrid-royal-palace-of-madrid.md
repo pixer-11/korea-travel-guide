@@ -71,7 +71,7 @@ faq:
   - q: What is the best time of day to visit the Royal Palace of Madrid?
     a: >-
       Weekday mornings between 10am and 11am, right at opening, are the quietest
-      measured window. Avoid weekend afternoons from 1pm to 6pm, which are
+      window in the forecast. Avoid weekend afternoons from 1pm to 6pm, which are
       consistently the busiest.
   - q: How long should I plan to spend there?
     a: >-

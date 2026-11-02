@@ -122,7 +122,7 @@ It's a separate, timed add-on with its own short line, so if you want to do it, 
 
 ## When to go
 
-Check the current opening hours before you go, since they can vary by season, but there's typically enough of a window to catch sunset, blue hour, and full night skyline without rushing. Measured crowd patterns show weekdays stay fairly even from open to close, so any weekday hour is a reasonably safe bet. Weekends are different: the calm window is early, 9–11am, right after opening, while things build steadily and peak hard between 2pm and 10pm.
+Check the current opening hours before you go, since they can vary by season, but there's typically enough of a window to catch sunset, blue hour, and full night skyline without rushing. The crowd forecast shows weekdays stay fairly even from open to close, so any weekday hour is a reasonably safe bet. Weekends are different: the calm window is early, 9–11am, right after opening, while things build steadily and peak hard between 2pm and 10pm.
 
 If you're visiting on a Saturday or Sunday, aim to be through the doors by mid-morning, or accept a wait if you'd rather come for sunset.
 

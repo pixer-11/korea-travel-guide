@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: komodo-pink-beach
-srcHash: '283a929eb9e9'
+srcHash: '1e8468b0c0e5'
 title: 'Playa Rosa (Pink Beach): guía de viaje a Komodo (4,9★)'
 description: 'La Playa Rosa se encuentra dentro del Parque Nacional de Komodo y solo se puede llegar en barco, normalmente como parada dentro de un itinerario en liveaboard o excursión de un día por Komodo/Rinca que sale de Labuan Bajo. 4,9★ (876 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'La Playa Rosa se encuentra dentro del Parque Nacional de Komodo y solo se puede llegar en barco, normalmente como parada dentro de un itinerario en liveaboard o excursión de un día por Komodo/Rinca que sale de Labuan Bajo. Conviene ir temprano o planificar según los datos de afluencia: los fines de semana se llena entre las 8:00 y las 13:00, mientras que las tardes-noches entre semana (18:00-22:00) y las tardes de fin de semana (después de las 13:00) son mucho más tranquilas. Lleve calzado de agua, equipo de esnórquel y efectivo, ya que en la arena no hay tiendas ni instalaciones.'
@@ -9,7 +9,7 @@ faq:
   - q: ¿Cómo se llega a la Playa Rosa en Komodo?
     a: Solo en barco, como parte de una excursión de un día o de un itinerario en liveaboard que sale de Labuan Bajo, en Flores. Suele combinarse con la isla de Padar y las paradas para ver dragones de Komodo en Komodo/Rinca.
   - q: ¿Cuál es el momento más tranquilo para visitar la Playa Rosa?
-    a: Las tardes-noches entre semana, de 18:00 a 22:00, son la franja más tranquila registrada. Los fines de semana conviene evitar de 8:00 a 13:00, que es el tramo con más gente; las tardes y noches después de la 13:00 son notablemente más calmadas.
+    a: Las tardes-noches entre semana, de 18:00 a 22:00, son la franja más tranquila según la previsión. Los fines de semana conviene evitar de 8:00 a 13:00, que es el tramo con más gente; las tardes y noches después de la 13:00 son notablemente más calmadas.
   - q: ¿Necesito llevar mi propio equipo de esnórquel?
     a: Si tiene máscara y tubo propios, tráigalos, además de calzado de agua para el fondo de coral roto junto a la orilla. Algunos operadores de barcos ofrecen equipo básico, pero la calidad varía.
   - q: ¿Hay que pagar entrada para la Playa Rosa?
@@ -50,7 +50,7 @@ Oficialmente el lugar está abierto de 4:00 a 22:00 todos los días, aunque en l
 
 ## Cuándo ir
 
-El patrón de afluencia registrado resulta útil: los fines de semana suelen estar más concurridos, ya que varios barcos de excursiones de un día coinciden a la misma hora. Si se dispone de un chárter flexible, conviene retrasar la visita.
+El patrón de afluencia previsto resulta útil: los fines de semana suelen estar más concurridos, ya que varios barcos de excursiones de un día coinciden a la misma hora. Si se dispone de un chárter flexible, conviene retrasar la visita.
 
 Las tardes-noches entre semana suelen ser más tranquilas, aunque la mayoría de los barcos de un solo día no navegan hasta tan tarde; esta franja resulta más realista para quienes se alojan en un liveaboard fondeado durante la noche. Las tardes y noches de fin de semana después de la 13:00 son la siguiente mejor opción para disfrutar de un tramo de playa más calmado.
 

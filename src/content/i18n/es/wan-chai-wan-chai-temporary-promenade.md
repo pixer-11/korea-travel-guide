@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: wan-chai-wan-chai-temporary-promenade
-srcHash: 'b2019ba454fe'
+srcHash: '9507637b71da'
 title: 'Paseo Marítimo Temporal de Wan Chai: Guía de Viaje (4.2★)'
 description: 'El Paseo Marítimo Temporal de Wan Chai es un paseo junto al agua detrás del Centro de Convenciones y Exposiciones de Hong Kong, en Wan Chai, abierto las 24 horas y sin coste de entrada. 4.2★ (542 opiniones): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: El Paseo Marítimo Temporal de Wan Chai es un camino junto al agua situado detrás del Centro de Convenciones y Exposiciones de Hong Kong, en Wan Chai, abierto las 24 horas y sin coste de entrada. Está más tranquilo entre semana de 7:00 a 8:00 y los fines de semana de 7:00 a mediodía, así que conviene ir a pasear por la mañana si se quieren las vistas del puerto sin gente. Calcula entre 30 y 60 minutos para el paseo, más si llevas bicicleta o simplemente quieres sentarte a ver pasar los ferris hacia Kowloon.

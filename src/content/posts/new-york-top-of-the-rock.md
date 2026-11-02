@@ -84,7 +84,7 @@ faq:
   - q: What are the hours for Top of The Rock?
     a: Open daily 8am to midnight, with last elevator access typically about an hour before closing — confirm the exact cutoff when you book, as it can shift seasonally.
   - q: When is the quietest time to visit?
-    a: Measured crowd data shows the calmest windows are right at opening and later in the evening (8am–9am and 10pm–11pm on weekdays, 8am–12pm and 9pm–11pm on weekends), while 4pm–8pm on weekends is the busiest stretch to avoid.
+    a: The crowd forecast shows the calmest windows are right at opening and later in the evening (8am–9am and 10pm–11pm on weekdays, 8am–12pm and 9pm–11pm on weekends), while 4pm–8pm on weekends is the busiest stretch to avoid.
   - q: How do I get there by subway?
     a: Take the B, D, F, or M train to 47–50 Sts–Rockefeller Center, which exits almost directly into the building; the 6 train (51st St) and E/M (Fifth Ave–53rd St) are both a short walk.
   - q: Should I book tickets in advance?

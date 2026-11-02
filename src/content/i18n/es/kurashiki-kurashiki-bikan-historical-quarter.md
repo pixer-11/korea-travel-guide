@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kurashiki-kurashiki-bikan-historical-quarter
-srcHash: 'cd03c22b9c2d'
+srcHash: 'e05b56339dfe'
 title: 'Barrio histórico de Bikan, en Kurashiki: guía de viaje'
 description: A unos 15 minutos a pie al sur de la estación JR de Kurashiki, en la prefectura de Okayama, el barrio histórico de Bikan conserva el antiguo distrito comercial que se extiende junto a su canal. Con 4.4★ (27,962 reseñas), aquí encontrará qué opinan los visitantes, los horarios y consejos prácticos.
 quickAnswer: El barrio histórico de Bikan es el antiguo distrito comercial de Kurashiki, en la prefectura de Okayama, y se extiende a orillas de un canal a unos 15 minutos a pie al sur de la estación JR de Kurashiki. Sus calles pueden recorrerse a cualquier hora del día o de la noche. Durante el fin de semana conviene evitar la franja de 10am–7pm, que es cuando más gente hay. Si llega entre las 7am y las 10am, o bien después de las 7pm, podrá contemplar los sauces y los almacenes de paredes blancas sin aglomeraciones.
@@ -69,7 +69,7 @@ Tiendas y cafeterías fijan sus propios horarios, mucho más cortos que el de un
 
 El momento de la visita importa sobre todo en fin de semana, y los datos de afluencia no dejan lugar a dudas: sábados y domingos la máxima concurrencia se da de 10am a 7pm. Es entonces cuando llegan los grupos organizados y la gente se agolpa en los puentes para hacerse fotos.
 
-Las franjas más tranquilas registradas son de 7am a 8am y de 10pm a 11pm, tanto entre semana como en fin de semana. Dentro de ese margen, los momentos de mayor calma son antes de las 10am y después de las 7pm. Si pasa la noche en el barrio, podrá recorrer el canal a las 7am, cuando las persianas aún siguen bajadas.
+Según la previsión, las franjas más tranquilas son de 7am a 8am y de 10pm a 11pm, tanto entre semana como en fin de semana. Dentro de ese margen, los momentos de mayor calma son antes de las 10am y después de las 7pm. Si pasa la noche en el barrio, podrá recorrer el canal a las 7am, cuando las persianas aún siguen bajadas.
 
 Algunas costumbres le facilitarán la visita:
 

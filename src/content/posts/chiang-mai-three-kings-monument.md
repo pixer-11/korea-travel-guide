@@ -54,7 +54,7 @@ tags:
 quickAnswer: "The Three Kings Monument stands on Prapokklao Road in the centre of Chiang Mai's Old City, in front of the Chiang Mai City Arts & Cultural Centre. It's free, open 24 hours, and takes about 15 minutes to see, or an hour if you add the museum behind it. Weekends from 3pm–11pm are the busiest time, so go on a weekday or on a weekend morning."
 faq:
   - q: "When is the quietest time to visit the Three Kings Monument?"
-    a: "The only measured figure is the peak: weekends from 3pm–11pm are the busiest. Go on a weekday or on a weekend morning to avoid it."
+    a: "The forecast only shows the peak: weekends from 3pm–11pm are the busiest. Go on a weekday or on a weekend morning to avoid it."
   - q: "Is the Three Kings Monument open at night?"
     a: "Yes. The forecourt is open 24 hours every day, and the statues are floodlit after dark. The museums nearby have their own hours, so check those before you go."
   - q: "How long should I spend there?"

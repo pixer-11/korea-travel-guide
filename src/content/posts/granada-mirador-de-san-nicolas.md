@@ -82,7 +82,7 @@ quickAnswer: >-
 faq:
   - q: What is the best time of day to visit Mirador de San Nicolás?
     a: >-
-      For a quiet visit, go between 7am and 10am, the measured quietest window
+      For a quiet visit, go between 7am and 10am, the quietest window in the forecast
       on both weekdays and weekends. For the famous view, sunset is spectacular
       but also the busiest stretch of the day — arrive 45–60 minutes early to
       get a spot.

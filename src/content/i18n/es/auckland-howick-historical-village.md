@@ -1,13 +1,13 @@
 ---
 lang: es
 slug: auckland-howick-historical-village
-srcHash: '4e62a7baed22'
+srcHash: 'f849dcc7d545'
 title: 'Howick Historical Village: guía de viaje de Auckland (4.7★)'
 description: En el parque Lloyd Elsmore, sobre Bells Road, en Pakuranga (este de Auckland), Howick Historical Village recrea un asentamiento colonial. Tiene una valoración de 4.7★ (842 reseñas). Aquí encontrará qué opinan los visitantes, los horarios y algunos consejos.
 quickAnswer: En el parque Lloyd Elsmore, sobre Bells Road, en Pakuranga (este de Auckland), Howick Historical Village recrea un asentamiento colonial. Cuenta con escuelas, tiendas y casitas de época, además de exposiciones de ropa y objetos del siglo XIX. Esta semana abre de martes a jueves y el domingo de 10am a 4pm, y el viernes y el sábado ofrece sesiones nocturnas de 5pm a 9pm. Cierra los lunes. La mayor afluencia se concentra los fines de semana entre las 10am y las 4pm.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar Howick Historical Village?
-    a: 'No se ha medido ninguna franja tranquila, pero sí la de mayor afluencia: los fines de semana de 10am a 4pm. Para evitarla, vaya de martes a jueves, dentro del horario actual de 10am a 4pm.'
+    a: 'La previsión no muestra ninguna franja tranquila, pero sí la de mayor afluencia: los fines de semana de 10am a 4pm. Para evitarla, vaya de martes a jueves, dentro del horario actual de 10am a 4pm.'
   - q: ¿Qué días abre Howick Historical Village?
     a: Esta semana abre el martes, el miércoles, el jueves y el domingo de 10am a 4pm, y el viernes y el sábado por la tarde-noche, de 5pm a 9pm. Los lunes cierra. Los horarios varían según la temporada y los eventos, así que consulte antes la web oficial.
   - q: ¿Cómo se llega a Howick Historical Village?
@@ -58,7 +58,7 @@ Qué llevar:
 - Una prenda de abrigo para las sesiones nocturnas, porque en el parque refresca enseguida
 - Calzado apto para la grava y el césped mojado después de la lluvia
 
-La franja de mayor afluencia registrada corresponde a los fines de semana de 10am a 4pm. Si desea recorrer las casitas a solas, procure no llegar a mitad del domingo. Si va un martes, un miércoles o un jueves, evitará por completo ese pico del fin de semana.
+La franja de mayor afluencia prevista corresponde a los fines de semana de 10am a 4pm. Si desea recorrer las casitas a solas, procure no llegar a mitad del domingo. Si va un martes, un miércoles o un jueves, evitará por completo ese pico del fin de semana.
 
 ## Recorrer la aldea con los voluntarios
 

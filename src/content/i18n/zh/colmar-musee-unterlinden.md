@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: colmar-musee-unterlinden
-srcHash: '4bf17eb667a0'
+srcHash: '5b27a9734a29'
 title: 科尔马菩提沙园博物馆（Musée Unterlinden）旅行指南（4.6★）
 description: 科尔马的菩提沙园博物馆（Musée Unterlinden）是这座城市规模最大的艺术与历史博物馆，坐落在市中心一座13世纪的多明我会修道院内，就在菩提沙园广场（Place des Unterlinden）旁边。4.6★（5,330条评价）——游客评价、开放时间与实用建议。
 quickAnswer: 科尔马的菩提沙园博物馆（Musée Unterlinden）是这座城市规模最大的艺术与历史博物馆，坐落在市中心一座13世纪的多明我会修道院内，就在菩提沙园广场旁边。博物馆除周二外每天开放，时间为上午9点到下午6点，人气确实很旺，建议赶在周末上午9点到10点这个时段前往，避开11点后的人潮高峰。至少要预留两个小时参观，光是伊森海姆祭坛画（Issenheim Altarpiece）就值得专程一趟。

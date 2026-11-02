@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: belfast-st-george-s-market
-srcHash: '018d8a40150f'
+srcHash: 'b11f3402cb89'
 title: 'St George''s Market: guía de viaje de Belfast (4.6★)'
 description: En pleno centro de Belfast, en East Bridge Street y a pocos minutos a pie de la estación de Lanyon Place, se encuentra St George's Market. Con una valoración de 4.6★ (14,122 reseñas), repasamos lo que opinan los visitantes, los horarios y algunos consejos prácticos.
 quickAnswer: 'En East Bridge Street, en pleno centro de Belfast y a pocos minutos a pie de la estación de Lanyon Place, se alza St George''s Market. Este mercado cubierto de época victoriana abre actualmente solo tres días: el viernes (8am–2pm), el sábado (9am–3pm) y el domingo (10am–3pm). De lunes a jueves permanece cerrado. Los fines de semana hay mucha gente durante toda la franja de 9am–3pm, así que, si quiere recorrer los puestos con calma, lo mejor es ir el viernes.'
@@ -9,7 +9,7 @@ faq:
   - q: ¿Qué días abre St George's Market?
     a: 'Actualmente abre tres días: el viernes de 8am–2pm, el sábado de 9am–3pm y el domingo de 10am–3pm. De lunes a jueves está cerrado. Consulte la información oficial antes de ir, ya que los eventos especiales pueden modificar el horario.'
   - q: ¿Cuál es el momento más tranquilo para visitarlo?
-    a: No disponemos de datos que señalen una franja tranquila, pero los fines de semana hay mucha gente durante toda la jornada de 9am–3pm. Si quiere evitar ese pico del fin de semana, lo mejor es ir el viernes, que además es el día que antes abre, a las 8am.
+    a: La previsión no señala ninguna franja tranquila, pero los fines de semana hay mucha gente durante toda la jornada de 9am–3pm. Si quiere evitar ese pico del fin de semana, lo mejor es ir el viernes, que además es el día que antes abre, a las 8am.
   - q: ¿Cómo se llega a St George's Market?
     a: Se encuentra en el 12 de East Bridge Street, Belfast BT1 3NQ. La estación de tren más cercana es Lanyon Place, a un breve paseo, y el Ayuntamiento de Belfast (Belfast City Hall) queda a unos diez minutos a pie.
   - q: ¿Qué conviene comer allí?
@@ -62,7 +62,7 @@ Si va en coche, deje el vehículo en alguno de los aparcamientos del centro y co
 
 ## Recorrer los pasillos sin agobios
 
-Según nuestros datos de afluencia, los fines de semana hay mucha gente de 9am a 3pm. Eso abarca toda la jornada del sábado y cada una de las horas de apertura del domingo, por lo que una visita en fin de semana supone encontrarse con multitudes a cualquier hora. Si sus planes lo permiten, vaya el viernes: es el día que antes abre, a las 8am, y queda fuera de ese pico de afluencia medido en fin de semana.
+Según la previsión de afluencia, los fines de semana hay mucha gente de 9am a 3pm. Eso abarca toda la jornada del sábado y cada una de las horas de apertura del domingo, por lo que una visita en fin de semana supone encontrarse con multitudes a cualquier hora. Si sus planes lo permiten, vaya el viernes: es el día que antes abre, a las 8am, y queda fuera de ese pico de afluencia previsto en fin de semana.
 
 Así funciona el mercado:
 

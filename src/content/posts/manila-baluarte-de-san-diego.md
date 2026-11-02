@@ -119,7 +119,7 @@ Baluarte de San Diego sits on Sta. Lucia St., inside the walled city of Intramur
 
 It's open daily, 8am to 5pm, no exceptions across the week.
 
-Go right at opening. The measured quiet windows are 8am–9am on weekdays and 8am–10am on weekends, low humidity, soft morning light on the stone, and you'll likely have the amphitheater floor to yourself.
+Go right at opening. The forecast quiet windows are 8am–9am on weekdays and 8am–10am on weekends, low humidity, soft morning light on the stone, and you'll likely have the amphitheater floor to yourself.
 
 Weekend afternoons are the opposite experience. Between 1pm and 5pm on Saturdays and Sundays, tour groups and families fill the walkways, so if you're set on unhurried photos, avoid that window.
 
@@ -129,7 +129,7 @@ Manila's dry season, roughly November through April, is more comfortable for the
 
 Because it's still under-the-radar relative to Fort Santiago next door, you can treat it as a genuine breather rather than a checklist stop.
 
-- Arrive at opening on a weekday if you can, 8–9am is the calmest window measured here, and the light is best for photos
+- Arrive at opening on a weekday if you can, 8–9am is the forecast's calmest window here, and the light is best for photos
 - Wear shoes with grip; the stone ramps and stairs are worn smooth and get slick after rain
 - Bring small bills for the entrance fee, as ticket booths at Intramuros sites are typically cash-based
 - Skip the elevator-less upper tiers if you have mobility concerns, the descent into the fort floor and climb back up involve uneven steps

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: orchard-road-din-tai-fung
-srcHash: 'a40206951721'
+srcHash: 'a85bb9e52d76'
 title: 'Din Tai Fung: dónde comer en Orchard Road (4.4★)'
 description: 'Esta sucursal de Din Tai Fung está en el sótano del centro comercial Paragon, en 290 Orchard Road, abierta todos los días de 11am a 9pm (9:15pm vie-sáb). 4.4★ (2,059 reseñas): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: 'Esta sucursal de Din Tai Fung está en el sótano del centro comercial Paragon, en 290 Orchard Road, abierta todos los días de 11am a 9pm (9:15pm vie-sáb). Ven por los xiao long bao, con su masa finísima y sus pliegues exactos, no por una comida tranquila: es cuando más gente hay entre las 12pm y las 7pm los fines de semana. Apunta a las 8-9pm en día de semana, cuando el comedor realmente se vacía.'
@@ -9,7 +9,7 @@ faq:
   - q: ¿Necesito reserva?
     a: 'No: esta sucursal funciona con un sistema de cola sin cita previa, con buzzer o llamado por número. No hay reserva telefónica para mesas estándar.'
   - q: ¿Cuál es el momento más tranquilo para ir?
-    a: Entre semana, de 8pm a 9pm, justo antes del cierre, es la franja más tranquila comprobada. Los fines de semana el flujo de gente se mantiene bastante constante todo el día.
+    a: Entre semana, de 8pm a 9pm, justo antes del cierre, es la franja más tranquila prevista. Los fines de semana el flujo de gente se mantiene bastante constante todo el día.
   - q: ¿Qué horario debo evitar los fines de semana?
     a: 'Evita el mediodía a las 7pm los sábados y domingos: es el tramo con más gente y las colas más largas.'
   - q: ¿Cómo llego en MRT?
@@ -46,7 +46,7 @@ Moja los dumplings ligeramente en el vinagre negro con jengibre que te dan, en l
 
 El horario es de 11am a 9pm la mayoría de los días, y se extiende hasta las 9:15pm los viernes y sábados. No es un lugar con horas muertas: los fines de semana se mantiene concurrido desde la apertura hasta el cierre.
 
-El momento más tranquilo comprobado es de 8pm a 9pm entre semana, justo antes de que la cocina empiece a cerrar. Los fines de semana el flujo es más constante durante todo el día, pero evita el mediodía a las 7pm los sábados y domingos, cuando las colas se extienden más allá del mostrador de recepción y el tráfico del centro comercial alcanza su punto máximo alrededor.
+El momento más tranquilo previsto es de 8pm a 9pm entre semana, justo antes de que la cocina empiece a cerrar. Los fines de semana el flujo es más constante durante todo el día, pero evita el mediodía a las 7pm los sábados y domingos, cuando las colas se extienden más allá del mostrador de recepción y el tráfico del centro comercial alcanza su punto máximo alrededor.
 
 Si solo puedes ir a la hora del almuerzo, llega justo a las 11am. Le ganarás a la primera ola de compradores y trabajadores de oficina por minutos, no por horas.
 

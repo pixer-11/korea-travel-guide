@@ -1,10 +1,10 @@
 ---
 lang: zh
 slug: gold-coast-burleigh-head-national-park
-srcHash: '1ad4ae021895'
+srcHash: 'a6409c0ab599'
 title: 伯利角国家公园（Burleigh Head National Park）：黄金海岸旅行指南（4.8★）
 description: 伯利角国家公园坐落在黄金海岸伯利海滩（Burleigh Heads）南端的岬角上，可经古德温街（Goodwin Terrace）进入。评分4.8★（4,008条评价），本文汇总游客评价、开放时间和实用建议。
-quickAnswer: 伯利角国家公园坐落在黄金海岸伯利海滩南端的岬角上，可经古德温街（Goodwin Terrace）进入。公园24小时开放，但周末8am–7pm游人很多，建议挑工作日前往。据统计，工作日9pm–11pm最为清静，不过这个时段只适合短途散步，不适合走完整条步道。
+quickAnswer: 伯利角国家公园坐落在黄金海岸伯利海滩南端的岬角上，可经古德温街（Goodwin Terrace）进入。公园24小时开放，但周末8am–7pm游人很多，建议挑工作日前往。据预测，工作日9pm–11pm最为清静，不过这个时段只适合短途散步，不适合走完整条步道。
 faq:
   - q: 什么时候去伯利角国家公园人最少？
     a: 工作日9pm–11pm最清静。周末8am–7pm人多拥挤，所以想走完整条步道，最好安排在工作日白天。

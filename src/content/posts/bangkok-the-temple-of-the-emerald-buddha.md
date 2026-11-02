@@ -56,7 +56,7 @@ tags:
 quickAnswer: >-
   Wat Phra Kaew, inside the Grand Palace complex in Bangkok's Rattanakosin
   Island old town, is open daily 8:30am–3:30pm and is best tackled right at
-  opening. Arrive between 8:30am and 9:30am — the measured quietest window on
+  opening. Arrive between 8:30am and 9:30am — the forecast's quietest window on
   both weekdays and weekends — because by 10am to noon on weekends tour buses
   stack up and the ticket queue snakes along Na Phra Lan Road. Budget two to
   three hours, dress with shoulders and knees covered, and go by river ferry to

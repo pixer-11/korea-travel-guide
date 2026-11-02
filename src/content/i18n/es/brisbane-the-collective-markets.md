@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: brisbane-the-collective-markets
-srcHash: 'a9ae6c8fabfb'
+srcHash: '40f46e58b022'
 title: 'The Collective Markets: guía de viaje de Brisbane (4.2★)'
 description: En Little Stanley Street, en pleno South Bank (South Brisbane), The Collective Markets reúne artesanía, joyería, arte, decoración y ropa de creadores locales el viernes de 5–9pm, el sábado de 10am–9pm y el domingo de 9am–4pm. Con 4.2★ (1,270 reseñas), aquí encontrará la opinión de los visitantes, los horarios y consejos prácticos.
 quickAnswer: The Collective Markets ocupa Little Stanley Street, en South Bank (South Brisbane). Allí se venden artesanía, joyería, arte, artículos para el hogar y ropa de fabricación local el viernes de 5–9pm, el sábado de 10am–9pm y el domingo de 9am–4pm. De lunes a jueves permanece cerrado. Como las sesiones del sábado y del domingo suelen estar concurridas de principio a fin, la tarde del viernes es la única que escapa a esa afluencia.
@@ -9,7 +9,7 @@ faq:
   - q: ¿Qué horario tiene The Collective Markets?
     a: Abre el viernes de 5:00–9:00pm, el sábado de 10:00am–9:00pm y el domingo de 9:00am–4:00pm. De lunes a jueves está cerrado. En torno a los días festivos el horario puede variar, así que conviene consultar los canales oficiales del mercado antes de desplazarse expresamente.
   - q: ¿Cuál es el momento más tranquilo para ir?
-    a: No se ha registrado ninguna franja tranquila durante el fin de semana. Las sesiones del sábado y del domingo suelen estar concurridas de principio a fin. La tarde del viernes, de 5–9pm, es la única sesión que escapa a ese pico, de modo que es la mejor opción si quiere curiosear con holgura.
+    a: La previsión no muestra ninguna franja tranquila durante el fin de semana. Las sesiones del sábado y del domingo suelen estar concurridas de principio a fin. La tarde del viernes, de 5–9pm, es la única sesión que escapa a ese pico, de modo que es la mejor opción si quiere curiosear con holgura.
   - q: ¿Cómo se llega a The Collective Markets?
     a: El mercado se encuentra en Little Stanley Street, en South Bank (South Brisbane). A pie, puede cruzar el puente Victoria (Victoria Bridge) desde Queen Street o el puente Goodwill (Goodwill Bridge) desde el Jardín Botánico. También tiene la opción de tomar el tren hasta las estaciones de South Bank o South Brisbane, el autobús hasta la estación Cultural Centre de la red de carriles bus, o bien uno de los ferris fluviales hasta South Bank.
   - q: ¿Cuánto tiempo conviene dedicarle?

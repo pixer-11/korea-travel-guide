@@ -52,7 +52,7 @@ faq:
   - q: "What days is Eumundi Markets open?"
     a: "It currently trades on Wednesday and Saturday, 7:30am–2pm, and is closed the other five days. Check the official site before going, as holidays can change the schedule."
   - q: "When is the quietest time to visit?"
-    a: "No quiet window has been measured. Saturday is busiest from 8am to 2pm, so on that day arrive at 7:30am opening. Wednesday is the alternative if your dates are flexible."
+    a: "The forecast shows no quiet window. Saturday is busiest from 8am to 2pm, so on that day arrive at 7:30am opening. Wednesday is the alternative if your dates are flexible."
   - q: "How do I get to Eumundi Markets from Noosa?"
     a: "Drive inland about 20 minutes to Eumundi, just off the Bruce Highway. Paid parking surrounds the site on market days. Eumundi also has a train station, but services are infrequent."
   - q: "How long should I spend at the market?"

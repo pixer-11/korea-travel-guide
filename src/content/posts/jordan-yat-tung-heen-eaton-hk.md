@@ -122,7 +122,7 @@ Walk into the lobby and head down to Level B2. Staff at the door can point you t
 
 Lunch runs 11am to 4pm on weekdays, and opens an hour earlier, 10am, on Saturdays and Sundays. Dinner service is 6pm to 10:30pm every day.
 
-Weekend crowds build fast: the busiest stretch runs from noon straight through to 10pm, so a walk-in during that window usually means a wait. The measured quiet spot is 10am to 11am on weekends, right after opening, when tables are still empty and the tea hasn't gone cold twice yet.
+Weekend crowds build fast: the busiest stretch runs from noon straight through to 10pm, so a walk-in during that window usually means a wait. The forecast quiet spot is 10am to 11am on weekends, right after opening, when tables are still empty and the tea hasn't gone cold twice yet.
 
 If you're set on a specific dim sum item, weekday lunch is calmer than any weekend seating.
 

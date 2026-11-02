@@ -90,11 +90,11 @@ Because it's unstaffed and gateless in the way a ticketed attraction would be, t
 
 ## When to go if you want the animals to yourself
 
-The park logs its quietest stretch on weekend mornings between 7am and 9am, before the day-trippers from Annecy make the drive up.
+The forecast puts the park's quietest stretch on weekend mornings between 7am and 9am, before the day-trippers from Annecy make the drive up.
 
 Weekend crowds build steadily and peak between 11am and 5pm, when family groups and picnicking parties fill the grassy areas near the paddocks. If you're visiting on a Saturday or Sunday, an early arrival genuinely changes the experience: animals are more active in the cool morning air, and you won't be sharing the fence line with a dozen other visitors trying to get a photo of the same ibex.
 
-Weekdays don't have the same measured pattern, but logic still applies: term-time mornings tend to be thinner than a sunny weekend afternoon.
+Weekdays don't show the same pattern in the forecast, but logic still applies: term-time mornings tend to be thinner than a sunny weekend afternoon.
 
 ## The picnic ritual on the hillside
 

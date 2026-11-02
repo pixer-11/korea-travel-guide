@@ -85,7 +85,7 @@ faq:
       waterfront promenade, or grab a meal on-site.
   - q: What's the quietest time to visit?
     a: >-
-      On weekends, 10am to noon is the calmest window based on measured foot
+      On weekends, 10am to noon is the calmest window based on typical foot
       traffic. Weekend crowds build steadily and stay heavy from opening until
       around 7pm, so arriving right at 10am is your best bet.
   - q: Is Louvre Abu Dhabi closed any days?

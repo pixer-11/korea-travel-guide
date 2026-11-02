@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: new-delhi-shri-laxmi-narayan-temple-birla-mandir
-srcHash: 'b3715e734d3a'
+srcHash: 'de5716f519c7'
 title: 'Templo Shri Laxmi Narayan (Birla Mandir): guía de viaje de Nueva Delhi'
 description: 'El Birla Mandir (templo Shri Laxmi Narayan) se encuentra en Mandir Marg, cerca de Gole Market, y abre a diario de 4:30 a 21:00 h, con un descanso al mediodía de 13:30 a 14:30 h. 4,6★ (18.038 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Birla Mandir (templo Shri Laxmi Narayan) se encuentra en Mandir Marg, cerca de Gole Market, y abre a diario de 4:30 a 21:00 h, con un descanso al mediodía de 13:30 a 14:30 h. El momento más tranquilo es entre semana por la mañana, de 7 a 9 h; los fines de semana, en cambio, hay mucho movimiento desde las 10 h hasta el cierre, así que conviene empezar temprano. Calcule entre 45 y 60 minutos de visita, use calzado fácil de quitar y tenga en cuenta que deberá dejarlo en un mostrador gratuito cerca de la entrada.
@@ -45,7 +45,7 @@ Connaught Place queda a unos 2 km al este, por lo que muchos visitantes incluyen
 
 El templo abre a diario a las 4:30 h y cierra a las 21:00 h, con un descanso al mediodía de 13:30 a 14:30 h; conviene planificar la visita teniendo en cuenta ese intervalo, ya que las puertas realmente se cierran en ese momento.
 
-Las mañanas entre semana, de 7 a 9 h, son el período más tranquilo registrado, con luz suave sobre la arenisca y mucha menos gente circulando. Los fines de semana la situación cambia por completo: la afluencia aumenta a partir de las 10 h y se mantiene alta hasta el cierre, de modo que llegar temprano importa aquí más que en casi cualquier otro lugar de Delhi.
+Las mañanas entre semana, de 7 a 9 h, son el período más tranquilo según la previsión, con luz suave sobre la arenisca y mucha menos gente circulando. Los fines de semana la situación cambia por completo: la afluencia aumenta a partir de las 10 h y se mantiene alta hasta el cierre, de modo que llegar temprano importa aquí más que en casi cualquier otro lugar de Delhi.
 
 Las grandes festividades hindúes, en especial Janmashtami y Diwali, atraen multitudes y suman decoración adicional y actividad nocturna: son momentos llenos de ambiente, pero no los más indicados para un paseo tranquilo.
 

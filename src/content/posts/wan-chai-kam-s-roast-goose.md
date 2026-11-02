@@ -92,7 +92,7 @@ The restaurant is open daily from 11:30am to 9:30pm, with no midday closure, so 
 
 This is a very popular, well-reviewed spot, so expect a wait at peak hours regardless of day. Weekday lunch (12pm–2pm) and early weekend dinner tend to be the busiest stretches.
 
-On weekends, the calmest window measured runs from noon through 9pm, steadier than the sharp lunch spike you'd expect. Arriving right at 11:30am opening, or after 2:30pm on weekdays, generally means less standing around.
+On weekends, the calmest window in the forecast runs from noon through 9pm, steadier than the sharp lunch spike you'd expect. Arriving right at 11:30am opening, or after 2:30pm on weekdays, generally means less standing around.
 
 ## How to visit like a local
 

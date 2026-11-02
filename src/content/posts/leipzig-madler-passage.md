@@ -57,7 +57,7 @@ tags:
 quickAnswer: "Mädler-Passage is Leipzig's grandest covered shopping arcade, running from Grimmaische Straße to Neumarkt in the old town, with Auerbachs Keller from Goethe's Faust in its basement. The shops currently open 10am–7pm on weekdays and 10am–6pm on Saturdays, and they close on Sundays. Saturdays between 11am and 6pm are the busiest time, so come on a weekday if you can."
 faq:
   - q: "When is the quietest time to visit Mädler-Passage?"
-    a: "No measured quiet window is available. The data does show that Saturdays from 11am to 6pm are the busiest, so a weekday visit soon after the 10am opening is the safer bet."
+    a: "The forecast shows no quiet window. The data does show that Saturdays from 11am to 6pm are the busiest, so a weekday visit soon after the 10am opening is the safer bet."
   - q: "What are the opening hours?"
     a: "At the moment the shops open 10am–7pm Monday to Friday and 10am–6pm on Saturdays. The passage is closed on Sundays. Auerbachs Keller keeps its own hours, so check its website."
   - q: "How do I get to Mädler-Passage?"

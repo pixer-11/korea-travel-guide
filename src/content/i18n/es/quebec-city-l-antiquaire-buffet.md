@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: quebec-city-l-antiquaire-buffet
-srcHash: '073e71c15621'
+srcHash: '4b757b60a2d8'
 title: 'L''Antiquaire Buffet: dónde comer en la ciudad de Quebec (4.5★)'
 description: En el 95 Rue Saint-Paul, en la Ciudad Baja de Quebec y junto al Puerto Viejo, L'Antiquaire Buffet es un veterano restaurante de comida casera que sirve platos abundantes de cocina canadiense clásica y desayunos a cualquier hora. Con 4.5★ (3,892 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
 quickAnswer: En el 95 Rue Saint-Paul, en la Ciudad Baja (Basse-Ville) de Quebec y a un paso del Puerto Viejo, L'Antiquaire Buffet lleva muchos años sirviendo platos abundantes de cocina canadiense clásica y desayunos durante toda la jornada. Actualmente abre todos los días de 6am–9pm. La forma más sencilla de conseguir mesa sin esperar es ir a desayunar temprano, antes de que el casco antiguo se llene de gente.
@@ -62,7 +62,7 @@ La propina sigue la costumbre canadiense: con servicio de mesa, lo habitual es d
 
 Por ahora abre a las 6am y cierra a las 9pm, los siete días de la semana, un horario de apertura insólitamente temprano para el Puerto Viejo. Como puede cambiar, compruébelo antes de madrugar.
 
-No existen datos medidos sobre la afluencia a este local, así que guíese por la lógica. A lo largo de la mañana, la Ciudad Baja se va llenando de grupos de visitas a pie, excursionistas de un día y, en temporada de cruceros, pasajeros que bajan hacia Place Royale y Petit-Champlain. Si llega antes de esa oleada, lo normal es no tener que esperar. Donde más probabilidades hay de hacer cola es en el horario de brunch del fin de semana.
+No existe una previsión de afluencia para este local, así que guíese por la lógica. A lo largo de la mañana, la Ciudad Baja se va llenando de grupos de visitas a pie, excursionistas de un día y, en temporada de cruceros, pasajeros que bajan hacia Place Royale y Petit-Champlain. Si llega antes de esa oleada, lo normal es no tener que esperar. Donde más probabilidades hay de hacer cola es en el horario de brunch del fin de semana.
 
 La otra buena opción es ir tarde. A las 8pm sigue sirviendo, cuando muchas de las cafeterías diurnas de los alrededores ya han cerrado, por lo que un desayuno a modo de cena es una última parada cómoda antes de volver cuesta arriba.
 

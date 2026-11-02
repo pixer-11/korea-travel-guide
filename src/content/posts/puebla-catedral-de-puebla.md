@@ -109,7 +109,7 @@ Nobody asks you to believe it. But it explains the angel imagery you will find a
 
 ## Timing your visit around the crowds
 
-Our typical foot-traffic data is unusually clear here. The quietest windows run from 7am–8am and 8pm–11pm on weekdays and on weekends. That covers essentially the whole day, so the real deciding factor is which day you choose.
+The foot-traffic forecast is unusually clear here. The quietest windows run from 7am–8am and 8pm–11pm on weekdays and on weekends. That covers essentially the whole day, so the real deciding factor is which day you choose.
 
 Weekends are the problem. From 8am–8pm on Saturdays and Sundays, the cathedral is at its busiest, with families, tour groups and Mass-goers all in the nave together. If you only have a weekend, try to avoid the middle of that window. A weekday visit gives you the chapels with far fewer people in your sightline.
 

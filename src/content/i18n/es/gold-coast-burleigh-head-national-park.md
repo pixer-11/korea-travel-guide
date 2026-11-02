@@ -1,10 +1,10 @@
 ---
 lang: es
 slug: gold-coast-burleigh-head-national-park
-srcHash: '1ad4ae021895'
+srcHash: 'a6409c0ab599'
 title: 'Parque Nacional Burleigh Head: guía de viaje de la Gold Coast (4.8★)'
 description: En el promontorio que cierra por el sur Burleigh Heads, en la Gold Coast, se encuentra el Parque Nacional Burleigh Head, con acceso desde Goodwin Terrace. Tiene una valoración de 4.8★ (4,008 reseñas). Aquí encontrará las opiniones de los visitantes, los horarios y algunos consejos.
-quickAnswer: El Parque Nacional Burleigh Head ocupa el promontorio del extremo sur de Burleigh Heads, en la Gold Coast, y se accede a él desde Goodwin Terrace. Abre las 24 horas, pero los fines de semana hay mucha gente entre las 8am–7pm, así que es mejor elegir un día laborable. La franja más tranquila registrada es la de 9pm–11pm entre semana, más adecuada para un paseo corto que para el recorrido completo.
+quickAnswer: El Parque Nacional Burleigh Head ocupa el promontorio del extremo sur de Burleigh Heads, en la Gold Coast, y se accede a él desde Goodwin Terrace. Abre las 24 horas, pero los fines de semana hay mucha gente entre las 8am–7pm, así que es mejor elegir un día laborable. La franja más tranquila prevista es la de 9pm–11pm entre semana, más adecuada para un paseo corto que para el recorrido completo.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Parque Nacional Burleigh Head?
     a: Entre semana, la franja más tranquila es la de 9pm–11pm. Los fines de semana hay mucha gente entre las 8am–7pm, por lo que para hacer el recorrido completo lo más práctico es ir de día en un día laborable.

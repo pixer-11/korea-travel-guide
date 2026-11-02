@@ -56,7 +56,7 @@ faq:
   - q: "Where is the Buffalo Nations Museum in Banff?"
     a: "It's at 1 Birch Ave, just over the Bow River Bridge from the south end of Banff Avenue. It's about a five-minute walk from downtown."
   - q: "When is the quietest time to visit?"
-    a: "Weekends are busy for the whole 11am–5pm opening, so aim for a weekday. Nobody has measured a quiet weekend hour."
+    a: "Weekends are busy for the whole 11am–5pm opening, so aim for a weekday. The forecast has no quiet weekend hour."
   - q: "What are the opening hours?"
     a: "At the moment it opens 11am–5pm daily. Hours change with the season, so confirm on the official site before you go."
   - q: "How long should I spend there?"

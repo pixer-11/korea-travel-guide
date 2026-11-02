@@ -72,7 +72,7 @@ quickAnswer: >-
 faq:
   - q: When is the quietest time to visit Birmingham Museum & Art Gallery?
     a: >-
-      There's no measured quiet window, but weekends are busiest from 11am to
+      The forecast shows no quiet window, but weekends are busiest from 11am to
       5pm. On a Saturday or Sunday, arrive when the doors open at 10am to see
       the Staffordshire Hoard before the crowds build.
   - q: Is Birmingham Museum & Art Gallery open on Mondays?

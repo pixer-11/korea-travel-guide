@@ -134,7 +134,7 @@ The garden is closed on Mondays. Don't plan a long weekend that ends with a Mond
 
 Like most parks and gardens, the hours can change through the year and on public holidays. Check the City of Buenos Aires official site for this month's schedule before you go.
 
-On weekends, aim for 10am–11am, which is the quietest window. Try not to arrive between 2pm and 6pm on Saturday or Sunday. By then families and strollers have filled the main paths and the greenhouse gets crowded. Weekday mornings after the 8am opening are a sensible bet too. They follow the city's work rhythm rather than measured data.
+On weekends, aim for 10am–11am, which is the quietest window. Try not to arrive between 2pm and 6pm on Saturday or Sunday. By then families and strollers have filled the main paths and the greenhouse gets crowded. Weekday mornings after the 8am opening are a sensible bet too. They follow the city's work rhythm rather than the forecast.
 
 ## Walking it the porteño way
 

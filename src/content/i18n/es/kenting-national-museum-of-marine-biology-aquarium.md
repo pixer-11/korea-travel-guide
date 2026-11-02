@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kenting-national-museum-of-marine-biology-aquarium
-srcHash: '938353b07138'
+srcHash: '68ffa9fd790a'
 title: 'Museo Nacional de Biología Marina y Acuario: guía de viaje de Kenting'
 description: 'El Museo Nacional de Biología Marina y Acuario se encuentra en el distrito de Checheng, a unos 20 minutos en coche al norte de la localidad de Kenting, y abre todos los días de 9:00 a 18:00. 4,6★ (45.665 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo Nacional de Biología Marina y Acuario se encuentra en el distrito de Checheng, a unos 20 minutos en coche al norte de la localidad de Kenting, y abre todos los días de 9:00 a 18:00. Conviene reservar medio día para ver con calma el tanque de arrecife de coral, el túnel transitable y las exhibiciones polares con pingüinos. Para evitar lo peor de la aglomeración de fin de semana, que alcanza su punto máximo entre las 11:00 y las 17:00, lo mejor es llegar justo a las 9:00 o después de las 17:00.
@@ -56,7 +56,7 @@ Las vacaciones de verano (julio y agosto) y el Año Nuevo Chino traen el mayor v
 
 Se trata de una institución genuinamente popular y bien valorada, no de un hallazgo tranquilo, así que la estrategia inteligente pasa por calcular bien el horario y no por esperar encontrar las salas vacías.
 
-- Llegar a la apertura (9:00) o después de las 16:00: tanto entre semana como en fin de semana la afluencia disminuye notablemente en esas franjas, según los patrones de visita registrados
+- Llegar a la apertura (9:00) o después de las 16:00: tanto entre semana como en fin de semana la afluencia disminuye notablemente en esas franjas, según los patrones de visita previstos
 - Evitar específicamente el horario de 11:00 a 17:00 los fines de semana, cuando el túnel y las zonas de piscinas táctiles se saturan más
 - Comprar las entradas en línea con antelación durante la temporada alta para evitar la cola en taquilla
 - Llevar una capa ligera de abrigo, ya que el pabellón de Mares Fríos y Polares se mantiene notablemente más frío que los pabellones tropicales

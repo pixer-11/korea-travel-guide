@@ -116,7 +116,7 @@ There's no entry fee, but the gates do control access, so you can't just wander 
 
 Subhash Bose Park is a very popular spot, not a quiet secret, and weekends make that obvious. The busiest window is 2pm to 8pm on Saturdays and Sundays, when the evening opening slot fills with families, couples, and groups treating it as the default outdoor hangout for that stretch of Marine Drive.
 
-If you want breathing room, target the Sunday 11am-2pm window specifically. It's the calmest stretch measured across the week, mostly because it falls before the evening rush and after the early-morning walking crowd has cleared out.
+If you want breathing room, target the Sunday 11am-2pm window specifically. It's the calmest stretch of the week in the forecast, mostly because it falls before the evening rush and after the early-morning walking crowd has cleared out.
 
 Weekday mornings, 6-9am, have their own rhythm: regular walkers and joggers rather than families, brisk rather than lounging. If you just want a peaceful lap with a view, that slot beats any weekend evening by a wide margin.
 

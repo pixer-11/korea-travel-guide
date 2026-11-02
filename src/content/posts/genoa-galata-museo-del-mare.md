@@ -77,7 +77,7 @@ faq:
   - q: When is the quietest time to visit?
     a: >-
       Weekdays are calm across the full 10am–7pm opening window. On weekends,
-      avoid arriving between 12pm and 6pm, the measured busiest stretch; go
+      avoid arriving between 12pm and 6pm, the busiest stretch in the forecast; go
       right at 10am opening or after 6pm instead.
   - q: Do I need a separate ticket for the submarine?
     a: >-

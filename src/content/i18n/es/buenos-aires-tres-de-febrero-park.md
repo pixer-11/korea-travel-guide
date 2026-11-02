@@ -1,13 +1,13 @@
 ---
 lang: es
 slug: buenos-aires-tres-de-febrero-park
-srcHash: 'eec3d508d79a'
+srcHash: 'd90726beaadf'
 title: 'Parque Tres de Febrero: guía de viaje de Buenos Aires (4.7★)'
 description: En pleno barrio de Palermo, el Parque Tres de Febrero, conocido popularmente como los Bosques de Palermo, es el mayor parque paisajístico de Buenos Aires. Con una valoración de 4.7★ (40,213 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
 quickAnswer: Conocido popularmente como los Bosques de Palermo, el Parque Tres de Febrero es el mayor parque paisajístico de Buenos Aires y se encuentra en el barrio de Palermo. Entre sus atractivos figuran unos lagos con botes a pedal, el jardín de rosas del Rosedal y el Planetario Galileo Galilei. Según Google, actualmente cierra los lunes y abre de martes a domingo de 8am–8pm. Como los fines de semana se llena de 1pm–8pm, conviene ir entre semana o, si va en sábado o domingo, antes de la 1pm.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Parque Tres de Febrero?
-    a: La mayor afluencia registrada se da los fines de semana de 1pm–8pm, así que conviene evitar esa franja. Entre semana, o un sábado o domingo por la mañana poco después de la apertura de las 8am, el ambiente es mucho más tranquilo.
+    a: La mayor afluencia prevista se da los fines de semana de 1pm–8pm, así que conviene evitar esa franja. Entre semana, o un sábado o domingo por la mañana poco después de la apertura de las 8am, el ambiente es mucho más tranquilo.
   - q: ¿Abre el parque los lunes?
     a: Por ahora Google indica que los lunes permanece cerrado. De martes a domingo figura un horario de 8am–8pm. Como varía según la temporada, consulte la web del Gobierno de la Ciudad antes de ir.
   - q: ¿Cómo se llega al Parque Tres de Febrero en Subte?

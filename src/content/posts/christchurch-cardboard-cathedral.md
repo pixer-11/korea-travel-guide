@@ -118,7 +118,7 @@ Weekend crowds follow a clear pattern:
 
 - **Quietest:** 1pm–4pm on weekends. On Sunday that window ends at the 3pm close.
 - **Busiest:** 9am–1pm on weekends. Sunday worship falls in this window, so expect pews in use.
-- **Weekdays:** no measured data, so arrive with time to spare.
+- **Weekdays:** no forecast data, so arrive with time to spare.
 
 Thirty to forty-five minutes covers the interior, the glass and a slow look at the frame. Stay longer if a recital or organ practice is under way.
 

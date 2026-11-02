@@ -137,7 +137,7 @@ If you want a full day on this period of history, pair the Memorium with the Doc
 
 ## Timing your visit around the crowds
 
-This is one of Nuremberg's most visited historic sites, so plan around the crowds. Weekends from 11am to 5pm are the measured busy period. That is when the courtroom fills with groups and the exhibition panels have people three deep in front of them.
+This is one of Nuremberg's most visited historic sites, so plan around the crowds. Weekends from 11am to 5pm are the forecast busy period. That is when the courtroom fills with groups and the exhibition panels have people three deep in front of them.
 
 - **Weekdays:** doors open at 9am on Monday, Wednesday, Thursday and Friday.
 - **Weekends:** doors open at 10am, so arriving at opening gets you in ahead of the busy window.

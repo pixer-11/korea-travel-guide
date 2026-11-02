@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: christchurch-christchurch-tram
-srcHash: 'a313bf1a12e6'
+srcHash: '0a9723cee39b'
 title: 'Tranvía de Christchurch: guía de viaje (4.6★)'
 description: El tranvía histórico de Christchurch (Christchurch Tram) recorre en circuito el centro de la ciudad con comentarios en directo. Se puede subir en paradas como la de 109 Worcester Street y bajar y volver a subir libremente entre lugares emblemáticos como Cathedral Square, New Regent Street o el Arts Centre. Con una valoración de 4.6★ (2,318 reseñas), aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
 quickAnswer: El tranvía histórico de Christchurch (Christchurch Tram) recorre en circuito el centro de la ciudad con comentarios en directo. Se puede subir en paradas como la de 109 Worcester Street y bajar y volver a subir libremente entre lugares emblemáticos como Cathedral Square, New Regent Street o el Arts Centre. Actualmente funciona de 8:30am–6:30pm. La franja más tranquila es de 5pm–6pm, tanto entre semana como el fin de semana. Si quiere asegurarse un asiento junto a la ventanilla, evite los fines de semana de 10am–5pm.
@@ -44,7 +44,7 @@ Como los raíles discurren justo por el centro, el tranvía se desliza entre las
 
 ## Aprovechar la calma de 5pm–6pm
 
-Pocas cosas influyen tanto en la experiencia como la hora elegida. Según las mediciones, la franja más tranquila es la de 5pm–6pm, igual entre semana que en fin de semana. A esa hora resulta más fácil encontrar asiento y la luz del atardecer baña Worcester Boulevard.
+Pocas cosas influyen tanto en la experiencia como la hora elegida. Según la previsión, la franja más tranquila es la de 5pm–6pm, igual entre semana que en fin de semana. A esa hora resulta más fácil encontrar asiento y la luz del atardecer baña Worcester Boulevard.
 
 Procure no subir los fines de semana entre las 10am y las 5pm. Es el periodo de mayor afluencia: los vagones se llenan y quizá acabe de pie en la parte trasera, lejos de los comentarios. Si la tarde no le viene bien, las mañanas de los días laborables son una alternativa razonable.
 

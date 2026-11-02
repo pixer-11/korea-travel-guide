@@ -54,7 +54,7 @@ tags:
 quickAnswer: "Tres de Febrero Park, better known as the Bosques de Palermo, is Buenos Aires' largest landscaped park, in the Palermo neighbourhood. It has lakes with paddle boats, the Rosedal rose garden and the Galileo Galilei Planetarium. Google currently lists it as closed on Monday and open 8am–8pm Tuesday to Sunday. Weekends are packed from 1pm–8pm, so go on a weekday or before 1pm at the weekend."
 faq:
   - q: "When is the quietest time to visit Tres de Febrero Park?"
-    a: "The measured peak is weekends from 1pm–8pm, so avoid those hours. Weekdays, or a weekend morning soon after the 8am opening, are much calmer."
+    a: "The forecast peak is weekends from 1pm–8pm, so avoid those hours. Weekdays, or a weekend morning soon after the 8am opening, are much calmer."
   - q: "Is the park open on Mondays?"
     a: "At the moment Google lists Monday as closed. Tuesday to Sunday it shows 8am–8pm. Hours change with the season, so check the city government site before going."
   - q: "How do I get to Tres de Febrero Park by Subte?"

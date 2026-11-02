@@ -60,7 +60,7 @@ faq:
   - q: "Where exactly is Jardín Hidalgo?"
     a: "It's on Guillermo Prieto in the Centro of San Pedro Tlaquepaque, about 7 km southeast of central Guadalajara. The Parroquia de San Pedro Apóstol and the Santuario de la Soledad stand on its edges, and El Parián is right next to it."
   - q: "When is the quietest time to visit?"
-    a: "Avoid weekends from 11am to 11pm, which is the measured busiest period. Weekdays, or weekend mornings before 11am, are your best bet for a calmer visit."
+    a: "Avoid weekends from 11am to 11pm, which is the busiest period in the forecast. Weekdays, or weekend mornings before 11am, are your best bet for a calmer visit."
   - q: "How do I get there by public transport?"
     a: "Take Line 3 of Guadalajara's light rail (SITEUR) to Tlaquepaque Centro station. From there it's a short walk to the square."
   - q: "Is Jardín Hidalgo open at night?"
@@ -97,7 +97,7 @@ Allow two to three hours if you plan to browse the shops and eat.
 
 ## Claiming a bench before the crowds
 
-The garden never closes, but crowds hit hard at fixed times. Weekends from 11am to 11pm are its busiest stretch. That's when the benches fill and the paths into El Parián get congested. Weekdays, or weekend mornings before 11am, are your best chance at a seat in the shade by the fountain. The only measured peak is that weekend block, so anything outside it should feel calmer.
+The garden never closes, but crowds hit hard at fixed times. Weekends from 11am to 11pm are its busiest stretch. That's when the benches fill and the paths into El Parián get congested. Weekdays, or weekend mornings before 11am, are your best chance at a seat in the shade by the fountain. The only peak in the forecast is that weekend block, so anything outside it should feel calmer.
 
 How it works on the ground:
 

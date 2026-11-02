@@ -1,13 +1,13 @@
 ---
 lang: es
 slug: sunshine-coast-kondalilla-national-park
-srcHash: '5c03946b0fb1'
+srcHash: '5f0d53f49f87'
 title: 'Parque Nacional Kondalilla: guía de viaje por la Sunshine Coast (4.7★)'
 description: En el interior de la Sunshine Coast, a pocos minutos de Montville, el Parque Nacional Kondalilla protege un bosque lluvioso en Flaxton. Con 4.7★ (1,747 reseñas), reunimos aquí opiniones de visitantes, horarios y consejos.
 quickAnswer: El Parque Nacional Kondalilla (Kondalilla National Park) protege un bosque lluvioso en Flaxton, en el interior de la Sunshine Coast y a pocos minutos de Montville. Sus senderos llevan hasta las cataratas Kondalilla y a una poza y unas piscinas naturales del arroyo Skene (Skene Creek). Los fines de semana hay mucha gente de 8am a 8pm, así que, si puede, vaya entre semana. Para completar el circuito de las cataratas, cuente con dos o tres horas.
 faq:
   - q: ¿Cuándo hay menos gente en el Parque Nacional Kondalilla?
-    a: 'No disponemos de mediciones que señalen una franja tranquila en este parque. Lo que sí indican los datos es que los fines de semana la mayor afluencia va de 8am a 8pm, de modo que sábados y domingos hay gente durante toda la jornada. Lo más recomendable es ir un día laborable fuera de las vacaciones escolares: será más fácil aparcar y encontrará las piscinas naturales más tranquilas.'
+    a: 'La previsión no señala ninguna franja tranquila en este parque. Lo que sí indica es que los fines de semana la mayor afluencia va de 8am a 8pm, de modo que sábados y domingos hay gente durante toda la jornada. Lo más recomendable es ir un día laborable fuera de las vacaciones escolares: será más fácil aparcar y encontrará las piscinas naturales más tranquilas.'
   - q: ¿Cuánto se tarda en recorrer el sendero de las cataratas Kondalilla?
     a: El circuito de las cataratas Kondalilla tiene unos 4.7 km. Se baja por escalones con mucha pendiente y luego hay que volver a subirlos. Cuente con dos o tres horas. Si busca algo más corto, tiene el sendero de las piscinas naturales (unos 2.1 km ida y vuelta) y el circuito de Picnic Creek (unos 1.7 km).
   - q: ¿Se puede nadar en las cataratas Kondalilla?
@@ -56,9 +56,9 @@ El verdadero cuello de botella es el aparcamiento, que no es grande. Los días d
 
 ## Cómo esquivar las multitudes del fin de semana en Kondalilla
 
-Los fines de semana hay gente a todas horas. Según nuestros datos de afluencia, el periodo de mayor actividad va de 8am a 8pm, es decir, todas las horas razonables para caminar. Si solo puede ir en sábado o domingo, asuma que compartirá los escalones con otros visitantes e intente conseguir sitio en el aparcamiento lo antes posible dentro de esa franja.
+Los fines de semana hay gente a todas horas. Según la previsión de afluencia, el periodo de mayor actividad va de 8am a 8pm, es decir, todas las horas razonables para caminar. Si solo puede ir en sábado o domingo, asuma que compartirá los escalones con otros visitantes e intente conseguir sitio en el aparcamiento lo antes posible dentro de esa franja.
 
-La solución más sencilla es ir entre semana. Aunque no tenemos mediciones de una franja tranquila, la lógica es clara: los grupos escolares y los excursionistas de un día se concentran en vacaciones escolares y los fines de semana. Fuera de esas fechas, una mañana de día laborable suele traducirse en menos espera para aparcar y en más espacio en las piscinas naturales.
+La solución más sencilla es ir entre semana. Aunque la previsión no muestra ninguna franja tranquila, la lógica es clara: los grupos escolares y los excursionistas de un día se concentran en vacaciones escolares y los fines de semana. Fuera de esas fechas, una mañana de día laborable suele traducirse en menos espera para aparcar y en más espacio en las piscinas naturales.
 
 Los habituales siguen algunas costumbres:
 

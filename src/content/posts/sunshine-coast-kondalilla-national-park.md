@@ -58,7 +58,7 @@ tags:
 quickAnswer: "Kondalilla National Park is a rainforest park at Flaxton in the Sunshine Coast hinterland, a few minutes from Montville. Its walking tracks lead to Kondalilla Falls, a swimming hole and rock pools on Skene Creek. Weekends are busy from 8am to 8pm, so come on a weekday if you can, and allow two to three hours for the full falls circuit."
 faq:
   - q: "When is the quietest time to visit Kondalilla National Park?"
-    a: "We don't have a measured quiet window for this park. What the data does show is that weekends are busiest from 8am to 8pm, so the whole weekend day is crowded. A weekday outside school holidays is your best bet for easier parking and quieter rock pools."
+    a: "The forecast shows no quiet window for this park. What it does show is that weekends are busiest from 8am to 8pm, so the whole weekend day is crowded. A weekday outside school holidays is your best bet for easier parking and quieter rock pools."
   - q: "How long does the Kondalilla Falls walk take?"
     a: "The Kondalilla Falls circuit is about 4.7 km with a steep descent on steps and a climb back out. Allow two to three hours. The rock pools walk (about 2.1 km return) and the Picnic Creek circuit (about 1.7 km) are shorter options."
   - q: "Can you swim at Kondalilla Falls?"
@@ -109,9 +109,9 @@ The car park is the real bottleneck. It isn't large, and on busy days cars queue
 
 ## Beating the weekend crowd at Kondalilla
 
-Weekends are full all day. Our foot-traffic data shows the busiest weekend period runs from 8am to 8pm, which covers every sensible hiking hour. If Saturday or Sunday is your only option, accept company on the steps and try for a car park space early in that window.
+Weekends are full all day. The foot-traffic forecast shows the busiest weekend period runs from 8am to 8pm, which covers every sensible hiking hour. If Saturday or Sunday is your only option, accept company on the steps and try for a car park space early in that window.
 
-A weekday is the simpler fix. With no measured quiet window to point to, the reasoning is simple: school groups and day trippers bunch up in school holidays and on weekends. Outside those times, a weekday morning usually means a shorter wait for parking and room at the rock pools.
+A weekday is the simpler fix. With no quiet window in the forecast to point to, the reasoning is simple: school groups and day trippers bunch up in school holidays and on weekends. Outside those times, a weekday morning usually means a shorter wait for parking and room at the rock pools.
 
 A few habits regulars stick to:
 

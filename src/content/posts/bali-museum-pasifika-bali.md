@@ -107,7 +107,7 @@ Kids tend to enjoy the variety of textures and objects here more than a typical 
 
 ## How to visit like a local
 
-Go right at opening on a weekend (10am–11am) or late afternoon on a weekday (5pm–6pm) for the emptiest rooms. Both are measured quiet windows, not guesses. Admission is normally paid at a ticket counter by cash or card; bring small rupiah notes just in case card machines are slow that day.
+Go right at opening on a weekend (10am–11am) or late afternoon on a weekday (5pm–6pm) for the emptiest rooms. Both are quiet windows in the forecast, not guesses. Admission is normally paid at a ticket counter by cash or card; bring small rupiah notes just in case card machines are slow that day.
 
 There's no strict dress code, but this is still a cultural institution. Leave beach cover-ups for the resort and wear something you'd wear into a temple. Photography is generally allowed without flash, so skip the tripod and be considerate of other visitors in smaller rooms.
 

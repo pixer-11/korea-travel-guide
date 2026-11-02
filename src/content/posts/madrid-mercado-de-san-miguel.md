@@ -123,7 +123,7 @@ Portions are deliberately small so you can work your way around several counters
 
 The market's own popularity is the main thing to plan around. This is one of the most-reviewed food markets in Spain, and on weekend afternoons and evenings the aisles between stalls fill shoulder to shoulder.
 
-The measured quiet spell is 10am to 11am, both on weekdays and weekends, right as the doors open. The measured rush runs from noon until the market closes, especially on weekends, covering lunch, the evening paseo, and most of the night.
+The forecast quiet spell is 10am to 11am, both on weekdays and weekends, right as the doors open. The forecast rush runs from noon until the market closes, especially on weekends, covering lunch, the evening paseo, and most of the night.
 
 If you want to actually see the stalls rather than shuffle past them, arriving within that first opening hour is the difference between a leisurely browse and a slow crawl through a crowd.
 

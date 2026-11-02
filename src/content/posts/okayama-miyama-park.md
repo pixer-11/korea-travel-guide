@@ -73,7 +73,7 @@ quickAnswer: >-
 faq:
   - q: When is the quietest time to visit Miyama Park?
     a: >-
-      Foot-traffic data puts the quietest times at 10pm–11pm on weekdays and
+      The foot-traffic forecast puts the quietest times at 10pm–11pm on weekdays and
       9pm–11pm on weekends. Weekends are busy from 8am to 5pm, so for a calm
       walk in daylight, go on a weekday.
   - q: How do I get to Miyama Park from Okayama city?
@@ -125,7 +125,7 @@ Most local visitors come by car. On busy weekends the car parks fill along with 
 
 The grounds are currently listed as open 24 hours. Typical foot traffic shows weekends stay busy from 8am to 5pm. On a Saturday or Sunday, that covers every daylight hour you'd want for walking.
 
-If you can, go on a weekday instead. The quietest measured windows come late:
+If you can, go on a weekday instead. The quietest windows in the forecast come late:
 
 - **Weekdays:** 10pm–11pm
 - **Weekends:** 9pm–11pm

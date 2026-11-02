@@ -102,7 +102,7 @@ Tipping follows the Canadian norm: around 15–20% on the pre-tax bill is standa
 
 Currently the doors open at 6am and close at 9pm, seven days a week. That's an unusually early start for the Old Port. Hours can change, so check the listing before an early run.
 
-There's no measured crowd data for this diner, so use the obvious pattern. Lower Town fills up through the morning as walking tours, day-trippers and, in cruise season, ship passengers come down to Place Royale and Petit-Champlain. A table before that wave usually means no wait. Weekend brunch hours are the likeliest time to queue.
+There's no crowd forecast for this diner, so use the obvious pattern. Lower Town fills up through the morning as walking tours, day-trippers and, in cruise season, ship passengers come down to Place Royale and Petit-Champlain. A table before that wave usually means no wait. Weekend brunch hours are the likeliest time to queue.
 
 Late is the other good option. It's still serving at 8pm, after many daytime cafés nearby have shut, so a breakfast-for-dinner plate makes an easy last stop before the walk back up the hill.
 

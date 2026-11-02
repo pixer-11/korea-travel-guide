@@ -109,7 +109,7 @@ The trail surface is packed dirt and root, shaded for long stretches but exposed
 
 ## When to go
 
-Early morning is the most comfortable time to walk, before the heat builds under the canopy. The measured crowd pattern backs this up: weekend visits stay lightest early in the morning, while the busiest stretch runs from mid-morning into the afternoon as day-trippers arrive.
+Early morning is the most comfortable time to walk, before the heat builds under the canopy. The crowd forecast backs this up: weekend visits stay lightest early in the morning, while the busiest stretch runs from mid-morning into the afternoon as day-trippers arrive.
 
 If you're coming on a weekend, aim for that quieter early window rather than mid-morning. On weekdays the park rarely feels crowded at all. It's still very much an under-the-radar stop compared to Kep's beach and crab market, so you're unlikely to be jostling for space on the trail regardless of when you go.
 

@@ -63,7 +63,7 @@ faq:
   - q: How do I get to The Grill Barcelona?
     a: Take the metro to Drassanes (L3), a two-minute walk down La Rambla toward the harbor, or walk from Barceloneta (L4), about 10–15 minutes along the waterfront.
   - q: When is the quietest time to visit?
-    a: Foot traffic is lowest across the general 10am–11pm window on both weekdays and weekends — avoid 1pm–8pm on Saturdays and Sundays, which is the measured busiest stretch.
+    a: Foot traffic is lowest across the general 10am–11pm window on both weekdays and weekends — avoid 1pm–8pm on Saturdays and Sundays, which is the busiest stretch in the forecast.
   - q: Do I need a reservation?
     a: It's not strictly required, but with a 4.8 rating and heavy weekend traffic, booking ahead or arriving right at the 10am opening is a safer bet than walking in during peak afternoon hours.
   - q: How much does a meal cost?
@@ -104,7 +104,7 @@ If you're coming from the beach side, Barceloneta station (L4) is a 10–15 minu
 
 The restaurant runs long hours daily, opening at 10am. It closes at 11pm Monday through Thursday and stretches to midnight Friday through Sunday.
 
-Weekends get busy fast, foot traffic here measures busiest between 1pm and 8pm on Saturdays and Sundays, exactly when cruise crowds and day-trippers pour off La Rambla. The quiet windows, both on weekdays and weekends, run through the 10am–11pm stretch outside that afternoon peak.
+Weekends get busy fast, foot traffic here is forecast to be busiest between 1pm and 8pm on Saturdays and Sundays, exactly when cruise crowds and day-trippers pour off La Rambla. The quiet windows, both on weekdays and weekends, run through the 10am–11pm stretch outside that afternoon peak.
 
 Practically, that means: come for a late breakfast or early lunch right at opening, or push dinner past 8pm once the plaza crowds thin out.
 

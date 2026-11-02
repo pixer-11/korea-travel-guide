@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: ulaanbaatar-national-museum-of-mongolia
-srcHash: '7024dc3f109c'
+srcHash: 'eb3f39b1ed1c'
 title: 蒙古国家博物馆：乌兰巴托旅行指南（4.4★）
 description: 蒙古国家博物馆位于乌兰巴托市中心的旅游者大街（Juulchin Street），距苏赫巴托尔广场西北角约一个街区。评分4.4★（1,693条评价），本文汇总游客评价、开放时间与参观贴士。
 quickAnswer: 蒙古国家博物馆坐落在乌兰巴托市中心的旅游者大街（Juulchin Street），从苏赫巴托尔广场西北角步行过去，大约只隔一个街区。馆内展陈从石器时代的工具讲起，依次介绍蒙古帝国、游牧生活，一直讲到1990年的民主革命。大多数游客会在馆内待1.5–2小时。目前开放时间为周二至周日9am–6pm，周一闭馆。周末从9am到6pm全天游客都不多。

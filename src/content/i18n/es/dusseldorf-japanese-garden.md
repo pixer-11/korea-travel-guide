@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: dusseldorf-japanese-garden
-srcHash: 'a1e7e632396e'
+srcHash: 'f9952b7e825a'
 title: 'Jardín Japonés de Düsseldorf: guía de viaje (4.4★)'
 description: 'En pleno Nordpark, dentro del distrito norte de Düsseldorf (Stadtbezirk 5), se encuentra el Jardín Japonés, en Kaiserswerther Str. Valoración de 4.4★ con 6,970 reseñas: opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Jardín Japonés (Japanischer Garten) de Düsseldorf ocupa un rincón del Nordpark, en el distrito norte de la ciudad (Stadtbezirk 5). Su dirección es Kaiserswerther Str. 380 y queda a pocos minutos a pie de la parada de metro (U-Bahn) Nordpark/Aquazoo, donde paran las líneas U78 y U79. Permanece abierto a todas horas, y recorrerlo con calma lleva entre 30 y 60 minutos. Conviene evitar los fines de semana entre las 11am y las 7pm, que es cuando más gente hay.
@@ -9,7 +9,7 @@ faq:
   - q: ¿Cómo se llega al Jardín Japonés de Düsseldorf?
     a: Tome la línea U78 o U79 del metro (U-Bahn) hasta Nordpark/Aquazoo y, desde allí, camine unos minutos hasta el interior del Nordpark. La dirección es Kaiserswerther Str. 380, 40474 Düsseldorf.
   - q: ¿Cuál es el momento más tranquilo para visitarlo?
-    a: 'Solo disponemos de datos medidos sobre la franja de mayor afluencia: los fines de semana, de 11am a 7pm. Conviene evitarla. En fin de semana, lo mejor es llegar antes de las 11am.'
+    a: 'Solo disponemos de datos de previsión sobre la franja de mayor afluencia: los fines de semana, de 11am a 7pm. Conviene evitarla. En fin de semana, lo mejor es llegar antes de las 11am.'
   - q: ¿Cuánto tiempo hay que dedicarle?
     a: Recorrer el jardín sin prisas lleva entre 30 y 60 minutos. Sume una o dos horas si quiere pasear también por el Nordpark o visitar el vecino Aquazoo Löbbecke Museum.
   - q: ¿Abre el jardín todos los días?
@@ -49,7 +49,7 @@ En otoño, los arces y demás especies de hoja caduca cambian de color frente a 
 
 Aquí hay un dato que importa: los fines de semana, la máxima afluencia se concentra entre las 11am y las 7pm. Durante buena parte del sábado y del domingo, por tanto, los estrechos senderos y los puentes se llenan, y le tocará esperar a que otros terminen sus fotos.
 
-Si solo puede ir en fin de semana, llegue antes de las 11am. Además, la luz temprana sobre el estanque favorece mucho más que el sol duro del mediodía. No disponemos de datos medidos sobre las horas tranquilas entre semana. Aun así, un jardín de estas características suele estar más sosegado mientras la gente trabaja y los niños están en el colegio que un sábado por la tarde sin obligaciones.
+Si solo puede ir en fin de semana, llegue antes de las 11am. Además, la luz temprana sobre el estanque favorece mucho más que el sol duro del mediodía. No disponemos de datos de previsión sobre las horas tranquilas entre semana. Aun así, un jardín de estas características suele estar más sosegado mientras la gente trabaja y los niños están en el colegio que un sábado por la tarde sin obligaciones.
 
 El horario oficial es de 24 horas, todos los días. Con todo, un jardín construido en torno al agua y con bordes de piedra irregulares se disfruta mejor de día. Vaya cuando pueda distinguir bien dónde termina el camino y empieza el estanque.
 

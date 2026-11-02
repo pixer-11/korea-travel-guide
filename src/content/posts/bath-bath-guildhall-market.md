@@ -96,7 +96,7 @@ This is a place for lingering, not ticking off. A few habits make it easier.
 - **Don't tip at the counters.** Buying is the norm. At the café, leaving small change is a kindness, not an expectation.
 - **Keep the aisles clear.** They are narrow, so step into a stall's space to look rather than stopping mid-walkway with a bag.
 
-Timing is a matter of reasoning rather than measurement. Bath fills with day-trippers from late morning, so arriving soon after the 9am opening usually means calmer aisles. Saturdays tend to draw shoppers into the centre, which makes weekdays the easier choice.
+Timing is a matter of reasoning rather than a crowd forecast. Bath fills with day-trippers from late morning, so arriving soon after the 9am opening usually means calmer aisles. Saturdays tend to draw shoppers into the centre, which makes weekdays the easier choice.
 
 ## Planning around the hours
 

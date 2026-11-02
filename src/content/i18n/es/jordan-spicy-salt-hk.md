@@ -1,13 +1,13 @@
 ---
 lang: es
 slug: jordan-spicy-salt-hk
-srcHash: '7d1b05cb998f'
+srcHash: 'f4a9a22c869c'
 title: 'Spicy Salt HK: Dónde comer en Jordan'
 description: Spicy Salt HK es un local nocturno y sin pretensiones en Yau Ma Tei/Jordan, especializado en platos fritos estilo sal y pimienta y cerveza fría, abierto de 4pm a 4am (5am los fines de semana).
 quickAnswer: Spicy Salt HK es un local nocturno y sin pretensiones en Yau Ma Tei/Jordan, especializado en platos fritos estilo sal y pimienta y cerveza fría, abierto de 4pm a 4am (5am los fines de semana). Está tranquilo y con espacio de sobra de 4pm a 9pm los fines de semana — ve en ese horario para evitar la multitud de 7pm a 11pm. Lo normal es pagar en efectivo o con una app local de pago móvil; no esperes traducciones al inglés de todos los platos del menú, así que señala y pregunta.
 faq:
   - q: ¿Cuál es el mejor momento para ir y evitar las multitudes?
-    a: Las tardes de fin de semana entre las 4pm y las 9pm son la franja más tranquila registrada. Las noches de fin de semana de 7pm a 11pm son las más concurridas — trata de evitar llegar en ese horario.
+    a: Las tardes de fin de semana entre las 4pm y las 9pm son la franja más tranquila según la previsión. Las noches de fin de semana de 7pm a 11pm son las más concurridas — trata de evitar llegar en ese horario.
   - q: ¿Cómo llego a Spicy Salt HK?
     a: Está en 31 Wai Ching St, en Yau Ma Tei, a poca distancia a pie de la estación de metro Jordan (MTR, línea Tsuen Wan), Salida A.
   - q: ¿Qué debería pedir?
@@ -48,7 +48,7 @@ Las porciones están pensadas para compartir en la mesa, no para comer en solita
 
 Esta cocina funciona de 4pm a 4am la mayoría de las noches, y hasta las 5am los viernes y sábados —un horario genuinamente trasnochado, pensado para trabajadores de turno nocturno, gente que sale de fiesta y cualquiera que tenga hambre después de que el MTR deje de circular.
 
-Las noches de fin de semana se llenan rápido. La franja tranquila registrada es de 4pm a 9pm los fines de semana, y los datos de afluencia marcan de 7pm a 11pm como el pico que conviene evitar si quieres mesa sin espera.
+Las noches de fin de semana se llenan rápido. La franja tranquila prevista es de 4pm a 9pm los fines de semana, y los datos de afluencia marcan de 7pm a 11pm como el pico que conviene evitar si quieres mesa sin espera.
 
 Si buscas una comida más relajada, con espacio para escuchar realmente lo que se dice en tu mesa, apunta a esa franja temprana de fin de semana, justo después de la apertura.
 
@@ -62,7 +62,7 @@ Eso es parte del atractivo. Comes donde come el barrio, a las horas en las que e
 
 ## Cómo visitarlo como un local
 
-Evita, si puedes, el bloque de hora punta de la tarde-noche —de 7pm a 11pm los fines de semana es cuando se llena, según los patrones de afluencia registrados. Las tardes de fin de semana, de 4pm a unas 9pm aproximadamente, son notablemente más tranquilas.
+Evita, si puedes, el bloque de hora punta de la tarde-noche —de 7pm a 11pm los fines de semana es cuando se llena, según la previsión de afluencia. Las tardes de fin de semana, de 4pm a unas 9pm aproximadamente, son notablemente más tranquilas.
 
 - **Pago**: lo más seguro es llevar efectivo a mano; algunas cocinas pequeñas de Yau Ma Tei aún no se han pasado del todo a tarjeta o pago móvil, así que no confíes solo en Apple Pay.
 - **Pedir**: señala lo que te apetezca si el menú no está traducido —los platos sal y pimienta suelen estar identificados con la claridad suficiente para reconocerlos por el estilo de fritura.

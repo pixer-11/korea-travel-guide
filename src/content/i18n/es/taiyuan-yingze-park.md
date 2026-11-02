@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: taiyuan-yingze-park
-srcHash: '3971cd73c7ae'
+srcHash: '2dbc68dfed20'
 title: 'Parque Yingze: Guía de viaje de Taiyuan'
 description: El parque Yingze se encuentra en Yingze Da Jie, en el distrito de Yingze, Taiyuan, a poca distancia en taxi o autobús al oeste del centro de la ciudad.
 quickAnswer: El parque Yingze se encuentra en Yingze Da Jie, en el distrito de Yingze, Taiyuan, a poca distancia en taxi o autobús al oeste del centro de la ciudad. Se trata de un gran parque público construido alrededor de un lago, frecuentado por los habitantes locales para sus paseos matutinos más que por turistas, por lo que no tendrá que lidiar con multitudes ni siquiera los fines de semana. Los fines de semana, el momento más tranquilo para visitarlo es cualquier hora entre las 9:00 y las 20:00, evitando el tramo de mayor afluencia, de 14:00 a 20:00.
@@ -34,7 +34,7 @@ Una vez dentro, la señalización está mayormente en chino, por lo que descarga
 
 ## Cuándo ir
 
-Según los patrones de visita registrados, los fines de semana se puede pasear cómodamente en cualquier momento entre las 9:00 y las 20:00. El tramo de mayor afluencia los fines de semana va de 14:00 a 20:00, cuando llegan familias y grupos después del almuerzo, así que una visita más temprana durante el fin de semana permite evitar esa acumulación de gente.
+Según los patrones de visita previstos, los fines de semana se puede pasear cómodamente en cualquier momento entre las 9:00 y las 20:00. El tramo de mayor afluencia los fines de semana va de 14:00 a 20:00, cuando llegan familias y grupos después del almuerzo, así que una visita más temprana durante el fin de semana permite evitar esa acumulación de gente.
 
 Con una calificación de 4.4 basada en un número modesto pero constante de reseñas, se trata de un parque que los habitantes locales usan a diario y no de una parada dominada por grupos turísticos; para quienes visitan Taiyuan, sigue siendo un lugar poco conocido.
 

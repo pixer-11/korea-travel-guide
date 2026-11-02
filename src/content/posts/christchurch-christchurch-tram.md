@@ -133,7 +133,7 @@ The rails run straight down the middle, so the tram slides between café tables 
 
 ## Catching the 5pm–6pm lull
 
-Timing changes this ride more than almost anything else. The measured quiet window is 5pm–6pm, on weekdays and weekends alike. Seats are easier to get then, and late light falls along Worcester Boulevard.
+Timing changes this ride more than almost anything else. The forecast quiet window is 5pm–6pm, on weekdays and weekends alike. Seats are easier to get then, and late light falls along Worcester Boulevard.
 
 Try to avoid boarding between 10am and 5pm on weekends. That's the busiest stretch, when carriages fill and you can end up standing at the back, away from the narration. Weekday mornings are a reasonable alternative if evenings don't suit.
 

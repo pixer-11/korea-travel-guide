@@ -162,7 +162,7 @@ Shops and cafés keep their own hours, which are much shorter than the 24-hour s
 
 Timing matters most on weekends, and the foot-traffic data is clear. Weekends are busiest from 10am to 7pm. That's when tour groups arrive and people bunch up on the bridges for photos.
 
-The quietest windows measured are 7am–8am and 10pm–11pm on both weekdays and weekends. Within it, the stretches before 10am and after 7pm are the calmest. Stay overnight and you can walk the canal at 7am while the shutters are still down.
+The quietest windows in the forecast are 7am–8am and 10pm–11pm on both weekdays and weekends. Within it, the stretches before 10am and after 7pm are the calmest. Stay overnight and you can walk the canal at 7am while the shutters are still down.
 
 A few habits help:
 

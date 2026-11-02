@@ -1,13 +1,13 @@
 ---
 lang: es
 slug: belfast-black-sheep-coffee
-srcHash: '7e86a35c52c3'
+srcHash: 'd2ce15347edc'
 title: 'Black Sheep Coffee: guía de viaje de Belfast (4.3★)'
 description: En pleno centro de Belfast, entre Cornmarket y el Albert Memorial Clock, se encuentra el Black Sheep Coffee de Ann Street. Con una valoración de 4.3★ (144 reseñas), le contamos qué opinan los visitantes, además de su horario y algunos consejos.
 quickAnswer: El Black Sheep Coffee de Ann Street está en el centro de Belfast, entre Cornmarket y el Albert Memorial Clock. Esta cadena de precios asequibles destaca por servir robusta, cuando la mayoría de las cafeterías de especialidad solo trabajan con arábica. Los fines de semana, la franja más tranquila va de 7am a 9am. Conviene evitarla de 11am a 6pm, cuando llega el aluvión de gente que sale de compras.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Black Sheep Coffee de Ann Street?
-    a: Los fines de semana, la mayor calma se da entre las 7am y las 9am. De 11am a 6pm, en cambio, llegan los compradores del centro y el local vive sus horas de más ajetreo, así que es mejor evitarlas. Para los días laborables no se ha medido ninguna franja tranquila, aunque la cafetería abre temprano, a las 6:45am.
+    a: Los fines de semana, la mayor calma se da entre las 7am y las 9am. De 11am a 6pm, en cambio, llegan los compradores del centro y el local vive sus horas de más ajetreo, así que es mejor evitarlas. Para los días laborables la previsión no muestra ninguna franja tranquila, aunque la cafetería abre temprano, a las 6:45am.
   - q: ¿Qué horario tiene?
     a: De lunes a viernes abre de 6:45am a 7:30pm; los sábados, de 7am a 7:30pm, y los domingos, de 7am a 7pm.
   - q: ¿Cómo se llega desde el Ayuntamiento (City Hall)?

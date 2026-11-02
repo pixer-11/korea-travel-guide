@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: chennai-arulmigu-marundeeswarar-temple
-srcHash: '2fb765767e5b'
+srcHash: '764e3ba3ff71'
 title: 'Templo Arulmigu Marundeeswarar: Guía de viaje de Chennai (4.8★)'
 description: 'El templo Arulmigu Marundeeswarar, en Thiruvanmiyur, al sur de Chennai, es un templo de Shiva célebre por sus propiedades curativas, abierto todos los días de 5:30 a 12:00 y de 16:00 a 21:00. 4.8★ (14.517 reseñas): qué opinan los visitantes, horarios y consejos.'
 quickAnswer: El templo Arulmigu Marundeeswarar, en Thiruvanmiyur, al sur de Chennai, es un templo de Shiva célebre por sus propiedades curativas, abierto todos los días de 5:30 a 12:00 y de 16:00 a 21:00. Los fines de semana hay mucha afluencia durante todo el tramo de 8:00 a 21:00, así que una mañana entre semana justo a la apertura es el momento más tranquilo para visitarlo. Conviene reservar entre 45 minutos y una hora, más si se va un lunes por la tarde, cuando crece la afluencia de fieles de Shiva.
@@ -9,7 +9,7 @@ faq:
   - q: ¿Cuál es el horario del templo Arulmigu Marundeeswarar?
     a: Abre todos los días de 5:30 a 12:00 y luego de 16:00 a 21:00, con el mismo horario todos los días, incluidos los fines de semana. Cierra al mediodía, así que conviene no planear la llegada entre las 12:00 y las 16:00.
   - q: ¿Cuál es el mejor momento para visitarlo sin aglomeraciones?
-    a: No existen mediciones exactas de las horas más tranquilas, pero los fines de semana se mantienen concurridos durante todo el tramo de 8:00 a 21:00, así que una visita entre semana, idealmente cerca de la apertura a las 5:30, es la mejor opción para disfrutarlo con calma. Conviene evitar los lunes por la tarde, cuando aumenta notablemente la afluencia de fieles de Shiva.
+    a: La previsión no muestra horas tranquilas, pero los fines de semana se mantienen concurridos durante todo el tramo de 8:00 a 21:00, así que una visita entre semana, idealmente cerca de la apertura a las 5:30, es la mejor opción para disfrutarlo con calma. Conviene evitar los lunes por la tarde, cuando aumenta notablemente la afluencia de fieles de Shiva.
   - q: ¿Cómo se llega al templo?
     a: Se encuentra en West Tank Street, en Thiruvanmiyur, a poca distancia a pie de la estación de tren suburbano de Thiruvanmiyur, y también se puede llegar en los autobuses urbanos que recorren East Coast Road. En auto rickshaw desde Adyar o Besant Nagar el trayecto dura entre 15 y 20 minutos.
   - q: ¿Cuánto tiempo conviene reservar para la visita?
@@ -56,7 +56,7 @@ Los grandes días de festival dedicados a Shiva, el Pradosham (la observancia ve
 
 ## Cómo planear la visita para evitar la aglomeración del fin de semana
 
-Este es un templo genuinamente concurrido, no un lugar poco conocido, y los fines de semana lo demuestran. Según lo observado, los sábados y domingos se mantienen concurridos durante todo el horario de apertura, aproximadamente de 8:00 a 21:00, sin una pausa real.
+Este es un templo genuinamente concurrido, no un lugar poco conocido, y los fines de semana lo demuestran. Según la previsión, los sábados y domingos se mantienen concurridos durante todo el horario de apertura, aproximadamente de 8:00 a 21:00, sin una pausa real.
 
 Dado esto, si el horario lo permite, conviene visitar entre semana antes que en fin de semana. Dentro de un día laborable, llegar cerca de la apertura de las 5:30 o al inicio de la reapertura de las 16:00 suele ganarle a los picos de media mañana y de primera hora de la tarde, simplemente porque se llega antes de que se sume la gente que va después del trabajo o de hacer diligencias, lo que ocurre en ambas franjas horarias.
 
