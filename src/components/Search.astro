@@ -69,8 +69,12 @@ const labels = JSON.stringify({
       // typed on /ja/ still lands on the Japanese Kyoto page.
       const has = (i: { t: string; a?: string; s: string }) =>
         i.t.toLowerCase().includes(query) || (i.a ?? '').toLowerCase().includes(query) || i.s.toLowerCase().includes(query);
-      const starts = (i: { t: string; a?: string }) =>
-        i.t.toLowerCase().startsWith(query) || (i.a ?? '').toLowerCase().startsWith(query) ? 0 : 1;
+      // An itinerary counts as a prefix match when its CITY does: "5-Day Tokyo
+      // Itinerary" fell below four Tokyo guides on "tokyo", and Singapore's and
+      // Dubai's itineraries fell off the eight rows entirely (live check, 11-03).
+      const starts = (i: { t: string; a?: string; s: string; k: string }) =>
+        i.t.toLowerCase().startsWith(query) || (i.a ?? '').toLowerCase().startsWith(query)
+        || (i.k === 'Itinerary' && i.s.toLowerCase().startsWith(query)) ? 0 : 1;
       const hits = index
         .filter(has)
         .sort((a, b) => (over(a) ? 1 : 0) - (over(b) ? 1 : 0) || starts(a) - starts(b) || rankOf(a) - rankOf(b) || a.t.length - b.t.length)

@@ -16,7 +16,7 @@ Every "best time to visit" chart on this site comes from **forecasts built from 
 ## Venue facts: ratings, hours, closures
 
 - **A quality bar.** Where verified rating data exists, we only write about places rated **4.0★ or higher** with a meaningful number of reviews. Places below that bar don't get a guide.
-- **Kept current.** Venue details are re-checked on a rolling schedule (every venue comes up roughly once a quarter), and a page for a place we can no longer confirm is open is taken down. We would rather have one fewer page than send you to a locked door.
+- **Kept current.** Venue details are re-checked on a rolling schedule, the longest-unchecked first (each guide shows the date its facts were last checked), and a page for a place we can no longer confirm is open is taken down. We would rather have one fewer page than send you to a locked door.
 - **Nothing made up.** We never invent opening hours, prices or addresses. Those details come from commercial venue databases and official sources, and if we cannot confirm something, we leave it out.
 
 ## Climate and "when to go" tables

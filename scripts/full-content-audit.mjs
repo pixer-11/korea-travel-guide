@@ -107,7 +107,9 @@ function verifiedBlock(post) {
       ['quiet at weekends at', hrs(bz.weekendQuiet)],
       ['busy at weekends at', hrs(bz.weekendBusy)],
     ].filter(([, v]) => v);
-    if (parts.length) lines.push(`measured crowd hours: ${parts.map(([k, v]) => `${k} ${v}`).join('; ')}`);
+    // "forecast", as writer.mjs now says (11-02): handed "measured", a repair
+    // could write the word back into the prose the site stopped claiming it in.
+    if (parts.length) lines.push(`crowd-hour forecast (BestTime, typical week): ${parts.map(([k, v]) => `${k} ${v}`).join('; ')}`);
   }
   if (!lines.length) return '';
   return `VERIFIED DATA (live venue record — statements agreeing with this are facts, never "invented"):\n${lines.join('\n')}\n\n`;

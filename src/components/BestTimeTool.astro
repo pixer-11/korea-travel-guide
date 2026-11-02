@@ -260,7 +260,7 @@ const L = {
     whereTitle: "어디서, 무엇을", lblCountry: "나라", lblCity: "도시", lblType: "종류", moreCountries: (n: number) => `+${n}개국 더 보기`, fewer: "접기", cityHint: "나라를 고르면 도시별로 좁혀 볼 수 있어요", allCities: "전체 도시", whenTitle: "언제 가세요?", wkGroup: "평일", weGroup: "주말", todayLbl: "오늘", amLbl: "오전", pmLbl: "오후", nowBig: "지금", nowSub: "장소마다 그곳의 시각으로", nowNote: "어디에서 보든 각 장소의 현지 시각으로 혼잡도를 계산해요 · 1분마다 갱신", hintMorning: (pct: number) => `평일 오전 11시 전 · 장소 ${pct}%가 가장 한산한 때`, hintPeak: (h: string) => `주말 ${h} · 가장 흔한 혼잡 시간대`, scopeWorld: "전 세계", typeAll: "모든 종류", basis: (n: number) => `기준 · ${n}곳`, reset: "필터 초기화", reportPill: (n: number) => `데이터 리포트 · ${n}곳`, citeBtn: "이 데이터 인용하기", c1Label: "평일", c1Sentence: (pct: number) => `평일에는 장소 ${pct}%가 오전 11시 이전에 가장 한산해요.`, c1Take: "어디든 일찍 가는 편이 정답", c2Label: "주말", c2Sentence: '주말에 가장 흔한 혼잡 시간대예요.', c2Take: "이 시간엔 실내 일정이나 예약을", c3Label: "명소 · 식당", c3Sentence: (pct: number) => `관광 명소의 ${pct}%는 평일 오전이 가장 한산해요.`, c3Take: (h: string) => `식당은 ${h} 무렵이 여유로운 경우가 많아요`, chartSub: "장소가 많은 10개 도시 · 현지 시각", bandLegend: "오전 11시 전", sortMany: "장소 많은 순", sortEarly: "이른 시간 순", evening: "저녁", insightA: (n: number, k: number, r: string) => `${n}개 도시 중 ${k}곳이 ${r}에 가장 한산해요.`, insightB: (n: number, k: number, r: string, list: string) => `${n}개 도시 중 ${k}곳이 ${r}에 가장 한산하고, 저녁에 가장 한산한 곳은 ${list}예요.`, clickHint: "도시를 누르면 위 필터에 바로 적용돼요", placesN: (n: number) => `${n}곳`, srcT: "출처", srcB: "BestTime.app의 인파 예측을 글을 낼 때 장소별로 받아 모아요.", adjT: "보정", adjB: "각 장소의 영업시간과 오전 7시~오후 10시 범위에 맞춰 정리해요.", ruleT: "원칙", ruleB: "어림짐작은 쓰지 않아요. 믿을 만한 예측이 없는 장소는 뺍니다.", growing: (n: number) => `지금 ${n}곳 · 새 가이드마다 늘어나요`, methodLink: "예측 방법 자세히 →", citeTitle: "이 데이터 인용·삽입하기", citeAsText: "문장으로", citeAsHtml: "링크 HTML", citeBody: "기자·블로거·연구자는 wanderatlasguides.com 링크와 함께 이 수치를 인용할 수 있어요.", citeText: (n: number, url: string) => `출처: Wander Atlas 혼잡 데이터(${n}곳), ${url}`, linkText: "Wander Atlas 혼잡 데이터", copyBtn: "복사하기", copiedOk: "복사했어요 ✓", widgetRow: "혼잡 위젯 · 장소 가이드마다 글에 넣을 수 있어요", widgetCta: "예시 보기 →", apiRow: "개발자용 원자료 · BestTime.app API에서 직접 받으세요",
     faqTitle: '자주 묻는 질문', faqDek: '혼잡도를 어떻게 계산하는지는', faqLink: '방법론 페이지에 자세히 적었습니다',
     faq: [
-      ['혼잡도는 어떻게 계산하나요?', '장소별 실제 방문 데이터(BestTime.app의 시간대별 방문 예측)를 영업시간 안에서 시간대별로 분석해, 하루 중 가장 한산한 시간과 붐비는 시간을 뽑습니다.'],
+      ['혼잡도는 어떻게 계산하나요?', '장소별 시간대별 방문 예측(BestTime.app, 과거 방문 패턴으로 만든 예측)을 영업시간 안에서 시간대별로 분석해, 하루 중 가장 한산한 시간과 붐비는 시간을 뽑습니다.'],
       ['시간은 어느 나라 기준인가요?', '언제나 그 장소의 현지 시각입니다. "지금" 보기는 장소마다 그곳의 현재 시각을 따로 계산해서, 서울 박물관과 뉴욕 카페를 각자의 시계로 판단합니다.'],
       ['평일과 주말은 왜 따로 보나요?', '대부분의 장소는 주말에 붐비는 시간이 다릅니다. 요일마다 다른 곳은 카드에 한산한 시간이 해당하는 요일을 함께 적었습니다.'],
       ['데이터가 없는 곳도 있나요?', '네. 방문 예측 데이터가 있는 곳만 여기에 나옵니다. 공휴일이나 특별한 행사가 있는 날은 평소와 다를 수 있습니다.'],
@@ -290,7 +290,7 @@ const L = {
     whereTitle: "どこで、何を", lblCountry: "国", lblCity: "都市", lblType: "種類", moreCountries: (n: number) => `+${n}か国をもっと見る`, fewer: "閉じる", cityHint: "国を選ぶと都市ごとに絞り込めます", allCities: "すべての都市", whenTitle: "いつ行きますか？", wkGroup: "平日", weGroup: "週末", todayLbl: "今日", amLbl: "午前", pmLbl: "午後", nowBig: "今", nowSub: "スポットごとに現地の時刻で", nowNote: "どこから見ても、各スポットの現地時間で混雑度を計算します · 1分ごとに更新", hintMorning: (pct: number) => `平日の午前11時前 · スポットの${pct}%がいちばん空いている時間`, hintPeak: (h: string) => `週末の${h} · いちばんよくある混雑時間`, scopeWorld: "全世界", typeAll: "すべての種類", basis: (n: number) => `基準 · ${n}か所`, reset: "絞り込みをリセット", reportPill: (n: number) => `データレポート · ${n}か所`, citeBtn: "このデータを引用する", c1Label: "平日", c1Sentence: (pct: number) => `平日はスポットの${pct}%が午前11時より前にいちばん空いています。`, c1Take: "どこでも早めに行くのが正解", c2Label: "週末", c2Sentence: '週末にいちばんよくある混雑時間です。', c2Take: "この時間は屋内の予定や予約を", c3Label: "観光地 · 飲食店", c3Sentence: (pct: number) => `観光スポットの${pct}%は平日の午前がいちばん空いています。`, c3Take: (h: string) => `飲食店は${h}ごろが空いていることが多いです`, chartSub: "スポットの多い10都市 · 現地時間", bandLegend: "午前11時前", sortMany: "スポットの多い順", sortEarly: "早い時間順", evening: "夜", insightA: (n: number, k: number, r: string) => `${n}都市のうち${k}都市が${r}にいちばん空いています。`, insightB: (n: number, k: number, r: string, list: string) => `${n}都市のうち${k}都市が${r}にいちばん空いていて、夜がいちばん空いているのは${list}です。`, clickHint: "都市を押すと上の絞り込みにすぐ反映されます", placesN: (n: number) => `${n}か所`, srcT: "出典", srcB: "BestTime.appの混雑予測を、ガイド公開時にスポットごとに取得しています。", adjT: "補正", adjB: "各スポットの営業時間と午前7時〜午後10時の範囲に合わせて整理しています。", ruleT: "原則", ruleB: "当て推量はしません。信頼できる予測がないスポットは外します。", growing: (n: number) => `現在${n}か所 · 新しいガイドごとに増えます`, methodLink: "予測方法の詳細 →", citeTitle: "このデータを引用・埋め込む", citeAsText: "文章で", citeAsHtml: "リンクHTML", citeBody: "記者・ブロガー・研究者の方は、wanderatlasguides.comへのリンクとともにこの数値を引用できます。", citeText: (n: number, url: string) => `出典: Wander Atlas 混雑データ(${n}か所), ${url}`, linkText: "Wander Atlas 混雑データ", copyBtn: "コピー", copiedOk: "コピーしました ✓", widgetRow: "混雑ウィジェット · 各スポットのガイドで記事に埋め込めます", widgetCta: "例を見る →", apiRow: "開発者向けの元データ · BestTime.app APIから直接取得してください",
     faqTitle: 'よくある質問', faqDek: '混雑度の計算方法は', faqLink: '方法論のページで詳しく説明しています',
     faq: [
-      ['混雑度はどう計算していますか？', 'スポットごとの実際の来訪データ（BestTime.appの時間帯別予測）を営業時間内で時間ごとに分析し、1日のうちいちばん空いている時間と混む時間を割り出しています。'],
+      ['混雑度はどう計算していますか？', 'スポットごとの時間帯別の来訪予測（BestTime.app、過去の来訪パターンから作成）を営業時間内で時間ごとに分析し、1日のうちいちばん空いている時間と混む時間を割り出しています。'],
       ['時間はどこの国の時刻ですか？', '常にそのスポットの現地時間です。「今」の表示はスポットごとに現地の現在時刻を計算するので、ソウルの博物館とニューヨークのカフェをそれぞれの時計で判断します。'],
       ['なぜ平日と週末を分けるのですか？', '多くの場所は週末に混む時間帯が変わります。曜日で違う場所は、空いている時間が当てはまる曜日をカードに書いています。'],
       ['データがない場所もありますか？', 'はい。来訪予測データがある場所だけを載せています。祝日や特別なイベントの日はいつもと違うことがあります。'],
@@ -338,8 +338,8 @@ const L = {
     modeNow: '现在 · 当地时间', modePick: '指定时间', modeNote: '每个地点按其当地当前时间计算',
     weekday: '工作日', weekend: '周末', sortQuiet: '最空闲优先', sortRating: '评分最高', sortCity: '按城市',
     count: (n: number, when: string) => `${n} 处 · ${when}`, whenNow: '现在，当地时间', noHours: '营业时间未确认',
-    stNow: { q: '现在空闲', m: '现在一般', b: '现在拥挤', x: '现在未营业', o: '现在不在统计时段' },
-    stAt: { q: '空闲', m: '一般', b: '拥挤', x: '未营业', o: '不在统计时段' }, local: '当地',
+    stNow: { q: '现在空闲', m: '现在一般', b: '现在拥挤', x: '现在未营业', o: '现在不在预测时段' },
+    stAt: { q: '空闲', m: '一般', b: '拥挤', x: '未营业', o: '不在预测时段' }, local: '当地',
     guide: '查看指南 →', add: '+ 加入一日行程', added: '✓ 已加入行程', more: (n: number) => `再看 ${n} 处 ↓`,
     planBar: (n: number) => `一日行程中有 ${n} 处`, clear: '清空', build: '按空闲时段排行程 →',
     planTitle: '按空闲时段排好的一天', planNote: '按每处停留约 1 小时计算，未包含地点之间的交通时间。',
@@ -846,8 +846,11 @@ const cellCls = { q: 'quiet', b: 'busy', m: 'mid', x: 'closed' } as const;
         const holdsFocus = document.activeElement instanceof Node && c.el.contains(document.activeElement);
         c.el.classList.toggle('is-more', i != null && i >= st.shown && !holdsFocus);
       }
+      // Same rule as widget(): a place whose hours we cannot confirm is not
+      // counted as quiet, normal or busy — the legend said "Quiet 47" over a
+      // widget that said "Quiet right now: 46" (live check, 11-03).
       const n = { q: 0, m: 0, b: 0 } as Record<string, number>;
-      for (const c of vis) if (c.status in n) n[c.status]++;
+      for (const c of vis) if (c.status in n && !c.nh) n[c.status]++;
       root.querySelector('[data-n-q]')!.textContent = String(n.q);
       root.querySelector('[data-n-m]')!.textContent = String(n.m);
       root.querySelector('[data-n-b]')!.textContent = String(n.b);

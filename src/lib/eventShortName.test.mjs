@@ -71,6 +71,20 @@ test('a colon inside a quoted tour name is not a cut point (11-02: /ko/events/ s
   assert.equal(eventShortName('ATP 파이널스 일정·티켓·경기장 안내 (토리노)', 'ko'), 'ATP 파이널스');
 });
 
+test('11-03 live check: es "con fechas" is part of the tail; ja dot-joined and 会期 tails; no trailing ｜', () => {
+  assert.equal(
+    eventShortName('NMIXX en Madrid: la gira mundial Episode 1: Zero Frontier en España, con fechas, entradas y recinto', 'es'),
+    'NMIXX en Madrid: la gira mundial Episode 1: Zero Frontier en España',
+  );
+  assert.equal(eventShortName('グアダラハラ十月祭（Fiestas de Octubre）の開催日程・チケット・会場ガイド（グアダラハラ）', 'ja'), 'グアダラハラ十月祭（Fiestas de Octubre）');
+  assert.equal(eventShortName('「イブニング・ミュージアム：社会主義をめぐる旅」の開催日程・チケット・会場（ウランバートル）', 'ja'), '「イブニング・ミュージアム：社会主義をめぐる旅」');
+  assert.equal(eventShortName('ウランバートルのラファエロとベルニーニ展:会期・チケット・会場(ウランバートル)', 'ja'), 'ウランバートルのラファエロとベルニーニ展');
+  assert.equal(eventShortName('NMIXX「Episode 1: Zero Frontier World Tour - Spain」マドリード公演の日程・チケット・会場', 'ja'), 'NMIXX「Episode 1: Zero Frontier World Tour - Spain」マドリード公演');
+  assert.equal(eventShortName('ベトナム・ジャズ・ヘリテージ・フェスティバル2026｜日程・チケット・会場（ダラット）', 'ja'), 'ベトナム・ジャズ・ヘリテージ・フェスティバル2026');
+  // The shortest real one: four characters of name left, still a name.
+  assert.equal(eventShortName('長崎くんちの日程・チケット・会場', 'ja'), '長崎くんち');
+});
+
 test('apostrophes are not quotes — cuts after "Everyone\'s", "Don\'t", "Guns N\' Roses" still happen', () => {
   assert.equal(eventShortName("5SOS 'Everyone's A Star!' 월드투어: 마닐라 공연 일정, 티켓, 공연장 (마닐라)", 'ko'), "5SOS 'Everyone's A Star!' 월드투어");
   assert.equal(eventShortName("Concierto de Guns N' Roses en Yakarta: fechas, entradas y recinto (Yakarta)", 'es'), "Concierto de Guns N' Roses en Yakarta");

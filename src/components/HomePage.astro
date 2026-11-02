@@ -151,8 +151,9 @@ const factsBy = (countryFacts as any).countries ?? countryFacts;
 const esimSlugs = new Set(esimCountries().map((c: any) => c.slug));
 const itins = (await getCollection('itineraries')).sort((a, b) => a.data.city.localeCompare(b.data.city));
 // Shortest trip first; among equal lengths, the city with the most guides —
-// not the alphabet, which sent "I've decided" readers for South Korea to Busan,
-// the US to Chicago and the UK to Brighton (2026-11-02 review).
+// not the alphabet, which sent "I've decided" readers for South Korea to Busan
+// and the US to Chicago (2026-11-02 review). The UK still goes to Brighton: it
+// is the UK's only itinerary, and a London one would win here on its own.
 const cityGuides = new Map<string, number>();
 for (const p of posts) cityGuides.set(p.data.region, (cityGuides.get(p.data.region) ?? 0) + 1);
 const itinFor = (c: any) => {

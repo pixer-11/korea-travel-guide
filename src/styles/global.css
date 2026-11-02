@@ -1921,7 +1921,8 @@ main:focus { outline: none; }
   .card .thumb .badge,
   .topbar-fact,
   .crowd-demo-lab,
-  .crowd-panel-head span { font-size: 0.78rem; }
+  .crowd-panel-head span,
+  .crowd-legend { font-size: 0.78rem; } /* the legend ran 11.2px, missed here until 11-03 */
   .site-footer nav { gap: 0.25rem 1rem; }
   .site-footer nav a { display: inline-block; padding: 0.65rem 0.2rem; min-height: 44px; line-height: 1.3; }
   .site-footer .footer-social a { display: inline-block; padding: 0.6rem 0.3rem; }

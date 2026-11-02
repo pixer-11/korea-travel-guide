@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: methodology
-srcHash: '253d9ca3dd99'
+srcHash: '6158eb09d34e'
 metaTitle: Cómo funcionan nuestros datos — Metodología
 metaDescription: De dónde provienen los gráficos de afluencia, los horarios de apertura, las valoraciones y las tablas climáticas de Wander Atlas, con qué frecuencia los verificamos y cómo citarlos.
 eyebrow: Metodología
@@ -19,7 +19,7 @@ Cada gráfico de "mejor momento para visitar" en este sitio proviene de **previs
 ## Datos de los lugares: valoraciones, horarios, cierres
 
 - **Un estándar de calidad.** Cuando existen datos de valoración verificados, solo escribimos sobre lugares con una calificación de **4.0★ o superior** y una cantidad significativa de reseñas. Los lugares por debajo de ese estándar no reciben una guía.
-- **Mantenidos al día.** Los detalles de los lugares se vuelven a verificar de forma rotativa (cada lugar se revisa aproximadamente una vez por trimestre), y se retira la página de un lugar cuya apertura ya no podamos confirmar. Preferimos tener una página menos que enviarte a una puerta cerrada.
+- **Mantenidos al día.** Los detalles de los lugares se vuelven a verificar de forma rotativa, empezando por los que llevan más tiempo sin revisarse (cada guía muestra la fecha de su última comprobación), y se retira la página de un lugar cuya apertura ya no podamos confirmar. Preferimos tener una página menos que enviarte a una puerta cerrada.
 - **Nada inventado.** Nunca inventamos horarios de apertura, precios o direcciones. Esos detalles provienen de bases de datos comerciales de lugares y fuentes oficiales, y si no podemos confirmar algo, lo omitimos.
 
 ## Tablas de clima y "cuándo ir"

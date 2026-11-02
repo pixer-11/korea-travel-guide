@@ -60,7 +60,7 @@ type Src = [string, string, string, string, string]; // icon, title, from, badge
 const L = {
   en: {
     pill: 'Methodology', accent: 'Every number has a source', citeCta: 'How to cite', policy: 'Editorial policy →', glance: 'Data sources at a glance', toc: 'On this page',
-    sources: [['users', 'Crowd levels', 'BestTime.app foot-traffic forecast', 'Fetched once per guide', 'crowd'], ['pin', 'Hours & ratings', 'Commercial venue databases, official sources', '≈ quarterly', 'venues'], ['sun', 'Temperature & rain', 'NASA POWER weather archive', '10 years', 'climate'], ['calendar', 'Public holidays', 'National holiday calendars', 'Twice a year', 'climate'], ['image', 'Photos', 'Licensed & open sources', 'Credited', 'photos']] as Src[],
+    sources: [['users', 'Crowd levels', 'BestTime.app foot-traffic forecast', 'Fetched once per guide', 'crowd'], ['pin', 'Hours & ratings', 'Commercial venue databases, official sources', 'Rolling, oldest first', 'venues'], ['sun', 'Temperature & rain', 'NASA POWER weather archive', '10 years', 'climate'], ['calendar', 'Public holidays', 'National holiday calendars', 'Twice a year', 'climate'], ['image', 'Photos', 'Licensed & open sources', 'Credited', 'photos']] as Src[],
     chartT: 'Every chart is fitted to real opening hours', chartSub: 'Illustration · a museum open 10 AM–6 PM', before: 'Before', after: 'After',
     shown: 'Shown as the quietest hour', okAfter: 'Right after opening — genuinely quiet', badBefore: 'Before opening — empty because it is shut',
     legend: ['Quiet', 'Moderate', 'Busy', 'Outside opening hours'], venueRule: 'The rules', climateTool: 'When-to-go tool →', holidayTool: 'Holiday overlap calendar →', itinLink: 'See the itineraries →',
@@ -70,7 +70,7 @@ const L = {
   },
   ko: {
     pill: '조사 방법론', accent: '숫자마다 출처가 있어요', citeCta: '인용하는 방법', policy: '편집 원칙 →', glance: '한눈에 보는 데이터 출처', toc: '이 페이지에서',
-    sources: [['users', '혼잡도', 'BestTime.app 유동인구 예측', '글마다 한 번 받음', 'crowd'], ['pin', '영업시간·평점', '상업용 장소 DB·공식 출처', '약 분기 1회', 'venues'], ['sun', '기온·강수량', 'NASA POWER 기상 기록', '10년치', 'climate'], ['calendar', '공휴일', '각국 공휴일 달력', '연 2회', 'climate'], ['image', '사진', '라이선스·공개 출처', '출처 표기', 'photos']] as Src[],
+    sources: [['users', '혼잡도', 'BestTime.app 유동인구 예측', '글마다 한 번 받음', 'crowd'], ['pin', '영업시간·평점', '상업용 장소 DB·공식 출처', '오래된 순으로 차례로', 'venues'], ['sun', '기온·강수량', 'NASA POWER 기상 기록', '10년치', 'climate'], ['calendar', '공휴일', '각국 공휴일 달력', '연 2회', 'climate'], ['image', '사진', '라이선스·공개 출처', '출처 표기', 'photos']] as Src[],
     chartT: '모든 차트를 실제 영업시간에 맞춰 보정해요', chartSub: '예시 · 오전 10시~오후 6시에 여는 박물관', before: '보정 전', after: '보정 후',
     shown: '가장 한산하다고 표시되는 시간', okAfter: '문 연 직후, 실제로 한산한 시간', badBefore: '문 열기 전이라 텅 빈 시간',
     legend: ['한산', '보통', '붐빔', '영업시간 외'], venueRule: '기준', climateTool: '언제 갈까 도구 →', holidayTool: '아시아 휴일 겹침 달력 →', itinLink: '추천 일정 보기 →',
@@ -80,7 +80,7 @@ const L = {
   },
   ja: {
     pill: '調査方法', accent: 'すべての数字に出典があります', citeCta: '引用のしかた', policy: '編集方針 →', glance: 'データの出典が一目でわかる', toc: 'このページの内容',
-    sources: [['users', '混雑度', 'BestTime.app の人流予測', '記事ごとに一度取得', 'crowd'], ['pin', '営業時間・評価', '商用スポットDB・公式情報源', '約四半期ごと', 'venues'], ['sun', '気温・降水量', 'NASA POWER の気象記録', '10年分', 'climate'], ['calendar', '祝日', '各国の祝日カレンダー', '年2回', 'climate'], ['image', '写真', 'ライセンス・公開の出典', '出典明記', 'photos']] as Src[],
+    sources: [['users', '混雑度', 'BestTime.app の人流予測', '記事ごとに一度取得', 'crowd'], ['pin', '営業時間・評価', '商用スポットDB・公式情報源', '古い順に順次', 'venues'], ['sun', '気温・降水量', 'NASA POWER の気象記録', '10年分', 'climate'], ['calendar', '祝日', '各国の祝日カレンダー', '年2回', 'climate'], ['image', '写真', 'ライセンス・公開の出典', '出典明記', 'photos']] as Src[],
     chartT: 'すべてのチャートを実際の営業時間に合わせて補正します', chartSub: '例 · 午前10時〜午後6時に開く博物館', before: '補正前', after: '補正後',
     shown: 'いちばん空いていると表示される時間', okAfter: '開館直後、本当に空いている時間', badBefore: '開館前なので誰もいない時間',
     legend: ['空いている', '普通', '混雑', '営業時間外'], venueRule: '基準', climateTool: 'いつ行くかツール →', holidayTool: 'アジアの休日重なりカレンダー →', itinLink: 'おすすめ日程を見る →',
@@ -90,7 +90,7 @@ const L = {
   },
   es: {
     pill: 'Metodología', accent: 'Cada número tiene una fuente', citeCta: 'Cómo citarnos', policy: 'Política editorial →', glance: 'Las fuentes de un vistazo', toc: 'En esta página',
-    sources: [['users', 'Afluencia', 'Previsión de afluencia de BestTime.app', 'Una vez por guía', 'crowd'], ['pin', 'Horarios y valoraciones', 'Bases comerciales y fuentes oficiales', '≈ cada trimestre', 'venues'], ['sun', 'Temperatura y lluvia', 'Archivo meteorológico NASA POWER', '10 años', 'climate'], ['calendar', 'Festivos', 'Calendarios nacionales', '2 veces al año', 'climate'], ['image', 'Fotos', 'Fuentes con licencia o abiertas', 'Con crédito', 'photos']] as Src[],
+    sources: [['users', 'Afluencia', 'Previsión de afluencia de BestTime.app', 'Una vez por guía', 'crowd'], ['pin', 'Horarios y valoraciones', 'Bases comerciales y fuentes oficiales', 'Rotativo, lo más antiguo primero', 'venues'], ['sun', 'Temperatura y lluvia', 'Archivo meteorológico NASA POWER', '10 años', 'climate'], ['calendar', 'Festivos', 'Calendarios nacionales', '2 veces al año', 'climate'], ['image', 'Fotos', 'Fuentes con licencia o abiertas', 'Con crédito', 'photos']] as Src[],
     chartT: 'Cada gráfico se ajusta al horario real', chartSub: 'Ilustración · un museo abierto de 10:00 a 18:00', before: 'Antes', after: 'Después',
     shown: 'Mostrada como la hora más tranquila', okAfter: 'Justo al abrir: tranquilo de verdad', badBefore: 'Antes de abrir: vacío porque está cerrado',
     legend: ['Tranquilo', 'Normal', 'Lleno', 'Fuera de horario'], venueRule: 'Las reglas', climateTool: 'Herramienta Cuándo ir →', holidayTool: 'Calendario de festivos que coinciden →', itinLink: 'Ver los itinerarios →',
@@ -100,7 +100,7 @@ const L = {
   },
   zh: {
     pill: '研究方法', accent: '每个数字都有出处', citeCta: '如何引用', policy: '编辑原则 →', glance: '数据来源一览', toc: '本页内容',
-    sources: [['users', '拥挤度', 'BestTime.app 人流预测', '每篇指南获取一次', 'crowd'], ['pin', '营业时间 · 评分', '商业地点数据库 · 官方来源', '约每季度一次', 'venues'], ['sun', '气温 · 降水', 'NASA POWER 气象档案', '10 年数据', 'climate'], ['calendar', '公共假期', '各国假期日历', '每年 2 次', 'climate'], ['image', '照片', '有授权或公开的来源', '注明出处', 'photos']] as Src[],
+    sources: [['users', '拥挤度', 'BestTime.app 人流预测', '每篇指南获取一次', 'crowd'], ['pin', '营业时间 · 评分', '商业地点数据库 · 官方来源', '滚动复核，最旧优先', 'venues'], ['sun', '气温 · 降水', 'NASA POWER 气象档案', '10 年数据', 'climate'], ['calendar', '公共假期', '各国假期日历', '每年 2 次', 'climate'], ['image', '照片', '有授权或公开的来源', '注明出处', 'photos']] as Src[],
     chartT: '每张图表都按实际营业时间校正', chartSub: '示例 · 上午 10 点至下午 6 点开放的博物馆', before: '校正前', after: '校正后',
     shown: '显示为最空闲的时段', okAfter: '刚开门，真正空闲的时段', badBefore: '还没开门，所以空无一人',
     legend: ['空闲', '一般', '拥挤', '非营业时间'], venueRule: '标准', climateTool: '何时去工具 →', holidayTool: '亚洲假期重叠日历 →', itinLink: '查看推荐行程 →',

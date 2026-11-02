@@ -430,6 +430,7 @@ const coverImage = mosaic[0]?.src;
         data-t-transit-leg={t('itin.legTransit')}
         data-t-closed-warning={t('itin.closedOnArrival')}
         data-t-closed-warning-no-swap={t('itin.closedOnArrivalNoSwap')}
+        data-t-open-exception={t('itin.openOnArrival')}
         data-t-long-walk={t('itin.longWalkAdvisory')}
       >
         <div class="ith-bar-row">
@@ -515,6 +516,14 @@ const coverImage = mosaic[0]?.src;
             const stars = rating ? '★'.repeat(Math.round(rating)) + '☆'.repeat(5 - Math.round(rating)) : null;
             const closedRaw = closedDaysOf(p.openingHours);
             const closed = closedRaw.map(localizedWeekday);
+            const cal = calendarDates(post.id);
+            // A venue with an official calendar is not simply "closed Mondays":
+            // Shinjuku Gyoen opens on holiday Mondays and every day Nov 1-15.
+            // The chip says so before a date is picked; with a date, the script
+            // below turns it into "open that day" or the closed warning.
+            const closedChip = closed.length
+              ? t('itin.closedChip').replace('{days}', closed.join(', ')) + (cal.openOn || cal.closedOn ? t('itin.closedChipExcept') : '')
+              : '';
             const quiet = quietWindowFor(post, stop.slot);
             const tip = transitTip(post);
             // Prefer the clean Google Places venue name over the full SEO post
@@ -536,8 +545,8 @@ const coverImage = mosaic[0]?.src;
                   data-lng={p.lng}
                   data-cats={interestCatsFor(post).join(',')}
                   data-closed={closedRaw.join(',')}
-                  data-open-on={calendarDates(post.id).openOn || undefined}
-                  data-closed-on={calendarDates(post.id).closedOn || undefined}
+                  data-open-on={cal.openOn || undefined}
+                  data-closed-on={cal.closedOn || undefined}
                   data-dwell={stop.dwellMin}
                 >
                   <div class="itin-stop-thumb">
@@ -573,8 +582,11 @@ const coverImage = mosaic[0]?.src;
                     <p class="itin-why">{stop.why}</p>
 
                     <div class="itin-chips">
-                      {closed.length > 0 && (
-                        <span class="chip chip-closed">{t('itin.closedChip').replace('{days}', closed.join(', '))}</span>
+                      {/* Also rendered, empty and hidden, for a venue that is open every
+                          weekday but has official closing dates (a year-end shutdown):
+                          the script needs a chip to turn into the warning. */}
+                      {(closedChip || cal.closedOn) && (
+                        <span class="chip chip-closed" hidden={!closedChip}>{closedChip}</span>
                       )}
                       {quiet && <span class="chip chip-quiet">{t('itin.quietBadge').replace('{range}', quiet)}</span>}
                       {bookSet.has(post.id) && <span class="chip chip-book">{u('ticketChip')}</span>}
@@ -1015,6 +1027,8 @@ const coverImage = mosaic[0]?.src;
   /* Arrival-date awareness: a stop's OWN closed-day data says today is a closed
      day — flipped in by the script, never guessed. */
   .chip-closed-warning { background: var(--accent-fill); border-color: var(--accent-deep); color: #fff; font-weight: 800; }
+  /* The official calendar opens a usual closing day — calm, not an alarm. */
+  .chip-open-exception { background: color-mix(in srgb, var(--pine) 14%, var(--surface-2)); border-color: color-mix(in srgb, var(--pine) 40%, var(--line)); color: var(--ink); }
   /* Party=family/seniors advisory — same visual family as chip-quiet (gold),
      kept distinct from the red closed-warning so the two can't be confused. */
   .chip-advisory { background: color-mix(in srgb, var(--gold) 18%, var(--surface-2)); border: 1px dashed color-mix(in srgb, var(--gold) 45%, var(--line)); color: var(--ink); }
@@ -1188,6 +1202,7 @@ const coverImage = mosaic[0]?.src;
     const tTransit = form.dataset.tTransitLeg || 'Take the subway or a taxi';
     const tClosedWarning = form.dataset.tClosedWarning || '';
     const tClosedWarningNoSwap = form.dataset.tClosedWarningNoSwap || '';
+    const tOpenException = form.dataset.tOpenException || '';
     const tLongWalk = form.dataset.tLongWalk || '';
     const tripTitle = form.dataset.tripTitle || document.title;
     const pageUrl = form.dataset.pageUrl || location.href.split('#')[0];
@@ -1497,9 +1512,16 @@ const coverImage = mosaic[0]?.src;
             const dayIso = `${dayDate.getFullYear()}-${String(dayDate.getMonth() + 1).padStart(2, '0')}-${String(dayDate.getDate()).padStart(2, '0')}`;
             const openOn = (stopEl.dataset.openOn || '').split(',');
             const shutOn = (stopEl.dataset.closedOn || '').split(',');
-            const isClosed = (closedList.includes(weekdayName) && !openOn.includes(dayIso)) || shutOn.includes(dayIso);
-            chip.textContent = isClosed && warningText ? warningText : chip.dataset.orig;
+            const regular = closedList.includes(weekdayName);
+            // The usual closing weekday, but the official calendar opens it: say
+            // so — on 11-02 the summary read "no closures" over a red "Closed
+            // Monday" chip on that very Monday's stop (live check, 11-03).
+            const openException = regular && openOn.includes(dayIso);
+            const isClosed = (regular && !openException) || shutOn.includes(dayIso);
+            chip.textContent = isClosed && warningText ? warningText : openException && tOpenException ? tOpenException : chip.dataset.orig;
             chip.classList.toggle('chip-closed-warning', isClosed);
+            chip.classList.toggle('chip-open-exception', openException && !isClosed);
+            chip.hidden = !isClosed && !openException && !chip.dataset.orig;
           });
 
           if (icsLink) {
@@ -1519,7 +1541,8 @@ const coverImage = mosaic[0]?.src;
             const chip = stopEl.querySelector('.chip-closed') as HTMLElement | null;
             if (chip && chip.dataset.orig !== undefined) {
               chip.textContent = chip.dataset.orig;
-              chip.classList.remove('chip-closed-warning');
+              chip.classList.remove('chip-closed-warning', 'chip-open-exception');
+              chip.hidden = !chip.dataset.orig;
             }
           });
         }

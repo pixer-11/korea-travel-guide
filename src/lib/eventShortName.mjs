@@ -24,8 +24,10 @@ const SEPS = ['——', ' — ', ' – ', ' - ', '：', ': ', ':', ', ', '，'];
 const TAIL_START = {
   en: /^(?:what to know|dates\b|tickets\b|circuit location|a visitor|complete guide|ultimate guide|venue\b)/i,
   ko: /^(?:[^:,]{1,12}\s?(?:공연|경기|행사)\s?(?:일정|날짜|정보)|[^:,]{1,12}\s개최 정보|서킷 위치|미리 알아|알아|이것만은|참고|일정|티켓|날짜|공연 일정|공연 날짜|행사 일정|개최|안내|완벽|완전 정리|총정리|가이드|정보)/,
-  ja: /^(?:事前に知って|知って|日程|開催|チケット|会場|観戦|公演日程|公演情報|完全ガイド|徹底ガイド|基礎知識|情報)/,
-  es: /^(?:ubicaci[oó]n del circuito|(?:todo )?lo que|fechas|entradas|recinto|sede|gu[ií]a)/i,
+  ja: /^(?:事前に知って|知って|日程|開催|会期|公演日|チケット|会場|観戦|公演日程|公演情報|完全ガイド|徹底ガイド|基礎知識|情報)/,
+  // "con fechas, entradas y recinto" is one tail: without "con" the cut fell on
+  // the comma before "entradas" and left "…en España, con fechas" (11-03).
+  es: /^(?:ubicaci[oó]n del circuito|(?:todo )?lo que|(?:con )?(?:fechas|entradas)|recinto|sede|gu[ií]a)/i,
   zh: /^(?:[^：:，,、]{0,8}?(?:站|场|赛事)?(?:日期|时间|演出日期|你需要|须知|观赛指南|观演指南|场次须知)|赛道位置|赛事须知|日期|时间|门票|场馆|场地|赛程|赛事日期|演出日期|演出时间|举办日期|举办地|展期|场次|名额|观展|观演|观赛|出行|行前|预告|你需要|需要|须知|全攻略|攻略|指南|看点|\d{4}年时间)/,
 };
 
@@ -36,7 +38,9 @@ const END_PHRASE = {
   // "…스페인 공연 일정·티켓·공연장 안내" — the boilerplate glued with middle dots
   // once the colon inside a quoted tour name is (rightly) not a cut point.
   ko: /\s*(?:일정\s?[·・,，]\s?티켓\s?[·・,，]\s?(?:공연장|경기장|행사장|개최\s?장소)(?:\s?(?:안내|정보))?|완벽 가이드|완벽 정리|완전 정리|총정리|알아두기|참고 정보|가이드|안내)$/,
-  ja: /\s*(?:について知っておきたいこと|で知っておきたいこと|知っておきたいこと|開催情報まとめ|開催情報|情報まとめ|完全ガイド|徹底ガイド|基本ガイド|観戦ガイド|ガイド|基礎知識|まとめ|について|とは)$/,
+  // "…の開催日程・チケット・会場", "…の会期・チケット・会場" — the dot-joined form,
+  // as in Korean; it reached the home cards whole (11-03).
+  ja: /\s*(?:の?(?:開催|公演)?(?:日程|会期)\s?[・、,，]\s?チケット\s?[・、,，]\s?(?:会場|開催地)(?:ガイド|情報|案内|まとめ)?|について知っておきたいこと|で知っておきたいこと|知っておきたいこと|開催情報まとめ|開催情報|情報まとめ|完全ガイド|徹底ガイド|基本ガイド|観戦ガイド|ガイド|基礎知識|まとめ|について|とは)$/,
   es: null,
   zh: /\s*(?:需要了解的信息|看点全解|预告须知|观演指南|观演须知|观赛指南|出行须知|行前须知|参赛指南|完全指南|攻略指南|全攻略|指南|须知|需知)$/,
 };
@@ -67,7 +71,7 @@ function balanced(head) {
 
 // A trailing "(City)" / "（城市）" — the row prints the city in its own column.
 const TRAILING_PAREN = /\s*[(（][^()（）]*[)）]\s*$/;
-const TRAILING_JUNK = /[\s:：、,，·—–-]+$/;
+const TRAILING_JUNK = /[\s:：、,，·—–|｜-]+$/;
 
 /**
  * @param {string} title  the title in `lang` (English title when lang is 'en')

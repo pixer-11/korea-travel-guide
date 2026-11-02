@@ -78,7 +78,7 @@ ${itinLines.join('\n')}
 - [Events calendar (iCal)](${base}/events.ics): Subscribable calendar of upcoming events
 
 ## Tools
-- [Best time to visit — crowd finder](${base}/tools/best-time): Quietest hours to visit venues, from real foot-traffic data
+- [Best time to visit — crowd finder](${base}/tools/best-time): Quietest hours to visit venues, from BestTime.app hourly foot-traffic forecasts
 - [What's closed on your dates](${base}/tools/whats-closed): Public holidays in a date range, and the venues we cover that are shut on those weekdays
 - [Asia holiday overlap calendar](${base}/tools/holiday-overlap): Weeks when several Asian countries are on public holiday at once — open data, CC BY 4.0 ([CSV](${base}/data/asia-holiday-overlap.csv), [iCal](${base}/data/asia-holiday-overlap.ics))
 - [Travel eSIM guides by country](${base}/tools/esim): eSIM vs pocket WiFi vs roaming per country — local networks, setup steps, no stale prices

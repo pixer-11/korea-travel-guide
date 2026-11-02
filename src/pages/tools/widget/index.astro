@@ -44,18 +44,18 @@ for (const pl of places) {
 ---
 <BaseLayout
   image={heroOf(posts, TOOL_OG.widget)}
-  title={`Free crowd-data widget — embed measured quiet hours for ${places.length} places`}
-  description="Add a small card showing measured quiet and busy hours for any of our covered attractions to your own site. Free, one iframe, no scripts."
+  title={`Free crowd-hour widget — embed quiet-hour forecasts for ${places.length} places`}
+  description="Add a small card showing forecast quiet and busy hours (BestTime.app) for any of our covered attractions to your own site. Free, one iframe, no scripts."
 >
   <section class="section">
     <div class="wrap" style="max-width: 46rem">
       <p class="kicker gold">Free widget</p>
-      <h1>Embed measured crowd hours on your site</h1>
+      <h1>Embed crowd-hour forecasts on your site</h1>
       <p class="dek">
-        Pick a place, copy the snippet. The card shows our measured quiet and busy
-        hours — data Google Maps doesn't publish — and stays current automatically.
+        Pick a place, copy the snippet. The card shows BestTime.app's forecast of
+        the quiet and busy hours there, built from historical visit patterns.
         Free to use on any site. Keep the two credit links under the card: the
-        guide, and BestTime.app, who measured the hours.
+        guide, and BestTime.app, whose forecast it is.
       </p>
 
       <div class="widget" style="padding: 1.2rem 1.4rem; margin-top: 1.4rem">
@@ -102,7 +102,7 @@ for (const pl of places) {
       const guide = `${SITE}/posts/${slug}/`;
       code.value =
         `<iframe src="${src}" title="Quiet hours at ${name}" width="100%" height="260" style="max-width:420px;border:1px solid #e4dccd;border-radius:10px" loading="lazy"></iframe>\n` +
-        `<p style="font-size:12px"><a href="${guide}">${name}: measured crowd hours — Wander Atlas</a></p>`;
+        `<p style="font-size:12px"><a href="${guide}">${name}: crowd-hour forecast — Wander Atlas</a></p>`;
       prev.src = `/embed/crowd/${slug}/`;
     };
     // Deep link from guide pages: /tools/widget/?place=<slug> preselects.
