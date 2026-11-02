@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: san-francisco-san-francisco-museum-of-modern-art
-srcHash: 'd2e7bffe1633'
+srcHash: 'bd0985a65dc9'
 title: 'Museo de Arte Moderno de San Francisco (SFMOMA): Guía de viaje (4.6★)'
 description: El SFMOMA se ubica en 151 3rd St, en SoMa, a cinco minutos a pie de la estación Powell St BART/Muni, y bien merece medio día dado que tiene siete plantas de arte contemporáneo y moderno. 4.6★ (16,586 reseñas) — qué dicen los visitantes, horarios y consejos.
 quickAnswer: El SFMOMA se ubica en 151 3rd St, en SoMa, a cinco minutos a pie de la estación Powell St BART/Muni, y bien merece medio día dado que tiene siete plantas de arte contemporáneo y moderno. Ve al final del día — los datos de afluencia muestran que de 5pm a 6pm es la franja más tranquila tanto en días de semana como en fines de semana — y evita la avalancha de fin de semana entre las 11am y las 5pm si puedes. Consulta los horarios y precios de entradas actuales en línea antes de ir, ya que ambos cambian según la temporada.
@@ -40,7 +40,7 @@ Calcula entre dos y tres horas para un recorrido decente por lo más destacado, 
 
 ## Cuándo ir
 
-El patrón de afluencia medido aquí es consistente y útil: los fines de semana alcanzan su punto más alto entre las 11am y las 5pm, así que si una visita en fin de semana es tu única opción, reserva tu entrada para la apertura o déjala para más tarde en el día. Tanto los días de semana como los fines de semana se calman notablemente entre las 5pm y las 6pm — esa es la franja tranquila si el horario del museo ese día se extiende hasta la tarde-noche, y es el mejor momento para ver el atrio y las galerías del piso superior sin tener que abrirte paso entre grupos de turistas.
+El patrón de afluencia habitual aquí es consistente y útil: los fines de semana alcanzan su punto más alto entre las 11am y las 5pm, así que si una visita en fin de semana es tu única opción, reserva tu entrada para la apertura o déjala para más tarde en el día. Tanto los días de semana como los fines de semana se calman notablemente entre las 5pm y las 6pm — esa es la franja tranquila si el horario del museo ese día se extiende hasta la tarde-noche, y es el mejor momento para ver el atrio y las galerías del piso superior sin tener que abrirte paso entre grupos de turistas.
 
 Como los horarios de apertura y los días con horario extendido por la noche varían según la temporada, y el museo cierra en fechas seleccionadas, confirma el horario vigente en el sitio oficial del SFMOMA antes de planear en torno a una hora específica.
 

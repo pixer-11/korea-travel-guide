@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: seattle-chihuly-garden-and-glass
-srcHash: '2a6e7d753f8e'
+srcHash: 'ae8a28bb2161'
 title: 'Chihuly Garden and Glass: Guía de viaje de Seattle'
 description: Chihuly Garden and Glass se encuentra a los pies del Space Needle, en el Seattle Center, y merece dos horas de tu día, hagas o no la visita al Needle en sí.
 quickAnswer: Chihuly Garden and Glass se encuentra a los pies del Space Needle, en el Seattle Center, y merece dos horas de tu día, hagas o no la visita al Needle en sí. Ve justo a la apertura entre semana, o después de las 19:00 los fines de semana, para ver el cristal sin una multitud de hombros por delante. Cuenta con pagar una entrada de precio medio (consulta las tarifas actuales en línea, y ten en cuenta que las entradas combinadas con el Space Needle suelen salir más económicas).
@@ -40,7 +40,7 @@ Reserva al menos 60–90 minutos solo para las galerías interiores, y otros 20�
 
 ## Cuándo ir
 
-Esta es una parada muy popular dentro del circuito del Seattle Center, así que aquí el momento del día importa más que en un museo más tranquilo. Los patrones de afluencia medidos muestran que los fines de semana hay mucho movimiento entre las 11:00 y las 19:00; evita esa franja si puedes. Entre semana está más tranquilo durante todo el día, aproximadamente de 9:00 a 21:00, y los fines de semana tu mejor oportunidad de tener espacio para respirar son las últimas dos horas antes del cierre, de 19:00 a 21:00.
+Esta es una parada muy popular dentro del circuito del Seattle Center, así que aquí el momento del día importa más que en un museo más tranquilo. Los patrones de afluencia habituales muestran que los fines de semana hay mucho movimiento entre las 11:00 y las 19:00; evita esa franja si puedes. Entre semana está más tranquilo durante todo el día, aproximadamente de 9:00 a 21:00, y los fines de semana tu mejor oportunidad de tener espacio para respirar son las últimas dos horas antes del cierre, de 19:00 a 21:00.
 
 El horario varía según el día: de lunes a miércoles cierra a las 20:00, jueves y sábado permanece abierto hasta las 21:30, el viernes abre más temprano, a las 8:30, y funciona hasta las 21:30, y el domingo abre de 9:30 a 20:30; vale la pena consultar el horario actual antes de ir, ya que los museos suelen ajustar sus horarios según la temporada.
 

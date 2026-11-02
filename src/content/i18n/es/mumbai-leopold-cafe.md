@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: mumbai-leopold-cafe
-srcHash: '8cd292ab1108'
+srcHash: 'bbd867d79bb0'
 title: 'Leopold Cafe: Guía de viaje de Mumbai (4.2★)'
 description: 'Leopold Cafe es el histórico bar-restaurante de 1871 situado en Colaba Causeway, abierto todos los días de 7:30 a. m. a 12:30 a. m., donde se sirve de todo, desde tortillas hasta butter chicken y cerveza fría, bajo ventiladores de techo que giran despacio y paredes cubiertas de espejos. 4.2★ (32,901 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Leopold Cafe es el histórico bar-restaurante de 1871 situado en Colaba Causeway, abierto todos los días de 7:30 a. m. a 12:30 a. m., donde se sirve de todo, desde tortillas hasta butter chicken y cerveza fría, bajo ventiladores de techo que giran despacio y paredes cubiertas de espejos. Los fines de semana, de 3 p. m. a 11 p. m., es cuando más gente hay, así que si quieres conseguir mesa sin esperar, ve entre las 7:30 a. m. y el mediodía, cualquier día de la semana. Calcula entre 45 y 90 minutos para la visita, o más si te instalas con una bebida a observar el ir y venir de Colaba Causeway.
@@ -9,7 +9,7 @@ faq:
   - q: ¿Cómo llego a Leopold Cafe desde las estaciones de tren de Mumbai?
     a: Está a unos 15–20 minutos en taxi o auto-rickshaw tanto desde Churchgate como desde CST, ya que Colaba no forma parte de la red ferroviaria suburbana. Queda a poca distancia a pie de la Puerta de la India (Gateway of India) y del hotel Taj Mahal Palace.
   - q: ¿Cuál es el momento más tranquilo para visitarlo?
-    a: Entre las 7:30 a. m. y las 12 p. m., ya sea entre semana o en fin de semana, según los patrones de afluencia registrados. Conviene evitar las tardes y noches de fin de semana, aproximadamente de 3 p. m. a 11 p. m., cuando siempre hay más gente.
+    a: Entre las 7:30 a. m. y las 12 p. m., ya sea entre semana o en fin de semana, según los patrones de afluencia habituales. Conviene evitar las tardes y noches de fin de semana, aproximadamente de 3 p. m. a 11 p. m., cuando siempre hay más gente.
   - q: ¿Cuánto tiempo debería reservar para la visita?
     a: Calcula entre 45 y 90 minutos para una comida o unas bebidas. Funciona bien como parada de desayuno, como descanso para almorzar en medio de un recorrido turístico, o como una sentada más larga por la noche con cócteles.
   - q: ¿Qué hay cerca para combinar con la visita?

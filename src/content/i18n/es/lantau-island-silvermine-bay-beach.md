@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: lantau-island-silvermine-bay-beach
-srcHash: '5f0ef98383c4'
+srcHash: 'cdc31ff8d0ed'
 title: 'Silvermine Bay Beach: guía de viaje de la isla de Lantau (4.1★)'
 description: 'Silvermine Bay Beach (Mui Wo) es una playa de arena tranquila en la isla de Lantau, a la que se llega fácilmente en ferry desde Central, en Hong Kong. Es ideal para pasar medio día nadando, paseando por el malecón y comiendo después en el pueblo de Mui Wo. 4.1★ (1,678 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Silvermine Bay Beach (Mui Wo) es una playa de arena tranquila en la isla de Lantau, a la que se llega fácilmente en ferry desde Central, en Hong Kong. Es ideal para pasar medio día nadando, paseando por el malecón y comiendo después en el pueblo de Mui Wo. Conviene ir un día entre semana, entre las 7 y las 8 de la mañana, cuando la arena está más tranquila; los fines de semana se mantiene concurrida desde la 1pm hasta las 11pm.
@@ -9,7 +9,7 @@ faq:
   - q: ¿Cómo se llega a Silvermine Bay Beach desde la isla de Hong Kong?
     a: Hay que tomar el ferry desde Central Pier 6 hasta Mui Wo (unos 35–55 minutos) y luego caminar entre 10 y 15 minutos hacia el sur por Tung Wan Tau Road hasta llegar a la playa.
   - q: ¿Cuál es el mejor momento para evitar las multitudes?
-    a: Según los datos de afluencia, las mañanas entre semana, entre las 7 y las 8am, son las más tranquilas. Los fines de semana la playa se mantiene concurrida desde la 1pm hasta las 11pm, así que conviene evitar ese horario si se busca espacio en la arena.
+    a: Según la afluencia habitual, las mañanas entre semana, entre las 7 y las 8am, son las más tranquilas. Los fines de semana la playa se mantiene concurrida desde la 1pm hasta las 11pm, así que conviene evitar ese horario si se busca espacio en la arena.
   - q: ¿Es seguro nadar en Silvermine Bay Beach?
     a: 'Sí: la bahía es poco profunda y tranquila, cuenta con una zona de baño delimitada por redes y con socorristas durante la temporada oficial de playa (aproximadamente de junio a octubre). Conviene confirmar las fechas vigentes antes de ir, ya que pueden variar de un año a otro.'
   - q: ¿Cuánto tiempo conviene dedicarle a esta visita?

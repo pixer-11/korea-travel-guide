@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: rome-trevi-fountain
-srcHash: '8a8be640242a'
+srcHash: 'c157ae5862ba'
 title: 'Fontana de Trevi: Guía de viaje de Roma (4.7★)'
 description: 'La Fontana de Trevi es un monumento gratuito al aire libre en el centro de Roma que se puede visitar en cualquier momento, pero conviene ir entre las 9:00 y las 11:00 (cualquier día de la semana) para realmente ver la piedra rococó en lugar de la parte de atrás de mil teléfonos. 4.7★ (516,343 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: La Fontana de Trevi es un monumento gratuito al aire libre en el centro de Roma que se puede visitar en cualquier momento, pero conviene ir entre las 9:00 y las 11:00 (cualquier día de la semana) para realmente ver la piedra rococó en lugar de la parte de atrás de mil teléfonos. Es una parada de 15 minutos para la clásica foto con la moneda, o de una hora si te entretienes con un helado y las calles de alrededor. Ten en cuenta que los lunes y viernes no abre hasta las 11:30, así que una visita temprana esos dos días significa llegar justo a esa hora de apertura más tardía.
@@ -9,7 +9,7 @@ faq:
   - q: ¿Hay que pagar entrada para la Fontana de Trevi?
     a: 'No: es una plaza pública con acceso libre y gratuito durante todo el horario en que figura como abierta; no hay entrada ni tarifa de admisión.'
   - q: ¿Cuál es el momento más tranquilo para visitarla?
-    a: 'Entre las 9:00 y las 11:00, tanto en días de semana como en fin de semana, según los datos medidos de afluencia de visitantes: tendrás espacio real junto a la baranda en lugar de una pared de teléfonos.'
+    a: 'Entre las 9:00 y las 11:00, tanto en días de semana como en fin de semana, según la afluencia habitual de visitantes: tendrás espacio real junto a la baranda en lugar de una pared de teléfonos.'
   - q: ¿Cómo llego en metro?
     a: Toma la Línea A hasta la estación Barberini y camina unos 10 minutos cuesta abajo, o usa la estación Spanish Steps (también Línea A) y camina por las calles comerciales.
   - q: ¿Cuánto tiempo debería dedicarle a la fontana?
@@ -38,7 +38,7 @@ Mira hacia arriba y a los lados para ver los paneles de piedra más pequeños qu
 
 ## Cuándo ir
 
-Este es uno de los monumentos más visitados de Italia, y la plaza es pequeña en relación con la multitud que atrae, así que el momento del día importa aquí más que en casi cualquier otro lugar de Roma. Los datos de afluencia muestran que la franja tranquila es entre las 9:00 y las 11:00, tanto en días de semana como en fin de semana; llega en ese horario y tendrás espacio real junto a la baranda.
+Este es uno de los monumentos más visitados de Italia, y la plaza es pequeña en relación con la multitud que atrae, así que el momento del día importa aquí más que en casi cualquier otro lugar de Roma. La afluencia habitual muestra que la franja tranquila es entre las 9:00 y las 11:00, tanto en días de semana como en fin de semana; llega en ese horario y tendrás espacio real junto a la baranda.
 
 Evita presentarte entre las 14:00 y las 21:00 en fin de semana, que es sistemáticamente el tramo más concurrido. La fontana misma tiene un horario amplio, de 9:00 a 22:00 la mayoría de los días, aunque los lunes y viernes abre más tarde, a las 11:30, así que planifica una visita temprana esos dos días en torno a ese horario de apertura más tardío en lugar de suponer que podrás llegar a las 9:00.
 

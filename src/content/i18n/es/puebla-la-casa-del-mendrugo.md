@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: puebla-la-casa-del-mendrugo
-srcHash: '4f9b69212a04'
+srcHash: 'b1ca5fa718b7'
 title: 'La Casa del Mendrugo: dónde comer en Puebla (4.7★)'
 description: En el Centro de Puebla, en Calle 4 Sur 304, La Casa del Mendrugo ofrece cocina poblana y española a precios moderados dentro de un antiguo colegio jesuita que alberga además un museo. Tiene 4.7★ (13,396 reseñas). Aquí encontrará la opinión de los visitantes, los horarios y algunos consejos.
 quickAnswer: Instalado en un antiguo colegio jesuita que cuenta con su propio museo, La Casa del Mendrugo es un restaurante de precio medio situado en Calle 4 Sur 304, en el Centro de Puebla, donde se sirve cocina poblana y española. Entre semana hay tranquilidad de 8am a 11pm. El fin de semana conviene llegar entre las 8am y las 11am, porque de 11am a 9pm se llena; tenga en cuenta, además, que el domingo cierra a las 6pm.
@@ -36,7 +36,7 @@ Si alguien del grupo no quiere mole, la parte española de la carta ofrece una b
 
 ## Cómo esquivar las aglomeraciones
 
-Aunque se trata de un lugar concurrido y muy conocido, los datos de afluencia tranquilizan. **Entre semana la calma se mantiene durante todo el horario, de 8am a 11pm**, de modo que una cena un martes apenas requiere planificación.
+Aunque se trata de un lugar concurrido y muy conocido, la afluencia habitual tranquiliza. **Entre semana la calma se mantiene durante todo el horario, de 8am a 11pm**, de modo que una cena un martes apenas requiere planificación.
 
 El fin de semana cambia la cosa. Sábados y domingos, **la mayor afluencia se concentra de 11am a 9pm**, por lo que conviene no presentarse a comer a mediodía. La franja más tranquila de esos días comienza a las 8am, y el desayuno es la forma más sencilla de conseguir mesa sin esperar.
 

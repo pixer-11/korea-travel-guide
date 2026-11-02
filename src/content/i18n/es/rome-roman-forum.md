@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: rome-roman-forum
-srcHash: '1a95a787fca5'
+srcHash: 'dce83301f9ec'
 title: 'Foro Romano: Guía de viaje de Roma (4,8★)'
 description: 'Entra al Foro Romano justo a las 9:00 (por la entrada de Via della Salaria Vecchia, cerca del Arco de Tito, o combinado con la entrada del Coliseo/Palatino) para adelantarte a los grupos turísticos: entre las 9:00 y las 10:00 es el momento más tranquilo todos los días, mientras que entre las 11:00 y las 14:00 los fines de semana es cuando hay más aglomeraciones. 4,8★ (145.233 reseñas): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: 'Entra al Foro Romano justo a las 9:00 (por la entrada de Via della Salaria Vecchia, cerca del Arco de Tito, o combinado con la entrada del Coliseo/Palatino) para adelantarte a los grupos turísticos: entre las 9:00 y las 10:00 es el momento más tranquilo todos los días, mientras que entre las 11:00 y las 14:00 los fines de semana es cuando hay más aglomeraciones. Calcula entre dos y tres horas para recorrer la Vía Sacra, el Templo de Saturno y subir a la Colina del Palatino, y ten en cuenta que el sitio cierra a las 16:30 todos los días, así que planea una visita por la mañana o a primera hora de la tarde.'
@@ -36,7 +36,7 @@ La parada de metro más cercana es Colosseo, en la Línea B, a dos minutos a pie
 
 ## Cuándo ir
 
-El Foro mantiene un horario de apertura fijo todos los días de la semana, así que no hay ningún resquicio de madrugada o de noche: organiza tu visita dentro de ese horario y ten en cuenta que la última entrada suele ser considerablemente anterior al cierre. Los datos de afluencia muestran que entre las 9:00 y las 10:00 es la hora más tranquila tanto en días de semana como en fines de semana, antes de que empiecen a llegar en masa los grupos turísticos.
+El Foro mantiene un horario de apertura fijo todos los días de la semana, así que no hay ningún resquicio de madrugada o de noche: organiza tu visita dentro de ese horario y ten en cuenta que la última entrada suele ser considerablemente anterior al cierre. La afluencia habitual muestra que entre las 9:00 y las 10:00 es la hora más tranquila tanto en días de semana como en fines de semana, antes de que empiecen a llegar en masa los grupos turísticos.
 
 Si visitas el sitio en sábado o domingo, trata de evitar el tramo de 11:00 a 14:00, cuando los caminos alrededor del Arco de Tito y la Curia se congestionan de verdad. Las tardes de primavera y otoño son agradables en cuanto a temperatura, pero conviene tener en cuenta el sol de pleno verano, con casi nada de sombra en todo el valle abierto: una franja horaria temprana importa aún más de junio a septiembre.
 

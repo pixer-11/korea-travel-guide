@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: okayama-okayama-prefectural-museum-of-art
-srcHash: '88aef13f1482'
+srcHash: 'c78ade947466'
 title: 'Museo de Arte de la Prefectura de Okayama: guía de viaje (4.1★)'
 description: 'A pocos pasos del Castillo de Okayama y del jardín Kōrakuen, en el barrio de Tenjinchō (distrito de Kita), el Museo de Arte de la Prefectura de Okayama reúne el arte vinculado a la prefectura: pintura a tinta de Sesshū y Miyamoto Musashi junto a obra japonesa y de estilo occidental más tardía. 4.1★ (1,564 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'A pocos pasos del Castillo de Okayama y del jardín Kōrakuen, en el barrio de Tenjinchō (distrito de Kita), se encuentra el Museo de Arte de la Prefectura de Okayama (Okayama Prefectural Museum of Art). Es el lugar indicado para conocer el arte ligado a la prefectura: la pintura a tinta de Sesshū y Miyamoto Musashi convive con obra japonesa y de estilo occidental de épocas posteriores. Actualmente abre de martes a domingo, en horario de 9am–5pm, y cierra los lunes. Los fines de semana hay mucha afluencia de 9am a 5pm, así que entre semana tendrá más posibilidades de recorrer salas tranquilas.'
@@ -56,7 +56,7 @@ Con el calor del verano o si lleva equipaje, el tranvía es la opción más cóm
 
 ## Mejor entre semana: cuándo ir
 
-Los datos de afluencia no dejan lugar a dudas sobre los fines de semana: sábados y domingos hay mucha gente durante todo el horario de apertura, de 9am a 5pm. Ninguna franja del fin de semana garantiza librarse del público que acude a una exposición temporal de éxito.
+La afluencia habitual no deja lugar a dudas sobre los fines de semana: sábados y domingos hay mucha gente durante todo el horario de apertura, de 9am a 5pm. Ninguna franja del fin de semana garantiza librarse del público que acude a una exposición temporal de éxito.
 
 Si su agenda lo permite, vaya de martes a viernes. Actualmente el museo abre esos días de 9am–5pm y permanece cerrado todo el lunes. Los horarios pueden variar por cambios de exposición y días festivos, por lo que conviene consultar en la web oficial el calendario del mes. Reserve 1.5–2 horas para ver una exposición temporal y las salas de la colección.
 

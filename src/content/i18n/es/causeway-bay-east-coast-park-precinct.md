@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: causeway-bay-east-coast-park-precinct
-srcHash: '8216848bca62'
+srcHash: 'a76a73bac040'
 title: 'East Coast Park Precinct: guía de viaje de Causeway Bay (4,4★)'
 description: 'East Coast Park Precinct, en Causeway Bay, es una estrecha franja frente al mar a lo largo de Watson Rd, en la costa norte de la isla de Hong Kong, abierta las 24 horas y de entrada gratuita. 4,4★ (791 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: East Coast Park Precinct, en Causeway Bay, es una estrecha franja frente al mar a lo largo de Watson Rd, en la costa norte de la isla de Hong Kong, abierta las 24 horas y de entrada gratuita. Está más tranquilo entre semana y los fines de semana por la mañana, entre las 7:00 y las 8:00, antes de que llegue la afluencia de público de 9:00 a 21:00 los fines de semana. Calcule entre 30 y 45 minutos si solo pasa por allí, o más tiempo si lleva bicicleta o un picnic.
@@ -38,7 +38,7 @@ No hay aparcamiento propio; el estacionamiento en la calle, en Watson Rd y en la
 
 ## Cuándo ir
 
-Según los datos de afluencia registrados, las mañanas entre semana, entre las 7:00 y las 8:00, son el momento más tranquilo, antes de que lleguen los oficinistas y quienes pasean a sus perros. Las mañanas de fin de semana en ese mismo tramo horario, de 7:00 a 8:00, son igual de apacibles.
+Según la afluencia habitual, las mañanas entre semana, entre las 7:00 y las 8:00, son el momento más tranquilo, antes de que lleguen los oficinistas y quienes pasean a sus perros. Las mañanas de fin de semana en ese mismo tramo horario, de 7:00 a 8:00, son igual de apacibles.
 
 Conviene evitar las tardes y noches de fin de semana: el paseo se llena de gente entre las 9:00 y las 21:00 los sábados y domingos, con corredores, ciclistas y familias que salen a disfrutar de la brisa marina. Aunque tiene una valoración media de 4,4 estrellas basada en casi 800 reseñas, se considera un lugar poco conocido, así que llegar temprano permite disfrutar de un buen tramo del paseo casi en soledad, incluso los fines de semana.
 

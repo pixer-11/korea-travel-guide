@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: gyeongju-seongdong-market
-srcHash: '5b729310e5ed'
+srcHash: '21ce53b6a39e'
 title: 'Mercado Seongdong: Guía de Viaje de Gyeongju (4,1★)'
 description: 'Cerca de la zona de la estación de tren, en el casco antiguo de Gyeongju, el mercado Seongdong es un mercado cubierto de productos frescos y comida, genuino y sin pulir, más que una atracción turística; abre todos los días de 5:00 a 19:00. 4,1★ (2.405 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Cerca de la zona de la estación de tren, en el casco antiguo de Gyeongju, el mercado Seongdong es un mercado cubierto de productos frescos y comida, genuino y sin pulir, más que una atracción turística; abre todos los días de 5:00 a 19:00. Para tener espacio para moverte, ve un día entre semana por la mañana, ya que los fines de semana entre las 10:00 y las 18:00 se concentra la mayor multitud. Calcula una hora para recorrer los callejones, comer algo de pie en los puestos y comprar fruta o banchan para llevar a tu alojamiento.
@@ -42,7 +42,7 @@ Este no es un lugar para menús degustación: es un lugar para comer de pie fren
 
 ## Cuándo ir
 
-El mercado Seongdong mantiene el mismo horario los siete días de la semana, de 5:00 a 19:00, así que hay flexibilidad para visitarlo, aunque no todas las horas se sienten igual. Según los datos de afluencia, el mercado se mantiene relativamente tranquilo durante una franja amplia, de 7:00 a 19:00 tanto entre semana como en fin de semana, mientras que la verdadera aglomeración se forma los fines de semana entre las 10:00 y las 18:00, cuando coinciden los turistas de un día y los vecinos que hacen su compra semanal.
+El mercado Seongdong mantiene el mismo horario los siete días de la semana, de 5:00 a 19:00, así que hay flexibilidad para visitarlo, aunque no todas las horas se sienten igual. Según la afluencia habitual, el mercado se mantiene relativamente tranquilo durante una franja amplia, de 7:00 a 19:00 tanto entre semana como en fin de semana, mientras que la verdadera aglomeración se forma los fines de semana entre las 10:00 y las 18:00, cuando coinciden los turistas de un día y los vecinos que hacen su compra semanal.
 
 Si puedes elegir, ve un día laborable por la mañana, idealmente antes de las 10:00: los puestos ya están abiertos, la comida de desayuno recién sale de la plancha, y puedes ver bien los productos expuestos sin tener que abrirte paso entre la gente. Las horas más tempranas, cerca de la apertura, están reservadas prácticamente a compradores mayoristas y dueños de restaurantes reabasteciéndose, así que la media mañana es el momento más realista para los visitantes.
 

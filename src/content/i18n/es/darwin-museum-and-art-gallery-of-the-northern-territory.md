@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: darwin-museum-and-art-gallery-of-the-northern-territory
-srcHash: '886543187020'
+srcHash: '0a569f6ee584'
 title: 'Museo y Galería de Arte del Territorio del Norte: guía de viaje de Darwin'
 description: En el 19 Conacher St de The Gardens, en Darwin, se encuentra el Museo y Galería de Arte del Territorio del Norte, junto al puerto y entre el centro de la ciudad y Fannie Bay. Tiene una valoración de 4.6★ (4035 reseñas). Aquí encontrará lo que opinan los visitantes, además de horarios y consejos.
 quickAnswer: En el 19 Conacher St de The Gardens, en Darwin, se encuentra el Museo y Galería de Arte del Territorio del Norte, junto al puerto y entre el centro de la ciudad y Fannie Bay. Abre todos los días de 10am a 4pm. Entre semana, la franja más tranquila va de 3pm a 4pm. Los fines de semana, en cambio, la mayor afluencia se da de 10am a 2pm. Lo ideal es dedicarle entre dos y tres horas una tarde entre semana.
@@ -43,7 +43,7 @@ Hay autobuses urbanos que salen de la ciudad en dirección a Fannie Bay. Las lí
 
 El museo abre de 10am a 4pm los siete días de la semana. Como la jornada es corta, conviene planificarse. Lo adecuado son entre dos y tres horas. Es tiempo suficiente para ver sin prisas el arte indígena, Ciclón Tracy y Sweetheart, y para recorrer la sala marítima.
 
-Los datos de afluencia son claros. Entre semana, la hora más tranquila va de 3pm a 4pm. El fin de semana, procure no llegar entre las 10am y las 2pm, porque es cuando las salas se llenan.
+La afluencia habitual sigue un patrón claro. Entre semana, la hora más tranquila va de 3pm a 4pm. El fin de semana, procure no llegar entre las 10am y las 2pm, porque es cuando las salas se llenan.
 
 La mejor estrategia consiste en llegar un día laborable hacia la 1pm y empezar por el arte. Deje Ciclón Tracy y Sweetheart para la última hora, cuando las salas se vacían.
 

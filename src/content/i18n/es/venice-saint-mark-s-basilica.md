@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: venice-saint-mark-s-basilica
-srcHash: 'a19b3c7ba7e2'
+srcHash: '613a99c63b97'
 title: 'Basílica de San Marcos: guía de viaje de Venecia (4.7★)'
 description: En el extremo oriental de la plaza de San Marcos (Piazza San Marco) se alza la gran catedral bizantina de Venecia, con sus cinco cúpulas, una fachada de mármoles y bronces expoliados y un interior revestido de mosaicos dorados. Con una valoración de 4.7★ (29,559 reseñas), aquí encontrará qué opinan los visitantes, los horarios y consejos prácticos.
 quickAnswer: 'En el extremo oriental de la plaza de San Marcos (Piazza San Marco) se alza la Basílica de San Marcos, la gran catedral bizantina de Venecia. Tiene cinco cúpulas, una fachada de mármoles y bronces expoliados y un interior revestido por completo de mosaicos dorados. Lo ideal es llegar justo a la hora de apertura o a primera hora de la tarde: a partir del mediodía la afluencia no deja de crecer y los fines de semana alcanza su máximo entre las 12pm y las 3pm. La entrada a la iglesia es gratuita, aunque conviene reservar algo más de tiempo y un pequeño presupuesto para la Loggia dei Cavalli, la Pala d''Oro y el Tesoro.'
@@ -42,7 +42,7 @@ La tercera es el Tesoro, que guarda relicarios bizantinos y piezas de plata que 
 
 La basílica solo abre la iglesia a los visitantes cuando termina la misa de la mañana, y cierra antes de lo que cabría esperar en un monumento de esta categoría. Por eso conviene plantear la visita entre media mañana y media tarde, y no como la primera o la última parada del día. Antes de ir, consulte el horario vigente en la web oficial de la basílica, ya que varía según el calendario litúrgico.
 
-Según los datos de afluencia, la franja más tranquila va de 9:30am a 5:15pm entre semana y los sábados, y de 2pm a 5:15pm los domingos. Dicho de otro modo, la afluencia se mantiene bastante uniforme durante todo el horario de apertura. El único tramo que conviene evitar a toda costa es el de 12pm–3pm los fines de semana, cuando los grupos organizados se concentran en la plaza entre la comida y media tarde.
+Según la afluencia habitual, la franja más tranquila va de 9:30am a 5:15pm entre semana y los sábados, y de 2pm a 5:15pm los domingos. Dicho de otro modo, la afluencia se mantiene bastante uniforme durante todo el horario de apertura. El único tramo que conviene evitar a toda costa es el de 12pm–3pm los fines de semana, cuando los grupos organizados se concentran en la plaza entre la comida y media tarde.
 
 Si quiere contemplar los mosaicos sin una muralla de espaldas por delante, procure entrar durante la primera hora tras la apertura.
 

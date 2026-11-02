@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: new-orleans-oak-alley-plantation
-srcHash: '9efe4b4c809f'
+srcHash: '0cd4a0c33032'
 title: 'Oak Alley Plantation: Guía de viaje de Nueva Orleans (4.6★)'
 description: Oak Alley Plantation está a una hora al oeste de Nueva Orleans, en la LA-18, en Vacherie, conocida por su túnel de un cuarto de milla formado por robles centenarios de 300 años que conduce a una mansión de estilo Greek Revival. 4.6★ (10,792 reseñas) — lo que dicen los visitantes, horarios y consejos.
 quickAnswer: Oak Alley Plantation está a una hora al oeste de Nueva Orleans, en la LA-18, en Vacherie, conocida por su túnel de un cuarto de milla formado por robles centenarios de 300 años que conduce a una mansión de estilo Greek Revival. Abre todos los días de 8:30am a 4:45pm; llega justo a la apertura (de 8:30am a 10am es cuando hay menos gente) para evitar los autobuses turísticos que llegan en masa antes del mediodía. Reserva medio día, incluyendo el trayecto en coche, y combínalo con Whitney Plantation, cerca de allí, para tener una visión más completa de la historia de la región.
@@ -45,7 +45,7 @@ También hay un restaurante en el sitio que sirve comida tradicional de Luisiana
 
 ## Cuándo ir
 
-Oak Alley abre todos los días, sin día de cierre durante la semana. Los datos medidos de tráfico peatonal muestran que la franja más tranquila es de 8:30am a 10am, tanto en días de semana como en fines de semana.
+Oak Alley abre todos los días, sin día de cierre durante la semana. Los datos habituales de tráfico peatonal muestran que la franja más tranquila es de 8:30am a 10am, tanto en días de semana como en fines de semana.
 
 Evita llegar entre el mediodía y las 3pm los fines de semana — es cuando los autobuses turísticos y las multitudes de excursionistas de un día alcanzan su punto máximo, y la fila para el recorrido de la mansión se hace más larga más rápido. La primavera y el otoño traen temperaturas más suaves que el calor intenso del verano en Luisiana, aunque los robles se ven imponentes en cualquier estación.
 

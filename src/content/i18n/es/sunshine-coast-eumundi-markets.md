@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: sunshine-coast-eumundi-markets
-srcHash: '4066f3a17561'
+srcHash: 'cabb422e61e4'
 title: 'Mercado de Eumundi (Eumundi Markets): guía de viaje por la Sunshine Coast (4.5★)'
 description: En Memorial Drive, en Eumundi, se instala el Eumundi Markets. Este pueblo del interior de la Sunshine Coast queda a unos 20 minutos de Noosa, y el mercado abre actualmente solo los miércoles y sábados, de 7:30am a 2pm. Con 4.5★ (12,595 reseñas), aquí encontrará las opiniones de los visitantes, el horario y varios consejos.
 quickAnswer: El Eumundi Markets se celebra en Memorial Drive, en Eumundi, un pueblo del interior de la Sunshine Coast situado a unos 20 minutos de Noosa. Actualmente solo abre los miércoles y sábados, de 7:30am a 2pm. Los sábados la mayor afluencia va de 8am a 2pm, de modo que ese día la única franja tranquila es la primera media hora tras la apertura. Reserve entre dos y tres horas para la visita.
@@ -35,7 +35,7 @@ Por todo el recinto hay puestos de comida callejera, de modo que se puede desayu
 
 El horario es reducido. Por ahora, los miércoles y sábados las puertas abren a las 7:30am y los puestos se desmontan a las 2pm. El resto de la semana el recinto está cerrado. Antes de ponerse en camino, consulte la web oficial del mercado, ya que los festivos y los cambios de temporada pueden alterar el calendario.
 
-El sábado es el gran día. Según las mediciones de afluencia, el pico del fin de semana va de 8am a 2pm, es decir, casi toda la jornada. Si solo puede ir en sábado, llegue a las 7:30am y recorra los pasillos antes de las 8am.
+El sábado es el gran día. Por lo general, el pico de afluencia del fin de semana va de 8am a 2pm, es decir, casi toda la jornada. Si solo puede ir en sábado, llegue a las 7:30am y recorra los pasillos antes de las 8am.
 
 Quien disponga de flexibilidad entre semana tiene en el miércoles la alternativa evidente. Llegar tarde supone un riesgo real: a primera hora de la tarde algunos artesanos ya están recogiendo, y a las 2pm se cierra sin excepción.
 

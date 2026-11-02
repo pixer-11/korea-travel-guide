@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: calgary-prince-s-island-park
-srcHash: 'c6258e1d8c4a'
+srcHash: '066127e7d930'
 title: 'Prince''s Island Park: guía de viaje de Calgary (4.7★)'
 description: 'En el límite norte del centro de Calgary, junto al barrio de Eau Claire, Prince''s Island Park es una isla del río Bow libre de coches a la que solo se llega a pie, por pasarelas peatonales. 4.7★ (9,121 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En el límite norte del centro de Calgary, junto al barrio de Eau Claire, se encuentra Prince's Island Park. Es una isla del río Bow donde no entran coches y a la que se accede a pie por pasarelas peatonales. Los senderos están más tranquilos entre las 7am y las 9am, cualquier día de la semana. Conviene evitar los fines de semana de 11am a 10pm, cuando el césped, los puentes y el paseo registran la mayor afluencia.
@@ -50,7 +50,7 @@ Desde las estaciones del CTrain del centro, situadas a lo largo de la 7 Avenue, 
 
 ## Cuándo ir para disfrutar del césped y los senderos
 
-Los datos de afluencia hablan por sí solos. La franja más tranquila va de las 7am a las 9am, tanto entre semana como en fin de semana. A esas horas los senderos se comparten casi solo con corredores y con ciclistas que van al trabajo siguiendo el río, y la luz entra rasante sobre el agua.
+La afluencia habitual sigue un patrón claro. La franja más tranquila va de las 7am a las 9am, tanto entre semana como en fin de semana. A esas horas los senderos se comparten casi solo con corredores y con ciclistas que van al trabajo siguiendo el río, y la luz entra rasante sobre el agua.
 
 Procure no llegar después de las 11am un fin de semana. Desde esa hora y hasta las 10pm el parque alcanza su máxima ocupación: se forman atascos en los puentes y ya no queda ninguna sombra buena para el pícnic. Según Google, la isla está abierta las 24 horas, aunque las normas municipales de los parques y los cierres por eventos pueden alterar ese horario. Si piensa ir tarde, consulte antes la página del parque en la web del Ayuntamiento de Calgary (City of Calgary).
 

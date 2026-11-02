@@ -1,15 +1,15 @@
 ---
 lang: es
 slug: ha-long-bay-dau-go-cave
-srcHash: '7928f91f72a3'
+srcHash: '4ff82b3cc952'
 title: 'Cueva de Dau Go: guía de viaje por la bahía de Ha Long (4.6★)'
 description: 'En la isla de Dau Go, en plena bahía de Ha Long, se abre esta cueva de piedra caliza. Se llega en barco desde Bai Chay, en la ciudad de Ha Long, y suele visitarse en la misma parada que la cueva de Thien Cung. 4.6★ (1,564 reseñas): opiniones de los visitantes, horarios y consejos.'
-quickAnswer: La cueva de Dau Go es una cavidad de piedra caliza situada en la isla del mismo nombre, en la bahía de Ha Long. Solo se llega en barco desde Bai Chay, en la ciudad de Ha Long, y casi siempre se visita en la misma parada que la cueva de Thien Cung. Cuente con pasar dentro entre 30 y 45 minutos. Conviene evitar los fines de semana entre las 8am y las 5pm, cuando más gente hay. Según los datos de afluencia, las horas más tranquilas van de 6pm a 11pm, aunque será el horario de su barco el que decida si puede ir a esas horas.
+quickAnswer: La cueva de Dau Go es una cavidad de piedra caliza situada en la isla del mismo nombre, en la bahía de Ha Long. Solo se llega en barco desde Bai Chay, en la ciudad de Ha Long, y casi siempre se visita en la misma parada que la cueva de Thien Cung. Cuente con pasar dentro entre 30 y 45 minutos. Conviene evitar los fines de semana entre las 8am y las 5pm, cuando más gente hay. Por lo general, las horas más tranquilas van de 6pm a 11pm, aunque será el horario de su barco el que decida si puede ir a esas horas.
 faq:
   - q: ¿Cómo se llega a la cueva de Dau Go?
     a: La única forma de llegar es en barco. Las embarcaciones de un día zarpan desde Bai Chay, en la ciudad de Ha Long, y muchos cruceros con noche a bordo salen del puerto deportivo de la isla de Tuan Chau. Al bajar en el embarcadero hay que subir una empinada escalera de piedra hasta la entrada de la cueva.
   - q: ¿Cuál es el momento más tranquilo para visitar la cueva de Dau Go?
-    a: Según los datos de afluencia, hay menos gente entre las 6pm y las 11pm, tanto entre semana como en fin de semana. Los fines de semana de 8am a 5pm se concentra el mayor número de visitantes, así que es mejor evitarlos siempre que se pueda. Antes de organizarse en función de ese horario, confirme que su barco realmente hace escala allí por la tarde.
+    a: Por lo general, hay menos gente entre las 6pm y las 11pm, tanto entre semana como en fin de semana. Los fines de semana de 8am a 5pm se concentra el mayor número de visitantes, así que es mejor evitarlos siempre que se pueda. Antes de organizarse en función de ese horario, confirme que su barco realmente hace escala allí por la tarde.
   - q: ¿Cuánto tiempo conviene dedicarle a la visita?
     a: Para Dau Go bastan entre 30 y 45 minutos. La mayoría de los visitantes también entra en la cueva de Thien Cung, en la misma isla, lo que supone más o menos otro tanto.
   - q: ¿Es difícil recorrer la cueva de Dau Go?
@@ -39,7 +39,7 @@ Desde el embarcadero, una empinada escalera de piedra trepa por el acantilado ha
 Según Google, la cueva abre las 24 horas todos los días. En la práctica, usted llegará cuando llegue su barco.
 
 - **Evite:** los fines de semana de 8am a 5pm. A esas horas los grupos organizados se amontonan en la escalera y en los pasajes más estrechos.
-- **Lo más tranquilo:** de 6pm a 11pm, tanto entre semana como en fin de semana, según los datos de afluencia. Como pocos barcos programan la visita a la cueva tan tarde, pregunte a su operador antes de contar con ello.
+- **Lo más tranquilo:** de 6pm a 11pm, tanto entre semana como en fin de semana, según la afluencia habitual. Como pocos barcos programan la visita a la cueva tan tarde, pregunte a su operador antes de contar con ello.
 - **La segunda mejor opción:** salir un día laborable. Durante el día, entre semana, hay menos gente que en las horas punta del fin de semana.
 
 Reserve entre 30 y 45 minutos para Dau Go. Si también visita Thien Cung, sume aproximadamente otro tanto.

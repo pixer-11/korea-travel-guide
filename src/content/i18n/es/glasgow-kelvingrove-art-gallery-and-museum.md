@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: glasgow-kelvingrove-art-gallery-and-museum
-srcHash: '0b76f86e8339'
+srcHash: 'f81df272966a'
 title: 'Kelvingrove Art Gallery and Museum: guía de viaje de Glasgow'
 description: En Argyle Street, en pleno West End de Glasgow, el Kelvingrove Art Gallery and Museum linda con Kelvingrove Park y queda a pocos pasos de la estación de metro de Kelvinhall. Con una valoración de 4.7★ (25,984 reseñas), recogemos aquí la opinión de los visitantes, los horarios y algunos consejos.
 quickAnswer: El Kelvingrove Art Gallery and Museum se encuentra en Argyle Street, en el West End de Glasgow, junto a Kelvingrove Park y a un corto paseo de la estación de metro de Kelvinhall. La entrada general es gratuita. Entre semana, los momentos más tranquilos van de 10:00 a 12:00 y de 16:00 a 17:00; las tardes del fin de semana, de 12:00 a 17:00, son la franja de mayor afluencia. Conviene reservarle entre dos y tres horas.
@@ -36,7 +36,7 @@ La colección combina arte e historia natural de forma deliberada, de modo que l
 
 ## Cómo esquivar las aglomeraciones del fin de semana
 
-Aquí el momento de la visita marca una gran diferencia, y los datos de afluencia no dejan lugar a dudas. Entre semana, la calma reina de 10:00 a 12:00 y, de nuevo, de 16:00 a 17:00. Es preferible no llegar un sábado o un domingo después de las 12:00: desde esa hora y hasta el cierre de las 17:00, las salas se llenan de familias y la sala de Dalí se abarrota.
+Aquí el momento de la visita marca una gran diferencia, y la afluencia habitual sigue un patrón claro. Entre semana, la calma reina de 10:00 a 12:00 y, de nuevo, de 16:00 a 17:00. Es preferible no llegar un sábado o un domingo después de las 12:00: desde esa hora y hasta el cierre de las 17:00, las salas se llenan de familias y la sala de Dalí se abarrota.
 
 Preste atención también a los horarios de apertura. Actualmente, el museo abre a las 10:00 de lunes a jueves y los sábados, pero a las 11:00 los viernes y domingos. Por eso, la mejor opción para ver el Centre Hall vacío es un martes o un miércoles a las 10:00. Como los horarios pueden variar en torno a los festivos, consulte la web oficial de Glasgow Life antes de ir.
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: toulouse-basilique-saint-sernin-de-toulouse
-srcHash: 'c625327dfc53'
+srcHash: '22c967719b97'
 title: 'Basílica de Saint-Sernin de Toulouse: guía de viaje (4.7★)'
 description: 'Cerca del Capitolio de Toulouse, la Basílica de Saint-Sernin es la iglesia románica más grande de Europa que aún se conserva en pie y alberga reliquias de 128 santos. 4.7★ (15.631 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'Cerca del Capitolio de Toulouse, la Basílica de Saint-Sernin es la iglesia románica más grande de Europa que aún se conserva en pie y alberga reliquias de 128 santos. Abre de 8:30 a 18:00 de lunes a sábado, y de 10:00 a 17:30 los domingos. Conviene llegar justo a la apertura, ya que el tramo entre las 9:00 y las 10:00 es el más tranquilo todos los días: las multitudes aumentan rápido y se mantienen numerosas de 11:00 a 18:00 los fines de semana.'
@@ -40,7 +40,7 @@ Desde la estación de tren, Gare Matabiau, el trayecto es de unos 15 minutos a p
 
 ## Cuándo ir
 
-Según los datos de afluencia registrados, las mañanas entre semana, de 9:00 a 10:00, son las horas más tranquilas para la visita, y ese mismo tramo se mantiene igual de calmado los fines de semana. Las tardes de fin de semana son harina de otro costal: desde las 11:00 hasta el cierre, los grupos turísticos y los excursionistas de un día llenan la nave, y el ruido de la multitud aumenta con ellos.
+Según la afluencia habitual, las mañanas entre semana, de 9:00 a 10:00, son las horas más tranquilas para la visita, y ese mismo tramo se mantiene igual de calmado los fines de semana. Las tardes de fin de semana son harina de otro costal: desde las 11:00 hasta el cierre, los grupos turísticos y los excursionistas de un día llenan la nave, y el ruido de la multitud aumenta con ellos.
 
 Los domingos el horario es más corto, de 10:00 a 17:30, y las misas pueden restringir el acceso de los turistas a ciertas zonas de la iglesia. Conviene tenerlo en cuenta si la fotografía o un momento de tranquilidad en la cripta son importantes para el visitante.
 

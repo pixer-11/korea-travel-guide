@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: mexico-city-taqueria-arandas
-srcHash: '70f591638f14'
+srcHash: '8c1974d20122'
 title: 'Taquería Arandas: dónde comer en la Ciudad de México (4.2★)'
 description: En Av. 5 de Mayo 46, a pocas cuadras del Zócalo en el Centro Histórico de la Ciudad de México, la Taquería Arandas abre las 24 horas todos los días. Con 4.2★ (11,604 reseñas), le contamos qué opinan los visitantes, su horario y algunos consejos.
 quickAnswer: En el Centro Histórico de la Ciudad de México, a pocas cuadras del Zócalo, la Taquería Arandas ocupa el número 46 de la Av. 5 de Mayo y abre las 24 horas todos los días. Si quiere esperar lo menos posible, vaya entre las 7am y las 10am, cualquier día de la semana. Los fines de semana conviene evitar la franja de 12pm a 11pm, cuando se llena más.
@@ -38,7 +38,7 @@ Al ser una calle plana, se recorre a pie sin esfuerzo. Por eso resulta fácil ha
 
 Aquí nunca se cierra. Como figura abierta las 24 horas todos los días de la semana, puede venir a desayunar, a comer tarde o a las 3am, de regreso de Garibaldi.
 
-La afluencia ya es otro asunto. De acuerdo con las mediciones de visitantes, la franja más tranquila va de las 7am a las 10am, tanto entre semana como en fin de semana. Los fines de semana, evite el horario de 12pm a 11pm: es el momento de mayor movimiento, con las mesas ocupadas y fila en la barra. Si quiere sentarse, lo más recomendable es ir entre semana y fuera de la hora de la comida.
+La afluencia ya es otro asunto. De acuerdo con la afluencia habitual de visitantes, la franja más tranquila va de las 7am a las 10am, tanto entre semana como en fin de semana. Los fines de semana, evite el horario de 12pm a 11pm: es el momento de mayor movimiento, con las mesas ocupadas y fila en la barra. Si quiere sentarse, lo más recomendable es ir entre semana y fuera de la hora de la comida.
 
 ## Cómo pedir tacos al estilo chilango
 

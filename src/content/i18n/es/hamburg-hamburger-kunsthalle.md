@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: hamburg-hamburger-kunsthalle
-srcHash: '3a5a576a3500'
+srcHash: 'dfde122d47c6'
 title: 'Hamburger Kunsthalle: guía de viaje de Hamburgo (4.6★)'
 description: En el Glockengießerwall, en pleno casco antiguo (Altstadt) de Hamburgo y a pocos pasos de la estación central (Hauptbahnhof), se alza la Hamburger Kunsthalle. Con 4.6★ (12,531 reseñas), le contamos qué opinan los visitantes, cuáles son los horarios y algunos consejos prácticos.
 quickAnswer: En el Glockengießerwall, en pleno casco antiguo (Altstadt) de Hamburgo y a pocos pasos de la estación central (Hauptbahnhof), se encuentra la Hamburger Kunsthalle. Sus tres edificios están comunicados entre sí y reúnen arte de todas las épocas, desde retablos medievales hasta fotografía contemporánea. Entre sus obras figura *El caminante sobre el mar de nubes*, de Caspar David Friedrich. Lo ideal es ir un jueves, porque ese día cierra a las 9pm y la franja de 6pm–7pm es la más tranquila. Conviene evitar los fines de semana entre las 11am y las 6pm.
@@ -51,7 +51,7 @@ Desde los vestíbulos principales de la estación, salga por el lado norte en di
 
 ## Los jueves a partir de las seis
 
-El horario tiene una particularidad que justifica organizar la visita en torno a ella. El resto de los días de apertura, las puertas se cierran a las 6pm, pero los jueves la Kunsthalle no cierra hasta las 9pm. Según los datos de afluencia, la franja más tranquila entre semana es la de 6pm–7pm. Por tanto, los jueves todavía se puede entrar en la hora de mayor calma.
+El horario tiene una particularidad que justifica organizar la visita en torno a ella. El resto de los días de apertura, las puertas se cierran a las 6pm, pero los jueves la Kunsthalle no cierra hasta las 9pm. Según la afluencia habitual, la franja más tranquila entre semana es la de 6pm–7pm. Por tanto, los jueves todavía se puede entrar en la hora de mayor calma.
 
 Llegue hacia las 6pm, diríjase directamente a la sala de Friedrich y amplíe el recorrido desde allí. Con los fines de semana ocurre justo lo contrario: los sábados y domingos, de 11am a 6pm, las salas están en su momento de máxima afluencia, y es entonces cuando le tocará esperar detrás de una hilera de teléfonos frente al *Caminante*. Recuerde también que el museo cierra todos los lunes.
 

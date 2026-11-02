@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: new-york-the-metropolitan-museum-of-art
-srcHash: '3e6c45eb2ebb'
+srcHash: '774eeb38da71'
 title: 'El Museo Metropolitano de Arte: Guía de Viaje de Nueva York (4.8★)'
 description: 'El Met, en la Quinta Avenida con la calle 82, se disfruta mejor eligiendo dos o tres alas en lugar de intentar "verlo todo": la colección abarca 5.000 años y sencillamente no se puede recorrer de una sola vez. 4.8★ (95.092 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El Met, en la Quinta Avenida con la calle 82, se disfruta mejor eligiendo dos o tres alas en lugar de intentar "verlo todo": la colección abarca 5.000 años y sencillamente no se puede recorrer de una sola vez. Ve un viernes o sábado, cuando el museo permanece abierto hasta las 21:00, y aprovecha la última hora antes del cierre (17:00–18:00) para recorrer el Gran Salón (Great Hall) y las galerías principales sin la aglomeración diurna. Cierra los miércoles, así que organiza tu visita teniendo esto en cuenta.'
@@ -40,7 +40,7 @@ La colección de armas y armaduras en el primer piso, todo acero pulido y armadu
 
 El Met cierra los miércoles: organiza tu semana teniendo esto en cuenta. Por lo demás, el horario varía según el día, con horario extendido por la noche en ciertas jornadas, lo que cambia por completo la visita: las multitudes se reducen, la luz que entra por las ventanas del Gran Salón (Great Hall) se vuelve dorada, y puedes recorrer el patio del Ala Americana sin tener que abrirte paso entre grupos turísticos.
 
-Los datos medidos de afluencia confirman lo que ya saben los habituales: el museo está más tranquilo en la última hora antes del cierre, de 17:00 a 18:00, tanto en días de semana como en fines de semana.
+La afluencia habitual de visitantes confirma lo que ya saben los habituales: el museo está más tranquilo en la última hora antes del cierre, de 17:00 a 18:00, tanto en días de semana como en fines de semana.
 
 Los fines de semana de mediodía a las 19:00 son justo lo contrario: es cuando las galerías se llenan más, especialmente en torno a las exposiciones especiales, así que si tienes decidido ir un sábado o domingo, llega justo a las 10:00 o espera hasta última hora de la tarde.
 

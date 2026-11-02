@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: wellington-space-place-at-carter-observatory
-srcHash: 'e032ca42d551'
+srcHash: '248bf76d1eb5'
 title: 'Space Place en el Observatorio Carter: guía de viaje de Wellington'
 description: En lo alto del Jardín Botánico de Wellington, en el barrio de Kelburn y a pocos pasos de la estación superior del funicular, se encuentra Space Place en el Observatorio Carter. Con 4.6★ (1,720 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
 quickAnswer: En lo alto del Jardín Botánico de Wellington, en Kelburn, se encuentra Space Place en el Observatorio Carter (Space Place at Carter Observatory), a pocos minutos a pie de la estación superior del funicular de Wellington (Wellington Cable Car). Ofrece sesiones de planetario, exposiciones interactivas y observación con telescopio bajo el cielo austral. Lo más recomendable es ir un martes, miércoles o jueves por la noche. Conviene evitar los fines de semana entre las 10am y las 8pm, que es cuando más gente hay.
@@ -38,7 +38,7 @@ En la sala de exposiciones hay paneles interactivos dedicados al sistema solar, 
 
 Lo que da sentido a este lugar son las noches. Actualmente, Space Place abre de 5pm a 10:30pm los martes y miércoles, de 10am a 10:30pm los jueves y de 10am a 11pm los viernes y sábados. Los domingos cierra antes, a las 5pm, por lo que no hay observación nocturna. Los lunes permanece cerrado. El horario del museo cambia a lo largo del año y en días festivos, así que consulte en la web oficial el de este mes.
 
-Según las mediciones de afluencia, los fines de semana entre las 10am y las 8pm son las horas de mayor concurrencia. Si quiere recorrer las exposiciones sin prisas, procure no llegar en esa franja. Una tarde-noche entre semana le garantiza tanto la oscuridad como el telescopio.
+Según la afluencia habitual, los fines de semana entre las 10am y las 8pm son las horas de mayor concurrencia. Si quiere recorrer las exposiciones sin prisas, procure no llegar en esa franja. Una tarde-noche entre semana le garantiza tanto la oscuridad como el telescopio.
 
 La sesión de telescopio depende del tiempo de Wellington. Cuando las nubes o el viento llegan desde el estrecho de Cook, el planetario sigue funcionando, pero es posible que no haya observación en directo.
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: rome-saint-peter-s-basilica
-srcHash: 'f780078fbec6'
+srcHash: '52a7bdfbff9a'
 title: 'Basílica de San Pedro: guía de viaje de Roma (4.8★)'
 description: Ve justo a las 7 de la mañana cuando abren las puertas, o después de las 17:00 — la basílica mantiene el mismo horario de 7:00 a 19:10 todos los días, y la avalancha de grupos turísticos se dispara rápido entre las 10:00 y las 14:00 los fines de semana. 4.8★ (181,027 reseñas) — lo que dicen los visitantes, horarios y consejos.
 quickAnswer: Ve justo a las 7 de la mañana cuando abren las puertas, o después de las 17:00 — la basílica mantiene el mismo horario de 7:00 a 19:10 todos los días, y la avalancha de grupos turísticos se dispara rápido entre las 10:00 y las 14:00 los fines de semana. La entrada a la iglesia en sí es gratuita, el control de seguridad es el verdadero cuello de botella, y deberías reservar entre 1.5 y 2 horas solo para la basílica (más si subes a la cúpula).
@@ -42,7 +42,7 @@ La subida a la cúpula (unos 320 escalones si prescindes del ascensor, más si n
 
 ## Cuándo ir
 
-La basílica mantiene el mismo horario todos los días, de 7:00 a 19:10, sin día de cierre semanal. Los datos de afluencia muestran que el momento más tranquilo es justo a la apertura, y se mantiene manejable durante la mayor parte del día tanto entre semana como los fines de semana — el verdadero pico ocurre entre las 10:00 y las 14:00 los fines de semana, cuando coinciden grupos turísticos y visitantes de un día.
+La basílica mantiene el mismo horario todos los días, de 7:00 a 19:10, sin día de cierre semanal. La afluencia habitual muestra que el momento más tranquilo es justo a la apertura, y se mantiene manejable durante la mayor parte del día tanto entre semana como los fines de semana — el verdadero pico ocurre entre las 10:00 y las 14:00 los fines de semana, cuando coinciden grupos turísticos y visitantes de un día.
 
 Si solo puedes elegir un momento, llegar a las 7 de la mañana entre semana te permite tener la nave casi para ti solo durante la primera media hora, con una suave luz matutina entrando por las ventanas de la linterna de la cúpula.
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: cambridge-cambridge-market-square
-srcHash: '563475beb598'
+srcHash: '34efc499319c'
 title: 'Cambridge Market Square: guía de viaje (4.5★)'
 description: 'En pleno centro de Cambridge, sobre Market Hill, junto a la iglesia de Great St Mary''s y a pocos minutos a pie del King''s College, se encuentra Cambridge Market Square, cuyos puestos abren actualmente todos los días de 10am a 4pm. Valoración de 4.5★ (4,052 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En pleno centro de Cambridge, sobre Market Hill, junto a la iglesia de Great St Mary's y a pocos minutos a pie del King's College, se encuentra Cambridge Market Square, cuyos puestos abren actualmente todos los días de 10am a 4pm. Los días laborables, entre las 10am y las 11am, es cuando hay más tranquilidad. Conviene evitar el fin de semana entre las 11am y las 4pm, que es cuando la plaza está más llena.
@@ -37,7 +37,7 @@ Tradicionalmente, los domingos predominan el arte, la artesanía y los productos
 
 ## Cómo evitar las aglomeraciones en Market Hill
 
-Lo ideal es llegar temprano un día laborable. Según las mediciones de afluencia, la plaza está más tranquila entre las 10am y las 11am de lunes a viernes. Esa franja coincide con la apertura, así que los comerciantes todavía están colocando el género y aún no se forman colas para comprar comida.
+Lo ideal es llegar temprano un día laborable. Según la afluencia habitual, la plaza está más tranquila entre las 10am y las 11am de lunes a viernes. Esa franja coincide con la apertura, así que los comerciantes todavía están colocando el género y aún no se forman colas para comprar comida.
 
 El fin de semana la situación cambia por completo. Los sábados y domingos, entre las 11am y las 4pm, los pasillos se llenan, las colas para la comida se alargan y cuesta encontrar un hueco en los escalones de la fuente. Si solo puede ir en fin de semana, llegue a las 10am y termine la visita antes de que empiece el bullicio.
 

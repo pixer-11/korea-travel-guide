@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: los-angeles-santa-monica-pier
-srcHash: 'c22e03b69a97'
+srcHash: '414e6262478e'
 title: 'Muelle de Santa Mónica: Guía de Viaje de Los Ángeles'
 description: El Muelle de Santa Mónica (Santa Monica Pier) es el icónico muelle de madera situado en el extremo oeste de la Ruta 66, sede de la noria de Pacific Park, una sala de juegos, un pequeño acuario y una hilera de puestos de comida frente al mar.
 quickAnswer: El Muelle de Santa Mónica (Santa Monica Pier) es el icónico muelle de madera situado en el extremo oeste de la Ruta 66, sede de la noria de Pacific Park, una sala de juegos, un pequeño acuario y una hilera de puestos de comida frente al mar. Caminar por él es gratis (las atracciones y el acuario tienen costo aparte), y los fines de semana se llena de verdad después del mediodía; llega antes de las 11 a.m. para verlo como lo hacen los locales, en las horas tranquilas de la mañana antes de que lleguen las multitudes.
@@ -42,7 +42,7 @@ El acuario es pequeño, se recorre fácilmente en 30-45 minutos, y es una buena 
 
 ## Cuándo ir
 
-El atardecer es la hora más conocida del muelle, cuando la noria se ilumina contra un cielo rosado y la multitud se hace más densa para tomar fotos, pero eso también significa más gente. Los datos medidos de tránsito peatonal muestran que el muelle se mantiene comparativamente tranquilo entre las 7 a.m. y las 11 a.m., tanto en días de semana como en fines de semana, antes de que lleguen las multitudes de excursionistas de un día.
+El atardecer es la hora más conocida del muelle, cuando la noria se ilumina contra un cielo rosado y la multitud se hace más densa para tomar fotos, pero eso también significa más gente. El tránsito peatonal habitual muestra que el muelle se mantiene comparativamente tranquilo entre las 7 a.m. y las 11 a.m., tanto en días de semana como en fines de semana, antes de que lleguen las multitudes de excursionistas de un día.
 
 El tramo más concurrido va de 12 p.m. a 10 p.m. los fines de semana, así que si dependes del clima o prefieres evitar las multitudes, procura llegar e irte antes de la hora del almuerzo, o volver después del anochecer, cuando las familias comienzan a irse a casa.
 

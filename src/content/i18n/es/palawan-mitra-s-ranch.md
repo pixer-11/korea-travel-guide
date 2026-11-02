@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: palawan-mitra-s-ranch
-srcHash: '8ae02127863e'
+srcHash: '21d59df29e8d'
 title: 'Mitra''s Ranch: Guía de Viaje de Palawan (4.2★)'
 description: 'Mitra''s Ranch es un mirador en lo alto de una colina sobre Mitra Road, a las afueras de Puerto Princesa, abierto todos los días de 5:00 a 18:00, con vistas panorámicas sobre la ciudad y el mar, además de una tirolina y cabañas para pícnic. 4.2★ (1,375 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Mitra's Ranch es un mirador en lo alto de una colina sobre Mitra Road, a las afueras de Puerto Princesa, abierto todos los días de 5:00 a 18:00, con vistas panorámicas sobre la ciudad y el mar, además de una tirolina y cabañas para pícnic. Conviene ir entre las 7:00 y las 9:00, cuando hay menos gente tanto entre semana como los fines de semana, y evitar la avalancha del fin de semana entre las 14:00 y las 18:00. Calcule entre 45 minutos y 1.5 horas, más tiempo si se anima a subir a la tirolina.
@@ -11,7 +11,7 @@ faq:
   - q: ¿Cuál es el precio de entrada?
     a: Hay una pequeña tarifa de entrada, además de cargos menores independientes por el estacionamiento y la tirolina. Los montos pueden cambiar, así que lleve efectivo en pesos y considere cualquier cifra que le indiquen como aproximada.
   - q: ¿Cuál es el momento con menos gente para visitar?
-    a: Entre las 7:00 y las 9:00, tanto entre semana como los fines de semana, según los datos medidos de afluencia. Evite las tardes de fin de semana entre las 14:00 y las 18:00, cuando hay más movimiento.
+    a: Entre las 7:00 y las 9:00, tanto entre semana como los fines de semana, según la afluencia habitual. Evite las tardes de fin de semana entre las 14:00 y las 18:00, cuando hay más movimiento.
   - q: ¿Cuánto tiempo debería dedicarle a Mitra's Ranch?
     a: Calcule entre 45 minutos y 1.5 horas, más tiempo si quiere subir a la tirolina o quedarse a disfrutar la luz del amanecer o del atardecer.
   - q: ¿Qué más hay cerca?

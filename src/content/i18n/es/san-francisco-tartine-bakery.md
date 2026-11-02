@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: san-francisco-tartine-bakery
-srcHash: '8f3819353b3a'
+srcHash: '991102012f59'
 title: 'Tartine Bakery: Guía de viaje de San Francisco (4.5★)'
 description: 'Tartine Bakery, en la esquina de Guerrero y 18th en el Mission District, es una de las panaderías más visitadas de San Francisco: ve justo a la apertura (7:30am) para evitar la fila, sobre todo los fines de semana, cuando de 9am a 5pm se llena mucho. 4.5★ (5,942 reseñas) — qué dicen los visitantes, horarios y consejos.'
 quickAnswer: 'Tartine Bakery, en la esquina de Guerrero y 18th en el Mission District, es una de las panaderías más visitadas de San Francisco: ve justo a la apertura (7:30am) para evitar la fila, sobre todo los fines de semana, cuando de 9am a 5pm se llena mucho. Ve por el morning bun y el country loaf, prepárate para hacer fila de pie, y calcula un gasto de gama media para pastelería y un sándwich caliente prensado. Abre todos los días de 7:30am a 6pm, y la ventana más tranquila los fines de semana es esa primera hora tras la apertura.'
@@ -44,7 +44,7 @@ Los grandes ventanales sobre Guerrero dejan entrar esa luz costera plana y brill
 
 ## Cuándo ir
 
-Verifica el horario actual antes de ir, ya que los horarios de las panaderías pueden cambiar. Los datos medidos de afluencia de público son claros sobre el patrón: entre semana el flujo se mantiene relativamente parejo de apertura a cierre, pero los fines de semana la multitud crece rápido después de las 9am y se mantiene alta hasta cerca de las 5pm.
+Verifica el horario actual antes de ir, ya que los horarios de las panaderías pueden cambiar. Los datos habituales de afluencia de público son claros sobre el patrón: entre semana el flujo se mantiene relativamente parejo de apertura a cierre, pero los fines de semana la multitud crece rápido después de las 9am y se mantiene alta hasta cerca de las 5pm.
 
 Si quieres vivir la panadería más parecida a como se siente un martes tranquilo, apunta a esa breve ventana justo al abrir el sábado o el domingo, de 7:30am a 9am, antes de que la vitrina esté diezmada y antes de que la fila serpentee hacia la puerta.
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kyoto-kiyomizu-dera
-srcHash: 'ac57710ef8b4'
+srcHash: '07ff18125678'
 title: 'Kiyomizu-dera: Guía de Viaje de Kioto (4.6★)'
 description: 'Kiyomizu-dera, el templo de madera en el monte Otowa, en el distrito Higashiyama de Kioto, abre todos los días de 6 a 18 h, y llegar temprano tiene su recompensa. 4.6★ (72.507 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Kiyomizu-dera, el templo de madera en el monte Otowa, en el distrito Higashiyama de Kioto, abre todos los días de 6 a 18 h, y llegar temprano tiene su recompensa. El momento de menos gente es entre las 7 y las 9 de la mañana, tanto en días de semana como en fines de semana; a partir de las 10 h los caminos de acceso y la terraza principal se llenan rápidamente, y así se mantiene hasta cerca de las 17 h. Calcula 90 minutos para el recinto del templo y una hora más si subes caminando por los callejones de Higashiyama.
@@ -36,7 +36,7 @@ Según la tradición, cada corriente concede una fortuna distinta: longevidad, �
 
 ## Cómo organizar la visita según las multitudes
 
-Kiyomizu-dera abre todos los días de 6 a 18 h, y ese horario temprano importa aquí más que en casi cualquier otro templo de Kioto. Los registros de afluencia muestran que el momento más tranquilo es entre las 7 y las 9 de la mañana, tanto en días de semana como en fines de semana.
+Kiyomizu-dera abre todos los días de 6 a 18 h, y ese horario temprano importa aquí más que en casi cualquier otro templo de Kioto. La afluencia habitual muestra que el momento más tranquilo es entre las 7 y las 9 de la mañana, tanto en días de semana como en fines de semana.
 
 Hacia las 10 h, los callejones bajo la puerta Niomon empiezan a saturarse, y el templo se mantiene concurrido hasta aproximadamente las 17 h los fines de semana. Si solo puedes visitarlo una vez, llega a las 6 h o muy cerca de esa hora; tendrás la terraza casi para ti antes de que lleguen los autobuses de turistas a Higashiyama.
 

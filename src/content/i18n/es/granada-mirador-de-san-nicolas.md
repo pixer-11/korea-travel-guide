@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: granada-mirador-de-san-nicolas
-srcHash: '01e208f8fb22'
+srcHash: 'caa7a1ad8e90'
 title: 'Mirador de San Nicolás: Guía de viaje de Granada'
 description: 'El Mirador de San Nicolás es la plaza del Albaicín con la clásica vista de postal de Granada: las murallas de la Alhambra recortadas contra Sierra Nevada.'
 quickAnswer: 'El Mirador de San Nicolás es la plaza del Albaicín con la clásica vista de postal de Granada: las murallas de la Alhambra recortadas contra Sierra Nevada. Está abierto todo el día, todos los días, pero conviene ir entre las 7:00 y las 10:00 si quieres tener la terraza para ti solo; desde el mediodía hasta casi la medianoche los fines de semana está abarrotado. El atardecer es mágico, pero también es el momento de mayor afluencia, así que llega al menos entre 45 y 60 minutos antes para hacerte con un sitio en la barandilla.'
@@ -40,7 +40,7 @@ Muchos visitantes combinan el mirador con una tarde en alguna de las calles de t
 
 ## Cuándo ir
 
-El patrón de afluencia registrado aquí es muy marcado: las mañanas suelen ser el momento más tranquilo, antes de que se acumule la gente a lo largo del día, y es cuando realmente se puede conseguir un sitio junto a la barandilla sin empujones. A partir del mediodía, especialmente los fines de semana, la plaza se va llenando poco a poco y sigue concurrida hasta bien entrada la noche; la hora del atardecer es el pico máximo, cuando coinciden grupos turísticos, excursionistas de un día y fotógrafos.
+El patrón de afluencia habitual aquí es muy marcado: las mañanas suelen ser el momento más tranquilo, antes de que se acumule la gente a lo largo del día, y es cuando realmente se puede conseguir un sitio junto a la barandilla sin empujones. A partir del mediodía, especialmente los fines de semana, la plaza se va llenando poco a poco y sigue concurrida hasta bien entrada la noche; la hora del atardecer es el pico máximo, cuando coinciden grupos turísticos, excursionistas de un día y fotógrafos.
 
 Si tu prioridad es la famosa vista de la hora dorada en una plaza tranquila y sin gente, en realidad no puedes tener ambas cosas: hay que elegir. Una visita al amanecer te da espacio y una luz más fresca y suave sobre los muros de la Alhambra; una visita al atardecer te da el color más dramático, pero también una plaza abarrotada de pared a pared.
 

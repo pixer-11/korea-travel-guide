@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: lyon-jardin-des-curiosites
-srcHash: '30587138fb97'
+srcHash: 'd8679995ee5c'
 title: 'Jardin des Curiosités: guía de viaje de Lyon (4,7★)'
 description: 'El Jardin des Curiosités es un pequeño jardín en lo alto del barrio de Fourvière, en Lyon (8 Pl. de l''Abbé Larue, 69005), con vistas amplias sobre el Saona y los tejados de la ciudad. 4,7★ (2.126 reseñas): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: El Jardin des Curiosités es un pequeño jardín en lo alto del barrio de Fourvière, en Lyon (8 Pl. de l'Abbé Larue, 69005), con vistas amplias sobre el Saona y los tejados de la ciudad. Abre todos los días de 8:00 a 22:00, y el momento más tranquilo para visitarlo es de 8:00 a 12:00, cualquier día de la semana; las tardes de fin de semana, a partir de la 13:00, se llena bastante. Lleva un picnic, siéntate en el césped escalonado y aprovecha para bajar después a pasear por Vieux Lyon.
@@ -45,7 +45,7 @@ Dentro no hay cafetería ni ningún servicio, así que este es claramente un lug
 
 El jardín abre a las 8:00 y cierra a las 22:00 todos los días de la semana, lo que da bastante margen para organizarse. La luz de primera hora de la mañana y la de última hora de la tarde son las que mejor favorecen la vista, cuando incide de forma rasante sobre los tejados.
 
-Los datos de afluencia muestran que el tramo más tranquilo va de 8:00 a 12:00, tanto entre semana como el fin de semana. Las tardes de fin de semana, sobre todo de 13:00 a 20:00, son el momento de más gente: es cuando vecinos y visitantes por igual acuden a hacer picnic y a ver el atardecer.
+Los datos habituales de afluencia muestran que el tramo más tranquilo va de 8:00 a 12:00, tanto entre semana como el fin de semana. Las tardes de fin de semana, sobre todo de 13:00 a 20:00, son el momento de más gente: es cuando vecinos y visitantes por igual acuden a hacer picnic y a ver el atardecer.
 
 Si prefieres tener el jardín más para ti, lo mejor es ir un día laborable por la mañana. Y si tienes pensado ir en fin de semana, procura llegar antes del mediodía.
 

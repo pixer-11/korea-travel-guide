@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: chicago-lou-mitchell-s
-srcHash: 'e3cad02ed3db'
+srcHash: '270ae458526b'
 title: 'Lou Mitchell''s: dónde comer en Chicago (4.6★)'
 description: En el 565 W Jackson Blvd, en el West Loop de Chicago y a pocos pasos de Union Station, Lou Mitchell's sirve desayunos y almuerzos desde 1923. Tiene una valoración de 4.6★ (4,991 reseñas). Aquí encontrará la opinión de los visitantes, los horarios y algunos consejos.
 quickAnswer: En el 565 W Jackson Blvd, en pleno West Loop de Chicago y a un corto paseo de Union Station, se encuentra Lou Mitchell's, un clásico *diner* que sirve desayunos y almuerzos desde 1923. Actualmente solo abre de miércoles a domingo. Entre semana empieza a servir a las 6am y el fin de semana a las 7am, y todos los días cierra a las 2pm. Los sábados y domingos hay mucha gente durante toda la franja de 7am–2pm, así que lo más sensato es ir una mañana de miércoles a viernes.
@@ -39,7 +39,7 @@ Las raciones son generosas. Entre dos personas que no tengan mucho apetito se pu
 
 El horario marcará su mañana. De momento, el local cierra los lunes y los martes. Abre de 6am–2pm de miércoles a viernes, y de 7am–2pm los sábados y domingos. No deje el almuerzo para muy tarde, porque la cocina deja de servir a las 2pm todos los días de apertura.
 
-Según los datos de afluencia, el fin de semana es cuando más se llena, y eso durante toda la franja de 7am–2pm. Los sábados y domingos no hay ningún momento tranquilo que aprovechar, y la cola llega a salir por la puerta hasta la acera. Tendrá más suerte un día laborable. A las 6am, con la apertura, los trabajadores llenan la barra, pero las mesas suelen quedar libres enseguida.
+Según la afluencia habitual, el fin de semana es cuando más se llena, y eso durante toda la franja de 7am–2pm. Los sábados y domingos no hay ningún momento tranquilo que aprovechar, y la cola llega a salir por la puerta hasta la acera. Tendrá más suerte un día laborable. A las 6am, con la apertura, los trabajadores llenan la barra, pero las mesas suelen quedar libres enseguida.
 
 - Dé su nombre y el número de comensales en la entrada y espere a que le llamen.
 - Si va solo o en pareja, es probable que le sienten antes en la barra.

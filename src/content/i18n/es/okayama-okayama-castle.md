@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: okayama-okayama-castle
-srcHash: '0210a61e033e'
+srcHash: '8f09ea62e299'
 title: 'Castillo de Okayama: guía de viaje (4.3★)'
 description: 'En pleno centro de Okayama, el castillo se alza en Marunouchi (distrito de Kita), frente al jardín Korakuen, al otro lado del río Asahi. Desde la estación JR de Okayama se llega en un corto trayecto en tranvía. 4.3★ (10,595 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En pleno centro de Okayama, el castillo se alza en Marunouchi (distrito de Kita), frente al jardín Korakuen, al otro lado del río Asahi. Desde la estación JR de Okayama se llega en un corto trayecto en tranvía. Entre semana reina la calma durante toda la franja de 9am–5pm; los fines de semana, en cambio, conviene evitar las horas de mayor afluencia, entre las 10am y las 4pm.
@@ -45,7 +45,7 @@ Desde Korakuen, el puente Tsukimi-bashi cruza el río y desemboca justo en la pu
 
 ## Cuándo subir y cuándo cruzar
 
-Lo más cómodo es venir entre semana. Según los datos de afluencia registrados, de lunes a viernes el castillo está tranquilo de 9am a 5pm. El fin de semana es otra historia: entre las 10am y las 4pm se alarga la cola del ascensor y el rincón de los trajes se llena. Si solo dispone de un sábado o un domingo, preséntese en la entrada a la hora de apertura, a las 9am, o bien acuda a última hora de la tarde.
+Lo más cómodo es venir entre semana. Según la afluencia habitual, de lunes a viernes el castillo está tranquilo de 9am a 5pm. El fin de semana es otra historia: entre las 10am y las 4pm se alarga la cola del ascensor y el rincón de los trajes se llena. Si solo dispone de un sábado o un domingo, preséntese en la entrada a la hora de apertura, a las 9am, o bien acuda a última hora de la tarde.
 
 La torre abre de 9am a 5:30pm, con horario ampliado algunas noches de eventos, y cierra del 29 al 31 de diciembre. Consulte las veladas especiales en la web oficial. Algunos consejos prácticos:
 

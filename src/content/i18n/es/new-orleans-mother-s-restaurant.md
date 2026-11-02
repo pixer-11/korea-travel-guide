@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: new-orleans-mother-s-restaurant
-srcHash: '1fbbc5a61ba9'
+srcHash: 'b2c5b397ea4c'
 title: 'Mother''s Restaurant: dónde comer en Nueva Orleans (4.2★)'
 description: 'Mother''s Restaurant, ubicado en el 401 de Poydras St, en el Distrito Central de Negocios, es una institución de estilo cafetería abierta todos los días de 7:00 a 22:00, famosa por su po'' boy "Ferdi Special" cargado de debris (carne de res y jamón deshebrados) y por su jamón horneado. 4.2★ (17,417 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Mother's Restaurant, ubicado en el 401 de Poydras St, en el Distrito Central de Negocios, es una institución de estilo cafetería abierta todos los días de 7:00 a 22:00, famosa por su po' boy "Ferdi Special" cargado de debris (carne de res y jamón deshebrados) y por su jamón horneado. Conviene ir a las 7:00 en punto para desayunar o durante la calma de media tarde; los fines de semana, de 11:00 a 21:00, se forman las filas más largas hasta la puerta.
@@ -38,7 +38,7 @@ Para el desayuno, hay galletas tipo biscuit, grits y platos de huevo bañados ta
 
 ## Cuándo ir
 
-Mother's mantiene un horario largo todos los días de la semana, así que hay bastante flexibilidad: no es un sitio solo para el almuerzo. Según los patrones de afluencia registrados, los momentos más tranquilos son las primeras horas de la mañana y las horas de menor actividad entre semana; los fines de semana son otra historia, ya que los sábados y domingos la fila puede llegar hasta la puerta, cuando coinciden a la vez el público del brunch, los turistas y los asistentes a convenciones.
+Mother's mantiene un horario largo todos los días de la semana, así que hay bastante flexibilidad: no es un sitio solo para el almuerzo. Según los patrones de afluencia habituales, los momentos más tranquilos son las primeras horas de la mañana y las horas de menor actividad entre semana; los fines de semana son otra historia, ya que los sábados y domingos la fila puede llegar hasta la puerta, cuando coinciden a la vez el público del brunch, los turistas y los asistentes a convenciones.
 
 Si se puede desayunar temprano o llegar a media mañana, antes de las 11:00, o pasar entre semana a media tarde, se evita lo peor de la afluencia.
 

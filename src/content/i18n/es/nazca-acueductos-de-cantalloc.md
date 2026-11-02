@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: nazca-acueductos-de-cantalloc
-srcHash: '4366e9b8e411'
+srcHash: 'c5961bb40eae'
 title: 'Acueductos de Cantalloc: guía de viaje de Nazca (4.6★)'
 description: A unos 4 km al este de la ciudad de Nazca se encuentra el sitio arqueológico de los Acueductos de Cantalloc, donde decenas de pozos de piedra en espiral descienden hasta los canales subterráneos que construyó la cultura nazca. Con 4.6★ (956 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
 quickAnswer: A unos 4 km al este de la ciudad de Nazca se encuentra el sitio arqueológico de los Acueductos de Cantalloc, donde decenas de pozos de piedra en espiral descienden hasta los canales subterráneos que construyó la cultura nazca. Calcule alrededor de una hora de visita y procure llegar temprano. La afluencia es mínima entre las 8am y las 10am entre semana y entre las 8am y las 9am los fines de semana; el momento de mayor afluencia son las tardes de fin de semana, de 1pm a 6pm.
@@ -49,7 +49,7 @@ Reserve alrededor de una hora para los ojos, y media hora más si se detiene en 
 
 ## Cómo esquivar el calor y las furgonetas de excursiones
 
-Las primeras horas del día son las mejores. Según las mediciones de afluencia, Cantalloc está más tranquilo **de 8am a 10am entre semana** y **de 8am a 9am los fines de semana**. Es también cuando el desierto está más fresco y el sol bajo realza los anillos de piedra de cada embudo.
+Las primeras horas del día son las mejores. Según la afluencia habitual, Cantalloc está más tranquilo **de 8am a 10am entre semana** y **de 8am a 9am los fines de semana**. Es también cuando el desierto está más fresco y el sol bajo realza los anillos de piedra de cada embudo.
 
 Evite en lo posible llegar una tarde de fin de semana. **De 1pm a 6pm los sábados y domingos** se registra la mayor afluencia, y es además cuando el sol castiga con más fuerza un sitio al aire libre casi sin sombra.
 

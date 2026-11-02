@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: new-orleans-napoleon-house
-srcHash: '4e66355d3c96'
+srcHash: 'b7a8d409d69c'
 title: 'Napoleon House: dónde comer en Nueva Orleans'
 description: Napoleon House, en el 500 de Chartres St, en el Barrio Francés (French Quarter), es el lugar ideal para probar una muffaletta y un Pimm's Cup en un patio interior desgastado y de tonos sepia que lleva sirviendo desde 1914.
 quickAnswer: 'Napoleon House, en el 500 de Chartres St, en el Barrio Francés (French Quarter), es el lugar ideal para probar una muffaletta y un Pimm''s Cup en un patio interior desgastado y de tonos sepia que lleva sirviendo desde 1914. Abre todos los días (de 11am a 9pm la mayoría de las noches, hasta las 10pm de viernes a sábado), y como suele estar realmente concurrido, lo mejor es ir a almorzar temprano en un día de semana en lugar de enfrentarse al ajetreo del fin de semana de 3pm a 8pm. Reserva al menos una hora para disfrutarlo con calma: este es un lugar para sentarse y quedarse, no solo para comer rápido.'
@@ -46,7 +46,7 @@ La barra misma también merece una mirada detenida: madera oscura, botellas apil
 
 ## Cuándo ir
 
-Napoleon House abre todos los días. El flujo de visitantes aquí es bastante estable a lo largo de la semana: se mantiene constante desde la apertura hasta el cierre tanto en días de semana como en fines de semana, pero el punto de mayor congestión que conviene evitar es de 3pm a 8pm los fines de semana, cuando el tránsito peatonal en el Barrio alcanza su punto máximo y las mesas del patio tardan más en liberarse.
+Napoleon House abre todos los días. El flujo habitual de visitantes aquí es bastante estable a lo largo de la semana: se mantiene constante desde la apertura hasta el cierre tanto en días de semana como en fines de semana, pero el punto de mayor congestión que conviene evitar es de 3pm a 8pm los fines de semana, cuando el tránsito peatonal en el Barrio alcanza su punto máximo y las mesas del patio tardan más en liberarse.
 
 Una visita para almorzar justo a las 11am, o una parada a media tarde para un café y un cóctel alrededor de las 2pm en un día de semana, te permiten disfrutar del lugar en su momento más tranquilo.
 

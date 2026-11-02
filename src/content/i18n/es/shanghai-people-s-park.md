@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: shanghai-people-s-park
-srcHash: 'a23ba96ba213'
+srcHash: 'e2382bfad7a0'
 title: 'People''s Park: guía de viaje de Shanghái (4,4★)'
 description: 'People''s Park es un auténtico remanso verde en pleno centro de People''s Square, encajado entre el Museo de Shanghái, el Centro de Exposiciones de Planificación Urbana de Shanghái y una hilera de rascacielos sobre Nanjing Xi Lu. 4,4★ (903 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: People's Park es un auténtico remanso verde en pleno centro de People's Square, encajado entre el Museo de Shanghái, el Centro de Exposiciones de Planificación Urbana de Shanghái y una hilera de rascacielos sobre Nanjing Xi Lu. Conviene ir a pie desde la estación de People's Square (líneas 1, 2 y 8) y procurar llegar entre las 7:00 y las 9:00, cuando los datos de afluencia muestran el menor tránsito y el parque todavía pertenece al grupo de tai chi y a los paseadores de perros. Calcule entre 45 minutos y una hora para dar una vuelta al estanque, recorrer los senderos arbolados y tomar un café en el café junto al lago Barbarossa.
@@ -9,7 +9,7 @@ faq:
   - q: ¿Cómo se llega a People's Park?
     a: 'Tome las líneas 1, 2 u 8 del metro hasta la estación de People''s Square: varias salidas dan directamente al parque. También se puede llegar caminando desde el Bund en 15–20 minutos hacia el oeste por Nanjing Road.'
   - q: ¿Cuál es el momento más tranquilo para visitarlo?
-    a: Entre semana, de 7:00 a 8:00, o los fines de semana, de 7:00 a 9:00, según los datos medidos de afluencia. Los fines de semana la afluencia aumenta de forma constante y se mantiene alta desde aproximadamente las 10:00 hasta las 23:00.
+    a: Entre semana, de 7:00 a 8:00, o los fines de semana, de 7:00 a 9:00, según los datos habituales de afluencia. Los fines de semana la afluencia aumenta de forma constante y se mantiene alta desde aproximadamente las 10:00 hasta las 23:00.
   - q: ¿Cuánto tiempo conviene reservar para la visita?
     a: Entre 45 minutos y una hora para completar una vuelta al estanque y los senderos arbolados; sume otros 30–45 minutos si se detiene en el café junto al lago Barbarossa.
   - q: ¿Hay tarifa de entrada?

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: provence-abbaye-notre-dame-de-senanque
-srcHash: '87decb9573fe'
+srcHash: '0480a7cbb6fa'
 title: 'Abadía de Notre-Dame de Sénanque: guía de viaje de la Provenza'
 description: La abadía de Sénanque, un monasterio cisterciense en activo cerca de Gordes, se disfruta mejor justo al abrir —entre semana de 9:30 a 10h o los domingos de 10 a 11h—, antes de que lleguen los autocares turísticos; conviene evitar el tramo de mediodía a 18h los fines de semana, cuando el aparcamiento junto a los campos de lavanda y la carretera del mirador se colapsan.
 quickAnswer: La abadía de Sénanque, un monasterio cisterciense en activo cerca de Gordes, se disfruta mejor justo al abrir —entre semana de 9:30 a 10h o los domingos de 10 a 11h—, antes de que lleguen los autocares turísticos; conviene evitar el tramo de mediodía a 18h los fines de semana, cuando el aparcamiento junto a los campos de lavanda y la carretera del mirador se colapsan. La lavanda florece de mediados de junio a principios de agosto, pero la abadía de piedra dorada y sus claustros merecen la visita durante todo el año. Calcula entre 45 minutos y una hora, más el tiempo para el corto paseo hasta el mirador sobre el valle.
@@ -40,7 +40,7 @@ Fuera, el gran atractivo para la mayoría de visitantes es la vista: desde el pe
 
 ## Cuándo ir
 
-La lavanda florece de mediados de junio a principios de agosto, con su punto álgido en las tres primeras semanas de julio: esa es la estrecha ventana que todo el mundo persigue, y también cuando más gente hay. Si no puedes evitar el verano, ve a la apertura. El horario cambia según la temporada, así que conviene comprobarlo antes de salir. Según los datos de afluencia, el tramo más tranquilo es de 9:30 a 10:30h entre semana y de 10 a 11h los fines de semana, prácticamente nada más abrir.
+La lavanda florece de mediados de junio a principios de agosto, con su punto álgido en las tres primeras semanas de julio: esa es la estrecha ventana que todo el mundo persigue, y también cuando más gente hay. Si no puedes evitar el verano, ve a la apertura. El horario cambia según la temporada, así que conviene comprobarlo antes de salir. Según la afluencia habitual, el tramo más tranquilo es de 9:30 a 10:30h entre semana y de 10 a 11h los fines de semana, prácticamente nada más abrir.
 
 Evita el tramo de mediodía a 18h los fines de semana, cuando autocares y coches de alquiler colapsan el aparcamiento y el mirador se llena de verdad. Fuera de la temporada de lavanda, la abadía está mucho más tranquila, y la luz sobre la piedra a última hora de la tarde (sobre todo en otoño) ya justifica por sí sola el viaje.
 

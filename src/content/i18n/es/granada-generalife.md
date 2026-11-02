@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: granada-generalife
-srcHash: 'f9cee7fda4c0'
+srcHash: '01a42cc8d891'
 title: 'Generalife: Guía de viaje de Granada'
 description: El Generalife es el palacio de verano y los jardines de la Alhambra, a un corto paseo cuesta arriba desde los Palacios Nazaríes principales, abierto todos los días de 8:30 a 20:00.
 quickAnswer: 'El Generalife es el palacio de verano y los jardines de la Alhambra, a un corto paseo cuesta arriba desde los Palacios Nazaríes principales, abierto todos los días de 8:30 a 20:00. Compra una entrada combinada de la Alhambra con bastante antelación y reserva el horario de entrada más temprano posible: la afluencia aumenta de forma constante entre las 11:00 y las 14:00, especialmente los fines de semana. Calcula entre 45 y 60 minutos solo para los jardines, más si te detienes junto a la Escalera del Agua.'
@@ -40,7 +40,7 @@ Dedica al menos 45 minutos para recorrer los jardines con calma, cerca de una ho
 
 ## Cuándo ir
 
-El Generalife mantiene el mismo horario que el resto de la Alhambra, lo que te da un margen amplio para planificar. Los datos de afluencia muestran que las condiciones más tranquilas se dan a primera hora de la mañana y al final de la tarde, tanto en días de semana como en fines de semana — pero la excepción a vigilar es la media mañana: la afluencia aumenta notablemente entre las 11:00 y las 14:00 los fines de semana, cuando los grupos turísticos se concentran en los jardines de camino a los Palacios Nazaríes.
+El Generalife mantiene el mismo horario que el resto de la Alhambra, lo que te da un margen amplio para planificar. La afluencia habitual muestra que las condiciones más tranquilas se dan a primera hora de la mañana y al final de la tarde, tanto en días de semana como en fines de semana — pero la excepción a vigilar es la media mañana: la afluencia aumenta notablemente entre las 11:00 y las 14:00 los fines de semana, cuando los grupos turísticos se concentran en los jardines de camino a los Palacios Nazaríes.
 
 Procura conseguir un horario de entrada justo después de la apertura o más tarde por la tarde, y notarás mucho más espacio junto a los estanques.
 

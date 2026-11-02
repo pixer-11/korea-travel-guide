@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: glasgow-kibble-palace
-srcHash: '7de320284822'
+srcHash: 'a47b9afcdbe4'
 title: 'Kibble Palace: guía de viaje de Glasgow (4.8★)'
 description: 'El Kibble Palace es el invernadero victoriano con cúpula del Jardín Botánico de Glasgow, en el West End, a pocos minutos a pie de la estación de metro de Hillhead. Con 4.8★ (873 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En pleno West End, dentro del Jardín Botánico de Glasgow (Glasgow Botanic Gardens), se alza el Kibble Palace, un invernadero victoriano coronado por una cúpula y situado a pocos minutos a pie de la estación de metro de Hillhead. Abre todos los días de 10am a 5:45pm. Los días laborables, entre las 10am y las 11am, es cuando hay más tranquilidad. Conviene evitar los fines de semana entre las 11am y las 4pm, la franja de mayor afluencia.
@@ -46,7 +46,7 @@ A poca distancia hacia el sur se levanta la torre Gilbert Scott de la Universida
 
 ## Cuándo ir para disfrutar del invernadero con calma
 
-El invernadero abre todos los días de 10am a 5:45pm, con el mismo horario a lo largo de toda la semana. Según los datos de afluencia, la franja más tranquila es la de 10am a 11am en días laborables. Quien llegue a la hora de apertura puede encontrarse los helechos arborescentes prácticamente para sí solo.
+El invernadero abre todos los días de 10am a 5:45pm, con el mismo horario a lo largo de toda la semana. Según la afluencia habitual, la franja más tranquila es la de 10am a 11am en días laborables. Quien llegue a la hora de apertura puede encontrarse los helechos arborescentes prácticamente para sí solo.
 
 Lo que conviene evitar son los fines de semana entre las 11am y las 4pm, cuando las familias y los paseantes del West End llenan los senderos circulares. Como el jardín exterior cierra más tarde que el invernadero, no es buena idea dejar el Kibble para el final de un largo paseo vespertino.
 

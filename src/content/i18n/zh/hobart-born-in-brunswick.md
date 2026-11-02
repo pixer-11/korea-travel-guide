@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: hobart-born-in-brunswick
-srcHash: '101f6e5c54b2'
+srcHash: 'e593316f4bc9'
 title: Born In Brunswick：霍巴特旅行指南（4.5★）
 description: Born In Brunswick是一家口碑不错的中等价位早午餐馆，位于北霍巴特（North Hobart）410 Elizabeth St，每周七天营业，营业时间为8am至2pm。
 quickAnswer: Born In Brunswick是一家口碑不错的中等价位早午餐馆，位于北霍巴特（North Hobart）410 Elizabeth St，每周七天营业，营业时间为8am至2pm。工作日1pm至2pm最清静。周末10am至12pm是客流高峰，最好错开。
@@ -40,7 +40,7 @@ faq:
 
 ## 挑准时间：什么时候空、什么时候满
 
-我们对这个地址的客流做过统计，规律很明显。工作日最清静的是1pm至2pm，那时吃早餐的人已经离开，午餐客人也渐渐散去。
+我们了解这个地址平时的客流情况，规律很明显。工作日最清静的是1pm至2pm，那时吃早餐的人已经离开，午餐客人也渐渐散去。
 
 周末就是另一回事了。10am至12pm是最忙的时段，那时整个霍巴特吃晚早餐的人都涌上了伊丽莎白街。如果四人结伴在这个时候到，就别指望一进门就有座。
 

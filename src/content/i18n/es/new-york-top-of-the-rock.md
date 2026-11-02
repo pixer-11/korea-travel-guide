@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: new-york-top-of-the-rock
-srcHash: 'b67e90be888f'
+srcHash: '901642679698'
 title: 'Top of The Rock: Guía de viaje de Nueva York (4.7★)'
 description: Top of The Rock, el mirador ubicado en los pisos 67 a 70 del Rockefeller Center, abre todos los días de 8am a medianoche (el último ascensor suele salir alrededor de las 11pm), y es más tranquilo si vas justo a las 8am o más tarde en la noche — evita el tramo de 4pm a 8pm los fines de semana, cuando el mirador se llena más rápido. 4.7★ (91,356 reseñas) — lo que dicen los visitantes, horarios y consejos.
 quickAnswer: Top of The Rock, el mirador ubicado en los pisos 67 a 70 del Rockefeller Center, abre todos los días de 8am a medianoche (el último ascensor suele salir alrededor de las 11pm), y es más tranquilo si vas justo a las 8am o más tarde en la noche — evita el tramo de 4pm a 8pm los fines de semana, cuando el mirador se llena más rápido. Reserva un boleto con hora asignada en línea con anticipación; este es uno de los miradores con más reseñas de la ciudad, y las filas sin reserva las tardes de fin de semana pueden quitarte una hora de tu día.
@@ -40,7 +40,7 @@ Por la noche, el mirador se transforma — la ciudad se convierte en una cuadrí
 
 ## Cuándo ir
 
-Los horarios de apertura y cierre varían según la temporada, y el último ascensor suele salir aproximadamente una hora antes del cierre — vale la pena confirmarlo el mismo día de tu visita. Los datos medidos de afluencia de visitantes señalan la misma franja tranquila tanto entre semana como los fines de semana: justo a la apertura y hasta bien entrada la noche suele mantenerse manejable, mientras que la saturación de los fines de semana se concentra justamente entre las 4pm y las 8pm, cuando la multitud de después del almuerzo se cruza con quienes buscan ver el atardecer.
+Los horarios de apertura y cierre varían según la temporada, y el último ascensor suele salir aproximadamente una hora antes del cierre — vale la pena confirmarlo el mismo día de tu visita. Los datos típicos de afluencia de visitantes señalan la misma franja tranquila tanto entre semana como los fines de semana: justo a la apertura y hasta bien entrada la noche suele mantenerse manejable, mientras que la saturación de los fines de semana se concentra justamente entre las 4pm y las 8pm, cuando la multitud de después del almuerzo se cruza con quienes buscan ver el atardecer.
 
 Si quieres la transición de la hora dorada a la noche sin codearte con las barandillas, reserva un horario justo antes del atardecer entre semana, o elige la última franja de entrada y observa cómo se ilumina la ciudad con una fracción de la multitud diurna a tu alrededor.
 

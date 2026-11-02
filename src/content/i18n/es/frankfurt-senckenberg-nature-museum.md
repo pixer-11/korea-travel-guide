@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: frankfurt-senckenberg-nature-museum
-srcHash: '13cac16108a1'
+srcHash: '8d9fe36ec15c'
 title: 'Museo de Historia Natural Senckenberg: guía de viaje de Fráncfort (4.6★)'
 description: En Senckenberganlage 25, junto a la estación de metro de Bockenheimer Warte, el Museo de Historia Natural Senckenberg de Fráncfort atrae sobre todo por sus esqueletos de dinosaurio y una anaconda gigante. Con una valoración de 4.6★ (4,831 reseñas), aquí encontrará la opinión de los visitantes, los horarios y algunos consejos.
 quickAnswer: En Senckenberganlage 25, a pocos pasos de la estación de metro de Bockenheimer Warte, se encuentra el Museo de Historia Natural Senckenberg (Naturmuseum Senckenberg) de Fráncfort, cuyos grandes reclamos son los esqueletos de dinosaurio y una anaconda gigante. Entre semana hay poca gente durante todo el horario de apertura. Los fines de semana, en cambio, la única franja tranquila va de 9am a 10am, y conviene evitar las horas entre 11am y 5pm. Reserve entre dos y tres horas para la visita, o vaya un miércoles, día en que cierra a las 8pm.
@@ -38,7 +38,7 @@ Con dos o tres horas basta para recorrer lo esencial. Si va con niños que se de
 
 ## Cómo esquivar las aglomeraciones
 
-Según las mediciones de afluencia, entre semana hay poca gente de 9am a 6pm, lo que en la práctica abarca todo el horario de apertura. Lunes, martes, jueves y viernes el museo abre de 9am a 5pm. El miércoles cierra a las 8pm, algo ideal para una visita al salir del trabajo o tras una jornada en la Messe.
+Por lo general, entre semana hay poca gente de 9am a 6pm, lo que en la práctica abarca todo el horario de apertura. Lunes, martes, jueves y viernes el museo abre de 9am a 5pm. El miércoles cierra a las 8pm, algo ideal para una visita al salir del trabajo o tras una jornada en la Messe.
 
 El fin de semana la situación cambia. Sábados y domingos abre de 9am a 6pm, y solo la primera hora, de 9am a 10am, resulta tranquila. Procure no llegar entre las 11am y las 5pm: a esas horas las familias llenan la sala de los dinosaurios y se forman colas en el guardarropa. Si solo puede ir en fin de semana, preséntese a la hora de apertura y empiece por los dinosaurios antes de que llegue el resto del público.
 

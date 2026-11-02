@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: las-vegas-peppermill-restaurant-and-fireside-lounge
-srcHash: '4f338bb645b6'
+srcHash: 'c51a1387988f'
 title: 'Peppermill Restaurant and Fireside Lounge: dónde comer en Las Vegas'
 description: Peppermill Restaurant and Fireside Lounge, en el 2985 Las Vegas Blvd S, es un clásico combo de diner y lounge del Strip, conocido sobre todo por su lounge de cócteles con fogata y sus porciones descomunales.
 quickAnswer: 'Peppermill Restaurant and Fireside Lounge, en el 2985 Las Vegas Blvd S, es un clásico combo de diner y lounge del Strip, conocido sobre todo por su lounge de cócteles con fogata y sus porciones descomunales. Ve justo a la apertura: de 7am a 8am es el momento más tranquilo todos los días de la semana, ya que por lo demás el lugar está lleno desde media mañana hasta casi la medianoche los fines de semana. Está abierto 24 horas de jueves a domingo, así que una mesa a las 2am también es una opción real.'
@@ -42,7 +42,7 @@ Es un lugar de precio medio para los estándares del Strip: no son precios de di
 
 El Peppermill mantiene horarios poco habituales según el día: los lunes y martes funciona de 7am a 2am, los miércoles cierra más temprano, a la medianoche, y de jueves a domingo está abierto toda la noche, todas las noches. Esa flexibilidad es parte de su atractivo: es uno de los pocos lugares del Strip donde un plato de hash browns a las 3am es realmente posible, aunque solo a partir del jueves.
 
-Los datos medidos de afluencia muestran que el momento más tranquilo es consistentemente de 7am a 8am, tanto en días de semana como en fines de semana, antes de que se intensifique la hora del desayuno. Los fines de semana, el lugar se mantiene ocupado desde media mañana hasta las 11pm, así que si quieres disfrutar de la fogata del lounge sin esperar, tu mejor opción es tomar un cóctel bien temprano por la mañana (sí, hay gente que lo hace) o hacer una visita muy tarde por la noche, fuera de ese tramo de 9am a 11pm.
+La afluencia típica muestra que el momento más tranquilo es consistentemente de 7am a 8am, tanto en días de semana como en fines de semana, antes de que se intensifique la hora del desayuno. Los fines de semana, el lugar se mantiene ocupado desde media mañana hasta las 11pm, así que si quieres disfrutar de la fogata del lounge sin esperar, tu mejor opción es tomar un cóctel bien temprano por la mañana (sí, hay gente que lo hace) o hacer una visita muy tarde por la noche, fuera de ese tramo de 9am a 11pm.
 
 ## La experiencia del lounge
 

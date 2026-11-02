@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: florence-basilica-of-santa-croce-in-florence
-srcHash: 'c5a93d3bec31'
+srcHash: '5c6d28337fed'
 title: 'Basílica de la Santa Croce en Florencia: guía de viaje'
 description: La Santa Croce es la gran basílica franciscana de Florencia, situada en la Piazza di Santa Croce y célebre por los frescos de Giotto y las tumbas de Miguel Ángel, Galileo y Maquiavelo.
 quickAnswer: La Santa Croce es la gran basílica franciscana de Florencia, situada en la Piazza di Santa Croce y célebre por los frescos de Giotto y las tumbas de Miguel Ángel, Galileo y Maquiavelo. Es un lugar muy concurrido, así que conviene visitarla entre las 9:30 y las 11:00, justo después de la apertura (los domingos abre más tarde, a las 12:30), para poder ver la Capilla Pazzi y el Crucifijo de Donatello sin una muralla de gente delante. Calcula entre 60 y 90 minutos, más si te detienes en la escuela de cuero y en los claustros.
@@ -42,7 +42,7 @@ Si se viene desde los Uffizi o el Ponte Vecchio, es un paseo fácil de 10 minuto
 
 ## Cuándo ir
 
-La basílica abre por la mañana y cierra a última hora de la tarde la mayoría de los días; los domingos el horario es más reducido, ajustado a las misas matutinas. Los datos de afluencia muestran que la franja más tranquila es de 9:30 a 11:00 entre semana y los sábados: llegando justo a la hora de apertura se puede disfrutar de largos tramos de la nave y de la Capilla Pazzi casi en soledad.
+La basílica abre por la mañana y cierra a última hora de la tarde la mayoría de los días; los domingos el horario es más reducido, ajustado a las misas matutinas. Los patrones habituales de afluencia muestran que la franja más tranquila es de 9:30 a 11:00 entre semana y los sábados: llegando justo a la hora de apertura se puede disfrutar de largos tramos de la nave y de la Capilla Pazzi casi en soledad.
 
 Los domingos abre más tarde, a las 12:30, así que la misma lógica se aplica a esa primera media hora.
 

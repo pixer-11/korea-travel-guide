@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: berlin-mustafa-s-gemuse-kebap
-srcHash: '800d01f0fd0b'
+srcHash: '866ad63a65e5'
 title: 'Mustafa''s Gemüse Kebap: dónde comer en Berlín (4.2★)'
 description: En Mehringdamm 33, en pleno Kreuzberg (Berlín) y a pocos pasos de la estación de U-Bahn Mehringdamm (U6 y U7), se encuentra Mustafa's Gemüse Kebap, un diminuto quiosco de comida para llevar famoso por sus kebabs de pollo repletos de verduras a la plancha. Con 4.2★ (22,378 reseñas), aquí encontrará lo que opinan los visitantes, el horario y algunos consejos.
 quickAnswer: En Mehringdamm 33, en pleno Kreuzberg (Berlín) y a pocos pasos de la estación de U-Bahn Mehringdamm (U6 y U7), se encuentra Mustafa's Gemüse Kebap, un diminuto quiosco de comida para llevar famoso por sus kebabs de pollo repletos de verduras a la plancha. Entre semana, la cola es más corta fuera de las horas punta del almuerzo y la cena; los fines de semana, de 11am a 1pm. Conviene evitar los sábados y domingos de 1pm a 11pm, cuando se forman las colas más largas. Tenga en cuenta, además, que los viernes no abre hasta las 2pm.
@@ -39,7 +39,7 @@ Es una comida económica y saciante: con un kebab hay de sobra para almorzar. Si
 
 ## Cómo sobrellevar la cola de Mehringdamm
 
-Conocer la afluencia de público facilita elegir el momento. **Entre semana, el quiosco está más tranquilo fuera de las horas punta del almuerzo y la cena**, de modo que ir de lunes a jueves, casi a cualquier hora, resulta mejor que hacerlo en fin de semana. **Los sábados y domingos, lo ideal es llegar entre las 11am y la 1pm.** Procure no presentarse esos días entre la 1pm y las 11pm: es cuando la fila se extiende más a lo largo de la acera.
+Conocer la afluencia habitual de público facilita elegir el momento. **Entre semana, el quiosco está más tranquilo fuera de las horas punta del almuerzo y la cena**, de modo que ir de lunes a jueves, casi a cualquier hora, resulta mejor que hacerlo en fin de semana. **Los sábados y domingos, lo ideal es llegar entre las 11am y la 1pm.** Procure no presentarse esos días entre la 1pm y las 11pm: es cuando la fila se extiende más a lo largo de la acera.
 
 Así funciona la cola:
 

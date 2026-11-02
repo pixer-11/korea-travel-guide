@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: turin-baratti-milano
-srcHash: 'ed93f598a9a7'
+srcHash: 'fea0b1625bbf'
 title: 'Baratti & Milano: Guía de viaje de Turín'
 description: Baratti & Milano es un café dorado y forrado de espejos del siglo XIX en Piazza Castello, justo debajo de la Galleria Subalpina, famoso por sus chocolates gianduiotto, el bicerin (la bebida de capas de café, chocolate y crema típica de Turín) y su interior Belle Époque de mármol y latón.
 quickAnswer: Baratti & Milano es un café dorado y forrado de espejos del siglo XIX en Piazza Castello, justo debajo de la Galleria Subalpina, famoso por sus chocolates gianduiotto, el bicerin (la bebida de capas de café, chocolate y crema típica de Turín) y su interior Belle Époque de mármol y latón. Abre todos los días excepto los lunes, de 9 a 20h; ve justo a la apertura (9-10h) en día de semana para conseguir mesa sin esperar, y evita si puedes la avalancha de fin de semana, de 10h a 20h.
@@ -40,7 +40,7 @@ El café está justo en Piazza Castello, en la boca de la Galleria Subalpina; es
 
 ## Cuándo ir
 
-Baratti & Milano mantiene el horario habitual de los establecimientos históricos del centro de Turín. Los patrones de afluencia muestran que el momento más tranquilo es entre semana, de 9 a 10 de la mañana, justo al abrir: esa es la franja ideal si quieres mesa sin esperar. Los fines de semana el local está concurrido todo el día, desde la apertura hasta el cierre, así que si visitas en sábado o domingo, cuenta con encontrar la sala más llena a cualquier hora.
+Baratti & Milano mantiene el horario habitual de los establecimientos históricos del centro de Turín. Los patrones de afluencia habituales muestran que el momento más tranquilo es entre semana, de 9 a 10 de la mañana, justo al abrir: esa es la franja ideal si quieres mesa sin esperar. Los fines de semana el local está concurrido todo el día, desde la apertura hasta el cierre, así que si visitas en sábado o domingo, cuenta con encontrar la sala más llena a cualquier hora.
 
 Es una dirección conocida y bien valorada, no un rincón escondido y tranquilo, así que conviene planear en torno a las multitudes en lugar de esperar evitarlas del todo.
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: genoa-porto-antico
-srcHash: '8ac44a326138'
+srcHash: '57d6a1081deb'
 title: 'Porto Antico: Guía de viaje de Génova (4,5★)'
 description: 'El Porto Antico es el viejo puerto revitalizado de Génova, sede del segundo acuario más grande de Europa, el elevador panorámico Bigo y un paseo marítimo bordeado de palmeras. 4,5★ (14.732 reseñas): lo que opinan los visitantes, horarios y consejos.'
 quickAnswer: El Porto Antico es el viejo puerto revitalizado de Génova, sede del segundo acuario más grande de Europa, el elevador panorámico Bigo y un paseo marítimo bordeado de palmeras. Permanece abierto las 24 horas, aunque el acuario y los museos tienen horarios diurnos que conviene consultar con antelación. Las mañanas de fin de semana entre las 7:00 y las 9:00 son las más tranquilas; conviene evitar el tramo de 14:00 a 23:00 los sábados y domingos, cuando la afluencia alcanza su punto máximo.
@@ -9,7 +9,7 @@ faq:
   - q: ¿Cuánto tiempo hay que dedicarle al Porto Antico?
     a: 'Conviene reservar al menos medio día: de dos a tres horas solo para el acuario, más el tiempo para el elevador Bigo, el Galata Museo del Mare y el paseo marítimo.'
   - q: ¿Cuál es el momento más tranquilo para visitarlo?
-    a: Según los datos medidos de afluencia de visitantes, las mañanas de fin de semana entre las 7:00 y las 9:00 son las más tranquilas. Es mejor evitar las tardes de sábado y domingo de 14:00 a 23:00, cuando se concentran las multitudes.
+    a: Según los datos habituales de afluencia de visitantes, las mañanas de fin de semana entre las 7:00 y las 9:00 son las más tranquilas. Es mejor evitar las tardes de sábado y domingo de 14:00 a 23:00, cuando se concentran las multitudes.
   - q: ¿Está abierto el Porto Antico por la noche?
     a: El puerto al aire libre y el paseo marítimo son accesibles las 24 horas del día. El acuario, los museos y la biosfera tienen su propio horario diurno, así que conviene revisar los horarios oficiales antes de ir.
   - q: ¿Cómo se llega al Porto Antico desde la estación de tren de Génova?

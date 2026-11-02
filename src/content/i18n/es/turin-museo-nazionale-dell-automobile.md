@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: turin-museo-nazionale-dell-automobile
-srcHash: '97d8a510d0a9'
+srcHash: '1d30b3ea7cca'
 title: 'Museo Nazionale dell''Automobile: guía de viaje de Turín (4,7★)'
 description: 'El Museo Nazionale dell''Automobile (MAUTO) se encuentra en Corso Unità d''Italia, junto al río Po, a un corto trayecto en tranvía al sur del centro de Turín. 4,7★ (23.631 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo Nazionale dell'Automobile (MAUTO) se encuentra en Corso Unità d'Italia, junto al río Po, a un corto trayecto en tranvía al sur del centro de Turín. Es muy popular, así que conviene ir un día laborable entre las 10:00 y las 11:00 de la mañana, cuando las salas están más tranquilas, y calcular entre dos y tres horas para la visita. Abre solo hasta las 14:00 los lunes, pero el resto de la semana el horario es de 10:00 a 19:00.
@@ -9,7 +9,7 @@ faq:
   - q: ¿Cómo se llega al Museo Nazionale dell'Automobile desde el centro de Turín?
     a: Tome la línea 4 de tranvía, que para muy cerca de la entrada, en Corso Unità d'Italia. El trayecto es corto tanto desde la estación de Porta Nuova como desde el centro de la ciudad.
   - q: ¿Cuál es el momento más tranquilo para la visita?
-    a: Según los datos de afluencia registrados, las mañanas laborables entre las 10:00 y las 11:00 son las más tranquilas. Las tardes de fin de semana, de 11:00 a 18:00, son las más concurridas, así que conviene evitar ese horario si es posible.
+    a: Según los datos habituales de afluencia, las mañanas laborables entre las 10:00 y las 11:00 son las más tranquilas. Las tardes de fin de semana, de 11:00 a 18:00, son las más concurridas, así que conviene evitar ese horario si es posible.
   - q: ¿Cuánto tiempo hay que reservar para la visita?
     a: La mayoría de los visitantes pasa entre dos y tres horas recorriendo las salas. Los aficionados a los coches o quienes quieran ver alguna exposición especial deberían prever más tiempo.
   - q: ¿Cuál es el horario del museo?

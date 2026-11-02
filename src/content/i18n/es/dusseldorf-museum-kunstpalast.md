@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: dusseldorf-museum-kunstpalast
-srcHash: 'a610e97b1dc2'
+srcHash: '3161f48b6e9f'
 title: 'Museum Kunstpalast: guía de viaje de Düsseldorf (4.6★)'
 description: El Museum Kunstpalast se encuentra en Ehrenhof 4-5, en el barrio de Pempelfort de Düsseldorf, junto al Rin y a pocos minutos a pie al norte del casco antiguo (Altstadt). Con 4.6★ (5,775 reseñas), le contamos qué opinan los visitantes, cuáles son los horarios y qué conviene saber antes de ir.
 quickAnswer: 'El Museum Kunstpalast se encuentra en Ehrenhof 4-5, en el barrio de Pempelfort de Düsseldorf, junto al Rin y a pocos minutos a pie al norte del casco antiguo (Altstadt). Su colección abarca desde Rubens hasta los artistas del grupo ZERO e incluye además una gran colección de vidrio. Abre de martes a domingo y cierra los lunes. Lo ideal es ir el jueves por la tarde: ese día el horario se alarga hasta las 9pm, y la franja de 6pm–7pm es la más tranquila entre semana. Los fines de semana conviene evitar las horas entre las 12pm y las 6pm.'
@@ -41,7 +41,7 @@ Las exposiciones temporales se instalan en salas aparte y suelen concentrar el g
 
 La peculiaridad de este museo está en los jueves, y es también la mejor manera de aprovecharlo. La mayoría de los días abre de 11am a 6pm, pero los jueves sus puertas no cierran hasta las 9pm.
 
-Según los datos de afluencia, la franja más tranquila entre semana es la de 6pm–7pm, y el jueves es el único día laborable en que el edificio está abierto a esa hora. Llegue hacia las 5pm, recorra alguna exposición temporal mientras se marchan los visitantes de la jornada y, a partir de las seis, disfrutará de las salas permanentes casi en solitario.
+Según la afluencia habitual, la franja más tranquila entre semana es la de 6pm–7pm, y el jueves es el único día laborable en que el edificio está abierto a esa hora. Llegue hacia las 5pm, recorra alguna exposición temporal mientras se marchan los visitantes de la jornada y, a partir de las seis, disfrutará de las salas permanentes casi en solitario.
 
 Los fines de semana ocurre justo lo contrario. Sábados y domingos, entre las 12pm y las 6pm, se registra la mayor afluencia, así que evítelos si puede. Si solo dispone del fin de semana, preséntese a las 11am, a la hora de apertura, antes de que llegue la oleada.
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: toledo-monasterio-de-san-juan-de-los-reyes
-srcHash: 'e6e10fa8ed9d'
+srcHash: '2ef5f1247ec5'
 title: 'Monasterio de San Juan de los Reyes: Guía de Viaje de Toledo'
 description: San Juan de los Reyes es la gran joya gótico-flamenca de Toledo, construida por Isabel y Fernando en la antigua judería, famosa por su claustro de dos niveles y las cadenas colgadas en su fachada. 4.7★ (9,423 reseñas) — lo que dicen los visitantes, horarios y consejos.
 quickAnswer: San Juan de los Reyes es la gran joya gótico-flamenca de Toledo, construida por Isabel y Fernando en la antigua judería, famosa por su claustro de dos niveles y las cadenas colgadas en su fachada. Abre todos los días, de 10am a 6:45pm. Ve justo a la apertura, entre las 10am y las 11am en días de semana, para evitar las multitudes — los fines de semana se llenan de mediodía a las 6pm.
@@ -40,7 +40,7 @@ Si vienes desde la estación de tren de Toledo, un taxi o el autobús local hast
 
 ## Cuándo ir
 
-El monasterio abre todos los días a las 10am y cierra a las 6:45pm, sin cierre a mediodía, lo que facilita incluirlo en un día de recorrido por el casco antiguo. Los datos de afluencia peatonal muestran que la franja más tranquila es de 10am a 11am entre semana — llega justo a la apertura y a menudo tendrás el claustro superior casi para ti solo.
+El monasterio abre todos los días a las 10am y cierra a las 6:45pm, sin cierre a mediodía, lo que facilita incluirlo en un día de recorrido por el casco antiguo. Los datos habituales de afluencia peatonal muestran que la franja más tranquila es de 10am a 11am entre semana — llega justo a la apertura y a menudo tendrás el claustro superior casi para ti solo.
 
 Los fines de semana son otra historia: las multitudes aumentan de forma constante desde el mediodía y se mantienen densas hasta el cierre, así que si visitas un sábado o domingo, procura llegar antes del mediodía.
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: merida-parque-de-santa-ana
-srcHash: '27ba80e31328'
+srcHash: '44e48b628c43'
 title: 'Parque de Santa Ana: guía de viaje de Mérida (4.6★)'
 description: 'En el Centro de Mérida, en la esquina de la Calle 60 con la Calle 45, el Parque de Santa Ana es una plaza con sombra situada frente a la Iglesia de Santa Ana, del siglo XVIII, y junto a las cocinas del mercado de Santa Ana. 4.6★ (13,068 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En el Centro de Mérida, en la esquina de la Calle 60 con la Calle 45, el Parque de Santa Ana es una plaza con sombra situada frente a la Iglesia de Santa Ana, del siglo XVIII, y junto a las cocinas del mercado de Santa Ana. Está abierto las 24 horas y la entrada es gratuita. Los fines de semana hay mucha gente de 9am a 11pm. Si quiere sentarse en una banca sin tener que buscarla, conviene ir entre semana.
@@ -60,7 +60,7 @@ Las bancas son de todos. Familias, estudiantes y vecinos mayores las ocupan a lo
 
 ## Cuándo ir y cuándo evitarlo
 
-El parque nunca cierra. Según las mediciones de afluencia, los fines de semana hay mucha gente de 9am a 11pm. Un sábado o un domingo, cuando la plaza está más llena, es difícil encontrar una banca vacía o un banco libre en los puestos más concurridos. Lo más cómodo es ir entre semana.
+El parque nunca cierra. Según la afluencia habitual, los fines de semana hay mucha gente de 9am a 11pm. Un sábado o un domingo, cuando la plaza está más llena, es difícil encontrar una banca vacía o un banco libre en los puestos más concurridos. Lo más cómodo es ir entre semana.
 
 El calor del mediodía meridano pesa tanto como las multitudes. Los árboles dan una sombra generosa, pero entre media mañana y media tarde la mayoría de la gente evita el sol. Las horas más agradables son las primeras de la mañana y las del atardecer. Cuando se encienden las farolas, la fachada de la iglesia se ilumina y las cocinas no paran de servir.
 

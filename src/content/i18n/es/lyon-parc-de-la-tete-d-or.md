@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: lyon-parc-de-la-tete-d-or
-srcHash: '7308ee53882c'
+srcHash: '12c1740161ee'
 title: 'Parc de la Tête d''Or: Guía de viaje de Lyon'
 description: El Parc de la Tête d'Or es el pulmón verde de Lyon, de 117 hectáreas, en el distrito 6 (6e arrondissement), con entrada gratuita todos los días de 6:30 a 22:30, y que cuenta con un lago, un jardín botánico, una rosaleda y un zoo gratuito.
 quickAnswer: 'El Parc de la Tête d''Or es el pulmón verde de Lyon, de 117 hectáreas, en el distrito 6 (6e arrondissement), con entrada gratuita todos los días de 6:30 a 22:30, y que cuenta con un lago, un jardín botánico, una rosaleda y un zoo gratuito. Es realmente popular, con más de 60.000 reseñas, así que lo mejor es visitarlo por la mañana: los fines de semana se mantiene tranquilo desde las 7:00, pero se llena bastante entre las 13:00 y las 20:00. Calcula entre dos y tres horas para recorrer el lago, pasear por la rosaleda y ver a los animales.'
@@ -40,7 +40,7 @@ Repartidos por los terrenos también encontrarás una pista de minigolf, paseos 
 
 ## Cuándo ir
 
-El parque mantiene un horario diario de primera hora de la mañana a la noche, así que tanto las mañanas tempranas como las tardes son buenas opciones si buscas los senderos casi vacíos. Los datos de afluencia de visitantes muestran que tanto los días de semana como los fines de semana se mantienen tranquilos desde las 7:00 hasta bien entrada la tarde, pero las tardes de fin de semana son otra historia: la multitud aumenta de forma constante y alcanza su punto máximo entre las 13:00 y las 20:00, cuando los prados junto al lago se llenan de familias haciendo pícnic y los senderos alrededor del zoo se congestionan de verdad.
+El parque mantiene un horario diario de primera hora de la mañana a la noche, así que tanto las mañanas tempranas como las tardes son buenas opciones si buscas los senderos casi vacíos. Los datos habituales de afluencia de visitantes muestran que tanto los días de semana como los fines de semana se mantienen tranquilos desde las 7:00 hasta bien entrada la tarde, pero las tardes de fin de semana son otra historia: la multitud aumenta de forma constante y alcanza su punto máximo entre las 13:00 y las 20:00, cuando los prados junto al lago se llenan de familias haciendo pícnic y los senderos alrededor del zoo se congestionan de verdad.
 
 Si puedes, visita una mañana de entre semana o intenta llegar el fin de semana antes del mediodía. La primavera trae la floración de la rosaleda, el otoño tiñe de dorado los plátanos de sombra, e incluso en invierno el parque permanece abierto y transitable, solo que más tranquilo y desnudo.
 

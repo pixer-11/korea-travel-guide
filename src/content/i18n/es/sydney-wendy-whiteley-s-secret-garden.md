@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: sydney-wendy-whiteley-s-secret-garden
-srcHash: '3532b683726f'
+srcHash: '9b3923f0c478'
 title: 'Jardín Secreto de Wendy Whiteley: guía de viaje de Sídney (4.8★)'
 description: 'En Lavender Bay, North Sydney, junto a Luna Park y a unos 10 minutos a pie de la estación de Milsons Point, se encuentra el Jardín Secreto de Wendy Whiteley, un jardín público gratuito que nunca cierra. Valoración de 4.8★ (3,711 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Jardín Secreto de Wendy Whiteley (Wendy Whiteley's Secret Garden) es un jardín público de acceso gratuito y abierto a todas horas. Está en Lavender Bay, North Sydney, al lado de Luna Park y a unos 10 minutos a pie de la estación de Milsons Point. La mayor afluencia se registra los fines de semana entre las 9am y las 6pm; si va entre semana, o bien temprano o a última hora durante el fin de semana, tendrá los bancos y los atisbos del puerto casi solo para usted. Calcule entre 45 minutos y una hora, o algo más si lleva comida para un pícnic.
@@ -49,7 +49,7 @@ Por el borde del jardín pasan los trenes que van y vienen de Milsons Point, y s
 
 ## Cómo evitar las aglomeraciones del fin de semana
 
-El jardín se llena los fines de semana. Según los datos de afluencia, la franja de más movimiento va de **9am a 6pm los sábados y domingos**. A esas horas, los mejores bancos están ocupados y por los senderos estrechos se avanza despacio y en fila india.
+El jardín se llena los fines de semana. Según la afluencia habitual, la franja de más movimiento va de **9am a 6pm los sábados y domingos**. A esas horas, los mejores bancos están ocupados y por los senderos estrechos se avanza despacio y en fila india.
 
 Si solo puede ir en fin de semana, acuda antes de las 9am o después de las 6pm. Aunque figura como abierto las 24 horas, los senderos son empinados y están en sombra, así que conviene llegar con luz suficiente para ver dónde se pisa.
 

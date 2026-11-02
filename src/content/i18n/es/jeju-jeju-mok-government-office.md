@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: jeju-jeju-mok-government-office
-srcHash: '6cf504cb67e8'
+srcHash: 'e9e6ceeedc02'
 title: 'Antigua sede de gobierno de Jeju-mok: guía de viaje (4.3★)'
 description: En el casco antiguo de la ciudad de Jeju, a pocos minutos a pie del mercado de Dongmun, se encuentra la antigua sede de gobierno de Jeju-mok, en 13 Gwandeok-ro 7-gil. Con 4.3★ (1,660 reseñas), le contamos qué opinan los visitantes, cuál es el horario y qué conviene saber.
 quickAnswer: La antigua sede de gobierno de Jeju-mok (Jeju-mok Government Office) se encuentra en 13 Gwandeok-ro 7-gil, en el casco antiguo de la ciudad de Jeju, a pocos minutos a pie del mercado de Dongmun. Este recinto reconstruido fue el lugar desde el que los gobernadores de la dinastía Joseon administraban la isla, y abre todos los días de 9am a 6pm. Entre semana, lo ideal es llegar entre las 9am y las 10am. El fin de semana, conviene presentarse a las 9am en punto, antes de que llegue la afluencia de 10am–1pm. Calcule alrededor de una hora para la visita, además del tiempo que dedique al pabellón Gwandeokjeong, situado justo delante.
@@ -64,7 +64,7 @@ Los caminos son llanos, de grava o pavimentados. Un recorrido sin prisas lleva a
 
 ## Cuándo ir para disfrutar de los patios
 
-Los patios lucen más sin gente en la foto, y los datos de afluencia muestran aquí una pauta clara.
+Los patios lucen más sin gente en la foto, y la afluencia habitual muestra aquí una pauta clara.
 
 Entre semana, la franja más tranquila es la primera hora tras la apertura, de **9am a 10am**. El fin de semana hay más calma de **9am a 12pm**, aunque la mayor afluencia se da de **10am a 1pm**. En la práctica, lo mejor es presentarse a las 9am. Si puede, no llegue después de las 10am en sábado o domingo, porque a esa hora se llenan los patios y las escaleras de Mangyeongru.
 

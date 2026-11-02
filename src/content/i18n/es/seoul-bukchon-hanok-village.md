@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: seoul-bukchon-hanok-village
-srcHash: '4be2adcb8f67'
+srcHash: 'c13c5cc0edff'
 title: 'Aldea Hanok de Bukchon (Bukchon Hanok Village): guía de viaje de Seúl (4,4★)'
 description: 'La Aldea Hanok de Bukchon (Bukchon Hanok Village) es un barrio en la colina con casas hanok de madera centenarias entre los palacios Gyeongbokgung y Changdeokgung: se recorre a pie por sus vistas de tejados de tejas, no por una atracción concreta con entrada. 4,4★ (24.313 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'La Aldea Hanok de Bukchon (Bukchon Hanok Village) es un barrio en la colina con casas hanok de madera centenarias entre los palacios Gyeongbokgung y Changdeokgung: se recorre a pie por sus vistas de tejados de tejas, no por una atracción concreta con entrada. Ve justo al abrir, entre las 10 y las 11 de la mañana, cuando los callejones están más tranquilos; hacia el mediodía de los fines de semana, los puntos fotográficos más populares se convierten en un lento desfile de grupos turísticos. Reserva entre 1,5 y 2 horas, lleva zapatos planos por las cuestas empinadas y habla en voz baja: en estas casas todavía vive gente.'
@@ -42,7 +42,7 @@ Desde cualquiera de las dos salidas hay unos 10-15 minutos de caminata cuesta ar
 
 ## Cuándo ir
 
-Bukchon en sí no tiene rejas ni horario fijo de apertura, ya que es un barrio residencial habitado, y no es un lugar para quedarse hasta después del anochecer: no hay un plan de iluminación pensado para turistas, y al llegar la noche las calles residenciales quedan simplemente oscuras y silenciosas. Los datos de tráfico peatonal confirman lo que uno imaginaría: la hora más tranquila, tanto en días de semana como en fines de semana, es entre las 10 y las 11 de la mañana, justo al abrir.
+Bukchon en sí no tiene rejas ni horario fijo de apertura, ya que es un barrio residencial habitado, y no es un lugar para quedarse hasta después del anochecer: no hay un plan de iluminación pensado para turistas, y al llegar la noche las calles residenciales quedan simplemente oscuras y silenciosas. El tráfico peatonal habitual confirma lo que uno imaginaría: la hora más tranquila, tanto en días de semana como en fines de semana, es entre las 10 y las 11 de la mañana, justo al abrir.
 
 Evita llegar entre el mediodía y las 5 de la tarde en fin de semana, cuando los callejones estrechos —especialmente Bukchon-ro 11-gil— se llenan de grupos turísticos y la cola para la foto en el mirador principal puede quedarse completamente parada.
 

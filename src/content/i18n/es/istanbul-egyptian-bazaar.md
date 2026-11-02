@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: istanbul-egyptian-bazaar
-srcHash: '9bcefb494376'
+srcHash: 'd79c35384673'
 title: 'Bazar Egipcio: Guía de viaje de Estambul (4,5★)'
 description: 'El Bazar Egipcio (Mısır Çarşışı), en Eminönü, es un mercado de especias cubierto del siglo XVII con más de 190.000 reseñas y una valoración de 4,5 estrellas: es realmente popular, no un secreto, así que conviene ir temprano.'
 quickAnswer: 'El Bazar Egipcio (Mısır Çarşışı), en Eminönü, es un mercado de especias cubierto del siglo XVII con más de 190.000 reseñas y una valoración de 4,5 estrellas: es realmente popular, no un secreto, así que conviene ir temprano. El horario más tranquilo es de 8 a 11 de la mañana entre semana, o de 8 a 12 los fines de semana; evita el ajetreo de 1 a 7 de la tarde en fin de semana. Calcula entre 45 y 75 minutos, paga en efectivo (liras) para tener más margen de regateo, y combínalo con un paseo hasta la cercana Mezquita Nueva o el Gran Bazar.'
@@ -38,7 +38,7 @@ Los puestos de textiles y cerámica se agrupan hacia los brazos más tranquilos 
 
 ## Cuándo ir
 
-El mercado mantiene un horario diario constante, así que no hay que planificar en torno a días de cierre anticipado o tardío. El flujo de visitantes medido confirma lo que cabría suponer: entre semana, de 8 a 11 de la mañana es el tramo más tranquilo, y los fines de semana hay una calma similar desde la apertura hasta aproximadamente el mediodía.
+El mercado mantiene un horario diario constante, así que no hay que planificar en torno a días de cierre anticipado o tardío. El flujo habitual de visitantes confirma lo que cabría suponer: entre semana, de 8 a 11 de la mañana es el tramo más tranquilo, y los fines de semana hay una calma similar desde la apertura hasta aproximadamente el mediodía.
 
 En cuanto llegan las tardes de fin de semana, a partir de la 1pm, los pasillos se llenan de pared a pared hasta el cierre, así que si quieres espacio para mirar de verdad lo que hay en los estantes en lugar de ir arrastrándote entre la gente, conviene visitar temprano.
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: strasbourg-cathedrale-notre-dame-de-strasbourg
-srcHash: '2df7d0453890'
+srcHash: '8a74da9c5a0d'
 title: 'Catedral de Notre-Dame de Estrasburgo: Guía de viaje'
 description: La catedral de Estrasburgo es una iglesia parroquial en activo con un rosetón, un reloj astronómico y una aguja de 142 metros que dominó los skylines de Europa durante siglos, y la entrada para recorrerla es gratuita.
 quickAnswer: La catedral de Estrasburgo es una iglesia parroquial en activo con un rosetón, un reloj astronómico y una aguja de 142 metros que dominó los skylines de Europa durante siglos, y la entrada para recorrerla es gratuita. Visítala justo a la apertura, a las 8:30am, en un día laborable, para encontrar la nave casi vacía, ya que la plaza se llena de grupos turísticos de mediodía a 5pm los fines de semana. Reserva entre 45 minutos y una hora para el interior, más si subes a la plataforma o presencias el espectáculo del reloj a mediodía.
@@ -9,7 +9,7 @@ faq:
   - q: ¿Es gratis visitar la Catedral de Estrasburgo?
     a: Sí, la entrada a la nave principal es gratuita. Solo la visita al reloj astronómico y la subida a la plataforma de la torre requieren entradas de pago aparte, que se compran en el mostrador del pórtico sur.
   - q: ¿Cuál es el momento más tranquilo para visitarla?
-    a: Entre las 8:30am y las 10am, entre semana y los sábados, según los datos medidos de afluencia de visitantes, justo después de que abran las puertas a las 8:30am. Los domingos abre más tarde, a las 2pm, así que la franja tranquila ahí simplemente se traslada a llegar justo a las 2. Evita las tardes de fin de semana, cuando hay más afluencia.
+    a: Entre las 8:30am y las 10am, entre semana y los sábados, según la afluencia habitual de visitantes, justo después de que abran las puertas a las 8:30am. Los domingos abre más tarde, a las 2pm, así que la franja tranquila ahí simplemente se traslada a llegar justo a las 2. Evita las tardes de fin de semana, cuando hay más afluencia.
   - q: ¿Cómo llego a la catedral desde la estación de tren?
     a: Son unos 20 minutos a pie, o puedes tomar el tranvía Línea A o D hasta Langstross Grand'Rue o Broglie y caminar los cinco minutos restantes por el casco antiguo peatonal.
   - q: ¿Cuánto tiempo debería dedicarle?
@@ -38,7 +38,7 @@ Cerca de ahí, el Pilar de los Ángeles, tallado hacia 1230, muestra el Juicio F
 
 ## Cuándo ir
 
-La catedral mantiene un horario partido cada día, cerrando a mediodía y abriendo más tarde los domingos, algo útil de saber ya que las misas y otros oficios religiosos pueden restringir el acceso en otros momentos. Los datos medidos de afluencia muestran que la franja más tranquila es de 8:30am a 10am entre semana y los sábados, justo cuando abren las puertas, mientras que el inicio más tardío del domingo, a las 2pm, hace que ese mismo truco de la franja tranquila simplemente se traslade a llegar justo a las 2; por lo demás, las multitudes aumentan de forma constante a lo largo del día y alcanzan su punto máximo por la tarde.
+La catedral mantiene un horario partido cada día, cerrando a mediodía y abriendo más tarde los domingos, algo útil de saber ya que las misas y otros oficios religiosos pueden restringir el acceso en otros momentos. La afluencia habitual muestra que la franja más tranquila es de 8:30am a 10am entre semana y los sábados, justo cuando abren las puertas, mientras que el inicio más tardío del domingo, a las 2pm, hace que ese mismo truco de la franja tranquila simplemente se traslade a llegar justo a las 2; por lo demás, las multitudes aumentan de forma constante a lo largo del día y alcanzan su punto máximo por la tarde.
 
 Dado lo concurrido que está este lugar durante todo el año, esa franja temprana no es un simple detalle agradable, sino la diferencia entre tener la nave prácticamente para ti solo o codearte con grupos turísticos bajo el rosetón.
 

@@ -1,13 +1,13 @@
 ---
 lang: es
 slug: chicago-billy-goat-tavern-the-original
-srcHash: '82125046f707'
+srcHash: '7d6b8da84bd8'
 title: 'Billy Goat Tavern (el original): dónde comer en Chicago'
 description: 'Ve al Billy Goat Tavern original, bajo Michigan Avenue, un día entre semana por la mañana, entre las 7am y las 10am, cuando la parrilla apenas se está encendiendo y la famosa sala subterránea está casi vacía. 4.5★ (6,121 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'Ve al Billy Goat Tavern original, bajo Michigan Avenue, un día entre semana por la mañana, entre las 7am y las 10am, cuando la parrilla apenas se está encendiendo y la famosa sala subterránea está casi vacía. Pide una "cheezborger" (o dos), una bolsa de papas fritas de bolsa y una Coca-Cola: se acepta efectivo y tarjeta, es un lugar cómodo para pagar en efectivo pero no exclusivo de efectivo, y toda la visita cuesta menos que un almuerzo sentado en cualquier otro lugar del Loop. Calcula entre 30 y 45 minutos; es una experiencia de mostrador para comer de pie, no una comida relajada sentado.'
 faq:
   - q: ¿Cuál es el mejor momento para visitarlo y evitar las multitudes?
-    a: Las mañanas entre semana, entre las 7am y las 10am, son la franja más tranquila según los datos medidos de afluencia de público. Los fines de semana se mantiene concurrido casi todo el día, con las mayores multitudes entre el mediodía y las 10pm.
+    a: Las mañanas entre semana, entre las 7am y las 10am, son la franja más tranquila según la afluencia habitual de público. Los fines de semana se mantiene concurrido casi todo el día, con las mayores multitudes entre el mediodía y las 10pm.
   - q: ¿Cómo llego al Billy Goat Tavern original?
     a: Está en el nivel inferior de North Michigan Avenue, cerca del Wrigley Building y del Michigan Avenue Bridge; busca una escalera señalizada hacia Lower Michigan Avenue. Las paradas de la línea CTA Red/Brown/Purple en Grand y Chicago quedan a unos 10-12 minutos caminando cada una.
   - q: ¿Qué debería pedir?
@@ -42,7 +42,7 @@ Las porciones son modestas y los precios se mantienen económicos, acorde con su
 
 ## Cuándo ir
 
-Billy Goat abre en un horario extenso: desde las 7am entre semana (9am los fines de semana) hasta la medianoche la mayoría de las noches, y hasta la 1:30am de jueves a sábado, así que funciona igual de bien como parada de hamburguesa para desayunar o como bocado nocturno después de un espectáculo. Los datos medidos de afluencia de público muestran que la franja más tranquila es entre semana por la mañana, de 7am a 10am, antes de que lleguen la multitud de oficina del almuerzo y los grupos turísticos.
+Billy Goat abre en un horario extenso: desde las 7am entre semana (9am los fines de semana) hasta la medianoche la mayoría de las noches, y hasta la 1:30am de jueves a sábado, así que funciona igual de bien como parada de hamburguesa para desayunar o como bocado nocturno después de un espectáculo. La afluencia habitual de público muestra que la franja más tranquila es entre semana por la mañana, de 7am a 10am, antes de que lleguen la multitud de oficina del almuerzo y los grupos turísticos.
 
 Los fines de semana se mantiene concurrido casi todo el día, con la mayor aglomeración entre el mediodía y las 10pm; vale la pena evitar ese horario si quieres realmente conseguir un asiento en vez de comer de pie en el mostrador. Si solo puedes ir un fin de semana, apunta a las horas de la mañana antes de las 11am.
 

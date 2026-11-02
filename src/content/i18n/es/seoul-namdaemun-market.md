@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: seoul-namdaemun-market
-srcHash: '7f6d039207b1'
+srcHash: 'aa78e1778b33'
 title: 'Mercado de Namdaemun: guía de viaje de Seúl (4,2★)'
 description: 'El mercado de Namdaemun, en el distrito de Jung, en pleno centro de Seúl, es el mercado tradicional más antiguo y más grande de la ciudad, abierto todos los días de 9:00 a 17:00 salvo los domingos. 4,2★ (28.364 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El mercado de Namdaemun, en el distrito de Jung, en pleno centro de Seúl, es el mercado tradicional más antiguo y más grande de la ciudad, abierto todos los días de 9:00 a 17:00 salvo los domingos. Es un lugar genuinamente popular, no un secreto, así que conviene aprovechar la franja de 9:00 a 10:00 cualquier día para recorrer los callejones de ropa, menaje de cocina y comida callejera antes de que los grupos turísticos y el gentío del almuerzo los llenen a partir de las 11:00 los fines de semana. Calcule entre dos y tres horas, y combine la visita con un paseo hasta la cercana Puerta de Namdaemun o hasta Myeongdong.
@@ -28,7 +28,7 @@ El mercado se encuentra en 21 Namdaemunsijang 4-gil, en el distrito de Jung, a d
 
 ## Entender el ritmo del mercado
 
-Este es uno de los mercados más visitados de Seúl, no un hallazgo tranquilo, así que el momento del día importa más que la entrada que se elija. Los datos de afluencia muestran que las horas más tranquilas son de 9:00 a 10:00, tanto entre semana como los fines de semana, justo cuando los puestos están levantando las persianas.
+Este es uno de los mercados más visitados de Seúl, no un hallazgo tranquilo, así que el momento del día importa más que la entrada que se elija. La afluencia habitual muestra que las horas más tranquilas son de 9:00 a 10:00, tanto entre semana como los fines de semana, justo cuando los puestos están levantando las persianas.
 
 Las tardes de fin de semana son todo lo contrario: la multitud aumenta de forma constante desde las 11:00 hasta el cierre a las 17:00, y los callejones estrechos cercanos a los puestos de comida se congestionan con rapidez. Para conseguir fotos de los puestos sin una pared de hombros en el encuadre, conviene llegar a la apertura.
 

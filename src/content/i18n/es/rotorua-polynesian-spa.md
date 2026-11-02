@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: rotorua-polynesian-spa
-srcHash: '8854112f7ceb'
+srcHash: '381137084edf'
 title: 'Polynesian Spa: guía de viaje de Rotorua (4.5★)'
 description: Junto al lago, al final de Hinemoa Street y a pocos pasos del centro de Rotorua, se encuentra el Polynesian Spa. Con una valoración de 4.5★ (8,953 reseñas), aquí encontrará la opinión de los visitantes, los horarios y consejos prácticos.
 quickAnswer: En la zona de Lakeside, a pocos minutos a pie del centro de Rotorua, el Polynesian Spa ocupa el extremo de Hinemoa Street que da al lago. Cuenta con piscinas geotérmicas familiares, privadas y exclusivas para adultos, además de tratamientos de spa y una cafetería. Actualmente abre de 9am–11pm. Los momentos más tranquilos para bañarse son entre semana de 9am–1pm o cualquier noche de 10pm–11pm. Conviene evitar la franja de 3pm–8pm durante el fin de semana.
@@ -48,7 +48,7 @@ Los tipos de entrada y las tarifas vigentes figuran en la web oficial del Polyne
 
 ## El reloj del vapor
 
-La afluencia sigue un patrón, y un fin de semana con mucho movimiento las piscinas se llenan enseguida. Según los datos de afluencia registrados, entre semana la franja más tranquila es la de 9am–1pm. El fin de semana ese margen de calma se reduce a 9am–11am. Todos los días, además, la franja de 10pm–11pm es tranquila.
+La afluencia sigue un patrón, y un fin de semana con mucho movimiento las piscinas se llenan enseguida. Según la afluencia habitual, entre semana la franja más tranquila es la de 9am–1pm. El fin de semana ese margen de calma se reduce a 9am–11am. Todos los días, además, la franja de 10pm–11pm es tranquila.
 
 Haga lo posible por no llegar entre las 3pm y las 8pm un fin de semana. Es la hora punta: los vestuarios se abarrotan y las piscinas con vistas al lago se llenan.
 

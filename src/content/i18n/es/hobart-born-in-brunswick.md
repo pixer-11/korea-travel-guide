@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: hobart-born-in-brunswick
-srcHash: '101f6e5c54b2'
+srcHash: 'e593316f4bc9'
 title: 'Born In Brunswick: guía de viaje de Hobart (4.5★)'
 description: En el 410 de Elizabeth St, en North Hobart, Born In Brunswick sirve brunch a precios moderados. Tiene muy buenas valoraciones y abre todos los días de 8am a 2pm.
 quickAnswer: En el 410 de Elizabeth St, en North Hobart, Born In Brunswick sirve brunch a precios moderados. Tiene muy buenas valoraciones y abre todos los días de la semana de 8am a 2pm. Entre semana, la franja más tranquila va de 1pm a 2pm. El fin de semana conviene evitar el intervalo de 10am a 12pm, que es cuando más clientes hay.
@@ -40,7 +40,7 @@ Como la carta y los precios cambian, es mejor consultarlos en los canales del pr
 
 ## Cómo conseguir mesa: cuándo se vacía y cuándo se llena
 
-Hemos medido la afluencia de público en esta dirección y los datos son claros. Entre semana, la hora más tranquila va de 1pm a 2pm, cuando ya se ha marchado la clientela del desayuno y empieza a disminuir la de la comida.
+Contamos con datos de la afluencia habitual de público en esta dirección y son claros. Entre semana, la hora más tranquila va de 1pm a 2pm, cuando ya se ha marchado la clientela del desayuno y empieza a disminuir la de la comida.
 
 El fin de semana es otra historia. La franja de mayor actividad va de 10am a 12pm, cuando medio Hobart sale a desayunar tarde por Elizabeth Street. No es buen momento para presentarse con un grupo de cuatro y esperar sentarse enseguida.
 

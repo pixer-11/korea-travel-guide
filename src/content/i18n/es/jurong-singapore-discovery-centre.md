@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: jurong-singapore-discovery-centre
-srcHash: '082d0c987eb7'
+srcHash: '5ef1861407a6'
 title: 'Singapore Discovery Centre: guía de viaje de Jurong (4,7★)'
 description: 'El Singapore Discovery Centre, en Jurong, abre entre semana de 12 a 18 h y los fines de semana de 11 a 19 h, y está más tranquilo los días laborables entre las 17 y las 18 h, o los fines de semana entre las 11 y las 13 h. 4,7★ (9.120 reseñas): lo que opinan los visitantes, horarios y consejos.'
 quickAnswer: El Singapore Discovery Centre, en Jurong, abre entre semana de 12 a 18 h y los fines de semana de 11 a 19 h, y está más tranquilo los días laborables entre las 17 y las 18 h, o los fines de semana entre las 11 y las 13 h. Conviene reservar entre dos y tres horas para recorrer las exhibiciones interactivas sobre la defensa, la historia y el futuro de Singapur. Se trata de un lugar muy visitado, así que conviene aprovechar esas franjas más tranquilas en lugar de acudir el sábado o el domingo a primera hora de la tarde.
@@ -33,7 +33,7 @@ Los horarios varían mucho según el día, así que conviene comprobar cuál cor
 - Lunes a viernes: 12:00–18:00
 - Sábado y domingo: 11:00–19:00
 
-Esa franja tan corta entre semana hace que llegar justo al mediodía permita aprovechar toda la tarde. Los datos de afluencia muestran que, entre semana, el momento más tranquilo se sitúa entre las 17 y las 18 h, justo antes del cierre. Los fines de semana, el tramo de calma va de 11 a 13 h, antes de que las familias colmen los simuladores durante la tarde.
+Esa franja tan corta entre semana hace que llegar justo al mediodía permita aprovechar toda la tarde. La afluencia habitual muestra que, entre semana, el momento más tranquilo se sitúa entre las 17 y las 18 h, justo antes del cierre. Los fines de semana, el tramo de calma va de 11 a 13 h, antes de que las familias colmen los simuladores durante la tarde.
 
 Con una calificación media de 4,7 estrellas entre más de 9.000 reseñas, se trata de una atracción muy concurrida, por lo que ajustar la visita a esas franjas horarias importa más que en un museo con menos afluencia.
 

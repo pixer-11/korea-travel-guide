@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: yogyakarta-keraton-ngayogyakarta-hadiningrat
-srcHash: '5451b34a8f83'
+srcHash: '32f342aa47fa'
 title: 'Keraton Ngayogyakarta Hadiningrat: guía de viaje de Yogyakarta'
 description: El Keraton Ngayogyakarta Hadiningrat, palacio del sultán, se encuentra en el distrito de Kraton, en pleno centro de Yogyakarta. Abre de martes a domingo de 9:00 a 15:00 y cierra los lunes. Tiene una valoración de 4.7★ (39,589 reseñas). Aquí encontrará las opiniones de los visitantes, los horarios y algunos consejos.
 quickAnswer: El Keraton Ngayogyakarta Hadiningrat es el palacio del sultán y está en el distrito de Kraton, en el centro de Yogyakarta. Abre de martes a domingo de 9:00 a 15:00 y permanece cerrado los lunes. Los fines de semana hay mucha gente durante todo el horario de apertura (9:00–15:00), así que conviene ir una mañana entre semana, poco después de las 9:00. Calcule entre 1,5 y 2 horas de visita y, al terminar, acérquese a pie hasta Taman Sari.
@@ -38,7 +38,7 @@ Desde la estación de Tugu, la calle Malioboro se extiende unos 2km hacia el sur
 
 ## Cómo evitar las aglomeraciones y los actos de la corte
 
-El palacio abre de martes a domingo, de 9:00 a 15:00, y cierra todos los lunes. Según las mediciones de afluencia, los fines de semana la hora punta abarca de **9:00 a 15:00**, es decir, todo el horario de apertura, de modo que un sábado o un domingo encontrará gente a cualquier hora. Si va entre semana a las 9:00, se librará del gentío del fin de semana y tendrá margen antes de que apriete el calor del mediodía en los patios descubiertos.
+El palacio abre de martes a domingo, de 9:00 a 15:00, y cierra todos los lunes. Según la afluencia habitual, los fines de semana la hora punta abarca de **9:00 a 15:00**, es decir, todo el horario de apertura, de modo que un sábado o un domingo encontrará gente a cualquier hora. Si va entre semana a las 9:00, se librará del gentío del fin de semana y tendrá margen antes de que apriete el calor del mediodía en los patios descubiertos.
 
 Por la mañana suele haber en los pabellones actuaciones de gamelán, teatro de marionetas *wayang* o danza clásica. La programación cambia de un día a otro, así que consúltela en la taquilla al llegar. Tenga en cuenta también que el palacio puede cerrar con poca antelación por ceremonias de la corte, como las procesiones de Garebeg. La mayoría de los visitantes pasan dentro entre 1,5 y 2 horas.
 

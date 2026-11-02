@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: playa-del-carmen-portal-maya
-srcHash: '24d3a9c5f8cc'
+srcHash: 'a9e8a79b0ec9'
 title: 'Portal Maya: guía de viaje de Playa del Carmen (4.7★)'
 description: En el Parque Fundadores, justo donde la Avenida Juárez desemboca en la playa, en el Centro de Playa del Carmen, se alza el Portal Maya, una escultura pública de acceso gratuito abierta las 24 horas. Con 4.7★ (15,417 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y algunos consejos.
 quickAnswer: En el Parque Fundadores, justo donde la Avenida Juárez desemboca en la playa, en el Centro de Playa del Carmen, se alza el Portal Maya, una escultura pública de acceso gratuito abierta las 24 horas. Cualquier día de la semana, entre las 7am y las 8am, encontrará el arco despejado y bañado por la suave luz de la mañana. Conviene evitar los fines de semana de 12pm a 11pm, cuando la plaza registra su mayor afluencia.
@@ -39,7 +39,7 @@ Es mejor no ir en coche. En el Centro cuesta mucho estacionarse y, de todos modo
 
 ## Cómo evitar las multitudes del fin de semana
 
-Pocos rincones del pueblo se fotografían tanto como esta escultura, y cuando hay gente se forma una fila para conseguir la clásica imagen a través del arco. Según las mediciones de afluencia, la plaza está más tranquila de **7am a 8am**, tanto entre semana como en fin de semana. A esa hora la playa, orientada al este, recibe la luz de la mañana y el arco queda prácticamente para usted.
+Pocos rincones del pueblo se fotografían tanto como esta escultura, y cuando hay gente se forma una fila para conseguir la clásica imagen a través del arco. Según la afluencia habitual, la plaza está más tranquila de **7am a 8am**, tanto entre semana como en fin de semana. A esa hora la playa, orientada al este, recibe la luz de la mañana y el arco queda prácticamente para usted.
 
 Los fines de semana conviene evitar la franja de **12pm a 11pm**. La plaza se llena durante casi todo el día y sigue abarrotada hasta mucho después del anochecer, cuando los artistas callejeros y el gentío nocturno de la Quinta Avenida se desbordan hacia ella. Si solo puede ir en fin de semana, madrugue o confórmese con una toma abierta desde la arena.
 

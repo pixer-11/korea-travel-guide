@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: al-barsha-hindu-temple-dubai
-srcHash: '16c28ef7e29e'
+srcHash: 'bf5eaf02a4de'
 title: 'Templo Hindú de Dubái: Guía de Viaje (4,8★)'
 description: 'Este es el complejo de templos hindúes más reciente de Dubái, ubicado en Jebel Ali, abierto todos los días de 6:00 a 20:30, y que recibe un flujo constante de visitantes durante los fines de semana. 4,8★ (6.449 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Este es el complejo de templos hindúes más reciente de Dubái, ubicado en Jebel Ali, abierto todos los días de 6:00 a 20:30, y que recibe un flujo constante de visitantes durante los fines de semana. Para vivir el espacio con calma, en lugar de recorrerlo entre el gentío, conviene ir entre las 18:00 y las 20:00, el horario más tranquilo tanto entre semana como los fines de semana. Lleva calzado fácil de quitar (unos calcetines no vienen mal), vístete de forma modesta y reserva entre 45 y 60 minutos para la visita.
@@ -9,7 +9,7 @@ faq:
   - q: ¿Cuál es el horario de apertura?
     a: El templo abre todos los días de 6:00 a 20:30, sin día de cierre semanal. Los horarios pueden variar ligeramente en torno a las grandes festividades, así que conviene confirmarlos antes de ir.
   - q: ¿Cuál es el momento más tranquilo para visitarlo?
-    a: Entre las 18:00 y las 20:00, tanto entre semana como los fines de semana, según los patrones de afluencia registrados. Los fines de semana de 8:00 a 18:00 son el tramo de mayor concurrencia, así que conviene evitarlo si se busca una visita más calmada.
+    a: Entre las 18:00 y las 20:00, tanto entre semana como los fines de semana, según los patrones de afluencia habituales. Los fines de semana de 8:00 a 18:00 son el tramo de mayor concurrencia, así que conviene evitarlo si se busca una visita más calmada.
   - q: ¿Cómo se llega sin coche?
     a: El templo está en Jebel Ali First, alejado de la red del metro de Dubái, por lo que la mayoría de los visitantes opta por un taxi o una aplicación de transporte privado en lugar del transporte público.
   - q: ¿Hay que pagar entrada?

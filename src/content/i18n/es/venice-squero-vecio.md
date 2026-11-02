@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: venice-squero-vecio
-srcHash: '1d44d834ee5e'
+srcHash: '506ae809df34'
 title: 'Squero Vecio: guía de viaje de Venecia'
 description: En la Calle del Squero, dentro del sestiere veneciano de Castello, se encuentra Squero Vecio, un rincón pequeño y poco visitado.
 quickAnswer: En la Calle del Squero, dentro del sestiere veneciano de Castello, se encuentra Squero Vecio, un rincón pequeño y poco visitado. Su nombre significa «astillero viejo» en veneciano y, como está en plena calle, puede pasarse por delante a cualquier hora. Entre semana, el momento más tranquilo va de las 6pm a las 8pm. Conviene evitar los fines de semana entre las 11am y las 9pm, cuando se registra la mayor afluencia.
@@ -46,7 +46,7 @@ Desde cualquiera de ellos, el último tramo se recorre a pie por estrechas calli
 
 ## Cuándo ir
 
-Como el lugar figura abierto las 24 horas, el horario queda a su elección. Según los datos de afluencia de peatones, la franja más tranquila entre semana va de las **6pm a las 8pm**, un momento idóneo para pasear al atardecer antes de cenar en el barrio.
+Como el lugar figura abierto las 24 horas, el horario queda a su elección. Según la afluencia habitual de peatones, la franja más tranquila entre semana va de las **6pm a las 8pm**, un momento idóneo para pasear al atardecer antes de cenar en el barrio.
 
 Los fines de semana resultan más complicados. La mayor afluencia se concentra de **11am a 9pm**, así que, si quiere tener el callejón para usted solo, evite el mediodía del sábado o del domingo. La franja más tranquila del fin de semana figura como de 8am a 11pm, pero se solapa con el periodo de más movimiento. En la práctica, lo más seguro es acudir a primera hora de la mañana, antes de las 11am.
 
