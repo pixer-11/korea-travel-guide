@@ -1040,8 +1040,13 @@ jobs:
           LATIN=$(node scripts/ko-report.mjs scripts/audit-latin-drops.mjs 2>&1 | node scripts/tg-clip.mjs 6 400 || true)
           MONEY=$(node scripts/ko-report.mjs scripts/audit-money-claims.mjs 2>&1 | node scripts/tg-clip.mjs 6 400 || true)
           RATING=$(node scripts/ko-report.mjs scripts/audit-rating-floor.mjs 2>&1 | node scripts/tg-clip.mjs 6 400 || true)
+          # When only a later check failed, the first one's "이상 없음." used to
+          # head the list: "이상 없음. / 문제 16건" (2026-11-02). Replace it instead.
           for extra in "$HELD" "$TENSE" "$CLOSED" "$SLUG" "$WRITER" "$HERO" "$LATIN" "$MONEY" "$RATING"; do
-            case "$extra" in ''|'이상 없음.') ;; *) MSG=$(printf '%s\n%s' "$MSG" "$extra") ;; esac
+            case "$extra" in
+              ''|'이상 없음.') ;;
+              *) if [ "$MSG" = '이상 없음.' ]; then MSG="$extra"; else MSG=$(printf '%s\n%s' "$MSG" "$extra"); fi ;;
+            esac
           done
           TXT=$(printf '⚠️ 콘텐츠 검증 경고 (일일 자동발행)\n%s' "$MSG" | node scripts/tg-clip.mjs 200 4000)
           curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
