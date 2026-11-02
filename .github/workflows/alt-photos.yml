@@ -40,6 +40,12 @@ jobs:
     runs-on: ubuntu-latest
     if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     steps:
+      # When this job started, for translate-posts' batch wait (as publish.yml):
+      # its translation repair runs translate-posts up to three times, and since
+      # 2026-11-02 retries wait for a batch too, so the wait needs the job's clock.
+      - name: Note the job start
+        run: echo "JOB_T0=$(date +%s)" >> "$GITHUB_ENV"
+
       - uses: actions/checkout@v5
 
       # Reports each source SEPARATELY, not just "at least one". The old test was

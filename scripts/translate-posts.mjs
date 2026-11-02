@@ -38,6 +38,7 @@ import { scriptLeakFlags, scriptGlue, untranslatedQuestion } from './lib/transla
 import { findToolSpill } from './lib/tool-spill.mjs';
 import { namedIds, translatable } from './lib/translate-scope.mjs';
 import { runBatch, REPLACEMENT_CHAR } from './lib/claude-batch.mjs';
+import { Deferred, pool, settleInRounds } from './lib/batch-rounds.mjs';
 import { loadRecords, patchFor, patchPrompt, applyEdits, EDIT_TOOL, docOf, fieldsOf, patchIsCheaper } from './lib/prose-patch.mjs';
 import { unescapeEntities } from './lib/unescape-entities.mjs';
 import { guideTitleRegion, regionNamesFor, unreverseGuideTitle, isAboutCity } from '../src/lib/placeLabel.mjs';
@@ -411,9 +412,12 @@ async function patchedReply(job, msg) {
   }
 }
 
-// `pre` is a reply the batch already fetched for attempt 1. Every retry below
-// calls this again without it, so retries always go direct.
+// `pre` is a reply a batch already fetched. Every retry below calls this again
+// without it; while batching is on, that request waits for the next batch
+// round (lib/batch-rounds) instead of going direct at full price.
+let deferDirect = false;
 async function translateOne(langCode, srcId, data, hash, attempt = 1, pre = null) {
+  if (!pre && deferDirect) throw new Deferred({ lang: langCode, id: srcId, data, hash, attempt });
   const msg = pre || await client.messages.create(translateParams(langCode, data));
   const out = msg.content.find((c) => c.type === 'tool_use')?.input;
   // The faq-only call below already refuses a reply cut at the ceiling; the
@@ -842,7 +846,11 @@ if (!jobs.length) { console.log('Nothing to translate — all up to date.'); pro
 // translated directly as before. TRANSLATE_BATCH=0 turns it off.
 // The wait is 120 min because a one-request probe on 2026-09-27 took 74 min
 // to come back: batches are cheap, not fast.
-const BATCH_MIN = Number(process.env.TRANSLATE_BATCH_MIN || 8);
+// Since 2026-11-02 every size goes as a batch, retries included (lib/batch-rounds
+// has the measurements); a small one waits at most SMALL_WAIT_MIN, so a slow
+// batch delays a repair step by that much and then goes direct as before.
+const BATCH_MIN = Number(process.env.TRANSLATE_BATCH_MIN || 1);
+const SMALL_JOBS = 8, SMALL_WAIT_MIN = 30;
 // The wait is also capped by what is left of the GitHub job, when the job says
 // when it started (JOB_T0, epoch seconds). The publish job had no such cap: on
 // 2026-10-01 it waited the full 120 min for a batch, then 68 min more in the
@@ -853,35 +861,80 @@ const BATCH_MIN = Number(process.env.TRANSLATE_BATCH_MIN || 8);
 // computed this inline; doing it here covers every caller, including
 // repair-flagged-translations, which spawns this script with the same env.
 const JOB_LIMIT_MIN = 360, RESERVE_MIN = 30 + 70;
-const jobLeftMin = process.env.JOB_T0
+// Measured when asked, not once at the top: the retry rounds come later.
+const jobLeftMin = () => process.env.JOB_T0
   ? JOB_LIMIT_MIN - RESERVE_MIN - (Date.now() / 1000 - Number(process.env.JOB_T0)) / 60
   : Infinity;
-const batchWaitMin = Math.min(Number(process.env.TRANSLATE_BATCH_WAIT_MIN || 120), Math.floor(jobLeftMin));
-if (jobLeftMin !== Infinity) console.log(`batch wait budget: ${Math.max(0, batchWaitMin)} min (job time left after reserve: ${Math.floor(jobLeftMin)} min)`);
-const prefetched = process.env.TRANSLATE_BATCH !== '0' && jobs.length >= BATCH_MIN && batchWaitMin >= 30
-  ? await runBatch(client, jobs.map((j) => ({ id: `${j.lang}/${j.id}`, params: j.patch ? patchParams(j.lang, j) : translateParams(j.lang, j.data) })), {
-      waitMin: batchWaitMin,
-    })
+const waitBudget = () => Math.min(Number(process.env.TRANSLATE_BATCH_WAIT_MIN || 120), Math.floor(jobLeftMin()));
+const batchWaitMin = waitBudget();
+if (jobLeftMin() !== Infinity) console.log(`batch wait budget: ${Math.max(0, batchWaitMin)} min (job time left after reserve: ${Math.floor(jobLeftMin())} min)`);
+const batching = process.env.TRANSLATE_BATCH !== '0' && batchWaitMin >= 30 && jobs.length >= BATCH_MIN;
+// A batch that ran out its wait means the API is slow today, and a run that has
+// already waited SMALL_WAIT_MIN in batches has spent its patience: everything
+// after either goes direct, so a slow day costs one wait, not one per round
+// (alt-photos.yml has no JOB_T0 to stop it otherwise; Codex, 11-02).
+let slowBatch = false, batchMs = 0;
+async function timedBatch(items, waitMin) {
+  const t0 = Date.now();
+  const got = await runBatch(client, items, { waitMin });
+  batchMs += Date.now() - t0;
+  if (Date.now() - t0 >= waitMin * 60e3) slowBatch = true;
+  return got;
+}
+const prefetched = batching
+  ? await timedBatch(jobs.map((j) => ({ id: `${j.lang}/${j.id}`, params: j.patch ? patchParams(j.lang, j) : translateParams(j.lang, j.data) })),
+      jobs.length < SMALL_JOBS ? Math.min(batchWaitMin, SMALL_WAIT_MIN) : batchWaitMin)
   : new Map();
+deferDirect = batching && !slowBatch;
 
 // ── run with a small concurrency pool ────────────────────────
-let done = 0, failed = 0, next = 0;
-async function worker() {
-  while (next < jobs.length) {
-    const j = jobs[next++];
-    try {
-      let pre = prefetched.get(`${j.lang}/${j.id}`) || null;
-      if (j.patch) pre = await patchedReply(j, pre);
-      await translateOne(j.lang, j.id, j.data, j.hash, 1, pre);
-      done++;
-      console.log(`  ✅ ${j.lang}/${j.id}  (${done}/${jobs.length})`);
-    } catch (e) {
-      failed++;
-      console.log(`  ⚠️  ${j.lang}/${j.id} — ${String(e.message).slice(0, 120)}`);
-    }
+let done = 0, failed = 0;
+const deferred = [];
+const failLine = (j, e) => console.log(`  ⚠️  ${j.lang}/${j.id} — ${String(e.message).slice(0, 120)}`);
+await pool(jobs, CONCURRENCY, async (j) => {
+  try {
+    let pre = prefetched.get(`${j.lang}/${j.id}`) || null;
+    // Was in the batch and came back with nothing (errored, or a broken letter
+    // runBatch threw away): direct, as before, not a second wait in a round.
+    if (!pre && !j.patch && batching) pre = await client.messages.create(translateParams(j.lang, j.data));
+    if (j.patch) pre = await patchedReply(j, pre);
+    await translateOne(j.lang, j.id, j.data, j.hash, 1, pre);
+    done++;
+    console.log(`  ✅ ${j.lang}/${j.id}  (${done}/${jobs.length})`);
+  } catch (e) {
+    if (e instanceof Deferred) { deferred.push(e.job); return; }
+    failed++;
+    failLine(j, e);
   }
+});
+
+// ── retries and patch fallbacks: one batch per round ──────────
+if (deferred.length) {
+  console.log(`${deferred.length} retr(y/ies) or fallback(s) deferred to a batch round`);
+  const r = await settleInRounds(deferred, {
+    concurrency: CONCURRENCY,
+    batch: async (todo) => {
+      // What is left of this run's SMALL_WAIT_MIN, not a fresh 30 each round
+      // (Codex, 11-02: 29 min of first batch + 30 per round added up).
+      const w = Math.min(waitBudget(), Math.floor(SMALL_WAIT_MIN - batchMs / 60e3));
+      if (slowBatch || w < 5) { deferDirect = false; return new Map(); }
+      // A string id: runBatch skips a falsy one, and index 0 is falsy (the
+      // first deferred job went direct in the fake-API run, 11-02).
+      const got = await timedBatch(todo.map((q, i) => ({ id: `q${i}`, params: translateParams(q.lang, q.data) })), w);
+      if (slowBatch) deferDirect = false;
+      return new Map([...got].map(([k, v]) => [Number(k.slice(1)), v]));
+    },
+    direct: (q) => client.messages.create(translateParams(q.lang, q.data)),
+    run: async (q, reply) => {
+      await translateOne(q.lang, q.id, q.data, q.hash, q.attempt, reply);
+      console.log(`  ✅ ${q.lang}/${q.id}  (attempt ${q.attempt}, batch round)`);
+    },
+    onFail: failLine,
+  });
+  done += r.done;
+  failed += r.failed;
+  console.log(`TRANSLATE_ROUNDS deferred=${deferred.length} rounds=${r.rounds} done=${r.done} failed=${r.failed}`);
 }
-await Promise.all(Array.from({ length: Math.min(CONCURRENCY, jobs.length) }, worker));
 console.log(`\nDone. ${done} translated, ${failed} failed.`);
 // A machine-readable line so the workflow can say HOW MUCH failed. On
 // 2026-08-06 the run reported "글 번역 실패" to Telegram and every one of the
