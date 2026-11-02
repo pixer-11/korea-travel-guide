@@ -103,29 +103,28 @@
     "lima-martin-garrix-lima-2026",
     "vancouver-triples-world-tour-andless-vancouver",
     "chonburi-bangsaen42-chonburi-marathon",
-    "new-york-ocean-prime"
+    "new-york-ocean-prime",
+    "jakarta-bigbang-jakarta-concert-2026"
   ],
-  "lastSentDay": "2026-11-02",
+  "lastSentDay": "2026-11-03",
   "material": {
-    "day": "2026-11-02",
-    "slug": "new-york-ocean-prime",
-    "title": "Ocean Prime: Where to Eat in New York (4.6★)",
+    "day": "2026-11-03",
+    "slug": "jakarta-bigbang-jakarta-concert-2026",
+    "title": "BIGBANG Jakarta Concert 2026: Dates, Tickets & Venue (Jakarta)",
     "urls": [
-      "https://wanderatlasguides.com/og/social/2026-11-02-new-york-ocean-prime-1.jpg",
-      "https://wanderatlasguides.com/og/social/2026-11-02-new-york-ocean-prime-2.jpg",
-      "https://wanderatlasguides.com/og/social/2026-11-02-new-york-ocean-prime-3.jpg",
-      "https://wanderatlasguides.com/og/social/2026-11-02-new-york-ocean-prime-4.jpg"
+      "https://wanderatlasguides.com/og/social/2026-11-03-jakarta-bigbang-jakarta-concert-2026-1.jpg",
+      "https://wanderatlasguides.com/og/social/2026-11-03-jakarta-bigbang-jakarta-concert-2026-2.jpg"
     ],
-    "igCaption": "A Midtown steakhouse with black-and-gold glamour, chilled seafood towers, and dry-aged steaks — just steps from Radio City and MoMA. Go right at lunch opening or weekend opening for the calm version of this 4.6★ room.\n\n#OceanPrime #NewYork #UnitedStates #foodie #travel #wanderatlas #NYCfood #Midtown #SteakhouseNYC #NYCrestaurants\n📷 Photo: Lauren Topor from Phoenix / Wikimedia Commons (CC BY 2.0) (edited)\n📷 Photo: Foursquare user content (Ocean Prime) (edited)",
-    "thOption": "Would you skip the table and just eat at the bar? Regulars at Ocean Prime say the lounge gets you the full menu, less formality, and often faster service.",
-    "link": "https://wanderatlasguides.com/posts/new-york-ocean-prime/"
+    "igCaption": "BIGBANG hits Sentul's SICC on December 12, 2026, right in their 20th anniversary year — and Indonesian VIPs have been waiting for this one. Crown lightsticks, yellow everywhere, and loud Korean fanchants guaranteed.\n\n#Jakarta #Indonesia #events #travel #wanderatlas #BIGBANG #KpopConcert #Sentul #VisitIndonesia #TravelGuide\n📷 Photo: KOREA.NET - Official page of the Republic of Korea / Wikimedia Commons (CC BY-SA 2.0) (edited)",
+    "thOption": "Getting home after a BIGBANG show at SICC means thousands of fans requesting Grab/Gojek at once. Would you brave that scrum or walk toward the main road first like the regulars do?",
+    "link": "https://wanderatlasguides.com/posts/jakarta-bigbang-jakarta-concert-2026/"
   },
   "social": {
-    "thDay": "2026-11-02",
-    "thId": "18096630995678934",
+    "thDay": "2026-11-03",
+    "thId": "17993783052065667",
     "igDay": "2026-11-02",
     "igId": "18122011318950999",
-    "thSlug": "new-york-ocean-prime",
+    "thSlug": "jakarta-bigbang-jakarta-concert-2026",
     "igSlug": "new-york-ocean-prime",
     "history": [
       {
@@ -449,7 +448,17 @@
       {
         "day": "2026-10-27",
         "slug": "taipei-cks-shilin-residence-chrysanthemum-festival",
-        "thId": "18449738785132202"
+        "thId": "18449738785132202",
+        "insights": {
+          "at": "2026-11-03",
+          "th": {
+            "views": 11,
+            "likes": 0,
+            "replies": 0,
+            "reposts": 0,
+            "quotes": 0
+          }
+        }
       },
       {
         "day": "2026-10-28",
@@ -483,6 +492,11 @@
         "slug": "new-york-ocean-prime",
         "thId": "18096630995678934",
         "igId": "18122011318950999"
+      },
+      {
+        "day": "2026-11-03",
+        "slug": "jakarta-bigbang-jakarta-concert-2026",
+        "thId": "17993783052065667"
       }
     ]
   }
