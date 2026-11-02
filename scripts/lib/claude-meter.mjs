@@ -14,14 +14,19 @@
 //  - It never changes what the caller gets. It counts when the caller takes the
 //    result (then / withResponse) instead of reading the response itself, so
 //    `.asResponse()` still gets an unread body (an eager read broke it).
-//  - It writes only when CLAUDE_COST_LEDGER names a file (read at exit), so a
-//    developer machine or a test never touches the real ledger by accident.
+ //  - It writes the shared ledger only when CLAUDE_COST_LEDGER names a file (read
+//    at exit), so a developer machine or a test never touches it by accident.
+//  - A hand run on a developer machine is booked to a local ledger outside the
+//    repo instead (localLedger). Without it, hand runs spent unseen: on
+//    2026-11-02 a local re-translation of 62 posts drained the credit balance so
+//    fast the auto-recharge doubled to $22, and no ledger had a line of it.
 //  - It prints nothing: workflows turn some scripts' output into Telegram text.
 //  - Each call is booked to the KST day it happened, not the day the process
 //    ended, so a run that crosses midnight splits correctly.
 
-import { appendFileSync } from 'node:fs';
-import { basename } from 'node:path';
+import { appendFileSync, mkdirSync } from 'node:fs';
+import { homedir } from 'node:os';
+import { basename, dirname, join } from 'node:path';
 import { claudeUsd, kstDay } from './claude-cost.mjs';
 
 const tally = new Map(); // `${day}\u0000${model}` -> counts
@@ -59,11 +64,22 @@ export function meterTally() {
   return out;
 }
 
+/** Where a hand run's spend goes when no ledger is named: a file outside the repo
+ *  (CLAUDE_COST_LOCAL_LEDGER, default ~/.wander-atlas/claude-cost-local.jsonl).
+ *  Null in CI (a workflow that forgot its ledger must not fill a runner's home),
+ *  under node --test, against a fake API on this machine, or when set to "0". */
+export function localLedger(env = process.env) {
+  if (env.GITHUB_ACTIONS || env.NODE_TEST_CONTEXT || env.CLAUDE_COST_LOCAL_LEDGER === '0') return null;
+  if (/^https?:\/\/(localhost|127\.|\[::1\])/i.test(env.ANTHROPIC_BASE_URL || '')) return null;
+  return env.CLAUDE_COST_LOCAL_LEDGER || join(homedir(), '.wander-atlas', 'claude-cost-local.jsonl');
+}
+
 /** Append this process's lines (one per KST day) to the ledger. True when written. */
 export function flushMeter() {
   try {
-    const path = process.env.CLAUDE_COST_LEDGER;
+    const path = process.env.CLAUDE_COST_LEDGER || localLedger();
     if (!path || !tally.size) return false;
+    mkdirSync(dirname(path), { recursive: true });
     const byDay = new Map();
     for (const [key, t] of tally) {
       const [day, model] = key.split('\u0000');
@@ -82,6 +98,8 @@ export function flushMeter() {
         attempt: process.env.GITHUB_RUN_ATTEMPT || null,
         workflow: process.env.GITHUB_WORKFLOW || null,
         script: basename(process.argv[1] || '?'),
+        // Which checkout ran it: hand runs come from worktrees and scratch copies.
+        ...(process.env.CLAUDE_COST_LEDGER ? {} : { cwd: process.cwd() }),
         models,
       }) + '\n';
     }

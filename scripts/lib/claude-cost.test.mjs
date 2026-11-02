@@ -86,6 +86,32 @@ test('the meter counts SDK calls when the caller takes the result, ignores non-C
   delete process.env.CLAUDE_COST_LEDGER;
 });
 
+test('a hand run with no ledger named is booked to the local ledger, never in CI, tests or a fake API', async () => {
+  const { localLedger, meterRecord, flushMeter } = await import('./claude-meter.mjs');
+  const home = join(mkdtempSync(join(tmpdir(), 'meter-local-')), 'sub', 'local.jsonl');
+  assert.equal(localLedger({ CLAUDE_COST_LOCAL_LEDGER: home }), home);
+  assert.match(localLedger({}), /claude-cost-local\.jsonl$/);
+  assert.equal(localLedger({ GITHUB_ACTIONS: 'true' }), null);
+  assert.equal(localLedger({ NODE_TEST_CONTEXT: 'child-v8' }), null);
+  assert.equal(localLedger({ CLAUDE_COST_LOCAL_LEDGER: '0' }), null);
+  assert.equal(localLedger({ ANTHROPIC_BASE_URL: 'http://127.0.0.1:8787' }), null);
+  assert.ok(localLedger({ ANTHROPIC_BASE_URL: 'https://api.anthropic.com' }));
+
+  const saved = { ...process.env };
+  try {
+    for (const k of ['CLAUDE_COST_LEDGER', 'NODE_TEST_CONTEXT', 'GITHUB_ACTIONS', 'ANTHROPIC_BASE_URL']) delete process.env[k];
+    process.env.CLAUDE_COST_LOCAL_LEDGER = home;
+    meterRecord({ type: 'message', model: 'claude-opus-5-5', usage: { input_tokens: 1e6, output_tokens: 0 } });
+    assert.equal(flushMeter(), true, 'the missing folder is made');
+    const row = JSON.parse(readFileSync(home, 'utf8').trim());
+    assert.equal(row.cwd, process.cwd());
+    assert.ok(near(row.models['claude-opus-5-5'].usd, 4));
+  } finally {
+    for (const k of Object.keys(process.env)) if (!(k in saved)) delete process.env[k];
+    Object.assign(process.env, saved);
+  }
+});
+
 test('a call is booked to the KST day it happened, not the day the process ended', async () => {
   const { meterRecord, flushMeter } = await import('./claude-meter.mjs');
   const msg = { type: 'message', model: 'claude-opus-5-5', usage: { input_tokens: 1e6, output_tokens: 0 } };
