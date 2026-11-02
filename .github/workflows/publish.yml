@@ -341,6 +341,38 @@ jobs:
           done < /tmp/lang-audit.txt
           echo "LANG_GATE_SUMMARY removed=$DEL"
 
+      # Both gates above DELETE a translation and leave the refill to "the next
+      # run" — and until then that language's page is a 404, not the English
+      # one (ko/santa-rosa-yeng-constantino… on 2026-11-02, deleted by the
+      # syllable repair after the translation step had already run). Refill
+      # now; whatever still will not come back gets its last published copy
+      # back, and the syllable repair only substitutes this time. A day with
+      # nothing missing makes no API call.
+      - name: Refill translations the gates removed
+        continue-on-error: true
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          GONE=$(node -e "
+            const fs = require('fs'); const d = 'src/content/posts/'; const out = [];
+            for (const f of fs.readdirSync(d)) {
+              if (!f.endsWith('.md') || /^draft:\s*true/m.test(fs.readFileSync(d + f, 'utf8').split(/\r?\n---/)[0])) continue;
+              for (const l of ['ko', 'ja', 'es', 'zh']) if (!fs.existsSync('src/content/i18n/' + l + '/' + f)) out.push(l + '/' + f.slice(0, -3));
+            }
+            console.log(out.join(','));")
+          if [ -z "$GONE" ]; then echo "REFILL_SUMMARY missing=0"; exit 0; fi
+          echo "refilling: $GONE"
+          node scripts/translate-posts.mjs --only="$GONE" 2>&1 | tail -8 || true
+          # Only the keys listed above: a translation deleted with its retired
+          # English post is meant to stay gone.
+          for k in $(echo "$GONE" | tr ',' ' '); do
+            f="src/content/i18n/$k.md"
+            [ -f "$f" ] && continue
+            git cat-file -e "HEAD:$f" 2>/dev/null && git checkout HEAD -- "$f" && echo "  ↩ $f — refill failed; last published copy put back"
+          done
+          node scripts/fix-broken-syllables.mjs --keep
+          echo "REFILL_SUMMARY missing=$(echo "$GONE" | tr ',' '\n' | wc -l)"
+
       - name: Translation naturalness gate
         continue-on-error: true
         env:

@@ -31,6 +31,10 @@ import { koBrokenSyllables } from './lib/ko-syllables.mjs';
 // Every shatter observed so far. 쯤 is the model's favourite victim.
 const FIX = { '쯒': '쯤', '쯍': '쯤', '쯈': '쯤', '쯀': '쯤', '쯌': '쯤', '쯓': '쯤', '쯡': '쯤', '쯃': '쯤', '쯴': '쯤', '쯑': '쯤', '쯘': '쯤', '쯐': '쯤', '쯽': '쯤', '퍁': '퍼', '딖': '딪', '쪤': '쪽' };
 const DRY = process.env.DRY === '1';
+// --keep: substitute only, never delete. The publish refill step runs this
+// after re-translating what was deleted; a page with one odd syllable beats a
+// page that is not there (ko/santa-rosa-yeng… served a 404 on 2026-11-02).
+const KEEP = process.argv.includes('--keep');
 
 let fixedFiles = 0, deleted = 0, substitutions = 0;
 for (const f of readdirSync(KO)) {
@@ -42,7 +46,8 @@ for (const f of readdirSync(KO)) {
     if (s.includes(bad)) { substitutions += s.split(bad).length - 1; s = s.split(bad).join(good); changed = true; }
   }
   const unknown = koBrokenSyllables(s).length > 0;
-  if (unknown) {
+  if (unknown && KEEP) console.log(`  ⚠ ${f}: unknown non-wansung syllable — kept (--keep)`);
+  if (unknown && !KEEP) {
     // Not in the map — safest repair is a fresh translation, not a guess.
     console.log(`  ↻ ${f}: unknown non-wansung syllable — deleting for retranslation`);
     if (!DRY) rmSync(p);
