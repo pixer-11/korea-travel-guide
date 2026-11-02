@@ -7432,6 +7432,12 @@
   "reason": "patrol re-check: Riomaggiore harbor view, representative Cinque Terre village scene",
   "at": "2026-08-16T19:56:02.794Z"
  },
+ "cinque-terre-punta-mesco\u0001https://upload.wikimedia.org/wikipedia/commons/4/46/Fortezza_e_Punta_Mesco_-_Convento_Frati_Cappuccini_Monterosso_al_Mare_-_Cinque_Terre.jpg": {
+  "slug": "cinque-terre-punta-mesco",
+  "verdict": "MATCH",
+  "reason": "publish gate: Coastal viewpoint over Cinque Terre village matches locale",
+  "at": "2026-11-02T08:01:28.944Z"
+ },
  "cinque-terre-sentiero-monterosso-vernazza\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Vernazza_dal_Sentiero_Azzurro.jpg/3840px-Vernazza_dal_Sentiero_Azzurro.jpg": {
   "slug": "cinque-terre-sentiero-monterosso-vernazza",
   "verdict": "MATCH",
@@ -12509,6 +12515,12 @@
   "reasonKo": "신주 동물원 입구 건물, 표지판 명확함",
   "at": "2026-08-12T14:03:10.110Z"
  },
+ "hsinchu-hukou-old-street\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/%E6%B9%96%E5%8F%A3%E8%80%81%E8%A1%97_Hukou_Old_Street_-_panoramio_%281%29.jpg/3840px-%E6%B9%96%E5%8F%A3%E8%80%81%E8%A1%97_Hukou_Old_Street_-_panoramio_%281%29.jpg": {
+  "slug": "hsinchu-hukou-old-street",
+  "verdict": "MATCH",
+  "reason": "publish gate: Authentic street view of brick buildings matching old street",
+  "at": "2026-11-02T08:01:29.162Z"
+ },
  "hsinchu-leofoo-village-theme-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/LeofooVillage_MainEntrance_Back.jpg/1920px-LeofooVillage_MainEntrance_Back.jpg": {
   "slug": "hsinchu-leofoo-village-theme-park",
   "verdict": "MATCH",
@@ -15273,6 +15285,12 @@
   "reason": "publish gate: Exterior with clear signage showing actual venue entrance",
   "at": "2026-08-24T08:15:00.549Z"
  },
+ "kanchanaburi-river-kwai-bridge\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Bridge_on_the_River_Kwai_-_tourist_plaza.JPG/3840px-Bridge_on_the_River_Kwai_-_tourist_plaza.JPG": {
+  "slug": "kanchanaburi-river-kwai-bridge",
+  "verdict": "MATCH",
+  "reason": "publish gate: Iconic steel bridge over river, matches River Kwai Bridge",
+  "at": "2026-11-02T08:01:29.133Z"
+ },
  "kanchanaburi-sai-yok-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/1/10/River_Khwae_View_-_Sai_Yok_National_Park.jpg": {
   "slug": "kanchanaburi-sai-yok-national-park",
   "verdict": "MATCH",
@@ -15716,6 +15734,12 @@
   "reasonKo": "포트코친의 상징적인 중국식 어망",
   "at": "2026-08-13T14:04:21.989Z"
  },
+ "kochi-hill-palace\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Hill_Palace_by_GV-1.JPG/1920px-Hill_Palace_by_GV-1.JPG": {
+  "slug": "kochi-hill-palace",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Hill Palace exterior with gardens, representative heritage view",
+  "at": "2026-11-02T08:01:29.036Z"
+ },
  "kochi-kerala-folklore-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/2025_-_Kerala_Folklore_Museum_-_08.jpg/3840px-2025_-_Kerala_Folklore_Museum_-_08.jpg": {
   "slug": "kochi-kerala-folklore-museum",
   "verdict": "MATCH",
@@ -15793,6 +15817,12 @@
   "reason": "Iconic Phi Phi Lee turquoise waters and limestone cliffs",
   "reasonKo": "피피레 섬의 상징적인 에메랄드빛 바다와 석회암 절벽",
   "at": "2026-08-18T13:27:07.745Z"
+ },
+ "koh-phi-phi-viking-cave\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Viking_Cave.jpg/3840px-Viking_Cave.jpg": {
+  "slug": "koh-phi-phi-viking-cave",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows cave entrance with boat, matches Viking Cave locale",
+  "at": "2026-11-02T08:01:29.348Z"
  },
  "koh-rong-long-beach\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Long-beach-kog-rong-cambodia.jpg/3840px-Long-beach-kog-rong-cambodia.jpg": {
   "slug": "koh-rong-long-beach",
@@ -20834,6 +20864,12 @@
   "reason": "publish gate: Shows Paseo Santa Lucía canal, fountains, and skyline landmark",
   "at": "2026-10-04T13:27:43.709Z"
  },
+ "montreal-bonsecours-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/March%C3%A9_Bonsecours_in_Old_Montreal.jpg/1920px-March%C3%A9_Bonsecours_in_Old_Montreal.jpg": {
+  "slug": "montreal-bonsecours-market",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior view of Bonsecours Market with dome and facade",
+  "at": "2026-11-02T08:01:28.803Z"
+ },
  "montreal-jean-talon-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/March%C3%A9_Jean-Talon_05-11-2024.jpg/1920px-March%C3%A9_Jean-Talon_05-11-2024.jpg": {
   "slug": "montreal-jean-talon-market",
   "verdict": "MATCH",
@@ -20851,6 +20887,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: View of Montreal skyline from the belvedere overlook",
   "at": "2026-10-22T14:55:14.055Z"
+ },
+ "montreal-le-vieux-montreal\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Old_Port_in_Old_Montreal._-_Le_Vieux-Port_dans_le_Vieux-Montr%C3%A9al_-_panoramio.jpg/3840px-Old_Port_in_Old_Montreal._-_Le_Vieux-Port_dans_le_Vieux-Montr%C3%A9al_-_panoramio.jpg": {
+  "slug": "montreal-le-vieux-montreal",
+  "verdict": "MATCH",
+  "reason": "publish gate: Aerial view of Old Montreal cityscape and river",
+  "at": "2026-11-02T08:01:28.901Z"
  },
  "montreal-montreal-museum-of-fine-arts\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Museum_of_Fine_Arts%2C_main_entrance%2C_Montreal.jpg/1920px-Museum_of_Fine_Arts%2C_main_entrance%2C_Montreal.jpg": {
   "slug": "montreal-montreal-museum-of-fine-arts",
@@ -25849,6 +25891,12 @@
   "reason": "publish gate: River confluence sunset view matches Tres Fronteras viewpoint",
   "at": "2026-10-26T15:35:39.484Z"
  },
+ "puerto-iguazu-museo-imagenes-de-la-selva\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Museo_Im%C3%A1genes_de_la_Selva_de_Rodolfo_Allou_%C2%B7_Puerto_Iguaz%C3%BA%2C_Provincia_de_Misiones_%28Argentina%29.jpg/3840px-Museo_Im%C3%A1genes_de_la_Selva_de_Rodolfo_Allou_%C2%B7_Puerto_Iguaz%C3%BA%2C_Provincia_de_Misiones_%28Argentina%29.jpg": {
+  "slug": "puerto-iguazu-museo-imagenes-de-la-selva",
+  "verdict": "MATCH",
+  "reason": "publish gate: Museum interior with wood sculptures, matches venue type",
+  "at": "2026-11-02T08:01:29.424Z"
+ },
  "puerto-iguazu-plaza-san-martin\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Obelisco_en_Plaza_San_Mart%C3%ADn_en_Puerto_Iguaz%C3%BA_%28Provincia_de_Misiones%2C_Argentina%29.jpg/3840px-Obelisco_en_Plaza_San_Mart%C3%ADn_en_Puerto_Iguaz%C3%BA_%28Provincia_de_Misiones%2C_Argentina%29.jpg": {
   "slug": "puerto-iguazu-plaza-san-martin",
   "verdict": "MATCH",
@@ -30685,6 +30733,12 @@
   "reason": "publish gate: Iconic large Buddha statue at Sukhothai temple ruins",
   "at": "2026-08-24T08:22:28.240Z"
  },
+ "sukhothai-wat-mahathat\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Wat_Mahathat%2C_Sukhothai_%28I%29.jpg/3840px-Wat_Mahathat%2C_Sukhothai_%28I%29.jpg": {
+  "slug": "sukhothai-wat-mahathat",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Sukhothai temple ruins with reflection, representative view",
+  "at": "2026-11-02T08:01:29.472Z"
+ },
  "sukhothai-wat-si-chum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Sukhothai_-_Wat_Si_Chum_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%8A%E0%B8%B8%E0%B8%A1_%E0%B8%AA%E0%B8%B8%E0%B9%82%E0%B8%82%E0%B8%97%E0%B8%B1%E0%B8%A2_%282025%29_-_img_06.jpg/3840px-Sukhothai_-_Wat_Si_Chum_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%8A%E0%B8%B8%E0%B8%A1_%E0%B8%AA%E0%B8%B8%E0%B9%82%E0%B8%82%E0%B8%97%E0%B8%B1%E0%B8%A2_%282025%29_-_img_06.jpg": {
   "slug": "sukhothai-wat-si-chum",
   "verdict": "MATCH",
@@ -34938,6 +34992,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Clear exterior view of the Fairmont Empress hotel",
   "at": "2026-10-23T13:19:35.711Z"
+ },
+ "victoria-fan-tan-alley\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Fan_Tan_Alley%2C_Victoria%2C_British_Columbia%2C_Canada_09.jpg/3840px-Fan_Tan_Alley%2C_Victoria%2C_British_Columbia%2C_Canada_09.jpg": {
+  "slug": "victoria-fan-tan-alley",
+  "verdict": "MATCH",
+  "reason": "publish gate: Narrow brick alley with red lanterns matches Fan Tan Alley",
+  "at": "2026-11-02T08:01:29.500Z"
  },
  "victoria-hatley-castle\u0001https://upload.wikimedia.org/wikipedia/commons/9/9d/Hatley_Castle.jpg": {
   "slug": "victoria-hatley-castle",

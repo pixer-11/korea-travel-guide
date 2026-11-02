@@ -30,31 +30,31 @@
    "hits": 5
   },
   "museum": {
-   "attempts": 181,
-   "hits": 98
+   "attempts": 182,
+   "hits": 99
   },
   "noodles": {
    "attempts": 73,
    "hits": 3
   },
   "old quarter": {
-   "attempts": 146,
-   "hits": 60
+   "attempts": 162,
+   "hits": 68
   },
   "local market": {
-   "attempts": 111,
-   "hits": 40
+   "attempts": 114,
+   "hits": 41
   },
   "bookshop": {
    "attempts": 48,
    "hits": 6
   },
   "seafood": {
-   "attempts": 92,
+   "attempts": 93,
    "hits": 4
   },
   "hidden gem": {
-   "attempts": 194,
+   "attempts": 195,
    "hits": 104
   },
   "breakfast": {
@@ -94,7 +94,7 @@
    "hits": 0
   },
   "design shop": {
-   "attempts": 52,
+   "attempts": 53,
    "hits": 0
   },
   "Sisowath Quay Riverside": {
@@ -1222,5 +1222,5 @@
    "hits": 1
   }
  },
- "updated": "2026-11-01T14:30:21.154Z"
+ "updated": "2026-11-02T08:01:29.541Z"
 }

@@ -3,60 +3,60 @@ lang: es
 slug: hong-kong-hong-kong-sixes
 srcHash: '4d9f44c0c6da'
 title: 'Hong Kong Sixes: fechas, entradas y sede (Hong Kong)'
-description: El Hong Kong Sixes 2026 se celebra del 30 de octubre al 1 de noviembre de 2026 en el Mission Road Ground, en el barrio de Mong Kok (Hong Kong).
-quickAnswer: El Hong Kong Sixes 2026 se celebra del 30 de octubre al 1 de noviembre de 2026 en el Mission Road Ground, en el barrio de Mong Kok (Hong Kong). En esta 22.ª edición, 12 selecciones nacionales disputan primero una fase de todos contra todos y después las eliminatorias. El torneo lo organiza Cricket Hong Kong, China, cuyo sitio oficial publica el calendario de partidos y los enlaces para comprar entradas.
+description: Las fechas anunciadas de Hong Kong Sixes 2026 eran del 30 de octubre al 1 de noviembre de 2026, en el Mission Road Ground de Mong Kok (Hong Kong).
+quickAnswer: Las fechas anunciadas de Hong Kong Sixes 2026 eran del 30 de octubre al 1 de noviembre de 2026, en el Mission Road Ground de Mong Kok (Hong Kong). Era la 22.ª edición del torneo, con un formato que contemplaba una liguilla entre 12 selecciones nacionales seguida de rondas eliminatorias. La organización corría a cargo de Cricket Hong Kong, China, y en su web oficial figuraban el calendario de partidos y los enlaces de venta de entradas.
 faq:
-  - q: ¿Cuándo se celebra el Hong Kong Sixes 2026?
-    a: 'La 22.ª edición dura tres días: del 30 de octubre al 1 de noviembre de 2026.'
-  - q: ¿Dónde se disputa el Hong Kong Sixes?
-    a: En el Mission Road Ground, situado en Mong Kok (Kowloon). Hasta el campo se llega en unos 10 minutos a pie tanto desde la estación de Prince Edward (líneas Tsuen Wan y Kwun Tong) como desde la de Mong Kok East (línea East Rail).
-  - q: ¿Cuál es el formato del torneo?
-    a: Doce selecciones nacionales se enfrentan en partidos de seis jugadores por equipo, con entradas de bateo muy cortas. Tras una primera fase de todos contra todos, el campeón se decide en las rondas eliminatorias de la última jornada.
-  - q: ¿Dónde se pueden consultar las entradas y el calendario de partidos?
-    a: El organizador del torneo es Cricket Hong Kong, China. En su sitio oficial figuran el calendario, las categorías de entradas y las normas de acceso.
+  - q: ¿Cuándo era Hong Kong Sixes 2026?
+    a: La 22.ª edición abarcaba tres días, del 30 de octubre al 1 de noviembre de 2026.
+  - q: ¿Dónde se disputaba Hong Kong Sixes?
+    a: La sede era Mission Road Ground, en Mong Kok (Kowloon). El campo está a unos 10 minutos a pie tanto de la estación de Prince Edward (líneas Tsuen Wan y Kwun Tong) como de la de Mong Kok East (línea East Rail).
+  - q: ¿Cómo funcionaba el formato del torneo?
+    a: Doce selecciones nacionales se enfrentaban en partidos de seis contra seis con entradas muy cortas. Primero se jugaba una liguilla, y las rondas eliminatorias del último día decidían al campeón.
+  - q: ¿Dónde se publicaban las entradas y el calendario de partidos?
+    a: El torneo lo organizaba Cricket Hong Kong, China, en cuya web oficial figuraban el calendario, las categorías de entradas y las normas de acceso.
   - q: ¿Qué hay cerca del campo?
-    a: A poca distancia a pie se encuentran Flower Market Road, el jardín de las aves de Yuen Po Street (Yuen Po Street Bird Garden) y el mercado de peces de colores (Goldfish Market) de Tung Choi Street North. Algo más al sur queda el Ladies' Market.
+    a: A poca distancia a pie se encuentran Flower Market Road, el Jardín de Aves de Yuen Po Street y el Mercado de los Peces de Colores, en Tung Choi Street North. El Mercado de las Mujeres (Ladies' Market) queda algo más al sur.
 ---
 
 ## Seis por equipo, tres días y un campo pequeño
 
-Aquí el críquet se reduce a su versión más rápida. En el Hong Kong Sixes cada equipo alinea a seis jugadores y cada entrada de bateo consta de apenas unos pocos *overs*, de modo que un partido completo dura más o menos lo mismo que una pausa para comer. Lo esencial es golpear fuerte y lejos, y los equipos confeccionan sus plantillas pensando precisamente en eso.
+Aquí el críquet se reducía a su versión más rápida. En Hong Kong Sixes, cada equipo alineaba a seis jugadores y cada entrada se limitaba a unas pocas series de lanzamientos, de modo que un partido completo duraba más o menos lo que una pausa para comer. Lo esencial era batear a lo grande, y los equipos confeccionaban sus plantillas con esa idea en mente.
 
-El torneo de 2026 es la 22.ª edición y se juega del **30 de octubre al 1 de noviembre de 2026**. Las doce selecciones nacionales participantes disputan primero una fase de todos contra todos, a la que siguen las rondas eliminatorias.
+El torneo de 2026 correspondía a la 22.ª edición. Las fechas anunciadas eran del **30 de octubre al 1 de noviembre de 2026**. Primero, doce selecciones nacionales se enfrentaban en una liguilla, y después llegaban las rondas eliminatorias.
 
-Nacido en 1992, el certamen llegó a ser una de las citas de formato corto más conocidas del calendario internacional. Tras la edición de 2017 dejó de celebrarse, y en 2024 regresó con una nueva sede en Kowloon.
+Nacido en 1992, el evento llegó a convertirse en una de las citas de formato corto más conocidas del calendario internacional. Tras la edición de 2017 dejó de disputarse, y en 2024 regresó con una nueva casa en Kowloon.
 
-## El Mission Road Ground, en Mong Kok
+## Mission Road Ground, en Mong Kok
 
-El Mission Road Ground es un campo de dimensiones reducidas, encajado entre las abarrotadas calles del norte de Mong Kok. Justo detrás del límite del terreno se alzan los rascacielos residenciales. Las gradas son provisionales y están muy cerca de la cuerda, así que no es raro que los golpes de seis carreras acaben entre el público.
+Entre las abarrotadas calles del norte de Mong Kok se encuentra Mission Road Ground, un campo de dimensiones reducidas. Justo detrás del límite del terreno de juego se alzan altísimos bloques de viviendas. Las gradas eran provisionales y quedaban pegadas a la cuerda, por lo que muchos golpes de seis carreras acababan cayendo entre el público.
 
-Cómo llegar en metro (MTR):
+Cómo llegar en MTR:
 
-- **Estación de Prince Edward** (líneas Tsuen Wan y Kwun Tong): unos 10 minutos a pie en dirección este.
-- **Estación de Mong Kok East** (línea East Rail): unos 10 minutos a pie en dirección norte.
-- Los taxis pueden dejar a los pasajeros en Prince Edward Road West, aunque las tardes de fin de semana el tráfico allí es lento.
+- **Estación de Prince Edward** (líneas Tsuen Wan y Kwun Tong): a unos 10 minutos a pie en dirección este.
+- **Estación de Mong Kok East** (línea East Rail): a unos 10 minutos a pie en dirección norte.
+- Los taxis podían dejar a los pasajeros en Prince Edward Road West, donde el tráfico avanzaba despacio las tardes de fin de semana.
 
-Finales de octubre y principios de noviembre corresponden a la estación seca de Hong Kong. Durante el día suele hacer calor, con menos humedad que en verano, y por la noche refresca.
+Finales de octubre y principios de noviembre coinciden con la estación seca de Hong Kong. Los días suelen ser cálidos y menos húmedos que en verano, y por la noche refresca.
 
 ## Cómo vivir el Sixes como un habitual
 
-Los partidos se suceden sin interrupción, lo que facilita mucho entrar y salir.
+Como los partidos se sucedían uno tras otro, entrar y salir del recinto resultaba sencillo.
 
-- **Pague con la tarjeta Octopus.** Esta misma tarjeta prepago sirve para el metro, las tiendas de conveniencia y la mayoría de los puestos de comida que rodean el campo. Las tarjetas bancarias también se aceptan en casi todas partes, pero con la Octopus resulta más cómodo ir a por algo de comer entre partido y partido.
-- **Elija bien los días.** Las jornadas de la fase de todos contra todos ofrecen el mayor número de partidos con una sola entrada. Las eliminatorias se juegan el último día, que es cuando las gradas se llenan más.
-- **Cambie de sitio entre partidos.** Los asiduos suelen aprovechar la pausa entre un encuentro y otro para buscar otro asiento. Gracias al formato corto, a lo largo del día hay varias ocasiones de probar una perspectiva distinta.
-- **Anime a todos.** Buena parte del público lo forman peñas de expatriados y aficionados neutrales, y los grandes golpes se celebran sin importar qué equipo los firme.
-- **No pierda de vista la pelota.** Los espectadores sentados junto al límite del campo siguen el juego con atención. Atrapar una pelota en la grada forma parte de la diversión, igual que quedarse a punto de hacerlo.
+- **Pago con Octopus.** Con esta misma tarjeta recargable se pagaban el MTR, las tiendas de conveniencia y la mayoría de los puestos de comida de los alrededores. Las tarjetas bancarias también se aceptaban en muchos sitios, pero con la Octopus resultaba más fácil escaparse a por algo de picar entre partido y partido.
+- **Elección de jornadas.** Los días de liguilla eran los que concentraban más partidos por entrada. El último día estaba reservado a las eliminatorias, y era entonces cuando más se llenaban las gradas.
+- **Cambios de sitio entre partidos.** Los asiduos solían cambiar de asiento en el descanso entre un encuentro y otro. Gracias al formato corto, a lo largo del día surgían varias ocasiones de probar una perspectiva distinta.
+- **Aplausos para todos.** Buena parte del público lo formaban peñas de aficionados expatriados y espectadores neutrales. Los grandes golpes se celebraban sin importar qué equipo los firmara.
+- **Atención a la pelota.** Quienes se sentaban cerca del límite no perdían de vista el juego. Las atrapadas en la grada formaban parte de la diversión, igual que las que se quedaban en casi.
 
-El organismo rector que organiza el torneo es Cricket Hong Kong, China. En su sitio oficial se publican el calendario de partidos, las categorías de entradas y las normas de acceso, así como los precios, que no se recogen en esta guía.
+El organismo rector encargado de organizar el torneo era Cricket Hong Kong, China. En su web oficial figuraban el calendario de partidos, las categorías de entradas y las normas de acceso. Los precios aparecían allí, no en esta guía.
 
-## Alrededores del campo
+## Alrededor del campo
 
-Mission Road se encuentra en uno de los rincones de Kowloon más agradables para recorrer a pie. Muchos aficionados completan la jornada de partidos con alguna de estas visitas cercanas:
+Mission Road está en una de las zonas de Kowloon más agradables para recorrer a pie. Muchos aficionados completaban la jornada de partido con alguna de estas paradas cercanas:
 
-- **Flower Market Road:** una calle de floristerías y tiendas de plantas, a pocos minutos andando.
-- **Jardín de las aves de Yuen Po Street (Yuen Po Street Bird Garden):** un jardín tradicional al que los vecinos de más edad acuden con sus pájaros cantores enjaulados. Está al final de Flower Market Road.
-- **Mercado de peces de colores (Goldfish Market), en Tung Choi Street North:** tiendas con hileras de bolsas llenas de peces colgadas a la vista. Se llega con un corto paseo hacia el sur.
-- **Ladies' Market y Sai Yeung Choi Street:** puestos callejeros y letreros de neón al sur de Argyle Street. Es la parada habitual para cenar después del último partido.
+- **Flower Market Road:** una calle repleta de floristerías y tiendas de plantas, a pocos minutos a pie.
+- **Jardín de Aves de Yuen Po Street (Yuen Po Street Bird Garden):** un jardín tradicional al que los vecinos de más edad llevan sus pájaros cantores enjaulados. Se encuentra al final de Flower Market Road.
+- **Mercado de los Peces de Colores (Tung Choi Street North):** tiendas con hileras de peces en bolsas colgadas a la vista. Queda a un corto paseo hacia el sur.
+- **Mercado de las Mujeres (Ladies' Market) y Sai Yeung Choi Street:** puestos callejeros y letreros de neón al sur de Argyle Street. Eran las paradas habituales para comer algo después del último partido.
 
-La mayoría de los visitantes internacionales se alojan en Tsim Sha Tsui o en Mong Kok. Desde cualquiera de los dos barrios, el campo queda a pocas paradas de metro o a un paseo directo, y después de los partidos nocturnos sigue habiendo trenes hasta tarde.
+La mayoría de los visitantes internacionales se alojaba en Tsim Sha Tsui o en Mong Kok. Desde cualquiera de los dos barrios, el campo quedaba a pocas paradas de MTR o a un paseo directo, y tras los partidos de la noche había trenes hasta tarde.

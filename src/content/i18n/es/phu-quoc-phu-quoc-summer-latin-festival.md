@@ -1,53 +1,51 @@
 ---
 lang: es
 slug: phu-quoc-phu-quoc-summer-latin-festival
-srcHash: 'f86a46134c8d'
+srcHash: 'f1eff74e186b'
 title: 'Phu Quoc Summer Latin Festival: fechas, entradas y sede (Phu Quoc)'
-description: El Phu Quoc Summer Latin Festival se celebra en Phu Quoc, Vietnam, del 29 de octubre al 1 de noviembre de 2026. Qué es, cuándo y dónde tiene lugar, y cómo organizar el viaje en torno a él.
-quickAnswer: El Phu Quoc Summer Latin Festival se celebra del 29 de octubre al 1 de noviembre de 2026 en el Mercury Resort and Villas, en Phu Quoc, Vietnam. A lo largo de esos cuatro días se puede disfrutar del Bachata Champion J&J Competition, talleres de baile, fiestas en la playa y espectáculos en vivo. Antes de reservar los vuelos, conviene confirmar el horario exacto, los detalles de la sede y las entradas en la fuente oficial del festival.
+description: El Phu Quoc Summer Latin Festival 2026 estaba previsto del 29 de octubre al 1 de noviembre en el Mercury Resort and Villas (Vietnam), con la Bachata Champion J&J Competition como gran atractivo.
+quickAnswer: Las fechas anunciadas del Phu Quoc Summer Latin Festival eran del 29 de octubre al 1 de noviembre de 2026, y la sede, el Mercury Resort and Villas de Phu Quoc, en Vietnam. Durante esos cuatro días, el programa anunciado reunía la Bachata Champion J&J Competition, talleres de baile, fiestas en la playa y actuaciones en directo.
 faq:
-  - q: ¿Cuándo se celebra el Phu Quoc Summer Latin Festival en 2026?
-    a: Se celebra del 29 de octubre al 1 de noviembre de 2026, a lo largo de cuatro días consecutivos.
-  - q: ¿Dónde tiene lugar el festival?
-    a: En el Mercury Resort and Villas, un resort frente a la playa en la isla de Phu Quoc, Vietnam.
-  - q: ¿Cómo se llega a la sede?
-    a: Se vuela hasta el Aeropuerto Internacional de Phu Quoc (PQC) y desde allí se toma un taxi o un traslado organizado por el resort hasta el Mercury Resort and Villas.
-  - q: ¿Qué más ofrece el festival además de la competición?
-    a: Además del Bachata Champion J&J Competition, el programa incluye talleres de baile, fiestas en la playa y espectáculos en vivo.
-  - q: ¿Dónde puedo consultar los detalles de las entradas y el horario exacto?
-    a: Antes de cerrar los planes de viaje, conviene confirmar el horario, la inscripción y las entradas en la fuente oficial del Phu Quoc Summer Latin Festival.
+  - q: ¿Cuándo era el Phu Quoc Summer Latin Festival en 2026?
+    a: La edición de 2026 estaba programada del 29 de octubre al 1 de noviembre, a lo largo de cuatro días seguidos.
+  - q: ¿Dónde tenía su sede el festival?
+    a: El festival tenía su base en el Mercury Resort and Villas, un complejo situado a pie de playa en la isla vietnamita de Phu Quoc.
+  - q: ¿Cómo se llegaba a la sede?
+    a: El aeropuerto más cercano era el Aeropuerto Internacional de Phu Quoc (PQC). Desde la terminal hasta el Mercury Resort and Villas, el trayecto se cubría en taxi o con el traslado del propio complejo.
+  - q: ¿Qué ofrecía el festival además de la competición?
+    a: Junto a la Bachata Champion J&J Competition, el programa contaba con talleres de baile, fiestas en la playa y actuaciones en directo.
+  - q: ¿Qué se sabía de las entradas y del horario exacto?
+    a: Entre el 29 de octubre y el 1 de noviembre de 2026, el programa combinaba la competición J&J con talleres, fiestas en la playa y actuaciones en directo. En los concursos Jack and Jill es habitual que la inscripción vaya aparte de la entrada general.
 ---
 
 ## Qué es el festival
 
-Cuatro días de baile latino en la isla de Phu Quoc, del 29 de octubre al 1 de noviembre de 2026. El plato fuerte es el Bachata Champion J&J Competition, un concurso de bachata en formato "Jack and Jill" en el que los bailarines reciben pareja al azar en el momento. Alrededor de esta competición se organizan talleres, fiestas en la playa y espectáculos en vivo.
+La edición de 2026 se planteó como cuatro días dedicados al baile latino en la isla de Phu Quoc, del 29 de octubre al 1 de noviembre. El plato fuerte era la Bachata Champion J&J Competition, un concurso de bachata en formato «Jack and Jill», en el que cada bailarín baila con una pareja que se sortea en el momento.
 
-Todo el evento se desarrolla en el Mercury Resort and Villas, una propiedad frente al mar en la isla, en lugar de en un centro de convenciones del centro urbano.
+Completaban el programa talleres, fiestas en la playa y actuaciones en directo. Todo el evento giraba en torno al Mercury Resort and Villas, un complejo a pie de playa en la isla y no un centro de convenciones en plena ciudad.
 
-## Sede y cómo llegar
+## La sede y cómo llegar
 
-El Mercury Resort and Villas se encuentra en la costa de Phu Quoc, por lo que los días de festival combinan sesiones en estudio bajo techo con fiestas al aire libre en la playa. El Aeropuerto Internacional de Phu Quoc (PQC) conecta con Ciudad Ho Chi Minh, Hanói y una lista cada vez mayor de ciudades regionales de Asia; desde la terminal es necesario tomar un taxi o un traslado organizado por el resort para llegar al Mercury.
+El Mercury Resort and Villas se encuentra en la costa de Phu Quoc, de modo que el festival alternaba las clases en sala con las fiestas al aire libre sobre la arena. El Aeropuerto Internacional de Phu Quoc (PQC) tiene conexiones con Ciudad Ho Chi Minh, Hanói y un número creciente de ciudades asiáticas de la región. Desde la terminal hasta el Mercury, el trayecto se hacía en taxi o con el traslado del complejo.
 
-Conviene reservar el alojamiento en el resort o cerca de él con antelación: finales de octubre coincide con la temporada de lluvias en Phu Quoc, y las habitaciones cercanas a una sede con un festival activo se agotan más rápido que la media general de la isla.
+A finales de octubre, Phu Quoc está en plena temporada de lluvias, y los alojamientos cercanos a una sede con un festival en marcha suelen llenarse antes que el resto de la isla.
 
-- Aeropuerto: Aeropuerto Internacional de Phu Quoc (PQC)
+- Aeropuerto: Internacional de Phu Quoc (PQC)
 - Sede: Mercury Resort and Villas
 - Fechas: del 29 de octubre al 1 de noviembre de 2026
-- Formato: competición, talleres, fiestas en la playa, espectáculos en vivo
+- Formato: competición, talleres, fiestas en la playa y espectáculos en directo
 
-## Entradas y horario
+## Entradas y programa
 
-Aquí no se publican precios ni horarios fijos, ya que los organizadores ajustan los itinerarios de talleres y los horarios de las fiestas entre un anuncio y otro. Es recomendable confirmar el horario y las entradas en la fuente oficial del Phu Quoc Summer Latin Festival, y verificar si la competición J&J requiere una inscripción independiente de la entrada general al festival.
+En los festivales de baile de este tipo es frecuente que los bloques de talleres y los horarios de las fiestas cambien de un anuncio a otro. En las competiciones Jack and Jill, la inscripción suele ir aparte de la entrada general al festival. Además, como este formato a menudo limita la participación según el nivel, la organización acostumbra a fijar sus propias normas de rotación de parejas y sus restricciones por categoría.
 
-Los bailarines que planeen competir también deberían comprobar directamente con los organizadores las reglas de rotación de parejas y las posibles restricciones de nivel, ya que los formatos Jack and Jill suelen limitar la entrada según el nivel de habilidad.
+## Cómo aprovechar los cuatro días
 
-## Cómo aprovechar al máximo los cuatro días
+A festivales de baile latino como este acude sobre todo gente que viene a bailar, no a mirar, y el contraste entre la pista de la sala y la arena influye en lo que cada bailarín lleva en la maleta.
 
-Este es un festival pensado para bailar, no para ser un espectador pasivo, así que conviene llevar calzado adecuado tanto para el suelo de un estudio como para la arena.
+- Para las clases en sala convenía el calzado de baile de interior; para las fiestas en la playa funcionaba mejor algo con buen agarre
+- En festivales así, los talleres suelen tener plazas limitadas por nivel (principiante, intermedio y avanzado)
+- Las rondas de la competición J&J son muy ágiles, y con el sorteo de parejas la primera fila ofrece la mejor vista
+- A lo largo de los cuatro días, era habitual que competiciones, talleres y fiestas coincidieran por la noche
 
-- Llevar tanto zapatos de baile para interiores como calzado con buen agarre para las sesiones de fiesta en la playa
-- Inscribirse pronto en los talleres si los cupos están limitados por nivel (principiante, intermedio, avanzado)
-- Ver las rondas de la competición J&J aunque no se participe en ella: los formatos de sorteo de pareja avanzan rápido y premian a quienes los ven desde primera fila
-- Dosificar las energías a lo largo de los cuatro días, ya que las competiciones, los talleres y las fiestas suelen solaparse por la noche
-
-El clima de Phu Quoc a finales de octubre es cálido y húmedo, con posibilidades reales de lluvia, así que conviene llevar ropa ligera y transpirable, además de una chaqueta impermeable para las sesiones en la playa, en lugar de confiar únicamente en la cobertura que ofrece el resort.
+A finales de octubre, el tiempo en Phu Quoc es cálido y húmedo, con una probabilidad real de lluvia. Para las sesiones en la playa resultaban más adecuadas unas prendas ligeras y transpirables, junto con un chubasquero, que fiarlo todo a las zonas cubiertas del complejo.
