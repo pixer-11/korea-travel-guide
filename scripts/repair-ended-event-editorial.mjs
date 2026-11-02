@@ -38,6 +38,7 @@ import { cutOffByRewrite } from '../src/lib/rewrite-guard.mjs';
 import { OFFENDING_CLAIM, ADVICE_IMPERATIVE } from '../src/lib/ended-event-claims.mjs';
 import { inventedOutcomes, ownEditionOutcomes, endedPresentTense } from './lib/invented-outcomes.mjs';
 import { srcHashOfPostFile } from './lib/src-hash.mjs';
+import { runBatch, batchWaitMin } from './lib/claude-batch.mjs';
 import { fieldDiff, recordRepair, pruneRecords, loadRecords, saveRecords } from './lib/prose-patch.mjs';
 
 const POSTS = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
@@ -100,11 +101,11 @@ function unpack(text, faqCount) {
   return out;
 }
 
-async function rewrite(title, endedOn, year, doc, feedback = null) {
-  // DRY=1 means 'show what would be rewritten and touch nothing' — including the
-  // API. Before 2026-09-04 the call ran first and only the write was skipped.
-  if (DRY) return null;
-  const msg = await client.messages.create({
+// The first attempt of every post goes out in one Message Batch at half price
+// (11-02: $13.6 a month went direct); a retry, which carries feedback, goes
+// direct. Built in one place so both paths send the same request.
+function rewriteParams(title, endedOn, year, doc, feedback = null) {
+  return {
     model: MODEL,
     max_tokens: 16000,
     messages: [{
@@ -125,7 +126,15 @@ Reply with the whole document in exactly the same format: every === LABEL === li
 
 ${doc}`,
     }],
-  });
+  };
+}
+
+/** `pre`: the batch's reply to rewriteParams(same args), or null to ask now. */
+async function rewrite(title, endedOn, year, doc, feedback = null, pre = null) {
+  // DRY=1 means 'show what would be rewritten and touch nothing' — including the
+  // API. Before 2026-09-04 the call ran first and only the write was skipped.
+  if (DRY) return null;
+  const msg = pre || await client.messages.create(rewriteParams(title, endedOn, year, doc, feedback));
   if (msg.stop_reason === 'max_tokens') { console.log('   ⚠️  response hit the token ceiling — discarded unread'); return null; }
   if (msg.stop_reason === 'refusal') { console.log('   ⚠️  model declined'); return null; }
   return (msg.content.find((c) => c.type === 'text')?.text || '').trim();
@@ -155,6 +164,8 @@ function fieldProblems(name, cur, out, year, { md = false, edition = { year, mon
 const refused = [];
 let scanned = 0, fixed = 0;
 
+// Pass 1: every post due a rewrite. Pass 2, below, rewrites them.
+const due = [];
 for (const file of (await readdir(POSTS)).filter((f) => f.endsWith('.md')).sort()) {
   const slug = file.replace(/\.md$/, '');
   if (SLUGS.length && !SLUGS.some((s) => slug.includes(s))) continue;
@@ -173,6 +184,22 @@ for (const file of (await readdir(POSTS)).filter((f) => f.endsWith('.md')).sort(
   const end = isoDay(cur.fm.eventEndDate || cur.fm.eventStartDate);
   if (!end || end >= TODAY) continue;
   scanned++;
+  due.push({ file, slug, abs, curDisk, EOL, curRaw, cur, end });
+}
+
+// Every first attempt in one batch (the same request rewrite() would send);
+// whatever the batch does not return is asked directly below, as before.
+const firsts = new Map();
+const waitMin = DRY || !due.length ? 0 : batchWaitMin(60);
+if (waitMin > 0) {
+  const got = await runBatch(client, due.map((d) => ({
+    id: d.file,
+    params: rewriteParams(d.cur.fm.title, d.end, d.end.slice(0, 4), pack(d.cur.fm, d.cur.body.trim())),
+  })), { waitMin });
+  for (const [id, msg] of got) firsts.set(id, msg);
+}
+
+for (const { file, slug, abs, EOL, curRaw, cur, end } of due) {
   const year = end.slice(0, 4);
   // The present-tense check reads the edition the way validate-content does —
   // the start year, either month — or a rewrite it would flag passes here.
@@ -186,7 +213,7 @@ for (const file of (await readdir(POSTS)).filter((f) => f.endsWith('.md')).sort(
   if (DRY) { console.log('   (DRY) would be sent to the model — nothing written, no API call'); continue; }
   let out = null, problems = [], feedback = null;
   for (let attempt = 0; attempt < 2; attempt++) {
-    const text = await rewrite(cur.fm.title, end, year, doc, feedback);
+    const text = await rewrite(cur.fm.title, end, year, doc, feedback, attempt === 0 ? firsts.get(file) ?? null : null);
     if (text === null) { problems = ['no usable response']; break; }
     out = unpack(text, faq.length);
     if (!out) { problems = ['reply did not follow the === LABEL === format']; feedback = problems[0]; console.log(`   ↻ attempt ${attempt + 1}: ${problems[0]} — retrying`); continue; }

@@ -345,8 +345,25 @@ function translateParams(langCode, data) {
     max_tokens: NO_FORCED_TOOL ? 24000 : 16000,
     tools: [TOOL],
     tool_choice: toolChoice('submit_translation'),
-    messages: [{ role: 'user', content: prompt(LANGS[langCode], data) + toolOnly('submit_translation') }],
+    messages: [{ role: 'user', content: cachedRules(prompt(LANGS[langCode], data) + toolOnly('submit_translation')) }],
   };
+}
+
+// The prompt opens with rules that depend only on the language (~1,000 tokens
+// with the tool), and Opus 5.5 caches from 512 — so the same text goes out as
+// two blocks, the first marked for the cache: a read is a tenth of the input
+// price (11-02; the 10-09 note "too short to cache" predates the 512 minimum).
+// Same words, same order; only the split is new. Falls back to one string if
+// the rules ever stop ending on this line.
+const RULES_END = "- Do not add, remove, or embellish facts. Do not add a translator's note.\n";
+function cachedRules(text) {
+  const cut = text.indexOf(RULES_END);
+  if (cut < 0 || cut + RULES_END.length >= text.length) return text;
+  const at = cut + RULES_END.length;
+  return [
+    { type: 'text', text: text.slice(0, at), cache_control: { type: 'ephemeral' } },
+    { type: 'text', text: text.slice(at) },
+  ];
 }
 
 // A patch request: the English paragraphs the prose repair changed plus the
