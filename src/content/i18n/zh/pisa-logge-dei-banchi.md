@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: pisa-logge-dei-banchi
-srcHash: '4f897c060a9d'
+srcHash: '0ab835a7da3b'
 title: 班奇长廊：比萨旅行指南（4.3★）
-description: 班奇长廊（Logge dei Banchi）是比萨市中心一座露天石廊，位于班奇街（Via di Banchi），紧邻中桥（Ponte di Mezzo）南端，正是意大利大道（Corso Italia）与阿诺河（Arno）交汇之处。4.3★（1,316条评价）——看看游客怎么说，附开放时间与实用建议。
+description: 班奇长廊（Logge dei Banchi）是比萨市中心一座露天石廊，位于班奇街（Via di Banchi），紧邻中桥（Ponte di Mezzo）南端，正是意大利大道（Corso Italia）与阿诺河（Arno）交汇之处。4.3★（1,324条评价）——看看游客怎么说，附开放时间与实用建议。
 quickAnswer: 班奇长廊是比萨市中心一座露天石廊，位于班奇街，紧邻中桥南端，正是意大利大道与阿诺河交汇之处。这里免费开放，全天候不打烊。周末最清静的时段是早上7点到8点，最热闹拥挤的则是上午11点到晚上11点。
 faq:
   - q: 什么时候去班奇长廊人最少？

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: pingxi-taiwan-coal-mine-museum
-srcHash: 'a28369d53fb9'
+srcHash: 'e81399434e04'
 title: 'Museo de la Minería del Carbón de Taiwán: guía de viaje de Pingxi (4,3★)'
-description: 'El Museo de la Minería del Carbón de Taiwán, en Pingxi, se alza sobre el arroyo Xinping, en la aldea de Xinliao, a poca distancia cuesta arriba (a pie o en lanzadera) desde la calle antigua de Jingtong. 4,3★ (1.491 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'El Museo de la Minería del Carbón de Taiwán, en Pingxi, se alza sobre el arroyo Xinping, en la aldea de Xinliao, a poca distancia cuesta arriba (a pie o en lanzadera) desde la calle antigua de Jingtong. 4,3★ (1.518 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Museo de la Minería del Carbón de Taiwán, en Pingxi, se alza sobre el arroyo Xinping, en la aldea de Xinliao, a poca distancia cuesta arriba (a pie o en lanzadera) desde la calle antigua de Jingtong. Abre de miércoles a domingo, de 9:00 a 17:00, y permanece cerrado los lunes y martes, así que conviene organizar la excursión de un día por la línea de Pingxi teniendo esto en cuenta. Calcule entre 90 minutos y dos horas para recorrer el trenecito del túnel, el patio de maquinaria y las antiguas viviendas de los mineros.
 faq:
   - q: ¿Cómo se llega al Museo de la Minería del Carbón de Taiwán sin coche?

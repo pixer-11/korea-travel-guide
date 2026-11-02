@@ -1,59 +1,93 @@
 ---
-title: "Natural History Museum of the University of Pisa: Travel Guide"
-description: "The Natural History Museum of the University of Pisa sits inside the former Certosa di Calci, a 14th-century Carthusian monastery about 8km east of Pisa proper, open daily 9am to 7pm. 4.7★ (6,674 reviews) — what visitors say, hours, and tips."
-country: "Italy"
-region: "Pisa"
-category: "attraction"
-pubDate: "2026-09-15T07:54:07.461Z"
+title: 'Natural History Museum of the University of Pisa: Travel Guide'
+description: >-
+  The Natural History Museum of the University of Pisa sits inside the former
+  Certosa di Calci, a 14th-century Carthusian monastery about 8km east of Pisa
+  proper, open daily 9am to 7pm. 4.7★ (6,700 reviews) — what visitors say,
+  hours, and tips.
+country: Italy
+region: Pisa
+category: attraction
+pubDate: '2026-09-15T07:54:07.461Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Galleria-primati-museo-storia-naturale-pisa.jpg/1920px-Galleria-primati-museo-storia-naturale-pisa.jpg"
-  credit: "Photo: Federigo Federighi / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Galleria-primati-museo-storia-naturale-pisa.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Galleria-primati-museo-storia-naturale-pisa.jpg/1920px-Galleria-primati-museo-storia-naturale-pisa.jpg
+  credit: 'Photo: Federigo Federighi / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Galleria-primati-museo-storia-naturale-pisa.jpg
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/4/40/Holotype_of_Balaenula_astensis_in_the_Gallery_of_Whales%2C_Natural_History_Museum_of_Pisa_University.jpg"
-    credit: "Photo: Paleo-Chiara / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Holotype_of_Balaenula_astensis_in_the_Gallery_of_Whales,_Natural_History_Museum_of_Pisa_University.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/4/40/Holotype_of_Balaenula_astensis_in_the_Gallery_of_Whales%2C_Natural_History_Museum_of_Pisa_University.jpg
+    credit: 'Photo: Paleo-Chiara / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Holotype_of_Balaenula_astensis_in_the_Gallery_of_Whales,_Natural_History_Museum_of_Pisa_University.jpg
 place:
-  id: "ChIJ12uhiteO1RIRcut3NHA1-KU"
-  name: "Natural History Museum of the University of Pisa"
-  address: "Via Roma, 79, 56011 Calci PI, Italy"
+  id: ChIJ12uhiteO1RIRcut3NHA1-KU
+  name: Natural History Museum of the University of Pisa
+  address: 'Via Roma, 79, 56011 Calci PI, Italy'
   rating: 4.7
-  userRatingsTotal: 6674
-  googleMapsUrl: "https://maps.google.com/?cid=11959367566515235698&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 6700
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=11959367566515235698&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 43.7222055
   lng: 10.522701099999999
-  phone: "+39 050 221 2970"
+  phone: +39 050 221 2970
   openingHours:
-    - "Monday: 9:00 AM – 7:00 PM"
-    - "Tuesday: 9:00 AM – 7:00 PM"
-    - "Wednesday: 9:00 AM – 7:00 PM"
-    - "Thursday: 9:00 AM – 7:00 PM"
-    - "Friday: 9:00 AM – 7:00 PM"
-    - "Saturday: 9:00 AM – 7:00 PM"
-    - "Sunday: 9:00 AM – 7:00 PM"
+    - 'Monday: 9:00 AM – 7:00 PM'
+    - 'Tuesday: 9:00 AM – 7:00 PM'
+    - 'Wednesday: 9:00 AM – 7:00 PM'
+    - 'Thursday: 9:00 AM – 7:00 PM'
+    - 'Friday: 9:00 AM – 7:00 PM'
+    - 'Saturday: 9:00 AM – 7:00 PM'
+    - 'Sunday: 9:00 AM – 7:00 PM'
 tags:
-  - "pisa"
-  - "museum"
-quickAnswer: "The Natural History Museum of the University of Pisa sits inside the former Certosa di Calci, a 14th-century Carthusian monastery about 8km east of Pisa proper, open daily 9am to 7pm. Give it two to three hours: the whale skeleton hall and the monastery's frescoed cells alone take time, and this is a genuinely well-visited spot, so aim for a weekday morning right at opening if you want the cetacean gallery to yourself. There's no crowd data published for it, but arriving before the coach tours reach Calci is the reliable trick."
+  - pisa
+  - museum
+quickAnswer: >-
+  The Natural History Museum of the University of Pisa sits inside the former
+  Certosa di Calci, a 14th-century Carthusian monastery about 8km east of Pisa
+  proper, open daily 9am to 7pm. Give it two to three hours: the whale skeleton
+  hall and the monastery's frescoed cells alone take time, and this is a
+  genuinely well-visited spot, so aim for a weekday morning right at opening if
+  you want the cetacean gallery to yourself. There's no crowd data published for
+  it, but arriving before the coach tours reach Calci is the reliable trick.
 faq:
-  - q: "How long should I spend at the Natural History Museum of the University of Pisa?"
-    a: "Plan on two to three hours to cover the whale skeleton hall, the mineral and taxidermy rooms, and at least part of the monastery cloisters and cells."
-  - q: "How do I get from Pisa to the museum in Calci?"
-    a: "It's about 20 minutes by car or taxi, or you can take a CTT Nord bus from Pisa; there's no train service to Calci, and free parking is available near the monastery."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "The museum is open 9am to 7pm daily. Arriving right at opening or after about 4pm generally avoids the coach tour groups that arrive mid-morning to early afternoon."
-  - q: "Is the museum suitable for children?"
-    a: "Yes, the aquarium section with live Mediterranean and tropical species is a strong draw for kids, alongside the dramatic scale of the whale skeletons."
-  - q: "What's nearby if I want to extend the trip?"
-    a: "Calci's small town centre is walkable from the monastery, and the Monti Pisani hills offer further walking or driving routes if you have your own transport."
+  - q: >-
+      How long should I spend at the Natural History Museum of the University of
+      Pisa?
+    a: >-
+      Plan on two to three hours to cover the whale skeleton hall, the mineral
+      and taxidermy rooms, and at least part of the monastery cloisters and
+      cells.
+  - q: How do I get from Pisa to the museum in Calci?
+    a: >-
+      It's about 20 minutes by car or taxi, or you can take a CTT Nord bus from
+      Pisa; there's no train service to Calci, and free parking is available
+      near the monastery.
+  - q: When is the best time to visit to avoid crowds?
+    a: >-
+      The museum is open 9am to 7pm daily. Arriving right at opening or after
+      about 4pm generally avoids the coach tour groups that arrive mid-morning
+      to early afternoon.
+  - q: Is the museum suitable for children?
+    a: >-
+      Yes, the aquarium section with live Mediterranean and tropical species is
+      a strong draw for kids, alongside the dramatic scale of the whale
+      skeletons.
+  - q: What's nearby if I want to extend the trip?
+    a: >-
+      Calci's small town centre is walkable from the monastery, and the Monti
+      Pisani hills offer further walking or driving routes if you have your own
+      transport.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-02'
 ---
 
 Most people come to Pisa for the Leaning Tower and never make it the extra eight kilometres east to Calci, which is exactly why the Certosa's courtyards feel so much bigger than the crowds inside them. The building itself is the first surprise: a working Carthusian monastery founded in 1366, its cloisters, monks' cells and frescoed church still intact, now sharing the complex with one of Italy's largest natural history collections.

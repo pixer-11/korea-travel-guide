@@ -1,44 +1,53 @@
 ---
-title: "Hill Palace: Kochi Travel Guide (4.4★)"
-description: "Hill Palace in Thrippunithura, Kochi, is the former seat of the Cochin royal family and now Kerala's largest archaeological museum, with galleries and landscaped grounds on a hilltop. 4.4★ (22,315 reviews) — what visitors say, hours, and tips."
-country: "India"
-region: "Kochi"
-category: "hidden-gem"
-pubDate: "2026-11-02T08:01:32.021Z"
+title: 'Hill Palace: Kochi Travel Guide (4.4★)'
+description: >-
+  Hill Palace in Thrippunithura, Kochi, is the former seat of the Cochin royal
+  family and now Kerala's largest archaeological museum, with galleries and
+  landscaped grounds on a hilltop. 4.4★ (22,318 reviews) — what visitors say,
+  hours, and tips.
+country: India
+region: Kochi
+category: hidden-gem
+pubDate: '2026-11-02T08:01:32.021Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Hill_Palace_by_GV-1.JPG/1920px-Hill_Palace_by_GV-1.JPG"
-  credit: "Photo: Gokulvarmank / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Hill_Palace_by_GV-1.JPG"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Hill_Palace_by_GV-1.JPG/1920px-Hill_Palace_by_GV-1.JPG
+  credit: 'Photo: Gokulvarmank / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Hill_Palace_by_GV-1.JPG'
   focus:
     x: 40
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/The_Hill_Palace_Museum.jpg/3840px-The_Hill_Palace_Museum.jpg"
-    credit: "Photo: NobinJose6 / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:The_Hill_Palace_Museum.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/The_Hill_Palace_Museum.jpg/3840px-The_Hill_Palace_Museum.jpg
+    credit: 'Photo: NobinJose6 / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:The_Hill_Palace_Museum.jpg'
 place:
-  id: "ChIJW9b3KGBzCDsRoYFdp0utAHU"
-  name: "Hill Palace"
-  address: "Hill Palace Rd, Irumpanam, Thrippunithura, Ernakulam, Kochi, Keralam 682301, India"
+  id: ChIJW9b3KGBzCDsRoYFdp0utAHU
+  name: Hill Palace
+  address: >-
+    Hill Palace Rd, Irumpanam, Thrippunithura, Ernakulam, Kochi, Keralam 682301,
+    India
   rating: 4.4
-  userRatingsTotal: 22315
-  googleMapsUrl: "https://maps.google.com/?cid=8430929042879644065&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 22318
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=8430929042879644065&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 9.9527457
   lng: 76.3638844
-  phone: "+91 484 278 1113"
+  phone: +91 484 278 1113
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 9:00 AM – 12:30 PM, 2:00 – 4:30 PM"
-    - "Wednesday: 9:00 AM – 12:30 PM, 2:00 – 4:30 PM"
-    - "Thursday: 9:00 AM – 12:30 PM, 2:00 – 4:30 PM"
-    - "Friday: 9:00 AM – 12:30 PM, 2:00 – 4:30 PM"
-    - "Saturday: 9:00 AM – 12:30 PM, 2:00 – 4:30 PM"
-    - "Sunday: 9:00 AM – 12:30 PM, 2:00 – 4:30 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 9:00 AM – 12:30 PM, 2:00 – 4:30 PM'
+    - 'Wednesday: 9:00 AM – 12:30 PM, 2:00 – 4:30 PM'
+    - 'Thursday: 9:00 AM – 12:30 PM, 2:00 – 4:30 PM'
+    - 'Friday: 9:00 AM – 12:30 PM, 2:00 – 4:30 PM'
+    - 'Saturday: 9:00 AM – 12:30 PM, 2:00 – 4:30 PM'
+    - 'Sunday: 9:00 AM – 12:30 PM, 2:00 – 4:30 PM'
   busyness:
-    updated: 2026-11-02
+    updated: 2026-11-02T00:00:00.000Z
     weekdayBusy:
       - 11
       - 14
@@ -49,24 +58,48 @@ place:
       - 11
       - 14
       - 15
-    venueId: "ven_554841747530706446596f527344437a42474b336239574a496843"
+    venueId: ven_554841747530706446596f527344437a42474b336239574a496843
 tags:
-  - "kochi"
-  - "old quarter"
-quickAnswer: "Hill Palace in Thrippunithura, Kochi, is the former seat of the Cochin royal family and now Kerala's largest archaeological museum, with galleries and landscaped grounds on a hilltop. At the moment it is closed on Mondays and opens Tuesday to Sunday from 9:00 AM to 12:30 PM and from 2:00 to 4:30 PM. Weekends are busiest from 9am–12pm and 2pm–4pm, so go on a weekday if you can."
+  - kochi
+  - old quarter
+quickAnswer: >-
+  Hill Palace in Thrippunithura, Kochi, is the former seat of the Cochin royal
+  family and now Kerala's largest archaeological museum, with galleries and
+  landscaped grounds on a hilltop. At the moment it is closed on Mondays and
+  opens Tuesday to Sunday from 9:00 AM to 12:30 PM and from 2:00 to 4:30 PM.
+  Weekends are busiest from 9am–12pm and 2pm–4pm, so go on a weekday if you can.
 faq:
-  - q: "When is the quietest time to visit Hill Palace?"
-    a: "Weekdays, Tuesday to Friday, are your best bet. On weekends it is busiest from 9am–12pm and 2pm–4pm. If you can only go on a weekend, the last half hour of each session (12pm–12:30pm and 4pm–4:30pm) falls outside those busy windows."
-  - q: "Is Hill Palace open on Mondays?"
-    a: "No. At the moment it is closed on Mondays. From Tuesday to Sunday it opens 9:00 AM to 12:30 PM and 2:00 to 4:30 PM, and it shuts over lunch. Hours can change with the season and on holidays, so check before you travel."
-  - q: "How long should I spend at Hill Palace?"
-    a: "Give the galleries around 90 minutes. Add another hour if you want to walk the gardens and deer park. Since it shuts for lunch, plan to fit everything into either the morning or the afternoon session."
-  - q: "How do I get to Hill Palace from Ernakulam or Fort Kochi?"
-    a: "From Ernakulam, take an auto-rickshaw or taxi straight to the gate in Thrippunithura, roughly 10–12 km away. You can also take a train or bus to Thrippunithura and then a short auto ride. From Fort Kochi the drive across the city takes much longer, so treat it as a half-day trip."
-  - q: "What else is near Hill Palace?"
-    a: "The Sree Poornathrayeesa Temple, the old royal family temple, is in Thrippunithura town a short auto ride away. Its Vrischikolsavam festival in November–December is one of the biggest temple festivals in the Kochi area."
+  - q: When is the quietest time to visit Hill Palace?
+    a: >-
+      Weekdays, Tuesday to Friday, are your best bet. On weekends it is busiest
+      from 9am–12pm and 2pm–4pm. If you can only go on a weekend, the last half
+      hour of each session (12pm–12:30pm and 4pm–4:30pm) falls outside those
+      busy windows.
+  - q: Is Hill Palace open on Mondays?
+    a: >-
+      No. At the moment it is closed on Mondays. From Tuesday to Sunday it opens
+      9:00 AM to 12:30 PM and 2:00 to 4:30 PM, and it shuts over lunch. Hours
+      can change with the season and on holidays, so check before you travel.
+  - q: How long should I spend at Hill Palace?
+    a: >-
+      Give the galleries around 90 minutes. Add another hour if you want to walk
+      the gardens and deer park. Since it shuts for lunch, plan to fit
+      everything into either the morning or the afternoon session.
+  - q: How do I get to Hill Palace from Ernakulam or Fort Kochi?
+    a: >-
+      From Ernakulam, take an auto-rickshaw or taxi straight to the gate in
+      Thrippunithura, roughly 10–12 km away. You can also take a train or bus to
+      Thrippunithura and then a short auto ride. From Fort Kochi the drive
+      across the city takes much longer, so treat it as a half-day trip.
+  - q: What else is near Hill Palace?
+    a: >-
+      The Sree Poornathrayeesa Temple, the old royal family temple, is in
+      Thrippunithura town a short auto ride away. Its Vrischikolsavam festival
+      in November–December is one of the biggest temple festivals in the Kochi
+      area.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-02'
 ---
 
 ## A palace you reach on foot

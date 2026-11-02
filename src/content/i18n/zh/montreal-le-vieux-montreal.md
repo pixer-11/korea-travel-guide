@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: montreal-le-vieux-montreal
-srcHash: '5afe721852f5'
+srcHash: '2ca1c2c56ad5'
 title: 蒙特利尔老城（Le Vieux Montréal）旅行指南（4.7★）
-description: 蒙特利尔老城是这座城市最古老的街区，本条目定位在圣母大教堂对面的兵器广场（Place d'Armes）。4.7★（710条评价），游客评价、开放时间和实用贴士都在这里。
+description: 蒙特利尔老城是这座城市最古老的街区，本条目定位在圣母大教堂对面的兵器广场（Place d'Armes）。4.7★（711条评价），游客评价、开放时间和实用贴士都在这里。
 quickAnswer: 蒙特利尔老城是这座城市最古老的街区，本条目定位在圣母大教堂对面的兵器广场（Place d'Armes）。乘地铁橙线到兵器广场站（Place-d'Armes），出站后往坡下走几分钟就到。兵器广场、圣保罗街、雅克·卡蒂埃广场和老港步行逛一圈，建议留出两到四小时。
 faq:
   - q: 离兵器广场的蒙特利尔老城最近的地铁站是哪一站？

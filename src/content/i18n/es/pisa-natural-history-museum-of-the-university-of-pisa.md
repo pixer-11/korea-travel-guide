@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: pisa-natural-history-museum-of-the-university-of-pisa
-srcHash: '7e4a2b5b6dcd'
+srcHash: 'd4514a7eee07'
 title: 'Museo de Historia Natural de la Universidad de Pisa: guía de viaje'
-description: 'El Museo de Historia Natural de la Universidad de Pisa ocupa la antigua Certosa di Calci, un monasterio cartujo del siglo XIV situado unos 8 km al este de Pisa, abierto todos los días de 9:00 a 19:00. 4,7★ (6.674 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'El Museo de Historia Natural de la Universidad de Pisa ocupa la antigua Certosa di Calci, un monasterio cartujo del siglo XIV situado unos 8 km al este de Pisa, abierto todos los días de 9:00 a 19:00. 4,7★ (6.700 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Museo de Historia Natural de la Universidad de Pisa ocupa la antigua Certosa di Calci, un monasterio cartujo del siglo XIV situado unos 8 km al este de Pisa, abierto todos los días de 9:00 a 19:00. Conviene reservar entre dos y tres horas, ya que solo la sala del esqueleto de ballena y las celdas con frescos del monasterio requieren su tiempo, y se trata de un lugar realmente muy visitado; lo ideal es llegar un día laborable justo a la apertura si se quiere disfrutar en solitario de la galería de cetáceos. No existen datos publicados sobre afluencia, pero llegar antes que los autocares turísticos alcancen Calci sigue siendo el truco más fiable.
 faq:
   - q: ¿Cuánto tiempo hay que dedicar al Museo de Historia Natural de la Universidad de Pisa?

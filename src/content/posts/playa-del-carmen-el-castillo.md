@@ -1,41 +1,46 @@
 ---
 title: 'El Castillo: Merida Travel Guide (4.9★)'
-description: "El Castillo is the step pyramid at the centre of Chichén Itzá in Tinum, Yucatán, a day trip of roughly two and a half to three hours by road from Playa del Carmen. 4.9★ (25,151 reviews) — what visitors say, hours, and tips."
-country: "Mexico"
+description: >-
+  El Castillo is the step pyramid at the centre of Chichén Itzá in Tinum,
+  Yucatán, a day trip of roughly two and a half to three hours by road from
+  Playa del Carmen. 4.9★ (25,245 reviews) — what visitors say, hours, and tips.
+country: Mexico
 region: Merida
-category: "attraction"
-pubDate: "2026-10-06T14:20:35.029Z"
+category: attraction
+pubDate: '2026-10-06T14:20:35.029Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/El_Castillo_%2816682767642%29.jpg/3840px-El_Castillo_%2816682767642%29.jpg"
-  credit: "Photo: Autharite / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:El_Castillo_(16682767642).jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/El_Castillo_%2816682767642%29.jpg/3840px-El_Castillo_%2816682767642%29.jpg
+  credit: 'Photo: Autharite / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:El_Castillo_(16682767642).jpg'
+  via: act
   focus:
     x: 55
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJIyUjjrg4UY8R302CxwBC7wE"
-  name: "El Castillo"
-  address: "97751 Tinum, Yuc., Mexico"
+  id: ChIJIyUjjrg4UY8R302CxwBC7wE
+  name: El Castillo
+  address: '97751 Tinum, Yuc., Mexico'
   rating: 4.9
-  userRatingsTotal: 25151
-  googleMapsUrl: "https://maps.google.com/?cid=139402684586413535&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 25245
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=139402684586413535&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 20.6829859
   lng: -88.5686491
-  phone: "+52 985 851 0137"
+  phone: +52 985 851 0137
   openingHours:
-    - "Monday: 8:00 AM – 4:00 PM"
-    - "Tuesday: 8:00 AM – 4:00 PM"
-    - "Wednesday: 8:00 AM – 4:00 PM"
-    - "Thursday: 8:00 AM – 4:00 PM"
-    - "Friday: 8:00 AM – 4:00 PM"
-    - "Saturday: 8:00 AM – 4:00 PM"
-    - "Sunday: 8:00 AM – 4:00 PM"
+    - 'Monday: 8:00 AM – 4:00 PM'
+    - 'Tuesday: 8:00 AM – 4:00 PM'
+    - 'Wednesday: 8:00 AM – 4:00 PM'
+    - 'Thursday: 8:00 AM – 4:00 PM'
+    - 'Friday: 8:00 AM – 4:00 PM'
+    - 'Saturday: 8:00 AM – 4:00 PM'
+    - 'Sunday: 8:00 AM – 4:00 PM'
   busyness:
-    updated: 2026-10-06
+    updated: 2026-10-06T00:00:00.000Z
     weekdayQuiet:
       - 8
     weekendQuiet:
@@ -47,24 +52,39 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_4577374342777843323033523859553467726a6a5579494a496843"
+    venueId: ven_4577374342777843323033523859553467726a6a5579494a496843
 tags:
   - merida
   - historic site
-quickAnswer: "El Castillo is the step pyramid at the centre of Chichén Itzá in Tinum, Yucatán, a day trip of roughly two and a half to three hours by road from Playa del Carmen. The site is open daily from 8am to 4pm. The quietest hour is 8am–9am every day; weekends stay busy from 10am to 4pm."
+quickAnswer: >-
+  El Castillo is the step pyramid at the centre of Chichén Itzá in Tinum,
+  Yucatán, a day trip of roughly two and a half to three hours by road from
+  Playa del Carmen. The site is open daily from 8am to 4pm. The quietest hour is
+  8am–9am every day; weekends stay busy from 10am to 4pm.
 faq:
-  - q: "How far is El Castillo from Playa del Carmen?"
-    a: "It's at Chichén Itzá in Yucatán, roughly 2.5–3 hours each way by car on toll Highway 180D. You can also go by ADO bus or on an organised day tour."
-  - q: "When is the quietest time to visit?"
-    a: "8am–9am, on weekdays and weekends alike. On weekends, avoid 10am–4pm, which is the busiest stretch."
-  - q: "What are the opening hours?"
-    a: "The site opens daily from 8am to 4pm, Monday through Sunday."
-  - q: "Can you climb El Castillo?"
-    a: "No. Climbing has been banned since 2008, so you see the pyramid from the plaza. Clap in front of the north stairway to hear the echo that sounds like a bird's chirp."
-  - q: "What else is nearby?"
-    a: "Inside the site are the Great Ball Court, the Temple of the Warriors and the Sacred Cenote. Outside it, Cenote Ik Kil is a few minutes away and Valladolid is about 45 minutes east."
+  - q: How far is El Castillo from Playa del Carmen?
+    a: >-
+      It's at Chichén Itzá in Yucatán, roughly 2.5–3 hours each way by car on
+      toll Highway 180D. You can also go by ADO bus or on an organised day tour.
+  - q: When is the quietest time to visit?
+    a: >-
+      8am–9am, on weekdays and weekends alike. On weekends, avoid 10am–4pm,
+      which is the busiest stretch.
+  - q: What are the opening hours?
+    a: 'The site opens daily from 8am to 4pm, Monday through Sunday.'
+  - q: Can you climb El Castillo?
+    a: >-
+      No. Climbing has been banned since 2008, so you see the pyramid from the
+      plaza. Clap in front of the north stairway to hear the echo that sounds
+      like a bird's chirp.
+  - q: What else is nearby?
+    a: >-
+      Inside the site are the Great Ball Court, the Temple of the Warriors and
+      the Sacred Cenote. Outside it, Cenote Ik Kil is a few minutes away and
+      Valladolid is about 45 minutes east.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-02'
 ---
 
 ## Four stairways and a calendar

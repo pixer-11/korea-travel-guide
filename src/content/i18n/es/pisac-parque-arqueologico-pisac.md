@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: pisac-parque-arqueologico-pisac
-srcHash: '9bf85dc63c5c'
+srcHash: '2ba181e34002'
 title: 'Parque Arqueológico de Pisac: guía de viaje (4.8★)'
-description: En la cresta que domina el pueblo de Pisac, en el Valle Sagrado del Perú, el Parque Arqueológico de Pisac reúne andenes, templos y un cementerio excavado en el acantilado, todo ello a gran altura sobre el río Urubamba. Con una valoración de 4.8★ (10,238 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
+description: En la cresta que domina el pueblo de Pisac, en el Valle Sagrado del Perú, el Parque Arqueológico de Pisac reúne andenes, templos y un cementerio excavado en el acantilado, todo ello a gran altura sobre el río Urubamba. Con una valoración de 4.8★ (10,264 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
 quickAnswer: Justo encima del pueblo de Pisac, en el Valle Sagrado del Perú, se extiende por la ladera de la montaña el Parque Arqueológico de Pisac. Sus andenes incas, sus templos y su cementerio en el acantilado dominan desde lo alto el río Urubamba. Actualmente el acceso abre de 8:00am a 4:30pm y el sitio recibe muchísimos visitantes. Lo más recomendable es subir en taxi desde el pueblo a la hora de apertura, antes de que lleguen las excursiones de un día desde Cusco. Calcule entre 2–3 horas para la visita y regrese a pie por el sendero que baja hasta el mercado.
 faq:
   - q: ¿Cómo se sube desde el pueblo de Pisac hasta el parque arqueológico?

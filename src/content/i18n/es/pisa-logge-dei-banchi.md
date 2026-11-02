@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: pisa-logge-dei-banchi
-srcHash: '4f897c060a9d'
+srcHash: '0ab835a7da3b'
 title: 'Logge dei Banchi: Guía de viaje de Pisa (4.3★)'
-description: 'Las Logge dei Banchi son una logia de piedra abierta en el centro de Pisa, en Via di Banchi, en el extremo sur del Ponte di Mezzo, donde Corso Italia se encuentra con el Arno. 4.3★ (1,316 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'Las Logge dei Banchi son una logia de piedra abierta en el centro de Pisa, en Via di Banchi, en el extremo sur del Ponte di Mezzo, donde Corso Italia se encuentra con el Arno. 4.3★ (1,324 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Las Logge dei Banchi son una logia de piedra abierta en el centro de Pisa, en Via di Banchi, en el extremo sur del Ponte di Mezzo, donde Corso Italia se encuentra con el Arno. La entrada es gratuita y permanece abierta las 24 horas. Los fines de semana, el momento de mayor calma va de las 7 a las 8 de la mañana, mientras que la mayor afluencia se da entre las 11am y las 11pm.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar las Logge dei Banchi?

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: cinque-terre-punta-mesco
-srcHash: '99f52f0863ea'
+srcHash: 'c5acf7c23791'
 title: 'Punta Mesco: guía de viaje de Cinque Terre (4.7★)'
-description: 'En el extremo occidental de Monterosso al Mare, en Cinque Terre, se alza Punta Mesco, un promontorio boscoso desde cuya cima se divisa la costa de los cinco pueblos. 4.7★ (318 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En el extremo occidental de Monterosso al Mare, en Cinque Terre, se alza Punta Mesco, un promontorio boscoso desde cuya cima se divisa la costa de los cinco pueblos. 4.7★ (319 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En el extremo occidental de Monterosso al Mare, en Cinque Terre, se alza Punta Mesco, un promontorio boscoso desde cuya cima se divisa la costa de los cinco pueblos. Para llegar hay que afrontar una subida empinada de alrededor de una hora por escalones de piedra. El camino parte de la playa de Fegina y sigue el sendero de Monterosso a Levanto. Si quiere disfrutar de las vistas más nítidas y subir con el fresco, vaya por la mañana y con buen tiempo. Lleve también su propia agua, porque en la cima no hay dónde comprar nada.
 faq:
   - q: ¿Cómo se llega a Punta Mesco desde Monterosso?

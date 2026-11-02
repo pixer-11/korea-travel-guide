@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: pisa-piazza-del-duomo
-srcHash: '2db636212e61'
+srcHash: '9c8d18a15374'
 title: 比萨大教堂广场旅行指南（4.7★）
-description: 比萨大教堂广场又称“奇迹广场”（Piazza dei Miracoli），位于城西北角，是一片有城墙环绕的草坪，比萨斜塔、大教堂、洗礼堂和墓园都坐落在这里。评分4.7★（142,697条评价），游客评价、开放时间和实用贴士都在这里。
+description: 比萨大教堂广场又称“奇迹广场”（Piazza dei Miracoli），位于城西北角，是一片有城墙环绕的草坪，比萨斜塔、大教堂、洗礼堂和墓园都坐落在这里。评分4.7★（143,453条评价），游客评价、开放时间和实用贴士都在这里。
 quickAnswer: 比萨大教堂广场（Piazza del Duomo）又称“奇迹广场”（Piazza dei Miracoli），位于城西北角，是一片有城墙环绕的草坪，比萨斜塔、大教堂、洗礼堂和墓园都坐落在这里。广场本身24小时开放，各处古迹则另有开放时间，并实行分时段售票。出发前最好先在比萨大教堂事务局（Opera della Primaziale Pisana）官网预约登塔时段。离广场最近的车站是比萨圣罗索雷站（Pisa San Rossore），下车步行即到。
 faq:
   - q: 离比萨大教堂广场最近的火车站是哪一站？

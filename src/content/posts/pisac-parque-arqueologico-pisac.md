@@ -1,59 +1,92 @@
 ---
-title: "Parque Arqueológico: Pisac Travel Guide (4.8★)"
-description: "Parque Arqueológico Pisac sits on the ridge directly above Pisac town in Peru's Sacred Valley: Inca terraces, temples and a cliff cemetery spread along a mountainside high over the Urubamba River. 4.8★ (10,238 reviews) — what visitors say, hours, and tips."
-country: "Peru"
-region: "Pisac"
-category: "attraction"
-pubDate: "2026-10-22T14:52:41.255Z"
+title: 'Parque Arqueológico: Pisac Travel Guide (4.8★)'
+description: >-
+  Parque Arqueológico Pisac sits on the ridge directly above Pisac town in
+  Peru's Sacred Valley: Inca terraces, temples and a cliff cemetery spread along
+  a mountainside high over the Urubamba River. 4.8★ (10,264 reviews) — what
+  visitors say, hours, and tips.
+country: Peru
+region: Pisac
+category: attraction
+pubDate: '2026-10-22T14:52:41.255Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/8/86/Parque_Arqueol%C3%B3gico_de_Pisac%2C_Peru_-_panoramio.jpg"
-  credit: "Photo: Paulo JC Nogueira / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Parque_Arqueol%C3%B3gico_de_Pisac,_Peru_-_panoramio.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/8/86/Parque_Arqueol%C3%B3gico_de_Pisac%2C_Peru_-_panoramio.jpg
+  credit: 'Photo: Paulo JC Nogueira / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Parque_Arqueol%C3%B3gico_de_Pisac,_Peru_-_panoramio.jpg
+  via: act
   focus:
     x: 55
-    y: 55
+    'y': 55
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/7/77/Parque_Arqueol%C3%B3gico_de_Pisac%2C_Peru_-_panoramio_%281%29.jpg"
-    credit: "Photo: Paulo JC Nogueira / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Parque_Arqueol%C3%B3gico_de_Pisac,_Peru_-_panoramio_(1).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/7/77/Parque_Arqueol%C3%B3gico_de_Pisac%2C_Peru_-_panoramio_%281%29.jpg
+    credit: 'Photo: Paulo JC Nogueira / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Parque_Arqueol%C3%B3gico_de_Pisac,_Peru_-_panoramio_(1).jpg
 place:
-  id: "ChIJEcaWNKVwbpERdZaV8OjsBaw"
-  name: "Parque Arqueológico Pisac"
-  address: "H5R4+X8X, Pisac 08105, Peru"
+  id: ChIJEcaWNKVwbpERdZaV8OjsBaw
+  name: Parque Arqueológico Pisac
+  address: 'H5R4+X8X, Pisac 08105, Peru'
   rating: 4.8
-  userRatingsTotal: 10238
-  googleMapsUrl: "https://maps.google.com/?cid=12395574034620061301&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 10264
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=12395574034620061301&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -13.407523399999999
   lng: -71.84415419999999
   openingHours:
-    - "Monday: 8:00 AM – 4:30 PM"
-    - "Tuesday: 8:00 AM – 4:30 PM"
-    - "Wednesday: 8:00 AM – 4:30 PM"
-    - "Thursday: 8:00 AM – 4:30 PM"
-    - "Friday: 8:00 AM – 4:30 PM"
-    - "Saturday: 8:00 AM – 4:30 PM"
-    - "Sunday: 8:00 AM – 4:30 PM"
+    - 'Monday: 8:00 AM – 4:30 PM'
+    - 'Tuesday: 8:00 AM – 4:30 PM'
+    - 'Wednesday: 8:00 AM – 4:30 PM'
+    - 'Thursday: 8:00 AM – 4:30 PM'
+    - 'Friday: 8:00 AM – 4:30 PM'
+    - 'Saturday: 8:00 AM – 4:30 PM'
+    - 'Sunday: 8:00 AM – 4:30 PM'
 tags:
-  - "pisac"
-  - "top attraction"
-quickAnswer: "Parque Arqueológico Pisac sits on the ridge directly above Pisac town in Peru's Sacred Valley: Inca terraces, temples and a cliff cemetery spread along a mountainside high over the Urubamba River. At the moment the gate is open 8:00am–4:30pm, and the site is very popular. Take a taxi up from town for opening time, before the Cusco day tours arrive, then allow 2–3 hours and walk the trail back down to the market."
+  - pisac
+  - top attraction
+quickAnswer: >-
+  Parque Arqueológico Pisac sits on the ridge directly above Pisac town in
+  Peru's Sacred Valley: Inca terraces, temples and a cliff cemetery spread along
+  a mountainside high over the Urubamba River. At the moment the gate is open
+  8:00am–4:30pm, and the site is very popular. Take a taxi up from town for
+  opening time, before the Cusco day tours arrive, then allow 2–3 hours and walk
+  the trail back down to the market.
 faq:
-  - q: "How do I get from Pisac town up to the archaeological park?"
-    a: "Take a taxi from near the market or bridge to the upper entrance, a winding drive of around half an hour. Or hike the steep trail through the terraces from the edge of town, which takes about 1.5–2 hours. Many visitors ride up and walk down."
-  - q: "What are the opening hours?"
-    a: "At the moment it opens 8:00am–4:30pm every day. Hours at Peruvian archaeological sites can change with the season and on holidays, so check the official site before you go."
-  - q: "How long should I spend at Pisac ruins?"
-    a: "Allow 2–3 hours for the upper sectors, including the Intihuatana, and the walk down through the terraces to town. Give yourself longer if you climb up from town on foot."
-  - q: "What is the best time to visit to avoid crowds?"
-    a: "Be at the gate when it opens at 8am. Day tours from Cusco usually arrive mid-morning. For weather, the dry season (roughly May to September) brings clearer skies, though it is also the busiest travel period."
-  - q: "Which ticket do I need?"
-    a: "Entry is covered by the Boleto Turístico del Cusco, which also includes Ollantaytambo, Chinchero and Moray. Current options and prices are posted on the official Cusco tourism ticket channels and at the ticket offices. Bring your passport."
+  - q: How do I get from Pisac town up to the archaeological park?
+    a: >-
+      Take a taxi from near the market or bridge to the upper entrance, a
+      winding drive of around half an hour. Or hike the steep trail through the
+      terraces from the edge of town, which takes about 1.5–2 hours. Many
+      visitors ride up and walk down.
+  - q: What are the opening hours?
+    a: >-
+      At the moment it opens 8:00am–4:30pm every day. Hours at Peruvian
+      archaeological sites can change with the season and on holidays, so check
+      the official site before you go.
+  - q: How long should I spend at Pisac ruins?
+    a: >-
+      Allow 2–3 hours for the upper sectors, including the Intihuatana, and the
+      walk down through the terraces to town. Give yourself longer if you climb
+      up from town on foot.
+  - q: What is the best time to visit to avoid crowds?
+    a: >-
+      Be at the gate when it opens at 8am. Day tours from Cusco usually arrive
+      mid-morning. For weather, the dry season (roughly May to September) brings
+      clearer skies, though it is also the busiest travel period.
+  - q: Which ticket do I need?
+    a: >-
+      Entry is covered by the Boleto Turístico del Cusco, which also includes
+      Ollantaytambo, Chinchero and Moray. Current options and prices are posted
+      on the official Cusco tourism ticket channels and at the ticket offices.
+      Bring your passport.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-02'
 ---
 
 Stand in Pisac's plaza and look up. The green steps climbing the mountain behind the market stalls are Inca agricultural terraces, and the ruins are spread along the ridge above them. Parque Arqueológico Pisac is the site that draws most visitors to this town.

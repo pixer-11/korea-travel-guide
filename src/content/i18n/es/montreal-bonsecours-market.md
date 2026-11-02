@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: montreal-bonsecours-market
-srcHash: 'fd7910fe0818'
+srcHash: 'd6f094ef049c'
 title: 'Mercado Bonsecours: guía de viaje de Montreal (4.1★)'
-description: 'En el 350 Rue Saint-Paul East, en pleno Viejo Montreal, se alza el Mercado Bonsecours, un antiguo mercado cubierto de la década de 1840 coronado por una cúpula que hoy acoge tiendas de diseño quebequense, galerías de arte y restaurantes. 4.1★ (8,551 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En el 350 Rue Saint-Paul East, en pleno Viejo Montreal, se alza el Mercado Bonsecours, un antiguo mercado cubierto de la década de 1840 coronado por una cúpula que hoy acoge tiendas de diseño quebequense, galerías de arte y restaurantes. 4.1★ (8,553 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En el 350 Rue Saint-Paul East, en pleno Viejo Montreal, se alza el Mercado Bonsecours (Marché Bonsecours), un antiguo mercado cubierto de la década de 1840 coronado por una cúpula que hoy acoge tiendas de diseño quebequense, galerías de arte y restaurantes. Todos los días, la franja más tranquila va de 10am a 11am; los jueves y viernes por la tarde también hay calma de 6pm a 7pm. Conviene evitar los fines de semana a partir de la 1pm, cuando se registra la mayor afluencia.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Mercado Bonsecours?

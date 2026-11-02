@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: montreal-le-vieux-montreal
-srcHash: '5afe721852f5'
+srcHash: '2ca1c2c56ad5'
 title: 'El Viejo Montreal (Le Vieux Montréal): guía de viaje de Montreal (4.7★)'
-description: Esta ficha sitúa el Viejo Montreal (Le Vieux Montréal), el casco antiguo de la ciudad, en la Place d'Armes, la plaza que se abre frente a la Basílica de Notre-Dame. Con 4.7★ (710 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
+description: Esta ficha sitúa el Viejo Montreal (Le Vieux Montréal), el casco antiguo de la ciudad, en la Place d'Armes, la plaza que se abre frente a la Basílica de Notre-Dame. Con 4.7★ (711 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
 quickAnswer: Esta ficha sitúa el Viejo Montreal (Le Vieux Montréal), el casco antiguo de la ciudad, en la Place d'Armes, la plaza que se abre frente a la Basílica de Notre-Dame. Para llegar, tome la Línea Naranja del metro hasta la estación Place-d'Armes y camine cuesta abajo unos minutos. Recorrer a pie la plaza, la Rue Saint-Paul, la Place Jacques-Cartier y el Viejo Puerto lleva entre dos y cuatro horas.
 faq:
   - q: ¿Cuál es la estación de metro más cercana al Viejo Montreal, en la Place d'Armes?

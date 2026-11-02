@@ -1,59 +1,85 @@
 ---
-title: "Taiwan Coal Mine Museum: Pingxi Travel Guide (4.3★)"
-description: "The Taiwan Coal Mine Museum in Pingxi sits above Xinping Creek in Xinliao Village, a short uphill walk or shuttle ride from Jingtong Old Street. 4.3★ (1,491 reviews) — what visitors say, hours, and tips."
-country: "Taiwan"
-region: "Pingxi"
-category: "attraction"
-pubDate: "2026-09-11T07:50:38.213Z"
+title: 'Taiwan Coal Mine Museum: Pingxi Travel Guide (4.3★)'
+description: >-
+  The Taiwan Coal Mine Museum in Pingxi sits above Xinping Creek in Xinliao
+  Village, a short uphill walk or shuttle ride from Jingtong Old Street. 4.3★
+  (1,518 reviews) — what visitors say, hours, and tips.
+country: Taiwan
+region: Pingxi
+category: attraction
+pubDate: '2026-09-11T07:50:38.213Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/New_Pinghsi_Coal_Tunnel.JPG/1920px-New_Pinghsi_Coal_Tunnel.JPG"
-  credit: "Photo: SSR2000 / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:New_Pinghsi_Coal_Tunnel.JPG"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/New_Pinghsi_Coal_Tunnel.JPG/1920px-New_Pinghsi_Coal_Tunnel.JPG
+  credit: 'Photo: SSR2000 / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:New_Pinghsi_Coal_Tunnel.JPG'
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/21029496_TX9BtU4bQyW8_64Z_q9Wp-tIt-xjB7F5xVDlSy62eFw.jpg"
-    credit: "Photo: Foursquare user content (Coal Mine Museum (新平溪煤礦博物園區))"
-    license: "foursquare"
-    source: "https://foursquare.com/v/4d7c46967498a1cd1f437bfc"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/21029496_TX9BtU4bQyW8_64Z_q9Wp-tIt-xjB7F5xVDlSy62eFw.jpg
+    credit: 'Photo: Foursquare user content (Coal Mine Museum (新平溪煤礦博物園區))'
+    license: foursquare
+    source: 'https://foursquare.com/v/4d7c46967498a1cd1f437bfc'
 place:
-  id: "ChIJsYkJHvtQXTQR39h4dY1NC0s"
-  name: "Taiwan Coal Mine Museum"
-  address: "No. 子5號, Xinliao Village, Pingxi District, New Taipei City, Taiwan 226"
+  id: ChIJsYkJHvtQXTQR39h4dY1NC0s
+  name: Taiwan Coal Mine Museum
+  address: 'No. 子5號, Xinliao Village, Pingxi District, New Taipei City, Taiwan 226'
   rating: 4.3
-  userRatingsTotal: 1491
-  googleMapsUrl: "https://maps.google.com/?cid=5407501047544994015&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1518
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5407501047544994015&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 25.0524472
   lng: 121.7732472
-  phone: "+886 2 2495 8680"
+  phone: +886 2 2495 8680
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: Closed"
-    - "Wednesday: 9:00 AM – 5:00 PM"
-    - "Thursday: 9:00 AM – 5:00 PM"
-    - "Friday: 9:00 AM – 5:00 PM"
-    - "Saturday: 9:00 AM – 5:00 PM"
-    - "Sunday: 9:00 AM – 5:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 9:00 AM – 5:00 PM'
+    - 'Thursday: 9:00 AM – 5:00 PM'
+    - 'Friday: 9:00 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 5:00 PM'
+    - 'Sunday: 9:00 AM – 5:00 PM'
 tags:
-  - "pingxi"
-  - "museum"
-quickAnswer: "The Taiwan Coal Mine Museum in Pingxi sits above Xinping Creek in Xinliao Village, a short uphill walk or shuttle ride from Jingtong Old Street. It's open Wednesday to Sunday, 9am to 5pm, and closed Monday and Tuesday, so plan your Pingxi Line day trip around that. Budget 90 minutes to two hours for the tunnel train ride, machinery yard and old miners' quarters."
+  - pingxi
+  - museum
+quickAnswer: >-
+  The Taiwan Coal Mine Museum in Pingxi sits above Xinping Creek in Xinliao
+  Village, a short uphill walk or shuttle ride from Jingtong Old Street. It's
+  open Wednesday to Sunday, 9am to 5pm, and closed Monday and Tuesday, so plan
+  your Pingxi Line day trip around that. Budget 90 minutes to two hours for the
+  tunnel train ride, machinery yard and old miners' quarters.
 faq:
-  - q: "How do I get to the Taiwan Coal Mine Museum without a car?"
-    a: "Take the Pingxi Line train to Jingtong Station, the last stop from Ruifang, then walk uphill about 20-30 minutes or take a short taxi ride. A local weekend shuttle sometimes runs from the old street too."
-  - q: "What days is the museum open?"
-    a: "Wednesday through Sunday, 9am to 5pm. It's closed both Monday and Tuesday, so avoid planning your visit on those days."
-  - q: "How long should I spend at the museum?"
-    a: "Plan on at least 90 minutes to two hours to cover the mine entrance, tunnel train ride, machinery yard and the old dormitory and bathhouse buildings."
-  - q: "Is the museum worth combining with Shifen or Jiufen in one day?"
-    a: "Yes, since it's on the same Pingxi Line. Visit the museum first thing after opening, then head to Shifen's waterfall or Pingxi Old Street in the afternoon before it closes at 5pm."
-  - q: "Is the site accessible or is there a lot of walking?"
-    a: "Expect steep paths and stairs connecting different levels of the hillside site, plus a walk up from Jingtong Station itself. Wear shoes with good grip, especially after rain."
+  - q: How do I get to the Taiwan Coal Mine Museum without a car?
+    a: >-
+      Take the Pingxi Line train to Jingtong Station, the last stop from
+      Ruifang, then walk uphill about 20-30 minutes or take a short taxi ride. A
+      local weekend shuttle sometimes runs from the old street too.
+  - q: What days is the museum open?
+    a: >-
+      Wednesday through Sunday, 9am to 5pm. It's closed both Monday and Tuesday,
+      so avoid planning your visit on those days.
+  - q: How long should I spend at the museum?
+    a: >-
+      Plan on at least 90 minutes to two hours to cover the mine entrance,
+      tunnel train ride, machinery yard and the old dormitory and bathhouse
+      buildings.
+  - q: Is the museum worth combining with Shifen or Jiufen in one day?
+    a: >-
+      Yes, since it's on the same Pingxi Line. Visit the museum first thing
+      after opening, then head to Shifen's waterfall or Pingxi Old Street in the
+      afternoon before it closes at 5pm.
+  - q: Is the site accessible or is there a lot of walking?
+    a: >-
+      Expect steep paths and stairs connecting different levels of the hillside
+      site, plus a walk up from Jingtong Station itself. Wear shoes with good
+      grip, especially after rain.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-02'
 ---
 
 Most visitors doing the Pingxi Line hit Shifen for the waterfall and Jiufen for the lantern-lit alleys, and skip the one stop that actually explains what this whole valley was built for. The Taiwan Coal Mine Museum sits on the site of the former Cifen Sub-mine, up a steep access road above Jingtong Old Street, and it's the closest thing on the line to an open-air industrial park rather than a polished exhibit hall.

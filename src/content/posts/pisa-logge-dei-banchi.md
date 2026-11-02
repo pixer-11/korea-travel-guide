@@ -1,44 +1,51 @@
 ---
-title: "Logge dei Banchi: Pisa Travel Guide (4.3★)"
-description: "Logge dei Banchi is an open stone loggia in central Pisa, on Via di Banchi at the south end of Ponte di Mezzo, where Corso Italia meets the Arno. 4.3★ (1,316 reviews) — what visitors say, hours, and tips."
-country: "Italy"
-region: "Pisa"
-category: "hidden-gem"
-pubDate: "2026-09-26T07:43:12.165Z"
+title: 'Logge dei Banchi: Pisa Travel Guide (4.3★)'
+description: >-
+  Logge dei Banchi is an open stone loggia in central Pisa, on Via di Banchi at
+  the south end of Ponte di Mezzo, where Corso Italia meets the Arno. 4.3★
+  (1,324 reviews) — what visitors say, hours, and tips.
+country: Italy
+region: Pisa
+category: hidden-gem
+pubDate: '2026-09-26T07:43:12.165Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/d/d4/Logge_di_Banchi_di_Pisa_al_crepuscolo.jpg"
-  credit: "Photo: Ed Webster / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Logge_di_Banchi_di_Pisa_al_crepuscolo.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/d/d4/Logge_di_Banchi_di_Pisa_al_crepuscolo.jpg
+  credit: 'Photo: Ed Webster / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Logge_di_Banchi_di_Pisa_al_crepuscolo.jpg
+  via: act
   focus:
     x: 38
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/3/37/Loggia_dei_banchi_03.JPG"
-    credit: "Photo: sailko / Wikimedia Commons (CC BY 2.5)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Loggia_dei_banchi_03.JPG"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/3/37/Loggia_dei_banchi_03.JPG
+    credit: 'Photo: sailko / Wikimedia Commons (CC BY 2.5)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Loggia_dei_banchi_03.JPG'
 place:
-  id: "ChIJmS9EwZiR1RIR4_aE6T1r-Ww"
-  name: "Logge dei Banchi"
-  address: "Via di Banchi, 5, 56125 Pisa PI, Italy"
+  id: ChIJmS9EwZiR1RIR4_aE6T1r-Ww
+  name: Logge dei Banchi
+  address: 'Via di Banchi, 5, 56125 Pisa PI, Italy'
   rating: 4.3
-  userRatingsTotal: 1316
-  googleMapsUrl: "https://maps.google.com/?cid=7852425338952152803&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1324
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=7852425338952152803&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 43.7153104
   lng: 10.401461999999999
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-09-26
+    updated: 2026-09-26T00:00:00.000Z
     weekendQuiet:
       - 7
     weekendBusy:
@@ -54,24 +61,40 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_77572d7231543645615f345249523152695a774539536d4a496843"
+    venueId: ven_77572d7231543645615f345249523152695a774539536d4a496843
 tags:
-  - "pisa"
-  - "local market"
-quickAnswer: "Logge dei Banchi is an open stone loggia in central Pisa, on Via di Banchi at the south end of Ponte di Mezzo, where Corso Italia meets the Arno. It is free and open around the clock. On weekends it is calmest from 7am to 8am and busiest from 11am to 11pm."
+  - pisa
+  - local market
+quickAnswer: >-
+  Logge dei Banchi is an open stone loggia in central Pisa, on Via di Banchi at
+  the south end of Ponte di Mezzo, where Corso Italia meets the Arno. It is free
+  and open around the clock. On weekends it is calmest from 7am to 8am and
+  busiest from 11am to 11pm.
 faq:
-  - q: "When is the quietest time to visit Logge dei Banchi?"
-    a: "On weekends, the quietest window is 7am to 8am. Try not to come between 11am and 11pm on Saturdays and Sundays, when crowds from Corso Italia fill the arcade."
-  - q: "How do I get there from Pisa Centrale station?"
-    a: "Walk north up Corso Italia for about 15 minutes. The loggia is on the left at Via di Banchi 5, just before Ponte di Mezzo."
-  - q: "Is it open at night?"
-    a: "Yes. It is an open-sided public arcade, listed as open 24 hours every day. The riverfront beside it makes a good evening stroll."
-  - q: "How long should I spend there?"
-    a: "Ten to fifteen minutes is enough for the arcade itself. Add time for Palazzo Gambacorti opposite and a walk along the Lungarno."
-  - q: "Is it far from the Leaning Tower?"
-    a: "It is about a 20-minute walk. Cross Ponte di Mezzo and follow Borgo Stretto north to Piazza dei Miracoli."
+  - q: When is the quietest time to visit Logge dei Banchi?
+    a: >-
+      On weekends, the quietest window is 7am to 8am. Try not to come between
+      11am and 11pm on Saturdays and Sundays, when crowds from Corso Italia fill
+      the arcade.
+  - q: How do I get there from Pisa Centrale station?
+    a: >-
+      Walk north up Corso Italia for about 15 minutes. The loggia is on the left
+      at Via di Banchi 5, just before Ponte di Mezzo.
+  - q: Is it open at night?
+    a: >-
+      Yes. It is an open-sided public arcade, listed as open 24 hours every day.
+      The riverfront beside it makes a good evening stroll.
+  - q: How long should I spend there?
+    a: >-
+      Ten to fifteen minutes is enough for the arcade itself. Add time for
+      Palazzo Gambacorti opposite and a walk along the Lungarno.
+  - q: Is it far from the Leaning Tower?
+    a: >-
+      It is about a 20-minute walk. Cross Ponte di Mezzo and follow Borgo
+      Stretto north to Piazza dei Miracoli.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-02'
 ---
 
 ## A Medici trading hall on the river

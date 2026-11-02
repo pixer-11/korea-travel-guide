@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: kanchanaburi-river-kwai-bridge
-srcHash: 'cd0fef4b6348'
+srcHash: '44c6664b7283'
 title: 'Puente sobre el río Kwai: guía de viaje de Kanchanaburi (4.6★)'
-description: El puente sobre el río Kwai se encuentra en Maenamkwai Road, en el extremo norte de Kanchanaburi y a unos 3 km del Cementerio de Guerra, y se puede cruzar a pie a cualquier hora. Con 4.6★ (15,150 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y algunos consejos.
+description: El puente sobre el río Kwai se encuentra en Maenamkwai Road, en el extremo norte de Kanchanaburi y a unos 3 km del Cementerio de Guerra, y se puede cruzar a pie a cualquier hora. Con 4.6★ (15,153 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y algunos consejos.
 quickAnswer: En el extremo norte de Kanchanaburi, sobre Maenamkwai Road y a unos 3 km del Cementerio de Guerra, se alza el puente sobre el río Kwai, que puede recorrerse a pie a cualquier hora. Si quiere tener las vías prácticamente para usted solo, vaya entre semana de 7am a 9am, o de 7am a 8am el fin de semana. Los sábados y domingos entre las 9am y las 8pm conviene evitarlo, porque es cuando más gente se concentra.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el puente sobre el río Kwai?

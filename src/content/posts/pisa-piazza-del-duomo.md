@@ -1,60 +1,86 @@
 ---
-title: "Piazza del Duomo: Pisa Travel Guide (4.7★)"
-description: "Piazza del Duomo in Pisa, also called the Piazza dei Miracoli, is a walled lawn in the city's northwest corner holding the Leaning Tower, the cathedral, the Baptistery and the Camposanto. 4.7★ (142,697 reviews) — what visitors say, hours, and tips."
-country: "Italy"
-region: "Pisa"
-category: "hidden-gem"
-pubDate: "2026-09-28T15:51:45.168Z"
+title: 'Piazza del Duomo: Pisa Travel Guide (4.7★)'
+description: >-
+  Piazza del Duomo in Pisa, also called the Piazza dei Miracoli, is a walled
+  lawn in the city's northwest corner holding the Leaning Tower, the cathedral,
+  the Baptistery and the Camposanto. 4.7★ (143,453 reviews) — what visitors say,
+  hours, and tips.
+country: Italy
+region: Pisa
+category: hidden-gem
+pubDate: '2026-09-28T15:51:45.168Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Piazza_del_Duomo%2C_Pisa_-_panoramio.jpg/3840px-Piazza_del_Duomo%2C_Pisa_-_panoramio.jpg"
-  credit: "Photo: qwesy qwesy / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Piazza_del_Duomo,_Pisa_-_panoramio.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Piazza_del_Duomo%2C_Pisa_-_panoramio.jpg/3840px-Piazza_del_Duomo%2C_Pisa_-_panoramio.jpg
+  credit: 'Photo: qwesy qwesy / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Piazza_del_Duomo,_Pisa_-_panoramio.jpg
+  via: act
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Piazza_del_Duomo_Pisa_1.jpg/3840px-Piazza_del_Duomo_Pisa_1.jpg"
-    credit: "Photo: kallerna / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Piazza_del_Duomo_Pisa_1.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Piazza_del_Duomo_Pisa_1.jpg/3840px-Piazza_del_Duomo_Pisa_1.jpg
+    credit: 'Photo: kallerna / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Piazza_del_Duomo_Pisa_1.jpg'
 place:
-  id: "ChIJi3qta6eR1RIRmH8uMC615Es"
-  name: "Piazza del Duomo"
-  address: "Piazza del Duomo, 56126 Pisa PI, Italy"
+  id: ChIJi3qta6eR1RIRmH8uMC615Es
+  name: Piazza del Duomo
+  address: 'Piazza del Duomo, 56126 Pisa PI, Italy'
   rating: 4.7
-  userRatingsTotal: 142697
-  googleMapsUrl: "https://maps.google.com/?cid=5468695057516101528&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 143453
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5468695057516101528&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 43.723225199999995
   lng: 10.3947238
-  phone: "+39 050 835011"
+  phone: +39 050 835011
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "pisa"
-  - "old quarter"
-quickAnswer: "Piazza del Duomo in Pisa, also called the Piazza dei Miracoli, is a walled lawn in the city's northwest corner holding the Leaning Tower, the cathedral, the Baptistery and the Camposanto. The square itself is open 24 hours. The monuments have their own hours and timed tickets, so book the tower slot on the official Opera della Primaziale Pisana site before you arrive, and walk over from Pisa San Rossore station, the closest stop."
+  - pisa
+  - old quarter
+quickAnswer: >-
+  Piazza del Duomo in Pisa, also called the Piazza dei Miracoli, is a walled
+  lawn in the city's northwest corner holding the Leaning Tower, the cathedral,
+  the Baptistery and the Camposanto. The square itself is open 24 hours. The
+  monuments have their own hours and timed tickets, so book the tower slot on
+  the official Opera della Primaziale Pisana site before you arrive, and walk
+  over from Pisa San Rossore station, the closest stop.
 faq:
-  - q: "What is the closest train station to Piazza del Duomo in Pisa?"
-    a: "Pisa San Rossore, a few minutes' walk from the western gate. From Pisa Centrale it is about 2 km, roughly a 25-minute walk north across the Arno."
-  - q: "Is Piazza del Duomo open at night?"
-    a: "Yes, the square is open 24 hours every day. The tower, cathedral, Baptistery and Camposanto keep their own shorter hours, so check the official Opera della Primaziale Pisana site."
-  - q: "Do I need to book the Leaning Tower in advance?"
-    a: "It is strongly advised. Entry is by timed slot with limited places. Bags must go into the cloakroom, and children under eight cannot climb."
-  - q: "How long should I spend at Piazza del Duomo?"
-    a: "About two hours covers the tower climb and the cathedral. Allow half a day for all four monuments plus the museums and a walk on the city walls."
-  - q: "Can I walk on the grass?"
-    a: "No. The lawns are roped off and guards enforce it, so take photos from the paved paths."
+  - q: What is the closest train station to Piazza del Duomo in Pisa?
+    a: >-
+      Pisa San Rossore, a few minutes' walk from the western gate. From Pisa
+      Centrale it is about 2 km, roughly a 25-minute walk north across the Arno.
+  - q: Is Piazza del Duomo open at night?
+    a: >-
+      Yes, the square is open 24 hours every day. The tower, cathedral,
+      Baptistery and Camposanto keep their own shorter hours, so check the
+      official Opera della Primaziale Pisana site.
+  - q: Do I need to book the Leaning Tower in advance?
+    a: >-
+      It is strongly advised. Entry is by timed slot with limited places. Bags
+      must go into the cloakroom, and children under eight cannot climb.
+  - q: How long should I spend at Piazza del Duomo?
+    a: >-
+      About two hours covers the tower climb and the cathedral. Allow half a day
+      for all four monuments plus the museums and a walk on the city walls.
+  - q: Can I walk on the grass?
+    a: >-
+      No. The lawns are roped off and guards enforce it, so take photos from the
+      paved paths.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-02'
 ---
 
 ## Four buildings on one lawn

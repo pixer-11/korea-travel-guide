@@ -1,40 +1,49 @@
 ---
-title: "Piazza dei Cavalieri: Pisa Travel Guide (4.6★)"
-description: "Piazza dei Cavalieri is Pisa's second square, a five-minute walk from the Leaning Tower, and it's calmest between 7am and 9am on weekdays (7am–10am weekends) before tour groups arrive. 4.6★ (12,114 reviews) — what visitors say, hours, and tips."
-country: "Italy"
-region: "Pisa"
-category: "hidden-gem"
-pubDate: "2026-08-14T08:46:45.341Z"
+title: 'Piazza dei Cavalieri: Pisa Travel Guide (4.6★)'
+description: >-
+  Piazza dei Cavalieri is Pisa's second square, a five-minute walk from the
+  Leaning Tower, and it's calmest between 7am and 9am on weekdays (7am–10am
+  weekends) before tour groups arrive. 4.6★ (12,311 reviews) — what visitors
+  say, hours, and tips.
+country: Italy
+region: Pisa
+category: hidden-gem
+pubDate: '2026-08-14T08:46:45.341Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Pisa%2C_palazzo_della_carovana_00_piazza_dei_cavalieri.jpg/1920px-Pisa%2C_palazzo_della_carovana_00_piazza_dei_cavalieri.jpg"
-  credit: "Photo: Sailko / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Pisa,_palazzo_della_carovana_00_piazza_dei_cavalieri.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Pisa%2C_palazzo_della_carovana_00_piazza_dei_cavalieri.jpg/1920px-Pisa%2C_palazzo_della_carovana_00_piazza_dei_cavalieri.jpg
+  credit: 'Photo: Sailko / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Pisa,_palazzo_della_carovana_00_piazza_dei_cavalieri.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Pisa_-_Piazza_dei_Cavalieri_Antique_Market.jpg/3840px-Pisa_-_Piazza_dei_Cavalieri_Antique_Market.jpg"
-    credit: "Photo: Sumit Surai / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Pisa_-_Piazza_dei_Cavalieri_Antique_Market.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Pisa_-_Piazza_dei_Cavalieri_Antique_Market.jpg/3840px-Pisa_-_Piazza_dei_Cavalieri_Antique_Market.jpg
+    credit: 'Photo: Sumit Surai / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Pisa_-_Piazza_dei_Cavalieri_Antique_Market.jpg
 place:
-  id: "ChIJ020hgKGR1RIRKbxqIDxK3aU"
-  name: "Piazza dei Cavalieri"
-  address: "P.za dei Cavalieri, 56126 Pisa PI, Italy"
+  id: ChIJ020hgKGR1RIRKbxqIDxK3aU
+  name: Piazza dei Cavalieri
+  address: 'P.za dei Cavalieri, 56126 Pisa PI, Italy'
   rating: 4.6
-  userRatingsTotal: 12114
-  googleMapsUrl: "https://maps.google.com/?cid=11951790608213523497&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 12311
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=11951790608213523497&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 43.7194322
   lng: 10.400027699999999
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-08-14
+    updated: 2026-08-14T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -63,24 +72,43 @@ place:
       - 18
       - 19
       - 20
-    venueId: "ven_5561334b7844497178624b5249523152474b67683032304a496843"
+    venueId: ven_5561334b7844497178624b5249523152474b67683032304a496843
 tags:
-  - "pisa"
-  - "hidden gem"
-quickAnswer: "Piazza dei Cavalieri is Pisa's second square, a five-minute walk from the Leaning Tower, and it's calmest between 7am and 9am on weekdays (7am–10am weekends) before tour groups arrive. It's open around the clock and free to walk through, though the Palazzo della Carovana and Santo Stefano church have their own visiting hours. Give it 20-30 minutes, more if you linger over a coffee at the edge of the piazza."
+  - pisa
+  - hidden gem
+quickAnswer: >-
+  Piazza dei Cavalieri is Pisa's second square, a five-minute walk from the
+  Leaning Tower, and it's calmest between 7am and 9am on weekdays (7am–10am
+  weekends) before tour groups arrive. It's open around the clock and free to
+  walk through, though the Palazzo della Carovana and Santo Stefano church have
+  their own visiting hours. Give it 20-30 minutes, more if you linger over a
+  coffee at the edge of the piazza.
 faq:
-  - q: "How do I get to Piazza dei Cavalieri from the Leaning Tower?"
-    a: "It's about a 5-minute walk south, roughly 400 meters via Via Santa Maria or Via dei Mille — no bus or taxi needed."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays 7am–9am and weekends 7am–10am are the calmest windows; avoid weekends between 11am and 9pm, when day-trippers pack the square."
-  - q: "Is there an entrance fee?"
-    a: "No, the piazza itself is a free public square open 24 hours. Nearby buildings like Santo Stefano church may have separate visiting hours and possible fees — check locally before you go."
-  - q: "How long should I spend here?"
-    a: "20–30 minutes covers the highlights, though an hour lets you linger over coffee and take in the Vasari facade properly."
-  - q: "What else is nearby?"
-    a: "The Botanical Garden of Pisa, one of Europe's oldest, is a short walk away, along with student cafés and trattorias serving local dishes like cecina."
+  - q: How do I get to Piazza dei Cavalieri from the Leaning Tower?
+    a: >-
+      It's about a 5-minute walk south, roughly 400 meters via Via Santa Maria
+      or Via dei Mille — no bus or taxi needed.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekdays 7am–9am and weekends 7am–10am are the calmest windows; avoid
+      weekends between 11am and 9pm, when day-trippers pack the square.
+  - q: Is there an entrance fee?
+    a: >-
+      No, the piazza itself is a free public square open 24 hours. Nearby
+      buildings like Santo Stefano church may have separate visiting hours and
+      possible fees — check locally before you go.
+  - q: How long should I spend here?
+    a: >-
+      20–30 minutes covers the highlights, though an hour lets you linger over
+      coffee and take in the Vasari facade properly.
+  - q: What else is nearby?
+    a: >-
+      The Botanical Garden of Pisa, one of Europe's oldest, is a short walk
+      away, along with student cafés and trattorias serving local dishes like
+      cecina.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-02'
 ---
 
 ## Why bother with a second square

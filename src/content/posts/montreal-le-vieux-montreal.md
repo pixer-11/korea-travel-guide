@@ -1,51 +1,84 @@
 ---
-title: "Le Vieux Montréal: Montreal Travel Guide (4.7★)"
-description: "Le Vieux Montréal, the old quarter of Montreal, is pinned on this listing at Place d'Armes, the square facing Notre-Dame Basilica. 4.7★ (710 reviews) — what visitors say, hours, and tips."
-country: "Canada"
-region: "Montreal"
-category: "hidden-gem"
-pubDate: "2026-11-02T08:01:29.886Z"
+title: 'Le Vieux Montréal: Montreal Travel Guide (4.7★)'
+description: >-
+  Le Vieux Montréal, the old quarter of Montreal, is pinned on this listing at
+  Place d'Armes, the square facing Notre-Dame Basilica. 4.7★ (711 reviews) —
+  what visitors say, hours, and tips.
+country: Canada
+region: Montreal
+category: hidden-gem
+pubDate: '2026-11-02T08:01:29.886Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Old_Port_in_Old_Montreal._-_Le_Vieux-Port_dans_le_Vieux-Montr%C3%A9al_-_panoramio.jpg/3840px-Old_Port_in_Old_Montreal._-_Le_Vieux-Port_dans_le_Vieux-Montr%C3%A9al_-_panoramio.jpg"
-  credit: "Photo: Richard Mc Neil / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Old_Port_in_Old_Montreal._-_Le_Vieux-Port_dans_le_Vieux-Montr%C3%A9al_-_panoramio.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Old_Port_in_Old_Montreal._-_Le_Vieux-Port_dans_le_Vieux-Montr%C3%A9al_-_panoramio.jpg/3840px-Old_Port_in_Old_Montreal._-_Le_Vieux-Port_dans_le_Vieux-Montr%C3%A9al_-_panoramio.jpg
+  credit: 'Photo: Richard Mc Neil / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Old_Port_in_Old_Montreal._-_Le_Vieux-Port_dans_le_Vieux-Montr%C3%A9al_-_panoramio.jpg
+  via: act
   focus:
     x: 40
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/f/f6/A_look_through_Old_Montreal._-_Coup_d%27oeil_furtif_sur_le_Vieux_Montr%C3%A9al_-_panoramio.jpg"
-    credit: "Photo: Richard Mc Neil / Wikimedia Commons (CC BY 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:A_look_through_Old_Montreal._-_Coup_d%27oeil_furtif_sur_le_Vieux_Montr%C3%A9al_-_panoramio.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/f/f6/A_look_through_Old_Montreal._-_Coup_d%27oeil_furtif_sur_le_Vieux_Montr%C3%A9al_-_panoramio.jpg
+    credit: 'Photo: Richard Mc Neil / Wikimedia Commons (CC BY 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:A_look_through_Old_Montreal._-_Coup_d%27oeil_furtif_sur_le_Vieux_Montr%C3%A9al_-_panoramio.jpg
 place:
-  id: "ChIJh1YSIMUbyUwRHVwTXcJ14-s"
-  name: "Le Vieux Montréal"
-  address: "Pl. d'Armes suite 1800, Montréal, QC H2Y 2W2, Canada"
+  id: ChIJh1YSIMUbyUwRHVwTXcJ14-s
+  name: Le Vieux Montréal
+  address: 'Pl. d''Armes suite 1800, Montréal, QC H2Y 2W2, Canada'
   rating: 4.7
-  userRatingsTotal: 710
-  googleMapsUrl: "https://maps.google.com/?cid=16997558896272038941&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 711
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16997558896272038941&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 45.507453399999996
   lng: -73.5544177
 tags:
-  - "montreal"
-  - "old quarter"
-quickAnswer: "Le Vieux Montréal, the old quarter of Montreal, is pinned on this listing at Place d'Armes, the square facing Notre-Dame Basilica. Take the Orange Line to Place-d'Armes metro station and walk a few minutes downhill. Plan two to four hours to cover the square, Rue Saint-Paul, Place Jacques-Cartier and the Old Port on foot."
+  - montreal
+  - old quarter
+quickAnswer: >-
+  Le Vieux Montréal, the old quarter of Montreal, is pinned on this listing at
+  Place d'Armes, the square facing Notre-Dame Basilica. Take the Orange Line to
+  Place-d'Armes metro station and walk a few minutes downhill. Plan two to four
+  hours to cover the square, Rue Saint-Paul, Place Jacques-Cartier and the Old
+  Port on foot.
 faq:
-  - q: "What is the nearest metro station to Le Vieux Montréal at Place d'Armes?"
-    a: "Place-d'Armes station on the Orange Line (Line 2) is the closest. It is a short walk south down Côte de la Place-d'Armes to the square. Champ-de-Mars and Square-Victoria–OACI, both also on the Orange Line, serve the eastern and western ends of Old Montreal."
-  - q: "How long should I spend in Old Montreal?"
-    a: "Allow two to four hours to walk from Place d'Armes past City Hall, down Place Jacques-Cartier and Rue Saint-Paul to the Old Port. Make it a full day if you want to go inside Notre-Dame Basilica, Pointe-à-Callière or Château Ramezay."
-  - q: "What is there to see on Place d'Armes itself?"
-    a: "You'll find Notre-Dame Basilica, the Old Saint-Sulpice Seminary from the 1680s, the domed Bank of Montreal head office with its small museum, the 1888 New York Life Building, the Art Deco Aldred Building, and the Maisonneuve monument in the centre."
-  - q: "Do I need to speak French in Old Montreal?"
-    a: "No. Staff usually greet you with \"Bonjour-Hi\" and switch to English if you reply in English. Opening with \"bonjour\" is still a polite habit that people appreciate."
-  - q: "Is Old Montreal worth visiting in winter?"
-    a: "Yes, if you dress for real cold and watch your step on icy cobbles. The streets are quieter than in summer, and indoor stops like the basilica and Pointe-à-Callière make good breaks. Check the official sites for each venue's current seasonal hours."
+  - q: What is the nearest metro station to Le Vieux Montréal at Place d'Armes?
+    a: >-
+      Place-d'Armes station on the Orange Line (Line 2) is the closest. It is a
+      short walk south down Côte de la Place-d'Armes to the square.
+      Champ-de-Mars and Square-Victoria–OACI, both also on the Orange Line,
+      serve the eastern and western ends of Old Montreal.
+  - q: How long should I spend in Old Montreal?
+    a: >-
+      Allow two to four hours to walk from Place d'Armes past City Hall, down
+      Place Jacques-Cartier and Rue Saint-Paul to the Old Port. Make it a full
+      day if you want to go inside Notre-Dame Basilica, Pointe-à-Callière or
+      Château Ramezay.
+  - q: What is there to see on Place d'Armes itself?
+    a: >-
+      You'll find Notre-Dame Basilica, the Old Saint-Sulpice Seminary from the
+      1680s, the domed Bank of Montreal head office with its small museum, the
+      1888 New York Life Building, the Art Deco Aldred Building, and the
+      Maisonneuve monument in the centre.
+  - q: Do I need to speak French in Old Montreal?
+    a: >-
+      No. Staff usually greet you with "Bonjour-Hi" and switch to English if you
+      reply in English. Opening with "bonjour" is still a polite habit that
+      people appreciate.
+  - q: Is Old Montreal worth visiting in winter?
+    a: >-
+      Yes, if you dress for real cold and watch your step on icy cobbles. The
+      streets are quieter than in summer, and indoor stops like the basilica and
+      Pointe-à-Callière make good breaks. Check the official sites for each
+      venue's current seasonal hours.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-02'
 ---
 
 Stand in the middle of Place d'Armes and turn slowly. In one full turn you take in close to three centuries of Montreal building: a Gothic Revival church front, a 17th-century seminary wall, a domed neoclassical bank and two early office towers. This listing is pinned to that square, and the square is the best place to begin Old Montreal.

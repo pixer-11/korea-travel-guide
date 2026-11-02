@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: playa-del-carmen-el-castillo
-srcHash: '88fb94f1c922'
+srcHash: '24c2d960e2ad'
 title: 'El Castillo: guía de viaje de Mérida (4.9★)'
-description: En el centro de Chichén Itzá, en Tinum (Yucatán), se alza la pirámide escalonada de El Castillo, a unas dos horas y media o tres de carretera desde Playa del Carmen. Tiene una valoración de 4.9★ (25,151 reseñas). Aquí encontrará las opiniones de los visitantes, los horarios y algunos consejos.
+description: En el centro de Chichén Itzá, en Tinum (Yucatán), se alza la pirámide escalonada de El Castillo, a unas dos horas y media o tres de carretera desde Playa del Carmen. Tiene una valoración de 4.9★ (25,245 reseñas). Aquí encontrará las opiniones de los visitantes, los horarios y algunos consejos.
 quickAnswer: En el centro de Chichén Itzá, en Tinum (Yucatán), se alza la pirámide escalonada de El Castillo. Queda a unas dos horas y media o tres de carretera desde Playa del Carmen, así que se visita bien en una excursión de un día. La zona arqueológica abre todos los días de 8am a 4pm. La franja más tranquila es la de 8am–9am, cualquier día de la semana. Los fines de semana hay mucha gente de 10am a 4pm.
 faq:
   - q: ¿A qué distancia está El Castillo de Playa del Carmen?

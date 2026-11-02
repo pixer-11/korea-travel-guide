@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: pisac-mercado-artesanal-de-pisac
-srcHash: '4a0c35b32562'
+srcHash: '635b704f1484'
 title: 'Mercado Artesanal de Písac: guía de viaje de Pisac (4.4★)'
-description: 'En Pisac, un pueblo del Valle Sagrado a aproximadamente una hora en coche de Cusco, el Mercado Artesanal de Písac ocupa las calles que rodean la plaza principal con puestos de tejidos de alpaca, cerámica y plata. 4.4★ (2,257 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En Pisac, un pueblo del Valle Sagrado a aproximadamente una hora en coche de Cusco, el Mercado Artesanal de Písac ocupa las calles que rodean la plaza principal con puestos de tejidos de alpaca, cerámica y plata. 4.4★ (2,259 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En Pisac, un pueblo del Valle Sagrado situado a aproximadamente una hora en coche de Cusco, el Mercado Artesanal de Písac llena de puestos las calles que rodean la plaza principal. Allí se venden tejidos de alpaca, cerámica y plata. Actualmente abre todos los días de 9am a 5pm. Si lo combina con las ruinas incas que coronan la loma sobre el pueblo, tendrá una excursión perfecta de medio día.
 faq:
   - q: ¿Cuál es el horario del mercado?

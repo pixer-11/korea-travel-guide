@@ -1,55 +1,83 @@
 ---
-title: "Punta Mesco: Cinque Terre Travel Guide (4.7★)"
-description: "Punta Mesco is the wooded headland at the western end of Monterosso al Mare in the Cinque Terre. From the top you can see the coastline of all five villages. 4.7★ (318 reviews) — what visitors say, hours, and tips."
-country: "Italy"
-region: "Cinque Terre"
-category: "hidden-gem"
-pubDate: "2026-11-02T08:01:30.930Z"
+title: 'Punta Mesco: Cinque Terre Travel Guide (4.7★)'
+description: >-
+  Punta Mesco is the wooded headland at the western end of Monterosso al Mare in
+  the Cinque Terre. From the top you can see the coastline of all five villages.
+  4.7★ (319 reviews) — what visitors say, hours, and tips.
+country: Italy
+region: Cinque Terre
+category: hidden-gem
+pubDate: '2026-11-02T08:01:30.930Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/4/46/Fortezza_e_Punta_Mesco_-_Convento_Frati_Cappuccini_Monterosso_al_Mare_-_Cinque_Terre.jpg"
-  credit: "Photo: GIANFRANCO NEGRI / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Fortezza_e_Punta_Mesco_-_Convento_Frati_Cappuccini_Monterosso_al_Mare_-_Cinque_Terre.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/4/46/Fortezza_e_Punta_Mesco_-_Convento_Frati_Cappuccini_Monterosso_al_Mare_-_Cinque_Terre.jpg
+  credit: 'Photo: GIANFRANCO NEGRI / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Fortezza_e_Punta_Mesco_-_Convento_Frati_Cappuccini_Monterosso_al_Mare_-_Cinque_Terre.jpg
+  via: act
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery: []
 place:
-  id: "ChIJw9Hbivfx1BIRG_U0GKnaoas"
-  name: "Punta Mesco"
-  address: "19015 Monterosso al Mare, SP, Italy"
+  id: ChIJw9Hbivfx1BIRG_U0GKnaoas
+  name: Punta Mesco
+  address: '19015 Monterosso al Mare, SP, Italy'
   rating: 4.7
-  userRatingsTotal: 318
-  googleMapsUrl: "https://maps.google.com/?cid=12367406471526544667&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 319
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=12367406471526544667&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 44.1380507
   lng: 9.6350182
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "cinque terre"
-  - "old quarter"
-quickAnswer: "Punta Mesco is the wooded headland at the western end of Monterosso al Mare in the Cinque Terre. From the top you can see the coastline of all five villages. Getting there means a steep climb of roughly an hour on stone steps, starting from Fegina beach on the Monterosso–Levanto trail. Go in the morning in good weather for the clearest views and the coolest climb, and carry your own water because there is nothing to buy at the top."
+  - cinque terre
+  - old quarter
+quickAnswer: >-
+  Punta Mesco is the wooded headland at the western end of Monterosso al Mare in
+  the Cinque Terre. From the top you can see the coastline of all five villages.
+  Getting there means a steep climb of roughly an hour on stone steps, starting
+  from Fegina beach on the Monterosso–Levanto trail. Go in the morning in good
+  weather for the clearest views and the coolest climb, and carry your own water
+  because there is nothing to buy at the top.
 faq:
-  - q: "How do I get to Punta Mesco from Monterosso?"
-    a: "Walk to the western end of Fegina beach, past the Gigante statue, and follow the Monterosso–Levanto trail (path 591) uphill. Monterosso train station is in Fegina, so the trailhead is a short walk from the platform."
-  - q: "How long does the hike take?"
-    a: "Plan on roughly an hour of steep climbing to the hermitage ruins, and a bit less to come down. If you carry on over the ridge to Levanto, the full walk takes about three hours."
-  - q: "Is the trail difficult?"
-    a: "It is steep and mostly stone steps, with loose sections higher up. Anyone reasonably fit can do it with shoes that grip well. It is not suited to sandals, and it is hard going in midday summer heat."
-  - q: "When is the best time to hike to Punta Mesco?"
-    a: "Mornings in spring or autumn are the most comfortable and usually give the clearest views of the coast. Avoid the trail after heavy rain, and check the Cinque Terre National Park site for closures before you set off."
-  - q: "Are there facilities at the top?"
-    a: "No. There are no cafés, water taps or toilets on the headland, only the ruins of the Sant'Antonio hermitage and the old signal station. Bring water and food, and carry your rubbish back down."
+  - q: How do I get to Punta Mesco from Monterosso?
+    a: >-
+      Walk to the western end of Fegina beach, past the Gigante statue, and
+      follow the Monterosso–Levanto trail (path 591) uphill. Monterosso train
+      station is in Fegina, so the trailhead is a short walk from the platform.
+  - q: How long does the hike take?
+    a: >-
+      Plan on roughly an hour of steep climbing to the hermitage ruins, and a
+      bit less to come down. If you carry on over the ridge to Levanto, the full
+      walk takes about three hours.
+  - q: Is the trail difficult?
+    a: >-
+      It is steep and mostly stone steps, with loose sections higher up. Anyone
+      reasonably fit can do it with shoes that grip well. It is not suited to
+      sandals, and it is hard going in midday summer heat.
+  - q: When is the best time to hike to Punta Mesco?
+    a: >-
+      Mornings in spring or autumn are the most comfortable and usually give the
+      clearest views of the coast. Avoid the trail after heavy rain, and check
+      the Cinque Terre National Park site for closures before you set off.
+  - q: Are there facilities at the top?
+    a: >-
+      No. There are no cafés, water taps or toilets on the headland, only the
+      ruins of the Sant'Antonio hermitage and the old signal station. Bring
+      water and food, and carry your rubbish back down.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-02'
 ---
 
 Stand on Fegina beach in Monterosso and look west. A dark green ridge drops straight into the sea, with the concrete Gigante statue carved into the rocks at its foot. That ridge is Punta Mesco. It is the reason Monterosso's long beach curves the way it does, and it is the best free viewpoint over the whole Cinque Terre coast.

@@ -1,58 +1,84 @@
 ---
-title: "pisac: Travel Guide (4.7★)"
-description: "pisac is a small, consistently well-rated viewpoint in Pisac, the Sacred Valley town about an hour's drive from Cusco. It currently opens 8am–3pm."
-country: "Peru"
-region: "Pisac"
-category: "attraction"
-pubDate: "2026-10-27T15:25:14.936Z"
+title: 'pisac: Travel Guide (4.7★)'
+description: >-
+  pisac is a small, consistently well-rated viewpoint in Pisac, the Sacred
+  Valley town about an hour's drive from Cusco. It currently opens 8am–3pm.
+country: Peru
+region: Pisac
+category: attraction
+pubDate: '2026-10-27T15:25:14.936Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Pisac_-_panoramio_%282%29.jpg/1920px-Pisac_-_panoramio_%282%29.jpg"
-  credit: "Photo: Pavel Špindler / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Pisac_-_panoramio_(2).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Pisac_-_panoramio_%282%29.jpg/1920px-Pisac_-_panoramio_%282%29.jpg
+  credit: 'Photo: Pavel Špindler / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Pisac_-_panoramio_(2).jpg'
   focus:
     x: 50
-    y: 55
+    'y': 55
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/15-Pisac-nX-13.jpg/3840px-15-Pisac-nX-13.jpg"
-    credit: "Photo: PsamatheM / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:15-Pisac-nX-13.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/15-Pisac-nX-13.jpg/3840px-15-Pisac-nX-13.jpg
+    credit: 'Photo: PsamatheM / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:15-Pisac-nX-13.jpg'
 place:
-  id: "ChIJ77wxIFVxbpERJxrKY-Xpv5Y"
-  name: "pisac"
-  address: "H5J2+CQP, Pisac 08105, Peru"
+  id: ChIJ77wxIFVxbpERJxrKY-Xpv5Y
+  name: pisac
+  address: 'H5J2+CQP, Pisac 08105, Peru'
   rating: 4.7
-  userRatingsTotal: 110
-  googleMapsUrl: "https://maps.google.com/?cid=10862657997671897639&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 111
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10862657997671897639&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -13.4189234
   lng: -71.848047
   openingHours:
-    - "Monday: 8:00 AM – 3:00 PM"
-    - "Tuesday: 8:00 AM – 3:00 PM"
-    - "Wednesday: 8:00 AM – 3:00 PM"
-    - "Thursday: 8:00 AM – 3:00 PM"
-    - "Friday: 8:00 AM – 3:00 PM"
-    - "Saturday: 8:00 AM – 3:00 PM"
-    - "Sunday: 8:00 AM – 3:00 PM"
+    - 'Monday: 8:00 AM – 3:00 PM'
+    - 'Tuesday: 8:00 AM – 3:00 PM'
+    - 'Wednesday: 8:00 AM – 3:00 PM'
+    - 'Thursday: 8:00 AM – 3:00 PM'
+    - 'Friday: 8:00 AM – 3:00 PM'
+    - 'Saturday: 8:00 AM – 3:00 PM'
+    - 'Sunday: 8:00 AM – 3:00 PM'
 tags:
-  - "pisac"
-  - "viewpoint"
-quickAnswer: "pisac is a small, consistently well-rated viewpoint in Pisac, the Sacred Valley town about an hour's drive from Cusco. It currently opens 8am–3pm. Clouds often build over the valley in the afternoon, especially in the rainy season, so go in the morning. Find it with the plus code H5J2+CQP, give it an hour, then walk down into town for the market."
+  - pisac
+  - viewpoint
+quickAnswer: >-
+  pisac is a small, consistently well-rated viewpoint in Pisac, the Sacred
+  Valley town about an hour's drive from Cusco. It currently opens 8am–3pm.
+  Clouds often build over the valley in the afternoon, especially in the rainy
+  season, so go in the morning. Find it with the plus code H5J2+CQP, give it an
+  hour, then walk down into town for the market.
 faq:
-  - q: "How do I get to the pisac viewpoint from Cusco?"
-    a: "Take a colectivo minivan from the Calle Puputi area of Cusco to Pisac, about an hour's drive, or hire a taxi. In town, show a mototaxi driver the plus code H5J2+CQP on Google Maps, since the spot is listed only as \"pisac\"."
-  - q: "What time should I visit?"
-    a: "It currently opens 8am–3pm, and the hours can change with the seasons, so check first. Mornings are best: in the rainy season, roughly November to March, cloud often builds over the valley by early afternoon."
-  - q: "How long do I need there?"
-    a: "About an hour is enough to take in the view, take photos and catch your breath at altitude. Allow more time if you're also visiting the archaeological park or the market."
-  - q: "Is this the same as the Pisac ruins?"
-    a: "No. The Pisac Archaeological Park is a separate site higher up the mountain and needs Cusco's boleto turístico. Check the current price at official ticket points or on the Cusco tourism authority's website."
-  - q: "What else is near the viewpoint?"
-    a: "The Pisac market around the town plaza is the main draw, and Sunday is its biggest day. Further up the Sacred Valley are Urubamba and Ollantaytambo."
+  - q: How do I get to the pisac viewpoint from Cusco?
+    a: >-
+      Take a colectivo minivan from the Calle Puputi area of Cusco to Pisac,
+      about an hour's drive, or hire a taxi. In town, show a mototaxi driver the
+      plus code H5J2+CQP on Google Maps, since the spot is listed only as
+      "pisac".
+  - q: What time should I visit?
+    a: >-
+      It currently opens 8am–3pm, and the hours can change with the seasons, so
+      check first. Mornings are best: in the rainy season, roughly November to
+      March, cloud often builds over the valley by early afternoon.
+  - q: How long do I need there?
+    a: >-
+      About an hour is enough to take in the view, take photos and catch your
+      breath at altitude. Allow more time if you're also visiting the
+      archaeological park or the market.
+  - q: Is this the same as the Pisac ruins?
+    a: >-
+      No. The Pisac Archaeological Park is a separate site higher up the
+      mountain and needs Cusco's boleto turístico. Check the current price at
+      official ticket points or on the Cusco tourism authority's website.
+  - q: What else is near the viewpoint?
+    a: >-
+      The Pisac market around the town plaza is the main draw, and Sunday is its
+      biggest day. Further up the Sacred Valley are Urubamba and Ollantaytambo.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-02'
 ---
 
 From up here, Pisac looks like a map of itself. The river runs along the valley floor in a pale ribbon. The town's grid of tin and tile roofs sits beside it, and the slopes above are cut into the stepped Inca terraces the place is known for.

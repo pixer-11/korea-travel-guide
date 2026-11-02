@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: pisa-piazza-del-duomo
-srcHash: '2db636212e61'
+srcHash: '9c8d18a15374'
 title: 'Piazza del Duomo: guía de viaje de Pisa (4.7★)'
-description: 'En el ángulo noroeste de Pisa, una explanada de césped rodeada de murallas reúne la Torre Inclinada, la catedral, el Baptisterio y el Camposanto: es la Piazza del Duomo, también conocida como Piazza dei Miracoli. Valoración de 4.7★ (142,697 reseñas); opiniones de los visitantes, horarios y consejos.'
+description: 'En el ángulo noroeste de Pisa, una explanada de césped rodeada de murallas reúne la Torre Inclinada, la catedral, el Baptisterio y el Camposanto: es la Piazza del Duomo, también conocida como Piazza dei Miracoli. Valoración de 4.7★ (143,453 reseñas); opiniones de los visitantes, horarios y consejos.'
 quickAnswer: La Piazza del Duomo de Pisa, a la que también se llama Piazza dei Miracoli, es una explanada de césped cercada por murallas en el ángulo noroeste de la ciudad. En ella se levantan la Torre Inclinada, la catedral, el Baptisterio y el Camposanto. La plaza permanece abierta las 24 horas, pero cada monumento tiene su propio horario y exige entrada con hora asignada. Conviene, por tanto, reservar el turno de la torre en la web oficial de la Opera della Primaziale Pisana antes de llegar. La parada más próxima es la estación de Pisa San Rossore, desde donde se llega a pie.
 faq:
   - q: ¿Cuál es la estación de tren más cercana a la Piazza del Duomo de Pisa?

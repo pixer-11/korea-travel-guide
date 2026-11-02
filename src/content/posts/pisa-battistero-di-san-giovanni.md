@@ -1,60 +1,92 @@
 ---
-title: "Battistero di San Giovanni: Pisa Travel Guide (4.7★)"
-description: "The Battistero di San Giovanni in Pisa's Piazza del Duomo is the round, marble-clad building standing between the Leaning Tower and the Cathedral, open daily 9:00 AM to 10:30 PM. 4.7★ (4,368 reviews) — what visitors say, hours, and tips."
-country: "Italy"
-region: "Pisa"
-category: "attraction"
-pubDate: "2026-09-16T07:38:10.604Z"
+title: 'Battistero di San Giovanni: Pisa Travel Guide (4.7★)'
+description: >-
+  The Battistero di San Giovanni in Pisa's Piazza del Duomo is the round,
+  marble-clad building standing between the Leaning Tower and the Cathedral,
+  open daily 9:00 AM to 10:30 PM. 4.7★ (4,463 reviews) — what visitors say,
+  hours, and tips.
+country: Italy
+region: Pisa
+category: attraction
+pubDate: '2026-09-16T07:38:10.604Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Pisa%2C_battistero_di_San_Giovanni_%2836%29.jpg/3840px-Pisa%2C_battistero_di_San_Giovanni_%2836%29.jpg"
-  credit: "Photo: Gianni Careddu / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Pisa,_battistero_di_San_Giovanni_(36).jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Pisa%2C_battistero_di_San_Giovanni_%2836%29.jpg/3840px-Pisa%2C_battistero_di_San_Giovanni_%2836%29.jpg
+  credit: 'Photo: Gianni Careddu / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Pisa,_battistero_di_San_Giovanni_(36).jpg
+  via: act
   focus:
     x: 48
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Battistero_di_San_Giovanni%2C_Pisa_%2826074314523%29.jpg/3840px-Battistero_di_San_Giovanni%2C_Pisa_%2826074314523%29.jpg"
-    credit: "Photo: Dimitris Kamaras from Athens, Greece / Wikimedia Commons (CC BY 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Battistero_di_San_Giovanni,_Pisa_(26074314523).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Battistero_di_San_Giovanni%2C_Pisa_%2826074314523%29.jpg/3840px-Battistero_di_San_Giovanni%2C_Pisa_%2826074314523%29.jpg
+    credit: >-
+      Photo: Dimitris Kamaras from Athens, Greece / Wikimedia Commons (CC BY
+      2.0)
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Battistero_di_San_Giovanni,_Pisa_(26074314523).jpg
 place:
-  id: "ChIJnSCTwgmR1RIR0PAlUy8cLUk"
-  name: "Battistero di San Giovanni"
-  address: "Piazza del Duomo, 56126 Pisa PI, Italy"
+  id: ChIJnSCTwgmR1RIR0PAlUy8cLUk
+  name: Battistero di San Giovanni
+  address: 'Piazza del Duomo, 56126 Pisa PI, Italy'
   rating: 4.7
-  userRatingsTotal: 4368
-  googleMapsUrl: "https://maps.google.com/?cid=5272901728304754896&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 4463
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5272901728304754896&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 43.72331630000001
   lng: 10.3941347
-  phone: "+39 050 835011"
+  phone: +39 050 835011
   openingHours:
-    - "Monday: 9:00 AM – 10:30 PM"
-    - "Tuesday: 9:00 AM – 10:30 PM"
-    - "Wednesday: 9:00 AM – 10:30 PM"
-    - "Thursday: 9:00 AM – 10:30 PM"
-    - "Friday: 9:00 AM – 10:30 PM"
-    - "Saturday: 9:00 AM – 10:30 PM"
-    - "Sunday: 9:00 AM – 10:30 PM"
+    - 'Monday: 9:00 AM – 10:30 PM'
+    - 'Tuesday: 9:00 AM – 10:30 PM'
+    - 'Wednesday: 9:00 AM – 10:30 PM'
+    - 'Thursday: 9:00 AM – 10:30 PM'
+    - 'Friday: 9:00 AM – 10:30 PM'
+    - 'Saturday: 9:00 AM – 10:30 PM'
+    - 'Sunday: 9:00 AM – 10:30 PM'
 tags:
-  - "pisa"
-  - "historic site"
-quickAnswer: "The Battistero di San Giovanni in Pisa's Piazza del Duomo is the round, marble-clad building standing between the Leaning Tower and the Cathedral, open daily 9:00 AM to 10:30 PM. Buy a combined ticket that covers the Duomo complex, and time your visit around the acoustic demonstration given every 30 minutes by staff on the upper walkway. Go on foot from the tower; it's a two-minute walk across the same lawn."
+  - pisa
+  - historic site
+quickAnswer: >-
+  The Battistero di San Giovanni in Pisa's Piazza del Duomo is the round,
+  marble-clad building standing between the Leaning Tower and the Cathedral,
+  open daily 9:00 AM to 10:30 PM. Buy a combined ticket that covers the Duomo
+  complex, and time your visit around the acoustic demonstration given every 30
+  minutes by staff on the upper walkway. Go on foot from the tower; it's a
+  two-minute walk across the same lawn.
 faq:
-  - q: "How do I get to the Battistero di San Giovanni?"
-    a: "It's on Piazza del Duomo in Pisa, a two-minute walk from the Leaning Tower across the same lawn. From Pisa Centrale station, it's about a 25-minute walk or a short bus ride toward Piazza dei Miracoli."
-  - q: "What does a ticket cost and where do I buy one?"
-    a: "Single-site tickets exist, but most visitors buy a combined pass covering the Baptistery plus the Camposanto and one museum. Buy online in advance or at the ticket office behind the Duomo; prices are updated seasonally so check the official Opera della Primaziale Pisana site before you go."
-  - q: "What are the opening hours?"
-    a: "Open daily, 9:00 AM to 10:30 PM, every day of the week, with no weekly closing day listed."
-  - q: "How long should I spend inside?"
-    a: "Most visitors spend 20 to 30 minutes, longer if you climb to the upper gallery and wait through an acoustic demonstration."
-  - q: "What else is nearby?"
-    a: "The Leaning Tower, the Duomo (Cathedral), and the Camposanto monumental cemetery all sit within a hundred metres, on the same Piazza del Duomo lawn."
+  - q: How do I get to the Battistero di San Giovanni?
+    a: >-
+      It's on Piazza del Duomo in Pisa, a two-minute walk from the Leaning Tower
+      across the same lawn. From Pisa Centrale station, it's about a 25-minute
+      walk or a short bus ride toward Piazza dei Miracoli.
+  - q: What does a ticket cost and where do I buy one?
+    a: >-
+      Single-site tickets exist, but most visitors buy a combined pass covering
+      the Baptistery plus the Camposanto and one museum. Buy online in advance
+      or at the ticket office behind the Duomo; prices are updated seasonally so
+      check the official Opera della Primaziale Pisana site before you go.
+  - q: What are the opening hours?
+    a: >-
+      Open daily, 9:00 AM to 10:30 PM, every day of the week, with no weekly
+      closing day listed.
+  - q: How long should I spend inside?
+    a: >-
+      Most visitors spend 20 to 30 minutes, longer if you climb to the upper
+      gallery and wait through an acoustic demonstration.
+  - q: What else is nearby?
+    a: >-
+      The Leaning Tower, the Duomo (Cathedral), and the Camposanto monumental
+      cemetery all sit within a hundred metres, on the same Piazza del Duomo
+      lawn.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-02'
 ---
 
 ## What you're looking at

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: pisa-battistero-di-san-giovanni
-srcHash: '60b111701828'
+srcHash: 'b8eaa0da5483'
 title: 'Battistero di San Giovanni: Guía de Viaje de Pisa (4,7★)'
-description: 'El Battistero di San Giovanni, en la Piazza del Duomo de Pisa, es el edificio circular revestido de mármol que se alza entre la Torre Inclinada y la Catedral, abierto todos los días de 9:00 a 22:30. 4,7★ (4.368 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'El Battistero di San Giovanni, en la Piazza del Duomo de Pisa, es el edificio circular revestido de mármol que se alza entre la Torre Inclinada y la Catedral, abierto todos los días de 9:00 a 22:30. 4,7★ (4.463 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Battistero di San Giovanni, en la Piazza del Duomo de Pisa, es el edificio circular revestido de mármol que se alza entre la Torre Inclinada y la Catedral, abierto todos los días de 9:00 a 22:30. Conviene comprar una entrada combinada que incluya el conjunto del Duomo y planificar la visita en torno a la demostración acústica que el personal realiza cada 30 minutos desde la pasarela superior. Se llega a pie desde la torre en apenas dos minutos, cruzando el mismo césped.
 faq:
   - q: ¿Cómo se llega al Battistero di San Giovanni?

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: kochi-hill-palace
-srcHash: '754b4981a57d'
+srcHash: '78720202d96e'
 title: 'Hill Palace: guía de viaje de Kochi (4.4★)'
-description: 'Antigua sede de la familia real de Cochín, el Hill Palace de Thrippunithura (Kochi) alberga hoy el mayor museo arqueológico de Kerala, con galerías y jardines en lo alto de una colina. 4.4★ (22,315 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'Antigua sede de la familia real de Cochín, el Hill Palace de Thrippunithura (Kochi) alberga hoy el mayor museo arqueológico de Kerala, con galerías y jardines en lo alto de una colina. 4.4★ (22,318 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En lo alto de una colina de Thrippunithura, en Kochi, se alza el Hill Palace. Fue la sede de la familia real de Cochín y hoy acoge el mayor museo arqueológico de Kerala, con galerías y jardines paisajísticos. Actualmente cierra los lunes y abre de martes a domingo de 9:00 AM a 12:30 PM y de 2:00 a 4:30 PM. Los fines de semana registran la mayor afluencia de 9am a 12pm y de 2pm a 4pm, así que conviene ir entre semana siempre que sea posible.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Hill Palace?

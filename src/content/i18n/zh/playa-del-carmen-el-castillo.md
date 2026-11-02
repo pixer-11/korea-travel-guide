@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: playa-del-carmen-el-castillo
-srcHash: '88fb94f1c922'
+srcHash: '24c2d960e2ad'
 title: 卡斯蒂略金字塔：梅里达旅行指南（4.9★）
-description: 卡斯蒂略金字塔（El Castillo）是一座阶梯金字塔，坐落在尤卡坦州蒂努姆（Tinum）的奇琴伊察遗址中央。从卡门海滩（Playa del Carmen）出发，单程车程约两个半到三小时，适合一日游。评分4.9★（25,151条评价），本文汇总游客评价、开放时间和实用建议。
+description: 卡斯蒂略金字塔（El Castillo）是一座阶梯金字塔，坐落在尤卡坦州蒂努姆（Tinum）的奇琴伊察遗址中央。从卡门海滩（Playa del Carmen）出发，单程车程约两个半到三小时，适合一日游。评分4.9★（25,245条评价），本文汇总游客评价、开放时间和实用建议。
 quickAnswer: 卡斯蒂略金字塔（El Castillo）是一座阶梯金字塔，坐落在尤卡坦州蒂努姆（Tinum）的奇琴伊察遗址中央。从卡门海滩（Playa del Carmen）出发，单程车程约两个半到三小时，适合一日游。遗址每天上午8点到下午4点开放。每天上午8点到9点人最少；周末从上午10点到下午4点一直都很热闹。
 faq:
   - q: 卡斯蒂略金字塔离卡门海滩有多远？

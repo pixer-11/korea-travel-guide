@@ -1,44 +1,53 @@
 ---
-title: "RIVER KWAI BRIDGE: Kanchanaburi Travel Guide (4.6★)"
-description: "RIVER KWAI BRIDGE sits on Maenamkwai Road at the northern edge of Kanchanaburi town, about 3 km from the War Cemetery, and you can walk across it at any hour. 4.6★ (15,150 reviews) — what visitors say, hours, and tips."
-country: "Thailand"
-region: "Kanchanaburi"
-category: "hidden-gem"
-pubDate: "2026-11-02T08:01:33.117Z"
+title: 'RIVER KWAI BRIDGE: Kanchanaburi Travel Guide (4.6★)'
+description: >-
+  RIVER KWAI BRIDGE sits on Maenamkwai Road at the northern edge of Kanchanaburi
+  town, about 3 km from the War Cemetery, and you can walk across it at any
+  hour. 4.6★ (15,153 reviews) — what visitors say, hours, and tips.
+country: Thailand
+region: Kanchanaburi
+category: hidden-gem
+pubDate: '2026-11-02T08:01:33.117Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Bridge_on_the_River_Kwai_-_tourist_plaza.JPG/3840px-Bridge_on_the_River_Kwai_-_tourist_plaza.JPG"
-  credit: "Photo: PumpkinSky / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Bridge_on_the_River_Kwai_-_tourist_plaza.JPG"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Bridge_on_the_River_Kwai_-_tourist_plaza.JPG/3840px-Bridge_on_the_River_Kwai_-_tourist_plaza.JPG
+  credit: 'Photo: PumpkinSky / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Bridge_on_the_River_Kwai_-_tourist_plaza.JPG
+  via: act
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/River_Kwai_bridge_%2820%29.jpg/3840px-River_Kwai_bridge_%2820%29.jpg"
-    credit: "Photo: Krzysztof Golik / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:River_Kwai_bridge_(20).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/River_Kwai_bridge_%2820%29.jpg/3840px-River_Kwai_bridge_%2820%29.jpg
+    credit: 'Photo: Krzysztof Golik / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:River_Kwai_bridge_(20).jpg'
 place:
-  id: "ChIJO5Nl1fl04zARnXj8n_p1Kio"
-  name: "RIVER KWAI BRIDGE"
-  address: "Maenamkwai Road, Tambon Tha Ma Kham, Amphoe Mueang Kanchanaburi, Chang Wat Kanchanaburi 71000, Thailand"
+  id: ChIJO5Nl1fl04zARnXj8n_p1Kio
+  name: RIVER KWAI BRIDGE
+  address: >-
+    Maenamkwai Road, Tambon Tha Ma Kham, Amphoe Mueang Kanchanaburi, Chang Wat
+    Kanchanaburi 71000, Thailand
   rating: 4.6
-  userRatingsTotal: 15150
-  googleMapsUrl: "https://maps.google.com/?cid=3038370617901217949&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 15153
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3038370617901217949&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 14.0397299
   lng: 99.5032305
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-11-02
+    updated: 2026-11-02T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -63,24 +72,45 @@ place:
       - 17
       - 18
       - 19
-    venueId: "ven_6f694b31705f6e386a586e52417a34306c66316c4e354f4a496843"
+    venueId: ven_6f694b31705f6e386a586e52417a34306c66316c4e354f4a496843
 tags:
-  - "kanchanaburi"
-  - "old quarter"
-quickAnswer: "RIVER KWAI BRIDGE sits on Maenamkwai Road at the northern edge of Kanchanaburi town, about 3 km from the War Cemetery, and you can walk across it at any hour. Go between 7am and 9am on a weekday (7am–8am at weekends) to have the tracks mostly to yourself. Avoid weekends from 9am to 8pm, when the crowds are at their heaviest."
+  - kanchanaburi
+  - old quarter
+quickAnswer: >-
+  RIVER KWAI BRIDGE sits on Maenamkwai Road at the northern edge of Kanchanaburi
+  town, about 3 km from the War Cemetery, and you can walk across it at any
+  hour. Go between 7am and 9am on a weekday (7am–8am at weekends) to have the
+  tracks mostly to yourself. Avoid weekends from 9am to 8pm, when the crowds are
+  at their heaviest.
 faq:
-  - q: "When is the quietest time to visit the River Kwai Bridge?"
-    a: "The quietest times are 7am–9am on weekdays and 7am–8am at weekends. Avoid weekends from 9am to 8pm, which are the busiest hours."
-  - q: "Can you walk across the bridge, and is it safe with trains running?"
-    a: "Yes. It's open 24 hours and you walk on planks beside the track. When a train sounds its horn, step onto one of the railed side platforms and wait until it has fully passed."
-  - q: "How do I get to the bridge from Bangkok?"
-    a: "Take the train from Thonburi station, which takes about three hours and stops at River Kwai Bridge station beside the span. Or take a bus or minivan from the Southern Bus Terminal to Kanchanaburi, then a songthaew or tuk-tuk up Maenamkwai Road."
-  - q: "How long should I spend there?"
-    a: "About 45 minutes to an hour for the bridge itself. Allow a full day if you add the War Cemetery, the Thailand–Burma Railway Centre and the JEATH War Museum."
-  - q: "Was the film The Bridge on the River Kwai shot here?"
-    a: "No. The 1957 film was shot in Sri Lanka and is largely fictional. The real bridge was part of the Death Railway, built by prisoners of war and Asian labourers in 1942–43."
+  - q: When is the quietest time to visit the River Kwai Bridge?
+    a: >-
+      The quietest times are 7am–9am on weekdays and 7am–8am at weekends. Avoid
+      weekends from 9am to 8pm, which are the busiest hours.
+  - q: 'Can you walk across the bridge, and is it safe with trains running?'
+    a: >-
+      Yes. It's open 24 hours and you walk on planks beside the track. When a
+      train sounds its horn, step onto one of the railed side platforms and wait
+      until it has fully passed.
+  - q: How do I get to the bridge from Bangkok?
+    a: >-
+      Take the train from Thonburi station, which takes about three hours and
+      stops at River Kwai Bridge station beside the span. Or take a bus or
+      minivan from the Southern Bus Terminal to Kanchanaburi, then a songthaew
+      or tuk-tuk up Maenamkwai Road.
+  - q: How long should I spend there?
+    a: >-
+      About 45 minutes to an hour for the bridge itself. Allow a full day if you
+      add the War Cemetery, the Thailand–Burma Railway Centre and the JEATH War
+      Museum.
+  - q: Was the film The Bridge on the River Kwai shot here?
+    a: >-
+      No. The 1957 film was shot in Sri Lanka and is largely fictional. The real
+      bridge was part of the Death Railway, built by prisoners of war and Asian
+      labourers in 1942–43.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-02'
 ---
 
 ## Steel, sleepers and a working line
