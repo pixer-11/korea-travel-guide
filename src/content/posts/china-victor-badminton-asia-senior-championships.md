@@ -29,16 +29,6 @@ faq:
     a: Alipay and WeChat Pay are used almost everywhere in China. Both apps let foreign visitors link an international bank card. Train tickets are sold on the 12306 national railway platform and are tied to your passport.
 aiGenerated: true
 draft: false
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/1/1f/Victor_Svendsen_2026.jpg
-  credit: 'Photo: Lanthan2003 / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Victor_Svendsen_2026.jpg
-  focus:
-    x: 57
-    'y': 53
-    top: 44
-    bottom: 62
 ---
 
 ## Seven days of badminton for veteran players

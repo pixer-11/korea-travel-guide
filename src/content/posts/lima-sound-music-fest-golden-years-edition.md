@@ -10,16 +10,6 @@ eventEndDate: '2026-11-21'
 eventRecurring: true
 eventVenue: Estadio Nacional
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/1/1b/Primavera_Sound_L.A._%2852514076139%29.jpg
-  credit: 'Photo: Justin Higuchi / Wikimedia Commons (CC BY 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Primavera_Sound_L.A._(52514076139).jpg
-  focus:
-    x: 61
-    'y': 27
-    top: 20
-    bottom: 33
 gallery: []
 tags:
   - lima

@@ -13,14 +13,6 @@ eventOrganizer:
   name: KBS World
   url: https://world.kbs.co.kr
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/AKMF_Round_Festival_Stage.jpg/3840px-AKMF_Round_Festival_Stage.jpg
-  credit: 'Photo: Imgmkr / Wikimedia Commons (CC BY 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:AKMF_Round_Festival_Stage.jpg
-  focus:
-    x: 55
-    'y': 45
 gallery: []
 tags:
   - incheon

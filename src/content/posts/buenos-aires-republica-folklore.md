@@ -10,16 +10,6 @@ eventEndDate: '2026-11-22'
 eventRecurring: true
 eventVenue: Movistar Arena
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/8/8b/Disfraz_en_el_Festival_de_las_Flores_2024._Jarabacoa%2C_Rep%C3%BAblica_Dominicana.jpg
-  credit: 'Photo: FramesHaus / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Disfraz_en_el_Festival_de_las_Flores_2024._Jarabacoa,_Rep%C3%BAblica_Dominicana.jpg
-  focus:
-    x: 51
-    'y': 22
-    top: 14
-    bottom: 29
 gallery: []
 tags:
   - buenos aires

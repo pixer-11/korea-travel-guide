@@ -4055,9 +4055,9 @@
  },
  "belek-ironman-70-3-turkey\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Kenneth_Bulthuis_US_-_Ironman_70.3_Budapest%2C_2014.08.23_%282%29.jpg/3840px-Kenneth_Bulthuis_US_-_Ironman_70.3_Budapest%2C_2014.08.23_%282%29.jpg": {
   "slug": "belek-ironman-70-3-turkey",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Marathon race in urban venue, plausibly Belek",
-  "at": "2026-11-01T23:06:19.768Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"ironman\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-02T08:28:03.364Z"
  },
  "belek-ironman-70-3-turkey\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/2016-08-14_Ironman_70.3_Germany_2016_by_Olaf_Kosinsky-90.jpg/3840px-2016-08-14_Ironman_70.3_Germany_2016_by_Olaf_Kosinsky-90.jpg": {
   "slug": "belek-ironman-70-3-turkey",
@@ -5258,9 +5258,9 @@
  },
  "buenos-aires-republica-folklore\u0001https://upload.wikimedia.org/wikipedia/commons/8/8b/Disfraz_en_el_Festival_de_las_Flores_2024._Jarabacoa%2C_Rep%C3%BAblica_Dominicana.jpg": {
   "slug": "buenos-aires-republica-folklore",
-  "verdict": "MATCH",
-  "reason": "event publish gate: Folklore festival performer in costume, matches event type",
-  "at": "2026-11-02T00:14:20.987Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"blica\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-02T08:28:03.524Z"
  },
  "buenos-aires-san-telmo-fair\u0001https://upload.wikimedia.org/wikipedia/commons/6/6d/Plaza_Dorrego_-_San_Telmo%2C_2005_-_panoramio.jpg": {
   "slug": "buenos-aires-san-telmo-fair",
@@ -5822,9 +5822,9 @@
  },
  "calgary-113th-grey-cup\u0001https://upload.wikimedia.org/wikipedia/commons/8/8f/111th_Grey_Cup%2C_Ben_Major.jpg": {
   "slug": "calgary-113th-grey-cup",
-  "verdict": "MATCH",
-  "reason": "patrol replace: CFL official at Grey Cup event on field",
-  "at": "2026-11-01T23:08:39.385Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"grey\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-02T08:28:03.701Z"
  },
  "calgary-113th-grey-cup\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/111th_Grey_Cup%2C_Trophy.jpg/3840px-111th_Grey_Cup%2C_Trophy.jpg": {
   "slug": "calgary-113th-grey-cup",
@@ -7191,9 +7191,9 @@
  },
  "china-victor-badminton-asia-senior-championships\u0001https://upload.wikimedia.org/wikipedia/commons/1/1f/Victor_Svendsen_2026.jpg": {
   "slug": "china-victor-badminton-asia-senior-championships",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Badminton player in action at indoor venue",
-  "at": "2026-11-02T00:40:11.400Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"victor\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-02T08:28:03.862Z"
  },
  "china-victor-badminton-asia-senior-championships\u0001https://upload.wikimedia.org/wikipedia/commons/3/3b/Badminton_racquets_victor_thruster_ryuga.jpg": {
   "slug": "china-victor-badminton-asia-senior-championships",
@@ -10870,9 +10870,9 @@
  },
  "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TOTAL_BWF_World_Champs_2015_Day_2_Petya_Nedelcheva.jpg/3840px-TOTAL_BWF_World_Champs_2015_Day_2_Petya_Nedelcheva.jpg": {
   "slug": "hangzhou-bwf-world-tour-finals",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Badminton player at professional tournament venue",
-  "at": "2026-11-01T23:13:52.106Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares no word with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-02T08:28:04.023Z"
  },
  "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TOTAL_BWF_World_Champs_2015_Day_2_Carla_Nelte.jpg/3840px-TOTAL_BWF_World_Champs_2015_Day_2_Carla_Nelte.jpg": {
   "slug": "hangzhou-bwf-world-tour-finals",
@@ -13028,9 +13028,9 @@
  },
  "incheon-round-festival-asean-korea-music-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/AKMF_Round_Festival_Stage.jpg/3840px-AKMF_Round_Festival_Stage.jpg": {
   "slug": "incheon-round-festival-asean-korea-music-festival",
-  "verdict": "MATCH",
-  "reason": "event publish gate: Concert stage with performers, representative of music festival event",
-  "at": "2026-11-01T23:59:51.752Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"round\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-02T08:28:04.174Z"
  },
  "incheon-songdo-central-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/South_Korea%2C_Incheon%2C_Songdo%2C_the_Sharp_Central_Park_Towers.jpg/1920px-South_Korea%2C_Incheon%2C_Songdo%2C_the_Sharp_Central_Park_Towers.jpg": {
   "slug": "incheon-songdo-central-park",
@@ -17485,9 +17485,9 @@
  },
  "lima-sound-music-fest-golden-years-edition\u0001https://upload.wikimedia.org/wikipedia/commons/1/1b/Primavera_Sound_L.A._%2852514076139%29.jpg": {
   "slug": "lima-sound-music-fest-golden-years-edition",
-  "verdict": "MATCH",
-  "reason": "event publish gate: Performer singing on concert stage with microphone",
-  "at": "2026-11-02T00:13:36.109Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"sound\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-02T08:28:04.333Z"
  },
  "lima-taemin-liminal-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/3/30/Taemin_at_Dream_Concert_2015_07.jpg": {
   "slug": "lima-taemin-liminal-world-tour",
@@ -22566,9 +22566,9 @@
  },
  "new-york-nba-christmas-day-games\u0001https://upload.wikimedia.org/wikipedia/commons/f/f7/Partido_NBA_-i---i-_%2832286995525%29.jpg": {
   "slug": "new-york-nba-christmas-day-games",
-  "verdict": "MATCH",
-  "reason": "patrol replace: NBA game at Madison Square Garden, New York",
-  "at": "2026-11-01T23:24:23.969Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares no word with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-02T08:28:04.489Z"
  },
  "new-york-nba-christmas-day-games\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Partido_NBA_-i---i-_%2832137594662%29.jpg/1280px-Partido_NBA_-i---i-_%2832137594662%29.jpg": {
   "slug": "new-york-nba-christmas-day-games",
@@ -26228,9 +26228,9 @@
  },
  "ragusa-maratona-di-ragusa-mangia-s-maratona-di-ragusa\u0001https://upload.wikimedia.org/wikipedia/commons/f/f6/Maratona_di_Roma_in_2016.01.jpg": {
   "slug": "ragusa-maratona-di-ragusa-mangia-s-maratona-di-ragusa",
-  "verdict": "MATCH",
-  "reason": "event publish gate: Marathon event banner and cyclists, matches event type, archive photo",
-  "at": "2026-11-02T00:01:41.625Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"maratona\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-02T08:28:04.653Z"
  },
  "ras-al-khaimah-dhayah-fort\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Dhayah_Fort_Ras_al_Khaimah.jpg/1920px-Dhayah_Fort_Ras_al_Khaimah.jpg": {
   "slug": "ras-al-khaimah-dhayah-fort",

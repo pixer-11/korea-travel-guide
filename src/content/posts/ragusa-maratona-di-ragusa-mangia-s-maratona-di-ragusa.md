@@ -9,14 +9,6 @@ eventStartDate: '2027-01-17'
 eventEndDate: '2027-01-17'
 eventRecurring: true
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/f/f6/Maratona_di_Roma_in_2016.01.jpg
-  credit: 'Photo: CAPTAIN RAJU / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Maratona_di_Roma_in_2016.01.jpg
-  focus:
-    x: 40
-    'y': 30
 gallery: []
 tags:
   - ragusa
