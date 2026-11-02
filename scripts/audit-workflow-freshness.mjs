@@ -29,7 +29,11 @@ const TOKEN = process.env.GITHUB_TOKEN || process.env.GH_TOKEN;
 // Rough expected gap for a cron, in days. Only the coarse shape matters: the
 // question is "has this run at all recently", not "was it punctual".
 function expectedGapDays(cron) {
-  const [, , dom, , dow] = cron.trim().split(/\s+/);
+  const [, , dom, month, dow] = cron.trim().split(/\s+/);
+  // A named month is a once-a-year job ("5 10 27 7 *", the one-shot Pinterest
+  // reminder; "0 22 9-13 9 *", the index verdict). Read as monthly, the July
+  // reminder was "overdue" from late October on and alarmed every day (11-02).
+  if (month && month !== '*') return 366;    // yearly
   if (dow && dow !== '*') return 7;          // weekly
   if (dom && dom !== '*') return 31;         // monthly
   return 1;                                  // daily or more often
