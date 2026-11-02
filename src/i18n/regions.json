@@ -14926,5 +14926,356 @@
       "getting": "大多数游客会选择飞抵位于厦门岛内的厦门高崎国际机场（XMN），或乘坐高铁抵达，可选择厦门市主要的铁路枢纽厦门北站，也可选择位置更靠近市中心的厦门站。从这两个车站出发，前往市区可乘坐地铁、BRT快速公交或出租车。",
       "days": "建议安排约2到3天时间，以轻松的节奏游览鼓浪屿、老城区，并沿海滨漫步。"
     }
+  },
+  "Bintan": {
+    "en": {
+      "blurb": "Bintan is an Indonesian island in the Riau Archipelago, prized for its white sand beaches, resort enclaves and proximity to Singapore. It mixes laid back coastal scenery with a developed resort zone around Lagoi, while the rest of the island retains a quieter, more local Indonesian character.",
+      "getting": "Bintan has no direct flights or rail link from Singapore, so travellers arrive by ferry. Services from Singapore's Tanah Merah Ferry Terminal run to Bandar Bentan Telani Ferry Terminal in the Lagoi resort area, with the crossing taking around ~1 hour; an alternative ferry route connects to Tanjung Pinang in southern Bintan.",
+      "days": "Most visitors allow ~2 to 4 days, enough time to settle into a beach resort, try a few water activities and take at least one trip beyond the resort zone."
+    },
+    "ko": {
+      "blurb": "빈탄(Bintan)은 인도네시아 리아우 제도에 속한 섬으로, 새하얀 백사장과 고급 리조트 단지, 그리고 싱가포르와 가깝다는 지리적 이점으로 잘 알려져 있다. 라고이(Lagoi) 일대에는 개발된 리조트 지구가 자리하고 있어 여유로운 해안 풍경을 즐길 수 있는 한편, 섬의 나머지 지역은 보다 조용하고 인도네시아 특유의 소박한 정취를 간직하고 있다.",
+      "getting": "빈탄은 싱가포르에서 직항 항공편이나 철도 연결이 없어, 여행객들은 페리를 이용해 섬에 들어간다. 싱가포르 타나 메라 페리 터미널(Tanah Merah Ferry Terminal)에서 출발하는 페리는 라고이 리조트 지역에 위치한 반다르 벤탄 텔라니 페리 터미널(Bandar Bentan Telani Ferry Terminal)까지 운항하며, 소요 시간은 약 1시간 정도다. 이 외에도 빈탄 남부의 탄중 피낭(Tanjung Pinang)으로 연결되는 또 다른 페리 노선도 있다.",
+      "days": "대부분의 여행객은 약 2~4일 정도 일정을 잡는데, 이 정도면 해변 리조트에서 여유를 즐기고 몇 가지 수상 액티비티를 체험하며, 리조트 지역을 벗어난 외부 나들이도 최소 한 번은 다녀올 수 있는 충분한 시간이다."
+    },
+    "ja": {
+      "blurb": "ビンタン島は、リアウ諸島に属するインドネシアの島で、白砂のビーチとリゾートエリア、そしてシンガポールからの近さで知られています。ラゴイを中心に開発されたリゾートゾーンがある一方、島の他の地域にはのどかな海辺の風景と、より素朴なインドネシアらしい雰囲気が残っています。",
+      "getting": "ビンタン島へはシンガポールからの直行便や鉄道がないため、フェリーでの移動が基本となります。シンガポールのタナメラ・フェリーターミナルから、ラゴイ・リゾートエリアにあるバンダル・ベンタン・トゥラニ・フェリーターミナルまで約1時間で到着します。また、別のフェリー航路でビンタン島南部のタンジュン・ピナンへ渡ることも可能です。",
+      "days": "多くの旅行者は2〜4日程度の滞在を予定しています。これだけあれば、ビーチリゾートでゆったり過ごしながらいくつかのウォーターアクティビティを楽しみ、さらにリゾートエリアの外へも最低一度は足を延ばす余裕があります。"
+    },
+    "es": {
+      "blurb": "Bintan es una isla indonesia del archipiélago de Riau, apreciada por sus playas de arena blanca, sus complejos turísticos exclusivos y su cercanía a Singapur. Combina paisajes costeros tranquilos con una zona hotelera muy desarrollada en torno a Lagoi, mientras que el resto de la isla conserva un ambiente más local y apacible, típicamente indonesio.",
+      "getting": "Bintan no cuenta con vuelos directos ni conexión ferroviaria desde Singapur, por lo que los viajeros llegan en ferry. Los servicios parten de la Terminal de Ferries Tanah Merah, en Singapur, con destino a la Terminal de Ferries Bandar Bentan Telani, en la zona turística de Lagoi; la travesía dura aproximadamente 1 hora. También existe una ruta alternativa que conecta con Tanjung Pinang, en el sur de la isla.",
+      "days": "La mayoría de los visitantes reserva entre 2 y 4 días, tiempo suficiente para instalarse en un resort de playa, probar algunas actividades acuáticas y realizar al menos una excursión fuera de la zona hotelera."
+    },
+    "zh": {
+      "blurb": "民丹岛是印度尼西亚廖内群岛中的一座岛屿，以白沙滩、度假村聚集区以及毗邻新加坡的地理位置而闻名。岛上既有悠闲的海滨风光，也有位于拉古依（Lagoi）一带、开发成熟的度假区，而岛上其余地方则保留着更为宁静、更具本地印尼风情的一面。",
+      "getting": "民丹岛没有直飞航班，也没有与新加坡相连的铁路，因此游客通常乘坐渡轮前往。从新加坡丹那美拉渡轮码头（Tanah Merah Ferry Terminal）出发的渡轮可抵达位于拉古依度假区的民丹海滨渡轮码头（Bandar Bentan Telani Ferry Terminal），航程约1小时；另外还有一条渡轮航线可前往民丹岛南部的丹戎槟榔（Tanjung Pinang）。",
+      "days": "大多数游客会安排约2到4天的行程，这样的时间足够入住海滨度假村、体验几项水上活动，并至少安排一次离开度假区、探索岛上其他地方的行程。"
+    }
+  },
+  "Changzhou": {
+    "en": {
+      "blurb": "Changzhou is a mid-sized Jiangsu city on the Yangtze River delta, often overlooked by travellers rushing between Shanghai and Nanjing, yet it offers canal-side old towns, classical gardens and a genuinely local pace of life. It is best known among domestic tourists for its theme parks, including Dinosaur Park, which draw large numbers of Chinese families rather than international crowds.",
+      "getting": "Most travellers arrive by high-speed train: Changzhou railway station sits on the Jinghu railway and Shanghai-Nanjing Intercity Railway, giving frequent connections to Shanghai and Nanjing in under an hour, while Changzhou North railway station serves the Beijing–Shanghai high-speed railway for longer-distance trips. Changzhou does have its own small airport, Changzhou Benniu International Airport (CZX), but the biggest airport near Changzhou is Wuxi / Suzhou (WUX), Sunan Shuofang International Airport, which offers additional flight options, so many visitors fly into Shanghai or Nanjing and continue by train.",
+      "days": "1 to 2 days is enough to cover Changzhou's old town, canals and main museums, or longer if combining a visit with its theme parks."
+    },
+    "ko": {
+      "blurb": "창저우는 양쯔강 삼각주에 자리한 장쑤성의 중소 도시로, 상하이와 난징을 오가는 여행객들에게 종종 지나치는 곳으로 여겨지지만, 운하를 따라 늘어선 구시가지와 고전 정원, 그리고 진정한 현지인의 생활 리듬을 느낄 수 있는 매력적인 도시다. 중국 내 관광객들 사이에서는 다이노소어 파크를 비롯한 테마파크로 특히 유명하며, 외국인보다는 중국 가족 단위 여행객들이 주로 찾는다.",
+      "getting": "대부분의 여행객은 고속철도를 이용해 창저우에 도착한다. 창저우역은 징후철도(京沪铁路)와 후닝 도시간철도(상하이-난징 구간) 노선에 위치해 있어 상하이와 난징까지 1시간 이내로 자주 운행되는 열차를 이용할 수 있다. 창저우베이역(창저우北역)은 베이징-상하이 고속철도가 지나는 역으로, 보다 장거리 이동에 적합하다. 창저우에는 창저우 번뉴 국제공항(CZX)이라는 소규모 공항이 있지만, 창저우 인근에서 가장 큰 공항은 우시·쑤저우 지역의 쑤난 숴팡 국제공항(WUX)으로 더 다양한 항공편을 제공한다. 이 때문에 많은 여행객들은 상하이나 난징으로 입국한 뒤 기차로 이동하는 경로를 선택한다.",
+      "days": "창저우의 구시가지와 운하, 주요 박물관을 둘러보는 데는 1~2일이면 충분하며, 테마파크까지 함께 즐기고 싶다면 일정을 좀 더 늘리는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "常州は長江デルタに位置する江蘇省の中規模都市で、上海と南京を足早に行き来する旅行者にはつい見過ごされがちですが、運河沿いの旧市街や古典庭園、そして飾らない地元の暮らしのリズムを味わうことができる街です。国内観光客の間では恐竜公園をはじめとするテーマパークで特に知られており、海外からの旅行者よりも中国人家族連れで賑わうことが多いのが特徴です。",
+      "getting": "多くの旅行者は高速鉄道で常州を訪れます。常州駅は京滬線と滬寧都市間鉄道上にあり、上海・南京へは1時間足らずで頻繁に行き来できます。一方、常州北駅は京滬高速鉄道の駅で、より長距離の移動に便利です。常州には常州奔牛国際空港（CZX）という小規模な空港がありますが、常州近郊で最大の空港は無錫・蘇州にある蘇南碩放国際空港（WUX）で、より多くのフライト選択肢があります。そのため、多くの旅行者は上海や南京の空港を利用し、そこから鉄道で常州へ向かいます。",
+      "days": "常州の旧市街や運河、主要な博物館を巡るなら1～2日もあれば十分ですが、テーマパークを組み合わせて訪れるなら、もう少し日程に余裕を持たせるとよいでしょう。"
+    },
+    "es": {
+      "blurb": "Changzhou es una ciudad de tamaño mediano en Jiangsu, situada en el delta del río Yangtsé, a menudo pasada por alto por los viajeros que van de prisa entre Shanghái y Nankín, pero que ofrece cascos antiguos junto a canales, jardines clásicos y un ritmo de vida genuinamente local. Es más conocida entre los turistas nacionales por sus parques temáticos, entre ellos Dinosaur Park, que atraen a gran cantidad de familias chinas más que a visitantes internacionales.",
+      "getting": "La mayoría de los viajeros llega en tren de alta velocidad: la estación de ferrocarril de Changzhou se encuentra en la línea Jinghu y en el ferrocarril interurbano Shanghái-Nankín, con conexiones frecuentes a Shanghái y Nankín en menos de una hora, mientras que la estación de Changzhou Norte da servicio al ferrocarril de alta velocidad Pekín-Shanghái para trayectos más largos. Changzhou cuenta con su propio aeropuerto, aunque pequeño, el Aeropuerto Internacional de Changzhou Benniu (CZX), pero el aeropuerto más grande cercano a Changzhou es el de Wuxi / Suzhou (WUX), el Aeropuerto Internacional de Sunan Shuofang, que ofrece más opciones de vuelos, por lo que muchos visitantes llegan a Shanghái o Nankín y continúan en tren.",
+      "days": "Con 1 o 2 días es suficiente para recorrer el casco antiguo de Changzhou, sus canales y los principales museos, o más tiempo si se combina la visita con sus parques temáticos."
+    },
+    "zh": {
+      "blurb": "常州是江苏一座中等规模的城市,地处长江三角洲,常常被赶着往返于上海和南京之间的游客所忽略,但这里其实别有一番风味:临水的老城区、古典园林,还有一种真正属于本地人的生活节奏。常州在国内游客中最出名的是它的主题乐园,比如中华恐龙园,每年都吸引大批中国家庭前来游玩,反倒不太为国际游客所熟知。",
+      "getting": "大多数人选择乘高铁前往常州:常州站位于京沪铁路和沪宁城际铁路线上,往返上海、南京都十分便捷,车程基本在一小时以内;而常州北站则连接京沪高铁,方便前往更远的城市。常州本身也有一座小型机场——常州奔牛国际机场(CZX),不过距离常州最近的大型机场其实是无锡苏南硕放国际机场(WUX),航班选择更为丰富。因此,许多游客会选择先飞到上海或南京,再转乘火车抵达常州。",
+      "days": "游览常州的老城区、运河风光和主要博物馆,一到两天时间就足够了;如果还想顺道玩玩主题乐园,不妨多留几天。"
+    }
+  },
+  "China": {
+    "en": {
+      "blurb": "China spans a vast and varied territory, from the imperial monuments of Beijing and the futuristic skyline of Shanghai to the karst peaks of Guizhou and the deserts of the far west. It is a country where ancient dynastic history sits alongside some of the world's fastest trains and most modern cities.",
+      "getting": "Most international travellers arrive via one of China's major gateway airports, such as Beijing Capital (PEK), Beijing Daxing (PKX), Shanghai Pudong (PVG) or Guangzhou Baiyun (CAN), all served by extensive long-haul networks. From these hubs, China's high-speed rail network makes onward travel to other major cities straightforward, with routes such as Beijing to Shanghai covering the distance in roughly 4 to 5 hours.",
+      "days": "Allow at least 2 to 3 weeks to cover a handful of major regions properly, since distances between highlights like Beijing, Xi'an, Chengdu and Guangzhou are considerable even with fast rail links."
+    },
+    "ko": {
+      "blurb": "중국은 베이징의 황실 유적과 상하이의 미래지향적 스카이라인부터 구이저우의 카르스트 봉우리, 서쪽 끝 사막지대에 이르기까지 광대하고 다채로운 영토를 품고 있다. 유구한 왕조의 역사가 세계에서 가장 빠른 고속열차, 최첨단 도시들과 자연스럽게 공존하는 나라다.",
+      "getting": "대부분의 해외 여행객은 베이징 서우두(PEK), 베이징 다싱(PKX), 상하이 푸둥(PVG), 광저우 바이윈(CAN) 등 중국의 주요 관문 공항을 통해 입국하며, 이들 공항은 모두 다양한 장거리 노선을 갖추고 있다. 이러한 허브에서 출발해 중국의 고속철도망을 이용하면 다른 주요 도시로의 이동도 수월한데, 예를 들어 베이징에서 상하이까지는 약 4~5시간이면 닿을 수 있다.",
+      "days": "베이징, 시안, 청두, 광저우 같은 주요 명소들 사이의 거리는 고속철도를 이용하더라도 상당히 멀기 때문에, 몇몇 주요 지역만 제대로 둘러보려 해도 최소 2~3주는 일정을 잡아야 한다."
+    },
+    "ja": {
+      "blurb": "中国は広大で多様な国土を持ち、北京の歴代王朝の遺跡から上海の近未来的なスカイラインまで、貴州のカルスト地形の山々から西部の砂漠地帯まで、実に多彩な表情を見せる。古代王朝の歴史が、世界最速クラスの高速鉄道や最先端の都市と共存しているのもこの国の魅力だ。",
+      "getting": "海外からの旅行者の多くは、北京首都国際空港(PEK)、北京大興国際空港(PKX)、上海浦東国際空港(PVG)、広州白雲国際空港(CAN)といった中国の主要玄関口空港から入国する。これらの空港はいずれも充実した長距離国際線ネットワークを有している。これらのハブ空港からは、中国の高速鉄道網を使えば他の主要都市への移動もスムーズで、例えば北京から上海までは所要時間およそ4〜5時間で結ばれている。",
+      "days": "北京、西安、成都、広州といった見どころ間の距離は、高速鉄道を利用してもかなりのものになるため、いくつかの主要エリアをじっくり巡るには最低でも2〜3週間は見ておきたい。"
+    },
+    "es": {
+      "blurb": "China abarca un territorio vasto y variado, desde los monumentos imperiales de Beijing y el horizonte futurista de Shanghai hasta los picos kársticos de Guizhou y los desiertos del lejano oeste. Es un país donde la antigua historia dinástica convive con algunos de los trenes más rápidos y las ciudades más modernas del mundo.",
+      "getting": "La mayoría de los viajeros internacionales llega a través de uno de los grandes aeropuertos de entrada de China, como Beijing Capital (PEK), Beijing Daxing (PKX), Shanghai Pudong (PVG) o Guangzhou Baiyun (CAN), todos ellos conectados con extensas redes de vuelos de largo radio. Desde estos centros de conexión, la red ferroviaria de alta velocidad de China facilita enormemente continuar el viaje hacia otras grandes ciudades, con trayectos como el de Beijing a Shanghai, que cubren la distancia en apenas 4 a 5 horas.",
+      "days": "Conviene reservar al menos 2 o 3 semanas para recorrer bien un puñado de regiones principales, ya que las distancias entre destinos destacados como Beijing, Xi'an, Chengdu y Guangzhou son considerables, incluso contando con conexiones de tren rápido."
+    },
+    "zh": {
+      "blurb": "中国幅员辽阔，风貌多样：从北京的皇家古迹、上海的未来感天际线，到贵州的喀斯特山峰，再到遥远西部的茫茫沙漠，无不涵盖其中。在这里，古老的王朝历史与世界上最快的高铁、最现代化的都市并存共生。",
+      "getting": "大多数国际旅客会经由中国主要的门户机场入境，例如北京首都机场（PEK）、北京大兴机场（PKX）、上海浦东机场（PVG）或广州白云机场（CAN），这些机场都拥有发达的国际长途航线网络。从这些枢纽出发，借助中国四通八达的高铁网络，前往其他主要城市十分便捷——例如北京到上海的高铁车程只需约4到5小时。",
+      "days": "若想妥善游览几个主要地区，至少应安排2到3周的时间。即便有高铁相助，北京、西安、成都、广州等热门目的地之间的路程依然不短，需要充足的时间来从容游历。"
+    }
+  },
+  "Gimhae": {
+    "en": {
+      "blurb": "Gimhae was once the capital of the ancient Geumgwan Gaya kingdom, and its royal tombs, burial mounds and national museum still anchor a city that feels far older than its modern apartment blocks suggest. It sits just west of Busan, close enough for an easy day trip yet distinct enough in history and pace to reward a longer stay.",
+      "getting": "Gimhae is served by Gimhae International Airport (PUS), which despite the city's name is located in Busan's Gangseo District and mainly handles domestic and regional international flights. From the airport or central Busan, the Busan-Gimhae Light Rail Transit connects directly into Gimhae, with stops near the National Museum and the old tomb sites.",
+      "days": "Allow ~1 to 2 days to take in the main Gaya heritage sites, including the Daeseong-dong tombs, the Tomb of King Suro and the National Museum, at an unhurried pace."
+    },
+    "ko": {
+      "blurb": "김해는 한때 고대 금관가야의 수도였으며, 왕릉과 고분군, 그리고 국립박물관이 도시 곳곳에 남아 오늘날 늘어선 현대식 아파트 단지와는 사뭇 다른 깊은 역사를 느끼게 해준다. 부산 바로 서쪽에 자리해 당일치기 여행지로도 손색없지만, 역사와 분위기가 독특해 좀 더 머무르며 천천히 둘러볼 가치가 충분하다.",
+      "getting": "김해의 관문은 김해국제공항(PUS)이지만, 이름과 달리 실제로는 부산 강서구에 위치해 있으며 주로 국내선과 일부 국제선 노선을 운항한다. 공항이나 부산 시내에서는 부산김해경전철을 이용하면 김해까지 바로 연결되며, 국립김해박물관과 고분 유적지 인근에도 정류장이 있어 이동이 편리하다.",
+      "days": "대성동 고분군, 수로왕릉, 국립김해박물관 등 가야 유적을 여유롭게 둘러보려면 1~2일 정도 일정을 잡는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "金海(キムヘ)はかつて古代・金官伽耶（ガヤ）王国の都として栄えた町で、今も残る王陵や古墳群、国立博物館が、現代的なマンション群からは想像しにくいこの街の古い歴史を静かに物語っています。釜山のすぐ西に位置し、日帰りで気軽に訪れることもできますが、歴史の深さや街のゆったりとした雰囲気を考えると、もう少し時間をかけて滞在する価値も十分にあります。",
+      "getting": "金海へは金海国際空港（PUS）が玄関口となりますが、名前とは裏腹に実際には釜山の江西（カンソ）区に位置し、主に国内線と近距離国際線が発着しています。空港や釜山中心部からは、釜山・金海軽電鉄（釜山金海軽軌）を利用すれば金海まで直接アクセスでき、国立博物館や古墳群の最寄り駅にも停車します。",
+      "days": "大成洞古墳群、首露王陵、国立博物館といった伽耶時代の主要な史跡をのんびり巡るなら、1〜2日ほど見ておくとちょうどよいでしょう。"
+    },
+    "es": {
+      "blurb": "Gimhae fue en su día la capital del antiguo reino de Geumgwan Gaya, y sus tumbas reales, túmulos funerarios y museo nacional siguen siendo el corazón de una ciudad que se siente mucho más antigua de lo que sugieren sus edificios de apartamentos modernos. Se encuentra justo al oeste de Busan, lo bastante cerca como para una excursión de un día, pero con una historia y un ritmo propios que bien merecen una estancia más larga.",
+      "getting": "Gimhae cuenta con el Aeropuerto Internacional de Gimhae (PUS), que, a pesar del nombre de la ciudad, en realidad se encuentra en el distrito de Gangseo, en Busan, y opera principalmente vuelos domésticos y regionales internacionales. Desde el aeropuerto o desde el centro de Busan, el tren ligero Busan-Gimhae conecta directamente con Gimhae, con paradas cerca del Museo Nacional y de los antiguos yacimientos funerarios.",
+      "days": "Conviene reservar entre 1 y 2 días para recorrer con calma los principales sitios del patrimonio Gaya, entre ellos las tumbas de Daeseong-dong, la Tumba del Rey Suro y el Museo Nacional."
+    },
+    "zh": {
+      "blurb": "金海曾是古代金官伽倻王国的都城,如今城中的王陵、古墓群与国立博物馆依然是这座城市的精神所在,让它显得比那些现代公寓楼所呈现的样子要古老得多。金海紧邻釜山西侧,距离近到可以轻松往返一日游,但其历史底蕴与生活节奏又自成一格,值得安排更长的时间细细游览。",
+      "getting": "金海国际机场(PUS)虽以\"金海\"命名,实际却位于釜山江西区,主要承担国内航线及区域性国际航班。无论是从机场出发,还是从釜山市中心出发,都可以搭乘釜山-金海轻轨直达金海,沿线设有靠近国立博物馆及古墓遗址的站点,交通十分便利。",
+      "days": "建议预留1至2天时间,以轻松不赶的节奏游览伽倻文化的主要遗迹,包括大成洞古墓群、首露王陵以及国立博物馆。"
+    }
+  },
+  "Nan'an": {
+    "en": {
+      "blurb": "Nan'an is a county-level city in Fujian province, administered by Quanzhou, known as a major hub for stone and ceramics production along the Jin River. Its historic Fengzhou area was once a political and cultural centre of southern Fujian, giving the city a layered mix of industrial energy and old Minnan heritage.",
+      "getting": "Nan'an has no airport of its own: travellers typically fly into Quanzhou Jinjiang International Airport (JJN), roughly 30km away, or Xiamen Gaoqi International Airport, about 80 to 97km away, then continue by taxi or bus. A newer high-speed rail stop, Nan'an North (南安北站) on the Xingtai line, also links the city to the wider regional network, with buses and taxis covering onward journeys within the city.",
+      "days": "~2 days is enough to cover Nan'an's town sites and stone-carving workshops, with an extra day if combining it with nearby Quanzhou's historic core."
+    },
+    "ko": {
+      "blurb": "난안(南安)은 푸젠성 취안저우시가 관할하는 현급시로, 진장(晋江) 강변을 따라 석재와 도자기 생산의 주요 거점으로 알려져 있습니다. 이 도시의 유서 깊은 펑저우(丰州) 지역은 한때 민난(闽南) 남부의 정치·문화 중심지였던 곳으로, 산업적 활기와 오랜 민난 전통이 겹겹이 어우러진 독특한 분위기를 자아냅니다.",
+      "getting": "난안에는 자체 공항이 없어, 보통 약 30km 거리에 있는 취안저우 진장 국제공항(JJN)이나 80~97km 떨어진 샤먼 가오치 국제공항을 이용한 뒤 택시나 버스로 이동합니다. 비교적 최근에 개통된 고속철도역인 난안베이역(南安北站, 싱타이선)도 이 도시를 더 넓은 지역 철도망과 연결해 주며, 시내 이동은 버스와 택시로 충분히 해결할 수 있습니다.",
+      "days": "난안의 시내 명소와 석조 공예 공방을 둘러보는 데는 약 2일이면 충분하며, 인근 취안저우의 유서 깊은 구시가지까지 함께 둘러본다면 하루 더 일정을 잡는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "南安市は福建省泉州市が管轄する県級市で、晋江沿いに広がる石材・陶磁器生産の一大拠点として知られています。かつて閩南地方の政治・文化の中心地だった古都・豊州エリアを抱えており、工業都市としての活気と、閩南の古い歴史的情緒とが重なり合う独特の表情を持つ街です。",
+      "getting": "南安には空港がないため、旅行者は通常、約30km離れた泉州晋江国際空港(JJN)か、80〜97kmほど離れた厦門高崎国際空港を利用し、そこからタクシーやバスで向かうのが一般的です。また、興泉鉄道の南安北駅という比較的新しい高速鉄道駅もあり、周辺地域とのアクセスを担っています。市内の移動はバスやタクシーで十分にカバーできます。",
+      "days": "南安の街なかの見どころや石彫工房を巡るなら2日ほどあれば十分です。近くの泉州旧市街と組み合わせて観光する場合は、もう1日プラスするのがおすすめです。"
+    },
+    "es": {
+      "blurb": "Nan'an es una ciudad de nivel distrital en la provincia de Fujian, administrada por Quanzhou, conocida como un importante centro de producción de piedra y cerámica a lo largo del río Jin. Su histórica zona de Fengzhou fue en su día un centro político y cultural del sur de Fujian, lo que le da a la ciudad una mezcla singular entre el dinamismo industrial y el antiguo patrimonio minnan.",
+      "getting": "Nan'an no cuenta con aeropuerto propio: lo habitual es volar al Aeropuerto Internacional de Quanzhou Jinjiang (JJN), a unos 30 km de distancia, o al Aeropuerto Internacional de Xiamen Gaoqi, situado entre 80 y 97 km, y continuar luego en taxi o autobús. Una parada más reciente de tren de alta velocidad, Nan'an Norte (南安北站), en la línea Xingtai, también conecta la ciudad con la red regional, mientras que autobuses y taxis se encargan de los desplazamientos dentro de la propia ciudad.",
+      "days": "Con unos 2 días basta para recorrer los puntos de interés del pueblo y los talleres de tallado en piedra de Nan'an; conviene sumar un día más si se combina la visita con el casco histórico de la cercana Quanzhou."
+    },
+    "zh": {
+      "blurb": "南安是福建省的一个县级市,由泉州市代管,沿晋江而建,是当地石材和陶瓷产业的重要基地。南安境内的丰州古镇历史悠久,曾是闽南地区的政治文化中心,使这座城市兼具现代工业的活力与闽南古韵的底蕴。",
+      "getting": "南安本身没有机场,游客通常选择飞往约30公里外的泉州晋江国际机场(JJN),或是80至97公里外的厦门高崎国际机场,再转乘出租车或长途汽车前往。此外,兴泉铁路线上新建的南安北站也将南安纳入了更广阔的区域路网,市内出行可依靠公交和出租车解决。",
+      "days": "游览南安的古镇景点和石雕工坊,大约两天时间就足够了;如果想顺道游览附近泉州的历史古城区,建议多留一天。"
+    }
+  },
+  "Pasig": {
+    "en": {
+      "blurb": "Pasig is one of Metro Manila's key eastern cities, anchored by the Ortigas Center business district that it shares with neighbouring Mandaluyong and Quezon City. It blends a historic riverside town centre with glass-tower corporate headquarters, major shopping malls and a modern skyline shaped by decades of commercial growth.",
+      "getting": "Pasig has no airport of its own, so travellers arrive via Ninoy Aquino International Airport (MNL) and continue by taxi, ride-hailing or rail. The city is linked to the rest of Metro Manila by MRT-3 (Ortigas and Shaw Boulevard stations along EDSA) and by LRT Line 2's Santolan station, with jeepneys and tricycles covering the final stretch into central districts.",
+      "days": "Allow ~1 to 2 days to cover Ortigas Center's malls, offices and dining scene along with the older riverside town proper, or longer if using Pasig as a base for exploring the wider Metro Manila area."
+    },
+    "ko": {
+      "blurb": "파식(Pasig)은 메트로 마닐라 동부를 대표하는 주요 도시 중 하나로, 인근 만달루용(Mandaluyong), 케손시티(Quezon City)와 함께 공유하는 오르티가스 센터(Ortigas Center) 비즈니스 지구를 중심으로 발전해 왔습니다. 강변을 따라 자리한 유서 깊은 구시가지와 유리로 뒤덮인 대기업 본사 건물들, 대형 쇼핑몰들이 공존하며, 수십 년간 이어진 상업적 성장이 빚어낸 현대적인 스카이라인을 자랑합니다.",
+      "getting": "파식에는 자체 공항이 없어, 여행자들은 니노이 아키노 국제공항(MNL)을 통해 입국한 뒤 택시나 차량 호출 서비스, 또는 철도를 이용해 이동합니다. 파식은 EDSA를 따라 있는 MRT-3 오르티가스(Ortigas)역과 쇼 대로(Shaw Boulevard)역, 그리고 LRT 2호선의 산톨란(Santolan)역을 통해 메트로 마닐라 다른 지역과 연결되며, 시내 중심부까지 마지막 구간은 지프니와 트라이시클이 담당합니다.",
+      "days": "오르티가스 센터의 쇼핑몰, 오피스, 다양한 맛집들과 더불어 역사 깊은 구시가지 강변 지역까지 둘러보려면 1~2일 정도면 충분하며, 파식을 메트로 마닐라 전역을 여행하기 위한 거점으로 삼는다면 더 길게 머무는 것도 좋습니다."
+    },
+    "ja": {
+      "blurb": "パシグは、隣接するマンダルヨンおよびケソンシティと共有するオルティガス・センター商業地区を中心に発展した、メトロマニラ東部を代表する都市の一つです。リバーサイドに広がる歴史ある旧市街と、ガラス張りの高層本社ビル群、大型ショッピングモール、そして数十年にわたる商業発展が生み出した近代的なスカイラインが融合しています。",
+      "getting": "パシグ市内には空港がないため、旅行者はニノイ・アキノ国際空港（MNL）を利用し、そこからタクシーや配車サービス、鉄道で市内へ向かいます。市はEDSA沿いのMRT-3（オルティガス駅、ショウ・ブールバード駅）や、LRT2号線のサントラン駅でメトロマニラの他エリアと結ばれており、中心部までの最後の区間はジプニーやトライシクルが活躍します。",
+      "days": "オルティガス・センターのモールやオフィス街、グルメスポットに加え、歴史あるリバーサイドの旧市街を巡るなら1～2日ほど見ておくとよいでしょう。パシグを拠点にメトロマニラ一帯を広く観光する場合は、もう少し日数をとることをおすすめします。"
+    },
+    "es": {
+      "blurb": "Pasig es una de las ciudades clave del este de Metro Manila, articulada en torno al distrito empresarial de Ortigas Center, que comparte con las vecinas Mandaluyong y Quezon City. Combina un centro histórico a orillas del río con torres corporativas de cristal, grandes centros comerciales y un perfil urbano moderno, resultado de décadas de crecimiento comercial.",
+      "getting": "Pasig no cuenta con aeropuerto propio, por lo que los viajeros llegan a través del Aeropuerto Internacional Ninoy Aquino (MNL) y continúan en taxi, aplicaciones de transporte o tren. La ciudad está conectada con el resto de Metro Manila mediante el MRT-3 (estaciones de Ortigas y Shaw Boulevard, sobre la EDSA) y la estación de Santolan de la Línea 2 del LRT, mientras que jeepneys y triciclos cubren el tramo final hacia los distritos céntricos.",
+      "days": "Se recomienda dedicar entre 1 y 2 días para recorrer los centros comerciales, oficinas y oferta gastronómica de Ortigas Center, además del casco urbano histórico junto al río, o más tiempo si se usa Pasig como base para explorar el resto de Metro Manila."
+    },
+    "zh": {
+      "blurb": "帕西格市（Pasig）是大马尼拉地区东部的重要城市之一，以奥提加斯中心（Ortigas Center）商务区为核心枢纽，该商务区与毗邻的曼达卢永（Mandaluyong）和奎松市（Quezon City）共享。这里将历史悠久的沿河老城区与摩天corporate大楼、大型购物商场融为一体，经过数十年的商业发展，造就了如今现代化的城市天际线。",
+      "getting": "帕西格本身没有机场，游客一般经由尼诺伊·阿基诺国际机场（MNL）抵达，再转乘出租车、网约车或轨道交通前往市区。该市通过MRT-3线（沿EDSA大道的奥提加斯站和肖大道站）以及LRT 2号线的圣多兰站（Santolan）与大马尼拉其他地区相连，吉普尼和三轮摩托车则负责最后一段前往市中心各街区的路程。",
+      "days": "建议安排1至2天游览奥提加斯中心的购物商场、办公区和美食场所，以及历史更悠久的沿河老城区；若将帕西格作为探索大马尼拉地区的大本营，则可相应延长停留时间。"
+    }
+  },
+  "Puerto Galera": {
+    "en": {
+      "blurb": "Puerto Galera sits on the northern coast of Mindoro, where the Verde Island Passage drops into some of the richest reef diving in the Philippines. Known as the country's diving capital, its waters hold hundreds of coral and reef fish species alongside the laid-back beach towns of Sabang, White Beach and the quieter Muelle Bay, a UNESCO-protected harbour.",
+      "getting": "There is no airport in Puerto Galera itself: travellers fly into Manila's Ninoy Aquino International Airport (NAIA), then travel overland to Batangas Port before taking a ferry across to Puerto Galera, a journey that typically takes ~4 to 6 hours door to door. Fast ferries and RORO boats run the final leg from Batangas to landings such as Balatero or Sabang.",
+      "days": "Plan on ~3 to 5 days: enough time for a couple of dive days on the reefs, a Verde Island excursion, and a day or two relaxing on White Beach."
+    },
+    "ko": {
+      "blurb": "푸에르토 갈레라는 민도로 섬 북쪽 해안에 자리한 곳으로, 베르데 아일랜드 해협이 필리핀에서 손꼽히는 풍부한 산호초 다이빙 명소로 이어지는 지점이다. 필리핀의 다이빙 수도로 불리는 이곳의 바다에는 수백 종의 산호와 암초어가 서식하며, 사방 해변에는 사방(Sabang), 화이트 비치(White Beach), 그리고 유네스코 보호 항구인 한적한 무엘레 베이(Muelle Bay) 같은 여유로운 해변 마을들이 자리하고 있다.",
+      "getting": "푸에르토 갈레라에는 공항이 없다. 여행자들은 보통 마닐라의 니노이 아키노 국제공항(NAIA)으로 입국한 뒤, 육로로 바탕가스 항(Batangas Port)까지 이동하고, 그곳에서 배를 타고 푸에르토 갈레라로 건너간다. 문에서 문까지 전체 여정은 대개 4~6시간 정도 걸린다. 바탕가스에서 발라테로(Balatero)나 사방(Sabang) 같은 선착장까지는 쾌속선이나 로로(RORO) 선박이 마지막 구간을 운항한다.",
+      "days": "약 3~5일 정도를 계획하면 적당하다. 암초에서 이틀 정도 다이빙을 즐기고, 베르데 아일랜드로 당일 여행을 다녀오며, 화이트 비치에서 하루 이틀 느긋하게 쉬기에 충분한 시간이다."
+    },
+    "ja": {
+      "blurb": "プエルトガレラは、ミンドロ島北岸に位置し、ベルデ島海峡がフィリピン屈指の豊かなリーフダイビングスポットへと落ち込む場所にあります。「フィリピンのダイビングの首都」として知られ、その海には何百種ものサンゴや根付き魚が生息しています。あわせて、のんびりとしたビーチタウンのサバン、ホワイトビーチ、そしてユネスコ保護下にある静かな港湾、ムエジェ湾も訪れることができます。",
+      "getting": "プエルトガレラ自体には空港がありません。旅行者はまずマニラのニノイ・アキノ国際空港(NAIA)に到着し、そこから陸路でバタンガス港へ向かい、フェリーに乗ってプエルトガレラへ渡ります。ドアツードアで所要時間はおよそ4~6時間が目安です。バタンガスからの最終区間は、高速フェリーやRORO船がバラテロやサバンなどの船着き場まで運航しています。",
+      "days": "滞在日数の目安は3~5日程度です。リーフでのダイビングを数日楽しみ、ベルデ島への小旅行を組み込み、さらにホワイトビーチでのんびり過ごす日を1~2日設けるとちょうど良いでしょう。"
+    },
+    "es": {
+      "blurb": "Puerto Galera se encuentra en la costa norte de Mindoro, justo donde el Paso de Verde Island da paso a algunos de los arrecifes más ricos para el buceo en Filipinas. Conocida como la capital del buceo del país, sus aguas albergan cientos de especies de coral y peces de arrecife, junto a los relajados pueblos costeros de Sabang, White Beach y la más tranquila Muelle Bay, un puerto protegido por la UNESCO.",
+      "getting": "Puerto Galera no cuenta con aeropuerto propio: los viajeros llegan al Aeropuerto Internacional Ninoy Aquino (NAIA) de Manila y luego viajan por tierra hasta el Puerto de Batangas, donde toman un ferry hacia Puerto Galera. El trayecto completo, puerta a puerta, suele tomar entre 4 y 6 horas. Ferries rápidos y embarcaciones RORO cubren el tramo final desde Batangas hasta desembarcaderos como Balatero o Sabang.",
+      "days": "Calcula entre 3 y 5 días: tiempo suficiente para un par de jornadas de buceo en los arrecifes, una excursión a Verde Island y uno o dos días de descanso en White Beach."
+    },
+    "zh": {
+      "blurb": "普林图加莱拉坐落在民都洛岛北岸,维德岛海峡在这里下探,形成了菲律宾最丰富的珊瑚礁潜水区之一。作为全国的\"潜水之都\",这里的海域栖息着数百种珊瑚和礁鱼,周边则分布着悠闲惬意的海滨小镇——萨邦、白沙滩,以及更为静谧、受联合国教科文组织保护的穆埃莱湾。",
+      "getting": "普林图加莱拉本地并没有机场:游客需先飞抵马尼拉的尼诺伊·阿基诺国际机场(NAIA),再经陆路前往八打雁港,然后搭乘渡轮前往普林图加莱拉,全程门到门通常需要约4到6小时。从八打雁出发的最后一程,可乘坐快船或滚装船(RORO),抵达巴拉特罗或萨邦等登陆点。",
+      "days": "建议安排约3到5天的行程:这样的时间足以安排几天潜水探索珊瑚礁、来一趟维德岛小游,再留一两天在白沙滩悠闲放松。"
+    }
+  },
+  "Ragusa": {
+    "en": {
+      "blurb": "Ragusa is a hill town split into two halves: the orderly, grid-planned Ragusa Superiore above, and the honey-stone tangle of Ragusa Ibla below, rebuilt in lavish Baroque style after the 1693 earthquake flattened the original settlement. Along with seven neighbouring towns, its historic centre is inscribed as a UNESCO World Heritage Site for the Late Baroque Towns of the Val di Noto, and its skyline of domed churches and carved palazzi remains one of southeastern Sicily's defining sights.",
+      "getting": "Most travellers fly into Catania (CTA), the region's main airport, then take a direct bus to Ragusa's bus terminal, a journey of roughly ~1h40m. Comiso Airport (CIY) is technically closer, but its flight and onward transport options are far more limited, so Catania remains the more reliable gateway.",
+      "days": "Plan on ~2 days to take in both halves of town, the Baroque churches and palazzi of Ragusa Ibla, and a slower-paced wander through Ragusa Superiore."
+    },
+    "ko": {
+      "blurb": "라구사는 두 구역으로 나뉜 언덕 위의 도시다. 위쪽에는 격자형으로 반듯하게 설계된 라구사 수페리오레가, 아래쪽에는 꿀빛 석조 건물들이 미로처럼 얽힌 라구사 이블라가 자리한다. 이블라는 1693년 대지진으로 원래의 마을이 완전히 무너진 뒤, 화려한 바로크 양식으로 재건된 곳이다. 라구사의 구시가지는 인근 일곱 개 도시와 함께 '발 디 노토의 후기 바로크 도시들'이라는 이름으로 유네스코 세계문화유산에 등재되어 있으며, 둥근 돔 지붕의 성당들과 정교하게 조각된 팔라초들이 만들어내는 스카이라인은 시칠리아 남동부를 대표하는 풍경으로 꼽힌다.",
+      "getting": "대부분의 여행자는 이 지역의 주요 공항인 카타니아(CTA)로 입국한 뒤, 라구사 버스터미널까지 직행 버스를 타고 이동한다. 소요 시간은 약 1시간 40분 정도다. 코미소 공항(CIY)이 거리상으로는 더 가깝지만, 운항편과 이후 교통수단이 훨씬 제한적이어서, 카타니아가 여전히 더 안정적인 관문 역할을 한다.",
+      "days": "라구사 이블라의 바로크 성당과 팔라초들을 둘러보고, 라구사 수페리오레에서는 좀 더 여유롭게 산책을 즐기려면 양쪽 지역을 모두 둘러보는 데 약 2일 정도를 계획하는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "ラグーザは、丘の上に広がる二つの顔を持つ町だ。上部には整然と碁盤の目状に区画された新市街「ラグーザ・スペリオーレ」が広がり、下部には蜂蜜色の石造りの町並みが入り組む旧市街「ラグーザ・イブラ」がある。1693年の大地震で元の町が壊滅した後、イブラは豪奢なバロック様式で再建された。周辺の7つの町とともに、その歴史地区は「ヴァル・ディ・ノートの後期バロック様式の町々」としてユネスコ世界遺産に登録されており、ドーム屋根の教会や彫刻を施した邸宅が織りなすスカイラインは、シチリア南東部を代表する風景のひとつとなっている。",
+      "getting": "ほとんどの旅行者は、この地域の主要空港であるカターニア空港(CTA)に到着し、そこから直行バスでラグーザのバスターミナルへ向かう。所要時間はおよそ1時間40分だ。コミーゾ空港(CIY)のほうが地理的には近いものの、発着便や乗り継ぎの選択肢がかなり限られているため、カターニアのほうが頼りになる玄関口と言える。",
+      "days": "町の両エリア、つまりラグーザ・イブラのバロック様式の教会や邸宅めぐりと、ラグーザ・スペリオーレをのんびり散策する時間を考えると、滞在の目安は2日ほどだ。"
+    },
+    "es": {
+      "blurb": "Ragusa es una ciudad en la cima de una colina dividida en dos mitades: la ordenada Ragusa Superiore, trazada en cuadrícula, en la parte alta, y el entramado de callejuelas de piedra dorada de Ragusa Ibla, abajo, reconstruida con un exuberante estilo barroco tras el terremoto de 1693 que arrasó el asentamiento original. Junto a otras siete localidades vecinas, su centro histórico está inscrito como Patrimonio de la Humanidad por la UNESCO dentro de las Ciudades Tardobarrocas del Val di Noto, y su perfil urbano de iglesias con cúpulas y palacios tallados sigue siendo uno de los símbolos más representativos del sureste de Sicilia.",
+      "getting": "La mayoría de los viajeros llega en avión a Catania (CTA), el principal aeropuerto de la región, y desde allí toma un autobús directo hasta la terminal de autobuses de Ragusa, un trayecto de aproximadamente 1h40m. El aeropuerto de Comiso (CIY) está técnicamente más cerca, pero sus opciones de vuelos y de transporte posterior son mucho más limitadas, por lo que Catania sigue siendo la puerta de entrada más fiable.",
+      "days": "Conviene reservar unos 2 días para recorrer ambas partes de la ciudad: las iglesias y palacios barrocos de Ragusa Ibla, y un paseo más tranquilo por Ragusa Superiore."
+    },
+    "zh": {
+      "blurb": "拉古萨是一座分为两半的山城:上城是规划整齐、呈棋盘状布局的上拉古萨(Ragusa Superiore),下城则是蜂蜜色石屋错落交织的下拉古萨(Ragusa Ibla)——1693年大地震将原有聚落夷为平地后,下城以华丽的巴洛克风格重建而成。拉古萨连同周边七座城镇的历史中心,一同被列入联合国教科文组织世界遗产名录,统称\"诺托河谷晚期巴洛克城镇\"。如今,这里圆顶教堂与雕饰宫邸交织而成的天际线,依然是西西里岛东南部最具代表性的景观之一。",
+      "getting": "大多数旅行者会先飞抵该地区的主要机场卡塔尼亚机场(CTA),再转乘直达巴士前往拉古萨的巴士总站,车程约1小时40分钟。科米索机场(CIY)虽然地理位置上更近,但航班选择和后续交通都相当有限,因此卡塔尼亚仍是更可靠的进出门户。",
+      "days": "建议安排约2天时间,既能游览上下两座城区,细赏下拉古萨(Ragusa Ibla)的巴洛克教堂与宫邸,也能放慢脚步,在上拉古萨(Ragusa Superiore)悠然漫步。"
+    }
+  },
+  "Reggio Emilia": {
+    "en": {
+      "blurb": "Reggio Emilia is the birthplace of the Italian tricolour flag and a pioneering approach to early-childhood education that bears its name, yet it remains far less touristed than its Emilia-Romagna neighbours. Its compact historic centre of arcaded piazzas and a striking Calatrava-designed rail station sit amid the region famous for Parmigiano-Reggiano and balsamic vinegar production.",
+      "getting": "Most travellers arrive by train: the city has two stations, the central Stazione di Reggio Emilia in town and the Reggio Emilia AV Mediopadana station, a stop on the Milan-Bologna high-speed line about 4km from the centre. There is no major airport in Reggio Emilia itself, so travellers typically fly into Bologna or Milan and connect onward by rail.",
+      "days": "Allow ~1 to 2 days to cover the historic centre, cathedral and galleries, with a half-day extension if adding a side trip into the surrounding Parmigiano and balsamic vinegar countryside."
+    },
+    "ko": {
+      "blurb": "레조 에밀리아는 이탈리아 삼색기가 탄생한 도시이자, 그 이름을 딴 유아 교육법(레조 에밀리아 접근법)의 발상지이지만, 에밀리아로마냐의 이웃 도시들에 비하면 아직 관광객의 발길이 뜸한 곳이다. 아케이드가 늘어선 광장들로 이루어진 아담한 구시가지와 칼라트라바가 설계한 인상적인 기차역이, 파르미지아노 레지아노 치즈와 발사믹 식초 생산지로 유명한 이 지역 한가운데 자리하고 있다.",
+      "getting": "대부분의 여행자는 기차로 레조 에밀리아에 도착한다. 이 도시에는 두 개의 역이 있는데, 시내 중심부에 있는 레조 에밀리아 중앙역(Stazione di Reggio Emilia)과 밀라노-볼로냐 고속철도 노선의 정차역인 레조 에밀리아 AV 메디오파다나역(Reggio Emilia AV Mediopadana)이 그것으로, 후자는 시내에서 약 4km 떨어져 있다. 레조 에밀리아에는 이렇다 할 공항이 없기 때문에, 보통 볼로냐나 밀라노로 입국한 뒤 기차로 갈아타고 이동한다.",
+      "days": "구시가지와 대성당, 미술관을 둘러보는 데는 1~2일 정도면 충분하며, 주변의 파르미지아노 치즈와 발사믹 식초 생산지로 당일 소풍을 다녀올 계획이라면 반나절 정도 더 여유를 두는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "レッジョ・エミリアは、イタリア三色旗発祥の地であり、その名を冠した先進的な幼児教育法「レッジョ・エミリア・アプローチ」の生まれ故郷でもあるが、エミリア・ロマーニャ州の他の都市に比べると観光客はまだ少ない。アーケードが連なる広場が点在するコンパクトな歴史地区には、カラトラバ設計の印象的な鉄道駅があり、周辺はパルミジャーノ・レッジャーノとバルサミコ酢の産地として名高い。",
+      "getting": "多くの旅行者は鉄道で訪れる。市内には2つの駅があり、町なかにある中央駅のレッジョ・エミリア駅と、ミラノ〜ボローニャ間の高速鉄道が停車するレッジョ・エミリアAVメディオパダーナ駅(中心部から約4km)がある。レッジョ・エミリア自体に大きな空港はないため、通常はボローニャかミラノの空港を利用し、そこから鉄道で移動することになる。",
+      "days": "歴史地区、大聖堂、美術館を巡るには1〜2日ほど見ておきたい。さらに、パルミジャーノやバルサミコ酢の産地である郊外へ足を延ばす場合は、半日ほど追加するとよい。"
+    },
+    "es": {
+      "blurb": "Reggio Emilia es la cuna de la bandera tricolor italiana y de un pionero enfoque educativo para la primera infancia que lleva su nombre, y sin embargo sigue siendo mucho menos visitada que sus vecinas de Emilia-Romaña. Su compacto centro histórico de plazas porticadas y una llamativa estación de tren diseñada por Calatrava conviven con una región célebre por la producción de Parmigiano-Reggiano y vinagre balsámico.",
+      "getting": "La mayoría de los viajeros llega en tren: la ciudad cuenta con dos estaciones, la céntrica Stazione di Reggio Emilia y la estación Reggio Emilia AV Mediopadana, parada de la línea de alta velocidad Milán-Bolonia, a unos 4 km del centro. Reggio Emilia no tiene un aeropuerto propio de importancia, así que los viajeros suelen volar a Bolonia o Milán y continuar el trayecto en tren.",
+      "days": "Conviene reservar entre 1 y 2 días para recorrer el centro histórico, la catedral y las galerías, y sumar medio día más si se añade una excursión por la campiña circundante dedicada al Parmigiano y al vinagre balsámico."
+    },
+    "zh": {
+      "blurb": "雷焦艾米利亚是意大利三色旗的诞生地,也是以自身名字命名的\"雷焦艾米利亚幼儿教育法\"的发源地,但相较于艾米利亚-罗马涅大区的其他邻近城市,这里的游客要少得多。紧凑的历史中心遍布拱廊广场,还有一座由卡拉特拉瓦设计、造型惊艳的火车站,周边正是以帕尔马干酪和香醋产区闻名遐迩的地带。",
+      "getting": "大多数游客选择乘火车抵达:市内有两座车站,一座是位于市区的雷焦艾米利亚中央车站(Stazione di Reggio Emilia),另一座是雷焦艾米利亚AV梅迪奥帕达纳站(Reggio Emilia AV Mediopadana),坐落在米兰-博洛尼亚高铁线上,距市中心约4公里。雷焦艾米利亚本地没有大型机场,游客通常飞抵博洛尼亚或米兰,再转乘火车前往。",
+      "days": "建议安排1到2天游览历史中心、主教座堂及各大美术馆,如果想顺道探访周边的帕尔马干酪与香醋产地,可再延长半天行程。"
+    }
+  },
+  "Sanremo": {
+    "en": {
+      "blurb": "Sanremo is the Belle Époque heart of the Italian Riviera, a seafront resort built around its Art Nouveau casino, the Ariston Theatre and the terraced flower farms that gave the \"Riviera dei Fiori\" its name. Palm-lined promenades, a tangled medieval old town called La Pigna and a mild, sheltered climate have drawn everyone from exiled Russian aristocracy to generations of Italian pop stars at the Sanremo Music Festival.",
+      "getting": "Sanremo has no airport of its own: most travellers fly into Nice Côte d'Azur (NCE) across the French border, then connect by train or bus via Ventimiglia, a journey of roughly 1.5 to 2 hours depending on connections. Genoa's Cristoforo Colombo Airport (GOA) is a further-flung Italian alternative, linked to Sanremo's own railway station by a direct regional train (~2h11m).",
+      "days": "Plan on 2 to 3 days: enough to wander La Pigna's old town, see the Casino and Ariston Theatre, stroll the harbour promenade and take at least one side trip along the flower-filled coast."
+    },
+    "ko": {
+      "blurb": "산레모는 이탈리안 리비에라의 벨 에포크를 간직한 해변 휴양도시로, 아르누보 양식의 카지노와 아리스톤 극장, 그리고 \"꽃의 리비에라(Riviera dei Fiori)\"라는 이름을 안겨준 계단식 화훼 농장을 중심으로 발전해왔다. 야자수가 늘어선 산책로와 미로처럼 얽힌 중세 구시가지 라 피냐(La Pigna), 온화하고 아늑한 기후 덕분에 망명한 러시아 귀족부터 산레모 가요제(Sanremo Music Festival)를 빛낸 수많은 이탈리아 팝스타 세대에 이르기까지 다양한 사람들을 끌어모아 왔다.",
+      "getting": "산레모에는 자체 공항이 없다. 대부분의 여행자는 프랑스 국경 너머에 있는 니스 코트다쥐르 공항(NCE)으로 입국한 뒤, 벤티밀리아(Ventimiglia)를 거쳐 기차나 버스로 환승하는데, 연결편에 따라 대략 1시간 30분에서 2시간 정도 걸린다. 제노바의 크리스토포로 콜롬보 공항(GOA)은 조금 더 먼 이탈리아 쪽 대안으로, 산레모 기차역까지 직행 지역열차로 약 2시간 11분이 소요된다.",
+      "days": "2~3일 정도를 계획하면 좋다. 구시가지 라 피냐를 거닐고, 카지노와 아리스톤 극장을 둘러보고, 항구 산책로를 걷는 데다 꽃이 만발한 해안으로 당일치기 여행을 한 번쯤 다녀오기에 충분한 시간이다."
+    },
+    "ja": {
+      "blurb": "サンレモは、イタリアン・リヴィエラが誇るベル・エポック時代の中心地。アール・ヌーヴォー様式のカジノ、アリストン劇場、そして「花のリヴィエラ（リヴィエラ・デイ・フィオーリ）」の名の由来となった段々畑の花農園を中心に広がる海辺のリゾートタウンです。ヤシの木が立ち並ぶ遊歩道、迷路のように入り組んだ中世の旧市街「ラ・ピーニャ」、そして穏やかで温暖な気候が、亡命ロシア貴族からサンレモ音楽祭に出演する歴代のイタリアン・ポップスターまで、さまざまな人々を魅了してきました。",
+      "getting": "サンレモ自体には空港がありません。多くの旅行者はフランス国境を越えたニース・コートダジュール空港（NCE）を利用し、ヴェンティミリアを経由して鉄道やバスで乗り継ぎます。所要時間は接続状況により約1.5～2時間です。イタリア側の選択肢としては、ジェノヴァのクリストフォロ・コロンボ空港（GOA）もあり、こちらはサンレモ駅まで直通の地域列車（約2時間11分）で結ばれています。",
+      "days": "滞在日数の目安は2～3日です。旧市街ラ・ピーニャを散策し、カジノやアリストン劇場を見学、海岸沿いの遊歩道をそぞろ歩きし、さらに花咲くリヴィエラ海岸への小旅行を少なくとも一度は楽しむのにちょうど良い日数です。"
+    },
+    "es": {
+      "blurb": "Sanremo es el corazón Belle Époque de la Riviera italiana, una localidad costera construida en torno a su casino Art Nouveau, el Teatro Ariston y los cultivos de flores escalonados que dieron nombre a la \"Riviera dei Fiori\". Sus paseos bordeados de palmeras, el intrincado casco antiguo medieval conocido como La Pigna y un clima suave y resguardado han atraído a todo tipo de visitantes, desde la aristocracia rusa exiliada hasta generaciones de estrellas del pop italiano en el Festival de la Canción de Sanremo.",
+      "getting": "Sanremo no tiene aeropuerto propio: la mayoría de los viajeros vuela a Niza Côte d'Azur (NCE), ya en territorio francés, y desde allí continúa en tren o autobús vía Ventimiglia, un trayecto de entre 1,5 y 2 horas según las conexiones. El aeropuerto Cristoforo Colombo de Génova (GOA) es otra alternativa italiana algo más alejada, conectada con la propia estación de tren de Sanremo mediante un tren regional directo (aprox. 2h11m).",
+      "days": "Conviene reservar entre 2 y 3 días: tiempo suficiente para perderse por el casco antiguo de La Pigna, visitar el Casino y el Teatro Ariston, pasear por el paseo marítimo del puerto y hacer al menos una excursión por la costa cubierta de flores."
+    },
+    "zh": {
+      "blurb": "圣雷莫是意大利里维埃拉的\"美好年代\"核心地带，这座滨海度假小城因新艺术风格的赌场、阿里斯顿剧院，以及成就了\"花之里维埃拉\"美誉的层层梯田花田而闻名。棕榈树夹道的海滨长廊、错综迂回的中世纪老城\"松果区\"（La Pigna），再加上温和宜人的气候，吸引了从流亡的俄国贵族到历代在圣雷莫音乐节上登台的意大利流行歌星等各路人物纷至沓来。",
+      "getting": "圣雷莫本身没有机场：大多数旅客会先飞抵法国边境另一侧的尼斯蔚蓝海岸机场（NCE），再经文蒂米利亚转乘火车或巴士前往，全程视衔接情况约需1.5至2小时。热那亚的克里斯托弗罗·哥伦布机场（GOA）是距离稍远的意大利境内替代选择，有直达区域列车可抵达圣雷莫火车站（车程约2小时11分钟）。",
+      "days": "建议安排2到3天：足以漫步松果区老城、参观赌场和阿里斯顿剧院、沿港口长廊闲逛，并至少安排一次沿花团锦簇的海岸线出游的短途行程。"
+    }
+  },
+  "Santa Rosa": {
+    "en": {
+      "blurb": "Santa Rosa is a fast-growing city in Laguna province best known for Nuvali, a large master-planned \"eco-city\" of parks, lakes and malls. It functions as a light industrial and commercial hub close to Metro Manila, with major draws including the Enchanted Kingdom theme park and shopping centres like SM City Santa Rosa. Just beyond the capital's edge, it offers a calmer, greener counterpoint to Manila's density without straying far from it.",
+      "getting": "Santa Rosa has no airport of its own: travelers usually fly into Ninoy Aquino International Airport (IATA: MNL) in Manila, the country's main air gateway, located only 26 km from Santa Rosa. From there, point to point buses such as UBE Express run directly to Santa Rosa in approximately 1 hour 30 minutes, or travelers can take a regional bus via the South Luzon Expressway from the Manila area.",
+      "days": "~1-2 days is enough to cover Nuvali's lakes, parks and malls alongside a visit to Enchanted Kingdom, making Santa Rosa an easy short stop or day trip from Manila."
+    },
+    "ko": {
+      "blurb": "산타로사는 라구나 주에서 빠르게 성장하고 있는 도시로, 공원과 호수, 쇼핑몰이 어우러진 대규모 계획 \"에코시티\" 누발리로 가장 잘 알려져 있다. 메트로 마닐라와 가까운 경공업 및 상업 중심지 역할을 하며, 테마파크인 인챈티드 킹덤과 SM 시티 산타로사 같은 쇼핑센터가 주요 볼거리로 꼽힌다. 수도권 바로 외곽에 위치한 이곳은 마닐라의 밀도 높은 분위기와 대비되는 한층 여유롭고 푸르른 풍경을 선사하면서도 멀리 떨어져 있지 않다.",
+      "getting": "산타로사에는 자체 공항이 없어, 여행자들은 보통 필리핀의 주요 관문인 마닐라의 니노이 아키노 국제공항(IATA: MNL)을 이용한다. 공항에서 산타로사까지는 불과 26km 거리다. 공항에서 UBE 익스프레스 같은 직행 버스를 이용하면 약 1시간 30분 만에 산타로사에 도착할 수 있으며, 마닐라 지역에서 남부 루손 고속도로(SLEX)를 경유하는 지방 버스를 타고 이동하는 방법도 있다.",
+      "days": "누발리의 호수와 공원, 쇼핑몰을 둘러보고 인챈티드 킹덤까지 방문하는 데는 1~2일이면 충분해, 산타로사는 마닐라에서 떠나는 짧은 여행지나 당일치기 코스로 안성맞춤이다."
+    },
+    "ja": {
+      "blurb": "サンタローサは、ラグナ州にある急成長中の都市で、公園や湖、ショッピングモールが広がる大規模な計画都市「エコシティ」、ヌバリで特に知られています。メトロマニラにほど近い軽工業・商業の拠点として機能しており、人気スポットとしてはテーマパークのエンチャンテッド・キングダムや、SMシティ・サンタローサなどのショッピングセンターが挙げられます。首都圏のすぐ外側に位置しながら、マニラの喧騒とは一線を画す、落ち着いた緑豊かな雰囲気を味わえる場所です。",
+      "getting": "サンタローサ自体に空港はなく、旅行者は通常、フィリピン最大の玄関口であるマニラのニノイ・アキノ国際空港(IATA: MNL)を利用します。空港からサンタローサまではわずか26kmです。空港からはUBEエクスプレスなどの直行バスが運行しており、約1時間30分でサンタローサに到着します。また、マニラ方面からサウス・ルソン高速道路(SLEX)経由の路線バスを利用することも可能です。",
+      "days": "ヌバリの湖や公園、ショッピングモールを巡り、さらにエンチャンテッド・キングダムにも足を延ばすなら、1〜2日あれば十分です。マニラからの気軽な短期滞在先、あるいは日帰り旅行先としてもぴったりの街です。"
+    },
+    "es": {
+      "blurb": "Santa Rosa es una ciudad de rápido crecimiento en la provincia de Laguna, conocida sobre todo por Nuvali, una gran \"ecociudad\" planificada que reúne parques, lagos y centros comerciales. Funciona como un polo industrial ligero y comercial cercano a Metro Manila, con atractivos destacados como el parque temático Enchanted Kingdom y centros comerciales como SM City Santa Rosa. Justo en las afueras de la capital, ofrece un contrapunto más tranquilo y verde a la densidad de Manila, sin alejarse demasiado de ella.",
+      "getting": "Santa Rosa no cuenta con aeropuerto propio: los viajeros suelen llegar al Aeropuerto Internacional Ninoy Aquino (IATA: MNL) en Manila, la principal puerta de entrada aérea del país, ubicado a solo 26 km de Santa Rosa. Desde allí, buses directos punto a punto como UBE Express llegan a Santa Rosa en aproximadamente 1 hora y 30 minutos, o bien se puede tomar un bus regional por la Expresa del Sur de Luzón (SLEX) desde la zona de Manila.",
+      "days": "Con 1 o 2 días es suficiente para recorrer los lagos, parques y centros comerciales de Nuvali, además de visitar Enchanted Kingdom, lo que convierte a Santa Rosa en una parada corta ideal o una excursión de un día desde Manila."
+    },
+    "zh": {
+      "blurb": "圣罗莎（Santa Rosa）是拉古纳省一座发展迅猛的城市，最广为人知的是Nuvali——一座规划完善的大型\"生态城\"，内有公园、湖泊和购物中心。作为邻近大马尼拉地区的轻工业与商业枢纽，这里最大的亮点包括魔幻王国主题公园（Enchanted Kingdom）以及圣罗莎SM购物中心（SM City Santa Rosa）等商场。虽地处首都边缘之外，但这里环境更为宁静、绿意盎然，与马尼拉的喧嚣繁华形成鲜明对比，却又近在咫尺。",
+      "getting": "圣罗莎本身没有机场：游客通常会飞往马尼拉的尼诺伊·阿基诺国际机场（IATA代码：MNL），这是菲律宾主要的空中门户，距圣罗莎仅26公里。从机场出发，可乘坐UBE Express等点对点巴士直达圣罗莎，车程约1小时30分钟；也可以从马尼拉地区搭乘经南吕宋高速公路（South Luzon Expressway）行驶的区域巴士前往。",
+      "days": "安排1-2天即可游览Nuvali的湖泊、公园和购物中心，并顺道参观魔幻王国主题公园，圣罗莎非常适合作为从马尼拉出发的短途停留地或一日游目的地。"
+    }
+  },
+  "Seogwipo": {
+    "en": {
+      "blurb": "Seogwipo stretches along Jeju Island's volcanic southern coast, where waterfalls drop straight into the sea and citrus orchards climb toward Hallasan in the distance. It trades the bustle of Jeju City for a slower, subtropical pace built around cliffside walks, tangerine farms and the UNESCO-listed coastline.",
+      "getting": "There is no airport or rail line in Seogwipo itself: travellers fly into Jeju International Airport (CJU) on the island's north side, then take a limousine or express bus (around ~1 to 1.5 hours depending on traffic and stops) or a taxi (~50 minutes) south across the island; buses from the regional hub are the most reliable public option.",
+      "days": "Plan on 2 to 3 days to take in the waterfalls, coastal trails and nearby Jungmun resort area at an unhurried pace."
+    },
+    "ko": {
+      "blurb": "서귀포는 제주도 남쪽, 화산이 빚어낸 해안을 따라 펼쳐진 도시로, 폭포가 그대로 바다로 떨어지고 멀리 한라산을 향해 귤밭이 층층이 올라가는 풍경을 품고 있다. 제주시 특유의 분주함 대신, 해안 절벽을 걷고 감귤 농장을 둘러보며 유네스코에 등재된 해안선을 따라 여유롭게 즐기는 아열대의 느린 리듬이 서귀포의 매력이다.",
+      "getting": "서귀포에는 공항이나 철도가 없다. 제주 국제공항(CJU)은 섬 북쪽에 위치해 있어, 그곳으로 입국한 뒤 리무진이나 공항버스(교통 상황과 경유지에 따라 약 1~1.5시간)를 타거나 택시(약 50분)를 이용해 섬을 가로질러 남쪽으로 이동해야 한다. 대중교통을 이용한다면 제주시 버스터미널에서 출발하는 버스가 가장 안정적인 선택이다.",
+      "days": "폭포와 해안 산책로, 인근 중문 관광단지까지 여유롭게 둘러보려면 2~3일 정도 일정을 잡는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "西帰浦(ソグィポ)は、済州島の火山性の南海岸沿いに広がる町で、滝が直接海へと流れ落ち、ミカン畑が遠くにそびえる漢拏山(ハルラサン)へと続いています。済州市の賑わいとは一線を画し、断崖沿いの散策路やミカン農園、ユネスコ世界遺産にも登録された海岸線を中心に、どこか南国らしいゆったりとした時間が流れています。",
+      "getting": "西帰浦自体には空港も鉄道もありません。旅行者はまず島の北側にある済州国際空港(CJU)に到着し、そこからリムジンバスや急行バスで島を南へ横断します(交通状況や停車回数にもよりますが、所要時間はおよそ1~1.5時間)。タクシーを利用する場合は約50分です。公共交通機関としては、済州市のバスターミナルから出る路線バスが最も確実な選択肢です。",
+      "days": "滝めぐりや海岸沿いのトレイル、近くの中文(チュンムン)リゾートエリアまでゆったりと楽しむなら、2~3日程度の滞在がおすすめです。"
+    },
+    "es": {
+      "blurb": "Seogwipo se extiende a lo largo de la costa sur volcánica de la isla de Jeju, donde las cascadas caen directamente al mar y los huertos de cítricos ascienden hacia el Hallasan en la distancia. Aquí se deja atrás el bullicio de la ciudad de Jeju para adentrarse en un ritmo subtropical más pausado, marcado por paseos junto a los acantilados, granjas de mandarinas y el litoral declarado Patrimonio de la Humanidad por la UNESCO.",
+      "getting": "Seogwipo no cuenta con aeropuerto ni línea de tren propios: hay que volar hasta el Aeropuerto Internacional de Jeju (CJU), en el norte de la isla, y desde allí tomar un autobús limusina o exprés (entre 1 y 1,5 horas aproximadamente, según el tráfico y las paradas) o un taxi (unos 50 minutos) para cruzar la isla hacia el sur; los autobuses que salen del aeropuerto son la opción de transporte público más fiable.",
+      "days": "Lo ideal es dedicar entre 2 y 3 días para disfrutar con calma de las cascadas, los senderos costeros y la cercana zona turística de Jungmun."
+    },
+    "zh": {
+      "blurb": "西归浦沿着济州岛火山地貌的南岸延展开来，瀑布在这里直泻入海，柑橘园则一路攀升，远远地望向汉拿山。比起济州市的喧嚣，这里多了一份悠然的亚热带气息，悬崖步道、柑橘农场和被列入世界遗产名录的海岸线，构成了它独有的慢节奏。",
+      "getting": "西归浦本地并没有机场或铁路：游客需先飞抵位于济州岛北侧的济州国际机场（CJU），再乘坐豪华大巴或快线巴士（约1至1.5小时，具体视路况和停靠站而定）或出租车（约50分钟），穿越全岛南下。从机场所在的区域枢纽乘坐巴士，是最稳妥的公共交通方式。",
+      "days": "建议安排2到3天的时间，从容地游览瀑布、海岸步道，以及附近的中文旅游区。"
+    }
+  },
+  "Telangana": {
+    "en": {
+      "blurb": "Telangana is a land of layered history and contrast: the medieval forts and Qutb Shahi monuments of Hyderabad sit alongside gleaming IT towers, while the wider state holds Deccan temple towns, forested hills and the Godavari and Krishna river basins. Its character is forged from Nizam-era grandeur, Nawabi cuisine and a fast-growing modern economy, all within one of India's youngest states.",
+      "getting": "Most travellers arrive via Hyderabad's Rajiv Gandhi International Airport (HYD), located in Shamshabad about 24km south of the city centre, with onward access by metro, taxi or airport bus. Long-distance trains into Hyderabad's main stations and interstate buses from neighbouring hubs are the usual overland routes into the state.",
+      "days": "Allow ~3-4 days to cover Hyderabad's forts, bazaars and food scene at a comfortable pace, or ~6-8 days to combine the capital with Warangal's temples and other regional sights."
+    },
+    "ko": {
+      "blurb": "텔랑가나는 중첩된 역사와 대비가 공존하는 땅이다. 하이데라바드의 중세 요새와 쿠틉 샤히 시대의 기념물들이 반짝이는 IT 빌딩숲과 나란히 자리하고, 주 전역으로 눈을 돌리면 데칸 고원의 사원 마을들과 울창한 산림 지대, 그리고 고다바리강과 크리슈나강이 이루는 유역이 펼쳐진다. 니잠 시대의 웅장함과 나와브 왕조의 미식 전통, 그리고 빠르게 성장하는 현대 경제가 어우러진 텔랑가나는 인도에서 가장 젊은 주 중 하나로서의 정체성을 만들어가고 있다.",
+      "getting": "대부분의 여행자는 하이데라바드의 라지브 간디 국제공항(HYD)을 통해 도착한다. 이 공항은 샴샤바드에 위치해 있으며 시내 중심부에서 남쪽으로 약 24km 떨어져 있고, 메트로나 택시, 공항버스를 이용해 시내로 이동할 수 있다. 하이데라바드 주요 기차역으로 들어오는 장거리 열차와 인근 주요 도시에서 출발하는 주간 버스도 육로로 텔랑가나에 진입하는 일반적인 방법이다.",
+      "days": "하이데라바드의 요새와 시장, 미식 문화를 여유롭게 둘러보려면 약 3~4일이 적당하며, 주도 하이데라바드와 함께 와랑갈의 사원들을 비롯한 주 내 다른 명소들까지 둘러보려면 약 6~8일을 계획하는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "テランガナは、幾重にも重なる歴史とコントラストが交錯する土地だ。ハイデラバードに残る中世の城塞やクトゥブ・シャーヒー朝の荘厳な建造物の傍らには、光り輝くIT企業のビル群がそびえ立つ。一方、州全体に目を向ければ、デカン高原の寺院町や緑深い丘陵地帯、そしてゴーダーヴァリ川とクリシュナ川が形成する流域が広がっている。ニザーム王朝時代の壮麗さ、ナワーブ料理の奥深さ、そして急成長を遂げる現代経済――これらすべてが、インドでも有数の新しい州であるテランガナの個性を形づくっている。",
+      "getting": "多くの旅行者は、ハイデラバード中心部から南へ約24kmのシャムシャバードに位置するラジーブ・ガンディー国際空港(HYD)を利用して到着する。空港からは、メトロ、タクシー、空港バスなどで市内へアクセスできる。陸路の場合は、ハイデラバードの主要駅に乗り入れる長距離列車や、近隣の主要都市からの州間バスが一般的なルートとなる。",
+      "days": "ハイデラバードの城塞やバザール、グルメを余裕をもって楽しむなら3〜4日程度を見ておきたい。州都に加えてワランガルの寺院群など周辺の見どころも組み合わせる場合は、6〜8日ほど確保するとよいだろう。"
+    },
+    "es": {
+      "blurb": "Telangana es una tierra de historia estratificada y contrastes: los fuertes medievales y los monumentos Qutb Shahi de Hyderabad conviven con relucientes torres tecnológicas, mientras que el resto del estado alberga pueblos con templos del Decán, colinas boscosas y las cuencas de los ríos Godavari y Krishna. Su carácter se forjó a partir del esplendor de la era de los Nizam, la cocina Nawabi y una economía moderna en rápido crecimiento, todo ello dentro de uno de los estados más jóvenes de la India.",
+      "getting": "La mayoría de los viajeros llega a través del Aeropuerto Internacional Rajiv Gandhi de Hyderabad (HYD), situado en Shamshabad, a unos 24 km al sur del centro de la ciudad, desde donde se puede continuar en metro, taxi o autobús del aeropuerto. Los trenes de larga distancia hacia las estaciones principales de Hyderabad y los autobuses interestatales procedentes de ciudades vecinas son las vías terrestres habituales para llegar al estado.",
+      "days": "Se recomiendan entre 3 y 4 días para recorrer con calma los fuertes, bazares y la escena gastronómica de Hyderabad, o entre 6 y 8 días si se quiere combinar la capital con los templos de Warangal y otros lugares de interés de la región."
+    },
+    "zh": {
+      "blurb": "泰伦加纳是一片历史层叠、反差鲜明的土地:海得拉巴的中世纪堡垒和库特布沙希王朝古迹,与鳞次栉比的现代IT大楼交相辉映;而放眼整个邦境,又遍布着德干高原的庙宇小镇、林木葱郁的丘陵,以及戈达瓦里河与克里希纳河流域的广袤土地。尼扎姆时代的恢弘气度、纳瓦卜风味的美食传统,与蓬勃发展的现代经济在此交融,共同塑造了这个印度最年轻邦之一的独特气质。",
+      "getting": "大多数旅行者经由海得拉巴的拉吉夫·甘地国际机场(HYD)抵达,该机场位于沙姆沙巴德,距市中心约24公里,可通过地铁、出租车或机场巴士前往市区。从海得拉巴主要火车站进出的长途列车,以及来自周边枢纽城市的跨邦巴士,也是进入该邦的常见陆路方式。",
+      "days": "若想从容游览海得拉巴的城堡、集市和美食,建议安排约3-4天;若想将首府之行与沃朗加尔的庙宇及其他周边景点结合起来,则建议安排约6-8天。"
+    }
   }
 }

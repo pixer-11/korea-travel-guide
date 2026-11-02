@@ -353,6 +353,12 @@
     "es": "Bilbao",
     "zh": "毕尔巴鄂"
   },
+  "Bintan": {
+    "ko": "빈탄",
+    "ja": "ビンタン島",
+    "es": "Bintan",
+    "zh": "民丹岛"
+  },
   "Birmingham": {
     "ko": "버밍엄",
     "ja": "バーミンガム",
@@ -616,6 +622,12 @@
     "ja": "チャンディーガル",
     "es": "Chandigarh",
     "zh": "昌迪加尔"
+  },
+  "Changzhou": {
+    "ko": "창저우",
+    "ja": "常州",
+    "es": "Changzhou",
+    "zh": "常州"
   },
   "Chengdu": {
     "ko": "청두",
@@ -1108,6 +1120,12 @@
     "ja": "ギリ諸島",
     "es": "Islas Gili",
     "zh": "吉利群岛"
+  },
+  "Gimhae": {
+    "ko": "김해",
+    "ja": "金海",
+    "es": "Gimhae",
+    "zh": "金海"
   },
   "Gisborne": {
     "ko": "기즈번",
@@ -2225,6 +2243,12 @@
     "es": "Namangán",
     "zh": "纳曼干"
   },
+  "Nan": {
+    "ko": "난",
+    "ja": "ナーン",
+    "es": "Nan",
+    "zh": "难府"
+  },
   "Nanjing": {
     "ko": "난징",
     "ja": "南京",
@@ -2507,6 +2531,12 @@
     "es": "Ciudad de Pasay",
     "zh": "帕塞市"
   },
+  "Pasig": {
+    "ko": "파시그",
+    "ja": "パシッグ",
+    "es": "Pasig",
+    "zh": "帕西格"
+  },
   "Pathum Thani": {
     "ko": "파툼타니",
     "ja": "パトゥムターニー",
@@ -2645,6 +2675,12 @@
     "es": "Puebla",
     "zh": "普埃布拉"
   },
+  "Puerto Galera": {
+    "ko": "푸에르토 갈레라",
+    "ja": "プエルトガレラ",
+    "es": "Puerto Galera",
+    "zh": "加莱拉港"
+  },
   "Puerto Iguazu": {
     "ko": "푸에르토이과수",
     "ja": "プエルト・イグアス",
@@ -2723,6 +2759,12 @@
     "es": "Quezon City",
     "zh": "奎松市"
   },
+  "Ragusa": {
+    "ko": "라구사",
+    "ja": "ラグーザ",
+    "es": "Ragusa",
+    "zh": "拉古萨"
+  },
   "Ras Al Khaimah": {
     "ko": "라스 알 카이마",
     "ja": "ラスアルハイマ",
@@ -2740,6 +2782,12 @@
     "ja": "レッジョ・ディ・カラブリア",
     "es": "Reggio de Calabria",
     "zh": "雷焦卡拉布里亚"
+  },
+  "Reggio Emilia": {
+    "ko": "레조에밀리아",
+    "ja": "レッジョ・エミリア",
+    "es": "Reggio Emilia",
+    "zh": "艾米利亚雷焦"
   },
   "Rishikesh": {
     "ko": "리시케시",
@@ -2849,6 +2897,18 @@
     "es": "San Sebastián",
     "zh": "圣塞巴斯蒂安"
   },
+  "Sanremo": {
+    "ko": "산레모",
+    "ja": "サンレモ",
+    "es": "San Remo",
+    "zh": "圣雷莫"
+  },
+  "Santa Rosa": {
+    "ko": "산타로사",
+    "ja": "サンタローザ",
+    "es": "Santa Rosa",
+    "zh": "圣罗莎"
+  },
   "Santiago de Compostela": {
     "ko": "산티아고 데 콤포스텔라",
     "ja": "サンティアゴ・デ・コンポステーラ",
@@ -2908,6 +2968,12 @@
     "ja": "セントーサ島",
     "es": "Sentosa",
     "zh": "圣淘沙"
+  },
+  "Seogwipo": {
+    "ko": "서귀포",
+    "ja": "西帰浦",
+    "es": "Seogwipo",
+    "zh": "西归浦"
   },
   "Seoul": {
     "ko": "서울",
@@ -3232,6 +3298,12 @@
     "ja": "テアナウ",
     "es": "Te Anau",
     "zh": "蒂阿瑙"
+  },
+  "Telangana": {
+    "ko": "텔랑가나",
+    "ja": "テランガーナ州",
+    "es": "Telangana",
+    "zh": "泰伦加纳邦"
   },
   "Telavi": {
     "ko": "텔라비",
