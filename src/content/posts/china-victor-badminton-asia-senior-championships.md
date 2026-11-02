@@ -12,6 +12,14 @@ eventOrganizer:
   name: Badminton Asia
   url: https://badmintonasia.org
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Zhongxing_Landmark_01_China_2014-04-30.JPG/1280px-Zhongxing_Landmark_01_China_2014-04-30.JPG'
+  credit: 'Photo: Navigator84 (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'File:Zhongxing Landmark 01 China 2014-04-30.JPG'
+  focus:
+    x: 45
+    y: 45
 tags:
   - china
   - event

@@ -9,7 +9,6 @@ eventStartDate: '2026-11-14'
 eventEndDate: '2026-11-14'
 eventRecurring: true
 eventFactsAsked: true
-gallery: []
 tags:
   - buenos aires
   - event
@@ -27,6 +26,14 @@ faq:
     a: The San Telmo street market runs along Calle Defensa every Sunday. Palermo's parks and rose garden, along with its bar and club scene, round out a festival weekend.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://live.staticflickr.com/4104/5053967258_a4b14aa463_b.jpg
+  credit: 'Photo: Art of Adventuring / flickr (BY)'
+  license: openverse-cc
+  source: https://www.flickr.com/photos/33553598@N08/5053967258
+  focus:
+    x: 50
+    'y': 60
 ---
 
 ## A Saturday in late spring

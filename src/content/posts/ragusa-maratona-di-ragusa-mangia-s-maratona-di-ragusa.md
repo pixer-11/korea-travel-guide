@@ -9,6 +9,14 @@ eventStartDate: '2027-01-17'
 eventEndDate: '2027-01-17'
 eventRecurring: true
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/8/85/21_Ragusa_bei_Nacht.jpg'
+  credit: 'Photo: Ekki3 / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:21_Ragusa_bei_Nacht.jpg'
+  focus:
+    x: 50
+    y: 40
 gallery: []
 tags:
   - ragusa

@@ -6846,5 +6846,37 @@
    "x": 50,
    "y": 50
   }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Zhongxing_Landmark_01_China_2014-04-30.JPG/1280px-Zhongxing_Landmark_01_China_2014-04-30.JPG": {
+  "w": 1280,
+  "h": 896,
+  "focus": {
+   "x": 45,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Puente_Mong%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_01.JPG/3840px-Puente_Mong%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_01.JPG": {
+  "w": 3840,
+  "h": 2591,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Vista_de_Ciudad_Ho_Chi_Minh_desde_Bitexco_Financial_Tower%2C_Vietnam%2C_2013-08-14%2C_DD_13.JPG/3840px-Vista_de_Ciudad_Ho_Chi_Minh_desde_Bitexco_Financial_Tower%2C_Vietnam%2C_2013-08-14%2C_DD_13.JPG": {
+  "w": 3840,
+  "h": 2560,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/8/85/21_Ragusa_bei_Nacht.jpg": {
+  "w": 2500,
+  "h": 1674,
+  "focus": {
+   "x": 50,
+   "y": 40
+  }
  }
 }

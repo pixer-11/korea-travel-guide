@@ -10,7 +10,6 @@ eventEndDate: '2026-11-21'
 eventRecurring: true
 eventVenue: Estadio Nacional
 eventFactsAsked: true
-gallery: []
 tags:
   - lima
   - event
@@ -28,6 +27,16 @@ faq:
     a: Ride-hailing gets slow and expensive as the stadium empties. Fans usually walk ten to fifteen minutes away, towards Arequipa Avenue or Lince, before requesting a car, or they head south on the Metropolitano where it is running.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/The_Warning_at_Sound_of_Music_2022-5.jpg/3840px-The_Warning_at_Sound_of_Music_2022-5.jpg
+  credit: 'Photo: Tabercil / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:The_Warning_at_Sound_of_Music_2022-5.jpg
+  focus:
+    x: 43
+    'y': 18
+    top: 10
+    bottom: 25
 ---
 
 ## One night, three decades of choruses

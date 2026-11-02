@@ -13,6 +13,14 @@ eventOrganizer:
   name: Badminton World Federation
   url: https://bwfbadminton.com
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Vista_de_Ciudad_Ho_Chi_Minh_desde_Bitexco_Financial_Tower%2C_Vietnam%2C_2013-08-14%2C_DD_13.JPG/3840px-Vista_de_Ciudad_Ho_Chi_Minh_desde_Bitexco_Financial_Tower%2C_Vietnam%2C_2013-08-14%2C_DD_13.JPG'
+  credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Vista_de_Ciudad_Ho_Chi_Minh_desde_Bitexco_Financial_Tower,_Vietnam,_2013-08-14,_DD_13.JPG'
+  focus:
+    x: 50
+    y: 50
 tags:
   - ho chi minh city
   - event

@@ -4065,6 +4065,12 @@
   "reason": "patrol reject: identity: Commons places this in Germany, post says Turkey",
   "at": "2026-10-31T22:49:51.546Z"
  },
+ "belek-ironman-70-3-turkey\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Erdinger_-_Ironman_70.3_Budapest_-_2014.08.23_%2813%29.JPG/3840px-Erdinger_-_Ironman_70.3_Budapest_-_2014.08.23_%2813%29.JPG": {
+  "slug": "belek-ironman-70-3-turkey",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Ironman triathlon race with finish line, crowd",
+  "at": "2026-11-02T22:51:01.650Z"
+ },
  "belek-ironman-70-3-turkey\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/IRONMAN_70.3_Hradec_Kralove_2024_2.jpg/1920px-IRONMAN_70.3_Hradec_Kralove_2024_2.jpg": {
   "slug": "belek-ironman-70-3-turkey",
   "verdict": "MISMATCH",
@@ -5172,6 +5178,12 @@
   "reason": "patrol reject: Space shuttle, unrelated to tennis event in Buenos Aires",
   "at": "2026-10-29T00:56:37.086Z"
  },
+ "buenos-aires-creamfields-buenos-aires\u0001https://live.staticflickr.com/4104/5053967258_a4b14aa463_b.jpg": {
+  "slug": "buenos-aires-creamfields-buenos-aires",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Large crowd at night concert/festival event",
+  "at": "2026-11-02T22:52:41.943Z"
+ },
  "buenos-aires-creamfields-buenos-aires\u0001https://upload.wikimedia.org/wikipedia/commons/d/d2/Creamfields_2024_31-08-24.jpg": {
   "slug": "buenos-aires-creamfields-buenos-aires",
   "verdict": "MISMATCH",
@@ -5256,11 +5268,35 @@
   "reason": "event publish gate: Concert stage performance, fits music festival event type",
   "at": "2026-11-02T00:14:04.420Z"
  },
+ "buenos-aires-republica-folklore\u0001https://upload.wikimedia.org/wikipedia/commons/2/2d/Falla_infantil_Puebla_de_Valverde-_II_Rep%C3%BAblica_2025_03.jpg": {
+  "slug": "buenos-aires-republica-folklore",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Street scene unrelated to event, wrong location/country",
+  "at": "2026-11-02T22:53:10.240Z"
+ },
  "buenos-aires-republica-folklore\u0001https://upload.wikimedia.org/wikipedia/commons/8/8b/Disfraz_en_el_Festival_de_las_Flores_2024._Jarabacoa%2C_Rep%C3%BAblica_Dominicana.jpg": {
   "slug": "buenos-aires-republica-folklore",
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: filename shares only \"blica\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-11-02T08:28:03.524Z"
+ },
+ "buenos-aires-republica-folklore\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Falla_Puebla_de_Valverde-_II_Rep%C3%BAblica_2025_01.jpg/3840px-Falla_Puebla_de_Valverde-_II_Rep%C3%BAblica_2025_01.jpg": {
+  "slug": "buenos-aires-republica-folklore",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated sculpture/street scene, not this event or venue",
+  "at": "2026-11-02T22:52:59.647Z"
+ },
+ "buenos-aires-republica-folklore\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Falla_Puebla_de_Valverde-_II_Rep%C3%BAblica_2025_02.jpg/3840px-Falla_Puebla_de_Valverde-_II_Rep%C3%BAblica_2025_02.jpg": {
+  "slug": "buenos-aires-republica-folklore",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated parade sculpture, not Buenos Aires folklore event",
+  "at": "2026-11-02T22:52:52.319Z"
+ },
+ "buenos-aires-republica-folklore\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Falla_infantil_Puebla_de_Valverde-_II_Rep%C3%BAblica_2025_04.jpg/3840px-Falla_infantil_Puebla_de_Valverde-_II_Rep%C3%BAblica_2025_04.jpg": {
+  "slug": "buenos-aires-republica-folklore",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Fallas-style sculpture, unrelated to Buenos Aires event",
+  "at": "2026-11-02T22:53:07.486Z"
  },
  "buenos-aires-san-telmo-fair\u0001https://upload.wikimedia.org/wikipedia/commons/6/6d/Plaza_Dorrego_-_San_Telmo%2C_2005_-_panoramio.jpg": {
   "slug": "buenos-aires-san-telmo-fair",
@@ -5825,6 +5861,12 @@
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: filename shares only \"grey\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-11-02T08:28:03.701Z"
+ },
+ "calgary-113th-grey-cup\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/111th_Grey_Cup%2C_TSN_Panel.jpg/3840px-111th_Grey_Cup%2C_TSN_Panel.jpg": {
+  "slug": "calgary-113th-grey-cup",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Grey Cup broadcast setup at stadium field",
+  "at": "2026-11-02T22:53:19.683Z"
  },
  "calgary-113th-grey-cup\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/111th_Grey_Cup%2C_Trophy.jpg/3840px-111th_Grey_Cup%2C_Trophy.jpg": {
   "slug": "calgary-113th-grey-cup",
@@ -7200,6 +7242,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Badminton shop interior, not championship event or athletes",
   "at": "2026-11-02T00:40:08.176Z"
+ },
+ "china-victor-badminton-asia-senior-championships\u0001https://upload.wikimedia.org/wikipedia/commons/a/a3/Victor_yusim.jpg": {
+  "slug": "china-victor-badminton-asia-senior-championships",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Generic portrait, not badminton event or athlete in action",
+  "at": "2026-11-02T22:54:05.072Z"
  },
  "chinatown-buddha-tooth-relic-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/BTRTM_as_seen_from_Maxwell_MRT_entrance_%282025%29_-_img_05.jpg/1920px-BTRTM_as_seen_from_Maxwell_MRT_entrance_%282025%29_-_img_05.jpg": {
   "slug": "chinatown-buddha-tooth-relic-temple",
@@ -8632,6 +8680,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Dubai street scene, not Design District or event venue",
   "at": "2026-10-29T23:36:17.235Z"
+ },
+ "dubai-sole-dxb\u0001https://upload.wikimedia.org/wikipedia/commons/4/4b/Sole_DXB_CROWD.jpg": {
+  "slug": "dubai-sole-dxb",
+  "verdict": "UNMEASURED",
+  "reason": "patrol retry: width: unknown (<1024) — could not measure",
+  "at": "2026-11-02T22:56:14.622Z"
  },
  "dubai-sole-dxb\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/KID_SOLE.jpg/3840px-KID_SOLE.jpg": {
   "slug": "dubai-sole-dxb",
@@ -10819,6 +10873,12 @@
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: filename shares no word with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-25T08:13:38.466Z"
+ },
+ "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/6/68/TOTAL_BWF_World_Champs_2015_Day_2_Lu_Kai.jpg": {
+  "slug": "hangzhou-bwf-world-tour-finals",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Badminton player at BWF tournament venue",
+  "at": "2026-11-02T22:56:27.467Z"
  },
  "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/7/79/Saurabh_Sharma_at_the_2024_BWF_World_Junior_Championships.jpg": {
   "slug": "hangzhou-bwf-world-tour-finals",
@@ -13025,6 +13085,12 @@
   "verdict": "CITY-TIER",
   "reason": "third tier (owner rule 2026-09-11): 파일명이 Incheon 을 가리킨다",
   "at": "2026-09-13T16:21:05.647Z"
+ },
+ "incheon-round-festival-asean-korea-music-festival\u0001https://upload.wikimedia.org/wikipedia/commons/0/0b/AKMF_Round_Festival_stage_in_Busan.jpg": {
+  "slug": "incheon-round-festival-asean-korea-music-festival",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Concert venue interior with stage lighting and crowd",
+  "at": "2026-11-02T22:57:12.526Z"
  },
  "incheon-round-festival-asean-korea-music-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/AKMF_Round_Festival_Stage.jpg/3840px-AKMF_Round_Festival_Stage.jpg": {
   "slug": "incheon-round-festival-asean-korea-music-festival",
@@ -17488,6 +17554,30 @@
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: filename shares only \"sound\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-11-02T08:28:04.333Z"
+ },
+ "lima-sound-music-fest-golden-years-edition\u0001https://upload.wikimedia.org/wikipedia/commons/6/6e/Primavera_Sound_L.A._%2852514075869%29.jpg": {
+  "slug": "lima-sound-music-fest-golden-years-edition",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: identity: Commons places this in Los Angeles, post says Lima",
+  "at": "2026-11-02T22:58:20.509Z"
+ },
+ "lima-sound-music-fest-golden-years-edition\u0001https://upload.wikimedia.org/wikipedia/commons/9/97/Primavera_Sound_L.A._%2852514354073%29.jpg": {
+  "slug": "lima-sound-music-fest-golden-years-edition",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: identity: Commons places this in Los Angeles, post says Lima",
+  "at": "2026-11-02T22:58:24.973Z"
+ },
+ "lima-sound-music-fest-golden-years-edition\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/The_Sound_of_Music_Gazebo.jpg/3840px-The_Sound_of_Music_Gazebo.jpg": {
+  "slug": "lima-sound-music-fest-golden-years-edition",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Gazebo pavilion unrelated to Sound Music Fest in Lima",
+  "at": "2026-11-02T22:58:26.790Z"
+ },
+ "lima-sound-music-fest-golden-years-edition\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/The_Warning_at_Sound_of_Music_2022-5.jpg/3840px-The_Warning_at_Sound_of_Music_2022-5.jpg": {
+  "slug": "lima-sound-music-fest-golden-years-edition",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Female performer with guitar on stage, concert lighting",
+  "at": "2026-11-02T22:58:30.335Z"
  },
  "lima-taemin-liminal-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/3/30/Taemin_at_Dream_Concert_2015_07.jpg": {
   "slug": "lima-taemin-liminal-world-tour",
@@ -22540,6 +22630,12 @@
   "reason": "hand-reviewed: filename shares no word with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-28T08:38:18.732Z"
  },
+ "new-york-nba-christmas-day-games\u0001https://upload.wikimedia.org/wikipedia/commons/d/db/Partido_NBA_-i---i-_%2832167348191%29.jpg": {
+  "slug": "new-york-nba-christmas-day-games",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Basketball player at indoor arena during game",
+  "at": "2026-11-02T22:58:42.773Z"
+ },
  "new-york-nba-christmas-day-games\u0001https://upload.wikimedia.org/wikipedia/commons/d/dc/Clippers_%40_Nuggets%2C_2025_NBA_playoffs%2C_Game_1%2C_Ball_Arena.jpg": {
   "slug": "new-york-nba-christmas-day-games",
   "verdict": "MISMATCH",
@@ -26225,6 +26321,30 @@
   "verdict": "MATCH",
   "reason": "patrol replace: Female performer with microphone on stage",
   "at": "2026-09-17T22:24:48.158Z"
+ },
+ "ragusa-maratona-di-ragusa-mangia-s-maratona-di-ragusa\u0001https://upload.wikimedia.org/wikipedia/commons/8/85/Maratona_di_Roma_in_2016.04.jpg": {
+  "slug": "ragusa-maratona-di-ragusa-mangia-s-maratona-di-ragusa",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Rome marathon gladiators, unrelated to Ragusa marathon",
+  "at": "2026-11-02T23:01:13.451Z"
+ },
+ "ragusa-maratona-di-ragusa-mangia-s-maratona-di-ragusa\u0001https://upload.wikimedia.org/wikipedia/commons/9/9f/Maratona_di_Roma_in_2016.05.jpg": {
+  "slug": "ragusa-maratona-di-ragusa-mangia-s-maratona-di-ragusa",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Photo shows Rome Marathon, not Ragusa Marathon",
+  "at": "2026-11-02T23:01:08.627Z"
+ },
+ "ragusa-maratona-di-ragusa-mangia-s-maratona-di-ragusa\u0001https://upload.wikimedia.org/wikipedia/commons/a/a5/Maratona_di_Roma_in_2016.03.jpg": {
+  "slug": "ragusa-maratona-di-ragusa-mangia-s-maratona-di-ragusa",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Photo shows Rome marathon, not Ragusa",
+  "at": "2026-11-02T23:01:11.863Z"
+ },
+ "ragusa-maratona-di-ragusa-mangia-s-maratona-di-ragusa\u0001https://upload.wikimedia.org/wikipedia/commons/c/c8/Maratona_di_Roma_in_2016.02.jpg": {
+  "slug": "ragusa-maratona-di-ragusa-mangia-s-maratona-di-ragusa",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Photo shows Rome marathon 2022, not Ragusa",
+  "at": "2026-11-02T23:01:05.388Z"
  },
  "ragusa-maratona-di-ragusa-mangia-s-maratona-di-ragusa\u0001https://upload.wikimedia.org/wikipedia/commons/f/f6/Maratona_di_Roma_in_2016.01.jpg": {
   "slug": "ragusa-maratona-di-ragusa-mangia-s-maratona-di-ragusa",
@@ -34518,11 +34638,35 @@
   "reason": "patrol reject: Olympic Committee building, not wrestling championship venue",
   "at": "2026-11-02T01:09:01.896Z"
  },
+ "ulaanbaatar-mongolian-national-wrestling-championship\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Mongolian_National_University_of_Education_%282025%29.jpg/3840px-Mongolian_National_University_of_Education_%282025%29.jpg": {
+  "slug": "ulaanbaatar-mongolian-national-wrestling-championship",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: University building, not wrestling championship venue or event",
+  "at": "2026-11-02T23:07:54.841Z"
+ },
+ "ulaanbaatar-mongolian-national-wrestling-championship\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Mongolian_National_University_%282024%29.jpg/3840px-Mongolian_National_University_%282024%29.jpg": {
+  "slug": "ulaanbaatar-mongolian-national-wrestling-championship",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: University building, not wrestling championship venue",
+  "at": "2026-11-02T23:07:51.453Z"
+ },
+ "ulaanbaatar-mongolian-national-wrestling-championship\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Mongolian_National_University_of_Education.jpg/3840px-Mongolian_National_University_of_Education.jpg": {
+  "slug": "ulaanbaatar-mongolian-national-wrestling-championship",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: University building, unrelated to wrestling championship or stadium",
+  "at": "2026-11-02T23:07:52.964Z"
+ },
  "ulaanbaatar-mongolian-national-wrestling-championship\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Mongolian_National_Broadcaster_building.jpg/3840px-Mongolian_National_Broadcaster_building.jpg": {
   "slug": "ulaanbaatar-mongolian-national-wrestling-championship",
   "verdict": "MISMATCH",
   "reason": "patrol reject: Shows TV broadcaster building, not wrestling venue",
   "at": "2026-11-02T01:09:00.223Z"
+ },
+ "ulaanbaatar-mongolian-national-wrestling-championship\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Mongolian_National_University_of_Arts_and_Culture.jpg/3840px-Mongolian_National_University_of_Arts_and_Culture.jpg": {
+  "slug": "ulaanbaatar-mongolian-national-wrestling-championship",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Office building, not wrestling venue or event",
+  "at": "2026-11-02T23:07:49.725Z"
  },
  "ulaanbaatar-mongolian-national-wrestling-championship\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Mongolian_National_University_of_Medical_Sciences.jpg/3840px-Mongolian_National_University_of_Medical_Sciences.jpg": {
   "slug": "ulaanbaatar-mongolian-national-wrestling-championship",

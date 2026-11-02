@@ -3298,7 +3298,14 @@
   "sydney-western-sydney-lakes-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Sydney_Harbour_Bridge_from_Circular_Quay.jpg/3840px-Sydney_Harbour_Bridge_from_Circular_Quay.jpg": 3840,
   "telangana-national-women-chess-championship\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/A_torana%2C_gate_to_sacred_precinct%2C_Warangal_Fort_Park_and_Museum%2C_Telangana%2C_India_-_8.jpg/1280px-A_torana%2C_gate_to_sacred_precinct%2C_Warangal_Fort_Park_and_Museum%2C_Telangana%2C_India_-_8.jpg": 1280,
   "vancouver-koyote-festival-north-america-tour-vancouver\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Vancouver_dusk_pano.jpg/3840px-Vancouver_dusk_pano.jpg": 3840,
-  "victoria-fan-tan-alley\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Fan_Tan_Alley%2C_Victoria%2C_British_Columbia%2C_Canada_09.jpg/3840px-Fan_Tan_Alley%2C_Victoria%2C_British_Columbia%2C_Canada_09.jpg": 3840
+  "victoria-fan-tan-alley\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Fan_Tan_Alley%2C_Victoria%2C_British_Columbia%2C_Canada_09.jpg/3840px-Fan_Tan_Alley%2C_Victoria%2C_British_Columbia%2C_Canada_09.jpg": 3840,
+  "belek-ironman-70-3-turkey\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Erdinger_-_Ironman_70.3_Budapest_-_2014.08.23_%2813%29.JPG/3840px-Erdinger_-_Ironman_70.3_Budapest_-_2014.08.23_%2813%29.JPG": 3840,
+  "calgary-113th-grey-cup\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/111th_Grey_Cup%2C_TSN_Panel.jpg/3840px-111th_Grey_Cup%2C_TSN_Panel.jpg": 3840,
+  "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/6/68/TOTAL_BWF_World_Champs_2015_Day_2_Lu_Kai.jpg": 2368,
+  "buenos-aires-creamfields-buenos-aires\u0001https://live.staticflickr.com/4104/5053967258_a4b14aa463_b.jpg": 1024,
+  "incheon-round-festival-asean-korea-music-festival\u0001https://upload.wikimedia.org/wikipedia/commons/0/0b/AKMF_Round_Festival_stage_in_Busan.jpg": 3000,
+  "lima-sound-music-fest-golden-years-edition\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/The_Warning_at_Sound_of_Music_2022-5.jpg/3840px-The_Warning_at_Sound_of_Music_2022-5.jpg": 3840,
+  "new-york-nba-christmas-day-games\u0001https://upload.wikimedia.org/wikipedia/commons/d/db/Partido_NBA_-i---i-_%2832167348191%29.jpg": 1920
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -3630,15 +3637,15 @@
   },
   "istanbul-araf": {
    "width": 1080,
-   "attempts": 2,
-   "nextTry": "2026-11-01",
+   "attempts": 3,
+   "nextTry": "2026-11-09",
    "flaggedAt": "2026-10-01",
    "lastResult": "no-wider"
   },
   "istanbul-istanbul-marathon": {
    "width": 1024,
-   "attempts": 2,
-   "nextTry": "2026-11-01",
+   "attempts": 3,
+   "nextTry": "2026-11-09",
    "flaggedAt": "2026-10-01",
    "lastResult": "no-wider"
   },
@@ -3822,7 +3829,13 @@
    "attempts": 0,
    "nextTry": "2026-11-02",
    "flaggedAt": "2026-11-02"
+  },
+  "buenos-aires-creamfields-buenos-aires": {
+   "width": 1024,
+   "attempts": 0,
+   "nextTry": "2026-11-02",
+   "flaggedAt": "2026-11-02"
   }
  },
- "updated": "2026-11-02T17:46:42.948Z"
+ "updated": "2026-11-02T23:08:52.643Z"
 }
