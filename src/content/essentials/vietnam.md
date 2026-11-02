@@ -6,7 +6,7 @@ lastReviewed: 2026-11-01
 draft: false
 ---
 
-**Quick answer:** UK, Japanese, South Korean and 22 other European passport holders can enter Vietnam visa-free for up to 45 days, while US, Canadian, Australian and most other nationalities need an e-visa valid for up to 90 days (US$25 single entry, US$50 multiple entry) applied for online in advance; always confirm your specific nationality's rules on the official government portals before booking flights.
+**Quick answer:** UK, Japanese, South Korean and 21 other European passport holders can enter Vietnam visa-free for up to 45 days, while US, Canadian, Australian and most other nationalities need an e-visa valid for up to 90 days (US$25 single entry, US$50 multiple entry) applied for online in advance; always confirm your specific nationality's rules on the official government portals before booking flights.
 
 ## Visa & entry
 

@@ -6,7 +6,7 @@ lastReviewed: 2026-11-01
 draft: false
 ---
 
-**Quick answer:** Citizens of 67 countries, including the US, Canada, the UK, most of the EU, Australia and New Zealand, can currently enter South Korea visa-free for 30 to 90 days and are temporarily exempt from K-ETA through December 31, 2026, but everyone without a K-ETA must still file the free e-Arrival Card online within three days of arrival; bring a T-money card for transport, some won alongside your cards, and aim for spring or autumn for the best weather.
+**Quick answer:** Citizens of the US, Canada, the UK, most of the EU, Australia and New Zealand can currently enter South Korea visa-free for 30 to 90 days and, among 67 countries in all, are temporarily exempt from K-ETA through December 31, 2026, but everyone without a K-ETA must still file the free e-Arrival Card online within three days of arrival; bring a T-money card for transport, some won alongside your cards, and aim for spring or autumn for the best weather.
 
 ## Visa & entry
 

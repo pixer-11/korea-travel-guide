@@ -57,9 +57,9 @@ China does not use a single unified emergency number like 911 or 112; instead, d
 - **Fire: 119**
 - **Traffic accidents: 122**
 
-110, 120 and 119 are free calls, and 110 may be used for all emergencies; it is the first number to call if you are unsure which service you need. These lines work on any phone, even without a SIM card.
+110, 120 and 119 are free calls, and 110 may be used for all emergencies; it is the first number to call if you are unsure which service you need.
 
-English-language support is inconsistent outside major cities, though Shanghai's 110 police line is answered in English, Japanese, Russian, German, French, Spanish, Arabic and Korean, with 119 and 120 also offering English support. For general (non-emergency) tourist help, the 24-hour China Tourist Helpline on 12301 has English-speaking operators, and China's consular protection and assistance hotline is 12308. Practical tips: have hotel staff call on your behalf if needed, use a translation app, and keep your embassy's emergency contact saved offline. For a lost or stolen passport, report to local police (110) first to get a loss report, then contact your embassy.
+English-language support is inconsistent outside major cities, though Shanghai's 110 police line is answered in English, Japanese, Russian, German, French, Spanish, Arabic and Korean, with 119 and 120 also offering English support. For general (non-emergency) tourist help, the 24-hour China Tourist Helpline on 12301 has English-speaking operators. For consular help, contact your own embassy: China's 12308 hotline is for Chinese citizens abroad, not for foreign visitors. Practical tips: have hotel staff call on your behalf if needed, use a translation app, and keep your embassy's emergency contact saved offline. For a lost or stolen passport, report to local police (110) first to get a loss report, then contact your embassy.
 
 General safety in China is good by international standards for violent crime, though petty scams around tourist sites and taxi or ride-hailing overcharging do occur, so standard travel precautions apply.
 

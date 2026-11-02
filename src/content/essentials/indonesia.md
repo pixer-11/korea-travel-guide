@@ -6,7 +6,7 @@ lastReviewed: 2026-11-01
 draft: false
 ---
 
-**Quick answer:** Most Western, EU, and many other passport holders can still enter Indonesia on a 30-day e-VOA bought online for IDR 500,000 (about USD 35) through the official evisa.imigrasi.go.id portal, while nine ASEAN states plus a short list of other countries enter visa-free; bring rupiah cash for daily spending, travel in the dry season (roughly April to October) for the best weather, and save 112 as your one number for any emergency, but verify your own nationality's rules on the official portal before you book, since Indonesia's entry system keeps tightening and digitising through 2026.
+**Quick answer:** Most Western, EU, and many other passport holders can still enter Indonesia on a 30-day e-VOA bought online for IDR 500,000 (about USD 35) through the official evisa.imigrasi.go.id portal, while the ten ASEAN states plus a short list of other countries enter visa-free; bring rupiah cash for daily spending, travel in the dry season (roughly April to October) for the best weather, and save 112 as your one number for any emergency, but verify your own nationality's rules on the official portal before you book, since Indonesia's entry system keeps tightening and digitising through 2026.
 
 ## Visa & entry
 

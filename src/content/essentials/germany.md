@@ -51,7 +51,7 @@ For a balance of pleasant weather, manageable crowds, and lower costs, many trav
 
 Germany is considered one of the safest countries in Europe for travellers, though normal city precautions against pickpocketing apply in crowded tourist areas and on public transport.
 
-The official emergency numbers in Germany are 112 for ambulance and fire services, and 110 for police. These numbers are free and work from any phone, even without a SIM card. For urgent-but-not-life-threatening medical help outside GP hours, call 116117, the on-call doctor service (ärztlicher Bereitschaftsdienst), which is free.
+The official emergency numbers in Germany are 112 for ambulance and fire services, and 110 for police. These numbers are free from any phone, even one with no credit, but a mobile phone needs a SIM card: German law has not allowed emergency calls without one since 2009. For urgent-but-not-life-threatening medical help outside GP hours, call 116117, the on-call doctor service (ärztlicher Bereitschaftsdienst), which is free.
 
 If you're ever unsure between 112 and 110 in a genuine emergency, call 112, as operators coordinate with police too. Operators at both numbers can typically switch to English if needed. On motorways, do not stop except in a genuine emergency, and look for the orange roadside emergency phones if you cannot reach help by mobile. If you need non-urgent police assistance, each city has its own non-emergency contact line; check local tourism resources for the number in the city you are visiting.
 

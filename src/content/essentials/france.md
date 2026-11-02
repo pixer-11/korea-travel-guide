@@ -10,7 +10,7 @@ draft: false
 
 ## Visa & entry
 
-For most short-term visitors from the USA, Canada, Australia, UK, Japan and many other countries, no visa is needed for stays of up to 90 days within any rolling 180-day period, counted across the whole Schengen Area rather than just France. The Entry/Exit System (EES), which digitally logs entries and exits at the external border, became fully operational in 2025 and continues to run alongside this rule.
+For most short-term visitors from the USA, Canada, Australia, UK, Japan and many other countries, no visa is needed for stays of up to 90 days within any rolling 180-day period, counted across the whole Schengen Area rather than just France. The Entry/Exit System (EES), which digitally logs entries and exits at the external border, began in stages on 12 October 2025, became fully operational on 10 April 2026, and continues to run alongside this rule.
 
 If your nationality is not on the visa-waiver list, you will need a Schengen short-stay Type C visa, which carries an official government fee of 90 EUR for an adult and 45 EUR for a child aged 6 to 11, with children under 6 free; processing usually takes about 15 calendar days but can extend to 45 days, so apply well ahead of travel.
 
@@ -22,7 +22,7 @@ The big change that has not happened yet is ETIAS, the EU's new travel authorisa
 
 Paris and the Île-de-France region now run on a simplified digital ticketing system with no more tariff zones for visitors. As of 2026, the standard Metro-Train-RER ticket costs €2.55, and a separate Bus-Tram ticket costs €2.05, while a flat €14 fare covers Paris Region to airport journeys, and a day pass costs €12.30. For longer stays, the Forfait Navigo Semaine (weekly pass) costs €32.40, and the monthly pass costs €90.80, covering unlimited Métro, RER, bus, tram and suburban trains.
 
-Paper tickets are genuinely finished: magnetic paper tickets stop working on buses in May 2026 and across the entire rail network, including metro, RER and trains, by June 2026. In their place, visitors use either a reloadable Navigo Easy card or a smartphone. Navigo Easy is a prepaid Paris public transport travel card that costs €2 and can be topped up with individual tickets or passes; alternatively, the Île-de-France Mobilités app, Apple Wallet or (from late 2026) Google Wallet can hold the same tickets digitally.
+Paper tickets are on their way out: magnetic paper tickets stopped working on buses in May 2026, and on the metro, RER and trains cardboard t+ and Origin-Destination tickets are accepted only until 14 December 2026. Leftover tickets can be exchanged at RATP or SNCF counters until 14 January 2027, with no refunds. In their place, visitors use either a reloadable Navigo Easy card or a smartphone. Navigo Easy is a prepaid Paris public transport travel card that costs €2 and can be topped up with individual tickets or passes; alternatively, the Île-de-France Mobilités app, Apple Wallet or (from late 2026) Google Wallet can hold the same tickets digitally.
 
 A major practical change for airport transfers: the Roissybus was permanently discontinued on 1 March 2026, and no direct replacement exists. To reach Charles de Gaulle today, use the new Express 9517 service departing from the Saint-Denis Pleyel hub, accessible in 10 minutes from the city centre via line 14, or take the RER B from Parisian stations such as Gare du Nord, Châtelet or Denfert-Rochereau.
 
