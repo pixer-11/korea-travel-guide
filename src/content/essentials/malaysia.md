@@ -42,7 +42,7 @@ In the monsoon's final phase, from January to March 2027, rainfall is expected t
 
 Malaysia operates a unified emergency number, 999 (or 112 from a mobile phone), that routes callers through to police, ambulance, fire, and civil defence agencies. From a mobile phone, 112 is equally valid and functions even without airtime credit or a PIN unlock, connecting directly to the same 999 response centre. Operators generally handle both Malay and English. The MERS 999 (Malaysian Emergency Response Services) system handles all emergency calls, drawing on police, fire and rescue (Bomba), and ambulance services; response times vary by location and are generally faster in cities than in remote areas.
 
-Misuse carries real penalties: a person can be charged and fined RM50,000 or sentenced to 1 year in prison or both if convicted of a false emergency call to 999. Reserve 999 for genuine emergencies and use your local police station for minor, non-urgent matters. Travel insurance is strongly recommended: Malaysia does not require it for entry, but tourists must pay for medical treatment at the time of service.
+Misuse carries real penalties: misusing the 999 line is an offence under the Communications and Multimedia Act 1998, punishable on conviction by a fine of up to RM500,000, up to 2 years in prison, or both. Reserve 999 for genuine emergencies and use your local police station for minor, non-urgent matters. Travel insurance is strongly recommended: Malaysia does not require it for entry, but tourists must pay for medical treatment at the time of service.
 
 ## Official sources
 

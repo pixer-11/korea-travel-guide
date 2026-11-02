@@ -34,9 +34,9 @@ Cambodia runs on two currencies at once: US dollars for anything over roughly $1
 
 Bring clean, undamaged notes: Cambodian cash-handlers are notoriously strict about torn, marked or very worn dollar bills, and coins aren't used at all, so stock up on crisp notes before you arrive.
 
-ATMs are widely available in Phnom Penh, Siem Reap and Sihanoukville but carry real fees. ATMs are common in cities, dispense mainly USD $100 bills, and usually charge $4–$6 per withdrawal, with some banks charging more and others offering riel as an alternative. Shopping around pays off: BRED Bank charges a $4 fee for up to $2,000 per withdrawal, while PPCBank offers $5 fee for up to $1,000 per withdrawal; fewer, larger withdrawals minimize the proportional cost. In rural areas and on islands, ATMs are rare, so withdraw cash before leaving the city.
+ATMs are widely available in Phnom Penh, Siem Reap and Sihanoukville but carry real fees. ATMs are common in cities, dispense mainly USD $100 bills, and usually charge $4–$6 per withdrawal, with some banks charging more and others offering riel as an alternative. Shopping around pays off: PPCBank, for example, lists a $5 fee per withdrawal of up to $1,000 on overseas-issued cards, and your own bank may add its fee on top; fewer, larger withdrawals minimize the proportional cost. In rural areas and on islands, ATMs are rare, so withdraw cash before leaving the city.
 
-Cards and digital payments cover a lot of ground now. Most hotels and tour operators in Phnom Penh and Siem Reap accept Visa, Mastercard, Apple Pay and Google Pay, and KHQR codes are accepted at 4.9 million merchants, with the Bakong Tourist App working without a Cambodian bank account. Fintech travel cards generally work fine too, including Wise and Revolut. Still, don't go fully cashless: tuk-tuks, markets and rural areas still run largely on cash.
+Cards and digital payments cover a lot of ground now. Most hotels and tour operators in Phnom Penh and Siem Reap accept Visa, Mastercard, Apple Pay and Google Pay, and KHQR codes are accepted at around 4.5 million merchant locations, with the Bakong Tourist App working without a Cambodian bank account. Fintech travel cards generally work fine too, including Wise and Revolut. Still, don't go fully cashless: tuk-tuks, markets and rural areas still run largely on cash.
 
 ## Best time to visit
 
