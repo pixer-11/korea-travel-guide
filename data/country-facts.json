@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06",
+  "updated": "2026-11-03",
   "countries": {
     "South Korea": {
       "climate": [
@@ -5167,80 +5167,80 @@
       "climate": [
         {
           "m": 1,
-          "hi": 6,
-          "lo": 1,
-          "rain": 64
+          "hi": 8,
+          "lo": 3,
+          "rain": 81
         },
         {
           "m": 2,
-          "hi": 8,
-          "lo": 2,
-          "rain": 57
+          "hi": 9,
+          "lo": 4,
+          "rain": 64
         },
         {
           "m": 3,
           "hi": 10,
-          "lo": 2,
-          "rain": 60
+          "lo": 4,
+          "rain": 63
         },
         {
           "m": 4,
           "hi": 13,
-          "lo": 3,
-          "rain": 41
+          "lo": 5,
+          "rain": 40
         },
         {
           "m": 5,
-          "hi": 16,
-          "lo": 7,
-          "rain": 50
+          "hi": 17,
+          "lo": 9,
+          "rain": 45
         },
         {
           "m": 6,
-          "hi": 19,
-          "lo": 10,
-          "rain": 68
+          "hi": 20,
+          "lo": 12,
+          "rain": 58
         },
         {
           "m": 7,
-          "hi": 21,
-          "lo": 12,
-          "rain": 71
+          "hi": 22,
+          "lo": 14,
+          "rain": 51
         },
         {
           "m": 8,
-          "hi": 20,
-          "lo": 12,
-          "rain": 60
+          "hi": 22,
+          "lo": 14,
+          "rain": 52
         },
         {
           "m": 9,
-          "hi": 18,
-          "lo": 9,
-          "rain": 73
+          "hi": 20,
+          "lo": 12,
+          "rain": 62
         },
         {
           "m": 10,
-          "hi": 14,
-          "lo": 7,
-          "rain": 83
+          "hi": 16,
+          "lo": 10,
+          "rain": 90
         },
         {
           "m": 11,
-          "hi": 9,
-          "lo": 4,
-          "rain": 75
+          "hi": 11,
+          "lo": 6,
+          "rain": 91
         },
         {
           "m": 12,
-          "hi": 7,
-          "lo": 3,
-          "rain": 81
+          "hi": 9,
+          "lo": 5,
+          "rain": 90
         }
       ],
-      "climateCity": "York",
-      "climateLat": 53.958659,
-      "climateLng": -1.0791258,
+      "climateCity": "Brighton",
+      "climateLat": 50.821373099999995,
+      "climateLng": -0.1509064,
       "climateYears": 10,
       "holidays": [
         {
@@ -5416,8 +5416,8 @@
         }
       ],
       "climateCity": "Berlin",
-      "climateLat": 52.5190608,
-      "climateLng": 13.401078,
+      "climateLat": 52.521981399999994,
+      "climateLng": 13.413305999999999,
       "climateYears": 10,
       "holidays": [
         {
@@ -5666,12 +5666,12 @@
     },
     "Macau": {
       "climateRejected": {
-        "checked": "2026-10-07",
+        "checked": "2026-11-03",
         "tried": [
           {
-            "city": "Taipa Village",
-            "lat": 22.1535358,
-            "lng": 113.5569969,
+            "city": "Macau Peninsula",
+            "lat": 22.19982,
+            "lng": 113.5394888,
             "issue": "Macau: 하루 일교차가 연평균 1.5도뿐 — 낮과 밤이 같다. 바다 격자를 읽었을 가능성 (마카오 사례 2026-10-07)"
           }
         ]
@@ -5954,9 +5954,9 @@
           "rain": 3
         }
       ],
-      "climateCity": "Dalanzadgad",
-      "climateLat": 47.920659099999995,
-      "climateLng": 106.9154042,
+      "climateCity": "Ulaanbaatar",
+      "climateLat": 47.81860400000001,
+      "climateLng": 106.95074210000001,
       "climateYears": 10,
       "holidays": [
         {
@@ -6197,8 +6197,8 @@
         }
       ],
       "climateCity": "Tbilisi",
-      "climateLat": 41.6930019,
-      "climateLng": 44.808286100000004,
+      "climateLat": 41.6876775,
+      "climateLng": 44.810857,
       "climateYears": 10,
       "holidays": [
         {
@@ -6387,80 +6387,80 @@
       "climate": [
         {
           "m": 1,
-          "hi": 25,
-          "lo": 14,
-          "rain": 79
+          "hi": 24,
+          "lo": 17,
+          "rain": 94
         },
         {
           "m": 2,
-          "hi": 25,
-          "lo": 14,
-          "rain": 89
+          "hi": 24,
+          "lo": 18,
+          "rain": 84
         },
         {
           "m": 3,
-          "hi": 23,
-          "lo": 12,
-          "rain": 90
+          "hi": 22,
+          "lo": 17,
+          "rain": 80
         },
         {
           "m": 4,
           "hi": 20,
-          "lo": 10,
-          "rain": 97
+          "lo": 15,
+          "rain": 107
         },
         {
           "m": 5,
-          "hi": 16,
-          "lo": 8,
-          "rain": 121
+          "hi": 18,
+          "lo": 13,
+          "rain": 125
         },
         {
           "m": 6,
-          "hi": 14,
-          "lo": 6,
-          "rain": 143
+          "hi": 15,
+          "lo": 11,
+          "rain": 142
         },
         {
           "m": 7,
-          "hi": 13,
-          "lo": 6,
-          "rain": 143
+          "hi": 14,
+          "lo": 10,
+          "rain": 160
         },
         {
           "m": 8,
-          "hi": 13,
-          "lo": 5,
-          "rain": 104
+          "hi": 14,
+          "lo": 10,
+          "rain": 117
         },
         {
           "m": 9,
-          "hi": 15,
-          "lo": 7,
-          "rain": 114
+          "hi": 16,
+          "lo": 11,
+          "rain": 113
         },
         {
           "m": 10,
-          "hi": 18,
-          "lo": 9,
-          "rain": 101
+          "hi": 17,
+          "lo": 12,
+          "rain": 96
         },
         {
           "m": 11,
-          "hi": 21,
-          "lo": 11,
-          "rain": 95
+          "hi": 20,
+          "lo": 14,
+          "rain": 92
         },
         {
           "m": 12,
-          "hi": 23,
-          "lo": 13,
-          "rain": 93
+          "hi": 22,
+          "lo": 16,
+          "rain": 84
         }
       ],
-      "climateCity": "Matamata",
-      "climateLat": -37.872194,
-      "climateLng": 175.68321,
+      "climateCity": "Auckland",
+      "climateLat": -36.8511952,
+      "climateLng": 174.7661728,
       "climateYears": 10,
       "holidays": [
         {
@@ -6614,80 +6614,80 @@
       "climate": [
         {
           "m": 1,
-          "hi": -9,
-          "lo": -18,
-          "rain": 53
+          "hi": -6,
+          "lo": -16,
+          "rain": 70
         },
         {
           "m": 2,
-          "hi": -10,
-          "lo": -20,
-          "rain": 59
+          "hi": -3,
+          "lo": -14,
+          "rain": 70
         },
         {
           "m": 3,
-          "hi": -5,
-          "lo": -15,
-          "rain": 73
+          "hi": 3,
+          "lo": -6,
+          "rain": 68
         },
         {
           "m": 4,
-          "hi": -2,
-          "lo": -11,
-          "rain": 65
+          "hi": 10,
+          "lo": 0,
+          "rain": 97
         },
         {
           "m": 5,
-          "hi": 6,
-          "lo": -3,
-          "rain": 85
+          "hi": 18,
+          "lo": 8,
+          "rain": 67
         },
         {
           "m": 6,
-          "hi": 12,
-          "lo": 2,
-          "rain": 120
+          "hi": 24,
+          "lo": 14,
+          "rain": 87
         },
         {
           "m": 7,
-          "hi": 16,
-          "lo": 5,
-          "rain": 88
+          "hi": 28,
+          "lo": 17,
+          "rain": 91
         },
         {
           "m": 8,
-          "hi": 15,
-          "lo": 5,
-          "rain": 76
+          "hi": 27,
+          "lo": 16,
+          "rain": 96
         },
         {
           "m": 9,
-          "hi": 11,
-          "lo": 1,
+          "hi": 23,
+          "lo": 12,
           "rain": 64
         },
         {
           "m": 10,
-          "hi": 2,
-          "lo": -7,
-          "rain": 76
+          "hi": 15,
+          "lo": 6,
+          "rain": 107
         },
         {
           "m": 11,
-          "hi": -6,
-          "lo": -14,
-          "rain": 81
+          "hi": 5,
+          "lo": -3,
+          "rain": 73
         },
         {
           "m": 12,
-          "hi": -10,
-          "lo": -18,
-          "rain": 79
+          "hi": -2,
+          "lo": -10,
+          "rain": 81
         }
       ],
-      "climateCity": "Lake Louise",
-      "climateLat": 51.4161271,
-      "climateLng": -116.21789439999998,
+      "climateCity": "Montreal",
+      "climateLat": 45.5089549,
+      "climateLng": -73.5514907,
       "climateYears": 10,
       "holidays": [
         {
@@ -6801,80 +6801,80 @@
       "climate": [
         {
           "m": 1,
-          "hi": 19,
-          "lo": 7,
-          "rain": 34
+          "hi": 15,
+          "lo": 4,
+          "rain": 98
         },
         {
           "m": 2,
-          "hi": 19,
-          "lo": 7,
-          "rain": 45
+          "hi": 14,
+          "lo": 4,
+          "rain": 187
         },
         {
           "m": 3,
-          "hi": 19,
-          "lo": 7,
-          "rain": 33
+          "hi": 14,
+          "lo": 4,
+          "rain": 100
         },
         {
           "m": 4,
-          "hi": 20,
-          "lo": 6,
-          "rain": 9
+          "hi": 14,
+          "lo": 5,
+          "rain": 43
         },
         {
           "m": 5,
-          "hi": 19,
-          "lo": 5,
-          "rain": 4
-        },
-        {
-          "m": 6,
-          "hi": 19,
-          "lo": 3,
-          "rain": 10
-        },
-        {
-          "m": 7,
-          "hi": 19,
+          "hi": 14,
           "lo": 4,
           "rain": 9
         },
         {
-          "m": 8,
-          "hi": 20,
+          "m": 6,
+          "hi": 15,
           "lo": 3,
-          "rain": 1
+          "rain": 22
         },
         {
-          "m": 9,
-          "hi": 21,
-          "lo": 5,
-          "rain": 10
-        },
-        {
-          "m": 10,
-          "hi": 21,
-          "lo": 6,
-          "rain": 12
-        },
-        {
-          "m": 11,
-          "hi": 21,
-          "lo": 6,
+          "m": 7,
+          "hi": 15,
+          "lo": 3,
           "rain": 7
         },
         {
+          "m": 8,
+          "hi": 16,
+          "lo": 3,
+          "rain": 6
+        },
+        {
+          "m": 9,
+          "hi": 16,
+          "lo": 4,
+          "rain": 13
+        },
+        {
+          "m": 10,
+          "hi": 16,
+          "lo": 4,
+          "rain": 55
+        },
+        {
+          "m": 11,
+          "hi": 16,
+          "lo": 4,
+          "rain": 93
+        },
+        {
           "m": 12,
-          "hi": 20,
-          "lo": 7,
-          "rain": 19
+          "hi": 15,
+          "lo": 4,
+          "rain": 129
         }
       ],
-      "climateCity": "Arequipa",
-      "climateLat": -16.398117900000003,
-      "climateLng": -71.5366937,
+      "climateCity": "Cusco",
+      "climateLat": -13.5183913,
+      "climateLng": -71.9772042,
       "climateYears": 10,
       "holidays": [
         {
@@ -7125,8 +7125,8 @@
         }
       ],
       "climateCity": "Buenos Aires",
-      "climateLat": -34.6393256,
-      "climateLng": -58.3626807,
+      "climateLat": -34.6086531,
+      "climateLng": -58.3782121,
       "climateYears": 10,
       "holidays": [
         {
