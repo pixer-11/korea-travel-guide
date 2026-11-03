@@ -27,16 +27,6 @@ faq:
     a: Peñas, which are informal folk clubs with food and dancing. La Peña del Colorado in Palermo, close to Villa Crespo, is a long-running option.
 aiGenerated: true
 draft: false
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Festival_de_las_Flores_2024._Jarabacoa%2C_Rep%C3%BAblica_Dominicana.jpg/3840px-Festival_de_las_Flores_2024._Jarabacoa%2C_Rep%C3%BAblica_Dominicana.jpg
-  credit: 'Photo: FramesHaus / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Festival_de_las_Flores_2024._Jarabacoa,_Rep%C3%BAblica_Dominicana.jpg
-  focus:
-    x: 50
-    'y': 22
-    top: 5
-    bottom: 38
 ---
 
 ## Two nights of zamba under a roof

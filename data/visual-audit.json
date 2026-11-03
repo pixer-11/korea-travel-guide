@@ -4067,9 +4067,9 @@
  },
  "belek-ironman-70-3-turkey\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Erdinger_-_Ironman_70.3_Budapest_-_2014.08.23_%2813%29.JPG/3840px-Erdinger_-_Ironman_70.3_Budapest_-_2014.08.23_%2813%29.JPG": {
   "slug": "belek-ironman-70-3-turkey",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Ironman triathlon race with finish line, crowd",
-  "at": "2026-11-02T22:51:01.650Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"ironman\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-03T08:22:42.078Z"
  },
  "belek-ironman-70-3-turkey\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/IRONMAN_70.3_Hradec_Kralove_2024_2.jpg/1920px-IRONMAN_70.3_Hradec_Kralove_2024_2.jpg": {
   "slug": "belek-ironman-70-3-turkey",
@@ -5288,9 +5288,9 @@
  },
  "buenos-aires-republica-folklore\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Festival_de_las_Flores_2024._Jarabacoa%2C_Rep%C3%BAblica_Dominicana.jpg/3840px-Festival_de_las_Flores_2024._Jarabacoa%2C_Rep%C3%BAblica_Dominicana.jpg": {
   "slug": "buenos-aires-republica-folklore",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Colorful folklore carnival performers, Buenos Aires event",
-  "at": "2026-11-03T01:44:42.862Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"blica\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-03T08:22:42.276Z"
  },
  "buenos-aires-republica-folklore\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Curativo_de_tabaco_Rep%C3%BAblica_Dominicana.jpg/1920px-Curativo_de_tabaco_Rep%C3%BAblica_Dominicana.jpg": {
   "slug": "buenos-aires-republica-folklore",
@@ -5888,9 +5888,9 @@
  },
  "calgary-113th-grey-cup\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/111th_Grey_Cup%2C_TSN_Panel.jpg/3840px-111th_Grey_Cup%2C_TSN_Panel.jpg": {
   "slug": "calgary-113th-grey-cup",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Grey Cup broadcast setup at stadium field",
-  "at": "2026-11-02T22:53:19.683Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"grey\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-03T08:22:42.470Z"
  },
  "calgary-113th-grey-cup\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/111th_Grey_Cup%2C_Trophy.jpg/3840px-111th_Grey_Cup%2C_Trophy.jpg": {
   "slug": "calgary-113th-grey-cup",
@@ -10924,9 +10924,9 @@
  },
  "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/6/68/TOTAL_BWF_World_Champs_2015_Day_2_Lu_Kai.jpg": {
   "slug": "hangzhou-bwf-world-tour-finals",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Badminton player at BWF tournament venue",
-  "at": "2026-11-02T22:56:27.467Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares no word with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-03T08:22:42.670Z"
  },
  "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/7/79/Saurabh_Sharma_at_the_2024_BWF_World_Junior_Championships.jpg": {
   "slug": "hangzhou-bwf-world-tour-finals",
@@ -11439,6 +11439,12 @@
   "verdict": "MATCH",
   "reason": "Peace Memorial Park exterior, pathways, and grounds visible",
   "at": "2026-07-25T02:43:55.368Z"
+ },
+ "ho-chi-minh-city-8wonder-winter-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Puente_Mong%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_01.JPG/3840px-Puente_Mong%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_01.JPG": {
+  "slug": "ho-chi-minh-city-8wonder-winter-festival",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"minh\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-03T08:22:42.869Z"
  },
  "ho-chi-minh-city-a-by-tung\u0001https://fastly.4sqi.net/img/general/original/403991234_w39WssMySFuPtbmz3qc_I4LOlCWiO0URo2_Aiasdr_U.jpg": {
   "slug": "ho-chi-minh-city-a-by-tung",
@@ -13136,9 +13142,9 @@
  },
  "incheon-round-festival-asean-korea-music-festival\u0001https://upload.wikimedia.org/wikipedia/commons/0/0b/AKMF_Round_Festival_stage_in_Busan.jpg": {
   "slug": "incheon-round-festival-asean-korea-music-festival",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Concert venue interior with stage lighting and crowd",
-  "at": "2026-11-02T22:57:12.526Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"round\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-03T08:22:43.062Z"
  },
  "incheon-round-festival-asean-korea-music-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/AKMF_Round_Festival_Stage.jpg/3840px-AKMF_Round_Festival_Stage.jpg": {
   "slug": "incheon-round-festival-asean-korea-music-festival",
@@ -17629,9 +17635,9 @@
  },
  "lima-sound-music-fest-golden-years-edition\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/The_Warning_at_Sound_of_Music_2022-5.jpg/3840px-The_Warning_at_Sound_of_Music_2022-5.jpg": {
   "slug": "lima-sound-music-fest-golden-years-edition",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Female performer with guitar on stage, concert lighting",
-  "at": "2026-11-02T22:58:30.335Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"sound\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-03T08:22:43.265Z"
  },
  "lima-taemin-liminal-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/3/30/Taemin_at_Dream_Concert_2015_07.jpg": {
   "slug": "lima-taemin-liminal-world-tour",
@@ -22692,9 +22698,9 @@
  },
  "new-york-nba-christmas-day-games\u0001https://upload.wikimedia.org/wikipedia/commons/d/db/Partido_NBA_-i---i-_%2832167348191%29.jpg": {
   "slug": "new-york-nba-christmas-day-games",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Basketball player at indoor arena during game",
-  "at": "2026-11-02T22:58:42.773Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares no word with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-03T08:22:43.465Z"
  },
  "new-york-nba-christmas-day-games\u0001https://upload.wikimedia.org/wikipedia/commons/d/dc/Clippers_%40_Nuggets%2C_2025_NBA_playoffs%2C_Game_1%2C_Ball_Arena.jpg": {
   "slug": "new-york-nba-christmas-day-games",
@@ -26383,9 +26389,9 @@
  },
  "quezon-city-izna-manila-debut-concert\u0001https://upload.wikimedia.org/wikipedia/commons/9/92/Izna_250930.jpg": {
   "slug": "quezon-city-izna-manila-debut-concert",
-  "verdict": "MATCH",
-  "reason": "event publish gate: Group photo of performers at event-related press appearance",
-  "at": "2026-10-08T01:08:39.087Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"izna\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-03T08:22:43.663Z"
  },
  "quezon-city-louis-tomlinson-manila-concert\u0001https://upload.wikimedia.org/wikipedia/commons/9/9f/Louis_Tomlinson.jpg": {
   "slug": "quezon-city-louis-tomlinson-manila-concert",

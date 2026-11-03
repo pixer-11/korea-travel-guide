@@ -13,14 +13,6 @@ eventOrganizer:
   name: Vingroup
   url: https://vingroup.net
 eventFactsAsked: true
-heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Puente_Mong%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_01.JPG/3840px-Puente_Mong%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_01.JPG'
-  credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 3.0)'
-  license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Puente_Mong,_Ciudad_Ho_Chi_Minh,_Vietnam,_2013-08-14,_DD_01.JPG'
-  focus:
-    x: 50
-    y: 50
 gallery: []
 tags:
   - ho chi minh city

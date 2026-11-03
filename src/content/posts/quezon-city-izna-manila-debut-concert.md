@@ -16,16 +16,6 @@ eventPerformer:
   name: izna
   kind: group
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/9/92/Izna_250930.jpg
-  credit: 'Photo: Tv10 / Wikimedia Commons (CC BY 3.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Izna_250930.jpg
-  focus:
-    x: 43
-    'y': 10
-    top: 2
-    bottom: 17
 gallery: []
 tags:
   - quezon city

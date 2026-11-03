@@ -30,14 +30,6 @@ faq:
     a: Kensington's cafés and pubs are between the stadium and downtown. Downtown has Stephen Avenue Walk and the Calgary Tower, and both are a short CTrain ride away. Banff is about 90 minutes west by car if you have an extra day.
 aiGenerated: true
 draft: false
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/111th_Grey_Cup%2C_TSN_Panel.jpg/3840px-111th_Grey_Cup%2C_TSN_Panel.jpg
-  credit: 'Photo: Cmm3 / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:111th_Grey_Cup,_TSN_Panel.jpg
-  focus:
-    x: 50
-    'y': 50
 ---
 
 ## November 15 at McMahon
