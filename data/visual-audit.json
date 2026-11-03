@@ -6051,6 +6051,12 @@
   "reasonKo": "베트남 국기와 박물관 표지판 있는 식민지 건축물",
   "at": "2026-08-19T13:28:07.606Z"
  },
+ "can-tho-ho-chi-minh-monument\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Statue_of_Ho_Chi_Minh_in_Can_Tho.jpg/3840px-Statue_of_Ho_Chi_Minh_in_Can_Tho.jpg": {
+  "slug": "can-tho-ho-chi-minh-monument",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows statue monument plaza, representative hero view",
+  "at": "2026-11-03T07:54:01.859Z"
+ },
  "can-tho-ninh-kieu-wharf\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Ninh_Kieu_Quay.jpg/3840px-Ninh_Kieu_Quay.jpg": {
   "slug": "can-tho-ninh-kieu-wharf",
   "verdict": "MATCH",
@@ -6146,6 +6152,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Exterior facade of La Malmaison building with sign visible",
   "at": "2026-09-15T07:42:32.491Z"
+ },
+ "cannes-marche-forville\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cannes_-_March%C3%A9_Forville.jpg/3840px-Cannes_-_March%C3%A9_Forville.jpg": {
+  "slug": "cannes-marche-forville",
+  "verdict": "MATCH",
+  "reason": "publish gate: Indoor market hall with stalls, matches Marché Forville interior",
+  "at": "2026-11-03T07:54:01.753Z"
  },
  "cannes-mural-cannes-cinema\u0001https://upload.wikimedia.org/wikipedia/commons/b/b8/%E2%80%9CCannes_Cinema%E2%80%9D_mural_on_Place_Cornut-Gentille.jpg": {
   "slug": "cannes-mural-cannes-cinema",
@@ -8195,6 +8207,12 @@
   "reason": "publish gate: Garden dome enclosure with visitors, matches resort attraction",
   "at": "2026-09-15T07:52:12.816Z"
  },
+ "davao-museo-dabawenyo\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Museo_Dabawenyo%2C_Exhibits%2C_August_2026-_13.jpg/3840px-Museo_Dabawenyo%2C_Exhibits%2C_August_2026-_13.jpg": {
+  "slug": "davao-museo-dabawenyo",
+  "verdict": "MATCH",
+  "reason": "publish gate: Museum interior with cultural exhibits, representative hero shot",
+  "at": "2026-11-03T07:54:01.626Z"
+ },
  "davao-people-s-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/People%27s_Park_Davao_%284621404876%29.jpg/1920px-People%27s_Park_Davao_%284621404876%29.jpg": {
   "slug": "davao-people-s-park",
   "verdict": "MATCH",
@@ -10239,6 +10257,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows gardens, fountains, monument, and building matching venue",
   "at": "2026-09-20T07:44:42.320Z"
+ },
+ "granada-la-alcaiceria\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Alcaiceria%2C_Granada%2C_Granada%2C_18_July_2016_%282%29.JPG/3840px-Alcaiceria%2C_Granada%2C_Granada%2C_18_July_2016_%282%29.JPG": {
+  "slug": "granada-la-alcaiceria",
+  "verdict": "MATCH",
+  "reason": "publish gate: Market alley with shops, representative of Alcaicería",
+  "at": "2026-11-03T07:54:01.896Z"
  },
  "granada-mirador-de-san-nicolas\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Alhambra_evening_panorama_Mirador_San_Nicolas_sRGB-1.jpg/1920px-Alhambra_evening_panorama_Mirador_San_Nicolas_sRGB-1.jpg": {
   "slug": "granada-mirador-de-san-nicolas",
@@ -14725,6 +14749,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Mountain landscape representative of Jasper National Park scenery",
   "at": "2026-10-29T08:01:01.561Z"
+ },
+ "jasper-jasper-park-information-centre\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Jasper_Information_Centre_Jasper_Alberta_Canada_01-A.jpg/1920px-Jasper_Information_Centre_Jasper_Alberta_Canada_01-A.jpg": {
+  "slug": "jasper-jasper-park-information-centre",
+  "verdict": "MATCH",
+  "reason": "publish gate: Stone building with mountains, matches Jasper Info Centre exterior",
+  "at": "2026-11-03T07:54:01.588Z"
  },
  "jasper-lac-beauvert\u0001https://upload.wikimedia.org/wikipedia/commons/4/4d/Lac_Beavart_and_Jasper_Park_Lodge.jpg": {
   "slug": "jasper-lac-beauvert",
@@ -21121,6 +21151,12 @@
   "reasonKo": "브로모산 일출, 상징적 경관",
   "at": "2026-08-14T13:59:12.198Z"
  },
+ "mount-bromo-penanjakan-bromo\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Mount_Penanjakan_%28Bromo-Tengger-Semeru%29_at_sunrise.jpg/3840px-Mount_Penanjakan_%28Bromo-Tengger-Semeru%29_at_sunrise.jpg": {
+  "slug": "mount-bromo-penanjakan-bromo",
+  "verdict": "MATCH",
+  "reason": "publish gate: Scenic mountain viewpoint sunrise, representative of Penanjakan Bromo",
+  "at": "2026-11-03T07:54:01.697Z"
+ },
  "mount-bromo-pura-luhur-poten-gunung-bromo\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Pura_Luhur_Poten_Gunung_Bromo_%28temple_near_Mount_Bromo_East_Java%2C_Indonesia%29_%2850364924231%29.jpg/3840px-Pura_Luhur_Poten_Gunung_Bromo_%28temple_near_Mount_Bromo_East_Java%2C_Indonesia%29_%2850364924231%29.jpg": {
   "slug": "mount-bromo-pura-luhur-poten-gunung-bromo",
   "verdict": "MATCH",
@@ -23796,6 +23832,12 @@
   "reason": "publish gate: Representative exterior view of the grand building at dusk",
   "at": "2026-10-24T07:56:57.231Z"
  },
+ "ottawa-confederation-square\u0001https://upload.wikimedia.org/wikipedia/commons/8/88/Confederation_Square_Ottawa.JPG": {
+  "slug": "ottawa-confederation-square",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Confederation Square with war memorial and surrounding buildings",
+  "at": "2026-11-03T07:54:01.787Z"
+ },
  "ottawa-k-pop-infinity-tour-ontario\u0001https://upload.wikimedia.org/wikipedia/commons/1/1b/Taemin_at_K-POP_Concert_in_October_2015_02.jpg": {
   "slug": "ottawa-k-pop-infinity-tour-ontario",
   "verdict": "MISMATCH",
@@ -26029,6 +26071,12 @@
   "reason": "publish gate: Shows plaza monument/obelisk, representative of this landmark",
   "at": "2026-10-28T08:21:23.191Z"
  },
+ "puerto-iguazu-ruins-of-san-ignacio-mini\u0001https://upload.wikimedia.org/wikipedia/commons/2/28/San_Ignacio_Min%C3%AD_mission_ruins.jpg": {
+  "slug": "puerto-iguazu-ruins-of-san-ignacio-mini",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Jesuit ruins matching San Ignacio Miní site",
+  "at": "2026-11-03T07:54:01.539Z"
+ },
  "puerto-princesa-immaculate-conception-cathedral\u0001https://upload.wikimedia.org/wikipedia/commons/7/75/The_Immaculate_Conception_Cathedral_-_panoramio_%282%29.jpg": {
   "slug": "puerto-princesa-immaculate-conception-cathedral",
   "verdict": "MATCH",
@@ -26227,6 +26275,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Park pathways, trees, and greenery representative of park",
   "at": "2026-09-16T07:40:59.337Z"
+ },
+ "putrajaya-putra-square\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Putra_Square_Flags_Putrajaya.jpg/3840px-Putra_Square_Flags_Putrajaya.jpg": {
+  "slug": "putrajaya-putra-square",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows flag square with Malaysian flags, representative view",
+  "at": "2026-11-03T07:54:01.825Z"
  },
  "putrajaya-seri-wawasan-bridge\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Jambatan_Seri_Wawasan_4493633704_3cbff54de1.jpg/1920px-Jambatan_Seri_Wawasan_4493633704_3cbff54de1.jpg": {
   "slug": "putrajaya-seri-wawasan-bridge",
@@ -29627,6 +29681,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows entrance gate labeled Horti Leonini, representative view",
   "at": "2026-09-16T07:43:49.449Z"
+ },
+ "siena-palazzo-pubblico\u0001https://upload.wikimedia.org/wikipedia/commons/b/ba/Siena_Palazzo_Pubblico_e_torre_del_Mangia.jpg": {
+  "slug": "siena-palazzo-pubblico",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Palazzo Pubblico with Torre del Mangia, Siena",
+  "at": "2026-11-03T07:54:01.662Z"
  },
  "siena-palazzo-salimbeni\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Palazzo_Salimbeni%2C_Siena%2C_Headquarters_of_Monte_dei_Paschi_di_Siena%2C_the_worlds_oldest_surviving_bank.jpg/1920px-Palazzo_Salimbeni%2C_Siena%2C_Headquarters_of_Monte_dei_Paschi_di_Siena%2C_the_worlds_oldest_surviving_bank.jpg": {
   "slug": "siena-palazzo-salimbeni",

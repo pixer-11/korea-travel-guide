@@ -39114,5 +39114,89 @@
   "registerBreak": false,
   "worst": "현지인들은 자외선 차단제를 티켓만큼이나 필수로 여깁니다.",
   "at": "2026-11-02T17:40:42.973Z"
+ },
+ "es/guadalajara-fiestas-de-octubre-guadalajara": {
+  "hash": "104969bc0549",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-11-03T08:13:15.386Z"
+ },
+ "es/melbourne-5-seconds-of-summer-everyone-s-a-star-world-tour-melbourne": {
+  "hash": "6598557353d2",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "El coche es la opción más lenta. El aparcamiento del complejo es escaso y las calles se comparten con",
+  "at": "2026-11-03T08:13:16.406Z"
+ },
+ "es/mendoza-camilo-mendoza-concert": {
+  "hash": "ebd4668c762d",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-11-03T08:13:17.680Z"
+ },
+ "ja/jakarta-indonesia-super-100-ii-bwf": {
+  "hash": "c59a91d574aa",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "会期は2026年10月20日(火)から25日(日)まででした。",
+  "at": "2026-11-03T08:18:37.968Z"
+ },
+ "ja/mendoza-camilo-mendoza-concert": {
+  "hash": "282e713a4da7",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "カリル・ウルキサ沿いのレンタサイクル店からは、試飲所をめぐるサイクリストが送り出されています。",
+  "at": "2026-11-03T08:13:26.202Z"
+ },
+ "ko/mendoza-camilo-mendoza-concert": {
+  "hash": "01568711614d",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "카릴 우르키사(Carril Urquiza)를 따라 들어선 자전거 대여점들은 시음장 사이를 오가는 자전거 여행객들을 이곳저곳으로 내보냅니다.",
+  "at": "2026-11-03T08:13:27.755Z"
+ },
+ "zh/mendoza-camilo-mendoza-concert": {
+  "hash": "92e62c5db11f",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "担纲主唱的是留着标志性卷翘小胡子、来自麦德林的歌手卡米洛·埃切维里（Camilo Echeverry）。",
+  "at": "2026-11-03T08:13:33.655Z"
+ },
+ "ja/can-tho-ho-chi-minh-monument": {
+  "hash": "90873411a099",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "評価は高いのですが、カントーほどの規模の街にしてはレビューの数が控えめです。",
+  "at": "2026-11-03T08:13:34.648Z"
+ },
+ "ko/can-tho-ho-chi-minh-monument": {
+  "hash": "bfb45d45a61a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "혼잡도 예측을 보면 시간대별 흐름이 뚜렷합니다.",
+  "at": "2026-11-03T08:13:42.385Z"
+ },
+ "ko/cannes-marche-forville": {
+  "hash": "09ab66244534",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "관광객 대부분이 아침을 먹기도 전에 칸 주민들은 이곳에서 저녁 장을 봅니다.",
+  "at": "2026-11-03T08:13:47.462Z"
+ },
+ "zh/can-tho-ho-chi-minh-monument": {
+  "hash": "68acb9b19c41",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "胡伯伯的雕像静静伫立，目光投向江面。",
+  "at": "2026-11-03T08:13:48.379Z"
+ },
+ "zh/cannes-marche-forville": {
+  "hash": "d2674acea0e7",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "这里是戛纳评价数量最多的地方之一，口碑也一直很好，所以别指望能独享清静。",
+  "at": "2026-11-03T08:13:56.094Z"
  }
 }
