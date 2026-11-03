@@ -10,7 +10,6 @@ eventEndDate: '2026-11-15'
 eventRecurring: true
 eventVenue: National Sports Stadium
 eventFactsAsked: true
-gallery: []
 tags:
   - ulaanbaatar
   - event
@@ -28,6 +27,14 @@ faq:
     a: Proper winter clothing. Ulaanbaatar in November is often well below freezing, so visitors usually wear layers, a hat and gloves. Many also wear a mask because winter heating makes the air smoky.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_National_Sports_Stadium_%28Mongolia%29_01.jpg/3840px-2019_National_Sports_Stadium_%28Mongolia%29_01.jpg
+  credit: 'Photo: JukoFF / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:2019_National_Sports_Stadium_(Mongolia)_01.jpg
+  focus:
+    x: 50
+    'y': 50
 ---
 
 ## Two men, no clock

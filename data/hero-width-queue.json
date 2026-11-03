@@ -3305,7 +3305,13 @@
   "buenos-aires-creamfields-buenos-aires\u0001https://live.staticflickr.com/4104/5053967258_a4b14aa463_b.jpg": 1024,
   "incheon-round-festival-asean-korea-music-festival\u0001https://upload.wikimedia.org/wikipedia/commons/0/0b/AKMF_Round_Festival_stage_in_Busan.jpg": 3000,
   "lima-sound-music-fest-golden-years-edition\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/The_Warning_at_Sound_of_Music_2022-5.jpg/3840px-The_Warning_at_Sound_of_Music_2022-5.jpg": 3840,
-  "new-york-nba-christmas-day-games\u0001https://upload.wikimedia.org/wikipedia/commons/d/db/Partido_NBA_-i---i-_%2832167348191%29.jpg": 1920
+  "new-york-nba-christmas-day-games\u0001https://upload.wikimedia.org/wikipedia/commons/d/db/Partido_NBA_-i---i-_%2832167348191%29.jpg": 1920,
+  "buenos-aires-republica-folklore\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Festival_de_las_Flores_2024._Jarabacoa%2C_Rep%C3%BAblica_Dominicana.jpg/3840px-Festival_de_las_Flores_2024._Jarabacoa%2C_Rep%C3%BAblica_Dominicana.jpg": 3840,
+  "china-victor-badminton-asia-senior-championships\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Zhongxing_Landmark_01_China_2014-04-30.JPG/1280px-Zhongxing_Landmark_01_China_2014-04-30.JPG": 1280,
+  "ho-chi-minh-city-8wonder-winter-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Puente_Mong%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_01.JPG/3840px-Puente_Mong%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_01.JPG": 3840,
+  "ho-chi-minh-city-vietnam-open-badminton\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Vista_de_Ciudad_Ho_Chi_Minh_desde_Bitexco_Financial_Tower%2C_Vietnam%2C_2013-08-14%2C_DD_13.JPG/3840px-Vista_de_Ciudad_Ho_Chi_Minh_desde_Bitexco_Financial_Tower%2C_Vietnam%2C_2013-08-14%2C_DD_13.JPG": 3840,
+  "ragusa-maratona-di-ragusa-mangia-s-maratona-di-ragusa\u0001https://upload.wikimedia.org/wikipedia/commons/8/85/21_Ragusa_bei_Nacht.jpg": 2500,
+  "ulaanbaatar-mongolian-national-wrestling-championship\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_National_Sports_Stadium_%28Mongolia%29_01.jpg/3840px-2019_National_Sports_Stadium_%28Mongolia%29_01.jpg": 3840
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -3359,8 +3365,8 @@
   },
   "surabaya-blue-doors-surabaya": {
    "width": 1080,
-   "attempts": 13,
-   "nextTry": "2026-11-03",
+   "attempts": 14,
+   "nextTry": "2026-11-10",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
@@ -3373,15 +3379,15 @@
   },
   "nha-trang-la-nha": {
    "width": 1102,
-   "attempts": 12,
-   "nextTry": "2026-11-03",
+   "attempts": 13,
+   "nextTry": "2026-11-10",
    "flaggedAt": "2026-08-11",
    "lastResult": "no-wider"
   },
   "phuket-hug-street-food-kata-phuket": {
    "width": 1080,
-   "attempts": 12,
-   "nextTry": "2026-11-03",
+   "attempts": 13,
+   "nextTry": "2026-11-10",
    "flaggedAt": "2026-08-11",
    "lastResult": "no-wider"
   },
@@ -3548,8 +3554,8 @@
   },
   "tashkent-shavi-coffee-roasters": {
    "width": 1103,
-   "attempts": 6,
-   "nextTry": "2026-11-03",
+   "attempts": 7,
+   "nextTry": "2026-11-10",
    "flaggedAt": "2026-09-17",
    "lastResult": "no-wider"
   },
@@ -3837,5 +3843,5 @@
    "flaggedAt": "2026-11-02"
   }
  },
- "updated": "2026-11-02T23:08:52.643Z"
+ "updated": "2026-11-03T01:57:15.506Z"
 }

@@ -1,6 +1,6 @@
 ---
 title: 'Fiestas de Octubre Guadalajara: Dates, Tickets & Venue (Guadalajara)'
-description: 'Fiestas de Octubre Guadalajara runs from October 2 to November 2, 2026: a month of food fairs, art exhibits and charreadas across the Guadalajara metro area, with a Day of the Dead finale and the Catrina parade.'
+description: Fiestas de Octubre Guadalajara was set for October 2 to November 2, 2026, with food fairs, art exhibits, charreadas and a Catrina parade finale.
 country: Mexico
 region: Guadalajara
 category: event
@@ -24,27 +24,26 @@ gallery: []
 tags:
   - guadalajara
   - event
-quickAnswer: 'Fiestas de Octubre Guadalajara runs from October 2 to November 2, 2026: a month of food fairs, art exhibits and charreadas across the Guadalajara metro area, with a Day of the Dead finale and the Catrina parade. The fair has traditionally centred on the Auditorio Benito Juárez grounds in Zapopan. The organiser, the Patronato de las Fiestas de Octubre, sets ticket and entry arrangements.'
+quickAnswer: 'Fiestas de Octubre Guadalajara was set for October 2 to November 2, 2026: a month of food fairs, art exhibits and charreadas across the Guadalajara metro area, with a Day of the Dead finale and the Catrina parade. The fair has traditionally centred on the Auditorio Benito Juárez grounds in Zapopan. The organiser, the Patronato de las Fiestas de Octubre, set the ticket and entry arrangements.'
 faq:
   - q: When is Fiestas de Octubre Guadalajara in 2026?
-    a: It runs from October 2 to November 2, 2026, and ends with a Day of the Dead finale and the Catrina parade.
+    a: The 2026 edition was set for October 2 to November 2, with a Day of the Dead finale and the Catrina parade at the close.
   - q: Where is Fiestas de Octubre held?
     a: The fair has traditionally been based at the Auditorio Benito Juárez grounds in Zapopan, near Estadio Jalisco. The Patronato de las Fiestas de Octubre organises the event and sets each year's venue and ticketing.
   - q: How long should I spend at the fair?
     a: Most visitors spend an evening of three to five hours at the fairgrounds, covering food, pavilions and a show. A charreada or the Catrina parade can fill a second visit.
   - q: What should I eat there?
-    a: 'Look for Jalisco staples: torta ahogada, birria, tejuino and jericalla. Small cash in pesos makes paying at the stalls easier.'
+    a: 'The stalls are known for Jalisco staples: torta ahogada, birria, tejuino and jericalla. Most stalls take cash, and small peso notes make paying easier.'
   - q: What else is happening in Guadalajara in October?
     a: On October 12 the Romería carries the Virgin of Zapopan from Guadalajara Cathedral to the Basílica de Zapopan, one of Mexico's largest pilgrimages. Tlaquepaque and the Hospicio Cabañas make good daytime trips.
 aiGenerated: true
 draft: false
 ---
-
 ## A month that ends with the dead
 
-Most fairs have one big weekend. This one lasts a month. Fiestas de Octubre fills Guadalajara from October 2 to November 2, 2026, and it builds steadily toward its finale. It closes on the Day of the Dead with the Catrina parade, where painted skull faces and long Victorian-style gowns move through the streets.
+Most fairs have one big weekend. This one lasts a month. The 2026 edition of Fiestas de Octubre was set for October 2 to November 2 across Guadalajara. The fair builds steadily toward its finale. It closes on the Day of the Dead with the Catrina parade, where painted skull faces and long Victorian-style gowns move through the streets.
 
-Between those two dates you get food fairs, art exhibits and charreadas. All of it happens in Jalisco, the state that gave Mexico mariachi, tequila and the charro.
+Between those two dates the programme announced food fairs, art exhibits and charreadas. All of it belongs to Jalisco, the state that gave Mexico mariachi, tequila and the charro.
 
 ## The fairgrounds in Zapopan
 
@@ -56,7 +55,7 @@ Most visitors come by ride-hailing app or taxi, because the evening crowds make 
 
 ## What fills the calendar
 
-The programme changes from week to week, so each visit can feel different. These are the threads that run through the whole month:
+The programme usually changes from week to week, so each visit can feel different. These were the threads announced for the whole month:
 
 - **Food fairs:** regional Jalisco cooking alongside dishes from guest states and countries.
 - **Art exhibits:** painting, crafts and folk art from across Mexico, shown in the pavilions.
@@ -67,14 +66,14 @@ A charreada is unlike a North American rodeo. It is scored on style and precisio
 
 ## Eating your way through the stalls
 
-Plan to arrive hungry. The food lanes are where Guadalajara shows off, and a few local staples turn up again and again:
+The food lanes are where Guadalajara shows off, and a few local staples turn up again and again:
 
 - **Torta ahogada:** a crusty birote roll filled with pork and drowned in tomato and chilli sauce.
 - **Birria:** slow-cooked goat or beef, served in consommé or tucked into tacos.
 - **Tejuino:** a cold fermented corn drink with lime, salt and sometimes a scoop of lime sorbet.
 - **Jericalla:** Guadalajara's baked custard with a burnt top, sold in small clay or glass cups.
 
-The torta ahogada will drip. Locals eat it leaning forward over a plate, and they ask for it *media ahogada* (half-drowned) if they want less heat.
+The torta ahogada drips. Locals eat it leaning forward over a plate, and they ask for it *media ahogada* (half-drowned) if they want less heat.
 
 ## Moving through the fair like a tapatío
 
@@ -82,9 +81,9 @@ Cash still matters here. Food and craft stalls mostly want Mexican pesos in smal
 
 Families usually come in the late afternoon and stay into the night. The air cools once the sun goes down and the rides and stages light up. October is the tail end of the rainy season, so a light jacket handles both a shower and the cooler evenings.
 
-At a charreada, people stand and cheer for a clean piece of roping and stay quiet while a rider is setting up. If a mariachi plays at your table, you pay per song, and you agree the number of songs before they start.
+At a charreada, people stand and cheer for a clean piece of roping and stay quiet while a rider is setting up. When a mariachi plays at a table, the table pays per song, and the number of songs is agreed before they start.
 
-For the Catrina parade, people stake out kerbside spots well before it passes. Many paint their own faces: white base, black eye sockets, flowers on the cheeks. Face painters at the fair offer the same look for anyone who didn't bring makeup.
+For the Catrina parade, people stake out kerbside spots well before it passes. Many paint their own faces: white base, black eye sockets, flowers on the cheeks. Face painters at the fair usually offer the same look for anyone without makeup.
 
 ## Around the city in October
 

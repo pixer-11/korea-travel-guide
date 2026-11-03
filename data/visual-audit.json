@@ -5268,6 +5268,12 @@
   "reason": "event publish gate: Concert stage performance, fits music festival event type",
   "at": "2026-11-02T00:14:04.420Z"
  },
+ "buenos-aires-republica-folklore\u0001https://upload.wikimedia.org/wikipedia/commons/0/03/Bel%C3%A9m_-_Pra%C3%A7a_da_Rep%C3%BAblica_%282%29.jpg": {
+  "slug": "buenos-aires-republica-folklore",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Capoeira event, unrelated to República Folklore Buenos Aires",
+  "at": "2026-11-03T01:44:35.587Z"
+ },
  "buenos-aires-republica-folklore\u0001https://upload.wikimedia.org/wikipedia/commons/2/2d/Falla_infantil_Puebla_de_Valverde-_II_Rep%C3%BAblica_2025_03.jpg": {
   "slug": "buenos-aires-republica-folklore",
   "verdict": "MISMATCH",
@@ -5279,6 +5285,18 @@
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: filename shares only \"blica\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-11-02T08:28:03.524Z"
+ },
+ "buenos-aires-republica-folklore\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Festival_de_las_Flores_2024._Jarabacoa%2C_Rep%C3%BAblica_Dominicana.jpg/3840px-Festival_de_las_Flores_2024._Jarabacoa%2C_Rep%C3%BAblica_Dominicana.jpg": {
+  "slug": "buenos-aires-republica-folklore",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Colorful folklore carnival performers, Buenos Aires event",
+  "at": "2026-11-03T01:44:42.862Z"
+ },
+ "buenos-aires-republica-folklore\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Curativo_de_tabaco_Rep%C3%BAblica_Dominicana.jpg/1920px-Curativo_de_tabaco_Rep%C3%BAblica_Dominicana.jpg": {
+  "slug": "buenos-aires-republica-folklore",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Farm field selfie, unrelated to folklore event",
+  "at": "2026-11-03T01:44:39.627Z"
  },
  "buenos-aires-republica-folklore\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Falla_Puebla_de_Valverde-_II_Rep%C3%BAblica_2025_01.jpg/3840px-Falla_Puebla_de_Valverde-_II_Rep%C3%BAblica_2025_01.jpg": {
   "slug": "buenos-aires-republica-folklore",
@@ -5297,6 +5315,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Fallas-style sculpture, unrelated to Buenos Aires event",
   "at": "2026-11-02T22:53:07.486Z"
+ },
+ "buenos-aires-republica-folklore\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Bel%C3%A9m_-_Pra%C3%A7a_da_Rep%C3%BAblica_%285%29.jpg/3840px-Bel%C3%A9m_-_Pra%C3%A7a_da_Rep%C3%BAblica_%285%29.jpg": {
+  "slug": "buenos-aires-republica-folklore",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Outdoor park gathering, not arena venue",
+  "at": "2026-11-03T01:44:38.158Z"
  },
  "buenos-aires-san-telmo-fair\u0001https://upload.wikimedia.org/wikipedia/commons/6/6d/Plaza_Dorrego_-_San_Telmo%2C_2005_-_panoramio.jpg": {
   "slug": "buenos-aires-san-telmo-fair",
@@ -8685,7 +8709,7 @@
   "slug": "dubai-sole-dxb",
   "verdict": "UNMEASURED",
   "reason": "patrol retry: width: unknown (<1024) — could not measure",
-  "at": "2026-11-02T22:56:14.622Z"
+  "at": "2026-11-03T01:46:41.321Z"
  },
  "dubai-sole-dxb\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/KID_SOLE.jpg/3840px-KID_SOLE.jpg": {
   "slug": "dubai-sole-dxb",
@@ -25218,6 +25242,12 @@
   "reason": "patrol reject: Isolated tabletop food shot, not venue interior/exterior",
   "at": "2026-10-02T23:11:28.237Z"
  },
+ "phnom-penh-gordon-ramsay-burger\u0001https://fastly.4sqi.net/img/general/original/7818748_e1BUxrj_91fT0_knzzpd0ldYxV1n2lhoneUWQmg0Q5A.jpg": {
+  "slug": "phnom-penh-gordon-ramsay-burger",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Studio plated crepe shot, not Gordon Ramsay Burger venue",
+  "at": "2026-11-03T01:51:39.787Z"
+ },
  "phnom-penh-high-ground-sky-bar\u0001https://fastly.4sqi.net/img/general/original/68854733_VZziNyH7L7VOigNjDrn-rDCYbxeiClTuIB6W2m9M-aU.jpg": {
   "slug": "phnom-penh-high-ground-sky-bar",
   "verdict": "MISMATCH",
@@ -26016,6 +26046,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Visible photo credit watermark overlaid on image",
   "at": "2026-10-21T22:39:51.614Z"
+ },
+ "puerto-princesa-ironman-70-3-puerto-princesa\u0001https://upload.wikimedia.org/wikipedia/commons/3/31/Ironman_70.3_World_Championships_%289700068327%29.jpg": {
+  "slug": "puerto-princesa-ironman-70-3-puerto-princesa",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Cycling event, not triathlon/Ironman location",
+  "at": "2026-11-03T01:52:31.501Z"
  },
  "puerto-princesa-ironman-70-3-puerto-princesa\u0001https://upload.wikimedia.org/wikipedia/commons/3/34/Ironman_70.3_World_Championships_%289700067755%29.jpg": {
   "slug": "puerto-princesa-ironman-70-3-puerto-princesa",
@@ -34632,6 +34668,12 @@
   "reason": "patrol reject: City government building, not wrestling venue or event",
   "at": "2026-11-02T01:08:58.702Z"
  },
+ "ulaanbaatar-mongolian-national-wrestling-championship\u0001https://upload.wikimedia.org/wikipedia/commons/8/8d/Mongolian_National_University.jpg": {
+  "slug": "ulaanbaatar-mongolian-national-wrestling-championship",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Government building, not wrestling venue or athletes",
+  "at": "2026-11-03T01:55:49.622Z"
+ },
  "ulaanbaatar-mongolian-national-wrestling-championship\u0001https://upload.wikimedia.org/wikipedia/commons/8/8e/Mongolian_National_Olympic_Committee.jpg": {
   "slug": "ulaanbaatar-mongolian-national-wrestling-championship",
   "verdict": "MISMATCH",
@@ -34655,6 +34697,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: University building, unrelated to wrestling championship or stadium",
   "at": "2026-11-02T23:07:52.964Z"
+ },
+ "ulaanbaatar-mongolian-national-wrestling-championship\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_National_Sports_Stadium_%28Mongolia%29_01.jpg/3840px-2019_National_Sports_Stadium_%28Mongolia%29_01.jpg": {
+  "slug": "ulaanbaatar-mongolian-national-wrestling-championship",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Stadium track and field venue, likely National Sports Stadiu",
+  "at": "2026-11-03T01:55:52.516Z"
  },
  "ulaanbaatar-mongolian-national-wrestling-championship\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Mongolian_National_Broadcaster_building.jpg/3840px-Mongolian_National_Broadcaster_building.jpg": {
   "slug": "ulaanbaatar-mongolian-national-wrestling-championship",
