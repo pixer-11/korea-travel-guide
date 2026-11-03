@@ -104,28 +104,29 @@
     "vancouver-triples-world-tour-andless-vancouver",
     "chonburi-bangsaen42-chonburi-marathon",
     "new-york-ocean-prime",
-    "jakarta-bigbang-jakarta-concert-2026"
+    "jakarta-bigbang-jakarta-concert-2026",
+    "singapore-babymonster-world-tour-choom"
   ],
-  "lastSentDay": "2026-11-03",
+  "lastSentDay": "2026-11-04",
   "material": {
-    "day": "2026-11-03",
-    "slug": "jakarta-bigbang-jakarta-concert-2026",
-    "title": "BIGBANG Jakarta Concert 2026: Dates, Tickets & Venue (Jakarta)",
+    "day": "2026-11-04",
+    "slug": "singapore-babymonster-world-tour-choom",
+    "title": "BABYMONSTER World Tour [CHOOM]: Dates, Tickets & Venue (Singapore)",
     "urls": [
-      "https://wanderatlasguides.com/og/social/2026-11-03-jakarta-bigbang-jakarta-concert-2026-1.jpg",
-      "https://wanderatlasguides.com/og/social/2026-11-03-jakarta-bigbang-jakarta-concert-2026-2.jpg"
+      "https://wanderatlasguides.com/og/social/2026-11-04-singapore-babymonster-world-tour-choom-1.jpg",
+      "https://wanderatlasguides.com/og/social/2026-11-04-singapore-babymonster-world-tour-choom-2.jpg"
     ],
-    "igCaption": "BIGBANG hits Sentul's SICC on December 12, 2026, right in their 20th anniversary year — and Indonesian VIPs have been waiting for this one. Crown lightsticks, yellow everywhere, and loud Korean fanchants guaranteed.\n\n#Jakarta #Indonesia #events #travel #wanderatlas #BIGBANG #KpopConcert #Sentul #VisitIndonesia #TravelGuide\n📷 Photo: KOREA.NET - Official page of the Republic of Korea / Wikimedia Commons (CC BY-SA 2.0) (edited)",
-    "thOption": "Getting home after a BIGBANG show at SICC means thousands of fans requesting Grab/Gojek at once. Would you brave that scrum or walk toward the main road first like the regulars do?",
-    "link": "https://wanderatlasguides.com/posts/jakarta-bigbang-jakarta-concert-2026/"
+    "igCaption": "BABYMONSTER brings World Tour [CHOOM] to Singapore Indoor Stadium for two nights, November 28-29, 2026. Expect a steep-raked arena under Kenzo Tange's pyramid roof, monsoon showers by the Kallang Basin, and or\n\n#Singapore #events #travel #wanderatlas\n📷 Photo: Farouk Azim / Wikimedia Commons (CC BY-SA 4.0) (edited)",
+    "thOption": "Two nights, November 28-29, 2026 — would you pick the first night or the second, when fans flying in from Malaysia or Indonesia often land?",
+    "link": "https://wanderatlasguides.com/posts/singapore-babymonster-world-tour-choom/"
   },
   "social": {
-    "thDay": "2026-11-03",
-    "thId": "17993783052065667",
-    "igDay": "2026-11-02",
-    "igId": "18122011318950999",
-    "thSlug": "jakarta-bigbang-jakarta-concert-2026",
-    "igSlug": "new-york-ocean-prime",
+    "thDay": "2026-11-04",
+    "thId": "18098304944556721",
+    "igDay": "2026-11-04",
+    "igId": "17911815171584587",
+    "thSlug": "singapore-babymonster-world-tour-choom",
+    "igSlug": "singapore-babymonster-world-tour-choom",
     "history": [
       {
         "day": "2026-10-10",
@@ -464,7 +465,25 @@
         "day": "2026-10-28",
         "slug": "auckland-christmas-in-the-park-auckland",
         "thId": "18104649440011897",
-        "igId": "18107559517967482"
+        "igId": "18107559517967482",
+        "insights": {
+          "at": "2026-11-04",
+          "th": {
+            "views": 14,
+            "likes": 0,
+            "replies": 0,
+            "reposts": 0,
+            "quotes": 0
+          },
+          "ig": {
+            "reach": 0,
+            "saved": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "views": 0
+          }
+        }
       },
       {
         "day": "2026-10-29",
@@ -497,6 +516,12 @@
         "day": "2026-11-03",
         "slug": "jakarta-bigbang-jakarta-concert-2026",
         "thId": "17993783052065667"
+      },
+      {
+        "day": "2026-11-04",
+        "slug": "singapore-babymonster-world-tour-choom",
+        "thId": "18098304944556721",
+        "igId": "17911815171584587"
       }
     ]
   }
