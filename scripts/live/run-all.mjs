@@ -44,6 +44,7 @@ const CHECKS = [
   ['essentials-hub.mjs', '필수정보 허브'],
   ['checklist.mjs', '체크리스트'],
   ['crowd-wording.mjs', '혼잡 데이터는 「예측」 — 실측·실시간·Live 금지어 0건, 그래프에 받은 날짜×5개 언어'],
+  ['cjk-quotes.mjs', '중국어·한국어 따옴표 여닫이(”光之雨”·“빛의 비(…)“ 아닌 “…”)'],
   ['essentials-countries.mjs', '나라별 필수정보 전수'],
   ['events-pages.mjs', '이벤트 페이지 전수'],
   ['itineraries.mjs', '일정 페이지 전수'],

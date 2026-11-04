@@ -799,11 +799,12 @@ function sitemapSplitIntegration() {
 
 import rehypeMidCta from './src/lib/rehype-mid-cta.mjs';
 import rehypeLocalizeLinks from './src/lib/rehype-localize-links.mjs';
+import rehypeCjkQuotes from './src/lib/rehype-cjk-quotes.mjs';
 
 export default defineConfig({
   site: SITE,
   markdown: {
-    rehypePlugins: [rehypeMidCta, rehypeLocalizeLinks],
+    rehypePlugins: [rehypeMidCta, rehypeLocalizeLinks, rehypeCjkQuotes],
   },
   integrations: [
     sitemap({
