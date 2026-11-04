@@ -31,11 +31,28 @@ const BLOCK = (url) => isAnalyticsRequest(url.href);
 // got an answer (a thrown network error, not an HTTP status) is tried once
 // more after 3 s; a site that is really down fails twice. Every check imports
 // this file, so all of them get it.
+// A 5xx answer is the same one-off and gets the same second try (2026-11-04
+// 05:1x KST: /zh/destinations/mexico/ and /ko/tools/esim/china/ answered 500
+// once in a run of ~850 menu and home links, 200 on every request after —
+// those pages are static files the worker never touches). page.goto below
+// already retried an error status; plain fetch did not.
 if (!globalThis.fetch.__waRetry) {
   const plain = globalThis.fetch;
   globalThis.fetch = async (input, init) => {
     try {
-      return await plain(input, init);
+      const res = await plain(input, init);
+      // Reads only: a POST (the signup Origin check) is never sent twice.
+      const method = String(init?.method || input?.method || 'GET').toUpperCase();
+      if (res.status < 500 || init?.signal?.aborted || (method !== 'GET' && method !== 'HEAD')) return res;
+      console.log(`  (error response ${res.status}, trying once more: ${input?.url ?? input})`);
+      // The first answer is closed, and the wait ends with the caller's own
+      // time limit (deployLag's 15 s), not 5 s past it (Codex, 11-04).
+      await res.body?.cancel().catch(() => {});
+      await new Promise((r) => {
+        const t = setTimeout(r, 5_000);
+        init?.signal?.addEventListener('abort', () => { clearTimeout(t); r(); }, { once: true });
+      });
+      return plain(input, init);
     } catch (e) {
       if (e?.name === 'AbortError' || init?.signal?.aborted) throw e;
       console.log(`  (no answer: ${e?.cause?.code || e?.message}, trying once more: ${input?.url ?? input})`);
