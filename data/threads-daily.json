@@ -105,27 +105,28 @@
     "chonburi-bangsaen42-chonburi-marathon",
     "new-york-ocean-prime",
     "jakarta-bigbang-jakarta-concert-2026",
-    "singapore-babymonster-world-tour-choom"
+    "singapore-babymonster-world-tour-choom",
+    "palawan-secret-lagoon"
   ],
-  "lastSentDay": "2026-11-04",
+  "lastSentDay": "2026-11-05",
   "material": {
-    "day": "2026-11-04",
-    "slug": "singapore-babymonster-world-tour-choom",
-    "title": "BABYMONSTER World Tour [CHOOM]: Dates, Tickets & Venue (Singapore)",
+    "day": "2026-11-05",
+    "slug": "palawan-secret-lagoon",
+    "title": "Secret Lagoon: Palawan Travel Guide",
     "urls": [
-      "https://wanderatlasguides.com/og/social/2026-11-04-singapore-babymonster-world-tour-choom-1.jpg",
-      "https://wanderatlasguides.com/og/social/2026-11-04-singapore-babymonster-world-tour-choom-2.jpg"
+      "https://wanderatlasguides.com/og/social/2026-11-05-palawan-secret-lagoon-1.jpg",
+      "https://wanderatlasguides.com/og/social/2026-11-05-palawan-secret-lagoon-2.jpg"
     ],
-    "igCaption": "BABYMONSTER brings World Tour [CHOOM] to Singapore Indoor Stadium for two nights, November 28-29, 2026. Expect a steep-raked arena under Kenzo Tange's pyramid roof, monsoon showers by the Kallang Basin, and or\n\n#Singapore #events #travel #wanderatlas\n📷 Photo: Farouk Azim / Wikimedia Commons (CC BY-SA 4.0) (edited)",
-    "thOption": "Two nights, November 28-29, 2026 — would you pick the first night or the second, when fans flying in from Malaysia or Indonesia often land?",
-    "link": "https://wanderatlasguides.com/posts/singapore-babymonster-world-tour-choom/"
+    "igCaption": "You won't see it coming — just a sliver of a gap in a limestone wall, then suddenly you're floating in a hidden, cliff-ringed pool with barely a ripple. Twenty quiet minutes, then back out into the world. El Nido does it again.\n\n#SecretLagoon #Palawan #Philippines #travelguide #travel #wanderatlas #ElNido #PhilippinesTravel #HiddenGem #TourA\n📷 Photo: Sahara Shandra Datuimam / Wikimedia Commons (CC BY-SA 4.0) (edited)",
+    "thOption": "Would you swim through a half-submerged cave opening just to float inside a hidden lagoon for 20 minutes? That's literally the whole visit at Secret Lagoon, El Nido.",
+    "link": "https://wanderatlasguides.com/posts/palawan-secret-lagoon/"
   },
   "social": {
-    "thDay": "2026-11-04",
-    "thId": "18098304944556721",
+    "thDay": "2026-11-05",
+    "thId": "17979098688299270",
     "igDay": "2026-11-04",
     "igId": "17911815171584587",
-    "thSlug": "singapore-babymonster-world-tour-choom",
+    "thSlug": "palawan-secret-lagoon",
     "igSlug": "singapore-babymonster-world-tour-choom",
     "history": [
       {
@@ -488,7 +489,17 @@
       {
         "day": "2026-10-29",
         "slug": "los-angeles-triples-world-tour-andless-los-angeles",
-        "thId": "18155520937490815"
+        "thId": "18155520937490815",
+        "insights": {
+          "at": "2026-11-05",
+          "th": {
+            "views": 23,
+            "likes": 0,
+            "replies": 0,
+            "reposts": 0,
+            "quotes": 0
+          }
+        }
       },
       {
         "day": "2026-10-30",
@@ -522,6 +533,11 @@
         "slug": "singapore-babymonster-world-tour-choom",
         "thId": "18098304944556721",
         "igId": "17911815171584587"
+      },
+      {
+        "day": "2026-11-05",
+        "slug": "palawan-secret-lagoon",
+        "thId": "17979098688299270"
       }
     ]
   }
