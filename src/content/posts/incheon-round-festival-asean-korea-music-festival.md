@@ -30,14 +30,6 @@ faq:
     a: Bupyeong and Songdo are common bases inside Incheon. Many fans stay in Seoul and ride the subway in for each show.
 aiGenerated: true
 draft: false
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/8/8a/Group_Shot_of_All_Crews_of_the_AKMF_Round_Festival.jpg
-  credit: 'Photo: Imgmkr / Wikimedia Commons (CC BY 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Group_Shot_of_All_Crews_of_the_AKMF_Round_Festival.jpg
-  focus:
-    x: 50
-    'y': 45
 ---
 
 ## Two nights, one indoor arena

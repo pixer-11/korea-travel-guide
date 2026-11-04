@@ -27,14 +27,6 @@ faq:
     a: Peñas, which are informal folk clubs with food and dancing. La Peña del Colorado in Palermo, close to Villa Crespo, is a long-running option.
 aiGenerated: true
 draft: false
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/INC_en_directo_en_la_sala_Rep%C3%BAblica_%28Valencia%29_4.jpg/3840px-INC_en_directo_en_la_sala_Rep%C3%BAblica_%28Valencia%29_4.jpg
-  credit: 'Photo: AlbertoRialp / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:INC_en_directo_en_la_sala_Rep%C3%BAblica_(Valencia)_4.jpg
-  focus:
-    x: 50
-    'y': 50
 ---
 
 ## Two nights of zamba under a roof

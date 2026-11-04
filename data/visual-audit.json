@@ -4073,9 +4073,9 @@
  },
  "belek-ironman-70-3-turkey\u0001https://upload.wikimedia.org/wikipedia/commons/3/34/Ironman_70.3_World_Championships_%289700067755%29.jpg": {
   "slug": "belek-ironman-70-3-turkey",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Cycling race in wet conditions, Ironman event.",
-  "at": "2026-11-04T00:08:51.574Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"ironman\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-04T07:57:44.887Z"
  },
  "belek-ironman-70-3-turkey\u0001https://upload.wikimedia.org/wikipedia/commons/d/db/Bart_Aernouts_Ironman_70.3_Austria_2012.jpg": {
   "slug": "belek-ironman-70-3-turkey",
@@ -5366,9 +5366,9 @@
  },
  "buenos-aires-republica-folklore\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/INC_en_directo_en_la_sala_Rep%C3%BAblica_%28Valencia%29_4.jpg/3840px-INC_en_directo_en_la_sala_Rep%C3%BAblica_%28Valencia%29_4.jpg": {
   "slug": "buenos-aires-republica-folklore",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Live concert performance at indoor arena venue",
-  "at": "2026-11-04T00:09:14.718Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"blica\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-04T07:57:45.158Z"
  },
  "buenos-aires-republica-folklore\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Falla_infantil_Puebla_de_Valverde-_II_Rep%C3%BAblica_2025_04.jpg/3840px-Falla_infantil_Puebla_de_Valverde-_II_Rep%C3%BAblica_2025_04.jpg": {
   "slug": "buenos-aires-republica-folklore",
@@ -13238,9 +13238,9 @@
  },
  "incheon-round-festival-asean-korea-music-festival\u0001https://upload.wikimedia.org/wikipedia/commons/8/8a/Group_Shot_of_All_Crews_of_the_AKMF_Round_Festival.jpg": {
   "slug": "incheon-round-festival-asean-korea-music-festival",
-  "verdict": "MATCH",
-  "reason": "patrol replace: ROUND Festival group photo, correct event",
-  "at": "2026-11-04T00:11:45.450Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"round\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-04T07:57:45.326Z"
  },
  "incheon-round-festival-asean-korea-music-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Moldboy_performs_at_River_Runs_Round_festival_in_Coughlan%27s%2C_Cork.jpg/3840px-Moldboy_performs_at_River_Runs_Round_festival_in_Coughlan%27s%2C_Cork.jpg": {
   "slug": "incheon-round-festival-asean-korea-music-festival",
@@ -17737,9 +17737,9 @@
  },
  "lima-sound-music-fest-golden-years-edition\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Atlas_Sound_in_concert_%2823685654815%29.jpg/3840px-Atlas_Sound_in_concert_%2823685654815%29.jpg": {
   "slug": "lima-sound-music-fest-golden-years-edition",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Musician performing on stage at concert event",
-  "at": "2026-11-04T00:12:07.154Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"sound\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-04T07:57:45.490Z"
  },
  "lima-sound-music-fest-golden-years-edition\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/The_Warning_at_Sound_of_Music_2022-5.jpg/3840px-The_Warning_at_Sound_of_Music_2022-5.jpg": {
   "slug": "lima-sound-music-fest-golden-years-edition",
