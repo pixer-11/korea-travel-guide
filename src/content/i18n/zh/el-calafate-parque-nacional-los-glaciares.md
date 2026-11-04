@@ -4,7 +4,7 @@ slug: el-calafate-parque-nacional-los-glaciares
 srcHash: '954125c34514'
 title: 冰川国家公园（Parque Nacional Los Glaciares）：埃尔卡拉法特旅行指南
 description: 冰川国家公园就在埃尔卡拉法特家门口，评分4.9★（6,478条评价）。本文汇总游客评价、开放时间与实用建议。
-quickAnswer: 冰川国家公园（Parque Nacional Los Glaciares）紧邻埃尔卡拉法特（El Calafate）。园内最热门的景点莫雷诺冰川（Perito Moreno）位于小镇以西约80公里处，沿11号省道（Ruta Provincial 11）自驾或乘大巴约需90分钟。游览莫雷诺冰川建议留出一整天；如想去菲茨罗伊峰（Fitz Roy）徒步，还要另外安排行程，北上查尔滕（El Chaltén）。目前公园大门标注的开放时间为8am–6pm，但具体时间随季节调整，出发前请先查看官方网站。
+quickAnswer: 冰川国家公园（Parque Nacional Los Glaciares）紧邻埃尔卡拉法特（El Calafate）。园内最热门的景点莫雷诺冰川（Perito Moreno）位于小镇以西约80公里处，沿11号省道（Ruta Provincial 11）自驾或乘大巴约需90分钟。游览莫雷诺冰川建议留出一整天；如想去菲茨罗伊峰（Fitz Roy）徒步，还要另外安排行程，北上查尔滕（El Chaltén）。目前公园大门标注的开放时间为早上8点–下午6点，但具体时间随季节调整，出发前请先查看官方网站。
 faq:
   - q: 从埃尔卡拉法特怎么去莫雷诺冰川？
     a: 冰川在小镇以西约80公里处，沿11号省道前往约90分钟。可以自驾，也可以在埃尔卡拉法特汽车站乘坐定时班车，或者报名参加旅行团。
@@ -13,7 +13,7 @@ faq:
   - q: 什么时候去最好？
     a: 11月至3月白昼最长，游船班次也最多。冬季游客较少，从栈道上照样能看到冰川。建议一早出发，赶在旅游大巴之前到达。
   - q: 公园几点开放？
-    a: Google目前显示每天8am–6pm开放。开放时间随季节调整，当月时间请查询Parques Nacionales官网。
+    a: Google目前显示每天早上8点–下午6点开放。开放时间随季节调整，当月时间请查询Parques Nacionales官网。
   - q: 可以在冰川上行走吗？
     a: 可以，但必须参加持证经营者带队的冰川徒步团，在埃尔卡拉法特报名，冰爪由对方提供。夏季请提前预订。
 ---
@@ -45,7 +45,7 @@ faq:
 - 太阳镜，冰面反光很强
 - 食物和饮用水，园内可选的餐饮不多，价格也偏高
 
-Google目前显示公园每天8am–6pm开放。开放时间全年会有调整，当月时间请以Parques Nacionales官网为准。
+Google目前显示公园每天早上8点–下午6点开放。开放时间全年会有调整，当月时间请以Parques Nacionales官网为准。
 
 ## 过大门、避人潮
 

@@ -1,10 +1,10 @@
 ---
 lang: zh
 slug: new-delhi-shri-laxmi-narayan-temple-birla-mandir
-srcHash: 'de5716f519c7'
+srcHash: 'aca8fbd0e4a4'
 title: 比拉庙（Shri Laxmi Narayan Temple）：新德里旅行指南
-description: 比拉庙（Birla Mandir，即 Shri Laxmi Narayan Temple）坐落在戈尔市场（Gole Market）附近的曼迪尔马格路（Mandir Marg）上，每日开放时间为4:30–9pm，中午1:30–2:30pm闭门休息。评分4.6星（18,038条评价）——游客评价、开放时间与实用建议一并奉上。
-quickAnswer: 比拉庙（Birla Mandir，即 Shri Laxmi Narayan Temple）坐落在戈尔市场（Gole Market）附近的曼迪尔马格路（Mandir Marg）上，每日开放时间为4:30–9pm，中午1:30–2:30pm会闭门休息。工作日早上7点到9点是最清静的时段；周末从10点起一直到闭门都人潮不断，所以早点出发很值得。建议预留45到60分钟游览时间，穿容易脱下的鞋子，入口附近有免费的寄鞋处。
+description: 比拉庙（Birla Mandir，即 Shri Laxmi Narayan Temple）坐落在戈尔市场（Gole Market）附近的曼迪尔马格路（Mandir Marg）上，每日开放时间为凌晨4:30–晚上9:00，中午1:30–2:30闭门休息。评分4.6星（18,038条评价）——游客评价、开放时间与实用建议一并奉上。
+quickAnswer: 比拉庙（Birla Mandir，即 Shri Laxmi Narayan Temple）坐落在戈尔市场（Gole Market）附近的曼迪尔马格路（Mandir Marg）上，每日开放时间为凌晨4:30–晚上9:00，中午1:30–2:30会闭门休息。工作日早上7点到9点是最清静的时段；周末从10点起一直到闭门都人潮不断，所以早点出发很值得。建议预留45到60分钟游览时间，穿容易脱下的鞋子，入口附近有免费的寄鞋处。
 faq:
   - q: 比拉庙的开放时间是几点？
     a: 每日开放时间为凌晨4:30到下午1:30，之后从下午2:30再开到晚上9点。中间那一小时寺庙会闭门休息，安排行程时请留意避开这段时间。

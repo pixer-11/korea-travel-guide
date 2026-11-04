@@ -4,7 +4,7 @@ slug: bugis-bugis-street
 srcHash: 'bd2dcba6a265'
 title: 武吉士街(Bugis Street)旅行指南(4.4★)
 description: 武吉士街(Bugis Street)是新加坡最大的街边购物市场——数百个摊位挤在维多利亚街(Victoria Street)旁的几条有顶棚的巷道里，售卖服装、手机壳、纪念品和街头小吃。4.4★(21,959条评价)——看看游客怎么说、营业时间和实用建议。
-quickAnswer: 武吉士街(Bugis Street)是新加坡最大的街边购物市场——数百个摊位挤在维多利亚街(Victoria Street)旁的几条有顶棚的巷道里，售卖服装、手机壳、纪念品和街头小吃。每天开放10am–10pm；建议工作日刚开门时(10am–12pm)前往，才能真正看清整条街的样貌。最近的地铁站是武吉士站(Bugis,EW12/DT14),从C出口出站。
+quickAnswer: 武吉士街(Bugis Street)是新加坡最大的街边购物市场——数百个摊位挤在维多利亚街(Victoria Street)旁的几条有顶棚的巷道里，售卖服装、手机壳、纪念品和街头小吃。每天开放上午10点–晚上10点；建议工作日刚开门时(上午10点–中午12点)前往，才能真正看清整条街的样貌。最近的地铁站是武吉士站(Bugis,EW12/DT14),从C出口出站。
 faq:
   - q: 乘地铁怎么去武吉士街?
     a: 乘坐东西线(East-West Line)或市区线(Downtown Line)到武吉士站(Bugis Station),从C出口出站——几乎可以直接走进市场。

@@ -4,12 +4,12 @@ slug: miami-talkin-tacos-brickell
 srcHash: 'b1d457dc4ce1'
 title: Talkin' Tacos Brickell：迈阿密美食指南
 description: Talkin' Tacos Brickell 是一家营业至深夜的塔可与龙舌兰酒餐厅，地址在 97 SW 8th St，正好位于布里克尔（Brickell）与市中心的交界处，距布里克尔 Metromover 站步行仅几分钟。
-quickAnswer: Talkin' Tacos Brickell 是一家营业至深夜的塔可与龙舌兰酒餐厅，地址在 97 SW 8th St，正好位于布里克尔与市中心的交界处，距布里克尔 Metromover 站步行仅几分钟。这里属于中等消费水平，每天 10am–2am 营业，最佳到访时间是午餐前的时段（中午之前）或晚上 10 点以后，这样能避开欢乐时光和周末早午餐时段的人潮。
+quickAnswer: Talkin' Tacos Brickell 是一家营业至深夜的塔可与龙舌兰酒餐厅，地址在 97 SW 8th St，正好位于布里克尔与市中心的交界处，距布里克尔 Metromover 站步行仅几分钟。这里属于中等消费水平，每天上午10点–凌晨2点营业，最佳到访时间是午餐前的时段（中午之前）或晚上 10 点以后，这样能避开欢乐时光和周末早午餐时段的人潮。
 faq:
   - q: 不开车的话，怎么去 Talkin' Tacos Brickell？
     a: 从布里克尔 Metromover 站步行大约五到十分钟就能到，这个站又与布里克尔 Metrorail 站相连——两者都是迈阿密公共交通系统的一部分，其中 Metromover 是免费乘坐的。
   - q: 什么时候去能避开排队？
-    a: 工作日刚开门的时段（10am–12pm）去用餐比较清静，大多数晚上 10 点以后去也不错。要避开的是周五和周六从欢乐时光一直到午夜这段时间，那时人最多。
+    a: 工作日刚开门的时段（上午10点–中午12点）去用餐比较清静，大多数晚上 10 点以后去也不错。要避开的是周五和周六从欢乐时光一直到午夜这段时间，那时人最多。
   - q: Talkin' Tacos Brickell 贵不贵？
     a: 按迈阿密的标准算是中等消费水平——比街边小塔可摊贵，但远低于布里克尔牛排馆和酒店餐厅的价位。每人通常要点上好几份小份菜。
   - q: 需要预约吗？

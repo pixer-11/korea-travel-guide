@@ -2,7 +2,7 @@
 title: 'Shri Laxmi Narayan Temple (Birla Mandir): New Delhi Travel Guide'
 description: >-
   Birla Mandir (Shri Laxmi Narayan Temple) sits on Mandir Marg near Gole Market,
-  open daily 4:30–9pm with a midday break from 1:30–2:30pm. 4.6★ (18,038
+  open daily 4:30am–9pm with a midday break from 1:30–2:30pm. 4.6★ (18,038
   reviews) — what visitors say, hours, and tips.
 country: India
 region: New Delhi
@@ -67,7 +67,7 @@ tags:
   - historic site
 quickAnswer: >-
   Birla Mandir (Shri Laxmi Narayan Temple) sits on Mandir Marg near Gole Market,
-  open daily 4:30–9pm with a midday break from 1:30–2:30pm. It's calmest on
+  open daily 4:30am–9pm with a midday break from 1:30–2:30pm. It's calmest on
   weekday mornings between 7am and 9am; weekends stay busy from 10am straight
   through to closing, so an early start is worth it. Budget 45–60 minutes, wear
   easily removable shoes, and expect to leave them at a free counter near the

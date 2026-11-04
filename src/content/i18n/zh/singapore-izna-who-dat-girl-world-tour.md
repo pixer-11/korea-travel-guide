@@ -3,11 +3,11 @@ lang: zh
 slug: singapore-izna-who-dat-girl-world-tour
 srcHash: '8a89bbbba67f'
 title: izna「WHO DAT GIRL?」世界巡演新加坡站：日期、门票与场馆
-description: izna「WHO DAT GIRL?」世界巡演将于2026年11月8日登陆新加坡首都戏院（Capitol Theatre），演出晚上7PM开始。
-quickAnswer: izna「WHO DAT GIRL?」世界巡演新加坡站定于2026年11月8日在首都戏院（Capitol Theatre）举行，演出晚上7PM开始。这座全座席剧院经过修复，位于史丹福路（Stamford Road）。从政府大厦地铁站（City Hall MRT）出发，走地下通道很快就能到。售票链接和座位图一般可以在主办方的票务页面上查到。
+description: izna「WHO DAT GIRL?」世界巡演将于2026年11月8日登陆新加坡首都戏院（Capitol Theatre），演出晚上7点开始。
+quickAnswer: izna「WHO DAT GIRL?」世界巡演新加坡站定于2026年11月8日在首都戏院（Capitol Theatre）举行，演出晚上7点开始。这座全座席剧院经过修复，位于史丹福路（Stamford Road）。从政府大厦地铁站（City Hall MRT）出发，走地下通道很快就能到。售票链接和座位图一般可以在主办方的票务页面上查到。
 faq:
   - q: izna「WHO DAT GIRL?」新加坡演唱会在何时何地举行？
-    a: 演出时间为2026年11月8日晚上7PM，地点是史丹福路上的首都戏院。剧院属于市政区的首都大厦（Capitol Singapore）建筑群。
+    a: 演出时间为2026年11月8日晚上7点，地点是史丹福路上的首都戏院。剧院属于市政区的首都大厦（Capitol Singapore）建筑群。
   - q: 离首都戏院最近的地铁站是哪个？
     a: 最近的是政府大厦地铁站（南北线、东西线），站内有地下通道通往首都广场（Capitol Piazza）。环线的百胜地铁站（Bras Basah MRT）离剧院也不远，步行即可到达。
   - q: 首都戏院是座席还是站席？
@@ -20,7 +20,7 @@ faq:
 
 ## 女团登上上世纪30年代的老戏院
 
-新加坡这一站的舞台格外亲密。izna是通过Mnet选秀节目《I-LAND 2》组成的K-pop女团，2024年底正式出道。2026年11月8日，她们将把「WHO DAT GIRL?」演唱会带到首都戏院（Capitol Theatre），演出晚上7PM开始。
+新加坡这一站的舞台格外亲密。izna是通过Mnet选秀节目《I-LAND 2》组成的K-pop女团，2024年底正式出道。2026年11月8日，她们将把「WHO DAT GIRL?」演唱会带到首都戏院（Capitol Theatre），演出晚上7点开始。
 
 首都戏院大约在1930年作为电影院开业，经过多年修复后于2015年重新开放。剧院内部的阶梯座位很陡，正对着镜框式舞台。所以就算坐在后排，离艺人也比在体育馆近得多，满场的应援棒能把整个观众席照亮。
 
@@ -38,7 +38,7 @@ faq:
 
 歌迷通常会提前到，先在附近吃顿晚饭。大家常去莱佛士城的地下美食广场和赞美广场（CHIJMES）庭院里的餐厅，首都广场楼下也有餐饮店。桥北路对面的福南（Funan）还有不少简餐可以选。
 
-演出7PM开始，安可结束后搭地铁从政府大厦站回家，时间很充裕。这里是换乘站，人流会分散到两条线上。
+演出晚上7点开始，安可结束后搭地铁从政府大厦站回家，时间很充裕。这里是换乘站，人流会分散到两条线上。
 
 ## 应援棒、周边与剧院礼仪
 
