@@ -5,8 +5,10 @@
   "backfill": 11
  },
  "search": {
-  "spent": 0,
-  "byJob": {}
+  "spent": 1,
+  "byJob": {
+   "fill": 1
+  }
  },
- "updated": "2026-11-04T15:33:34.769Z"
+ "updated": "2026-11-04T15:35:44.275Z"
 }
