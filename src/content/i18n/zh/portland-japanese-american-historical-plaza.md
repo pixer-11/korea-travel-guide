@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: portland-japanese-american-historical-plaza
-srcHash: '87147a60c1de'
+srcHash: '6e08cb681e39'
 title: 波特兰日裔美国人历史广场旅行指南
-description: 波特兰日裔美国人历史广场位于汤姆·麦考尔滨水公园北端，紧邻威拉米特河，离钢桥不远。4.6★（256 条评价），游客评价、开放时间和参观建议都在这里。
+description: 波特兰日裔美国人历史广场位于汤姆·麦考尔滨水公园北端，紧邻威拉米特河，离钢桥不远。4.6★（258 条评价），游客评价、开放时间和参观建议都在这里。
 quickAnswer: 波特兰日裔美国人历史广场（Japanese American Historical Plaza）位于汤姆·麦考尔滨水公园（Tom McCall Waterfront Park）北端，紧邻威拉米特河，离钢桥（Steel Bridge）不远。广场是开放的公共空间，每天5am至午夜开放。7am至11pm之间人最少，周末11am至8pm则尽量避开。想看樱花盛开，就选在3月下旬或4月上旬前往。
 faq:
   - q: 日裔美国人历史广场具体在哪里？

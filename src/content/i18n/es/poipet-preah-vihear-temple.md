@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: poipet-preah-vihear-temple
-srcHash: 'e32792a90fdd'
+srcHash: 'e4f0bb4637b2'
 title: 'Templo de Preah Vihear: Guía de Viaje desde Poipet (4.6★)'
-description: 'El templo de Preah Vihear se alza sobre un acantilado en las montañas Dangrek, a más o menos un día entero de viaje desde Poipet, en el noroeste de Camboya, y abre todos los días de 8:30 a 16:30. 4.6★ (1.658 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El templo de Preah Vihear se alza sobre un acantilado en las montañas Dangrek, a más o menos un día entero de viaje desde Poipet, en el noroeste de Camboya, y abre todos los días de 8:30 a 16:30. 4.6★ (1.661 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El templo de Preah Vihear se alza sobre un acantilado en las montañas Dangrek, a más o menos un día entero de viaje desde Poipet, en el noroeste de Camboya, y abre todos los días de 8:30 a 16:30. No es una parada rápida: conviene reservar un día completo o pasar la noche cerca de la base de la montaña para que el trayecto merezca la pena. Lo ideal es ir en temporada seca (de noviembre a abril), cuando el camino de acceso a la montaña está transitable y las vistas sobre la llanura camboyana no quedan ocultas por la bruma del monzón.'
 faq:
   - q: ¿Cómo se llega al templo de Preah Vihear desde Poipet?

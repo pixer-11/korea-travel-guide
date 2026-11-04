@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: poipet-preah-vihear-temple
-srcHash: 'e32792a90fdd'
+srcHash: 'e4f0bb4637b2'
 title: 柏威夏寺（Preah Vihear Temple）：从波贝（Poipet）出发的旅行指南（4.6★）
-description: 柏威夏寺坐落在扁担山脉（Dangrek Mountains）的悬崖边上，从柬埔寨西北部的波贝（Poipet）出发大约要开一整天的车才能到达，每天上午8:30至下午4:30开放。4.6★（1,658条评价）——真实游客评价、开放时间与实用建议。
+description: 柏威夏寺坐落在扁担山脉（Dangrek Mountains）的悬崖边上，从柬埔寨西北部的波贝（Poipet）出发大约要开一整天的车才能到达，每天上午8:30至下午4:30开放。4.6★（1,661条评价）——真实游客评价、开放时间与实用建议。
 quickAnswer: 柏威夏寺坐落在扁担山脉（Dangrek Mountains）的悬崖边上，从柬埔寨西北部的波贝（Poipet）出发大约要开一整天的车才能到达，每天上午8:30至下午4:30开放。这里并不适合走马观花：最好安排一整天行程，或者在山脚附近住一晚，才不虚此行。建议选在旱季（11月至次年4月）前往，那时上山的道路通行无阻，视野也不会被雨季的雾气遮挡，能清楚眺望柬埔寨平原。
 faq:
   - q: 从波贝（Poipet）到柏威夏寺怎么走？

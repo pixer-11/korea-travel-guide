@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: portland-omsi
-srcHash: 'a459d0a40f85'
+srcHash: 'bdd6de493b74'
 title: 'OMSI: Guía de viaje de Portland (4.5★)'
-description: 'El OMSI (Oregon Museum of Science and Industry) se encuentra en la orilla este del río Willamette, en el 1945 SE Water Ave, en el Central Eastside de Portland, cerca de la estación OMSI/SE Water MAX. 4.5★ (10.578 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El OMSI (Oregon Museum of Science and Industry) se encuentra en la orilla este del río Willamette, en el 1945 SE Water Ave, en el Central Eastside de Portland, cerca de la estación OMSI/SE Water MAX. 4.5★ (10.754 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El OMSI (Oregon Museum of Science and Industry) se encuentra en la orilla este del río Willamette, en el 1945 SE Water Ave, en el Central Eastside de Portland, cerca de la estación OMSI/SE Water MAX. Abre todos los días y ofrece un submarino amarrado, un planetario, laboratorios de ciencia y exposiciones temporales; los sábados el horario se extiende de 9:30 a 19:00. Si quiere evitar las aglomeraciones, lo mejor es visitar el museo en la última hora antes del cierre un fin de semana, aproximadamente entre las 18:00 y las 19:00, ya que la franja de mayor afluencia va de 11:00 a 18:00.
 faq:
   - q: ¿Cuál es el horario del OMSI?

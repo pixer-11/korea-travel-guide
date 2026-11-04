@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: playa-del-carmen-rio-secreto
-srcHash: 'ff1bc2dafac2'
+srcHash: 'e26db1ddd350'
 title: 'Río Secreto, Playa del Carmen: guía de viaje (4.7★)'
-description: Río Secreto es un recorrido guiado por un río subterráneo que se encuentra muy cerca de Playa del Carmen, en el Km 283.5 de la carretera federal en dirección a Tulum. Con 4.7★ (8,527 reseñas), aquí encontrará lo que opinan los visitantes, el horario y varios consejos.
+description: Río Secreto es un recorrido guiado por un río subterráneo que se encuentra muy cerca de Playa del Carmen, en el Km 283.5 de la carretera federal en dirección a Tulum. Con 4.7★ (8,566 reseñas), aquí encontrará lo que opinan los visitantes, el horario y varios consejos.
 quickAnswer: Muy cerca de Playa del Carmen, en el Km 283.5 de la carretera federal en dirección a Tulum, se encuentra Río Secreto, donde se recorre con guía un río subterráneo. A la luz de la lámpara del casco, el visitante camina, vadea y flota en una cueva llena de estalactitas y estalagmitas. Abre todos los días de 9am a 2pm, así que conviene reservar con antelación un turno por la mañana y llegar sin protector solar.
 faq:
   - q: ¿Dónde está exactamente Río Secreto y cómo se llega desde Playa del Carmen?

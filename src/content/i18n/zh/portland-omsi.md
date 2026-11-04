@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: portland-omsi
-srcHash: 'a459d0a40f85'
+srcHash: 'bdd6de493b74'
 title: OMSI（俄勒冈科学与工业博物馆）：波特兰旅游指南（4.5★）
-description: OMSI（俄勒冈科学与工业博物馆）坐落于波特兰中东区（Central Eastside）威拉米特河（Willamette River）东岸的1945 SE Water Ave，距离OMSI/SE Water MAX站不远。评分4.5★（10,578条评价）——看看游客怎么说，附开放时间与实用建议。
+description: OMSI（俄勒冈科学与工业博物馆）坐落于波特兰中东区（Central Eastside）威拉米特河（Willamette River）东岸的1945 SE Water Ave，距离OMSI/SE Water MAX站不远。评分4.5★（10,754条评价）——看看游客怎么说，附开放时间与实用建议。
 quickAnswer: OMSI（俄勒冈科学与工业博物馆）坐落于波特兰中东区（Central Eastside）威拉米特河（Willamette River）东岸的1945 SE Water Ave，距离OMSI/SE Water MAX站不远。这里每天开放，馆内有停泊的潜水艇、天文馆、科学实验室和轮换展览，周六的开放时间延长到晚上7点。如果想避开人潮，建议挑周末闭馆前最后一个小时（大约傍晚6点到7点）前往，因为上午11点到下午6点通常是人最多的时段。
 faq:
   - q: OMSI的开放时间是怎样的？

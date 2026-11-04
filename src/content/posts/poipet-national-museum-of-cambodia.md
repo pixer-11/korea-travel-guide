@@ -1,45 +1,55 @@
 ---
-title: "National Museum of Cambodia: Phnom Penh Travel Guide (4.2★)"
-description: "The National Museum of Cambodia sits on Preah Ang Eng Street in Phnom Penh, beside the Royal Palace — a 1920s Khmer-style building holding Angkorian stone sculpture, bronzes and royal barges. 4.2★ (6,982 reviews) — what visitors say, hours, and tips."
-country: "Cambodia"
-region: "Phnom Penh"
-category: "attraction"
-pubDate: "2026-08-24T08:12:37.025Z"
+title: 'National Museum of Cambodia: Phnom Penh Travel Guide (4.2★)'
+description: >-
+  The National Museum of Cambodia sits on Preah Ang Eng Street in Phnom Penh,
+  beside the Royal Palace — a 1920s Khmer-style building holding Angkorian stone
+  sculpture, bronzes and royal barges. 4.2★ (7,068 reviews) — what visitors say,
+  hours, and tips.
+country: Cambodia
+region: Phnom Penh
+category: attraction
+pubDate: '2026-08-24T08:12:37.025Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/03-National_Museum_of_Cambodia-nX-7.jpg/3840px-03-National_Museum_of_Cambodia-nX-7.jpg"
-  credit: "Photo: PsamatheM / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:03-National_Museum_of_Cambodia-nX-7.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/03-National_Museum_of_Cambodia-nX-7.jpg/3840px-03-National_Museum_of_Cambodia-nX-7.jpg
+  credit: 'Photo: PsamatheM / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:03-National_Museum_of_Cambodia-nX-7.jpg
+  via: act
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/16132548_LoNYUugnDpfZUUsd3KwlqF435ZoNBXZ043x0uUWxmhk.jpg"
-    credit: "Photo: Foursquare user content (National Museum of Cambodia (សារមន្ទីរជាតិកម្ពុជា))"
-    license: "foursquare"
-    source: "https://foursquare.com/v/4d53d5bd8652224bfde6d3d7"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/16132548_LoNYUugnDpfZUUsd3KwlqF435ZoNBXZ043x0uUWxmhk.jpg
+    credit: >-
+      Photo: Foursquare user content (National Museum of Cambodia
+      (សារមន្ទីរជាតិកម្ពុជា))
+    license: foursquare
+    source: 'https://foursquare.com/v/4d53d5bd8652224bfde6d3d7'
 place:
-  id: "ChIJnXoiJEhRCTERJadKK31Dvrg"
-  name: "National Museum of Cambodia"
-  address: "Preah Ang Eng St. (13), Phnom Penh 120211, Cambodia"
+  id: ChIJnXoiJEhRCTERJadKK31Dvrg
+  name: National Museum of Cambodia
+  address: 'Preah Ang Eng St. (13), Phnom Penh 120211, Cambodia'
   rating: 4.2
-  userRatingsTotal: 6982
-  googleMapsUrl: "https://maps.google.com/?cid=13312151753430050597&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 7068
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13312151753430050597&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 11.5654881
   lng: 104.92927999999999
-  phone: "+855 23 217 643"
+  phone: +855 23 217 643
   openingHours:
-    - "Monday: 8:00 AM – 5:00 PM"
-    - "Tuesday: 8:00 AM – 5:00 PM"
-    - "Wednesday: 8:00 AM – 5:00 PM"
-    - "Thursday: 8:00 AM – 5:00 PM"
-    - "Friday: 8:00 AM – 5:00 PM"
-    - "Saturday: 8:00 AM – 5:00 PM"
-    - "Sunday: 8:00 AM – 5:00 PM"
+    - 'Monday: 8:00 AM – 5:00 PM'
+    - 'Tuesday: 8:00 AM – 5:00 PM'
+    - 'Wednesday: 8:00 AM – 5:00 PM'
+    - 'Thursday: 8:00 AM – 5:00 PM'
+    - 'Friday: 8:00 AM – 5:00 PM'
+    - 'Saturday: 8:00 AM – 5:00 PM'
+    - 'Sunday: 8:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-08-24
+    updated: 2026-08-24T00:00:00.000Z
     weekdayQuiet:
       - 8
     weekendQuiet:
@@ -51,24 +61,37 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_6772764431334b4b64614a524554435268454a696f586e4a496843"
+    venueId: ven_6772764431334b4b64614a524554435268454a696f586e4a496843
 tags:
-  - "phnom penh"
-  - "museum"
-quickAnswer: "The National Museum of Cambodia is on Preah Ang Eng Street in Phnom Penh, beside the Royal Palace, and it's open daily 8am-5pm. It's quietest right at the 8am opening. Plan on 1-1.5 hours inside, and expect crowds to build steadily from 10am to 4pm on weekends."
+  - phnom penh
+  - museum
+quickAnswer: >-
+  The National Museum of Cambodia is on Preah Ang Eng Street in Phnom Penh,
+  beside the Royal Palace, and it's open daily 8am-5pm. It's quietest right at
+  the 8am opening. Plan on 1-1.5 hours inside, and expect crowds to build
+  steadily from 10am to 4pm on weekends.
 faq:
-  - q: "Where in Phnom Penh is the National Museum of Cambodia?"
-    a: "On Preah Ang Eng Street, beside the Royal Palace and the Silver Pagoda in the riverside heart of the city."
-  - q: "How long does it take to visit the museum?"
-    a: "Plan on 60 to 90 minutes to see the four main galleries without rushing, longer if you linger in the courtyard garden."
-  - q: "When is the quietest time to visit?"
-    a: "Both weekdays and weekends are calmest between 8am and 9am, right at opening. Try to avoid 10am to 4pm on weekends, when tour groups peak."
-  - q: "What are the museum's opening hours?"
-    a: "It's open daily from 8:00 AM to 5:00 PM, with no weekly closure day."
-  - q: "What's nearby?"
-    a: "The Royal Palace and Silver Pagoda are right next door, making it easy to combine both into one morning."
+  - q: Where in Phnom Penh is the National Museum of Cambodia?
+    a: >-
+      On Preah Ang Eng Street, beside the Royal Palace and the Silver Pagoda in
+      the riverside heart of the city.
+  - q: How long does it take to visit the museum?
+    a: >-
+      Plan on 60 to 90 minutes to see the four main galleries without rushing,
+      longer if you linger in the courtyard garden.
+  - q: When is the quietest time to visit?
+    a: >-
+      Both weekdays and weekends are calmest between 8am and 9am, right at
+      opening. Try to avoid 10am to 4pm on weekends, when tour groups peak.
+  - q: What are the museum's opening hours?
+    a: 'It''s open daily from 8:00 AM to 5:00 PM, with no weekly closure day.'
+  - q: What's nearby?
+    a: >-
+      The Royal Palace and Silver Pagoda are right next door, making it easy to
+      combine both into one morning.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-04'
 ---
 ## A capital landmark
 

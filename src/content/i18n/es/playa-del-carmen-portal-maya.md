@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: playa-del-carmen-portal-maya
-srcHash: 'a9e8a79b0ec9'
+srcHash: '34bf96b9d578'
 title: 'Portal Maya: guía de viaje de Playa del Carmen (4.7★)'
-description: En el Parque Fundadores, justo donde la Avenida Juárez desemboca en la playa, en el Centro de Playa del Carmen, se alza el Portal Maya, una escultura pública de acceso gratuito abierta las 24 horas. Con 4.7★ (15,417 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y algunos consejos.
+description: En el Parque Fundadores, justo donde la Avenida Juárez desemboca en la playa, en el Centro de Playa del Carmen, se alza el Portal Maya, una escultura pública de acceso gratuito abierta las 24 horas. Con 4.7★ (15,590 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y algunos consejos.
 quickAnswer: En el Parque Fundadores, justo donde la Avenida Juárez desemboca en la playa, en el Centro de Playa del Carmen, se alza el Portal Maya, una escultura pública de acceso gratuito abierta las 24 horas. Cualquier día de la semana, entre las 7am y las 8am, encontrará el arco despejado y bañado por la suave luz de la mañana. Conviene evitar los fines de semana de 12pm a 11pm, cuando la plaza registra su mayor afluencia.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Portal Maya?

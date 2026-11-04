@@ -1,23 +1,30 @@
 ---
 title: 'Abbaye Notre-Dame de Sénanque: Provence Travel Guide'
-description: Sénanque Abbey, a working Cistercian monastery outside Gordes, is best seen right at opening — weekdays 9:30–10am or Sunday 10–11am — before the tour buses arrive; avoid noon to 6pm on weekends, when the lavender-field parking lot and viewpoint road jam solid.
+description: >-
+  Sénanque Abbey, a working Cistercian monastery outside Gordes, is best seen
+  right at opening — weekdays 9:30–10am or Sunday 10–11am — before the tour
+  buses arrive; avoid noon to 6pm on weekends, when the lavender-field parking
+  lot and viewpoint road jam solid.
 country: France
 region: Provence
 category: hidden-gem
 pubDate: '2026-07-31T10:32:13.939Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Abbaye_Notre-Dame_de_S%C3%A9nanque%2C_2022.jpg/1920px-Abbaye_Notre-Dame_de_S%C3%A9nanque%2C_2022.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Abbaye_Notre-Dame_de_S%C3%A9nanque%2C_2022.jpg/1920px-Abbaye_Notre-Dame_de_S%C3%A9nanque%2C_2022.jpg
   credit: 'Photo: Chris Down / Wikimedia Commons (CC BY 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Abbaye_Notre-Dame_de_S%C3%A9nanque,_2022.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Abbaye_Notre-Dame_de_S%C3%A9nanque,_2022.jpg
 gallery: []
 place:
   id: ChIJuxg847INyhIRoOw87wUSykc
   name: Abbaye Notre-Dame de Sénanque
-  address: Abbaye de Sénanque, 84220 Gordes, France
+  address: 'Abbaye de Sénanque, 84220 Gordes, France'
   rating: 4.5
-  userRatingsTotal: 9037
-  googleMapsUrl: https://maps.google.com/?cid=5172966938686319776&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 9287
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5172966938686319776&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 43.9279827
   lng: 5.1867401
@@ -48,20 +55,43 @@ place:
 tags:
   - provence
   - hidden gem
-quickAnswer: Sénanque Abbey, a working Cistercian monastery outside Gordes, is best seen right at opening — weekdays 9:30–10am or Sunday 10–11am — before the tour buses arrive; avoid noon to 6pm on weekends, when the lavender-field parking lot and viewpoint road jam solid. The lavender blooms mid-June to early August, but the honey-stone abbey and its cloisters are worth the detour year-round. Plan on 45 minutes to an hour, plus time for the short walk up to the viewpoint above the valley.
+quickAnswer: >-
+  Sénanque Abbey, a working Cistercian monastery outside Gordes, is best seen
+  right at opening — weekdays 9:30–10am or Sunday 10–11am — before the tour
+  buses arrive; avoid noon to 6pm on weekends, when the lavender-field parking
+  lot and viewpoint road jam solid. The lavender blooms mid-June to early
+  August, but the honey-stone abbey and its cloisters are worth the detour
+  year-round. Plan on 45 minutes to an hour, plus time for the short walk up to
+  the viewpoint above the valley.
 faq:
   - q: What are the opening hours?
-    a: 9:30am–7pm Monday through Saturday, and 10am–7pm on Sunday. Hours can shift around religious holidays, so it's worth confirming before you drive out.
+    a: >-
+      9:30am–7pm Monday through Saturday, and 10am–7pm on Sunday. Hours can
+      shift around religious holidays, so it's worth confirming before you drive
+      out.
   - q: When is the quietest time to visit?
-    a: Weekdays between 9:30am and 10:30am, or weekends between 10am and 11am — right around opening. Avoid weekends from noon to 6pm, when parking and the viewpoint get crowded.
+    a: >-
+      Weekdays between 9:30am and 10:30am, or weekends between 10am and 11am —
+      right around opening. Avoid weekends from noon to 6pm, when parking and
+      the viewpoint get crowded.
   - q: When is the lavender in bloom?
-    a: Roughly mid-June to early August, peaking in the first three weeks of July. Outside that window the fields are green or cut, but the abbey and setting are still worth seeing.
+    a: >-
+      Roughly mid-June to early August, peaking in the first three weeks of
+      July. Outside that window the fields are green or cut, but the abbey and
+      setting are still worth seeing.
   - q: How do I get inside the abbey?
-    a: The church, cloister, and other interior rooms are only visited via guided tour — you can't wander in independently. Tours run in slots that can fill up in summer, so aim to arrive early.
+    a: >-
+      The church, cloister, and other interior rooms are only visited via guided
+      tour — you can't wander in independently. Tours run in slots that can fill
+      up in summer, so aim to arrive early.
   - q: How long should I plan for a visit?
-    a: Around 45 minutes to an hour for the tour and cloister, plus extra time to walk up to the viewpoint above the valley and browse the small shop selling monastery-made honey and lavender products.
+    a: >-
+      Around 45 minutes to an hour for the tour and cloister, plus extra time to
+      walk up to the viewpoint above the valley and browse the small shop
+      selling monastery-made honey and lavender products.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-04'
 ---
 ## Why go
 

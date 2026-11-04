@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: portland-crystal-springs-rhododendron-garden
-srcHash: '9d4ced4822d3'
+srcHash: '1e04a6e9a909'
 title: 水晶泉杜鹃花园：波特兰旅行指南
-description: 水晶泉杜鹃花园位于波特兰东摩兰（Eastmoreland）社区5801 SE 28th Ave，盛花期在4月中旬至5月。4.8星（2,611条评价）——游客怎么说、开放时间与实用建议，一并奉上。
+description: 水晶泉杜鹃花园位于波特兰东摩兰（Eastmoreland）社区5801 SE 28th Ave，盛花期在4月中旬至5月。4.8星（2,625条评价）——游客怎么说、开放时间与实用建议，一并奉上。
 quickAnswer: 水晶泉杜鹃花园位于波特兰东摩兰社区5801 SE 28th Ave，盛花期从4月中旬持续到5月。工作日上午10点到11点人最少；周末11点到4点则是人流高峰。绕池塘走完全程，预留45分钟到1小时比较合适。
 faq:
   - q: 水晶泉杜鹃花园具体在哪里？

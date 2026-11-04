@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: portland-japanese-american-historical-plaza
-srcHash: '87147a60c1de'
+srcHash: '6e08cb681e39'
 title: 'Plaza Histórica Japonesa Estadounidense: guía de viaje de Portland'
-description: 'En el extremo norte del Tom McCall Waterfront Park, a orillas del río Willamette y junto al puente Steel, se encuentra la Plaza Histórica Japonesa Estadounidense de Portland. 4.6★ (256 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En el extremo norte del Tom McCall Waterfront Park, a orillas del río Willamette y junto al puente Steel, se encuentra la Plaza Histórica Japonesa Estadounidense de Portland. 4.6★ (258 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: La Plaza Histórica Japonesa Estadounidense (Japanese American Historical Plaza) de Portland se encuentra en el extremo norte del Tom McCall Waterfront Park, a orillas del río Willamette y cerca del puente Steel (Steel Bridge). Este espacio público al aire libre abre todos los días de 5am a medianoche. Entre las 7am y las 11pm suele haber más tranquilidad, aunque conviene evitar los fines de semana de 11am a 8pm. Si quiere ver los cerezos en flor, vaya a finales de marzo o principios de abril.
 faq:
   - q: ¿Dónde se encuentra exactamente la Plaza Histórica Japonesa Estadounidense?

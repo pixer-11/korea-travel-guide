@@ -1,54 +1,80 @@
 ---
-title: "Preah Vihear Temple: Poipet Travel Guide (4.6★)"
-description: "Preah Vihear Temple sits on a cliff edge in the Dangrek Mountains, roughly a full day's drive from Poipet in northwestern Cambodia, and is open daily from 8:30am to 4:30pm. 4.6★ (1,658 reviews) — what visitors say, hours, and tips."
-country: "Cambodia"
-region: "Poipet"
-category: "attraction"
-pubDate: "2026-09-04T10:41:02.262Z"
+title: 'Preah Vihear Temple: Poipet Travel Guide (4.6★)'
+description: >-
+  Preah Vihear Temple sits on a cliff edge in the Dangrek Mountains, roughly a
+  full day's drive from Poipet in northwestern Cambodia, and is open daily from
+  8:30am to 4:30pm. 4.6★ (1,661 reviews) — what visitors say, hours, and tips.
+country: Cambodia
+region: Poipet
+category: attraction
+pubDate: '2026-09-04T10:41:02.262Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/03_Prasat_Preah_Vihear-nX-06478.jpg/1920px-03_Prasat_Preah_Vihear-nX-06478.jpg"
-  credit: "Photo: PsamatheM / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:03_Prasat_Preah_Vihear-nX-06478.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/03_Prasat_Preah_Vihear-nX-06478.jpg/1920px-03_Prasat_Preah_Vihear-nX-06478.jpg
+  credit: 'Photo: PsamatheM / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:03_Prasat_Preah_Vihear-nX-06478.jpg'
   focus:
     x: 65
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJe_zOlBJIETERcEWi89oquyY"
-  name: "Preah Vihear Temple"
-  address: "9MRJ+746 On top of Preah Vihear mountain Dangrek mountain range, Cambodia"
+  id: ChIJe_zOlBJIETERcEWi89oquyY
+  name: Preah Vihear Temple
+  address: '9MRJ+746 On top of Preah Vihear mountain Dangrek mountain range, Cambodia'
   rating: 4.6
-  userRatingsTotal: 1658
-  googleMapsUrl: "https://maps.google.com/?cid=2790871513964889456&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1661
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2790871513964889456&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 14.390494299999999
   lng: 104.6801886
   openingHours:
-    - "Monday: 8:30 AM – 4:30 PM"
-    - "Tuesday: 8:30 AM – 4:30 PM"
-    - "Wednesday: 8:30 AM – 4:30 PM"
-    - "Thursday: 8:30 AM – 4:30 PM"
-    - "Friday: 8:30 AM – 4:30 PM"
-    - "Saturday: 8:30 AM – 4:30 PM"
-    - "Sunday: 8:30 AM – 4:30 PM"
+    - 'Monday: 8:30 AM – 4:30 PM'
+    - 'Tuesday: 8:30 AM – 4:30 PM'
+    - 'Wednesday: 8:30 AM – 4:30 PM'
+    - 'Thursday: 8:30 AM – 4:30 PM'
+    - 'Friday: 8:30 AM – 4:30 PM'
+    - 'Saturday: 8:30 AM – 4:30 PM'
+    - 'Sunday: 8:30 AM – 4:30 PM'
 tags:
-  - "poipet"
-  - "historic site"
-quickAnswer: "Preah Vihear Temple sits on a cliff edge in the Dangrek Mountains, roughly a full day's drive from Poipet in northwestern Cambodia, and is open daily from 8:30am to 4:30pm. It's not a quick stop: budget a full day trip or an overnight near the base to make the journey worthwhile. Go in the dry season (November to April) when the mountain access road is passable and the views over the Cambodian plain aren't lost in monsoon haze."
+  - poipet
+  - historic site
+quickAnswer: >-
+  Preah Vihear Temple sits on a cliff edge in the Dangrek Mountains, roughly a
+  full day's drive from Poipet in northwestern Cambodia, and is open daily from
+  8:30am to 4:30pm. It's not a quick stop: budget a full day trip or an
+  overnight near the base to make the journey worthwhile. Go in the dry season
+  (November to April) when the mountain access road is passable and the views
+  over the Cambodian plain aren't lost in monsoon haze.
 faq:
-  - q: "How do you get to Preah Vihear Temple from Poipet?"
-    a: "It's a full day's drive east across Cambodia, typically routed through Siem Reap or Anlong Veng, then north to Sra Em town at the base of the mountain before a final transfer up the escarpment."
-  - q: "What are the opening hours?"
-    a: "The temple is open daily from 8:30am to 4:30pm. Arrive as early as possible to beat the afternoon heat on the exposed causeway."
-  - q: "Is Preah Vihear accessible from Thailand?"
-    a: "No. Due to the ongoing border arrangement, access is exclusively from the Cambodian side. Check current conditions before traveling, as the site has periodically closed during border tensions."
-  - q: "How long does a visit take?"
-    a: "Plan for at least half a day once you reach the base near Sra Em, factoring in the truck transfer up the mountain, walking the roughly 800-meter causeway, and the descent."
-  - q: "When is the best time to visit?"
-    a: "The dry season, November through April, offers the clearest views and a passable access road. The rainy season can make the mountain road difficult and often obscures the cliff-edge views."
+  - q: How do you get to Preah Vihear Temple from Poipet?
+    a: >-
+      It's a full day's drive east across Cambodia, typically routed through
+      Siem Reap or Anlong Veng, then north to Sra Em town at the base of the
+      mountain before a final transfer up the escarpment.
+  - q: What are the opening hours?
+    a: >-
+      The temple is open daily from 8:30am to 4:30pm. Arrive as early as
+      possible to beat the afternoon heat on the exposed causeway.
+  - q: Is Preah Vihear accessible from Thailand?
+    a: >-
+      No. Due to the ongoing border arrangement, access is exclusively from the
+      Cambodian side. Check current conditions before traveling, as the site has
+      periodically closed during border tensions.
+  - q: How long does a visit take?
+    a: >-
+      Plan for at least half a day once you reach the base near Sra Em,
+      factoring in the truck transfer up the mountain, walking the roughly
+      800-meter causeway, and the descent.
+  - q: When is the best time to visit?
+    a: >-
+      The dry season, November through April, offers the clearest views and a
+      passable access road. The rainy season can make the mountain road
+      difficult and often obscures the cliff-edge views.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-04'
 ---
 
 Preah Vihear doesn't sit near anything. That's the point. This 11th-century Hindu temple to Shiva was built along a natural ridge of the Dangrek Mountains, right on the border with Thailand, and the whole complex climbs nearly 800 meters up the escarpment before ending at a sanctuary that looks straight down a sheer cliff onto the Cambodian lowlands.

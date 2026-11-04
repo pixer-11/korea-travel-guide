@@ -1,40 +1,46 @@
 ---
-title: "Portal Maya: Playa del Carmen Travel Guide (4.7★)"
-description: "Portal Maya stands in Parque Fundadores, at the beach end of Avenida Juárez in Centro, Playa del Carmen. It is a free public sculpture, open 24 hours. 4.7★ (15,417 reviews) — what visitors say, hours, and tips."
-country: "Mexico"
-region: "Playa del Carmen"
-category: "attraction"
-pubDate: "2026-10-04T07:42:05.483Z"
+title: 'Portal Maya: Playa del Carmen Travel Guide (4.7★)'
+description: >-
+  Portal Maya stands in Parque Fundadores, at the beach end of Avenida Juárez in
+  Centro, Playa del Carmen. It is a free public sculpture, open 24 hours. 4.7★
+  (15,590 reviews) — what visitors say, hours, and tips.
+country: Mexico
+region: Playa del Carmen
+category: attraction
+pubDate: '2026-10-04T07:42:05.483Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Portal_Maya_%28El_Cierre_del_Ciclo_de_la_Cuenta_Larga_Maya%29_by_Jos%C3%A9_Arturo_Tavares..._in_morning_twilight_-_Playa_del_Carmen%2C_Mexico_-_August_15%2C_2014_01.png/3840px-Portal_Maya_%28El_Cierre_del_Ciclo_de_la_Cuenta_Larga_Maya%29_by_Jos%C3%A9_Arturo_Tavares..._in_morning_twilight_-_Playa_del_Carmen%2C_Mexico_-_August_15%2C_2014_01.png"
-  credit: "Photo: Giorgio Galeotti / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Portal_Maya_(El_Cierre_del_Ciclo_de_la_Cuenta_Larga_Maya)_by_Jos%C3%A9_Arturo_Tavares..._in_morning_twilight_-_Playa_del_Carmen,_Mexico_-_August_15,_2014_01.png"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Portal_Maya_%28El_Cierre_del_Ciclo_de_la_Cuenta_Larga_Maya%29_by_Jos%C3%A9_Arturo_Tavares..._in_morning_twilight_-_Playa_del_Carmen%2C_Mexico_-_August_15%2C_2014_01.png/3840px-Portal_Maya_%28El_Cierre_del_Ciclo_de_la_Cuenta_Larga_Maya%29_by_Jos%C3%A9_Arturo_Tavares..._in_morning_twilight_-_Playa_del_Carmen%2C_Mexico_-_August_15%2C_2014_01.png
+  credit: 'Photo: Giorgio Galeotti / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Portal_Maya_(El_Cierre_del_Ciclo_de_la_Cuenta_Larga_Maya)_by_Jos%C3%A9_Arturo_Tavares..._in_morning_twilight_-_Playa_del_Carmen,_Mexico_-_August_15,_2014_01.png
+  via: act
   focus:
     x: 50
-    y: 30
+    'y': 30
 gallery: []
 place:
-  id: "ChIJZW0fgTlDTo8R2N9-1V0xuNU"
-  name: "Portal Maya"
-  address: "Av Benito Juárez 251, Centro, 77713 Playa del Carmen, Q.R., Mexico"
+  id: ChIJZW0fgTlDTo8R2N9-1V0xuNU
+  name: Portal Maya
+  address: 'Av Benito Juárez 251, Centro, 77713 Playa del Carmen, Q.R., Mexico'
   rating: 4.7
-  userRatingsTotal: 15417
-  googleMapsUrl: "https://maps.google.com/?cid=15400113204876992472&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 15590
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15400113204876992472&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 20.6218103
   lng: -87.0746951
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-10-04
+    updated: 2026-10-04T00:00:00.000Z
     weekdayQuiet:
       - 7
     weekdayBusy:
@@ -57,24 +63,39 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_554e75783056312d394e3252386f54446c54676630575a4a496843"
+    venueId: ven_554e75783056312d394e3252386f54446c54676630575a4a496843
 tags:
-  - "playa del carmen"
-  - "top attraction"
-quickAnswer: "Portal Maya stands in Parque Fundadores, at the beach end of Avenida Juárez in Centro, Playa del Carmen. It is a free public sculpture, open 24 hours. Go between 7am and 8am on any day for an empty arch and soft morning light. Avoid weekends from 12pm to 11pm, when the plaza is at its busiest."
+  - playa del carmen
+  - top attraction
+quickAnswer: >-
+  Portal Maya stands in Parque Fundadores, at the beach end of Avenida Juárez in
+  Centro, Playa del Carmen. It is a free public sculpture, open 24 hours. Go
+  between 7am and 8am on any day for an empty arch and soft morning light. Avoid
+  weekends from 12pm to 11pm, when the plaza is at its busiest.
 faq:
-  - q: "When is the quietest time to visit Portal Maya?"
-    a: "Between 7am and 8am, on both weekdays and weekends. Avoid weekends from 12pm to 11pm, which is the busiest stretch."
-  - q: "Is Portal Maya open at night?"
-    a: "Yes. It's a public sculpture in Parque Fundadores, open 24 hours every day, with no gate or ticket."
-  - q: "How do I get to Portal Maya from the ADO bus station?"
-    a: "The ADO terminal on Quinta Avenida is at the Avenida Juárez corner. Walk one block toward the sea and you'll reach the arch in about two minutes."
-  - q: "How long should I spend there?"
-    a: "About 20 to 30 minutes for photos and a look at the plaza. Allow longer if you want to swim at Playa Fundadores or watch the Voladores perform."
-  - q: "What else is nearby?"
-    a: "Playa Fundadores is right behind the arch. Quinta Avenida is a block inland, and the Cozumel ferry pier is a few minutes' walk along the shore."
+  - q: When is the quietest time to visit Portal Maya?
+    a: >-
+      Between 7am and 8am, on both weekdays and weekends. Avoid weekends from
+      12pm to 11pm, which is the busiest stretch.
+  - q: Is Portal Maya open at night?
+    a: >-
+      Yes. It's a public sculpture in Parque Fundadores, open 24 hours every
+      day, with no gate or ticket.
+  - q: How do I get to Portal Maya from the ADO bus station?
+    a: >-
+      The ADO terminal on Quinta Avenida is at the Avenida Juárez corner. Walk
+      one block toward the sea and you'll reach the arch in about two minutes.
+  - q: How long should I spend there?
+    a: >-
+      About 20 to 30 minutes for photos and a look at the plaza. Allow longer if
+      you want to swim at Playa Fundadores or watch the Voladores perform.
+  - q: What else is nearby?
+    a: >-
+      Playa Fundadores is right behind the arch. Quinta Avenida is a block
+      inland, and the Cozumel ferry pier is a few minutes' walk along the shore.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-04'
 ---
 
 ## An arch built from bodies

@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: granada-la-alcaiceria
-srcHash: 'e2023c362213'
+srcHash: '7042fd9adb55'
 title: 阿尔凯塞里亚：格拉纳达旅行指南（4.5★）
-description: 阿尔凯塞里亚（La Alcaicería）是格拉纳达老城中心的摩尔式丝绸老市集，几条窄巷从天主教双王街岔出，紧贴着大教堂和皇家礼拜堂。4.5★（658条评价），带你了解游客评价、开放时间和实用贴士。
+description: 阿尔凯塞里亚（La Alcaicería）是格拉纳达老城中心的摩尔式丝绸老市集，几条窄巷从天主教双王街岔出，紧贴着大教堂和皇家礼拜堂。4.5★（659条评价），带你了解游客评价、开放时间和实用贴士。
 quickAnswer: 阿尔凯塞里亚（La Alcaicería）位于格拉纳达老城中心，是昔日摩尔人的丝绸市集。几条窄巷从天主教双王街（Calle Reyes Católicos）岔出，与大教堂和皇家礼拜堂（Capilla Real）挤在一起。巷子都是公共街道，任何时候都能进去走走，不过各家店铺营业时间不一。逛一圈大约需要20–40分钟。皇家礼拜堂、比布兰布拉广场（Plaza Bib-Rambla）和煤炭旅馆（Corral del Carbón）都在几分钟步行范围内，可以一并安排。
 faq:
   - q: 阿尔凯塞里亚具体在格拉纳达什么位置？

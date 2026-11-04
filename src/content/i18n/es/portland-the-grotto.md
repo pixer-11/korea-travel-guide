@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: portland-the-grotto
-srcHash: '21581cd72eb7'
+srcHash: 'c4054d1e7543'
 title: 'The Grotto: guía de viaje de Portland (4.7★)'
-description: 'The Grotto, cuyo nombre oficial es Santuario Nacional de Nuestra Señora de los Dolores, se encuentra junto a NE Skidmore Street, en el noreste de Portland, y abre todos los días de 9am a 8pm. 4.7★ (4,231 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'The Grotto, cuyo nombre oficial es Santuario Nacional de Nuestra Señora de los Dolores, se encuentra junto a NE Skidmore Street, en el noreste de Portland, y abre todos los días de 9am a 8pm. 4.7★ (4,320 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: The Grotto, cuyo nombre oficial es Santuario Nacional de Nuestra Señora de los Dolores, se encuentra junto a NE Skidmore Street, en el noreste de Portland, y abre todos los días de 9am a 8pm. Los días entre semana son los más tranquilos, al igual que el tramo de 7pm a 8pm los fines de semana, así que conviene apuntar a esas franjas en lugar de la hora punta de 10am a 5pm en fin de semana. Si quiere ver tanto los jardines del acantilado como la plaza a nivel del suelo con la cueva de la Piedad, calcule entre 90 minutos y dos horas.
 faq:
   - q: ¿Cuál es el horario de The Grotto?

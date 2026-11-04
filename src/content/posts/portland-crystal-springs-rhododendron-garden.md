@@ -1,44 +1,51 @@
 ---
-title: "Crystal Springs Rhododendron Garden: Portland Travel Guide"
-description: "Crystal Springs Rhododendron Garden sits in Portland's Eastmoreland neighborhood, at 5801 SE 28th Ave, and peak bloom runs mid-April through May. 4.8★ (2,611 reviews) — what visitors say, hours, and tips."
-country: "United States"
-region: "Portland"
-category: "attraction"
-pubDate: "2026-09-10T07:43:17.919Z"
+title: 'Crystal Springs Rhododendron Garden: Portland Travel Guide'
+description: >-
+  Crystal Springs Rhododendron Garden sits in Portland's Eastmoreland
+  neighborhood, at 5801 SE 28th Ave, and peak bloom runs mid-April through May.
+  4.8★ (2,625 reviews) — what visitors say, hours, and tips.
+country: United States
+region: Portland
+category: attraction
+pubDate: '2026-09-10T07:43:17.919Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Rhody_Garden_Lake.JPG/1920px-Rhody_Garden_Lake.JPG"
-  credit: "Photo: Jake DeGroot / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Rhody_Garden_Lake.JPG"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Rhody_Garden_Lake.JPG/1920px-Rhody_Garden_Lake.JPG
+  credit: 'Photo: Jake DeGroot / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Rhody_Garden_Lake.JPG'
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Crystal_Springs_Rhododendron_Garden_Panorama.jpg/3840px-Crystal_Springs_Rhododendron_Garden_Panorama.jpg"
-    credit: "Photo: Adumbvoget / Wikimedia Commons (Public domain)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Crystal_Springs_Rhododendron_Garden_Panorama.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Crystal_Springs_Rhododendron_Garden_Panorama.jpg/3840px-Crystal_Springs_Rhododendron_Garden_Panorama.jpg
+    credit: 'Photo: Adumbvoget / Wikimedia Commons (Public domain)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Crystal_Springs_Rhododendron_Garden_Panorama.jpg
 place:
-  id: "ChIJTbKVIpYKlVQRWx5iCo1T0kM"
-  name: "Crystal Springs Rhododendron Garden"
-  address: "5801 SE 28th Ave, Portland, OR 97202, USA"
+  id: ChIJTbKVIpYKlVQRWx5iCo1T0kM
+  name: Crystal Springs Rhododendron Garden
+  address: '5801 SE 28th Ave, Portland, OR 97202, USA'
   rating: 4.8
-  userRatingsTotal: 2611
-  googleMapsUrl: "https://maps.google.com/?cid=4887060410880106075&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2625
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4887060410880106075&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 45.4799247
   lng: -122.6355177
-  phone: "+1 503-267-7509"
+  phone: +1 503-267-7509
   openingHours:
-    - "Monday: 10:00 AM – 4:45 PM"
-    - "Tuesday: 10:00 AM – 4:45 PM"
-    - "Wednesday: 1:00 – 4:45 PM"
-    - "Thursday: 10:00 AM – 4:45 PM"
-    - "Friday: 10:00 AM – 4:45 PM"
-    - "Saturday: 10:00 AM – 4:45 PM"
-    - "Sunday: 10:00 AM – 4:45 PM"
+    - 'Monday: 10:00 AM – 4:45 PM'
+    - 'Tuesday: 10:00 AM – 4:45 PM'
+    - 'Wednesday: 1:00 – 4:45 PM'
+    - 'Thursday: 10:00 AM – 4:45 PM'
+    - 'Friday: 10:00 AM – 4:45 PM'
+    - 'Saturday: 10:00 AM – 4:45 PM'
+    - 'Sunday: 10:00 AM – 4:45 PM'
   busyness:
-    updated: 2026-09-10
+    updated: 2026-09-10T00:00:00.000Z
     weekdayQuiet:
       - 10
     weekendBusy:
@@ -47,24 +54,41 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_4d6b3054316f43693578575251566c4b597049564b62544a496843"
+    venueId: ven_4d6b3054316f43693578575251566c4b597049564b62544a496843
 tags:
-  - "portland"
-  - "park"
-quickAnswer: "Crystal Springs Rhododendron Garden sits in Portland's Eastmoreland neighborhood, at 5801 SE 28th Ave, and peak bloom runs mid-April through May. Weekday mornings between 10am and 11am are quietest; weekends from 11am to 4pm draw the biggest crowds. Budget 45 minutes to an hour for a full loop around the ponds."
+  - portland
+  - park
+quickAnswer: >-
+  Crystal Springs Rhododendron Garden sits in Portland's Eastmoreland
+  neighborhood, at 5801 SE 28th Ave, and peak bloom runs mid-April through May.
+  Weekday mornings between 10am and 11am are quietest; weekends from 11am to 4pm
+  draw the biggest crowds. Budget 45 minutes to an hour for a full loop around
+  the ponds.
 faq:
-  - q: "Where exactly is Crystal Springs Rhododendron Garden?"
-    a: "5801 SE 28th Ave, Portland, OR 97202, in the Eastmoreland neighborhood next to Eastmoreland Golf Course."
-  - q: "When is the best time to see the rhododendrons in bloom?"
-    a: "Mid-April through May, with peak color typically in the first half of May, though exact timing shifts with spring weather."
-  - q: "Is there an entrance fee?"
-    a: "A small fee usually applies Thursday through Monday in peak season, with Tuesdays and Wednesdays typically free; check current pricing before visiting since it can change."
-  - q: "What's the quietest time to visit?"
-    a: "Weekdays between 10am and 11am, right at opening, are the calmest window. Weekends from 11am to 4pm are the busiest, especially during peak bloom."
-  - q: "How long should I plan to stay?"
-    a: "About 45 minutes to an hour covers the full loop around the ponds at an easy pace."
+  - q: Where exactly is Crystal Springs Rhododendron Garden?
+    a: >-
+      5801 SE 28th Ave, Portland, OR 97202, in the Eastmoreland neighborhood
+      next to Eastmoreland Golf Course.
+  - q: When is the best time to see the rhododendrons in bloom?
+    a: >-
+      Mid-April through May, with peak color typically in the first half of May,
+      though exact timing shifts with spring weather.
+  - q: Is there an entrance fee?
+    a: >-
+      A small fee usually applies Thursday through Monday in peak season, with
+      Tuesdays and Wednesdays typically free; check current pricing before
+      visiting since it can change.
+  - q: What's the quietest time to visit?
+    a: >-
+      Weekdays between 10am and 11am, right at opening, are the calmest window.
+      Weekends from 11am to 4pm are the busiest, especially during peak bloom.
+  - q: How long should I plan to stay?
+    a: >-
+      About 45 minutes to an hour covers the full loop around the ponds at an
+      easy pace.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-04'
 ---
 ## What's actually here
 

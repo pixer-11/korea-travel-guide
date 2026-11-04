@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: portland-crystal-springs-rhododendron-garden
-srcHash: '9d4ced4822d3'
+srcHash: '1e04a6e9a909'
 title: 'Jardín de Rododendros Crystal Springs: Guía de Viaje de Portland'
-description: 'El Jardín de Rododendros Crystal Springs se encuentra en el barrio Eastmoreland de Portland, en 5801 SE 28th Ave, y su época de mayor floración va de mediados de abril a mayo. 4.8★ (2,611 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Jardín de Rododendros Crystal Springs se encuentra en el barrio Eastmoreland de Portland, en 5801 SE 28th Ave, y su época de mayor floración va de mediados de abril a mayo. 4.8★ (2,625 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Jardín de Rododendros Crystal Springs se encuentra en el barrio Eastmoreland de Portland, en 5801 SE 28th Ave, y su época de mayor floración va de mediados de abril a mayo. Las mañanas de entre semana, entre las 10am y las 11am, son el momento más tranquilo, mientras que los fines de semana de 11am a 4pm atraen a la mayor cantidad de visitantes. Conviene reservar entre 45 minutos y una hora para completar el recorrido alrededor de los estanques.
 faq:
   - q: ¿Dónde está exactamente el Jardín de Rododendros Crystal Springs?

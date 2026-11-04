@@ -1,40 +1,46 @@
 ---
-title: "Japanese American Historical Plaza: Portland Travel Guide"
-description: "The Japanese American Historical Plaza in Portland sits at the north end of Tom McCall Waterfront Park, beside the Willamette River near the Steel Bridge. 4.6★ (256 reviews) — what visitors say, hours, and tips."
-country: "United States"
-region: "Portland"
-category: "hidden-gem"
-pubDate: "2026-09-28T15:39:00.189Z"
+title: 'Japanese American Historical Plaza: Portland Travel Guide'
+description: >-
+  The Japanese American Historical Plaza in Portland sits at the north end of
+  Tom McCall Waterfront Park, beside the Willamette River near the Steel Bridge.
+  4.6★ (258 reviews) — what visitors say, hours, and tips.
+country: United States
+region: Portland
+category: hidden-gem
+pubDate: '2026-09-28T15:39:00.189Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Japanese_American_Historical_Plaza_-_Portland%2C_Oregon.jpg/1920px-Japanese_American_Historical_Plaza_-_Portland%2C_Oregon.jpg"
-  credit: "Photo: Kingofthedead / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Japanese_American_Historical_Plaza_-_Portland,_Oregon.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Japanese_American_Historical_Plaza_-_Portland%2C_Oregon.jpg/1920px-Japanese_American_Historical_Plaza_-_Portland%2C_Oregon.jpg
+  credit: 'Photo: Kingofthedead / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Japanese_American_Historical_Plaza_-_Portland,_Oregon.jpg
   focus:
     x: 55
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJcW2j76mglVQRQbRFc2tYlMQ"
-  name: "Japanese American Historical Plaza"
-  address: "Portland, OR 97209, USA"
+  id: ChIJcW2j76mglVQRQbRFc2tYlMQ
+  name: Japanese American Historical Plaza
+  address: 'Portland, OR 97209, USA'
   rating: 4.6
-  userRatingsTotal: 256
-  googleMapsUrl: "https://maps.google.com/?cid=14165043946505745473&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 258
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14165043946505745473&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 45.523953899999995
   lng: -122.66958389999999
-  phone: "+1 503-224-1458"
+  phone: +1 503-224-1458
   openingHours:
-    - "Monday: 5:00 AM – 12:00 AM"
-    - "Tuesday: 5:00 AM – 12:00 AM"
-    - "Wednesday: 5:00 AM – 12:00 AM"
-    - "Thursday: 5:00 AM – 12:00 AM"
-    - "Friday: 5:00 AM – 12:00 AM"
-    - "Saturday: 5:00 AM – 12:00 AM"
-    - "Sunday: 5:00 AM – 12:00 AM"
+    - 'Monday: 5:00 AM – 12:00 AM'
+    - 'Tuesday: 5:00 AM – 12:00 AM'
+    - 'Wednesday: 5:00 AM – 12:00 AM'
+    - 'Thursday: 5:00 AM – 12:00 AM'
+    - 'Friday: 5:00 AM – 12:00 AM'
+    - 'Saturday: 5:00 AM – 12:00 AM'
+    - 'Sunday: 5:00 AM – 12:00 AM'
   busyness:
-    updated: 2026-09-28
+    updated: 2026-09-28T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -58,24 +64,40 @@ place:
       - 17
       - 18
       - 19
-    venueId: "ven_514d6c59743263465262515251566c676d36376a3257634a496843"
+    venueId: ven_514d6c59743263465262515251566c676d36376a3257634a496843
 tags:
-  - "portland"
-  - "old quarter"
-quickAnswer: "The Japanese American Historical Plaza in Portland sits at the north end of Tom McCall Waterfront Park, beside the Willamette River near the Steel Bridge. It is an open public space from 5am to midnight daily. It's quietest between 7am and 11pm, but try to avoid weekends from 11am to 8pm; go in late March or early April if you want the cherry trees in bloom."
+  - portland
+  - old quarter
+quickAnswer: >-
+  The Japanese American Historical Plaza in Portland sits at the north end of
+  Tom McCall Waterfront Park, beside the Willamette River near the Steel Bridge.
+  It is an open public space from 5am to midnight daily. It's quietest between
+  7am and 11pm, but try to avoid weekends from 11am to 8pm; go in late March or
+  early April if you want the cherry trees in bloom.
 faq:
-  - q: "Where exactly is the Japanese American Historical Plaza?"
-    a: "It's at the north end of Tom McCall Waterfront Park on the Willamette River, between the Burnside and Steel bridges along Naito Parkway. The nearest MAX stop is Skidmore Fountain on the Blue and Red lines."
-  - q: "When is the quietest time to visit?"
-    a: "The quietest window is 7am to 11pm on both weekdays and weekends. Avoid weekends from 11am to 8pm, which is the busiest period."
-  - q: "When do the cherry trees bloom?"
-    a: "Usually in late March or early April. The exact timing shifts with the weather each year, and the plaza gets busier during peak bloom."
-  - q: "How long should I spend there?"
-    a: "Give it 20 to 30 minutes to read every poem stone. Add an hour or more if you continue to Old Town Chinatown and the Japanese American Museum of Oregon."
-  - q: "What are the plaza's hours?"
-    a: "The plaza is open from 5am to midnight every day."
+  - q: Where exactly is the Japanese American Historical Plaza?
+    a: >-
+      It's at the north end of Tom McCall Waterfront Park on the Willamette
+      River, between the Burnside and Steel bridges along Naito Parkway. The
+      nearest MAX stop is Skidmore Fountain on the Blue and Red lines.
+  - q: When is the quietest time to visit?
+    a: >-
+      The quietest window is 7am to 11pm on both weekdays and weekends. Avoid
+      weekends from 11am to 8pm, which is the busiest period.
+  - q: When do the cherry trees bloom?
+    a: >-
+      Usually in late March or early April. The exact timing shifts with the
+      weather each year, and the plaza gets busier during peak bloom.
+  - q: How long should I spend there?
+    a: >-
+      Give it 20 to 30 minutes to read every poem stone. Add an hour or more if
+      you continue to Old Town Chinatown and the Japanese American Museum of
+      Oregon.
+  - q: What are the plaza's hours?
+    a: The plaza is open from 5am to midnight every day.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-04'
 ---
 
 ## Stones along the Willamette

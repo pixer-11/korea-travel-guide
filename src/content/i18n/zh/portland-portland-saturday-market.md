@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: portland-portland-saturday-market
-srcHash: 'ffec647feff7'
+srcHash: '0c0f7727be6e'
 title: 波特兰周六市集（Portland Saturday Market）旅行指南（4.5★）
-description: 波特兰周六市集设在波特兰老城（Old Town）伯恩赛德大桥（Burnside Bridge）西端旁的汤姆·麦考尔滨水公园（Tom McCall Waterfront Park）内，地址为2 SW Naito Pkwy，汇集了手工艺品、礼品摊位、美食餐车与现场演出。评分4.5★（4,921条评价）——游客怎么说、开放时间与实用建议，一文尽览。
+description: 波特兰周六市集设在波特兰老城（Old Town）伯恩赛德大桥（Burnside Bridge）西端旁的汤姆·麦考尔滨水公园（Tom McCall Waterfront Park）内，地址为2 SW Naito Pkwy，汇集了手工艺品、礼品摊位、美食餐车与现场演出。评分4.5★（4,936条评价）——游客怎么说、开放时间与实用建议，一文尽览。
 quickAnswer: 波特兰周六市集设在波特兰老城伯恩赛德大桥西端旁的汤姆·麦考尔滨水公园内，地址为2 SW Naito Pkwy，市集内有手工艺品和礼品摊位、美食餐车，还有现场演出。目前公布的营业时间仅为周六10:00至17:00，如果打算周日前往，出发前务必先查看官网确认。建议乘坐MAX轻轨到斯基德莫尔喷泉站（Skidmore Fountain），预留两到三小时游览时间，若想从容逛遍全场，最好在10点左右抵达。
 faq:
   - q: 波特兰周六市集哪几天开放？

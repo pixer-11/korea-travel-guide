@@ -1,41 +1,48 @@
 ---
-title: "Pittock Mansion: Portland Travel Guide (4.7★)"
-description: "Pittock Mansion is a 1914 French Renaissance-style estate perched in the West Hills, open daily 9am–5pm (Tuesdays it opens at noon). 4.7★ (8,405 reviews) — what visitors say, hours, and tips."
-country: "United States"
-region: "Portland"
-category: "attraction"
-pubDate: "2026-08-15T07:56:20.181Z"
+title: 'Pittock Mansion: Portland Travel Guide (4.7★)'
+description: >-
+  Pittock Mansion is a 1914 French Renaissance-style estate perched in the West
+  Hills, open daily 9am–5pm (Tuesdays it opens at noon). 4.7★ (8,521 reviews) —
+  what visitors say, hours, and tips.
+country: United States
+region: Portland
+category: attraction
+pubDate: '2026-08-15T07:56:20.181Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Rear_of_Pittock_Mansion.jpeg/1920px-Rear_of_Pittock_Mansion.jpeg"
-  credit: "Photo: Chrismiceli / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Rear_of_Pittock_Mansion.jpeg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Rear_of_Pittock_Mansion.jpeg/1920px-Rear_of_Pittock_Mansion.jpeg
+  credit: 'Photo: Chrismiceli / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Rear_of_Pittock_Mansion.jpeg'
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Portland_from_Pittock_Mansion_October_2019_panorama_2.jpg/3840px-Portland_from_Pittock_Mansion_October_2019_panorama_2.jpg"
-    credit: "Photo: King of Hearts / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Portland_from_Pittock_Mansion_October_2019_panorama_2.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Portland_from_Pittock_Mansion_October_2019_panorama_2.jpg/3840px-Portland_from_Pittock_Mansion_October_2019_panorama_2.jpg
+    credit: 'Photo: King of Hearts / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Portland_from_Pittock_Mansion_October_2019_panorama_2.jpg
 place:
-  id: "ChIJU2_QC5IJlVQR-sChHm4v6r8"
-  name: "Pittock Mansion"
-  address: "3229 NW Pittock Dr, Portland, OR 97210, USA"
+  id: ChIJU2_QC5IJlVQR-sChHm4v6r8
+  name: Pittock Mansion
+  address: '3229 NW Pittock Dr, Portland, OR 97210, USA'
   rating: 4.7
-  userRatingsTotal: 8405
-  googleMapsUrl: "https://maps.google.com/?cid=13828917755801354490&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 8521
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13828917755801354490&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 45.5252061
   lng: -122.71626889999999
-  phone: "+1 503-823-3623"
+  phone: +1 503-823-3623
   openingHours:
-    - "Monday: 9:00 AM – 5:00 PM"
-    - "Tuesday: 12:00 – 5:00 PM"
-    - "Wednesday: 9:00 AM – 5:00 PM"
-    - "Thursday: 9:00 AM – 5:00 PM"
-    - "Friday: 9:00 AM – 5:00 PM"
-    - "Saturday: 9:00 AM – 5:00 PM"
-    - "Sunday: 9:00 AM – 5:00 PM"
+    - 'Monday: 9:00 AM – 5:00 PM'
+    - 'Tuesday: 12:00 – 5:00 PM'
+    - 'Wednesday: 9:00 AM – 5:00 PM'
+    - 'Thursday: 9:00 AM – 5:00 PM'
+    - 'Friday: 9:00 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 5:00 PM'
+    - 'Sunday: 9:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-08-15
+    updated: 2026-08-15T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 10
@@ -49,24 +56,41 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_38723676346d486843732d5251566c4a493543515f32554a496843"
+    venueId: ven_38723676346d486843732d5251566c4a493543515f32554a496843
 tags:
-  - "portland"
-  - "top attraction"
-quickAnswer: "Pittock Mansion is a 1914 French Renaissance-style estate perched in the West Hills, open daily 9am–5pm (Tuesdays it opens at noon). Go on a weekend before 10am to beat the crowds — after 11am on Saturdays and Sundays the parking lot and rooms fill up fast. Budget 60–90 minutes for the house plus a walk through the grounds for the skyline and Mt. Hood views."
+  - portland
+  - top attraction
+quickAnswer: >-
+  Pittock Mansion is a 1914 French Renaissance-style estate perched in the West
+  Hills, open daily 9am–5pm (Tuesdays it opens at noon). Go on a weekend before
+  10am to beat the crowds — after 11am on Saturdays and Sundays the parking lot
+  and rooms fill up fast. Budget 60–90 minutes for the house plus a walk through
+  the grounds for the skyline and Mt. Hood views.
 faq:
-  - q: "How much time should I budget for Pittock Mansion?"
-    a: "Plan on 60-90 minutes total: about 45-60 minutes touring the 23-room interior, plus time to walk the gardens and terrace for the skyline view."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays are calm throughout the full 9am-5pm window. On weekends, go between 9am and 10am — after 11am it gets busy through closing."
-  - q: "Is there public transit to Pittock Mansion?"
-    a: "No direct transit line reaches the door. Most visitors drive, or park near Washington Park/Vista Bridge and hike up via Forest Park's Wildwood Trail."
-  - q: "What are the opening hours?"
-    a: "Open 9am-5pm daily except Tuesdays, when it opens later at noon and closes at 5pm. Confirm current hours before visiting, especially around holidays."
-  - q: "Is Pittock Mansion good for kids or a quick stop?"
-    a: "It works well for families with time to explore both house and grounds, but it's not ideal as a rushed photo-only stop given parking and entry lines on busy days."
+  - q: How much time should I budget for Pittock Mansion?
+    a: >-
+      Plan on 60-90 minutes total: about 45-60 minutes touring the 23-room
+      interior, plus time to walk the gardens and terrace for the skyline view.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekdays are calm throughout the full 9am-5pm window. On weekends, go
+      between 9am and 10am — after 11am it gets busy through closing.
+  - q: Is there public transit to Pittock Mansion?
+    a: >-
+      No direct transit line reaches the door. Most visitors drive, or park near
+      Washington Park/Vista Bridge and hike up via Forest Park's Wildwood Trail.
+  - q: What are the opening hours?
+    a: >-
+      Open 9am-5pm daily except Tuesdays, when it opens later at noon and closes
+      at 5pm. Confirm current hours before visiting, especially around holidays.
+  - q: Is Pittock Mansion good for kids or a quick stop?
+    a: >-
+      It works well for families with time to explore both house and grounds,
+      but it's not ideal as a rushed photo-only stop given parking and entry
+      lines on busy days.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-04'
 ---
 
 ## Why go

@@ -1,59 +1,89 @@
 ---
-title: "La Alcaicería: Granada Travel Guide (4.5★)"
-description: "La Alcaicería is the old Moorish silk-market quarter in Granada's Centro, a few narrow lanes off Calle Reyes Católicos squeezed against the Cathedral and Capilla Real. 4.5★ (658 reviews) — what visitors say, hours, and tips."
-country: "Spain"
-region: "Granada"
-category: "hidden-gem"
-pubDate: "2026-11-03T07:54:10.880Z"
+title: 'La Alcaicería: Granada Travel Guide (4.5★)'
+description: >-
+  La Alcaicería is the old Moorish silk-market quarter in Granada's Centro, a
+  few narrow lanes off Calle Reyes Católicos squeezed against the Cathedral and
+  Capilla Real. 4.5★ (659 reviews) — what visitors say, hours, and tips.
+country: Spain
+region: Granada
+category: hidden-gem
+pubDate: '2026-11-03T07:54:10.880Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Alcaiceria%2C_Granada%2C_Granada%2C_18_July_2016_%282%29.JPG/3840px-Alcaiceria%2C_Granada%2C_Granada%2C_18_July_2016_%282%29.JPG"
-  credit: "Photo: Kolforn / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Alcaiceria,_Granada,_Granada,_18_July_2016_(2).JPG"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Alcaiceria%2C_Granada%2C_Granada%2C_18_July_2016_%282%29.JPG/3840px-Alcaiceria%2C_Granada%2C_Granada%2C_18_July_2016_%282%29.JPG
+  credit: 'Photo: Kolforn / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Alcaiceria,_Granada,_Granada,_18_July_2016_(2).JPG
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Alcaiceria%2C_Granada%2C_Granada%2C_18_July_2016_%281%29.JPG/3840px-Alcaiceria%2C_Granada%2C_Granada%2C_18_July_2016_%281%29.JPG"
-    credit: "Photo: Kolforn / Wikimedia Commons (CC BY 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Alcaiceria,_Granada,_Granada,_18_July_2016_(1).JPG"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Alcaiceria%2C_Granada%2C_Granada%2C_18_July_2016_%281%29.JPG/3840px-Alcaiceria%2C_Granada%2C_Granada%2C_18_July_2016_%281%29.JPG
+    credit: 'Photo: Kolforn / Wikimedia Commons (CC BY 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Alcaiceria,_Granada,_Granada,_18_July_2016_(1).JPG
 place:
-  id: "ChIJEyf5qcT9cQ0Rgsy9V1MMjoQ"
-  name: "La Alcaicería"
-  address: "Reyes Católicos, 12, Centro, 18009 Granada, Spain"
+  id: ChIJEyf5qcT9cQ0Rgsy9V1MMjoQ
+  name: La Alcaicería
+  address: 'Reyes Católicos, 12, Centro, 18009 Granada, Spain'
   rating: 4.5
-  userRatingsTotal: 658
-  googleMapsUrl: "https://maps.google.com/?cid=9551585411793276034&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 659
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9551585411793276034&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 37.175392099999996
   lng: -3.5987630999999993
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "granada"
-  - "old quarter"
-quickAnswer: "La Alcaicería is the old Moorish silk-market quarter in Granada's Centro, a few narrow lanes off Calle Reyes Católicos squeezed against the Cathedral and Capilla Real. The lanes are public streets you can walk at any hour, though the shops keep their own hours. Give it 20–40 minutes and pair it with the Capilla Real, Plaza Bib-Rambla and the Corral del Carbón, all within a few minutes' walk."
+  - granada
+  - old quarter
+quickAnswer: >-
+  La Alcaicería is the old Moorish silk-market quarter in Granada's Centro, a
+  few narrow lanes off Calle Reyes Católicos squeezed against the Cathedral and
+  Capilla Real. The lanes are public streets you can walk at any hour, though
+  the shops keep their own hours. Give it 20–40 minutes and pair it with the
+  Capilla Real, Plaza Bib-Rambla and the Corral del Carbón, all within a few
+  minutes' walk.
 faq:
-  - q: "Where exactly is La Alcaicería in Granada?"
-    a: "It's in the Centro district, entered from Calle Reyes Católicos 12. The lanes run between the Cathedral and Capilla Real on one side and Calle Zacatín on the other, a minute from Plaza Bib-Rambla."
-  - q: "Is La Alcaicería open at night?"
-    a: "Yes. The lanes are public streets and listed as open 24 hours, so you can walk through at any time. The individual shops keep their own hours, so come during the day if you want to buy."
-  - q: "How long should I spend there?"
-    a: "About 20–40 minutes covers the lanes at a browsing pace. Add the Capilla Real, the Madraza and the Corral del Carbón next door and you have a two-hour walk through the centre."
-  - q: "Can I bargain in the shops?"
-    a: "Prices are usually marked. A polite, modest offer can work on larger items or when you buy several pieces, but haggling is lighter here than in North African souks."
-  - q: "What is worth buying there?"
-    a: "Look for taracea (inlaid wood boxes and boards), Granada-style ceramics, and brass-and-glass lanterns. Much of the stock is imported, so ask where a piece was made if you want something truly local."
+  - q: Where exactly is La Alcaicería in Granada?
+    a: >-
+      It's in the Centro district, entered from Calle Reyes Católicos 12. The
+      lanes run between the Cathedral and Capilla Real on one side and Calle
+      Zacatín on the other, a minute from Plaza Bib-Rambla.
+  - q: Is La Alcaicería open at night?
+    a: >-
+      Yes. The lanes are public streets and listed as open 24 hours, so you can
+      walk through at any time. The individual shops keep their own hours, so
+      come during the day if you want to buy.
+  - q: How long should I spend there?
+    a: >-
+      About 20–40 minutes covers the lanes at a browsing pace. Add the Capilla
+      Real, the Madraza and the Corral del Carbón next door and you have a
+      two-hour walk through the centre.
+  - q: Can I bargain in the shops?
+    a: >-
+      Prices are usually marked. A polite, modest offer can work on larger items
+      or when you buy several pieces, but haggling is lighter here than in North
+      African souks.
+  - q: What is worth buying there?
+    a: >-
+      Look for taracea (inlaid wood boxes and boards), Granada-style ceramics,
+      and brass-and-glass lanterns. Much of the stock is imported, so ask where
+      a piece was made if you want something truly local.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-04'
 ---
 
 ## A bazaar folded into three lanes

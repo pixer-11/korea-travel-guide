@@ -1,55 +1,84 @@
 ---
-title: "Río Secreto: Playa del Carmen Travel Guide (4.7★)"
-description: "Río Secreto is a guided underground-river tour just south of Playa del Carmen, at Km 283.5 on the federal highway toward Tulum. 4.7★ (8,527 reviews) — what visitors say, hours, and tips."
-country: "Mexico"
-region: "Playa del Carmen"
-category: "hidden-gem"
-pubDate: "2026-10-04T07:52:39.828Z"
+title: 'Río Secreto: Playa del Carmen Travel Guide (4.7★)'
+description: >-
+  Río Secreto is a guided underground-river tour just south of Playa del Carmen,
+  at Km 283.5 on the federal highway toward Tulum. 4.7★ (8,566 reviews) — what
+  visitors say, hours, and tips.
+country: Mexico
+region: Playa del Carmen
+category: hidden-gem
+pubDate: '2026-10-04T07:52:39.828Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Cueva_R%C3%ADo_Secreto_%281%29.jpg/1920px-Cueva_R%C3%ADo_Secreto_%281%29.jpg"
-  credit: "Photo: Río Secreto / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Cueva_R%C3%ADo_Secreto_(1).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Cueva_R%C3%ADo_Secreto_%281%29.jpg/1920px-Cueva_R%C3%ADo_Secreto_%281%29.jpg
+  credit: 'Photo: Río Secreto / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Cueva_R%C3%ADo_Secreto_(1).jpg'
   focus:
     x: 50
-    y: 55
+    'y': 55
 gallery: []
 place:
-  id: "ChIJPdP_dgZETo8RlCmuaxZF2tI"
-  name: "Río Secreto"
-  address: "Carretera Federal Libre Chetumal - Puerto Juárez Km 283.5, Ejido Sur, 77712, 77712 Playa del Carmen, Q.R., Mexico"
+  id: ChIJPdP_dgZETo8RlCmuaxZF2tI
+  name: Río Secreto
+  address: >-
+    Carretera Federal Libre Chetumal - Puerto Juárez Km 283.5, Ejido Sur, 77712,
+    77712 Playa del Carmen, Q.R., Mexico
   rating: 4.7
-  userRatingsTotal: 8527
-  googleMapsUrl: "https://maps.google.com/?cid=15193532255485962644&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 8566
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15193532255485962644&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 20.5881851
   lng: -87.1338822
-  phone: "+52 984 242 0337"
+  phone: +52 984 242 0337
   openingHours:
-    - "Monday: 9:00 AM – 2:00 PM"
-    - "Tuesday: 9:00 AM – 2:00 PM"
-    - "Wednesday: 9:00 AM – 2:00 PM"
-    - "Thursday: 9:00 AM – 2:00 PM"
-    - "Friday: 9:00 AM – 2:00 PM"
-    - "Saturday: 9:00 AM – 2:00 PM"
-    - "Sunday: 9:00 AM – 2:00 PM"
+    - 'Monday: 9:00 AM – 2:00 PM'
+    - 'Tuesday: 9:00 AM – 2:00 PM'
+    - 'Wednesday: 9:00 AM – 2:00 PM'
+    - 'Thursday: 9:00 AM – 2:00 PM'
+    - 'Friday: 9:00 AM – 2:00 PM'
+    - 'Saturday: 9:00 AM – 2:00 PM'
+    - 'Sunday: 9:00 AM – 2:00 PM'
 tags:
-  - "playa del carmen"
-  - "hidden gem"
-quickAnswer: "Río Secreto is a guided underground-river tour just south of Playa del Carmen, at Km 283.5 on the federal highway toward Tulum. You wade, walk and float through a lit-by-headlamp cave of stalactites and stalagmites. It runs daily from 9am to 2pm, so book a morning slot in advance and arrive without sunscreen."
+  - playa del carmen
+  - hidden gem
+quickAnswer: >-
+  Río Secreto is a guided underground-river tour just south of Playa del Carmen,
+  at Km 283.5 on the federal highway toward Tulum. You wade, walk and float
+  through a lit-by-headlamp cave of stalactites and stalagmites. It runs daily
+  from 9am to 2pm, so book a morning slot in advance and arrive without
+  sunscreen.
 faq:
-  - q: "Where exactly is Río Secreto and how do I get there from Playa del Carmen?"
-    a: "It is at Km 283.5 on Highway 307 (Carretera Federal Chetumal–Puerto Juárez), a short drive south of Playa del Carmen near Xcaret. Go by taxi, rental car, a colectivo van along the highway, or a hotel transfer booked with the tour."
-  - q: "What are the opening hours?"
-    a: "9:00am to 2:00pm every day, Monday to Sunday. Tours depart within that window, so plan a morning visit; it is not an afternoon activity."
-  - q: "Can I bring my phone or wear sunscreen?"
-    a: "No to both. Personal cameras and phones are not allowed in the cave; staff photographers take photos you can buy afterwards. Sunscreen, repellent and lotions are banned to protect the water, and you rinse off before entering."
-  - q: "How long does the visit take, and do I need to swim?"
-    a: "Allow roughly half a day including check-in, changing and travel. The tour mixes walking, wading and floating in a flotation vest, so strong swimming is not required, but you must be steady on wet rock."
-  - q: "Do I need to book in advance?"
-    a: "Yes, booking online is strongly advised. It is a very popular, small-group guided tour and slots fill, especially in high season. Current packages and prices are on the official website."
+  - q: Where exactly is Río Secreto and how do I get there from Playa del Carmen?
+    a: >-
+      It is at Km 283.5 on Highway 307 (Carretera Federal Chetumal–Puerto
+      Juárez), a short drive south of Playa del Carmen near Xcaret. Go by taxi,
+      rental car, a colectivo van along the highway, or a hotel transfer booked
+      with the tour.
+  - q: What are the opening hours?
+    a: >-
+      9:00am to 2:00pm every day, Monday to Sunday. Tours depart within that
+      window, so plan a morning visit; it is not an afternoon activity.
+  - q: Can I bring my phone or wear sunscreen?
+    a: >-
+      No to both. Personal cameras and phones are not allowed in the cave; staff
+      photographers take photos you can buy afterwards. Sunscreen, repellent and
+      lotions are banned to protect the water, and you rinse off before
+      entering.
+  - q: 'How long does the visit take, and do I need to swim?'
+    a: >-
+      Allow roughly half a day including check-in, changing and travel. The tour
+      mixes walking, wading and floating in a flotation vest, so strong swimming
+      is not required, but you must be steady on wet rock.
+  - q: Do I need to book in advance?
+    a: >-
+      Yes, booking online is strongly advised. It is a very popular, small-group
+      guided tour and slots fill, especially in high season. Current packages
+      and prices are on the official website.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-04'
 ---
 
 ## A river under the scrub

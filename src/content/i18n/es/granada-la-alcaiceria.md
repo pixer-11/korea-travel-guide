@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: granada-la-alcaiceria
-srcHash: 'e2023c362213'
+srcHash: '7042fd9adb55'
 title: 'La Alcaicería: guía de viaje de Granada (4.5★)'
-description: 'En pleno Centro de Granada, junto a la Catedral y la Capilla Real, se encuentra La Alcaicería, el antiguo barrio nazarí del mercado de la seda: unas pocas callejuelas estrechas a las que se entra desde la calle Reyes Católicos. Valoración de 4.5★ (658 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En pleno Centro de Granada, junto a la Catedral y la Capilla Real, se encuentra La Alcaicería, el antiguo barrio nazarí del mercado de la seda: unas pocas callejuelas estrechas a las que se entra desde la calle Reyes Católicos. Valoración de 4.5★ (659 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En pleno Centro de Granada, encajada entre la Catedral y la Capilla Real, se encuentra La Alcaicería, el antiguo barrio nazarí del mercado de la seda. Son unas pocas callejuelas estrechas a las que se accede desde la calle Reyes Católicos. Al tratarse de vías públicas, pueden recorrerse a cualquier hora, aunque cada tienda tiene su propio horario. Bastan entre 20–40 minutos para verla, y conviene combinar la visita con la Capilla Real, la plaza de Bib-Rambla y el Corral del Carbón, todos a pocos minutos a pie.
 faq:
   - q: ¿Dónde se encuentra exactamente La Alcaicería en Granada?

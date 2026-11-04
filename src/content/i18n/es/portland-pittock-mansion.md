@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: portland-pittock-mansion
-srcHash: 'd6c1f5185a39'
+srcHash: '8ee13c79dbc3'
 title: 'Pittock Mansion: Guía de viaje de Portland (4.7★)'
-description: 'Pittock Mansion es una mansión de estilo renacentista francés construida en 1914, situada en las colinas del West Hills, abierta todos los días de 9:00 a 17:00 (los martes abre al mediodía). 4.7★ (8,405 reseñas): qué dicen los visitantes, horarios y consejos.'
+description: 'Pittock Mansion es una mansión de estilo renacentista francés construida en 1914, situada en las colinas del West Hills, abierta todos los días de 9:00 a 17:00 (los martes abre al mediodía). 4.7★ (8,521 reseñas): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: Pittock Mansion es una mansión de estilo renacentista francés construida en 1914, situada en las colinas del West Hills, abierta todos los días de 9:00 a 17:00 (los martes abre al mediodía). Conviene ir un fin de semana antes de las 10:00 para evitar las multitudes, ya que después de las 11:00 los sábados y domingos el estacionamiento y las salas se llenan rápido. Calcula entre 60 y 90 minutos para recorrer la casa y caminar por los jardines, desde donde se ven el perfil de la ciudad y el monte Hood.
 faq:
   - q: ¿Cuánto tiempo debo reservar para visitar Pittock Mansion?

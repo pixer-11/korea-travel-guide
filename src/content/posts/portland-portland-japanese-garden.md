@@ -1,44 +1,52 @@
 ---
-title: "Portland Japanese Garden: Travel Guide (4.6★)"
-description: "Portland Japanese Garden sits in Washington Park in Portland, Oregon, and it's well worth timing your visit around the crowds rather than avoiding the place altogether — this is a very popular attraction, not a hidden find. 4.6★ (8,314 reviews) — what visitors say, hours, and tips."
-country: "United States"
-region: "Portland"
-category: "hidden-gem"
-pubDate: "2026-08-24T08:17:02.481Z"
+title: 'Portland Japanese Garden: Travel Guide (4.6★)'
+description: >-
+  Portland Japanese Garden sits in Washington Park in Portland, Oregon, and it's
+  well worth timing your visit around the crowds rather than avoiding the place
+  altogether — this is a very popular attraction, not a hidden find. 4.6★ (8,607
+  reviews) — what visitors say, hours, and tips.
+country: United States
+region: Portland
+category: hidden-gem
+pubDate: '2026-08-24T08:17:02.481Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Japanese_Garden_-1.jpg/1920px-Japanese_Garden_-1.jpg"
-  credit: "Photo: Adonelson / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Japanese_Garden_-1.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Japanese_Garden_-1.jpg/1920px-Japanese_Garden_-1.jpg
+  credit: 'Photo: Adonelson / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Japanese_Garden_-1.jpg'
   focus:
     x: 40
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Portland_Japanese_Garden_October_2019_005.jpg/3840px-Portland_Japanese_Garden_October_2019_005.jpg"
-    credit: "Photo: King of Hearts / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Portland_Japanese_Garden_October_2019_005.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Portland_Japanese_Garden_October_2019_005.jpg/3840px-Portland_Japanese_Garden_October_2019_005.jpg
+    credit: 'Photo: King of Hearts / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Portland_Japanese_Garden_October_2019_005.jpg
 place:
-  id: "ChIJecbtFYoJlVQR7V4BJzbAjJ4"
-  name: "Portland Japanese Garden"
-  address: "611 SW Kingston Ave, Portland, OR 97205, USA"
+  id: ChIJecbtFYoJlVQR7V4BJzbAjJ4
+  name: Portland Japanese Garden
+  address: '611 SW Kingston Ave, Portland, OR 97205, USA'
   rating: 4.6
-  userRatingsTotal: 8314
-  googleMapsUrl: "https://maps.google.com/?cid=11424717693547273965&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 8607
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=11424717693547273965&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 45.5188634
   lng: -122.70803540000001
-  phone: "+1 503-223-1321"
+  phone: +1 503-223-1321
   openingHours:
-    - "Monday: 10:00 AM – 5:30 PM"
-    - "Tuesday: 12:00 – 5:30 PM"
-    - "Wednesday: 10:00 AM – 5:30 PM"
-    - "Thursday: 10:00 AM – 5:30 PM"
-    - "Friday: 10:00 AM – 5:30 PM"
-    - "Saturday: 10:00 AM – 5:30 PM"
-    - "Sunday: 10:00 AM – 5:30 PM"
+    - 'Monday: 10:00 AM – 5:30 PM'
+    - 'Tuesday: 12:00 – 5:30 PM'
+    - 'Wednesday: 10:00 AM – 5:30 PM'
+    - 'Thursday: 10:00 AM – 5:30 PM'
+    - 'Friday: 10:00 AM – 5:30 PM'
+    - 'Saturday: 10:00 AM – 5:30 PM'
+    - 'Sunday: 10:00 AM – 5:30 PM'
   busyness:
-    updated: 2026-08-24
+    updated: 2026-08-24T00:00:00.000Z
     weekendBusy:
       - 10
       - 11
@@ -47,24 +55,40 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_344a6a41627a4a423456375251566c4a6f5946746263654a496843"
+    venueId: ven_344a6a41627a4a423456375251566c4a6f5946746263654a496843
 tags:
-  - "portland"
-  - "hidden gem"
-quickAnswer: "Portland Japanese Garden sits in Washington Park in Portland, Oregon, and it's well worth timing your visit around the crowds rather than avoiding the place altogether — this is a very popular attraction, not a hidden find. Weekends run busy from 10am to 5pm, so aim for a weekday morning right at opening. Plan on 90 minutes to two hours to see all eight garden styles properly."
+  - portland
+  - hidden gem
+quickAnswer: >-
+  Portland Japanese Garden sits in Washington Park in Portland, Oregon, and it's
+  well worth timing your visit around the crowds rather than avoiding the place
+  altogether — this is a very popular attraction, not a hidden find. Weekends
+  run busy from 10am to 5pm, so aim for a weekday morning right at opening. Plan
+  on 90 minutes to two hours to see all eight garden styles properly.
 faq:
-  - q: "How much time should I budget for the Portland Japanese Garden?"
-    a: "Plan for 90 minutes to two hours to walk all eight garden styles at an unhurried pace, more if you stop at the café or Garden House viewpoint."
-  - q: "What's the best time to avoid crowds?"
-    a: "Weekday mornings right at opening (10am, or noon on Tuesdays) are calmest. Weekends from 10am to 5pm are consistently the busiest window."
-  - q: "How do I get there without a car?"
-    a: "Take MAX Light Rail's Red or Blue Line to Washington Park Station, then walk or catch the free shuttle up to the garden entrance."
-  - q: "Do I need to book tickets in advance?"
-    a: "It's strongly recommended, especially during cherry blossom season in spring and maple color in fall, when walk-up capacity can sell out."
-  - q: "Is parking available on-site?"
-    a: "Washington Park has paid parking that fills quickly on weekends; arriving before mid-morning or taking MAX are more reliable options."
+  - q: How much time should I budget for the Portland Japanese Garden?
+    a: >-
+      Plan for 90 minutes to two hours to walk all eight garden styles at an
+      unhurried pace, more if you stop at the café or Garden House viewpoint.
+  - q: What's the best time to avoid crowds?
+    a: >-
+      Weekday mornings right at opening (10am, or noon on Tuesdays) are calmest.
+      Weekends from 10am to 5pm are consistently the busiest window.
+  - q: How do I get there without a car?
+    a: >-
+      Take MAX Light Rail's Red or Blue Line to Washington Park Station, then
+      walk or catch the free shuttle up to the garden entrance.
+  - q: Do I need to book tickets in advance?
+    a: >-
+      It's strongly recommended, especially during cherry blossom season in
+      spring and maple color in fall, when walk-up capacity can sell out.
+  - q: Is parking available on-site?
+    a: >-
+      Washington Park has paid parking that fills quickly on weekends; arriving
+      before mid-morning or taking MAX are more reliable options.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-04'
 ---
 ## Why this garden, not just any garden
 

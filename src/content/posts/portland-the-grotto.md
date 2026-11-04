@@ -1,43 +1,50 @@
 ---
-title: "The Grotto: Portland Travel Guide (4.7★)"
-description: The Grotto, formally the National Sanctuary of Our Sorrowful Mother, sits off NE Skidmore Street in northeast Portland and is open daily from 9am to 8pm. 4.7★ (4,231 reviews) — what visitors say, hours, and tips.
+title: 'The Grotto: Portland Travel Guide (4.7★)'
+description: >-
+  The Grotto, formally the National Sanctuary of Our Sorrowful Mother, sits off
+  NE Skidmore Street in northeast Portland and is open daily from 9am to 8pm.
+  4.7★ (4,320 reviews) — what visitors say, hours, and tips.
 country: United States
 region: Portland
 category: attraction
-pubDate: "2026-09-10T07:39:54.743Z"
+pubDate: '2026-09-10T07:39:54.743Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/9/97/Saint_Peregrine_Tile_Mosaic_at_the_Grotto_in_Portland_Oregon.jpg
-  credit: "Photo: Always dreamin / Wikimedia Commons (CC BY-SA 4.0)"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/9/97/Saint_Peregrine_Tile_Mosaic_at_the_Grotto_in_Portland_Oregon.jpg
+  credit: 'Photo: Always dreamin / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Saint_Peregrine_Tile_Mosaic_at_the_Grotto_in_Portland_Oregon.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Saint_Peregrine_Tile_Mosaic_at_the_Grotto_in_Portland_Oregon.jpg
   via: act
   focus:
     x: 37
-    "y": 45
+    'y': 45
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/8/81/The_Grotto_June_2012.png
-    credit: "Photo: Steven Courtney Johnson / Wikimedia Commons (CC BY-SA 2.0)"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/8/81/The_Grotto_June_2012.png
+    credit: 'Photo: Steven Courtney Johnson / Wikimedia Commons (CC BY-SA 2.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:The_Grotto_June_2012.png
+    source: 'https://commons.wikimedia.org/wiki/File:The_Grotto_June_2012.png'
 place:
   id: ChIJHUeXJVGhlVQRqhSS3mJyFcI
   name: The Grotto
-  address: 8840 NE Skidmore St, Portland, OR 97220, USA
+  address: '8840 NE Skidmore St, Portland, OR 97220, USA'
   rating: 4.7
-  userRatingsTotal: 4231
-  googleMapsUrl: https://maps.google.com/?cid=13985209986835420330&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 4320
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13985209986835420330&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 45.553215099999996
   lng: -122.57353540000001
   phone: +1 503-254-7371
   openingHours:
-    - "Monday: 9:00 AM – 8:00 PM"
-    - "Tuesday: 9:00 AM – 8:00 PM"
-    - "Wednesday: 9:00 AM – 8:00 PM"
-    - "Thursday: 9:00 AM – 8:00 PM"
-    - "Friday: 9:00 AM – 8:00 PM"
-    - "Saturday: 9:00 AM – 8:00 PM"
-    - "Sunday: 9:00 AM – 8:00 PM"
+    - 'Monday: 9:00 AM – 8:00 PM'
+    - 'Tuesday: 9:00 AM – 8:00 PM'
+    - 'Wednesday: 9:00 AM – 8:00 PM'
+    - 'Thursday: 9:00 AM – 8:00 PM'
+    - 'Friday: 9:00 AM – 8:00 PM'
+    - 'Saturday: 9:00 AM – 8:00 PM'
+    - 'Sunday: 9:00 AM – 8:00 PM'
   busyness:
     updated: 2026-09-10T00:00:00.000Z
     weekdayQuiet:
@@ -58,20 +65,42 @@ place:
 tags:
   - portland
   - historic site
-quickAnswer: The Grotto, formally the National Sanctuary of Our Sorrowful Mother, sits off NE Skidmore Street in northeast Portland and is open daily from 9am to 8pm. It's calmest on weekdays and again from 7pm to 8pm on weekends, so aim for those windows rather than the 10am to 5pm weekend rush. Budget 90 minutes to two hours if you want to see both the cliffside gardens and the ground-level plaza with the Pieta cave.
+quickAnswer: >-
+  The Grotto, formally the National Sanctuary of Our Sorrowful Mother, sits off
+  NE Skidmore Street in northeast Portland and is open daily from 9am to 8pm.
+  It's calmest on weekdays and again from 7pm to 8pm on weekends, so aim for
+  those windows rather than the 10am to 5pm weekend rush. Budget 90 minutes to
+  two hours if you want to see both the cliffside gardens and the ground-level
+  plaza with the Pieta cave.
 faq:
   - q: What are The Grotto's hours?
-    a: It's open daily from 9am to 8pm, with no variation by day of the week. The Festival of Lights in December typically extends evening hours; confirm exact festival times before visiting that season.
+    a: >-
+      It's open daily from 9am to 8pm, with no variation by day of the week. The
+      Festival of Lights in December typically extends evening hours; confirm
+      exact festival times before visiting that season.
   - q: Is there an entrance fee?
-    a: The lower plaza and Pieta grotto are free to enter. There's a small fee for the elevator ride up to the cliffside gardens, payable at the visitor center.
+    a: >-
+      The lower plaza and Pieta grotto are free to enter. There's a small fee
+      for the elevator ride up to the cliffside gardens, payable at the visitor
+      center.
   - q: When is the quietest time to visit?
-    a: Weekdays are calm throughout the full 9am to 8pm window. On weekends, the last hour before closing, 7pm to 8pm, is quieter than the 10am to 5pm stretch, which is the busiest period.
+    a: >-
+      Weekdays are calm throughout the full 9am to 8pm window. On weekends, the
+      last hour before closing, 7pm to 8pm, is quieter than the 10am to 5pm
+      stretch, which is the busiest period.
   - q: How do I get to The Grotto without a car?
-    a: It's at 8840 NE Skidmore St in northeast Portland, near I-205. There's on-site parking for drivers; if using TriMet, check current bus routes toward NE 82nd Avenue and plan for a short walk.
+    a: >-
+      It's at 8840 NE Skidmore St in northeast Portland, near I-205. There's
+      on-site parking for drivers; if using TriMet, check current bus routes
+      toward NE 82nd Avenue and plan for a short walk.
   - q: How long should I plan for a visit?
-    a: Budget 90 minutes to two hours to see both the lower plaza with the Pieta and the upper gardens via elevator, longer if you want to sit in the meditation chapel or catch a service.
+    a: >-
+      Budget 90 minutes to two hours to see both the lower plaza with the Pieta
+      and the upper gardens via elevator, longer if you want to sit in the
+      meditation chapel or catch a service.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-04'
 ---
 The Grotto reads first as a cliff. A basalt wall rises more than 100 feet behind the main plaza, and it's only once you walk toward it that you notice the carved recess at its base, a rock-hewn cave sheltering a marble replica of Michelangelo's Pieta. That single sculpture, lit and half-shadowed inside the stone, is the reason most people first hear the name.
 

@@ -1,59 +1,89 @@
 ---
-title: "Portland Saturday Market: Travel Guide (4.5★)"
-description: "Portland Saturday Market sets up at 2 SW Naito Pkwy in Tom McCall Waterfront Park, beside the west end of the Burnside Bridge in Portland's Old Town, with craft and gift vendors, food carts and live entertainment. 4.5★ (4,921 reviews) — what visitors say, hours, and tips."
-country: "United States"
-region: "Portland"
-category: "hidden-gem"
-pubDate: "2026-09-24T08:06:43.253Z"
+title: 'Portland Saturday Market: Travel Guide (4.5★)'
+description: >-
+  Portland Saturday Market sets up at 2 SW Naito Pkwy in Tom McCall Waterfront
+  Park, beside the west end of the Burnside Bridge in Portland's Old Town, with
+  craft and gift vendors, food carts and live entertainment. 4.5★ (4,936
+  reviews) — what visitors say, hours, and tips.
+country: United States
+region: Portland
+category: hidden-gem
+pubDate: '2026-09-24T08:06:43.253Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/PortlandSaturdayMarket10.jpg/1920px-PortlandSaturdayMarket10.jpg"
-  credit: "Photo: Buzzlovestravel / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:PortlandSaturdayMarket10.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/PortlandSaturdayMarket10.jpg/1920px-PortlandSaturdayMarket10.jpg
+  credit: 'Photo: Buzzlovestravel / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:PortlandSaturdayMarket10.jpg'
   focus:
     x: 45
-    y: 30
+    'y': 30
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Portland_Saturday_Market-6.jpg/3840px-Portland_Saturday_Market-6.jpg"
-    credit: "Photo: Visitor7 / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Portland_Saturday_Market-6.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Portland_Saturday_Market-6.jpg/3840px-Portland_Saturday_Market-6.jpg
+    credit: 'Photo: Visitor7 / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Portland_Saturday_Market-6.jpg'
 place:
-  id: "ChIJDY7XQAcKlVQRFt8dVDZu-l0"
-  name: "Portland Saturday Market"
-  address: "2 SW Naito Pkwy, Portland, OR 97204, USA"
+  id: ChIJDY7XQAcKlVQRFt8dVDZu-l0
+  name: Portland Saturday Market
+  address: '2 SW Naito Pkwy, Portland, OR 97204, USA'
   rating: 4.5
-  userRatingsTotal: 4921
-  googleMapsUrl: "https://maps.google.com/?cid=6771846169323495190&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 4936
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6771846169323495190&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 45.5226614
   lng: -122.6697468
-  phone: "+1 503-222-6072"
+  phone: +1 503-222-6072
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: Closed"
-    - "Wednesday: Closed"
-    - "Thursday: Closed"
-    - "Friday: Closed"
-    - "Saturday: 10:00 AM – 5:00 PM"
-    - "Sunday: Closed"
+    - 'Monday: Closed'
+    - 'Tuesday: Closed'
+    - 'Wednesday: Closed'
+    - 'Thursday: Closed'
+    - 'Friday: Closed'
+    - 'Saturday: 10:00 AM – 5:00 PM'
+    - 'Sunday: Closed'
 tags:
-  - "portland"
-  - "local market"
-quickAnswer: "Portland Saturday Market sets up at 2 SW Naito Pkwy in Tom McCall Waterfront Park, beside the west end of the Burnside Bridge in Portland's Old Town, with craft and gift vendors, food carts and live entertainment. The current listed schedule is Saturday only, 10am to 5pm, so check the official site before planning a Sunday visit. Take the MAX to Skidmore Fountain station, allow two to three hours, and arrive near 10am if you want room to browse."
+  - portland
+  - local market
+quickAnswer: >-
+  Portland Saturday Market sets up at 2 SW Naito Pkwy in Tom McCall Waterfront
+  Park, beside the west end of the Burnside Bridge in Portland's Old Town, with
+  craft and gift vendors, food carts and live entertainment. The current listed
+  schedule is Saturday only, 10am to 5pm, so check the official site before
+  planning a Sunday visit. Take the MAX to Skidmore Fountain station, allow two
+  to three hours, and arrive near 10am if you want room to browse.
 faq:
-  - q: "What days is Portland Saturday Market open?"
-    a: "The current listed schedule is Saturday only, 10am to 5pm, and every other day is marked closed. It used to run Sundays as well and some listings still say so, so check the official site before planning a Sunday visit. It is also seasonal, so confirm dates in winter."
-  - q: "How do I get to Portland Saturday Market?"
-    a: "Take the MAX Blue or Red line to Skidmore Fountain station, a short walk from 2 SW Naito Pkwy in Tom McCall Waterfront Park. The market is at the west end of the Burnside Bridge. Driving works too, but waterfront parking fills up on Saturdays."
-  - q: "How long should I spend at the market?"
-    a: "Plan on two to three hours to walk every aisle, eat from the food carts and watch some of the entertainment. Add another hour or two if you want to see the Skidmore Fountain, Old Town and Lan Su Chinese Garden nearby."
-  - q: "Is everything sold at the market handmade?"
-    a: "The market's founding principle is that vendors sell work they make themselves, and stalls are juried. That's why you can ask the person at the booth how something was made."
-  - q: "Does the market run if it rains?"
-    a: "Yes. Vendors work under canopies and the market runs in typical Portland drizzle. Bring a hood or a compact umbrella."
+  - q: What days is Portland Saturday Market open?
+    a: >-
+      The current listed schedule is Saturday only, 10am to 5pm, and every other
+      day is marked closed. It used to run Sundays as well and some listings
+      still say so, so check the official site before planning a Sunday visit.
+      It is also seasonal, so confirm dates in winter.
+  - q: How do I get to Portland Saturday Market?
+    a: >-
+      Take the MAX Blue or Red line to Skidmore Fountain station, a short walk
+      from 2 SW Naito Pkwy in Tom McCall Waterfront Park. The market is at the
+      west end of the Burnside Bridge. Driving works too, but waterfront parking
+      fills up on Saturdays.
+  - q: How long should I spend at the market?
+    a: >-
+      Plan on two to three hours to walk every aisle, eat from the food carts
+      and watch some of the entertainment. Add another hour or two if you want
+      to see the Skidmore Fountain, Old Town and Lan Su Chinese Garden nearby.
+  - q: Is everything sold at the market handmade?
+    a: >-
+      The market's founding principle is that vendors sell work they make
+      themselves, and stalls are juried. That's why you can ask the person at
+      the booth how something was made.
+  - q: Does the market run if it rains?
+    a: >-
+      Yes. Vendors work under canopies and the market runs in typical Portland
+      drizzle. Bring a hood or a compact umbrella.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-04'
 ---
 
 ## White tents along the Willamette

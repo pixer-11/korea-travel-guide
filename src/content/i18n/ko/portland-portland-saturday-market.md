@@ -1,9 +1,9 @@
 ---
 lang: ko
 slug: portland-portland-saturday-market
-srcHash: 'ffec647feff7'
+srcHash: '0c0f7727be6e'
 title: 포틀랜드 새터데이 마켓 여행 가이드 (4.5★)
-description: 포틀랜드 새터데이 마켓은 포틀랜드 올드타운의 번사이드 다리(Burnside Bridge) 서쪽 끝, 톰 맥콜 워터프론트 파크(Tom McCall Waterfront Park) 내 2 SW Naito Pkwy에서 열리며, 공예품과 선물 판매점, 푸드 카트, 라이브 공연을 즐길 수 있습니다. 4.5★(리뷰 4,921건) — 방문객들의 후기와 운영 시간, 알아두면 좋은 팁을 소개합니다.
+description: 포틀랜드 새터데이 마켓은 포틀랜드 올드타운의 번사이드 다리(Burnside Bridge) 서쪽 끝, 톰 맥콜 워터프론트 파크(Tom McCall Waterfront Park) 내 2 SW Naito Pkwy에서 열리며, 공예품과 선물 판매점, 푸드 카트, 라이브 공연을 즐길 수 있습니다. 4.5★(리뷰 4,936건) — 방문객들의 후기와 운영 시간, 알아두면 좋은 팁을 소개합니다.
 quickAnswer: 포틀랜드 새터데이 마켓은 포틀랜드 올드타운의 번사이드 다리 서쪽 끝, 톰 맥콜 워터프론트 파크 내 2 SW Naito Pkwy에서 열리며, 공예품과 선물 판매점, 푸드 카트, 라이브 공연이 함께합니다. 현재 게시된 운영 일정은 토요일만, 오전 10시부터 오후 5시까지이므로 일요일 방문을 계획 중이라면 미리 공식 사이트에서 확인하는 것이 좋습니다. MAX를 타고 스키드모어 파운틴(Skidmore Fountain) 역에서 내리면 되고, 둘러보는 데 두세 시간 정도 여유를 두고, 여유롭게 구경하고 싶다면 오전 10시쯤 도착하는 것을 추천합니다.
 faq:
   - q: 포틀랜드 새터데이 마켓은 며칠 동안 운영되나요?
