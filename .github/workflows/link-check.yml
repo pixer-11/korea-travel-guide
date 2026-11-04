@@ -30,68 +30,24 @@ jobs:
         id: crawl
         run: |
           set -o pipefail
-          # The site renders internal links as ABSOLUTE urls
-          # (https://wanderatlasguides.com/…), so the old `--skip "^https?://"`
-          # — meant to drop third-party links — matched every internal link too
-          # and the crawl scanned NOTHING. It still reported "✅ 0 broken", every
-          # week, for as long as the check has existed. Serving dist and
-          # rewriting the production origin onto it is what makes those links
-          # resolve to the build being tested; the skip then keeps only what is
-          # genuinely off-site.
-          # `serve` takes --single as a BOOLEAN flag, so `--single=false` turned
-          # SPA mode ON, not off (2026-08-11). In SPA mode every path returns
-          # index.html with 200: no 404 can ever be observed, so "0 broken" was
-          # guaranteed regardless of the site, and the crawl stopped after the
-          # home page's 93 links because every URL it followed served that same
-          # page and added no new links. Omitting the flag entirely is the only
-          # way to get plain static serving.
-          npx --yes serve dist -p 8673 --no-clipboard > /tmp/serve.log 2>&1 &
-          for i in $(seq 1 30); do curl -sf -o /dev/null http://localhost:8673/ && break; sleep 1; done
-          curl -sf -o /dev/null http://localhost:8673/ || { echo "::error::static server never came up"; cat /tmp/serve.log; exit 1; }
-
-          # Canary: a server that answers 200 for a path that cannot exist makes
-          # the whole check meaningless — it can only ever report "clean". Prove
-          # the server can say 404 BEFORE trusting anything it says afterwards.
-          canary=$(curl -s -o /dev/null -w '%{http_code}' "http://localhost:8673/__linkcheck-canary-404__/")
-          if [ "$canary" != "404" ]; then
-            echo "::error::static server answered $canary (not 404) for a nonexistent path — it is serving a fallback page for everything, so this crawl cannot detect broken links"
-            exit 1
-          fi
-
-          # No --silent: it drops PASSING links from the csv as well as the
-          # console, which left `total` counting only failures. Between that and
-          # the skip pattern above, the report's "전체 N개 검사" was never the
-          # number of links actually examined — the one figure that would have
-          # revealed the crawl was doing nothing.
-          # Worker routes are NOT in dist — /go/klook, /api/subscribe and
-          # /preferences are served by worker/index.mjs in front of the static
-          # site, so a static server answers 404 for every one. /og/* is the
-          # same class since 2026-08-23: every post's share image is mirrored
-          # in R2 and served by the worker, so the 2026-08-26 check reported
-          # 1,204 "broken" og links while every one returned 200 in
-          # production. Skipped here; the live-sample step below keeps a
-          # genuinely missing mirror visible. Every guide
-          # links to /go/klook, so this crawl reported ~2,000 broken links a
-          # week: a number so large that a REAL breakage among them could never
-          # be noticed (found 2026-08-06). Skipping them is what makes the
-          # count mean something again.
-          # --concurrency: linkinator defaults to 100 parallel requests, which
-          # `serve` cannot answer on a site this size — the connections that
-          # time out are reported as BROKEN with status 0. Measured locally on
-          # the same dist: 40,922 status-0 "breakages" at the default, 52 at 12.
-          # Every one was a page that returns 200 when asked on its own.
-          npx --yes linkinator http://localhost:8673 --recurse --concurrency 12 \
-            --url-rewrite-search "https://wanderatlasguides.com" \
-            --url-rewrite-replace "http://localhost:8673" \
-            --skip "^(?!http://localhost:8673)" \
-            --skip "^http://localhost:8673/(go|api|preferences)(/|\?|$)" \
-            --skip "^http://localhost:8673/og/" \
-            --format csv > /tmp/links.csv || true
-          # `|| true` keeps a crawl that FOUND breakages from failing the step,
-          # but it equally hides a crawler that never started. An empty file is
-          # the latter, every time.
+          # Until 2026-11-04 this served dist with `serve` and crawled it with
+          # linkinator over HTTP at 12-way concurrency. The site outgrew it:
+          # 3 h → 3 h 41 m → 4 h 42 m, and the 11-04 run hit GitHub's 6-hour job
+          # limit mid-crawl and reported nothing. `serve` said 200 exactly when
+          # the file existed, so check-dist-links.mjs asks dist directly — same
+          # verdict, every page in dist instead of only those reachable from the
+          # home page, about three minutes. What the crawl learned is kept there:
+          # internal links are absolute (https://wanderatlasguides.com/…) and
+          # are resolved against dist; worker routes (/go, /api, /preferences,
+          # /og/) are not in dist and are skipped — /og/ keeps its production
+          # sample below; the canary (a missing path must read as missing) runs
+          # before any result is written; an empty dist fails instead of
+          # reporting clean. Passing urls stay in the csv so `total` is the
+          # number actually examined.
+          node scripts/check-dist-links.mjs dist > /tmp/links.csv
+          # A checker that died writes nothing; emptiness is never "no breakages".
           if [ ! -s /tmp/links.csv ]; then
-            echo "::error::linkinator produced no output — the crawl did not run"
+            echo "::error::check-dist-links produced no output — the check did not run"
             exit 1
           fi
           # CSV: url,status,state,parent — count real breakages.
