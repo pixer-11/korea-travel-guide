@@ -1136,6 +1136,12 @@
   "reasonKo": "역사적 빌라, 지중해식 건축, 해안 산맥 배경",
   "at": "2026-08-05T14:59:11.648Z"
  },
+ "amritsar-gobindgarh-fort\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Gobindgarh_fort%2C_Amritsar%2C_Punjab%2C_India.jpg/1920px-Gobindgarh_fort%2C_Amritsar%2C_Punjab%2C_India.jpg": {
+  "slug": "amritsar-gobindgarh-fort",
+  "verdict": "MATCH",
+  "reason": "publish gate: Fort exterior walls and bastion, representative hero shot",
+  "at": "2026-11-04T07:42:57.303Z"
+ },
  "amritsar-jallianwala-bagh\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Jallianwala_Bagh%2C_Amritsar_01.jpg/1920px-Jallianwala_Bagh%2C_Amritsar_01.jpg": {
   "slug": "amritsar-jallianwala-bagh",
   "verdict": "MATCH",
@@ -2209,6 +2215,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Exterior of The Whyte building in Banff setting",
   "at": "2026-10-23T08:11:54.134Z"
+ },
+ "banff-town-of-banff\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Town_of_Banff_-_panoramio.jpg/3840px-Town_of_Banff_-_panoramio.jpg": {
+  "slug": "banff-town-of-banff",
+  "verdict": "MATCH",
+  "reason": "publish gate: Aerial view of Banff townsite, representative hero shot",
+  "at": "2026-11-04T07:42:57.040Z"
  },
  "bangkok-808-festival-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BITEC.JPG/1920px-BITEC.JPG": {
   "slug": "bangkok-808-festival-2026",
@@ -7498,6 +7510,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Victorian homestead exterior, representative of Riccarton House",
   "at": "2026-10-23T08:13:16.727Z"
+ },
+ "christchurch-riverside-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Riverside2024_from_Lichfield_corner.jpg/1920px-Riverside2024_from_Lichfield_corner.jpg": {
+  "slug": "christchurch-riverside-market",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior view of Riverside Market building with signage",
+  "at": "2026-11-04T07:42:57.152Z"
  },
  "christchurch-robbie-williams-britpop-world-tour-christchurch\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Robbie_Williams_-_6-29-2019_-_Live_In_Las_Vegas_-_13.jpg/3840px-Robbie_Williams_-_6-29-2019_-_Live_In_Las_Vegas_-_13.jpg": {
   "slug": "christchurch-robbie-williams-britpop-world-tour-christchurch",
@@ -22041,6 +22059,12 @@
   "reason": "patrol re-check: Facade of Naples Archaeological Museum, matches venue",
   "at": "2026-08-16T20:18:59.714Z"
  },
+ "naples-piazza-del-plebiscito\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/P.Plebiscito_Napoli.jpg/1920px-P.Plebiscito_Napoli.jpg": {
+  "slug": "naples-piazza-del-plebiscito",
+  "verdict": "MATCH",
+  "reason": "publish gate: Representative view of Piazza del Plebiscito with colonnade and church",
+  "at": "2026-11-04T07:42:57.242Z"
+ },
  "nara-chami-specialty-coffee-roaster-nara-japan\u0001https://fastly.4sqi.net/img/general/original/445641_WpjJVSFA2RBwHl1ck--DlvkzJKwMBQHgNtXJXjv9ols.jpg": {
   "slug": "nara-chami-specialty-coffee-roaster-nara-japan",
   "verdict": "MATCH",
@@ -24236,6 +24260,12 @@
   "reasonKo": "박물관 입구, 고전 석조 사자상, 파묵칼레",
   "at": "2026-08-03T14:34:42.421Z"
  },
+ "pamukkale-necropolis-of-hierapolis\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Necropolis_of_Hierapolis_01.jpg/3840px-Necropolis_of_Hierapolis_01.jpg": {
+  "slug": "pamukkale-necropolis-of-hierapolis",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows ancient tomb structures representative of Hierapolis necropolis",
+  "at": "2026-11-04T07:42:57.181Z"
+ },
  "paracas-candelabro-de-paracas\u0001https://upload.wikimedia.org/wikipedia/commons/f/f9/Candelabro_de_Paracas_03.JPG": {
   "slug": "paracas-candelabro-de-paracas",
   "verdict": "MATCH",
@@ -26079,6 +26109,12 @@
   "reason": "Abbey with lavender fields, correct architecture",
   "reasonKo": "라벤더 밭과 수도원, 정확한 건축양식",
   "at": "2026-08-03T14:35:50.422Z"
+ },
+ "provence-chateau-des-baux-de-provence\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Chateau_des_Baux_de_Provence.JPG/3840px-Chateau_des_Baux_de_Provence.JPG": {
+  "slug": "provence-chateau-des-baux-de-provence",
+  "verdict": "MATCH",
+  "reason": "publish gate: Representative view of castle ruins on rocky plateau",
+  "at": "2026-11-04T07:42:57.120Z"
  },
  "provence-lavender-fields\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/France_Provence_lavender_fields.jpg/1920px-France_Provence_lavender_fields.jpg": {
   "slug": "provence-lavender-fields",
@@ -30956,6 +30992,12 @@
   "reason": "event-mode back-audit: Crowded festive Alsatian street with half-timbered houses and market stalls",
   "at": "2026-08-07T13:05:00.881Z"
  },
+ "strasbourg-grande-ile-de-strasbourg\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rue_d%27Or%2C_Strasbourg_%28vers_Grande_%C3%8Ele%29.jpg/3840px-Rue_d%27Or%2C_Strasbourg_%28vers_Grande_%C3%8Ele%29.jpg": {
+  "slug": "strasbourg-grande-ile-de-strasbourg",
+  "verdict": "MATCH",
+  "reason": "publish gate: Street view of Strasbourg's Grande-Île with cathedral visible",
+  "at": "2026-11-04T07:42:57.274Z"
+ },
  "strasbourg-musee-de-l-uvre-notre-dame\u0001https://fastly.4sqi.net/img/general/original/66963966_YgwacUMKC3lN8VU5STt4ytD-KwazEbXteXZ_jM3LVvw.jpg": {
   "slug": "strasbourg-musee-de-l-uvre-notre-dame",
   "verdict": "MATCH",
@@ -34369,6 +34411,12 @@
   "reason": "publish gate: Shows Taikhar Rock landmark with visitors, representative view",
   "at": "2026-10-11T07:44:49.552Z"
  },
+ "tsim-sha-tsui-former-kowloon-canton-railway-clock-tower\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/HK_TST_Clock_Tower_interior_Salisbury_Road_night_Mar-2013.JPG/1920px-HK_TST_Clock_Tower_interior_Salisbury_Road_night_Mar-2013.JPG": {
+  "slug": "tsim-sha-tsui-former-kowloon-canton-railway-clock-tower",
+  "verdict": "MATCH",
+  "reason": "publish gate: Interior bell and staircase of clock tower building",
+  "at": "2026-11-04T07:42:57.212Z"
+ },
  "tsim-sha-tsui-hong-kong-palace-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Hong_Kong_Palace_Museum_2022.jpg/1920px-Hong_Kong_Palace_Museum_2022.jpg": {
   "slug": "tsim-sha-tsui-hong-kong-palace-museum",
   "verdict": "MATCH",
@@ -34617,6 +34665,12 @@
   "verdict": "MATCH",
   "reason": "patrol re-check: Iconic ridge walkway path through green hills, matches venue",
   "at": "2026-08-16T20:35:54.128Z"
+ },
+ "ubud-puri-saren-agung-ubud-puri-saren-ubud\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Puri_Saren_Agung_%2833172644978%29.jpg/3840px-Puri_Saren_Agung_%2833172644978%29.jpg": {
+  "slug": "ubud-puri-saren-agung-ubud-puri-saren-ubud",
+  "verdict": "MATCH",
+  "reason": "publish gate: Balinese temple gate, matches Puri Saren Agung Ubud entrance",
+  "at": "2026-11-04T07:42:57.078Z"
  },
  "ubud-sacred-monkey-forest-sanctuary\u0001https://fastly.4sqi.net/img/general/original/59770014_J1uVgnvAl8OhhqElOgYUSG1y-9R17WfHWbq5XmLBwZE.jpg": {
   "slug": "ubud-sacred-monkey-forest-sanctuary",
@@ -35197,6 +35251,12 @@
   "verdict": "MATCH",
   "reason": "event publish gate: Group of tripleS performers on stage at event",
   "at": "2026-10-25T23:04:29.660Z"
+ },
+ "vancouver-vandusen-botanical-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/VanDusen_Botanical_Garden_1.jpg/1920px-VanDusen_Botanical_Garden_1.jpg": {
+  "slug": "vancouver-vandusen-botanical-garden",
+  "verdict": "MATCH",
+  "reason": "publish gate: Garden pond with lush greenery, fits botanical garden setting",
+  "at": "2026-11-04T07:42:56.983Z"
  },
  "varanasi-chet-singh-ghat-varanasi\u0001https://upload.wikimedia.org/wikipedia/commons/b/b0/Varanasi_52_-_Chet_Singh_ghat_%2837661099921%29.jpg": {
   "slug": "varanasi-chet-singh-ghat-varanasi",

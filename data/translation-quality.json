@@ -24199,11 +24199,11 @@
   "at": "2026-08-16T11:05:34.810Z"
  },
  "zh/guangzhou-guangzhou-restaurant": {
-  "hash": "7e94214a141c",
+  "hash": "dbf5f0b6b770",
   "score": 1,
   "registerBreak": false,
-  "worst": "广州酒家不是那种你偶然路过就能发现的小馆子——它是这座城市几代人吃惯了的粤菜地标",
-  "at": "2026-08-15T10:45:57.616Z"
+  "worst": "餐厅大堂透着一种历经数十年家庭聚会沉淀下来的从容气派：圆桌、开餐前先上茶的习惯、显然身经百战的服务员。",
+  "at": "2026-11-04T07:47:41.340Z"
  },
  "zh/guangzhou-huacheng-square": {
   "hash": "954d92d90490",
@@ -25606,11 +25606,11 @@
   "at": "2026-08-15T09:19:56.602Z"
  },
  "zh/los-angeles-crossroads-kitchen": {
-  "hash": "72c4a3b04b76",
+  "hash": "9d87ace30dc7",
   "score": 1,
   "registerBreak": false,
-  "worst": "有没有预订,决定了你是能直接入座,还是要在吧台长时间等位。",
-  "at": "2026-08-15T04:01:29.050Z"
+  "worst": "后两天营业到晚上10点，本身就说明客人更多。",
+  "at": "2026-11-04T07:50:24.652Z"
  },
  "zh/los-angeles-eggslut": {
   "hash": "0babaa278008",
@@ -26355,11 +26355,11 @@
   "at": "2026-08-15T04:05:52.780Z"
  },
  "zh/nashville-country-music-hall-of-fame-and-museum": {
-  "hash": "8d607b7fa6d1",
+  "hash": "e22fea9bba2d",
   "score": 1,
   "registerBreak": false,
-  "worst": "这里是完整讲述乡村音乐历史的地方,而且是在一栋建筑里说清楚。",
-  "at": "2026-08-15T10:51:20.089Z"
+  "worst": "如今纳什维尔基本已经是\"一碰即付\"的城市",
+  "at": "2026-11-04T07:50:25.522Z"
  },
  "zh/new-delhi-bwf-world-championships-2026": {
   "hash": "be2f93811b58",
@@ -26404,7 +26404,7 @@
   "at": "2026-08-15T07:00:01.389Z"
  },
  "zh/new-orleans-cafe-du-monde": {
-  "hash": "6d8da33ea5ea",
+  "hash": "e25281cce79b",
   "score": 1,
   "registerBreak": false,
   "worst": "最聪明的做法是把排队等待也当作体验的一部分,而不是想办法避开它",
@@ -26768,7 +26768,7 @@
   "at": "2026-08-15T04:08:36.514Z"
  },
  "zh/orchard-road-din-tai-fung": {
-  "hash": "a7591a2ba432",
+  "hash": "cccf506ecc95",
   "score": 1,
   "registerBreak": false,
   "worst": "速度快得仿佛每分钟都在成倍增加",
@@ -39205,5 +39205,68 @@
   "registerBreak": false,
   "worst": "今回の公演でフロアがどう区分けされていたかは、主催者の座席図に示されていました。",
   "at": "2026-11-03T15:43:42.632Z"
+ },
+ "es/london-can-t-be-blue-european-tour": {
+  "hash": "9eaf0a542252",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "El grupo de K-pop can't be blue tenía programada la llegada de su gira europea a Londres",
+  "at": "2026-11-04T07:47:33.209Z"
+ },
+ "ja/seoul-jtbc-seoul-marathon": {
+  "hash": "e93997014156",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "JTBCソウルマラソンの日程は**2026年11月1日**でした。韓国でも最大級の都市型マラソンのひとつです。",
+  "at": "2026-11-04T07:47:35.183Z"
+ },
+ "es/amritsar-gobindgarh-fort": {
+  "hash": "d34814199c54",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Procure no llegar entre la 1pm y las 2pm ni en ningún momento entre las 5pm y las 10pm",
+  "at": "2026-11-04T07:50:29.470Z"
+ },
+ "es/banff-town-of-banff": {
+  "hash": "12afa1275a67",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Al viajero curioso le interesará saber que este edificio es la materialización de ese peculiar acuerdo.",
+  "at": "2026-11-04T07:48:02.171Z"
+ },
+ "ja/amritsar-gobindgarh-fort": {
+  "hash": "ecbed0f5751f",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "見た目の威容よりも、砲撃に耐えることを第一に設計された造りです。",
+  "at": "2026-11-04T07:48:03.666Z"
+ },
+ "ja/banff-town-of-banff": {
+  "hash": "ab3cda871c5f",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "この建物はそうした仕組みを目に見える形で感じられる場所といえます。",
+  "at": "2026-11-04T07:48:07.811Z"
+ },
+ "ko/amritsar-gobindgarh-fort": {
+  "hash": "dbd75149fa82",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "보는 이를 압도하려는 성벽이 아니라 포격을 견디도록 설계된 성벽입니다.",
+  "at": "2026-11-04T07:48:10.780Z"
+ },
+ "ko/banff-town-of-banff": {
+  "hash": "048aa0bc4507",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "호기심 많은 여행자에게 이 건물은 그런 독특한 구조를 눈으로 확인할 수 있는 장소입니다.",
+  "at": "2026-11-04T07:48:12.132Z"
+ },
+ "ko/christchurch-riverside-market": {
+  "hash": "976ee453a1df",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이프트포스(EFTPOS) 직불 결제는 어디서나 됩니다.",
+  "at": "2026-11-04T07:48:13.463Z"
  }
 }

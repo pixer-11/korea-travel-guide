@@ -1,4 +1,3 @@
-SKIP new city "Macau" — weekly new-city cap (2/7d) reached
 SKIP new city "Macau Peninsula" — weekly new-city cap (2/7d) reached
 SKIP new city "San Francisco" — weekly new-city cap (2/7d) reached
 SKIP new city "Seattle" — weekly new-city cap (2/7d) reached
@@ -40,9 +39,10 @@ Dubai, United Arab Emirates — 13 qualifying post(s), variants: 3
 Ho Chi Minh City, Vietnam — 14 qualifying post(s), variants: 3
   = Ho Chi Minh City 3d — unchanged, skipping
 
-Hong Kong, Hong Kong — 89 qualifying post(s), variants: 3, 5
+Hong Kong, Hong Kong — 90 qualifying post(s), variants: 3, 5
   = Hong Kong 3d — unchanged, skipping
-  = Hong Kong 5d — unchanged, skipping
+  ~ Hong Kong 5d — structure changed by 3 slug(s), regenerating prose
+  ✅ Hong Kong 5d — updated
 
 Istanbul, Turkey — 12 qualifying post(s), variants: 3
   = Istanbul 3d — unchanged, skipping
@@ -52,6 +52,16 @@ Los Angeles, United States — 16 qualifying post(s), variants: 3
 
 Lyon, France — 15 qualifying post(s), variants: 3
   · Lyon 3d — skipped: day 2 totals only 219 min (floor 240) and no further sight can be added to it
+
+Macau, Macau — 52 qualifying post(s), variants: 3, 5
+  ⚠ Macau 3d — guard found 1 hours/price + 5 rain-leak issue(s) on first pass; retrying once
+  ⚠ Macau 3d — dropping rain-swap for day 2 (venue name leaked into written prose after retry)
+NEW_ITINERARY: Macau 3d
+  ⚠ Macau 5d — guard found 2 hours/price + 6 rain-leak issue(s) on first pass; retrying once
+   ↳ why keyed "guia-hill-municipal-park" remapped to its unique stop "guia-guia-hill-municipal-park"
+   ↳ why keyed "guia-fortress-and-lighthouse" remapped to its unique stop "guia-guia-fortress-and-lighthouse"
+  ⚠ Macau 5d — dropping rain-swap for day 2 (venue name leaked into written prose after retry)
+NEW_ITINERARY: Macau 5d
 
 New Orleans, United States — 17 qualifying post(s), variants: 3
   = New Orleans 3d — unchanged, skipping
@@ -69,7 +79,7 @@ Singapore, Singapore — 79 qualifying post(s), variants: 3, 5
   = Singapore 3d — unchanged, skipping
   = Singapore 5d — unchanged, skipping
 
-Done. Nothing changed.
+Done.
 
 🗺️  Un-park: 0 republished · 0 still held
 UNPARK_SUMMARY freed=0 held=0

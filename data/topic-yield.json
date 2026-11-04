@@ -34,16 +34,16 @@
    "hits": 99
   },
   "noodles": {
-   "attempts": 74,
+   "attempts": 75,
    "hits": 3
   },
   "old quarter": {
-   "attempts": 178,
-   "hits": 77
+   "attempts": 191,
+   "hits": 85
   },
   "local market": {
-   "attempts": 117,
-   "hits": 41
+   "attempts": 119,
+   "hits": 42
   },
   "bookshop": {
    "attempts": 48,
@@ -54,11 +54,11 @@
    "hits": 4
   },
   "hidden gem": {
-   "attempts": 195,
-   "hits": 104
+   "attempts": 196,
+   "hits": 105
   },
   "breakfast": {
-   "attempts": 69,
+   "attempts": 70,
    "hits": 5
   },
   "trendy cafe": {
@@ -1222,5 +1222,5 @@
    "hits": 1
   }
  },
- "updated": "2026-11-03T15:23:32.536Z"
+ "updated": "2026-11-04T07:42:57.329Z"
 }
