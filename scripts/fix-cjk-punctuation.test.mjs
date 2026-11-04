@@ -80,3 +80,17 @@ test('running twice changes nothing the second time', () => {
 test('already-correct full-width prose is reported as zero changes', () => {
   assert.equal(fixPunctuation('评分很高，值得一去；推荐').count, 0);
 });
+
+// String.prototype.replace reads "$$" in a STRING replacement as "$". The 08-16
+// pass swapped zh/da-nang-an-thoi's frontmatter back in that way and its price
+// level 「大约 $$」 became 「大约 $」 (found 11-04). Every tool that swaps edited
+// frontmatter back into a file passes a function instead.
+test('edited frontmatter goes back in through a function, never a "$"-reading string', async () => {
+  const { readFileSync } = await import('node:fs');
+  for (const f of ['fix-cjk-punctuation.mjs', 'fix-cjk-clock.mjs', 'resync-prose-ratings.mjs', 'resync-rating-badges.mjs']) {
+    const src = readFileSync(new URL(`./${f}`, import.meta.url), 'utf8');
+    const swaps = [...src.matchAll(/\.head\.replace\(([^,]+),\s*(.+)$/gm)];
+    assert.ok(swaps.length, `${f}: found the frontmatter swap`);
+    for (const [, , rep] of swaps) assert.match(rep.trim(), /^\(\)\s*=>/, `${f}: ${rep.trim()}`);
+  }
+});

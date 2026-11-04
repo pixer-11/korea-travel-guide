@@ -125,7 +125,9 @@ function fixFile(path) {
   const total = front.count + body.count;
   if (!total || !APPLY) return total;
 
-  const next = parts.head.replace(parts.front, front.text) + body.text;
+  // A function, not a string: a string replacement reads "$$" as "$", and the
+  // 08-16 pass wrote zh/da-nang-an-thoi's price level 「大约 $$」 as 「大约 $」 (found 11-04).
+  const next = parts.head.replace(parts.front, () => front.text) + body.text;
 
   // Read back before committing to disk: the frontmatter must still parse and
   // still carry the same keys and the same srcHash. A translation whose

@@ -94,7 +94,7 @@ for (const file of (await readdir(POSTS)).filter((f) => f.endsWith('.md'))) {
     updated++;
 
     // The English file first — the translations' hash is computed from it.
-    const enNext = enParts.head.replace(enParts.front, resyncBadge(enParts.front, rating, total) ?? enParts.front) + enParts.body;
+    const enNext = enParts.head.replace(enParts.front, () => resyncBadge(enParts.front, rating, total) ?? enParts.front) + enParts.body;
     if (!onlyDescriptionMoved(enRaw, enNext)) {
       console.error(`  ⚠ ${file}: frontmatter changed shape — skipped`);
       refused++;
@@ -126,7 +126,7 @@ for (const file of (await readdir(POSTS)).filter((f) => f.endsWith('.md'))) {
     // stale for another reason must stay stale, or the re-stamp would certify
     // prose nobody re-translated (5 such in the 30 days to 2026-09-28).
     const wasCurrent = storedHashIn(tRaw) === srcHashOfPostFile(enRaw);
-    const newHash = badgeOnly && wasCurrent ? srcHashOfPostFile(enParts.head.replace(enParts.front, resyncBadge(enParts.front, rating, total) ?? enParts.front) + enParts.body) : null;
+    const newHash = badgeOnly && wasCurrent ? srcHashOfPostFile(enParts.head.replace(enParts.front, () => resyncBadge(enParts.front, rating, total) ?? enParts.front) + enParts.body) : null;
     let frontAfter = resyncBadge(tParts.front, rating, total);
     if (!frontAfter) {
       // Nothing to rewrite here — but the English badge moved, so without a
@@ -147,7 +147,8 @@ for (const file of (await readdir(POSTS)).filter((f) => f.endsWith('.md'))) {
       trStale++; // prose moved too — leave the old hash, let the translator run
     }
 
-    const tNext = tParts.head.replace(tParts.front, front) + tParts.body;
+    // A function: a string replacement reads "$$" (a price level) as "$" (fix-cjk-punctuation, 11-04).
+    const tNext = tParts.head.replace(tParts.front, () => front) + tParts.body;
     // Same read-back as the English side, plus srcHash: the only frontmatter
     // this tool may move is description, and srcHash only when it re-stamped.
     if (!onlyDescriptionMoved(tRaw, tNext, newHash ? ['srcHash'] : [])) {

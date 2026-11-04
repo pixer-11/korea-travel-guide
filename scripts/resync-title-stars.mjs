@@ -61,7 +61,7 @@ for (const file of readdirSync(POSTS).filter((f) => f.endsWith('.md'))) {
     if (!hit || hit[1] === want) continue;
     const fixed = titleLine[0].replace(STAR_IN_TITLE, `${want}$2`);
     changes.push({ target, slug, from: hit[1], to: want, before: titleLine[0], after: fixed });
-    if (APPLY) writeFileSync(target, text.replace(titleLine[0], fixed), 'utf8');
+    if (APPLY) writeFileSync(target, text.replace(titleLine[0], () => fixed), 'utf8');
   }
 }
 

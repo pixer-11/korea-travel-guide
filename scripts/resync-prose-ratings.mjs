@@ -138,7 +138,8 @@ for (const file of readdirSync(POSTS).filter((f) => f.endsWith('.md'))) {
       trStale++;
     }
 
-    const out = tParts.head.replace(tParts.front, front) + tNext.text;
+    // A function: a string replacement reads "$$" (a price level) as "$" (fix-cjk-punctuation, 11-04).
+    const out = tParts.head.replace(tParts.front, () => front) + tNext.text;
     const before = matter(tRaw), after = matter(out);
     const keysSame = Object.keys(before.data).sort().join(',') === Object.keys(after.data).sort().join(',');
     const onlyHash = String(before.data.title) === String(after.data.title)
