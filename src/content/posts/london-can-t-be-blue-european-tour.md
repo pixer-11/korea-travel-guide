@@ -1,6 +1,6 @@
 ---
 title: 'can''t be blue European Tour: Dates, Tickets & Venue (London)'
-description: The can't be blue European Tour plays London at Islington Assembly Hall on Upper Street, Islington, on 2–3 November 2026, with Manchester also on the tour.
+description: The can't be blue European Tour was set to play London's Islington Assembly Hall on Upper Street on 2–3 November 2026, with Manchester also on the tour.
 country: United Kingdom
 region: London
 category: event
@@ -14,25 +14,25 @@ eventPerformer:
   kind: group
 eventFactsAsked: true
 heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/5/5a/British_Museum_Great_Court%2C_London%2C_UK_-_Diliff.jpg'
+  url: https://upload.wikimedia.org/wikipedia/commons/5/5a/British_Museum_Great_Court%2C_London%2C_UK_-_Diliff.jpg
   credit: 'Photo: Diliff / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:British_Museum_Great_Court,_London,_UK_-_Diliff.jpg'
+  source: https://commons.wikimedia.org/wiki/File:British_Museum_Great_Court,_London,_UK_-_Diliff.jpg
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery: []
 tags:
   - london
   - event
-quickAnswer: The can't be blue European Tour plays London at Islington Assembly Hall on Upper Street, Islington, on 2–3 November 2026, with Manchester also on the tour. The hall is a short walk from Highbury & Islington station (Victoria line and Overground) and Angel station (Northern line).
+quickAnswer: The can't be blue European Tour was set to play London at Islington Assembly Hall on Upper Street, Islington, on 2–3 November 2026, with Manchester also on the tour. The hall is a short walk from Highbury & Islington station (Victoria line and Overground) and Angel station (Northern line).
 faq:
   - q: Where and when does can't be blue play in London?
-    a: The London shows take place at Islington Assembly Hall on Upper Street, Islington, on 2–3 November 2026.
+    a: The London shows were set for Islington Assembly Hall on Upper Street, Islington, on 2–3 November 2026.
   - q: What is the nearest station to Islington Assembly Hall?
     a: Highbury & Islington (Victoria line and London Overground) is about ten minutes' walk away. Angel (Northern line) is about fifteen minutes' walk down Upper Street.
   - q: Is there another UK date on the tour?
-    a: Yes. Manchester is also on can't be blue's European tour, alongside the two London nights.
+    a: Yes. Manchester was also on can't be blue's European tour, alongside the two London nights.
   - q: What is the venue like?
     a: It is a 1930s Art Deco hall attached to Islington Town Hall. It is small and intimate, so the stage is close from most of the floor.
   - q: What else is nearby?
@@ -40,12 +40,11 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Two nights on Upper Street
 
-K-pop act can't be blue brings its European tour to London on 2–3 November 2026. The London shows take place at Islington Assembly Hall, and Manchester is the tour's other UK stop. Two consecutive nights means fans travelling in from elsewhere in Europe often treat it as a short trip and stay for both.
+K-pop act can't be blue's European tour was set to reach London on 2–3 November 2026. The London shows were booked at Islington Assembly Hall, and Manchester was the tour's other UK stop. Back-to-back nights like these often draw fans from elsewhere in Europe, who make a short trip of it and stay for both.
 
-The venue is a 1930s Art Deco hall built onto the side of Islington Town Hall. It is a room for a few hundred people, not an arena, so the stage stays close from almost anywhere on the floor. That scale is a large part of why a tour stop here sells to dedicated fans.
+The venue is a 1930s Art Deco hall built onto the side of Islington Town Hall. It is a room for a few hundred people, not an arena, so the stage stays close from almost anywhere on the floor. That scale is a large part of why tour stops here appeal to dedicated fans.
 
 ## Reaching Islington Assembly Hall
 
@@ -55,11 +54,11 @@ The hall sits on Upper Street in Islington, north London, a long stretch of rest
 - **Angel**: Northern line (Bank branch), about fifteen minutes' walk north up Upper Street.
 - **Buses**: several routes run along Upper Street and stop near the Town Hall.
 
-London's Tube and buses take contactless bank cards and phone payments at the barriers, so most visitors never buy a paper ticket. After the show, crowds split between the two stations. The walk to Highbury & Islington is usually the easier one for anyone heading north or onto the Overground.
+London's Tube and buses take contactless bank cards and phone payments at the barriers, so most visitors never buy a paper ticket. After shows here, crowds usually split between the two stations. The walk to Highbury & Islington is usually the easier one for anyone heading north or onto the Overground.
 
 ## Concert-night etiquette at a K-pop show
 
-A K-pop gig in a small London hall follows its own customs, and regulars come prepared.
+A K-pop gig in a small London hall follows its own customs, and regulars tend to come prepared.
 
 - **Lightsticks and fan chants**: fans usually bring the act's official lightstick if there is one. Many learn the fan chants beforehand, because shouted call-and-response is part of the show.
 - **Merch queue**: merchandise lines at K-pop shows often form well before doors and can outlast the support slot. Early arrivals tend to get first pick of sizes.
@@ -67,11 +66,11 @@ A K-pop gig in a small London hall follows its own customs, and regulars come pr
 - **Phones**: filming is common at K-pop concerts, but people on a packed standing floor appreciate phones held at chest height rather than overhead.
 - **Freebies**: fan-made banners, slogans and photocards are often handed out in the queue outside. Swapping them is part of the evening.
 
-Upper Street is busy on a show night, and fans usually line up along the pavement in front of the Town Hall side of the building.
+Upper Street is busy on show nights, and fans usually line up along the pavement in front of the Town Hall side of the building.
 
 ## Before and after on Upper Street
 
-The neighbourhood makes a long evening easy. Upper Street has one of the densest runs of places to eat in north London, from quick noodle bars to sit-down restaurants, and most are within five minutes of the hall. Fans who come for both nights often base themselves in Islington or near King's Cross, which is one Tube stop from Highbury & Islington on the Victoria line.
+The neighbourhood makes a long evening easy. Upper Street has one of the densest runs of places to eat in north London, from quick noodle bars to sit-down restaurants, and most are within five minutes of the hall. Fans who come for two nights here often base themselves in Islington or near King's Cross, which is one Tube stop from Highbury & Islington on the Victoria line.
 
 Daytime attractions nearby:
 
@@ -80,4 +79,4 @@ Daytime attractions nearby:
 - **Almeida Theatre**: on Upper Street itself.
 - **Highbury Fields**: a green space at the northern end of the street.
 
-Dates, venue details and ticket links for the London and Manchester shows are published through the tour's official channels and the venue's own listings.
+The tour's announced UK dates were the two London nights at Islington Assembly Hall and a show in Manchester.

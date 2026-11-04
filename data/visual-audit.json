@@ -501,6 +501,30 @@
   "reason": "event-mode back-audit: Live concert stage photo with band performing, matches event",
   "at": "2026-08-07T13:02:28.959Z"
  },
+ "abu-dhabi-third-street\u0001https://fastly.4sqi.net/img/general/original/1375675625_hpJYEFCcZmn4PVVMZQicMb--u8HaXR3FsKuTlA0b_kY.jpg": {
+  "slug": "abu-dhabi-third-street",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shows car interior, not the restaurant venue",
+  "at": "2026-11-04T00:08:00.201Z"
+ },
+ "abu-dhabi-third-street\u0001https://fastly.4sqi.net/img/general/original/1375675625_wF12yE8tETjppyFaVjX1vLPzPiZ9iAYcHFcq753vZvk.jpg": {
+  "slug": "abu-dhabi-third-street",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Coffee cup in car, not restaurant venue shown",
+  "at": "2026-11-04T00:08:02.227Z"
+ },
+ "abu-dhabi-third-street\u0001https://fastly.4sqi.net/img/general/original/375376058_df6nFixTXvb3eQ2jBmhxNRwn8DHlkI6DkcYPXDe6udI.jpg": {
+  "slug": "abu-dhabi-third-street",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Car interior with coffee, not restaurant venue",
+  "at": "2026-11-04T00:07:58.922Z"
+ },
+ "abu-dhabi-third-street\u0001https://fastly.4sqi.net/img/general/original/583343629_Ud7fJLZJdyABQfZHtfeB1ZPgXJUi4OTAWR2OyG3_Mhw.jpg": {
+  "slug": "abu-dhabi-third-street",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shows car interior, not the restaurant itself",
+  "at": "2026-11-04T00:07:57.095Z"
+ },
  "abu-dhabi-third-street\u0001https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Santa_Monica_%E2%80%93_Third_Street_Promenade_%28a%29_06_Sept_2017.jpg/3840px-Santa_Monica_%E2%80%93_Third_Street_Promenade_%28a%29_06_Sept_2017.jpg": {
   "slug": "abu-dhabi-third-street",
   "verdict": "MISMATCH",
@@ -4035,6 +4059,12 @@
   "reason": "patrol reject: Visible photographer credit watermark overlaid on image",
   "at": "2026-10-31T22:49:41.697Z"
  },
+ "belek-ironman-70-3-turkey\u0001https://upload.wikimedia.org/wikipedia/commons/3/34/Ironman_70.3_World_Championships_%289700067755%29.jpg": {
+  "slug": "belek-ironman-70-3-turkey",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Cycling race in wet conditions, Ironman event.",
+  "at": "2026-11-04T00:08:51.574Z"
+ },
  "belek-ironman-70-3-turkey\u0001https://upload.wikimedia.org/wikipedia/commons/d/db/Bart_Aernouts_Ironman_70.3_Austria_2012.jpg": {
   "slug": "belek-ironman-70-3-turkey",
   "verdict": "MISMATCH",
@@ -5298,17 +5328,35 @@
   "reason": "patrol reject: Farm field selfie, unrelated to folklore event",
   "at": "2026-11-03T01:44:39.627Z"
  },
+ "buenos-aires-republica-folklore\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Fallas2018_-_Cavalcada_Patrimoni_10_-_Merengue_Rep%C3%BAblica_Dominicana.jpg/3840px-Fallas2018_-_Cavalcada_Patrimoni_10_-_Merengue_Rep%C3%BAblica_Dominicana.jpg": {
+  "slug": "buenos-aires-republica-folklore",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: identity: Commons places this in Spain, post says Argentina",
+  "at": "2026-11-04T00:09:11.633Z"
+ },
  "buenos-aires-republica-folklore\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Falla_Puebla_de_Valverde-_II_Rep%C3%BAblica_2025_01.jpg/3840px-Falla_Puebla_de_Valverde-_II_Rep%C3%BAblica_2025_01.jpg": {
   "slug": "buenos-aires-republica-folklore",
   "verdict": "MISMATCH",
   "reason": "patrol reject: Unrelated sculpture/street scene, not this event or venue",
   "at": "2026-11-02T22:52:59.647Z"
  },
+ "buenos-aires-republica-folklore\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Fallas2018_-_Cavalcada_Patrimoni_11_-_Merengue_Rep%C3%BAblica_Dominicana.jpg/3840px-Fallas2018_-_Cavalcada_Patrimoni_11_-_Merengue_Rep%C3%BAblica_Dominicana.jpg": {
+  "slug": "buenos-aires-republica-folklore",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: identity: Commons places this in Spain, post says Argentina",
+  "at": "2026-11-04T00:09:08.420Z"
+ },
  "buenos-aires-republica-folklore\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Falla_Puebla_de_Valverde-_II_Rep%C3%BAblica_2025_02.jpg/3840px-Falla_Puebla_de_Valverde-_II_Rep%C3%BAblica_2025_02.jpg": {
   "slug": "buenos-aires-republica-folklore",
   "verdict": "MISMATCH",
   "reason": "patrol reject: Unrelated parade sculpture, not Buenos Aires folklore event",
   "at": "2026-11-02T22:52:52.319Z"
+ },
+ "buenos-aires-republica-folklore\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/INC_en_directo_en_la_sala_Rep%C3%BAblica_%28Valencia%29_4.jpg/3840px-INC_en_directo_en_la_sala_Rep%C3%BAblica_%28Valencia%29_4.jpg": {
+  "slug": "buenos-aires-republica-folklore",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Live concert performance at indoor arena venue",
+  "at": "2026-11-04T00:09:14.718Z"
  },
  "buenos-aires-republica-folklore\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Falla_infantil_Puebla_de_Valverde-_II_Rep%C3%BAblica_2025_04.jpg/3840px-Falla_infantil_Puebla_de_Valverde-_II_Rep%C3%BAblica_2025_04.jpg": {
   "slug": "buenos-aires-republica-folklore",
@@ -5885,6 +5933,12 @@
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: filename shares only \"grey\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-11-02T08:28:03.701Z"
+ },
+ "calgary-113th-grey-cup\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/106_Grey_Cup_Rally_-_27_November_2018_Calgary%2C_Alberta.jpg/3840px-106_Grey_Cup_Rally_-_27_November_2018_Calgary%2C_Alberta.jpg": {
+  "slug": "calgary-113th-grey-cup",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Grey Cup celebration crowd, Canadian flags visible",
+  "at": "2026-11-04T00:09:20.459Z"
  },
  "calgary-113th-grey-cup\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/111th_Grey_Cup%2C_TSN_Panel.jpg/3840px-111th_Grey_Cup%2C_TSN_Panel.jpg": {
   "slug": "calgary-113th-grey-cup",
@@ -10892,6 +10946,12 @@
   "reason": "event publish gate: XG group members posing, valid performer photo",
   "at": "2026-10-21T23:54:06.811Z"
  },
+ "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/0/02/Ankara_-_BWF_World_Senior_Badminton_Championships_-_Bill_%26_Sanne_in_MX_60_%2811078016544%29.jpg": {
+  "slug": "hangzhou-bwf-world-tour-finals",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: identity: Commons places this in Ankara, post says Hangzhou",
+  "at": "2026-11-04T00:09:46.188Z"
+ },
  "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/0/06/TOTAL_BWF_World_Champs_2015_Day_2_Huang_Yaqiong.jpg": {
   "slug": "hangzhou-bwf-world-tour-finals",
   "verdict": "MISMATCH",
@@ -10909,6 +10969,12 @@
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: filename shares no word with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-22T08:00:48.700Z"
+ },
+ "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/3/3e/Bwf_Profile.png": {
+  "slug": "hangzhou-bwf-world-tour-finals",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Screenshot of website dashboard, not event photo",
+  "at": "2026-11-04T00:09:42.780Z"
  },
  "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/6/61/TOTAL_BWF_World_Champs_2015_Day_2_Sam_Magee.jpg": {
   "slug": "hangzhou-bwf-world-tour-finals",
@@ -10958,6 +11024,12 @@
   "reason": "hand-reviewed: filename shares no word with the event title (audit-event-hero-identity --reject)",
   "at": "2026-11-01T08:22:05.383Z"
  },
+ "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/e/e1/BWF_IRS_Loading_-_Indonesia_Open_2026.jpg": {
+  "slug": "hangzhou-bwf-world-tour-finals",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Photo of a screen/sign, not the event itself",
+  "at": "2026-11-04T00:09:50.572Z"
+ },
  "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/f/f6/2018_BWF_World_Championships.jpg": {
   "slug": "hangzhou-bwf-world-tour-finals",
   "verdict": "MISMATCH",
@@ -10969,6 +11041,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Logo/banner graphic, not an actual photo of event",
   "at": "2026-10-22T00:08:49.434Z"
+ },
+ "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/f/fb/Ankara_-_BWF_World_Senior_Badminton_Championships_-_good_crowds_for_the_finals_%2811078231364%29.jpg": {
+  "slug": "hangzhou-bwf-world-tour-finals",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Badminton event, not BWF World Tour Finals",
+  "at": "2026-11-04T00:09:41.113Z"
  },
  "hangzhou-bwf-world-tour-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TOTAL_BWF_World_Champs_2015_Day_2_Petya_Nedelcheva.jpg/3840px-TOTAL_BWF_World_Champs_2015_Day_2_Petya_Nedelcheva.jpg": {
   "slug": "hangzhou-bwf-world-tour-finals",
@@ -13139,6 +13217,18 @@
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: filename shares only \"round\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-11-03T08:22:43.062Z"
+ },
+ "incheon-round-festival-asean-korea-music-festival\u0001https://upload.wikimedia.org/wikipedia/commons/8/8a/Group_Shot_of_All_Crews_of_the_AKMF_Round_Festival.jpg": {
+  "slug": "incheon-round-festival-asean-korea-music-festival",
+  "verdict": "MATCH",
+  "reason": "patrol replace: ROUND Festival group photo, correct event",
+  "at": "2026-11-04T00:11:45.450Z"
+ },
+ "incheon-round-festival-asean-korea-music-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Moldboy_performs_at_River_Runs_Round_festival_in_Coughlan%27s%2C_Cork.jpg/3840px-Moldboy_performs_at_River_Runs_Round_festival_in_Coughlan%27s%2C_Cork.jpg": {
+  "slug": "incheon-round-festival-asean-korea-music-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Random musician at unrelated venue, not this festival",
+  "at": "2026-11-04T00:11:42.072Z"
  },
  "incheon-round-festival-asean-korea-music-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/AKMF_Round_Festival_Stage.jpg/3840px-AKMF_Round_Festival_Stage.jpg": {
   "slug": "incheon-round-festival-asean-korea-music-festival",
@@ -17626,6 +17716,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Gazebo pavilion unrelated to Sound Music Fest in Lima",
   "at": "2026-11-02T22:58:26.790Z"
+ },
+ "lima-sound-music-fest-golden-years-edition\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Atlas_Sound_in_concert_%2823685654815%29.jpg/3840px-Atlas_Sound_in_concert_%2823685654815%29.jpg": {
+  "slug": "lima-sound-music-fest-golden-years-edition",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Musician performing on stage at concert event",
+  "at": "2026-11-04T00:12:07.154Z"
  },
  "lima-sound-music-fest-golden-years-edition\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/The_Warning_at_Sound_of_Music_2022-5.jpg/3840px-The_Warning_at_Sound_of_Music_2022-5.jpg": {
   "slug": "lima-sound-music-fest-golden-years-edition",
@@ -22678,11 +22774,35 @@
   "reason": "hand-reviewed: filename shares no word with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-30T08:31:03.512Z"
  },
+ "new-york-nba-christmas-day-games\u0001https://upload.wikimedia.org/wikipedia/commons/2/21/Partido_NBA_-i---i-_%2832167349051%29.jpg": {
+  "slug": "new-york-nba-christmas-day-games",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Game shown in Mexico City, not New York/MSG",
+  "at": "2026-11-04T00:12:25.127Z"
+ },
  "new-york-nba-christmas-day-games\u0001https://upload.wikimedia.org/wikipedia/commons/9/97/Partido_NBA_-i---i-_%2832167365481%29.jpg": {
   "slug": "new-york-nba-christmas-day-games",
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: filename shares no word with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-31T08:07:45.022Z"
+ },
+ "new-york-nba-christmas-day-games\u0001https://upload.wikimedia.org/wikipedia/commons/a/a9/Partido_NBA_-i---i-_%2832137740192%29.jpg": {
+  "slug": "new-york-nba-christmas-day-games",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Photo shows Mexico City venue, not New York",
+  "at": "2026-11-04T00:12:23.873Z"
+ },
+ "new-york-nba-christmas-day-games\u0001https://upload.wikimedia.org/wikipedia/commons/b/bf/Partido_NBA_-i---i-_%2831445390984%29.jpg": {
+  "slug": "new-york-nba-christmas-day-games",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shows NBA Mexico City event, not Christmas Day Games",
+  "at": "2026-11-04T00:12:28.331Z"
+ },
+ "new-york-nba-christmas-day-games\u0001https://upload.wikimedia.org/wikipedia/commons/c/c8/Madison_Square_Garden%2C_2005.jpg": {
+  "slug": "new-york-nba-christmas-day-games",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Madison Square Garden exterior, NYC street scene",
+  "at": "2026-11-04T00:12:31.010Z"
  },
  "new-york-nba-christmas-day-games\u0001https://upload.wikimedia.org/wikipedia/commons/c/ce/Jalen_Williams_OKCThunder_2025_NBA_Cup.jpg": {
   "slug": "new-york-nba-christmas-day-games",

@@ -3312,7 +3312,13 @@
   "putrajaya-putra-square\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Putra_Square_Flags_Putrajaya.jpg/3840px-Putra_Square_Flags_Putrajaya.jpg": 3840,
   "ottawa-confederation-square\u0001https://upload.wikimedia.org/wikipedia/commons/8/88/Confederation_Square_Ottawa.JPG": 1600,
   "puerto-iguazu-ruins-of-san-ignacio-mini\u0001https://upload.wikimedia.org/wikipedia/commons/2/28/San_Ignacio_Min%C3%AD_mission_ruins.jpg": 2753,
-  "siena-palazzo-pubblico\u0001https://upload.wikimedia.org/wikipedia/commons/b/ba/Siena_Palazzo_Pubblico_e_torre_del_Mangia.jpg": 1434
+  "siena-palazzo-pubblico\u0001https://upload.wikimedia.org/wikipedia/commons/b/ba/Siena_Palazzo_Pubblico_e_torre_del_Mangia.jpg": 1434,
+  "buenos-aires-republica-folklore\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/INC_en_directo_en_la_sala_Rep%C3%BAblica_%28Valencia%29_4.jpg/3840px-INC_en_directo_en_la_sala_Rep%C3%BAblica_%28Valencia%29_4.jpg": 3840,
+  "calgary-113th-grey-cup\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/106_Grey_Cup_Rally_-_27_November_2018_Calgary%2C_Alberta.jpg/3840px-106_Grey_Cup_Rally_-_27_November_2018_Calgary%2C_Alberta.jpg": 3840,
+  "belek-ironman-70-3-turkey\u0001https://upload.wikimedia.org/wikipedia/commons/3/34/Ironman_70.3_World_Championships_%289700067755%29.jpg": 1200,
+  "lima-sound-music-fest-golden-years-edition\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Atlas_Sound_in_concert_%2823685654815%29.jpg/3840px-Atlas_Sound_in_concert_%2823685654815%29.jpg": 3840,
+  "incheon-round-festival-asean-korea-music-festival\u0001https://upload.wikimedia.org/wikipedia/commons/8/8a/Group_Shot_of_All_Crews_of_the_AKMF_Round_Festival.jpg": 3751,
+  "new-york-nba-christmas-day-games\u0001https://upload.wikimedia.org/wikipedia/commons/c/c8/Madison_Square_Garden%2C_2005.jpg": 1600
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -3464,8 +3470,8 @@
   },
   "nagoya-asian-games-2026": {
    "width": 960,
-   "attempts": 9,
-   "nextTry": "2026-11-04",
+   "attempts": 10,
+   "nextTry": "2026-11-11",
    "flaggedAt": "2026-09-02",
    "lastResult": "no-wider"
   },
@@ -3562,15 +3568,15 @@
   },
   "hong-kong-fello": {
    "width": 1080,
-   "attempts": 6,
-   "nextTry": "2026-11-04",
+   "attempts": 7,
+   "nextTry": "2026-11-11",
    "flaggedAt": "2026-09-18",
    "lastResult": "no-wider"
   },
   "hiroshima-hiroshima-botanical-garden": {
    "width": 800,
-   "attempts": 6,
-   "nextTry": "2026-11-04",
+   "attempts": 7,
+   "nextTry": "2026-11-11",
    "flaggedAt": "2026-09-19",
    "lastResult": "no-wider"
   },
@@ -3604,8 +3610,8 @@
   },
   "barcelona-chambacu": {
    "width": 1103,
-   "attempts": 4,
-   "nextTry": "2026-11-04",
+   "attempts": 5,
+   "nextTry": "2026-11-11",
    "flaggedAt": "2026-09-24",
    "lastResult": "no-wider"
   },
@@ -3844,5 +3850,5 @@
    "flaggedAt": "2026-11-02"
   }
  },
- "updated": "2026-11-03T15:46:53.499Z"
+ "updated": "2026-11-04T00:15:59.495Z"
 }

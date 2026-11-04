@@ -30,6 +30,14 @@ faq:
     a: Macy's Herald Square and its holiday windows are a block east. The Empire State Building is about a ten-minute walk away, and Bryant Park Winter Village is at 42nd Street. The Rockefeller Center tree is a short subway ride north. Koreatown on West 32nd Street is where many fans go to eat, since a lot of Midtown restaurants close for the holiday.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/c/c8/Madison_Square_Garden%2C_2005.jpg
+  credit: 'Photo: No machine-readable author provided. / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Madison_Square_Garden,_2005.jpg
+  focus:
+    x: 55
+    'y': 40
 ---
 
 ## A Finals rematch to open the day
