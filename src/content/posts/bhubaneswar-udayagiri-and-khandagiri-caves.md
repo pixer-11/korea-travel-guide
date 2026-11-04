@@ -61,14 +61,14 @@ place:
 tags:
   - bhubaneswar
   - top attraction
-quickAnswer: Udayagiri and Khandagiri are twin rock-cut hills on the western edge of Bhubaneswar, riddled with 1st-century-BCE Jain monastic caves and capped by an active 18th-century Jain temple. Open daily 6:30am–7:30pm, the site is calm any weekday morning but clogs up between 12pm and 5pm on weekends, so aim for an early or late slot. Budget about 90 minutes to two hours, focus on Rani Gumpha and Hathi Gumpha on Udayagiri, then cross the road for the quieter, temple-topped Khandagiri.
+quickAnswer: Udayagiri and Khandagiri are twin rock-cut hills on the western edge of Bhubaneswar, riddled with 1st-century-BCE Jain monastic caves and capped by an active 18th-century Jain temple. Open daily 6:30am–7:30pm, the site is calm 7am–10am and 5pm–7pm on weekdays but clogs up between 12pm and 5pm on weekends, so aim for an early or late slot. Budget about 90 minutes to two hours, focus on Rani Gumpha and Hathi Gumpha on Udayagiri, then cross the road for the quieter, temple-topped Khandagiri.
 faq:
   - q: What are the opening hours?
     a: Daily, 6:30am to 7:30pm, with no weekly closing day.
   - q: How long should I plan to spend here?
     a: Around 90 minutes to two hours to see the main caves on both hills; add 30-40 minutes if you want to fully explore Khandagiri's temple summit.
   - q: When is it quietest?
-    a: Any time between 7am and 7pm on weekdays is calm, and weekend mornings before noon are still manageable. Avoid weekends between 12pm and 5pm, when it's busiest.
+    a: On weekdays, 7am to 10am and 5pm to 7pm are calm, and weekend mornings before noon are still manageable. Avoid weekends between 12pm and 5pm, when it's busiest.
   - q: How do I get there from central Bhubaneswar?
     a: It's about a 15-20 minute auto-rickshaw, taxi, or ride-hail trip (roughly 6-7 km) from the railway station or Master Canteen area; there's no direct metro or rail link to the site.
   - q: Is there an entry fee?
@@ -97,7 +97,7 @@ Cross the road to Khandagiri and the mood shifts: fewer coach groups, a steeper 
 
 ## When to go
 
-The site opens early in the morning and stays open through the day, and the difference between a good and a crowded visit here is almost entirely about timing. Weekday mornings tend to be the calmest, and even weekend mornings stay manageable until midday. The crunch comes between 12pm and 5pm on weekends, when tour buses and family groups arrive en masse. Plan around that window rather than into it.
+The site opens early in the morning and stays open through the day, and the difference between a good and a crowded visit here is almost entirely about timing. Weekday mornings before 10am tend to be the calmest, and even weekend mornings stay manageable until midday. The crunch comes between 12pm and 5pm on weekends, when tour buses and family groups arrive en masse. Plan around that window rather than into it.
 
 Early morning is also simply more comfortable physically: the rock holds heat, there's minimal shade on the climbs, and Odisha's afternoon sun by mid-morning in the warmer months is no joke.
 

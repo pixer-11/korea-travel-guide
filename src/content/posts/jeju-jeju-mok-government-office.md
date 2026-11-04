@@ -65,7 +65,7 @@ faq:
   - q: When is the quietest time to visit the Jeju-mok Government Office?
     a: >-
       On weekdays it is quietest from 9am to 10am. On weekends the calmer window
-      is 9am to 12pm, but 10am to 1pm is the busiest stretch, so arrive right at
+      is 9am to 10am, but 10am to 1pm is the busiest stretch, so arrive right at
       the 9am opening.
   - q: 'What are the opening hours, and is it closed on any day?'
     a: >-
@@ -140,7 +140,7 @@ Paths are flat and gravelled or paved. An unhurried loop takes about an hour. Al
 
 The courtyards look their best without a crowd in the shot. Typical foot traffic shows a clear pattern here.
 
-On weekdays, the quietest window is **9am to 10am**, the first hour after opening. On weekends, the calmer stretch runs **9am to 12pm**, but the busiest period is **10am to 1pm**. In practice, that means turning up at 9am. Try not to arrive after 10am on a Saturday or Sunday, because that is when the courtyards and the Mangyeongru stairs fill up.
+On weekdays, the quietest window is **9am to 10am**, the first hour after opening. On weekends, the calmer stretch runs **9am to 10am**, but the busiest period is **10am to 1pm**. In practice, that means turning up at 9am. Try not to arrive after 10am on a Saturday or Sunday, because that is when the courtyards and the Mangyeongru stairs fill up.
 
 The compound is open every day, **9am to 6pm**, including Mondays. There is no weekly closing day to plan around. Late afternoon gives lower sun across the roof tiles. Arrive by about 5pm so you are not hurried out at 6.
 

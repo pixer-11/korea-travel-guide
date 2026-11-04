@@ -67,7 +67,7 @@ quickAnswer: >-
   to feed thousands of migratory seagulls at sunrise and where priests perform
   daily aarti along the water. Go right after sunrise (roughly 7-9am, winter
   months best for the gulls), and skip the 7am-10pm weekend crush if you want
-  breathing room — weekend evenings around 9-10pm are calmest. Bring bread or
+  breathing room — the forecast flags no quiet weekend hour. Bring bread or
   puffed rice for the birds and expect crowds, boat touts, and a distinctly
   unglamorous stretch of the Yamuna itself.
 faq:
@@ -83,8 +83,8 @@ faq:
       'Yamuna Ghat' or 'Seagull Point.'
   - q: When is Yamuna Ghat least crowded?
     a: >-
-      Weekends are busy from 7am to 10pm. The quietest window is 9pm–10pm on
-      weekends, though the gulls and daylight will be gone by then.
+      Weekends are busy from 7am to 10pm. The forecast flags no quiet hour on
+      weekends, and a late-evening visit misses the gulls and daylight anyway.
   - q: Is Yamuna Ghat open 24 hours?
     a: >-
       Most days, yes, but hours vary — Thursday it's open 1:30am–8pm, and
@@ -133,7 +133,7 @@ Winter mornings, roughly November through February, are peak gull season and the
 
 Arrive as close to sunrise as the day's hours allow. The light is softer, the birds are most active, and the heat hasn't set in. Opening hours vary through the week: most days it's accessible 24 hours, but Thursday runs 1:30am–8pm and Friday–Saturday 7am–9pm, so check before a late visit.
 
-This is a very popular spot, especially on weekends. If you want the steps to yourself, visit later in the evening instead, when the crowds and vendors have largely cleared out, though the seagull show will be over by then.
+This is a very popular spot, especially on weekends. If you want the steps to yourself, skip weekends: the forecast flags no quiet weekend hour, with crowds from 7am to 10pm, and the seagull show is over by evening anyway.
 
 ## How to visit like a local
 

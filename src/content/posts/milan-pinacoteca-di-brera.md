@@ -65,7 +65,7 @@ faq:
   - q: How long should I plan for a visit?
     a: Most visitors spend 90 minutes to 2 hours; the collection is compact enough to see thoroughly without a full-day commitment.
   - q: When is the quietest time to visit?
-    a: Foot-traffic data shows both weekdays and weekends run calmer across the 8:30am–7:15pm hours in general, but weekends see a real crowd build-up between 10am and 6pm — arrive near opening or after 6pm to avoid it.
+    a: Foot-traffic data shows both weekdays and weekends are calmest from 6pm to 7pm (it is closed on Mondays), while weekdays get busiest between 12pm and 5pm and weekends see a real crowd build-up between 10am and 6pm — arrive near opening or after 6pm to avoid it.
   - q: What are the must-see works?
     a: Mantegna's 'Dead Christ,' Piero della Francesca's Montefeltro Altarpiece, Raphael's 'Marriage of the Virgin,' Caravaggio's 'Supper at Emmaus,' and Hayez's 'The Kiss' are the highlights most visitors seek out first.
   - q: What else is nearby?
@@ -95,7 +95,7 @@ Raphael's "Marriage of the Virgin," an early masterpiece with a perfectly constr
 
 ## When to go
 
-According to typical visitor patterns, both weekdays and weekends stay comparatively calm across most of the day, but weekends still see a real surge between 10am and 6pm, when tour groups and day-trippers cluster in the main halls. Aim to arrive close to opening or after 6pm on a weekend, or pick a weekday morning, to have the Mantegna and Raphael rooms with breathing room.
+According to typical visitor patterns, both weekdays and weekends are calmest from 6pm to 7pm, while weekdays get busiest between 12pm and 5pm and weekends see a real surge between 10am and 6pm, when tour groups and day-trippers cluster in the main halls. Aim to arrive close to opening or after 6pm on a weekend, or pick a weekday morning, to have the Mantegna and Raphael rooms with breathing room.
 
 Spring and early autumn mornings are pleasant for lingering afterward in the Brera courtyard or the surrounding streets, but the museum itself is a good rainy-day plan any season since everything is indoors and unhurried.
 

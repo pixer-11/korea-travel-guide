@@ -83,7 +83,7 @@ faq:
     a: 'Daily, 6:30am to midnight, with no separate closing day.'
   - q: When is the quietest time to visit?
     a: >-
-      Both weekdays and weekends are calmest from 7am to 11pm; the crowds
+      Both weekdays and weekends are calmest from 7am to 9am and from 9pm to 11pm; the crowds
       concentrate specifically in the 11am-9pm weekend window, so early morning
       or after 9pm is your best bet for open space.
   - q: Is there an entrance fee?
@@ -123,7 +123,7 @@ Paved paths loop the whole park, so a full circuit on foot takes about an hour; 
 
 Hours run 6:30am to midnight every day, among the longest of any Milan park, so early joggers and late-evening walkers both have full access. Crowd patterns are steep here: weekends from 11am to 9pm draw the heaviest foot traffic, with families, tour groups from the castle, and picnic crowds filling the lawns near the lake.
 
-Both weekday and weekend mornings from 7am stay noticeably calmer, and that quiet holds until late evening. If you want the lake and lawns without jostling for space, arrive before 11am or come back after 9pm when the light-lit paths empty out.
+Both weekday and weekend mornings from 7am to 9am stay noticeably calmer, and the quiet returns from 9pm to 11pm. If you want the lake and lawns without jostling for space, arrive before 11am or come back after 9pm when the light-lit paths empty out.
 
 Spring and early summer are best for the lawns; the plane trees and horse chestnuts give heavy shade by June, useful since Milan summers run hot and humid.
 

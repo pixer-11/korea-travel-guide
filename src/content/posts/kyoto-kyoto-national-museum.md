@@ -54,7 +54,7 @@ place:
 tags:
   - "kyoto"
   - "museum"
-quickAnswer: "Kyoto National Museum sits in Higashiyama Ward, a short walk from Sanjusangendo and the Toyokuni Shrine, and holds one of Japan's major collections of Buddhist sculpture, calligraphy and metalwork. It's closed Mondays, open until 8pm on Fridays, and busiest on weekends between 10am and 5pm, so a Friday evening or a weekday around 5-6pm is your best shot at a quiet visit. Budget two to three hours if you want to see both the permanent galleries and any special exhibition."
+quickAnswer: "Kyoto National Museum sits in Higashiyama Ward, a short walk from Sanjusangendo and the Toyokuni Shrine, and holds one of Japan's major collections of Buddhist sculpture, calligraphy and metalwork. It's closed Mondays, open until 8pm on Fridays, and busiest on weekends between 10am and 5pm, so a Friday evening around 5-6pm is your best shot at a quiet visit. Budget two to three hours if you want to see both the permanent galleries and any special exhibition."
 faq:
   - q: "What are the opening hours for Kyoto National Museum?"
     a: "Tuesday through Sunday 9:30am to 5:00pm, except Friday when it stays open until 8:00pm. It's closed all day Monday."

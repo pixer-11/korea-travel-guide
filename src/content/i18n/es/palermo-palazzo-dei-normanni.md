@@ -1,17 +1,17 @@
 ---
 lang: es
 slug: palermo-palazzo-dei-normanni
-srcHash: '60ce6463ca31'
+srcHash: 'fc37bfbee4dd'
 title: 'Palazzo dei Normanni: guía de viaje de Palermo (4.5★)'
 description: 'El Palazzo dei Normanni se alza en lo alto del Corso Vittorio Emanuele de Palermo, y los mosaicos dorados de la Capilla Palatina junto con la entrada del mismo día son lo que todo visitante busca. 4.5★ (28.915 reseñas): opiniones de los visitantes, horarios y consejos.'
-quickAnswer: El Palazzo dei Normanni se alza en lo alto del Corso Vittorio Emanuele de Palermo, y los mosaicos dorados de la Capilla Palatina junto con la entrada del mismo día son lo que todo visitante busca. Abre todos los días, aunque los domingos solo hasta la 1 de la tarde, y recibe tantas visitas que los fines de semana entre las 11:00 y las 12:00 se llena bastante; conviene ir más temprano o después de las 14:00 un sábado o domingo para contemplar la capilla con más calma.
+quickAnswer: El Palazzo dei Normanni se alza en lo alto del Corso Vittorio Emanuele de Palermo, y los mosaicos dorados de la Capilla Palatina junto con la entrada del mismo día son lo que todo visitante busca. Abre todos los días, aunque los domingos solo hasta la 1 de la tarde, y recibe tantas visitas que los fines de semana entre las 11:00 y las 12:00 se llena bastante; conviene ir más temprano, hacia las 9:00, o entre las 13:00 y las 14:00 un sábado, para contemplar la capilla con más calma.
 faq:
   - q: ¿Cuánto tiempo debo reservar para visitar el Palazzo dei Normanni?
     a: 'Calcule una hora en total: entre 20 y 25 minutos solo para la Capilla Palatina, más el tiempo para la Sala di Ruggero y las exposiciones temporales que pueda haber ese día, si están abiertas.'
   - q: ¿Cuál es el horario de apertura?
     a: De lunes a sábado abre de 8:30 a 16:30; los domingos el horario es más corto, solo de 8:30 a 13:00, así que no conviene planear una visita en domingo por la tarde.
   - q: ¿Cuándo hay menos gente?
-    a: Los fines de semana, las mañanas de 9:00 a 14:00 son más tranquilas; conviene evitar la franja de 11:00 a 12:00 los sábados y domingos, cuando la afluencia llega a su punto máximo.
+    a: Los fines de semana, la franja de 9:00 a 10:00 es más tranquila, igual que la de 13:00 a 14:00 los sábados; conviene evitar la franja de 11:00 a 12:00 los sábados y domingos, cuando la afluencia llega a su punto máximo.
   - q: ¿Siempre se pueden ver los Apartamentos Reales y la Sala di Ruggero?
     a: No está garantizado. El edificio sigue albergando el parlamento regional de Sicilia, por lo que ciertas salas cierran sin previo aviso en los días de sesión; conviene preguntar en la taquilla al llegar.
   - q: ¿Cómo se llega desde el centro de Palermo?
@@ -52,7 +52,7 @@ Al tratarse de un edificio de gobierno en funcionamiento y no solo de un museo, 
 
 El palacio es una parada muy visitada dentro de la ruta turística principal de Palermo, y esa popularidad está bien ganada, así que no espere tener la capilla para usted solo. La afluencia de público crece de forma constante los fines de semana y alcanza su punto máximo entre las 11:00 y las 12:00; conviene evitar esa franja horaria si es posible.
 
-Las mañanas de fin de semana antes de las 11:00, o después de las 14:00 aproximadamente, son notablemente más tranquilas, según los propios patrones de visita del palacio. Entre semana la afluencia se reparte de manera más uniforme a lo largo del día. En cualquier caso, llegar cerca de la apertura, a las 8:30, ofrece la mejor oportunidad de fotografiar los mosaicos sin una fila de grupos turísticos entre usted y el ábside.
+Las mañanas de fin de semana de 9:00 a 10:00, o de 13:00 a 14:00 los sábados, son notablemente más tranquilas, según la previsión de afluencia. Entre semana la afluencia se reparte de manera más uniforme a lo largo del día. En cualquier caso, llegar cerca de la apertura, a las 8:30, ofrece la mejor oportunidad de fotografiar los mosaicos sin una fila de grupos turísticos entre usted y el ábside.
 
 ## Cómo leer el techo de muqarnas sin guía
 

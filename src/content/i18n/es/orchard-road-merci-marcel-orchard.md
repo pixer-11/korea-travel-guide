@@ -1,17 +1,17 @@
 ---
 lang: es
 slug: orchard-road-merci-marcel-orchard
-srcHash: 'c48fa1b54e6a'
+srcHash: 'a576c098506d'
 title: 'MERCI MARCEL ORCHARD: dónde comer en Orchard Road'
 description: MERCI MARCEL ORCHARD es un café-restaurante francés de horario continuo instalado en Palais Renaissance, en el número 390 de Orchard Road, a poca distancia a pie de la estación de Orchard MRT (salidas A o E).
-quickAnswer: MERCI MARCEL ORCHARD es un café-restaurante francés de horario continuo instalado en Palais Renaissance, en el número 390 de Orchard Road, a poca distancia a pie de la estación de Orchard MRT (salidas A o E). Conviene ir a almorzar entre semana o a cenar temprano en día laborable para evitar la espera; los precios son medios para la zona y conviene reservar entre 1 y 1,5 horas para una comida completa. No se trata de un lugar poco conocido, sino de un local popular y muy bien valorado (4,7 estrellas, más de 4.000 reseñas), así que lo mejor es reservar con antelación o llegar justo a la hora de apertura.
+quickAnswer: MERCI MARCEL ORCHARD es un café-restaurante francés de horario continuo instalado en Palais Renaissance, en el número 390 de Orchard Road, a poca distancia a pie de la estación de Orchard MRT (salidas A o E). Conviene ir a desayunar entre semana o a cenar tarde en día laborable para evitar la espera; los precios son medios para la zona y conviene reservar entre 1 y 1,5 horas para una comida completa. No se trata de un lugar poco conocido, sino de un local popular y muy bien valorado (4,7 estrellas, más de 4.000 reseñas), así que lo mejor es reservar con antelación o llegar justo a la hora de apertura.
 faq:
   - q: ¿Cómo llego a MERCI MARCEL ORCHARD en metro?
     a: Tome la línea North-South hasta la estación Orchard MRT y camine entre 5 y 8 minutos hacia el oeste por Orchard Road en dirección a Palais Renaissance, en el número 390. La estación Somerset MRT es una alternativa a pie ligeramente más larga.
   - q: ¿Cuánto cuesta una comida?
     a: Los precios se sitúan en la franja media para Orchard Road. Conviene consultar los precios actuales de la carta en el propio local, ya que pueden variar.
   - q: ¿Hace falta reservar?
-    a: No es imprescindible en las tardes tranquilas entre semana, pero se recomienda encarecidamente reservar para el brunch de fin de semana (11:00-14:00) y para las cenas de viernes y sábado, que son los momentos de mayor afluencia.
+    a: No es imprescindible en los desayunos tranquilos entre semana, pero se recomienda encarecidamente reservar para el brunch de fin de semana (11:00-14:00), que es el momento de mayor afluencia, y para las cenas de viernes y sábado.
   - q: ¿Cuánto tiempo debo reservar para la visita?
     a: Conviene calcular entre 1 y 1,5 horas para un almuerzo o una cena completos; una parada para café y bollería puede ser más rápida si se sienta en la barra del café.
   - q: ¿Qué hay cerca para combinar la visita con compras?
@@ -38,13 +38,13 @@ El nivel de precios se sitúa en la franja media para Orchard Road, en línea co
 
 ## Cuándo ir
 
-El almuerzo entre semana (aproximadamente de 12:00 a 14:00) y la media tarde son los momentos más tranquilos; el brunch de fin de semana, sobre todo el sábado y el domingo entre las 11:00 y las 14:00, atrae a la mayor afluencia de público debido a la carta de desayuno disponible todo el día. Por la noche, el ambiente se anima después de las 19:00, cuando los compradores terminan su jornada en Orchard Road.
+El desayuno entre semana (aproximadamente de 8:00 a 9:00) y las noches entre semana de 21:00 a 22:00 (hasta las 23:00 de miércoles a viernes) son los momentos más tranquilos; el brunch de fin de semana, sobre todo el sábado y el domingo entre las 11:00 y las 14:00, atrae a la mayor afluencia de público debido a la carta de desayuno disponible todo el día. Las noches de fin de semana, de 18:00 a 23:00 (hasta las 22:00 los domingos), también son tranquilas, cuando los compradores terminan su jornada en Orchard Road.
 
 Si se busca la terraza que se extiende hacia el corredor al aire libre del centro comercial, llegar justo a la hora de apertura ofrece las mejores opciones de conseguir sitio antes de que se llene.
 
 ## Cómo visitarlo como un local
 
-No se trata de un hallazgo poco conocido, sino de una dirección muy popular y concurrida, así que la estrategia práctica de un local pasa por elegir bien el horario, no por buscar el secretismo. Quienes buscan una comida tranquila evitan la avalancha del brunch de sábado y domingo entre las 11:00 y las 14:00, y en su lugar van entre semana o cenan temprano (hacia las 18:00-18:30), antes de que llegue la oleada de después del trabajo y de las compras.
+No se trata de un hallazgo poco conocido, sino de una dirección muy popular y concurrida, así que la estrategia práctica de un local pasa por elegir bien el horario, no por buscar el secretismo. Quienes buscan una comida tranquila evitan la avalancha del brunch de sábado y domingo entre las 11:00 y las 14:00, y en su lugar van entre semana o cenan después de las 21:00 en días laborables o a partir de las 18:00 el fin de semana, una vez pasada la afluencia del día.
 
 Se recomienda reservar para el brunch de fin de semana y para las cenas de viernes y sábado. Sin reserva, en las horas punta suele haber una espera real en lugar de una mesa inmediata.
 

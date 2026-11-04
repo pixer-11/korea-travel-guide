@@ -1,13 +1,13 @@
 ---
 lang: es
 slug: bangkok-suan-luang-rama-ix
-srcHash: '2e58f781ab26'
+srcHash: 'c4f05bc12553'
 title: 'Suan Luang Rama IX: Guía de viaje de Bangkok (4.7★)'
 description: En el distrito de Prawet, en el extremo oriental de Bangkok, Suan Luang Rama IX es uno de los parques públicos más grandes y mejor ajardinados de la ciudad, con jardines botánicos, un lago con botes de pedal, senderos para trotar y zonas de juegos infantiles. Descubre qué opinan los visitantes, el horario y algunos consejos, con 4.7★ (19,441 reseñas).
-quickAnswer: 'En el distrito de Prawet, en el extremo oriental de Bangkok, se encuentra Suan Luang Rama IX, uno de los parques públicos más grandes y mejor ajardinados de la ciudad: una combinación de jardines botánicos, un lago con botes de pedal, senderos para trotar y zonas de juegos infantiles. Para vivir la experiencia con más calma, conviene ir entre semana, de 10:00 a 19:00; los fines de semana el parque se llena de 7:00 a 19:00, así que si solo puedes ir un sábado o domingo, procura llegar después del mediodía. Reserva de dos a tres horas para recorrer bien los jardines, alquilar un bote de pedal y refrescarte bajo la sombra de los árboles.'
+quickAnswer: 'En el distrito de Prawet, en el extremo oriental de Bangkok, se encuentra Suan Luang Rama IX, uno de los parques públicos más grandes y mejor ajardinados de la ciudad: una combinación de jardines botánicos, un lago con botes de pedal, senderos para trotar y zonas de juegos infantiles. Para vivir la experiencia con más calma, conviene ir entre semana, de 10:00 a 15:00; los fines de semana el parque se llena de 7:00 a 9:00 y de 16:00 a 19:00, así que si solo puedes ir un sábado o domingo, procura llegar entre las 12:00 y las 14:00. Reserva de dos a tres horas para recorrer bien los jardines, alquilar un bote de pedal y refrescarte bajo la sombra de los árboles.'
 faq:
   - q: ¿Cuál es el mejor momento del día para visitar Suan Luang Rama IX?
-    a: Entre semana, de 10:00 a 19:00, es cuando hay menos gente. Los fines de semana la afluencia es alta de 7:00 a 19:00, así que si vas un sábado o domingo, procura llegar después del mediodía.
+    a: Entre semana, de 10:00 a 15:00, es cuando hay menos gente. Los fines de semana la afluencia es alta de 7:00 a 9:00 y de 16:00 a 19:00, así que si vas un sábado o domingo, procura llegar entre las 12:00 y las 14:00.
   - q: ¿Cómo llego a Suan Luang Rama IX sin auto?
     a: No hay ninguna estación de BTS o MRT justo en el parque. Las opciones más cercanas son las estaciones de la línea Sukhumvit en dirección a On Nut o Bang Na, desde donde hay que tomar un taxi o un mototaxi para el tramo final. Lo más sencillo suele ser pedir un taxi directo o usar una aplicación de transporte indicando el nombre en tailandés (สวนหลวง ร.9).
   - q: ¿Cuánto tiempo debería planear para la visita?
@@ -42,7 +42,7 @@ Vale la pena llevar una manta o simplemente buscar un trozo de césped bajo algu
 
 ## Cuándo ir
 
-Entre semana, de 10:00 a 19:00, es cuando el parque está más tranquilo, y es honestamente el mejor momento para apreciar su tamaño sin tener que esquivar multitudes. Los fines de semana atraen mucha afluencia de 7:00 a 19:00, cuando las familias del vecindario salen en masa, así que si solo dispones de un fin de semana, conviene esperar hasta después del mediodía: el parque se calma a partir de las 12:00 y hasta las 19:00.
+Entre semana, de 10:00 a 15:00, es cuando el parque está más tranquilo, y es honestamente el mejor momento para apreciar su tamaño sin tener que esquivar multitudes. Los fines de semana atraen mucha afluencia de 7:00 a 9:00 y de 16:00 a 19:00, cuando las familias del vecindario salen en masa, así que si solo dispones de un fin de semana, conviene esperar hasta el mediodía: el parque se calma de las 12:00 a las 14:00.
 
 Las primeras horas de la mañana del fin de semana ofrecen una luz preciosa, pero también son el momento de mayor afluencia, así que hay que ir con la expectativa de encontrar compañía. Al final de la tarde y al comienzo del anochecer, cualquier día de la semana, se da la mejor temperatura y la luz más suave para tomar fotografías, especialmente alrededor del lago.
 

@@ -47,7 +47,7 @@ faq:
   - q: How do I get to Sai Kung Town without a car?
     a: Take green minibus 1A or 1 from Diamond Hill or Choi Hung MTR stations — it's about 20-25 minutes and drops you near the town centre and pier.
   - q: What's the quietest time to visit?
-    a: Weekday late afternoons, around 4-6pm, are calmest. Weekends from late morning onward get busy with day-trippers heading to the beaches.
+    a: On weekdays the forecast flags no standout quiet hour, so come before 5pm, when the evening rush starts. Weekends get busy from 9am to 2pm and again from 5pm, with day-trippers heading to the beaches.
   - q: How long should I spend in Sai Kung Town?
     a: Budget 2-3 hours for the waterfront, market and a seafood meal, or a half day if you're combining it with a sampan ride or a hike into Sai Kung Country Park.
   - q: Is Sai Kung Town good for a day trip with kids?
@@ -96,9 +96,9 @@ For hikers, Sai Kung Town is the practical starting point for trails into Sai Ku
 
 ## When to go
 
-Weekday late afternoons, roughly 4–6pm, are the calmest window. The lunch crowd has cleared and dinner service hasn't ramped up yet. Weekends bring a steady flow of Hong Kong day-trippers heading to the beaches, so the promenade and minibus queues get noticeably busier from late morning onward.
+On weekdays the forecast flags no standout quiet hour, but late afternoon before 5pm beats the evening rush. The lunch crowd has cleared and dinner service hasn't ramped up yet. Weekends bring a steady flow of Hong Kong day-trippers heading to the beaches, so the promenade and minibus queues get noticeably busier from 9am to 2pm and again from 5pm.
 
-Evenings are when the seafood restaurants really come alive, tanks lit up, tables filling along the water. If you want photos of the boats without crowds in frame, mornings before 10am are quieter too, though fewer stalls are trading yet.
+Evenings are when the seafood restaurants really come alive, tanks lit up, tables filling along the water. If you want photos of the boats without crowds in frame, weekend mornings around 7–8am are quieter too, though fewer stalls are trading yet.
 
 ## How to visit like a local
 

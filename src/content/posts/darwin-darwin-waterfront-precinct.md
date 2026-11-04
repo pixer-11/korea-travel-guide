@@ -77,8 +77,8 @@ quickAnswer: >-
 faq:
   - q: When is the quietest time to visit Darwin Waterfront Precinct?
     a: >-
-      We only have a crowd forecast for the busy period: weekends from 11am to
-      11pm. Avoid that stretch by coming on a weekday, or arrive before 11am if
+      The forecast flags no standout quiet hour, only busy periods: weekdays from 6pm to 8pm and weekends from 11am to
+      11pm. Avoid those stretches by coming on a weekday before 6pm, or arrive before 11am if
       you have to come on a weekend.
   - q: Can you swim safely at Darwin Waterfront?
     a: >-

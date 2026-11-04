@@ -71,14 +71,14 @@ tags:
 quickAnswer: >-
   Peace Wall Belfast runs along Cupar Way in west Belfast, between the Shankill
   Road and the Falls Road, and the listed hours are 7am to 7pm every day. On
-  weekdays it stays calm all day. On weekends, try not to come between 11am and
+  weekdays it's calmest from 7am to 9am and from 6pm to 7pm, and busiest from 12pm to 1pm. On weekends, try not to come between 11am and
   5pm, when the taxi tours arrive one after another. Give it 30–45 minutes and
   bring your own marker pen if you want to add a message.
 faq:
   - q: When is the quietest time to visit the Peace Wall?
     a: >-
-      On weekdays it stays quiet across the whole of its listed hours, from 7am
-      to 7pm. On weekends, avoid 11am to 5pm, when the taxi tours bunch up. Come
+      On weekdays it's quietest from 7am to 9am and from 6pm to 7pm, and busiest from 12pm
+      to 1pm. On weekends, avoid 11am to 5pm, when the taxi tours bunch up. Come
       before 11am or late in the afternoon instead.
   - q: How do I get to the Peace Wall from Belfast city centre?
     a: >-
@@ -139,7 +139,7 @@ Most visitors come on a black taxi political tour. A driver from one community, 
 
 ## Weekday mornings versus the weekend taxi rush
 
-Crowds here follow the tour schedule. On weekdays the wall is quiet throughout its open hours of 7am to 7pm. You'll often have long stretches of it almost to yourself.
+Crowds here follow the tour schedule. On weekdays the wall is quietest from 7am to 9am and from 6pm to 7pm, and busiest from 12pm to 1pm. You'll often have long stretches of it almost to yourself.
 
 Weekends are different. Try not to arrive between 11am and 5pm on Saturday or Sunday. That's when the black taxis pull up in convoys and the groups stack up at the most photographed panels. If a weekend is your only option, go before 11am or in the last couple of hours before 7pm.
 

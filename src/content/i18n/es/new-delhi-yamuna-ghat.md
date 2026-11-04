@@ -1,17 +1,17 @@
 ---
 lang: es
 slug: new-delhi-yamuna-ghat
-srcHash: 'd508334a5ffd'
+srcHash: 'f371fbc3e96d'
 title: 'Yamuna Ghat: guía de viaje de Nueva Delhi (4,1★)'
 description: 'Cerca de Kashmere Gate, el Yamuna Ghat es la escalinata junto al río donde Delhi acude al amanecer a dar de comer a miles de gaviotas migratorias y donde los sacerdotes oficial a diario el aarti. 4,1★ (5.874 reseñas): opiniones de los visitantes, horarios y consejos.'
-quickAnswer: 'Cerca de Kashmere Gate, el Yamuna Ghat es la escalinata junto al río donde Delhi acude al amanecer a dar de comer a miles de gaviotas migratorias y donde los sacerdotes oficial a diario el aarti. Conviene ir justo después del amanecer (aproximadamente entre las 7 y las 9 de la mañana; los meses de invierno son los mejores para ver a las gaviotas) y evitar la avalancha del fin de semana, de 7 a 22h, si se busca algo de tranquilidad: las noches de fin de semana, entre las 21 y las 22h, son el momento más calmado. Lleve pan o arroz inflado para las aves y tenga en cuenta que encontrará multitudes, vendedores insistentes de paseos en barca y un tramo del río Yamuna nada glamuroso.'
+quickAnswer: 'Cerca de Kashmere Gate, el Yamuna Ghat es la escalinata junto al río donde Delhi acude al amanecer a dar de comer a miles de gaviotas migratorias y donde los sacerdotes oficial a diario el aarti. Conviene ir justo después del amanecer (aproximadamente entre las 7 y las 9 de la mañana; los meses de invierno son los mejores para ver a las gaviotas) y evitar la avalancha del fin de semana, de 7 a 22h, si se busca algo de tranquilidad: la previsión no marca ninguna franja tranquila el fin de semana. Lleve pan o arroz inflado para las aves y tenga en cuenta que encontrará multitudes, vendedores insistentes de paseos en barca y un tramo del río Yamuna nada glamuroso.'
 faq:
   - q: ¿Cuál es el mejor momento para ver a las gaviotas en Yamuna Ghat?
     a: Las mañanas de invierno, aproximadamente de noviembre a febrero, justo al amanecer, cuando miles de gaviotas migratorias llegan a alimentarse. Lleve pan o arroz inflado para darles de comer.
   - q: ¿Cómo se llega a Yamuna Ghat?
     a: Tome el metro hasta la estación de Kashmere Gate (líneas Roja, Amarilla o Violeta) y desde allí un breve trayecto en auto-rickshaw hasta el ghat; los conductores lo reconocen como 'Yamuna Ghat' o 'Seagull Point'.
   - q: ¿Cuándo hay menos gente en Yamuna Ghat?
-    a: Los fines de semana hay mucha afluencia de 7 de la mañana a 10 de la noche. El momento más tranquilo es entre las 21 y las 22h de los fines de semana, aunque para entonces ya no habrá gaviotas ni luz natural.
+    a: Los fines de semana hay mucha afluencia de 7 de la mañana a 10 de la noche. La previsión no marca ninguna franja tranquila los fines de semana, y a última hora de la tarde ya no hay gaviotas ni luz natural.
   - q: ¿Yamuna Ghat está abierto las 24 horas?
     a: 'La mayoría de los días sí, pero el horario varía: los jueves abre de 1:30 a 20h, y los viernes y sábados de 7 a 21h. Conviene comprobar el horario vigente antes de una visita nocturna o muy temprana.'
   - q: ¿El río está limpio o se puede nadar en él?
@@ -53,7 +53,7 @@ Las mañanas de invierno, aproximadamente de noviembre a febrero, son la tempora
 
 Conviene llegar lo más cerca posible del amanecer, dentro del horario disponible ese día: la luz es más suave, las aves están más activas y el calor todavía no ha apretado. El horario de apertura varía según el día de la semana: la mayoría de los días el acceso es de 24 horas, pero los jueves el horario es de 1:30 a 20h y los viernes y sábados de 7 a 21h, así que conviene comprobarlo antes de una visita tardía.
 
-Se trata de un lugar muy popular, sobre todo los fines de semana. Si prefiere tener los escalones para usted solo, vaya más tarde, ya avanzada la noche, cuando la multitud y los vendedores se han retirado en su mayoría, aunque para entonces el espectáculo de las gaviotas ya habrá terminado.
+Se trata de un lugar muy popular, sobre todo los fines de semana. Si prefiere tener los escalones para usted solo, evite el fin de semana: la previsión no marca ninguna franja tranquila, con afluencia de 7 a 22h, y por la tarde el espectáculo de las gaviotas ya habrá terminado.
 
 ## Cómo visitarlo como un local
 

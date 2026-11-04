@@ -1,17 +1,17 @@
 ---
 lang: es
 slug: bhubaneswar-udayagiri-and-khandagiri-caves
-srcHash: '99cb07a59192'
+srcHash: 'd5b5dee37f24'
 title: 'Cuevas de Udayagiri y Khandagiri: Guía de viaje de Bhubaneswar'
 description: Udayagiri y Khandagiri son dos colinas gemelas excavadas en roca en el extremo occidental de Bhubaneswar, repletas de cuevas monásticas jainas del siglo I a. C. y coronadas por un templo jainista activo del siglo XVIII.
-quickAnswer: Udayagiri y Khandagiri son dos colinas gemelas excavadas en roca en el extremo occidental de Bhubaneswar, repletas de cuevas monásticas jainas del siglo I a. C. y coronadas por un templo jainista activo del siglo XVIII. Abierto todos los días de 6:30am a 7:30pm, el sitio está tranquilo cualquier mañana de entre semana pero se llena entre las 12pm y las 5pm los fines de semana, así que conviene ir a primera hora o al final de la tarde. Calcula entre 90 minutos y dos horas, concentrándote en Rani Gumpha y Hathi Gumpha en Udayagiri, y luego cruza la carretera hacia el más tranquilo Khandagiri, coronado por un templo.
+quickAnswer: Udayagiri y Khandagiri son dos colinas gemelas excavadas en roca en el extremo occidental de Bhubaneswar, repletas de cuevas monásticas jainas del siglo I a. C. y coronadas por un templo jainista activo del siglo XVIII. Abierto todos los días de 6:30am a 7:30pm, el sitio está tranquilo entre semana de 7am a 10am y de 5pm a 7pm, pero se llena entre las 12pm y las 5pm los fines de semana, así que conviene ir a primera hora o al final de la tarde. Calcula entre 90 minutos y dos horas, concentrándote en Rani Gumpha y Hathi Gumpha en Udayagiri, y luego cruza la carretera hacia el más tranquilo Khandagiri, coronado por un templo.
 faq:
   - q: ¿Cuál es el horario de apertura?
     a: Todos los días, de 6:30am a 7:30pm, sin día de cierre semanal.
   - q: ¿Cuánto tiempo debería reservar para la visita?
     a: Entre 90 minutos y dos horas para ver las principales cuevas de ambas colinas; añade 30-40 minutos si quieres explorar por completo la cima del templo de Khandagiri.
   - q: ¿Cuándo hay menos gente?
-    a: Entre las 7am y las 7pm en días de semana suele estar tranquilo, y las mañanas de fin de semana antes del mediodía todavía son manejables. Evita los fines de semana entre las 12pm y las 5pm, cuando hay más gente.
+    a: En días de semana suele estar tranquilo de 7am a 10am y de 5pm a 7pm, y las mañanas de fin de semana antes del mediodía todavía son manejables. Evita los fines de semana entre las 12pm y las 5pm, cuando hay más gente.
   - q: ¿Cómo llego desde el centro de Bhubaneswar?
     a: Es un trayecto de unos 15-20 minutos en autorickshaw, taxi o app de transporte (unos 6-7 km) desde la estación de tren o la zona de Master Canteen; no hay conexión directa de metro o tren hasta el sitio.
   - q: ¿Hay tarifa de entrada?
@@ -40,7 +40,7 @@ Cruza la carretera hacia Khandagiri y el ambiente cambia: menos grupos en autob�
 
 ## Cuándo ir
 
-El sitio abre a primera hora de la mañana y permanece abierto todo el día, y la diferencia entre una visita agradable y una abarrotada depende casi por completo del momento elegido. Las mañanas de entre semana suelen ser las más tranquilas, e incluso las mañanas de fin de semana se mantienen manejables hasta el mediodía. El momento de mayor aglomeración llega entre las 12pm y las 5pm los fines de semana, cuando llegan en masa autobuses de turistas y grupos familiares; conviene planear alrededor de esa franja horaria en lugar de caer dentro de ella.
+El sitio abre a primera hora de la mañana y permanece abierto todo el día, y la diferencia entre una visita agradable y una abarrotada depende casi por completo del momento elegido. Las mañanas de entre semana antes de las 10am suelen ser las más tranquilas, e incluso las mañanas de fin de semana se mantienen manejables hasta el mediodía. El momento de mayor aglomeración llega entre las 12pm y las 5pm los fines de semana, cuando llegan en masa autobuses de turistas y grupos familiares; conviene planear alrededor de esa franja horaria en lugar de caer dentro de ella.
 
 La mañana temprano también es simplemente más cómoda físicamente: la roca retiene el calor, hay muy poca sombra en las subidas, y el sol de la tarde en Odisha durante los meses más cálidos, ya desde media mañana, no es cosa menor.
 

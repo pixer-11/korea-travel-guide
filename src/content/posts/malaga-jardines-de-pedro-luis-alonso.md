@@ -61,12 +61,12 @@ place:
 tags:
   - "malaga"
   - "park"
-quickAnswer: "Jardines de Pedro Luis Alonso sits right by Málaga's Ayuntamiento (city hall) in the Distrito Centro, a small, formal garden of clipped hedges, rose beds and a lily pond that's open 24 hours and free to enter. It's calmest on weekends between 7am and 4pm; weekday evenings from 9pm to 11pm are also quiet. Give it 15-20 minutes on your way to the Alcazaba or the port."
+quickAnswer: "Jardines de Pedro Luis Alonso sits right by Málaga's Ayuntamiento (city hall) in the Distrito Centro, a small, formal garden of clipped hedges, rose beds and a lily pond that's open 24 hours and free to enter. It's calmest on weekends from 7am to 8am and 1pm to 4pm; weekday evenings from 9pm to 11pm are also quiet. Give it 15-20 minutes on your way to the Alcazaba or the port."
 faq:
   - q: "Is Jardines de Pedro Luis Alonso free to enter?"
     a: "Yes, it's an open public garden with no ticket or gate, accessible 24 hours a day."
   - q: "When is the quietest time to visit?"
-    a: "Weekends between 7am and 4pm are calmest; on weekdays, 9pm to 11pm sees the fewest visitors."
+    a: "Weekends from 7am to 8am and 1pm to 4pm are calmest; on weekdays, 9pm to 11pm sees the fewest visitors."
   - q: "How long should I spend here?"
     a: "15-20 minutes is enough for most visitors; longer if you want to sit by the lily pond."
   - q: "What's nearby?"
@@ -95,11 +95,11 @@ The garden never closes; it's open 24 hours every day of the week, though there'
 - Quietest weekday window: 9pm-11pm
 - Busiest weekend stretch: 9am-12pm, 6pm-7pm and 8pm-10pm, when cruise groups and Alcazaba visitors pass through
 
-If you're combining it with the Alcazaba or Gibralfaro, come early morning before the heat and the tour groups both arrive.
+If you're combining it with the Alcazaba or Gibralfaro, come early on a weekend morning before the heat and the tour groups both arrive.
 
 ## Beating the crowds without losing the roses
 
-Málaga cruise ships tend to dock mid-morning, and their groups walk this exact corridor between the port and the Alcazaba entrance. Weekend mornings before 9am, or after 4pm on weekdays before the evening paseo crowd, are your gaps.
+Málaga cruise ships tend to dock mid-morning, and their groups walk this exact corridor between the port and the Alcazaba entrance. Weekend mornings from 7am to 8am, or weekdays from 9pm to 11pm after the evening paseo crowd, are your gaps.
 
 It's rated as one of the better-loved green spots in central Málaga without being a locals-only secret; expect Spanish families and tourists mixed evenly on any given afternoon.
 

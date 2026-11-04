@@ -62,7 +62,7 @@ quickAnswer: >-
   Cinque Terre National Park is five cliffside villages — Monterosso, Vernazza,
   Corniglia, Manarola, Riomaggiore — linked by hiking trails, trains and boats
   along Liguria's protected coast. It's open around the clock, but for a calmer
-  visit aim for weekend mornings between 7am and 6pm; avoid the 1pm–11pm weekend
+  visit aim for weekend mornings between 7am and 10am; avoid the 1pm–2pm, 4pm–6pm and 9pm–11pm weekend
   crush. Give it a full day minimum, two if you want to actually walk the
   trails.
 faq:
@@ -79,8 +79,8 @@ faq:
       you go.
   - q: When is the quietest time to visit?
     a: >-
-      On weekends, it stays calm from 7am to 6pm; the crowds build hard between
-      1pm and 11pm as day-trippers pour in, so aim for an early start.
+      On weekends, it stays calm from 7am to 10am; the crowds build hard at
+      1pm–2pm, 4pm–6pm and 9pm–11pm as day-trippers pour in, so aim for an early start.
   - q: How long should I spend in Cinque Terre?
     a: >-
       A single day lets you see two or three villages comfortably by train; two

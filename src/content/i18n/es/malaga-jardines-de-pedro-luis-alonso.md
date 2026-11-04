@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: malaga-jardines-de-pedro-luis-alonso
-srcHash: '8787440fb81b'
+srcHash: 'b4f3a9a43daf'
 title: 'Jardines de Pedro Luis Alonso: Guía de viaje de Málaga (4,5★)'
 description: 'Los Jardines de Pedro Luis Alonso se encuentran junto al Ayuntamiento de Málaga, en el Distrito Centro: un jardín pequeño y formal de setos recortados, rosaledas y un estanque de nenúfares, abierto las 24 horas y de entrada gratuita. 4,5★ (1.457 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'Los Jardines de Pedro Luis Alonso se encuentran junto al Ayuntamiento de Málaga, en el Distrito Centro: un jardín pequeño y formal de setos recortados, rosaledas y un estanque de nenúfares, abierto las 24 horas y de entrada gratuita. El momento más tranquilo es el fin de semana de 7:00 a 8:00 y de 13:00 a 16:00; entre semana, las noches de 21:00 a 23:00 también son tranquilas. Basta con dedicarle entre 15 y 20 minutos de camino hacia la Alcazaba o el puerto.'
@@ -36,11 +36,11 @@ El jardín nunca cierra: permanece abierto las 24 horas todos los días de la se
 - Franja más tranquila entre semana: de 21:00 a 23:00
 - Tramo de más afluencia en fin de semana: de 9:00 a 12:00, de 18:00 a 19:00 y de 20:00 a 22:00, cuando pasan los grupos de cruceros y los visitantes de la Alcazaba
 
-Si piensas combinar la visita con la Alcazaba o el Gibralfaro, ven a primera hora de la mañana, antes de que lleguen el calor y los grupos turísticos.
+Si piensas combinar la visita con la Alcazaba o el Gibralfaro, ven a primera hora de la mañana de un fin de semana, antes de que lleguen el calor y los grupos turísticos.
 
 ## Cómo evitar las aglomeraciones sin perderte las rosas
 
-Los cruceros que atracan en Málaga suelen hacerlo a media mañana, y sus grupos recorren justo este pasillo entre el puerto y la entrada de la Alcazaba. Las mañanas de fin de semana antes de las 9:00, o después de las 16:00 entre semana y antes del paseo vespertino, son los huecos que te convienen.
+Los cruceros que atracan en Málaga suelen hacerlo a media mañana, y sus grupos recorren justo este pasillo entre el puerto y la entrada de la Alcazaba. Las mañanas de fin de semana de 7:00 a 8:00, o entre semana de 21:00 a 23:00, ya pasado el paseo vespertino, son los huecos que te convienen.
 
 Se le considera uno de los rincones verdes más queridos del centro de Málaga, aunque no es ningún secreto reservado a los vecinos: cualquier tarde encontrarás una mezcla equilibrada de familias españolas y turistas.
 

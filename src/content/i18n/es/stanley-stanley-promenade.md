@@ -1,17 +1,17 @@
 ---
 lang: es
 slug: stanley-stanley-promenade
-srcHash: '62163008cf3d'
+srcHash: 'bb9f039aba87'
 title: 'Paseo Marítimo de Stanley: Guía de viaje (4,3★)'
 description: 'El Paseo Marítimo de Stanley es un malecón arbolado frente al mar en Stanley, en la costa sur de Hong Kong, con cafés al aire libre, bancos y vistas de la bahía de Stanley hacia la antigua comisaría de policía y Murray House. 4,3★ (746 reseñas): opiniones de los visitantes, horarios y consejos.'
-quickAnswer: 'El Paseo Marítimo de Stanley es un malecón arbolado frente al mar en Stanley, en la costa sur de Hong Kong, con cafés al aire libre, bancos y vistas de la bahía de Stanley hacia la antigua comisaría de policía y Murray House. Está abierto las 24 horas y nunca se siente abarrotado: los fines de semana se mantiene tranquilo de 7:00 a 17:00, antes de que lleguen las multitudes por la noche. Conviene dedicarle entre 45 minutos y una hora, idealmente combinándolo con el mercado de Stanley y Murray House, que están a pocos pasos.'
+quickAnswer: 'El Paseo Marítimo de Stanley es un malecón arbolado frente al mar en Stanley, en la costa sur de Hong Kong, con cafés al aire libre, bancos y vistas de la bahía de Stanley hacia la antigua comisaría de policía y Murray House. Está abierto las 24 horas y nunca se siente abarrotado: los fines de semana lo más tranquilo es de 7:00 a 8:00 y de 15:00 a 17:00, antes de que lleguen las multitudes por la noche. Conviene dedicarle entre 45 minutos y una hora, idealmente combinándolo con el mercado de Stanley y Murray House, que están a pocos pasos.'
 faq:
   - q: ¿Cómo llego al Paseo Marítimo de Stanley desde el centro de Hong Kong (Central)?
     a: Tome el autobús 6, 6X o 260 desde la terminal de autobuses de Exchange Square, en Central; el trayecto dura entre 30 y 40 minutos según el tráfico. Baje en la terminal de Stanley y camine cuesta abajo unos cinco minutos hasta el paseo marítimo.
   - q: ¿Hay que pagar entrada?
     a: No, el Paseo Marítimo de Stanley es un paseo público y gratuito junto al mar, abierto los 365 días del año, las 24 horas. No se necesita entrada ni reserva.
   - q: ¿Cuál es el momento más tranquilo para visitarlo?
-    a: Los fines de semana, el momento de mayor calma es entre las 7:00 y las 17:00. Después, la afluencia aumenta de forma constante, y el tramo de mayor actividad va de las 8:00 a las 23:00, cuando llegan los excursionistas de un día y los comensales de la noche.
+    a: Los fines de semana, el momento de mayor calma es de 7:00 a 8:00 y de 15:00 a 17:00. Después, la afluencia aumenta de forma constante, y el tramo de mayor actividad va de las 18:00 a las 23:00, cuando llegan los excursionistas de un día y los comensales de la noche, y de 8:00 a 9:00 también hay mucha gente.
   - q: ¿Cuánto tiempo conviene dedicarle al paseo?
     a: Calcule entre 45 minutos y una hora para recorrerlo por completo y sentarse en algún café, más tiempo adicional si después va a continuar hacia el mercado de Stanley o Murray House, ambos cerca de allí.
   - q: ¿Qué más hay cerca del paseo que valga la pena combinar con la visita?
@@ -47,9 +47,9 @@ En el extremo opuesto, el paseo conecta con Stanley Main Street y los puestos cu
 
 ## Cuándo ir
 
-Como está abierto las 24 horas, el horario es flexible, pero la luz y la cantidad de gente cambian mucho a lo largo del día. Por la mañana, la luz sobre el agua es suave y hay mucha menos gente.
+Como está abierto las 24 horas, el horario es flexible, pero la luz y la cantidad de gente cambian mucho a lo largo del día. Por la mañana, la luz sobre el agua es suave y, los fines de semana de 7:00 a 8:00, hay mucha menos gente.
 
-Después, sobre todo hacia el atardecer, el paseo se llena rápidamente: hay que contar con más afluencia a medida que llegan los excursionistas del día y los comensales de la noche. Si busca fotos sin gente en cada encuadre, lo mejor es ir temprano en la mañana entre semana.
+Después, sobre todo hacia el atardecer, el paseo se llena rápidamente: hay que contar con más afluencia a medida que llegan los excursionistas del día y los comensales de la noche. Si busca fotos sin gente en cada encuadre, lo mejor es ir un fin de semana de 7:00 a 8:00.
 
 También vale la pena planear la visita en torno a la puesta de sol: la bahía mira hacia el oeste-suroeste, y la luz sobre el agua a última hora de la tarde tiene un ambiente distinto, más cálido, que el brillo uniforme del mediodía.
 
@@ -61,6 +61,6 @@ Los cafés y bares de la zona suelen aceptar tarjeta y pagos móviles (Octopus, 
 
 Aquí no hay entradas, reservas ni filas: es un espacio público junto al mar, gratuito y abierto las 24 horas. El error más común entre los turistas es ir directo del autobús al mercado, saltándose por completo el lado del agua; conviene recorrer primero el frente de la bahía y, una vez orientado, adentrarse en los callejones del mercado.
 
-Para disfrutar de la versión tranquila de Stanley, conviene llegar antes de las 9:00 un fin de semana, pedir un café y sentarse mirando hacia el agua antes de que lleguen los autobuses con excursionistas. Es recomendable llevar una botella reutilizable propia: hay cafés en el camino, pero en verano la caminata es larga y calurosa sin una a mano.
+Para disfrutar de la versión tranquila de Stanley, conviene llegar entre las 7:00 y las 8:00 un fin de semana, pedir un café y sentarse mirando hacia el agua antes de que lleguen los autobuses con excursionistas. Es recomendable llevar una botella reutilizable propia: hay cafés en el camino, pero en verano la caminata es larga y calurosa sin una a mano.
 
 Se puede combinar la visita con Murray House y el mercado, pero conviene reservar tiempo suficiente para que el paseo no sea solo un pasaje de cinco minutos: una hora completa permite que el lugar respire.

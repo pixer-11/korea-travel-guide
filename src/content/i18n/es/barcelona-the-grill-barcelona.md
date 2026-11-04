@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: barcelona-the-grill-barcelona
-srcHash: '453475b66a61'
+srcHash: '9d0569e13cb6'
 title: 'The Grill: dónde comer en Barcelona (4,8★)'
 description: 'The Grill Barcelona se encuentra justo a los pies del Monumento a Colón, en la Plaça Portal de la Pau, donde La Rambla desemboca en el puerto: un asador mediterráneo de gama media con una valoración de 4,8 basada en más de 3.000 reseñas.'
 quickAnswer: 'The Grill Barcelona se encuentra justo a los pies del Monumento a Colón, en la Plaça Portal de la Pau, donde La Rambla desemboca en el puerto: un asador mediterráneo de gama media con una valoración de 4,8 basada en más de 3.000 reseñas. Conviene ir nada más abrir, a las 10:00, o dejar la cena para después de las 20:00, así se evita la avalancha de fin de semana entre las 13:00 y las 20:00. Para una comida a la parrilla como es debido, hay que reservar entre una hora y hora y media.'
@@ -9,7 +9,7 @@ faq:
   - q: ¿Cómo se llega a The Grill Barcelona?
     a: En metro hasta Drassanes (L3), a dos minutos a pie bajando La Rambla hacia el puerto, o caminando desde Barceloneta (L4), unos 10-15 minutos por el paseo marítimo.
   - q: ¿Cuál es el momento más tranquilo para ir?
-    a: La afluencia es menor durante el tramo general de 10:00 a 23:00, tanto entre semana como los fines de semana; conviene evitar el horario de 13:00 a 20:00 los sábados y domingos, que es cuando se prevé la mayor afluencia.
+    a: La afluencia es menor de 10:00 a 12:00 y de 21:00 a 23:00 entre semana, y de 10:00 a 11:00 y de 21:00 a 23:00 los fines de semana; conviene evitar el horario de 13:00 a 20:00 los sábados y domingos, que es cuando se prevé la mayor afluencia.
   - q: ¿Hace falta reserva?
     a: No es estrictamente necesaria, pero con una valoración de 4,8 y mucha afluencia los fines de semana, es más seguro reservar con antelación o llegar justo a la apertura, a las 10:00, que presentarse sin avisar en las horas punta de la tarde.
   - q: ¿Cuánto cuesta comer aquí?
@@ -47,7 +47,7 @@ Si se viene desde el lado de la playa, la estación de Barceloneta (L4) queda a 
 
 El restaurante abre a diario en un horario amplio, desde las 10:00. Cierra a las 23:00 de lunes a jueves, y amplía hasta la medianoche de viernes a domingo.
 
-Los fines de semana se llena rápido: la afluencia prevista alcanza su punto máximo entre las 13:00 y las 20:00 los sábados y domingos, justo cuando los cruceros y los turistas de un día inundan La Rambla. Los tramos tranquilos, tanto entre semana como en fin de semana, se dan en el resto de la franja de 10:00 a 23:00, fuera de ese pico vespertino.
+Los fines de semana se llena rápido: la afluencia prevista alcanza su punto máximo entre las 13:00 y las 20:00 los sábados y domingos, justo cuando los cruceros y los turistas de un día inundan La Rambla. Los tramos tranquilos van de 10:00 a 12:00 y de 21:00 a 23:00 entre semana, y de 10:00 a 11:00 y de 21:00 a 23:00 en fin de semana.
 
 En la práctica, esto significa que conviene ir a desayunar tarde o a comer temprano justo a la apertura, o bien retrasar la cena hasta después de las 20:00, cuando la plaza empieza a vaciarse.
 

@@ -59,12 +59,12 @@ place:
 tags:
   - amalfi coast
   - museum
-quickAnswer: Villa Rufolo sits right on Ravello's Piazza Duomo, a 13th-century Moorish-influenced villa whose terraced gardens frame one of the most photographed sea views on the Amalfi Coast. Set aside 45–60 minutes to wander the towers, cloister and belvedere. Crowds thin out before 9am and stay lighter into early morning and evening; weekends between noon and 5pm are the busiest stretch, so aim either side of that window.
+quickAnswer: Villa Rufolo sits right on Ravello's Piazza Duomo, a 13th-century Moorish-influenced villa whose terraced gardens frame one of the most photographed sea views on the Amalfi Coast. Set aside 45–60 minutes to wander the towers, cloister and belvedere. Crowds are thinnest from 9am to 11am and again in the evening (from 6pm on weekdays, 7pm on weekends); weekends between noon and 5pm are the busiest stretch, so aim either side of that window.
 faq:
   - q: How long should I spend at Villa Rufolo?
     a: Most visitors need 45 minutes to an hour to walk the cloister, tower and terraced gardens down to the belvedere overlook.
   - q: When is the quietest time to visit?
-    a: Both on weekdays and weekends, the calmer hours run from 9am to 8pm generally; the sharpest crowding hits on weekends between 12pm and 5pm, so book either side of that if you can.
+    a: Both on weekdays and weekends, the calmer hours run from 9am to 11am and again in the evening (6pm to 8pm on weekdays, 7pm to 8pm on weekends); the sharpest crowding hits on weekends between 12pm and 5pm, so book either side of that if you can.
   - q: How do I get to Villa Rufolo without a car?
     a: Take a SITA bus or taxi up to Ravello from Amalfi or Minori (about 25–30 minutes); the villa entrance is right on Piazza Duomo beside Ravello's cathedral.
   - q: Is Villa Rufolo worth combining with anything else in Ravello?
@@ -100,7 +100,7 @@ However you arrive, Villa Rufolo's entrance faces directly onto the piazza, next
 
 ## When to go
 
-Spring and early summer bring the gardens into full bloom, and the Ravello Festival (roughly June through September) turns the belvedere into a concert stage with orchestras performing against the sea view, worth timing a visit around if you can get tickets. Based on typical visitor patterns, the calmest hours to walk the gardens are between 9am and 8pm, both on weekdays and weekends, while the crush really builds on weekends between noon and 5pm, when day-trippers from Amalfi and Positano arrive en masse.
+Spring and early summer bring the gardens into full bloom, and the Ravello Festival (roughly June through September) turns the belvedere into a concert stage with orchestras performing against the sea view, worth timing a visit around if you can get tickets. Based on typical visitor patterns, the calmest hours to walk the gardens are between 9am and 11am and in the evening (6pm to 8pm on weekdays, 7pm to 8pm on weekends), while the crush really builds on weekends between noon and 5pm, when day-trippers from Amalfi and Positano arrive en masse.
 
 If you're coming on a Saturday or Sunday, get there before noon or wait until after 5pm for a far more relaxed pace through the cloister and terraces.
 

@@ -51,14 +51,14 @@ place:
 tags:
   - central
   - local market
-quickAnswer: Graham Street Market is a working street market strung along Graham Street and Gage Street in Sheung Wan/Central, open daily 8am–6pm. Go for the produce stalls, wet-market butchers, and dried-goods shops rather than a checklist of sights — weekends are calmer from 10am onward, while 8am–1pm draws the heaviest crowds. Budget 30–45 minutes, and pair it with a wander into nearby Tai Ping Shan Street.
+quickAnswer: Graham Street Market is a working street market strung along Graham Street and Gage Street in Sheung Wan/Central, open daily 8am–6pm. Go for the produce stalls, wet-market butchers, and dried-goods shops rather than a checklist of sights — weekends are calmer at 1pm–2pm and 3pm–6pm, while 8am–1pm draws the heaviest crowds. Budget 30–45 minutes, and pair it with a wander into nearby Tai Ping Shan Street.
 faq:
   - q: How do I get to Graham Street Market?
     a: Take MTR Sheung Wan Station, Exit A2, and walk uphill about 5 minutes, or use Central Station Exit D2 via Queen's Road Central.
   - q: What are the opening hours?
     a: It's open daily from 8:00 AM to 6:00 PM, with no midday closure.
   - q: When is the quietest time to visit?
-    a: Weekends from 10am to 6pm are noticeably calmer; try to avoid 8am–1pm on weekends, which is the busiest stretch.
+    a: Weekends from 1pm to 2pm and 3pm to 6pm are noticeably calmer; try to avoid 8am–1pm on weekends, which is the busiest stretch.
   - q: How long should I spend there?
     a: Most visitors spend 30–45 minutes walking the stalls; longer if you stop to eat or shop for dried goods.
   - q: What's nearby worth combining with a visit?
@@ -94,7 +94,7 @@ At the Gage Street end, you'll find some of the older surviving stalls, a good a
 
 The market runs 8am to 6pm every day of the week, so there's no early or late scramble to worry about. On weekends, the busiest stretch is 8am to 1pm, when local shoppers do their main grocery run. Expect narrow lanes to bottleneck around the produce stalls.
 
-If you'd rather move at your own pace, aim for 10am to 6pm on a weekend, which is noticeably calmer. Weekday mornings tend to have a steadier, less frantic rhythm than weekend peak hours, though it's still a working market, not a museum. There's no "closed" hour where it goes quiet.
+If you'd rather move at your own pace, aim for 1pm to 2pm or 3pm to 6pm on a weekend, which is noticeably calmer. Weekday mornings tend to have a steadier, less frantic rhythm than weekend peak hours, though it's still a working market, not a museum. There's no "closed" hour where it goes quiet.
 
 ## How to visit like a local
 

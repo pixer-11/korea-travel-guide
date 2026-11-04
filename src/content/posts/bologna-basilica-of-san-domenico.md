@@ -57,9 +57,9 @@ tags:
   - hidden gem
 quickAnswer: >-
   The Basilica of San Domenico sits a 12-minute walk south of Piazza Maggiore,
-  in the university quarter near Bologna's old city walls. It's calm essentially
-  all day, both weekdays and weekends, from 7:30am to 1pm and 3:30pm to 8pm —
-  the one window to avoid is 4pm–6pm on weekends, when tour groups cluster
+  in the university quarter near Bologna's old city walls. It's open 7:30am to 1pm and 3:30pm to 8pm;
+  weekends are calmest 8am–10am and 7pm–8pm, while the forecast flags no standout quiet hour on weekdays —
+  the windows to avoid are 4pm–6pm daily and 9am–1pm on weekdays, when tour groups cluster
   around the Arca di San Domenico. Budget 45 minutes to an hour, and it costs
   nothing to step inside.
 faq:
@@ -75,9 +75,9 @@ faq:
       customary but optional.
   - q: When is the quietest time to visit?
     a: >-
-      The church stays calm from 7:30am to 1pm and again from 3:30pm to 8pm, its
-      regular hours, on both weekdays and weekends. Try to avoid 4pm–6pm on
-      weekends, when tour groups tend to gather around the Arca di San Domenico.
+      Within its regular hours (7:30am to 1pm and 3:30pm to 8pm), the church is calmest
+      from 8am to 10am and 7pm to 8pm on weekends; on weekdays the forecast flags no standout quiet hour and 9am–1pm is busy. Try to avoid 4pm–6pm on
+      any day, when tour groups tend to gather around the Arca di San Domenico.
   - q: How long should I spend there?
     a: >-
       45 minutes to an hour is enough to see the Arca di San Domenico,
@@ -113,10 +113,10 @@ Plan on 45 minutes to an hour: enough time to circle the Arca di San Domenico sl
 
 ## When to go
 
-Foot-traffic patterns here are unusually forgiving: the church stays generally quiet on both weekdays and weekends. The one stretch worth planning around is 4pm to 6pm on weekends, when coach groups and day-trippers tend to bunch up around the tomb. Arrive in the morning or mid-afternoon on a weekday and you may well have the Arca almost to yourself.
+Foot-traffic patterns here are most forgiving on weekends, which are calmest from 8am to 10am and 7pm to 8pm. On weekdays the forecast flags no standout quiet hour, so come at the 7:30am opening, before the 9am to 1pm busy stretch. The stretch worth planning around is 4pm to 6pm on any day, when coach groups and day-trippers tend to bunch up around the tomb. Arrive between 8am and 10am or after 7pm on a weekend and you may well have the Arca almost to yourself.
 
 ## How to visit like a local
 
 Dress and behave as you would for any working Catholic church, shoulders and knees covered, phones silenced, voices low, especially if a mass is underway. There's no ticket or booking system; you simply walk in through the main entrance on the piazza. Entry is free, so there's no queue to plan around, but do carry a small coin or two for the offering boxes near the chapels, a customary courtesy rather than an obligation.
 
-This is a well-known stop on Bologna's art trail, not a secret, so the smart move isn't seeking solitude by luck but by timing, come outside that 4–6pm weekend window and you'll dodge the worst of the crowds entirely. Afterward, take five extra minutes to loop around the piazza itself; the porticoes here are original medieval work, less restored and more atmospheric than the showier ones near the two towers.
+This is a well-known stop on Bologna's art trail, not a secret, so the smart move isn't seeking solitude by luck but by timing, come outside the 4–6pm window (and 9am–1pm on weekdays) and you'll dodge the worst of the crowds entirely. Afterward, take five extra minutes to loop around the piazza itself; the porticoes here are original medieval work, less restored and more atmospheric than the showier ones near the two towers.

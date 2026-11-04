@@ -79,7 +79,7 @@ tags:
 quickAnswer: >-
   MERCI MARCEL ORCHARD is a French all-day café-restaurant tucked into Palais
   Renaissance at 390 Orchard Road, a short walk from Orchard MRT (Exits A or E).
-  Go for weekday lunch or an early weeknight dinner to avoid the wait, expect
+  Go for a weekday breakfast or a late weeknight dinner to avoid the wait, expect
   mid-range pricing for the city, and budget 1–1.5 hours for a proper meal. It's
   a well-known, well-reviewed spot (4.7 stars, 4,000+ reviews) rather than a
   hidden find, so book ahead or arrive right at opening.
@@ -95,9 +95,9 @@ faq:
       menu prices on-site since they can shift.
   - q: Do I need a reservation?
     a: >-
-      It's not essential on quiet weekday afternoons, but booking ahead is
-      strongly recommended for weekend brunch (11am–2pm) and Friday/Saturday
-      dinner, when it's busiest.
+      It's not essential at a quiet weekday breakfast, but booking ahead is
+      strongly recommended for weekend brunch (11am–2pm), when it's busiest, and for Friday/Saturday
+      dinner.
   - q: How long should I plan to stay?
     a: >-
       Budget 1 to 1.5 hours for a full lunch or dinner; a coffee-and-pastry
@@ -127,11 +127,11 @@ Expect a French bistro-meets-café menu: think eggs Benedict and granola bowls f
 
 ## When to go
 
-Weekday lunch (roughly 12–2pm) and mid-afternoon are the calmest windows; weekend brunch, especially Saturday and Sunday between 11am and 2pm, draws the heaviest crowds because of the all-day breakfast menu. Evenings pick up after 7pm as shoppers finish up on Orchard Road. If you want the terrace-style seating that spills toward the mall's open-air corridor, arriving right at opening gives the best shot at grabbing it before it fills.
+Weekday breakfast (roughly 8–9am) and late weeknights from 9pm to 10pm (11pm Wednesday to Friday) are the calmest windows; weekend brunch, especially Saturday and Sunday between 11am and 2pm, draws the heaviest crowds because of the all-day breakfast menu. Weekend evenings from 6pm to 11pm (10pm on Sundays) are calm too, once shoppers finish up on Orchard Road. If you want the terrace-style seating that spills toward the mall's open-air corridor, arriving right at opening gives the best shot at grabbing it before it fills.
 
 ## How to visit like a local
 
-This is a well-known, high-traffic address rather than an under-the-radar find, so the practical local move is timing, not secrecy. Regulars aiming for a relaxed meal avoid the Saturday/Sunday 11am–2pm brunch crush and instead go on a weekday, or eat dinner early (around 6–6:30pm) before the after-work and post-shopping wave arrives. Reservations are advisable for weekend brunch and Friday/Saturday dinner. Walk-ins during peak hours often face a genuine wait rather than a quick seating.
+This is a well-known, high-traffic address rather than an under-the-radar find, so the practical local move is timing, not secrecy. Regulars aiming for a relaxed meal avoid the Saturday/Sunday 11am–2pm brunch crush and instead go on a weekday, or time dinner for after 9pm on weeknights or from 6pm on weekends, once the daytime rush has passed. Reservations are advisable for weekend brunch and Friday/Saturday dinner. Walk-ins during peak hours often face a genuine wait rather than a quick seating.
 
 Payment is overwhelmingly cashless in this part of Singapore: card and mobile payment (PayNow, Apple/Google Pay) are standard, and tipping isn't customary or expected since a service charge is typically already applied to the bill. Check before adding extra. If you're just passing through Palais Renaissance rather than making it a destination, the counter/café side works for a quick coffee and pastry without committing to a full table service meal.
 

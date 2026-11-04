@@ -58,7 +58,7 @@ place:
 tags:
   - "wan chai"
   - "historic site"
-quickAnswer: "Wan Chai Pak Tai Temple sits on Lung On Street in Wan Chai, a few minutes' walk from Tin Hau MTR exit, and it's open daily from 8am to 5pm. It's quietest between 8am and 10am on both weekdays and weekends, so an early visit gets you the incense smoke and quiet courtyard without the 11am to 4pm crowds. Plan on 20 to 30 minutes unless you linger to watch the temple keepers at work."
+quickAnswer: "Wan Chai Pak Tai Temple sits on Lung On Street in Wan Chai, a few minutes' walk from Tin Hau MTR exit, and it's open daily from 8am to 5pm. It's quietest between 8am and 10am on both weekdays and weekends, so an early visit gets you the incense smoke and quiet courtyard without the 2pm to 4pm weekday crowds or the 11am to 4pm weekend ones. Plan on 20 to 30 minutes unless you linger to watch the temple keepers at work."
 faq:
   - q: "How do I get to Wan Chai Pak Tai Temple?"
     a: "It's on Lung On Street, about an 8 to 10 minute walk from Wan Chai MTR station, or a short walk from the Tin Hau tram stop on Queen's Road East."

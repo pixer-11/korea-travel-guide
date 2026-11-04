@@ -1,13 +1,13 @@
 ---
 lang: es
 slug: london-borough-market
-srcHash: '81a3903fd03d'
+srcHash: 'ab099fd26eb3'
 title: 'Borough Market: dónde comer en Londres (4.6★)'
 description: Bajo los viaductos ferroviarios contiguos a la estación de London Bridge, en Southwark (SE1 9AH), se encuentra Borough Market, el mercado gastronómico más conocido de Londres. Con 4.6★ (131,361 reseñas), repasamos qué opinan los visitantes, su horario y algunos consejos.
-quickAnswer: Borough Market, el mercado gastronómico más conocido de Londres, ocupa el espacio bajo los viaductos ferroviarios contiguos a la estación de London Bridge, en Southwark (SE1 9AH). Abre de martes a domingo y cierra los lunes. La mayoría de la gente come de pie lo que compra en los puestos de comida caliente. Lo ideal es ir una mañana entre semana. El fin de semana conviene evitar la franja de 11am–5pm; si no queda otro remedio, la hora más tranquila es el sábado de 4pm–5pm.
+quickAnswer: Borough Market, el mercado gastronómico más conocido de Londres, ocupa el espacio bajo los viaductos ferroviarios contiguos a la estación de London Bridge, en Southwark (SE1 9AH). Abre de martes a domingo y cierra los lunes. La mayoría de la gente come de pie lo que compra en los puestos de comida caliente. Lo ideal es ir una mañana entre semana. El fin de semana conviene evitar la franja de 11am–5pm; si no queda otro remedio, la previsión no marca ninguna franja tranquila, así que llegue el sábado a la apertura de las 9am.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar Borough Market?
-    a: En fin de semana, la franja más tranquila va de 4pm–5pm. Solo sirve para el sábado, ya que el domingo el mercado cierra a las 4pm. Las horas de mayor afluencia del fin de semana son de 11am–5pm, así que es mejor evitarlas. Para recorrerlo con calma, lo más fácil suele ser ir una mañana entre semana, poco después de la apertura de las 10am.
+    a: En fin de semana, la previsión no marca ninguna franja tranquila; lo mejor es llegar el sábado a la apertura de las 9am, porque ese día abre antes. Las horas de mayor afluencia del fin de semana son de 11am–5pm, así que es mejor evitarlas. Para recorrerlo con calma, lo más fácil suele ser ir una mañana entre semana, poco después de la apertura de las 10am.
   - q: ¿Abre Borough Market los lunes?
     a: No, los lunes permanece cerrado. De martes a viernes abre de 10am–5pm; el sábado, de 9am–5pm, y el domingo, de 10am–4pm.
   - q: ¿Cuál es la estación de metro más cercana a Borough Market?
@@ -41,7 +41,7 @@ Para el café, la tienda de Monmouth Coffee, en un extremo del mercado, lleva a�
 
 Importa más el día que la hora. Borough Market cierra los lunes. De martes a viernes abre de 10am a 5pm; el sábado, de 9am a 5pm, y el domingo, de 10am a 4pm.
 
-Los fines de semana resultan agotadores. Procure no llegar entre las 11am y las 5pm en esos días: es la franja de más gente y por las estrechas callejuelas apenas se avanza arrastrando los pies. El momento más tranquilo del fin de semana va de 4pm–5pm, aunque solo sirve para el sábado, porque el domingo se cierra a las 4pm.
+Los fines de semana resultan agotadores. Procure no llegar entre las 11am y las 5pm en esos días: es la franja de más gente y por las estrechas callejuelas apenas se avanza arrastrando los pies. Para el fin de semana, la previsión no marca ninguna franja tranquila, así que lo mejor es llegar el sábado a la apertura de las 9am, antes de que empiece la franja concurrida.
 
 El inconveniente de llegar tarde es que algunos comerciantes ya han agotado sus productos o empiezan a recoger, de modo que habrá menos donde elegir. Entre semana resulta más sencillo. Si llega hacia la apertura de las 10am, normalmente se adelantará a la avalancha de oficinistas de London Bridge a la hora de comer. Calcule entre una y dos horas.
 

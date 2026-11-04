@@ -56,7 +56,7 @@ tags:
 quickAnswer: >-
   Wat Phra Kaew, inside the Grand Palace complex in Bangkok's Rattanakosin
   Island old town, is open daily 8:30am–3:30pm and is best tackled right at
-  opening. Arrive between 8:30am and 9:30am — the forecast's quietest window on
+  opening. Arrive between 8:30am and 9:30am — before the forecast's busy hours on
   both weekdays and weekends — because by 10am to noon on weekends tour buses
   stack up and the ticket queue snakes along Na Phra Lan Road. Budget two to
   three hours, dress with shoulders and knees covered, and go by river ferry to
@@ -68,7 +68,7 @@ faq:
       check for occasional closures on royal ceremony days before you go.
   - q: When is the quietest time to visit?
     a: >-
-      Between 8:30am and 9:30am, both on weekdays and weekends. Weekends get
+      The forecast flags no standout quiet hour, so arrive between 8:30am and 9:30am, both on weekdays and weekends. Weekends get
       busiest from 10am to noon, so aim to be inside before then.
   - q: How do I get there without a car?
     a: >-
@@ -108,7 +108,7 @@ Look for Phra Si Rattana Chedi, the golden bell-shaped stupa said to enshrine a 
 
 ## When to go
 
-The complex is open daily, with last entry generally enforced well before closing, so this is a morning-to-early-afternoon visit, not a late-day one. Cover the site in two to three hours. Weekday mornings between 8:30am and 9:30am are consistently the quietest slot, and that same 8:30–9:30am window holds true on weekends too, worth prioritizing if a weekend is your only option, since traffic builds fast and 10am to noon on Saturdays and Sundays is the peak crush you want to avoid.
+The complex is open daily, with last entry generally enforced well before closing, so this is a morning-to-early-afternoon visit, not a late-day one. Cover the site in two to three hours. The forecast flags no standout quiet hour, but weekday mornings between 8:30am and 9:30am come before the busy hour of 11am to noon, and that same 8:30–9:30am window holds true on weekends too, worth prioritizing if a weekend is your only option, since traffic builds fast and 10am to noon on Saturdays and Sundays is the peak crush you want to avoid.
 
 Bangkok's cooler, drier months from November through February make the shadeless courtyards more bearable; by midday in April or May the reflective tile work turns the plazas into a furnace.
 

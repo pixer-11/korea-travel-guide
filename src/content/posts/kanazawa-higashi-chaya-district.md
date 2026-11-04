@@ -101,7 +101,7 @@ faq:
       to go inside.
   - q: When is the quietest time to visit?
     a: >-
-      Foot traffic is calmest from 7am to 11pm on both weekdays and weekends.
+      Foot traffic is calmest from 7am to 8am and again late in the evening, 8pm to 11pm on weekdays and 9pm to 11pm on weekends.
       For the emptiest streets, aim for right around 7am; avoid 10am–6pm on
       weekends, which is the busiest window.
   - q: How long should I spend here?
@@ -149,9 +149,9 @@ A taxi from the station costs a bit more but skips any bus-timing guesswork. Eit
 
 The district is outdoors and unticketed, so it's technically accessible 24 hours a day, every day. That doesn't mean every hour is equal.
 
-Foot traffic data shows things stay calm from 7am to 11pm on both weekdays and weekends, but weekends between 10am and 6pm are when tour buses and day-trippers fill the main lane shoulder to shoulder. If you want photos of the empty lattice-fronted street, avoid that window entirely.
+Foot traffic data shows things stay calm from 7am to 8am and again from 8pm to 11pm on weekdays (9pm to 11pm on weekends), but weekends between 10am and 6pm are when tour buses and day-trippers fill the main lane shoulder to shoulder. If you want photos of the empty lattice-fronted street, avoid that window entirely.
 
-Early morning, especially before 9am, gives you soft light on the dark wood facades and almost nobody else around. Evening after the shops close down brings a quieter, moodier version of the same streets, with lanterns lit outside a few teahouses.
+Early morning, especially around 7am, gives you soft light on the dark wood facades and almost nobody else around. Evening after the shops close down brings a quieter, moodier version of the same streets, with lanterns lit outside a few teahouses.
 
 ## How to visit like a local
 

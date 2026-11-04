@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: central-central-mid-levels-escalators
-srcHash: '3ad8fe10d7f9'
+srcHash: 'f20a211e2f0f'
 title: 'Escaleras Mecánicas Central-Mid-Levels: Guía de Viaje (4.1★)'
 description: 'Las Escaleras Mecánicas Central-Mid-Levels son el sistema de escaleras mecánicas cubiertas al aire libre más largo del mundo: 800 metros de escaleras y pasillos rodantes que suben desde Central, atraviesan Soho y llegan hasta Mid-Levels. 4.1★ (10,425 reseñas) — lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'Las Escaleras Mecánicas Central-Mid-Levels son el sistema de escaleras mecánicas cubiertas al aire libre más largo del mundo: 800 metros de escaleras y pasillos rodantes que suben desde Central, atraviesan Soho y llegan hasta Mid-Levels. Funcionan cuesta abajo de 6 a 10 a. m. y cuesta arriba de 10:20 a. m. a medianoche, son gratuitas y el recorrido completo dura unos 20 minutos. Los fines de semana de 10 a. m. a 8 p. m. concentran la mayor afluencia, así que un paseo temprano por la mañana o por la noche resulta más tranquilo.'
@@ -11,7 +11,7 @@ faq:
   - q: ¿En qué dirección funcionan las escaleras mecánicas?
     a: Bajan aproximadamente de 6 a 10 a. m. para el desplazamiento matutino, y luego suben desde cerca de las 10:20 a. m. hasta medianoche.
   - q: ¿Cuál es el momento más tranquilo para visitarlas?
-    a: Tanto entre semana como los fines de semana, el ambiente es más tranquilo de aproximadamente 7 a. m. a 11 p. m.; evita los fines de semana entre las 10 a. m. y las 8 p. m., cuando las multitudes alcanzan su punto máximo en las entradas y los puntos de fotos.
+    a: Entre semana, el ambiente es más tranquilo de aproximadamente 7 a 8 a. m. y de 9 a 11 p. m., y los fines de semana de 7 a 9 a. m. y de 10 a 11 p. m.; evita los fines de semana entre las 10 a. m. y las 8 p. m., cuando las multitudes alcanzan su punto máximo en las entradas y los puntos de fotos.
   - q: ¿Cuánto dura el recorrido completo?
     a: Unos 20 minutos de extremo a extremo sin detenerse, pero calcula una o dos horas si quieres explorar Soho, el Man Mo Temple o Central Market en el camino.
   - q: ¿Qué hay cerca que valga la pena visitar?
@@ -49,7 +49,7 @@ Cada tramo de escalera es corto, así que puedes bajarte en cualquier parada par
 
 Las escaleras funcionan de 6 a. m. a medianoche todos los días, pero el sentido cambia a lo largo del día: por la mañana funcionan cuesta abajo para el desplazamiento hacia Central y luego cambian a cuesta arriba durante el resto del día y la noche.
 
-Los fines de semana entre las 10 a. m. y las 8 p. m. son el tramo más concurrido, con visitantes aglomerándose en los puntos de fotos y las entradas. Fuera de ese horario, tanto entre semana como los fines de semana, el ambiente es notablemente más tranquilo.
+Los fines de semana entre las 10 a. m. y las 8 p. m. son el tramo más concurrido, con visitantes aglomerándose en los puntos de fotos y las entradas. Fuera de ese horario y del pico entre semana de 11 a. m. a 3 p. m., el ambiente es notablemente más tranquilo tanto entre semana como los fines de semana.
 
 Si buscas el sistema casi vacío, súbete temprano por la mañana o después de la cena, cuando los letreros de neón sobre Wing Wah Lane ya están encendidos pero las multitudes han disminuido.
 
@@ -57,7 +57,7 @@ Si buscas el sistema casi vacío, súbete temprano por la mañana o después de 
 
 Los locales no "visitan" las escaleras: las usan para ir al trabajo, y esa es la actitud que conviene adoptar. Colócate a la derecha si no vas a caminar, deja pasar a la gente por la izquierda, la misma etiqueta que en cualquier escalera mecánica de la ciudad.
 
-No hay tarifa ni torniquete; simplemente subes. Como es una ruta de trabajo activa, evita bloquear las entradas para hacer fotos durante la hora punta matutina de bajada, antes de las 10 a. m.
+No hay tarifa ni torniquete; simplemente subes. Como es una ruta de trabajo activa, evita bloquear las entradas para hacer fotos durante el horario matutino de bajada, antes de las 10 a. m.
 
 El mayor error de los visitantes es recorrerla una sola vez, de arriba a abajo, y darla por vista. Los locales la usan como una columna vertebral que conecta barrios: bájate en Hollywood Road para ver las tiendas de antigüedades, o en Elgin Street para tomar un café, y luego retoma el recorrido más arriba.
 

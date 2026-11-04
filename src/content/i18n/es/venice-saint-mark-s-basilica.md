@@ -1,15 +1,15 @@
 ---
 lang: es
 slug: venice-saint-mark-s-basilica
-srcHash: '613a99c63b97'
+srcHash: 'cc1d73f316f3'
 title: 'Basílica de San Marcos: guía de viaje de Venecia (4.7★)'
 description: En el extremo oriental de la plaza de San Marcos (Piazza San Marco) se alza la gran catedral bizantina de Venecia, con sus cinco cúpulas, una fachada de mármoles y bronces expoliados y un interior revestido de mosaicos dorados. Con una valoración de 4.7★ (29,559 reseñas), aquí encontrará qué opinan los visitantes, los horarios y consejos prácticos.
-quickAnswer: 'En el extremo oriental de la plaza de San Marcos (Piazza San Marco) se alza la Basílica de San Marcos, la gran catedral bizantina de Venecia. Tiene cinco cúpulas, una fachada de mármoles y bronces expoliados y un interior revestido por completo de mosaicos dorados. Lo ideal es llegar justo a la hora de apertura o a primera hora de la tarde: a partir del mediodía la afluencia no deja de crecer y los fines de semana alcanza su máximo entre las 12pm y las 3pm. La entrada a la iglesia es gratuita, aunque conviene reservar algo más de tiempo y un pequeño presupuesto para la Loggia dei Cavalli, la Pala d''Oro y el Tesoro.'
+quickAnswer: 'En el extremo oriental de la plaza de San Marcos (Piazza San Marco) se alza la Basílica de San Marcos, la gran catedral bizantina de Venecia. Tiene cinco cúpulas, una fachada de mármoles y bronces expoliados y un interior revestido por completo de mosaicos dorados. Lo ideal es llegar justo a la hora de apertura (de lunes a sábado) o entre las 4pm y las 5pm, la franja más tranquila: a partir del mediodía la afluencia no deja de crecer y alcanza su máximo entre las 12pm y las 3pm (los domingos, entre las 2pm y las 3pm). La entrada a la iglesia es gratuita, aunque conviene reservar algo más de tiempo y un pequeño presupuesto para la Loggia dei Cavalli, la Pala d''Oro y el Tesoro.'
 faq:
   - q: ¿Hay que pagar para entrar en la Basílica de San Marcos?
     a: La entrada a la iglesia principal es gratuita. En cambio, la Pala d'Oro (el retablo de oro del altar), el Tesoro y el Museo di San Marco, que da acceso a la Loggia dei Cavalli, tienen cada uno su propia entrada, de precio reducido.
   - q: ¿Cuál es el momento más tranquilo para visitarla?
-    a: Según los datos de afluencia, la franja tranquila va de 9:30am a 5:15pm entre semana y los sábados, y de 2pm a 5:15pm los domingos, día en que la basílica abre más tarde. El único tramo que conviene evitar es el de 12pm–3pm los fines de semana, cuando la plaza se llena de grupos organizados.
+    a: Según la previsión de afluencia, la franja más tranquila va de 4pm a 5pm todos los días, también los domingos, día en que la basílica abre más tarde. El tramo que conviene evitar es el de 12pm–3pm entre semana y los sábados, y el de 2pm–3pm los domingos, cuando la plaza se llena de grupos organizados.
   - q: ¿Cómo se llega a la basílica si no hay metro?
     a: Venecia no tiene metro. Puede tomar las líneas 1 o 2 del vaporetto hasta San Marco-Vallaresso o San Zaccaria, ambas a un corto paseo, o bien caminar unos 15-20 minutos desde el Puente de Rialto atravesando las Mercerie.
   - q: ¿Cuánto tiempo conviene dedicar a la visita?
@@ -42,9 +42,9 @@ La tercera es el Tesoro, que guarda relicarios bizantinos y piezas de plata que 
 
 La basílica solo abre la iglesia a los visitantes cuando termina la misa de la mañana, y cierra antes de lo que cabría esperar en un monumento de esta categoría. Por eso conviene plantear la visita entre media mañana y media tarde, y no como la primera o la última parada del día. Antes de ir, consulte el horario vigente en la web oficial de la basílica, ya que varía según el calendario litúrgico.
 
-Según la afluencia habitual, la franja más tranquila va de 9:30am a 5:15pm entre semana y los sábados, y de 2pm a 5:15pm los domingos. Dicho de otro modo, la afluencia se mantiene bastante uniforme durante todo el horario de apertura. El único tramo que conviene evitar a toda costa es el de 12pm–3pm los fines de semana, cuando los grupos organizados se concentran en la plaza entre la comida y media tarde.
+Según la afluencia habitual, la franja más tranquila va de 4pm a 5pm entre semana y los sábados, y también los domingos. Dicho de otro modo, el final de la tarde es la mejor opción. El tramo que conviene evitar a toda costa es el de 12pm–3pm entre semana y los sábados, y el de 2pm–3pm los domingos, cuando los grupos organizados se concentran en la plaza entre la comida y media tarde.
 
-Si quiere contemplar los mosaicos sin una muralla de espaldas por delante, procure entrar durante la primera hora tras la apertura.
+Si quiere contemplar los mosaicos sin una muralla de espaldas por delante, procure entrar durante la primera hora tras la apertura, de lunes a sábado.
 
 ## Cómo visitarla como un veneciano
 

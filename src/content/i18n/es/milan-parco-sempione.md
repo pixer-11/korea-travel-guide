@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: milan-parco-sempione
-srcHash: '011698c5d9fb'
+srcHash: 'dd77d1ff3d2a'
 title: 'Parco Sempione: guía de viaje de Milán (4,6★)'
 description: 'El Parco Sempione se extiende detrás del Castillo Sforzesco, en pleno centro de Milán, abierto todos los días de 6:30 a medianoche y con entrada gratuita. 4,6★ (85.956 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Parco Sempione se extiende detrás del Castillo Sforzesco, en pleno centro de Milán, abierto todos los días de 6:30 a medianoche y con entrada gratuita. Es el parque más grande y más visitado de la ciudad, por lo que los fines de semana entre las 11:00 y las 21:00 se llena rápidamente; conviene ir antes de las 11:00 o después de las 21:00 para encontrar espacio libre en el césped. Calcule entre 1 y 2 horas para un recorrido que pase por el Arco della Pace y la Torre Branca.
@@ -9,7 +9,7 @@ faq:
   - q: ¿Cuál es el horario del Parco Sempione?
     a: Abre todos los días, de 6:30 a medianoche, sin ningún día de cierre.
   - q: ¿Cuál es el mejor momento para visitarlo con menos gente?
-    a: Tanto entre semana como los fines de semana, el horario más tranquilo va de las 7:00 a las 23:00; las aglomeraciones se concentran específicamente en la franja de 11:00 a 21:00 los fines de semana, así que temprano por la mañana o después de las 21:00 es la mejor opción para encontrar espacio libre.
+    a: Tanto entre semana como los fines de semana, el horario más tranquilo va de las 7:00 a las 9:00 y de las 21:00 a las 23:00; las aglomeraciones se concentran específicamente en la franja de 11:00 a 21:00 los fines de semana, así que temprano por la mañana o después de las 21:00 es la mejor opción para encontrar espacio libre.
   - q: ¿Se paga entrada?
     a: No, el parque en sí es gratuito. La Torre Branca, el Acuario Cívico y el museo Triennale, que se encuentran dentro, cobran cada uno su propia entrada.
   - q: ¿Cómo se llega al Parco Sempione en metro?
@@ -38,7 +38,7 @@ Caminos pavimentados recorren todo el parque en bucle, así que dar la vuelta co
 
 El parque abre de 6:30 a medianoche todos los días, uno de los horarios más amplios entre los parques de Milán, lo que permite tanto a los madrugadores que salen a correr como a quienes pasean hasta tarde disfrutar de acceso completo. Aquí los patrones de afluencia son marcados: los fines de semana, entre las 11:00 y las 21:00, se concentra el mayor tránsito de gente, con familias, grupos turísticos que llegan desde el castillo y grupos de pícnic que ocupan el césped cerca del lago.
 
-Tanto en días laborables como en fines de semana, las mañanas a partir de las 7:00 se mantienen notablemente más tranquilas, y esa calma se prolonga hasta bien entrada la noche. Si se busca disfrutar del lago y del césped sin aglomeraciones, conviene llegar antes de las 11:00 o volver después de las 21:00, cuando los senderos iluminados quedan casi vacíos.
+Tanto en días laborables como en fines de semana, las mañanas de 7:00 a 9:00 se mantienen notablemente más tranquilas, y esa calma vuelve de 21:00 a 23:00. Si se busca disfrutar del lago y del césped sin aglomeraciones, conviene llegar antes de las 11:00 o volver después de las 21:00, cuando los senderos iluminados quedan casi vacíos.
 
 La primavera y el comienzo del verano son la mejor época para disfrutar del césped; los plátanos de sombra y los castaños de Indias dan una sombra densa hacia junio, algo muy útil porque los veranos en Milán son calurosos y húmedos.
 

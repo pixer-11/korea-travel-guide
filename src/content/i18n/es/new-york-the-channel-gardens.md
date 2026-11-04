@@ -1,15 +1,15 @@
 ---
 lang: es
 slug: new-york-the-channel-gardens
-srcHash: '425cbd38298e'
+srcHash: '459f93b0aef3'
 title: 'Channel Gardens: Guía de viaje de Nueva York (4.7★)'
 description: 'Los Channel Gardens son el estrecho paseo de seis estanques que separa los edificios británico y francés del Rockefeller Center, y que conecta la Quinta Avenida con la plaza hundida y la pista de patinaje. 4.7★ (744 reseñas): lo que dicen los visitantes, horarios y consejos.'
-quickAnswer: Los Channel Gardens son el estrecho paseo de seis estanques que separa los edificios británico y francés del Rockefeller Center, y que conecta la Quinta Avenida con la plaza hundida y la pista de patinaje. Se puede recorrer las 24 horas y de forma gratuita en cualquier momento; el tramo más tranquilo los fines de semana va de 7:00 a 23:00, mientras que conviene evitar la franja de 17:00 a 18:00 si se quieren disfrutar los parterres sin gente alrededor. Basta con reservar entre 10 y 15 minutos para el paseo, más si uno se detiene a contemplar las plantaciones de temporada.
+quickAnswer: Los Channel Gardens son el estrecho paseo de seis estanques que separa los edificios británico y francés del Rockefeller Center, y que conecta la Quinta Avenida con la plaza hundida y la pista de patinaje. Se puede recorrer las 24 horas y de forma gratuita en cualquier momento; los tramos más tranquilos los fines de semana son de 7:00 a 8:00, de 9:00 a 13:00 y de 20:00 a 23:00, mientras que conviene evitar la franja de 17:00 a 18:00 si se quieren disfrutar los parterres sin gente alrededor. Basta con reservar entre 10 y 15 minutos para el paseo, más si uno se detiene a contemplar las plantaciones de temporada.
 faq:
   - q: ¿Es gratis visitar los Channel Gardens?
     a: 'Sí: se trata de un paseo público sin ningún costo de entrada, accesible las 24 horas del día, todos los días.'
   - q: ¿Cuál es el momento más tranquilo para ir?
-    a: Los fines de semana entre las 7:00 y las 23:00 son notablemente más tranquilos; conviene evitar la franja de 17:00 a 18:00 los fines de semana, que es el momento de mayor afluencia.
+    a: Los fines de semana, los tramos más tranquilos son de 7:00 a 8:00, de 9:00 a 13:00 y de 20:00 a 23:00; conviene evitar la franja de 17:00 a 18:00 los fines de semana, que es el momento de mayor afluencia.
   - q: ¿Cuánto tiempo conviene dedicarle?
     a: Unos 10 a 15 minutos para recorrerlo; más tiempo si se visita durante la temporada navideña, cuando los ángeles iluminados y el árbol de Navidad cercano atraen aún más atención.
   - q: ¿Cuál es la estación de metro más cercana?
@@ -42,12 +42,12 @@ También se puede llegar caminando cinco minutos desde Fifth Avenue/53rd St, en 
 
 No hay portón ni horario de cierre: los Channel Gardens son un pasaje público abierto las 24 horas, todos los días, así que en teoría no existe una mala hora para visitarlos. Pero "abierto" y "agradable" no son lo mismo en esta zona de Midtown. Las tardes de fin de semana, entre las 17:00 y las 18:00, son el momento de mayor congestión, cuando el flujo de turistas que viene de la plaza y del árbol (en temporada) se acumula en el estrecho sendero del jardín.
 
-Para disfrutar de los parterres y los estanques sin tener que abrirse paso entre la gente, conviene ir antes de las 9:00, cuando el flujo es notablemente menor, sobre todo temprano por la mañana, antes de que lleguen las tiendas y la multitud de la pista de patinaje. Por la misma razón, las mañanas de días de semana, antes de la hora del almuerzo de oficina, suelen estar tranquilas.
+Para disfrutar de los parterres y los estanques sin tener que abrirse paso entre la gente, conviene ir antes de las 9:00, cuando el flujo es notablemente menor, sobre todo temprano por la mañana, antes de que lleguen las tiendas y la multitud de la pista de patinaje. Entre semana, la previsión no marca ninguna franja tranquila, y la mayor afluencia va de 9:00 a 18:00.
 
 ## Cómo visitarlo como un local
 
 Conviene tratarlo como un lugar de paso y no como un destino en sí mismo, que es, en realidad, la forma en que la mayoría lo vive: como un atajo desde la Quinta Avenida hacia la plaza, la pista de patinaje o el recorrido por los estudios de NBC, más que como un sitio donde detenerse largo rato. No hay entrada, ni boleto, ni fila que hacer, así que conviene evitar cualquier tour que intente incluirlo como parada paga.
 
-La verdadera clave está en el horario: llegar temprano, antes de las 11:00, o más tarde, por la noche, una vez que se dispersa la multitud que sale del trabajo, en lugar de enfrentarse al cuello de botella de 17:00 a 18:00 los fines de semana.
+La verdadera clave está en el horario: llegar temprano, antes de las 9:00, o más tarde, por la noche, una vez que se dispersa la multitud que sale del trabajo, en lugar de enfrentarse al cuello de botella de 17:00 a 18:00 los fines de semana.
 
 Como todavía es un lugar relativamente poco conocido en comparación con el árbol o la pista de patinaje que están a pocos pasos, muchas veces se puede observar con calma y sin apuros las plantaciones de temporada incluso cuando la plaza está abarrotada. No conviene pasar de largo camino a la pista de patinaje, ni tampoco saltárselo solo porque desde la calle parezca un simple corredor peatonal: el detalle está en la cantería y en las plantaciones cambiantes, y vale la pena dedicar esos dos minutos extra para realmente mirar en lugar de solo atravesarlo.

@@ -59,14 +59,14 @@ place:
 tags:
   - sapporo
   - historic site
-quickAnswer: Hokkaido Jingu is a Shinto shrine in Maruyama, central Sapporo, set inside the forested grounds of Maruyama Park. It's open daily from 6am to 5pm, and it's calmest right at opening on weekdays or between 7am and 8am on weekends, since weekend crowds build fast from 9am to 4pm. Budget 45 minutes to an hour, longer if you wander into the park or up Mt. Maruyama afterward.
+quickAnswer: Hokkaido Jingu is a Shinto shrine in Maruyama, central Sapporo, set inside the forested grounds of Maruyama Park. It's open daily from 6am to 5pm, and it's calmest between 7am and 8am on any day, or 4pm to 5pm on weekdays, since weekend crowds build fast from 9am to 4pm. Budget 45 minutes to an hour, longer if you wander into the park or up Mt. Maruyama afterward.
 faq:
   - q: How do I get to Hokkaido Jingu?
     a: Take the Tozai subway line to Maruyama Koen Station, then walk about 15 minutes uphill through Maruyama Park to the shrine's main torii gate.
   - q: What are the opening hours?
     a: Hokkaido Jingu is open daily from 6am to 5pm, with no weekly closing day.
   - q: When is it least crowded?
-    a: Weekdays stay fairly calm all day from 7am to 5pm. On weekends, go between 7am and 8am; crowds build fast from 9am and stay heavy until around 4pm.
+    a: Weekdays are calmest from 7am to 8am and from 4pm to 5pm, with a busier stretch from 10am to noon. On weekends, go between 7am and 8am; crowds build fast from 9am and stay heavy until around 4pm.
   - q: How much time should I set aside?
     a: Plan on 45 minutes to an hour for the shrine grounds alone, or half a day if you add a walk in Maruyama Park or the hike up Mt. Maruyama.
   - q: Is there an entrance fee?
@@ -94,7 +94,7 @@ If you have energy left, the trailhead for Mt. Maruyama starts near the shrine a
 
 Hokkaido Jingu is open every day from 6am to 5pm, with no weekly closure. Given how popular it is, timing your visit matters more than at a quieter shrine.
 
-On weekdays, mornings tend to stay relatively calm, so there's no need to rush. Weekends are different: going early in the morning is your best bet for a quieter visit, since crowds tend to build up as the day goes on.
+On weekdays, 7am to 8am and 4pm to 5pm tend to stay relatively calm, while 10am to noon is the busiest stretch. Weekends are different: going early in the morning is your best bet for a quieter visit, since crowds tend to build up as the day goes on.
 
 New Year's is the exception to all of this. Hatsumode, the first shrine visit of the year, draws enormous lines here in early January, and normal crowd patterns don't apply.
 

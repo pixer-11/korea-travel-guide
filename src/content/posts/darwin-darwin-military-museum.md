@@ -57,14 +57,14 @@ quickAnswer: >-
   Darwin Military Museum sits on the East Point headland at 5434 Alec Fong Lim
   Dr, East Point, a short drive north of Darwin city. Its centrepiece is the
   multimedia Defence of Darwin Experience about the 1942 Japanese bombing raids;
-  plan on two to three hours. Crowds are light from 9:30am–4pm on weekdays and
-  Saturdays (and 10am–3pm on Sundays), but try not to arrive between 11am and
+  plan on two to three hours. Crowds are lightest from 3pm–4pm on weekdays and
+  Saturdays, but try not to arrive between 11am and
   2pm on weekends, the museum's busiest window.
 faq:
   - q: When is the quietest time to visit Darwin Military Museum?
     a: >-
-      Crowds are lightest from 9:30am–4pm on weekdays and Saturdays, and from
-      10am–3pm on Sundays, which is also a calm stretch. Avoid weekends from
+      Crowds are lightest from 3pm–4pm on weekdays and Saturdays, and on
+      Sundays the forecast flags no standout quiet hour. Avoid weekends from
       11am to 2pm, the busiest window. Check the official website for current
       opening hours before you go.
   - q: How long should I spend at the museum?
@@ -121,7 +121,7 @@ If your trip falls in mid-February, check local event listings for commemorative
 
 ## Timing your visit around the crowds
 
-Typical foot traffic makes the choice simple. The museum opens from 9:30am to 4pm on weekdays and Saturdays, and 10am–3pm on Sundays. Even within those hours, the busiest stretch tends to be late morning into early afternoon, when you can end up queuing for screens in the multimedia gallery.
+Typical foot traffic makes the choice simple. The museum opens from 9:30am to 4pm on weekdays and Saturdays, and 10am–3pm on Sundays. Even within those hours, the busiest stretch on weekends tends to be late morning into early afternoon, when you can end up queuing for screens in the multimedia gallery.
 
 Check the museum's official website for the most current opening hours before you set out. Climate matters too. The dry season, roughly May to October, is the comfortable time to walk the outdoor displays. In the wet season, see the outdoor yard first thing, before the heat peaks.
 

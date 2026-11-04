@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: harbin-zhaolin-park
-srcHash: '440591687ca8'
+srcHash: '6333d474888a'
 title: 'Parque Zhaolin: Guía de viaje de Harbin'
 description: El parque Zhaolin, en el distrito de Daoli de Harbin, es un pequeño jardín junto al lago conocido sobre todo por sus exhibiciones invernales de faroles de hielo y, en los meses cálidos, por su tranquilo lago para botes y sus parterres de flores.
 quickAnswer: El parque Zhaolin, en el distrito de Daoli de Harbin, es un pequeño jardín junto al lago conocido sobre todo por sus exhibiciones invernales de faroles de hielo y, en los meses cálidos, por su tranquilo lago para botes y sus parterres de flores. Es un complemento fácil a una visita a la calle Zhongyang (Zhongyang Street) o al Monumento al Control de Inundaciones, y sigue siendo un lugar genuinamente poco frecuentado en comparación con Ice and Snow World. Los fines de semana, el momento más tranquilo es de 6 a 10 de la noche; conviene evitar los tramos de 7 de la mañana a 12 del mediodía, de 2 a 6 de la tarde y de 10 a 11 de la noche, cuando se concentran las multitudes.
@@ -9,7 +9,7 @@ faq:
   - q: ¿Dónde está exactamente el parque Zhaolin?
     a: En el número 377 de Sen Lin Jie, en el distrito de Daoli, Harbin, a poca distancia a pie del extremo sur de la zona peatonal comercial de la calle Zhongyang (Zhongyang Street).
   - q: ¿Cuál es el momento más tranquilo para visitarlo?
-    a: Los fines de semana entre las 5 y las 10 de la noche son los más tranquilos. Entre las 7 de la mañana y las 11 de la noche los fines de semana se concentra la mayor afluencia, así que conviene evitar esa franja si se busca disfrutar del lugar con más espacio.
+    a: Los fines de semana entre las 6 y las 10 de la noche son los más tranquilos. Los fines de semana, la mayor afluencia se concentra de 7 de la mañana a 12 del mediodía, de 2 a 6 de la tarde y de 10 a 11 de la noche, así que conviene evitar esas franjas si se busca disfrutar del lugar con más espacio.
   - q: ¿Vale la pena visitar el parque Zhaolin si ya voy a Ice and Snow World?
     a: Sí, como complemento más breve. Es de menor escala, con faroles de hielo iluminados desde el interior en lugar de grandes estructuras de bloques de hielo, y se recorre en menos de una hora.
   - q: ¿Qué se puede hacer allí en verano?
@@ -30,7 +30,7 @@ Con la llegada del invierno, el lago y los caminos se llenan de esculturas de hi
 
 La dirección es Sen Lin Jie 377, distrito de Daoli, lo bastante cerca de la zona peatonal comercial de la calle Zhongyang como para incluirlo en el mismo paseo. La mayoría de los visitantes lo combinan con la calle Zhongyang, el Monumento al Control de Inundaciones o un paseo por el malecón del río Songhua.
 
-Los fines de semana, la mayor afluencia se registra entre las 7 de la mañana y las 11 de la noche, así que quien quiera disfrutar de los senderos en soledad debería optar más bien por el tramo de 5 a 10 de la noche. Esa franja de la tarde-noche tiene además la ventaja de permitir ver los faroles de hielo ya iluminados tras el anochecer en invierno, que es precisamente cuando de verdad merece la pena contemplarlos.
+Los fines de semana, la mayor afluencia se registra de 7 de la mañana a 12 del mediodía, de 2 a 6 de la tarde y de 10 a 11 de la noche, así que quien quiera disfrutar de los senderos en soledad debería optar más bien por el tramo de 6 a 10 de la noche. Esa franja de la tarde-noche tiene además la ventaja de permitir ver los faroles de hielo ya iluminados tras el anochecer en invierno, que es precisamente cuando de verdad merece la pena contemplarlos.
 
 Conviene calcular entre 45 minutos y una hora para la visita. No es un destino para pasar el día entero, sino más bien una parada tranquila entre atracciones más grandes.
 

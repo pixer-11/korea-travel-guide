@@ -1,13 +1,13 @@
 ---
 lang: es
 slug: takamatsu-honetsukidori-ikkaku-takamatsu
-srcHash: 'c4de92af48a1'
+srcHash: '2ca20289dffa'
 title: 'Honetsukidori Ikkaku: dónde comer en Takamatsu (4.1★)'
 description: Honetsukidori Ikkaku Takamatsu se encuentra en 4-11 Kajiyamachi, en el centro de Takamatsu y a pocos pasos de las estaciones Kawaramachi y Kataharamachi de Kotoden. Con 4.1★ (4,033 reseñas), le contamos qué opinan los visitantes, su horario y algunos consejos.
-quickAnswer: En el centro de Takamatsu, a pocos pasos de las estaciones Kawaramachi y Kataharamachi de Kotoden, se encuentra Honetsukidori Ikkaku Takamatsu (4-11 Kajiyamachi). Su especialidad es el honetsukidori de Kagawa, un muslo entero de pollo asado con hueso, y el cliente elige entre el oyadori, de carne firme y correosa, y el tierno hinadori. Entre semana abre a las 5pm y los martes cierra. Como los fines de semana la mayor afluencia se concentra entre la 1pm y las 10pm, lo mejor es llegar el sábado o el domingo a las 11am, en cuanto abre.
+quickAnswer: En el centro de Takamatsu, a pocos pasos de las estaciones Kawaramachi y Kataharamachi de Kotoden, se encuentra Honetsukidori Ikkaku Takamatsu (4-11 Kajiyamachi). Su especialidad es el honetsukidori de Kagawa, un muslo entero de pollo asado con hueso, y el cliente elige entre el oyadori, de carne firme y correosa, y el tierno hinadori. Entre semana abre a las 5pm y los martes cierra. Como los fines de semana la mayor afluencia se concentra entre la 1pm y las 2pm y entre las 4pm y las 10pm, lo mejor es llegar el sábado o el domingo a las 11am, en cuanto abre.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar Honetsukidori Ikkaku Takamatsu?
-    a: No hay datos sobre una franja tranquila. La de mayor afluencia va de 1pm a 10pm el sábado y el domingo, así que conviene evitarla si es posible. El fin de semana, llegue a las 11am, cuando abre. Entre semana, procure llegar cerca de la apertura de las 5pm.
+    a: La previsión no marca ninguna franja tranquila. Las de mayor afluencia van de 1pm a 2pm y de 4pm a 10pm el sábado y el domingo, así que conviene evitarlas si es posible. El fin de semana, llegue a las 11am, cuando abre. Entre semana, procure llegar cerca de la apertura de las 5pm.
   - q: ¿Abre a mediodía?
     a: Solo el fin de semana, cuando abre de 11am a 11pm. El lunes y de miércoles a viernes únicamente sirve cenas, de 5pm a 11pm. Los martes permanece cerrado.
   - q: ¿Qué conviene pedir, oyadori o hinadori?
@@ -59,7 +59,7 @@ El horario cambia mucho entre semana y el fin de semana, así que compruebe qué
 - **Martes:** cerrado
 - **Sábado y domingo:** de 11am a 11pm, sin interrupción
 
-Es el fin de semana cuando se forman las aglomeraciones. El sábado y el domingo, la franja de mayor afluencia va de la 1pm a las 10pm; si llega en ese intervalo, le tocará esperar un buen rato.
+Es el fin de semana cuando se forman las aglomeraciones. El sábado y el domingo, las franjas de mayor afluencia van de la 1pm a las 2pm y de las 4pm a las 10pm; si llega en esos intervalos, le tocará esperar un buen rato.
 
 Por eso, el fin de semana lo más sensato es presentarse a las 11am, a la hora de apertura, y comerse el honetsukidori al mediodía. Entre semana no se puede almorzar, porque las puertas no se abren hasta las 5pm. Llegar justo a esa hora suele permitir adelantarse a la avalancha de quienes salen del trabajo.
 

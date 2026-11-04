@@ -67,7 +67,7 @@ quickAnswer: >-
   The Channel Gardens is the narrow, six-pool promenade between the British and
   French buildings at Rockefeller Center, linking Fifth Avenue to the sunken
   plaza and the skating rink beyond. It's open 24 hours and always free to walk
-  through; the calmest stretch on weekends runs from 7am to 11pm, while the
+  through; the calmest weekend stretches are 7–8am, 9am–1pm and 8–11pm, while the
   5–6pm window is the one to skip if you want the flowerbeds to yourself. Budget
   10–15 minutes for a stroll, longer if you linger over the seasonal planting.
 faq:
@@ -77,7 +77,7 @@ faq:
       accessible 24 hours a day, every day.
   - q: When is the quietest time to visit?
     a: >-
-      Weekends between 7am and 11pm are noticeably calmer; try to avoid 5–6pm on
+      Weekends are calmest 7–8am, 9am–1pm and 8–11pm; try to avoid 5–6pm on
       weekends, which is the busiest window.
   - q: How long should I spend there?
     a: >-
@@ -120,10 +120,10 @@ It's also an easy five-minute walk from Fifth Avenue/53rd St on the E and M line
 
 There's no gate and no closing time. The Channel Gardens are a public passage open 24 hours, every day, so there's technically no wrong hour. But "open" and "pleasant" aren't the same thing in this part of Midtown. Weekend afternoons around 5–6pm are the peak crush, when tourist foot traffic from the plaza and the tree (in season) backs up into the narrow garden path.
 
-If you want the flowerbeds and pools without shuffling past a wall of people, aim for before 9am, when the flow is markedly lighter, early morning especially, before the shops and the rink crowd arrive. Weekday mornings before the office lunch rush tend to be quiet for the same reason.
+If you want the flowerbeds and pools without shuffling past a wall of people, aim for before 9am, when the flow is markedly lighter, early morning especially, before the shops and the rink crowd arrive. On weekdays the forecast flags no quiet hour at all, and the busy stretch runs from 9am to 6pm.
 
 ## How to visit like a local
 
-Treat it as a walk-through, not a destination. That's genuinely how most people experience it, cutting from Fifth Avenue down to the plaza, the rink, or the NBC Studios tour rather than lingering. There's no admission, no ticket, no line to join, so skip any tour that tries to bundle it in as a paid stop. The one real skill is timing: come early, before 11am, or later in the evening after the after-work crowd clears, rather than fighting the 5–6pm bottleneck on weekends.
+Treat it as a walk-through, not a destination. That's genuinely how most people experience it, cutting from Fifth Avenue down to the plaza, the rink, or the NBC Studios tour rather than lingering. There's no admission, no ticket, no line to join, so skip any tour that tries to bundle it in as a paid stop. The one real skill is timing: come early, before 9am, or later in the evening after the after-work crowd clears, rather than fighting the 5–6pm bottleneck on weekends.
 
 Because it's still relatively under-the-radar compared to the tree or the rink a few steps away, you can often get a clear, unhurried look at the seasonal plantings even when the plaza itself is jammed. Don't rush past it on your way to the rink, and don't skip it just because it looks like a pedestrian corridor from the street. The detail is in the stonework and the changing planting, and that's worth the two extra minutes it takes to actually look rather than walk through.

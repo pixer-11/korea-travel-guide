@@ -47,14 +47,14 @@ place:
 tags:
   - bohol
   - museum
-quickAnswer: The National Museum of the Philippines – Bohol occupies the old Capitol building in Poblacion, Tagbilaran City, open daily 9am–6pm. It's a compact, well-curated stop covering Bohol's archaeology, ethnography and art — plan on an hour or so. Weekends are calmest between 9am and 5pm, so avoid the 3–5pm crush if you can.
+quickAnswer: The National Museum of the Philippines – Bohol occupies the old Capitol building in Poblacion, Tagbilaran City, open daily 9am–6pm. It's a compact, well-curated stop covering Bohol's archaeology, ethnography and art — plan on an hour or so. Weekends are calmest 9am–10am and 1pm–3pm, so avoid the 3–5pm crush if you can.
 faq:
   - q: How much does it cost to enter?
     a: Admission fees for Philippine national museums change from time to time, so check the official National Museum website or ask at the entrance for the current rate before you go.
   - q: How long should I spend at the museum?
     a: Most visitors are comfortably done in an hour to ninety minutes, since it's a compact, focused museum rather than a sprawling one.
   - q: When is the quietest time to visit?
-    a: On weekends, 9am to 5pm is the calmer window based on typical visitor patterns. Try to avoid 3pm to 5pm on Saturday and Sunday, when it gets busiest.
+    a: On weekends, 9am to 10am and 1pm to 3pm are the calmer windows based on typical visitor patterns. Try to avoid 3pm to 5pm on Saturday and Sunday, when it gets busiest.
   - q: Is it open every day?
     a: Yes, it's open daily from 9am to 6pm, including weekends, with no separate closing day to plan around.
   - q: What's nearby if I want to combine this with other sights?

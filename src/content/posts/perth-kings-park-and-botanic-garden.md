@@ -78,12 +78,12 @@ quickAnswer: >-
   Kings Park and Botanic Garden in Perth sits on Mount Eliza, just west of the
   CBD at Fraser Ave, with views over the Swan River, the State War Memorial and
   the Western Australian Botanic Garden. It is open 24 hours. Weekdays are quiet
-  from 7am to 11pm, but on weekends only 7am–8am is calm, and it stays busy from
+  from 7am to 8am and from 10pm to 11pm, but on weekends only 7am–8am is calm, and it stays busy from
   9am to 10pm.
 faq:
   - q: When is the quietest time to visit Kings Park?
     a: >-
-      On weekdays it is quiet all day, from 7am to 11pm. On weekends only
+      On weekdays it is quiet from 7am to 8am and from 10pm to 11pm. On weekends only
       7am–8am is calm. Avoid weekends between 9am and 10pm, the busiest stretch.
   - q: Is Kings Park open at night?
     a: >-
@@ -170,7 +170,7 @@ The cafés and restaurant on Fraser Avenue are handy for coffee. Prices are on t
 
 ## Timing your visit around the crowds
 
-The park never closes, so timing is about crowds, not locked gates. On weekdays it is quiet right through from 7am to 11pm, so almost any weekday hour gives you easy parking and an empty bridge.
+The park never closes, so timing is about crowds, not locked gates. On weekdays it is quiet from 7am to 8am and again from 10pm to 11pm, with only 12pm to 1pm busy, so most weekday hours outside lunch give you easier parking and a calmer bridge than a weekend.
 
 Weekends are a different story. Only 7am–8am is calm. From 9am to 10pm the weekend crowd is out, the lawns are full, Fraser Avenue parking is tight, and the Federation Walkway queues at its narrow points.
 

@@ -1,15 +1,15 @@
 ---
 lang: es
 slug: heidelberg-kulturbrauerei-heidelberg
-srcHash: '7b20b13265c8'
+srcHash: '7177795d4caf'
 title: 'Kulturbrauerei: dónde comer en Heidelberg (4.2★)'
 description: 'En la Leyergasse, en pleno casco antiguo (Altstadt) de Heidelberg y a pocos minutos a pie del Puente Viejo (Alte Brücke), la Kulturbrauerei Heidelberg reúne hotel, cervecería propia, restaurante y taberna con jardín cervecero. 4.2★ (3,054 reseñas): opiniones de los visitantes, horarios y consejos.'
-quickAnswer: En la Leyergasse, en el casco antiguo (Altstadt) de Heidelberg y a pocos minutos a pie del Puente Viejo (Alte Brücke), la Kulturbrauerei Heidelberg combina hotel, cervecería propia, restaurante y taberna con jardín cervecero. Abre todos los días a mediodía y cierra a las 11pm, salvo los domingos, cuando el cierre se adelanta a las 9pm. Los fines de semana se llena de 1pm a 11pm; la franja más tranquila es la de 9pm a 11pm, lo que en la práctica se reduce a la noche del sábado.
+quickAnswer: En la Leyergasse, en el casco antiguo (Altstadt) de Heidelberg y a pocos minutos a pie del Puente Viejo (Alte Brücke), la Kulturbrauerei Heidelberg combina hotel, cervecería propia, restaurante y taberna con jardín cervecero. Abre todos los días a mediodía y cierra a las 11pm, salvo los domingos, cuando el cierre se adelanta a las 9pm. Los fines de semana se llena de 1pm a 11pm; la previsión no marca ninguna franja tranquila, así que conviene llegar a la apertura de mediodía, antes de que empiece la afluencia.
 faq:
   - q: ¿Dónde se encuentra exactamente la Kulturbrauerei Heidelberg?
     a: En Leyergasse 6, 69117 Heidelberg-Altstadt, dentro del casco antiguo. Tanto el Puente Viejo (Alte Brücke) como la estación del funicular Kornmarkt Bergbahn quedan a un corto paseo.
   - q: ¿Cuál es el momento más tranquilo para ir?
-    a: Durante el fin de semana, la franja más tranquila es la de 9pm a 11pm. Como el domingo el restaurante cierra a las 9pm, esa franja solo sirve en realidad para el sábado. Conviene evitar las tardes y noches del fin de semana, de 1pm a 11pm, que es cuando hay más gente.
+    a: Durante el fin de semana, la previsión no marca ninguna franja tranquila, así que lo mejor es llegar a la apertura de mediodía, antes de que empiece la afluencia. Conviene evitar las tardes y noches del fin de semana, de 1pm a 11pm (hasta el cierre de las 9pm los domingos), que es cuando hay más gente.
   - q: ¿Cuál es el horario?
     a: De lunes a sábado abre de 12:00 a 11:00 PM. Los domingos, de 12:00 a 9:00 PM.
   - q: ¿Hace falta reservar?
@@ -38,7 +38,7 @@ Si llega desde la estación central (Heidelberg Hauptbahnhof), tome un autobús 
 
 La cocina abre todos los días a las 12:00. De lunes a sábado permanece abierta hasta las 11pm. El domingo el horario se acorta y se cierra a las 9pm, así que es preferible planear la cena dominical a primera hora de la noche.
 
-Los fines de semana hay mucha gente de 1pm a 11pm, es decir, durante casi toda la jornada. Para encontrar mesa sin esperar, la franja más tranquila del fin de semana es la de 9pm a 11pm. Puesto que el domingo se cierra a las 9pm, esto equivale en la práctica a ir el sábado por la noche. No disponemos de datos sobre la afluencia entre semana, por lo que la forma más sencilla de evitar las aglomeraciones es acudir un día laborable.
+Los fines de semana hay mucha gente de 1pm a 11pm, es decir, durante casi toda la jornada. Para encontrar mesa sin esperar, tenga en cuenta que el fin de semana la previsión no marca ninguna franja tranquila, así que conviene llegar a la apertura de mediodía, antes de que empiece la afluencia. Entre semana la previsión tampoco marca ninguna franja tranquila y señala de 6pm a 10pm como la de más gente, por lo que la forma más sencilla de evitar las aglomeraciones es acudir un día laborable antes de las 6pm.
 
 Calcule unos 90 minutos para una comida sentado, o más si piensa quedarse a tomar otra ronda en el jardín cervecero.
 

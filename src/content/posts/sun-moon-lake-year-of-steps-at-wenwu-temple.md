@@ -64,14 +64,14 @@ place:
 tags:
   - "sun moon lake"
   - "top attraction"
-quickAnswer: "Wenwu Temple sits on a bluff on the north shore of Sun Moon Lake, its red-and-gold gates stacked above a long flight of steps with lake views behind you the whole climb. It's open 24 hours, but for calm go on a weekday between 7am and 11pm — weekends get busy from 9am to 6pm, quieting only after 8pm. Budget 45–60 minutes, and pair it with a bike ride or boat stop nearby."
+quickAnswer: "Wenwu Temple sits on a bluff on the north shore of Sun Moon Lake, its red-and-gold gates stacked above a long flight of steps with lake views behind you the whole climb. It's open 24 hours, but for calm go on a weekday between 7am and 8am or 7pm and 11pm — weekends get busy from 9am to 6pm, quieting only after 8pm. Budget 45–60 minutes, and pair it with a bike ride or boat stop nearby."
 faq:
   - q: "How do I get to Wenwu Temple at Sun Moon Lake?"
     a: "Take the round-the-lake shuttle bus or bike path to Shuishe Village, then walk or take a short local bus up Zhongzheng Road. Many visitors also arrive by boat to the nearby pier and walk up from there."
   - q: "Is there an entrance fee?"
     a: "No, entry is free. The temple is open 24 hours daily, and there's no ticket booth — just donation boxes if you'd like to leave an offering."
   - q: "When is the quietest time to visit?"
-    a: "Weekdays between 7am and 11pm are calmest. On weekends, aim for after 8pm — crowds build steadily from 9am to 6pm as day-trip groups arrive."
+    a: "Weekdays from 7am to 8am and 7pm to 11pm are calmest. On weekends, aim for after 8pm — crowds build steadily from 9am to 6pm as day-trip groups arrive."
   - q: "How long should I plan to spend here?"
     a: "Most visitors spend 45 minutes to an hour climbing the staircase and exploring the halls and terraces, longer if you're stopping often for lake views."
   - q: "What else is nearby?"
@@ -113,7 +113,7 @@ Most people spend 45 minutes to an hour here, longer if you stop at every landin
 
 The temple never closes. It's open 24 hours, every day. That said, "open" and "quiet" are different things here.
 
-Weekday mornings and evenings, roughly 7am to 11pm, are the calmest stretch, with room to actually stand still on the upper terraces. Weekends are a different story: expect steady crowds from 9am until 6pm as tour buses and day-trippers cycle through.
+Weekday mornings and evenings, roughly 7am to 8am and 7pm to 11pm, are the calmest stretch, with room to actually stand still on the upper terraces. Weekends are a different story: expect steady crowds from 9am until 6pm as tour buses and day-trippers cycle through.
 
 If you're staying nearby, a weekend evening after 8pm is your quiet window. The lanterns are lit, the tour groups have gone, and the steps are yours. Sunset and just after dark, when the halls glow against the darkening lake, is genuinely the best light of the day here.
 

@@ -1,17 +1,17 @@
 ---
 lang: es
 slug: bologna-basilica-of-san-domenico
-srcHash: 'a2876717c2ed'
+srcHash: '669e120d740f'
 title: 'Basílica de San Domenico: Guía de viaje de Bolonia'
 description: La Basílica de San Domenico se encuentra a 12 minutos a pie al sur de la Piazza Maggiore, en el barrio universitario cerca de las antiguas murallas de Bolonia.
-quickAnswer: La Basílica de San Domenico se encuentra a 12 minutos a pie al sur de la Piazza Maggiore, en el barrio universitario cerca de las antiguas murallas de Bolonia. Está tranquila prácticamente todo el día, tanto entre semana como los fines de semana, de 7:30 a 13:00 y de 15:30 a 20:00 — la única franja que conviene evitar es de 16:00 a 18:00 los fines de semana, cuando los grupos turísticos se concentran alrededor del Arca di San Domenico. Calcula entre 45 minutos y una hora, y la entrada es gratuita.
+quickAnswer: La Basílica de San Domenico se encuentra a 12 minutos a pie al sur de la Piazza Maggiore, en el barrio universitario cerca de las antiguas murallas de Bolonia. Abre de 7:30 a 13:00 y de 15:30 a 20:00; los fines de semana está más tranquila de 8:00 a 10:00 y de 19:00 a 20:00, mientras que entre semana la previsión no marca ninguna franja tranquila — las franjas que conviene evitar son de 16:00 a 18:00 todos los días y de 9:00 a 13:00 entre semana, cuando los grupos turísticos se concentran alrededor del Arca di San Domenico. Calcula entre 45 minutos y una hora, y la entrada es gratuita.
 faq:
   - q: ¿Cómo llego a la Basílica de San Domenico?
     a: 'Está a unos 12–15 minutos a pie hacia el sur desde la Piazza Maggiore por Via Garibaldi, o a 20–25 minutos a pie desde la estación de Bologna Centrale atravesando el centro histórico. No hace falta coche: la zona está en gran parte peatonalizada.'
   - q: ¿Cuánto cuesta visitarla?
     a: La entrada a la basílica en sí es gratuita. Las alcancías de donativos cerca de las capillas son habituales pero opcionales.
   - q: ¿Cuál es el mejor momento para visitarla sin aglomeraciones?
-    a: La iglesia se mantiene tranquila de 7:30 a 13:00 y de nuevo de 15:30 a 20:00, su horario habitual, tanto entre semana como los fines de semana. Procura evitar de 16:00 a 18:00 los fines de semana, cuando los grupos turísticos tienden a concentrarse alrededor del Arca di San Domenico.
+    a: En su horario habitual, de 7:30 a 13:00 y de nuevo de 15:30 a 20:00, la iglesia está más tranquila de 8:00 a 10:00 y de 19:00 a 20:00 los fines de semana; entre semana la previsión no marca ninguna franja tranquila y de 9:00 a 13:00 hay más gente. Procura evitar de 16:00 a 18:00 cualquier día, cuando los grupos turísticos tienden a concentrarse alrededor del Arca di San Domenico.
   - q: ¿Cuánto tiempo debería dedicarle?
     a: Entre 45 minutos y una hora es suficiente para ver el Arca di San Domenico, el ángel de Michelangelo y algunas capillas laterales sin prisas.
   - q: ¿Cuál es lo principal que hay que ver dentro?
@@ -41,10 +41,10 @@ Calcula entre 45 minutos y una hora: tiempo suficiente para rodear con calma el 
 
 ## Cuándo ir
 
-Los patrones de afluencia aquí son inusualmente favorables: la iglesia se mantiene tranquila por lo general tanto entre semana como los fines de semana. La única franja a tener en cuenta es de las 16:00 a las 18:00 los fines de semana, cuando los grupos en autocar y los excursionistas de un día tienden a concentrarse alrededor del sepulcro. Llega por la mañana o a media tarde en un día laborable y es muy probable que tengas el Arca casi para ti solo.
+Los patrones de afluencia aquí son más favorables los fines de semana, cuando las horas más tranquilas van de las 8:00 a las 10:00 y de las 19:00 a las 20:00. Entre semana la previsión no marca ninguna franja tranquila, así que conviene llegar a la apertura de las 7:30, antes de la franja concurrida de las 9:00 a las 13:00. La franja a tener en cuenta es de las 16:00 a las 18:00 cualquier día, cuando los grupos en autocar y los excursionistas de un día tienden a concentrarse alrededor del sepulcro. Llega entre las 8:00 y las 10:00 o después de las 19:00 un fin de semana y es muy probable que tengas el Arca casi para ti solo.
 
 ## Cómo visitarla como un local
 
 Vístete y compórtate como lo harías en cualquier iglesia católica en funcionamiento: hombros y rodillas cubiertos, teléfonos en silencio, voz baja, especialmente si hay una misa en curso. No existe sistema de entradas ni de reserva; simplemente se entra por la puerta principal que da a la plaza. El acceso es gratuito, así que no hay cola que planificar, pero conviene llevar alguna moneda para las alcancías de las capillas, una cortesía habitual más que una obligación.
 
-Esta es una parada bien conocida en la ruta artística de Bolonia, no un secreto, así que la estrategia inteligente no es buscar la soledad por azar, sino por el horario: ven fuera de esa franja de 16:00 a 18:00 los fines de semana y evitarás por completo lo peor de las aglomeraciones. Después, tómate cinco minutos más para dar una vuelta por la propia plaza; los pórticos de aquí son obra medieval original, menos restaurados y más llenos de atmósfera que los más vistosos cerca de las dos torres.
+Esta es una parada bien conocida en la ruta artística de Bolonia, no un secreto, así que la estrategia inteligente no es buscar la soledad por azar, sino por el horario: ven fuera de la franja de 16:00 a 18:00 (y de 9:00 a 13:00 entre semana) y evitarás por completo lo peor de las aglomeraciones. Después, tómate cinco minutos más para dar una vuelta por la propia plaza; los pórticos de aquí son obra medieval original, menos restaurados y más llenos de atmósfera que los más vistosos cerca de las dos torres.

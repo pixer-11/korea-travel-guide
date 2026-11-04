@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: sentosa-fort-siloso
-srcHash: 'a05d92755d6a'
+srcHash: '62e8a62ed119'
 title: 'Fort Siloso: Guía de viaje de Sentosa (4,6★)'
 description: 'Fort Siloso, el fuerte costero de la Segunda Guerra Mundial restaurado en Sentosa, se encuentra en el extremo occidental de Siloso Road y abre todos los días de 9:00 a 18:00. 4,6★ (2.611 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Fort Siloso, el fuerte costero de la Segunda Guerra Mundial restaurado en Sentosa, se encuentra en el extremo occidental de Siloso Road y abre todos los días de 9:00 a 18:00. Las mañanas de fin de semana entre las 9:00 y las 11:00 son el momento más tranquilo, así que aprovecha esa franja si quieres tener las baterías de artillería y los túneles para ti solo. Reserva al menos dos horas para recorrer todo el recinto, y más si te apasiona la historia militar.
@@ -36,7 +36,7 @@ El Fort Siloso Skywalk, una pasarela elevada gratuita, conecta varios miradores 
 
 ## Cuándo ir para evitar las multitudes
 
-Entre semana, cualquier momento entre las 9:00 y las 18:00 suele mantenerse tranquilo, ya que Fort Siloso no suele ser la primera parada de la mayoría de los visitantes al entrar en Sentosa. Los fines de semana, conviene llegar justo a la apertura: la franja de 9:00 a 11:00 es el tramo tranquilo antes de que aumente la afluencia.
+Entre semana, las franjas de 9:00 a 10:00 y de 17:00 a 18:00 suelen mantenerse tranquilas, y la única hora concurrida es de 11:00 a 12:00, ya que Fort Siloso no suele ser la primera parada de la mayoría de los visitantes al entrar en Sentosa. Los fines de semana, conviene llegar justo a la apertura: la franja de 9:00 a 11:00 es el tramo tranquilo antes de que aumente la afluencia.
 
 - Evita las tardes de fin de semana, especialmente entre las 14:00 y las 18:00, cuando los grupos turísticos y las familias se concentran en las Cámaras de la Rendición y las plataformas de artillería.
 - Las mañanas entre semana funcionan bien si piensas combinar la visita con las playas de Sentosa más tarde ese mismo día.

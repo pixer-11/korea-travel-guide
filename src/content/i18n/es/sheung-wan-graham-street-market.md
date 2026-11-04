@@ -1,17 +1,17 @@
 ---
 lang: es
 slug: sheung-wan-graham-street-market
-srcHash: 'f964f74bf90c'
+srcHash: 'cce2450f558b'
 title: 'Mercado de Graham Street: guía de Central (4,2★)'
 description: 'El mercado de Graham Street es un mercado callejero en pleno funcionamiento que se extiende por Graham Street y Gage Street, en Sheung Wan/Central, abierto todos los días de 8:00 a 18:00. 4,2★ (124 reseñas): lo que dicen los visitantes, horarios y consejos.'
-quickAnswer: El mercado de Graham Street es un mercado callejero en pleno funcionamiento que se extiende por Graham Street y Gage Street, en Sheung Wan/Central, abierto todos los días de 8:00 a 18:00. Vale la pena ir por los puestos de fruta y verdura, los carniceros de mercado húmedo y las tiendas de productos secos, más que por una lista de atracciones que marcar. Los fines de semana están más tranquilos a partir de las 10:00, mientras que de 8:00 a 13:00 se concentra la mayor afluencia. Calcule entre 30 y 45 minutos, y aprovéchelo para pasear después por la cercana Tai Ping Shan Street.
+quickAnswer: El mercado de Graham Street es un mercado callejero en pleno funcionamiento que se extiende por Graham Street y Gage Street, en Sheung Wan/Central, abierto todos los días de 8:00 a 18:00. Vale la pena ir por los puestos de fruta y verdura, los carniceros de mercado húmedo y las tiendas de productos secos, más que por una lista de atracciones que marcar. Los fines de semana están más tranquilos de 13:00 a 14:00 y de 15:00 a 18:00, mientras que de 8:00 a 13:00 se concentra la mayor afluencia. Calcule entre 30 y 45 minutos, y aprovéchelo para pasear después por la cercana Tai Ping Shan Street.
 faq:
   - q: ¿Cómo se llega al mercado de Graham Street?
     a: Tome la estación de MTR de Sheung Wan, salida A2, y camine cuesta arriba unos 5 minutos, o utilice la salida D2 de la estación Central pasando por Queen's Road Central.
   - q: ¿Cuál es el horario de apertura?
     a: Abre todos los días de 8:00 a 18:00, sin cierre al mediodía.
   - q: ¿Cuál es el momento menos concurrido para visitarlo?
-    a: Los fines de semana, de 10:00 a 18:00, la afluencia es notablemente menor; conviene evitar la franja de 8:00 a 13:00 los fines de semana, que es la más concurrida.
+    a: Los fines de semana, de 13:00 a 14:00 y de 15:00 a 18:00, la afluencia es notablemente menor; conviene evitar la franja de 8:00 a 13:00 los fines de semana, que es la más concurrida.
   - q: ¿Cuánto tiempo conviene dedicarle?
     a: La mayoría de los visitantes pasa entre 30 y 45 minutos recorriendo los puestos, más si se detienen a comer o a comprar productos secos.
   - q: ¿Qué otros lugares cercanos se pueden combinar con la visita?
@@ -46,7 +46,7 @@ En el extremo de Gage Street encontrará algunos de los puestos más antiguos qu
 
 El mercado funciona los siete días de la semana, de 8:00 a 18:00, así que no hay que preocuparse por llegar temprano ni por quedarse sin tiempo al final del día. Los fines de semana, el tramo de mayor actividad va de 8:00 a 13:00, cuando los residentes hacen su compra principal; los pasillos estrechos suelen saturarse alrededor de los puestos de fruta y verdura.
 
-Si prefiere moverse con más calma, lo mejor es ir un fin de semana entre las 10:00 y las 18:00, cuando el ambiente es notablemente más tranquilo. Las mañanas entre semana suelen tener un ritmo más pausado que las horas punta del fin de semana, aunque sigue siendo un mercado en pleno funcionamiento, no un museo: no hay una hora "de cierre" en la que todo se calme.
+Si prefiere moverse con más calma, lo mejor es ir un fin de semana entre las 13:00 y las 14:00 o entre las 15:00 y las 18:00, cuando el ambiente es notablemente más tranquilo. Las mañanas entre semana suelen tener un ritmo más pausado que las horas punta del fin de semana, aunque sigue siendo un mercado en pleno funcionamiento, no un museo: no hay una hora "de cierre" en la que todo se calme.
 
 ## Cómo visitarlo como un local
 

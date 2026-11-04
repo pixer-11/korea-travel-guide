@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: milan-pinacoteca-di-brera
-srcHash: '0785c2f64fee'
+srcHash: '01c9fd2b4622'
 title: 'Pinacoteca de Brera: Guía de viaje de Milán (4,7★)'
 description: 'La Pinacoteca de Brera es la gran galería renacentista de Milán, instalada en el piso superior de un palacio del siglo XVII en el barrio de Brera, a poca distancia a pie de las estaciones de metro Montenapoleone o Lanza (línea 2). 4,7★ (35.279 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: La Pinacoteca de Brera es la gran galería renacentista de Milán, instalada en el piso superior de un palacio del siglo XVII en el barrio de Brera, a poca distancia a pie de las estaciones de metro Montenapoleone o Lanza (línea 2). En unas dos horas se pueden ver el escorzado "Cristo muerto" de Mantegna, el retablo Montefeltro de Piero della Francesca y "Los desposorios de la Virgen" de Rafael. Conviene ir justo a la apertura o después de las 18:00 para evitar la aglomeración de fin de semana que se forma entre las 10:00 y las 18:00.
@@ -11,7 +11,7 @@ faq:
   - q: ¿Cuánto tiempo hay que reservar para la visita?
     a: La mayoría de los visitantes dedica entre 90 minutos y 2 horas; la colección es lo bastante compacta como para verla con detenimiento sin necesidad de dedicarle el día entero.
   - q: ¿Cuál es el momento más tranquilo para visitarla?
-    a: Los datos de afluencia muestran que, en general, tanto los días laborables como los fines de semana son bastante tranquilos durante el horario de 8:30 a 19:15, aunque los fines de semana se produce una aglomeración notable entre las 10:00 y las 18:00. Conviene llegar cerca de la apertura o después de las 18:00 para evitarla.
+    a: Los datos de afluencia muestran que tanto los días laborables como los fines de semana son más tranquilos de 18:00 a 19:00 (los lunes está cerrada), aunque los días laborables hay más afluencia entre las 12:00 y las 17:00 y los fines de semana se produce una aglomeración notable entre las 10:00 y las 18:00. Conviene llegar cerca de la apertura o después de las 18:00 para evitarla.
   - q: ¿Cuáles son las obras imprescindibles?
     a: El 'Cristo muerto' de Mantegna, el retablo Montefeltro de Piero della Francesca, 'Los desposorios de la Virgen' de Rafael, 'La cena de Emaús' de Caravaggio y 'El beso' de Hayez son las piezas más destacadas que buscan primero la mayoría de los visitantes.
   - q: ¿Qué más hay cerca?
@@ -38,7 +38,7 @@ Conviene reservar al menos noventa minutos, o dos horas si se quiere contemplar 
 
 ## Cuándo ir
 
-Según los patrones de afluencia previstos, tanto los días laborables como los fines de semana se mantienen relativamente tranquilos durante la mayor parte del día, aunque los fines de semana se produce un aumento notable entre las 10:00 y las 18:00, cuando los grupos turísticos y los visitantes de un día se concentran en las salas principales. Conviene llegar cerca de la apertura o después de las 18:00 en fin de semana, o bien elegir una mañana entre semana, para disfrutar de las salas de Mantegna y Rafael con más tranquilidad.
+Según los patrones de afluencia previstos, tanto los días laborables como los fines de semana son más tranquilos de 18:00 a 19:00, aunque los días laborables hay más afluencia entre las 12:00 y las 17:00 y los fines de semana se produce un aumento notable entre las 10:00 y las 18:00, cuando los grupos turísticos y los visitantes de un día se concentran en las salas principales. Conviene llegar cerca de la apertura o después de las 18:00 en fin de semana, o bien elegir una mañana entre semana, para disfrutar de las salas de Mantegna y Rafael con más tranquilidad.
 
 Las mañanas de primavera y principios de otoño son agradables para prolongar la visita después en el patio de Brera o por las calles cercanas, pero el museo en sí es también un buen plan para un día de lluvia en cualquier época del año, ya que todo transcurre en interiores y sin prisas.
 

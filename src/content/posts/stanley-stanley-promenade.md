@@ -53,14 +53,14 @@ place:
 tags:
   - "stanley"
   - "top attraction"
-quickAnswer: "Stanley Promenade is a tree-shaded waterfront boardwalk in Stanley, on Hong Kong's southern coast, lined with al fresco cafés, benches, and views across Stanley Bay to the old police station and Murray House. It's open 24 hours and never feels overrun — weekends stay calm from 7am to 5pm before evening crowds build. Give it 45 minutes to an hour, ideally paired with Stanley Market and Murray House just steps away."
+quickAnswer: "Stanley Promenade is a tree-shaded waterfront boardwalk in Stanley, on Hong Kong's southern coast, lined with al fresco cafés, benches, and views across Stanley Bay to the old police station and Murray House. It's open 24 hours and never feels overrun — weekends are calmest from 7am to 8am and 3pm to 5pm, before evening crowds build. Give it 45 minutes to an hour, ideally paired with Stanley Market and Murray House just steps away."
 faq:
   - q: "How do I get to Stanley Promenade from Central Hong Kong?"
     a: "Take bus 6, 6X, or 260 from Central's Exchange Square bus terminus; the ride takes 30–40 minutes depending on traffic. Get off at the Stanley terminus and walk downhill about five minutes to the waterfront."
   - q: "Is there an entrance fee?"
     a: "No, Stanley Promenade is a free public waterfront walkway, open 24 hours every day. There's no ticket or booking required."
   - q: "When is the quietest time to visit?"
-    a: "On weekends it's calmest between 7am and 5pm. After that, crowds build steadily and the busiest stretch runs from 8am to 11pm as day-trippers and evening diners arrive."
+    a: "On weekends it's calmest between 7am and 8am and between 3pm and 5pm. After that, crowds build steadily and the busiest stretch runs from 6pm to 11pm as day-trippers and evening diners arrive, with another busy hour from 8am to 9am."
   - q: "How long should I spend at the promenade?"
     a: "Plan for 45 minutes to an hour to walk the full stretch and sit at a café, plus extra time if you're continuing into Stanley Market or Murray House nearby."
   - q: "What else is near the promenade worth combining with a visit?"
@@ -97,9 +97,9 @@ At the far end, the promenade connects to Stanley Main Street and the market's c
 
 ## When to go
 
-Because it's open 24 hours, timing is flexible, but the light and crowd levels shift a lot through the day. Morning brings soft light off the water and far fewer people.
+Because it's open 24 hours, timing is flexible, but the light and crowd levels shift a lot through the day. Morning brings soft light off the water and, on weekends from 7am to 8am, far fewer people.
 
-After that, especially into the evening, the promenade fills up fast; expect busier crowds as day-trippers and dinner crowds arrive. If you want photos without people in every frame, aim for early morning on a weekday.
+After that, especially into the evening, the promenade fills up fast; expect busier crowds as day-trippers and dinner crowds arrive. If you want photos without people in every frame, aim for 7am to 8am on a weekend.
 
 Sunset is worth planning around too, the bay faces west-southwest, and the light over the water in late afternoon is a different, warmer mood than the flat brightness of midday.
 
@@ -111,6 +111,6 @@ Cafés and bars along the front generally take cards and mobile payment (Octopus
 
 There's no ticketing, booking, or queue here. It's a public waterfront, free and open around the clock. The main tourist mistake is rushing straight from the bus into the market and skipping the water side entirely; walk the bay front first, then loop into the market lanes once you're oriented.
 
-If you want the quiet version of Stanley, come before 9am on a weekend, get a coffee, and sit facing the water before the day-trip buses unload. Bring your own reusable bottle. There are cafés along the way, but it's a long, warm walk in summer without one.
+If you want the quiet version of Stanley, come between 7am and 8am on a weekend, get a coffee, and sit facing the water before the day-trip buses unload. Bring your own reusable bottle. There are cafés along the way, but it's a long, warm walk in summer without one.
 
 Pair the visit with Murray House and the market, but budget your time so the promenade isn't just a five-minute pass-through, an hour lets the place breathe.

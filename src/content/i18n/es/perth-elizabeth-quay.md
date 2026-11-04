@@ -1,13 +1,13 @@
 ---
 lang: es
 slug: perth-elizabeth-quay
-srcHash: '0d1985fecfa8'
+srcHash: '22478263ec9a'
 title: 'Elizabeth Quay: guía de viaje de Perth (4.6★)'
 description: 'A orillas del río Swan, en el extremo sur del centro de Perth (CBD), se extiende el paseo ribereño de Elizabeth Quay, al que se llega desde la estación de tren Elizabeth Quay, desde el embarcadero de ferris de Transperth o con un breve paseo por Barrack Street o William Street. 4.6★ (22,169 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: A orillas del río Swan, en el extremo sur del centro de Perth (CBD), se extiende el paseo ribereño de Elizabeth Quay, al que se llega desde la estación de tren Elizabeth Quay, desde el embarcadero de ferris de Transperth o con un breve paseo por Barrack Street o William Street. Los fines de semana, la mayor afluencia se concentra entre las 11am y las 11pm. Si desea disfrutar a solas del puente, de la isla y de la escultura Spanda, acuda un sábado o un domingo entre las 7am y las 9am.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar Elizabeth Quay?
-    a: Los fines de semana, la franja más tranquila va de las 7am a las 9am. Conviene evitar sábados y domingos entre las 11am y las 11pm, ya que es entonces cuando el muelle registra mayor afluencia. No disponemos de datos sobre la afluencia entre semana.
+    a: Los fines de semana, la franja más tranquila va de las 7am a las 9am. Conviene evitar sábados y domingos entre las 11am y las 11pm, ya que es entonces cuando el muelle registra mayor afluencia. Entre semana, la previsión no marca ninguna franja tranquila.
   - q: ¿Cómo se llega a Elizabeth Quay en transporte público?
     a: En tren hasta la estación Elizabeth Quay, en la línea que va a Mandurah, o en autobús hasta la estación Elizabeth Quay Bus Station. El autobús gratuito Blue CAT también para cerca. Desde South Perth, el ferri de Transperth sale del embarcadero de Mends Street.
   - q: ¿Cuánto tiempo conviene dedicar a Elizabeth Quay?
@@ -41,7 +41,7 @@ La afluencia sigue aquí un patrón muy marcado. Los fines de semana, el momento
 
 La solución es madrugar. Los sábados y domingos, entre las 7am y las 9am, el paseo queda en manos de corredores, de ciclistas que recorren el camino ribereño y de algún que otro fotógrafo. Podrá detenerse en lo alto del puente sin que nadie espere detrás de usted.
 
-A esas horas, además, el sol bajo ilumina desde el este las torres de la ciudad, y el agua de la dársena suele estar en calma hasta que se levanta la brisa. Es el momento ideal para fotografiar Spanda sin desconocidos en el encuadre. No disponemos de cifras de afluencia entre semana, así que esos días deben considerarse sin datos.
+A esas horas, además, el sol bajo ilumina desde el este las torres de la ciudad, y el agua de la dársena suele estar en calma hasta que se levanta la brisa. Es el momento ideal para fotografiar Spanda sin desconocidos en el encuadre. Entre semana, la previsión no marca ninguna franja tranquila.
 
 ## Cómo llegar en tren, en ferri o a pie
 

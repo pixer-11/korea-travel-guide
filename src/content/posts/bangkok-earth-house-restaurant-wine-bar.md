@@ -56,8 +56,8 @@ tags:
 quickAnswer: >-
   Earth House is a plant-forward restaurant and wine bar tucked down Soi
   Sukhumvit 53 in Watthana, a short walk from Thong Lo BTS. Go on a weekend
-  morning for the brunch menu, or slide in near closing (10–11pm) when the crowd
-  thins out. It's closed Mondays, and weekday service doesn't start until
+  morning for the brunch menu, before the busy stretch from noon to close, or on a weekday
+  after the 8–9pm peak; the forecast flags no standout quiet hour. It's closed Mondays, and weekday service doesn't start until
   1:30pm.
 faq:
   - q: How do I get to Earth House from the BTS?
@@ -71,7 +71,7 @@ faq:
       Saturday 9am–11pm, and Sunday 9am–10pm. It's closed all day Monday.
   - q: When is the quietest time to visit?
     a: >-
-      On weekends, the 10–11pm hour before closing is the calmest. The busiest
+      On weekends, the forecast flags no standout quiet hour, so come in the morning, before noon. The busiest
       stretch is midday through closing on Saturday and Sunday, so avoid
       arriving unannounced around lunch.
   - q: Is Earth House good for vegetarians and vegans?
@@ -125,14 +125,14 @@ Portions favor quality over quantity, so plan on two or three dishes per person 
 
 Hours shift through the week, so check the day before you plan around it. Weekdays see a later opening, with no morning or lunch service those days. Weekends open earlier, making weekend mornings the window for brunch. It's closed all day Monday.
 
-Weekends are the busiest stretch overall, with steady traffic from noon straight through to closing. If you want the dining room closer to yourself, the last hour before close, 10 to 11pm on weekends, is consistently the quietest window.
+Weekends are the busiest stretch overall, with steady traffic from noon straight through to closing. If you want the dining room closer to yourself, come on a weekend morning before noon, or on a weekday after the 8 to 9pm peak, since the forecast flags no standout quiet hour.
 
 ## How to visit like a local
 
 Earth House isn't a hidden name exactly, but it still flies well under the radar compared to Bangkok's bigger-name wine bars, so you won't be fighting crowds most nights.
 
 - **Book for weekend brunch**, the weekend stretch draws the most people, especially midday onward.
-- **Go late for calm**. The 10–11pm window on weekends is your best shot at a relaxed, near-empty room.
+- **Dodge the peaks**. The forecast flags no standout quiet hour, so aim for a weekend morning before noon or a weekday after the 8–9pm peak.
 - **Pay by card or mobile**, most Bangkok restaurants in this bracket accept both; cash isn't necessary but small bills help for taxis.
 - **Skip lunch on weekdays**. Weekdays open later, so don't plan a midday stop those days.
 - **Come hungry for wine, not just food**, the by-the-glass list rotates, so ask staff what's open that week rather than sticking to a fixed menu.

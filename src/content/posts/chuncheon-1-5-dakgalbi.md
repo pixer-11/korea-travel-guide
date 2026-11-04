@@ -62,7 +62,7 @@ tags:
 quickAnswer: >-
   1.5 Dakgalbi is a well-known dakgalbi restaurant at 77 Human-ro in Chuncheon,
   the city considered the birthplace of this spicy stir-fried chicken dish. It's
-  calm any time from 11am to 10pm on both weekdays and weekends, but try to skip
+  calmest from 11am to 5pm on weekdays and from 11am to 12pm on weekends, but try to skip
   the 5pm–10pm weekend window, when tables fill fast. Budget mid-range prices,
   cash or card, and go with at least one other person since dakgalbi is built
   for sharing.
@@ -74,7 +74,7 @@ faq:
       Human-ro in the dakgalbi restaurant district.
   - q: When is the quietest time to visit?
     a: >-
-      Foot-traffic data shows it's calm from 11am to 10pm on both weekdays and
+      Foot-traffic data shows it's calmest from 11am to 5pm on weekdays and from 11am to 12pm on
       weekends — just avoid the weekend dinner window of 5pm to 10pm, when it
       gets busiest.
   - q: How much does dakgalbi cost here?

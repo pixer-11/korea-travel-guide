@@ -4,7 +4,7 @@ slug: sunshine-coast-eumundi-markets
 srcHash: '82094061840e'
 title: 'Mercado de Eumundi (Eumundi Markets): guía de viaje por la Sunshine Coast (4.5★)'
 description: En Memorial Drive, en Eumundi, se instala el Eumundi Markets. Este pueblo del interior de la Sunshine Coast queda a unos 20 minutos de Noosa, y el mercado abre actualmente solo los miércoles y sábados, de 7:30am a 2pm. Con 4.5★ (12,595 reseñas), aquí encontrará las opiniones de los visitantes, el horario y varios consejos.
-quickAnswer: El Eumundi Markets se celebra en Memorial Drive, en Eumundi, un pueblo del interior de la Sunshine Coast situado a unos 20 minutos de Noosa. Actualmente solo abre los miércoles y sábados, de 7:30am a 2pm. Los sábados la mayor afluencia va de 8am a 2pm, de modo que ese día la única franja tranquila es la primera media hora tras la apertura. Reserve entre dos y tres horas para la visita.
+quickAnswer: El Eumundi Markets se celebra en Memorial Drive, en Eumundi, un pueblo del interior de la Sunshine Coast situado a unos 20 minutos de Noosa. Actualmente solo abre los miércoles y sábados, de 7:30am a 2pm. Los sábados la mayor afluencia va de 8am a 2pm, de modo que ese día la única franja antes del pico es la primera media hora tras la apertura. Reserve entre dos y tres horas para la visita.
 faq:
   - q: ¿Qué días abre el Eumundi Markets?
     a: Actualmente abre los miércoles y sábados, de 7:30am a 2pm. Los otros cinco días permanece cerrado. Como los festivos pueden alterar el calendario, conviene consultar la web oficial antes de ir.

@@ -1,13 +1,13 @@
 ---
 lang: es
 slug: dresden-pulverturm
-srcHash: '7d16915e3047'
+srcHash: '60a6c5eec6ca'
 title: 'Pulverturm: dónde comer en Dresde (4.6★)'
 description: 'En An der Frauenkirche 12, en pleno Dresden-Altstadt, el Pulverturm sirve cocina internacional con servicio en mesa. Ocupa un edificio de varios siglos situado a pocos pasos de la Frauenkirche, en el Neumarkt. 4.6★ (5,085 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En An der Frauenkirche 12, en pleno Dresden-Altstadt, el Pulverturm sirve cocina internacional con servicio en mesa. Ocupa un edificio de varios siglos situado a pocos pasos de la Frauenkirche, en el Neumarkt. Sus precios son algo elevados y tiene muchísima demanda, así que conviene reservar. Los fines de semana, entre las 14:00 y las 22:00, se llena más que nunca, por lo que es mejor evitar esa franja. Tenga en cuenta también que los miércoles cierra.
 faq:
   - q: ¿Cuál es el momento más tranquilo para ir al Pulverturm?
-    a: Solo disponemos de previsiones sobre la franja de mayor afluencia, que son los fines de semana de 14:00 a 22:00, así que procure evitarla. Los sábados y domingos el restaurante abre a las 11:00, de modo que un almuerzo a última hora de la mañana se adelanta a ese pico. Otra alternativa para esquivarlo es comer entre semana a partir del mediodía, ya sea lunes, martes o jueves.
+    a: La previsión no marca ninguna franja tranquila; la de mayor afluencia es la de los fines de semana de 14:00 a 22:00 (entre semana, de 18:00 a 21:00), así que procure evitarla. Los sábados y domingos el restaurante abre a las 11:00, de modo que un almuerzo a última hora de la mañana se adelanta a ese pico. Otra alternativa para esquivarlo es comer entre semana a partir del mediodía, ya sea lunes, martes o jueves.
   - q: ¿Abre el Pulverturm los miércoles?
     a: No, el miércoles permanece cerrado todo el día. Los lunes, martes y jueves abre a mediodía, mientras que de viernes a domingo lo hace a las 11:00. El viernes y el sábado cierra a medianoche, y a las 23:00 el resto de los días de apertura.
   - q: ¿Hace falta reservar?

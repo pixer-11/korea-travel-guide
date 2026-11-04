@@ -2,7 +2,7 @@
 title: 'Louvre Museum: Paris Travel Guide'
 description: >-
   Go right at opening (9am) on a Wednesday or Friday, when the museum stays open
-  until 9pm and the crowds thin dramatically after the morning rush.
+  until 9pm and the crowds thin dramatically after the 12pm–5pm rush.
 country: France
 region: Paris
 category: attraction
@@ -60,7 +60,7 @@ tags:
   - Louvre Museum
 quickAnswer: >-
   Go right at opening (9am) on a Wednesday or Friday, when the museum stays open
-  until 9pm and the crowds thin dramatically after the morning rush. Enter via
+  until 9pm and the crowds thin dramatically after the 12pm–5pm rush. Enter via
   the Pyramid or, better, the underground Carrousel du Louvre entrance (Métro
   Palais-Royal–Musée du Louvre, Line 1) to skip the surface queue. Budget half a
   day if you want to see the highlights properly, a full day if you want to
@@ -117,7 +117,7 @@ If you want quieter rooms, the Near Eastern antiquities and the Islamic art gall
 
 The museum is closed on Tuesdays, so don't show up expecting a quiet weekday visit then. You'll find the doors shut. On the days it is open, hours generally run from morning into the early evening, with two evenings each week when the museum stays open later. Those two late nights are genuinely the best window: the tour-bus crowds thin out after about 5pm, and the lower evening light through the Pyramid's glass panels is worth seeing on its own.
 
-The crowd forecast backs this up. The calmest stretch on weekdays is 9am–10am, right at opening, while weekends stay comparatively manageable pretty much all day (9am–7pm), aside from the 11am–6pm stretch, which is consistently the busiest window and worth avoiding if you can help it.
+The crowd forecast backs this up. The calmest stretch on both weekdays and weekends is 9am–10am, right at opening, while 11am–6pm on weekends is consistently the busiest window and worth avoiding if you can help it.
 
 ## How to visit like a local
 

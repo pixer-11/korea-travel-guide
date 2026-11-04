@@ -47,12 +47,12 @@ place:
 tags:
   - valencia
   - historic site
-quickAnswer: Torres de Serranos is a 14th-century Gothic gate-tower guarding the old entrance to Valencia's medieval city, and it's worth an hour to climb the spiral stairs for the rooftop panorama over the Turia riverbed gardens and the old town's tiled domes. It's calm most of the week from 10am to 7pm (10am–2pm on Sundays); the crush comes on Saturdays between noon and 6pm, so aim for an early or late slot then. Entry is inexpensive (often free on certain days — confirm current hours and price before you go), and the climb itself takes 45–60 minutes including time at the top.
+quickAnswer: Torres de Serranos is a 14th-century Gothic gate-tower guarding the old entrance to Valencia's medieval city, and it's worth an hour to climb the spiral stairs for the rooftop panorama over the Turia riverbed gardens and the old town's tiled domes. It's calmest from 10am to 11am all week (and 2pm–3pm on Saturdays); the crush comes on Saturdays between noon and 2pm and from 3pm to 6pm, and on Sundays from noon to the 2pm closing, so aim for an early slot then, or a late one on Saturday. Entry is inexpensive (often free on certain days — confirm current hours and price before you go), and the climb itself takes 45–60 minutes including time at the top.
 faq:
   - q: How long should I spend at Torres de Serranos?
     a: "Plan on 45–60 minutes: about 20 minutes to climb both towers via the spiral stairs, plus time to linger on the rooftop terraces for the view over the Turia gardens and old town."
   - q: What's the quietest time to visit?
-    a: Weekdays between roughly 10am and 7pm are consistently calmer, as are Sunday mornings before the 2pm closing. Avoid Saturdays from noon to 6pm, when it's busiest with tour groups and day-trippers.
+    a: Weekdays between 10am and 11am are the calmest, as are weekend mornings from 10am to 11am and Saturdays from 2pm to 3pm. Avoid Saturdays from noon to 2pm and 3pm to 6pm, and Sundays from noon to the 2pm closing, when it's busiest with tour groups and day-trippers.
   - q: How do I get to Torres de Serranos?
     a: Walk through the Turia riverbed gardens and cross the Puente de Serranos bridge, which puts you right at the entrance. By metro, Alameda station (Lines 3/5) is about a 15-minute walk away.
   - q: Is there an admission fee?
@@ -83,7 +83,7 @@ Several city bus routes also stop nearby on Paseo de la Pechina. It's a natural 
 
 ## When to go
 
-The towers are busiest on Saturdays between noon and 6pm, and on Sunday mornings before the 2pm closing, when tour groups and day-trippers converge with the after-lunch crowd. That's the window to avoid if you want the staircase and rooftop to yourself. On weekdays, roughly 10am to 7pm stays noticeably calmer (note that on Sundays the towers close at 2pm), and that's when the light is better for photos too: early sun raking across the stonework, or late-afternoon gold hitting the west-facing terrace.
+The towers are busiest on Saturdays between noon and 2pm and from 3pm to 6pm, and on Sundays from noon to the 2pm closing, when tour groups and day-trippers converge with the after-lunch crowd. Those are the windows to avoid if you want the staircase and rooftop to yourself. On weekdays, 10am to 11am is the calmest stretch (note that on Sundays the towers close at 2pm), and the early and late hours are when the light is better for photos too: early sun raking across the stonework, or late-afternoon gold hitting the west-facing terrace.
 
 Spring and autumn evenings are especially good, since the Mediterranean heat has eased but there's still enough daylight to see the view properly.
 
@@ -95,6 +95,6 @@ Budget an hour for the towers themselves, or fold them into a half-day loop thro
 
 ## How to visit like a local
 
-Skip the midday weekend rush, locals crossing the gardens tend to pass through in the early morning or as the evening cools down, both of which line up with the quieter 10am–7pm stretch (10am–2pm on Sundays) the crowd data shows. There's no formal booking system typically required for a visit this size; you simply queue at the entrance and pay on arrival, so bring small change or a card since ticket booths at Valencia's monuments often prefer contactless payment.
+Skip the midday weekend rush, locals crossing the gardens tend to pass through in the early morning or as the evening cools down, the earlier of which lines up with the quieter 10am–11am opening hour the crowd data shows. There's no formal booking system typically required for a visit this size; you simply queue at the entrance and pay on arrival, so bring small change or a card since ticket booths at Valencia's monuments often prefer contactless payment.
 
 Dress for stairs: the spiral staircase is stone, uneven in places, and has no elevator, so flat shoes matter more here than at almost any other stop in the old town. The mistake most visitors make is treating this as a five-minute photo op from the plaza below. The real payoff is on top, so give yourself the full climb rather than admiring the towers only from street level. Confirm same-day opening hours and admission price locally before you go, since municipal monuments in Valencia periodically adjust both.

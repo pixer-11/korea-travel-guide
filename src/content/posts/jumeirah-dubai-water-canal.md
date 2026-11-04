@@ -83,7 +83,7 @@ quickAnswer: >-
   The Dubai Water Canal is a 3.2km artificial waterway looping through Al Safa
   and Jumeirah, lined with promenades, bridges, and the Dubai Water Canal Mall —
   free to walk anytime, since it's open 24 hours. Go early morning for the
-  coolest air and softest light; on weekends it's calmest 7am–3pm and busiest
+  coolest air and softest light; on weekends it's calmest 7am–9am and busiest
   9am–11pm. Budget 1-2 hours for a stroll, longer if you're cycling the full
   loop.
 faq:
@@ -98,7 +98,7 @@ faq:
       24 hours a day, every day.
   - q: When is the quietest time to visit?
     a: >-
-      On weekends, it's calmest between 7am and 3pm. Try to avoid 9am–11pm on
+      On weekends, it's calmest between 7am and 9am. Try to avoid 9am–11pm on
       weekends, when it's at its busiest.
   - q: How long should I spend here?
     a: >-

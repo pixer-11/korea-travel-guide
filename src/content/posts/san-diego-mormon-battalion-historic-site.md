@@ -62,14 +62,14 @@ place:
 tags:
   - "san diego"
   - "historic site"
-quickAnswer: "The Mormon Battalion Historic Site sits on Juan St in San Diego's Old Town, right along the walkable historic park district, and admission is free. It's open daily except Tuesday and Sunday mornings, and the calmest window is 10am to 1pm on weekends before the afternoon rush of family groups. Budget about an hour, since the visit runs as a guided, scene-by-scene walkthrough rather than a self-paced museum."
+quickAnswer: "The Mormon Battalion Historic Site sits on Juan St in San Diego's Old Town, right along the walkable historic park district, and admission is free. It's open daily except Tuesday and Sunday mornings, and the calmest window is 10am to 11am on Saturday, before the rush of family groups. Budget about an hour, since the visit runs as a guided, scene-by-scene walkthrough rather than a self-paced museum."
 faq:
   - q: "How much does it cost to visit the Mormon Battalion Historic Site?"
     a: "Admission is free. The site operates on donations and there's no ticket counter."
   - q: "How long should I plan for the visit?"
     a: "Most guided walkthroughs run 45 minutes to an hour, depending on how many questions you ask along the way."
   - q: "When is the quietest time to visit?"
-    a: "On weekends, 10am to 1pm is calmest; things pick up steadily from 11am and stay busy until closing at 7pm."
+    a: "On Saturdays, 10am to 11am is calmest; things pick up steadily from 11am and stay busy until closing at 7pm."
   - q: "What are the opening hours?"
     a: "Monday, Wednesday through Saturday it's open 10am to 7pm. Tuesday and Sunday it doesn't open until 1pm, also closing at 7pm."
   - q: "Is it easy to combine with other Old Town sights?"
@@ -108,7 +108,7 @@ If you're building a morning around Old Town and land here on a Tuesday, you'll 
 
 ## Beating the weekend crowd
 
-Weekends here run busy from 11am straight through to closing at 7pm, largely families working the site into a full day in Old Town. The quieter stretch is 10am to 1pm on weekends, before that afternoon wave builds. If a weekday works for your schedule, you'll generally find smaller groups and more one-on-one time with your guide, since tours here are often shared with whoever else has just walked in.
+Weekends here run busy from 11am straight through to closing at 7pm, largely families working the site into a full day in Old Town. The quieter stretch is 10am to 11am on Saturday, before that wave builds. If a weekday works for your schedule, you'll generally find smaller groups and more one-on-one time with your guide, since tours here are often shared with whoever else has just walked in.
 
 ## The march itself, in the rooms
 
@@ -124,4 +124,4 @@ If you want a shorter or more in-depth version, mention it at the start; guides 
 
 ## Pairing it with Old Town
 
-Because the site sits right at the edge of Old Town San Diego State Historic Park, it's easy to treat this as one stop in a longer walk rather than a standalone destination. Most visitors spend under an hour here, then continue on to the park's adobe buildings, shops, and restaurants a few minutes' walk away. Given the free admission and short duration, it works well as a mid-day break, especially timed to that 10am to 1pm weekend window, before the afternoon crowds settle into both the historic site and the park around it.
+Because the site sits right at the edge of Old Town San Diego State Historic Park, it's easy to treat this as one stop in a longer walk rather than a standalone destination. Most visitors spend under an hour here, then continue on to the park's adobe buildings, shops, and restaurants a few minutes' walk away. Given the free admission and short duration, it works well as a late-morning break, especially timed to that 10am to 11am Saturday window, before the crowds settle into both the historic site and the park around it.

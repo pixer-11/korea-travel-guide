@@ -74,9 +74,9 @@ tags:
 quickAnswer: >-
   Louvre Abu Dhabi, on Saadiyat Island, is worth a full half-day: 2-3 hours for
   the galleries plus time to walk the dome and waterfront. It's closed Mondays,
-  open 10am–6:30pm Tuesday–Thursday and until 8:30pm Friday–Sunday. Arrive right
-  at 10am on a weekend to catch the calmest window, 10am–12pm, before the museum
-  fills up.
+  open 10am–6:30pm Tuesday–Thursday and until 8:30pm Friday–Sunday. The forecast flags no standout
+  quiet hour on weekends, which stay busy from 10am to 7pm, so aim for the stretch
+  after 7pm, before the 8:30pm close.
 faq:
   - q: How much time should I budget for Louvre Abu Dhabi?
     a: >-
@@ -85,9 +85,9 @@ faq:
       waterfront promenade, or grab a meal on-site.
   - q: What's the quietest time to visit?
     a: >-
-      On weekends, 10am to noon is the calmest window based on typical foot
+      On weekends, the forecast flags no standout quiet hour based on typical foot
       traffic. Weekend crowds build steadily and stay heavy from opening until
-      around 7pm, so arriving right at 10am is your best bet.
+      around 7pm, so arriving after 7pm, before the 8:30pm close, is your best bet.
   - q: Is Louvre Abu Dhabi closed any days?
     a: >-
       Yes, it's closed all day Monday. It's open 10am–6:30pm Tuesday through
@@ -135,7 +135,7 @@ Outside, the museum is genuinely surrounded by water, the Gulf laps right up aga
 
 The museum is closed all day Monday, so don't plan around it. Tuesday through Thursday it runs 10am–6:30pm; Friday through Sunday it stays open later, until 8:30pm, which is worth using if you want to see the dome lit at dusk.
 
-Weekends get busy fast, with crowds building from the moment the doors open. If you want the galleries to yourself, arrive before the doors open, or visit on a weekday instead.
+Weekends get busy fast, with crowds building from the moment the doors open. If you want to miss the crowds, come after 7pm, or visit on a weekday after 5pm instead.
 
 ## What to eat
 
@@ -145,7 +145,7 @@ If you'd rather eat off-site, Saadiyat Island has a handful of beach clubs and h
 
 ## How to visit like a local
 
-Louvre Abu Dhabi is one of the most-visited attractions in the UAE, so treat it like a busy museum, not a quiet find. The way to beat the crowds is timing: go right at 10am opening on a weekend, or any weekday morning, rather than the mid-afternoon rush.
+Louvre Abu Dhabi is one of the most-visited attractions in the UAE, so treat it like a busy museum, not a quiet find. The way to beat the crowds is timing: go after 7pm on a weekend, or after 5pm on a weekday, rather than in the busy hours that start at the 10am opening.
 
 Buy your ticket online ahead of time. It's the standard way locals and residents visit, since it skips the ticket-counter queue entirely and lets you walk straight to security. Payment on-site is by card or mobile pay as much as cash.
 

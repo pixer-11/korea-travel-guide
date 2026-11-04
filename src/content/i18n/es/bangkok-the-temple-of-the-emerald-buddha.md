@@ -1,15 +1,15 @@
 ---
 lang: es
 slug: bangkok-the-temple-of-the-emerald-buddha
-srcHash: '0bdfb8423878'
+srcHash: '67c91affe3f0'
 title: 'El Templo del Buda de Esmeralda: Guía de viaje de Bangkok'
 description: 'Wat Phra Kaew, dentro del complejo del Gran Palacio en el casco antiguo de Rattanakosin Island, en Bangkok, abre todos los días de 8:30 a 3:30 de la tarde y lo mejor es visitarlo justo a la apertura. 4.7★ (43,725 reseñas): lo que dicen los visitantes, horarios y consejos.'
-quickAnswer: Wat Phra Kaew, dentro del complejo del Gran Palacio en el casco antiguo de Rattanakosin Island, en Bangkok, abre todos los días de 8:30am a 3:30pm y lo mejor es visitarlo justo a la apertura. Llega entre las 8:30am y las 9:30am —la franja más tranquila prevista tanto en días de semana como en fines de semana—, porque entre las 10am y el mediodía de los fines de semana se acumulan los autobuses turísticos y la cola para las entradas se extiende a lo largo de Na Phra Lan Road. Reserva entre dos y tres horas, viste con hombros y rodillas cubiertos, y ve en ferry fluvial hasta el muelle de Tha Chang en lugar de lidiar con el tráfico de Bangkok en coche.
+quickAnswer: Wat Phra Kaew, dentro del complejo del Gran Palacio en el casco antiguo de Rattanakosin Island, en Bangkok, abre todos los días de 8:30am a 3:30pm y lo mejor es visitarlo justo a la apertura. Llega entre las 8:30am y las 9:30am —antes de las horas de más afluencia previstas tanto en días de semana como en fines de semana—, porque entre las 10am y el mediodía de los fines de semana se acumulan los autobuses turísticos y la cola para las entradas se extiende a lo largo de Na Phra Lan Road. Reserva entre dos y tres horas, viste con hombros y rodillas cubiertos, y ve en ferry fluvial hasta el muelle de Tha Chang en lugar de lidiar con el tráfico de Bangkok en coche.
 faq:
   - q: ¿Cuál es el horario de apertura?
     a: Todos los días, de 8:30am a 3:30pm, incluidos fines de semana y la mayoría de los días festivos; consulta si hay cierres puntuales por ceremonias reales antes de ir.
   - q: ¿Cuál es el momento con menos gente para visitarlo?
-    a: Entre las 8:30am y las 9:30am, tanto en días de semana como en fines de semana. Los fines de semana se llena más entre las 10am y el mediodía, así que procura estar dentro antes de esa hora.
+    a: La previsión no marca ninguna franja tranquila, así que llega entre las 8:30am y las 9:30am, tanto en días de semana como en fines de semana. Los fines de semana se llena más entre las 10am y el mediodía, así que procura estar dentro antes de esa hora.
   - q: ¿Cómo llego sin coche?
     a: Toma el Chao Phraya Express Boat hasta el muelle de Tha Chang (unos 5 minutos a pie hasta la entrada), o el MRT Línea Azul hasta la estación Sanam Chai, y luego camina entre 10 y 15 minutos aproximadamente.
   - q: ¿Cuánto tiempo debería planear pasar allí?
@@ -38,7 +38,7 @@ Busca el Phra Si Rattana Chedi, la estupa dorada con forma de campana que, segú
 
 ## Cuándo ir
 
-El complejo abre todos los días, y por lo general la última entrada se aplica bastante antes del cierre, así que se trata de una visita de mañana a primera hora de la tarde, no de última hora del día. Calcula entre dos y tres horas para recorrer el sitio. Las mañanas de días de semana entre las 8:30am y las 9:30am son sistemáticamente la franja con menos gente, y esa misma franja de 8:30 a 9:30am se mantiene también los fines de semana; conviene priorizarla si el fin de semana es tu única opción, ya que el tráfico de visitantes aumenta rápido y el tramo de 10am a mediodía los sábados y domingos es el momento de mayor aglomeración que conviene evitar.
+El complejo abre todos los días, y por lo general la última entrada se aplica bastante antes del cierre, así que se trata de una visita de mañana a primera hora de la tarde, no de última hora del día. Calcula entre dos y tres horas para recorrer el sitio. La previsión no marca ninguna franja tranquila, pero las mañanas de días de semana entre las 8:30am y las 9:30am se adelantan a la hora de más afluencia, de 11am a mediodía, y esa misma franja de 8:30 a 9:30am se mantiene también los fines de semana; conviene priorizarla si el fin de semana es tu única opción, ya que el tráfico de visitantes aumenta rápido y el tramo de 10am a mediodía los sábados y domingos es el momento de mayor aglomeración que conviene evitar.
 
 Los meses más frescos y secos de Bangkok, de noviembre a febrero, hacen que los patios sin sombra sean más llevaderos; hacia el mediodía de abril o mayo, el trabajo de azulejos reflectantes convierte las plazas en un horno.
 

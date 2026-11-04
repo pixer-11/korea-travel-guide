@@ -1,10 +1,10 @@
 ---
 lang: es
 slug: wan-chai-wan-chai-pak-tai-temple
-srcHash: '3cf4b7b60260'
+srcHash: '91ada0d06bba'
 title: 'Templo Pak Tai de Wan Chai: guía de viaje (4,5★)'
 description: 'El templo Pak Tai de Wan Chai se encuentra en Lung On Street, a pocos minutos a pie de la salida del metro (MTR) de Tin Hau, y abre todos los días de 8:00 a 17:00. 4,5★ (401 reseñas): lo que dicen los visitantes, horarios y consejos.'
-quickAnswer: El templo Pak Tai de Wan Chai se encuentra en Lung On Street, a pocos minutos a pie de la salida del metro (MTR) de Tin Hau, y abre todos los días de 8:00 a 17:00. El momento de mayor calma es entre las 8:00 y las 10:00, tanto entre semana como los fines de semana, así que una visita temprana permite disfrutar del humo del incienso y del patio en silencio sin la afluencia de público que hay entre las 11:00 y las 16:00. Calcule entre 20 y 30 minutos, salvo que se detenga a observar a los encargados del templo en su trabajo.
+quickAnswer: El templo Pak Tai de Wan Chai se encuentra en Lung On Street, a pocos minutos a pie de la salida del metro (MTR) de Tin Hau, y abre todos los días de 8:00 a 17:00. El momento de mayor calma es entre las 8:00 y las 10:00, tanto entre semana como los fines de semana, así que una visita temprana permite disfrutar del humo del incienso y del patio en silencio sin la afluencia de público que hay entre las 14:00 y las 16:00 entre semana y entre las 11:00 y las 16:00 los fines de semana. Calcule entre 20 y 30 minutos, salvo que se detenga a observar a los encargados del templo en su trabajo.
 faq:
   - q: ¿Cómo se llega al templo Pak Tai de Wan Chai?
     a: Está en Lung On Street, a unos 8 o 10 minutos a pie de la estación de metro (MTR) de Wan Chai, o a un corto paseo de la parada de tranvía de Tin Hau, en Queen's Road East.

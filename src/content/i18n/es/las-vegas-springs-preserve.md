@@ -1,10 +1,10 @@
 ---
 lang: es
 slug: las-vegas-springs-preserve
-srcHash: 'b652056639de'
+srcHash: 'f028ad9052d8'
 title: 'Springs Preserve: Guía de viaje de Las Vegas'
 description: Springs Preserve es un oasis desértico de 180 acres ubicado en 333 S Valley View Blvd, a unos 10 minutos del Strip, construido alrededor de los manantiales que le dieron su nombre a Las Vegas.
-quickAnswer: Springs Preserve es un oasis desértico de 180 acres ubicado en 333 S Valley View Blvd, a unos 10 minutos del Strip, construido alrededor de los verdaderos manantiales de agua dulce que le dieron su nombre a Las Vegas. Planea entre 3 y 4 horas para recorrer los senderos, los jardines botánicos y los museos, y llega justo a la apertura, a las 9am; el lugar cierra los martes y miércoles, y los senderos y exhibiciones se llenan progresivamente durante el día los fines de semana. Es un sitio realmente querido y muy visitado, así que más que un lugar por descubrir, es un lugar bien gestionado que conviene visitar en el momento adecuado.
+quickAnswer: Springs Preserve es un oasis desértico de 180 acres ubicado en 333 S Valley View Blvd, a unos 10 minutos del Strip, construido alrededor de los verdaderos manantiales de agua dulce que le dieron su nombre a Las Vegas. Planea entre 3 y 4 horas para recorrer los senderos, los jardines botánicos y los museos, y llega justo a la apertura, a las 9am; el lugar cierra los martes y miércoles, y los senderos y exhibiciones están concurridos durante todo el día los fines de semana. Es un sitio realmente querido y muy visitado, así que más que un lugar por descubrir, es un lugar bien gestionado que conviene visitar en el momento adecuado.
 faq:
   - q: ¿Cómo llego a Springs Preserve desde el Strip?
     a: Está a unos 10 minutos en auto o rideshare al oeste del Strip, en 333 S Valley View Blvd, con estacionamiento en el lugar. No hay conexión directa de monorriel ni tren ligero desde el Strip, así que la opción práctica es ir en auto, taxi o rideshare.
@@ -13,7 +13,7 @@ faq:
   - q: ¿Cuánto tiempo debo planear para la visita?
     a: Calcula entre 3 y 4 horas para recorrer bien los senderos exteriores, los jardines botánicos y ambos museos. Si andas corto de tiempo, una hora es suficiente para caminar solo el sendero de los humedales y los jardines.
   - q: ¿Cuál es el mejor momento para ir y evitar las multitudes?
-    a: 'Ve justo a la apertura, a las 9am, sobre todo los fines de semana: el flujo de visitantes aumenta de forma constante durante el horario de 9am a 4pm los sábados y domingos, así que la primera hora es siempre la más tranquila.'
+    a: 'Ve justo a la apertura, a las 9am, sobre todo los lunes, jueves y viernes (cierra los martes y miércoles): el flujo de visitantes alcanza su pico de 10am a 2pm, así que en la primera hora te adelantas a las multitudes. Los fines de semana la previsión no marca ninguna franja tranquila y todo el horario de 9am a 4pm es concurrido.'
   - q: ¿Vale la pena visitar Springs Preserve en verano?
     a: Los senderos están mayormente sin sombra, así que las tardes de verano (con frecuencia por encima de 100°F) pueden ser difíciles de recorrer. La primavera y el otoño, o una visita de verano bien temprano justo a la apertura, hacen que el paseo sea mucho más cómodo.
 ---
@@ -42,13 +42,13 @@ Los niños se sienten atraídos por la exhibición interactiva Boomtown 1905 y l
 
 ## Cuándo ir
 
-Springs Preserve mantiene un horario más restringido que la mayoría de las atracciones de Las Vegas, así que verifica el horario actual antes de ir, ya que no abre todos los días. Organiza tu visita en función de ese horario primero; nada es peor que llegar hasta allí y encontrar las puertas cerradas. Los fines de semana, llegar justo a la apertura es la mejor decisión posible: los senderos están con sombra y frescos, la luz es suave para tomar fotos sobre los humedales, y te adelantarás a las multitudes del mediodía en las entradas de los museos.
+Springs Preserve mantiene un horario más restringido que la mayoría de las atracciones de Las Vegas, así que verifica el horario actual antes de ir, ya que no abre todos los días. Organiza tu visita en función de ese horario primero; nada es peor que llegar hasta allí y encontrar las puertas cerradas. Los lunes, jueves y viernes, llegar justo a la apertura es la mejor decisión posible: los senderos están con sombra y frescos, la luz es suave para tomar fotos sobre los humedales, y te adelantarás a las multitudes del mediodía en las entradas de los museos.
 
 Como es un lugar al aire libre y en gran parte sin sombra una vez que el sol sube, esta es también una visita ideal para primavera u otoño si tienes la posibilidad de elegir; las tardes de verano en el desierto bajo suelen superar los 100°F, y los senderos ofrecen poco alivio del calor después de media mañana.
 
 ## Cómo visitarlo como un local
 
-Esta es una atracción popular y bien valorada, no un hallazgo tranquilo, así que la jugada más inteligente por parte de un local es la sincronización, no el secretismo. Llega lo más cerca posible de la hora de apertura, especialmente un sábado o domingo, ya que el lugar solo se llena más a medida que avanza el día y no hay una calma tardía por la tarde que esperar.
+Esta es una atracción popular y bien valorada, no un hallazgo tranquilo, así que la jugada más inteligente por parte de un local es la sincronización, no el secretismo. Llega lo más cerca posible de la hora de apertura, especialmente los lunes, jueves y viernes, ya que la franja concurrida empieza a las 10am y no hay una calma tardía por la tarde que esperar.
 
 Usa calzado adecuado para caminar; el circuito exterior recorre terreno irregular y expuesto al sol, y lleva agua incluso en los meses más frescos, ya que la sombra es escasa.
 

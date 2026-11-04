@@ -107,7 +107,7 @@ This is a 24-hour public space, so there's no gate and no closing time. But "ope
 
 Weekends get genuinely busy from 11am right through to 10pm, tour groups, families, photographers all converging at once. If you want the square closer to yourself, aim for 7am to 8am on a weekend morning.
 
-Weekday mornings before the office crowd arrives tend to be calm too, though there's no hard data pinning down the exact quiet hours midweek. Either way, earlier beats later.
+Weekday mornings before the office crowd arrives are a better bet than the 10am to 7pm busy stretch, though the forecast flags no standout quiet hour midweek. Either way, earlier beats later.
 
 ## Nearby to combine with your visit
 

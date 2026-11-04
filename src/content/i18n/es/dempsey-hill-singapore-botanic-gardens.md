@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: dempsey-hill-singapore-botanic-gardens
-srcHash: 'f2f20d29aab4'
+srcHash: '04dc5f109ff5'
 title: 'Jardines Botánicos de Singapur: Guía de viaje de Dempsey Hill (4.7★)'
 description: 'Los Jardines Botánicos de Singapur son un parque gratuito de 82 hectáreas declarado Patrimonio de la Humanidad por la UNESCO, ubicado al borde de Dempsey Hill y abierto todos los días de 5:00 a 24:00. 4.7★ (46.749 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Los Jardines Botánicos de Singapur son un parque gratuito de 82 hectáreas declarado Patrimonio de la Humanidad por la UNESCO, situado al borde de Dempsey Hill y abierto todos los días de 5:00 a 24:00. Conviene llegar temprano —antes de las 9:00 los fines de semana— para evitar las multitudes, y luego comenzar por el Jardín Nacional de Orquídeas antes de dirigirse hacia el Lago de los Cisnes (Swan Lake). Hay que reservar entre dos y tres horas, o más si después se quiere disfrutar de un brunch con calma en Dempsey.
@@ -9,7 +9,7 @@ faq:
   - q: ¿Cuánto tiempo debería reservar para visitar los jardines?
     a: Entre dos y tres horas alcanzan para recorrer con calma el césped principal, el Lago de los Cisnes y el Jardín Nacional de Orquídeas. Quienes son aficionados a las plantas suelen dedicarle media jornada.
   - q: ¿Cuál es el momento más tranquilo para visitarlos?
-    a: Tanto entre semana como los fines de semana, el ambiente es más calmado entre las 7:00 y las 23:00; conviene evitar el horario de 9:00 a 20:00 los fines de semana, cuando la afluencia llega a su punto máximo.
+    a: Tanto entre semana como los fines de semana, el ambiente es más calmado entre las 7:00 y las 8:00 y entre las 21:00 y las 23:00; conviene evitar el horario de 9:00 a 20:00 los fines de semana, cuando la afluencia llega a su punto máximo.
   - q: ¿Cómo llego en transporte público?
     a: Toma el MRT por la línea Circle hasta la estación Botanic Gardens y sal por la Salida B, que te deja justo en la entrada de Tanglin Gate.
   - q: ¿La entrada es gratuita?
@@ -42,9 +42,9 @@ Si vienes desde el propio Dempsey Hill, son 10 minutos a pie por Napier Road, si
 
 ## Cuándo ir
 
-Los jardines abren todos los días de 5:00 a 24:00, un horario inusualmente amplio para un parque de este tamaño. Según los patrones de afluencia, el ambiente suele ser tranquilo la mayor parte del día entre las 7:00 y las 23:00, aunque los fines de semana se llenan rápido entre las 9:00 y las 20:00.
+Los jardines abren todos los días de 5:00 a 24:00, un horario inusualmente amplio para un parque de este tamaño. Según los patrones de afluencia, el ambiente es más tranquilo entre las 7:00 y las 8:00 y entre las 21:00 y las 23:00, aunque los fines de semana se llenan rápido entre las 9:00 y las 20:00.
 
-Si quieres tener el césped y los senderos junto al lago casi para ti solo, lo mejor es ir una mañana entre semana o llegar justo a las 7:00 un fin de semana. El sol de mediodía pega fuerte y la sombra escasea en las zonas de césped abierto, así que caminar temprano por la mañana o después de las 16:00 resulta mucho más agradable.
+Si quieres tener el césped y los senderos junto al lago casi para ti solo, lo mejor es ir entre semana hacia las 7:00 o llegar justo a las 7:00 un fin de semana. El sol de mediodía pega fuerte y la sombra escasea en las zonas de césped abierto, así que caminar temprano por la mañana o después de las 16:00 resulta mucho más agradable.
 
 ## Dónde comer y descansar
 

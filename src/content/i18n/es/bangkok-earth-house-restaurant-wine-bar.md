@@ -1,17 +1,17 @@
 ---
 lang: es
 slug: bangkok-earth-house-restaurant-wine-bar
-srcHash: '21adc8065168'
+srcHash: 'f1d8f61dd3be'
 title: 'Earth House | Restaurante | Bar de Vinos: Dónde Comer en Bangkok'
 description: Earth House es un restaurante y bar de vinos centrado en cocina vegetal, escondido en Soi Sukhumvit 53, en Watthana, a poca distancia del BTS Thong Lo. 4.8★ (435 reseñas) — lo que dicen los visitantes, horarios y consejos.
-quickAnswer: Earth House es un restaurante y bar de vinos centrado en cocina vegetal, escondido en Soi Sukhumvit 53, en Watthana, a poca distancia del BTS Thong Lo. Ve una mañana de fin de semana para el menú de brunch, o pásate cerca del cierre (10–11pm) cuando la multitud disminuye. Cierra los lunes, y entre semana el servicio no empieza hasta las 1:30pm.
+quickAnswer: Earth House es un restaurante y bar de vinos centrado en cocina vegetal, escondido en Soi Sukhumvit 53, en Watthana, a poca distancia del BTS Thong Lo. Ve una mañana de fin de semana para el menú de brunch, antes del tramo concurrido que va del mediodía al cierre, o entre semana después del pico de 8–9pm; la previsión no marca ninguna franja tranquila. Cierra los lunes, y entre semana el servicio no empieza hasta las 1:30pm.
 faq:
   - q: ¿Cómo llego a Earth House desde el BTS?
     a: Toma la Línea Sukhumvit hasta el BTS Thong Lo, y luego camina unos 10–15 minutos por Soi Sukhumvit 53, o toma un taxi corto o un mototaxi desde la estación.
   - q: ¿Cuáles son los horarios de apertura?
     a: De martes a jueves abre de 1:30 a 11pm (sin servicio de almuerzo), viernes y sábado de 9am a 11pm, y domingo de 9am a 10pm. Cierra todo el día los lunes.
   - q: ¿Cuál es el momento más tranquilo para visitar?
-    a: Los fines de semana, la hora entre las 10 y las 11pm antes del cierre es la más tranquila. El tramo más concurrido es desde el mediodía hasta el cierre los sábados y domingos, así que evita llegar sin avisar cerca de la hora del almuerzo.
+    a: Los fines de semana, la previsión no marca ninguna franja tranquila, así que ve por la mañana, antes del mediodía. El tramo más concurrido es desde el mediodía hasta el cierre los sábados y domingos, así que evita llegar sin avisar cerca de la hora del almuerzo.
   - q: ¿Earth House es bueno para vegetarianos y veganos?
     a: Sí — está construido alrededor de la cocina a base de plantas, con bowls de granos, panes planos horneados a la leña y un menú centrado en vinos pensado para vegetarianos y veganos, no como algo secundario.
   - q: ¿Cuánto debería esperar gastar?
@@ -50,14 +50,14 @@ Las porciones priorizan la calidad sobre la cantidad, así que calcula dos o tre
 
 Los horarios cambian según el día de la semana, así que conviene revisarlos el día anterior a tu visita. Entre semana la apertura es más tardía, sin servicio de mañana ni de almuerzo esos días. Los fines de semana abre más temprano, lo que convierte a las mañanas de fin de semana en el momento ideal para el brunch. Cierra todo el día los lunes.
 
-Los fines de semana son, en general, el tramo más concurrido, con flujo constante desde el mediodía hasta el cierre. Si quieres tener el comedor más para ti, la última hora antes del cierre —de 10 a 11pm los fines de semana— es sistemáticamente la ventana más tranquila.
+Los fines de semana son, en general, el tramo más concurrido, con flujo constante desde el mediodía hasta el cierre. Si quieres tener el comedor más para ti, como la previsión no marca ninguna franja tranquila, ve una mañana de fin de semana antes del mediodía o entre semana después del pico de 8 a 9pm.
 
 ## Cómo visitarlo como un local
 
 Earth House no es exactamente un sitio secreto, pero sigue pasando bastante desapercibido en comparación con los bares de vinos más conocidos de Bangkok, así que la mayoría de las noches no tendrás que lidiar con multitudes.
 
 - **Reserva para el brunch de fin de semana**: el tramo del fin de semana atrae a la mayoría de la gente, especialmente desde el mediodía en adelante.
-- **Ve tarde para más tranquilidad**: la franja de 10 a 11pm los fines de semana es tu mejor oportunidad para una sala relajada y casi vacía.
+- **Esquiva las horas punta**: la previsión no marca ninguna franja tranquila, así que apunta a una mañana de fin de semana antes del mediodía o a después del pico de 8 a 9pm entre semana.
 - **Paga con tarjeta o móvil**: la mayoría de los restaurantes de Bangkok en esta categoría aceptan ambos; el efectivo no es imprescindible, pero llevar billetes pequeños ayuda para los taxis.
 - **Evita el almuerzo entre semana**: entre semana abre más tarde, así que no planees una parada de mediodía esos días.
 - **Ve con hambre de vino, no solo de comida**: la carta por copa rota, así que pregunta al personal qué tienen disponible esa semana en lugar de guiarte por un menú fijo.

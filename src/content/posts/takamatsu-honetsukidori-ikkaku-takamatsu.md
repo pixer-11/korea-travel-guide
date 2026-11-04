@@ -57,10 +57,10 @@ place:
 tags:
   - "takamatsu"
   - "local restaurant"
-quickAnswer: "Honetsukidori Ikkaku Takamatsu is at 4-11 Kajiyamachi, a short walk from the Kotoden Kawaramachi and Kataharamachi stations in central Takamatsu. It serves Kagawa's honetsukidori, a whole roasted bone-in chicken leg, and you choose between the chewy oyadori and the tender hinadori. It opens at 5pm on weekdays, is closed Tuesdays, and is busiest from 1pm to 10pm on weekends, so on Saturday or Sunday arrive at the 11am opening."
+quickAnswer: "Honetsukidori Ikkaku Takamatsu is at 4-11 Kajiyamachi, a short walk from the Kotoden Kawaramachi and Kataharamachi stations in central Takamatsu. It serves Kagawa's honetsukidori, a whole roasted bone-in chicken leg, and you choose between the chewy oyadori and the tender hinadori. It opens at 5pm on weekdays, is closed Tuesdays, and is busiest from 1pm to 2pm and 4pm to 10pm on weekends, so on Saturday or Sunday arrive at the 11am opening."
 faq:
   - q: "When is the quietest time to visit Honetsukidori Ikkaku Takamatsu?"
-    a: "The forecast shows no quiet window. The busiest period is 1pm–10pm on Saturday and Sunday, so avoid that if you can. On weekends, arrive at the 11am opening. On weekdays, arrive close to the 5pm opening."
+    a: "The forecast shows no quiet window. The busiest periods are 1pm–2pm and 4pm–10pm on Saturday and Sunday, so avoid those if you can. On weekends, arrive at the 11am opening. On weekdays, arrive close to the 5pm opening."
   - q: "Is it open for lunch?"
     a: "Only on weekends, when it's open 11am–11pm. Monday and Wednesday to Friday it serves dinner only, 5pm–11pm. It is closed on Tuesdays."
   - q: "Should I order oyadori or hinadori?"
@@ -114,7 +114,7 @@ Hours here split sharply between weekdays and weekends, so check the day before 
 - **Tuesday:** closed
 - **Saturday and Sunday:** 11am–11pm, straight through
 
-Weekends are where the crowds build. Avoid arriving between 1pm and 10pm on Saturday or Sunday; that's the busiest stretch, and you'll spend part of it waiting.
+Weekends are where the crowds build. Avoid arriving between 1pm and 2pm or 4pm and 10pm on Saturday or Sunday; those are the busiest stretches, and you'll spend part of them waiting.
 
 The better weekend plan is to come at 11am opening and make honetsukidori your lunch. On weekdays the doors don't open until 5pm, so there is no lunch option. Getting there right at opening usually beats the after-work rush.
 

@@ -73,7 +73,7 @@ faq:
       consistently busy this brasserie is.
   - q: What's the quietest time to visit?
     a: >-
-      Weekdays between 8am and 11pm and weekends between 9am and 11pm are the
+      Weekdays from 8am–9am and 10pm–11pm and weekends from 9am–11am and 9pm–11pm are the
       calmest stretches. Avoid 2pm–6pm on weekends, when brunch and early dinner
       crowds overlap.
   - q: How do I get to Balthazar by subway?

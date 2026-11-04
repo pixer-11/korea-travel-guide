@@ -64,7 +64,7 @@ faq:
   - q: How do I get to Palais Longchamp?
     a: Take Métro Line 1 to Cinq Avenues Longchamp station, which lets out almost at the front gate. It's also a 15–20 minute uphill walk from the Vieux-Port along Boulevard Longchamp.
   - q: When is the best time to visit to avoid crowds?
-    a: The calmest window is 8am–7:30pm on both weekdays and weekends. Weekends get busy between 10am and 6pm, so aim for a morning visit around 8–9am if you want quiet photos.
+    a: The calmest window is 8am–9am on both weekdays and weekends. Weekends get busy between 10am and 6pm, so aim for a morning visit around 8–9am if you want quiet photos.
   - q: How long should I plan to spend there?
     a: Seeing the fountain, colonnade, and plaza takes 30–45 minutes. Add 45 minutes to an hour for each museum, and extra time if you want to wander the park behind the palace.
   - q: What's nearby worth combining with a visit?
@@ -96,7 +96,7 @@ The palace sits at the top of Boulevard Longchamp in the 4th arrondissement, a 1
 
 ## When to go
 
-Crowds here move differently on weekdays than weekends, but the pattern is worth knowing either way: the calmest stretch, both Saturday–Sunday and midweek, runs from 8am to 7:30pm, while weekend visits get noticeably busier between 10am and 6pm, when local families, wedding photographers, and tour groups converge on the plaza at once. If you want the fountain steps and colonnade to yourself for photos, arrive close to 8am. The light is softer then too, raking low across the stonework rather than glaring off the white stone at midday.
+Crowds here move differently on weekdays than weekends, but the pattern is worth knowing either way: the calmest stretch, both Saturday–Sunday and midweek, runs from 8am to 9am, while weekend visits get noticeably busier between 10am and 6pm, when local families, wedding photographers, and tour groups converge on the plaza at once. If you want the fountain steps and colonnade to yourself for photos, arrive close to 8am. The light is softer then too, raking low across the stonework rather than glaring off the white stone at midday.
 
 ## How to visit like a local
 

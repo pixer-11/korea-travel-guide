@@ -86,8 +86,8 @@ faq:
   - q: When is the quietest time to visit Elizabeth Quay?
     a: >-
       On weekends, the quietest window is 7am to 9am. Avoid 11am to 11pm on
-      Saturdays and Sundays, because that is when the quay is at its busiest. We
-      don't have weekday crowd data.
+      Saturdays and Sundays, because that is when the quay is at its busiest. On
+      weekdays, the forecast flags no standout quiet hour.
   - q: How do I get to Elizabeth Quay by public transport?
     a: >-
       Take the train to Elizabeth Quay station, on the line to Mandurah, or a
@@ -137,7 +137,7 @@ The quay's timing quirk is stark. On weekends it is busiest from 11am all the wa
 
 The escape is early. Between 7am and 9am on Saturdays and Sundays, the promenade belongs to joggers, cyclists heading along the riverside path, and the odd photographer. You can stand at the top of the bridge without anyone waiting behind you.
 
-The low morning sun also lights the city towers from the east. The water in the basin tends to sit flat before the breeze picks up. If you want photos of Spanda without strangers in the frame, this is your window. We don't have weekday crowd figures, so treat those as unmeasured.
+The low morning sun also lights the city towers from the east. The water in the basin tends to sit flat before the breeze picks up. If you want photos of Spanda without strangers in the frame, this is your window. On weekdays, the forecast flags no standout quiet hour.
 
 ## Getting there by train, ferry or on foot
 

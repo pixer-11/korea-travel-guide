@@ -1,13 +1,13 @@
 ---
 lang: es
 slug: berlin-bless-restaurant
-srcHash: 'f90751b85619'
+srcHash: '7cb90bd569e5'
 title: 'BLESS Restaurant: dónde comer en Berlín (4.8★)'
 description: Muy bien valorado, el restaurante asiático BLESS Restaurant se encuentra en la plaza Hausvogteiplatz, en Berlín-Mitte, a pocos pasos de la estación de Hausvogteiplatz (U2) y a un breve paseo del Gendarmenmarkt.
 quickAnswer: Muy bien valorado, el restaurante asiático BLESS Restaurant se encuentra en la plaza Hausvogteiplatz, en Berlín-Mitte, a pocos pasos de la estación de Hausvogteiplatz (U2) y a un breve paseo del Gendarmenmarkt. Entre semana, la franja más tranquila va de 3pm a 5pm. Los fines de semana conviene evitar el horario de 7pm a 10pm, que es el de mayor afluencia, y reservar con antelación si se desea cenar.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar BLESS Restaurant?
-    a: Entre semana, la calma llega de 3pm a 5pm. En conjunto, los fines de semana son más tranquilos de 2pm a 11pm, aunque dentro de ese horario conviene evitar la franja de 7pm a 10pm, la más concurrida del fin de semana.
+    a: Entre semana, la calma llega de 3pm a 5pm. Los fines de semana, los momentos más tranquilos van de 2pm a 5pm y de 10pm a 11pm, y conviene evitar la franja de 7pm a 10pm, la más concurrida del fin de semana.
   - q: ¿Cómo se llega a BLESS Restaurant en transporte público?
     a: La línea U2 lleva hasta la estación de Hausvogteiplatz, cuya salida da a la misma plaza donde se encuentra el restaurante, en Hausvogteiplatz 10. Las estaciones de Stadtmitte (U2/U6) y Spittelmarkt (U2) también quedan a pocos minutos a pie.
   - q: ¿Cuál es el horario de apertura?
@@ -44,7 +44,7 @@ Al llegar, fíjese en la salida del metro. Allí se levanta un monumento conmemo
 
 Los datos de afluencia no dejan lugar a dudas. Entre semana, el momento más tranquilo en BLESS va de **3pm a 5pm**. Como de lunes a viernes la cocina abre a las 11:30am, un almuerzo tardío en esa franja es la forma más sencilla de conseguir mesa en toda la semana.
 
-El fin de semana funciona con otro horario. Las puertas no se abren hasta las **2pm los sábados y domingos**, de modo que no conviene planear un almuerzo antes de esa hora. En conjunto, el tramo de 2pm a 11pm se considera el más tranquilo del fin de semana, aunque dentro de él la franja de **7pm a 10pm** es la de mayor afluencia.
+El fin de semana funciona con otro horario. Las puertas no se abren hasta las **2pm los sábados y domingos**, de modo que no conviene planear un almuerzo antes de esa hora. En conjunto, los tramos más tranquilos del fin de semana van de 2pm a 5pm y de 10pm a 11pm, mientras que entre ambos la franja de **7pm a 10pm** es la de mayor afluencia.
 
 Quien llegue en plena hora punta sin reserva se arriesga a esperar o a quedarse sin mesa. La solución es sencilla: comer pronto, desde las 2pm hasta media tarde, o bien llegar tarde. Incluso sentándose después de las 10pm queda tiempo de sobra antes del cierre de medianoche.
 

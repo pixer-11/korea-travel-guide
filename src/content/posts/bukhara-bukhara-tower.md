@@ -52,12 +52,12 @@ place:
 tags:
   - bukhara
   - hidden gem
-quickAnswer: Bukhara Tower is a modern observation/water tower on the edge of the old city, open daily 8am–10pm, and it's the easiest way to see Bukhara's mud-brick skyline and desert horizon from above. Go early — weekends stay calmest from 8–11am before the 9am–5pm crowd window fills in. Budget 45–60 minutes including the ride up and a slow lap of the deck.
+quickAnswer: Bukhara Tower is a modern observation/water tower on the edge of the old city, open daily 8am–10pm, and it's the easiest way to see Bukhara's mud-brick skyline and desert horizon from above. Go early — weekends stay calmest from 8–9am, before the 9–11am and 4–5pm crowd windows fill in. Budget 45–60 minutes including the ride up and a slow lap of the deck.
 faq:
   - q: What are the opening hours for Bukhara Tower?
     a: It's open every day of the week, 8:00 AM to 10:00 PM, with no listed closing day.
   - q: When is the quietest time to visit?
-    a: On weekends, 8am–11am is calmest. Try to avoid 9am–5pm on Saturdays and Sundays, when it's busiest.
+    a: On weekends, 8am–9am is calmest. Try to avoid 9am–11am and 4pm–5pm on Saturdays and Sundays, when it's busiest.
   - q: How do I get to Bukhara Tower?
     a: It's about a 15–20 minute walk from central old-city guesthouses, or a short, inexpensive taxi ride to QCH5+59P, Bukhara.
   - q: How long should I plan to spend there?
@@ -98,9 +98,9 @@ There's no metro or tram system in Bukhara, so taxis, rideshare apps, or your ow
 
 The tower is open every day, 8am to 10pm, so there's no awkward closed-Monday surprise to plan around.
 
-On weekends, the calmest window is 8–11am, right after opening. Crowds build steadily and peak between 9am and 5pm, so if you're visiting on a Saturday or Sunday, don't roll in at midday expecting empty platforms.
+On weekends, the calmest window is 8–9am, right after opening. Crowds build quickly and peak between 9am and 11am, with another busy stretch from 4pm to 5pm, so if you're visiting on a Saturday or Sunday, don't roll in at midday expecting empty platforms.
 
-Weekday timing is less documented, but applying the same logic, arrive close to opening, is a safe bet.
+On weekdays the forecast flags no standout quiet hour, and 7–8pm is busiest, so arriving close to opening is a safe bet.
 
 Evenings have their own appeal: the tower stays open until 10pm, so a post-dinner visit lets you catch the old city lit up against the dark.
 
@@ -119,7 +119,7 @@ Spend 45 minutes to an hour at the tower itself, then let the view guide your ne
 
 Treat the tower as a quick, functional stop rather than a destination to linger at for hours. That's how most visitors use it, and it keeps the experience efficient.
 
-- **Timing**: aim for 8–11am on weekends to skip the thickest crowds; the 9am–5pm stretch is when it fills up.
+- **Timing**: aim for 8–9am on weekends to skip the thickest crowds; the 9–11am and 4–5pm stretches are when it fills up.
 - **Payment**: bring small local currency (som) for any entry fee or on-site kiosk; card acceptance can't be counted on at smaller attractions like this.
 - **Etiquette**: keep the platform moving. It's a shared, sometimes narrow viewing space, so let others get their photo and step aside rather than camping in one spot.
 - **Common mistake**: tourists often skip it entirely because it's not "historic," then regret not having an aerial reference point for the rest of their walk through the old city. Go first, then explore, the view helps you map out where everything else sits.

@@ -1,13 +1,13 @@
 ---
 lang: es
 slug: perth-kings-park-and-botanic-garden
-srcHash: '1f5a033df9f8'
+srcHash: '3632a91bc034'
 title: 'Kings Park y Jardín Botánico: guía de viaje de Perth (4.8★)'
 description: En lo alto del monte Eliza, justo al oeste del centro de Perth, en Fraser Ave, el Kings Park y su Jardín Botánico ofrecen vistas sobre el río Swan, el Monumento Estatal a los Caídos y el Jardín Botánico de Australia Occidental. Con 4.8★ (28,586 reseñas), aquí encontrará la opinión de los visitantes, los horarios y consejos prácticos.
-quickAnswer: En lo alto del monte Eliza (Mount Eliza), justo al oeste del centro financiero de Perth, en Fraser Ave, el Kings Park y su Jardín Botánico dominan el río Swan (Swan River), el Monumento Estatal a los Caídos (State War Memorial) y el Jardín Botánico de Australia Occidental. Abre las 24 horas. Entre semana reina la tranquilidad de 7am a 11pm; los fines de semana, en cambio, solo hay calma de 7am–8am, y la afluencia es alta de 9am a 10pm.
+quickAnswer: En lo alto del monte Eliza (Mount Eliza), justo al oeste del centro financiero de Perth, en Fraser Ave, el Kings Park y su Jardín Botánico dominan el río Swan (Swan River), el Monumento Estatal a los Caídos (State War Memorial) y el Jardín Botánico de Australia Occidental. Abre las 24 horas. Entre semana reina la tranquilidad de 7am a 8am y de 10pm a 11pm; los fines de semana, en cambio, solo hay calma de 7am–8am, y la afluencia es alta de 9am a 10pm.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Kings Park?
-    a: Entre semana hay tranquilidad durante toda la jornada, de 7am a 11pm. Los fines de semana, la calma se limita a la franja de 7am–8am. Conviene evitar los sábados y domingos entre las 9am y las 10pm, que es cuando más gente acude.
+    a: Entre semana hay tranquilidad de 7am a 8am y de 10pm a 11pm. Los fines de semana, la calma se limita a la franja de 7am–8am. Conviene evitar los sábados y domingos entre las 9am y las 10pm, que es cuando más gente acude.
   - q: ¿Se puede visitar el Kings Park de noche?
     a: Sí. El parque abre las 24 horas todos los días, y el mirador de Fraser Avenue es muy concurrido al atardecer y por la noche por sus vistas. Eso sí, es preferible recorrer los senderos del monte nativo con luz de día.
   - q: ¿Cómo se llega al Kings Park desde el centro de Perth?
@@ -78,7 +78,7 @@ Los cafés y el restaurante de Fraser Avenue resultan prácticos para tomar algo
 
 ## Cómo esquivar las aglomeraciones
 
-Como el parque nunca cierra, elegir el momento depende de la afluencia y no de los horarios de apertura. Entre semana reina la tranquilidad de 7am a 11pm, de modo que a casi cualquier hora encontrará aparcamiento sin problemas y el puente vacío.
+Como el parque nunca cierra, elegir el momento depende de la afluencia y no de los horarios de apertura. Entre semana reina la tranquilidad de 7am a 8am y de 10pm a 11pm, y solo hay mucha afluencia de 12pm a 1pm, de modo que, fuera de la hora de comer, casi siempre encontrará más facilidad para aparcar y el puente más despejado que en fin de semana.
 
 Los fines de semana cambian las cosas. Solo hay calma de 7am–8am. De 9am a 10pm llega el gentío: las praderas se llenan, cuesta aparcar en Fraser Avenue y en los tramos estrechos de la Federation Walkway se forman colas.
 

@@ -70,8 +70,8 @@ faq:
       into Nordpark. The address is Kaiserswerther Str. 380, 40474 Düsseldorf.
   - q: When is the quietest time to visit?
     a: >-
-      We only have forecast data for the busy period: weekends from 11am to 7pm.
-      Avoid that window. At the weekend, arriving before 11am is your best bet.
+      The forecast flags no standout quiet hour; the garden is busiest on weekdays from 1pm to 4pm and on weekends from 11am to 7pm.
+      Avoid those windows. At the weekend, arriving before 11am is your best bet.
   - q: How long should I spend there?
     a: >-
       A slow loop of the garden takes 30 to 60 minutes. Add an hour or two if
@@ -120,7 +120,7 @@ Autumn is when the maples and other deciduous planting change colour against the
 
 There's one figure that matters here. On weekends the garden is busiest from 11am to 7pm. For most of a Saturday or Sunday, then, the narrow paths and bridges fill up and you'll be queuing behind other people's photos.
 
-If you can only come at the weekend, arrive before 11am. Early morning light on the pond is also more flattering than harsh midday sun. The forecast has no quiet hours for weekdays. Still, a garden like this usually feels calmer when office workers and schools are busy than it does on a free Saturday afternoon.
+If you can only come at the weekend, arrive before 11am. Early morning light on the pond is also more flattering than harsh midday sun. The forecast flags no standout quiet hour on weekdays, and 1pm to 4pm is the busiest stretch. Still, a garden like this usually feels calmer on a weekday before 1pm, while office workers and schools are busy, than it does on a free Saturday afternoon.
 
 The listed hours are 24 hours a day, every day. Even so, a garden built around water and uneven stone edges is best seen in daylight. Come when you can actually see where the path meets the pond.
 

@@ -1,17 +1,17 @@
 ---
 lang: es
 slug: jumeirah-dubai-water-canal
-srcHash: '533454427878'
+srcHash: '37e2a4e14080'
 title: 'Canal de Agua de Dubái: guía de viaje de Jumeirah (4,6★)'
 description: 'El Canal de Agua de Dubái es una vía navegable artificial de 3,2 km que serpentea entre Al Safa y Jumeirah, flanqueada por paseos, puentes y el Dubai Water Canal Mall; se puede recorrer gratis a cualquier hora, ya que permanece abierto las 24 horas. 4,6★ (2.084 reseñas): lo que dicen los visitantes, horarios y consejos.'
-quickAnswer: El Canal de Agua de Dubái es una vía navegable artificial de 3,2 km que serpentea entre Al Safa y Jumeirah, flanqueada por paseos, puentes y el Dubai Water Canal Mall; se puede recorrer gratis a cualquier hora, ya que permanece abierto las 24 horas. Conviene ir temprano por la mañana para disfrutar del aire más fresco y la luz más suave; los fines de semana, el tramo más tranquilo va de 7:00 a 15:00, mientras que el más concurrido es de 9:00 a 23:00. Para un paseo basta con reservar entre 1 y 2 horas, más si se recorre en bicicleta todo el circuito.
+quickAnswer: El Canal de Agua de Dubái es una vía navegable artificial de 3,2 km que serpentea entre Al Safa y Jumeirah, flanqueada por paseos, puentes y el Dubai Water Canal Mall; se puede recorrer gratis a cualquier hora, ya que permanece abierto las 24 horas. Conviene ir temprano por la mañana para disfrutar del aire más fresco y la luz más suave; los fines de semana, el tramo más tranquilo va de 7:00 a 9:00, mientras que el más concurrido es de 9:00 a 23:00. Para un paseo basta con reservar entre 1 y 2 horas, más si se recorre en bicicleta todo el circuito.
 faq:
   - q: ¿Cómo se llega al Canal de Agua de Dubái?
     a: 'Lo más sencillo es tomar un taxi o una aplicación de transporte, sobre todo para llegar al tramo de Al Safa/Jumeira Second, cerca del centro comercial: en esta sección no hay ninguna estación de metro directa, y el trayecto desde Downtown Dubái dura entre 15 y 20 minutos aproximadamente.'
   - q: ¿Se cobra entrada?
     a: No. El canal, sus paseos y sus puentes son de acceso público y gratuito las 24 horas del día, todos los días.
   - q: ¿Cuál es el momento más tranquilo para visitarlo?
-    a: Los fines de semana, el ambiente más tranquilo se da entre las 7:00 y las 15:00. Conviene evitar la franja de 9:00 a 23:00 los fines de semana, que es cuando hay más gente.
+    a: Los fines de semana, el ambiente más tranquilo se da entre las 7:00 y las 9:00. Conviene evitar la franja de 9:00 a 23:00 los fines de semana, que es cuando hay más gente.
   - q: ¿Cuánto tiempo conviene dedicarle?
     a: Lo recomendable es planear al menos una hora para recorrer un tramo con calma; si se alquila una bicicleta o un patinete eléctrico para cubrir más distancia del circuito de 3,2 km, conviene calcular cerca de dos horas.
   - q: ¿Qué hay cerca?

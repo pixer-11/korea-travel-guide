@@ -70,12 +70,12 @@ quickAnswer: >-
   beside London Bridge station in Southwark (SE1 9AH). It's open Tuesday to
   Sunday and closed Mondays, and most people eat from the hot-food stalls
   standing up. Go on a weekday morning if you can; on weekends, avoid 11am–5pm,
-  and if you must go then, the quietest window is 4pm–5pm on Saturday.
+  and if you must go then, the forecast flags no quiet hour, so aim for Saturday's 9am opening.
 faq:
   - q: When is the quietest time to visit Borough Market?
     a: >-
-      On weekends, the quietest window is 4pm–5pm. That only works on Saturdays,
-      because the market closes at 4pm on Sundays. Avoid 11am–5pm on weekends,
+      On weekends, the forecast flags no quiet hour. Saturday opens earlier, at 9am,
+      so that's the time to arrive. Avoid 11am–5pm on weekends,
       which is the busiest stretch. A weekday morning near the 10am opening is
       usually the easiest time to browse.
   - q: Is Borough Market open on Mondays?
@@ -125,7 +125,7 @@ For coffee, Monmouth Coffee's shop on the edge of the market has drawn queues fo
 
 The day matters more than the time. Borough Market is closed on Mondays. From Tuesday to Friday it opens 10am to 5pm. Saturday runs 9am to 5pm, and Sunday 10am to 4pm.
 
-Weekends are hard going. Try not to arrive between 11am and 5pm on a weekend: that's the busiest stretch, and the narrow lanes slow to a shuffle. The quietest weekend window is 4pm–5pm. That only works on a Saturday, because Sunday closes at 4pm.
+Weekends are hard going. Try not to arrive between 11am and 5pm on a weekend: that's the busiest stretch, and the narrow lanes slow to a shuffle. The forecast flags no quiet weekend hour, so your best bet is the 9am Saturday opening, before the busy stretch begins.
 
 The catch with arriving late is that some traders sell out or start packing up, so you'll have less to choose from. A weekday is the easier bet. If you arrive near the 10am opening, you'll usually be ahead of the office lunch crowd from London Bridge. Allow one to two hours.
 

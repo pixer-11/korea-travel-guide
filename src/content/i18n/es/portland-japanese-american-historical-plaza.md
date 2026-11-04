@@ -1,15 +1,15 @@
 ---
 lang: es
 slug: portland-japanese-american-historical-plaza
-srcHash: '6e08cb681e39'
+srcHash: '8945cbb6bb9f'
 title: 'Plaza Histórica Japonesa Estadounidense: guía de viaje de Portland'
 description: 'En el extremo norte del Tom McCall Waterfront Park, a orillas del río Willamette y junto al puente Steel, se encuentra la Plaza Histórica Japonesa Estadounidense de Portland. 4.6★ (258 reseñas): opiniones de los visitantes, horarios y consejos.'
-quickAnswer: La Plaza Histórica Japonesa Estadounidense (Japanese American Historical Plaza) de Portland se encuentra en el extremo norte del Tom McCall Waterfront Park, a orillas del río Willamette y cerca del puente Steel (Steel Bridge). Este espacio público al aire libre abre todos los días de 5am a medianoche. Entre las 7am y las 11pm suele haber más tranquilidad, aunque conviene evitar los fines de semana de 11am a 8pm. Si quiere ver los cerezos en flor, vaya a finales de marzo o principios de abril.
+quickAnswer: La Plaza Histórica Japonesa Estadounidense (Japanese American Historical Plaza) de Portland se encuentra en el extremo norte del Tom McCall Waterfront Park, a orillas del río Willamette y cerca del puente Steel (Steel Bridge). Este espacio público al aire libre abre todos los días de 5am a medianoche. Suele haber más tranquilidad de 7am a 11am entre semana, de 7am a 9am los fines de semana y de nuevo de 10pm a 11pm, aunque conviene evitar los fines de semana de 11am a 8pm. Si quiere ver los cerezos en flor, vaya a finales de marzo o principios de abril.
 faq:
   - q: ¿Dónde se encuentra exactamente la Plaza Histórica Japonesa Estadounidense?
     a: Se halla en el extremo norte del Tom McCall Waterfront Park, a orillas del río Willamette, en el tramo de Naito Parkway comprendido entre los puentes Burnside y Steel. La parada del MAX más cercana es Skidmore Fountain, en las líneas Azul y Roja (Blue y Red).
   - q: ¿Cuál es el momento más tranquilo para visitarla?
-    a: La franja más tranquila va de 7am a 11pm, tanto entre semana como en fin de semana. Los fines de semana de 11am a 8pm es cuando más gente hay, así que conviene evitarlos.
+    a: Las franjas más tranquilas son de 7am a 11am y de 10pm a 11pm entre semana, y de 7am a 9am y de 9pm a 11pm los fines de semana. Los fines de semana de 11am a 8pm es cuando más gente hay, así que conviene evitarlos.
   - q: ¿Cuándo florecen los cerezos?
     a: Normalmente a finales de marzo o principios de abril. La fecha exacta varía cada año según el tiempo, y la plaza se llena más en el momento de máxima floración.
   - q: ¿Cuánto tiempo conviene dedicarle?
@@ -37,7 +37,7 @@ Se encuentra dentro del Tom McCall Waterfront Park, en el tramo de Naito Parkway
 
 A lo largo del sendero se alinea una hilera de cerezos que marca el calendario de la plaza. La floración suele alcanzar su apogeo a finales de marzo o principios de abril. Es entonces cuando los pétalos rosados se acumulan en las letras grabadas y sobre la hierba que rodea los bloques. Durante esas semanas, prepárese para encontrar el lugar lleno de gente fotografiando las flores.
 
-Fuera de la temporada de floración, casi todos los que pasan por aquí son vecinos que salen a correr o van en bicicleta al trabajo, de modo que la plaza parece un rincón más recogido. La afluencia sigue una pauta sencilla: entre las 7am y las 11pm reina la calma, tanto entre semana como en fin de semana. La única franja que conviene evitar son los fines de semana de 11am a 8pm, cuando el paseo ribereño se llena.
+Fuera de la temporada de floración, casi todos los que pasan por aquí son vecinos que salen a correr o van en bicicleta al trabajo, de modo que la plaza parece un rincón más recogido. La afluencia sigue una pauta sencilla: entre semana reina la calma de 7am a 11am y de 10pm a 11pm, y los fines de semana de 7am a 9am y de 9pm a 11pm. La principal franja que conviene evitar son los fines de semana de 11am a 8pm, cuando el paseo ribereño se llena.
 
 Parte del gentío de los fines de semana procede del Portland Saturday Market, un mercado que se instala bajo el puente Burnside, a pocos minutos al sur. Si prefiere leer los poemas sin nadie alrededor, venga una mañana entre semana y, si hay mercado ese día, acérquese a él después.
 

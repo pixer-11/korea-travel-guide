@@ -1,10 +1,10 @@
 ---
 lang: es
 slug: clarke-quay-tan-si-chong-su-temple
-srcHash: '0087bc65577f'
+srcHash: '7aa3e90f1fbd'
 title: 'Templo Tan Si Chong Su: Guía de viaje de Clarke Quay'
 description: El templo Tan Si Chong Su se encuentra en 15 Magazine Road, a cinco minutos a pie desde la ribera de Clarke Quay en dirección a Havelock Road, y abre todos los días de 9:00 a 21:00.
-quickAnswer: El templo Tan Si Chong Su se encuentra en 15 Magazine Road, a cinco minutos a pie desde la ribera de Clarke Quay en dirección a Havelock Road, y abre todos los días de 9:00 a 21:00. Es una parada que pasa bastante desapercibida frente a los bares y restaurantes cercanos, así que es habitual tener el patio para uno solo. Los fines de semana son más tranquilos a partir de las 10:00, mientras que entre las 18:00 y las 21:00 suele haber más movimiento.
+quickAnswer: El templo Tan Si Chong Su se encuentra en 15 Magazine Road, a cinco minutos a pie desde la ribera de Clarke Quay en dirección a Havelock Road, y abre todos los días de 9:00 a 21:00. Es una parada que pasa bastante desapercibida frente a los bares y restaurantes cercanos, así que es habitual tener el patio para uno solo. Los fines de semana son más tranquilos de 10:00 a 18:00, mientras que entre las 18:00 y las 21:00 suele haber más movimiento.
 faq:
   - q: ¿Cómo se llega al templo Tan Si Chong Su desde Clarke Quay?
     a: Camine de 5 a 8 minutos desde la estación Clarke Quay MRT (línea North East), salida E, hacia el norte por Merchant Road hasta llegar a Magazine Road; el templo está en el número 15 de esa calle.
@@ -13,7 +13,7 @@ faq:
   - q: ¿Cuál es el horario de apertura?
     a: El templo abre todos los días de 9:00 a 21:00, sin variaciones a lo largo de la semana.
   - q: ¿Cuál es el mejor momento para visitarlo con tranquilidad?
-    a: Los fines de semana se mantiene tranquilo durante todo el horario de 10:00 a 21:00; conviene evitar el tramo de 18:00 a 21:00 si se busca disfrutarlo en solitario.
+    a: Los fines de semana se mantiene tranquilo de 10:00 a 18:00; conviene evitar el tramo de 18:00 a 21:00 si se busca disfrutarlo en solitario.
   - q: ¿Cuánto tiempo conviene dedicarle a la visita?
     a: La mayoría de los visitantes dedica entre 20 y 30 minutos a recorrer el patio, admirar las columnas talladas y visitar el salón ancestral.
 ---

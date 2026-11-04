@@ -46,10 +46,10 @@ place:
 tags:
   - seattle
   - street food
-quickAnswer: Jack's Fish Spot is a no-frills seafood counter inside Pike Place Market, best for a quick bowl of chowder, a crab cocktail, or a fresh oyster shooter eaten standing up at the marble bar. It's open daily (7:30am–6pm most days, 8am–5pm Sunday); go right at opening on a weekday to skip the crowds, since 11am–4pm on weekends is when the line backs up into the market aisle.
+quickAnswer: Jack's Fish Spot is a no-frills seafood counter inside Pike Place Market, best for a quick bowl of chowder, a crab cocktail, or a fresh oyster shooter eaten standing up at the marble bar. It's open daily (7:30am–6pm most days, 8am–5pm Sunday); go between 8am and 10am on a weekday to skip the crowds, since 11am–4pm on weekends is when the line backs up into the market aisle.
 faq:
   - q: What's the best time to visit Jack's Fish Spot?
-    a: Go right at opening — 7:30am on weekdays or 8am on Sunday. Crowd data shows the whole 7:30am–6pm window (8am–5pm Sundays) is fairly calm generally, but weekends between 11am and 4pm see the longest lines, so avoid that stretch if you can.
+    a: Go between 8am and 10am, or from 5pm to 6pm on weekdays and Saturday. The forecast flags no standout busy hour on weekdays, but weekends between 11am and 4pm see the longest lines, so avoid that stretch if you can.
   - q: How do I get there by public transit?
     a: The nearest major stop is Westlake Station on Link light rail, about a 10-minute walk through downtown to Pike Place Market. The stall is at 1514 Pike Pl, inside the main market arcade.
   - q: Is it expensive?

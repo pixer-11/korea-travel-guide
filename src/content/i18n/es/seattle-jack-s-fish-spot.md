@@ -1,13 +1,13 @@
 ---
 lang: es
 slug: seattle-jack-s-fish-spot
-srcHash: '938061e4315a'
+srcHash: '1c28fc0590c3'
 title: 'Jack''s Fish Spot: dónde comer en Seattle'
 description: Jack's Fish Spot es un puesto de marisco sin pretensiones dentro de Pike Place Market, ideal para un tazón rápido de chowder, un cóctel de cangrejo o un ostión al momento comido de pie en la barra de mármol.
-quickAnswer: Jack's Fish Spot es un puesto de marisco sin pretensiones dentro de Pike Place Market, ideal para un tazón rápido de chowder, un cóctel de cangrejo o un ostión al momento comido de pie en la barra de mármol. Abre todos los días (7:30am–6pm la mayoría de los días, 8am–5pm los domingos); ve justo a la apertura en día de semana para evitar las multitudes, ya que entre 11am y 4pm los fines de semana es cuando la fila se extiende hasta el pasillo del mercado.
+quickAnswer: Jack's Fish Spot es un puesto de marisco sin pretensiones dentro de Pike Place Market, ideal para un tazón rápido de chowder, un cóctel de cangrejo o un ostión al momento comido de pie en la barra de mármol. Abre todos los días (7:30am–6pm la mayoría de los días, 8am–5pm los domingos); ve entre las 8am y las 10am en día de semana para evitar las multitudes, ya que entre 11am y 4pm los fines de semana es cuando la fila se extiende hasta el pasillo del mercado.
 faq:
   - q: ¿Cuál es el mejor momento para visitar Jack's Fish Spot?
-    a: 'Ve justo a la apertura: 7:30am en días de semana u 8am el domingo. Los datos de afluencia muestran que toda la franja de 7:30am–6pm (8am–5pm los domingos) suele estar bastante tranquila en general, pero los fines de semana entre 11am y 4pm se ven las filas más largas, así que evita ese tramo si puedes.'
+    a: 'Ve entre las 8am y las 10am, o de 5pm a 6pm entre semana y los sábados. La previsión no marca ninguna hora punta destacada entre semana, pero los fines de semana entre 11am y 4pm se ven las filas más largas, así que evita ese tramo si puedes.'
   - q: ¿Cómo llego en transporte público?
     a: La parada principal más cercana es Westlake Station del tren ligero Link, a unos 10 minutos a pie por el centro hasta Pike Place Market. El puesto está en 1514 Pike Pl, dentro de la galería principal del mercado.
   - q: ¿Es caro?

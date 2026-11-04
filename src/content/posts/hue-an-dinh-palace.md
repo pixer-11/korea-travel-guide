@@ -63,7 +63,7 @@ quickAnswer: >-
 faq:
   - q: When is the quietest time to visit An Dinh Palace?
     a: >-
-      The crowd forecast only covers the busiest time: weekends from 8am to 11am.
+      The crowd forecast flags only one busy period: weekends from 8am to 11am.
       It shows no quiet window. To avoid the peak, come on a weekday, or
       on a weekend right at the 7am opening or after 11am.
   - q: What are the opening hours?

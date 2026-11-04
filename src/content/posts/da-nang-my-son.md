@@ -72,7 +72,7 @@ faq:
   - q: How do I get to My Son from Da Nang?
     a: It's about a 1.5-hour drive southwest, either by joining a group tour with van pickup, hiring a private car, or riding a motorbike if you're comfortable on rural roads. Most Da Nang-based tours also swing through Hoi An.
   - q: What's the quietest time to visit?
-    a: The foot-traffic forecast shows 7am–8am and 4pm–5pm on both weekdays and weekends are generally calm, but the real crush hits weekends between 9am and 1pm when tour buses cluster. Arrive at or near opening (6am) for the emptiest towers and softest light.
+    a: The foot-traffic forecast shows 7am–8am and 4pm–5pm on both weekdays and weekends are generally calm, but the real crush hits weekends between 9am and 1pm when tour buses cluster. Arrive soon after opening (6am), around 7am, for the emptiest towers and softest light.
   - q: How long should I spend at My Son?
     a: Budget at least an hour walking the site itself, plus the on-site museum, and factor in 1.5–3 hours of transit each way depending on your starting point. Many visitors treat it as a half-day trip combined with Hoi An.
   - q: Is My Son worth visiting if I've already seen Angkor Wat or similar ruins?
@@ -110,7 +110,7 @@ A small on-site museum near the entrance gives useful context before you walk in
 
 The site opens at 6am and closes at 5pm every day, and the hour you choose changes the experience completely. The crowd forecast shows weekends get genuinely busy between 9am and 1pm, when multiple tour buses converge at once.
 
-Both weekday and weekend mornings from 7am onward, and the stretch through the afternoon, run noticeably calmer. If you can manage an early departure from Hoi An or Da Nang, arriving close to opening gets you soft morning light on the brickwork and a fraction of the foot traffic.
+Both weekday and weekend mornings from 7am to 8am, and the late afternoon from 4pm to 5pm, run noticeably calmer. If you can manage an early departure from Hoi An or Da Nang, arriving close to opening gets you soft morning light on the brickwork and a fraction of the foot traffic.
 
 Weather-wise, aim for the drier months roughly from February to July. Central Vietnam's rainy season (September to December) can turn the valley's dirt paths muddy and occasionally floods access roads entirely.
 
@@ -118,7 +118,7 @@ Weather-wise, aim for the drier months roughly from February to July. Central Vi
 
 My Son is very popular, and it will feel that way if you arrive mid-morning on a weekend. Plan around the crowds rather than the calendar.
 
-- Aim for 7am–9am or after 3pm, the site's quietest forecast windows on both weekdays and weekends
+- Aim for 7am–8am or 4pm–5pm, the site's quietest forecast windows on both weekdays and weekends
 - Skip the 9am–1pm weekend rush entirely if your schedule allows
 - Wear closed shoes with real tread, paths are uneven brick, tree roots and gravel, not paved walkway
 - Bring water and a hat; there's little shade once you're among the towers themselves

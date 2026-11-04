@@ -57,14 +57,14 @@ place:
 tags:
   - "siem reap"
   - "Banteay Srei"
-quickAnswer: "Banteay Srei Temple sits about 25–30km northeast of central Siem Reap, inside the wider Angkor Archaeological Park, and is open daily from 7:30am to 5:30pm. It's busiest on weekends between 9am and 4pm, so aim for a weekday visit — the whole site is quiet enough to enjoy any hour from 8am to 5pm on weekdays. Budget 45 minutes to an hour for the carvings alone, and pair it with a stop at Banteay Samre or the Cambodia Landmine Museum on the same drive."
+quickAnswer: "Banteay Srei Temple sits about 25–30km northeast of central Siem Reap, inside the wider Angkor Archaeological Park, and is open daily from 7:30am to 5:30pm. It's busiest on weekends between 9am and 4pm, so aim for a weekday visit — the whole site is quietest from 8am to 9am and 4pm to 5pm on weekdays, and busiest from 10am to 12pm. Budget 45 minutes to an hour for the carvings alone, and pair it with a stop at Banteay Samre or the Cambodia Landmine Museum on the same drive."
 faq:
   - q: "How do I get to Banteay Srei Temple from Siem Reap?"
     a: "It's about 25–30km northeast of town, roughly a 40–50 minute drive by tuk-tuk or car. Most visitors hire a driver for a half-day round trip, often combined with Banteay Samre or Pre Rup."
   - q: "What ticket do I need for Banteay Srei?"
     a: "It's included in the standard Angkor Archaeological Park pass (1-day, 3-day, or 7-day), bought at the official ticket center before you head out. There's no separate ticket for this temple."
   - q: "When is the quietest time to visit?"
-    a: "Weekdays are calmer throughout the full opening hours, 7:30am to 5:30pm. Weekends get busiest between 9am and 4pm, so avoid that window if possible."
+    a: "Weekdays are calmest from 8am to 9am and 4pm to 5pm; 10am to 12pm is the busiest weekday stretch. Weekends get busiest between 9am and 4pm, so avoid that window if possible."
   - q: "How long should I spend at Banteay Srei?"
     a: "Plan on 45 minutes to an hour. It's a small site, but the carvings reward slow, close-up looking rather than a quick walkthrough."
   - q: "What's nearby worth combining with the visit?"
@@ -104,7 +104,7 @@ Bring a zoom lens or binoculars if you have them. Some of the finest carving sit
 
 Weekends bring the heaviest crowds, with foot traffic peaking between 9am and 4pm on Saturdays and Sundays. Try to avoid that window if you can.
 
-Weekdays are noticeably calmer than weekends throughout the day. There's no single "secret hour" here. The site stays manageable most of a weekday, which takes the pressure off an early alarm.
+Weekdays are noticeably calmer than weekends. The quietest weekday hours are 8am to 9am and 4pm to 5pm, and the busiest are 10am to 12pm. The site stays manageable most of a weekday, which takes the pressure off an early alarm.
 
 That said, arriving close to opening still gets you softer light on the pink sandstone and fewer tour groups clustered at the main pediments.
 
@@ -115,7 +115,7 @@ Drivers and guides in Siem Reap treat Banteay Srei as a half-day add-on, not a s
 - Combine it with Banteay Samre or Pre Rup on the way back, since they sit on the same road
 - Pay your tuk-tuk or car driver in US dollars, the de facto currency for tourism transactions in Siem Reap; small riel notes work for tipping
 - Keep shoulders and knees covered. This is an active religious and cultural site, and modest dress is expected
-- Skip weekend mornings if your schedule allows; a weekday visit, any time from 8am to 5pm, avoids the worst of the tour-bus swell
+- Skip weekend mornings if your schedule allows; a weekday visit, ideally 8am to 9am or 4pm to 5pm, avoids the worst of the tour-bus swell
 - Don't rush past the outer causeway carvings while hurrying to the central towers. Some of the best relief work is on the approach, not just the sanctuary itself
 
 The most common mistake is treating Banteay Srei like a quick photo stop. Because it's smaller than Angkor Wat, people budget ten minutes and miss half the carving. Slow down here more than anywhere else in the park.

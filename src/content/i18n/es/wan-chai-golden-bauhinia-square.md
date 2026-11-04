@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: wan-chai-golden-bauhinia-square
-srcHash: 'ef5eb43d5f84'
+srcHash: '672ebbeab7ad'
 title: 'Golden Bauhinia Square: guía de viaje de Wan Chai (4,1★)'
 description: 'Golden Bauhinia Square se encuentra en el paseo marítimo de Wan Chai, junto al Centro de Convenciones y Exposiciones de Hong Kong, abierto las 24 horas, y merece entre 20 y 30 minutos por sus vistas del puerto y la estatua dorada que conmemora el traspaso de soberanía de 1997. 4,1★ (1.568 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'Golden Bauhinia Square se encuentra en el paseo marítimo de Wan Chai, junto al Centro de Convenciones y Exposiciones de Hong Kong, abierto las 24 horas, y merece entre 20 y 30 minutos por sus vistas del puerto y la estatua dorada que conmemora el traspaso de soberanía de 1997. Conviene ir temprano: los fines de semana el momento más tranquilo va de las 7:00 a las 8:00, antes de que la afluencia aumente de forma constante entre las 11:00 y las 22:00. Si quiere presenciar el ritual completo, programe la visita para la ceremonia de izado de bandera a las 8:00.'
@@ -47,7 +47,7 @@ Este es un espacio público abierto las 24 horas, así que no hay verja ni horar
 
 Los fines de semana la afluencia aumenta de verdad entre las 11:00 y las 22:00, con grupos turísticos, familias y fotógrafos convergiendo a la vez. Si prefiere tener la plaza casi para usted, lo mejor es ir entre las 7:00 y las 8:00 un sábado o domingo por la mañana.
 
-Las mañanas entre semana, antes de que llegue el público de oficinas, también suelen ser tranquilas, aunque no hay datos concretos que precisen las horas exactas de calma entre semana. En cualquier caso, siempre es mejor llegar temprano que tarde.
+Las mañanas entre semana, antes de que llegue el público de oficinas, son mejor opción que la franja concurrida de 10:00 a 19:00, aunque la previsión no marca ninguna franja tranquila entre semana. En cualquier caso, siempre es mejor llegar temprano que tarde.
 
 ## Lugares cercanos para combinar con la visita
 

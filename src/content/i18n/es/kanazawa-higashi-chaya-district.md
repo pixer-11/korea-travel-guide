@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kanazawa-higashi-chaya-district
-srcHash: 'c860e88f46c5'
+srcHash: '53c5576d66a7'
 title: 'Barrio de Higashi Chaya: Guía de viaje de Kanazawa (4.2★)'
 description: 'El barrio de Higashi Chaya, en Kanazawa, es un conjunto histórico de casas de té de geishas al este del río Asano, de fácil acceso en autobús o taxi desde la estación de Kanazawa. 4.2★ (23.609 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El barrio de Higashi Chaya, en Kanazawa, es un conjunto histórico de casas de té de geishas al este del río Asano, de fácil acceso en autobús o taxi desde la estación de Kanazawa. Al tratarse de un barrio y no de un lugar con entrada, permanece abierto todo el día, pero conviene llegar antes de las 10:00 para disfrutar de sus calles de celosías de madera sin aglomeraciones. Los fines de semana, entre las 10:00 y las 18:00, los grupos turísticos copan la calle principal.
@@ -11,7 +11,7 @@ faq:
   - q: ¿Hay que pagar entrada para visitar el barrio de Higashi Chaya?
     a: 'No: se trata de un barrio de calles públicas, abierto las 24 horas y sin coste de acceso. Algunos lugares concretos, como la casa de té Shima o Kaikaro, cobran una pequeña tarifa para entrar.'
   - q: ¿Cuál es el momento más tranquilo para visitarlo?
-    a: El flujo de visitantes se mantiene bajo entre las 7:00 y las 23:00, tanto entre semana como los fines de semana. Para encontrar las calles más vacías, lo ideal es llegar justo sobre las 7:00; conviene evitar la franja de 10:00 a 18:00 los fines de semana, que es la de mayor afluencia.
+    a: El flujo de visitantes se mantiene bajo entre las 7:00 y las 8:00 y de nuevo por la noche, entre las 20:00 y las 23:00 entre semana y entre las 21:00 y las 23:00 los fines de semana. Para encontrar las calles más vacías, lo ideal es llegar justo sobre las 7:00; conviene evitar la franja de 10:00 a 18:00 los fines de semana, que es la de mayor afluencia.
   - q: ¿Cuánto tiempo conviene dedicarle?
     a: Con dos o tres horas es suficiente para recorrer la calle principal, visitar uno o dos museos de casas de té y detenerse en alguna tienda de pan de oro. Si además se cruza a pie hasta el barrio de Kazuemachi, hay que sumar entre 20 y 30 minutos.
   - q: ¿Se puede presenciar una actuación real de geishas?
@@ -49,9 +49,9 @@ Un taxi desde la estación cuesta algo más, pero evita cualquier cálculo sobre
 
 Al ser un barrio al aire libre y sin entrada, en teoría se puede visitar las 24 horas del día, todos los días. Eso no significa que todas las horas sean iguales.
 
-Los datos de afluencia muestran que el ambiente se mantiene tranquilo entre las 7:00 y las 23:00, tanto entre semana como los fines de semana; sin embargo, los sábados y domingos entre las 10:00 y las 18:00 son el momento en que los autobuses turísticos y los excursionistas de un día llenan la calle principal de punta a punta. Quien quiera fotografiar la calle de celosías vacía debería evitar por completo esa franja.
+Los datos de afluencia muestran que el ambiente se mantiene tranquilo entre las 7:00 y las 8:00 y de nuevo entre las 20:00 y las 23:00 entre semana (entre las 21:00 y las 23:00 los fines de semana); sin embargo, los sábados y domingos entre las 10:00 y las 18:00 son el momento en que los autobuses turísticos y los excursionistas de un día llenan la calle principal de punta a punta. Quien quiera fotografiar la calle de celosías vacía debería evitar por completo esa franja.
 
-Muy temprano, especialmente antes de las 9:00, la luz suave ilumina las oscuras fachadas de madera y apenas hay nadie más alrededor. Por la noche, una vez cerradas las tiendas, las mismas calles adquieren una versión más tranquila y evocadora, con farolillos encendidos frente a algunas casas de té.
+Muy temprano, especialmente hacia las 7:00, la luz suave ilumina las oscuras fachadas de madera y apenas hay nadie más alrededor. Por la noche, una vez cerradas las tiendas, las mismas calles adquieren una versión más tranquila y evocadora, con farolillos encendidos frente a algunas casas de té.
 
 ## Cómo visitarlo como un local
 

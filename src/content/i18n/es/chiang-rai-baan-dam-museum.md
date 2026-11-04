@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: chiang-rai-baan-dam-museum
-srcHash: '4429531cb6de'
+srcHash: 'c667f8a51f33'
 title: 'Museo Baan Dam: Guía de viaje de Chiang Rai (4.1★)'
 description: 'El Museo Baan Dam (la "Casa Negra") se encuentra a unos 13 km al norte de la ciudad de Chiang Rai, en Nang Lae, y conviene visitarlo apenas abre en vez de a primera hora de la tarde, cuando las multitudes del fin de semana alcanzan su punto máximo entre la 1pm y las 4pm. 4.1★ (13.854 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo Baan Dam (la "Casa Negra") se encuentra a unos 13 km al norte de la ciudad de Chiang Rai, en Nang Lae, y conviene visitarlo apenas abre en vez de a primera hora de la tarde, cuando las multitudes del fin de semana alcanzan su punto máximo entre la 1pm y las 4pm. Calcule entre 1.5 y 2 horas para recorrer sus cerca de 40 estructuras de madera de teca oscura, repletas de huesos, pieles y tallas de animales creadas por el fallecido Thawan Duchanee. Combínelo con el Wat Rong Khun (Templo Blanco), sobre la misma carretera, para completar un circuito de medio día.
@@ -9,7 +9,7 @@ faq:
   - q: ¿Cuánto tiempo debo dedicar al Museo Baan Dam?
     a: Calcule entre 1.5 y 2 horas para recorrer con calma los cerca de 40 edificios; los aficionados a la fotografía quizá quieran quedarse más tiempo.
   - q: ¿Cuál es el momento con menos gente para visitarlo?
-    a: Los datos de afluencia muestran que el ambiente es más tranquilo entre las 9am y las 5pm, tanto entre semana como los fines de semana. Los fines de semana en particular, conviene evitar el horario de 1pm a 4pm, cuando se concentran las multitudes.
+    a: La previsión muestra que el ambiente es más tranquilo entre las 9am y las 11am, tanto entre semana como los fines de semana. Los fines de semana en particular, conviene evitar el horario de 1pm a 4pm, cuando se concentran las multitudes.
   - q: ¿Cómo se llega a Baan Dam desde la ciudad de Chiang Rai?
     a: Está a unos 20-25 minutos en auto hacia el norte, en Nang Lae. La mayoría de los visitantes llega en scooter alquilado, en auto o con un conductor o tour contratado, a menudo combinando la visita con el Templo Blanco y el Templo Azul.
   - q: ¿Vale la pena visitar el Museo Baan Dam junto con el Templo Blanco?

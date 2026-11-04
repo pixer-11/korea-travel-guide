@@ -64,7 +64,7 @@ place:
 tags:
   - "clarke quay"
   - "historic site"
-quickAnswer: "Tan Si Chong Su Temple sits at 15 Magazine Road, a five-minute walk from the Clarke Quay riverside towards Havelock Road, and it's open daily 9am–9pm. It's an under-the-radar stop compared to the bars and restaurants nearby, so you'll often have the courtyard to yourself. Weekends are calmest anytime from 10am, with things busier between 6pm and 9pm."
+quickAnswer: "Tan Si Chong Su Temple sits at 15 Magazine Road, a five-minute walk from the Clarke Quay riverside towards Havelock Road, and it's open daily 9am–9pm. It's an under-the-radar stop compared to the bars and restaurants nearby, so you'll often have the courtyard to yourself. Weekends are calmest from 10am to 6pm, with things busier between 6pm and 9pm."
 faq:
   - q: "How do I get to Tan Si Chong Su Temple from Clarke Quay?"
     a: "Walk 5–8 minutes from Clarke Quay MRT (North East Line), Exit E, north along Merchant Road and onto Magazine Road; the temple is at 15 Magazine Road."
@@ -73,7 +73,7 @@ faq:
   - q: "What are the opening hours?"
     a: "The temple is open daily from 9am to 9pm, with no variation across the week."
   - q: "When is the quietest time to visit?"
-    a: "Weekends are calm throughout the 10am–9pm hours; try to avoid the busier 6pm–9pm evening stretch if you want it fully to yourself."
+    a: "Weekends are calm throughout the 10am–6pm hours; try to avoid the busier 6pm–9pm evening stretch if you want it fully to yourself."
   - q: "How long should I spend there?"
     a: "Most visitors spend 20 to 30 minutes taking in the courtyard, carved pillars, and ancestral hall."
 aiGenerated: true

@@ -79,7 +79,7 @@ tags:
 quickAnswer: >-
   El Retiro Park sits in Madrid's Retiro district, a 15-minute walk east of Sol
   and steps from the Prado. It's open daily from 6am to midnight and free to
-  enter, with the calmest hours running 7am to 11pm on weekdays and weekends
+  enter, with the calmest hours running 7am–10am (and again 10pm–11pm) on weekdays and weekends
   alike, before the 12pm–10pm weekend crush of families, rollerbladers and
   street musicians sets in. Give it at least two hours, longer if you want to
   row a boat on the lake.
@@ -90,8 +90,8 @@ faq:
       day.
   - q: When is the quietest time to visit El Retiro?
     a: >-
-      Both weekdays and weekends stay calm from 7am to 11pm; the real crowd
-      surge is confined to weekends between 12pm and 10pm.
+      Both weekdays and weekends stay calm from 7am to 10am and 10pm to 11pm; the real crowd
+      surge comes on weekends between 12pm and 10pm, and on weekdays between 5pm and 8pm.
   - q: How do I get to El Retiro Park by metro?
     a: >-
       Take Line 2 to Retiro station or Line 9 to Ibiza, both of which put you
@@ -133,9 +133,9 @@ Nearby, the park's southern paths open onto Sundays that feel different from the
 
 ## When the park fills up and when it doesn't
 
-El Retiro is open every day from 6am to midnight, and it's consistently one of the most visited attractions in Madrid, so timing matters more than in a quieter park. The calm window runs from 7am to 11pm on both weekdays and weekends, meaning most of the day is manageable if you avoid the specific crunch.
+El Retiro is open every day from 6am to midnight, and it's consistently one of the most visited attractions in Madrid, so timing matters more than in a quieter park. The calm windows run from 7am to 10am and 10pm to 11pm on both weekdays and weekends, and the rest of the day is manageable if you avoid the specific crunch.
 
-That crunch lands on weekends between 12pm and 10pm, when families, joggers, cyclists and tour groups all converge on the same central paths and the lakeside area in particular gets loud and slow-moving. If you want the wide avenues to yourself, an early weekday morning is your best bet.
+That crunch lands on weekends between 12pm and 10pm, and on weekdays between 5pm and 8pm, when families, joggers, cyclists and tour groups all converge on the same central paths and the lakeside area in particular gets loud and slow-moving. If you want the wide avenues to yourself, an early weekday morning is your best bet.
 
 - Quietest overall: 7am–10am and 10pm–11pm, any day
 - Busiest stretch to avoid: weekends, 12pm–10pm

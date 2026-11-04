@@ -56,13 +56,13 @@ tags:
 quickAnswer: >-
   Spicy Salt HK is a late-night, no-frills spot in Yau Ma Tei/Jordan for
   salt-and-pepper style fried plates and cold beer, open 4pm to 4am (5am on
-  weekends). It's quiet and roomy from 4pm–9pm on weekends — go then to skip the
+  weekends). It's quiet and roomy from 4pm–7pm on weekends — go then to skip the
   7pm–11pm crowd. Cash or a local mobile pay app is the norm; expect no English
   menu translations for every item, so point and ask.
 faq:
   - q: What's the best time to visit to avoid crowds?
     a: >-
-      Weekend afternoons between 4pm and 9pm are the quietest window in the forecast.
+      Weekend afternoons between 4pm and 7pm are the quietest window in the forecast.
       Weekend evenings from 7pm to 11pm are the busiest — try to avoid arriving
       then.
   - q: How do I get to Spicy Salt HK?
@@ -115,7 +115,7 @@ Portions are meant for sharing across a table, not plating solo. Order two or th
 
 This kitchen runs from 4pm to 4am most nights, and until 5am on Friday and Saturday, genuinely late-night territory, built for shift workers, clubbers, and anyone who's hungry after the MTR stops running.
 
-Weekend evenings get busy fast. The forecast quiet window is 4pm–9pm on weekends, and the crowd data flags 7pm–11pm as the peak crush to avoid if you want a table without a wait.
+Weekend evenings get busy fast. The forecast quiet window is 4pm–7pm on weekends, and the crowd data flags 7pm–11pm as the peak crush to avoid if you want a table without a wait.
 
 If you're after a calmer meal with room to actually hear your table talk, aim for that early weekend window, right after opening.
 
@@ -129,7 +129,7 @@ That's part of the appeal. You're eating where the neighborhood eats, at the hou
 
 ## How to visit like a local
 
-Skip the early-evening rush hour block if you can, 7pm to 11pm on weekends is when it fills up, per the crowd forecast. Weekend afternoons, from 4pm to about 9pm, are noticeably calmer.
+Skip the evening rush if you can: 7pm to 11pm on weekends is when it fills up, per the crowd forecast. Weekend afternoons, from 4pm to 7pm, are noticeably calmer.
 
 - **Pay**: cash is safest to have on hand; some small Yau Ma Tei kitchens haven't fully switched to card or mobile pay, so don't rely on Apple Pay alone.
 - **Order**: point at what looks good if the menu isn't translated, salt-and-pepper dishes are usually labeled clearly enough to recognize by the fry style.

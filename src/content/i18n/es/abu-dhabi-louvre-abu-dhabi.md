@@ -1,15 +1,15 @@
 ---
 lang: es
 slug: abu-dhabi-louvre-abu-dhabi
-srcHash: '91836c06f3a7'
+srcHash: '233a778d345b'
 title: 'Louvre Abu Dabi: Guía de Viaje (4.7★)'
 description: 'El Louvre Abu Dabi, situado en la isla de Saadiyat, merece medio día completo: entre 2 y 3 horas para las galerías, más el tiempo necesario para recorrer la cúpula y el paseo marítimo. 4.7★ (39.594 reseñas): lo que dicen los visitantes, horarios y consejos prácticos.'
-quickAnswer: 'El Louvre Abu Dabi, situado en la isla de Saadiyat, merece medio día completo: entre 2 y 3 horas para las galerías, más el tiempo necesario para recorrer la cúpula y el paseo marítimo. Cierra los lunes, y abre de 10:00 a 18:30 de martes a jueves, y hasta las 20:30 de viernes a domingo. Conviene llegar justo a las 10:00 en fin de semana para aprovechar la franja más tranquila, de 10:00 a 12:00, antes de que el museo se llene.'
+quickAnswer: 'El Louvre Abu Dabi, situado en la isla de Saadiyat, merece medio día completo: entre 2 y 3 horas para las galerías, más el tiempo necesario para recorrer la cúpula y el paseo marítimo. Cierra los lunes, y abre de 10:00 a 18:30 de martes a jueves, y hasta las 20:30 de viernes a domingo. En fin de semana la previsión no marca ninguna franja tranquila y hay mucha afluencia de 10:00 a 19:00, así que conviene llegar después de las 19:00, antes del cierre de las 20:30.'
 faq:
   - q: ¿Cuánto tiempo debo reservar para visitar el Louvre Abu Dabi?
     a: Calcule un mínimo de dos a tres horas para las galerías permanentes, y prácticamente medio día si además quiere ver una exposición temporal, pasear por el paseo marítimo o comer en el propio recinto.
   - q: ¿Cuál es el mejor momento para evitar las aglomeraciones?
-    a: Los fines de semana, la franja de 10:00 a 12:00 es la más tranquila según la previsión de afluencia. La multitud empieza a crecer desde el mismo momento de la apertura, así que llegar justo a las 10:00 es la mejor opción.
+    a: Los fines de semana, la previsión de afluencia no marca ninguna franja tranquila. La multitud empieza a crecer desde el mismo momento de la apertura y se mantiene hasta las 19:00, así que llegar después de las 19:00, antes del cierre de las 20:30, es la mejor opción.
   - q: ¿El Louvre Abu Dabi cierra algún día?
     a: Sí, permanece cerrado todo el lunes. Abre de 10:00 a 18:30 de martes a jueves, y de 10:00 a 20:30 de viernes a domingo.
   - q: ¿Cómo se llega a la isla de Saadiyat sin coche?
@@ -47,7 +47,7 @@ En el exterior, el museo está literalmente rodeado de agua: el Golfo llega hast
 
 El museo permanece cerrado todo el lunes, así que conviene no planear la visita ese día. De martes a jueves abre de 10:00 a 18:30; de viernes a domingo el horario se extiende hasta las 20:30, algo que vale la pena aprovechar si se quiere ver la cúpula iluminada al atardecer.
 
-Los fines de semana la afluencia aumenta rápidamente, y la multitud crece desde el mismo momento de la apertura. Si quiere disfrutar de las galerías con tranquilidad, llegue antes de la hora de apertura o, si lo prefiere, visítelo un día entre semana.
+Los fines de semana la afluencia aumenta rápidamente, y la multitud crece desde el mismo momento de la apertura. Si quiere evitar las aglomeraciones, llegue después de las 19:00 o, si lo prefiere, visítelo un día entre semana después de las 17:00.
 
 ## Dónde comer
 
@@ -57,7 +57,7 @@ Si prefiere comer fuera del recinto, la isla de Saadiyat cuenta con algunos beac
 
 ## Cómo visitarlo como un local
 
-El Louvre Abu Dabi es una de las atracciones más visitadas de los Emiratos Árabes Unidos, así que conviene tratarlo como el museo concurrido que es, no como un hallazgo tranquilo. La clave para evitar las aglomeraciones está en el horario: conviene ir justo a las 10:00, a la hora de apertura de un fin de semana, o cualquier mañana entre semana, en lugar de acudir en la hora punta de la tarde.
+El Louvre Abu Dabi es una de las atracciones más visitadas de los Emiratos Árabes Unidos, así que conviene tratarlo como el museo concurrido que es, no como un hallazgo tranquilo. La clave para evitar las aglomeraciones está en el horario: conviene ir después de las 19:00 en fin de semana, o después de las 17:00 entre semana, en lugar de acudir en las horas de más afluencia, que empiezan con la apertura de las 10:00.
 
 Compre la entrada en línea con antelación: es la forma habitual en que los residentes y locales visitan el museo, ya que permite saltarse por completo la cola de la taquilla y dirigirse directamente al control de seguridad. En el recinto se puede pagar con tarjeta o pago móvil casi tanto como en efectivo.
 

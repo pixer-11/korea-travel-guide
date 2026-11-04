@@ -1,17 +1,17 @@
 ---
 lang: es
 slug: siem-reap-banteay-srei-temple
-srcHash: '596dbf6e6b12'
+srcHash: 'c6434d6ab0bb'
 title: 'Templo de Banteay Srei: Guía de Viaje de Siem Reap (4.8★)'
 description: 'El templo de Banteay Srei se encuentra a unos 25–30 km al noreste del centro de Siem Reap, dentro del complejo más amplio del Parque Arqueológico de Angkor, y abre todos los días de 7:30 a 17:30. 4.8★ (2109 reseñas): lo que dicen los visitantes, horarios y consejos.'
-quickAnswer: 'El templo de Banteay Srei se encuentra a unos 25–30 km al noreste del centro de Siem Reap, dentro del complejo más amplio del Parque Arqueológico de Angkor, y abre todos los días de 7:30 a 17:30. Los fines de semana, entre las 9:00 y las 16:00, es cuando más gente hay, así que conviene visitarlo en día de semana: entonces todo el recinto se disfruta con tranquilidad en cualquier momento entre las 8:00 y las 17:00. Reserve entre 45 minutos y una hora solo para las tallas, y aproveche el mismo trayecto para parar en Banteay Samre o en el Museo de Minas Terrestres de Camboya.'
+quickAnswer: 'El templo de Banteay Srei se encuentra a unos 25–30 km al noreste del centro de Siem Reap, dentro del complejo más amplio del Parque Arqueológico de Angkor, y abre todos los días de 7:30 a 17:30. Los fines de semana, entre las 9:00 y las 16:00, es cuando más gente hay, así que conviene visitarlo en día de semana: entonces el recinto está más tranquilo de 8:00 a 9:00 y de 16:00 a 17:00, y más concurrido de 10:00 a 12:00. Reserve entre 45 minutos y una hora solo para las tallas, y aproveche el mismo trayecto para parar en Banteay Samre o en el Museo de Minas Terrestres de Camboya.'
 faq:
   - q: ¿Cómo llego al templo de Banteay Srei desde Siem Reap?
     a: Está a unos 25–30 km al noreste de la ciudad, un trayecto de 40 a 50 minutos aproximadamente en tuk-tuk o en coche. La mayoría de los visitantes contrata un conductor para una excursión de medio día de ida y vuelta, a menudo combinada con Banteay Samre o Pre Rup.
   - q: ¿Qué entrada necesito para Banteay Srei?
     a: Está incluido en el pase estándar del Parque Arqueológico de Angkor (de 1, 3 o 7 días), que se compra en el centro de venta de entradas oficial antes de salir. No existe una entrada separada para este templo.
   - q: ¿Cuál es el momento más tranquilo para visitarlo?
-    a: Los días de semana son más tranquilos durante todo el horario de apertura, de 7:30 a 17:30. Los fines de semana la mayor afluencia se da entre las 9:00 y las 16:00, así que conviene evitar esa franja si es posible.
+    a: Los días de semana, lo más tranquilo es de 8:00 a 9:00 y de 16:00 a 17:00, y la franja más concurrida es de 10:00 a 12:00. Los fines de semana la mayor afluencia se da entre las 9:00 y las 16:00, así que conviene evitar esa franja si es posible.
   - q: ¿Cuánto tiempo debería dedicarle a Banteay Srei?
     a: Calcule entre 45 minutos y una hora. Es un recinto pequeño, pero las tallas merecen una observación lenta y de cerca en lugar de un recorrido rápido.
   - q: ¿Qué hay cerca que valga la pena combinar con la visita?
@@ -52,7 +52,7 @@ Si tiene un teleobjetivo o unos binoculares, llévelos: algunas de las tallas m�
 
 Los fines de semana traen la mayor afluencia, con el punto máximo de visitantes entre las 9:00 y las 16:00 los sábados y domingos. Conviene evitar esa franja si es posible.
 
-Los días de semana son notablemente más tranquilos durante todo el horario de apertura, de 7:30 a 17:30. Aquí no existe una "hora secreta": el recinto se mantiene manejable durante casi toda la jornada laboral, lo que quita la presión de madrugar.
+Los días de semana son notablemente más tranquilos que los fines de semana. Las horas más tranquilas entre semana son de 8:00 a 9:00 y de 16:00 a 17:00, y las más concurridas, de 10:00 a 12:00. El recinto se mantiene manejable durante casi toda la jornada laboral, lo que quita la presión de madrugar.
 
 Aun así, llegar cerca de la hora de apertura sigue teniendo sus ventajas: una luz más suave sobre la arenisca rosada y menos grupos turísticos agolpados junto a los frontones principales.
 
@@ -63,7 +63,7 @@ Los conductores y guías de Siem Reap tratan Banteay Srei como una excursión de
 - Combínelo con Banteay Samre o Pre Rup en el camino de vuelta, ya que están sobre la misma carretera
 - Pague al conductor del tuk-tuk o del coche en dólares estadounidenses, la moneda de facto para las transacciones turísticas en Siem Reap; los billetes pequeños de riel sirven para las propinas
 - Mantenga los hombros y las rodillas cubiertos: es un sitio religioso y cultural en activo, donde se espera una vestimenta modesta
-- Si su agenda lo permite, evite las mañanas de fin de semana; una visita en día de semana, en cualquier momento entre las 8:00 y las 17:00, permite escapar de la peor oleada de autobuses turísticos
+- Si su agenda lo permite, evite las mañanas de fin de semana; una visita en día de semana, idealmente de 8:00 a 9:00 o de 16:00 a 17:00, permite escapar de la peor oleada de autobuses turísticos
 - No pase de largo las tallas de la calzada exterior por apurarse hacia las torres centrales: parte del mejor trabajo en relieve está en el acceso, no solo en el santuario
 
 El error más común es tratar Banteay Srei como una parada rápida para fotos. Como es más pequeño que Angkor Wat, la gente calcula diez minutos y se pierde la mitad de las tallas. Aquí, más que en cualquier otro lugar del parque, conviene ir despacio.

@@ -1,10 +1,10 @@
 ---
 lang: es
 slug: paris-louvre-museum
-srcHash: '922477b7a923'
+srcHash: 'e98ae61f1d29'
 title: 'Museo del Louvre: guía de viaje de París'
-description: Ve justo a la apertura (9am) un miércoles o viernes, cuando el museo permanece abierto hasta las 9pm y las multitudes se reducen notablemente tras el ajetreo de la mañana.
-quickAnswer: Ve justo a la apertura (9am) un miércoles o viernes, cuando el museo permanece abierto hasta las 9pm y las multitudes se reducen notablemente tras el ajetreo de la mañana. Entra por la Pirámide o, mejor aún, por la entrada subterránea del Carrousel du Louvre (Metro Palais-Royal–Musée du Louvre, Línea 1) para evitar la cola en superficie. Reserva medio día si quieres ver bien lo más destacado, o un día completo si prefieres pasear con calma.
+description: Ve justo a la apertura (9am) un miércoles o viernes, cuando el museo permanece abierto hasta las 9pm y las multitudes se reducen notablemente tras el ajetreo de 12pm a 5pm.
+quickAnswer: Ve justo a la apertura (9am) un miércoles o viernes, cuando el museo permanece abierto hasta las 9pm y las multitudes se reducen notablemente tras el ajetreo de 12pm a 5pm. Entra por la Pirámide o, mejor aún, por la entrada subterránea del Carrousel du Louvre (Metro Palais-Royal–Musée du Louvre, Línea 1) para evitar la cola en superficie. Reserva medio día si quieres ver bien lo más destacado, o un día completo si prefieres pasear con calma.
 faq:
   - q: ¿Cuál es el mejor momento para visitar el Louvre y evitar las multitudes?
     a: Llega justo a las 9am un día de semana, especialmente miércoles o viernes, ya que esos días el museo permanece abierto hasta las 9pm. La afluencia habitual muestra que de 9am a 10am es la franja más tranquila entre semana, mientras que el periodo más concurrido a evitar es de 11am a 6pm los fines de semana.
@@ -42,7 +42,7 @@ Si buscas salas más tranquilas, las antigüedades de Oriente Próximo y las gal
 
 El museo cierra los martes, así que no vayas ese día esperando una visita tranquila entre semana: encontrarás las puertas cerradas. Los días que sí abre, el horario suele ir de la mañana hasta primera hora de la noche, con dos noches por semana en que el museo permanece abierto más tiempo. Esas dos noches largas son, de hecho, la mejor franja: las multitudes de autobuses turísticos se reducen a partir de las 5pm más o menos, y la luz tenue del atardecer filtrándose por los paneles de cristal de la Pirámide vale la pena por sí sola.
 
-Los patrones de afluencia previstos lo confirman: el tramo más tranquilo entre semana es de 9am a 10am, justo a la apertura, mientras que los fines de semana se mantienen relativamente manejables casi todo el día (9am–7pm), salvo el tramo de 11am a 6pm, que es sistemáticamente el más concurrido y conviene evitar si es posible.
+Los patrones de afluencia previstos lo confirman: el tramo más tranquilo, tanto entre semana como los fines de semana, es de 9am a 10am, justo a la apertura, mientras que el tramo de 11am a 6pm de los fines de semana es sistemáticamente el más concurrido y conviene evitar si es posible.
 
 ## Cómo visitarlo como un local
 

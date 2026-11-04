@@ -59,7 +59,7 @@ faq:
   - q: "Where exactly is Zhaolin Park?"
     a: "At 377 Sen Lin Jie in Daoli District, Harbin, a short walk from the southern end of Zhongyang Street's pedestrian shopping area."
   - q: "When is the quietest time to visit?"
-    a: "Weekends between 5pm and 10pm are calmest. Weekends from 7am to 11pm see the heaviest foot traffic, so avoid that window if you want space to yourself."
+    a: "Weekends between 6pm and 10pm are calmest. Weekends from 7am to 12pm, 2pm to 6pm and 10pm to 11pm see the heaviest foot traffic, so avoid those windows if you want space to yourself."
   - q: "Is Zhaolin Park worth it if I'm already visiting Ice and Snow World?"
     a: "Yes as a shorter add-on. It's smaller in scale with backlit ice lanterns rather than massive ice-block structures, and takes under an hour to walk through."
   - q: "What's there to do in summer?"
@@ -82,7 +82,7 @@ Come winter, the lake and paths fill with ice lantern sculptures, illuminated fr
 
 The address is 377 Sen Lin Jie, Daoli District, close enough to Zhongyang Street's pedestrian shopping strip to fold into the same walk. Most visitors combine it with Zhongyang Street, the Flood Control Monument, or a stroll along the Songhua River embankment.
 
-Weekends see the heaviest footfall between 7am and 11pm, so if you want the paths to yourself, aim for 5pm to 10pm instead. That evening window has the added benefit of catching the ice lanterns lit up after dark in winter, which is when they're actually worth seeing.
+Weekends see the heaviest footfall from 7am to 12pm, 2pm to 6pm and 10pm to 11pm, so if you want the paths to yourself, aim for 6pm to 10pm instead. That evening window has the added benefit of catching the ice lanterns lit up after dark in winter, which is when they're actually worth seeing.
 
 Plan on 45 minutes to an hour here. It's not a full-day destination, more a quiet detour between bigger sights.
 

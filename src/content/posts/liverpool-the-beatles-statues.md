@@ -81,7 +81,7 @@ quickAnswer: >-
   The Beatles Statues stand at Pier Head on the Liverpool waterfront: four
   larger-than-life bronzes by Andy Edwards, unveiled in 2015, with the Royal
   Liver Building behind them. They're open-air and you can visit any time.
-  Weekdays between 7am and 11pm are the quiet window, so try to avoid weekends
+  Weekdays are quietest from 7am to 8am and 9pm to 11pm; try to avoid weekends
   from 10am to 7pm, when the photo queue is at its longest.
 faq:
   - q: Where exactly are The Beatles Statues in Liverpool?
@@ -91,7 +91,7 @@ faq:
       Mersey Ferries terminal and the Museum of Liverpool.
   - q: When is the quietest time to visit?
     a: >-
-      On weekdays, the quiet window is 7am to 11pm. On weekends, avoid 10am to
+      On weekdays, the quiet windows are 7am to 8am and 9pm to 11pm. On weekends, avoid 10am to
       7pm, the busiest stretch. Going before 10am or after 7pm usually gets you
       a shorter photo queue.
   - q: How do I get there by public transport?
@@ -130,7 +130,7 @@ A proper look and a few photos take 15 to 20 minutes. Allow longer if you want t
 
 ## Timing your photo
 
-This spot is popular, and the crowd follows a clear pattern. On weekdays, the whole stretch from 7am to 11pm counts as the quiet window, so a Tuesday afternoon is usually easy. Weekends are different. Try not to arrive between 10am and 7pm on a Saturday or Sunday, because that's when the queue for photos builds.
+This spot is popular, and the crowd follows a clear pattern. On weekdays, the quiet windows are 7am to 8am and 9pm to 11pm, and 11am to 6pm is the busiest stretch, so even a Tuesday afternoon can mean a wait. Weekends stay busy for longer. Try not to arrive between 10am and 7pm on a Saturday or Sunday, because that's when the queue for photos builds.
 
 If a weekend is your only chance, go before 10am or after 7pm. Early morning also gives you the water behind you with fewer people walking through the frame. Most Liverpool days are overcast, and flat grey light is actually kind to bronze. You get fewer harsh shadows across the faces.
 

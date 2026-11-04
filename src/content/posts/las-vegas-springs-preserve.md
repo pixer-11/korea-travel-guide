@@ -66,7 +66,7 @@ quickAnswer: >-
   10 minutes from the Strip, built around the actual freshwater springs that
   gave Las Vegas its name. Plan on 3–4 hours to cover the walking trails,
   botanical gardens, and museums, and go right at the 9am opening — it's closed
-  Tuesdays and Wednesdays, and the trails and exhibits fill up steadily through
+  Tuesdays and Wednesdays, and the trails and exhibits stay busy throughout
   the day on weekends. It's genuinely well-loved and well-visited, so this is
   less an undiscovered spot and more a well-run one worth timing carefully.
 faq:
@@ -88,9 +88,9 @@ faq:
       wetlands trail and gardens alone.
   - q: When is the best time to go to avoid crowds?
     a: >-
-      Go right at 9am opening, particularly on weekends — foot traffic builds
-      steadily through the 9am–4pm window on Saturdays and Sundays, so the first
-      hour is consistently the calmest.
+      Go right at 9am opening, particularly on Mondays, Thursdays, and Fridays (it's closed Tuesdays and Wednesdays) — foot traffic peaks
+      from 10am to 2pm, so the first hour beats the rush. On weekends the forecast flags no quiet hour, and
+      the whole 9am–4pm window stays busy.
   - q: Is Springs Preserve good to visit in summer?
     a: >-
       The trails are mostly unshaded, so summer afternoons (often over 100°F)
@@ -117,13 +117,13 @@ Indoors, the Nevada State Museum covers natural history and statehood with real 
 
 ## When to go
 
-Springs Preserve keeps a tighter schedule than most Vegas attractions, so check the current hours before you go, since it isn't open every day. Build your visit around those hours first, nothing is worse than driving out only to find the gates shut. On weekends, arriving right at opening is the single best move: the trails are shaded and cool, the light is soft for photos over the wetlands, and you'll beat the midday crowds through the museum entrances.
+Springs Preserve keeps a tighter schedule than most Vegas attractions, so check the current hours before you go, since it isn't open every day. Build your visit around those hours first, nothing is worse than driving out only to find the gates shut. On Mondays, Thursdays, and Fridays, arriving right at opening is the single best move: the trails are shaded and cool, the light is soft for photos over the wetlands, and you'll beat the midday crowds through the museum entrances.
 
 Because it's outdoors and largely unshaded once the sun climbs, this is also a spring or fall visit if you have the choice, summer afternoons in the low desert regularly push past 100°F, and the trails offer little relief from it after mid-morning.
 
 ## How to visit like a local
 
-This is a popular, well-reviewed attraction rather than a quiet find, so the smartest local move is timing, not secrecy. Arrive as close to opening as you can, especially on a Saturday or Sunday, since the site only gets busier as the day goes on and there's no quiet late-afternoon lull to wait for. Wear real walking shoes (the outdoor loop covers uneven, sun-exposed ground), and bring water even in cooler months, since shade is patchy.
+This is a popular, well-reviewed attraction rather than a quiet find, so the smartest local move is timing, not secrecy. Arrive as close to opening as you can, especially on a Monday, Thursday, or Friday, since the busy stretch starts at 10am and there's no quiet late-afternoon lull to wait for. Wear real walking shoes (the outdoor loop covers uneven, sun-exposed ground), and bring water even in cooler months, since shade is patchy.
 
 Tickets and any café purchases are handled by card as easily as cash, so there's no need to plan around cash-only spots. Budget the better part of a morning or afternoon: rushing the outdoor trails to "do" the museums too, or vice versa, is the most common visitor mistake here. Pick one focus per visit, or set aside a full 3–4 hours to do both properly.
 

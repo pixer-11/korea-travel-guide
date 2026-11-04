@@ -63,7 +63,7 @@ quickAnswer: >-
   the two things every visitor is chasing are the Cappella Palatina's gold
   mosaics and a same-day ticket. It's open daily, though Sundays only run until
   1pm, and it's well-visited enough that weekends between 11am and noon get
-  tight; go earlier or after 2pm on a Saturday or Sunday for a calmer look at
+  tight; go earlier, around 9am, or between 1pm and 2pm on a Saturday, for a calmer look at
   the chapel.
 faq:
   - q: How much time should I budget for Palazzo dei Normanni?
@@ -77,7 +77,7 @@ faq:
       8:30am to 1pm only, so don't plan a Sunday afternoon visit.
   - q: When is it quietest?
     a: >-
-      On weekends, mornings from 9am to 2pm run calmer; try to avoid 11am to
+      On weekends, 9am to 10am runs calmer, as does 1pm to 2pm on Saturdays; try to avoid 11am to
       noon on Saturdays and Sundays, when crowds peak.
   - q: Can I always see the Royal Apartments and Sala di Ruggero?
     a: >-
@@ -126,7 +126,7 @@ Because this is a functioning government building, not just a museum, expect occ
 
 The palace is a well-visited stop on Palermo's main tourist route, and it earns that popularity, so don't expect to have the chapel to yourself. Weekend crowds build steadily and peak between 11am and noon; that hour is worth avoiding if you can help it.
 
-Weekend mornings before 11am, or after roughly 2pm, run noticeably calmer, based on the palace's own visitor patterns. Weekday visits spread the crowd out more evenly across the day. Either way, arriving close to the 8:30am opening gives you the best shot at photographing the mosaics without a shuffling line of tour groups between you and the apse.
+Weekend mornings from 9am to 10am, or 1pm to 2pm on a Saturday, run noticeably calmer, based on the crowd forecast. Weekday visits spread the crowd out more evenly across the day. Either way, arriving close to the 8:30am opening gives you the best shot at photographing the mosaics without a shuffling line of tour groups between you and the apse.
 
 ## Reading the muqarnas ceiling without a guide
 

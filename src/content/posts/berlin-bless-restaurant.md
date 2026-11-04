@@ -72,8 +72,8 @@ quickAnswer: >-
 faq:
   - q: When is the quietest time to visit BLESS Restaurant?
     a: >-
-      On weekdays it's quietest between 3pm and 5pm. At weekends, 2pm to 11pm is
-      the calmer stretch overall, but avoid 7pm to 10pm, the busiest weekend
+      On weekdays it's quietest between 3pm and 5pm. At weekends, 2pm to 5pm and 10pm to 11pm are
+      the calmest stretches, but avoid 7pm to 10pm, the busiest weekend
       window.
   - q: How do I get to BLESS Restaurant by public transport?
     a: >-
@@ -127,7 +127,7 @@ Look at the U-Bahn exit when you arrive. A memorial stands there: a set of mirro
 
 The crowd data here is clear. On weekdays, BLESS is quietest between **3pm and 5pm**. The kitchen opens at 11:30am Monday to Friday, so a late lunch in that window is the easiest table you'll get all week.
 
-Weekends run on a different clock. The doors don't open until **2pm on Saturday and Sunday**, so don't plan a weekend lunch any earlier. Across the weekend, 2pm to 11pm counts as the calmer stretch overall. Inside that stretch, though, **7pm to 10pm** is the busiest it gets.
+Weekends run on a different clock. The doors don't open until **2pm on Saturday and Sunday**, so don't plan a weekend lunch any earlier. Across the weekend, the calmest stretches are 2pm to 5pm and 10pm to 11pm. In between, though, **7pm to 10pm** is the busiest it gets.
 
 Arrive in that peak without a booking and you risk a wait or being turned away. The fix is simple: eat early, from 2pm into the late afternoon, or come late. A table after 10pm still leaves you plenty of time before the midnight close.
 

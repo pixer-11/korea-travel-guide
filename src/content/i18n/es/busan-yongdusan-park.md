@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: busan-yongdusan-park
-srcHash: '4efa76c57ba5'
+srcHash: '932dbeeb6645'
 title: 'Parque Yongdusan: Guía de viaje de Busan (4,3★)'
 description: El parque Yongdusan es el espacio verde en la colina de Busan situado en Jung-gu, conocido sobre todo por la Torre de Busan y sus vistas de la ciudad y el puerto. 4,3★ (6.575 reseñas) — lo que dicen los visitantes, horarios y consejos.
 quickAnswer: 'El parque Yongdusan es el espacio verde en la colina de Busan situado en Jung-gu, conocido sobre todo por la Torre de Busan y sus vistas de la ciudad y el puerto. Está abierto las 24 horas, así que aprovecha para ir temprano: los fines de semana el momento más tranquilo es entre las 7 y las 8 de la mañana, mientras que las mañanas y tardes de días de semana (7am–8am y 10pm–11pm) también se mantienen manejables. Evita la avalancha de 10am a 9pm los fines de semana si quieres disfrutar de las escaleras mecánicas y los miradores sin agobios.'
@@ -11,7 +11,7 @@ faq:
   - q: ¿Hay que pagar entrada para el parque?
     a: No, los terrenos del parque son gratuitos y están abiertos las 24 horas. Solo el mirador de la Torre de Busan requiere una entrada aparte; conviene revisar el precio actual antes de ir, ya que puede cambiar.
   - q: ¿Cuál es el momento más tranquilo para visitarlo?
-    a: Entre semana se mantiene bastante tranquilo de 7am a 11pm. Los fines de semana, el único tramo tranquilo es temprano, de 7am a 8am, antes de que llegue la multitud.
+    a: Entre semana lo más tranquilo es de 7am a 8am y de 10pm a 11pm. Los fines de semana, el único tramo tranquilo es temprano, de 7am a 8am, antes de que llegue la multitud.
   - q: ¿Cuánto tiempo debería planear pasar allí?
     a: Calcula entre 45 minutos y una hora para recorrer los senderos y monumentos del parque, más otros 30-40 minutos si subes a la Torre de Busan.
   - q: ¿Qué hay cerca si quiero hacer de esto una media jornada?
@@ -50,7 +50,7 @@ Reserva un buen rato, sin prisas, si solo vas a recorrer las terrazas y monument
 
 ## Cuándo ir para la mejor luz y menos multitudes
 
-Entre semana, los niveles de afluencia se mantienen manejables durante un tramo amplio, aproximadamente de 7am a 11pm, así que hay bastante flexibilidad si tu horario es flexible.
+Entre semana, los niveles de afluencia se mantienen manejables fuera del pico de 12pm a 5pm, y las horas más tranquilas son de 7am a 8am y de 10pm a 11pm, así que hay bastante flexibilidad si tu horario es flexible.
 
 Los fines de semana son otra historia. El parque se llena de verdad entre las 10am y las 9pm, con grupos turísticos y familias ocupando las terrazas principales y la fila para la torre.
 
@@ -62,7 +62,7 @@ Las noches ofrecen otro atractivo: la Torre de Busan iluminada contra la oscurid
 
 El parque Yongdusan es una de las atracciones más visitadas del centro de Busan, así que el objetivo no es encontrar un rincón tranquilo que nadie conozca, sino calcular bien el momento de tu visita para evitar la hora de mayor afluencia.
 
-- Ve temprano. Las mañanas de días de semana, o esa estrecha ventana de 7am a 8am los fines de semana, son tu mejor oportunidad de encontrar senderos vacíos.
+- Ve temprano. Las mañanas de días de semana de 7am a 8am, o esa estrecha ventana de 7am a 8am los fines de semana, son tu mejor oportunidad de encontrar senderos vacíos.
 - Sáltate las escaleras si andas corto de tiempo: las escaleras mecánicas o el ascensor de Lotte Department Store te ahorran bastante esfuerzo.
 - Compra la entrada de la torre allí mismo; rara vez es necesario reservar con antelación fuera de las semanas de temporada alta.
 - Combínalo con Nampo-dong y el mercado Gukje, ambos a poca distancia caminando, para que la colina sea una parada más dentro de un recorrido más amplio y no una excursión aparte.

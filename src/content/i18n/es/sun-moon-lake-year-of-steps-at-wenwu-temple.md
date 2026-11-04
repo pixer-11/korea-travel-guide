@@ -1,17 +1,17 @@
 ---
 lang: es
 slug: sun-moon-lake-year-of-steps-at-wenwu-temple
-srcHash: '710361717a7d'
+srcHash: '4a3fedd26781'
 title: 'Un año de escalones en el Templo Wenwu: guía de viaje del Lago Sol y Luna'
 description: 'El Templo Wenwu se alza sobre un promontorio en la orilla norte del Lago Sol y Luna, con sus puertas rojas y doradas escalonadas sobre un largo tramo de escalones desde el que se ve el lago durante toda la subida. 4.5★ (3.510 reseñas): lo que dicen los visitantes, horarios y consejos.'
-quickAnswer: El Templo Wenwu se alza sobre un promontorio en la orilla norte del Lago Sol y Luna, con sus puertas rojas y doradas escalonadas sobre un largo tramo de escalones desde el que se ve el lago durante toda la subida. Está abierto las 24 horas, pero si buscas tranquilidad, ve entre semana de 7:00 a 23:00; los fines de semana se llena de gente de 9:00 a 18:00 y solo se calma después de las 20:00. Calcula entre 45 y 60 minutos, e combínalo con un paseo en bicicleta o una parada en barco cerca de allí.
+quickAnswer: El Templo Wenwu se alza sobre un promontorio en la orilla norte del Lago Sol y Luna, con sus puertas rojas y doradas escalonadas sobre un largo tramo de escalones desde el que se ve el lago durante toda la subida. Está abierto las 24 horas, pero si buscas tranquilidad, ve entre semana de 7:00 a 8:00 o de 19:00 a 23:00; los fines de semana se llena de gente de 9:00 a 18:00 y solo se calma después de las 20:00. Calcula entre 45 y 60 minutos, e combínalo con un paseo en bicicleta o una parada en barco cerca de allí.
 faq:
   - q: ¿Cómo se llega al Templo Wenwu, en el Lago Sol y Luna?
     a: Toma el autobús lanzadera que rodea el lago o el carril bici hasta la aldea de Shuishe (Shuishe Village), y desde allí sube caminando o en un breve trayecto de autobús local por Zhongzheng Road. Muchos visitantes también llegan en barco hasta el embarcadero cercano y suben a pie desde allí.
   - q: ¿Hay que pagar entrada?
     a: No, la entrada es gratuita. El templo está abierto las 24 horas todos los días y no hay taquilla, solo cajas de donativos por si quieres dejar una ofrenda.
   - q: ¿Cuál es el mejor momento para visitarlo sin aglomeraciones?
-    a: Entre semana, de 7:00 a 23:00, es cuando hay más tranquilidad. Los fines de semana, procura ir después de las 20:00; la afluencia aumenta de forma constante entre las 9:00 y las 18:00 a medida que llegan los grupos de excursión de un día.
+    a: Entre semana, de 7:00 a 8:00 y de 19:00 a 23:00, es cuando hay más tranquilidad. Los fines de semana, procura ir después de las 20:00; la afluencia aumenta de forma constante entre las 9:00 y las 18:00 a medida que llegan los grupos de excursión de un día.
   - q: ¿Cuánto tiempo debería reservar para la visita?
     a: La mayoría de los visitantes dedica entre 45 minutos y una hora a subir la escalinata y recorrer los salones y las terrazas; más tiempo si te detienes con frecuencia para disfrutar de las vistas del lago.
   - q: ¿Qué más hay cerca?
@@ -51,7 +51,7 @@ La mayoría de la gente pasa entre 45 minutos y una hora aquí, más si se detie
 
 El templo nunca cierra: está abierto las 24 horas, todos los días. Aun así, "abierto" y "tranquilo" no son lo mismo en este lugar.
 
-Las mañanas y las tardes entre semana, aproximadamente de 7:00 a 23:00, son el tramo más tranquilo, con espacio suficiente para detenerse con calma en las terrazas superiores. Los fines de semana la historia es otra: hay que esperar un flujo constante de gente de 9:00 a 18:00, mientras autobuses turísticos y excursionistas de un día se suceden.
+Las mañanas y las tardes entre semana, aproximadamente de 7:00 a 8:00 y de 19:00 a 23:00, son el tramo más tranquilo, con espacio suficiente para detenerse con calma en las terrazas superiores. Los fines de semana la historia es otra: hay que esperar un flujo constante de gente de 9:00 a 18:00, mientras autobuses turísticos y excursionistas de un día se suceden.
 
 Si te alojas cerca, una tarde de fin de semana después de las 20:00 es tu ventana de tranquilidad: los faroles ya están encendidos, los grupos turísticos se han ido y los escalones son solo tuyos. El atardecer y los minutos justo después de que oscurece, cuando los salones resplandecen contra el lago que se oscurece, ofrecen realmente la mejor luz del día aquí.
 

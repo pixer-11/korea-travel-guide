@@ -63,12 +63,12 @@ place:
 tags:
   - "heidelberg"
   - "street food"
-quickAnswer: "Kulturbrauerei Heidelberg is a hotel with its own brewery, restaurant and beer-garden pub on Leyergasse in Heidelberg's Altstadt, a few minutes' walk from the Alte Brücke. It opens at noon daily and closes at 11pm, except Sundays when it shuts at 9pm. On weekends it's busy from 1pm to 11pm, and the calmest weekend window is 9pm to 11pm, which in practice means Saturday night."
+quickAnswer: "Kulturbrauerei Heidelberg is a hotel with its own brewery, restaurant and beer-garden pub on Leyergasse in Heidelberg's Altstadt, a few minutes' walk from the Alte Brücke. It opens at noon daily and closes at 11pm, except Sundays when it shuts at 9pm. On weekends it's busy from 1pm to 11pm, and the forecast flags no standout quiet hour, so arrive at the noon opening, before the busy stretch."
 faq:
   - q: "Where exactly is Kulturbrauerei Heidelberg?"
     a: "At Leyergasse 6, 69117 Heidelberg-Altstadt, in the Old Town. The Alte Brücke and the Kornmarkt Bergbahn station are a short walk away."
   - q: "When is the quietest time to visit?"
-    a: "On weekends, 9pm to 11pm is the calmest window. The restaurant closes at 9pm on Sundays, so that window really only applies to Saturday. Avoid weekend afternoons and evenings from 1pm to 11pm, when it's at its busiest."
+    a: "On weekends, the forecast flags no standout quiet hour, so arrive at the noon opening, before the busy stretch. Avoid weekend afternoons and evenings from 1pm to 11pm (to the 9pm close on Sundays), when it's at its busiest."
   - q: "What are the opening hours?"
     a: "Monday to Saturday it's open 12:00 to 11:00 PM. On Sunday it's open 12:00 to 9:00 PM."
   - q: "Do I need a reservation?"
@@ -99,7 +99,7 @@ Coming from Heidelberg Hauptbahnhof, take a bus to the Altstadt stops around Rat
 
 The kitchen side opens at 12:00 every day. From Monday to Saturday it stays open until 11pm. Sunday is shorter, with doors shut at 9pm, so plan a Sunday dinner for early evening.
 
-Weekends are crowded from 1pm to 11pm, which covers most of the day. If you want a table without a wait, the quietest weekend window is 9pm to 11pm. Since Sunday closes at 9pm, that really means a late Saturday. The forecast has no weekday pattern, so a weekday visit is the simplest way around the crowds.
+Weekends are crowded from 1pm to 11pm, which covers most of the day. If you want a table without a wait, note that the forecast flags no standout quiet hour on weekends, so arrive at the noon opening, before the busy stretch. On weekdays the forecast flags no standout quiet hour either and marks 6pm to 10pm as busiest, so a weekday visit before 6pm is the simplest way around the crowds.
 
 Give it around 90 minutes for a sit-down meal, or longer if you're staying for a second round in the beer garden.
 

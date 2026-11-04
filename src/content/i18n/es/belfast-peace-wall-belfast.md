@@ -1,13 +1,13 @@
 ---
 lang: es
 slug: belfast-peace-wall-belfast
-srcHash: '49d4b012c64b'
+srcHash: '28ed78fad475'
 title: 'Muro de la Paz: guía de viaje de Belfast (4.5★)'
 description: 'El Muro de la Paz de Belfast recorre Cupar Way, en el oeste de la ciudad, entre Shankill Road y Falls Road, y su horario indicado es de 7am a 7pm todos los días. 4.5★ (4,007 reseñas): opiniones de los visitantes, horarios y consejos.'
-quickAnswer: El Muro de la Paz (Peace Wall) de Belfast se extiende a lo largo de Cupar Way, en el oeste de la ciudad, entre Shankill Road y Falls Road. Su horario indicado es de 7am a 7pm todos los días. Entre semana, la zona está tranquila durante toda la jornada. El fin de semana, en cambio, conviene evitar la franja de 11am a 5pm, cuando los recorridos en taxi llegan uno detrás de otro. Calcule entre 30 y 45 minutos de visita y, si desea dejar un mensaje, lleve su propio rotulador.
+quickAnswer: El Muro de la Paz (Peace Wall) de Belfast se extiende a lo largo de Cupar Way, en el oeste de la ciudad, entre Shankill Road y Falls Road. Su horario indicado es de 7am a 7pm todos los días. Entre semana, la zona está más tranquila de 7am a 9am y de 6pm a 7pm, y más concurrida de 12pm a 1pm. El fin de semana, en cambio, conviene evitar la franja de 11am a 5pm, cuando los recorridos en taxi llegan uno detrás de otro. Calcule entre 30 y 45 minutos de visita y, si desea dejar un mensaje, lleve su propio rotulador.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Muro de la Paz?
-    a: Entre semana hay calma durante todo el horario indicado, de 7am a 7pm. El fin de semana, evite la franja de 11am a 5pm, cuando se concentran los recorridos en taxi. Lo mejor es acudir antes de las 11am o a última hora de la tarde.
+    a: Entre semana hay más calma de 7am a 9am y de 6pm a 7pm, y más afluencia de 12pm a 1pm. El fin de semana, evite la franja de 11am a 5pm, cuando se concentran los recorridos en taxi. Lo mejor es acudir antes de las 11am o a última hora de la tarde.
   - q: ¿Cómo se llega al Muro de la Paz desde el centro de Belfast?
     a: A pie se tarda unos 20–25 minutos desde el Ayuntamiento (City Hall), ya sea por Falls Road o subiendo por Shankill Road. También puede tomar el autobús Glider G1, que avanza hacia el oeste por Falls Road, y caminar después hacia el norte hasta el número 15 de Cupar Way. La mayoría de los visitantes llega con un recorrido político en taxi negro.
   - q: ¿Se puede escribir en el Muro de la Paz?
@@ -53,7 +53,7 @@ La mayoría de los visitantes llega con un recorrido político en taxi negro. Un
 
 ## Mañanas entre semana frente a la avalancha de taxis del fin de semana
 
-La afluencia de público depende del horario de los recorridos. Entre semana, el muro permanece tranquilo durante todo su horario, de 7am a 7pm, y a menudo es posible disfrutar de largos tramos casi en solitario.
+La afluencia de público depende del horario de los recorridos. Entre semana, el muro está más tranquilo de 7am a 9am y de 6pm a 7pm, y más concurrido de 12pm a 1pm; a menudo es posible disfrutar de largos tramos casi en solitario.
 
 El fin de semana la situación cambia. Procure no llegar entre las 11am y las 5pm del sábado o del domingo: a esas horas los taxis negros aparcan en caravana y los grupos se agolpan ante los paneles más fotografiados. Si solo puede ir en fin de semana, acuda antes de las 11am o en las dos últimas horas antes de las 7pm.
 

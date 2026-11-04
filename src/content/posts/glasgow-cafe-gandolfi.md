@@ -56,16 +56,16 @@ place:
 tags:
   - "glasgow"
   - "trendy cafe"
-quickAnswer: "Cafe Gandolfi is a well-known bistro at 64 Albion Street in Glasgow's Merchant City. It serves breakfast through to late dinner Tuesday to Saturday and closes at 4pm on Mondays and Sundays. On weekends, the quietest time to arrive is 4pm–5pm on a Saturday, and it pays to avoid 2pm–10pm."
+quickAnswer: "Cafe Gandolfi is a well-known bistro at 64 Albion Street in Glasgow's Merchant City. It serves breakfast through to late dinner Tuesday to Saturday and closes at 4pm on Mondays and Sundays. On weekends, the forecast flags no standout quiet hour, and it pays to avoid 2pm–10pm."
 faq:
   - q: "When is the quietest time to visit Cafe Gandolfi?"
-    a: "On weekends the quietest window is 4pm–5pm, which in practice means Saturday, since it closes at 4pm on Sundays. Avoid weekends from 2pm to 10pm, when it's busiest. Weekday breakfasts from 8am also tend to be calm."
+    a: "On weekends the forecast flags no standout quiet hour, and it closes at 4pm on Sundays. Avoid weekends from 2pm to 10pm, when it's busiest. Weekday breakfasts from 8am tend to be calm."
   - q: "Is Cafe Gandolfi open for dinner every night?"
     a: "No. It's open until 11pm Tuesday to Saturday. On Mondays it closes at 4pm (opening at 8am), and on Sundays it opens 9am–4pm, so there's no dinner on those two days."
   - q: "How do I get to Cafe Gandolfi?"
     a: "It's at 64 Albion Street in the Merchant City. Argyle Street station is a few minutes' walk away, and Glasgow Queen Street is about 10 minutes away via George Square."
   - q: "Do I need to book?"
-    a: "For Friday or Saturday dinner and weekend lunch, yes. Breakfast and the Saturday 4pm–5pm gap are your best chances as a walk-in."
+    a: "For Friday or Saturday dinner and weekend lunch, yes. Breakfast is your best chance as a walk-in."
   - q: "What's nearby?"
     a: "The Tron Theatre, the Gallery of Modern Art and George Square with the City Chambers are all a short walk across the Merchant City."
 aiGenerated: true
@@ -97,7 +97,7 @@ The hours shape the visit more than anything else does:
 
 That means no evening meal on Sundays or Mondays. Weekend crowds are the other thing to plan around. Try not to turn up between 2pm and 10pm on a weekend, because that's when the room is fullest and walk-ins wait longest.
 
-On a Saturday the quietest window is 4pm–5pm. It falls between the lunch and dinner sittings, and it's the easiest time to get a table without planning ahead. Sunday closes at 4pm, so that gap doesn't exist on Sundays. Go earlier, or pick a Saturday.
+On a Saturday the forecast flags no standout quiet hour, so arriving in the morning, well before the 2pm busy stretch, is the easiest way to get a table without planning ahead. Sunday is busiest from 2pm until the 4pm close, so go earlier on Sundays too.
 
 A weekday breakfast from 8am is the calmest way to see the Stead furniture properly, before the lunch trade from nearby offices arrives. For lunch or a coffee, plan on an hour. For dinner with drinks, allow closer to two.
 
@@ -105,7 +105,7 @@ A weekday breakfast from 8am is the calmest way to see the Stead furniture prope
 
 This is a long-established Glasgow name, not a secret, so treat it like a busy restaurant:
 
-- **Book ahead** for Friday or Saturday dinner and for weekend lunch. Walking in works best at breakfast or in that Saturday 4pm–5pm gap.
+- **Book ahead** for Friday or Saturday dinner and for weekend lunch. Walking in works best at breakfast.
 - **Pay by card.** It's normal across Glasgow, and contactless is the default.
 - **Tipping:** around 10% is customary for table service in the UK. Check the bill first, because some places add a service charge and you shouldn't pay it twice.
 - **The full bar** means you don't have to order food. A drink at a Stead table before a show at the Tron is a fair use of the room.

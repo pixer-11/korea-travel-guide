@@ -53,12 +53,12 @@ place:
 tags:
   - venice
   - historic site
-quickAnswer: Saint Mark's Basilica, on the eastern side of Piazza San Marco, is Venice's great Byzantine cathedral — five domes, a facade of looted marble and bronze, and an interior sheathed in gold mosaic. Go right at opening or in the early afternoon; crowds build steadily from midday and peak between 12pm and 3pm on weekends. Basic entry to the church is free, but you'll want to budget extra time and a small fee for the Loggia dei Cavalli, the Pala d'Oro, and the Treasury.
+quickAnswer: Saint Mark's Basilica, on the eastern side of Piazza San Marco, is Venice's great Byzantine cathedral — five domes, a facade of looted marble and bronze, and an interior sheathed in gold mosaic. Go right at opening (Monday to Saturday) or from 4pm to 5pm, the calmest hour; crowds build steadily from midday and peak between 12pm and 3pm (2pm–3pm on Sundays). Basic entry to the church is free, but you'll want to budget extra time and a small fee for the Loggia dei Cavalli, the Pala d'Oro, and the Treasury.
 faq:
   - q: Do I need to pay to enter Saint Mark's Basilica?
     a: The main church is free to enter, but the Pala d'Oro (golden altar screen), the Treasury, and the Museo di San Marco with access to the Loggia dei Cavalli each carry a small separate fee.
   - q: When is the quietest time to visit?
-    a: Foot-traffic data shows the calm window runs 9:30am–5:15pm on weekdays and Saturdays (and 2pm–5:15pm on Sundays, when the basilica opens later); the one stretch to avoid is 12pm–3pm on weekends, when the piazza fills with tour groups.
+    a: Foot-traffic forecasts show the calmest window is 4pm–5pm every day (the basilica opens only at 2pm on Sundays); the stretch to avoid is 12pm–3pm on weekdays and Saturdays, and 2pm–3pm on Sundays, when the piazza fills with tour groups.
   - q: How do I get to the basilica without a metro?
     a: Venice has no metro — take vaporetto lines 1 or 2 to San Marco-Vallaresso or San Zaccaria, both a short walk away, or walk about 15-20 minutes from the Rialto Bridge through the Mercerie.
   - q: How long should I plan to spend inside?
@@ -89,9 +89,9 @@ Third, the Treasury, holding Byzantine reliquaries and silver that Venetian crus
 
 ## When to go
 
-The basilica opens the church to sightseers only after morning Mass, and closes earlier than you'd expect for a major landmark, so treat any visit as a mid-morning-to-late-afternoon plan rather than a first or last stop of the day (check the current hours on the basilica's own site before you go, since they shift with the liturgical calendar. Typical foot-traffic shows the calmest window runs 9:30am to 5:15pm on weekdays and Saturdays, and from 2pm to 5:15pm on Sundays) in other words, the whole open period is relatively even, but the one stretch to actively avoid is 12pm–3pm on weekends, when tour groups converge on the square between lunch and mid-afternoon.
+The basilica opens the church to sightseers only after morning Mass, and closes earlier than you'd expect for a major landmark, so treat any visit as a mid-morning-to-late-afternoon plan rather than a first or last stop of the day (check the current hours on the basilica's own site before you go, since they shift with the liturgical calendar. Typical foot-traffic shows the calmest window runs 4pm to 5pm on weekdays and Saturdays, and on Sundays too) in other words, late afternoon is your best bet, and the stretch to actively avoid is 12pm–3pm on weekdays and Saturdays (2pm–3pm on Sundays), when tour groups converge on the square between lunch and mid-afternoon.
 
-Aim for the first hour after opening if you want the mosaics without a wall of shoulders in front of you.
+Aim for the first hour after opening (Monday to Saturday) if you want the mosaics without a wall of shoulders in front of you.
 
 ## How to visit like a local
 

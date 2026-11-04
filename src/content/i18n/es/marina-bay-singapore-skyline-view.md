@@ -1,17 +1,17 @@
 ---
 lang: es
 slug: marina-bay-singapore-skyline-view
-srcHash: 'c82003dcfab2'
+srcHash: '5d3f682cc895'
 title: 'Singapore Skyline View: guía de viaje de Marina Bay (4.8★)'
 description: Singapore Skyline View es un mirador gratuito junto al agua, abierto las 24 horas, situado en 10 Bayfront Ave, en la orilla de Marina Bay donde se alza Marina Bay Sands. Tiene una valoración de 4.8★ (379 reseñas). Aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
-quickAnswer: En 10 Bayfront Ave, en la orilla de Marina Bay donde se alza Marina Bay Sands, se encuentra Singapore Skyline View, un mirador gratuito junto al agua que permanece abierto las 24 horas. Desde allí se contemplan de frente, al otro lado de la bahía, los rascacielos del distrito financiero (Central Business District), el hotel Fullerton y el Merlion. Si busca tranquilidad, vaya los fines de semana por la mañana. Evite en cambio la franja de 4pm–11pm del sábado y el domingo, cuando el lugar se llena.
+quickAnswer: En 10 Bayfront Ave, en la orilla de Marina Bay donde se alza Marina Bay Sands, se encuentra Singapore Skyline View, un mirador gratuito junto al agua que permanece abierto las 24 horas. Desde allí se contemplan de frente, al otro lado de la bahía, los rascacielos del distrito financiero (Central Business District), el hotel Fullerton y el Merlion. Si busca tranquilidad, vaya los fines de semana por la mañana. Evite en cambio las franjas de 4pm–5pm y 8pm–11pm del sábado y el domingo, cuando el lugar se llena.
 faq:
   - q: ¿Cómo se llega a Singapore Skyline View?
     a: En metro (MRT), hasta la estación Bayfront, que da servicio a las líneas Circle y Downtown. Una vez allí, siga las indicaciones hacia The Shoppes at Marina Bay Sands y salga por el lado que da al agua para llegar al paseo, en 10 Bayfront Ave. También puede ir a pie desde Marina Centre cruzando el puente Helix (Helix Bridge).
   - q: ¿Cuál es el momento más tranquilo para ir?
-    a: No hay datos de afluencia entre semana. Para el fin de semana, la franja más tranquila que figura es la de 7am–8am y las de mayor afluencia, las de 4pm–5pm y 8pm–11pm, así que lo más seguro es ir por la mañana. Si quiere sitio junto a la barandilla, no vaya al atardecer del sábado o del domingo.
+    a: No hay datos de afluencia entre semana. Para el fin de semana, la franja más tranquila que figura es la de 7am–8am y las de mayor afluencia, las de 4pm–5pm y 8pm–11pm, así que lo más seguro es ir por la mañana. Si quiere sitio junto a la barandilla, no vaya el sábado o el domingo por la noche.
   - q: ¿Se puede visitar de noche?
-    a: Sí, porque abre todos los días las 24 horas. Así, puede acercarse tarde para ver el perfil iluminado de la ciudad cuando ya haya pasado la aglomeración de fin de semana de 4pm–11pm.
+    a: Sí, porque abre todos los días las 24 horas. Así, puede acercarse tarde para ver el perfil iluminado de la ciudad cuando ya haya pasado la aglomeración de fin de semana de 8pm–11pm.
   - q: ¿Cuánto tiempo conviene dedicarle?
     a: Para disfrutar de la vista y hacer fotos bastan veinte minutos. Si piensa esperar a la puesta de sol, a que se enciendan las luces o al espectáculo Spectra, calcule alrededor de una hora. Los horarios actualizados del espectáculo pueden consultarse en la web oficial de Marina Bay Sands.
   - q: ¿Qué más hay cerca?
@@ -32,9 +32,9 @@ Si viene desde Marina Centre, puede cruzar el puente Helix (Helix Bridge), cuya 
 
 ## Cuándo ir
 
-No existen datos de afluencia entre semana para este lugar, pero las cifras del fin de semana no dejan lugar a dudas. Los sábados y domingos, el tramo de mayor concurrencia va de 4pm–11pm. Es entonces cuando la orilla se llena de gente que acude a ver la puesta de sol o el espectáculo de luces de la noche.
+No existen datos de afluencia entre semana para este lugar, pero las cifras del fin de semana no dejan lugar a dudas. Los sábados y domingos, los tramos de mayor concurrencia van de 4pm–5pm y de 8pm–11pm. Es entonces cuando la orilla se llena de gente que acude a ver la puesta de sol o el espectáculo de luces de la noche.
 
-Como franja más tranquila del fin de semana figura la de 7am–8am. Dado que coincide en parte con la hora punta de la tarde, lo prudente es entenderla como una recomendación para la mañana. Si llega después de las 7am, tendrá la barandilla prácticamente para usted y verá cómo una luz suave baña los rascacielos de enfrente.
+Como franja más tranquila del fin de semana figura la de 7am–8am, así que lo prudente es ir por la mañana. Si llega entre las 7am y las 8am, tendrá la barandilla prácticamente para usted y verá cómo una luz suave baña los rascacielos de enfrente.
 
 La estampa clásica, sin embargo, es la nocturna, con las torres de oficinas iluminadas sobre el agua negra. Para disfrutar de ella sin multitudes, acérquese tarde, cuando ya se haya disipado la afluencia del fin de semana que se prolonga hasta las 11pm.
 

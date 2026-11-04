@@ -70,7 +70,7 @@ faq:
   - q: What direction do the escalators run?
     a: Downhill from about 6–10am for the morning commute, then uphill from roughly 10:20am until midnight.
   - q: When is the quietest time to visit?
-    a: Both weekdays and weekends are calmest from around 7am to 11pm; avoid weekends between 10am and 8pm, when crowds peak at entrances and photo spots.
+    a: Weekdays are calmest from around 7am to 8am and 9pm to 11pm, weekends from 7am to 9am and 10pm to 11pm; avoid weekends between 10am and 8pm, when crowds peak at entrances and photo spots.
   - q: How long does the full ride take?
     a: About 20 minutes end to end without stopping, but plan an hour or two if you want to explore Soho, Man Mo Temple, or Central Market along the way.
   - q: What's nearby worth stopping for?
@@ -110,7 +110,7 @@ Each escalator section is short, so you can hop off at any landing to explore be
 
 The escalators run 6am to midnight daily, but direction changes through the day, running downhill in the morning for the commute into Central before switching to uphill for the rest of the day and evening.
 
-Weekends between 10am and 8pm are the busiest stretch, with visitors bunching up at photo spots and entrances. Outside that window, both weekdays and weekends stay noticeably calmer.
+Weekends between 10am and 8pm are the busiest stretch, with visitors bunching up at photo spots and entrances. Outside that window and the weekday 11am to 3pm peak, both weekdays and weekends stay noticeably calmer.
 
 If you want the system closer to empty, ride early morning or after dinner, when the neon signs above Wing Wah Lane are lit but the crowds have thinned.
 
@@ -118,7 +118,7 @@ If you want the system closer to empty, ride early morning or after dinner, when
 
 Locals don't "visit" the escalators, they use them to get to work, and that's the mindset to borrow. Stand to the right if you're not walking, let people pass on the left, same etiquette as any escalator in the city.
 
-There's no fare and no ticket gate; you simply step on. Because it's a working commuter route, avoid blocking entrances for photos during the morning downhill rush before 10am.
+There's no fare and no ticket gate; you simply step on. Because it's a working commuter route, avoid blocking entrances for photos during the morning downhill commute before 10am.
 
 The biggest visitor mistake is riding it once, top to bottom, and calling it done. Locals treat it as a spine connecting neighbourhoods, get off at Hollywood Road for the antique shops, or at Elgin Street for a coffee, then rejoin further up.
 

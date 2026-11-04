@@ -1,10 +1,10 @@
 ---
 lang: es
 slug: kyoto-kyoto-national-museum
-srcHash: 'eabb6d1fb4f9'
+srcHash: '185f8624ad13'
 title: 'Museo Nacional de Kioto: guía de viaje (4,3★)'
 description: 'El Museo Nacional de Kioto se encuentra en el distrito de Higashiyama, a poca distancia a pie de Sanjusangendo y del santuario Toyokuni, y reúne una de las grandes colecciones de escultura budista, caligrafía y metalistería de Japón. 4,3★ (8.304 reseñas): qué dicen los visitantes, horarios y consejos.'
-quickAnswer: El Museo Nacional de Kioto se encuentra en el distrito de Higashiyama, a poca distancia a pie de Sanjusangendo y del santuario Toyokuni, y reúne una de las grandes colecciones de escultura budista, caligrafía y metalistería de Japón. Cierra los lunes, abre hasta las 20:00 los viernes y registra su mayor afluencia los fines de semana entre las 10:00 y las 17:00, así que un viernes por la tarde-noche o un día laborable entre las 17:00 y las 18:00 son las mejores opciones para visitarlo con tranquilidad. Conviene reservar entre dos y tres horas si se quiere ver tanto las galerías permanentes como alguna exposición especial.
+quickAnswer: El Museo Nacional de Kioto se encuentra en el distrito de Higashiyama, a poca distancia a pie de Sanjusangendo y del santuario Toyokuni, y reúne una de las grandes colecciones de escultura budista, caligrafía y metalistería de Japón. Cierra los lunes, abre hasta las 20:00 los viernes y registra su mayor afluencia los fines de semana entre las 10:00 y las 17:00, así que un viernes por la tarde-noche, entre las 17:00 y las 18:00, es la mejor opción para visitarlo con tranquilidad. Conviene reservar entre dos y tres horas si se quiere ver tanto las galerías permanentes como alguna exposición especial.
 faq:
   - q: ¿Cuál es el horario del Museo Nacional de Kioto?
     a: Abre de martes a domingo de 9:30 a 17:00, salvo los viernes, que permanece abierto hasta las 20:00. Los lunes cierra todo el día.

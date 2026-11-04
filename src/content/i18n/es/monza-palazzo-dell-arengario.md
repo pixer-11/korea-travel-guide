@@ -1,17 +1,17 @@
 ---
 lang: es
 slug: monza-palazzo-dell-arengario
-srcHash: 'f5824d1cfc88'
+srcHash: 'e7f0f27c0fe7'
 title: 'Palazzo dell''Arengario: Guía de viaje de Monza (4,4★)'
 description: 'El Palazzo dell''Arengario es el antiguo ayuntamiento medieval de Monza, situado en Piazza Roma, justo donde Via Italia desemboca en el centro histórico. 4,4★ (3.130 reseñas): lo que dicen los visitantes, horarios y consejos.'
-quickAnswer: El Palazzo dell'Arengario es el antiguo ayuntamiento medieval de Monza, situado en Piazza Roma, justo donde Via Italia desemboca en el centro histórico. Abre de martes a sábado (10.00-13.00 y 14.00-19.00) y los domingos de 10.00 a 20.00, y cierra los lunes; los fines de semana, el tramo de 13.00 a 20.00 es más tranquilo que la afluencia de las 11.00. Calcule entre 30 y 45 minutos, y combine la visita con un paseo por las calles medievales que lo rodean, ya que el propio edificio es la principal atracción.
+quickAnswer: El Palazzo dell'Arengario es el antiguo ayuntamiento medieval de Monza, situado en Piazza Roma, justo donde Via Italia desemboca en el centro histórico. Abre de martes a sábado (10.00-13.00 y 14.00-19.00) y los domingos de 10.00 a 20.00, y cierra los lunes; los fines de semana hay mucha afluencia desde las 11.00 hasta el cierre y la previsión no marca ninguna franja tranquila, así que conviene llegar a la apertura de las 10.00. Calcule entre 30 y 45 minutos, y combine la visita con un paseo por las calles medievales que lo rodean, ya que el propio edificio es la principal atracción.
 faq:
   - q: ¿Cuál es el horario del Palazzo dell'Arengario?
     a: De martes a sábado abre de 10.00 a 13.00 y de 14.00 a 19.00, con cierre al mediodía; los domingos el horario es continuo, de 10.00 a 20.00; los lunes permanece cerrado todo el día.
   - q: ¿Cuánto tiempo conviene reservar para la visita?
     a: La mayoría de los visitantes necesita entre 30 y 45 minutos, ya que el atractivo principal es la arquitectura de ladrillo medieval y la logia, más que una colección extensa en el interior.
   - q: ¿Cuál es el mejor momento para evitar las aglomeraciones?
-    a: Los fines de semana, el tramo más tranquilo va de 13.00 a 20.00; conviene evitar llegar entre las 11.00 y primera hora de la tarde, que es cuando hay más afluencia.
+    a: Los fines de semana, la previsión no marca ninguna franja tranquila y la mayor afluencia va desde las 11.00 hasta el cierre; conviene llegar a la apertura de las 10.00, antes de que se llene.
   - q: ¿Hay que pagar entrada?
     a: Depende de la exposición que esté en curso en cada momento; conviene consultar los detalles actualizados antes de la visita en lugar de dar por hecho que la entrada es gratuita.
   - q: ¿Qué más hay cerca?
@@ -46,9 +46,9 @@ Presentarse a las 13.30 un miércoles significa encontrar la puerta cerrada, as�
 
 ## Cómo organizar la visita frente a la afluencia del fin de semana
 
-Los fines de semana registran más tráfico peatonal que los días laborables, y la afluencia se adelanta. Si la visita es en sábado o domingo, conviene evitar llegar entre las 11.00 y primera hora de la tarde, cuando la plaza y las salas del palacio se llenan más rápido.
+Los fines de semana registran más tráfico peatonal que los días laborables, y la afluencia se adelanta. Si la visita es en sábado o domingo, conviene llegar antes de las 11.00, ya que a partir de esa hora la plaza y las salas del palacio se llenan rápido.
 
-La situación se relaja a partir de las 13.00 y se mantiene así hasta el cierre, a las 20.00, los fines de semana, lo que en domingo ofrece un margen largo y tranquilo para contemplar el edificio con calma en lugar de recorrerlo a empujones. Las mañanas de entre semana, justo a la apertura de las 10.00, también suelen ser una opción segura, antes de que lleguen los grupos que recorren el centro histórico.
+Los fines de semana la previsión no marca ninguna franja tranquila y la afluencia se mantiene desde las 11.00 hasta el cierre, así que en domingo la primera hora tras la apertura de las 10.00 es la mejor ocasión para contemplar el edificio con calma en lugar de recorrerlo a empujones. Las mañanas de entre semana, justo a la apertura de las 10.00, también suelen ser una opción segura, antes de que lleguen los grupos que recorren el centro histórico.
 
 ## La Piazza Roma, más que una parada para la foto
 

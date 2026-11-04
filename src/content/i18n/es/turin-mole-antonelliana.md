@@ -1,15 +1,15 @@
 ---
 lang: es
 slug: turin-mole-antonelliana
-srcHash: '4b033b44b7f2'
+srcHash: '2a29eae38d96'
 title: 'Mole Antonelliana: guía de viaje de Turín'
 description: La Mole Antonelliana es el imponente monumento decimonónico de Turín en Via Montebello, sede del Museo Nacional del Cine y de un ascensor de cristal que sube hasta una terraza panorámica a 85 metros de altura, mientras que la aguja completa alcanza los 121 metros.
-quickAnswer: 'La Mole Antonelliana es el imponente monumento decimonónico de Turín en Via Montebello, sede del Museo Nacional del Cine y de un ascensor de cristal que sube hasta una terraza panorámica a 85 metros de altura, mientras que la aguja completa alcanza los 121 metros. Es un lugar muy concurrido, así que conviene ir un día entre semana en cualquier momento entre las 9:00 y las 19:00, o el fin de semana justo a la apertura, a las 9:00, para evitar lo peor de las aglomeraciones; los fines de semana, la franja de 11:00 a 19:00 es la más concurrida. Calcula medio día: unos 45 minutos para el ascensor y las vistas, más si te detienes en el museo del cine de abajo.'
+quickAnswer: 'La Mole Antonelliana es el imponente monumento decimonónico de Turín en Via Montebello, sede del Museo Nacional del Cine y de un ascensor de cristal que sube hasta una terraza panorámica a 85 metros de altura, mientras que la aguja completa alcanza los 121 metros. Es un lugar muy concurrido, así que conviene ir un día entre semana (cierra los martes) entre las 9:00 y las 10:00, o el fin de semana justo a la apertura, a las 9:00, para evitar lo peor de las aglomeraciones; los fines de semana, la franja de 11:00 a 19:00 es la más concurrida. Calcula medio día: unos 45 minutos para el ascensor y las vistas, más si te detienes en el museo del cine de abajo.'
 faq:
   - q: ¿Cómo se llega a la Mole Antonelliana?
     a: Se encuentra en Via Montebello, en pleno centro de Turín, a un fácil paseo de 5 a 10 minutos desde la Piazza Castello. La estación de metro más cercana es la Línea 1, bajándose en Vinzaglio o en Porta Nuova, seguido de un breve paseo por las calles porticadas de la ciudad.
   - q: ¿Cuál es el momento más tranquilo para visitarla?
-    a: Entre semana el ambiente es tranquilo en cualquier momento entre las 9:00 y las 19:00. Los fines de semana, conviene evitar la franja de 11:00 a 19:00, que es la más concurrida, y en su lugar apuntar a justo la apertura, a las 9:00, cuando hay notablemente menos gente.
+    a: Entre semana, la franja más tranquila va de 9:00 a 10:00. Los fines de semana, la previsión no marca ninguna franja tranquila, así que conviene evitar la franja de 11:00 a 19:00, que es la más concurrida, y en su lugar apuntar a justo la apertura, a las 9:00, antes de que se acumule la gente.
   - q: ¿Cuánto tiempo conviene dedicarle?
     a: 'Calcula unos 45 minutos a una hora en total: un breve trayecto en el ascensor panorámico más el rato en la terraza, y algo más si además se recorren las salas del Museo Nacional del Cine alrededor del salón central.'
   - q: ¿Vale la pena reservar entradas con antelación?
@@ -44,9 +44,9 @@ La mayoría de los visitantes lo incluyen en una mañana o una tarde que tambié
 
 ## Cuándo ir
 
-Dado lo popular que se ha vuelto este monumento, el horario importa más aquí que en la mayoría de los lugares de la ciudad. Entre semana el ambiente es tranquilo durante todo el horario, desde la apertura hasta las 19:00, así que una visita un lunes o miércoles por la mañana permite subir en ascensor sin una espera larga. Los fines de semana la cosa cambia por completo: la mayor afluencia se da entre las 11:00 y las 19:00, con la fila para el ticket del ascensor extendiéndose bastante dentro del vestíbulo del museo.
+Dado lo popular que se ha vuelto este monumento, el horario importa más aquí que en la mayoría de los lugares de la ciudad. Entre semana, la franja más tranquila es justo la apertura, de 9:00 a 10:00, así que una visita un lunes o miércoles por la mañana permite subir en ascensor sin una espera larga. Los fines de semana la cosa cambia por completo: la mayor afluencia se da entre las 11:00 y las 19:00, con la fila para el ticket del ascensor extendiéndose bastante dentro del vestíbulo del museo.
 
-Si el fin de semana es la única opción posible, la franja justo a la apertura, a las 9:00, es notablemente más tranquila y permite adelantarse a las multitudes antes de que se acumulen a lo largo del día.
+Si el fin de semana es la única opción posible, la previsión no marca ninguna franja tranquila, pero llegar justo a la apertura, a las 9:00, permite adelantarse a las multitudes antes de que se acumulen a lo largo del día.
 
 ## Cómo visitarlo como un local
 

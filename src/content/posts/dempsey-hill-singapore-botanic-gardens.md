@@ -63,7 +63,7 @@ faq:
   - q: How much time should I budget for the gardens?
     a: Two to three hours covers the main lawns, Swan Lake, and the National Orchid Garden at an easy pace. Plant enthusiasts often spend half a day.
   - q: When is the quietest time to visit?
-    a: Weekdays and weekends are both calmest between 7am and 11pm; try to avoid 9am to 8pm on weekends, when crowds peak.
+    a: Weekdays and weekends are both calmest between 7am and 8am and between 9pm and 11pm; try to avoid 9am to 8pm on weekends, when crowds peak.
   - q: How do I get there by public transport?
     a: Take the Circle Line MRT to Botanic Gardens station and exit via Exit B, which puts you right at the Tanglin Gate entrance.
   - q: Is entry free?
@@ -98,9 +98,9 @@ If you're coming from Dempsey Hill itself, it's a flat 10-minute walk down Napie
 
 ## When to go
 
-The gardens are open daily from 5am to midnight, which is unusually generous for a park this size. Crowd patterns show it stays calm most days between 7am and 11pm, but weekends fill up fast between 9am and 8pm.
+The gardens are open daily from 5am to midnight, which is unusually generous for a park this size. Crowd patterns show it is calmest between 7am and 8am and between 9pm and 11pm, but weekends fill up fast between 9am and 8pm.
 
-If you want the lawns and lake paths to yourself, aim for a weekday morning or get there right at 7am on a weekend. Midday sun is intense and shade is patchy in the open lawn areas, so early morning or after 4pm is kinder to walk in.
+If you want the lawns and lake paths to yourself, aim for a weekday morning around 7am or get there right at 7am on a weekend. Midday sun is intense and shade is patchy in the open lawn areas, so early morning or after 4pm is kinder to walk in.
 
 ## What to eat and where to rest
 

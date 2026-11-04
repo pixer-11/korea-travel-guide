@@ -1,17 +1,17 @@
 ---
 lang: es
 slug: san-diego-mormon-battalion-historic-site
-srcHash: 'b6b41701fef8'
+srcHash: '198ad6f5e90f'
 title: 'Sitio Histórico del Batallón Mormón: Guía de Viaje de San Diego'
 description: 'El Sitio Histórico del Batallón Mormón se encuentra en Juan St, en el barrio de Old Town de San Diego, justo en la zona peatonal del distrito histórico, y la entrada es gratuita. 4.9★ (2,907 reseñas): lo que dicen los visitantes, horarios y consejos.'
-quickAnswer: El Sitio Histórico del Batallón Mormón se encuentra en Juan St, en el barrio de Old Town de San Diego, justo en la zona peatonal del distrito histórico, y la entrada es gratuita. Abre todos los días excepto los martes y domingos por la mañana, y el momento más tranquilo para visitarlo es entre las 10:00 y las 13:00 los fines de semana, antes de que llegue la avalancha de familias por la tarde. Conviene reservar alrededor de una hora, ya que la visita se desarrolla como un recorrido guiado, escena por escena, y no como un museo de ritmo libre.
+quickAnswer: El Sitio Histórico del Batallón Mormón se encuentra en Juan St, en el barrio de Old Town de San Diego, justo en la zona peatonal del distrito histórico, y la entrada es gratuita. Abre todos los días excepto los martes y domingos por la mañana, y el momento más tranquilo para visitarlo es entre las 10:00 y las 11:00 los sábados, antes de que llegue la avalancha de familias. Conviene reservar alrededor de una hora, ya que la visita se desarrolla como un recorrido guiado, escena por escena, y no como un museo de ritmo libre.
 faq:
   - q: ¿Cuánto cuesta visitar el Sitio Histórico del Batallón Mormón?
     a: La entrada es gratuita. El sitio funciona con donativos y no hay taquilla.
   - q: ¿Cuánto tiempo debo reservar para la visita?
     a: La mayoría de los recorridos guiados duran entre 45 minutos y una hora, según cuántas preguntas se hagan durante el trayecto.
   - q: ¿Cuál es el momento más tranquilo para visitarlo?
-    a: Los fines de semana, el tramo de 10:00 a 13:00 es el más tranquilo; la afluencia aumenta de forma constante a partir de las 11:00 y se mantiene alta hasta el cierre, a las 19:00.
+    a: Los sábados, el tramo de 10:00 a 11:00 es el más tranquilo; la afluencia aumenta de forma constante a partir de las 11:00 y se mantiene alta hasta el cierre, a las 19:00.
   - q: ¿Cuáles son los horarios de apertura?
     a: De lunes a sábado, excepto martes, abre de 10:00 a 19:00. Los martes y domingos no abre hasta la 1:00 de la tarde, y cierra también a las 19:00.
   - q: ¿Es fácil combinarlo con otros atractivos de Old Town?
@@ -48,7 +48,7 @@ Si organiza una mañana en Old Town y llega aquí un martes, se encontrará con 
 
 ## Cómo evitar las aglomeraciones del fin de semana
 
-Los fines de semana, la afluencia es alta desde las 11:00 hasta el cierre a las 19:00, en buena medida por las familias que incluyen el sitio en un día completo de actividades en Old Town. El tramo más tranquilo es de 10:00 a 13:00 los fines de semana, antes de que se acumule esa ola de visitantes por la tarde.
+Los fines de semana, la afluencia es alta desde las 11:00 hasta el cierre a las 19:00, en buena medida por las familias que incluyen el sitio en un día completo de actividades en Old Town. El tramo más tranquilo es de 10:00 a 11:00 los sábados, antes de que se acumule esa ola de visitantes.
 
 Si su agenda permite ir entre semana, por lo general encontrará grupos más pequeños y más tiempo a solas con el guía, ya que los recorridos suelen compartirse con quien haya entrado justo antes.
 
@@ -68,4 +68,4 @@ Si desea una versión más breve o, por el contrario, más detallada, basta con 
 
 Como el sitio se encuentra justo en el borde del Old Town San Diego State Historic Park, resulta fácil integrarlo como una parada más dentro de un paseo más largo, en lugar de tratarlo como un destino aparte. La mayoría de los visitantes pasa aquí menos de una hora y luego continúa hacia los edificios de adobe, las tiendas y los restaurantes del parque, a pocos minutos a pie.
 
-Gracias a la entrada gratuita y a su corta duración, funciona bien como pausa de media jornada, sobre todo si se programa dentro de esa franja de 10:00 a 13:00 los fines de semana, antes de que la multitud de la tarde se instale tanto en el sitio histórico como en el parque que lo rodea.
+Gracias a la entrada gratuita y a su corta duración, funciona bien como pausa a media mañana, sobre todo si se programa dentro de esa franja de 10:00 a 11:00 los sábados, antes de que la multitud se instale tanto en el sitio histórico como en el parque que lo rodea.

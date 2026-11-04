@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: marseille-palais-longchamp
-srcHash: 'dc998cbe91bf'
+srcHash: 'f1d7abbc3fcb'
 title: 'Palais Longchamp: guía de viaje de Marsella (4,6★)'
 description: 'El Palais Longchamp es el monumento decimonónico más majestuoso de Marsella: un castillo de agua con columnata y una cascada central, flanqueado por el Museo de Bellas Artes y el Museo de Historia Natural de la ciudad, todo dentro de un frondoso parque público del distrito 4. 4,6★ (20.513 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'El Palais Longchamp es el monumento decimonónico más majestuoso de Marsella: un castillo de agua con columnata y una cascada central rugiente, flanqueado por el Museo de Bellas Artes y el Museo de Historia Natural de la ciudad, todo dentro de un frondoso parque público del distrito 4. Recorrer los jardines y las fuentes es gratuito (los museos cobran una pequeña entrada), y se pueden ver los puntos destacados en menos de una hora o quedarse dos disfrutando de los jardines de alrededor. Conviene ir nada más abrir, hacia las 8h, antes de que la plaza se llene de familias y fotógrafos avanzada la jornada.'
@@ -11,7 +11,7 @@ faq:
   - q: ¿Cómo se llega al Palais Longchamp?
     a: Tomando la Línea 1 de metro hasta la estación Cinq Avenues Longchamp, que deja prácticamente en la puerta principal. También se puede llegar a pie desde el Vieux-Port en 15-20 minutos, subiendo por el Boulevard Longchamp.
   - q: ¿Cuál es el mejor momento para visitarlo y evitar las multitudes?
-    a: El tramo más tranquilo va de 8h a 19:30h, tanto entre semana como en fin de semana. Los fines de semana se llena entre las 10h y las 18h, así que conviene planear una visita matutina hacia las 8-9h si se buscan fotos sin gente.
+    a: El tramo más tranquilo va de 8h a 9h, tanto entre semana como en fin de semana. Los fines de semana se llena entre las 10h y las 18h, así que conviene planear una visita matutina hacia las 8-9h si se buscan fotos sin gente.
   - q: ¿Cuánto tiempo conviene reservar para la visita?
     a: Ver la fuente, la columnata y la plaza lleva entre 30 y 45 minutos. Hay que sumar entre 45 minutos y una hora por cada museo, además de tiempo extra si se quiere pasear por el parque situado detrás del palacio.
   - q: ¿Qué lugares cercanos merece la pena combinar con la visita?
@@ -46,7 +46,7 @@ Si se llega a pie desde la Canebière o el Puerto Viejo, el paseo merece la pena
 
 ## Cuándo ir
 
-Las multitudes se comportan de forma distinta entre semana y en fin de semana, pero conviene conocer el patrón en ambos casos: el tramo más tranquilo, tanto sábado y domingo como entre semana, va de las 8h a las 19:30h, mientras que las visitas de fin de semana se vuelven notablemente más concurridas entre las 10h y las 18h, cuando familias locales, fotógrafos de bodas y grupos turísticos coinciden a la vez en la plaza.
+Las multitudes se comportan de forma distinta entre semana y en fin de semana, pero conviene conocer el patrón en ambos casos: el tramo más tranquilo, tanto sábado y domingo como entre semana, va de las 8h a las 9h, mientras que las visitas de fin de semana se vuelven notablemente más concurridas entre las 10h y las 18h, cuando familias locales, fotógrafos de bodas y grupos turísticos coinciden a la vez en la plaza.
 
 Para tener los escalones de la fuente y la columnata solo para uno mismo y hacer fotos, conviene llegar hacia las 8h. Además, la luz es más suave a esa hora, incide de forma rasante sobre la piedra en lugar de reflejarse con fuerza sobre la piedra blanca al mediodía.
 

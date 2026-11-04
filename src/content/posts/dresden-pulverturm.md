@@ -60,7 +60,7 @@ tags:
 quickAnswer: Pulverturm is a sit-down restaurant at An der Frauenkirche 12 in Dresden-Altstadt, serving international dishes inside a centuries-old building a few steps from the Frauenkirche on Neumarkt. It is on the pricier side and very popular, so book ahead. Avoid weekends from 2pm to 10pm, the busiest stretch, and note it is closed on Wednesdays.
 faq:
   - q: When is the quietest time to visit Pulverturm?
-    a: 'We only have a crowd forecast for the busiest stretch: 2pm to 10pm on weekends. Try to avoid it. On Saturday and Sunday the restaurant opens at 11am, so a late-morning lunch arrives before that peak. Weekday lunch from noon on Monday, Tuesday or Thursday is another option outside it.'
+    a: 'The forecast flags no standout quiet hour; the busiest stretch is 2pm to 10pm on weekends (6pm to 9pm on weekdays). Try to avoid it. On Saturday and Sunday the restaurant opens at 11am, so a late-morning lunch arrives before that peak. Weekday lunch from noon on Monday, Tuesday or Thursday is another option outside it.'
   - q: Is Pulverturm open on Wednesdays?
     a: No. It is closed all day on Wednesday. It opens at noon on Monday, Tuesday and Thursday, and at 11am Friday to Sunday. It closes at midnight on Friday and Saturday and at 11pm on the other open days.
   - q: Do I need a reservation?

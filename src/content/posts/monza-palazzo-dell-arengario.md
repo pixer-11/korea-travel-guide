@@ -56,14 +56,14 @@ place:
 tags:
   - "monza"
   - "historic site"
-quickAnswer: "Palazzo dell'Arengario is Monza's medieval former town hall on Piazza Roma, right where Via Italia meets the historic centre. It's open Tuesday to Saturday (10am–1pm, 2–7pm) and Sunday 10am–8pm, closed Mondays; weekends stay calmer from 1pm to 8pm than the 11am rush. Budget 30–45 minutes, and pair it with a walk through the adjoining medieval streets since the building itself is the main attraction."
+quickAnswer: "Palazzo dell'Arengario is Monza's medieval former town hall on Piazza Roma, right where Via Italia meets the historic centre. It's open Tuesday to Saturday (10am–1pm, 2–7pm) and Sunday 10am–8pm, closed Mondays; weekends stay busy from 11am until closing, with no quiet hour in the forecast, so arrive at the 10am opening. Budget 30–45 minutes, and pair it with a walk through the adjoining medieval streets since the building itself is the main attraction."
 faq:
   - q: "What are the opening hours for Palazzo dell'Arengario?"
     a: "Tuesday to Saturday it's open 10am–1pm and 2–7pm with a midday closure; Sunday it runs straight through 10am–8pm; it's closed all day Monday."
   - q: "How long should I plan to spend there?"
     a: "Most visitors need 30–45 minutes, since the highlight is the medieval brick architecture and loggia rather than an extensive collection inside."
   - q: "When is the quietest time to visit?"
-    a: "On weekends the calmer window runs from 1pm to 8pm; try to avoid arriving between 11am and early afternoon, when it's busiest."
+    a: "On weekends the forecast flags no quiet hour, and it's busiest from 11am until closing; try to arrive at the 10am opening, before it builds."
   - q: "Is there an entrance fee?"
     a: "This depends on whatever exhibition is currently running inside; check current details before visiting rather than assuming free entry."
   - q: "What else is nearby?"
@@ -100,9 +100,9 @@ Turning up at 1:30pm on a Wednesday means a locked door, so aim for either a mid
 
 ## Timing your visit around the weekend crowds
 
-Weekends bring more foot traffic than weekdays, and it builds early. If you're visiting Saturday or Sunday, try to avoid arriving between 11am and early afternoon, when the piazza and the palazzo's rooms fill up fastest.
+Weekends bring more foot traffic than weekdays, and it builds early. If you're visiting Saturday or Sunday, try to arrive before 11am, after which the piazza and the palazzo's rooms fill up fast.
 
-Things ease off from 1pm through to closing at 8pm on weekends, which on a Sunday gives you a long, calmer stretch to actually look at the building rather than shuffle through it. Weekday mornings right at the 10am opening are usually a safe bet too, before tour groups doing the historic centre circuit arrive.
+The forecast flags no quiet hour on weekends and the busy stretch runs from 11am through to closing, so on a Sunday the hour after the 10am opening is your best chance to actually look at the building rather than shuffle through it. Weekday mornings right at the 10am opening are usually a safe bet too, before tour groups doing the historic centre circuit arrive.
 
 ## Piazza Roma as a pause, not just a photo stop
 

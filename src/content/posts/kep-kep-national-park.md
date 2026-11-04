@@ -54,8 +54,8 @@ quickAnswer: >-
   Kep National Park is a small, walkable coastal hill park in southern Cambodia,
   best known for its circular ridge trail, sea viewpoints, and a hilltop pagoda.
   Budget two to three hours for the full loop, wear real shoes, and bring your
-  own water. Weekends stay quieter from 1pm to 8pm — arrivals pick up between
-  9am and 11pm, so an early or late start avoids the crowds.
+  own water. Weekends are quietest from 7pm to 8pm — arrivals peak from 9am to 11am,
+  1pm to 2pm, 3pm to 7pm and 9pm to 11pm, so an early start or that 7pm to 8pm lull avoids the crowds.
 faq:
   - q: How long does it take to walk Kep National Park?
     a: >-
@@ -63,8 +63,8 @@ faq:
       pace. A shorter walk to the first viewpoint and back takes under an hour.
   - q: When is the quietest time to visit?
     a: >-
-      On weekends, the park is calmest between 1pm and 8pm. Arrivals pick up
-      from 9am and stay busy until around 11pm, so plan around that stretch if
+      On weekends, the park is calmest between 7pm and 8pm. Arrivals peak
+      from 9am to 11am, 1pm to 2pm, 3pm to 7pm and 9pm to 11pm, so plan around those stretches if
       you want the trail to yourself.
   - q: Do I need to book or pay an entrance fee?
     a: >-
@@ -109,9 +109,9 @@ The trail surface is packed dirt and root, shaded for long stretches but exposed
 
 ## When to go
 
-Early morning is the most comfortable time to walk, before the heat builds under the canopy. The crowd forecast backs this up: weekend visits stay lightest early in the morning, while the busiest stretch runs from mid-morning into the afternoon as day-trippers arrive.
+Early morning is the most comfortable time to walk, before the heat builds under the canopy. The crowd forecast adds a twist: on weekends visits are lightest from 7pm to 8pm, while the busiest stretches run from 9am to 11am, 1pm to 2pm, 3pm to 7pm and 9pm to 11pm.
 
-If you're coming on a weekend, aim for that quieter early window rather than mid-morning. On weekdays the park rarely feels crowded at all. It's still very much an under-the-radar stop compared to Kep's beach and crab market, so you're unlikely to be jostling for space on the trail regardless of when you go.
+If you're coming on a weekend, aim to start before 9am rather than mid-morning. On weekdays the park rarely feels crowded at all. It's still very much an under-the-radar stop compared to Kep's beach and crab market, so you're unlikely to be jostling for space on the trail regardless of when you go.
 
 Dry season, roughly November through April, gives you the clearest views and driest footing. Rainy months make the dirt trail slick and can close off the best lookout points in cloud.
 

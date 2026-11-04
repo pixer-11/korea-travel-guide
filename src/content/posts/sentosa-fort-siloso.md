@@ -88,7 +88,7 @@ The Fort Siloso Skywalk, a free elevated boardwalk, connects several viewpoints 
 
 ## When to go to skip the crowds
 
-Weekday visits any time between 9am and 6pm tend to stay quiet throughout, since Fort Siloso isn't the first stop most visitors make once they're inside Sentosa. On weekends, arrive right at opening: the 9am to 11am window is the calm stretch before things pick up.
+Weekday visits tend to stay quiet from 9am to 10am and from 5pm to 6pm, with 11am to noon the only busy hour, since Fort Siloso isn't the first stop most visitors make once they're inside Sentosa. On weekends, arrive right at opening: the 9am to 11am window is the calm stretch before things pick up.
 
 - Avoid weekend afternoons, especially 2pm to 6pm, when tour groups and families cluster around the Surrender Chambers and gun decks.
 - Weekday mornings work well if you're combining this with Sentosa's beaches later in the day.

@@ -56,10 +56,10 @@ place:
 tags:
   - "belfast"
   - "trendy cafe"
-quickAnswer: "Black Sheep Coffee on Ann Street sits in Belfast city centre, between Cornmarket and the Albert Memorial Clock. It's a budget-friendly coffee chain known for serving robusta when most specialty cafés pour only arabica. On weekends it's quietest from 7am to 9am, and it's best avoided from 11am to 6pm when the shopping crowds pile in."
+quickAnswer: "Black Sheep Coffee on Ann Street sits in Belfast city centre, between Cornmarket and the Albert Memorial Clock. It's a budget-friendly coffee chain known for serving robusta when most specialty cafés pour only arabica. On weekends it's quietest from 7am to 9am, and it's best avoided from 11am to 12pm and from 1pm to 6pm when the shopping crowds pile in."
 faq:
   - q: "When is the quietest time to visit Black Sheep Coffee on Ann Street?"
-    a: "On weekends it's calmest between 7am and 9am. Avoid 11am to 6pm, its busiest stretch, when the city-centre shoppers arrive. The forecast shows no quiet window for weekdays, but it opens early, at 6:45am."
+    a: "On weekends it's calmest between 7am and 9am. Avoid 11am to 12pm and 1pm to 6pm, its busiest stretches, when the city-centre shoppers arrive. The forecast shows no quiet window for weekdays, but it opens early, at 6:45am."
   - q: "What are the opening hours?"
     a: "6:45am to 7:30pm Monday to Friday, 7am to 7:30pm on Saturday and 7am to 7pm on Sunday."
   - q: "How do I get there from City Hall?"
@@ -87,7 +87,7 @@ Pottinger's Entry is the one to find. It's a covered passage with the Morning St
 
 The weekend opening hour is this branch's real advantage. Doors open at 7am on Saturday and Sunday, and the quietest stretch runs **7am to 9am**. That's when you get a free seat and a barista with time to talk you through the beans.
 
-From **11am to 6pm** on weekends the picture changes. Shoppers heading between Cornmarket, Castle Court and Victoria Square treat Ann Street as a through route, and the counter fills up for most of the afternoon. If you need a table to work or plan your day, don't arrive in that window.
+From **11am to 12pm** and **1pm to 6pm** on weekends the picture changes. Shoppers heading between Cornmarket, Castle Court and Victoria Square treat Ann Street as a through route, and the counter fills up for most of the afternoon. If you need a table to work or plan your day, don't arrive in those windows.
 
 On weekdays the café opens even earlier, at **6:45am**. That makes it one of the more useful early stops in the centre if you're catching a morning train or starting a walking tour.
 

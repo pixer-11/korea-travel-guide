@@ -65,8 +65,8 @@ tags:
 quickAnswer: >-
   Arulmigu Marundeeswarar Temple in Thiruvanmiyur, south Chennai, is a Shiva
   temple famous for its healing associations, open daily 5:30am–12pm and 4–9pm.
-  Weekends get busy across the whole 8am–9pm stretch, so a weekday morning right
-  at opening is the calmest way to see it. Set aside 45 minutes to an hour, more
+  Weekends get busy from 8am–12pm and 5–9pm, so a weekday morning right
+  at opening, well ahead of the weekday 5–9pm busy stretch, is the best way to beat the crowds. Set aside 45 minutes to an hour, more
   on a Monday evening when the crowd for Shiva worship swells.
 faq:
   - q: What are the opening hours of Arulmigu Marundeeswarar Temple?
@@ -76,8 +76,8 @@ faq:
       plan an arrival between 12pm and 4pm.
   - q: When is the quietest time to visit?
     a: >-
-      The forecast shows no quiet hours, but weekends stay busy the entire 8am
-      to 9pm stretch, so a weekday visit, ideally right near the 5:30am opening,
+      The forecast shows no quiet hours, but weekends stay busy from 8am to 12pm and
+      5pm to 9pm, so a weekday visit, ideally right near the 5:30am opening,
       is the best bet for a calmer visit. Avoid Monday evenings, which draw
       larger Shiva-worship crowds.
   - q: How do I get to the temple?
@@ -138,9 +138,9 @@ Major Shiva festival days, Pradosham (the twice-monthly evening observance tied 
 
 ## Timing your visit to dodge the weekend crush
 
-This is a genuinely well-visited temple, not an under-the-radar stop, and weekends show it. The forecast here shows that Saturdays and Sundays stay busy across the entire open period, roughly 8am to 9pm, without a real lull.
+This is a genuinely well-visited temple, not an under-the-radar stop, and weekends show it. The forecast here shows that Saturdays and Sundays stay busy from 8am to 12pm and again from 5pm to 9pm, with no standout quiet hour.
 
-Given that, a weekday visit beats a weekend one outright if your schedule allows it. Within a weekday, arriving close to the 5:30am opening or early in the 4pm evening reopening will still likely beat the mid-morning and early-evening peaks, simply because you're ahead of the after-work and after-errands crowd that builds through both open windows.
+Given that, a weekday visit beats a weekend one outright if your schedule allows it. Within a weekday, arriving close to the 5:30am opening or early in the 4pm evening reopening will still likely beat the 5pm to 9pm evening peak, simply because you're ahead of the after-work crowd that builds from 5pm.
 
 ## Praying, offering, and the practical bits
 

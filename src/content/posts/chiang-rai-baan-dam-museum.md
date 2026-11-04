@@ -54,7 +54,7 @@ faq:
   - q: How long should I spend at Baan Dam Museum?
     a: Plan on 1.5 to 2 hours to walk through the roughly 40 buildings at a comfortable pace; photographers may want longer.
   - q: When is the quietest time to visit?
-    a: Foot traffic data shows it's calmest between 9am and 5pm on both weekdays and weekends. On weekends specifically, avoid 1pm–4pm, when crowds peak.
+    a: The forecast shows it's calmest between 9am and 11am on both weekdays and weekends. On weekends specifically, avoid 1pm–4pm, when crowds peak.
   - q: How do I get to Baan Dam from Chiang Rai city?
     a: It's about a 20–25 minute drive north in Nang Lae. Most visitors go by rented scooter, car, or a hired driver/tour, often combined with the White Temple and Blue Temple.
   - q: Is Baan Dam Museum worth visiting alongside the White Temple?

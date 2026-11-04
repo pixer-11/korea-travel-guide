@@ -1,13 +1,13 @@
 ---
 lang: es
 slug: hue-an-dinh-palace
-srcHash: '6c1c2a8de94e'
+srcHash: '17479ef72d01'
 title: 'Palacio An Dinh: guía de viaje de Hue (4.5★)'
 description: El Palacio An Dinh se encuentra en el 179 de Phan Đình Phùng, en el barrio de Thuận Hóa, al sur del río de los Perfumes, en Hue. Con 4.5★ (3,254 reseñas), le contamos qué opinan los visitantes, cuál es el horario y qué conviene saber antes de ir.
 quickAnswer: En el 179 de Phan Đình Phùng, en el barrio de Thuận Hóa y al sur del río de los Perfumes, se levanta el Palacio An Dinh de Hue. A comienzos del siglo XX fue la residencia de los últimos emperadores de Vietnam. Hoy el visitante puede recorrer sus estancias de época restauradas y contemplar obras de arte. Abre todos los días de 7am a 5pm. Los fines de semana la afluencia alcanza su punto máximo entre las 8am–11am, así que conviene evitar esa franja.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Palacio An Dinh?
-    a: La previsión de afluencia solo recoge la franja de mayor concurrencia, que va de 8am a 11am los fines de semana, y no identifica ningún periodo especialmente tranquilo. Para esquivar las horas punta, lo mejor es ir entre semana o, si va en fin de semana, llegar justo a la apertura de las 7am o pasadas las 11am.
+    a: La previsión de afluencia solo señala una franja de mayor concurrencia, que va de 8am a 11am los fines de semana, y no identifica ningún periodo especialmente tranquilo. Para esquivar las horas punta, lo mejor es ir entre semana o, si va en fin de semana, llegar justo a la apertura de las 7am o pasadas las 11am.
   - q: ¿Cuál es el horario de apertura?
     a: Abre de 7am a 5pm todos los días de la semana y no cierra ningún día.
   - q: ¿Cuánto tiempo lleva la visita?

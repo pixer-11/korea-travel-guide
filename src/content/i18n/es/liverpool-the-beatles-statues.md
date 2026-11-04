@@ -1,15 +1,15 @@
 ---
 lang: es
 slug: liverpool-the-beatles-statues
-srcHash: '924d2f19d3d5'
+srcHash: '96733f7a149f'
 title: 'Las estatuas de los Beatles: guía de viaje de Liverpool (4.7★)'
 description: 'En Pier Head, junto al frente fluvial de Liverpool, se alzan las estatuas de los Beatles: cuatro bronces de Andy Edwards, algo mayores que el tamaño natural, inaugurados en 2015 con el Royal Liver Building como telón de fondo. Con 4.7★ (8,052 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y consejos útiles.'
-quickAnswer: 'En Pier Head, a orillas del frente fluvial de Liverpool, se alzan las estatuas de los Beatles: cuatro bronces de Andy Edwards, algo mayores que el tamaño natural, que se inauguraron en 2015 y tienen detrás el Royal Liver Building. Se encuentran al aire libre y pueden visitarse a cualquier hora. Entre semana, de 7am a 11pm, hay poca gente; conviene evitar, en cambio, los fines de semana de 10am a 7pm, cuando la cola para hacerse la foto alcanza su máxima longitud.'
+quickAnswer: 'En Pier Head, a orillas del frente fluvial de Liverpool, se alzan las estatuas de los Beatles: cuatro bronces de Andy Edwards, algo mayores que el tamaño natural, que se inauguraron en 2015 y tienen detrás el Royal Liver Building. Se encuentran al aire libre y pueden visitarse a cualquier hora. Entre semana, de 7am a 8am y de 9pm a 11pm, hay poca gente; conviene evitar, en cambio, los fines de semana de 10am a 7pm, cuando la cola para hacerse la foto alcanza su máxima longitud.'
 faq:
   - q: ¿Dónde se encuentran exactamente las estatuas de los Beatles en Liverpool?
     a: Están en Pier Head (Liverpool L3 1BY), en el paseo que bordea el río Mersey. Tienen delante el Royal Liver Building y quedan muy cerca de la terminal de Mersey Ferries y del Museo de Liverpool (Museum of Liverpool).
   - q: ¿Cuál es el momento más tranquilo para visitarlas?
-    a: Entre semana hay poca afluencia de 7am a 11pm. Los fines de semana, en cambio, la franja más concurrida va de 10am a 7pm, así que conviene evitarla. Si llega antes de las 10am o después de las 7pm, lo normal es que la cola para la foto sea más corta.
+    a: Entre semana hay poca afluencia de 7am a 8am y de 9pm a 11pm. Los fines de semana, en cambio, la franja más concurrida va de 10am a 7pm, así que conviene evitarla. Si llega antes de las 10am o después de las 7pm, lo normal es que la cola para la foto sea más corta.
   - q: ¿Cómo se llega en transporte público?
     a: La estación más cercana es James Street, de la red Merseyrail, desde la que se baja al río en un breve paseo. Desde Liverpool Lime Street puede ir andando en unos 20 a 25 minutos o bien hacer transbordo a Merseyrail hasta James Street.
   - q: ¿Cuánto tiempo conviene dedicar a las estatuas?
@@ -34,7 +34,7 @@ Para verlas con calma y hacer unas cuantas fotos bastan de 15 a 20 minutos. Si q
 
 ## Cuándo hacer la foto
 
-Es un lugar muy concurrido, pero la afluencia sigue una pauta bien definida. Entre semana, toda la franja de 7am a 11pm se considera tranquila, de modo que un martes por la tarde no suele haber problema. Los fines de semana la cosa cambia: procure no llegar un sábado o un domingo entre las 10am y las 7pm, que es cuando se forma la cola para las fotos.
+Es un lugar muy concurrido, pero la afluencia sigue una pauta bien definida. Entre semana, las franjas tranquilas son de 7am a 8am y de 9pm a 11pm, y la más concurrida va de 11am a 6pm, de modo que incluso un martes por la tarde puede tocar esperar. Los fines de semana la franja concurrida es más larga: procure no llegar un sábado o un domingo entre las 10am y las 7pm, que es cuando se forma la cola para las fotos.
 
 Si solo puede ir en fin de semana, hágalo antes de las 10am o después de las 7pm. A primera hora, además, tendrá el agua a su espalda y pasará menos gente por delante de la cámara. En Liverpool predominan los días nublados, y esa luz gris y uniforme, en realidad, favorece al bronce, porque proyecta menos sombras duras sobre los rostros.
 

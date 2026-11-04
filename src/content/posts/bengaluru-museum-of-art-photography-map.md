@@ -100,7 +100,7 @@ Give yourself two to three hours minimum. There's a rooftop café for a break mi
 
 MAP is closed every Monday, so don't build a Monday visit around it. Tuesday through Friday it runs 10am–6:30pm; Saturday and Sunday it stays open later, until 7:30pm.
 
-Weekends get busy from noon through closing, so if you want space to actually stand in front of a painting, aim for the 10am–11am opening window on Saturday or Sunday. Weekday mornings are generally calmer too, though no hard data confirms the quietest weekday hour, arriving soon after opening is a safe bet either way.
+Weekends get busy from noon through closing, so if you want space to actually stand in front of a painting, aim for the 10am–11am opening window on Saturday or Sunday. On weekdays the forecast flags no standout quiet hour, and the busiest stretch is 2pm–5pm, so arriving soon after opening is a safe bet either way.
 
 ## How to visit like a local
 
@@ -108,7 +108,7 @@ MAP is well-known in Bengaluru now, not a hidden find, so plan around the crowds
 
 - **Book ahead**: tickets are usually sold online through MAP's own site as well as at the door; booking in advance skips the counter queue, especially on weekends.
 - **Payment**: cards and UPI are standard; cash is accepted but rarely necessary.
-- **Timing**: come right at 10am on a weekend, or any quiet weekday afternoon. Avoid arriving between noon and closing on Saturday or Sunday, when tour groups and families cluster.
+- **Timing**: come right at 10am on a weekend, or on a weekday before the 2pm–5pm busy stretch. Avoid arriving between noon and closing on Saturday or Sunday, when tour groups and families cluster.
 - **Etiquette**: photography is allowed in most galleries but flash and tripods usually aren't. Check gallery signage rather than assuming.
 - **Local mistake to avoid**: treating it as a quick one-hour stop. The museum is deceptively large across five levels, and rushing the textiles or photography floors is the most common regret visitors mention.
 

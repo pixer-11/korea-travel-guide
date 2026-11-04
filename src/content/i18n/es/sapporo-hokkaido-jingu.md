@@ -1,17 +1,17 @@
 ---
 lang: es
 slug: sapporo-hokkaido-jingu
-srcHash: '6987782cbeb7'
+srcHash: '56588a941fb6'
 title: 'Hokkaido Jingu: Guía de viaje de Sapporo (4.6★)'
 description: 'Hokkaido Jingu es un santuario sintoísta ubicado en Maruyama, en el centro de Sapporo, dentro de los terrenos boscosos del parque Maruyama. 4.6★ (16.327 reseñas): opiniones de los visitantes, horarios y consejos.'
-quickAnswer: Hokkaido Jingu es un santuario sintoísta ubicado en Maruyama, en el centro de Sapporo, dentro de los terrenos boscosos del parque Maruyama. Abre todos los días de 6:00 a 17:00, y el momento más tranquilo para visitarlo es justo a la apertura entre semana, o entre las 7:00 y las 8:00 los fines de semana, ya que la afluencia de visitantes aumenta rápidamente de 9:00 a 16:00 en esos días. Conviene reservar entre 45 minutos y una hora, más si después se pasea por el parque o se sube al monte Maruyama.
+quickAnswer: Hokkaido Jingu es un santuario sintoísta ubicado en Maruyama, en el centro de Sapporo, dentro de los terrenos boscosos del parque Maruyama. Abre todos los días de 6:00 a 17:00, y el momento más tranquilo para visitarlo es entre las 7:00 y las 8:00 cualquier día, o de 16:00 a 17:00 entre semana, ya que los fines de semana la afluencia de visitantes aumenta rápidamente de 9:00 a 16:00. Conviene reservar entre 45 minutos y una hora, más si después se pasea por el parque o se sube al monte Maruyama.
 faq:
   - q: ¿Cómo se llega a Hokkaido Jingu?
     a: Hay que tomar la línea de metro Tozai hasta la estación Maruyama Koen y caminar unos 15 minutos cuesta arriba a través del parque Maruyama hasta llegar al torii principal del santuario.
   - q: ¿Cuál es el horario de apertura?
     a: Hokkaido Jingu abre todos los días de 6:00 a 17:00 y no tiene día de cierre semanal.
   - q: ¿Cuándo hay menos afluencia de visitantes?
-    a: Entre semana el ambiente se mantiene bastante tranquilo durante todo el día, de 7:00 a 17:00. Los fines de semana conviene ir entre las 7:00 y las 8:00, ya que a partir de las 9:00 la afluencia aumenta rápidamente y se mantiene alta hasta aproximadamente las 16:00.
+    a: Entre semana, las franjas más tranquilas son de 7:00 a 8:00 y de 16:00 a 17:00, con más afluencia de 10:00 a 12:00. Los fines de semana conviene ir entre las 7:00 y las 8:00, ya que a partir de las 9:00 la afluencia aumenta rápidamente y se mantiene alta hasta aproximadamente las 16:00.
   - q: ¿Cuánto tiempo hay que reservar para la visita?
     a: Para recorrer solo los terrenos del santuario basta con 45 minutos a una hora; si se añade un paseo por el parque Maruyama o la subida al monte Maruyama, conviene calcular medio día.
   - q: ¿Hay que pagar entrada?
@@ -38,7 +38,7 @@ A quien le sobre energía, cerca del santuario comienza el sendero que sube al m
 
 Hokkaido Jingu abre todos los días de 6:00 a 17:00 y no cierra ningún día de la semana. Dada su popularidad, elegir bien el momento de la visita importa más que en un santuario menos concurrido.
 
-Entre semana, las mañanas suelen mantenerse relativamente tranquilas, así que no hace falta apresurarse. Los fines de semana son distintos: ir temprano por la mañana es la mejor opción para disfrutar de una visita más tranquila, ya que la afluencia tiende a aumentar conforme avanza el día.
+Entre semana, las franjas de 7:00 a 8:00 y de 16:00 a 17:00 suelen mantenerse relativamente tranquilas, mientras que de 10:00 a 12:00 es el tramo más concurrido. Los fines de semana son distintos: ir temprano por la mañana es la mejor opción para disfrutar de una visita más tranquila, ya que la afluencia tiende a aumentar conforme avanza el día.
 
 Año Nuevo es la excepción a todo esto. El hatsumode, la primera visita del año al santuario, provoca aquí filas enormes a principios de enero, y en esas fechas los patrones habituales de afluencia dejan de aplicarse.
 

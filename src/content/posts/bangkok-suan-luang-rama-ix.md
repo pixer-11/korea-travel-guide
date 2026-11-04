@@ -65,15 +65,15 @@ quickAnswer: >-
   Suan Luang Rama IX, in Prawet district on Bangkok's eastern edge, is one of
   the city's biggest and most beautifully landscaped public parks — a mix of
   botanical gardens, a lake with paddle boats, jogging paths and playgrounds. Go
-  on a weekday between 10am and 7pm for the calmest experience; weekends get
-  busy from 7am to 7pm, so if you must go on a Saturday or Sunday, aim for after
-  noon. Set aside two to three hours to properly walk the gardens, rent a paddle
+  on a weekday between 10am and 3pm for the calmest experience; weekends get
+  busy from 7am to 9am and 4pm to 7pm, so if you must go on a Saturday or Sunday, aim for
+  noon to 2pm. Set aside two to three hours to properly walk the gardens, rent a paddle
   boat, and cool off under the tree cover.
 faq:
   - q: What's the best time of day to visit Suan Luang Rama IX?
     a: >-
-      Weekdays from 10am to 7pm are the quietest. On weekends, foot traffic is
-      heavy from 7am to 7pm, so aim to arrive after noon if you're going on a
+      Weekdays from 10am to 3pm are the quietest. On weekends, foot traffic is
+      heavy from 7am to 9am and 4pm to 7pm, so aim for noon to 2pm if you're going on a
       Saturday or Sunday.
   - q: How do I get to Suan Luang Rama IX without a car?
     a: >-
@@ -124,7 +124,7 @@ Bring a mat or just find a patch of grass under one of the older trees; sitting 
 
 ## When to go
 
-Weekdays between 10am and 7pm are the quietest stretch, and honestly the best time to experience the park's scale without dodging crowds. Weekends draw heavy foot traffic from 7am to 7pm as local families turn out in force, so if a weekend is all you've got, wait until after noon, the park settles down from around 12pm to 7pm.
+Weekdays between 10am and 3pm are the quietest stretch, and honestly the best time to experience the park's scale without dodging crowds. Weekends draw heavy foot traffic from 7am to 9am and again from 4pm to 7pm as local families turn out in force, so if a weekend is all you've got, wait until noon, the park settles down from around 12pm to 2pm.
 
 Early morning on weekends is beautiful light-wise but also the single busiest window, so go in expecting company. Late afternoon into early evening, any day, brings the best temperature and softest light for photos, especially around the lake.
 

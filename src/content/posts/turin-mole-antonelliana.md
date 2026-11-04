@@ -57,12 +57,12 @@ place:
 tags:
   - turin
   - hidden gem
-quickAnswer: 'The Mole Antonelliana is Turin''s soaring 19th-century landmark on Via Montebello, home to the National Museum of Cinema and a glass lift that shoots you up to a panoramic terrace 85 metres above the city, with the full spire topping out at 121 metres. It''s very popular, so aim for a weekday any time from 9am to 7pm, or a weekend right at opening, 9am, to skip the worst of the crowds — weekends from 11am to 7pm are the busiest stretch. Budget half a day: roughly 45 minutes for the lift and view, longer if you linger in the cinema museum below.'
+quickAnswer: 'The Mole Antonelliana is Turin''s soaring 19th-century landmark on Via Montebello, home to the National Museum of Cinema and a glass lift that shoots you up to a panoramic terrace 85 metres above the city, with the full spire topping out at 121 metres. It''s very popular, so aim for a weekday (it is closed on Tuesdays) from 9am to 10am, or a weekend right at opening, 9am, to skip the worst of the crowds — weekends from 11am to 7pm are the busiest stretch. Budget half a day: roughly 45 minutes for the lift and view, longer if you linger in the cinema museum below.'
 faq:
   - q: How do I get to the Mole Antonelliana?
     a: It's on Via Montebello in central Turin, an easy 5-10 minute walk from Piazza Castello. The nearest metro is Line 1, getting off at Vinzaglio or Porta Nuova station, followed by a short walk through the city's arcaded streets.
   - q: When is the quietest time to visit?
-    a: Weekdays are calm any time from 9am to 7pm. On weekends, avoid 11am to 7pm when it's busiest, and instead aim for right at opening, 9am, which is noticeably quieter.
+    a: Weekdays are calmest from 9am to 10am. On weekends, the forecast flags no quiet hour, so avoid 11am to 7pm when it's busiest, and instead aim for right at opening, 9am, before the crowds build.
   - q: How long should I spend there?
     a: 'Plan on about 45 minutes to an hour total: a quick ride up in the panoramic lift plus time on the terrace, and more if you explore the National Museum of Cinema''s galleries around the central hall.'
   - q: Is it worth booking tickets in advance?
@@ -91,9 +91,9 @@ The Mole sits on Via Montebello, a five-to-ten-minute walk from Piazza Castello 
 
 ## When to go
 
-Given how popular this landmark has become, timing matters more than most places in the city. Weekdays are calmer across the whole span from opening to 7pm, so a Monday or Wednesday morning visit lets you take the lift without a long wait. Weekends are a different story. Expect the heaviest crowds from 11am to 7pm, with the museum's ticket line for the elevator stretching well into the entrance hall.
+Given how popular this landmark has become, timing matters more than most places in the city. Weekdays are calmest right at opening, 9am to 10am, so a Monday or Wednesday morning visit lets you take the lift without a long wait. Weekends are a different story. Expect the heaviest crowds from 11am to 7pm, with the museum's ticket line for the elevator stretching well into the entrance hall.
 
-If a weekend is your only option, the window right at opening, 9am, is noticeably quieter, and it lets you beat the crowds before they build through the day.
+If a weekend is your only option, the forecast flags no quiet hour, but the window right at opening, 9am, lets you beat the crowds before they build through the day.
 
 ## How to visit like a local
 

@@ -68,12 +68,7 @@ place:
 tags:
   - portland
   - old quarter
-quickAnswer: >-
-  The Japanese American Historical Plaza in Portland sits at the north end of
-  Tom McCall Waterfront Park, beside the Willamette River near the Steel Bridge.
-  It is an open public space from 5am to midnight daily. It's quietest between
-  7am and 11pm, but try to avoid weekends from 11am to 8pm; go in late March or
-  early April if you want the cherry trees in bloom.
+quickAnswer: "The Japanese American Historical Plaza in Portland sits at the north end of Tom McCall Waterfront Park, beside the Willamette River near the Steel Bridge. It is an open public space from 5am to midnight daily. It's quietest from 7am to 11am on weekdays and 7am to 9am on weekends, and again from 10pm to 11pm, but try to avoid weekends from 11am to 8pm; go in late March or early April if you want the cherry trees in bloom."
 faq:
   - q: Where exactly is the Japanese American Historical Plaza?
     a: >-
@@ -81,9 +76,7 @@ faq:
       River, between the Burnside and Steel bridges along Naito Parkway. The
       nearest MAX stop is Skidmore Fountain on the Blue and Red lines.
   - q: When is the quietest time to visit?
-    a: >-
-      The quietest window is 7am to 11pm on both weekdays and weekends. Avoid
-      weekends from 11am to 8pm, which is the busiest period.
+    a: "The quietest windows are 7am to 11am and 10pm to 11pm on weekdays, and 7am to 9am and 9pm to 11pm on weekends. Avoid weekends from 11am to 8pm, which is the busiest period."
   - q: When do the cherry trees bloom?
     a: >-
       Usually in late March or early April. The exact timing shifts with the
@@ -119,7 +112,7 @@ It sits in Tom McCall Waterfront Park, on the stretch between the Burnside and S
 
 A row of cherry trees lines the path, and they are the plaza's calendar. Bloom usually peaks in late March or early April. Pink petals then collect in the carved letters and the grass around the boulders. During those weeks, expect the space to fill with people photographing the blossoms.
 
-Outside bloom season, locals mostly pass the plaza on runs or bike commutes, so it feels like a quieter find. The crowd pattern is plain. It is calmest between 7am and 11pm on both weekdays and weekends. The one window to avoid is weekends from 11am to 8pm, when the waterfront gets busy.
+Outside bloom season, locals mostly pass the plaza on runs or bike commutes, so it feels like a quieter find. The crowd pattern is plain. It is calmest from 7am to 11am and 10pm to 11pm on weekdays, and from 7am to 9am and 9pm to 11pm on weekends. The main window to avoid is weekends from 11am to 8pm, when the waterfront gets busy.
 
 Weekend crowds come partly from Portland Saturday Market, held under the Burnside Bridge a few minutes south. If you want the poems to yourself, visit on a weekday morning. Then walk to the market afterwards if it's running.
 

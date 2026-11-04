@@ -1,15 +1,15 @@
 ---
 lang: es
 slug: bukhara-bukhara-tower
-srcHash: 'd34016fc8148'
+srcHash: 'f0ab72a489e6'
 title: 'Torre de Bujará: Guía de Viaje (4,1★)'
 description: 'La Torre de Bujará es una moderna torre mirador y depósito de agua situada en el límite del casco antiguo, abierta todos los días de 8:00 a 22:00, y es la forma más sencilla de contemplar desde las alturas el perfil de adobe de Bujará y el horizonte desértico. 4,1★ (206 reseñas): lo que dicen los visitantes, horarios y consejos.'
-quickAnswer: 'La Torre de Bujará es una moderna torre mirador y depósito de agua situada en el límite del casco antiguo, abierta todos los días de 8:00 a 22:00, y es la forma más sencilla de contemplar desde las alturas el perfil de adobe de Bujará y el horizonte desértico. Conviene ir temprano: los fines de semana, el tramo más tranquilo es de 8:00 a 11:00, antes de que se llene entre las 9:00 y las 17:00. Calcule entre 45 y 60 minutos, incluyendo la subida y un paseo tranquilo por la plataforma.'
+quickAnswer: 'La Torre de Bujará es una moderna torre mirador y depósito de agua situada en el límite del casco antiguo, abierta todos los días de 8:00 a 22:00, y es la forma más sencilla de contemplar desde las alturas el perfil de adobe de Bujará y el horizonte desértico. Conviene ir temprano: los fines de semana, el tramo más tranquilo es de 8:00 a 9:00, antes de que se llene entre las 9:00 y las 11:00 y de nuevo entre las 16:00 y las 17:00. Calcule entre 45 y 60 minutos, incluyendo la subida y un paseo tranquilo por la plataforma.'
 faq:
   - q: ¿Cuál es el horario de la Torre de Bujará?
     a: Abre todos los días de la semana, de 8:00 a 22:00, sin ningún día de cierre indicado.
   - q: ¿Cuál es el momento más tranquilo para visitarla?
-    a: Los fines de semana, el tramo más tranquilo va de 8:00 a 11:00. Conviene evitar el horario de 9:00 a 17:00 los sábados y domingos, que es cuando hay más afluencia.
+    a: Los fines de semana, el tramo más tranquilo va de 8:00 a 9:00. Conviene evitar los horarios de 9:00 a 11:00 y de 16:00 a 17:00 los sábados y domingos, que es cuando hay más afluencia.
   - q: ¿Cómo se llega a la Torre de Bujará?
     a: Se puede llegar caminando en unos 15-20 minutos desde los alojamientos del centro del casco antiguo, o en un trayecto corto y económico en taxi hasta QCH5+59P, Bujará.
   - q: ¿Cuánto tiempo conviene dedicarle?
@@ -49,9 +49,9 @@ Bujará no cuenta con metro ni tranvía, de modo que las opciones se reducen a t
 
 La torre abre todos los días, de 8:00 a 22:00, por lo que no hay que preocuparse por sorpresas de cierre en lunes ni días similares.
 
-Los fines de semana, el tramo más tranquilo es justo después de la apertura, de 8:00 a 11:00. La afluencia va en aumento y alcanza su punto máximo entre las 9:00 y las 17:00, así que quien visite un sábado o domingo no debería llegar al mediodía esperando encontrar la plataforma vacía.
+Los fines de semana, el tramo más tranquilo es justo después de la apertura, de 8:00 a 9:00. La afluencia aumenta rápido y alcanza su punto máximo entre las 9:00 y las 11:00, con otro tramo concurrido de 16:00 a 17:00, así que quien visite un sábado o domingo no debería llegar al mediodía esperando encontrar la plataforma vacía.
 
-Los horarios entre semana están menos documentados, pero seguir la misma lógica (llegar cerca de la apertura) es una apuesta segura.
+Entre semana la previsión no marca ninguna franja tranquila y la hora de más afluencia es de 19:00 a 20:00, así que llegar cerca de la apertura es una apuesta segura.
 
 Las tardes-noche tienen su propio encanto: como la torre permanece abierta hasta las 22:00, una visita después de cenar permite ver el casco antiguo iluminado contra la oscuridad.
 
@@ -70,7 +70,7 @@ Conviene dedicar entre 45 minutos y una hora a la torre en sí, y dejar luego qu
 
 Lo mejor es tratar la torre como una parada rápida y funcional, no como un lugar donde demorarse horas; así es como la usa la mayoría de los visitantes, y de ese modo la experiencia resulta más eficiente.
 
-- **Horario**: conviene apuntar al tramo de 8:00 a 11:00 los fines de semana para evitar las mayores aglomeraciones; entre las 9:00 y las 17:00 es cuando más se llena.
+- **Horario**: conviene apuntar al tramo de 8:00 a 9:00 los fines de semana para evitar las mayores aglomeraciones; entre las 9:00 y las 11:00 y entre las 16:00 y las 17:00 es cuando más se llena.
 - **Pago**: es recomendable llevar algo de moneda local (som) para la entrada o el quiosco del lugar, ya que en atracciones pequeñas como esta no siempre se puede pagar con tarjeta.
 - **Comportamiento**: conviene mantener la circulación en la plataforma, ya que es un espacio compartido y a veces estrecho; lo apropiado es dejar que otros tomen su foto y apartarse en lugar de acaparar un sitio.
 - **Error común**: muchos turistas la omiten por completo porque no es "histórica", y luego lamentan no haber tenido una referencia aérea para el resto de su recorrido por el casco antiguo. Conviene ir primero y explorar después: la vista ayuda a situar todo lo demás.

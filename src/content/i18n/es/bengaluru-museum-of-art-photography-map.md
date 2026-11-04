@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bengaluru-museum-of-art-photography-map
-srcHash: 'f4c11c0d0405'
+srcHash: '2b6cea2b7e14'
 title: 'Museo de Arte y Fotografía (MAP): guía de viaje de Bengaluru'
 description: 'El MAP (Museo de Arte y Fotografía) se encuentra en Kasturba Road, cerca de Cubbon Park, a poca distancia a pie de MG Road, y cierra los lunes. 4,5★ (2.684 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El MAP (Museo de Arte y Fotografía) se encuentra en Kasturba Road, cerca de Cubbon Park, a poca distancia a pie de MG Road, y cierra los lunes. Conviene ir de martes a viernes de 10:00 a 18:30 h, o el fin de semana, cuando abre hasta las 19:30 h; si se visita en sábado o domingo, lo mejor es llegar justo a las 10:00 h para evitar la afluencia de público que se acumula a partir del mediodía. Hay que reservar entre dos y tres horas para recorrer las cinco plantas de salas.
@@ -45,7 +45,7 @@ Conviene reservar al menos dos o tres horas. A mitad de la visita hay una cafete
 
 El MAP cierra todos los lunes, así que no conviene planear una visita ese día. De martes a viernes abre de 10:00 a 18:30 h; los sábados y domingos permanece abierto hasta más tarde, hasta las 19:30 h.
 
-Los fines de semana hay bastante afluencia desde el mediodía hasta el cierre, así que, para poder detenerse con calma frente a un cuadro, lo mejor es apuntar a la franja de apertura entre las 10:00 y las 11:00 h en sábado o domingo. Las mañanas entre semana también suelen ser más tranquilas, aunque no hay datos concretos que confirmen cuál es la hora más tranquila en días laborables; en cualquier caso, llegar poco después de la apertura es una apuesta segura.
+Los fines de semana hay bastante afluencia desde el mediodía hasta el cierre, así que, para poder detenerse con calma frente a un cuadro, lo mejor es apuntar a la franja de apertura entre las 10:00 y las 11:00 h en sábado o domingo. Entre semana, la previsión no marca ninguna franja tranquila y la mayor afluencia se da de 14:00 a 17:00 h; en cualquier caso, llegar poco después de la apertura es una apuesta segura.
 
 ## Cómo visitarlo como un local
 
@@ -53,7 +53,7 @@ El MAP ya es de sobra conocido en Bengaluru, no es ningún descubrimiento oculto
 
 - **Reservar con antelación**: las entradas suelen venderse en línea a través de la propia web del MAP, además de en taquilla; reservar con antelación permite evitar la cola en la entrada, sobre todo los fines de semana.
 - **Formas de pago**: las tarjetas y UPI son lo habitual; se acepta efectivo, aunque rara vez es necesario.
-- **Momento ideal**: conviene llegar justo a las 10:00 h en fin de semana, o cualquier tarde tranquila entre semana. Es mejor evitar el tramo entre el mediodía y el cierre en sábado o domingo, cuando se concentran los grupos de turistas y las familias.
+- **Momento ideal**: conviene llegar justo a las 10:00 h en fin de semana, o entre semana antes de la franja de más afluencia, de 14:00 a 17:00 h. Es mejor evitar el tramo entre el mediodía y el cierre en sábado o domingo, cuando se concentran los grupos de turistas y las familias.
 - **Etiqueta**: la fotografía suele estar permitida en la mayoría de las salas, pero no así el flash ni los trípodes; conviene comprobar la señalización de cada sala en lugar de darlo por hecho.
 - **Error habitual que conviene evitar**: tratarlo como una parada rápida de una hora. El museo es engañosamente grande, con cinco niveles, y apresurarse por las salas de textiles o fotografía es el arrepentimiento que más mencionan los visitantes.
 

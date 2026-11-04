@@ -63,7 +63,7 @@ quickAnswer: >-
   Singapore Skyline View is a free, open-24-hours waterfront viewpoint at 10
   Bayfront Ave on the Marina Bay Sands side of Marina Bay. It looks straight
   across the water at the Central Business District towers, the Fullerton Hotel
-  and the Merlion. Go on weekend mornings for space, and avoid 4pm–11pm on
+  and the Merlion. Go on weekend mornings for space, and avoid 4pm–5pm and 8pm–11pm on
   weekends, which is when it fills up.
 faq:
   - q: How do I get to Singapore Skyline View?
@@ -71,7 +71,7 @@ faq:
   - q: When is the quietest time to visit?
     a: There's no weekday data. On weekends the quietest window is listed as 7am–8am, and the busiest are 4pm–5pm and 8pm–11pm, so weekend mornings are the best bet. Avoid weekend evenings if you want space at the railing.
   - q: Is it open at night?
-    a: Yes. It's open 24 hours every day. That means you can come late for the lit-up skyline after the 4pm–11pm weekend rush has cleared.
+    a: Yes. It's open 24 hours every day. That means you can come late for the lit-up skyline after the 8pm–11pm weekend rush has cleared.
   - q: How long should I spend there?
     a: Twenty minutes is enough for the view and photos. Give it about an hour if you're waiting for sunset, the night lights or the Spectra show. Check the Marina Bay Sands official site for current showtimes.
   - q: What else is nearby?
@@ -95,9 +95,9 @@ Coming from the Marina Centre side, you can cross the Helix Bridge. Its steel st
 
 ## Picking your hour
 
-There's no weekday crowd data for this spot, but the weekend figures are clear. On weekends the busiest stretch runs from 4pm–11pm. That's when the sunset crowd and the evening light-show audience line the waterfront.
+There's no weekday crowd data for this spot, but the weekend figures are clear. On weekends the busiest stretches run from 4pm–5pm and 8pm–11pm. That's when the sunset crowd and the evening light-show audience line the waterfront.
 
-The quietest weekend window is listed as 7am–8am. Because that overlaps the evening peak, the safe reading is mornings. Arrive after 7am and you'll have the railing almost to yourself, with soft light falling on the towers opposite.
+The quietest weekend window is listed as 7am–8am, so the safe reading is mornings. Arrive between 7am and 8am and you'll have the railing almost to yourself, with soft light falling on the towers opposite.
 
 Night is the classic view, as the office towers stay lit over the black water. If you want the night skyline without the crowd, come late, after the 11pm weekend peak has cleared.
 

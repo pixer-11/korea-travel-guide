@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: sai-kung-sai-kung-town
-srcHash: 'ab698b6a1ede'
+srcHash: 'f04f111fd5c6'
 title: 'Sai Kung Town: guía de viaje (4.3★)'
 description: 'Sai Kung Town es un antiguo pueblo de pescadores en la costa este de Hong Kong, hoy un paseo marítimo de restaurantes de marisco, muelles de sampanes y punto de partida hacia los senderos de Sai Kung Country Park. 4.3★ (115 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Sai Kung Town es un antiguo pueblo de pescadores en la costa este de Hong Kong, hoy un paseo marítimo de restaurantes de marisco, muelles de sampanes y punto de partida hacia los senderos de Sai Kung Country Park. Ven a última hora de la tarde entre semana para ver los barcos de pesca y los puestos flotantes de marisco antes de que llegue el gentío de la cena, y luego camina por el paseo marítimo hasta el Sai Kung Public Pier. Reserva medio día si lo combinas con una caminata o una excursión a la playa en la península.
@@ -9,7 +9,7 @@ faq:
   - q: ¿Cómo llego a Sai Kung Town sin coche?
     a: Toma el minibús verde 1A o 1 desde las estaciones de MTR de Diamond Hill o Choi Hung; son unos 20-25 minutos y te deja cerca del centro del pueblo y del muelle.
   - q: ¿Cuál es el momento más tranquilo para visitarlo?
-    a: Las tardes de entre semana, entre las 4 y las 6 pm, son las más tranquilas. Los fines de semana, desde media mañana en adelante, se llena de excursionistas que van hacia las playas.
+    a: Entre semana la previsión no marca ninguna franja tranquila, así que conviene llegar antes de las 5 pm, cuando empieza el gentío de la tarde. Los fines de semana, de 9 am a 2 pm y de nuevo desde las 5 pm, se llena de excursionistas que van hacia las playas.
   - q: ¿Cuánto tiempo debería dedicarle a Sai Kung Town?
     a: Calcula entre 2 y 3 horas para el paseo marítimo, el mercado y una comida de marisco, o medio día si lo combinas con un paseo en sampán o una caminata por Sai Kung Country Park.
   - q: ¿Es Sai Kung Town una buena excursión de un día con niños?
@@ -56,9 +56,9 @@ Para los senderistas, Sai Kung Town es el punto de partida práctico hacia los s
 
 ## Cuándo ir
 
-Las tardes de entre semana, aproximadamente entre las 4 y las 6 pm, son el momento más tranquilo: el gentío del almuerzo ya se ha ido y el servicio de cena todavía no ha arrancado. Los fines de semana traen un flujo constante de excursionistas de Hong Kong que se dirigen a las playas, así que el paseo marítimo y las colas de minibús se notan más concurridos desde media mañana en adelante.
+Entre semana la previsión no marca ninguna franja tranquila, pero a media tarde, antes de las 5 pm, te adelantas a la avalancha de la noche: el gentío del almuerzo ya se ha ido y el servicio de cena todavía no ha arrancado. Los fines de semana traen un flujo constante de excursionistas de Hong Kong que se dirigen a las playas, así que el paseo marítimo y las colas de minibús se notan más concurridos de 9 am a 2 pm y de nuevo desde las 5 pm.
 
-Las noches son cuando los restaurantes de marisco realmente cobran vida, con los tanques iluminados y las mesas llenándose junto al agua. Si quieres fotos de los barcos sin gente en el encuadre, las mañanas antes de las 10 am también son más tranquilas, aunque todavía hay menos puestos abiertos.
+Las noches son cuando los restaurantes de marisco realmente cobran vida, con los tanques iluminados y las mesas llenándose junto al agua. Si quieres fotos de los barcos sin gente en el encuadre, las mañanas de fin de semana entre las 7 y las 8 am también son más tranquilas, aunque todavía hay menos puestos abiertos.
 
 ## Cómo visitarlo como un local
 

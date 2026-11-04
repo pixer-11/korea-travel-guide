@@ -1,13 +1,13 @@
 ---
 lang: es
 slug: darwin-darwin-military-museum
-srcHash: '7a7b12e2655e'
+srcHash: '6be1666e6244'
 title: 'Museo Militar de Darwin: guía de viaje (4.6★)'
 description: En el promontorio de East Point, a pocos minutos en coche al norte del centro de Darwin, se encuentra el Museo Militar de Darwin (5434 Alec Fong Lim Dr, East Point). Tiene una valoración de 4.6★ (2,316 reseñas). Aquí encontrará las opiniones de los visitantes, información sobre horarios y consejos prácticos.
-quickAnswer: El Museo Militar de Darwin (Darwin Military Museum) está en el promontorio de East Point, en 5434 Alec Fong Lim Dr, East Point, a pocos minutos en coche al norte del centro de Darwin. Su principal atractivo es la Defence of Darwin Experience, una galería multimedia dedicada a los bombardeos japoneses de 1942. Conviene reservar entre dos y tres horas para la visita. Entre semana y los sábados, de 9:30am a 4pm, hay poca afluencia, y lo mismo ocurre los domingos de 10am a 3pm. Los fines de semana, en cambio, es mejor no llegar entre las 11am y las 2pm, que es cuando más gente acude.
+quickAnswer: El Museo Militar de Darwin (Darwin Military Museum) está en el promontorio de East Point, en 5434 Alec Fong Lim Dr, East Point, a pocos minutos en coche al norte del centro de Darwin. Su principal atractivo es la Defence of Darwin Experience, una galería multimedia dedicada a los bombardeos japoneses de 1942. Conviene reservar entre dos y tres horas para la visita. Entre semana y los sábados, la menor afluencia se da de 3pm a 4pm. Los fines de semana, en cambio, es mejor no llegar entre las 11am y las 2pm, que es cuando más gente acude.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Museo Militar de Darwin?
-    a: La menor afluencia se registra de lunes a sábado entre las 9:30am y las 4pm. Los domingos, de 10am a 3pm, el ambiente también es sosegado. Evite los fines de semana entre las 11am y las 2pm, la franja más concurrida. Antes de ir, confirme el horario vigente en la web oficial.
+    a: La menor afluencia se registra de lunes a sábado entre las 3pm y las 4pm. Los domingos, la previsión no marca ninguna franja tranquila. Evite los fines de semana entre las 11am y las 2pm, la franja más concurrida. Antes de ir, confirme el horario vigente en la web oficial.
   - q: ¿Cuánto tiempo conviene dedicar al museo?
     a: Calcule entre dos y tres horas. A la Defence of Darwin Experience conviene dedicarle al menos una hora. Después quedará tiempo para recorrer las piezas expuestas al aire libre y las construcciones de la época de la guerra que se conservan en el recinto.
   - q: ¿Cómo se llega al Museo Militar de Darwin desde la ciudad?
@@ -46,7 +46,7 @@ Si su viaje coincide con mediados de febrero, consulte la agenda local por si ha
 
 ## Cómo evitar las aglomeraciones
 
-La afluencia habitual facilita la elección. El museo abre de lunes a sábado de 9:30am a 4pm, y los domingos de 10am a 3pm. Aun dentro de ese horario, el momento de mayor afluencia suele ser entre el final de la mañana y el comienzo de la tarde, cuando puede que tenga que hacer cola ante las pantallas de la galería multimedia.
+La afluencia habitual facilita la elección. El museo abre de lunes a sábado de 9:30am a 4pm, y los domingos de 10am a 3pm. Aun dentro de ese horario, el momento de mayor afluencia de los fines de semana suele ser entre el final de la mañana y el comienzo de la tarde, cuando puede que tenga que hacer cola ante las pantallas de la galería multimedia.
 
 Antes de salir, consulte en la web oficial del museo el horario de apertura más actualizado. El clima también influye. La estación seca, aproximadamente de mayo a octubre, es la época más agradable para recorrer la exposición al aire libre. En la estación húmeda, visite el recinto exterior a primera hora, antes de que el calor alcance su punto máximo.
 

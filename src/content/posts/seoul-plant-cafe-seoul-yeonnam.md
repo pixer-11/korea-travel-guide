@@ -57,14 +57,14 @@ place:
 tags:
   - seoul
   - vegan Yeonnam-dong
-quickAnswer: Plant Cafe Seoul (Yeonnam) is a plant-filled, greenhouse-style café in the Yeonnam-dong district, best reached via Line 6's Sangsu Station or the Gyeongui Line Forest Park side of Hongdae. Go on a weekday morning or early afternoon to snag a window seat among the greenery without the weekend queue, and budget an hour or two — it's the kind of place people linger and photograph rather than rush through. Pair it with a walk along the nearby Gyeongui Line Forest Park for a full half-day Yeonnam itinerary.
+quickAnswer: Plant Cafe Seoul (Yeonnam) is a plant-filled, greenhouse-style café in the Yeonnam-dong district, best reached via Line 6's Sangsu Station or the Gyeongui Line Forest Park side of Hongdae. Go Tuesday to Friday (it's closed on Mondays) between the 11am opening and 1pm, before the afternoon rush, to snag a window seat among the greenery without the weekend queue, and budget an hour or two — it's the kind of place people linger and photograph rather than rush through. Pair it with a walk along the nearby Gyeongui Line Forest Park for a full half-day Yeonnam itinerary.
 faq:
   - q: How do I get to Plant Cafe Seoul (Yeonnam)?
     a: Take Line 6 to Sangsu Station and walk about 15-20 minutes through Yeonnam-dong's side streets, or come via Hongik University Station and cut through the Gyeongui Line Forest Park toward Yeonnam-dong.
   - q: How long should I plan to stay?
     a: At least an hour — the café is designed for lingering among the plant displays, and photography-minded visitors often stay longer.
   - q: When is the best time to visit to avoid crowds?
-    a: Weekday mornings to early afternoon (around 11am-2pm) are quieter; weekends see heavy café-hopping traffic throughout Yeonnam-dong.
+    a: From Tuesday to Friday the forecast flags no standout quiet hour, so arrive near the 11am opening, before the 1pm-9pm busy stretch; weekends see heavy café-hopping traffic throughout Yeonnam-dong.
   - q: What's nearby if I want to make a half-day of it?
     a: The Gyeongui Line Forest Park runs right through the neighborhood and connects toward Hongdae, and the surrounding blocks are full of boutiques and other themed cafés worth browsing.
   - q: Is it good for photos?
@@ -94,10 +94,10 @@ Because the space itself is the main attraction, plan to spend at least an hour,
 
 ## When to go
 
-Weekday mornings through early afternoon (roughly 11am–2pm) tend to be calmer, since Yeonnam-dong's café scene draws heavy weekend foot traffic from both Seoul residents and visitors doing café-hopping circuits. Spring and early autumn are especially rewarding, when the plant displays are at their fullest and the walk over from the Gyeongui Line Forest Park is at its most scenic, with the park's own trees and seasonal flowers adding to the effect.
+From Tuesday to Friday the forecast flags no standout quiet hour, so aim for 11am–1pm, before the 1pm–9pm busy stretch, since Yeonnam-dong's café scene draws heavy weekend foot traffic from both Seoul residents and visitors doing café-hopping circuits. Spring and early autumn are especially rewarding, when the plant displays are at their fullest and the walk over from the Gyeongui Line Forest Park is at its most scenic, with the park's own trees and seasonal flowers adding to the effect.
 
 As with most independent cafés in Seoul, hours can shift seasonally or around public holidays, so it's worth confirming current opening times before setting out, particularly if arriving later in the day.
 
 ## Nearby & tips
 
-Yeonnam-dong rewards aimless wandering. The blocks around Plant Cafe Seoul are dense with small boutiques, other themed cafés, and casual restaurants, many tucked into converted single-story homes. The Gyeongui Line Forest Park is the natural anchor for a nearby stop, offering a shaded walking path that stretches toward Hongdae, useful for bookending a café visit with some movement. Given the neighborhood's popularity, seating inside plant-heavy cafés like this one can fill up quickly on weekends, so arriving right at opening or opting for a weekday visit remains the most reliable way to actually get a seat among the greenery rather than a takeaway cup on the sidewalk.
+Yeonnam-dong rewards aimless wandering. The blocks around Plant Cafe Seoul are dense with small boutiques, other themed cafés, and casual restaurants, many tucked into converted single-story homes. The Gyeongui Line Forest Park is the natural anchor for a nearby stop, offering a shaded walking path that stretches toward Hongdae, useful for bookending a café visit with some movement. Given the neighborhood's popularity, seating inside plant-heavy cafés like this one can fill up quickly on weekends, so arriving right at opening or visiting between Tuesday and Friday remains the most reliable way to actually get a seat among the greenery rather than a takeaway cup on the sidewalk.

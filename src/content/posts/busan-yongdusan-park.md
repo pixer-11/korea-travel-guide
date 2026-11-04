@@ -84,7 +84,7 @@ faq:
       you go since it can change.
   - q: When is the quietest time to visit?
     a: >-
-      On weekdays it stays fairly calm from 7am to 11pm. On weekends, the only
+      On weekdays it's calmest from 7am to 8am and from 10pm to 11pm. On weekends, the only
       quiet stretch is early, 7am to 8am, before crowds build.
   - q: How long should I plan to spend there?
     a: >-
@@ -131,7 +131,7 @@ Give yourself a relaxed stretch of time if you're just wandering the terraces an
 
 ## When to go for the best light and fewest crowds
 
-Weekday crowd levels stay manageable across a long window, roughly 7am to 11pm, so there's real flexibility if your schedule is loose.
+Weekday crowd levels stay manageable outside the 12pm to 5pm peak, and the calmest hours are 7am to 8am and 10pm to 11pm, so there's real flexibility if your schedule is loose.
 
 Weekends are a different story. The park gets genuinely busy from 10am to 9pm, with tour groups and families filling the main terraces and the tower's ticket line.
 
@@ -143,7 +143,7 @@ Evenings bring a different draw: Busan Tower lit up against the dark, and the su
 
 Yongdusan Park is one of central Busan's most visited attractions, so the goal isn't finding a quiet corner nobody knows. It's timing your visit to dodge the peak crush.
 
-- Go early. Weekday mornings, or that narrow 7am-8am weekend window, are your best shot at empty pathways.
+- Go early. Weekday mornings at 7am-8am, or that narrow 7am-8am weekend window, are your best shot at empty pathways.
 - Skip the stairs if you're short on time, the escalators or the Lotte Department Store elevator save real effort.
 - Buy the tower ticket on site, and there's rarely a need to book ahead outside peak holiday weeks.
 - Combine it with Nampo-dong and Gukje Market, both within walking distance, so the hill becomes one stop on a bigger loop rather than a separate trip.

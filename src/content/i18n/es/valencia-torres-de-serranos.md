@@ -1,15 +1,15 @@
 ---
 lang: es
 slug: valencia-torres-de-serranos
-srcHash: '83c21e772ce5'
+srcHash: '11beac2ce71e'
 title: 'Torres de Serranos: guía para visitarlas en Valencia (4.6★)'
 description: 'Las Torres de Serranos, puerta gótica del siglo XIV, custodiaban la antigua entrada a la Valencia medieval. Merece la pena dedicarles una hora: tras subir su escalera de caracol, la azotea ofrece una panorámica de los jardines del antiguo cauce del Turia y de las cúpulas de azulejos del casco antiguo. 4.6★ (50,473 reseñas): opiniones de los visitantes, horarios y consejos.'
-quickAnswer: 'Las Torres de Serranos, puerta gótica del siglo XIV, custodiaban la antigua entrada a la Valencia medieval. Merece la pena dedicarles una hora: tras subir su escalera de caracol, la azotea ofrece una panorámica de los jardines del antiguo cauce del Turia y de las cúpulas de azulejos del casco antiguo. Casi toda la semana se visitan con tranquilidad de 10am a 7pm (los domingos, de 10am–2pm). Las aglomeraciones llegan los sábados entre el mediodía y las 6pm, así que ese día conviene ir a primera o a última hora. La entrada es económica y algunos días suele ser gratuita, aunque es mejor confirmar el horario y el precio vigentes antes de ir. Entre la subida y el rato en lo alto, la visita lleva unos 45–60 minutos.'
+quickAnswer: 'Las Torres de Serranos, puerta gótica del siglo XIV, custodiaban la antigua entrada a la Valencia medieval. Merece la pena dedicarles una hora: tras subir su escalera de caracol, la azotea ofrece una panorámica de los jardines del antiguo cauce del Turia y de las cúpulas de azulejos del casco antiguo. La franja más tranquila es de 10am a 11am todos los días (y los sábados, también de 2pm a 3pm). Las aglomeraciones llegan los sábados entre el mediodía y las 2pm y de 3pm a 6pm, y los domingos entre el mediodía y el cierre de las 2pm, así que el fin de semana conviene ir a primera hora (o a última, si es sábado). La entrada es económica y algunos días suele ser gratuita, aunque es mejor confirmar el horario y el precio vigentes antes de ir. Entre la subida y el rato en lo alto, la visita lleva unos 45–60 minutos.'
 faq:
   - q: ¿Cuánto tiempo hay que dedicar a las Torres de Serranos?
     a: Calcule unos 45–60 minutos. Subir a las dos torres por la escalera de caracol lleva unos 20, y a eso hay que sumar el rato que querrá pasar en las terrazas de la azotea contemplando los jardines del Turia y el casco antiguo.
   - q: ¿Cuál es el momento más tranquilo para ir?
-    a: Entre semana, aproximadamente de 10am a 7pm, hay siempre menos gente. Lo mismo ocurre los domingos por la mañana, antes del cierre de las 2pm. Conviene evitar los sábados de 12 a 6pm, cuando coinciden los grupos organizados y los excursionistas de un día.
+    a: Entre semana, la franja más tranquila es de 10am a 11am. Lo mismo ocurre el fin de semana de 10am a 11am y los sábados de 2pm a 3pm. Conviene evitar los sábados de 12 a 2pm y de 3pm a 6pm, y los domingos de 12 al cierre de las 2pm, cuando coinciden los grupos organizados y los excursionistas de un día.
   - q: ¿Cómo se llega a las Torres de Serranos?
     a: Lo más cómodo es atravesar a pie los jardines del antiguo cauce del Turia y cruzar el Puente de Serranos, que desemboca justo en la entrada. En metro, la estación de Alameda (líneas 3/5) queda a unos 15 minutos andando.
   - q: ¿Hay que pagar entrada?
@@ -40,9 +40,9 @@ También paran cerca, en el Paseo de la Pechina, varias líneas de autobús urba
 
 ## Cuándo ir
 
-Los momentos de mayor afluencia son los sábados entre el mediodía y las 6pm y los domingos por la mañana antes del cierre de las 2pm, cuando a los grupos organizados y los excursionistas de un día se suma el público de la sobremesa. Si quiere tener la escalera y la azotea para usted solo, evite esas franjas. Entre semana, aproximadamente de 10am a 7pm, el ambiente es bastante más tranquilo (recuerde que los domingos las torres cierran a las 2pm).
+Los momentos de mayor afluencia son los sábados entre el mediodía y las 2pm y de 3pm a 6pm, y los domingos entre el mediodía y el cierre de las 2pm, cuando a los grupos organizados y los excursionistas de un día se suma el público de la sobremesa. Si quiere tener la escalera y la azotea para usted solo, evite esas franjas. Entre semana, la franja más tranquila es de 10am a 11am (recuerde que los domingos las torres cierran a las 2pm).
 
-Además, en esas horas la luz favorece las fotografías: el sol temprano roza en diagonal la piedra y, al final de la tarde, la terraza orientada al oeste se tiñe de dorado.
+Además, a primera y a última hora la luz favorece las fotografías: el sol temprano roza en diagonal la piedra y, al final de la tarde, la terraza orientada al oeste se tiñe de dorado.
 
 Las tardes de primavera y otoño resultan especialmente gratas, porque el calor mediterráneo ya ha remitido y aún queda luz suficiente para apreciar bien la vista.
 
@@ -54,7 +54,7 @@ Reserve una hora para las torres o inclúyalas en una ruta de media jornada por 
 
 ## Cómo visitarlas como un valenciano
 
-Evite las aglomeraciones del mediodía en fin de semana. Los valencianos que cruzan los jardines suelen pasar por aquí a primera hora o cuando refresca al atardecer, dos momentos que coinciden con la franja más tranquila de 10am–7pm (10am–2pm los domingos) que reflejan los datos de afluencia. Para un monumento de este tamaño no suele hacer falta reserva: basta con hacer cola en la entrada y pagar allí mismo. Lleve monedas o tarjeta, ya que las taquillas de los monumentos valencianos suelen preferir el pago sin contacto.
+Evite las aglomeraciones del mediodía en fin de semana. Los valencianos que cruzan los jardines suelen pasar por aquí a primera hora o cuando refresca al atardecer, y la primera hora coincide con la franja más tranquila de 10am–11am que reflejan los datos de afluencia. Para un monumento de este tamaño no suele hacer falta reserva: basta con hacer cola en la entrada y pagar allí mismo. Lleve monedas o tarjeta, ya que las taquillas de los monumentos valencianos suelen preferir el pago sin contacto.
 
 Vístase pensando en los escalones. La escalera de caracol es de piedra, irregular en algunos tramos, y no hay ascensor, así que el calzado plano importa aquí más que en casi cualquier otro rincón del casco antiguo. El error más habitual es quedarse cinco minutos en la plaza para hacer la foto y marcharse. Lo mejor está arriba, de modo que no se limite a admirar las torres desde la calle y suba hasta el final.
 
