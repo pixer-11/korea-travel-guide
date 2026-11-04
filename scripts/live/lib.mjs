@@ -93,6 +93,35 @@ function retrySlowGoto(page) {
   return page;
 }
 
+// The third way a check reads a page: the browser's own request client
+// (ctx.request — page.request is the same object), which the link sweeps use.
+// 2026-11-04 16:2x KST: one of 976 links in the hubs check came back with no
+// answer, /ko/posts/seoul-exo-planet-6-exhorizon-dot-encore-concert/, and
+// answered 200 three times a minute later. fetch and goto above already gave
+// that one-off a second try; this client did not. Same rule: no answer or a
+// 5xx is tried once more, a link that is really broken answers the same twice.
+export function retryRequest(req, { wait = (ms) => new Promise((r) => setTimeout(r, ms)) } = {}) {
+  if (!req || req.__waRetry) return req;
+  req.__waRetry = true;
+  for (const m of ['get', 'head']) {
+    const call = req[m].bind(req);
+    req[m] = async (url, opts) => {
+      try {
+        const res = await call(url, opts);
+        if (res.status() < 500) return res;
+        console.log(`  (error response ${res.status()}, trying once more: ${url})`);
+        await res.dispose().catch(() => {});
+        await wait(5_000);
+      } catch (e) {
+        console.log(`  (no answer: ${String(e?.message).split('\n')[0]}, trying once more: ${url})`);
+        await wait(3_000);
+      }
+      return call(url, opts);
+    };
+  }
+  return req;
+}
+
 export async function launch() {
   const channel = process.env.PW_CHANNEL || (process.platform === 'win32' ? 'msedge' : 'chrome');
   const b = await chromium.launch({ channel });
@@ -131,6 +160,7 @@ export async function launch() {
       XMLHttpRequest.prototype.send = function (...a) { if (muted.has(this)) { window.__waMutedBeacons++; return undefined; } return xsend.apply(this, a); };
     }, CF_RUM_SOURCE);
     ctx.on('page', retrySlowGoto);
+    retryRequest(ctx.request);
     const newPage = ctx.newPage.bind(ctx);
     ctx.newPage = async () => retrySlowGoto(await newPage());
     return ctx;
