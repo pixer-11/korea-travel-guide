@@ -30,6 +30,7 @@ import { fileURLToPath } from 'node:url';
 import yaml from 'js-yaml';
 import { fixCjkBold, brokenBoldLine, literalBoldCount } from './lib/cjk-bold.mjs';
 import { localizeEnglishDates } from './lib/localize-dates.mjs';
+import { localizeClock } from './lib/localize-clock.mjs';
 import { reflow } from '../src/lib/paragraphs.mjs';
 import { koMangledSyllables } from './lib/ko-syllables.mjs';
 // The nightly audit and this write gate judge wrong-language output by the
@@ -733,7 +734,10 @@ async function translateOne(langCode, srcId, data, hash, attempt = 1, pre = null
 
   // An English date the model left as it was ("November 22, 2026에") becomes
   // the language's own date — a rewrite, not a model call (lib/localize-dates, 10-09).
-  const D = (t) => (typeof t === 'string' ? localizeEnglishDates(t, langCode) : t);
+  // An English clock time the same way ("11am至6pm" → 上午11点至下午6点): the
+  // prompt's KEEP AS-IS keeps the value, the rule writes it as the crowd box
+  // beside it does (lib/localize-clock, 11-04).
+  const D = (t) => (typeof t === 'string' ? localizeClock(localizeEnglishDates(t, langCode), langCode) : t);
   out.title = D(out.title);
   out.description = D(out.description);
   out.quickAnswer = D(out.quickAnswer);

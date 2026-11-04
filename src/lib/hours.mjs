@@ -11,7 +11,29 @@
 // Korean, Japanese and Chinese put the meridiem BEFORE the number and add a
 // unit after it: 오전 9~10시, not "9–10 오전", which is what this printed for
 // every CJK reader until now.
-const MERIDIEM_FIRST = { ko: '시', ja: '時', zh: '点' };
+export const MERIDIEM_FIRST = { ko: '시', ja: '時', zh: '点' };
+
+// The word Japanese and Chinese put in front of a clock hour. Measured
+// 2026-11-04 on the times the translator had already written in its own
+// language (15,600 in zh, 15,100 in ja): Chinese names the part of the day —
+// 早上7点, 上午10点, 中午12点, 下午3点, 晚上9点, 凌晨1点, 午夜12点 — and Japanese
+// splits it in two, 午前9時 / 午後9時; neither puts a space after the word.
+// Korean (오전 9시, 오후 9시, with a space) keeps the caller's 오전/오후. The
+// crowd box printed 「下午 9点」 and 「午前 9時」 until then: a space neither
+// language writes, and 下午 for an hour Chinese calls 晚上 — while
+// BestTimeTool's own label already wrote 午前9時.
+const ZH_WORD = (x) => (x === 0 ? '午夜' : x <= 4 ? '凌晨' : x <= 8 ? '早上' : x <= 11 ? '上午' : x === 12 ? '中午' : x <= 18 ? '下午' : '晚上');
+const NO_SPACE = new Set(['ja', 'zh']);
+/** The word before hour `x` (0–23) in Japanese or Chinese; null elsewhere. */
+export function clockWord(x, lang) {
+  if (lang === 'zh') return ZH_WORD(x);
+  if (lang === 'ja') return x < 12 ? '午前' : '午後';
+  return null;
+}
+// Midnight is 午前0時 in Japanese (午前12時 reads as noon to many), 午夜12点 in Chinese.
+export const clockNumber = (x, lang) => (lang === 'ja' && x === 0 ? 0 : x % 12 || 12);
+// 早上 and 上午 are both "morning": a range across them names the morning once.
+const sameWord = (a, b) => a === b || (/^(早上|上午)$/.test(a) && /^(早上|上午)$/.test(b));
 
 // One clock hour, in the reader's language. BestTimeTool.astro had its own
 // private copy that always said "7am"/"9pm", so every localized /tools/best-time/
@@ -19,11 +41,17 @@ const MERIDIEM_FIRST = { ko: '시', ja: '時', zh: '点' };
 // 689 cards, with the surrounding labels translated around them:
 // 「가장 한산한 시간 7am–8am」. The rule this file already encodes is that ko/ja/zh
 // put the meridiem FIRST and the number second, with a unit: 오전 7시.
+// Japanese noon is 正午: 984 to 125 for 午後12時 in the corpus, and 午後12時 is
+// midnight under the Meiji decree, so 「午前10時~午後12時」 could read as "until
+// midnight" (native review, 11-04).
+const JA_NOON = '正午';
 export function formatHour(h, { am = 'AM', pm = 'PM', lang = 'en' } = {}) {
   const x = ((Number(h) % 24) + 24) % 24;
+  const unit = MERIDIEM_FIRST[lang];
+  if (lang === 'ja' && x === 12) return JA_NOON;
+  if (NO_SPACE.has(lang)) return `${clockWord(x, lang)}${clockNumber(x, lang)}${unit}`;
   const n = x % 12 === 0 ? 12 : x % 12;
   const mer = x < 12 ? am : pm;
-  const unit = MERIDIEM_FIRST[lang];
   return unit ? `${mer} ${n}${unit}` : `${n}${mer.toLowerCase()}`;
 }
 
@@ -34,6 +62,7 @@ export function formatHourRanges(hours, { am = 'AM', pm = 'PM', lang = 'en' } = 
 
   const f = (h) => {
     const x = ((h % 24) + 24) % 24;
+    if (NO_SPACE.has(lang)) return { t: clockNumber(x, lang), m: clockWord(x, lang) };
     return { t: x % 12 === 0 ? 12 : x % 12, m: x < 12 ? am : pm };
   };
 
@@ -49,12 +78,21 @@ export function formatHourRanges(hours, { am = 'AM', pm = 'PM', lang = 'en' } = 
     .map(([a, b]) => {
       // The end hour is exclusive: quiet through 10:00 means quiet until 11.
       const from = f(a), to = f(b + 1);
+      // A run that ends at 23:00 ends at midnight, which wraps to "AM": saying the
+      // word once read 「午前6~0時」 / "6–12 AM", backwards (native review, 11-04).
+      const wraps = b + 1 >= 24;
+      if (NO_SPACE.has(lang)) {
+        const label = (x, p) => (lang === 'ja' && x === 12 ? JA_NOON : `${p.m}${p.t}${unit}`);
+        return sameWord(from.m, to.m) && !wraps && !(lang === 'ja' && (a === 12 || b + 1 === 12))
+          ? `${from.m}${from.t}~${to.t}${unit}`
+          : `${label(a % 24, from)}~${label((b + 1) % 24, to)}`;
+      }
       if (unit) {
-        return from.m === to.m
+        return from.m === to.m && !wraps
           ? `${to.m} ${from.t}~${to.t}${unit}`
           : `${from.m} ${from.t}${unit}~${to.m} ${to.t}${unit}`;
       }
-      return from.m === to.m ? `${from.t}–${to.t} ${to.m}` : `${from.t} ${from.m}–${to.t} ${to.m}`;
+      return from.m === to.m && !wraps ? `${from.t}–${to.t} ${to.m}` : `${from.t} ${from.m}–${to.t} ${to.m}`;
     })
     .join(', ');
 }
@@ -98,7 +136,19 @@ export function localizeOpeningLine(line, lang, { am = 'AM', pm = 'PM' } = {}) {
 
   // "8:00 AM" → "오전 8:00" for the languages that lead with the meridiem;
   // Spanish keeps the number first and simply drops the English marker.
-  if (MERIDIEM_FIRST[lang]) {
+  // Japanese and Chinese take the same word as the crowd box, with no space
+  // (午前8:00, 晚上9:00). Google's number stays as given except at midnight:
+  // Japanese 12:00 AM is 午前0:00 (午前12:00 reads as noon — a bar open until
+  // midnight looked shut at midday), and Chinese 12:30 AM is 凌晨0:30, as the prose writes it.
+  if (NO_SPACE.has(lang)) {
+    out = out.replace(/(\d{1,2}):(\d{2})\s*(AM|PM)/g, (_, h, mm, mer) => {
+      const x = (Number(h) % 12) + (mer === 'PM' ? 12 : 0);
+      if (lang === 'zh' && x === 0 && mm !== '00') return `凌晨0:${mm}`;
+      // Japanese noon as the box writes it: 正午, and 12:30 PM 午後0:30 (Codex, 11-04).
+      if (lang === 'ja' && x === 12) return mm === '00' ? JA_NOON : `午後0:${mm}`;
+      return `${clockWord(x, lang)}${lang === 'ja' ? clockNumber(x, lang) : h}:${mm}`;
+    });
+  } else if (MERIDIEM_FIRST[lang]) {
     out = out.replace(/(\d{1,2}:\d{2})\s*(AM|PM)/g, (_, t, mer) => `${mer === 'AM' ? am : pm} ${t}`);
   } else {
     out = out.replace(/\s*(AM|PM)\b/g, (_, mer) => ` ${mer === 'AM' ? am : pm}`);

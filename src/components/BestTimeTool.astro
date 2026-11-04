@@ -185,8 +185,8 @@ const hourLabel = (h: number | undefined) => {
   const x = ((h % 24) + 24) % 24;
   const h12 = x % 12 || 12;
   if (lang === 'ko') return `${x < 12 ? '오전' : '오후'} ${h12}시`;
-  if (lang === 'ja') return `${x < 12 ? '午前' : '午後'}${h12}時`;
-  if (lang === 'zh') return `${x < 12 ? '上午' : '下午'}${h12}点`;
+  // Same word as every other clock on the site (晚上9点, not 下午9点): lib/hours.
+  if (lang === 'ja' || lang === 'zh') return formatHour(x, { lang });
   return `${h12} ${x < 12 ? 'AM' : 'PM'}`;
 };
 const morningPct = wdQuietTotal ? Math.round((morningCount / wdQuietTotal) * 100) : 0;
@@ -438,10 +438,16 @@ const cityCountry = new Map(index.map((d) => [d.r, d.c] as const));
 const chartRows = cityRows.map((r, i) => { const h = hourOf.get(r.city) ?? 10; return { ...r, hour: hr(h), i, h, country: cityCountry.get(r.city) ?? '' }; });
 const morningRows = chartRows.filter((r) => r.h < 11);
 const eveningRows = chartRows.filter((r) => r.h >= 17);
+// The morning span, said the box's way in ko/ja/zh — 「早上8~10点」, not
+// 「早上8点–上午10点」 — and one hour when both ends meet (native review, 11-04).
+const mornA = Math.min(...morningRows.map((r) => r.h), 10), mornB = Math.max(...morningRows.map((r) => r.h), 10);
+const mornSpan = mornA === mornB ? hr(mornA)
+  : ['ko', 'ja', 'zh'].includes(lang) ? (formatHourRanges(Array.from({ length: mornB - mornA }, (_, i) => mornA + i), { ...AMPM, lang }) ?? hr(mornA))
+  : `${hr(mornA)}–${hr(mornB)}`;
 const chartInsight = chartRows.length
   ? (eveningRows.length
-      ? T.insightB(chartRows.length, morningRows.length, `${hr(Math.min(...morningRows.map((r) => r.h), 10))}–${hr(Math.max(...morningRows.map((r) => r.h), 10))}`, eveningRows.map((r) => `${r.city}${lang === 'en' || lang === 'es' ? ' ' : ''}(${r.hour})`).join(', '))
-      : T.insightA(chartRows.length, morningRows.length, `${hr(Math.min(...morningRows.map((r) => r.h), 10))}–${hr(Math.max(...morningRows.map((r) => r.h), 10))}`))
+      ? T.insightB(chartRows.length, morningRows.length, mornSpan, eveningRows.map((r) => `${r.city}${lang === 'en' || lang === 'es' ? ' ' : ''}(${r.hour})`).join(', '))
+      : T.insightA(chartRows.length, morningRows.length, mornSpan))
   : '';
 const CLOCKS = [['Seoul', 'Asia/Seoul'], ['Bangkok', 'Asia/Bangkok'], ['Paris', 'Europe/Paris'], ['New York', 'America/New_York']].map(([c, tz]) => ({ name: localizePlace(c, lang), tz }));
 const pageAbs = siteHref(localizePath('/tools/best-time', lang), Astro.site);
