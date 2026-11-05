@@ -883,6 +883,12 @@
   "reasonKo": "알란야 성과 해안 도시 전망",
   "at": "2026-08-14T13:58:38.835Z"
  },
+ "alanya-alanya-lighthouse\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Alanya_Lighthouse_5748.jpg/3840px-Alanya_Lighthouse_5748.jpg": {
+  "slug": "alanya-alanya-lighthouse",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows lighthouse in Alanya coastal setting, representative view",
+  "at": "2026-11-05T07:49:41.371Z"
+ },
  "alanya-damlatas-cave\u0001https://fastly.4sqi.net/img/general/original/573551664_FQomjbIWM0LWN-NVYBytHFZv0A4Vkp3j62dCtyl-sFY.jpg": {
   "slug": "alanya-damlatas-cave",
   "verdict": "MATCH",
@@ -7176,6 +7182,12 @@
   "reason": "publish gate: Shows museum building with bridge, matches venue location",
   "at": "2026-09-03T10:38:34.157Z"
  },
+ "chiayi-taiping-old-street\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/%E6%96%97%E5%85%AD%E5%A4%AA%E5%B9%B3%E8%80%81%E8%A1%97_Douliu_Taiping_Old_Street_-_panoramio.jpg/3840px-%E6%96%97%E5%85%AD%E5%A4%AA%E5%B9%B3%E8%80%81%E8%A1%97_Douliu_Taiping_Old_Street_-_panoramio.jpg": {
+  "slug": "chiayi-taiping-old-street",
+  "verdict": "MATCH",
+  "reason": "publish gate: Representative street view of old street with signage and architecture",
+  "at": "2026-11-05T07:49:41.473Z"
+ },
  "chiayi-wenhua-road-night-market\u0001https://upload.wikimedia.org/wikipedia/commons/3/30/%E5%98%89%E7%BE%A9%E6%96%87%E5%8C%96%E8%B7%AF%E5%A4%9C%E5%B8%82.jpg": {
   "slug": "chiayi-wenhua-road-night-market",
   "verdict": "MATCH",
@@ -7600,6 +7612,12 @@
   "verdict": "MATCH",
   "reason": "event publish gate: Concert stage performance, matches event type",
   "at": "2026-11-02T00:11:34.483Z"
+ },
+ "christchurch-the-bealey\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/62_Bealey_Ave%2C_Christchurch%2C_New_Zealand.jpg/3840px-62_Bealey_Ave%2C_Christchurch%2C_New_Zealand.jpg": {
+  "slug": "christchurch-the-bealey",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of building plausibly matching venue type and locale",
+  "at": "2026-11-05T07:49:41.332Z"
  },
  "chuncheon-1-5-dakgalbi\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Dakgalbi.jpg/1920px-Dakgalbi.jpg": {
   "slug": "chuncheon-1-5-dakgalbi",
@@ -10126,6 +10144,12 @@
   "reason": "Hindu temple with characteristic architecture, pond, red-til",
   "reasonKo": "힌두 사원, 특징적 건축, 연못, 빨간 기와",
   "at": "2026-08-15T13:11:13.650Z"
+ },
+ "goa-st-augustine-tower-goa\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Church_of_St._Augustine%2C_St._Augustine_Tower_Goa_vrvbgoa2k24_%28132%29.jpg/3840px-Church_of_St._Augustine%2C_St._Augustine_Tower_Goa_vrvbgoa2k24_%28132%29.jpg": {
+  "slug": "goa-st-augustine-tower-goa",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows ruined tower/laterite remains, representative of site",
+  "at": "2026-11-05T07:49:41.505Z"
  },
  "goa-sunburn-festival-goa\u0001https://upload.wikimedia.org/wikipedia/commons/a/ab/Sunburnfestivalstage.JPG": {
   "slug": "goa-sunburn-festival-goa",
@@ -16457,6 +16481,12 @@
   "reason": "publish gate: Park view with trees, people, city skyline, plausible hero shot",
   "at": "2026-08-20T08:14:03.153Z"
  },
+ "konya-karatay-madrasa\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Konya_Karatay_Ceramics_Museum_2829.jpg/1920px-Konya_Karatay_Ceramics_Museum_2829.jpg": {
+  "slug": "konya-karatay-madrasa",
+  "verdict": "MATCH",
+  "reason": "publish gate: Representative exterior view of Karatay Madrasa with dome",
+  "at": "2026-11-05T07:49:41.442Z"
+ },
  "konya-konya-tropical-butterfly-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Cethosia_cyane_-_Leopard_Lacewing_05.jpg/1920px-Cethosia_cyane_-_Leopard_Lacewing_05.jpg": {
   "slug": "konya-konya-tropical-butterfly-garden",
   "verdict": "MATCH",
@@ -17824,6 +17854,12 @@
   "reason": "Traditional Lijiang architecture with snow-capped mountains",
   "reasonKo": "전통 리장 건축과 설산 배경",
   "at": "2026-08-11T14:03:45.497Z"
+ },
+ "lima-archbishop-s-palace-of-lima\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Palacio_Arzobispal%2C_Lima%2C_Per%C3%BA%2C_2015-07-28%2C_DD_62.JPG/1920px-Palacio_Arzobispal%2C_Lima%2C_Per%C3%BA%2C_2015-07-28%2C_DD_62.JPG": {
+  "slug": "lima-archbishop-s-palace-of-lima",
+  "verdict": "MATCH",
+  "reason": "publish gate: Full facade of Archbishop's Palace of Lima, representative hero shot",
+  "at": "2026-11-05T07:49:41.833Z"
  },
  "lima-babymetal-world-tour-2026\u0001https://upload.wikimedia.org/wikipedia/commons/4/45/Babymetal_-_US_Tour_2019_01.jpg": {
   "slug": "lima-babymetal-world-tour-2026",
@@ -21505,6 +21541,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Interior view of Notre-Dame Basilica, recognizable and representative",
   "at": "2026-10-21T13:29:32.456Z"
+ },
+ "montreal-saint-joseph-s-oratory-of-mount-royal\u0001https://upload.wikimedia.org/wikipedia/commons/c/c7/Oratoire_Saint-Joseph_du_Mont-Royal_3.jpg": {
+  "slug": "montreal-saint-joseph-s-oratory-of-mount-royal",
+  "verdict": "MATCH",
+  "reason": "publish gate: Night exterior of Saint Joseph's Oratory dome, representative view",
+  "at": "2026-11-05T07:49:41.409Z"
  },
  "montreal-vieux-port-de-montreal\u0001https://upload.wikimedia.org/wikipedia/commons/7/70/Montreal_Old_port.jpg": {
   "slug": "montreal-vieux-port-de-montreal",
@@ -28232,6 +28274,12 @@
   "reasonKo": "셀축의 고대 사원 유적지 및 기둥",
   "at": "2026-08-12T14:03:54.423Z"
  },
+ "selcuk-trajan-fountain\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Trajan_Fountain%2C_Ephesus_Archaeological_Site%2C_Selcuk%2C_Turkiye_%2853528112479%29.jpg/3840px-Trajan_Fountain%2C_Ephesus_Archaeological_Site%2C_Selcuk%2C_Turkiye_%2853528112479%29.jpg": {
+  "slug": "selcuk-trajan-fountain",
+  "verdict": "MATCH",
+  "reason": "publish gate: Ancient ruin archway matches Ephesus-area monument in Selcuk",
+  "at": "2026-11-05T07:49:41.803Z"
+ },
  "seminyak-32do-bali\u0001https://fastly.4sqi.net/img/general/original/175798956_YXbJ5H1a4OlNZA2RffpsblYGjzFQdxEAEQvbEbw3lRw.jpg": {
   "slug": "seminyak-32do-bali",
   "verdict": "MISMATCH",
@@ -32816,6 +32864,12 @@
   "reason": "patrol re-check: Bukit Larut sign with misty hillside road, representative of venue",
   "at": "2026-08-16T20:34:19.461Z"
  },
+ "taiping-clock-tower\u0001https://upload.wikimedia.org/wikipedia/commons/b/b2/Clock_Tower%2C_Taiping.jpg": {
+  "slug": "taiping-clock-tower",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows clock tower building with crowd in Taiping",
+  "at": "2026-11-05T07:49:41.535Z"
+ },
  "taiping-perak-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Museum_Perak_Taiping.jpg/1920px-Museum_Perak_Taiping.jpg": {
   "slug": "taiping-perak-museum",
   "verdict": "MATCH",
@@ -35629,6 +35683,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Podcast setting, not Koyote performance or venue",
   "at": "2026-11-02T01:09:22.313Z"
+ },
+ "vancouver-lonsdale-quay-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Lonsdale_Quay%2C_Vancouver_%28470103%29_%289444274772%29.jpg/3840px-Lonsdale_Quay%2C_Vancouver_%28470103%29_%289444274772%29.jpg": {
+  "slug": "vancouver-lonsdale-quay-market",
+  "verdict": "MATCH",
+  "reason": "publish gate: Interior market view with stalls, plausible for Lonsdale Quay",
+  "at": "2026-11-05T07:49:41.272Z"
  },
  "vancouver-museum-of-anthropology-at-ubc\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Museum_of_Anthropology_UBC_01.jpg/1920px-Museum_of_Anthropology_UBC_01.jpg": {
   "slug": "vancouver-museum-of-anthropology-at-ubc",

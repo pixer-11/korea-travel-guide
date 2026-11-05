@@ -39268,5 +39268,89 @@
   "registerBreak": false,
   "worst": "이프트포스(EFTPOS) 직불 결제는 어디서나 됩니다.",
   "at": "2026-11-04T07:48:13.463Z"
+ },
+ "es/alanya-alanya-lighthouse": {
+  "hash": "e835c7113f01",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Según la información actual, el Faro de Alanya abre de 9am–5pm todos los días",
+  "at": "2026-11-05T07:56:46.048Z"
+ },
+ "es/chiayi-taiping-old-street": {
+  "hash": "65a6cf56c5dd",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "La mayoría de los visitantes acude atraída por tres cosas a la vez: las fachadas...",
+  "at": "2026-11-05T07:56:47.274Z"
+ },
+ "es/christchurch-the-bealey": {
+  "hash": "807e7de711e8",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "A The Bealey se puede llegar andando desde buena parte de la cuadrícula del centro",
+  "at": "2026-11-05T07:56:48.441Z"
+ },
+ "ja/alanya-alanya-lighthouse": {
+  "hash": "646f86b4e0a9",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "これほどの景色をほとんど苦労せずに楽しめるからこそ、高い評価が途切れないのでしょう。",
+  "at": "2026-11-05T07:56:53.740Z"
+ },
+ "ja/chiayi-taiping-old-street": {
+  "hash": "d95c785b3093",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "訪れる人の多くは、日本統治時代の店構え、軒先で売られる軽食、そして村のすぐ外にある吊り橋の三つをまとめて楽しみに来ます。",
+  "at": "2026-11-05T07:56:55.076Z"
+ },
+ "ja/christchurch-the-bealey": {
+  "hash": "f3b1f0b52aeb",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "立地を見れば客層もおのずとわかります。",
+  "at": "2026-11-05T07:56:56.306Z"
+ },
+ "ko/alanya-alanya-lighthouse": {
+  "hash": "867d8edc4863",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "매점에서는 \"메르하바\"(안녕하세요)와 \"테셰퀴를레르\"(감사합니다)라고 인사해 보세요.",
+  "at": "2026-11-05T07:56:57.633Z"
+ },
+ "ko/chiayi-taiping-old-street": {
+  "hash": "894fba33c972",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이 여행을 특별하게 만드는 것은 바로 길입니다.",
+  "at": "2026-11-05T07:57:03.028Z"
+ },
+ "ko/christchurch-the-bealey": {
+  "hash": "64febc67f6b4",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이렇게 많은 손님을 받는 곳에서 이 정도 평가라면 대개 새로운 시도보다는 믿고 먹을 수 있는 맛이라는 뜻입니다.",
+  "at": "2026-11-05T07:57:14.390Z"
+ },
+ "zh/alanya-alanya-lighthouse": {
+  "hash": "c2e7a5975fc9",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "目前，阿兰亚灯塔标注的开放时间为每周七天、上午9点至下午5点。",
+  "at": "2026-11-05T07:57:15.624Z"
+ },
+ "zh/chiayi-taiping-old-street": {
+  "hash": "da2059814199",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "这趟行程的与众不同，很大程度上在于这条路。",
+  "at": "2026-11-05T07:57:19.843Z"
+ },
+ "zh/christchurch-the-bealey": {
+  "hash": "ac478434580f",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "累计评价早已过千，评分一直很稳定。一家接待这么多客人的店能做到这一点，通常说明它胜在靠谱，而不是追求新奇。",
+  "at": "2026-11-05T07:57:21.191Z"
  }
 }
