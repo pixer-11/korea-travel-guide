@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: amritsar-gobindgarh-fort
-srcHash: '57fea121f757'
+srcHash: '7bd469fcbdef'
 title: 'Fuerte Gobindgarh: guía de viaje de Amritsar (4.3★)'
-description: El Fuerte Gobindgarh (Gobindgarh Fort) es una fortaleza de ladrillo del siglo XVIII situada en Old Cantt Road, en Amritsar, a poca distancia del Templo Dorado en e-rickshaw. Dentro de sus murallas hay un museo de guerra, espectáculos en directo y puestos de comida punyabí. Tiene una valoración de 4.3★ (15,557 reseñas). Aquí encontrará la opinión de los visitantes, los horarios y consejos prácticos.
+description: El Fuerte Gobindgarh (Gobindgarh Fort) es una fortaleza de ladrillo del siglo XVIII situada en Old Cantt Road, en Amritsar, a poca distancia del Templo Dorado en e-rickshaw. Dentro de sus murallas hay un museo de guerra, espectáculos en directo y puestos de comida punyabí. Tiene una valoración de 4.3★ (15,558 reseñas). Aquí encontrará la opinión de los visitantes, los horarios y consejos prácticos.
 quickAnswer: El Fuerte Gobindgarh, en Amritsar, es una fortaleza de ladrillo del siglo XVIII que se alza en Old Cantt Road, a un breve trayecto en e-rickshaw del Templo Dorado. Sus murallas albergan un museo de guerra, espectáculos en directo y puestos de comida punyabí. Actualmente abre de 10am a 10pm. Entre semana, los momentos más tranquilos son de 10am a 12pm y de 9pm a 10pm. En fin de semana conviene llegar a las 10am, porque entre la 1pm y las 2pm y a partir de las 5pm ya hay mucha gente.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Fuerte Gobindgarh?

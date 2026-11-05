@@ -1,40 +1,49 @@
 ---
-title: "Gobindgarh Fort: Amritsar Travel Guide (4.3★)"
-description: "Gobindgarh Fort in Amritsar is an 18th-century brick fortress on Old Cantt Road, a short e-rickshaw ride from the Golden Temple, with a war museum, live performances and Punjabi food carts inside its walls. 4.3★ (15,557 reviews) — what visitors say, hours, and tips."
-country: "India"
-region: "Amritsar"
-category: "hidden-gem"
-pubDate: "2026-11-04T07:43:06.289Z"
+title: 'Gobindgarh Fort: Amritsar Travel Guide (4.3★)'
+description: >-
+  Gobindgarh Fort in Amritsar is an 18th-century brick fortress on Old Cantt
+  Road, a short e-rickshaw ride from the Golden Temple, with a war museum, live
+  performances and Punjabi food carts inside its walls. 4.3★ (15,558 reviews) —
+  what visitors say, hours, and tips.
+country: India
+region: Amritsar
+category: hidden-gem
+pubDate: '2026-11-04T07:43:06.289Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Gobindgarh_fort%2C_Amritsar%2C_Punjab%2C_India.jpg/1920px-Gobindgarh_fort%2C_Amritsar%2C_Punjab%2C_India.jpg"
-  credit: "Photo: Harvinder Chandigarh / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Gobindgarh_fort,_Amritsar,_Punjab,_India.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Gobindgarh_fort%2C_Amritsar%2C_Punjab%2C_India.jpg/1920px-Gobindgarh_fort%2C_Amritsar%2C_Punjab%2C_India.jpg
+  credit: 'Photo: Harvinder Chandigarh / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Gobindgarh_fort,_Amritsar,_Punjab,_India.jpg
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJA5rC0LJkGTkR6-nesxPbNSA"
-  name: "Gobindgarh Fort"
-  address: "Old Cantt Road, Vijay Chowk, inside Lohgarh Chowk, Gobind Garh Fort, Amritsar, Punjab 143001, India"
+  id: ChIJA5rC0LJkGTkR6-nesxPbNSA
+  name: Gobindgarh Fort
+  address: >-
+    Old Cantt Road, Vijay Chowk, inside Lohgarh Chowk, Gobind Garh Fort,
+    Amritsar, Punjab 143001, India
   rating: 4.3
-  userRatingsTotal: 15557
-  googleMapsUrl: "https://maps.google.com/?cid=2321002060647950827&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 15558
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2321002060647950827&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 31.626903
   lng: 74.86005399999999
-  phone: "+91 82890 21218"
+  phone: +91 82890 21218
   openingHours:
-    - "Monday: 10:00 AM – 10:00 PM"
-    - "Tuesday: 10:00 AM – 10:00 PM"
-    - "Wednesday: 10:00 AM – 10:00 PM"
-    - "Thursday: 10:00 AM – 10:00 PM"
-    - "Friday: 10:00 AM – 10:00 PM"
-    - "Saturday: 10:00 AM – 10:00 PM"
-    - "Sunday: 10:00 AM – 10:00 PM"
+    - 'Monday: 10:00 AM – 10:00 PM'
+    - 'Tuesday: 10:00 AM – 10:00 PM'
+    - 'Wednesday: 10:00 AM – 10:00 PM'
+    - 'Thursday: 10:00 AM – 10:00 PM'
+    - 'Friday: 10:00 AM – 10:00 PM'
+    - 'Saturday: 10:00 AM – 10:00 PM'
+    - 'Sunday: 10:00 AM – 10:00 PM'
   busyness:
-    updated: 2026-11-04
+    updated: 2026-11-04T00:00:00.000Z
     weekdayQuiet:
       - 10
       - 11
@@ -48,24 +57,44 @@ place:
       - 19
       - 20
       - 21
-    venueId: "ven_41534e62507873656e2d36526b54476b4a4c30437235414a496843"
+    venueId: ven_41534e62507873656e2d36526b54476b4a4c30437235414a496843
 tags:
-  - "amritsar"
-  - "old quarter"
-quickAnswer: "Gobindgarh Fort in Amritsar is an 18th-century brick fortress on Old Cantt Road, a short e-rickshaw ride from the Golden Temple, with a war museum, live performances and Punjabi food carts inside its walls. It currently opens 10am–10pm. Weekdays are calmest from 10am–12pm and again from 9pm–10pm; on weekends, arrive at 10am, because by 1pm–2pm and from 5pm the crowds have built."
+  - amritsar
+  - old quarter
+quickAnswer: >-
+  Gobindgarh Fort in Amritsar is an 18th-century brick fortress on Old Cantt
+  Road, a short e-rickshaw ride from the Golden Temple, with a war museum, live
+  performances and Punjabi food carts inside its walls. It currently opens
+  10am–10pm. Weekdays are calmest from 10am–12pm and again from 9pm–10pm; on
+  weekends, arrive at 10am, because by 1pm–2pm and from 5pm the crowds have
+  built.
 faq:
-  - q: "When is the quietest time to visit Gobindgarh Fort?"
-    a: "On weekdays it's quietest from 10am to 12pm and from 9pm to 10pm. On weekends only 10am–11am is quiet. Avoid 1pm–2pm and 5pm–10pm on weekends, which are the busiest times."
-  - q: "How do I get to Gobindgarh Fort from the Golden Temple?"
-    a: "Take an e-rickshaw or auto-rickshaw to Old Cantt Road near Vijay Chowk and Lohgarh Chowk, a few minutes' ride across the old city. Agree the fare first, or use a ride-hailing app."
-  - q: "How long should I spend at Gobindgarh Fort?"
-    a: "Plan on two to three hours for the war museum, the Toshakhana and the ramparts. Allow longer if you're staying for an evening performance and dinner at the food carts."
-  - q: "What are the opening hours?"
-    a: "At the moment it opens 10am–10pm. Hours can change with the season and on holidays, so check the official site before you visit."
-  - q: "Can I combine it with the Wagah border ceremony?"
-    a: "Yes. The ceremony runs in the late afternoon, so visit the fort in the quiet 10am–12pm weekday window, then head out to the border."
+  - q: When is the quietest time to visit Gobindgarh Fort?
+    a: >-
+      On weekdays it's quietest from 10am to 12pm and from 9pm to 10pm. On
+      weekends only 10am–11am is quiet. Avoid 1pm–2pm and 5pm–10pm on weekends,
+      which are the busiest times.
+  - q: How do I get to Gobindgarh Fort from the Golden Temple?
+    a: >-
+      Take an e-rickshaw or auto-rickshaw to Old Cantt Road near Vijay Chowk and
+      Lohgarh Chowk, a few minutes' ride across the old city. Agree the fare
+      first, or use a ride-hailing app.
+  - q: How long should I spend at Gobindgarh Fort?
+    a: >-
+      Plan on two to three hours for the war museum, the Toshakhana and the
+      ramparts. Allow longer if you're staying for an evening performance and
+      dinner at the food carts.
+  - q: What are the opening hours?
+    a: >-
+      At the moment it opens 10am–10pm. Hours can change with the season and on
+      holidays, so check the official site before you visit.
+  - q: Can I combine it with the Wagah border ceremony?
+    a: >-
+      Yes. The ceremony runs in the late afternoon, so visit the fort in the
+      quiet 10am–12pm weekday window, then head out to the border.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-05'
 ---
 
 ## Ramparts built for cannon, now open to visitors

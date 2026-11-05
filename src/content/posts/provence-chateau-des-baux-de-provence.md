@@ -1,45 +1,53 @@
 ---
-title: "Château des Baux-de-Provence: Travel Guide (4.6★)"
-description: "Château des Baux-de-Provence is the ruined medieval fortress at the top of the hilltop village of Les Baux-de-Provence, in the Alpilles hills between Arles and Saint-Rémy-de-Provence. 4.6★ (17,236 reviews) — what visitors say, hours, and tips."
-country: "France"
-region: "Provence"
-category: "hidden-gem"
-pubDate: "2026-11-04T07:43:00.105Z"
+title: 'Château des Baux-de-Provence: Travel Guide (4.6★)'
+description: >-
+  Château des Baux-de-Provence is the ruined medieval fortress at the top of the
+  hilltop village of Les Baux-de-Provence, in the Alpilles hills between Arles
+  and Saint-Rémy-de-Provence. 4.6★ (17,237 reviews) — what visitors say, hours,
+  and tips.
+country: France
+region: Provence
+category: hidden-gem
+pubDate: '2026-11-04T07:43:00.105Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Chateau_des_Baux_de_Provence.JPG/3840px-Chateau_des_Baux_de_Provence.JPG"
-  credit: "Photo: Federfabbri / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Chateau_des_Baux_de_Provence.JPG"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Chateau_des_Baux_de_Provence.JPG/3840px-Chateau_des_Baux_de_Provence.JPG
+  credit: 'Photo: Federfabbri / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Chateau_des_Baux_de_Provence.JPG'
+  via: act
   focus:
     x: 40
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Drinking_fountain_Ch%C3%A2teau_des_Baux-de-Provence%2C_Les_Baux-de-Provence%2C_Francia_Aug_01%2C_2022_03-24-33_PM.jpeg/3840px-Drinking_fountain_Ch%C3%A2teau_des_Baux-de-Provence%2C_Les_Baux-de-Provence%2C_Francia_Aug_01%2C_2022_03-24-33_PM.jpeg"
-    credit: "Photo: Dieterdreist / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Drinking_fountain_Ch%C3%A2teau_des_Baux-de-Provence,_Les_Baux-de-Provence,_Francia_Aug_01,_2022_03-24-33_PM.jpeg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Drinking_fountain_Ch%C3%A2teau_des_Baux-de-Provence%2C_Les_Baux-de-Provence%2C_Francia_Aug_01%2C_2022_03-24-33_PM.jpeg/3840px-Drinking_fountain_Ch%C3%A2teau_des_Baux-de-Provence%2C_Les_Baux-de-Provence%2C_Francia_Aug_01%2C_2022_03-24-33_PM.jpeg
+    credit: 'Photo: Dieterdreist / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Drinking_fountain_Ch%C3%A2teau_des_Baux-de-Provence,_Les_Baux-de-Provence,_Francia_Aug_01,_2022_03-24-33_PM.jpeg
 place:
-  id: "ChIJj5yaF2nhtRIRWi7hirpayzQ"
-  name: "Château des Baux-de-Provence"
-  address: "Rue du Trencat, 13520 Les Baux-de-Provence, France"
+  id: ChIJj5yaF2nhtRIRWi7hirpayzQ
+  name: Château des Baux-de-Provence
+  address: 'Rue du Trencat, 13520 Les Baux-de-Provence, France'
   rating: 4.6
-  userRatingsTotal: 17236
-  googleMapsUrl: "https://maps.google.com/?cid=3804234067484946010&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 17237
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3804234067484946010&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 43.742448499999995
   lng: 4.7943839
-  phone: "+33 4 90 54 34 39"
+  phone: +33 4 90 54 34 39
   openingHours:
-    - "Monday: 10:00 AM – 5:00 PM"
-    - "Tuesday: 10:00 AM – 5:00 PM"
-    - "Wednesday: 10:00 AM – 5:00 PM"
-    - "Thursday: 10:00 AM – 5:00 PM"
-    - "Friday: 10:00 AM – 5:00 PM"
-    - "Saturday: 10:00 AM – 5:00 PM"
-    - "Sunday: 10:00 AM – 5:00 PM"
+    - 'Monday: 10:00 AM – 5:00 PM'
+    - 'Tuesday: 10:00 AM – 5:00 PM'
+    - 'Wednesday: 10:00 AM – 5:00 PM'
+    - 'Thursday: 10:00 AM – 5:00 PM'
+    - 'Friday: 10:00 AM – 5:00 PM'
+    - 'Saturday: 10:00 AM – 5:00 PM'
+    - 'Sunday: 10:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-11-04
+    updated: 2026-11-04T00:00:00.000Z
     weekdayQuiet:
       - 10
     weekendQuiet:
@@ -50,24 +58,45 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_517a79617072696837695752495274686e32466179356a4a496843"
+    venueId: ven_517a79617072696837695752495274686e32466179356a4a496843
 tags:
-  - "provence"
-  - "old quarter"
-quickAnswer: "Château des Baux-de-Provence is the ruined medieval fortress at the top of the hilltop village of Les Baux-de-Provence, in the Alpilles hills between Arles and Saint-Rémy-de-Provence. It is calmest between 10am and 11am every day, and busiest on weekends from 12pm to 5pm. Plan on about 1.5–2 hours, and check the official site for this month's hours, because they change with the season."
+  - provence
+  - old quarter
+quickAnswer: >-
+  Château des Baux-de-Provence is the ruined medieval fortress at the top of the
+  hilltop village of Les Baux-de-Provence, in the Alpilles hills between Arles
+  and Saint-Rémy-de-Provence. It is calmest between 10am and 11am every day, and
+  busiest on weekends from 12pm to 5pm. Plan on about 1.5–2 hours, and check the
+  official site for this month's hours, because they change with the season.
 faq:
-  - q: "When is the quietest time to visit the Château des Baux-de-Provence?"
-    a: "It is typically quietest from 10am to 11am, on both weekdays and weekends. Try not to arrive between 12pm and 5pm on weekends, which is the busiest stretch."
-  - q: "How long should I spend at the castle?"
-    a: "Allow about 1.5–2 hours to see the keep, towers, chapel and siege engines. Add time if you want to watch a summer demonstration or visit the nearby Carrières des Lumières."
-  - q: "How do I get to Les Baux-de-Provence?"
-    a: "Most visitors drive from Saint-Rémy-de-Provence or Arles and park in the paid car parks below the village. No cars are allowed in the village, so you walk up the cobbled lanes to the entrance on Rue du Trencat. Public transport into the Alpilles is limited."
-  - q: "Are the siege engines demonstrated every day?"
-    a: "The replica trebuchet and other engines are on display on the plateau. The live demonstrations and costumed events take place in summer, so check the official programme for dates and times."
-  - q: "What are the opening hours?"
-    a: "At the moment the castle opens 10am–5pm daily. Hours change through the year, so check the official site for the current month before you go."
+  - q: When is the quietest time to visit the Château des Baux-de-Provence?
+    a: >-
+      It is typically quietest from 10am to 11am, on both weekdays and weekends.
+      Try not to arrive between 12pm and 5pm on weekends, which is the busiest
+      stretch.
+  - q: How long should I spend at the castle?
+    a: >-
+      Allow about 1.5–2 hours to see the keep, towers, chapel and siege engines.
+      Add time if you want to watch a summer demonstration or visit the nearby
+      Carrières des Lumières.
+  - q: How do I get to Les Baux-de-Provence?
+    a: >-
+      Most visitors drive from Saint-Rémy-de-Provence or Arles and park in the
+      paid car parks below the village. No cars are allowed in the village, so
+      you walk up the cobbled lanes to the entrance on Rue du Trencat. Public
+      transport into the Alpilles is limited.
+  - q: Are the siege engines demonstrated every day?
+    a: >-
+      The replica trebuchet and other engines are on display on the plateau. The
+      live demonstrations and costumed events take place in summer, so check the
+      official programme for dates and times.
+  - q: What are the opening hours?
+    a: >-
+      At the moment the castle opens 10am–5pm daily. Hours change through the
+      year, so check the official site for the current month before you go.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-05'
 ---
 
 ## A fortress cut from the rock

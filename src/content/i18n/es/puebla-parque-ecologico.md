@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: puebla-parque-ecologico
-srcHash: '99542b09384e'
+srcHash: 'd8ce61b36300'
 title: 'Parque Ecológico: guía de viaje de Puebla (4.6★)'
 description: En la colonia Azcarate, sobre la Calle 24 Sur, el Parque Ecológico de Puebla ocupa 58 hectáreas con ciclovías, instalaciones deportivas, juegos infantiles, un aviario y jardines botánicos. Con 4.6★ y 30,216 reseñas, aquí encontrará la opinión de los visitantes, los horarios y algunos consejos.
 quickAnswer: En la colonia Azcarate, sobre la Calle 24 Sur, el Parque Ecológico de Puebla ocupa 58 hectáreas con ciclovías, instalaciones deportivas, juegos infantiles, un aviario y jardines botánicos. Abre todos los días de 6:00 AM a 9:00 PM. Si busca senderos tranquilos, vaya entre semana de 7am–9am; los fines de semana procure no llegar entre las 9am y las 7pm, que es cuando más gente hay.

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: christchurch-riverside-market
-srcHash: 'b21f3525972c'
+srcHash: '294273a8396c'
 title: 'Riverside Market: guía de viaje de Christchurch (4.7★)'
-description: En el número 96 de Oxford Terrace, en pleno centro de Christchurch y a orillas del río Avon, el Riverside Market reúne bajo techo puestos de comida local, restaurantes, cafeterías y bares. Con una valoración de 4.7★ (7,691 reseñas), le contamos qué opinan los visitantes, sus horarios y algunos consejos.
+description: En el número 96 de Oxford Terrace, en pleno centro de Christchurch y a orillas del río Avon, el Riverside Market reúne bajo techo puestos de comida local, restaurantes, cafeterías y bares. Con una valoración de 4.7★ (7,693 reseñas), le contamos qué opinan los visitantes, sus horarios y algunos consejos.
 quickAnswer: En el número 96 de Oxford Terrace, en pleno centro de Christchurch (Christchurch Central City) y a orillas del río Avon, el Riverside Market es un mercado cubierto que reúne puestos de comida local, restaurantes, cafeterías y bares. Todos los días, la franja más tranquila va de 8am a 10am. Conviene evitar los fines de semana entre las 11am y las 7pm, que es cuando hay más gente.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Riverside Market?

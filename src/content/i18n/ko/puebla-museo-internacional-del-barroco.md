@@ -1,9 +1,9 @@
 ---
 lang: ko
 slug: puebla-museo-internacional-del-barroco
-srcHash: '8f54c3a53512'
+srcHash: '6c37d40db335'
 title: 푸에블라 국제 바로크 박물관 여행 가이드 (4.7★)
-description: 국제 바로크 박물관(Museo Internacional del Barroco)은 푸에블라 신시가지인 앙헬로폴리스 쪽, 레세르바 테리토리알 아틀릭스카요틀(Reserva Territorial Atlixcáyotl)의 Atlixcáyotl 2501에 있습니다. 역사 지구에서 택시로 20~30분 정도 걸리며, 평점 4.7★(리뷰 12,092건)을 받은 이곳의 방문객 후기와 운영 시간, 관람 팁을 정리했습니다.
+description: 국제 바로크 박물관(Museo Internacional del Barroco)은 푸에블라 신시가지인 앙헬로폴리스 쪽, 레세르바 테리토리알 아틀릭스카요틀(Reserva Territorial Atlixcáyotl)의 Atlixcáyotl 2501에 있습니다. 역사 지구에서 택시로 20~30분 정도 걸리며, 평점 4.7★(리뷰 12,128건)을 받은 이곳의 방문객 후기와 운영 시간, 관람 팁을 정리했습니다.
 quickAnswer: 국제 바로크 박물관(Museo Internacional del Barroco)은 푸에블라 신시가지인 앙헬로폴리스 쪽, 레세르바 테리토리알 아틀릭스카요틀(Reserva Territorial Atlixcáyotl)의 Atlixcáyotl 2501에 있습니다. 역사 지구에서 택시로 20~30분 정도 걸립니다. 화요일부터 일요일까지 오전 10시부터 오후 7시까지 운영하며 월요일은 휴관합니다. 관람에는 두세 시간을 잡으세요. 가장 붐비는 시간대인 주말 낮 12시부터 오후 6시 사이는 피하는 것이 좋습니다.
 faq:
   - q: 국제 바로크 박물관이 가장 한산한 때는 언제인가요?

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: puerto-iguazu-guira-oga
-srcHash: '96ebacae15a8'
+srcHash: '96f83b54d636'
 title: 'Güirá Oga: guía de viaje de Puerto Iguazú (4.6★)'
-description: 'Entre la ciudad de Puerto Iguazú y el parque nacional de las Cataratas del Iguazú, sobre la Ruta Nacional 12, se encuentra Güirá Oga, un refugio de rescate de fauna silvestre. 4.6★ (15,853 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'Entre la ciudad de Puerto Iguazú y el parque nacional de las Cataratas del Iguazú, sobre la Ruta Nacional 12, se encuentra Güirá Oga, un refugio de rescate de fauna silvestre. 4.6★ (15,874 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Sobre la Ruta Nacional 12, en Puerto Iguazú, entre la ciudad y el parque nacional de las Cataratas del Iguazú, se encuentra Güirá Oga, un refugio dedicado al rescate de fauna silvestre. En recorridos guiados por senderos de selva se pueden ver monos, tucanes, ocelotes y otros animales que ya no pueden volver a su hábitat natural. El mejor momento para ir es entre las 9am y las 10am, cuando hay menos gente cualquier día de la semana; conviene evitar el mediodía de los fines de semana.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar Güirá Oga?

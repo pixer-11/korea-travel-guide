@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: puebla-catedral-de-puebla
-srcHash: '733597eca59a'
+srcHash: '0b27160a2e2c'
 title: 'Catedral de Puebla: guía de viaje (4.8★)'
-description: 'En el costado sur del Zócalo, en pleno Centro Histórico de Puebla, se alza la catedral, cuya entrada es gratuita siempre que no haya oficio en curso; dedíquele entre 45 minutos y una hora. 4.8★ (19,514 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En el costado sur del Zócalo, en pleno Centro Histórico de Puebla, se alza la catedral, cuya entrada es gratuita siempre que no haya oficio en curso; dedíquele entre 45 minutos y una hora. 4.8★ (19,604 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: La Catedral de Puebla ocupa el costado sur del Zócalo, en el Centro Histórico de la ciudad. Si no hay ningún oficio en curso, se puede entrar gratis, y basta con reservar entre 45 minutos y una hora para recorrerla. Según la afluencia habitual, las franjas más tranquilas van de 7am–8am y de 8pm–11pm tanto entre semana como en fin de semana, aunque los sábados y domingos la máxima afluencia se concentra de 8am–8pm. Si busca la nave en calma, lo mejor es ir entre semana.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar la Catedral de Puebla?

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: puebla-el-patio-de-san-luis
-srcHash: 'ad48f4e4a920'
+srcHash: 'f52cdf1c8d94'
 title: 'EL PATIO DE SAN LUIS: dónde comer en Puebla (4.1★)'
-description: EL PATIO DE SAN LUIS es un restaurante mexicano de precio medio en la Av. 10 Ote., con 4.1★ (1,899 reseñas). Opiniones de los visitantes, horarios y consejos.
+description: EL PATIO DE SAN LUIS es un restaurante mexicano de precio medio en la Av. 10 Ote., con 4.1★ (1,905 reseñas). Opiniones de los visitantes, horarios y consejos.
 quickAnswer: EL PATIO DE SAN LUIS es un restaurante mexicano de precio medio situado en Av. 10 Ote. 2, en el Centro histórico de Puebla, a unas cinco cuadras al norte del Zócalo y muy cerca de la Calle 5 de Mayo. Abre todos los días de 10am a 8pm, salvo los domingos, cuando cierra a las 7pm. Entre semana hay calma a cualquier hora; los fines de semana, en cambio, se llena entre la 1pm y las 6pm, así que conviene evitar esa franja.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar EL PATIO DE SAN LUIS?

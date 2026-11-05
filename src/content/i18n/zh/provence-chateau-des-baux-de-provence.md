@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: provence-chateau-des-baux-de-provence
-srcHash: '53dbe8559750'
+srcHash: '043be740c4af'
 title: 莱博城堡（Château des Baux-de-Provence）旅行指南（4.6★）
-description: 莱博城堡是一座中世纪要塞遗址，高踞山顶村庄莱博德普罗旺斯（Les Baux-de-Provence）的最高处，位于阿尔勒与圣雷米普罗旺斯之间的阿尔皮耶山区。评分4.6★（17,236条评价），本文汇总游客评价、开放时间与实用贴士。
+description: 莱博城堡是一座中世纪要塞遗址，高踞山顶村庄莱博德普罗旺斯（Les Baux-de-Provence）的最高处，位于阿尔勒与圣雷米普罗旺斯之间的阿尔皮耶山区。评分4.6★（17,237条评价），本文汇总游客评价、开放时间与实用贴士。
 quickAnswer: 莱博城堡是一座中世纪要塞遗址，坐落在山顶村庄莱博德普罗旺斯（Les Baux-de-Provence）的最高处。村庄位于阿尔皮耶山区（Alpilles），夹在阿尔勒（Arles）与圣雷米普罗旺斯（Saint-Rémy-de-Provence）之间。每天上午10点到11点游客最少，周末中午12点到下午5点人最多。建议预留约1.5–2小时。开放时间随季节调整，出发前请到官网查询当月安排。
 faq:
   - q: 什么时候去莱博城堡人最少？

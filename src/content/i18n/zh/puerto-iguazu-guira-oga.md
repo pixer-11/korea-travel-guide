@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: puerto-iguazu-guira-oga
-srcHash: '96ebacae15a8'
+srcHash: '96f83b54d636'
 title: Güirá Oga：伊瓜苏港旅行指南（4.6★）
-description: Güirá Oga是伊瓜苏港（Puerto Iguazú）12号国道旁的一座野生动物救助中心，位于城区与伊瓜苏瀑布国家公园之间。评分4.6★（15,853条评价）。本文汇总游客评价、开放时间与实用建议。
+description: Güirá Oga是伊瓜苏港（Puerto Iguazú）12号国道旁的一座野生动物救助中心，位于城区与伊瓜苏瀑布国家公园之间。评分4.6★（15,874条评价）。本文汇总游客评价、开放时间与实用建议。
 quickAnswer: Güirá Oga是一座野生动物救助中心，坐落在伊瓜苏港（Puerto Iguazú）的12号国道（Ruta Nacional 12）旁，介于城区和伊瓜苏瀑布国家公园之间。园内住着猴子、巨嘴鸟、豹猫等无法再回归野外的动物，游客需跟随向导沿林间小径参观。一周七天里，上午9点到10点都是人最少的时段；周末中午则最好避开。
 faq:
   - q: 什么时候去Güirá Oga人最少？

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: naples-piazza-del-plebiscito
-srcHash: '70b0eea86a20'
+srcHash: '519c3ccdb09f'
 title: 'Plaza del Plebiscito: guía de viaje de Nápoles (4.7★)'
-description: La Plaza del Plebiscito (Piazza del Plebiscito) es la mayor de Nápoles. Se encuentra en el centro histórico, entre el Palacio Real y la basílica de San Francisco de Paula con su gran cúpula, a pocos minutos a pie de las estaciones Municipio y Toledo de la Línea 1 del metro. Tiene una valoración de 4.7★ (92,026 reseñas). Aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
+description: La Plaza del Plebiscito (Piazza del Plebiscito) es la mayor de Nápoles. Se encuentra en el centro histórico, entre el Palacio Real y la basílica de San Francisco de Paula con su gran cúpula, a pocos minutos a pie de las estaciones Municipio y Toledo de la Línea 1 del metro. Tiene una valoración de 4.7★ (92,038 reseñas). Aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
 quickAnswer: La Plaza del Plebiscito (Piazza del Plebiscito) es la mayor de Nápoles. Ocupa un lugar central en el casco histórico, entre el Palacio Real y la basílica de San Francisco de Paula, coronada por una cúpula. Las estaciones Municipio y Toledo, ambas de la Línea 1 del metro, quedan a un corto paseo. Es un espacio peatonal y abierto, y la entrada es gratuita. Para recorrer la plaza bastan entre 30 y 45 minutos. Si además visita el palacio o se detiene a tomar un café en la esquina del Gambrinus, necesitará algo más de tiempo.
 faq:
   - q: ¿Cuál es la estación de metro más cercana a la Plaza del Plebiscito?

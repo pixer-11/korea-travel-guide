@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: puebla-museo-internacional-del-barroco
-srcHash: '8f54c3a53512'
+srcHash: '6c37d40db335'
 title: 普埃布拉国际巴洛克博物馆旅行指南（4.7★）
-description: 国际巴洛克博物馆（Museo Internacional del Barroco）位于普埃布拉新城安赫洛波利斯（Angelópolis）一带的阿特利斯卡约特尔保留区，地址为Atlixcáyotl 2501，从老城区打车约需20至30分钟。评分4.7★（12,092条评价），本文汇总游客评价、开放时间与参观建议。
+description: 国际巴洛克博物馆（Museo Internacional del Barroco）位于普埃布拉新城安赫洛波利斯（Angelópolis）一带的阿特利斯卡约特尔保留区，地址为Atlixcáyotl 2501，从老城区打车约需20至30分钟。评分4.7★（12,128条评价），本文汇总游客评价、开放时间与参观建议。
 quickAnswer: 国际巴洛克博物馆（Museo Internacional del Barroco）坐落在普埃布拉的阿特利斯卡约特尔保留区（Reserva Territorial Atlixcáyotl），地址为Atlixcáyotl 2501。这里属于城市较新的安赫洛波利斯（Angelópolis）片区，从老城区打车过去约需20至30分钟。博物馆周二至周日上午10点至晚上7点开放，周一闭馆。建议预留两到三小时。周末中午12点至下午6点人最多，最好错开。
 faq:
   - q: 什么时候去国际巴洛克博物馆人最少？

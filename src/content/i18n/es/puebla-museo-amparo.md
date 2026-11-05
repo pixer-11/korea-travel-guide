@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: puebla-museo-amparo
-srcHash: '6994b7a12798'
+srcHash: '0aaf74ce1349'
 title: 'Museo Amparo: guía de viaje de Puebla (4.8★)'
-description: A dos cuadras al sur del Zócalo, en Calle 2 Sur 708, en pleno Centro de Puebla, el Museo Amparo reúne más de 3,500 piezas que abarcan desde la escultura prehispánica hasta la pintura virreinal y el arte contemporáneo. Con 4.8★ (11,507 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
+description: A dos cuadras al sur del Zócalo, en Calle 2 Sur 708, en pleno Centro de Puebla, el Museo Amparo reúne más de 3,500 piezas que abarcan desde la escultura prehispánica hasta la pintura virreinal y el arte contemporáneo. Con 4.8★ (11,564 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
 quickAnswer: En Calle 2 Sur 708, a dos cuadras al sur del Zócalo y en pleno Centro de Puebla, se encuentra el Museo Amparo. Su acervo supera las 3,500 piezas, que van desde la escultura prehispánica hasta la pintura virreinal y el arte contemporáneo. Abre todos los días de 10am a 6pm, salvo los martes, que permanece cerrado. Como las tardes de fin de semana, de 12pm a 6pm, son el momento de mayor afluencia, conviene llegar a la apertura de las 10am o ir entre semana.
 faq:
   - q: ¿Qué días abre el Museo Amparo?

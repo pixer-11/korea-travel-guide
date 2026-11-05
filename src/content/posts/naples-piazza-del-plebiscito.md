@@ -1,50 +1,80 @@
 ---
-title: "Piazza del Plebiscito: Naples Travel Guide (4.7★)"
-description: "Piazza del Plebiscito is the largest square in Naples, set in the historic centre between the Royal Palace and the domed Basilica of San Francesco di Paola, a short walk from Municipio and Toledo stations on Metro Line 1. 4.7★ (92,026 reviews) — what visitors say, hours, and tips."
-country: "Italy"
-region: "Naples"
-category: "hidden-gem"
-pubDate: "2026-11-04T07:43:04.227Z"
+title: 'Piazza del Plebiscito: Naples Travel Guide (4.7★)'
+description: >-
+  Piazza del Plebiscito is the largest square in Naples, set in the historic
+  centre between the Royal Palace and the domed Basilica of San Francesco di
+  Paola, a short walk from Municipio and Toledo stations on Metro Line 1. 4.7★
+  (92,038 reviews) — what visitors say, hours, and tips.
+country: Italy
+region: Naples
+category: hidden-gem
+pubDate: '2026-11-04T07:43:04.227Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/P.Plebiscito_Napoli.jpg/1920px-P.Plebiscito_Napoli.jpg"
-  credit: "Photo: Baku / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:P.Plebiscito_Napoli.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/P.Plebiscito_Napoli.jpg/1920px-P.Plebiscito_Napoli.jpg
+  credit: 'Photo: Baku / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:P.Plebiscito_Napoli.jpg'
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/b/b4/Piazza_del_Plebiscito_at_night_Naples_2024.jpg"
-    credit: "Photo: Furkan Akkurt / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Piazza_del_Plebiscito_at_night_Naples_2024.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/b/b4/Piazza_del_Plebiscito_at_night_Naples_2024.jpg
+    credit: 'Photo: Furkan Akkurt / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Piazza_del_Plebiscito_at_night_Naples_2024.jpg
 place:
-  id: "ChIJuVTsVVIIOxMRFDyARSoS2Yo"
-  name: "Piazza del Plebiscito"
-  address: "80132 Naples, Metropolitan City of Naples, Italy"
+  id: ChIJuVTsVVIIOxMRFDyARSoS2Yo
+  name: Piazza del Plebiscito
+  address: '80132 Naples, Metropolitan City of Naples, Italy'
   rating: 4.7
-  userRatingsTotal: 92026
-  googleMapsUrl: "https://maps.google.com/?cid=10005048019944225812&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 92038
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10005048019944225812&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 40.8358256
   lng: 14.2485831
 tags:
-  - "naples"
-  - "old quarter"
-quickAnswer: "Piazza del Plebiscito is the largest square in Naples, set in the historic centre between the Royal Palace and the domed Basilica of San Francesco di Paola, a short walk from Municipio and Toledo stations on Metro Line 1. It is free, open and pedestrianised. Plan 30–45 minutes for the square, more if you go into the palace or stop for coffee at the Gambrinus corner."
+  - naples
+  - old quarter
+quickAnswer: >-
+  Piazza del Plebiscito is the largest square in Naples, set in the historic
+  centre between the Royal Palace and the domed Basilica of San Francesco di
+  Paola, a short walk from Municipio and Toledo stations on Metro Line 1. It is
+  free, open and pedestrianised. Plan 30–45 minutes for the square, more if you
+  go into the palace or stop for coffee at the Gambrinus corner.
 faq:
-  - q: "What is the nearest metro station to Piazza del Plebiscito?"
-    a: "Municipio and Toledo, both on Metro Line 1, are each 5–10 minutes' walk away. From Toledo you walk down Via Toledo past Galleria Umberto I. From Municipio you pass Castel Nuovo and Teatro di San Carlo."
-  - q: "How long should I spend at Piazza del Plebiscito?"
-    a: "30–45 minutes covers the square, the colonnade and the inside of San Francesco di Paola. Add an hour or two if you visit the Palazzo Reale, whose hours change through the year and are posted on its official site."
-  - q: "Is Piazza del Plebiscito free to visit?"
-    a: "Yes. The square is a public, pedestrianised space open to everyone. The Royal Palace charges admission, and the current price is posted on its official site and at the ticket office."
-  - q: "What is the blindfold tradition between the statues?"
-    a: "You start with your back to the Royal Palace gate and try to walk blindfolded between the two equestrian statues, of Charles III and Ferdinand I. Most people drift off course, and locals blame the legendary curse of Queen Margherita."
-  - q: "What is near Piazza del Plebiscito?"
-    a: "Teatro di San Carlo, Galleria Umberto I, Gran Caffè Gambrinus and Castel Nuovo are all a few minutes away on foot. The seafront and Castel dell'Ovo are a short downhill walk along Via Cesario Console."
+  - q: What is the nearest metro station to Piazza del Plebiscito?
+    a: >-
+      Municipio and Toledo, both on Metro Line 1, are each 5–10 minutes' walk
+      away. From Toledo you walk down Via Toledo past Galleria Umberto I. From
+      Municipio you pass Castel Nuovo and Teatro di San Carlo.
+  - q: How long should I spend at Piazza del Plebiscito?
+    a: >-
+      30–45 minutes covers the square, the colonnade and the inside of San
+      Francesco di Paola. Add an hour or two if you visit the Palazzo Reale,
+      whose hours change through the year and are posted on its official site.
+  - q: Is Piazza del Plebiscito free to visit?
+    a: >-
+      Yes. The square is a public, pedestrianised space open to everyone. The
+      Royal Palace charges admission, and the current price is posted on its
+      official site and at the ticket office.
+  - q: What is the blindfold tradition between the statues?
+    a: >-
+      You start with your back to the Royal Palace gate and try to walk
+      blindfolded between the two equestrian statues, of Charles III and
+      Ferdinand I. Most people drift off course, and locals blame the legendary
+      curse of Queen Margherita.
+  - q: What is near Piazza del Plebiscito?
+    a: >-
+      Teatro di San Carlo, Galleria Umberto I, Gran Caffè Gambrinus and Castel
+      Nuovo are all a few minutes away on foot. The seafront and Castel dell'Ovo
+      are a short downhill walk along Via Cesario Console.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-05'
 ---
 
 ## A semicircle built for a king

@@ -1,45 +1,53 @@
 ---
-title: "Güirá Oga: Puerto Iguazu Travel Guide (4.6★)"
-description: "Güirá Oga is a wildlife rescue refuge on Ruta Nacional 12 in Puerto Iguazú, between the town and the Iguazú Falls national park. 4.6★ (15,853 reviews) — what visitors say, hours, and tips."
-country: "Argentina"
-region: "Puerto Iguazu"
-category: "hidden-gem"
-pubDate: "2026-10-27T15:23:22.105Z"
+title: 'Güirá Oga: Puerto Iguazu Travel Guide (4.6★)'
+description: >-
+  Güirá Oga is a wildlife rescue refuge on Ruta Nacional 12 in Puerto Iguazú,
+  between the town and the Iguazú Falls national park. 4.6★ (15,874 reviews) —
+  what visitors say, hours, and tips.
+country: Argentina
+region: Puerto Iguazu
+category: hidden-gem
+pubDate: '2026-10-27T15:23:22.105Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/G%C3%BCira_Oga_o_paisaje_protegido_Andr%C3%A9s_Giai_es_un_centro_de_rescate%2C_rehabilitaci%C3%B3n_y_recr%C3%ADa_de_fauna_silvestre%2C_que_se_encuentra_a_5_km_de_Puerto_Iguaz%C3%BA%2C_Misiones%2C_Argentina.jpg/3840px-thumbnail.jpg"
-  credit: "Photo: Horacio Cambeiro / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:G%C3%BCira_Oga_o_paisaje_protegido_Andr%C3%A9s_Giai_es_un_centro_de_rescate,_rehabilitaci%C3%B3n_y_recr%C3%ADa_de_fauna_silvestre,_que_se_encuentra_a_5_km_de_Puerto_Iguaz%C3%BA,_Misiones,_Argentina.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/G%C3%BCira_Oga_o_paisaje_protegido_Andr%C3%A9s_Giai_es_un_centro_de_rescate%2C_rehabilitaci%C3%B3n_y_recr%C3%ADa_de_fauna_silvestre%2C_que_se_encuentra_a_5_km_de_Puerto_Iguaz%C3%BA%2C_Misiones%2C_Argentina.jpg/3840px-thumbnail.jpg
+  credit: 'Photo: Horacio Cambeiro / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:G%C3%BCira_Oga_o_paisaje_protegido_Andr%C3%A9s_Giai_es_un_centro_de_rescate,_rehabilitaci%C3%B3n_y_recr%C3%ADa_de_fauna_silvestre,_que_se_encuentra_a_5_km_de_Puerto_Iguaz%C3%BA,_Misiones,_Argentina.jpg
+  via: act
   focus:
     x: 55
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/G%C3%BCira_Oga_o_paisaje_protegido_Andr%C3%A9s_Giai_es_un_centro_de_rescate%2C_rehabilitaci%C3%B3n_y_recr%C3%ADa_de_fauna_silvestre%2C_que_se_encuentra_a_5_km_de_Puerto_Iguaz%C3%BA%2C_Provincia_de_Misiones%2C_Argentina.jpg/3840px-thumbnail.jpg"
-    credit: "Photo: Horacio Cambeiro / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:G%C3%BCira_Oga_o_paisaje_protegido_Andr%C3%A9s_Giai_es_un_centro_de_rescate,_rehabilitaci%C3%B3n_y_recr%C3%ADa_de_fauna_silvestre,_que_se_encuentra_a_5_km_de_Puerto_Iguaz%C3%BA,_Provincia_de_Misiones,_Argentina.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/G%C3%BCira_Oga_o_paisaje_protegido_Andr%C3%A9s_Giai_es_un_centro_de_rescate%2C_rehabilitaci%C3%B3n_y_recr%C3%ADa_de_fauna_silvestre%2C_que_se_encuentra_a_5_km_de_Puerto_Iguaz%C3%BA%2C_Provincia_de_Misiones%2C_Argentina.jpg/3840px-thumbnail.jpg
+    credit: 'Photo: Horacio Cambeiro / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:G%C3%BCira_Oga_o_paisaje_protegido_Andr%C3%A9s_Giai_es_un_centro_de_rescate,_rehabilitaci%C3%B3n_y_recr%C3%ADa_de_fauna_silvestre,_que_se_encuentra_a_5_km_de_Puerto_Iguaz%C3%BA,_Provincia_de_Misiones,_Argentina.jpg
 place:
-  id: "ChIJa5dKww2T9pQRdMGArndx2Z4"
-  name: "Güirá Oga"
-  address: "RN12 1638, N3370 Puerto Iguazú, Misiones, Argentina"
+  id: ChIJa5dKww2T9pQRdMGArndx2Z4
+  name: Güirá Oga
+  address: 'RN12 1638, N3370 Puerto Iguazú, Misiones, Argentina'
   rating: 4.6
-  userRatingsTotal: 15853
-  googleMapsUrl: "https://maps.google.com/?cid=11446304686781546868&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 15874
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=11446304686781546868&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -25.6261126
   lng: -54.548479
-  phone: "+54 9 3757 68-1027"
+  phone: +54 9 3757 68-1027
   openingHours:
-    - "Monday: 9:00 AM – 4:30 PM"
-    - "Tuesday: 9:00 AM – 4:30 PM"
-    - "Wednesday: 9:00 AM – 4:30 PM"
-    - "Thursday: 9:00 AM – 4:30 PM"
-    - "Friday: 9:00 AM – 4:30 PM"
-    - "Saturday: 9:00 AM – 4:30 PM"
-    - "Sunday: 9:00 AM – 4:30 PM"
+    - 'Monday: 9:00 AM – 4:30 PM'
+    - 'Tuesday: 9:00 AM – 4:30 PM'
+    - 'Wednesday: 9:00 AM – 4:30 PM'
+    - 'Thursday: 9:00 AM – 4:30 PM'
+    - 'Friday: 9:00 AM – 4:30 PM'
+    - 'Saturday: 9:00 AM – 4:30 PM'
+    - 'Sunday: 9:00 AM – 4:30 PM'
   busyness:
-    updated: 2026-10-27
+    updated: 2026-10-27T00:00:00.000Z
     weekdayQuiet:
       - 9
     weekendQuiet:
@@ -47,24 +55,43 @@ place:
     weekendBusy:
       - 12
       - 13
-    venueId: "ven_345a3278646e7241474d6452517039543277774b6435614a496843"
+    venueId: ven_345a3278646e7241474d6452517039543277774b6435614a496843
 tags:
-  - "puerto iguazu"
-  - "hidden gem"
-quickAnswer: "Güirá Oga is a wildlife rescue refuge on Ruta Nacional 12 in Puerto Iguazú, between the town and the Iguazú Falls national park. You see monkeys, toucans, ocelots and other animals that can't go back to the wild, on guided walks along forest trails. Go between 9am and 10am, when it's quietest every day of the week, and stay away from weekend middays."
+  - puerto iguazu
+  - hidden gem
+quickAnswer: >-
+  Güirá Oga is a wildlife rescue refuge on Ruta Nacional 12 in Puerto Iguazú,
+  between the town and the Iguazú Falls national park. You see monkeys, toucans,
+  ocelots and other animals that can't go back to the wild, on guided walks
+  along forest trails. Go between 9am and 10am, when it's quietest every day of
+  the week, and stay away from weekend middays.
 faq:
-  - q: "When is the quietest time to visit Güirá Oga?"
-    a: "From 9am to 10am, weekdays and weekends alike. Avoid weekend middays between 12pm and 2pm, when it's busiest."
-  - q: "How do I get to Güirá Oga from Puerto Iguazú?"
-    a: "It's on Ruta Nacional 12 (RN12 1638), between town and the Iguazú Falls park. Take a falls-bound bus from the Puerto Iguazú bus terminal and ask to get off at Güirá Oga, or take a short taxi or remise ride."
-  - q: "How long does a visit take?"
-    a: "Plan on roughly an hour and a half for the guided walk, plus travel time. At the moment it opens 9:00am–4:30pm every day, but hours can change by season, so check the official site."
-  - q: "Can I walk around on my own?"
-    a: "No. It's a rescue and rehabilitation centre, so you visit with a guide in a group. Stay with the group, keep quiet and never feed the animals."
-  - q: "Can I do Güirá Oga and Iguazú Falls on the same day?"
-    a: "You can, since it's on the road to the falls, but both feel rushed. A morning at the refuge on a separate day, or on the day you arrive, works better."
+  - q: When is the quietest time to visit Güirá Oga?
+    a: >-
+      From 9am to 10am, weekdays and weekends alike. Avoid weekend middays
+      between 12pm and 2pm, when it's busiest.
+  - q: How do I get to Güirá Oga from Puerto Iguazú?
+    a: >-
+      It's on Ruta Nacional 12 (RN12 1638), between town and the Iguazú Falls
+      park. Take a falls-bound bus from the Puerto Iguazú bus terminal and ask
+      to get off at Güirá Oga, or take a short taxi or remise ride.
+  - q: How long does a visit take?
+    a: >-
+      Plan on roughly an hour and a half for the guided walk, plus travel time.
+      At the moment it opens 9:00am–4:30pm every day, but hours can change by
+      season, so check the official site.
+  - q: Can I walk around on my own?
+    a: >-
+      No. It's a rescue and rehabilitation centre, so you visit with a guide in
+      a group. Stay with the group, keep quiet and never feed the animals.
+  - q: Can I do Güirá Oga and Iguazú Falls on the same day?
+    a: >-
+      You can, since it's on the road to the falls, but both feel rushed. A
+      morning at the refuge on a separate day, or on the day you arrive, works
+      better.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-05'
 ---
 
 ## A hospital that lets visitors in

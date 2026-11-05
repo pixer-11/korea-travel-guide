@@ -1,27 +1,39 @@
 ---
 title: 'Palais des Papes: Provence Travel Guide'
-description: The Palais des Papes sits at Place du Palais in the heart of old Avignon, a five-minute walk from the Pont Saint-Bénézet and the train station via Porte de la République.
+description: >-
+  The Palais des Papes sits at Place du Palais in the heart of old Avignon, a
+  five-minute walk from the Pont Saint-Bénézet and the train station via Porte
+  de la République.
 country: France
 region: Provence
 category: attraction
 pubDate: '2026-07-26T07:02:37.481Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Palais_des_Papes%2C_Avignon%2C_Provence%2C_France_%286053013706%29.jpg/1920px-Palais_des_Papes%2C_Avignon%2C_Provence%2C_France_%286053013706%29.jpg
-  credit: 'Photo: Michal Osmenda from Brussels, Belgium / Wikimedia Commons (CC BY-SA 2.0)'
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Palais_des_Papes%2C_Avignon%2C_Provence%2C_France_%286053013706%29.jpg/1920px-Palais_des_Papes%2C_Avignon%2C_Provence%2C_France_%286053013706%29.jpg
+  credit: >-
+    Photo: Michal Osmenda from Brussels, Belgium / Wikimedia Commons (CC BY-SA
+    2.0)
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Palais_des_Papes,_Avignon,_Provence,_France_(6053013706).jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Palais_des_Papes,_Avignon,_Provence,_France_(6053013706).jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Palais_des_Papes%2C_Avignon%2C_Provence%2C_France_%286053007784%29.jpg/1920px-Palais_des_Papes%2C_Avignon%2C_Provence%2C_France_%286053007784%29.jpg
-    credit: 'Photo: Michal Osmenda from Brussels, Belgium / Wikimedia Commons (CC BY-SA 2.0)'
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Palais_des_Papes%2C_Avignon%2C_Provence%2C_France_%286053007784%29.jpg/1920px-Palais_des_Papes%2C_Avignon%2C_Provence%2C_France_%286053007784%29.jpg
+    credit: >-
+      Photo: Michal Osmenda from Brussels, Belgium / Wikimedia Commons (CC BY-SA
+      2.0)
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Palais_des_Papes,_Avignon,_Provence,_France_(6053007784).jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Palais_des_Papes,_Avignon,_Provence,_France_(6053007784).jpg
 place:
   id: ChIJb_jbjobrtRIRy9KIwWXljHc
   name: Palais des Papes
-  address: Pl. du Palais, 84000 Avignon, France
+  address: 'Pl. du Palais, 84000 Avignon, France'
   rating: 4.5
-  userRatingsTotal: 52423
-  googleMapsUrl: https://maps.google.com/?cid=8614512412454343371&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 53775
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=8614512412454343371&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 43.9508521
   lng: 4.8076970999999995
@@ -37,20 +49,41 @@ place:
 tags:
   - provence
   - top attraction
-quickAnswer: The Palais des Papes sits at Place du Palais in the heart of old Avignon, a five-minute walk from the Pont Saint-Bénézet and the train station via Porte de la République. Go right at opening (usually 9am) or in the last two hours before closing to dodge the tour-bus crush, and budget 90 minutes to two hours for the 25 rooms open to visitors. It's the world's largest Gothic palace, rated 4.5 from over 52,000 reviews, so expect real crowds — plan around them rather than hoping to avoid them entirely.
+quickAnswer: >-
+  The Palais des Papes sits at Place du Palais in the heart of old Avignon, a
+  five-minute walk from the Pont Saint-Bénézet and the train station via Porte
+  de la République. Go right at opening (usually 9am) or in the last two hours
+  before closing to dodge the tour-bus crush, and budget 90 minutes to two hours
+  for the 25 rooms open to visitors. It's the world's largest Gothic palace,
+  rated 4.5 from over 52,000 reviews, so expect real crowds — plan around them
+  rather than hoping to avoid them entirely.
 faq:
   - q: How long should I spend at the Palais des Papes?
-    a: Plan on 90 minutes to two hours to walk the 25 open rooms at a comfortable pace with the audio guide.
+    a: >-
+      Plan on 90 minutes to two hours to walk the 25 open rooms at a comfortable
+      pace with the audio guide.
   - q: What's the quietest time to visit?
-    a: Right at opening (typically 9am) or in the last two hours before closing tend to be calmest; midday and weekends see the heaviest tour-group traffic.
+    a: >-
+      Right at opening (typically 9am) or in the last two hours before closing
+      tend to be calmest; midday and weekends see the heaviest tour-group
+      traffic.
   - q: How do I get there from the train station?
-    a: From Avignon Centre station it's about a 15-minute walk up Rue de la République to Place du Palais. From Avignon TGV station, take a shuttle bus or short taxi into the walled town first.
+    a: >-
+      From Avignon Centre station it's about a 15-minute walk up Rue de la
+      République to Place du Palais. From Avignon TGV station, take a shuttle
+      bus or short taxi into the walled town first.
   - q: Should I book tickets in advance?
-    a: Yes — booking online skips the ticket-counter queue, which can run 30-45 minutes during peak summer months.
+    a: >-
+      Yes — booking online skips the ticket-counter queue, which can run 30-45
+      minutes during peak summer months.
   - q: What else is nearby worth combining with the visit?
-    a: The Pont Saint-Bénézet (Pont d'Avignon), the Rocher des Doms garden, and the Petit Palais museum are all within a five-minute walk and pair well with the palace.
+    a: >-
+      The Pont Saint-Bénézet (Pont d'Avignon), the Rocher des Doms garden, and
+      the Petit Palais museum are all within a five-minute walk and pair well
+      with the palace.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-05'
 ---
 
 ## Why go

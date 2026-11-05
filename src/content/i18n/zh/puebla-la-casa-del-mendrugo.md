@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: puebla-la-casa-del-mendrugo
-srcHash: 'b1ca5fa718b7'
+srcHash: '67f2cad0ee3b'
 title: La Casa del Mendrugo：普埃布拉觅食之选（4.7★）
-description: La Casa del Mendrugo位于普埃布拉老城中心区（Centro）Calle 4 Sur 304，是一家价位中等的餐厅。餐厅设在一座昔日的耶稣会学院里，还附设一座博物馆，主打普埃布拉地方菜和西班牙菜。评分4.7★（13,396条评价），本文汇总食客评价、营业时间和用餐建议。
+description: La Casa del Mendrugo位于普埃布拉老城中心区（Centro）Calle 4 Sur 304，是一家价位中等的餐厅。餐厅设在一座昔日的耶稣会学院里，还附设一座博物馆，主打普埃布拉地方菜和西班牙菜。评分4.7★（13,598条评价），本文汇总食客评价、营业时间和用餐建议。
 quickAnswer: La Casa del Mendrugo位于普埃布拉老城中心区（Centro）Calle 4 Sur 304，是一家价位中等的餐厅。餐厅设在一座昔日的耶稣会学院里，还附设一座博物馆，主打普埃布拉地方菜和西班牙菜。工作日从上午8点到晚上11点都不拥挤。周末上午11点到晚上9点客人最多，建议在上午8点到11点之间前往。另外请留意，周日晚上6点就打烊。
 faq:
   - q: 什么时候去La Casa del Mendrugo人最少？

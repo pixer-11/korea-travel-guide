@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: christchurch-riverside-market
-srcHash: 'b21f3525972c'
+srcHash: '294273a8396c'
 title: 河畔市场（Riverside Market）：基督城旅行指南（4.7★）
-description: 河畔市场位于基督城中心城区的96 Oxford Terrace，紧邻雅芳河畔，是一座汇集本地食品摊档、餐厅、咖啡馆和酒吧的室内市场。4.7★（7,691条评价），游客评价、营业时间和实用贴士都在这里。
+description: 河畔市场位于基督城中心城区的96 Oxford Terrace，紧邻雅芳河畔，是一座汇集本地食品摊档、餐厅、咖啡馆和酒吧的室内市场。4.7★（7,693条评价），游客评价、营业时间和实用贴士都在这里。
 quickAnswer: 河畔市场坐落在基督城中心城区的96 Oxford Terrace，就在雅芳河畔。这座室内市场里汇集了本地食品摊档、餐厅、咖啡馆和酒吧。每天早上8点到10点人最少；周末上午11点到晚上7点是客流高峰，最好避开。
 faq:
   - q: 什么时候去河畔市场人最少？

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: puebla-africam-safari
-srcHash: '519892bba89a'
+srcHash: '23fa166472cc'
 title: 'Africam Safari: guía de viaje en Puebla (4.6★)'
-description: En el kilómetro 16.5 del camino a Valsequillo, al sur de la ciudad de Puebla, Africam Safari es un parque de fauna que se recorre en vehículo y alberga más de 450 especies. Con 4.6★ (43,882 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
+description: En el kilómetro 16.5 del camino a Valsequillo, al sur de la ciudad de Puebla, Africam Safari es un parque de fauna que se recorre en vehículo y alberga más de 450 especies. Con 4.6★ (43,999 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
 quickAnswer: Africam Safari se encuentra en el kilómetro 16.5 del camino a Valsequillo, al sur de la ciudad de Puebla. En este parque de fauna, que se recorre en vehículo, viven más de 450 especies. Puede hacer el recorrido en su propio automóvil o en el autobús del parque. De lunes a viernes abre a las 10am y los fines de semana a las 9am; cierra todos los días a las 5pm. Lo ideal es llegar a la hora de apertura y reservar entre tres y cinco horas para la visita.
 faq:
   - q: ¿Puedo recorrer Africam Safari en mi propio automóvil?

@@ -1,55 +1,81 @@
 ---
-title: "Necropolis of Hierapolis: Pamukkale Travel Guide (4.7★)"
-description: "The Necropolis of Hierapolis in Pamukkale is the ancient city's cemetery: a long strip of more than a thousand sarcophagi, tumuli and house-shaped tombs on the road into the ruins from the North Gate. 4.7★ (616 reviews) — what visitors say, hours, and tips."
-country: "Turkey"
-region: "Pamukkale"
-category: "hidden-gem"
-pubDate: "2026-11-04T07:43:02.167Z"
+title: 'Necropolis of Hierapolis: Pamukkale Travel Guide (4.7★)'
+description: >-
+  The Necropolis of Hierapolis in Pamukkale is the ancient city's cemetery: a
+  long strip of more than a thousand sarcophagi, tumuli and house-shaped tombs
+  on the road into the ruins from the North Gate. 4.7★ (615 reviews) — what
+  visitors say, hours, and tips.
+country: Turkey
+region: Pamukkale
+category: hidden-gem
+pubDate: '2026-11-04T07:43:02.167Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Necropolis_of_Hierapolis_01.jpg/3840px-Necropolis_of_Hierapolis_01.jpg"
-  credit: "Photo: Bernard Gagnon / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Necropolis_of_Hierapolis_01.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Necropolis_of_Hierapolis_01.jpg/3840px-Necropolis_of_Hierapolis_01.jpg
+  credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Necropolis_of_Hierapolis_01.jpg'
+  via: act
   focus:
     x: 45
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJDwXcyxUSxxQRcGZtbqFBHvs"
-  name: "Necropolis of Hierapolis"
-  address: "Unnamed Road, Develi Mahallesi, Pamukkale, 20190 Pamukkale/Denizli, Türkiye"
+  id: ChIJDwXcyxUSxxQRcGZtbqFBHvs
+  name: Necropolis of Hierapolis
+  address: 'Unnamed Road, Develi Mahallesi, Pamukkale, 20190 Pamukkale/Denizli, Türkiye'
   rating: 4.7
-  userRatingsTotal: 616
-  googleMapsUrl: "https://maps.google.com/?cid=18094972514419435120&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 615
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=18094972514419435120&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 37.9372489
   lng: 29.120415800000004
   openingHours:
-    - "Monday: 8:00 AM – 9:00 PM"
-    - "Tuesday: 8:00 AM – 9:00 PM"
-    - "Wednesday: 8:00 AM – 9:00 PM"
-    - "Thursday: 8:00 AM – 9:00 PM"
-    - "Friday: 8:00 AM – 9:00 PM"
-    - "Saturday: 8:00 AM – 9:00 PM"
-    - "Sunday: 8:00 AM – 9:00 PM"
+    - 'Monday: 8:00 AM – 9:00 PM'
+    - 'Tuesday: 8:00 AM – 9:00 PM'
+    - 'Wednesday: 8:00 AM – 9:00 PM'
+    - 'Thursday: 8:00 AM – 9:00 PM'
+    - 'Friday: 8:00 AM – 9:00 PM'
+    - 'Saturday: 8:00 AM – 9:00 PM'
+    - 'Sunday: 8:00 AM – 9:00 PM'
 tags:
-  - "pamukkale"
-  - "old quarter"
-quickAnswer: "The Necropolis of Hierapolis in Pamukkale is the ancient city's cemetery: a long strip of more than a thousand sarcophagi, tumuli and house-shaped tombs on the road into the ruins from the North Gate. Plan 1–2 hours on foot. Enter from the north so you see the tombs first, then carry on to Frontinus Gate, the theatre and the travertine terraces."
+  - pamukkale
+  - old quarter
+quickAnswer: >-
+  The Necropolis of Hierapolis in Pamukkale is the ancient city's cemetery: a
+  long strip of more than a thousand sarcophagi, tumuli and house-shaped tombs
+  on the road into the ruins from the North Gate. Plan 1–2 hours on foot. Enter
+  from the north so you see the tombs first, then carry on to Frontinus Gate,
+  the theatre and the travertine terraces.
 faq:
-  - q: "Which entrance is best for the Necropolis of Hierapolis?"
-    a: "The North Gate (Kuzey Kapı), on the Karahayıt side. The path from there runs straight through the necropolis to Frontinus Gate. From the south entrance or the travertines you would have to walk the length of the site to reach it."
-  - q: "How long should I spend in the necropolis?"
-    a: "Allow 1–2 hours for the cemetery itself. Allow half a day or more if you continue through Frontinus Gate to the theatre, the museum and the travertine terraces."
-  - q: "What are the opening hours?"
-    a: "It currently opens from 8am to 9pm daily. Hours change with the season, so check the official Türkiye Müze site for the current month before you go."
-  - q: "Is the necropolis included in the Pamukkale ticket?"
-    a: "Yes, the standard Hierapolis–Pamukkale ticket covers it. Pay at the gate, where the current price is posted. The Antique Pool is charged separately."
-  - q: "What should I bring?"
-    a: "Water and sun protection, because there is almost no shade along the cemetery road. Wear sturdy shoes too. The barefoot rule applies only on the travertine terraces."
+  - q: Which entrance is best for the Necropolis of Hierapolis?
+    a: >-
+      The North Gate (Kuzey Kapı), on the Karahayıt side. The path from there
+      runs straight through the necropolis to Frontinus Gate. From the south
+      entrance or the travertines you would have to walk the length of the site
+      to reach it.
+  - q: How long should I spend in the necropolis?
+    a: >-
+      Allow 1–2 hours for the cemetery itself. Allow half a day or more if you
+      continue through Frontinus Gate to the theatre, the museum and the
+      travertine terraces.
+  - q: What are the opening hours?
+    a: >-
+      It currently opens from 8am to 9pm daily. Hours change with the season, so
+      check the official Türkiye Müze site for the current month before you go.
+  - q: Is the necropolis included in the Pamukkale ticket?
+    a: >-
+      Yes, the standard Hierapolis–Pamukkale ticket covers it. Pay at the gate,
+      where the current price is posted. The Antique Pool is charged separately.
+  - q: What should I bring?
+    a: >-
+      Water and sun protection, because there is almost no shade along the
+      cemetery road. Wear sturdy shoes too. The barefoot rule applies only on
+      the travertine terraces.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-05'
 ---
 
 ## A city of the dead on the way in

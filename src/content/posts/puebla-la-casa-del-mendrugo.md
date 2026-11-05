@@ -1,42 +1,48 @@
 ---
-title: "La Casa del Mendrugo: Where to Eat in Puebla (4.7★)"
-description: "La Casa del Mendrugo is a mid-range restaurant in Puebla's Centro, at Calle 4 Sur 304, serving Poblano and Spanish cooking inside a former Jesuit college with a museum attached. 4.7★ (13,396 reviews) — what visitors say, hours, and tips."
-country: "Mexico"
-region: "Puebla"
-category: "restaurant"
-pubDate: "2026-10-04T13:43:52.113Z"
+title: 'La Casa del Mendrugo: Where to Eat in Puebla (4.7★)'
+description: >-
+  La Casa del Mendrugo is a mid-range restaurant in Puebla's Centro, at Calle 4
+  Sur 304, serving Poblano and Spanish cooking inside a former Jesuit college
+  with a museum attached. 4.7★ (13,598 reviews) — what visitors say, hours, and
+  tips.
+country: Mexico
+region: Puebla
+category: restaurant
+pubDate: '2026-10-04T13:43:52.113Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/a/a0/Casa_del_Mendrugo_%281%29.jpg"
-  credit: "Photo: Kmbeatriz / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Casa_del_Mendrugo_(1).jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/a/a0/Casa_del_Mendrugo_%281%29.jpg
+  credit: 'Photo: Kmbeatriz / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Casa_del_Mendrugo_(1).jpg'
+  via: act
   focus:
     x: 45
-    y: 50
+    'y': 50
 gallery: []
 place:
-  id: "ChIJkx3cKObAz4URJ1mhV73E_jk"
-  name: "La Casa del Mendrugo"
-  address: "C. 4 Sur 304-304 - C, Centro, 72000 Heroica Puebla de Zaragoza, Pue., Mexico"
+  id: ChIJkx3cKObAz4URJ1mhV73E_jk
+  name: La Casa del Mendrugo
+  address: 'C. 4 Sur 304-304 - C, Centro, 72000 Heroica Puebla de Zaragoza, Pue., Mexico'
   rating: 4.7
-  userRatingsTotal: 13396
+  userRatingsTotal: 13598
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=4178993821744453927&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4178993821744453927&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 19.041825799999998
   lng: -98.1961867
-  phone: "+52 222 326 8060"
+  phone: +52 222 326 8060
   openingHours:
-    - "Monday: 8:00 AM – 11:00 PM"
-    - "Tuesday: 8:00 AM – 11:00 PM"
-    - "Wednesday: 8:00 AM – 11:00 PM"
-    - "Thursday: 8:00 AM – 11:00 PM"
-    - "Friday: 8:00 AM – 11:00 PM"
-    - "Saturday: 8:00 AM – 11:00 PM"
-    - "Sunday: 8:00 AM – 6:00 PM"
+    - 'Monday: 8:00 AM – 11:00 PM'
+    - 'Tuesday: 8:00 AM – 11:00 PM'
+    - 'Wednesday: 8:00 AM – 11:00 PM'
+    - 'Thursday: 8:00 AM – 11:00 PM'
+    - 'Friday: 8:00 AM – 11:00 PM'
+    - 'Saturday: 8:00 AM – 11:00 PM'
+    - 'Sunday: 8:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-10-04
+    updated: 2026-10-04T00:00:00.000Z
     weekdayQuiet:
       - 8
       - 9
@@ -56,24 +62,43 @@ place:
       - 18
       - 19
       - 20
-    venueId: "ven_6b6a5f45333756686d314a5255347a41624f4b6333786b4a496843"
+    venueId: ven_6b6a5f45333756686d314a5255347a41624f4b6333786b4a496843
 tags:
-  - "puebla"
-  - "local restaurant"
-quickAnswer: "La Casa del Mendrugo is a mid-range restaurant in Puebla's Centro, at Calle 4 Sur 304, serving Poblano and Spanish cooking inside a former Jesuit college with a museum attached. Weekdays are calm from 8am to 11pm. On weekends, come between 8am and 11am, before it gets busy from 11am to 9pm, and remember that Sunday closes at 6pm."
+  - puebla
+  - local restaurant
+quickAnswer: >-
+  La Casa del Mendrugo is a mid-range restaurant in Puebla's Centro, at Calle 4
+  Sur 304, serving Poblano and Spanish cooking inside a former Jesuit college
+  with a museum attached. Weekdays are calm from 8am to 11pm. On weekends, come
+  between 8am and 11am, before it gets busy from 11am to 9pm, and remember that
+  Sunday closes at 6pm.
 faq:
-  - q: "When is the quietest time to visit La Casa del Mendrugo?"
-    a: "On weekdays it's calm the whole time it's open, 8am to 11pm. On weekends the quieter window starts at 8am. Try not to arrive between 11am and 9pm on weekends, because that's when it's busiest."
-  - q: "Is it open on Sundays?"
-    a: "Yes, but only from 8:00am to 6:00pm. From Monday to Saturday it's open 8:00am to 11:00pm."
-  - q: "Where exactly is it?"
-    a: "Calle 4 Sur 304 in Puebla's Centro, inside a former Jesuit college. It's a few blocks east of the Zócalo and the cathedral, and a short walk from the Templo de la Compañía and the Callejón de los Sapos."
-  - q: "What kind of food does it serve?"
-    a: "Poblano regional cooking and Spanish dishes. Prices are mid-range. Order the Puebla dishes like mole poblano, and ask whether the seasonal chiles en nogada are available."
-  - q: "How long should I plan for?"
-    a: "About 90 minutes for a sit-down meal. Add extra time if you want to see the museum attached to the restaurant."
+  - q: When is the quietest time to visit La Casa del Mendrugo?
+    a: >-
+      On weekdays it's calm the whole time it's open, 8am to 11pm. On weekends
+      the quieter window starts at 8am. Try not to arrive between 11am and 9pm
+      on weekends, because that's when it's busiest.
+  - q: Is it open on Sundays?
+    a: >-
+      Yes, but only from 8:00am to 6:00pm. From Monday to Saturday it's open
+      8:00am to 11:00pm.
+  - q: Where exactly is it?
+    a: >-
+      Calle 4 Sur 304 in Puebla's Centro, inside a former Jesuit college. It's a
+      few blocks east of the Zócalo and the cathedral, and a short walk from the
+      Templo de la Compañía and the Callejón de los Sapos.
+  - q: What kind of food does it serve?
+    a: >-
+      Poblano regional cooking and Spanish dishes. Prices are mid-range. Order
+      the Puebla dishes like mole poblano, and ask whether the seasonal chiles
+      en nogada are available.
+  - q: How long should I plan for?
+    a: >-
+      About 90 minutes for a sit-down meal. Add extra time if you want to see
+      the museum attached to the restaurant.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-05'
 ---
 
 ## A college turned dining room

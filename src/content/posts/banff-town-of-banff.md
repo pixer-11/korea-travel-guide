@@ -1,60 +1,85 @@
 ---
-title: "Town of Banff: Travel Guide (4.7★)"
-description: "Town of Banff is the town hall at 110 Bear St in downtown Banff, Alberta: the headquarters of the only incorporated municipality inside Banff National Park. 4.7★ (337 reviews) — what visitors say, hours, and tips."
-country: "Canada"
-region: "Banff"
-category: "hidden-gem"
-pubDate: "2026-11-04T07:42:58.026Z"
+title: 'Town of Banff: Travel Guide (4.7★)'
+description: >-
+  Town of Banff is the town hall at 110 Bear St in downtown Banff, Alberta: the
+  headquarters of the only incorporated municipality inside Banff National Park.
+  4.7★ (338 reviews) — what visitors say, hours, and tips.
+country: Canada
+region: Banff
+category: hidden-gem
+pubDate: '2026-11-04T07:42:58.026Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Town_of_Banff_-_panoramio.jpg/3840px-Town_of_Banff_-_panoramio.jpg"
-  credit: "Photo: Jack Borno / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Town_of_Banff_-_panoramio.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Town_of_Banff_-_panoramio.jpg/3840px-Town_of_Banff_-_panoramio.jpg
+  credit: 'Photo: Jack Borno / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Town_of_Banff_-_panoramio.jpg'
+  via: act
   focus:
     x: 45
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Town_of_Banff_-_panoramio_%281%29.jpg/3840px-Town_of_Banff_-_panoramio_%281%29.jpg"
-    credit: "Photo: 500photos.com / Wikimedia Commons (CC BY 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Town_of_Banff_-_panoramio_(1).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Town_of_Banff_-_panoramio_%281%29.jpg/3840px-Town_of_Banff_-_panoramio_%281%29.jpg
+    credit: 'Photo: 500photos.com / Wikimedia Commons (CC BY 3.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Town_of_Banff_-_panoramio_(1).jpg'
 place:
-  id: "ChIJS-IcikbKcFMRw6oJpKl8W3o"
-  name: "Town of Banff"
-  address: "110 Bear St, Banff, AB T1L 0A1, Canada"
+  id: ChIJS-IcikbKcFMRw6oJpKl8W3o
+  name: Town of Banff
+  address: '110 Bear St, Banff, AB T1L 0A1, Canada'
   rating: 4.7
-  userRatingsTotal: 337
-  googleMapsUrl: "https://maps.google.com/?cid=8816777763551292099&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 338
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=8816777763551292099&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 51.1750666
   lng: -115.57218700000001
-  phone: "+1 403-762-1200"
+  phone: +1 403-762-1200
   openingHours:
-    - "Monday: 8:30 AM – 4:30 PM"
-    - "Tuesday: 8:30 AM – 4:30 PM"
-    - "Wednesday: 8:30 AM – 4:30 PM"
-    - "Thursday: 8:30 AM – 4:30 PM"
-    - "Friday: 8:30 AM – 4:30 PM"
-    - "Saturday: Closed"
-    - "Sunday: Closed"
+    - 'Monday: 8:30 AM – 4:30 PM'
+    - 'Tuesday: 8:30 AM – 4:30 PM'
+    - 'Wednesday: 8:30 AM – 4:30 PM'
+    - 'Thursday: 8:30 AM – 4:30 PM'
+    - 'Friday: 8:30 AM – 4:30 PM'
+    - 'Saturday: Closed'
+    - 'Sunday: Closed'
 tags:
-  - "banff"
-  - "old quarter"
-quickAnswer: "Town of Banff is the town hall at 110 Bear St in downtown Banff, Alberta: the headquarters of the only incorporated municipality inside Banff National Park. It's currently open Monday to Friday, 8:30am–4:30pm, and closed on weekends, so plan a weekday stop. Pair it with the Whyte Museum and the public library on the same block of Bear Street."
+  - banff
+  - old quarter
+quickAnswer: >-
+  Town of Banff is the town hall at 110 Bear St in downtown Banff, Alberta: the
+  headquarters of the only incorporated municipality inside Banff National Park.
+  It's currently open Monday to Friday, 8:30am–4:30pm, and closed on weekends,
+  so plan a weekday stop. Pair it with the Whyte Museum and the public library
+  on the same block of Bear Street.
 faq:
-  - q: "Where is the Town of Banff town hall?"
-    a: "It's at 110 Bear St, Banff, AB T1L 0A1. That's one block west of Banff Avenue in the downtown townsite, across from the Whyte Museum of the Canadian Rockies."
-  - q: "Is the Town of Banff office open on weekends?"
-    a: "No. It's currently open Monday to Friday, 8:30am–4:30pm, and closed Saturday and Sunday. Check the town's official website before you go, in case hours change on holidays."
-  - q: "Can visitors attend Banff town council meetings?"
-    a: "Yes, council meetings are open to the public. The town's official website posts the dates and agendas."
-  - q: "How long should I spend there?"
-    a: "Allow 15–30 minutes for an errand at the counter. If you add the Whyte Museum and a walk to the Bow River nearby, make it one to two hours."
-  - q: "Do I need a park pass to visit downtown Banff?"
-    a: "If you stop anywhere in Banff National Park, including the townsite, you need a valid Parks Canada pass. Parks Canada's website lists the current pass options."
+  - q: Where is the Town of Banff town hall?
+    a: >-
+      It's at 110 Bear St, Banff, AB T1L 0A1. That's one block west of Banff
+      Avenue in the downtown townsite, across from the Whyte Museum of the
+      Canadian Rockies.
+  - q: Is the Town of Banff office open on weekends?
+    a: >-
+      No. It's currently open Monday to Friday, 8:30am–4:30pm, and closed
+      Saturday and Sunday. Check the town's official website before you go, in
+      case hours change on holidays.
+  - q: Can visitors attend Banff town council meetings?
+    a: >-
+      Yes, council meetings are open to the public. The town's official website
+      posts the dates and agendas.
+  - q: How long should I spend there?
+    a: >-
+      Allow 15–30 minutes for an errand at the counter. If you add the Whyte
+      Museum and a walk to the Bow River nearby, make it one to two hours.
+  - q: Do I need a park pass to visit downtown Banff?
+    a: >-
+      If you stop anywhere in Banff National Park, including the townsite, you
+      need a valid Parks Canada pass. Parks Canada's website lists the current
+      pass options.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-05'
 ---
 
 ## A town hall inside a national park

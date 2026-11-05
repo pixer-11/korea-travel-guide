@@ -1,44 +1,52 @@
 ---
-title: "Riverside Market: Christchurch Travel Guide (4.7★)"
-description: "Riverside Market sits at 96 Oxford Terrace in Christchurch Central City, an indoor market of local food stalls, restaurants, cafes and bars on the bank of the Avon River. 4.7★ (7,691 reviews) — what visitors say, hours, and tips."
-country: "New Zealand"
-region: "Christchurch"
-category: "hidden-gem"
-pubDate: "2026-11-04T07:43:01.135Z"
+title: 'Riverside Market: Christchurch Travel Guide (4.7★)'
+description: >-
+  Riverside Market sits at 96 Oxford Terrace in Christchurch Central City, an
+  indoor market of local food stalls, restaurants, cafes and bars on the bank of
+  the Avon River. 4.7★ (7,693 reviews) — what visitors say, hours, and tips.
+country: New Zealand
+region: Christchurch
+category: hidden-gem
+pubDate: '2026-11-04T07:43:01.135Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Riverside2024_from_Lichfield_corner.jpg/1920px-Riverside2024_from_Lichfield_corner.jpg"
-  credit: "Photo: David Palmer / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Riverside2024_from_Lichfield_corner.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Riverside2024_from_Lichfield_corner.jpg/1920px-Riverside2024_from_Lichfield_corner.jpg
+  credit: 'Photo: David Palmer / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Riverside2024_from_Lichfield_corner.jpg
   focus:
     x: 55
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Riverside_Market%2C_Christchurch_City%2C_New_Zealand.jpg/3840px-Riverside_Market%2C_Christchurch_City%2C_New_Zealand.jpg"
-    credit: "Photo: Michal Klajban / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Riverside_Market,_Christchurch_City,_New_Zealand.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Riverside_Market%2C_Christchurch_City%2C_New_Zealand.jpg/3840px-Riverside_Market%2C_Christchurch_City%2C_New_Zealand.jpg
+    credit: 'Photo: Michal Klajban / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Riverside_Market,_Christchurch_City,_New_Zealand.jpg
 place:
-  id: "ChIJrSTbF0CLMW0RfKhojQI8NEE"
-  name: "Riverside Market"
-  address: "96 Oxford Terrace, Christchurch Central City, Christchurch 8011, New Zealand"
+  id: ChIJrSTbF0CLMW0RfKhojQI8NEE
+  name: Riverside Market
+  address: '96 Oxford Terrace, Christchurch Central City, Christchurch 8011, New Zealand'
   rating: 4.7
-  userRatingsTotal: 7691
-  googleMapsUrl: "https://maps.google.com/?cid=4698446292914317436&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 7693
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4698446292914317436&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -43.533841699999996
   lng: 172.6339121
-  phone: "+64 27 770 5599"
+  phone: +64 27 770 5599
   openingHours:
-    - "Monday: 7:30 AM – 8:00 PM"
-    - "Tuesday: 7:30 AM – 8:00 PM"
-    - "Wednesday: 7:30 AM – 8:00 PM"
-    - "Thursday: 7:30 AM – 9:00 PM"
-    - "Friday: 7:30 AM – 9:00 PM"
-    - "Saturday: 7:30 AM – 9:00 PM"
-    - "Sunday: 7:30 AM – 8:00 PM"
+    - 'Monday: 7:30 AM – 8:00 PM'
+    - 'Tuesday: 7:30 AM – 8:00 PM'
+    - 'Wednesday: 7:30 AM – 8:00 PM'
+    - 'Thursday: 7:30 AM – 9:00 PM'
+    - 'Friday: 7:30 AM – 9:00 PM'
+    - 'Saturday: 7:30 AM – 9:00 PM'
+    - 'Sunday: 7:30 AM – 8:00 PM'
   busyness:
-    updated: 2026-11-04
+    updated: 2026-11-04T00:00:00.000Z
     weekdayQuiet:
       - 8
       - 9
@@ -59,24 +67,39 @@ place:
       - 16
       - 17
       - 18
-    venueId: "ven_45454e3849516a6f684b665230574d4c433046625453724a496843"
+    venueId: ven_45454e3849516a6f684b665230574d4c433046625453724a496843
 tags:
-  - "christchurch"
-  - "local market"
-quickAnswer: "Riverside Market sits at 96 Oxford Terrace in Christchurch Central City, an indoor market of local food stalls, restaurants, cafes and bars on the bank of the Avon River. It's calmest from 8am to 10am every day; avoid weekends between 11am and 7pm, when it's at its busiest."
+  - christchurch
+  - local market
+quickAnswer: >-
+  Riverside Market sits at 96 Oxford Terrace in Christchurch Central City, an
+  indoor market of local food stalls, restaurants, cafes and bars on the bank of
+  the Avon River. It's calmest from 8am to 10am every day; avoid weekends
+  between 11am and 7pm, when it's at its busiest.
 faq:
-  - q: "When is the quietest time to visit Riverside Market?"
-    a: "8am to 10am is quietest every day. On Thursday, Friday and Saturday, 8pm to 9pm is also quiet. Weekends from 11am to 7pm are busiest."
-  - q: "What are Riverside Market's opening hours?"
-    a: "At the moment it opens at 7:30am daily. It closes at 8pm Sunday to Wednesday and at 9pm Thursday to Saturday. Check the official site before you go, as hours can change."
-  - q: "Where is Riverside Market and how do I get there?"
-    a: "It's at 96 Oxford Terrace in Christchurch Central City, beside the Avon River. It's a short walk from the Bus Interchange on Lichfield Street and from the Bridge of Remembrance."
-  - q: "How long should I spend at Riverside Market?"
-    a: "About 30 minutes to walk around, or 1–2 hours with a meal or drinks."
-  - q: "What's near Riverside Market?"
-    a: "The Bridge of Remembrance, Cashel Street and Cathedral Square are all a short walk away. The Botanic Gardens are further west along the river."
+  - q: When is the quietest time to visit Riverside Market?
+    a: >-
+      8am to 10am is quietest every day. On Thursday, Friday and Saturday, 8pm
+      to 9pm is also quiet. Weekends from 11am to 7pm are busiest.
+  - q: What are Riverside Market's opening hours?
+    a: >-
+      At the moment it opens at 7:30am daily. It closes at 8pm Sunday to
+      Wednesday and at 9pm Thursday to Saturday. Check the official site before
+      you go, as hours can change.
+  - q: Where is Riverside Market and how do I get there?
+    a: >-
+      It's at 96 Oxford Terrace in Christchurch Central City, beside the Avon
+      River. It's a short walk from the Bus Interchange on Lichfield Street and
+      from the Bridge of Remembrance.
+  - q: How long should I spend at Riverside Market?
+    a: 'About 30 minutes to walk around, or 1–2 hours with a meal or drinks.'
+  - q: What's near Riverside Market?
+    a: >-
+      The Bridge of Remembrance, Cashel Street and Cathedral Square are all a
+      short walk away. The Botanic Gardens are further west along the river.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-05'
 ---
 
 ## Under one roof on Oxford Terrace

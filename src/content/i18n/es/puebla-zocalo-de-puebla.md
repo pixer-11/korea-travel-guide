@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: puebla-zocalo-de-puebla
-srcHash: '4f82c5878bb5'
+srcHash: '733d497adf0f'
 title: 'Zócalo de Puebla: guía de viaje (4.7★)'
-description: Plaza principal del Centro Histórico de Puebla, el Zócalo tiene la catedral en su costado sur y portales en los otros tres. Con 4.7★ (109,751 reseñas), aquí encontrará la opinión de los visitantes, los horarios y algunos consejos.
+description: Plaza principal del Centro Histórico de Puebla, el Zócalo tiene la catedral en su costado sur y portales en los otros tres. Con 4.7★ (110,044 reseñas), aquí encontrará la opinión de los visitantes, los horarios y algunos consejos.
 quickAnswer: El Zócalo es la plaza principal del Centro Histórico de Puebla. La catedral de la ciudad ocupa su costado sur y en los otros tres se alinean los portales. Abre las 24 horas y recorrerlo no cuesta nada. Si busca tranquilidad, vaya entre las 7am y las 9am. Los fines de semana, de 12pm–11pm, se llena de gente, así que conviene evitar esa franja.
 faq:
   - q: ¿A qué hora está más tranquilo el Zócalo de Puebla?

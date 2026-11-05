@@ -1,44 +1,53 @@
 ---
-title: "Museo Amparo: Puebla Travel Guide (4.8★)"
-description: "Museo Amparo sits at Calle 2 Sur 708 in Puebla's Centro, two blocks south of the Zócalo, and holds over 3,500 pieces running from pre-Columbian sculpture to viceregal painting and contemporary art. 4.8★ (11,507 reviews) — what visitors say, hours, and tips."
-country: "Mexico"
-region: "Puebla"
-category: "attraction"
-pubDate: "2026-10-04T07:50:35.160Z"
+title: 'Museo Amparo: Puebla Travel Guide (4.8★)'
+description: >-
+  Museo Amparo sits at Calle 2 Sur 708 in Puebla's Centro, two blocks south of
+  the Zócalo, and holds over 3,500 pieces running from pre-Columbian sculpture
+  to viceregal painting and contemporary art. 4.8★ (11,564 reviews) — what
+  visitors say, hours, and tips.
+country: Mexico
+region: Puebla
+category: attraction
+pubDate: '2026-10-04T07:50:35.160Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/d/dc/Mampar_Pue.jpg"
-  credit: "Photo: No machine-readable author provided. / Wikimedia Commons (CC BY-SA 2.5)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Mampar_Pue.jpg"
+  url: 'https://upload.wikimedia.org/wikipedia/commons/d/dc/Mampar_Pue.jpg'
+  credit: >-
+    Photo: No machine-readable author provided. / Wikimedia Commons (CC BY-SA
+    2.5)
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Mampar_Pue.jpg'
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/7/7a/Puebla_-_Museo_Amparo_-_Art_villageois_pr%C3%A9hispanique.JPG"
-    credit: "Photo: Éclusette / Wikimedia Commons (CC BY 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Puebla_-_Museo_Amparo_-_Art_villageois_pr%C3%A9hispanique.JPG"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/7/7a/Puebla_-_Museo_Amparo_-_Art_villageois_pr%C3%A9hispanique.JPG
+    credit: 'Photo: Éclusette / Wikimedia Commons (CC BY 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Puebla_-_Museo_Amparo_-_Art_villageois_pr%C3%A9hispanique.JPG
 place:
-  id: "ChIJfXzhDujAz4URU6NV_J0_sYE"
-  name: "Museo Amparo"
-  address: "C. 2 Sur 708, Centro, 72000 Heroica Puebla de Zaragoza, Pue., Mexico"
+  id: ChIJfXzhDujAz4URU6NV_J0_sYE
+  name: Museo Amparo
+  address: 'C. 2 Sur 708, Centro, 72000 Heroica Puebla de Zaragoza, Pue., Mexico'
   rating: 4.8
-  userRatingsTotal: 11507
-  googleMapsUrl: "https://maps.google.com/?cid=9345320649546376019&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 11564
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9345320649546376019&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 19.040926499999998
   lng: -98.19844529999999
-  phone: "+52 222 229 3850"
+  phone: +52 222 229 3850
   openingHours:
-    - "Monday: 10:00 AM – 6:00 PM"
-    - "Tuesday: Closed"
-    - "Wednesday: 10:00 AM – 6:00 PM"
-    - "Thursday: 10:00 AM – 6:00 PM"
-    - "Friday: 10:00 AM – 6:00 PM"
-    - "Saturday: 10:00 AM – 6:00 PM"
-    - "Sunday: 10:00 AM – 6:00 PM"
+    - 'Monday: 10:00 AM – 6:00 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 10:00 AM – 6:00 PM'
+    - 'Thursday: 10:00 AM – 6:00 PM'
+    - 'Friday: 10:00 AM – 6:00 PM'
+    - 'Saturday: 10:00 AM – 6:00 PM'
+    - 'Sunday: 10:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-10-04
+    updated: 2026-10-04T00:00:00.000Z
     weekdayBusy:
       - 13
       - 14
@@ -52,24 +61,42 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_4559735f304a5f564e36555255347a416a7544687a58664a496843"
+    venueId: ven_4559735f304a5f564e36555255347a416a7544687a58664a496843
 tags:
-  - "puebla"
-  - "top attraction"
-quickAnswer: "Museo Amparo sits at Calle 2 Sur 708 in Puebla's Centro, two blocks south of the Zócalo, and holds over 3,500 pieces running from pre-Columbian sculpture to viceregal painting and contemporary art. It opens 10am to 6pm every day except Tuesday, when it is closed. Weekend afternoons from 12pm to 6pm are the busiest stretch, so go at the 10am opening or on a weekday."
+  - puebla
+  - top attraction
+quickAnswer: >-
+  Museo Amparo sits at Calle 2 Sur 708 in Puebla's Centro, two blocks south of
+  the Zócalo, and holds over 3,500 pieces running from pre-Columbian sculpture
+  to viceregal painting and contemporary art. It opens 10am to 6pm every day
+  except Tuesday, when it is closed. Weekend afternoons from 12pm to 6pm are the
+  busiest stretch, so go at the 10am opening or on a weekday.
 faq:
-  - q: "What days is Museo Amparo open?"
-    a: "It opens 10am to 6pm on Monday and Wednesday through Sunday. It is closed on Tuesday, not Monday as many Mexican museums are."
-  - q: "When is the quietest time to visit?"
-    a: "The busiest stretch is weekend afternoons from 12pm to 6pm, so avoid those hours. On a weekend, arrive at the 10am opening to get ahead of the crowd, or come on a weekday."
-  - q: "How long should I spend at Museo Amparo?"
-    a: "Allow two to three hours to cover the pre-Columbian, viceregal and contemporary galleries, plus time on the rooftop terrace."
-  - q: "How do I get there from the Zócalo?"
-    a: "Walk two blocks south along Calle 2 Sur to number 708. It's an easy few minutes on foot through Centro."
-  - q: "What else is nearby?"
-    a: "Puebla Cathedral and the Biblioteca Palafoxiana are by the Zócalo. The Callejón de los Sapos antiques area is a few blocks east, and the Capilla del Rosario at the Templo de Santo Domingo is just north of the square."
+  - q: What days is Museo Amparo open?
+    a: >-
+      It opens 10am to 6pm on Monday and Wednesday through Sunday. It is closed
+      on Tuesday, not Monday as many Mexican museums are.
+  - q: When is the quietest time to visit?
+    a: >-
+      The busiest stretch is weekend afternoons from 12pm to 6pm, so avoid those
+      hours. On a weekend, arrive at the 10am opening to get ahead of the crowd,
+      or come on a weekday.
+  - q: How long should I spend at Museo Amparo?
+    a: >-
+      Allow two to three hours to cover the pre-Columbian, viceregal and
+      contemporary galleries, plus time on the rooftop terrace.
+  - q: How do I get there from the Zócalo?
+    a: >-
+      Walk two blocks south along Calle 2 Sur to number 708. It's an easy few
+      minutes on foot through Centro.
+  - q: What else is nearby?
+    a: >-
+      Puebla Cathedral and the Biblioteca Palafoxiana are by the Zócalo. The
+      Callejón de los Sapos antiques area is a few blocks east, and the Capilla
+      del Rosario at the Templo de Santo Domingo is just north of the square.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-05'
 ---
 
 ## Two colonial houses, one long walk through time

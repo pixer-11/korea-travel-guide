@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: puebla-museo-internacional-del-barroco
-srcHash: '8f54c3a53512'
+srcHash: '6c37d40db335'
 title: 'Museo Internacional del Barroco: guía de viaje de Puebla (4.7★)'
-description: El Museo Internacional del Barroco se encuentra en Atlixcáyotl 2501, en la Reserva Territorial Atlixcáyotl de Puebla. Esta es la zona moderna de Angelópolis, a unos 20 a 30 minutos en taxi del centro histórico. Tiene una calificación de 4.7★ (12,092 reseñas). Aquí encontrará lo que opinan los visitantes, los horarios y algunos consejos.
+description: El Museo Internacional del Barroco se encuentra en Atlixcáyotl 2501, en la Reserva Territorial Atlixcáyotl de Puebla. Esta es la zona moderna de Angelópolis, a unos 20 a 30 minutos en taxi del centro histórico. Tiene una calificación de 4.7★ (12,128 reseñas). Aquí encontrará lo que opinan los visitantes, los horarios y algunos consejos.
 quickAnswer: El Museo Internacional del Barroco está en Atlixcáyotl 2501, dentro de la Reserva Territorial Atlixcáyotl. Esta es la parte más moderna de Puebla, conocida como Angelópolis, y queda a unos 20 a 30 minutos en taxi del centro histórico. Abre de martes a domingo de 10am a 7pm y cierra los lunes. Calcule entre dos y tres horas para la visita. Le conviene evitar los fines de semana entre las 12pm y las 6pm, que es cuando más gente hay.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Museo Internacional del Barroco?

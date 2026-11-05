@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: puebla-el-patio-de-san-luis
-srcHash: 'ad48f4e4a920'
+srcHash: 'f52cdf1c8d94'
 title: EL PATIO DE SAN LUIS：普埃布拉吃什么去哪儿吃（4.1★）
-description: EL PATIO DE SAN LUIS位于Av. 10 Ote.，是一家中等价位的墨西哥餐厅，评分4.1★（1,899条评价）。本文汇总食客评价、营业时间与实用贴士。
+description: EL PATIO DE SAN LUIS位于Av. 10 Ote.，是一家中等价位的墨西哥餐厅，评分4.1★（1,905条评价）。本文汇总食客评价、营业时间与实用贴士。
 quickAnswer: EL PATIO DE SAN LUIS是一家中等价位的墨西哥餐厅，地址为Av. 10 Ote. 2，地处普埃布拉历史中心（Centro histórico）。餐厅紧挨五月五日街（Calle 5 de Mayo），从索卡洛广场（Zócalo）往北走约五个街区即到。餐厅每天上午10点开门，平日晚上8点打烊，周日提前到晚上7点。工作日全天都比较清静；周末下午1点至6点是客流高峰，最好避开。
 faq:
   - q: 什么时候去EL PATIO DE SAN LUIS人最少？

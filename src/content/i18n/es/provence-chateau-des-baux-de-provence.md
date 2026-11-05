@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: provence-chateau-des-baux-de-provence
-srcHash: '53dbe8559750'
+srcHash: '043be740c4af'
 title: 'Château des Baux-de-Provence: guía de viaje (4.6★)'
-description: En lo alto del pueblo encaramado de Les Baux-de-Provence, en los montes Alpilles, entre Arlés y Saint-Rémy-de-Provence, se alzan las ruinas de la fortaleza medieval del Château des Baux-de-Provence. Con una valoración de 4.6★ (17,236 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
+description: En lo alto del pueblo encaramado de Les Baux-de-Provence, en los montes Alpilles, entre Arlés y Saint-Rémy-de-Provence, se alzan las ruinas de la fortaleza medieval del Château des Baux-de-Provence. Con una valoración de 4.6★ (17,237 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
 quickAnswer: Las ruinas de la fortaleza medieval del Château des Baux-de-Provence coronan el pueblo de Les Baux-de-Provence, en los montes Alpilles, entre Arlés y Saint-Rémy-de-Provence. Todos los días, la franja más tranquila va de 10am a 11am; la de mayor afluencia, los fines de semana de 12pm a 5pm. Calcule entre 1.5–2 horas de visita y consulte en la web oficial el horario de este mes, ya que varía según la temporada.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Château des Baux-de-Provence?

@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: provence-musee-granet
-srcHash: 'fa0a4c8be8fe'
+srcHash: 'c44aa5d2118d'
 title: 格拉内美术馆：普罗旺斯旅行指南（4.4星）
-description: 格拉内美术馆坐落在艾克斯普罗旺斯（Aix-en-Provence）的圣让德马耳他广场（Place Saint-Jean de Malte）上，馆舍原是17世纪马耳他骑士团的一座修道院，馆藏从塞尚（Cézanne）的画作到伦勃朗（Rembrandt）的自画像应有尽有。4.4星（4,877条评价）——游客怎么说、开放时间与实用建议，一并奉上。
+description: 格拉内美术馆坐落在艾克斯普罗旺斯（Aix-en-Provence）的圣让德马耳他广场（Place Saint-Jean de Malte）上，馆舍原是17世纪马耳他骑士团的一座修道院，馆藏从塞尚（Cézanne）的画作到伦勃朗（Rembrandt）的自画像应有尽有。4.4星（5,030条评价）——游客怎么说、开放时间与实用建议，一并奉上。
 quickAnswer: 格拉内美术馆坐落在艾克斯普罗旺斯的圣让德马耳他广场上，馆舍原是17世纪马耳他骑士团的一座修道院，馆藏从塞尚的画作到伦勃朗的自画像一应俱全。建议安排两到三个小时游览，若想避开人群，工作日上午10点开门时到场最合适——周末从中午到傍晚6点是人流高峰。美术馆离塞尚的旧日画室路线仅几步之遥，不妨顺路逛逛马扎然区（Mazarin quarter）。
 faq:
   - q: 参观格拉内美术馆应该安排多长时间？

@@ -1,45 +1,54 @@
 ---
-title: "Parque Ecológico: Puebla Travel Guide (4.6★)"
-description: "Parque Ecológico in Puebla is a 58-hectare city park on Calle 24 Sur in the Azcarate neighbourhood, with bike trails, sports facilities, playgrounds, an aviary and botanical gardens. 4.6★ (30,216 reviews) — what visitors say, hours, and tips."
-country: "Mexico"
-region: "Puebla"
-category: "attraction"
-pubDate: "2026-10-06T07:45:31.746Z"
+title: 'Parque Ecológico: Puebla Travel Guide (4.6★)'
+description: >-
+  Parque Ecológico in Puebla is a 58-hectare city park on Calle 24 Sur in the
+  Azcarate neighbourhood, with bike trails, sports facilities, playgrounds, an
+  aviary and botanical gardens. 4.6★ (30,275 reviews) — what visitors say,
+  hours, and tips.
+country: Mexico
+region: Puebla
+category: attraction
+pubDate: '2026-10-06T07:45:31.746Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/f/f4/Parque_Ecol%C3%B3gico_Revoluci%C3%B3n_Mexicana_5.jpg"
-  credit: "Photo: CUTI1 / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Parque_Ecol%C3%B3gico_Revoluci%C3%B3n_Mexicana_5.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/f/f4/Parque_Ecol%C3%B3gico_Revoluci%C3%B3n_Mexicana_5.jpg
+  credit: 'Photo: CUTI1 / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Parque_Ecol%C3%B3gico_Revoluci%C3%B3n_Mexicana_5.jpg
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Paisaje_del_Parque_Ecol%C3%B3gico_Revoluci%C3%B3n_Mexicana.jpg/3840px-Paisaje_del_Parque_Ecol%C3%B3gico_Revoluci%C3%B3n_Mexicana.jpg"
-    credit: "Photo: Ehécatl Cabrera / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Paisaje_del_Parque_Ecol%C3%B3gico_Revoluci%C3%B3n_Mexicana.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Paisaje_del_Parque_Ecol%C3%B3gico_Revoluci%C3%B3n_Mexicana.jpg/3840px-Paisaje_del_Parque_Ecol%C3%B3gico_Revoluci%C3%B3n_Mexicana.jpg
+    credit: 'Photo: Ehécatl Cabrera / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Paisaje_del_Parque_Ecol%C3%B3gico_Revoluci%C3%B3n_Mexicana.jpg
 place:
-  id: "ChIJI81jN43Az4URvWmyYG_MXfU"
-  name: "Parque Ecológico"
-  address: "Calle 24 Sur S/N, Azcarate, 72501 Heroica Puebla de Zaragoza, Pue., Mexico"
+  id: ChIJI81jN43Az4URvWmyYG_MXfU
+  name: Parque Ecológico
+  address: 'Calle 24 Sur S/N, Azcarate, 72501 Heroica Puebla de Zaragoza, Pue., Mexico'
   rating: 4.6
-  userRatingsTotal: 30216
-  googleMapsUrl: "https://maps.google.com/?cid=17680512490862176701&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 30275
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=17680512490862176701&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 19.0295409
   lng: -98.1863056
-  phone: "+52 222 223 6424"
+  phone: +52 222 223 6424
   openingHours:
-    - "Monday: 6:00 AM – 9:00 PM"
-    - "Tuesday: 6:00 AM – 9:00 PM"
-    - "Wednesday: 6:00 AM – 9:00 PM"
-    - "Thursday: 6:00 AM – 9:00 PM"
-    - "Friday: 6:00 AM – 9:00 PM"
-    - "Saturday: 6:00 AM – 9:00 PM"
-    - "Sunday: 6:00 AM – 9:00 PM"
+    - 'Monday: 6:00 AM – 9:00 PM'
+    - 'Tuesday: 6:00 AM – 9:00 PM'
+    - 'Wednesday: 6:00 AM – 9:00 PM'
+    - 'Thursday: 6:00 AM – 9:00 PM'
+    - 'Friday: 6:00 AM – 9:00 PM'
+    - 'Saturday: 6:00 AM – 9:00 PM'
+    - 'Sunday: 6:00 AM – 9:00 PM'
   busyness:
-    updated: 2026-10-06
+    updated: 2026-10-06T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -57,24 +66,42 @@ place:
       - 16
       - 17
       - 18
-    venueId: "ven_5566584d5f4759796d57765255347a4133344e6a3138494a496843"
+    venueId: ven_5566584d5f4759796d57765255347a4133344e6a3138494a496843
 tags:
-  - "puebla"
-  - "park"
-quickAnswer: "Parque Ecológico in Puebla is a 58-hectare city park on Calle 24 Sur in the Azcarate neighbourhood, with bike trails, sports facilities, playgrounds, an aviary and botanical gardens. It opens 6:00 AM to 9:00 PM every day. Go 7am–9am on weekdays for the quietest paths, and on weekends try not to arrive between 9am and 7pm, when it's busiest."
+  - puebla
+  - park
+quickAnswer: >-
+  Parque Ecológico in Puebla is a 58-hectare city park on Calle 24 Sur in the
+  Azcarate neighbourhood, with bike trails, sports facilities, playgrounds, an
+  aviary and botanical gardens. It opens 6:00 AM to 9:00 PM every day. Go
+  7am–9am on weekdays for the quietest paths, and on weekends try not to arrive
+  between 9am and 7pm, when it's busiest.
 faq:
-  - q: "When is the quietest time to visit Parque Ecológico?"
-    a: "On weekdays, 7am–9am is the calmest window. On weekends the busiest hours are 9am–7pm, so before 9am or the last stretch before the 9:00 PM close is your best bet."
-  - q: "What are the opening hours?"
-    a: "Parque Ecológico is open 6:00 AM to 9:00 PM, seven days a week."
-  - q: "How do I get there from Puebla's historic centre?"
-    a: "Take a short taxi, Uber or DiDi ride to Calle 24 Sur in the Azcarate neighbourhood. Ask for \"el Parque Ecológico\" on 24 Sur, because the address has no street number (S/N)."
-  - q: "What is there to do inside?"
-    a: "The 58-hectare park has bike trails, sports facilities, playgrounds, an aviary and botanical gardens. It works well for running, cycling, a family outing or a slow walk."
-  - q: "How long should I spend there?"
-    a: "One to two hours covers a walk through the main areas. Plan on longer if you're cycling, running laps or visiting with children who want the playgrounds."
+  - q: When is the quietest time to visit Parque Ecológico?
+    a: >-
+      On weekdays, 7am–9am is the calmest window. On weekends the busiest hours
+      are 9am–7pm, so before 9am or the last stretch before the 9:00 PM close is
+      your best bet.
+  - q: What are the opening hours?
+    a: 'Parque Ecológico is open 6:00 AM to 9:00 PM, seven days a week.'
+  - q: How do I get there from Puebla's historic centre?
+    a: >-
+      Take a short taxi, Uber or DiDi ride to Calle 24 Sur in the Azcarate
+      neighbourhood. Ask for "el Parque Ecológico" on 24 Sur, because the
+      address has no street number (S/N).
+  - q: What is there to do inside?
+    a: >-
+      The 58-hectare park has bike trails, sports facilities, playgrounds, an
+      aviary and botanical gardens. It works well for running, cycling, a family
+      outing or a slow walk.
+  - q: How long should I spend there?
+    a: >-
+      One to two hours covers a walk through the main areas. Plan on longer if
+      you're cycling, running laps or visiting with children who want the
+      playgrounds.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-05'
 ---
 
 Fifty-eight hectares is a lot of ground for a city park. At Parque Ecológico it holds bike trails, sports courts, playgrounds, an aviary and botanical gardens, all inside one fence on Calle 24 Sur. Most visitors to Puebla spend their days among the tiled façades and church domes of the historic centre. This is where much of the city goes to move instead.

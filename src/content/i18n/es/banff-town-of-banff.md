@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: banff-town-of-banff
-srcHash: '5bf9b9a12a19'
+srcHash: '983e6dc4b563'
 title: 'Ayuntamiento de Banff (Town of Banff): guía de viaje (4.7★)'
-description: En el 110 de Bear St, en pleno centro de Banff (Alberta), se encuentra el ayuntamiento del único municipio constituido dentro del Parque Nacional Banff. Con una valoración de 4.7★ (337 reseñas), aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
+description: En el 110 de Bear St, en pleno centro de Banff (Alberta), se encuentra el ayuntamiento del único municipio constituido dentro del Parque Nacional Banff. Con una valoración de 4.7★ (338 reseñas), aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
 quickAnswer: En el 110 de Bear St, en pleno centro de Banff (Alberta), se encuentra el ayuntamiento de Town of Banff, sede del único municipio constituido dentro del Parque Nacional Banff. Ahora mismo abre de lunes a viernes, de 8:30am a 4:30pm. Como cierra los fines de semana, conviene ir un día laborable. En la misma manzana de Bear Street están el Museo Whyte y la biblioteca pública, así que puede aprovechar para visitarlos.
 faq:
   - q: ¿Dónde se encuentra el ayuntamiento de Banff?

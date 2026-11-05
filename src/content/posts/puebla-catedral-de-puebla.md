@@ -1,37 +1,48 @@
 ---
-title: "Catedral de Puebla: Travel Guide (4.8★)"
-description: "Catedral de Puebla stands on the south side of the Zócalo in Puebla's Centro Histórico, and it is free to walk in when no service is running; give it 45 minutes to an hour. 4.8★ (19,514 reviews) — what visitors say, hours, and tips."
-country: "Mexico"
-region: "Puebla"
-category: "attraction"
-pubDate: "2026-10-06T07:37:42.778Z"
+title: 'Catedral de Puebla: Travel Guide (4.8★)'
+description: >-
+  Catedral de Puebla stands on the south side of the Zócalo in Puebla's Centro
+  Histórico, and it is free to walk in when no service is running; give it 45
+  minutes to an hour. 4.8★ (19,604 reviews) — what visitors say, hours, and
+  tips.
+country: Mexico
+region: Puebla
+category: attraction
+pubDate: '2026-10-06T07:37:42.778Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Catedral_de_Puebla_%28fachada%29%2C_nov22.jpg/3840px-Catedral_de_Puebla_%28fachada%29%2C_nov22.jpg"
-  credit: "Photo: Juan Carlos Fonseca Mata / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Catedral_de_Puebla_(fachada),_nov22.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Catedral_de_Puebla_%28fachada%29%2C_nov22.jpg/3840px-Catedral_de_Puebla_%28fachada%29%2C_nov22.jpg
+  credit: 'Photo: Juan Carlos Fonseca Mata / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Catedral_de_Puebla_(fachada),_nov22.jpg
+  via: act
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/f/f8/Catedral_de_Puebla%2C_M%C3%A9xico%2C_2013-10-11%2C_DD_05.JPG"
-    credit: "Photo: Diego Delso / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Catedral_de_Puebla,_M%C3%A9xico,_2013-10-11,_DD_05.JPG"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/f/f8/Catedral_de_Puebla%2C_M%C3%A9xico%2C_2013-10-11%2C_DD_05.JPG
+    credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Catedral_de_Puebla,_M%C3%A9xico,_2013-10-11,_DD_05.JPG
 place:
-  id: "ChIJhwilCijGz4URxQHHgRUmIVs"
-  name: "Catedral de Puebla"
-  address: "C. 16 de Septiembre s/n, Centro histórico de Puebla, 72000 Heroica Puebla de Zaragoza, Pue., Mexico"
+  id: ChIJhwilCijGz4URxQHHgRUmIVs
+  name: Catedral de Puebla
+  address: >-
+    C. 16 de Septiembre s/n, Centro histórico de Puebla, 72000 Heroica Puebla de
+    Zaragoza, Pue., Mexico
   rating: 4.8
-  userRatingsTotal: 19514
-  googleMapsUrl: "https://maps.google.com/?cid=6566571605496365509&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 19604
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6566571605496365509&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 19.042890399999997
   lng: -98.1983291
-  phone: "+52 222 232 2316"
+  phone: +52 222 232 2316
   busyness:
-    updated: 2026-10-06
+    updated: 2026-10-06T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 20
@@ -60,24 +71,47 @@ place:
       - 17
       - 18
       - 19
-    venueId: "ven_7356496d555267484851785255347a476a69436c6977684a496843"
+    venueId: ven_7356496d555267484851785255347a476a69436c6977684a496843
 tags:
-  - "puebla"
-  - "historic site"
-quickAnswer: "Catedral de Puebla stands on the south side of the Zócalo in Puebla's Centro Histórico, and it is free to walk in when no service is running; give it 45 minutes to an hour. By typical foot traffic, the quietest windows are 7am–8am and 8pm–11pm on both weekdays and weekends, while weekends get busiest from 8am–8pm. So for the calmest nave, go on a weekday."
+  - puebla
+  - historic site
+quickAnswer: >-
+  Catedral de Puebla stands on the south side of the Zócalo in Puebla's Centro
+  Histórico, and it is free to walk in when no service is running; give it 45
+  minutes to an hour. By typical foot traffic, the quietest windows are 7am–8am
+  and 8pm–11pm on both weekdays and weekends, while weekends get busiest from
+  8am–8pm. So for the calmest nave, go on a weekday.
 faq:
-  - q: "When is the quietest time to visit Catedral de Puebla?"
-    a: "Typical foot-traffic data puts the quietest windows at 7am–8am and 8pm–11pm on both weekdays and weekends. Weekends are busiest from 8am–8pm, so a weekday visit is the calmest option."
-  - q: "How long should I spend inside?"
-    a: "Around 45 minutes to an hour covers the nave, the octagonal high altar, the Altar de los Reyes and the side chapels. Allow longer if you also want to see the Biblioteca Palafoxiana next door."
-  - q: "Can I visit during Mass?"
-    a: "You can attend, but don't sightsee during a service. Sit quietly or come back later, and keep the flash off at all times. Opening and Mass times aren't confirmed here, so check parish notices before you go."
-  - q: "How do I get to the cathedral from Mexico City?"
-    a: "Take a long-distance bus to Puebla's CAPU terminal, which takes roughly two hours depending on traffic. Then take a taxi or ride-hail to the Zócalo in the Centro Histórico. The cathedral faces the square on Calle 16 de Septiembre."
-  - q: "What else is nearby?"
-    a: "The Biblioteca Palafoxiana is right behind the cathedral. The Templo de Santo Domingo and its Capilla del Rosario are a few blocks north on 5 de Mayo. Callejón de los Sapos and the Barrio del Artista are a short walk away."
+  - q: When is the quietest time to visit Catedral de Puebla?
+    a: >-
+      Typical foot-traffic data puts the quietest windows at 7am–8am and
+      8pm–11pm on both weekdays and weekends. Weekends are busiest from 8am–8pm,
+      so a weekday visit is the calmest option.
+  - q: How long should I spend inside?
+    a: >-
+      Around 45 minutes to an hour covers the nave, the octagonal high altar,
+      the Altar de los Reyes and the side chapels. Allow longer if you also want
+      to see the Biblioteca Palafoxiana next door.
+  - q: Can I visit during Mass?
+    a: >-
+      You can attend, but don't sightsee during a service. Sit quietly or come
+      back later, and keep the flash off at all times. Opening and Mass times
+      aren't confirmed here, so check parish notices before you go.
+  - q: How do I get to the cathedral from Mexico City?
+    a: >-
+      Take a long-distance bus to Puebla's CAPU terminal, which takes roughly
+      two hours depending on traffic. Then take a taxi or ride-hail to the
+      Zócalo in the Centro Histórico. The cathedral faces the square on Calle 16
+      de Septiembre.
+  - q: What else is nearby?
+    a: >-
+      The Biblioteca Palafoxiana is right behind the cathedral. The Templo de
+      Santo Domingo and its Capilla del Rosario are a few blocks north on 5 de
+      Mayo. Callejón de los Sapos and the Barrio del Artista are a short walk
+      away.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-05'
 ---
 
 Two grey stone towers rise over the Zócalo, and they are visible from most of the centre's straight colonial streets. They belong to the Basílica Catedral de Nuestra Señora de la Inmaculada Concepción, which everyone simply calls the Catedral de Puebla. It is one of the most-reviewed sights in the city and consistently well rated. Expect company.

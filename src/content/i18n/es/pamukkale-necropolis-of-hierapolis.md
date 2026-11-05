@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: pamukkale-necropolis-of-hierapolis
-srcHash: '3f05856a412d'
+srcHash: '31c22acb469a'
 title: 'Necrópolis de Hierápolis: guía de viaje de Pamukkale (4.7★)'
-description: 'La necrópolis de Hierápolis, en Pamukkale, fue el cementerio de la antigua ciudad. Más de un millar de sarcófagos, túmulos y tumbas en forma de casa se suceden a lo largo de la vía que entra en las ruinas desde la Puerta Norte. Valoración de 4.7★ (616 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'La necrópolis de Hierápolis, en Pamukkale, fue el cementerio de la antigua ciudad. Más de un millar de sarcófagos, túmulos y tumbas en forma de casa se suceden a lo largo de la vía que entra en las ruinas desde la Puerta Norte. Valoración de 4.7★ (615 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: La necrópolis de Hierápolis, en Pamukkale, fue el cementerio de la antigua ciudad. Sus más de mil sarcófagos, túmulos y tumbas en forma de casa forman una larga franja junto a la vía que entra en las ruinas desde la Puerta Norte. Calcule entre 1–2 horas a pie. Si entra por el norte, verá primero las tumbas y después podrá seguir hasta la Puerta de Frontino, el teatro y las terrazas de travertino.
 faq:
   - q: ¿Cuál es la mejor entrada para visitar la necrópolis de Hierápolis?

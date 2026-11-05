@@ -1,45 +1,55 @@
 ---
-title: "Museo Internacional del Barroco: Puebla Travel Guide (4.7★)"
-description: "The Museo Internacional del Barroco sits on Atlixcáyotl 2501 in Puebla's Reserva Territorial Atlixcáyotl, the newer Angelópolis side of the city, about a 20 to 30 minute taxi ride from the historic centre. 4.7★ (12,092 reviews) — what visitors say, hours, and tips."
-country: "Mexico"
-region: "Puebla"
-category: "attraction"
-pubDate: "2026-10-05T16:24:14.871Z"
+title: 'Museo Internacional del Barroco: Puebla Travel Guide (4.7★)'
+description: >-
+  The Museo Internacional del Barroco sits on Atlixcáyotl 2501 in Puebla's
+  Reserva Territorial Atlixcáyotl, the newer Angelópolis side of the city, about
+  a 20 to 30 minute taxi ride from the historic centre. 4.7★ (12,128 reviews) —
+  what visitors say, hours, and tips.
+country: Mexico
+region: Puebla
+category: attraction
+pubDate: '2026-10-05T16:24:14.871Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/e/e0/Museo_Internacional_del_Barroco.jpg"
-  credit: "Photo: CUTI1 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Museo_Internacional_del_Barroco.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/e/e0/Museo_Internacional_del_Barroco.jpg
+  credit: 'Photo: CUTI1 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Museo_Internacional_del_Barroco.jpg'
+  via: act
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Museo_Internacional_Barroco_%28Puebla%2C_M%C3%A9xico%29_-_Escaleras.jpg/3840px-Museo_Internacional_Barroco_%28Puebla%2C_M%C3%A9xico%29_-_Escaleras.jpg"
-    credit: "Photo: Fraguando / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Museo_Internacional_Barroco_(Puebla,_M%C3%A9xico)_-_Escaleras.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Museo_Internacional_Barroco_%28Puebla%2C_M%C3%A9xico%29_-_Escaleras.jpg/3840px-Museo_Internacional_Barroco_%28Puebla%2C_M%C3%A9xico%29_-_Escaleras.jpg
+    credit: 'Photo: Fraguando / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Museo_Internacional_Barroco_(Puebla,_M%C3%A9xico)_-_Escaleras.jpg
 place:
-  id: "ChIJ81QBD2nHz4URySKuC58lRL4"
-  name: "Museo Internacional del Barroco"
-  address: "Atlixcáyotl 2501, Reserva Territorial Atlixcáyotl, 72830 Heroica Puebla de Zaragoza, Pue., Mexico"
+  id: ChIJ81QBD2nHz4URySKuC58lRL4
+  name: Museo Internacional del Barroco
+  address: >-
+    Atlixcáyotl 2501, Reserva Territorial Atlixcáyotl, 72830 Heroica Puebla de
+    Zaragoza, Pue., Mexico
   rating: 4.7
-  userRatingsTotal: 12092
-  googleMapsUrl: "https://maps.google.com/?cid=13710124530648621769&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 12128
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13710124530648621769&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 19.0194446
   lng: -98.2460851
-  phone: "+52 222 326 7130"
+  phone: +52 222 326 7130
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 10:00 AM – 7:00 PM"
-    - "Wednesday: 10:00 AM – 7:00 PM"
-    - "Thursday: 10:00 AM – 7:00 PM"
-    - "Friday: 10:00 AM – 7:00 PM"
-    - "Saturday: 10:00 AM – 7:00 PM"
-    - "Sunday: 10:00 AM – 7:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 10:00 AM – 7:00 PM'
+    - 'Wednesday: 10:00 AM – 7:00 PM'
+    - 'Thursday: 10:00 AM – 7:00 PM'
+    - 'Friday: 10:00 AM – 7:00 PM'
+    - 'Saturday: 10:00 AM – 7:00 PM'
+    - 'Sunday: 10:00 AM – 7:00 PM'
   busyness:
-    updated: 2026-10-05
+    updated: 2026-10-05T00:00:00.000Z
     weekdayBusy:
       - 12
       - 13
@@ -54,24 +64,43 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_344c526c383543754b53795255347a486e3244425131384a496843"
+    venueId: ven_344c526c383543754b53795255347a486e3244425131384a496843
 tags:
-  - "puebla"
-  - "museum"
-quickAnswer: "The Museo Internacional del Barroco sits on Atlixcáyotl 2501 in Puebla's Reserva Territorial Atlixcáyotl, the newer Angelópolis side of the city, about a 20 to 30 minute taxi ride from the historic centre. It's open Tuesday to Sunday from 10am to 7pm and closed on Mondays. Plan on two to three hours, and avoid weekends between 12pm and 6pm, the busiest stretch."
+  - puebla
+  - museum
+quickAnswer: >-
+  The Museo Internacional del Barroco sits on Atlixcáyotl 2501 in Puebla's
+  Reserva Territorial Atlixcáyotl, the newer Angelópolis side of the city, about
+  a 20 to 30 minute taxi ride from the historic centre. It's open Tuesday to
+  Sunday from 10am to 7pm and closed on Mondays. Plan on two to three hours, and
+  avoid weekends between 12pm and 6pm, the busiest stretch.
 faq:
-  - q: "When is the quietest time to visit the Museo Internacional del Barroco?"
-    a: "The busiest period is weekends between 12pm and 6pm, so avoid that window. If you must visit on a weekend, arrive when the doors open at 10am. Otherwise, a Tuesday-to-Friday visit avoids the weekend crowds altogether."
-  - q: "Is the museum open on Mondays?"
-    a: "No. It's closed on Mondays. It opens Tuesday through Sunday from 10am to 7pm."
-  - q: "How do I get there from Puebla's historic centre?"
-    a: "Take a taxi or a ride-hailing app to Atlixcáyotl 2501 in the Reserva Territorial Atlixcáyotl (Angelópolis area). The ride usually takes about 20 to 30 minutes, depending on traffic."
-  - q: "How long should I spend there?"
-    a: "Two to three hours covers the permanent galleries and the courtyard. Add more time if there's a temporary exhibition you want to see."
-  - q: "What else is nearby?"
-    a: "The Estrella de Puebla observation wheel and the Angelópolis shopping area are close. Downtown, the Capilla del Rosario, Puebla Cathedral and the Biblioteca Palafoxiana let you see real Baroque spaces after the museum."
+  - q: When is the quietest time to visit the Museo Internacional del Barroco?
+    a: >-
+      The busiest period is weekends between 12pm and 6pm, so avoid that window.
+      If you must visit on a weekend, arrive when the doors open at 10am.
+      Otherwise, a Tuesday-to-Friday visit avoids the weekend crowds altogether.
+  - q: Is the museum open on Mondays?
+    a: >-
+      No. It's closed on Mondays. It opens Tuesday through Sunday from 10am to
+      7pm.
+  - q: How do I get there from Puebla's historic centre?
+    a: >-
+      Take a taxi or a ride-hailing app to Atlixcáyotl 2501 in the Reserva
+      Territorial Atlixcáyotl (Angelópolis area). The ride usually takes about
+      20 to 30 minutes, depending on traffic.
+  - q: How long should I spend there?
+    a: >-
+      Two to three hours covers the permanent galleries and the courtyard. Add
+      more time if there's a temporary exhibition you want to see.
+  - q: What else is nearby?
+    a: >-
+      The Estrella de Puebla observation wheel and the Angelópolis shopping area
+      are close. Downtown, the Capilla del Rosario, Puebla Cathedral and the
+      Biblioteca Palafoxiana let you see real Baroque spaces after the museum.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-05'
 ---
 
 ## White walls, gold inside

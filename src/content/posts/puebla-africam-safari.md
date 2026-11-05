@@ -1,59 +1,89 @@
 ---
-title: "Africam Safari: Puebla Travel Guide (4.6★)"
-description: "Africam Safari, on the Valsequillo road at Km 16.5 south of Puebla city, is a drive-through wildlife park with more than 450 species. 4.6★ (43,882 reviews) — what visitors say, hours, and tips."
-country: "Mexico"
-region: "Puebla"
-category: "hidden-gem"
-pubDate: "2026-10-05T16:14:26.967Z"
+title: 'Africam Safari: Puebla Travel Guide (4.6★)'
+description: >-
+  Africam Safari, on the Valsequillo road at Km 16.5 south of Puebla city, is a
+  drive-through wildlife park with more than 450 species. 4.6★ (43,999 reviews)
+  — what visitors say, hours, and tips.
+country: Mexico
+region: Puebla
+category: hidden-gem
+pubDate: '2026-10-05T16:14:26.967Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Common_Eland_Africam.jpg/1920px-Common_Eland_Africam.jpg"
-  credit: "Photo: Mamj16 / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Common_Eland_Africam.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Common_Eland_Africam.jpg/1920px-Common_Eland_Africam.jpg
+  credit: 'Photo: Mamj16 / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Common_Eland_Africam.jpg'
   focus:
     x: 55
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Africam_Safari_2021_-_064.jpg/3840px-Africam_Safari_2021_-_064.jpg"
-    credit: "Photo: Isaacvp / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Africam_Safari_2021_-_064.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Africam_Safari_2021_-_064.jpg/3840px-Africam_Safari_2021_-_064.jpg
+    credit: 'Photo: Isaacvp / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Africam_Safari_2021_-_064.jpg'
 place:
-  id: "ChIJd8G12UG_z4UR31mkWiFNJpg"
-  name: "Africam Safari"
-  address: "Carretera al Oasis 17302-22, Oasis, Blvd. Capitán Carlos Camacho Espíritu Km 16.5, Oasis, 72960 Heroica Puebla de Zaragoza, Pue., Mexico"
+  id: ChIJd8G12UG_z4UR31mkWiFNJpg
+  name: Africam Safari
+  address: >-
+    Carretera al Oasis 17302-22, Oasis, Blvd. Capitán Carlos Camacho Espíritu Km
+    16.5, Oasis, 72960 Heroica Puebla de Zaragoza, Pue., Mexico
   rating: 4.6
-  userRatingsTotal: 43882
-  googleMapsUrl: "https://maps.google.com/?cid=10963535148530031071&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 43999
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10963535148530031071&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 18.9373707
   lng: -98.13628469999999
-  phone: "+52 222 281 7000"
+  phone: +52 222 281 7000
   openingHours:
-    - "Monday: 10:00 AM – 5:00 PM"
-    - "Tuesday: 10:00 AM – 5:00 PM"
-    - "Wednesday: 10:00 AM – 5:00 PM"
-    - "Thursday: 10:00 AM – 5:00 PM"
-    - "Friday: 10:00 AM – 5:00 PM"
-    - "Saturday: 9:00 AM – 5:00 PM"
-    - "Sunday: 9:00 AM – 5:00 PM"
+    - 'Monday: 10:00 AM – 5:00 PM'
+    - 'Tuesday: 10:00 AM – 5:00 PM'
+    - 'Wednesday: 10:00 AM – 5:00 PM'
+    - 'Thursday: 10:00 AM – 5:00 PM'
+    - 'Friday: 10:00 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 5:00 PM'
+    - 'Sunday: 9:00 AM – 5:00 PM'
 tags:
-  - "puebla"
-  - "hidden gem"
-quickAnswer: "Africam Safari, on the Valsequillo road at Km 16.5 south of Puebla city, is a drive-through wildlife park with more than 450 species. You can tour it in your own car or on the park's bus. It opens at 10am Monday to Friday and at 9am at weekends, and closes at 5pm every day, so plan on arriving at opening and staying three to five hours."
+  - puebla
+  - hidden gem
+quickAnswer: >-
+  Africam Safari, on the Valsequillo road at Km 16.5 south of Puebla city, is a
+  drive-through wildlife park with more than 450 species. You can tour it in
+  your own car or on the park's bus. It opens at 10am Monday to Friday and at
+  9am at weekends, and closes at 5pm every day, so plan on arriving at opening
+  and staying three to five hours.
 faq:
-  - q: "Can I drive my own car through Africam Safari?"
-    a: "Yes. You can drive the safari route in your own vehicle or take the park's tour bus. Animals may come up to cars and touch them, so if you are driving a rental, check its terms on wildlife damage first."
-  - q: "What are Africam Safari's opening hours?"
-    a: "It opens at 10am Monday to Friday and at 9am on Saturday and Sunday, and closes at 5pm every day. Get there at opening so you have time for both the drive and the walking section."
-  - q: "How long should I plan to spend there?"
-    a: "Plan on three to five hours for the drive-through and the walking area together. Families with children often stay from opening until closing at weekends."
-  - q: "How do I get to Africam Safari from Puebla?"
-    a: "The park is about 16.5 km south of central Puebla on Boulevard Capitán Carlos Camacho Espíritu, the road toward the Valsequillo reservoir. Drive or take an Uber or DiDi, and plan how you will get back to the city. Check the official site for any transport packages from Puebla or Mexico City."
-  - q: "What else can I see nearby?"
-    a: "Puebla's historic centre, with the Zócalo and the cathedral, is a UNESCO World Heritage Site and makes a good evening after a morning at the park. Cholula's great pyramid is an easy trip from the city."
+  - q: Can I drive my own car through Africam Safari?
+    a: >-
+      Yes. You can drive the safari route in your own vehicle or take the park's
+      tour bus. Animals may come up to cars and touch them, so if you are
+      driving a rental, check its terms on wildlife damage first.
+  - q: What are Africam Safari's opening hours?
+    a: >-
+      It opens at 10am Monday to Friday and at 9am on Saturday and Sunday, and
+      closes at 5pm every day. Get there at opening so you have time for both
+      the drive and the walking section.
+  - q: How long should I plan to spend there?
+    a: >-
+      Plan on three to five hours for the drive-through and the walking area
+      together. Families with children often stay from opening until closing at
+      weekends.
+  - q: How do I get to Africam Safari from Puebla?
+    a: >-
+      The park is about 16.5 km south of central Puebla on Boulevard Capitán
+      Carlos Camacho Espíritu, the road toward the Valsequillo reservoir. Drive
+      or take an Uber or DiDi, and plan how you will get back to the city. Check
+      the official site for any transport packages from Puebla or Mexico City.
+  - q: What else can I see nearby?
+    a: >-
+      Puebla's historic centre, with the Zócalo and the cathedral, is a UNESCO
+      World Heritage Site and makes a good evening after a morning at the park.
+      Cholula's great pyramid is an easy trip from the city.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-05'
 ---
 
 A zebra stands in the lane, and nobody moves until it does. That one rule runs the whole of Africam Safari. You are the visitor in a fenced savanna on the edge of Puebla, and the animals have right of way. More than 450 species live across the reserve, and you see most of them through a windscreen or a bus window rather than over a moat.

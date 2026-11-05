@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: puebla-la-casa-del-mendrugo
-srcHash: 'b1ca5fa718b7'
+srcHash: '67f2cad0ee3b'
 title: 'La Casa del Mendrugo: dónde comer en Puebla (4.7★)'
-description: En el Centro de Puebla, en Calle 4 Sur 304, La Casa del Mendrugo ofrece cocina poblana y española a precios moderados dentro de un antiguo colegio jesuita que alberga además un museo. Tiene 4.7★ (13,396 reseñas). Aquí encontrará la opinión de los visitantes, los horarios y algunos consejos.
+description: En el Centro de Puebla, en Calle 4 Sur 304, La Casa del Mendrugo ofrece cocina poblana y española a precios moderados dentro de un antiguo colegio jesuita que alberga además un museo. Tiene 4.7★ (13,598 reseñas). Aquí encontrará la opinión de los visitantes, los horarios y algunos consejos.
 quickAnswer: Instalado en un antiguo colegio jesuita que cuenta con su propio museo, La Casa del Mendrugo es un restaurante de precio medio situado en Calle 4 Sur 304, en el Centro de Puebla, donde se sirve cocina poblana y española. Entre semana hay tranquilidad de 8am a 11pm. El fin de semana conviene llegar entre las 8am y las 11am, porque de 11am a 9pm se llena; tenga en cuenta, además, que el domingo cierra a las 6pm.
 faq:
   - q: ¿Cuál es el momento más tranquilo para ir a La Casa del Mendrugo?
