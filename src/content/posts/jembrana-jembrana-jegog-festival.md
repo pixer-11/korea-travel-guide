@@ -13,6 +13,14 @@ eventOffers:
   free: true
   currency: IDR
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Cupel%2C_Negara%2C_Jembrana_Regency%2C_Bali%2C_Indonesia_-_panoramio.jpg/1280px-Cupel%2C_Negara%2C_Jembrana_Regency%2C_Bali%2C_Indonesia_-_panoramio.jpg'
+  credit: 'Photo: Mozhar (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'File:Cupel, Negara, Jembrana Regency, Bali, Indonesia - panoramio.jpg'
+  focus:
+    x: 35
+    y: 45
 gallery: []
 tags:
   - jembrana

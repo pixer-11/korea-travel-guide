@@ -10,6 +10,14 @@ eventEndDate: '2026-12-06'
 eventRecurring: true
 eventVenue: Estadio Presidente Perón
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paso_bajo_nivel_Hector_J._Campora_en_Avellaneda%2C_Buenos_Aires._Foto_tomada_el_2_de_marzo_de_2019..jpg/1280px-Paso_bajo_nivel_Hector_J._Campora_en_Avellaneda%2C_Buenos_Aires._Foto_tomada_el_2_de_marzo_de_2019..jpg'
+  credit: 'Photo: Hermes iai (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'File:Paso bajo nivel Hector J. Campora en Avellaneda, Buenos Aires. Foto tomada el 2 de marzo de 2019..jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - avellaneda

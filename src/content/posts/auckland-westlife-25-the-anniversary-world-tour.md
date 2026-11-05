@@ -14,15 +14,15 @@ eventPerformer:
   kind: group
 eventFactsAsked: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/f/f5/Nobel_Peace_Price_Concert_2009_Westlife_and_Ragnhild_Hemsing.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/9/90/Nobel_Peace_Prize_Concert_2009_Westlife2.jpg
   credit: 'Photo: Harrywad / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Nobel_Peace_Price_Concert_2009_Westlife_and_Ragnhild_Hemsing.jpg
+  source: https://commons.wikimedia.org/wiki/File:Nobel_Peace_Prize_Concert_2009_Westlife2.jpg
   focus:
-    x: 62
-    'y': 16
-    top: 10
-    bottom: 22
+    x: 85
+    'y': 14
+    top: 8
+    bottom: 20
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/e/ee/Westlife_2011.jpg
     credit: 'Photo: Khánh Hmoong from Nha Trang, Vietnam / Wikimedia Commons (CC BY 2.0)'
@@ -44,8 +44,6 @@ faq:
   - q: Where can I eat before the show?
     a: The Britomart precinct and the Commercial Bay food hall are right on the walk from the train to the arena. Viaduct Harbour and Wynyard Quarter, about twenty minutes' walk west, have waterfront bars and seafood restaurants for afterwards.
 aiGenerated: true
-draft: true
-heldReason: wrong-venue-photo
 ---
 
 ## Twenty-five years of standing up on cue

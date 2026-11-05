@@ -14,15 +14,15 @@ eventPerformer:
   kind: person
 eventFactsAsked: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/2/2a/Nobel_Peace_Price_Concert_2009_Wyclef_Jean_%26_Lang_Lang.jpg
-  credit: 'Photo: Harrywad / Wikimedia Commons (CC BY-SA 3.0)'
+  url: https://upload.wikimedia.org/wikipedia/commons/6/65/Lang_Lang_-_World_Economic_Forum_Annual_Meeting_2010_Davos.jpg
+  credit: 'Photo: World Economic Forum from Cologny, Switzerland / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Nobel_Peace_Price_Concert_2009_Wyclef_Jean_%26_Lang_Lang.jpg
+  source: https://commons.wikimedia.org/wiki/File:Lang_Lang_-_World_Economic_Forum_Annual_Meeting_2010_Davos.jpg
   focus:
-    x: 27
-    'y': 19
-    top: 13
-    bottom: 25
+    x: 66
+    'y': 25
+    top: 15
+    bottom: 35
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Song_Bocelli_Lang_East_Meets_West.jpg/3840px-Song_Bocelli_Lang_East_Meets_West.jpg
     credit: 'Photo: Cmglee / Wikimedia Commons (CC BY-SA 3.0)'
@@ -44,8 +44,6 @@ faq:
   - q: What is there to do near the venue before or after the concert?
     a: Istiklal Avenue starts at Taksim Square and has cafés and meyhane taverns along it and in its side streets. Gezi Park is right behind the square, and the Galata Tower area is a downhill walk away.
 aiGenerated: true
-draft: true
-heldReason: wrong-venue-photo
 ---
 
 ## Two December nights on Taksim Square

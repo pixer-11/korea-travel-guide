@@ -9,6 +9,14 @@ eventStartDate: '2026-12-14'
 eventEndDate: '2026-12-14'
 eventRecurring: true
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/e/eb/Hanoi_Vietnam_%C4%90oan-m%C3%B4n-01.jpg'
+  credit: 'Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Hanoi_Vietnam_%C4%90oan-m%C3%B4n-01.jpg'
+  focus:
+    x: 50
+    y: 35
 gallery: []
 tags:
   - hanoi

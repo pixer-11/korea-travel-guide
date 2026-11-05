@@ -9,6 +9,14 @@ eventStartDate: '2026-11-08'
 eventEndDate: '2026-11-08'
 eventRecurring: true
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Xingxian_Academy%2C_main_hall%2C_Yuanlin_City%2C_Changhua_County_%28Taiwan%29_%28ID_NA09602000197%29.jpg/1280px-Xingxian_Academy%2C_main_hall%2C_Yuanlin_City%2C_Changhua_County_%28Taiwan%29_%28ID_NA09602000197%29.jpg'
+  credit: 'Photo: Mk2010 (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'File:Xingxian Academy, main hall, Yuanlin City, Changhua County (Taiwan) (ID NA09602000197).jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - changhua

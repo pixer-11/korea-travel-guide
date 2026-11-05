@@ -9,6 +9,14 @@ eventStartDate: '2026-11-27'
 eventEndDate: '2026-11-27'
 eventRecurring: true
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Pasay_City_Barangays_06.jpg/3840px-Pasay_City_Barangays_06.jpg'
+  credit: 'Photo: Video13 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Pasay_City_Barangays_06.jpg'
+  focus:
+    x: 45
+    y: 35
 gallery: []
 tags:
   - pasay

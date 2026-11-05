@@ -13,6 +13,14 @@ eventPerformer:
   name: BABYMONSTER
   kind: group
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Hong_Kong_Skyline_Restitch_-_Dec_2007.jpg/3840px-Hong_Kong_Skyline_Restitch_-_Dec_2007.jpg'
+  credit: 'Photo: Diliff / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Hong_Kong_Skyline_Restitch_-_Dec_2007.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - hong kong

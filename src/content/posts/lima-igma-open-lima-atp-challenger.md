@@ -13,6 +13,14 @@ eventOrganizer:
   name: ATP Challenger Tour
   url: https://www.atptour.com
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Circuito_m%C3%A1gico_del_agua%2C_Parque_Reserva%2C_Lima%2C_Per%C3%BA%2C_2015-07-28%2C_DD_124.JPG/3840px-Circuito_m%C3%A1gico_del_agua%2C_Parque_Reserva%2C_Lima%2C_Per%C3%BA%2C_2015-07-28%2C_DD_124.JPG'
+  credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Circuito_m%C3%A1gico_del_agua,_Parque_Reserva,_Lima,_Per%C3%BA,_2015-07-28,_DD_124.JPG'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - lima

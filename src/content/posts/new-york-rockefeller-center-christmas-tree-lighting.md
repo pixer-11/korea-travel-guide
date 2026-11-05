@@ -16,7 +16,6 @@ eventOffers:
   free: true
   currency: USD
 eventFactsAsked: true
-gallery: []
 tags:
   - new york
   - event
@@ -34,6 +33,14 @@ faq:
     a: Yes. After the ceremony the tree is lit every evening for the holiday season, and the plaza is much easier to walk through on those nights. St. Patrick's Cathedral, Radio City Music Hall and Top of the Rock are all close by.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Rockefeller_Center_Christmas_Tree_08.jpg/3840px-Rockefeller_Center_Christmas_Tree_08.jpg
+  credit: 'Photo: Michael Vadon / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Rockefeller_Center_Christmas_Tree_08.jpg
+  focus:
+    x: 58
+    'y': 40
 ---
 
 ## The tree above the rink

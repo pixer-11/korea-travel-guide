@@ -9,6 +9,14 @@ eventStartDate: '2027-01-01'
 eventEndDate: '2027-01-01'
 eventRecurring: true
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Japanese_garden_in_Maebashi%2C_Japan_2.jpg/1280px-Japanese_garden_in_Maebashi%2C_Japan_2.jpg'
+  credit: 'Photo: Ravi Dwivedi (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'File:Japanese garden in Maebashi, Japan 2.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - maebashi

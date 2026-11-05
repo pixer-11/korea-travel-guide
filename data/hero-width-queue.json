@@ -3354,7 +3354,10 @@
   "sapporo-sapporo-white-illumination\u0001https://upload.wikimedia.org/wikipedia/commons/1/1d/%E7%AC%AC35%E5%9B%9E%E3%81%95%E3%81%A3%E3%81%BD%E3%82%8D%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%82%A4%E3%83%AB%E3%83%9F%E3%83%8D%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%88Sapporo_White_illumination_35th%EF%BC%89_-_panoramio.jpg": 3024,
   "seoul-korean-esports-league-kel-2026-championship-eternal-return\u0001https://upload.wikimedia.org/wikipedia/commons/7/7c/Yongsan_esports_stadium.jpg": 2592,
   "singapore-lucy-island-encore\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/LUCY_Shin_Gwang-il.jpg/3840px-LUCY_Shin_Gwang-il.jpg": 3840,
-  "tokyo-hakone-ekiden\u0001https://upload.wikimedia.org/wikipedia/commons/6/6a/2015_Hakone_Ekiden_Chairman_car_MIRAI.jpg": 2048
+  "tokyo-hakone-ekiden\u0001https://upload.wikimedia.org/wikipedia/commons/6/6a/2015_Hakone_Ekiden_Chairman_car_MIRAI.jpg": 2048,
+  "auckland-westlife-25-the-anniversary-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/9/90/Nobel_Peace_Prize_Concert_2009_Westlife2.jpg": 1200,
+  "new-york-rockefeller-center-christmas-tree-lighting\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Rockefeller_Center_Christmas_Tree_08.jpg/3840px-Rockefeller_Center_Christmas_Tree_08.jpg": 3840,
+  "istanbul-lang-lang-young-musicians-concert\u0001https://upload.wikimedia.org/wikipedia/commons/6/65/Lang_Lang_-_World_Economic_Forum_Annual_Meeting_2010_Davos.jpg": 3072
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -3653,8 +3656,8 @@
   },
   "kyoto-kurama-fire-festival": {
    "width": 1024,
-   "attempts": 4,
-   "nextTry": "2026-11-05",
+   "attempts": 5,
+   "nextTry": "2026-11-12",
    "flaggedAt": "2026-09-24",
    "lastResult": "no-wider"
   },
@@ -3666,8 +3669,8 @@
   },
   "beijing-beijing-marathon": {
    "width": 1024,
-   "attempts": 3,
-   "nextTry": "2026-11-05",
+   "attempts": 4,
+   "nextTry": "2026-11-12",
    "flaggedAt": "2026-10-01",
    "lastResult": "no-wider"
   },
@@ -3879,5 +3882,5 @@
    "flaggedAt": "2026-11-02"
   }
  },
- "updated": "2026-11-05T01:41:38.646Z"
+ "updated": "2026-11-05T01:51:23.634Z"
 }

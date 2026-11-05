@@ -6878,5 +6878,69 @@
    "x": 50,
    "y": 40
   }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paso_bajo_nivel_Hector_J._Campora_en_Avellaneda%2C_Buenos_Aires._Foto_tomada_el_2_de_marzo_de_2019..jpg/1280px-Paso_bajo_nivel_Hector_J._Campora_en_Avellaneda%2C_Buenos_Aires._Foto_tomada_el_2_de_marzo_de_2019..jpg": {
+  "w": 1280,
+  "h": 720,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Xingxian_Academy%2C_main_hall%2C_Yuanlin_City%2C_Changhua_County_%28Taiwan%29_%28ID_NA09602000197%29.jpg/1280px-Xingxian_Academy%2C_main_hall%2C_Yuanlin_City%2C_Changhua_County_%28Taiwan%29_%28ID_NA09602000197%29.jpg": {
+  "w": 1280,
+  "h": 841,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/e/eb/Hanoi_Vietnam_%C4%90oan-m%C3%B4n-01.jpg": {
+  "w": 3788,
+  "h": 2525,
+  "focus": {
+   "x": 50,
+   "y": 35
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Hong_Kong_Skyline_Restitch_-_Dec_2007.jpg/3840px-Hong_Kong_Skyline_Restitch_-_Dec_2007.jpg": {
+  "w": 3840,
+  "h": 1666,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Cupel%2C_Negara%2C_Jembrana_Regency%2C_Bali%2C_Indonesia_-_panoramio.jpg/1280px-Cupel%2C_Negara%2C_Jembrana_Regency%2C_Bali%2C_Indonesia_-_panoramio.jpg": {
+  "w": 1280,
+  "h": 960,
+  "focus": {
+   "x": 35,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Circuito_m%C3%A1gico_del_agua%2C_Parque_Reserva%2C_Lima%2C_Per%C3%BA%2C_2015-07-28%2C_DD_124.JPG/3840px-Circuito_m%C3%A1gico_del_agua%2C_Parque_Reserva%2C_Lima%2C_Per%C3%BA%2C_2015-07-28%2C_DD_124.JPG": {
+  "w": 3840,
+  "h": 2560,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Japanese_garden_in_Maebashi%2C_Japan_2.jpg/1280px-Japanese_garden_in_Maebashi%2C_Japan_2.jpg": {
+  "w": 1280,
+  "h": 853,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Pasay_City_Barangays_06.jpg/3840px-Pasay_City_Barangays_06.jpg": {
+  "w": 3840,
+  "h": 2880,
+  "focus": {
+   "x": 45,
+   "y": 35
+  }
  }
 }
