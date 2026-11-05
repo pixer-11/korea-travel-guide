@@ -11,6 +11,16 @@ on:
     - cron: '37 20 * * 0' # Sundays 20:37 UTC = 월요일 05:37 KST
   workflow_dispatch: {}
 
+# One discovery at a time: two runs that each placed new cities would rebase
+# over each other with -X theirs below, and the second would keep only its own
+# src/lib/venue-tz-learned.mjs — the first run's posts on main with their zones
+# gone (Codex, 2026-11-05). A running discovery is never cancelled (it would
+# half-write); GitHub keeps one run waiting behind it, and a newer one replaces
+# that waiting run before it has started.
+concurrency:
+  group: discover-events
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
@@ -174,7 +184,8 @@ jobs:
         run: |
           git config user.name "content-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add src/content/posts src/content/i18n data/published.json public/wall data/wall.json src/i18n/places.json src/i18n/regions.json data/performer-category-heroes.json
+          # venue-tz-learned.mjs: the zone of each new city, written beside its page.
+          git add src/content/posts src/content/i18n data/published.json public/wall data/wall.json src/i18n/places.json src/i18n/regions.json data/performer-category-heroes.json src/lib/venue-tz-learned.mjs
           if git diff --staged --quiet; then
             echo "No new events this run."
             exit 0

@@ -1,7 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
-import { COUNTRY_TZ, REGION_TZ, venueTimeZone } from './venue-tz.mjs';
+import { COUNTRY_TZ, REGION_TZ, LEARNED_TZ, AMBIGUOUS, venueTimeZone } from './venue-tz.mjs';
 
 const countries = JSON.parse(readFileSync(new URL('../../data/countries.json', import.meta.url), 'utf8')).countries;
 
@@ -22,7 +22,8 @@ test('multi-zone countries place every configured region', () => {
 });
 
 test('every zone is a real IANA zone', () => {
-  for (const tz of [...Object.values(COUNTRY_TZ), ...Object.values(REGION_TZ).flatMap((m) => Object.values(m))]) {
+  const learned = Object.values(LEARNED_TZ).flatMap((m) => Object.values(m).map((e) => e.tz)).filter((tz) => tz !== null);
+  for (const tz of [...Object.values(COUNTRY_TZ), ...Object.values(REGION_TZ).flatMap((m) => Object.values(m)), ...learned]) {
     assert.ok(valid(tz), tz);
   }
 });
@@ -42,7 +43,7 @@ test('unknown city in a multi-zone country is null, never a guess', () => {
 test('every published post in a multi-zone country resolves to a zone', async () => {
   const { readdirSync } = await import('node:fs');
   const dir = new URL('../content/posts/', import.meta.url);
-  const UNKNOWABLE = new Set(['Arlington', 'Sturgis']); // two states each — see venue-tz.mjs
+  const UNKNOWABLE = new Set(Object.values(AMBIGUOUS).flat()); // two states each — see venue-tz.mjs
   const missing = new Set();
   let seen = 0;
   for (const f of readdirSync(dir).filter((x) => x.endsWith('.md'))) {
@@ -52,7 +53,10 @@ test('every published post in a multi-zone country resolves to a zone', async ()
     const region = fm.match(/^region:\s*["']?([^"'\r\n]+)/m)?.[1]?.trim();
     if (!REGION_TZ[country]) continue;
     seen++;
-    if (!UNKNOWABLE.has(region) && !venueTimeZone(country, region)) missing.add(`${country} / ${region}`);
+    // A city discovery recorded as unplaceable (tz null, with its reason) is
+    // known to be unknown, like the two above.
+    const recorded = LEARNED_TZ[country] && Object.hasOwn(LEARNED_TZ[country], region);
+    if (!UNKNOWABLE.has(region) && !recorded && !venueTimeZone(country, region)) missing.add(`${country} / ${region}`);
   }
   assert.ok(seen > 100, `only ${seen} multi-zone posts read`);
   assert.deepEqual([...missing], [], 'add these cities to REGION_TZ in src/lib/venue-tz.mjs');

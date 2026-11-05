@@ -8,6 +8,10 @@
 // and the page shows no status — never a guess from the wrong half of a
 // continent.
 
+import LEARNED_TZ from './venue-tz-learned.mjs';
+
+export { LEARNED_TZ };
+
 export const COUNTRY_TZ = {
   'South Korea': 'Asia/Seoul',
   Japan: 'Asia/Tokyo',
@@ -54,7 +58,7 @@ export const REGION_TZ = {
     'Los Angeles': PT, 'San Francisco': PT, 'Las Vegas': PT, Seattle: PT,
     'San Diego': PT, Portland: PT, Gardena: PT, 'Indian Wells': PT,
     Honolulu: 'Pacific/Honolulu', Tempe: 'America/Phoenix', // Arizona keeps no daylight time
-    // Arlington (TX or VA?) and Sturgis (SD or MI?) are deliberately absent.
+    // Arlington (TX or VA?) and Sturgis (SD or MI?) are deliberately absent — see AMBIGUOUS.
   },
   Indonesia: {
     Jakarta: WIB, Yogyakarta: WIB, Bandung: WIB, Surabaya: WIB, Malang: WIB,
@@ -107,9 +111,17 @@ export const REGION_TZ = {
   },
 };
 
+// Names that are two places on two clocks, placed nowhere on purpose. Shared
+// with the test and with discovery's learner, which must not place one of
+// these by the province of its newest post — every older post of the same
+// name would take that clock too.
+export const AMBIGUOUS = { 'United States': ['Arlington', 'Sturgis'] };
+
 /** IANA zone for a post's country + region, or null when we don't know it. */
 export function venueTimeZone(country, region) {
   const byRegion = REGION_TZ[country];
-  if (byRegion) return byRegion[region] ?? null;
+  // Then the cities event discovery placed by their province as it found them
+  // (venue-tz-learned.mjs, 2026-11-05) — the hand table alone fell behind ten times.
+  if (byRegion) return byRegion[region] ?? LEARNED_TZ[country]?.[region]?.tz ?? null;
   return COUNTRY_TZ[country] ?? null;
 }

@@ -41,6 +41,7 @@ import { foreignInFilename, geoTokens } from './lib/event-file-identity.mjs';
 import { loadWorld } from './lib/commons-identity.mjs';
 import { ownCountry } from './lib/country-of-city.mjs';
 import { isPastEvent } from './lib/event-past.mjs';
+import { learnVenueZone } from './lib/province-tz.mjs';
 
 // Place-name tokens for the filename identity audit (a past host city in a
 // file name is WHERE an edition was held, not another act).
@@ -123,6 +124,13 @@ async function searchJson(prompt, maxTokens = 12000, retried = false, pre = null
   throw new Error(`search reply unusable twice (${msg.stop_reason}, ${text.length} chars)`);
 }
 
+// The city's clock, asked while the search that found it is running: its
+// state or province and its zone, which lib/province-tz.mjs checks against
+// each other before anything is written (2026-11-05 — ten cities in
+// multi-zone countries had shipped with no zone because nobody had placed
+// them by hand).
+const PLACE_FIELDS = `"province":"the state / province / first-level region the city is in, in English","timeZone":"the city's IANA time zone, e.g. America/Chicago",`;
+
 const discoverEvents = (country, pre = null) => searchJson(eventsPrompt(country), 12000, false, pre);
 const eventsPrompt = (country) => (
     `Search the web for NOTABLE, currently-UPCOMING events in ${country} over the next ~12 weeks that would draw international visitors: ` +
@@ -149,7 +157,7 @@ const eventsPrompt = (country) => (
     // MAX_CANDIDATES, not a literal: the slice was raised to 8 on 2026-09-09 but
     // this sentence still said 4, so the model never sent more than 4 (09-24).
     `Respond with ONLY a JSON array (no prose, no code fence) of up to ${MAX_CANDIDATES} items: ` +
-    `[{"name":"...","city":"...","date":"human-readable e.g. August 1-9, 2026","startDate":"YYYY-MM-DD","endDate":"YYYY-MM-DD (same as startDate if one day; last day if multi-day)","category":"event","recurring":true,"organizer":"official organizing body, or null","organizerUrl":"its official site, or null","venue":"the named venue where it takes place (stadium, arena, circuit, park, hall) as the sources name it, or null","ticketUrl":"the official ticket or registration page on the event's own site, or null","free":true or false or null,"currency":"ISO 4217 code of the country's currency when free is true, else null","performer":"the named act when the event IS that act performing, else null","performerKind":"person or group, else null","summary":"1-2 factual sentences: what, where, when"}]. ` +
+    `[{"name":"...","city":"...",${PLACE_FIELDS}"date":"human-readable e.g. August 1-9, 2026","startDate":"YYYY-MM-DD","endDate":"YYYY-MM-DD (same as startDate if one day; last day if multi-day)","category":"event","recurring":true,"organizer":"official organizing body, or null","organizerUrl":"its official site, or null","venue":"the named venue where it takes place (stadium, arena, circuit, park, hall) as the sources name it, or null","ticketUrl":"the official ticket or registration page on the event's own site, or null","free":true or false or null,"currency":"ISO 4217 code of the country's currency when free is true, else null","performer":"the named act when the event IS that act performing, else null","performerKind":"person or group, else null","summary":"1-2 factual sentences: what, where, when"}]. ` +
     `startDate/endDate MUST be valid ISO dates; omit them only if the exact date is genuinely unknown. ` +
     // Recurrence decides whether the page stays indexed once the date passes
     // and whether it advertises a yearly cadence in schema. It used to be
@@ -181,7 +189,7 @@ const discoverHotspots = (country) =>
     `Search the web for newly-opened or currently TRENDING, buzzworthy restaurants, cafés, bars, or hotspots across ${country}'s major cities in 2026 — places travelers and locals are talking about right now. ` +
     `Only REAL, currently-open venues (not permanently closed). ` +
     `Respond with ONLY a JSON array (no prose, no code fence) of up to 4 items: ` +
-    `[{"name":"...","city":"...","category":"restaurant","summary":"1-2 factual sentences: what it is, where, why it's notable"}] ` +
+    `[{"name":"...","city":"...",${PLACE_FIELDS}"category":"restaurant","summary":"1-2 factual sentences: what it is, where, why it's notable"}] ` +
     `where category is one of "restaurant","trendy","hidden-gem". If nothing notable, return [].`
   );
 
@@ -533,6 +541,9 @@ async function writeDiscovered(item, ctx) {
   // this writer didn't, and nagoya-asian-games shipped struck-through text
   // (validate warning, 08-20). Same fix, same place: where the file is written.
   const safeBody = String(body).replace(/(^|[^\\])~/g, '$1\\~');
+  // A city no table places gets its zone now, in the same commit as its page —
+  // not after venue-tz.test fails on the next push.
+  learnVenueZone(country, item.city, item.province, item.timeZone);
   await writeFile(join(POSTS_DIR, `${slug}.md`), frontmatter(data) + safeBody + '\n', 'utf8');
   existing.add(slug); done.add(key); existingTopics.add(tkey);
   if (kind === 'event' && eventAnchors) eventAnchors.push(candKey);
