@@ -23,6 +23,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 39.8503616
   lng: -4.0218798
+  phone: '+34 683 16 06 76'
+  openingHours:
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
   - toledo
   - hidden gem

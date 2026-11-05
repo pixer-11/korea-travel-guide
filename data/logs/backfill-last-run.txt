@@ -1,15 +1,20 @@
 Places 예산: backfill 몫 25회 (오늘 사용 0/100)
 Priority: 309 itinerary stop(s) queued first
-  – tiong-bahru-hortpark.md: nothing new (resting 60d)
-  – tsim-sha-tsui-former-kowloon-canton-railway-clock-tower.md: nothing new (resting 60d)
-  – granada-la-alcaiceria.md: nothing new (resting 60d)
+  – alanya-alanya-lighthouse.md: nothing new (resting 60d)
+  – goa-st-augustine-tower-goa.md: nothing new (resting 60d)
+  – lima-archbishop-s-palace-of-lima.md: nothing new (resting 60d)
   – naples-piazza-del-plebiscito.md: nothing new (resting 60d)
   – pamukkale-necropolis-of-hierapolis.md: nothing new (resting 60d)
-  – siena-piazza-del-campo.md: nothing new (resting 60d)
-  – suzhou-humble-administrator-s-garden.md: nothing new (resting 60d)
-  – tagaytay-taal-volcano-view.md: nothing new (resting 60d)
-  – ubud-puri-saren-agung-ubud-puri-saren-ubud.md: nothing new (resting 60d)
-  – playa-del-carmen-portal-maya.md: nothing new (resting 60d)
-  – poipet-preah-vihear-temple.md: nothing new (resting 60d)
+  – puebla-zocalo-de-puebla.md: nothing new (resting 60d)
+  – selcuk-trajan-fountain.md: nothing new (resting 60d)
+  – stanley-stanley-market.md: nothing new (resting 60d)
+  – tainan-shennong-street.md: nothing new (resting 60d)
+  – taiping-clock-tower.md: nothing new (resting 60d)
+  – taroko-gorge-silks-place-taroko.md: nothing new (resting 60d)
+  – tashkent-magic-city-park.md: nothing new (resting 60d)
+  ✓ toledo-mirador-del-valle.md +phone +7h hours
+  – trabzon-sumela-monastery.md: nothing new (resting 60d)
+  – tsim-sha-tsui-tsim-sha-tsui-promenade.md: nothing new (resting 60d)
+  – puebla-catedral-de-puebla.md: nothing new (resting 60d)
 
-BACKFILL RESULT: updated 0, backlog-updated 0, already-complete 1644, no-new-data 842, no-place 1204, closed-quarantined 0, quota-429 0, api-error 0, api-calls 11, remaining-askable 0 (APPLIED).
+BACKFILL RESULT: updated 1, backlog-updated 1, already-complete 1649, no-new-data 846, no-place 1249, closed-quarantined 0, quota-429 0, api-error 0, api-calls 16, remaining-askable 0 (APPLIED).
