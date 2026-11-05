@@ -68,6 +68,10 @@ if (!globalThis.fetch.__waRetry) {
 // checks — the same pages included — passed, and an alert went out for
 // nothing. A navigation that times out is tried once more with 60 s; a page
 // that is really down or hanging times out twice and still fails.
+// A connection that ended without a page — the one-offs, not a missing page.
+// CLOSED joined RESET on 11-05 (the eSIM check, see below).
+const isBlip = (e) => /ERR_HTTP_RESPONSE_CODE_FAILURE|ERR_CONNECTION_(?:RESET|CLOSED)|ERR_EMPTY_RESPONSE/.test(e?.message || '');
+
 function retrySlowGoto(page) {
   if (page.__waRetry) return page;
   page.__waRetry = true;
@@ -80,14 +84,29 @@ function retrySlowGoto(page) {
       // answered one at 03:58 KST on 10-28 and 200 every time after, while the
       // other pages of the same run passed. Tried once more; a page that is
       // really missing answers the same twice and still fails.
-      const blip = /ERR_HTTP_RESPONSE_CODE_FAILURE|ERR_CONNECTION_RESET|ERR_EMPTY_RESPONSE/.test(e?.message || '');
+      const blip = isBlip(e);
       if (e?.name !== 'TimeoutError' && !blip) throw e;
       console.log(`  (${blip ? 'error response' : 'slow load'}, trying once more: ${url})`);
       if (blip) await new Promise((r) => setTimeout(r, 5_000));
       // The timed-out load is still in flight; going to the same URL over it
       // is answered net::ERR_ABORTED. Clear it first.
       await goto('about:blank').catch(() => {});
-      return goto(url, { ...opts, timeout: Math.max(60_000, opts.timeout || 0) });
+      const again = { ...opts, timeout: Math.max(60_000, opts.timeout || 0) };
+      try {
+        return await goto(url, again);
+      } catch (e2) {
+        // 2026-11-05 01:54 KST: /ja/tools/esim/south-korea/ timed out, and the
+        // retry fired at once into ERR_CONNECTION_CLOSED — two failures inside
+        // a few seconds, as the 15:37 UTC publish's deploy went live (build
+        // done 16:56), 200 in all five languages minutes later. A dropped
+        // connection after a slow load gets one last try 10 s on; a site that
+        // is really down is still down then, and fails.
+        if (!isBlip(e2)) throw e2;
+        console.log(`  (connection dropped on the retry, last try in 10 s: ${url})`);
+        await new Promise((r) => setTimeout(r, 10_000));
+        await goto('about:blank').catch(() => {});
+        return goto(url, again);
+      }
     }
   };
   return page;
