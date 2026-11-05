@@ -1,56 +1,56 @@
 ---
 lang: es
 slug: hong-kong-jason-mraz-live-in-hong-kong
-srcHash: '9462e516b5e0'
+srcHash: 'b01c2eb9b04c'
 title: 'Jason Mraz Live In Hong Kong: fechas, entradas y recinto (Hong Kong)'
-description: Dentro de su gira Asia 2026 Tour, Jason Mraz ofrecerá un único concierto, Jason Mraz Live In Hong Kong, el miércoles 4 de noviembre de 2026 en el AsiaWorld-Expo, recinto situado junto al Aeropuerto Internacional de Hong Kong, en la isla de Lantau.
-quickAnswer: Dentro de su gira Asia 2026 Tour, Jason Mraz ofrecerá un único concierto, Jason Mraz Live In Hong Kong, el miércoles 4 de noviembre de 2026 en el AsiaWorld-Expo, recinto situado junto al Aeropuerto Internacional de Hong Kong, en la isla de Lantau. Compre las entradas exclusivamente a través del canal oficial del promotor y consulte en la web oficial los horarios y la información sobre las localidades. Para llegar, lo más cómodo es tomar el Airport Express del MTR hasta la estación AsiaWorld-Expo.
+description: El concierto Jason Mraz Live In Hong Kong, dentro de la gira Asia 2026 Tour, estaba programado para el miércoles 4 de noviembre de 2026 en el AsiaWorld-Expo, junto al Aeropuerto Internacional de Hong Kong.
+quickAnswer: La fecha anunciada de Jason Mraz Live In Hong Kong era el miércoles 4 de noviembre de 2026, en el AsiaWorld-Expo, recinto contiguo al Aeropuerto Internacional de Hong Kong, en la isla de Lantau. Se trataba de una única noche dentro de su gira Asia 2026 Tour. Las entradas se vendieron a través del canal oficial del promotor. Para llegar al recinto, lo más cómodo es el Airport Express del MTR hasta la estación AsiaWorld-Expo.
 faq:
-  - q: ¿Cuándo y dónde se celebra Jason Mraz Live In Hong Kong?
-    a: El miércoles 4 de noviembre de 2026, en el AsiaWorld-Expo de Chek Lap Kok, junto al Aeropuerto Internacional de Hong Kong. Será la única actuación en la ciudad de su gira Asia 2026 Tour. Consulte en la web oficial los horarios y la información sobre las entradas.
+  - q: ¿Cuándo y dónde era Jason Mraz Live In Hong Kong?
+    a: El concierto tenía fecha el miércoles 4 de noviembre de 2026, en el AsiaWorld-Expo de Chek Lap Kok, junto al Aeropuerto Internacional de Hong Kong. La gira Asia 2026 Tour lo anunciaba como única actuación en Hong Kong.
   - q: ¿Cómo se llega al AsiaWorld-Expo?
-    a: Tome el Airport Express del MTR en las estaciones de Hong Kong, Kowloon o Tsing Yi. Los días de evento, el tren no termina en Airport, sino que avanza una parada más hasta la estación AsiaWorld-Expo, a las puertas del recinto. Si no tiene prisa, puede ir en la línea Tung Chung hasta Tung Chung y continuar en autobús o taxi.
+    a: Con el Airport Express del MTR desde las estaciones de Hong Kong, Kowloon o Tsing Yi. Los días de evento, el tren continúa una parada más allá de Airport hasta la estación AsiaWorld-Expo, a pie del recinto. Una alternativa más lenta es la línea Tung Chung hasta Tung Chung y, desde allí, autobús o taxi.
   - q: ¿Cómo se vuelve a la ciudad después del concierto?
-    a: La mayoría del público regresa en el Airport Express, así que en la estación habrá colas organizadas por el personal. Antes del concierto, consulte en la web del MTR a qué hora sale el último tren. También hay taxis, aunque la parada se llena enseguida.
-  - q: ¿Dónde conviene comprar las entradas?
-    a: Únicamente en el canal oficial de venta que enlace el promotor. En Hong Kong, las reventas anunciadas en redes sociales son una fuente habitual de entradas falsas. El precio vigente figura en la página oficial de venta.
+    a: La mayoría del público regresa en el Airport Express, y el personal organiza las colas en la estación. Este servicio no funciona toda la noche. Hay taxis, aunque la parada se llena rápidamente.
+  - q: ¿Dónde se compraban las entradas?
+    a: Se vendieron a través del canal oficial de venta enlazado por el promotor. En Hong Kong, los anuncios de reventa en redes sociales son una fuente habitual de entradas falsas.
   - q: ¿Qué tiempo hace en Hong Kong a principios de noviembre?
-    a: Suele ser seco y templado. Como el pabellón cubierto tiene aire acondicionado y puede resultar fresco, conviene llevar una prenda ligera de abrigo.
+    a: Suele ser seco y templado. El pabellón cubierto tiene aire acondicionado y puede resultar fresco, por lo que una prenda ligera viene bien.
 ---
 
-## Una sola noche y un solo recinto: miércoles 4 de noviembre
+## Una sola noche y un solo recinto: el miércoles 4 de noviembre
 
-La cita es el miércoles 4 de noviembre de 2026. Dentro de su gira Asia 2026 Tour, Jason Mraz actuará una única vez en el AsiaWorld-Expo, y no habrá segunda fecha para quien se quede sin entrada.
+El concierto tenía fecha el miércoles 4 de noviembre de 2026 en el AsiaWorld-Expo. No había segunda función: era la única parada en Hong Kong de la gira Asia 2026 Tour de Jason Mraz.
 
-El cantante ganó sendos Grammy por «Make It Mine» y por «Lucky», el dueto que grabó con Colbie Caillat. Buena parte del público esperará también «I'm Yours» y «I Won't Give Up». La información disponible no menciona telonero, duración del repertorio ni hora de apertura de puertas, de modo que conviene consultar en la web oficial los horarios y la información sobre las entradas.
+Mraz ganó premios Grammy por «Make It Mine» y por «Lucky», el dúo que grabó con Colbie Caillat. También es muy conocido por «I'm Yours» y «I Won't Give Up». El anuncio no mencionaba telonero, duración del concierto ni hora de apertura de puertas.
 
 ## Junto a las pistas de Chek Lap Kok
 
-El AsiaWorld-Expo se encuentra en Chek Lap Kok, la isla donde se asienta el Aeropuerto Internacional de Hong Kong. Se trata de un gran complejo de exposiciones y espectáculos, y desde allí es habitual ver aviones que aterrizan y despegan. No espere una sala íntima, sino un enorme pabellón cubierto. Cuente además con hacer cola en el control de seguridad antes de acercarse siquiera a la pista.
+El AsiaWorld-Expo se encuentra en Chek Lap Kok, la isla donde está el Aeropuerto Internacional de Hong Kong. Es un gran complejo de exposiciones y espectáculos, y los aviones que aterrizan y despegan forman parte habitual del paisaje. No se trata de una sala pequeña, sino de un enorme pabellón cubierto, y en los conciertos el público suele hacer cola en el control de seguridad antes de llegar a la pista.
 
-En Hong Kong, noviembre forma parte de la estación seca y templada. Por la tarde-noche se suele estar a gusto al aire libre, pero dentro del pabellón el aire acondicionado enfría bastante, así que merece la pena llevar una prenda ligera.
+Noviembre coincide con la estación seca y templada de Hong Kong. Al aire libre, la noche suele resultar agradable, pero el aire acondicionado del pabellón enfría mucho el ambiente, de modo que una prenda ligera de abrigo resultaba útil.
 
-## Ida en el Airport Express
+## En el Airport Express hasta el recinto
 
-La forma más sencilla de llegar es el Airport Express del MTR. Los días de evento, los trenes siguen una parada más allá de Airport hasta la **estación AsiaWorld-Expo**, cuya salida da prácticamente al recinto.
+La ruta más sencilla es el Airport Express del MTR. Los días de evento, los trenes siguen una parada más allá de Airport hasta la **estación AsiaWorld-Expo**, cuya salida da prácticamente a las puertas del recinto.
 
-- **Desde Central:** suba en la estación de Hong Kong; el trayecto hasta el recinto dura una media hora.
-- **Desde Kowloon:** suba en la estación de Kowloon o en la de Tsing Yi.
-- **Más barato, aunque más lento:** tome la línea Tung Chung hasta Tung Chung y cruce después a la isla del aeropuerto en autobús o taxi.
-- **En taxi:** pueden hacer el recorrido tanto los taxis rojos urbanos como los azules de Lantau. Desde Kowloon o desde la isla de Hong Kong, el viaje es largo y caro.
+- **Desde Central:** se sube en la estación de Hong Kong (Hong Kong Station), a una media hora del recinto.
+- **Desde Kowloon:** se sube en la estación de Kowloon o en la de Tsing Yi.
+- **Más barato, aunque más lento:** la línea Tung Chung hasta Tung Chung y, desde allí, autobús o taxi hasta la isla del aeropuerto.
+- **En taxi:** tanto los taxis rojos urbanos como los azules de Lantau pueden hacer el trayecto. Desde Kowloon o desde la isla de Hong Kong, el viaje es largo y caro.
 
-Las tarifas pueden consultarse en la propia estación y en la web del MTR.
+Las tarifas figuran en la estación y en la web del MTR.
 
-## Regreso desde Lantau tras el bis
+## La vuelta desde Lantau tras el bis
 
-La salida es el momento que más se suele complicar, porque miles de personas se dirigen a la vez a una misma estación. El personal organiza el acceso al andén del Airport Express en largas filas en zigzag; avance sin detenerse y tenga a mano el billete o la tarjeta.
+En los grandes conciertos de este recinto, lo difícil es marcharse. Miles de personas se dirigen a la vez hacia una única estación. El personal organiza en filas serpenteantes la cola para el andén del Airport Express, que avanza a buen ritmo.
 
-- **Pague con Octopus:** en lugar de comprar un billete sencillo después del concierto, pase por los tornos una tarjeta Octopus o una tarjeta bancaria sin contacto.
-- **Consulte el último tren:** el Airport Express no circula toda la noche. Compruebe en la web del MTR la hora de la última salida antes del concierto, no al terminar.
-- **Salir antes de tiempo:** si necesita alcanzar ese último tren, marcharse durante la última canción le evitará las aglomeraciones.
-- **Taxis:** al acabar el concierto, la parada se llena enseguida, y los taxis rojos que vuelven a la ciudad son los más solicitados.
-- **Alojarse cerca:** con un hotel en la isla del aeropuerto o en Tung Chung se ahorra por completo el viaje de vuelta, una opción sensata si vuela a la mañana siguiente.
+- **Pago con Octopus:** en los tornos se puede usar la tarjeta Octopus o una tarjeta bancaria sin contacto, algo más rápido que comprar un billete sencillo a la salida de un concierto.
+- **El último tren:** el Airport Express no circula toda la noche. La hora de la última salida aparece en la web del MTR.
+- **Salir antes:** quien depende de ese último tren suele marcharse durante la última canción para evitar las aglomeraciones.
+- **Taxis:** la parada se llena enseguida al terminar un concierto, y los taxis rojos que vuelven a la ciudad son los más solicitados.
+- **Alojarse cerca:** con los hoteles de la isla del aeropuerto y de Tung Chung se evita por completo el regreso. Son una buena opción para quien tenga un vuelo a la mañana siguiente.
 
-Compre las entradas solo en el canal oficial de venta que enlace el promotor. En Hong Kong, la reventa de entradas de conciertos en redes sociales es una vía de estafa muy conocida.
+Las entradas se vendieron a través del canal oficial enlazado por el promotor. En Hong Kong, la reventa de entradas de conciertos en redes sociales es una vía de estafa bien conocida.
 
-En los grandes recintos de la ciudad, el público se comporta con orden: cada cual permanece en su localidad y sigue las indicaciones del personal. Las normas sobre cámaras profesionales y grabaciones las fija el organizador, así que revise las condiciones impresas en su entrada.
+En los pabellones de Hong Kong, el público se comporta de forma ordenada: permanece junto a su asiento y sigue las indicaciones del personal. Las normas sobre cámaras profesionales y grabación las fija el organizador y figuran en las condiciones de la entrada.

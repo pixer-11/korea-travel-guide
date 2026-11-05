@@ -179,6 +179,12 @@
     "es": "Arlington",
     "zh": "阿灵顿"
   },
+  "Asan": {
+    "ko": "아산",
+    "ja": "牙山",
+    "es": "Asan",
+    "zh": "牙山"
+  },
   "Assago": {
     "ko": "아사고",
     "ja": "アッサーゴ",
@@ -202,6 +208,12 @@
     "ja": "オーストラリア",
     "es": "Australia",
     "zh": "澳大利亚"
+  },
+  "Avellaneda": {
+    "ko": "아베야네다",
+    "ja": "アベジャネダ",
+    "es": "Avellaneda",
+    "zh": "阿韦利亚内达"
   },
   "Avignon": {
     "ko": "아비뇽",
@@ -623,6 +635,12 @@
     "es": "Chandigarh",
     "zh": "昌迪加尔"
   },
+  "Changhua": {
+    "ko": "장화",
+    "ja": "彰化",
+    "es": "Changhua",
+    "zh": "彰化"
+  },
   "Changzhou": {
     "ko": "창저우",
     "ja": "常州",
@@ -670,6 +688,12 @@
     "ja": "シカゴ",
     "es": "Chicago",
     "zh": "芝加哥"
+  },
+  "Chichibu": {
+    "ko": "치치부",
+    "ja": "秩父",
+    "es": "Chichibu",
+    "zh": "秩父"
   },
   "Chimgan": {
     "ko": "침간",
@@ -1499,6 +1523,12 @@
     "es": "Jeju",
     "zh": "济州"
   },
+  "Jembrana": {
+    "ko": "젬브라나",
+    "ja": "ジュンブラナ",
+    "es": "Jembrana",
+    "zh": "佳伦巴纳"
+  },
   "Jeonju": {
     "ko": "전주",
     "ja": "全州",
@@ -1936,6 +1966,12 @@
     "ja": "マドリード",
     "es": "Madrid",
     "zh": "马德里"
+  },
+  "Maebashi": {
+    "ko": "마에바시",
+    "ja": "前橋",
+    "es": "Maebashi",
+    "zh": "前桥"
   },
   "Magelang": {
     "ko": "마글랑",

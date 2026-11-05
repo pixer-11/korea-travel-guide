@@ -15277,5 +15277,167 @@
       "getting": "大多数旅行者经由海得拉巴的拉吉夫·甘地国际机场(HYD)抵达,该机场位于沙姆沙巴德,距市中心约24公里,可通过地铁、出租车或机场巴士前往市区。从海得拉巴主要火车站进出的长途列车,以及来自周边枢纽城市的跨邦巴士,也是进入该邦的常见陆路方式。",
       "days": "若想从容游览海得拉巴的城堡、集市和美食,建议安排约3-4天;若想将首府之行与沃朗加尔的庙宇及其他周边景点结合起来,则建议安排约6-8天。"
     }
+  },
+  "Asan": {
+    "en": {
+      "blurb": "Asan is one of South Korea's oldest spa destinations, built around the Onyang hot springs that Joseon-dynasty kings once visited to recuperate. Today the city blends that centuries-old bathing culture with a modern commuter-town feel, spread across the Onyang, Dogo and Asan hot spring districts.",
+      "getting": "Most travellers arrive via Cheonan-Asan Station, a KTX stop on the Gyeongbu and Honam high-speed lines, with the journey from Seoul taking ~30 minutes. From there, Seoul Metro Line 1 also runs directly into Asan, reaching Onyang Oncheon Station in around 90 minutes for a cheaper, no-transfer alternative.",
+      "days": "A single day covers a soak in one of the hot spring districts plus a nearby market or museum, while 2 days allows time to explore more than one spring area and sites like Hyeonchungsa Shrine at a relaxed pace."
+    },
+    "ko": {
+      "blurb": "아산은 조선시대 왕들이 휴양차 찾았던 온양온천을 중심으로 발전한, 한국에서 가장 오래된 온천 휴양지 중 하나입니다. 수백 년을 이어온 목욕 문화와 현대적인 베드타운의 분위기가 공존하는 이 도시는 온양, 도고, 아산 온천 지구에 걸쳐 펼쳐져 있습니다.",
+      "getting": "대부분의 여행객은 경부선과 호남선 고속철도가 정차하는 천안아산역을 통해 아산에 도착하며, 서울에서 약 30분이면 닿을 수 있습니다. 또한 수도권 전철 1호선이 아산까지 직접 연결되어 있어, 환승 없이 좀 더 저렴하게 이동하고 싶다면 약 90분 만에 온양온천역에 도착할 수 있습니다.",
+      "days": "하루 일정이라면 온천 지구 한 곳에서 온천욕을 즐기고 인근 시장이나 박물관을 둘러보는 정도가 적당하며, 2일 일정이라면 여유롭게 여러 온천 지역을 돌아보고 현충사 같은 명소까지 둘러볼 시간이 충분합니다."
+    },
+    "ja": {
+      "blurb": "牙山(アサン)は韓国でも屈指の歴史を誇る温泉地で、朝鮮王朝時代に歴代の王が療養のために訪れたという温陽(オニャン)温泉を中心に発展してきました。現在では、この数百年続く温泉文化と、ベッドタウンとしての現代的な顔を併せ持つ街となっており、温陽・道高(トゴ)・牙山の3つの温泉エリアに広がっています。",
+      "getting": "多くの旅行者は、京釜線・湖南線のKTXが停車する天安牙山(チョナンアサン)駅を利用してアクセスします。ソウルからの所要時間は約30分です。また、ソウル地下鉄1号線を使えば牙山まで乗り換えなしで行くことができ、温陽温泉駅までは約90分かかりますが、その分運賃を抑えられるのが魅力です。",
+      "days": "1日あれば、いずれかの温泉エリアでひと風呂浴びたあと、近くの市場や博物館を訪れることができます。2日あれば、複数の温泉エリアを巡ったり、顕忠祠(ヒョンチュンサ)などの名所もゆったりとしたペースで楽しむことができます。"
+    },
+    "es": {
+      "blurb": "Asan es uno de los destinos termales más antiguos de Corea del Sur, construido alrededor de las aguas termales de Onyang que antaño visitaban los reyes de la dinastía Joseon para reponerse. Hoy en día, la ciudad combina esa cultura milenaria del baño con el aire de una moderna ciudad dormitorio, repartida entre los distritos termales de Onyang, Dogo y Asan.",
+      "getting": "La mayoría de los viajeros llega a través de la estación de Cheonan-Asan, parada del KTX en las líneas de alta velocidad Gyeongbu y Honam, con un trayecto desde Seúl de apenas ~30 minutos. Desde allí, la Línea 1 del metro de Seúl también llega directamente a Asan, alcanzando la estación de Onyang Oncheon en unos 90 minutos, una alternativa más económica y sin necesidad de hacer transbordos.",
+      "days": "Con un solo día alcanza para darse un baño en uno de los distritos termales y visitar un mercado o museo cercano, mientras que con 2 días hay tiempo de sobra para explorar más de una zona termal y recorrer con calma lugares como el Santuario Hyeonchungsa."
+    },
+    "zh": {
+      "blurb": "牙山是韩国历史最悠久的温泉胜地之一，温阳温泉正是其发展核心——朝鲜王朝历代君王都曾到此疗养。如今，这座城市将延续数百年的沐浴文化与现代通勤城市的气息融为一体，温阳、道高、牙山三大温泉区域交相呼应，各具特色。",
+      "getting": "大多数游客会选择抵达天安牙山站，这里是京釜线和湖南线KTX高铁的停靠站，从首尔出发约30分钟即可到达。此外，首尔地铁1号线也直达牙山，到温阳温泉站约需90分钟，虽然耗时较长，但票价更便宜且无需换乘，是另一种经济实惠的选择。",
+      "days": "如果只有一天时间，可以在其中一个温泉区尽情泡汤，再逛逛附近的市场或博物馆。若有两天时间，则可以从容探访不止一个温泉区域，顺道游览显忠祠等景点，行程会更加悠闲自在。"
+    }
+  },
+  "Avellaneda": {
+    "en": {
+      "blurb": "Avellaneda is a working port city just across the Riachuelo from the Argentine capital, known for its rail heritage, dockside industry and two of the country's most storied football clubs. It feels less like a tourist stop and more like a slice of everyday Buenos Aires, gritty, riverside and industrial.",
+      "getting": "Most travellers arrive via Buenos Aires: the Roca line train from Constitución station reaches Avellaneda's Darío Santillán y Maximiliano Kosteki station in only a few minutes. From the international airports, Ezeiza (EZE) and Aeroparque (AEP), the typical route is a taxi or ride-share into the city, followed by this short train hop or a connecting bus.",
+      "days": "A half day to a full day is enough to cover Avellaneda's waterfront, football stadiums and old rail quarter before heading back into central Buenos Aires."
+    },
+    "ko": {
+      "blurb": "아베야네다는 리아추엘로강 건너편, 아르헨티나 수도 바로 맞은편에 자리한 노동자들의 항구 도시다. 철도 유산과 부둣가 산업, 그리고 아르헨티나에서 가장 사연 많은 두 축구 클럽으로 알려져 있다. 관광지라기보다는 부에노스아이레스의 일상적인 단면에 가깝다. 투박하고, 강가답고, 산업적인 분위기가 특징이다.",
+      "getting": "대부분의 여행자는 부에노스아이레스를 거쳐 도착한다. 콘스티투시온역에서 로카 노선 열차를 타면 불과 몇 분 만에 아베야네다의 다리오 산티얀 이 막시밀리아노 코스테키역에 도착한다. 에세이사 국제공항(EZE)이나 아에로파르케(AEP)에서 올 경우, 보통 택시나 차량 공유 서비스로 시내까지 이동한 뒤, 이 짧은 열차 구간이나 환승 버스를 이용하는 경로가 일반적이다.",
+      "days": "아베야네다의 강변, 축구 경기장들, 그리고 옛 철도 구역을 둘러보는 데는 반나절에서 하루 정도면 충분하며, 이후 부에노스아이레스 시내로 돌아갈 수 있다."
+    },
+    "ja": {
+      "blurb": "アベジャネーダは、リアチュエロ川を挟んでアルゼンチンの首都と向き合う港湾都市だ。鉄道にまつわる歴史と埠頭の工業地帯、そして国内屈指の名門サッカークラブ2チームの本拠地として知られている。観光地というより、飾らない日常のブエノスアイレスの一面を映す街で、川沿いらしい無骨さと工業都市らしい質感が漂う。",
+      "getting": "多くの旅行者はブエノスアイレス経由でアクセスする。コンスティトゥシオン駅からロカ線に乗れば、わずか数分でアベジャネーダのダリオ・サンティジャン・イ・マキシミリアーノ・コステキ駅に到着する。エセイサ国際空港(EZE)やアエロパルケ空港(AEP)から来る場合は、タクシーや配車サービスで市内まで出て、そこからこの短い電車移動、またはバスを乗り継ぐのが一般的なルートだ。",
+      "days": "半日から1日もあれば、ウォーターフロントやサッカースタジアム、古い鉄道地区までひと通り見て回り、ブエノスアイレス中心部へ戻ることができる。"
+    },
+    "es": {
+      "blurb": "Avellaneda es una ciudad portuaria industrial ubicada justo al otro lado del Riachuelo desde la capital argentina, conocida por su herencia ferroviaria, su actividad portuaria y dos de los clubes de fútbol más emblemáticos del país. Más que un destino turístico, es un fragmento del Buenos Aires cotidiano: auténtico, ribereño e industrial.",
+      "getting": "La mayoría de los viajeros llega a través de Buenos Aires: el tren de la línea Roca, desde la estación Constitución, llega a la estación Darío Santillán y Maximiliano Kosteki de Avellaneda en apenas unos minutos. Desde los aeropuertos internacionales, Ezeiza (EZE) y Aeroparque (AEP), lo habitual es tomar un taxi o un servicio de transporte privado hasta la ciudad y luego completar el trayecto con ese breve viaje en tren o con un colectivo de conexión.",
+      "days": "Con medio día o una jornada completa alcanza para recorrer la costanera de Avellaneda, sus estadios de fútbol y el antiguo barrio ferroviario, antes de volver al centro de Buenos Aires."
+    },
+    "zh": {
+      "blurb": "阿韦拉内达是一座工业港口城市，隔着里亚丘埃洛河与阿根廷首都遥遥相望。这里以铁路历史、码头工业，以及阿根廷两支最负盛名的足球俱乐部而闻名。与其说它是旅游景点，不如说它更像是布宜诺斯艾利斯日常生活的一个缩影：粗粝、临河、带着浓厚的工业气息。",
+      "getting": "大多数游客经布宜诺斯艾利斯前往：从Constitución车站乘坐Roca线火车，仅需几分钟即可抵达阿韦拉内达的Darío Santillán y Maximiliano Kosteki站。从两大国际机场埃塞伊萨机场（EZE）和艾洛帕克机场（AEP）出发，通常先打车或乘网约车进城，再换乘这段短途火车，或转乘巴士前往。",
+      "days": "安排半天到一天时间，便足以游览阿韦拉内达的滨水区、足球场以及老铁路区，之后再返回布宜诺斯艾利斯市中心。"
+    }
+  },
+  "Changhua": {
+    "en": {
+      "blurb": "Changhua is a modest railway town in central Taiwan, best known for the giant Great Buddha statue that gazes down over the city from the forested slopes of Bagua Mountain. It also holds one of the island's last steam-era train roundhouses, a quiet reminder of its role as a junction town on the old Western Line.",
+      "getting": "Most travellers reach Changhua by train: fly into Taiwan Taoyuan International Airport (TPE), then connect via Taiwan High Speed Rail to Taichung HSR Station, followed by a short regional TRA train (~20-30 minutes) on to Changhua Railway Station. From central Taichung itself, regular TRA trains run directly to Changhua in around 20-25 minutes.",
+      "days": "A single day is enough to cover Changhua's compact centre, the Great Buddha and roundhouse, though an overnight stay allows a more relaxed pace and an easy side trip to nearby Lukang."
+    },
+    "ko": {
+      "blurb": "창화는 대만 중부에 자리한 소박한 철도 마을로, 팔괘산(八卦山)의 울창한 숲 비탈에서 도시를 내려다보는 거대한 대불상으로 가장 잘 알려져 있다. 이곳에는 섬에 남은 몇 안 되는 증기기관차 시대의 차고(기관차 회차대)도 자리하고 있어, 옛 서부선(西部線)의 교통 요지였던 시절을 조용히 증언해 준다.",
+      "getting": "대부분의 여행자는 기차를 이용해 창화에 도착한다. 먼저 타이완 타오위안 국제공항(TPE)으로 입국한 뒤, 대만고속철도(THSR)를 타고 타이중 고속철도역까지 이동하고, 이어서 일반 철도(TRA) 열차로 약 20~30분을 더 가면 창화역에 닿는다. 타이중 시내에서 출발할 경우에는 TRA 열차가 수시로 운행되어 약 20~25분 만에 창화까지 직행할 수 있다.",
+      "days": "창화의 아담한 시내와 대불상, 기관차 차고까지 둘러보는 데는 하루면 충분하다. 다만 하룻밤 묵으면 좀 더 여유롭게 여행할 수 있고, 인근 루캉(鹿港)까지 가볍게 다녀오기에도 좋다."
+    },
+    "ja": {
+      "blurb": "彰化は台湾中部にある、どこか懐かしい雰囲気の鉄道の町。八卦山の緑豊かな斜面からは、巨大な「大仏」が町を見守るようにそびえ立ち、彰化のシンボルとして親しまれている。また、島内に現存する数少ない蒸気機関車時代の扇形車庫のひとつもここにあり、かつて旧西部線の要衝として栄えた歴史を静かに物語っている。",
+      "getting": "彰化へは、鉄道を乗り継いでアクセスするのが一般的。まず台湾桃園国際空港（TPE）へ入り、台湾高速鉄道（高鉄）に乗り換えて台中駅へ。そこから台鉄の在来線に乗り換え、20～30分ほどで彰化駅に到着する。台中市内中心部からであれば、台鉄の列車で直接彰化へ向かうことができ、所要時間は20～25分程度。",
+      "days": "コンパクトにまとまった彰化の町なら、大仏と扇形車庫を含めて1日あれば十分に巡ることができる。ただし、一泊すればより余裕を持って観光でき、近隣の鹿港への小旅行も気軽に楽しめる。"
+    },
+    "es": {
+      "blurb": "Changhua es una modesta ciudad ferroviaria en el centro de Taiwán, conocida sobre todo por la gigantesca estatua del Gran Buda que se alza sobre la ciudad desde las laderas boscosas de la montaña Bagua. Aquí se conserva también uno de los últimos cobertizos circulares de locomotoras de vapor que quedan en la isla, un recordatorio silencioso de su papel como ciudad de enlace en la antigua Línea Occidental.",
+      "getting": "La mayoría de los viajeros llegan a Changhua en tren: se vuela hasta el Aeropuerto Internacional Taiwan Taoyuan (TPE) y desde allí se toma el Taiwan High Speed Rail hasta la estación de Taichung HSR, para luego hacer un breve trayecto en tren regional TRA (unos 20-30 minutos) hasta la Estación de Ferrocarril de Changhua. Desde el centro de Taichung, los trenes TRA regulares llegan directamente a Changhua en unos 20-25 minutos.",
+      "days": "Con un solo día basta para recorrer el compacto centro de Changhua, el Gran Buda y el cobertizo de locomotoras, aunque pasar la noche permite un ritmo más tranquilo y una cómoda excursión a la cercana Lukang."
+    },
+    "zh": {
+      "blurb": "彰化是台湾中部一座朴实的铁道小城，最为人熟知的，是八卦山翠绿山坡上俯瞰全市的巨大佛像——八卦山大佛。此外，这里还保留着台湾现存为数不多的蒸汽时代扇形车库之一，静静诉说着彰化昔日作为纵贯线枢纽小镇的历史。",
+      "getting": "大多数旅客会搭乘火车前往彰化：先飞抵台湾桃园国际机场（TPE），再转乘台湾高铁至台中高铁站，接着转搭台铁区间车（车程约20至30分钟）抵达彰化车站。若从台中市区出发，则可直接搭乘台铁列车前往彰化，车程约20至25分钟，班次相当频繁。",
+      "days": "彰化市区不大，一天时间便足以走完精华景点，看看大佛和扇形车库；但若能留宿一晚，行程会更从容，还能顺道轻松造访邻近的鹿港小镇。"
+    }
+  },
+  "Chichibu": {
+    "en": {
+      "blurb": "Chichibu is a mountain-ringed pocket of Saitama Prefecture where old wooden shopfronts, a famous shrine known for its winter night festival, and the Chichibu Railway's vintage steam train sit against a backdrop of river gorges and terraced hills. It is close enough to Tokyo for a day trip, yet feels like a different, slower Japan of onsen towns, sake breweries, and seasonal flower fields.",
+      "getting": "The usual route is the Seibu Ikebukuro Line's Limited Express \"Laview\" direct from Tokyo's Ikebukuro Station to Seibu-Chichibu Station, taking around 80 minutes (~¥1,700, seat reservation required). A cheaper alternative is a local Seibu train from Ikebukuro to Hanno with a transfer onward to Seibu-Chichibu, which takes roughly 20 to 30 minutes longer; travellers coming via JR can also reach Kumagaya and change onto the Chichibu Railway.",
+      "days": "Allow 1 day for the main sights around Chichibu town and Seibu-Chichibu Station, or 2 days if adding Nagatoro's river gorge and a ride on the Chichibu Railway."
+    },
+    "ko": {
+      "blurb": "치치부는 사이타마현 산자락에 자리 잡은 아담한 고장으로, 오래된 목조 상가와 겨울밤 축제로 유명한 신사, 그리고 치치부 철도의 클래식 증기 기관차가 협곡과 계단식 언덕을 배경으로 펼쳐져 있다. 도쿄에서 당일치기로 다녀올 수 있을 만큼 가깝지만, 막상 가보면 온천 마을과 사케 양조장, 계절 꽃밭이 어우러진 전혀 다른, 느긋한 일본을 만나게 된다.",
+      "getting": "가장 일반적인 방법은 세이부 이케부쿠로선의 특급 열차 \"라뷰(Laview)\"를 타고 도쿄 이케부쿠로역에서 세이부치치부역까지 직행하는 것으로, 약 80분이 걸리며 요금은 약 1,700엔이다(좌석 예약 필수). 좀 더 저렴하게 가려면 이케부쿠로에서 일반 세이부 열차를 타고 한노역에서 세이부치치부행으로 환승하면 되는데, 이 경우 20~30분 정도 더 걸린다. JR을 이용하는 경우에는 구마가야역까지 간 뒤 치치부 철도로 갈아탈 수도 있다.",
+      "days": "치치부 시내와 세이부치치부역 주변의 주요 명소만 둘러본다면 하루면 충분하고, 나가토로 협곡과 치치부 철도 열차 여행까지 더하고 싶다면 이틀 일정을 잡는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "秩父は、山々に囲まれた埼玉県の一角で、古い木造の商家が並ぶ町並み、冬の夜祭りで知られる神社、そして秩父鉄道のレトロな蒸気機関車が、渓谷や棚田の広がる風景の中に溶け込んでいます。東京から日帰りできるほど近いながら、温泉街や酒蔵、季節の花畑が広がる、もっとゆったりとした\"もうひとつの日本\"を感じさせてくれる場所です。",
+      "getting": "一般的なルートは、西武池袋線の特急「ラビュー」を使い、東京の池袋駅から西武秩父駅まで直通で約80分(運賃約1,700円、座席指定が必要)。もう少し安く済ませたい場合は、池袋から飯能行きの西武線普通列車に乗り、飯能で西武秩父方面行きに乗り換える方法があり、こちらは特急より20~30分ほど余計にかかります。JR経由で来る場合は、熊谷駅まで行き、そこから秩父鉄道に乗り換えることもできます。",
+      "days": "秩父の町や西武秩父駅周辺の主要スポットを巡るだけなら1日あれば十分です。長瀞の渓谷や秩父鉄道の乗車も組み込みたい場合は、2日あると余裕を持って楽しめます。"
+    },
+    "es": {
+      "blurb": "Chichibu es un rincón de la prefectura de Saitama rodeado de montañas, donde antiguas fachadas de madera, un santuario famoso por su festival nocturno de invierno y el tren de vapor de época de la Chichibu Railway conviven con un paisaje de gargantas fluviales y colinas escalonadas. Está lo bastante cerca de Tokio como para visitarlo en un día, pero transmite la sensación de otro Japón más pausado, de pueblos con onsen, bodegas de sake y campos de flores de temporada.",
+      "getting": "La ruta habitual es el tren limitado expreso \"Laview\" de la línea Seibu Ikebukuro, que va directo desde la estación de Ikebukuro, en Tokio, hasta la estación de Seibu-Chichibu, en unos 80 minutos (aprox. ¥1.700, con reserva de asiento obligatoria). Una alternativa más económica es tomar un tren local de Seibu desde Ikebukuro hasta Hanno y hacer transbordo hacia Seibu-Chichibu, lo que añade entre 20 y 30 minutos al trayecto; quienes viajen en JR también pueden llegar hasta Kumagaya y enlazar allí con la Chichibu Railway.",
+      "days": "Con 1 día es suficiente para ver los principales atractivos del centro de Chichibu y los alrededores de la estación de Seibu-Chichibu, o puedes dedicar 2 días si quieres añadir la garganta de Nagatoro y un paseo en el tren de la Chichibu Railway."
+    },
+    "zh": {
+      "blurb": "秩父坐落在埼玉县群山环抱之中,古朴的木造店铺、以冬夜祭闻名的古老神社,以及秩父铁道的复古蒸汽火车,共同构成了一幅背靠河谷与梯田丘陵的风景画卷。这里距东京不远,适合当日往返,却又仿佛置身于另一个节奏缓慢的日本——温泉小镇、酒藏林立,四季花田轮番绽放。",
+      "getting": "最常见的路线是乘坐西武池袋线的特快列车\"Laview\",从东京池袋站直达西武秩父站,车程约80分钟(票价约1,700日元,需预订座位)。若想省钱,也可以从池袋搭乘西武普通列车到饭能,再转乘前往西武秩父,全程会多花20到30分钟;搭乘JR的旅客也可以先到熊谷,再换乘秩父铁道前往。",
+      "days": "游览秩父町及西武秩父站周边的主要景点,安排1天即可;若想再加上长瀞的峡谷风光并体验秩父铁道,建议安排2天行程。"
+    }
+  },
+  "Jembrana": {
+    "en": {
+      "blurb": "Jembrana is Bali's quiet western regency, a stretch of black sand beaches, surf breaks and rice paddies far removed from the island's southern resort crowds. Its highlights include Medewi's famous left-hand wave, the Rambut Siwi sea temple and the forests and coral reefs of West Bali National Park.",
+      "getting": "Jembrana has no airport of its own, so most travellers fly into Ngurah Rai International Airport (DPS) in Denpasar and continue by car or bus, a drive of roughly 1.5 to 3 hours depending on traffic. Those arriving overland from Java typically take the ferry to Gilimanuk at Bali's western tip, within the regency itself.",
+      "days": "Allow ~2 to 3 days to take in Negara town, the Medewi surf coast and a day trip into West Bali National Park."
+    },
+    "ko": {
+      "blurb": "자바라나(Jembrana)는 발리 서부에 자리한 한적한 지역으로, 검은 모래 해변과 서핑 포인트, 논밭이 펼쳐져 있어 섬 남부의 번잡한 리조트 지역과는 사뭇 다른 분위기를 자아낸다. 대표적인 명소로는 왼쪽으로 부서지는 파도로 유명한 메데위(Medewi), 바닷가에 자리한 람부트 시위(Rambut Siwi) 사원, 그리고 울창한 숲과 산호초를 품은 서부발리 국립공원(West Bali National Park)이 있다.",
+      "getting": "자바라나에는 자체 공항이 없어, 대부분의 여행객은 덴파사르에 있는 응우라라이 국제공항(DPS)으로 입국한 뒤 차량이나 버스를 이용해 이동한다. 교통 상황에 따라 약 1시간 30분에서 3시간 정도 소요된다. 자바섬에서 육로로 이동하는 경우에는 보통 발리 서쪽 끝, 자바라나 지역 내에 위치한 길리마눅(Gilimanuk)까지 페리를 이용한다.",
+      "days": "느가라(Negara) 시내와 메데위 서핑 해변, 그리고 서부발리 국립공원으로의 당일 여행을 즐기려면 약 2~3일 정도 일정을 잡는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "ジュンブラナは、バリ島西部に広がる静かな県。黒砂のビーチやサーフポイント、棚田が続き、島の南部に集まるリゾートの喧騒とは無縁の土地だ。見どころは、メデウィの名高いレフトブレイク、海に浮かぶ寺院ランブット・シウィ、そして西バリ国立公園の森とサンゴ礁など。",
+      "getting": "ジュンブラナ自体に空港はないため、多くの旅行者はデンパサールのングラ・ライ国際空港（DPS）を利用し、そこから車やバスで向かう。所要時間は交通状況により1.5〜3時間程度。ジャワ島から陸路で入る場合は、バリ島最西端にあるこの県内の町、ギリマヌックまでフェリーで渡るのが一般的だ。",
+      "days": "ヌガラの町、メデウィのサーフコースト、そして西バリ国立公園への日帰り旅を楽しむなら、2〜3日ほど見ておきたい。"
+    },
+    "es": {
+      "blurb": "Jembrana es el tranquilo regencia occidental de Bali, una franja de playas de arena negra, rompientes para surfear y arrozales muy alejada del bullicio turístico del sur de la isla. Entre sus atractivos destacan la famosa ola izquierda de Medewi, el templo marino de Rambut Siwi y los bosques y arrecifes de coral del Parque Nacional de Bali Occidental.",
+      "getting": "Jembrana no cuenta con aeropuerto propio, así que la mayoría de los viajeros llega al Aeropuerto Internacional Ngurah Rai (DPS) en Denpasar y continúa en auto o bus, un trayecto de entre 1,5 y 3 horas según el tráfico. Quienes llegan por tierra desde Java suelen tomar el ferry hacia Gilimanuk, en el extremo occidental de Bali, dentro de la propia regencia.",
+      "days": "Conviene reservar entre 2 y 3 días para recorrer la ciudad de Negara, la costa surfista de Medewi y hacer una excursión de un día al Parque Nacional de Bali Occidental."
+    },
+    "zh": {
+      "blurb": "婆罗洲（Jembrana）是巴厘岛西部一处宁静的县份，黑沙海滩、冲浪点与稻田绵延成片，远离岛屿南部度假区的喧嚣人潮。这里的亮点包括梅德维（Medewi）著名的左跑冲浪浪点、兰布特西维（Rambut Siwi）海神庙，以及西巴厘国家公园的森林与珊瑚礁。",
+      "getting": "金巴兰（Jembrana）本身没有机场，大多数旅客会飞抵登巴萨的伍拉·赖国际机场（DPS），再转乘汽车或巴士前往，车程视路况约1.5至3小时不等。若是从爪哇岛陆路前来，通常会搭乘渡轮抵达位于巴厘岛最西端、同属该县境内的吉利马努克（Gilimanuk）。",
+      "days": "建议安排约2至3天，游览格拉拉（Negara）小镇、梅德维（Medewi）冲浪海岸，并抽一天前往西巴厘国家公园一日游。"
+    }
+  },
+  "Maebashi": {
+    "en": {
+      "blurb": "Maebashi is the capital of Gunma Prefecture, a quieter counterpoint to Tokyo known locally as the \"City of Water, Greenery and Poets\" for its clear mountain-fed rivers and the legacy of poet Sakutaro Hagiwara. Once a castle and silk trading town, it now sits at the foot of Mount Akagi, offering a low-key base for hot springs, parks and easy trips into Gunma's mountains.",
+      "getting": "Most travellers arrive via Tokyo: from Haneda (HND) or Narita (NRT), take a train or the Shinkansen to Tokyo Station, then transfer onto JR lines via Takasaki to reach Maebashi Station, a journey of roughly 2 to 2.5 hours depending on connections. There is no direct rail link from either airport, so all routes pass through central Tokyo and Takasaki, Gunma's largest city, before the final short hop on the JR Ryomo Line into Maebashi.",
+      "days": "Plan on ~1 to 2 days, enough time to explore Maebashi's parks, museums and riverside walks, with a half-day easily extended into a side trip to nearby hot spring towns or Mount Akagi."
+    },
+    "ko": {
+      "blurb": "마에바시는 군마현의 현청 소재지로, 도쿄와는 결이 다른 조용한 매력을 지닌 도시입니다. 맑은 산간 하천과 시인 하기와라 사쿠타로의 발자취 덕분에 현지에서는 \"물과 녹음, 시인의 도시\"로 불립니다. 한때 성곽 도시이자 비단 교역의 중심지였던 이곳은 지금은 아카기산 기슭에 자리하며, 온천과 공원, 그리고 군마의 산악 지대로 떠나는 당일 여행의 여유로운 거점이 되어줍니다.",
+      "getting": "대부분의 여행자는 도쿄를 거쳐 마에바시에 도착합니다. 하네다(HND)나 나리타(NRT) 공항에서 열차나 신칸센을 타고 도쿄역까지 이동한 뒤, JR 노선으로 환승해 다카사키를 거쳐 마에바시역에 도착하는데, 연결편에 따라 대략 2~2.5시간이 걸립니다. 두 공항 모두 마에바시까지 직통 철도 노선이 없기 때문에, 모든 경로는 도쿄 도심과 군마 최대 도시인 다카사키를 거친 후 마지막으로 JR 료모선을 타고 짧게 이동해 마에바시에 도착하게 됩니다.",
+      "days": "1~2일 정도면 충분합니다. 마에바시의 공원과 박물관, 강변 산책로를 둘러보기에 적당한 시간이며, 반나절 정도를 더해 인근 온천 마을이나 아카기산으로 가볍게 다녀오는 것도 좋습니다."
+    },
+    "ja": {
+      "blurb": "前橋市は群馬県の県庁所在地であり、東京とは一味違う落ち着いた魅力を持つ街です。澄んだ山の恵みの川や、詩人・萩原朔太郎ゆかりの地であることから、地元では「水と緑と詩のまち」として親しまれています。かつては城下町・絹織物の商都として栄え、現在は赤城山の麓に広がり、温泉や公園を楽しみながら群馬の山々へ気軽に足を延ばせる、落ち着いた旅の拠点となっています。",
+      "getting": "多くの旅行者は東京経由で前橋を訪れます。羽田空港(HND)または成田空港(NRT)から電車または新幹線で東京駅へ向かい、そこからJR線に乗り換えて高崎を経由し前橋駅を目指します。所要時間は乗り継ぎにもよりますが、おおむね2時間から2時間半ほどです。どちらの空港からも前橋への直通鉄道はないため、すべてのルートはいったん東京都心、そして群馬県最大の都市である高崎を経由し、最後にJR両毛線で前橋へ向かう短い区間を走ることになります。",
+      "days": "滞在の目安は1~2日ほど。前橋の公園や博物館、川沿いの散策を楽しむには十分な時間で、半日ほど延長すれば近隣の温泉地や赤城山への小旅行も気軽に楽しめます。"
+    },
+    "es": {
+      "blurb": "Maebashi es la capital de la prefectura de Gunma, un contrapunto más tranquilo a Tokio, conocida localmente como la \"Ciudad del Agua, el Verdor y los Poetas\" por sus cristalinos ríos de origen montañoso y el legado del poeta Sakutaro Hagiwara. Antigua ciudad castillo y centro del comercio de la seda, hoy se asienta a los pies del monte Akagi, ofreciendo una base tranquila para disfrutar de aguas termales, parques y escapadas sencillas a las montañas de Gunma.",
+      "getting": "La mayoría de los viajeros llega a través de Tokio: desde Haneda (HND) o Narita (NRT), se toma un tren o el Shinkansen hasta la estación de Tokio, para después hacer transbordo a las líneas JR vía Takasaki hasta llegar a la estación de Maebashi, un trayecto de aproximadamente 2 a 2,5 horas según las conexiones. No existe un enlace ferroviario directo desde ninguno de los dos aeropuertos, por lo que todas las rutas pasan por el centro de Tokio y por Takasaki, la ciudad más grande de Gunma, antes del último y breve tramo en la línea JR Ryomo hasta Maebashi.",
+      "days": "Conviene planear entre 1 y 2 días, tiempo suficiente para explorar los parques, museos y paseos junto al río de Maebashi, y una media jornada que se puede extender fácilmente con una excursión a los cercanos pueblos de aguas termales o al monte Akagi."
+    },
+    "zh": {
+      "blurb": "前桥是群马县的县厅所在地，相较东京多了几分闲适恬静，当地人称它为“水与绿、诗人之城”——这既源于城中那些由山泉汇成的清澈河流，也离不开诗人萩原朔太郎留下的文化余韵。前桥曾是城下町与丝绸贸易重镇，如今静静坐落在赤城山脚下，是探访温泉、公园以及深入群马山区游览的理想落脚点，气氛低调而惬意。",
+      "getting": "大多数游客会经由东京前往前桥：从羽田机场（HND）或成田机场（NRT）出发，先乘电车或新干线抵达东京站，再转乘JR线经高崎前往前桥站，全程依换乘情况约需2至2.5小时。由于两座机场均没有直达前桥的铁路线路，所有路线都需先经过东京市区，再到群马县最大城市高崎，最后换乘JR两毛线，才能抵达前桥。",
+      "days": "建议安排1至2天的行程，这样的时间足够游览前桥的公园、博物馆以及沿河步道，若有半天空余，还可以轻松安排一趟前往附近温泉小镇或赤城山的短途之旅。"
+    }
   }
 }
