@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { pickBotClusters, clusterFilter, excludeClusters, describeCluster, detectBotClusters, confirmNoCity, CLUSTER_DIMS } from './plausible-bot-cluster.mjs';
+import { pickBotClusters, clusterFilter, excludeClusters, describeCluster, detectBotClusters, confirmNoCity, CLUSTER_DIMS, BROAD_DIMS } from './plausible-bot-cluster.mjs';
 
 // 실제 응답 모양 그대로 — 공개 대시보드 query, CLUSTER_DIMS 순서, metrics [visitors, pageviews, bounce, duration].
 const row = (dims, v, pv, b, d) => ({ dimensions: dims, metrics: [v, pv, b, d] });
@@ -82,6 +82,45 @@ test('detectBotClusters never removes anything it could not see', async () => {
   const empty = await detectBotClusters(async () => []);
   assert.deepEqual(empty.clusters, []);
   assert.match(empty.error, /집계 행이 없다/);
+});
+
+// 2026-11-04: the same traffic split across Chrome builds, no build reaching 100.
+const D1104 = [
+  row(['CN', 'Chrome', '151.0', 'Windows', 'Desktop', 'Direct / None'], 32, 33, 27, 1),
+  row(['CN', 'Chrome', '146.0', 'Windows', 'Desktop', 'Direct / None'], 28, 25, 83, 0),
+  row(['CN', 'Chrome', '116.0', 'Windows', 'Desktop', 'Direct / None'], 27, 26, 93, 0),
+  row(['CN', 'Microsoft Edge', '156.0', 'Windows', 'Desktop', 'Bing'], 22, 24, 91, 18),
+];
+const B1104 = [
+  row(['CN', 'Chrome', 'Windows', 'Desktop', 'Direct / None'], 330, 310, 85, 1),
+  row(['CN', 'Microsoft Edge', 'Windows', 'Desktop', 'Bing'], 22, 24, 91, 18),
+];
+const byDims = (fine, broad, total, noCity) => async (body) => {
+  if (body.dimensions) return body.dimensions.length === CLUSTER_DIMS.length ? fine : broad;
+  if (body.filters?.some((f) => f[0] === 'is' && f[1] === 'visit:city_name')) return [{ dimensions: [], metrics: [noCity] }];
+  return [{ dimensions: [], metrics: [total] }];
+};
+
+test('11-04: the cluster spread over Chrome builds is caught one level up, city-less part only', async () => {
+  assert.deepEqual(pickBotClusters(D1104, 467), [], 'no single build owns the day');
+  const r = await detectBotClusters(byDims(D1104, B1104, 467, 300));
+  assert.equal(r.clusters.length, 1);
+  const [c] = r.clusters;
+  assert.deepEqual(c.dims, BROAD_DIMS);
+  assert.equal(c.cityless, true);
+  assert.equal(c.visitors, 300, 'what is removed is the city-less part');
+  assert.equal(c.combo, 330);
+  assert.deepEqual(clusterFilter(c), ['and', [
+    ['is', 'visit:country', ['CN']], ['is', 'visit:browser', ['Chrome']], ['is', 'visit:os', ['Windows']],
+    ['is', 'visit:device', ['Desktop']], ['is', 'visit:source', ['Direct / None']], ['is', 'visit:city_name', ['']],
+  ]]);
+  assert.equal(describeCluster(c), '중국·Chrome(여러 버전)·Windows·직접 유입·도시 없음');
+  // People with cities, one level up — a shared link drawing 330 desktop Chrome readers — stay.
+  assert.deepEqual((await detectBotClusters(byDims(D1104, B1104, 467, 40))).clusters, []);
+  // A day the first level already explains does not also take the second.
+  const both = await detectBotClusters(byDims(D1030, B1104, 466, 320));
+  assert.equal(both.clusters.length, 1);
+  assert.equal(both.clusters[0].dims, undefined);
 });
 
 test('the second witness: a candidate is removed only when most of it has no city', async () => {

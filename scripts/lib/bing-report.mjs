@@ -43,7 +43,7 @@ export function bingDaily(dailyRows) {
   const last = rows.slice(-7);
   const prev = rows.length >= 14 ? rows.slice(-14, -7) : null;
   const tot = (a) => ({ clicks: sum(a, 'Clicks'), imp: sum(a, 'Impressions') });
-  return { to: last[last.length - 1].t, last: tot(last), prev: prev ? tot(prev) : null, spike: spikeDay(last) };
+  return { to: last[last.length - 1].t, last: tot(last), prev: prev ? tot(prev) : null, spike: spikeDay(last), prevSpike: prev ? spikeDay(prev) : null };
 }
 
 // One day that carries the week. 2026-10-23 had 556 Bing clicks against ~60-100
@@ -78,13 +78,22 @@ export function bingLines(queryRows, dailyRows) {
   if (daily) {
     const was = daily.prev ? ` · 직전 7일 ${daily.prev.clicks}${pct(daily.last.clicks, daily.prev.clicks)}` : '';
     L.push(`   └ 일별 총계(${md(daily.to)}까지 — 빙 집계는 3~4일 늦습니다): 최근 7일 클릭 ${daily.last.clicks}${was}`);
+    // The week before, read without its own lottery day when it had one.
+    const prevMean = daily.prev ? (daily.prevSpike ? daily.prevSpike.rest / 6 : daily.prev.clicks / 7) : null;
     if (daily.spike) {
       // Six days against seven would flatter the week (Codex, 10-31): compare
       // daily averages — the other six days' mean against the week before's.
       const restAvg = Math.round(daily.spike.rest / 6);
-      const prevAvg = daily.prev ? Math.round(daily.prev.clicks / 7) : null;
-      const without = prevAvg ? ` — 그날을 빼면 하루 평균 ${restAvg}회(직전 7일 하루 평균 ${prevAvg}회${pct(daily.spike.rest / 6, daily.prev.clicks / 7)})` : '';
+      const prevLabel = daily.prevSpike ? `직전 7일도 ${md(daily.prevSpike.t)}을 빼면 하루 평균` : '직전 7일 하루 평균';
+      const without = prevMean ? ` — 그날을 빼면 하루 평균 ${restAvg}회(${prevLabel} ${Math.round(prevMean)}회${pct(daily.spike.rest / 6, prevMean)})` : '';
       L.push(`   └ ⚡ 그중 ${md(daily.spike.t)} 하루가 ${daily.spike.clicks}회로 몰렸습니다${without}`);
+    } else if (daily.prevSpike) {
+      // The same lottery day a week on, now in the week compared against: the
+      // 11-05 report read "-42%" for a week that was +7% a day (10-23's 556
+      // clicks had moved into "직전 7일"). The 10-31 fix only looked at the
+      // latest week.
+      const lastMean = daily.last.clicks / 7;
+      L.push(`   └ ⚡ 직전 7일은 ${md(daily.prevSpike.t)} 하루(${daily.prevSpike.clicks}회)가 부풀렸습니다 — 그날을 빼면 직전 7일 하루 평균 ${Math.round(prevMean)}회, 최근 7일 하루 평균 ${Math.round(lastMean)}회${pct(lastMean, prevMean)}`);
     }
   }
 

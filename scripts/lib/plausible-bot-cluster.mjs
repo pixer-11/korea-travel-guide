@@ -27,7 +27,18 @@
 // 놓치는 쪽(작은 봇)은 숫자가 조금 부푸는 것뿐이고, 잘못 잡는 쪽(사람을 뺌)은 판정을
 // 틀리게 하므로 문턱은 보수적으로 둔다.
 
+//
+// 두 번째 단: 버전을 흩뜨린 덩어리(2026-11-05). 11-04 에는 같은 접속이 Chrome
+// 151·146·116·110·104·108… 로 쪼개져 들어와 조합마다 16~32명 — 어느 조합도 100명이
+// 안 돼 그대로 '실제 방문자 467명(중국 395)'이 됐다. 중국 402명 중 359명(89%)이 도시
+// 없음, 체류 0~1초, 전부 Windows·Desktop·직접 — 모양은 10-30 과 같고 버전만 흩었다.
+// 첫 단이 아무것도 못 찾으면 버전을 뺀 조합(BROAD_DIMS)으로 같은 문턱을 다시 대고,
+// 이때는 그 조합 중 **도시 없는 몫만** 뺀다(cityless) — 버전을 묶으면 같은 나라의 평범한
+// 크롬 사람까지 한 조합에 들어오니, 도시가 찍힌 사람은 남긴다.
+
 export const CLUSTER_DIMS = ['visit:country', 'visit:browser', 'visit:browser_version', 'visit:os', 'visit:device', 'visit:source'];
+export const BROAD_DIMS = CLUSTER_DIMS.filter((d) => d !== 'visit:browser_version');
+const NO_CITY = ['is', 'visit:city_name', ['']];
 export const MIN_VISITORS = 100;
 export const MIN_SHARE = 0.3;
 export const MAX_DURATION = 30;
@@ -39,26 +50,30 @@ export const MIN_NO_CITY = 0.5;
  * @param {number} total  그날 전체 방문자
  * @returns {{values:string[], visitors:number, pageviews:number, bounce:number, duration:number}[]}
  */
-export function pickBotClusters(rows, total) {
+export function pickBotClusters(rows, total, dims = CLUSTER_DIMS) {
   if (!total) return [];
   const out = [];
   for (const r of rows ?? []) {
     const values = r?.dimensions ?? [];
     const [visitors = 0, pageviews = 0, bounce = 0, duration = 0] = r?.metrics ?? [];
-    if (values.length !== CLUSTER_DIMS.length) continue;
+    if (values.length !== dims.length) continue;
     if (values.some((v) => v == null || v === '' || v === '(not set)')) continue;
-    const [, browser, , , , source] = values;
+    const browser = values[dims.indexOf('visit:browser')];
+    const source = values[dims.indexOf('visit:source')];
     if (source !== 'Direct / None') continue;
     if (browser === 'Mobile App') continue;
     if (visitors < MIN_VISITORS || visitors / total < MIN_SHARE) continue;
     if (!(duration < MAX_DURATION)) continue;
-    out.push({ values, visitors, pageviews, bounce, duration: Math.round(duration) });
+    out.push({ ...(dims !== CLUSTER_DIMS && { dims }), values, visitors, pageviews, bounce, duration: Math.round(duration) });
   }
   return out;
 }
 
-/** 한 덩어리를 Plausible 필터로 — ['and', [[is, dim, [value]], …]] */
-export const clusterFilter = (c) => ['and', CLUSTER_DIMS.map((d, i) => ['is', d, [c.values[i]]])];
+/** 한 덩어리를 Plausible 필터로 — ['and', [[is, dim, [value]], …]]; 두 번째 단은 도시 없는 몫만. */
+export const clusterFilter = (c) => ['and', [
+  ...(c.dims ?? CLUSTER_DIMS).map((d, i) => ['is', d, [c.values[i]]]),
+  ...(c.cityless ? [NO_CITY] : []),
+]];
 
 /** 덩어리들을 빼는 필터 목록(다른 필터 앞에 이어 붙인다). */
 export const excludeClusters = (clusters) => (clusters ?? []).map((c) => ['not', clusterFilter(c)]);
@@ -67,8 +82,10 @@ const KO_COUNTRY = { CN: '중국', US: '미국', SG: '싱가포르', JP: '일본
 
 /** 리포트 한 줄용 이름: "중국·Chrome 151·Windows·직접 유입" */
 export function describeCluster(c) {
-  const [country, browser, version, os] = c.values;
-  return `${KO_COUNTRY[country] || country}·${browser} ${String(version).replace(/\.0$/, '')}·${os}·직접 유입`;
+  const at = (d) => c.values[(c.dims ?? CLUSTER_DIMS).indexOf(d)];
+  const country = at('visit:country');
+  const version = c.dims ? '(여러 버전)' : ` ${String(at('visit:browser_version')).replace(/\.0$/, '')}`;
+  return `${KO_COUNTRY[country] || country}·${at('visit:browser')}${version}·${at('visit:os')}·직접 유입${c.cityless ? '·도시 없음' : ''}`;
 }
 
 /** 두 번째 증거: 후보 중 도시 없음 비율이 MIN_NO_CITY 이상인 것만 남긴다. noCity = 후보별 도시 없는 방문자 수. */
@@ -88,14 +105,22 @@ export async function detectBotClusters(query) {
     const [tot] = await query({ metrics: ['visitors'] });
     const total = tot?.metrics?.[0];
     if (typeof total !== 'number') throw new Error('전체 방문자 집계 행이 없다');
-    const rows = await query({ metrics: ['visitors', 'pageviews', 'bounce_rate', 'visit_duration'], dimensions: CLUSTER_DIMS, pagination: { limit: 5 } });
-    const candidates = pickBotClusters(rows, total);
-    const noCity = [];
-    for (const c of candidates) {
-      const [r] = await query({ metrics: ['visitors'], filters: [clusterFilter(c), ['is', 'visit:city_name', ['']]] });
-      noCity.push(r?.metrics?.[0] ?? 0);
-    }
-    return { total, clusters: confirmNoCity(candidates, noCity), candidates: candidates.length };
+    const stage = async (dims) => {
+      const rows = await query({ metrics: ['visitors', 'pageviews', 'bounce_rate', 'visit_duration'], dimensions: dims, pagination: { limit: 5 } });
+      const candidates = pickBotClusters(rows, total, dims);
+      const noCity = [];
+      for (const c of candidates) {
+        const [r] = await query({ metrics: ['visitors'], filters: [clusterFilter(c), NO_CITY] });
+        noCity.push(r?.metrics?.[0] ?? 0);
+      }
+      return { candidates, clusters: confirmNoCity(candidates, noCity) };
+    };
+    const first = await stage(CLUSTER_DIMS);
+    if (first.clusters.length) return { total, clusters: first.clusters, candidates: first.candidates.length };
+    // 버전을 흩은 같은 덩어리: 도시 없는 몫만 빼고, 센 사람 수도 그 몫이다.
+    const broad = await stage(BROAD_DIMS);
+    const clusters = broad.clusters.map((c) => ({ ...c, cityless: true, combo: c.visitors, visitors: c.noCity }));
+    return { total, clusters, candidates: first.candidates.length + broad.candidates.length };
   } catch (e) {
     return { total: null, clusters: [], error: String(e?.message || e).slice(0, 120) };
   }

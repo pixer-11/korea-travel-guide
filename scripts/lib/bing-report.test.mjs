@@ -125,6 +125,25 @@ test('one lottery day is named and the week is re-read without it (10-23: 556 of
   assert.match(L[2], /⚡ 그중 10-23 하루가 556회로 몰렸습니다 — 그날을 빼면 하루 평균 92회\(직전 7일 하루 평균 59회 \(\+55%\)\)/);
 });
 
+test('a week later the lottery day sits in "the week before", and the comparison still leaves it out (11-05)', () => {
+  // 2026-10-20..11-02, Bing's real daily clicks: 1,043 then 610 read "-42%".
+  const real = daily('2026-10-20', [72, 48, 106, 556, 61, 91, 109, 86, 100, 97, 72, 43, 111, 101]);
+  const d = bingDaily(real);
+  assert.equal(d.spike, null);
+  assert.deepEqual({ clicks: d.prevSpike.clicks, rest: d.prevSpike.rest }, { clicks: 556, rest: 487 });
+  const L = bingLines(ROWS, real);
+  assert.match(L[1], /최근 7일 클릭 610 · 직전 7일 1043 \(-42%\)/);
+  // 487/6 ≈ 81 vs 610/7 ≈ 87 → +7%.
+  assert.match(L[2], /⚡ 직전 7일은 10-23 하루\(556회\)가 부풀렸습니다 — 그날을 빼면 직전 7일 하루 평균 81회, 최근 7일 하루 평균 87회 \(\+7%\)/);
+});
+
+test('both weeks with a lottery day: each is read without its own', () => {
+  const both = daily('2026-10-20', [72, 48, 106, 556, 61, 91, 109, 86, 100, 97, 600, 43, 111, 101]);
+  const L = bingLines(ROWS, both);
+  // 538/6 ≈ 90 vs 487/6 ≈ 81 → +10%; the second figure is not "the last 7 days".
+  assert.match(L[2], /그날을 빼면 하루 평균 90회\(직전 7일도 10-23을 빼면 하루 평균 81회 \(\+10%\)\)/);
+});
+
 test('an ordinary rising week is not called a spike', () => {
   assert.equal(bingDaily(DAILY).spike, null);
   assert.doesNotMatch(bingLines(ROWS, DAILY).join('\n'), /⚡/);
