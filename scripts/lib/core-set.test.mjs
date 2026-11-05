@@ -115,3 +115,20 @@ test('formatReport is Korean, carries the numbers, and flags a mostly-failed run
   const mostlyFailed = summarize(rows.map((r, i) => (i < 3 ? { ...r, error: true } : r)), { today: TODAY });
   assert.match(formatReport(mostlyFailed, { at: '2026-11-20' }), /측정 불완전/);
 });
+
+// 11-05: 28일 노출%가 82%→73% 로 떨어졌는데, 그 몫은 집합을 고른 노출 기간이 창에서
+// 빠져나간 만큼이었다. 겹치는 동안만 주의 줄이 붙고, 창이 다 지나면 사라진다.
+test('formatReport says when the 28-day exposure still overlaps the window the set was chosen by', () => {
+  const s = summarize(rows, { today: TODAY, cohortStart: START, groups, baseline });
+  const selectedBy = { from: '2026-09-27', to: '2026-10-25' };
+  const note = /집합을 고른 노출 기간\(09-27~10-25\)이 이번 또는 지난 측정 창에 들어 있어/;
+  const during = formatReport(s, { at: '2026-11-05T02:32:00Z', selectedBy, windowStart: '2026-10-06' });
+  assert.match(during, note);
+  assert.match(during, /줄어들 수 있다 — 11-25 이후 측정끼리 비교할 때만 하락 신호/);
+  assert.match(formatReport(s, { at: '2026-11-19', selectedBy, windowStart: '2026-10-25' }), note, 'the last overlapping day');
+  // 11-25(UTC) 실행 = 창 시작 10-26: 첫 깨끗한 측정이지만 앞 주와 비교하면 아직 착시가 남는다.
+  assert.match(formatReport(s, { at: '2026-11-25', selectedBy, windowStart: '2026-10-26' }), note, 'the first clean run, compared with an overlapping one');
+  assert.match(formatReport(s, { at: '2026-12-01', selectedBy, windowStart: '2026-11-01' }), note, 'to + 7 is the last day the note stays');
+  assert.doesNotMatch(formatReport(s, { at: '2026-12-02', selectedBy, windowStart: '2026-11-02' }), note, 'two clean runs in a row: no note');
+  assert.doesNotMatch(formatReport(s, { at: '2026-11-05' }), note, 'no window recorded, no note');
+});

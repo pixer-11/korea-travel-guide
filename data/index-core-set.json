@@ -2,6 +2,7 @@
  "createdOn": "2026-10-28",
  "rule": "영문 페이지 중 (A) 2026-09-27~10-25 28일간 구글 노출이 1회 이상 있던 페이지 전부 + (B) 참조형 페이지 전부(/essentials/, /tools/esim/, /tools/ 기타, /destinations/ 나라 허브). 성적으로 고르지 않았고 결과를 보기 전에 고정했다. 직접 경험 글(/editor-photos/ 포함)은 올라가는 즉시 자동 합류(audit-index-core-set.mjs). 일정표·지역 허브·날씨 페이지는 회전·대량이라 A 에 든 것만.",
  "siteUrl": "sc-domain:wanderatlasguides.com",
+ "selectedBy": { "from": "2026-09-27", "to": "2026-10-25", "note": "rule (A) 의 노출 창. 28일 노출% 가 이 창과 겹치는 동안은 표본을 고른 기준이 빠져나가는 몫만큼 저절로 떨어진다(11-05 반박 검토)." },
  "staleDays": 90,
  "cohortStart": "2026-10-28",
  "thresholds": {

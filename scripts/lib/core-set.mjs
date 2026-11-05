@@ -138,13 +138,22 @@ const short = (u) => String(u).replace(/^https?:\/\/[^/]+/, '').slice(0, 60);
 const GROUP_KO = { firsthand: '직접경험', photoRefresh: '사진보강', control: '비교군' };
 
 // 텔레그램 본문(한국어). 측정 실패가 많으면 비율을 '참고만'으로 표시한다 — 못 본 것은 통과가 아니다.
-export function formatReport(s, { at, judge, thresholds } = {}) {
+// 집합의 절반은 '09-27~10-25 에 노출이 있던 쪽'으로 골랐다(selectedBy). 28일 노출 창이 그
+// 기간과 겹치는 동안은 고른 기준이 빠져나가는 몫만큼 노출%가 저절로 떨어질 수 있다 — 11-05
+// 측정의 28일 노출 합계 -288 은 빠져나간 한 주(09-29~10-05)의 몫과 같았다(반박 검토). 창이 다
+// 지난 첫 측정일(시작일 = 실행일-30 > to)을 적고, 그 첫 측정도 앞 주(아직 겹친 창)와 비교하면
+// 같은 착시가 남으므로 한 주 더(시작일 ≤ to+7) 주의 줄을 붙인다(코덱스 11-05).
+export function formatReport(s, { at, judge, thresholds, selectedBy, windowStart } = {}) {
   const total = s.n + (s.extra || 0) + s.errors;
   const incomplete = s.errors > 0 && s.errors / Math.max(total, 1) > 0.2;
   const lines = [];
   lines.push(`📏 핵심 집합 색인 자 — ${String(at || '').slice(0, 10)}`);
   if (incomplete) lines.push(`⚠️ 측정 불완전: ${total}쪽 중 ${s.errors}쪽을 못 봤다 — 아래 비율은 참고만.`);
   lines.push(`고정 집합 ${s.n}쪽${s.extra ? `(+집합 밖 직접경험 ${s.extra})` : ''} · 색인 ${pct(s.indexedRate)}(${s.indexed}) · 28일 노출 ${pct(s.exposedRate)}(${s.exposed}) · 정체(${s.staleDays}일+ 미재크롤) ${s.stale}쪽(색인의 ${pct(s.staleRate)})`);
+  const plus = (d, n) => { const x = new Date(`${d}T00:00:00Z`); x.setUTCDate(x.getUTCDate() + n); return x.toISOString().slice(0, 10); };
+  if (selectedBy?.to && windowStart && windowStart <= plus(selectedBy.to, 7)) {
+    lines.push(`  ↳ 28일 노출%는 집합을 고른 노출 기간(${selectedBy.from.slice(5)}~${selectedBy.to.slice(5)})이 이번 또는 지난 측정 창에 들어 있어 실제 변화 없이도 줄어들 수 있다 — ${plus(selectedBy.to, 31).slice(5)} 이후 측정끼리 비교할 때만 하락 신호로 읽는다.`);
+  }
   const kinds = Object.entries(s.byKind).sort((a, b) => b[1].n - a[1].n)
     .map(([k, b]) => `${k} ${b.indexed}/${b.n}${b.stale ? `(정체 ${b.stale})` : ''}`);
   if (kinds.length) lines.push(`종류별 색인: ${kinds.join(' · ')}`);

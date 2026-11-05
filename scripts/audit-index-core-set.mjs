@@ -173,7 +173,7 @@ async function main() {
   });
   const judge = set.thresholds?.judgeOn && today >= set.thresholds.judgeOn ? judgeCohort(summary, set.thresholds, today) : null;
   const at = new Date().toISOString();
-  let text = formatReport(summary, { at, judge, thresholds: set.thresholds });
+  let text = formatReport(summary, { at, judge, thresholds: set.thresholds, selectedBy: set.selectedBy, windowStart: day(-30) });
   if (quota) text = '⚠️ URL 검사 한도(429)에 걸려 중간에 멈췄다 — 아래는 부분 결과.\n' + text;
 
   console.log(text);
