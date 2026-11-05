@@ -60,6 +60,9 @@ export const REGION_TZ = {
     Jakarta: WIB, Yogyakarta: WIB, Bandung: WIB, Surabaya: WIB, Malang: WIB,
     Medan: WIB, 'Mount Bromo': WIB, Tangerang: WIB, Magelang: WIB, Bintan: WIB, // Riau Islands, on Jakarta time
     Bali: WITA, Ubud: WITA, Uluwatu: WITA, Canggu: WITA, 'Nusa Penida': WITA, Lombok: WITA, Denpasar: WITA, Buleleng: WITA,
+    // Bali's other regencies, all on Bali time — discovery placed a festival in
+    // Jembrana (11-05) and the rest are where the next ones will land.
+    Jembrana: WITA, Tabanan: WITA, Badung: WITA, Gianyar: WITA, Bangli: WITA, Klungkung: WITA, Karangasem: WITA,
     'Gili Islands': WITA, Mandalika: WITA, 'Labuan Bajo': WITA, Komodo: WITA,
     Makassar: WITA,
   },
