@@ -12,14 +12,6 @@ eventOrganizer:
   name: Ministry of Culture, Sports and Tourism (MCST), KeSPA, Nimble Neuron
   url: http://kel.e-sports.or.kr/
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/7/7c/Yongsan_esports_stadium.jpg
-  credit: 'Photo: Altostratus / Wikimedia Commons (CC BY-SA 3.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Yongsan_esports_stadium.jpg
-  focus:
-    x: 35
-    'y': 40
 gallery: []
 tags:
   - seoul

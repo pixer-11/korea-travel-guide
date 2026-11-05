@@ -13,16 +13,6 @@ eventPerformer:
   name: Catch The Young
   kind: group
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2015-01-31_21-22-59_catch-belfort.jpg/3840px-2015-01-31_21-22-59_catch-belfort.jpg
-  credit: 'Photo: Thomas Bresson / Wikimedia Commons (CC BY 3.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:2015-01-31_21-22-59_catch-belfort.jpg
-  focus:
-    x: 42
-    'y': 18
-    top: 7
-    bottom: 29
 gallery: []
 tags:
   - london

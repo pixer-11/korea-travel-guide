@@ -4133,9 +4133,9 @@
  },
  "belek-ironman-70-3-turkey\u0001https://upload.wikimedia.org/wikipedia/commons/f/ff/Swim_start_at_Ironman_70.3_Florida_2012.jpg": {
   "slug": "belek-ironman-70-3-turkey",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Swimming event start, beach venue, crowded crowd",
-  "at": "2026-11-05T00:29:34.910Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"ironman\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-05T08:00:35.462Z"
  },
  "belek-ironman-70-3-turkey\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/IRONMAN_70.3_Hradec_Kralove_2024_4_c%C3%ADlov%C3%A1_rovinka.jpg/1920px-IRONMAN_70.3_Hradec_Kralove_2024_4_c%C3%ADlov%C3%A1_rovinka.jpg": {
   "slug": "belek-ironman-70-3-turkey",
@@ -7860,9 +7860,9 @@
  },
  "cologne-cologne-marathon-carnival-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/0/01/K%C3%B6ln_Marathon_-_panoramio.jpg": {
   "slug": "cologne-cologne-marathon-carnival-marathon",
-  "verdict": "MATCH",
-  "reason": "event publish gate: Costumed runners in street race, matches carnival marathon theme",
-  "at": "2026-11-05T01:17:07.381Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"marathon\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-05T08:00:35.642Z"
  },
  "cologne-museum-ludwig\u0001https://upload.wikimedia.org/wikipedia/commons/3/3d/Museum_Ludwig_002.jpg": {
   "slug": "cologne-museum-ludwig",
@@ -13394,9 +13394,9 @@
  },
  "incheon-round-festival-asean-korea-music-festival\u0001https://upload.wikimedia.org/wikipedia/commons/4/45/AKMF_Round_in_Busan_in_2024.jpg": {
   "slug": "incheon-round-festival-asean-korea-music-festival",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Festival stage with performers, blue branding visible",
-  "at": "2026-11-05T00:31:42.651Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"round\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-05T08:00:35.815Z"
  },
  "incheon-round-festival-asean-korea-music-festival\u0001https://upload.wikimedia.org/wikipedia/commons/8/8a/Group_Shot_of_All_Crews_of_the_AKMF_Round_Festival.jpg": {
   "slug": "incheon-round-festival-asean-korea-music-festival",
@@ -18013,9 +18013,9 @@
  },
  "lima-sound-music-fest-golden-years-edition\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Atlas_Sound_in_concert_%2823317722769%29.jpg/3840px-Atlas_Sound_in_concert_%2823317722769%29.jpg": {
   "slug": "lima-sound-music-fest-golden-years-edition",
-  "verdict": "MATCH",
-  "reason": "patrol replace: DJ/musician performing at event with stage lighting",
-  "at": "2026-11-05T00:32:02.515Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"sound\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-05T08:00:35.990Z"
  },
  "lima-sound-music-fest-golden-years-edition\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/The_Warning_at_Sound_of_Music_2022-5.jpg/3840px-The_Warning_at_Sound_of_Music_2022-5.jpg": {
   "slug": "lima-sound-music-fest-golden-years-edition",
@@ -18473,9 +18473,9 @@
  },
  "london-catch-the-young-ignite-evolve-europe-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2015-01-31_21-22-59_catch-belfort.jpg/3840px-2015-01-31_21-22-59_catch-belfort.jpg": {
   "slug": "london-catch-the-young-ignite-evolve-europe-tour",
-  "verdict": "MATCH",
-  "reason": "event publish gate: Wrestling event photo matches this type of event",
-  "at": "2026-11-05T01:16:51.045Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"catch\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-05T08:00:36.169Z"
  },
  "london-hatsune-miku-concert\u0001https://upload.wikimedia.org/wikipedia/commons/2/25/Cosplay_Contest_at_Copenhagen_Sakura_Festival_2023_19.jpg": {
   "slug": "london-hatsune-miku-concert",
@@ -19256,9 +19256,9 @@
  },
  "lyon-k-pop-forever\u0001https://upload.wikimedia.org/wikipedia/commons/1/1b/Taemin_at_K-POP_Concert_in_October_2015_02.jpg": {
   "slug": "lyon-k-pop-forever",
-  "verdict": "MATCH",
-  "reason": "event publish gate: Performer photo valid for K-Pop event hero image",
-  "at": "2026-11-05T01:12:59.891Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares no word with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-05T08:00:36.340Z"
  },
  "lyon-lello\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Lello_%28Lyon%29_-_entr%C3%A9e.jpg/3840px-Lello_%28Lyon%29_-_entr%C3%A9e.jpg": {
   "slug": "lyon-lello",
@@ -28996,9 +28996,9 @@
  },
  "seoul-korean-esports-league-kel-2026-championship-eternal-return\u0001https://upload.wikimedia.org/wikipedia/commons/7/7c/Yongsan_esports_stadium.jpg": {
   "slug": "seoul-korean-esports-league-kel-2026-championship-eternal-return",
-  "verdict": "MATCH",
-  "reason": "event publish gate: Esports event venue with stage, screen, audience seating",
-  "at": "2026-11-05T01:12:14.094Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"esports\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-05T08:00:36.511Z"
  },
  "seoul-kurarie\u0001https://fastly.4sqi.net/img/general/original/9493514_Pvchc_jgqjhfsPDBeEA2SpnjanHxpnqjRk7F7dzmiXk.jpg": {
   "slug": "seoul-kurarie",

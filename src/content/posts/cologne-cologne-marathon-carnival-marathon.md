@@ -9,14 +9,6 @@ eventStartDate: '2026-11-11'
 eventEndDate: '2026-11-11'
 eventRecurring: true
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/0/01/K%C3%B6ln_Marathon_-_panoramio.jpg
-  credit: 'Photo: aachim3 / Wikimedia Commons (CC BY 3.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:K%C3%B6ln_Marathon_-_panoramio.jpg
-  focus:
-    x: 40
-    'y': 55
 gallery: []
 tags:
   - cologne
