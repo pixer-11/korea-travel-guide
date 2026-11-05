@@ -1995,6 +1995,12 @@
   "reason": "patrol replace: Colorful Mexican restaurant exterior, Bali setting clear",
   "at": "2026-09-10T21:48:30.027Z"
  },
+ "bali-motel-mexicola-uluwatu\u0001https://fastly.4sqi.net/img/general/original/1792583_F_XwD41gJggCtGWR3R5fVLzARY0V_Zt23O-WVNttE9I.jpg": {
+  "slug": "bali-motel-mexicola-uluwatu",
+  "verdict": "MATCH",
+  "reason": "width upgrade: Interior table with food, matches restaurant venue type",
+  "at": "2026-11-05T00:34:13.120Z"
+ },
  "bali-motel-mexicola-uluwatu\u0001https://fastly.4sqi.net/img/general/original/563305401_5ujsMjs_isRUiDlaR-kTf0FxmwXP9FVEmAdK8rmXvtY.jpg": {
   "slug": "bali-motel-mexicola-uluwatu",
   "verdict": "MISMATCH",
@@ -4083,6 +4089,12 @@
   "reason": "hand-reviewed: filename shares only \"ironman\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-29T08:14:15.063Z"
  },
+ "belek-ironman-70-3-turkey\u0001https://upload.wikimedia.org/wikipedia/commons/f/ff/Swim_start_at_Ironman_70.3_Florida_2012.jpg": {
+  "slug": "belek-ironman-70-3-turkey",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Swimming event start, beach venue, crowded crowd",
+  "at": "2026-11-05T00:29:34.910Z"
+ },
  "belek-ironman-70-3-turkey\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/IRONMAN_70.3_Hradec_Kralove_2024_4_c%C3%ADlov%C3%A1_rovinka.jpg/1920px-IRONMAN_70.3_Hradec_Kralove_2024_4_c%C3%ADlov%C3%A1_rovinka.jpg": {
   "slug": "belek-ironman-70-3-turkey",
   "verdict": "MISMATCH",
@@ -5328,6 +5340,12 @@
   "reason": "hand-reviewed: filename shares only \"blica\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-11-02T08:28:03.524Z"
  },
+ "buenos-aires-republica-folklore\u0001https://upload.wikimedia.org/wikipedia/commons/9/9a/MOVISTAR_ARENA.jpg": {
+  "slug": "buenos-aires-republica-folklore",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Modern Buenos Aires street architecture, venue context",
+  "at": "2026-11-05T00:30:00.345Z"
+ },
  "buenos-aires-republica-folklore\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Festival_de_las_Flores_2024._Jarabacoa%2C_Rep%C3%BAblica_Dominicana.jpg/3840px-Festival_de_las_Flores_2024._Jarabacoa%2C_Rep%C3%BAblica_Dominicana.jpg": {
   "slug": "buenos-aires-republica-folklore",
   "verdict": "MISMATCH",
@@ -5339,6 +5357,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Farm field selfie, unrelated to folklore event",
   "at": "2026-11-03T01:44:39.627Z"
+ },
+ "buenos-aires-republica-folklore\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Fallas2018_-_Cavalcada_Patrimoni_17_-_Merengue_Rep%C3%BAblica_Dominicana.jpg/3840px-Fallas2018_-_Cavalcada_Patrimoni_17_-_Merengue_Rep%C3%BAblica_Dominicana.jpg": {
+  "slug": "buenos-aires-republica-folklore",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: identity: Commons places this in Spain, post says Argentina",
+  "at": "2026-11-05T00:29:57.654Z"
  },
  "buenos-aires-republica-folklore\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Fallas2018_-_Cavalcada_Patrimoni_10_-_Merengue_Rep%C3%BAblica_Dominicana.jpg/3840px-Fallas2018_-_Cavalcada_Patrimoni_10_-_Merengue_Rep%C3%BAblica_Dominicana.jpg": {
   "slug": "buenos-aires-republica-folklore",
@@ -13242,17 +13266,35 @@
   "reason": "hand-reviewed: filename shares only \"round\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-11-03T08:22:43.062Z"
  },
+ "incheon-round-festival-asean-korea-music-festival\u0001https://upload.wikimedia.org/wikipedia/commons/4/45/AKMF_Round_in_Busan_in_2024.jpg": {
+  "slug": "incheon-round-festival-asean-korea-music-festival",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Festival stage with performers, blue branding visible",
+  "at": "2026-11-05T00:31:42.651Z"
+ },
  "incheon-round-festival-asean-korea-music-festival\u0001https://upload.wikimedia.org/wikipedia/commons/8/8a/Group_Shot_of_All_Crews_of_the_AKMF_Round_Festival.jpg": {
   "slug": "incheon-round-festival-asean-korea-music-festival",
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: filename shares only \"round\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-11-04T07:57:45.326Z"
  },
+ "incheon-round-festival-asean-korea-music-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/SB19_at_ASEAN_Korea_Music_Festival_2023_%28ROUND%29.jpg/3840px-SB19_at_ASEAN_Korea_Music_Festival_2023_%28ROUND%29.jpg": {
+  "slug": "incheon-round-festival-asean-korea-music-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: identity: Commons places this in Indonesia, post says South Korea",
+  "at": "2026-11-05T00:31:39.885Z"
+ },
  "incheon-round-festival-asean-korea-music-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Moldboy_performs_at_River_Runs_Round_festival_in_Coughlan%27s%2C_Cork.jpg/3840px-Moldboy_performs_at_River_Runs_Round_festival_in_Coughlan%27s%2C_Cork.jpg": {
   "slug": "incheon-round-festival-asean-korea-music-festival",
   "verdict": "MISMATCH",
   "reason": "patrol reject: Random musician at unrelated venue, not this festival",
   "at": "2026-11-04T00:11:42.072Z"
+ },
+ "incheon-round-festival-asean-korea-music-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Seamas_Hyland_performs_at_River_Runs_Round_festival_in_Coughlan%27s%2C_Cork.jpg/3840px-Seamas_Hyland_performs_at_River_Runs_Round_festival_in_Coughlan%27s%2C_Cork.jpg": {
+  "slug": "incheon-round-festival-asean-korea-music-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated venue, different country/event, not ROUND Festival",
+  "at": "2026-11-05T00:31:36.922Z"
  },
  "incheon-round-festival-asean-korea-music-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/AKMF_Round_Festival_Stage.jpg/3840px-AKMF_Round_Festival_Stage.jpg": {
   "slug": "incheon-round-festival-asean-korea-music-festival",
@@ -17746,6 +17788,12 @@
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: filename shares only \"sound\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-11-04T07:57:45.490Z"
+ },
+ "lima-sound-music-fest-golden-years-edition\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Atlas_Sound_in_concert_%2823317722769%29.jpg/3840px-Atlas_Sound_in_concert_%2823317722769%29.jpg": {
+  "slug": "lima-sound-music-fest-golden-years-edition",
+  "verdict": "MATCH",
+  "reason": "patrol replace: DJ/musician performing at event with stage lighting",
+  "at": "2026-11-05T00:32:02.515Z"
  },
  "lima-sound-music-fest-golden-years-edition\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/The_Warning_at_Sound_of_Music_2022-5.jpg/3840px-The_Warning_at_Sound_of_Music_2022-5.jpg": {
   "slug": "lima-sound-music-fest-golden-years-edition",

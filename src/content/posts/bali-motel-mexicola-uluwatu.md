@@ -22,12 +22,12 @@ faq:
     a: Bingin's clifftop bars and sunset spots are a short walk or scooter ride away, and Padang Padang beach is close enough to pair with an afternoon swim or surf before dinner.
 aiGenerated: true
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/1393956800_BnDKb8TeUg9bFe_Xg0ZzsyBZxHdH95SNeNo1B4nYJZw.jpg
+  url: https://fastly.4sqi.net/img/general/original/1792583_F_XwD41gJggCtGWR3R5fVLzARY0V_Zt23O-WVNttE9I.jpg
   credit: 'Photo: Foursquare user content (Motel Mexicola)'
   license: foursquare
   source: https://foursquare.com/v/50fe2aa0e4b0a8ccadee6832
   focus:
-    x: 40
+    x: 35
     'y': 55
 ---
 

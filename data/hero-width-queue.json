@@ -3324,7 +3324,11 @@
   "strasbourg-grande-ile-de-strasbourg\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rue_d%27Or%2C_Strasbourg_%28vers_Grande_%C3%8Ele%29.jpg/3840px-Rue_d%27Or%2C_Strasbourg_%28vers_Grande_%C3%8Ele%29.jpg": 3840,
   "tsim-sha-tsui-former-kowloon-canton-railway-clock-tower\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/HK_TST_Clock_Tower_interior_Salisbury_Road_night_Mar-2013.JPG/1920px-HK_TST_Clock_Tower_interior_Salisbury_Road_night_Mar-2013.JPG": 1920,
   "ubud-puri-saren-agung-ubud-puri-saren-ubud\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Puri_Saren_Agung_%2833172644978%29.jpg/3840px-Puri_Saren_Agung_%2833172644978%29.jpg": 3840,
-  "vancouver-vandusen-botanical-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/VanDusen_Botanical_Garden_1.jpg/1920px-VanDusen_Botanical_Garden_1.jpg": 1920
+  "vancouver-vandusen-botanical-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/VanDusen_Botanical_Garden_1.jpg/1920px-VanDusen_Botanical_Garden_1.jpg": 1920,
+  "buenos-aires-republica-folklore\u0001https://upload.wikimedia.org/wikipedia/commons/9/9a/MOVISTAR_ARENA.jpg": 1800,
+  "belek-ironman-70-3-turkey\u0001https://upload.wikimedia.org/wikipedia/commons/f/ff/Swim_start_at_Ironman_70.3_Florida_2012.jpg": 3008,
+  "incheon-round-festival-asean-korea-music-festival\u0001https://upload.wikimedia.org/wikipedia/commons/4/45/AKMF_Round_in_Busan_in_2024.jpg": 2264,
+  "lima-sound-music-fest-golden-years-edition\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Atlas_Sound_in_concert_%2823317722769%29.jpg/3840px-Atlas_Sound_in_concert_%2823317722769%29.jpg": 3840
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -3516,17 +3520,10 @@
    "flaggedAt": "2026-09-03",
    "lastResult": "no-wider"
   },
-  "bali-motel-mexicola-uluwatu": {
-   "width": 1080,
-   "attempts": 8,
-   "nextTry": "2026-11-05",
-   "flaggedAt": "2026-09-10",
-   "lastResult": "no-wider"
-  },
   "dubai-suteki": {
    "width": 903,
-   "attempts": 8,
-   "nextTry": "2026-11-05",
+   "attempts": 9,
+   "nextTry": "2026-11-12",
    "flaggedAt": "2026-09-10",
    "lastResult": "no-wider"
   },
@@ -3588,8 +3585,8 @@
   },
   "hiroshima-nagataya": {
    "width": 1024,
-   "attempts": 6,
-   "nextTry": "2026-11-05",
+   "attempts": 7,
+   "nextTry": "2026-11-12",
    "flaggedAt": "2026-09-19",
    "lastResult": "no-wider"
   },
@@ -3623,8 +3620,8 @@
   },
   "istanbul-lina-anatolian-kitchen": {
    "width": 1024,
-   "attempts": 4,
-   "nextTry": "2026-11-05",
+   "attempts": 5,
+   "nextTry": "2026-11-12",
    "flaggedAt": "2026-09-24",
    "lastResult": "no-wider"
   },
@@ -3856,5 +3853,5 @@
    "flaggedAt": "2026-11-02"
   }
  },
- "updated": "2026-11-04T15:39:46.802Z"
+ "updated": "2026-11-05T00:34:23.211Z"
 }
