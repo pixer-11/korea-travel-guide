@@ -12003,6 +12003,12 @@
   "reason": "publish gate: Crowded outdoor market with tents, matches Salamanca Market scene",
   "at": "2026-10-02T07:48:52.788Z"
  },
+ "hoi-an-ancient-town\u0001/editor-photos/hoi-an-ancient-town-1.jpg": {
+  "slug": "hoi-an-ancient-town",
+  "verdict": "MATCH",
+  "reason": "owner photo: editor-original — yellow shophouses under bougainvillea on an Ancient Town street, red silk lanterns and clothes for sal",
+  "at": "2026-11-06T11:35:03.925Z"
+ },
  "hoi-an-bun-cha-ta-hoi-an\u0001https://fastly.4sqi.net/img/general/original/451218967_Ju9RCjFw6VmurqI3sbRaXaRvqwtcWOVL9jmPm5TiajM.jpg": {
   "slug": "hoi-an-bun-cha-ta-hoi-an",
   "verdict": "MISMATCH",
