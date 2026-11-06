@@ -1,74 +1,74 @@
 ---
 lang: es
 slug: new-taipei-bopiliao-historical-block
-srcHash: '980a64c6f00c'
-title: 'Manzana Histórica de Bopiliao: Guía de Viaje (4.2★)'
-description: 'La Manzana Histórica de Bopiliao se encuentra en el distrito de Wanhua, en la ciudad de Taipéi (a poca distancia a pie de la zona de Ximending y el Templo Longshan, no en Nueva Taipéi), abierta de martes a domingo de 9:00 a 18:00, cerrada los lunes. 4.2★ (13,774 reseñas): qué dicen los visitantes, horarios y consejos.'
-quickAnswer: La Manzana Histórica de Bopiliao se encuentra en el distrito de Wanhua, en la ciudad de Taipéi (a poca distancia a pie de la zona de Ximending y el Templo Longshan, no en Nueva Taipéi), abierta de martes a domingo de 9:00 a 18:00, cerrada los lunes. Calcula entre 45 y 60 minutos y combínala con la cercana visita al Templo Longshan. Ve un día entre semana justo a la apertura para evitar los grupos turísticos y las excursiones escolares.
+srcHash: 'ddef57a039f4'
+title: 'Barrio histórico de Bopiliao: guía de viaje de Taipéi (4.2★)'
+description: En el distrito de Wanhua, a pocos pasos de Ximending y del templo Longshan, el barrio histórico de Bopiliao abre de martes a domingo, 9am–6pm, y cierra los lunes. Tiene una valoración de 4.2★ con 13,774 reseñas. Aquí encontrará horarios, consejos y la opinión de los visitantes.
+quickAnswer: El barrio histórico de Bopiliao está en el distrito de Wanhua, en la ciudad de Taipéi, a pocos pasos de Ximending y del templo Longshan. Abre de martes a domingo, 9am–6pm, y cierra los lunes. La visita lleva entre 45–60 minutos, y conviene combinarla con el cercano templo Longshan. Para adelantarse a los grupos organizados y a las excursiones escolares, lo mejor es llegar a primera hora de la mañana de un día laborable, justo cuando abre.
 faq:
-  - q: ¿La Manzana Histórica de Bopiliao está en Nueva Taipéi o en la ciudad de Taipéi?
-    a: Está en el distrito de Wanhua, en la ciudad de Taipéi, no en Nueva Taipéi; es una confusión habitual. Queda cerca de la estación de metro Templo Longshan, en la Línea Azul.
-  - q: ¿Cuánto tiempo debería reservar para la visita?
-    a: Con 45 minutos alcanza para un recorrido completo; calcula hasta 90 minutos si te detienes en las exposiciones del centro educativo.
+  - q: ¿Cómo se llega al barrio histórico de Bopiliao?
+    a: Está en el distrito de Wanhua, en la ciudad de Taipéi. Desde la salida 3 de la estación de metro Templo Longshan (Longshan Temple, línea azul) se llega en pocos minutos a pie.
+  - q: ¿Cuánto tiempo debo reservar para la visita?
+    a: Para recorrerlo entero bastan 45 minutos. Si quiere detenerse en las exposiciones del centro educativo, cuente con hasta 90 minutos.
   - q: ¿Hay que pagar entrada?
-    a: Recorrer la manzana histórica al aire libre es gratuito. Algunas exposiciones en interiores podrían tener ocasionalmente condiciones aparte, así que conviene revisar la señalización al llegar.
-  - q: ¿Cuál es el horario de apertura?
-    a: De martes a domingo, de 9:00 a 18:00. Permanece cerrado todo el lunes.
+    a: Pasear por el recinto histórico exterior es gratis. Algunas exposiciones interiores pueden tener ocasionalmente condiciones propias, así que conviene consultar los carteles al llegar.
+  - q: ¿Cuál es el horario?
+    a: Abre de martes a domingo, 9am–6pm. Los lunes permanece cerrado todo el día.
   - q: ¿Cuándo hay menos gente?
-    a: Las mañanas entre semana justo a la apertura de las 9:00, especialmente de martes a jueves. Las tardes de fin de semana atraen a la mayor cantidad de visitantes.
+    a: Por la mañana en días laborables, justo a la apertura de las 9am, sobre todo de martes a jueves. Las tardes de fin de semana son las más concurridas.
 ---
 
 ## Por qué ir
 
-A Bopiliao se viene por sus capas de historia. Arcadas de ladrillo rojo de la dinastía Qing conviven con fachadas de madera de la era japonesa, todo restaurado en una única calle transitable que parece detenida entre 1800 y 1950.
+Lo que atrae de Bopiliao es su superposición de épocas. Los soportales de ladrillo rojo de la dinastía Qing conviven, pared con pared, con fachadas comerciales de madera de la época japonesa. La restauración las ha unido en una sola calle peatonal que parece haberse detenido en algún momento entre 1800 y 1950.
 
-Esto no es un museo tras un cristal: se trata de un callejón real, el Callejón 173 de la calle Kangding, que se recorre de principio a fin siguiendo la antigua columna vertebral comercial de Manka (Wanhua), uno de los asentamientos más antiguos de Taipéi.
+Aquí no hay vitrinas como en un museo. Se recorre de punta a punta un callejón de verdad, el 173 de la calle Kangding (Kangding Road, Lane 173), que sigue el antiguo eje comercial de Manka (Wanhua), uno de los primeros distritos poblados de Taipéi.
 
 ## Cómo llegar
 
-Bopiliao está en el distrito de Wanhua, dentro de la propia ciudad de Taipéi, a pocos minutos a pie de la estación de metro Templo Longshan (Línea Azul), salida 3. Desde allí, sigue las indicaciones hacia la calle Guangzhou y verás las fachadas con arcadas abrirse a tu izquierda.
+Bopiliao se encuentra en el distrito de Wanhua, en la ciudad de Taipéi. Desde la salida 3 de la estación de metro Templo Longshan (Longshan Temple, línea azul) se llega en pocos minutos a pie. Al salir, siga las indicaciones hacia la calle Guangzhou y enseguida aparecerán a su izquierda las fachadas porticadas.
 
-También es una parada fácil de añadir si ya estás en el Templo Longshan o recorriendo el Mercado Nocturno de la calle Huaxi: los tres lugares están a menos de diez minutos a pie entre sí.
+Si ya está en el templo Longshan o paseando por el mercado nocturno de la calle Huaxi (Huaxi Street Night Market), es fácil incluirlo en la ruta. Los tres lugares quedan a menos de diez minutos andando entre sí.
 
 ## Qué ver
 
-Recorrer la manzana es gratuito, y el antiguo edificio escolar de la era japonesa funciona ahora como espacio de exposiciones sobre la historia local y la renovación urbana.
+Pasear por el barrio es gratis. En su interior, el antiguo edificio escolar de la época japonesa alberga hoy un espacio de exposiciones dedicado a la historia local y a la renovación urbana.
 
-Presta atención a:
+No se pierda:
 
-- El característico pasaje con arcadas de ladrillo rojo (una buena opción incluso en días de lluvia)
-- Los postigos de madera y la estructura de vigas conservados en las tiendas de la época japonesa
-- Las exposiciones rotativas dentro del centro educativo, a menudo relacionadas con la historia de los barrios de Taipéi
-- Los detalles a pie de calle —bisagras de puertas, azulejos, rótulos pintados— que recompensan un paseo lento en lugar de un recorrido apresurado
+- El característico pasaje porticado de ladrillo rojo, perfecto para los días de lluvia
+- Las contraventanas de madera y las estructuras de vigas que se conservan en las tiendas del periodo japonés
+- Las exposiciones temporales del centro educativo, que a menudo giran en torno a la historia de los barrios de Taipéi
+- Los pequeños detalles a pie de calle, como bisagras, azulejos o rótulos pintados, que se disfrutan mucho más paseando sin prisa que pasando de largo
 
-Calcula unos 45 minutos para el recorrido, cerca de 90 si alguna exposición te atrapa.
+Calcule unos 45 minutos para recorrerlo, y hasta 90 si alguna exposición le atrapa.
 
 ## Cuándo ir
 
-La manzana recibe una afluencia considerable: es uno de los sitios patrimoniales más visitados de Wanhua, con un flujo constante de visitantes los fines de semana y grupos escolares entre semana. No hay forma de tenerla para ti solo, así que elegir bien el momento importa más que la suerte.
+El barrio está realmente concurrido. Es uno de los lugares patrimoniales más visitados de Wanhua: los fines de semana el flujo de visitantes es constante y entre semana llegan los grupos escolares. Tenerlo para usted solo es imposible, de modo que acertar con el momento cuenta más que la suerte.
 
-Cierra los lunes. De martes a domingo abre de 9:00 a 18:00, así que organiza tu visita en torno a ese horario: llegar cerca del cierre puede significar que las salas de exposición ya estén recogiendo.
+Los lunes permanece cerrado. De martes a domingo abre de 9am a 6pm, así que organícese en función de ese horario: si llega cerca del cierre, puede que las salas de exposición ya estén recogiendo.
 
-## Cómo visitarla como un local
+## Cómo visitarlo como un local
 
-Llega justo a las 9:00 un día entre semana, idealmente de martes a jueves. A esa hora los grupos turísticos aún no han llegado y la luz que atraviesa las arcadas todavía es baja y cálida sobre el ladrillo.
+Llegue a las 9am en punto un día laborable, preferiblemente de martes a jueves. A esa hora todavía no han aparecido los grupos organizados, y la luz que se cuela entre los soportales aún entra baja y cálida sobre el ladrillo.
 
-Al tratarse de un lugar muy visitado y conocido más que de un rincón secreto, la estrategia real consiste en esquivar la multitud, no en pretender tenerlo todo para ti.
+No es un rincón tranquilo por descubrir, sino una parada muy conocida y frecuentada. Por eso la verdadera estrategia consiste en esquivar las aglomeraciones, no en soñar con tenerlo en exclusiva.
 
-- Evita por completo los sábados por la tarde: es cuando se llena más rápido
-- La entrada a la manzana al aire libre es gratuita; las exposiciones interiores pueden tener ocasionalmente tarifas o horarios especiales, así que revisa la señalización en la entrada
-- No hace falta reservar: es un sitio de acceso libre, para entrar y recorrer sin más
-- Combínalo primero con el Templo Longshan (las mañanas allí también son más tranquilas) y luego camina hasta aquí
-- Los locales lo usan tanto como atajo y telón de fondo para fotos como sitio patrimonial, así que no te sorprenda verlo integrado en el tránsito diario en lugar de acordonado como una atracción formal
+- Evite por completo las tardes de los sábados, que es cuando más rápido se llena
+- La entrada al recinto exterior es gratuita, pero las exposiciones del interior pueden tener alguna vez una pequeña tarifa o un horario especial; consulte los carteles de la entrada
+- No hace falta reservar: basta con llegar y recorrerlo
+- Visite primero el templo Longshan, donde las mañanas también son más tranquilas, y después acérquese andando
+- Para los vecinos es tanto un atajo y un fondo para fotos como un lugar patrimonial. No le extrañe verlo integrado en el ir y venir cotidiano, sin cordones que lo acoten como a una atracción formal
 
-Ten algo de paciencia con las fotos: las arcadas son estrechas y todos buscan el mismo ángulo a lo largo de la columnata. La luz de primera hora de la mañana resuelve ese problema mejor que cualquier truco de composición.
+Armese de paciencia para las fotos. Los soportales son estrechos y todo el mundo busca el mismo encuadre a lo largo de la columnata. La luz de primera hora resuelve ese problema mejor que cualquier truco de composición.
 
-## Qué combinar cerca
+## Qué combinar en los alrededores
 
-Como Bopiliao es compacta, funciona mejor como una parada dentro de una media jornada en Wanhua que como un destino en sí misma.
+Bopiliao es pequeño, así que funciona mejor como una parada más dentro de una media jornada por Wanhua que como destino en sí mismo.
 
-- **Templo Longshan** — a cinco minutos a pie, y el ancla espiritual y arquitectónica de la zona
-- **Mercado Nocturno de la calle Huaxi** — más propio de una visita nocturna, así que déjalo para más tarde en el día
-- **Callejón de las Hierbas (calle Xichang)** — tiendas de medicina tradicional justo después del templo, ideales para un recorrido pausado
+- **Templo Longshan**: a cinco minutos a pie, es el gran referente espiritual y arquitectónico de la zona
+- **Mercado nocturno de la calle Huaxi**: está más pensado para la noche, así que resérvelo para el final del día
+- **Callejón de las Hierbas (Herb Alley, calle Xichang)**: justo detrás del templo, reúne tiendas de medicina tradicional ideales para curiosear con calma
 
-Wanhua premia este tipo de combinaciones: templo antiguo, manzana antigua, mercado antiguo, todo dentro de un bolsillo compacto y transitable de la ciudad que sigue funcionando como un barrio real y no como un decorado conservado para turistas.
+Wanhua invita a encadenar visitas así. Templo antiguo, barrio antiguo y mercado antiguo se reúnen en un rincón compacto de la ciudad que se recorre a pie y que sigue siendo un barrio vivo, no un decorado conservado para turistas.

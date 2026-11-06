@@ -1,12 +1,12 @@
 ---
-title: 'Bopiliao Historical Block: New Taipei Travel Guide (4.2★)'
+title: 'Bopiliao Historical Block: Taipei Travel Guide (4.2★)'
 description: >-
-  Bopiliao Historical Block sits in Wanhua District, Taipei City (a short walk
-  from Taipei's Ximending/Longshan Temple area, not New Taipei proper), open
-  Tuesday–Sunday 9am–6pm, closed Mondays. 4.2★ (13,774 reviews) — what visitors
-  say, hours, and tips.
+  Bopiliao Historical Block sits in Wanhua District, Taipei City, a short walk
+  from the Ximending and Longshan Temple area. It's open Tuesday–Sunday
+  9am–6pm, closed Mondays. 4.2★ (13,774 reviews) — what visitors say, hours,
+  and tips.
 country: Taiwan
-region: New Taipei
+region: Taipei
 category: hidden-gem
 pubDate: '2026-08-15T07:50:33.481Z'
 heroImage:
@@ -40,19 +40,19 @@ place:
     - 'Saturday: 9:00 AM – 6:00 PM'
     - 'Sunday: 9:00 AM – 6:00 PM'
 tags:
-  - new taipei
+  - taipei
   - old quarter
 quickAnswer: >-
-  Bopiliao Historical Block sits in Wanhua District, Taipei City (a short walk
-  from Taipei's Ximending/Longshan Temple area, not New Taipei proper), open
-  Tuesday–Sunday 9am–6pm, closed Mondays. Give it 45–60 minutes, pairing it with
+  Bopiliao Historical Block sits in Wanhua District, Taipei City, a short walk
+  from the Ximending and Longshan Temple area. It's open Tuesday–Sunday
+  9am–6pm, closed Mondays. Give it 45–60 minutes, pairing it with
   nearby Longshan Temple. Go on a weekday morning right at opening to beat tour
   groups and school trips.
 faq:
-  - q: Is Bopiliao Historical Block in New Taipei or Taipei City?
+  - q: How do I get to Bopiliao Historical Block?
     a: >-
-      It's in Taipei City's Wanhua District, not New Taipei — a common mix-up.
-      It's near Longshan Temple MRT Station on the Blue Line.
+      It's in Taipei City's Wanhua District, a few minutes' walk from Longshan
+      Temple MRT Station (Blue Line), Exit 3.
   - q: How much time should I budget?
     a: >-
       45 minutes covers a full walk-through; allow up to 90 minutes if you
@@ -81,7 +81,7 @@ This isn't a museum behind glass. It's an actual lane, Kangding Road's Lane 173,
 
 ## Getting there
 
-Bopiliao is in Wanhua District, Taipei City proper, a few minutes' walk from Longshan Temple MRT Station (Blue Line), Exit 3. From there, follow signs toward Guangzhou Street and you'll see the arcaded facades open up on your left.
+Bopiliao is in Wanhua District, Taipei City, a few minutes' walk from Longshan Temple MRT Station (Blue Line), Exit 3. From there, follow signs toward Guangzhou Street and you'll see the arcaded facades open up on your left.
 
 It's also an easy add-on if you're already at Longshan Temple or browsing Huaxi Street Night Market. All three sit within a ten-minute radius on foot.
 
