@@ -39429,5 +39429,40 @@
   "registerBreak": false,
   "worst": "这种建筑风格的质感正是从这里来的。",
   "at": "2026-11-06T07:51:09.344Z"
+ },
+ "es/rome-bob-dylan-rome-2026": {
+  "hash": "fa07d01ee94e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "una entrada falsa supone volver de vacío y a la intemperie hasta el metro",
+  "at": "2026-11-06T15:23:47.489Z"
+ },
+ "ja/new-york-boynextdoor-knock-on-vol-2": {
+  "hash": "b1967ad8f60d",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "この一角は、建物が密集して上へ上へと積み重なった街並みです。",
+  "at": "2026-11-06T15:23:55.799Z"
+ },
+ "ja/rome-bob-dylan-rome-2026": {
+  "hash": "00ca6e108a75",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-11-06T15:23:56.490Z"
+ },
+ "ko/rome-bob-dylan-rome-2026": {
+  "hash": "b045921071f0",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "일찍 도착한 사람은 보안 검색과 가방 검사 줄이 짧습니다.",
+  "at": "2026-11-06T15:23:57.828Z"
+ },
+ "zh/rome-bob-dylan-rome-2026": {
+  "hash": "8f68fd7db684",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "万一买到假票，只能在寒夜里独自走回地铁站。",
+  "at": "2026-11-06T15:23:58.635Z"
  }
 }

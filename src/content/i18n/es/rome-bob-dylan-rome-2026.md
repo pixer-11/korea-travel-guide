@@ -1,56 +1,56 @@
 ---
 lang: es
 slug: rome-bob-dylan-rome-2026
-srcHash: 'd22e3b5a0e3f'
-title: 'Bob Dylan en Roma 2026: fecha, entradas y recinto (Roma)'
-description: Bob Dylan ofrecerá un único concierto en Roma el jueves 5 de noviembre de 2026 en el Palazzo dello Sport, en el barrio del EUR. Las entradas se venden a través de los canales oficiales que figuran en la web del artista.
-quickAnswer: Bob Dylan ofrecerá un único concierto en Roma el jueves 5 de noviembre de 2026 en el Palazzo dello Sport, en el barrio del EUR. Las entradas se venden a través de los canales oficiales que figuran en la web del artista. La estación más próxima es EUR Palasport, en la línea B del metro. Antes de organizar el viaje, compruebe el horario y la venta de entradas en la web oficial.
+srcHash: '06f645f39305'
+title: 'Bob Dylan en Roma 2026: fechas, entradas y recinto (Roma)'
+description: Bob Dylan tenía fijado su concierto de Roma para el jueves 5 de noviembre de 2026 en el Palazzo dello Sport (PalaEur), situado en el barrio romano del EUR.
+quickAnswer: Bob Dylan tenía fijado su concierto de Roma para el jueves 5 de noviembre de 2026 en el Palazzo dello Sport, situado en el barrio romano del EUR. Las entradas se vendían a través de los distribuidores enlazados desde bobdylan.com. La estación más cercana es EUR Palasport, en la línea B del metro, y desde allí hay un paseo corto hasta el pabellón.
 faq:
-  - q: ¿Cuándo y dónde actúa Bob Dylan en Roma en 2026?
-    a: El jueves 5 de noviembre de 2026, en el Palazzo dello Sport (PalaEur), en el barrio romano del EUR. Compruebe el horario y las entradas en la web oficial.
-  - q: ¿Cómo se llega al Palazzo dello Sport?
-    a: Tome la línea B del metro hasta EUR Palasport. Desde allí, el pabellón queda a un breve paseo cuesta arriba. EUR Fermi, una parada más allá, también está cerca. La línea B va directa desde Termini.
-  - q: ¿Dónde conviene comprar las entradas?
-    a: Recurra solo a los vendedores enlazados desde bobdylan.com o desde la página oficial del recinto, y evite las ofertas de reventa no oficiales.
-  - q: ¿Se puede usar el móvil durante el concierto?
-    a: En sus últimas giras, Dylan ha prohibido los móviles, que se guardan en fundas precintadas a la entrada. Consulte las condiciones impresas en su entrada.
-  - q: ¿Hay más fechas en Italia esa misma semana?
-    a: Sí. La gira pasa también por Milán y Bolonia esa semana, y ambas ciudades están bien comunicadas con Roma por tren.
+  - q: ¿Cuándo y dónde tocaba Bob Dylan en Roma en 2026?
+    a: La fecha fijada para el concierto era el jueves 5 de noviembre de 2026, y el escenario, el Palazzo dello Sport (PalaEur), en el barrio romano del EUR.
+  - q: ¿Cómo se llegaba al Palazzo dello Sport?
+    a: La línea B del metro para en EUR Palasport, a poca distancia del pabellón por una breve cuesta. También queda cerca EUR Fermi, la parada siguiente. Desde Termini, la línea B llega sin transbordos.
+  - q: ¿Dónde se vendían las entradas?
+    a: La venta se hacía a través de los distribuidores enlazados desde bobdylan.com o desde la página oficial del recinto. En los conciertos de Dylan abundan las entradas de reventa, a menudo a precios inflados.
+  - q: ¿Se podía usar el móvil durante el concierto?
+    a: En sus últimas giras, Dylan ha prohibido los teléfonos, que se guardan en fundas precintadas al entrar. Las condiciones impresas en cada entrada recogían la política sobre móviles de esta fecha.
+  - q: ¿Había otras fechas en Italia esa semana?
+    a: Sí. Esa misma semana, la gira pasaba también por Milán y Bolonia, dos ciudades a las que se llega fácilmente en tren desde Roma.
 ---
 
 ## Una noche bajo la cúpula de Nervi
 
-Bob Dylan actuará en Roma el jueves 5 de noviembre de 2026. Esta cita forma parte de un breve paso por Italia dentro de su gira europea, que esa misma semana también le llevará a Milán y Bolonia. Si una ciudad no le viene bien, las otras dos quedan a poca distancia en tren.
+La fecha de Roma era el jueves 5 de noviembre de 2026. Formaba parte de un breve paso por Italia dentro de la gira europea de Dylan, que esa misma semana incluía también conciertos en Milán y Bolonia. Las tres ciudades están bien comunicadas entre sí por tren.
 
-El concierto se celebra en el Palazzo dello Sport, el pabellón circular de hormigón nervado que Pier Luigi Nervi y Marcello Piacentini proyectaron para los Juegos Olímpicos de Roma de 1960. Los romanos siguen llamándolo PalaEur. Vista desde dentro, su cúpula rebajada dibuja un entramado de nervios de hormigón que parten del centro. Es un gran recinto cubierto, con unas gradas de fuerte pendiente que descienden hacia el escenario.
+El recinto es el Palazzo dello Sport, un pabellón circular de hormigón nervado que Pier Luigi Nervi y Marcello Piacentini proyectaron para los Juegos Olímpicos de Roma de 1960. Los romanos siguen llamándolo PalaEur. Vista desde dentro, su cúpula rebajada se percibe como un dibujo de nervios de hormigón que parten del centro. Se trata de un gran pabellón cubierto, con gradas de fuerte pendiente hacia el escenario.
 
 ## Cómo llegar al EUR desde el centro
 
-El EUR se encuentra al sur del centro histórico. Sus amplias avenidas trazadas en torno a grandes ejes y sus edificios de travertino blanco se concibieron para la exposición de 1942, que nunca llegó a celebrarse. El pabellón se alza sobre una pequeña elevación en el extremo sur del barrio.
+El EUR se encuentra al sur del centro histórico. Sus amplias avenidas en eje y sus edificios de travertino blanco se trazaron para la exposición de 1942, que nunca llegó a celebrarse. El pabellón se alza sobre una pequeña elevación en el extremo sur del barrio.
 
-- **Metro:** tome la línea B hasta **EUR Palasport** y suba a pie un breve trecho. También sirve **EUR Fermi**, una parada más allá.
-- **Desde Termini:** la línea B va directa, sin necesidad de transbordo.
-- **Desde el Trastevere o el Vaticano:** vaya en autobús o tranvía hasta Piramide y cambie allí a la línea B.
-- **Taxi:** al terminar el concierto las paradas se llenan enseguida, así que conviene alejarse unas cuantas manzanas del pabellón antes de pedir uno.
+- **Metro:** línea B hasta **EUR Palasport** y, después, un breve paseo cuesta arriba. **EUR Fermi**, la parada siguiente, también sirve.
+- **Desde Termini:** la línea B llega directamente, sin transbordos.
+- **Desde el Trastevere o el Vaticano:** un autobús o un tranvía lleva hasta Piramide, donde se hace transbordo a la línea B.
+- **Taxi:** las paradas se llenan enseguida al acabar los conciertos, y es más fácil parar uno a unas cuantas calles del pabellón.
 
-Al ser jueves, la vuelta es el momento más delicado de la noche. Antes de salir, consulte en la web de ATAC a qué hora pasa el último tren de la línea B y no dé por hecho que el servicio se prolonga hasta tarde.
+Entre semana, lo más ajustado de una noche en el pabellón es la vuelta. La web de ATAC publica las últimas salidas de la línea B, y el metro no funciona toda la noche.
 
-## Las entradas y el concierto
+## Entradas y concierto
 
-Compre únicamente a través de los vendedores enlazados desde bobdylan.com o desde la página oficial del recinto. En los conciertos de Dylan abunda la reventa, a menudo a precios inflados, y una entrada falsa supone un triste regreso al metro.
+La venta de entradas se hacía a través de los distribuidores enlazados desde bobdylan.com o desde la página oficial del recinto. En los conciertos de Dylan abundan las entradas de reventa, a menudo a precios inflados, y una entrada falsa supone volver de vacío y a la intemperie hasta el metro.
 
-Los datos confirmados se limitan a la fecha y el recinto. Aquí no se indica ningún telonero ni la hora de apertura de puertas o de comienzo, de modo que no haga planes basándose en una hora supuesta. Compruebe el horario y las entradas en la web oficial, e imprima la confirmación o guárdela en un formato que pueda consultar sin conexión: dentro de un pabellón abarrotado, la cobertura móvil falla con frecuencia.
+Los datos anunciados se limitaban a la fecha y al recinto. No se comunicó ningún telonero ni la hora de apertura de puertas o de salida al escenario. Dentro de un pabellón abarrotado la cobertura móvil falla con frecuencia, así que las entradas guardadas sin conexión suelen dar menos problemas que los enlaces.
 
-En sus últimas giras, Dylan ha prohibido el uso del móvil, y los teléfonos se guardan en fundas precintadas a la entrada. Lea las condiciones que figuran en su entrada para que el control de acceso no le pille por sorpresa.
+En sus últimas giras, Dylan ha prohibido los teléfonos, que se guardan en fundas precintadas en la puerta. Las condiciones de cada entrada para esta fecha detallaban el control de acceso.
 
-## Una noche a la romana
+## La noche a la romana
 
-El público italiano suele llegar tarde y llena el pabellón en la última media hora, por lo que es de esperar que se formen aglomeraciones en los accesos justo antes del inicio. Si llega con antelación, hará menos cola en el control de seguridad y en la revisión de bolsos.
+El público italiano suele llegar tarde a los conciertos y llenar los recintos en la última media hora, por lo que las colas se concentran justo antes del inicio. Quienes llegan antes esperan menos en el control de seguridad y en la revisión de bolsos.
 
-- **Cene antes:** los bares del EUR sirven el *aperitivo* desde primera hora de la tarde. Al pedir un spritz o una copa de vino, le traerán también unos platillos para picar, lo que resuelve la cena con facilidad antes de un concierto entre semana.
-- **Pago:** la mayoría de los bares romanos aceptan tarjeta sin contacto. Aun así, lleve algunas monedas para los quioscos y las máquinas del metro.
-- **Propinas:** no son obligatorias. En la barra basta con redondear.
-- **Equipaje:** viaje ligero. Los pabellones restringen el acceso con bolsas grandes y en las inmediaciones del EUR no hay consigna a mano.
-- **Vocabulario:** *biglietto* significa entrada; *ingresso*, acceso, y *uscita*, salida. *Posto a sedere* es un asiento, mientras que *parterre* o *prato* designan la pista de pie.
+- **Comida:** los bares del EUR sirven *aperitivo* desde primera hora de la tarde. Con el spritz o la copa de vino llegan pequeños platos, una forma sencilla de cenar antes de un concierto entre semana.
+- **Pago:** la mayoría de los bares romanos aceptan tarjetas sin contacto. Unas monedas resultan útiles en los quioscos y en las máquinas del metro.
+- **Propinas:** no se esperan. En la barra basta con redondear.
+- **Bolsos:** los pabellones limitan el acceso con bolsos grandes, y en el EUR no hay consignas cómodas en las cercanías.
+- **Idioma:** *biglietto* significa entrada; *ingresso*, acceso, y *uscita*, salida. *Posto a sedere* es un asiento, mientras que *parterre* o *prato* designan la pista de pie.
 
-Si dispone de la tarde libre, aproveche para recorrer antes el EUR. A pocos pasos del pabellón se encuentra el Palazzo della Civiltà Italiana, ese cubo blanco de arcos al que los romanos llaman el Coliseo Cuadrado, y también el parque del lago, que se extiende a sus pies.
+Si se dispone de una tarde libre, merece la pena recorrer el EUR a pie. A poca distancia del pabellón se encuentra el Palazzo della Civiltà Italiana, el cubo blanco de arcos al que los romanos llaman el Coliseo Cuadrado. También queda cerca el parque del lago, situado a sus pies.
