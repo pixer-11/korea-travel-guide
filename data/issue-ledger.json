@@ -1,5 +1,11 @@
 {
-  "validate-content": {},
+  "validate-content": {
+    "ENDED-EVENT-ADVICE rome-bob-dylan-rome-2026.md": {
+      "since": "2026-11-06",
+      "last": "2026-11-06",
+      "seen": 1
+    }
+  },
   "audit-translations": {},
   "audit-hours-claims": {}
 }
