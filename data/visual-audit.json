@@ -4125,6 +4125,12 @@
   "reason": "hand-reviewed: filename shares only \"ironman\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-11-04T07:57:44.887Z"
  },
+ "belek-ironman-70-3-turkey\u0001https://upload.wikimedia.org/wikipedia/commons/4/4f/Ironman_70.3_World_Championships_%289703304940%29.jpg": {
+  "slug": "belek-ironman-70-3-turkey",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Cyclists racing on road; Ironman 70.3 cycling leg",
+  "at": "2026-11-06T00:30:21.962Z"
+ },
  "belek-ironman-70-3-turkey\u0001https://upload.wikimedia.org/wikipedia/commons/d/db/Bart_Aernouts_Ironman_70.3_Austria_2012.jpg": {
   "slug": "belek-ironman-70-3-turkey",
   "verdict": "MISMATCH",
@@ -7864,6 +7870,12 @@
   "reason": "hand-reviewed: filename shares only \"marathon\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-11-05T08:00:35.642Z"
  },
+ "cologne-cologne-marathon-carnival-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/4/49/K%C3%B6ln_Marathon_2015-10-04_00053_%2822393926276%29.jpg": {
+  "slug": "cologne-cologne-marathon-carnival-marathon",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Marathon race in Cologne street scene",
+  "at": "2026-11-06T00:30:36.686Z"
+ },
  "cologne-museum-ludwig\u0001https://upload.wikimedia.org/wikipedia/commons/3/3d/Museum_Ludwig_002.jpg": {
   "slug": "cologne-museum-ludwig",
   "verdict": "MATCH",
@@ -9596,6 +9608,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Unrelated monument/plaque scene, not marathon event or venue",
   "at": "2026-10-08T14:35:04.763Z"
+ },
+ "fukuoka-gyukatsu-motomura-fukuoka-parco-branch\u0001https://fastly.4sqi.net/img/general/original/7196245_1YC1Q10_9CJGHes16Fs_UsRBM0nEmyIVrU_HqXDi4jc.jpg": {
+  "slug": "fukuoka-gyukatsu-motomura-fukuoka-parco-branch",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Gyukatsu (breaded beef cutlet) plated beautifully on black s",
+  "at": "2026-11-06T00:30:49.584Z"
  },
  "fukuoka-kushida-shrine\u0001https://fastly.4sqi.net/img/general/original/12766832_IcMEAA5hml2B6teo3DEQXdkEb9Ajqd-4GIqI62NAe5A.jpg": {
   "slug": "fukuoka-kushida-shrine",
@@ -13403,6 +13421,12 @@
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: filename shares only \"round\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-11-04T07:57:45.326Z"
+ },
+ "incheon-round-festival-asean-korea-music-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Jean_Pack_performs_at_River_Runs_Round_festival_in_Coughlan%27s%2C_Cork.jpg/3840px-Jean_Pack_performs_at_River_Runs_Round_festival_in_Coughlan%27s%2C_Cork.jpg": {
+  "slug": "incheon-round-festival-asean-korea-music-festival",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Performer at music festival event",
+  "at": "2026-11-06T00:32:33.249Z"
  },
  "incheon-round-festival-asean-korea-music-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/SB19_at_ASEAN_Korea_Music_Festival_2023_%28ROUND%29.jpg/3840px-SB19_at_ASEAN_Korea_Music_Festival_2023_%28ROUND%29.jpg": {
   "slug": "incheon-round-festival-asean-korea-music-festival",
@@ -17408,6 +17432,12 @@
   "reason": "patrol reject: Photo of a directional sign, not the festival itself",
   "at": "2026-08-20T20:06:44.892Z"
  },
+ "kyoto-kyoto-gion-matsuri-festival-gallery\u0001https://fastly.4sqi.net/img/general/original/33383858_R3PDCkWcNTYf0zgc_xxN1UVbdokBng25solmZ-x4jpI.jpg": {
+  "slug": "kyoto-kyoto-gion-matsuri-festival-gallery",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shop sign with duck/noodle icon, not festival",
+  "at": "2026-11-06T00:32:48.725Z"
+ },
  "kyoto-kyoto-gion-matsuri-festival-gallery\u0001https://fastly.4sqi.net/img/general/original/452255628_2gg4PiiM1hFQne7M1XDZcqu_p9OQYGbjUQy00FWRDCc.jpg": {
   "slug": "kyoto-kyoto-gion-matsuri-festival-gallery",
   "verdict": "MISMATCH",
@@ -17909,6 +17939,12 @@
   "reason": "patrol reject: Classroom lecture, unrelated to tennis event/venue",
   "at": "2026-11-05T01:46:03.588Z"
  },
+ "lima-isa-world-surfing-games\u0001https://upload.wikimedia.org/wikipedia/commons/1/17/Isa_Khan_Mosque_-_55332546520.jpg": {
+  "slug": "lima-isa-world-surfing-games",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Historic Indian tomb, unrelated to surfing event",
+  "at": "2026-11-06T00:32:58.873Z"
+ },
  "lima-isa-world-surfing-games\u0001https://upload.wikimedia.org/wikipedia/commons/4/46/Isa_Pelar_spomenik.JPG": {
   "slug": "lima-isa-world-surfing-games",
   "verdict": "MISMATCH",
@@ -17921,11 +17957,29 @@
   "reason": "patrol reject: Cricket player, unrelated to surfing event",
   "at": "2026-11-05T01:46:09.775Z"
  },
+ "lima-isa-world-surfing-games\u0001https://upload.wikimedia.org/wikipedia/commons/7/74/Micaela_Castelotti_en_el_show_musical_de_Isa_TKM_-_2.jpg": {
+  "slug": "lima-isa-world-surfing-games",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Concert stage performance, unrelated to surfing event",
+  "at": "2026-11-06T00:33:01.966Z"
+ },
+ "lima-isa-world-surfing-games\u0001https://upload.wikimedia.org/wikipedia/commons/c/c4/Reinaldo_Zavarce_en_el_show_musical_de_Isa_TKM_-_2.jpg": {
+  "slug": "lima-isa-world-surfing-games",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Concert performer, unrelated to surfing event",
+  "at": "2026-11-06T00:33:03.477Z"
+ },
  "lima-isa-world-surfing-games\u0001https://upload.wikimedia.org/wikipedia/commons/c/cd/Isa_Guha.jpg": {
   "slug": "lima-isa-world-surfing-games",
   "verdict": "MISMATCH",
   "reason": "patrol reject: Cricket player, unrelated to surfing event",
   "at": "2026-11-05T01:46:07.886Z"
+ },
+ "lima-isa-world-surfing-games\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/JonMarco_Gaydos_-_Phil_Grice_ISA_Photo.jpg/3840px-JonMarco_Gaydos_-_Phil_Grice_ISA_Photo.jpg": {
+  "slug": "lima-isa-world-surfing-games",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Skateboarding helmet athlete, unrelated to surfing event",
+  "at": "2026-11-06T00:33:00.456Z"
  },
  "lima-isa-world-surfing-games\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Isa_Mueller_Route_WWR18.jpg/3840px-Isa_Mueller_Route_WWR18.jpg": {
   "slug": "lima-isa-world-surfing-games",
@@ -17998,6 +18052,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: identity: Commons places this in Los Angeles, post says Lima",
   "at": "2026-11-02T22:58:24.973Z"
+ },
+ "lima-sound-music-fest-golden-years-edition\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Atlas_Sound_in_concert_%2823389947870%29.jpg/3840px-Atlas_Sound_in_concert_%2823389947870%29.jpg": {
+  "slug": "lima-sound-music-fest-golden-years-edition",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Performer on stage with professional concert lighting",
+  "at": "2026-11-06T00:33:50.512Z"
  },
  "lima-sound-music-fest-golden-years-edition\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/The_Sound_of_Music_Gazebo.jpg/3840px-The_Sound_of_Music_Gazebo.jpg": {
   "slug": "lima-sound-music-fest-golden-years-edition",
@@ -18471,11 +18531,35 @@
   "reason": "patrol reject: Illustration/painting, unrelated to event",
   "at": "2026-10-25T23:24:02.908Z"
  },
+ "london-catch-the-young-ignite-evolve-europe-tour\u0001https://upload.wikimedia.org/wikipedia/commons/3/31/Catch_The_Wind_02.jpg": {
+  "slug": "london-catch-the-young-ignite-evolve-europe-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Beach kite scene unrelated to tour/venue",
+  "at": "2026-11-06T00:34:25.157Z"
+ },
+ "london-catch-the-young-ignite-evolve-europe-tour\u0001https://upload.wikimedia.org/wikipedia/commons/6/61/Catch_The_Wind_01.jpg": {
+  "slug": "london-catch-the-young-ignite-evolve-europe-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Kite festival scene, unrelated to music tour event",
+  "at": "2026-11-06T00:34:23.556Z"
+ },
+ "london-catch-the-young-ignite-evolve-europe-tour\u0001https://upload.wikimedia.org/wikipedia/commons/a/a7/Catch_The_Wind_08.jpg": {
+  "slug": "london-catch-the-young-ignite-evolve-europe-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Beach kite flying scene, unrelated to event",
+  "at": "2026-11-06T00:34:21.900Z"
+ },
  "london-catch-the-young-ignite-evolve-europe-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2015-01-31_21-22-59_catch-belfort.jpg/3840px-2015-01-31_21-22-59_catch-belfort.jpg": {
   "slug": "london-catch-the-young-ignite-evolve-europe-tour",
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: filename shares only \"catch\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-11-05T08:00:36.169Z"
+ },
+ "london-catch-the-young-ignite-evolve-europe-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/No_Catch%2C_Brighton.jpg/3840px-No_Catch%2C_Brighton.jpg": {
+  "slug": "london-catch-the-young-ignite-evolve-europe-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated restaurant, not the event or venue",
+  "at": "2026-11-06T00:34:20.361Z"
  },
  "london-hatsune-miku-concert\u0001https://upload.wikimedia.org/wikipedia/commons/2/25/Cosplay_Contest_at_Copenhagen_Sakura_Festival_2023_19.jpg": {
   "slug": "london-hatsune-miku-concert",
@@ -19259,6 +19343,12 @@
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: filename shares no word with the event title (audit-event-hero-identity --reject)",
   "at": "2026-11-05T08:00:36.340Z"
+ },
+ "lyon-k-pop-forever\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/LDLC_Arena_2024.jpg/3840px-LDLC_Arena_2024.jpg": {
+  "slug": "lyon-k-pop-forever",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Basketball game, not K-Pop event or related venue",
+  "at": "2026-11-06T00:35:32.511Z"
  },
  "lyon-lello\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Lello_%28Lyon%29_-_entr%C3%A9e.jpg/3840px-Lello_%28Lyon%29_-_entr%C3%A9e.jpg": {
   "slug": "lyon-lello",
@@ -20848,6 +20938,12 @@
   "reason": "patrol reject: audit: Dark stairwell, not restaurant interior or food",
   "at": "2026-10-05T21:38:03.203Z"
  },
+ "mexico-city-coca-cola-flow-fest-2026\u0001https://upload.wikimedia.org/wikipedia/commons/0/0b/Coca_Cola_at_Naschmarkt%2C_Vienna.jpg": {
+  "slug": "mexico-city-coca-cola-flow-fest-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Generic Coca-Cola glass, not the venue or event",
+  "at": "2026-11-06T00:35:44.692Z"
+ },
  "mexico-city-coca-cola-flow-fest-2026\u0001https://upload.wikimedia.org/wikipedia/commons/a/a3/Coca-Cola_Roxy_Theater.jpg": {
   "slug": "mexico-city-coca-cola-flow-fest-2026",
   "verdict": "MISMATCH",
@@ -20871,6 +20967,24 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Microscopic crystal image, unrelated to event or venue",
   "at": "2026-11-05T01:47:43.550Z"
+ },
+ "mexico-city-coca-cola-flow-fest-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Ford_Transit_Coca-Cola_MDP.jpg/3840px-Ford_Transit_Coca-Cola_MDP.jpg": {
+  "slug": "mexico-city-coca-cola-flow-fest-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Coca-Cola delivery van, unrelated to Flow Fest event",
+  "at": "2026-11-06T00:35:41.379Z"
+ },
+ "mexico-city-coca-cola-flow-fest-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/COCA_COLA_BOTTLE_CHINESE_VERSION.jpg/3840px-COCA_COLA_BOTTLE_CHINESE_VERSION.jpg": {
+  "slug": "mexico-city-coca-cola-flow-fest-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Close-up bottle product shot, not the festival or venue",
+  "at": "2026-11-06T00:35:46.311Z"
+ },
+ "mexico-city-coca-cola-flow-fest-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Coca-Cola_Tower_and_Guggenheim_Building%2C_Atlanta%2C_Northeast_view_20160717_1.jpg/3840px-Coca-Cola_Tower_and_Guggenheim_Building%2C_Atlanta%2C_Northeast_view_20160717_1.jpg": {
+  "slug": "mexico-city-coca-cola-flow-fest-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Coca-Cola office tower, not Autódromo venue in Mexico City",
+  "at": "2026-11-06T00:35:43.050Z"
  },
  "mexico-city-corona-capital-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Corona_Capital_2017.jpg/3840px-Corona_Capital_2017.jpg": {
   "slug": "mexico-city-corona-capital-2026",
@@ -21268,6 +21382,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: width: 612px < 640",
   "at": "2026-10-01T23:32:14.263Z"
+ },
+ "milan-procaccini\u0001https://fastly.4sqi.net/img/general/original/18754292_eNyisV8UTb1r_AGz6aTIc0O3A0WM9bya7JsZw0QZH8E.jpg": {
+  "slug": "milan-procaccini",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Restaurant storefront with Michelin 2028 plaque, Milan setti",
+  "at": "2026-11-06T00:36:21.723Z"
  },
  "milan-procaccini\u0001https://fastly.4sqi.net/img/general/original/26063584_8im5eI1puYnUUxgnWOpl9J2q_c1G_27-rvJkh7-6UvE.jpg": {
   "slug": "milan-procaccini",

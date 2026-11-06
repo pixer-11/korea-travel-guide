@@ -10,6 +10,14 @@ eventEndDate: '2026-12-27'
 eventRecurring: true
 eventVenue: LDLC Arena
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/7/73/Cours_Lafayette_%28Lyon%29_de_nuit_en_janvier_2019.JPG'
+  credit: 'Photo: Benoît Prieur / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Cours_Lafayette_(Lyon)_de_nuit_en_janvier_2019.JPG'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - lyon

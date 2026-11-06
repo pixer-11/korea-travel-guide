@@ -1,6 +1,6 @@
 ---
 title: 'The Weeknd - After Hours Til Dawn Tour: Dates, Tickets & Venue (Kuala Lumpur)'
-description: The Weeknd - After Hours Til Dawn Tour plays Kuala Lumpur for two nights, November 4 and 5, 2026, at TM Stadium Nasional, the national stadium in Bukit Jalil.
+description: The Weeknd's After Hours Til Dawn Tour was set for two nights in Kuala Lumpur, November 4 and 5, 2026, at TM Stadium Nasional in Bukit Jalil.
 country: Malaysia
 region: Kuala Lumpur
 category: event
@@ -32,53 +32,50 @@ gallery: []
 tags:
   - kuala lumpur
   - event
-quickAnswer: The Weeknd - After Hours Til Dawn Tour plays Kuala Lumpur for two nights, November 4 and 5, 2026, at TM Stadium Nasional, the national stadium in Bukit Jalil. Confirm dates, tickets and entry details on the official site and the authorised ticketing channel. Take the LRT Sri Petaling Line to Bukit Jalil station, which is a short walk from the gates.
+quickAnswer: The Weeknd's After Hours Til Dawn Tour was set for two nights in Kuala Lumpur, November 4 and 5, 2026, at TM Stadium Nasional, the national stadium in Bukit Jalil. Tickets were sold through the authorised ticketing partner. Bukit Jalil station on the LRT Sri Petaling Line is a short walk from the gates.
 faq:
   - q: When and where is The Weeknd playing in Kuala Lumpur?
-    a: November 4 and 5, 2026, at TM Stadium Nasional (Bukit Jalil National Stadium) in Bukit Jalil, KL. Confirm the dates and gate times on the official site.
+    a: The two shows were set for November 4 and 5, 2026, at TM Stadium Nasional (Bukit Jalil National Stadium) in Bukit Jalil, KL.
   - q: What is the nearest train station to TM Stadium Nasional?
     a: Bukit Jalil station on the LRT Sri Petaling Line. Signed walkways lead from the station to the stadium.
   - q: Is the stadium covered if it rains?
-    a: A roof covers the seated stands, but the pitch is open, so floor ticket holders are under open sky. November evenings in KL often bring rain, so pack a poncho.
+    a: A roof covers the seated stands, but the pitch is open, so the floor sits under open sky. November evenings in KL often bring rain, and ponchos are the usual answer because stadium security commonly turns umbrellas away.
   - q: Where can I buy tickets safely?
-    a: Buy only through the ticketing partner linked from the official tour site. Unofficial resellers carry a real risk of fake tickets. Ticket categories and prices are listed there too.
+    a: Tickets were sold through the authorised ticketing partner, across several ticket categories. Unofficial resellers carry a real risk of fake tickets.
   - q: What is the best way to leave after the show?
-    a: Use the LRT, but expect queues at Bukit Jalil station. Walking to a nearby station or waiting a while at Pavilion Bukit Jalil helps avoid the crush.
+    a: The LRT is the main way out, and Bukit Jalil station usually has long queues after stadium shows. Walking on to a nearby station or waiting a while at Pavilion Bukit Jalil avoids the worst of the crush.
 aiGenerated: true
 draft: false
 ---
-
 ## Two nights in Bukit Jalil
 
-The tour lands in Kuala Lumpur for two nights, November 4 and 5, 2026. Both shows are at TM Stadium Nasional, the stadium many locals still call Bukit Jalil National Stadium. It was built for the 1998 Commonwealth Games and seats roughly 87,000, which makes it the largest stadium in Southeast Asia.
+The tour was set for two nights in Kuala Lumpur, November 4 and 5, 2026. Both shows were booked into TM Stadium Nasional, the stadium many locals still call Bukit Jalil National Stadium. It was built for the 1998 Commonwealth Games and seats roughly 87,000, which makes it the largest stadium in Southeast Asia.
 
-A roof ring shades the stands and leaves the pitch open to the sky. If your ticket is on the floor, you are standing under open sky. The After Hours Til Dawn name ties the show to *After Hours* (2020), *Dawn FM* (2022) and *Hurry Up Tomorrow* (2025). Expect a full stadium production, not a club set.
-
-Confirm the exact dates, gate times and ticket categories on the official site. This guide does not list a support act, set times or prices.
+A roof ring shades the stands and leaves the pitch open to the sky, so the floor is standing room under open sky. The After Hours Til Dawn name ties the tour to *After Hours* (2020), *Dawn FM* (2022) and *Hurry Up Tomorrow* (2025). The tour was conceived as a full stadium production, not a club set.
 
 ## Getting to TM Stadium Nasional
 
 Rail is the sensible choice. The stadium sits inside the KL Sports City complex in Bukit Jalil, about 20 minutes south of the city centre by train.
 
-- **LRT:** take the Sri Petaling Line (the light-green line) to **Bukit Jalil** station. Signed walkways lead from there to the stadium.
-- **From KLCC or Bukit Bintang:** change to the Sri Petaling Line at Masjid Jamek or Hang Tuah.
-- **Ride-hailing:** Grab works, but roads around Bukit Jalil jam on stadium nights. Ask to be dropped a little away from the gates.
+- **LRT:** the Sri Petaling Line (the light-green line) stops at **Bukit Jalil** station. Signed walkways lead from there to the stadium.
+- **From KLCC or Bukit Bintang:** the change to the Sri Petaling Line is at Masjid Jamek or Hang Tuah.
+- **Ride-hailing:** Grab works, but roads around Bukit Jalil jam on stadium nights. Drop-offs a little away from the gates are quicker.
 - **Driving:** stadium parking fills early. Rail is faster both ways.
 
-Pavilion Bukit Jalil mall is close by, so you can eat before doors open without heading back into town.
+Pavilion Bukit Jalil mall is close by, which makes it easy to eat before a show without heading back into town.
 
 ## Stadium-night rules in KL
 
-A few habits will make the night smoother:
+A few habits make stadium nights in KL smoother:
 
-- **Pay for transit by tap.** Use a Touch 'n Go card or a contactless bank card at the LRT gates, and buy your return before the show. Ticket machines get queues after the encore.
-- **Bring a poncho, not an umbrella.** November is one of KL's wettest months, and evening downpours are common. Most stadiums turn umbrellas away at security, so check the venue's banned-items list.
-- **Pack light.** Bag size limits and security screening are standard at big stadium shows. The official event page lists what you can bring in.
-- **Stay hydrated.** It stays hot and humid in KL after dark, especially on the floor.
-- **Buy tickets from authorised sellers only.** Resale scams spike around sold-out tours. Use only the ticketing partner linked from the official site.
+- **Pay for transit by tap.** The LRT gates take a Touch 'n Go card or a contactless bank card. Ticket machines get long queues after an encore.
+- **Ponchos, not umbrellas.** November is one of KL's wettest months, and evening downpours are common. Most stadiums turn umbrellas away at security.
+- **Pack light.** Bag size limits and security screening are standard at big stadium shows.
+- **Heat and humidity.** It stays hot and humid in KL after dark, especially on the floor.
+- **Authorised sellers only.** Resale scams spike around big tours. Tickets for these shows were sold through the authorised ticketing partner.
 
 ## Getting out after the encore
 
-Leaving takes longer than arriving. Tens of thousands of people head for one LRT station at the same moment, so expect queues at Bukit Jalil. Some people walk on to Sri Petaling or another nearby station to skip the crush. Others wait it out at Pavilion Bukit Jalil.
+Leaving takes longer than arriving. Tens of thousands of people head for one LRT station at the same moment, so queues at Bukit Jalil are normal after stadium shows. Some people walk on to Sri Petaling or another nearby station to skip the crush. Others wait it out at Pavilion Bukit Jalil.
 
-Want a quicker escape? Stay in Bukit Jalil, or anywhere along the Sri Petaling Line, and the trip back is short. Book a ride-hailing pickup only once you are clear of the stadium roads, because fares and wait times rise when everyone books at once.
+Staying in Bukit Jalil, or anywhere along the Sri Petaling Line, keeps the trip back short. Ride-hailing pickups work best once you are clear of the stadium roads, because fares and wait times rise when everyone books at once.

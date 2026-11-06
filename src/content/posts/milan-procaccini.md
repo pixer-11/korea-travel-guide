@@ -5,7 +5,6 @@ country: Italy
 region: Milan
 category: restaurant
 pubDate: '2026-10-01'
-gallery: []
 tags:
   - milan
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: Should I tip at Procaccini?
     a: Tipping isn't expected in Italy the way it is in North America. Check whether service is already included, and expect a coperto (cover charge) on the bill. Leaving a little extra for excellent service is optional.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/18754292_eNyisV8UTb1r_AGz6aTIc0O3A0WM9bya7JsZw0QZH8E.jpg
+  credit: 'Photo: Foursquare user content (Via Procaccini)'
+  license: foursquare
+  source: https://foursquare.com/v/4f1d917ce4b08fa666f674cd
+  focus:
+    x: 50
+    'y': 50
 ---
 
 ## A star, a chef and a piano

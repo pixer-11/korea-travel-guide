@@ -3368,7 +3368,13 @@
   "selcuk-trajan-fountain\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Trajan_Fountain%2C_Ephesus_Archaeological_Site%2C_Selcuk%2C_Turkiye_%2853528112479%29.jpg/3840px-Trajan_Fountain%2C_Ephesus_Archaeological_Site%2C_Selcuk%2C_Turkiye_%2853528112479%29.jpg": 3840,
   "montreal-saint-joseph-s-oratory-of-mount-royal\u0001https://upload.wikimedia.org/wikipedia/commons/c/c7/Oratoire_Saint-Joseph_du_Mont-Royal_3.jpg": 2000,
   "vancouver-lonsdale-quay-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Lonsdale_Quay%2C_Vancouver_%28470103%29_%289444274772%29.jpg/3840px-Lonsdale_Quay%2C_Vancouver_%28470103%29_%289444274772%29.jpg": 3840,
-  "taiping-clock-tower\u0001https://upload.wikimedia.org/wikipedia/commons/b/b2/Clock_Tower%2C_Taiping.jpg": 3264
+  "taiping-clock-tower\u0001https://upload.wikimedia.org/wikipedia/commons/b/b2/Clock_Tower%2C_Taiping.jpg": 3264,
+  "cologne-cologne-marathon-carnival-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/4/49/K%C3%B6ln_Marathon_2015-10-04_00053_%2822393926276%29.jpg": 2326,
+  "belek-ironman-70-3-turkey\u0001https://upload.wikimedia.org/wikipedia/commons/4/4f/Ironman_70.3_World_Championships_%289703304940%29.jpg": 1200,
+  "fukuoka-gyukatsu-motomura-fukuoka-parco-branch\u0001https://fastly.4sqi.net/img/general/original/7196245_1YC1Q10_9CJGHes16Fs_UsRBM0nEmyIVrU_HqXDi4jc.jpg": 1440,
+  "incheon-round-festival-asean-korea-music-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Jean_Pack_performs_at_River_Runs_Round_festival_in_Coughlan%27s%2C_Cork.jpg/3840px-Jean_Pack_performs_at_River_Runs_Round_festival_in_Coughlan%27s%2C_Cork.jpg": 3840,
+  "lima-sound-music-fest-golden-years-edition\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Atlas_Sound_in_concert_%2823389947870%29.jpg/3840px-Atlas_Sound_in_concert_%2823389947870%29.jpg": 3840,
+  "milan-procaccini\u0001https://fastly.4sqi.net/img/general/original/18754292_eNyisV8UTb1r_AGz6aTIc0O3A0WM9bya7JsZw0QZH8E.jpg": 1103
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -3457,8 +3463,8 @@
   },
   "cameron-highlands-sam-poh-temple": {
    "width": 674,
-   "attempts": 11,
-   "nextTry": "2026-11-06",
+   "attempts": 12,
+   "nextTry": "2026-11-13",
    "flaggedAt": "2026-08-20",
    "lastResult": "no-wider"
   },
@@ -3471,29 +3477,29 @@
   },
   "hong-kong-montana": {
    "width": 1080,
-   "attempts": 10,
-   "nextTry": "2026-11-06",
+   "attempts": 11,
+   "nextTry": "2026-11-13",
    "flaggedAt": "2026-08-28",
    "lastResult": "no-wider"
   },
   "kuala-lumpur-niji-sushi-izakaya": {
    "width": 1080,
-   "attempts": 10,
-   "nextTry": "2026-11-06",
+   "attempts": 11,
+   "nextTry": "2026-11-13",
    "flaggedAt": "2026-08-28",
    "lastResult": "no-wider"
   },
   "lyon-ayla": {
    "width": 1008,
-   "attempts": 10,
-   "nextTry": "2026-11-06",
+   "attempts": 11,
+   "nextTry": "2026-11-13",
    "flaggedAt": "2026-08-28",
    "lastResult": "no-wider"
   },
   "madrid-el-campero": {
    "width": 1080,
-   "attempts": 10,
-   "nextTry": "2026-11-06",
+   "attempts": 11,
+   "nextTry": "2026-11-13",
    "flaggedAt": "2026-08-28",
    "lastResult": "no-wider"
   },
@@ -3534,8 +3540,8 @@
   },
   "jakarta-erre-urrechu": {
    "width": 1080,
-   "attempts": 9,
-   "nextTry": "2026-11-06",
+   "attempts": 10,
+   "nextTry": "2026-11-13",
    "flaggedAt": "2026-09-03",
    "lastResult": "no-wider"
   },
@@ -3891,7 +3897,13 @@
    "attempts": 0,
    "nextTry": "2026-11-02",
    "flaggedAt": "2026-11-02"
+  },
+  "milan-procaccini": {
+   "width": 1103,
+   "attempts": 0,
+   "nextTry": "2026-11-06",
+   "flaggedAt": "2026-11-06"
   }
  },
- "updated": "2026-11-05T15:43:26.653Z"
+ "updated": "2026-11-06T00:39:44.709Z"
 }

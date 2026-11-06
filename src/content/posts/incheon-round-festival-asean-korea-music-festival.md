@@ -30,6 +30,16 @@ faq:
     a: Bupyeong and Songdo are common bases inside Incheon. Many fans stay in Seoul and ride the subway in for each show.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Jean_Pack_performs_at_River_Runs_Round_festival_in_Coughlan%27s%2C_Cork.jpg/3840px-Jean_Pack_performs_at_River_Runs_Round_festival_in_Coughlan%27s%2C_Cork.jpg
+  credit: 'Photo: FourthBest / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Jean_Pack_performs_at_River_Runs_Round_festival_in_Coughlan%27s,_Cork.jpg
+  focus:
+    x: 56
+    'y': 36
+    top: 29
+    bottom: 42
 ---
 
 ## Two nights, one indoor arena
