@@ -1,12 +1,13 @@
 {
  "date": "2026-11-06",
- "spent": 22,
+ "spent": 24,
  "byJob": {
-  "backfill": 22
+  "backfill": 22,
+  "quality": 2
  },
  "search": {
   "spent": 0,
   "byJob": {}
  },
- "updated": "2026-11-06T15:12:49.904Z"
+ "updated": "2026-11-06T16:42:58.703Z"
 }
