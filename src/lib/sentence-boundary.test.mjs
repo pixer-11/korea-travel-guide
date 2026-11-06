@@ -1,6 +1,7 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { isSentenceEnd, lastSentenceEnd, nextSentenceEnd, bracketsBalanced, closeDanglingBracket, endsInAbbreviation } from './sentence-boundary.mjs';
+import { endsMidThought } from './rewrite-guard.mjs';
 
 // The post that caused this file: the dot in the street abbreviation was read
 // as the end of a sentence, so the description shipped clipped inside an
@@ -77,4 +78,22 @@ test('bracketsBalanced counts full-width brackets too', () => {
 test('closeDanglingBracket drops the unclosed tail and closes the sentence', () => {
   assert.equal(closeDanglingBracket('A hilltop garden (8 Pl'), 'A hilltop garden.');
   assert.equal(closeDanglingBracket('Already fine.'), 'Already fine.');
+});
+
+test('a lone capital after a label word ends a sentence; a bare initial still does not (11-06)', () => {
+  for (const s of ['The nearest station is EUR Palasport on Metro Line B.', 'Leave by Exit A.', 'Flights use Terminal C.', 'Seats are in Block D.']) {
+    assert.equal(isSentenceEnd(s, s.length - 1), true, s);
+    assert.equal(endsInAbbreviation(s), false, s);
+  }
+  assert.equal(endsMidThought('The nearest station is EUR Palasport on Metro Line B.'), false);
+  // Initials and medial abbreviations are untouched.
+  for (const s of ['Written by J.', 'on Jl. R.E. Martadinata No.', 'Meet at the corner of Main and B.']) {
+    assert.equal(endsInAbbreviation(s), true, s);
+  }
+});
+
+test('mid-text, a label letter stays medial so a clipper never cuts a name (Codex 11-06)', () => {
+  const s = 'Housed inside Building B. Lee Hall, the annex.';
+  assert.equal(isSentenceEnd(s, s.indexOf('B.') + 1), false);
+  assert.equal(lastSentenceEnd(s.slice(0, 30)), -1);
 });

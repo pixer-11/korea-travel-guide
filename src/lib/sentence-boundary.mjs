@@ -44,12 +44,21 @@ const SAINT_MEDIAL = /(?:^|[\s(\[«"'—–-])(?:[a-z]+|by|of|near|on)\s+(?:St|S
  * Jr.", "Randolph St.") — a false alarm here sends a healthy post to an LLM
  * rewriter or a quarantine gate, which costs more than the miss.
  */
+// A lone capital after a label word is a name, not an initial: "…on Metro Line
+// B.", "Exit A.", "Terminal C." end sentences. The bare-initial rule read
+// "The nearest station is EUR Palasport on Metro Line B." as cut off, and the
+// ended-event repair refused the Bob Dylan Rome guide for it (2026-11-06).
+const LABELLED_LETTER = /(?:^|[\s(\[«"'—–-])(?:Line|Exit|Gate|Terminal|Platform|Track|Pier|Concourse|Hall|Pavilion|Zone|Area|Sector|Block|Building|Tower|Wing|Lot|Car|Coach|Section|Stand|Row|Door|Entrance|Level|Floor|Stage|Plan|Phase|Route|Category|Type|Group|Class|Grade)\s+[A-Z]\.$/;
+
 export const endsInAbbreviation = (s) => {
   const t = s.trim();
-  return ALWAYS_MEDIAL.test(t) || SAINT_MEDIAL.test(t);
+  return !LABELLED_LETTER.test(t) && (ALWAYS_MEDIAL.test(t) || SAINT_MEDIAL.test(t));
 };
 
-const ABBREV_BEFORE_DOT = (head) => ALWAYS_MEDIAL.test(head) || SAINT_MEDIAL.test(head);
+// Only where the text ENDS. Mid-text, "Building B. Lee Hall" is a name, and a
+// clipper cutting there would leave "…inside Building B." (Codex, 11-06) — so
+// the clippers keep treating a lone capital as medial.
+const ABBREV_BEFORE_DOT = (head, atEnd) => !(atEnd && LABELLED_LETTER.test(head)) && (ALWAYS_MEDIAL.test(head) || SAINT_MEDIAL.test(head));
 
 export const bracketsBalanced = (s) =>
   (s.match(/[(（[［]/g) || []).length === (s.match(/[)）\]］]/g) || []).length;
@@ -66,7 +75,7 @@ export function isSentenceEnd(text, i) {
   const rest = text.slice(i + 1);
   if (rest && !/^['"”’)\]]*(\s|$)/.test(rest)) return false;
   const head = text.slice(0, i + 1);
-  if (ch === '.' && ABBREV_BEFORE_DOT(head)) return false;
+  if (ch === '.' && ABBREV_BEFORE_DOT(head, !rest.trim())) return false;
   return bracketsBalanced(head);
 }
 

@@ -157,7 +157,10 @@ function fieldProblems(name, cur, out, year, { md = false, edition = { year, mon
   if (added.length) p.push(label(`introduces an outcome the text did not carry — "${added[0].sentence.slice(0, 140)}"`));
   if (/^\s*===.*===\s*$/m.test(out)) p.push(label('contains a label line'));
   if (!md && /(\*\*|^#|\]\(|^[-*]\s)/m.test(out)) p.push(label('markdown in a frontmatter string'));
-  if (cutOffByRewrite(cur, out)) p.push(label('ends mid-thought'));
+  // With the ending quoted: on 11-06 the publish log said only "quickAnswer:
+  // ends mid-thought" twice, and nobody could tell a cut-off reply from a
+  // sentence the guard misreads.
+  if (cutOffByRewrite(cur, out)) p.push(label(`ends mid-thought — "…${out.trimEnd().slice(-60)}"`));
   return p;
 }
 
