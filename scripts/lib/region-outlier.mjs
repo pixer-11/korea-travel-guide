@@ -348,6 +348,7 @@ export function findRegionOutliers(posts, opts = {}) {
 // airport is not in Seattle") or a street ("not in York Road") is not about
 // the guide; and "in Taipei, not New Taipei" denies without the word "in".
 const CONTRA = /\b(?:but|actually|however|though|although|instead|not|isn't|wrong)\b/i;
+const LOCATES = /\b(?:actually|sits?|sitting|lies|located|situated|stands?|inside|outside|across|neighbou?rhoods?|district|island|coast|peninsula|town|village|km|kilomet\w*|miles?|part of|(?:is|it's)\s+(?:actually\s+)?in|not\s+in)\b/i;
 export function regionExcuse(text, region, name = '') {
   if (!text || !region) return null;
   const r = escapeRe(String(region));
@@ -364,7 +365,12 @@ export function regionExcuse(text, region, name = '') {
   };
   const listed = new RegExp(`(?:listed|filed|tagged|labell?ed|grouped|placed|put)\\s+under\\s+(?:the\\s+)?(?:broader\\s+|greater\\s+)?["“'‘]?${r}${end}`, 'giu');
   for (const m of s.matchAll(listed)) {
-    if (CONTRA.test(s.slice(Math.max(0, m.index - 80), m.index + m[0].length + 160))) return excerpt(m);
+    const around = s.slice(Math.max(0, m.index - 80), m.index + m[0].length + 160);
+    // The contradiction must be about WHERE it is. "listed under Seattle, but
+    // its permanent collection focuses on…" is no excuse (Codex, 11-06) — and
+    // since the generator now drops a guide on this verdict, a loose match
+    // would silently lose a good one.
+    if (CONTRA.test(around) && LOCATES.test(around)) return excerpt(m);
   }
   const label = new RegExp(`["“'‘]${r}["”'’]\\s+(?:label|tag|listing|mix-up)`, 'iu').exec(s);
   if (label) return excerpt(label);
@@ -430,4 +436,30 @@ export function declaredRegionInAddress(address, declared, current, { country = 
   if (has(a, current)) return null;
   const named = (declared || []).filter((r) => r !== current && r !== country && !settled.has(r) && has(a, r));
   return named.length === 1 ? named[0] : null;
+}
+
+/**
+ * How far a search candidate sits from the guides already filed under the
+ * searched region, when that is further than any day trip the site carries.
+ * A template search in a small town with no such venue gets Google's nearest
+ * one, however far: "museum in Franz Josef" came back with the Omaka Aviation
+ * Heritage Centre in Blenheim (374 km), "museum in Jasper" with the Royal
+ * Tyrrell in Drumheller (390 km). regionAtBirth only MOVES a candidate to a
+ * region that claims it; with no site region near, the guide was written under
+ * the searched one, translated four times, and held by the gate (2026-11-06).
+ * The live corpus on that day: the farthest guide from its own region's centre
+ * was 206 km (the San Ignacio ruins under Puerto Iguazú, a known long day
+ * trip), then 149 km; the default leaves room above that.
+ * Catch-all labels (a city over its districts, the country's own name) are
+ * not judged. Needs at least one live guide in the region.
+ * @returns {number|null} the distance in km, or null when it is not too far
+ */
+export function farFromRegion(cand, { country, region }, committed, { maxKm = 300 } = {}) {
+  if (!country || !region || !hasCoords(cand)) return null;
+  const live = committed.filter((p) => p.country === country && !p.draft && p.region);
+  if ((catchAllRegions(live).get(country) ?? new Set([country])).has(region)) return null;
+  const centre = regionCentre(live.filter((p) => p.region === region));
+  if (!centre) return null;
+  const km = haversineKm(cand.lat, cand.lng, centre.lat, centre.lng);
+  return km > maxKm ? km : null;
 }

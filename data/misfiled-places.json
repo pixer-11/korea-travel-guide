@@ -1,0 +1,41 @@
+{
+  "_comment": "Venues barred from a region because their own guide said they are not there. Written by scripts/generate.mjs; see scripts/lib/misfiled-places.mjs.",
+  "places": {
+    "ChIJ85ijnWhhXUARlFQKxiinbwY": {
+      "name": "Mtirala National Park",
+      "country": "Georgia",
+      "regions": [
+        "Akhaltsikhe"
+      ],
+      "why": "Mtirala National Park is often listed under Akhaltsikhe, but it actually sits above t",
+      "date": "2026-11-06"
+    },
+    "ChIJrWs0PrRsOW0RyBbM8kER9tI": {
+      "name": "Omaka Aviation Heritage Centre",
+      "country": "New Zealand",
+      "regions": [
+        "Franz Josef"
+      ],
+      "why": "The Omaka Aviation Heritage Centre is not in Franz Josef. It sits at Omaka Aerodrome o",
+      "date": "2026-11-06"
+    },
+    "ChIJv3fbLs6ZKagRUDHnFTN8KHo": {
+      "name": "Steampunk HQ",
+      "country": "New Zealand",
+      "regions": [
+        "Lake Tekapo"
+      ],
+      "why": "chines Start with the address. Steampunk HQ is filed under Lake Tekapo, but it sits on the coast at",
+      "date": "2026-11-06"
+    },
+    "ChIJy38C1IcSc1MR1Bh0FOdJtRI": {
+      "name": "Royal Tyrrell Museum",
+      "country": "Canada",
+      "regions": [
+        "Jasper"
+      ],
+      "why": "The Royal Tyrrell Museum is in Drumheller, Alberta, not Jasper: it sits in the Red Deer Rive",
+      "date": "2026-11-06"
+    }
+  }
+}

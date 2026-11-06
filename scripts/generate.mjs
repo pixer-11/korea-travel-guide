@@ -68,6 +68,8 @@ let USED_IMAGE_URLS = new Set();
 // (≈ hero search + 2-4 vision calls + writer call) thrown away per hit.
 let EXISTING_SLUGS = new Set();
 let USED_TOPIC_KEYS = new Set();
+// place id → regions its own guide said it is not in (data/misfiled-places.json).
+let MISFILED = new Map();
 // Committed posts in the region gate's shape, for regionAtBirth() — read once
 // per run, so this run's own guides are never each other's alibi.
 let REGION_POSTS = [];
@@ -318,6 +320,8 @@ async function main() {
   {
     const { loadRegionPosts } = await import('./lib/region-posts.mjs');
     REGION_POSTS = loadRegionPosts(POSTS_DIR);
+    const { readMisfiled, barredRegions } = await import('./lib/misfiled-places.mjs');
+    MISFILED = barredRegions(readMisfiled());
   }
 
   // Per-country fill cap. When TARGET_PER_COUNTRY is set (e.g. the backfill
@@ -468,6 +472,30 @@ async function main() {
       done.add(target.query);
       console.log(`  ↩︎  topic twin of an existing post: ${post.slug}`);
       return;
+    }
+
+    // The writer, handed a venue far from the searched town, says so in the
+    // guide ("… is not in Franz Josef") rather than refusing. The gate would
+    // hold it — after four translations — and no patrol can fix it, since only
+    // another region would. Not written; the venue is barred from this region
+    // only, so a search under the right one can still find it.
+    {
+      const { regionDisowned } = await import('./lib/region-posts.mjs');
+      const disowned = regionDisowned(post.markdown);
+      if (disowned) {
+        done.add(target.query);
+        if (USE_PLACES && !DUMMY) recordOutcome(yieldLedger, target.topic, false);
+        if (disowned.placeId) {
+          const { readMisfiled, addMisfiled, writeMisfiled } = await import('./lib/misfiled-places.mjs');
+          writeMisfiled(addMisfiled(readMisfiled(), { ...disowned, why: disowned.excerpt, date: new Date().toISOString().slice(0, 10) }));
+          (MISFILED.get(disowned.placeId) ?? MISFILED.set(disowned.placeId, new Set()).get(disowned.placeId)).add(disowned.region);
+          // Not used: a later target in this run, under the region it IS in,
+          // may still write it (Codex, 11-06). MISFILED keeps it out of this one.
+          USED_PLACE_IDS.delete(disowned.placeId);
+        }
+        console.log(`  🧭  not written: ${post.slug} — the guide itself says it is not in ${disowned.region}: "${disowned.excerpt.slice(0, 100)}"`);
+        return;
+      }
     }
 
     await writeFile(join(POSTS_DIR, `${post.slug}.md`), post.markdown, 'utf8');
@@ -1090,7 +1118,7 @@ async function buildLivePost(target) {
   let place = null;
   let hero = null;
   LAST_HERO_VERDICT = null;
-  const { regionAtBirth, declaredRegionInAddress } = await import('./lib/region-outlier.mjs');
+  const { regionAtBirth, declaredRegionInAddress, farFromRegion } = await import('./lib/region-outlier.mjs');
   const searched = target;
   // Why each candidate fell out BEFORE the photo search. These used to drop
   // silently and the skip line still said "no verified photo" — the Sapa run
@@ -1120,6 +1148,14 @@ async function buildLivePost(target) {
     if (moved && moved !== target.region) {
       console.log(`  🧭  "${cand.name}" — searched under ${target.region}, but its address/coordinates say ${moved}; filing it there`);
       target = { ...searched, region: moved };
+    }
+    // Nothing claimed it, and it is further from this region's guides than any
+    // day trip the site carries, or its own guide already said it is not here.
+    // Both used to be written, translated and then held (2026-11-06).
+    if (cand.id && MISFILED.get(cand.id)?.has(target.region)) { dropped.push(`${cand.name}: its guide said it is not in ${target.region}`); continue; }
+    {
+      const km = farFromRegion(cand, target, REGION_POSTS);
+      if (km) { dropped.push(`${cand.name}: ${Math.round(km)} km from ${target.region}'s guides`); continue; }
     }
     // Already a post under this slug, or the same landmark under another
     // wording? Decide NOW, before the hero search, vision checks and writer

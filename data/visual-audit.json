@@ -745,12 +745,6 @@
   "reason": "publish gate: Aerial view of Rabati Castle complex, representative hero shot",
   "at": "2026-10-19T15:41:57.975Z"
  },
- "akhaltsikhe-mtirala-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Waterfall_in_Mtirala_National_Park.JPG/1920px-Waterfall_in_Mtirala_National_Park.JPG": {
-  "slug": "akhaltsikhe-mtirala-national-park",
-  "verdict": "MATCH",
-  "reason": "publish gate: Lush waterfall scene matches national park forest landscape",
-  "at": "2026-10-24T07:56:57.259Z"
- },
  "akhaltsikhe-samtskhe-javakheti-history-museum\u0001https://upload.wikimedia.org/wikipedia/commons/a/a2/Akhaltsikhe_museum.jpg": {
   "slug": "akhaltsikhe-samtskhe-javakheti-history-museum",
   "verdict": "MATCH",
@@ -9437,12 +9431,6 @@
   "reason": "publish gate: Shows glacier valley with ice flow, representative hero view",
   "at": "2026-10-20T14:48:08.194Z"
  },
- "franz-josef-omaka-aviation-heritage-centre\u0001https://upload.wikimedia.org/wikipedia/commons/a/a5/The_Omaka_Aviation_Heritage_Centre_%2813442085264%29.jpg": {
-  "slug": "franz-josef-omaka-aviation-heritage-centre",
-  "verdict": "MATCH",
-  "reason": "publish gate: Vintage WWI aircraft display, matches aviation heritage museum exhibit",
-  "at": "2026-11-06T07:43:49.253Z"
- },
  "fremantle-esplanade-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Esplanade_Park%2C_Fremantle3.JPG/3840px-Esplanade_Park%2C_Fremantle3.JPG": {
   "slug": "fremantle-esplanade-park",
   "verdict": "MATCH",
@@ -15128,12 +15116,6 @@
   "reason": "publish gate: Lake with mountain reflection, matches Lac Beauvert, Jasper",
   "at": "2026-10-21T13:29:32.111Z"
  },
- "jasper-royal-tyrrell-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Royal_Tyrrell_Museum_from_the_staircase.jpg/1920px-Royal_Tyrrell_Museum_from_the_staircase.jpg": {
-  "slug": "jasper-royal-tyrrell-museum",
-  "verdict": "MATCH",
-  "reason": "publish gate: Royal Tyrrell Museum exterior with sign and entrance visible",
-  "at": "2026-10-28T08:21:23.372Z"
- },
  "jasper-valley-of-the-five-lakes\u0001https://upload.wikimedia.org/wikipedia/commons/2/2e/Valley_of_Five_Lakes_%289826528935%29.jpg": {
   "slug": "jasper-valley-of-the-five-lakes",
   "verdict": "MATCH",
@@ -17627,12 +17609,6 @@
   "verdict": "MATCH",
   "reason": "publish gate: Turquoise lake with mountains, representative of Lake Tekapo",
   "at": "2026-10-23T08:11:54.176Z"
- },
- "lake-tekapo-steampunk-hq\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Steampunk_engine_in_front_of_Steampunk_HQ.jpg/1920px-Steampunk_engine_in_front_of_Steampunk_HQ.jpg": {
-  "slug": "lake-tekapo-steampunk-hq",
-  "verdict": "MATCH",
-  "reason": "publish gate: Shows Steampunk HQ sign and sculpture, representative hero",
-  "at": "2026-10-22T07:49:24.166Z"
  },
  "lake-tekapo-the-church-of-the-good-shepherd\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Church_of_the_Good_Shepherd%2C_Lake_Tekapo%2C_New_Zealand.jpg/3840px-Church_of_the_Good_Shepherd%2C_Lake_Tekapo%2C_New_Zealand.jpg": {
   "slug": "lake-tekapo-the-church-of-the-good-shepherd",
