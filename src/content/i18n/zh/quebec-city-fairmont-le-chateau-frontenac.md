@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: quebec-city-fairmont-le-chateau-frontenac
-srcHash: '911b9ba6a8fa'
+srcHash: 'c34faae7808b'
 title: 费尔蒙芳堤娜城堡酒店：魁北克城旅行指南
-description: 费尔蒙芳堤娜城堡酒店（Fairmont Le Château Frontenac）矗立在魁北克老城上城的悬崖边，地址为1 Rue des Carrières，紧邻兵器广场和达弗林平台。评分4.7★（27,652条评价）。本文汇总游客评价、开放时间和实用贴士。
+description: 费尔蒙芳堤娜城堡酒店（Fairmont Le Château Frontenac）矗立在魁北克老城上城的悬崖边，地址为1 Rue des Carrières，紧邻兵器广场和达弗林平台。评分4.7★（27,751条评价）。本文汇总游客评价、开放时间和实用贴士。
 quickAnswer: 费尔蒙芳堤娜城堡酒店（Fairmont Le Château Frontenac）矗立在魁北克老城上城的悬崖边，地址为1 Rue des Carrières，紧邻兵器广场（Place d'Armes）和达弗林平台（Dufferin Terrace）。不住店也可以来平台散步，还能参观酒店的公共区域、在餐厅用餐。想拍到最美的照片，可以去下城，或者搭乘魁北克—莱维渡轮。游览时间建议预留一到两个小时。最好清晨就来，赶在旅行团之前占好平台上的位置。
 faq:
   - q: 不住店能参观芳堤娜城堡酒店吗？

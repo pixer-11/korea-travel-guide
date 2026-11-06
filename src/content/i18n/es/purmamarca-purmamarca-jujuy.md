@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: purmamarca-purmamarca-jujuy
-srcHash: '5eacc06936a9'
+srcHash: '86b3a2e150f1'
 title: 'Purmamarca (Jujuy): guía de viaje (4.8★)'
-description: Al pie del rayado Cerro de los Siete Colores se levanta Purmamarca, un pequeño pueblo de adobe de la Quebrada de Humahuaca, en Jujuy (Argentina). Tiene una valoración de 4.8★ (20,660 reseñas). Aquí encontrará las opiniones de los visitantes, horarios y consejos.
+description: Al pie del rayado Cerro de los Siete Colores se levanta Purmamarca, un pequeño pueblo de adobe de la Quebrada de Humahuaca, en Jujuy (Argentina). Tiene una valoración de 4.8★ (20,796 reseñas). Aquí encontrará las opiniones de los visitantes, horarios y consejos.
 quickAnswer: Purmamarca es un pequeño pueblo de adobe de la Quebrada de Humahuaca, en la provincia argentina de Jujuy, construido justo a los pies del rayado Cerro de los Siete Colores. Conviene llegar temprano, cuando el sol todavía ilumina el cerro. Después puede recorrer a pie el circuito del Paseo de los Colorados y curiosear en el mercado artesanal de la plaza. Basta con medio día, aunque merece la pena pasar la noche si piensa seguir por la Ruta 52 hasta las Salinas Grandes.
 faq:
   - q: ¿Cuál es el mejor momento del día para ver el Cerro de los Siete Colores?

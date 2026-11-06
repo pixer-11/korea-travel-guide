@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: purmamarca-cerro-de-los-siete-colores
-srcHash: '80df056d4fe0'
+srcHash: '72e2c19d3930'
 title: 'Cerro de los Siete Colores: guía de viaje de Purmamarca (4.8★)'
-description: Justo detrás del pueblo de Purmamarca, en la Quebrada de Humahuaca (provincia de Jujuy), se alza el cerro rayado de los Siete Colores. Con una valoración de 4.8★ (1,785 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
+description: Justo detrás del pueblo de Purmamarca, en la Quebrada de Humahuaca (provincia de Jujuy), se alza el cerro rayado de los Siete Colores. Con una valoración de 4.8★ (1,784 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
 quickAnswer: 'Justo detrás del pueblo de Purmamarca, en la Quebrada de Humahuaca (provincia de Jujuy), se alza el Cerro de los Siete Colores con sus franjas de tonos. Conviene verlo por la mañana, cuando el sol llega desde el este e ilumina de lleno su ladera. Reserve entre 2–3 horas: suba al pequeño Cerro de la Cruz para disfrutar de la vista clásica y después recorra a pie el circuito del Paseo de los Colorados, que rodea el pueblo.'
 faq:
   - q: ¿A qué hora del día se ve mejor el Cerro de los Siete Colores?

@@ -1,61 +1,91 @@
 ---
-title: "L'Antiquaire Buffet: Where to Eat in Quebec City (4.5★)"
-description: "L'Antiquaire Buffet is a long-running diner at 95 Rue Saint-Paul in Quebec City's Lower Town, near the Old Port, serving big plates of classic Canadian food and breakfast all day. 4.5★ (3,892 reviews) — what visitors say, hours, and tips."
-country: "Canada"
-region: "Quebec City"
-category: "restaurant"
-pubDate: "2026-10-23T13:19:42.752Z"
+title: 'L''Antiquaire Buffet: Where to Eat in Quebec City (4.5★)'
+description: >-
+  L'Antiquaire Buffet is a long-running diner at 95 Rue Saint-Paul in Quebec
+  City's Lower Town, near the Old Port, serving big plates of classic Canadian
+  food and breakfast all day. 4.5★ (3,909 reviews) — what visitors say, hours,
+  and tips.
+country: Canada
+region: Quebec City
+category: restaurant
+pubDate: '2026-10-23T13:19:42.752Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Buffet_de_L%27Antiquaire%2C_95_Rue_Saint-Paul%2C_Ville_de_Qu%C3%A9bec%2C_QC_G1K_3V8%2C_Canad%C3%A1.jpg/3840px-Buffet_de_L%27Antiquaire%2C_95_Rue_Saint-Paul%2C_Ville_de_Qu%C3%A9bec%2C_QC_G1K_3V8%2C_Canad%C3%A1.jpg"
-  credit: "Photo: Wilfredor / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Buffet_de_L%27Antiquaire,_95_Rue_Saint-Paul,_Ville_de_Qu%C3%A9bec,_QC_G1K_3V8,_Canad%C3%A1.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Buffet_de_L%27Antiquaire%2C_95_Rue_Saint-Paul%2C_Ville_de_Qu%C3%A9bec%2C_QC_G1K_3V8%2C_Canad%C3%A1.jpg/3840px-Buffet_de_L%27Antiquaire%2C_95_Rue_Saint-Paul%2C_Ville_de_Qu%C3%A9bec%2C_QC_G1K_3V8%2C_Canad%C3%A1.jpg
+  credit: 'Photo: Wilfredor / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Buffet_de_L%27Antiquaire,_95_Rue_Saint-Paul,_Ville_de_Qu%C3%A9bec,_QC_G1K_3V8,_Canad%C3%A1.jpg
+  via: act
   focus:
     x: 50
-    y: 55
+    'y': 55
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/13073026_Ll8uNBuOFEDLDPRIxOUDhGIcHj1zG5oArBBN7b2N27g.jpg"
-    credit: "Photo: Foursquare user content (Buffet de l'Antiquaire)"
-    license: "foursquare"
-    source: "https://foursquare.com/v/4b5a40e9f964a520b8b728e3"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/13073026_Ll8uNBuOFEDLDPRIxOUDhGIcHj1zG5oArBBN7b2N27g.jpg
+    credit: 'Photo: Foursquare user content (Buffet de l''Antiquaire)'
+    license: foursquare
+    source: 'https://foursquare.com/v/4b5a40e9f964a520b8b728e3'
 place:
-  id: "ChIJGblCReeVuEwRev9hS8GNkcY"
-  name: "L'Antiquaire Buffet"
-  address: "95 Rue Saint-Paul, Québec, QC G1K 3V8, Canada"
+  id: ChIJGblCReeVuEwRev9hS8GNkcY
+  name: L'Antiquaire Buffet
+  address: '95 Rue Saint-Paul, Québec, QC G1K 3V8, Canada'
   rating: 4.5
-  userRatingsTotal: 3892
+  userRatingsTotal: 3909
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=14308373352465694586&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14308373352465694586&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 46.8162826
   lng: -71.2045509
-  phone: "+1 418-692-2661"
+  phone: +1 418-692-2661
   openingHours:
-    - "Monday: 6:00 AM – 9:00 PM"
-    - "Tuesday: 6:00 AM – 9:00 PM"
-    - "Wednesday: 6:00 AM – 9:00 PM"
-    - "Thursday: 6:00 AM – 9:00 PM"
-    - "Friday: 6:00 AM – 9:00 PM"
-    - "Saturday: 6:00 AM – 9:00 PM"
-    - "Sunday: 6:00 AM – 9:00 PM"
+    - 'Monday: 6:00 AM – 9:00 PM'
+    - 'Tuesday: 6:00 AM – 9:00 PM'
+    - 'Wednesday: 6:00 AM – 9:00 PM'
+    - 'Thursday: 6:00 AM – 9:00 PM'
+    - 'Friday: 6:00 AM – 9:00 PM'
+    - 'Saturday: 6:00 AM – 9:00 PM'
+    - 'Sunday: 6:00 AM – 9:00 PM'
 tags:
-  - "quebec city"
-  - "local restaurant"
-quickAnswer: "L'Antiquaire Buffet is a long-running diner at 95 Rue Saint-Paul in Quebec City's Lower Town, near the Old Port, serving big plates of classic Canadian food and breakfast all day. At the moment it opens 6am–9pm every day, so an early breakfast before the Old Town fills up is the easiest way to get a table without waiting."
+  - quebec city
+  - local restaurant
+quickAnswer: >-
+  L'Antiquaire Buffet is a long-running diner at 95 Rue Saint-Paul in Quebec
+  City's Lower Town, near the Old Port, serving big plates of classic Canadian
+  food and breakfast all day. At the moment it opens 6am–9pm every day, so an
+  early breakfast before the Old Town fills up is the easiest way to get a table
+  without waiting.
 faq:
-  - q: "Where exactly is L'Antiquaire Buffet?"
-    a: "At 95 Rue Saint-Paul in Lower Town (Basse-Ville), in the Old Port district of Quebec City. It's a short walk from Place Royale, the Musée de la civilisation and the Gare du Palais train station."
-  - q: "Is breakfast really served all day?"
-    a: "Yes. Breakfast runs from opening to close. At the moment the hours are 6am–9pm every day, but check the current listing before you go, since hours can change."
-  - q: "Do I need a reservation?"
-    a: "It's a casual diner, and most people just walk in. To avoid a wait, go early, ideally soon after the 6am opening and before the Lower Town tour crowds arrive. Weekend brunch hours are the likeliest time to queue."
-  - q: "How should I tip and pay?"
-    a: "Tipping around 15–20% of the pre-tax bill is customary in Quebec. Staff usually bring a card terminal to the table, and it asks you to choose a tip before you pay."
-  - q: "What can I see nearby after eating?"
-    a: "Walk Rue Saint-Paul's antique shops, visit the Musée de la civilisation, or head to Place Royale and Quartier Petit-Champlain. From there, the Old Quebec Funicular takes you up to Dufferin Terrace and the Château Frontenac."
+  - q: Where exactly is L'Antiquaire Buffet?
+    a: >-
+      At 95 Rue Saint-Paul in Lower Town (Basse-Ville), in the Old Port district
+      of Quebec City. It's a short walk from Place Royale, the Musée de la
+      civilisation and the Gare du Palais train station.
+  - q: Is breakfast really served all day?
+    a: >-
+      Yes. Breakfast runs from opening to close. At the moment the hours are
+      6am–9pm every day, but check the current listing before you go, since
+      hours can change.
+  - q: Do I need a reservation?
+    a: >-
+      It's a casual diner, and most people just walk in. To avoid a wait, go
+      early, ideally soon after the 6am opening and before the Lower Town tour
+      crowds arrive. Weekend brunch hours are the likeliest time to queue.
+  - q: How should I tip and pay?
+    a: >-
+      Tipping around 15–20% of the pre-tax bill is customary in Quebec. Staff
+      usually bring a card terminal to the table, and it asks you to choose a
+      tip before you pay.
+  - q: What can I see nearby after eating?
+    a: >-
+      Walk Rue Saint-Paul's antique shops, visit the Musée de la civilisation,
+      or head to Place Royale and Quartier Petit-Champlain. From there, the Old
+      Quebec Funicular takes you up to Dufferin Terrace and the Château
+      Frontenac.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-06'
 ---
 
 ## Eggs at 8pm on Rue Saint-Paul

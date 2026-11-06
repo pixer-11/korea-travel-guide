@@ -1,56 +1,84 @@
 ---
-title: "Taman Saujana Hijau: Putrajaya Travel Guide (4.7★)"
-description: "Taman Saujana Hijau is Putrajaya's big open-air park of themed gardens, jogging loops and lake views, open daily 7am–7pm. 4.7★ (7,105 reviews) — what visitors say, hours, and tips."
-country: "Malaysia"
-region: "Putrajaya"
-category: "hidden-gem"
-pubDate: "2026-08-13T09:39:28.634Z"
+title: 'Taman Saujana Hijau: Putrajaya Travel Guide (4.7★)'
+description: >-
+  Taman Saujana Hijau is Putrajaya's big open-air park of themed gardens,
+  jogging loops and lake views, open daily 7am–7pm. 4.7★ (7,180 reviews) — what
+  visitors say, hours, and tips.
+country: Malaysia
+region: Putrajaya
+category: hidden-gem
+pubDate: '2026-08-13T09:39:28.634Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Taman_Saujana_Hijau_%28230708-0804%29.jpg/3840px-Taman_Saujana_Hijau_%28230708-0804%29.jpg"
-  credit: "Photo: Wee Hong / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Taman_Saujana_Hijau_(230708-0804).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Taman_Saujana_Hijau_%28230708-0804%29.jpg/3840px-Taman_Saujana_Hijau_%28230708-0804%29.jpg
+  credit: 'Photo: Wee Hong / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Taman_Saujana_Hijau_(230708-0804).jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Taman_Saujana_Hijau_%28230708-0814%29.jpg/3840px-Taman_Saujana_Hijau_%28230708-0814%29.jpg"
-    credit: "Photo: Wee Hong / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Taman_Saujana_Hijau_(230708-0814).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Taman_Saujana_Hijau_%28230708-0814%29.jpg/3840px-Taman_Saujana_Hijau_%28230708-0814%29.jpg
+    credit: 'Photo: Wee Hong / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Taman_Saujana_Hijau_(230708-0814).jpg
 place:
-  id: "ChIJ7Uj4GNq1zTERQiffMeS52o4"
-  name: "Taman Saujana Hijau Putrajaya"
-  address: "Jalan P11, Presint 11, 62300 Putrajaya, Wilayah Persekutuan Putrajaya, Malaysia"
+  id: ChIJ7Uj4GNq1zTERQiffMeS52o4
+  name: Taman Saujana Hijau Putrajaya
+  address: >-
+    Jalan P11, Presint 11, 62300 Putrajaya, Wilayah Persekutuan Putrajaya,
+    Malaysia
   rating: 4.7
-  userRatingsTotal: 7105
-  googleMapsUrl: "https://maps.google.com/?cid=10293744288049080130&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 7180
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10293744288049080130&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 2.9612403
   lng: 101.6756394
-  phone: "+60 3-8887 7770"
+  phone: +60 3-8887 7770
   openingHours:
-    - "Monday: 7:00 AM – 7:00 PM"
-    - "Tuesday: 7:00 AM – 7:00 PM"
-    - "Wednesday: 7:00 AM – 7:00 PM"
-    - "Thursday: 7:00 AM – 7:00 PM"
-    - "Friday: 7:00 AM – 7:00 PM"
-    - "Saturday: 7:00 AM – 7:00 PM"
-    - "Sunday: 7:00 AM – 7:00 PM"
+    - 'Monday: 7:00 AM – 7:00 PM'
+    - 'Tuesday: 7:00 AM – 7:00 PM'
+    - 'Wednesday: 7:00 AM – 7:00 PM'
+    - 'Thursday: 7:00 AM – 7:00 PM'
+    - 'Friday: 7:00 AM – 7:00 PM'
+    - 'Saturday: 7:00 AM – 7:00 PM'
+    - 'Sunday: 7:00 AM – 7:00 PM'
 tags:
-  - "putrajaya"
-  - "hidden gem"
-quickAnswer: "Taman Saujana Hijau is Putrajaya's big open-air park of themed gardens, jogging loops and lake views, open daily 7am–7pm. It's genuinely popular with locals for exercise, not a secret spot, so aim for early morning or after 5:30pm to avoid the heat and the biggest crowds. Budget 1–2 hours for a walk or bring a bike for longer loops."
+  - putrajaya
+  - hidden gem
+quickAnswer: >-
+  Taman Saujana Hijau is Putrajaya's big open-air park of themed gardens,
+  jogging loops and lake views, open daily 7am–7pm. It's genuinely popular with
+  locals for exercise, not a secret spot, so aim for early morning or after
+  5:30pm to avoid the heat and the biggest crowds. Budget 1–2 hours for a walk
+  or bring a bike for longer loops.
 faq:
-  - q: "What are the opening hours?"
-    a: "Taman Saujana Hijau is open daily from 7:00 AM to 7:00 PM, with no midday closure."
-  - q: "How do I get there without a car?"
-    a: "There's no direct MRT/LRT station at the park; the nearest rail hub is Putrajaya Sentral, several kilometres away, so most visitors finish the trip by Grab or taxi."
-  - q: "When is it quietest?"
-    a: "Weekday mornings shortly after the 7am opening are calmest. Weekends and midday hours tend to draw the biggest crowds of joggers, cyclists, and families."
-  - q: "How long should I plan to spend here?"
-    a: "A walking visit takes about an hour; cycling a fuller loop of the themed gardens and lakeside paths can easily fill two hours."
-  - q: "Is there an entrance fee?"
-    a: "No, the park is free to enter and there's nothing to pre-book — just walk or cycle in during opening hours."
+  - q: What are the opening hours?
+    a: >-
+      Taman Saujana Hijau is open daily from 7:00 AM to 7:00 PM, with no midday
+      closure.
+  - q: How do I get there without a car?
+    a: >-
+      There's no direct MRT/LRT station at the park; the nearest rail hub is
+      Putrajaya Sentral, several kilometres away, so most visitors finish the
+      trip by Grab or taxi.
+  - q: When is it quietest?
+    a: >-
+      Weekday mornings shortly after the 7am opening are calmest. Weekends and
+      midday hours tend to draw the biggest crowds of joggers, cyclists, and
+      families.
+  - q: How long should I plan to spend here?
+    a: >-
+      A walking visit takes about an hour; cycling a fuller loop of the themed
+      gardens and lakeside paths can easily fill two hours.
+  - q: Is there an entrance fee?
+    a: >-
+      No, the park is free to enter and there's nothing to pre-book — just walk
+      or cycle in during opening hours.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-06'
 ---
 
 ## Why go

@@ -1,44 +1,51 @@
 ---
-title: "Montmorency Falls: Quebec City Travel Guide (4.7★)"
-description: "Montmorency Falls is in Quebec City's Beauport area, roughly a 15-minute drive east of Old Quebec, where the Montmorency River drops 83 metres into the St. Lawrence. 4.7★ (38,936 reviews) — what visitors say, hours, and tips."
-country: "Canada"
-region: "Quebec City"
-category: "attraction"
-pubDate: "2026-10-22T14:54:55.504Z"
+title: 'Montmorency Falls: Quebec City Travel Guide (4.7★)'
+description: >-
+  Montmorency Falls is in Quebec City's Beauport area, roughly a 15-minute drive
+  east of Old Quebec, where the Montmorency River drops 83 metres into the St.
+  Lawrence. 4.7★ (39,082 reviews) — what visitors say, hours, and tips.
+country: Canada
+region: Quebec City
+category: attraction
+pubDate: '2026-10-22T14:54:55.504Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Montmorency_Falls_01.jpg/1920px-Montmorency_Falls_01.jpg"
-  credit: "Photo: Wikimedia Commons contributor / Wikimedia Commons (CC BY-SA 2.5)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Montmorency_Falls_01.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Montmorency_Falls_01.jpg/1920px-Montmorency_Falls_01.jpg
+  credit: 'Photo: Wikimedia Commons contributor / Wikimedia Commons (CC BY-SA 2.5)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Montmorency_Falls_01.jpg'
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Montmorency_Falls%2C_Qu%C3%A9bec_-_54798031711.jpg/3840px-Montmorency_Falls%2C_Qu%C3%A9bec_-_54798031711.jpg"
-    credit: "Photo: Mustang Joe / Wikimedia Commons (CC0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Montmorency_Falls,_Qu%C3%A9bec_-_54798031711.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Montmorency_Falls%2C_Qu%C3%A9bec_-_54798031711.jpg/3840px-Montmorency_Falls%2C_Qu%C3%A9bec_-_54798031711.jpg
+    credit: 'Photo: Mustang Joe / Wikimedia Commons (CC0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Montmorency_Falls,_Qu%C3%A9bec_-_54798031711.jpg
 place:
-  id: "ChIJqwAQnqK-uEwRIxnWIPF1QtU"
-  name: "Montmorency Falls"
-  address: "Québec City, QC G1C 2H1, Canada"
+  id: ChIJqwAQnqK-uEwRIxnWIPF1QtU
+  name: Montmorency Falls
+  address: 'Québec City, QC G1C 2H1, Canada'
   rating: 4.7
-  userRatingsTotal: 38936
-  googleMapsUrl: "https://maps.google.com/?cid=15366974557040023843&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 39082
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15366974557040023843&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 46.8875043
   lng: -71.1477874
-  phone: "+1 418-663-3330"
+  phone: +1 418-663-3330
   openingHours:
-    - "Monday: 9:00 AM – 6:00 PM"
-    - "Tuesday: 9:00 AM – 6:00 PM"
-    - "Wednesday: 9:00 AM – 6:00 PM"
-    - "Thursday: 9:00 AM – 6:00 PM"
-    - "Friday: 9:00 AM – 6:00 PM"
-    - "Saturday: 9:00 AM – 6:00 PM"
-    - "Sunday: 9:00 AM – 6:00 PM"
+    - 'Monday: 9:00 AM – 6:00 PM'
+    - 'Tuesday: 9:00 AM – 6:00 PM'
+    - 'Wednesday: 9:00 AM – 6:00 PM'
+    - 'Thursday: 9:00 AM – 6:00 PM'
+    - 'Friday: 9:00 AM – 6:00 PM'
+    - 'Saturday: 9:00 AM – 6:00 PM'
+    - 'Sunday: 9:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-10-22
+    updated: 2026-10-22T00:00:00.000Z
     weekdayQuiet:
       - 9
     weekendQuiet:
@@ -50,24 +57,46 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_55745131465049576e7849527745752d4b716e514177714a496843"
+    venueId: ven_55745131465049576e7849527745752d4b716e514177714a496843
 tags:
-  - "quebec city"
-  - "Montmorency Falls"
-quickAnswer: "Montmorency Falls is in Quebec City's Beauport area, roughly a 15-minute drive east of Old Quebec, where the Montmorency River drops 83 metres into the St. Lawrence. It's currently open 9am–6pm, and the quietest window is 9am–10am on both weekdays and weekends. Avoid weekends between 11am and 5pm, which is when it's busiest."
+  - quebec city
+  - Montmorency Falls
+quickAnswer: >-
+  Montmorency Falls is in Quebec City's Beauport area, roughly a 15-minute drive
+  east of Old Quebec, where the Montmorency River drops 83 metres into the St.
+  Lawrence. It's currently open 9am–6pm, and the quietest window is 9am–10am on
+  both weekdays and weekends. Avoid weekends between 11am and 5pm, which is when
+  it's busiest.
 faq:
-  - q: "When is the quietest time to visit Montmorency Falls?"
-    a: "It's quietest between 9am and 10am on both weekdays and weekends. Avoid weekends between 11am and 5pm, which is the busiest stretch."
-  - q: "How do I get to Montmorency Falls from Old Quebec without a car?"
-    a: "Take the RTC's Métrobus 800, which runs from the city out to the falls. By car it's about 12 km east of Old Quebec. There are paid parking lots at both the base and the top; rates are posted at the entrance and on the Sépaq site."
-  - q: "How long should I spend at Montmorency Falls?"
-    a: "About two hours covers the suspension bridge, the staircase, the cable car and the lookouts. Add an hour if you're doing the zipline or eating at the Manoir Montmorency."
-  - q: "Is Montmorency Falls worth visiting in winter?"
-    a: "Yes. Frozen spray builds an ice cone at the base called the pain de sucre (sugarloaf). The staircase is usually closed in icy months, and features like the cable car run on seasonal schedules, so check the Sépaq site first."
-  - q: "What's near Montmorency Falls?"
-    a: "Île d'Orléans is just over the bridge you can see from the falls, with farm stands along its loop road. Further east along the Côte-de-Beaupré is the basilica at Sainte-Anne-de-Beaupré."
+  - q: When is the quietest time to visit Montmorency Falls?
+    a: >-
+      It's quietest between 9am and 10am on both weekdays and weekends. Avoid
+      weekends between 11am and 5pm, which is the busiest stretch.
+  - q: How do I get to Montmorency Falls from Old Quebec without a car?
+    a: >-
+      Take the RTC's Métrobus 800, which runs from the city out to the falls. By
+      car it's about 12 km east of Old Quebec. There are paid parking lots at
+      both the base and the top; rates are posted at the entrance and on the
+      Sépaq site.
+  - q: How long should I spend at Montmorency Falls?
+    a: >-
+      About two hours covers the suspension bridge, the staircase, the cable car
+      and the lookouts. Add an hour if you're doing the zipline or eating at the
+      Manoir Montmorency.
+  - q: Is Montmorency Falls worth visiting in winter?
+    a: >-
+      Yes. Frozen spray builds an ice cone at the base called the pain de sucre
+      (sugarloaf). The staircase is usually closed in icy months, and features
+      like the cable car run on seasonal schedules, so check the Sépaq site
+      first.
+  - q: What's near Montmorency Falls?
+    a: >-
+      Île d'Orléans is just over the bridge you can see from the falls, with
+      farm stands along its loop road. Further east along the Côte-de-Beaupré is
+      the basilica at Sainte-Anne-de-Beaupré.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-06'
 ---
 
 ## A river that runs out of cliff

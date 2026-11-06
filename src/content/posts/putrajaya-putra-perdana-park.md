@@ -1,45 +1,55 @@
 ---
-title: "Putra Perdana Park: Putrajaya Travel Guide (4.5★)"
-description: "Putra Perdana Park in Presint 1, Putrajaya, is a large hillside green space best known for its skywalk canopy bridge, botanical trails and views over the government precinct. 4.5★ (3,378 reviews) — what visitors say, hours, and tips."
-country: "Malaysia"
-region: "Putrajaya"
-category: "attraction"
-pubDate: "2026-09-16T07:41:02.324Z"
+title: 'Putra Perdana Park: Putrajaya Travel Guide (4.5★)'
+description: >-
+  Putra Perdana Park in Presint 1, Putrajaya, is a large hillside green space
+  best known for its skywalk canopy bridge, botanical trails and views over the
+  government precinct. 4.5★ (3,401 reviews) — what visitors say, hours, and
+  tips.
+country: Malaysia
+region: Putrajaya
+category: attraction
+pubDate: '2026-09-16T07:41:02.324Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/1/1f/Panorama_of_Taman_Putra_Perdana%2C_Putrajaya_-_panoramio.jpg"
-  credit: "Photo: Arash Toudeshki / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Panorama_of_Taman_Putra_Perdana,_Putrajaya_-_panoramio.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/1/1f/Panorama_of_Taman_Putra_Perdana%2C_Putrajaya_-_panoramio.jpg
+  credit: 'Photo: Arash Toudeshki / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Panorama_of_Taman_Putra_Perdana,_Putrajaya_-_panoramio.jpg
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/2783455_3Ouu4Mncd1ZL5704QpoFBusdQpArUElAqJHKmB5PvQE.jpg"
-    credit: "Photo: Foursquare user content (Taman Putra Perdana)"
-    license: "foursquare"
-    source: "https://foursquare.com/v/4b9da596f964a52002b836e3"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/2783455_3Ouu4Mncd1ZL5704QpoFBusdQpArUElAqJHKmB5PvQE.jpg
+    credit: 'Photo: Foursquare user content (Taman Putra Perdana)'
+    license: foursquare
+    source: 'https://foursquare.com/v/4b9da596f964a52002b836e3'
 place:
-  id: "ChIJAVt0dhu2zTERFjAR_FtXvDk"
-  name: "Putra Perdana Park"
-  address: "Persiaran Sultan Salahuddin Abdul Aziz Shah, Presint 1, 62000 Putrajaya, Wilayah Persekutuan Putrajaya, Malaysia"
+  id: ChIJAVt0dhu2zTERFjAR_FtXvDk
+  name: Putra Perdana Park
+  address: >-
+    Persiaran Sultan Salahuddin Abdul Aziz Shah, Presint 1, 62000 Putrajaya,
+    Wilayah Persekutuan Putrajaya, Malaysia
   rating: 4.5
-  userRatingsTotal: 3378
-  googleMapsUrl: "https://maps.google.com/?cid=4160296208366120982&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 3401
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4160296208366120982&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 2.9410892
   lng: 101.69784639999999
-  phone: "+60 3-8000 8000"
+  phone: +60 3-8000 8000
   openingHours:
-    - "Monday: 10:00 AM – 12:00 AM"
-    - "Tuesday: 10:00 AM – 12:00 AM"
-    - "Wednesday: 10:00 AM – 12:00 AM"
-    - "Thursday: 10:00 AM – 12:00 AM"
-    - "Friday: 10:00 AM – 12:00 AM"
-    - "Saturday: 10:00 AM – 12:00 AM"
-    - "Sunday: 10:00 AM – 12:00 AM"
+    - 'Monday: 10:00 AM – 12:00 AM'
+    - 'Tuesday: 10:00 AM – 12:00 AM'
+    - 'Wednesday: 10:00 AM – 12:00 AM'
+    - 'Thursday: 10:00 AM – 12:00 AM'
+    - 'Friday: 10:00 AM – 12:00 AM'
+    - 'Saturday: 10:00 AM – 12:00 AM'
+    - 'Sunday: 10:00 AM – 12:00 AM'
   busyness:
-    updated: 2026-09-16
+    updated: 2026-09-16T00:00:00.000Z
     weekendQuiet:
       - 12
       - 13
@@ -51,24 +61,44 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_6b44765874465f52416a465245547a32756864307456414a496843"
+    venueId: ven_6b44765874465f52416a465245547a32756864307456414a496843
 tags:
-  - "putrajaya"
-  - "park"
-quickAnswer: "Putra Perdana Park in Presint 1, Putrajaya, is a large hillside green space best known for its skywalk canopy bridge, botanical trails and views over the government precinct. It opens daily from 10am to midnight, and weekends are quietest between 12pm and 4pm, busiest from 6pm to 11pm when families and joggers arrive. Bring water and good shoes: the paths are exposed and hillier than they look on a map."
+  - putrajaya
+  - park
+quickAnswer: >-
+  Putra Perdana Park in Presint 1, Putrajaya, is a large hillside green space
+  best known for its skywalk canopy bridge, botanical trails and views over the
+  government precinct. It opens daily from 10am to midnight, and weekends are
+  quietest between 12pm and 4pm, busiest from 6pm to 11pm when families and
+  joggers arrive. Bring water and good shoes: the paths are exposed and hillier
+  than they look on a map.
 faq:
-  - q: "What are Putra Perdana Park's opening hours?"
-    a: "It's open daily from 10am to midnight, one of the longer daily windows among Putrajaya attractions, which makes it workable as an evening stop too."
-  - q: "When is the quietest time to visit?"
-    a: "On weekends, the calmest window is 12pm to 4pm. Avoid arriving between 6pm and 11pm on weekends if you want to skip the busiest crowds."
-  - q: "How do I get to Putra Perdana Park?"
-    a: "It's on Persiaran Sultan Salahuddin Abdul Aziz Shah in Presint 1, Putrajaya, best reached by car, taxi, or e-hailing since public transit coverage here is thinner than in central Putrajaya."
-  - q: "How long should I spend there?"
-    a: "Plan on 45 minutes for just the skywalk, or up to two hours if you also want to explore the botanical gardens and jogging trails."
-  - q: "Is there an entrance fee?"
-    a: "The park functions as open public parkland with no ticket booth to plan around, though you should confirm current arrangements before visiting since this can change."
+  - q: What are Putra Perdana Park's opening hours?
+    a: >-
+      It's open daily from 10am to midnight, one of the longer daily windows
+      among Putrajaya attractions, which makes it workable as an evening stop
+      too.
+  - q: When is the quietest time to visit?
+    a: >-
+      On weekends, the calmest window is 12pm to 4pm. Avoid arriving between 6pm
+      and 11pm on weekends if you want to skip the busiest crowds.
+  - q: How do I get to Putra Perdana Park?
+    a: >-
+      It's on Persiaran Sultan Salahuddin Abdul Aziz Shah in Presint 1,
+      Putrajaya, best reached by car, taxi, or e-hailing since public transit
+      coverage here is thinner than in central Putrajaya.
+  - q: How long should I spend there?
+    a: >-
+      Plan on 45 minutes for just the skywalk, or up to two hours if you also
+      want to explore the botanical gardens and jogging trails.
+  - q: Is there an entrance fee?
+    a: >-
+      The park functions as open public parkland with no ticket booth to plan
+      around, though you should confirm current arrangements before visiting
+      since this can change.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-06'
 ---
 
 Putra Perdana Park sits on a low ridge in Presint 1, a patch of forest and cleared parkland that Putrajaya's planners kept when they built the administrative city around it. It's less manicured than the lakeside gardens closer to the Prime Minister's office, and that's part of its appeal: wilder tree cover, uneven ground, a sense that you've stepped just outside the postcard version of Putrajaya.

@@ -1,9 +1,9 @@
 ---
 lang: ko
 slug: purmamarca-purmamarca-jujuy
-srcHash: '5eacc06936a9'
+srcHash: '86b3a2e150f1'
 title: 푸르마마르카(Purmamarca), 후후이 여행 가이드 (4.8★)
-description: 푸르마마르카는 아르헨티나 우마우아카 협곡에 자리한 작은 어도비 마을입니다. 줄무늬가 선명한 일곱 색깔 언덕(Cerro de los Siete Colores) 바로 아래에 있습니다. 4.8★(리뷰 20,660개)를 받은 이곳의 방문객 후기와 운영 시간, 여행 팁을 모았습니다.
+description: 푸르마마르카는 아르헨티나 우마우아카 협곡에 자리한 작은 어도비 마을입니다. 줄무늬가 선명한 일곱 색깔 언덕(Cerro de los Siete Colores) 바로 아래에 있습니다. 4.8★(리뷰 20,796개)를 받은 이곳의 방문객 후기와 운영 시간, 여행 팁을 모았습니다.
 quickAnswer: 푸르마마르카는 아르헨티나 우마우아카 협곡(Quebrada de Humahuaca)에 자리한 작은 어도비 마을입니다. 줄무늬가 선명한 일곱 색깔 언덕(Cerro de los Siete Colores) 바로 아래에 들어서 있습니다. 언덕에 햇살이 비치는 이른 시간에 도착하는 것이 좋습니다. 그다음 파세오 데 로스 콜로라도스(Paseo de los Colorados) 순환로를 걷고 광장의 수공예품 시장을 둘러보시면 됩니다. 반나절이면 충분하지만, 52번 국도(Ruta 52)를 따라 살리나스 그란데스(Salinas Grandes) 소금 평원까지 가실 계획이라면 하룻밤 묵어 가시기를 권합니다.
 faq:
   - q: 일곱 색깔 언덕을 보기 가장 좋은 시간대는 언제입니까?

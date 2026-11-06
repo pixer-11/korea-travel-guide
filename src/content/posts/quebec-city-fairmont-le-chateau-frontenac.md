@@ -1,51 +1,80 @@
 ---
-title: "Fairmont Le Château Frontenac: Quebec City Travel Guide"
-description: "Fairmont Le Château Frontenac stands on the cliff edge of Upper Town in Old Quebec, at 1 Rue des Carrières beside Place d'Armes and Dufferin Terrace. 4.7★ (27,652 reviews) — what visitors say, hours, and tips."
-country: "Canada"
-region: "Quebec City"
-category: "attraction"
-pubDate: "2026-10-21T13:29:50.469Z"
+title: 'Fairmont Le Château Frontenac: Quebec City Travel Guide'
+description: >-
+  Fairmont Le Château Frontenac stands on the cliff edge of Upper Town in Old
+  Quebec, at 1 Rue des Carrières beside Place d'Armes and Dufferin Terrace. 4.7★
+  (27,751 reviews) — what visitors say, hours, and tips.
+country: Canada
+region: Quebec City
+category: attraction
+pubDate: '2026-10-21T13:29:50.469Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ch%C3%A2teau_Frontenac_02.jpg/1920px-Ch%C3%A2teau_Frontenac_02.jpg"
-  credit: "Photo: Bernard Gagnon / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_Frontenac_02.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ch%C3%A2teau_Frontenac_02.jpg/1920px-Ch%C3%A2teau_Frontenac_02.jpg
+  credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_Frontenac_02.jpg'
   focus:
     x: 55
-    y: 35
+    'y': 35
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Fairmont_Le_Ch%C3%A2teau_Frontenac_in_2026.jpg/3840px-Fairmont_Le_Ch%C3%A2teau_Frontenac_in_2026.jpg"
-    credit: "Photo: Quintin Soloviev / Wikimedia Commons (CC BY 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Fairmont_Le_Ch%C3%A2teau_Frontenac_in_2026.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Fairmont_Le_Ch%C3%A2teau_Frontenac_in_2026.jpg/3840px-Fairmont_Le_Ch%C3%A2teau_Frontenac_in_2026.jpg
+    credit: 'Photo: Quintin Soloviev / Wikimedia Commons (CC BY 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Fairmont_Le_Ch%C3%A2teau_Frontenac_in_2026.jpg
 place:
-  id: "ChIJ7Vz9a9yVuEwRjUKqbbOLHw4"
-  name: "Fairmont Le Château Frontenac"
-  address: "1 Rue des Carrières, Québec, QC G1R 5J5, Canada"
+  id: ChIJ7Vz9a9yVuEwRjUKqbbOLHw4
+  name: Fairmont Le Château Frontenac
+  address: '1 Rue des Carrières, Québec, QC G1R 5J5, Canada'
   rating: 4.7
-  userRatingsTotal: 27652
-  googleMapsUrl: "https://maps.google.com/?cid=1017685643564302989&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 27751
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1017685643564302989&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 46.8120085
   lng: -71.20521839999999
-  phone: "+1 418-692-3861"
+  phone: +1 418-692-3861
 tags:
-  - "quebec city"
-  - "Château Frontenac"
-quickAnswer: "Fairmont Le Château Frontenac stands on the cliff edge of Upper Town in Old Quebec, at 1 Rue des Carrières beside Place d'Armes and Dufferin Terrace. Non-guests can walk the terrace, take the best photos from Lower Town or the Québec–Lévis ferry, and visit the public areas and restaurants. Plan on one to two hours, and come early in the morning to get the terrace before the tour groups do."
+  - quebec city
+  - Château Frontenac
+quickAnswer: >-
+  Fairmont Le Château Frontenac stands on the cliff edge of Upper Town in Old
+  Quebec, at 1 Rue des Carrières beside Place d'Armes and Dufferin Terrace.
+  Non-guests can walk the terrace, take the best photos from Lower Town or the
+  Québec–Lévis ferry, and visit the public areas and restaurants. Plan on one to
+  two hours, and come early in the morning to get the terrace before the tour
+  groups do.
 faq:
-  - q: "Can you visit Le Château Frontenac if you're not staying there?"
-    a: "Yes, the public areas are generally open to visitors. Stick to the lobby and corridors and keep off guest floors. Booking a table at one of the restaurants or the wine bar is the most relaxed way to spend time inside."
-  - q: "How do I get to the Château Frontenac from Lower Town?"
-    a: "Take the Old Québec Funicular from Rue du Petit-Champlain. It comes out on Dufferin Terrace right beside the hotel. You can also climb the Breakneck Steps (Escalier Casse-Cou) nearby."
-  - q: "Where is the best place to photograph the Château Frontenac?"
-    a: "Try Dufferin Terrace for close-ups, Rue du Petit-Champlain for the view up the cliff, and the Québec–Lévis ferry for the full skyline. The ferry is especially good at dusk, when the hotel is lit up."
-  - q: "How long should I spend there?"
-    a: "Allow one to two hours for the terrace, the lobby and the photo spots. Add a half day if you also take in Place d'Armes, the Saint-Louis Forts and Châteaux site and Governors' Promenade."
-  - q: "Do I need to book the hotel's restaurants in advance?"
-    a: "Reserving ahead is wise, especially on weekends, in summer and during Carnaval in February. Current menus and booking details are on the official Fairmont website."
+  - q: Can you visit Le Château Frontenac if you're not staying there?
+    a: >-
+      Yes, the public areas are generally open to visitors. Stick to the lobby
+      and corridors and keep off guest floors. Booking a table at one of the
+      restaurants or the wine bar is the most relaxed way to spend time inside.
+  - q: How do I get to the Château Frontenac from Lower Town?
+    a: >-
+      Take the Old Québec Funicular from Rue du Petit-Champlain. It comes out on
+      Dufferin Terrace right beside the hotel. You can also climb the Breakneck
+      Steps (Escalier Casse-Cou) nearby.
+  - q: Where is the best place to photograph the Château Frontenac?
+    a: >-
+      Try Dufferin Terrace for close-ups, Rue du Petit-Champlain for the view up
+      the cliff, and the Québec–Lévis ferry for the full skyline. The ferry is
+      especially good at dusk, when the hotel is lit up.
+  - q: How long should I spend there?
+    a: >-
+      Allow one to two hours for the terrace, the lobby and the photo spots. Add
+      a half day if you also take in Place d'Armes, the Saint-Louis Forts and
+      Châteaux site and Governors' Promenade.
+  - q: Do I need to book the hotel's restaurants in advance?
+    a: >-
+      Reserving ahead is wise, especially on weekends, in summer and during
+      Carnaval in February. Current menus and booking details are on the
+      official Fairmont website.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-06'
 ---
 
 ## A railway hotel built to look like a castle

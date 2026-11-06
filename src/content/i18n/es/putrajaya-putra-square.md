@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: putrajaya-putra-square
-srcHash: '977fac9e8758'
+srcHash: '82c4f274802c'
 title: 'Plaza Putra: guía de viaje de Putrajaya (4.6★)'
-description: La Plaza Putra (Dataran Putra) es la explanada ceremonial circular del Presint 1 de Putrajaya. Se encuentra entre la Mezquita Putra, de cúpula rosada, y Perdana Putra, sede de la oficina del primer ministro. Tiene una valoración de 4.6★ (5,436 reseñas). Aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
+description: La Plaza Putra (Dataran Putra) es la explanada ceremonial circular del Presint 1 de Putrajaya. Se encuentra entre la Mezquita Putra, de cúpula rosada, y Perdana Putra, sede de la oficina del primer ministro. Tiene una valoración de 4.6★ (5,446 reseñas). Aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
 quickAnswer: En el Presint 1 de Putrajaya, entre la Mezquita Putra y su cúpula rosada y Perdana Putra, donde despacha el primer ministro, se extiende la Plaza Putra (Dataran Putra), una explanada ceremonial de planta circular. Cualquier día de la semana, el momento más tranquilo suele ser entre las 7am y las 9am. Los fines de semana, en cambio, se llena de gente de 2pm a 10pm. Como en la actualidad abre de 6am a 10pm, si madruga disfrutará de una luz suave y de espacio de sobra para sus fotografías.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar la Plaza Putra?

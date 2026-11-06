@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: putrajaya-putra-mosque
-srcHash: '9a56d628fad7'
+srcHash: 'bc664ff8f929'
 title: 'Mezquita Putra: Guía de Viaje de Putrajaya (4,7★)'
-description: 'La Mezquita Putra, en el Precinto 1 de Putrajaya, es el emblemático edificio de cúpula rosada situado justo al borde del lago Putrajaya. Abre a visitantes no musulmanes casi todos los días de 9:00 a 18:00 (los viernes solo de 15:00 a 18:00, ya que el mediodía es hora de oración). 4,7★ (24.746 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'La Mezquita Putra, en el Precinto 1 de Putrajaya, es el emblemático edificio de cúpula rosada situado justo al borde del lago Putrajaya. Abre a visitantes no musulmanes casi todos los días de 9:00 a 18:00 (los viernes solo de 15:00 a 18:00, ya que el mediodía es hora de oración). 4,7★ (25.153 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: La Mezquita Putra, en el Precinto 1 de Putrajaya, es el emblemático edificio de cúpula rosada situado justo al borde del lago Putrajaya. Abre a visitantes no musulmanes casi todos los días de 9:00 a 18:00 (los viernes solo de 15:00 a 18:00, ya que el mediodía es hora de oración). Es una de las paradas más populares en cualquier excursión de un día a Putrajaya, así que conviene llegar lo más cerca posible de la hora de apertura para disfrutar del patio y las vistas al lago sin la avalancha de autobuses turísticos. Lleve un pañuelo o tome prestada una de las túnicas que se ofrecen a la entrada, ya que dentro es obligatorio vestir de forma recatada, cubriendo brazos, piernas y cabello.
 faq:
   - q: ¿Cuál es el horario de visita de la Mezquita Putra?

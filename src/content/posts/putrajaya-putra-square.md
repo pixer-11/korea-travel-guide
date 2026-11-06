@@ -1,45 +1,52 @@
 ---
-title: "Putra Square: Putrajaya Travel Guide (4.6★)"
-description: "Putra Square (Dataran Putra) is the circular ceremonial plaza in Presint 1, Putrajaya, set between the pink-domed Putra Mosque and Perdana Putra, the Prime Minister's office. 4.6★ (5,436 reviews) — what visitors say, hours, and tips."
-country: "Malaysia"
-region: "Putrajaya"
-category: "hidden-gem"
-pubDate: "2026-11-03T07:54:08.808Z"
+title: 'Putra Square: Putrajaya Travel Guide (4.6★)'
+description: >-
+  Putra Square (Dataran Putra) is the circular ceremonial plaza in Presint 1,
+  Putrajaya, set between the pink-domed Putra Mosque and Perdana Putra, the
+  Prime Minister's office. 4.6★ (5,446 reviews) — what visitors say, hours, and
+  tips.
+country: Malaysia
+region: Putrajaya
+category: hidden-gem
+pubDate: '2026-11-03T07:54:08.808Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Putra_Square_Flags_Putrajaya.jpg/3840px-Putra_Square_Flags_Putrajaya.jpg"
-  credit: "Photo: QianCheng / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Putra_Square_Flags_Putrajaya.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Putra_Square_Flags_Putrajaya.jpg/3840px-Putra_Square_Flags_Putrajaya.jpg
+  credit: 'Photo: QianCheng / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Putra_Square_Flags_Putrajaya.jpg'
+  via: act
   focus:
     x: 55
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Putra_Square_%282022%29.jpg/3840px-Putra_Square_%282022%29.jpg"
-    credit: "Photo: Chainwit. / Wikimedia Commons (CC BY 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Putra_Square_(2022).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Putra_Square_%282022%29.jpg/3840px-Putra_Square_%282022%29.jpg
+    credit: 'Photo: Chainwit. / Wikimedia Commons (CC BY 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Putra_Square_(2022).jpg'
 place:
-  id: "ChIJOZZMiz22zTERVIXM6sAtQNk"
-  name: "Putra Square"
-  address: "Presint 1, 62000, Persekutuan, Presint 1, 62502 Putrajaya, Malaysia"
+  id: ChIJOZZMiz22zTERVIXM6sAtQNk
+  name: Putra Square
+  address: 'Presint 1, 62000, Persekutuan, Presint 1, 62502 Putrajaya, Malaysia'
   rating: 4.6
-  userRatingsTotal: 5436
-  googleMapsUrl: "https://maps.google.com/?cid=15654562611336086868&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 5446
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15654562611336086868&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 2.934843
   lng: 101.69082449999999
-  phone: "+60 3-8000 8000"
+  phone: +60 3-8000 8000
   openingHours:
-    - "Monday: 6:00 AM – 10:00 PM"
-    - "Tuesday: 6:00 AM – 10:00 PM"
-    - "Wednesday: 6:00 AM – 10:00 PM"
-    - "Thursday: 6:00 AM – 10:00 PM"
-    - "Friday: 6:00 AM – 10:00 PM"
-    - "Saturday: 6:00 AM – 10:00 PM"
-    - "Sunday: 6:00 AM – 10:00 PM"
+    - 'Monday: 6:00 AM – 10:00 PM'
+    - 'Tuesday: 6:00 AM – 10:00 PM'
+    - 'Wednesday: 6:00 AM – 10:00 PM'
+    - 'Thursday: 6:00 AM – 10:00 PM'
+    - 'Friday: 6:00 AM – 10:00 PM'
+    - 'Saturday: 6:00 AM – 10:00 PM'
+    - 'Sunday: 6:00 AM – 10:00 PM'
   busyness:
-    updated: 2026-11-03
+    updated: 2026-11-03T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -55,24 +62,43 @@ place:
       - 19
       - 20
       - 21
-    venueId: "ven_6b4e51744173364d5849565245547a32327a694d5a5a4f4a496843"
+    venueId: ven_6b4e51744173364d5849565245547a32327a694d5a5a4f4a496843
 tags:
-  - "putrajaya"
-  - "old quarter"
-quickAnswer: "Putra Square (Dataran Putra) is the circular ceremonial plaza in Presint 1, Putrajaya, set between the pink-domed Putra Mosque and Perdana Putra, the Prime Minister's office. It is usually quietest between 7am and 9am on any day, while weekends get crowded from 2pm to 10pm. The square currently opens 6am–10pm, so an early visit gets you soft light and space for photos."
+  - putrajaya
+  - old quarter
+quickAnswer: >-
+  Putra Square (Dataran Putra) is the circular ceremonial plaza in Presint 1,
+  Putrajaya, set between the pink-domed Putra Mosque and Perdana Putra, the
+  Prime Minister's office. It is usually quietest between 7am and 9am on any
+  day, while weekends get crowded from 2pm to 10pm. The square currently opens
+  6am–10pm, so an early visit gets you soft light and space for photos.
 faq:
-  - q: "When is the quietest time to visit Putra Square?"
-    a: "Usually between 7am and 9am, on weekdays and weekends alike. Avoid weekend afternoons and evenings: 2pm–10pm is typically the busiest stretch."
-  - q: "What are Putra Square's opening hours?"
-    a: "At the moment the square opens 6am–10pm every day of the week. Hours can change, so check before a late visit. Putra Mosque has its own separate visiting times and closes to tourists during prayers."
-  - q: "How do I get to Putra Square from Kuala Lumpur?"
-    a: "Take the KLIA Transit from KL Sentral to Putrajaya & Cyberjaya station, then a short Grab ride to Presint 1. Or take a Grab directly from the city, about 25km to the north."
-  - q: "How long should I spend there?"
-    a: "Allow 30–45 minutes for the square itself. With Putra Mosque and a walk along Putrajaya Lake, plan for half a day."
-  - q: "Is there a dress code?"
-    a: "The square has no formal rule, but modest clothing is respectful next to the mosque. To enter Putra Mosque, non-Muslim visitors are given robes, women cover their hair, and shoes come off."
+  - q: When is the quietest time to visit Putra Square?
+    a: >-
+      Usually between 7am and 9am, on weekdays and weekends alike. Avoid weekend
+      afternoons and evenings: 2pm–10pm is typically the busiest stretch.
+  - q: What are Putra Square's opening hours?
+    a: >-
+      At the moment the square opens 6am–10pm every day of the week. Hours can
+      change, so check before a late visit. Putra Mosque has its own separate
+      visiting times and closes to tourists during prayers.
+  - q: How do I get to Putra Square from Kuala Lumpur?
+    a: >-
+      Take the KLIA Transit from KL Sentral to Putrajaya & Cyberjaya station,
+      then a short Grab ride to Presint 1. Or take a Grab directly from the
+      city, about 25km to the north.
+  - q: How long should I spend there?
+    a: >-
+      Allow 30–45 minutes for the square itself. With Putra Mosque and a walk
+      along Putrajaya Lake, plan for half a day.
+  - q: Is there a dress code?
+    a: >-
+      The square has no formal rule, but modest clothing is respectful next to
+      the mosque. To enter Putra Mosque, non-Muslim visitors are given robes,
+      women cover their hair, and shoes come off.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-06'
 ---
 
 ## A circle drawn for the camera

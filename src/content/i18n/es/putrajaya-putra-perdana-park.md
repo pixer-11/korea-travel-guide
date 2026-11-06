@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: putrajaya-putra-perdana-park
-srcHash: '8fa2f16fd2ca'
+srcHash: '3a0c0dc71d5a'
 title: 'Parque Putra Perdana: guía de viaje de Putrajaya (4,5★)'
-description: 'El Parque Putra Perdana, en Presint 1, Putrajaya, es una amplia zona verde sobre una colina conocida por su pasarela elevada entre copas de árboles, sus senderos botánicos y sus vistas del recinto gubernamental. 4,5★ (3.378 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'El Parque Putra Perdana, en Presint 1, Putrajaya, es una amplia zona verde sobre una colina conocida por su pasarela elevada entre copas de árboles, sus senderos botánicos y sus vistas del recinto gubernamental. 4,5★ (3.401 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Parque Putra Perdana, en Presint 1, Putrajaya, es una amplia zona verde sobre una colina conocida por su pasarela elevada entre copas de árboles, sus senderos botánicos y sus vistas del recinto gubernamental. Abre todos los días de 10:00 a 24:00, y los fines de semana el momento más tranquilo es entre las 12:00 y las 16:00, mientras que la mayor afluencia se da entre las 18:00 y las 23:00, cuando llegan familias y corredores. Conviene llevar agua y calzado adecuado, ya que los senderos están expuestos al sol y son más accidentados de lo que parece en el mapa.
 faq:
   - q: ¿Cuál es el horario del Parque Putra Perdana?

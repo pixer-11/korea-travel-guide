@@ -1,49 +1,76 @@
 ---
-title: "Cerro de los Siete Colores: Purmamarca Travel Guide (4.8★)"
-description: "Cerro de los Siete Colores is the striped hill directly behind the village of Purmamarca in Jujuy Province's Quebrada de Humahuaca. 4.8★ (1,785 reviews) — what visitors say, hours, and tips."
-country: "Argentina"
-region: "Purmamarca"
-category: "attraction"
-pubDate: "2026-10-26T15:37:41.069Z"
+title: 'Cerro de los Siete Colores: Purmamarca Travel Guide (4.8★)'
+description: >-
+  Cerro de los Siete Colores is the striped hill directly behind the village of
+  Purmamarca in Jujuy Province's Quebrada de Humahuaca. 4.8★ (1,784 reviews) —
+  what visitors say, hours, and tips.
+country: Argentina
+region: Purmamarca
+category: attraction
+pubDate: '2026-10-26T15:37:41.069Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/0/0a/Cerro_de_los_siete_colores.jpg"
-  credit: "Photo: Augusto Sarita / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Cerro_de_los_siete_colores.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/0/0a/Cerro_de_los_siete_colores.jpg
+  credit: 'Photo: Augusto Sarita / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Cerro_de_los_siete_colores.jpg'
   focus:
     x: 45
-    y: 35
+    'y': 35
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Cerro_de_los_Siete_Colores_04.jpg/3840px-Cerro_de_los_Siete_Colores_04.jpg"
-    credit: "Photo: Bernard Gagnon / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Cerro_de_los_Siete_Colores_04.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Cerro_de_los_Siete_Colores_04.jpg/3840px-Cerro_de_los_Siete_Colores_04.jpg
+    credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Cerro_de_los_Siete_Colores_04.jpg'
 place:
-  id: "ChIJKSna3bVJG5QRDUCcv5Lg5xg"
-  name: "Cerro de los Siete Colores"
-  address: "Cerro de los Siete Colores, Y4618 Purmamarca, Jujuy Province, Argentina"
+  id: ChIJKSna3bVJG5QRDUCcv5Lg5xg
+  name: Cerro de los Siete Colores
+  address: 'Cerro de los Siete Colores, Y4618 Purmamarca, Jujuy Province, Argentina'
   rating: 4.8
-  userRatingsTotal: 1785
-  googleMapsUrl: "https://maps.google.com/?cid=1794649897414967309&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  userRatingsTotal: 1784
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1794649897414967309&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   lat: -23.743889
   lng: -65.501111
 tags:
-  - "purmamarca"
-  - "Hill of Seven Colours"
-quickAnswer: "Cerro de los Siete Colores is the striped hill directly behind the village of Purmamarca in Jujuy Province's Quebrada de Humahuaca. The best time to see it is morning, when the sun comes from the east and lights the hill's face. Give it 2–3 hours: climb the small Cerro de la Cruz for the classic view, then walk the Paseo de los Colorados loop around the village."
+  - purmamarca
+  - Hill of Seven Colours
+quickAnswer: >-
+  Cerro de los Siete Colores is the striped hill directly behind the village of
+  Purmamarca in Jujuy Province's Quebrada de Humahuaca. The best time to see it
+  is morning, when the sun comes from the east and lights the hill's face. Give
+  it 2–3 hours: climb the small Cerro de la Cruz for the classic view, then walk
+  the Paseo de los Colorados loop around the village.
 faq:
-  - q: "What time of day is best to see Cerro de los Siete Colores?"
-    a: "Morning. The hill's face points east, so morning sun lights it directly and the colour bands look sharpest. By afternoon the face falls into shade and the colours look flatter."
-  - q: "How do I get to Purmamarca from San Salvador de Jujuy?"
-    a: "Drive about 65 km north on Ruta Nacional 9, then turn west onto Ruta Nacional 52 for the last few kilometres. It takes a little over an hour. Regular buses also run from the San Salvador de Jujuy bus terminal."
-  - q: "How long should I spend there?"
-    a: "Plan 2–3 hours for the Cerro de la Cruz viewpoint, the roughly 3 km Paseo de los Colorados loop and the plaza. Staying overnight lets you catch the early light before the day tours arrive."
-  - q: "Is the altitude a problem?"
-    a: "Purmamarca sits at about 2,300 m, so short climbs can leave you breathless. Walk slowly and drink plenty of water. If you go on to Salinas Grandes, the road over the Cuesta de Lipán climbs above 4,000 m."
-  - q: "What else is near Purmamarca?"
-    a: "Salinas Grandes salt flat lies west on Ruta 52. Tilcara, with its Pucará fortress, and Humahuaca, gateway to the Serranía de Hornocal, are north along Ruta 9 in the Quebrada de Humahuaca."
+  - q: What time of day is best to see Cerro de los Siete Colores?
+    a: >-
+      Morning. The hill's face points east, so morning sun lights it directly
+      and the colour bands look sharpest. By afternoon the face falls into shade
+      and the colours look flatter.
+  - q: How do I get to Purmamarca from San Salvador de Jujuy?
+    a: >-
+      Drive about 65 km north on Ruta Nacional 9, then turn west onto Ruta
+      Nacional 52 for the last few kilometres. It takes a little over an hour.
+      Regular buses also run from the San Salvador de Jujuy bus terminal.
+  - q: How long should I spend there?
+    a: >-
+      Plan 2–3 hours for the Cerro de la Cruz viewpoint, the roughly 3 km Paseo
+      de los Colorados loop and the plaza. Staying overnight lets you catch the
+      early light before the day tours arrive.
+  - q: Is the altitude a problem?
+    a: >-
+      Purmamarca sits at about 2,300 m, so short climbs can leave you
+      breathless. Walk slowly and drink plenty of water. If you go on to Salinas
+      Grandes, the road over the Cuesta de Lipán climbs above 4,000 m.
+  - q: What else is near Purmamarca?
+    a: >-
+      Salinas Grandes salt flat lies west on Ruta 52. Tilcara, with its Pucará
+      fortress, and Humahuaca, gateway to the Serranía de Hornocal, are north
+      along Ruta 9 in the Quebrada de Humahuaca.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-06'
 ---
 
 ## A mountain at the end of the street

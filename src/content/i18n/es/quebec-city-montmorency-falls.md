@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: quebec-city-montmorency-falls
-srcHash: 'b02ee003c326'
+srcHash: '4f846bcbdd62'
 title: 'Cataratas Montmorency: guía de viaje de la ciudad de Quebec (4.7★)'
-description: En el sector de Beauport, a unos 15 minutos en coche al este del Viejo Quebec, el río Montmorency se precipita 83 metros antes de unirse al San Lorenzo. Con una valoración de 4.7★ (38,936 reseñas), le contamos qué opinan los visitantes y le damos horarios y consejos.
+description: En el sector de Beauport, a unos 15 minutos en coche al este del Viejo Quebec, el río Montmorency se precipita 83 metros antes de unirse al San Lorenzo. Con una valoración de 4.7★ (39,082 reseñas), le contamos qué opinan los visitantes y le damos horarios y consejos.
 quickAnswer: Las cataratas Montmorency se encuentran en el sector de Beauport de la ciudad de Quebec, a unos 15 minutos en coche al este del Viejo Quebec. Allí el río Montmorency cae 83 metros antes de desembocar en el San Lorenzo. Actualmente abren de 9am–6pm, y la franja más tranquila, tanto entre semana como en fin de semana, va de 9am–10am. Conviene evitar los fines de semana entre las 11am y las 5pm, cuando se concentra la mayor afluencia.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar las cataratas Montmorency?

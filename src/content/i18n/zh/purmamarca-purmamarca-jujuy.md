@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: purmamarca-purmamarca-jujuy
-srcHash: '5eacc06936a9'
+srcHash: '86b3a2e150f1'
 title: 胡胡伊普尔马马尔卡旅行指南（4.8★）
-description: 普尔马马尔卡是阿根廷乌玛瓦卡峡谷里的一座土坯小村，紧挨着条纹斑斓的七色山（Cerro de los Siete Colores）。评分4.8★（20,660条评价），本文汇总游客评价、开放时间和实用建议。
+description: 普尔马马尔卡是阿根廷乌玛瓦卡峡谷里的一座土坯小村，紧挨着条纹斑斓的七色山（Cerro de los Siete Colores）。评分4.8★（20,796条评价），本文汇总游客评价、开放时间和实用建议。
 quickAnswer: 普尔马马尔卡（Purmamarca）位于阿根廷胡胡伊省的乌玛瓦卡峡谷（Quebrada de Humahuaca），是一座土坯小村，就建在条纹斑斓的七色山（Cerro de los Siete Colores）脚下。建议一早就到，趁阳光还照在山上时去看，然后走一圈红岩步道（Paseo de los Colorados），再到广场上的手工艺品市集逛逛。在这里玩半天就够了。如果还要沿52号公路继续前往大盐沼（Salinas Grandes），不妨在村里住一晚。
 faq:
   - q: 一天中什么时候看七色山最好？

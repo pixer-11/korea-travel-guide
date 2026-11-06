@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: purmamarca-pucara-de-tilcara
-srcHash: 'adc559891fca'
+srcHash: '34c80cc28b0a'
 title: 'Pucará de Tilcara: guía de viaje desde Purmamarca (4.7★)'
-description: En las afueras de Tilcara, a unos 25 km al norte de Purmamarca por la Ruta Nacional 9, en la Quebrada de Humahuaca (Jujuy), se alza el Pucará de Tilcara, un poblado prehispánico en lo alto de un cerro, reconstruido en parte. Con 4.7★ (17,531 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
+description: En las afueras de Tilcara, a unos 25 km al norte de Purmamarca por la Ruta Nacional 9, en la Quebrada de Humahuaca (Jujuy), se alza el Pucará de Tilcara, un poblado prehispánico en lo alto de un cerro, reconstruido en parte. Con 4.7★ (17,578 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
 quickAnswer: En las afueras de Tilcara, a unos 25 km al norte de Purmamarca por la Ruta Nacional 9, en la Quebrada de Humahuaca (Jujuy), se encuentra el Pucará de Tilcara, un poblado prehispánico parcialmente reconstruido sobre un cerro. Actualmente abre de martes a domingo, de 9am a 6:30pm, y permanece cerrado los lunes. Calcule dos horas para recorrer las ruinas y el jardín botánico, y otros 45 minutos para el museo arqueológico de la plaza principal de Tilcara.
 faq:
   - q: ¿Cómo se llega al Pucará de Tilcara desde Purmamarca?

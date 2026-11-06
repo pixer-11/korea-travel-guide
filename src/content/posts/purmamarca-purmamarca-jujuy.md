@@ -1,51 +1,82 @@
 ---
-title: "Purmamarca Jujuy: Travel Guide (4.8★)"
-description: "Purmamarca Jujuy is a small adobe village in Argentina's Quebrada de Humahuaca, built right below the striped Cerro de los Siete Colores (Hill of Seven Colours). 4.8★ (20,660 reviews) — what visitors say, hours, and tips."
-country: "Argentina"
-region: "Purmamarca"
-category: "attraction"
-pubDate: "2026-10-25T13:00:58.670Z"
+title: 'Purmamarca Jujuy: Travel Guide (4.8★)'
+description: >-
+  Purmamarca Jujuy is a small adobe village in Argentina's Quebrada de
+  Humahuaca, built right below the striped Cerro de los Siete Colores (Hill of
+  Seven Colours). 4.8★ (20,796 reviews) — what visitors say, hours, and tips.
+country: Argentina
+region: Purmamarca
+category: attraction
+pubDate: '2026-10-25T13:00:58.670Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/8/86/Jujuy_-_Tumbaya_-_Purmamarca_-_Pueblo_de_Purmamarca.jpg"
-  credit: "Photo: Leandro Kibisz / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Jujuy_-_Tumbaya_-_Purmamarca_-_Pueblo_de_Purmamarca.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/8/86/Jujuy_-_Tumbaya_-_Purmamarca_-_Pueblo_de_Purmamarca.jpg
+  credit: 'Photo: Leandro Kibisz / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Jujuy_-_Tumbaya_-_Purmamarca_-_Pueblo_de_Purmamarca.jpg
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/e/e3/Pueblo_de_Purmamarca_-_Jujuy%2C_Argentina.jpg"
-    credit: "Photo: Banfield / Wikimedia Commons (CC BY-SA 2.5 ar)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Pueblo_de_Purmamarca_-_Jujuy,_Argentina.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/e/e3/Pueblo_de_Purmamarca_-_Jujuy%2C_Argentina.jpg
+    credit: 'Photo: Banfield / Wikimedia Commons (CC BY-SA 2.5 ar)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Pueblo_de_Purmamarca_-_Jujuy,_Argentina.jpg
 place:
-  id: "ChIJC2pcf5tJG5QRn4pfxQI4rhg"
-  name: "Purmamarca Jujuy"
-  address: "Y4618 Purmamarca, Jujuy Province, Argentina"
+  id: ChIJC2pcf5tJG5QRn4pfxQI4rhg
+  name: Purmamarca Jujuy
+  address: 'Y4618 Purmamarca, Jujuy Province, Argentina'
   rating: 4.8
-  userRatingsTotal: 20660
-  googleMapsUrl: "https://maps.google.com/?cid=1778420487410387615&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 20796
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1778420487410387615&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -23.746635899999998
   lng: -65.4992451
 tags:
-  - "purmamarca"
-  - "top attraction"
-quickAnswer: "Purmamarca Jujuy is a small adobe village in Argentina's Quebrada de Humahuaca, built right below the striped Cerro de los Siete Colores (Hill of Seven Colours). Get there early in the day, while the sun is still on the hill, then walk the Paseo de los Colorados loop and browse the artisan market on the plaza. Give it half a day, or stay overnight if you're carrying on up Ruta 52 to the Salinas Grandes salt flats."
+  - purmamarca
+  - top attraction
+quickAnswer: >-
+  Purmamarca Jujuy is a small adobe village in Argentina's Quebrada de
+  Humahuaca, built right below the striped Cerro de los Siete Colores (Hill of
+  Seven Colours). Get there early in the day, while the sun is still on the
+  hill, then walk the Paseo de los Colorados loop and browse the artisan market
+  on the plaza. Give it half a day, or stay overnight if you're carrying on up
+  Ruta 52 to the Salinas Grandes salt flats.
 faq:
-  - q: "What is the best time of day to see the Cerro de los Siete Colores?"
-    a: "Go in the morning. The hill is on the west side of the village, so the morning sun hits its face and brings out the colours. By afternoon it's in shadow and the bands look much duller."
-  - q: "How long should I spend in Purmamarca?"
-    a: "Half a day covers the plaza, the church, the Paseo de los Colorados loop and the Cerro El Porito viewpoint. Staying a night gets you the early light and quiet evening streets. It also helps you adjust before driving up to the Salinas Grandes."
-  - q: "How do I get to Purmamarca from San Salvador de Jujuy?"
-    a: "It's about 65 km north on Ruta Nacional 9, roughly an hour and a quarter by bus from the Jujuy terminal. Tilcara is about 25 km further north if you want to combine the two."
-  - q: "Will the altitude affect me?"
-    a: "Possibly. The village is at about 2,300 m, and the pass on the way to the Salinas Grandes is above 4,000 m. Walk slowly, drink plenty of water, go easy on alcohol, and try the coca tea or leaves sold locally."
-  - q: "When is the best season to visit?"
-    a: "The dry months from April to November bring clear skies and reliable roads, though the nights are cold. Summer, from December to March, brings rain that can cut roads, and Carnival fills the Quebrada with visitors."
+  - q: What is the best time of day to see the Cerro de los Siete Colores?
+    a: >-
+      Go in the morning. The hill is on the west side of the village, so the
+      morning sun hits its face and brings out the colours. By afternoon it's in
+      shadow and the bands look much duller.
+  - q: How long should I spend in Purmamarca?
+    a: >-
+      Half a day covers the plaza, the church, the Paseo de los Colorados loop
+      and the Cerro El Porito viewpoint. Staying a night gets you the early
+      light and quiet evening streets. It also helps you adjust before driving
+      up to the Salinas Grandes.
+  - q: How do I get to Purmamarca from San Salvador de Jujuy?
+    a: >-
+      It's about 65 km north on Ruta Nacional 9, roughly an hour and a quarter
+      by bus from the Jujuy terminal. Tilcara is about 25 km further north if
+      you want to combine the two.
+  - q: Will the altitude affect me?
+    a: >-
+      Possibly. The village is at about 2,300 m, and the pass on the way to the
+      Salinas Grandes is above 4,000 m. Walk slowly, drink plenty of water, go
+      easy on alcohol, and try the coca tea or leaves sold locally.
+  - q: When is the best season to visit?
+    a: >-
+      The dry months from April to November bring clear skies and reliable
+      roads, though the nights are cold. Summer, from December to March, brings
+      rain that can cut roads, and Carnival fills the Quebrada with visitors.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-06'
 ---
 
 Purmamarca's streets are dirt, its walls are adobe, and nearly every one of them ends at a hill striped like a geology textbook. The Cerro de los Siete Colores rises straight behind the village. Its bands of red, ochre, green, purple and cream come from sediment laid down over millions of years and then tilted on end.

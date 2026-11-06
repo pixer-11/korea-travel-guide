@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: quebec-city-l-antiquaire-buffet
-srcHash: '4b757b60a2d8'
+srcHash: '6e4d2778c319'
 title: 'L''Antiquaire Buffet: dónde comer en la ciudad de Quebec (4.5★)'
-description: En el 95 Rue Saint-Paul, en la Ciudad Baja de Quebec y junto al Puerto Viejo, L'Antiquaire Buffet es un veterano restaurante de comida casera que sirve platos abundantes de cocina canadiense clásica y desayunos a cualquier hora. Con 4.5★ (3,892 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
+description: En el 95 Rue Saint-Paul, en la Ciudad Baja de Quebec y junto al Puerto Viejo, L'Antiquaire Buffet es un veterano restaurante de comida casera que sirve platos abundantes de cocina canadiense clásica y desayunos a cualquier hora. Con 4.5★ (3,909 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
 quickAnswer: En el 95 Rue Saint-Paul, en la Ciudad Baja (Basse-Ville) de Quebec y a un paso del Puerto Viejo, L'Antiquaire Buffet lleva muchos años sirviendo platos abundantes de cocina canadiense clásica y desayunos durante toda la jornada. Actualmente abre todos los días de 6am–9pm. La forma más sencilla de conseguir mesa sin esperar es ir a desayunar temprano, antes de que el casco antiguo se llene de gente.
 faq:
   - q: ¿Dónde se encuentra exactamente L'Antiquaire Buffet?

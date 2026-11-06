@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: putrajaya-putra-square
-srcHash: '977fac9e8758'
+srcHash: '82c4f274802c'
 title: 布城广场：布城旅行指南（4.6★）
-description: 布城广场（Dataran Putra）位于布城第1区（Presint 1），是一座圆形礼仪广场，两侧分别是粉色圆顶的布特拉清真寺和首相署（Perdana Putra）。评分4.6★（5,436条评价），本文汇总游客评价、开放时间和游览建议。
+description: 布城广场（Dataran Putra）位于布城第1区（Presint 1），是一座圆形礼仪广场，两侧分别是粉色圆顶的布特拉清真寺和首相署（Perdana Putra）。评分4.6★（5,446条评价），本文汇总游客评价、开放时间和游览建议。
 quickAnswer: 布城广场（Dataran Putra）位于布城第1区（Presint 1），是一座圆形礼仪广场，一边是粉色圆顶的布特拉清真寺，一边是首相办公所在的首相署（Perdana Putra）。不论平日还是周末，早上7点至9点通常最清静；周末下午2点至晚上10点则人潮拥挤。广场目前的开放时间为早上6点–晚上10点。早点去，光线柔和，拍照也不愁没有空间。
 faq:
   - q: 什么时候去布城广场人最少？

@@ -1,59 +1,92 @@
 ---
-title: "Putra Mosque: Putrajaya Travel Guide (4.7★)"
-description: "Putra Mosque in Putrajaya's Precinct 1 is the pink-domed landmark that sits right on the edge of Putrajaya Lake, and it's open to non-Muslim visitors most days from 9am to 6pm (Fridays it only opens 3–6pm for visitors, since midday is prayer time). 4.7★ (24,746 reviews) — what visitors say, hours, and tips."
-country: "Malaysia"
-region: "Putrajaya"
-category: "attraction"
-pubDate: "2026-09-15T07:47:39.104Z"
+title: 'Putra Mosque: Putrajaya Travel Guide (4.7★)'
+description: >-
+  Putra Mosque in Putrajaya's Precinct 1 is the pink-domed landmark that sits
+  right on the edge of Putrajaya Lake, and it's open to non-Muslim visitors most
+  days from 9am to 6pm (Fridays it only opens 3–6pm for visitors, since midday
+  is prayer time). 4.7★ (25,153 reviews) — what visitors say, hours, and tips.
+country: Malaysia
+region: Putrajaya
+category: attraction
+pubDate: '2026-09-15T07:47:39.104Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Masjid_Putra%2C_Putrajaya%2C_Malaysia.jpg/1920px-Masjid_Putra%2C_Putrajaya%2C_Malaysia.jpg"
-  credit: "Photo: iPhone / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Masjid_Putra,_Putrajaya,_Malaysia.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Masjid_Putra%2C_Putrajaya%2C_Malaysia.jpg/1920px-Masjid_Putra%2C_Putrajaya%2C_Malaysia.jpg
+  credit: 'Photo: iPhone / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Masjid_Putra,_Putrajaya,_Malaysia.jpg
   focus:
     x: 55
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Putrajaya_Malaysia_Putra-Mosque-06.jpg/3840px-Putrajaya_Malaysia_Putra-Mosque-06.jpg"
-    credit: "Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Putra-Mosque-06.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Putrajaya_Malaysia_Putra-Mosque-06.jpg/3840px-Putrajaya_Malaysia_Putra-Mosque-06.jpg
+    credit: 'Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Putra-Mosque-06.jpg
 place:
-  id: "ChIJXW0EGBi2zTERiKBASs5S8lM"
-  name: "Putra Mosque"
-  address: "Persiaran Persekutuan, Presint 1, 62502 Putrajaya, Wilayah Persekutuan Putrajaya, Malaysia"
+  id: ChIJXW0EGBi2zTERiKBASs5S8lM
+  name: Putra Mosque
+  address: >-
+    Persiaran Persekutuan, Presint 1, 62502 Putrajaya, Wilayah Persekutuan
+    Putrajaya, Malaysia
   rating: 4.7
-  userRatingsTotal: 24746
-  googleMapsUrl: "https://maps.google.com/?cid=6048988295474487432&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 25153
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6048988295474487432&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 2.9360702
   lng: 101.68921300000001
-  phone: "+60 3-8888 5678"
+  phone: +60 3-8888 5678
   openingHours:
-    - "Monday: 9:00 AM – 6:00 PM"
-    - "Tuesday: 9:00 AM – 6:00 PM"
-    - "Wednesday: 9:00 AM – 6:00 PM"
-    - "Thursday: 9:00 AM – 6:00 PM"
-    - "Friday: 3:00 – 6:00 PM"
-    - "Saturday: 9:00 AM – 6:00 PM"
-    - "Sunday: 9:00 AM – 6:00 PM"
+    - 'Monday: 9:00 AM – 6:00 PM'
+    - 'Tuesday: 9:00 AM – 6:00 PM'
+    - 'Wednesday: 9:00 AM – 6:00 PM'
+    - 'Thursday: 9:00 AM – 6:00 PM'
+    - 'Friday: 3:00 – 6:00 PM'
+    - 'Saturday: 9:00 AM – 6:00 PM'
+    - 'Sunday: 9:00 AM – 6:00 PM'
 tags:
-  - "putrajaya"
-  - "historic site"
-quickAnswer: "Putra Mosque in Putrajaya's Precinct 1 is the pink-domed landmark that sits right on the edge of Putrajaya Lake, and it's open to non-Muslim visitors most days from 9am to 6pm (Fridays it only opens 3–6pm for visitors, since midday is prayer time). It's a very popular stop on any Putrajaya day trip, so arrive as close to opening as you can to get the courtyard and lakefront views without the tour-bus crush. Bring a scarf or borrow one of the provided robes, since modest dress covering arms, legs and hair is required inside."
+  - putrajaya
+  - historic site
+quickAnswer: >-
+  Putra Mosque in Putrajaya's Precinct 1 is the pink-domed landmark that sits
+  right on the edge of Putrajaya Lake, and it's open to non-Muslim visitors most
+  days from 9am to 6pm (Fridays it only opens 3–6pm for visitors, since midday
+  is prayer time). It's a very popular stop on any Putrajaya day trip, so arrive
+  as close to opening as you can to get the courtyard and lakefront views
+  without the tour-bus crush. Bring a scarf or borrow one of the provided robes,
+  since modest dress covering arms, legs and hair is required inside.
 faq:
-  - q: "What are Putra Mosque's visiting hours?"
-    a: "9am–6pm Monday through Thursday and Saturday–Sunday. On Fridays it's open to visitors only 3pm–6pm, since the morning is reserved for Friday prayers."
-  - q: "Do I need to dress a certain way?"
-    a: "Yes. Shoulders, arms, legs and (for women) hair need to be covered. Free purple robes and headscarves are provided at the entrance if you arrive underdressed."
-  - q: "How do I get to Putra Mosque without a car?"
-    a: "Take KLIA Transit or a bus to Putrajaya Sentral, then it's a short walk or a quick local ride to Precinct 1 where the mosque sits on the lakefront."
-  - q: "How long should I plan for a visit?"
-    a: "Around 45 minutes to an hour for the mosque itself, plus extra time if you want to walk the lakefront promenade or photograph the Putra Bridge nearby."
-  - q: "When is it least crowded?"
-    a: "It's a very popular stop on Putrajaya itineraries, so weekend middays bring tour groups. Arriving right at 9am opening or in the last couple of hours before 6pm closing is your best bet for a quieter visit."
+  - q: What are Putra Mosque's visiting hours?
+    a: >-
+      9am–6pm Monday through Thursday and Saturday–Sunday. On Fridays it's open
+      to visitors only 3pm–6pm, since the morning is reserved for Friday
+      prayers.
+  - q: Do I need to dress a certain way?
+    a: >-
+      Yes. Shoulders, arms, legs and (for women) hair need to be covered. Free
+      purple robes and headscarves are provided at the entrance if you arrive
+      underdressed.
+  - q: How do I get to Putra Mosque without a car?
+    a: >-
+      Take KLIA Transit or a bus to Putrajaya Sentral, then it's a short walk or
+      a quick local ride to Precinct 1 where the mosque sits on the lakefront.
+  - q: How long should I plan for a visit?
+    a: >-
+      Around 45 minutes to an hour for the mosque itself, plus extra time if you
+      want to walk the lakefront promenade or photograph the Putra Bridge
+      nearby.
+  - q: When is it least crowded?
+    a: >-
+      It's a very popular stop on Putrajaya itineraries, so weekend middays
+      bring tour groups. Arriving right at 9am opening or in the last couple of
+      hours before 6pm closing is your best bet for a quieter visit.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-06'
 ---
 
 Rose-coloured concrete rather than pink marble, that's the first surprise about Putra Mosque's famous dome. It's cast to look like the pink granite used in Iran's great mosques, and from across Putrajaya Lake in late afternoon light it genuinely does glow. The whole structure sits on a platform jutting into the water next to the Perdana Putra administrative complex, so the dome, the lake and the pink minaret line up in almost every photo taken from the promenade.

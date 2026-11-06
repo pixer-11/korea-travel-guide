@@ -1,41 +1,52 @@
 ---
-title: "Seri Wawasan Bridge: Putrajaya Travel Guide (4.5★)"
-description: "Seri Wawasan Bridge is a striking single-pylon, asymmetrical span over Putrajaya Lake in Presint 8, best seen at dusk when its lights shift color and the pylon's cables catch the last sun. 4.5★ (2,948 reviews) — what visitors say, hours, and tips."
-country: "Malaysia"
-region: "Putrajaya"
-category: "attraction"
-pubDate: "2026-08-11T09:03:47.735Z"
+title: 'Seri Wawasan Bridge: Putrajaya Travel Guide (4.5★)'
+description: >-
+  Seri Wawasan Bridge is a striking single-pylon, asymmetrical span over
+  Putrajaya Lake in Presint 8, best seen at dusk when its lights shift color and
+  the pylon's cables catch the last sun. 4.5★ (2,973 reviews) — what visitors
+  say, hours, and tips.
+country: Malaysia
+region: Putrajaya
+category: attraction
+pubDate: '2026-08-11T09:03:47.735Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Jambatan_Seri_Wawasan_4493633704_3cbff54de1.jpg/1920px-Jambatan_Seri_Wawasan_4493633704_3cbff54de1.jpg"
-  credit: "Photo: notsogoodphotography / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Jambatan_Seri_Wawasan_4493633704_3cbff54de1.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Jambatan_Seri_Wawasan_4493633704_3cbff54de1.jpg/1920px-Jambatan_Seri_Wawasan_4493633704_3cbff54de1.jpg
+  credit: 'Photo: notsogoodphotography / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Jambatan_Seri_Wawasan_4493633704_3cbff54de1.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg/3840px-Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg"
-    credit: "Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg/3840px-Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg
+    credit: 'Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg
 place:
-  id: "ChIJ3-8Ofzi2zTEREFJMGL3FNO0"
-  name: "Seri Wawasan Bridge"
-  address: "Lebuh Wawasan, Presint 8, 62100 Putrajaya, Wilayah Persekutuan Putrajaya, Malaysia"
+  id: ChIJ3-8Ofzi2zTEREFJMGL3FNO0
+  name: Seri Wawasan Bridge
+  address: >-
+    Lebuh Wawasan, Presint 8, 62100 Putrajaya, Wilayah Persekutuan Putrajaya,
+    Malaysia
   rating: 4.5
-  userRatingsTotal: 2948
-  googleMapsUrl: "https://maps.google.com/?cid=17092503901725020688&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2973
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=17092503901725020688&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 2.9280217
   lng: 101.6841888
-  phone: "+60 3-8000 8000"
+  phone: +60 3-8000 8000
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-08-11
+    updated: 2026-08-11T00:00:00.000Z
     weekdayQuiet:
       - 7
     weekdayBusy:
@@ -47,24 +58,41 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_304f4e46334c474d4a46455245547a32697a664f382d334a496843"
+    venueId: ven_304f4e46334c474d4a46455245547a32697a664f382d334a496843
 tags:
-  - "putrajaya"
-  - "top attraction"
-quickAnswer: "Seri Wawasan Bridge is a striking single-pylon, asymmetrical span over Putrajaya Lake in Presint 8, best seen at dusk when its lights shift color and the pylon's cables catch the last sun. It's open 24 hours, free to visit, and calmest on weekdays between 7am and 8am — avoid weekend evenings from 5pm to 11pm when crowds peak."
+  - putrajaya
+  - top attraction
+quickAnswer: >-
+  Seri Wawasan Bridge is a striking single-pylon, asymmetrical span over
+  Putrajaya Lake in Presint 8, best seen at dusk when its lights shift color and
+  the pylon's cables catch the last sun. It's open 24 hours, free to visit, and
+  calmest on weekdays between 7am and 8am — avoid weekend evenings from 5pm to
+  11pm when crowds peak.
 faq:
-  - q: "How do I get to Seri Wawasan Bridge without a car?"
-    a: "There's no direct public transit stop at the bridge. The nearest transit hub is Putrajaya Sentral, about 15-20 minutes away by taxi or Grab."
-  - q: "Is there an entrance fee?"
-    a: "No, the bridge is a free public pedestrian walkway open 24 hours, with no ticket booth or gate."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday mornings between 7am and 8am see the fewest visitors. Weekend evenings from 5pm to 11pm are the busiest, so avoid that window if you want space to yourself."
-  - q: "What's the best time for photos?"
-    a: "Around sunset, roughly 7pm to 7:30pm, when daylight fades just as the bridge's color-changing lights switch on."
-  - q: "How long should I spend here?"
-    a: "Most visitors spend 30-45 minutes walking the span and taking photos; longer if you linger for the evening light display."
+  - q: How do I get to Seri Wawasan Bridge without a car?
+    a: >-
+      There's no direct public transit stop at the bridge. The nearest transit
+      hub is Putrajaya Sentral, about 15-20 minutes away by taxi or Grab.
+  - q: Is there an entrance fee?
+    a: >-
+      No, the bridge is a free public pedestrian walkway open 24 hours, with no
+      ticket booth or gate.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekday mornings between 7am and 8am see the fewest visitors. Weekend
+      evenings from 5pm to 11pm are the busiest, so avoid that window if you
+      want space to yourself.
+  - q: What's the best time for photos?
+    a: >-
+      Around sunset, roughly 7pm to 7:30pm, when daylight fades just as the
+      bridge's color-changing lights switch on.
+  - q: How long should I spend here?
+    a: >-
+      Most visitors spend 30-45 minutes walking the span and taking photos;
+      longer if you linger for the evening light display.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-06'
 ---
 
 ## Why go

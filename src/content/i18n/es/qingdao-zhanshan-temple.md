@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: qingdao-zhanshan-temple
-srcHash: 'b8a2a1bbe46e'
+srcHash: '4a188be4a065'
 title: 'Templo Zhanshan: guía de viaje de Qingdao'
 description: El templo Zhanshan se encuentra en Zhi Quan Lu, en el distrito de Shinan, Qingdao, en las laderas bajas del monte Zhan Shan, cerca de la Torre de Televisión de Qingdao.
 quickAnswer: El templo Zhanshan se encuentra en Zhi Quan Lu, en el distrito de Shinan, Qingdao, en las laderas bajas del monte Zhan Shan, cerca de la Torre de Televisión de Qingdao. Se trata de un templo budista en activo, construido en 1945, que todavía no forma parte del circuito turístico masivo, por lo que la visita suele ser tranquila y sin aglomeraciones. Conviene reservar entre 45 minutos y una hora, preferiblemente por la mañana, antes de que los incensarios se llenen de fieles habituales.
@@ -22,7 +22,7 @@ faq:
 
 El templo Zhanshan data de 1945, lo que lo convierte en relativamente moderno para los estándares de los templos chinos, aunque no por ello deja de ser un monasterio en pleno funcionamiento y no una reconstrucción pensada para turistas. El conjunto asciende por la base del monte Zhan Shan, en el distrito de Shinan, con una estupa, un campanario, un salón de Buda y varios salones de oración distribuidos en terrazas escalonadas.
 
-Monjes y fieles laicos utilizan a diario estos espacios, por lo que, según la hora, es posible escuchar cánticos o percibir el humo del incienso. Cuenta con una sólida valoración de 4,4 por parte de los visitantes, pese a mantenerse bastante al margen de la ruta turística habitual de Qingdao.
+Monjes y fieles laicos utilizan a diario estos espacios, por lo que, según la hora, es posible escuchar cánticos o percibir el humo del incienso. Cuenta con una sólida valoración de 4,5 por parte de los visitantes, pese a mantenerse bastante al margen de la ruta turística habitual de Qingdao.
 
 ## Cómo llegar y acceder
 

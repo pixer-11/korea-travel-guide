@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: quebec-city-fairmont-le-chateau-frontenac
-srcHash: '911b9ba6a8fa'
+srcHash: 'c34faae7808b'
 title: 'Fairmont Le Château Frontenac: guía de viaje de la ciudad de Quebec'
-description: En el Viejo Quebec, al borde del acantilado de la Alta Ciudad, se alza el Fairmont Le Château Frontenac, en el 1 Rue des Carrières, junto a la Place d'Armes y la terraza Dufferin. Con 4.7★ (27,652 reseñas), le contamos qué opinan los visitantes, los horarios y algunos consejos.
+description: En el Viejo Quebec, al borde del acantilado de la Alta Ciudad, se alza el Fairmont Le Château Frontenac, en el 1 Rue des Carrières, junto a la Place d'Armes y la terraza Dufferin. Con 4.7★ (27,751 reseñas), le contamos qué opinan los visitantes, los horarios y algunos consejos.
 quickAnswer: El Fairmont Le Château Frontenac corona el acantilado de la Alta Ciudad (Haute-Ville), en pleno Viejo Quebec. Se encuentra en el 1 Rue des Carrières, junto a la Place d'Armes y la terraza Dufferin. Aunque no se aloje en él, puede pasear por la terraza, recorrer las zonas comunes y comer en sus restaurantes. Las mejores fotos se consiguen desde la Baja Ciudad (Basse-Ville) o a bordo del ferri Québec–Lévis. Calcule entre una y dos horas de visita y llegue temprano por la mañana si quiere disfrutar de la terraza antes que los grupos organizados.
 faq:
   - q: ¿Se puede visitar Le Château Frontenac sin estar alojado en él?

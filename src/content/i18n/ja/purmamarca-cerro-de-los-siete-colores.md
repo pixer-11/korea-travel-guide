@@ -1,9 +1,9 @@
 ---
 lang: ja
 slug: purmamarca-cerro-de-los-siete-colores
-srcHash: '80df056d4fe0'
+srcHash: '72e2c19d3930'
 title: 七色の丘（Cerro de los Siete Colores）：プルママルカ旅行ガイド（4.8★）
-description: 七色の丘は、フフイ州ウマワカ渓谷にあるプルママルカ村のすぐ裏手にそびえる縞模様の丘です。評価は4.8★（1,785件の口コミ）。訪れた人の声や見学時間、旅のヒントをまとめました。
+description: 七色の丘は、フフイ州ウマワカ渓谷にあるプルママルカ村のすぐ裏手にそびえる縞模様の丘です。評価は4.8★（1,784件の口コミ）。訪れた人の声や見学時間、旅のヒントをまとめました。
 quickAnswer: 七色の丘（Cerro de los Siete Colores）は、フフイ州ウマワカ渓谷（Quebrada de Humahuaca）にあるプルママルカ（Purmamarca）村のすぐ裏手にそびえる縞模様の丘です。おすすめの時間帯は朝です。東から昇る太陽が丘の斜面を正面から照らします。所要時間は2〜3時間を見ておきましょう。まず小さな十字架の丘（Cerro de la Cruz）に登って定番の眺めを楽しみ、そのあと村を囲む周遊路パセオ・デ・ロス・コロラドス（Paseo de los Colorados）を歩くのがおすすめです。
 faq:
   - q: 七色の丘を見るのにいちばんよい時間帯はいつですか？

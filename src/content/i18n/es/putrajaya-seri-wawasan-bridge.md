@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: putrajaya-seri-wawasan-bridge
-srcHash: '3618862e0154'
+srcHash: '50da75a82244'
 title: 'Puente Seri Wawasan: Guía de viaje de Putrajaya (4.5★)'
-description: 'Con su único pilón y su tramo asimétrico sobre el lago de Putrajaya, en Presint 8, el puente Seri Wawasan luce mejor al atardecer, cuando las luces cambian de color y los cables del pilón capturan los últimos rayos de sol. 4.5★ (2,948 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'Con su único pilón y su tramo asimétrico sobre el lago de Putrajaya, en Presint 8, el puente Seri Wawasan luce mejor al atardecer, cuando las luces cambian de color y los cables del pilón capturan los últimos rayos de sol. 4.5★ (2,973 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Con su único pilón y su tramo asimétrico sobre el lago de Putrajaya, en Presint 8, el puente Seri Wawasan luce mejor al atardecer, cuando las luces cambian de color y los cables del pilón capturan los últimos rayos de sol. Está abierto las 24 horas, la entrada es gratuita, y el momento más tranquilo para visitarlo es entre semana de 7:00 a 8:00 a. m. Conviene evitar las tardes de fin de semana, de 5:00 a 11:00 p. m., cuando se concentra la mayor afluencia.
 faq:
   - q: ¿Cómo llego al puente Seri Wawasan sin auto?

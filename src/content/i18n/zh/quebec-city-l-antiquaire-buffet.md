@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: quebec-city-l-antiquaire-buffet
-srcHash: '4b757b60a2d8'
+srcHash: '6e4d2778c319'
 title: L'Antiquaire Buffet：魁北克城吃什么（4.5★）
-description: L'Antiquaire Buffet是魁北克城下城的一家老字号小餐馆，地址为95 Rue Saint-Paul，紧邻老港。这里的经典加拿大菜分量十足，早餐全天供应。评分4.5★（3,892条评价），本文汇总食客评价、营业时间和实用贴士。
+description: L'Antiquaire Buffet是魁北克城下城的一家老字号小餐馆，地址为95 Rue Saint-Paul，紧邻老港。这里的经典加拿大菜分量十足，早餐全天供应。评分4.5★（3,909条评价），本文汇总食客评价、营业时间和实用贴士。
 quickAnswer: L'Antiquaire Buffet是一家开了多年的小餐馆，位于魁北克城下城的95 Rue Saint-Paul，离老港不远。经典加拿大菜分量十足，早餐从早供应到晚。目前每天早上6点至晚上9点营业。想不排队就有位子，最省事的办法是赶在老城游客涌来之前早点去吃早餐。
 faq:
   - q: L'Antiquaire Buffet具体在哪里？

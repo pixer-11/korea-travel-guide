@@ -1,55 +1,84 @@
 ---
-title: "Pucará de Tilcara: Purmamarca Travel Guide (4.7★)"
-description: "Pucará de Tilcara is a partly rebuilt pre-Hispanic hilltop town on the edge of Tilcara, about 25 km north of Purmamarca on Ruta Nacional 9 in Jujuy's Quebrada de Humahuaca. 4.7★ (17,531 reviews) — what visitors say, hours, and tips."
-country: "Argentina"
-region: "Purmamarca"
-category: "attraction"
-pubDate: "2026-10-27T07:54:43.547Z"
+title: 'Pucará de Tilcara: Purmamarca Travel Guide (4.7★)'
+description: >-
+  Pucará de Tilcara is a partly rebuilt pre-Hispanic hilltop town on the edge of
+  Tilcara, about 25 km north of Purmamarca on Ruta Nacional 9 in Jujuy's
+  Quebrada de Humahuaca. 4.7★ (17,578 reviews) — what visitors say, hours, and
+  tips.
+country: Argentina
+region: Purmamarca
+category: attraction
+pubDate: '2026-10-27T07:54:43.547Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/6/69/Pucar%C3%A1_de_Tilcara_01.JPG"
-  credit: "Photo: Wikimedia Commons contributor / Wikimedia Commons (Public domain)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Pucar%C3%A1_de_Tilcara_01.JPG"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/6/69/Pucar%C3%A1_de_Tilcara_01.JPG
+  credit: 'Photo: Wikimedia Commons contributor / Wikimedia Commons (Public domain)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Pucar%C3%A1_de_Tilcara_01.JPG'
   focus:
     x: 40
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJBdnyvkfLBJQRatyxD0Jgnqo"
-  name: "Pucará de Tilcara"
-  address: "Y4624 Tilcara, Jujuy Province, Argentina"
+  id: ChIJBdnyvkfLBJQRatyxD0Jgnqo
+  name: Pucará de Tilcara
+  address: 'Y4624 Tilcara, Jujuy Province, Argentina'
   rating: 4.7
-  userRatingsTotal: 17531
-  googleMapsUrl: "https://maps.google.com/?cid=12294369869615455338&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 17578
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=12294369869615455338&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -23.585989299999998
   lng: -65.4036763
-  phone: "+54 388 422-1325"
+  phone: +54 388 422-1325
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 9:00 AM – 6:30 PM"
-    - "Wednesday: 9:00 AM – 6:30 PM"
-    - "Thursday: 9:00 AM – 6:30 PM"
-    - "Friday: 9:00 AM – 6:30 PM"
-    - "Saturday: 9:00 AM – 6:30 PM"
-    - "Sunday: 9:00 AM – 6:30 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 9:00 AM – 6:30 PM'
+    - 'Wednesday: 9:00 AM – 6:30 PM'
+    - 'Thursday: 9:00 AM – 6:30 PM'
+    - 'Friday: 9:00 AM – 6:30 PM'
+    - 'Saturday: 9:00 AM – 6:30 PM'
+    - 'Sunday: 9:00 AM – 6:30 PM'
 tags:
-  - "purmamarca"
-  - "museum"
-quickAnswer: "Pucará de Tilcara is a partly rebuilt pre-Hispanic hilltop town on the edge of Tilcara, about 25 km north of Purmamarca on Ruta Nacional 9 in Jujuy's Quebrada de Humahuaca. It currently opens Tuesday to Sunday, 9am–6:30pm, and is closed Mondays. Allow two hours for the ruins and the botanical garden, and another 45 minutes for the archaeological museum on Tilcara's main plaza."
+  - purmamarca
+  - museum
+quickAnswer: >-
+  Pucará de Tilcara is a partly rebuilt pre-Hispanic hilltop town on the edge of
+  Tilcara, about 25 km north of Purmamarca on Ruta Nacional 9 in Jujuy's
+  Quebrada de Humahuaca. It currently opens Tuesday to Sunday, 9am–6:30pm, and
+  is closed Mondays. Allow two hours for the ruins and the botanical garden, and
+  another 45 minutes for the archaeological museum on Tilcara's main plaza.
 faq:
-  - q: "How do I get to Pucará de Tilcara from Purmamarca?"
-    a: "Drive or take a regional bus about 25 km north on Ruta Nacional 9 to Tilcara, roughly half an hour. From the town centre it's about a 1 km walk: cross the bridge over the Río Huasamayo and follow the road uphill to the entrance."
-  - q: "Is Pucará de Tilcara open on Mondays?"
-    a: "No. It is currently closed on Mondays and opens 9am–6:30pm from Tuesday to Sunday. Hours can change with the season and on holidays, so check the official page before you go."
-  - q: "How long should I spend there?"
-    a: "Allow 1.5–2 hours to walk the ruins, the summit monument and the botanical garden, then around 45 minutes for the archaeological museum on Tilcara's plaza."
-  - q: "When is the best time to visit?"
-    a: "Arrive soon after 9am. You'll usually get there before the day-tour vans, and between December and March you'll be down before the afternoon storms start. In the dry winter months the skies are clear, but bring a layer for the wind on top."
-  - q: "Is the altitude a problem?"
-    a: "Tilcara is at about 2,460 m and the site involves climbing uphill on gravel. Walk slowly, drink water and take sun protection, because there's very little shade."
+  - q: How do I get to Pucará de Tilcara from Purmamarca?
+    a: >-
+      Drive or take a regional bus about 25 km north on Ruta Nacional 9 to
+      Tilcara, roughly half an hour. From the town centre it's about a 1 km
+      walk: cross the bridge over the Río Huasamayo and follow the road uphill
+      to the entrance.
+  - q: Is Pucará de Tilcara open on Mondays?
+    a: >-
+      No. It is currently closed on Mondays and opens 9am–6:30pm from Tuesday to
+      Sunday. Hours can change with the season and on holidays, so check the
+      official page before you go.
+  - q: How long should I spend there?
+    a: >-
+      Allow 1.5–2 hours to walk the ruins, the summit monument and the botanical
+      garden, then around 45 minutes for the archaeological museum on Tilcara's
+      plaza.
+  - q: When is the best time to visit?
+    a: >-
+      Arrive soon after 9am. You'll usually get there before the day-tour vans,
+      and between December and March you'll be down before the afternoon storms
+      start. In the dry winter months the skies are clear, but bring a layer for
+      the wind on top.
+  - q: Is the altitude a problem?
+    a: >-
+      Tilcara is at about 2,460 m and the site involves climbing uphill on
+      gravel. Walk slowly, drink water and take sun protection, because there's
+      very little shade.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-06'
 ---
 
 ## A town of stone above the river
