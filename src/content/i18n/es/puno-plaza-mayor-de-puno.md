@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: puno-plaza-mayor-de-puno
-srcHash: 'fc38ab518028'
+srcHash: 'b0a4da812703'
 title: 'Plaza Mayor de Puno: guía de viaje (4.4★)'
-description: 'La Plaza Mayor de Puno, conocida también como Plaza de Armas, es el corazón del centro de Puno (Perú). La rodean la catedral y varias casonas coloniales, a unos 3.800 metros de altitud. 4.4★ (10.738 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'La Plaza Mayor de Puno, conocida también como Plaza de Armas, es el corazón del centro de Puno (Perú). La rodean la catedral y varias casonas coloniales, a unos 3.800 metros de altitud. 4.4★ (10.758 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: La Plaza Mayor de Puno, a la que muchos llaman Plaza de Armas, es la plaza principal del centro de Puno (Perú). La enmarcan la catedral y varias casonas coloniales, a unos 3.800 metros sobre el nivel del mar. Al tratarse de un espacio público, puede visitarse a cualquier hora. Bastan entre 30 y 60 minutos para recorrerla, siempre a paso lento por la altitud. El Jirón Lima, el Balcón del Conde de Lemos y el Cerro Huajsapata quedan a pocos minutos a pie.
 faq:
   - q: ¿La Plaza Mayor de Puno y la Plaza de Armas son el mismo lugar?

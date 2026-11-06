@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: puerto-vallarta-los-arcos
-srcHash: '85059c98287e'
+srcHash: '031900b245a7'
 title: 'Los Arcos: guía de viaje de Puerto Vallarta (4.7★)'
-description: En pleno Malecón del Centro de Puerto Vallarta se alinean cuatro arcos de piedra, con un anfiteatro al aire libre que mira a la bahía de Banderas. Con 4.7★ (6,010 reseñas), aquí encontrará la opinión de los visitantes, los horarios y algunos consejos.
+description: En pleno Malecón del Centro de Puerto Vallarta se alinean cuatro arcos de piedra, con un anfiteatro al aire libre que mira a la bahía de Banderas. Con 4.7★ (6,044 reseñas), aquí encontrará la opinión de los visitantes, los horarios y algunos consejos.
 quickAnswer: Los Arcos son cuatro arcos de piedra alineados en el Malecón del Centro de Puerto Vallarta, junto a un anfiteatro al aire libre que mira a la bahía de Banderas. Se puede acceder a ellos gratuitamente a cualquier hora, ya que el lugar abre las 24 horas. El mejor momento para ir es la última hora de luz, cuando el sol se hunde en la bahía detrás de los arcos.
 faq:
   - q: ¿Los Arcos de Puerto Vallarta están abiertos por la noche?

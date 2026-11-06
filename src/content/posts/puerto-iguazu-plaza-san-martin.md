@@ -1,59 +1,90 @@
 ---
-title: "Plaza San Martin: Puerto Iguazu Travel Guide (4.3★)"
-description: "Plaza San Martin sits on Avenida Victoria Aguirre, the main road through central Puerto Iguazu, and Google currently lists it as open 24 hours. 4.3★ (3,734 reviews) — what visitors say, hours, and tips."
-country: "Argentina"
-region: "Puerto Iguazu"
-category: "hidden-gem"
-pubDate: "2026-10-28T08:21:23.168Z"
+title: 'Plaza San Martin: Puerto Iguazu Travel Guide (4.3★)'
+description: >-
+  Plaza San Martin sits on Avenida Victoria Aguirre, the main road through
+  central Puerto Iguazu, and Google currently lists it as open 24 hours. 4.3★
+  (3,736 reviews) — what visitors say, hours, and tips.
+country: Argentina
+region: Puerto Iguazu
+category: hidden-gem
+pubDate: '2026-10-28T08:21:23.168Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Obelisco_en_Plaza_San_Mart%C3%ADn_en_Puerto_Iguaz%C3%BA_%28Provincia_de_Misiones%2C_Argentina%29.jpg/3840px-Obelisco_en_Plaza_San_Mart%C3%ADn_en_Puerto_Iguaz%C3%BA_%28Provincia_de_Misiones%2C_Argentina%29.jpg"
-  credit: "Photo: Horacio Cambeiro / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Obelisco_en_Plaza_San_Mart%C3%ADn_en_Puerto_Iguaz%C3%BA_(Provincia_de_Misiones,_Argentina).jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Obelisco_en_Plaza_San_Mart%C3%ADn_en_Puerto_Iguaz%C3%BA_%28Provincia_de_Misiones%2C_Argentina%29.jpg/3840px-Obelisco_en_Plaza_San_Mart%C3%ADn_en_Puerto_Iguaz%C3%BA_%28Provincia_de_Misiones%2C_Argentina%29.jpg
+  credit: 'Photo: Horacio Cambeiro / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Obelisco_en_Plaza_San_Mart%C3%ADn_en_Puerto_Iguaz%C3%BA_(Provincia_de_Misiones,_Argentina).jpg
+  via: act
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Plaza_San_Mart%C3%ADn_en_Puerto_Iguaz%C3%BA%2C_Provincia_de_Misiones%2C_Argentina.jpg/3840px-Plaza_San_Mart%C3%ADn_en_Puerto_Iguaz%C3%BA%2C_Provincia_de_Misiones%2C_Argentina.jpg"
-    credit: "Photo: Horacio Cambeiro / Wikimedia Commons (CC BY 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Plaza_San_Mart%C3%ADn_en_Puerto_Iguaz%C3%BA,_Provincia_de_Misiones,_Argentina.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Plaza_San_Mart%C3%ADn_en_Puerto_Iguaz%C3%BA%2C_Provincia_de_Misiones%2C_Argentina.jpg/3840px-Plaza_San_Mart%C3%ADn_en_Puerto_Iguaz%C3%BA%2C_Provincia_de_Misiones%2C_Argentina.jpg
+    credit: 'Photo: Horacio Cambeiro / Wikimedia Commons (CC BY 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Plaza_San_Mart%C3%ADn_en_Puerto_Iguaz%C3%BA,_Provincia_de_Misiones,_Argentina.jpg
 place:
-  id: "ChIJR_zHfTqS9pQRk0y2piBH25E"
-  name: "Plaza San Martin"
-  address: "Av. Victoria Aguirre 201-249, N3370 Puerto Iguazú, Misiones, Argentina"
+  id: ChIJR_zHfTqS9pQRk0y2piBH25E
+  name: Plaza San Martin
+  address: 'Av. Victoria Aguirre 201-249, N3370 Puerto Iguazú, Misiones, Argentina'
   rating: 4.3
-  userRatingsTotal: 3734
-  googleMapsUrl: "https://maps.google.com/?cid=10510072360960674963&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 3736
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10510072360960674963&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -25.597196699999998
   lng: -54.5771102
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "puerto iguazu"
-  - "local market"
-quickAnswer: "Plaza San Martin sits on Avenida Victoria Aguirre, the main road through central Puerto Iguazu, and Google currently lists it as open 24 hours. It's a public town square with benches and shade, not a sight in its own right. Use it as a 20–40 minute pause between the bus terminal, the town's restaurants and the walk to the Hito Tres Fronteras. Late afternoon and early evening are the best times to go, once the subtropical heat drops."
+  - puerto iguazu
+  - local market
+quickAnswer: >-
+  Plaza San Martin sits on Avenida Victoria Aguirre, the main road through
+  central Puerto Iguazu, and Google currently lists it as open 24 hours. It's a
+  public town square with benches and shade, not a sight in its own right. Use
+  it as a 20–40 minute pause between the bus terminal, the town's restaurants
+  and the walk to the Hito Tres Fronteras. Late afternoon and early evening are
+  the best times to go, once the subtropical heat drops.
 faq:
-  - q: "Where exactly is Plaza San Martin in Puerto Iguazu?"
-    a: "It's at Av. Victoria Aguirre 201-249, on the town's main avenue in central Puerto Iguazu. It's a few blocks from the bus terminal and surrounded by the main shopping and restaurant streets."
-  - q: "Is Plaza San Martin open at night?"
-    a: "Google currently lists it as open 24 hours, and it's a public square with no gate. The surrounding streets are the busiest part of town in the evening. Still, stay in the lit areas late at night."
-  - q: "How long should I spend at Plaza San Martin?"
-    a: "About 20–40 minutes. It works best as a shaded rest between the bus terminal, dinner and the walk to the Hito Tres Fronteras, not as a sight on its own."
-  - q: "What is the best time of day to visit?"
-    a: "Late afternoon into early evening, once the subtropical heat eases and shops reopen after the midday break. Early afternoon in summer is hot and the surrounding streets are quiet."
-  - q: "What can I walk to from the plaza?"
-    a: "The Hito Tres Fronteras, where Argentina, Brazil and Paraguay meet at the joining of the Iguazú and Paraná rivers, is roughly a half-hour walk northwest along Avenida Tres Fronteras. The town's bus terminal, which has buses to Parque Nacional Iguazú, is a few blocks away."
+  - q: Where exactly is Plaza San Martin in Puerto Iguazu?
+    a: >-
+      It's at Av. Victoria Aguirre 201-249, on the town's main avenue in central
+      Puerto Iguazu. It's a few blocks from the bus terminal and surrounded by
+      the main shopping and restaurant streets.
+  - q: Is Plaza San Martin open at night?
+    a: >-
+      Google currently lists it as open 24 hours, and it's a public square with
+      no gate. The surrounding streets are the busiest part of town in the
+      evening. Still, stay in the lit areas late at night.
+  - q: How long should I spend at Plaza San Martin?
+    a: >-
+      About 20–40 minutes. It works best as a shaded rest between the bus
+      terminal, dinner and the walk to the Hito Tres Fronteras, not as a sight
+      on its own.
+  - q: What is the best time of day to visit?
+    a: >-
+      Late afternoon into early evening, once the subtropical heat eases and
+      shops reopen after the midday break. Early afternoon in summer is hot and
+      the surrounding streets are quiet.
+  - q: What can I walk to from the plaza?
+    a: >-
+      The Hito Tres Fronteras, where Argentina, Brazil and Paraguay meet at the
+      joining of the Iguazú and Paraná rivers, is roughly a half-hour walk
+      northwest along Avenida Tres Fronteras. The town's bus terminal, which has
+      buses to Parque Nacional Iguazú, is a few blocks away.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-06'
 ---
 
 ## A square on the main avenue

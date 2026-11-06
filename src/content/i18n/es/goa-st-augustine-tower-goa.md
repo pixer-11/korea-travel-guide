@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: goa-st-augustine-tower-goa
-srcHash: 'd8732b3d904b'
+srcHash: '1aad1384f126'
 title: 'Torre de San Agustín: guía de viaje de Goa (4.5★)'
-description: 'En la Colina Santa (Holy Hill) de Vieja Goa, a poca distancia a pie de la Basílica del Buen Jesús, se alza la Torre de San Agustín: un campanario de laterita de 46 m, único vestigio en pie de un complejo eclesiástico agustino terminado en 1602. Valoración de 4.5★ (4,289 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En la Colina Santa (Holy Hill) de Vieja Goa, a poca distancia a pie de la Basílica del Buen Jesús, se alza la Torre de San Agustín: un campanario de laterita de 46 m, único vestigio en pie de un complejo eclesiástico agustino terminado en 1602. Valoración de 4.5★ (4,290 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En la Colina Santa (Holy Hill) de Vieja Goa, a poca distancia a pie de la Basílica del Buen Jesús, se alza la Torre de San Agustín. Este campanario de laterita de 46 m es lo único que sigue en pie de un complejo eclesiástico agustino terminado en 1602. Según la información actual, abre de 9am–5pm. Lo más tranquilo suele ser entre semana de 9am–11am y los fines de semana de 9am–10am. Conviene evitar los fines de semana de 11am a 5pm.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar la Torre de San Agustín?

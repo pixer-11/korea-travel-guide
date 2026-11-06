@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: puerto-iguazu-hito-tres-fronteras-argentina
-srcHash: 'c65a95bed4ed'
+srcHash: '89c44b723be0'
 title: 'Hito Tres Fronteras (Argentina): guía de viaje de Puerto Iguazú'
-description: 'En el extremo oeste de Puerto Iguazú, sobre la Av. Río Iguazú, se encuentra el Hito Tres Fronteras (Argentina). Allí confluyen los ríos Iguazú y Paraná, y desde una misma baranda se divisan Brasil y Paraguay. 4.4★ (65,276 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En el extremo oeste de Puerto Iguazú, sobre la Av. Río Iguazú, se encuentra el Hito Tres Fronteras (Argentina). Allí confluyen los ríos Iguazú y Paraná, y desde una misma baranda se divisan Brasil y Paraguay. 4.4★ (65,358 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En el extremo oeste de Puerto Iguazú, sobre la Av. Río Iguazú, se encuentra el Hito Tres Fronteras (Argentina). Allí confluyen los ríos Iguazú y Paraná, y desde una misma baranda se divisan Brasil y Paraguay. Según la información actual, abre las 24 horas, y desde el centro se llega fácilmente a pie o tras un breve trayecto en taxi. Lo ideal es ir a última hora de la tarde para ver la puesta de sol sobre la orilla paraguaya y reservar para la visita entre 45 minutos y una hora.
 faq:
   - q: ¿Cómo se llega al Hito Tres Fronteras desde el centro de Puerto Iguazú?

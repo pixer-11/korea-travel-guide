@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: montreal-saint-joseph-s-oratory-of-mount-royal
-srcHash: 'e3efa8b5ad1d'
+srcHash: '28c4eee51d20'
 title: 'Oratorio de San José del Monte Real: guía de viaje de Montreal'
-description: En la ladera noroeste del Monte Real, dentro del barrio montrealés de Côte-des-Neiges, se alza el Oratorio de San José, a poca distancia a pie de la estación de metro Côte-des-Neiges, en la línea azul. Con una valoración de 4.8★ (25,986 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
+description: En la ladera noroeste del Monte Real, dentro del barrio montrealés de Côte-des-Neiges, se alza el Oratorio de San José, a poca distancia a pie de la estación de metro Côte-des-Neiges, en la línea azul. Con una valoración de 4.8★ (25,992 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
 quickAnswer: En la ladera noroeste del Monte Real, dentro del barrio montrealés de Côte-des-Neiges, se alza el Oratorio de San José, a poca distancia a pie de la estación de metro Côte-des-Neiges, en la línea azul. Reserve entre dos y tres horas para recorrer la basílica, la Capilla Votiva con la tumba del hermano André y los jardines del Vía Crucis. Las horas más tranquilas suelen ser de 7am–10am entre semana y de 7am–9am los fines de semana. La mayor afluencia se concentra los fines de semana de 10am–8pm.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Oratorio de San José?

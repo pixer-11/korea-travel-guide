@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: puerto-vallarta-pancho-s-takos
-srcHash: '387247fa1fd1'
+srcHash: 'f4fcdbed2fc1'
 title: 巴亚尔塔港美食推荐：Pancho's Takos（4.5★）
-description: Pancho's Takos位于巴亚尔塔港浪漫区（Zona Romántica）Basilio Badillo 162，是一家价格适中、人气火爆的塔可餐厅，评分4.5★（5,283条评价）。本文汇总食客评价、营业时间和实用建议。
+description: Pancho's Takos位于巴亚尔塔港浪漫区（Zona Romántica）Basilio Badillo 162，是一家价格适中、人气火爆的塔可餐厅，评分4.5★（5,309条评价）。本文汇总食客评价、营业时间和实用建议。
 quickAnswer: Pancho's Takos是一家价格适中、人气火爆的塔可餐厅，地址在巴亚尔塔港浪漫区（Zona Romántica）的Basilio Badillo 162。餐厅只做晚市，周一至周六下午4点营业到晚上11:30，周日休息。晚餐高峰期通常要排队，想尽快入座，最省事的办法就是赶在下午4点开门前后到店。
 faq:
   - q: Pancho's Takos具体在哪里？

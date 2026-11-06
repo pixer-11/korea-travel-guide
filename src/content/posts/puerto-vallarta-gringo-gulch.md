@@ -1,59 +1,88 @@
 ---
-title: "Gringo Gulch: Puerto Vallarta Travel Guide (4.5★)"
-description: "Gringo Gulch is a steep hillside residential pocket of Centro, Puerto Vallarta, rising behind the Church of Our Lady of Guadalupe and above the Río Cuale. 4.5★ (461 reviews) — what visitors say, hours, and tips."
-country: "Mexico"
-region: "Puerto Vallarta"
-category: "attraction"
-pubDate: "2026-10-04T07:47:01.410Z"
+title: 'Gringo Gulch: Puerto Vallarta Travel Guide (4.5★)'
+description: >-
+  Gringo Gulch is a steep hillside residential pocket of Centro, Puerto
+  Vallarta, rising behind the Church of Our Lady of Guadalupe and above the Río
+  Cuale. 4.5★ (463 reviews) — what visitors say, hours, and tips.
+country: Mexico
+region: Puerto Vallarta
+category: attraction
+pubDate: '2026-10-04T07:47:01.410Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Behind_Gringo_Gulch.jpg/3840px-Behind_Gringo_Gulch.jpg"
-  credit: "Photo: Dennis Sylvester Hurd / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Behind_Gringo_Gulch.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Behind_Gringo_Gulch.jpg/3840px-Behind_Gringo_Gulch.jpg
+  credit: 'Photo: Dennis Sylvester Hurd / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Behind_Gringo_Gulch.jpg'
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/0/03/Puerto_Vallarta%2C_Mexico_-_Pedestrian_Bridge_to_Beach.jpg"
-    credit: "Photo: Sharon Hahn Darlin / Wikimedia Commons (CC BY 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Puerto_Vallarta,_Mexico_-_Pedestrian_Bridge_to_Beach.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/0/03/Puerto_Vallarta%2C_Mexico_-_Pedestrian_Bridge_to_Beach.jpg
+    credit: 'Photo: Sharon Hahn Darlin / Wikimedia Commons (CC BY 2.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Puerto_Vallarta,_Mexico_-_Pedestrian_Bridge_to_Beach.jpg
 place:
-  id: "ChIJUdpG8k5FIYQRDl6Aa2QztfU"
-  name: "Gringo Gulch"
-  address: "C. Zaragoza 373, Centro, 48300 Puerto Vallarta, Jal., Mexico"
+  id: ChIJUdpG8k5FIYQRDl6Aa2QztfU
+  name: Gringo Gulch
+  address: 'C. Zaragoza 373, Centro, 48300 Puerto Vallarta, Jal., Mexico'
   rating: 4.5
-  userRatingsTotal: 461
-  googleMapsUrl: "https://maps.google.com/?cid=17705114016470294030&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 463
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=17705114016470294030&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 20.6064227
   lng: -105.2327638
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "puerto vallarta"
-  - "top attraction"
-quickAnswer: "Gringo Gulch is a steep hillside residential pocket of Centro, Puerto Vallarta, rising behind the Church of Our Lady of Guadalupe and above the Río Cuale. Walk it for free at any hour by climbing the Calle Zaragoza stairs from the cathedral. Allow about an hour, and go early in the morning before the climb gets hot."
+  - puerto vallarta
+  - top attraction
+quickAnswer: >-
+  Gringo Gulch is a steep hillside residential pocket of Centro, Puerto
+  Vallarta, rising behind the Church of Our Lady of Guadalupe and above the Río
+  Cuale. Walk it for free at any hour by climbing the Calle Zaragoza stairs from
+  the cathedral. Allow about an hour, and go early in the morning before the
+  climb gets hot.
 faq:
-  - q: "How do I get to Gringo Gulch?"
-    a: "Walk to the Church of Our Lady of Guadalupe in Centro, a few blocks inland from the Malecón, and take the Calle Zaragoza stairs that climb from behind it. Cars can't go up the stairway, so taxis drop you at the cathedral."
-  - q: "Is Gringo Gulch open to visitors?"
-    a: "Yes. It's a public residential neighbourhood, open 24 hours every day, with no entrance or ticket. The houses themselves are private, so look from the street."
-  - q: "Can I see Elizabeth Taylor's house?"
-    a: "You can see Casa Kimberley and the footbridge across Calle Zaragoza from the street. The property has operated as a boutique hotel, so check its official site if you want to go inside."
-  - q: "How long does a visit take and when should I go?"
-    a: "Plan on 45 minutes to an hour and a half for a walking loop. Early morning is the most comfortable time, since the steep stairs face the sun and the stone heats up as the day goes on."
-  - q: "What's nearby?"
-    a: "The Church of Our Lady of Guadalupe sits at the foot of the stairs. The Malecón is a few blocks downhill, Isla Río Cuale is just below, and the Zona Romántica is across the river."
+  - q: How do I get to Gringo Gulch?
+    a: >-
+      Walk to the Church of Our Lady of Guadalupe in Centro, a few blocks inland
+      from the Malecón, and take the Calle Zaragoza stairs that climb from
+      behind it. Cars can't go up the stairway, so taxis drop you at the
+      cathedral.
+  - q: Is Gringo Gulch open to visitors?
+    a: >-
+      Yes. It's a public residential neighbourhood, open 24 hours every day,
+      with no entrance or ticket. The houses themselves are private, so look
+      from the street.
+  - q: Can I see Elizabeth Taylor's house?
+    a: >-
+      You can see Casa Kimberley and the footbridge across Calle Zaragoza from
+      the street. The property has operated as a boutique hotel, so check its
+      official site if you want to go inside.
+  - q: How long does a visit take and when should I go?
+    a: >-
+      Plan on 45 minutes to an hour and a half for a walking loop. Early morning
+      is the most comfortable time, since the steep stairs face the sun and the
+      stone heats up as the day goes on.
+  - q: What's nearby?
+    a: >-
+      The Church of Our Lady of Guadalupe sits at the foot of the stairs. The
+      Malecón is a few blocks downhill, Isla Río Cuale is just below, and the
+      Zona Romántica is across the river.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-06'
 ---
 
 ## Stairs, not streets

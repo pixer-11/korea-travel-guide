@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: puerto-vallarta-gringo-gulch
-srcHash: '894a42cd4fce'
+srcHash: '2c51a87f0e40'
 title: 'Gringo Gulch: guía de viaje de Puerto Vallarta (4.5★)'
-description: Detrás de la Parroquia de Nuestra Señora de Guadalupe y por encima del Río Cuale se alza Gringo Gulch, un empinado rincón residencial del Centro de Puerto Vallarta. Con 4.5★ (461 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
+description: Detrás de la Parroquia de Nuestra Señora de Guadalupe y por encima del Río Cuale se alza Gringo Gulch, un empinado rincón residencial del Centro de Puerto Vallarta. Con 4.5★ (463 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
 quickAnswer: 'Gringo Gulch es un empinado rincón residencial del Centro de Puerto Vallarta que se alza detrás de la Parroquia de Nuestra Señora de Guadalupe, por encima del Río Cuale. Se recorre a pie a cualquier hora y sin pagar nada: basta con subir desde la catedral por las escaleras de la Calle Zaragoza. Calcule alrededor de una hora y procure ir temprano, antes de que el calor convierta la subida en un suplicio.'
 faq:
   - q: ¿Cómo se llega a Gringo Gulch?

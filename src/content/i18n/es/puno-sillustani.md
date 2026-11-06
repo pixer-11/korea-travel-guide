@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: puno-sillustani
-srcHash: 'c4a3119bf160'
+srcHash: '91d33e7114ed'
 title: 'Sillustani: guía de viaje de Puno (4.7★)'
-description: A unos 34 km al noroeste de Puno, en una península de la laguna Umayo, se alzan las chullpas de Sillustani, torres funerarias de piedra levantadas antes de los incas. Con una valoración de 4.7★ (2,136 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
+description: A unos 34 km al noroeste de Puno, en una península de la laguna Umayo, se alzan las chullpas de Sillustani, torres funerarias de piedra levantadas antes de los incas. Con una valoración de 4.7★ (2,138 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
 quickAnswer: En una península de la laguna Umayo, a unos 34 km al noroeste de Puno, se encuentra Sillustani, un cementerio preincaico formado por torres funerarias de piedra llamadas chullpas. La mayoría de los visitantes llega en una excursión de medio día desde Puno o hace una parada camino del aeropuerto de Juliaca. Conviene reservar entre 1.5 y 2 horas para recorrer el sitio. Actualmente abre de 8am a 5pm, aunque es recomendable consultar el horario oficial antes de ir.
 faq:
   - q: ¿A qué distancia de Puno está Sillustani?

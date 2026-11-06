@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: puerto-iguazu-ruins-of-san-ignacio-mini
-srcHash: '4d945cbcfe96'
+srcHash: '7ed3f2cc3acf'
 title: 'Ruinas de San Ignacio Miní: guía de viaje desde Puerto Iguazú (4.6★)'
 description: En Argentina no hay ruinas jesuíticas mejor conservadas que las de San Ignacio Miní. Con 4.6★ y 36,390 reseñas, esta guía recoge las opiniones de los visitantes, los horarios y varios consejos útiles.
 quickAnswer: En Argentina no hay ruinas de una misión jesuítica mejor conservadas que las de San Ignacio Miní. Se encuentran en San Ignacio, un pequeño pueblo de Misiones situado a unos 250 km al suroeste de Puerto Iguazú por la Ruta Nacional 12. La visita requiere un día entero o, mejor aún, pasar allí la noche. Calcule entre 2 y 3 horas para recorrer el centro de visitantes y el conjunto. Conviene llegar temprano, antes de que apriete el calor y aparezcan los autobuses de excursiones. En la entrada de la calle Alberdi podrá consultar los horarios y precios vigentes.

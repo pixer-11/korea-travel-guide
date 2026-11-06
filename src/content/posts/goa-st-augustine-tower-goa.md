@@ -1,44 +1,53 @@
 ---
-title: "St. Augustine Tower: Goa Travel Guide (4.5★)"
-description: "St. Augustine Tower in Old Goa is the 46m laterite bell tower left standing from an Augustinian church complex completed in 1602, on Holy Hill a short walk from the Basilica of Bom Jesus. 4.5★ (4,289 reviews) — what visitors say, hours, and tips."
-country: "India"
-region: "Goa"
-category: "hidden-gem"
-pubDate: "2026-11-05T07:49:47.488Z"
+title: 'St. Augustine Tower: Goa Travel Guide (4.5★)'
+description: >-
+  St. Augustine Tower in Old Goa is the 46m laterite bell tower left standing
+  from an Augustinian church complex completed in 1602, on Holy Hill a short
+  walk from the Basilica of Bom Jesus. 4.5★ (4,290 reviews) — what visitors say,
+  hours, and tips.
+country: India
+region: Goa
+category: hidden-gem
+pubDate: '2026-11-05T07:49:47.488Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Church_of_St._Augustine%2C_St._Augustine_Tower_Goa_vrvbgoa2k24_%28132%29.jpg/3840px-Church_of_St._Augustine%2C_St._Augustine_Tower_Goa_vrvbgoa2k24_%28132%29.jpg"
-  credit: "Photo: Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Church_of_St._Augustine,_St._Augustine_Tower_Goa_vrvbgoa2k24_(132).jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Church_of_St._Augustine%2C_St._Augustine_Tower_Goa_vrvbgoa2k24_%28132%29.jpg/3840px-Church_of_St._Augustine%2C_St._Augustine_Tower_Goa_vrvbgoa2k24_%28132%29.jpg
+  credit: 'Photo: Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Church_of_St._Augustine,_St._Augustine_Tower_Goa_vrvbgoa2k24_(132).jpg
+  via: act
   focus:
     x: 68
-    y: 35
+    'y': 35
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Church_of_St._Augustine%2C_St._Augustine_Tower_Goa_vrvbgoa2k24_%2824%29.jpg/3840px-Church_of_St._Augustine%2C_St._Augustine_Tower_Goa_vrvbgoa2k24_%2824%29.jpg"
-    credit: "Photo: Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Church_of_St._Augustine,_St._Augustine_Tower_Goa_vrvbgoa2k24_(24).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Church_of_St._Augustine%2C_St._Augustine_Tower_Goa_vrvbgoa2k24_%2824%29.jpg/3840px-Church_of_St._Augustine%2C_St._Augustine_Tower_Goa_vrvbgoa2k24_%2824%29.jpg
+    credit: 'Photo: Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Church_of_St._Augustine,_St._Augustine_Tower_Goa_vrvbgoa2k24_(24).jpg
 place:
-  id: "ChIJ7YKn9fG-vzsRqG6gJbaQxPs"
-  name: "St. Augustine Tower Goa"
-  address: "Church of St. Augustine Ruins, Old Goa, Goa 403402, India"
+  id: ChIJ7YKn9fG-vzsRqG6gJbaQxPs
+  name: St. Augustine Tower Goa
+  address: 'Church of St. Augustine Ruins, Old Goa, Goa 403402, India'
   rating: 4.5
-  userRatingsTotal: 4289
-  googleMapsUrl: "https://maps.google.com/?cid=18141784310944919208&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 4290
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=18141784310944919208&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 15.5005094
   lng: 73.9064616
   openingHours:
-    - "Monday: 9:00 AM – 5:00 PM"
-    - "Tuesday: 9:00 AM – 5:00 PM"
-    - "Wednesday: 9:00 AM – 5:00 PM"
-    - "Thursday: 9:00 AM – 5:00 PM"
-    - "Friday: 9:00 AM – 5:00 PM"
-    - "Saturday: 9:00 AM – 5:00 PM"
-    - "Sunday: 9:00 AM – 5:00 PM"
+    - 'Monday: 9:00 AM – 5:00 PM'
+    - 'Tuesday: 9:00 AM – 5:00 PM'
+    - 'Wednesday: 9:00 AM – 5:00 PM'
+    - 'Thursday: 9:00 AM – 5:00 PM'
+    - 'Friday: 9:00 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 5:00 PM'
+    - 'Sunday: 9:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-11-05
+    updated: 2026-11-05T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 10
@@ -51,24 +60,44 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_7350785161624a6736477152737a762d4766396e4b59374a496843"
+    venueId: ven_7350785161624a6736477152737a762d4766396e4b59374a496843
 tags:
-  - "goa"
-  - "old quarter"
-quickAnswer: "St. Augustine Tower in Old Goa is the 46m laterite bell tower left standing from an Augustinian church complex completed in 1602, on Holy Hill a short walk from the Basilica of Bom Jesus. It is currently listed as open 9am–5pm. The quietest times are usually 9am–11am on weekdays and 9am–10am on weekends; weekends from 11am to 5pm are the time to avoid."
+  - goa
+  - old quarter
+quickAnswer: >-
+  St. Augustine Tower in Old Goa is the 46m laterite bell tower left standing
+  from an Augustinian church complex completed in 1602, on Holy Hill a short
+  walk from the Basilica of Bom Jesus. It is currently listed as open 9am–5pm.
+  The quietest times are usually 9am–11am on weekdays and 9am–10am on weekends;
+  weekends from 11am to 5pm are the time to avoid.
 faq:
-  - q: "When is the quietest time to visit St. Augustine Tower?"
-    a: "Typically 9am–11am on weekdays and 9am–10am on weekends. Avoid weekends between 11am and 5pm, when it is usually busiest."
-  - q: "How do I get to St. Augustine Tower from Panaji?"
-    a: "Old Goa is about 10km east of Panaji. Local buses run from the Kadamba bus stand, and taxis and scooters are common. The tower is a short uphill walk from the Basilica of Bom Jesus on Holy Hill."
-  - q: "Can you climb the tower?"
-    a: "No. The tower is a fragile ruin, the last standing part of a church that collapsed in stages from 1842 onwards. You see it from the ground and walk the excavated church footprint around it."
-  - q: "How long should I spend there?"
-    a: "About 30–45 minutes for the ruins alone. Allow half a day if you add the Basilica of Bom Jesus, Sé Cathedral, the Church of St. Francis of Assisi and the Archaeological Museum."
-  - q: "What are the opening hours?"
-    a: "The current listing shows 9am–5pm. Heritage sites can change hours by season and on holidays, so check the posted information or the official listing before you go."
+  - q: When is the quietest time to visit St. Augustine Tower?
+    a: >-
+      Typically 9am–11am on weekdays and 9am–10am on weekends. Avoid weekends
+      between 11am and 5pm, when it is usually busiest.
+  - q: How do I get to St. Augustine Tower from Panaji?
+    a: >-
+      Old Goa is about 10km east of Panaji. Local buses run from the Kadamba bus
+      stand, and taxis and scooters are common. The tower is a short uphill walk
+      from the Basilica of Bom Jesus on Holy Hill.
+  - q: Can you climb the tower?
+    a: >-
+      No. The tower is a fragile ruin, the last standing part of a church that
+      collapsed in stages from 1842 onwards. You see it from the ground and walk
+      the excavated church footprint around it.
+  - q: How long should I spend there?
+    a: >-
+      About 30–45 minutes for the ruins alone. Allow half a day if you add the
+      Basilica of Bom Jesus, Sé Cathedral, the Church of St. Francis of Assisi
+      and the Archaeological Museum.
+  - q: What are the opening hours?
+    a: >-
+      The current listing shows 9am–5pm. Heritage sites can change hours by
+      season and on holidays, so check the posted information or the official
+      listing before you go.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-06'
 ---
 
 ## Four storeys of rust-red stone

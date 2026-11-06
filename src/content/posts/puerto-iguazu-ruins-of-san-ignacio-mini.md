@@ -1,48 +1,78 @@
 ---
-title: "Ruins of San Ignacio Miní: Puerto Iguazu Travel Guide (4.6★)"
-description: "The Ruins of San Ignacio Miní are the best-preserved Jesuit mission ruins in Argentina. 4.6★ (36,390 reviews) — what visitors say, hours, and tips."
-country: "Argentina"
-region: "Puerto Iguazu"
-category: "attraction"
-pubDate: "2026-11-03T07:54:01.512Z"
+title: 'Ruins of San Ignacio Miní: Puerto Iguazu Travel Guide (4.6★)'
+description: >-
+  The Ruins of San Ignacio Miní are the best-preserved Jesuit mission ruins in
+  Argentina. 4.6★ (36,389 reviews) — what visitors say, hours, and tips.
+country: Argentina
+region: Puerto Iguazu
+category: attraction
+pubDate: '2026-11-03T07:54:01.512Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/2/28/San_Ignacio_Min%C3%AD_mission_ruins.jpg"
-  credit: "Photo: Miguel Vieira derivative work: MrPanyGoff / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:San_Ignacio_Min%C3%AD_mission_ruins.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/2/28/San_Ignacio_Min%C3%AD_mission_ruins.jpg
+  credit: >-
+    Photo: Miguel Vieira derivative work: MrPanyGoff / Wikimedia Commons (CC BY
+    2.0)
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:San_Ignacio_Min%C3%AD_mission_ruins.jpg
+  via: act
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJ4YRUjdPfV5QRhA7mmtt1rG4"
-  name: "Ruins of San Ignacio Miní"
-  address: "Alberdi 477, N3322 San Ignacio, Misiones, Argentina"
+  id: ChIJ4YRUjdPfV5QRhA7mmtt1rG4
+  name: Ruins of San Ignacio Miní
+  address: 'Alberdi 477, N3322 San Ignacio, Misiones, Argentina'
   rating: 4.6
-  userRatingsTotal: 36390
-  googleMapsUrl: "https://maps.google.com/?cid=7974878626223361668&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 36389
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=7974878626223361668&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -27.2523134
   lng: -55.530482299999996
-  phone: "+54 376 447-0186"
+  phone: +54 376 447-0186
 tags:
-  - "puerto iguazu"
-  - "historic site"
-quickAnswer: "The Ruins of San Ignacio Miní are the best-preserved Jesuit mission ruins in Argentina. They sit in the small town of San Ignacio, Misiones, about 250 km southwest of Puerto Iguazú along Ruta Nacional 12. Make it a full day trip or an overnight stop: allow 2–3 hours for the visitor centre and the site, arrive early to beat the heat and the tour coaches, and check the current hours and ticket details at the entrance on Alberdi."
+  - puerto iguazu
+  - historic site
+quickAnswer: >-
+  The Ruins of San Ignacio Miní are the best-preserved Jesuit mission ruins in
+  Argentina. They sit in the small town of San Ignacio, Misiones, about 250 km
+  southwest of Puerto Iguazú along Ruta Nacional 12. Make it a full day trip or
+  an overnight stop: allow 2–3 hours for the visitor centre and the site, arrive
+  early to beat the heat and the tour coaches, and check the current hours and
+  ticket details at the entrance on Alberdi.
 faq:
-  - q: "How far are the Ruins of San Ignacio Miní from Puerto Iguazú?"
-    a: "About 250 km southwest along Ruta Nacional 12. By long-distance bus toward Posadas it takes roughly 4–5 hours each way, so many visitors stay a night in San Ignacio or Posadas."
-  - q: "How long should I spend at San Ignacio Miní?"
-    a: "Allow 2–3 hours for the visitor centre and a full walk through the plaza, the church, the houses and the college. Add an evening if you want to see the sound-and-light show."
-  - q: "When is the best time of day to visit?"
-    a: "Arriving soon after opening usually beats the tour coaches from Iguazú and Posadas, and you avoid the midday heat. Late afternoon light also brings out the carving on the church façade. Check the current hours at the entrance or on the official tourism site."
-  - q: "Is there a night show at the ruins?"
-    a: "Yes, an evening sound-and-light show has run at the site for years. Times and languages change with the season, so confirm them at the visitor centre during the day."
-  - q: "What else is near San Ignacio?"
-    a: "In town there is the Casa de Horacio Quiroga museum and the Peñón de Teyú Cuaré on the Paraná. On the road toward Posadas are the quieter Jesuit ruins of Santa Ana and Loreto."
+  - q: How far are the Ruins of San Ignacio Miní from Puerto Iguazú?
+    a: >-
+      About 250 km southwest along Ruta Nacional 12. By long-distance bus toward
+      Posadas it takes roughly 4–5 hours each way, so many visitors stay a night
+      in San Ignacio or Posadas.
+  - q: How long should I spend at San Ignacio Miní?
+    a: >-
+      Allow 2–3 hours for the visitor centre and a full walk through the plaza,
+      the church, the houses and the college. Add an evening if you want to see
+      the sound-and-light show.
+  - q: When is the best time of day to visit?
+    a: >-
+      Arriving soon after opening usually beats the tour coaches from Iguazú and
+      Posadas, and you avoid the midday heat. Late afternoon light also brings
+      out the carving on the church façade. Check the current hours at the
+      entrance or on the official tourism site.
+  - q: Is there a night show at the ruins?
+    a: >-
+      Yes, an evening sound-and-light show has run at the site for years. Times
+      and languages change with the season, so confirm them at the visitor
+      centre during the day.
+  - q: What else is near San Ignacio?
+    a: >-
+      In town there is the Casa de Horacio Quiroga museum and the Peñón de Teyú
+      Cuaré on the Paraná. On the road toward Posadas are the quieter Jesuit
+      ruins of Santa Ana and Loreto.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-06'
 ---
 
 ## Red Stone on Red Earth

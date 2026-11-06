@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: montreal-saint-joseph-s-oratory-of-mount-royal
-srcHash: 'e3efa8b5ad1d'
+srcHash: '28c4eee51d20'
 title: 蒙特利尔皇家山圣约瑟夫圣堂旅行指南
-description: 皇家山圣约瑟夫圣堂（Saint Joseph's Oratory of Mount Royal）坐落在蒙特利尔Côte-des-Neiges街区的皇家山西北坡上，从地铁蓝线Côte-des-Neiges站步行不远即到。评分4.8★（25,986条评价）。本文汇总游客评价、开放时间和游览建议。
+description: 皇家山圣约瑟夫圣堂（Saint Joseph's Oratory of Mount Royal）坐落在蒙特利尔Côte-des-Neiges街区的皇家山西北坡上，从地铁蓝线Côte-des-Neiges站步行不远即到。评分4.8★（25,992条评价）。本文汇总游客评价、开放时间和游览建议。
 quickAnswer: 皇家山圣约瑟夫圣堂坐落在蒙特利尔Côte-des-Neiges街区的皇家山西北坡上，从地铁蓝线Côte-des-Neiges站步行不远即到。大教堂、安放安德烈修士墓的还愿小堂和苦路花园都要看，建议留出两到三个小时。人最少的时段一般是工作日早上7点至10点、周末早上7点至9点；周末上午10点至晚上8点最拥挤。
 faq:
   - q: 什么时候去圣约瑟夫圣堂人最少？

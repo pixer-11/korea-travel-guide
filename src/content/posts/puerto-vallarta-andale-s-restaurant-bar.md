@@ -1,61 +1,91 @@
 ---
-title: "Andale's Restaurant & Bar: Where to Eat in Puerto Vallarta"
-description: "Andale's Restaurant & Bar is a longtime bar and grill at Olas Altas 425 in Puerto Vallarta's Zona Romántica. 4.6★ (3,359 reviews) — what visitors say, hours, and tips."
-country: "Mexico"
-region: "Puerto Vallarta"
-category: "restaurant"
-pubDate: "2026-10-04T13:42:15.294Z"
+title: 'Andale''s Restaurant & Bar: Where to Eat in Puerto Vallarta'
+description: >-
+  Andale's Restaurant & Bar is a longtime bar and grill at Olas Altas 425 in
+  Puerto Vallarta's Zona Romántica. 4.6★ (3,476 reviews) — what visitors say,
+  hours, and tips.
+country: Mexico
+region: Puerto Vallarta
+category: restaurant
+pubDate: '2026-10-04T13:42:15.294Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Andale%27s_Restaurant_%26_Bar%2C_PV%2C_2021_-_1.jpg/3840px-Andale%27s_Restaurant_%26_Bar%2C_PV%2C_2021_-_1.jpg"
-  credit: "Photo: Another Believer / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Andale%27s_Restaurant_%26_Bar,_PV,_2021_-_1.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Andale%27s_Restaurant_%26_Bar%2C_PV%2C_2021_-_1.jpg/3840px-Andale%27s_Restaurant_%26_Bar%2C_PV%2C_2021_-_1.jpg
+  credit: 'Photo: Another Believer / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Andale%27s_Restaurant_%26_Bar,_PV,_2021_-_1.jpg
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/0/09/Puerto_Vallarta%2C_Mexico_-_Restaurant_at_night%2C_December_2012.jpg"
-    credit: "Photo: Sharon Hahn Darlin / Wikimedia Commons (CC BY 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Puerto_Vallarta,_Mexico_-_Restaurant_at_night,_December_2012.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/0/09/Puerto_Vallarta%2C_Mexico_-_Restaurant_at_night%2C_December_2012.jpg
+    credit: 'Photo: Sharon Hahn Darlin / Wikimedia Commons (CC BY 2.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Puerto_Vallarta,_Mexico_-_Restaurant_at_night,_December_2012.jpg
 place:
-  id: "ChIJZeM_W0tFIYQR9pnymP9qM-o"
-  name: "Andale's Restaurant & Bar"
-  address: "Olas Altas 425, Zona Romántica, Emiliano Zapata, 48380 Puerto Vallarta, Jal., Mexico"
+  id: ChIJZeM_W0tFIYQR9pnymP9qM-o
+  name: Andale's Restaurant & Bar
+  address: >-
+    Olas Altas 425, Zona Romántica, Emiliano Zapata, 48380 Puerto Vallarta,
+    Jal., Mexico
   rating: 4.6
-  userRatingsTotal: 3359
+  userRatingsTotal: 3476
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=16875949874702621174&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16875949874702621174&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 20.601123299999998
   lng: -105.2376379
-  phone: "+52 322 222 1054"
+  phone: +52 322 222 1054
   openingHours:
-    - "Monday: 7:00 AM – 2:00 AM"
-    - "Tuesday: 7:00 AM – 2:00 AM"
-    - "Wednesday: 7:00 AM – 2:00 AM"
-    - "Thursday: 7:00 AM – 2:00 AM"
-    - "Friday: 7:00 AM – 2:00 AM"
-    - "Saturday: 7:00 AM – 2:00 AM"
-    - "Sunday: 7:00 AM – 2:00 AM"
+    - 'Monday: 7:00 AM – 2:00 AM'
+    - 'Tuesday: 7:00 AM – 2:00 AM'
+    - 'Wednesday: 7:00 AM – 2:00 AM'
+    - 'Thursday: 7:00 AM – 2:00 AM'
+    - 'Friday: 7:00 AM – 2:00 AM'
+    - 'Saturday: 7:00 AM – 2:00 AM'
+    - 'Sunday: 7:00 AM – 2:00 AM'
 tags:
-  - "puerto vallarta"
-  - "local restaurant"
-quickAnswer: "Andale's Restaurant & Bar is a longtime bar and grill at Olas Altas 425 in Puerto Vallarta's Zona Romántica. It serves comfort food and margaritas every day from 7am to 2am, a short walk from Los Muertos Beach. Prices are mid-range. Come for breakfast if you want a calm table, or after dark if you want the party."
+  - puerto vallarta
+  - local restaurant
+quickAnswer: >-
+  Andale's Restaurant & Bar is a longtime bar and grill at Olas Altas 425 in
+  Puerto Vallarta's Zona Romántica. It serves comfort food and margaritas every
+  day from 7am to 2am, a short walk from Los Muertos Beach. Prices are
+  mid-range. Come for breakfast if you want a calm table, or after dark if you
+  want the party.
 faq:
-  - q: "What are Andale's opening hours?"
-    a: "Every day, Monday to Sunday, from 7:00 AM to 2:00 AM. That covers breakfast, lunch, dinner and late drinks."
-  - q: "Where exactly is Andale's?"
-    a: "At Olas Altas 425 in the Zona Romántica (Emiliano Zapata), south of the Río Cuale and a short walk inland from Playa Los Muertos and Los Muertos Pier."
-  - q: "Is Andale's good for a quiet meal?"
-    a: "Come in the morning if you want quiet. It opens at 7am and is a calm breakfast stop. In the evening it turns into a lively bar known for margaritas."
-  - q: "Do I need a reservation?"
-    a: "You can usually walk in, especially for breakfast or lunch. Larger groups at night have a better chance of a table together if they arrive early in the evening."
-  - q: "What's nearby to combine with a visit?"
-    a: "Playa Los Muertos, Los Muertos Pier, Lázaro Cárdenas Park and Isla Cuale are all within walking distance. The Malecón is just across the river to the north."
+  - q: What are Andale's opening hours?
+    a: >-
+      Every day, Monday to Sunday, from 7:00 AM to 2:00 AM. That covers
+      breakfast, lunch, dinner and late drinks.
+  - q: Where exactly is Andale's?
+    a: >-
+      At Olas Altas 425 in the Zona Romántica (Emiliano Zapata), south of the
+      Río Cuale and a short walk inland from Playa Los Muertos and Los Muertos
+      Pier.
+  - q: Is Andale's good for a quiet meal?
+    a: >-
+      Come in the morning if you want quiet. It opens at 7am and is a calm
+      breakfast stop. In the evening it turns into a lively bar known for
+      margaritas.
+  - q: Do I need a reservation?
+    a: >-
+      You can usually walk in, especially for breakfast or lunch. Larger groups
+      at night have a better chance of a table together if they arrive early in
+      the evening.
+  - q: What's nearby to combine with a visit?
+    a: >-
+      Playa Los Muertos, Los Muertos Pier, Lázaro Cárdenas Park and Isla Cuale
+      are all within walking distance. The Malecón is just across the river to
+      the north.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-06'
 ---
 
 ## One address, three different places

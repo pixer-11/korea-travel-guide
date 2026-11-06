@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: puerto-vallarta-andale-s-restaurant-bar
-srcHash: '764758229efc'
+srcHash: '201a0665c70d'
 title: Andale's餐厅酒吧：巴亚尔塔港吃喝好去处
-description: Andale's餐厅酒吧是巴亚尔塔港浪漫区Olas Altas 425的一家老牌酒吧兼烧烤店，评分4.6★（3,359条评价）。本文整理了游客评价、营业时间和实用建议。
+description: Andale's餐厅酒吧是巴亚尔塔港浪漫区Olas Altas 425的一家老牌酒吧兼烧烤店，评分4.6★（3,476条评价）。本文整理了游客评价、营业时间和实用建议。
 quickAnswer: Andale's餐厅酒吧位于巴亚尔塔港浪漫区（Zona Romántica）的Olas Altas 425，是当地一家开了多年的酒吧兼烧烤店。店里主打家常美食和玛格丽特，每天早上7点营业到凌晨2点，离洛斯穆埃尔托斯海滩（Los Muertos Beach）只有几步路。价格中等。想安安静静吃一顿就早上来吃早餐，想热闹就天黑后再来。
 faq:
   - q: Andale's的营业时间是怎样的？

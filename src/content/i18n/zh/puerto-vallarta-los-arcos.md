@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: puerto-vallarta-los-arcos
-srcHash: '85059c98287e'
+srcHash: '031900b245a7'
 title: 巴亚尔塔港洛斯阿科斯拱门旅行指南（4.7★）
-description: 洛斯阿科斯拱门（Los Arcos）位于巴亚尔塔港（Puerto Vallarta）市中心的海滨大道上，由四座石拱组成，拱下有一座面朝班德拉斯湾的露天剧场。评分4.7★（6,010条评价），本文汇总游客评价、开放时间和游览贴士。
+description: 洛斯阿科斯拱门（Los Arcos）位于巴亚尔塔港（Puerto Vallarta）市中心的海滨大道上，由四座石拱组成，拱下有一座面朝班德拉斯湾的露天剧场。评分4.7★（6,044条评价），本文汇总游客评价、开放时间和游览贴士。
 quickAnswer: 洛斯阿科斯拱门（Los Arcos）由四座石拱组成，坐落在巴亚尔塔港市中心（Centro）的海滨大道（Malecón）上，拱下的露天剧场正对班德拉斯湾（Bay of Banderas）。这里全天24小时开放，免费游览。日落前最后一小时来最好，夕阳会从拱门后方落进海湾。
 faq:
   - q: 巴亚尔塔港的洛斯阿科斯拱门晚上开放吗？

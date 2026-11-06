@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: puerto-vallarta-gringo-gulch
-srcHash: '894a42cd4fce'
+srcHash: '2c51a87f0e40'
 title: 格林戈峡谷（Gringo Gulch）：巴亚尔塔港旅行指南（4.5★）
-description: 格林戈峡谷是巴亚尔塔港市中心（Centro）一片依陡坡而建的住宅区，位于瓜达卢佩圣母教堂背后、夸莱河上方。评分4.5★（461条评价），这里汇总了游客评价、开放时间和游览建议。
+description: 格林戈峡谷是巴亚尔塔港市中心（Centro）一片依陡坡而建的住宅区，位于瓜达卢佩圣母教堂背后、夸莱河上方。评分4.5★（463条评价），这里汇总了游客评价、开放时间和游览建议。
 quickAnswer: 格林戈峡谷（Gringo Gulch）是巴亚尔塔港市中心（Centro）的一片山坡住宅区。它在瓜达卢佩圣母教堂背后拔地而起，俯瞰夸莱河（Río Cuale）。从教堂沿萨拉戈萨街（Calle Zaragoza）的台阶往上走就能进入，全天任何时段都可以免费步行游览。游览大约需要一小时，建议清晨出发，赶在天热之前爬完坡。
 faq:
   - q: 怎么去格林戈峡谷？

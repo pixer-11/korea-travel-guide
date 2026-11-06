@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: puerto-vallarta-pancho-s-takos
-srcHash: '387247fa1fd1'
+srcHash: 'f4fcdbed2fc1'
 title: 'Pancho''s Takos: dónde comer en Puerto Vallarta (4.5★)'
-description: En Basilio Badillo 162, en plena Zona Romántica de Puerto Vallarta, Pancho's Takos es una taquería muy concurrida y de precio moderado. Con 4.5★ (5,283 reseñas), le contamos qué opinan los visitantes, cuál es su horario y algunos consejos útiles.
+description: En Basilio Badillo 162, en plena Zona Romántica de Puerto Vallarta, Pancho's Takos es una taquería muy concurrida y de precio moderado. Con 4.5★ (5,309 reseñas), le contamos qué opinan los visitantes, cuál es su horario y algunos consejos útiles.
 quickAnswer: 'En Basilio Badillo 162, en la Zona Romántica de Puerto Vallarta, se encuentra Pancho''s Takos, una taquería muy concurrida y de precio moderado. Solo abre para la cena: de lunes a sábado, de 4pm a 11:30pm, y cierra los domingos. A la hora punta de la cena suele haber espera, así que lo más sencillo para conseguir mesa pronto es llegar poco después de que abran, a las 4pm.'
 faq:
   - q: ¿Dónde está exactamente Pancho's Takos?

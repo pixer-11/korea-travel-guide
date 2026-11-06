@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: puerto-iguazu-plaza-san-martin
-srcHash: '470d56faaaf8'
+srcHash: '47e0c79b8089'
 title: 'Plaza San Martín: guía de viaje de Puerto Iguazú (4.3★)'
-description: 'Situada sobre la avenida Victoria Aguirre, la arteria principal del centro de Puerto Iguazú, la Plaza San Martín figura actualmente en Google como abierta las 24 horas. 4.3★ (3,734 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'Situada sobre la avenida Victoria Aguirre, la arteria principal del centro de Puerto Iguazú, la Plaza San Martín figura actualmente en Google como abierta las 24 horas. 4.3★ (3,736 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: La Plaza San Martín se encuentra sobre la avenida Victoria Aguirre, la vía principal del centro de Puerto Iguazú, y Google la indica actualmente como abierta las 24 horas. No es un atractivo en sí mismo, sino una plaza pública con bancos y sombra. Conviene aprovecharla para hacer una pausa de 20–40 minutos entre la terminal de ómnibus, los restaurantes del pueblo y la caminata hasta el Hito Tres Fronteras. Los mejores momentos para ir son el final de la tarde y el comienzo de la noche, cuando ya ha bajado el calor subtropical.
 faq:
   - q: ¿Dónde está exactamente la Plaza San Martín de Puerto Iguazú?

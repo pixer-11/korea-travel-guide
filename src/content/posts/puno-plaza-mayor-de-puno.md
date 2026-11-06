@@ -1,60 +1,89 @@
 ---
-title: "Plaza Mayor de Puno: Travel Guide (4.4★)"
-description: "Plaza Mayor de Puno, also called the Plaza de Armas, is the main square of central Puno, Peru, framed by Puno Cathedral and colonial-era houses at around 3,800 metres above sea level. 4.4★ (10,738 reviews) — what visitors say, hours, and tips."
-country: "Peru"
-region: "Puno"
-category: "attraction"
-pubDate: "2026-10-26T15:33:57.530Z"
+title: 'Plaza Mayor de Puno: Travel Guide (4.4★)'
+description: >-
+  Plaza Mayor de Puno, also called the Plaza de Armas, is the main square of
+  central Puno, Peru, framed by Puno Cathedral and colonial-era houses at around
+  3,800 metres above sea level. 4.4★ (10,758 reviews) — what visitors say,
+  hours, and tips.
+country: Peru
+region: Puno
+category: attraction
+pubDate: '2026-10-26T15:33:57.530Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Plaza_Mayor_de_Puno_2025_02.jpg/3840px-Plaza_Mayor_de_Puno_2025_02.jpg"
-  credit: "Photo: QM Keen / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Plaza_Mayor_de_Puno_2025_02.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Plaza_Mayor_de_Puno_2025_02.jpg/3840px-Plaza_Mayor_de_Puno_2025_02.jpg
+  credit: 'Photo: QM Keen / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Plaza_Mayor_de_Puno_2025_02.jpg'
+  via: act
   focus:
     x: 45
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Plaza_Mayor_de_Puno_2025_01.jpg/3840px-Plaza_Mayor_de_Puno_2025_01.jpg"
-    credit: "Photo: QM Keen / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Plaza_Mayor_de_Puno_2025_01.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Plaza_Mayor_de_Puno_2025_01.jpg/3840px-Plaza_Mayor_de_Puno_2025_01.jpg
+    credit: 'Photo: QM Keen / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Plaza_Mayor_de_Puno_2025_01.jpg'
 place:
-  id: "ChIJvd0TQOtpXZERSx43pOyzmd4"
-  name: "Plaza Mayor de Puno"
-  address: "5X5C+QR3, Puno 21001, Peru"
+  id: ChIJvd0TQOtpXZERSx43pOyzmd4
+  name: Plaza Mayor de Puno
+  address: '5X5C+QR3, Puno 21001, Peru'
   rating: 4.4
-  userRatingsTotal: 10738
-  googleMapsUrl: "https://maps.google.com/?cid=16040049376805461579&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 10758
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16040049376805461579&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -15.8406064
   lng: -70.0279615
-  phone: "+51 971 152 252"
+  phone: +51 971 152 252
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "puno"
-  - "historic site"
-quickAnswer: "Plaza Mayor de Puno, also called the Plaza de Armas, is the main square of central Puno, Peru, framed by Puno Cathedral and colonial-era houses at around 3,800 metres above sea level. It's a public square, so you can visit at any hour. Give it 30–60 minutes, and walk slowly because of the altitude. From here, Jirón Lima, the Balcón del Conde de Lemos and Cerro Huajsapata are all a short walk away."
+  - puno
+  - historic site
+quickAnswer: >-
+  Plaza Mayor de Puno, also called the Plaza de Armas, is the main square of
+  central Puno, Peru, framed by Puno Cathedral and colonial-era houses at around
+  3,800 metres above sea level. It's a public square, so you can visit at any
+  hour. Give it 30–60 minutes, and walk slowly because of the altitude. From
+  here, Jirón Lima, the Balcón del Conde de Lemos and Cerro Huajsapata are all a
+  short walk away.
 faq:
-  - q: "Is Plaza Mayor de Puno the same as the Plaza de Armas?"
-    a: "Yes. Both names refer to Puno's main square, which faces Puno Cathedral at the top of the pedestrian street Jirón Lima."
-  - q: "How long should I spend at the plaza?"
-    a: "Allow 30–60 minutes for the square, the cathedral facade and a lap of the colonial balconies. Make it a half day if you add the Balcón del Conde de Lemos, the Casa del Corregidor and the climb to Cerro Huajsapata."
-  - q: "How do I get to the plaza from the Lake Titicaca port?"
-    a: "Walk uphill into the centre and follow Jirón Lima, which leads straight to the plaza. If you've just arrived and feel the altitude, a taxi or mototaxi is easier."
-  - q: "When is the best time of year to visit?"
-    a: "February is the most dramatic month, because the Fiesta de la Candelaria fills the streets with dancers and brass bands. Book accommodation far ahead. The rest of the year is calmer, though evenings stay cold at this altitude."
-  - q: "Can I go inside Puno Cathedral?"
-    a: "Usually, yes, but visiting hours and mass times vary. Check the notice at the cathedral door, take your hat off inside and avoid flash photography during services."
+  - q: Is Plaza Mayor de Puno the same as the Plaza de Armas?
+    a: >-
+      Yes. Both names refer to Puno's main square, which faces Puno Cathedral at
+      the top of the pedestrian street Jirón Lima.
+  - q: How long should I spend at the plaza?
+    a: >-
+      Allow 30–60 minutes for the square, the cathedral facade and a lap of the
+      colonial balconies. Make it a half day if you add the Balcón del Conde de
+      Lemos, the Casa del Corregidor and the climb to Cerro Huajsapata.
+  - q: How do I get to the plaza from the Lake Titicaca port?
+    a: >-
+      Walk uphill into the centre and follow Jirón Lima, which leads straight to
+      the plaza. If you've just arrived and feel the altitude, a taxi or
+      mototaxi is easier.
+  - q: When is the best time of year to visit?
+    a: >-
+      February is the most dramatic month, because the Fiesta de la Candelaria
+      fills the streets with dancers and brass bands. Book accommodation far
+      ahead. The rest of the year is calmer, though evenings stay cold at this
+      altitude.
+  - q: Can I go inside Puno Cathedral?
+    a: >-
+      Usually, yes, but visiting hours and mass times vary. Check the notice at
+      the cathedral door, take your hat off inside and avoid flash photography
+      during services.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-06'
 ---
 
 ## A square at 3,800 metres

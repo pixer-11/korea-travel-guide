@@ -1,59 +1,88 @@
 ---
-title: "Hito Tres Fronteras (Argentina): Puerto Iguazu Travel Guide"
-description: "Hito Tres Fronteras (Argentina) sits on Av. Río Iguazú at the western edge of Puerto Iguazú, where the Iguazú and Paraná rivers meet and you can see Brazil and Paraguay from one railing. 4.4★ (65,276 reviews) — what visitors say, hours, and tips."
-country: "Argentina"
-region: "Puerto Iguazu"
-category: "hidden-gem"
-pubDate: "2026-10-26T15:35:47.470Z"
+title: 'Hito Tres Fronteras (Argentina): Puerto Iguazu Travel Guide'
+description: >-
+  Hito Tres Fronteras (Argentina) sits on Av. Río Iguazú at the western edge of
+  Puerto Iguazú, where the Iguazú and Paraná rivers meet and you can see Brazil
+  and Paraguay from one railing. 4.4★ (65,358 reviews) — what visitors say,
+  hours, and tips.
+country: Argentina
+region: Puerto Iguazu
+category: hidden-gem
+pubDate: '2026-10-26T15:35:47.470Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Hito_de_las_Tres_Fronteras._Puesta_de_Sol.jpg/3840px-Hito_de_las_Tres_Fronteras._Puesta_de_Sol.jpg"
-  credit: "Photo: Pedro J Pacheco / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Hito_de_las_Tres_Fronteras._Puesta_de_Sol.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Hito_de_las_Tres_Fronteras._Puesta_de_Sol.jpg/3840px-Hito_de_las_Tres_Fronteras._Puesta_de_Sol.jpg
+  credit: 'Photo: Pedro J Pacheco / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Hito_de_las_Tres_Fronteras._Puesta_de_Sol.jpg
+  via: act
   focus:
     x: 50
-    y: 55
+    'y': 55
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Hito_de_las_Tres_Fronteras.jpg/3840px-Hito_de_las_Tres_Fronteras.jpg"
-    credit: "Photo: Pedro J Pacheco / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Hito_de_las_Tres_Fronteras.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Hito_de_las_Tres_Fronteras.jpg/3840px-Hito_de_las_Tres_Fronteras.jpg
+    credit: 'Photo: Pedro J Pacheco / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Hito_de_las_Tres_Fronteras.jpg'
 place:
-  id: "ChIJFdLrGxmS9pQR7rrIODA-fI8"
-  name: "Hito Tres Fronteras (Argentina)"
-  address: "Av. Río Iguazú, Puerto Iguazú, Misiones, Argentina"
+  id: ChIJFdLrGxmS9pQR7rrIODA-fI8
+  name: Hito Tres Fronteras (Argentina)
+  address: 'Av. Río Iguazú, Puerto Iguazú, Misiones, Argentina'
   rating: 4.4
-  userRatingsTotal: 65276
-  googleMapsUrl: "https://maps.google.com/?cid=10339207221367847662&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 65358
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10339207221367847662&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -25.5948314
   lng: -54.5907845
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "puerto iguazu"
-  - "Hito Tres Fronteras"
-quickAnswer: "Hito Tres Fronteras (Argentina) sits on Av. Río Iguazú at the western edge of Puerto Iguazú, where the Iguazú and Paraná rivers meet and you can see Brazil and Paraguay from one railing. It is currently listed as open 24 hours and is an easy walk or short taxi ride from the town centre. Go in the late afternoon for sunset over the Paraguayan bank, and plan on 45 minutes to an hour."
+  - puerto iguazu
+  - Hito Tres Fronteras
+quickAnswer: >-
+  Hito Tres Fronteras (Argentina) sits on Av. Río Iguazú at the western edge of
+  Puerto Iguazú, where the Iguazú and Paraná rivers meet and you can see Brazil
+  and Paraguay from one railing. It is currently listed as open 24 hours and is
+  an easy walk or short taxi ride from the town centre. Go in the late afternoon
+  for sunset over the Paraguayan bank, and plan on 45 minutes to an hour.
 faq:
-  - q: "How do I get to Hito Tres Fronteras from Puerto Iguazú centre?"
-    a: "Walk west to the end of Av. Río Iguazú. It's under 2 km from the centre and bus terminal. Taxis and remises are also easy to find, and many people walk there and take a car back after sunset."
-  - q: "What is the best time to visit?"
-    a: "Late afternoon into sunset, when the light falls across the Paraguayan bank and the river. Since that is also when most visitors come, arrive early to get a spot at the railing. Mornings are calmer while the tour groups are at the falls."
-  - q: "How long should I spend there?"
-    a: "Usually 45 minutes to an hour. That gives you time for photos at the obelisk, a look along the viewing terraces and a browse of the craft stalls."
-  - q: "Can I see Brazil and Paraguay from the Argentine marker?"
-    a: "Yes. Brazil is across the Iguazú River and Paraguay is across the Paraná. You can usually spot each country's obelisk, painted in its flag colours, from the Argentine side."
-  - q: "Can I cross into Brazil or Paraguay from here?"
-    a: "No. The markers are viewpoints only. Border crossings go through the official international bridge checkpoints, not this park."
+  - q: How do I get to Hito Tres Fronteras from Puerto Iguazú centre?
+    a: >-
+      Walk west to the end of Av. Río Iguazú. It's under 2 km from the centre
+      and bus terminal. Taxis and remises are also easy to find, and many people
+      walk there and take a car back after sunset.
+  - q: What is the best time to visit?
+    a: >-
+      Late afternoon into sunset, when the light falls across the Paraguayan
+      bank and the river. Since that is also when most visitors come, arrive
+      early to get a spot at the railing. Mornings are calmer while the tour
+      groups are at the falls.
+  - q: How long should I spend there?
+    a: >-
+      Usually 45 minutes to an hour. That gives you time for photos at the
+      obelisk, a look along the viewing terraces and a browse of the craft
+      stalls.
+  - q: Can I see Brazil and Paraguay from the Argentine marker?
+    a: >-
+      Yes. Brazil is across the Iguazú River and Paraguay is across the Paraná.
+      You can usually spot each country's obelisk, painted in its flag colours,
+      from the Argentine side.
+  - q: Can I cross into Brazil or Paraguay from here?
+    a: >-
+      No. The markers are viewpoints only. Border crossings go through the
+      official international bridge checkpoints, not this park.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-06'
 ---
 
 ## Three countries, one railing

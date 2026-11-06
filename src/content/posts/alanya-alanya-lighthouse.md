@@ -1,59 +1,84 @@
 ---
-title: "Alanya Lighthouse: Travel Guide (4.7★)"
-description: "Alanya Lighthouse stands on the rocky western tip of the castle peninsula in Alanya. 4.7★ (1,622 reviews) — what visitors say, hours, and tips."
-country: "Turkey"
-region: "Alanya"
-category: "hidden-gem"
-pubDate: "2026-11-05T07:49:43.355Z"
+title: 'Alanya Lighthouse: Travel Guide (4.7★)'
+description: >-
+  Alanya Lighthouse stands on the rocky western tip of the castle peninsula in
+  Alanya. 4.7★ (1,623 reviews) — what visitors say, hours, and tips.
+country: Turkey
+region: Alanya
+category: hidden-gem
+pubDate: '2026-11-05T07:49:43.355Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Alanya_Lighthouse_5748.jpg/3840px-Alanya_Lighthouse_5748.jpg"
-  credit: "Photo: Dosseman / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Alanya_Lighthouse_5748.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Alanya_Lighthouse_5748.jpg/3840px-Alanya_Lighthouse_5748.jpg
+  credit: 'Photo: Dosseman / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Alanya_Lighthouse_5748.jpg'
+  via: act
   focus:
     x: 75
-    y: 25
+    'y': 25
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Alanya_Lighthouse_8379.jpg/3840px-Alanya_Lighthouse_8379.jpg"
-    credit: "Photo: Dosseman / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Alanya_Lighthouse_8379.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Alanya_Lighthouse_8379.jpg/3840px-Alanya_Lighthouse_8379.jpg
+    credit: 'Photo: Dosseman / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Alanya_Lighthouse_8379.jpg'
 place:
-  id: "ChIJT4N71G-Y3BQR-s9SCeEhNAA"
-  name: "Alanya Lighthouse"
-  address: "Çarşı, Unnamed Rd, 07400 Alanya/Antalya, Türkiye"
+  id: ChIJT4N71G-Y3BQR-s9SCeEhNAA
+  name: Alanya Lighthouse
+  address: 'Çarşı, Unnamed Rd, 07400 Alanya/Antalya, Türkiye'
   rating: 4.7
-  userRatingsTotal: 1622
-  googleMapsUrl: "https://maps.google.com/?cid=14673949196734458&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1623
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14673949196734458&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 36.5388728
   lng: 32.0045022
   openingHours:
-    - "Monday: 9:00 AM – 5:00 PM"
-    - "Tuesday: 9:00 AM – 5:00 PM"
-    - "Wednesday: 9:00 AM – 5:00 PM"
-    - "Thursday: 9:00 AM – 5:00 PM"
-    - "Friday: 9:00 AM – 5:00 PM"
-    - "Saturday: 9:00 AM – 5:00 PM"
-    - "Sunday: 9:00 AM – 5:00 PM"
+    - 'Monday: 9:00 AM – 5:00 PM'
+    - 'Tuesday: 9:00 AM – 5:00 PM'
+    - 'Wednesday: 9:00 AM – 5:00 PM'
+    - 'Thursday: 9:00 AM – 5:00 PM'
+    - 'Friday: 9:00 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 5:00 PM'
+    - 'Sunday: 9:00 AM – 5:00 PM'
 tags:
-  - "alanya"
-  - "old quarter"
-quickAnswer: "Alanya Lighthouse stands on the rocky western tip of the castle peninsula in Alanya. It's an easy coastal walk from Damlataş Cave and Cleopatra Beach, and it currently opens 9am–5pm. Plan on an hour for the walk out, the views of the cliffs and a stop on the rocks, and go in the morning before the midday heat."
+  - alanya
+  - old quarter
+quickAnswer: >-
+  Alanya Lighthouse stands on the rocky western tip of the castle peninsula in
+  Alanya. It's an easy coastal walk from Damlataş Cave and Cleopatra Beach, and
+  it currently opens 9am–5pm. Plan on an hour for the walk out, the views of the
+  cliffs and a stop on the rocks, and go in the morning before the midday heat.
 faq:
-  - q: "How do I get to Alanya Lighthouse?"
-    a: "Walk the coastal road around the western base of the castle peninsula, starting near Damlataş Cave at the end of Cleopatra Beach. It's flat and paved. Taxis and dolmuş minibuses run to the Damlataş area if you want a shorter walk."
-  - q: "What are the opening hours?"
-    a: "It's currently listed as open 9am–5pm every day. Hours can change with the season, so check Google or ask locally before you go."
-  - q: "How long should I spend there?"
-    a: "About an hour covers the walk from Damlataş, time on the rocks and the return. If you add Damlataş Cave and the castle, make it half a day."
-  - q: "What is the best time of day to visit?"
-    a: "Go in the morning, soon after opening. The route and the point have little shade, and in summer the rocks get very hot by afternoon. Spring and autumn are the most comfortable seasons."
-  - q: "What else is nearby?"
-    a: "Damlataş Cave and Cleopatra Beach are at the start of the walk, and Alanya Castle sits on the ridge above. Kızılkule and the harbour are on the peninsula's east side, and boat trips from there pass the sea caves on the headland."
+  - q: How do I get to Alanya Lighthouse?
+    a: >-
+      Walk the coastal road around the western base of the castle peninsula,
+      starting near Damlataş Cave at the end of Cleopatra Beach. It's flat and
+      paved. Taxis and dolmuş minibuses run to the Damlataş area if you want a
+      shorter walk.
+  - q: What are the opening hours?
+    a: >-
+      It's currently listed as open 9am–5pm every day. Hours can change with the
+      season, so check Google or ask locally before you go.
+  - q: How long should I spend there?
+    a: >-
+      About an hour covers the walk from Damlataş, time on the rocks and the
+      return. If you add Damlataş Cave and the castle, make it half a day.
+  - q: What is the best time of day to visit?
+    a: >-
+      Go in the morning, soon after opening. The route and the point have little
+      shade, and in summer the rocks get very hot by afternoon. Spring and
+      autumn are the most comfortable seasons.
+  - q: What else is nearby?
+    a: >-
+      Damlataş Cave and Cleopatra Beach are at the start of the walk, and Alanya
+      Castle sits on the ridge above. Kızılkule and the harbour are on the
+      peninsula's east side, and boat trips from there pass the sea caves on the
+      headland.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-06'
 ---
 
 ## Where the peninsula runs out

@@ -1,36 +1,43 @@
 ---
-title: "Luli Island: Puerto Princesa Travel Guide (4.3★)"
-description: "Luli Island is a sliver of white sandbar off Puerto Princesa that only fully appears at low tide, reachable by a 30–40 minute boat ride from Honda Bay's Santa Lourdes wharf. 4.3★ (1,043 reviews) — what visitors say, hours, and tips."
-country: "Philippines"
-region: "Puerto Princesa"
-category: "attraction"
-pubDate: "2026-08-11T09:11:47.076Z"
+title: 'Luli Island: Puerto Princesa Travel Guide (4.3★)'
+description: >-
+  Luli Island is a sliver of white sandbar off Puerto Princesa that only fully
+  appears at low tide, reachable by a 30–40 minute boat ride from Honda Bay's
+  Santa Lourdes wharf. 4.3★ (1,048 reviews) — what visitors say, hours, and
+  tips.
+country: Philippines
+region: Puerto Princesa
+category: attraction
+pubDate: '2026-08-11T09:11:47.076Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Luli_Island%2C_Honda_Bay%2C_Palawan%2C_Philippines.jpg/3840px-Luli_Island%2C_Honda_Bay%2C_Palawan%2C_Philippines.jpg"
-  credit: "Photo: mendhak / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Luli_Island,_Honda_Bay,_Palawan,_Philippines.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Luli_Island%2C_Honda_Bay%2C_Palawan%2C_Philippines.jpg/3840px-Luli_Island%2C_Honda_Bay%2C_Palawan%2C_Philippines.jpg
+  credit: 'Photo: mendhak / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Luli_Island,_Honda_Bay,_Palawan,_Philippines.jpg
 gallery: []
 place:
-  id: "ChIJsZOlW_V7tTMRiia2GPwWkRs"
-  name: "Luli Island"
-  address: "VQF8+FQW, Puerto Princesa City, Palawan, Philippines"
+  id: ChIJsZOlW_V7tTMRiia2GPwWkRs
+  name: Luli Island
+  address: 'VQF8+FQW, Puerto Princesa City, Palawan, Philippines'
   rating: 4.3
-  userRatingsTotal: 1043
-  googleMapsUrl: "https://maps.google.com/?cid=1986394182649259658&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1048
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1986394182649259658&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 9.873736899999999
   lng: 118.7669578
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-08-11
+    updated: 2026-08-11T00:00:00.000Z
     weekdayBusy:
       - 9
       - 10
@@ -47,24 +54,47 @@ place:
       - 12
       - 13
       - 14
-    venueId: "ven_73526b5777504732616969524d547437565f576c4f5a734a496843"
+    venueId: ven_73526b5777504732616969524d547437565f576c4f5a734a496843
 tags:
-  - "puerto princesa"
-  - "top attraction"
-quickAnswer: "Luli Island is a sliver of white sandbar off Puerto Princesa that only fully appears at low tide, reachable by a 30–40 minute boat ride from Honda Bay's Santa Lourdes wharf. It's usually visited as part of an Honda Bay island-hopping tour alongside Starfish Island or Cowrie Island. Weekend crowds peak between 8am and 3pm, so aim for an early departure or, if you're staying nearby overnight, the quieter evening stretch."
+  - puerto princesa
+  - top attraction
+quickAnswer: >-
+  Luli Island is a sliver of white sandbar off Puerto Princesa that only fully
+  appears at low tide, reachable by a 30–40 minute boat ride from Honda Bay's
+  Santa Lourdes wharf. It's usually visited as part of an Honda Bay
+  island-hopping tour alongside Starfish Island or Cowrie Island. Weekend crowds
+  peak between 8am and 3pm, so aim for an early departure or, if you're staying
+  nearby overnight, the quieter evening stretch.
 faq:
-  - q: "How do I get to Luli Island from Puerto Princesa?"
-    a: "Take a tricycle or Grab to Santa Lourdes Wharf (about 20 minutes from downtown), then join a Honda Bay island-hopping boat tour, which takes roughly 30–40 minutes to reach Luli Island."
-  - q: "How much does it cost to visit?"
-    a: "Expect to pay a Puerto Princesa eco-tourism fee at the wharf, a boat tour package fee, and a small separate entrance fee on Luli Island itself. Bring cash in small bills, since exact costs vary by season and operator."
-  - q: "When is the best time to visit Luli Island?"
-    a: "Go early on a low-tide morning for the full sandbar. Weekends get crowded between 8am and 3pm, so an early departure helps you beat the rush; the calmest window overall is 9pm–11pm, though that's mainly relevant if you're staying overnight nearby."
-  - q: "How long should I plan to spend there?"
-    a: "Most tours allot about an hour at Luli Island as part of a longer Honda Bay itinerary covering two or three islands total — it's not usually a full standalone day trip."
-  - q: "Can I visit Luli Island on its own, without a group tour?"
-    a: "It's possible to charter a private boat from Santa Lourdes Wharf, but most visitors combine it with nearby islands like Starfish or Cowrie Island in one package for better value."
+  - q: How do I get to Luli Island from Puerto Princesa?
+    a: >-
+      Take a tricycle or Grab to Santa Lourdes Wharf (about 20 minutes from
+      downtown), then join a Honda Bay island-hopping boat tour, which takes
+      roughly 30–40 minutes to reach Luli Island.
+  - q: How much does it cost to visit?
+    a: >-
+      Expect to pay a Puerto Princesa eco-tourism fee at the wharf, a boat tour
+      package fee, and a small separate entrance fee on Luli Island itself.
+      Bring cash in small bills, since exact costs vary by season and operator.
+  - q: When is the best time to visit Luli Island?
+    a: >-
+      Go early on a low-tide morning for the full sandbar. Weekends get crowded
+      between 8am and 3pm, so an early departure helps you beat the rush; the
+      calmest window overall is 9pm–11pm, though that's mainly relevant if
+      you're staying overnight nearby.
+  - q: How long should I plan to spend there?
+    a: >-
+      Most tours allot about an hour at Luli Island as part of a longer Honda
+      Bay itinerary covering two or three islands total — it's not usually a
+      full standalone day trip.
+  - q: 'Can I visit Luli Island on its own, without a group tour?'
+    a: >-
+      It's possible to charter a private boat from Santa Lourdes Wharf, but most
+      visitors combine it with nearby islands like Starfish or Cowrie Island in
+      one package for better value.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-06'
 ---
 
 ## Why go

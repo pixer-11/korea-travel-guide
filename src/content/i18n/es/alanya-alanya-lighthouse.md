@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: alanya-alanya-lighthouse
-srcHash: 'd9839ea2510a'
+srcHash: '4bfeaf874fcf'
 title: 'Faro de Alanya: guía de viaje (4.7★)'
-description: En el extremo occidental de la península del castillo de Alanya, sobre un saliente rocoso, se alza el Faro de Alanya. Con 4.7★ (1,622 reseñas), aquí encontrará qué opinan los visitantes, el horario y consejos prácticos.
+description: En el extremo occidental de la península del castillo de Alanya, sobre un saliente rocoso, se alza el Faro de Alanya. Con 4.7★ (1,623 reseñas), aquí encontrará qué opinan los visitantes, el horario y consejos prácticos.
 quickAnswer: En el extremo occidental de la península del castillo de Alanya, sobre un saliente rocoso, se alza el Faro de Alanya. Se llega con un sencillo paseo por la costa desde la cueva de Damlataş y la playa de Cleopatra, y actualmente abre de 9am–5pm. Reserve una hora para la caminata de ida, la contemplación de los acantilados y un descanso sobre las rocas. Lo ideal es ir por la mañana, antes de que apriete el calor del mediodía.
 faq:
   - q: ¿Cómo se llega al Faro de Alanya?

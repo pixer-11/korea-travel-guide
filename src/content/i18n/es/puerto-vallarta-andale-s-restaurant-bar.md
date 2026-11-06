@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: puerto-vallarta-andale-s-restaurant-bar
-srcHash: '764758229efc'
+srcHash: '201a0665c70d'
 title: 'Andale''s Restaurant & Bar: dónde comer en Puerto Vallarta'
-description: En Olas Altas 425, en plena Zona Romántica de Puerto Vallarta, Andale's Restaurant & Bar lleva años funcionando como bar y parrilla. Tiene 4.6★ (3,359 reseñas). Aquí encontrará la opinión de los visitantes, el horario y algunos consejos.
+description: En Olas Altas 425, en plena Zona Romántica de Puerto Vallarta, Andale's Restaurant & Bar lleva años funcionando como bar y parrilla. Tiene 4.6★ (3,476 reseñas). Aquí encontrará la opinión de los visitantes, el horario y algunos consejos.
 quickAnswer: En Olas Altas 425, en la Zona Romántica de Puerto Vallarta, se encuentra Andale's Restaurant & Bar, un bar y parrilla con muchos años de historia. A pocos pasos de la playa Los Muertos, ofrece comida casera y margaritas todos los días de 7am a 2am, a precios moderados. Si busca una mesa tranquila, vaya a desayunar; si lo que quiere es fiesta, vaya cuando caiga la noche.
 faq:
   - q: ¿Cuál es el horario de Andale's?

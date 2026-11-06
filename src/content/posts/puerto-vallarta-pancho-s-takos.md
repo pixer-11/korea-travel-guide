@@ -1,57 +1,87 @@
 ---
-title: "Pancho's Takos: Where to Eat in Puerto Vallarta (4.5★)"
-description: "Pancho's Takos is a busy, moderately priced taco restaurant at Basilio Badillo 162 in Puerto Vallarta's Zona Romántica. 4.5★ (5,283 reviews) — what visitors say, hours, and tips."
-country: "Mexico"
-region: "Puerto Vallarta"
-category: "restaurant"
-pubDate: "2026-10-05T16:27:49.494Z"
+title: 'Pancho''s Takos: Where to Eat in Puerto Vallarta (4.5★)'
+description: >-
+  Pancho's Takos is a busy, moderately priced taco restaurant at Basilio Badillo
+  162 in Puerto Vallarta's Zona Romántica. 4.5★ (5,309 reviews) — what visitors
+  say, hours, and tips.
+country: Mexico
+region: Puerto Vallarta
+category: restaurant
+pubDate: '2026-10-05T16:27:49.494Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Pancho%27s_Takos%2C_Puerto_Vallarta%2C_2021.jpg/3840px-Pancho%27s_Takos%2C_Puerto_Vallarta%2C_2021.jpg"
-  credit: "Photo: Another Believer / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Pancho%27s_Takos,_Puerto_Vallarta,_2021.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Pancho%27s_Takos%2C_Puerto_Vallarta%2C_2021.jpg/3840px-Pancho%27s_Takos%2C_Puerto_Vallarta%2C_2021.jpg
+  credit: 'Photo: Another Believer / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Pancho%27s_Takos,_Puerto_Vallarta,_2021.jpg
+  via: act
   focus:
     x: 30
-    y: 55
+    'y': 55
 gallery: []
 place:
-  id: "ChIJUQA3ZEtFIYQRTO4zuTu-OF0"
-  name: "Pancho's Takos"
-  address: "Basilio Badillo 162, Zona Romántica, Emiliano Zapata, 48380 Puerto Vallarta, Jal., Mexico"
+  id: ChIJUQA3ZEtFIYQRTO4zuTu-OF0
+  name: Pancho's Takos
+  address: >-
+    Basilio Badillo 162, Zona Romántica, Emiliano Zapata, 48380 Puerto Vallarta,
+    Jal., Mexico
   rating: 4.5
-  userRatingsTotal: 5283
+  userRatingsTotal: 5309
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=6717328007942630988&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6717328007942630988&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 20.6019541
   lng: -105.23756279999999
-  phone: "+52 322 222 1693"
+  phone: +52 322 222 1693
   openingHours:
-    - "Monday: 4:00 – 11:30 PM"
-    - "Tuesday: 4:00 – 11:30 PM"
-    - "Wednesday: 4:00 – 11:30 PM"
-    - "Thursday: 4:00 – 11:30 PM"
-    - "Friday: 4:00 – 11:30 PM"
-    - "Saturday: 4:00 – 11:30 PM"
-    - "Sunday: Closed"
+    - 'Monday: 4:00 – 11:30 PM'
+    - 'Tuesday: 4:00 – 11:30 PM'
+    - 'Wednesday: 4:00 – 11:30 PM'
+    - 'Thursday: 4:00 – 11:30 PM'
+    - 'Friday: 4:00 – 11:30 PM'
+    - 'Saturday: 4:00 – 11:30 PM'
+    - 'Sunday: Closed'
 tags:
-  - "puerto vallarta"
-  - "street food"
-quickAnswer: "Pancho's Takos is a busy, moderately priced taco restaurant at Basilio Badillo 162 in Puerto Vallarta's Zona Romántica. It serves dinner only, 4pm to 11:30pm Monday to Saturday, and is closed on Sundays. Expect a wait at peak dinner time, so arriving close to the 4pm opening is the easiest way to get a table quickly."
+  - puerto vallarta
+  - street food
+quickAnswer: >-
+  Pancho's Takos is a busy, moderately priced taco restaurant at Basilio Badillo
+  162 in Puerto Vallarta's Zona Romántica. It serves dinner only, 4pm to 11:30pm
+  Monday to Saturday, and is closed on Sundays. Expect a wait at peak dinner
+  time, so arriving close to the 4pm opening is the easiest way to get a table
+  quickly.
 faq:
-  - q: "Where exactly is Pancho's Takos?"
-    a: "It's at Basilio Badillo 162 in Zona Romántica, Puerto Vallarta's old town south of the Río Cuale. The restaurant street it's on runs inland from Los Muertos Beach. From the Malecón you can walk there by crossing the river and heading south."
-  - q: "Is Pancho's Takos open on Sundays or for lunch?"
-    a: "No to both. It's closed on Sundays. Monday to Saturday it opens at 4pm and stays open until 11:30pm, so it's a dinner and late-night stop only."
-  - q: "How do I avoid a long wait?"
-    a: "It's a very popular spot, so plan for a line. Getting there close to the 4pm opening usually beats the dinner rush, and so does a late meal after the first wave has left. Saturday is the last night before the Sunday closure and tends to be busy."
-  - q: "How long should I plan for dinner there?"
-    a: "About an hour at the table. On busy evenings, add time for the line. Tacos come by the piece, so you can keep it quick or keep ordering rounds."
-  - q: "What is nearby for before or after eating?"
-    a: "Los Muertos Beach and its lit, sail-topped pier are a short walk away and good for sunset over Banderas Bay. Lázaro Cárdenas Park and the Olas Altas strip are close by too. The Malecón is just across the Río Cuale to the north."
+  - q: Where exactly is Pancho's Takos?
+    a: >-
+      It's at Basilio Badillo 162 in Zona Romántica, Puerto Vallarta's old town
+      south of the Río Cuale. The restaurant street it's on runs inland from Los
+      Muertos Beach. From the Malecón you can walk there by crossing the river
+      and heading south.
+  - q: Is Pancho's Takos open on Sundays or for lunch?
+    a: >-
+      No to both. It's closed on Sundays. Monday to Saturday it opens at 4pm and
+      stays open until 11:30pm, so it's a dinner and late-night stop only.
+  - q: How do I avoid a long wait?
+    a: >-
+      It's a very popular spot, so plan for a line. Getting there close to the
+      4pm opening usually beats the dinner rush, and so does a late meal after
+      the first wave has left. Saturday is the last night before the Sunday
+      closure and tends to be busy.
+  - q: How long should I plan for dinner there?
+    a: >-
+      About an hour at the table. On busy evenings, add time for the line. Tacos
+      come by the piece, so you can keep it quick or keep ordering rounds.
+  - q: What is nearby for before or after eating?
+    a: >-
+      Los Muertos Beach and its lit, sail-topped pier are a short walk away and
+      good for sunset over Banderas Bay. Lázaro Cárdenas Park and the Olas Altas
+      strip are close by too. The Malecón is just across the Río Cuale to the
+      north.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-06'
 ---
 
 ## A taquería that starts at four

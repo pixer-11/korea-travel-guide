@@ -1,45 +1,54 @@
 ---
-title: "Saint Joseph's Oratory of Mount Royal: Montreal Travel Guide"
-description: "Saint Joseph's Oratory of Mount Royal stands on the northwest slope of Mount Royal in Montreal's Côte-des-Neiges neighbourhood, a short walk from Côte-des-Neiges metro station on the Blue Line. 4.8★ (25,986 reviews) — what visitors say, hours, and tips."
-country: "Canada"
-region: "Montreal"
-category: "attraction"
-pubDate: "2026-11-05T07:49:44.395Z"
+title: 'Saint Joseph''s Oratory of Mount Royal: Montreal Travel Guide'
+description: >-
+  Saint Joseph's Oratory of Mount Royal stands on the northwest slope of Mount
+  Royal in Montreal's Côte-des-Neiges neighbourhood, a short walk from
+  Côte-des-Neiges metro station on the Blue Line. 4.8★ (25,992 reviews) — what
+  visitors say, hours, and tips.
+country: Canada
+region: Montreal
+category: attraction
+pubDate: '2026-11-05T07:49:44.395Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/c/c7/Oratoire_Saint-Joseph_du_Mont-Royal_3.jpg"
-  credit: "Photo: Acarpentier / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Oratoire_Saint-Joseph_du_Mont-Royal_3.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/c/c7/Oratoire_Saint-Joseph_du_Mont-Royal_3.jpg
+  credit: 'Photo: Acarpentier / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Oratoire_Saint-Joseph_du_Mont-Royal_3.jpg
+  via: act
   focus:
     x: 50
-    y: 35
+    'y': 35
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Saint_Joseph%27s_Oratory_Montreal_April_2017_003.jpg/3840px-Saint_Joseph%27s_Oratory_Montreal_April_2017_003.jpg"
-    credit: "Photo: King of Hearts / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Saint_Joseph%27s_Oratory_Montreal_April_2017_003.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Saint_Joseph%27s_Oratory_Montreal_April_2017_003.jpg/3840px-Saint_Joseph%27s_Oratory_Montreal_April_2017_003.jpg
+    credit: 'Photo: King of Hearts / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Saint_Joseph%27s_Oratory_Montreal_April_2017_003.jpg
 place:
-  id: "ChIJad-yd_oZyUwRQ20Rv84PQ0o"
-  name: "Saint Joseph's Oratory of Mount Royal"
-  address: "3800 Ch. Queen Mary, Montréal, QC H3V 1H6, Canada"
+  id: ChIJad-yd_oZyUwRQ20Rv84PQ0o
+  name: Saint Joseph's Oratory of Mount Royal
+  address: '3800 Ch. Queen Mary, Montréal, QC H3V 1H6, Canada'
   rating: 4.8
-  userRatingsTotal: 25986
-  googleMapsUrl: "https://maps.google.com/?cid=5351138162889551171&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 25992
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5351138162889551171&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 45.492135399999995
   lng: -73.61912350000001
-  phone: "+1 514-733-8211"
+  phone: +1 514-733-8211
   openingHours:
-    - "Monday: 6:30 AM – 9:00 PM"
-    - "Tuesday: 6:30 AM – 9:00 PM"
-    - "Wednesday: 6:30 AM – 9:00 PM"
-    - "Thursday: 6:30 AM – 9:00 PM"
-    - "Friday: 6:30 AM – 9:00 PM"
-    - "Saturday: 6:30 AM – 9:00 PM"
-    - "Sunday: 6:30 AM – 9:00 PM"
+    - 'Monday: 6:30 AM – 9:00 PM'
+    - 'Tuesday: 6:30 AM – 9:00 PM'
+    - 'Wednesday: 6:30 AM – 9:00 PM'
+    - 'Thursday: 6:30 AM – 9:00 PM'
+    - 'Friday: 6:30 AM – 9:00 PM'
+    - 'Saturday: 6:30 AM – 9:00 PM'
+    - 'Sunday: 6:30 AM – 9:00 PM'
   busyness:
-    updated: 2026-11-05
+    updated: 2026-11-05T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -58,24 +67,44 @@ place:
       - 17
       - 18
       - 19
-    venueId: "ven_6f30515034387652303251527755795a6f5f64792d64614a496843"
+    venueId: ven_6f30515034387652303251527755795a6f5f64792d64614a496843
 tags:
-  - "montreal"
-  - "historic site"
-quickAnswer: "Saint Joseph's Oratory of Mount Royal stands on the northwest slope of Mount Royal in Montreal's Côte-des-Neiges neighbourhood, a short walk from Côte-des-Neiges metro station on the Blue Line. Give it two to three hours to cover the basilica, the Votive Chapel with Brother André's tomb, and the Way of the Cross gardens. It's usually calmest from 7am–10am on weekdays and 7am–9am on weekends. Weekends from 10am–8pm are the busiest."
+  - montreal
+  - historic site
+quickAnswer: >-
+  Saint Joseph's Oratory of Mount Royal stands on the northwest slope of Mount
+  Royal in Montreal's Côte-des-Neiges neighbourhood, a short walk from
+  Côte-des-Neiges metro station on the Blue Line. Give it two to three hours to
+  cover the basilica, the Votive Chapel with Brother André's tomb, and the Way
+  of the Cross gardens. It's usually calmest from 7am–10am on weekdays and
+  7am–9am on weekends. Weekends from 10am–8pm are the busiest.
 faq:
-  - q: "When is the quietest time to visit Saint Joseph's Oratory?"
-    a: "It's usually calmest from 7am–10am on weekdays and 7am–9am on weekends. Avoid weekends between 10am and 8pm, which is the busiest stretch."
-  - q: "How do I get to Saint Joseph's Oratory by metro?"
-    a: "Take the Blue Line (Line 5) to Côte-des-Neiges station. From there it's roughly a ten-minute walk west along Chemin Queen Mary to number 3800."
-  - q: "How long should I spend at the Oratory?"
-    a: "Plan on two to three hours to see the basilica, the Crypt Church, the Votive Chapel, Brother André's original chapel and the Way of the Cross gardens. Allow longer if you're attending Mass or an organ concert."
-  - q: "Do I have to climb all the stairs?"
-    a: "No. Lifts inside the buildings link the levels, and there's parking on site. The central wooden staircase is kept for pilgrims who climb it on their knees."
-  - q: "What else is nearby?"
-    a: "Notre-Dame-des-Neiges Cemetery is right next door, and Mount Royal Park with Beaver Lake is on the same mountain. The Université de Montréal campus is also in Côte-des-Neiges."
+  - q: When is the quietest time to visit Saint Joseph's Oratory?
+    a: >-
+      It's usually calmest from 7am–10am on weekdays and 7am–9am on weekends.
+      Avoid weekends between 10am and 8pm, which is the busiest stretch.
+  - q: How do I get to Saint Joseph's Oratory by metro?
+    a: >-
+      Take the Blue Line (Line 5) to Côte-des-Neiges station. From there it's
+      roughly a ten-minute walk west along Chemin Queen Mary to number 3800.
+  - q: How long should I spend at the Oratory?
+    a: >-
+      Plan on two to three hours to see the basilica, the Crypt Church, the
+      Votive Chapel, Brother André's original chapel and the Way of the Cross
+      gardens. Allow longer if you're attending Mass or an organ concert.
+  - q: Do I have to climb all the stairs?
+    a: >-
+      No. Lifts inside the buildings link the levels, and there's parking on
+      site. The central wooden staircase is kept for pilgrims who climb it on
+      their knees.
+  - q: What else is nearby?
+    a: >-
+      Notre-Dame-des-Neiges Cemetery is right next door, and Mount Royal Park
+      with Beaver Lake is on the same mountain. The Université de Montréal
+      campus is also in Côte-des-Neiges.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-06'
 ---
 
 ## A dome above Queen Mary Road
