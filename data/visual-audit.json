@@ -4133,9 +4133,9 @@
  },
  "belek-ironman-70-3-turkey\u0001https://upload.wikimedia.org/wikipedia/commons/4/4f/Ironman_70.3_World_Championships_%289703304940%29.jpg": {
   "slug": "belek-ironman-70-3-turkey",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Cyclists racing on road; Ironman 70.3 cycling leg",
-  "at": "2026-11-06T00:30:21.962Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"ironman\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-06T08:12:38.839Z"
  },
  "belek-ironman-70-3-turkey\u0001https://upload.wikimedia.org/wikipedia/commons/d/db/Bart_Aernouts_Ironman_70.3_Austria_2012.jpg": {
   "slug": "belek-ironman-70-3-turkey",
@@ -7884,9 +7884,9 @@
  },
  "cologne-cologne-marathon-carnival-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/4/49/K%C3%B6ln_Marathon_2015-10-04_00053_%2822393926276%29.jpg": {
   "slug": "cologne-cologne-marathon-carnival-marathon",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Marathon race in Cologne street scene",
-  "at": "2026-11-06T00:30:36.686Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"marathon\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-06T08:12:39.039Z"
  },
  "cologne-museum-ludwig\u0001https://upload.wikimedia.org/wikipedia/commons/3/3d/Museum_Ludwig_002.jpg": {
   "slug": "cologne-museum-ludwig",
@@ -13448,9 +13448,9 @@
  },
  "incheon-round-festival-asean-korea-music-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Jean_Pack_performs_at_River_Runs_Round_festival_in_Coughlan%27s%2C_Cork.jpg/3840px-Jean_Pack_performs_at_River_Runs_Round_festival_in_Coughlan%27s%2C_Cork.jpg": {
   "slug": "incheon-round-festival-asean-korea-music-festival",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Performer at music festival event",
-  "at": "2026-11-06T00:32:33.249Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"round\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-06T08:12:39.237Z"
  },
  "incheon-round-festival-asean-korea-music-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/SB19_at_ASEAN_Korea_Music_Festival_2023_%28ROUND%29.jpg/3840px-SB19_at_ASEAN_Korea_Music_Festival_2023_%28ROUND%29.jpg": {
   "slug": "incheon-round-festival-asean-korea-music-festival",
@@ -18091,9 +18091,9 @@
  },
  "lima-sound-music-fest-golden-years-edition\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Atlas_Sound_in_concert_%2823389947870%29.jpg/3840px-Atlas_Sound_in_concert_%2823389947870%29.jpg": {
   "slug": "lima-sound-music-fest-golden-years-edition",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Performer on stage with professional concert lighting",
-  "at": "2026-11-06T00:33:50.512Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"sound\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-06T08:12:39.432Z"
  },
  "lima-sound-music-fest-golden-years-edition\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/The_Sound_of_Music_Gazebo.jpg/3840px-The_Sound_of_Music_Gazebo.jpg": {
   "slug": "lima-sound-music-fest-golden-years-edition",
