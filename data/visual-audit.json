@@ -4119,6 +4119,12 @@
   "reason": "patrol reject: Visible photographer credit watermark overlaid on image",
   "at": "2026-10-31T22:49:41.697Z"
  },
+ "belek-ironman-70-3-turkey\u0001https://upload.wikimedia.org/wikipedia/commons/3/31/Ironman_70.3_World_Championships_%289700068327%29.jpg": {
+  "slug": "belek-ironman-70-3-turkey",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Cycling event, not Ironman triathlon venue.",
+  "at": "2026-11-06T23:46:57.552Z"
+ },
  "belek-ironman-70-3-turkey\u0001https://upload.wikimedia.org/wikipedia/commons/3/34/Ironman_70.3_World_Championships_%289700067755%29.jpg": {
   "slug": "belek-ironman-70-3-turkey",
   "verdict": "MISMATCH",
@@ -4130,6 +4136,12 @@
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: filename shares only \"ironman\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-11-06T08:12:38.839Z"
+ },
+ "belek-ironman-70-3-turkey\u0001https://upload.wikimedia.org/wikipedia/commons/9/93/Ironman_70.3_World_Championships_%289703304942%29.jpg": {
+  "slug": "belek-ironman-70-3-turkey",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Lake Mead, USA, not Ironman Turkey event",
+  "at": "2026-11-06T23:46:54.182Z"
  },
  "belek-ironman-70-3-turkey\u0001https://upload.wikimedia.org/wikipedia/commons/d/db/Bart_Aernouts_Ironman_70.3_Austria_2012.jpg": {
   "slug": "belek-ironman-70-3-turkey",
@@ -7881,6 +7893,12 @@
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: filename shares only \"marathon\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-11-06T08:12:39.039Z"
+ },
+ "cologne-cologne-marathon-carnival-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/6/6a/K%C3%B6ln_Marathon_2017-10-01_00015_%2837501340381%29.jpg": {
+  "slug": "cologne-cologne-marathon-carnival-marathon",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Marathon runner in race bib, urban bridge setting",
+  "at": "2026-11-06T23:47:07.226Z"
  },
  "cologne-museum-ludwig\u0001https://upload.wikimedia.org/wikipedia/commons/3/3d/Museum_Ludwig_002.jpg": {
   "slug": "cologne-museum-ludwig",
@@ -13428,6 +13446,12 @@
   "reason": "hand-reviewed: filename shares only \"round\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-11-03T08:22:43.062Z"
  },
+ "incheon-round-festival-asean-korea-music-festival\u0001https://upload.wikimedia.org/wikipedia/commons/3/3f/SB19_performing_What%3F_at_the_Round_Music_Festival_2021.jpg": {
+  "slug": "incheon-round-festival-asean-korea-music-festival",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Performers in white suits on stage, plausible ROUND Festival",
+  "at": "2026-11-06T23:47:58.680Z"
+ },
  "incheon-round-festival-asean-korea-music-festival\u0001https://upload.wikimedia.org/wikipedia/commons/4/45/AKMF_Round_in_Busan_in_2024.jpg": {
   "slug": "incheon-round-festival-asean-korea-music-festival",
   "verdict": "MISMATCH",
@@ -17981,11 +18005,29 @@
   "reason": "patrol reject: Concert stage performance, unrelated to surfing event",
   "at": "2026-11-06T00:33:01.966Z"
  },
+ "lima-isa-world-surfing-games\u0001https://upload.wikimedia.org/wikipedia/commons/a/ac/Willy_Martin_en_el_show_musical_de_Isa_TKM_-_1.jpg": {
+  "slug": "lima-isa-world-surfing-games",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Performer on stage, unrelated to surfing event",
+  "at": "2026-11-06T23:48:25.177Z"
+ },
+ "lima-isa-world-surfing-games\u0001https://upload.wikimedia.org/wikipedia/commons/c/c0/Reinaldo_Zavarce_en_el_show_musical_de_Isa_TKM_-_1.jpg": {
+  "slug": "lima-isa-world-surfing-games",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Musician performing, unrelated to surfing event",
+  "at": "2026-11-06T23:48:26.860Z"
+ },
  "lima-isa-world-surfing-games\u0001https://upload.wikimedia.org/wikipedia/commons/c/c4/Reinaldo_Zavarce_en_el_show_musical_de_Isa_TKM_-_2.jpg": {
   "slug": "lima-isa-world-surfing-games",
   "verdict": "MISMATCH",
   "reason": "patrol reject: Concert performer, unrelated to surfing event",
   "at": "2026-11-06T00:33:03.477Z"
+ },
+ "lima-isa-world-surfing-games\u0001https://upload.wikimedia.org/wikipedia/commons/c/c8/Micaela_Castelotti_en_el_show_musical_de_Isa_TKM_-_1.jpg": {
+  "slug": "lima-isa-world-surfing-games",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Performer with microphone, unrelated to surfing event",
+  "at": "2026-11-06T23:48:23.380Z"
  },
  "lima-isa-world-surfing-games\u0001https://upload.wikimedia.org/wikipedia/commons/c/cd/Isa_Guha.jpg": {
   "slug": "lima-isa-world-surfing-games",
@@ -18100,6 +18142,12 @@
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: filename shares only \"sound\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-11-03T08:22:43.265Z"
+ },
+ "lima-sound-music-fest-golden-years-edition\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Atlas_Sound_in_concert_%2823317745629%29.jpg/3840px-Atlas_Sound_in_concert_%2823317745629%29.jpg": {
+  "slug": "lima-sound-music-fest-golden-years-edition",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Live performer on stage at music festival event",
+  "at": "2026-11-06T23:48:51.912Z"
  },
  "lima-taemin-liminal-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/3/30/Taemin_at_Dream_Concert_2015_07.jpg": {
   "slug": "lima-taemin-liminal-world-tour",
@@ -18549,6 +18597,12 @@
   "reason": "patrol reject: Illustration/painting, unrelated to event",
   "at": "2026-10-25T23:24:02.908Z"
  },
+ "london-catch-the-young-ignite-evolve-europe-tour\u0001https://upload.wikimedia.org/wikipedia/commons/0/0f/Catch_The_Wind_21.jpg": {
+  "slug": "london-catch-the-young-ignite-evolve-europe-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Kites in sky, unrelated to event or venue",
+  "at": "2026-11-06T23:49:21.968Z"
+ },
  "london-catch-the-young-ignite-evolve-europe-tour\u0001https://upload.wikimedia.org/wikipedia/commons/3/31/Catch_The_Wind_02.jpg": {
   "slug": "london-catch-the-young-ignite-evolve-europe-tour",
   "verdict": "MISMATCH",
@@ -18561,11 +18615,23 @@
   "reason": "patrol reject: Kite festival scene, unrelated to music tour event",
   "at": "2026-11-06T00:34:23.556Z"
  },
+ "london-catch-the-young-ignite-evolve-europe-tour\u0001https://upload.wikimedia.org/wikipedia/commons/7/7a/Catch_The_Wind_14.jpg": {
+  "slug": "london-catch-the-young-ignite-evolve-europe-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated kite flying beach scene, not event-related",
+  "at": "2026-11-06T23:49:23.644Z"
+ },
  "london-catch-the-young-ignite-evolve-europe-tour\u0001https://upload.wikimedia.org/wikipedia/commons/a/a7/Catch_The_Wind_08.jpg": {
   "slug": "london-catch-the-young-ignite-evolve-europe-tour",
   "verdict": "MISMATCH",
   "reason": "patrol reject: Beach kite flying scene, unrelated to event",
   "at": "2026-11-06T00:34:21.900Z"
+ },
+ "london-catch-the-young-ignite-evolve-europe-tour\u0001https://upload.wikimedia.org/wikipedia/commons/e/e4/Catch_The_Wind_29.jpg": {
+  "slug": "london-catch-the-young-ignite-evolve-europe-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Kite festival sky, unrelated to music tour event",
+  "at": "2026-11-06T23:49:25.328Z"
  },
  "london-catch-the-young-ignite-evolve-europe-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2015-01-31_21-22-59_catch-belfort.jpg/3840px-2015-01-31_21-22-59_catch-belfort.jpg": {
   "slug": "london-catch-the-young-ignite-evolve-europe-tour",
@@ -20979,6 +21045,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Decorative skulls with Coke bottle, unrelated to event",
   "at": "2026-11-05T01:47:39.560Z"
+ },
+ "mexico-city-coca-cola-flow-fest-2026\u0001https://upload.wikimedia.org/wikipedia/commons/f/f6/Aut%C3%B3dromo_Hermanos_Rodr%C3%ADguez%2C_June_4%2C_2018_SkySat_%28cropped%29.jpg": {
+  "slug": "mexico-city-coca-cola-flow-fest-2026",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Aerial view of Autódromo Hermanos Rodríguez circuit",
+  "at": "2026-11-06T23:50:08.178Z"
  },
  "mexico-city-coca-cola-flow-fest-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%BB%D0%BB%D1%8B_Coca-Cola_2.jpg/3840px-%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%BB%D0%BB%D1%8B_Coca-Cola_2.jpg": {
   "slug": "mexico-city-coca-cola-flow-fest-2026",

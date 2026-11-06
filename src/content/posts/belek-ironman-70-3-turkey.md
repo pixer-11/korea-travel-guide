@@ -13,6 +13,14 @@ eventOrganizer:
   name: Ironman Group
   url: https://www.ironman.com/races/im703-turkey/
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Kadriye_Beach%2C_Belek%2C_Serik_District%2C_Antalya%2C_Turkey_March_2022.jpg/1280px-Kadriye_Beach%2C_Belek%2C_Serik_District%2C_Antalya%2C_Turkey_March_2022.jpg'
+  credit: 'Photo: Sharon Hahn Darlin (CC BY 2.0)'
+  license: wikimedia
+  source: 'File:Kadriye Beach, Belek, Serik District, Antalya, Turkey March 2022.jpg'
+  focus:
+    x: 50
+    y: 40
 tags:
   - belek
   - event

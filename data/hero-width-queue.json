@@ -3381,7 +3381,11 @@
   "toronto-kensington-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Kensington_Market_Toronto_August_2017_01.jpg/1920px-Kensington_Market_Toronto_August_2017_01.jpg": 1920,
   "toronto-pocket-planet-canada\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Little_Canada_Entrance_2025.jpg/1920px-Little_Canada_Entrance_2025.jpg": 1920,
   "victoria-the-butchart-gardens\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Butchart_Gardens_-_Victoria_%282633111462%29.jpg/3840px-Butchart_Gardens_-_Victoria_%282633111462%29.jpg": 3840,
-  "yellowknife-aurora-emporium-art-gallery\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Aurora_Emporium_Art_Gallery.jpg/3840px-Aurora_Emporium_Art_Gallery.jpg": 3840
+  "yellowknife-aurora-emporium-art-gallery\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Aurora_Emporium_Art_Gallery.jpg/3840px-Aurora_Emporium_Art_Gallery.jpg": 3840,
+  "cologne-cologne-marathon-carnival-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/6/6a/K%C3%B6ln_Marathon_2017-10-01_00015_%2837501340381%29.jpg": 1824,
+  "incheon-round-festival-asean-korea-music-festival\u0001https://upload.wikimedia.org/wikipedia/commons/3/3f/SB19_performing_What%3F_at_the_Round_Music_Festival_2021.jpg": 1920,
+  "lima-sound-music-fest-golden-years-edition\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Atlas_Sound_in_concert_%2823317745629%29.jpg/3840px-Atlas_Sound_in_concert_%2823317745629%29.jpg": 3840,
+  "mexico-city-coca-cola-flow-fest-2026\u0001https://upload.wikimedia.org/wikipedia/commons/f/f6/Aut%C3%B3dromo_Hermanos_Rodr%C3%ADguez%2C_June_4%2C_2018_SkySat_%28cropped%29.jpg": 1920
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -3726,8 +3730,8 @@
   },
   "paris-hando-champs-elysees": {
    "width": 1080,
-   "attempts": 1,
-   "nextTry": "2026-10-25",
+   "attempts": 2,
+   "nextTry": "2026-11-13",
    "flaggedAt": "2026-10-01",
    "lastResult": "no-wider"
   },
@@ -3912,5 +3916,5 @@
    "flaggedAt": "2026-11-06"
   }
  },
- "updated": "2026-11-06T15:26:54.234Z"
+ "updated": "2026-11-06T23:51:52.513Z"
 }

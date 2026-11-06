@@ -13,7 +13,6 @@ eventOrganizer:
   name: OCESA
   url: https://www.ocesa.com.mx/
 eventFactsAsked: true
-gallery: []
 tags:
   - mexico city
   - event
@@ -31,6 +30,14 @@ faq:
     a: Most visitors stay in Roma, Condesa or the Centro Histórico. All three have far more hotels and restaurants than the streets around the circuit, and the Metro or a ride-hailing app gets you to Line 9.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/f/f6/Aut%C3%B3dromo_Hermanos_Rodr%C3%ADguez%2C_June_4%2C_2018_SkySat_%28cropped%29.jpg
+  credit: 'Photo: Planet Labs, Inc. / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Aut%C3%B3dromo_Hermanos_Rodr%C3%ADguez,_June_4,_2018_SkySat_(cropped).jpg
+  focus:
+    x: 50
+    'y': 50
 ---
 
 ## Reggaeton on a racetrack
