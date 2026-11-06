@@ -39352,5 +39352,82 @@
   "registerBreak": false,
   "worst": "累计评价早已过千，评分一直很稳定。一家接待这么多客人的店能做到这一点，通常说明它胜在靠谱，而不是追求新奇。",
   "at": "2026-11-05T07:57:21.191Z"
+ },
+ "es/new-york-boynextdoor-knock-on-vol-2": {
+  "hash": "30309c5c011f",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Pocas veces queda Koreatown tan cerca de un recinto como en este caso.",
+  "at": "2026-11-06T07:50:34.753Z"
+ },
+ "ko/new-york-boynextdoor-knock-on-vol-2": {
+  "hash": "576a3bec8e14",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "그래서 자리에 앉아 제대로 식사하려는 팬들은 늦은 오후에 일찍 먹는 편입니다.",
+  "at": "2026-11-06T07:50:43.167Z"
+ },
+ "zh/new-york-boynextdoor-knock-on-vol-2": {
+  "hash": "3ed0707a8b8e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "这样制作团队就能在演出中统一切换全场的颜色。",
+  "at": "2026-11-06T07:50:48.576Z"
+ },
+ "es/bohol-punta-cruz-watchtower": {
+  "hash": "951c513b0baa",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "La levantó en 1796 el Maribojoc de la época española, bajo la dirección de los frailes",
+  "at": "2026-11-06T07:51:01.458Z"
+ },
+ "ja/batumi-batumi-boulevard": {
+  "hash": "b5f77d4a4704",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "海水浴のシーズンは、多くの人が泳げるほど水温が上がる、おおむね6月から9月までです。",
+  "at": "2026-11-06T07:51:02.800Z"
+ },
+ "ja/bohol-punta-cruz-watchtower": {
+  "hash": "141469f042e2",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-11-06T07:51:03.589Z"
+ },
+ "ja/da-lat-bao-dai-palace-3": {
+  "hash": "d7048841b1e3",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "重い荷物を抱えて坂を上るほどの体力は、宮殿見学には必要ありません。",
+  "at": "2026-11-06T07:51:04.829Z"
+ },
+ "ko/batumi-batumi-boulevard": {
+  "hash": "bbd4259345bd",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-11-06T07:51:05.965Z"
+ },
+ "ko/bohol-punta-cruz-watchtower": {
+  "hash": "16f034990082",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이곳 사람들은 바랑가이 이름으로 이 장소를 알고 있기 때문입니다.",
+  "at": "2026-11-06T07:51:07.064Z"
+ },
+ "zh/batumi-batumi-boulevard": {
+  "hash": "14b11df7a314",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "据谷歌目前显示，公园全天24小时开放。",
+  "at": "2026-11-06T07:51:08.239Z"
+ },
+ "zh/bohol-punta-cruz-watchtower": {
+  "hash": "98928503c83f",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "这种建筑风格的质感正是从这里来的。",
+  "at": "2026-11-06T07:51:09.344Z"
  }
 }

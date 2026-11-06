@@ -3929,6 +3929,12 @@
   "reason": "publish gate: Garden viewpoint over sea, plausible for botanical garden",
   "at": "2026-10-19T15:41:58.187Z"
  },
+ "batumi-batumi-boulevard\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Batumi_Boulevard_Colonnades.jpg/3840px-Batumi_Boulevard_Colonnades.jpg": {
+  "slug": "batumi-batumi-boulevard",
+  "verdict": "MATCH",
+  "reason": "publish gate: Aerial view of Batumi Boulevard colonnade and park, representative",
+  "at": "2026-11-06T07:43:49.176Z"
+ },
  "batumi-fide-world-cadet-chess-championship-2026\u0001https://upload.wikimedia.org/wikipedia/commons/9/9a/FIDE_World_FR_Chess_Championship_2019_-_Wesley_So.jpg": {
   "slug": "batumi-fide-world-cadet-chess-championship-2026",
   "verdict": "MATCH",
@@ -4757,6 +4763,12 @@
   "reason": "Entrance sign, tropical forest, sanctuary setting visible",
   "reasonKo": "입구 표지판, 열대림, 보호구역 환경",
   "at": "2026-08-03T12:46:03.779Z"
+ },
+ "bohol-punta-cruz-watchtower\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Punta_Cruz_Watchtower%2C_Maribojoc%2C_Bohol.jpg/1920px-Punta_Cruz_Watchtower%2C_Maribojoc%2C_Bohol.jpg": {
+  "slug": "bohol-punta-cruz-watchtower",
+  "verdict": "MATCH",
+  "reason": "publish gate: Representative exterior of the stone watchtower landmark",
+  "at": "2026-11-06T07:43:49.137Z"
  },
  "bologna-basilica-di-san-petronio\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bologna_Italy_San_Petronio_from_Asinelli.jpg/1920px-Bologna_Italy_San_Petronio_from_Asinelli.jpg": {
   "slug": "bologna-basilica-di-san-petronio",
@@ -8107,6 +8119,12 @@
   "reason": "hand-reviewed: filename shares only \"flower\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-16T08:27:58.218Z"
  },
+ "da-lat-bao-dai-palace-3\u0001https://upload.wikimedia.org/wikipedia/commons/4/46/Dinh_B%E1%BA%A3o_%C4%90%E1%BA%A1i%2C_%C4%90%C3%A0_L%E1%BA%A1t_%283%29.JPG": {
+  "slug": "da-lat-bao-dai-palace-3",
+  "verdict": "MATCH",
+  "reason": "publish gate: Colonial villa exterior with garden, matches Da Lat palace",
+  "at": "2026-11-06T07:43:49.323Z"
+ },
  "da-lat-da-lat-market\u0001https://upload.wikimedia.org/wikipedia/commons/9/90/Dalat_market%2C_Vietnam.jpg": {
   "slug": "da-lat-da-lat-market",
   "verdict": "MATCH",
@@ -9418,6 +9436,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows glacier valley with ice flow, representative hero view",
   "at": "2026-10-20T14:48:08.194Z"
+ },
+ "franz-josef-omaka-aviation-heritage-centre\u0001https://upload.wikimedia.org/wikipedia/commons/a/a5/The_Omaka_Aviation_Heritage_Centre_%2813442085264%29.jpg": {
+  "slug": "franz-josef-omaka-aviation-heritage-centre",
+  "verdict": "MATCH",
+  "reason": "publish gate: Vintage WWI aircraft display, matches aviation heritage museum exhibit",
+  "at": "2026-11-06T07:43:49.253Z"
  },
  "fremantle-esplanade-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Esplanade_Park%2C_Fremantle3.JPG/3840px-Esplanade_Park%2C_Fremantle3.JPG": {
   "slug": "fremantle-esplanade-park",
@@ -16163,6 +16187,12 @@
   "reason": "event publish gate: Massive marathon crowd at starting line, representative event scene",
   "at": "2026-10-11T23:59:58.536Z"
  },
+ "kobe-kobe-motomachi-shopping-street\u0001https://upload.wikimedia.org/wikipedia/commons/b/bb/Kobe_Motomachi_Shopping_Street_-_panoramio.jpg": {
+  "slug": "kobe-kobe-motomachi-shopping-street",
+  "verdict": "MATCH",
+  "reason": "publish gate: Covered shopping arcade interior with Japanese signage, matches venue",
+  "at": "2026-11-06T07:43:49.357Z"
+ },
  "kobe-kobe-nunobiki-herb-gardens-ropeway\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Kobe_Nunobiki_Herb_Garden_Ropeway_-_panoramio.jpg/3840px-Kobe_Nunobiki_Herb_Garden_Ropeway_-_panoramio.jpg": {
   "slug": "kobe-kobe-nunobiki-herb-gardens-ropeway",
   "verdict": "MATCH",
@@ -17543,6 +17573,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Satellite view plausibly shows Khuvsgul Lake frozen landscape",
   "at": "2026-10-11T07:44:49.609Z"
+ },
+ "lake-louise-banff-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Banff_National_Park_%28AB%2C_Canada%29%2C_Lake_Louise_--_2022_--_2212.jpg/3840px-Banff_National_Park_%28AB%2C_Canada%29%2C_Lake_Louise_--_2022_--_2212.jpg": {
+  "slug": "lake-louise-banff-national-park",
+  "verdict": "MATCH",
+  "reason": "publish gate: Turquoise lake with canoes and forest, Lake Louise scenery",
+  "at": "2026-11-06T07:43:49.394Z"
  },
  "lake-louise-fairmont-chateau-lake-louise\u0001https://upload.wikimedia.org/wikipedia/commons/9/9b/The_Fairmont_Chateau_Lake_Louise._%289633055517%29.jpg": {
   "slug": "lake-louise-fairmont-chateau-lake-louise",
@@ -21655,6 +21691,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Underground corridor plausible for Montreal Underground City",
   "at": "2026-11-01T07:58:52.478Z"
+ },
+ "montreal-mount-royal-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Le_Plateau-Mont-Royal_-_Mont-Royal.jpg/1920px-Le_Plateau-Mont-Royal_-_Mont-Royal.jpg": {
+  "slug": "montreal-mount-royal-park",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Mount Royal monument and park landscape in winter",
+  "at": "2026-11-06T07:43:49.081Z"
  },
  "montreal-notre-dame-basilica-of-montreal\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Notre-Dame_Basilica_Interior%2C_Montreal%2C_Canada_-_Diliff.jpg/3840px-Notre-Dame_Basilica_Interior%2C_Montreal%2C_Canada_-_Diliff.jpg": {
   "slug": "montreal-notre-dame-basilica-of-montreal",
@@ -34878,6 +34920,18 @@
   "reason": "event publish gate: IVE performing on stage, valid tour hero image",
   "at": "2026-10-21T23:53:20.986Z"
  },
+ "toronto-kensington-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Kensington_Market_Toronto_August_2017_01.jpg/1920px-Kensington_Market_Toronto_August_2017_01.jpg": {
+  "slug": "toronto-kensington-market",
+  "verdict": "MATCH",
+  "reason": "publish gate: Street scene with shops, matches Kensington Market vibe",
+  "at": "2026-11-06T07:59:31.659Z"
+ },
+ "toronto-pocket-planet-canada\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Little_Canada_Entrance_2025.jpg/1920px-Little_Canada_Entrance_2025.jpg": {
+  "slug": "toronto-pocket-planet-canada",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Little Canada venue entrance signage in Toronto",
+  "at": "2026-11-06T07:43:49.216Z"
+ },
  "toronto-royal-ontario-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Royal_Ontario_Museum_in_Fall_2021.jpg/1920px-Royal_Ontario_Museum_in_Fall_2021.jpg": {
   "slug": "toronto-royal-ontario-museum",
   "verdict": "MATCH",
@@ -36037,6 +36091,12 @@
   "reason": "publish gate: Exterior entrance of Royal BC Museum, clearly representative",
   "at": "2026-10-21T13:29:32.667Z"
  },
+ "victoria-the-butchart-gardens\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Butchart_Gardens_-_Victoria_%282633111462%29.jpg/3840px-Butchart_Gardens_-_Victoria_%282633111462%29.jpg": {
+  "slug": "victoria-the-butchart-gardens",
+  "verdict": "MATCH",
+  "reason": "publish gate: Garden landscape with flowers and trees, plausible Butchart Gardens view",
+  "at": "2026-11-06T07:43:49.428Z"
+ },
  "vigan-plaza-padre-jose-burgos\u0001https://upload.wikimedia.org/wikipedia/commons/6/6b/Plaza_Padre_Jose_Burgos%2C_Vigan%2C_Ilocos_Sur%2C_Apr_2026.jpg": {
   "slug": "vigan-plaza-padre-jose-burgos",
   "verdict": "MATCH",
@@ -36502,6 +36562,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Traditional courtyard with well, doors, matches heritage village",
   "at": "2026-10-02T07:54:35.284Z"
+ },
+ "yellowknife-aurora-emporium-art-gallery\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Aurora_Emporium_Art_Gallery.jpg/3840px-Aurora_Emporium_Art_Gallery.jpg": {
+  "slug": "yellowknife-aurora-emporium-art-gallery",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior storefront with sign clearly showing Aurora Emporium",
+  "at": "2026-11-06T07:43:49.287Z"
  },
  "yellowknife-prince-of-wales-northern-heritage-centre\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Prince_of_Wales_Northern_Heritage_Centre%2C_Yellowknife%2C_NT%2C_from_city_hall.jpg/1920px-Prince_of_Wales_Northern_Heritage_Centre%2C_Yellowknife%2C_NT%2C_from_city_hall.jpg": {
   "slug": "yellowknife-prince-of-wales-northern-heritage-centre",
