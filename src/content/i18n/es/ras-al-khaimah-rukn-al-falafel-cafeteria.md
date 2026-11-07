@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: ras-al-khaimah-rukn-al-falafel-cafeteria
-srcHash: '32eb2a1588f4'
+srcHash: '9c7c211495a4'
 title: 'Rukn Al Falafel Cafeteria: Dónde comer en Ras Al Khaimah'
 description: Rukn Al Falafel Cafeteria es un local árabe sencillo, de estilo mostrador, en la zona de Sidrow, en Ras Al Khaimah, ideal para un sándwich de falafel o shawarma rápido y económico, más que para una comida sentada.
 quickAnswer: Rukn Al Falafel Cafeteria es un local árabe sencillo, de estilo mostrador, en la zona de Sidrow, en Ras Al Khaimah, ideal para un sándwich de falafel o shawarma rápido y económico, más que para una comida sentada. Con una calificación de 4.3 basada en 659 reseñas y precios accesibles (nivel de precio 2), es una buena opción cuando estás explorando los distritos comerciales más antiguos de RAK y buscas un bocado honesto y sin pretensiones en lugar de un restaurante de hotel. Ve a la hora del almuerzo en un día de semana para probar las tandas de falafel más frescas y con la espera más corta.
@@ -22,7 +22,7 @@ faq:
 
 Rukn Al Falafel Cafeteria no aparecerá en una lista de "los 10 mejores lugares de Ras Al Khaimah" dominada por resorts de playa y refugios de montaña, y precisamente ahí radica su encanto. Se trata de una cafetería de clase trabajadora en la zona de Sidrow, el tipo de mostrador de comida callejera árabe que se encuentra en los emiratos más pequeños de los EAU, donde el menú gira en torno al falafel, el shawarma, el hummus y los sándwiches a la parrilla, en lugar de menús degustación.
 
-Una calificación de 4.3 sobre 659 reseñas refleja consistencia a lo largo de años de servicio diario, no un momento viral. Es el tipo de parada que vale la pena hacer si estás manejando entre el casco antiguo de RAK, la Corniche o el camino hacia Jebel Jais, y buscas algo rápido, económico y verdaderamente sabroso en lugar de una cadena de comida.
+Una calificación de 4.2 sobre 659 reseñas refleja consistencia a lo largo de años de servicio diario, no un momento viral. Es el tipo de parada que vale la pena hacer si estás manejando entre el casco antiguo de RAK, la Corniche o el camino hacia Jebel Jais, y buscas algo rápido, económico y verdaderamente sabroso en lugar de una cadena de comida.
 
 ## Cómo llegar
 

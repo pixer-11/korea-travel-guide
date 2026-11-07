@@ -1,45 +1,53 @@
 ---
-title: "Kiwi Park: Queenstown Travel Guide (4.5★)"
-description: "Kiwi Park Queenstown sits at 51 Brecon Street, a short uphill walk from Queenstown's town centre and next to the Skyline Gondola base. 4.5★ (2,106 reviews) — what visitors say, hours, and tips."
-country: "New Zealand"
-region: "Queenstown"
-category: "attraction"
-pubDate: "2026-10-24T07:57:06.328Z"
+title: 'Kiwi Park: Queenstown Travel Guide (4.5★)'
+description: >-
+  Kiwi Park Queenstown sits at 51 Brecon Street, a short uphill walk from
+  Queenstown's town centre and next to the Skyline Gondola base. 4.5★ (2,125
+  reviews) — what visitors say, hours, and tips.
+country: New Zealand
+region: Queenstown
+category: attraction
+pubDate: '2026-10-24T07:57:06.328Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Queenstown_Kiwi_Birdlife_Park_-_2013.04_-_panoramio.jpg/3840px-Queenstown_Kiwi_Birdlife_Park_-_2013.04_-_panoramio.jpg"
-  credit: "Photo: rheins / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Queenstown_Kiwi_Birdlife_Park_-_2013.04_-_panoramio.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Queenstown_Kiwi_Birdlife_Park_-_2013.04_-_panoramio.jpg/3840px-Queenstown_Kiwi_Birdlife_Park_-_2013.04_-_panoramio.jpg
+  credit: 'Photo: rheins / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Queenstown_Kiwi_Birdlife_Park_-_2013.04_-_panoramio.jpg
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/a/a1/Auckland_Green_Gecko_at_Kiwi_Birdlife_Park.jpg"
-    credit: "Photo: Abi Skipp / Wikimedia Commons (CC BY 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Auckland_Green_Gecko_at_Kiwi_Birdlife_Park.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/a/a1/Auckland_Green_Gecko_at_Kiwi_Birdlife_Park.jpg
+    credit: 'Photo: Abi Skipp / Wikimedia Commons (CC BY 2.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Auckland_Green_Gecko_at_Kiwi_Birdlife_Park.jpg
 place:
-  id: "ChIJGbzFhngd1akREfa6vQkkB70"
-  name: "Kiwi Park Queenstown"
-  address: "51 Brecon Street, Queenstown 9300, New Zealand"
+  id: ChIJGbzFhngd1akREfa6vQkkB70
+  name: Kiwi Park Queenstown
+  address: '51 Brecon Street, Queenstown 9300, New Zealand'
   rating: 4.5
-  userRatingsTotal: 2106
-  googleMapsUrl: "https://maps.google.com/?cid=13620895222261806609&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2125
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13620895222261806609&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -45.0283619
   lng: 168.65657109999998
-  phone: "+64 3 442 8059"
+  phone: +64 3 442 8059
   openingHours:
-    - "Monday: 9:30 AM – 6:30 PM"
-    - "Tuesday: 9:30 AM – 6:30 PM"
-    - "Wednesday: 9:30 AM – 6:30 PM"
-    - "Thursday: 9:30 AM – 6:30 PM"
-    - "Friday: 9:30 AM – 6:30 PM"
-    - "Saturday: 9:30 AM – 6:30 PM"
-    - "Sunday: 9:30 AM – 6:30 PM"
+    - 'Monday: 9:30 AM – 6:30 PM'
+    - 'Tuesday: 9:30 AM – 6:30 PM'
+    - 'Wednesday: 9:30 AM – 6:30 PM'
+    - 'Thursday: 9:30 AM – 6:30 PM'
+    - 'Friday: 9:30 AM – 6:30 PM'
+    - 'Saturday: 9:30 AM – 6:30 PM'
+    - 'Sunday: 9:30 AM – 6:30 PM'
   busyness:
-    updated: 2026-10-24
+    updated: 2026-10-24T00:00:00.000Z
     weekdayQuiet:
       - 17
     weekendQuiet:
@@ -50,24 +58,46 @@ place:
       - 12
       - 13
       - 14
-    venueId: "ven_3037426b6b517636616645526b613164676e68467a62474a496843"
+    venueId: ven_3037426b6b517636616645526b613164676e68467a62474a496843
 tags:
-  - "queenstown"
-  - "park"
-quickAnswer: "Kiwi Park Queenstown sits at 51 Brecon Street, a short uphill walk from Queenstown's town centre and next to the Skyline Gondola base. It is a wildlife centre for endangered native species, where you can see a live kiwi in a darkened nocturnal house. Go 5pm–6pm on weekdays or 10am–11am on weekends for the quietest visit, and avoid weekends between 11am and 3pm."
+  - queenstown
+  - park
+quickAnswer: >-
+  Kiwi Park Queenstown sits at 51 Brecon Street, a short uphill walk from
+  Queenstown's town centre and next to the Skyline Gondola base. It is a
+  wildlife centre for endangered native species, where you can see a live kiwi
+  in a darkened nocturnal house. Go 5pm–6pm on weekdays or 10am–11am on weekends
+  for the quietest visit, and avoid weekends between 11am and 3pm.
 faq:
-  - q: "Where is Kiwi Park Queenstown and how do I get there?"
-    a: "It's at 51 Brecon Street, next to the Skyline Gondola base station. From the town centre and lakefront it's a short but steep walk up Brecon Street. Walking is usually easier than looking for parking near the gondola."
-  - q: "When is the quietest time to visit?"
-    a: "On weekdays it's quietest from 5pm to 6pm. On weekends the calm windows are 10am–11am and 5pm–6pm. Avoid weekends between 11am and 3pm, which is the busiest stretch."
-  - q: "Will I actually see a kiwi?"
-    a: "Kiwi are kept in a darkened nocturnal house so they're active during your visit. Stand still at the glass for a minute or two while your eyes adjust. Visitors who rush through are the ones most likely to miss them."
-  - q: "How long should I spend there?"
-    a: "Allow one to two hours. That gives you time for the outdoor enclosures, a patient stop in the nocturnal house and one keeper talk. Check the day's talk schedule when you arrive."
-  - q: "What else is nearby?"
-    a: "The Skyline Gondola and the start of the Tiki Trail are right beside it. Lake Wakatipu's waterfront and Queenstown Gardens are a downhill walk away."
+  - q: Where is Kiwi Park Queenstown and how do I get there?
+    a: >-
+      It's at 51 Brecon Street, next to the Skyline Gondola base station. From
+      the town centre and lakefront it's a short but steep walk up Brecon
+      Street. Walking is usually easier than looking for parking near the
+      gondola.
+  - q: When is the quietest time to visit?
+    a: >-
+      On weekdays it's quietest from 5pm to 6pm. On weekends the calm windows
+      are 10am–11am and 5pm–6pm. Avoid weekends between 11am and 3pm, which is
+      the busiest stretch.
+  - q: Will I actually see a kiwi?
+    a: >-
+      Kiwi are kept in a darkened nocturnal house so they're active during your
+      visit. Stand still at the glass for a minute or two while your eyes
+      adjust. Visitors who rush through are the ones most likely to miss them.
+  - q: How long should I spend there?
+    a: >-
+      Allow one to two hours. That gives you time for the outdoor enclosures, a
+      patient stop in the nocturnal house and one keeper talk. Check the day's
+      talk schedule when you arrive.
+  - q: What else is nearby?
+    a: >-
+      The Skyline Gondola and the start of the Tiki Trail are right beside it.
+      Lake Wakatipu's waterfront and Queenstown Gardens are a downhill walk
+      away.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-07'
 ---
 
 Most visitors to Queenstown leave New Zealand without ever seeing its national bird alive. The kiwi is nocturnal, shy and endangered, so the wild ones are almost never seen. Kiwi Park Queenstown is where that changes: a wildlife centre on Brecon Street with more than 20 native bird and reptile species, run around conservation work with endangered animals.

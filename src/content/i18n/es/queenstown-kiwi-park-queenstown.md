@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: queenstown-kiwi-park-queenstown
-srcHash: '203dfdf09fee'
+srcHash: '2224a4232ba7'
 title: 'Kiwi Park: guía de viaje de Queenstown (4.5★)'
-description: En el número 51 de Brecon Street, a un breve paseo cuesta arriba desde el centro de Queenstown y junto a la base del Skyline Gondola, se encuentra Kiwi Park Queenstown. Tiene una valoración de 4.5★ (2,106 reseñas). Aquí encontrará la opinión de los visitantes, el horario y consejos prácticos.
+description: En el número 51 de Brecon Street, a un breve paseo cuesta arriba desde el centro de Queenstown y junto a la base del Skyline Gondola, se encuentra Kiwi Park Queenstown. Tiene una valoración de 4.5★ (2,125 reseñas). Aquí encontrará la opinión de los visitantes, el horario y consejos prácticos.
 quickAnswer: Kiwi Park Queenstown está en el número 51 de Brecon Street, junto a la base del Skyline Gondola y a un breve paseo cuesta arriba desde el centro de Queenstown. Este centro de fauna se dedica a especies autóctonas en peligro de extinción, y en su casa nocturna, sumida en la penumbra, es posible ver un kiwi vivo. Si busca tranquilidad, vaya entre semana de 5pm a 6pm o el fin de semana de 10am a 11am. Los sábados y domingos conviene evitar la franja de 11am a 3pm.
 faq:
   - q: ¿Dónde está Kiwi Park Queenstown y cómo se llega?

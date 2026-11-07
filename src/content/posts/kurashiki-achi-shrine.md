@@ -1,45 +1,50 @@
 ---
-title: "Achi Shrine: Kurashiki Travel Guide (4.4★)"
-description: "Achi Shrine sits on Tsurugatayama hill above the Bikan Historical Quarter in Kurashiki, a steep stone-stair climb from the canal streets of Honmachi. 4.4★ (2,512 reviews) — what visitors say, hours, and tips."
-country: "Japan"
-region: "Kurashiki"
-category: "attraction"
-pubDate: "2026-11-07T07:41:57.590Z"
+title: 'Achi Shrine: Kurashiki Travel Guide (4.4★)'
+description: >-
+  Achi Shrine sits on Tsurugatayama hill above the Bikan Historical Quarter in
+  Kurashiki, a steep stone-stair climb from the canal streets of Honmachi. 4.4★
+  (2,513 reviews) — what visitors say, hours, and tips.
+country: Japan
+region: Kurashiki
+category: attraction
+pubDate: '2026-11-07T07:41:57.590Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Achi_Shrine_at_night.jpg"
-  credit: "Photo: あかしょうびん / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Achi_Shrine_at_night.jpg"
-  via: "act"
+  url: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Achi_Shrine_at_night.jpg'
+  credit: 'Photo: あかしょうびん / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Achi_Shrine_at_night.jpg'
+  via: act
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/d/de/Achi_Shrine_in_Kurashiki.jpg"
-    credit: "Photo: Miyuki Meinaka / Wikimedia Commons (Public domain)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Achi_Shrine_in_Kurashiki.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/d/de/Achi_Shrine_in_Kurashiki.jpg
+    credit: 'Photo: Miyuki Meinaka / Wikimedia Commons (Public domain)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Achi_Shrine_in_Kurashiki.jpg'
 place:
-  id: "ChIJm4wn0DhWUTURnE-3zlklpf8"
-  name: "Achi Shrine"
-  address: "12-1 Honmachi, Kurashiki, Okayama 710-0054, Japan"
+  id: ChIJm4wn0DhWUTURnE-3zlklpf8
+  name: Achi Shrine
+  address: '12-1 Honmachi, Kurashiki, Okayama 710-0054, Japan'
   rating: 4.4
-  userRatingsTotal: 2512
-  googleMapsUrl: "https://maps.google.com/?cid=18421170918479318940&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2513
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=18421170918479318940&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 34.597481699999996
   lng: 133.7734765
-  phone: "+81 86-425-4898"
+  phone: +81 86-425-4898
   openingHours:
-    - "Monday: 9:00 AM – 5:00 PM"
-    - "Tuesday: 9:00 AM – 5:00 PM"
-    - "Wednesday: 9:00 AM – 5:00 PM"
-    - "Thursday: 9:00 AM – 5:00 PM"
-    - "Friday: 9:00 AM – 5:00 PM"
-    - "Saturday: 9:00 AM – 5:00 PM"
-    - "Sunday: 9:00 AM – 5:00 PM"
+    - 'Monday: 9:00 AM – 5:00 PM'
+    - 'Tuesday: 9:00 AM – 5:00 PM'
+    - 'Wednesday: 9:00 AM – 5:00 PM'
+    - 'Thursday: 9:00 AM – 5:00 PM'
+    - 'Friday: 9:00 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 5:00 PM'
+    - 'Sunday: 9:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-11-07
+    updated: 2026-11-07T00:00:00.000Z
     weekdayQuiet:
       - 16
     weekendBusy:
@@ -51,24 +56,44 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_3866706c6b6c7a332d456e52555455576844306e77346d4a496843"
+    venueId: ven_3866706c6b6c7a332d456e52555455576844306e77346d4a496843
 tags:
-  - "kurashiki"
-  - "top attraction"
-quickAnswer: "Achi Shrine sits on Tsurugatayama hill above the Bikan Historical Quarter in Kurashiki, a steep stone-stair climb from the canal streets of Honmachi. It is currently listed as open 9am–5pm. The quietest window is usually 4pm–5pm on weekdays, and weekends tend to stay busy all day from 9am to 5pm."
+  - kurashiki
+  - top attraction
+quickAnswer: >-
+  Achi Shrine sits on Tsurugatayama hill above the Bikan Historical Quarter in
+  Kurashiki, a steep stone-stair climb from the canal streets of Honmachi. It is
+  currently listed as open 9am–5pm. The quietest window is usually 4pm–5pm on
+  weekdays, and weekends tend to stay busy all day from 9am to 5pm.
 faq:
-  - q: "When is the quietest time to visit Achi Shrine?"
-    a: "Weekdays between 4pm and 5pm are usually the calmest. On weekends it tends to stay busy the whole time from 9am to 5pm, so a weekday visit is the better bet."
-  - q: "How do I get to Achi Shrine from Kurashiki Station?"
-    a: "Walk south from the station's south exit to the Bikan Historical Quarter, which takes about 15 minutes. Then follow the signs in the Honmachi lanes to the stone stairway up Tsurugatayama. The address is 12-1 Honmachi."
-  - q: "When does the wisteria bloom?"
-    a: "The shrine's great wisteria usually flowers from late April into early May. Bloom timing varies year to year, so check local reports close to your visit."
-  - q: "How long should I spend there?"
-    a: "Allow 45 minutes to an hour for the climb, the halls, the sacred boulders and the view over the old town. Allow more if the wisteria is in bloom."
-  - q: "Can I see the sunset from Achi Shrine?"
-    a: "The shrine is known for its sunset views over Kurashiki. It currently lists hours of 9am–5pm, and those can change by season, so check the official site for the month you are visiting before planning around sunset."
+  - q: When is the quietest time to visit Achi Shrine?
+    a: >-
+      Weekdays between 4pm and 5pm are usually the calmest. On weekends it tends
+      to stay busy the whole time from 9am to 5pm, so a weekday visit is the
+      better bet.
+  - q: How do I get to Achi Shrine from Kurashiki Station?
+    a: >-
+      Walk south from the station's south exit to the Bikan Historical Quarter,
+      which takes about 15 minutes. Then follow the signs in the Honmachi lanes
+      to the stone stairway up Tsurugatayama. The address is 12-1 Honmachi.
+  - q: When does the wisteria bloom?
+    a: >-
+      The shrine's great wisteria usually flowers from late April into early
+      May. Bloom timing varies year to year, so check local reports close to
+      your visit.
+  - q: How long should I spend there?
+    a: >-
+      Allow 45 minutes to an hour for the climb, the halls, the sacred boulders
+      and the view over the old town. Allow more if the wisteria is in bloom.
+  - q: Can I see the sunset from Achi Shrine?
+    a: >-
+      The shrine is known for its sunset views over Kurashiki. It currently
+      lists hours of 9am–5pm, and those can change by season, so check the
+      official site for the month you are visiting before planning around
+      sunset.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-07'
 ---
 
 ## Above the rooftops of Honmachi

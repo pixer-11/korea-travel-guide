@@ -1,40 +1,46 @@
 ---
-title: "Muradiye Complex: Bursa Travel Guide (4.9★)"
-description: "The Muradiye Complex in Bursa's Muradiye district, west of the city centre, is Sultan Murad II's 15th-century mosque, madrasa and walled garden of royal tombs, and you need 1–1.5 hours for it. 4.9★ (3,918 reviews) — what visitors say, hours, and tips."
-country: "Turkey"
-region: "Bursa"
-category: "hidden-gem"
-pubDate: "2026-11-07T07:41:50.297Z"
+title: 'Muradiye Complex: Bursa Travel Guide (4.9★)'
+description: >-
+  The Muradiye Complex in Bursa's Muradiye district, west of the city centre, is
+  Sultan Murad II's 15th-century mosque, madrasa and walled garden of royal
+  tombs, and you need 1–1.5 hours for it. 4.9★ (3,920 reviews) — what visitors
+  say, hours, and tips.
+country: Turkey
+region: Bursa
+category: hidden-gem
+pubDate: '2026-11-07T07:41:50.297Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Muradiye_Complex_01.jpg/1920px-Muradiye_Complex_01.jpg"
-  credit: "Photo: Bernard Gagnon / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Muradiye_Complex_01.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Muradiye_Complex_01.jpg/1920px-Muradiye_Complex_01.jpg
+  credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Muradiye_Complex_01.jpg'
   focus:
     x: 55
-    y: 40
+    'y': 40
 gallery: []
 place:
-  id: "ChIJG4meHgAWyhQRk8hSEmB43XU"
-  name: "Muradiye Complex"
-  address: "Muradiye, Prf. Dr. Halil İnalcık Sk., 16050 Osmangazi̇/Bursa, Türkiye"
+  id: ChIJG4meHgAWyhQRk8hSEmB43XU
+  name: Muradiye Complex
+  address: 'Muradiye, Prf. Dr. Halil İnalcık Sk., 16050 Osmangazi̇/Bursa, Türkiye'
   rating: 4.9
-  userRatingsTotal: 3918
-  googleMapsUrl: "https://maps.google.com/?cid=8493076826310232211&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 3920
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=8493076826310232211&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 40.190643699999995
   lng: 29.045938799999995
-  phone: "+90 4441600"
+  phone: +90 4441600
   openingHours:
-    - "Monday: 8:00 AM – 6:00 PM"
-    - "Tuesday: 8:00 AM – 6:00 PM"
-    - "Wednesday: 8:00 AM – 6:00 PM"
-    - "Thursday: 8:00 AM – 6:00 PM"
-    - "Friday: 8:00 AM – 6:00 PM"
-    - "Saturday: 8:00 AM – 6:00 PM"
-    - "Sunday: 8:00 AM – 6:00 PM"
+    - 'Monday: 8:00 AM – 6:00 PM'
+    - 'Tuesday: 8:00 AM – 6:00 PM'
+    - 'Wednesday: 8:00 AM – 6:00 PM'
+    - 'Thursday: 8:00 AM – 6:00 PM'
+    - 'Friday: 8:00 AM – 6:00 PM'
+    - 'Saturday: 8:00 AM – 6:00 PM'
+    - 'Sunday: 8:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-11-07
+    updated: 2026-11-07T00:00:00.000Z
     weekdayQuiet:
       - 8
       - 9
@@ -49,24 +55,43 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_55583334426d455368386b5251687957416748656d34474a496843"
+    venueId: ven_55583334426d455368386b5251687957416748656d34474a496843
 tags:
-  - "bursa"
-  - "old quarter"
-quickAnswer: "The Muradiye Complex in Bursa's Muradiye district, west of the city centre, is Sultan Murad II's 15th-century mosque, madrasa and walled garden of royal tombs, and you need 1–1.5 hours for it. The site currently opens 8am–6pm. It is usually quietest from 8am to 11am on any day, so avoid weekend afternoons between 1pm and 6pm."
+  - bursa
+  - old quarter
+quickAnswer: >-
+  The Muradiye Complex in Bursa's Muradiye district, west of the city centre, is
+  Sultan Murad II's 15th-century mosque, madrasa and walled garden of royal
+  tombs, and you need 1–1.5 hours for it. The site currently opens 8am–6pm. It
+  is usually quietest from 8am to 11am on any day, so avoid weekend afternoons
+  between 1pm and 6pm.
 faq:
-  - q: "When is the quietest time to visit the Muradiye Complex?"
-    a: "It is usually quietest from 8am to 11am on both weekdays and weekends. Avoid weekend afternoons from 1pm to 6pm, which are typically the busiest."
-  - q: "What are the opening hours?"
-    a: "At the moment the site opens 8am–6pm every day. Hours at historic sites can change with the season and on holidays, so check the official listing for the current month. The mosque also pauses for prayer times."
-  - q: "How long should I spend there?"
-    a: "Allow 1–1.5 hours to see the mosque and the main tombs of Murad II, Şehzade Mustafa, Cem Sultan and Şehzade Ahmed. Add another hour if you visit the Ottoman House Museum across the square."
-  - q: "How do I get to Muradiye from central Bursa?"
-    a: "Walk about 20–25 minutes west from the Tophane area, where the tombs of Osman and Orhan are, or take a short taxi ride. City buses and dolmuş minibuses marked Muradiye also go up the hill."
-  - q: "Is there a dress code?"
-    a: "Yes. Cover your shoulders and knees, women should cover their hair, and you remove your shoes before entering the mosque or any tomb."
+  - q: When is the quietest time to visit the Muradiye Complex?
+    a: >-
+      It is usually quietest from 8am to 11am on both weekdays and weekends.
+      Avoid weekend afternoons from 1pm to 6pm, which are typically the busiest.
+  - q: What are the opening hours?
+    a: >-
+      At the moment the site opens 8am–6pm every day. Hours at historic sites
+      can change with the season and on holidays, so check the official listing
+      for the current month. The mosque also pauses for prayer times.
+  - q: How long should I spend there?
+    a: >-
+      Allow 1–1.5 hours to see the mosque and the main tombs of Murad II,
+      Şehzade Mustafa, Cem Sultan and Şehzade Ahmed. Add another hour if you
+      visit the Ottoman House Museum across the square.
+  - q: How do I get to Muradiye from central Bursa?
+    a: >-
+      Walk about 20–25 minutes west from the Tophane area, where the tombs of
+      Osman and Orhan are, or take a short taxi ride. City buses and dolmuş
+      minibuses marked Muradiye also go up the hill.
+  - q: Is there a dress code?
+    a: >-
+      Yes. Cover your shoulders and knees, women should cover their hair, and
+      you remove your shoes before entering the mosque or any tomb.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-07'
 ---
 
 ## A garden full of princes

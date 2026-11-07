@@ -1,60 +1,94 @@
 ---
-title: "Queenstown Gardens: Travel Guide (4.8★)"
-description: "Queenstown Gardens fills the small peninsula at the edge of central Queenstown, a few minutes' walk from the waterfront along Marine Parade, with Lake Wakatipu on three sides. 4.8★ (1,654 reviews) — what visitors say, hours, and tips."
-country: "New Zealand"
-region: "Queenstown"
-category: "attraction"
-pubDate: "2026-10-23T13:19:37.480Z"
+title: 'Queenstown Gardens: Travel Guide (4.8★)'
+description: >-
+  Queenstown Gardens fills the small peninsula at the edge of central
+  Queenstown, a few minutes' walk from the waterfront along Marine Parade, with
+  Lake Wakatipu on three sides. 4.8★ (1,667 reviews) — what visitors say, hours,
+  and tips.
+country: New Zealand
+region: Queenstown
+category: attraction
+pubDate: '2026-10-23T13:19:37.480Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Photograph_of_Queenstown_Gardens_in_New_Zealand.jpg"
-  credit: "Photo: Amyrebecca30 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Photograph_of_Queenstown_Gardens_in_New_Zealand.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/5/5e/Photograph_of_Queenstown_Gardens_in_New_Zealand.jpg
+  credit: 'Photo: Amyrebecca30 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Photograph_of_Queenstown_Gardens_in_New_Zealand.jpg
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Queenstown_Gardens_%2813%29.jpg/3840px-Queenstown_Gardens_%2813%29.jpg"
-    credit: "Photo: Krzysztof Golik / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Queenstown_Gardens_(13).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Queenstown_Gardens_%2813%29.jpg/3840px-Queenstown_Gardens_%2813%29.jpg
+    credit: 'Photo: Krzysztof Golik / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Queenstown_Gardens_(13).jpg'
 place:
-  id: "ChIJrwm7l7Tj1KkRtwIpvNpNEQs"
-  name: "Queenstown Gardens"
-  address: "Unnamed Road, Queenstown 9300, New Zealand"
+  id: ChIJrwm7l7Tj1KkRtwIpvNpNEQs
+  name: Queenstown Gardens
+  address: 'Unnamed Road, Queenstown 9300, New Zealand'
   rating: 4.8
-  userRatingsTotal: 1654
-  googleMapsUrl: "https://maps.google.com/?cid=797504210876302007&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1667
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=797504210876302007&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -45.0371873
   lng: 168.6607345
-  phone: "+64 3 441 0499"
+  phone: +64 3 441 0499
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "queenstown"
-  - "Queenstown Gardens"
-quickAnswer: "Queenstown Gardens fills the small peninsula at the edge of central Queenstown, a few minutes' walk from the waterfront along Marine Parade, with Lake Wakatipu on three sides. Walk the shoreline loop for views of the Remarkables and Cecil Peak, then head inland to the rose beds, the pond, the disc golf course and the ice rink. The paths are currently listed as open 24 hours, so early morning and the long summer evenings are both easy times to go."
+  - queenstown
+  - Queenstown Gardens
+quickAnswer: >-
+  Queenstown Gardens fills the small peninsula at the edge of central
+  Queenstown, a few minutes' walk from the waterfront along Marine Parade, with
+  Lake Wakatipu on three sides. Walk the shoreline loop for views of the
+  Remarkables and Cecil Peak, then head inland to the rose beds, the pond, the
+  disc golf course and the ice rink. The paths are currently listed as open 24
+  hours, so early morning and the long summer evenings are both easy times to
+  go.
 faq:
-  - q: "How do I get to Queenstown Gardens from the town centre?"
-    a: "Walk. Follow Marine Parade along Queenstown Beach from the waterfront and you reach the peninsula in under ten minutes. There's also an entrance from Park Street on the Frankton Arm side. Parking in central Queenstown is tight, so walking is usually easier."
-  - q: "How long does it take to walk around Queenstown Gardens?"
-    a: "The shoreline loop takes around 30 to 45 minutes at an easy pace. Allow one to two hours if you also want to see the rose garden, the pond and the Scott memorial, or longer for a round of disc golf."
-  - q: "What is the best time of day to visit?"
-    a: "Early morning usually brings calm water, mountain reflections and fewer people on the lakeside path. Summer evenings are also lovely, because daylight lasts well past 9pm. The gardens are currently listed as open 24 hours, but the outer paths aren't brightly lit after dark."
-  - q: "Is there anything to do besides walking?"
-    a: "Yes. There's a disc golf course through the trees, the indoor Queenstown Ice Arena, skate ramps, tennis courts and a bowling green. The ice rink keeps its own hours, so check its official site before you go."
-  - q: "What else is nearby?"
-    a: "Queenstown Beach and Marine Parade are at the entrance. Steamer Wharf and the TSS Earnslaw are a short walk away, and so is the Skyline Gondola up Bob's Peak. The Frankton Track carries on along the lakeshore from Park Street if you want a longer walk."
+  - q: How do I get to Queenstown Gardens from the town centre?
+    a: >-
+      Walk. Follow Marine Parade along Queenstown Beach from the waterfront and
+      you reach the peninsula in under ten minutes. There's also an entrance
+      from Park Street on the Frankton Arm side. Parking in central Queenstown
+      is tight, so walking is usually easier.
+  - q: How long does it take to walk around Queenstown Gardens?
+    a: >-
+      The shoreline loop takes around 30 to 45 minutes at an easy pace. Allow
+      one to two hours if you also want to see the rose garden, the pond and the
+      Scott memorial, or longer for a round of disc golf.
+  - q: What is the best time of day to visit?
+    a: >-
+      Early morning usually brings calm water, mountain reflections and fewer
+      people on the lakeside path. Summer evenings are also lovely, because
+      daylight lasts well past 9pm. The gardens are currently listed as open 24
+      hours, but the outer paths aren't brightly lit after dark.
+  - q: Is there anything to do besides walking?
+    a: >-
+      Yes. There's a disc golf course through the trees, the indoor Queenstown
+      Ice Arena, skate ramps, tennis courts and a bowling green. The ice rink
+      keeps its own hours, so check its official site before you go.
+  - q: What else is nearby?
+    a: >-
+      Queenstown Beach and Marine Parade are at the entrance. Steamer Wharf and
+      the TSS Earnslaw are a short walk away, and so is the Skyline Gondola up
+      Bob's Peak. The Frankton Track carries on along the lakeshore from Park
+      Street if you want a longer walk.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-07'
 ---
 
 ## A peninsula pushed into the lake

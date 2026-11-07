@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: quebec-city-musee-national-des-beaux-arts-du-quebec
-srcHash: 'de56e835f6b3'
+srcHash: 'a0e38100c303'
 title: 'Musée national des beaux-arts du Québec: guía de viaje de la ciudad de Quebec'
-description: En el 179 Grande Allée Ouest de la ciudad de Quebec, junto a las Llanuras de Abraham (Plaines d'Abraham) y a unos 20 minutos a pie de las puertas del casco antiguo, se encuentra el Musée national des beaux-arts du Québec. Con una valoración de 4.6★ (4,647 reseñas), reunimos aquí las opiniones de los visitantes, los horarios y varios consejos.
+description: En el 179 Grande Allée Ouest de la ciudad de Quebec, junto a las Llanuras de Abraham (Plaines d'Abraham) y a unos 20 minutos a pie de las puertas del casco antiguo, se encuentra el Musée national des beaux-arts du Québec. Con una valoración de 4.6★ (4,687 reseñas), reunimos aquí las opiniones de los visitantes, los horarios y varios consejos.
 quickAnswer: En el 179 Grande Allée Ouest de la ciudad de Quebec, en el límite de las Llanuras de Abraham (Plaines d'Abraham), se alza el Musée national des beaux-arts du Québec, a unos 20 minutos a pie de las puertas del casco antiguo. Por ahora abre de martes a domingo, de 10am–5pm, y cierra los lunes. Las mañanas de entre semana, de 10am a 11am, son el momento más tranquilo; los fines de semana, de 11am a 5pm, el de mayor afluencia.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Musée national des beaux-arts du Québec?

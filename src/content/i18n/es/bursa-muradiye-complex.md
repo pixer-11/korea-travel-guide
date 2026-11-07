@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: bursa-muradiye-complex
-srcHash: '1d0ff8d13b72'
+srcHash: '7925f09b88b5'
 title: 'Complejo de Muradiye: guía de viaje de Bursa (4.9★)'
-description: En el barrio de Muradiye, al oeste del centro de Bursa, el sultán Murad II levantó en el siglo XV una mezquita y una madrasa junto a un jardín amurallado de tumbas reales. La visita requiere 1–1.5 horas. Con una valoración de 4.9★ (3,918 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
+description: En el barrio de Muradiye, al oeste del centro de Bursa, el sultán Murad II levantó en el siglo XV una mezquita y una madrasa junto a un jardín amurallado de tumbas reales. La visita requiere 1–1.5 horas. Con una valoración de 4.9★ (3,920 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
 quickAnswer: En el barrio de Muradiye, al oeste del centro de Bursa, se encuentra el complejo que el sultán Murad II mandó construir en el siglo XV. Reúne una mezquita, una madrasa y un jardín amurallado con tumbas reales, y su visita requiere 1–1.5 horas. Actualmente abre de 8am–6pm. Cualquier día de la semana, la franja más tranquila suele ser de 8am a 11am. Conviene evitar las tardes de fin de semana, entre 1pm y 6pm.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Complejo de Muradiye?

@@ -1,45 +1,56 @@
 ---
-title: "Place Royale: Quebec City Travel Guide (4.7★)"
-description: "Place Royale is the small cobblestoned square in Quebec City's Lower Town (Basse-Ville) in Old Québec, built on the ground where Samuel de Champlain founded the city in 1608. 4.7★ (2,743 reviews) — what visitors say, hours, and tips."
-country: "Canada"
-region: "Quebec City"
-category: "attraction"
-pubDate: "2026-10-21T13:29:42.254Z"
+title: 'Place Royale: Quebec City Travel Guide (4.7★)'
+description: >-
+  Place Royale is the small cobblestoned square in Quebec City's Lower Town
+  (Basse-Ville) in Old Québec, built on the ground where Samuel de Champlain
+  founded the city in 1608. 4.7★ (2,756 reviews) — what visitors say, hours, and
+  tips.
+country: Canada
+region: Quebec City
+category: attraction
+pubDate: '2026-10-21T13:29:42.254Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Maison_Barbel_on_Place_Royale_at_night%2C_Quebec_City.jpg/3840px-Maison_Barbel_on_Place_Royale_at_night%2C_Quebec_City.jpg"
-  credit: "Photo: Wilfredor / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Maison_Barbel_on_Place_Royale_at_night,_Quebec_City.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Maison_Barbel_on_Place_Royale_at_night%2C_Quebec_City.jpg/3840px-Maison_Barbel_on_Place_Royale_at_night%2C_Quebec_City.jpg
+  credit: 'Photo: Wilfredor / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Maison_Barbel_on_Place_Royale_at_night,_Quebec_City.jpg
+  via: act
   focus:
     x: 55
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Buildings_located_at_Place_Royale%2C_Qu%C3%A9bec_20170413_1.jpg/3840px-Buildings_located_at_Place_Royale%2C_Qu%C3%A9bec_20170413_1.jpg"
-    credit: "Photo: DXR / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Buildings_located_at_Place_Royale,_Qu%C3%A9bec_20170413_1.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Buildings_located_at_Place_Royale%2C_Qu%C3%A9bec_20170413_1.jpg/3840px-Buildings_located_at_Place_Royale%2C_Qu%C3%A9bec_20170413_1.jpg
+    credit: 'Photo: DXR / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Buildings_located_at_Place_Royale,_Qu%C3%A9bec_20170413_1.jpg
 place:
-  id: "ChIJe-AHHN2VuEwRV_Nq2B_lBSE"
-  name: "Place Royale"
-  address: "2-4 Rue des Pains Bénits, Ville de Québec, QC G1K Rue des Pains Bénits, Québec, QC G1K 4E9, Canada"
+  id: ChIJe-AHHN2VuEwRV_Nq2B_lBSE
+  name: Place Royale
+  address: >-
+    2-4 Rue des Pains Bénits, Ville de Québec, QC G1K Rue des Pains Bénits,
+    Québec, QC G1K 4E9, Canada
   rating: 4.7
-  userRatingsTotal: 2743
-  googleMapsUrl: "https://maps.google.com/?cid=2379559903072809815&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2756
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2379559903072809815&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 46.813105799999995
   lng: -71.202752
-  phone: "+1 418-643-2581"
+  phone: +1 418-643-2581
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-10-21
+    updated: 2026-10-21T00:00:00.000Z
     weekdayBusy:
       - 14
     weekendQuiet:
@@ -55,24 +66,42 @@ place:
       - 17
       - 18
       - 19
-    venueId: "ven_4553426c5f4232714e5f565277457556324e4848412d654a496843"
+    venueId: ven_4553426c5f4232714e5f565277457556324e4848412d654a496843
 tags:
-  - "quebec city"
-  - "top attraction"
-quickAnswer: "Place Royale is the small cobblestoned square in Quebec City's Lower Town (Basse-Ville) in Old Québec, built on the ground where Samuel de Champlain founded the city in 1608. It is open around the clock, and on weekends it's calmest 7am–8am and 10pm–11pm. Avoid 11am–8pm on weekends, when it's packed."
+  - quebec city
+  - top attraction
+quickAnswer: >-
+  Place Royale is the small cobblestoned square in Quebec City's Lower Town
+  (Basse-Ville) in Old Québec, built on the ground where Samuel de Champlain
+  founded the city in 1608. It is open around the clock, and on weekends it's
+  calmest 7am–8am and 10pm–11pm. Avoid 11am–8pm on weekends, when it's packed.
 faq:
-  - q: "When is the quietest time to visit Place Royale?"
-    a: "On weekends it's quietest 7am–8am and 10pm–11pm. Avoid 11am–8pm on weekends, when it's at its busiest."
-  - q: "How do I get to Place Royale from the Château Frontenac?"
-    a: "Take the Funiculaire du Vieux-Québec down from Terrasse Dufferin to Rue du Petit-Champlain, then walk a few minutes to the square. You can also walk down the Breakneck Stairs (Escalier Casse-Cou) or Côte de la Montagne."
-  - q: "Can I go inside Notre-Dame-des-Victoires?"
-    a: "It's an active parish church, so access depends on services. Check the parish's current visiting times before you go, and keep quiet if a mass or ceremony is on."
-  - q: "How long should I spend at Place Royale?"
-    a: "Allow 30–45 minutes for the square, the church exterior and the Fresque des Québécois mural. Allow longer if you go into the church or combine it with Quartier Petit Champlain."
-  - q: "Is Place Royale open at night?"
-    a: "Yes. It's a public square and it's currently listed as open 24 hours. The 10pm–11pm window on weekends is one of its quietest times."
+  - q: When is the quietest time to visit Place Royale?
+    a: >-
+      On weekends it's quietest 7am–8am and 10pm–11pm. Avoid 11am–8pm on
+      weekends, when it's at its busiest.
+  - q: How do I get to Place Royale from the Château Frontenac?
+    a: >-
+      Take the Funiculaire du Vieux-Québec down from Terrasse Dufferin to Rue du
+      Petit-Champlain, then walk a few minutes to the square. You can also walk
+      down the Breakneck Stairs (Escalier Casse-Cou) or Côte de la Montagne.
+  - q: Can I go inside Notre-Dame-des-Victoires?
+    a: >-
+      It's an active parish church, so access depends on services. Check the
+      parish's current visiting times before you go, and keep quiet if a mass or
+      ceremony is on.
+  - q: How long should I spend at Place Royale?
+    a: >-
+      Allow 30–45 minutes for the square, the church exterior and the Fresque
+      des Québécois mural. Allow longer if you go into the church or combine it
+      with Quartier Petit Champlain.
+  - q: Is Place Royale open at night?
+    a: >-
+      Yes. It's a public square and it's currently listed as open 24 hours. The
+      10pm–11pm window on weekends is one of its quietest times.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-07'
 ---
 
 ## Where Quebec Began

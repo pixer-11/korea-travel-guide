@@ -1,55 +1,77 @@
 ---
-title: "National Museum of Ras Al Khaimah: Travel Guide (4.3★)"
-description: "The National Museum of Ras Al Khaimah sits inside the old Qawasim fort in Old Town RAK, open Tuesday–Sunday 8am–6pm (closed Monday). 4.3★ (1,591 reviews) — what visitors say, hours, and tips."
-country: "United Arab Emirates"
-region: "Ras Al Khaimah"
-category: "attraction"
-pubDate: "2026-08-19T09:14:24.075Z"
+title: 'National Museum of Ras Al Khaimah: Travel Guide (4.3★)'
+description: >-
+  The National Museum of Ras Al Khaimah sits inside the old Qawasim fort in Old
+  Town RAK, open Tuesday–Sunday 8am–6pm (closed Monday). 4.3★ (1,636 reviews) —
+  what visitors say, hours, and tips.
+country: United Arab Emirates
+region: Ras Al Khaimah
+category: attraction
+pubDate: '2026-08-19T09:14:24.075Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/The_National_Museum_of_Ras_Al_Khaimah.jpg/1920px-The_National_Museum_of_Ras_Al_Khaimah.jpg"
-  credit: "Photo: Rankin73 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:The_National_Museum_of_Ras_Al_Khaimah.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/The_National_Museum_of_Ras_Al_Khaimah.jpg/1920px-The_National_Museum_of_Ras_Al_Khaimah.jpg
+  credit: 'Photo: Rankin73 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:The_National_Museum_of_Ras_Al_Khaimah.jpg
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJ6UmyJ1Jx9j4R_EBO3tJDlok"
-  name: "National Museum of Ras Al Khaimah"
-  address: "Al Hisn Rd - Old Town - Ras Al Khaimah - United Arab Emirates"
+  id: ChIJ6UmyJ1Jx9j4R_EBO3tJDlok
+  name: National Museum of Ras Al Khaimah
+  address: Al Hisn Rd - Old Town - Ras Al Khaimah - United Arab Emirates
   rating: 4.3
-  userRatingsTotal: 1591
-  googleMapsUrl: "https://maps.google.com/?cid=9914186202654589180&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1636
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9914186202654589180&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 25.794551799999997
   lng: 55.945079500000006
-  phone: "+971 7 233 9900"
+  phone: +971 7 233 9900
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 8:00 AM – 6:00 PM"
-    - "Wednesday: 8:00 AM – 6:00 PM"
-    - "Thursday: 8:00 AM – 6:00 PM"
-    - "Friday: 8:00 AM – 6:00 PM"
-    - "Saturday: 8:00 AM – 6:00 PM"
-    - "Sunday: 8:00 AM – 6:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 8:00 AM – 6:00 PM'
+    - 'Wednesday: 8:00 AM – 6:00 PM'
+    - 'Thursday: 8:00 AM – 6:00 PM'
+    - 'Friday: 8:00 AM – 6:00 PM'
+    - 'Saturday: 8:00 AM – 6:00 PM'
+    - 'Sunday: 8:00 AM – 6:00 PM'
 tags:
-  - "ras al khaimah"
-  - "museum"
-quickAnswer: "The National Museum of Ras Al Khaimah sits inside the old Qawasim fort in Old Town RAK, open Tuesday–Sunday 8am–6pm (closed Monday). Budget 45–60 minutes to walk its coral-block rooms of pearling tools, weapons and archaeology. Go early on a weekday morning, when the courtyard is quiet and the light hasn't yet turned the stone walls into an oven."
+  - ras al khaimah
+  - museum
+quickAnswer: >-
+  The National Museum of Ras Al Khaimah sits inside the old Qawasim fort in Old
+  Town RAK, open Tuesday–Sunday 8am–6pm (closed Monday). Budget 45–60 minutes to
+  walk its coral-block rooms of pearling tools, weapons and archaeology. Go
+  early on a weekday morning, when the courtyard is quiet and the light hasn't
+  yet turned the stone walls into an oven.
 faq:
-  - q: "What are the opening hours?"
-    a: "Tuesday to Sunday, 8:00 AM to 6:00 PM. It's closed all day Monday."
-  - q: "How long should I plan to spend there?"
-    a: "Most visitors need 45–60 minutes to walk the courtyard and galleries at a comfortable pace."
-  - q: "How do I get to the museum?"
-    a: "It's on Al Hisn Road in Old Town Ras Al Khaimah. There's no metro in RAK, so taxi, rental car, or hotel shuttle are the standard options, with free parking nearby."
-  - q: "When is the best time to visit?"
-    a: "Weekday mornings right after 8am opening are quietest and coolest. Cooler months (October–April) are far more comfortable than the summer heat of June–September."
-  - q: "Is it worth visiting if I'm short on time?"
-    a: "Yes — it's compact enough for a focused 45-minute visit and pairs well with a walk through the nearby Old Town souq or creek area."
+  - q: What are the opening hours?
+    a: 'Tuesday to Sunday, 8:00 AM to 6:00 PM. It''s closed all day Monday.'
+  - q: How long should I plan to spend there?
+    a: >-
+      Most visitors need 45–60 minutes to walk the courtyard and galleries at a
+      comfortable pace.
+  - q: How do I get to the museum?
+    a: >-
+      It's on Al Hisn Road in Old Town Ras Al Khaimah. There's no metro in RAK,
+      so taxi, rental car, or hotel shuttle are the standard options, with free
+      parking nearby.
+  - q: When is the best time to visit?
+    a: >-
+      Weekday mornings right after 8am opening are quietest and coolest. Cooler
+      months (October–April) are far more comfortable than the summer heat of
+      June–September.
+  - q: Is it worth visiting if I'm short on time?
+    a: >-
+      Yes — it's compact enough for a focused 45-minute visit and pairs well
+      with a walk through the nearby Old Town souq or creek area.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-07'
 ---
 
 You spot the fort before you spot the sign. A squat, sand-coloured tower with crenellated edges rises over Old Town's low rooftops, looking less like a museum and more like what it actually is, a fortified palace that housed the ruling Al Qawasim family until the 1960s.

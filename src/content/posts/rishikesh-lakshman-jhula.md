@@ -1,58 +1,86 @@
 ---
-title: "Lakshman Jhula: Rishikesh Travel Guide (4.5★)"
-description: "Lakshman Jhula is the iron suspension bridge over the Ganges at Tapovan and Jonk, about 5 km upstream of central Rishikesh. 4.5★ (6,631 reviews) — what visitors say, hours, and tips."
-country: "India"
-region: "Rishikesh"
-category: "hidden-gem"
-pubDate: "2026-11-01T07:59:01.572Z"
+title: 'Lakshman Jhula: Rishikesh Travel Guide (4.5★)'
+description: >-
+  Lakshman Jhula is the iron suspension bridge over the Ganges at Tapovan and
+  Jonk, about 5 km upstream of central Rishikesh. 4.5★ (6,677 reviews) — what
+  visitors say, hours, and tips.
+country: India
+region: Rishikesh
+category: hidden-gem
+pubDate: '2026-11-01T07:59:01.572Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Rishikesh-Lakshman_Jhula_by_Kaustubh_Nayyar.jpg/1920px-Rishikesh-Lakshman_Jhula_by_Kaustubh_Nayyar.jpg"
-  credit: "Photo: KaustubhNayyar / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Rishikesh-Lakshman_Jhula_by_Kaustubh_Nayyar.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Rishikesh-Lakshman_Jhula_by_Kaustubh_Nayyar.jpg/1920px-Rishikesh-Lakshman_Jhula_by_Kaustubh_Nayyar.jpg
+  credit: 'Photo: KaustubhNayyar / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Rishikesh-Lakshman_Jhula_by_Kaustubh_Nayyar.jpg
   focus:
     x: 55
-    y: 55
+    'y': 55
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/b/b6/Rishikesh%2C_Lakshman_Jhula.jpg"
-    credit: "Photo: McKay Savage from London, UK / Wikimedia Commons (CC BY 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Rishikesh,_Lakshman_Jhula.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/b/b6/Rishikesh%2C_Lakshman_Jhula.jpg
+    credit: 'Photo: McKay Savage from London, UK / Wikimedia Commons (CC BY 2.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Rishikesh,_Lakshman_Jhula.jpg'
 place:
-  id: "ChIJN3ZNyEIXCTkR-u__UonVaI8"
-  name: "Lakshman Jhula"
-  address: "Laxman Jhula, Jonk, Uttarakhand 249302, India"
+  id: ChIJN3ZNyEIXCTkR-u__UonVaI8
+  name: Lakshman Jhula
+  address: 'Laxman Jhula, Jonk, Uttarakhand 249302, India'
   rating: 4.5
-  userRatingsTotal: 6631
-  googleMapsUrl: "https://maps.google.com/?cid=10333744130781343738&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 6677
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10333744130781343738&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 30.126335499999996
   lng: 78.3299651
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "rishikesh"
-  - "old quarter"
-quickAnswer: "Lakshman Jhula is the iron suspension bridge over the Ganges at Tapovan and Jonk, about 5 km upstream of central Rishikesh. Its east bank holds the 13-storey Tera Manzil temple. The bridge has been closed on and off for safety reasons since 2019, so check its current status locally before you go. Arrive early in the morning if you want the riverbanks before the day-trip crowds."
+  - rishikesh
+  - old quarter
+quickAnswer: >-
+  Lakshman Jhula is the iron suspension bridge over the Ganges at Tapovan and
+  Jonk, about 5 km upstream of central Rishikesh. Its east bank holds the
+  13-storey Tera Manzil temple. The bridge has been closed on and off for safety
+  reasons since 2019, so check its current status locally before you go. Arrive
+  early in the morning if you want the riverbanks before the day-trip crowds.
 faq:
-  - q: "Is Lakshman Jhula open to walk across?"
-    a: "The bridge was closed in 2019 after a safety review, and access has changed several times since. The newer Bajrang Setu alongside it is the alternative crossing. Ask your guesthouse or a local shopkeeper which bridge is open right now."
-  - q: "How do I get to Lakshman Jhula from Rishikesh town?"
-    a: "Shared auto-rickshaws (vikrams) run up to the Tapovan side, about 5 km from the centre. You can also walk the 2 km riverside path from Ram Jhula, which passes the Swarg Ashram ghats."
-  - q: "What is the best time of year to visit?"
-    a: "October to March brings clear weather and a green river. In the July–September monsoon the Ganges runs high and muddy, and the ghats become risky."
-  - q: "How long should I spend there?"
-    a: "Allow 2–3 hours for the bridge area, Tera Manzil and a riverside café. Make it a full day if you add Ram Jhula, the Beatles Ashram and the evening Ganga Aarti at Parmarth Niketan."
-  - q: "Are the monkeys a problem?"
-    a: "They can be. Rhesus monkeys grab food, bags and sunglasses, so keep everything zipped away and don't feed them."
+  - q: Is Lakshman Jhula open to walk across?
+    a: >-
+      The bridge was closed in 2019 after a safety review, and access has
+      changed several times since. The newer Bajrang Setu alongside it is the
+      alternative crossing. Ask your guesthouse or a local shopkeeper which
+      bridge is open right now.
+  - q: How do I get to Lakshman Jhula from Rishikesh town?
+    a: >-
+      Shared auto-rickshaws (vikrams) run up to the Tapovan side, about 5 km
+      from the centre. You can also walk the 2 km riverside path from Ram Jhula,
+      which passes the Swarg Ashram ghats.
+  - q: What is the best time of year to visit?
+    a: >-
+      October to March brings clear weather and a green river. In the
+      July–September monsoon the Ganges runs high and muddy, and the ghats
+      become risky.
+  - q: How long should I spend there?
+    a: >-
+      Allow 2–3 hours for the bridge area, Tera Manzil and a riverside café.
+      Make it a full day if you add Ram Jhula, the Beatles Ashram and the
+      evening Ganga Aarti at Parmarth Niketan.
+  - q: Are the monkeys a problem?
+    a: >-
+      They can be. Rhesus monkeys grab food, bags and sunglasses, so keep
+      everything zipped away and don't feed them.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-07'
 ---
 
 ## Steel cables over green water

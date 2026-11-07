@@ -1,41 +1,48 @@
 ---
-title: "The Citadelle of Québec: Quebec City Travel Guide (4.6★)"
-description: "The Citadelle of Québec is the star-shaped, still-active military fort on Cap Diamant, the highest point of Old Québec in Quebec City, and you see its interior on a guided tour. 4.6★ (9,778 reviews) — what visitors say, hours, and tips."
-country: "Canada"
-region: "Quebec City"
-category: "hidden-gem"
-pubDate: "2026-10-25T07:48:05.518Z"
+title: 'The Citadelle of Québec: Quebec City Travel Guide (4.6★)'
+description: >-
+  The Citadelle of Québec is the star-shaped, still-active military fort on Cap
+  Diamant, the highest point of Old Québec in Quebec City, and you see its
+  interior on a guided tour. 4.6★ (9,802 reviews) — what visitors say, hours,
+  and tips.
+country: Canada
+region: Quebec City
+category: hidden-gem
+pubDate: '2026-10-25T07:48:05.518Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/9/9e/Quebec_City_View_of_the_Citadelle_from_the_western_ramparts.jpg"
-  credit: "Photo: Ymblanter / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Quebec_City_View_of_the_Citadelle_from_the_western_ramparts.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/9/9e/Quebec_City_View_of_the_Citadelle_from_the_western_ramparts.jpg
+  credit: 'Photo: Ymblanter / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Quebec_City_View_of_the_Citadelle_from_the_western_ramparts.jpg
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery: []
 place:
-  id: "ChIJO_wtXNqVuEwRBoNhbzRrcZg"
-  name: "The Citadelle of Québec"
-  address: "1 Côte de la Citadelle, Québec, QC G1R 3R2, Canada"
+  id: ChIJO_wtXNqVuEwRBoNhbzRrcZg
+  name: The Citadelle of Québec
+  address: '1 Côte de la Citadelle, Québec, QC G1R 3R2, Canada'
   rating: 4.6
-  userRatingsTotal: 9778
-  googleMapsUrl: "https://maps.google.com/?cid=10984678839084483334&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 9802
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10984678839084483334&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 46.8077997
   lng: -71.2068986
-  phone: "+1 418-694-2800"
+  phone: +1 418-694-2800
   openingHours:
-    - "Monday: 10:00 AM – 5:00 PM"
-    - "Tuesday: 10:00 AM – 5:00 PM"
-    - "Wednesday: 10:00 AM – 5:00 PM"
-    - "Thursday: 10:00 AM – 5:00 PM"
-    - "Friday: 10:00 AM – 5:00 PM"
-    - "Saturday: 10:00 AM – 5:00 PM"
-    - "Sunday: 10:00 AM – 5:00 PM"
+    - 'Monday: 10:00 AM – 5:00 PM'
+    - 'Tuesday: 10:00 AM – 5:00 PM'
+    - 'Wednesday: 10:00 AM – 5:00 PM'
+    - 'Thursday: 10:00 AM – 5:00 PM'
+    - 'Friday: 10:00 AM – 5:00 PM'
+    - 'Saturday: 10:00 AM – 5:00 PM'
+    - 'Sunday: 10:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-10-25
+    updated: 2026-10-25T00:00:00.000Z
     weekdayQuiet:
       - 16
     weekdayBusy:
@@ -46,24 +53,44 @@ place:
       - 12
       - 15
       - 16
-    venueId: "ven_675a6372527a62684e6f425277457556714e5874775f4f4a496843"
+    venueId: ven_675a6372527a62684e6f425277457556714e5874775f4f4a496843
 tags:
-  - "quebec city"
-  - "hidden gem"
-quickAnswer: "The Citadelle of Québec is the star-shaped, still-active military fort on Cap Diamant, the highest point of Old Québec in Quebec City, and you see its interior on a guided tour. At the moment it opens 10am–5pm. It's calmest between 4pm and 5pm on weekdays, and on weekends between 10am and 1pm or 3pm and 5pm."
+  - quebec city
+  - hidden gem
+quickAnswer: >-
+  The Citadelle of Québec is the star-shaped, still-active military fort on Cap
+  Diamant, the highest point of Old Québec in Quebec City, and you see its
+  interior on a guided tour. At the moment it opens 10am–5pm. It's calmest
+  between 4pm and 5pm on weekdays, and on weekends between 10am and 1pm or 3pm
+  and 5pm.
 faq:
-  - q: "When is the quietest time to visit the Citadelle of Québec?"
-    a: "On weekdays it's calmest between 4pm and 5pm. On weekends the quiet windows are 10am–1pm and 3pm–5pm. If you go late on a weekday, check when the last guided tour leaves."
-  - q: "How do I get to the Citadelle from Old Québec?"
-    a: "Walk through Porte Saint-Louis and head up Côte de la Citadelle to the entrance at 1 Côte de la Citadelle. You can also climb the Promenade des Gouverneurs stairs from Dufferin Terrace, beside Château Frontenac."
-  - q: "Can I explore the Citadelle on my own?"
-    a: "Only partly. It's an active military base, so you see the interior on a guided tour, in French or English. The Royal 22e Régiment Museum on site adds more detail. Allow about 1.5 to 2 hours."
-  - q: "When is the Changing of the Guard?"
-    a: "It runs in summer only, and the dates and start time are set each year. Check the official Citadelle website for the current schedule before you go."
-  - q: "What's near the Citadelle?"
-    a: "The Plains of Abraham are right next door. Dufferin Terrace, Château Frontenac and the Parliament Building are all a short walk away."
+  - q: When is the quietest time to visit the Citadelle of Québec?
+    a: >-
+      On weekdays it's calmest between 4pm and 5pm. On weekends the quiet
+      windows are 10am–1pm and 3pm–5pm. If you go late on a weekday, check when
+      the last guided tour leaves.
+  - q: How do I get to the Citadelle from Old Québec?
+    a: >-
+      Walk through Porte Saint-Louis and head up Côte de la Citadelle to the
+      entrance at 1 Côte de la Citadelle. You can also climb the Promenade des
+      Gouverneurs stairs from Dufferin Terrace, beside Château Frontenac.
+  - q: Can I explore the Citadelle on my own?
+    a: >-
+      Only partly. It's an active military base, so you see the interior on a
+      guided tour, in French or English. The Royal 22e Régiment Museum on site
+      adds more detail. Allow about 1.5 to 2 hours.
+  - q: When is the Changing of the Guard?
+    a: >-
+      It runs in summer only, and the dates and start time are set each year.
+      Check the official Citadelle website for the current schedule before you
+      go.
+  - q: What's near the Citadelle?
+    a: >-
+      The Plains of Abraham are right next door. Dufferin Terrace, Château
+      Frontenac and the Parliament Building are all a short walk away.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-07'
 ---
 
 ## A fort that still has a garrison

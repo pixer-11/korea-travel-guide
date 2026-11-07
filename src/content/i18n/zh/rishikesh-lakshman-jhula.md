@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: rishikesh-lakshman-jhula
-srcHash: '29600f08e198'
+srcHash: 'da547234554d'
 title: 拉克什曼吊桥：瑞诗凯诗旅行指南（4.5★）
-description: 拉克什曼吊桥（Lakshman Jhula）是一座横跨恒河的铁索吊桥，连接塔波万（Tapovan）与琼克（Jonk）两岸，距瑞诗凯诗市中心约5公里，位于上游。评分4.5★（6,631条评价）。本文汇总游客评价、开放时间和实用贴士。
+description: 拉克什曼吊桥（Lakshman Jhula）是一座横跨恒河的铁索吊桥，连接塔波万（Tapovan）与琼克（Jonk）两岸，距瑞诗凯诗市中心约5公里，位于上游。评分4.5★（6,677条评价）。本文汇总游客评价、开放时间和实用贴士。
 quickAnswer: 拉克什曼吊桥（Lakshman Jhula）是一座铁索吊桥，横跨恒河，连接塔波万（Tapovan）与琼克（Jonk）两岸，位于瑞诗凯诗市中心上游约5公里处。东岸矗立着13层高的十三层神庙（Tera Manzil）。出于安全考虑，大桥自2019年起时开时关，出发前请先在当地打听最新情况。一日游的人潮通常晚些才到，想独享河岸风光，最好清晨前往。
 faq:
   - q: 拉克什曼吊桥现在可以步行通过吗？

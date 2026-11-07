@@ -1,23 +1,29 @@
 ---
 title: 'Habun Restaurant: Where to Eat in Ras Al Khaimah'
-description: "Habun Restaurant sits in Grove Village, Khuzam, a residential pocket of Ras Al Khaimah city inland from the Corniche, and has built a 4.8-star reputation from 642 reviews without becoming a tourist stop."
+description: >-
+  Habun Restaurant sits in Grove Village, Khuzam, a residential pocket of Ras Al
+  Khaimah city inland from the Corniche, and has built a 4.8-star reputation
+  from 642 reviews without becoming a tourist stop.
 country: United Arab Emirates
 region: Ras Al Khaimah
 category: restaurant
 pubDate: '2026-07-23T07:51:20.246Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Jebel_Jais_Mountain_Ranges_as_viewed_from_Ras_Al_Khaimah%2C_United_Arab_Emirates.jpg/1920px-Jebel_Jais_Mountain_Ranges_as_viewed_from_Ras_Al_Khaimah%2C_United_Arab_Emirates.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Jebel_Jais_Mountain_Ranges_as_viewed_from_Ras_Al_Khaimah%2C_United_Arab_Emirates.jpg/1920px-Jebel_Jais_Mountain_Ranges_as_viewed_from_Ras_Al_Khaimah%2C_United_Arab_Emirates.jpg
   credit: 'Photo: Ginevrajocosa88 / Wikimedia Commons (CC0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Jebel_Jais_Mountain_Ranges_as_viewed_from_Ras_Al_Khaimah,_United_Arab_Emirates.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Jebel_Jais_Mountain_Ranges_as_viewed_from_Ras_Al_Khaimah,_United_Arab_Emirates.jpg
 gallery: []
 place:
   id: ChIJCSRfZphx9j4RPLTge32vHAY
   name: Habun Restaurant
   address: Grove village - Khuzam - Ras Al Khaimah - United Arab Emirates
   rating: 4.8
-  userRatingsTotal: 642
-  googleMapsUrl: https://maps.google.com/?cid=440419817059562556&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 707
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=440419817059562556&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 25.7705762
   lng: 55.939054299999995
@@ -39,7 +45,7 @@ place:
       - 21
       - 22
     venueId: ven_5941487632336567544c5052346a397868705a665253434a496843
-  phone: '+971 52 684 9549'
+  phone: +971 52 684 9549
   openingHours:
     - 'Monday: 9:00 AM – 12:00 AM'
     - 'Tuesday: 9:00 AM – 12:00 AM'
@@ -48,23 +54,47 @@ place:
     - 'Friday: 9:00 AM – 1:00 AM'
     - 'Saturday: 9:00 AM – 1:00 AM'
     - 'Sunday: 9:00 AM – 12:00 AM'
+  priceLevel: 2
 tags:
   - ras al khaimah
   - local restaurant
-quickAnswer: Habun Restaurant sits in Grove Village, Khuzam, a residential pocket of Ras Al Khaimah city inland from the Corniche, and has built a 4.8-star reputation from 642 reviews without becoming a tourist stop. It's best approached as a dinner destination reached by taxi or rental car, ideally on a weeknight when the dining room is calm and the kitchen has time to walk you through the menu.
+quickAnswer: >-
+  Habun Restaurant sits in Grove Village, Khuzam, a residential pocket of Ras Al
+  Khaimah city inland from the Corniche, and has built a 4.8-star reputation
+  from 642 reviews without becoming a tourist stop. It's best approached as a
+  dinner destination reached by taxi or rental car, ideally on a weeknight when
+  the dining room is calm and the kitchen has time to walk you through the menu.
 faq:
   - q: How do I get to Habun Restaurant without a car?
-    a: Use a taxi or ride-hailing app — Ras Al Khaimah has no metro and limited bus coverage to residential areas like Khuzam. Ask your driver for Grove Village, Khuzam specifically, and confirm the address on your maps app before setting off.
+    a: >-
+      Use a taxi or ride-hailing app — Ras Al Khaimah has no metro and limited
+      bus coverage to residential areas like Khuzam. Ask your driver for Grove
+      Village, Khuzam specifically, and confirm the address on your maps app
+      before setting off.
   - q: Is Habun Restaurant touristy or more of a local spot?
-    a: It's under-the-radar relative to RAK's main tourist areas — its strong 4.8/642 review record has built up without heavy tourist foot traffic, since it sits inland in a residential district rather than near the resorts or Corniche.
+    a: >-
+      It's under-the-radar relative to RAK's main tourist areas — its strong
+      4.8/642 review record has built up without heavy tourist foot traffic,
+      since it sits inland in a residential district rather than near the
+      resorts or Corniche.
   - q: What's the best time to visit to avoid a wait?
-    a: Aim for a weeknight (Sunday–Tuesday) in the early-to-mid evening. Thursday and Friday nights are busiest since they mark the start of the Gulf weekend.
+    a: >-
+      Aim for a weeknight (Sunday–Tuesday) in the early-to-mid evening. Thursday
+      and Friday nights are busiest since they mark the start of the Gulf
+      weekend.
   - q: How long should I plan to stay?
-    a: Treat it as a proper sit-down dinner rather than a quick bite — plan on an hour to ninety minutes, especially if ordering a shared spread of starters and mains.
+    a: >-
+      Treat it as a proper sit-down dinner rather than a quick bite — plan on an
+      hour to ninety minutes, especially if ordering a shared spread of starters
+      and mains.
   - q: What else can I combine with a meal here?
-    a: Pair it with a day along the RAK Corniche, the beaches of Al Marjan Island, or a Jebel Jais excursion, then finish the evening with dinner in Khuzam since it's a short drive inland from most of those spots.
+    a: >-
+      Pair it with a day along the RAK Corniche, the beaches of Al Marjan
+      Island, or a Jebel Jais excursion, then finish the evening with dinner in
+      Khuzam since it's a short drive inland from most of those spots.
 aiGenerated: true
 draft: true
+updatedDate: '2026-11-07'
 ---
 
 ## Why go

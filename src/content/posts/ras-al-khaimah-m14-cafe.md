@@ -1,24 +1,32 @@
 ---
 title: 'M14 Cafe: Ras Al Khaimah Travel Guide'
-description: M14 Cafe is a laid-back specialty coffee shop tucked near New Mall on Sheikh Humaid Al Mohammad Al Qasimi Road in Seih Al Araibi, Ras Al Khaimah — worth a detour if you want a quality flat white or brunch without the mall-food-court crowd.
+description: >-
+  M14 Cafe is a laid-back specialty coffee shop tucked near New Mall on Sheikh
+  Humaid Al Mohammad Al Qasimi Road in Seih Al Araibi, Ras Al Khaimah — worth a
+  detour if you want a quality flat white or brunch without the mall-food-court
+  crowd.
 country: United Arab Emirates
 region: Ras Al Khaimah
 category: trendy
 pubDate: '2026-07-23T07:56:48.110Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/97571018_ji0pZkdRVRBH6paKNNxE-Io9IhCG_slaU7bZDo2X86A.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/97571018_ji0pZkdRVRBH6paKNNxE-Io9IhCG_slaU7bZDo2X86A.jpg
   credit: 'Photo: Foursquare user content (M 14 Cafe)'
   license: foursquare
-  source: https://foursquare.com/v/5f68457aceffc60b9e58fb81
+  source: 'https://foursquare.com/v/5f68457aceffc60b9e58fb81'
 gallery: []
 place:
   id: ChIJAVY-ZYh39j4RfV0bdsnLj3I
   name: M14 Cafe
-  address: New Mall - Sheikh Humaid Al Mohammad Al Qasimi Rd - Seih Al Araibi - Ras Al Khaimah - United Arab Emirates
+  address: >-
+    New Mall - Sheikh Humaid Al Mohammad Al Qasimi Rd - Seih Al Araibi - Ras Al
+    Khaimah - United Arab Emirates
   rating: 4.4
-  userRatingsTotal: 706
+  userRatingsTotal: 730
   priceLevel: 2
-  googleMapsUrl: https://maps.google.com/?cid=8255040708123778429&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=8255040708123778429&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 25.7883181
   lng: 55.9967918
@@ -43,7 +51,7 @@ place:
       - 21
       - 22
     venueId: ven_49336a4c6e73646230566652346a393368595a2d5956414a496843
-  phone: '+971 55 432 2099'
+  phone: +971 55 432 2099
   openingHours:
     - 'Monday: Open 24 hours'
     - 'Tuesday: Open 24 hours'
@@ -55,20 +63,43 @@ place:
 tags:
   - ras al khaimah
   - trendy cafe
-quickAnswer: M14 Cafe is a laid-back specialty coffee shop tucked near New Mall on Sheikh Humaid Al Mohammad Al Qasimi Road in Seih Al Araibi, Ras Al Khaimah — worth a detour if you want a quality flat white or brunch without the mall-food-court crowd. Rated 4.4 from 706 reviews, it's mid-priced (roughly AED 20-45 per item) and best visited mid-morning on a weekday. Plan for 45-90 minutes; pair it with a walk through New Mall or a drive along the road toward Jebel Jais.
+quickAnswer: >-
+  M14 Cafe is a laid-back specialty coffee shop tucked near New Mall on Sheikh
+  Humaid Al Mohammad Al Qasimi Road in Seih Al Araibi, Ras Al Khaimah — worth a
+  detour if you want a quality flat white or brunch without the mall-food-court
+  crowd. Rated 4.4 from 706 reviews, it's mid-priced (roughly AED 20-45 per
+  item) and best visited mid-morning on a weekday. Plan for 45-90 minutes; pair
+  it with a walk through New Mall or a drive along the road toward Jebel Jais.
 faq:
   - q: How do I get to M14 Cafe in Ras Al Khaimah?
-    a: By car or taxi is easiest, since RAK has no metro system. It's located beside New Mall on Sheikh Humaid Al Mohammad Al Qasimi Road in Seih Al Araibi, about 15-20 minutes from the corniche or the airport depending on traffic.
+    a: >-
+      By car or taxi is easiest, since RAK has no metro system. It's located
+      beside New Mall on Sheikh Humaid Al Mohammad Al Qasimi Road in Seih Al
+      Araibi, about 15-20 minutes from the corniche or the airport depending on
+      traffic.
   - q: How much does a visit to M14 Cafe cost?
-    a: It's mid-priced for the UAE, roughly AED 20-45 per coffee or dish based on its price level rating. A coffee-and-pastry visit for two typically runs well under AED 150, though menu prices should be confirmed on-site.
+    a: >-
+      It's mid-priced for the UAE, roughly AED 20-45 per coffee or dish based on
+      its price level rating. A coffee-and-pastry visit for two typically runs
+      well under AED 150, though menu prices should be confirmed on-site.
   - q: What's the best time to visit M14 Cafe?
-    a: Weekday mornings, roughly 9-11am, are the quietest. Weekends and especially Friday brunch hours draw bigger crowds, so arrive early if you want a table without waiting.
+    a: >-
+      Weekday mornings, roughly 9-11am, are the quietest. Weekends and
+      especially Friday brunch hours draw bigger crowds, so arrive early if you
+      want a table without waiting.
   - q: How long should I plan to spend there?
-    a: Budget 45-90 minutes for a relaxed coffee or brunch. It pairs well with a walk through neighboring New Mall or as a stop on a drive toward Jebel Jais or the RAK corniche.
+    a: >-
+      Budget 45-90 minutes for a relaxed coffee or brunch. It pairs well with a
+      walk through neighboring New Mall or as a stop on a drive toward Jebel
+      Jais or the RAK corniche.
   - q: Is M14 Cafe touristy or a local secret?
-    a: It's genuinely under-the-radar for visitors — well-rated (4.4 from 706 reviews) but not yet a major stop on tourist itineraries, so you can usually visit without crowds or needing a reservation.
+    a: >-
+      It's genuinely under-the-radar for visitors — well-rated (4.4 from 706
+      reviews) but not yet a major stop on tourist itineraries, so you can
+      usually visit without crowds or needing a reservation.
 aiGenerated: true
 draft: true
+updatedDate: '2026-11-07'
 ---
 
 ## Why go

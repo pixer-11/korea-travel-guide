@@ -1,45 +1,53 @@
 ---
-title: "Musée national des beaux-arts du Québec: Quebec City Travel Guide"
-description: "The Musée national des beaux-arts du Québec sits at 179 Grande Allée Ouest in Quebec City, on the edge of the Plains of Abraham, about a 20-minute walk from the Old City gates. 4.6★ (4,647 reviews) — what visitors say, hours, and tips."
-country: "Canada"
-region: "Quebec City"
-category: "attraction"
-pubDate: "2026-10-22T07:49:31.394Z"
+title: 'Musée national des beaux-arts du Québec: Quebec City Travel Guide'
+description: >-
+  The Musée national des beaux-arts du Québec sits at 179 Grande Allée Ouest in
+  Quebec City, on the edge of the Plains of Abraham, about a 20-minute walk from
+  the Old City gates. 4.6★ (4,687 reviews) — what visitors say, hours, and tips.
+country: Canada
+region: Quebec City
+category: attraction
+pubDate: '2026-10-22T07:49:31.394Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Mus%C3%A9e_national_des_beaux-arts_du_Qu%C3%A9bec_2017.jpg/3840px-Mus%C3%A9e_national_des_beaux-arts_du_Qu%C3%A9bec_2017.jpg"
-  credit: "Photo: Antony-22 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_national_des_beaux-arts_du_Qu%C3%A9bec_2017.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Mus%C3%A9e_national_des_beaux-arts_du_Qu%C3%A9bec_2017.jpg/3840px-Mus%C3%A9e_national_des_beaux-arts_du_Qu%C3%A9bec_2017.jpg
+  credit: 'Photo: Antony-22 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_national_des_beaux-arts_du_Qu%C3%A9bec_2017.jpg
+  via: act
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Le_mus%C3%A9e_national_des_beaux-arts_du_Qu%C3%A9bec_2.JPG/3840px-Le_mus%C3%A9e_national_des_beaux-arts_du_Qu%C3%A9bec_2.JPG"
-    credit: "Photo: NickHam / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Le_mus%C3%A9e_national_des_beaux-arts_du_Qu%C3%A9bec_2.JPG"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Le_mus%C3%A9e_national_des_beaux-arts_du_Qu%C3%A9bec_2.JPG/3840px-Le_mus%C3%A9e_national_des_beaux-arts_du_Qu%C3%A9bec_2.JPG
+    credit: 'Photo: NickHam / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Le_mus%C3%A9e_national_des_beaux-arts_du_Qu%C3%A9bec_2.JPG
 place:
-  id: "ChIJn5duwH-WuEwRo6FhOQuuTIw"
-  name: "Musée national des beaux-arts du Québec"
-  address: "179 Grande Allée O, Québec, QC G1R 2H1, Canada"
+  id: ChIJn5duwH-WuEwRo6FhOQuuTIw
+  name: Musée national des beaux-arts du Québec
+  address: '179 Grande Allée O, Québec, QC G1R 2H1, Canada'
   rating: 4.6
-  userRatingsTotal: 4647
-  googleMapsUrl: "https://maps.google.com/?cid=10109646626770493859&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 4687
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10109646626770493859&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 46.80085210000001
   lng: -71.22488320000001
-  phone: "+1 418-643-2150"
+  phone: +1 418-643-2150
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 10:00 AM – 5:00 PM"
-    - "Wednesday: 10:00 AM – 5:00 PM"
-    - "Thursday: 10:00 AM – 5:00 PM"
-    - "Friday: 10:00 AM – 5:00 PM"
-    - "Saturday: 10:00 AM – 5:00 PM"
-    - "Sunday: 10:00 AM – 5:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 10:00 AM – 5:00 PM'
+    - 'Wednesday: 10:00 AM – 5:00 PM'
+    - 'Thursday: 10:00 AM – 5:00 PM'
+    - 'Friday: 10:00 AM – 5:00 PM'
+    - 'Saturday: 10:00 AM – 5:00 PM'
+    - 'Sunday: 10:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-10-22
+    updated: 2026-10-22T00:00:00.000Z
     weekdayQuiet:
       - 10
     weekendBusy:
@@ -49,24 +57,46 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_7749547575514f6846366f52774575572d48777564356e4a496843"
+    venueId: ven_7749547575514f6846366f52774575572d48777564356e4a496843
 tags:
-  - "quebec city"
-  - "museum"
-quickAnswer: "The Musée national des beaux-arts du Québec sits at 179 Grande Allée Ouest in Quebec City, on the edge of the Plains of Abraham, about a 20-minute walk from the Old City gates. Currently it opens Tuesday to Sunday, 10am–5pm, and closes on Mondays. It's calmest on weekday mornings between 10am and 11am, and busiest on weekends from 11am to 5pm."
+  - quebec city
+  - museum
+quickAnswer: >-
+  The Musée national des beaux-arts du Québec sits at 179 Grande Allée Ouest in
+  Quebec City, on the edge of the Plains of Abraham, about a 20-minute walk from
+  the Old City gates. Currently it opens Tuesday to Sunday, 10am–5pm, and closes
+  on Mondays. It's calmest on weekday mornings between 10am and 11am, and
+  busiest on weekends from 11am to 5pm.
 faq:
-  - q: "When is the quietest time to visit the Musée national des beaux-arts du Québec?"
-    a: "On weekdays between 10am and 11am, right after opening. Avoid weekends between 11am and 5pm, when it's busiest."
-  - q: "Is the museum open on Mondays?"
-    a: "Not at the moment. It's currently closed on Mondays and opens 10am–5pm Tuesday to Sunday. Hours shift around holidays and certain seasons, so check the official site for the month you're visiting."
-  - q: "How do I get there from Old Quebec?"
-    a: "Leave the walled city through Porte Saint-Louis and walk west along Grande Allée past the Parliament building. It takes about 20 minutes. RTC buses also run along Grande Allée and René-Lévesque Boulevard."
-  - q: "How long should I spend at the museum?"
-    a: "Two to three hours lets you cover the Lassonde, Morisset and Baillairgé pavilions, including the preserved prison cells and a major temporary exhibition."
-  - q: "What is there to do nearby?"
-    a: "The Plains of Abraham and a Martello tower are right behind the museum. The Jardin Jeanne-d'Arc is a few minutes' walk east, and Avenue Cartier, with its cafés and the Halles Cartier market, is a short walk north."
+  - q: >-
+      When is the quietest time to visit the Musée national des beaux-arts du
+      Québec?
+    a: >-
+      On weekdays between 10am and 11am, right after opening. Avoid weekends
+      between 11am and 5pm, when it's busiest.
+  - q: Is the museum open on Mondays?
+    a: >-
+      Not at the moment. It's currently closed on Mondays and opens 10am–5pm
+      Tuesday to Sunday. Hours shift around holidays and certain seasons, so
+      check the official site for the month you're visiting.
+  - q: How do I get there from Old Quebec?
+    a: >-
+      Leave the walled city through Porte Saint-Louis and walk west along Grande
+      Allée past the Parliament building. It takes about 20 minutes. RTC buses
+      also run along Grande Allée and René-Lévesque Boulevard.
+  - q: How long should I spend at the museum?
+    a: >-
+      Two to three hours lets you cover the Lassonde, Morisset and Baillairgé
+      pavilions, including the preserved prison cells and a major temporary
+      exhibition.
+  - q: What is there to do nearby?
+    a: >-
+      The Plains of Abraham and a Martello tower are right behind the museum.
+      The Jardin Jeanne-d'Arc is a few minutes' walk east, and Avenue Cartier,
+      with its cafés and the Halles Cartier market, is a short walk north.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-07'
 ---
 
 ## Four buildings, one ticket

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: rishikesh-lakshman-jhula
-srcHash: '29600f08e198'
+srcHash: 'da547234554d'
 title: 'Lakshman Jhula: guía de viaje de Rishikesh (4.5★)'
-description: A unos 5 km río arriba del centro de Rishikesh, entre Tapovan y Jonk, el puente colgante de hierro de Lakshman Jhula cruza el Ganges. Con una valoración de 4.5★ (6,631 reseñas), le contamos qué opinan los visitantes, los horarios y algunos consejos.
+description: A unos 5 km río arriba del centro de Rishikesh, entre Tapovan y Jonk, el puente colgante de hierro de Lakshman Jhula cruza el Ganges. Con una valoración de 4.5★ (6,677 reseñas), le contamos qué opinan los visitantes, los horarios y algunos consejos.
 quickAnswer: Lakshman Jhula es un puente colgante de hierro que cruza el Ganges entre Tapovan y Jonk, a unos 5 km río arriba del centro de Rishikesh. En la orilla oriental se alza Tera Manzil, un templo de 13 plantas. Desde 2019 el puente se ha cerrado y reabierto varias veces por motivos de seguridad, así que conviene informarse sobre su estado en el lugar antes de ir. Si quiere disfrutar de las orillas sin las multitudes de excursionistas, llegue a primera hora de la mañana.
 faq:
   - q: ¿Se puede cruzar Lakshman Jhula a pie?

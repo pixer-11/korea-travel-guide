@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: queenstown-skyline-queenstown
-srcHash: '085a20875101'
+srcHash: 'f05822987122'
 title: 天空缆车：皇后镇旅游攻略（4.6★）
-description: 皇后镇天空缆车（Skyline Queenstown）的缆车站在布雷肯街（Brecon Street）53号，从皇后镇市中心往上坡走几分钟就到。缆车直上鲍勃峰（Bob's Peak），山顶有餐厅、酒吧、观景台和滑车赛道，可以俯瞰瓦卡蒂普湖。评分4.6★（14,062条评价），本文汇总游客评价、开放时间和实用建议。
+description: 皇后镇天空缆车（Skyline Queenstown）的缆车站在布雷肯街（Brecon Street）53号，从皇后镇市中心往上坡走几分钟就到。缆车直上鲍勃峰（Bob's Peak），山顶有餐厅、酒吧、观景台和滑车赛道，可以俯瞰瓦卡蒂普湖。评分4.6★（14,143条评价），本文汇总游客评价、开放时间和实用建议。
 quickAnswer: 皇后镇天空缆车（Skyline Queenstown）的缆车站在布雷肯街（Brecon Street）53号，从皇后镇市中心往上坡走几分钟就到。缆车直上鲍勃峰（Bob's Peak），山顶有餐厅、酒吧、观景台和滑车赛道，可以俯瞰瓦卡蒂普湖。无论工作日还是周末，晚上6点到9点人都最少。周末上午11点到下午5点排队最久，尽量别在这个时段去。
 faq:
   - q: 什么时候去皇后镇天空缆车人最少？

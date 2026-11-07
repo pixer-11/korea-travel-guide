@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: queenstown-skyline-queenstown
-srcHash: '085a20875101'
+srcHash: 'f05822987122'
 title: 'Skyline: guía de viaje de Queenstown (4.6★)'
-description: 'Desde el 53 de Brecon Street, a poca distancia cuesta arriba del centro de Queenstown, el teleférico de Skyline sube hasta Bob''s Peak. Allí, sobre el lago Wakatipu, esperan un restaurante, un bar, varios miradores y las pistas del Luge. 4.6★ (14,062 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'Desde el 53 de Brecon Street, a poca distancia cuesta arriba del centro de Queenstown, el teleférico de Skyline sube hasta Bob''s Peak. Allí, sobre el lago Wakatipu, esperan un restaurante, un bar, varios miradores y las pistas del Luge. 4.6★ (14,143 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Desde el 53 de Brecon Street, a poca distancia cuesta arriba del centro de Queenstown, el teleférico de Skyline sube hasta Bob's Peak. En la cima, sobre el lago Wakatipu, hay un restaurante, un bar, varios miradores y las pistas del Luge. Las horas más tranquilas son de 6pm a 9pm, tanto entre semana como en fin de semana. Los fines de semana, entre las 11am y las 5pm, se forman las colas más largas, así que conviene no llegar en esa franja.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar Skyline Queenstown?

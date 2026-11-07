@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: quebec-city-the-citadelle-of-quebec
-srcHash: '6dda55b3f574'
+srcHash: '2db0c4ae5bee'
 title: 'La Ciudadela de Quebec: guía de viaje de la ciudad de Quebec (4.6★)'
-description: En lo alto del Cap Diamant, el punto más elevado del Viejo Quebec (Vieux-Québec), se alza la Ciudadela de Quebec, un fuerte militar en forma de estrella que sigue en activo y cuyo interior se recorre con visita guiada. Con 4.6★ (9,778 reseñas), aquí encontrará la opinión de los visitantes, el horario y consejos prácticos.
+description: En lo alto del Cap Diamant, el punto más elevado del Viejo Quebec (Vieux-Québec), se alza la Ciudadela de Quebec, un fuerte militar en forma de estrella que sigue en activo y cuyo interior se recorre con visita guiada. Con 4.6★ (9,802 reseñas), aquí encontrará la opinión de los visitantes, el horario y consejos prácticos.
 quickAnswer: En lo alto del Cap Diamant, el punto más elevado del Viejo Quebec, se alza la Ciudadela de Quebec, un fuerte militar en forma de estrella que sigue en activo y cuyo interior solo se recorre con visita guiada. Actualmente abre de 10am–5pm. Entre semana, la franja más tranquila va de 4pm a 5pm; los fines de semana, de 10am a 1pm o de 3pm a 5pm.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar la Ciudadela de Quebec?

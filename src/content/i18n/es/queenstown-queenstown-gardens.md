@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: queenstown-queenstown-gardens
-srcHash: '023017eabfb1'
+srcHash: '84979060fa17'
 title: 'Jardines de Queenstown: guía de viaje (4.8★)'
-description: Rodeados por el lago Wakatipu en tres de sus lados, los Jardines de Queenstown (Queenstown Gardens) ocupan la pequeña península situada en el extremo del centro de Queenstown, a pocos minutos a pie del paseo marítimo por Marine Parade. Con una valoración de 4.8★ (1,654 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
+description: Rodeados por el lago Wakatipu en tres de sus lados, los Jardines de Queenstown (Queenstown Gardens) ocupan la pequeña península situada en el extremo del centro de Queenstown, a pocos minutos a pie del paseo marítimo por Marine Parade. Con una valoración de 4.8★ (1,667 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
 quickAnswer: Los Jardines de Queenstown (Queenstown Gardens) ocupan la pequeña península en la que termina el centro de Queenstown. El lago Wakatipu los rodea por tres lados y se llega en pocos minutos a pie desde el paseo marítimo por Marine Parade. Recorra primero el circuito de la orilla para contemplar los Remarkables y el Cecil Peak; después, adéntrese hacia los rosales, el estanque, el campo de disc golf y la pista de hielo. Según la información actual, los senderos permanecen abiertos las 24 horas, de modo que tanto el amanecer como los largos atardeceres de verano resultan momentos cómodos para la visita.
 faq:
   - q: ¿Cómo se llega a los Jardines de Queenstown desde el centro?

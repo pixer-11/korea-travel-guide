@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: quebec-city-place-royale
-srcHash: 'f2afd9673d3c'
+srcHash: '87a6dc3557ac'
 title: 'Place Royale: guía de viaje de la ciudad de Quebec (4.7★)'
-description: En la Ciudad Baja (Basse-Ville) del Viejo Quebec, sobre el terreno donde Samuel de Champlain fundó la ciudad en 1608, se encuentra Place Royale, una pequeña plaza empedrada. Con una valoración de 4.7★ (2,743 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y varios consejos.
+description: En la Ciudad Baja (Basse-Ville) del Viejo Quebec, sobre el terreno donde Samuel de Champlain fundó la ciudad en 1608, se encuentra Place Royale, una pequeña plaza empedrada. Con una valoración de 4.7★ (2,756 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y varios consejos.
 quickAnswer: Place Royale es una pequeña plaza empedrada de la Ciudad Baja (Basse-Ville) del Viejo Quebec. Ocupa el terreno donde Samuel de Champlain fundó la ciudad en 1608. Permanece abierta a todas horas, y los fines de semana los momentos más tranquilos son de 7am–8am y de 10pm–11pm. Conviene evitar la franja de 11am–8pm del fin de semana, cuando se llena de gente.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar Place Royale?

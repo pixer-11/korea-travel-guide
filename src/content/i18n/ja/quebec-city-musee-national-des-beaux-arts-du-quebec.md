@@ -1,9 +1,9 @@
 ---
 lang: ja
 slug: quebec-city-musee-national-des-beaux-arts-du-quebec
-srcHash: 'de56e835f6b3'
+srcHash: 'a0e38100c303'
 title: ケベック国立美術館：ケベック・シティ旅行ガイド
-description: ケベック・シティのケベック国立美術館（Musée national des beaux-arts du Québec）は、アブラハム平原のほとりの179 Grande Allée Ouestにあり、旧市街の城門からは徒歩約20分です。評価は4.6★（4,647件のレビュー）。訪れた人の声や開館時間、見学のコツをまとめました。
+description: ケベック・シティのケベック国立美術館（Musée national des beaux-arts du Québec）は、アブラハム平原のほとりの179 Grande Allée Ouestにあり、旧市街の城門からは徒歩約20分です。評価は4.6★（4,687件のレビュー）。訪れた人の声や開館時間、見学のコツをまとめました。
 quickAnswer: ケベック国立美術館（Musée national des beaux-arts du Québec）は、ケベック・シティの179 Grande Allée Ouestにあります。アブラハム平原のほとりに位置し、旧市街の城門からは歩いて20分ほどです。現在の開館日は火曜から日曜で、時間は10:00〜17:00です。月曜は休館しています。比較的すいているのは平日の10:00〜11:00で、最も混み合うのは週末の11:00〜17:00です。
 faq:
   - q: ケベック国立美術館が最もすいているのはいつですか？

@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: quebec-city-musee-national-des-beaux-arts-du-quebec
-srcHash: 'de56e835f6b3'
+srcHash: 'a0e38100c303'
 title: 魁北克国家美术馆：魁北克城旅行指南
-description: 魁北克国家美术馆位于魁北克城Grande Allée Ouest大街179号，紧邻亚伯拉罕平原，从老城城门步行约20分钟即到。4.6★（4,647条评价），这里汇总了游客评价、开放时间和参观建议。
+description: 魁北克国家美术馆位于魁北克城Grande Allée Ouest大街179号，紧邻亚伯拉罕平原，从老城城门步行约20分钟即到。4.6★（4,687条评价），这里汇总了游客评价、开放时间和参观建议。
 quickAnswer: 魁北克国家美术馆（Musée national des beaux-arts du Québec）坐落于魁北克城Grande Allée Ouest大街179号，就在亚伯拉罕平原边上，从老城城门步行过来大约20分钟。目前开放时间为周二至周日上午10点至下午5点，周一闭馆。工作日上午10点到11点人最少，周末上午11点到下午5点人最多。
 faq:
   - q: 什么时候去魁北克国家美术馆人最少？

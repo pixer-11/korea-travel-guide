@@ -1,44 +1,53 @@
 ---
-title: "Skyline: Queenstown Travel Guide (4.6★)"
-description: "Skyline Queenstown runs a gondola from 53 Brecon Street, a short walk uphill from central Queenstown, up Bob's Peak to a restaurant, bar, viewing decks and the luge tracks above Lake Wakatipu. 4.6★ (14,062 reviews) — what visitors say, hours, and tips."
-country: "New Zealand"
-region: "Queenstown"
-category: "attraction"
-pubDate: "2026-10-20T14:48:07.064Z"
+title: 'Skyline: Queenstown Travel Guide (4.6★)'
+description: >-
+  Skyline Queenstown runs a gondola from 53 Brecon Street, a short walk uphill
+  from central Queenstown, up Bob's Peak to a restaurant, bar, viewing decks and
+  the luge tracks above Lake Wakatipu. 4.6★ (14,143 reviews) — what visitors
+  say, hours, and tips.
+country: New Zealand
+region: Queenstown
+category: attraction
+pubDate: '2026-10-20T14:48:07.064Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/View_from_Shotover-Rees_St%2C_Queenstown_-_panoramio_%282%29.jpg/1920px-View_from_Shotover-Rees_St%2C_Queenstown_-_panoramio_%282%29.jpg"
-  credit: "Photo: Bob Linsdell / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:View_from_Shotover-Rees_St,_Queenstown_-_panoramio_(2).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/View_from_Shotover-Rees_St%2C_Queenstown_-_panoramio_%282%29.jpg/1920px-View_from_Shotover-Rees_St%2C_Queenstown_-_panoramio_%282%29.jpg
+  credit: 'Photo: Bob Linsdell / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:View_from_Shotover-Rees_St,_Queenstown_-_panoramio_(2).jpg
   focus:
     x: 55
-    y: 25
+    'y': 25
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/5/51/Skyline_Queenstown_New_Zealand_-_panoramio.jpg"
-    credit: "Photo: BigBackpack / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Skyline_Queenstown_New_Zealand_-_panoramio.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/5/51/Skyline_Queenstown_New_Zealand_-_panoramio.jpg
+    credit: 'Photo: BigBackpack / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Skyline_Queenstown_New_Zealand_-_panoramio.jpg
 place:
-  id: "ChIJvW5Ehngd1akRv1_byHfuLCI"
-  name: "Skyline Queenstown"
-  address: "53 Brecon Street, Queenstown 9300, New Zealand"
+  id: ChIJvW5Ehngd1akRv1_byHfuLCI
+  name: Skyline Queenstown
+  address: '53 Brecon Street, Queenstown 9300, New Zealand'
   rating: 4.6
-  userRatingsTotal: 14062
-  googleMapsUrl: "https://maps.google.com/?cid=2462605294503157695&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 14143
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2462605294503157695&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -45.02850110000001
   lng: 168.6561937
-  phone: "+64 3 441 0101"
+  phone: +64 3 441 0101
   openingHours:
-    - "Monday: 9:30 AM – 9:00 PM"
-    - "Tuesday: 9:30 AM – 9:00 PM"
-    - "Wednesday: 9:30 AM – 9:00 PM"
-    - "Thursday: 9:30 AM – 9:00 PM"
-    - "Friday: 9:30 AM – 9:00 PM"
-    - "Saturday: 9:30 AM – 9:00 PM"
-    - "Sunday: 9:30 AM – 9:00 PM"
+    - 'Monday: 9:30 AM – 9:00 PM'
+    - 'Tuesday: 9:30 AM – 9:00 PM'
+    - 'Wednesday: 9:30 AM – 9:00 PM'
+    - 'Thursday: 9:30 AM – 9:00 PM'
+    - 'Friday: 9:30 AM – 9:00 PM'
+    - 'Saturday: 9:30 AM – 9:00 PM'
+    - 'Sunday: 9:30 AM – 9:00 PM'
   busyness:
-    updated: 2026-10-20
+    updated: 2026-10-20T00:00:00.000Z
     weekdayQuiet:
       - 18
       - 19
@@ -59,24 +68,43 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_49434c75664879625f3176526b613164676e68453557764a496843"
+    venueId: ven_49434c75664879625f3176526b613164676e68453557764a496843
 tags:
-  - "queenstown"
-  - "top attraction"
-quickAnswer: "Skyline Queenstown runs a gondola from 53 Brecon Street, a short walk uphill from central Queenstown, up Bob's Peak to a restaurant, bar, viewing decks and the luge tracks above Lake Wakatipu. It is quietest between 6pm and 9pm on both weekdays and weekends. Try not to arrive between 11am and 5pm on weekends, when queues are longest."
+  - queenstown
+  - top attraction
+quickAnswer: >-
+  Skyline Queenstown runs a gondola from 53 Brecon Street, a short walk uphill
+  from central Queenstown, up Bob's Peak to a restaurant, bar, viewing decks and
+  the luge tracks above Lake Wakatipu. It is quietest between 6pm and 9pm on
+  both weekdays and weekends. Try not to arrive between 11am and 5pm on
+  weekends, when queues are longest.
 faq:
-  - q: "When is the quietest time to visit Skyline Queenstown?"
-    a: "Between 6pm and 9pm, on both weekdays and weekends. The busiest window is 11am–5pm on weekends, so avoid it if you can."
-  - q: "How do I get to the Skyline gondola from Queenstown town centre?"
-    a: "Walk up Brecon Street to number 53. It is a short, steep walk from the town centre and the lakefront. You can also hike the Tiki Trail from near the base to the top."
-  - q: "How long should I spend at Skyline?"
-    a: "Allow about an hour for the gondola and the viewing decks alone. Allow 2–3 hours if you add luge rides or dinner at Stratosfare, and much longer if you hike the Ben Lomond Track."
-  - q: "Is the luge suitable for beginners?"
-    a: "Yes. Start on the gentler Scenic Track to learn the steering, then move on to the faster Advanced Track. A chairlift brings you back up after each run."
-  - q: "What else is near Skyline Queenstown?"
-    a: "Kiwi Birdlife Park is next to the gondola base on Brecon Street. The Queenstown waterfront and town centre are a short walk downhill."
+  - q: When is the quietest time to visit Skyline Queenstown?
+    a: >-
+      Between 6pm and 9pm, on both weekdays and weekends. The busiest window is
+      11am–5pm on weekends, so avoid it if you can.
+  - q: How do I get to the Skyline gondola from Queenstown town centre?
+    a: >-
+      Walk up Brecon Street to number 53. It is a short, steep walk from the
+      town centre and the lakefront. You can also hike the Tiki Trail from near
+      the base to the top.
+  - q: How long should I spend at Skyline?
+    a: >-
+      Allow about an hour for the gondola and the viewing decks alone. Allow 2–3
+      hours if you add luge rides or dinner at Stratosfare, and much longer if
+      you hike the Ben Lomond Track.
+  - q: Is the luge suitable for beginners?
+    a: >-
+      Yes. Start on the gentler Scenic Track to learn the steering, then move on
+      to the faster Advanced Track. A chairlift brings you back up after each
+      run.
+  - q: What else is near Skyline Queenstown?
+    a: >-
+      Kiwi Birdlife Park is next to the gondola base on Brecon Street. The
+      Queenstown waterfront and town centre are a short walk downhill.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-07'
 ---
 
 ## Up Bob's Peak in a glass box

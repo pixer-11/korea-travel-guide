@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: kurashiki-achi-shrine
-srcHash: 'ad9aa06f4eb9'
+srcHash: 'ae162b0dfcb7'
 title: 'Santuario Achi: guía de viaje de Kurashiki (4.4★)'
-description: 'En lo alto de la colina Tsurugatayama, sobre el Barrio Histórico de Bikan de Kurashiki, se alza el Santuario Achi, al que se sube por una empinada escalinata de piedra desde las calles de los canales de Honmachi. 4.4★ (2,512 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En lo alto de la colina Tsurugatayama, sobre el Barrio Histórico de Bikan de Kurashiki, se alza el Santuario Achi, al que se sube por una empinada escalinata de piedra desde las calles de los canales de Honmachi. 4.4★ (2,513 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En lo alto de la colina Tsurugatayama, sobre el Barrio Histórico de Bikan de Kurashiki, se alza el Santuario Achi, al que se llega por una empinada escalinata de piedra desde las calles de los canales de Honmachi. Según el horario publicado actualmente, abre de 9am a 5pm. Los días laborables, la franja más tranquila suele ser de 4pm a 5pm, mientras que los fines de semana la afluencia se mantiene alta durante toda la jornada, de 9am a 5pm.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Santuario Achi?

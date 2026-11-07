@@ -1,9 +1,9 @@
 ---
 lang: ko
 slug: quebec-city-musee-national-des-beaux-arts-du-quebec
-srcHash: 'de56e835f6b3'
+srcHash: 'a0e38100c303'
 title: '퀘벡 국립미술관: 퀘벡시티 여행 가이드'
-description: 퀘벡 국립미술관(Musée national des beaux-arts du Québec)은 퀘벡시티 아브라함 평원 가장자리의 179 Grande Allée Ouest에 있으며, 구시가지 성문에서 걸어서 20분 정도 걸립니다. 평점 4.6★(리뷰 4,647개)를 받은 이곳의 방문객 후기와 운영 시간, 관람 팁을 정리했습니다.
+description: 퀘벡 국립미술관(Musée national des beaux-arts du Québec)은 퀘벡시티 아브라함 평원 가장자리의 179 Grande Allée Ouest에 있으며, 구시가지 성문에서 걸어서 20분 정도 걸립니다. 평점 4.6★(리뷰 4,687개)를 받은 이곳의 방문객 후기와 운영 시간, 관람 팁을 정리했습니다.
 quickAnswer: 퀘벡 국립미술관(Musée national des beaux-arts du Québec)은 퀘벡시티 아브라함 평원(Plains of Abraham) 가장자리의 179 Grande Allée Ouest에 있습니다. 구시가지 성문에서 걸어서 20분 정도면 닿습니다. 현재 운영 시간은 화요일부터 일요일까지 오전 10시–오후 5시이고, 월요일은 휴관합니다. 평일 오전 10시에서 11시 사이의 오전이 가장 한산하고, 주말 오전 11시에서 오후 5시 사이가 가장 붐빕니다.
 faq:
   - q: 퀘벡 국립미술관을 가장 한산하게 둘러볼 수 있는 시간은 언제인가요?
