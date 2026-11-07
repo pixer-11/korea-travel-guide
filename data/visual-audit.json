@@ -5752,6 +5752,12 @@
   "reasonKo": "초록색 무덤의 특징적인 청록색 타일 외관",
   "at": "2026-08-13T14:03:47.878Z"
  },
+ "bursa-muradiye-complex\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Muradiye_Complex_01.jpg/1920px-Muradiye_Complex_01.jpg": {
+  "slug": "bursa-muradiye-complex",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows domed Ottoman complex building, representative exterior view",
+  "at": "2026-11-07T07:41:49.328Z"
+ },
  "bursa-tophane-clock-tower\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/View_of_Bursa_Tophane_clock_tower.jpg/1920px-View_of_Bursa_Tophane_clock_tower.jpg": {
   "slug": "bursa-tophane-clock-tower",
   "verdict": "MATCH",
@@ -9448,6 +9454,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows glacier valley with ice flow, representative hero view",
   "at": "2026-10-20T14:48:08.194Z"
+ },
+ "franz-josef-westland-tai-poutini-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/5/51/Westland-NationalparkWestland_Tai_Poutini_National_Park_02.jpg": {
+  "slug": "franz-josef-westland-tai-poutini-national-park",
+  "verdict": "MATCH",
+  "reason": "publish gate: Glacier and mountains representative of Westland Tai Poutini",
+  "at": "2026-11-07T07:41:49.646Z"
  },
  "fremantle-esplanade-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Esplanade_Park%2C_Fremantle3.JPG/3840px-Esplanade_Park%2C_Fremantle3.JPG": {
   "slug": "fremantle-esplanade-park",
@@ -17345,6 +17357,12 @@
   "reason": "patrol reject: Rural windmill scene unrelated to marathon event",
   "at": "2026-10-29T23:39:09.211Z"
  },
+ "kurashiki-achi-shrine\u0001https://upload.wikimedia.org/wikipedia/commons/a/ac/Achi_Shrine_at_night.jpg": {
+  "slug": "kurashiki-achi-shrine",
+  "verdict": "MATCH",
+  "reason": "publish gate: Nighttime shrine building, plausible hero image of Achi Shrine",
+  "at": "2026-11-07T07:41:49.609Z"
+ },
  "kurashiki-kurashiki-bikan-historical-quarter\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/161015_At_Kurashiki_Bikan_historical_quarter_Kurashiki_Okayama_pref_Japan01s3.jpg/3840px-161015_At_Kurashiki_Bikan_historical_quarter_Kurashiki_Okayama_pref_Japan01s3.jpg": {
   "slug": "kurashiki-kurashiki-bikan-historical-quarter",
   "verdict": "MATCH",
@@ -23672,6 +23690,12 @@
   "reason": "Ancient stone carving typical of Po Nagar Temple",
   "at": "2026-07-25T02:47:17.575Z"
  },
+ "niagara-falls-brock-s-monument\u0001https://upload.wikimedia.org/wikipedia/commons/5/5a/Brock%27s_Monument_-_panoramio.jpg": {
+  "slug": "niagara-falls-brock-s-monument",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows monument column with statue, representative view",
+  "at": "2026-11-07T07:41:49.490Z"
+ },
  "niagara-falls-clifton-hill\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Visitor_attractions_and_restaurants%2C_Clifton_Hill%2C_Niagara_Falls_ON_20170418_1.jpg/3840px-Visitor_attractions_and_restaurants%2C_Clifton_Hill%2C_Niagara_Falls_ON_20170418_1.jpg": {
   "slug": "niagara-falls-clifton-hill",
   "verdict": "MATCH",
@@ -24617,6 +24641,12 @@
   "verdict": "MATCH",
   "reason": "patrol replace: TD Place stadium in Ottawa, Canada",
   "at": "2026-10-26T23:22:04.349Z"
+ },
+ "ottawa-major-s-hill-park\u0001https://upload.wikimedia.org/wikipedia/commons/e/e4/Major%27s_Hill_Park.jpg": {
+  "slug": "ottawa-major-s-hill-park",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows park greenery with Ottawa landmarks visible, representative view",
+  "at": "2026-11-07T07:41:49.413Z"
  },
  "ottawa-national-gallery-of-canada\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Ottawa_-_ON_-_National_Gallery_of_Canada.jpg/1920px-Ottawa_-_ON_-_National_Gallery_of_Canada.jpg": {
   "slug": "ottawa-national-gallery-of-canada",
@@ -27118,6 +27148,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows classical museum building exterior with Quebec flag",
   "at": "2026-10-22T07:49:24.410Z"
+ },
+ "quebec-city-notre-dame-de-quebec-basilica-cathedral\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Int%C3%A9rieur_de_la_basilique-cath%C3%A9drale_Notre-Dame_de_Qu%C3%A9bec_01.jpg/3840px-Int%C3%A9rieur_de_la_basilique-cath%C3%A9drale_Notre-Dame_de_Qu%C3%A9bec_01.jpg": {
+  "slug": "quebec-city-notre-dame-de-quebec-basilica-cathedral",
+  "verdict": "MATCH",
+  "reason": "publish gate: Interior view matches Notre-Dame de Québec's ornate golden altar",
+  "at": "2026-11-07T07:41:49.370Z"
  },
  "quebec-city-place-d-armes\u0001https://upload.wikimedia.org/wikipedia/commons/0/03/Quebec_City_Place_d%27Armes_and_Rue_Sainte-Anne_16-18.jpg": {
   "slug": "quebec-city-place-d-armes",
@@ -34962,6 +34998,12 @@
   "reason": "patrol replace: BTS performance photo, plausible for tour event",
   "at": "2026-10-29T01:13:19.450Z"
  },
+ "toronto-casa-loma\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Exterior_of_Casa_Loma%2C_June_2012.jpg/1920px-Exterior_of_Casa_Loma%2C_June_2012.jpg": {
+  "slug": "toronto-casa-loma",
+  "verdict": "MATCH",
+  "reason": "publish gate: Representative exterior view of Casa Loma castle building",
+  "at": "2026-11-07T07:41:49.568Z"
+ },
  "toronto-cn-tower\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/CN_Tower%2C_Toronto%2C_Canada_%28Unsplash_DJ_kOgH5u0o%29.jpg/3840px-CN_Tower%2C_Toronto%2C_Canada_%28Unsplash_DJ_kOgH5u0o%29.jpg": {
   "slug": "toronto-cn-tower",
   "verdict": "MATCH",
@@ -34979,6 +35021,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Street scene with shops, matches Kensington Market vibe",
   "at": "2026-11-06T07:59:31.659Z"
+ },
+ "toronto-old-town-toronto\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Old_Town%2C_Toronto%2C_ON%2C_Canada_-_panoramio_%2860%29.jpg/3840px-Old_Town%2C_Toronto%2C_ON%2C_Canada_-_panoramio_%2860%29.jpg": {
+  "slug": "toronto-old-town-toronto",
+  "verdict": "MATCH",
+  "reason": "publish gate: Street scene in Toronto with shops, traffic, buildings",
+  "at": "2026-11-07T07:41:49.262Z"
  },
  "toronto-pocket-planet-canada\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Little_Canada_Entrance_2025.jpg/1920px-Little_Canada_Entrance_2025.jpg": {
   "slug": "toronto-pocket-planet-canada",
@@ -35906,6 +35954,12 @@
   "reason": "publish gate: Aerial view of Granville Island market and marina, Vancouver",
   "at": "2026-10-22T14:55:14.102Z"
  },
+ "vancouver-international-buddhist-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/International_Buddhist_Temple_garden.jpg/1920px-International_Buddhist_Temple_garden.jpg": {
+  "slug": "vancouver-international-buddhist-temple",
+  "verdict": "MATCH",
+  "reason": "publish gate: Chinese-style garden pavilion matches Buddhist temple grounds in Vancouver",
+  "at": "2026-11-07T07:41:49.532Z"
+ },
  "vancouver-koyote-festival-north-america-tour-vancouver\u0001https://upload.wikimedia.org/wikipedia/commons/7/73/Koyote_in_November_2024.png": {
   "slug": "vancouver-koyote-festival-north-america-tour-vancouver",
   "verdict": "MISMATCH",
@@ -36385,6 +36439,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Exterior view of Space Place observatory domes and building",
   "at": "2026-10-21T07:50:01.704Z"
+ },
+ "wellington-wellington-botanic-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Wellington_Botanical_Garden_10.jpg/1920px-Wellington_Botanical_Garden_10.jpg": {
+  "slug": "wellington-wellington-botanic-garden",
+  "verdict": "MATCH",
+  "reason": "publish gate: Garden path with benches, trees, representative of botanic garden",
+  "at": "2026-11-07T07:41:49.453Z"
  },
  "wellington-wellington-cable-car\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Wellington_Cable_Car_%2820240206a%29_%2853532605708%29.jpg/1920px-Wellington_Cable_Car_%2820240206a%29_%2853532605708%29.jpg": {
   "slug": "wellington-wellington-cable-car",

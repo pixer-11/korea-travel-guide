@@ -1,6 +1,7 @@
 SKIP new city "Macau Peninsula" — weekly new-city cap (2/7d) reached
 SKIP new city "San Francisco" — weekly new-city cap (2/7d) reached
 SKIP new city "Seattle" — weekly new-city cap (2/7d) reached
+SKIP new city "Taipei" — weekly new-city cap (2/7d) reached
 SKIP new city "Ulaanbaatar" — weekly new-city cap (2/7d) reached
 SKIP new city "Washington DC" — weekly new-city cap (2/7d) reached
 SKIP new city "York" — weekly new-city cap (2/7d) reached

@@ -6,12 +6,12 @@
    "hits": 18
   },
   "historic site": {
-   "attempts": 102,
-   "hits": 56
+   "attempts": 111,
+   "hits": 59
   },
   "park": {
-   "attempts": 117,
-   "hits": 69
+   "attempts": 123,
+   "hits": 72
   },
   "viewpoint": {
    "attempts": 112,
@@ -30,19 +30,19 @@
    "hits": 5
   },
   "museum": {
-   "attempts": 189,
-   "hits": 101
+   "attempts": 192,
+   "hits": 102
   },
   "noodles": {
    "attempts": 75,
    "hits": 3
   },
   "old quarter": {
-   "attempts": 126,
-   "hits": 54
+   "attempts": 140,
+   "hits": 56
   },
   "local market": {
-   "attempts": 124,
+   "attempts": 125,
    "hits": 44
   },
   "bookshop": {
@@ -50,7 +50,7 @@
    "hits": 6
   },
   "seafood": {
-   "attempts": 93,
+   "attempts": 94,
    "hits": 4
   },
   "hidden gem": {
@@ -78,7 +78,7 @@
    "hits": 0
   },
   "vegetarian": {
-   "attempts": 62,
+   "attempts": 63,
    "hits": 2
   },
   "concept cafe": {
@@ -86,8 +86,8 @@
    "hits": 0
   },
   "top attraction": {
-   "attempts": 170,
-   "hits": 123
+   "attempts": 171,
+   "hits": 124
   },
   "grill": {
    "attempts": 59,
@@ -1222,5 +1222,5 @@
    "hits": 1
   }
  },
- "updated": "2026-11-06T07:59:31.700Z"
+ "updated": "2026-11-07T07:41:49.672Z"
 }

@@ -39464,5 +39464,89 @@
   "registerBreak": false,
   "worst": "万一买到假票，只能在寒夜里独自走回地铁站。",
   "at": "2026-11-06T15:23:58.635Z"
+ },
+ "es/bursa-muradiye-complex": {
+  "hash": "2a16ff67e4b2",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Según el horario de esta semana, el recinto abre todos los días de 8am–6pm.",
+  "at": "2026-11-07T07:44:29.889Z"
+ },
+ "es/franz-josef-westland-tai-poutini-national-park": {
+  "hash": "78f0fce9f046",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Según Google, el parque abre actualmente de 8am a 8pm de lunes a sábado",
+  "at": "2026-11-07T07:44:30.776Z"
+ },
+ "es/kurashiki-achi-shrine": {
+  "hash": "d929b1740dc6",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "También se esperan de los visitantes, y a nadie le molesta que un extranjero intente seguirlas.",
+  "at": "2026-11-07T07:44:31.649Z"
+ },
+ "ja/bursa-muradiye-complex": {
+  "hash": "28058aefccf0",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-11-07T07:44:32.279Z"
+ },
+ "ja/franz-josef-westland-tai-poutini-national-park": {
+  "hash": "bf27f9f1ebcb",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "そんな距離からでも、氷が崩れ落ちる音が聞こえるのは珍しいことではありません。",
+  "at": "2026-11-07T07:44:39.873Z"
+ },
+ "ja/kurashiki-achi-shrine": {
+  "hash": "601869a7fb7b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "町なかに入ってしまえば、交通機関は必要ありません。JR倉敷駅の南口を出て、倉敷美観地区を目指して南へ歩きます。",
+  "at": "2026-11-07T07:44:41.086Z"
+ },
+ "ko/bursa-muradiye-complex": {
+  "hash": "65d423403380",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이번 주 일정 기준으로 현재는 매일 오전 8시~오후 6시에 문을 엽니다.",
+  "at": "2026-11-07T07:44:43.585Z"
+ },
+ "ko/franz-josef-westland-tai-poutini-national-park": {
+  "hash": "0f04036fb338",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "큰비가 그친 뒤 맑게 갠 아침에 전망이 가장 좋은 경우가 많습니다.",
+  "at": "2026-11-07T07:44:44.577Z"
+ },
+ "ko/kurashiki-achi-shrine": {
+  "hash": "5bdcbb2b0761",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "오전 내내 그 사이를 걸어 다닌 기와지붕들을 *내려다볼* 수 있는 곳도 시내에서는 이곳뿐입니다.",
+  "at": "2026-11-07T07:44:45.716Z"
+ },
+ "zh/bursa-muradiye-complex": {
+  "hash": "45d95ec609cc",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "遇到关门的，不要以为不能进，可以到附近开放的陵墓问一问。",
+  "at": "2026-11-07T07:44:46.759Z"
+ },
+ "zh/franz-josef-westland-tai-poutini-national-park": {
+  "hash": "39378e18463a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "即便隔着这么远，也常能听到冰块崩落的声响，这很正常。",
+  "at": "2026-11-07T07:44:47.559Z"
+ },
+ "zh/kurashiki-achi-shrine": {
+  "hash": "c0010445ce59",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "在整个仓敷，也只有站在这里，才能*俯瞰*那片你一上午都穿行其间的瓦屋顶。",
+  "at": "2026-11-07T07:44:48.643Z"
  }
 }
