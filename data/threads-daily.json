@@ -108,29 +108,30 @@
     "singapore-babymonster-world-tour-choom",
     "palawan-secret-lagoon",
     "incheon-monsta-x-world-tour-the-x-nexus-encore",
-    "nusa-penida-diamond-beach"
+    "nusa-penida-diamond-beach",
+    "dubai-dubai-old-city"
   ],
-  "lastSentDay": "2026-11-07",
+  "lastSentDay": "2026-11-08",
   "material": {
-    "day": "2026-11-07",
-    "slug": "nusa-penida-diamond-beach",
-    "title": "Diamond Beach: Nusa Penida Travel Guide (4.7★)",
+    "day": "2026-11-08",
+    "slug": "dubai-dubai-old-city",
+    "title": "Dubai Old City: Travel Guide (4.6★)",
     "urls": [
-      "https://wanderatlasguides.com/og/social/2026-11-07-nusa-penida-diamond-beach-1.jpg",
-      "https://wanderatlasguides.com/og/social/2026-11-07-nusa-penida-diamond-beach-2.jpg",
-      "https://wanderatlasguides.com/og/social/2026-11-07-nusa-penida-diamond-beach-3.jpg",
-      "https://wanderatlasguides.com/og/social/2026-11-07-nusa-penida-diamond-beach-4.jpg"
+      "https://wanderatlasguides.com/og/social/2026-11-08-dubai-dubai-old-city-1.jpg",
+      "https://wanderatlasguides.com/og/social/2026-11-08-dubai-dubai-old-city-2.jpg",
+      "https://wanderatlasguides.com/og/social/2026-11-08-dubai-dubai-old-city-3.jpg",
+      "https://wanderatlasguides.com/og/social/2026-11-08-dubai-dubai-old-city-4.jpg"
     ],
-    "igCaption": "A limestone arch, bleached white sand, and a staircase cut straight into the cliff — Diamond Beach makes you earn the view. Time it right (early morning or late afternoon) and you'll have the whole stretch nearly to yourself.\n\n#DiamondBeach #NusaPenida #Indonesia #travelguide #travel #wanderatlas #BaliTravel #IndonesiaTravel #HiddenBeaches #TravelGuide\n📷 Photo: Stryn / Wikimedia Commons (CC BY-SA 4.0) (edited)\n📷 Photo: Incredibleworlds / Wikimedia Commons (CC BY-SA 4.0) (edited)\n📷 Photo: FBilula / Wikimedia Commons (CC BY 4.0) (edited)",
-    "thOption": "Would you brave 300+ steps carved into a cliff for a nearly empty beach, knowing the walk back up in Bali heat takes even longer?",
-    "link": "https://wanderatlasguides.com/posts/nusa-penida-diamond-beach/"
+    "igCaption": "Wind towers, coral-stone walls, and narrow shaded lanes built to recreate Dubai before the glass towers. No gates, no tickets, just wander in and let the alleys dead-end into quiet little squares.\n\n#DubaiOldCity #Dubai #UnitedArabEmirates #travelguide #travel #wanderatlas #UAE #TravelGuide #Deira #HiddenGem\n📷 Photo: Domenico Convertini from Zurich, Schweiz / Wikimedia Commons (CC BY-SA 2.0) (edited)",
+    "thOption": "Dubai Old City has no entrance fee and no single \"entrance\" at all, you just wander in from the streets. Would you still give it a slow 1-2 hour walk, or rush through in five minutes?",
+    "link": "https://wanderatlasguides.com/posts/dubai-dubai-old-city/"
   },
   "social": {
-    "thDay": "2026-11-07",
-    "thId": "18650004853031853",
+    "thDay": "2026-11-08",
+    "thId": "18646324843059607",
     "igDay": "2026-11-06",
     "igId": "18277377982305695",
-    "thSlug": "nusa-penida-diamond-beach",
+    "thSlug": "dubai-dubai-old-city",
     "igSlug": "incheon-monsta-x-world-tour-the-x-nexus-encore",
     "history": [
       {
@@ -547,7 +548,17 @@
       {
         "day": "2026-11-01",
         "slug": "chonburi-bangsaen42-chonburi-marathon",
-        "thId": "18122852704947290"
+        "thId": "18122852704947290",
+        "insights": {
+          "at": "2026-11-08",
+          "th": {
+            "views": 18,
+            "likes": 0,
+            "replies": 0,
+            "reposts": 0,
+            "quotes": 0
+          }
+        }
       },
       {
         "day": "2026-11-02",
@@ -581,6 +592,11 @@
         "day": "2026-11-07",
         "slug": "nusa-penida-diamond-beach",
         "thId": "18650004853031853"
+      },
+      {
+        "day": "2026-11-08",
+        "slug": "dubai-dubai-old-city",
+        "thId": "18646324843059607"
       }
     ]
   }
