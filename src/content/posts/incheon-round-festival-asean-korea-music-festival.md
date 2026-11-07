@@ -30,6 +30,16 @@ faq:
     a: Bupyeong and Songdo are common bases inside Incheon. Many fans stay in Seoul and ride the subway in for each show.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/5/53/SB19_at_ASEAN_Korea_Music_Festival_2023_%28ROUND%29.jpg
+  credit: 'Photo: Aprienne JC / wikimedia (BY)'
+  license: openverse-cc
+  source: https://commons.wikimedia.org/w/index.php?curid=147577190
+  focus:
+    x: 49
+    'y': 32
+    top: 27
+    bottom: 37
 ---
 
 ## Two nights, one indoor arena

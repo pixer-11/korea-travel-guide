@@ -3393,7 +3393,10 @@
   "toronto-casa-loma\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Exterior_of_Casa_Loma%2C_June_2012.jpg/1920px-Exterior_of_Casa_Loma%2C_June_2012.jpg": 1920,
   "toronto-old-town-toronto\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Old_Town%2C_Toronto%2C_ON%2C_Canada_-_panoramio_%2860%29.jpg/3840px-Old_Town%2C_Toronto%2C_ON%2C_Canada_-_panoramio_%2860%29.jpg": 3840,
   "vancouver-international-buddhist-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/International_Buddhist_Temple_garden.jpg/1920px-International_Buddhist_Temple_garden.jpg": 1920,
-  "wellington-wellington-botanic-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Wellington_Botanical_Garden_10.jpg/1920px-Wellington_Botanical_Garden_10.jpg": 1920
+  "wellington-wellington-botanic-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Wellington_Botanical_Garden_10.jpg/1920px-Wellington_Botanical_Garden_10.jpg": 1920,
+  "cologne-cologne-marathon-carnival-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/4/49/K%C3%B6ln_Marathon_2015-10-04_00365_%2822430352551%29.jpg": 3456,
+  "incheon-round-festival-asean-korea-music-festival\u0001https://upload.wikimedia.org/wikipedia/commons/5/53/SB19_at_ASEAN_Korea_Music_Festival_2023_%28ROUND%29.jpg": 4608,
+  "lima-sound-music-fest-golden-years-edition\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Atlas_Sound_in_concert_%2823685658515%29.jpg/3840px-Atlas_Sound_in_concert_%2823685658515%29.jpg": 3840
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -3566,8 +3569,8 @@
   },
   "mumbai-mokai": {
    "width": 906,
-   "attempts": 9,
-   "nextTry": "2026-11-07",
+   "attempts": 10,
+   "nextTry": "2026-11-14",
    "flaggedAt": "2026-09-03",
    "lastResult": "no-wider"
   },
@@ -3657,8 +3660,8 @@
   },
   "sharjah-arabian-fish-house-restaurant-cafe-al-hirah-beach-sharjah": {
    "width": 1055,
-   "attempts": 6,
-   "nextTry": "2026-11-07",
+   "attempts": 7,
+   "nextTry": "2026-11-14",
    "flaggedAt": "2026-09-19",
    "lastResult": "no-wider"
   },
@@ -3671,8 +3674,8 @@
   },
   "bali-sana-uluwatu": {
    "width": 1080,
-   "attempts": 5,
-   "nextTry": "2026-11-07",
+   "attempts": 6,
+   "nextTry": "2026-11-14",
    "flaggedAt": "2026-09-24",
    "lastResult": "no-wider"
   },
@@ -3924,5 +3927,5 @@
    "flaggedAt": "2026-11-06"
   }
  },
- "updated": "2026-11-07T14:19:10.119Z"
+ "updated": "2026-11-07T22:59:25.685Z"
 }
