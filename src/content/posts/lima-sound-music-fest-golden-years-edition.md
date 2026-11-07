@@ -27,16 +27,6 @@ faq:
     a: Ride-hailing gets slow and expensive as the stadium empties. Fans usually walk ten to fifteen minutes away, towards Arequipa Avenue or Lince, before requesting a car, or they head south on the Metropolitano where it is running.
 aiGenerated: true
 draft: false
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Atlas_Sound_in_concert_%2823317745629%29.jpg/3840px-Atlas_Sound_in_concert_%2823317745629%29.jpg
-  credit: 'Photo: digboston / Wikimedia Commons (CC BY 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Atlas_Sound_in_concert_(23317745629).jpg
-  focus:
-    x: 52
-    'y': 29
-    top: 13
-    bottom: 44
 ---
 
 ## One night, three decades of choruses

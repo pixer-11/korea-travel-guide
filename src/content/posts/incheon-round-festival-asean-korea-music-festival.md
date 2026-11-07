@@ -30,16 +30,6 @@ faq:
     a: Bupyeong and Songdo are common bases inside Incheon. Many fans stay in Seoul and ride the subway in for each show.
 aiGenerated: true
 draft: false
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/3/3f/SB19_performing_What%3F_at_the_Round_Music_Festival_2021.jpg
-  credit: 'Photo: Round Festival / wikimedia (BY)'
-  license: openverse-cc
-  source: https://commons.wikimedia.org/w/index.php?curid=156925510
-  focus:
-    x: 48
-    'y': 17
-    top: 10
-    bottom: 24
 ---
 
 ## Two nights, one indoor arena

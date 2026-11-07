@@ -7902,9 +7902,9 @@
  },
  "cologne-cologne-marathon-carnival-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/6/6a/K%C3%B6ln_Marathon_2017-10-01_00015_%2837501340381%29.jpg": {
   "slug": "cologne-cologne-marathon-carnival-marathon",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Marathon runner in race bib, urban bridge setting",
-  "at": "2026-11-06T23:47:07.226Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"marathon\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-07T08:01:42.822Z"
  },
  "cologne-museum-ludwig\u0001https://upload.wikimedia.org/wikipedia/commons/3/3d/Museum_Ludwig_002.jpg": {
   "slug": "cologne-museum-ludwig",
@@ -13460,9 +13460,9 @@
  },
  "incheon-round-festival-asean-korea-music-festival\u0001https://upload.wikimedia.org/wikipedia/commons/3/3f/SB19_performing_What%3F_at_the_Round_Music_Festival_2021.jpg": {
   "slug": "incheon-round-festival-asean-korea-music-festival",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Performers in white suits on stage, plausible ROUND Festival",
-  "at": "2026-11-06T23:47:58.680Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"round\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-07T08:01:43.027Z"
  },
  "incheon-round-festival-asean-korea-music-festival\u0001https://upload.wikimedia.org/wikipedia/commons/4/45/AKMF_Round_in_Busan_in_2024.jpg": {
   "slug": "incheon-round-festival-asean-korea-music-festival",
@@ -18163,9 +18163,9 @@
  },
  "lima-sound-music-fest-golden-years-edition\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Atlas_Sound_in_concert_%2823317745629%29.jpg/3840px-Atlas_Sound_in_concert_%2823317745629%29.jpg": {
   "slug": "lima-sound-music-fest-golden-years-edition",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Live performer on stage at music festival event",
-  "at": "2026-11-06T23:48:51.912Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"sound\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-07T08:01:43.236Z"
  },
  "lima-taemin-liminal-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/3/30/Taemin_at_Dream_Concert_2015_07.jpg": {
   "slug": "lima-taemin-liminal-world-tour",
