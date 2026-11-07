@@ -39548,5 +39548,40 @@
   "registerBreak": false,
   "worst": "在整个仓敷，也只有站在这里，才能*俯瞰*那片你一上午都穿行其间的瓦屋顶。",
   "at": "2026-11-07T07:44:48.643Z"
+ },
+ "es/lima-taemin-liminal-world-tour": {
+  "hash": "d339050fc545",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Para los fans peruanos, esto pesaba más que cualquier fecha impresa en un cartel.",
+  "at": "2026-11-07T14:14:21.984Z"
+ },
+ "es/siem-reap-global-crystal-bowl-symposium": {
+  "hash": "8dca71f32b64",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Banteay Srei, tallado en arenisca rosada y situado a cerca de una hora",
+  "at": "2026-11-07T14:14:30.858Z"
+ },
+ "ja/siem-reap-global-crystal-bowl-symposium": {
+  "hash": "a1d4386c13c6",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "シンポジウムの会場は、全日程を通じてTUI BLUE アンコール・グレース・ウェルネス・リゾートとされていました。",
+  "at": "2026-11-07T14:14:38.367Z"
+ },
+ "ko/siem-reap-global-crystal-bowl-symposium": {
+  "hash": "5e2ee7ea9360",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "2023년에 시내에서 꽤 멀리 떨어진 곳에 문을 연 공항이라 시내까지는 차로 1시간 남짓 걸립니다.",
+  "at": "2026-11-07T14:14:39.567Z"
+ },
+ "zh/siem-reap-global-crystal-bowl-symposium": {
+  "hash": "914b052da287",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "这种声音不只入耳，胸腔也能清楚感到它的振动。",
+  "at": "2026-11-07T14:14:51.700Z"
  }
 }
