@@ -44,7 +44,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Eleven days for the Santo Niño
 
 Sinulog runs from January 8 to 18, 2027. It honours the Santo Niño, the image of the Child Jesus that Magellan's expedition brought to Cebu in 1521. The image is kept today in the Basilica Minore del Santo Niño on Osmeña Boulevard.
@@ -64,7 +63,7 @@ The Sunday is the longest day by far. Contingents dance the parade route for hou
 
 ## Venue, tickets and getting in
 
-Downtown is the festival's anchor. The basilica sits next to Magellan's Cross, a short walk from Colon Street and Plaza Independencia. The parade route links that core with the competition venue. In recent editions that venue has moved between the Cebu City Sports Center and the South Road Properties.
+Downtown is the festival's anchor. The basilica sits next to Magellan's Cross, a short walk from Colon Street and Plaza Independencia. The parade route links that core with the competition venue, and the exact venue has varied between editions.
 
 Standing along the parade route costs nothing. Grandstand seats at the competition venue are ticketed through the Sinulog Foundation, the event's organiser, which also sets the route and venue each year.
 

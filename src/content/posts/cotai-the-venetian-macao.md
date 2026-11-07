@@ -134,6 +134,6 @@ This is one of the most heavily visited resorts in Macau. Day-trippers from Hong
 
 ## Beyond the resort: Taipa Village
 
-Once the painted sky starts to wear on you, take a short taxi ride north to Taipa Village. Its narrow lanes centre on Rua do Cunha, lined with bakeries selling almond cookies and Portuguese egg tarts. Pork chop buns turn up on menus all through the village.
+Once the painted sky starts to wear on you, take a short taxi ride north to Taipa Village. Its narrow lanes centre on Rua do Cunha, lined with bakeries selling almond cookies and Portuguese egg tarts.
 
 The colonial-era Taipa Houses-Museum sits along the old waterfront nearby. These are pastel houses that were once home to Macanese families, and they're the real counterpart to the reproduction you've just left. An hour there makes a good contrast with the morning on the canals.

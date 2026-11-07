@@ -38,7 +38,6 @@ heroImage:
     x: 45
     'y': 40
 ---
-
 ## A festival built around one instrument
 
 Guitar BCN is a concert series, not a field with stages. It has run in Barcelona for many years, and its single organising idea is the guitar. That covers flamenco players, rock bands, singer-songwriters and acoustic soloists, usually spread across several city venues rather than one site.
@@ -47,7 +46,7 @@ The 2026 edition takes place in November. There is no wristband and no festival 
 
 ## Jorge Drexler at L'Auditori
 
-The best-known name on this edition is Jorge Drexler. The Uruguayan singer-songwriter won the Academy Award for Best Original Song for "Al otro lado del río", from *The Motorcycle Diaries*. He was the first Uruguayan to win an Oscar.
+Jorge Drexler is among the names on this edition. The Uruguayan singer-songwriter won the Academy Award for Best Original Song for "Al otro lado del río", from *The Motorcycle Diaries*. He was the first Uruguayan to win an Oscar.
 
 He has a long run of Latin Grammys too. His album *Tinta y tiempo* took Album of the Year, and "Tocarte", his duet with C. Tangana, reached well beyond his usual folk-leaning audience. He has lived in Madrid for years, so Spanish crowds treat him almost as a local.
 

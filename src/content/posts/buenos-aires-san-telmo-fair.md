@@ -57,7 +57,6 @@ aiGenerated: true
 draft: false
 updatedDate: "2026-10-27"
 ---
-
 ## A street that only exists on Sundays
 
 From Monday to Saturday, Calle Defensa is an ordinary cobbled street of old low-rise façades. On Sunday it turns into a market roughly a kilometre long. Folding tables and canopies line both kerbs, and the traffic gives way to people walking slowly, stopping every few steps.
@@ -94,7 +93,7 @@ Starting at Plaza de Mayo and walking south is the natural direction. It also me
 
 ## Working Defensa on a Sunday
 
-Arriving soon after opening usually means walking room. Vendors are still unpacking and the day-trippers haven't come yet. By the afternoon, the narrow pavements near Plaza Dorrego slow to a shuffle. Opening hours can change, so check before you go, and remember that the fair is closed on Saturday, when Defensa reverts to a normal street.
+Arriving soon after opening usually means walking room. Vendors are still unpacking and the day-trippers haven't come yet. By the afternoon, the narrow pavements near Plaza Dorrego slow to a shuffle. Opening hours can change, so check before you go, and remember that the fair runs only on Sundays, with Defensa reverting to a normal street the rest of the week.
 
 How people actually buy here:
 

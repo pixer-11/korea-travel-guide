@@ -40,7 +40,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 Red dust gets onto the shoelaces of the players, the ball kids and anyone in the front rows. At the IEB+ Argentina Open the courts are crushed brick, which Argentines call *polvo de ladrillo*. That brick surface has defined the tournament for decades, and the 2027 edition is reported to be its last.
 
 ## Clay's last February in Palermo
@@ -94,7 +93,7 @@ Some habits worth copying:
 - **Move on changeovers only.** Ushers hold people at the stairs while a game is in play, so locals wait for the odd-game break.
 - **Cheer for your player, not against the opponent.** Applause for a good shot from the visiting player is normal here and well received.
 - **Learn a few words.** *Entrada* is a ticket, *platea* is a seated section, *cambio de lado* is the changeover.
-- **Pay digitally.** Cards and QR payments through apps such as Mercado Pago are standard across Buenos Aires. A tip of about 10 percent (*propina*) is customary at restaurants.
+- **Pay digitally.** Cards and QR payments through apps such as Mercado Pago are standard across Buenos Aires.
 
 On hot afternoons, many fans watch the early matches on the outer courts and come into the stadium for the late-afternoon feature match, once the sun has dropped behind the stands.
 

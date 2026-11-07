@@ -43,7 +43,6 @@ heroImage:
     x: 50
     'y': 45
 ---
-
 ## A city picnic on a volcano
 
 Auckland Domain sits on Pukekawa, an old volcanic cone. Over thousands of years its crater wore down into a wide, grassy bowl. On Saturday, December 12, 2026, that bowl fills with picnic rugs for Coca-Cola Christmas in the Park, a free outdoor Christmas concert that can draw up to 250,000 people.
@@ -66,7 +65,7 @@ The main concert is free. You don't need a ticket for the general lawn, and the 
 - A refillable water bottle
 - A torch or charged phone for the walk out through the trees
 
-Mid-December sunsets in Auckland come late, after 8:30pm. So most of the evening happens in daylight, and the lights and fireworks arrive at the very end.
+Mid-December evenings in Auckland stay light well into the night. So most of the evening happens in daylight, and the lights and fireworks arrive at the very end.
 
 ## Reaching the Domain by train and on foot
 

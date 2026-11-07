@@ -70,7 +70,7 @@ All of the main sights are free to walk into:
 - **Art collection:** pieces are placed through the public areas. The best known is Jeff Koons's *Tulips*.
 - **The shopping arcade:** a quiet run of luxury boutiques, good for cooling off in air-conditioning.
 
-The resort has a range of restaurants and cafés. Wing Lei Palace serves Cantonese food and Sichuan Moon serves Sichuan cooking; both are on the pricier side, so book ahead. There are also cafés for something lighter, and the spa takes bookings separately.
+The resort has a range of restaurants and cafés, including several serving regional Chinese cuisines; many are on the pricier side, so book ahead. There are also cafés for something lighter, and the spa takes bookings separately.
 
 ## Moving Around Cotai
 

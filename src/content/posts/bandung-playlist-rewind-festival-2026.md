@@ -37,7 +37,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 Two days, one field, and a crowd that knows every word. Playlist Rewind Festival takes place in Bandung on 14–15 November 2026, and the premise is simple: the songs you grew up with, loud through the speakers, with the crowd singing them back louder. This is a festival where the audience is half the performance.
 
 ## What a rewind festival sounds like
@@ -50,7 +49,7 @@ Indonesian festival crowds are famous for knowing lyrics word for word, and a no
 
 ## Dates, tickets and what is fixed
 
-Here is what is set for this edition:
+Confirmed details for this edition:
 
 - **Dates:** Saturday 14 and Sunday 15 November 2026
 - **City:** Bandung, West Java

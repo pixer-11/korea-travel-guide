@@ -120,7 +120,7 @@ The street itself is narrow, covered in places, and lined with wooden shopfronts
 
 The street runs 8am to 6pm daily, so there's no early or late loophole here. It's a single, consistent window every day of the week. Weekends are busiest between 11am and 4pm, when tour groups and day-trippers from Chiayi and Tainan converge.
 
-If you're coming on a Saturday or Sunday, aim to arrive right at 8am opening, before the crowd builds. Weekdays are far calmer throughout the entire 8am–6pm stretch, so a weekday visit removes almost all the guesswork.
+If you're coming on a Saturday or Sunday, aim to arrive right at 8am opening, before the crowd builds. Weekdays are far calmer overall, so a weekday visit removes almost all the guesswork.
 
 Autumn and spring bring cooler, clearer mountain air; summer afternoons can bring fog and sudden rain, so a light rain jacket is worth packing regardless of season.
 

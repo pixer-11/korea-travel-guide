@@ -112,7 +112,7 @@ A few habits pay off here:
 
 The crowd data here is easy to act on. On weekdays the park is quiet all day, from 9:30am to 5pm, so any weekday visit gets you room at the fences and clear photos.
 
-Weekends are different. Try not to arrive between 10am and 4pm on a Saturday or Sunday. That's the busy window, with families packing the paths, a queue at the train and people crowding the most photographed models.
+Weekends are different. Try to visit before 10am or after 4pm on a Saturday or Sunday. That's the busy window, with families packing the paths, a queue at the train and people crowding the most photographed models.
 
 On a weekend, the quiet window tends to be later in the afternoon, closer to closing time. Check the official website for the day's closing time before you rely on a late visit. Arriving at 4:45pm to find the gate shut would waste the drive.
 

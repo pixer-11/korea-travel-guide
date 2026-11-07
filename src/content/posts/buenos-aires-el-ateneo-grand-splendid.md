@@ -102,7 +102,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-10-26'
 ---
-
 ## A theatre that kept its bones
 
 Stand on the old orchestra floor and look up. Three tiers of curved balconies wrap around you, their railings still gilded. Above them the domed ceiling fresco by the Italian painter Nazareno Orlandi shows an allegory of peace, painted in the years after the First World War.
@@ -140,4 +139,4 @@ The staff run it as a working bookshop, not a museum, and it helps to treat it t
 - **Paying:** cards are widely accepted at the tills. Prices are printed on the books and the café menu.
 - **Ask in Spanish:** "¿Tienen libros en inglés?" gets you pointed to the English shelves.
 
-Buying even one thing is the easy way to thank the place. Good picks are a slim Borges paperback or a tango CD from the music section, which suit the building.
+Buying even one thing is the easy way to thank the place. Pick whatever suits you from the shelves, whether that's a book or something from the music section.

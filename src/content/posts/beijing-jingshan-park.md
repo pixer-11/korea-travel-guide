@@ -114,7 +114,7 @@ Jingshan Park is an artificial hill built from the earth dug out to create the F
 
 ## The hill and the view
 
-Five peaks run across the ridge, each topped with a pavilion built in the Qing dynasty. Wanchun Pavilion, the central and tallest one, is the photo everyone comes for: Forbidden City in the foreground, CBD skyline behind it, hills faintly visible on clear days. The climb itself is short, a series of stone stairs and switchbacks, but steep enough that it counts as the workout of the visit.
+Five peaks run across the ridge, each topped with a pavilion built in the Qing dynasty. Wanchun Pavilion, the central and tallest one, is the photo everyone comes for: Forbidden City in the foreground, CBD skyline behind it, hills faintly visible on clear days. The climb itself is short, a series of stone stairs and switchbacks, steep enough to feel like a bit of a workout.
 
 Skip the side pavilions if you're short on time. Wanchun alone gives the full panorama, and it's directly on the central north-south axis with the palace.
 

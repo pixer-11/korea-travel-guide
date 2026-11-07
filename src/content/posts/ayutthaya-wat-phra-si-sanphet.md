@@ -69,14 +69,13 @@ aiGenerated: true
 draft: false
 updatedDate: "2026-08-28"
 ---
-
 You see the three chedis before you see anything else. They rise in a line above the treetops as you approach from Naresuan Road, bell-shaped and the color of old terracotta, and it's only once you're through the gate and standing on the open field of the former palace grounds that you understand the scale of what's left. There's no roof, no walls to speak of, just brick platforms, headless Buddha images, and stubs of columns that once held up a royal residence.
 
 That absence is the point. This was the spiritual center of the Ayutthaya Kingdom for four centuries, and what survives is what fire and time couldn't fully erase.
 
 ## Why this place matters
 
-Wat Phra Si Sanphet sat inside the royal palace compound itself, which set it apart from every other temple in the city, no monks ever lived here, because it was built purely as a royal chapel for the kings to make merit and hold state ceremony. The three chedis you're looking at were built to enshrine the ashes of three Ayutthaya kings, and the temple once held a 16-meter standing Buddha sheathed in gold, a detail worth knowing because it explains why Burmese forces stripped and melted the gold cladding off the statue when they sacked the city in 1767.
+Wat Phra Si Sanphet sat inside the royal palace compound itself, which set it apart from every other temple in the city, with no monks ever living here, since it functioned purely as a royal chapel for the kings to make merit and hold state ceremony. The three chedis you're looking at were built to enshrine the ashes of three Ayutthaya kings, and the temple once held a 16-meter standing Buddha sheathed in gold, a detail worth knowing because it explains why Burmese forces stripped and melted the gold cladding off the statue when they sacked the city in 1767.
 
 Walking the grounds today, past low brick foundations that once marked out halls and shrines, you're essentially tracing the footprint of a palace that no longer exists above knee height.
 

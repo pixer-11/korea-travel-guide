@@ -86,7 +86,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-30'
 ---
-
 ## Why MUSEUM 1 stands out in Haeundae
 
 Centum City isn't where most visitors expect to find a serious art stop. It's better known for the world's largest department store and a convention hall the size of an airport terminal. That's exactly what makes MUSEUM 1 feel like a discovery when you step inside. The building itself sits low and glassy against the surrounding towers, and the shift from the noise of Centum-seo-ro traffic to the hush of the galleries is immediate.
@@ -107,7 +106,7 @@ Because the program changes, it's worth checking what's currently on before you 
 
 ## When to go
 
-The crowd data here is genuinely useful: on weekdays, things stay calm across the entire 10am–7pm stretch, so there's no real rush hour to dodge. Weekends are a different story. The museum runs quieter from 10am to 8pm overall, but a distinct crush builds between noon and 6pm as day-trippers combine a museum visit with Centum City shopping. If a weekend is your only option, aim for right at opening or push your visit into the early evening after 6pm, when the galleries empty out again and you get more room to actually look at the work instead of shuffling past it.
+The crowd data here is genuinely useful: on weekdays, things stay calm across the entire 10am–7pm stretch, so there's no real rush hour to dodge. Weekends are a different story. Weekend crowds build steadily through the morning and peak in a distinct crush between noon and 6pm, with quieter windows on either side of that stretch as day-trippers combine a museum visit with Centum City shopping. If a weekend is your only option, aim for right at opening or push your visit into the early evening after 6pm, when the galleries empty out again and you get more room to actually look at the work instead of shuffling past it.
 
 ## Pairing it with the neighborhood
 

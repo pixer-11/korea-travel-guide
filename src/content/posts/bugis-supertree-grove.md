@@ -81,13 +81,13 @@ Most visitors spend 45 minutes to an hour at the Grove itself, longer if you add
 
 Because this is Singapore's most-photographed attraction, timing matters more than almost anywhere else in the city. Midday brings intense heat and thinner shade, so the grove feels quieter but far less comfortable.
 
-Late afternoon, from around 5pm, is the sweet spot: temperatures drop, the light softens for photos, and you're already in place well before the evening show. Avoid arriving right at 7:30pm on weekends, when the lawn areas fill fast and good sightlines get scarce.
+Late afternoon, from around 5pm, is the sweet spot: temperatures drop, the light softens for photos, and you're already in place well before the evening show. Avoid arriving right before the evening show starts, when the lawn areas fill fast and good sightlines get scarce.
 
 The gardens technically stay open until 2am, so if you miss the shows, a late-night stroll under the lit-up trees is still atmospheric and far less crowded.
 
 ## How to visit like a local
 
-Singaporeans who bring visitors here treat the 7:45pm show as the main event, not an afterthought, and they plan around it.
+Singaporeans who bring visitors here treat the evening light show as the main event, not an afterthought, and they plan around it.
 
 - **Time it right.** Arrive early to stake out a spot on the lawn before the show fills in.
 - **Skip cash entirely.** Any ticketed add-ons (Skyway, conservatories) are paid by card or mobile payment at the kiosks.

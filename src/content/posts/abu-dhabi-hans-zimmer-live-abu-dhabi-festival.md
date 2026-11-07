@@ -81,7 +81,7 @@ The rhythm here is waterfront first, arena second. Concertgoers usually book din
 How the night usually works:
 
 - **Paying:** cards and phone payments are standard everywhere on Yas Bay, from restaurants to taxis.
-- **Dress:** smart-casual is the norm. The UAE expects shoulders and knees to be covered in public places, and arena air-conditioning runs cold, so a light layer is useful.
+- **Dress:** smart-casual is the norm. The UAE expects shoulders and knees to be covered in public places, and arena air-conditioning runs cold, so bringing a layer is worth it.
 - **Tipping:** around 10% in restaurants is common when service isn't already on the bill. Rounding up the taxi fare is appreciated.
 - **Bags and security:** there is airport-style screening at the arena doors. Fans with small bags get through fastest.
 - **Staying over:** visitors from Dubai or the city centre often book a Yas Island hotel and skip the late drive home.

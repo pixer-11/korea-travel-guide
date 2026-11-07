@@ -94,7 +94,7 @@ updatedDate: '2026-10-07'
 
 Macau takes its name from A-Ma. Most visitors only see her older temple on the peninsula, at Barra. Up here on Alto de Coloane, the island's high ground, is a newer tribute: a temple complex dedicated to the goddess, with a museum and memento shops.
 
-The nearby A-Ma Statue is a pale stone figure about 20 metres tall. She faces out over the water, and you can see her from much of the hillside. The village itself follows classical Chinese temple design: tiled roofs, red columns and halls arranged up the slope. Expect steps between levels.
+The nearby A-Ma Statue is a tall stone figure. She faces out over the water, and you can see her from much of the hillside. The village itself follows classical Chinese temple design: tiled roofs, red columns and halls arranged up the slope. Expect steps between levels.
 
 ## Reaching the hilltop
 
@@ -118,7 +118,7 @@ Prices for incense, museum entry and souvenirs are posted on site. Shoulders don
 
 ## Beating the weekend tour groups
 
-Few visitors make it up here, which is much of the appeal. On weekdays the place stays quiet throughout opening hours, from 9am to 6pm, so you can come whenever you like.
+Few visitors make it up here, which is much of the appeal. On weekdays the place stays quiet throughout opening hours, from 9am to 6pm.
 
 Weekends work differently. It is calmest between 9am and 11am. Try not to arrive between 11am and 5pm, when the crowds build and the area around the statue fills with groups taking photos.
 

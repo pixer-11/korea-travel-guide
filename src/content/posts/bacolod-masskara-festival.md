@@ -47,7 +47,7 @@ draft: false
 ---
 ## What's happening and when
 
-MassKara is Bacolod's "Festival of Smiles," a month-long civic celebration built around masked street dancing. The 2026 edition was set for October 1-25, with the street and arena dance competitions, the festival's real spectacle, on October 9-18. The programme put closing ceremonies on October 25.
+MassKara is Bacolod's "Festival of Smiles," a month-long civic celebration built around masked street dancing. The 2026 edition was set for October 1-25, with street and arena dance competitions held within that period. The programme put closing ceremonies on October 25.
 
 The mask is the whole point: oversized, painted, permanently grinning, worn by dance troupes in choreographed routines down the main avenues. It began in the 1980s as a deliberate civic answer to hard economic times, a decision to smile through hardship, and that origin still shapes the festival's tone today.
 
@@ -69,7 +69,7 @@ Exact ticket prices, on-sale dates and seating maps change from year to year, so
 
 ## Making the most of the streets
 
-On dance competition days, the best free sidewalk spots along the parade route typically fill well before the troupes start moving. Vendors sell local specialties like chicken inasal and piaya along the route, and cash is the default payment at street stalls.
+On dance competition days, the best free sidewalk spots along the parade route typically fill well before the troupes start moving. Street vendors sell food and drinks along the route, and cash is the default payment at street stalls.
 
 Speaker trucks usually travel the length of the route at high volume for hours, which can be hard on anyone sensitive to sound. Dancers rehearse for months, so routines are tight and long; each troupe's segment typically lasts well past a quick photo stop.
 

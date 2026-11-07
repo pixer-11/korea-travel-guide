@@ -39,7 +39,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Nine days on the Tennyson hardcourts
 
 Brisbane starts the tennis year. For nine days, from January 3 to 11, 2027, the Brisbane International fills the Queensland Tennis Centre with players working their way into form before the Australian Open in Melbourne.
@@ -89,7 +88,7 @@ Night sessions are noticeably more comfortable. That is part of why the evening 
 
 ## A short history of the curtain-raiser
 
-The Brisbane International started in 2009. It combined older Australian summer events into one combined tournament on the new Tennyson site. Since then it has become a regular warm-up stop for leading players. Andy Murray, Serena Williams and Roger Federer are among its past champions, and Federer won his 1,000th tour-level match here in the 2015 final.
+The Brisbane International started in 2009. It combined older Australian summer events into one combined tournament on the new Tennyson site. Since then it has become a regular warm-up stop for leading players. Andy Murray, Serena Williams and Roger Federer are among its past champions.
 
 The event's place on the calendar shapes the tennis you see. Some players come with fresh off-season fitness and play loose, aggressive tennis. Others are managing their bodies with Melbourne in mind. That's why the early rounds can throw up results that are hard to predict.
 

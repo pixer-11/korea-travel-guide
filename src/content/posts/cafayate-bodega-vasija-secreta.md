@@ -77,7 +77,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-10-27'
 ---
-
 ## A secret in name only
 
 The name means "secret vessel". The winery is anything but secret. Vasija Secreta sits right on Ruta 40 at Km 4343, the first bodega you pass as the highway enters Cafayate from the north. It is one of the most-reviewed wineries in the Calchaquí Valleys and among the oldest in town, so expect company.
@@ -112,6 +111,6 @@ Plan on 45 minutes to an hour here. Then use the location: you're already on Rut
 
 - **Bodega El Esteco:** a short way along the highway, with its colonial-style estate at Patios de Cafayate.
 - **Museo de la Vid y el Vino:** in town, a good primer if you want context on valley winemaking before or after the tasting.
-- **The plaza:** a lunch stop between tastings. Try empanadas salteñas with a glass of the Torrontés you just tasted.
+- **The plaza:** a lunch stop between tastings, with regional food on offer around the square.
 
 Autumn harvest, roughly March into April, puts working activity among the vines. Cafayate's dry climate and sun keep the valley a year-round stop. A hat and water make sense in any month at this altitude.

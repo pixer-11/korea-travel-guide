@@ -42,10 +42,9 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## The night and the voice
 
-Atif Aslam plays Coca-Cola Arena on Friday, November 27, 2026. It is his sixth year running in Dubai, and the previous five all sold out.
+Atif Aslam plays Coca-Cola Arena on Friday, November 27, 2026. He has performed in Dubai many times before, and his shows here have a reputation for drawing big crowds.
 
 Few South Asian singers have that kind of pull in the city. He started with the Jal-era hit "Aadat", then moved on to Bollywood soundtracks: "Tere Bin", "Pehli Nazar Mein", "Jeena Jeena", "Dil Diyan Gallan", "Tera Hone Laga Hoon". His Coke Studio "Tajdar-e-Haram" reached a huge audience of its own. No setlist has been given, but that's the songbook the crowd knows by heart.
 

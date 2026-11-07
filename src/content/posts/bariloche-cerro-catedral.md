@@ -46,7 +46,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Two mountains, depending on the month
 
 The ridge earns its name from its spires. Jagged granite towers line the summit crest, and early settlers thought they looked like a Gothic cathedral. Below them, lifts climb from the base village, Villa Catedral, to slopes topping out above 2,000 metres.
@@ -70,7 +69,7 @@ Start with the calendar. Argentina's school winter holidays fall in July, and Br
 - **Buy passes online.** The resort sells lift tickets and season prices on its official site, and buying ahead skips the ticket-window line at the base.
 - **Rent in town the evening before.** Shops along the road to Catedral and in central Bariloche fit boots at night, so you are not queuing at the base in the morning.
 - **Eat on Argentine time.** Mountain restaurants fill around 1–2pm. A late lunch is easier, or an early one.
-- **Share the mate.** Groups pass the gourd around on chairlifts and terraces. If someone offers, drink it all and hand it back. Say "gracias" only when you want no more.
+- **Share the mate.** Groups pass the gourd around on chairlifts and terraces. If someone offers, drink it and hand it back. Say "gracias" only when you don't want more.
 
 ## Refugio Frey and the lakes below
 

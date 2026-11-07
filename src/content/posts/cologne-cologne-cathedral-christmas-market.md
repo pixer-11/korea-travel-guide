@@ -40,7 +40,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 The cathedral's twin spires stand 157 metres high, directly above the stall roofs. Every year this is the first major Christmas market in Germany to open. In 2026 it runs from **November 16 to December 23** on Roncalliplatz, the paved square on the cathedral's south side.
 
 ## Dates for the 2026 season
@@ -64,7 +63,7 @@ The cathedral is a few steps away, and the nave is free to enter outside service
 
 ## Mugs, deposits and the crowd
 
-Glühwein comes in a ceramic mug, and you pay a deposit (*Pfand*) on top of the drink. You get the deposit back when you return the mug to any stall on this market. Or you can keep the mug: each market prints its own design, and many people take one home as a souvenir.
+Glühwein comes in a ceramic mug, and you pay a deposit (*Pfand*) on top of the drink. Return the mug to get the deposit back, as is standard practice at German Christmas markets. Or you can keep the mug: each market prints its own design, and many people take one home as a souvenir.
 
 Cash still moves fastest at the smaller huts, although plenty of stalls take cards. Order in German if you like: *"Einen Glühwein, bitte."*
 

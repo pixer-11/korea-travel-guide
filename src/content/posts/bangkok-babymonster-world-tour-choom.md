@@ -47,7 +47,7 @@ draft: false
 ---
 ## Two nights, two hometown members
 
-The Bangkok stop runs for two nights, November 7 and 8, 2026. It is the CHOOM tour's stop in Thailand, a market that matters more to BABYMONSTER than most. Two of its seven members, Pharita and Chiquita, are Thai. Their Thai-language moments are what local fans, known with the rest of the fandom as MONSTIEZ, tend to wait for.
+The Bangkok stop runs for two nights, November 7 and 8, 2026. It is the CHOOM tour's stop in Thailand, a market that matters more to BABYMONSTER than most. Two of its eight members, Pharita and Chiquita, are Thai. Their Thai-language moments are what local fans, known with the rest of the fandom as MONSTIEZ, tend to wait for.
 
 YG Entertainment built the group to be a performance act. Expect choreography-heavy staging made for a room this size, not for a stadium. The organiser publishes dates, seating plans and ticket links on its official channels.
 

@@ -80,7 +80,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-10-25'
 ---
-
 ## A summit that takes seven minutes
 
 Most Patagonian views have to be earned. This one mostly doesn't. A two-seat chairlift lifts you from the roadside base on Avenida Bustillo to a summit of roughly 1,050 metres. The ride takes about seven minutes, with your feet dangling over coihue and cypress forest.
@@ -123,7 +122,7 @@ Guided tours and rental-bike riders tend to set off mid-morning, so an early sta
 A few habits that help:
 
 - Buy your chairlift ticket at the base office. The current fare is posted there and on the official site.
-- At the summit confitería, Argentines often order a submarino (hot milk with a bar of chocolate melted in) or coffee with medialunas. You order at the counter and find a window seat.
+- The summit confitería serves hot and cold drinks and snacks. You order at the counter and find a window seat.
 - Bariloche runs on pesos and cards. Many visitors pay with a card or Mercado Pago QR, but carry some cash for small purchases.
 - Locals say "Campanario" on its own. A taxi driver won't need the "Cerro".
 

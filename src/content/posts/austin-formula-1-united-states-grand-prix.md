@@ -42,7 +42,7 @@ eventFactsAsked: true
 ---
 ## Why go
 
-There's no other weekend in Austin quite like this one. For three days the city's usual slow drawl gives way to the shriek of twenty V6 hybrid engines, a full-blown music festival bolted onto a race weekend, and a crowd that mixes Texas oil money, European F1 diehards, and curious first-timers. For 2026, the music side featured Maroon 5 and Post Malone as headliners.
+There's no other weekend in Austin quite like this one. For three days the city's usual slow drawl gives way to the shriek of twenty V6 hybrid engines, a full-blown music festival bolted onto a race weekend, and a crowd that mixes Texas oil money, European F1 diehards, and curious first-timers. For 2026, the music side featured a lineup of major headliners.
 
 Circuit of the Americas has hosted the US Grand Prix since 2012, and it's built specifically for this. It has 20 corners, a dramatic uphill run to Turn 1, and a sequence modeled loosely on Silverstone's Maggotts-Becketts. Sightlines from the grandstands let you follow a whole lap rather than a blur.
 
@@ -78,6 +78,6 @@ Austinites who go regularly treat Friday practice as the smart day: smaller crow
 
 Most payment at COTA concessions and merchandise stands is card or mobile-pay rather than cash, so an ATM is rarely needed. Shuttle queues move faster from pickup points slightly away from the main gate than from the crowd right outside it.
 
-The classic first-timer mistake is underestimating exit time. Leaving before the podium ceremony or the final concert set to "beat traffic" is common, but locals who've done it a few times say the shuttle and rideshare lines are just as long whether you leave at lap 50 or after the finish.
+The classic first-timer mistake is underestimating exit time. Leaving before the podium ceremony or the final concert set to "beat traffic" is common, but locals who've done it a few times say the shuttle and rideshare lines are just as long no matter how early you leave.
 
 Official tickets were sold directly through Formula1.com and COTA's site.

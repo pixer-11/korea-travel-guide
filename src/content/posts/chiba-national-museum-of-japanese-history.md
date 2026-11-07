@@ -114,7 +114,7 @@ The museum's grounds are the old Sakura Castle site, and the earthworks, moats a
 Pair the visit with:
 
 - A walk through the castle park's moat and rampart remains, a 20 to 30 minute loop
-- The on-site restaurant for a lunch break between galleries, useful since a full visit runs long
+- A break for food between galleries, useful since a full visit runs long
 - The museum shop, which stocks history-focused books and regional Chiba goods not found in typical souvenir stores
 
 Because the museum is closed Mondays, plan a Tuesday-to-Sunday visit, and note that hours run 9:30am to 5:00pm every open day, so a late-afternoon arrival after 3:30pm won't leave enough time to see all six galleries properly.

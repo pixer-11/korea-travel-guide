@@ -72,14 +72,13 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-09'
 ---
-
 The path starts almost accidentally, you leave the lemon-scented lanes behind Amalfi's cathedral, pass the last row of stacked houses, and the road simply narrows into a mule track. Within ten minutes the noise of the coast disappears. Sound in this valley is water: it drips off ferns, rushes through old mill channels, and eventually thunders over the waterfalls that give the reserve its reputation. The air changes too, cooling and thickening with the green, slightly mineral smell of a place that almost never dries out.
 
 Valle delle Ferriere takes its name from the ironworks and paper mills that once lined this gorge, Amalfi was a major papermaking center for centuries, and you'll walk past crumbling stone mill buildings half-swallowed by moss and maidenhair fern, their old machinery slots and channels still visible in the rock. It's an odd, atmospheric mix of industrial archaeology and jungle: the humidity in this microclimate has allowed a handful of relict subtropical plant species to survive here since the last Ice Age, which is the main reason the valley was made a protected nature reserve.
 
 ## Getting there
 
-Most visitors start from Amalfi itself, following signs toward "Valle delle Ferriere" or "Pontone" from the upper part of town, near the Museo della Carta (Paper Museum) (a natural first stop, since it explains the valley's papermaking history before you walk into the landscape that produced it. The trail follows the Canneto stream upward through the gorge. An alternative is to start higher, from Scala or the hamlet of Pontone (reachable by local bus or a walk up from Amalfi), and descend into the valley instead of climbing) a good option if you'd rather go downhill on tired legs.
+Most visitors start from Amalfi itself, following signs toward "Valle delle Ferriere" or "Pontone" from the upper part of town, near the Museo della Carta (Paper Museum) (a natural first stop, since it explains the valley's papermaking history before you walk into the landscape that produced it.) The trail follows the Canneto stream upward through the gorge. An alternative is to start higher, from Scala or the hamlet of Pontone (reachable by local bus or a walk up from Amalfi), and descend into the valley instead of climbing (a good option if you'd rather go downhill on tired legs).
 
 The address associated with the reserve sits in Scala's municipal territory, though the most common approach is still from Amalfi.
 
@@ -97,4 +96,4 @@ Spring and early autumn bring the greenest ferns and the fullest waterfalls, sin
 
 Start early, by mid-morning the trailhead area in Amalfi fills with day-trippers heading the opposite direction, toward the beach and the Duomo, so an early departure buys you a quieter gorge and cooler walking temperatures. There's no ticket booth at the main trailhead for the standard walk, so there's nothing to book in advance for the lower valley; bring cash anyway in case of a small entrance fee at points where the reserve is staffed, and carry water since there's nowhere to buy any once you're in the gorge.
 
-Greet other walkers with a simple "buongiorno" as you pass on narrow sections (it's standard trail courtesy here, not a tourist affectation. The most common mistake is underestimating the terrain because the walk starts in a town: wear proper shoes, not the sandals you wore around Amalfi's piazza that morning. If you want to reach the restricted upper core zone with its rarest ferns, that typically requires arranging a guide in advance through local hiking outfits) don't expect to wing it at the gate.
+Greet other walkers with a simple "buongiorno" as you pass on narrow sections (it's standard trail courtesy here, not a tourist affectation.) The most common mistake is underestimating the terrain because the walk starts in a town: wear proper shoes, not the sandals you wore around Amalfi's piazza that morning. If you want to reach the restricted upper core zone with its rarest ferns, that typically requires arranging a guide in advance through local hiking outfits (don't expect to wing it at the gate).

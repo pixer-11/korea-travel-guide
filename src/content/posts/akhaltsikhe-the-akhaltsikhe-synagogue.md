@@ -52,7 +52,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A prayer hall that outlived its congregation
 
 Most people come to Akhaltsikhe for the castle. They photograph the gilded dome of Rabati, eat lunch, and drive on to Vardzia. Very few go looking for the synagogue, and that's the reason to go.
@@ -109,7 +108,7 @@ From there, the classic onward routes are:
 - **Sapara Monastery**, a quieter monastic complex in the hills a short drive from town.
 - **Borjomi**, the spa town known for its mineral water, on the way back toward Tbilisi.
 
-A sensible plan is to see Rabati first, then spend 20–40 minutes at the synagogue. That leaves Vardzia for the afternoon or the next morning.
+A sensible plan is to see Rabati first, then make a brief stop at the synagogue. That leaves Vardzia for the afternoon or the next morning.
 
 ## When it suits the trip best
 

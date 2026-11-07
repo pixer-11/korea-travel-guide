@@ -111,4 +111,4 @@ Buy your ticket at the entrance gate; check current admission and any electric-t
 - Wear closed shoes; gravel and uneven garden paths are common throughout.
 - Bring water. Shade is inconsistent between garden sections, especially at midday.
 
-Given the very-popular status and the weekend crush lasting all day, this isn't a low-key back road anymore. It draws tour groups and local families in equal number, so treat a weekend visit as a full-crowd event and plan accordingly, or shift to a weekday if your schedule allows it.
+Given the very-popular status and the weekend crowds, this isn't a low-key back road anymore. It draws tour groups and local families in equal number, so treat a weekend visit as a full-crowd event and plan accordingly, or shift to a weekday if your schedule allows it.

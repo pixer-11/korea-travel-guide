@@ -39,7 +39,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Eight Days Behind the Glass
 
 A padel court is a box. It measures twenty metres by ten, with glass walls at each end and mesh along the sides. The ball stays in play after it hits the glass, so rallies come back from shots that look finished. If you've only watched tennis, that's what catches you out.
@@ -56,7 +55,7 @@ For spectators, that tier matters. A P1 offers serious ranking points, so the to
 
 ## Reading the Week: Early Rounds to Sunday Final
 
-Eight days is a long event. Sunday the 8th and Sunday the 15th are the bookends. The shape follows the usual pattern of a professional tournament.
+Eight days is a long event. The 8th and the 15th are the bookends. The shape follows the usual pattern of a professional tournament.
 
 - **The opening days:** qualifying and the first main-draw rounds. Lots of matches, lots of courts in use, crowds spread thin.
 - **Midweek:** the draw narrows and the top seeds play. Plenty of fans think this is the best value, with several strong matches in one session.

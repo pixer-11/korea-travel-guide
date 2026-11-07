@@ -140,6 +140,6 @@ The most common tourist mistake here isn't about the attraction itself. It's und
 
 ## Who it's for
 
-Snow Kingdom is built for families with kids, couples looking for a novelty date spot, and anyone in Chennai craving a physical break from the heat. It's less a destination for serious thrill-seekers than a sensory reset, cold air, snow underfoot, and thirty minutes of forgetting you're on the Bay of Bengal coast.
+Snow Kingdom is built for families with kids, couples looking for a novelty date spot, and anyone in Chennai craving a physical break from the heat. It's less a destination for serious thrill-seekers than a sensory reset, cold air, snow underfoot, and a brief escape from the Bay of Bengal heat.
 
 Given its consistently strong reputation among the thousands who visit each year, it's worth treating as a genuine highlight of an ECR day trip, not just a filler stop between beach visits.

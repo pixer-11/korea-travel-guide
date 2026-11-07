@@ -94,12 +94,11 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-10-26'
 ---
-
 ## A corner grill in Palermo Soho
 
 Don Julio sits on a corner. Find it where Guatemala meets Gurruchaga, a few blocks from Plaza Serrano in Palermo Soho. Inside, the walls are lined with empty wine bottles signed by past diners in marker. The dining room is close-packed, and a wood-and-charcoal parrilla does the cooking.
 
-The editorial line calls it a place for classic steaks, local dishes and a long wine list in an intimate room. It has also topped Latin America's 50 Best Restaurants, which explains the crowds. It's at the top end for price, so read the menu posted on the official site before you go.
+The editorial line calls it a place for classic steaks, local dishes and a long wine list in an intimate room. It has also been ranked among Latin America's 50 Best Restaurants, and the crowds show it. It's at the top end for price, so read the menu posted on the official site before you go.
 
 ## What to order
 

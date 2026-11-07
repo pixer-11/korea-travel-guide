@@ -78,7 +78,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-10-28'
 ---
-
 ## A Bath stone house full of America
 
 Bath stone outside, New England inside. Claverton Manor is a pale, columned house designed by Sir Jeffry Wyatville in the 1820s. It stands on a ridge above the Avon valley, well away from the Georgian crescents. Since 1961 it has been the American Museum, the first museum of American decorative arts to open outside the United States.
@@ -116,7 +115,7 @@ If you're walking, the Kennet and Avon Canal towpath runs along the valley floor
 
 ## Making the most of a day at Claverton
 
-The museum keeps a season. It is not open all year, and its hours and closed periods shift, with a separate programme around Christmas. Currently it opens 10am–5pm, but the official website has this month's dates. Check it before you plan a trip around a visit.
+The museum keeps a season. It is not open all year, and its opening dates vary from year to year, with a separate programme around Christmas. Currently it opens 10am–5pm, but the official website has this month's dates. Check it before you plan a trip around a visit.
 
 A few things make the day go better:
 

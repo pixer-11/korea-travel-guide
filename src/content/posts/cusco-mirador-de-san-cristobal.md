@@ -76,7 +76,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Above the Red Roofs
 
 From up here, Cusco is a bowl of terracotta. Thousands of clay-tiled roofs pour down the slope toward the Plaza de Armas. The twin towers of the Cathedral and the Compañía de Jesús rise out of them, and the brown ridges of the valley close in on every side.
@@ -87,7 +86,7 @@ Mirador de Sán Cristobal sits on the hillside named after the Iglesia de San Cr
 
 It is a short walk, and nearly all of it is uphill. From the Plaza de Armas, head north up the steep lanes and stone stairways toward San Cristóbal. Most walkers take 15–20 minutes, mainly because of the stairs.
 
-Plug the plus code **F2PC+J52** into your maps app rather than trusting a street name. Several lanes up here are footpaths that taxis cannot drive. If your legs are not ready, a taxi can drop you at the road near the church. Say "San Cristóbal" to the driver and walk the last stretch.
+Plug the plus code `F2PC+J52` into your maps app rather than trusting a street name. Several lanes up here are footpaths that taxis cannot drive. If your legs are not ready, a taxi can drop you at the road near the church. Say "San Cristóbal" to the driver and walk the last stretch.
 
 - **On foot:** from the Plaza de Armas, roughly 15–20 minutes uphill
 - **By taxi:** ask for the Iglesia de San Cristóbal
@@ -105,7 +104,7 @@ On a clear day the sky over Cusco is a deep, high-altitude blue and the tiles lo
 
 This terrace has one easy timing rule. It is quietest **between 7am and 8am, on weekdays and weekends alike**. At that hour the low sun comes in from the east across the valley, the roofs are lit side-on, and you can usually have the parapet to yourself.
 
-On weekends, try not to arrive between **10am and 11pm**. That long stretch is the busiest, when walking groups and photo-takers fill the front rail. If a Saturday is your only chance, go early. That one hour makes all the difference.
+On weekends, try not to arrive during the late morning and early afternoon. That long stretch is the busiest, when walking groups and photo-takers fill the front rail. If a Saturday is your only chance, go early. That one hour makes all the difference.
 
 Google currently lists the mirador as open 24 hours. It is an open-air public space, and after dark the Plaza de Armas lights up below you. If you come at night, bring company, stick to the lit lanes and take a taxi back if the stairs feel too quiet.
 

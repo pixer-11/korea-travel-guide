@@ -101,7 +101,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-10-26'
 ---
-
 ## Dante on Avenida de Mayo
 
 The building is laid out as a poem. Italian architect Mario Palanti designed it for textile businessman Luis Barolo, and it opened in 1923. He mapped its floors onto the Divine Comedy:
@@ -132,4 +131,4 @@ Tours run in Spanish and English, so ask for the language you want when you book
 
 Take Subte Line A to Sáenz Peña station, which is right on Avenida de Mayo a few steps from the door. Congreso station, also on Line A, is about two blocks west and leaves you at Plaza del Congreso.
 
-Afterwards you can walk east along Avenida de Mayo, Buenos Aires's most Parisian boulevard, lined with Belle Époque facades. Café Tortoni, the city's oldest café, is at number 825. Keep going and you reach Plaza de Mayo and the Casa Rosada. Walking west instead brings you to the Congreso building. Doing both gives you a half-day loop on foot.
+Afterwards you can walk east along Avenida de Mayo, Buenos Aires's most Parisian boulevard, lined with Belle Époque facades. You'll pass some of the avenue's historic cafés along the way. Keep going and you reach Plaza de Mayo and the Casa Rosada. Walking west instead brings you to the Congreso building. Doing both gives you a half-day loop on foot.

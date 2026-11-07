@@ -32,12 +32,11 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A Gold Label race on a winter Sunday
 
 The 26th Dubai Marathon takes place on Sunday, January 17, 2027. World Athletics gives it Gold Label status, one of the top tiers of its road race labels. That means an elite field is on the same tarmac as the mass race.
 
-The start is on Umm Suqeim Road. The road runs inland from the Jumeirah coast toward Sheikh Zayed Road and Mall of the Emirates. Expect flat, wide asphalt with almost no gradient. That flatness is why Dubai has a reputation for fast times. Haile Gebrselassie won here three years running, from 2008 to 2010, and Ethiopian runners have dominated the podium for years.
+The start is on Umm Suqeim Road. The road runs inland from the Jumeirah coast toward Sheikh Zayed Road and Mall of the Emirates. Expect flat, wide asphalt with almost no gradient. That flatness is why Dubai has a reputation for fast times, and Ethiopian runners have dominated the podium for years.
 
 ## Weather, timing and the course
 

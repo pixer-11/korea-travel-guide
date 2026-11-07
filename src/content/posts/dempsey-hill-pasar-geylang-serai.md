@@ -82,7 +82,7 @@ Downstairs, the fabric and spice sections are worth a slow walk even if you're n
 
 ## Getting there
 
-The market sits right by Paya Lebar MRT station (Circle and East-West lines), a short walk from Exit E or the connected Paya Lebar Quarter mall.
+The market sits right by Paya Lebar MRT station, a short walk from Exit E or the connected Paya Lebar Quarter mall.
 
 If you're coming from Dempsey Hill, factor in the crosstown trip: a taxi or ride-share is more direct than public transport if you're short on time. Many visitors pair it with a wander through the surrounding Geylang Serai neighbourhood, including the nearby Malay Village site and Wisma Geylang Serai.
 

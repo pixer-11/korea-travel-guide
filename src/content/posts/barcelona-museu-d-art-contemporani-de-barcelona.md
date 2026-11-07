@@ -100,13 +100,13 @@ MACBA is closed Tuesdays, open regular daytime hours the rest of the week, with 
 
 Crowd patterns are predictable here. Weekdays, the calm window is 10am–11am, right at opening, before tour groups and school visits build up.
 
-On weekends, avoid the stretch from 2pm to 8pm. That's when the museum fills fastest. Instead, weekend visitors do best arriving right at 10am or coming back between 3pm and 4pm, the quietest weekend slot.
+On weekends, avoid the stretch from 2pm to 8pm. That's when the museum fills fastest. Instead, weekend visitors do best arriving right at 10am, before the afternoon crowds build.
 
 ## How to visit like a local
 
 MACBA is a heavily visited museum, so treat the crowd data as your main planning tool rather than an afterthought.
 
-- **Best time**: weekday mornings, 10–11am, or the 3–4pm lull on weekends
+- **Best time**: weekday mornings, 10–11am, or right at opening on weekends
 - **Avoid**: Saturday and Sunday afternoons, especially 2pm onward
 - **Tickets**: buy online in advance during peak season to skip the ticket-counter line, locals rarely queue when they don't have to
 - **Payment**: card is standard for tickets and the museum shop; cash isn't necessary

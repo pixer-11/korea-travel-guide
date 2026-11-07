@@ -78,7 +78,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Sheep, a summit and a city all around
 
 Sheep graze a few minutes from Auckland's motorways. Cornwall Park is still a working farm, so its paddocks of sheep and cattle run right up the slopes of Maungakiekie / One Tree Hill. That is a dormant volcanic cone, and its terraced flanks are the earthworks of a large Māori pā.
@@ -87,7 +86,7 @@ You walk on tree-lined avenues, past stone walls and open grass, with the summit
 
 ## Up the cone and around the farm
 
-Most visits are a loop. Here is what to aim for:
+Most visits are a loop. The highlights to build it around:
 
 - **The summit of Maungakiekie.** It is a short, steady climb to the obelisk and Campbell's grave. From the top you get a 360-degree view across the isthmus to both harbours.
 - **The crater rims and pā terraces.** You can still read the ridges and storage pits in the grass.
@@ -115,7 +114,7 @@ Remember that the animals are livestock, not a petting zoo. Visitors here tend t
 
 ## Beating the crowds on One Tree Hill
 
-Timing makes a big difference here. On weekdays it is quietest between 7am and 9am, and again from 6pm to 8pm. At weekends the calm windows are shorter: 7am to 8am and 6pm to 8pm.
+Timing makes a big difference here. On weekdays it is quietest between 7am and 9am, and again from 6pm to 8pm. At weekends those calm windows shrink further, so mornings and evenings get busy sooner.
 
 Try not to arrive on a Saturday or Sunday between 8am and 5pm. That is when parking bays fill, the summit gets crowded and the café queue grows. An early weekday start gets you the cone with mostly runners and sheep for company.
 

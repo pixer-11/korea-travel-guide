@@ -126,14 +126,14 @@ The garden opens at 5am and closes at 7pm every day of the week, and mornings ar
 
 Weekends flip that entirely. Crowds build steadily and peak from 1pm to 7pm, when families and groups pour in and the main lawns fill up. If you're set on a weekend visit, get there before noon.
 
-January and August bring the biggest crowds of all, thanks to the flower shows, worth it for the display, but expect queues at the Glass House itself.
+January and August bring the biggest crowds of all, thanks to the flower shows. Worth it for the display, but expect queues at the Glass House itself.
 
 ## How to visit like a local
 
 This is one of Bengaluru's most-visited attractions, not a quiet secret, so plan around the crowds rather than expecting to dodge them entirely.
 
 - **Go early.** Regular visitors come for the 5am–8am window to walk laps before the heat and the tour groups arrive.
-- **Pay small entry fees in cash.** There's typically a modest entrance fee and a separate one for the Glass House during flower shows, carry small notes, as change can be slow at the counter.
+- **Pay small entry fees in cash.** Entry fees are modest, carry small notes, as change can be slow at the counter.
 - **Skip the main West Gate on weekends.** Locals often use the quieter Siddapura or Double Road gates to avoid the queue.
 - **Wear real walking shoes.** The paths are gravel and uneven in places, and 240 acres adds up fast.
 - **Bring water and a hat.** Shade is generous under the older trees, but the open lawns near the lake get hot by mid-morning.

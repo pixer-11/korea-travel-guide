@@ -39,7 +39,6 @@ heroImage:
     x: 50
     'y': 40
 ---
-
 ## A football ground for a piano man
 
 Suphachalasai is an old concrete bowl. Its tiered stands curve around a running track and pitch on Rama I Road, a few minutes' walk from the shopping malls of Siam. It is Thailand's original national stadium, built in the late 1930s. It takes its name from Luang Suphachalasai, who headed the country's physical education department in its early years.
@@ -55,7 +54,7 @@ Outside Japan, one song did most of the work. "Shinunoga E-Wa" spread across Tik
 Other songs that people tend to know by heart:
 
 - "Shinunoga E-Wa", the viral one
-- "Kirari", the upbeat single that went out everywhere in 2021
+- "Kirari", one of his upbeat singles
 - "Matsuri", built around a festival rhythm
 - "Nan-Nan", the early song that first got people talking about him
 

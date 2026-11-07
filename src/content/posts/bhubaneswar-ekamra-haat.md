@@ -80,7 +80,7 @@ Show drivers the address or plus code `7RHR+73M`. "Ekamra Haat, Unit 3" usually 
 
 ## The eleven o'clock window
 
-Timing matters more here than at most markets. The gates open at **11am every day of the week** and close at **9pm**, and the schedule is the same on weekends.
+Timing matters more here than at most markets. The gates open at **11am** and close at **9pm**, every day of the week.
 
 - **Quietest:** 11am–12pm, weekdays and weekends alike
 - **Avoid if you can:** 2pm–9pm on weekends, when the paths fill and stallholders are serving several people at once

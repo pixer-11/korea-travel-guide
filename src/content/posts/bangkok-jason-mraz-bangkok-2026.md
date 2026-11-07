@@ -43,7 +43,7 @@ heroImage:
 ---
 ## A fifth Bangkok night, with the band
 
-Jason Mraz was set to return to Bangkok on Thursday, October 29, 2026, at BITEC Live, with a full band rather than a stripped-back solo set. The tour was announced as his first in Asia in seven years, which made it a long-awaited date for Thai fans.
+Jason Mraz was set to return to Bangkok on Thursday, October 29, 2026, at BITEC Live, with a full band rather than a smaller-scale show. The tour was announced as his first in Asia in seven years, which made it a long-awaited date for Thai fans.
 
 His songs have a devoted audience here. "I'm Yours", "Lucky" and "I Won't Give Up" have been radio and café staples in Thailand for years. No setlist was announced.
 

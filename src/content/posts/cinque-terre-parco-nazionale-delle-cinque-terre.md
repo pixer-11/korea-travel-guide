@@ -134,7 +134,7 @@ Come in May, June or September for warm water and thinner crowds than peak Julyâ
 Cinque Terre is unmistakably a heavily visited park now, not a quiet secret, so plan around the crowds rather than expecting to avoid them entirely.
 
 - **Start early.** Catch the first trains and you'll have Vernazza's harbor or Manarola's viewpoint largely to yourself before the weekend surge arrives.
-- **Buy the park card at the station**, not from a reseller. It's the same price and funds trail upkeep.
+- **Buy the park card at the station**, not from a reseller.
 - **Pay by card or contactless** where possible; small trattorias and trail-side stands may prefer cash for quick transactions.
 - **Wear real hiking shoes**, even for short trail sections. The paths are uneven stone and gravel, not paved promenades.
 - **Don't try to see all five villages in one rushed day.** Locals and rangers alike will tell you two or three villages, walked slowly, beats a checklist of five.

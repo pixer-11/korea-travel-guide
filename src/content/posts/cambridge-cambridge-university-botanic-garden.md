@@ -84,7 +84,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-10-30'
 ---
-
 ## Forty acres between the station and the colleges
 
 This is the University's own garden. It sits on 40 acres along Brookside, where Hobson's Brook runs in its stone channel beside the road. Behind the railings you get long walks under mature trees, a lake, a rock garden and a row of glasshouses. It feels a long way from the King's Parade crowds, even though the city centre is a short walk north.
@@ -142,4 +141,4 @@ If weekends are your only option, come right at 10am. Head straight for the glas
 
 The garden pairs well with the south side of town. The Fitzwilliam Museum on Trumpington Street is about a 10-minute walk north, and it is free to enter. Carry on past it and you reach Peterhouse, the oldest college, then Pembroke and the start of the central college stretch.
 
-Alternatively, follow Trumpington Road a little further to the Grantchester Meadows footpath. It's a classic Cambridge walk along the river Cam, best in long summer evenings once the garden has shut at 5pm.
+Alternatively, follow Trumpington Road a little further to the Grantchester Meadows footpath. It's a classic Cambridge walk along the river Cam, best in long summer evenings after the garden itself has closed for the day.

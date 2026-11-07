@@ -34,7 +34,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A week of open front doors
 
 Buenos Aires keeps its finest rooms behind heavy doors. Much of the city's grand architecture belongs to private clubs, government bodies and institutions, and on an ordinary day you see only the façade.
@@ -93,7 +92,7 @@ Locals usually pick two or three buildings for a day rather than chasing a long 
 
 ## Building a day around it
 
-Heritage Week pairs easily with the rest of central Buenos Aires. Plaza de Mayo puts the Casa Rosada, the Metropolitan Cathedral and the Cabildo within one square. Café Tortoni, the city's oldest café, stands on Avenida de Mayo for a mid-route stop.
+Heritage Week pairs easily with the rest of central Buenos Aires. Plaza de Mayo puts the Casa Rosada, the Metropolitan Cathedral and the Cabildo within one square. Café Tortoni, a historic café, stands on Avenida de Mayo for a mid-route stop.
 
 If your Sunday falls on November 8, San Telmo's Sunday street fair runs along Calle Defensa, a short walk south of Plaza de Mayo. In Recoleta, the Recoleta Cemetery and the Basílica del Pilar sit next to each other, so you can finish a day of interiors among some of the city's most elaborate funerary architecture.
 

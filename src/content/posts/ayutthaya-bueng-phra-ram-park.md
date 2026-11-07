@@ -70,13 +70,13 @@ Bring your own snacks or buy grilled skewers and iced drinks from the small vend
 
 ## When to go
 
-Mornings before the heat sets in are the most comfortable time to circle the lake (the light is soft and the ruins across the water are least hazy. Late afternoon, roughly two hours before sunset, is the second-best window, giving you time to catch the temples glowing gold without walking into the evening rush. On weekends, the park gets noticeably busier in the evenings as Ayutthaya families arrive for evening exercise, food carts, and the cooler air) worth avoiding if you want an uncrowded walk, but worth joining if you want to see how the park actually functions as the city's living room rather than just a photo backdrop.
+Mornings before the heat sets in are the most comfortable time to circle the lake (the light is soft and the ruins across the water are least hazy). Late afternoon, roughly two hours before sunset, is the second-best window, giving you time to catch the temples glowing gold without walking into the evening rush. On weekends, the park gets noticeably busier in the evenings as Ayutthaya families arrive for evening exercise, food carts, and the cooler air — worth avoiding if you want an uncrowded walk, but worth joining if you want to see how the park actually functions as the city's living room rather than just a photo backdrop.
 
 ## How to visit like a local
 
 Skip the weekend evening crush unless you specifically want the atmosphere of it, that 4pm–11pm stretch is when the park is at its fullest, with joggers, badminton games, and food vendors taking over the paths. If you want the reflective-water shots without dodging crowds, come on a weekday morning or a weekend early-to-mid afternoon instead. There's no admission fee and no ticket line to plan around, so you can treat it as a free add-on before or after paying entry to Wat Phra Ram or Wat Mahathat next door.
 
-Bicycles are the local currency of movement here (rent one from a shop near Chao Phrom Market rather than relying on tuk-tuks, since the flat, walkable island makes cycling both cheaper and more pleasant. Bring small cash for the cart vendors, as they're informal stalls without card readers. The single most common visitor mistake is treating Bueng Phra Ram as a standalone stop and rushing through it in five minutes) the park rewards a slower loop, ideally timed so you're standing at the water's edge as the temple spires catch the changing light rather than glancing at it from a moving tuk-tuk.
+Bicycles are the local currency of movement here (rent one from a shop near Chao Phrom Market rather than relying on tuk-tuks, since the flat, walkable island makes cycling both cheaper and more pleasant. Bring small cash for the cart vendors, as they're informal stalls without card readers. The single most common visitor mistake is treating Bueng Phra Ram as a standalone stop and rushing through it in five minutes — the park rewards a slower loop, ideally timed so you're standing at the water's edge as the temple spires catch the changing light rather than glancing at it from a moving tuk-tuk.
 
 ## Nearby to combine
 

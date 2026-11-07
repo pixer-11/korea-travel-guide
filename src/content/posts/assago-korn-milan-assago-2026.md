@@ -45,7 +45,6 @@ faq:
     a: Most stay in central Milan near an M2 station, such as Centrale, Garibaldi, Cadorna or Porta Genova, for a direct ride to Assago. Fans who want to avoid the late journey back stay in the Milanofiori hotels within walking distance of the arena.
 aiGenerated: true
 ---
-
 ## A Saturday in November, an arena on the M2
 
 Korn play the Unipol Forum in Assago on Saturday, November 21, 2026. The arena sits on Milan's south-western edge, past the ring road, among the office blocks and hotels of the Milanofiori business district.
@@ -108,7 +107,7 @@ Taxis wait outside after big shows, but the queue is long. App-based ride option
 
 Italian arena entry has its own rhythm. Lines build at each *ingresso* before doors open, and security does bag checks at the gate. Large bags, professional cameras and glass bottles are the things arenas typically turn away. Fans usually travel light with a small bag or none at all.
 
-Inside, cards and contactless payments are standard at the bars and the merchandise stands. At the bar, *una birra* and a pointed finger at the tap get you served.
+Inside, cards and contactless payments are standard at the bars and the merchandise stands. At the bar, a few words of Italian like *una birra* are enough to get you served.
 
 The merch queue on the concourse is longest just before the band's set and right after it. Fans who want a shirt in their size tend to go when doors first open.
 

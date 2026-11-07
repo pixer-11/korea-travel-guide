@@ -81,7 +81,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-29'
 ---
-
 You come around the corner from Rue Fernand Philippart and the square opens up all at once, a long curve of pale stone facades, wrought-iron balconies, and, laid flat in front of them, a sheet of water so still it doubles the sky.
 
 This is the Miroir d'Eau, Europe's largest reflecting pool, and it's the reason most people detour here. Every few minutes it switches between glassy mirror and ankle-deep mist, and on hot afternoons kids run shrieking through the fog while it fully soaks their shoes.
@@ -106,7 +105,7 @@ It's outdoors and unticketed, open 24 hours every day, so there's no schedule to
 
 Give it 30–45 minutes if you're just passing through, longer if you want to sit by the water.
 
-- Watch the mirror effect: the pool alternates between full reflection and a low mist roughly every 15-20 minutes
+- Watch the mirror effect: the pool alternates between full reflection and a low mist over the course of the day
 - Cross to the river side for the classic shot of the facades doubled in the water
 - Walk the quaysides (Quai Richelieu, Quai de la Douane), this stretch is part of Bordeaux's UNESCO-listed riverfront
 - Look up at the Fontaine des Trois Grâces, easy to miss if you're focused on the water

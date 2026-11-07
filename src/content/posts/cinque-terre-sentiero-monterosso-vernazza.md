@@ -148,7 +148,7 @@ Skip rolling luggage, heels, or anything you're not prepared to carry on uneven 
 
 The trail is officially open 24 hours a day, every day, with no closing gate. That doesn't mean every hour is pleasant.
 
-Weekends get busy from 7am until 11pm, with a steadier flow of hikers all day. On weekdays, though, the crowd thins out noticeably in the late afternoon, a good window if you want the ridge views without a queue at the narrow spots.
+Weekends get busy from mid-morning onward, with a steady flow of hikers all day. On weekdays, though, the crowd thins out noticeably in the late afternoon, a good window if you want the ridge views without a queue at the narrow spots.
 
 Early mornings, before the day-trippers arrive, are also relatively calm. Avoid full midday sun in summer, when the exposed cliffside sections turn into a genuine heat trap.
 

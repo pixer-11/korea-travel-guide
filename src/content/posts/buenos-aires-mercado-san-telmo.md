@@ -56,7 +56,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A city block under one iron roof
 
 Mercado San Telmo dates from 1897. It was designed by the Italian-born architect Juan Antonio Buschiazzo to feed the European immigrants arriving in the south of the city. Its wrought-iron frame and glass roof still cover the original hall, and the market was declared a National Historic Monument in 2000.
@@ -95,6 +94,6 @@ On Sundays the Feria de San Pedro Telmo takes over Defensa and Plaza Dorrego, an
 How to pay and bargain:
 
 - **Pesos:** carry cash in small notes. Many stalls also take bank transfers or Mercado Pago QR codes. Card acceptance varies, so ask first.
-- **Haggling:** polite bargaining is normal at antique stalls. It is not done at food or produce counters. Ask "¿Es su mejor precio?" rather than naming a low number.
+- **Haggling:** polite bargaining is normal at antique stalls. It is not done at food or produce counters. Ask "Is this your best price?" rather than naming a low number.
 - **Prices:** they're usually chalked or tagged at each stall. If nothing is marked, ask before anyone wraps your purchase.
 - **Pickpockets:** keep your phone and wallet in front of you in the packed aisles, especially on Sundays.
