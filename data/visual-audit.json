@@ -11827,6 +11827,12 @@
   "reason": "patrol replace: Modern storefront in HCMC night scene, Vietnamese text visib",
   "at": "2026-10-16T22:11:29.931Z"
  },
+ "ho-chi-minh-city-raum-brunch-cafe\u0001/editor-photos/ho-chi-minh-city-raum-brunch-cafe-1.jpg": {
+  "slug": "ho-chi-minh-city-raum-brunch-cafe",
+  "verdict": "MATCH",
+  "reason": "owner photo: editor-original — Raum Brunch Cafe gate with the street address overhead, RAUM sign on the wall and the garden terrace b",
+  "at": "2026-11-07T11:35:23.333Z"
+ },
  "ho-chi-minh-city-saigon-skydeck\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Saigon_Skydeck_%2853546400302%29.jpg/3840px-Saigon_Skydeck_%2853546400302%29.jpg": {
   "slug": "ho-chi-minh-city-saigon-skydeck",
   "verdict": "MATCH",
