@@ -1211,12 +1211,6 @@
   "reason": "event publish gate: Athlete with race bib at Milo Marathon event",
   "at": "2026-10-29T00:35:01.910Z"
  },
- "angono-higantes-festival\u0001https://upload.wikimedia.org/wikipedia/commons/a/a0/The_Colorful_Spirit_of_Higantes_Festival.jpg": {
-  "slug": "angono-higantes-festival",
-  "verdict": "MISMATCH",
-  "reason": "hand-reviewed: filename shares only \"higantes\" with the event title (audit-event-hero-identity --reject)",
-  "at": "2026-10-15T10:16:50.733Z"
- },
  "ankara-an-tkabir\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ataturk%27s_Mausoleum_%286225341313%29.jpg/1920px-Ataturk%27s_Mausoleum_%286225341313%29.jpg": {
   "slug": "ankara-an-tkabir",
   "verdict": "MATCH",
@@ -6054,41 +6048,11 @@
   "reason": "hand-reviewed: filename shares only \"grey\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-30T08:31:03.070Z"
  },
- "calgary-113th-grey-cup\u0001https://upload.wikimedia.org/wikipedia/commons/8/8f/111th_Grey_Cup%2C_Ben_Major.jpg": {
-  "slug": "calgary-113th-grey-cup",
-  "verdict": "MISMATCH",
-  "reason": "hand-reviewed: filename shares only \"grey\" with the event title (audit-event-hero-identity --reject)",
-  "at": "2026-11-02T08:28:03.701Z"
- },
  "calgary-113th-grey-cup\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/106_Grey_Cup_Rally_-_27_November_2018_Calgary%2C_Alberta.jpg/3840px-106_Grey_Cup_Rally_-_27_November_2018_Calgary%2C_Alberta.jpg": {
   "slug": "calgary-113th-grey-cup",
   "verdict": "MATCH",
   "reason": "patrol replace: Grey Cup celebration crowd, Canadian flags visible",
   "at": "2026-11-04T00:09:20.459Z"
- },
- "calgary-113th-grey-cup\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/111th_Grey_Cup%2C_TSN_Panel.jpg/3840px-111th_Grey_Cup%2C_TSN_Panel.jpg": {
-  "slug": "calgary-113th-grey-cup",
-  "verdict": "MISMATCH",
-  "reason": "hand-reviewed: filename shares only \"grey\" with the event title (audit-event-hero-identity --reject)",
-  "at": "2026-11-03T08:22:42.470Z"
- },
- "calgary-113th-grey-cup\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/111th_Grey_Cup%2C_Trophy.jpg/3840px-111th_Grey_Cup%2C_Trophy.jpg": {
-  "slug": "calgary-113th-grey-cup",
-  "verdict": "MISMATCH",
-  "reason": "hand-reviewed: filename shares only \"grey\" with the event title (audit-event-hero-identity --reject)",
-  "at": "2026-10-29T08:14:15.207Z"
- },
- "calgary-113th-grey-cup\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Green_Day_playing_the_half-time_show_at_the_110th_Grey_Cup_in_Hamilton.jpg/3840px-Green_Day_playing_the_half-time_show_at_the_110th_Grey_Cup_in_Hamilton.jpg": {
-  "slug": "calgary-113th-grey-cup",
-  "verdict": "MISMATCH",
-  "reason": "hand-reviewed: filename shares only \"grey\" with the event title (audit-event-hero-identity --reject)",
-  "at": "2026-11-01T08:22:05.189Z"
- },
- "calgary-113th-grey-cup\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/111th_Grey_Cup%2C_Toronto_Argonauts_celebration_%281%29.jpg/3840px-111th_Grey_Cup%2C_Toronto_Argonauts_celebration_%281%29.jpg": {
-  "slug": "calgary-113th-grey-cup",
-  "verdict": "MISMATCH",
-  "reason": "hand-reviewed: filename shares only \"grey\" with the event title (audit-event-hero-identity --reject)",
-  "at": "2026-10-31T08:07:44.410Z"
  },
  "calgary-devonian-gardens\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Devonian_Gardens_Calgary_%288599506466%29.jpg/3840px-Devonian_Gardens_Calgary_%288599506466%29.jpg": {
   "slug": "calgary-devonian-gardens",
@@ -7900,30 +7864,6 @@
   "reason": "event publish gate: Shows Cologne Cathedral, Christmas tree, and market sign",
   "at": "2026-10-29T00:37:10.095Z"
  },
- "cologne-cologne-marathon-carnival-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/0/01/K%C3%B6ln_Marathon_-_panoramio.jpg": {
-  "slug": "cologne-cologne-marathon-carnival-marathon",
-  "verdict": "MISMATCH",
-  "reason": "hand-reviewed: filename shares only \"marathon\" with the event title (audit-event-hero-identity --reject)",
-  "at": "2026-11-05T08:00:35.642Z"
- },
- "cologne-cologne-marathon-carnival-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/4/49/K%C3%B6ln_Marathon_2015-10-04_00053_%2822393926276%29.jpg": {
-  "slug": "cologne-cologne-marathon-carnival-marathon",
-  "verdict": "MISMATCH",
-  "reason": "hand-reviewed: filename shares only \"marathon\" with the event title (audit-event-hero-identity --reject)",
-  "at": "2026-11-06T08:12:39.039Z"
- },
- "cologne-cologne-marathon-carnival-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/4/49/K%C3%B6ln_Marathon_2015-10-04_00365_%2822430352551%29.jpg": {
-  "slug": "cologne-cologne-marathon-carnival-marathon",
-  "verdict": "MISMATCH",
-  "reason": "hand-reviewed: filename shares only \"marathon\" with the event title (audit-event-hero-identity --reject)",
-  "at": "2026-11-08T08:14:10.476Z"
- },
- "cologne-cologne-marathon-carnival-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/6/6a/K%C3%B6ln_Marathon_2017-10-01_00015_%2837501340381%29.jpg": {
-  "slug": "cologne-cologne-marathon-carnival-marathon",
-  "verdict": "MISMATCH",
-  "reason": "hand-reviewed: filename shares only \"marathon\" with the event title (audit-event-hero-identity --reject)",
-  "at": "2026-11-07T08:01:42.822Z"
- },
  "cologne-museum-ludwig\u0001https://upload.wikimedia.org/wikipedia/commons/3/3d/Museum_Ludwig_002.jpg": {
   "slug": "cologne-museum-ludwig",
   "verdict": "MATCH",
@@ -8142,18 +8082,6 @@
   "verdict": "MATCH",
   "reason": "patrol replace: Lam Vien Square, Da Lat venue exterior",
   "at": "2026-10-16T22:11:09.550Z"
- },
- "da-lat-11th-da-lat-flower-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Da_Lat_Flower_Festival_2012_-_24.JPG/3840px-Da_Lat_Flower_Festival_2012_-_24.JPG": {
-  "slug": "da-lat-11th-da-lat-flower-festival",
-  "verdict": "MISMATCH",
-  "reason": "hand-reviewed: filename shares only \"flower\" with the event title (audit-event-hero-identity --reject)",
-  "at": "2026-10-15T10:16:51.110Z"
- },
- "da-lat-11th-da-lat-flower-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Da_Lat_Flower_Festival_2012_1.JPG/3840px-Da_Lat_Flower_Festival_2012_1.JPG": {
-  "slug": "da-lat-11th-da-lat-flower-festival",
-  "verdict": "MISMATCH",
-  "reason": "hand-reviewed: filename shares only \"flower\" with the event title (audit-event-hero-identity --reject)",
-  "at": "2026-10-16T08:27:58.218Z"
  },
  "da-lat-bao-dai-palace-3\u0001https://upload.wikimedia.org/wikipedia/commons/4/46/Dinh_B%E1%BA%A3o_%C4%90%E1%BA%A1i%2C_%C4%90%C3%A0_L%E1%BA%A1t_%283%29.JPG": {
   "slug": "da-lat-bao-dai-palace-3",
@@ -13488,35 +13416,17 @@
   "reason": "third tier (owner rule 2026-09-11): 파일명이 Incheon 을 가리킨다",
   "at": "2026-09-13T16:21:05.647Z"
  },
- "incheon-round-festival-asean-korea-music-festival\u0001https://upload.wikimedia.org/wikipedia/commons/0/0b/AKMF_Round_Festival_stage_in_Busan.jpg": {
-  "slug": "incheon-round-festival-asean-korea-music-festival",
-  "verdict": "MISMATCH",
-  "reason": "hand-reviewed: filename shares only \"round\" with the event title (audit-event-hero-identity --reject)",
-  "at": "2026-11-03T08:22:43.062Z"
- },
  "incheon-round-festival-asean-korea-music-festival\u0001https://upload.wikimedia.org/wikipedia/commons/3/3f/SB19_performing_What%3F_at_the_Round_Music_Festival_2021.jpg": {
   "slug": "incheon-round-festival-asean-korea-music-festival",
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: filename shares only \"round\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-11-07T08:01:43.027Z"
  },
- "incheon-round-festival-asean-korea-music-festival\u0001https://upload.wikimedia.org/wikipedia/commons/4/45/AKMF_Round_in_Busan_in_2024.jpg": {
-  "slug": "incheon-round-festival-asean-korea-music-festival",
-  "verdict": "MISMATCH",
-  "reason": "hand-reviewed: filename shares only \"round\" with the event title (audit-event-hero-identity --reject)",
-  "at": "2026-11-05T08:00:35.815Z"
- },
  "incheon-round-festival-asean-korea-music-festival\u0001https://upload.wikimedia.org/wikipedia/commons/5/53/SB19_at_ASEAN_Korea_Music_Festival_2023_%28ROUND%29.jpg": {
   "slug": "incheon-round-festival-asean-korea-music-festival",
   "verdict": "MATCH",
   "reason": "patrol replace: ROUND festival performance, Indonesia edition shown",
   "at": "2026-11-07T22:56:05.657Z"
- },
- "incheon-round-festival-asean-korea-music-festival\u0001https://upload.wikimedia.org/wikipedia/commons/8/8a/Group_Shot_of_All_Crews_of_the_AKMF_Round_Festival.jpg": {
-  "slug": "incheon-round-festival-asean-korea-music-festival",
-  "verdict": "MISMATCH",
-  "reason": "hand-reviewed: filename shares only \"round\" with the event title (audit-event-hero-identity --reject)",
-  "at": "2026-11-04T07:57:45.326Z"
  },
  "incheon-round-festival-asean-korea-music-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Jean_Pack_performs_at_River_Runs_Round_festival_in_Coughlan%27s%2C_Cork.jpg/3840px-Jean_Pack_performs_at_River_Runs_Round_festival_in_Coughlan%27s%2C_Cork.jpg": {
   "slug": "incheon-round-festival-asean-korea-music-festival",
@@ -13541,12 +13451,6 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Unrelated venue, different country/event, not ROUND Festival",
   "at": "2026-11-05T00:31:36.922Z"
- },
- "incheon-round-festival-asean-korea-music-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/AKMF_Round_Festival_Stage.jpg/3840px-AKMF_Round_Festival_Stage.jpg": {
-  "slug": "incheon-round-festival-asean-korea-music-festival",
-  "verdict": "MISMATCH",
-  "reason": "hand-reviewed: filename shares only \"round\" with the event title (audit-event-hero-identity --reject)",
-  "at": "2026-11-02T08:28:04.174Z"
  },
  "incheon-songdo-central-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/South_Korea%2C_Incheon%2C_Songdo%2C_the_Sharp_Central_Park_Towers.jpg/1920px-South_Korea%2C_Incheon%2C_Songdo%2C_the_Sharp_Central_Park_Towers.jpg": {
   "slug": "incheon-songdo-central-park",
@@ -14765,12 +14669,6 @@
   "reason": "patrol reject: Generic amusement park scene, not Joyland Festival venue",
   "at": "2026-10-17T21:39:14.326Z"
  },
- "jakarta-joyland-festival\u0001https://upload.wikimedia.org/wikipedia/commons/3/34/.Feast_at_Joyland_Festival%2C_November_2024.jpg": {
-  "slug": "jakarta-joyland-festival",
-  "verdict": "MISMATCH",
-  "reason": "hand-reviewed: filename shares only \"joyland\" with the event title (audit-event-hero-identity --reject)",
-  "at": "2026-10-15T10:16:51.234Z"
- },
  "jakarta-joyland-festival\u0001https://upload.wikimedia.org/wikipedia/commons/8/83/Joyland_Lubbock_TX_entrance_DSCN8529.JPG": {
   "slug": "jakarta-joyland-festival",
   "verdict": "MISMATCH",
@@ -14794,12 +14692,6 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Chinese theme park, unrelated to Joyland Festival Jakarta",
   "at": "2026-10-16T22:12:50.577Z"
- },
- "jakarta-joyland-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Maliq_%26_D%27Essentials_at_Joyland_Festival%2C_November_2024.jpg/3840px-Maliq_%26_D%27Essentials_at_Joyland_Festival%2C_November_2024.jpg": {
-  "slug": "jakarta-joyland-festival",
-  "verdict": "MISMATCH",
-  "reason": "hand-reviewed: filename shares only \"joyland\" with the event title (audit-event-hero-identity --reject)",
-  "at": "2026-10-16T08:27:58.403Z"
  },
  "jakarta-kanye-west-jakarta\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Ye_%28f.k.a._Kanye_West%29_performing_in_Eagle_Stadium_%28Tirana%2C_Albania%29_on_11_July_2026.jpg/3840px-Ye_%28f.k.a._Kanye_West%29_performing_in_Eagle_Stadium_%28Tirana%2C_Albania%29_on_11_July_2026.jpg": {
   "slug": "jakarta-kanye-west-jakarta",
@@ -18507,18 +18399,6 @@
   "reason": "hand-reviewed: filename shares only \"aespa\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-26T19:00:11.193Z"
  },
- "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/1/1e/Novak_Djokovic_at_the_ATP_Tennis_World_Finals.jpg": {
-  "slug": "london-atp-finals",
-  "verdict": "MISMATCH",
-  "reason": "hand-reviewed: filename shares only \"finals\" with the event title (audit-event-hero-identity --reject)",
-  "at": "2026-10-27T10:38:23.727Z"
- },
- "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/2/23/ATP_World_Tour_Final_Tennis_at_The_02_Arena_London.jpg": {
-  "slug": "london-atp-finals",
-  "verdict": "MISMATCH",
-  "reason": "hand-reviewed: filename shares only \"london\" with the event title (audit-event-hero-identity --reject)",
-  "at": "2026-10-26T19:00:11.385Z"
- },
  "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/3/31/Who_knew_John_Peers_had_this_much_hair%3F%21_-_23260071985.jpg": {
   "slug": "london-atp-finals",
   "verdict": "MISMATCH",
@@ -18530,12 +18410,6 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Visible watermark/credit overlaid on photo",
   "at": "2026-10-26T23:20:11.246Z"
- },
- "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/5/50/Roger_Federer_at_the_ATP_Tennis_World_Finals.jpg": {
-  "slug": "london-atp-finals",
-  "verdict": "MISMATCH",
-  "reason": "hand-reviewed: filename shares only \"finals\" with the event title (audit-event-hero-identity --reject)",
-  "at": "2026-10-28T08:38:18.568Z"
  },
  "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/8/8b/Sydney_International_Tennis_ATP_%2833040174978%29.jpg": {
   "slug": "london-atp-finals",
@@ -18555,29 +18429,11 @@
   "reason": "hand-reviewed: filename shares only \"finals\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-11-01T08:22:05.579Z"
  },
- "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/f/ff/Rafa_Nadal_exits_O2_Arena_after_defeat_to_defending_champion_Alexander_Zverev_at_Nitto_ATP_Finals_2019_%2849052005756%29.jpg": {
-  "slug": "london-atp-finals",
-  "verdict": "MISMATCH",
-  "reason": "hand-reviewed: filename shares only \"finals\" with the event title (audit-event-hero-identity --reject)",
-  "at": "2026-10-25T08:13:38.649Z"
- },
- "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2019_ATP_Finals_at_the_o2_%2849069357912%29.jpg/3840px-2019_ATP_Finals_at_the_o2_%2849069357912%29.jpg": {
-  "slug": "london-atp-finals",
-  "verdict": "MISMATCH",
-  "reason": "hand-reviewed: filename shares only \"finals\" with the event title (audit-event-hero-identity --reject)",
-  "at": "2026-10-24T02:12:34.707Z"
- },
  "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Cincinnati-Tennis-2015-ATP-WTA-58_%2820827622816%29.jpg/3840px-Cincinnati-Tennis-2015-ATP-WTA-58_%2820827622816%29.jpg": {
   "slug": "london-atp-finals",
   "verdict": "MISMATCH",
   "reason": "patrol reject: WTA women's event with watermark, not ATP Finals",
   "at": "2026-10-31T23:00:02.551Z"
- },
- "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Doubles_at_the_ATP_Finals_%2849070108528%29.jpg/3840px-Doubles_at_the_ATP_Finals_%2849070108528%29.jpg": {
-  "slug": "london-atp-finals",
-  "verdict": "MISMATCH",
-  "reason": "hand-reviewed: filename shares only \"finals\" with the event title (audit-event-hero-identity --reject)",
-  "at": "2026-10-30T08:31:03.381Z"
  },
  "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Cincinnati-Tennis-2015-ATP-WTA-98_%2820232731523%29.jpg/3840px-Cincinnati-Tennis-2015-ATP-WTA-98_%2820232731523%29.jpg": {
   "slug": "london-atp-finals",
@@ -18585,41 +18441,11 @@
   "reason": "patrol reject: Visible photographer watermark overlaid on image",
   "at": "2026-10-26T23:20:13.484Z"
  },
- "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Doubles_at_the_ATP_Finals_%2849070105758%29.jpg/3840px-Doubles_at_the_ATP_Finals_%2849070105758%29.jpg": {
-  "slug": "london-atp-finals",
-  "verdict": "MISMATCH",
-  "reason": "hand-reviewed: filename shares only \"finals\" with the event title (audit-event-hero-identity --reject)",
-  "at": "2026-10-19T11:33:02.880Z"
- },
- "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Doubles_at_the_ATP_Finals_%2849070627556%29.jpg/3840px-Doubles_at_the_ATP_Finals_%2849070627556%29.jpg": {
-  "slug": "london-atp-finals",
-  "verdict": "MISMATCH",
-  "reason": "hand-reviewed: filename shares only \"finals\" with the event title (audit-event-hero-identity --reject)",
-  "at": "2026-10-22T08:00:49.098Z"
- },
- "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Doubles_at_the_ATP_Finals_%2849070833022%29.jpg/3840px-Doubles_at_the_ATP_Finals_%2849070833022%29.jpg": {
-  "slug": "london-atp-finals",
-  "verdict": "MISMATCH",
-  "reason": "hand-reviewed: filename shares only \"finals\" with the event title (audit-event-hero-identity --reject)",
-  "at": "2026-10-20T08:30:43.766Z"
- },
  "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Cincinnati-Tennis-2015-ATP-WTA-5_%2820666136738%29.jpg/3840px-Cincinnati-Tennis-2015-ATP-WTA-5_%2820666136738%29.jpg": {
   "slug": "london-atp-finals",
   "verdict": "MISMATCH",
   "reason": "patrol reject: Watermark present and WTA event, not ATP",
   "at": "2026-10-31T22:59:56.437Z"
- },
- "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/2019_ATP_Finals_at_the_o2_%2849069150561%29.jpg/3840px-2019_ATP_Finals_at_the_o2_%2849069150561%29.jpg": {
-  "slug": "london-atp-finals",
-  "verdict": "MISMATCH",
-  "reason": "hand-reviewed: filename shares only \"finals\" with the event title (audit-event-hero-identity --reject)",
-  "at": "2026-10-23T08:26:13.322Z"
- },
- "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Doubles_at_the_ATP_Finals_%2849070103618%29.jpg/3840px-Doubles_at_the_ATP_Finals_%2849070103618%29.jpg": {
-  "slug": "london-atp-finals",
-  "verdict": "MISMATCH",
-  "reason": "hand-reviewed: filename shares only \"finals\" with the event title (audit-event-hero-identity --reject)",
-  "at": "2026-10-21T08:07:23.168Z"
  },
  "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Casper_Ruud%2C_ATP_500_Basel_2025.jpg/3840px-Casper_Ruud%2C_ATP_500_Basel_2025.jpg": {
   "slug": "london-atp-finals",
@@ -18632,12 +18458,6 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Watermark present; WTA women's event, not ATP Finals",
   "at": "2026-11-01T23:23:12.876Z"
- },
- "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Mahesh_Bhupathi_and_Rohan_Bopanna_at_the_ATP_World_Tennis_Finals.jpg/3840px-Mahesh_Bhupathi_and_Rohan_Bopanna_at_the_ATP_World_Tennis_Finals.jpg": {
-  "slug": "london-atp-finals",
-  "verdict": "MISMATCH",
-  "reason": "hand-reviewed: filename shares only \"finals\" with the event title (audit-event-hero-identity --reject)",
-  "at": "2026-10-31T08:07:44.816Z"
  },
  "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Doubles_at_the_ATP_Finals_%2849070106548%29.jpg/3840px-Doubles_at_the_ATP_Finals_%2849070106548%29.jpg": {
   "slug": "london-atp-finals",
@@ -22238,12 +22058,6 @@
   "reason": "publish gate: Monopteros temple in English Garden, Munich, with autumn trees",
   "at": "2026-10-05T07:48:11.491Z"
  },
- "munich-munich-christkindlmarkt-christmas-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/M%C3%BCnchner_Christkindlmarkt_3.JPG/3840px-M%C3%BCnchner_Christkindlmarkt_3.JPG": {
-  "slug": "munich-munich-christkindlmarkt-christmas-market",
-  "verdict": "MISMATCH",
-  "reason": "hand-reviewed: filename shares only \"christkindlmarkt\" with the event title (audit-event-hero-identity --reject)",
-  "at": "2026-10-15T10:16:51.634Z"
- },
  "munich-munich-christkindlmarkt-christmas-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Marienplatz_Christkindlmarkt%2C_2013.jpg/3840px-Marienplatz_Christkindlmarkt%2C_2013.jpg": {
   "slug": "munich-munich-christkindlmarkt-christmas-market",
   "verdict": "MATCH",
@@ -24093,35 +23907,11 @@
   "reason": "patrol reject: Horse-drawn carriage, not the Christkindlesmarkt venue or event",
   "at": "2026-10-18T23:11:35.963Z"
  },
- "nuremberg-nuremberg-christkindlesmarkt\u0001https://upload.wikimedia.org/wikipedia/commons/f/fb/Christkindlesmarkt_Nuernberg.jpg": {
-  "slug": "nuremberg-nuremberg-christkindlesmarkt",
-  "verdict": "MISMATCH",
-  "reason": "hand-reviewed: filename shares only \"christkindlesmarkt\" with the event title (audit-event-hero-identity --reject)",
-  "at": "2026-10-20T08:30:43.962Z"
- },
  "nuremberg-nuremberg-christkindlesmarkt\u0001https://upload.wikimedia.org/wikipedia/commons/f/ff/Ludwig_M%C3%B6%C3%9Fler_N%C3%BCrnberg_Christkindlesmarkt.jpg": {
   "slug": "nuremberg-nuremberg-christkindlesmarkt",
   "verdict": "MISMATCH",
   "reason": "patrol reject: Painting/illustration, not a real photo",
   "at": "2026-10-22T22:41:13.794Z"
- },
- "nuremberg-nuremberg-christkindlesmarkt\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Christkindlesmarkt_2019_N%C3%BCrnberg_026.jpg/3840px-Christkindlesmarkt_2019_N%C3%BCrnberg_026.jpg": {
-  "slug": "nuremberg-nuremberg-christkindlesmarkt",
-  "verdict": "MISMATCH",
-  "reason": "hand-reviewed: filename shares only \"christkindlesmarkt\" with the event title (audit-event-hero-identity --reject)",
-  "at": "2026-10-21T08:07:23.297Z"
- },
- "nuremberg-nuremberg-christkindlesmarkt\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Christkindlesmarkt_2023_N%C3%BCrnberg_134.jpg/3840px-Christkindlesmarkt_2023_N%C3%BCrnberg_134.jpg": {
-  "slug": "nuremberg-nuremberg-christkindlesmarkt",
-  "verdict": "MISMATCH",
-  "reason": "hand-reviewed: filename shares only \"christkindlesmarkt\" with the event title (audit-event-hero-identity --reject)",
-  "at": "2026-10-19T11:33:03.245Z"
- },
- "nuremberg-nuremberg-christkindlesmarkt\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Christkindlesmarkt_N%C3%BCrnberg_Fleischbr%C3%BCcke.jpg/3840px-Christkindlesmarkt_N%C3%BCrnberg_Fleischbr%C3%BCcke.jpg": {
-  "slug": "nuremberg-nuremberg-christkindlesmarkt",
-  "verdict": "MISMATCH",
-  "reason": "hand-reviewed: filename shares only \"christkindlesmarkt\" with the event title (audit-event-hero-identity --reject)",
-  "at": "2026-10-23T08:26:13.497Z"
  },
  "nuremberg-nuremberg-christkindlesmarkt\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Hauptmarkt%2C_Nuremberg_%28P1200902%29.jpg/3840px-Hauptmarkt%2C_Nuremberg_%28P1200902%29.jpg": {
   "slug": "nuremberg-nuremberg-christkindlesmarkt",
@@ -24134,12 +23924,6 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Abstract blurry bokeh lights, not identifiable market scene",
   "at": "2026-10-18T23:11:34.461Z"
- },
- "nuremberg-nuremberg-christkindlesmarkt\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Christkindlesmarkt_2022_N%C3%BCrnberg_078.jpg/3840px-Christkindlesmarkt_2022_N%C3%BCrnberg_078.jpg": {
-  "slug": "nuremberg-nuremberg-christkindlesmarkt",
-  "verdict": "MISMATCH",
-  "reason": "hand-reviewed: filename shares only \"christkindlesmarkt\" with the event title (audit-event-hero-identity --reject)",
-  "at": "2026-10-22T08:00:49.296Z"
  },
  "nuremberg-nuremberg-christkindlesmarkt\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Hauptmarkt%2C_Nuremberg_%28P1200899%29.jpg/3840px-Hauptmarkt%2C_Nuremberg_%28P1200899%29.jpg": {
   "slug": "nuremberg-nuremberg-christkindlesmarkt",

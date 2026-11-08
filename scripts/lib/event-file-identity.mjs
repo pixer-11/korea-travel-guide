@@ -40,6 +40,29 @@ import { GEO_STOP } from './images.mjs';
 import { readFileSync } from 'node:fs';
 import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { eventProperName } from '../../src/lib/eventName.mjs';
+
+// A city our guides call one thing and its own photographers another. Only
+// cities the site actually covers, and only names that are not a spelling
+// variant fold() already handles. "Köln Marathon 2015" is the Cologne Marathon,
+// and the daily audit took all four of its Köln photos off that guide as
+// "shares only marathon with the title" (2026-11-05…08).
+const PLACE_ALIASES = {
+  cologne: ['koln', 'koeln', 'kolner'],
+  munich: ['munchen', 'muenchen', 'munchner'],
+  nuremberg: ['nurnberg', 'nuernberg', 'nurnberger'],
+  dusseldorf: ['duesseldorf'],
+  rome: ['roma'],
+  florence: ['firenze'],
+  venice: ['venezia'],
+  milan: ['milano'],
+  naples: ['napoli'],
+  turin: ['torino'],
+  genoa: ['genova'],
+  seville: ['sevilla'],
+};
+const PLACE_CANON = new Map(Object.entries(PLACE_ALIASES).flatMap(([en, others]) => others.map((o) => [o, en])));
+export const samePlace = (w) => PLACE_CANON.get(w) ?? w;
 
 // The `geo` set for foreignInFilename: hub cities plus every country and
 // region the site covers (loadWorld() from commons-identity), as tokens.
@@ -108,10 +131,10 @@ const VENUE_GENERIC = new Set(['stadium', 'arena', 'hall', 'centre', 'center', '
  * names the whole city and no event at all.
  */
 export function fileShowsPlace(url, { region = '', venue = '' } = {}) {
-  const words = new Set(fileTokens(url));
+  const words = new Set(fileTokens(url).map(samePlace));
   const venueWords = tokens(venue).filter((w) => !VENUE_GENERIC.has(w));
   if (venueWords.length && venueWords.some((w) => words.has(w))) return true;
-  const cityWords = tokens(region);
+  const cityWords = tokens(region).map(samePlace);
   if (!cityWords.length || !cityWords.every((w) => words.has(w))) return false;
   return !NAMES_AN_EVENT.test(fileWords(url).join(' '));
 }
@@ -277,7 +300,7 @@ export function foreignInFilename(url, { known, anchor = '', via = '', geo = nul
   if (performer && fileNamesPerformer(url, performer, { singleWord: false })) return '';
   const ft = fileTokens(url);
   const leftovers = ft.filter((t) =>
-    !known.has(t) && !GENERIC_FILE_WORDS.has(t) &&
+    !known.has(t) && !known.has(samePlace(t)) && !GENERIC_FILE_WORDS.has(t) &&
     // Camera/file ids ("wn4430", "d161208", "dsc0123", "3840px") and the
     // event words that are never an act's identity (concert, festival,
     // stadium, tour, months, nation adjectives).
@@ -371,7 +394,132 @@ export function foreignInFilename(url, { known, anchor = '', via = '', geo = nul
   const anchorIsName = anchor && !isCommonAnchor(anchor);
   if (anchor && fileNamesAnchor(url, anchor)) {
     const rest = leftovers.filter((t) => !SCENE_WORDS.has(t) && !(geo && geo.has(t)));
-    if (rest.length <= (anchorIsName ? 4 : 1)) return '';
+    if (anchorIsName ? rest.length <= 4 : !rest.length) return '';
+    // That one extra word comes AFTER an ordinary anchor. In front of it, it
+    // says whose the word is: "Atlas Sound", "Primavera Sound" and "The Warning
+    // at Sound of Music" all passed for Lima's "Sound Music Fest", one a night
+    // for a week, and the publish audit took each off the next afternoon
+    // (2026-11-02…07). A second word of the event's own name or city still
+    // clears it ("YoonA at Asia Artist Awards"): the anchor is not alone then.
+    if (!anchorIsName && rest.length === 1) {
+      const fronted = ft.indexOf(rest[0]) < ft.indexOf(anchor);
+      const backed = ft.some((t) => t !== anchor && known.has(t) && !/\d/.test(t) && !ANCHOR_STOP.has(t) && !SCENE_WORDS.has(t));
+      if (!fronted || backed) return '';
+    }
   }
   return leftovers.join(' ');
+}
+
+// ── THE SAME QUESTION, ASKED BY THE DAILY AUDIT ──
+//
+// audit-event-hero-identity calls two shared title words "this file names the
+// event" and removes the photo otherwise. The rule used to live in that script
+// with a word list of its own, blind to everything the patrol above knows: it
+// dropped words of three letters (ATP), split Köln into nothing, and took the
+// 111th Grey Cup for another event than the 113th. So the patrol attached a past
+// edition, the owner's second tier, and the audit removed it the next day: 17 of
+// the 56 repeat removals between 10-28 and 11-07 were right photos.
+//
+// The two-word rule stays on this side only. Copied to the patrol it would
+// refuse the same past editions for good.
+
+// Words that say nothing about WHICH event this is. Leaving them in made
+// "World Tour" or "Live Concert" look like evidence of a match.
+const TITLE_STOP = new Set(['the', 'of', 'in', 'at', 'and', 'an', 'guide', 'travel', 'jpg', 'jpeg',
+  'png', 'file', 'commons', 'wikipedia', 'thumb', 'live', 'concert', 'tour', 'world', 'festival',
+  'tickets', 'dates', 'venue', 'city', 'show', 'music', 'performing', 'during', 'stage', 'know',
+  'what', 'fest']);
+
+const ORDINAL = /^\d+(st|nd|rd|th)$/;
+
+// The initials of a name our own title spells out: "ASEAN-Korea Music Festival"
+// is filed on Commons as AKMF. Four words at least. eventAcronym refuses to
+// guess because a search runs on it alone; here it is only ever one piece of
+// evidence beside another word of the title.
+export function spelledOutInitials(title) {
+  const out = new Set();
+  for (const part of String(title ?? '').split(':')[0].split(/[()（）–—]/)) {
+    const caps = part.split(/[\s-]+/).filter((w) => /^[A-Z]/.test(w));
+    if (caps.length >= 4) out.add(caps.map((w) => w[0]).join('').toLowerCase());
+  }
+  return [...out];
+}
+
+/**
+ * Which words of the post's title does this filename also say? Two is what the
+ * audit accepts as naming the event; the list goes into its report.
+ * @param {string} title  the post's title
+ * @param {string} url    the hero's URL
+ * @param {{region?: string}} [where]  the post's city
+ * @returns {string[]}
+ */
+export function titleWordsInFile(title, url, { region = '' } = {}) {
+  const keep = (w) => w.length > 3 && !TITLE_STOP.has(w) && !/^\d+$/.test(w);
+  const fileAll = fileWords(url).map(samePlace);
+  const titleAll = allWords(title).map(samePlace);
+  const fileToks = fileAll.filter(keep);
+  // A long word also matches its own inflection: "Dani Pedrosa MotoGP Australia
+  // 2015" is the Australian Grand Prix (flagged 2026-10-12, the one right photo
+  // among seven). Six letters at least, so "young" never matches "youngfathers".
+  const same = (t) => fileToks.includes(t) || fileToks.some((f) => Math.min(f.length, t.length) >= 6 && (f.startsWith(t) || t.startsWith(f)));
+  // A Set: "Hanoi Jazztival 2026 in Hanoi" against Hanoi_traffic.jpg scored two
+  // hits for one word and walked past review.
+  const hit = new Set(titleAll.filter(keep).filter(same));
+  // What the length filter cannot see. Three capitals in OUR title are a name
+  // (ATP, NBA, BWF), three lower-case letters are not (cup, day, new). A Roman
+  // numeral is not: "Jayavarman VII High School" is not the festival.
+  for (const caps of String(title ?? '').match(/(?<![A-Za-z0-9])[A-Z][A-Z0-9]{2}(?![A-Za-z0-9])/g) ?? []) {
+    const w = caps.toLowerCase();
+    if (/^(iii|vii|xii|xiv|xvi|xix|xxi|xxv|xxx)$/.test(w)) continue;
+    if (!TITLE_STOP.has(w) && !isCommonAnchor(w) && fileAll.includes(w)) hit.add(w);
+  }
+  for (const w of spelledOutInitials(title)) if (fileAll.includes(w)) hit.add(w);
+  // "111th Grey Cup" is a past edition of "113th Grey Cup": another number in
+  // front of the same two words is the same series. Not when those two words
+  // are the city ("11th Da Lat …", "10th Da Lat Marathon"): that is just the city.
+  const city = allWords(region).map(samePlace);
+  titleAll.forEach((w, i) => {
+    if (!ORDINAL.test(w) || !titleAll[i + 2] || city.includes(titleAll[i + 1])) return;
+    fileAll.forEach((f, j) => {
+      if (ORDINAL.test(f) && f !== w && fileAll[j + 1] === titleAll[i + 1] && fileAll[j + 2] === titleAll[i + 2]) hit.add(f);
+    });
+  });
+  // A city of short words only ("Da Lat", "Hoi An") never survives the length
+  // filter, however plainly the file says it. "Da Nang" is already counted.
+  if (city.length && city.every((w) => w.length <= 3 && fileAll.includes(w))) hit.add(city.join(' '));
+  return [...hit];
+}
+
+/**
+ * Does the file spell the event's whole proper name, in order? The patrol's own
+ * test (namesTheEvent), so the audit no longer removes what it just accepted
+ * (".Feast at Joyland Festival, November 2024" on the Joyland guide). A short
+ * name needs a word that is not an ordinary one: "Round Festival" is also the
+ * tail of "River Runs Round festival", which is in County Cork.
+ */
+export function fileSpellsEventName(url, title, geo = null) {
+  const name = eventProperName(title);
+  const run = nameRun(name);
+  if (run.length < 4 && !run.some((t) => !isCommonAnchor(t) && !ANCHOR_STOP.has(t))) return false;
+  return namesTheEvent(fileTokens(url), name, geo);
+}
+
+/**
+ * Everything the daily audit accepts from the filename alone: two title words,
+ * the event's whole name, the act, or the event's own city or venue. One
+ * function, so the patrol's cooldown cannot drift from what the audit removes.
+ * @param {string} url
+ * @param {any} fm    the post's frontmatter
+ * @param {Set<string>|null} [geo]
+ */
+export function fileIdentifiesEvent(url, fm, geo = null) {
+  return titleWordsInFile(fm?.title, url, { region: fm?.region }).length >= 2
+    || fileSpellsEventName(url, fm?.title, geo)
+    // The owner's rule (09-07): any photo of the performer is right for their
+    // post. The Weeknd at Coachella 2012 for his Hong Kong date was reported
+    // as unreviewed (2026-10-06).
+    || fileNamesPerformer(url, fm?.eventPerformer?.name)
+    // A view of the event's own city or venue is the owner's third tier, not
+    // another event's photo (2026-10-09: most of the 34 daily lines were these).
+    || fileShowsPlace(url, { region: fm?.region, venue: fm?.eventVenue });
 }

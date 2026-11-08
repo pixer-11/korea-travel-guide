@@ -34,8 +34,8 @@ import matter from 'gray-matter';
 import yaml from 'js-yaml';
 import { loadUsedImageUrls, resolveHero, eventTopic, EVENT_HERO_MIN_WIDTH } from './lib/images.mjs';
 import { probeWidth, upsizeFlickr, widthVerdict, UNUSABLE_WIDTH } from './lib/image-width.mjs';
-import { keyToken, tokens, COMMON_ANCHOR, performerCategoryPhotos, eventCategoryPhotos } from './lib/commons.mjs';
-import { foreignInFilename, geoTokens, fileNamesPerformer } from './lib/event-file-identity.mjs';
+import { keyToken, tokens, isCommonAnchor, performerCategoryPhotos, eventCategoryPhotos } from './lib/commons.mjs';
+import { foreignInFilename, geoTokens, fileNamesPerformer, fileIdentifiesEvent, spelledOutInitials } from './lib/event-file-identity.mjs';
 import { candidateBudget, DEAD_END_REFUSALS, SHARED_HERO_WANT } from './lib/candidate-budget.mjs';
 import { eventProperName, eventAcronym } from '../src/lib/eventName.mjs';
 import { venuePhotoCandidates, openversePhotos } from './lib/photo-sources.mjs';
@@ -45,7 +45,7 @@ import { isPatrolTarget, isPhotolessLive, NON_PHOTO_HOLD } from './lib/patrol-ta
 import { twinIndex } from './lib/live-event-twins.mjs';
 import { liveTwinIndex, liveTwinOf, noteLive } from './lib/live-twin.mjs';
 import { judgeCandidate, loadWorld } from './lib/commons-identity.mjs';
-import { identityRejection } from './lib/photo-verdict.mjs';
+import { identityRejection, auditStripCooling } from './lib/photo-verdict.mjs';
 import { imageIdentity, isUsedImage, markUsedImage, unmarkUsedImage, heroKeeper } from './lib/hero-url.mjs';
 import { orderPhotoQueue, isPausedTonight, GIVE_UP_AFTER } from './lib/photo-queue-order.mjs';
 import { writeAuditStore } from './lib/visual-audit-store.mjs';
@@ -393,6 +393,7 @@ for (const f of files) {
       // "Stade de France", "Taipei Dome", "Circuit of the Americas" — was
       // thrown out as "names another act" (12 of 12 on 2026-08-22).
       ...tokens(data.eventVenue || ''),
+      ...spelledOutInitials(venueName),
     ]);
     // The rule itself (what a leftover word means for an act find vs a venue
     // find, the 2026-08-16 "After Forever" / street-football cases) lives in
@@ -408,7 +409,11 @@ for (const f of files) {
     // by the twin and the tour's other cities, so the first four candidates
     // are leftovers (see SHARED_HERO_WANT).
     const budget = candidateBudget(sharedWith ? { want: SHARED_HERO_WANT } : {});
-    while (budget.keepGoing()) {
+    // The text searches are what kept feeding the audit its near-misses. The
+    // category tiers below carry their own proof and stay open.
+    const cooling = !ONLY.includes(slug) && auditStripCooling(auditStore, slug, { stillWrong: (u) => !fileIdentifiesEvent(u, data, geoTokens(world)) });
+    if (cooling) console.log(`   ${slug}: the identity audit took off two photos lately — text searches rest, the city tier fills this one`);
+    while (!cooling && budget.keepGoing()) {
       budget.turned();
       let pick = null;
       try {
@@ -482,7 +487,9 @@ for (const f of files) {
     // anchor token, because vision cannot tell acts apart and a Flickr
     // filename is a serial number that proves nothing. A venue or city in
     // the title is expected — a tour photo is some other city's night.
-    if (cands.length < 4 && anchor && !COMMON_ANCHOR.test(anchor)) {
+    // Measured, not the hand list: an uploader's title containing "sound" is no
+    // more the Lima festival than a Commons filename is (2026-11-08).
+    if (!cooling && cands.length < 4 && anchor && !isCommonAnchor(anchor)) {
       try {
         const ov = [
           ...(await openversePhotos({ name: venueName, near: '', limit: 6 })),

@@ -11,7 +11,7 @@
 //   node --test scripts/lib/photo-verdict.test.mjs
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { photoIdentity, isIdentityRejection, identityRejection, isHandRejection , photoFamily } from './photo-verdict.mjs';
+import { photoIdentity, isIdentityRejection, identityRejection, isHandRejection , photoFamily, auditStripCooling } from './photo-verdict.mjs';
 
 const SEP = String.fromCharCode(1);
 const UPLOAD_3840 = 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Kitchen_in_Nam_Long_Congee_Shop.jpg/3840px-Kitchen_in_Nam_Long_Congee_Shop.jpg';
@@ -133,4 +133,31 @@ test('photoFamily: 확장자와 프레임 번호만 떨어진다', () => {
   assert.equal(photoFamily(F('A_B.jpg')), photoFamily(F('A_B (2).jpg')));
   assert.notEqual(photoFamily(F('A_B.jpg')), photoFamily(F('A_C.jpg')));
   assert.equal(photoFamily('https://example.com/not-commons.jpg'), null);
+});
+
+// 플리커에서 옮긴 파일은 끝이 사진 ID다. 프레임 번호와 같은 것인데 11자리라서
+// 다섯 프레임이 서로 다른 사진으로 세어졌다(리마 Atlas Sound, 하룻밤에 한 장씩).
+test('photoFamily: 플리커 ID 는 프레임 번호처럼 떨어지고 연도는 남는다', () => {
+  const F = (n) => `https://upload.wikimedia.org/wikipedia/commons/1/17/${n}`;
+  assert.equal(photoFamily(F('Atlas_Sound_in_concert_(23685654815).jpg')), photoFamily(F('Atlas_Sound_in_concert_(23317722769).jpg')));
+  assert.notEqual(photoFamily(F('Atlas_Sound_in_concert_(23685654815).jpg')), photoFamily(F('Grizzly_Bear_in_concert_(23685654815).jpg')));
+  assert.notEqual(photoFamily(F('Grey_Cup_(2019).jpg')), photoFamily(F('Grey_Cup_(2023).jpg')), '괄호 속 연도는 다른 해');
+  assert.ok(identityRejection(
+    { [`x${SEP}${F('Atlas_Sound_in_concert_(23685654815).jpg')}`]: { verdict: 'MISMATCH', reason: 'hand-reviewed: another band' } },
+    'x', F('Atlas_Sound_in_concert_(23317722769).jpg'), 'event'), '같은 촬영분의 다른 프레임도 거부');
+});
+
+test('auditStripCooling: 심사가 서로 다른 사진 둘을 떼면 쉬고, 그 밖에는 쉬지 않는다', () => {
+  const F = (n) => `https://upload.wikimedia.org/wikipedia/commons/1/17/${n}`;
+  const now = Date.parse('2026-11-08T12:00:00Z');
+  const strip = (at) => ({ verdict: 'MISMATCH', reason: 'hand-reviewed: filename shares only "x" with the event title (audit-event-hero-identity --reject)', at });
+  const row = (n, e) => [`s${SEP}${F(n)}`, e];
+  const recent = '2026-11-07T08:00:00Z';
+  assert.equal(auditStripCooling(Object.fromEntries([row('A.jpg', strip(recent)), row('B.jpg', strip(recent))]), 's', { now }), true);
+  assert.equal(auditStripCooling(Object.fromEntries([row('A.jpg', strip(recent))]), 's', { now }), false, '한 번은 아직');
+  assert.equal(auditStripCooling(Object.fromEntries([row('A_(23685654815).jpg', strip(recent)), row('A_(23317722769).jpg', strip(recent))]), 's', { now }), false, '같은 촬영분은 한 사진');
+  assert.equal(auditStripCooling(Object.fromEntries([row('A.jpg', strip('2026-09-01T00:00:00Z')), row('B.jpg', strip('2026-09-02T00:00:00Z'))]), 's', { now }), false, '30일 지남');
+  assert.equal(auditStripCooling(Object.fromEntries([row('A.jpg', { verdict: 'MISMATCH', reason: 'hand-reviewed: a person looked', at: recent }), row('B.jpg', strip(recent))]), 's', { now }), false, '심사가 뗀 것만 센다');
+  assert.equal(auditStripCooling(Object.fromEntries([row('A.jpg', strip(recent)), row('B.jpg', strip(recent))]), 's', { now, stillWrong: () => false }), false, '지금 규칙으로 맞는 사진은 세지 않는다 — 쾰른');
+  assert.equal(auditStripCooling(null, 's', { now }), false);
 });

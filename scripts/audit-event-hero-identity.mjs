@@ -39,7 +39,8 @@ import { readFileSync, readdirSync, existsSync, writeFileSync, mkdirSync } from 
 import { join } from 'node:path';
 import matter from 'gray-matter';
 import { requireExamined } from './lib/examined.mjs';
-import { fileNamesPerformer, fileShowsPlace } from './lib/event-file-identity.mjs';
+import { fileIdentifiesEvent, titleWordsInFile, geoTokens } from './lib/event-file-identity.mjs';
+import { loadWorld } from './lib/commons-identity.mjs';
 
 // Heroes the patrol took from the performer's own Commons category.
 const PROOF = 'data/performer-category-heroes.json';
@@ -49,21 +50,10 @@ const DIR = 'src/content/posts';
 const BASELINE = 'data/event-hero-identity-reviewed.json';
 const LIST = process.argv.includes('--list');
 
-// Words that say nothing about WHICH event this is. Leaving them in made
-// "World Tour" or "Live Concert" look like evidence of a match.
-const STOP = new Set(['the', 'of', 'in', 'at', 'and', 'an', 'guide', 'travel', 'jpg', 'jpeg',
-  'png', 'file', 'commons', 'wikipedia', 'thumb', 'live', 'concert', 'tour', 'world', 'festival',
-  'tickets', 'dates', 'venue', 'city', 'show', 'music', 'performing', 'during', 'stage', 'know',
-  'what', 'fest']);
-
-// Safe decode: callers pass names that are often ALREADY decoded, and a real
-// "%" left in one — Commons file "TripleS_@%_in_Vancouver.jpg" — made a second
-// decodeURIComponent throw URIError and killed the whole audit, so the publish
-// reported "자동 수리 단계 실패" (2026-10-26).
-const safeDecode = (s) => { try { return decodeURIComponent(s); } catch { return s; } };
-const toks = (s) => safeDecode(String(s))
-  .toLowerCase().replace(/[^a-z0-9]+/g, ' ').split(' ')
-  .filter((t) => t.length > 3 && !STOP.has(t) && !/^\d+$/.test(t));
+// The patrol's place words, for its whole-name test. No world file leaves the
+// hub cities only, which is enough for a run that has nothing to read anyway.
+let GEO = geoTokens();
+try { GEO = geoTokens(await loadWorld()); } catch {}
 
 const reviewed = existsSync(BASELINE) ? JSON.parse(readFileSync(BASELINE, 'utf8')) : {};
 
@@ -114,25 +104,11 @@ for (const f of readdirSync(DIR).filter((f) => f.endsWith('.md'))) {
   let name;
   try { name = decodeURIComponent(rawName); } catch { name = rawName; }
   name = name.replace(/^\d+px-/, '');
-  const fileToks = new Set(toks(name));
-  // Deduplicated: "Hanoi Jazztival 2026 in Hanoi" against Hanoi_traffic.jpg
-  // scored two hits for one word and walked past review.
-  // A long word also matches its own inflection: "Dani Pedrosa MotoGP
-  // Australia 2015" is the Australian Grand Prix (flagged 2026-10-12, the one
-  // right photo among seven). Six letters at least, so "young" never matches
-  // "youngfathers".
-  const same = (t) => fileToks.has(t) || [...fileToks].some((f) => Math.min(f.length, t.length) >= 6 && (f.startsWith(t) || t.startsWith(f)));
-  const hit = [...new Set(toks(title).filter(same))];
-  if (hit.length >= 2) continue;   // the filename names this event; nothing to review
-  // The owner's rule (09-07): any photo of the performer is right for their
-  // post. A file that names the act in full, or one the patrol took from the
-  // act's own Commons category, is that — The Weeknd at Coachella 2012 for
-  // his Hong Kong date was reported here as unreviewed (2026-10-06).
-  if (fileNamesPerformer(url, fm?.eventPerformer?.name)) continue;
+  if (fileIdentifiesEvent(url, fm, GEO)) continue;   // the filename settles it; nothing to review
+  // A photo the patrol took from the act's own Commons category is the act,
+  // whatever it is called ("Sunshine Live - Die 90er …" is Haddaway).
   if (performerProof[slug]?.url === url) continue;
-  // A view of the event's own city or venue is the owner's third tier, not
-  // another event's photo (2026-10-09: most of the 34 daily lines were these).
-  if (fileShowsPlace(url, { region: fm?.region, venue: fm?.eventVenue })) continue;
+  const hit = titleWordsInFile(title, url, { region: fm?.region });
 
   // The baseline stores the full URL. Storing the width-stripped filename made
   // an original Commons file called 800px-Portrait.jpg indistinguishable from a

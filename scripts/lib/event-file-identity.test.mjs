@@ -5,8 +5,8 @@
 //   node scripts/lib/event-file-identity.test.mjs
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { foreignInFilename, geoTokens } from './event-file-identity.mjs';
-import { tokens, keyToken } from './commons.mjs';
+import { foreignInFilename, geoTokens, spelledOutInitials, titleWordsInFile, fileSpellsEventName, fileIdentifiesEvent } from './event-file-identity.mjs';
+import { tokens, keyToken, isCommonAnchor } from './commons.mjs';
 import { readFileSync } from 'node:fs';
 import { eventProperName } from '../../src/lib/eventName.mjs';
 
@@ -321,4 +321,86 @@ test('fileShowsPlace: 도시·행사장 풍경은 통과, 다른 행사·사람 
   assert.equal(fileShowsPlace(C + 'JAY_(ENHYPEN)_220624.jpg', { region: 'London', venue: 'OVO Arena Wembley' }), false);
   assert.equal(fileShowsPlace(C + 'Vladimir_leonov_motogp.jpg', { region: 'Motegi', venue: 'Mobility Resort Motegi' }), false);
   assert.equal(fileShowsPlace(C + 'Some_Arena_2019.jpg', { region: 'Seoul', venue: 'KSPO Arena' }), false, 'a generic venue word alone is not the venue');
+  // 도시의 현지 표기도 그 도시다
+  assert.ok(fileShowsPlace(C + 'Köln_bei_Nacht.jpg', { region: 'Cologne' }));
+  assert.equal(fileShowsPlace(C + 'Köln_bei_Nacht.jpg', { region: 'Munich' }), false);
+});
+
+// ── 2026-11-08 밤 순찰과 낮 심사의 줄다리기 (10-28~11-07, 10편 56회) ──
+// 순찰은 "평범한 앵커 + 잔여 1단어"를 통과시켜 다른 밴드를 붙였고, 심사는 약어·외래
+// 지명·회차를 몰라 맞는 옛 회차를 뗐다. 양쪽을 각자 고치되 심사의 2단어 규칙을 순찰에
+// 복사하지 않는다(그러면 맞는 옛 회차를 순찰이 영영 못 고른다).
+const patrol = (title, region, country, file) => {
+  const name = title.split(':')[0].trim();
+  return foreignInFilename(U(file), {
+    known: new Set([...known(name, region, country), ...spelledOutInitials(name)]),
+    anchor: keyToken(name, `${region} ${country}`), via: 'act', geo: REAL_GEO,
+    name: eventProperName(name), country, region,
+  });
+};
+const LIMA = ['Sound Music Fest: Golden Years Edition: Dates, Tickets & Venue (Lima)', 'Lima', 'Peru'];
+
+test('순찰: 평범한 앵커 앞에 붙은 단어는 그 단어의 주인이다', () => {
+  for (const f of ['Atlas_Sound_in_concert_(23685654815).jpg', 'Primavera_Sound_L.A._(52514076139).jpg', 'The_Warning_at_Sound_of_Music_2022-5.jpg']) {
+    assert.notEqual(patrol(...LIMA, f), '', f);
+  }
+  assert.notEqual(patrol('Young Posse Pilot3 World Tour Barcelona', 'Barcelona', 'Spain', 'Brett_Young_in_concert_2015.jpg'), '');
+  assert.notEqual(patrol('The Cluster 2026', 'Funes', 'Argentina', 'Beehive_Cluster_October_17_2026.jpg'), '', '연도는 뒷받침이 아니다');
+});
+
+test('순찰: 맞는 사진은 2단어 규칙 없이 계속 통과한다', () => {
+  const good = [
+    // 앵커가 앞이고 뒤에 한 단어 — 이 규칙의 원래 대상
+    ['Hong Kong Snooker Master Cup 2026', 'Hong Kong', 'Hong Kong', 'Snooker_on_a_snooker_table.jpg'],
+    // 앵커 앞에 단어가 있어도 행사 이름·도시의 다른 단어가 함께 있다
+    ['Asia Artist Awards (AAA) 2026', 'Kaohsiung', 'Taiwan', 'YoonA_at_Asia_Artist_Awards_on_November_26,_2019.jpg'],
+    ['Rhythm and Vines', 'Gisborne', 'New Zealand', 'Festival-goers_at_the_main_stage_of_Rhythm_&_Vines,_2018.jpg'],
+    ['Jakarta International Marathon (BTN Jakarta Marathon)', 'Jakarta', 'Indonesia', 'Peserta_Jakarta_International_Marathon_2024.jpg'],
+    // 현지 표기·제목이 풀어 쓴 약어·지난 회차 — 심사의 2단어로는 떨어지던 것들
+    ['Cologne Marathon (Carnival Marathon)', 'Cologne', 'Germany', 'Köln_Marathon_2015-10-04_00365_(22430352551).jpg'],
+    ['ROUND Festival (ASEAN-Korea Music Festival)', 'Incheon', 'South Korea', 'AKMF_Round_in_Busan_in_2024.jpg'],
+    ['113th Grey Cup', 'Calgary', 'Canada', '111th_Grey_Cup,_Trophy.jpg'],
+  ];
+  for (const c of good) assert.equal(patrol(...c), '', c[3]);
+});
+
+test('순찰의 오픈버스 티어는 측정된 흔한 단어 판정을 쓴다', () => {
+  const src = readFileSync('scripts/backfill-photos-alt.mjs', 'utf8');
+  assert.doesNotMatch(src, /COMMON_ANCHOR\.test\(anchor\)/);
+  assert.match(src, /!isCommonAnchor\(anchor\)/);
+  assert.equal(isCommonAnchor('sound'), true, '리마의 앵커');
+  assert.equal(isCommonAnchor('coldplay'), false);
+});
+
+test('심사: 맞는 옛 회차는 이름이 달라 보여도 두 단어다', () => {
+  const two = (title, file, region = '') => titleWordsInFile(title, U(file), { region }).length;
+  assert.equal(two('Cologne Marathon (Carnival Marathon): Dates, Tickets & Venue (Cologne)', 'Köln_Marathon_2017-10-01_00015_(37501340381).jpg'), 2, '외래 지명');
+  assert.equal(two('Nuremberg Christkindlesmarkt: What to Know (Nuremberg)', 'Christkindlesmarkt_Nuernberg.jpg'), 2, '독일어 ASCII 표기');
+  assert.equal(two('ROUND Festival (ASEAN-Korea Music Festival): Dates, Tickets & Venue (Incheon)', 'AKMF_Round_Festival_Stage.jpg'), 2, '풀어 쓴 이름의 약어');
+  assert.equal(two('ATP Finals: Dates, Tickets & Venue (London)', 'Doubles_at_the_ATP_Finals_(49070105758).jpg'), 2, '세 글자 대문자 약어');
+  assert.equal(two('113th Grey Cup: Dates, Tickets & Venue (Calgary)', '111th_Grey_Cup,_Trophy.jpg'), 2, '다른 회차');
+  assert.equal(two('11th Da Lat Flower Festival: What to Know (Da Lat)', 'Da_Lat_Flower_Festival_2012_1.JPG', 'Da Lat'), 2, '짧은 단어로 된 도시');
+});
+
+test('심사: 다른 행사는 넓혀도 계속 걸린다', () => {
+  const ok = (title, file, extra = {}) => fileIdentifiesEvent(U(file), { title, ...extra }, REAL_GEO);
+  const lima = LIMA[0];
+  for (const f of ['Atlas_Sound_in_concert_(23685658515).jpg', 'Primavera_Sound_L.A._(52514076139).jpg', 'The_Warning_at_Sound_of_Music_2022-5.jpg']) {
+    assert.equal(ok(lima, f, { region: 'Lima' }), false, f);
+  }
+  assert.equal(ok('República Folklore: Dates (Buenos Aires)', 'Festival_de_las_Flores_2024._Jarabacoa,_República_Dominicana.jpg', { region: 'Buenos Aires' }), false, '단어 하나');
+  assert.equal(ok('Ironman 70.3 Turkey: Dates (Belek)', 'Bart_Aernouts_Ironman_70.3_Austria_2012.jpg', { region: 'Belek' }), false, '같은 브랜드 다른 대회');
+  assert.equal(ok('BWF World Tour Finals: Dates (Hangzhou)', 'TOTAL_BWF_World_Champs_2015_Day_2_Lu_Kai.jpg', { region: 'Hangzhou' }), false, '약어만으로는 부족');
+  assert.equal(ok('ROUND Festival (ASEAN-Korea Music Festival): Dates (Incheon)', "Jean_Pack_performs_at_River_Runs_Round_festival_in_Coughlan's,_Cork.jpg", { region: 'Incheon' }), false, '이름의 꼬리만 같은 아일랜드 행사');
+  assert.equal(ok('Jayavarman VII Festival: Dates (Siem Reap)', 'Jayavarman_VII_High_School.jpg', { region: 'Siem Reap' }), false, '로마 숫자는 약어가 아니다');
+  assert.equal(ok('Maratona di Ragusa: Dates (Ragusa)', 'Maratona_di_Roma_in_2016.01.jpg', { region: 'Ragusa' }), false, '다른 도시의 현지 표기');
+  assert.deepEqual(titleWordsInFile('113th Grey Cup: Dates', U('11th_Street_Fair_Boston.jpg')), [], '번호만 있고 이름이 다르면 회차가 아니다');
+  // 코덱스 재현: 도시 하나를 두 번 세면 도시 사진이 아닌 남의 행사가 두 단어가 된다
+  assert.equal(ok('Airtime Asia 2026: What to Know (Da Nang)', 'Da_Nang_Marathon_2024.jpg', { region: 'Da Nang' }), false, '다낭을 두 번 세지 않는다');
+  assert.equal(ok('11th Da Lat Flower Festival: What to Know (Da Lat)', '10th_Da_Lat_Marathon_2024.jpg', { region: 'Da Lat' }), false, '회차 번호 뒤의 도시는 시리즈가 아니다');
+});
+
+test('심사: 파일이 행사 이름을 통째로 쓰면 순찰처럼 인정한다', () => {
+  assert.equal(fileSpellsEventName(U('.Feast_at_Joyland_Festival,_November_2024.jpg'), 'Joyland Festival: Dates, Tickets & Venue (Jakarta)', REAL_GEO), true);
+  assert.equal(fileSpellsEventName(U('Jean_Pack_at_River_Runs_Round_festival.jpg'), 'ROUND Festival (ASEAN-Korea Music Festival): Dates (Incheon)', REAL_GEO), false);
 });

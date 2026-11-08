@@ -30,7 +30,7 @@ import matter from 'gray-matter';
 import yaml from 'js-yaml';
 import { loadUsedImageUrls, resolveHero, eventTopic } from './lib/images.mjs';
 import { keyToken, tokens } from './lib/commons.mjs';
-import { foreignInFilename, geoTokens } from './lib/event-file-identity.mjs';
+import { foreignInFilename, geoTokens, spelledOutInitials } from './lib/event-file-identity.mjs';
 import { candidateBudget } from './lib/candidate-budget.mjs';
 import { eventProperName } from '../src/lib/eventName.mjs';
 import { venuePhotoCandidates } from './lib/photo-sources.mjs';
@@ -135,6 +135,7 @@ for (const slug of SLUGS) {
       ...tokens(venueName), ...tokens(eventTopic(venueName)),
       ...tokens(data.region || ''), ...tokens(data.country || ''),
       ...tokens(data.eventVenue || ''),
+      ...spelledOutInitials(venueName),
     ]);
     const seen = new Set(used);
     const properName = eventProperName(venueName);

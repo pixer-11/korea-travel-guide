@@ -55,6 +55,11 @@ export function photoIdentity(url) {
  * there on 09-11. Used for HAND rejections only: a person saying "this is a
  * different event" is saying it about the shoot, while an automated verdict
  * ("bad crop", "too dark") is about the one frame it looked at.
+ *
+ * A Flickr import ends in the photo's ID, "(23685654815)", which is the same
+ * thing as a frame counter: five frames of Atlas Sound on the Lima guide counted
+ * as five unrelated pictures and went up one a night (2026-11-04…08). Eight
+ * digits at least, so a year in brackets stays part of the name.
  * @param {string} url
  */
 export function photoFamily(url) {
@@ -62,7 +67,7 @@ export function photoFamily(url) {
   if (!id) return null;
   return id
     .replace(/\.(jpe?g|png|webp|gif|tiff?)$/i, '')
-    .replace(/(?:[ _-]?\(\d{1,3}\)|[ _-]\d{1,3})$/, '')
+    .replace(/(?:[ _-]?\((?:\d{1,3}|\d{8,})\)|[ _-]\d{1,3})$/, '')
     .toLowerCase();
 }
 
@@ -115,6 +120,35 @@ export function isHandRejection(entry) {
   if (!entry || typeof entry !== 'object') return false;
   if (!/MISMATCH/.test(String(entry.verdict ?? ''))) return false;
   return String(entry.reason ?? '').trim().toLowerCase().startsWith(HAND_PREFIX);
+}
+
+const AUDIT_STRIP = /audit-event-hero-identity --reject/;
+const COOLDOWN_MS = 30 * 86400000;
+
+/**
+ * The safety net under the two identity rules. Some events have an endless pool
+ * of near-misses: "Ironman 70.3" is 363 files of other races, and the patrol took
+ * one a night for nine nights while the audit took each off by the afternoon.
+ * After two different pictures in 30 days this guide stops trying that pool, and
+ * the owner's third tier, a photo of the city, fills it instead.
+ *
+ * `stillWrong` asks today's audit rule about each old removal, so a right photo
+ * removed under an older rule does not keep its guide in the cold.
+ * @param {Record<string, any>} store data/visual-audit.json
+ * @param {string} slug
+ * @param {{now?: number, stillWrong?: (url: string) => boolean}} [opts]
+ */
+export function auditStripCooling(store, slug, { now = Date.now(), stillWrong = () => true } = {}) {
+  const prefix = `${slug}${SEP}`;
+  const pictures = new Set();
+  for (const [key, entry] of Object.entries(store ?? {})) {
+    if (!key.startsWith(prefix) || !isHandRejection(entry)) continue;
+    if (!AUDIT_STRIP.test(String(entry.reason ?? ''))) continue;
+    if (!(now - Date.parse(entry.at) < COOLDOWN_MS)) continue;
+    const url = key.slice(prefix.length);
+    if (stillWrong(url)) pictures.add(photoFamily(url) ?? url);
+  }
+  return pictures.size >= 2;
 }
 
 export function identityRejection(store, slug, url, category) {

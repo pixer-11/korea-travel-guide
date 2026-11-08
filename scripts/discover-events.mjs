@@ -37,7 +37,7 @@ import { resolveHero, loadUsedImageUrls, eventTopic } from './lib/images.mjs';
 import { isImageAllowed } from './lib/guardrails.mjs';
 import { verifyHeroImage, verifyGalleryImage, recordHeroVerdict } from './lib/vision-check.mjs';
 import { eventInBodyCandidates, pickFirstPassing } from './lib/inbody-candidates.mjs';
-import { foreignInFilename, geoTokens } from './lib/event-file-identity.mjs';
+import { foreignInFilename, geoTokens, spelledOutInitials } from './lib/event-file-identity.mjs';
 import { loadWorld } from './lib/commons-identity.mjs';
 import { ownCountry } from './lib/country-of-city.mjs';
 import { isPastEvent } from './lib/event-past.mjs';
@@ -330,6 +330,7 @@ async function writeDiscovered(item, ctx) {
   const knownTok = new Set([
     ...nameTokens(item.name), ...nameTokens(eventTopic(item.name)),
     ...nameTokens(item.city || ''), ...nameTokens(country || ''), ...nameTokens(eventVenue),
+    ...spelledOutInitials(item.name),
   ]);
   const anchor = cat === 'event' ? keyToken(item.name, `${item.city || ''} ${country || ''}`) : '';
   let hero = null;
