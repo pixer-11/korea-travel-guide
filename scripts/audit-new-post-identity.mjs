@@ -18,12 +18,17 @@
 //    node scripts/audit-new-post-identity.mjs --slugs=a,b    # named posts
 //    node scripts/audit-new-post-identity.mjs               # every live post (slow: Commons calls)
 // ─────────────────────────────────────────────────────────────
-import { readdirSync, readFileSync } from 'node:fs';
+import { existsSync, readdirSync, readFileSync } from 'node:fs';
 import { execSync } from 'node:child_process';
 import matter from 'gray-matter';
 import { commonsTitle, fetchCommonsMeta, judgeIdentity, judgeFoursquareCredit, loadWorld } from './lib/commons-identity.mjs';
 import { archiveYearProblem } from './lib/commons.mjs';
 import { heroTierReason, fileNamesTheEvent } from './lib/event-hero-tier.mjs';
+import { isPerformerPhoto } from './lib/event-file-identity.mjs';
+
+// Heroes taken from a Commons category: a performer's, or an event's past editions.
+const PROOF = 'data/performer-category-heroes.json';
+const categoryProof = existsSync(PROOF) ? JSON.parse(readFileSync(PROOF, 'utf8')) : {};
 
 const DIR = 'src/content/posts';
 const since = (process.argv.find((a) => a.startsWith('--since=')) || '').slice(8);
@@ -102,9 +107,15 @@ for (const f of files) {
     // 2026 dance-tour guide is Le Corbusier's building, which has not changed,
     // and the owner's 2026-09-11 rule puts a city photo there on purpose when no
     // photo of the act exists. The excuse is withdrawn the moment the filename
-    // names the act itself, which is the real defect (lib/event-hero-tier.mjs).
+    // names the event itself (lib/event-hero-tier.mjs).
     const cityTier = Boolean(heroTierReason(hero.url, data)) && !fileNamesTheEvent(hero.url, data);
-    if (a && !recurring && !cityTier) say('ARCHIVE-PHOTO', f, `이벤트 대표사진이 ${a.replace('archive-', '')}년 사진`);
+    // A photo of the named performer is excused at any age: "any photo of that
+    // singer or band" is the owner's rule (2026-09-07, 10-06), and the patrol
+    // answered this hold by fitting another old photo of the same act, 12 to 75
+    // minutes later, on six of ten guides. Only with a performer: the proof file
+    // also holds event-category finds, and those are what the 15-year rule is for.
+    const performerPhoto = isPerformerPhoto(hero.url, data.eventPerformer?.name, categoryProof[f.replace(/\.md$/, '')]);
+    if (a && !recurring && !cityTier && !performerPhoto) say('ARCHIVE-PHOTO', f, `이벤트 대표사진이 ${a.replace('archive-', '')}년 사진`);
   }
 
   // 4) Commons: ask the uploader where this photo is. Queue for batch fetch.

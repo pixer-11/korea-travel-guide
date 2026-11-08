@@ -105,7 +105,9 @@ export function heroTierReason(url, data, covers = {}) {
  * today. "Quick_Style_Chandigarh_2006.jpg" would be a photograph of the act
  * twenty years before the night being written about, which is exactly the
  * defect the rule was built for (a 1986 paddock photo on the 2026 Misano
- * MotoGP page, owner 2026-08-15).
+ * MotoGP page, owner 2026-08-15). A guide with a named performer is the
+ * exception, decided separately: any photo of that act will do (2026-10-06,
+ * isPerformerPhoto in event-file-identity).
  *
  * City and venue words are removed first, or every third-tier city photo would
  * "name the event" through the city it shares its name with.

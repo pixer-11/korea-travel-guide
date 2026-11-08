@@ -280,6 +280,15 @@ export function fileNamesPerformer(url, performer, { singleWord = true } = {}) {
   return long.length >= 2 && contiguous(long, words.filter((t) => t.length > 2 && t !== 'and'));
 }
 
+// Is this hero the performer's own picture, by either proof we accept: the file
+// names the act, or the patrol took it from the act's Commons category and wrote
+// that down (Westlife2, Big_Bang and 소지섭 files never spell the act as we do).
+// No performer, no answer: the proof file also records event-category finds.
+export function isPerformerPhoto(url, performer, proof) {
+  if (!performer) return false;
+  return proof?.url === url || fileNamesPerformer(url, performer);
+}
+
 // Returns '' when the file is identity-safe, otherwise the leftover words that
 // make it some other thing's photo (for the log).
 // `geo`: place-name tokens (the site's countries and regions plus the hub
