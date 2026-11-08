@@ -16,6 +16,11 @@ jobs:
   audit:
     runs-on: ubuntu-latest
     steps:
+      # For batchWaitMin: repair-prose runs after the audit and has to know how
+      # much of the job's six hours is left before it waits for a batch (2026-11-09).
+      - name: Note the job start
+        run: echo "JOB_T0=$(date +%s)" >> "$GITHUB_ENV"
+
       # Full history for the punctuality audit (`git log -G` dates each cron
       # line; a shallow clone makes every schedule look brand new and samples
       # nothing — 2026-09-09 review).

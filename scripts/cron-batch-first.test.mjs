@@ -85,3 +85,8 @@ test('repair-prose picks its batch from the same rows, stopping at the same limi
   // The one job that copies its replies into a map of its own: a third place the key could part.
   assert.ok(src.includes('firsts.set(id, msg)'), 'repair-prose no longer files a reply under the id it came back with');
 });
+
+test('repair-prose waits for its batch on the clock of the whole job, since it runs after the audit', () => {
+  assert.match(read('scripts/repair-prose.mjs'), /const waitMin = batchWaitMin\(60\);/);
+  assert.match(read('.github/workflows/full-audit.yml'), /JOB_T0=\$\(date \+%s\)/, 'without JOB_T0 batchWaitMin grants the whole cap');
+});

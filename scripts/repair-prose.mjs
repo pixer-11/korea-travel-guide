@@ -31,7 +31,7 @@ import { srcHashOfPostFile } from './lib/src-hash.mjs';
 import { paragraphDiff, recordRepair, pruneRecords, loadRecords, saveRecords, cleanRepairOutput } from './lib/prose-patch.mjs';
 import { recordBacksQuote } from './lib/record-claim.mjs';
 import { isStableBackground } from './lib/stable-background.mjs';
-import { runBatch } from './lib/claude-batch.mjs';
+import { runBatch, batchWaitMin } from './lib/claude-batch.mjs';
 
 const POSTS = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
 const AUDIT = fileURLToPath(new URL('../data/full-audit.json', import.meta.url));
@@ -183,7 +183,11 @@ if (!DRY) {
     const c = await candidate(row);
     if (c) asks.push({ id: row.slug, params: repairParams(c.body.trim(), c.live, c.fm.title) });
   }
-  for (const [id, msg] of await runBatch(client, asks, { waitMin: 60 })) firsts.set(id, msg);
+  // The audit step before this one can already have spent most of the job: a
+  // slow batch and 400 audits reach minute 291, and a 60+30-minute wait here
+  // would hit GitHub's 360 before anything is committed (Codex, 11-09).
+  const waitMin = batchWaitMin(60);
+  if (waitMin > 0) for (const [id, msg] of await runBatch(client, asks, { waitMin })) firsts.set(id, msg);
 }
 
 let done = 0, skipped = 0, failed = 0;
