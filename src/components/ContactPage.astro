@@ -376,4 +376,6 @@ const bodyOf = (k: Kind) => k.fields.filter(Boolean).map((f) => `${f}\n\n`).join
     .ct-sos .ct-btn { grid-column: 1 / -1; justify-self: start; }
     .ct-panel { padding: 16px; }
   }
+  /* Phone text floor: 12px, the rule in global.css (08-22); these labels were born outside its list (11-08). */
+  @media (max-width: 760px) { .ct-arch small, .ct-tag { font-size: 0.78rem; } }
 </style>

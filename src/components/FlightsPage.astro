@@ -738,4 +738,6 @@ const jsonLd = {
     .fl-next { grid-template-columns: repeat(2, minmax(0, 1fr)); }
     .fl-strip { grid-template-columns: repeat(6, minmax(0, 1fr)); }
   }
+  /* Phone text floor: 12px, the rule in global.css (08-22); these labels were born outside its list (11-08). */
+  @media (max-width: 760px) { .fl-chip-city small, .fl-pill, .fl-strip a, .fl-tile .aff { font-size: 0.78rem; } }
 </style>

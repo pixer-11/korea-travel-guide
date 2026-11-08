@@ -713,4 +713,6 @@ const clientData = JSON.stringify({
     .ck-item { padding: .45rem .8rem; }
     .ck-band a { text-decoration: none; }
   }
+  /* Phone text floor: 12px, the rule in global.css (08-22); these labels were born outside its list (11-08). */
+  @media (max-width: 760px) { .ck-cal-grid :global(.ck-cal-wd) { font-size: 0.78rem; } }
 </style>

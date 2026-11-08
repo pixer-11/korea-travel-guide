@@ -410,4 +410,6 @@ const pageAbs = (p: string) => new URL(localizePath(p, lang), Astro.site ?? 'htt
     .mt-cells { gap: 2px; }
     .mt-cells i { height: 24px; }
   }
+  /* Phone text floor: 12px, the rule in global.css (08-22); these labels were born outside its list (11-08). */
+  @media (max-width: 760px) { .mt-glance small, .mt-glance em, .mt-axis, .mt-photo small { font-size: 0.78rem; } .mt-photo small { white-space: normal; } } /* at 12px the one-line credit would cut off its licence */
 </style>

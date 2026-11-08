@@ -237,4 +237,6 @@ const tones = ['is-green', 'is-green', 'is-peach', 'is-cream'];
     .lg-sec { padding: 16px; }
     .lg-toc { display: none; }
   }
+  /* Phone text floor: 12px, the rule in global.css (08-22); these labels were born outside its list (11-08). */
+  @media (max-width: 760px) { .lg-fold summary em, .lg-chips span { font-size: 0.78rem; } }
 </style>

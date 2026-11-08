@@ -640,4 +640,6 @@ const jsonLd = {
     .es-rule { border-radius: var(--r-md); align-items: flex-start; }
     .es-bar small { display: none; }
   }
+  /* Phone text floor: 12px, the rule in global.css (08-22); these labels were born outside its list (11-08). */
+  @media (max-width: 760px) { .es-badge, .es-pick-tag, .es-opt li i, .es-opt li small, .es-tag, .es-dial small, .es-cta .es-disc, .es-disc, .es-bar small { font-size: 0.78rem; } }
 </style>

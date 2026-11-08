@@ -1922,7 +1922,14 @@ main:focus { outline: none; }
   .topbar-fact,
   .crowd-demo-lab,
   .crowd-panel-head span,
-  .crowd-legend { font-size: 0.78rem; } /* the legend ran 11.2px, missed here until 11-03 */
+  .crowd-legend,
+  /* Guide labels and captions, 10.9-11.8px until 11-08: nothing measured this floor, so
+     they were never on the list. Rules in a sheet loaded later go there, not here (post-layout.css). */
+  .eyebrow, .badge, .bz-embed-code, .quick-answer .qa-label, .gallery figcaption, .nearby-label, .related-nav-k,
+  .typeset--card .typeset-wordmark, .typeset--card .typeset-kicker,
+  .fact-box h4, .fact-box h2, .fact .k, .fact-box .hours > summary, .fact-box .bz-title,
+  .fact-box .bz-day, .fact-box .bz-scale, .fact-box .bz-legend, .fact-box .bz-credit,
+  .region-facts .k, .dest-ribbon, .itin-hub-card-badge, .map-attr, .nav-trip-n { font-size: 0.78rem; } /* the legend ran 11.2px, missed here until 11-03 */
   .site-footer nav { gap: 0.25rem 1rem; }
   .site-footer nav a { display: inline-block; padding: 0.65rem 0.2rem; min-height: 44px; line-height: 1.3; }
   .site-footer .footer-social a { display: inline-block; padding: 0.6rem 0.3rem; }

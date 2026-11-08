@@ -650,4 +650,8 @@ const metaDesc = blurb ? clip(blurb) : countryLabel;
     .dh-event-name { align-self: end; }
     .dh-event-city { grid-column: 2; align-self: start; text-align: left; max-width: none; }
   }
+  /* Phone text floor: 12px, the rule in global.css (08-22); these labels were born outside its list (11-08). */
+  @media (max-width: 760px) { .dh-credit, .dh-mo b, .dh-itin-badge, .dh-date span, .dh-guide-meta { font-size: 0.78rem; } }
+  /* Twelve labels at 12px need 139px; the narrowest phones give the strip 104px, so they label every other month. */
+  @media (max-width: 359px) { .dh-months { grid-template-columns: repeat(12, minmax(0, 1fr)); } .dh-mo:nth-child(even) b { visibility: hidden; } }
 </style>

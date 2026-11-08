@@ -685,4 +685,6 @@ const jsonLd = {
     .rg-big-n b { font-size: 1.7rem; }
   }
   @media (max-width: 400px) { .rg-top-grid, .rg-grid { grid-template-columns: minmax(0, 1fr); } }
+  /* Phone text floor: 12px, the rule in global.css (08-22); these labels were born outside its list (11-08). */
+  @media (max-width: 760px) { .rg-conts > p small, .rg-tot small, .rg-card-country, .rg-kids, .rg-kids small, .rg-next-card small, .rg-countries button small, .rg-seg button small { font-size: 0.78rem; } }
 </style>

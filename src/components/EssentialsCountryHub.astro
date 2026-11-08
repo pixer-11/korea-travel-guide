@@ -864,4 +864,6 @@ const cityTone = ['tone-green', 'tone-brown', 'tone-sand'];
     .ess-hol { grid-template-columns: minmax(0, 1fr); }
     .ess-climate { grid-template-columns: repeat(12, 2.6rem); }
   }
+  /* Phone text floor: 12px, the rule in global.css (08-22); these labels were born outside its list (11-08). */
+  @media (max-width: 760px) { .ess-credit, .ess-hol-date small, .ess-visa-stats small { font-size: 0.78rem; } }
 </style>

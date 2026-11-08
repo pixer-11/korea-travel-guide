@@ -1087,4 +1087,6 @@ const CITY_T = {
   .mt-city-acts a:first-child { background: var(--mt-forest); border-color: var(--mt-forest); color: var(--mt-on-dark); }
   .mt-city-x { position: absolute; top: .55rem; right: .55rem; font: inherit; font-size: .74rem; font-weight: 600; border: 0; border-radius: 999px; padding: .3rem .65rem; background: rgba(255, 253, 249, .92); color: #201c17; cursor: pointer; }
   @media print { .mt-cities { break-inside: avoid; } .mt-city-x { display: none; } }
+  /* Phone text floor: 12px, the rule in global.css (08-22); these labels were born outside its list (11-08). */
+  @media (max-width: 760px) { .mt-city-x { font-size: 0.78rem; } }
 </style>

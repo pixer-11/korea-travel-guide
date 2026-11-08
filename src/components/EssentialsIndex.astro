@@ -547,4 +547,6 @@ const jsonLd = {
   .exh-faq details[open] summary span::before { content: '−'; color: #fff; }
   .exh-faq details p { margin: 0 0 1.2rem; line-height: 1.75; color: var(--ink-soft); }
   @media (max-width: 859px) { .exh-faq-grid { grid-template-columns: minmax(0, 1fr); gap: 1rem; } }
+  /* Phone text floor: 12px, the rule in global.css (08-22); these labels were born outside its list (11-08). */
+  @media (max-width: 760px) { .exh-credit { font-size: 0.78rem; } }
 </style>

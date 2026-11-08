@@ -842,4 +842,6 @@ const row = (p: any, withBadge = true) => ({ p, cat: catOf(p), b: withBadge ? ba
   .past-events[open] > summary .kicker::after { content: ' ▴'; }
   .past-events > .ev-rows { margin-top: 1rem; }
   [hidden] { display: none !important; }
+  /* Phone text floor: 12px, the rule in global.css (08-22); these labels were born outside its list (11-08). */
+  @media (max-width: 760px) { .ev-badge-top, .ev-chip-n { font-size: 0.78rem; } }
 </style>

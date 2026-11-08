@@ -1471,5 +1471,7 @@ const cellCls = { q: 'quiet', b: 'busy', m: 'mid', x: 'closed' } as const;
       .bt-axis { margin: 6px calc(4.5em + 8px) 0 calc(6.5em + 8px); }
       .bt-axis span:nth-child(even) { display: none; }
     }
+    /* Phone text floor: 12px, the rule in global.css (08-22); these labels were born outside its list (11-08). */
+    @media (max-width: 760px) { .bt-w-list small, .bt-w-list em, .bt-w-stats span, .bt-glbl, .bt-clocks span, .bt-eve, .bt-cmark, .bt-axis, .bt-badge, .bt-barlab, .bt-pill-b small { font-size: 0.78rem; } .bt-w-stats span { overflow-wrap: anywhere; } } /* Spanish "analizados" is wider than its cell at 12px */
   </style>
 </BaseLayout>

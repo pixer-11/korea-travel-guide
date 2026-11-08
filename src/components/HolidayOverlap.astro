@@ -186,4 +186,6 @@ const jsonLd = {
   .ho-notes p { margin: 0 0 0.8rem; font-size: 0.92rem; color: var(--ink-soft); line-height: 1.6; }
   .ho-dl { display: flex; flex-wrap: wrap; gap: 0.6rem; margin-top: 1rem !important; }
   .ho-next { margin: 1.25rem 0 0; }
+  /* Phone text floor: 12px, the rule in global.css (08-22); these labels were born outside its list (11-08). */
+  @media (max-width: 760px) { .ho-table thead th, .ho-now-tag { font-size: 0.78rem; } }
 </style>

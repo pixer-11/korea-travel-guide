@@ -1187,6 +1187,8 @@ const coverImage = mosaic[0]?.src;
   .itin-page.is-rain .itin-rain { outline: 2px solid var(--pine); box-shadow: 0 8px 24px rgba(40, 60, 20, .18); }
   .itin-page.is-rain .itin-stop[data-cats*='nature'] { opacity: .55; }
   .itin-page .faq details { border-radius: 20px; background: var(--x-card); border: 1px solid var(--line-soft); padding: .2rem 1.1rem; margin-bottom: .5rem; }
+  /* Phone text floor: 12px, the rule in global.css (08-22); these labels were born outside its list (11-08). */
+  @media (max-width: 760px) { .ith-stay .tp-disclosure, .itin-slot-badge { font-size: 0.78rem; } }
 </style>
 
 <script>

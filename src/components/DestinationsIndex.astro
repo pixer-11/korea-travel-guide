@@ -452,4 +452,6 @@ const [titleA, titleB] = (() => {
     .dx-widget { padding: 18px; }
     .dx-w-faces { display: none; }
   }
+  /* Phone text floor: 12px, the rule in global.css (08-22); these labels were born outside its list (11-08). */
+  @media (max-width: 760px) { .dx-stats small, .dx-seg button small, .dx-themes button small { font-size: 0.78rem; } }
 </style>

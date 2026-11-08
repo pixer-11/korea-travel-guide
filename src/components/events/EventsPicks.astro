@@ -176,4 +176,6 @@ const view = picks.map((p, i) => {
     .evp-grid > * { scroll-snap-align: start; }
     .evp-photo img { aspect-ratio: 16 / 9; }
   }
+  /* Phone text floor: 12px, the rule in global.css (08-22); these labels were born outside its list (11-08). */
+  @media (max-width: 760px) { .evp-credit { font-size: 0.78rem; } }
 </style>

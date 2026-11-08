@@ -417,4 +417,6 @@ const namesItsRegion = (label: string, region?: string | null) => {
     .b-harsh { background: #8c3f16; color: #ffe6d5; border-color: #a5522a; }
     .chip.is-cur { outline-color: #f2ece1; }
   }
+  /* Phone text floor: 12px, the rule in global.css (08-22); these labels were born outside its list (11-08). */
+  @media (max-width: 760px) { .hero-stats dt, .chip .hi { font-size: 0.78rem; } }
 </style>
