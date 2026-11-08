@@ -1141,8 +1141,9 @@ const coverImage = mosaic[0]?.src;
   /* Two columns */
   .ith-layout { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 20rem); gap: 2rem; align-items: start; }
   .ith-main { min-width: 0; }
-  .ith-side { position: sticky; top: 4.5rem; display: grid; gap: .9rem; }
-  @media (max-width: 959px) { .ith-layout { grid-template-columns: minmax(0, 1fr); } .ith-side { position: static; } }
+  /* Starts under the sticky Day bar (65-128px) and stops at the fold, like .post-side: at 850-1,650px the column ran past a laptop screen, so the share row and on some courses the stay button could only be reached at the end of the page (11-08). */
+  .ith-side { position: sticky; top: 8.25rem; max-height: calc(100vh - 8.75rem); overflow-y: auto; scrollbar-width: thin; display: grid; gap: .9rem; }
+  @media (max-width: 959px) { .ith-layout { grid-template-columns: minmax(0, 1fr); } .ith-side { position: static; max-height: none; overflow: visible; } }
   .ith-card { border-radius: 24px; padding: 1.2rem 1.2rem 1.1rem; background: var(--x-card); border: 1px solid var(--line-soft); }
   .ith-stay { background: var(--x-leaf); border-color: transparent; }
   .ith-card-title { display: block; font-size: .95rem; color: var(--ink); }
@@ -1167,7 +1168,7 @@ const coverImage = mosaic[0]?.src;
   .ith-btn--dark:hover { background: var(--x-forest); filter: brightness(1.07); }
   .ith-stay .tp-disclosure { margin: .6rem 0 0; font-size: .72rem; color: var(--x-leaf-sub); }
   .ith-side-actions { display: grid; gap: .5rem; }
-  .ith-side .itin-share { margin: 0; }
+  .ith-side .itin-share, .ith-side .itin-share :global(.share) { margin: 0; }
 
   /* Day heading, stops, legs */
   .itin-page .itin-day-title { font-family: var(--font-display); font-size: clamp(1.4rem, 3vw, 1.75rem); }

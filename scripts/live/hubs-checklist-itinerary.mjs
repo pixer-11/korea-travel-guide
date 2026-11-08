@@ -181,6 +181,29 @@ async function collectLinks(p) {
   await collectLinks(p); await p.close();
 }
 
+// ── 6b. The sticky side column fits a laptop screen ──
+// It ran 850-1,650px tall at 1280x800 and its top 56px sat under the Day bar:
+// the share row, and on Barcelona the stay button, could only be reached at
+// the end of the page (11-08).
+for (const path of ['/itinerary/tokyo-3-days/', '/itinerary/barcelona-3-days/']) {
+  const { p, status } = await open(path, 1280);
+  await p.setViewportSize({ width: 1280, height: 800 });
+  const r = await p.evaluate(async () => {
+    const side = document.querySelector('.ith-side'), bar = document.querySelector('.itin-day-nav'), layout = document.querySelector('.ith-layout');
+    scrollTo({ top: layout.getBoundingClientRect().top + scrollY + 900, behavior: 'instant' });
+    await new Promise((d) => setTimeout(d, 200));
+    const box = side.getBoundingClientRect();
+    const out = { top: box.top, bottom: box.bottom, bar: bar.getBoundingClientRect().bottom, vh: innerHeight };
+    side.scrollTop = side.scrollHeight;
+    await new Promise((d) => setTimeout(d, 100));
+    const last = [...side.querySelectorAll('.share-btn')].filter((x) => x.checkVisibility()).at(-1);
+    out.lastShare = last ? last.getBoundingClientRect().bottom : Infinity;
+    return out;
+  });
+  ok(`itin side ${path}: under the Day bar, ends on screen, share row reachable`, status === 200 && r.top >= r.bar && r.bottom <= r.vh && r.lastShare <= r.vh, JSON.stringify(r));
+  await p.close();
+}
+
 // ── 7. Mobile smoke: every redesigned page at 390px ──
 for (const path of ['/ko/events/', '/ko/essentials/', '/ko/essentials/vietnam/', '/ko/free/trip-checklist/', '/ko/itinerary/', '/ko/itinerary/tokyo-5-days/', '/ja/itinerary/barcelona-3-days/']) {
   const { p, status, errs } = await open(path, 390);
