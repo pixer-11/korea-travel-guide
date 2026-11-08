@@ -5,7 +5,7 @@ country: Uzbekistan
 region: Tashkent
 category: event
 pubDate: '2026-10-08'
-eventStartDate: '2026-10-08'
+eventStartDate: '2025-12-08'
 eventEndDate: '2026-06-09'
 eventRecurring: false
 eventVenue: Tashkent City Mall

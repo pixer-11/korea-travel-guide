@@ -377,6 +377,12 @@ export function postProblems(p, { today = new Date().toISOString().slice(0, 10),
   // An event with no machine-readable start date can't sort, expire, or emit Event
   // schema — the date is usually sitting in the prose.
   if (p.category === 'event' && !p.eventStart) issues.push(`EVENT missing eventStartDate: ${p.f}`);
+  // tashkent-van-gogh ran "October 8 – June 9" for a month: the discovery step
+  // gave its publish day as the start. It printed on five language pages and in
+  // the events hub, and went out as Event schema (2026-11-08).
+  if (p.category === 'event' && p.eventStart && p.eventEnd && isoDay(p.eventEnd) < isoDay(p.eventStart)) {
+    issues.push(`EVENT-DATES-REVERSED (ends before it starts): ${p.f}`);
+  }
   // /methodology promises every venue guide is a place rated 4.0 or better;
   // the generator enforces it at selection (lib/guardrails.mjs MIN_RATING) and
   // the gate quarantines a newcomer that slips under. Nothing re-read the

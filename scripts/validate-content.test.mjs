@@ -6,6 +6,7 @@
 // "절대 걸리면 안 되는 것(FP)"을 쌍으로 고정한다.
 //
 //   node scripts/validate-content.test.mjs
+import { readFileSync } from 'node:fs';
 import { postProblems, parsePost, photoVerificationProblems, stubBodyProblems, STUB_BODY_FLOOR, parseFailures, translationDisclosureProblems } from './validate-content.mjs';
 
 // 아무 규칙에도 걸리지 않는 건강한 글. 모든 케이스는 여기서 한 필드만 바꾼다 —
@@ -53,6 +54,13 @@ const flags = (name, tag, over) => cases.push([name, () => {
 
 // ── 기준: 건강한 글은 조용해야 한다 ──────────────────────────
 clean('baseline post is clean', {});
+
+// ── 끝나는 날이 시작일보다 앞 (tashkent-van-gogh, 11-08) ─────────
+const eventDates = (eventStart, eventEnd) => run({ category: 'event', eventStart, eventEnd });
+flags('an event that ends before it starts', 'EVENT-DATES-REVERSED', { category: 'event', eventStart: '2026-10-08', eventEnd: '2026-06-09' });
+flags('the same when YAML parsed an unquoted date', 'EVENT-DATES-REVERSED', { category: 'event', eventStart: new Date('2026-10-08'), eventEnd: '2026-06-09' });
+cases.push(['a later end or a one-day event is fine', () => (has(eventDates('2026-06-09', '2026-10-08'), 'EVENT-DATES-REVERSED') || has(eventDates('2026-06-09', '2026-06-09'), 'EVENT-DATES-REVERSED') ? 'flagged a valid range' : null)]);
+cases.push(['the gate holds a post for it', () => (/EVENT-DATES-REVERSED/.test(readFileSync(new URL('./gate-new-posts.mjs', import.meta.url), 'utf8')) ? null : 'a code the gate list does not name never holds a post')]);
 
 // ── 잘린 description (2026-08-01에 825건 수리한 결함) ────────
 clean('description ending in a quote is complete', { description: 'They call it "the quiet quarter."' });
