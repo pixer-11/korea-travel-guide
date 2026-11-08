@@ -18,7 +18,7 @@ import { readFile, writeFile } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { completeToolInput } from './lib/tool-spill.mjs';
-import { fixPunctuation } from './fix-cjk-punctuation.mjs';
+import { fixPunctuation } from './lib/cjk-punctuation.mjs';
 
 const COUNTRIES = fileURLToPath(new URL('../data/countries.json', import.meta.url));
 const OUT = fileURLToPath(new URL('../src/i18n/country-blurbs.json', import.meta.url));

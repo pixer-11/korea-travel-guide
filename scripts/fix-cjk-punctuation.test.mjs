@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { fixPunctuation } from './fix-cjk-punctuation.mjs';
+import { fixPunctuation } from './lib/cjk-punctuation.mjs';
 
 const fix = (s, marks) => fixPunctuation(s, marks).text;
 
