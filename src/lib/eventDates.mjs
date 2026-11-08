@@ -12,6 +12,21 @@ export function fmtEventRange(start, end, locale = 'en') {
   return `${f.format(s)} – ${f.format(e)}`;
 }
 
+// "October 3 – 4, 2026": the long form an event guide states itself. monthOnly
+// stops at "February 2027" for events that only have a month (isMonthOnlyEvent).
+export function fmtEventLong(start, end, locale = 'en', monthOnly = false) {
+  try {
+    const fmt = new Intl.DateTimeFormat(locale, { year: 'numeric', month: 'long', ...(monthOnly ? {} : { day: 'numeric' }), timeZone: 'UTC' });
+    const s = new Date(start), e = new Date(end || start);
+    const range = fmt.formatRange(s, e);
+    // ICU writes a ja/zh RANGE numerically ("2026/10/03～2026/10/04") even
+    // when asked for the long month; join two long dates instead.
+    if (!/\//.test(range)) return range;
+    const a = fmt.format(s), b = fmt.format(e);
+    return a === b ? a : `${a}${locale.startsWith('zh') ? '至' : '～'}${b}`;
+  } catch { return ''; }
+}
+
 const MONTHS = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
 
 // Does the text name the 1st of this month: "December 1", "Dec. 1st", "1 December",
