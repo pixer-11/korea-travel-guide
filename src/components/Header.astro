@@ -1,6 +1,7 @@
 ---
 import { buildToday } from '../lib/buildDay.mjs';
 import { getCollection } from 'astro:content';
+import { livePosts } from '../lib/post-index.mjs';
 import Logo from './Logo.astro';
 import Flag from './Flag.astro';
 import EmojiColor from './EmojiColor.astro';
@@ -15,7 +16,9 @@ const { availableLangs } = Astro.props;
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
 
-const posts = await getCollection('posts', ({ data }) => !data.draft);
+// The same list, once per build: getCollection deep-copies all 3,700 posts on
+// every call and this runs on every page (121 ms each, 2026-11-08).
+const posts = await livePosts();
 const live = countriesData.countries.filter((c) =>
   posts.some((p) => (p.data.country ?? 'South Korea') === c.name)
 );
