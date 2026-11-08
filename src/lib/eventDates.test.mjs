@@ -58,6 +58,42 @@ test('a real first-of-month date keeps its day', () => {
   assert.equal(isMonthOnlyEvent('2026-09-01', '2026-09-03', 'Sept 1 is the opening night'), false);
 });
 
+test('the writer\'s own day lists count: weekdays, commas, "the"', () => {
+  assert.equal(isMonthOnlyEvent('2026-11-01', '2026-11-02', 'Primavera runs on Saturday 1 and Sunday 2 November 2026.'), false);
+  assert.equal(isMonthOnlyEvent('2027-01-01', '2027-01-03', 'Three nights, from Friday 1 to Sunday 3 January 2027.'), false);
+  assert.equal(isMonthOnlyEvent('2026-12-01', '2026-12-06', 'The 2026 edition runs from Tuesday 1 to Sunday 6 December.'), false);
+  assert.equal(isMonthOnlyEvent('2026-11-01', '2026-11-03', 'The run covers Sunday 1, Monday 2 and Tuesday 3 November 2026.'), false);
+  assert.equal(isMonthOnlyEvent('2026-12-01', '2026-12-03', 'On 1, 2 and 3 December the square fills up.'), false);
+  for (const said of ['on 1, 2 and 3 December', 'on 1, 2, and 3 December', 'on 1, 2 & 3 December', 'Sat 1 and Sun 2 December', 'Fri. 1 – Sun. 3 Dec', 'Saturday, 1 and Sunday, 2 December', 'Sunday 1st and Monday 2nd December', '1st to the 6th of December', '1st, 2nd and 3rd of December', '1st and the 2nd of December', '1st through to the 6th December', 'Monday the 1st and Tuesday the 2nd of December', 'Tuesday 1 December', 'Tuesday 1 and on Wednesday 2 December', 'Tuesday 1 through to Sunday 6 December', 'Tue 1 and Weds 2 December']) {
+    assert.equal(isMonthOnlyEvent('2026-12-01', '2026-12-06', `Doors open ${said}.`), false, said);
+  }
+});
+
+test('a long run of numbers cannot stall the check', () => {
+  for (const repeated of ['1, ', 'Sunday 1, ', '1st, ']) {
+    const started = performance.now();
+    assert.equal(isMonthOnlyEvent('2026-12-01', '2026-12-06', repeated.repeat(100_000)), true);
+    assert.ok(performance.now() - started < 3000, `the day-list repeat must stay capped: ${repeated}`);
+  }
+});
+
+test('a day list only counts when it starts on the 1st and reaches this month', () => {
+  for (const said of [
+    'Saturday 14 and Sunday 15 December', 'Saturday 11 and Sunday 12 December', 'Friday 10 to Sunday 12 December',
+    '2, 3 and 4 December', '21, 22 and 23 December', 'Sunday 2 December',
+    // Numbered things beside a date are not a date list.
+    'Day 1: Sunday 2 December', 'Gate 1 opens Sunday 2 December', 'Stage 1. Sunday 2 December',
+    'session 1, Wednesday 2 December', 'Gate 1, Sunday 2 December', 'Day 1, 2 December', 'Terminal 1 and Sunday 2 December',
+    'session 1, 2 and 3 December', 'at Gate 1 and on 2 December', 'bus 1 to the 6 December concert', 'Terminal 1 through to 6 December',
+    // Right list, wrong month.
+    'Sunday 1 and Monday 2 November', '1, 2 and 3 January',
+    // A list that stops before any month says nothing.
+    '1, 2 and 3 of the best shows in December',
+  ]) {
+    assert.equal(isMonthOnlyEvent('2026-12-01', '2026-12-06', `Doors open ${said}.`), true, said);
+  }
+});
+
 test('a date that only looks like the 1st does not count, and other days are never month-only', () => {
   for (const said of ['December 10', 'December 15, 2026', '11 December', '21 Dec', 'November 1', '2026-12-10']) {
     assert.equal(isMonthOnlyEvent('2026-12-01', '2026-12-06', `Doors open ${said}.`), true, said);
