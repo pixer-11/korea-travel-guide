@@ -1,8 +1,11 @@
 Places 예산: backfill 몫 25회 (오늘 사용 0/100)
-Priority: 309 itinerary stop(s) queued first
-  – purmamarca-cerro-de-los-siete-colores.md: nothing new (resting 60d)
-  – purmamarca-purmamarca-jujuy.md: nothing new (resting 60d)
-  – qingdao-zhanshan-temple.md: nothing new (resting 60d)
-  – quebec-city-fairmont-le-chateau-frontenac.md: nothing new (resting 60d)
+Priority: 313 itinerary stop(s) queued first
+  – jurong-jurong-lake-gardens.md: nothing new (resting 60d)
+  – little-india-tekka-centre.md: nothing new (resting 60d)
+  – kochi-fort-kochi-beach.md: nothing new (resting 60d)
+  – rishikesh-lakshman-jhula.md: nothing new (resting 60d)
+  – verona-castel-san-pietro.md: nothing new (resting 60d)
+  – xi-an-fortifications-of-xi-an.md: nothing new (resting 60d)
+  – yeosu-keunkkeut-lighthouse.md: nothing new (resting 60d)
 
-BACKFILL RESULT: updated 0, backlog-updated 0, already-complete 1662, no-new-data 851, no-place 1251, closed-quarantined 0, quota-429 0, api-error 0, api-calls 4, remaining-askable 0 (APPLIED).
+BACKFILL RESULT: updated 0, backlog-updated 0, already-complete 1672, no-new-data 851, no-place 1253, closed-quarantined 0, quota-429 0, api-error 0, api-calls 7, remaining-askable 0 (APPLIED).
