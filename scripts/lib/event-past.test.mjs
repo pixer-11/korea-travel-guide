@@ -1,7 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
-import { isPastEvent, isOverAtVenue, endsTooSoon } from './event-past.mjs';
+import { isPastEvent, isOverAtVenue, endsTooSoon, todaySentence } from './event-past.mjs';
 
 const T = '2026-10-08';
 test('the four 10-08 strays are past', () => {
@@ -102,4 +102,16 @@ test('discovery asks both venue-date gates before anything is written', () => {
   assert.ok(plan.includes('isOverAtVenue(item, country)'), 'the over-at-venue gate left planDiscovered');
   assert.ok(plan.includes('endsTooSoon(item, country)'), 'the too-soon gate left planDiscovered');
   assert.ok(!src.includes('isPastEvent('), 'discovery went back to the UTC check');
+});
+
+test('the search is told the date of the run', () => {
+  assert.ok(todaySentence(at('2026-11-05T23:40:00Z')).includes('Today is 2026-11-05;'));
+  assert.ok(todaySentence(at('2026-11-06T00:10:00Z')).includes('Today is 2026-11-06;'));
+});
+
+test('the event search prompt carries that line and the gates stay behind it', () => {
+  const src = readFileSync(new URL('../discover-events.mjs', import.meta.url), 'utf8');
+  const prompt = src.slice(src.indexOf('const eventsPrompt ='), src.indexOf('const discoverHotspots ='));
+  assert.ok(prompt.includes('todaySentence()'), 'the prompt no longer says what day it is');
+  assert.ok(src.includes("name: 'web_search', max_uses: 4"), 'the date line must not change how much a search may spend');
 });

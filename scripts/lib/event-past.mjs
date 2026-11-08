@@ -9,6 +9,10 @@ import { venueTimeZone } from '../../src/lib/venue-tz.mjs';
 
 const ISO = /^\d{4}-\d{2}-\d{2}$/;
 
+/** The one line that tells the search what day it is. The gates below still decide. */
+export const todaySentence = (now = new Date()) =>
+  `Today is ${now.toISOString().slice(0, 10)}; an event whose last day is before today is over, so do not return it. `;
+
 const lastDay = (item) => (ISO.test(String(item?.endDate ?? '')) ? item.endDate
   : ISO.test(String(item?.startDate ?? '')) ? item.startDate : '');
 

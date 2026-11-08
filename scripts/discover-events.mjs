@@ -40,7 +40,7 @@ import { eventInBodyCandidates, pickFirstPassing } from './lib/inbody-candidates
 import { foreignInFilename, geoTokens, spelledOutInitials } from './lib/event-file-identity.mjs';
 import { loadWorld } from './lib/commons-identity.mjs';
 import { ownCountry } from './lib/country-of-city.mjs';
-import { isOverAtVenue, endsTooSoon } from './lib/event-past.mjs';
+import { isOverAtVenue, endsTooSoon, todaySentence } from './lib/event-past.mjs';
 import { learnVenueZone } from './lib/province-tz.mjs';
 
 // Place-name tokens for the filename identity audit (a past host city in a
@@ -149,6 +149,11 @@ const eventsPrompt = (country) => (
     // toward events with a big East Asian following; the count is unchanged.
     `Give priority to events that draw fans from China, Japan, Korea, Taiwan and Hong Kong: tours by Asian pop acts (K-pop, J-pop, Mandopop/C-pop), and international sports with a large East Asian following (tennis, snooker, Formula 1, MotoGP, badminton, table tennis, chess, esports, big-city marathons). ` +
     `Only REAL, CONFIRMED, upcoming events with a known date and city. ` +
+    // The search had no clock. Of 581 candidates logged over four runs, 132 had
+    // already ended, over a third of those by three months or more (Australia on
+    // 11-05: all eight). Each one burns a slot of the list. It is a request, not
+    // a gate: planDiscovered still judges every date.
+    todaySentence() +
     // The Bangkok F4 lesson (2026-08-07): the official branding was "F✦FOREVER
     // 1st World Tour" but every live search query said "f4 concert bangkok" —
     // the page ranked 4-6 with 0 clicks because the searched-for name appeared
