@@ -150,6 +150,8 @@ test('돈: 통화가 숫자 앞에 와도 막는다 ("USD 20" · "50 AED")', () 
     'Entry costs 20 USD for adults visiting the palace and its walled gardens.',
     'Entry costs 50 AED for adults visiting the palace and its walled gardens.',
     'Entry costs 300 baht for adults visiting the palace and its walled gardens.',
+    'Entry costs EGP 700 for adults visiting the palace and its walled gardens.',
+    'Entry costs 5000 ARS for adults visiting the palace and its walled gardens.',
   ]) assert.equal(openingHook({ quickAnswer: q }), null, q);
   // 시간·거리 숫자는 막지 않는다
   assert.ok(openingHook({ quickAnswer: 'A 30 minute walk from the station brings you to the main gate of the old town.' }));

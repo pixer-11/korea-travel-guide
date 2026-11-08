@@ -196,6 +196,20 @@ flags('an aged lira price', 'STALE-PRICE-CLAIM', { pubDate: '2025-01-01', body: 
 flags('an aged ISO-coded price written after the number', 'STALE-PRICE-CLAIM', { pubDate: '2025-01-01', body: 'Expect 300 THB for the set menu.' });
 // "TRY" 는 영어 동사이기도 하다. 대소문자를 구분하지 않으면 모든 맛집 글이 걸린다.
 clean('the verb "try" before a number is not a price', { pubDate: '2024-01-01', body: 'Try 2 dishes and share them.' });
+// 11-09: 이집트 통화가 세 검사 어디에도 없었다. 코드는 앞에 적든 뒤에 적든 잡는다.
+flags('an aged EGP price after the number', 'STALE-PRICE-CLAIM', { pubDate: '2025-01-01', body: 'Admission is 700 EGP.' });
+flags('an aged EGP price before the number', 'STALE-PRICE-CLAIM', { pubDate: '2025-01-01', body: 'Tickets cost EGP 700.' });
+flags('an aged price in Egyptian pounds', 'STALE-PRICE-CLAIM', { pubDate: '2025-01-01', body: 'Budget about 700 Egyptian pounds.' });
+flags('an aged price in bare pounds', 'STALE-PRICE-CLAIM', { pubDate: '2025-01-01', body: 'Budget about 700 pounds.' });
+flags('an aged price in LE', 'STALE-PRICE-CLAIM', { pubDate: '2025-01-01', body: 'Entry is LE 200 per person.' });
+flags('an aged Argentine price', 'STALE-PRICE-CLAIM', { pubDate: '2025-01-01', body: 'Budget ARS 5,000 for lunch.' });
+flags('an aged Peruvian price', 'STALE-PRICE-CLAIM', { pubDate: '2025-01-01', body: 'Entry is S/ 20 at the gate.' });
+flags('an aged price in soles', 'STALE-PRICE-CLAIM', { pubDate: '2025-01-01', body: 'Entry is 20 soles at the gate.' });
+flags('an aged Georgian price', 'STALE-PRICE-CLAIM', { pubDate: '2025-01-01', body: 'Entry is ₾10 at the gate.' });
+flags('an aged Mexican price', 'STALE-PRICE-CLAIM', { pubDate: '2025-01-01', body: 'Tacos run 80 MXN.' });
+clean('lowercase pen and gel are not currencies', { pubDate: '2024-01-01', body: 'Bring a pen 2 days ahead and hair gel 3 times over.' });
+clean('a year before LE SSERAFIM is not a price', { pubDate: '2024-01-01', body: 'The 2026 LE SSERAFIM tour stops here.' });
+clean('the Madrid metro station Sol is not a sol', { pubDate: '2024-01-01', body: 'Take Line 1 Sol to the square.' });
 
 // ── 낡은 "새로 문 열었다" 주장 ───────────────────────────────
 clean('a fresh newness claim is fine', { pubDate: '2026-06-01', body: 'This newly opened cafe sits by the river.' });

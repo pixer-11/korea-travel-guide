@@ -21,6 +21,7 @@
 // Nothing here may invent a fact; money amounts are refused outright (the
 // 2026-09-20 fabricated-price class stays out of Pinterest too).
 import { quietWindowSummaryWithinHours } from './quiet-window.mjs';
+import { CURRENCY_CODES } from './money-claim.mjs';
 // NOTE: the itineraries' closedDaysOf() is deliberately NOT used here. It is
 // forgiving by design (a line it cannot read is simply not closed), which is
 // right for a page that can be rebuilt and wrong for a pin that cannot.
@@ -54,7 +55,7 @@ const SYMBOL = String.raw`[$€£¥₩฿₫₹]`;
 // English words: a lowercase "try", "won", "cad" or "rub" is a verb, not money.
 // Blocking "Try 3 walking routes" is not a safe failure — it costs a good hook
 // for nothing (Codex, second pass 2026-09-21).
-const CODE = 'USD|EUR|GBP|JPY|KRW|THB|VND|IDR|PHP|MYR|SGD|HKD|TWD|CNY|RMB|INR|AED|SAR|AUD|NZD|CAD|CHF|TRY|RUB';
+const CODE = [...new Set([...CURRENCY_CODES, 'SAR', 'RUB'])].join('|');
 // Spelled-out currencies, minus the ones that are also ordinary words or place
 // names: "23 Yuan Lin Lu" is Lion Grove Garden's street address, not a price,
 // and "won" is a verb. Both currencies still get caught as ¥/₩/CNY/KRW.

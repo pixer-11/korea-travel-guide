@@ -8,6 +8,7 @@
 //   node --test scripts/lib/section-guards.test.mjs
 import test from 'node:test';
 import assert from 'node:assert/strict';
+import { readFileSync } from 'node:fs';
 import { metaTextIn, unsupportedNumbers, currencyNumbersIn, commercialSources, proseProblems, unsupportedNames, stripLeadingMeta } from './section-guards.mjs';
 
 test('metaTextIn catches the leak actually published in commit f48b2afd', () => {
@@ -184,7 +185,32 @@ const COUNTRY_CURRENCY_CASES = [
   ['Philippines', 'A locker costs ₱100 per day.', 'Lockers: ₱100 per day.', '100'],
   ['Uzbekistan', 'A locker costs 12,000 som per day.', 'Lockers: 12,000 som per day.', '12000'],
   ['Cambodia', 'A locker costs 4,000 riel per day.', 'Lockers: 4,000 riel per day.', '4000'],
+  // 2026-11-09: the countries added after round 3, and Egypt's own notations.
+  ['Australia', 'A locker costs AUD 12 per day.', 'Lockers: AUD 12 per day.', '12'],
+  ['United Kingdom', 'A locker costs £6 per day.', 'Lockers: £6 per day.', '6'],
+  ['Germany', 'A locker costs €5 per day.', 'Lockers: €5 per day.', '5'],
+  ['Mexico', 'A locker costs MXN 80 per day.', 'Lockers: MXN 80 per day.', '80'],
+  ['Macau', 'A locker costs MOP 40 per day.', 'Lockers: MOP 40 per day.', '40'],
+  ['Mongolia', 'A locker costs ₮5,000 per day.', 'Lockers: ₮5,000 per day.', '5000'],
+  ['Georgia', 'A locker costs ₾10 per day.', 'Lockers: ₾10 per day.', '10'],
+  ['Georgia', 'A locker costs GEL 10 per day.', 'Lockers: GEL 10 per day.', '10'],
+  ['New Zealand', 'A locker costs NZD 12 per day.', 'Lockers: NZD 12 per day.', '12'],
+  ['Canada', 'A locker costs CAD 12 per day.', 'Lockers: CAD 12 per day.', '12'],
+  ['Peru', 'A locker costs S/ 20 per day.', 'Lockers: S/ 20 per day.', '20'],
+  ['Peru', 'A locker costs PEN 20 per day.', 'Lockers: PEN 20 per day.', '20'],
+  ['Argentina', 'A locker costs ARS 5,000 per day.', 'Lockers: ARS 5,000 per day.', '5000'],
+  ['Egypt', 'A locker costs 100 EGP per day.', 'Lockers: 100 EGP per day.', '100'],
+  ['Egypt', 'A locker costs EGP 100 per day.', 'Price (EGP): 100 per day.', '100'],
+  ['Egypt', 'A locker costs 100 Egyptian pounds per day.', 'Lockers: 100 Egyptian pounds per day.', '100'],
+  ['Egypt', 'A locker costs 100 pounds per day.', 'Lockers: 100 pounds per day.', '100'],
+  ['Egypt', 'A locker costs LE 100 per day.', 'Lockers: LE 100 per day.', '100'],
 ];
+
+test('every country the site publishes has a row in this table', () => {
+  const { countries } = JSON.parse(readFileSync('data/countries.json', 'utf8'));
+  const covered = new Set(COUNTRY_CURRENCY_CASES.map(([country]) => country));
+  for (const { name } of countries) assert.ok(covered.has(name), `${name}: add one realistic local price to COUNTRY_CURRENCY_CASES`);
+});
 
 // The reviewer's postal-code/bus-route style page: full of digits, no
 // currency marker anywhere, so the strict rule must reject every figure
@@ -203,7 +229,7 @@ test('unsupportedNumbers passes a realistic price for every active country ' +
   }
 });
 
-test('unsupportedNumbers flags the same 20 prices when the source does not ' +
+test('unsupportedNumbers flags the same prices when the source does not ' +
      'state the figure near a currency marker (postal-code/bus-route page)', () => {
   for (const [country, draft, , digits] of COUNTRY_CURRENCY_CASES) {
     const bad = unsupportedNumbers(draft, [farSourceFor(digits)]);
@@ -215,6 +241,21 @@ test('currencyNumbersIn false-positive guards: "Rome" and "the RM went missing" 
      'yield no currency figures', () => {
   assert.deepEqual(currencyNumbersIn('Rome is lovely'), []);
   assert.deepEqual(currencyNumbersIn('the RM went missing'), []);
+});
+
+// Codes that are English words count only beside a digit, and even then only
+// when no letter continues the word. A weight is not on this list's mind: the
+// loose rule still applies to it, and 2026 is a year whatever follows it.
+test('currencyNumbersIn false-positive guards: pens, gel, mops, "LE SSERAFIM"', () => {
+  assert.deepEqual(currencyNumbersIn('Bring a pen and some hair gel.'), []);
+  assert.deepEqual(currencyNumbersIn('Pack 3 pens and a mop.'), []);
+  assert.deepEqual(currencyNumbersIn('Ask at gate A for the Ars Electronica shuttle.'), []);
+  assert.deepEqual(unsupportedNumbers('Open from 2026 LE SSERAFIM week.', ['nothing here']), []);
+});
+
+test('unsupportedNumbers: the bus-100 page no longer vouches for a price in EGP', () => {
+  assert.deepEqual(unsupportedNumbers('A locker costs 100 EGP per day.', ['Take bus route 100']), ['100']);
+  assert.deepEqual(unsupportedNumbers('A locker costs 100 AED per day.', ['Take bus route 100']), ['100']);
 });
 
 // ─── commercialSources / proseProblems ───────────────────────────────────

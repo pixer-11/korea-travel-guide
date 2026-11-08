@@ -23,6 +23,7 @@ import { topicKey, FILLER } from './lib/topic-key.mjs';
 import { liveTwinOf, noteLive } from './lib/live-twin.mjs';
 import { readFrontmatter } from './lib/frontmatter-edit.mjs';
 import { TITLE_CONNECTORS } from './lib/titles.mjs';
+import { CURRENCY_WORDS, CURRENCY_ADJECTIVES, CODED_AMOUNT_PATTERN } from './lib/money-claim.mjs';
 import { eventKey, isEventTwin } from './lib/event-twin.mjs';
 import { identityRejection } from './lib/photo-verdict.mjs';
 import { clampBusynessHours } from '../src/lib/hours.mjs';
@@ -91,12 +92,13 @@ const PRICE_FREE = /\b(free (entry|admission|to enter|of charge)|admission is fr
 // invisible to this rule, so an AED/₹/元/₺ figure could age forever without
 // being flagged (found 2026-08-06) — the check was off in exactly the places
 // where a stated price is least likely to hold.
-const PRICE_SYMBOL = /(?:₩|\$|US\$|€|£|¥|฿|RM|₱|₫|₹|₺|Rp|S\$|HK\$|NT\$|A\$|C\$|元|圓)\s?\d[\d,.]*/i;
-const PRICE_WORD = /\b\d[\d,.]*\s?(?:won|baht|yen|yuan|euros?|dollars?|pesos?|ringgit|rupiah|rupees?|dong|dirhams?|liras?)\b/i;
+const PRICE_SYMBOL = /(?:₩|\$|US\$|€|£|¥|฿|RM|₱|₫|₹|₺|₾|₮|៛|Rp|S\$|HK\$|NT\$|A\$|C\$|元|圓)\s?\d[\d,.]*/i;
+const PRICE_WORD = new RegExp(String.raw`\b\d[\d,.]*\s?(?:(?:${CURRENCY_ADJECTIVES.join('|')})\s+)?(?:${CURRENCY_WORDS.join('|')})\b`, 'i');
 // ISO codes are matched CASE-SENSITIVELY on purpose: "TRY" is also the English
 // verb, and /i would flag "try 2 dishes" as a price claim in every food guide
 // on the site. Both orders occur in the corpus ("AED 50" and "50 AED").
-const PRICE_ISO = /\b(?:KRW|JPY|USD|THB|EUR|GBP|CNY|RMB|VND|AED|TWD|IDR|MYR|INR|PHP|TRY|SGD|HKD|AUD|CAD|CHF)\s?\d[\d,.]*|\b\d[\d,.]*\s?(?:KRW|JPY|USD|THB|EUR|GBP|CNY|RMB|VND|AED|TWD|IDR|MYR|INR|PHP|TRY|SGD|HKD|AUD|CAD|CHF)\b/;
+// The code list lives in lib/money-claim.mjs, shared with the other two checks.
+const PRICE_ISO = new RegExp(CODED_AMOUNT_PATTERN);
 // First matching claim, in the order the rules are declared. Exported shape is
 // a string or undefined so the caller can quote what it found.
 const priceClaim = (body) =>

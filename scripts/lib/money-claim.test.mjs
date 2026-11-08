@@ -103,3 +103,77 @@ test('a restaurant bill is a price; a "$5 bill" banknote is not', async () => {
   assert.ok(moneyClaims('Expect a bill in the ¥5,000–7,000 range per person.').length > 0);
   assert.deepEqual(moneyClaims('The museum shows the old $5 bill that went out of print.'), []);
 });
+
+// ── 11-09: 통화 표기를 세 검사가 제각각 들고 있었다 ───────────────
+// 이집트를 넣은 날 EGP 는 세 곳 어디에도 없었고 ARS·PEN·GEL 도 마찬가지였다. 나라 표를
+// 여기 둔 까닭: 새 나라를 넣으면 이 표가 먼저 실패해서 통화 코드를 등록하게 만든다.
+const COUNTRY_CURRENCY = {
+  'South Korea': 'KRW', Japan: 'JPY', 'United States': 'USD', Thailand: 'THB', France: 'EUR',
+  Italy: 'EUR', China: 'CNY', Spain: 'EUR', Vietnam: 'VND', 'United Arab Emirates': 'AED',
+  Taiwan: 'TWD', Indonesia: 'IDR', Malaysia: 'MYR', India: 'INR', Philippines: 'PHP',
+  Turkey: 'TRY', Singapore: 'SGD', 'Hong Kong': 'HKD', Uzbekistan: 'UZS', Cambodia: 'KHR',
+  Australia: 'AUD', 'United Kingdom': 'GBP', Germany: 'EUR', Mexico: 'MXN', Macau: 'MOP',
+  Mongolia: 'MNT', Georgia: 'GEL', 'New Zealand': 'NZD', Canada: 'CAD', Peru: 'PEN',
+  Argentina: 'ARS', Egypt: 'EGP',
+};
+
+test('글을 내는 나라마다 통화 코드가 등록돼 있다', async () => {
+  const { readFileSync } = await import('node:fs');
+  const { CURRENCY_CODES } = await import('./money-claim.mjs');
+  const { countries } = JSON.parse(readFileSync('data/countries.json', 'utf8'));
+  for (const { name } of countries) {
+    assert.ok(COUNTRY_CURRENCY[name], `${name}: 이 표에 통화 코드를 넣고 money-claim.mjs 의 CURRENCY_CODES 도 확인할 것`);
+    assert.ok(CURRENCY_CODES.includes(COUNTRY_CURRENCY[name]), `${name}: ${COUNTRY_CURRENCY[name]} 이(가) CURRENCY_CODES 에 없다`);
+  }
+});
+
+test('모든 나라의 코드를 숫자 앞에 적든 뒤에 적든 잡는다', () => {
+  for (const code of new Set(Object.values(COUNTRY_CURRENCY))) {
+    assert.equal(moneyClaims(`Tickets cost ${code} 700 at the gate`).length, 1, `${code} 앞`);
+    assert.equal(moneyClaims(`Admission is 700 ${code} at the gate`).length, 1, `${code} 뒤`);
+    assert.equal(moneyClaims(`Admission is ${code}700 at the gate`).length, 1, `${code} 붙여 씀`);
+  }
+});
+
+test('실제로 샌 앞표기와 RMB 앞표기를 잡는다', () => {
+  // deira-abra-dubai, ras-al-khaimah-m14-cafe 의 진짜 문장.
+  assert.equal(moneyClaims('runs 24 hours and costs a token AED 1 fare, taking five minutes').length, 1);
+  assert.equal(moneyClaims('mid-priced (roughly AED 20-45 per item) and best visited').length, 1);
+  assert.equal(moneyClaims('a set lunch is RMB 50 per person').length, 1);
+});
+
+test('이집트식 표기를 전부 잡는다', () => {
+  for (const c of [
+    'Admission is 700 EGP', 'Tickets cost EGP 700', 'about 700 Egyptian pounds', '700 pounds at the gate',
+    'E£700 at the gate', 'Entry is LE 200 per person', 'Entry is L.E. 200', 'costs 200 LE per person', 'costs 200 LE.',
+  ]) assert.equal(moneyClaims(c).length, 1, c);
+});
+
+test('나라 형용사가 끼거나 그 나라 기호·낱말로 적어도 잡는다', () => {
+  for (const c of [
+    '500 Turkish lira per person', '2,000 Argentine pesos', '50 Malaysian ringgit', '20 US dollars',
+    '35 yuan a bowl', '30 soles', '10 lari', '5,000 tugrik', '20 patacas', '4,000 riels',
+    '₹200', '₺150', '₱100', '₾10', '₮5,000', '៛4,000', 'S/ 20', 'S/.20', 'RM 12', 'Rs 500', '150 TL', 'TL 150',
+  ]) assert.equal(moneyClaims(`Expect ${c} at the door`).length, 1, c);
+});
+
+test('한 금액은 한 건으로 센다', () => {
+  assert.equal(moneyClaims('Expect 300 THB for the set menu').length, 1);
+  assert.equal(moneyClaims('Expect $300 USD for the set menu').length, 1);
+});
+
+test('역방향: 돈이 아닌 것은 넓어진 규칙에도 걸리지 않는다', () => {
+  for (const c of [
+    // 소문자 코드는 영어 낱말이다.
+    'Try 2 dishes and share them.', 'I would try 5 times', 'bring a pen 2 days ahead', 'two pens 5 years old',
+    'hair gel 3 times', 'a mop 2 feet wide',
+    // 그룹 이름 앞의 연도는 금액이 아니다(공연 글의 진짜 문장).
+    "The 2026 LE SSERAFIM Tour 'PUREFLOW' in Macau", 'The date is Friday 16 October 2026. LE SSERAFIM bring their tour',
+    'On October 21, 2026, LE SSERAFIM brought their tour',
+    // 병음 주소와 지폐.
+    'The temple sits at 23 Yuan Lin Lu in Gusu District', 'The garden sits at 60 Yuan Ching Rd on the western edge',
+    'printed on the back of the 20 yuan banknote', 'the old EGP 20 note',
+    // 금액 없는 통화 언급, 그리고 마드리드 지하철 Sol.
+    'The EGP is the local currency', 'Take Line 1 Sol to the square', 'order 2 som tam to share',
+  ]) assert.deepEqual(moneyClaims(c), [], c);
+});
