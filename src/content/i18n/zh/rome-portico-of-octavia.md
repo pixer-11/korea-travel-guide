@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: rome-portico-of-octavia
-srcHash: '8bac721638d5'
+srcHash: 'c6c176a65129'
 title: 屋大维亚门廊：罗马旅行指南（4.7★）
-description: 屋大维亚门廊坐落在罗马犹太隔都的入口处，位于屋大维亚门廊街（Via del Portico d'Ottavia），距离阿根廷广场（Largo di Torre Argentina）和马采罗剧场都只有几步之遥。4.7★（2,860条点评）——看看游客怎么说，附开放时间与实用建议。
+description: 屋大维亚门廊坐落在罗马犹太隔都的入口处，位于屋大维亚门廊街（Via del Portico d'Ottavia），距离阿根廷广场（Largo di Torre Argentina）和马采罗剧场都只有几步之遥。4.7★（2,903条点评）——看看游客怎么说，附开放时间与实用建议。
 quickAnswer: 屋大维亚门廊坐落在罗马犹太隔都的入口处，位于屋大维亚门廊街（Via del Portico d'Ottavia），距离阿根廷广场（Largo di Torre Argentina）和马采罗剧场都只有几步之遥。这是一处露天遗迹，全天任何时间都能参观。工作日早上7点到8点、周末早上7点到10点人最少，而周末中午12点到晚上10点则是最好避开的时段。
 faq:
   - q: 什么时候来屋大维亚门廊人最少？

@@ -1,34 +1,44 @@
 ---
 title: Luna in Rome
-description: Luna is a 2025 specialty coffee-and-brunch spot near Piazza Barberini, opened by the team behind Faro and Aliena Coffee Roasters, pairing a serious espresso program with an in-house bakery and a playful space-themed menu.
+description: >-
+  Luna is a 2025 specialty coffee-and-brunch spot near Piazza Barberini, opened
+  by the team behind Faro and Aliena Coffee Roasters, pairing a serious espresso
+  program with an in-house bakery and a playful space-themed menu.
 country: Italy
 region: Rome
 category: trendy
 pubDate: '2026-07-23'
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/523294167__gLJXZj4xnor1WzGXvJZcHp1b3RtXbQ8U3u-WFI3UcY.jpg"
-    credit: "Photo: Foursquare user content (Luna By Faro - Caffè Specialty / Brunch & Lunch)"
-    license: "foursquare"
-    source: "https://foursquare.com/v/6813a0bbfd67646c8a674eae"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/523294167__gLJXZj4xnor1WzGXvJZcHp1b3RtXbQ8U3u-WFI3UcY.jpg
+    credit: >-
+      Photo: Foursquare user content (Luna By Faro - Caffè Specialty / Brunch &
+      Lunch)
+    license: foursquare
+    source: 'https://foursquare.com/v/6813a0bbfd67646c8a674eae'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/14124065_Xdx1YDZ9MomSxP7GOHmARcC4TXfn0p4LlUgZS8DSPrw.jpg
-  credit: 'Photo: Foursquare user content (Luna By Faro - Caffè Specialty / Brunch & Lunch)'
+  url: >-
+    https://fastly.4sqi.net/img/general/original/14124065_Xdx1YDZ9MomSxP7GOHmARcC4TXfn0p4LlUgZS8DSPrw.jpg
+  credit: >-
+    Photo: Foursquare user content (Luna By Faro - Caffè Specialty / Brunch &
+    Lunch)
   license: foursquare
-  source: https://foursquare.com/v/6813a0bbfd67646c8a674eae
+  source: 'https://foursquare.com/v/6813a0bbfd67646c8a674eae'
   focus:
     x: 25
-    y: 35
+    'y': 35
 place:
   id: ChIJaz0BeQBhLxMRHy7J8z89YRI
   name: LUNA by Faro - Caffè Specialty
-  address: Via delle Quattro Fontane, 175, 00184 Roma RM, Italy
+  address: 'Via delle Quattro Fontane, 175, 00184 Roma RM, Italy'
   rating: 4.5
-  userRatingsTotal: 988
-  googleMapsUrl: https://maps.google.com/?cid=1324407110305918495&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 1205
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1324407110305918495&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 41.9031972
   lng: 12.4884338
-  phone: '+39 06 4559 5900'
+  phone: +39 06 4559 5900
   openingHours:
     - 'Monday: 8:00 AM – 4:00 PM'
     - 'Tuesday: 8:00 AM – 4:00 PM'
@@ -37,23 +47,45 @@ place:
     - 'Friday: 8:00 AM – 4:00 PM'
     - 'Saturday: 8:00 AM – 5:00 PM'
     - 'Sunday: 8:00 AM – 5:00 PM'
+  priceLevel: 2
 tags:
   - rome
   - new & trending
-quickAnswer: Luna is a 2025 specialty coffee-and-brunch spot near Piazza Barberini, opened by the team behind Faro and Aliena Coffee Roasters, pairing a serious espresso program with an in-house bakery and a playful space-themed menu. It's best treated as a mid-morning or weekend brunch stop while exploring central Rome — arrive without a fixed time slot expectation and confirm current hours before heading over, since new openings adjust schedules often in their first year.
+quickAnswer: >-
+  Luna is a 2025 specialty coffee-and-brunch spot near Piazza Barberini, opened
+  by the team behind Faro and Aliena Coffee Roasters, pairing a serious espresso
+  program with an in-house bakery and a playful space-themed menu. It's best
+  treated as a mid-morning or weekend brunch stop while exploring central Rome —
+  arrive without a fixed time slot expectation and confirm current hours before
+  heading over, since new openings adjust schedules often in their first year.
 faq:
   - q: How do I get to Luna in Rome?
-    a: Take Metro Line A to Barberini station; Luna is near Piazza Barberini, within a 10-15 minute walk of the Trevi Fountain and about 15-20 minutes from the Spanish Steps.
+    a: >-
+      Take Metro Line A to Barberini station; Luna is near Piazza Barberini,
+      within a 10-15 minute walk of the Trevi Fountain and about 15-20 minutes
+      from the Spanish Steps.
   - q: What is Luna known for?
-    a: It's a specialty coffee and all-day brunch spot with an in-house bakery, opened in 2025 by the team behind Faro and Aliena Coffee Roasters, known for quality espresso and a playful space-themed menu.
+    a: >-
+      It's a specialty coffee and all-day brunch spot with an in-house bakery,
+      opened in 2025 by the team behind Faro and Aliena Coffee Roasters, known
+      for quality espresso and a playful space-themed menu.
   - q: Do I need a reservation?
-    a: Reservation policies for new openings can change quickly; check Luna's current booking options online or via phone before visiting, especially for weekend brunch.
+    a: >-
+      Reservation policies for new openings can change quickly; check Luna's
+      current booking options online or via phone before visiting, especially
+      for weekend brunch.
   - q: What's the best time to visit?
-    a: Weekday mid-mornings tend to be quieter; weekends are likely busier given the brunch format, so arrive early or expect a wait.
+    a: >-
+      Weekday mid-mornings tend to be quieter; weekends are likely busier given
+      the brunch format, so arrive early or expect a wait.
   - q: What else is nearby?
-    a: Palazzo Barberini and its Galleria Nazionale d'Arte Antica sit right on the square, and the Trevi Fountain and Villa Borghese gardens are both within easy walking distance.
+    a: >-
+      Palazzo Barberini and its Galleria Nazionale d'Arte Antica sit right on
+      the square, and the Trevi Fountain and Villa Borghese gardens are both
+      within easy walking distance.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-08'
 ---
 
 ## Why Luna stands out

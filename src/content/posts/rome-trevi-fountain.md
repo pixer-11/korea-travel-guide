@@ -1,23 +1,29 @@
 ---
 title: 'Trevi Fountain: Rome Travel Guide (4.7★)'
-description: Trevi Fountain is a free, open-air monument in central Rome that you can visit any time—but go between 9am and 11am (any day of the week) to actually see the rococo stonework instead of the backs of a thousand phones. 4.7★ (516,343 reviews) — what visitors say, hours, and tips.
+description: >-
+  Trevi Fountain is a free, open-air monument in central Rome that you can visit
+  any time—but go between 9am and 11am (any day of the week) to actually see the
+  rococo stonework instead of the backs of a thousand phones. 4.7★ (530,691
+  reviews) — what visitors say, hours, and tips.
 country: Italy
 region: Rome
 category: attraction
 pubDate: '2026-08-03T11:05:56.768Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Trevi_Fountain_-_Roma.jpg/1920px-Trevi_Fountain_-_Roma.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Trevi_Fountain_-_Roma.jpg/1920px-Trevi_Fountain_-_Roma.jpg
   credit: 'Photo: NikonZ7II / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Trevi_Fountain_-_Roma.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Trevi_Fountain_-_Roma.jpg'
 gallery: []
 place:
   id: ChIJ1UCDJ1NgLxMRtrsCzOHxdvY
   name: Trevi Fountain
-  address: Piazza di Trevi, 00187 Roma RM, Italy
+  address: 'Piazza di Trevi, 00187 Roma RM, Italy'
   rating: 4.7
-  userRatingsTotal: 516343
-  googleMapsUrl: https://maps.google.com/?cid=17759648132674796470&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 530691
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=17759648132674796470&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 41.900932499999996
   lng: 12.483312999999999
@@ -50,20 +56,42 @@ place:
 tags:
   - rome
   - Trevi Fountain
-quickAnswer: Trevi Fountain is a free, open-air monument in central Rome that you can visit any time—but go between 9am and 11am (any day of the week) to actually see the rococo stonework instead of the backs of a thousand phones. It's a 15-minute stop for the classic coin-toss photo, or an hour if you linger over gelato and the surrounding lanes. Note that on Mondays and Fridays it doesn't open until 11:30am, so an early visit those two days means arriving right at that later start.
+quickAnswer: >-
+  Trevi Fountain is a free, open-air monument in central Rome that you can visit
+  any time—but go between 9am and 11am (any day of the week) to actually see the
+  rococo stonework instead of the backs of a thousand phones. It's a 15-minute
+  stop for the classic coin-toss photo, or an hour if you linger over gelato and
+  the surrounding lanes. Note that on Mondays and Fridays it doesn't open until
+  11:30am, so an early visit those two days means arriving right at that later
+  start.
 faq:
   - q: Is there an entrance fee for Trevi Fountain?
-    a: No — it's a public piazza with free, open access at all hours it's listed as open; there's no ticket or admission charge.
+    a: >-
+      No — it's a public piazza with free, open access at all hours it's listed
+      as open; there's no ticket or admission charge.
   - q: What's the quietest time to visit?
-    a: Between 9am and 11am, on both weekdays and weekends, based on typical foot-traffic — you'll get real space at the railing rather than a wall of phones.
+    a: >-
+      Between 9am and 11am, on both weekdays and weekends, based on typical
+      foot-traffic — you'll get real space at the railing rather than a wall of
+      phones.
   - q: How do I get there by metro?
-    a: Take Line A to Barberini station, then walk about 10 minutes downhill, or use Spanish Steps station (also Line A) and walk through the shopping streets.
+    a: >-
+      Take Line A to Barberini station, then walk about 10 minutes downhill, or
+      use Spanish Steps station (also Line A) and walk through the shopping
+      streets.
   - q: How long should I spend at the fountain?
-    a: 15 minutes covers the classic photo and coin toss; budget closer to an hour if you want to study the sculptures, grab gelato nearby, or wait out a crowd.
+    a: >-
+      15 minutes covers the classic photo and coin toss; budget closer to an
+      hour if you want to study the sculptures, grab gelato nearby, or wait out
+      a crowd.
   - q: What time does Trevi Fountain open?
-    a: Most days it's open 9am–10pm, but on Mondays and Fridays it doesn't open until 11:30am — factor that in if you're planning an early visit those two days.
+    a: >-
+      Most days it's open 9am–10pm, but on Mondays and Fridays it doesn't open
+      until 11:30am — factor that in if you're planning an early visit those two
+      days.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-08'
 ---
 
 ## Why go

@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: berlin-dussmann-das-kulturkaufhaus
-srcHash: '61cf9dffa8c7'
+srcHash: '8b39b1d12848'
 title: 杜斯曼文化百货（Dussmann das KulturKaufhaus）：柏林旅行指南（4.8★）
-description: 杜斯曼文化百货（Dussmann das KulturKaufhaus）位于柏林米特区弗里德里希大街90号（Friedrichstraße 90），共有好几层，专卖图书、音乐和影视，从弗里德里希大街站（S+U Friedrichstraße）步行几分钟即到。评分4.8★（22,925条评价），本文汇总游客评价、营业时间和实用贴士。
+description: 杜斯曼文化百货（Dussmann das KulturKaufhaus）位于柏林米特区弗里德里希大街90号（Friedrichstraße 90），共有好几层，专卖图书、音乐和影视，从弗里德里希大街站（S+U Friedrichstraße）步行几分钟即到。评分4.8★（22,930条评价），本文汇总游客评价、营业时间和实用贴士。
 quickAnswer: 杜斯曼文化百货（Dussmann das KulturKaufhaus）坐落在柏林米特区弗里德里希大街90号（Friedrichstraße 90），共有好几层，专卖图书、音乐和影视，从弗里德里希大街站（S+U Friedrichstraße）步行几分钟即到。目前周一至周五营业到午夜，工作日上午9点到10点人最少。周末上午11点到晚上9点通常是高峰，最好避开。
 faq:
   - q: 什么时候去杜斯曼文化百货人最少？

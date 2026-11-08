@@ -1,47 +1,74 @@
 ---
-title: "Triveni Ghat: Rishikesh Travel Guide (4.6★)"
-description: "Triveni Ghat is Rishikesh's main bathing and cremation-free ghat on the Ganges, best known for its nightly Ganga Aarti fire ceremony at dusk. 4.6★ (62,144 reviews) — what visitors say, hours, and tips."
-country: "India"
-region: "Rishikesh"
-category: "hidden-gem"
-pubDate: "2026-08-12T09:44:43.293Z"
+title: 'Triveni Ghat: Rishikesh Travel Guide (4.6★)'
+description: >-
+  Triveni Ghat is Rishikesh's main bathing and cremation-free ghat on the
+  Ganges, best known for its nightly Ganga Aarti fire ceremony at dusk. 4.6★
+  (63,241 reviews) — what visitors say, hours, and tips.
+country: India
+region: Rishikesh
+category: hidden-gem
+pubDate: '2026-08-12T09:44:43.293Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Ganga_Arti_At_Triveni_Ghat_In_Rishikesh.jpg/3840px-Ganga_Arti_At_Triveni_Ghat_In_Rishikesh.jpg"
-  credit: "Photo: Bhuvi Uniyal / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Ganga_Arti_At_Triveni_Ghat_In_Rishikesh.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Ganga_Arti_At_Triveni_Ghat_In_Rishikesh.jpg/3840px-Ganga_Arti_At_Triveni_Ghat_In_Rishikesh.jpg
+  credit: 'Photo: Bhuvi Uniyal / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Ganga_Arti_At_Triveni_Ghat_In_Rishikesh.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Triveni_Ghat%2C_Rishikesh.jpg/3840px-Triveni_Ghat%2C_Rishikesh.jpg"
-    credit: "Photo: Puranastudy / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Triveni_Ghat,_Rishikesh.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Triveni_Ghat%2C_Rishikesh.jpg/3840px-Triveni_Ghat%2C_Rishikesh.jpg
+    credit: 'Photo: Puranastudy / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Triveni_Ghat,_Rishikesh.jpg'
 place:
-  id: "ChIJJ6F4g8Y9CTkRywQ8V2Rjtls"
-  name: "Triveni Ghat"
-  address: "Triveni Ghat, Mayakund, Rishikesh, Uttarakhand 249201, India"
+  id: ChIJJ6F4g8Y9CTkRywQ8V2Rjtls
+  name: Triveni Ghat
+  address: 'Triveni Ghat, Mayakund, Rishikesh, Uttarakhand 249201, India'
   rating: 4.6
-  userRatingsTotal: 62144
-  googleMapsUrl: "https://maps.google.com/?cid=6608578785824212171&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 63241
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6608578785824212171&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 30.103734399999997
   lng: 78.2993218
 tags:
-  - "rishikesh"
-  - "hidden gem"
-quickAnswer: "Triveni Ghat is Rishikesh's main bathing and cremation-free ghat on the Ganges, best known for its nightly Ganga Aarti fire ceremony at dusk. It's a well-visited, non-secret spot — go early morning (around sunrise) for a quiet dip and darshan, or arrive well before the aarti bell to claim ghat-side steps rather than the back rows."
+  - rishikesh
+  - hidden gem
+quickAnswer: >-
+  Triveni Ghat is Rishikesh's main bathing and cremation-free ghat on the
+  Ganges, best known for its nightly Ganga Aarti fire ceremony at dusk. It's a
+  well-visited, non-secret spot — go early morning (around sunrise) for a quiet
+  dip and darshan, or arrive well before the aarti bell to claim ghat-side steps
+  rather than the back rows.
 faq:
-  - q: "Is there an entry fee for Triveni Ghat or the Ganga Aarti?"
-    a: "No ticket is required to visit the ghat or watch the aarti. Priests accept voluntary cash donations, and small extras like diyas or puja items cost only a few rupees."
-  - q: "What time is the Ganga Aarti at Triveni Ghat?"
-    a: "It's held daily around sunset, so the exact time shifts with the season — roughly 6pm in winter and closer to 7pm in summer. Ask locally or check the time that morning to be sure."
-  - q: "How do I get to Triveni Ghat from central Rishikesh?"
-    a: "It's about a 15–20 minute auto-rickshaw ride from Laxman Jhula or Ram Jhula, and roughly 2km from Rishikesh Railway Station. The final approach is on foot through a market lane."
-  - q: "When is Triveni Ghat least crowded?"
-    a: "Early morning, around sunrise (roughly 6–7am), belongs mainly to local bathers and pilgrims. Most tourists come for the evening aarti."
-  - q: "How long should I plan to spend there?"
-    a: "Allow 30–45 minutes for a sunrise visit, or closer to an hour in the evening if you want to arrive early and watch the full Ganga Aarti ceremony."
+  - q: Is there an entry fee for Triveni Ghat or the Ganga Aarti?
+    a: >-
+      No ticket is required to visit the ghat or watch the aarti. Priests accept
+      voluntary cash donations, and small extras like diyas or puja items cost
+      only a few rupees.
+  - q: What time is the Ganga Aarti at Triveni Ghat?
+    a: >-
+      It's held daily around sunset, so the exact time shifts with the season —
+      roughly 6pm in winter and closer to 7pm in summer. Ask locally or check
+      the time that morning to be sure.
+  - q: How do I get to Triveni Ghat from central Rishikesh?
+    a: >-
+      It's about a 15–20 minute auto-rickshaw ride from Laxman Jhula or Ram
+      Jhula, and roughly 2km from Rishikesh Railway Station. The final approach
+      is on foot through a market lane.
+  - q: When is Triveni Ghat least crowded?
+    a: >-
+      Early morning, around sunrise (roughly 6–7am), belongs mainly to local
+      bathers and pilgrims. Most tourists come for the evening aarti.
+  - q: How long should I plan to spend there?
+    a: >-
+      Allow 30–45 minutes for a sunrise visit, or closer to an hour in the
+      evening if you want to arrive early and watch the full Ganga Aarti
+      ceremony.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-08'
 ---
 
 ## Why Triveni Ghat matters

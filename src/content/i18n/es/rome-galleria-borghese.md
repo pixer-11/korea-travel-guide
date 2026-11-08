@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: rome-galleria-borghese
-srcHash: 'b85155c7ae48'
+srcHash: 'f22d05601db7'
 title: 'Galería Borghese: guía de viaje de Roma (4,6★)'
-description: 'La Galería Borghese, situada en el parque romano de Villa Borghese, es un museo de entrada programada: cada visita dura un tramo fijo de dos horas y reservar con antelación no es opcional, ya que casi nunca hay entradas disponibles en taquilla. 4,6★ (30.506 reseñas): lo que opinan los visitantes, horarios y consejos.'
+description: 'La Galería Borghese, situada en el parque romano de Villa Borghese, es un museo de entrada programada: cada visita dura un tramo fijo de dos horas y reservar con antelación no es opcional, ya que casi nunca hay entradas disponibles en taquilla. 4,6★ (30.936 reseñas): lo que opinan los visitantes, horarios y consejos.'
 quickAnswer: 'La Galería Borghese, situada en el parque romano de Villa Borghese, es un museo de entrada programada: cada visita dura un tramo fijo de dos horas y reservar con antelación no es opcional, ya que casi nunca hay entradas disponibles en taquilla. Los fines de semana entre las 10:00 y las 18:00 son el momento de más afluencia, así que reservar el primer turno de la mañana o un turno de última hora entre semana es la mejor apuesta para disfrutar con más calma. Conviene aprovechar las dos horas completas: las esculturas de Bernini y la sala Caravaggio ya justifican por sí solas la visita.'
 faq:
   - q: ¿Es necesario reservar con antelación las entradas de la Galería Borghese?

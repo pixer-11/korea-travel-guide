@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: rishikesh-parmarth-niketan-ashram
-srcHash: '923054f7097c'
+srcHash: '2e29fc8206a3'
 title: 'Ashram Parmarth Niketan: guía de viaje de Rishikesh (4,6★)'
-description: 'El ashram Parmarth Niketan se encuentra en Main Market Road, en Swarg Ashram, en la orilla oriental cerca de Ram Jhula, y abre todos los días de 8:00 a 22:00. 4,6★ (23.539 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El ashram Parmarth Niketan se encuentra en Main Market Road, en Swarg Ashram, en la orilla oriental cerca de Ram Jhula, y abre todos los días de 8:00 a 22:00. 4,6★ (23.950 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El ashram Parmarth Niketan se encuentra en Main Market Road, en Swarg Ashram, en la orilla oriental cerca de Ram Jhula, y abre todos los días de 8:00 a 22:00. El mejor momento para visitarlo es durante la Ganga Aarti del atardecer, aunque los fines de semana la orilla del río se llena rápido entre las 16:00 y las 21:00, así que conviene llegar antes de las 17:00 para conseguir un lugar cerca del agua. Si solo vas a ver la ceremonia, calcula entre 60 y 90 minutos; si además quieres participar en una sesión de meditación antes, necesitarás más tiempo.
 faq:
   - q: ¿A qué hora es la Ganga Aarti en Parmarth Niketan?

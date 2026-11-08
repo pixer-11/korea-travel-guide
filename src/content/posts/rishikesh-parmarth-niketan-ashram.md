@@ -1,30 +1,41 @@
 ---
 title: 'Parmarth Niketan Ashram: Rishikesh Travel Guide (4.6★)'
-description: Parmarth Niketan Ashram sits on Main Market Road in Swarg Ashram, on the eastern bank near Ram Jhula, and it's open daily from 8am to 10pm. 4.6★ (23,539 reviews) — what visitors say, hours, and tips.
+description: >-
+  Parmarth Niketan Ashram sits on Main Market Road in Swarg Ashram, on the
+  eastern bank near Ram Jhula, and it's open daily from 8am to 10pm. 4.6★
+  (23,950 reviews) — what visitors say, hours, and tips.
 country: India
 region: Rishikesh
 category: attraction
 pubDate: '2026-09-11T07:49:35.415Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/11878062_yBy9u1ZFlQk2ecjDq2ohPoJjo-rdkKvvJpZPEXk58eI.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/11878062_yBy9u1ZFlQk2ecjDq2ohPoJjo-rdkKvvJpZPEXk58eI.jpg
   credit: 'Photo: Foursquare user content (Parmarth Niketan Ashram)'
   license: foursquare
-  source: https://foursquare.com/v/4d6cc9e1fbf0a0936490f68c
+  source: 'https://foursquare.com/v/4d6cc9e1fbf0a0936490f68c'
   focus:
     x: 30
     'y': 50
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Gardens_at_Parmarth_Niketan%2C_Muni_Ki_Reti%2C_Rishikesh.jpg/3840px-Gardens_at_Parmarth_Niketan%2C_Muni_Ki_Reti%2C_Rishikesh.jpg
-    credit: 'Photo: Ken Wieland from Philadelphia, USA / Wikimedia Commons (CC BY-SA 2.0)'
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Gardens_at_Parmarth_Niketan%2C_Muni_Ki_Reti%2C_Rishikesh.jpg/3840px-Gardens_at_Parmarth_Niketan%2C_Muni_Ki_Reti%2C_Rishikesh.jpg
+    credit: >-
+      Photo: Ken Wieland from Philadelphia, USA / Wikimedia Commons (CC BY-SA
+      2.0)
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Gardens_at_Parmarth_Niketan,_Muni_Ki_Reti,_Rishikesh.jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Gardens_at_Parmarth_Niketan,_Muni_Ki_Reti,_Rishikesh.jpg
 place:
   id: ChIJN065thUWCTkRrpCI3XVLzsQ
   name: Parmarth Niketan Ashram
-  address: Main Market Road, near Ram Jhula, Swarg Ashram, Rishikesh, Uttarakhand 249304, India
+  address: >-
+    Main Market Road, near Ram Jhula, Swarg Ashram, Rishikesh, Uttarakhand
+    249304, India
   rating: 4.6
-  userRatingsTotal: 23539
-  googleMapsUrl: https://maps.google.com/?cid=14181355246236242094&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 23950
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14181355246236242094&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 30.118827300000003
   lng: 78.3131567
@@ -62,19 +73,40 @@ place:
 tags:
   - rishikesh
   - museum
-quickAnswer: Parmarth Niketan Ashram sits on Main Market Road in Swarg Ashram, on the eastern bank near Ram Jhula, and it's open daily from 8am to 10pm. The best time to visit is for the sunset Ganga Aarti, though on weekends the riverbank fills up fast between 4pm and 9pm, so arrive by 5pm to get a spot near the water. Give it 60 to 90 minutes if you're just there for the aarti, longer if you want to sit in on a meditation session first.
+quickAnswer: >-
+  Parmarth Niketan Ashram sits on Main Market Road in Swarg Ashram, on the
+  eastern bank near Ram Jhula, and it's open daily from 8am to 10pm. The best
+  time to visit is for the sunset Ganga Aarti, though on weekends the riverbank
+  fills up fast between 4pm and 9pm, so arrive by 5pm to get a spot near the
+  water. Give it 60 to 90 minutes if you're just there for the aarti, longer if
+  you want to sit in on a meditation session first.
 faq:
   - q: What time is the Ganga Aarti at Parmarth Niketan?
-    a: It follows sunset rather than a fixed clock time, so it shifts from around 5:30pm in winter to closer to 7pm in summer. Arrive about an hour before sunset to get a good seat and watch the preparations.
+    a: >-
+      It follows sunset rather than a fixed clock time, so it shifts from around
+      5:30pm in winter to closer to 7pm in summer. Arrive about an hour before
+      sunset to get a good seat and watch the preparations.
   - q: When is the quietest time to visit?
-    a: Crowd patterns show the ashram stays calm through the day on both weekdays and weekends. The busiest window is weekend evenings between 4pm and 9pm, so a weekday visit or an early arrival is your best bet for space.
+    a: >-
+      Crowd patterns show the ashram stays calm through the day on both weekdays
+      and weekends. The busiest window is weekend evenings between 4pm and 9pm,
+      so a weekday visit or an early arrival is your best bet for space.
   - q: Is there an entry fee?
-    a: No fixed admission fee to attend the evening aarti or walk the grounds; small voluntary donations are common but not required.
+    a: >-
+      No fixed admission fee to attend the evening aarti or walk the grounds;
+      small voluntary donations are common but not required.
   - q: How do I get to Parmarth Niketan?
-    a: It's on Main Market Road in Swarg Ashram, right by Ram Jhula on the eastern bank. Take an auto-rickshaw to Ram Jhula and walk a few minutes along Main Market Road to the ashram gate.
+    a: >-
+      It's on Main Market Road in Swarg Ashram, right by Ram Jhula on the
+      eastern bank. Take an auto-rickshaw to Ram Jhula and walk a few minutes
+      along Main Market Road to the ashram gate.
   - q: Can I stay overnight at the ashram?
-    a: Yes, but rooms are generally reserved for those enrolled in its yoga, meditation or Ayurveda programs, and space is limited, so arrange it well in advance rather than expecting a walk-in booking.
+    a: >-
+      Yes, but rooms are generally reserved for those enrolled in its yoga,
+      meditation or Ayurveda programs, and space is limited, so arrange it well
+      in advance rather than expecting a walk-in booking.
 aiGenerated: true
+updatedDate: '2026-11-08'
 ---
 
 The gate on Main Market Road doesn't look like much from the street: a wide arch, a security check, a name board painted saffron and white. Walk through it and the ashram opens up into something closer to a small campus than a temple, terraced gardens, dormitory blocks, a large open-air amphitheater of steps running straight down to the Ganga.

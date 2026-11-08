@@ -1,44 +1,54 @@
 ---
-title: "Dussmann das KulturKaufhaus: Berlin Travel Guide (4.8★)"
-description: "Dussmann das KulturKaufhaus is a multi-floor book, music and film store at Friedrichstraße 90 in Berlin's Mitte district, a short walk from S+U Friedrichstraße station. 4.8★ (22,925 reviews) — what visitors say, hours, and tips."
-country: "Germany"
-region: "Berlin"
-category: "hidden-gem"
-pubDate: "2026-11-08T07:46:21.476Z"
+title: 'Dussmann das KulturKaufhaus: Berlin Travel Guide (4.8★)'
+description: >-
+  Dussmann das KulturKaufhaus is a multi-floor book, music and film store at
+  Friedrichstraße 90 in Berlin's Mitte district, a short walk from S+U
+  Friedrichstraße station. 4.8★ (22,930 reviews) — what visitors say, hours, and
+  tips.
+country: Germany
+region: Berlin
+category: hidden-gem
+pubDate: '2026-11-08T07:46:21.476Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Dussmann_Kulturkaufhaus_4.JPG/1920px-Dussmann_Kulturkaufhaus_4.JPG"
-  credit: "Photo: No machine-readable author provided. / Wikimedia Commons (Public domain)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Dussmann_Kulturkaufhaus_4.JPG"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Dussmann_Kulturkaufhaus_4.JPG/1920px-Dussmann_Kulturkaufhaus_4.JPG
+  credit: >-
+    Photo: No machine-readable author provided. / Wikimedia Commons (Public
+    domain)
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Dussmann_Kulturkaufhaus_4.JPG'
   focus:
     x: 30
-    y: 55
+    'y': 55
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/2/2d/Dussmann_Kulturkaufhaus_Berlin_04.jpg"
-    credit: "Photo: GualdimG / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Dussmann_Kulturkaufhaus_Berlin_04.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/2/2d/Dussmann_Kulturkaufhaus_Berlin_04.jpg
+    credit: 'Photo: GualdimG / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Dussmann_Kulturkaufhaus_Berlin_04.jpg
 place:
-  id: "ChIJwTaiW8NRqEcRKa55CQBhVP0"
-  name: "Dussmann das KulturKaufhaus"
-  address: "Friedrichstraße 90, 10117 Berlin, Germany"
+  id: ChIJwTaiW8NRqEcRKa55CQBhVP0
+  name: Dussmann das KulturKaufhaus
+  address: 'Friedrichstraße 90, 10117 Berlin, Germany'
   rating: 4.8
-  userRatingsTotal: 22925
-  googleMapsUrl: "https://maps.google.com/?cid=18254321842426326569&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 22930
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=18254321842426326569&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 52.5183386
   lng: 13.3888971
-  phone: "+49 30 20251111"
+  phone: +49 30 20251111
   openingHours:
-    - "Monday: 9:00 AM – 12:00 AM"
-    - "Tuesday: 9:00 AM – 12:00 AM"
-    - "Wednesday: 9:00 AM – 12:00 AM"
-    - "Thursday: 9:00 AM – 12:00 AM"
-    - "Friday: 9:00 AM – 12:00 AM"
-    - "Saturday: 9:00 AM – 11:30 PM"
-    - "Sunday: 1:00 – 8:00 PM"
+    - 'Monday: 9:00 AM – 12:00 AM'
+    - 'Tuesday: 9:00 AM – 12:00 AM'
+    - 'Wednesday: 9:00 AM – 12:00 AM'
+    - 'Thursday: 9:00 AM – 12:00 AM'
+    - 'Friday: 9:00 AM – 12:00 AM'
+    - 'Saturday: 9:00 AM – 11:30 PM'
+    - 'Sunday: 1:00 – 8:00 PM'
   busyness:
-    updated: 2026-11-08
+    updated: 2026-11-08T00:00:00.000Z
     weekdayQuiet:
       - 9
     weekdayBusy:
@@ -58,24 +68,43 @@ place:
       - 18
       - 19
       - 20
-    venueId: "ven_305056684251433535614b52634571524e3857696154774a496843"
+    venueId: ven_305056684251433535614b52634571524e3857696154774a496843
 tags:
-  - "berlin"
-  - "bookshop"
-quickAnswer: "Dussmann das KulturKaufhaus is a multi-floor book, music and film store at Friedrichstraße 90 in Berlin's Mitte district, a short walk from S+U Friedrichstraße station. It currently opens until midnight Monday to Friday, and it's calmest between 9am and 10am on weekdays. Avoid weekends between 11am and 9pm, when it's usually at its busiest."
+  - berlin
+  - bookshop
+quickAnswer: >-
+  Dussmann das KulturKaufhaus is a multi-floor book, music and film store at
+  Friedrichstraße 90 in Berlin's Mitte district, a short walk from S+U
+  Friedrichstraße station. It currently opens until midnight Monday to Friday,
+  and it's calmest between 9am and 10am on weekdays. Avoid weekends between 11am
+  and 9pm, when it's usually at its busiest.
 faq:
-  - q: "When is the quietest time to visit Dussmann das KulturKaufhaus?"
-    a: "BestTime's forecast puts the quietest window at 9am–10am on weekdays. Try to avoid weekends between 11am and 9pm, when it's usually busiest."
-  - q: "How do I get to Dussmann das KulturKaufhaus?"
-    a: "Take the U6 or the S-Bahn (S3, S5, S7, S9 and others) to Friedrichstraße station, then walk a few minutes south to Friedrichstraße 90. The Unter den Linden U-Bahn stop is also one block away."
-  - q: "Is Dussmann open late or on Sundays?"
-    a: "Currently it opens 9am to midnight Monday to Friday, 9am to 11:30pm on Saturday and 1pm to 8pm on Sunday. Check before you go, especially around public holidays."
-  - q: "Does Dussmann sell English-language books?"
-    a: "Yes. It has a dedicated English-language book department, plus music, film, gifts, stationery and a café."
-  - q: "How long should I spend there?"
-    a: "Plan on about an hour to browse the books. If you also want to dig through the music department, especially the classical section, allow closer to two hours."
+  - q: When is the quietest time to visit Dussmann das KulturKaufhaus?
+    a: >-
+      BestTime's forecast puts the quietest window at 9am–10am on weekdays. Try
+      to avoid weekends between 11am and 9pm, when it's usually busiest.
+  - q: How do I get to Dussmann das KulturKaufhaus?
+    a: >-
+      Take the U6 or the S-Bahn (S3, S5, S7, S9 and others) to Friedrichstraße
+      station, then walk a few minutes south to Friedrichstraße 90. The Unter
+      den Linden U-Bahn stop is also one block away.
+  - q: Is Dussmann open late or on Sundays?
+    a: >-
+      Currently it opens 9am to midnight Monday to Friday, 9am to 11:30pm on
+      Saturday and 1pm to 8pm on Sunday. Check before you go, especially around
+      public holidays.
+  - q: Does Dussmann sell English-language books?
+    a: >-
+      Yes. It has a dedicated English-language book department, plus music,
+      film, gifts, stationery and a café.
+  - q: How long should I spend there?
+    a: >-
+      Plan on about an hour to browse the books. If you also want to dig through
+      the music department, especially the classical section, allow closer to
+      two hours.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-08'
 ---
 
 ## A department store that sells culture instead of clothes

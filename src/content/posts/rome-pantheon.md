@@ -1,60 +1,87 @@
 ---
-title: "Pantheon: Rome Travel Guide (4.8★)"
-description: "The Pantheon in Rome sits on Piazza della Rotonda in the historic centre, open daily 9am to 7pm, and it's free to walk in. 4.8★ (287,178 reviews) — what visitors say, hours, and tips."
-country: "Italy"
-region: "Rome"
-category: "attraction"
-pubDate: "2026-09-20T07:38:30.517Z"
+title: 'Pantheon: Rome Travel Guide (4.8★)'
+description: >-
+  The Pantheon in Rome sits on Piazza della Rotonda in the historic centre, open
+  daily 9am to 7pm, and it's free to walk in. 4.8★ (291,627 reviews) — what
+  visitors say, hours, and tips.
+country: Italy
+region: Rome
+category: attraction
+pubDate: '2026-09-20T07:38:30.517Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Rome_%28IT%29%2C_Pantheon_--_2013_--_3572.jpg/3840px-Rome_%28IT%29%2C_Pantheon_--_2013_--_3572.jpg"
-  credit: "Photo: Dietmar Rabich / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Rome_(IT),_Pantheon_--_2013_--_3572.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Rome_%28IT%29%2C_Pantheon_--_2013_--_3572.jpg/3840px-Rome_%28IT%29%2C_Pantheon_--_2013_--_3572.jpg
+  credit: 'Photo: Dietmar Rabich / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Rome_(IT),_Pantheon_--_2013_--_3572.jpg
+  via: act
   focus:
     x: 55
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Pantheon_%28Rome%29%2C_Dome_interior.jpg/3840px-Pantheon_%28Rome%29%2C_Dome_interior.jpg"
-    credit: "Photo: Wilfredor / Wikimedia Commons (CC0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Pantheon_(Rome),_Dome_interior.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Pantheon_%28Rome%29%2C_Dome_interior.jpg/3840px-Pantheon_%28Rome%29%2C_Dome_interior.jpg
+    credit: 'Photo: Wilfredor / Wikimedia Commons (CC0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Pantheon_(Rome),_Dome_interior.jpg'
 place:
-  id: "ChIJqUCGZ09gLxMRLM42IPpl0co"
-  name: "Pantheon"
-  address: "Piazza della Rotonda, 00186 Roma RM, Italy"
+  id: ChIJqUCGZ09gLxMRLM42IPpl0co
+  name: Pantheon
+  address: 'Piazza della Rotonda, 00186 Roma RM, Italy'
   rating: 4.8
-  userRatingsTotal: 287178
-  googleMapsUrl: "https://maps.google.com/?cid=14614574390750662188&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 291627
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14614574390750662188&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 41.8986108
   lng: 12.4768729
-  phone: "+39 06 6830 0230"
+  phone: +39 06 6830 0230
   openingHours:
-    - "Monday: 9:00 AM – 7:00 PM"
-    - "Tuesday: 9:00 AM – 7:00 PM"
-    - "Wednesday: 9:00 AM – 7:00 PM"
-    - "Thursday: 9:00 AM – 7:00 PM"
-    - "Friday: 9:00 AM – 7:00 PM"
-    - "Saturday: 9:00 AM – 7:00 PM"
-    - "Sunday: 9:00 AM – 7:00 PM"
+    - 'Monday: 9:00 AM – 7:00 PM'
+    - 'Tuesday: 9:00 AM – 7:00 PM'
+    - 'Wednesday: 9:00 AM – 7:00 PM'
+    - 'Thursday: 9:00 AM – 7:00 PM'
+    - 'Friday: 9:00 AM – 7:00 PM'
+    - 'Saturday: 9:00 AM – 7:00 PM'
+    - 'Sunday: 9:00 AM – 7:00 PM'
 tags:
-  - "rome"
-  - "historic site"
-quickAnswer: "The Pantheon in Rome sits on Piazza della Rotonda in the historic centre, open daily 9am to 7pm, and it's free to walk in. This is one of the most visited sites in Italy, so arrive right at 9am or after 5pm to dodge the worst of the crowds. Give it 30-45 minutes, plus time to linger in the piazza outside."
+  - rome
+  - historic site
+quickAnswer: >-
+  The Pantheon in Rome sits on Piazza della Rotonda in the historic centre, open
+  daily 9am to 7pm, and it's free to walk in. This is one of the most visited
+  sites in Italy, so arrive right at 9am or after 5pm to dodge the worst of the
+  crowds. Give it 30-45 minutes, plus time to linger in the piazza outside.
 faq:
-  - q: "Is the Pantheon free to visit?"
-    a: "Entry has historically been free, but Italy has periodically introduced a small admission fee for tourists. Confirm current pricing on the official site or at the door before you go."
-  - q: "What's the best time to avoid crowds?"
-    a: "Given how heavily visited this site is, aim for right at 9am opening on a weekday or the last hour before 7pm closing. Late morning through mid-afternoon draws the longest lines."
-  - q: "How long should I plan to spend there?"
-    a: "Most visitors spend 30-45 minutes inside. Add extra time to sit in Piazza della Rotonda outside, which is worth lingering in on its own."
-  - q: "How do I get to the Pantheon by public transport?"
-    a: "There's no metro stop within easy walking distance; the nearest useful hub is Largo di Torre Argentina, about 400 metres away, served by several bus routes. Most visitors simply walk from Piazza Navona or the Trevi Fountain, both under 10 minutes away."
-  - q: "What else is nearby?"
-    a: "Piazza Navona and the Trevi Fountain are each about a 10-minute walk. Piazza Sant'Eustachio, a few streets behind the Pantheon, is a better bet for an affordable coffee than the cafés directly on the square."
+  - q: Is the Pantheon free to visit?
+    a: >-
+      Entry has historically been free, but Italy has periodically introduced a
+      small admission fee for tourists. Confirm current pricing on the official
+      site or at the door before you go.
+  - q: What's the best time to avoid crowds?
+    a: >-
+      Given how heavily visited this site is, aim for right at 9am opening on a
+      weekday or the last hour before 7pm closing. Late morning through
+      mid-afternoon draws the longest lines.
+  - q: How long should I plan to spend there?
+    a: >-
+      Most visitors spend 30-45 minutes inside. Add extra time to sit in Piazza
+      della Rotonda outside, which is worth lingering in on its own.
+  - q: How do I get to the Pantheon by public transport?
+    a: >-
+      There's no metro stop within easy walking distance; the nearest useful hub
+      is Largo di Torre Argentina, about 400 metres away, served by several bus
+      routes. Most visitors simply walk from Piazza Navona or the Trevi
+      Fountain, both under 10 minutes away.
+  - q: What else is nearby?
+    a: >-
+      Piazza Navona and the Trevi Fountain are each about a 10-minute walk.
+      Piazza Sant'Eustachio, a few streets behind the Pantheon, is a better bet
+      for an affordable coffee than the cafés directly on the square.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-08'
 ---
 
 Nothing else standing from ancient Rome does what this building does: it still has its original roof. The dome, poured in unreinforced concrete around 118-125 AD under Hadrian, remains the world's largest unreinforced concrete dome. At its centre is the oculus, a nine-metre circular opening that is the only source of light and, when it rains, the only source of water hitting the marble floor below.

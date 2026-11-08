@@ -1,34 +1,43 @@
 ---
 title: 'Colosseum: Rome Travel Guide'
-description: Buy a timed-entry ticket online before you go (the Colosseum, Roman Forum, and Palatine Hill share one combo ticket, valid 24 hours) and arrive at your slot 15 minutes early with the security queue in mind.
+description: >-
+  Buy a timed-entry ticket online before you go (the Colosseum, Roman Forum, and
+  Palatine Hill share one combo ticket, valid 24 hours) and arrive at your slot
+  15 minutes early with the security queue in mind.
 country: Italy
 region: Rome
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Colosseum_in_Rome-April_2007-1-_copie_2B.jpg/1920px-Colosseum_in_Rome-April_2007-1-_copie_2B.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Colosseum_in_Rome-April_2007-1-_copie_2B.jpg/1920px-Colosseum_in_Rome-April_2007-1-_copie_2B.jpg
   credit: 'Photo: Diliff / Wikimedia Commons (CC BY-SA 2.5)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Colosseum_in_Rome-April_2007-1-_copie_2B.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Colosseum_in_Rome-April_2007-1-_copie_2B.jpg
 gallery:
-  - url: https://fastly.4sqi.net/img/general/original/88311132_oowJ-5vCWQkikBxyBshxY5DWDh-_wKxwcl8usJtwjJw.jpg
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/88311132_oowJ-5vCWQkikBxyBshxY5DWDh-_wKxwcl8usJtwjJw.jpg
     credit: 'Photo: Foursquare user content (Colosseum (Colosseo))'
     license: foursquare
-    source: https://foursquare.com/v/4adcdac6f964a520355321e3
+    source: 'https://foursquare.com/v/4adcdac6f964a520355321e3'
 place:
   id: ChIJrRMgU7ZhLxMRxAOFkC7I8Sg
   name: Colosseum
-  address: P.za del Colosseo, 1, 00184 Roma RM, Italy
+  address: 'P.za del Colosseo, 1, 00184 Roma RM, Italy'
   rating: 4.8
-  userRatingsTotal: 499044
-  googleMapsUrl: https://maps.google.com/?cid=2950359333223072708&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 511794
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2950359333223072708&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 41.8902102
   lng: 12.4922309
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [9]
-    weekendQuiet: [9]
+    weekdayQuiet:
+      - 9
+    weekendQuiet:
+      - 9
     weekendBusy:
       - 11
       - 12
@@ -36,7 +45,7 @@ place:
       - 14
       - 15
     venueId: ven_6753384937436b464f4178524d784c685a3755674d52724a496843
-  phone: '+39 06 2111 5843'
+  phone: +39 06 2111 5843
   openingHours:
     - 'Monday: 8:30 AM – 4:30 PM'
     - 'Tuesday: 8:30 AM – 4:30 PM'
@@ -48,20 +57,42 @@ place:
 tags:
   - rome
   - Colosseum
-quickAnswer: Buy a timed-entry ticket online before you go (the Colosseum, Roman Forum, and Palatine Hill share one combo ticket, valid 24 hours) and arrive at your slot 15 minutes early with the security queue in mind. Plan 2–2.5 hours for the amphitheater alone, more if you add the arena floor or underground tour. The nearest stop is Colosseo on Metro Line B, right across the piazza from the entrance.
+quickAnswer: >-
+  Buy a timed-entry ticket online before you go (the Colosseum, Roman Forum, and
+  Palatine Hill share one combo ticket, valid 24 hours) and arrive at your slot
+  15 minutes early with the security queue in mind. Plan 2–2.5 hours for the
+  amphitheater alone, more if you add the arena floor or underground tour. The
+  nearest stop is Colosseo on Metro Line B, right across the piazza from the
+  entrance.
 faq:
   - q: How do I get to the Colosseum by public transport?
-    a: Take Metro Line B to the Colosseo stop — it exits directly onto the piazza facing the amphitheater. Tram 3 and buses 51, 75, and 85 also stop nearby.
+    a: >-
+      Take Metro Line B to the Colosseo stop — it exits directly onto the piazza
+      facing the amphitheater. Tram 3 and buses 51, 75, and 85 also stop nearby.
   - q: How much time should I budget?
-    a: Plan around 2 hours for the Colosseum alone. If you're doing the combined ticket with the Roman Forum and Palatine Hill, allow a half day (4–5 hours total).
+    a: >-
+      Plan around 2 hours for the Colosseum alone. If you're doing the combined
+      ticket with the Roman Forum and Palatine Hill, allow a half day (4–5 hours
+      total).
   - q: Do I need to book tickets in advance?
-    a: Yes — timed-entry tickets are required and arena floor or underground tours often sell out days ahead in peak season (spring through summer). Book on the official Parco Archeologico del Colosseo site.
+    a: >-
+      Yes — timed-entry tickets are required and arena floor or underground
+      tours often sell out days ahead in peak season (spring through summer).
+      Book on the official Parco Archeologico del Colosseo site.
   - q: What's the best time of day to visit?
-    a: First entry in the morning or the last slots before closing have the smallest crowds and best light. Avoid midday in June–August, when heat and lines both peak.
+    a: >-
+      First entry in the morning or the last slots before closing have the
+      smallest crowds and best light. Avoid midday in June–August, when heat and
+      lines both peak.
   - q: What else is close by?
-    a: The Roman Forum and Palatine Hill are immediately adjacent and covered by the same combo ticket. The Arch of Constantine is a short walk away, and the Monti district just north has better food options than the immediate piazza.
+    a: >-
+      The Roman Forum and Palatine Hill are immediately adjacent and covered by
+      the same combo ticket. The Arch of Constantine is a short walk away, and
+      the Monti district just north has better food options than the immediate
+      piazza.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-08'
 ---
 
 ## Why go

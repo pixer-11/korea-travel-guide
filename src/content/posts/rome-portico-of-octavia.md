@@ -1,25 +1,31 @@
 ---
 title: 'Portico of Octavia: Rome Travel Guide (4.7★)'
-description: The Portico of Octavia stands at the entrance to Rome's Jewish Ghetto on Via del Portico d'Ottavia, a short walk from Largo di Torre Argentina and the Theatre of Marcellus. 4.7★ (2,860 reviews) — what visitors say, hours, and tips.
+description: >-
+  The Portico of Octavia stands at the entrance to Rome's Jewish Ghetto on Via
+  del Portico d'Ottavia, a short walk from Largo di Torre Argentina and the
+  Theatre of Marcellus. 4.7★ (2,903 reviews) — what visitors say, hours, and
+  tips.
 country: Italy
 region: Rome
 category: hidden-gem
 pubDate: '2026-09-27T07:50:36.150Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/1598040_xX789MFwIzr8TVVD3uDm3hcqHDro4CA5Znd7Xy7vYjM.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/1598040_xX789MFwIzr8TVVD3uDm3hcqHDro4CA5Znd7Xy7vYjM.jpg
   credit: 'Photo: Foursquare user content (Portico d''Ottavia)'
   license: foursquare
-  source: https://foursquare.com/v/4adcdac8f964a520db5321e3
+  source: 'https://foursquare.com/v/4adcdac8f964a520db5321e3'
   focus:
     x: 40
     'y': 40
 place:
   id: ChIJpTF0RUlgLxMRUMm5Pi9Tc10
   name: Portico of Octavia
-  address: Via del Portico d'Ottavia, 29, 00186 Roma RM, Italy
+  address: 'Via del Portico d''Ottavia, 29, 00186 Roma RM, Italy'
   rating: 4.7
-  userRatingsTotal: 2860
-  googleMapsUrl: https://maps.google.com/?cid=6733817330229954896&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 2903
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6733817330229954896&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 41.892512599999996
   lng: 12.4785372
@@ -64,20 +70,39 @@ place:
 tags:
   - rome
   - old quarter
-quickAnswer: The Portico of Octavia stands at the entrance to Rome's Jewish Ghetto on Via del Portico d'Ottavia, a short walk from Largo di Torre Argentina and the Theatre of Marcellus. It's an open-air ruin you can see at any hour. The quietest times are 7am–8am on weekdays and 7am–10am on weekends, and weekends from 12pm to 10pm are the ones to avoid.
+quickAnswer: >-
+  The Portico of Octavia stands at the entrance to Rome's Jewish Ghetto on Via
+  del Portico d'Ottavia, a short walk from Largo di Torre Argentina and the
+  Theatre of Marcellus. It's an open-air ruin you can see at any hour. The
+  quietest times are 7am–8am on weekdays and 7am–10am on weekends, and weekends
+  from 12pm to 10pm are the ones to avoid.
 faq:
   - q: When is the quietest time to visit the Portico of Octavia?
-    a: On weekdays it's quietest from 7am to 8am, and on weekends from 7am to 10am. Avoid weekends between 12pm and 10pm, when it's busiest.
+    a: >-
+      On weekdays it's quietest from 7am to 8am, and on weekends from 7am to
+      10am. Avoid weekends between 12pm and 10pm, when it's busiest.
   - q: Is the Portico of Octavia open at night?
-    a: Yes. It's an open-air monument on a public street and is listed as open 24 hours, so you can walk past or onto the viewing walkway at any time.
+    a: >-
+      Yes. It's an open-air monument on a public street and is listed as open 24
+      hours, so you can walk past or onto the viewing walkway at any time.
   - q: How do I get there?
-    a: There's no metro nearby. Take tram 8 to Arenula/Cairoli and walk a few minutes, or walk about ten minutes from Piazza Venezia along Via del Teatro di Marcello.
+    a: >-
+      There's no metro nearby. Take tram 8 to Arenula/Cairoli and walk a few
+      minutes, or walk about ten minutes from Piazza Venezia along Via del
+      Teatro di Marcello.
   - q: How long should I spend there?
-    a: About 20 to 30 minutes for the ruin itself. Allow a few hours if you add the Theatre of Marcellus, the Great Synagogue, the Jewish Museum and a meal on Via del Portico d'Ottavia.
+    a: >-
+      About 20 to 30 minutes for the ruin itself. Allow a few hours if you add
+      the Theatre of Marcellus, the Great Synagogue, the Jewish Museum and a
+      meal on Via del Portico d'Ottavia.
   - q: Are restaurants in the Ghetto open on Saturdays?
-    a: Many kosher restaurants and shops close from Friday evening until Saturday evening for Shabbat. Plan your meal for another day, or for Saturday night once Shabbat has ended.
+    a: >-
+      Many kosher restaurants and shops close from Friday evening until Saturday
+      evening for Shabbat. Plan your meal for another day, or for Saturday night
+      once Shabbat has ended.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-08'
 ---
 
 ## Columns with a church inside them

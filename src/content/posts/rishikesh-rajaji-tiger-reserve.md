@@ -1,56 +1,86 @@
 ---
-title: "Rajaji Tiger Reserve: Rishikesh Travel Guide (4.3★)"
-description: "Rajaji Tiger Reserve near Rishikesh is a 820-square-kilometre forest straddling the Shivalik foothills, best visited on an early-morning or late-afternoon jeep safari through the Chilla or Motichur gates. 4.3★ (23,864 reviews) — what visitors say, hours, and tips."
-country: "India"
-region: "Rishikesh"
-category: "attraction"
-pubDate: "2026-09-12T07:45:59.980Z"
+title: 'Rajaji Tiger Reserve: Rishikesh Travel Guide (4.3★)'
+description: >-
+  Rajaji Tiger Reserve near Rishikesh is a 820-square-kilometre forest
+  straddling the Shivalik foothills, best visited on an early-morning or
+  late-afternoon jeep safari through the Chilla or Motichur gates. 4.3★ (23,879
+  reviews) — what visitors say, hours, and tips.
+country: India
+region: Rishikesh
+category: attraction
+pubDate: '2026-09-12T07:45:59.980Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/A_herd_of_Spotted_Deer_at_Rajaji_National_Park_%26_Tiger_Reserve%2C_Uttarakhand_-_2.jpg/3840px-A_herd_of_Spotted_Deer_at_Rajaji_National_Park_%26_Tiger_Reserve%2C_Uttarakhand_-_2.jpg"
-  credit: "Photo: Kingshuk Mondal / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:A_herd_of_Spotted_Deer_at_Rajaji_National_Park_%26_Tiger_Reserve,_Uttarakhand_-_2.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/A_herd_of_Spotted_Deer_at_Rajaji_National_Park_%26_Tiger_Reserve%2C_Uttarakhand_-_2.jpg/3840px-A_herd_of_Spotted_Deer_at_Rajaji_National_Park_%26_Tiger_Reserve%2C_Uttarakhand_-_2.jpg
+  credit: 'Photo: Kingshuk Mondal / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:A_herd_of_Spotted_Deer_at_Rajaji_National_Park_%26_Tiger_Reserve,_Uttarakhand_-_2.jpg
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery: []
 place:
-  id: "ChIJQe430EdGCTkRvKAlIoQjlN8"
-  name: "Rajaji Tiger Reserve"
-  address: "Uttarakhand, India"
+  id: ChIJQe430EdGCTkRvKAlIoQjlN8
+  name: Rajaji Tiger Reserve
+  address: 'Uttarakhand, India'
   rating: 4.3
-  userRatingsTotal: 23864
-  googleMapsUrl: "https://maps.google.com/?cid=16110540817426653372&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 23879
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16110540817426653372&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 30.01542
   lng: 78.1523984
-  phone: "+91 94115 68917"
+  phone: +91 94115 68917
   openingHours:
-    - "Monday: 6:30 AM – 5:00 PM"
-    - "Tuesday: 6:30 AM – 5:00 PM"
-    - "Wednesday: 6:30 AM – 5:00 PM"
-    - "Thursday: 6:30 AM – 5:00 PM"
-    - "Friday: 6:30 AM – 5:00 PM"
-    - "Saturday: 6:30 AM – 5:00 PM"
-    - "Sunday: 6:30 AM – 5:00 PM"
+    - 'Monday: 6:30 AM – 5:00 PM'
+    - 'Tuesday: 6:30 AM – 5:00 PM'
+    - 'Wednesday: 6:30 AM – 5:00 PM'
+    - 'Thursday: 6:30 AM – 5:00 PM'
+    - 'Friday: 6:30 AM – 5:00 PM'
+    - 'Saturday: 6:30 AM – 5:00 PM'
+    - 'Sunday: 6:30 AM – 5:00 PM'
 tags:
-  - "rishikesh"
-  - "park"
-quickAnswer: "Rajaji Tiger Reserve near Rishikesh is a 820-square-kilometre forest straddling the Shivalik foothills, best visited on an early-morning or late-afternoon jeep safari through the Chilla or Motichur gates. Gates run 6:30am to 5pm daily, and the best season is mid-November through mid-June, before the monsoon closure. Book your safari slot ahead, since this is one of the more heavily visited reserves in Uttarakhand and permits are capped by zone."
+  - rishikesh
+  - park
+quickAnswer: >-
+  Rajaji Tiger Reserve near Rishikesh is a 820-square-kilometre forest
+  straddling the Shivalik foothills, best visited on an early-morning or
+  late-afternoon jeep safari through the Chilla or Motichur gates. Gates run
+  6:30am to 5pm daily, and the best season is mid-November through mid-June,
+  before the monsoon closure. Book your safari slot ahead, since this is one of
+  the more heavily visited reserves in Uttarakhand and permits are capped by
+  zone.
 faq:
-  - q: "How do I book a safari at Rajaji Tiger Reserve from Rishikesh?"
-    a: "Through a local tour operator, your hotel, or the forest department's booking system a day or two ahead. Walk-up seats exist but aren't guaranteed, especially at the popular Chilla gate on weekends."
-  - q: "What are the park's opening hours?"
-    a: "6:30am to 5pm, seven days a week, with safaris run in morning and late-afternoon slots. There's no weekly closure day, but the whole park shuts for the monsoon, roughly mid-June to mid-November."
-  - q: "Will I actually see a tiger?"
-    a: "Possibly, but don't count on it. Rajaji has a stronger reputation for elephants, with herds regularly seen along the river corridors; treat a tiger sighting as a bonus."
-  - q: "Which gate is closest to Rishikesh, Chilla or Motichur?"
-    a: "Chilla is the closer and more popular option, about 15-20 kilometres from central Rishikesh. Motichur sits nearer the Haridwar side and tends to be quieter."
-  - q: "What's the best season to visit?"
-    a: "Mid-November through mid-June is when the park is open. April to June is hot but pushes animals toward water sources, while December-January is cooler but requires warm layers for early jeep rides."
+  - q: How do I book a safari at Rajaji Tiger Reserve from Rishikesh?
+    a: >-
+      Through a local tour operator, your hotel, or the forest department's
+      booking system a day or two ahead. Walk-up seats exist but aren't
+      guaranteed, especially at the popular Chilla gate on weekends.
+  - q: What are the park's opening hours?
+    a: >-
+      6:30am to 5pm, seven days a week, with safaris run in morning and
+      late-afternoon slots. There's no weekly closure day, but the whole park
+      shuts for the monsoon, roughly mid-June to mid-November.
+  - q: Will I actually see a tiger?
+    a: >-
+      Possibly, but don't count on it. Rajaji has a stronger reputation for
+      elephants, with herds regularly seen along the river corridors; treat a
+      tiger sighting as a bonus.
+  - q: 'Which gate is closest to Rishikesh, Chilla or Motichur?'
+    a: >-
+      Chilla is the closer and more popular option, about 15-20 kilometres from
+      central Rishikesh. Motichur sits nearer the Haridwar side and tends to be
+      quieter.
+  - q: What's the best season to visit?
+    a: >-
+      Mid-November through mid-June is when the park is open. April to June is
+      hot but pushes animals toward water sources, while December-January is
+      cooler but requires warm layers for early jeep rides.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-08'
 ---
 
 Rajaji doesn't feel like a single park so much as three stitched-together forest blocks wrapped around the Ganga as it drops out of the Himalayas toward the plains. The reserve takes its name from Chakravarti Rajagopalachari, India's last Governor-General, and it merged three older sanctuaries, Rajaji, Motichur and Chilla, into one 820-square-kilometre protected area in 1983. Sal forest, riverine grassland and rocky ravines all sit inside its boundary, and Rishikesh itself is close enough to some entry gates that you can do a safari as a half-day trip without changing base.

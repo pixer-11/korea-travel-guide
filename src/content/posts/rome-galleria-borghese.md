@@ -1,45 +1,53 @@
 ---
-title: "Galleria Borghese: Rome Travel Guide (4.6★)"
-description: "Galleria Borghese, in the Villa Borghese park in Rome, is a timed-entry museum: every visit runs on a two-hour slot and booking ahead is not optional, since walk-up tickets almost never exist. 4.6★ (30,506 reviews) — what visitors say, hours, and tips."
-country: "Italy"
-region: "Rome"
-category: "attraction"
-pubDate: "2026-09-19T07:41:41.621Z"
+title: 'Galleria Borghese: Rome Travel Guide (4.6★)'
+description: >-
+  Galleria Borghese, in the Villa Borghese park in Rome, is a timed-entry
+  museum: every visit runs on a two-hour slot and booking ahead is not optional,
+  since walk-up tickets almost never exist. 4.6★ (30,936 reviews) — what
+  visitors say, hours, and tips.
+country: Italy
+region: Rome
+category: attraction
+pubDate: '2026-09-19T07:41:41.621Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Galleria_borghese_facade.jpg/3840px-Galleria_borghese_facade.jpg"
-  credit: "Photo: Alessio Damato / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Galleria_borghese_facade.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Galleria_borghese_facade.jpg/3840px-Galleria_borghese_facade.jpg
+  credit: 'Photo: Alessio Damato / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Galleria_borghese_facade.jpg'
+  via: act
   focus:
     x: 50
-    y: 35
+    'y': 35
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ceiling_in_Galleria_Borghese_%28Rome%29.jpg/3840px-Ceiling_in_Galleria_Borghese_%28Rome%29.jpg"
-    credit: "Photo: Livioandronico2013 / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Ceiling_in_Galleria_Borghese_(Rome).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ceiling_in_Galleria_Borghese_%28Rome%29.jpg/3840px-Ceiling_in_Galleria_Borghese_%28Rome%29.jpg
+    credit: 'Photo: Livioandronico2013 / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Ceiling_in_Galleria_Borghese_(Rome).jpg
 place:
-  id: "ChIJq-bXVgRhLxMRv3vgOXaktBs"
-  name: "Galleria Borghese"
-  address: "Piazzale Scipione Borghese, 5, 00197 Roma RM, Italy"
+  id: ChIJq-bXVgRhLxMRv3vgOXaktBs
+  name: Galleria Borghese
+  address: 'Piazzale Scipione Borghese, 5, 00197 Roma RM, Italy'
   rating: 4.6
-  userRatingsTotal: 30506
-  googleMapsUrl: "https://maps.google.com/?cid=1996401362516081599&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 30936
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1996401362516081599&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 41.9142103
   lng: 12.4921442
-  phone: "+39 06 841 3979"
+  phone: +39 06 841 3979
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 9:00 AM – 7:00 PM"
-    - "Wednesday: 9:00 AM – 7:00 PM"
-    - "Thursday: 9:00 AM – 7:00 PM"
-    - "Friday: 9:00 AM – 7:00 PM"
-    - "Saturday: 9:00 AM – 7:00 PM"
-    - "Sunday: 9:00 AM – 7:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 9:00 AM – 7:00 PM'
+    - 'Wednesday: 9:00 AM – 7:00 PM'
+    - 'Thursday: 9:00 AM – 7:00 PM'
+    - 'Friday: 9:00 AM – 7:00 PM'
+    - 'Saturday: 9:00 AM – 7:00 PM'
+    - 'Sunday: 9:00 AM – 7:00 PM'
   busyness:
-    updated: 2026-09-19
+    updated: 2026-09-19T00:00:00.000Z
     weekdayBusy:
       - 11
       - 12
@@ -57,24 +65,45 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_7342746b61584f67763376524d784c6852675658622d714a496843"
+    venueId: ven_7342746b61584f67763376524d784c6852675658622d714a496843
 tags:
-  - "rome"
-  - "museum"
-quickAnswer: "Galleria Borghese, in the Villa Borghese park in Rome, is a timed-entry museum: every visit runs on a two-hour slot and booking ahead is not optional, since walk-up tickets almost never exist. Weekends get busiest between 10am and 6pm, so a first-slot morning or late-afternoon weekday booking is your best shot at breathing room. Give it the full two hours; Bernini's sculptures and the Caravaggio room alone justify the trip."
+  - rome
+  - museum
+quickAnswer: >-
+  Galleria Borghese, in the Villa Borghese park in Rome, is a timed-entry
+  museum: every visit runs on a two-hour slot and booking ahead is not optional,
+  since walk-up tickets almost never exist. Weekends get busiest between 10am
+  and 6pm, so a first-slot morning or late-afternoon weekday booking is your
+  best shot at breathing room. Give it the full two hours; Bernini's sculptures
+  and the Caravaggio room alone justify the trip.
 faq:
-  - q: "Do I need to book Galleria Borghese tickets in advance?"
-    a: "Yes. Entry is by timed slot only, and walk-up tickets are rarely available. Book online, ideally at least several days ahead, especially for weekends."
-  - q: "How long does a visit take?"
-    a: "Each entry slot is fixed at two hours, which is enough time to see the ground-floor sculptures and the upstairs picture gallery at a comfortable pace."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Weekends between 10am and 6pm are the busiest stretch. A weekday visit, or the first or last slot of the day, tends to feel less crowded."
-  - q: "How do I get to Galleria Borghese?"
-    a: "Take Metro Line A to Spagna, then walk about 15-20 minutes through Villa Borghese park. A taxi can drop you directly at Piazzale Scipione Borghese if you're short on time."
-  - q: "What's nearby if I have extra time?"
-    a: "Villa Borghese park surrounds the museum, with the Pincio terrace overlooking central Rome and the Bioparco zoo both about a 20-minute walk away."
+  - q: Do I need to book Galleria Borghese tickets in advance?
+    a: >-
+      Yes. Entry is by timed slot only, and walk-up tickets are rarely
+      available. Book online, ideally at least several days ahead, especially
+      for weekends.
+  - q: How long does a visit take?
+    a: >-
+      Each entry slot is fixed at two hours, which is enough time to see the
+      ground-floor sculptures and the upstairs picture gallery at a comfortable
+      pace.
+  - q: When is the best time to visit to avoid crowds?
+    a: >-
+      Weekends between 10am and 6pm are the busiest stretch. A weekday visit, or
+      the first or last slot of the day, tends to feel less crowded.
+  - q: How do I get to Galleria Borghese?
+    a: >-
+      Take Metro Line A to Spagna, then walk about 15-20 minutes through Villa
+      Borghese park. A taxi can drop you directly at Piazzale Scipione Borghese
+      if you're short on time.
+  - q: What's nearby if I have extra time?
+    a: >-
+      Villa Borghese park surrounds the museum, with the Pincio terrace
+      overlooking central Rome and the Bioparco zoo both about a 20-minute walk
+      away.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-08'
 ---
 
 Few museums anywhere pack this much Bernini into so few rooms. Galleria Borghese occupies a single villa on the edge of the Villa Borghese park, and its entire visit is capped at two hours because the collection is small enough to walk through slowly and still make your slot.

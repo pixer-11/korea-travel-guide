@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: rishikesh-parmarth-niketan-ashram
-srcHash: '923054f7097c'
+srcHash: '2e29fc8206a3'
 title: 帕玛斯尼克坦道场：瑞诗凯诗旅行指南（4.6★）
-description: 帕玛斯尼克坦道场（Parmarth Niketan Ashram）位于斯瓦尔格道场（Swarg Ashram）主市场路（Main Market Road）上，坐落在恒河东岸拉姆·朱拉（Ram Jhula）附近，每天上午8点开放至晚上10点。4.6星（23,539条评价）——看看游客怎么说，附开放时间与实用建议。
+description: 帕玛斯尼克坦道场（Parmarth Niketan Ashram）位于斯瓦尔格道场（Swarg Ashram）主市场路（Main Market Road）上，坐落在恒河东岸拉姆·朱拉（Ram Jhula）附近，每天上午8点开放至晚上10点。4.6星（23,950条评价）——看看游客怎么说，附开放时间与实用建议。
 quickAnswer: 帕玛斯尼克坦道场位于斯瓦尔格道场主市场路上，恒河东岸，紧邻拉姆·朱拉，每天上午8点开放至晚上10点。最佳游览时段是傍晚的恒河夜祈仪式（Ganga Aarti），不过周末下午4点到晚上9点河岸边会迅速挤满人，建议下午5点前抵达以占到靠近水边的位置。如果只是来看仪式，预留60到90分钟即可；若想先参加冥想活动，时间要更长一些。
 faq:
   - q: 帕玛斯尼克坦道场的恒河夜祈仪式是几点举行？

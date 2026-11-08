@@ -1,60 +1,89 @@
 ---
-title: "JUNKUDO Naha: Okinawa Travel Guide (4.4★)"
-description: "JUNKUDO Naha is a large multi-floor bookstore on Kokusai-dori in Naha's Makishi district, filling basement 1 to the 3rd floor of the D-NAHA building, a short walk from Makishi Station on the Yui Rail monorail. 4.4★ (3,544 reviews) — what visitors say, hours, and tips."
-country: "Japan"
-region: "Okinawa"
-category: "hidden-gem"
-pubDate: "2026-11-08T07:46:22.524Z"
+title: 'JUNKUDO Naha: Okinawa Travel Guide (4.4★)'
+description: >-
+  JUNKUDO Naha is a large multi-floor bookstore on Kokusai-dori in Naha's
+  Makishi district, filling basement 1 to the 3rd floor of the D-NAHA building,
+  a short walk from Makishi Station on the Yui Rail monorail. 4.4★ (3,545
+  reviews) — what visitors say, hours, and tips.
+country: Japan
+region: Okinawa
+category: hidden-gem
+pubDate: '2026-11-08T07:46:22.524Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Junkudo_Naha_Okinawa_pref_Japan01s3.jpg/3840px-Junkudo_Naha_Okinawa_pref_Japan01s3.jpg"
-  credit: "Photo: 663highland / Wikimedia Commons (CC BY 2.5)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Junkudo_Naha_Okinawa_pref_Japan01s3.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Junkudo_Naha_Okinawa_pref_Japan01s3.jpg/3840px-Junkudo_Naha_Okinawa_pref_Japan01s3.jpg
+  credit: 'Photo: 663highland / Wikimedia Commons (CC BY 2.5)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Junkudo_Naha_Okinawa_pref_Japan01s3.jpg
+  via: act
   focus:
     x: 55
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/JP_%E6%97%A5%E6%9C%AC_Japan_%E6%B2%96%E7%B9%A9_OKINAWA_%E9%82%A3%E9%9C%B8_Naha_900-0013_Okinawa_Makishi_%E3%82%B8%E3%83%A5%E3%83%B3%E3%82%AF%E5%A0%82%E6%9B%B8%E5%BA%97_n_%E6%B7%B3%E4%B9%85%E5%A0%82%E6%9B%B8%E5%BA%97_Junkudo_Bookshop_January_2025_R12S_16.jpg/3840px-JP_%E6%97%A5%E6%9C%AC_Japan_%E6%B2%96%E7%B9%A9_OKINAWA_%E9%82%A3%E9%9C%B8_Naha_900-0013_Okinawa_Makishi_%E3%82%B8%E3%83%A5%E3%83%B3%E3%82%AF%E5%A0%82%E6%9B%B8%E5%BA%97_n_%E6%B7%B3%E4%B9%85%E5%A0%82%E6%9B%B8%E5%BA%97_Junkudo_Bookshop_January_2025_R12S_16.jpg"
-    credit: "Photo: Naha Mama Pavilionz / Wikimedia Commons (CC0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:JP_%E6%97%A5%E6%9C%AC_Japan_%E6%B2%96%E7%B9%A9_OKINAWA_%E9%82%A3%E9%9C%B8_Naha_900-0013_Okinawa_Makishi_%E3%82%B8%E3%83%A5%E3%83%B3%E3%82%AF%E5%A0%82%E6%9B%B8%E5%BA%97_n_%E6%B7%B3%E4%B9%85%E5%A0%82%E6%9B%B8%E5%BA%97_Junkudo_Bookshop_January_2025_R12S_16.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/JP_%E6%97%A5%E6%9C%AC_Japan_%E6%B2%96%E7%B9%A9_OKINAWA_%E9%82%A3%E9%9C%B8_Naha_900-0013_Okinawa_Makishi_%E3%82%B8%E3%83%A5%E3%83%B3%E3%82%AF%E5%A0%82%E6%9B%B8%E5%BA%97_n_%E6%B7%B3%E4%B9%85%E5%A0%82%E6%9B%B8%E5%BA%97_Junkudo_Bookshop_January_2025_R12S_16.jpg/3840px-JP_%E6%97%A5%E6%9C%AC_Japan_%E6%B2%96%E7%B9%A9_OKINAWA_%E9%82%A3%E9%9C%B8_Naha_900-0013_Okinawa_Makishi_%E3%82%B8%E3%83%A5%E3%83%B3%E3%82%AF%E5%A0%82%E6%9B%B8%E5%BA%97_n_%E6%B7%B3%E4%B9%85%E5%A0%82%E6%9B%B8%E5%BA%97_Junkudo_Bookshop_January_2025_R12S_16.jpg
+    credit: 'Photo: Naha Mama Pavilionz / Wikimedia Commons (CC0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:JP_%E6%97%A5%E6%9C%AC_Japan_%E6%B2%96%E7%B9%A9_OKINAWA_%E9%82%A3%E9%9C%B8_Naha_900-0013_Okinawa_Makishi_%E3%82%B8%E3%83%A5%E3%83%B3%E3%82%AF%E5%A0%82%E6%9B%B8%E5%BA%97_n_%E6%B7%B3%E4%B9%85%E5%A0%82%E6%9B%B8%E5%BA%97_Junkudo_Bookshop_January_2025_R12S_16.jpg
 place:
-  id: "ChIJAS4kd3lp5TQRFv5A68JHwl8"
-  name: "JUNKUDO Naha"
-  address: "Japan, 〒900-0013 Okinawa, Naha, Makishi, 1-chōme−19−２９ D-NAHA 地下 1階～3階"
+  id: ChIJAS4kd3lp5TQRFv5A68JHwl8
+  name: JUNKUDO Naha
+  address: 'Japan, 〒900-0013 Okinawa, Naha, Makishi, 1-chōme−19−２９ D-NAHA 地下 1階～3階'
   rating: 4.4
-  userRatingsTotal: 3544
-  googleMapsUrl: "https://maps.google.com/?cid=6900156481581153814&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 3545
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6900156481581153814&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 26.218634100000003
   lng: 127.6858536
-  phone: "+81 98-860-7175"
+  phone: +81 98-860-7175
   openingHours:
-    - "Monday: 10:00 AM – 9:00 PM"
-    - "Tuesday: 10:00 AM – 9:00 PM"
-    - "Wednesday: 10:00 AM – 9:00 PM"
-    - "Thursday: 10:00 AM – 9:00 PM"
-    - "Friday: 10:00 AM – 9:00 PM"
-    - "Saturday: 10:00 AM – 9:00 PM"
-    - "Sunday: 10:00 AM – 9:00 PM"
+    - 'Monday: 10:00 AM – 9:00 PM'
+    - 'Tuesday: 10:00 AM – 9:00 PM'
+    - 'Wednesday: 10:00 AM – 9:00 PM'
+    - 'Thursday: 10:00 AM – 9:00 PM'
+    - 'Friday: 10:00 AM – 9:00 PM'
+    - 'Saturday: 10:00 AM – 9:00 PM'
+    - 'Sunday: 10:00 AM – 9:00 PM'
 tags:
-  - "okinawa"
-  - "bookshop"
-quickAnswer: "JUNKUDO Naha is a large multi-floor bookstore on Kokusai-dori in Naha's Makishi district, filling basement 1 to the 3rd floor of the D-NAHA building, a short walk from Makishi Station on the Yui Rail monorail. At the moment it opens 10am–9pm every day of the week, so it makes an easy evening stop or a cool, dry break from the street. Go for its Okinawa books, maps and Japanese stationery, and give yourself an hour."
+  - okinawa
+  - bookshop
+quickAnswer: >-
+  JUNKUDO Naha is a large multi-floor bookstore on Kokusai-dori in Naha's
+  Makishi district, filling basement 1 to the 3rd floor of the D-NAHA building,
+  a short walk from Makishi Station on the Yui Rail monorail. At the moment it
+  opens 10am–9pm every day of the week, so it makes an easy evening stop or a
+  cool, dry break from the street. Go for its Okinawa books, maps and Japanese
+  stationery, and give yourself an hour.
 faq:
-  - q: "How do I get to JUNKUDO Naha?"
-    a: "Take the Yui Rail monorail to Makishi Station, then walk to the D-NAHA building at Makishi 1-chome by Kokusai-dori. The store fills basement 1 to the 3rd floor. The monorail runs direct from Naha Airport."
-  - q: "What are the opening hours?"
-    a: "At the moment it is open 10am–9pm every day, Monday to Sunday. Hours can change around holidays, so check before a late visit."
-  - q: "Are there books in English or about Okinawa?"
-    a: "Most stock is in Japanese, but the Okinawa section is the highlight: Ryukyu history, war history, local cooking, island guides and photo books. Maps, art books and manga are enjoyable without reading Japanese."
-  - q: "How long should I spend there?"
-    a: "An hour is enough to browse the Okinawa shelves and a couple of floors. Allow longer if you're hunting for manga or stationery."
-  - q: "What is nearby?"
-    a: "Kokusai-dori is right outside. The Heiwa-dori and Ichiba-hondori arcades lead to the Makishi Public Market, and the Tsuboya pottery district is a short walk beyond."
+  - q: How do I get to JUNKUDO Naha?
+    a: >-
+      Take the Yui Rail monorail to Makishi Station, then walk to the D-NAHA
+      building at Makishi 1-chome by Kokusai-dori. The store fills basement 1 to
+      the 3rd floor. The monorail runs direct from Naha Airport.
+  - q: What are the opening hours?
+    a: >-
+      At the moment it is open 10am–9pm every day, Monday to Sunday. Hours can
+      change around holidays, so check before a late visit.
+  - q: Are there books in English or about Okinawa?
+    a: >-
+      Most stock is in Japanese, but the Okinawa section is the highlight:
+      Ryukyu history, war history, local cooking, island guides and photo books.
+      Maps, art books and manga are enjoyable without reading Japanese.
+  - q: How long should I spend there?
+    a: >-
+      An hour is enough to browse the Okinawa shelves and a couple of floors.
+      Allow longer if you're hunting for manga or stationery.
+  - q: What is nearby?
+    a: >-
+      Kokusai-dori is right outside. The Heiwa-dori and Ichiba-hondori arcades
+      lead to the Makishi Public Market, and the Tsuboya pottery district is a
+      short walk beyond.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-08'
 ---
 
 Kokusai-dori is mostly souvenir shops, shisa figurines and awamori bottles. Then you go through the doors of the D-NAHA building and there are four floors of books, from the basement up to the 3rd floor. JUNKUDO Naha is one of the city's best-known bookstores, and it is consistently well rated by the people who use it.

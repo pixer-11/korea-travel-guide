@@ -1,9 +1,9 @@
 ---
 lang: ko
 slug: berlin-dussmann-das-kulturkaufhaus
-srcHash: '61cf9dffa8c7'
+srcHash: '8b39b1d12848'
 title: '두스만 다스 쿨투어카우프하우스: 베를린 여행 가이드 (4.8★)'
-description: 두스만 다스 쿨투어카우프하우스(Dussmann das KulturKaufhaus)는 베를린 미테(Mitte) 지구 프리드리히슈트라세(Friedrichstraße) 90에 있는 여러 층짜리 서점으로, 책과 음반, 영화를 함께 판매합니다. S+U 프리드리히슈트라세역에서 조금만 걸으면 닿습니다. 평점 4.8★(리뷰 22,925개)인 이곳의 방문객 후기와 영업시간, 알아 두면 좋은 팁을 정리했습니다.
+description: 두스만 다스 쿨투어카우프하우스(Dussmann das KulturKaufhaus)는 베를린 미테(Mitte) 지구 프리드리히슈트라세(Friedrichstraße) 90에 있는 여러 층짜리 서점으로, 책과 음반, 영화를 함께 판매합니다. S+U 프리드리히슈트라세역에서 조금만 걸으면 닿습니다. 평점 4.8★(리뷰 22,930개)인 이곳의 방문객 후기와 영업시간, 알아 두면 좋은 팁을 정리했습니다.
 quickAnswer: 두스만 다스 쿨투어카우프하우스(Dussmann das KulturKaufhaus)는 베를린 미테(Mitte) 지구 프리드리히슈트라세(Friedrichstraße) 90에 있는 여러 층짜리 서점으로, 책과 음반, 영화를 함께 판매합니다. S+U 프리드리히슈트라세역에서 걸어서 금방입니다. 현재 월요일부터 금요일까지는 자정까지 문을 열며, 가장 한산한 때는 평일 오전 9시~10시입니다. 대체로 가장 붐비는 주말 오전 11시~오후 9시는 피하시는 편이 좋습니다.
 faq:
   - q: 두스만 다스 쿨투어카우프하우스는 언제 가장 한산한가요?

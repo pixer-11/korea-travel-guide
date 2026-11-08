@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: berlin-dussmann-das-kulturkaufhaus
-srcHash: '61cf9dffa8c7'
+srcHash: '8b39b1d12848'
 title: 'Dussmann das KulturKaufhaus: guía de viaje de Berlín (4.8★)'
-description: En el número 90 de Friedrichstraße, en el distrito berlinés de Mitte y a pocos pasos de la estación S+U Friedrichstraße, Dussmann das KulturKaufhaus reparte libros, música y cine en varias plantas. Con 4.8★ (22,925 reseñas), aquí encontrará qué opinan los visitantes, el horario y consejos prácticos.
+description: En el número 90 de Friedrichstraße, en el distrito berlinés de Mitte y a pocos pasos de la estación S+U Friedrichstraße, Dussmann das KulturKaufhaus reparte libros, música y cine en varias plantas. Con 4.8★ (22,930 reseñas), aquí encontrará qué opinan los visitantes, el horario y consejos prácticos.
 quickAnswer: Dussmann das KulturKaufhaus es una gran tienda de libros, música y cine repartida en varias plantas. Se encuentra en Friedrichstraße 90, en el distrito berlinés de Mitte, a pocos pasos de la estación S+U Friedrichstraße. Actualmente abre de lunes a viernes hasta medianoche, y la hora más tranquila para visitarla es entre las 9 a. m. y las 10 a. m. de los días laborables. Conviene evitar los fines de semana entre las 11 a. m. y las 9 p. m., cuando suele registrar la mayor afluencia.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar Dussmann das KulturKaufhaus?

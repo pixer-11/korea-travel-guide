@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: okinawa-junkudo-naha
-srcHash: '4497a6403563'
+srcHash: '6905adfa7717'
 title: 'JUNKUDO Naha: guía de viaje de Okinawa (4.4★)'
-description: En pleno Kokusai-dori, en el barrio de Makishi (Naha), JUNKUDO Naha ocupa desde el sótano 1 hasta la 3.ª planta del edificio D-NAHA, a pocos pasos de la estación de Makishi del monorraíl Yui Rail. Con 4.4★ (3,544 reseñas), le contamos qué opinan los visitantes, cuál es su horario y algunos consejos.
+description: En pleno Kokusai-dori, en el barrio de Makishi (Naha), JUNKUDO Naha ocupa desde el sótano 1 hasta la 3.ª planta del edificio D-NAHA, a pocos pasos de la estación de Makishi del monorraíl Yui Rail. Con 4.4★ (3,545 reseñas), le contamos qué opinan los visitantes, cuál es su horario y algunos consejos.
 quickAnswer: En pleno Kokusai-dori, en el barrio de Makishi (Naha), se encuentra JUNKUDO Naha, una gran librería que se reparte entre el sótano 1 y la 3.ª planta del edificio D-NAHA. Queda a un breve paseo de la estación de Makishi, en el monorraíl Yui Rail. Actualmente abre todos los días de la semana de 10am–9pm, de modo que resulta muy cómodo pasarse al caer la tarde o refugiarse en ella del calor y la lluvia. Merece la pena por sus libros sobre Okinawa, sus mapas y su papelería japonesa; conviene reservarle una hora.
 faq:
   - q: ¿Cómo se llega a JUNKUDO Naha?

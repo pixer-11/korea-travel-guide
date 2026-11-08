@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: rome-pantheon
-srcHash: 'ad1c518e9cfe'
+srcHash: 'e0bec35df667'
 title: 'Panteón de Roma: guía de viaje (4,8★)'
-description: 'El Panteón de Roma está en la Piazza della Rotonda, en pleno centro histórico, abierto todos los días de 9:00 a 19:00, y la entrada es gratuita. 4,8★ (287.178 reseñas): lo que opinan los visitantes, horarios y consejos.'
+description: 'El Panteón de Roma está en la Piazza della Rotonda, en pleno centro histórico, abierto todos los días de 9:00 a 19:00, y la entrada es gratuita. 4,8★ (291.627 reseñas): lo que opinan los visitantes, horarios y consejos.'
 quickAnswer: El Panteón de Roma está en la Piazza della Rotonda, en pleno centro histórico, abierto todos los días de 9:00 a 19:00, y la entrada es gratuita. Se trata de uno de los monumentos más visitados de Italia, así que conviene llegar justo a las 9:00 o después de las 17:00 para esquivar lo peor de las aglomeraciones. Calcule entre 30 y 45 minutos para la visita, más el tiempo que quiera dedicar a disfrutar de la plaza.
 faq:
   - q: ¿Es gratis visitar el Panteón?

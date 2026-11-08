@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: niagara-falls-niagara-parks-botanical-gardens
-srcHash: 'a3ac6e55ff02'
+srcHash: '563e3d2d8de3'
 title: 'Jardines Botánicos de Niagara Parks: guía de viaje de las Cataratas del Niágara'
-description: A unos 9 km al norte de la Herradura (Horseshoe Falls), junto a la Niagara River Parkway de Niagara Falls (Ontario), se encuentran los Jardines Botánicos de Niagara Parks. Con una valoración de 4.7★ (8,034 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
+description: A unos 9 km al norte de la Herradura (Horseshoe Falls), junto a la Niagara River Parkway de Niagara Falls (Ontario), se encuentran los Jardines Botánicos de Niagara Parks. Con una valoración de 4.7★ (8,035 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
 quickAnswer: Los Jardines Botánicos de Niagara Parks (Niagara Parks Botanical Gardens) se encuentran junto a la Niagara River Parkway, en Niagara Falls (Ontario), a unos 9 km al norte de la Herradura (Horseshoe Falls). Los momentos más tranquilos son de 7am a 9am cualquier día y, entre semana, a partir de las 6pm. Conviene evitar los fines de semana entre las 10am y las 6pm, cuando tanto los senderos como el aparcamiento registran su máxima afluencia.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar los Jardines Botánicos de Niagara Parks?

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: rome-portico-of-octavia
-srcHash: '8bac721638d5'
+srcHash: 'c6c176a65129'
 title: 'Pórtico de Octavia: guía de viaje de Roma (4,7★)'
-description: 'El Pórtico de Octavia se alza a la entrada del Gueto judío de Roma, en la Via del Portico d''Ottavia, a poca distancia a pie de Largo di Torre Argentina y del Teatro de Marcelo. 4,7★ (2.860 reseñas): qué dicen los visitantes, horarios y consejos.'
+description: 'El Pórtico de Octavia se alza a la entrada del Gueto judío de Roma, en la Via del Portico d''Ottavia, a poca distancia a pie de Largo di Torre Argentina y del Teatro de Marcelo. 4,7★ (2.903 reseñas): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: El Pórtico de Octavia se alza a la entrada del Gueto judío de Roma, en la Via del Portico d'Ottavia, a poca distancia a pie de Largo di Torre Argentina y del Teatro de Marcelo. Se trata de una ruina al aire libre que puede visitarse a cualquier hora. Los momentos de menor afluencia son de 7 a 8 de la mañana entre semana y de 7 a 10 de la mañana los fines de semana; conviene evitar los fines de semana de 12 del mediodía a 10 de la noche, cuando hay más gente.
 faq:
   - q: ¿Cuál es el mejor momento para visitar el Pórtico de Octavia sin aglomeraciones?

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: rishikesh-rajaji-tiger-reserve
-srcHash: '9ef429b2e5e2'
+srcHash: 'e00ae6972c24'
 title: 'Reserva de Tigres de Rajaji: guía de viaje desde Rishikesh (4,3★)'
-description: 'La Reserva de Tigres de Rajaji, cerca de Rishikesh, es un bosque de 820 kilómetros cuadrados que se extiende por las estribaciones de Shivalik, ideal para visitar en un safari en jeep a primera hora de la mañana o a última de la tarde, a través de las puertas de Chilla o Motichur. 4,3★ (23.864 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'La Reserva de Tigres de Rajaji, cerca de Rishikesh, es un bosque de 820 kilómetros cuadrados que se extiende por las estribaciones de Shivalik, ideal para visitar en un safari en jeep a primera hora de la mañana o a última de la tarde, a través de las puertas de Chilla o Motichur. 4,3★ (23.879 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: La Reserva de Tigres de Rajaji, cerca de Rishikesh, es un bosque de 820 kilómetros cuadrados que se extiende por las estribaciones de Shivalik, ideal para visitar en un safari en jeep a primera hora de la mañana o a última de la tarde, a través de las puertas de Chilla o Motichur. Las puertas abren de 6:30 a 17:00 todos los días, y la mejor temporada va de mediados de noviembre a mediados de junio, antes del cierre por el monzón. Conviene reservar el safari con antelación, ya que se trata de una de las reservas más visitadas de Uttarakhand y los permisos están limitados por zona.
 faq:
   - q: ¿Cómo reservo un safari en la Reserva de Tigres de Rajaji desde Rishikesh?

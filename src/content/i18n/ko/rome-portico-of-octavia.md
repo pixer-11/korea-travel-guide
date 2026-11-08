@@ -1,9 +1,9 @@
 ---
 lang: ko
 slug: rome-portico-of-octavia
-srcHash: '8bac721638d5'
+srcHash: 'c6c176a65129'
 title: '포르티코 도타비아: 로마 여행 가이드 (4.7★)'
-description: 포르티코 도타비아(Portico of Octavia)는 로마 유대인 게토 입구, 비아 델 포르티코 도타비아(Via del Portico d'Ottavia)에 자리하고 있으며, 라르고 디 토레 아르젠티나(Largo di Torre Argentina)와 마르첼루스 극장에서 걸어서 금방입니다. 평점 4.7★(리뷰 2,860건) — 방문객들의 후기와 개방 시간, 방문 팁을 소개합니다.
+description: 포르티코 도타비아(Portico of Octavia)는 로마 유대인 게토 입구, 비아 델 포르티코 도타비아(Via del Portico d'Ottavia)에 자리하고 있으며, 라르고 디 토레 아르젠티나(Largo di Torre Argentina)와 마르첼루스 극장에서 걸어서 금방입니다. 평점 4.7★(리뷰 2,903건) — 방문객들의 후기와 개방 시간, 방문 팁을 소개합니다.
 quickAnswer: 포르티코 도타비아는 로마 유대인 게토 입구, 비아 델 포르티코 도타비아에 자리하고 있으며, 라르고 디 토레 아르젠티나와 마르첼루스 극장에서 걸어서 금방인 위치입니다. 야외에 있는 유적이라 언제든 볼 수 있습니다. 가장 한산한 시간대는 평일 오전 7시~8시, 주말 오전 7시~10시이며, 주말 낮 12시부터 밤 10시까지는 피하시는 것이 좋습니다.
 faq:
   - q: 포르티코 도타비아를 방문하기 가장 한산한 시간은 언제인가요?

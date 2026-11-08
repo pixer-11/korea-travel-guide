@@ -1,27 +1,37 @@
 ---
 title: 'Roman Forum: Rome Travel Guide (4.8★)'
-description: Enter the Roman Forum right at 9am (either through the Via della Salaria Vecchia entrance near Arch of Titus or combined with the Colosseum/Palatine ticket) to catch the site before the tour groups arrive — 9am–10am is the quietest window every day, while 11am–2pm on weekends is when crowds peak. 4.8★ (145,233 reviews) — what visitors say, hours, and tips.
+description: >-
+  Enter the Roman Forum right at 9am (either through the Via della Salaria
+  Vecchia entrance near Arch of Titus or combined with the Colosseum/Palatine
+  ticket) to catch the site before the tour groups arrive — 9am–10am is the
+  quietest window every day, while 11am–2pm on weekends is when crowds peak.
+  4.8★ (147,474 reviews) — what visitors say, hours, and tips.
 country: Italy
 region: Rome
 category: attraction
 pubDate: '2026-08-03T11:24:12.400Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Foro_Romano_Musei_Capitolini_Roma.jpg/1920px-Foro_Romano_Musei_Capitolini_Roma.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Foro_Romano_Musei_Capitolini_Roma.jpg/1920px-Foro_Romano_Musei_Capitolini_Roma.jpg
   credit: 'Photo: Wolfgang Moroder / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Foro_Romano_Musei_Capitolini_Roma.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Foro_Romano_Musei_Capitolini_Roma.jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Rome_%28IT%29%2C_Forum_Romanum_--_2013_--_3398.jpg/3840px-Rome_%28IT%29%2C_Forum_Romanum_--_2013_--_3398.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Rome_%28IT%29%2C_Forum_Romanum_--_2013_--_3398.jpg/3840px-Rome_%28IT%29%2C_Forum_Romanum_--_2013_--_3398.jpg
     credit: 'Photo: Dietmar Rabich / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Rome_(IT),_Forum_Romanum_--_2013_--_3398.jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Rome_(IT),_Forum_Romanum_--_2013_--_3398.jpg
 place:
   id: ChIJ782pg7NhLxMR5n3swAdAkfo
   name: Roman Forum
-  address: 00186 Rome, Metropolitan City of Rome Capital, Italy
+  address: '00186 Rome, Metropolitan City of Rome Capital, Italy'
   rating: 4.8
-  userRatingsTotal: 145233
-  googleMapsUrl: https://maps.google.com/?cid=18055282783150702054&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 147474
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=18055282783150702054&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 41.892090599999996
   lng: 12.4864378
@@ -48,20 +58,42 @@ place:
 tags:
   - rome
   - top attraction
-quickAnswer: Enter the Roman Forum right at 9am (either through the Via della Salaria Vecchia entrance near Arch of Titus or combined with the Colosseum/Palatine ticket) to catch the site before the tour groups arrive — 9am–10am is the quietest window every day, while 11am–2pm on weekends is when crowds peak. Budget two to three hours to walk the Sacred Way, the Temple of Saturn, and up onto the Palatine Hill, and note the site closes at 4:30pm daily, so plan a morning or early-afternoon visit.
+quickAnswer: >-
+  Enter the Roman Forum right at 9am (either through the Via della Salaria
+  Vecchia entrance near Arch of Titus or combined with the Colosseum/Palatine
+  ticket) to catch the site before the tour groups arrive — 9am–10am is the
+  quietest window every day, while 11am–2pm on weekends is when crowds peak.
+  Budget two to three hours to walk the Sacred Way, the Temple of Saturn, and up
+  onto the Palatine Hill, and note the site closes at 4:30pm daily, so plan a
+  morning or early-afternoon visit.
 faq:
   - q: What are the opening hours for the Roman Forum?
-    a: It's open daily from 9:00am to 4:30pm year-round, with last entry typically earlier than closing time — there are no late evening hours, so plan a morning or early-afternoon visit.
+    a: >-
+      It's open daily from 9:00am to 4:30pm year-round, with last entry
+      typically earlier than closing time — there are no late evening hours, so
+      plan a morning or early-afternoon visit.
   - q: When is the quietest time to visit?
-    a: Foot-traffic data shows 9am–10am is the calmest window on both weekdays and weekends. Try to avoid 11am–2pm on Saturdays and Sundays, when it's busiest.
+    a: >-
+      Foot-traffic data shows 9am–10am is the calmest window on both weekdays
+      and weekends. Try to avoid 11am–2pm on Saturdays and Sundays, when it's
+      busiest.
   - q: How do I get to the Roman Forum?
-    a: Take Metro Line B to Colosseo station, then walk about two minutes to the entrance near the Arch of Titus. An alternate entrance is on Via della Salaria Vecchia, below Piazza del Campidoglio.
+    a: >-
+      Take Metro Line B to Colosseo station, then walk about two minutes to the
+      entrance near the Arch of Titus. An alternate entrance is on Via della
+      Salaria Vecchia, below Piazza del Campidoglio.
   - q: How long should I plan for a visit?
-    a: Budget two to three hours for the Forum alone, more if you're combining it with the Palatine Hill, which shares the same ticket and entrance area.
+    a: >-
+      Budget two to three hours for the Forum alone, more if you're combining it
+      with the Palatine Hill, which shares the same ticket and entrance area.
   - q: Is the ticket combined with the Colosseum?
-    a: Yes, a single ticket typically covers the Roman Forum, Palatine Hill, and Colosseum with one entry to each within a set validity window — buy it online ahead of time to skip queues.
+    a: >-
+      Yes, a single ticket typically covers the Roman Forum, Palatine Hill, and
+      Colosseum with one entry to each within a set validity window — buy it
+      online ahead of time to skip queues.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-08'
 ---
 ## Why go
 
