@@ -37,6 +37,7 @@ const CHECKS = [
   ['topics-mobile.mjs', '주제 페이지 모바일'],
   ['redesigns-2026-10-02.mjs', '10-01/02 개편 페이지 8종×5개 언어'],
   ['mobile-sweep.mjs', '페이지 종류 34개×5개 언어 휴대폰 넘침·12px 미만 글자·얇은 터치 영역'],
+  ['phone-fit.mjs', '흔한 휴대폰 폭(360·390px) 카드 잘림·칸 넘침·사진 출처 잘림·월별 막대×5개 언어'],
   ['contrast.mjs', '글자 대비 AA(일정·eSIM·소개·행사·홈 등 19쪽 × 라이트·다크)'],
   ['wtg-photos.mjs', '언제 갈까 나라 사진'],
   ['affiliate-surfaces.mjs', '제휴 링크 위치(짐보관·명소·호주)'],

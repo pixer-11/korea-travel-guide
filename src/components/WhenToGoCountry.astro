@@ -388,8 +388,9 @@ const jsonLd = {
   @media (max-width: 30rem) {
     .months { grid-template-columns: repeat(4, minmax(0, 1fr)); }
     /* Three columns rather than a wrapping row: "가장 좋은 달" is two words in
-       Korean and it dragged its own number onto a third line. */
-    .hero-stats { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 0.7rem; }
+       Korean and it dragged its own number onto a third line. Sized by their words, not in thirds:
+       Spanish "Precipitación" and "1794mm" are wider than a third at 360. */
+    .hero-stats { display: grid; grid-template-columns: repeat(3, auto); gap: 0.7rem; }
     .hero-stats dt { font-size: 0.68rem; }
     .hero-stats dd { font-size: 1.05rem; white-space: normal; }
   }

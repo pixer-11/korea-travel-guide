@@ -828,6 +828,8 @@ const jsonLd = {
   }
   /* Phone text floor: 12px, the rule in global.css (08-22); these labels were born outside its list (11-08). */
   @media (max-width: 760px) { .ep-phototag, .ep-stats span, .ep-scope, .ep-step-who, .ep-keep li::before, .ep-credit, .ep-chip small { font-size: 0.78rem; } }
+  /* Three tiles leave a label 53px at 360 and "Continentes" is 71px at 12px. One stat per row needs no broken word. */
+  @media (max-width: 430px) { .ep-stats { grid-template-columns: minmax(0, 1fr); gap: 4px; } .ep-stats div { display: flex; justify-content: space-between; align-items: center; gap: 8px; padding: 4px 8px; } .ep-stats b { line-height: 1.25; } }
   /* Phone tap targets, 15-23px tall until 11-08: more height, same words. */
   @media (max-width: 760px) { .ep-toggle { padding-block: .2rem; } }
 </style>

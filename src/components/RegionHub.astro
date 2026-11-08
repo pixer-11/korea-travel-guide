@@ -465,7 +465,7 @@ const dayTripHub = buildDayTrips(allPosts).find((h) => h.city === region) ?? nul
   .rh-credit { position: absolute; right: 0.6rem; top: 0.4rem; z-index: 2; margin: 0 !important; max-width: calc(100% - 1.2rem) !important; font-size: 0.68rem !important; color: rgba(255, 255, 255, 0.85) !important; text-shadow: 0 1px 3px rgba(0, 0, 0, 0.8); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
   .rh-credit a { color: inherit; }
   /* Phone text floor: 12px, the rule in global.css (08-22); these labels were born outside its list (11-08). */
-  @media (max-width: 760px) { .rh-credit { font-size: 0.78rem !important; } }
+  @media (max-width: 760px) { .rh-credit { font-size: 0.78rem !important; white-space: normal; text-align: right; } } /* one line at 12px cut off the licence */
   .rh-intro { text-align: center; padding-top: clamp(1.2rem, 3vw, 1.8rem); }
   .rh-intro > .wrap > p:not(.rh-save) { color: var(--ink-soft); font-size: 1.15rem; max-width: 46ch; margin: 0.8rem auto 0; }
   .rh-intro .rh-save { justify-content: center; }

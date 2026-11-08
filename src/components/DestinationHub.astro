@@ -526,7 +526,7 @@ const metaDesc = blurb ? clip(blurb) : countryLabel;
   .dh-cell:hover .dh-cell-more { text-decoration: underline; }
   .dh-cell-next { font-weight: 600; color: var(--ink); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
   /* Twelve-month strip: bar height = how comfortable, colour = the band. */
-  .dh-months { display: grid; grid-template-columns: repeat(12, 1fr); gap: 3px; align-items: end; height: 42px; margin-top: 0.15rem; }
+  .dh-months { display: grid; grid-template-columns: repeat(12, minmax(0, 1fr)); gap: 3px; align-items: end; height: 42px; margin-top: 0.15rem; }
   .dh-mo { display: flex; flex-direction: column; align-items: center; justify-content: flex-end; height: 100%; gap: 2px; }
   .dh-mo i { display: block; width: 100%; height: var(--h); border-radius: 3px 3px 1px 1px; background: #d9d2c4; }
   .dh-mo b { font-size: 0.56rem; font-weight: 600; color: var(--muted); line-height: 1; }
@@ -652,6 +652,9 @@ const metaDesc = blurb ? clip(blurb) : countryLabel;
   }
   /* Phone text floor: 12px, the rule in global.css (08-22); these labels were born outside its list (11-08). */
   @media (max-width: 760px) { .dh-credit, .dh-mo b, .dh-itin-badge, .dh-date span, .dh-guide-meta { font-size: 0.78rem; } }
-  /* Twelve labels at 12px need 139px; the narrowest phones give the strip 104px, so they label every other month. */
-  @media (max-width: 359px) { .dh-months { grid-template-columns: repeat(12, minmax(0, 1fr)); } .dh-mo:nth-child(even) b { visibility: hidden; } }
+  /* Twelve labels at 12px need a 16px pitch, so a strip under 189px labels every other month. It reads the card, not the
+     screen: the strip's width jumps where the card grid changes columns (124px at 360, 267px at 670, 161px at 671). */
+  @media (max-width: 760px) { .dh-cell--best { container-type: inline-size; } @container (max-width: 189px) { .dh-mo:nth-child(even) b { visibility: hidden; } } }
+  /* At 12px the one-line credit cut off its licence ("CC BY-SA 4..."), the part an attribution exists for. */
+  @media (max-width: 760px) { .dh-credit { white-space: normal; text-align: right; } }
 </style>
