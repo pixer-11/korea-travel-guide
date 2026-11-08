@@ -39555,5 +39555,54 @@
   "registerBreak": false,
   "worst": "这种声音不只入耳，胸腔也能清楚感到它的振动。",
   "at": "2026-11-07T14:14:51.700Z"
+ },
+ "es/dubai-amr-diab-live-in-dubai": {
+  "hash": "964a9124b517",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "El riesgo de que los lectores del recinto detecten entradas falsificadas o duplicadas es real",
+  "at": "2026-11-08T14:31:30.607Z"
+ },
+ "es/incheon-my-chemical-romance-seoul-2026": {
+  "hash": "ae3f9852d640",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "trámites que pueden llevar de 45 minutos a una hora antes de alcan",
+  "at": "2026-11-08T14:31:31.982Z"
+ },
+ "es/seogwipo-jeju-olle-walking-festival": {
+  "hash": "59a49e1e6d67",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "El festival llevaba el sello de Jeju Olle, y tanto la inscripción como el programa",
+  "at": "2026-11-08T14:31:35.470Z"
+ },
+ "ja/seogwipo-jeju-olle-walking-festival": {
+  "hash": "3a2b07c5fbd2",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-11-08T14:31:36.255Z"
+ },
+ "ko/seogwipo-jeju-olle-walking-festival": {
+  "hash": "a9bf56806e13",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "대부분의 사람에게는 두 코스 모두 하루를 꼬박 걸어야 하는 거리입니다.",
+  "at": "2026-11-08T14:31:37.710Z"
+ },
+ "zh/las-vegas-metallica-life-burns-faster-sphere-las-vegas-residency": {
+  "hash": "91cd7f5714b0",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "这并不是巡演途经拉斯维加斯的一站，而是一轮驻场演出。",
+  "at": "2026-11-08T14:31:38.626Z"
+ },
+ "zh/seogwipo-jeju-olle-walking-festival": {
+  "hash": "8796aa09f383",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "节庆虽然打着西归浦的名号，这两条路线却位于东北海岸。",
+  "at": "2026-11-08T14:31:39.635Z"
  }
 }

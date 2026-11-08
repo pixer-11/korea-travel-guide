@@ -37,8 +37,11 @@ Chicago, United States — 12 qualifying post(s), variants: 3
 Dubai, United Arab Emirates — 13 qualifying post(s), variants: 3
   = Dubai 3d — unchanged, skipping
 
-Ho Chi Minh City, Vietnam — 15 qualifying post(s), variants: 3
-  = Ho Chi Minh City 3d — unchanged, skipping
+Ho Chi Minh City, Vietnam — 17 qualifying post(s), variants: 3
+  ~ Ho Chi Minh City 3d — minor structure change (0 slug diff), keeping existing prose
+  ⚠ Ho Chi Minh City 3d — validator found 1 prose-fixable issue(s); correcting once
+VALIDATE-FAILED ho-chi-minh-city-3-days.md — 1 issue(s):
+  • DURATION-CONTRADICTION: ho-chi-minh-city-3-days.md — day 2 stop "ho-chi-minh-city-saigon-zoo-and-botanical-gardens" why says "half day" (~240 min) but dwellMin is 150
 
 Hong Kong, Hong Kong — 90 qualifying post(s), variants: 3, 5
   = Hong Kong 3d — unchanged, skipping
