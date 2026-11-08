@@ -40,7 +40,7 @@ import { eventInBodyCandidates, pickFirstPassing } from './lib/inbody-candidates
 import { foreignInFilename, geoTokens, spelledOutInitials } from './lib/event-file-identity.mjs';
 import { loadWorld } from './lib/commons-identity.mjs';
 import { ownCountry } from './lib/country-of-city.mjs';
-import { isPastEvent } from './lib/event-past.mjs';
+import { isOverAtVenue, endsTooSoon } from './lib/event-past.mjs';
 import { learnVenueZone } from './lib/province-tz.mjs';
 
 // Place-name tokens for the filename identity audit (a past host city in a
@@ -234,8 +234,12 @@ function planDiscovered(item, ctx, log = console.log) {
   const key = `${kind}:${slugify(`${country}-${item.name}`)}`;
   const slug = slugify(`${item.city}-${item.name}`);
   if (done.has(key) || existing.has(slug)) return null;
-  if (kind === 'event' && isPastEvent(item)) {
+  if (kind === 'event' && isOverAtVenue(item, country)) {
     log(`    ⏭️  "${item.name}" — already over (${item.endDate || item.startDate}); not writing a new guide`);
+    return null;
+  }
+  if (kind === 'event' && endsTooSoon(item, country)) {
+    log(`    ⏭️  "${item.name}" — one-off ending too soon (${item.endDate || item.startDate}); not writing a new guide`);
     return null;
   }
   // No date, no guide. The publish gate holds every event without
