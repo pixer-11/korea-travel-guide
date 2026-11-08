@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bath-american-museum-gardens
-srcHash: '5cd6fbbe93f0'
+srcHash: 'a66a289f7603'
 title: 'American Museum & Gardens: guía de viaje de Bath (4.5★)'
 description: En Claverton Manor, sobre el valle de Limpley Stoke y a unas 2.5 millas al sureste del centro de Bath, se encuentra el American Museum & Gardens. Con una valoración de 4.5★ (1,343 reseñas), aquí encontrará la opinión de los visitantes, el horario y consejos prácticos.
 quickAnswer: El American Museum & Gardens ocupa Claverton Manor, en Claverton Down. Está a unas 2.5 millas al sureste del centro de Bath y domina desde lo alto el valle de Limpley Stoke. Actualmente abre de 10am–5pm, aunque la temporada y el horario cambian a lo largo del año, por lo que conviene consultar la web oficial antes de ir. Reserve media jornada para recorrer las salas de época, la colección de colchas y los jardines.
@@ -55,7 +55,7 @@ Quien prefiera caminar encontrará abajo, en el fondo del valle, el camino de si
 
 ## Cómo aprovechar al máximo un día en Claverton
 
-El museo funciona por temporadas. No abre todo el año, y su horario y sus periodos de cierre varían; en Navidad cuenta además con una programación aparte. Actualmente abre de 10am–5pm, pero las fechas del mes en curso figuran en la web oficial. Consúltela antes de organizar una excursión en torno a la visita.
+El museo funciona por temporadas. No abre todo el año, y sus fechas de apertura varían de un año a otro; en Navidad cuenta además con una programación aparte. Actualmente abre de 10am–5pm, pero las fechas del mes en curso figuran en la web oficial. Consúltela antes de organizar una excursión en torno a la visita.
 
 Algunos consejos para disfrutar más del día:
 

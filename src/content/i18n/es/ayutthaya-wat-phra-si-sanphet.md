@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: ayutthaya-wat-phra-si-sanphet
-srcHash: 'f35b091ffe9b'
+srcHash: '60d716645421'
 title: 'Wat Phra Si Sanphet: Guía de viaje de Ayutthaya (4.7★)'
 description: 'Wat Phra Si Sanphet es esa silueta de tres chedis que probablemente ya haya visto en cualquier foto de Ayutthaya: el corazón ceremonial del antiguo palacio real, hoy convertido en un amplio campo de ruinas de ladrillo en el borde de la isla histórica de Ayutthaya. 4.7★ (13.669 reseñas): qué opinan los visitantes, horarios y consejos.'
 quickAnswer: 'Wat Phra Si Sanphet es esa silueta de tres chedis que probablemente ya haya visto en cualquier foto de Ayutthaya: el corazón ceremonial del antiguo palacio real, hoy convertido en un amplio campo de ruinas de ladrillo en el borde de la isla histórica de Ayutthaya. Dedíquele entre 45 y 60 minutos, y venga justo a la apertura o después de media tarde para evitar los autobuses de turistas; combínelo con el cercano Wihan Phra Mongkhon Bophit, justo al lado. Los fines de semana la afluencia es mayor entre las 10:00 y las 17:00, así que conviene evitar esa franja, aunque el recinto abre en realidad de 8:00 a 18:30 todos los días.'
@@ -26,7 +26,7 @@ Esa ausencia es precisamente lo que importa. Este fue el centro espiritual del R
 
 ## Por qué importa este lugar
 
-Wat Phra Si Sanphet se encontraba dentro del propio recinto del palacio real, lo que lo distinguía de cualquier otro templo de la ciudad: aquí nunca vivieron monjes, porque se construyó únicamente como capilla real, un espacio donde los reyes acumulaban méritos y celebraban ceremonias de Estado. Los tres chedis que se contemplan hoy fueron erigidos para guardar las cenizas de tres reyes de Ayutthaya, y el templo llegó a albergar una imagen de Buda en pie de 16 metros recubierta de oro, un dato que conviene conocer porque explica por qué las tropas birmanas arrancaron y fundieron ese revestimiento dorado cuando saquearon la ciudad en 1767.
+Wat Phra Si Sanphet se encontraba dentro del propio recinto del palacio real, lo que lo distinguía de cualquier otro templo de la ciudad: aquí nunca vivieron monjes, ya que funcionaba únicamente como capilla real, un espacio donde los reyes acumulaban méritos y celebraban ceremonias de Estado. Los tres chedis que se contemplan hoy fueron erigidos para guardar las cenizas de tres reyes de Ayutthaya, y el templo llegó a albergar una imagen de Buda en pie de 16 metros recubierta de oro, un dato que conviene conocer porque explica por qué las tropas birmanas arrancaron y fundieron ese revestimiento dorado cuando saquearon la ciudad en 1767.
 
 Recorrer hoy el terreno, entre los cimientos bajos de ladrillo que antes delimitaban salones y santuarios, equivale en esencia a seguir la huella de un palacio que ya no existe por encima de la altura de una rodilla.
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bariloche-cerro-campanario
-srcHash: '63866584fd93'
+srcHash: '58b4df26b361'
 title: 'Cerro Campanario: guía de viaje de Bariloche (4.9★)'
 description: El Cerro Campanario se alza junto a la Avenida Ezequiel Bustillo, en el km 17.5, a unos 17 km al oeste del centro de San Carlos de Bariloche. Con 4.9★ (1,591 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
 quickAnswer: A unos 17 km al oeste del centro de San Carlos de Bariloche, junto a la Avenida Ezequiel Bustillo, en el km 17.5, se alza el Cerro Campanario. A la cumbre se sube en aerosilla o por un sendero corto y empinado. Desde arriba, la vista de 360 grados abarca el Lago Nahuel Huapi, el Lago Perito Moreno y la península Llao Llao. Calcule entre 1.5 y 2 horas, elija un día despejado y, antes de salir, consulte en el sitio oficial el horario vigente de la aerosilla.
@@ -60,7 +60,7 @@ Las excursiones guiadas y los ciclistas suelen salir a media mañana, de modo qu
 Algunas costumbres útiles:
 
 - Compre el pasaje de la aerosilla en la boletería de la base, donde está publicada la tarifa vigente, que también figura en el sitio oficial.
-- En la confitería de la cumbre, los argentinos suelen pedir un submarino (leche caliente en la que se derrite una barra de chocolate) o café con medialunas. Se pide en el mostrador y luego se busca una mesa junto a la ventana.
+- La confitería de la cumbre ofrece bebidas frías y calientes, además de algo para picar. Se pide en el mostrador y luego se busca una mesa junto a la ventana.
 - En Bariloche se paga con pesos y con tarjeta. Muchos visitantes usan tarjeta o el QR de Mercado Pago, pero conviene llevar algo de efectivo para las compras pequeñas.
 - Los lugareños lo llaman simplemente «Campanario»; al taxista no hace falta decirle «Cerro».
 

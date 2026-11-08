@@ -38,9 +38,7 @@ Dubai, United Arab Emirates — 13 qualifying post(s), variants: 3
   = Dubai 3d — unchanged, skipping
 
 Ho Chi Minh City, Vietnam — 15 qualifying post(s), variants: 3
-  ~ Ho Chi Minh City 3d — structure changed by 6 slug(s), regenerating prose
-  ⚠ Ho Chi Minh City 3d — validator found 1 prose-fixable issue(s); correcting once
-  ✅ Ho Chi Minh City 3d — updated
+  = Ho Chi Minh City 3d — unchanged, skipping
 
 Hong Kong, Hong Kong — 90 qualifying post(s), variants: 3, 5
   = Hong Kong 3d — unchanged, skipping
@@ -75,7 +73,7 @@ Singapore, Singapore — 79 qualifying post(s), variants: 3, 5
   = Singapore 3d — unchanged, skipping
   = Singapore 5d — unchanged, skipping
 
-Done.
+Done. Nothing changed.
 
 🗺️  Un-park: 0 republished · 0 still held
 UNPARK_SUMMARY freed=0 held=0

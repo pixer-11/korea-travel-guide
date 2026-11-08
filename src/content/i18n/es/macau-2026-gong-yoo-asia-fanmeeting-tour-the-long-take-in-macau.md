@@ -1,75 +1,75 @@
 ---
 lang: es
 slug: macau-2026-gong-yoo-asia-fanmeeting-tour-the-long-take-in-macau
-srcHash: '07d7a76b5dca'
+srcHash: '83c04e5859fa'
 title: '2026 GONG YOO ASIA FANMEETING TOUR <THE LONG TAKE> IN MACAU: fechas, entradas y recinto (Macao)'
-description: El 7 de noviembre de 2026, el Studio City Event Center de Cotai acoge 2026 GONG YOO ASIA FANMEETING TOUR <THE LONG TAKE> IN MACAU, el primer encuentro del actor con sus fans en Macao.
-quickAnswer: 2026 GONG YOO ASIA FANMEETING TOUR <THE LONG TAKE> IN MACAU se celebra el 7 de noviembre de 2026 en el Studio City Event Center de Cotai. Será la primera vez que el actor se reúna con sus fans en Macao. Las entradas para esta parada se venden por los canales oficiales del organizador, y en esta guía no figuran precios. La mayoría de los asistentes llega a Cotai en ferri o por el puente Hong Kong-Zhuhai-Macao y pasa la noche en algún hotel del Strip.
+description: El 2026 GONG YOO ASIA FANMEETING TOUR <THE LONG TAKE> IN MACAU estaba programado para el 7 de noviembre de 2026 en el Studio City Event Center, en Cotai.
+quickAnswer: La fecha anunciada del 2026 GONG YOO ASIA FANMEETING TOUR <THE LONG TAKE> IN MACAU era el 7 de noviembre de 2026, y el lugar, el Studio City Event Center de Cotai. Se presentó como el primer encuentro del actor con sus fans en Macao. Las entradas para esta escala se vendieron a través del organizador. Los visitantes suelen llegar a Cotai en ferri o por el puente Hong Kong-Zhuhai-Macao, y muchos pasan la noche en el Strip.
 faq:
-  - q: ¿Cuándo y dónde se celebra el encuentro de Gong Yoo con sus fans en Macao?
-    a: 2026 GONG YOO ASIA FANMEETING TOUR <THE LONG TAKE> IN MACAU tendrá lugar el 7 de noviembre de 2026 en el Studio City Event Center, el pabellón cubierto del complejo Studio City, situado en el Cotai Strip. Es la primera vez que Gong Yoo celebra un encuentro con fans en Macao.
+  - q: ¿Cuándo y dónde era el encuentro de Gong Yoo con sus fans en Macao?
+    a: La fecha fijada era el 7 de noviembre de 2026, y el lugar, el Studio City Event Center, el pabellón cubierto del complejo Studio City, en el Cotai Strip. Se presentó como el primer encuentro de Gong Yoo con sus fans en Macao.
   - q: ¿Cómo se llega al Studio City Event Center desde Hong Kong?
-    a: Casi todos los visitantes cruzan el puente Hong Kong-Zhuhai-Macao en autobús lanzadera o toman un ferri hasta la terminal de Taipa o la del Puerto Exterior (Outer Harbour). Desde cualquiera de los dos puntos, el último tramo puede hacerse en taxi o en los autobuses gratuitos de los complejos de Cotai. Quien venga de Hengqin tiene el puesto fronterizo de Lotus muy cerca de Studio City.
-  - q: ¿Dónde se compran las entradas?
-    a: La venta de entradas para la parada de Macao corre a cargo de los canales oficiales del organizador. Esta guía no incluye precios. Como en muchas giras asiáticas de este tipo las entradas son nominativas, los fans suelen llevar el documento de identidad con el que hicieron la compra.
-  - q: ¿Cuánto dura un encuentro con fans y merece la pena quedarse a dormir?
-    a: Los encuentros coreanos con fans suelen durar un par de horas, de modo que el espectáculo termina por la noche. Por eso, la mayoría de los fans que vienen de fuera se aloja en Cotai o en Taipa y aprovecha el día siguiente para visitar la Vila de Taipa (Taipa Village) y el Centro Histórico de Macao.
+    a: La mayoría de los visitantes cruza el puente Hong Kong-Zhuhai-Macao en autobús lanzadera o viaja en ferri hasta la Terminal Marítima de Taipa o la del Puerto Exterior. Desde cualquiera de los dos puntos, el último tramo se cubre en taxi o en los autobuses gratuitos de los complejos de Cotai. El puesto fronterizo de Lotus, que comunica con Hengqin, está muy cerca de Studio City.
+  - q: ¿Dónde se venden las entradas?
+    a: Las entradas para la escala de Macao se vendieron a través del organizador. En muchas giras asiáticas de encuentros con fans las entradas son nominativas, por lo que los asistentes suelen llevar el documento de identidad con el que hicieron la compra.
+  - q: ¿Cuánto dura un encuentro con fans y vale la pena quedarse a dormir?
+    a: Los encuentros con fans coreanos suelen durar un par de horas, así que el espectáculo termina por la noche. La mayoría de quienes vienen de fuera duerme en Cotai o en Taipa y al día siguiente recorre la Villa de Taipa y el Centro Histórico de Macao.
   - q: ¿Qué tiempo hace en Macao a principios de noviembre?
-    a: Noviembre es uno de los meses más agradables en Macao. La temporada de tifones ya ha quedado prácticamente atrás, la humedad baja y las noches son templadas, así que resulta cómodo ir a pie de un complejo a otro de Cotai. Además, a mediados de mes suele disputarse el Gran Premio de Macao, que dispara la demanda hotelera en toda la ciudad.
+    a: Noviembre es uno de los meses más agradables en Macao. La temporada de tifones ha quedado prácticamente atrás, la humedad baja y las noches son templadas, de modo que pasear entre los complejos de Cotai resulta agradable. Además, a mediados de noviembre suele disputarse el Gran Premio de Macao, que dispara la demanda hotelera en toda la ciudad.
 ---
 
 ## Una noche con Gong Yoo en Cotai
 
-La cita es el 7 de noviembre de 2026. Esa noche, Gong Yoo, protagonista de *Coffee Prince*, *Tren a Busan* y *Guardian: The Lonely and Great God* (más conocida como *Goblin*), llevará por primera vez a Macao THE LONG TAKE, su gira asiática de encuentros con fans. El escenario elegido es el Studio City Event Center, dentro de uno de los grandes complejos turísticos integrados del Cotai Strip.
+La fecha anunciada en Macao era el 7 de noviembre de 2026. Se presentó como la primera escala en la ciudad de THE LONG TAKE, la gira asiática de encuentros con fans de Gong Yoo, el actor de *Coffee Prince*, *Train to Busan* y *Guardian: The Lonely and Great God* (más conocida como *Goblin*). Como sede se anunció el Studio City Event Center, situado dentro de uno de los grandes complejos turísticos integrados del Cotai Strip.
 
-Un encuentro con fans no se vive igual que un concierto. En el formato coreano se suelen combinar charlas, juegos con el público y anécdotas personales, y la música es solo un ingrediente más de la velada, no su eje. El propio título de la gira remite al oficio de actor: en el cine, una toma larga es un plano único que se sostiene sin ningún corte.
+Un encuentro con fans no se vive igual que un concierto. En el formato coreano suelen alternarse las charlas, los juegos con el público y las anécdotas personales, y la música ocupa solo una parte de la velada. El título de la gira remite al oficio del actor: un plano largo es una toma única y continua que se sostiene sin ningún corte.
 
-## El Studio City Event Center, de cerca
+## El Studio City Event Center de cerca
 
-Studio City es el complejo de temática cinematográfica que se alza en el suroeste de Cotai. Se reconoce desde lejos gracias a su noria en forma de ocho, la Golden Reel, que gira por el hueco que separa sus dos torres hoteleras. El Event Center es el pabellón cubierto del complejo. Con capacidad para varios miles de espectadores, se concibió para conciertos, veladas de boxeo y galas de premios.
+Studio City es el complejo de temática cinematográfica del suroeste de Cotai. Se reconoce desde lejos por la Golden Reel, una noria en forma de ocho que pasa por el hueco entre sus dos torres hoteleras. El Event Center es el pabellón cubierto del complejo. Concebido para conciertos, veladas de boxeo y entregas de premios, tiene capacidad para unos pocos miles de espectadores.
 
-Son unas dimensiones idóneas para un encuentro con fans. A diferencia de lo que ocurre en un estadio, incluso desde las filas más altas se ve bien el escenario, y las pantallas se encargan de los primeros planos. Para ir del pabellón a los restaurantes, la sala de juego o los ascensores del hotel hay que recorrer largos pasillos enmoquetados. Quienes se alojan en el propio complejo suelen volver a su habitación sin necesidad de salir a la calle.
+Ese aforo le sienta bien a un encuentro con fans. A diferencia de lo que ocurre en un estadio, desde las filas superiores el escenario sigue siendo visible, y las pantallas se encargan de los primeros planos. Para ir del pabellón a los restaurantes, la sala de juego o los ascensores del hotel hay que recorrer largos pasillos enmoquetados. Quienes se alojan en el complejo suelen volver a su habitación sin pisar la calle.
 
 ## Cómo llegar al Strip
 
-Cotai es un terreno ganado al mar entre Taipa y Coloane, bastante alejado de la antigua península. Desde Hong Kong, lo habitual es llegar de alguna de estas formas:
+Cotai es un terreno ganado al mar entre Taipa y Coloane, bastante alejado de la antigua península. Desde Hong Kong, los visitantes suelen llegar por alguna de estas vías:
 
-- **Puente Hong Kong-Zhuhai-Macao**: unos autobuses lanzadera salen del puesto fronterizo de Hong Kong, junto al aeropuerto, y lo dejan a usted en el de Macao. Desde allí se continúa en taxi o en los autobuses de los complejos.
-- **Ferri**: los barcos procedentes de Hong Kong atracan en la Terminal Marítima del Puerto Exterior (Outer Harbour Ferry Terminal), en la península, o en la Terminal Marítima de Taipa (Taipa Ferry Terminal). De las dos, la de Taipa es la más próxima a Cotai.
-- **Desde China continental**: a pie se cruza por las Portas do Cerco (Border Gate, Gongbei) o por el puesto fronterizo de Lotus, junto a Hengqin, que queda muy cerca de Studio City.
+- **Puente Hong Kong-Zhuhai-Macao**: unos autobuses lanzadera cruzan desde el puerto de Hong Kong, próximo al aeropuerto, hasta el puerto de Macao. El resto del trayecto se completa en taxi o en los autobuses de los complejos.
+- **Ferri**: los barcos procedentes de Hong Kong atracan en la Terminal Marítima del Puerto Exterior (Outer Harbour Ferry Terminal), en la península, o en la Terminal Marítima de Taipa (Taipa Ferry Terminal). De las dos, la de Taipa es la más cercana a Cotai.
+- **Desde China continental**: a pie se cruza por la Puerta de la Frontera (Border Gate, Gongbei) o por el puesto fronterizo de Lotus, junto a Hengqin, que queda muy cerca de Studio City.
 
-Desde hace años, los grandes complejos de Cotai, Studio City entre ellos, ofrecen autobuses gratuitos desde las principales terminales marítimas y pasos fronterizos. La línea Taipa del Metro Ligero de Macao también atraviesa el Strip. Cuando termina un espectáculo, las colas de taxis frente al pabellón se alargan mucho, así que muchos fans optan por el autobús de algún complejo o se acercan a pie hasta un hotel vecino.
+Desde hace años, los grandes complejos de Cotai, Studio City entre ellos, ofrecen autobuses lanzadera gratuitos desde las principales terminales marítimas y pasos fronterizos. La línea de Taipa del Metro Ligero de Macao también atraviesa el Strip. Al terminar un espectáculo se forman largas colas de taxis a la salida del pabellón, por lo que muchos fans optan por un autobús del complejo o van caminando hasta algún complejo vecino.
 
 ## Noviembre en el Cotai Strip
 
-Las fechas juegan a su favor. Noviembre es uno de los meses más agradables en Macao: la temporada de tifones ya ha quedado prácticamente atrás, el aire es más seco y las noches resultan lo bastante templadas como para ir andando de un complejo a otro. No es un detalle menor en el Strip, donde edificios que parecen pegados suelen estar a un buen paseo de distancia.
+La fecha caía en un buen mes. Noviembre es uno de los meses más agradables en Macao: la temporada de tifones ha quedado prácticamente atrás, el aire es más seco y las noches son lo bastante templadas para ir a pie de un complejo a otro. En el Strip esto no es un detalle menor, porque edificios que parecen contiguos suelen estar separados por una buena caminata.
 
-En noviembre se disputa también el Gran Premio de Macao, normalmente a mediados de mes y en el circuito urbano de Guía, en la península. Los años en que el fin de semana de carreras coincide con un gran espectáculo en Cotai, las habitaciones de hotel de toda la ciudad se cotizan mucho. A esa demanda se suman los miles de fans de fuera que atraerá el encuentro del 7 de noviembre, por lo que la mayoría reserva su alojamiento con bastante antelación.
+También en noviembre se disputa el Gran Premio de Macao, normalmente a mediados de mes, en el circuito urbano de Guia, en la península. Los años en que el fin de semana de carreras coincide con un gran espectáculo en Cotai, las habitaciones de hotel de toda la ciudad están muy solicitadas. El 7 de noviembre quedaba poco antes de las fechas habituales de la carrera.
 
-## Normas de comportamiento en la sala
+## Normas de cortesía dentro de la sala
 
-Lo que ocurre en las butacas importa tanto como el viaje. Los encuentros coreanos con fans que se celebran en Macao siguen las costumbres del fandom de los dramas coreanos en general, a las que se añaden algunas normas propias del recinto:
+Lo que ocurre en las butacas importa tanto como el viaje. Los encuentros con fans coreanos en Macao siguen las costumbres de la afición a los dramas coreanos en general, a las que se suman algunas normas propias del recinto:
 
-- **Cámaras**: en los encuentros coreanos con fans casi siempre se prohíben las cámaras profesionales y los objetivos intercambiables. Lo que se permite con el móvil cambia de una gira a otra; la noche del evento rige el aviso que el organizador coloca en la entrada.
-- **Entradas nominativas**: en las giras asiáticas es frecuente que la entrada lleve impreso el nombre del comprador. Por eso los fans suelen llevar el pasaporte o el documento de identidad con el que la compraron, ya que el personal puede pedirlo en la puerta.
-- **Pancartas y mensajes**: lo habitual es llevar pequeños carteles impresos con mensajes de apoyo y sostenerlos por debajo de la altura de la cabeza para no tapar la vista a la fila de atrás. Los carteles grandes y cualquier objeto montado sobre un palo no suelen estar permitidos.
-- **Pagos**: dentro del complejo se puede pagar con tarjeta o con monedero móvil prácticamente en todas partes, incluidos Alipay y WeChat Pay. Los dólares de Hong Kong se aceptan en casi todo Macao, aunque el cambio suele devolverse en patacas.
-- **Idioma**: Gong Yoo hablará en coreano, y en esta clase de giras suele haber un intérprete en el escenario. Con el personal se puede hablar en cantonés, mandarín o inglés.
+- **Cámaras**: en los encuentros con fans coreanos casi siempre se prohíben las cámaras profesionales y los objetivos intercambiables. Las normas sobre teléfonos móviles varían de una gira a otra, y en cada función las fija el aviso del organizador colocado en la entrada.
+- **Entradas nominativas**: en las giras asiáticas es frecuente que la entrada lleve impreso el nombre del comprador. Los fans suelen llevar el pasaporte o el documento de identidad con el que hicieron la compra, ya que el personal puede pedirlo en la puerta.
+- **Pancartas y lemas**: lo habitual es llevar pequeños carteles impresos con lemas y mantenerlos por debajo de la altura de la cabeza para no tapar la vista a la fila de atrás. Los carteles grandes y cualquier objeto montado sobre un palo no suelen estar permitidos.
+- **Pagos**: dentro del complejo se aceptan casi en todas partes las tarjetas y los monederos móviles, incluidos Alipay y WeChat Pay. El dólar de Hong Kong circula ampliamente en Macao, aunque el cambio suele devolverse en patacas.
+- **Idioma**: Gong Yoo trabaja en coreano, y en los encuentros de esta gira suele haber un intérprete en el escenario. Con el personal se habla tanto cantonés como mandarín o inglés.
 
-En los encuentros asiáticos con fans, los puestos de artículos oficiales suelen abrir varias horas antes del espectáculo, y es ahí donde se forma la cola más larga de la jornada. Muchos fans empiezan el día por esa fila y pasan el resto de la tarde recorriendo el complejo.
+En los encuentros con fans en Asia, los puestos de productos oficiales suelen abrir varias horas antes del espectáculo, y es ahí donde se forma la cola más larga del día. Muchos fans se dirigen primero a esa fila y pasan el resto de la tarde recorriendo el complejo.
 
 ## Un fin de semana completo
 
-El encuentro dura un par de horas; el resto del fin de semana corre por cuenta de Macao. Sin salir de Studio City encontrará:
+Un encuentro con fans dura un par de horas, y Macao ofrece mucho más para llenar el resto del fin de semana. En el propio Studio City se encuentran:
 
-- **Golden Reel**: las cabinas recorren la noria en forma de ocho entre las dos torres. Desde lo más alto se domina Cotai y, al otro lado del agua, Hengqin.
-- **Batman Dark Flight**: una atracción de simulador de movimiento acorde con la temática cinematográfica del complejo.
-- **Studio City Water Park**: piscinas y toboganes cubiertos y al aire libre. La zona exterior solo abre en temporada.
+- **Golden Reel**: las cabinas recorren la noria en forma de ocho entre las dos torres, y desde lo más alto se divisa Cotai y, al otro lado del agua, Hengqin.
+- **Batman Dark Flight**: un simulador de movimiento acorde con la temática cinematográfica del complejo.
+- **Studio City Water Park**: piscinas y toboganes cubiertos y al aire libre. La zona exterior abre solo en temporada.
 
-Al lado se encuentran el Venetian Macao, con canales interiores bajo un cielo pintado, y el Parisian Macao, con su réplica de la torre Eiffel a media escala. A pocos minutos en taxi queda la Vila de Taipa (Taipa Village). En la Rua do Cunha, sus tiendas venden galletas de almendra y bocadillos de chuleta de cerdo, y el Museo de las Casas de Taipa (Taipa Houses Museum) exhibe villas macaenses de tonos pastel restauradas.
+Justo al lado están el Venetian Macao, con canales interiores bajo un cielo pintado, y el Parisian Macao, con su torre Eiffel a media escala. A un corto trayecto en taxi queda la Villa de Taipa (Taipa Village). Allí, en la Rua do Cunha, las tiendas venden galletas de almendra y bocadillos de chuleta de cerdo, y el Museo de las Casas de Taipa (Taipa Houses Museum) muestra villas macaenses restauradas en tonos pastel.
 
-La península merece al menos media jornada. Desde el Largo do Senado, con su empedrado portugués de dibujo ondulado, una cuesta conduce hasta las Ruinas de San Pablo, la fachada de piedra labrada de una iglesia del siglo XVII. Forman parte del Centro Histórico de Macao, declarado Patrimonio de la Humanidad por la UNESCO. Al sur de Cotai, en la aldea de Coloane, Lord Stow's Bakery es el nombre que más se asocia a la tarta de huevo macaense.
+La península merece medio día aparte. Desde el Largo do Senado, con su empedrado portugués de motivos ondulados, se sube hasta las Ruinas de San Pablo, la fachada de piedra labrada de una iglesia del siglo XVII. Forman parte del Centro Histórico de Macao, declarado Patrimonio Mundial por la UNESCO. En el pueblo de Coloane, al sur de Cotai, la pastelería Lord Stow's Bakery es el lugar más vinculado a la tarta de huevo macaense.
 
 ## Por qué Macao encaja con THE LONG TAKE
 
-Macao es un destino muy adecuado para un encuentro coreano con fans. Desde Hong Kong, Cantón y lugares más lejanos se llega en una o dos horas, y en Studio City el pabellón, el hotel y la cena están bajo el mismo techo. Con sus películas y sus series, Gong Yoo ha reunido por toda Asia un público fiel que lo acompaña desde hace muchos años. Muchos de esos seguidores pasarán este fin de semana así: una noche en Cotai y una mañana en la ciudad antigua.
+Macao es un escenario idóneo para un encuentro con fans coreano. Desde Hong Kong, Cantón y lugares más lejanos se llega en una o dos horas, y Studio City reúne bajo un mismo techo el pabellón, las habitaciones de hotel y la cena. Con sus películas y series, Gong Yoo se ha ganado en toda Asia un público fiel que lo acompaña desde hace muchos años. Para quien viene de fuera, una noche en Cotai se combina fácilmente con una mañana en el casco antiguo.

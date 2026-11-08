@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bandung-playlist-rewind-festival-2026
-srcHash: '6654c47b9d1a'
+srcHash: '0d05078bac64'
 title: 'Playlist Rewind Festival 2026: fechas, entradas y recinto (Bandung)'
 description: El Playlist Rewind Festival 2026 se celebrará en Bandung el sábado 14 y el domingo 15 de noviembre de 2026. El recinto será Secapa, los terrenos de la escuela de oficiales del ejército situados en la zona de Hegarmanah, al norte de la ciudad.
 quickAnswer: El Playlist Rewind Festival 2026 se celebrará en Bandung el sábado 14 y el domingo 15 de noviembre de 2026. Tendrá lugar en Secapa, los terrenos de la escuela de oficiales del ejército situados en la zona de Hegarmanah, al norte de la ciudad. Durante dos días, la nostalgia y los grandes éxitos para cantar a coro serán los protagonistas. El cartel y los enlaces para comprar entradas se publican en los canales oficiales del festival. En noviembre llueve mucho en las tierras altas, así que el público suele llevar alguna prenda ligera contra la lluvia para la noche.

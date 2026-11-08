@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: cinque-terre-parco-nazionale-delle-cinque-terre
-srcHash: '91935ed6cc0a'
+srcHash: '728d18285ae9'
 title: 'Parque Nacional de Cinque Terre: Guía de viaje (4,7★)'
 description: 'El Parque Nacional de Cinque Terre está formado por cinco pueblos colgados de los acantilados —Monterosso, Vernazza, Corniglia, Manarola, Riomaggiore— unidos por senderos, trenes y barcos a lo largo de la costa protegida de Liguria. 4,7★ (46.756 opiniones): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Parque Nacional de Cinque Terre está formado por cinco pueblos colgados de los acantilados —Monterosso, Vernazza, Corniglia, Manarola, Riomaggiore— unidos por senderos, trenes y barcos a lo largo de la costa protegida de Liguria. Está abierto las 24 horas, pero para una visita más tranquila conviene ir los fines de semana por la mañana, entre las 7:00 y las 10:00; evita la avalancha de gente de 13:00 a 14:00, de 16:00 a 18:00 y de 21:00 a 23:00 los fines de semana. Dedícale un día completo como mínimo, y dos si quieres realmente recorrer los senderos.
@@ -57,7 +57,7 @@ Visita en mayo, junio o septiembre para disfrutar de agua templada y menos aglom
 Cinque Terre es hoy, sin duda, un parque muy visitado, no un secreto tranquilo, así que conviene planificar en torno a las multitudes en lugar de esperar evitarlas por completo.
 
 - **Empieza temprano.** Toma los primeros trenes y tendrás el puerto de Vernazza o el mirador de Manarola prácticamente para ti antes de que llegue la avalancha del fin de semana.
-- **Compra la park card en la estación**, no a un revendedor: cuesta lo mismo y financia el mantenimiento de los senderos.
+- **Compra la park card en la estación**, no a un revendedor.
 - **Paga con tarjeta o sin contacto** cuando sea posible; las trattorias pequeñas y los puestos junto al sendero pueden preferir efectivo para transacciones rápidas.
 - **Usa calzado de senderismo de verdad**, incluso para tramos cortos: los caminos son de piedra y grava irregular, no paseos pavimentados.
 - **No intentes ver los cinco pueblos en un día apresurado.** Tanto los locales como los guardas del parque coinciden en que recorrer dos o tres pueblos con calma es mejor que marcar los cinco en una lista.

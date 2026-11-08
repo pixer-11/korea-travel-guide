@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: coloane-a-ma-cultural-village
-srcHash: '86f99c7e7bc4'
+srcHash: '41fdcb465628'
 title: 'Aldea Cultural de A-Ma: guía de viaje por Coloane (4.4★)'
 description: Casi en la cima de la colina de Coloane, en la Estrada do Alto de Coloane, al sur de Macao, se encuentra la Aldea Cultural de A-Ma. Con 4.4★ (325 reseñas), le contamos qué opinan los visitantes, cuál es su horario y algunos consejos.
 quickAnswer: Casi en la cima de la colina de Coloane, en la Estrada do Alto de Coloane, al sur de Macao, se alza la Aldea Cultural de A-Ma (A-Ma Cultural Village). Este moderno conjunto de templos está consagrado a A-Ma, la diosa del mar, y cuenta con un museo y tiendas de recuerdos. Abre todos los días de 9:00 a 18:00. Entre semana hay poca gente durante toda la jornada; el fin de semana conviene llegar entre las 9:00 y las 11:00, antes de la aglomeración que se forma de 11:00 a 17:00.
@@ -22,7 +22,7 @@ faq:
 
 Macao debe su nombre a A-Ma. La mayoría de los visitantes solo conoce su templo más antiguo, situado en la península, en Barra. Aquí arriba, en el Alto de Coloane, el punto más elevado de la isla, se levanta un homenaje más reciente: un conjunto de templos dedicado a la diosa, con un museo y tiendas de recuerdos.
 
-Muy cerca se encuentra la Estatua de A-Ma, una figura de piedra clara de unos 20 metros de altura. Mira hacia el mar y es visible desde buena parte de la ladera. La aldea sigue el diseño clásico de los templos chinos, con tejados de teja, columnas rojas y salas escalonadas a lo largo de la pendiente. Tenga en cuenta que hay escaleras entre los distintos niveles.
+Muy cerca se encuentra la Estatua de A-Ma, una alta figura de piedra. Mira hacia el mar y es visible desde buena parte de la ladera. La aldea sigue el diseño clásico de los templos chinos, con tejados de teja, columnas rojas y salas escalonadas a lo largo de la pendiente. Tenga en cuenta que hay escaleras entre los distintos niveles.
 
 ## Cómo subir a la cima
 
@@ -46,7 +46,7 @@ Los precios del incienso, la entrada al museo y los recuerdos están expuestos e
 
 ## Cómo evitar los grupos turísticos del fin de semana
 
-Pocos visitantes llegan hasta aquí arriba, y en eso reside buena parte de su encanto. Entre semana reina la calma desde la apertura, a las 9:00, hasta el cierre, a las 18:00, así que puede venir a cualquier hora.
+Pocos visitantes llegan hasta aquí arriba, y en eso reside buena parte de su encanto. Entre semana reina la calma desde la apertura, a las 9:00, hasta el cierre, a las 18:00.
 
 Los fines de semana la situación cambia. El momento más tranquilo es de 9:00 a 11:00. Procure no llegar entre las 11:00 y las 17:00: a esas horas aumenta la afluencia y los grupos que se hacen fotos llenan los alrededores de la estatua.
 

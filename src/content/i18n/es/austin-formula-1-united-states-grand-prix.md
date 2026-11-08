@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: austin-formula-1-united-states-grand-prix
-srcHash: 'fa83f873c326'
+srcHash: 'e48a37b722c1'
 title: 'Gran Premio de Estados Unidos de Fórmula 1: fechas, entradas y sede (Austin)'
 description: 'Gran Premio de Estados Unidos de Fórmula 1 en Austin: del 23 al 25 de octubre de 2026 en el Circuito de las Américas, con conciertos de Maroon 5 y Post Malone.'
 quickAnswer: Las fechas anunciadas del Gran Premio de Estados Unidos de Fórmula 1 eran del 23 al 25 de octubre de 2026. La sede era el Circuito de las Américas (Circuit of the Americas, COTA), en el sureste de Austin (Texas). Además de la competición en pista, el cartel musical anunciaba como cabezas de cartel a Maroon 5 y Post Malone. Las entradas se vendían en Formula1.com y en la página oficial de venta del COTA. Para ese fin de semana, la oferta hotelera de Austin suele agotarse con rapidez.
@@ -20,7 +20,7 @@ faq:
 
 ## Por qué ir
 
-Ningún otro fin de semana en Austin se parece a este. Durante tres días, el ritmo pausado habitual de la ciudad cede ante el rugido de veinte motores híbridos V6. A la carrera se le suma un auténtico festival de música, y en las gradas conviven magnates del petróleo texano, incondicionales europeos de la F1 y curiosos que acuden por primera vez. En la edición de 2026, Maroon 5 y Post Malone encabezaban el apartado musical.
+Ningún otro fin de semana en Austin se parece a este. Durante tres días, el ritmo pausado habitual de la ciudad cede ante el rugido de veinte motores híbridos V6. A la carrera se le suma un auténtico festival de música, y en las gradas conviven magnates del petróleo texano, incondicionales europeos de la F1 y curiosos que acuden por primera vez. En la edición de 2026, el apartado musical contaba con un cartel de grandes cabezas de cartel.
 
 El Circuito de las Américas (Circuit of the Americas) acoge el Gran Premio de Estados Unidos desde 2012 y se diseñó precisamente con ese fin. Cuenta con 20 curvas y una espectacular subida hacia la curva 1, además de una secuencia inspirada libremente en las Maggotts-Becketts de Silverstone. Desde las gradas, la visibilidad permite seguir una vuelta completa en lugar de ver pasar los coches como un destello.
 
@@ -56,6 +56,6 @@ Los vecinos de Austin que repiten cada año consideran el viernes de entrenamien
 
 En los puestos de comida y de productos oficiales del COTA casi todo se paga con tarjeta o con el móvil, así que rara vez hace falta un cajero automático. Las colas de las lanzaderas avanzan más deprisa en los puntos de recogida algo alejados de la puerta principal que entre la multitud agolpada justo a la salida.
 
-El error típico de quien va por primera vez es subestimar el tiempo de salida. Muchos se marchan antes de la ceremonia del podio o del último concierto para «evitar el tráfico», pero los habituales aseguran que las colas de lanzaderas y de vehículos por aplicación son igual de largas tanto en la vuelta 50 como después de la bandera a cuadros.
+El error típico de quien va por primera vez es subestimar el tiempo de salida. Muchos se marchan antes de la ceremonia del podio o del último concierto para «evitar el tráfico», pero los habituales aseguran que las colas de lanzaderas y de vehículos por aplicación son igual de largas por muy pronto que uno se marche.
 
 Las entradas oficiales se vendían directamente en Formula1.com y en la web del COTA.

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bengaluru-visvesvaraya-industrial-technological-museum
-srcHash: '66bafde8905e'
+srcHash: '25313dfb1e9e'
 title: 'Museo Industrial y Tecnológico Visvesvaraya: guía de viaje de Bengaluru'
 description: 'En la Kasturba Road, el Museo Industrial y Tecnológico Visvesvaraya es el museo de ciencias interactivo de referencia en Bengaluru, abierto todos los días de 9:30 a 18:00. 4.6★ (17.113 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En la Kasturba Road, el Museo Industrial y Tecnológico Visvesvaraya es el museo de ciencias interactivo de referencia en Bengaluru, abierto todos los días de 9:30 a 18:00. Conviene ir justo a la apertura o entre las 10:00 y las 11:00 para evitar las aglomeraciones, ya que las tardes de fin de semana (de 12:00 a 18:00) se llenan de gente. Calcula entre dos y tres horas para la visita y aprovecha para combinarla con un paseo por el vecino Cubbon Park.
@@ -60,4 +60,4 @@ Llega a la hora de apertura o dentro de esa primera hora: hacia media mañana lo
 
 Al ser un destino muy popular entre los colegios locales, las mañanas de días laborables durante el período escolar también pueden traer autobuses cargados de estudiantes; tenlo en cuenta si buscas una experiencia más tranquila. El teatro 3D/4D y las estaciones interactivas más populares (el generador, la mina simulada) forman sus propias microcolas dentro del museo: sepárate del grupo principal y acércate a ellas primero, en lugar de esperar a haber recorrido toda la planta.
 
-Un error común es tratar la visita como una parada rápida de 45 minutos: el recorrido premia un ritmo más pausado, y si vas con prisa te perderás las exhibiciones del parque científico al aire libre, fáciles de saltarse si vas directo de la entrada a la tienda de regalos. Combina la visita con un paseo por Cubbon Park después: está a cinco minutos a pie y es una buena manera de relajarse tras el bullicio del museo.
+Un error común es tratar la visita como una parada rápida de 45 minutos: el recorrido premia un ritmo más pausado, y si vas con prisa te perderás las exhibiciones del parque científico al aire libre, fáciles de pasar por alto si no las incluyes en tu plan. Combina la visita con un paseo por Cubbon Park después: está a cinco minutos a pie y es una buena manera de relajarse tras el bullicio del museo.

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bordeaux-place-de-la-bourse
-srcHash: '7a436074cc7d'
+srcHash: 'c00b49be1b8d'
 title: 'Place de la Bourse: Guía de viaje de Burdeos (4,7★)'
 description: 'La Place de la Bourse es la gran plaza del siglo XVIII de Burdeos a orillas del Garona, conocida sobre todo por el Miroir d''Eau, el enorme espejo de agua que convierte la fachada en un reflejo. 4,7★ (20.285 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: La Place de la Bourse es la gran plaza del siglo XVIII de Burdeos a orillas del Garona, conocida sobre todo por el Miroir d'Eau, el enorme espejo de agua que convierte la fachada en un reflejo. Está abierta las 24 horas, pero conviene ir entre las 7:00 y las 9:00 en días laborables (de 7:00 a 10:00 los fines de semana) para verla casi vacía, antes de que lleguen las multitudes y los grupos turísticos a media mañana.
@@ -42,7 +42,7 @@ Al ser un espacio al aire libre y sin entrada, permanece abierto las 24 horas to
 
 Basta con 30 a 45 minutos si solo se pasa por aquí, aunque conviene quedarse más si se quiere disfrutar junto al agua.
 
-- Observar el efecto espejo: la lámina de agua alterna entre reflejo total y una fina neblina aproximadamente cada 15-20 minutos
+- Observar el efecto espejo: la lámina de agua alterna entre reflejo total y una fina neblina a lo largo del día
 - Cruzar hacia el lado del río para conseguir la clásica fotografía de las fachadas duplicadas en el agua
 - Recorrer los muelles (Quai Richelieu, Quai de la Douane), un tramo que forma parte del frente fluvial de Burdeos declarado Patrimonio de la Humanidad por la UNESCO
 - Fijarse en la Fontaine des Trois Grâces, fácil de pasar por alto si toda la atención está puesta en el agua

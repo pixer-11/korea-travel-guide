@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: coloane-village-bairro-iao-hon-municipal-market
-srcHash: '49c76d9ac347'
+srcHash: 'ac99024dd563'
 title: 'Mercado Municipal de Iao Hon: guía de viaje por la península de Macao'
 description: 'En la Rua do Mercado de Iao Hon, al norte de la península de Macao, se encuentra el Mercado Municipal de Iao Hon. Valoración de 4.2★ (102 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Mercado Municipal de Iao Hon (Bairro Iao Hon Municipal Market) se encuentra en la Rua do Mercado de Iao Hon, al norte de la península de Macao. Es un mercado de abastos de barrio que abre todos los días de 7:00 a 20:00. Entre semana suele estar más tranquilo que el fin de semana; los fines de semana conviene llegar entre las 7:00 y las 9:00 y evitar la franja de 10:00 a 12:00.
@@ -50,7 +50,7 @@ No toque el pescado ni la carne. Es el vendedor quien elige la pieza, la pesa y 
 
 ## Cuándo ir y qué ver en los alrededores
 
-El mercado abre a las 7:00 y cierra a las 20:00 todos los días de la semana. De lunes a viernes suele haber menos gente que los fines de semana, así que casi cualquier hora es buena.
+El mercado abre a las 7:00 y cierra a las 20:00 todos los días de la semana. De lunes a viernes suele haber menos gente que los fines de semana, así que puede ir a casi cualquier hora sin encontrarlo abarrotado.
 
 Los fines de semana la situación cambia. Lo recomendable es acudir entre las 7:00 y las 9:00, cuando el género está recién llegado y los pasillos despejados. Los sábados y domingos evite la franja de 10:00 a 12:00: es la hora punta, y los estrechos pasillos se llenan de carritos de la compra.
 

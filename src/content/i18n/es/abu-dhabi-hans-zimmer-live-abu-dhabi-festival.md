@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: abu-dhabi-hans-zimmer-live-abu-dhabi-festival
-srcHash: 'eb85efa8e816'
+srcHash: '0947182ef422'
 title: 'Hans Zimmer Live en el Abu Dhabi Festival: fechas, entradas y recinto (Abu Dabi)'
 description: El 13 de noviembre de 2026, Hans Zimmer Live llega al Etihad Arena de Yas Bay, en la isla de Yas (Abu Dabi), dentro de la 23.ª edición del Abu Dhabi Festival.
 quickAnswer: El 13 de noviembre de 2026, Hans Zimmer Live se presenta en el Etihad Arena de Yas Bay, en la isla de Yas (Abu Dabi), como parte de la 23.ª edición del Abu Dhabi Festival. Tanto el festival como el recinto se encargan de la venta de entradas y de la información sobre el espectáculo. La mayoría del público aprovecha para pasar la velada completa y cena antes en el paseo marítimo de Yas Bay.
@@ -50,7 +50,7 @@ Aquí la costumbre es empezar por el paseo marítimo y terminar en el pabellón.
 Así suele desarrollarse la velada:
 
 - **Pagos:** en todo Yas Bay, de los restaurantes a los taxis, lo normal es pagar con tarjeta o con el móvil.
-- **Vestimenta:** se impone el estilo informal elegante. En los Emiratos Árabes Unidos se espera llevar hombros y rodillas cubiertos en los espacios públicos, y como el aire acondicionado del pabellón está muy frío, no está de más una prenda ligera de abrigo.
+- **Vestimenta:** se impone el estilo informal elegante. En los Emiratos Árabes Unidos se espera llevar hombros y rodillas cubiertos en los espacios públicos, y como el aire acondicionado del pabellón está muy frío, merece la pena llevar una prenda de abrigo.
 - **Propinas:** en los restaurantes es habitual dejar en torno a un 10% si el servicio no viene incluido en la cuenta. En el taxi se agradece redondear la tarifa.
 - **Bolsos y seguridad:** a la entrada del pabellón hay controles similares a los de un aeropuerto. Quienes llevan bolsos pequeños pasan más rápido.
 - **Alojamiento:** muchos visitantes que vienen de Dubái o del centro de la ciudad reservan hotel en la isla de Yas para ahorrarse el viaje de vuelta de madrugada.

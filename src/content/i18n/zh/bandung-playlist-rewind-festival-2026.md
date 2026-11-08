@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: bandung-playlist-rewind-festival-2026
-srcHash: '6654c47b9d1a'
+srcHash: '0d05078bac64'
 title: 2026 Playlist Rewind音乐节（万隆）：日期、门票与场地
 description: 2026 Playlist Rewind音乐节将于2026年11月14日（周六）至15日（周日）在万隆举行。场地Secapa位于万隆北部Hegarmanah一带，是一处陆军军官学校的营地。
 quickAnswer: 2026 Playlist Rewind音乐节将于2026年11月14日（周六）至15日（周日）在万隆举行，场地是万隆北部Hegarmanah一带的陆军军官学校营地Secapa。这是一场为期两天的怀旧音乐节，主打全场大合唱的经典金曲。演出阵容和购票链接请以音乐节官方渠道发布的为准。11月正值高原雨季，乐迷通常会带一件轻便的防雨外衣，以备晚间之需。

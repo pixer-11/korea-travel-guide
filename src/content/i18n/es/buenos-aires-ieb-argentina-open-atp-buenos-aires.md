@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: buenos-aires-ieb-argentina-open-atp-buenos-aires
-srcHash: '62d3eaddc920'
+srcHash: '264a66bea76d'
 title: 'IEB+ Argentina Open (ATP de Buenos Aires): fechas, entradas y sede (Buenos Aires)'
 description: El IEB+ Argentina Open (ATP de Buenos Aires) es un torneo ATP 250 sobre tierra batida que se disputa en febrero de 2027 en el Buenos Aires Lawn Tennis Club, en Palermo. Su pista principal es el Estadio Guillermo Vilas.
 quickAnswer: El IEB+ Argentina Open (ATP de Buenos Aires) es un torneo ATP 250 sobre tierra batida que se disputa en febrero de 2027 en el Buenos Aires Lawn Tennis Club, en el barrio de Palermo. El Estadio Guillermo Vilas es su pista principal. Según diversas informaciones, la de 2027 es la última edición sobre tierra batida, ya que en 2028 el torneo pasa a pista dura. En la web oficial del torneo, la organización publica las fechas, el orden de juego y los enlaces para comprar entradas.
@@ -71,7 +71,7 @@ Algunas costumbres que conviene imitar:
 - **Moverse solo en los cambios de lado.** Mientras se disputa un juego, los acomodadores retienen al público en las escaleras, así que los aficionados locales esperan a la pausa de los juegos impares.
 - **Animar al propio jugador, no abuchear al rival.** Aquí es habitual aplaudir un buen golpe del jugador visitante, y el gesto se recibe con agrado.
 - **Aprender algunas palabras.** La *entrada* es el billete, la *platea* es una zona con asientos y el *cambio de lado* es la pausa entre juegos.
-- **Pagar con medios digitales.** En todo Buenos Aires se paga habitualmente con tarjeta o con códigos QR a través de aplicaciones como Mercado Pago. En los restaurantes se acostumbra a dejar una *propina* de alrededor del 10 por ciento.
+- **Pagar con medios digitales.** En todo Buenos Aires se paga habitualmente con tarjeta o con códigos QR a través de aplicaciones como Mercado Pago.
 
 Las tardes de calor, muchos aficionados siguen los primeros partidos en las pistas exteriores y entran en el estadio para el partido estelar de última hora de la tarde, cuando el sol ya se ha ocultado tras las gradas.
 

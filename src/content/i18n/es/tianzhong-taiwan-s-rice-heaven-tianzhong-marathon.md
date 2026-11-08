@@ -1,71 +1,71 @@
 ---
 lang: es
 slug: tianzhong-taiwan-s-rice-heaven-tianzhong-marathon
-srcHash: 'bfba6b825ec3'
-title: 'Maratón Paraíso del Arroz de Tianzhong (Taiwán): fechas, inscripciones y sede'
-description: El 7 de noviembre de 2026 se celebra el Maratón Paraíso del Arroz de Tianzhong, en un municipio arrocero del condado de Changhua, en el centro de Taiwán.
-quickAnswer: El Maratón Paraíso del Arroz de Tianzhong se celebrará el 7 de noviembre de 2026 en Tianzhong, un municipio dedicado al cultivo de arroz en el condado de Changhua, en el centro de Taiwán. Se puede elegir entre maratón, media maratón y una carrera de 10 km, todas por caminos agrícolas y calles del pueblo. En la web oficial de la prueba figuran los detalles de inscripción, el lugar de salida y los mapas de los recorridos.
+srcHash: 'b9fbcb0d071b'
+title: 'Maratón Paraíso del Arroz de Tianzhong (Taiwán): fechas, inscripción y sede'
+description: La Maratón Paraíso del Arroz de Tianzhong tenía como fecha el 7 de noviembre de 2026. La sede era Tianzhong, un municipio arrocero del condado de Changhua, en el centro de Taiwán.
+quickAnswer: 'La Maratón Paraíso del Arroz de Tianzhong (Taiwan''s Rice Heaven Tianzhong Marathon) estaba prevista para el 7 de noviembre de 2026 en Tianzhong, un municipio arrocero del condado de Changhua, en el centro de Taiwán. El programa constaba de tres pruebas: maratón, media maratón y 10 km. Todas discurrían por caminos agrícolas y calles del pueblo, y cada distancia contaba con un recorrido propio entre los arrozales y el casco urbano.'
 faq:
-  - q: ¿Cuándo se celebra en 2026 el Maratón Paraíso del Arroz de Tianzhong?
-    a: Tendrá lugar el 7 de noviembre de 2026 en el municipio de Tianzhong, en el condado de Changhua. Incluye las distancias de maratón, media maratón y 10 km.
+  - q: ¿Cuándo era la Maratón Paraíso del Arroz de Tianzhong de 2026?
+    a: Las fechas anunciadas situaban la carrera de 2026 el 7 de noviembre de 2026, en el municipio de Tianzhong, condado de Changhua. Incluía maratón, media maratón y 10 km.
   - q: ¿Cómo se llega a Tianzhong?
-    a: La estación de Tianzhong de la TRA, situada en la Línea Oeste, comunica el pueblo con Changhua y Taichung. La estación de Changhua del tren de alta velocidad (THSR) se encuentra dentro del propio municipio de Tianzhong, a pocos minutos en coche del centro, y ofrece conexiones rápidas con Taipéi y Kaohsiung.
+    a: La estación de Tianzhong de la TRA, en la Línea Oeste, comunica el pueblo con Changhua y Taichung. La estación de Changhua del THSR se encuentra en el propio municipio de Tianzhong, a pocos minutos en coche del centro, y ofrece conexiones de alta velocidad con Taipéi y Kaohsiung.
   - q: ¿Dónde suelen alojarse los corredores?
-    a: Como en Tianzhong hay muy pocos alojamientos, muchos corredores se hospedan en la ciudad de Changhua o en Taichung, a un breve trayecto en tren. Otros prefieren municipios cercanos como Yuanlin o Ershui.
+    a: Como Tianzhong cuenta con pocos alojamientos, muchos corredores se hospedan en la ciudad de Changhua o en Taichung, a un corto trayecto en tren. Otros eligen municipios cercanos, como Yuanlin o Ershui.
   - q: ¿Cómo es el recorrido?
-    a: Es prácticamente llano y discurre por caminos agrícolas y calles del pueblo entre arrozales, con la montaña Bagua al este. Apenas hay sombra; por ese motivo, las carreras en ruta de Taiwán suelen empezar antes del amanecer.
-  - q: ¿Qué distingue a este maratón de otros de Taiwán?
-    a: El apoyo que recibe a pie de carretera. En ediciones anteriores se hicieron famosos los vecinos que animaban a lo largo del recorrido, los grupos de tambores, las danzas del león y los avituallamientos con platos de arroz y fruta de la zona.
+    a: Es casi todo llano y discurre por caminos agrícolas y calles del pueblo entre arrozales, con el monte Bagua al este. Apenas hay sombra; por eso las carreras de asfalto en Taiwán suelen empezar antes del amanecer.
+  - q: ¿Qué distingue a esta maratón de otras de Taiwán?
+    a: El apoyo a pie de carretera. Las ediciones anteriores se hicieron famosas por los vecinos que animaban a lo largo del recorrido, los grupos de tambores, las danzas del león y unos avituallamientos en los que se servían platos de arroz y fruta de la zona.
 ---
 
-## A la carrera por el granero de Taiwán
+## Correr por el granero de arroz
 
-Tianzhong es un municipio pequeño y llano, ocupado casi por completo por campos de cultivo. Los arrozales forman rectángulos perfectos, delimitados por acequias y estrechos caminos agrícolas. Al este se alza la suave loma verde de la montaña Bagua. El 7 de noviembre de 2026, todo este paisaje se convertirá en el circuito del Maratón Paraíso del Arroz de Tianzhong.
+Tianzhong es un municipio pequeño y llano, ocupado casi por completo por cultivos. Los canales de riego y los estrechos caminos agrícolas reparten los arrozales en rectángulos perfectos. Al este se alza la suave loma verde del monte Bagua. En este paisaje se iba a disputar, el 7 de noviembre de 2026, la edición de ese año de la Maratón Paraíso del Arroz de Tianzhong (Taiwan's Rice Heaven Tianzhong Marathon).
 
-La prueba ofrece tres distancias:
+El programa incluía tres distancias:
 
 - **Maratón:** el gran recorrido por los arrozales y las aldeas que rodean el pueblo.
-- **Media maratón:** la opción preferida de los corredores que llegan desde Taipéi o Kaohsiung.
-- **10 km:** un circuito más corto, ideal para debutantes y familias.
+- **Media maratón:** suele ser la opción preferida de los corredores que llegan desde Taipéi o Kaohsiung.
+- **10 km:** un circuito más corto, pensado para debutantes y familias.
 
-A principios de noviembre termina, más o menos, la segunda cosecha de arroz en el centro de Taiwán. Según el año, habrá campos todavía dorados y otros ya segados, reducidos a rastrojo; en ambos casos el paisaje es puramente rural.
+A principios de noviembre termina, más o menos, la segunda cosecha de arroz en el centro de Taiwán. Según el año, unos campos lucen dorados y otros ya muestran el rastrojo de la siega; en ambos casos, el paisaje es inequívocamente rural.
 
 ## Cómo es el recorrido
 
-Las carreteras son casi siempre llanas, de modo que aquí no hay cuestas que castiguen las piernas. A cambio, el corredor atraviesa largos tramos de campo abierto con muy poca sombra, y el sol aprieta en cuanto sube. Para adelantarse al calor, las carreras en ruta de Taiwán suelen arrancar antes del amanecer, y los participantes acostumbran a planificar su ritmo en torno a esa primera hora fresca.
+Las carreteras son casi siempre llanas y no hay cuestas castigadoras. A cambio, el trazado atraviesa largos tramos de campo abierto con muy poca sombra, y el sol aprieta en cuanto gana altura. Por eso las carreras de asfalto en Taiwán suelen arrancar antes del amanecer, para adelantarse al calor. Los corredores acostumbran a administrar su ritmo en función de esa primera hora fresca.
 
-La fama de esta prueba se debe a su público. En ediciones anteriores se hicieron célebres los vecinos agolpados junto a la carretera, así como los grupos de tambores de los templos y las danzas del león en los cruces. En los avituallamientos, además, voluntarios del lugar repartían comida: platos de arroz, fruta y otros productos de Changhua. Así fue como el apodo de «Paraíso del Arroz» se popularizó entre los corredores taiwaneses.
+La fama de esta carrera se debe a su público. En ediciones anteriores destacaron los vecinos que se agolpaban a ambos lados de la carretera, así como los grupos de tambores de los templos y las danzas del león en los cruces. En los avituallamientos, además, los voluntarios del lugar repartían comida: platos de arroz, fruta y otros productos de Changhua. Así arraigó entre los corredores taiwaneses el apodo de «Paraíso del Arroz».
 
-## Cómo disfrutar de la hospitalidad local sin perder el ritmo
+## La hospitalidad junto a la carretera
 
-Buena parte del encanto del recorrido se lo da la gente que lo flanquea. Estas son las pautas que suelen seguir los corredores.
+Buena parte del carácter de este recorrido se lo da la gente que lo flanquea. Los corredores suelen tener en cuenta lo siguiente:
 
-- **Aprenda dos palabras.** Durante toda la mañana oirá el grito de ánimo «Jiāyóu!» (加油). Cuando tome algo de una mesa, lo apropiado es responder «Xièxie» (謝謝, gracias).
-- **Pruebe, pero no se dé un festín.** Las mesas de comida son abundantes. Los corredores veteranos picotean un poco al principio y dejan la comida de verdad para la meta.
-- **No obstaculice el paso.** Es habitual que los espectadores se coloquen justo al borde de los caminos agrícolas. Por eso los corredores suelen aminorar la marcha cerca de los avituallamientos y se apartan antes de detenerse a sacar una foto.
-- **Busque los contenedores.** Los voluntarios separan vasos y envoltorios, así que los corredores dejan la basura en los puestos en lugar de tirarla a los arrozales, que son tierras de cultivo en plena actividad.
+- **Dos palabras útiles.** En las carreras taiwanesas se oye toda la mañana el grito de ánimo «Jiāyóu!» (加油). Al recoger algo de una mesa, lo habitual es responder «Xièxie» (謝謝, gracias).
+- **Bocados pequeños.** Las mesas de comida son generosas. Los corredores con experiencia toman pequeñas porciones al principio y reservan la comida de verdad para la meta.
+- **Paso libre.** Es frecuente que los espectadores se coloquen justo al borde de los caminos agrícolas. Por eso los corredores suelen aminorar la marcha cerca de los avituallamientos y se apartan antes de detenerse para hacer una foto.
+- **Las papeleras.** Los voluntarios separan vasos y envoltorios. Los corredores dejan la basura en los puestos y no en los arrozales, que son tierras de cultivo en plena actividad.
 
-El público suele concentrarse junto a la salida y la meta, y también en el centro del pueblo, donde se reúne más gente. Para animar desde los caminos entre los campos hay que caminar un buen trecho o desplazarse en moto.
+El público suele concentrarse en la zona de salida y llegada y en el centro del pueblo, donde se reúne la mayor multitud. Para animar desde los caminos entre los campos hay que caminar un buen rato o desplazarse en moto.
 
 ## Cómo llegar a Tianzhong el fin de semana de la carrera
 
-Llegar en tren al pueblo es muy sencillo.
+Al pueblo se llega fácilmente en tren.
 
-- **La estación de Tianzhong de la TRA** (Administración de Ferrocarriles de Taiwán) se encuentra en la Línea Oeste, por lo que los trenes regionales y rápidos la conectan con Changhua, Taichung y otras localidades del sur.
-- **La estación de Changhua del tren de alta velocidad (THSR)** está dentro del propio municipio de Tianzhong, a pocos minutos en coche del centro. Gracias a ella, la carrera queda muy a mano desde Taipéi y Kaohsiung.
+- **Estación de Tianzhong de la TRA:** se encuentra en la Línea Oeste (Western Line), de modo que los trenes regionales y rápidos la enlazan con Changhua, Taichung y las localidades del sur.
+- **Estación de Changhua del THSR:** está dentro del propio municipio de Tianzhong, a pocos minutos en coche del centro. Gracias al tren de alta velocidad, Taipéi y Kaohsiung quedan muy a mano.
 
-Los maratones taiwaneses suelen empezar antes de que circulen los primeros trenes. Por eso, quienes viajan en ferrocarril tienden a alojarse cerca la noche anterior; otros llegan en coche o en autobús fletado. La mañana de la carrera se cierran al tráfico casi todas las calles próximas al recorrido, y los aparcamientos de la zona de salida se llenan enseguida.
+Las maratones taiwanesas suelen empezar antes de que circulen los primeros trenes. Por eso quienes viajan en tren tienden a dormir en la zona la víspera; otros llegan en coche o en autobús fletado. La mañana de la carrera es habitual que se cierren al tráfico las calles próximas al recorrido, y el aparcamiento en torno a la salida suele llenarse enseguida.
 
 ## Dónde suelen alojarse los corredores
 
-En Tianzhong hay muy pocos alojamientos y se agotan rápidamente el fin de semana de la prueba. Muchos visitantes optan por dormir en **la ciudad de Changhua** o en **Taichung**, ambas a un breve trayecto en tren hacia el norte y con una amplia oferta hotelera. Algunos grupos reservan casas de huéspedes en municipios vecinos como **Ershui** o **Yuanlin**.
+La oferta de alojamiento en Tianzhong es escasa y suele agotarse los fines de semana de carrera. Muchos visitantes optan por **la ciudad de Changhua** o por **Taichung**, ambas a un corto trayecto en tren hacia el norte y con un amplio abanico de hoteles. Algunos grupos se hospedan en casas de huéspedes de municipios cercanos, como **Ershui** o **Yuanlin**.
 
-El día siguiente es buen momento para recorrer el condado de Changhua. Estas son algunas escapadas sencillas:
+Cerca de Tianzhong, el condado de Changhua ofrece varias excursiones sencillas:
 
-- **Lukang:** antigua ciudad portuaria de templos y estrechas callejuelas de ladrillo.
-- **El Gran Buda de la montaña Bagua**, en la ciudad de Changhua.
-- **Ershui:** el pueblo vecino por el sur, conocido por su histórico canal de riego y por la línea ferroviaria de Jiji, que nace allí.
+- **Lukang:** antigua ciudad portuaria de templos y estrechos callejones de ladrillo.
+- **Gran Buda del monte Bagua**, en la ciudad de Changhua.
+- **Ershui:** el pueblo vecino por el sur, conocido por su histórico canal de riego y por la línea ferroviaria de Jiji, que se bifurca allí.
 
-## Dónde consultar la información
+## Dónde se publicaba la información
 
-En la web oficial de la carrera se publican los datos de inscripción, el lugar de salida y llegada y los mapas del recorrido de cada distancia. Allí mismo figuran los horarios del día de la prueba y las instrucciones para recoger el dorsal. Las inscripciones de esta carrera tienen fama de agotarse pronto. Los corredores extranjeros suelen inscribirse a través de los canales oficiales de la prueba, a veces con la ayuda de algún club de atletismo con sede en Taiwán.
+La información de la carrera abarcaba la inscripción, la zona de salida y llegada y el recorrido de cada distancia, además de los horarios del día de la prueba y la recogida de dorsales. Las inscripciones de esta carrera tienen fama de agotarse rápido. Los corredores extranjeros suelen inscribirse por los canales oficiales de la prueba, a veces con la ayuda de algún club de atletismo con sede en Taiwán.

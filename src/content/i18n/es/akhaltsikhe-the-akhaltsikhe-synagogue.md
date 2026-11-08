@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: akhaltsikhe-the-akhaltsikhe-synagogue
-srcHash: '405148ace0c8'
+srcHash: '0e8bd5c2f5dd'
 title: 'La sinagoga de Ajaltsije: guía de viaje'
 description: En Ajaltsije, capital de la región georgiana de Samtsje-Yavajeti, se conserva una sinagoga que es una de las últimas huellas materiales de la comunidad judía que antaño llenaba la ciudad.
 quickAnswer: En Ajaltsije, capital de la región georgiana de Samtsje-Yavajeti, se conserva una sinagoga que es una de las últimas huellas materiales de la comunidad judía que antaño llenaba la ciudad. Es una parada tranquila que pasa inadvertida para la mayoría de quienes visitan la fortaleza de Rabati. Aunque Google indica actualmente que está abierta las 24 horas, la sala de oración puede estar cerrada con llave. Calcule una visita breve, de 20–40 minutos, y prepárese para buscar a la persona que la custodia.
@@ -74,7 +74,7 @@ Desde allí, las rutas clásicas para continuar son:
 - **El monasterio de Sapara**, un conjunto monástico más tranquilo, en las colinas y a poca distancia en coche de la ciudad.
 - **Borjomi**, la ciudad balneario famosa por su agua mineral, de camino de vuelta a Tiflis.
 
-Lo más sensato es visitar primero Rabati y dedicar después 20–40 minutos a la sinagoga. Así Vardzia queda para la tarde o para la mañana siguiente.
+Lo más sensato es visitar primero Rabati y hacer después una breve parada en la sinagoga. Así Vardzia queda para la tarde o para la mañana siguiente.
 
 ## La mejor época para el viaje
 

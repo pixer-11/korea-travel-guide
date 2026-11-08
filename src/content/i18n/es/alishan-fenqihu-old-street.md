@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: alishan-fenqihu-old-street
-srcHash: '66c128a5893c'
+srcHash: '2f7ec80de1d3'
 title: 'Calle Vieja de Fenqihu: Guía de Viaje de Alishan (4,2★)'
 description: 'La Calle Vieja de Fenqihu es un antiguo pueblo ferroviario maderero sobre el Ferrocarril Forestal de Alishan, célebre por su cultura del bianzai (fiambrera) y por su angosta calle-mercado cubierta. 4,2★ (31.926 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'La Calle Vieja de Fenqihu es un antiguo pueblo ferroviario maderero sobre el Ferrocarril Forestal de Alishan, célebre por su cultura del bianzai (fiambrera) y por su angosta calle-mercado cubierta. Con 31.898 reseñas y una calificación de 4,2, atrae multitudes con rapidez: conviene llegar justo a las 8:00, hora de apertura, los fines de semana, o visitar cualquier día entre semana para evitar la hora punta de 11:00 a 16:00. Calcule entre 1,5 y 2 horas para comer y recorrer los puestos.'
@@ -48,7 +48,7 @@ La calle en sí es angosta, cubierta en algunos tramos, y está bordeada de fach
 
 La calle funciona todos los días de 8:00 a 18:00, así que no existe ningún resquicio de horario más tranquilo por la mañana temprano o por la noche: es una única franja horaria constante los siete días de la semana. Los fines de semana, el momento de mayor afluencia va de las 11:00 a las 16:00, cuando confluyen los grupos turísticos y los excursionistas de un día procedentes de Chiayi y Tainan.
 
-Si la visita cae en sábado o domingo, conviene llegar justo a las 8:00, hora de apertura, antes de que se acumule la multitud. Entre semana el ambiente es mucho más tranquilo durante todo el tramo de 8:00 a 18:00, de modo que una visita en día laborable elimina casi toda la incertidumbre.
+Si la visita cae en sábado o domingo, conviene llegar justo a las 8:00, hora de apertura, antes de que se acumule la multitud. Entre semana el ambiente es mucho más tranquilo en general, de modo que una visita en día laborable elimina casi toda la incertidumbre.
 
 El otoño y la primavera traen un aire de montaña más fresco y despejado; las tardes de verano, en cambio, pueden traer niebla y lluvias repentinas, por lo que conviene llevar una chaqueta ligera para la lluvia sin importar la temporada.
 

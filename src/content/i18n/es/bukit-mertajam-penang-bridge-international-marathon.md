@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bukit-mertajam-penang-bridge-international-marathon
-srcHash: 'ef9ca57b81c9'
+srcHash: '2a9e70035f4c'
 title: 'Maratón Internacional del Puente de Penang: fechas, inscripciones y sede (Bukit Mertajam)'
 description: El 13 de diciembre de 2026, Bukit Mertajam, en la parte continental de Penang, acoge el Penang Bridge International Marathon, con pruebas de 10km, media maratón y maratón completa.
 quickAnswer: 'El 13 de diciembre de 2026 se celebra en Bukit Mertajam, en la parte continental de Penang, el Penang Bridge International Marathon, con pruebas de 10km, media maratón y maratón completa. Aquí no se compran entradas: para participar hay que inscribirse en la carrera. Los enlaces de inscripción y toda la información del día de la prueba aparecen en la web oficial de la organización.'

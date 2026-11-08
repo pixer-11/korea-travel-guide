@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: cafayate-bodega-vasija-secreta
-srcHash: '319e2ecd19f4'
+srcHash: '570ded98c479'
 title: 'Bodega Vasija Secreta: guía de viaje de Cafayate (4.5★)'
 description: 'En la entrada norte de Cafayate, sobre la Ruta 40, se encuentra Bodega Vasija Secreta, una bodega de larga trayectoria en la provincia argentina de Salta, a poca distancia en taxi o bicicleta de la plaza del pueblo. 4.5★ (2,933 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En la entrada norte de Cafayate, sobre la Ruta 40, se encuentra Bodega Vasija Secreta, una bodega de larga trayectoria en la provincia argentina de Salta. Desde la plaza del pueblo se llega en pocos minutos en taxi o bicicleta. Esta semana abre todos los días de 9:00 AM a 5:30 PM. Le conviene ir por la mañana para degustar un Torrontés antes de recorrer las demás bodegas de ese mismo tramo de la ruta.
@@ -52,6 +52,6 @@ Calcule entre 45 minutos y una hora para esta visita. Después, aproveche la ubi
 
 - **Bodega El Esteco:** a poca distancia por la carretera, con su finca de estilo colonial en Patios de Cafayate.
 - **Museo de la Vid y el Vino:** en el pueblo. Es una buena introducción a la elaboración de vino en el valle, tanto antes como después de la degustación.
-- **La plaza:** un buen lugar para almorzar entre degustaciones. Pruebe las empanadas salteñas acompañadas de una copa del Torrontés que acaba de catar.
+- **La plaza:** un buen lugar para almorzar entre degustaciones, con comida regional en los alrededores.
 
 Durante la vendimia de otoño, aproximadamente entre marzo y abril, hay actividad de trabajo entre los viñedos. Gracias al clima seco y soleado de Cafayate, el valle merece la visita en cualquier época del año. A esta altitud, conviene llevar sombrero y agua sea cual sea el mes.

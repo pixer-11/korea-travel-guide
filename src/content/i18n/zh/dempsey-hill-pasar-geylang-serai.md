@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: dempsey-hill-pasar-geylang-serai
-srcHash: '29f414f2208d'
+srcHash: '8d3ee48d7db3'
 title: 芽笼士乃巴刹：新加坡旅行指南
 description: 芽笼士乃巴刹是位于新加坡东部芽笼士乃区的一座湿巴刹兼熟食中心，从巴耶利峇地铁站步行即可到达。
 quickAnswer: 芽笼士乃巴刹是一座湿巴刹兼熟食中心，位于新加坡东部的芽笼士乃区，从巴耶利峇（Paya Lebar）地铁站步行不远即可到达。这里全天24小时开放，不过巴刹摊位和熟食中心实际上只在清晨到下午初这段时间营业。建议工作日上午9点前前往，这时逛起来最清静，海鲜也最新鲜。
@@ -45,7 +45,7 @@ faq:
 
 ## 交通方式
 
-巴刹就在巴耶利峇（Paya Lebar）地铁站（环线和东西线）旁边，从E出口或与之相连的巴耶利峇广场（Paya Lebar Quarter）商场步行即可到达。
+巴刹就在巴耶利峇（Paya Lebar）地铁站旁边，从E出口或与之相连的巴耶利峇广场（Paya Lebar Quarter）商场步行即可到达。
 
 如果是从登普西山（Dempsey Hill）过来，要留出跨区通勤的时间：时间紧张的话，打车或叫车会比公共交通更直接。不少游客还会顺道在周边的芽笼士乃社区走走，包括附近的马来村（Malay Village）旧址和芽笼士乃大厦（Wisma Geylang Serai）。
 

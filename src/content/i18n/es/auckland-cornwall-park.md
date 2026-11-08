@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: auckland-cornwall-park
-srcHash: 'd9443df2c03c'
+srcHash: '320b3af78490'
 title: 'Cornwall Park: guía de viaje de Auckland (4.8★)'
 description: 'En el barrio de Epsom, en Auckland, Cornwall Park combina amplias praderas con una granja en activo que rodea el cono volcánico de Maungakiekie / One Tree Hill. Corredores, ciclistas y aficionados al pícnic encuentran allí un café con heladería artesanal. 4.8★ (11,491 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En el barrio de Epsom, en Auckland, Cornwall Park combina amplias praderas con una granja en activo que rodea el cono volcánico de Maungakiekie / One Tree Hill. Corredores, ciclistas y aficionados al pícnic encuentran allí un café con heladería artesanal. Entre semana, las horas más tranquilas van de 7am a 9am y de 6pm a 8pm. Los fines de semana, la calma se limita a la franja de 7am a 8am y a la de 6pm a 8pm. Conviene evitar los sábados y domingos entre las 8am y las 5pm, cuando hay más gente.
@@ -54,7 +54,7 @@ No hay que olvidar que los animales son ganado y no un zoológico de contacto. Q
 
 ## Cómo evitar las aglomeraciones en One Tree Hill
 
-Aquí la hora de llegada importa mucho. Entre semana, los momentos más tranquilos van de 7am a 9am y, de nuevo, de 6pm a 8pm. Los fines de semana esas franjas se acortan: de 7am a 8am y de 6pm a 8pm.
+Aquí la hora de llegada importa mucho. Entre semana, los momentos más tranquilos van de 7am a 9am y, de nuevo, de 6pm a 8pm. Los fines de semana esas franjas de calma se reducen aún más, de modo que las mañanas y las tardes se llenan antes.
 
 Procure no llegar un sábado o un domingo entre las 8am y las 5pm. A esas horas se llenan los aparcamientos, la cumbre se abarrota y crece la cola del café. Si madruga un día laborable, tendrá el cono casi para usted solo, con la única compañía de algunos corredores y las ovejas.
 

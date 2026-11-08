@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: cambridge-cambridge-university-botanic-garden
-srcHash: '19455d3fffcb'
+srcHash: '3927320b9e65'
 title: 'Jardín Botánico de la Universidad de Cambridge: guía de viaje (4.7★)'
 description: En Brookside, al sur de Cambridge, el Jardín Botánico de la Universidad se extiende por 40 acres. Con una valoración de 4.7★ (7,745 reseñas), reunimos aquí las opiniones de los visitantes, el horario y consejos prácticos.
 quickAnswer: El Jardín Botánico de la Universidad de Cambridge (Cambridge University Botanic Garden) ocupa 40 acres en Brookside, al sur de la ciudad. Desde la estación de tren de Cambridge se llega a pie en unos 10–15 minutos. En su interior hay invernaderos, un lago y una cafetería. Su horario actual es de 10am–5pm. Los días laborables, entre las 10am y las 11am, se disfruta de la mayor tranquilidad, mientras que conviene evitar las tardes del fin de semana, de 11am a 5pm.
@@ -75,4 +75,4 @@ Si solo puede venir en fin de semana, llegue en punto a las 10am. Diríjase dire
 
 El jardín combina muy bien con la zona sur de la ciudad. El Museo Fitzwilliam (Fitzwilliam Museum), en Trumpington Street, se encuentra a unos 10 minutos a pie hacia el norte, y la entrada es gratuita. Si sigue adelante, llegará a Peterhouse, el college más antiguo, y después a Pembroke, donde comienza el tramo central de los colleges.
 
-Otra opción es continuar un poco más por Trumpington Road hasta el sendero de Grantchester Meadows. Este paseo junto al río Cam es todo un clásico de Cambridge, y resulta ideal en las largas tardes de verano, una vez que el jardín ha cerrado a las 5pm.
+Otra opción es continuar un poco más por Trumpington Road hasta el sendero de Grantchester Meadows. Este paseo junto al río Cam es todo un clásico de Cambridge, y resulta ideal en las largas tardes de verano, una vez que el propio jardín ha cerrado por hoy.

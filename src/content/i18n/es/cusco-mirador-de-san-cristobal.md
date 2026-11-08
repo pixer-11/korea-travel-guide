@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: cusco-mirador-de-san-cristobal
-srcHash: 'b86355adb740'
+srcHash: '7b8a83586a56'
 title: 'Mirador de Sán Cristobal: guía de viaje de Cusco (4.7★)'
 description: En la ladera de San Cristóbal, en Cusco (dirección F2PC+J52, Don Bosco), el Mirador de Sán Cristobal es un mirador al aire libre desde el que se dominan los tejados rojos hasta la Plaza de Armas. Tiene 4.7★ (787 reseñas). Aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
 quickAnswer: En la ladera de San Cristóbal, en Cusco (dirección F2PC+J52, Don Bosco), el Mirador de Sán Cristobal es un mirador al aire libre desde el que se dominan los tejados rojos hasta la Plaza de Armas. Según Google, abre actualmente las 24 horas. Tanto entre semana como el fin de semana, la franja más tranquila va de 7am a 8am. Los fines de semana conviene evitar el tramo de 10am–11pm, que es el de mayor afluencia.
@@ -46,7 +46,7 @@ Los días despejados, el cielo de Cusco adquiere el azul intenso propio de la al
 
 Para esta terraza hay una regla sencilla: el momento más tranquilo es **de 7am a 8am, tanto entre semana como el fin de semana**. A esa hora, el sol bajo entra por el este atravesando el valle e ilumina los tejados de lado, y lo normal es tener el parapeto para usted solo.
 
-Los fines de semana, procure no llegar entre las **10am y las 11pm**. Durante ese largo tramo, el de mayor afluencia, grupos de caminantes y aficionados a la fotografía ocupan toda la barandilla. Si solo puede ir un sábado, madrugue: esa hora marca toda la diferencia.
+Los fines de semana, procure no llegar a última hora de la mañana ni a primera hora de la tarde. Durante ese largo tramo, el de mayor afluencia, grupos de caminantes y aficionados a la fotografía ocupan toda la barandilla. Si solo puede ir un sábado, madrugue: esa hora marca toda la diferencia.
 
 Según Google, el mirador abre actualmente las 24 horas. Al tratarse de un espacio público al aire libre, al caer la noche puede contemplarse la Plaza de Armas iluminada a sus pies. Si decide subir de noche, vaya acompañado, no se salga de las callejuelas con alumbrado y vuelva en taxi si las escaleras le parecen demasiado solitarias.
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: brisbane-the-collective-markets
-srcHash: '40f46e58b022'
+srcHash: '12b4334dbf67'
 title: 'The Collective Markets: guía de viaje de Brisbane (4.2★)'
 description: En Little Stanley Street, en pleno South Bank (South Brisbane), The Collective Markets reúne artesanía, joyería, arte, decoración y ropa de creadores locales el viernes de 5–9pm, el sábado de 10am–9pm y el domingo de 9am–4pm. Con 4.2★ (1,270 reseñas), aquí encontrará la opinión de los visitantes, los horarios y consejos prácticos.
 quickAnswer: The Collective Markets ocupa Little Stanley Street, en South Bank (South Brisbane). Allí se venden artesanía, joyería, arte, artículos para el hogar y ropa de fabricación local el viernes de 5–9pm, el sábado de 10am–9pm y el domingo de 9am–4pm. De lunes a jueves permanece cerrado. Como las sesiones del sábado y del domingo suelen estar concurridas de principio a fin, la tarde del viernes es la única que escapa a esa afluencia.
@@ -77,7 +77,7 @@ Los precios no son uniformes. Cada artesano fija los suyos y suele indicarlos en
 
 Las cifras no dejan lugar a dudas. Tanto la sesión del sábado como la del domingo suelen estar concurridas de principio a fin, por lo que no existe una franja tranquila fiable en ninguno de los dos días del fin de semana.
 
-Si busca espacio para curiosear y tiempo para charlar con los vendedores, la tarde del viernes es la única sesión que escapa a esa afluencia, lo que la convierte en la apuesta más segura para una visita sosegada. Si solo puede acudir en fin de semana, cuente con aceras abarrotadas y organícese en consecuencia.
+Si busca espacio para curiosear y tiempo para charlar con los vendedores, la tarde del viernes es la mejor opción para evitar esa afluencia, lo que la convierte en la apuesta más segura para una visita sosegada. Si solo puede acudir en fin de semana, cuente con aceras abarrotadas y organícese en consecuencia.
 
 En fin de semana, algunos trucos ayudan:
 

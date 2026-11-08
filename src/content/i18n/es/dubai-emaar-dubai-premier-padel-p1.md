@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: dubai-emaar-dubai-premier-padel-p1
-srcHash: 'f51f8b898e4f'
+srcHash: 'f69e279ef115'
 title: 'Emaar Dubai Premier Padel P1: fechas, entradas y sede (Dubái)'
 description: Del 8 al 15 de noviembre de 2026, Dubái acoge el Emaar Dubai Premier Padel P1, una de las paradas de categoría P1 del circuito internacional Premier Padel.
 quickAnswer: Del 8 al 15 de noviembre de 2026, Dubái acoge el Emaar Dubai Premier Padel P1, una de las paradas de categoría P1 del circuito internacional Premier Padel. El calendario de cada torneo, los datos de la sede y los enlaces de venta de entradas se publican en el sitio oficial de Premier Padel. La mayoría de los aficionados organiza su visita en torno al fin de semana, cuando se disputan las últimas rondas y las finales.
@@ -34,7 +34,7 @@ Esa categoría es relevante para el espectador. Un P1 reparte una cantidad consi
 
 ## Cómo se desarrolla la semana: de las primeras rondas a la final del domingo
 
-Ocho días dan para mucho. El torneo empieza el domingo 8 y termina el domingo 15, y sigue la estructura habitual de cualquier competición profesional.
+Ocho días dan para mucho. El torneo empieza el día 8 y termina el día 15, y sigue la estructura habitual de cualquier competición profesional.
 
 - **Primeras jornadas:** fase previa y primeras rondas del cuadro principal. Se juegan muchos partidos en numerosas pistas y el público está repartido.
 - **Mitad de semana:** el cuadro se reduce y entran en juego los principales cabezas de serie. Para muchos aficionados es la opción más rentable, porque una sola sesión reúne varios partidos de alto nivel.

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: auckland-christmas-in-the-park-auckland
-srcHash: '1d40a335df26'
+srcHash: '8dc2afd472d6'
 title: 'Christmas in the Park Auckland: fechas, entradas y recinto (Auckland)'
 description: El Coca-Cola Christmas in the Park de Auckland se celebra el sábado 12 de diciembre de 2026 en el Auckland Domain, el gran parque situado en el límite del centro urbano, junto a Parnell y Grafton.
 quickAnswer: El Coca-Cola Christmas in the Park de Auckland se celebra el sábado 12 de diciembre de 2026 en el Auckland Domain, el gran parque situado en el límite del centro urbano, junto a Parnell y Grafton. El acceso a la explanada principal del concierto es gratuito y el público puede llegar a las 250 000 personas. Por eso la mayoría acude en tren o a pie con una manta de pícnic y se queda hasta el final.
@@ -40,7 +40,7 @@ El concierto principal es gratuito. Para la explanada general no necesita entrad
 - Una botella de agua reutilizable
 - Una linterna o el móvil bien cargado para salir entre los árboles
 
-A mediados de diciembre, en Auckland el sol se pone tarde, después de las 8:30pm. Por eso la mayor parte de la velada transcurre con luz natural, y las luces y los fuegos artificiales llegan justo al final.
+A mediados de diciembre, en Auckland la luz natural se mantiene hasta bien entrada la noche. Por eso la mayor parte de la velada transcurre con luz natural, y las luces y los fuegos artificiales llegan justo al final.
 
 ## Cómo llegar al Domain en tren y a pie
 

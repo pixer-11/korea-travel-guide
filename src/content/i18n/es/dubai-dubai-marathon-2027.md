@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: dubai-dubai-marathon-2027
-srcHash: 'c25ed905245a'
+srcHash: 'a536a5ed54eb'
 title: 'Maratón de Dubái 2027: fechas, inscripciones y lugar de salida (Dubái)'
 description: El Maratón de Dubái 2027 se celebrará el domingo 17 de enero de 2027, con salida en la avenida Umm Suqeim (Umm Suqeim Road) de Dubái.
 quickAnswer: El domingo 17 de enero de 2027 se celebra el Maratón de Dubái 2027, cuya salida se sitúa en la avenida Umm Suqeim (Umm Suqeim Road). Será la 26.ª edición de una prueba que ostenta la Etiqueta de Oro de World Athletics. Los enlaces de inscripción y venta de dorsales se encuentran en la web oficial de la carrera; aquí no figura el precio de la inscripción.
@@ -22,7 +22,7 @@ faq:
 
 El domingo 17 de enero de 2027 se disputa la 26.ª edición del Maratón de Dubái. World Athletics le concede la Etiqueta de Oro, una de las categorías más altas entre sus distinciones para carreras en ruta. Así, los atletas de élite comparten asfalto con la carrera popular.
 
-La salida se da en la avenida Umm Suqeim (Umm Suqeim Road), que se adentra en la ciudad desde la costa de Jumeirah hacia la autopista Sheikh Zayed Road y el centro comercial Mall of the Emirates. El asfalto es ancho y llano, sin apenas desnivel, y a ello debe Dubái su fama de circuito rápido. Haile Gebrselassie se impuso aquí tres años consecutivos, de 2008 a 2010, y desde hace años los corredores etíopes acaparan el podio.
+La salida se da en la avenida Umm Suqeim (Umm Suqeim Road), que se adentra en la ciudad desde la costa de Jumeirah hacia la autopista Sheikh Zayed Road y el centro comercial Mall of the Emirates. El asfalto es ancho y llano, sin apenas desnivel, y a ello debe Dubái su fama de circuito rápido, y desde hace años los corredores etíopes acaparan el podio.
 
 ## Clima, horarios y recorrido
 

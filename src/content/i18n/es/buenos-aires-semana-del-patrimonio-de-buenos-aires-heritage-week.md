@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: buenos-aires-semana-del-patrimonio-de-buenos-aires-heritage-week
-srcHash: 'b595a8478b39'
+srcHash: '9976f94788be'
 title: 'Semana del Patrimonio de Buenos Aires: fechas, entradas y sedes (Buenos Aires)'
 description: La Semana del Patrimonio de Buenos Aires se celebra en toda la ciudad del lunes 2 al domingo 8 de noviembre de 2026.
 quickAnswer: La Semana del Patrimonio de Buenos Aires se celebra en toda la ciudad del lunes 2 al domingo 8 de noviembre de 2026. No tiene una sede única, sino que se reparte por toda la ciudad. Su propósito es ofrecer acceso gratuito al interior de clubes históricos, palacios y edificios institucionales. El organizador publica el programa con los edificios participantes y las condiciones de acceso que correspondan.
@@ -76,7 +76,7 @@ Los porteños suelen elegir dos o tres edificios por día en lugar de perseguir 
 
 ## Cómo organizar el día
 
-La Semana del Patrimonio se combina sin dificultad con el resto del centro porteño. En una misma plaza, Plaza de Mayo, se encuentran la Casa Rosada, la Catedral Metropolitana y el Cabildo. Para hacer una pausa a mitad de recorrido, en la Avenida de Mayo está el Café Tortoni, el café más antiguo de la ciudad.
+La Semana del Patrimonio se combina sin dificultad con el resto del centro porteño. En una misma plaza, Plaza de Mayo, se encuentran la Casa Rosada, la Catedral Metropolitana y el Cabildo. Para hacer una pausa a mitad de recorrido, en la Avenida de Mayo está el Café Tortoni, un café histórico.
 
 Si su domingo coincide con el 8 de noviembre, a poca distancia a pie al sur de Plaza de Mayo encontrará la feria dominical de San Telmo, que se extiende a lo largo de la calle Defensa. En Recoleta, el Cementerio de la Recoleta y la Basílica del Pilar están uno junto a la otra, de modo que puede cerrar una jornada de interiores entre algunas de las obras de arquitectura funeraria más elaboradas de la ciudad.
 

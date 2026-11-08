@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: cebu-city-sinulog-festival
-srcHash: 'ce531ec173b5'
+srcHash: 'ac5c06c3af10'
 title: 'Festival Sinulog: fechas, entradas y sedes (Ciudad de Cebú)'
 description: Las fechas del Festival Sinulog de la Ciudad de Cebú son del 8 al 18 de enero de 2027. Su programa de misas, procesiones y danzas callejeras gira en torno a la Basílica Menor del Santo Niño, en el centro.
 quickAnswer: Las fechas del Festival Sinulog de la Ciudad de Cebú son del 8 al 18 de enero de 2027. Su programa de misas, procesiones y danzas callejeras gira en torno a la Basílica Menor del Santo Niño (Basilica Minore del Santo Niño), en el centro. Ver el desfile desde la calle es gratis, y las entradas de tribuna solo dan acceso a la exhibición ritual, con asiento. Por tradición, el gran desfile coincide con el tercer domingo de enero, que en 2027 cae el 17 de enero.
@@ -37,7 +37,7 @@ El domingo es, con diferencia, la jornada más larga. Las comparsas recorren el 
 
 ## Sedes, entradas y acceso
 
-El centro de la ciudad es el eje del festival. La basílica se alza junto a la Cruz de Magallanes, a pocos pasos de la calle Colón (Colon Street) y de la Plaza Independencia. El recorrido del desfile une ese núcleo con el recinto de la competición, que en las últimas ediciones ha alternado entre el Cebu City Sports Center y South Road Properties.
+El centro de la ciudad es el eje del festival. La basílica se alza junto a la Cruz de Magallanes, a pocos pasos de la calle Colón (Colon Street) y de la Plaza Independencia. El recorrido del desfile une ese núcleo con el recinto de la competición, cuya ubicación exacta ha variado de una edición a otra.
 
 Ver el desfile de pie a lo largo del recorrido no cuesta nada. Para los asientos de tribuna del recinto de la competición hay que tener entrada. Los vende la Fundación Sinulog (Sinulog Foundation), la entidad organizadora, que además fija cada año el recorrido y la sede.
 

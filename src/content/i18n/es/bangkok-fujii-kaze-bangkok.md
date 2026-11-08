@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bangkok-fujii-kaze-bangkok
-srcHash: 'ebe7e86afed9'
+srcHash: 'a8e080d26cdc'
 title: 'Fujii Kaze en Bangkok: fecha, entradas y recinto (Bangkok)'
 description: Fujii Kaze actuará en Bangkok el 26 de diciembre de 2026 en el Estadio Nacional Suphachalasai, en el distrito de Pathum Wan. Las entradas se venden a través del promotor del concierto.
 quickAnswer: Fujii Kaze actuará en Bangkok el 26 de diciembre de 2026 en el Estadio Nacional Suphachalasai (Suphachalasai National Stadium), en el distrito de Pathum Wan. Las entradas se venden a través del promotor del concierto. Como el estadio está junto a la estación National Stadium de la línea Silom del BTS, el tren elevado es la forma más cómoda de llegar y de volver la noche del concierto.
@@ -33,7 +33,7 @@ Fuera de Japón, una sola canción hizo casi todo el trabajo. «Shinunoga E-Wa»
 Otras canciones que el público suele corear:
 
 - «Shinunoga E-Wa», el éxito viral
-- «Kirari», el animado sencillo que sonó por todas partes en 2021
+- «Kirari», uno de sus sencillos más animados
 - «Matsuri», construida sobre un ritmo festivo
 - «Nan-Nan», el primer tema que hizo que se empezara a hablar de él
 

@@ -29582,11 +29582,11 @@
   "at": "2026-09-28T15:59:45.642Z"
  },
  "zh/agra-jahangir-palace": {
-  "hash": "54db9ea4bb25",
+  "hash": "193ffd02aee0",
   "score": 1,
   "registerBreak": false,
-  "worst": "阿格拉堡内的宫室以它规模最大。",
-  "at": "2026-10-11T00:24:36.091Z"
+  "worst": "赶在早上7点开门前后抵达，也就是从德里出发的一日游大巴到来之前，最有机会独享空荡荡的庭院",
+  "at": "2026-11-08T07:55:49.633Z"
  },
  "zh/austin-neill-cochran-house-museum": {
   "hash": "e85f49c88e75",
@@ -29610,11 +29610,11 @@
   "at": "2026-09-28T16:01:03.250Z"
  },
  "ko/agra-jahangir-palace": {
-  "hash": "5b0ee93021f2",
+  "hash": "b15934a22199",
   "score": 1,
   "registerBreak": false,
-  "worst": "안내된 운영 시간은 월요일, 화요일, 수요일, 목요일, 토요일, 일요일 오전 7:00부터 오후 6:00까지이며",
-  "at": "2026-10-26T08:17:14.538Z"
+  "worst": "궁전은 가장 먼저 만나는 큰 건물 가운데 하나입니다.",
+  "at": "2026-11-08T07:53:51.290Z"
  },
  "ko/bangkok-post-malone-the-big-ass-stadium-world-tour": {
   "hash": "a102af9a309d",
@@ -29755,13 +29755,6 @@
   "registerBreak": false,
   "worst": "각 기둥은 1971년 연방에 서명한 일곱 개 토후국을 하나씩 상징합니다.",
   "at": "2026-09-28T16:01:51.847Z"
- },
- "ko/dubai-amr-diab-live-in-dubai": {
-  "hash": "7dab97313c4b",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "멋스럽게 늦게 도착하는 현지 관행을 따르기보다는 개장 시간에 맞춰 가시는 편이 좋습니다.",
-  "at": "2026-09-28T16:01:55.378Z"
  },
  "ko/dubai-waterfront-market": {
   "hash": "b3bdebba2661",
@@ -32053,11 +32046,11 @@
   "at": "2026-10-11T00:23:47.535Z"
  },
  "es/agra-jahangir-palace": {
-  "hash": "ccdcc7167425",
+  "hash": "308e2f7e5278",
   "score": 1,
   "registerBreak": false,
   "worst": "abre de 7:00 AM a 6:00 PM los lunes, martes, miércoles, jueves, sábados y domingos",
-  "at": "2026-10-11T00:23:59.519Z"
+  "at": "2026-11-08T07:53:30.403Z"
  },
  "ja/adana-world-rak-festival": {
   "hash": "4e6cc47af32b",
@@ -32067,11 +32060,11 @@
   "at": "2026-10-11T00:24:00.931Z"
  },
  "ja/agra-jahangir-palace": {
-  "hash": "47aa26290d5c",
+  "hash": "56716c6750d2",
   "score": 1,
   "registerBreak": false,
-  "worst": "さまざまな様式が混ざり合っていることこそ、この建物を訪れる理由です。",
-  "at": "2026-10-11T00:24:08.587Z"
+  "worst": "開館時間は月・火・水・木・土・日曜日の午前7時〜午後6時で、金曜日は休館と案内されています。",
+  "at": "2026-11-08T07:53:39.151Z"
  },
  "zh/adana-world-rak-festival": {
   "hash": "77d818338609",
@@ -32268,13 +32261,6 @@
   "registerBreak": false,
   "worst": "대형 해외 콘서트를 위해 자주 쓰이는 방콕의 대표적인 실내 아레나로, 무대 장비를 온전히 갖춘 대규모 투어 공연을 유치하는 곳으로 알려져 있습니다.",
   "at": "2026-10-12T00:20:17.736Z"
- },
- "ko/bangkok-bigbang-world-tour-xx-cosmos-in-bangkok": {
-  "hash": "6e1583893fd2",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "이들은 성인이 된 뒤 대부분의 시간을 '판타스틱 베이비', '뱅뱅뱅', '하루하루'를 따라 부르며 보냈습니다.",
-  "at": "2026-10-19T08:59:49.377Z"
  },
  "ko/bangkok-bangkok-marathon": {
   "hash": "e01fb0c36996",
@@ -34614,13 +34600,6 @@
   "worst": "이런 연휴에는 그동안 평범한 주말 공연보다 국내 관객이 훨씬 많이 몰렸습니다.",
   "at": "2026-10-12T10:43:29.087Z"
  },
- "ko/incheon-my-chemical-romance-seoul-2026": {
-  "hash": "171978b76730",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "이 낯선 조합이 기존 K팝 투어 팬층을 넘어서는 관심을 이 공연이 끌어모으고 있는 이유이기도 합니다.",
-  "at": "2026-10-12T10:43:29.159Z"
- },
  "ko/inverness-urquhart-castle": {
   "hash": "a2fb6c027864",
   "score": 0,
@@ -36204,11 +36183,11 @@
   "at": "2026-10-19T08:57:53.510Z"
  },
  "ko/abu-dhabi-hans-zimmer-live-abu-dhabi-festival": {
-  "hash": "febb7b0f9332",
-  "score": 0,
+  "hash": "f0370ff63b52",
+  "score": 1,
   "registerBreak": false,
-  "worst": "",
-  "at": "2026-10-25T07:52:37.233Z"
+  "worst": "한스 짐머가 이 축제의 무대로 에티하드 아레나에서 라이브 공연을 펼칩니다.",
+  "at": "2026-11-08T07:53:45.284Z"
  },
  "ko/abu-dhabi-offlimits-music-festival-shakira-jonas-brothers": {
   "hash": "c2ade49ec446",
@@ -37429,11 +37408,11 @@
   "at": "2026-10-24T16:15:19.205Z"
  },
  "es/abu-dhabi-hans-zimmer-live-abu-dhabi-festival": {
-  "hash": "c43a867ff0dd",
+  "hash": "c4b111409de0",
   "score": 1,
   "registerBreak": false,
   "worst": "Cuando un pabellón con las entradas agotadas se vacía, enseguida se forman colas para conseguir vehículo.",
-  "at": "2026-10-25T07:52:02.499Z"
+  "at": "2026-11-08T07:53:27.445Z"
  },
  "es/abu-dhabi-offlimits-music-festival-shakira-jonas-brothers": {
   "hash": "fd1d27f0ee67",
@@ -37443,11 +37422,11 @@
   "at": "2026-10-25T07:52:12.047Z"
  },
  "ja/abu-dhabi-hans-zimmer-live-abu-dhabi-festival": {
-  "hash": "c54623b807fb",
-  "score": 0,
+  "hash": "2b812f7ab2a5",
+  "score": 1,
   "registerBreak": false,
-  "worst": "",
-  "at": "2026-10-25T07:52:12.776Z"
+  "worst": "満員のアリーナから観客が一斉に出てくると、車待ちの列はあっという間に長くなります。",
+  "at": "2026-11-08T07:53:32.683Z"
  },
  "ja/abu-dhabi-offlimits-music-festival-shakira-jonas-brothers": {
   "hash": "3af731c757d4",
@@ -37457,11 +37436,11 @@
   "at": "2026-10-25T07:52:36.496Z"
  },
  "zh/abu-dhabi-hans-zimmer-live-abu-dhabi-festival": {
-  "hash": "332cd540256f",
+  "hash": "7c6053edc171",
   "score": 1,
   "registerBreak": false,
-  "worst": "在阿联酋的公共场所，肩膀和膝盖需要遮住；竞技场的空调又开得很冷，带一件薄外套会很实用。",
-  "at": "2026-10-25T07:52:47.533Z"
+  "worst": "在阿联酋的公共场所，肩膀和膝盖需要遮住；竞技场的空调又开得很冷，多带一件外套很值得。",
+  "at": "2026-11-08T07:54:00.491Z"
  },
  "zh/abu-dhabi-middle-east-film-comic-con-mefcc-2026": {
   "hash": "c22d22a6dedd",
@@ -37995,13 +37974,6 @@
   "worst": "",
   "at": "2026-10-26T17:55:33.149Z"
  },
- "ko/busan-busan-fireworks-festival": {
-  "hash": "8e8f2acdb6f1",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "티켓 정보는 해변에 있는 누군가가 아니라 주최 측을 통해 확인해야 합니다.",
-  "at": "2026-10-26T17:55:33.416Z"
- },
  "ko/calgary-heritage-park": {
   "hash": "853b103eba8e",
   "score": 1,
@@ -38269,11 +38241,11 @@
   "at": "2026-10-27T17:29:41.445Z"
  },
  "es/akhaltsikhe-the-akhaltsikhe-synagogue": {
-  "hash": "0486e1b5b1cd",
+  "hash": "2b8f1a7a8bbf",
   "score": 1,
   "registerBreak": false,
   "worst": "Lo mismo vale para las festividade",
-  "at": "2026-10-28T08:26:01.619Z"
+  "at": "2026-11-08T07:53:31.443Z"
  },
  "es/bath-american-museum-gardens": {
   "hash": "b16a072aa2ca",
@@ -38290,11 +38262,11 @@
   "at": "2026-10-28T08:26:03.896Z"
  },
  "ja/akhaltsikhe-the-akhaltsikhe-synagogue": {
-  "hash": "4cd4364e610c",
+  "hash": "f3c6037d984d",
   "score": 1,
   "registerBreak": false,
-  "worst": "Googleでは現在、このシナゴーグは今週は毎日24時間営業と表示されています。",
-  "at": "2026-10-28T08:26:10.127Z"
+  "worst": "ジョージアの地方都市のタクシーは、多くの旅行者にとって安く感じられる料金で、運転手も旧市街の地理に通じています。",
+  "at": "2026-11-08T07:53:40.512Z"
  },
  "ja/bath-american-museum-gardens": {
   "hash": "953e9fd9cce7",
@@ -38311,11 +38283,11 @@
   "at": "2026-10-28T08:26:16.471Z"
  },
  "ko/akhaltsikhe-the-akhaltsikhe-synagogue": {
-  "hash": "1e3e9b9727d1",
+  "hash": "1acf38134806",
   "score": 1,
   "registerBreak": false,
-  "worst": "이곳은 조지아 남부에 남아 있는 조지아계 유대인의 삶의 흔적 가운데 가장 오래된 축에 듭니다.",
-  "at": "2026-10-28T08:26:17.662Z"
+  "worst": "이 건물이 지닌 의미는 한때 그 주변에 있던 것들에서 나옵니다.",
+  "at": "2026-11-08T07:53:59.313Z"
  },
  "ko/bath-american-museum-gardens": {
   "hash": "81310489c93f",
@@ -38332,11 +38304,11 @@
   "at": "2026-10-28T08:26:25.611Z"
  },
  "zh/akhaltsikhe-the-akhaltsikhe-synagogue": {
-  "hash": "c8907eeb10ac",
+  "hash": "e64473b9165d",
   "score": 1,
   "registerBreak": false,
-  "worst": "比较合理的安排是先看拉巴蒂城堡，再到会堂待上20–40分钟，瓦尔齐亚则留到下午或第二天上午。",
-  "at": "2026-10-28T08:26:26.954Z"
+  "worst": "会堂的地址是一个Plus Code：**JXVJ+X4G, Akhaltsikhe**。直接把它输入谷歌地图就行，别指望靠街道名找过去。",
+  "at": "2026-11-08T07:54:09.465Z"
  },
  "zh/bath-american-museum-gardens": {
   "hash": "d3f888c5baea",

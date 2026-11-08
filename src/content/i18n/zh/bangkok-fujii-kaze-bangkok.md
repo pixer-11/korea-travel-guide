@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: bangkok-fujii-kaze-bangkok
-srcHash: 'ebe7e86afed9'
+srcHash: 'a8e080d26cdc'
 title: 藤井风曼谷演唱会：日期、门票与场馆（曼谷）
 description: 藤井风曼谷演唱会将于2026年12月26日在曼谷巴吞旺区的素帕查拉赛国家体育场举行，门票由演唱会主办方发售。
 quickAnswer: 藤井风曼谷演唱会定于2026年12月26日举行，场地是曼谷巴吞旺区（Pathum Wan）的素帕查拉赛国家体育场（Suphachalasai National Stadium），门票由演唱会主办方发售。体育场紧挨着BTS是隆线的国家体育场站，演出当晚往返搭轻轨最省事。
@@ -33,7 +33,7 @@ faq:
 其他大家耳熟能详的歌曲还有：
 
 - 《Shinunoga E-Wa》，就是那首爆红的歌
-- 《Kirari》，2021年传遍各地的轻快单曲
+- 《Kirari》，他的轻快单曲之一
 - 《Matsuri》，以祭典节奏为骨架
 - 《Nan-Nan》，让他最早引起关注的早期作品
 

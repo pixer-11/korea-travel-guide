@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: busan-museum-1
-srcHash: '03271a1b040b'
+srcHash: 'bf12a5785773'
 title: 'MUSEUM 1: Guía de viaje de Busan (4.3★)'
 description: MUSEUM 1 es un espacio de arte contemporáneo y diseño situado en el barrio de Centum City, en Haeundae, ideal para combinar con una tarde de compras en Shinsegae Centum City y una visita a BEXCO. Con 4.3★ (1.554 reseñas), aquí encontrarás lo que opinan los visitantes, los horarios y varios consejos prácticos.
 quickAnswer: MUSEUM 1 es un espacio de arte contemporáneo y diseño situado en Centum City, en Haeundae, que combina bien con una tarde de compras en Shinsegae Centum City y una visita a BEXCO. Conviene ir entre semana, de 10:00 a 19:00, para disfrutar de las salas con más calma; si solo puedes ir en fin de semana, es mejor acudir por la mañana o al final de la tarde y evitar la franja de mediodía a las 18:00, cuando se llena de gente. Para ver bien la colección, calcula entre 90 minutos y dos horas.
@@ -42,7 +42,7 @@ Como la programación cambia con regularidad, merece la pena consultar qué expo
 
 ## Cuándo ir
 
-Los datos de afluencia resultan realmente útiles aquí: entre semana, la calma se mantiene durante toda la franja de 10:00 a 19:00, sin una verdadera hora punta que evitar. Los fines de semana la situación cambia: el museo, en general, está más tranquilo entre las 10:00 y las 20:00, pero se forma una aglomeración clara entre el mediodía y las 18:00, cuando quienes hacen una excursión de un día combinan la visita al museo con las compras en Centum City.
+Los datos de afluencia resultan realmente útiles aquí: entre semana, la calma se mantiene durante toda la franja de 10:00 a 19:00, sin una verdadera hora punta que evitar. Los fines de semana la situación cambia: la afluencia aumenta de forma constante a lo largo de la mañana y alcanza su punto álgido con una aglomeración clara entre el mediodía y las 18:00, con franjas más tranquilas antes y después de ese tramo, cuando quienes hacen una excursión de un día combinan la visita al museo con las compras en Centum City.
 
 Si el fin de semana es la única opción, lo mejor es ir justo a la apertura o dejar la visita para el final de la tarde, después de las 18:00, cuando las salas vuelven a vaciarse y hay más espacio para contemplar las obras con calma en lugar de esquivar a otros visitantes.
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: barcelona-museu-d-art-contemporani-de-barcelona
-srcHash: 'e41a9cdf770a'
+srcHash: '26092693d39f'
 title: 'Museu d''Art Contemporani de Barcelona: Guía de viaje (4,3★)'
 description: 'En plena Plaça dels Àngels, en El Raval, el MACBA es un buque blanco imposible de pasar por alto, obra de Richard Meier, que alberga arte catalán e internacional desde los años 40 hasta hoy. 4,3★ (15.260 reseñas): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: En plena Plaça dels Àngels, en El Raval, el MACBA es un buque blanco imposible de pasar por alto, obra de Richard Meier, que alberga arte catalán e internacional desde los años 40 hasta hoy. Para encontrar las salas más vacías, conviene ir un día entre semana de 10:00 a 11:00, y calcular unas dos horas para la visita. Los martes cierra y los domingos lo hace temprano (15:00), así que conviene revisar el calendario antes de salir.
@@ -9,7 +9,7 @@ faq:
   - q: ¿Abre el MACBA los martes?
     a: No, el MACBA cierra todos los martes. Abre los lunes y de miércoles a sábado de 10:00 a 20:00, y los domingos de 10:00 a 15:00.
   - q: ¿Cuál es el mejor momento para evitar las multitudes?
-    a: Entre semana, el tramo de 10:00 a 11:00, justo al abrir, es el más tranquilo. Los fines de semana, la mejor opción es el intervalo de 15:00 a 16:00.
+    a: Entre semana, el tramo de 10:00 a 11:00, justo al abrir, es el más tranquilo. Los fines de semana, la mejor opción es llegar justo a la apertura, a las 10:00.
   - q: ¿Cuánto tiempo hay que reservar para la visita?
     a: Unas dos horas bastan para recorrer con calma la colección permanente y una exposición temporal.
   - q: ¿Cuál es la estación de metro más cercana?
@@ -51,13 +51,13 @@ El MACBA cierra los martes y abre en horario diurno habitual el resto de la sema
 
 Los patrones de afluencia aquí son bastante predecibles. Entre semana, el tramo tranquilo va de 10:00 a 11:00, justo al abrir, antes de que se acumulen los grupos turísticos y las visitas escolares.
 
-Los fines de semana, conviene evitar el tramo de 14:00 a 20:00, que es cuando el museo se llena más rápido. En cambio, lo mejor para quienes visitan en fin de semana es llegar justo a las 10:00 o volver entre las 15:00 y las 16:00, el momento más tranquilo del fin de semana.
+Los fines de semana, conviene evitar el tramo de 14:00 a 20:00, que es cuando el museo se llena más rápido. En cambio, lo mejor para quienes visitan en fin de semana es llegar justo a las 10:00, antes de que se acumule la afluencia de la tarde.
 
 ## Cómo visitarlo como un local
 
 El MACBA recibe muchísimas visitas, así que conviene tratar los datos de afluencia como la principal herramienta de planificación, no como un detalle secundario.
 
-- **Mejor momento**: por la mañana entre semana, de 10 a 11h, o el tramo tranquilo de 15 a 16h los fines de semana
+- **Mejor momento**: por la mañana entre semana, de 10 a 11h, o justo a la hora de apertura los fines de semana
 - **Evitar**: las tardes de sábado y domingo, sobre todo a partir de las 14h
 - **Entradas**: en temporada alta, comprarlas online por adelantado para saltarse la cola de taquilla; los locales rara vez hacen cola si pueden evitarlo
 - **Pago**: la tarjeta es lo habitual tanto para las entradas como en la tienda del museo; no hace falta llevar efectivo

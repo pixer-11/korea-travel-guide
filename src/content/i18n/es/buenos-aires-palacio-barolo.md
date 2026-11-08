@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: buenos-aires-palacio-barolo
-srcHash: '9c40db21d90d'
+srcHash: '50207125a19c'
 title: 'Palacio Barolo: guía de viaje de Buenos Aires (4.6★)'
 description: 'Inaugurado en 1923 en Av. de Mayo 1370, en la zona de Monserrat/Congreso de Buenos Aires, el Palacio Barolo es un edificio de oficinas concebido a partir de la Divina Comedia de Dante. Sus pisos superiores y su faro solo pueden recorrerse con visita guiada. 4.6★ (30,237 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Inaugurado en 1923 en Av. de Mayo 1370, en la zona de Monserrat/Congreso de Buenos Aires, el Palacio Barolo es un edificio de oficinas concebido a partir de la Divina Comedia de Dante. Sus pisos superiores y su faro solo pueden recorrerse con visita guiada, así que conviene reservar turno con antelación. Los momentos más tranquilos son de martes a viernes entre las 9am–10am y, los fines de semana, de 10am–5pm o de 8pm–10pm.
@@ -48,4 +48,4 @@ Hay visitas en español y en inglés; indique el idioma que prefiera al hacer la
 
 La forma más cómoda es tomar la línea A del Subte hasta la estación Sáenz Peña, situada sobre la misma Avenida de Mayo, a pocos pasos de la puerta. La estación Congreso, de la misma línea, queda unas dos cuadras al oeste y deja al viajero en la Plaza del Congreso.
 
-Tras la visita puede pasear hacia el este por la Avenida de Mayo, el bulevar más parisino de Buenos Aires, flanqueado por fachadas de la Belle Époque. En el número 825 se encuentra el Café Tortoni, el café más antiguo de la ciudad. Siguiendo adelante se llega a la Plaza de Mayo y a la Casa Rosada. Si, en cambio, camina hacia el oeste, llegará al edificio del Congreso. Combinando ambos trayectos se completa un recorrido a pie de media jornada.
+Tras la visita puede pasear hacia el este por la Avenida de Mayo, el bulevar más parisino de Buenos Aires, flanqueado por fachadas de la Belle Époque. Por el camino pasará junto a algunos de los cafés históricos de la avenida. Siguiendo adelante se llega a la Plaza de Mayo y a la Casa Rosada. Si, en cambio, camina hacia el oeste, llegará al edificio del Congreso. Combinando ambos trayectos se completa un recorrido a pie de media jornada.

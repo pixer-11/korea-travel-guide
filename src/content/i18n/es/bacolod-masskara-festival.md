@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bacolod-masskara-festival
-srcHash: '4ac7d550cb6d'
+srcHash: 'f78e8796ece0'
 title: 'Festival MassKara: fechas, entradas y sede (Bacolod)'
 description: El Festival MassKara de Bacolod (Filipinas) estaba previsto del 1 al 25 de octubre de 2026, con concursos de baile en torno a la Plaza Pública de Bacolod.
 quickAnswer: Las fechas anunciadas para el Festival MassKara de Bacolod eran del 1 al 25 de octubre de 2026. Los grandes concursos de baile, tanto en la calle como en recinto cerrado, se concentraban entre el 9 y el 18 de octubre, y la ceremonia de clausura era el 25 de octubre. El festival tenía su centro en las calles del casco urbano de Bacolod y en los alrededores de la Plaza Pública de Bacolod (Bacolod Public Plaza), donde desfilaban bailarines con las enormes máscaras sonrientes pintadas que han dado fama a la ciudad. Ver el desfile desde la acera era gratuito, mientras que para las gradas de las finales había que pagar entrada.
@@ -20,7 +20,7 @@ faq:
 
 ## Qué se celebraba y cuándo
 
-Conocido como el «Festival de las Sonrisas», el MassKara es una gran fiesta ciudadana de Bacolod que dura un mes entero y gira en torno a los bailes callejeros con máscaras. Las fechas anunciadas para la edición de 2026 eran del 1 al 25 de octubre. El verdadero espectáculo del festival, los concursos de baile en la calle y en recinto cerrado, ocupaba del 9 al 18 de octubre. La ceremonia de clausura, según el programa, era el 25 de octubre.
+Conocido como el «Festival de las Sonrisas», el MassKara es una gran fiesta ciudadana de Bacolod que dura un mes entero y gira en torno a los bailes callejeros con máscaras. Las fechas anunciadas para la edición de 2026 eran del 1 al 25 de octubre. Los concursos de baile en la calle y en recinto cerrado se celebraban dentro de ese periodo. La ceremonia de clausura, según el programa, era el 25 de octubre.
 
 Todo gira en torno a la máscara. Enorme, pintada y con una sonrisa perpetua, la lucen las comparsas mientras recorren las principales avenidas con coreografías ensayadas. El festival nació en la década de 1980 como respuesta deliberada de la ciudad a una época de penuria económica: se decidió afrontar las dificultades con una sonrisa. Ese origen sigue marcando hoy el carácter de la celebración.
 
@@ -42,7 +42,7 @@ Los precios exactos, las fechas de venta y los planos de asientos cambian de un 
 
 ## Cómo se vivían las calles
 
-Durante las jornadas de concurso, los mejores puestos gratuitos en las aceras del recorrido solían ocuparse mucho antes de que las comparsas echaran a andar. A lo largo del trayecto, los vendedores ofrecían especialidades locales como el pollo inasal y la piaya, y en los puestos callejeros lo habitual era pagar en efectivo.
+Durante las jornadas de concurso, los mejores puestos gratuitos en las aceras del recorrido solían ocuparse mucho antes de que las comparsas echaran a andar. A lo largo del trayecto, los vendedores ambulantes ofrecían comida y bebida, y en los puestos callejeros lo habitual era pagar en efectivo.
 
 Los camiones con altavoces solían recorrer todo el trayecto durante horas a gran volumen, algo que puede resultar molesto para quien sea sensible al ruido. Los bailarines ensayan durante meses, por lo que las coreografías son precisas y largas. La actuación de cada comparsa solía durar bastante más de lo que lleva sacar una foto rápida.
 

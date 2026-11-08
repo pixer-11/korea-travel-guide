@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: barcelona-guitar-bcn-festival-2026
-srcHash: '404b512cf477'
+srcHash: '6b1c546a26bf'
 title: 'Guitar BCN Festival 2026: fechas, entradas y recinto (Barcelona)'
 description: En noviembre de 2026, Guitar BCN Festival 2026 trae a Barcelona su programa de conciertos centrado en la guitarra. Su cita estelar es Jorge Drexler en L'Auditori de Barcelona, en el Carrer de Lepant, junto a la Plaça de les Glòries.
 quickAnswer: En noviembre de 2026, Guitar BCN Festival 2026 trae a Barcelona su programa de conciertos centrado en la guitarra. Su cita estelar es Jorge Drexler en L'Auditori de Barcelona, en el Carrer de Lepant, junto a la Plaça de les Glòries. Cada espectáculo tiene su propia fecha. En la web oficial del festival, la organización publica las fechas y los enlaces de venta de cada concierto. Las estaciones de metro más próximas a la sala son Marina (L1) y Monumental (L2).
@@ -26,7 +26,7 @@ La edición de 2026 corresponde a noviembre. No hay pulsera ni recinto festivale
 
 ## Jorge Drexler en L'Auditori
 
-El nombre más conocido de esta edición es el de Jorge Drexler. Con «Al otro lado del río», de *Diarios de motocicleta*, el cantautor uruguayo ganó el Óscar a la mejor canción original. Fue el primer uruguayo en conseguir esa estatuilla.
+Jorge Drexler figura entre los nombres de esta edición. Con «Al otro lado del río», de *Diarios de motocicleta*, el cantautor uruguayo ganó el Óscar a la mejor canción original. Fue el primer uruguayo en conseguir esa estatuilla.
 
 También acumula una larga lista de Grammy Latinos. *Tinta y tiempo* se alzó con el premio al Álbum del Año, y «Tocarte», su dueto con C. Tangana, llegó mucho más allá de su público habitual, más cercano al folk. Como reside en Madrid desde hace años, el público español lo siente casi como alguien de casa.
 

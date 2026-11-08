@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: cebu-city-sinulog-festival
-srcHash: 'ce531ec173b5'
+srcHash: 'ac5c06c3af10'
 title: 宿务圣婴节（Sinulog）：日期、门票与场地（宿务市）
 description: 宿务市圣婴节日程为2027年1月8日至18日。弥撒、游行和街头舞蹈以市中心的圣婴大教堂为中心展开。
 quickAnswer: 宿务市圣婴节（Sinulog）日程为2027年1月8日至18日。弥撒、宗教游行和街头舞蹈都围绕市中心的圣婴大教堂（Basilica Minore del Santo Niño）展开。在街边观看巡游不收费，看台门票只用于入座观看仪式舞蹈展演。按惯例，大巡游在1月的第三个星期日举行，2027年为1月17日。
@@ -37,7 +37,7 @@ faq:
 
 ## 场地、门票与交通
 
-市中心是整个节日的核心。圣婴大教堂与麦哲伦十字架相邻，步行不远就到科隆街（Colon Street）和独立广场（Plaza Independencia）。巡游路线把这片核心区域与比赛场地连在一起。近几届的比赛场地在宿务市体育中心（Cebu City Sports Center）和South Road Properties之间更换。
+市中心是整个节日的核心。圣婴大教堂与麦哲伦十字架相邻，步行不远就到科隆街（Colon Street）和独立广场（Plaza Independencia）。巡游路线把这片核心区域与比赛场地连在一起，而具体场地每届不尽相同。
 
 站在巡游路线旁观看完全免费。比赛场地的看台座位则凭票入场，门票由主办方Sinulog基金会（Sinulog Foundation）发售，巡游路线和场地也由该基金会每年确定。
 

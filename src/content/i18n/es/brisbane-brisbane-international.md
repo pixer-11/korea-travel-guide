@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: brisbane-brisbane-international
-srcHash: 'c20d4e3954db'
+srcHash: '8790339065c0'
 title: 'Brisbane International: fechas, entradas y sede (Brisbane)'
 description: Del 3 al 11 de enero de 2027, el Brisbane International se celebra en el Queensland Tennis Centre de Tennyson, un barrio ribereño situado al suroeste del centro de Brisbane.
 quickAnswer: Del 3 al 11 de enero de 2027, el Brisbane International se celebra en el Queensland Tennis Centre de Tennyson, un barrio ribereño situado al suroeste del centro de Brisbane. Este torneo ATP y WTA sobre pista dura abre el verano tenístico australiano antes del Abierto de Australia. En su web oficial, la organización publica las entradas y el orden de juego. La estación de tren más cercana a los accesos es Yeerongpilly.
@@ -67,7 +67,7 @@ Las sesiones nocturnas resultan mucho más agradables, y en parte por eso los pa
 
 ## Breve historia del torneo inaugural
 
-El Brisbane International nació en 2009, cuando varios torneos veraniegos australianos más antiguos se fusionaron en una sola competición en el nuevo recinto de Tennyson. Desde entonces se ha convertido en una escala fija de preparación para los mejores jugadores. Entre sus antiguos campeones figuran Andy Murray, Serena Williams y Roger Federer, que en la final de 2015 logró aquí su victoria número 1.000 en el circuito.
+El Brisbane International nació en 2009, cuando varios torneos veraniegos australianos más antiguos se fusionaron en una sola competición en el nuevo recinto de Tennyson. Desde entonces se ha convertido en una escala fija de preparación para los mejores jugadores. Entre sus antiguos campeones figuran Andy Murray, Serena Williams y Roger Federer.
 
 El lugar que ocupa en el calendario condiciona el tenis que se ve. Algunos jugadores llegan con la forma física recién recuperada tras el parón y juegan sueltos y agresivos. Otros dosifican el esfuerzo pensando en Melbourne. Por eso las primeras rondas pueden deparar resultados difíciles de prever.
 

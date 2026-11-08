@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: buenos-aires-mercado-san-telmo
-srcHash: '59e9ca523e71'
+srcHash: 'c33b0bd09ab6'
 title: 'Mercado San Telmo: guía de viaje de Buenos Aires (4.5★)'
 description: En Bolívar 970, en pleno barrio porteño de San Telmo, el Mercado San Telmo ocupa desde 1897 un edificio cubierto de hierro y vidrio donde conviven puestos de frutas y verduras, anticuarios y barras de comida informal. Con 4.5★ (29,105 reseñas), aquí encontrará la opinión de los visitantes, los horarios y consejos útiles.
 quickAnswer: En Bolívar 970, en el barrio porteño de San Telmo, se levanta desde 1897 el Mercado San Telmo, un edificio cubierto de hierro y vidrio que reúne puestos de frutas y verduras, anticuarios y barras de comida informal. Actualmente abre todos los días de 9am–8pm, aunque cada puesto maneja su propio horario. El domingo es el día de mayor afluencia, ya que la Feria de San Pedro Telmo ocupa la calle Defensa. Si prefiere recorrerlo sin prisas, conviene ir una mañana entre semana.

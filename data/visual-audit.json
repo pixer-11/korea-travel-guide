@@ -4413,6 +4413,12 @@
   "reason": "publish gate: Iconic illuminated view of Brandenburg Gate at dusk",
   "at": "2026-10-02T14:00:55.205Z"
  },
+ "berlin-dussmann-das-kulturkaufhaus\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Dussmann_Kulturkaufhaus_4.JPG/1920px-Dussmann_Kulturkaufhaus_4.JPG": {
+  "slug": "berlin-dussmann-das-kulturkaufhaus",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of Dussmann building, clearly labeled, representative view",
+  "at": "2026-11-08T07:46:14.496Z"
+ },
  "berlin-fukagawa\u0001https://fastly.4sqi.net/img/general/original/119391558_iCSShaZyz11MbtqsD8namZ9jep5KatrnPt5ODi52xjM.jpg": {
   "slug": "berlin-fukagawa",
   "verdict": "MATCH",
@@ -7642,6 +7648,12 @@
   "verdict": "MATCH",
   "reason": "event publish gate: Concert stage performance, matches event type",
   "at": "2026-11-02T00:11:34.483Z"
+ },
+ "christchurch-scorpio-books\u0001https://upload.wikimedia.org/wikipedia/commons/a/ab/Scorpio_Books_5_Jun_26_MRD_01.jpg": {
+  "slug": "christchurch-scorpio-books",
+  "verdict": "MATCH",
+  "reason": "publish gate: Storefront exterior of Scorpio Children's Books, Telling Tales",
+  "at": "2026-11-08T07:46:14.598Z"
  },
  "christchurch-the-bealey\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/62_Bealey_Ave%2C_Christchurch%2C_New_Zealand.jpg/3840px-62_Bealey_Ave%2C_Christchurch%2C_New_Zealand.jpg": {
   "slug": "christchurch-the-bealey",
@@ -12020,6 +12032,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Dish photographed inside venue with branded wrapper, matches restaurant",
   "at": "2026-10-01T14:47:01.363Z"
+ },
+ "hobart-fullers-bookshop\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Fullers_Bookshop_July_2017.jpg/3840px-Fullers_Bookshop_July_2017.jpg": {
+  "slug": "hobart-fullers-bookshop",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Fullers Bookshop storefront exterior, representative street view",
+  "at": "2026-11-08T07:46:14.457Z"
  },
  "hobart-mawson-s-huts-replica-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Mawsons_Huts_Replica_Museum_20171118-027.jpg/3840px-Mawsons_Huts_Replica_Museum_20171118-027.jpg": {
   "slug": "hobart-mawson-s-huts-replica-museum",
@@ -23750,6 +23768,12 @@
   "reason": "event publish gate: Holiday lights display at park venue, matches festival",
   "at": "2026-11-02T00:13:01.150Z"
  },
+ "niagara-falls-niagara-parks-botanical-gardens\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Niagara_Parks_Botanical_Gardens.jpg/3840px-Niagara_Parks_Botanical_Gardens.jpg": {
+  "slug": "niagara-falls-niagara-parks-botanical-gardens",
+  "verdict": "MATCH",
+  "reason": "publish gate: Generic park/garden landscape plausible for botanical gardens",
+  "at": "2026-11-08T07:46:14.191Z"
+ },
  "niagara-falls-old-stone-chimney\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Old_Stone_Chimney_20160417_0337.jpg/1920px-Old_Stone_Chimney_20160417_0337.jpg": {
   "slug": "niagara-falls-old-stone-chimney",
   "verdict": "MATCH",
@@ -24234,6 +24258,12 @@
   "verdict": "MISMATCH",
   "reason": "Steakhouse/izakaya, not seafood restaurant",
   "at": "2026-07-25T02:47:22.913Z"
+ },
+ "okinawa-junkudo-naha\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Junkudo_Naha_Okinawa_pref_Japan01s3.jpg/3840px-Junkudo_Naha_Okinawa_pref_Japan01s3.jpg": {
+  "slug": "okinawa-junkudo-naha",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior building with JUNKUDO signage, Okinawa storefront",
+  "at": "2026-11-08T07:46:14.560Z"
  },
  "okinawa-makishi-public-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/JP_%E6%97%A5%E6%9C%AC_Japan_%E6%B2%96%E7%B9%A9_OKINAWA_%E9%82%A3%E9%9C%B8_Naha_%E7%89%A7%E5%BF%97%E5%85%AC%E8%A8%AD%E5%B8%82%E5%A0%B4_Makishi_First_Public_Market_at_%E5%9C%8B%E9%9A%9B%E9%80%9A_KokusaiDori_%E5%A4%A7%E5%B9%B3%E9%80%9A%E5%95%86%E5%BA%97%E8%A1%97_TaiHeiDori_Business_Street_January_2025_R12S_07.jpg/3840px-thumbnail.jpg": {
   "slug": "okinawa-makishi-public-market",
@@ -27160,6 +27190,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Iconic exterior view of Château Frontenac in winter",
   "at": "2026-10-21T13:29:32.483Z"
+ },
+ "quebec-city-joan-of-arc-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Joan_of_Arc_Garden%2C_Quebec_City_02.jpg/3840px-Joan_of_Arc_Garden%2C_Quebec_City_02.jpg": {
+  "slug": "quebec-city-joan-of-arc-garden",
+  "verdict": "MATCH",
+  "reason": "publish gate: Garden with equestrian statue matches Joan of Arc Garden",
+  "at": "2026-11-08T07:46:14.377Z"
  },
  "quebec-city-l-antiquaire-buffet\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Buffet_de_L%27Antiquaire%2C_95_Rue_Saint-Paul%2C_Ville_de_Qu%C3%A9bec%2C_QC_G1K_3V8%2C_Canad%C3%A1.jpg/3840px-Buffet_de_L%27Antiquaire%2C_95_Rue_Saint-Paul%2C_Ville_de_Qu%C3%A9bec%2C_QC_G1K_3V8%2C_Canad%C3%A1.jpg": {
   "slug": "quebec-city-l-antiquaire-buffet",
@@ -35016,6 +35052,12 @@
   "reason": "publish gate: Interior of revolving restaurant with city view through windows",
   "at": "2026-10-21T13:29:32.402Z"
  },
+ "toronto-baps-shri-swaminarayan-mandir-toronto\u0001https://upload.wikimedia.org/wikipedia/commons/f/f8/BAPS_Shri_Swaminarayan_Mandir_Toronto_II.jpg": {
+  "slug": "toronto-baps-shri-swaminarayan-mandir-toronto",
+  "verdict": "MATCH",
+  "reason": "publish gate: Representative exterior view of the ornate Hindu temple",
+  "at": "2026-11-08T07:46:14.251Z"
+ },
  "toronto-bts-world-tour-arirang-toronto\u0001https://upload.wikimedia.org/wikipedia/commons/b/b8/Bangtan_Boys_at_fan_meeting_140824.jpg": {
   "slug": "toronto-bts-world-tour-arirang-toronto",
   "verdict": "MISMATCH",
@@ -35039,6 +35081,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Clear recognizable image of CN Tower's distinctive top structure",
   "at": "2026-10-21T13:29:32.348Z"
+ },
+ "toronto-edwards-gardens\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Edward_Gardens_waterfall_2023.jpg/1920px-Edward_Gardens_waterfall_2023.jpg": {
+  "slug": "toronto-edwards-gardens",
+  "verdict": "MATCH",
+  "reason": "publish gate: Garden landscape with pond, waterfall, trees, matches venue",
+  "at": "2026-11-08T07:46:14.292Z"
  },
  "toronto-ive-world-tour-scotiabank-arena\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/IVE_%28%EC%95%84%EC%9D%B4%EB%B8%8C%29_performing_at_the_2023_World_Scout_Jamboree_K-POP_Super_Live_Concert.jpg/3840px-IVE_%28%EC%95%84%EC%9D%B4%EB%B8%8C%29_performing_at_the_2023_World_Scout_Jamboree_K-POP_Super_Live_Concert.jpg": {
   "slug": "toronto-ive-world-tour-scotiabank-arena",
@@ -35966,6 +36014,12 @@
   "reasonKo": "발렌시아의 상징적 세라노스 탑",
   "at": "2026-08-05T15:00:49.727Z"
  },
+ "vancouver-bloedel-conservatory\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/The_Bloedel_Conservatory.jpg/1920px-The_Bloedel_Conservatory.jpg": {
+  "slug": "vancouver-bloedel-conservatory",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior dome view of Bloedel Conservatory at dusk",
+  "at": "2026-11-08T07:46:14.415Z"
+ },
  "vancouver-boynextdoor-concert-queen-elizabeth-theatre\u0001https://upload.wikimedia.org/wikipedia/commons/8/80/230602_BOYNEXTDOOR_%28%EB%B3%B4%EC%9D%B4%EB%84%A5%EC%8A%A4%ED%8A%B8%EB%8F%84%EC%96%B4%29.jpg": {
   "slug": "vancouver-boynextdoor-concert-queen-elizabeth-theatre",
   "verdict": "MATCH",
@@ -36258,6 +36312,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Representative view of Rainbow Mountain Vinicunca",
   "at": "2026-10-22T14:55:56.364Z"
+ },
+ "waitomo-otorohanga-kiwi-house\u0001https://upload.wikimedia.org/wikipedia/commons/9/93/Otorohanga_kiwi_house_-_panoramio.jpg": {
+  "slug": "waitomo-otorohanga-kiwi-house",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows kiwi statue and entrance sign at venue",
+  "at": "2026-11-08T07:46:14.336Z"
  },
  "waitomo-waitomo-glowworm-caves\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Glowworm_Grotto%2C_Waitomo_Glowworm_Cave.jpg/1920px-Glowworm_Grotto%2C_Waitomo_Glowworm_Cave.jpg": {
   "slug": "waitomo-waitomo-glowworm-caves",

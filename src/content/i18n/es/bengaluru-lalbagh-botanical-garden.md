@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bengaluru-lalbagh-botanical-garden
-srcHash: '5c549f70c34f'
+srcHash: '9606b3916f62'
 title: 'Jardín Botánico Lalbagh: guía de viaje de Bengaluru (4,4★)'
 description: 'El Jardín Botánico Lalbagh ocupa 240 acres en el sur de Bengaluru y abre todos los días de 5:00 a 19:00; lo mejor es visitarlo un día laborable entre las 7:00 y las 11:00, cuando hay menos gente. 4,4★ (177.977 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Jardín Botánico Lalbagh ocupa 240 acres en el sur de Bengaluru y abre todos los días de 5:00 a 19:00; lo mejor es visitarlo un día laborable entre las 7:00 y las 11:00, cuando hay menos gente. Entre los lugares que no hay que perderse están la Casa de Cristal (inspirada en el Crystal Palace de Londres), la roca de Gneis Peninsular, de 3.000 millones de años de antigüedad, y el jardín de topiaria. Los fines de semana, a partir de la 13:00, el lugar se llena, así que conviene ir a primera hora de la mañana.
@@ -58,7 +58,7 @@ Enero y agosto atraen a las mayores multitudes de todas, debido a las exposicion
 Se trata de una de las atracciones más visitadas de Bengaluru, no de un secreto tranquilo, así que conviene planificar en torno a las multitudes en lugar de esperar evitarlas del todo.
 
 - **Ve temprano.** Los visitantes habituales aprovechan la franja de 5:00 a 8:00 para dar sus vueltas antes de que llegue el calor y los grupos turísticos.
-- **Paga en efectivo las pequeñas tarifas de entrada.** Suele haber una entrada modesta y un cargo aparte para la Casa de Cristal durante las exposiciones florales; lleva billetes pequeños, porque el cambio en la taquilla puede tardar.
+- **Paga en efectivo las pequeñas tarifas de entrada.** Las tarifas de entrada son modestas; lleva billetes pequeños, porque el cambio en la taquilla puede tardar.
 - **Evita la puerta oeste principal los fines de semana.** Los locales suelen usar las puertas más tranquilas de Siddapura o Double Road para saltarse la cola.
 - **Calza zapatos de caminar de verdad.** Los senderos son de grava y en algunos tramos están desnivelados, y las 240 hectáreas se notan rápido en las piernas.
 - **Lleva agua y sombrero.** Bajo los árboles más antiguos hay bastante sombra, pero los prados abiertos junto al lago se calientan ya a media mañana.

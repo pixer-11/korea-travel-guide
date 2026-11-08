@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: barcelona-guitar-bcn-festival-2026
-srcHash: '404b512cf477'
+srcHash: '6b1c546a26bf'
 title: 2026巴塞罗那吉他音乐节（Guitar BCN）：日期、门票与场地
 description: 2026巴塞罗那吉他音乐节（Guitar BCN）的日程为2026年11月，在巴塞罗那推出一系列以吉他为主角的音乐会。本届的重头戏是豪尔赫·德雷克斯勒（Jorge Drexler）在巴塞罗那音乐厅（L'Auditori de Barcelona）的专场。音乐厅位于莱潘特街（Carrer de Lepant），离荣耀广场（Plaça de les Glòries）不远。
 quickAnswer: 2026巴塞罗那吉他音乐节（Guitar BCN）的日程为2026年11月，在巴塞罗那推出一系列以吉他为主角的音乐会。本届的重头戏是豪尔赫·德雷克斯勒（Jorge Drexler）在巴塞罗那音乐厅（L'Auditori de Barcelona）的专场。音乐厅位于莱潘特街（Carrer de Lepant），离荣耀广场（Plaça de les Glòries）不远。各场演出日期不一，每场音乐会的日期和购票链接由主办方发布在音乐节官网上。离音乐厅最近的地铁站是Marina站（L1线）和Monumental站（L2线）。
@@ -26,7 +26,7 @@ faq:
 
 ## 豪尔赫·德雷克斯勒登台巴塞罗那音乐厅
 
-本届名气最大的艺人当属豪尔赫·德雷克斯勒（Jorge Drexler）。这位乌拉圭创作型歌手凭电影《摩托日记》中的《河的彼岸》（"Al otro lado del río"）摘得奥斯卡最佳原创歌曲奖，成为第一位获得奥斯卡奖的乌拉圭人。
+本届的阵容中有豪尔赫·德雷克斯勒（Jorge Drexler）。这位乌拉圭创作型歌手凭电影《摩托日记》中的《河的彼岸》（"Al otro lado del río"）摘得奥斯卡最佳原创歌曲奖，成为第一位获得奥斯卡奖的乌拉圭人。
 
 他还拿过一连串拉丁格莱美奖。专辑《Tinta y tiempo》获得年度专辑；他与C. Tangana合唱的《Tocarte》更是远远走出了他平日偏民谣的听众圈。他在马德里定居多年，西班牙观众几乎把他当作本地人看待。
 

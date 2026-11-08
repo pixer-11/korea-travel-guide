@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: dempsey-hill-pasar-geylang-serai
-srcHash: '29f414f2208d'
+srcHash: '8d3ee48d7db3'
 title: 'Pasar Geylang Serai: guía de viaje de Singapur'
 description: Pasar Geylang Serai es un mercado húmedo y centro de puestos de comida en el distrito de Geylang Serai, en el lado este de Singapur, a poca distancia a pie de la estación de MRT Paya Lebar.
 quickAnswer: Pasar Geylang Serai es un mercado húmedo y centro de puestos de comida en el distrito de Geylang Serai, en el lado este de Singapur, a poca distancia a pie de la estación de MRT Paya Lebar. Abre las 24 horas, pero los puestos del mercado y el centro de comida en realidad solo funcionan desde primera hora de la mañana hasta primeras horas de la tarde. Conviene ir antes de las 9 de la mañana entre semana para disfrutar de un ambiente tranquilo y del pescado más fresco.
@@ -45,7 +45,7 @@ En la planta baja, merece la pena recorrer con calma las secciones de telas y es
 
 ## Cómo llegar
 
-El mercado está justo al lado de la estación de MRT Paya Lebar (líneas Circle y East-West), a poca distancia a pie de la Salida E o del centro comercial conectado Paya Lebar Quarter.
+El mercado está justo al lado de la estación de MRT Paya Lebar, a poca distancia a pie de la Salida E o del centro comercial conectado Paya Lebar Quarter.
 
 Si se viene desde Dempsey Hill, hay que contar con el trayecto de un extremo a otro de la ciudad: un taxi o un servicio de transporte privado resulta más directo que el transporte público cuando el tiempo apremia. Muchos visitantes aprovechan para pasear por el vecindario de Geylang Serai, incluido el cercano emplazamiento de Malay Village y el Wisma Geylang Serai.
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: cotai-the-venetian-macao
-srcHash: 'ed65b76a99b3'
+srcHash: 'd144e5bbaea4'
 title: 'The Venetian Macao: guía de viaje de Cotai (4.5★)'
 description: 'En plena Cotai Strip de Macao se alza The Venetian Macao, un enorme complejo con casino cuyas habitaciones son todas suites. Valoración de 4.5★ (28,997 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En plena Cotai Strip, en Cotai (Macao), se alza The Venetian Macao, un enorme complejo con casino cuyas habitaciones son todas suites. Su gran reclamo son las Grand Canal Shoppes, donde las góndolas surcan canales interiores bajo un cielo pintado. Figura entre los complejos más visitados de Macao. Conviene reservar al menos dos horas para recorrer los canales y llegar en los autobuses lanzadera gratuitos de los hoteles. Si quiere hacer fotos sin multitudes, vaya a primera hora.
@@ -75,6 +75,6 @@ Se trata de uno de los complejos más concurridos de Macao. Los fines de semana 
 
 ## Más allá del complejo: el pueblo de Taipa
 
-Cuando el cielo pintado empiece a cansarle, tome un taxi y recorra la corta distancia hacia el norte hasta el pueblo de Taipa (Taipa Village). Sus estrechas callejuelas giran en torno a la Rua do Cunha, flanqueada por pastelerías que venden galletas de almendra y pastelillos de nata portugueses. Los bocadillos de chuleta de cerdo aparecen en las cartas de todo el pueblo.
+Cuando el cielo pintado empiece a cansarle, tome un taxi y recorra la corta distancia hacia el norte hasta el pueblo de Taipa (Taipa Village). Sus estrechas callejuelas giran en torno a la Rua do Cunha, flanqueada por pastelerías que venden galletas de almendra y pastelillos de nata portugueses.
 
 Muy cerca, junto al antiguo paseo marítimo, se encuentran las Casas-Museo de Taipa (Taipa Houses-Museum), de época colonial. Estas casas de tonos pastel pertenecieron en su día a familias macaenses y son el auténtico contrapunto de la réplica que acaba de dejar atrás. Pasar allí una hora contrasta muy bien con una mañana entre canales.

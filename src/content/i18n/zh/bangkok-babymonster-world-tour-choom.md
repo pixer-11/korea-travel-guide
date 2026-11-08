@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: bangkok-babymonster-world-tour-choom
-srcHash: '3c2900bbfd4c'
+srcHash: '3ccaa0744361'
 title: BABYMONSTER「CHOOM」世界巡演曼谷站：日期、门票与场馆
 description: 2026年11月7日、8日，YG娱乐旗下七人女团BABYMONSTER将把「CHOOM」世界巡演带到暖武里府蒙通他尼的曼谷Impact Arena，连演两晚。
 quickAnswer: 2026年11月7日、8日，YG娱乐旗下七人女团BABYMONSTER的「CHOOM」世界巡演将在曼谷Impact Arena连演两晚。场馆位于暖武里府蒙通他尼（Muang Thong Thani），紧邻曼谷市界北侧。大多数歌迷会先乘MRT粉色线，再换乘出租车走完最后一小段路。购票链接由主办方在官方渠道发布。
@@ -20,7 +20,7 @@ faq:
 
 ## 连演两晚，两位成员“回家”
 
-曼谷站共演两晚，时间是2026年11月7日和8日。这是「CHOOM」巡演在泰国的唯一一站，而泰国市场对BABYMONSTER的意义远超大多数地区：七名成员中，Pharita和Chiquita两位都是泰国人。当地歌迷和全球粉丝一样自称MONSTIEZ，她们最期待的，往往就是两人用泰语和台下互动的时刻。
+曼谷站共演两晚，时间是2026年11月7日和8日。这是「CHOOM」巡演在泰国的唯一一站，而泰国市场对BABYMONSTER的意义远超大多数地区：八名成员中，Pharita和Chiquita两位都是泰国人。当地歌迷和全球粉丝一样自称MONSTIEZ，她们最期待的，往往就是两人用泰语和台下互动的时刻。
 
 YG娱乐从一开始就把这支团体定位为舞台表演型组合。演出会以大量编舞为核心，舞台设计也是按这种规模的室内场馆量身打造，而非体育场。演出日期、座位图和购票链接均由主办方在官方渠道公布。
 

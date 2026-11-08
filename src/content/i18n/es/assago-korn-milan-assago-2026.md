@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: assago-korn-milan-assago-2026
-srcHash: '01f7ac71071f'
+srcHash: '285401ced617'
 title: 'Korn en Milán (Assago) 2026: fechas, entradas y recinto (Assago)'
 description: La fecha de Korn en Milán (Assago) 2026 es el 21 de noviembre de 2026, en el Unipol Forum de Assago, el pabellón situado justo al suroeste de Milán. Las entradas se venden a través del promotor y de los canales de venta que indica el recinto.
 quickAnswer: La fecha de Korn en Milán (Assago) 2026 es el 21 de noviembre de 2026, en el Unipol Forum de Assago, el pabellón situado justo al suroeste de Milán. Las entradas se venden a través del promotor y de los canales de venta que indica el recinto. Para llegar, lo más sencillo es tomar la línea M2 del metro de Milán hasta la estación Assago Milanofiori Forum, que queda a pocos minutos a pie de las puertas del pabellón.
@@ -80,7 +80,7 @@ Después de los grandes conciertos hay taxis esperando a la salida, pero la cola
 
 El acceso a los pabellones italianos tiene su propio ritmo. Antes de la apertura de puertas se forman colas en cada *ingresso*, y en la entrada el personal de seguridad revisa los bolsos. Los bolsos grandes, las cámaras profesionales y las botellas de vidrio son lo que los pabellones suelen rechazar, por lo que el público acostumbra a ir con un bolso pequeño o sin ninguno.
 
-Dentro, tanto en las barras como en los puestos de productos oficiales se paga con tarjeta o sin contacto con toda normalidad. En la barra basta con decir *una birra* y señalar el grifo para que le sirvan.
+Dentro, tanto en las barras como en los puestos de productos oficiales se paga con tarjeta o sin contacto con toda normalidad. En la barra bastan unas pocas palabras en italiano, como *una birra*, para que le sirvan.
 
 La cola de productos oficiales del vestíbulo alcanza su máxima longitud justo antes y justo después de la actuación del grupo. Quienes quieren una camiseta de su talla suelen acercarse nada más abrirse las puertas.
 

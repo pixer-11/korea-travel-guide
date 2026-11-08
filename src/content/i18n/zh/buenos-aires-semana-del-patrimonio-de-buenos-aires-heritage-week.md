@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: buenos-aires-semana-del-patrimonio-de-buenos-aires-heritage-week
-srcHash: 'b595a8478b39'
+srcHash: '9976f94788be'
 title: 布宜诺斯艾利斯遗产周（Semana del Patrimonio）：日期、门票与场地指南
 description: 2026年11月2日至8日（周一至周日），布宜诺斯艾利斯遗产周（Semana del Patrimonio de Buenos Aires）将在全城各处举行。
 quickAnswer: 2026年11月2日至8日（周一至周日），布宜诺斯艾利斯遗产周（Semana del Patrimonio de Buenos Aires）将在全城举行。活动不设固定场地，而是遍布整座城市，最大的看点是历史悠久的俱乐部、宫殿和机构建筑免费向公众开放内部。参与开放的建筑名单及入场安排，均以主办方公布的活动日程为准。
@@ -76,7 +76,7 @@ A、D、E三条线在五月广场交汇，这里自然成了最理想的落脚�
 
 ## 围绕遗产周安排一天
 
-遗产周很容易与布宜诺斯艾利斯市中心的其他景点串联起来。五月广场一带，玫瑰宫（Casa Rosada）、大主教座堂（Metropolitan Cathedral）和旧市政厅（Cabildo）都在同一个广场上。全城最古老的托尔托尼咖啡馆（Café Tortoni）就坐落在五月大道上，适合中途歇脚。
+遗产周很容易与布宜诺斯艾利斯市中心的其他景点串联起来。五月广场一带，玫瑰宫（Casa Rosada）、大主教座堂（Metropolitan Cathedral）和旧市政厅（Cabildo）都在同一个广场上。历史悠久的托尔托尼咖啡馆（Café Tortoni）就坐落在五月大道上，适合中途歇脚。
 
 如果你的周日恰好是11月8日，可以去逛逛圣特尔莫的周日街头集市。集市沿防卫街（Calle Defensa）展开，从五月广场往南步行不远即到。在雷科莱塔，雷科莱塔公墓与皮拉尔圣母教堂（Basílica del Pilar）比邻而立，看了一整天建筑内景之后，不妨到这里收尾，欣赏全城最精雕细琢的一批墓葬建筑。
 

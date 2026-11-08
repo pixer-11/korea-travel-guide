@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: bukit-mertajam-penang-bridge-international-marathon
-srcHash: 'ef9ca57b81c9'
+srcHash: '2a9e70035f4c'
 title: 槟城大桥国际马拉松：日期、报名与赛事地点（大山脚）
 description: 槟城大桥国际马拉松将于2026年12月13日在槟城威省一侧的大山脚举行，设10公里、半程马拉松和全程马拉松三个项目。
 quickAnswer: 槟城大桥国际马拉松将于2026年12月13日在槟城威省一侧的大山脚（Bukit Mertajam）举行，设10公里、半程马拉松和全程马拉松三个项目。这项赛事没有门票一说，完成报名就等于拿到入场资格。报名链接和比赛当天的各项安排，均以主办方官网发布为准。

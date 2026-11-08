@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bangkok-jason-mraz-bangkok-2026
-srcHash: 'eb800db5b964'
+srcHash: '66f6fd8e3bb7'
 title: 'Jason Mraz en Bangkok 2026: fecha, entradas y recinto'
 description: El concierto de Jason Mraz en Bangkok, con banda completa, tenía fecha anunciada el 29 de octubre de 2026 en el BITEC Live de Bang Na.
 quickAnswer: La fecha anunciada para el concierto de Jason Mraz en Bangkok era el jueves 29 de octubre de 2026, en el BITEC Live del barrio de Bang Na, y el músico iba a actuar con banda completa. Según el anuncio, se trataba de su quinta visita a la ciudad y formaba parte de su primera gira asiática en siete años. Al BITEC se llega por la línea Sukhumvit del BTS, en la estación de Bang Na, una opción más rápida que el taxi.
@@ -20,7 +20,7 @@ faq:
 
 ## Quinta noche en Bangkok, esta vez con banda
 
-Jason Mraz tenía anunciado su regreso a Bangkok para el jueves 29 de octubre de 2026, en el BITEC Live. En lugar de un formato acústico en solitario, el concierto contaba con banda completa. Al tratarse de su primera gira por Asia en siete años, los seguidores tailandeses llevaban mucho tiempo esperando esta cita.
+Jason Mraz tenía anunciado su regreso a Bangkok para el jueves 29 de octubre de 2026, en el BITEC Live. En lugar de un espectáculo de formato más reducido, el concierto contaba con banda completa. Al tratarse de su primera gira por Asia en siete años, los seguidores tailandeses llevaban mucho tiempo esperando esta cita.
 
 El cantante tiene en Tailandia un público muy fiel. Desde hace años, «I'm Yours», «Lucky» e «I Won't Give Up» suenan sin parar en las radios y cafeterías del país. No se dio a conocer el repertorio.
 

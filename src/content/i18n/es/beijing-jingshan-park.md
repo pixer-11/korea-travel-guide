@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: beijing-jingshan-park
-srcHash: 'bef7ba5d489a'
+srcHash: 'a229d1ccfd67'
 title: 'Parque Jingshan: Guía de viaje de Pekín (4,6★)'
 description: 'El parque Jingshan se encuentra justo al norte de la Ciudad Prohibida, en el distrito de Xicheng, Pekín, y su colina central ofrece el mejor mirador sobre los tejados dorados del palacio. 4,6★ (1.527 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El parque Jingshan se encuentra justo al norte de la Ciudad Prohibida, en el distrito de Xicheng, Pekín, y su colina central ofrece el mejor mirador sobre los tejados dorados del palacio. El momento más tranquilo es entre las 7:00 y las 11:00, tanto entre semana como los fines de semana; los fines de semana conviene evitar la franja que va desde media mañana hasta el final de la tarde, cuando los senderos se llenan de gente. Conviene reservar entre 45 y 60 minutos para la subida y el pabellón mirador.
@@ -22,7 +22,7 @@ El parque Jingshan es una colina artificial construida con la tierra extraída p
 
 ## La colina y las vistas
 
-Cinco cimas recorren la cresta, cada una coronada por un pabellón construido durante la dinastía Qing. El pabellón Wanchun, el central y también el más alto, es la fotografía que todos vienen a buscar: la Ciudad Prohibida en primer plano, el perfil del distrito financiero (CBD) detrás y, en los días despejados, colinas que se adivinan al fondo. La subida en sí es corta —una sucesión de escalinatas de piedra y recodos—, pero lo bastante empinada como para considerarse el único esfuerzo físico de la visita.
+Cinco cimas recorren la cresta, cada una coronada por un pabellón construido durante la dinastía Qing. El pabellón Wanchun, el central y también el más alto, es la fotografía que todos vienen a buscar: la Ciudad Prohibida en primer plano, el perfil del distrito financiero (CBD) detrás y, en los días despejados, colinas que se adivinan al fondo. La subida en sí es corta —una sucesión de escalinatas de piedra y recodos—, lo bastante empinada como para que se note un poco el esfuerzo.
 
 Si el tiempo apremia, conviene saltarse los pabellones laterales. Solo con Wanchun se obtiene la panorámica completa, y además se alinea directamente con el eje central norte-sur del palacio.
 

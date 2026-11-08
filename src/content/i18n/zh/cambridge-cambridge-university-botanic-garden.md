@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: cambridge-cambridge-university-botanic-garden
-srcHash: '19455d3fffcb'
+srcHash: '3927320b9e65'
 title: 剑桥大学植物园旅行指南（4.7★）
 description: 剑桥大学植物园位于剑桥南部的布鲁克赛德（Brookside），占地40英亩，评分4.7★（7,745条评价）。本文汇总游客评价、开放时间与游览建议。
 quickAnswer: 剑桥大学植物园坐落在剑桥南部的布鲁克赛德（Brookside），占地40英亩。从剑桥火车站步行过去约10–15分钟。园内有温室、湖泊和咖啡馆。目前开放时间为上午10点至下午5点。工作日上午10点到11点游客最少，周末上午11点到下午5点人最多，最好避开。
@@ -75,4 +75,4 @@ faq:
 
 植物园很适合与城南一带连着游览。往北步行约10分钟，就是特兰平顿街上的菲茨威廉博物馆（Fitzwilliam Museum），免费参观。继续往前走，会经过最古老的学院彼得学院（Peterhouse），再往前是彭布罗克学院（Pembroke），市中心的学院区就从这里开始。
 
-也可以沿特兰平顿路（Trumpington Road）再往前走一段，到格兰切斯特草地（Grantchester Meadows）步道。这是沿剑河漫步的经典剑桥路线，夏日傍晚天长，等植物园下午5点闭园后去走最惬意。
+也可以沿特兰平顿路（Trumpington Road）再往前走一段，到格兰切斯特草地（Grantchester Meadows）步道。这是沿剑河漫步的经典剑桥路线，夏日傍晚天长，等植物园当天闭园后去走最惬意。

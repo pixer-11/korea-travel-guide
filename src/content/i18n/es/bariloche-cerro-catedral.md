@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bariloche-cerro-catedral
-srcHash: '87105cd66ea9'
+srcHash: '8d1dc6a1549f'
 title: 'Cerro Catedral: guía de viaje de Bariloche (4.5★)'
 description: 'A unos 20 km al suroeste del centro de Bariloche se alza Cerro Catedral, el cerro de esquí de la ciudad, al que se llega en media hora aproximadamente en coche o en la línea 55 de autobús. 4.5★ (3,434 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: A unos 20 km al suroeste del centro de Bariloche se alza Cerro Catedral, el cerro de esquí de la ciudad. Se llega en media hora aproximadamente, ya sea en coche o en la línea 55 del autobús urbano. Para esquiar conviene ir entre finales de junio y septiembre. De diciembre a marzo, en cambio, es temporada de senderismo, con vistas al lago Gutiérrez y al Nahuel Huapi. En cualquiera de los dos casos, reserve un día entero.
@@ -41,7 +41,7 @@ Lo primero es mirar el calendario. En julio caen las vacaciones escolares de inv
 - **Compre los pases por internet.** El centro de esquí vende los forfaits y publica los precios de temporada en su web oficial. Comprar por adelantado le evita la cola de la taquilla en la base.
 - **Alquile el equipo en la ciudad la víspera.** Las tiendas del camino a Catedral y del centro de Bariloche prueban las botas por la noche, de modo que no tendrá que hacer cola en la base por la mañana.
 - **Coma al ritmo argentino.** Los restaurantes de montaña se llenan hacia las 13:00–14:00. Resulta más cómodo almorzar tarde, o bien temprano.
-- **Comparta el mate.** En las sillas y en las terrazas, los grupos se pasan el mate de mano en mano. Si se lo ofrecen, tómelo entero y devuélvalo. Diga «gracias» solo cuando no quiera más.
+- **Comparta el mate.** En las sillas y en las terrazas, los grupos se pasan el mate de mano en mano. Si se lo ofrecen, tómelo y devuélvalo. Diga «gracias» solo cuando no quiera más.
 
 ## El Refugio Frey y los lagos a sus pies
 

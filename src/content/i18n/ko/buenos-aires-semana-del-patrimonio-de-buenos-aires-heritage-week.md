@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: buenos-aires-semana-del-patrimonio-de-buenos-aires-heritage-week
-srcHash: 'b595a8478b39'
+srcHash: '9976f94788be'
 title: '부에노스아이레스 문화유산 주간(Semana del Patrimonio de Buenos Aires): 일정, 입장권, 장소 총정리'
 description: 부에노스아이레스 문화유산 주간(Semana del Patrimonio de Buenos Aires)은 2026년 11월 2일 월요일부터 8일 일요일까지 부에노스아이레스 곳곳에서 열립니다.
 quickAnswer: 부에노스아이레스 문화유산 주간(Semana del Patrimonio de Buenos Aires)은 2026년 11월 2일 월요일부터 8일 일요일까지 부에노스아이레스 곳곳에서 열립니다. 한 장소에서 열리는 행사가 아니라 도시 전체가 무대입니다. 평소 문이 닫혀 있는 유서 깊은 클럽과 궁전, 공공기관 건물의 내부를 무료로 둘러볼 수 있다는 점이 이 행사의 핵심입니다. 참여 건물 목록과 입장 방식은 주최 측이 프로그램으로 공개합니다.
@@ -76,7 +76,7 @@ A선, D선, E선이 모두 만나는 마요 광장은 거점으로 삼기에 제
 
 ## 하루 일정 짜기
 
-문화유산 주간은 부에노스아이레스 도심의 다른 명소들과 함께 묶어 둘러보기 좋습니다. 마요 광장 한 곳에 카사 로사다(Casa Rosada)와 메트로폴리탄 대성당(Catedral Metropolitana), 카빌도(Cabildo)가 모두 모여 있습니다. 마요 대로에는 이 도시에서 가장 오래된 카페인 카페 토르토니(Café Tortoni)가 있어 중간에 쉬어 가기 좋습니다.
+문화유산 주간은 부에노스아이레스 도심의 다른 명소들과 함께 묶어 둘러보기 좋습니다. 마요 광장 한 곳에 카사 로사다(Casa Rosada)와 메트로폴리탄 대성당(Catedral Metropolitana), 카빌도(Cabildo)가 모두 모여 있습니다. 마요 대로에는 유서 깊은 카페인 카페 토르토니(Café Tortoni)가 있어 중간에 쉬어 가기 좋습니다.
 
 11월 8일 일요일에 일정이 있다면 산텔모의 일요 거리 장터도 들러 볼 만합니다. 장터는 마요 광장에서 남쪽으로 조금만 걸어가면 나오는 데펜사 거리(Calle Defensa)를 따라 열립니다. 레콜레타에서는 레콜레타 묘지(Cementerio de la Recoleta)와 필라르 성당(Basílica del Pilar)이 나란히 붙어 있습니다. 건물 내부를 둘러본 하루를 이 도시에서 가장 정교한 장례 건축물들 사이에서 마무리할 수 있습니다.
 
