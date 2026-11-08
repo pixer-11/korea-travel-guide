@@ -657,9 +657,14 @@ export function quarantineRedirectMap() {
   /** @param {string} name */
   const canon = (name) => { const raw = regionSlug(name); return REGION_ALIAS[raw] ?? raw; };
   const liveHubs = new Set([...liveRegions].map(canon));
+  // A retired twin has its own _redirects rule to the post that stayed. Left in
+  // this table as well, the worker answered its slashless URL first and sent it
+  // to the hub (five posts, Codex 11-09). Off the table, the slash fix reaches the rule.
+  const ruled = new Set(regionRedirects().map((l) => l.split(' ')[0]));
   /** @type {Record<string, string>} */
   const out = {};
   for (const d of drafts) {
+    if (ruled.has(`/posts/${d.slug}/`)) continue;
     const reg = canon(d.region);
     out[d.slug] = reg && liveHubs.has(reg) ? reg : '';
   }

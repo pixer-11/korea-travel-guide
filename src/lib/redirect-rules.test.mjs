@@ -52,7 +52,11 @@ test('_redirects stays under the cap; every held post is in the worker table ins
     .filter((f) => f.endsWith('.md') && /(?:^|\n)draft:\s*true/.test(readFileSync(`src/content/posts/${f}`, 'utf8').split('---')[1] || ''))
     .map((f) => f.replace(/\.md$/, ''));
   const table = quarantineRedirectMap();
-  assert.deepEqual(Object.keys(table).sort(), held.sort());
+  const ruled = new Set(lines.map((l) => l.split(' ')[0]));
+  // A retired twin keeps its own rule to the post that stayed, and must not also
+  // be in the table: the worker would send its slashless URL to the hub (11-09).
+  assert.deepEqual(Object.keys(table).sort(), held.filter((slug) => !ruled.has(`/posts/${slug}/`)).sort());
+  assert.ok(lines.includes('/posts/tianzhong-taiwan-s-rice-heaven-tianzhong-marathon/ /posts/changhua-tianzhong-marathon-rice-heaven-marathon/ 301'));
   for (const v of Object.values(table)) assert.match(v, /^$|^[a-z0-9%-]+$/, `table value ${v}`);
   const ownLine = new Set(lines.map((l) => l.split(' ')[0]));
   for (const slug of held) assert.ok(!ownLine.has(`/posts/${slug}/`) || lines.some((l) => l.startsWith(`/posts/${slug}/ /posts/`)), `${slug} still has a _redirects line`);

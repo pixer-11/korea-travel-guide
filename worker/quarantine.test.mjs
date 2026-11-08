@@ -50,6 +50,20 @@ test('the table is read per rescue, so a new deploy is seen without a fresh isol
   assert.equal((await go('/posts/a-held/')).status, 404, 'released post is no longer redirected');
 });
 
+test('a retired twin is off the table: its slashless URL reaches its own rule, GET or HEAD (Codex, 11-09)', async () => {
+  const e3 = { ASSETS: { fetch: async (req) => {
+    const p = new URL(req.url).pathname;
+    if (p === '/quarantine-redirects.json') return new Response(JSON.stringify(TABLE));
+    if (p === '/posts/retired-twin/') return new Response(null, { status: 301, headers: { location: '/posts/kept-twin/' } });
+    return new Response('', { status: 404 });
+  } } };
+  for (const method of ['GET', 'HEAD']) {
+    const r = await worker.fetch(new Request('https://wanderatlasguides.com/posts/retired-twin', { method }), e3);
+    assert.equal(r.status, 301, method);
+    assert.equal(new URL(r.headers.get('location')).pathname, '/posts/retired-twin/', method);
+  }
+});
+
 test('live pages, unknown posts and other paths are untouched', async () => {
   assert.equal((await get('/posts/live-post/')).status, 200);
   assert.equal((await get('/posts/never-existed/')).status, 404);

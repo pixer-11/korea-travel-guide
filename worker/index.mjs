@@ -612,7 +612,9 @@ export default {
           return Response.redirect(dest.toString(), 302);
         }
       }
-      if (request.method === 'GET' && !url.pathname.endsWith('/') && !/\.[a-z0-9]+$/i.test(url.pathname)) {
+      // HEAD as well: a link checker should see what a browser gets, and a retired
+      // twin's slashless URL reaches its rule only through this hop (11-09).
+      if (!url.pathname.endsWith('/') && !/\.[a-z0-9]+$/i.test(url.pathname)) {
         url.pathname += '/';
         return Response.redirect(url.toString(), 301);
       }
