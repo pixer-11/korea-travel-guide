@@ -263,9 +263,9 @@ const dayTripHub = buildDayTrips(allPosts).find((h) => h.city === region) ?? nul
           names half the world's cities — the eyebrow anchors WHICH country's
           district this is before the reader parses anything else (owner, 2026-08-09). */}
       <nav class="crumbs" aria-label={t('a11y.breadcrumb')}>
-        <a href={localizePath('/', lang)}>{t('post.home')}</a> <span>/</span>
+        <a href={localizePath('/', lang)}>{t('post.home')}</a> <span aria-hidden="true">·</span>
         {countrySlug && (
-          <><a href={localizePath(`/destinations/${countrySlug}/`, lang)}>{countryLabel}</a> <span>/</span></>
+          <><a href={localizePath(`/destinations/${countrySlug}/`, lang)}>{countryLabel}</a> <span aria-hidden="true">·</span></>
         )}
         <span aria-current="page">{regionLabel}</span>
       </nav>

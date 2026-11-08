@@ -469,7 +469,7 @@ const jsonLd = {
 
 <style>
   .es { max-width: 1120px; margin: 0 auto; padding: 1.2rem 1rem 0; --es-dark: #26301f; --es-green: #e6f0de; --es-green-ink: #3d6b2f; --es-peach: #fbe3d7; --es-warm: #efe3cc; --es-pick: #f1f7ea; --es-tip: rgba(255,255,255,0.65); --es-ok: #f1f7ea; --es-bad: #fbecea; --es-alert-ink: #3b2a20; --es-alert-k: #8a3f1c; --es-pick-sub: var(--muted); }
-  .es-crumbs { font-size: 0.8rem; color: var(--muted); margin: 0 0 1.4rem; }
+  .es-crumbs { display: flex; flex-wrap: wrap; align-items: center; gap: 0.4rem; font-size: 0.8rem; color: var(--muted); margin: 0 0 1.4rem; } /* the one trail not in flex: its links were 15px tall, 22-24 everywhere else */
   .es-crumbs a { color: var(--muted); text-decoration: none; }
   .es-crumbs span { color: var(--ink); font-weight: 600; }
 

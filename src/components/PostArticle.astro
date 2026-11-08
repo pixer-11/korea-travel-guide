@@ -787,10 +787,10 @@ const saveExtra = tripExtra(post);
         links, the single biggest way translated readers fell out of their
         language. The label was right and the destination was wrong. */}
     <nav class="crumbs" aria-label={t('a11y.breadcrumb')}>
-      <a href={localizePath('/', lang)}>{t('post.home')}</a> <span>/</span>
-      <a href={localizePath(`/destinations/${countrySlug}/`, lang)}>{localizePlace(country, lang)}</a> <span>/</span>
+      <a href={localizePath('/', lang)}>{t('post.home')}</a> <span aria-hidden="true">·</span>
+      <a href={localizePath(`/destinations/${countrySlug}/`, lang)}>{localizePlace(country, lang)}</a> <span aria-hidden="true">·</span>
       {!sameRegionCountry && (
-        <><a href={localizePath(`/regions/${slugifyRegion(d.region)}/`, lang)}>{regionLabel}</a> <span>/</span></>
+        <><a href={localizePath(`/regions/${slugifyRegion(d.region)}/`, lang)}>{regionLabel}</a> <span aria-hidden="true">·</span></>
       )}
       <span aria-current="page">{t(('cat.' + d.category) as any)}</span>
     </nav>
