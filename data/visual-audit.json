@@ -11698,6 +11698,12 @@
   "reason": "patrol replace: Exterior storefront clearly shows A by TUNG signage, modern ",
   "at": "2026-10-05T21:33:44.024Z"
  },
+ "ho-chi-minh-city-banh-canh-cua-ba-ba\u0001/editor-photos/ho-chi-minh-city-banh-canh-cua-ba-ba-1.jpg": {
+  "slug": "ho-chi-minh-city-banh-canh-cua-ba-ba",
+  "verdict": "MATCH",
+  "reason": "owner photo: editor-original — bowl of bánh canh cua with crab meat, shrimp and fish cake at Bánh Canh Cua Bà Ba, 84/6 Nguyễn Biểu",
+  "at": "2026-11-08T11:39:25.903Z"
+ },
  "ho-chi-minh-city-ben-nghe-street-food\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/B%C3%A1nh_tr%C3%A1ng_n%C6%B0%E1%BB%9Bng_TP._H%E1%BB%93_Ch%C3%AD_Minh_-_street_food_in_Ho_Chi_Minh_City%2C_Vietnam.jpg/1920px-B%C3%A1nh_tr%C3%A1ng_n%C6%B0%E1%BB%9Bng_TP._H%E1%BB%93_Ch%C3%AD_Minh_-_street_food_in_Ho_Chi_Minh_City%2C_Vietnam.jpg": {
   "slug": "ho-chi-minh-city-ben-nghe-street-food",
   "verdict": "MATCH",
@@ -11709,6 +11715,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Iconic Ben Thanh Market clock tower entrance, representative exterior view",
   "at": "2026-09-23T08:05:03.497Z"
+ },
+ "ho-chi-minh-city-com-tam-nguyen-van-cu\u0001/editor-photos/ho-chi-minh-city-com-tam-nguyen-van-cu-1.jpg": {
+  "slug": "ho-chi-minh-city-com-tam-nguyen-van-cu",
+  "verdict": "MATCH",
+  "reason": "owner photo: editor-original — blue Cơm Tấm Nguyễn Văn Cừ shop sign reading Since 1989 above a striped awning, 74 Nguyễn Văn Cừ",
+  "at": "2026-11-08T11:39:25.941Z"
  },
  "ho-chi-minh-city-hai-s-restaurant\u0001https://fastly.4sqi.net/img/general/original/1582791_51WOv5NBGHIrO93ilabfcZ7n0g-Oif2jWzN1b7zWV6s.jpg": {
   "slug": "ho-chi-minh-city-hai-s-restaurant",
