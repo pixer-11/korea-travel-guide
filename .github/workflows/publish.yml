@@ -7,9 +7,11 @@ name: Auto-generate & publish posts
 # moved to GitHub Actions.)
 on:
   schedule:
-    # 07:19 UTC = 16:19 KST — right AFTER Google's hidden facts-quota reset
-    # (16:00 KST / midnight PT), so the daily run always starts on a fresh
-    # quota window and manual afternoon runs can't starve it. Off the hour
+    # 07:19 UTC = 16:19 KST. Google's facts quota resets at midnight Pacific:
+    # 16:00 KST in summer, so this run opens a fresh window; 17:00 KST in winter
+    # (November to March), so it spends the last minutes of the old one. Either
+    # way its share is reserved in scripts/lib/places-budget.mjs, and in winter a
+    # manual run earlier that afternoon draws on the same share. Off the hour
     # because GitHub drops :00 crons.
     - cron: '19 7 * * *'
   workflow_dispatch: # lets you run it manually from the Actions tab

@@ -128,6 +128,53 @@ const f = await claimSearch('fill');
 console.log(f.allowance);
 `, '4');
 
+// 2026-11-01 서머타임이 끝나자 구글의 하루가 17:00 KST 에 바뀌어, 밤의 대량발행이
+// 그 태평양 날짜의 발행보다 먼저 돌게 됐다. 아직 안 돈 발행의 55회를 물려받아
+// 'fill 몫 90회'가 찍혔다(11-04~07). 큐가 차면 다음 발행에 10회만 남는다.
+t('🛑 아직 안 돈 작업의 몫은 물려받지 못한다 (겨울: 대량발행이 먼저 도는 날)', `
+import { claimSearch } from './scripts/lib/places-budget.mjs';
+const f = await claimSearch('fill');    // 오늘 발행 기록 없음
+console.log(f.allowance + ',' + f.inherited);
+`, `${SEARCH_SHARES.fill},0`);
+
+t('겨울 순서여도 뒤에 오는 발행은 자기 몫을 그대로 받는다', `
+import { claimSearch, recordSearch } from './scripts/lib/places-budget.mjs';
+await claimSearch('fill');
+await recordSearch('fill', 35);         // 대량발행이 자기 몫을 다 씀
+const p = await claimSearch('publish');
+console.log(p.allowance + ',' + p.remainingToday);
+`, `${SEARCH_SHARES.publish},65`);
+
+// 날짜를 넘겨야 재현되므로 시계만 바꿔 끼운다. 나머지는 실제 모듈 그대로다.
+const CLOCK = `
+let NOW = Date.parse('2026-11-03T07:37:29Z');
+const Real = Date;
+globalThis.Date = class extends Real {
+  constructor(...a) { if (a.length) super(...a); else super(NOW); }
+  static now() { return NOW; }
+};
+const at = (iso) => { NOW = Real.parse(iso); };
+`;
+
+t('🛑 자정을 넘겨 끝난 실행은 다음 날의 발행 기록이 아니다 (11-02 실측)', CLOCK + `
+const { claimSearch, recordSearch } = await import('./scripts/lib/places-budget.mjs');
+await claimSearch('publish');           // 11-02 태평양 날짜에 청구
+at('2026-11-03T08:01:29Z');             // 자정(08:00Z)을 넘겨 기록
+await recordSearch('publish', 23);
+const f = await claimSearch('fill');
+const p = await claimSearch('publish');
+console.log(f.allowance + ',' + f.inherited + ',' + p.allowance + ',' + p.spentToday);
+`, `${SEARCH_SHARES.fill},0,${SEARCH_SHARES.publish},23`);
+
+t('같은 날 안에 끝난 실행은 그대로 그 작업의 기록이다', CLOCK + `
+const { claimSearch, recordSearch } = await import('./scripts/lib/places-budget.mjs');
+await claimSearch('publish');
+at('2026-11-03T07:59:31Z');             // 경계 29초 전 (11-06 실측)
+await recordSearch('publish', 26);
+const f = await claimSearch('fill');
+console.log(f.allowance + ',' + f.inherited);
+`, `${SEARCH_SHARES.fill + SEARCH_SHARES.publish - 26},${SEARCH_SHARES.publish - 26}`);
+
 for (const [name, script, expect] of cases) {
   let got;
   try { got = inSandbox(script); } catch (e) { got = `threw: ${String(e.message).split('\n')[0]}`; }

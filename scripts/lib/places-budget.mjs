@@ -77,6 +77,9 @@ async function load() {
   return { date: today(), spent: 0, byJob: {}, search: { spent: 0, byJob: {} } };
 }
 
+// The quota day each job claimed its searches on, for recordSearch below.
+const claimedOn = new Map();
+
 /** How many Text Search calls `job` may make right now (same rules as claim()). */
 export async function claimSearch(job) {
   const share = SEARCH_SHARES[job] ?? SEARCH_SHARES.other;
@@ -91,13 +94,23 @@ export async function claimSearch(job) {
   // was refused its budget rather than its results. Nothing is taken from a job
   // that has not run — only the part of an EARLIER job's share it left behind,
   // and the day's hard cap is still the real ceiling.
+  //
+  // "Earlier" has to be measured, not assumed. In winter Google's day turns at
+  // 17:00 KST, so the 16:37 publish closes one day and the night's fill opens
+  // the next: from 11-01 the fill read "90 searches" with publish's untouched
+  // 55 inside it. An idle queue hid that; a new country's fill could spend all
+  // 90 and leave the next publish 10. A search recorded today is the proof a job
+  // ran. A run that searched nothing records nothing, so the fill then keeps its
+  // own share, which is the safe side.
   const EARLIER = { fill: ['publish'], other: ['publish', 'fill'] };
   const inherited = (EARLIER[job] ?? []).reduce((n, prior) => {
     const priorSpent = led.search.byJob[prior] || 0;
+    if (!priorSpent) return n;
     const priorShare = SEARCH_SHARES[prior] ?? 0;
     return n + Math.max(0, priorShare - priorSpent);
   }, 0);
 
+  claimedOn.set(job, led.date);
   const allowance = Math.max(0, Math.min(share + inherited - alreadyMine, remainingToday));
   return { allowance, spentToday: led.search.spent, remainingToday, inherited };
 }
@@ -107,7 +120,12 @@ export async function recordSearch(job, used) {
   if (!Number.isFinite(used) || used <= 0) return;
   const led = await load();
   led.search.spent += used;
-  led.search.byJob[job] = (led.search.byJob[job] || 0) + used;
+  // A run that claimed before Google's midnight and finished after it (11-02:
+  // claimed 07:37Z, recorded 08:01Z) still counts toward the new day's cap, but
+  // it is not that job's run for the new day: under its own name it would shrink
+  // the next share and pass as the proof the fill inherits on.
+  const key = claimedOn.has(job) && claimedOn.get(job) !== led.date ? 'overnight' : job;
+  led.search.byJob[key] = (led.search.byJob[key] || 0) + used;
   led.updated = new Date().toISOString();
   await writeFile(LEDGER, JSON.stringify(led, null, 1) + '\n', 'utf8');
 }
