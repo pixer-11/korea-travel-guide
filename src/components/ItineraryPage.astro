@@ -1189,6 +1189,8 @@ const coverImage = mosaic[0]?.src;
   .itin-page .faq details { border-radius: 20px; background: var(--x-card); border: 1px solid var(--line-soft); padding: .2rem 1.1rem; margin-bottom: .5rem; }
   /* Phone text floor: 12px, the rule in global.css (08-22); these labels were born outside its list (11-08). */
   @media (max-width: 760px) { .ith-stay .tp-disclosure, .itin-slot-badge { font-size: 0.78rem; } }
+  /* Phone tap targets, 15-23px tall until 11-08: more height, same words. */
+  @media (max-width: 760px) { .itin-how summary { padding-block: .2rem; } .itin-leg-directions { display: inline-block; padding-block: .2rem; } }
 </style>
 
 <script>

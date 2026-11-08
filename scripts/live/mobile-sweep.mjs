@@ -36,6 +36,7 @@ await pg.addInitScript(() => addEventListener('DOMContentLoaded', () => {
 }));
 const bad = [];
 const tiny = new Map();
+const thin = new Map();
 for (const l of LANGS) for (const p of PATHS) {
   const url = `${BASE}${l}/${p}${p ? '/' : ''}`;
   try {
@@ -54,19 +55,32 @@ for (const l of LANGS) for (const p of PATHS) {
         const px = parseFloat(getComputedStyle(el).fontSize);
         if (px < 11.99) small[`${el.tagName.toLowerCase()}.${String(el.className).trim().split(/ +/)[0]}<${String(el.parentElement.className || el.parentElement.tagName).split(' ')[0]}`] = px;
       }
+      // Thin tap targets (11-08), by name: a link inside a sentence is exempt, and a scan can't tell.
+      const short = {};
+      for (const sel of ['.disclosure-details > summary', '.bz-embed > summary', '.itin-how > summary', '.pcrowd-more', '.post-byline > a', '.crumbs a',
+        '.hv3-foot a', '.hv3-stats a', '.es-more', '.es-crumbs a', '.ep-toggle', '.evp-credit', '.itin-leg-directions']) {
+        const low = [...document.querySelectorAll(sel)].find((e) => e.checkVisibility() && e.getBoundingClientRect().height < 24);
+        if (low) short[sel] = low.getBoundingClientRect().height;
+      }
+      // A summary keeps its ▶: display:inline-flex looked like the fix and wiped it.
+      for (const sel of ['.disclosure-details > summary', '.bz-embed > summary']) {
+        if ([...document.querySelectorAll(sel)].some((e) => getComputedStyle(e).display !== 'list-item')) short[`${sel} (▶ gone)`] = 0;
+      }
       const cw = document.documentElement.clientWidth, sw = document.documentElement.scrollWidth;
-      if (sw <= cw + 1) return { small };
+      if (sw <= cw + 1) return { small, short };
       // Name the element that actually pushes the page — not one that merely
       // sits inside a strip meant to scroll sideways.
       const scrolls = (e) => { for (let x = e.parentElement; x && x !== document.body; x = x.parentElement) { const o = getComputedStyle(x).overflowX; if (o === 'auto' || o === 'scroll' || o === 'hidden') return true; } return false; };
       const over = [...document.querySelectorAll('body *')].filter((e) => e.getBoundingClientRect().right > cw + 1 && !scrolls(e));
       const leaf = over.filter((e) => ![...e.children].some((c) => over.includes(c)))[0];
-      return { small, over: `${sw}px ${leaf ? `${leaf.tagName.toLowerCase()}.${String(leaf.className).split(' ')[0]}` : '?'}` };
+      return { small, short, over: `${sw}px ${leaf ? `${leaf.tagName.toLowerCase()}.${String(leaf.className).split(' ')[0]}` : '?'}` };
     });
     if (r.over) bad.push(`${l || '/en'}/${p} ${r.over}`);
     for (const [k, px] of Object.entries(r.small)) if (!tiny.has(k)) tiny.set(k, `${l || '/en'}/${p} ${px.toFixed(1)}px`);
+    for (const [k, h] of Object.entries(r.short)) if (!thin.has(k)) thin.set(k, `${l || '/en'}/${p} ${h.toFixed(1)}px`);
   } catch (e) { bad.push(`ERR ${l}/${p} ${String(e.message).slice(0, 60)}`); }
 }
 await b.close();
 for (const [k, where] of tiny) console.log(`✗ 12px 미만 ${k} — ${where}`);
-verdict(`휴대폰 ${WIDTH}px 넘침: ${bad.length ? bad.join(' | ') : `없음 (${PATHS.length}종 × 5개 언어)`} · 12px 미만 글자: ${tiny.size}종`, bad.length > 0 || tiny.size > 0);
+for (const [k, where] of thin) console.log(`✗ 터치 영역 24px 미만 ${k} — ${where}`);
+verdict(`휴대폰 ${WIDTH}px 넘침: ${bad.length ? bad.join(' | ') : `없음 (${PATHS.length}종 × 5개 언어)`} · 12px 미만 글자: ${tiny.size}종 · 얇은 터치 영역: ${thin.size}종`, bad.length > 0 || tiny.size > 0 || thin.size > 0);

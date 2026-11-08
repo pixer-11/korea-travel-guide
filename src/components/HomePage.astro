@@ -1133,4 +1133,6 @@ const editorCountries = EDITOR_VISITED.filter((v) => !v.region).length;
   /* The chip stayed light on the dark band and its date read 3.78:1 (11-08). */
   :global(:root[data-theme='dark']) .hv3-hol li { background: rgba(255,255,255,0.08); color: var(--ink); }
   :global(:root[data-theme='dark']) .hv3-hol li span { color: var(--ink-soft); }
+  /* Phone tap targets, 15-23px tall until 11-08: more height, same words. */
+  @media (max-width: 760px) { .hv3-foot a, .hv3-stats a { display: inline-block; padding-block: .2rem; } }
 </style>

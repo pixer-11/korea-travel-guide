@@ -294,4 +294,7 @@
   .pcrowd-row-days, .pcrowd-axis, .pcrowd-cell-k, .pcrowd-cell-v b, .pcrowd-legend, .pcrowd-note,
   .side-h, .side-status-note, .side-k, .side-toc a::before, .side-card-k, .side-card-note,
   .wtgc-now-k, .wtgc-stats b i, .wtgc-stats small, .wtgc-city { font-size: 0.78rem; }
+  /* Tap targets, 20-22px tall until 11-08. */
+  .pcrowd-foot .pcrowd-more { display: inline-block; padding-block: 0.2rem; }
+  .post-byline a { padding-block: 0.15rem; }
 }
