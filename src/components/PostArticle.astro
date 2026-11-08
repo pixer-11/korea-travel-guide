@@ -17,7 +17,7 @@ import ShareRow from './ShareRow.astro';
 import SaveButton from './SaveButton.astro';
 import countriesData from '../../data/countries.json';
 import { SITE } from '../siteConfig';
-import { wikimediaThumb } from '../lib/wikimediaThumb.mjs';
+import { wikimediaThumb, articlePhoto } from '../lib/wikimediaThumb.mjs';
 import PlanTrip from './PlanTrip.astro';
 import PostCard from './PostCard.astro';
 import StickyBook from './StickyBook.astro';
@@ -748,8 +748,7 @@ const saveThumb = wikimediaThumb(String(d.heroImage?.url ?? ''), 500)
 // future ladder change cannot blank the page again.
 // og:image keeps the ORIGINAL — the Discover ≥1200px invariant and its width
 // scanner are untouched.
-const heroDisplay = wikimediaThumb(String(d.heroImage?.url ?? ''), 1280)
-  .replace(/(fastly\.4sqi\.net\/img\/general\/)original\//, '$1width1200/');
+const heroDisplay = articlePhoto(d.heroImage?.url);
 // Self-hosted first (2026-08-23): 1,192 heroes are already mirrored to R2 as
 // 1200px WebP for og:image (data/og-mirror.json, same photo, never cropped).
 // The hero <img> hotlinked Wikimedia/Foursquare instead — on an event guide
@@ -1032,15 +1031,21 @@ const saveExtra = tripExtra(post);
           <Fragment set:html={proseParts[0]} />
           {d.gallery.length > 0 && (
             <section class="gallery">
+              {/* The stored URL is often a 3840px file: 2MB into a 342px slot on a
+                  phone, the waste the hero lost on 08-10 (1,449 photos, 2026-11-08).
+                  The stored URL stays as a one-shot fallback, so a ladder change
+                  cannot blank a photo and a dead URL cannot loop. */}
               {d.gallery.map((img: any) => (
                 <figure>
                   <img
-                    src={img.url}
+                    src={articlePhoto(img.url)}
+                    data-stored={img.url}
                     alt={placeLabel ? photoAlt(placeLabel) : title}
                     width="1200"
                     height="900"
                     loading="lazy"
                     decoding="async"
+                    onerror="this.onerror=null;if(this.src!==this.dataset.stored){this.src=this.dataset.stored}"
                   />
                   {img.credit && <figcaption>{img.credit}</figcaption>}
                 </figure>
@@ -1068,12 +1073,14 @@ const saveExtra = tripExtra(post);
         {d.gallery.map((img: any) => (
           <figure>
             <img
-              src={img.url}
+              src={articlePhoto(img.url)}
+              data-stored={img.url}
               alt={placeLabel ? photoAlt(placeLabel) : title}
               width="1200"
               height="900"
               loading="lazy"
               decoding="async"
+              onerror="this.onerror=null;if(this.src!==this.dataset.stored){this.src=this.dataset.stored}"
             />
             {img.credit && <figcaption>{img.credit}</figcaption>}
           </figure>
@@ -1216,7 +1223,9 @@ const saveExtra = tripExtra(post);
         src.replace(/\/(\d{2,4})px-/, (m, w) => (Number(w) < 1920 ? '/1920px-' : m));
       document.querySelectorAll<HTMLImageElement>('.article-hero img, .gallery img').forEach((img) => {
         img.addEventListener('click', () => {
-          const big = bigger(img.src);
+          // Foursquare has no /NNNpx- rung to raise: width1200 is what the page
+          // shows, so the enlarged view goes back to the stored original.
+          const big = /4sqi\.net/.test(img.src) && img.dataset.stored ? img.dataset.stored : bigger(img.src);
           pic.onerror = () => { if (pic.src !== img.src) pic.src = img.src; };
           pic.src = big;
           pic.alt = img.alt;

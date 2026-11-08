@@ -7,7 +7,8 @@
 // 그래서 이 테스트의 핵심은 "폭을 바꾸는가"가 아니라 **"사다리에 없는 폭을
 // 절대 만들지 않는가"** 다.
 //   node scripts/../src/lib/wikimediaThumb.test.mjs
-import { wikimediaThumb, legalWidth, WIKIMEDIA_WIDTHS } from './wikimediaThumb.mjs';
+import { readFileSync } from 'node:fs';
+import { wikimediaThumb, legalWidth, articlePhoto, WIKIMEDIA_WIDTHS } from './wikimediaThumb.mjs';
 
 const W = (n) => `https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Foo.jpg/${n}px-Foo.jpg`;
 
@@ -54,6 +55,42 @@ const lw = [[1, 20], [1200, 1280], [1920, 1920], [2000, 3840], [99999, 3840]];
 for (const [want, expect] of lw) {
   const ok = legalWidth(want) === expect;
   console.log(`${ok ? 'PASS' : 'FAIL'}  legalWidth(${want}) = ${expect}`);
+  if (!ok) fail++;
+}
+
+// 본문 사진(2026-11-08): 3840px·2MB 저장본이 폰의 342px 칸에 그대로 내려왔다.
+const FSQ = 'https://fastly.4sqi.net/img/general/original/abc.jpg';
+const photoCases = [
+  ['3840 저장본은 1280으로', articlePhoto(W(3840)), W(1280)],
+  ['1920 저장본도 1280으로', articlePhoto(W(1920)), W(1280)],
+  // 작은 저장본을 키우면 400 — 그대로 둔다.
+  ['960 저장본은 그대로', articlePhoto(W(960)), W(960)],
+  ['포스퀘어 원본은 width1200으로', articlePhoto(FSQ), 'https://fastly.4sqi.net/img/general/width1200/abc.jpg'],
+  ['이미 작은 포스퀘어는 그대로', articlePhoto('https://fastly.4sqi.net/img/general/width960/abc.jpg'),
+    'https://fastly.4sqi.net/img/general/width960/abc.jpg'],
+  ['자체 사진은 그대로', articlePhoto('https://wanderatlasguides.com/og/abc.webp'), 'https://wanderatlasguides.com/og/abc.webp'],
+  ['thumb 구간 없는 위키미디어 원본은 그대로', articlePhoto('https://upload.wikimedia.org/wikipedia/commons/4/4a/Foo.jpg'),
+    'https://upload.wikimedia.org/wikipedia/commons/4/4a/Foo.jpg'],
+  ['빈 값도 안전', articlePhoto(undefined), ''],
+];
+for (const [name, got, want] of photoCases) {
+  const ok = got === want;
+  console.log(`${ok ? 'PASS' : 'FAIL'}  ${name}${ok ? '' : `\n      got:  ${got}\n      want: ${want}`}`);
+  if (!ok) fail++;
+}
+
+// 템플릿 불변식: 갤러리 두 곳이 다시 저장 주소를 직접 쓰거나, 폴백을 잃으면 잡는다.
+const tpl = readFileSync(new URL('../components/PostArticle.astro', import.meta.url), 'utf8');
+const count = (needle) => tpl.split(needle).length - 1;
+const tplChecks = [
+  ['갤러리가 저장 주소를 그대로 쓰지 않는다', count('src={img.url}') === 0],
+  ['갤러리 두 곳 모두 articlePhoto 를 거친다', count('src={articlePhoto(img.url)}') === 2],
+  ['갤러리 두 곳 모두 저장 주소를 폴백으로 든다', count('data-stored={img.url}') === 2],
+  // 위키미디어는 라이트박스가 1920으로 올려 주지만, 포스퀘어는 올릴 단이 없어 저장 원본을 쓴다.
+  ['라이트박스가 포스퀘어를 저장 원본으로 확대한다', /4sqi\\?\.net.*dataset\.stored/.test(tpl)],
+];
+for (const [name, ok] of tplChecks) {
+  console.log(`${ok ? 'PASS' : 'FAIL'}  ${name}`);
   if (!ok) fail++;
 }
 

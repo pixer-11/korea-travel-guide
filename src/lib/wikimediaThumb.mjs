@@ -48,3 +48,12 @@ export function wikimediaThumb(url, wantWidth) {
   if (want >= have) return s;          // never ask for more than what is stored
   return s.replace(/\/(\d{2,4})px-/, `/${want}px-`);
 }
+
+/**
+ * The URL an article <img> asks for: Wikimedia's 1280 rung, Foursquare's width1200.
+ * The hero and the body gallery share it so the two cannot drift apart again.
+ * Anything else — an R2 mirror, an original-file URL with no thumb segment — passes through.
+ */
+export function articlePhoto(url) {
+  return wikimediaThumb(url, 1280).replace(/(fastly\.4sqi\.net\/img\/general\/)original\//, '$1width1200/');
+}
