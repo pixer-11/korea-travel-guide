@@ -7,8 +7,10 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import { readFileSync, readdirSync, existsSync } from 'node:fs';
+import { spawnSync } from 'node:child_process';
 import { fileURLToPath } from 'node:url';
 import { MANIFEST, GRACE_MIN, graceFor } from './cron-manifest.mjs';
+import { lastFireBefore } from './cron-window.mjs';
 
 const WF = fileURLToPath(new URL('../../.github/workflows/', import.meta.url));
 const SCRIPTS = fileURLToPath(new URL('../', import.meta.url));
@@ -68,6 +70,41 @@ test('the watchdog judges each entry by its own grace', () => {
   const src = readFileSync(SCRIPTS + 'schedule-watchdog.mjs', 'utf8');
   assert.match(src, /overdueMin <= graceFor\(w\)/);
   assert.doesNotMatch(src, /const GRACE_MIN/);
+});
+
+// An early rescue is the morning's routine; only a slot past the full grace is a
+// dropped run worth a message. What counts is whether the phone buzzes, so this
+// one is called: the real script, on a frozen clock and a fake network.
+const fakeWorld = (now) => 'data:text/javascript,' + encodeURIComponent(`
+  const RealDate = Date;
+  globalThis.Date = class extends RealDate {
+    constructor(...a) { if (a.length) super(...a); else super(${now}); }
+    static now() { return ${now}; }
+  };
+  globalThis.fetch = async (url) => {
+    const u = String(url);
+    if (u.includes('api.telegram.org')) { console.log('FAKE_ALERT'); return new Response('{"ok":true}'); }
+    if (u.includes('/dispatches')) { console.log('FAKE_DISPATCH'); return new Response(null, { status: 204 }); }
+    const late = u.includes('/workflows/analytics-report.yml/');
+    return new Response(JSON.stringify({ workflow_runs: late ? [] : [{ status: 'completed', conclusion: 'success' }] }));
+  };
+`);
+
+test('only a rescue past the full grace reaches the owner as a dropped run', () => {
+  const report = MANIFEST.find((w) => w.file === 'analytics-report.yml');
+  const slot = lastFireBefore(report.crons[0], Date.parse('2026-11-10T12:00:00Z'));
+  const at = (overdueMin) => {
+    const r = spawnSync(process.execPath, ['--import', fakeWorld(slot + overdueMin * 60000), SCRIPTS + 'schedule-watchdog.mjs'], {
+      encoding: 'utf8',
+      env: { ...process.env, GITHUB_TOKEN: 'x', GITHUB_REPOSITORY: 'o/r', TELEGRAM_BOT_TOKEN: 't', TELEGRAM_CHAT_ID: '1' },
+    });
+    assert.equal(r.status, 0, r.stderr);
+    return { rescued: r.stdout.includes('FAKE_DISPATCH'), alerted: r.stdout.includes('FAKE_ALERT') };
+  };
+  assert.deepEqual(at(graceFor(report) - 1), { rescued: false, alerted: false }, 'still inside its own grace');
+  assert.deepEqual(at(graceFor(report) + 1), { rescued: true, alerted: false }, 'an early rescue must stay quiet');
+  assert.deepEqual(at(GRACE_MIN), { rescued: true, alerted: false }, 'the full grace itself is not yet a dropped run');
+  assert.deepEqual(at(GRACE_MIN + 1), { rescued: true, alerted: true }, 'a slot past the full grace must be announced');
 });
 
 // Not every cron belongs in the manifest (weeklies can wait a week; the
