@@ -26,6 +26,16 @@ faq:
     a: November in Cologne is typically cool, grey and often damp, and it gets dark before 5pm. Runners usually start in long sleeves or a throwaway layer. Spectators who stand for hours need warm layers and a waterproof jacket.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/f/f4/K%C3%B6ln-Marathon%2C_Kom%C3%B6dienstra%C3%9Fe%2C_2015.jpg
+  credit: 'Photo: Euku / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:K%C3%B6ln-Marathon,_Kom%C3%B6dienstra%C3%9Fe,_2015.jpg
+  focus:
+    x: 50
+    'y': 38
+    top: 36
+    bottom: 39
 ---
 
 ## A race on Cologne's loudest date

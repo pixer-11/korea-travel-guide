@@ -7864,6 +7864,12 @@
   "reason": "event publish gate: Shows Cologne Cathedral, Christmas tree, and market sign",
   "at": "2026-10-29T00:37:10.095Z"
  },
+ "cologne-cologne-marathon-carnival-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/f/f4/K%C3%B6ln-Marathon%2C_Kom%C3%B6dienstra%C3%9Fe%2C_2015.jpg": {
+  "slug": "cologne-cologne-marathon-carnival-marathon",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Marathon race in urban street with spectators",
+  "at": "2026-11-08T23:01:04.929Z"
+ },
  "cologne-museum-ludwig\u0001https://upload.wikimedia.org/wikipedia/commons/3/3d/Museum_Ludwig_002.jpg": {
   "slug": "cologne-museum-ludwig",
   "verdict": "MATCH",
@@ -18519,6 +18525,12 @@
   "reason": "patrol reject: Beach kite flying scene, unrelated to event",
   "at": "2026-11-06T00:34:21.900Z"
  },
+ "london-catch-the-young-ignite-evolve-europe-tour\u0001https://upload.wikimedia.org/wikipedia/commons/d/dc/Catch_The_Wind_25.jpg": {
+  "slug": "london-catch-the-young-ignite-evolve-europe-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Kite festival beach scene, unrelated to music tour event",
+  "at": "2026-11-08T23:02:19.542Z"
+ },
  "london-catch-the-young-ignite-evolve-europe-tour\u0001https://upload.wikimedia.org/wikipedia/commons/e/e4/Catch_The_Wind_29.jpg": {
   "slug": "london-catch-the-young-ignite-evolve-europe-tour",
   "verdict": "MISMATCH",
@@ -27297,6 +27309,18 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Close-up handheld food shot, not restaurant scene",
   "at": "2026-09-03T22:07:36.597Z"
+ },
+ "rome-cracco-roma\u0001https://fastly.4sqi.net/img/general/original/6570136_3XZTbd5a1XdmVeP6PgzNhrymobTEXx-KglYjWUxHx-Y.jpg": {
+  "slug": "rome-cracco-roma",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Incidental beer and pizza closeup, not representative venue view",
+  "at": "2026-11-08T23:02:51.001Z"
+ },
+ "rome-cracco-roma\u0001https://fastly.4sqi.net/img/general/original/6570136_6g9-Be5gcIxAhNfSvnxiY7ASXxOolDsDUGURsStqedg.jpg": {
+  "slug": "rome-cracco-roma",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Close-up pizza shot, not representative of venue",
+  "at": "2026-11-08T23:02:52.284Z"
  },
  "rome-cracco-roma\u0001https://fastly.4sqi.net/img/general/original/66412343_2ajZ50CgeGeOmiNJtCv13sp4IqyZQAgJj39EQoQ9BCU.jpg": {
   "slug": "rome-cracco-roma",

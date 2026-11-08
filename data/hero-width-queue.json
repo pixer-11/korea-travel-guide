@@ -2904,7 +2904,6 @@
   "pasay-home-credit-takbo-para-sa-life-2027-manila-leg\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Pasay_at_night.jpg/3840px-Pasay_at_night.jpg": 3840,
   "phnom-penh-dough-sokheng-festival-kite-flying-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/2016_Phnom_Penh%2C_Biuro_UNESCO_%2803%29.jpg/3840px-2016_Phnom_Penh%2C_Biuro_UNESCO_%2803%29.jpg": 3840,
   "quebec-city-musee-national-des-beaux-arts-du-quebec\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Mus%C3%A9e_national_des_beaux-arts_du_Qu%C3%A9bec_2017.jpg/3840px-Mus%C3%A9e_national_des_beaux-arts_du_Qu%C3%A9bec_2017.jpg": 3840,
-  "tianzhong-taiwan-s-rice-heaven-tianzhong-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Gushan_Temple%2C_Tianzhong_Township%2C_Changhua_%28Taiwan%29.jpg/1280px-Gushan_Temple%2C_Tianzhong_Township%2C_Changhua_%28Taiwan%29.jpg": 1280,
   "ulaanbaatar-evening-museum-let-s-travel-through-socialism\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/2024-10-18_Ulaanbaatar_2.jpg/3840px-2024-10-18_Ulaanbaatar_2.jpg": 3840,
   "ulaanbaatar-genghis-khan-s-birthday\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Ulaanbaatar_Pollution.jpg/3840px-Ulaanbaatar_Pollution.jpg": 3840,
   "vancouver-museum-of-anthropology-at-ubc\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Museum_of_Anthropology_UBC_01.jpg/1920px-Museum_of_Anthropology_UBC_01.jpg": 1920,
@@ -3404,7 +3403,8 @@
   "toronto-baps-shri-swaminarayan-mandir-toronto\u0001https://upload.wikimedia.org/wikipedia/commons/f/f8/BAPS_Shri_Swaminarayan_Mandir_Toronto_II.jpg": 2816,
   "toronto-edwards-gardens\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Edward_Gardens_waterfall_2023.jpg/1920px-Edward_Gardens_waterfall_2023.jpg": 1920,
   "vancouver-bloedel-conservatory\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/The_Bloedel_Conservatory.jpg/1920px-The_Bloedel_Conservatory.jpg": 1920,
-  "waitomo-otorohanga-kiwi-house\u0001https://upload.wikimedia.org/wikipedia/commons/9/93/Otorohanga_kiwi_house_-_panoramio.jpg": 3615
+  "waitomo-otorohanga-kiwi-house\u0001https://upload.wikimedia.org/wikipedia/commons/9/93/Otorohanga_kiwi_house_-_panoramio.jpg": 3615,
+  "cologne-cologne-marathon-carnival-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/f/f4/K%C3%B6ln-Marathon%2C_Kom%C3%B6dienstra%C3%9Fe%2C_2015.jpg": 2816
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -3626,15 +3626,15 @@
   },
   "istanbul-lina-anatolian": {
    "width": 1024,
-   "attempts": 7,
-   "nextTry": "2026-11-08",
+   "attempts": 8,
+   "nextTry": "2026-11-15",
    "flaggedAt": "2026-09-17",
    "lastResult": "no-wider"
   },
   "jakarta-esa": {
    "width": 1080,
-   "attempts": 7,
-   "nextTry": "2026-11-08",
+   "attempts": 8,
+   "nextTry": "2026-11-15",
    "flaggedAt": "2026-09-17",
    "lastResult": "no-wider"
   },
@@ -3675,8 +3675,8 @@
   },
   "istanbul-bosphorus-view-point": {
    "width": 875,
-   "attempts": 6,
-   "nextTry": "2026-11-08",
+   "attempts": 7,
+   "nextTry": "2026-11-15",
    "flaggedAt": "2026-09-21",
    "lastResult": "no-wider"
   },
@@ -3935,5 +3935,5 @@
    "flaggedAt": "2026-11-06"
   }
  },
- "updated": "2026-11-08T14:34:59.004Z"
+ "updated": "2026-11-08T23:04:19.949Z"
 }
