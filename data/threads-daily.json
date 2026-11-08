@@ -109,30 +109,31 @@
     "palawan-secret-lagoon",
     "incheon-monsta-x-world-tour-the-x-nexus-encore",
     "nusa-penida-diamond-beach",
-    "dubai-dubai-old-city"
+    "dubai-dubai-old-city",
+    "york-uk-championship-snooker"
   ],
-  "lastSentDay": "2026-11-08",
+  "lastSentDay": "2026-11-09",
   "material": {
-    "day": "2026-11-08",
-    "slug": "dubai-dubai-old-city",
-    "title": "Dubai Old City: Travel Guide (4.6★)",
+    "day": "2026-11-09",
+    "slug": "york-uk-championship-snooker",
+    "title": "UK Championship (Snooker): Dates, Tickets & Venue (York)",
     "urls": [
-      "https://wanderatlasguides.com/og/social/2026-11-08-dubai-dubai-old-city-1.jpg",
-      "https://wanderatlasguides.com/og/social/2026-11-08-dubai-dubai-old-city-2.jpg",
-      "https://wanderatlasguides.com/og/social/2026-11-08-dubai-dubai-old-city-3.jpg",
-      "https://wanderatlasguides.com/og/social/2026-11-08-dubai-dubai-old-city-4.jpg"
+      "https://wanderatlasguides.com/og/social/2026-11-09-york-uk-championship-snooker-1.jpg",
+      "https://wanderatlasguides.com/og/social/2026-11-09-york-uk-championship-snooker-2.jpg",
+      "https://wanderatlasguides.com/og/social/2026-11-09-york-uk-championship-snooker-3.jpg",
+      "https://wanderatlasguides.com/og/social/2026-11-09-york-uk-championship-snooker-4.jpg"
     ],
-    "igCaption": "Wind towers, coral-stone walls, and narrow shaded lanes built to recreate Dubai before the glass towers. No gates, no tickets, just wander in and let the alleys dead-end into quiet little squares.\n\n#DubaiOldCity #Dubai #UnitedArabEmirates #travelguide #travel #wanderatlas #UAE #TravelGuide #Deira #HiddenGem\n📷 Photo: Domenico Convertini from Zurich, Schweiz / Wikimedia Commons (CC BY-SA 2.0) (edited)",
-    "thOption": "Dubai Old City has no entrance fee and no single \"entrance\" at all, you just wander in from the streets. Would you still give it a slow 1-2 hour walk, or rush through in five minutes?",
-    "link": "https://wanderatlasguides.com/posts/dubai-dubai-old-city/"
+    "igCaption": "The UK Championship brings nine days of snooker to York Barbican, one of the sport's three Triple Crown events. Expect raked seating close to the table, a crowd that goes silent mid-shot, and a city full of Christmas market stalls just outside.\n\n#York #UnitedKingdom #events #travel #wanderatlas #UKChampionship #Snooker #England #TripleCrown #TravelUK\n📷 Photo: Malcolmxl5 / Wikimedia Commons (CC BY-SA 4.0) (edited)\n📷 Photo: Vinderkind / Wikimedia Commons (CC BY-SA 4.0) (edited)\n📷 Photo: Pete from Liverpool, UK / Wikimedia Commons (CC0) (edited)",
+    "thOption": "Snooker crowds stay dead silent during a shot and only clap once the balls stop rolling — could you handle sitting through a whole session without a whisper?",
+    "link": "https://wanderatlasguides.com/posts/york-uk-championship-snooker/"
   },
   "social": {
-    "thDay": "2026-11-08",
-    "thId": "18646324843059607",
-    "igDay": "2026-11-06",
-    "igId": "18277377982305695",
-    "thSlug": "dubai-dubai-old-city",
-    "igSlug": "incheon-monsta-x-world-tour-the-x-nexus-encore",
+    "thDay": "2026-11-09",
+    "thId": "18434604418194492",
+    "igDay": "2026-11-09",
+    "igId": "17899054887676301",
+    "thSlug": "york-uk-championship-snooker",
+    "igSlug": "york-uk-championship-snooker",
     "history": [
       {
         "day": "2026-10-10",
@@ -564,7 +565,25 @@
         "day": "2026-11-02",
         "slug": "new-york-ocean-prime",
         "thId": "18096630995678934",
-        "igId": "18122011318950999"
+        "igId": "18122011318950999",
+        "insights": {
+          "at": "2026-11-09",
+          "th": {
+            "views": 14,
+            "likes": 0,
+            "replies": 0,
+            "reposts": 0,
+            "quotes": 0
+          },
+          "ig": {
+            "reach": 0,
+            "saved": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "views": 0
+          }
+        }
       },
       {
         "day": "2026-11-03",
@@ -597,6 +616,12 @@
         "day": "2026-11-08",
         "slug": "dubai-dubai-old-city",
         "thId": "18646324843059607"
+      },
+      {
+        "day": "2026-11-09",
+        "slug": "york-uk-championship-snooker",
+        "thId": "18434604418194492",
+        "igId": "17899054887676301"
       }
     ]
   }
