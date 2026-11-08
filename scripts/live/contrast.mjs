@@ -19,6 +19,9 @@ const PATHS = ['itinerary/tokyo-3-days', 'itinerary', 'tools/esim/japan', 'about
 const KNOWN_OPEN = /^span\.ho-dot</;
 // A page with almost no measured text is a page that did not render, not a clean one.
 const MIN_MEASURED = 40;
+// What only appears once a reader has saved something: an empty /my-trip/ hid the
+// count badge (4.08:1 on its rust fill) from this check (11-09).
+const SAVED = { 'my-trip': { wa_saved_regions_v1: ['seoul', 'tokyo'] } };
 
 // Runs in the page; returns the raw strings, judged in Node by lib/contrast.mjs.
 function collect() {
@@ -67,6 +70,7 @@ for (const scheme of ['light', 'dark']) {
   for (const p of PATHS) {
     const ctx = await b.newContext({ viewport: { width: 1280, height: 800 }, colorScheme: scheme });
     const pg = await ctx.newPage();
+    if (SAVED[p]) await pg.addInitScript((saved) => { for (const [k, v] of Object.entries(saved)) localStorage.setItem(k, JSON.stringify(v)); }, SAVED[p]);
     const where = `${scheme} /${p}/`;
     try {
       const res = await pg.goto(`${BASE}/${p}/`, { waitUntil: 'domcontentloaded', timeout: 90000 });

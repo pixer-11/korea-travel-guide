@@ -74,3 +74,16 @@ test('filled buttons with white words stay on the AA pair', () => {
   // Dark may lighten --ev-rust for dots and words; the fill must never follow it.
   assert.doesNotMatch(ev, /--ev-rust-fill: #e/);
 });
+
+test('white words never sit on the my-trip rust, and the check opens the page with something saved', () => {
+  const rust = judgeText({ color: WHITE, layers: ['rgb(192, 101, 47)'], px: 12.8, weight: 700 });
+  assert.equal(rust.ok, false);
+  assert.equal(rust.ratio.toFixed(2), '4.08');
+  const trip = page('MyTripPage.astro');
+  assert.doesNotMatch(trip, /\.mt-cities-n \{[^}]*background: var\(--mt-rust\)/);
+  assert.match(trip, /\.mt-cities-n \{[^}]*background: var\(--cta\)/);
+  assert.doesNotMatch(trip, /\.mt-btn--rust \{[^}]*background: var\(--mt-rust\)/);
+  // An empty /my-trip/ has no badge to read.
+  const live = readFileSync(fileURLToPath(new URL('../live/contrast.mjs', import.meta.url)), 'utf8');
+  assert.match(live, /'my-trip': \{ wa_saved_regions_v1: \[/);
+});
