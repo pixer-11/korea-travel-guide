@@ -65,6 +65,12 @@
 .post-byline a { color: var(--ink-soft); font-weight: 600; }
 .post-byline .sep { color: var(--line); }
 .post-byline .byline-check { color: var(--pine); font-weight: 600; }
+/* 폰 폭에서는 구분점이 줄 끝에 매달리거나 혼자 한 줄을 차지해 간격으로 대신한다.
+   점과 문구를 nowrap 으로 묶으면 안 된다: ✓ 문구(약 370px)가 본문 폭(342px)을 넘어 페이지가 옆으로 밀린다. */
+@media (max-width: 760px) {
+  .post-byline { column-gap: 0.75rem; }
+  .post-byline .sep { display: none; }
+}
 /* --gold-text, not --gold: the plain gold is 3.2:1 on the page background, too
    faint for 0.9rem text; --gold-text clears AA in light and dark alike. */
 .byline-traveled { margin-top: 0.3rem; font-size: 0.9rem; font-weight: 600; color: var(--gold-text); }
