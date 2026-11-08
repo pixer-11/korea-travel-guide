@@ -5,6 +5,11 @@ country: Singapore
 region: Sentosa
 category: restaurant
 pubDate: '2026-07-23T07:34:21.457Z'
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/101034445_rMl0cIl0HICDIcnZnL8-Lpfy0_WEM9eHK6PEWNPgJaY.jpg"
+    credit: "Photo: Foursquare user content (Fiamma)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/62c41fc88a443f637bdd91a1"
 heroImage:
   url: https://fastly.4sqi.net/img/general/original/40583305_Xp_0QY4QADnzs16ukh3bOT6KFDt2Mo0y-I3t-Yv4ZeU.jpg
   credit: 'Photo: Foursquare user content (Fiamma)'
@@ -48,6 +53,7 @@ faq:
   - q: What else is nearby if I want to make a day of it?
     a: Tanjong Beach and Sentosa's eastern boardwalk trails are both close by and make a good calmer pairing with dinner, away from the busier western attractions like Siloso Beach and Universal Studios.
 aiGenerated: true
+galleryAddedOn: '2026-11-08'
 ---
 
 ## Why go

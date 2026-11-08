@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 45
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/20297531_cN5mRt2Mt4BQdCDdbNEPLVBsamaPpiGnUJews-Qq2jc.jpg"
+    credit: "Photo: Foursquare user content (Karatay Madrasa Tile Museum (Karatay Medresesi Çini Müzesi))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4d45373714aa8cfac10f703d"
 place:
   id: "ChIJqSxYOgiF0BQRBG6Co68sYfw"
   name: "Karatay Madrasa"
@@ -50,6 +54,7 @@ faq:
     a: "Arriving right at opening usually beats the groups doing the Seljuk circuit from the Mevlana Museum. The main hall is a single room, so even one large group fills it, and it pays to be there first."
 aiGenerated: true
 draft: false
+galleryAddedOn: '2026-11-08'
 ---
 
 ## A dome made of night sky

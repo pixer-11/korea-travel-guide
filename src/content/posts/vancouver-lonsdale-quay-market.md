@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 50
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/87381351_xFUIERNvSGN7r02bqnOhT1ABpDAa4TFwjm8pt3fOZDM.jpg"
+    credit: "Photo: Foursquare user content (Lonsdale Quay Market)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b2d53e2f964a52038d424e3"
 place:
   id: "ChIJ9Vwt10xwhlQRQuBpePVtbTk"
   name: "Lonsdale Quay Market"
@@ -68,6 +72,7 @@ faq:
     a: "The Shipyards District and the Polygon Gallery are a short walk east along the waterfront, and Lower Lonsdale is uphill. Bus 236 from the quay's bus exchange goes to Capilano Suspension Bridge Park and Grouse Mountain."
 aiGenerated: true
 draft: false
+galleryAddedOn: '2026-11-08'
 ---
 
 ## Cross the inlet first

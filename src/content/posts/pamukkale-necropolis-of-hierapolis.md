@@ -19,7 +19,11 @@ heroImage:
   focus:
     x: 45
     'y': 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/12519326_VxEPL5OoHXYp7tNHRuEJKoQ10MfcovU4UUuVfIem4Qg.jpg"
+    credit: "Photo: Foursquare user content (Northern Necropolis)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/526f53c411d2eff476e24169"
 place:
   id: ChIJDwXcyxUSxxQRcGZtbqFBHvs
   name: Necropolis of Hierapolis
@@ -76,6 +80,7 @@ faq:
 aiGenerated: true
 draft: false
 updatedDate: '2026-11-05'
+galleryAddedOn: '2026-11-08'
 ---
 
 ## A city of the dead on the way in

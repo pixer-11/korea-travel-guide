@@ -18,7 +18,11 @@ heroImage:
   focus:
     x: 55
     'y': 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/126779827_GQU-9jhAEkcuH8OEUqT2g4y_9nIK78qx3Qxf1tM2de0.jpg"
+    credit: "Photo: Foursquare user content (Muradiye Külliyesi)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4dd8ee8bb0fb8af380aaf0a1"
 place:
   id: ChIJG4meHgAWyhQRk8hSEmB43XU
   name: Muradiye Complex
@@ -92,6 +96,7 @@ faq:
 aiGenerated: true
 draft: false
 updatedDate: '2026-11-07'
+galleryAddedOn: '2026-11-08'
 ---
 
 ## A garden full of princes

@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 48
     y: 35
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/1502_GCaGmp83AfzXZrLJCCdM5jYAItxmJcU3Dc_IkNFMnUA.jpg"
+    credit: "Photo: Foursquare user content (Brock's Monument)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b643dccf964a520eca52ae3"
 place:
   id: "ChIJv16BVaVd04kRz1q_DdYczxg"
   name: "Brock's Monument"
@@ -51,6 +55,7 @@ faq:
     a: "Queenston Heights Park has the Laura Secord Monument and the Bruce Trail's southern cairn. Queenston village, the Floral Clock, Niagara Glen and the old town of Niagara-on-the-Lake are all a short drive away."
 aiGenerated: true
 draft: false
+galleryAddedOn: '2026-11-08'
 ---
 
 ## A column on the battlefield

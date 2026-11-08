@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 70
     y: 30
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/64059554_JLrz4fC_SaffZFIRzmWjHol9qhESFAedOVykJ0kloG0.jpg"
+    credit: "Photo: Foursquare user content (International Buddhist Temple)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b4a139cf964a520de7926e3"
 place:
   id: "ChIJRTHFmw11hlQR2h_75s0V_Bk"
   name: "International Buddhist Temple"
@@ -64,6 +68,7 @@ faq:
     a: "Group tours are offered by appointment, so contact the temple in advance. Individual visitors can walk in during opening hours, which are currently 9am–5pm daily but can change around festivals."
 aiGenerated: true
 draft: false
+galleryAddedOn: '2026-11-08'
 ---
 
 ## Yellow roofs over Steveston Highway

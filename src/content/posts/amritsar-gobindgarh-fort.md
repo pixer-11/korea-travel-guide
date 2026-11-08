@@ -19,7 +19,11 @@ heroImage:
   focus:
     x: 50
     'y': 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/471828629_d90O8YN2p0hTMyOex0mht-CnDUrXv7SqosrautTDZw8.jpg"
+    credit: "Photo: Foursquare user content (Gobindgarh Fort)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/56b1d754498e55916cc1c4ec"
 place:
   id: ChIJA5rC0LJkGTkR6-nesxPbNSA
   name: Gobindgarh Fort
@@ -95,6 +99,7 @@ faq:
 aiGenerated: true
 draft: false
 updatedDate: '2026-11-05'
+galleryAddedOn: '2026-11-08'
 ---
 
 ## Ramparts built for cannon, now open to visitors
