@@ -82,10 +82,54 @@ for (const [name, got, want] of photoCases) {
 // 템플릿 불변식: 갤러리 두 곳이 다시 저장 주소를 직접 쓰거나, 폴백을 잃으면 잡는다.
 const tpl = readFileSync(new URL('../components/PostArticle.astro', import.meta.url), 'utf8');
 const count = (needle) => tpl.split(needle).length - 1;
+
+// 폴백의 실체는 data-stored 가 아니라 되돌아가는 onerror 다. 저장 주소 개수만 세면 onerror 가
+// 사라져도 초록이다(2026-11-08 검토). 그래서 모든 주소가 죽었다고 치고 핸들러를 실제로 돌린다.
+// src 세터의 정규화는 브라우저 그대로다: 저장 주소에 비ASCII 가 있으면 this.src 가 저장 주소와
+// 영원히 달라, this.onerror=null 이 없으면 같은 주소를 끝없이 다시 요청한다.
+function urlsTried(tag, first, dataset) {
+  const code = tag.match(/\sonerror="([^"]*)"/)?.[1];
+  const tried = [first];
+  if (!code) return tried;
+  let current = first;
+  let failures = 1;
+  const img = {
+    dataset,
+    onerror: 'armed',
+    get src() { return current; },
+    set src(url) { current = encodeURI(url); tried.push(url); failures++; },
+    // 허브 대표 사진은 주소가 다 죽으면 자기 자리를 치운다.
+    closest: () => ({ classList: { remove() {} } }),
+    remove() {},
+  };
+  const handler = new Function(code);
+  for (let guard = 0; failures > 0 && img.onerror !== null && guard < 8; guard++) {
+    failures--;
+    handler.call(img);
+  }
+  return tried;
+}
+const imgTags = (src) => [...src.matchAll(/<img\b[^>]*?\/>/g)].map((m) => m[0]);
+const same = (a, b) => JSON.stringify(a) === JSON.stringify(b);
+const STORED = W(3840);
+const STORED_NON_ASCII = 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Köln.jpg/3840px-Köln.jpg';
+const gallery = imgTags(tpl).filter((t) => t.includes('data-stored={img.url}'));
+// 2026-08-10 에 실제로 빈칸이 된 자리. 글·지역·나라 허브의 대표 사진이 같은 불변식을 쓴다.
+const heroes = ['PostArticle', 'RegionHub', 'DestinationHub']
+  .map((c) => imgTags(readFileSync(new URL(`../components/${c}.astro`, import.meta.url), 'utf8')).filter((t) => t.includes('data-full=')));
+
 const tplChecks = [
   ['갤러리가 저장 주소를 그대로 쓰지 않는다', count('src={img.url}') === 0],
   ['갤러리 두 곳 모두 articlePhoto 를 거친다', count('src={articlePhoto(img.url)}') === 2],
   ['갤러리 두 곳 모두 저장 주소를 폴백으로 든다', count('data-stored={img.url}') === 2],
+  ['갤러리 img 태그 두 개를 찾았다', gallery.length === 2],
+  ['갤러리 사진이 실패하면 저장 주소로 되돌아간다', gallery.every((t) => same(urlsTried(t, W(1280), { stored: STORED }), [W(1280), STORED]))],
+  ['저장 주소까지 죽어도 되돌림은 한 번뿐이다', gallery.every((t) => same(urlsTried(t, W(1280), { stored: STORED_NON_ASCII }), [W(1280), STORED_NON_ASCII]))],
+  ['저장 주소를 그대로 쓴 사진은 같은 주소를 다시 요청하지 않는다', gallery.every((t) => same(urlsTried(t, STORED, { stored: STORED }), [STORED]))],
+  ['대표 사진 세 곳을 찾았다', heroes.length === 3 && heroes.every((h) => h.length === 1)],
+  // 앞의 세 단계만 본다: 세 주소가 전부 죽은 뒤 두 저장 주소를 왕복하는 것은 별건이다(2026-11-08 보고).
+  ['대표 사진은 표시 폭 → data-full → data-stored 순으로 물러선다', heroes.every(([t]) => same(urlsTried(t, W(960), { full: W(1280), stored: STORED }).slice(0, 3), [W(960), W(1280), STORED]))],
+  ['대표 사진의 저장 주소가 하나면 거기서 멈춘다', heroes.every(([t]) => same(urlsTried(t, W(960), { full: STORED, stored: STORED }), [W(960), STORED]))],
   // 위키미디어는 라이트박스가 1920으로 올려 주지만, 포스퀘어는 올릴 단이 없어 저장 원본을 쓴다.
   ['라이트박스가 포스퀘어를 저장 원본으로 확대한다', /4sqi\\?\.net.*dataset\.stored/.test(tpl)],
 ];
