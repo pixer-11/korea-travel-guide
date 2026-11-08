@@ -68,6 +68,9 @@
 /* --gold-text, not --gold: the plain gold is 3.2:1 on the page background, too
    faint for 0.9rem text; --gold-text clears AA in light and dark alike. */
 .byline-traveled { margin-top: 0.3rem; font-size: 0.9rem; font-weight: 600; color: var(--gold-text); }
+/* 행사 글에서 독자가 제일 먼저 찾는 것이 날짜라, 회색 발행일보다 진하게 둔다. */
+.byline-event { margin-top: 0.35rem; font-size: 0.95rem; font-weight: 600; color: var(--ink); }
+.byline-event .emoji { vertical-align: -0.12em; margin-right: 0.2rem; }
 .article--post .article-head .disclosure-details { margin: 0.45rem 0 0; }
 
 /* ── "When is it quiet?" ── */
