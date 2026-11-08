@@ -11,6 +11,12 @@
     "es": "Abu Dabi",
     "zh": "阿布扎比"
   },
+  "Abu Simbel": {
+    "ko": "아부심벨",
+    "ja": "アブシンベル",
+    "es": "Abu Simbel",
+    "zh": "阿布辛贝"
+  },
   "Adana": {
     "ko": "아다나",
     "ja": "アダナ",
@@ -82,6 +88,12 @@
     "ja": "アルカニス",
     "es": "Alcañiz",
     "zh": "阿尔卡尼斯"
+  },
+  "Alexandria": {
+    "ko": "알렉산드리아",
+    "ja": "アレクサンドリア",
+    "es": "Alejandría",
+    "zh": "亚历山大"
   },
   "Alicante": {
     "ko": "알리칸테",
@@ -190,6 +202,12 @@
     "ja": "アッサーゴ",
     "es": "Assago",
     "zh": "阿萨戈"
+  },
+  "Aswan": {
+    "ko": "아스완",
+    "ja": "アスワン",
+    "es": "Asuán",
+    "zh": "阿斯旺"
   },
   "Auckland": {
     "ko": "오클랜드",
@@ -527,6 +545,12 @@
     "es": "Cairns",
     "zh": "凯恩斯"
   },
+  "Cairo": {
+    "ko": "카이로",
+    "ja": "カイロ",
+    "es": "El Cairo",
+    "zh": "开罗"
+  },
   "Calgary": {
     "ko": "캘거리",
     "ja": "カルガリー",
@@ -839,6 +863,12 @@
     "es": "Daegu",
     "zh": "大邱"
   },
+  "Dahab": {
+    "ko": "다합",
+    "ja": "ダハブ",
+    "es": "Dahab",
+    "zh": "达哈布"
+  },
   "Dalanzadgad": {
     "ko": "달란자드가드",
     "ja": "ダランザドガド",
@@ -905,6 +935,12 @@
     "es": "Dempsey Hill",
     "zh": "登普西山"
   },
+  "Dendera": {
+    "ko": "덴데라",
+    "ja": "デンデラ",
+    "es": "Dendera",
+    "zh": "丹德拉"
+  },
   "Denpasar": {
     "ko": "덴파사르",
     "ja": "デンパサール",
@@ -959,11 +995,23 @@
     "es": "East Rutherford",
     "zh": "东拉瑟福德"
   },
+  "Edfu": {
+    "ko": "에드푸",
+    "ja": "エドフ",
+    "es": "Edfu",
+    "zh": "埃德富"
+  },
   "Edinburgh": {
     "ko": "에든버러",
     "ja": "エディンバラ",
     "es": "Edimburgo",
     "zh": "爱丁堡"
+  },
+  "Egypt": {
+    "ko": "이집트",
+    "ja": "エジプト",
+    "es": "Egipto",
+    "zh": "埃及"
   },
   "El Calafate": {
     "ko": "엘칼라파테",
@@ -976,6 +1024,12 @@
     "ja": "エル・チャルテン",
     "es": "El Chaltén",
     "zh": "埃尔查尔滕"
+  },
+  "El Gouna": {
+    "ko": "엘구나",
+    "ja": "エル・グーナ",
+    "es": "El Gouna",
+    "zh": "艾尔古纳"
   },
   "El Nido": {
     "ko": "엘니도",
@@ -1156,6 +1210,12 @@
     "ja": "ギズボーン",
     "es": "Gisborne",
     "zh": "吉斯伯恩"
+  },
+  "Giza": {
+    "ko": "기자",
+    "ja": "ギザ",
+    "es": "Guiza",
+    "zh": "吉萨"
   },
   "Glasgow": {
     "ko": "글래스고",
@@ -1414,6 +1474,12 @@
     "ja": "ウマワカ",
     "es": "Humahuaca",
     "zh": "乌马瓦卡"
+  },
+  "Hurghada": {
+    "ko": "후르가다",
+    "ja": "ハルガダ",
+    "es": "Hurgada",
+    "zh": "赫尔格达"
   },
   "Hyderabad": {
     "ko": "하이데라바드",
@@ -1733,6 +1799,12 @@
     "es": "Calcuta",
     "zh": "加尔各答"
   },
+  "Kom Ombo": {
+    "ko": "콤옴보",
+    "ja": "コム・オンボ",
+    "es": "Kom Ombo",
+    "zh": "康翁波"
+  },
   "Komodo": {
     "ko": "코모도",
     "ja": "コモド島",
@@ -1943,6 +2015,12 @@
     "es": "Lucknow",
     "zh": "勒克瑙"
   },
+  "Luxor": {
+    "ko": "룩소르",
+    "ja": "ルクソール",
+    "es": "Luxor",
+    "zh": "卢克索"
+  },
   "Lyon": {
     "ko": "리옹",
     "ja": "リヨン",
@@ -2074,6 +2152,12 @@
     "ja": "マルマリス",
     "es": "Marmaris",
     "zh": "马尔马里斯"
+  },
+  "Marsa Alam": {
+    "ko": "마르사알람",
+    "ja": "マルサ・アラム",
+    "es": "Marsa Alam",
+    "zh": "马萨阿拉姆"
   },
   "Marseille": {
     "ko": "마르세유",
@@ -3052,6 +3136,12 @@
     "ja": "シャルジャ",
     "es": "Sharjah",
     "zh": "沙迦"
+  },
+  "Sharm El Sheikh": {
+    "ko": "샤름엘셰이크",
+    "ja": "シャルム・エル・シェイク",
+    "es": "Sharm el-Sheij",
+    "zh": "沙姆沙伊赫"
   },
   "Shenzhen": {
     "ko": "선전",

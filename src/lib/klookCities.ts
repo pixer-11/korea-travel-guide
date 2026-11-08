@@ -264,6 +264,16 @@ export const KLOOK_CITY: Record<string, KlookCity> = {
   "Mendoza": { id: 6674, slug: 'mendoza', country: "Argentina" }, // 2026-10-25: in all five city sitemaps; the page sits under co4183-argentina and is the city
   "El Calafate": { id: 80621, slug: 'el-calafate', country: "Argentina" }, // 2026-10-25: in the en-US, ko, ja, es and zh-cn city sitemaps
   "Ushuaia": { id: 37092, slug: 'ushuaia', country: "Argentina" }, // 2026-10-25: in the en-US, ko, ja, es and zh-cn city sitemaps
+  "Cairo": { id: 284, slug: 'cairo', country: "Egypt" }, // 2026-11-09: in the en-US, ko, ja, es and zh-cn city sitemaps; titled Cairo Governorate, which is about the same area as the city
+  "Giza": { id: 701687, slug: 'giza', country: "Egypt" }, // 2026-11-09: in the en-US, ko, ja, es and zh-cn city sitemaps
+  "Luxor": { id: 365435, slug: 'luxor', country: "Egypt" }, // 2026-11-09: in the en-US, ko, ja, es and zh-cn city sitemaps (c531 is 'Luxor Governate', en-US sitemap only, not used)
+  "Aswan": { id: 365308, slug: 'aswan', country: "Egypt" }, // 2026-11-09: in the en-US, ko, ja, es and zh-cn city sitemaps
+  "Abu Simbel": { id: 703784, slug: 'abu-simbel', country: "Egypt" }, // 2026-11-09: in the en-US, ko, ja, es and zh-cn city sitemaps
+  "Hurghada": { id: 365309, slug: 'hurghada', country: "Egypt" }, // 2026-11-09: in the en-US, ko, ja, es and zh-cn city sitemaps
+  "El Gouna": { id: 701755, slug: 'el-gouna', country: "Egypt" }, // 2026-11-09: in the en-US, ko, ja, es and zh-cn city sitemaps
+  "Marsa Alam": { id: 703653, slug: 'marsa-alam', country: "Egypt" }, // 2026-11-09: in the en-US, ko, ja, es and zh-cn city sitemaps
+  "Sharm El Sheikh": { id: 532, slug: 'sharm-el-sheikh', country: "Egypt" }, // 2026-11-09: in the en-US, ko, ja, es and zh-cn city sitemaps
+  // No "Alexandria" row: the sitemap's only one is c704012, the American city, so Egypt's goes to search (2026-11-09).
   "Pasay": { id: 26286, slug: 'pasay', country: "Philippines" },
   "Philadelphia": { id: 80779, slug: 'philadelphia', country: "United States" },
   "Phnom Penh": { id: 44, slug: 'phnom-penh', country: "Cambodia" },

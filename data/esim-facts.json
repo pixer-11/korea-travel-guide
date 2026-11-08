@@ -497,5 +497,21 @@
       "Most trips join the regions by domestic flights, so keep boarding passes and hotel addresses saved on the phone rather than only in an app that needs data.",
       "Iguazu Falls sits on the border with Brazil; if you plan to visit the Brazilian side too, choose a plan that covers both countries."
     ]
+  },
+  "egypt": {
+    "name": "Egypt",
+    "carriers": [
+      "Vodafone",
+      "Orange",
+      "etisalat by e&",
+      "WE (Telecom Egypt)"
+    ],
+    "intro": "Egypt has four mobile networks: Vodafone, Orange, etisalat by e& and WE (Telecom Egypt). All four sell eSIM lines of their own, and those are built for people already in the country: Orange sells new lines at its shops, Vodafone sells through its stores and eShop, and etisalat and WE say the eSIM profile can only be downloaded inside Egypt. A travel eSIM from an international seller is a different product that you can install before you fly; it rides on one of these networks, so check which one it names before you buy.",
+    "coverage": "Cairo, Giza, Luxor, Aswan, Alexandria and the Red Sea resort towns have steady signal. Coverage is built around the Nile valley and the towns, so it can be weak or absent on stretches of the river between towns, on the long desert road from Aswan to Abu Simbel, and out on boats at reef sites such as the Giftun Islands.",
+    "tips": [
+      "Egypt charges a registration fee on imported phones, but not on a tourist's: the official Telephony service says a tourist's phone works normally on a foreign SIM with no fee, and that a tourist using an Egyptian SIM made for tourists gets a 90-day exemption on each visit.",
+      "If you want a local eSIM rather than a travel one, plan to buy it at a shop after you land and bring your passport. Orange lists tourists as eligible, but its own FAQ also says foreigners need valid residence, so ask at the counter first.",
+      "Download offline maps and save your hotel addresses, train tickets and tour pick-up details before the road transfers between Luxor, Aswan and Abu Simbel or a boat day on the Red Sea."
+    ]
   }
 }

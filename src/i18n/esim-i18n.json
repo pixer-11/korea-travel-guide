@@ -1315,5 +1315,44 @@
       ]
     },
     "_srcHash": "8f829cc4c6d0fb91"
+  },
+  "egypt": {
+    "_srcHash": "1042d2f19f1c48b1",
+    "ko": {
+      "intro": "이집트에는 Vodafone, Orange, etisalat by e&, WE(Telecom Egypt) 네 개의 이동통신사가 있습니다. 네 곳 모두 자체 eSIM 라인을 판매하는데, 이는 이미 이집트에 입국한 사람을 대상으로 만들어진 상품입니다. Orange는 매장에서 신규 라인을 판매하고, Vodafone은 매장과 eShop을 통해 판매하며, etisalat과 WE는 eSIM 프로필이 이집트 국내에서만 다운로드 가능하다고 안내하고 있습니다. 반면 해외 판매자가 제공하는 여행용 eSIM은 출국 전에 미리 설치할 수 있는 별개의 상품으로, 위 네 통신사 중 하나의 망을 빌려 쓰는 방식입니다. 그러니 구매 전에 어느 망을 사용하는지 반드시 확인하세요.",
+      "coverage": "카이로, 기자, 룩소르, 아스완, 알렉산드리아, 그리고 홍해 리조트 타운들은 신호가 안정적입니다. 통신망은 나일강 계곡과 주요 도시를 중심으로 구축되어 있어, 도시 사이 강변 구간이나 아스완에서 아부심벨로 이어지는 장거리 사막 도로, 그리고 기프툰 제도(Giftun Islands) 같은 리프 포인트에서 보트를 타고 있을 때는 신호가 약하거나 아예 잡히지 않을 수 있습니다.",
+      "tips": [
+        "이집트는 외국에서 반입된 휴대폰에 등록비를 부과하지만, 관광객의 휴대폰에는 부과하지 않습니다. 공식 Telephony 서비스에 따르면 관광객의 휴대폰은 외국 SIM을 꽂아도 수수료 없이 정상적으로 작동하며, 관광객용으로 만들어진 이집트 SIM을 사용하는 관광객은 방문할 때마다 90일간 면제 혜택을 받습니다.",
+        "여행용 eSIM 대신 현지 eSIM을 원한다면, 입국 후 매장에서 구매할 계획을 세우고 여권을 꼭 지참하세요. Orange는 관광객도 구매 가능하다고 안내하지만, 자체 FAQ에서는 외국인에게 유효한 거주 자격이 필요하다고도 명시하고 있으니, 먼저 매장 직원에게 문의하는 것이 좋습니다.",
+        "룩소르, 아스완, 아부심벨 간 육로 이동이나 홍해에서의 보트 투어를 하기 전에, 오프라인 지도를 미리 다운로드하고 호텔 주소, 기차표, 투어 픽업 정보를 저장해 두세요."
+      ]
+    },
+    "ja": {
+      "intro": "エジプトにはVodafone、Orange、etisalat by e&、WE(Telecom Egypt)の4つのモバイルネットワークがあります。4社とも自社のeSIM回線を販売していますが、これらはすでにエジプト国内にいる人向けに作られています。Orangeは店舗で新規回線を販売し、Vodafoneは実店舗とeショップで販売しており、etisalatとWEはeSIMプロファイルをエジプト国内でしかダウンロードできないとしています。海外の販売業者が提供する旅行者向けeSIMは別物で、渡航前にインストールできます。これはこれら4社のいずれかのネットワークを利用する仕組みなので、購入前にどのネットワークを使用するものか確認しましょう。",
+      "coverage": "カイロ、ギザ、ルクソール、アスワン、アレクサンドリア、そして紅海沿岸のリゾートタウンでは安定した電波が得られます。通信網はナイル川流域と各都市を中心に整備されているため、都市間を結ぶナイル川沿いの一部区間や、アスワンからアブシンベルへ向かう長い砂漠の道、またギフトン諸島などのリーフサイトでのボート上では、電波が弱かったり圏外になったりすることがあります。",
+      "tips": [
+        "エジプトでは輸入携帯電話に登録料が課されますが、旅行者の携帯電話には課されません。公式のTelephonyサービスによると、旅行者の携帯電話は外国のSIMを使用しても料金なしで通常通り利用でき、また旅行者向けに作られたエジプトのSIMを使用する旅行者は、訪問ごとに90日間の免除を受けられるとされています。",
+        "旅行者向けeSIMではなく現地のeSIMを希望する場合は、到着後に店舗で購入する計画を立て、パスポートを持参しましょう。Orangeは旅行者も対象としていますが、同社自身のFAQでは外国人には有効な居住資格が必要だとも記載されているため、まずカウンターで確認してください。",
+        "ルクソール、アスワン、アブシンベル間の陸路移動や、紅海でのボートツアーの前に、オフラインマップをダウンロードし、ホテルの住所、電車のチケット、ツアーの送迎情報を保存しておきましょう。"
+      ]
+    },
+    "es": {
+      "intro": "Egipto cuenta con cuatro redes móviles: Vodafone, Orange, etisalat by e& y WE (Telecom Egypt). Las cuatro venden sus propias líneas eSIM, pensadas para quienes ya están en el país: Orange vende líneas nuevas en sus tiendas, Vodafone lo hace a través de sus tiendas físicas y su eShop, y tanto etisalat como WE indican que el perfil eSIM solo puede descargarse estando dentro de Egipto. Una eSIM de viaje de un proveedor internacional es un producto distinto, que puedes instalar antes de volar; funciona sobre una de estas redes, así que conviene comprobar cuál indica el vendedor antes de comprarla.",
+      "coverage": "El Cairo, Guiza, Luxor, Asuán, Alejandría y las localidades turísticas del Mar Rojo tienen señal estable. La cobertura se concentra en el valle del Nilo y en las poblaciones, por lo que puede ser débil o inexistente en tramos del río entre una ciudad y otra, en la larga carretera del desierto entre Asuán y Abu Simbel, y en embarcaciones en zonas de arrecife como las Islas Giftun.",
+      "tips": [
+        "Egipto cobra una tasa de registro a los teléfonos importados, pero no al de un turista: el servicio oficial de Telefonía indica que el teléfono de un turista funciona con normalidad con una SIM extranjera y sin coste alguno, y que un turista que use una SIM egipcia hecha para turistas obtiene una exención de 90 días en cada visita.",
+        "Si prefieres una eSIM local en lugar de una de viaje, ten previsto comprarla en una tienda después de aterrizar y llevar tu pasaporte. Orange incluye a los turistas entre los clientes elegibles, pero sus propias preguntas frecuentes también señalan que los extranjeros necesitan una residencia válida, así que conviene preguntar primero en el mostrador.",
+        "Descarga mapas sin conexión y guarda las direcciones de tu hotel, los billetes de tren y los detalles de recogida de las excursiones antes de los traslados por carretera entre Luxor, Asuán y Abu Simbel, o de una jornada en barco por el Mar Rojo."
+      ]
+    },
+    "zh": {
+      "intro": "埃及有四家移动网络运营商：Vodafone、Orange、etisalat by e& 和 WE（埃及电信）。这四家都销售各自的eSIM线路，但都是面向已经身在埃及境内的人群设计的：Orange在其门店办理新号，Vodafone通过门店和eShop销售，而etisalat和WE则表示eSIM资料只能在埃及境内下载。国际第三方服务商提供的旅行eSIM是另一种产品，可以在出发前就安装好；由于它依附于上述某一家网络运营商，购买前请务必确认它标注的是哪一家。",
+      "coverage": "开罗、吉萨、卢克索、阿斯旺、亚历山大以及红海沿岸的度假小镇信号稳定。整体覆盖主要围绕尼罗河谷和各城镇展开，因此在城镇之间沿河的某些路段、从阿斯旺到阿布辛贝的漫长沙漠公路上，以及在基夫敦群岛（Giftun Islands）等礁石潜点乘船时，信号可能较弱甚至完全没有。",
+      "tips": [
+        "埃及对进口手机收取登记费，但对游客的手机则不收：官方电信服务（Telephony service）说明，游客使用外国SIM卡的手机可以正常使用且无需缴费，而游客使用专为游客设计的埃及SIM卡，每次入境可享受90天的免税优惠。",
+        "如果你想办理本地eSIM而不是旅行eSIM，建议计划落地后到门店购买，并随身携带护照。Orange将游客列为可办理对象，但其官方常见问题解答（FAQ）中也提到外国人需要有效居留证明，因此最好先到柜台询问清楚。",
+        "在卢克索、阿斯旺和阿布辛贝之间的陆路换乘，或是在红海乘船出海之前，请提前下载离线地图，并保存好酒店地址、火车票以及旅行社接送信息。"
+      ]
+    }
   }
 }

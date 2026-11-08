@@ -491,6 +491,96 @@
     "es": "Festival Qingming (observado)",
     "zh": "清明节（顺延）"
   },
+  "Egypt|Armed Forces Day (observed)": {
+    "ko": "국군의 날",
+    "ja": "軍隊記念日",
+    "es": "Día de las Fuerzas Armadas",
+    "zh": "军队节"
+  },
+  "Egypt|Coptic Christmas Day": {
+    "ko": "콥트 성탄절",
+    "ja": "コプト教のクリスマス",
+    "es": "Navidad copta",
+    "zh": "科普特圣诞节"
+  },
+  "Egypt|Day of Arafah (estimated)": {
+    "ko": "아라파의 날",
+    "ja": "アラファの日",
+    "es": "Día de Arafat",
+    "zh": "阿拉法特日"
+  },
+  "Egypt|Eid al-Adha (estimated)": {
+    "ko": "이드 알아드하",
+    "ja": "イード・アル=アドハー",
+    "es": "Eid al-Adha",
+    "zh": "宰牲节"
+  },
+  "Egypt|Eid al-Fitr": {
+    "ko": "이드 알피트르",
+    "ja": "イード・アル=フィトル",
+    "es": "Eid al-Fitr",
+    "zh": "开斋节"
+  },
+  "Egypt|Eid al-Fitr (estimated)": {
+    "ko": "이드 알피트르",
+    "ja": "イード・アル=フィトル",
+    "es": "Eid al-Fitr",
+    "zh": "开斋节"
+  },
+  "Egypt|Islamic New Year (observed, estimated)": {
+    "ko": "이슬람력 신년",
+    "ja": "イスラム暦新年",
+    "es": "Año Nuevo islámico",
+    "zh": "伊斯兰新年"
+  },
+  "Egypt|January 25th Revolution and National Police Day (observed)": {
+    "ko": "1월 25일 혁명 기념일·경찰의 날",
+    "ja": "1月25日革命記念日・警察の日",
+    "es": "Revolución del 25 de Enero y Día de la Policía",
+    "zh": "1月25日革命日暨警察节"
+  },
+  "Egypt|July 23 Revolution Day": {
+    "ko": "7월 23일 혁명 기념일",
+    "ja": "7月23日革命記念日",
+    "es": "Día de la Revolución del 23 de Julio",
+    "zh": "7月23日革命日"
+  },
+  "Egypt|June 30 Revolution Day (observed)": {
+    "ko": "6월 30일 혁명 기념일",
+    "ja": "6月30日革命記念日",
+    "es": "Día de la Revolución del 30 de Junio",
+    "zh": "6月30日革命日"
+  },
+  "Egypt|Labor Day": {
+    "ko": "노동절",
+    "ja": "メーデー",
+    "es": "Día del Trabajo",
+    "zh": "劳动节"
+  },
+  "Egypt|Prophet's Birthday (estimated)": {
+    "ko": "이슬람 예언자 탄신일",
+    "ja": "マウリド(預言者生誕祭)",
+    "es": "Mawlid",
+    "zh": "圣纪节"
+  },
+  "Egypt|Sinai Liberation Day": {
+    "ko": "시나이 해방 기념일",
+    "ja": "シナイ半島解放記念日",
+    "es": "Día de la Liberación del Sinaí",
+    "zh": "西奈解放日"
+  },
+  "Egypt|Sinai Liberation Day (observed)": {
+    "ko": "시나이 해방 기념일",
+    "ja": "シナイ半島解放記念日",
+    "es": "Día de la Liberación del Sinaí",
+    "zh": "西奈解放日"
+  },
+  "Egypt|Spring Festival": {
+    "ko": "샴 엘 네심",
+    "ja": "春香祭",
+    "es": "Sham el-Nessim",
+    "zh": "闻风节"
+  },
   "France|All Saints' Day": {
     "ko": "만성절",
     "ja": "諸聖人の日",

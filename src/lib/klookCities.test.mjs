@@ -50,3 +50,13 @@ test('a city missing from a Klook locale goes to its English page instead', () =
   assert.equal(klookCityDest('Bodrum', 'es', 'Turkey'), `https://www.klook.com/en-US/destination/c${b.id}-${b.slug}/`);
   assert.equal(klookCityDest('Bodrum', 'ko', 'Turkey'), `https://www.klook.com/ko/destination/c${b.id}-${b.slug}/`);
 });
+
+// 2026-11-09: Klook's sitemap has one Alexandria and it is the American city
+// (c704012), and c531 is 'Luxor Governate', in the en-US sitemap only.
+test('Egypt: Alexandria searches with its country, Luxor is the city page', () => {
+  assert.equal(klookCityDest('Alexandria', 'en-US', 'Egypt'), 'https://www.klook.com/en-US/search/?query=Alexandria%20Egypt');
+  assert.equal(klookCityDest('Luxor', 'ko', 'Egypt'), 'https://www.klook.com/ko/destination/c365435-luxor/');
+  assert.equal(klookCityDest('Cairo', 'es', 'Egypt'), 'https://www.klook.com/es/destination/c284-cairo/');
+  const wrong = Object.entries(KLOOK_CITY).filter(([, c]) => c.id === 704012 || c.id === 531).map(([k]) => k);
+  assert.deepEqual(wrong, [], `these rows point at the wrong place: ${wrong.join(', ')}`);
+});

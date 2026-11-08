@@ -44,6 +44,10 @@ import holidays
 # days the government sets each year "con fines turísticos". Provincial days
 # such as Salta's Güemes are already national; the rest are not on this list
 # (2026-10-25).
+# Egypt (EG) stays on the default "public" with no subdivision: Coptic Christmas,
+# the revolution and Sinai days, Sham El-Nessim and the Islamic feasts. Days the
+# government moves to a Thursday carry "(observed)" and the moon-dependent ones
+# "(estimated)", as the UAE's and India's rows already do (2026-11-09).
 CATEGORIES = {"HK": ("optional",), "MO": ("optional",)}
 
 # The UK's no-subdivision set is only what all four nations share, which drops

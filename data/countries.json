@@ -833,6 +833,32 @@
         "Mar del Plata"
       ],
       "continent": "South America"
+    },
+    {
+      "name": "Egypt",
+      "iso2": "eg",
+      "priority": 30,
+      "slug": "egypt",
+      "flag": "🇪🇬",
+      "active": true,
+      "blurb": "The Pyramids of Giza and the Great Sphinx at the edge of Cairo, the temples and royal tombs of Luxor, the Nile running south past Edfu and Kom Ombo to Aswan and the colossal facade of Abu Simbel, with Alexandria on the Mediterranean and coral reefs along the Red Sea. Most trips follow the river from Cairo to Aswan by train, plane or cruise, then add a few days on the coast.",
+      "regions": [
+        "Cairo",
+        "Giza",
+        "Luxor",
+        "Aswan",
+        "Abu Simbel",
+        "Edfu",
+        "Kom Ombo",
+        "Dendera",
+        "Alexandria",
+        "Hurghada",
+        "El Gouna",
+        "Marsa Alam",
+        "Sharm El Sheikh",
+        "Dahab"
+      ],
+      "continent": "Africa"
     }
   ]
 }

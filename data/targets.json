@@ -3407,6 +3407,335 @@
       "topic": "Torreon del Monje",
       "category": "attraction",
       "query": "Torreon del Monje Mar del Plata Argentina"
+    },
+    {
+      "country": "Egypt",
+      "region": "Cairo",
+      "topic": "Egyptian Museum",
+      "category": "attraction",
+      "query": "Egyptian Museum Tahrir Square Cairo Egypt"
+    },
+    {
+      "country": "Egypt",
+      "region": "Cairo",
+      "topic": "National Museum of Egyptian Civilization",
+      "category": "attraction",
+      "query": "National Museum of Egyptian Civilization Fustat Cairo Egypt"
+    },
+    {
+      "country": "Egypt",
+      "region": "Cairo",
+      "topic": "Khan el-Khalili",
+      "category": "attraction",
+      "query": "Khan el-Khalili bazaar Cairo Egypt"
+    },
+    {
+      "country": "Egypt",
+      "region": "Cairo",
+      "topic": "Saladin Citadel",
+      "category": "attraction",
+      "query": "Saladin Citadel of Cairo Egypt"
+    },
+    {
+      "country": "Egypt",
+      "region": "Cairo",
+      "topic": "Al-Azhar Mosque",
+      "category": "attraction",
+      "query": "Al-Azhar Mosque Cairo Egypt"
+    },
+    {
+      "country": "Egypt",
+      "region": "Cairo",
+      "topic": "Mosque-Madrasa of Sultan Hassan",
+      "category": "attraction",
+      "query": "Mosque Madrasa of Sultan Hassan Cairo Egypt"
+    },
+    {
+      "country": "Egypt",
+      "region": "Cairo",
+      "topic": "Mosque of Ibn Tulun",
+      "category": "hidden-gem",
+      "query": "Mosque of Ibn Tulun Cairo Egypt"
+    },
+    {
+      "country": "Egypt",
+      "region": "Cairo",
+      "topic": "Hanging Church",
+      "category": "attraction",
+      "query": "Hanging Church Coptic Cairo Egypt"
+    },
+    {
+      "country": "Egypt",
+      "region": "Cairo",
+      "topic": "Coptic Museum",
+      "category": "hidden-gem",
+      "query": "Coptic Museum Old Cairo Egypt"
+    },
+    {
+      "country": "Egypt",
+      "region": "Cairo",
+      "topic": "Al-Azhar Park",
+      "category": "attraction",
+      "query": "Al-Azhar Park Cairo Egypt"
+    },
+    {
+      "country": "Egypt",
+      "region": "Cairo",
+      "topic": "Al-Muizz Street",
+      "category": "hidden-gem",
+      "query": "Al-Muizz li-Din Allah Street Islamic Cairo Egypt"
+    },
+    {
+      "country": "Egypt",
+      "region": "Cairo",
+      "topic": "Cairo Tower",
+      "category": "attraction",
+      "query": "Cairo Tower Gezira Cairo Egypt"
+    },
+    {
+      "country": "Egypt",
+      "region": "Giza",
+      "topic": "Great Pyramid of Giza",
+      "category": "attraction",
+      "query": "Great Pyramid of Giza Egypt"
+    },
+    {
+      "country": "Egypt",
+      "region": "Giza",
+      "topic": "Great Sphinx of Giza",
+      "category": "attraction",
+      "query": "Great Sphinx of Giza Egypt"
+    },
+    {
+      "country": "Egypt",
+      "region": "Giza",
+      "topic": "Grand Egyptian Museum",
+      "category": "attraction",
+      "query": "Grand Egyptian Museum Giza Egypt"
+    },
+    {
+      "country": "Egypt",
+      "region": "Giza",
+      "topic": "Saqqara",
+      "category": "attraction",
+      "query": "Saqqara Necropolis Step Pyramid of Djoser Giza Egypt"
+    },
+    {
+      "country": "Egypt",
+      "region": "Giza",
+      "topic": "Bent Pyramid",
+      "category": "hidden-gem",
+      "query": "Bent Pyramid Dahshur Giza Egypt"
+    },
+    {
+      "country": "Egypt",
+      "region": "Giza",
+      "topic": "Red Pyramid",
+      "category": "hidden-gem",
+      "query": "Red Pyramid Dahshur Giza Egypt"
+    },
+    {
+      "country": "Egypt",
+      "region": "Giza",
+      "topic": "Memphis Open Air Museum",
+      "category": "hidden-gem",
+      "query": "Memphis Open Air Museum Mit Rahina Giza Egypt"
+    },
+    {
+      "country": "Egypt",
+      "region": "Luxor",
+      "topic": "Karnak Temple",
+      "category": "attraction",
+      "query": "Karnak Temple Luxor Egypt"
+    },
+    {
+      "country": "Egypt",
+      "region": "Luxor",
+      "topic": "Luxor Temple",
+      "category": "attraction",
+      "query": "Luxor Temple Luxor Egypt"
+    },
+    {
+      "country": "Egypt",
+      "region": "Luxor",
+      "topic": "Valley of the Kings",
+      "category": "attraction",
+      "query": "Valley of the Kings Luxor Egypt"
+    },
+    {
+      "country": "Egypt",
+      "region": "Luxor",
+      "topic": "Temple of Hatshepsut",
+      "category": "attraction",
+      "query": "Mortuary Temple of Hatshepsut Deir el-Bahari Luxor Egypt"
+    },
+    {
+      "country": "Egypt",
+      "region": "Luxor",
+      "topic": "Valley of the Queens",
+      "category": "attraction",
+      "query": "Valley of the Queens Luxor Egypt"
+    },
+    {
+      "country": "Egypt",
+      "region": "Luxor",
+      "topic": "Colossi of Memnon",
+      "category": "attraction",
+      "query": "Colossi of Memnon Luxor Egypt"
+    },
+    {
+      "country": "Egypt",
+      "region": "Luxor",
+      "topic": "Medinet Habu",
+      "category": "hidden-gem",
+      "query": "Medinet Habu Temple of Ramesses III Luxor Egypt"
+    },
+    {
+      "country": "Egypt",
+      "region": "Luxor",
+      "topic": "Ramesseum",
+      "category": "hidden-gem",
+      "query": "Ramesseum Luxor Egypt"
+    },
+    {
+      "country": "Egypt",
+      "region": "Luxor",
+      "topic": "Luxor Museum",
+      "category": "attraction",
+      "query": "Luxor Museum Corniche Luxor Egypt"
+    },
+    {
+      "country": "Egypt",
+      "region": "Aswan",
+      "topic": "Philae Temple",
+      "category": "attraction",
+      "query": "Philae Temple Agilkia Island Aswan Egypt"
+    },
+    {
+      "country": "Egypt",
+      "region": "Aswan",
+      "topic": "Unfinished Obelisk",
+      "category": "attraction",
+      "query": "Unfinished Obelisk Aswan Egypt"
+    },
+    {
+      "country": "Egypt",
+      "region": "Aswan",
+      "topic": "Nubian Museum",
+      "category": "attraction",
+      "query": "Nubian Museum Aswan Egypt"
+    },
+    {
+      "country": "Egypt",
+      "region": "Aswan",
+      "topic": "Elephantine Island",
+      "category": "hidden-gem",
+      "query": "Elephantine Island Aswan Egypt"
+    },
+    {
+      "country": "Egypt",
+      "region": "Aswan",
+      "topic": "Aswan High Dam",
+      "category": "attraction",
+      "query": "Aswan High Dam Egypt"
+    },
+    {
+      "country": "Egypt",
+      "region": "Aswan",
+      "topic": "Mausoleum of Aga Khan",
+      "category": "hidden-gem",
+      "query": "Mausoleum of Aga Khan Aswan Egypt"
+    },
+    {
+      "country": "Egypt",
+      "region": "Abu Simbel",
+      "topic": "Abu Simbel Temples",
+      "category": "attraction",
+      "query": "Abu Simbel Temples Aswan Egypt"
+    },
+    {
+      "country": "Egypt",
+      "region": "Edfu",
+      "topic": "Temple of Edfu",
+      "category": "attraction",
+      "query": "Temple of Horus Edfu Egypt"
+    },
+    {
+      "country": "Egypt",
+      "region": "Kom Ombo",
+      "topic": "Temple of Kom Ombo",
+      "category": "attraction",
+      "query": "Temple of Kom Ombo Egypt"
+    },
+    {
+      "country": "Egypt",
+      "region": "Dendera",
+      "topic": "Dendera Temple Complex",
+      "category": "attraction",
+      "query": "Dendera Temple Complex Qena Egypt"
+    },
+    {
+      "country": "Egypt",
+      "region": "Alexandria",
+      "topic": "Bibliotheca Alexandrina",
+      "category": "attraction",
+      "query": "Bibliotheca Alexandrina Alexandria Egypt"
+    },
+    {
+      "country": "Egypt",
+      "region": "Alexandria",
+      "topic": "Citadel of Qaitbay",
+      "category": "attraction",
+      "query": "Citadel of Qaitbay Alexandria Egypt"
+    },
+    {
+      "country": "Egypt",
+      "region": "Alexandria",
+      "topic": "Catacombs of Kom El Shoqafa",
+      "category": "hidden-gem",
+      "query": "Catacombs of Kom El Shoqafa Alexandria Egypt"
+    },
+    {
+      "country": "Egypt",
+      "region": "Alexandria",
+      "topic": "Pompey's Pillar",
+      "category": "attraction",
+      "query": "Pompey's Pillar Alexandria Egypt"
+    },
+    {
+      "country": "Egypt",
+      "region": "Alexandria",
+      "topic": "Montaza Palace Gardens",
+      "category": "attraction",
+      "query": "Montaza Palace Gardens Alexandria Egypt"
+    },
+    {
+      "country": "Egypt",
+      "region": "Hurghada",
+      "topic": "Giftun Islands",
+      "category": "attraction",
+      "query": "Giftun Islands National Park Hurghada Egypt"
+    },
+    {
+      "country": "Egypt",
+      "region": "Marsa Alam",
+      "topic": "Wadi el Gemal National Park",
+      "category": "hidden-gem",
+      "query": "Wadi El Gemal National Park Marsa Alam Egypt"
+    },
+    {
+      "country": "Egypt",
+      "region": "Sharm El Sheikh",
+      "topic": "Naama Bay",
+      "category": "attraction",
+      "query": "Naama Bay Sharm El Sheikh Egypt"
+    },
+    {
+      "country": "Egypt",
+      "region": "Dahab",
+      "topic": "Blue Hole",
+      "category": "attraction",
+      "query": "Blue Hole Dahab Egypt"
     }
   ]
 }

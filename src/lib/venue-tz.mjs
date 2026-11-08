@@ -42,6 +42,7 @@ export const COUNTRY_TZ = {
   // pre-2009 history: every province has kept UTC-3 with no daylight saving since,
   // so one zone is right for any venue and an unlisted city never falls to null (2026-10-25).
   Argentina: 'America/Argentina/Buenos_Aires',
+  Egypt: 'Africa/Cairo', // zone1970.tab: one zone for the whole country; the zone data carries the daylight saving (2026-11-09)
 };
 
 const ET = 'America/New_York', CT = 'America/Chicago', PT = 'America/Los_Angeles';

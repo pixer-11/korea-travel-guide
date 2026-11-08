@@ -7315,6 +7315,170 @@
           "localName": "Navidad"
         }
       ]
+    },
+    "Egypt": {
+      "holidays": [
+        {
+          "date": "2026-01-07",
+          "name": "Coptic Christmas Day",
+          "localName": "عيد الميلاد المجيد"
+        },
+        {
+          "date": "2026-01-29",
+          "name": "January 25th Revolution and National Police Day (observed)",
+          "localName": "ثورة ٢٥ يناير وعيد الشرطة (يوم تعويضي)"
+        },
+        {
+          "date": "2026-03-20",
+          "name": "Eid al-Fitr",
+          "localName": "عيد الفطر المبارك"
+        },
+        {
+          "date": "2026-03-21",
+          "name": "Eid al-Fitr",
+          "localName": "عيد الفطر المبارك"
+        },
+        {
+          "date": "2026-04-13",
+          "name": "Spring Festival",
+          "localName": "عيد شم النسيم"
+        },
+        {
+          "date": "2026-04-25",
+          "name": "Sinai Liberation Day",
+          "localName": "عيد تحرير سيناء"
+        },
+        {
+          "date": "2026-05-01",
+          "name": "Labor Day",
+          "localName": "عيد العمال"
+        },
+        {
+          "date": "2026-05-26",
+          "name": "Day of Arafah (estimated)",
+          "localName": "وقفة عيد الأضحى المبارك (تقديري)"
+        },
+        {
+          "date": "2026-05-27",
+          "name": "Eid al-Adha (estimated)",
+          "localName": "عيد الأضحى المبارك (تقديري)"
+        },
+        {
+          "date": "2026-05-28",
+          "name": "Eid al-Adha (estimated)",
+          "localName": "عيد الأضحى المبارك (تقديري)"
+        },
+        {
+          "date": "2026-05-29",
+          "name": "Eid al-Adha (estimated)",
+          "localName": "عيد الأضحى المبارك (تقديري)"
+        },
+        {
+          "date": "2026-06-18",
+          "name": "Islamic New Year (observed, estimated)",
+          "localName": "رأس السنة الهجرية (يوم تعويضي تقديري)"
+        },
+        {
+          "date": "2026-07-02",
+          "name": "June 30 Revolution Day (observed)",
+          "localName": "عيد ثورة ٣٠ يونيو (يوم تعويضي)"
+        },
+        {
+          "date": "2026-07-23",
+          "name": "July 23 Revolution Day",
+          "localName": "عيد ثورة ٢٣ يوليو"
+        },
+        {
+          "date": "2026-08-25",
+          "name": "Prophet's Birthday (estimated)",
+          "localName": "المولد النبوي الشريف (تقديري)"
+        },
+        {
+          "date": "2026-10-08",
+          "name": "Armed Forces Day (observed)",
+          "localName": "عيد القوات المسلحة (يوم تعويضي)"
+        },
+        {
+          "date": "2027-01-07",
+          "name": "Coptic Christmas Day",
+          "localName": "عيد الميلاد المجيد"
+        },
+        {
+          "date": "2027-01-28",
+          "name": "January 25th Revolution and National Police Day (observed)",
+          "localName": "ثورة ٢٥ يناير وعيد الشرطة (يوم تعويضي)"
+        },
+        {
+          "date": "2027-03-09",
+          "name": "Eid al-Fitr (estimated)",
+          "localName": "عيد الفطر المبارك (تقديري)"
+        },
+        {
+          "date": "2027-03-10",
+          "name": "Eid al-Fitr (estimated)",
+          "localName": "عيد الفطر المبارك (تقديري)"
+        },
+        {
+          "date": "2027-04-29",
+          "name": "Sinai Liberation Day (observed)",
+          "localName": "عيد تحرير سيناء (يوم تعويضي)"
+        },
+        {
+          "date": "2027-05-01",
+          "name": "Labor Day",
+          "localName": "عيد العمال"
+        },
+        {
+          "date": "2027-05-03",
+          "name": "Spring Festival",
+          "localName": "عيد شم النسيم"
+        },
+        {
+          "date": "2027-05-15",
+          "name": "Day of Arafah (estimated)",
+          "localName": "وقفة عيد الأضحى المبارك (تقديري)"
+        },
+        {
+          "date": "2027-05-16",
+          "name": "Eid al-Adha (estimated)",
+          "localName": "عيد الأضحى المبارك (تقديري)"
+        },
+        {
+          "date": "2027-05-17",
+          "name": "Eid al-Adha (estimated)",
+          "localName": "عيد الأضحى المبارك (تقديري)"
+        },
+        {
+          "date": "2027-05-18",
+          "name": "Eid al-Adha (estimated)",
+          "localName": "عيد الأضحى المبارك (تقديري)"
+        },
+        {
+          "date": "2027-06-10",
+          "name": "Islamic New Year (observed, estimated)",
+          "localName": "رأس السنة الهجرية (يوم تعويضي تقديري)"
+        },
+        {
+          "date": "2027-07-01",
+          "name": "June 30 Revolution Day (observed)",
+          "localName": "عيد ثورة ٣٠ يونيو (يوم تعويضي)"
+        },
+        {
+          "date": "2027-07-23",
+          "name": "July 23 Revolution Day",
+          "localName": "عيد ثورة ٢٣ يوليو"
+        },
+        {
+          "date": "2027-08-14",
+          "name": "Prophet's Birthday (estimated)",
+          "localName": "المولد النبوي الشريف (تقديري)"
+        },
+        {
+          "date": "2027-10-07",
+          "name": "Armed Forces Day (observed)",
+          "localName": "عيد القوات المسلحة (يوم تعويضي)"
+        }
+      ]
     }
   }
 }

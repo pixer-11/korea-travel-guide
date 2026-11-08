@@ -27,6 +27,12 @@ export const RS_CITIES = {
     { city: "Perth", slug: "perth", n: 12 },
     { city: "Canberra", slug: "canberra", n: 4 },
   ],
+  // Added 2026-11-09 with Egypt. Same three rules, pages opened: addressCountry
+  // Egypt on both. Luxor has a page but one store in the sitemap, so it waits.
+  "Egypt": [
+    { city: "Cairo", slug: "cairo", n: 8 },
+    { city: "Giza", slug: "giza", n: 3 },
+  ],
   "France": [
     { city: "Paris", slug: "paris", n: 489 },
     { city: "Marseille", slug: "marseille", n: 91 },
