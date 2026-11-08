@@ -20,6 +20,13 @@ test('the country blurb translator stores only a complete reply, and says when i
   const src = readFileSync(new URL('../translate-country-blurbs.mjs', import.meta.url), 'utf8');
   assert.match(src, /completeToolInput\(msg, LANGS\)/);
   assert.match(src, /process\.exitCode = 1/, 'publish.yml reports a soft failure only on a non-zero exit');
+  assert.match(src, /fixPunctuation\(input\[l\]\)/, 'the Chinese blurb is born with full-width punctuation');
+});
+
+test('no country blurb carries half-width punctuation between Han characters', () => {
+  const blurbs = JSON.parse(readFileSync(new URL('../../src/i18n/country-blurbs.json', import.meta.url), 'utf8'));
+  const bad = Object.entries(blurbs).filter(([, v]) => /[一-鿿][,;:!?][一-鿿]/.test(v.zh ?? '')).map(([k]) => k);
+  assert.deepEqual(bad, []);
 });
 
 // The real 2026-09-05 reply, trimmed: the model closed quickAnswer and opened

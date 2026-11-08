@@ -18,6 +18,7 @@ import { readFile, writeFile } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { completeToolInput } from './lib/tool-spill.mjs';
+import { fixPunctuation } from './fix-cjk-punctuation.mjs';
 
 const COUNTRIES = fileURLToPath(new URL('../data/countries.json', import.meta.url));
 const OUT = fileURLToPath(new URL('../src/i18n/country-blurbs.json', import.meta.url));
@@ -69,7 +70,9 @@ English: ${en}`,
       }],
     });
     const input = completeToolInput(msg, LANGS);
-    table[c.slug] = { ...entry, ...Object.fromEntries(LANGS.map((l) => [l, input[l]])), _en: en };
+    // Half-width commas between Han characters: 10 of 31 blurbs (2026-11-08).
+    // The nightly repair walks the post files and never saw this one.
+    table[c.slug] = { ...entry, ...Object.fromEntries(LANGS.map((l) => [l, l === 'zh' ? fixPunctuation(input[l]).text : input[l]])), _en: en };
     done++;
     console.log(`  ✓ ${c.slug}${staleSource ? ' (source changed)' : ''}`);
   } catch (e) {
