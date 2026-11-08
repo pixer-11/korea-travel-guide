@@ -115,6 +115,33 @@ const mentions = (haystack, needle) => {
   return new RegExp(String.raw`(^|[^\p{L}])${esc}($|[^\p{L}])`, 'iu').test(haystack);
 };
 
+// "Obelisk of Theodosius, from Luxor." names where the stone was cut. The photo
+// is of Istanbul's Hippodrome, and the day Luxor joined the region list it read
+// as the wrong city, which the strip deletes (2026-11-09). "Big Bang (musical
+// group from South Korea)" says the same about people. "from X" places the
+// camera only when its own clause is about a picture: "Photos from Goa",
+// "Views of Misti from Arequipa". Lowercase words may sit between ("from ancient
+// Egypt", "from the temples of Luxor"), unless one of them states a position
+// ("from a rooftop in Mumbai" is where someone stood).
+const ENDS_IN_FROM = /\b[Ff]rom\s+(?:(?!(?:in|at|near|on|over|above)\s)[a-z]+\s+){0,3}$/;
+const PICTURE_CLAUSE = /\b(?:views?|panoram(?:as?|ics?)|photo(?:graph)?s?|pictures?|images?|videos?|scenes?|seen|viewed|shot)\b[^.,;:()]*$/i;
+const namesOnlyAnOrigin = (text, at) => {
+  const before = text.slice(0, at);
+  return ENDS_IN_FROM.test(before) && !PICTURE_CLAUSE.test(before);
+};
+
+/**
+ * Like mentions(), but a name that only says where something came from does
+ * not count. Per field, so a picture word in one category cannot lend itself
+ * to the next.
+ */
+const mentionsAsLocation = (segments, needle) => {
+  if (!needle || needle.length < 3) return false;
+  const esc = needle.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  const re = new RegExp(String.raw`(^|[^\p{L}])${esc}(?=$|[^\p{L}])`, 'giu');
+  return segments.some((seg) => [...seg.matchAll(re)].some((m) => !namesOnlyAnOrigin(seg, m.index + m[1].length)));
+};
+
 /**
  * Like mentions(), but only when the name stands alone as a PLACE — not as the
  * first word of a longer proper noun. "Central Park, NYC" mentions no district
@@ -135,6 +162,7 @@ const mentionsAsPlace = (segments, needle) => {
   for (const seg of segments) {
     for (const m of String(seg ?? '').matchAll(re)) {
       if (/^\s+\p{Lu}/u.test(seg.slice(m.index + m[0].length))) continue;
+      if (namesOnlyAnOrigin(seg, m.index + m[1].length)) continue;
       // A place NAME is capitalised in running text. The i-flag above lets the
       // needle land on a lowercase common word too — "a mosque in the central
       // courtyard" read as Hong Kong's Central and held a Selçuk citadel post
@@ -184,7 +212,7 @@ export function judgeIdentity(meta, claim, world) {
   // A DIFFERENT country, with the post's own country absent, is the strongest
   // signal available and catches the worst class of error — a Mumbai café on a
   // Daegu page, the Singapore Eggslut on a Los Angeles page.
-  const otherCountry = world.countries.find((c) => c !== claim.country && mentions(hay, c));
+  const otherCountry = world.countries.find((c) => c !== claim.country && mentionsAsLocation(fields, c));
   if (otherCountry && !namesCountry) {
     return { verdict: 'contradicts', why: `Commons places this in ${otherCountry}, post says ${claim.country}` };
   }

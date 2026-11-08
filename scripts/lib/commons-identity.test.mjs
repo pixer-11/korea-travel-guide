@@ -318,3 +318,76 @@ test('cleanRecordText: 태그·URL 만 남은 기록은 빈 문자열이 된다'
   assert.equal(cleanRecordText('Pura Luhur Poten, East Java'), 'Pura Luhur Poten, East Java');
   assert.equal(cleanRecordText(null), '');
 });
+
+// ── "from X" 는 그 물건이 온 곳이지 사진을 찍은 곳이 아니다 (11-09) ──────
+// 룩소르가 지역 목록에 들어온 날, 이스탄불 히포드롬 사진의 설명 끝 "from Luxor" 가
+// "다른 도시 사진"으로 읽혔다. 매일 도는 --strip 이 그 사진을 지운다.
+const WORLD_WITH_EGYPT = {
+  countries: [...WORLD.countries, 'Egypt', 'Turkey'],
+  regions: [...WORLD.regions, 'Luxor', 'Istanbul'],
+  regionCountry: new Map([...WORLD.regionCountry, ['Luxor', 'Egypt'], ['Istanbul', 'Turkey']]),
+};
+const ISTANBUL = { country: 'Turkey', region: 'Istanbul' };
+const DAEGU = { country: 'South Korea', region: 'Daegu' };
+
+test("오벨리스크의 원산지를 촬영지로 읽지 않는다 — 'from Luxor' 가 이스탄불 사진을 지울 뻔했다", () => {
+  // 커먼즈가 돌려준 실제 기록: Sultanahmet_Square,_Istanbul_(52121369586).jpg
+  const meta = {
+    description: 'Hippodrome of Constantinople, built in th 3rd century. Obelisk of Theodosius, from Luxor.',
+    categories: ['Sultanahmet Meydanı', 'Images by Ninara', 'Flickr images reviewed by FlickreviewR 2'],
+  };
+  const r = judgeIdentity(meta, ISTANBUL, WORLD_WITH_EGYPT);
+  assert.equal(r.verdict, 'unknown', r.why);
+});
+
+test('나라 이름도 같다 — 어디서 왔는지는 어디에 있는지가 아니다', () => {
+  const metas = [
+    { description: "Cleopatra's Needle, an obelisk brought from Egypt.", categories: [] },
+    { description: 'Big Bang (musical group from South Korea) in 2016', categories: [] },
+    // 앞 분류의 "images" 가 뒤 분류의 from 을 사진 얘기로 만들면 안 된다: 분류는 한 칸씩 본다.
+    { description: 'On stage', categories: ['Flickr images reviewed by FlickreviewR 2', 'Musicians from India in 2017'] },
+    { description: 'Hill Palace, a short day trip from Mumbai.', categories: [] },
+  ];
+  for (const meta of metas) {
+    const r = judgeIdentity(meta, ISTANBUL, WORLD_WITH_EGYPT);
+    assert.notEqual(r.verdict, 'contradicts', `${meta.description}: ${r.why}`);
+  }
+});
+
+test('역방향: 사진 자체가 그곳에서 왔다고 하면 from 이 있어도 증거다', () => {
+  for (const description of [
+    'Photos from Mumbai 2024',
+    'Views of the harbour from Mumbai',
+    'The skyline as seen from Mumbai',
+    'Night panoramics from Mumbai',
+    'Moon photographs from India',
+  ]) {
+    const r = judgeIdentity({ description, categories: [] }, DAEGU, WORLD_WITH_EGYPT);
+    assert.equal(r.verdict, 'contradicts', `${description}: ${r.why}`);
+  }
+});
+
+test('역방향: 같은 기록에 from 없이 적힌 지명은 그대로 증거다', () => {
+  for (const description of ['Karnak, Luxor. Obelisk from Luxor.', 'Obelisk from Egypt, now standing in India']) {
+    const r = judgeIdentity({ description, categories: [] }, ISTANBUL, WORLD_WITH_EGYPT);
+    assert.equal(r.verdict, 'contradicts', `${description}: ${r.why}`);
+  }
+});
+
+test('from 뒤에 수식어가 끼어도, taken from 이어도 원산지는 원산지다', () => {
+  for (const description of [
+    'Statue from ancient Egypt, gift of the museum',
+    'Obelisk taken from Luxor by Theodosius',
+    'A relief from the temples of Luxor',
+  ]) {
+    const r = judgeIdentity({ description, categories: [] }, ISTANBUL, WORLD_WITH_EGYPT);
+    assert.notEqual(r.verdict, 'contradicts', `${description}: ${r.why}`);
+  }
+});
+
+test('역방향: from 구 안에서 in·at 으로 자리를 밝히면 그건 위치다', () => {
+  for (const description of ['Sunset from a rooftop in Mumbai', 'Photo taken from Mumbai']) {
+    const r = judgeIdentity({ description, categories: [] }, DAEGU, WORLD_WITH_EGYPT);
+    assert.equal(r.verdict, 'contradicts', `${description}: ${r.why}`);
+  }
+});
