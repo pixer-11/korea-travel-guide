@@ -37,7 +37,11 @@ test('공연자 사진은 15년이 넘어도 격리하지 않는다 — 분류 �
   const r = run({
     'by-proof': { file, performer: 'Westlife' },
     'by-name': { file: 'Jethro_Tull_-_Warsaw_2009.JPG', performer: 'Jethro Tull' },
-  }, { 'by-proof': { url: `${H}${file}`, category: 'Westlife' } });
+    'other-spelling': { file: 'Nobel_Concert_2009_stage.jpg', performer: 'BIGBANG' },
+  }, {
+    'by-proof': { url: `${H}${file}`, category: 'Westlife' },
+    'other-spelling': { url: `${H}Nobel_Concert_2009_stage.jpg`, category: 'Big Bang (musical group from South Korea)' },
+  });
   assert.equal(r.status, 0, r.out);
   assert.doesNotMatch(r.out, /ARCHIVE-PHOTO/);
 });
@@ -47,12 +51,16 @@ test('행사 분류 사진과 그 공연자의 것이 아닌 옛 사진은 계�
   const r = run({
     'event-category': { file: toray },
     'other-photo': { file: 'Misano_paddock_1986.jpg', performer: 'Westlife' },
+    // 공연자가 지정된 글이어도 행사 분류 사진은 그 공연자의 사진이 아니다
+    'named-with-event-category': { file: toray, performer: 'Naomi Osaka' },
   }, {
     'event-category': { url: `${H}${toray}`, category: '2009 Toray Pan Pacific Open' },
+    'named-with-event-category': { url: `${H}${toray}`, category: '2009 Toray Pan Pacific Open' },
     // 증거가 있어도 지금 사진이 아니면 증거가 아니다
     'other-photo': { url: `${H}Westlife_2024.jpg`, category: 'Westlife' },
   });
   assert.equal(r.status, 1, r.out);
   assert.match(r.out, /ARCHIVE-PHOTO event-category\.md/);
   assert.match(r.out, /ARCHIVE-PHOTO other-photo\.md/);
+  assert.match(r.out, /ARCHIVE-PHOTO named-with-event-category\.md/);
 });

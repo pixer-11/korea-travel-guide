@@ -5,7 +5,7 @@
 //   node scripts/lib/event-file-identity.test.mjs
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { foreignInFilename, geoTokens, spelledOutInitials, titleWordsInFile, fileSpellsEventName, fileIdentifiesEvent } from './event-file-identity.mjs';
+import { foreignInFilename, geoTokens, spelledOutInitials, titleWordsInFile, fileSpellsEventName, fileIdentifiesEvent, isPerformerPhoto } from './event-file-identity.mjs';
 import { tokens, keyToken, isCommonAnchor } from './commons.mjs';
 import { readFileSync } from 'node:fs';
 import { eventProperName } from '../../src/lib/eventName.mjs';
@@ -403,4 +403,70 @@ test('심사: 다른 행사는 넓혀도 계속 걸린다', () => {
 test('심사: 파일이 행사 이름을 통째로 쓰면 순찰처럼 인정한다', () => {
   assert.equal(fileSpellsEventName(U('.Feast_at_Joyland_Festival,_November_2024.jpg'), 'Joyland Festival: Dates, Tickets & Venue (Jakarta)', REAL_GEO), true);
   assert.equal(fileSpellsEventName(U('Jean_Pack_at_River_Runs_Round_festival.jpg'), 'ROUND Festival (ASEAN-Korea Music Festival): Dates (Incheon)', REAL_GEO), false);
+});
+
+// ── 2026-11-08 독립 검토 ──
+// 회차 규칙이 서수 뒤의 일반어까지 같은 시리즈로 쳐서 남의 기념 투어와 다른 종목의 컵이
+// 심사를 통과했고, 반대로 서수 없는 지난 회차(Grey_Cup,_2022)는 못 알아봤다. grey 도 cup 도
+// 흔한 단어라 "일반어면 회차가 아니다"로는 둘을 못 가른다. 가르는 것은 번호의 자리다.
+const GREY = { title: '113th Grey Cup: Dates, Tickets & Venue (Calgary)', region: 'Calgary' };
+
+test('심사: 남의 기념 투어와 다른 종목의 컵은 번호가 붙어도 회차가 아니다', () => {
+  const pentagon = { title: 'Pentagon 10th Anniversary Tour: Dates, Tickets & Venue (Paris)', region: 'Paris', eventPerformer: { name: 'Pentagon' } };
+  for (const f of ['ZEROBASEONE_2nd_Anniversary_Tour_Seoul.jpg', 'ZEROBASEONE_10th_Anniversary_Tour_Seoul.jpg', 'HONNE_Anniversary_Tour_Paris.jpg']) {
+    assert.equal(fileIdentifiesEvent(U(f), pentagon, REAL_GEO), false, f);
+  }
+  const chess = { title: '5th President Cup (Chess): Dates, Tickets & Venue (Tashkent)', region: 'Tashkent' };
+  for (const f of ['4th_President_Cup_Golf_Dhaka.jpg', 'President_Cup_Golf_Dhaka_2022.jpg']) {
+    assert.equal(fileIdentifiesEvent(U(f), chess, REAL_GEO), false, f);
+  }
+  const ok = (title, file, region) => fileIdentifiesEvent(U(file), { title, region }, REAL_GEO);
+  assert.equal(ok('Biyaheng Bente 20th Anniversary Concert: Dates (Santa Rosa)', 'Bente_Hansen_20th_Birthday.jpg', 'Santa Rosa'), false, '번호가 같아도 증거가 아니다');
+  assert.equal(ok('3rd Flower Festival: Dates (Hoi An)', '2nd_Flower_Festival_Boston.jpg', 'Hoi An'), false, '행사 종류 단어가 든 이름은 시리즈가 아니다');
+  assert.equal(ok('5th Da Lat: Dates (Da Lat)', '4th_Da_Lat_Marathon_2024.jpg', 'Da Lat'), false, '번호 뒤 두 단어가 도시면 시리즈가 아니다');
+});
+
+test('심사: 번호로 시작하는 시리즈는 번호 없는 지난 회차 파일도 알아본다', () => {
+  for (const f of ['111th_Grey_Cup,_Trophy.jpg', 'Grey_Cup,_2022.jpg', 'Grey_Cup_Trophy_2017.jpg', '2010_Grey_Cup,_game_action.jpg', 'Grey_Cup!_07122006.jpg',
+    'Grey_cup_021_(633569329).jpg', '3840px-Grey_Cup_(67793202).jpg', 'John_Diefenbaker_at_Grey_Cup_Final_(50539908663).jpg',
+    'Green_Day_playing_the_half-time_show_at_the_110th_Grey_Cup_in_Hamilton.jpg']) {
+    assert.equal(fileIdentifiesEvent(U(f), GREY, REAL_GEO), true, f);
+  }
+  assert.deepEqual(titleWordsInFile('113th Grey Cup – What to Know (Calgary)', U('Grey_Cup,_2022.jpg'), GREY), ['grey', 'cup'], '콜론 대신 대시로 끝나는 제목');
+});
+
+test('심사: 시리즈 이름은 두 단어가 붙어 있어야 하고, 앞에 주인이 있으면 아니다', () => {
+  assert.deepEqual(titleWordsInFile(GREY.title, U('111th_Grey_Goose_Party.jpg'), GREY), ['grey'], '둘째 단어가 달라도 회차로 치면 안 된다');
+  assert.deepEqual(titleWordsInFile('Royal Grey Cup: Dates', U('Grey_Cup_2022.jpg')), ['grey'], '번호로 시작하지 않는 제목은 시리즈가 아니다');
+  for (const f of ['111th_Grey_Goose_Party.jpg', 'Grey_Goose_Cup_2022.jpg', 'Earl_Grey_Cup_of_tea.jpg', 'Miss_Grey_Cup_VPL_42790_(15894815645).jpg']) {
+    assert.equal(fileIdentifiesEvent(U(f), GREY, REAL_GEO), false, f);
+  }
+});
+
+test('공연자 사진: 증거의 분류가 그 공연자의 것일 때만 인정한다', () => {
+  const url = U('Stage_show_2009.jpg');
+  for (const [act, category] of [
+    ['BIGBANG', 'Big Bang (musical group from South Korea)'], ['iKON', 'IKon (musical group)'], ['XG', 'XG'],
+    ['aespa', 'Aespa (musical group)'], ['Maria Becerra', 'María Becerra'], ['Jesse & Joy', 'Jesse & Joy'],
+  ]) assert.equal(isPerformerPhoto(url, act, { url, category }), true, act);
+  assert.equal(isPerformerPhoto(url, 'Naomi Osaka', { url, category: '2009 Toray Pan Pacific Open' }), false, '행사 분류');
+  assert.equal(isPerformerPhoto(url, 'XG', { url, category: '2009 XG Cup' }), false, '이름이 일부만 같은 행사');
+  assert.equal(isPerformerPhoto(url, 'Westlife', { url: U('Other.jpg'), category: 'Westlife' }), false, '다른 사진의 증거');
+  assert.equal(isPerformerPhoto(url, 'Westlife', { url }), false, '분류가 없는 증거');
+  assert.equal(isPerformerPhoto(url, '', { url, category: 'Westlife' }), false, '공연자가 없으면 묻지 않는다');
+  assert.equal(isPerformerPhoto(url, '소지섭', { url }), false, '비교할 글자가 없으면 증거가 아니다');
+  assert.equal(isPerformerPhoto(U('Jethro_Tull_-_Warsaw_2009.JPG'), 'Jethro Tull', undefined), true, '파일명이 이름을 쓰면 증거가 없어도 된다');
+  // 같은 질문을 하는 다른 경로도 같은 함수를 쓴다
+  assert.match(readFileSync('scripts/upgrade-performer-heroes.mjs', 'utf8'), /isPerformerPhoto\(cur, act, proof\[slug\]\)/);
+  assert.match(readFileSync('scripts/audit-new-post-identity.mjs', 'utf8'), /isPerformerPhoto\(hero\.url, data\.eventPerformer\?\.name, categoryProof\[/);
+});
+
+// 위 patrol() 도우미는 약어를 손으로 넣는다. 실제 세 경로가 넣는지는 여기서만 본다.
+test('풀어 쓴 약어는 세 경로 모두 신원 판정에 넘긴다', () => {
+  for (const file of ['scripts/backfill-photos-alt.mjs', 'scripts/discover-events.mjs', 'scripts/upgrade-hero-width.mjs']) {
+    const src = readFileSync(file, 'utf8');
+    const set = /knownTok = new Set\(\[[\s\S]*?\]\);/.exec(src)?.[0] ?? '';
+    assert.match(set, /\.\.\.spelledOutInitials\(/, file);
+    assert.match(src, /known: knownTok/, file);
+  }
 });

@@ -361,6 +361,7 @@ for (const f of files) {
 
   const ctx = { name: venueName, category: data.category, region: data.region, country: data.country, eventMode: isEvent, venue: isEvent ? (data.eventVenue || '') : '' };
   let cands = [];
+  let cooling = false; // text searches rest tonight, so an empty night proves nothing
   if (isEvent) {
     // An event's correct hero is the ACT or the SPORT, not a building —
     // Foursquare/Flickr venue search has nothing to offer here (S874: event
@@ -411,8 +412,8 @@ for (const f of files) {
     const budget = candidateBudget(sharedWith ? { want: SHARED_HERO_WANT } : {});
     // The text searches are what kept feeding the audit its near-misses. The
     // category tiers below carry their own proof and stay open.
-    const cooling = !ONLY.includes(slug) && auditStripCooling(auditStore, slug, { stillWrong: (u) => !fileIdentifiesEvent(u, data, geoTokens(world)) });
-    if (cooling) console.log(`   ${slug}: the identity audit took off two photos lately — text searches rest, the city tier fills this one`);
+    cooling = !ONLY.includes(slug) && auditStripCooling(auditStore, slug, { stillWrong: (u) => !fileIdentifiesEvent(u, data, geoTokens(world)) });
+    if (cooling) console.log(`   ${slug}: the identity audit took off two photos lately — text searches rest, night not counted`);
     while (!cooling && budget.keepGoing()) {
       budget.turned();
       let pick = null;
@@ -803,7 +804,10 @@ for (const f of files) {
   if (!done && !visionOutage) {
     unfixed++;
     rewriteList.push(slug);
-    retryCount[slug] = (retryCount[slug] ?? 0) + 1;
+    // A night the text searches rested proves nothing, like a vision outage:
+    // counting it had the Hangzhou BWF guide "paused after 7 nights" a month
+    // before the event, with one search a month left once the rest was over.
+    if (!cooling) retryCount[slug] = (retryCount[slug] ?? 0) + 1;
     // Accuracy rule: a KNOWN-wrong photo may not stay live — quarantine until a
     // real photo or a venue rewrite restores the post. A post with NO photo
     // has nothing wrong on the page: events publish photoless by policy

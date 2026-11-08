@@ -112,8 +112,8 @@ for (const f of files) {
     // A photo of the named performer is excused at any age: "any photo of that
     // singer or band" is the owner's rule (2026-09-07, 10-06), and the patrol
     // answered this hold by fitting another old photo of the same act, 12 to 75
-    // minutes later, on six of ten guides. Only with a performer: the proof file
-    // also holds event-category finds, and those are what the 15-year rule is for.
+    // minutes later, on six of ten guides. Only a category named for that act: the
+    // proof file also holds event-category finds, which the 15-year rule is for.
     const performerPhoto = isPerformerPhoto(hero.url, data.eventPerformer?.name, categoryProof[f.replace(/\.md$/, '')]);
     if (a && !recurring && !cityTier && !performerPhoto) say('ARCHIVE-PHOTO', f, `이벤트 대표사진이 ${a.replace('archive-', '')}년 사진`);
   }

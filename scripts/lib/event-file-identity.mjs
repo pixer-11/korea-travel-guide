@@ -40,7 +40,7 @@ import { GEO_STOP } from './images.mjs';
 import { readFileSync } from 'node:fs';
 import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { eventProperName } from '../../src/lib/eventName.mjs';
+import { eventProperName, eventSchemaName } from '../../src/lib/eventName.mjs';
 
 // A city our guides call one thing and its own photographers another. Only
 // cities the site actually covers, and only names that are not a spelling
@@ -283,10 +283,15 @@ export function fileNamesPerformer(url, performer, { singleWord = true } = {}) {
 // Is this hero the performer's own picture, by either proof we accept: the file
 // names the act, or the patrol took it from the act's Commons category and wrote
 // that down (Westlife2, Big_Bang and 소지섭 files never spell the act as we do).
-// No performer, no answer: the proof file also records event-category finds.
+// No performer, no answer: the proof file also records event-category finds, and
+// a 2009 Toray Pan Pacific Open photo is not Naomi Osaka's because her guide wears
+// it. So the category has to be the act's own, compared without spaces or Commons'
+// bracket: BIGBANG is filed as "Big Bang (musical group from South Korea)".
+const actKey = (name) => allWords(String(name ?? '').replace(/\s*\(.*\)\s*$/, '')).join('');
 export function isPerformerPhoto(url, performer, proof) {
   if (!performer) return false;
-  return proof?.url === url || fileNamesPerformer(url, performer);
+  const act = actKey(performer);
+  return (Boolean(act) && proof?.url === url && actKey(proof?.category) === act) || fileNamesPerformer(url, performer);
 }
 
 // Returns '' when the file is identity-safe, otherwise the leftover words that
@@ -437,9 +442,20 @@ export function foreignInFilename(url, { known, anchor = '', via = '', geo = nul
 const TITLE_STOP = new Set(['the', 'of', 'in', 'at', 'and', 'an', 'guide', 'travel', 'jpg', 'jpeg',
   'png', 'file', 'commons', 'wikipedia', 'thumb', 'live', 'concert', 'tour', 'world', 'festival',
   'tickets', 'dates', 'venue', 'city', 'show', 'music', 'performing', 'during', 'stage', 'know',
-  'what', 'fest']);
+  'what', 'fest', 'anniversary']);
 
 const ORDINAL = /^\d+(st|nd|rd|th)$/;
+
+// A title that opens with its number and then says just two words names a
+// numbered series: "113th Grey Cup". Not "Pentagon 10th Anniversary Tour", where
+// the number is the act's own and any band's anniversary tour has the same words.
+// Not "5th President Cup (Chess)", where the third word is all that separates it
+// from a golf President Cup. Not two words that are the city or say nothing.
+function numberedSeries(title, city) {
+  const [edition, first, second, ...more] = allWords(eventSchemaName(title).split(':')[0]).map(samePlace);
+  if (!ORDINAL.test(edition ?? '') || !second || more.length) return null;
+  return [first, second].some((w) => TITLE_STOP.has(w) || city.includes(w)) ? null : [first, second];
+}
 
 // The initials of a name our own title spells out: "ASEAN-Korea Music Festival"
 // is filed on Commons as AKMF. Four words at least. eventAcronym refuses to
@@ -463,7 +479,8 @@ export function spelledOutInitials(title) {
  * @returns {string[]}
  */
 export function titleWordsInFile(title, url, { region = '' } = {}) {
-  const keep = (w) => w.length > 3 && !TITLE_STOP.has(w) && !/^\d+$/.test(w);
+  // A number is an edition, never identity: "10th" in both names proves nothing.
+  const keep = (w) => w.length > 3 && !TITLE_STOP.has(w) && !/^\d+$/.test(w) && !ORDINAL.test(w);
   const fileAll = fileWords(url).map(samePlace);
   const titleAll = allWords(title).map(samePlace);
   const fileToks = fileAll.filter(keep);
@@ -483,15 +500,15 @@ export function titleWordsInFile(title, url, { region = '' } = {}) {
     if (!TITLE_STOP.has(w) && !isCommonAnchor(w) && fileAll.includes(w)) hit.add(w);
   }
   for (const w of spelledOutInitials(title)) if (fileAll.includes(w)) hit.add(w);
-  // "111th Grey Cup" is a past edition of "113th Grey Cup": another number in
-  // front of the same two words is the same series. Not when those two words
-  // are the city ("11th Da Lat …", "10th Da Lat Marathon"): that is just the city.
+  // "111th Grey Cup" and "Grey Cup, 2022" are both past editions of the 113th, and
+  // the series' own name is the evidence: cup is too short and grey too ordinary
+  // for the rules above. A word in front says whose it is ("Earl Grey Cup", "Miss
+  // Grey Cup"); a number, a year or "at the" does not.
   const city = allWords(region).map(samePlace);
-  titleAll.forEach((w, i) => {
-    if (!ORDINAL.test(w) || !titleAll[i + 2] || city.includes(titleAll[i + 1])) return;
-    fileAll.forEach((f, j) => {
-      if (ORDINAL.test(f) && f !== w && fileAll[j + 1] === titleAll[i + 1] && fileAll[j + 2] === titleAll[i + 2]) hit.add(f);
-    });
+  const series = numberedSeries(title, city);
+  if (series) fileAll.forEach((f, j) => {
+    const before = fileAll[j - 1];
+    if (f === series[0] && fileAll[j + 1] === series[1] && (!before || /\d/.test(before) || TITLE_STOP.has(before))) series.forEach((w) => hit.add(w));
   });
   // A city of short words only ("Da Lat", "Hoi An") never survives the length
   // filter, however plainly the file says it. "Da Nang" is already counted.
