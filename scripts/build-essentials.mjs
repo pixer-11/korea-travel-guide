@@ -22,6 +22,7 @@ import { slugify } from './lib/slugify.mjs';
 import { HOUSE_STYLE } from './lib/prose-style.mjs';
 import { editFrontmatter, readFrontmatter } from './lib/frontmatter-edit.mjs';
 import { REQUIRED_H2, carryExtraSections, requiredOnly } from './lib/essentials-sections.mjs';
+import { runBatch } from './lib/claude-batch.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, '..');
@@ -41,7 +42,8 @@ function recentlyReviewed(md) {
   return days < REFRESH_DAYS;
 }
 
-async function research(country, baseline) {
+// One request, so a batched first attempt and a direct call cannot drift apart.
+function researchParams(country, baseline) {
   const now = new Date();
   const monthYear = now.toLocaleString('en-US', { month: 'long', year: 'numeric' });
   // The existing guide goes in as the starting point. Writing from nothing each
@@ -65,7 +67,7 @@ async function research(country, baseline) {
     `- Do NOT invent specifics you couldn't verify. No preamble; output ONLY the markdown guide.\n` +
     HOUSE_STYLE;
 
-  const msg = await client.messages.create({
+  return {
     model: MODEL,
     // 3000 truncated guides mid-section (south-korea.md shipped with only 2 of 6
     // H2s), so this was raised to 5000 — and on 2026-09-01 japan and vietnam
@@ -77,7 +79,12 @@ async function research(country, baseline) {
     max_tokens: 8000,
     tools: [{ type: 'web_search_20250305', name: 'web_search', max_uses: 6 }],
     messages: [{ role: 'user', content: prompt }],
-  });
+  };
+}
+
+// `reply`: the answer a batch already fetched for this country.
+async function research(country, baseline, reply = null) {
+  const msg = reply || await client.messages.create(researchParams(country, baseline));
   // The ceiling will be too low again for some future country. This is the
   // check that does not care: the API states plainly when it stopped because it
   // ran out of room, and a guide cut off mid-sentence must never be written to
@@ -99,6 +106,8 @@ async function main() {
   console.log(`\n📘  Essentials — ${active.map((c) => c.name).join(', ')}${FORCE ? ' (FORCE)' : ''}\n`);
   let made = 0, skipped = 0, failed = 0;
 
+  // Decided before any model call, so a batch can carry exactly these countries.
+  const due = [];
   for (const c of active) {
     const file = join(OUT_DIR, `${c.slug}.md`);
     const existing = existsSync(file) ? await readFile(file, 'utf8') : null;
@@ -115,7 +124,25 @@ async function main() {
       const baseline = existing && oldFm?.lastReviewed
         ? { reviewed: new Date(oldFm.lastReviewed).toISOString().slice(0, 10), body: requiredOnly(oldBody) }
         : null;
-      let body = await research(c.name, baseline);
+      due.push({ c, file, existing, oldFm, oldBody, baseline });
+    } catch (e) {
+      failed++;
+      console.log(`  ⚠️  ${c.name} — ${e.message}`);
+    }
+  }
+
+  // The monthly refresh has no one waiting on it, so its first attempts go out
+  // as one batch at half price (web search is still billed per search). Asked
+  // for by that workflow only: publish.yml calls this for a new country inside
+  // a job that budgets its own time. Whatever the batch does not return is
+  // researched directly below, so a slow batch costs only time.
+  const firsts = process.env.ESSENTIALS_BATCH === '1'
+    ? await runBatch(client, due.map(({ c, baseline }) => ({ id: c.name, params: researchParams(c.name, baseline) })), { waitMin: 60 })
+    : new Map();
+
+  for (const { c, file, existing, oldFm, oldBody, baseline } of due) {
+    try {
+      let body = await research(c.name, baseline, firsts.get(c.name) ?? null);
       // strip an accidental leading markdown fence
       body = body.replace(/^```(markdown)?\n/i, '').replace(/\n```\s*$/i, '').trim();
       // A web-search run interleaves the model's working notes between tool

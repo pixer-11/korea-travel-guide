@@ -31,6 +31,7 @@ import { srcHashOfPostFile } from './lib/src-hash.mjs';
 import { paragraphDiff, recordRepair, pruneRecords, loadRecords, saveRecords, cleanRepairOutput } from './lib/prose-patch.mjs';
 import { recordBacksQuote } from './lib/record-claim.mjs';
 import { isStableBackground } from './lib/stable-background.mjs';
+import { runBatch } from './lib/claude-batch.mjs';
 
 const POSTS = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
 const AUDIT = fileURLToPath(new URL('../data/full-audit.json', import.meta.url));
@@ -61,10 +62,11 @@ const RULES = {
     'This span contains an obvious writing error — broken grammar, a contradiction, a nonsense claim. Fix it minimally.',
 };
 
-async function repair(body, findings, title) {
+// One request, so a batched first attempt and a direct call cannot drift apart.
+function repairParams(body, findings, title) {
   const list = findings.map((f, i) =>
     `${i + 1}. [${f.type}] quoted span: "${f.quote}"\n   ${RULES[f.type] || 'Fix this span.'}`).join('\n');
-  const msg = await client.messages.create({
+  return {
     model: MODEL,
     max_tokens: 8000,
     messages: [{
@@ -86,7 +88,12 @@ Reply with ONLY the full repaired markdown body. No preamble, no code fence.
 ---
 ${body}`,
     }],
-  });
+  };
+}
+
+// `reply`: the answer a batch already fetched for this post.
+async function repair(body, findings, title, reply = null) {
+  const msg = reply || await client.messages.create(repairParams(body, findings, title));
   return (msg.content.find((c) => c.type === 'text')?.text || '').trim();
 }
 
@@ -94,15 +101,20 @@ const audit = JSON.parse(await readFile(AUDIT, 'utf8'));
 const rows = (Array.isArray(audit) ? audit : audit.results || Object.values(audit))
   .filter((r) => Array.isArray(r.prose) && r.prose.length && r.slug);
 
-let done = 0, skipped = 0, failed = 0;
-const patches = loadRecords();
-for (const row of rows) {
-  if (done >= LIMIT) break;
+// What a row still asks the model to fix, or null when nothing does. Worked out
+// once per row: the batch below must pick the very posts the loop will reach.
+const candidates = new Map();
+async function candidate(row) {
+  if (!candidates.has(row)) candidates.set(row, await readCandidate(row));
+  return candidates.get(row);
+}
+
+async function readCandidate(row) {
   const path = join(POSTS, `${row.slug}.md`);
-  if (!existsSync(path)) { skipped++; continue; }
+  if (!existsSync(path)) return null;
   const raw = await readFile(path, 'utf8');
   const cut = raw.indexOf('\n---', 3);
-  let fm; try { fm = yaml.load(raw.slice(4, cut)); } catch { skipped++; continue; }
+  let fm; try { fm = yaml.load(raw.slice(4, cut)); } catch { return null; }
   const body = raw.slice(cut + 4);
 
   // Only act on findings whose quoted span is still present — the post may have
@@ -155,13 +167,38 @@ for (const row of rows) {
       return !verified;
     });
   }
-  if (!live.length) { skipped++; continue; }
+  return live.length ? { path, raw, cut, fm, body, live } : null;
+}
+
+// The weekly run has no one waiting on it, so its first attempts go out as one
+// batch at half price. The loop is unchanged: it still stops at LIMIT repairs,
+// and a post it reaches past the batched ones (an earlier repair failed) or one
+// the batch did not return is asked directly, as before. A dry run is someone
+// reading the rewrites, so it goes direct.
+const firsts = new Map();
+if (!DRY) {
+  const asks = [];
+  for (const row of rows) {
+    if (asks.length >= LIMIT) break;
+    const c = await candidate(row);
+    if (c) asks.push({ id: row.slug, params: repairParams(c.body.trim(), c.live, c.fm.title) });
+  }
+  for (const [id, msg] of await runBatch(client, asks, { waitMin: 60 })) firsts.set(id, msg);
+}
+
+let done = 0, skipped = 0, failed = 0;
+const patches = loadRecords();
+for (const row of rows) {
+  if (done >= LIMIT) break;
+  const found = await candidate(row);
+  if (!found) { skipped++; continue; }
+  const { path, raw, cut, fm, body, live } = found;
 
   console.log(`\n📝 ${row.slug} — ${live.map((f) => f.type).join(', ')}`);
   for (const f of live) console.log(`   « ${String(f.quote).slice(0, 90)} »`);
 
   let out;
-  try { out = await repair(body.trim(), live, fm.title); }
+  try { out = await repair(body.trim(), live, fm.title, firsts.get(row.slug) ?? null); }
   catch (e) { console.log(`   ⚠️  model error — left alone (${String(e.message).slice(0, 60)})`); failed++; continue; }
 
   // Guards: a repair that deletes the article, or that still contains the exact

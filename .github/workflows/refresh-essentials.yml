@@ -30,10 +30,11 @@ jobs:
       - name: Refresh essentials guides
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ESSENTIALS_BATCH: '1'   # first attempts at half price; nobody waits on this job
         # No FORCE: a guide reviewed in the last REFRESH_DAYS (25) is left alone,
         # so a hand-checked correction is not rewritten a few days later. Older
         # guides are updated from their current text, not written from nothing
-        # (see research() in the script).
+        # (see researchParams() in the script).
         run: node scripts/build-essentials.mjs
 
       # Re-translate ONLY the country guides that actually changed this run. This
@@ -47,6 +48,7 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           TRANSLATE_CONCURRENCY: '8'
+          ESSENTIALS_BATCH: '1'
         run: |
           changed=$(git diff --name-only -- src/content/essentials | sed 's|.*/||; s|\.md$||')
           if [ -n "$changed" ]; then

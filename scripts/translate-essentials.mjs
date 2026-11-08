@@ -19,6 +19,7 @@ import yaml from 'js-yaml';
 import { fixCjkBold } from './lib/cjk-bold.mjs';
 import { findToolSpill } from './lib/tool-spill.mjs';
 import { srcHashOfSourceFile, storedHashIn, stampSrcHash } from './lib/src-hash.mjs';
+import { runBatch } from './lib/claude-batch.mjs';
 
 const SRC = fileURLToPath(new URL('../src/content/essentials/', import.meta.url));
 const OUT = fileURLToPath(new URL('../src/content/essentials-i18n/', import.meta.url));
@@ -73,8 +74,9 @@ Body (markdown):
 ${data.body}`;
 }
 
-async function translateOne(langCode, slug, data, hash) {
-  const msg = await client.messages.create({
+// One request, so a batched first attempt and a direct call cannot drift apart.
+function translateParams(langCode, data) {
+  return {
     model: MODEL,
     // 8000 was the source guide's own ceiling; a ja or zh translation of a full
     // guide runs longer than the English it came from, so the translation could
@@ -85,7 +87,12 @@ async function translateOne(langCode, slug, data, hash) {
     tools: [TOOL],
     tool_choice: { type: 'tool', name: 'submit_translation' },
     messages: [{ role: 'user', content: prompt(LANGS[langCode], data) }],
-  });
+  };
+}
+
+// `reply`: the answer a batch already fetched for this job.
+async function translateOne(langCode, slug, data, hash, reply = null) {
+  const msg = reply || await client.messages.create(translateParams(langCode, data));
   // Whatever the ceiling is, never write a translation the API says it had to
   // cut short. A half-sentence is worse than yesterday's translation staying up.
   if (msg.stop_reason === 'max_tokens') {
@@ -179,12 +186,19 @@ for (const f of files) {
 console.log(`${jobs.length} translation(s) across ${count} country guide(s) · missing ${plan.missing} · stale ${plan.stale} · fresh ${plan.fresh} · legacy ${plan.legacy}${stamped ? ` (stamped ${stamped})` : ''}${plan.forced ? ` · forced ${plan.forced}` : ''} · model ${MODEL} · concurrency ${CONCURRENCY}`);
 if (!jobs.length) { console.log('Nothing to translate — all up to date.'); process.exit(0); }
 
+// Same terms as build-essentials: asked for by the monthly refresh only, first
+// attempts at half price, and whatever the batch does not return goes direct.
+const jobId = (j) => `${j.lang}/${j.slug}`;
+const firsts = process.env.ESSENTIALS_BATCH === '1'
+  ? await runBatch(client, jobs.map((j) => ({ id: jobId(j), params: translateParams(j.lang, j.data) })), { waitMin: 60 })
+  : new Map();
+
 let done = 0, failed = 0, next = 0;
 async function worker() {
   while (next < jobs.length) {
     const j = jobs[next++];
     try {
-      await translateOne(j.lang, j.slug, j.data, j.hash);
+      await translateOne(j.lang, j.slug, j.data, j.hash, firsts.get(jobId(j)) ?? null);
       done++;
       console.log(`  OK ${j.lang}/${j.slug}  (${done}/${jobs.length})`);
     } catch (e) {

@@ -27,6 +27,7 @@ import matter from 'gray-matter';
 import Anthropic from '@anthropic-ai/sdk';
 import './lib/claude-meter.mjs'; // counts this file's Claude spend into the cost ledger
 import { verifyHeroImage } from './lib/vision-check.mjs';
+import { runBatch } from './lib/claude-batch.mjs';
 
 const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY, maxRetries: 6 });
 const MODEL = process.env.AUDIT_MODEL || 'claude-sonnet-5';
@@ -35,9 +36,10 @@ const CONCURRENCY = Number(process.env.CONCURRENCY ?? 6);
 const OUT = 'data/full-audit.json';
 const VISION_STORE = 'data/visual-audit.json';
 
-async function editorCheck(post) {
+// One request, so a batched first attempt and a direct call cannot drift apart.
+function editorParams(post) {
   const body = post.content.slice(0, 9000);
-  const msg = await client.messages.create({
+  return {
     model: MODEL,
     // 500 with the model's default reasoning ON: the reasoning ate the budget
     // first and the JSON was cut — ten posts sat in data/full-audit.json with
@@ -68,7 +70,12 @@ async function editorCheck(post) {
         verifiedBlock(post) +
         `BODY:\n${body}`,
     }],
-  });
+  };
+}
+
+// `reply`: the answer a batch already fetched for this post.
+async function editorCheck(post, reply = null) {
+  const msg = reply || await client.messages.create(editorParams(post));
   const text = msg.content.filter((b) => b.type === 'text').map((b) => b.text).join('');
   if (msg.stop_reason === 'max_tokens') throw new Error('editor reply cut at max_tokens');
   const m = text.match(/\{[\s\S]*\}/);
@@ -197,6 +204,12 @@ async function main() {
   const skipped = posts.length - fresh.length;
   console.log(`\n🔍 FULL AUDIT — 라이브 ${posts.length}편 중 ${todo.length}편 검사 (변경분·신규분), ${skipped}편은 지난 판정 유지\n`);
 
+  // Nobody waits on this Sunday 03:35 KST run, so the editor pass goes out as
+  // one batch at half price ($2.2 a week at full price, 2026-11). The vision
+  // calls stay direct: each one downloads an image first. Whatever the batch
+  // does not return is asked directly below, so a slow batch costs only time.
+  const editorReplies = await runBatch(client, todo.map((p) => ({ id: p.slug, params: editorParams(p) })), { waitMin: 60 });
+
   const results = [...carried];
   let imgBad = 0, proseBad = 0, doneN = 0;
   const queue = [...todo];
@@ -232,7 +245,7 @@ async function main() {
         }
       } catch (e) { r.imageError = e.message.slice(0, 60); }
       try {
-        const issues = await editorCheck(p);
+        const issues = await editorCheck(p, editorReplies.get(p.slug) ?? null);
         // The model does not get a vote on numbers we measured. It is handed
         // the crowd hours (verifiedBlock) and STILL reports a sentence quoting
         // them as invented: on the 2026-09-19 queue, 157 findings quoted a
