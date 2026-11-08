@@ -67,7 +67,13 @@ export function isEventTwin(a, b) {
   const close = !dated || overlap || days <= 3;          // the old window
   const within = !dated || overlap || days <= TWIN_WINDOW_DAYS;
   if (!within) return false;
-  const place = (a.region && a.region === b.region) || sameVenue(a.venue, b.venue);
+  // One race filed under its township and again under its county: "Tianzhong
+  // Marathon" in Changhua, "Rice Heaven Tianzhong Marathon" in Tianzhong (11-08),
+  // a day apart in date. The name of one is the place of the other. On its own
+  // this proves nothing: a shared name word still has to agree below, which is
+  // what keeps a Chiba event and a Tokyo one apart.
+  const namedPlace = (a.anchor && a.anchor === b.region) || (b.anchor && b.anchor === a.region);
+  const place = (a.region && a.region === b.region) || sameVenue(a.venue, b.venue) || namedPlace;
   const anchor = a.anchor && a.anchor === b.anchor;
   // The anchor alone still needs the old 3-day window: "Palermo Marathon" and
   // "Ravenna Marathon" share it a week apart. Further apart, or with only a

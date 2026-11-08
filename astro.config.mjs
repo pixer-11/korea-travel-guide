@@ -532,6 +532,10 @@ export function regionRedirects() {
     ['goyang-charlie-puth-concert', 'goyang-charlie-puth-seoul-2026'],
     ['pasay-5-seconds-of-summer-everyone-s-a-star-world-tour', 'manila-5sos-everyone-s-a-star-world-tour'],
     ['lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia', 'mandalika-pertamina-grand-prix-of-indonesia-motogp-mandalika'],
+    // One marathon under its township and under its county (2026-11-09): the
+    // older copy said Nov 7, the race was Nov 8. Neither was indexed yet, so
+    // the older URL has no ranking to protect and the right date stays.
+    ['tianzhong-taiwan-s-rice-heaven-tianzhong-marathon', 'changhua-tianzhong-marathon-rice-heaven-marathon'],
   ];
   // Resolve one hop at build time: when the KEPT twin is itself quarantined,
   // pointing at it produced a 301→301 chain ending wherever the draft rule

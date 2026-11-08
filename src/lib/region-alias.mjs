@@ -34,6 +34,9 @@ export const REGION_ALIAS = {
   // Same again (2026-10-19 evening sweep): discovery wrote "New Taipei City"
   // for one event beside the 3+ post "New Taipei" hub.
   'new-taipei-city': 'new-taipei',
+  // Tianzhong is a township in Changhua County. Its only guide was folded into
+  // the Changhua one (2026-11-09), which left the hub with nothing on it.
+  tianzhong: 'changhua',
 };
 
 /** The region name a post should carry for each canonical slug above. */
@@ -48,6 +51,7 @@ export const REGION_CANONICAL_NAME = {
   'washington-dc': 'Washington DC',
   frankfurt: 'Frankfurt',
   'new-taipei': 'New Taipei',
+  changhua: 'Changhua',
 };
 
 /** The canonical region name for `region`, or null when it is not an alias source. */

@@ -36,7 +36,8 @@ faq:
   - q: What makes this marathon different from others in Taiwan?
     a: Its roadside support. Earlier editions became famous for residents cheering along the route, drum groups and lion dances, and aid stations serving local rice dishes and fruit.
 aiGenerated: true
-draft: false
+draft: true
+heldFinal: 'duplicate of changhua-tianzhong-marathon-rice-heaven-marathon with a wrong date: the race was run on Nov 8, 2026 (official notice, irunner.biji.co/Tianzhong2026; Nov 7 was only the side events); this copy said Nov 7. Retired 2026-11-09, its URL 301s to the kept twin.'
 ---
 ## Running through the rice bowl
 

@@ -54,3 +54,30 @@ test('an alias spelling of the city is the same place', () => {
     k('Charlie Puth Concert: Dates, Tickets & Venue (Frankfurt am Main)', 'Frankfurt am Main', 'Germany', '2026-10-11'),
     k('Charlie Puth Concert: Dates, Tickets & Venue (Frankfurt)', 'Frankfurt', 'Germany', '2026-10-17')));
 });
+
+// 11-09: one marathon filed under its township and again under its county, a
+// day apart in date. Written on names the alias table does not know, because
+// the real pair now also agrees through it (Tianzhong → Changhua).
+const townshipRace = k('Ohtawara Marathon (Golden Harvest Marathon): Dates, Tickets & Venue (Tochigi)', 'Tochigi', 'Japan', '2026-11-08');
+
+test('an event named after the place of the other post is the same event', () => {
+  assert.ok(twin(townshipRace,
+    k("Japan's Golden Harvest Ohtawara Marathon: Dates, Tickets & Venue (Ohtawara)", 'Ohtawara', 'Japan', '2026-11-07')));
+  assert.ok(twin(
+    k('Tianzhong Marathon (Rice Heaven Marathon): Dates, Tickets & Venue (Changhua)', 'Changhua', 'Taiwan', '2026-11-08'),
+    k("Taiwan's Rice Heaven Tianzhong Marathon: Dates, Tickets & Venue (Tianzhong)", 'Tianzhong', 'Taiwan', '2026-11-07')));
+});
+
+test('a name that is the other post\'s place proves nothing without a shared name word', () => {
+  // "Tokyo Game Show" is held in Chiba; Ultra Japan and the sumo are in Tokyo.
+  const tgs = k('Tokyo Game Show 2026 (TGS): Dates, Tickets & Venue (Chiba)', 'Chiba', 'Japan', '2026-09-17', '2026-09-20');
+  assert.ok(!twin(tgs, k('Ultra Japan 2026: Dates, Tickets & Venue (Tokyo)', 'Tokyo', 'Japan', '2026-09-19', '2026-09-20')));
+  assert.ok(!twin(tgs, k('September Grand Sumo Tournament (Aki Basho): Dates, Tickets & Venue (Tokyo)', 'Tokyo', 'Japan', '2026-09-13', '2026-09-27')));
+});
+
+test('the place in the name still needs the same country and the ten-day window', () => {
+  assert.ok(!twin(townshipRace,
+    k('Golden Harvest Ohtawara Marathon: Dates, Tickets & Venue (Ohtawara)', 'Ohtawara', 'Japan', '2026-12-01')));
+  assert.ok(!twin(townshipRace,
+    k('Golden Harvest Ohtawara Marathon: Dates, Tickets & Venue (Ohtawara)', 'Ohtawara', 'South Korea', '2026-11-08')));
+});
