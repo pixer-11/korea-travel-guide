@@ -7914,9 +7914,9 @@
  },
  "cologne-cologne-marathon-carnival-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/4/49/K%C3%B6ln_Marathon_2015-10-04_00365_%2822430352551%29.jpg": {
   "slug": "cologne-cologne-marathon-carnival-marathon",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Marathon runners in race bibs, urban setting",
-  "at": "2026-11-07T22:54:54.277Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"marathon\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-08T08:14:10.476Z"
  },
  "cologne-cologne-marathon-carnival-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/6/6a/K%C3%B6ln_Marathon_2017-10-01_00015_%2837501340381%29.jpg": {
   "slug": "cologne-cologne-marathon-carnival-marathon",
@@ -18211,9 +18211,9 @@
  },
  "lima-sound-music-fest-golden-years-edition\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Atlas_Sound_in_concert_%2823685658515%29.jpg/3840px-Atlas_Sound_in_concert_%2823685658515%29.jpg": {
   "slug": "lima-sound-music-fest-golden-years-edition",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Musician performing at concert venue event",
-  "at": "2026-11-07T22:57:00.548Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"sound\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-08T08:14:10.681Z"
  },
  "lima-taemin-liminal-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/3/30/Taemin_at_Dream_Concert_2015_07.jpg": {
   "slug": "lima-taemin-liminal-world-tour",
