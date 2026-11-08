@@ -113,6 +113,11 @@ jobs:
     needs: slot
     if: needs.slot.outputs.served != 'true'
     runs-on: ubuntu-latest
+    # actions: write is for the deploy hand-off step below. A job-level block
+    # replaces the workflow's, so contents: write has to be repeated here.
+    permissions:
+      contents: write
+      actions: write
     steps:
       # When this job started, for translate-posts' batch wait: it caps the wait
       # by the time left of the 360-min job (2026-10-05 audit — the 10-01 run
@@ -993,6 +998,43 @@ jobs:
           git commit -m "chore: hero widths of new posts ($(date -u +%Y-%m-%d))"
           bash scripts/git-push-retry.sh
 
+      # A publish started by a bot never reaches the deploy. GitHub creates no
+      # workflow_run event for a run that GITHUB_TOKEN started, and the afternoon
+      # publish is almost always one: publish-watchdog dispatches it with
+      # GITHUB_TOKEN because GitHub delivers our own cron hours late. So
+      # build-check's `workflow_run: Auto-generate & publish posts` stayed silent,
+      # and the day's posts waited for the evening schedule run (~22:00 KST) to
+      # wake it — about five hours on main and not on the site (found 2026-09-28,
+      # same on 09-27; triggering_actor=github-actions[bot] on both).
+      # workflow_dispatch is the one event GITHUB_TOKEN may start, so hand off
+      # explicitly — only for a bot-started run. A schedule or human run still gets
+      # its workflow_run, so the two paths never both fire for one publish. When
+      # backfill.yml calls this file, event_name is the caller's, so this skips.
+      #
+      # Here, not at the end of the job (2026-11-08): the audit build below takes
+      # 63-77 minutes, and a hand-off behind it meant the posts went live around
+      # 20:00 KST. Not any earlier either: the pushes just above take down
+      # other-event photos and invented prices and record hero widths, and a build
+      # started before them would publish the unrepaired posts. After this point
+      # only the issue and cost ledgers are pushed, and the site reads neither.
+      # Three tries and continue-on-error: one API blip must not cost the audits
+      # below, and the Telegram report names it if all three fail. The hero-width
+      # step may not push and still go on, and its commit would then reach main
+      # with the ledgers, behind this deploy, so it gets one more push first.
+      - name: Start the deploy (build-check) on main
+        if: github.event_name == 'workflow_dispatch' && github.triggering_actor == 'github-actions[bot]'
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          [ -z "$(git log origin/main..HEAD --oneline)" ] || bash scripts/git-push-retry.sh || true
+          for attempt in 1 2 3; do
+            gh workflow run build-check.yml --repo "$GITHUB_REPOSITORY" --ref main && exit 0
+            sleep 30
+          done
+          echo "배포 시작 신호" >> /tmp/soft-fail.txt
+          exit 1
+
       # A hold and a published page are a contradiction, and for fifteen days
       # nothing was looking at the contradiction: a cancelled concert stayed live
       # and the social picker advertised it (2026-09-07). Runs with the content
@@ -1131,7 +1173,8 @@ jobs:
       # These two read the BUILT site, and CI never had one — the leak audit's
       # first scheduled run reported "빌드된 페이지가 없어 검사조차 못 했습니다"
       # for all four languages, which is a check that has never checked anything.
-      # ~6 minutes of runner time buys the two audits only dist/ can answer.
+      # 60-75 minutes of runner time (26,000 pages, 2026-11) buys the audits only
+      # dist/ can answer, which is why the deploy no longer waits behind it.
       - name: Build site for output audits
         id: distbuild
         continue-on-error: true
@@ -1513,27 +1556,3 @@ jobs:
               --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
               --data-urlencode "text=$TXT" >/dev/null || true
           fi
-
-  # A publish started by a bot never reaches the deploy. GitHub creates no
-  # workflow_run event for a run that GITHUB_TOKEN started, and the afternoon
-  # publish is almost always one: publish-watchdog dispatches it with
-  # GITHUB_TOKEN because GitHub delivers our own cron hours late. So
-  # build-check's `workflow_run: Auto-generate & publish posts` stayed silent,
-  # and the day's posts waited for the evening schedule run (~22:00 KST) to
-  # wake it — about five hours on main and not on the site (found 2026-09-28,
-  # same on 09-27; triggering_actor=github-actions[bot] on both).
-  # workflow_dispatch is the one event GITHUB_TOKEN may start, so hand off
-  # explicitly — only for a bot-started run. A schedule or human run still gets
-  # its workflow_run, so the two paths never both fire for one publish. When
-  # backfill.yml calls this file, event_name is the caller's, so this skips.
-  deploy-handoff:
-    needs: generate
-    if: success() && github.event_name == 'workflow_dispatch' && github.triggering_actor == 'github-actions[bot]'
-    runs-on: ubuntu-latest
-    permissions:
-      actions: write
-    steps:
-      - name: Start the deploy (build-check) on main
-        env:
-          GH_TOKEN: ${{ github.token }}
-        run: gh workflow run build-check.yml --repo "$GITHUB_REPOSITORY" --ref main
