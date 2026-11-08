@@ -32,6 +32,7 @@ import { identityRejection } from './lib/photo-verdict.mjs';
 import { isMeasurementFailure } from './lib/audit-verdict.mjs';
 import { isUsedImage, markUsedImage } from './lib/hero-url.mjs';
 import { verifyHeroImage } from './lib/vision-check.mjs';
+import { REJECTS_FILE, wasRejected, rememberRejection, pruneRejections } from './lib/city-hero-rejects.mjs';
 
 // A file that names an EVENT is that event's photo, not the city's: "Santander
 // La Mezza di Torino 2017" (a half marathon) went onto the Torino City
@@ -45,6 +46,15 @@ const MIN_WIDTH = 1024;
 const readJson = (p) => { try { return JSON.parse(readFileSync(p, 'utf8')); } catch { return {}; } };
 const covers = readJson('data/region-covers.json');
 const audit = readJson('data/visual-audit.json');
+const rejects = readJson(REJECTS_FILE);
+let rejectsChanged = pruneRejections(rejects);
+
+// A person or a patrol has already ruled this photo out for this post.
+const ruledOut = (t, url) => {
+  if (identityRejection(audit, t.slug, url, t.data.category)) return true;
+  const exact = audit[`${t.slug}\x01${cleanCommonsUrl(url)}`] ?? audit[`${t.slug}\x01${url}`];
+  return !!exact && /MISMATCH/.test(String(exact.verdict)) && !isMeasurementFailure(exact);
+};
 
 const q = (s) => "'" + String(s).split("'").join("''") + "'";
 const fileOf = (url) => { try { return decodeURIComponent(String(url).split('/').pop()); } catch { return String(url).split('/').pop(); } };
@@ -96,29 +106,30 @@ for (const t of targets) {
       if (!regionTokens.some((tk) => name.includes(tk))) continue;
       if (isUsedImage(used, hit.url)) continue;
       if (NAMES_AN_EVENT.test(name.replace(/[_-]+/g, ' '))) continue;
+      // Both answers cost nothing here and a vision call below.
+      if (ruledOut(t, hit.url) || wasRejected(rejects, region, hit.url)) continue;
       // The filename names the region, which a dog breed ("Speckled tongue of
       // the Phu Quoc Ridgeback") or a palace fresco does too. Vision answers
       // the one question the name cannot: is this a view of the place? It
       // fails closed (no key, an outage: no pick), and a person still reads
       // the result in audit-event-hero-identity the next morning.
       const vis = DRY ? { ok: true } : await verifyHeroImage({ url: hit.url, name: `a view of ${region}`, category: 'city, landscape or landmark view', region, country });
-      if (!vis.ok) { console.log(`  · ${t.slug.slice(0, 46)}: ${fileOf(hit.url).slice(0, 40)} — vision: ${String(vis.reason).slice(0, 70)}`); continue; }
+      if (!vis.ok) {
+        console.log(`  · ${t.slug.slice(0, 46)}: ${fileOf(hit.url).slice(0, 40)} — vision: ${String(vis.reason).slice(0, 70)}`);
+        if (!DRY && rememberRejection(rejects, region, hit.url, vis.reason)) rejectsChanged = true;
+        continue;
+      }
       pick = { url: hit.url, credit: hit.credit, source: hit.source };
       break;
     }
   }
 
   if (!pick?.url) { unfilled.push(`${t.slug} (${region} 사진 없음)`); continue; }
-  if (identityRejection(audit, t.slug, pick.url, t.data.category)) {
-    unfilled.push(`${t.slug} (사람이 이미 거부한 사진)`);
-    continue;
-  }
   // The exact rejection requarantine-mismatches enforces — it ran BEFORE this
   // step, so a pick it would strip was committed and pushed, then stripped by
   // the post-push re-assert: the Phu Quoc Latin festival got the same 500px dog
   // photo and lost it again on ten nights running (2026-09-25..10-04).
-  const exact = audit[`${t.slug}\x01${cleanCommonsUrl(pick.url)}`] ?? audit[`${t.slug}\x01${pick.url}`];
-  if (exact && /MISMATCH/.test(String(exact.verdict)) && !isMeasurementFailure(exact)) {
+  if (ruledOut(t, pick.url)) {
     unfilled.push(`${t.slug} (이 사진은 이미 불합격 기록이 있음)`);
     continue;
   }
@@ -143,6 +154,8 @@ for (const t of targets) {
     '  source: ' + q(pick.source || ''));
   await writeFile(join(DIR, t.f), lines.join(eol), 'utf8');
 }
+
+if (rejectsChanged && !DRY) await writeFile(REJECTS_FILE, JSON.stringify(rejects, null, 1) + '\n', 'utf8');
 
 for (const u of unfilled) console.log(`  ⚠️  ${u}`);
 console.log(`\nCITY_HERO_SUMMARY filled=${filled} unfilled=${unfilled.length} targets=${targets.length}`);

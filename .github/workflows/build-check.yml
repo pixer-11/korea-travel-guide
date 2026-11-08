@@ -111,6 +111,7 @@ on:
       - '!data/threads-daily.json'
       - '!data/fill-phase.json'
       - '!data/photo-retry.json'
+      - '!data/city-hero-rejects.json'
       - '!data/places-budget.json'
       - '!data/topic-yield.json'
       - '!data/refresh-cursor.json'
