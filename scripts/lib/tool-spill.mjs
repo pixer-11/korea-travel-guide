@@ -72,3 +72,25 @@ export function missingFields(out, required) {
     return typeof v !== 'string' || v.trim() === '';
   });
 }
+
+/**
+ * The arguments of a forced tool call, or a throw naming why the reply must
+ * not be stored. A reply cut at max_tokens still parses: the fields that fit
+ * arrive and the last ones are simply absent, and `{ zh: undefined }` vanishes
+ * in JSON.stringify. translate-country-blurbs stored three such replies a day
+ * for three weeks and left /zh/destinations/ in English (2026-11-08).
+ * @param {any} msg  an Anthropic messages.create response
+ * @param {string[]} required  field names that must be present and non-blank
+ */
+export function completeToolInput(msg, required) {
+  if (msg?.stop_reason === 'max_tokens') throw new Error('reply cut at max_tokens');
+  const use = msg?.content?.find((b) => b.type === 'tool_use');
+  if (!use) throw new Error('no tool_use in response');
+  // The model can close one field and open the next in XML *inside* a value
+  // (2026-09-05, essentials topics ko). Never store such a reply.
+  const spill = findToolSpill(use.input);
+  if (spill.length) throw new Error(`tool-call spill in ${spill.join(', ')}`);
+  const missing = missingFields(use.input, required);
+  if (missing.length) throw new Error(`missing ${missing.join(', ')}`);
+  return use.input;
+}

@@ -17,7 +17,7 @@ import './lib/claude-meter.mjs'; // counts this file's Claude spend into the cos
 import { readFile, writeFile } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
-import { findToolSpill } from './lib/tool-spill.mjs';
+import { completeToolInput } from './lib/tool-spill.mjs';
 
 const COUNTRIES = fileURLToPath(new URL('../data/countries.json', import.meta.url));
 const OUT = fileURLToPath(new URL('../src/i18n/country-blurbs.json', import.meta.url));
@@ -54,7 +54,9 @@ for (const c of countries) {
   try {
     const msg = await client.messages.create({
       model: MODEL, ...thinkingOff(MODEL),
-      max_tokens: 700,
+      // 700 fit the 105–215-character blurbs of July. Argentina's 399 characters
+      // measure 741 tokens across the four languages (2026-11-08).
+      max_tokens: 1500,
       tools: [TOOL],
       tool_choice: { type: 'tool', name: 'submit_blurbs' },
       messages: [{
@@ -66,13 +68,8 @@ Keep it ONE line, the same length and punchy editorial tone as the English. Tran
 English: ${en}`,
       }],
     });
-    const use = msg.content.find((b) => b.type === 'tool_use');
-    if (!use) throw new Error('no tool_use in response');
-    // The model can close one field and open the next in XML *inside* a value
-    // (2026-09-05, essentials topics ko). Never store such a blurb.
-    const spill = findToolSpill(use.input);
-    if (spill.length) throw new Error(`tool-call spill in ${spill.join(', ')}`);
-    table[c.slug] = { ...entry, ...Object.fromEntries(LANGS.map((l) => [l, use.input[l]])), _en: en };
+    const input = completeToolInput(msg, LANGS);
+    table[c.slug] = { ...entry, ...Object.fromEntries(LANGS.map((l) => [l, input[l]])), _en: en };
     done++;
     console.log(`  ✓ ${c.slug}${staleSource ? ' (source changed)' : ''}`);
   } catch (e) {
@@ -83,3 +80,6 @@ English: ${en}`,
 
 if (done) await writeFile(OUT, JSON.stringify(table, null, 1) + '\n', 'utf8');
 console.log(`\nCountry blurbs: ${done} translated, ${skipped} already current, ${failed} failed.`);
+// A failed country shows its English blurb on that language's page, so the
+// publish job has to hear about it.
+if (failed) process.exitCode = 1;

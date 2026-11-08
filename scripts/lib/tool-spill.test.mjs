@@ -1,6 +1,26 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { findToolSpill, missingFields } from './tool-spill.mjs';
+import { findToolSpill, missingFields, completeToolInput } from './tool-spill.mjs';
+import { readFileSync } from 'node:fs';
+
+// 11-08: every reply for New Zealand, Peru and Argentina stopped at exactly
+// 700 tokens with zh not yet written; 0 failed, 3 translated, nothing saved.
+const tool = (input, stop_reason = 'tool_use') => ({ stop_reason, content: [{ type: 'tool_use', input }] });
+
+test('completeToolInput returns a whole reply and refuses a cut, blank or spilled one', () => {
+  const all = { ko: '가', ja: 'あ', es: 'a', zh: '一' };
+  assert.deepEqual(completeToolInput(tool(all), ['ko', 'ja', 'es', 'zh']), all);
+  assert.throws(() => completeToolInput(tool(all, 'max_tokens'), ['ko']), /max_tokens/);
+  assert.throws(() => completeToolInput(tool({ ko: '가', ja: 'あ', es: 'a' }), ['ko', 'ja', 'es', 'zh']), /missing zh/);
+  assert.throws(() => completeToolInput(tool({ ...all, zh: '  ' }), ['ko', 'ja', 'es', 'zh']), /missing zh/);
+  assert.throws(() => completeToolInput({ stop_reason: 'end_turn', content: [{ type: 'text', text: 'x' }] }, ['ko']), /no tool_use/);
+});
+
+test('the country blurb translator stores only a complete reply, and says when it could not', () => {
+  const src = readFileSync(new URL('../translate-country-blurbs.mjs', import.meta.url), 'utf8');
+  assert.match(src, /completeToolInput\(msg, LANGS\)/);
+  assert.match(src, /process\.exitCode = 1/, 'publish.yml reports a soft failure only on a non-zero exit');
+});
 
 // The real 2026-09-05 reply, trimmed: the model closed quickAnswer and opened
 // the next parameter *inside* the quickAnswer string, so countryHeading never
