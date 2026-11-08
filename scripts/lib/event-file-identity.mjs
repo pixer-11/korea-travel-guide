@@ -287,7 +287,12 @@ export function fileNamesPerformer(url, performer, { singleWord = true } = {}) {
 // a 2009 Toray Pan Pacific Open photo is not Naomi Osaka's because her guide wears
 // it. So the category has to be the act's own, compared without spaces or Commons'
 // bracket: BIGBANG is filed as "Big Bang (musical group from South Korea)".
-const actKey = (name) => allWords(String(name ?? '').replace(/\s*\(.*\)\s*$/, '')).join('');
+// allWords keeps Latin letters only, so a name written in another script falls
+// back to itself: 소지섭's category is compared, not an empty string (Codex, 11-09).
+const actKey = (name) => {
+  const bare = String(name ?? '').replace(/\s*\(.*\)\s*$/, '');
+  return allWords(bare).join('') || bare.replace(/\s+/g, '').toLowerCase();
+};
 export function isPerformerPhoto(url, performer, proof) {
   if (!performer) return false;
   const act = actKey(performer);

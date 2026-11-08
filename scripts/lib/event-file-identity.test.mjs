@@ -449,6 +449,8 @@ test('공연자 사진: 증거의 분류가 그 공연자의 것일 때만 인�
     ['BIGBANG', 'Big Bang (musical group from South Korea)'], ['iKON', 'IKon (musical group)'], ['XG', 'XG'],
     ['aespa', 'Aespa (musical group)'], ['Maria Becerra', 'María Becerra'], ['Jesse & Joy', 'Jesse & Joy'],
   ]) assert.equal(isPerformerPhoto(url, act, { url, category }), true, act);
+  assert.equal(isPerformerPhoto(url, '소지섭', { url, category: '소지섭' }), true, '라틴 문자가 없는 이름');
+  assert.equal(isPerformerPhoto(url, '소지섭', { url, category: '공유' }), false, '라틴 문자가 없는 다른 사람');
   assert.equal(isPerformerPhoto(url, 'Naomi Osaka', { url, category: '2009 Toray Pan Pacific Open' }), false, '행사 분류');
   assert.equal(isPerformerPhoto(url, 'XG', { url, category: '2009 XG Cup' }), false, '이름이 일부만 같은 행사');
   assert.equal(isPerformerPhoto(url, 'Westlife', { url: U('Other.jpg'), category: 'Westlife' }), false, '다른 사진의 증거');
