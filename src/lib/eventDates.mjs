@@ -20,8 +20,8 @@ function namesFirstOfMonth(text, day) {
   const long = MONTHS[day.getUTCMonth()];
   const month = long === 'September' ? 'September|Sept?' : `${long}|${long.slice(0, 3)}`;
   const re = new RegExp(
-    `\\b(?:${month})\\.?\\s+0?1(?:st)?(?!\\d)` +
-    `|\\b0?1(?:st)?(?:\\s*(?:[-–—]|to|and|&)\\s*\\d{1,2}(?:st|nd|rd|th)?)?\\s+(?:of\\s+)?(?:${month})\\b`,
+    `\\b(?:${month})\\.?\\s+(?:the\\s+)?0?1(?:st)?(?!\\d)` +
+    `|\\b0?1(?:st)?(?:\\s*(?:[-–—]|to|through|until|and|&)\\s*\\d{1,2}(?:st|nd|rd|th)?)?\\s+(?:of\\s+)?(?:${month})\\b`,
   );
   return re.test(text) || text.includes(day.toISOString().slice(0, 10));
 }

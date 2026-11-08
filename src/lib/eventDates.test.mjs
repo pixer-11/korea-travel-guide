@@ -31,7 +31,7 @@ test('a real first-of-month date keeps its day', () => {
   assert.equal(isMonthOnlyEvent('2026-11-01', '2026-12-01', 'is set for November 1 to December 1, 2026'), false);
   assert.equal(isMonthOnlyEvent('2026-12-01', '2026-12-02', 'fills it on December 1 and 2, 2026'), false);
   assert.equal(isMonthOnlyEvent('2026-12-01', '2026-12-06', 'runs December 1-6, 2026'), false);
-  for (const said of ['Dec. 1', 'Dec 1', 'December 1st', 'December 01', '1 December 2026', '1st of December', '1-6 December', '1–6 Dec', '1st to 6th December', '2026-12-01']) {
+  for (const said of ['Dec. 1', 'Dec 1', 'December 1st', 'December 01', '1 December 2026', '1st of December', '1-6 December', '1–6 Dec', '1st to 6th December', '1 through 6 December', '1 until 6 December', 'December the 1st', '2026-12-01']) {
     assert.equal(isMonthOnlyEvent('2026-12-01', '2026-12-06', `Doors open ${said}.`), false, said);
   }
   assert.equal(isMonthOnlyEvent('2026-09-01', '2026-09-03', 'Sept 1 is the opening night'), false);
