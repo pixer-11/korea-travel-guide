@@ -468,7 +468,7 @@ const jsonLd = {
 </script>
 
 <style>
-  .es { max-width: 1120px; margin: 0 auto; padding: 1.2rem 1rem 0; --es-dark: #26301f; --es-green: #e6f0de; --es-green-ink: #3d6b2f; --es-peach: #fbe3d7; --es-warm: #efe3cc; --es-pick: #f1f7ea; --es-tip: rgba(255,255,255,0.65); --es-ok: #f1f7ea; --es-bad: #fbecea; --es-alert-ink: #3b2a20; --es-alert-k: #8a3f1c; }
+  .es { max-width: 1120px; margin: 0 auto; padding: 1.2rem 1rem 0; --es-dark: #26301f; --es-green: #e6f0de; --es-green-ink: #3d6b2f; --es-peach: #fbe3d7; --es-warm: #efe3cc; --es-pick: #f1f7ea; --es-tip: rgba(255,255,255,0.65); --es-ok: #f1f7ea; --es-bad: #fbecea; --es-alert-ink: #3b2a20; --es-alert-k: #8a3f1c; --es-pick-sub: var(--muted); }
   .es-crumbs { font-size: 0.8rem; color: var(--muted); margin: 0 0 1.4rem; }
   .es-crumbs a { color: var(--muted); text-decoration: none; }
   .es-crumbs span { color: var(--ink); font-weight: 600; }
@@ -528,6 +528,7 @@ const jsonLd = {
   .es-opt li.m-w i { background: #fbe3d7; color: #b45f2d; }
   .es-opt li.m-b i { background: #f6d6cf; color: #a5352c; }
   .es-opt li small { display: block; font-size: 0.72rem; color: var(--muted); font-weight: 700; }
+  .es-opt.is-pick .es-opt-sub, .es-opt.is-pick li small { color: var(--es-pick-sub); } /* --muted on the dark pick card is 4.35:1 (11-08) */
   .es-rule { display: flex; gap: 0.5rem; align-items: center; margin: 0.8rem 0 0; padding: 0.7rem 1rem; border-radius: var(--r-pill); background: var(--surface); font-size: 0.86rem; font-weight: 600; }
 
   .es-duo { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0.9rem; align-items: start; }
@@ -625,9 +626,9 @@ const jsonLd = {
   /* Dark mode (the site follows the system setting, global.css): the pale
      panels become dark ones so the light ink stays readable (Codex, 10-05). */
   @media (prefers-color-scheme: dark) {
-    :global(:root:not([data-theme='light'])) .es { --es-green: #2c3a26; --es-green-ink: #b9dca4; --es-peach: #4a2e22; --es-warm: #3a3226; --es-pick: #26331f; --es-tip: rgba(0,0,0,0.22); --es-ok: #26331f; --es-bad: #46231e; --es-alert-ink: #f6dccc; --es-alert-k: #f3b48e; }
+    :global(:root:not([data-theme='light'])) .es { --es-pick-sub: var(--ink-soft); --es-green: #2c3a26; --es-green-ink: #b9dca4; --es-peach: #4a2e22; --es-warm: #3a3226; --es-pick: #26331f; --es-tip: rgba(0,0,0,0.22); --es-ok: #26331f; --es-bad: #46231e; --es-alert-ink: #f6dccc; --es-alert-k: #f3b48e; }
   }
-  :global(:root[data-theme='dark']) .es { --es-green: #2c3a26; --es-green-ink: #b9dca4; --es-peach: #4a2e22; --es-warm: #3a3226; --es-pick: #26331f; --es-tip: rgba(0,0,0,0.22); --es-ok: #26331f; --es-bad: #46231e; --es-alert-ink: #f6dccc; --es-alert-k: #f3b48e; }
+  :global(:root[data-theme='dark']) .es { --es-pick-sub: var(--ink-soft); --es-green: #2c3a26; --es-green-ink: #b9dca4; --es-peach: #4a2e22; --es-warm: #3a3226; --es-pick: #26331f; --es-tip: rgba(0,0,0,0.22); --es-ok: #26331f; --es-bad: #46231e; --es-alert-ink: #f6dccc; --es-alert-k: #f3b48e; }
 
   @media (max-width: 900px) {
     .es-hero, .es-duo, .es-phone, .es-cta, .es-faq { grid-template-columns: minmax(0, 1fr); }

@@ -678,6 +678,7 @@ const row = (p: any, withBadge = true) => ({ p, cat: catOf(p), b: withBadge ? ba
 <style>
   .ev-list {
     --ev-forest: #3b4a2c; --ev-night: #262d1b; --ev-brown: #6b3413; --ev-rust: #9e4d26; /* was #b0562a: 3.98:1 as the "now" dot on --ev-sand (a11y, 10-21) */
+    --ev-rust-fill: #9e4d26; /* white text sits on this: dark lightens --ev-rust for dots and words, and white on that is 2.64:1 (11-08) */
     --ev-peach: #fde3d4; --ev-sand: #ece5d6; --ev-leaf: #e3ecd0;
   }
   @media (prefers-color-scheme: dark) {
@@ -828,7 +829,7 @@ const row = (p: any, withBadge = true) => ({ p, cat: catOf(p), b: withBadge ? ba
   .ev-flight-copy { display: flex; flex-direction: column; gap: .2rem; min-width: 0; }
   .ev-flight-copy strong { color: var(--ink); font-size: 1.02rem; }
   .ev-flight-copy span { color: var(--ink-soft); font-size: .9rem; }
-  .ev-flight-cta { padding: .65rem 1.2rem; border-radius: var(--r-pill); background: var(--ev-rust); color: #fff; font-weight: 700; text-decoration: none; white-space: nowrap; }
+  .ev-flight-cta { padding: .65rem 1.2rem; border-radius: var(--r-pill); background: var(--ev-rust-fill); color: #fff; font-weight: 700; text-decoration: none; white-space: nowrap; }
   .ev-flight-cta:hover { filter: brightness(1.08); }
   @media (max-width: 559px) {
     .ev-flight { grid-template-columns: auto minmax(0, 1fr); }

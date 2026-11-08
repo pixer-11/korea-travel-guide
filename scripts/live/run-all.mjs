@@ -37,6 +37,7 @@ const CHECKS = [
   ['topics-mobile.mjs', '주제 페이지 모바일'],
   ['redesigns-2026-10-02.mjs', '10-01/02 개편 페이지 8종×5개 언어'],
   ['mobile-sweep.mjs', '페이지 종류 33개×5개 언어 휴대폰 넘침'],
+  ['contrast.mjs', '글자 대비 AA(일정·eSIM·소개·행사·홈 등 19쪽 × 라이트·다크)'],
   ['wtg-photos.mjs', '언제 갈까 나라 사진'],
   ['affiliate-surfaces.mjs', '제휴 링크 위치(짐보관·명소·호주)'],
   ['esim-pages.mjs', 'eSIM 나라 페이지(추천기·내 폰 확인·체크리스트·SubID)×5개 언어'],

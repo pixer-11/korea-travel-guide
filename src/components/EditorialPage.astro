@@ -653,7 +653,7 @@ const jsonLd = {
     display: grid; gap: 28px;
   }
   @media (prefers-color-scheme: dark) {
-    .ep { --ep-peach: #3a2a20; --ep-cream: #221d17; --ep-sand: #2a241c; }
+    .ep { --ep-peach: #372619; --ep-cream: #221d17; --ep-sand: #2a241c; } /* peach was #3a2a20: --muted on it, 4.48:1 (11-08) */
   }
   .ep a { color: inherit; }
   /* Grid children default to min-width:auto, so the scrollable step row pushed
@@ -664,7 +664,7 @@ const jsonLd = {
   .ep-pill { display: inline-block; font-size: .78rem; font-weight: 600; padding: 4px 12px; border-radius: var(--r-pill); background: var(--ep-peach); color: var(--brown-text); }
   .ep-pill-dark { background: rgba(255,255,255,.12); color: var(--ep-on-dark); }
   .ep-pill-light { background: rgba(255,255,255,.16); color: var(--ep-on-dark); }
-  .ep-kicker { font-size: .8rem; font-weight: 700; color: var(--cta); letter-spacing: .02em; }
+  .ep-kicker { font-size: .8rem; font-weight: 700; color: var(--brown-text); letter-spacing: .02em; }
   .ep-h2 { font-family: var(--font-display); font-size: clamp(1.5rem, 3vw, 2rem); margin: 0; }
   .ep-sub { color: var(--muted); margin: 6px 0 0; }
   .ep-btn { display: inline-flex; align-items: center; justify-content: center; gap: 6px; padding: 11px 18px; border-radius: var(--r-pill); font-weight: 600; text-decoration: none; border: 1px solid transparent; cursor: pointer; font: inherit; font-weight: 600; }

@@ -975,7 +975,7 @@ const coverImage = mosaic[0]?.src;
   /* IKEA-effect save-plan hint: server-hidden, un-hidden by the script after
      the first filter interaction (see Step 1's <script>). */
   .itin-save-hint { margin: 0.6rem 0 0; font-size: 0.85rem; color: var(--ink-soft); }
-  .itin-save-hint a { color: var(--accent); font-weight: 700; text-decoration: none; }
+  .itin-save-hint a { color: var(--accent-text); font-weight: 700; text-decoration: none; }
   .itin-save-hint a:hover { text-decoration: underline; }
 
   /* Under the sticky site header (z-index 50, 65px measured), not behind it: at top 0
@@ -1041,20 +1041,20 @@ const coverImage = mosaic[0]?.src;
   }
   .itin-leg[hidden] { display: none; }
   .itin-leg-text { flex: 1; }
-  .itin-leg-directions { color: var(--accent); font-weight: 600; text-decoration: none; white-space: nowrap; }
+  .itin-leg-directions { color: var(--accent-text); font-weight: 600; text-decoration: none; white-space: nowrap; }
   .itin-leg-directions:hover { text-decoration: underline; }
 
   .itin-day-footer { margin-top: 1.1rem; padding-top: 1rem; border-top: 1px solid var(--line-soft); }
   .itin-rain { font-size: 0.9rem; color: var(--ink-soft); margin: 0 0 0.8rem; }
-  .itin-rain a { color: var(--accent); font-weight: 600; }
-  .itin-rain-why { color: var(--muted); }
+  .itin-rain a { color: var(--accent-text); font-weight: 600; }
+  .itin-rain-why { color: var(--x-leaf-sub); }
   .itin-day-actions { display: flex; flex-wrap: wrap; gap: 0.7rem; }
   .itin-day-route { display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.5rem 0.95rem; border-radius: var(--r-pill); font-weight: 600; font-size: 0.9rem; border: 1px solid var(--line); background: var(--surface); color: var(--ink); text-decoration: none; }
   .itin-day-route:hover { border-color: var(--accent); color: var(--accent); }
   .itin-day-route[hidden] { display: none; }
 
   .itin-related-link { margin: 2rem 0; font-weight: 600; }
-  .itin-related-link a { color: var(--accent); }
+  .itin-related-link a { color: var(--accent-text); }
 
   @media (max-width: 640px) {
     .itin-stop { grid-template-columns: minmax(0, 1fr); }
@@ -1071,16 +1071,18 @@ const coverImage = mosaic[0]?.src;
 
   /* ── Redesign 2026-09-30 ("바르셀로나 일정 개선안") ── */
   .itin-page { --x-brown-ink: #6b3413; --x-night: #262d1b; --x-forest: #3b4a2c; --x-brown: #6b3413; --x-rust: #c8733f; --x-leaf: #e3ecd0; --x-peach: #fde3d4; --x-sand: #f3e8d8; --x-card: #fbf7ef; --x-on-dark: #f6f1e6;
+    /* Words on the leaf fill: --pine and --muted measure 4.19 and 3.51 on the dark leaf (11-08). */
+    --x-leaf-ink: var(--pine); --x-leaf-sub: var(--muted);
     max-width: var(--max); }
-  @media (prefers-color-scheme: dark) { :global(:root:not([data-theme='light'])) .itin-page { --x-brown-ink: #f0b184; --x-leaf: #33422a; --x-peach: #3a2620; --x-sand: #2c261d; --x-card: #221f19; } }
-  :global(:root[data-theme='dark']) .itin-page { --x-brown-ink: #f0b184; --x-leaf: #33422a; --x-peach: #3a2620; --x-sand: #2c261d; --x-card: #221f19; }
+  @media (prefers-color-scheme: dark) { :global(:root:not([data-theme='light'])) .itin-page { --x-leaf-ink: #8cc2ae; --x-leaf-sub: var(--ink-soft); --x-brown-ink: #f0b184; --x-leaf: #33422a; --x-peach: #3a2620; --x-sand: #2c261d; --x-card: #221f19; } }
+  :global(:root[data-theme='dark']) .itin-page { --x-leaf-ink: #8cc2ae; --x-leaf-sub: var(--ink-soft); --x-brown-ink: #f0b184; --x-leaf: #33422a; --x-peach: #3a2620; --x-sand: #2c261d; --x-card: #221f19; }
 
   .ith { display: grid; grid-template-columns: minmax(0, 1.05fr) minmax(0, .95fr); gap: 2.4rem; align-items: center; margin-bottom: 1.6rem; }
   .ith-crumbs { display: flex; flex-wrap: wrap; gap: .45rem; font-size: .85rem; color: var(--muted); margin-bottom: .9rem; }
   .ith-crumbs span[aria-current] { color: var(--ink); font-weight: 700; }
   .ith-badges { display: flex; flex-wrap: wrap; gap: .4rem; margin: 0 0 .9rem; }
   .ith-badge { font-size: .8rem; font-weight: 700; padding: .2rem .7rem; border-radius: var(--r-pill); background: var(--x-peach); color: var(--x-brown-ink); }
-  .ith-badge--leaf { background: var(--x-leaf); color: var(--pine); }
+  .ith-badge--leaf { background: var(--x-leaf); color: var(--x-leaf-ink); }
   .ith-h1 { font-family: var(--font-display); font-size: clamp(2rem, 4.6vw, 3.1rem); line-height: 1.14; letter-spacing: -0.02em; margin: 0 0 1rem; color: var(--ink); word-break: keep-all; overflow-wrap: anywhere; }
   .ith-h1 span { display: block; color: var(--x-brown); }
   :global(:root[data-theme='dark']) .ith-h1 span { color: #e8a577; }
@@ -1158,10 +1160,12 @@ const coverImage = mosaic[0]?.src;
   .ith-book-text b { font-size: .9rem; color: var(--ink); overflow-wrap: anywhere; }
   .ith-book-text small { font-size: .78rem; color: var(--muted); }
   .ith-book-count { margin: .6rem 0 0; font-size: .78rem; color: var(--muted); text-align: center; }
-  .ith-btn { display: block; text-align: center; padding: .65rem 1rem; border-radius: var(--r-pill); background: var(--x-rust); color: #fff; font-weight: 800; font-size: .9rem; text-decoration: none; }
+  /* The mock's --x-rust gave white text 3.51:1 in both modes; a brightness hover would take --cta to 4.03, so the hover deepens instead (11-08). */
+  .ith-btn { display: block; text-align: center; padding: .65rem 1rem; border-radius: var(--r-pill); background: var(--cta); color: #fff; font-weight: 800; font-size: .9rem; text-decoration: none; }
   .ith-btn--dark { background: var(--x-forest); }
-  .ith-btn:hover { filter: brightness(1.07); }
-  .ith-stay .tp-disclosure { margin: .6rem 0 0; font-size: .72rem; }
+  .ith-btn:hover { background: var(--cta-deep); }
+  .ith-btn--dark:hover { background: var(--x-forest); filter: brightness(1.07); }
+  .ith-stay .tp-disclosure { margin: .6rem 0 0; font-size: .72rem; color: var(--x-leaf-sub); }
   .ith-side-actions { display: grid; gap: .5rem; }
   .ith-side .itin-share { margin: 0; }
 

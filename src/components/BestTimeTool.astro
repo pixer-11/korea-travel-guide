@@ -1220,7 +1220,7 @@ const cellCls = { q: 'quiet', b: 'busy', m: 'mid', x: 'closed' } as const;
     .bt-pills { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
     .bt-pills[hidden], .bt-hint[hidden] { display: none; }
     .bt-pill-b { font: inherit; font-size: .86rem; display: inline-flex; align-items: center; gap: 6px; border: 0; background: var(--bt-sand); color: var(--ink); padding: 7px 13px; border-radius: var(--r-pill); cursor: pointer; }
-    .bt-pill-b small { opacity: .6; }
+    .bt-pill-b small { opacity: .72; } /* .6 was 4.13:1 on the sand pill (11-08) */
     .bt-pill-b.is-on { background: var(--bt-forest); color: #fff; }
     .bt-pills .is-extra { display: none; }
     .bt-pills.is-open .is-extra { display: inline-flex; }

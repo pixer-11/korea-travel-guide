@@ -1122,10 +1122,15 @@ const editorCountries = EDITOR_VISITED.filter((v) => !v.region).length;
     :global(:root:not([data-theme='light'])) .aff,
     :global(:root:not([data-theme='light'])) .hv3-c-esim { background: #3a2e1a; }
     :global(:root:not([data-theme='light'])) .hv3-hol { background: #3a2620; }
+    :global(:root:not([data-theme='light'])) .hv3-hol li { background: rgba(255,255,255,0.08); color: var(--ink); }
+    :global(:root:not([data-theme='light'])) .hv3-hol li span { color: var(--ink-soft); }
   }
   :global(:root[data-theme='dark']) .hv3-pill.b-g,
   :global(:root[data-theme='dark']) .hv3-verdict.b-g { background: #2b3524; }
   :global(:root[data-theme='dark']) .aff,
   :global(:root[data-theme='dark']) .hv3-c-esim { background: #3a2e1a; }
   :global(:root[data-theme='dark']) .hv3-hol { background: #3a2620; }
+  /* The chip stayed light on the dark band and its date read 3.78:1 (11-08). */
+  :global(:root[data-theme='dark']) .hv3-hol li { background: rgba(255,255,255,0.08); color: var(--ink); }
+  :global(:root[data-theme='dark']) .hv3-hol li span { color: var(--ink-soft); }
 </style>
