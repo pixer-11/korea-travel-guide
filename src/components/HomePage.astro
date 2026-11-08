@@ -1110,6 +1110,12 @@ const editorCountries = EDITOR_VISITED.filter((v) => !v.region).length;
     .hv3-stats dt { font-size: 1.25rem; }
     .hv3-stats dd { font-size: 0.78rem; }
   }
+  /* A new country's card says "coming soon" until its first guide, and the
+     Spanish word is one long unbreakable "Próximamente": 7px wider than the
+     text column at 360px (Egypt, 2026-11-09). */
+  @media (max-width: 370px) {
+    .hv3-c-main img, .hv3-c-noimg { width: 40px; }
+  }
 
   /* Dark mode: the light tints above sit behind text that turns light in dark
      mode (var(--ink), var(--gold-text)) — "good this month" pills and the
