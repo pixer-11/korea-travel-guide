@@ -25,6 +25,9 @@ on:
       # red-to-green had no CI evidence. i18n holds hand-written TS too.
       - 'src/layouts/**'
       - 'src/i18n/**'
+      # Stylesheets have tests too (post-byline, 2026-11-08), and a CSS-only
+      # commit that breaks one would otherwise run nothing.
+      - 'src/styles/**'
       # Subscribe endpoint and the Klook click relay live here — money paths.
       - 'worker/**'
       # Standalone Cloudflare workers (social-alarm etc). Without this line a
@@ -44,6 +47,7 @@ on:
       # red-to-green had no CI evidence. i18n holds hand-written TS too.
       - 'src/layouts/**'
       - 'src/i18n/**'
+      - 'src/styles/**'
       - 'worker/**'
       - 'workers/**'
   workflow_dispatch:
@@ -111,12 +115,15 @@ jobs:
         run: |
           set -o pipefail
           fail=0
+          ran=0
           # scripts/lib and worker were outside this glob, so the Places-budget
           # and Klook-relay tests written on 2026-08-05/06 would never have run
           # in CI — a test nobody runs is the exact shape this whole file exists
-          # to prevent.
-          for t in scripts/*.test.mjs scripts/lib/*.test.mjs src/lib/*.test.mjs worker/*.test.mjs workers/*/*.test.mjs; do
+          # to prevent. On 2026-11-08 src/i18n (12) and src/styles (1) were found
+          # outside it too: a list kept by hand falls behind, so git keeps it now.
+          for t in $(git ls-files '*.test.mjs'); do
             [ -e "$t" ] || continue
+            ran=$((ran + 1))
             echo "── $t"
             # 테스트는 node:test를 쓰는 것과 자체 PASS/FAIL을 찍는 것이 섞여 있다.
             # 어느 쪽이든 비정상 종료 코드를 내면 실패로 센다.
@@ -136,6 +143,11 @@ jobs:
               fail=1
             fi
           done
+          # Zero tests found is a broken list, not a pass.
+          if [ "$ran" -eq 0 ]; then
+            echo "── no *.test.mjs found by git ls-files" >> /tmp/test-failures.txt
+            exit 1
+          fi
           exit $fail
 
       - name: Telegram on failure
