@@ -4,8 +4,11 @@ name: Daily analytics report (Telegram)
 on:
   schedule:
     - cron: '7 0 * * *' # 00:07 UTC = 09:07 KST — so the report lands ~9am Korea time.
-                        # Off the hour because GitHub drops/delays :00 crons. GitHub's
-                        # own scheduling delay (10-40m) also lets yesterday's UTC data settle.
+                        # Off the hour because GitHub drops/delays :00 crons. GitHub has
+                        # delivered this 4-6 hours late since August, so the schedule
+                        # watchdog rescues it from 30 minutes past the slot (graceMin in
+                        # scripts/lib/cron-manifest.mjs) and the late original stands down
+                        # on the slot guard. Those 30 minutes let yesterday's UTC data settle.
   workflow_dispatch:
 
 # actions:read lets the slot guard (lib/slot-served.mjs) list this workflow's

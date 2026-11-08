@@ -32,13 +32,12 @@
 //    node scripts/schedule-watchdog.mjs --dry    # 판정만 출력
 // ─────────────────────────────────────────────────────────────
 import { lastFireBefore } from './lib/cron-window.mjs';
-import { MANIFEST } from './lib/cron-manifest.mjs';
+import { MANIFEST, GRACE_MIN, graceFor } from './lib/cron-manifest.mjs';
 import { sendTelegram } from './lib/telegram.mjs';
 
 const DRY = process.argv.includes('--dry');
 const REPO = process.env.GITHUB_REPOSITORY || 'pixer-11/korea-travel-guide';
 const TOKEN = process.env.GITHUB_TOKEN;
-const GRACE_MIN = 100; // 지각 발화 여지 — 이보다 늦으면 누락으로 판정
 
 // 명단은 lib/cron-manifest.mjs 로 이사했다(2026-08-29) — 슬롯 가드
 // (lib/slot-served.mjs)와 같은 목록을 봐야 해서다. 이 파일을 import 하면
@@ -60,7 +59,7 @@ async function tg(text) {
 }
 
 const now = Date.now();
-const rescued = [], pending = [], failures = [];
+const rescued = [], routine = [], pending = [], failures = [];
 
 // rescue:false 항목(publish — 전용 감시견 있음)은 슬롯 가드용일 뿐, 여기서
 // 구조하지 않는다.
@@ -104,7 +103,7 @@ for (const w of RESCUABLE) {
   // 쪽이 더 비싸기 때문이다. 가드를 붙이는 것이 다음 작업이다.
   const ran = (runs.workflow_runs ?? []).some((r) =>
     r.status !== 'completed' || r.conclusion === 'success');
-  const verdict = ran ? 'ok' : (overdueMin <= GRACE_MIN ? 'waiting' : 'MISSED');
+  const verdict = ran ? 'ok' : (overdueMin <= graceFor(w) ? 'waiting' : 'MISSED');
   console.log(`${w.file}: expected ${new Date(lastExpected).toISOString()} (+${overdueMin}m) → ${verdict}`);
   if (verdict !== 'MISSED') continue;
   if (DRY) { pending.push(w); continue; }
@@ -114,7 +113,9 @@ for (const w of RESCUABLE) {
       method: 'POST',
       body: JSON.stringify({ ref: 'main', ...(inputs ? { inputs } : {}) }),
     });
-    rescued.push(`${w.name} (${overdueMin}분 지각)`);
+    // 항목별 유예로 일찍 구조한 것은 매일 아침의 평시 운영이다. 전체 유예를 넘긴
+    // 것만 "흘린 실행"으로 알린다 — 아니면 보고 옆에 경보가 매일 한 통 붙는다.
+    (overdueMin > GRACE_MIN ? rescued : routine).push(`${w.name} (${overdueMin}분 지각)`);
   } catch (e) {
     console.error(`${w.file}: 구조 발화 실패 — ${e.message.slice(0, 120)}`);
     failures.push(`${w.name}: 구조 발화 실패`);
@@ -134,4 +135,4 @@ if (failures.length) {
     failures.map((f) => `· ${f}`).join('\n') +
     `\n(감시가 그만큼 비어 있다는 뜻입니다 — 반복되면 명단·권한을 확인해 주세요.)`);
 }
-console.log(`${rescued.length} rescued, ${pending.length} would-rescue (dry), ${RESCUABLE.length} checked, ${failures.length} unreadable`);
+console.log(`${rescued.length + routine.length} rescued, ${pending.length} would-rescue (dry), ${RESCUABLE.length} checked, ${failures.length} unreadable`);

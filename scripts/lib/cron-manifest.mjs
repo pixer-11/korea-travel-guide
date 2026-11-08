@@ -6,6 +6,12 @@
 // If this list disagrees with the workflow files' own cron lines, both
 // consumers lie together — so cron-manifest.test.mjs holds every entry to its
 // workflow file's actual cron, and fails on any new unguarded daily cron.
+
+// 지각 발화 여지 — 이보다 늦으면 누락으로 판정. 전체를 줄이면 안 된다: refresh·
+// alt-photos·indexnow 는 슬롯 가드가 없어 구조와 지각 원본이 겹치면 두 번 돈다.
+export const GRACE_MIN = 100;
+export const graceFor = (w) => w.graceMin ?? GRACE_MIN;
+
 export const MANIFEST = [
   { file: 'reddit-scout.yml', name: '레딧 스카우트', crons: ['30 11 * * *'] },
   { file: 'pinterest.yml', name: '핀터레스트 핀', crons: ['35 23 * * *', '35 11 * * *'] },
@@ -17,7 +23,10 @@ export const MANIFEST = [
     inputsByCron: { '33 20 * * 0': { full: 'true' }, '33 19 * * 1-6': { full: 'false' } } },
   { file: 'threads-daily.yml', name: '스레드 소재·소셜 게시', crons: ['25 22 * * *', '25 23 * * *', '25 1 * * *'] },
   { file: 'indexnow.yml', name: 'IndexNow 제출', crons: ['30 8 * * *', '30 20 * * *'] },
-  { file: 'analytics-report.yml', name: '일일 분석 보고', crons: ['7 0 * * *'] },
+  // graceMin: 아침 보고는 깃허브가 4~6시간 늦게 배달해 45일 중 10시 전 도착이
+  // 하루뿐이었다(11-08 실측). 100분 유예면 10:47 KST 전엔 구조가 불가능하다.
+  // 슬롯 가드가 있어 일찍 구조해도 지각 원본이 스스로 물러난다.
+  { file: 'analytics-report.yml', name: '일일 분석 보고', crons: ['7 0 * * *'], graceMin: 30 },
   { file: 'alt-photos.yml', name: '새벽 사진 교체 순찰', crons: ['35 19 * * *'] },
   // publish 는 전용 publish-watchdog 이 지키므로 총괄 감시견은 건드리지 않는다
   // (rescue:false — 둘이 같은 개를 풀면 이중 발행 경쟁). 슬롯 가드용으로만

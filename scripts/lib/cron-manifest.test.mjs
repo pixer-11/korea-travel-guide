@@ -8,9 +8,10 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import { readFileSync, readdirSync, existsSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
-import { MANIFEST } from './cron-manifest.mjs';
+import { MANIFEST, GRACE_MIN, graceFor } from './cron-manifest.mjs';
 
 const WF = fileURLToPath(new URL('../../.github/workflows/', import.meta.url));
+const SCRIPTS = fileURLToPath(new URL('../', import.meta.url));
 const cronsIn = (file) =>
   [...readFileSync(WF + file, 'utf8').matchAll(/^\s*-\s*cron:\s*'([^']+)'/gm)].map((m) => m[1]);
 
@@ -41,6 +42,32 @@ test('inputsByCron keys are crons the entry actually lists', () => {
       );
     }
   }
+});
+
+// A short grace rescues while GitHub's late original is still on its way, so
+// only a workflow that stands down by itself may have one. refresh, alt-photos
+// and indexnow have no slot guard: rescued early, they would simply run twice.
+test('a shortened grace only goes to a workflow with a slot guard', () => {
+  const sources = readdirSync(SCRIPTS).filter((f) => f.endsWith('.mjs')).map((f) => readFileSync(SCRIPTS + f, 'utf8'));
+  const stands = (w) => sources.some((s) => s.includes(`exitIfSlotServed('${w.file}')`));
+  const short = MANIFEST.filter((w) => graceFor(w) < GRACE_MIN);
+  for (const w of short) assert.ok(stands(w), `${w.file} has a ${graceFor(w)}-minute grace and no slot guard`);
+  assert.deepEqual(short.map((w) => w.file), ['analytics-report.yml']);
+});
+
+test('the rest of the roster keeps the full grace, and the morning report does not', () => {
+  assert.equal(GRACE_MIN, 100);
+  const report = MANIFEST.find((w) => w.file === 'analytics-report.yml');
+  assert.equal(graceFor(report), 30);
+  assert.equal(graceFor({ file: 'x.yml' }), GRACE_MIN);
+  assert.equal(graceFor({ file: 'x.yml', graceMin: 0 }), 0);
+});
+
+// The watchdog runs on import, so its one line of judgement is read, not called.
+test('the watchdog judges each entry by its own grace', () => {
+  const src = readFileSync(SCRIPTS + 'schedule-watchdog.mjs', 'utf8');
+  assert.match(src, /overdueMin <= graceFor\(w\)/);
+  assert.doesNotMatch(src, /const GRACE_MIN/);
 });
 
 // Not every cron belongs in the manifest (weeklies can wait a week; the
