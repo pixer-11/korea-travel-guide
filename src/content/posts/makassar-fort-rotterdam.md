@@ -37,6 +37,7 @@ place:
     - 'Friday: 8:00 AM – 6:00 PM'
     - 'Saturday: 8:00 AM – 6:00 PM'
     - 'Sunday: 8:00 AM – 6:00 PM'
+  phone: '+62 812-4488-8686'
 tags:
   - makassar
   - hidden gem
