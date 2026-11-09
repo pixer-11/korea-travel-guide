@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { fixCjkBold, fixCjkBoldLine, rendersBold } from './cjk-bold.mjs';
+import { fixCjkBold, fixCjkBoldLine, rendersBold, brokenBoldLine, literalBoldCount } from './cjk-bold.mjs';
 
 test('the failing shape really does fail to render', () => {
   // If this ever passes, CommonMark changed and the repair is obsolete.
@@ -198,4 +198,18 @@ test('a bold span that opens with + after a CJK letter is repaired', () => {
   }
   // a span that already renders is left alone
   assert.equal(fixCjkBoldLine('Call **+853** first.'), 'Call **+853** first.');
+});
+
+// 2026-11-09: "F**kin' Problems" is the song's title, not a failed delimiter.
+test('stars inside a Latin word are the word, a failed closer still is not', () => {
+  const song = "会場では「F**kin' Problems」を歌えるファンが集まります。";
+  assert.equal(brokenBoldLine(song), null);
+  assert.equal(rendersBold(song), true);
+  assert.equal(literalBoldCount(song), 0);
+  const broken = '**왓 랏차부라나(Wat Ratchaburana)**와 F**kin 곡';
+  assert.equal(brokenBoldLine(broken), broken);
+  assert.equal(brokenBoldLine('**内堡（Inner Fort）**是'), '**内堡（Inner Fort）**是');
+  assert.equal(brokenBoldLine('Song F**K You live'), null);
+  // A stray delimiter glued between whole words is not a censored word.
+  assert.equal(brokenBoldLine('Visita el**mercado central hoy'), 'Visita el**mercado central hoy');
 });

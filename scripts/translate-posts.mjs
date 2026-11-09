@@ -22,7 +22,7 @@ import Anthropic from '@anthropic-ai/sdk';
 import './lib/claude-meter.mjs'; // counts this file's Claude spend into the cost ledger
 import { readdir, readFile, writeFile, mkdir } from 'node:fs/promises';
 import { latinDrops } from './lib/latin-drop.mjs';
-import { upcomingHits, stackedSchedule } from './lib/ended-event-tense.mjs';
+import { upcomingHits, upcomingClauses, stackedSchedule } from './lib/ended-event-tense.mjs';
 import { existsSync, readFileSync, readdirSync } from 'node:fs';
 import { srcHashOfPostFile, storedHashIn } from './lib/src-hash.mjs';
 import { join } from 'node:path';
@@ -595,10 +595,10 @@ async function translateOne(langCode, srcId, data, hash, attempt = 1, pre = null
   if (data.ended) {
     // Scope lives in lib/ended-event-tense.mjs: answers yes, questions no.
     // Sentence by sentence, skipping general norms ("보통 하루 동안 진행됩니다").
-    const upcoming = upcomingHits(out, langCode);
+    const upcoming = [...new Set(upcomingClauses(out, langCode).map((h) => h.clause))];
     if (upcoming.length) {
       if (attempt < 3) {
-        console.log(`     ↻ ${langCode}/${srcId} — finished event still reads as upcoming (${upcoming.slice(0, 2).join(', ')}), retrying (attempt ${attempt + 1})`);
+        console.log(`     ↻ ${langCode}/${srcId} — finished event still reads as upcoming (${upcoming.slice(0, 2).join(' / ')}), retrying (attempt ${attempt + 1})`);
         // Name what was wrong. The retry used to be the same prompt again, and a
         // model that reads a yearly holiday as habitual ("Se celebra el 15 de
         // octubre…") made the same choice three times out of three, so the

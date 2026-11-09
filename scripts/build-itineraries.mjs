@@ -762,6 +762,22 @@ export function contextForIssue(fm, issue) {
   return [];
 }
 
+// The correction call has to resubmit every field, so a single flagged day
+// intro came back with all its stop descriptions rewritten. Ho Chi Minh City's
+// 3-day page needed one district name changed and was refused twice because
+// the rewrite invented "half day" for a zoo whose kept text said nothing of the
+// kind (2026-11-09). A description no issue named already passed the validator:
+// it stays as it was. When an issue cannot be pinned to a field, nothing is
+// known to be clean, so the whole correction is taken.
+export function keepUnflaggedWhys(previous, corrected, issues, fm) {
+  const out = { ...(corrected || {}) };
+  if (!issues.every((issue) => contextForIssue(fm, issue).length)) return out;
+  for (const [slug, why] of Object.entries(previous || {})) {
+    if (why && !issues.some((issue) => issue.includes(`stop "${slug}"`))) out[slug] = why;
+  }
+  return out;
+}
+
 // Restated here, not just in the base prompt, for the reason the clock-time
 // rules were: the correction call is focused on the listed issues and drops
 // everything it isn't looking at. Measured on the 2026-09-21 Seoul 5-day
@@ -1012,6 +1028,7 @@ async function processVariant({ city, country, days, cityPosts, packedAvailable 
   const preflightIssues = await validateItineraryFile(tmpPath, { posts: cityPosts, label });
   if (preflightIssues.length && isProseFixable(preflightIssues)) {
     console.log(`  ⚠ ${variantId} — validator found ${preflightIssues.length} prose-fixable issue(s); correcting once`);
+    for (const issue of preflightIssues) console.log(`    · ${issue}`);
     let correctedOut;
     try {
       correctedOut = await withShapeRetry(
@@ -1029,7 +1046,7 @@ async function processVariant({ city, country, days, cityPosts, packedAvailable 
       process.exitCode = 1;
       return { created: false, isNewFile: false };
     }
-    const correctedWhysMap = correctedOut.whys || {};
+    const correctedWhysMap = keepUnflaggedWhys(whysMap, correctedOut.whys, preflightIssues, fm);
     fm = assembleFrontmatter({
       city, country, days, result, aiOut: correctedOut, whysMap: correctedWhysMap, stopsHash, packedAvailable,
       existingPubDate: existing?.pubDate || null,

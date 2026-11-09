@@ -95,6 +95,16 @@ const SPECIFIC = /20\d\d|\d{1,2}\s*월\s*\d{1,2}\s*일|\d{1,2}\s*月\s*\d{1,2}\s
 
 /** UPCOMING matches in `out`, skipping sentences that state a general norm. */
 export function upcomingHits(out, lang) {
+  // The vocabulary lists a few verbs twice (개최됩니다, 開催されます).
+  return [...new Set(upcomingClauses(out, lang).map((h) => h.hit))];
+}
+
+/**
+ * The same matches with the clause each came from. A bare verb tells neither
+ * the log nor the model which sentence is wrong: ja/tokyo-stray-kids failed
+ * three attempts on "行われます" (2026-11-09) and nobody could see where.
+ */
+export function upcomingClauses(out, lang) {
   const vocab = UPCOMING[lang] ?? [];
   const generic = GENERIC[lang];
   const hits = [];
@@ -115,11 +125,10 @@ export function upcomingHits(out, lang) {
     if (exempt) continue;
     for (const re of vocab) {
       const m = sentence.match(new RegExp(re.source, re.flags.replace('g', '')));
-      if (m) hits.push(m[0]);
+      if (m) hits.push({ hit: m[0], clause: sentence.trim() });
     }
   }
-  // The vocabulary lists a few verbs twice (개최됩니다, 開催されます).
-  return [...new Set(hits)];
+  return hits;
 }
 
 // ─────────────────────────────────────────────────────────────

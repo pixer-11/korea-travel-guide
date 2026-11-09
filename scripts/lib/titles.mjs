@@ -46,6 +46,18 @@ export function cleanVenueName(name) {
 // à: Lyon Travel Guide" passed it as clean (2026-10-05 audit).
 export const TITLE_CONNECTORS = 'of|the|de|du|des|at|in|on|and|for|à|a|el|la|le|les|di|del|della|delle|dello|dei|degli|da|dal|dalla|do|dos|das|von|vom|zum|zur|der|van|y|e|et|und';
 
+// An event's own name can carry its local script as a gloss: "MandoWave Festival
+// (曼波祭)". The body keeps that, but an English title may not, and the event
+// branch of discover-events built its title from the raw name, so the guide was
+// born failing the NON-LATIN title rule (2026-11-09). Only a bracket holding a
+// non-Latin letter goes; a name written wholly in another script is left alone
+// for the rule to judge rather than emptied.
+export function latinTitleName(name) {
+  const raw = String(name ?? '').trim();
+  const out = raw.replace(/\s*[(（][^()（）]*[^\P{L}\p{Script=Latin}\p{Script=Common}][^()（）]*[)）]/gu, ' ').replace(/\s+/g, ' ').replace(/ ([,:;.!?])/g, '$1').trim();
+  return out || raw;
+}
+
 export function makeTitle(name, target, place) {
   const region = target.region;
   let base = cleanVenueName(name);

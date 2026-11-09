@@ -15,6 +15,7 @@ import {
   validateAiOutput,
   isProseFixable,
   contextForIssue,
+  keepUnflaggedWhys,
   fixRainFaqIfStale,
   stopsHashOf,
   symmetricDiffSize,
@@ -593,4 +594,20 @@ test('withShapeRetry: gives up after the one retry (never loops)', async () => {
     /missing faq array/,
   );
   assert.equal(calls, 2);
+});
+
+// 2026-11-09: one flagged day intro must not cost the descriptions nobody flagged.
+test('keepUnflaggedWhys: a correction leaves unflagged stop descriptions as they were', () => {
+  const fm = { itinerary: [{ label: 'a', intro: 'b' }] };
+  const prev = { zoo: 'for an unhurried visit', cafe: 'for a coffee' };
+  const corrected = { zoo: 'worth a half day', cafe: 'rewritten' };
+  const dayIssue = 'AREA-CLAIM-UNSUPPORTED: f — day 1 names "X" but no stop of that day attests it';
+  assert.deepEqual(keepUnflaggedWhys(prev, corrected, [dayIssue], fm), prev);
+  const stopIssue = 'DURATION-CONTRADICTION: f — day 1 stop "zoo" why says "half day" (~240 min) but dwellMin is 150';
+  assert.deepEqual(keepUnflaggedWhys(prev, corrected, [stopIssue], fm), { zoo: 'worth a half day', cafe: 'for a coffee' });
+});
+
+test('keepUnflaggedWhys: an issue pinned to no field takes the whole correction', () => {
+  const corrected = { zoo: 'new' };
+  assert.deepEqual(keepUnflaggedWhys({ zoo: 'old' }, corrected, ['SOMETHING-ELSE: f'], {}), corrected);
 });

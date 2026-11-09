@@ -18,8 +18,19 @@ import { gfm, gfmHtml } from 'micromark-extension-gfm';
 
 const OPTS = { extensions: [gfm()], htmlExtensions: [gfmHtml()] };
 
+// Stars that belong to the WORD, between two Latin letters: the song is called
+// "F**kin' Problems", and every language keeps it. That is the title rendered
+// correctly, not a delimiter that failed, and the audit called it broken bold
+// in all four translations of the A$AP Rocky guide (2026-11-09). A failed
+// closer has punctuation on its left ("(gloss)**word") and a CJK neighbour is
+// not Latin, so neither hides here. The shape is a censored word's: a stem of
+// up to three letters and a tail of up to five, so a stray delimiter glued
+// between whole words ("el**mercado central") is still reported. Judged on the
+// HTML, where every ** that did pair is already gone.
+const censored = (html) => html.replace(/(?<![A-Za-z])[A-Za-z]{1,3}\*{2,}[A-Za-z]{1,5}(?![A-Za-z])/g, '');
+
 /** True when a line's ** all resolve; literal asterisks in the HTML mean they did not. */
-export const rendersBold = (line) => !micromark(line, OPTS).includes('**');
+export const rendersBold = (line) => !censored(micromark(line, OPTS)).includes('**');
 
 // **text(gloss)** → **text**(gloss)     — closer moved before the parenthetical
 // Either rule's closer may also be followed by an ITALIC opener: "**Other Dutch
@@ -147,9 +158,9 @@ const OPTS_HTML = { extensions: [gfm()], htmlExtensions: [gfmHtml()], allowDange
 export function brokenBoldLine(body) {
   const text = String(body ?? '');
   if (!text.includes('**')) return null;
-  if (!micromark(text, OPTS_HTML).includes('**')) return null;
+  if (!censored(micromark(text, OPTS_HTML)).includes('**')) return null;
   for (const line of text.split('\n')) {
-    if (line.includes('**') && micromark(line, OPTS_HTML).includes('**')) return line;
+    if (line.includes('**') && censored(micromark(line, OPTS_HTML)).includes('**')) return line;
   }
   return text.split('\n').find((x) => x.includes('**')) || '**';
 }
@@ -158,5 +169,5 @@ export function brokenBoldLine(body) {
 export function literalBoldCount(body) {
   const text = String(body ?? '');
   if (!text.includes('**')) return 0;
-  return (micromark(text, OPTS_HTML).match(/\*\*/g) || []).length;
+  return (censored(micromark(text, OPTS_HTML)).match(/\*\*/g) || []).length;
 }

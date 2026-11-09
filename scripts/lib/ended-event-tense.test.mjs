@@ -6,7 +6,7 @@
 // 그래서 이 테스트는 **모든 항목이 실제 문장에서 발화하는지**를 검사한다.
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { UPCOMING, upcomingText, stackedSchedule, PLANNED, upcomingHits, GENERIC } from './ended-event-tense.mjs';
+import { UPCOMING, upcomingText, stackedSchedule, PLANNED, upcomingHits, upcomingClauses, GENERIC } from './ended-event-tense.mjs';
 
 // 각 패턴이 실제로 잡아야 하는 문장. 새 패턴을 넣으면 여기에도 넣어야 한다.
 const FIRES = {
@@ -209,4 +209,10 @@ test('일반론 표지가 있어도 이번 회차를 특정하면 면제하지 �
   for (const [lang, s, want] of cases) {
     assert.ok(upcomingHits({ body: s }, lang).includes(want), `${lang}: "${s}" 를 놓쳤다`);
   }
+});
+
+test('upcomingClauses: 걸린 동사와 그 절을 함께 돌려준다', () => {
+  const hits = upcomingClauses({ body: '東京ドームの公演は11月8日に行われます。' }, 'ja');
+  assert.deepEqual(hits, [{ hit: '行われます', clause: '東京ドームの公演は11月8日に行われます。' }]);
+  assert.deepEqual(upcomingHits({ body: '東京ドームの公演は11月8日に行われます。' }, 'ja'), ['行われます']);
 });

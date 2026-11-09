@@ -19,7 +19,7 @@ import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 import Anthropic from '@anthropic-ai/sdk';
 import './lib/claude-meter.mjs'; // counts this file's Claude spend into the cost ledger
-import { makeTitle } from './lib/titles.mjs';
+import { makeTitle, latinTitleName } from './lib/titles.mjs';
 import matter from 'gray-matter';
 import { topicKey } from './lib/topic-key.mjs';
 import { keyToken, tokens as nameTokens, performerCategoryPhotos, eventCategoryPhotos } from './lib/commons.mjs';
@@ -267,7 +267,7 @@ function planDiscovered(item, ctx, log = console.log) {
   // (topic-key, eventName.mjs, the ics/md feeds, reresolve-images) matches
   // BOTH suffixes, so the back catalogue and the new form coexist.
   const title = kind === 'event'
-    ? `${item.name}: Dates, Tickets & Venue${item.city ? ` (${item.city})` : ''}`
+    ? `${latinTitleName(item.name)}: Dates, Tickets & Venue${item.city ? ` (${item.city})` : ''}`
     : makeTitle(item.name, { region: item.city, category: cat });
   // Near-duplicate guard: skip if a same-topic post already exists. Catches name
   // variants ("ChinaJoy" vs "ChinaJoy 2026") that pass the exact-slug check above
