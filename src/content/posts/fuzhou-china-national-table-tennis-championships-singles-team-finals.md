@@ -11,7 +11,6 @@ eventRecurring: true
 eventOrganizer:
   name: Chinese Table Tennis Association
 eventFactsAsked: true
-gallery: []
 tags:
   - fuzhou
   - event
@@ -29,6 +28,16 @@ faq:
     a: Walk Three Lanes and Seven Alleys near Dongjiekou Station (Metro Line 1), visit Yongquan Temple on Gushan, or try a hot-spring bathhouse. Local dishes to try are Fuzhou fish balls and Buddha Jumps Over the Wall.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/9/99/Table_Tennis_11.jpg
+  credit: 'Photo: INUSAH GANIYU / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Table_Tennis_11.jpg
+  focus:
+    x: 64
+    'y': 16
+    top: 10
+    bottom: 22
 ---
 
 ## Eight days of paddles in Fuzhou

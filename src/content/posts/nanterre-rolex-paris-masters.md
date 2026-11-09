@@ -1,6 +1,6 @@
 ---
 title: 'Rolex Paris Masters: Dates, Tickets & Venue (Nanterre)'
-description: The Rolex Paris Masters 2026 runs from October 31 to November 8, 2026 at the Plenitude Arena in Nanterre, on the western edge of the La Défense business district just outside Paris.
+description: The Rolex Paris Masters 2026 was set for October 31 to November 8, 2026 at the Plenitude Arena in Nanterre, on the western edge of La Défense.
 country: France
 region: Nanterre
 category: event
@@ -27,27 +27,26 @@ gallery: []
 tags:
   - nanterre
   - event
-quickAnswer: The Rolex Paris Masters 2026 runs from October 31 to November 8, 2026 at the Plenitude Arena in Nanterre, on the western edge of the La Défense business district just outside Paris. It is the last ATP Masters 1000 of the season before the ATP Finals. Most fans reach the arena on RER A or Metro Line 1 to La Défense, then walk about ten minutes past the Grande Arche.
+quickAnswer: The Rolex Paris Masters 2026 was set for October 31 to November 8, 2026 at the Plenitude Arena in Nanterre, on the western edge of the La Défense business district just outside Paris. It is the last ATP Masters 1000 of the season before the ATP Finals. Most fans reach the arena on RER A or Metro Line 1 to La Défense, then walk about ten minutes past the Grande Arche.
 faq:
   - q: When is the Rolex Paris Masters 2026?
-    a: The 2026 edition runs from Saturday, October 31 to Sunday, November 8, 2026. It is the tournament's 40th anniversary edition.
+    a: The 2026 edition was scheduled from Saturday, October 31 to Sunday, November 8, 2026. It was billed as the tournament's 40th anniversary edition.
   - q: Where is the Rolex Paris Masters held?
     a: At the Plenitude Arena (formerly Paris La Défense Arena) in Nanterre, at the western end of the La Défense business district, just behind the Grande Arche.
   - q: How do I get to the Plenitude Arena by public transport?
     a: Take RER A, Metro Line 1, Transilien L or U, or Tram T2 to La Défense, then walk about ten minutes west along the esplanade past the Grande Arche. Nanterre Préfecture on RER A is another option.
   - q: Where are tickets sold?
-    a: The organiser, the Fédération Française de Tennis, publishes the schedule, ticket links and prices on the official Rolex Paris Masters website.
+    a: Tickets were sold by the organiser, the Fédération Française de Tennis, with prices varying by day.
   - q: Is the tournament indoors?
     a: Yes. It is played on a hard court under the arena's fixed roof, so weather never stops play. Fans usually bring a coat for the open-air walk from the station.
 aiGenerated: true
 draft: false
 ---
-
 ## Forty years of indoor tennis
 
 This tournament closes out the Masters season. The Rolex Paris Masters is an ATP Masters 1000 event, one tier below the four Grand Slams. It is also the final Masters stop before the season-ending ATP Finals in Turin.
 
-The 2026 edition marks the event's 40th anniversary. It runs from Saturday, October 31 to Sunday, November 8, 2026. For most of its life it was played in Bercy, in eastern Paris. It now sits on the other side of the city, in Nanterre.
+The 2026 edition was set for Saturday, October 31 to Sunday, November 8, 2026, and was billed as the event's 40th anniversary. Bercy, in eastern Paris, was the tournament's home for most of its history. Its current home is on the other side of the city, in Nanterre.
 
 That late-autumn slot shapes everything about the week. Ranking points are scarce by November, so places at the Finals are often still open. Matches here can decide who goes to Turin and who goes on holiday.
 
@@ -85,9 +84,9 @@ Paying by card is standard at the arena's food and drink counters, as it is acro
 
 ## Tickets and sessions
 
-The tournament is run by the Fédération Française de Tennis. The organiser publishes the dates, schedule and ticket links on the official Rolex Paris Masters website, which is where prices for each day appear.
+The tournament is run by the Fédération Française de Tennis. Tickets for the 2026 edition were sold by the organiser, with prices set for each day.
 
-Early days pack in the most matches, with many players still in the draw. These sessions suit fans who want volume and a chance to see lower-ranked names alongside the stars. The weekend of the semi-finals and final draws the biggest crowds and the highest demand.
+Early days usually pack in the most matches, with many players still in the draw. These sessions suit fans who want volume and a chance to see lower-ranked names alongside the stars. The weekend of the semi-finals and final typically draws the biggest crowds and the highest demand.
 
 Fans who want the top-ranked players without the final-weekend crush usually aim for the middle of the week. By then the draw has thinned, but the big names are generally still alive.
 

@@ -12,6 +12,14 @@ eventPerformer:
   name: Khalid
   kind: person
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/2/2e/Mumbai_03-2016_31_Gateway_of_India.jpg'
+  credit: 'Photo: A.Savin / Wikimedia Commons (FAL)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Mumbai_03-2016_31_Gateway_of_India.jpg'
+  focus:
+    x: 50
+    y: 40
 gallery: []
 tags:
   - mumbai

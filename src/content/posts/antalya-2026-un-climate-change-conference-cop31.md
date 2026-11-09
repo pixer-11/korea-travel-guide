@@ -13,7 +13,6 @@ eventOrganizer:
   name: United Nations Framework Convention on Climate Change
   url: https://unfccc.int
 eventFactsAsked: true
-gallery: []
 tags:
   - antalya
   - event
@@ -31,6 +30,14 @@ faq:
     a: Kaleiçi old town with Hadrian's Gate is closest to the city hotels. The ancient city of Perge is right in Aksu, and the Roman theatre at Aspendos and the Lower Düden Waterfall are both an easy drive away.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/1/1b/Abdul_Awal_Mintoo%2C_Minister_of_Environment%2C_Forest%2C_and_Climate_Change%2C_Turkey%27s_Road_to_COP31_Resilient_Cities%2C_Hatay%2C_Turkey%2C_2026-05-09.jpg
+  credit: 'Photo: Press Information Department / Wikimedia Commons (Public domain)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Abdul_Awal_Mintoo,_Minister_of_Environment,_Forest,_and_Climate_Change,_Turkey%27s_Road_to_COP31_Resilient_Cities,_Hatay,_Turkey,_2026-05-09.jpg
+  focus:
+    x: 50
+    'y': 50
 ---
 
 ## Twelve days on the old Expo grounds

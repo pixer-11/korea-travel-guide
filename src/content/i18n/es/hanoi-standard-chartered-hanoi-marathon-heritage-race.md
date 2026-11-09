@@ -1,62 +1,62 @@
 ---
 lang: es
 slug: hanoi-standard-chartered-hanoi-marathon-heritage-race
-srcHash: 'fdc2e064e3da'
-title: 'Standard Chartered Hanoi Marathon – Heritage Race: fechas, inscripciones y sede (Hanói)'
-description: El 8 de noviembre de 2026 se celebra en Hanói la Standard Chartered Hanoi Marathon – Heritage Race, cuya feria del corredor abre sus puertas del 6 al 8 de noviembre.
-quickAnswer: El 8 de noviembre de 2026 se celebra en Hanói la Standard Chartered Hanoi Marathon – Heritage Race, cuya feria del corredor abre sus puertas del 6 al 8 de noviembre. Su recorrido, homologado por AIMS y World Athletics, atraviesa el Barrio Antiguo de la ciudad. Antes de reservar el viaje, conviene verificar en la web oficial los horarios de salida, las categorías, la sede y las inscripciones.
+srcHash: 'd4a71c4e0808'
+title: 'Standard Chartered Hanoi Marathon – Heritage Race: fechas, inscripción y recorrido (Hanói)'
+description: El Standard Chartered Hanoi Marathon – Heritage Race tenía como fecha el 8 de noviembre de 2026 en Hanói, con una feria del corredor del 6 al 8 de noviembre.
+quickAnswer: Las fechas anunciadas para el Standard Chartered Hanoi Marathon – Heritage Race eran el 8 de noviembre de 2026 para la carrera, en Hanói, y del 6 al 8 de noviembre para la feria del corredor. El recorrido anunciado contaba con la homologación de AIMS/World Athletics y atravesaba el Barrio Antiguo de Hanói.
 faq:
-  - q: ¿Cuándo se celebra la Standard Chartered Hanoi Marathon – Heritage Race en 2026?
-    a: La carrera principal tendrá lugar el 8 de noviembre de 2026, y la feria del corredor, del 6 al 8 de noviembre. Los horarios exactos deben confirmarse en la web oficial.
-  - q: ¿Dónde se disputa la carrera?
-    a: El recorrido pasa por el Barrio Antiguo de Hanói, el viejo distrito comercial situado junto al lago Hoan Kiem. En la web oficial pueden consultarse el lugar de salida y meta y el mapa completo del circuito.
-  - q: ¿Está homologado el recorrido?
-    a: Sí. Cuenta con la homologación de AIMS y World Athletics, de modo que las marcas obtenidas son resultados medidos oficialmente.
-  - q: ¿Cuándo conviene llegar a Hanói?
-    a: Lo ideal es llegar como muy tarde el 7 de noviembre. Así podrá visitar la feria del corredor, donde suelen recogerse los dorsales, y familiarizarse con las calles del Barrio Antiguo antes del día de la prueba.
-  - q: ¿Qué tiempo suele hacer durante la carrera?
-    a: En noviembre empieza la estación seca en Hanói. Por lo general hace más fresco y hay menos humedad que en verano, aunque es recomendable consultar el índice diario de calidad del aire antes de correr.
+  - q: ¿Qué fechas tenía el Standard Chartered Hanoi Marathon – Heritage Race en 2026?
+    a: La jornada principal de carrera estaba fijada para el 8 de noviembre de 2026, y la feria del corredor, del 6 al 8 de noviembre.
+  - q: ¿Por dónde pasaba la carrera?
+    a: Según el recorrido anunciado, la prueba atravesaba el Barrio Antiguo de Hanói, el viejo distrito comercial que se extiende junto al lago Hoan Kiem.
+  - q: ¿Estaba homologado el recorrido?
+    a: Sí. Contaba con la homologación de AIMS/World Athletics, de modo que las marcas obtenidas tenían validez como resultados medidos oficialmente.
+  - q: ¿Cuándo convenía llegar a Hanói?
+    a: La feria se celebraba del 6 al 8 de noviembre y la carrera era el día 8, así que el 7 de noviembre era el último día completo antes de la prueba. En los maratones de las grandes ciudades, los dorsales suelen entregarse en la feria.
+  - q: ¿Qué tiempo cabía esperar el día de la carrera?
+    a: En noviembre comienza la estación seca de Hanói. Por lo general hace más fresco y hay menos humedad que en verano, aunque la calidad del aire cambia de un día a otro.
 ---
 
-## Una carrera por el Barrio Antiguo
+## Correr por el Barrio Antiguo
 
-Pocos maratones discurren por calles tan antiguas. La Heritage Race lleva a los corredores al Barrio Antiguo de Hanói, una cuadrícula de estrechas calles comerciales que fue creciendo junto al lago Hoan Kiem. Muchas de ellas conservan todavía el nombre de las mercancías que antaño se vendían allí.
+Pocos maratones llevan a sus corredores por calles tan antiguas. El trazado de la Heritage Race se adentraba en el Barrio Antiguo de Hanói, una retícula de estrechas calles comerciales que fue creciendo a orillas del lago Hoan Kiem. Muchas de ellas todavía llevan el nombre de las mercancías que antaño se vendían allí.
 
-En un día cualquiera, frente a las estrechas fachadas de las casas-tienda se alinean motos aparcadas en la acera y taburetes de plástico junto al bordillo. La mañana de la carrera, en cambio, las calles se cierran al tráfico y son los corredores quienes las ocupan. El maratón está homologado por AIMS y World Athletics, por lo que cualquier marca lograda aquí cuenta como un resultado medido con todas las garantías.
+Cualquier otro día, frente a las angostas fachadas de las casas-tienda se alinean motos aparcadas en la acera y taburetes de plástico junto al bordillo. La mañana de la carrera, en cambio, se cortan las calles y son los corredores quienes las ocupan. Al estar homologado por AIMS/World Athletics, el maratón garantizaba que cualquier marca lograda en él contara como un resultado medido con todo rigor.
 
 ## Fechas, feria del corredor e inscripción
 
-El fin de semana se divide en dos partes:
+El fin de semana se organizó en dos partes:
 
 - **Feria del corredor:** del 6 al 8 de noviembre de 2026
-- **Día de la carrera principal:** domingo, 8 de noviembre de 2026
+- **Jornada principal de carrera:** domingo, 8 de noviembre de 2026
 - **Homologación:** AIMS / World Athletics
 
-En los grandes maratones urbanos los dorsales suelen entregarse en la feria del corredor, así que lo prudente es estar en Hanói el 7 de noviembre como muy tarde. Las normas de recogida, incluido cualquier documento de identidad o formulario médico que deba presentarse, figuran en la web oficial.
+Como en los maratones de las grandes ciudades los dorsales suelen entregarse en la feria, el 7 de noviembre era el último día completo para recogerlos antes de la prueba.
 
-Esta guía no trata las distancias, los horarios de salida, el lugar de salida y meta ni las cuotas de inscripción. Todos estos datos deben tomarse de la web oficial y de la confirmación de inscripción, nunca de listados de terceros.
+En carreras de este tipo es habitual exigir un documento de identidad con fotografía para retirar el dorsal, y algunas piden además un formulario médico firmado. Esta guía no recoge las distancias, los horarios de salida, el lugar de salida y llegada ni el precio de la inscripción.
 
 ## Correr en Hanói en noviembre
 
-Con noviembre llega a Hanói el comienzo de la estación seca. El aire es más fresco y menos húmedo que en los meses de verano, lo que convierte esta época en una de las mejores del año para afrontar aquí una prueba de larga distancia. Como la calidad del aire en la ciudad cambia de un día para otro, conviene consultarla la víspera en una aplicación de AQI en tiempo real.
+Noviembre marca el inicio de la estación seca en Hanói. El aire es más fresco y menos húmedo que en los meses de verano, por lo que se trata de una de las mejores épocas del año para correr largas distancias en la ciudad. La calidad del aire varía de un día a otro, y las aplicaciones que miden en tiempo real el índice de calidad del aire (AQI) la siguen muy de cerca.
 
-Un fin de semana largo de carrera se complementa muy bien con estos lugares emblemáticos del Barrio Antiguo:
+Un fin de semana largo de carrera se combina fácilmente con estos lugares emblemáticos del Barrio Antiguo:
 
-- **Lago Hoan Kiem**, con el puente rojo Huc que conduce al templo Ngoc Son
-- **Mercado Dong Xuan**, el gran mercado cubierto situado en el extremo norte del barrio
-- **Templo de la Literatura**, a un breve trayecto hacia el oeste
-- **Catedral de San José**, justo al suroeste del lago
+- **El lago Hoan Kiem** y el puente rojo The Huc, que conduce al templo de Ngoc Son
+- **El mercado Dong Xuan**, gran mercado cubierto situado en el extremo norte del barrio
+- **El Templo de la Literatura**, a un corto trayecto hacia el oeste
+- **La catedral de San José**, justo al suroeste del lago
 
-Lo más práctico es alojarse a poca distancia a pie del Barrio Antiguo. Con los cortes de tráfico de la mañana de la carrera no se puede contar con los taxis, y llegar caminando a la salida evita el problema.
+El Barrio Antiguo es compacto y se recorre cómodamente a pie. Con los cortes de tráfico de las mañanas de carrera, los taxis no son de fiar, así que alojarse en un hotel a poca distancia andando del recorrido resulta lo más sencillo.
 
-## Cómo moverse durante el fin de semana de la carrera
+## Moverse durante el fin de semana de carrera
 
-Las calles de Hanói se rigen por sus propias reglas, y a quien las conoce el fin de semana le resulta mucho más llevadero.
+Las calles de Hanói se rigen por sus propias normas, y a quien las conoce el fin de semana le resulta mucho más llevadero.
 
-- **Cruzar la calle:** camine a un ritmo constante y previsible, sin detenerse de golpe. Las motos le esquivarán; lo que provoca accidentes es echar a correr de repente.
-- **Transporte:** Grab es la aplicación de referencia para pedir coches y mototaxis. La mañana de la carrera, cerca de las calles cortadas, habrá desvíos o directamente no habrá servicio.
-- **Pagos:** en los puestos callejeros y en los mostradores de pho se paga casi siempre en efectivo y en dongs vietnamitas. En hoteles, cafeterías y en la feria del corredor es más probable que acepten tarjeta.
-- **Alimentación:** aquí el pho y el bánh mì se toman en el desayuno, y muchos puestos abren temprano. Antes de la carrera, lo mejor es ceñirse a lo que su estómago ya conoce y dejar la comida callejera para después.
-- **Como espectador:** quienes vayan a animar deben elegir un punto del recorrido antes de que se corten las calles. Cruzar el circuito una vez empezada la prueba puede suponer largas esperas.
+- **Cruzar la calle:** el secreto consiste en avanzar a un ritmo constante y previsible, sin detenerse de golpe. Las motos esquivan a los peatones; lo que provoca accidentes es echar a correr de repente.
+- **Transporte:** Grab es la aplicación de referencia para pedir coches y mototaxis. Cerca de las calles cortadas, las mañanas de carrera son frecuentes los desvíos o la falta de servicio.
+- **Pagos:** en los puestos callejeros y en los mostradores de pho se paga casi siempre en efectivo, en dongs vietnamitas. En hoteles, cafeterías y ferias del corredor es más probable que acepten tarjeta.
+- **Alimentación:** el pho y el bánh mì se toman aquí en el desayuno, y muchos puestos abren temprano. Antes de una carrera, los corredores suelen ceñirse a lo que ya conocen y dejan la comida callejera para después.
+- **Animar desde la calle:** quienes acuden a apoyar suelen escoger su sitio junto al recorrido antes de que se corten las calles. Una vez empezada la carrera, cruzar el trazado puede suponer largas esperas.
 
-En los puestos callejeros no se suele dejar propina. En los restaurantes con mesa se agradece que se deje algo de cambio, aunque no se espera. Los horarios, el mapa del recorrido y las inscripciones deben confirmarse en la web oficial.
+En los puestos callejeros no se acostumbra a dejar propina. En los restaurantes con servicio de mesa se agradece dejar algo de calderilla, aunque nadie lo espera.

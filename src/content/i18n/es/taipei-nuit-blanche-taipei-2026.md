@@ -1,66 +1,66 @@
 ---
 lang: es
 slug: taipei-nuit-blanche-taipei-2026
-srcHash: 'ecf62a642578'
-title: 'Nuit Blanche Taipéi 2026: fechas, entradas y sede (Taipéi)'
-description: La Nuit Blanche Taipéi 2026 se celebrará los días 7 y 8 de noviembre de 2026. Como la entrada es gratuita, conviene fijarse más en las fechas que en las entradas.
-quickAnswer: La Nuit Blanche Taipéi 2026 se celebrará los días 7 y 8 de noviembre de 2026. Al ser gratuita, lo que de verdad importa son las fechas, no las entradas. Las últimas ediciones han tenido como sede el Parque de la Expo de Taipéi (Taipei Expo Park), junto a la estación de Yuanshan de la línea Tamsui-Xinyi del metro. El tema de este año es «Night ka shi».
+srcHash: '885e27aa2440'
+title: 'Nuit Blanche de Taipéi 2026: fechas, entradas y recinto (Taipéi)'
+description: La Nuit Blanche de Taipéi 2026 tenía como fechas el 7 y el 8 de noviembre de 2026, con entrada gratuita. El lema anunciado era «Night ka shi».
+quickAnswer: Las fechas anunciadas de la Nuit Blanche de Taipéi 2026 eran el 7 y el 8 de noviembre de 2026. La entrada era gratuita y no había entrada general. Las últimas ediciones se celebraron en el Parque Expo de Taipéi (Taipei Expo Park), junto a la estación Yuanshan de la línea Tamsui-Xinyi del metro. El lema de 2026 era «Night ka shi».
 faq:
-  - q: ¿Cuándo se celebra la Nuit Blanche Taipéi 2026?
-    a: Del 7 al 8 de noviembre de 2026. Igual que en años anteriores, empieza por la tarde y se prolonga toda la noche hasta el segundo día.
-  - q: ¿Hacen falta entradas para la Nuit Blanche Taipéi?
-    a: No. La entrada es gratuita y no existe una entrada general. En la web oficial del organizador se publican el programa y las inscripciones que puedan requerir algunas obras concretas.
-  - q: ¿Dónde se celebra la Nuit Blanche Taipéi y cómo se llega?
-    a: Las últimas ediciones han tenido lugar en el Parque de la Expo de Taipéi. Se llega desde la estación de Yuanshan (R14), en la línea roja Tamsui-Xinyi del metro, cuya salida 1 da acceso directo al parque.
-  - q: ¿Cómo se vuelve a casa cuando el metro deja de funcionar?
-    a: El servicio regular de metro termina hacia la medianoche. Quienes se quedan hasta tarde suelen recurrir al taxi, a las aplicaciones de transporte con conductor o a YouBike, que puede pagarse con la tarjeta EasyCard.
+  - q: ¿Cuándo era la Nuit Blanche de Taipéi 2026?
+    a: Las fechas previstas eran del 7 al 8 de noviembre de 2026. Igual que en años anteriores, el formato anunciado arrancaba por la tarde y seguía durante toda la noche hasta el segundo día.
+  - q: ¿Hacían falta entradas para la Nuit Blanche de Taipéi?
+    a: No. El acceso era gratuito y no existía entrada general. La organización se encargaba del programa y de las inscripciones que pudieran requerir algunas obras concretas.
+  - q: ¿Dónde se celebra la Nuit Blanche de Taipéi y cómo se llega?
+    a: Las últimas ediciones tuvieron lugar en el Parque Expo de Taipéi (Taipei Expo Park). Se llega desde la estación Yuanshan (R14), en la línea roja Tamsui-Xinyi del metro, cuya salida 1 da directamente al parque.
+  - q: ¿Cómo vuelve la gente a casa cuando cierra el metro?
+    a: El servicio regular de metro termina hacia la medianoche. Quienes se quedan hasta tarde suelen recurrir al taxi, a las aplicaciones de vehículos con conductor o a YouBike, que se puede pagar con la EasyCard.
   - q: ¿Qué hay cerca para combinar con el festival?
-    a: El templo Dalongdong Baoan y el Templo de Confucio de Taipéi quedan a poca distancia a pie de Yuanshan. El mercado nocturno de Shilin está una parada de metro más al norte, en Jiantan, y el Museo de Bellas Artes de Taipéi se encuentra justo al lado del parque.
+    a: El templo Baoan de Dalongdong (Dalongdong Baoan Temple) y el templo de Confucio de Taipéi quedan a un corto paseo de Yuanshan. El mercado nocturno de Shilin (Shilin Night Market) está una parada de metro más al norte, en Jiantan, y el Museo de Bellas Artes de Taipéi linda con el parque.
 ---
 
 ## Una ciudad que trasnocha a propósito
 
-Cuando cierran los mercados nocturnos, Taipéi suele irse apagando. Solo un fin de semana al año el arte sigue en marcha durante toda la noche: el de la Nuit Blanche Taipéi. Este festival anual de artes, de entrada libre y abierto hasta el amanecer, toma como modelo la Nuit Blanche de París, nacida en 2002. Desde la tarde hasta el día siguiente, instalaciones, espectáculos y obras de luz invaden el espacio público.
+Cuando cierran los mercados nocturnos, la mayor parte de Taipéi se va apagando. Solo durante un fin de semana al año el arte sigue en marcha a oscuras: el de la Nuit Blanche de Taipéi. Este festival anual de arte nocturno, de entrada gratuita, toma como modelo la Nuit Blanche que París inauguró en 2002. Desde la tarde hasta el día siguiente, el espacio público se llena de instalaciones, espectáculos y obras de luz.
 
-El tema de la edición de 2026 es «Night ka shi», un juego de palabras con *nakashi* (那卡西). Así se llamaba a los músicos ambulantes que, con guitarra y acordeón, recorrían antaño las posadas termales de Beitou. El nombre evoca una noche de canciones, paseos sin rumbo y cierta nostalgia, aunque el contenido del programa corresponde al organizador.
+En 2026 el lema elegido fue «Night ka shi». El nombre juega con *nakashi* (那卡西), aquellos músicos ambulantes que, con guitarra y acordeón, recorrían antaño las posadas termales de Beitou. Evocaba una noche de canciones, de paseo sin rumbo y de cierta nostalgia, aunque el contenido del programa dependía exclusivamente de la organización.
 
-## Fechas y una cita que dura toda la noche
+## Fechas y formato nocturno
 
-La Nuit Blanche Taipéi 2026 se celebrará del 7 al 8 de noviembre de 2026. Son siete días más tarde que en las ediciones anteriores del Parque de la Expo, que fueron desde la tarde del 31 de octubre hasta el 1 de noviembre.
+Las fechas anunciadas de la Nuit Blanche de Taipéi 2026 eran del 7 al 8 de noviembre de 2026. Suponía una semana de retraso respecto a las ediciones anteriores en el Parque Expo, que se extendieron desde la tarde del 31 de octubre hasta el 1 de noviembre.
 
-El formato no cambia: arranca por la tarde y continúa sin interrupción durante toda la noche hasta el segundo día. Las fechas, la sede, el programa y los horarios los publica el organizador en su web oficial, donde también aparecen las inscripciones que puedan exigir algunas obras.
+El formato anunciado era el mismo de otros años: comienzo por la tarde y actividad ininterrumpida durante toda la noche hasta el segundo día. Fechas, recinto, programa y horarios corrían a cargo de la organización, al igual que las posibles inscripciones para obras concretas.
 
-## El Parque de la Expo de Taipéi y el acceso por Yuanshan
+## El Parque Expo de Taipéi y la llegada por Yuanshan
 
-Las últimas ediciones se han celebrado en el Parque de la Expo de Taipéi (Taipei Expo Park), el cinturón verde que dejó como legado la Exposición Internacional de Flora de Taipéi de 2010. Se extiende a partir de la estación de Yuanshan (R14, línea roja Tamsui-Xinyi), y su salida 1 desemboca directamente en el recinto.
+Las últimas ediciones se celebraron en el Parque Expo de Taipéi (Taipei Expo Park), el cinturón verde que heredó la ciudad de la Exposición Internacional de Flores de Taipéi de 2010. Se extiende a partir de la estación Yuanshan (R14, línea roja Tamsui-Xinyi), y su salida 1 desemboca directamente en el recinto.
 
-Se trata de una zona amplia, dividida en varios sectores. En su interior se encuentran:
+Se trata de un espacio amplio, dividido en zonas. En su interior se encuentran:
 
-- La Expo Dome y los pabellones de flora
-- Las explanadas de césped próximas al Estadio de Fútbol de Zhongshan
-- El Fine Arts Park, al otro lado de la avenida Zhongshan Norte, donde se alza el **Museo de Bellas Artes de Taipéi**
+- El Expo Dome y los pabellones florales
+- Las praderas abiertas junto al estadio de fútbol de Zhongshan
+- El Parque de Bellas Artes (Fine Arts Park), al otro lado de la avenida Zhongshan Norte (Zhongshan North Road), donde se alza el **Museo de Bellas Artes de Taipéi (Taipei Fine Arts Museum)**
 
-Recorrerlo de punta a punta supone una buena caminata. Ver todas las instalaciones no es cuestión de un vistazo rápido, sino que suele llevar varias horas.
+Cruzarlo de punta a punta supone una buena caminata. Recorrer todas las instalaciones suele llevar varias horas; no es cosa de un vistazo rápido.
 
-## Entrada libre y lo que supone en cuanto a afluencia
+## Entrada libre y su efecto en la afluencia
 
-No se cobra entrada ni existe una entrada general, algo que cambia por completo el ambiente. El público entra y sale a lo largo de toda la noche: las familias se marchan después de los espectáculos de primera hora y, a medida que avanza la noche, toma el relevo un público más joven.
+En la edición de 2026 no se cobraba acceso ni existía entrada general. La gratuidad cambia el ambiente de una noche así. El público suele entrar y salir a lo largo de toda la velada: las familias se marchan tras los espectáculos del principio de la noche y, a medida que avanzan las horas, toma el relevo un público más joven.
 
-La contrapartida son las colas que se forman ante las obras más fotografiadas. Muchos asistentes visitan las instalaciones estrella antes de que anochezca o mucho después de la medianoche, y al principio de la noche se dedican sobre todo a pasear por las zonas periféricas.
+La contrapartida son las colas que suelen formarse ante las obras más fotografiadas. Los asistentes acostumbran a visitar las instalaciones principales antes de que anochezca o bien mucho después de la medianoche, y al caer la tarde se dedican sobre todo a pasear por las zonas periféricas.
 
-## Cómo moverse de noche por Yuanshan
+## La noche en Yuanshan
 
-Algunas costumbres facilitan la velada:
+Algunas costumbres locales marcan cómo transcurre una noche en Yuanshan:
 
-- **Pague con la EasyCard.** Esta tarjeta recargable sirve para el metro, el autobús y YouBike, y también en las tiendas de conveniencia que rodean la estación.
-- **Tenga en cuenta el último tren.** El servicio regular de metro termina hacia la medianoche. Quienes se quedan de madrugada suelen pasarse al taxi, a las aplicaciones de transporte con conductor o a YouBike, cuyas bases están junto a las salidas de la estación.
-- **Lleve una prenda ligera de abrigo.** En noviembre las noches de Taipéi son templadas pero húmedas, y el monzón del noreste trae a menudo llovizna. Lo habitual es llevar un paraguas plegable.
-- **Haga cola a la taiwanesa.** Ante las instalaciones y las food trucks, las filas se forman en silencio, de uno en uno, y todo el mundo respeta su turno. Por lo general, está mal visto usar el flash o tocar las obras.
+- **EasyCard.** Con esta misma tarjeta recargable se paga el metro, el autobús y YouBike, además de las compras en las tiendas de conveniencia que rodean la estación.
+- **Últimos trenes.** El servicio regular de metro termina hacia la medianoche. Quienes aguantan hasta la madrugada suelen pasarse al taxi, a las aplicaciones de vehículos con conductor o a YouBike, cuyos puntos de anclaje están junto a las salidas de la estación.
+- **Tiempo.** Las noches de noviembre en Taipéi son templadas pero húmedas, y el monzón del nordeste trae a menudo llovizna. Lo habitual es llevar un paraguas plegable.
+- **Colas.** Ante las instalaciones y los camiones de comida se forman filas silenciosas, de uno en uno, que la gente respeta. Fotografiar con flash o tocar las obras suele estar mal visto.
 
-Unos voluntarios con chalecos del evento orientan al público y reparten mapas. La mayoría de los visitantes se guía por el plano impreso o el disponible en internet en lugar de limitarse a seguir a la multitud.
+Por lo general, voluntarios con chalecos del evento orientan al público y reparten mapas. La mayoría de los visitantes se guía por el mapa impreso o en línea en lugar de dejarse llevar por la multitud.
 
 ## Antes y después del arte
 
-Yuanshan linda con algunas de las calles antiguas más interesantes del norte de Taipéi. A pocos minutos a pie hacia el oeste se encuentra el **templo Dalongdong Baoan**, famoso por sus columnas de piedra con dragones tallados, y a su lado el más sosegado **Templo de Confucio de Taipéi**.
+Yuanshan linda con algunas de las calles antiguas más interesantes del norte de Taipéi. Un corto paseo hacia el oeste conduce al **templo Baoan de Dalongdong (Dalongdong Baoan Temple)**, con sus columnas de piedra labradas con dragones, y a su vecino, el más sosegado **templo de Confucio de Taipéi**.
 
-Para comer, el **mercado nocturno de Shilin** queda una parada de metro más al norte, en la estación de Jiantan, y se mantiene animado hasta tarde. Si el tema del festival le despierta la curiosidad por los nakashi, **Beitou** está más arriba en la misma línea roja: fue en su barrio de aguas termales donde arraigó esta tradición.
+Para comer, el **mercado nocturno de Shilin (Shilin Night Market)** queda una parada de metro más al norte, en la estación Jiantan, y mantiene la animación hasta tarde. Más arriba, en la misma línea roja, se encuentra **Beitou**, cuna de la tradición nakashi que inspiró el lema de 2026: fue en su barrio de aguas termales donde arraigó.

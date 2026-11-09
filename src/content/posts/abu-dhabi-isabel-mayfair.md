@@ -5,7 +5,6 @@ country: United Arab Emirates
 region: Abu Dhabi
 category: trendy
 pubDate: '2026-08-27'
-gallery: []
 tags:
   - abu dhabi
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: How do I get to Al Maryah Island?
     a: Taxi or ride-hailing apps are the easiest option from central Abu Dhabi hotels; if driving, The Galleria offers valet and multi-level parking.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/1296389_TTk0I3yd9XSqlrrgKBA_18bIzI-hKfHCmOo-44HylGo.jpg
+  credit: 'Photo: Foursquare user content (Isabel Mayfair)'
+  license: foursquare
+  source: https://foursquare.com/v/6a783ef76782ff1a7fba7c7c
+  focus:
+    x: 55
+    'y': 65
 ---
 
 ## Why Isabel Mayfair Matters Here

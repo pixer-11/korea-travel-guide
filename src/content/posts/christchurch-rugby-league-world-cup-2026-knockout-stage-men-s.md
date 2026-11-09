@@ -13,6 +13,14 @@ eventOrganizer:
   name: Rugby League World Cup 2026
   url: https://www.rlwc2026.com
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Christchurch_Town_Hall_of_the_Performing_Arts%2C_New_Zealand.jpg/3840px-Christchurch_Town_Hall_of_the_Performing_Arts%2C_New_Zealand.jpg'
+  credit: 'Photo: Michal Klajban / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Christchurch_Town_Hall_of_the_Performing_Arts,_New_Zealand.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - christchurch

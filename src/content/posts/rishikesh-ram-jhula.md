@@ -1,34 +1,30 @@
 ---
 title: 'Ram Jhula: Rishikesh Travel Guide (4.6★)'
-description: >-
-  Ram Jhula is the iron suspension bridge linking Swarg Ashram to Shivananda
-  Nagar across the Ganges in Rishikesh, open 24 hours and free to cross. 4.6★
-  (34,132 reviews) — what visitors say, hours, and tips.
+description: Ram Jhula is the iron suspension bridge linking Swarg Ashram to Shivananda Nagar across the Ganges in Rishikesh, open 24 hours and free to cross. 4.6★ (34,132 reviews) — what visitors say, hours, and tips.
 country: India
 region: Rishikesh
 category: attraction
 pubDate: '2026-08-11T09:16:01.961Z'
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Close_up_of_Pilgrims_on_Ram_Jhula_bridge%2C_Rishikesh.jpg/1920px-Close_up_of_Pilgrims_on_Ram_Jhula_bridge%2C_Rishikesh.jpg
-  credit: 'Photo: Man / wikimedia (BY)'
+  url: https://live.staticflickr.com/7028/6491166837_2f9d5ff170_b.jpg
+  credit: 'Photo: Aleksandr Zykov / flickr (BY-SA)'
   license: openverse-cc
-  source: 'https://commons.wikimedia.org/w/index.php?curid=7551627'
+  source: https://www.flickr.com/photos/84292292@N00/6491166837
+  focus:
+    x: 55
+    'y': 20
 gallery:
-  - url: >-
-      https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Ram_Jhula_footbridge_-_Rishikesh.jpg/3840px-Ram_Jhula_footbridge_-_Rishikesh.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Ram_Jhula_footbridge_-_Rishikesh.jpg/3840px-Ram_Jhula_footbridge_-_Rishikesh.jpg
     credit: 'Photo: Paradise Chronicle / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: >-
-      https://commons.wikimedia.org/wiki/File:Ram_Jhula_footbridge_-_Rishikesh.jpg
+    source: https://commons.wikimedia.org/wiki/File:Ram_Jhula_footbridge_-_Rishikesh.jpg
 place:
   id: ChIJD67PWKUXCTkRtJ0ZK5pSnDY
   name: Ram Jhula
-  address: 'Swarg Ashram, Rishikesh, Uttarakhand 249192, India'
+  address: Swarg Ashram, Rishikesh, Uttarakhand 249192, India
   rating: 4.6
   userRatingsTotal: 34333
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=3935110996516511156&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=3935110996516511156&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: CLOSED_TEMPORARILY
   lat: 30.1239532
   lng: 78.3141266
@@ -43,36 +39,22 @@ place:
 tags:
   - rishikesh
   - top attraction
-quickAnswer: >-
-  Ram Jhula is the iron suspension bridge linking Swarg Ashram to Shivananda
-  Nagar across the Ganges in Rishikesh, open 24 hours and free to cross. Go at
-  sunrise (before 7am) or after 8pm to avoid the thick pedestrian, motorbike,
-  and cow traffic that clogs the deck midday. Budget 45 minutes to an hour to
-  cross slowly, browse the ghats, and watch the evening Ganga Aarti nearby.
+quickAnswer: Ram Jhula is the iron suspension bridge linking Swarg Ashram to Shivananda Nagar across the Ganges in Rishikesh, open 24 hours and free to cross. Go at sunrise (before 7am) or after 8pm to avoid the thick pedestrian, motorbike, and cow traffic that clogs the deck midday. Budget 45 minutes to an hour to cross slowly, browse the ghats, and watch the evening Ganga Aarti nearby.
 faq:
   - q: How do I get to Ram Jhula?
-    a: >-
-      It's in Swarg Ashram, Rishikesh, reachable by auto-rickshaw or taxi from
-      Rishikesh bus stand or railway station (about 15–20 minutes). Most hotels
-      in Tapovan or Swarg Ashram are within walking distance.
+    a: It's in Swarg Ashram, Rishikesh, reachable by auto-rickshaw or taxi from Rishikesh bus stand or railway station (about 15–20 minutes). Most hotels in Tapovan or Swarg Ashram are within walking distance.
   - q: Is there an entry fee?
-    a: 'No, crossing Ram Jhula is free and it''s open 24 hours every day.'
+    a: No, crossing Ram Jhula is free and it's open 24 hours every day.
   - q: When is the best time to visit to avoid crowds?
-    a: >-
-      Early morning between 6 and 7am is a calm stretch, along with after 8pm
-      once Ganga Aarti crowds have dispersed. Midday and the hour before the
-      evening Aarti are the most congested.
+    a: Early morning between 6 and 7am is a calm stretch, along with after 8pm once Ganga Aarti crowds have dispersed. Midday and the hour before the evening Aarti are the most congested.
   - q: How long should I spend there?
-    a: >-
-      Crossing takes 10–15 minutes, but plan 45 minutes to an hour if you want
-      to explore the ghats, shops, and cafes on either end.
+    a: Crossing takes 10–15 minutes, but plan 45 minutes to an hour if you want to explore the ghats, shops, and cafes on either end.
   - q: What's nearby worth combining with a visit?
-    a: >-
-      Parmarth Niketan ghat for the evening Ganga Aarti, Swarg Ashram's
-      bookshops and cafes, and Lakshman Jhula bridge about 3km upstream.
+    a: Parmarth Niketan ghat for the evening Ganga Aarti, Swarg Ashram's bookshops and cafes, and Lakshman Jhula bridge about 3km upstream.
 aiGenerated: true
 draft: true
 updatedDate: '2026-11-08'
+heldReason: closed
 ---
 
 ## Why Ram Jhula matters

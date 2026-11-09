@@ -1,6 +1,6 @@
 ---
 title: 'Guadalajara Marathon (Maratón Guadalajara Electrolit): Dates, Tickets & Venue (Guadalajara)'
-description: The Guadalajara Marathon (Maratón Guadalajara Electrolit) takes place on November 8, 2026 in Guadalajara, Jalisco, with full and half marathon distances run through the city's historic centre.
+description: The Maratón Guadalajara Electrolit was set for November 8, 2026 in Guadalajara, Jalisco, with full and half marathon routes through the historic centre.
 country: Mexico
 region: Guadalajara
 category: event
@@ -12,38 +12,37 @@ eventOffers:
   url: https://www.maratonguadalajara.org
 eventFactsAsked: true
 heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Guadalajara%2C_Jalisco%2C_Mexico_%282021%29_-_151.jpg/3840px-Guadalajara%2C_Jalisco%2C_Mexico_%282021%29_-_151.jpg'
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Guadalajara%2C_Jalisco%2C_Mexico_%282021%29_-_151.jpg/3840px-Guadalajara%2C_Jalisco%2C_Mexico_%282021%29_-_151.jpg
   credit: 'Photo: Another Believer / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Guadalajara,_Jalisco,_Mexico_(2021)_-_151.jpg'
+  source: https://commons.wikimedia.org/wiki/File:Guadalajara,_Jalisco,_Mexico_(2021)_-_151.jpg
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery: []
 tags:
   - guadalajara
   - event
-quickAnswer: The Guadalajara Marathon (Maratón Guadalajara Electrolit) takes place on November 8, 2026 in Guadalajara, Jalisco, with full and half marathon distances run through the city's historic centre. Registration, race-kit pickup and start details are handled by the organiser through the official Maratón Guadalajara site, and that is also where ticket (bib) links sit.
+quickAnswer: The Guadalajara Marathon (Maratón Guadalajara Electrolit) was set for November 8, 2026 in Guadalajara, Jalisco, with full and half marathon distances through the city's historic centre. The organiser, Maratón Guadalajara, handled registration, bib sales, race-kit pickup and start details.
 faq:
   - q: When is the Guadalajara Marathon 2026?
-    a: The Maratón Guadalajara Electrolit takes place on Sunday, November 8, 2026, in Guadalajara, Jalisco.
+    a: The Maratón Guadalajara Electrolit was scheduled for Sunday, November 8, 2026, in Guadalajara, Jalisco.
   - q: What distances are offered?
-    a: 'There are two: the full marathon (42.195 km) and the half marathon (21.1 km). Both run through Guadalajara''s historic centre.'
+    a: 'The race offered two distances: the full marathon (42.195 km) and the half marathon (21.1 km). The announced routes for both went through Guadalajara''s historic centre.'
   - q: Where do registration and bib details live?
-    a: Registration, race-kit pickup and start information are handled by the organiser through the official Maratón Guadalajara site.
+    a: The organiser, Maratón Guadalajara, handled registration, bib sales, race-kit pickup and start information.
   - q: Is the altitude a problem?
     a: Guadalajara sits at around 1,500 metres. Runners from sea level often feel it, and many hold back over the opening kilometres to adjust.
   - q: How do spectators get around on race morning?
-    a: Roads in the centre close for the race, so spectators usually take the Tren Ligero. Line 2's San Juan de Dios station is close to Plaza Tapatía and Hospicio Cabañas.
+    a: Roads in the centre typically close for the race, so spectators usually take the Tren Ligero. Line 2's San Juan de Dios station is close to Plaza Tapatía and Hospicio Cabañas.
 aiGenerated: true
 draft: false
 ---
-
 ## A November Sunday in the Centro
 
-The race has been running since 1984. On November 8, 2026, the Maratón Guadalajara Electrolit takes over Guadalajara's streets with two distances: the full 42.195 km marathon and the 21.1 km half. The route runs through the historic centre, where colonial stone churches and wide plazas stand in for the usual grandstands.
+The race has been running since 1984. The 2026 Maratón Guadalajara Electrolit was set for November 8, with two distances: the full 42.195 km marathon and the 21.1 km half. The announced route went through the historic centre, where colonial stone churches and wide plazas stand in for the usual grandstands.
 
-Electrolit, the Mexican rehydration drink, is the title sponsor. Its bottles in bright flavours are a common sight at pharmacies and corner shops across the city.
+Electrolit, the Mexican rehydration drink, was the title sponsor. Its bottles in bright flavours are a common sight at pharmacies and corner shops across the city.
 
 ## Racing at Altitude
 
@@ -58,7 +57,7 @@ Guadalajara sits at roughly 1,500 metres. Runners from sea level often feel it a
 
 The historic centre makes for compact spectating. The Catedral de Guadalajara, Plaza de Armas, Teatro Degollado and the long pedestrian Plaza Tapatía sit within a few minutes' walk of each other. Hospicio Cabañas, a UNESCO World Heritage Site with José Clemente Orozco's murals, closes off the eastern end.
 
-On race morning, roads across the centre close to traffic. Spectators and runners usually take the Tren Ligero (light rail) rather than taxis. Line 2's San Juan de Dios station is beside the Mercado San Juan de Dios, a short walk from the Cabañas end of the plaza. Many visitors stay in the Centro Histórico or in Chapultepec and Americana, the leafy, café-lined neighbourhoods west of downtown.
+On race morning, roads across the centre typically close to traffic. Spectators and runners usually take the Tren Ligero (light rail) rather than taxis. Line 2's San Juan de Dios station is beside the Mercado San Juan de Dios, a short walk from the Cabañas end of the plaza. Many visitors stay in the Centro Histórico or in Chapultepec and Americana, the leafy, café-lined neighbourhoods west of downtown.
 
 ## Race Weekend the Tapatío Way
 
@@ -69,4 +68,4 @@ Locals call themselves *tapatíos*, and they cheer loudly. Along the course you 
 - **Ordering spice:** Tortas ahogadas come *medio ahogada* (half-drowned) or *bien ahogada* (fully drowned). Visitors new to the chile sauce usually start with half.
 - **Language:** Basic Spanish goes a long way. Volunteers at the aid stations usually call out *agua* (water) and *Electrolit* as they hand out drinks.
 
-Most visiting runners plan a full weekend around it. They collect the race kit, run on Sunday, and spend the afternoon after among the Orozco murals or out in Tlaquepaque, the pottery-and-mariachi district southeast of the centre.
+Visiting runners usually make a full weekend of it. They collect the race kit, run on Sunday, and spend the afternoon after among the Orozco murals or out in Tlaquepaque, the pottery-and-mariachi district southeast of the centre.

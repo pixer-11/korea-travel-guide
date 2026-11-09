@@ -16,6 +16,14 @@ eventPerformer:
   name: Jay Chou
   kind: person
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/a/a7/Hainan_Sanya_1.jpg'
+  credit: 'Photo: Alex Kwok / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Hainan_Sanya_1.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - sanya

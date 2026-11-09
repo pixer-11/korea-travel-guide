@@ -9,6 +9,14 @@ eventStartDate: '2027-01-02'
 eventEndDate: '2027-01-09'
 eventRecurring: true
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Chennai_Presidency_College_building_in_Chennai_25.jpg/3840px-Chennai_Presidency_College_building_in_Chennai_25.jpg'
+  credit: 'Photo: Pinakpani / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Chennai_Presidency_College_building_in_Chennai_25.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - chennai

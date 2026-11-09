@@ -16,6 +16,14 @@ eventPerformer:
   name: Jay Chou
   kind: person
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/China_2012_Guangzhou_%288359546404%29.jpg/3840px-China_2012_Guangzhou_%288359546404%29.jpg'
+  credit: 'Photo: Michael Gwyther-Jones from London, UK / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:China_2012_Guangzhou_(8359546404).jpg'
+  focus:
+    x: 35
+    y: 50
 gallery: []
 tags:
   - guangzhou

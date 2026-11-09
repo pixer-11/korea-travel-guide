@@ -10,7 +10,6 @@ eventEndDate: '2027-01-01'
 eventRecurring: true
 eventVenue: Exhibition Place
 eventFactsAsked: true
-gallery: []
 tags:
   - toronto
   - event
@@ -28,6 +27,14 @@ faq:
     a: Expect below-freezing temperatures and wind off Lake Ontario. Runners usually wear a wicking base layer, a windproof shell, gloves, ear cover and grippy shoes, and keep dry layers in a bag for after the finish.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Gate_of_Exhibition_place_from_back_side_02.jpg/3840px-Gate_of_Exhibition_place_from_back_side_02.jpg
+  credit: 'Photo: Fabian Roudra Baroi / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Gate_of_Exhibition_place_from_back_side_02.jpg
+  focus:
+    x: 50
+    'y': 50
 ---
 
 ## Five kilometres before the year gets going

@@ -13,7 +13,6 @@ eventPerformer:
   name: A$AP Rocky
   kind: person
 eventFactsAsked: true
-gallery: []
 tags:
   - melbourne
   - event
@@ -31,6 +30,16 @@ faq:
     a: Card and phone payments are the norm at Melbourne venues. Tipping isn't expected at bars or food stands. Bring photo ID if you plan to buy alcohol.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/8/8c/A%24AP_Rocky_-_Under_the_Influence_Tour_2013_Toronto.jpg
+  credit: 'Photo: The Come Up Show / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:A$AP_Rocky_-_Under_the_Influence_Tour_2013_Toronto.jpg
+  focus:
+    x: 62
+    'y': 26
+    top: 13
+    bottom: 38
 ---
 
 ## Three nights at Melbourne Park

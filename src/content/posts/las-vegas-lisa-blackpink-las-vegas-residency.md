@@ -13,6 +13,14 @@ eventPerformer:
   name: Lisa
   kind: person
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Las_Vegas-5603_%28The_Venetian%29.jpg/3840px-Las_Vegas-5603_%28The_Venetian%29.jpg'
+  credit: 'Photo: Frank Schulenburg / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Las_Vegas-5603_(The_Venetian).jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - las vegas

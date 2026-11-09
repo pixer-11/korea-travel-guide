@@ -3437,55 +3437,60 @@
   "milan-oh-bej-oh-bej-christmas-market\u0001https://upload.wikimedia.org/wikipedia/commons/7/7e/20110725_Castello_Sforzesco_Milan_5557.jpg": 2705,
   "rennes-k-pop-forever-rennes\u0001https://upload.wikimedia.org/wikipedia/commons/1/1b/Taemin_at_K-POP_Concert_in_October_2015_02.jpg": 1711,
   "taipei-diana-krall-concert-taipei\u0001https://upload.wikimedia.org/wikipedia/commons/8/81/Diana_Krall_at_Apollo_40th_anniversary_833991.jpg": 2190,
-  "taipei-khalid-concert-taipei\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Khalid_World_Pride_DC_04.jpg/1920px-Khalid_World_Pride_DC_04.jpg": 1920
+  "taipei-khalid-concert-taipei\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Khalid_World_Pride_DC_04.jpg/1920px-Khalid_World_Pride_DC_04.jpg": 1920,
+  "antalya-2026-un-climate-change-conference-cop31\u0001https://upload.wikimedia.org/wikipedia/commons/1/1b/Abdul_Awal_Mintoo%2C_Minister_of_Environment%2C_Forest%2C_and_Climate_Change%2C_Turkey%27s_Road_to_COP31_Resilient_Cities%2C_Hatay%2C_Turkey%2C_2026-05-09.jpg": 2100,
+  "fuzhou-china-national-table-tennis-championships-singles-team-finals\u0001https://upload.wikimedia.org/wikipedia/commons/9/99/Table_Tennis_11.jpg": 3456,
+  "abu-dhabi-isabel-mayfair\u0001https://fastly.4sqi.net/img/general/original/1296389_TTk0I3yd9XSqlrrgKBA_18bIzI-hKfHCmOo-44HylGo.jpg": 1440,
+  "melbourne-a-ap-rocky-don-t-be-dumb-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/8/8c/A%24AP_Rocky_-_Under_the_Influence_Tour_2013_Toronto.jpg": 1293,
+  "toronto-toronto-resolution-run\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Gate_of_Exhibition_place_from_back_side_02.jpg/3840px-Gate_of_Exhibition_place_from_back_side_02.jpg": 3840
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
    "width": 1080,
-   "attempts": 14,
-   "nextTry": "2026-11-09",
+   "attempts": 15,
+   "nextTry": "2026-11-16",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "ajman-souryana-restaurant-and-cafe": {
    "width": 1100,
-   "attempts": 14,
-   "nextTry": "2026-11-09",
+   "attempts": 15,
+   "nextTry": "2026-11-16",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "goa-fort-aguada": {
    "width": 960,
-   "attempts": 14,
-   "nextTry": "2026-11-09",
+   "attempts": 15,
+   "nextTry": "2026-11-16",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "hue-maison-trang": {
    "width": 1080,
-   "attempts": 14,
-   "nextTry": "2026-11-09",
+   "attempts": 15,
+   "nextTry": "2026-11-16",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "jeonju-jeonju-hanok-village-cafe-masirange": {
    "width": 1080,
-   "attempts": 14,
-   "nextTry": "2026-11-09",
+   "attempts": 15,
+   "nextTry": "2026-11-16",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "phuket-day-night-of-phuket": {
    "width": 1080,
-   "attempts": 14,
-   "nextTry": "2026-11-09",
+   "attempts": 15,
+   "nextTry": "2026-11-16",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "provence-lavender-sunflower-field": {
    "width": 1080,
-   "attempts": 14,
-   "nextTry": "2026-11-09",
+   "attempts": 15,
+   "nextTry": "2026-11-16",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
@@ -3498,8 +3503,8 @@
   },
   "el-nido-taraw-cliff": {
    "width": 960,
-   "attempts": 13,
-   "nextTry": "2026-11-09",
+   "attempts": 14,
+   "nextTry": "2026-11-16",
    "flaggedAt": "2026-08-10",
    "lastResult": "no-wider"
   },
@@ -3968,5 +3973,5 @@
    "flaggedAt": "2026-11-06"
   }
  },
- "updated": "2026-11-09T03:20:24.721Z"
+ "updated": "2026-11-09T03:29:56.654Z"
 }

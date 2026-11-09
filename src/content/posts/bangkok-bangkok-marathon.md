@@ -1,6 +1,6 @@
 ---
 title: 'Bangkok Marathon: Dates, Tickets & Venue (Bangkok)'
-description: 'The Bangkok Marathon 2026 takes place on November 8, 2026 in central Bangkok, with four distances: 5 km, 10 km, the 21.1 km half and the full 42.195 km marathon.'
+description: The Bangkok Marathon 2026 was set for November 8, 2026 in central Bangkok, with 5 km, 10 km, 21.1 km half and 42.195 km full marathon races.
 country: Thailand
 region: Bangkok
 category: event
@@ -11,27 +11,27 @@ eventRecurring: true
 eventVenue: Sanam Chai Road
 eventFactsAsked: true
 heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/f/f6/Bangkok_skytrain_sunset.jpg'
+  url: https://upload.wikimedia.org/wikipedia/commons/f/f6/Bangkok_skytrain_sunset.jpg
   credit: 'Photo: User:Diliff / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Bangkok_skytrain_sunset.jpg'
+  source: https://commons.wikimedia.org/wiki/File:Bangkok_skytrain_sunset.jpg
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery: []
 tags:
   - bangkok
   - event
-quickAnswer: 'The Bangkok Marathon 2026 takes place on November 8, 2026 in central Bangkok, with four distances: 5 km, 10 km, the 21.1 km half and the full 42.195 km marathon. The organiser handles registration, race packs and the start venue. Bangkok races start in the dark to beat the heat, so runners usually reach the start by taxi or ride-hailing app.'
+quickAnswer: 'The Bangkok Marathon 2026 was set for November 8, 2026 in central Bangkok, with four distances: 5 km, 10 km, the 21.1 km half and the full 42.195 km marathon. The organiser handled registration, race packs and the start venue. Bangkok races start in the dark to beat the heat, so runners usually reach the start by taxi or ride-hailing app.'
 faq:
   - q: When is the Bangkok Marathon 2026?
-    a: The race takes place on Sunday, November 8, 2026, in central Bangkok.
+    a: The race was set for Sunday, November 8, 2026, in central Bangkok.
   - q: What distances can I enter?
-    a: 'There are four categories: 5 km, 10 km, a 21.1 km half marathon and the full 42.195 km marathon. The shorter ones suit beginners and walkers.'
+    a: 'The race offered four categories: 5 km, 10 km, a 21.1 km half marathon and the full 42.195 km marathon. The shorter ones suit beginners and walkers.'
   - q: How do runners get to the start before dawn?
     a: Bangkok races begin before sunrise, before the BTS Skytrain and MRT start running. Most runners take a Grab, Bolt or metered taxi, or stay in a hotel within walking distance of the start.
   - q: Who handles registration and the start venue?
-    a: The race organiser runs registration, race-pack collection and the start location. Bibs at Bangkok races are usually collected in the days before the race, and international runners typically show their passport.
+    a: The race organiser handled registration, race-pack collection and the start location. Bibs at Bangkok races are usually collected in the days before the race, and international runners typically show their passport.
   - q: What's the weather like in Bangkok in November?
     a: November is the start of the cool, dry season, so there is usually less rain than earlier in the year. It is still warm and humid, which is why races start in the dark.
 aiGenerated: true
@@ -39,14 +39,14 @@ draft: false
 ---
 ## Four distances, one Sunday in November
 
-The race date is November 8, 2026. The Bangkok Marathon runs through the city centre with four categories, so it suits nervous first-timers and seasoned marathoners alike:
+The Bangkok Marathon 2026 was set for November 8, 2026, on a course through the city centre. It offered four categories, for nervous first-timers and seasoned marathoners alike:
 
 - **5 km**: the fun-run distance, popular with families, office teams and walkers
 - **10 km**: the most common first "proper" race for newer runners
 - **21.1 km**: the half marathon
 - **42.195 km**: the full marathon
 
-The shorter categories make this a social event as much as a sporting one. Groups often enter different distances and meet at the finish once everyone is done. The organiser sets the registration process, distance caps and race-day rules.
+The shorter categories made this a social event as much as a sporting one. Groups often enter different distances and meet at the finish once everyone is done. The organiser set the registration process, distance caps and race-day rules.
 
 ## Racing the dawn: why Bangkok runs in the dark
 
@@ -54,7 +54,7 @@ Bangkok road races begin long before sunrise. The reason is simple. By mid-morni
 
 So the start area is lit by floodlights and the glow of race arches, not daylight. Full marathoners usually set off first, because they need the most hours of cool air. The shorter distances follow in waves.
 
-For visitors, that changes the whole shape of race weekend. You eat dinner early and sleep in the evening. Then you wake at an hour when the only things open are convenience stores and street stalls serving the night shift. Many runners finish as Bangkok is only starting its working day.
+For visitors, that changes the whole shape of race weekend. Runners eat dinner early and sleep in the evening. Then they wake at an hour when the only things open are convenience stores and street stalls serving the night shift. Many runners finish as Bangkok is only starting its working day.
 
 ## Why November suits the race
 
@@ -80,9 +80,9 @@ Big Bangkok road races follow a familiar pattern.
 
 **On the course.** Water stations hand out cups of water and sports drink, and many Thai races add sponges or ice along the route. Runners usually grab, drink and drop cups at the edge of the road. Volunteers sweep them up afterwards.
 
-**The cheer.** You will hear "*su su!*" (สู้ๆ) from volunteers and spectators. It means roughly "fight on" or "keep going". A quick wave or a *khop khun khrap/kha* (thank you) back goes down well.
+**The cheer.** Volunteers and spectators shout "*su su!*" (สู้ๆ). It means roughly "fight on" or "keep going". A quick wave or a *khop khun khrap/kha* (thank you) back goes down well.
 
-**Respect.** Thais stand still when the national anthem plays in public places, and sometimes at official ceremonies. If it plays while you are standing around the finish area, stop and stand until it ends. Visitors are expected to do the same.
+**Respect.** Thais stand still when the national anthem plays in public places, and sometimes at official ceremonies. When it plays around a finish area, people stop and stand until it ends, and visitors do the same.
 
 ## Where runners stay and what they eat
 
@@ -98,6 +98,6 @@ Runners racing the next day often go easy on the chilli and on raw street-food s
 
 ## After the medal: an easy recovery day
 
-Tired legs pair well with slow sightseeing. A Chao Phraya Express Boat ride along the river means you can see Wat Arun and the riverside temples without walking far. Lumphini Park in the centre has flat, shaded paths, and Bangkok's own runners use it daily. It suits a gentle shakeout loop the day after.
+Tired legs pair well with slow sightseeing. A Chao Phraya Express Boat ride along the river takes in Wat Arun and the riverside temples without much walking. Lumphini Park in the centre has flat, shaded paths, and Bangkok's own runners use it daily. It suits a gentle shakeout loop the day after.
 
-A traditional Thai massage is the other ritual many runners go for on recovery day. Massage shops are everywhere in the tourist districts. Telling the therapist you have just run a race, and pointing to the sore spots, gets you a gentler session that is better for tired muscles.
+A traditional Thai massage is the other ritual many runners go for on recovery day. Massage shops are everywhere in the tourist districts. Telling the therapist about the race, and pointing to the sore spots, gets a gentler session that is better for tired muscles.

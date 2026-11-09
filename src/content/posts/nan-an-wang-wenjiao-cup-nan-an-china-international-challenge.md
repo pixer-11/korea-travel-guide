@@ -1,6 +1,6 @@
 ---
 title: 'WANG WENJIAO CUP Nan''an China International Challenge: Dates, Tickets & Venue (Nan''an)'
-description: The WANG WENJIAO CUP Nan'an China International Challenge is a BWF and Badminton Asia sanctioned badminton tournament in Nan'an, Fujian, running from November 3 to 8, 2026.
+description: The WANG WENJIAO CUP Nan'an China International Challenge, a BWF and Badminton Asia sanctioned tournament in Fujian, was set for November 3–8, 2026.
 country: China
 region: Nan'an
 category: event
@@ -13,44 +13,43 @@ eventOrganizer:
   url: https://badmintonasia.org
 eventFactsAsked: true
 heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/5/5c/Nan%27an%2C_Quanzhou%2C_Fujian%2C_China_-_panoramio_%283%29.jpg'
+  url: https://upload.wikimedia.org/wikipedia/commons/5/5c/Nan%27an%2C_Quanzhou%2C_Fujian%2C_China_-_panoramio_%283%29.jpg
   credit: 'Photo: Wa18 / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Nan%27an,_Quanzhou,_Fujian,_China_-_panoramio_(3).jpg'
+  source: https://commons.wikimedia.org/wiki/File:Nan%27an,_Quanzhou,_Fujian,_China_-_panoramio_(3).jpg
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery: []
 tags:
   - nan'an
   - event
-quickAnswer: The WANG WENJIAO CUP Nan'an China International Challenge is a BWF and Badminton Asia sanctioned badminton tournament in Nan'an, Fujian, running from November 3 to 8, 2026. Early rounds fill the midweek days, and the finals fall on Sunday 8 November. Venue and entry arrangements sit with the host organiser in Nan'an, and the event appears on the BWF tournament calendar.
+quickAnswer: The WANG WENJIAO CUP Nan'an China International Challenge is a BWF and Badminton Asia sanctioned badminton tournament in Nan'an, Fujian. The 2026 edition was set for November 3 to 8. The schedule put the early rounds in the midweek days and the finals on Sunday 8 November. Venue and entry arrangements sat with the host organiser in Nan'an, and the event formed part of the BWF tournament calendar.
 faq:
   - q: When is the WANG WENJIAO CUP Nan'an China International Challenge?
-    a: It runs from Tuesday 3 November to Sunday 8 November 2026 in Nan'an, Fujian. Early rounds fill the first days, and the finals fall on Sunday 8 November.
+    a: The 2026 edition was set for Tuesday 3 November to Sunday 8 November in Nan'an, Fujian. Early rounds took up the first days of the schedule, and the finals were on Sunday 8 November.
   - q: What level of tournament is it?
     a: It is an International Challenge, sanctioned by the BWF and Badminton Asia. That is the development tier of the world circuit, below the Super series events. Draws typically mix rising national-squad players with ranked professionals.
   - q: How do I get to Nan'an?
     a: Most visitors fly into Quanzhou Jinjiang International Airport or Xiamen Gaoqi International Airport. Others take high-speed rail to Quanzhou or Xiamen. From there, taxis and DiDi ride-hailing reach Nan'an.
   - q: Where is the venue and how do tickets work?
-    a: The facts available to us do not name a hall or a ticket seller. The event's BWF calendar listing and the host organiser in Nan'an are where venue and entry details sit.
+    a: Venue and entry arrangements sat with the host organiser in Nan'an, and the tournament formed part of the BWF calendar. No specific hall or ticket seller is named here.
   - q: What else is there to do nearby?
     a: In Nan'an there is the Zheng Chenggong (Koxinga) memorial in Shijing and the stone markets of Shuitou. Nearby Quanzhou, a UNESCO World Heritage city, has Kaiyuan Temple, West Street and Qingyuan Mountain.
 aiGenerated: true
 draft: false
 ---
-
 ## Six days of shuttles in southern Fujian
 
 Badminton is a quiet sport until it isn't. Inside the hall you hear the squeak of court shoes, then a smash that sounds like a slammed door. Then comes the umpire's call in English, the working language of every BWF event.
 
-The WANG WENJIAO CUP Nan'an China International Challenge runs from Tuesday 3 November to Sunday 8 November 2026. Badminton Asia and the Badminton World Federation (BWF) sanction it. That puts it on the same international circuit as the big-name Opens, a few tiers below them.
+The WANG WENJIAO CUP Nan'an China International Challenge was scheduled to run from Tuesday 3 November to Sunday 8 November 2026. Badminton Asia and the Badminton World Federation (BWF) sanction it. That puts it on the same international circuit as the big-name Opens, a few tiers below them.
 
 ## What an International Challenge actually is
 
-International Challenge events sit on the BWF's development tier. That matters for what you watch. The draws are often full of young national-squad players, juniors moving up, and seasoned pros chasing ranking points between larger tournaments.
+International Challenge events sit on the BWF's development tier. That shapes the field. The draws are often full of young national-squad players, juniors moving up, and seasoned pros chasing ranking points between larger tournaments.
 
-Five disciplines run through the week:
+The programme covered five disciplines:
 
 - Men's singles
 - Women's singles
@@ -58,7 +57,7 @@ Five disciplines run through the week:
 - Women's doubles
 - Mixed doubles
 
-The usual shape of a six-day event like this is busy early rounds, with several courts in play at once. The field then narrows day by day until a single show court hosts the finals. Midweek you can drift between courts and see dozens of matches. Sunday is the day for one match at a time, with the hall focused on it.
+The usual shape of a six-day event like this is busy early rounds, with several courts in play at once. The field then narrows day by day until a single show court hosts the finals. Midweek, spectators can drift between courts and see dozens of matches. Finals day is one match at a time, with the whole hall focused on it.
 
 ## Nan'an, and how people get there
 
@@ -70,7 +69,7 @@ Typical routes:
 - **By rail:** high-speed trains on the Fuzhou–Xiamen corridor serve Quanzhou and Xiamen, and taxis or ride-hailing cover the last stretch.
 - **Where people stay:** visiting fans usually split between hotels in Nan'an itself and central Quanzhou. Quanzhou has a wider choice and is a short drive away.
 
-Our facts do not name the hall, so this guide does not either. The tournament's listing on the BWF calendar and the host organiser in Nan'an are where the venue and entry details sit.
+Venue and entry arrangements for the 2026 edition sat with the host organiser in Nan'an.
 
 ## Courtside manners and paying your way
 
@@ -94,4 +93,4 @@ Quanzhou is the bigger draw for a free afternoon. It is a UNESCO World Heritage 
 
 Food here is Minnan cooking: seafood, broths and snacks rather than heavy sauces. Morning or late-night bowls of *miànxiàn hú*, a thick noodle-thread soup, are a Quanzhou staple. Adventurous eaters go looking for *tǔsǔn dòng*, a cold jelly set from sea worms. Oyster omelette turns up at nearly every snack street.
 
-Eating around match times is easy. Breaks between sessions are when fans spill out to the nearest noodle shop, then drift back in for the evening matches.
+Eating around match times is easy. At tournaments like this, breaks between sessions are when fans usually spill out to the nearest noodle shop, then drift back in for the evening matches.

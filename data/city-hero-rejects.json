@@ -138,5 +138,25 @@
  "Ulaanbaatar\u0001https://upload.wikimedia.org/wikipedia/commons/b/be/Ger_District_near_power_plant%2C_Ulaanbaatar_-_Nathalie_Daoust.jpg": {
   "reason": "Focuses on a person/yurts, not city view",
   "at": "2026-11-08T23:06:29.451Z"
+ },
+ "Chennai\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/AirAsia_A320_VT-MLE_Landing_Chennai_Aug22_D72_24870.jpg/3840px-AirAsia_A320_VT-MLE_Landing_Chennai_Aug22_D72_24870.jpg": {
+  "reason": "Airplane in flight, not a view of Chennai",
+  "at": "2026-11-09T04:04:48.514Z"
+ },
+ "Chonburi\u0001https://upload.wikimedia.org/wikipedia/commons/b/b4/Songthaew_in_Chonburi_%284%29.jpg": {
+  "reason": "Shows a parked vehicle, not a city view",
+  "at": "2026-11-09T04:04:52.936Z"
+ },
+ "Macau\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/20260314_%E6%BE%B3%E9%96%80_Macau_5B.jpg/3840px-20260314_%E6%BE%B3%E9%96%80_Macau_5B.jpg": {
+  "reason": "This is a boundary marker/sign, not a view of Macau",
+  "at": "2026-11-09T04:05:17.974Z"
+ },
+ "New Taipei\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Taipei_Taiwan_Taipei-Bridge-01.jpg/3840px-Taipei_Taiwan_Taipei-Bridge-01.jpg": {
+  "reason": "Generic underpass fragment, not a recognizable New Taipei landmark view",
+  "at": "2026-11-09T04:05:29.598Z"
+ },
+ "Siem Reap\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Siem_Reap_.-_Danse_Khmer_%28Cambodge%29.jpg/3840px-Siem_Reap_.-_Danse_Khmer_%28Cambodge%29.jpg": {
+  "reason": "Performer portrait, not a city/landmark view",
+  "at": "2026-11-09T04:05:46.325Z"
  }
 }

@@ -10,6 +10,14 @@ eventEndDate: '2026-11-21'
 eventRecurring: true
 eventVenue: An Ecolodge
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Dakrour_Mountain_Siwa_Oases_Egypt.jpg/1280px-Dakrour_Mountain_Siwa_Oases_Egypt.jpg'
+  credit: 'Photo: HassanKamel52 (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'File:Dakrour Mountain Siwa Oases Egypt.jpg'
+  focus:
+    x: 50
+    y: 35
 gallery: []
 tags:
   - siwa

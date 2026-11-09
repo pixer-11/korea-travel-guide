@@ -9,6 +9,14 @@ eventStartDate: '2026-11-11'
 eventEndDate: '2026-11-20'
 eventRecurring: true
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Woman_reading_the_Quran_during_Ramadan_in_Cairo%2C_Egypt.jpg/3840px-Woman_reading_the_Quran_during_Ramadan_in_Cairo%2C_Egypt.jpg'
+  credit: 'Photo: مصطفى الشربجى / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Woman_reading_the_Quran_during_Ramadan_in_Cairo,_Egypt.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - cairo

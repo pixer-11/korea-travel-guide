@@ -10,6 +10,14 @@ eventEndDate: '2026-11-28'
 eventRecurring: true
 eventVenue: Namwon Sports Town
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Biking_through_Namwon_-_September_2010_%2852%29.jpg/1280px-Biking_through_Namwon_-_September_2010_%2852%29.jpg'
+  credit: 'Photo: Shamus7792003 (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'File:Biking through Namwon - September 2010 (52).jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - namwon

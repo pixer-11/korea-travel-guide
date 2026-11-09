@@ -1,6 +1,6 @@
 ---
 title: 'Cappadocia Wildmarathon: Dates, Tickets & Venue (Göreme)'
-description: The Cappadocia Wildmarathon takes place on November 8, 2026, in Göreme, Turkey.
+description: The Cappadocia Wildmarathon was set for November 8, 2026, in Göreme, Turkey, as a trail race through the valleys and fairy chimneys.
 country: Turkey
 region: Göreme
 category: event
@@ -13,18 +13,18 @@ eventFactsAsked: true
 tags:
   - göreme
   - event
-quickAnswer: The Cappadocia Wildmarathon takes place on November 8, 2026, in Göreme, Turkey. It is an annual trail running race through the volcanic valleys and fairy chimneys around the village. The race organiser's official site handles registration, entries and course information, and most runners stay in Göreme itself so they can walk to the start.
+quickAnswer: The Cappadocia Wildmarathon was set for Sunday, November 8, 2026, in Göreme, Turkey. It is an annual trail running race through the volcanic valleys and fairy chimneys around the village. The race organiser handled registration, entries and course information. Most runners stay in Göreme itself so they can walk to the start.
 faq:
   - q: When is the Cappadocia Wildmarathon in 2026?
-    a: The 2026 edition takes place on Sunday, November 8, 2026, in Göreme, in Turkey's Cappadocia region.
+    a: The 2026 edition was set for Sunday, November 8, 2026, in Göreme, in Turkey's Cappadocia region.
   - q: Where do I register and find the course details?
-    a: Registration, distances, the route and the start location sit with the race organiser on its official website.
+    a: The race organiser handled registration and set the distances, the route and the start location.
   - q: How do runners get to Göreme?
     a: Most fly into Nevşehir Kapadokya Airport, about 40 minutes away, or Kayseri Erkilet Airport, about an hour and a quarter away. Shuttles run from both to Göreme hotels. Long-distance buses stop at Göreme's bus station in the village centre.
   - q: What is the weather like in early November?
     a: Göreme sits at roughly 1,000 metres. Early November mornings and evenings are cold, and days are usually mild and dry. Runners typically bring warm layers for before the start and after the finish.
   - q: What else is there to do around the race weekend?
-    a: The Göreme Open-Air Museum is on the edge of the village. Nearby you also have Uçhisar Castle, the pottery town of Avanos and the underground cities of Derinkuyu and Kaymaklı. When the wind allows, hot-air balloons launch around Göreme at dawn.
+    a: The Göreme Open-Air Museum is on the edge of the village. Nearby are Uçhisar Castle, the pottery town of Avanos and the underground cities of Derinkuyu and Kaymaklı. When the wind allows, hot-air balloons launch around Göreme at dawn.
 aiGenerated: true
 draft: false
 heroImage:
@@ -36,22 +36,21 @@ heroImage:
     x: 55
     'y': 40
 ---
-
 ## A race run on soft rock
 
 The ground here is mostly volcanic ash. Millions of years of eruptions laid down thick beds of tuff across central Anatolia, and wind and water have since carved them into cones, ridges and ravines. The Cappadocia Wildmarathon is an annual trail running race through that eroded landscape, and Göreme is its base.
 
-Runners move through country that people have been tunnelling into for centuries. Dovecotes are cut into the cliffs. Old chapels sit inside the rock. Paths that farmers and shepherds walked for generations now carry trail shoes. This is a race about terrain, so expect sandy tracks, tuff slabs and steep valley walls rather than tarmac.
+The race crosses country that people have been tunnelling into for centuries. Dovecotes are cut into the cliffs. Old chapels sit inside the rock. Paths that farmers and shepherds walked for generations now carry trail shoes. This is a race about terrain: sandy tracks, tuff slabs and steep valley walls rather than tarmac.
 
 ## Sunday, 8 November 2026
 
-This edition takes place on Sunday, November 8, 2026. Early November is late autumn on the Anatolian plateau. Göreme sits at roughly 1,000 metres, so mornings are cold and the air is dry. Days are usually mild enough for running once the sun is up.
+This edition was scheduled for Sunday, November 8, 2026. Early November is late autumn on the Anatolian plateau. Göreme sits at roughly 1,000 metres, so mornings are cold and the air is dry. Days are usually mild enough for running once the sun is up.
 
 The timing suits the course. Summer heat has gone from the valleys, the vineyards around the villages have been harvested, and the poplars along the valley floors turn yellow. Daylight is shorter, though, and the temperature drops fast after sunset. Runners who stay on afterwards usually pack a warm layer for the evening.
 
 ## Tuff, sand and the valleys underfoot
 
-Running on volcanic tuff feels nothing like running on mountain rock. It is pale, soft and powdery when dry. On steeper sections it can crumble under your feet or slide like sand. Where water has cut channels, the trail narrows into gullies only a shoulder wide, then opens onto broad, flat valley floors.
+Running on volcanic tuff feels nothing like running on mountain rock. It is pale, soft and powdery when dry. On steeper sections it can crumble underfoot or slide like sand. Where water has cut channels, the trail narrows into gullies only a shoulder wide, then opens onto broad, flat valley floors.
 
 The valleys around Göreme have names locals and hikers use every day:
 
@@ -61,7 +60,7 @@ The valleys around Göreme have names locals and hikers use every day:
 - **Love Valley**, famous for its tall, isolated rock columns
 - **Zemi Valley**, a quieter trench between Göreme and Uçhisar
 
-This guide makes no claim about which of these the course uses. The organiser publishes the route, distances and start location on the race's official site. What holds anywhere near Göreme is the surface: dust, loose grit and short, sharp climbs out of the valleys.
+The race organiser set the route, distances and start location. Whatever the line, the surface anywhere near Göreme is the same: dust, loose grit and short, sharp climbs out of the valleys.
 
 ## Getting to Göreme
 
@@ -76,9 +75,9 @@ Göreme is compact. From the centre you can walk to most cave hotels, restaurant
 
 ## Balloons at first light
 
-Cappadocia's other early risers are the balloon pilots. On mornings when the wind allows, dozens of hot-air balloons launch from the fields around Göreme just before sunrise. Flights get cancelled often in this season when conditions are wrong, so a sky full of balloons is never a given.
+Cappadocia's other early risers are the balloon pilots. On mornings when the wind allows, dozens of hot-air balloons launch from the fields around Göreme just before sunrise. Flights are often cancelled in this season when conditions are wrong, so a sky full of balloons is never a given.
 
-For runners in Göreme, this means an early-morning soundtrack: burners firing and minibuses collecting passengers in the dark. Visitors who arrive a day or two before the race usually spend one dawn on a rooftop or on the ridge above the village to watch the launch. It also tells you how cold the pre-dawn air is before race day.
+In Göreme this means an early-morning soundtrack: burners firing and minibuses collecting passengers in the dark. Many visitors spend one dawn on a rooftop or on the ridge above the village to watch the launch. It is also a reminder of how cold the pre-dawn air gets at this time of year.
 
 ## Race weekend etiquette in the village
 
@@ -93,8 +92,8 @@ On the trails, the rules are about the rock. The fairy chimneys and carved chape
 
 ## After the finish line
 
-Recovery days here are easy to fill without much effort. The **Göreme Open-Air Museum** is on the edge of the village. It is a cluster of rock-cut churches and refectories with Byzantine frescoes, and the Dark Church (Karanlık Kilise) is the best preserved. It is a museum site, so its hours change through the year. The official museum site lists the current hours and the entry ticket.
+Recovery days here are easy to fill. The **Göreme Open-Air Museum** is on the edge of the village. It is a cluster of rock-cut churches and refectories with Byzantine frescoes, and the Dark Church (Karanlık Kilise) is the best preserved. Entry is ticketed, and opening hours change through the year.
 
-The rock castle at **Uçhisar** has the widest view over the valleys you will just have run. **Avanos**, on the Kızılırmak River, has a long tradition of pottery made from the river's red clay. The underground cities of **Derinkuyu** and **Kaymaklı** are a short drive south, and you walk through them at a gentle pace.
+The rock castle at **Uçhisar** has the widest view over the valleys. **Avanos**, on the Kızılırmak River, has a long tradition of pottery made from the river's red clay. The underground cities of **Derinkuyu** and **Kaymaklı** are a short drive south, and you walk through them at a gentle pace.
 
-At dinner, look for *testi kebabı*, a meat stew sealed in a clay pot and cracked open at the table. The region's local wines come from grapes grown in that same volcanic soil. Registration, results and course details for the Cappadocia Wildmarathon live on the organiser's official site.
+At dinner, look for *testi kebabı*, a meat stew sealed in a clay pot and cracked open at the table. The region's local wines come from grapes grown in that same volcanic soil. Registration and course details for the Cappadocia Wildmarathon were handled by the race organiser.

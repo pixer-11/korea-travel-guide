@@ -180,6 +180,12 @@
   "reason": "event publish gate: Concert stage setup with piano, mics, blank screen",
   "at": "2026-10-14T23:59:57.749Z"
  },
+ "abu-dhabi-isabel-mayfair\u0001https://fastly.4sqi.net/img/general/original/1296389_TTk0I3yd9XSqlrrgKBA_18bIzI-hKfHCmOo-44HylGo.jpg": {
+  "slug": "abu-dhabi-isabel-mayfair",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Upscale cocktail in trendy Abu Dhabi venue",
+  "at": "2026-11-09T03:21:35.087Z"
+ },
  "abu-dhabi-jennifer-lopez-alex-warren-abu-dhabi-gp-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Jennifer_Lopez_at_the_2025_Sundance_Film_Festival_2.jpg/3840px-Jennifer_Lopez_at_the_2025_Sundance_Film_Festival_2.jpg": {
   "slug": "abu-dhabi-jennifer-lopez-alex-warren-abu-dhabi-gp-concert",
   "verdict": "MATCH",
@@ -1345,6 +1351,30 @@
   "reason": "Pont des Amours bridge in Annecy, France",
   "reasonKo": "앙시의 연인의 다리 정확한 위치",
   "at": "2026-08-16T13:14:24.361Z"
+ },
+ "antalya-2026-un-climate-change-conference-cop31\u0001https://upload.wikimedia.org/wikipedia/commons/1/1b/Abdul_Awal_Mintoo%2C_Minister_of_Environment%2C_Forest%2C_and_Climate_Change%2C_Turkey%27s_Road_to_COP31_Resilient_Cities%2C_Hatay%2C_Turkey%2C_2026-05-09.jpg": {
+  "slug": "antalya-2026-un-climate-change-conference-cop31",
+  "verdict": "MATCH",
+  "reason": "patrol replace: COP31 conference panel, Hatay venue, Turkish flag",
+  "at": "2026-11-09T03:21:46.621Z"
+ },
+ "antalya-2026-un-climate-change-conference-cop31\u0001https://upload.wikimedia.org/wikipedia/commons/2/24/24hr_COP31_editathon_IUCA.jpg": {
+  "slug": "antalya-2026-un-climate-change-conference-cop31",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Promotional graphic/poster, not a photo of venue or event",
+  "at": "2026-11-09T03:21:38.560Z"
+ },
+ "antalya-2026-un-climate-change-conference-cop31\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/President_Masato_Kanda_Highlights_Climate_Resilience_Investments_in_Tuvalu_at_Start_of_Pre-COP31.jpg/3840px-President_Masato_Kanda_Highlights_Climate_Resilience_Investments_in_Tuvalu_at_Start_of_Pre-COP31.jpg": {
+  "slug": "antalya-2026-un-climate-change-conference-cop31",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Construction site with random man, not event or venue",
+  "at": "2026-11-09T03:21:37.437Z"
+ },
+ "antalya-2026-un-climate-change-conference-cop31\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Ambassador_Mostafa_Sherbiny_at_cop31.jpg/3840px-Ambassador_Mostafa_Sherbiny_at_cop31.jpg": {
+  "slug": "antalya-2026-un-climate-change-conference-cop31",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: COP29 Baku past-edition photo, not COP31 content",
+  "at": "2026-11-09T03:21:40.255Z"
  },
  "antalya-antalya-toy-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Antalya_Toy_Museum_feb_2015_5611.jpg/3840px-Antalya_Toy_Museum_feb_2015_5611.jpg": {
   "slug": "antalya-antalya-toy-museum",
@@ -5592,6 +5622,30 @@
   "reason": "event publish gate: Performers on stage at event, represents the group/tour",
   "at": "2026-11-05T01:18:56.299Z"
  },
+ "buenos-aires-yves-2026-tour-buenos-aires\u0001https://upload.wikimedia.org/wikipedia/commons/5/52/Yves_Lampaert_-_Tour_de_France_2023.jpg": {
+  "slug": "buenos-aires-yves-2026-tour-buenos-aires",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Cycling race, not Buenos Aires event venue",
+  "at": "2026-11-09T03:22:07.269Z"
+ },
+ "buenos-aires-yves-2026-tour-buenos-aires\u0001https://upload.wikimedia.org/wikipedia/commons/6/69/Yves_Lampaert%2C_Tour_de_France%2C_2_juli_2023.jpg": {
+  "slug": "buenos-aires-yves-2026-tour-buenos-aires",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Cyclist photo, not event venue or performer",
+  "at": "2026-11-09T03:21:57.322Z"
+ },
+ "buenos-aires-yves-2026-tour-buenos-aires\u0001https://upload.wikimedia.org/wikipedia/commons/9/92/YVES_LAMPAERT.jpg": {
+  "slug": "buenos-aires-yves-2026-tour-buenos-aires",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Cyclist unrelated to specific event venue or type",
+  "at": "2026-11-09T03:21:59.028Z"
+ },
+ "buenos-aires-yves-2026-tour-buenos-aires\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Yves_Gendreau%2C_La_Tour_de_Babel_aux_%C3%A9chelles%2C_2015_%2820799337954%29.jpg/3840px-Yves_Gendreau%2C_La_Tour_de_Babel_aux_%C3%A9chelles%2C_2015_%2820799337954%29.jpg": {
+  "slug": "buenos-aires-yves-2026-tour-buenos-aires",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Construction scaffolding, unrelated to event venue",
+  "at": "2026-11-09T03:22:03.362Z"
+ },
  "bugis-albert-centre-market-food-centre\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Albert_Centre_Market_and_Food_Centre%2C_exterior.jpg/3840px-Albert_Centre_Market_and_Food_Centre%2C_exterior.jpg": {
   "slug": "bugis-albert-centre-market-food-centre",
   "verdict": "MATCH",
@@ -7666,6 +7720,30 @@
   "verdict": "MATCH",
   "reason": "event publish gate: Concert stage performance, matches event type",
   "at": "2026-11-02T00:11:34.483Z"
+ },
+ "christchurch-rugby-league-world-cup-2026-knockout-stage-men-s\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Te_Kaha_%28stadium%29_83.jpg/3840px-Te_Kaha_%28stadium%29_83.jpg": {
+  "slug": "christchurch-rugby-league-world-cup-2026-knockout-stage-men-s",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Stadium shown under construction, not visitor-ready",
+  "at": "2026-11-09T03:22:37.800Z"
+ },
+ "christchurch-rugby-league-world-cup-2026-knockout-stage-men-s\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Te_Kaha_One_NZ_Stadium_Tour-1_%2854787745240%29.jpg/3840px-Te_Kaha_One_NZ_Stadium_Tour-1_%2854787745240%29.jpg": {
+  "slug": "christchurch-rugby-league-world-cup-2026-knockout-stage-men-s",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Stadium under construction, not visitor-ready state",
+  "at": "2026-11-09T03:22:34.671Z"
+ },
+ "christchurch-rugby-league-world-cup-2026-knockout-stage-men-s\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Te_Kaha_One_NZ_Stadium_Tour-2_%2854787745020%29.jpg/3840px-Te_Kaha_One_NZ_Stadium_Tour-2_%2854787745020%29.jpg": {
+  "slug": "christchurch-rugby-league-world-cup-2026-knockout-stage-men-s",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Stadium shown under construction, not finished venue",
+  "at": "2026-11-09T03:22:30.778Z"
+ },
+ "christchurch-rugby-league-world-cup-2026-knockout-stage-men-s\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Rugby_2026-05-02.jpg/3840px-Rugby_2026-05-02.jpg": {
+  "slug": "christchurch-rugby-league-world-cup-2026-knockout-stage-men-s",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Concert band photo, unrelated to rugby league event",
+  "at": "2026-11-09T03:22:27.179Z"
  },
  "christchurch-scorpio-books\u0001https://upload.wikimedia.org/wikipedia/commons/a/ab/Scorpio_Books_5_Jun_26_MRD_01.jpg": {
   "slug": "christchurch-scorpio-books",
@@ -9833,6 +9911,24 @@
   "reason": "publish gate: Forest walkway bridge with mountain view, matches nature attraction",
   "at": "2026-10-10T07:42:43.524Z"
  },
+ "fuzhou-china-national-table-tennis-championships-singles-team-finals\u0001https://upload.wikimedia.org/wikipedia/commons/1/11/Table_tennis_table.jpg": {
+  "slug": "fuzhou-china-national-table-tennis-championships-singles-team-finals",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Outdoor concrete ping pong table, not championship venue",
+  "at": "2026-11-09T03:23:00.094Z"
+ },
+ "fuzhou-china-national-table-tennis-championships-singles-team-finals\u0001https://upload.wikimedia.org/wikipedia/commons/9/99/Table_Tennis_11.jpg": {
+  "slug": "fuzhou-china-national-table-tennis-championships-singles-team-finals",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Table tennis player mid-match at indoor venue",
+  "at": "2026-11-09T03:23:02.753Z"
+ },
+ "fuzhou-china-national-table-tennis-championships-singles-team-finals\u0001https://upload.wikimedia.org/wikipedia/commons/e/e3/Table_tennis_table_in_Dentonia_Park_55.jpg": {
+  "slug": "fuzhou-china-national-table-tennis-championships-singles-team-finals",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Outdoor concrete ping-pong table, not championship venue",
+  "at": "2026-11-09T03:22:58.893Z"
+ },
  "gangneung-anmok-beach\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Anmok_beach_on_September_7th%2C_2017.jpg/3840px-Anmok_beach_on_September_7th%2C_2017.jpg": {
   "slug": "gangneung-anmok-beach",
   "verdict": "MATCH",
@@ -10727,6 +10823,48 @@
   "reason": "Modern tower in Guangzhou urban skyline at night",
   "reasonKo": "광저우 야경의 현대 고층 빌딩",
   "at": "2026-08-08T01:47:16.160Z"
+ },
+ "guangzhou-jay-chou-carnival-ii-world-tour-guangzhou\u0001https://upload.wikimedia.org/wikipedia/commons/4/4b/Jay_Chou_in_Madame_Tussauds_Hong_Kong01.jpg": {
+  "slug": "guangzhou-jay-chou-carnival-ii-world-tour-guangzhou",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: This is a wax figure, not the real performer",
+  "at": "2026-11-09T03:23:14.697Z"
+ },
+ "guangzhou-jay-chou-carnival-ii-world-tour-guangzhou\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Jay_Chou_Opus_Tour_Hong_Kong_2013_IMG_2511w_%289788670546%29.jpg/3840px-Jay_Chou_Opus_Tour_Hong_Kong_2013_IMG_2511w_%289788670546%29.jpg": {
+  "slug": "guangzhou-jay-chou-carnival-ii-world-tour-guangzhou",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Visible photographer watermark credit overlaid",
+  "at": "2026-11-09T03:23:11.590Z"
+ },
+ "guangzhou-jay-chou-carnival-ii-world-tour-guangzhou\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Jay_Chou_Opus_Tour_Hong_Kong_2013_IMG_2455w_%289788676656%29.jpg/3840px-Jay_Chou_Opus_Tour_Hong_Kong_2013_IMG_2455w_%289788676656%29.jpg": {
+  "slug": "guangzhou-jay-chou-carnival-ii-world-tour-guangzhou",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Visible photographer credit watermark overlaid on image",
+  "at": "2026-11-09T03:23:18.684Z"
+ },
+ "guangzhou-jay-chou-carnival-ii-world-tour-guangzhou\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Jay_Chou_Opus_Tour_Hong_Kong_2013_IMG_2577w_%289788669936%29.jpg/3840px-Jay_Chou_Opus_Tour_Hong_Kong_2013_IMG_2577w_%289788669936%29.jpg": {
+  "slug": "guangzhou-jay-chou-carnival-ii-world-tour-guangzhou",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Photographer credit watermark overlaid on image",
+  "at": "2026-11-09T03:23:09.619Z"
+ },
+ "guangzhou-jay-chou-carnival-ii-world-tour-guangzhou\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Jay_Chou_Opus_Tour_Hong_Kong_2013_IMG_2453w_%289788655785%29.jpg/3840px-Jay_Chou_Opus_Tour_Hong_Kong_2013_IMG_2453w_%289788655785%29.jpg": {
+  "slug": "guangzhou-jay-chou-carnival-ii-world-tour-guangzhou",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Visible photographer watermark overlaid on image",
+  "at": "2026-11-09T03:23:16.509Z"
+ },
+ "guangzhou-jay-chou-carnival-ii-world-tour-guangzhou\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jay_Chou_Opus_Tour_Hong_Kong_2013_IMG_2597w_%289788727613%29.jpg/3840px-Jay_Chou_Opus_Tour_Hong_Kong_2013_IMG_2597w_%289788727613%29.jpg": {
+  "slug": "guangzhou-jay-chou-carnival-ii-world-tour-guangzhou",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Visible photographer watermark overlaid on image",
+  "at": "2026-11-09T03:23:13.396Z"
+ },
+ "guangzhou-jay-chou-carnival-ii-world-tour-guangzhou\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Jay_Chou_Opus_Tour_Hong_Kong_2013_IMG_2430w_%289788657315%29.jpg/3840px-Jay_Chou_Opus_Tour_Hong_Kong_2013_IMG_2430w_%289788657315%29.jpg": {
+  "slug": "guangzhou-jay-chou-carnival-ii-world-tour-guangzhou",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Visible photographer watermark overlay on image",
+  "at": "2026-11-09T03:23:20.451Z"
  },
  "guangzhou-shangxiajiu-commercial-pedestrian-street\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/GZ_%E5%BB%A3%E5%B7%9E_Guangzhou_%E8%8D%94%E7%81%A3_Liwan_%E4%B8%8A%E4%B8%8B%E4%B9%9D%E6%AD%A5%E8%A1%8C%E8%A1%97_Shangxiajiu_Pedestrian_Street_shop_%E8%93%AE%E9%A6%99%E6%A8%93_Lian_Xiang_Lou_Restaurant_June_2025_R12S_06.jpg/3840px-GZ_%E5%BB%A3%E5%B7%9E_Guangzhou_%E8%8D%94%E7%81%A3_Liwan_%E4%B8%8A%E4%B8%8B%E4%B9%9D%E6%AD%A5%E8%A1%8C%E8%A1%97_Shangxiajiu_Pedestrian_Street_shop_%E8%93%AE%E9%A6%99%E6%A8%93_Lian_Xiang_Lou_Restaurant_June_2025_R12S_06.jpg": {
   "slug": "guangzhou-shangxiajiu-commercial-pedestrian-street",
@@ -14358,6 +14496,30 @@
   "reason": "patrol reject: Basketball event, not badminton",
   "at": "2026-10-12T00:34:15.415Z"
  },
+ "istanbul-worldfood-istanbul-2026\u0001https://upload.wikimedia.org/wikipedia/commons/2/24/Istanbul_020_%286393339393%29.jpg": {
+  "slug": "istanbul-worldfood-istanbul-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Street food vendor, not WorldFood expo venue",
+  "at": "2026-11-09T03:23:52.845Z"
+ },
+ "istanbul-worldfood-istanbul-2026\u0001https://upload.wikimedia.org/wikipedia/commons/2/2e/Istanbul_013_%286352063361%29.jpg": {
+  "slug": "istanbul-worldfood-istanbul-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Fruit juice stand photo, unrelated to WorldFood Istanbul event",
+  "at": "2026-11-09T03:23:55.569Z"
+ },
+ "istanbul-worldfood-istanbul-2026\u0001https://upload.wikimedia.org/wikipedia/commons/a/a8/Istanbul_004_%286316985279%29.jpg": {
+  "slug": "istanbul-worldfood-istanbul-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated street scene, not food event or venue",
+  "at": "2026-11-09T03:23:57.309Z"
+ },
+ "istanbul-worldfood-istanbul-2026\u0001https://upload.wikimedia.org/wikipedia/commons/c/c1/Istanbul_008_%286331016815%29.jpg": {
+  "slug": "istanbul-worldfood-istanbul-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Food vendor scene, unrelated to WorldFood Istanbul event venue",
+  "at": "2026-11-09T03:23:54.228Z"
+ },
  "istanbul-yoko-ono-insound-and-instructure\u0001https://upload.wikimedia.org/wikipedia/commons/5/51/Yoko_Ono_001.jpg": {
   "slug": "istanbul-yoko-ono-insound-and-instructure",
   "verdict": "MATCH",
@@ -17031,6 +17193,24 @@
   "reason": "patrol reject: identity: Commons places this in South Korea, post says Malaysia",
   "at": "2026-10-08T14:40:42.518Z"
  },
+ "kuala-lumpur-jimmy-lin-x-nicky-wu-concert-2-0-live-in-malaysia\u0001https://upload.wikimedia.org/wikipedia/commons/5/50/Jimmy_Carter_-_Willie_Nelson_concert_-_DPLA_-_f0c14d9e2d6f259d6572892f06f290c9.jpg": {
+  "slug": "kuala-lumpur-jimmy-lin-x-nicky-wu-concert-2-0-live-in-malaysia",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated photo strip, Willie Nelson concert, not this event",
+  "at": "2026-11-09T03:24:39.743Z"
+ },
+ "kuala-lumpur-jimmy-lin-x-nicky-wu-concert-2-0-live-in-malaysia\u0001https://upload.wikimedia.org/wikipedia/commons/9/94/Jimmy_Carr%2C_2015-04-13_3_%28crop%29.jpg": {
+  "slug": "kuala-lumpur-jimmy-lin-x-nicky-wu-concert-2-0-live-in-malaysia",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Portrait photo; cannot verify performer identity from image",
+  "at": "2026-11-09T03:24:42.370Z"
+ },
+ "kuala-lumpur-jimmy-lin-x-nicky-wu-concert-2-0-live-in-malaysia\u0001https://upload.wikimedia.org/wikipedia/commons/9/9c/Jimmy_Carter_-_Willie_Nelson_concert_-_DPLA_-_a9d6b54aa15d350a816aa955696ca51e.jpg": {
+  "slug": "kuala-lumpur-jimmy-lin-x-nicky-wu-concert-2-0-live-in-malaysia",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Contact sheet of unrelated event, not this concert",
+  "at": "2026-11-09T03:24:38.116Z"
+ },
  "kuala-lumpur-kapitan-s-club\u0001https://fastly.4sqi.net/img/general/original/5813125_RjP0tvKbIWkiJCDwCOSPzRTHydeWwrIgkOtzMQxmo9o.jpg": {
   "slug": "kuala-lumpur-kapitan-s-club",
   "verdict": "MISMATCH",
@@ -18118,6 +18298,30 @@
   "verdict": "MATCH",
   "reason": "event publish gate: Concert stage event photo, plausible tour performance scene",
   "at": "2026-11-05T01:18:35.710Z"
+ },
+ "lima-la-ruta-del-pejerrey-21k\u0001https://upload.wikimedia.org/wikipedia/commons/8/87/Ruta_de_los_Volcanes%2C_La_Deseada_I.jpg": {
+  "slug": "lima-la-ruta-del-pejerrey-21k",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Volcanic landscape unrelated to Lima running event",
+  "at": "2026-11-09T03:25:08.491Z"
+ },
+ "lima-la-ruta-del-pejerrey-21k\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Fundacion_La_Ruta_Maya_Figure_of_Ixchel.jpg/3840px-Fundacion_La_Ruta_Maya_Figure_of_Ixchel.jpg": {
+  "slug": "lima-la-ruta-del-pejerrey-21k",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Pre-Columbian artifact, unrelated to a running race",
+  "at": "2026-11-09T03:25:07.031Z"
+ },
+ "lima-la-ruta-del-pejerrey-21k\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Ruta_de_los_volcanes%2C_Refugio_El_Pilar%2C_La_Palma.jpg/3840px-Ruta_de_los_volcanes%2C_Refugio_El_Pilar%2C_La_Palma.jpg": {
+  "slug": "lima-la-ruta-del-pejerrey-21k",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated stone chapel building, not a race event",
+  "at": "2026-11-09T03:25:10.848Z"
+ },
+ "lima-la-ruta-del-pejerrey-21k\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Ruta_de_los_volcanes%2C_Hoyo_negro%2C_La_Palma.jpg/3840px-Ruta_de_los_volcanes%2C_Hoyo_negro%2C_La_Palma.jpg": {
+  "slug": "lima-la-ruta-del-pejerrey-21k",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Barren hillside, not depicting the running event",
+  "at": "2026-11-09T03:25:09.707Z"
  },
  "lima-larco-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Lima_museo_larco.jpg/1920px-Lima_museo_larco.jpg": {
   "slug": "lima-larco-museum",
@@ -20788,6 +20992,24 @@
   "reason": "event publish gate: Concert performers on stage singing into microphones",
   "at": "2026-10-21T23:51:27.319Z"
  },
+ "melbourne-a-ap-rocky-don-t-be-dumb-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/5/5b/A%24AP_Rocky_Released_from_Swedish_Jail-2.jpg": {
+  "slug": "melbourne-a-ap-rocky-don-t-be-dumb-world-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Press photographers crowd, not A$AP Rocky or venue",
+  "at": "2026-11-09T03:26:11.745Z"
+ },
+ "melbourne-a-ap-rocky-don-t-be-dumb-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/8/8c/A%24AP_Rocky_-_Under_the_Influence_Tour_2013_Toronto.jpg": {
+  "slug": "melbourne-a-ap-rocky-don-t-be-dumb-world-tour",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Portrait of performer, plausibly the tour act",
+  "at": "2026-11-09T03:26:13.993Z"
+ },
+ "melbourne-a-ap-rocky-don-t-be-dumb-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/A%24AP_Rocky_Released_from_Swedish_Jail.jpg/3840px-A%24AP_Rocky_Released_from_Swedish_Jail.jpg": {
+  "slug": "melbourne-a-ap-rocky-don-t-be-dumb-world-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Crowd with press/security, not performer or venue",
+  "at": "2026-11-09T03:26:10.068Z"
+ },
  "melbourne-australian-open-2027\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Nakashima_AO26_R1.jpg/1920px-Nakashima_AO26_R1.jpg": {
   "slug": "melbourne-australian-open-2027",
   "verdict": "MATCH",
@@ -22099,6 +22321,30 @@
   "reasonKo": "장식 기둥이 있는 고대 동굴 사원 내부",
   "at": "2026-08-03T14:32:20.496Z"
  },
+ "mumbai-khalid-live-in-india-it-s-always-summer-somewhere-tour\u0001https://upload.wikimedia.org/wikipedia/commons/5/55/Building_in_Baku_where_Khalid_Khojayev_lived.jpg": {
+  "slug": "mumbai-khalid-live-in-india-it-s-always-summer-somewhere-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Street building photo, unrelated to Khalid concert event",
+  "at": "2026-11-09T03:26:21.589Z"
+ },
+ "mumbai-khalid-live-in-india-it-s-always-summer-somewhere-tour\u0001https://upload.wikimedia.org/wikipedia/commons/6/68/Wadi_Bani_Khalid_001_%2825297679909%29.jpg": {
+  "slug": "mumbai-khalid-live-in-india-it-s-always-summer-somewhere-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Canyon landscape, unrelated to a music performer event",
+  "at": "2026-11-09T03:26:26.466Z"
+ },
+ "mumbai-khalid-live-in-india-it-s-always-summer-somewhere-tour\u0001https://upload.wikimedia.org/wikipedia/commons/a/af/Khalid_Askri_07-12-2014.jpg": {
+  "slug": "mumbai-khalid-live-in-india-it-s-always-summer-somewhere-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Soccer goalkeeper, unrelated to Khalid concert event",
+  "at": "2026-11-09T03:26:24.394Z"
+ },
+ "mumbai-khalid-live-in-india-it-s-always-summer-somewhere-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Wadi_Bani_Khalid_%282%29.jpg/3840px-Wadi_Bani_Khalid_%282%29.jpg": {
+  "slug": "mumbai-khalid-live-in-india-it-s-always-summer-somewhere-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Nature landscape, unrelated to Khalid concert event",
+  "at": "2026-11-09T03:26:22.879Z"
+ },
  "mumbai-leopold-cafe\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LeopoldCafe_gobeirne.jpg/1920px-LeopoldCafe_gobeirne.jpg": {
   "slug": "mumbai-leopold-cafe",
   "verdict": "MATCH",
@@ -23253,6 +23499,48 @@
   "verdict": "MATCH",
   "reason": "event publish gate: Christmas tree at plaza, matches event venue scene",
   "at": "2026-10-18T22:47:58.557Z"
+ },
+ "new-taipei-city-taiwan-lantern-festival-new-taipei-pingxi-sky-lantern-festival\u0001https://upload.wikimedia.org/wikipedia/commons/d/d2/2007%E5%8F%B0%E7%81%A3%E7%87%88%E6%9C%83%E4%B8%BB%E7%87%88%E4%BF%9D%E7%95%99%E6%96%BC%E4%B8%83%E8%82%A1%E9%B9%BD%E5%B1%B1%E4%B8%AD.jpg": {
+  "slug": "new-taipei-city-taiwan-lantern-festival-new-taipei-pingxi-sky-lantern-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Boar statue by water, unrelated to lantern festival",
+  "at": "2026-11-09T03:26:37.525Z"
+ },
+ "new-taipei-city-taiwan-lantern-festival-new-taipei-pingxi-sky-lantern-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/%E5%90%89%E7%BE%8A%E5%BA%B7%E6%B3%B0%E5%89%8D%E5%81%B4.jpg/3840px-%E5%90%89%E7%BE%8A%E5%BA%B7%E6%B3%B0%E5%89%8D%E5%81%B4.jpg": {
+  "slug": "new-taipei-city-taiwan-lantern-festival-new-taipei-pingxi-sky-lantern-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Goat statue, unrelated to Pingxi Lantern Festival",
+  "at": "2026-11-09T03:26:38.867Z"
+ },
+ "new-taipei-city-taiwan-lantern-festival-new-taipei-pingxi-sky-lantern-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/%E5%90%89%E7%BE%8A%E5%BA%B7%E6%B3%B0%E5%BE%8C%E5%81%B4.jpg/3840px-%E5%90%89%E7%BE%8A%E5%BA%B7%E6%B3%B0%E5%BE%8C%E5%81%B4.jpg": {
+  "slug": "new-taipei-city-taiwan-lantern-festival-new-taipei-pingxi-sky-lantern-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Goat statue unrelated to Sky Lantern Festival",
+  "at": "2026-11-09T03:26:40.104Z"
+ },
+ "new-taipei-city-taiwan-lantern-festival-new-taipei-pingxi-sky-lantern-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Kaohsiung_Music_Center_and_Great_Tiger_Bridge_during_2022_Taiwan_Lantern_Festival.jpg/3840px-Kaohsiung_Music_Center_and_Great_Tiger_Bridge_during_2022_Taiwan_Lantern_Festival.jpg": {
+  "slug": "new-taipei-city-taiwan-lantern-festival-new-taipei-pingxi-sky-lantern-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Modern architecture building, unrelated to sky lantern festival",
+  "at": "2026-11-09T03:26:41.309Z"
+ },
+ "new-taipei-city-taiwan-lantern-festival-new-taipei-pingxi-sky-lantern-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/2015_Taiwan_Lantern_Festival_08.jpg/3840px-2015_Taiwan_Lantern_Festival_08.jpg": {
+  "slug": "new-taipei-city-taiwan-lantern-festival-new-taipei-pingxi-sky-lantern-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Illuminated bridge/boats scene, not Pingxi lantern festival venue",
+  "at": "2026-11-09T03:26:45.557Z"
+ },
+ "new-taipei-city-taiwan-lantern-festival-new-taipei-pingxi-sky-lantern-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2015_Taiwan_Lantern_Festival_01.jpg/3840px-2015_Taiwan_Lantern_Festival_01.jpg": {
+  "slug": "new-taipei-city-taiwan-lantern-festival-new-taipei-pingxi-sky-lantern-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Wrong location/event; park lake scene, not Pingxi lanterns",
+  "at": "2026-11-09T03:26:42.635Z"
+ },
+ "new-taipei-city-taiwan-lantern-festival-new-taipei-pingxi-sky-lantern-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/2015_Taiwan_Lantern_Festival_09.jpg/3840px-2015_Taiwan_Lantern_Festival_09.jpg": {
+  "slug": "new-taipei-city-taiwan-lantern-festival-new-taipei-pingxi-sky-lantern-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Generic lit bridge/park, not Pingxi lantern festival venue",
+  "at": "2026-11-09T03:26:44.060Z"
  },
  "new-taipei-dalongdong-baoan-temple\u0001https://fastly.4sqi.net/img/general/original/60840918_5eZLhP2RsZH3vrizwJWdLcZvH1ZYyNvP1tJhmY4xrMI.jpg": {
   "slug": "new-taipei-dalongdong-baoan-temple",
@@ -24949,6 +25237,30 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows ancient tomb structures representative of Hierapolis necropolis",
   "at": "2026-11-04T07:42:57.181Z"
+ },
+ "panaji-goa-river-marathon-skf-goa-river-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/3/34/Chapora_River_as_seen_from_Vagator_Fort%2C_Goa%2C_India.jpg": {
+  "slug": "panaji-goa-river-marathon-skf-goa-river-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Generic coastal landscape, no marathon or runners shown",
+  "at": "2026-11-09T03:26:54.998Z"
+ },
+ "panaji-goa-river-marathon-skf-goa-river-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Mandrem_Beach_and_Mandrem_River%2C_Mandrem%2C_Goa%2C_India_%28edit%29.jpg/3840px-Mandrem_Beach_and_Mandrem_River%2C_Mandrem%2C_Goa%2C_India_%28edit%29.jpg": {
+  "slug": "panaji-goa-river-marathon-skf-goa-river-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Generic beach scene, not depicting marathon or runners",
+  "at": "2026-11-09T03:26:50.597Z"
+ },
+ "panaji-goa-river-marathon-skf-goa-river-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Mandrem_Beach_and_Mandrem_River%2C_Mandrem%2C_Goa%2C_India.jpg/3840px-Mandrem_Beach_and_Mandrem_River%2C_Mandrem%2C_Goa%2C_India.jpg": {
+  "slug": "panaji-goa-river-marathon-skf-goa-river-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Beach scene, no marathon runners or race visible",
+  "at": "2026-11-09T03:26:51.786Z"
+ },
+ "panaji-goa-river-marathon-skf-goa-river-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_Terekhol_River_and_Querim_Beach%2C_panoramic_view%2C_Goa%2C_India.jpg/3840px-The_Terekhol_River_and_Querim_Beach%2C_panoramic_view%2C_Goa%2C_India.jpg": {
+  "slug": "panaji-goa-river-marathon-skf-goa-river-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: River/beach landscape, no marathon runners or event shown",
+  "at": "2026-11-09T03:26:53.159Z"
  },
  "paracas-candelabro-de-paracas\u0001https://upload.wikimedia.org/wikipedia/commons/f/f9/Candelabro_de_Paracas_03.JPG": {
   "slug": "paracas-candelabro-de-paracas",
@@ -27428,6 +27740,18 @@
   "reason": "publish gate: Forest with deer, representative of tiger reserve habitat",
   "at": "2026-09-12T07:45:50.990Z"
  },
+ "rishikesh-ram-jhula\u0001https://live.staticflickr.com/7028/6491166837_2f9d5ff170_b.jpg": {
+  "slug": "rishikesh-ram-jhula",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Ram Jhula bridge, riverside vendor, Rishikesh setting",
+  "at": "2026-11-09T03:27:04.011Z"
+ },
+ "rishikesh-ram-jhula\u0001https://live.staticflickr.com/7034/6491164025_44d5e37086_b.jpg": {
+  "slug": "rishikesh-ram-jhula",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Street scene near Rishikesh, not Ram Jhula bridge itself",
+  "at": "2026-11-09T03:27:01.021Z"
+ },
  "rishikesh-ram-jhula\u0001https://upload.wikimedia.org/wikipedia/commons/1/11/Ramjhula_-_bridge_over_the_Ganga.jpg": {
   "slug": "rishikesh-ram-jhula",
   "verdict": "MATCH",
@@ -28312,6 +28636,48 @@
   "reason": "Pórtico da Gloria interior stone relief carvings",
   "reasonKo": "포르티코 델라 글로리아의 내부 부조",
   "at": "2026-08-14T13:59:21.530Z"
+ },
+ "sanya-jay-chou-carnival-ii-world-tour-sanya\u0001https://upload.wikimedia.org/wikipedia/commons/4/4b/Jay_Chou_in_Madame_Tussauds_Hong_Kong01.jpg": {
+  "slug": "sanya-jay-chou-carnival-ii-world-tour-sanya",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Wax figure, not actual performer photo",
+  "at": "2026-11-09T03:27:29.153Z"
+ },
+ "sanya-jay-chou-carnival-ii-world-tour-sanya\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Jay_Chou_Opus_Tour_Hong_Kong_2013_IMG_2511w_%289788670546%29.jpg/3840px-Jay_Chou_Opus_Tour_Hong_Kong_2013_IMG_2511w_%289788670546%29.jpg": {
+  "slug": "sanya-jay-chou-carnival-ii-world-tour-sanya",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Visible photographer credit watermark overlaid",
+  "at": "2026-11-09T03:27:22.913Z"
+ },
+ "sanya-jay-chou-carnival-ii-world-tour-sanya\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Jay_Chou_Opus_Tour_Hong_Kong_2013_IMG_2455w_%289788676656%29.jpg/3840px-Jay_Chou_Opus_Tour_Hong_Kong_2013_IMG_2455w_%289788676656%29.jpg": {
+  "slug": "sanya-jay-chou-carnival-ii-world-tour-sanya",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Visible photographer watermark overlay 'Eddie Yip 2013'",
+  "at": "2026-11-09T03:27:33.035Z"
+ },
+ "sanya-jay-chou-carnival-ii-world-tour-sanya\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Jay_Chou_Opus_Tour_Hong_Kong_2013_IMG_2577w_%289788669936%29.jpg/3840px-Jay_Chou_Opus_Tour_Hong_Kong_2013_IMG_2577w_%289788669936%29.jpg": {
+  "slug": "sanya-jay-chou-carnival-ii-world-tour-sanya",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Visible photographer watermark overlaid on image",
+  "at": "2026-11-09T03:27:21.185Z"
+ },
+ "sanya-jay-chou-carnival-ii-world-tour-sanya\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Jay_Chou_Opus_Tour_Hong_Kong_2013_IMG_2453w_%289788655785%29.jpg/3840px-Jay_Chou_Opus_Tour_Hong_Kong_2013_IMG_2453w_%289788655785%29.jpg": {
+  "slug": "sanya-jay-chou-carnival-ii-world-tour-sanya",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Visible photographer watermark overlay on image",
+  "at": "2026-11-09T03:27:31.195Z"
+ },
+ "sanya-jay-chou-carnival-ii-world-tour-sanya\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jay_Chou_Opus_Tour_Hong_Kong_2013_IMG_2597w_%289788727613%29.jpg/3840px-Jay_Chou_Opus_Tour_Hong_Kong_2013_IMG_2597w_%289788727613%29.jpg": {
+  "slug": "sanya-jay-chou-carnival-ii-world-tour-sanya",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Visible photographer watermark overlaid on image",
+  "at": "2026-11-09T03:27:24.622Z"
+ },
+ "sanya-jay-chou-carnival-ii-world-tour-sanya\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Jay_Chou_Opus_Tour_Hong_Kong_2013_IMG_2430w_%289788657315%29.jpg/3840px-Jay_Chou_Opus_Tour_Hong_Kong_2013_IMG_2430w_%289788657315%29.jpg": {
+  "slug": "sanya-jay-chou-carnival-ii-world-tour-sanya",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Visible photographer watermark overlaid on image",
+  "at": "2026-11-09T03:27:34.711Z"
  },
  "sanya-luhuitou-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/%E4%B8%89%E4%BA%9E%E9%B9%BF%E5%9B%9E%E9%A0%AD%E5%85%AC%E5%9C%92_Luhuitou_Park%2C_Sanya_-_panoramio.jpg/3840px-%E4%B8%89%E4%BA%9E%E9%B9%BF%E5%9B%9E%E9%A0%AD%E5%85%AC%E5%9C%92_Luhuitou_Park%2C_Sanya_-_panoramio.jpg": {
   "slug": "sanya-luhuitou-park",
@@ -33791,6 +34157,30 @@
   "reason": "patrol replace: Modern café interior, exposed beams, trendy design, Tashkent",
   "at": "2026-09-17T22:25:31.237Z"
  },
+ "tashkent-silk-road-international-film-festival\u0001https://upload.wikimedia.org/wikipedia/commons/7/74/Silk_route.jpg": {
+  "slug": "tashkent-silk-road-international-film-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: This is a map diagram, not an event photo",
+  "at": "2026-11-09T03:28:11.099Z"
+ },
+ "tashkent-silk-road-international-film-festival\u0001https://upload.wikimedia.org/wikipedia/commons/e/e9/Silk_route_chinese.jpg": {
+  "slug": "tashkent-silk-road-international-film-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Map diagram, not a photo of the event",
+  "at": "2026-11-09T03:28:12.294Z"
+ },
+ "tashkent-silk-road-international-film-festival\u0001https://upload.wikimedia.org/wikipedia/commons/f/fa/Silk_route_ar.jpg": {
+  "slug": "tashkent-silk-road-international-film-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: This is a map diagram, not a film festival photo",
+  "at": "2026-11-09T03:28:15.147Z"
+ },
+ "tashkent-silk-road-international-film-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/The_Silk_Road_route_in_Turkey.jpg/3840px-The_Silk_Road_route_in_Turkey.jpg": {
+  "slug": "tashkent-silk-road-international-film-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Photo of a sign, not the festival event",
+  "at": "2026-11-09T03:28:13.680Z"
+ },
  "tashkent-socials\u0001https://fastly.4sqi.net/img/general/original/18892600_pekzcUlCRUCctzB96xxb9qcQehJltz0a491C9_bed9c.jpg": {
   "slug": "tashkent-socials",
   "verdict": "MATCH",
@@ -34358,6 +34748,30 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: audit: French bakery storefront, not Tokyo restaurant",
   "at": "2026-10-01T23:39:37.762Z"
+ },
+ "tokyo-chez-calvert\u0001https://fastly.4sqi.net/img/general/original/496805_DFLhDJyocTmzcfuqiWcdxtBrtaTxFmF8B2Z7kUFvE6A.jpg": {
+  "slug": "tokyo-chez-calvert",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Studio-style plated dish shot, no venue context shown",
+  "at": "2026-11-09T03:28:39.795Z"
+ },
+ "tokyo-chez-calvert\u0001https://fastly.4sqi.net/img/general/original/496805_W-ah_I5O1Om21AqIkxOo4PxmqlEmKELgG8nsNh7hvvA.jpg": {
+  "slug": "tokyo-chez-calvert",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Watermark text overlay added to image",
+  "at": "2026-11-09T03:28:35.675Z"
+ },
+ "tokyo-chez-calvert\u0001https://fastly.4sqi.net/img/general/original/496805_cUNRZB6YwsBW0S5iJkPri9lw11cDG1GbfD5CadVW3VI.jpg": {
+  "slug": "tokyo-chez-calvert",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Just a curtain with logo text, not venue view",
+  "at": "2026-11-09T03:28:33.446Z"
+ },
+ "tokyo-chez-calvert\u0001https://fastly.4sqi.net/img/general/original/496805_niLKFCYdalQ-ebODf8wzCDSXDJSuD_X1Ni69-BFXw6M.jpg": {
+  "slug": "tokyo-chez-calvert",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Photo has visible text watermark overlay",
+  "at": "2026-11-09T03:28:38.128Z"
  },
  "tokyo-chez-calvert\u0001https://fastly.4sqi.net/img/general/original/5333524_nQr51oUGGTmXmsxSJ0MGPZYlP7cv2XuIJotF6IdA9gQ.jpg": {
   "slug": "tokyo-chez-calvert",
@@ -35159,6 +35573,12 @@
   "verdict": "MATCH",
   "reason": "event publish gate: String lights decor consistent with Christmas market venue",
   "at": "2026-11-02T00:13:16.855Z"
+ },
+ "toronto-toronto-resolution-run\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Gate_of_Exhibition_place_from_back_side_02.jpg/3840px-Gate_of_Exhibition_place_from_back_side_02.jpg": {
+  "slug": "toronto-toronto-resolution-run",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Toronto venue street scene, recognizable architecture",
+  "at": "2026-11-09T03:28:56.130Z"
  },
  "toronto-toronto-santa-claus-parade\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Santa_Claus_Parade_%28Toronto%29_%2822431838263%29.jpg/3840px-Santa_Claus_Parade_%28Toronto%29_%2822431838263%29.jpg": {
   "slug": "toronto-toronto-santa-claus-parade",

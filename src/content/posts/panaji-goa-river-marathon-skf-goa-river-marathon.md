@@ -9,6 +9,14 @@ eventStartDate: '2026-12-13'
 eventEndDate: '2026-12-13'
 eventRecurring: true
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Immaculate_Conception_Church%2C_Panaji.jpg/1280px-Immaculate_Conception_Church%2C_Panaji.jpg'
+  credit: 'Photo: iMahesh (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'File:Immaculate Conception Church, Panaji.jpg'
+  focus:
+    x: 50
+    y: 40
 gallery: []
 tags:
   - panaji

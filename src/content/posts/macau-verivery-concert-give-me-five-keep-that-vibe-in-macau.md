@@ -18,6 +18,14 @@ eventPerformer:
   name: VERIVERY
   kind: group
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/The_Legislative_Council_of_the_Macau_Special_Administrative_Region_entry_05-02-2023.jpg/3840px-The_Legislative_Council_of_the_Macau_Special_Administrative_Region_entry_05-02-2023.jpg'
+  credit: 'Photo: LN9267 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:The_Legislative_Council_of_the_Macau_Special_Administrative_Region_entry_05-02-2023.jpg'
+  focus:
+    x: 35
+    y: 40
 gallery: []
 tags:
   - macau
