@@ -972,6 +972,24 @@
   "reasonKo": "알카니스 교회탑, 스페인 건축양식 일치",
   "at": "2026-08-03T12:44:25.712Z"
  },
+ "alexandria-bibliotheca-alexandrina\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bibliotheca_Alexandrina_20.jpg/3840px-Bibliotheca_Alexandrina_20.jpg": {
+  "slug": "alexandria-bibliotheca-alexandrina",
+  "verdict": "MATCH",
+  "reason": "publish gate: Famous giant open-book bench, recognizable Bibliotheca Alexandrina interior feature",
+  "at": "2026-11-09T17:54:17.212Z"
+ },
+ "alexandria-catacombs-of-kom-el-shoqafa\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/...Catacombsa.jpg/1920px-...Catacombsa.jpg": {
+  "slug": "alexandria-catacombs-of-kom-el-shoqafa",
+  "verdict": "MATCH",
+  "reason": "publish gate: Representative interior view of Egyptian catacomb carvings",
+  "at": "2026-11-09T17:54:17.364Z"
+ },
+ "alexandria-montaza-palace\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Motazah_palace_-_Alexandria.jpg/1920px-Motazah_palace_-_Alexandria.jpg": {
+  "slug": "alexandria-montaza-palace",
+  "verdict": "MATCH",
+  "reason": "publish gate: Representative night view of Montaza Palace's iconic tower",
+  "at": "2026-11-09T17:54:17.810Z"
+ },
  "alicante-atp-challenger-alicante\u0001https://upload.wikimedia.org/wikipedia/commons/1/1e/Novak_Djokovic_at_the_ATP_Tennis_World_Finals.jpg": {
   "slug": "alicante-atp-challenger-alicante",
   "verdict": "MISMATCH",
@@ -1525,6 +1543,36 @@
   "verdict": "MATCH",
   "reason": "event publish gate: Korn performer on stage at concert event",
   "at": "2026-10-29T00:31:05.840Z"
+ },
+ "aswan-elephantine\u0001https://upload.wikimedia.org/wikipedia/commons/0/0e/Aswan%2C_Elephantine%2C_west_bank%2C_Egypt%2C_Oct_2004.jpg": {
+  "slug": "aswan-elephantine",
+  "verdict": "MATCH",
+  "reason": "publish gate: Nile riverbank with felucca, plausible Elephantine Island scene",
+  "at": "2026-11-09T17:54:17.333Z"
+ },
+ "aswan-nubian-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Aswan_Nubian_Museum_entrance.jpg/1920px-Aswan_Nubian_Museum_entrance.jpg": {
+  "slug": "aswan-nubian-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior entrance view of Nubian Museum at dusk",
+  "at": "2026-11-09T17:54:17.649Z"
+ },
+ "aswan-philae-temple\u0001https://upload.wikimedia.org/wikipedia/commons/8/8d/Philae_Temple_R05.jpg": {
+  "slug": "aswan-philae-temple",
+  "verdict": "MATCH",
+  "reason": "publish gate: Representative exterior view of Philae Temple complex",
+  "at": "2026-11-09T17:54:17.168Z"
+ },
+ "aswan-the-high-dam-of-aswan\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/By_ovedc_-_Aswan_High_Dam_-_05.jpg/3840px-By_ovedc_-_Aswan_High_Dam_-_05.jpg": {
+  "slug": "aswan-the-high-dam-of-aswan",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows dam structure, reservoir, and switchyard infrastructure",
+  "at": "2026-11-09T17:54:17.779Z"
+ },
+ "aswan-unfinished-obelisk\u0001https://upload.wikimedia.org/wikipedia/commons/c/c6/Unfinished_Obelisk%2C_Aswan_%289797382426%29.jpg": {
+  "slug": "aswan-unfinished-obelisk",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows carved granite trench, the Unfinished Obelisk site itself",
+  "at": "2026-11-09T17:54:17.519Z"
  },
  "auckland-a-ap-rocky-don-t-be-dumb-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/3/3f/A%24AP_Rocky_by_David_Hwang.jpg": {
   "slug": "auckland-a-ap-rocky-don-t-be-dumb-world-tour",
@@ -6150,6 +6198,30 @@
   "reason": "event publish gate: Attendee at Cairo Film Festival event backdrop",
   "at": "2026-11-09T01:07:55.862Z"
  },
+ "cairo-coptic-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Kairo_-_Altkairo_05.jpg/1920px-Kairo_-_Altkairo_05.jpg": {
+  "slug": "cairo-coptic-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Representative exterior facade of the Coptic Museum entrance",
+  "at": "2026-11-09T17:54:17.713Z"
+ },
+ "cairo-khan-el-khalili\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/%D8%AE%D8%A7%D9%86_%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D9%84%D9%8A_1.jpg/1920px-%D8%AE%D8%A7%D9%86_%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D9%84%D9%8A_1.jpg": {
+  "slug": "cairo-khan-el-khalili",
+  "verdict": "MATCH",
+  "reason": "publish gate: Classic Khan el-Khalili market scene with lanterns and arch",
+  "at": "2026-11-09T17:54:17.875Z"
+ },
+ "cairo-mosque-of-ibn-tulun\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Kairo_Ibn_Tulun_Moschee_BW_4.jpg/1920px-Kairo_Ibn_Tulun_Moschee_BW_4.jpg": {
+  "slug": "cairo-mosque-of-ibn-tulun",
+  "verdict": "MATCH",
+  "reason": "publish gate: Authentic courtyard view of Ibn Tulun mosque",
+  "at": "2026-11-09T17:54:17.434Z"
+ },
+ "cairo-the-national-museum-of-egyptian-civilization\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Ancient_Egyptian_cosmetics%3B_National_Museum_of_Egyptian_Civilization%2C_Cairo_%2852087350129%29.jpg/3840px-Ancient_Egyptian_cosmetics%3B_National_Museum_of_Egyptian_Civilization%2C_Cairo_%2852087350129%29.jpg": {
+  "slug": "cairo-the-national-museum-of-egyptian-civilization",
+  "verdict": "MATCH",
+  "reason": "publish gate: Museum display of ancient Egyptian artifacts, representative exhibit view",
+  "at": "2026-11-09T17:54:17.581Z"
+ },
  "calgary-113th-grey-cup\u0001https://upload.wikimedia.org/wikipedia/commons/0/0d/Grey_Cup%21_07122006.jpg": {
   "slug": "calgary-113th-grey-cup",
   "verdict": "MISMATCH",
@@ -10268,11 +10340,53 @@
   "reason": "event publish gate: Concert stage with crowd, matches festival event type",
   "at": "2026-10-29T00:38:47.886Z"
  },
+ "giza-bent-pyramid-of-cairo\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Bent_Pyramid_featuring_the_original_polished_limestone_outer_casing_that_the_pyramids_used_to_have_%2814792677691%29.jpg/3840px-Bent_Pyramid_featuring_the_original_polished_limestone_outer_casing_that_the_pyramids_used_to_have_%2814792677691%29.jpg": {
+  "slug": "giza-bent-pyramid-of-cairo",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows the Bent Pyramid's distinctive sloped structure clearly",
+  "at": "2026-11-09T17:54:17.398Z"
+ },
+ "giza-giza-necropolis\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pyramids_of_the_Giza_Necropolis.jpg/1920px-Pyramids_of_the_Giza_Necropolis.jpg": {
+  "slug": "giza-giza-necropolis",
+  "verdict": "MATCH",
+  "reason": "publish gate: Iconic representative view of Giza pyramids complex",
+  "at": "2026-11-09T18:16:14.137Z"
+ },
+ "giza-great-sphinx-of-giza\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sphinx_with_the_third_pyramid.jpg/1920px-Sphinx_with_the_third_pyramid.jpg": {
+  "slug": "giza-great-sphinx-of-giza",
+  "verdict": "MATCH",
+  "reason": "publish gate: Clear representative view of the Great Sphinx with pyramid",
+  "at": "2026-11-09T17:54:17.549Z"
+ },
+ "giza-mit-rahina-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/%C3%89gypte%2C_Memphis_%28Mit_Rahina%29%2C_Mus%C3%A9e_en_plein_air%2C_Sarcophage_%2849639930396%29.jpg/3840px-%C3%89gypte%2C_Memphis_%28Mit_Rahina%29%2C_Mus%C3%A9e_en_plein_air%2C_Sarcophage_%2849639930396%29.jpg": {
+  "slug": "giza-mit-rahina-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Carved stone relief with hieroglyphs, representative of museum exhibit",
+  "at": "2026-11-09T17:54:17.941Z"
+ },
+ "giza-red-pyramid\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Rote_Pyramide_%28Dahschur%29_04.jpg/1920px-Rote_Pyramide_%28Dahschur%29_04.jpg": {
+  "slug": "giza-red-pyramid",
+  "verdict": "MATCH",
+  "reason": "publish gate: Clear full view of the Red Pyramid, representative hero",
+  "at": "2026-11-09T17:54:17.681Z"
+ },
  "giza-shakira-las-mujeres-ya-no-lloran-world-tour-pyramids-of-giza\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Shakira_-_Live_Paris_-_2010_%2811%29.jpg/1920px-Shakira_-_Live_Paris_-_2010_%2811%29.jpg": {
   "slug": "giza-shakira-las-mujeres-ya-no-lloran-world-tour-pyramids-of-giza",
   "verdict": "MATCH",
   "reason": "event publish gate: Shakira performing on stage, valid for tour event hero",
   "at": "2026-11-09T01:08:49.590Z"
+ },
+ "giza-the-grand-egyptian-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/View_of_Pyramids_of_Giza_from_Grand_Egyptian_Museum.jpg/3840px-View_of_Pyramids_of_Giza_from_Grand_Egyptian_Museum.jpg": {
+  "slug": "giza-the-grand-egyptian-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows museum interior framing Giza pyramids view, representative",
+  "at": "2026-11-09T17:54:17.845Z"
+ },
+ "giza-the-great-pyramid-of-giza\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Great_Pyramid_of_Giza_-_Pyramid_of_Khufu.jpg/1920px-Great_Pyramid_of_Giza_-_Pyramid_of_Khufu.jpg": {
+  "slug": "giza-the-great-pyramid-of-giza",
+  "verdict": "MATCH",
+  "reason": "publish gate: Classic full view of the Great Pyramid of Giza",
+  "at": "2026-11-09T17:54:17.247Z"
  },
  "glasgow-barras-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Barras_Market%2C_Glasgow.jpg/3840px-Barras_Market%2C_Glasgow.jpg": {
   "slug": "glasgow-barras-market",
@@ -13395,6 +13509,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Striped multicolored mountain matches Serranía de Hornocal landscape",
   "at": "2026-10-26T15:36:48.649Z"
+ },
+ "hurghada-giftun-islands\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Giftun_Soraya01.JPG/1920px-Giftun_Soraya01.JPG": {
+  "slug": "hurghada-giftun-islands",
+  "verdict": "MATCH",
+  "reason": "publish gate: Island view with boat matches Giftun Islands locale",
+  "at": "2026-11-09T17:54:17.070Z"
  },
  "hurghada-hurghada-grand-aquarium\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Hurghada_Grand_Aquarium_by_Hatem_Moushir_1.JPG/1920px-Hurghada_Grand_Aquarium_by_Hatem_Moushir_1.JPG": {
   "slug": "hurghada-hurghada-grand-aquarium",
@@ -19632,6 +19752,42 @@
   "verdict": "MATCH",
   "reason": "hand-picked: the festival crowd, 2021 — Crowd with costumes at Lucca walls, matches event",
   "at": "2026-10-09T12:43:09.233Z"
+ },
+ "luxor-karnak\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Temple_de_Louxor_68.jpg/1920px-Temple_de_Louxor_68.jpg": {
+  "slug": "luxor-karnak",
+  "verdict": "MATCH",
+  "reason": "publish gate: Classic hypostyle hall columns, representative of Karnak Temple",
+  "at": "2026-11-09T17:54:17.126Z"
+ },
+ "luxor-luxor-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/1550_bis_1070_v._Chr._ca._wurde_der_Tempel_von_Luxor_erbaut._01.jpg/1920px-1550_bis_1070_v._Chr._ca._wurde_der_Tempel_von_Luxor_erbaut._01.jpg": {
+  "slug": "luxor-luxor-temple",
+  "verdict": "MATCH",
+  "reason": "publish gate: Iconic Luxor Temple pylon, obelisk, statues at dusk",
+  "at": "2026-11-09T17:54:17.464Z"
+ },
+ "luxor-mortuary-temple-of-hatshepsut\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Templo_funerario_de_Hatshepsut%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_13.jpg/1920px-Templo_funerario_de_Hatshepsut%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_13.jpg": {
+  "slug": "luxor-mortuary-temple-of-hatshepsut",
+  "verdict": "MATCH",
+  "reason": "publish gate: Aerial view of Hatshepsut's temple complex against cliffs",
+  "at": "2026-11-09T17:54:17.905Z"
+ },
+ "luxor-mortuary-temple-of-ramesses-iii\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/27391-_Mortuary_temple_of_Ramesses_III%2C_Medinet_Habu.jpg/3840px-27391-_Mortuary_temple_of_Ramesses_III%2C_Medinet_Habu.jpg": {
+  "slug": "luxor-mortuary-temple-of-ramesses-iii",
+  "verdict": "MATCH",
+  "reason": "publish gate: Egyptian temple facade with hieroglyphs, matches mortuary temple article",
+  "at": "2026-11-09T17:54:17.278Z"
+ },
+ "luxor-ramesseum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/SFEC_AEH_-ThebesNecropolis-2010-RamsesII-021.jpg/1920px-SFEC_AEH_-ThebesNecropolis-2010-RamsesII-021.jpg": {
+  "slug": "luxor-ramesseum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Aerial view of Ramesseum temple ruins in Luxor",
+  "at": "2026-11-09T17:54:17.618Z"
+ },
+ "luxor-valley-of-the-kings\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Luxor_Valley_of_the_Kings_R01.jpg/3840px-Luxor_Valley_of_the_Kings_R01.jpg": {
+  "slug": "luxor-valley-of-the-kings",
+  "verdict": "MATCH",
+  "reason": "publish gate: Valley of the Kings landscape with tourist tram, representative view",
+  "at": "2026-11-09T17:54:17.749Z"
  },
  "lyon-ayla\u0001https://fastly.4sqi.net/img/general/original/36586_cccPMIefbRlsxaAfqrmvYLsEnO8oYxWso1Q4bcLq2AA.jpg": {
   "slug": "lyon-ayla",

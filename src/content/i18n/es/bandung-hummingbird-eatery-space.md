@@ -1,59 +1,63 @@
 ---
 lang: es
 slug: bandung-hummingbird-eatery-space
-srcHash: 'feb34e455c6a'
+srcHash: 'd21d4cee1cd1'
 title: 'Hummingbird Eatery & Space: dónde comer en Bandung'
-description: En la zona de Citarum de Bandung, sobre Jl. Progo, Hummingbird Eatery & Space es un café-restaurante de todo el día con patio ajardinado, conocido por una carta que combina clásicos indonesios, platos occidentales, crepes y jugos naturales.
-quickAnswer: En la zona de Citarum de Bandung, sobre Jl. Progo, Hummingbird Eatery & Space es un café-restaurante de todo el día con patio ajardinado, conocido por una carta que combina clásicos indonesios, platos occidentales, crepes y jugos naturales. Con una calificación de 4.7 basada en casi 13,000 reseñas, es un lugar realmente popular y muy visitado, así que conviene ir un día de semana por la mañana o a media tarde para evitar la avalancha del fin de semana. Calcula entre IDR 40,000 y 90,000 por plato (rango medio, nivel de precio 2).
+description: En la calle Jl. Progo, en el barrio de Citarum (Bandung), Hummingbird Eatery & Space es un café abierto todo el día, rodeado de vegetación y con varias terrazas. Su carta reúne clásicos indonesios, platos occidentales, crepes y jugos naturales.
+quickAnswer: En la calle Jl. Progo, en el barrio de Citarum (Bandung), Hummingbird Eatery & Space es un café abierto todo el día, rodeado de vegetación y con varias terrazas. Su carta reúne clásicos indonesios, platos occidentales, crepes y jugos naturales. Su valoración de 4.7, con casi 13,000 reseñas, confirma que es un local muy concurrido y de verdadero éxito. Para no coincidir con las aglomeraciones del fin de semana, conviene ir un día laborable por la mañana o a media tarde. Sus precios son moderados para la ciudad (nivel de precio 2).
 faq:
-  - q: ¿Cómo llego a Hummingbird Eatery & Space sin auto?
-    a: Lo más práctico es usar Grab o Gojek (las principales apps de transporte de Indonesia), ya que la zona de Citarum/Progo no cuenta con servicio de tren ni metro. Un viaje corto desde la Estación de Bandung o desde zonas cercanas como Dago suele tomar entre 10 y 15 minutos.
-  - q: ¿Cuánto cuesta comer ahí?
-    a: Es un lugar de rango medio para los estándares de Bandung (nivel de precio 2 en Google), así que hay que esperar una cuenta de restaurante casual, no precios de comida callejera. Conviene planear varios platos, o compartir una crepe con un jugo si se busca algo más ligero.
-  - q: ¿Cuál es el mejor momento para ir y evitar multitudes?
-    a: Las mañanas de días de semana antes de las 11 am, o las medias tardes entre las 2 y las 4 pm, son los momentos más tranquilos. El almuerzo y el brunch de fin de semana (entre 12 y 2 pm) suelen concentrar la mayor cantidad de gente, dado lo popular que es el lugar.
-  - q: ¿Cuánto tiempo debería planear quedarme?
-    a: 'Conviene calcular entre 45 minutos y poco más de una hora: el patio ajardinado y la amplia carta están pensados para una comida relajada, sentado con calma, más que para una parada rápida.'
-  - q: ¿Qué debería pedir?
-    a: Prueba un clásico indonesio, como el nasi goreng o el rendang, junto con una crepe y un jugo natural, para tener en una sola visita una idea completa de lo que ofrece la carta.
+  - q: ¿Cómo se llega a Hummingbird Eatery & Space sin coche?
+    a: Lo más sencillo es pedir un vehículo por Grab o Gojek, las principales aplicaciones de transporte de Indonesia, porque ni el tren ni el metro llegan a la zona de Citarum y Progo. Desde la estación de Bandung o desde barrios cercanos como Dago, el trayecto suele durar entre 10 y 15 minutos.
+  - q: ¿Cuánto cuesta una comida?
+    a: Para Bandung, sus precios son moderados (nivel 2 en Google). La cuenta se parece más a la de un restaurante informal con servicio de mesa que a la de un puesto callejero. Para comer bien, calcule varios platos; si busca algo ligero, basta con compartir una crepe y un jugo.
+  - q: ¿Cuál es el mejor momento para evitar las aglomeraciones?
+    a: Hay más tranquilidad entre semana por la mañana, antes de las 11 am, o a media tarde, hacia las 2–4 pm. Dada su popularidad, la mayor afluencia se concentra en las comidas y los desayunos tardíos del fin de semana (12–2 pm).
+  - q: ¿Cuánto tiempo conviene reservar para la visita?
+    a: Cuente con 45 minutos como mínimo y, a menudo, con más de una hora. Tanto la terraza ajardinada como la variedad de la carta invitan a sentarse a comer sin prisas, no a tomar un bocado rápido.
+  - q: ¿Qué conviene pedir?
+    a: Para hacerse una idea de toda la carta en una sola visita, combine un clásico indonesio, como el nasi goreng o el rendang, con una crepe y un jugo natural.
 ---
 
 ## Por qué ir
 
-Jl. Progo es una de las pocas "calles patrimoniales" arboladas de Bandung, ubicada en Citarum, un barrio residencial a pocos minutos del centro conocido por sus casas de la época colonial convertidas en cafés y boutiques. Hummingbird Eatery & Space encaja perfectamente en ese perfil: un bungaló restaurado con patio ajardinado y asientos interiores, con una carta pensada para agradar a todo tipo de comensal, donde el nasi goreng y el rendang conviven con pasta, hamburguesas, crepes y jugos prensados en frío.
+En Citarum, una zona residencial a pocos minutos del centro, se encuentra un pequeño grupo de «calles históricas» de Bandung, flanqueadas por árboles y conocidas por sus casas de la época colonial reconvertidas en cafés y tiendas. Jl. Progo es una de ellas, y Hummingbird Eatery & Space responde fielmente a ese modelo. Ocupa un bungaló restaurado que cuenta con terraza ajardinada y comedor interior.
 
-Actualmente es uno de los restaurantes con más reseñas de la ciudad (casi 13,000 reseñas y un promedio de 4.7), lo cual revela dos cosas: que la comida y el ambiente son consistentemente buenos, y que hay que esperar compañía, sobre todo los fines de semana.
+Su carta está pensada para contentar a un público variado: el nasi goreng y el rendang comparten espacio con pastas, hamburguesas, crepes y jugos prensados en frío.
+
+Hoy figura entre los restaurantes con más reseñas de la ciudad, con casi 13,000 opiniones y una media de 4.7. De ello se deducen dos cosas: la cocina y el entorno no suelen decepcionar, y difícilmente estará solo, sobre todo en fin de semana.
 
 ## Cómo llegar
 
-La dirección es Jl. Progo No.16, Citarum, Kecamatan Bandung Wetan, Kota Bandung, Jawa Barat 40116. Se encuentra en el enclave de Citarum/Progo, al norte del centro de la ciudad, una zona que conviene recorrer en auto, taxi o app de transporte (Gojek o Grab) más que en transporte público, ya que Bandung no cuenta con metro ni una red ferroviaria extensa dentro de la ciudad. Desde la Estación de Bandung (Stasiun Bandung), el trayecto en auto toma entre 10 y 15 minutos, según el tráfico.
+La dirección es Jl. Progo No.16, Citarum, Kecamatan Bandung Wetan, Kota Bandung, Jawa Barat 40116. El local se halla en el enclave de Citarum y Progo, al norte del centro. Como Bandung carece de metro y de una red ferroviaria urbana amplia, es preferible moverse por esta zona en coche, en taxi o con una aplicación de transporte como Gojek o Grab. Desde la estación de Bandung (Stasiun Bandung), el trayecto en coche dura unos 10–15 minutos, según el tráfico.
 
-Si vienes desde las zonas comerciales de Dago o Riau, el trayecto es corto, de apenas 5 a 10 minutos. El estacionamiento en la calle sobre Jl. Progo es limitado, por lo que muchos visitantes prefieren llegar en app de transporte antes que conducir ellos mismos.
+Quien venga de las zonas comerciales de Dago o Riau tardará apenas 5–10 minutos. Como en Jl. Progo escasea el aparcamiento en la calle, muchos visitantes prefieren llegar con una aplicación de transporte antes que conducir.
 
 ## Qué comer
 
-La carta tiende un puente deliberado entre dos mundos. Entre los clásicos indonesios destacan el nasi goreng, el rendang y el soto, platos que sostienen la reputación de "comfort food" del lugar. Del lado occidental, hay pasta, sándwiches y hamburguesas pensados para el público de brunch y almuerzo. Las crepes, tanto dulces como saladas, son un plato insignia que vale la pena pedir junto con uno de los jugos de fruta natural o alguna bebida de café; esta combinación de bebidas estilo cafetería con una carta de restaurante completa es justamente lo que convierte a este lugar en un destino popular de todo el día, y no solo en una parada para el desayuno.
+La carta tiende puentes entre dos mundos de forma intencionada. Entre los clásicos indonesios destacan el nasi goreng, el rendang y la soto, platos en los que se apoya su fama de cocina reconfortante. En la vertiente occidental hay pastas, bocadillos y hamburguesas, dirigidos a quienes acuden a desayunar tarde o a comer. Las crepes, tanto dulces como saladas, son una de las especialidades de la casa, y merece la pena acompañarlas con alguno de los jugos de fruta natural o de las bebidas a base de café exprés.
 
-Las porciones y los precios se ubican cómodamente en el rango medio: hay que esperar una cuenta de restaurante casual, más alta que la de la comida callejera, pero lejos de la alta cocina.
+Gracias a esta unión de bebidas de cafetería y carta completa de restaurante, el local atrae público durante todo el día y no se limita a ser una parada para desayunar.
+
+Tanto las raciones como los precios se sitúan en una franja moderada. La cuenta será la de un restaurante informal, más alta que en un puesto callejero, aunque muy lejos de la alta cocina.
 
 ## Ambiente y entorno
 
-Más allá de la comida, el gran atractivo es el espacio en sí: una casa reconvertida con un patio ajardinado a la sombra de los árboles, que le da un aire relajado, casi residencial, muy distinto al de un comedor formal. El interior ofrece aire acondicionado y un ambiente más tranquilo para quienes buscan escapar del calor del mediodía en Bandung, mientras que el patio resulta la opción más agradable durante las horas más frescas de la mañana o el atardecer.
+Además de la comida, el gran atractivo es el propio espacio. Se trata de una casa reconvertida, cuya terraza ajardinada queda a la sombra de los árboles, lo que le confiere un aire relajado, casi doméstico, alejado de un comedor formal. El interior dispone de aire acondicionado y resulta más tranquilo, ideal para resguardarse del calor de Bandung al mediodía. La terraza, en cambio, tiene más encanto a primera hora de la mañana o al caer la tarde, cuando refresca.
 
-El ambiente general se inclina hacia un híbrido relajado entre café y restaurante, lleno de plantas, un estilo muy común en esta parte de Bandung, donde las casas antiguas se reconvierten en espacios gastronómicos con asientos en jardín.
+En conjunto, el ambiente es el de un híbrido distendido entre café y restaurante, lleno de plantas. Es un estilo habitual en esta parte de Bandung, donde muchas casas antiguas se han transformado en locales de restauración con mesas en el jardín.
 
 ## Cuándo ir
 
-La temporada seca de Bandung (aproximadamente de abril a octubre) hace que sentarse en el patio resulte más cómodo y confiable; la temporada de lluvias (de noviembre a marzo), en cambio, trae aguaceros por la tarde que pueden obligar a todos a refugiarse adentro o retrasar los planes. Dentro del día, las mañanas (antes de las 11 am aproximadamente) y las medias tardes (entre las 2 y las 4 pm, más o menos) suelen ser más tranquilas que la hora habitual del almuerzo (entre 12 y 1:30 pm) o que el brunch de fin de semana.
+Durante la estación seca de Bandung, aproximadamente de abril a octubre, sentarse en la terraza resulta más agradable y seguro. En la estación de lluvias (noviembre–marzo), los aguaceros de la tarde pueden obligar a todo el mundo a refugiarse dentro o trastocar los planes. A lo largo del día, las mañanas (hasta las 11 am, más o menos) y la media tarde (aproximadamente 2–4 pm) suelen ser más tranquilas que la hora punta del almuerzo (hacia las 12–1:30 pm) o los desayunos tardíos del fin de semana.
 
-Estos patrones pueden variar, así que conviene tomarlos como una guía aproximada y no como una garantía, sobre todo porque la popularidad que reflejan sus reseñas se vuelve muy evidente en los tiempos de espera.
+Es entonces cuando la popularidad que reflejan sus reseñas se traduce claramente en largas esperas. Con todo, estas pautas varían, así que conviene tomar estas franjas como una orientación y no como una garantía.
 
-## Cómo visitarlo como un local
+## Cómo visitarlo como un lugareño
 
-Dado el volumen de reseñas y su estatus de lugar "muy popular", este no es precisamente un hallazgo secreto: es un restaurante consolidado y concurrido, así que la estrategia inteligente pasa por elegir bien el horario, no por buscar la discreción. Lo ideal es ir un día de semana, o llegar justo a la hora de apertura si es fin de semana, para acortar la espera por una mesa, sobre todo si se busca el patio.
+Con semejante volumen de reseñas y su fama de local «muy popular», no es precisamente un secreto bien guardado. Es un restaurante consolidado y concurrido, de modo que la clave está en elegir bien el momento, no en buscar rincones ocultos. Para esperar menos por una mesa, sobre todo en la terraza, lo ideal es ir un día laborable o llegar justo a la hora de apertura si es fin de semana.
 
-El pago suele hacerse en efectivo o con tarjeta, y la mayoría de los restaurantes de esta categoría en Bandung ya aceptan también el pago móvil QRIS, así que conviene tener lista una app de pago o billetera electrónica, con efectivo como respaldo.
+Normalmente se paga en efectivo o con tarjeta. Además, la mayoría de los restaurantes de esta categoría en Bandung ya admiten el pago móvil QRIS, así que conviene tener configurada una aplicación de pago o una billetera electrónica, con algo de efectivo de reserva, para que todo vaya más fluido.
 
-Dejar propina no es obligatorio en Indonesia como sí lo es en Estados Unidos: redondear la cuenta o dejar el cambio se agradece, pero no se espera, y es posible que ya se incluya un cargo por servicio en la cuenta. El error más común entre los visitantes es tratarlo como una parada rápida: con una carta tan amplia y un entorno pensado para quedarse un rato, este lugar premia una comida pausada, sentado con calma, más que una visita apurada.
+En Indonesia, la propina no es obligatoria como en Estados Unidos. Se agradece redondear la cuenta o dejar algo de cambio, pero nadie lo espera, y es posible que la factura ya incluya un cargo por servicio. El error más frecuente entre los visitantes es tomarlo como una parada rápida. Con una carta tan amplia y un entorno pensado para quedarse, se disfruta mucho más comiendo sin prisas.
 
-Si buscas específicamente sentarte en el patio, pregunta al llegar en lugar de asumir que el interior es la única opción; el personal acomodará la preferencia siempre que haya mesas disponibles.
+Si prefiere la terraza, pídala al llegar a la mesa en lugar de dar por hecho que solo hay sitio dentro. Si quedan mesas libres, el personal atenderá su preferencia.

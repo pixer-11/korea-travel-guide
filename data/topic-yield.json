@@ -86,8 +86,8 @@
    "hits": 0
   },
   "top attraction": {
-   "attempts": 177,
-   "hits": 129
+   "attempts": 178,
+   "hits": 130
   },
   "grill": {
    "attempts": 59,
@@ -1220,7 +1220,139 @@
   "Christmas market": {
    "attempts": 1,
    "hits": 1
+  },
+  "Temple of Edfu": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Temple of Kom Ombo": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Dendera Temple Complex": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Wadi el Gemal National Park": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Egyptian Museum": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Abu Simbel Temples": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Citadel of Qaitbay": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Pompey's Pillar": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Giftun Islands": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Karnak Temple": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Philae Temple": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Bibliotheca Alexandrina": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Great Pyramid of Giza": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Medinet Habu": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Elephantine Island": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Catacombs of Kom El Shoqafa": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Bent Pyramid": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Mosque of Ibn Tulun": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Luxor Temple": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Unfinished Obelisk": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Great Sphinx of Giza": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "National Museum of Egyptian Civilization": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Ramesseum": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Nubian Museum": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Red Pyramid": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Coptic Museum": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Valley of the Kings": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Aswan High Dam": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Montaza Palace Gardens": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Grand Egyptian Museum": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Khan el-Khalili": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Temple of Hatshepsut": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Memphis Open Air Museum": {
+   "attempts": 1,
+   "hits": 1
   }
  },
- "updated": "2026-11-09T07:45:45.714Z"
+ "updated": "2026-11-09T18:16:14.179Z"
 }

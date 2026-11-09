@@ -15925,5 +15925,86 @@
       "getting": "大多数游客会直接飞抵沙姆沙伊赫国际机场（SSH），该机场同时运营国际和国内航线；从机场乘坐出租车或酒店班车，大约15到25分钟即可到达纳玛湾等主要度假区，具体时间视目的地而定。沙姆沙伊赫没有铁路连接，因此前往西奈半岛或红海沿岸其他城镇，通常需要经由公路，乘坐巴士或私人接驳车从这一区域枢纽出发。",
       "days": "建议安排约3到5天时间，惬意享受度假村生活、潜水或浮潜探索珊瑚礁，并安排一次内陆一日游；不过许多游客会将行程延长至一整周的海滩度假。"
     }
+  },
+  "Alexandria": {
+    "en": {
+      "blurb": "Alexandria unfurls along Egypt's Mediterranean coast as a city of layered memory, where the ghost of its ancient library and lighthouse lingers beneath a distinctly Greco-Roman, Ottoman and Arab streetscape. It feels less like the rest of Egypt and more like a faded European port, all crumbling balconies, tram lines and sea spray along the Corniche.",
+      "getting": "Most travellers arrive overland from Cairo: Egyptian Railways runs frequent trains between Cairo's Ramses station and Alexandria's Masr or Sidi Gaber stations, taking roughly 2.5 to 4 hours, while intercity buses cover the same route in a similar timeframe. Alexandria's own airport, Borg El Arab (HBE), sits around 40 to 50km southwest of the city with no train or metro link, so onward travel is by taxi, private transfer or airport bus to a regional hub.",
+      "days": "Two to three days is enough to cover the Qaitbay Citadel, the Bibliotheca Alexandrina, the Catacombs and a slow seafront stroll, with an extra day if you want to add the Greco-Roman Museum or a day trip along the coast."
+    },
+    "ko": {
+      "blurb": "알렉산드리아는 이집트 지중해 연안을 따라 펼쳐진, 겹겹이 쌓인 기억의 도시다. 고대 도서관과 등대의 흔적이 그리스-로마, 오스만, 아랍 양식이 뒤섞인 거리 풍경 아래 희미하게 남아 있다. 이곳은 이집트의 다른 지역과는 사뭇 다른 느낌을 주는데, 오히려 빛바랜 유럽의 항구 도시에 가깝다. 코르니쉬를 따라 허물어져가는 발코니들과 트램 선로, 그리고 바닷바람이 흩뿌리는 물보라가 어우러진 풍경이 펼쳐진다.",
+      "getting": "대부분의 여행자는 카이로에서 육로로 이동한다. 이집트 철도청(Egyptian Railways)이 카이로의 람세스역과 알렉산드리아의 마스르역 또는 시디 가베르역 사이를 자주 운행하며, 소요 시간은 약 2시간 30분에서 4시간 정도다. 시외버스도 비슷한 시간에 같은 구간을 운행한다. 알렉산드리아 자체 공항인 보르그 엘 아랍(HBE)은 시내에서 남서쪽으로 약 40~50km 떨어져 있으며 기차나 지하철 연결편이 없어, 택시나 사설 셔틀, 공항버스를 이용해 인근 거점 도시로 이동해야 한다.",
+      "days": "카이트베이 성채, 비블리오테카 알렉산드리나(알렉산드리아 도서관), 카타콤, 그리고 느긋한 해안 산책까지 둘러보는 데는 2~3일이면 충분하다. 그레코-로만 박물관을 추가로 방문하거나 해안을 따라 당일치기 여행을 하고 싶다면 하루 더 머무는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "アレクサンドリアは、エジプトの地中海沿岸に幾重もの記憶を重ねて広がる街だ。古代図書館やファロス灯台の面影は、今もギリシャ・ローマ、オスマン、アラブの様式が入り混じった街並みの奥に静かに息づいている。エジプトの他の都市とはどこか違い、むしろ色褪せたヨーロッパの港町を思わせる雰囲気がある。崩れかけたバルコニー、路面電車、そしてコルニッシュ沿いに吹きつける潮風――そのすべてがこの街らしさを物語っている。",
+      "getting": "多くの旅行者はカイロから陸路でアレクサンドリアを訪れる。エジプト国鉄はカイロのラムセス駅とアレクサンドリアのマスル駅またはシディ・ガベル駅を結ぶ列車を頻発させており、所要時間はおよそ2時間半から4時間。都市間バスもほぼ同じ所要時間で同じルートをカバーしている。アレクサンドリア独自の空港であるボルグ・エル・アラブ空港(HBE)は市街地から南西へ約40〜50km離れた場所にあり、鉄道やメトロの接続はないため、市内や周辺の拠点へはタクシー、プライベート送迎、または空港バスを利用して移動することになる。",
+      "days": "カイトベイ要塞、アレクサンドリア図書館、カタコンベ巡り、そして海沿いをのんびり散策するだけなら2〜3日あれば十分だ。さらにグレコ・ローマン博物館を訪れたり、沿岸への日帰り旅行を加えたい場合は、もう1日プラスするとよい。"
+    },
+    "es": {
+      "blurb": "Alejandría se despliega a lo largo de la costa mediterránea de Egipto como una ciudad de memoria estratificada, donde el fantasma de su antigua biblioteca y su faro aún se percibe bajo un paisaje urbano marcadamente grecorromano, otomano y árabe. Se siente menos como el resto de Egipto y más como un puerto europeo venido a menos, con balcones desgastados, líneas de tranvía y el rocío del mar a lo largo de la Corniche.",
+      "getting": "La mayoría de los viajeros llegan por tierra desde El Cairo: Egyptian Railways opera trenes frecuentes entre la estación de Ramsés, en El Cairo, y las estaciones de Masr o Sidi Gaber, en Alejandría, con una duración de entre 2.5 y 4 horas, mientras que los autobuses interurbanos cubren la misma ruta en un tiempo similar. El propio aeropuerto de Alejandría, Borg El Arab (HBE), se encuentra a unos 40-50 km al suroeste de la ciudad y no cuenta con conexión de tren ni metro, por lo que para continuar el viaje hay que tomar un taxi, un traslado privado o un autobús de aeropuerto hacia algún centro regional.",
+      "days": "Con dos o tres días es suficiente para recorrer la Ciudadela de Qaitbay, la Biblioteca Alejandrina, las Catacumbas y dar un paseo tranquilo por el malecón; conviene sumar un día más si se quiere visitar el Museo Grecorromano o hacer una excursión de un día por la costa."
+    },
+    "zh": {
+      "blurb": "亚历山大沿着埃及的地中海海岸铺展开来，是一座承载着层层记忆的城市。古代图书馆与灯塔的幽魂，依然萦绕在这片带着鲜明希腊罗马、奥斯曼与阿拉伯风情的街景之下。比起埃及其他地方，这里更像一座褪色的欧洲港口城市——斑驳剥落的阳台、有轨电车轨道，还有科尼什海滨大道上扑面而来的海浪气息。",
+      "getting": "大多数旅行者选择从开罗陆路前往：埃及铁路公司在开罗拉美西斯站与亚历山大的马斯尔站或西迪加比尔站之间开行频繁的列车，车程约2.5到4小时；城际巴士走同样的路线，耗时也差不多。亚历山大自己的机场——布尔格阿拉伯机场（HBE）位于市区西南约40到50公里处，没有火车或地铁连接，因此抵达后需乘出租车、预订专车或搭乘机场巴士转往周边枢纽。",
+      "days": "两到三天足以游览凯特贝citadel堡垒、亚历山大图书馆、地下墓穴，再悠闲地沿海漫步一番；如果还想参观希腊罗马博物馆或安排一次沿海岸线的一日游，不妨多留一天。"
+    }
+  },
+  "Aswan": {
+    "en": {
+      "blurb": "Aswan sits where the Nile narrows between granite hills and desert, its pace set by felucca sails rather than traffic. As Egypt's southernmost major city, it blends Nubian culture, ancient temples and the dramatic backdrop of the High Dam into a gateway for the deep south.",
+      "getting": "Most travellers fly into Aswan International Airport (ASW), roughly 16km southwest of the city, or take the overnight sleeper train that runs the length of the Nile Valley from Cairo via Luxor, terminating at Aswan's central railway station. Buses from the regional hub also connect Aswan to Luxor and other Upper Egypt towns for those travelling overland.",
+      "days": "Allow ~2 to 3 days to cover the High Dam, Philae Temple and Nubian Village, with an extra day if adding a side trip to Abu Simbel."
+    },
+    "ko": {
+      "blurb": "아스완은 화강암 언덕과 사막 사이로 나일강이 좁아지는 지점에 자리하고 있으며, 이곳의 속도를 정하는 건 차량이 아니라 펠루카(felucca) 돛단배다. 이집트 최남단의 주요 도시인 아스완은 누비아 문화와 고대 신전, 그리고 웅장한 하이 댐을 배경으로 삼아 남부 심장부로 향하는 관문 역할을 한다.",
+      "getting": "대부분의 여행자는 시내에서 남서쪽으로 약 16km 떨어진 아스완 국제공항(ASW)을 이용하거나, 카이로에서 출발해 룩소르를 거쳐 나일강 계곡을 따라 내려오는 야간 침대 열차를 타고 아스완 중앙역에 도착한다. 육로로 이동하는 여행자라면 지역 버스 터미널에서 출발하는 버스로 룩소르를 비롯한 이집트 남부 주요 도시들과 아스완을 오갈 수 있다.",
+      "days": "하이 댐, 필레 신전, 누비아 마을을 둘러보려면 약 2~3일이 필요하며, 아부심벨까지 당일치기로 다녀올 계획이라면 하루를 더 잡아야 한다."
+    },
+    "ja": {
+      "blurb": "アスワンは、花崗岩の丘と砂漠に挟まれてナイル川が狭まる場所に位置し、車の喧騒ではなくフェルーカの帆が街のリズムを刻む。エジプト最南端の主要都市として、ヌビア文化、古代神殿群、そしてハイダムが織りなす壮大な景観が融合し、南へと続く深部への玄関口となっている。",
+      "getting": "多くの旅行者は、市街地から南西へ約16kmに位置するアスワン国際空港（ASW）を利用するか、カイロからルクソール経由でナイル渓谷を縦断する夜行寝台列車に乗り、アスワン中央駅を終点として到着する。陸路で移動する場合は、地域の交通拠点からのバスがルクソールをはじめ上エジプトの他の町ともアスワンを結んでいる。",
+      "days": "ハイダム、フィラエ神殿、ヌビア村を巡るには2～3日ほど見ておきたい。アブシンベルへの小旅行を加える場合は、もう1日プラスするとよいだろう。"
+    },
+    "es": {
+      "blurb": "Asuán se extiende en el punto donde el Nilo se estrecha entre colinas de granito y desierto, con un ritmo marcado por las velas de las feluccas más que por el tráfico. Como la ciudad importante más meridional de Egipto, combina la cultura nubia, templos milenarios y el imponente telón de fondo de la Presa Alta para convertirse en la puerta de entrada al profundo sur.",
+      "getting": "La mayoría de los viajeros llega en avión al Aeropuerto Internacional de Asuán (ASW), ubicado a unos 16 km al suroeste de la ciudad, o bien toma el tren nocturno que recorre todo el valle del Nilo desde El Cairo pasando por Luxor, con parada final en la estación central de trenes de Asuán. También hay autobuses desde la terminal regional que conectan Asuán con Luxor y otras ciudades del Alto Egipto para quienes prefieren viajar por tierra.",
+      "days": "Conviene reservar entre 2 y 3 días para recorrer la Presa Alta, el Templo de Filae y el Pueblo Nubio, y sumar un día más si se incluye una excursión a Abu Simbel."
+    },
+    "zh": {
+      "blurb": "阿斯旺坐落于尼罗河被花岗岩山丘和沙漠挤出一道狭窄水道的地方,这里的节奏由费鲁卡帆船而非车水马龙决定。作为埃及最南端的主要城市,它将努比亚文化、古老神庙与高坝的壮丽背景融为一体,成为探索埃及深南地区的门户。",
+      "getting": "大多数游客选择飞抵阿斯旺国际机场(ASW),该机场位于市区西南约16公里处;也有人选择乘坐夜间卧铺火车,这趟列车贯穿整个尼罗河谷,从开罗经卢克索一路南下,终点正是阿斯旺中央火车站。对于喜欢陆路旅行的人来说,区域枢纽的长途汽车也能将阿斯旺与卢克索及上埃及其他城镇连接起来。",
+      "days": "建议预留约2到3天时间游览高坝、菲莱神庙和努比亚村落,如果还想顺道前往阿布辛贝,则需再多加一天。"
+    }
+  },
+  "Luxor": {
+    "en": {
+      "blurb": "Luxor is often called the world's greatest open-air museum, its east bank crowded with the temples of Karnak and Luxor while the west bank holds the Valley of the Kings and the tombs of the pharaohs. Built on the site of ancient Thebes, the city sits on the Nile in Upper Egypt, where millennia of monuments stand alongside daily riverside life.",
+      "getting": "Most travellers fly into Luxor International Airport (LXR), with flights from Cairo taking roughly 1 hour; the alternative is the overnight sleeper train from Cairo's Bashtil station, which takes around 10 to 11 hours and arrives at Luxor's central railway station. Buses and private cars also run the route from Cairo, though these typically take ~10 to 12 hours.",
+      "days": "Allow ~2 to 3 days to cover both the east bank temples and the west bank necropolis at a comfortable pace, with an extra day if continuing on to Aswan."
+    },
+    "ko": {
+      "blurb": "룩소르는 흔히 '세계 최대의 야외 박물관'이라 불린다. 나일강 동안에는 카르나크 신전과 룩소르 신전이 즐비하고, 서안에는 왕가의 계곡과 파라오들의 무덤이 자리하고 있다. 고대 테베의 터 위에 세워진 이 도시는 상이집트의 나일강 변에 위치해 있으며, 수천 년의 세월을 간직한 유적들이 강변의 일상적인 삶과 나란히 공존하고 있다.",
+      "getting": "대부분의 여행자는 룩소르 국제공항(LXR)으로 비행기를 타고 들어오며, 카이로에서 출발하면 비행 시간이 약 1시간 정도다. 다른 방법으로는 카이로의 바쉬틸역에서 출발하는 야간 침대 열차를 이용할 수 있는데, 약 10~11시간이 걸려 룩소르 중앙역에 도착한다. 카이로에서 버스나 자가용으로도 이동할 수 있지만, 이 경우 보통 10~12시간 정도 소요된다.",
+      "days": "동안의 신전들과 서안의 네크로폴리스를 여유롭게 둘러보려면 약 2~3일 정도를 잡는 것이 좋으며, 아스완으로 이동할 계획이라면 하루를 더 추가하는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "ルクソールは「世界最大の野外博物館」とも称される街で、東岸にはカルナック神殿やルクソール神殿がそびえ立ち、西岸には王家の谷をはじめとするファラオたちの墓が広がっています。古代都市テーベの跡地に築かれたこの街はナイル川沿い、上エジプトに位置し、何千年もの時を経た数々の遺跡と、川辺に根づく日々の暮らしとが隣り合わせに息づいています。",
+      "getting": "多くの旅行者はルクソール国際空港(LXR)を利用して空路で訪れます。カイロからのフライトは所要約1時間です。別の選択肢として、カイロのバシュティール駅から出る夜行寝台列車もあり、こちらは所要約10~11時間でルクソール中央駅に到着します。バスや自家用車でもカイロからのルートを移動できますが、通常は約10~12時間かかります。",
+      "days": "東岸の神殿群と西岸の墓地遺跡の両方をゆったり巡るなら、2~3日ほど見ておくとよいでしょう。アスワンまで足を延ばす場合は、さらに1日プラスするのがおすすめです。"
+    },
+    "es": {
+      "blurb": "A Luxor se la conoce a menudo como el museo al aire libre más grande del mundo: su orilla este está repleta de los templos de Karnak y Luxor, mientras que en la orilla oeste se encuentran el Valle de los Reyes y las tumbas de los faraones. Construida sobre el emplazamiento de la antigua Tebas, la ciudad se alza a orillas del Nilo, en el Alto Egipto, donde milenios de monumentos conviven con la vida cotidiana a la vera del río.",
+      "getting": "La mayoría de los viajeros llega en avión al Aeropuerto Internacional de Luxor (LXR), con vuelos desde El Cairo de aproximadamente 1 hora; otra opción es el tren nocturno con coches cama que sale de la estación cairota de Bashtil, cuyo trayecto dura entre 10 y 11 horas y finaliza en la estación central de ferrocarril de Luxor. También hay autobuses y coches privados que cubren esta ruta desde El Cairo, aunque suelen tardar entre 10 y 12 horas.",
+      "days": "Conviene reservar entre 2 y 3 días para recorrer con calma tanto los templos de la orilla este como la necrópolis de la orilla oeste, y sumar un día más si se continúa el viaje hacia Asuán."
+    },
+    "zh": {
+      "blurb": "卢克索常被誉为\"世界上最大的露天博物馆\"，东岸汇聚着卡尔纳克神庙和卢克索神庙，西岸则坐落着帝王谷和历代法老的陵墓。这座城市建于古城底比斯的遗址之上，坐落在上埃及的尼罗河畔，千年古迹与尼罗河畔的日常生活在此交相辉映。",
+      "getting": "大多数游客选择搭乘飞机抵达卢克索国际机场（LXR），从开罗出发的航班大约需要1小时；另一种选择是从开罗巴什提勒车站（Bashtil）乘坐夜间卧铺火车，车程约10到11小时，终点为卢克索中央火车站。此外，开罗至卢克索也有长途巴士和私家车可供选择，但车程通常在10到12小时左右。",
+      "days": "建议安排约2到3天时间，从容游览东岸的神庙群和西岸的墓葬群；若之后还计划前往阿斯旺，可再多预留一天。"
+    }
   }
 }
