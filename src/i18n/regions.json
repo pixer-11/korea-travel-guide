@@ -15439,5 +15439,275 @@
       "getting": "大多数游客会经由东京前往前桥：从羽田机场（HND）或成田机场（NRT）出发，先乘电车或新干线抵达东京站，再转乘JR线经高崎前往前桥站，全程依换乘情况约需2至2.5小时。由于两座机场均没有直达前桥的铁路线路，所有路线都需先经过东京市区，再到群马县最大城市高崎，最后换乘JR两毛线，才能抵达前桥。",
       "days": "建议安排1至2天的行程，这样的时间足够游览前桥的公园、博物馆以及沿河步道，若有半天空余，还可以轻松安排一趟前往附近温泉小镇或赤城山的短途之旅。"
     }
+  },
+  "Arezzo": {
+    "en": {
+      "blurb": "Arezzo is a hilltop Tuscan city whose compact, sloping old town holds Piero della Francesca's frescoes, a lively antiques trade and a medieval piazza without the tour-group crowds of Florence or Siena. Its layered Etruscan, Roman and Renaissance past is written into the streets themselves, making it feel like a working city that happens to be beautiful rather than a museum piece.",
+      "getting": "Arezzo has no airport of its own: most travellers fly into Florence (FLR) and continue by train on the Florence–Rome main line, since Arezzo railway station serves the city of Arezzo in Tuscany, Italy, with lines including the Firenze–Roma line. Direct trains run regularly from both Florence and Rome, with the journey from Florence taking as little as ~35 minutes on faster services, while travellers arriving via Rome's Fiumicino (FCO) airport typically transfer through Roma Termini for a direct train onward.",
+      "days": "Most visitors find ~1 to 2 days enough to cover Arezzo's historic centre, main churches and Saturday antiques market, with extra time rewarding day trips into the surrounding Casentino and Valdichiana countryside."
+    },
+    "ko": {
+      "blurb": "아레초는 토스카나의 언덕 위에 자리한 도시로, 경사진 구시가지 안에 피에로 델라 프란체스카의 프레스코화와 활기찬 골동품 거래, 그리고 피렌체나 시에나처럼 단체 관광객으로 붐비지 않는 중세 광장을 품고 있다. 에트루리아, 로마, 르네상스 시대가 겹겹이 쌓인 역사는 거리 곳곳에 그대로 새겨져 있어, 이 도시는 박물관처럼 박제된 느낌이 아니라 아름다움을 지닌 채 지금도 살아 움직이는 도시처럼 다가온다.",
+      "getting": "아레초에는 자체 공항이 없어, 대부분의 여행자는 피렌체(FLR)로 입국한 뒤 피렌체-로마 간선 철도를 이용해 이동한다. 아레초 기차역은 이탈리아 토스카나 지방의 아레초 시를 오가는 열차가 정차하는 곳으로, 피렌체-로마 노선을 포함한 여러 노선이 지난다. 피렌체와 로마 양쪽에서 직행 열차가 수시로 운행되며, 고속 열차를 이용하면 피렌체에서 약 35분이면 도착할 수 있다. 로마 피우미치노(FCO) 공항을 통해 입국하는 여행자는 보통 로마 테르미니 역에서 환승하여 아레초행 직행 열차를 타게 된다.",
+      "days": "대부분의 여행자는 아레초의 역사 지구와 주요 성당, 토요일 골동품 시장을 둘러보는 데 1~2일 정도면 충분하다고 느낀다. 시간이 더 있다면 주변 카센티노와 발디키아나 지역으로 당일치기 여행을 다녀오는 것도 좋다."
+    },
+    "ja": {
+      "blurb": "アレッツォは丘の上に広がるトスカーナの街で、坂道の多いこぢんまりとした旧市街には、ピエロ・デッラ・フランチェスカのフレスコ画、活気ある骨董品の取引、そしてフィレンツェやシエナのような団体観光客の喧騒とは無縁の中世の広場が息づいています。エトルリア、ローマ、ルネサンスと幾層にも重なる歴史は、街路そのものに刻み込まれており、博物館のような観光地というより、美しさを併せ持つ生きた街だと感じさせてくれます。",
+      "getting": "アレッツォには独自の空港がありません。多くの旅行者はフィレンツェ空港(FLR)を利用し、そこからフィレンツェ~ローマ間の幹線鉄道で移動します。アレッツォ駅はイタリア・トスカーナ州アレッツォ市の玄関口で、フィレンツェ~ローマ線をはじめとする路線が乗り入れています。フィレンツェ、ローマのいずれからも直通列車が頻発しており、フィレンツェからは速い便なら所要約35分ほど。一方、ローマのフィウミチーノ空港(FCO)から到着する旅行者は、通常ローマ・テルミニ駅で乗り換えて直通列車でアレッツォへ向かいます。",
+      "days": "アレッツォの歴史地区、主要な教会、そして土曜の骨董市を巡るには、1~2日もあれば十分という旅行者がほとんどです。時間に余裕があれば、周辺のカゼンティーノ地方やヴァルディキアーナ地方への日帰り旅行もおすすめで、足を延ばす価値は十分にあります。"
+    },
+    "es": {
+      "blurb": "Arezzo es una ciudad toscana encaramada en una colina, cuyo casco antiguo, compacto y en cuesta, alberga los frescos de Piero della Francesca, un animado comercio de antigüedades y una plaza medieval libre de las multitudes de grupos turísticos que invaden Florencia o Siena. Su pasado etrusco, romano y renacentista se superpone en capas y queda grabado en las propias calles, lo que le da el aire de una ciudad viva que resulta ser hermosa, más que el de una pieza de museo.",
+      "getting": "Arezzo no cuenta con aeropuerto propio: la mayoría de los viajeros llega en avión a Florencia (FLR) y continúa en tren por la línea principal Florencia-Roma, ya que la estación de ferrocarril de Arezzo da servicio a la ciudad, en la Toscana, con líneas que incluyen precisamente la Firenze-Roma. Hay trenes directos frecuentes tanto desde Florencia como desde Roma, y el trayecto desde Florencia puede durar apenas unos 35 minutos en los servicios más rápidos, mientras que quienes llegan por el aeropuerto romano de Fiumicino (FCO) suelen hacer transbordo en Roma Termini para tomar un tren directo hasta Arezzo.",
+      "days": "Para la mayoría de los viajeros, entre 1 y 2 días bastan para recorrer el centro histórico de Arezzo, sus principales iglesias y el mercado de antigüedades de los sábados, aunque si se dispone de más tiempo, merece la pena hacer excursiones de un día por el Casentino y el Valdichiana circundantes."
+    },
+    "zh": {
+      "blurb": "阿雷佐是托斯卡纳地区一座建在山丘上的小城，紧凑而起伏的老城区里藏着皮耶罗·德拉·弗朗西斯卡的壁画、热闹的古董交易，还有一座中世纪广场，却没有佛罗伦萨或锡耶纳那种旅行团云集的喧嚣。伊特鲁里亚、古罗马与文艺复兴时期层层叠叠的历史，就写在这座城市的街巷之中，让它更像一座恰好美丽的寻常城市，而非一件供人观赏的博物馆展品。",
+      "getting": "阿雷佐本身没有机场：大多数旅行者会先飞抵佛罗伦萨机场（FLR），再搭乘佛罗伦萨至罗马主干线火车前往，因为阿雷佐火车站正是坐落在意大利托斯卡纳阿雷佐市、由“佛罗伦萨—罗马线”等线路服务的车站。从佛罗伦萨和罗马出发都有班次频繁的直达列车，乘坐较快的车次从佛罗伦萨出发最快约35分钟即可抵达；而经由罗马菲乌米奇诺机场（FCO）入境的旅客，通常需要先转至罗马特米尼车站，再换乘直达列车前往阿雷佐。",
+      "days": "大多数游客花上1到2天时间，便足以游览阿雷佐的历史中心、主要教堂以及周六的古董市集；如果时间充裕，不妨再多留几天，前往周边的卡森蒂诺和瓦尔迪基亚纳乡间一日游，会是很值得的体验。"
+    }
+  },
+  "Bolzano": {
+    "en": {
+      "blurb": "Bolzano sits at the crossroads of Italian and Austrian culture, where Tyrolean villages, vineyards and the jagged Dolomites meet Italian piazzas and espresso bars. As South Tyrol's capital, it blends German and Italian signage, cuisine and architecture in a way found almost nowhere else in Italy.",
+      "getting": "Most travellers reach Bolzano by train on the Brenner line, which connects it directly to Verona to the south and Innsbruck and Munich to the north. Bolzano has its own small regional airport (BZO) with limited direct flights, so many visitors instead fly into Verona, Innsbruck or Milan and continue by rail, a journey of roughly 1.5 to 3 hours depending on the starting point.",
+      "days": "Plan on ~2 to 3 days to cover Bolzano's old town, museums and markets, with extra time if using the city as a base for day trips into the surrounding Dolomites."
+    },
+    "ko": {
+      "blurb": "볼차노는 이탈리아 문화와 오스트리아 문화가 교차하는 지점에 자리하고 있어, 티롤풍 마을과 포도밭, 험준한 돌로미티 산군이 이탈리아식 광장, 에스프레소 바와 어우러집니다. 남티롤의 주도인 이곳은 독일어와 이탈리아어 표지판, 음식, 건축 양식이 한데 뒤섞여 있는, 이탈리아 어디에서도 보기 힘든 독특한 도시입니다.",
+      "getting": "대부분의 여행자는 브레너 철도 노선을 이용해 기차로 볼차노에 도착합니다. 이 노선은 남쪽으로는 베로나, 북쪽으로는 인스브루크와 뮌헨과 직접 연결됩니다. 볼차노에는 소규모 지역 공항(BZO)이 있지만 직항편이 제한적이어서, 많은 여행객이 베로나, 인스브루크, 밀라노로 입국한 뒤 기차로 이동하는 방법을 택합니다. 출발지에 따라 기차 이동 시간은 대략 1시간 30분에서 3시간 정도입니다.",
+      "days": "볼차노의 구시가지와 박물관, 시장을 둘러보려면 2~3일 정도를 계획하시고, 주변 돌로미티 지역으로 당일치기 여행의 거점으로 삼으실 계획이라면 일정을 좀 더 여유 있게 잡으시는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "ボルツァーノは、イタリア文化とオーストリア文化が交わる場所に位置しています。チロル地方の村々やぶどう畑、ごつごつとしたドロミテ山塊が、イタリアらしい広場やエスプレッソバーのある街並みと溶け合っているのです。南チロルの州都であるこの街では、ドイツ語とイタリア語の標識、料理、建築様式が入り混じっており、イタリア国内でもここでしか味わえない独特の雰囲気を生み出しています。",
+      "getting": "ボルツァーノへは、ブレンナー線の列車を利用するのが一般的です。この路線は南のヴェローナ、北のインスブルックやミュンヘンと直結しています。ボルツァーノには小さな地方空港(BZO)がありますが、直行便は限られているため、多くの旅行者はヴェローナ、インスブルック、ミラノのいずれかの空港を利用し、そこから鉄道で移動します。出発地にもよりますが、所要時間はおよそ1.5~3時間です。",
+      "days": "旧市街や博物館、市場を巡るには2~3日ほど見ておくとよいでしょう。周辺のドロミテ山塊への日帰り旅行の拠点として滞在する場合は、さらに日数を加えることをおすすめします。"
+    },
+    "es": {
+      "blurb": "Bolzano se encuentra en el cruce de caminos entre la cultura italiana y la austríaca, un lugar donde los pueblos tiroleses, los viñedos y las escarpadas Dolomitas se encuentran con las plazas italianas y los bares de espresso. Como capital del Tirol del Sur, combina letreros, gastronomía y arquitectura en alemán e italiano de una forma que casi no existe en ningún otro lugar de Italia.",
+      "getting": "La mayoría de los viajeros llega a Bolzano en tren por la línea del Brennero, que la conecta directamente con Verona hacia el sur y con Innsbruck y Múnich hacia el norte. Bolzano cuenta con su propio aeropuerto regional (BZO), aunque con vuelos directos limitados, por lo que muchos visitantes prefieren volar a Verona, Innsbruck o Milán y continuar el trayecto en tren, un viaje de entre 1,5 y 3 horas según el punto de partida.",
+      "days": "Conviene reservar entre 2 y 3 días para recorrer el casco antiguo de Bolzano, sus museos y mercados, y algo más de tiempo si se usa la ciudad como base para excursiones de un día por las Dolomitas circundantes."
+    },
+    "zh": {
+      "blurb": "博尔扎诺位于意大利文化与奥地利文化的交汇处，这里有蒂罗尔风情的村庄、葡萄园和嶙峋的多洛米蒂群山，也有意式广场和浓缩咖啡馆。作为南蒂罗尔的首府，这座城市将德语和意大利语的标识、美食与建筑融为一体，这种独特的双重风貌在意大利其他地方几乎难觅踪迹。",
+      "getting": "大多数游客乘火车经布伦纳铁路线抵达博尔扎诺，这条铁路线向南直达维罗纳，向北则连接因斯布鲁克和慕尼黑。博尔扎诺本身也有一座小型支线机场（BZO），但直飞航班有限，因此许多游客更倾向于先飞抵维罗纳、因斯布鲁克或米兰，再转乘火车前往，车程根据出发地不同大约需要1.5到3小时。",
+      "days": "建议安排约2到3天时间游览博尔扎诺的老城区、各类博物馆和市集；如果打算以此为据点前往周边的多洛米蒂山区进行一日游，则需要预留更多时间。"
+    }
+  },
+  "Cairo": {
+    "en": {
+      "blurb": "Cairo sprawls along the Nile as Africa's largest city, where ancient monuments sit startlingly close to modern highways and a population of over 15 million. It is the gateway to Egypt, anchoring journeys onward to the Pyramids of Giza, the Red Sea coast and the temples of Upper Egypt.",
+      "getting": "Most travellers arrive via Cairo International Airport (CAI), ~15 to 22km northeast of downtown in Heliopolis; there is no direct metro link to the terminals, so the reliable route into the city is by taxi or airport shuttle bus, with journeys typically taking ~30 to 50 minutes depending on traffic. Travellers arriving by rail usually use Ramses Station, the city's main hub for domestic train services.",
+      "days": "Allow ~3 to 4 days to cover the Giza Pyramids and Sphinx, the Egyptian Museum and the historic heart of Islamic and Coptic Cairo."
+    },
+    "ko": {
+      "blurb": "카이로는 나일강을 따라 펼쳐진 아프리카 최대의 도시로, 1,500만 명이 넘는 인구가 살아가는 이곳에서는 고대 유적과 현대적인 고속도로가 놀라울 만큼 가까이 맞닿아 있다. 이집트 여행의 관문인 카이로는 기자의 피라미드, 홍해 연안, 그리고 상이집트의 신전들로 향하는 여정의 출발점이 된다.",
+      "getting": "대부분의 여행자는 헬리오폴리스에 위치한 카이로 국제공항(CAI)을 통해 입국하며, 시내 중심부에서 북동쪽으로 약 15~22km 떨어져 있다. 공항까지 지하철이 직접 연결되지 않기 때문에, 택시나 공항 셔틀버스를 이용하는 것이 가장 확실한 방법이며 교통 상황에 따라 보통 30~50분 정도 소요된다. 기차로 도착하는 여행자들은 주로 국내선 열차의 중심지인 람세스역을 이용하게 된다.",
+      "days": "기자의 피라미드와 스핑크스, 이집트 박물관, 그리고 이슬람 및 콥트 카이로의 역사 지구를 둘러보려면 대략 3~4일 정도 일정을 잡는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "カイロはナイル川沿いに広がる、アフリカ最大級の都市だ。人口1500万人を超えるこの街では、古代の遺跡と現代の高速道路が驚くほど間近に同居している。エジプト観光の玄関口として、ギザのピラミッド、紅海沿岸、そして上エジプトの神殿群へと旅立つ拠点となっている。",
+      "getting": "多くの旅行者はカイロ国際空港（CAI）を利用して入国する。空港はヘリオポリス地区にあり、ダウンタウンから北東へ約15～22kmの距離だ。ターミナルへの直通地下鉄がないため、市内への確実な移動手段はタクシーか空港シャトルバスとなり、所要時間は交通状況によって約30～50分ほど見ておきたい。鉄道で到着する旅行者は、国内列車の主要ターミナルであるラムセス駅を利用するのが一般的だ。",
+      "days": "ギザのピラミッドとスフィンクス、エジプト考古学博物館、そしてイスラム地区とコプト地区からなる旧市街を巡るには、3～4日ほど見ておくとよい。"
+    },
+    "es": {
+      "blurb": "El Cairo se extiende a lo largo del Nilo como la ciudad más grande de África, donde los monumentos milenarios conviven, sorprendentemente cerca, con las autopistas modernas y una población de más de 15 millones de habitantes. Es la puerta de entrada a Egipto, punto de partida para quienes se dirigen hacia las Pirámides de Guiza, la costa del Mar Rojo y los templos del Alto Egipto.",
+      "getting": "La mayoría de los viajeros llega a través del Aeropuerto Internacional de El Cairo (CAI), ubicado a unos 15-22 km al noreste del centro, en el barrio de Heliópolis. Como no hay conexión directa de metro con las terminales, la forma más fiable de llegar a la ciudad es en taxi o en el autobús lanzadera del aeropuerto, con trayectos que suelen durar entre 30 y 50 minutos según el tráfico. Quienes llegan en tren normalmente lo hacen a través de la Estación Ramsés, el principal nodo ferroviario de la ciudad para los servicios nacionales.",
+      "days": "Conviene reservar entre 3 y 4 días para recorrer las Pirámides de Guiza y la Esfinge, el Museo Egipcio y el corazón histórico del Cairo islámico y copto."
+    },
+    "zh": {
+      "blurb": "开罗沿尼罗河蔓延而建，是非洲最大的城市,人口超过1500万。在这里，古老的历史遗迹与现代化的高速公路近在咫尺，形成鲜明对比。作为埃及的门户城市，开罗是通往吉萨金字塔、红海海岸以及上埃及神庙群的交通枢纽。",
+      "getting": "大多数旅客通过开罗国际机场（CAI）入境，该机场位于市中心东北约15至22公里处的赫利奥波利斯（Heliopolis）。由于机场航站楼没有直达地铁，进城最稳妥的方式是搭乘出租车或机场班车，车程通常约30至50分钟，具体视路况而定。乘火车抵达的旅客一般会在拉美西斯车站（Ramses Station）下车，这是开罗国内列车服务的主要枢纽站。",
+      "days": "建议安排约3至4天时间，游览吉萨金字塔与狮身人面像、埃及博物馆，以及伊斯兰区和科普特区所在的开罗历史核心地带。"
+    }
+  },
+  "Fuzhou": {
+    "en": {
+      "blurb": "Fuzhou is the laid-back capital of Fujian province, a city of hot-spring bathhouses, banyan-shaded streets and a river delta culture that feels closer to Taiwan than to Beijing. Its old quarter of Three Lanes and Seven Alleys sits alongside a fast-modernising skyline, giving the city a layered, unhurried charm rare among China's provincial capitals.",
+      "getting": "Most travellers arrive via Fuzhou Changle International Airport (FOC), which sits roughly 40 kilometres from the city centre and is linked by airport buses and taxis. High speed rail travellers typically use Fuzhou South railway station, on the Fuzhou to Xiamen line, with onward connections into the city by metro Line 5.",
+      "days": "Plan on ~2 to 3 days to cover the old town, riverside parks and a day trip to nearby coastal or mountain scenery."
+    },
+    "ko": {
+      "blurb": "푸저우는 푸젠성의 여유로운 성도로, 온천 목욕탕과 반얀나무 그늘이 드리운 거리, 그리고 베이징보다는 오히려 대만에 가까운 느낌을 주는 강 삼각주 문화가 어우러진 도시다. 산팡치샹(삼방칠항)이라 불리는 옛 거리 구역이 빠르게 현대화되는 스카이라인과 나란히 자리하고 있어, 중국의 다른 성도에서는 좀처럼 느끼기 힘든 느긋하고 켜켜이 쌓인 매력을 지니고 있다.",
+      "getting": "대부분의 여행자는 푸저우 창러 국제공항(FOC)을 통해 도착한다. 시내 중심에서 약 40km 떨어져 있으며, 공항버스와 택시로 연결된다. 고속철도를 이용하는 경우에는 보통 푸샤 노선(푸저우-샤먼선)의 푸저우난(푸저우 남) 역을 이용하며, 이후 지하철 5호선으로 갈아타 시내로 들어갈 수 있다.",
+      "days": "구시가지와 강변 공원을 둘러보고, 근교의 해안이나 산악 경관으로 당일치기 여행을 다녀오려면 2~3일 정도를 잡는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "福州は福建省の省都でありながら、どこかのんびりとした空気が漂う街だ。温泉の湯屋があちこちに点在し、ガジュマルの木陰が涼しい通りを覆い、川が運ぶ風土は北京というより台湾の空気に近い。三坊七巷と呼ばれる古い町並みが、急速に近代化していく高層の街並みと隣り合って広がり、中国の省都にしては珍しいほど、時間の層が重なり合った、急かされない魅力を醸し出している。",
+      "getting": "多くの旅行者は福州長楽国際空港（FOC）を利用して入る。市中心部までは約40キロメートルあり、空港バスやタクシーで移動できる。高速鉄道を使う場合は、福州―厦門線上にある福州南駅を利用するのが一般的で、そこから地下鉄5号線に乗り換えて市内へアクセスする。",
+      "days": "旧市街や川沿いの公園を巡り、さらに近郊の海岸や山の景勝地への日帰り旅行も加えるなら、2～3日ほど見ておくとよいだろう。"
+    },
+    "es": {
+      "blurb": "Fuzhou es la relajada capital de la provincia de Fujian, una ciudad de casas de baños de aguas termales, calles sombreadas por banianos y una cultura de delta fluvial que recuerda más a Taiwán que a Pekín. Su casco antiguo de los Tres Callejones y Siete Vías convive con un horizonte urbano en plena modernización, lo que le da a la ciudad un encanto estratificado y sin prisas, poco común entre las capitales de provincia chinas.",
+      "getting": "La mayoría de los viajeros llega a través del Aeropuerto Internacional de Fuzhou Changle (FOC), situado a unos 40 kilómetros del centro de la ciudad y conectado mediante autobuses del aeropuerto y taxis. Quienes viajan en tren de alta velocidad suelen utilizar la estación de ferrocarril de Fuzhou Sur, en la línea Fuzhou-Xiamen, con conexiones posteriores al centro de la ciudad a través de la Línea 5 del metro.",
+      "days": "Conviene reservar entre 2 y 3 días para recorrer el casco antiguo, los parques junto al río y hacer una excursión de un día a los paisajes costeros o montañosos cercanos."
+    },
+    "zh": {
+      "blurb": "福州是福建省那种气定神闲的省会城市，遍布着温泉浴场、榕树成荫的老街，还有一种比起北京、反倒更接近台湾的江海文化气息。老城区\"三坊七巷\"与日新月异的现代天际线相邻而立，让这座城市多了一层悠然自得、层次丰富的韵味，这在中国的省会城市里并不多见。",
+      "getting": "大多数游客经福州长乐国际机场（FOC）抵达，机场距市中心约40公里，有机场大巴和出租车往返接驳。乘高铁出行的旅客通常在福州南站下车（位于福厦铁路线上），再换乘地铁5号线进城。",
+      "days": "建议安排2到3天时间，用来逛老城、游览滨江公园，再安排一天去附近的海边或山区风光走一走。"
+    }
+  },
+  "Giza": {
+    "en": {
+      "blurb": "Giza is where the Nile Valley's desert edge meets its oldest monuments: the Great Pyramid, its companions, and the Sphinx have stood on this plateau for roughly 4,500 years, just beyond the sprawl of greater Cairo. Today the city blends camel-and-market tourism with the modern Grand Egyptian Museum, making it one of the few places where antiquity and a 21st-century metropolis sit side by side.",
+      "getting": "Most travellers arrive via Cairo International Airport (CAI), with a taxi or private transfer to Giza taking ~45 minutes to 1 hour depending on traffic. Cairo's metro Line 2 reaches Giza-area stations, but it does not run directly to the plateau, so the final stretch to the pyramids is usually completed by taxi or minibus.",
+      "days": "Plan on ~1 to 2 days: one full day comfortably covers the Pyramids, the Sphinx and the Grand Egyptian Museum, while a second allows a slower pace with time for a camel ride and nearby sites like Saqqara."
+    },
+    "ko": {
+      "blurb": "기자는 나일 강 유역의 사막이 가장 오래된 유적과 만나는 곳입니다. 대피라미드와 그 주변의 피라미드들, 그리고 스핑크스는 대(大)카이로의 번잡함에서 조금 벗어난 이 고원 위에 약 4,500년째 서 있습니다. 오늘날 기자는 낙타와 재래시장으로 대표되는 전통적인 관광과 현대적인 그랜드 이집트 박물관이 공존하는 도시로, 고대 문명과 21세기 대도시가 나란히 자리한 몇 안 되는 장소 중 하나입니다.",
+      "getting": "대부분의 여행자는 카이로 국제공항(CAI)을 통해 입국하며, 택시나 프라이빗 транс퍼를 이용하면 기자까지 교통 상황에 따라 약 45분에서 1시간 정도 소요됩니다. 카이로 지하철 2호선이 기자 지역 역까지 운행하지만 피라미드가 있는 고원까지 직접 연결되지는 않아, 마지막 구간은 보통 택시나 미니버스로 이동하게 됩니다.",
+      "days": "일정은 약 1~2일을 계획하는 것이 좋습니다. 하루면 피라미드와 스핑크스, 그랜드 이집트 박물관을 여유 있게 둘러볼 수 있고, 하루를 더하면 좀 더 느긋하게 낙타 타기를 즐기거나 사카라 같은 인근 유적지도 함께 둘러볼 수 있습니다."
+    },
+    "ja": {
+      "blurb": "ギザは、ナイル渓谷の砂漠が最古の遺跡群と出会う場所だ。大ピラミッドとそれに連なるピラミッド群、そしてスフィンクスは、カイロ都市圏のすぐ外側に広がるこの台地に、およそ4,500年もの間立ち続けてきた。現在のギザは、ラクダに乗っての観光や市場めぐりといった昔ながらの旅情と、最新の大エジプト博物館(グランド・エジプシャン・ミュージアム)とが共存する街であり、悠久の古代と21世紀の大都市が肩を並べる、世界でも稀な場所のひとつとなっている。",
+      "getting": "多くの旅行者はカイロ国際空港(CAI)を利用して入国し、そこからタクシーや専用送迎車でギザへ向かう。所要時間は交通状況にもよるが、おおよそ45分から1時間ほどだ。カイロのメトロ2号線はギザ周辺の駅まで通じているものの、ピラミッドのある台地までは直結していないため、最後の区間はタクシーやミニバスを利用するのが一般的となる。",
+      "days": "滞在の目安は1〜2日。1日あれば、ピラミッド、スフィンクス、そして大エジプト博物館を無理なく巡ることができる。もう1日余裕を持たせれば、ラクダ乗りを楽しんだり、近郊のサッカラなどをゆっくり訪れたりすることもできるだろう。"
+    },
+    "es": {
+      "blurb": "Guiza es el punto donde el borde desértico del valle del Nilo se encuentra con sus monumentos más antiguos: la Gran Pirámide, sus compañeras y la Esfinge llevan en pie en esta meseta unos 4.500 años, justo a las puertas de la gran urbe de El Cairo. Hoy en día, la ciudad combina el turismo de camellos y bazares con el moderno Gran Museo Egipcio, lo que la convierte en uno de los pocos lugares donde la antigüedad y una metrópolis del siglo XXI conviven codo con codo.",
+      "getting": "La mayoría de los viajeros llega a través del Aeropuerto Internacional de El Cairo (CAI), desde donde un taxi o un traslado privado hasta Guiza tarda entre 45 minutos y 1 hora, según el tráfico. La Línea 2 del metro de El Cairo llega hasta estaciones en la zona de Guiza, pero no llega directamente a la meseta, así que el último tramo hasta las pirámides suele hacerse en taxi o microbús.",
+      "days": "Calcula entre 1 y 2 días: con una jornada completa es suficiente para ver las Pirámides, la Esfinge y el Gran Museo Egipcio, mientras que un segundo día permite ir con más calma, dar un paseo en camello y visitar lugares cercanos como Saqqara."
+    },
+    "zh": {
+      "blurb": "吉萨是尼罗河谷沙漠边缘与其最古老遗迹交汇之地：大金字塔及周边的几座金字塔,还有狮身人面像,在这片高原上已经矗立了大约4500年,就在大开罗都会区的边缘之外。如今的吉萨,既保留着骑骆驼、逛市集的传统旅游风情,又拥有现代化的大埃及博物馆,是少数能让古老文明与21世纪都市并肩共存的地方。",
+      "getting": "大多数游客经由开罗国际机场(CAI)抵达,乘出租车或私人接送前往吉萨,车程约45分钟到1小时,具体视路况而定。开罗地铁2号线可到达吉萨周边的站点,但并不能直达金字塔所在的高原,所以最后一段路程通常还是要靠出租车或小巴完成。",
+      "days": "建议安排1到2天的行程：用一整天就能从容游览金字塔、狮身人面像和大埃及博物馆;如果有第二天,则可以放慢节奏,体验一次骑骆驼,再顺道去萨卡拉等周边景点看看。"
+    }
+  },
+  "Kalibo": {
+    "en": {
+      "blurb": "Kalibo is the provincial capital of Aklan, a workaday Panay Island town better known to most travellers as the budget door to Boracay than as a destination in its own right. It keeps its own identity too, with mangrove boardwalks, a riverside market and the raucous Ati-Atihan festival that fills its streets with drums and dancers each January.",
+      "getting": "Most visitors arrive by air at Kalibo International Airport (KLO), which handles both domestic and international flights; from there, buses or vans run to Caticlan Jetty Port in ~1.5 to 2 hours, followed by a short boat crossing of ~10 to 15 minutes to reach Boracay. Travellers heading straight into Kalibo town itself can simply take a short tricycle or taxi ride, as the airport sits just a few kilometres from the centre.",
+      "days": "Most people treat Kalibo as a one-night staging post before or after Boracay, though a day here is enough to cover the mangrove eco-park, the public market and a wander through the town centre."
+    },
+    "ko": {
+      "blurb": "칼리보는 아클란 주의 주도로, 대부분의 여행객에게는 그 자체로 목적지라기보다 보라카이로 가는 저렴한 관문으로 더 잘 알려진 파나이 섬의 평범한 서민 도시다. 그럼에도 칼리보는 나름의 정체성을 지키고 있는데, 맹그로브 숲을 가로지르는 나무 데크길과 강변 시장, 그리고 매년 1월이면 북소리와 춤꾼들로 거리를 가득 메우는 떠들썩한 아티아티한 축제가 그 증거다.",
+      "getting": "대부분의 방문객은 국내선과 국제선을 모두 취급하는 칼리보 국제공항(KLO)을 통해 입국한다. 공항에서 버스나 밴을 타면 약 1.5~2시간 만에 카티클란 선착장에 도착하며, 거기서 다시 10~15분 정도 배를 타면 보라카이에 닿는다. 칼리보 시내로 바로 향하는 여행객이라면 트라이시클이나 택시로 짧게 이동하면 되는데, 공항이 시내 중심에서 불과 몇 킬로미터 거리에 있기 때문이다.",
+      "days": "대부분의 사람들은 칼리보를 보라카이 여행 전후에 하룻밤 묵어가는 경유지 정도로 여기지만, 맹그로브 생태공원과 공설 시장, 그리고 시내 중심가를 둘러보기에는 하루면 충분하다."
+    },
+    "ja": {
+      "blurb": "カリボはアクラン州の州都で、パナイ島にある素朴な町だ。多くの旅行者にとっては、観光地そのものというより「ボラカイ島への格安の玄関口」として知られている。とはいえ、カリボには独自の魅力もある。マングローブの木道、川沿いの市場、そして毎年1月に太鼓とダンサーで通りを埋め尽くす賑やかなアティ・アティハン祭りがそれだ。",
+      "getting": "多くの旅行者はカリボ国際空港（KLO）を利用して到着する。この空港は国内線・国際線の両方に対応している。空港からはバスやバンでカティクラン・ジェティ港まで約1.5〜2時間かけて移動し、その後約10〜15分の短い船旅でボラカイ島へと渡る。カリボの町自体を目指す旅行者は、トライシクルやタクシーで短時間移動するだけでよい。空港は町の中心部からわずか数キロの距離にある。",
+      "days": "ほとんどの人は、ボラカイ島への行き帰りに一泊する中継地としてカリボを利用する。とはいえ、丸一日あればマングローブのエコパークや公設市場を回り、町の中心部をぶらりと歩くには十分だ。"
+    },
+    "es": {
+      "blurb": "Kalibo es la capital provincial de Aklán, una localidad de la isla de Panay volcada en el día a día, más conocida entre los viajeros como la puerta económica a Boracay que como un destino en sí misma. Aun así, conserva su propia identidad, con pasarelas entre manglares, un mercado a orillas del río y el bullicioso festival Ati-Atihan, que llena sus calles de tambores y bailarines cada mes de enero.",
+      "getting": "La mayoría de los visitantes llega en avión al Aeropuerto Internacional de Kalibo (KLO), que opera tanto vuelos nacionales como internacionales; desde allí, autobuses o furgonetas se dirigen al muelle de Caticlan Jetty Port en un trayecto de entre 1,5 y 2 horas, seguido de una breve travesía en barco de unos 10 a 15 minutos para llegar a Boracay. Los viajeros que se dirigen directamente al centro de Kalibo pueden simplemente tomar un triciclo o un taxi, ya que el aeropuerto se encuentra a solo unos pocos kilómetros del centro.",
+      "days": "La mayoría de la gente usa Kalibo como punto de paso de una noche antes o después de Boracay, aunque con un día aquí es suficiente para recorrer el parque ecológico de manglares, el mercado público y dar un paseo por el centro de la ciudad."
+    },
+    "zh": {
+      "blurb": "卡利博是阿克兰省的省会，是班乃岛上一座朴实无华的小城。对大多数旅行者来说，它更多是前往长滩岛的经济中转站，而非真正的目的地，但它其实自有一番风貌：红树林栈道、临河市场，还有每年一月那场锣鼓喧天、舞者狂欢、热闹席卷全城的阿提阿提汉节。",
+      "getting": "大多数游客乘飞机抵达卡利博国际机场（KLO），该机场同时运营国内和国际航班。从机场出发，可搭乘巴士或小巴，约1.5至2小时车程抵达卡提克兰码头，再乘坐约10至15分钟的短途渡船即可到达长滩岛。如果是直接前往卡利博市区的游客，由于机场距市中心仅几公里，乘坐嘟嘟车或出租车片刻即可到达。",
+      "days": "大多数人只是把卡利博当作前往长滩岛前后的一夜中转站，不过只需一天时间，就足以逛完红树林生态公园、公共市场，并在市中心悠闲走上一圈。"
+    }
+  },
+  "Namwon": {
+    "en": {
+      "blurb": "Namwon is the home of Korea's most famous love story, the folk tale of Chunhyang, retold each year at the long-running Chunhyang Festival held around Gwanghallu Pavilion and its garden. Beyond the legend, the city sits at the edge of Jirisan National Park and along the Seomjin River, making it as much a gateway to mountain trails as a stop for traditional Korean culture.",
+      "getting": "Namwon Station, on the Jeolla Line, has direct KTX services from Seoul's Yongsan Station, with the journey taking roughly ~2 hours. From the station, the town centre and main sights are best reached by taxi or local bus, since the station itself sits a short distance outside the city core.",
+      "days": "Plan on ~1 to 2 days, which is enough to cover Gwanghallu Garden, the Chunhyang Theme Park and a riverside stroll, with an extra day if you want to push on into the Jirisan foothills."
+    },
+    "ko": {
+      "blurb": "남원은 한국에서 가장 유명한 사랑 이야기인 '춘향전'의 고향으로, 매년 광한루원 일대에서 열리는 유서 깊은 춘향제를 통해 그 이야기가 다시 펼쳐진다. 전설적인 이야기를 넘어, 남원은 지리산국립공원과 맞닿아 있고 섬진강을 끼고 있어 전통문화를 즐기기 위한 거점이자 산길 트레킹의 관문 역할도 한다.",
+      "getting": "전라선에 위치한 남원역은 서울 용산역에서 KTX로 직행할 수 있으며, 소요 시간은 약 2시간이다. 남원역은 시내에서 조금 떨어져 있어, 역에서 시내 중심가나 주요 명소까지는 택시나 시내버스를 이용하는 것이 가장 편리하다.",
+      "days": "광한루원, 춘향테마파크, 그리고 강변 산책까지 둘러보려면 1~2일 정도면 충분하며, 지리산 자락까지 발걸음을 넓히고 싶다면 하루 더 일정을 추가하는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "南原(ナモン)は、韓国で最も有名な恋物語として知られる民話「春香伝(チュニャンジョン)」ゆかりの地です。この物語は、広寒楼(クァンハルロ)とその庭園一帯で毎年開催される歴史ある春香祭で今なお語り継がれています。伝説の舞台というだけでなく、南原は智異山(チリサン)国立公園のすぐそばに位置し、蟾津江(ソムジンガン)沿いにも広がっているため、伝統文化に触れる拠点であると同時に、山岳トレイルへの玄関口としても魅力的な街です。",
+      "getting": "南原駅は全羅線(チョルラソン)に位置し、ソウルの龍山(ヨンサン)駅からKTXで直通、所要時間は約2時間です。駅は市街地から少し離れた場所にあるため、町の中心部や主要観光スポットへはタクシーか路線バスの利用がおすすめです。",
+      "days": "滞在日数の目安は1〜2日。広寒楼苑(クァンハルロウォン)や春香テーマパークの観光、川沿いの散策を楽しむには十分な時間です。さらに智異山の麓まで足を延ばしたい場合は、もう1日プラスすると良いでしょう。"
+    },
+    "es": {
+      "blurb": "Namwon es la cuna de la historia de amor más famosa de Corea, el cuento popular de Chunhyang, que se revive cada año durante el tradicional Festival de Chunhyang, celebrado en torno al Pabellón Gwanghallu y sus jardines. Más allá de la leyenda, la ciudad se encuentra a las puertas del Parque Nacional de Jirisan y a orillas del río Seomjin, lo que la convierte tanto en punto de partida hacia senderos de montaña como en una parada obligada para quienes buscan cultura tradicional coreana.",
+      "getting": "La estación de Namwon, en la línea Jeolla, cuenta con servicios directos de KTX desde la estación de Yongsan en Seúl, con un trayecto de aproximadamente 2 horas. Desde la estación, lo mejor es llegar al centro de la ciudad y a sus principales atractivos en taxi o autobús local, ya que la estación queda a cierta distancia del núcleo urbano.",
+      "days": "Conviene reservar entre 1 y 2 días, tiempo suficiente para recorrer el Jardín de Gwanghallu, el Parque Temático de Chunhyang y dar un paseo junto al río, además de un día extra si se quiere continuar hacia las estribaciones de Jirisan."
+    },
+    "zh": {
+      "blurb": "南原是韩国最著名爱情故事的发源地——《春香传》的民间传说在这里世代流传，每年举办的春香文化节也在广寒楼及其园林周边热闹上演。除了这段传奇故事，南原还地处智异山国立公园边缘、濒临蟾津江，既是探访传统韩国文化的好去处，也是通往山间步道的门户。",
+      "getting": "南原站位于全罗线上，从首尔龙山站可乘坐KTX高铁直达，车程约2小时左右。由于车站距离市区还有一小段路，到达后建议乘坐出租车或当地公交前往市中心及主要景点。",
+      "days": "建议安排1到2天的行程，足以游览广寒楼苑、春香主题公园，并沿江悠闲散步；如果还想深入智异山山麓探索，不妨多留一天。"
+    }
+  },
+  "Panaji": {
+    "en": {
+      "blurb": "Panaji is Goa's compact riverside capital, where pastel Portuguese-era facades, narrow lanes and azulejo tiles give the Fontainhas quarter an almost Mediterranean feel unlike anywhere else in India. Beyond its colonial core, the city balances government offices, markets and churches with the laid-back pace of a small Goan town rather than a typical state capital.",
+      "getting": "Most travellers fly into Goa's Dabolim Airport (GOI), roughly ~30 minutes by taxi from Panaji, though the newer Manohar International Airport (GOX) to the north is also an option. By rail, Karmali is the closest station on the Konkan Railway line, about ~10km away, but since many express trains bypass it, travellers often arrive via Madgaon Junction further south and continue to Panaji by taxi or bus.",
+      "days": "Allow ~1-2 days to wander Fontainhas, the riverfront and Old Goa's churches at an easy pace, or longer if combining Panaji with Goa's beaches."
+    },
+    "ko": {
+      "blurb": "파나지는 고아 주의 아담한 강변 주도로, 파스텔톤의 포르투갈 시대 건물 외벽과 좁은 골목길, 아줄레주 타일이 어우러진 폰타인하스 지구는 인도 어디에서도 볼 수 없는 지중해풍 분위기를 자아낸다. 식민지 시대의 중심가를 벗어나면, 이 도시는 관공서와 시장, 성당들이 전형적인 주도의 모습보다는 느긋한 고아 소도시의 리듬 속에 공존하는 모습을 보여준다.",
+      "getting": "대부분의 여행객은 파나지에서 택시로 약 30분 거리에 있는 고아의 다볼림 공항(GOI)을 이용해 입국하지만, 북쪽에 위치한 비교적 새로운 마노하르 국제공항(GOX)도 대안이 될 수 있다. 기차로 이동할 경우 콩칸 철도 노선에서 가장 가까운 역은 약 10km 떨어진 카르말리역이지만, 많은 급행열차가 이 역을 지나치지 않기 때문에 여행객들은 보통 더 남쪽에 있는 마드가온 분기역을 이용한 뒤 택시나 버스로 파나지까지 이동하는 경우가 많다.",
+      "days": "폰타인하스와 강변, 그리고 올드고아의 성당들을 여유롭게 둘러보려면 1~2일 정도면 충분하지만, 고아의 해변까지 함께 즐기고 싶다면 조금 더 시간을 잡는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "パナジは、ゴア州のコンパクトな川沿いの州都。パステルカラーのポルトガル統治時代の建物、細い路地、アズレージョ・タイルが織りなすフォンテーナス地区には、インドの他のどこにもない、どこか地中海を思わせる雰囲気が漂う。植民地時代の中心部を離れれば、官公庁や市場、教会が立ち並びながらも、典型的な州都というより、のんびりとしたゴアの小さな町の空気感を今も残している。",
+      "getting": "多くの旅行者はゴアのダボリム空港（GOI）を利用する。パナジまではタクシーでおよそ30分ほど。北部にはより新しいマノハール国際空港（GOX）もあり、こちらを選ぶこともできる。鉄道の場合、コンカン鉄道沿線で最寄りとなるのはカルマリ駅で、約10km離れているが、多くの急行列車はこの駅を通過してしまうため、旅行者の多くはさらに南にあるマドガオン・ジャンクションを利用し、そこからタクシーやバスでパナジへ向かうことが多い。",
+      "days": "フォンテーナス地区や川沿い、オールド・ゴアの教会群をのんびり巡るなら1～2日ほど見ておきたい。ゴアのビーチと組み合わせて訪れるなら、さらに日数を延ばすのがおすすめだ。"
+    },
+    "es": {
+      "blurb": "Panaji es la compacta capital ribereña de Goa, donde las fachadas en tonos pastel de la época portuguesa, las calles estrechas y los azulejos le dan al barrio de Fontainhas un aire casi mediterráneo que no se encuentra en ningún otro lugar de la India. Más allá de su núcleo colonial, la ciudad combina oficinas gubernamentales, mercados e iglesias con el ritmo relajado de un pequeño pueblo goano, más que el de una típica capital de estado.",
+      "getting": "La mayoría de los viajeros llega por el aeropuerto de Dabolim (GOI), en Goa, a unos ~30 minutos en taxi de Panaji, aunque el más reciente Aeropuerto Internacional Manohar (GOX), al norte, también es una opción. En tren, Karmali es la estación más cercana de la línea Konkan Railway, a unos ~10 km, pero como muchos trenes expresos no paran allí, los viajeros suelen llegar por Madgaon Junction, más al sur, y continuar hasta Panaji en taxi o autobús.",
+      "days": "Conviene reservar ~1-2 días para recorrer con calma Fontainhas, el paseo ribereño y las iglesias de Old Goa, o más tiempo si se combina Panaji con las playas de Goa."
+    },
+    "zh": {
+      "blurb": "帕纳吉是果阿紧凑精致的滨河首府,粉彩色调的葡萄牙时期建筑、蜿蜒狭窄的小巷以及随处可见的阿苏雷荷瓷砖,让丰塔纳斯(Fontainhas)老城区透出一股在印度其他地方难寻的地中海风情。走出这片殖民时代的核心区,整座城市依然保留着政府机关、市集与教堂,但节奏悠闲从容,更像一座恬静的果阿小镇,而非典型的邦首府。",
+      "getting": "大多数游客会选择飞往果阿的达波利姆机场(GOI),从那里打车到帕纳吉大约需要30分钟;不过北边较新的马诺哈尔国际机场(GOX)也是不错的选择。乘火车的话,距离最近的站点是位于康坎铁路线上的卡马利(Karmali)站,约10公里之遥,但许多特快列车并不停靠此站,因此不少旅客会选择先抵达更南边的马德高恩枢纽站(Madgaon Junction),再转乘出租车或巴士前往帕纳吉。",
+      "days": "建议留出1到2天的时间,以悠闲的步调漫游丰塔纳斯老城区、滨河地带以及老果阿的教堂群;如果想把帕纳吉与果阿的海滩行程结合起来,不妨多安排几天。"
+    }
+  },
+  "Rennes": {
+    "en": {
+      "blurb": "Rennes is the capital of Brittany, a compact city where a medieval core of cobbled lanes and timber-framed houses sits alongside a lively, student-driven social scene. Its food culture, anchored by crêperies, cider and one of France's largest Saturday markets, makes it as much a culinary stop as a historical one.",
+      "getting": "Most travellers arrive by TGV into Rennes station, with the high-speed line to Paris Montparnasse taking around 1.5 hours; a small regional airport, Rennes-Saint-Jacques (RNS), handles limited flights, including a daily Paris CDG connection. From the station, the compact old town and main sights are within easy walking distance or a short ride on the local metro.",
+      "days": "Plan on ~2 days to cover the old town, cathedral and museums at an easy pace, with a third day useful if you want to add a side trip to Saint-Malo or Mont Saint-Michel."
+    },
+    "ko": {
+      "blurb": "렌은 브르타뉴의 주도로, 자갈 깔린 골목과 목조 건물이 남아 있는 중세 구시가지와 대학생들이 주도하는 활기찬 사교 문화가 공존하는 아담한 도시다. 크레페 전문점과 시드르, 그리고 프랑스 최대 규모를 자랑하는 토요 시장을 중심으로 한 식문화 덕분에, 이곳은 역사 못지않게 미식 여행지로도 손꼽힌다.",
+      "getting": "대부분의 여행객은 TGV를 타고 렌 역에 도착하며, 파리 몽파르나스까지 고속열차로 약 1시간 30분이 걸린다. 소규모 지역 공항인 렌-생자크 공항(RNS)에서는 파리 샤를 드골(CDG)행 일일 노선을 포함해 제한적인 항공편을 운항한다. 역에서 내리면 아담한 구시가지와 주요 명소들까지 도보로, 혹은 지역 지하철을 타고 짧게 이동할 수 있다.",
+      "days": "구시가지와 대성당, 박물관들을 여유롭게 둘러보려면 약 2일이면 충분하며, 생말로나 몽생미셸로 당일치기 여행을 추가하고 싶다면 3일째 일정을 잡는 것도 좋다."
+    },
+    "ja": {
+      "blurb": "レンヌはブルターニュ地方の中心都市で、石畳の小道と木骨造りの家々が残る中世の旧市街と、学生たちが生み出す活気ある社交シーンが同居する、コンパクトな街だ。クレープリー、シードル、そしてフランス最大級の土曜市に代表される食文化が根付いており、歴史だけでなく美食の観点からも訪れる価値がある。",
+      "getting": "多くの旅行者はTGVでレンヌ駅に到着する。パリ・モンパルナス駅との間を結ぶ高速線は所要約1時間半。小規模な地方空港、レンヌ・サン＝ジャック空港（RNS）もあり、便数は限られるものの、パリCDG空港との間に毎日1便の接続がある。駅からはコンパクトな旧市街や主要な見どころまで徒歩圏内、または地元メトロで短時間でアクセスできる。",
+      "days": "旧市街、大聖堂、博物館をゆったり巡るなら2日ほどを見ておきたい。サン＝マロやモン・サン＝ミッシェルへの小旅行を加えたいなら、3日目があると便利だ。"
+    },
+    "es": {
+      "blurb": "Rennes es la capital de Bretaña, una ciudad compacta donde un casco histórico medieval de callejuelas empedradas y casas con entramado de madera convive con un ambiente social animado, marcado por su vida universitaria. Su cultura gastronómica, sostenida por las creperías, la sidra y uno de los mercados de los sábados más grandes de Francia, hace de ella un destino tan culinario como histórico.",
+      "getting": "La mayoría de los viajeros llega en TGV a la estación de Rennes, con una línea de alta velocidad hacia París Montparnasse que tarda alrededor de 1,5 horas; un pequeño aeropuerto regional, Rennes-Saint-Jacques (RNS), ofrece vuelos limitados, incluida una conexión diaria con París CDG. Desde la estación, el casco antiguo y las principales atracciones quedan a poca distancia a pie o a un corto trayecto en el metro local.",
+      "days": "Conviene reservar unos 2 días para recorrer con calma el casco antiguo, la catedral y los museos; un tercer día resulta útil si se quiere añadir una excursión a Saint-Malo o al Mont Saint-Michel."
+    },
+    "zh": {
+      "blurb": "雷恩是布列塔尼大区的首府，一座小巧精致的城市：中世纪老城里鹅卵石小巷与木筋墙老屋鳞次栉比，周围则是充满活力、由学生群体带动的社交氛围。这里的饮食文化同样出彩，可丽饼店、苹果酒，以及法国规模最大的周六集市之一，让雷恩不仅是历史之旅，更是一场美食之旅。",
+      "getting": "大多数游客乘坐TGV高铁抵达雷恩火车站，前往巴黎蒙帕纳斯站的高铁车程约1.5小时；当地还有一座规模不大的雷恩圣雅克机场（RNS），航班有限，其中包括每日一班往返巴黎戴高乐机场（CDG）的航线。从火车站出发，小巧紧凑的老城区和主要景点步行即可轻松抵达，也可乘坐短途地铁前往。",
+      "days": "建议安排约2天时间，以轻松的节奏游览老城区、主教座堂和各大博物馆；如果想顺道前往圣马洛或圣米歇尔山，再加一天会更从容。"
+    }
+  },
+  "Siwa": {
+    "en": {
+      "blurb": "Siwa is Egypt's most remote inhabited oasis, a mudbrick town of palm groves and salt lakes tucked near the Libyan border, where Berber tradition still shapes daily life far from the Nile Valley. Its isolation, crowned by the ruined Oracle Temple that once drew Alexander the Great, has kept Siwa feeling like a world apart.",
+      "getting": "Siwa has no airport of its own, and the rail network does not reach it either; the nearest airport is Marsa Matruh (MUH), roughly 300km north. Most travellers reach Siwa by direct overnight bus from Cairo, a journey of ~9 to 11 hours, or by bus or taxi via Marsa Matruh if coming from the coast.",
+      "days": "Plan on ~3 to 4 days, enough time for the long journey in, a full day exploring the old fortress town and Oracle Temple, and time to relax by the salt lakes and springs before the trip back."
+    },
+    "ko": {
+      "blurb": "시와는 이집트에서 사람이 사는 가장 외딴 오아시스로, 리비아 국경 근처에 자리한 진흙 벽돌 마을입니다. 야자수 숲과 염호가 펼쳐진 이곳에서는 베르베르 전통이 지금도 일상을 지배하며, 나일강 유역과는 전혀 다른 세계를 이룹니다. 한때 알렉산더 대왕을 이곳까지 이끌었던 신탁 신전의 폐허가 마을을 굽어보고, 그 고립감이 시와를 마치 동떨어진 또 하나의 세상처럼 느껴지게 만듭니다.",
+      "getting": "시와에는 공항이 없고 철도도 닿지 않습니다. 가장 가까운 공항은 북쪽으로 약 300km 떨어진 마르사 마트루(MUH)입니다. 대부분의 여행자는 카이로에서 출발하는 직행 야간 버스를 이용하며, 소요 시간은 약 9~11시간입니다. 해안 지역에서 온다면 마르사 마트루를 거쳐 버스나 택시로 이동하는 방법도 있습니다.",
+      "days": "3~4일 정도를 계획하세요. 긴 이동 시간을 감안하고, 고대 요새 마을과 신탁 신전을 둘러보는 데 하루를 온전히 할애하며, 돌아가기 전에 염호와 온천에서 여유를 즐길 시간까지 포함한 일정입니다."
+    },
+    "ja": {
+      "blurb": "シワは、エジプトで最も人里離れたオアシスの町。リビア国境近く、ナツメヤシの林と塩湖に囲まれた泥レンガ造りの集落で、ナイル渓谷とは一線を画すベルベル人の伝統が今も暮らしに息づいている。かつてアレクサンダー大王も訪れたという神託所の遺跡を頂点に、この隔絶された土地は今なお別世界のような雰囲気をたたえている。",
+      "getting": "シワには空港がなく、鉄道も通っていない。最寄りの空港はマルサ・マトルーフ(MUH)で、そこから北へ約300kmの距離がある。多くの旅行者はカイロからシワへ直行する夜行バスを利用し、所要時間は9〜11時間ほど。地中海沿岸方面から向かう場合は、マルサ・マトルーフ経由でバスまたはタクシーを使うのが一般的だ。",
+      "days": "滞在の目安は3〜4日。長い移動時間を考慮しつつ、旧市街の要塞跡や神託所遺跡をじっくり巡る一日を確保し、さらに塩湖や温泉でのんびり過ごす時間も取っておくとよいだろう。"
+    },
+    "es": {
+      "blurb": "Siwa es el oasis habitado más remoto de Egipto, un pueblo de adobe entre palmerales y lagos salados, escondido cerca de la frontera con Libia, donde la tradición beréber sigue marcando el ritmo de la vida cotidiana, lejos del valle del Nilo. Su aislamiento, coronado por las ruinas del Templo del Oráculo que una vez atrajo a Alejandro Magno, ha hecho que Siwa se sienta como un mundo aparte.",
+      "getting": "Siwa no cuenta con aeropuerto propio, y tampoco llega la red ferroviaria; el aeropuerto más cercano es Marsa Matruh (MUH), a unos 300 km al norte. La mayoría de los viajeros llega a Siwa en autobús nocturno directo desde El Cairo, un trayecto de entre 9 y 11 horas aproximadamente, o en autobús o taxi vía Marsa Matruh si se viene desde la costa.",
+      "days": "Conviene reservar entre 3 y 4 días, tiempo suficiente para el largo trayecto de ida, un día completo para explorar el antiguo pueblo fortificado y el Templo del Oráculo, y un rato para relajarse junto a los lagos salados y los manantiales antes de emprender el regreso."
+    },
+    "zh": {
+      "blurb": "西瓦是埃及最偏远的有人居住绿洲,这座泥砖小城坐落在棕榈林与盐湖之间,紧邻利比亚边境,远离尼罗河谷,柏柏尔传统至今仍深深影响着当地人的日常生活。西瓦的与世隔绝,加上那座曾吸引亚历山大大帝前来求问的神谕庙遗址,让它始终保有一种遗世独立的气质。",
+      "getting": "西瓦本地没有机场,铁路也无法抵达;最近的机场是马特鲁港机场(MUH),在其以北约300公里处。大多数旅行者选择从开罗乘坐直达的夜间长途巴士前往西瓦,车程约9到11小时;如果是从沿海地区出发,也可以经马特鲁港转乘巴士或出租车。",
+      "days": "建议安排约3到4天时间,这样既能应付漫长的路途,又有一整天可以游览古老的城堡区和神谕庙,还能留出时间在盐湖和温泉边放松休息,再踏上归途。"
+    }
   }
 }
