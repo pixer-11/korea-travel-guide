@@ -124,7 +124,7 @@ const mentions = (haystack, needle) => {
 // Egypt", "from the temples of Luxor"), unless one of them states a position
 // ("from a rooftop in Mumbai" is where someone stood).
 const ENDS_IN_FROM = /\b[Ff]rom\s+(?:(?!(?:in|at|near|on|over|above)\s)[a-z]+\s+){0,3}$/;
-const PICTURE_CLAUSE = /\b(?:views?|panoram(?:as?|ics?)|photo(?:graph)?s?|pictures?|images?|videos?|scenes?|seen|viewed|shot)\b[^.,;:()]*$/i;
+const PICTURE_CLAUSE = /\b(?:views?|vistas?|skylines?|sunrises?|sunsets?|aerials?|panoram(?:as?|ics?)|photo(?:graph)?s?|pictures?|images?|videos?|scenes?|seen|viewed|shot)\b[^.,;:()]*$/i;
 const namesOnlyAnOrigin = (text, at) => {
   const before = text.slice(0, at);
   return ENDS_IN_FROM.test(before) && !PICTURE_CLAUSE.test(before);

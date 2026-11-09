@@ -358,6 +358,8 @@ test('역방향: 사진 자체가 그곳에서 왔다고 하면 from 이 있어�
   for (const description of [
     'Photos from Mumbai 2024',
     'Views of the harbour from Mumbai',
+    'Night skyline from Mumbai',
+    'Sunset from Mumbai',
     'The skyline as seen from Mumbai',
     'Night panoramics from Mumbai',
     'Moon photographs from India',
