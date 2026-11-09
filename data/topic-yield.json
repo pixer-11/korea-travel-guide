@@ -30,7 +30,7 @@
    "hits": 5
   },
   "museum": {
-   "attempts": 193,
+   "attempts": 194,
    "hits": 102
   },
   "noodles": {
@@ -54,15 +54,15 @@
    "hits": 4
   },
   "hidden gem": {
-   "attempts": 197,
-   "hits": 106
+   "attempts": 105,
+   "hits": 58
   },
   "breakfast": {
    "attempts": 70,
    "hits": 5
   },
   "trendy cafe": {
-   "attempts": 178,
+   "attempts": 179,
    "hits": 13
   },
   "street food": {
@@ -86,15 +86,15 @@
    "hits": 0
   },
   "top attraction": {
-   "attempts": 171,
-   "hits": 124
+   "attempts": 177,
+   "hits": 129
   },
   "grill": {
    "attempts": 59,
    "hits": 0
   },
   "design shop": {
-   "attempts": 54,
+   "attempts": 55,
    "hits": 0
   },
   "Sisowath Quay Riverside": {
@@ -1222,5 +1222,5 @@
    "hits": 1
   }
  },
- "updated": "2026-11-08T07:46:14.649Z"
+ "updated": "2026-11-09T07:45:45.714Z"
 }

@@ -1,75 +1,75 @@
 ---
 lang: es
 slug: nanterre-rolex-paris-masters
-srcHash: '98a60da90193'
+srcHash: '373f88fff5e5'
 title: 'Rolex Paris Masters: fechas, entradas y sede (Nanterre)'
-description: El Rolex Paris Masters 2026 se disputará del 31 de octubre al 8 de noviembre de 2026 en el Plenitude Arena de Nanterre, a las afueras de París, en el extremo occidental del distrito financiero de La Défense.
-quickAnswer: El Rolex Paris Masters 2026 se disputará del 31 de octubre al 8 de noviembre de 2026 en el Plenitude Arena de Nanterre, a las afueras de París, en el extremo occidental del distrito financiero de La Défense. Es el último ATP Masters 1000 de la temporada antes de las ATP Finals. La mayoría de los aficionados llega en el RER A o en la línea 1 del metro hasta La Défense y, desde allí, camina unos diez minutos dejando atrás el Gran Arco.
+description: Las fechas anunciadas para el Rolex Paris Masters 2026 eran del 31 de octubre al 8 de noviembre de 2026, en el Plenitude Arena de Nanterre, en el extremo occidental de La Défense.
+quickAnswer: Las fechas anunciadas para el Rolex Paris Masters 2026 eran del 31 de octubre al 8 de noviembre de 2026. La sede era el Plenitude Arena de Nanterre, situado en el extremo occidental del distrito de negocios de La Défense, a las puertas de París. Es el último ATP Masters 1000 de la temporada antes de las ATP Finals. La mayoría de los aficionados llega a La Défense en el RER A o en la línea 1 del metro y desde allí camina unos diez minutos hasta el estadio, dejando atrás el Grande Arche.
 faq:
-  - q: ¿Cuándo se celebra el Rolex Paris Masters 2026?
-    a: La edición de 2026 se disputará entre el sábado 31 de octubre y el domingo 8 de noviembre de 2026. Con ella, el torneo celebra su 40.º aniversario.
+  - q: ¿Qué fechas se anunciaron para el Rolex Paris Masters 2026?
+    a: La edición de 2026 estaba programada del sábado 31 de octubre al domingo 8 de noviembre de 2026. Se presentó como la edición del 40.º aniversario del torneo.
   - q: ¿Dónde se juega el Rolex Paris Masters?
-    a: En el Plenitude Arena de Nanterre, antes llamado Paris La Défense Arena. Se encuentra justo detrás del Gran Arco, en el extremo occidental del distrito financiero de La Défense.
+    a: En el Plenitude Arena (antiguo Paris La Défense Arena), en Nanterre. El recinto se encuentra en el extremo occidental del distrito de negocios de La Défense, justo detrás del Grande Arche.
   - q: ¿Cómo se llega al Plenitude Arena en transporte público?
-    a: Hasta La Défense llegan el RER A, la línea 1 del metro, las líneas L y U del Transilien y el tranvía T2. Desde allí hay unos diez minutos a pie hacia el oeste por la explanada, pasando junto al Gran Arco. También puede bajarse en Nanterre Préfecture, en el RER A.
-  - q: ¿Dónde se venden las entradas?
-    a: El calendario, los precios y los enlaces de venta los publica la organizadora, la Federación Francesa de Tenis (Fédération Française de Tennis), en la web oficial del Rolex Paris Masters.
+    a: A La Défense llegan el RER A, la línea 1 del metro, las líneas L y U del Transilien y el tranvía T2. Desde allí, el estadio queda a unos diez minutos a pie hacia el oeste por la explanada, más allá del Grande Arche. Otra alternativa es la estación de Nanterre Préfecture, en el RER A.
+  - q: ¿Dónde se vendían las entradas?
+    a: Las vendía la organizadora del torneo, la Fédération Française de Tennis, y los precios variaban según la jornada.
   - q: ¿El torneo se juega bajo techo?
-    a: Sí. Se disputa sobre pista dura bajo la cubierta fija del pabellón, de modo que el tiempo nunca interrumpe el juego. Como el trayecto desde la estación es al aire libre, los aficionados suelen llevar abrigo.
+    a: Sí. Se disputa en pista dura bajo la cubierta fija del estadio, por lo que el tiempo nunca obliga a interrumpir el juego. Los aficionados suelen llevar abrigo para el trayecto a pie desde la estación, que transcurre al aire libre.
 ---
 
 ## Cuarenta años de tenis bajo techo
 
-Con este torneo se cierra la temporada de los Masters. El Rolex Paris Masters pertenece a la categoría ATP Masters 1000, solo un escalón por debajo de los cuatro Grand Slams. Es, además, la última parada de esta categoría antes de las ATP Finals de Turín, que ponen fin al año.
+Con este torneo se cierra la temporada de Masters. El Rolex Paris Masters pertenece a la categoría ATP Masters 1000, un escalón por debajo de los cuatro Grand Slam. Es, además, la última parada de la serie antes de las ATP Finals de Turín, con las que termina el año.
 
-En 2026 el torneo cumple 40 años, y la edición se jugará entre el sábado 31 de octubre y el domingo 8 de noviembre de 2026. Durante la mayor parte de su historia tuvo su sede en Bercy, al este de París. Hoy se celebra en Nanterre, en el extremo opuesto de la ciudad.
+Las fechas anunciadas para la edición de 2026 eran del sábado 31 de octubre al domingo 8 de noviembre de 2026, y el torneo la presentó como la de su 40.º aniversario. Durante la mayor parte de su historia tuvo su casa en Bercy, al este de París. Hoy se juega en el extremo opuesto de la ciudad, en Nanterre.
 
-Esas fechas de finales de otoño marcan por completo la semana. En noviembre ya quedan pocos puntos en juego para la clasificación, y a menudo todavía hay plazas por decidir para las Finals. Aquí un partido puede determinar quién viaja a Turín y quién se va de vacaciones.
+Su lugar a finales de otoño en el calendario condiciona toda la semana. En noviembre quedan ya pocos puntos de ranking en juego, de modo que las plazas para las Finals suelen seguir abiertas. Aquí, un partido puede decidir quién viaja a Turín y quién se marcha de vacaciones.
 
-## El Plenitude Arena por dentro
+## El interior del Plenitude Arena
 
-En esencia, el recinto es un estadio de rugby con cubierta. El Plenitude Arena, conocido durante años como Paris La Défense Arena, es la casa del club de rugby Racing 92. Al tratarse de uno de los mayores pabellones cubiertos de Europa, la instalación de tenis ocupa solo una parte de un espacio mucho más amplio.
+En esencia, el edificio es un estadio de rugby con techo. El Plenitude Arena, conocido durante años como Paris La Défense Arena, es la casa del club de rugby Racing 92. Figura entre los mayores recintos cubiertos de Europa, así que la instalación de tenis se monta dentro de un espacio mucho más amplio.
 
-Se juega sobre pista dura bajo una cubierta fija. No hay viento, ni sol, ni retrasos por lluvia. Los jugadores cuentan así con condiciones previsibles, y quien tiene entrada disfruta de una jornada completa de tenis haga el tiempo que haga en el cielo de noviembre.
+La pista es de superficie dura y queda bajo una cubierta fija: ni viento, ni sol, ni interrupciones por lluvia. Los jugadores encuentran así unas condiciones previsibles, y quien tiene entrada disfruta de una jornada completa de tenis, haga el tiempo que haga bajo el cielo de noviembre.
 
-El pabellón se alza en el extremo occidental de la explanada de La Défense, detrás del Gran Arco (Grande Arche). El camino de acceso discurre entre torres de oficinas acristaladas, y entre la estación y el recinto se encuentra el centro comercial Westfield Les 4 Temps.
+El recinto se alza en el extremo occidental de la explanada de La Défense, detrás del Grande Arche. Torres de oficinas acristaladas flanquean el camino de acceso, y entre la estación y el estadio se interpone el centro comercial Westfield Les 4 Temps.
 
 ## Cómo llegar a Nanterre
 
-Lo habitual es ir en transporte público. El principal nudo de comunicaciones es La Défense, donde paran:
+Lo habitual es ir en transporte público. El gran nudo de comunicaciones es La Défense, al que llegan:
 
-- **El RER A**, la opción más rápida desde el centro de París y desde los municipios del este, en dirección a Disneyland
+- **El RER A**, la línea más rápida desde el centro de París y desde los suburbios del este, del lado de Disneyland
 - **La línea 1 del metro**, que pasa directamente por los Campos Elíseos y el Louvre
-- **Las líneas L y U del Transilien**, procedentes de Saint-Lazare y de los municipios del oeste
-- **El tranvía T2**, que recorre el borde suroeste de París
+- **Las líneas L y U del Transilien**, desde Saint-Lazare y los suburbios del oeste
+- **El tranvía T2**, que recorre el borde suroccidental de París
 
-Desde la estación, los aficionados siguen la explanada hacia el oeste, pasan por debajo o por un lado del Gran Arco y llegan al pabellón tras unos diez minutos a pie. Otra posibilidad es bajarse en Nanterre Préfecture, una parada más allá en el RER A, que queda al otro lado del recinto.
+Desde la estación, los aficionados siguen la explanada hacia el oeste, pasan por debajo del Grande Arche o lo rodean, y en unos diez minutos a pie están en el estadio. Por el lado opuesto existe otra alternativa: Nanterre Préfecture, una parada más allá en el RER A.
 
-Ir en coche es menos frecuente. La Défense es un distrito de negocios muy denso y, entre semana, sus calles se congestionan por la tarde.
+Ir en coche es menos frecuente. La Défense es un distrito de negocios muy denso, y al caer la tarde en días laborables el tráfico rodado es intenso.
 
-## Buenos modales en un estadio de rugby
+## Normas de cortesía en un estadio de rugby
 
-Aunque el edificio esté pensado para las melés, aquí rigen las normas del tenis. Los habituales se reconocen por unas cuantas costumbres:
+Aunque el edificio esté pensado para las melés, aquí rige la etiqueta del tenis. A los habituales se les reconoce por algunas costumbres:
 
-- **No se levante durante los puntos.** Los acomodadores retienen al público en los pasillos hasta el cambio de lado, que se produce tras los juegos impares.
-- **Guarde silencio entre el primer y el segundo saque.** El público francés es ruidoso entre punto y punto y célebre por cómo anima a los jugadores locales, pero calla en cuanto llega el lanzamiento de la bola.
-- **No use el flash.** Distrae a los jugadores, y el personal interviene enseguida.
-- **Vístase por capas.** Lo normal es llegar con abrigo para cruzar la explanada a la intemperie y quitárselo ya dentro.
+- **Permanecer sentado durante los puntos.** Los acomodadores retienen al público en el pasillo hasta el cambio de lado, que se produce tras los juegos impares.
+- **Guardar silencio entre el primer y el segundo saque.** El público francés es ruidoso entre punto y punto y célebre por cómo anima a los jugadores de casa, pero enmudece cuando el tenista lanza la bola para sacar.
+- **Nada de fotos con flash.** Distraen a los jugadores, y el personal interviene enseguida.
+- **Vestirse por capas.** Los aficionados suelen llegar con abrigo para cruzar la explanada al aire libre y se lo quitan una vez dentro.
 
-En los puestos de comida y bebida del pabellón se paga con tarjeta, como en el resto de París. Un «bonjour» antes de pedir se agradece mucho.
+En los puestos de comida y bebida del estadio lo normal es pagar con tarjeta, igual que en el resto de París. Un «bonjour» antes de pedir siempre se agradece.
 
 ## Entradas y sesiones
 
-La organización corre a cargo de la Federación Francesa de Tenis, que publica las fechas, el calendario y los enlaces de venta en la web oficial del Rolex Paris Masters. Allí figuran también los precios de cada jornada.
+El torneo lo organiza la Fédération Française de Tennis (Federación Francesa de Tenis). Fue ella quien vendió las entradas de la edición de 2026, con precios fijados para cada jornada.
 
-Las primeras jornadas concentran el mayor número de partidos, porque muchos jugadores siguen aún en el cuadro. Son ideales para quien busca ver mucho tenis y descubrir a jugadores menos conocidos junto a las grandes figuras. El fin de semana de semifinales y final es el que atrae más público y registra la mayor demanda.
+Las primeras jornadas suelen concentrar el mayor número de partidos, porque muchos jugadores siguen todavía en el cuadro. Son ideales para quien busca cantidad y la ocasión de ver a tenistas de menor ranking junto a las estrellas. El fin de semana de semifinales y final es, por lo general, el que atrae a más público y el de mayor demanda.
 
-Quien quiere ver a los mejores del ranking sin las aglomeraciones del último fin de semana suele optar por la mitad de la semana. Para entonces el cuadro se ha reducido, pero las grandes estrellas normalmente siguen en competición.
+Quien quiere ver a los mejores del ranking sin las aglomeraciones del último fin de semana suele decantarse por mitad de semana. Para entonces el cuadro se ha reducido, pero las grandes figuras, por lo general, siguen en liza.
 
-## Aproveche el día en La Défense
+## Aprovechar el día en La Défense
 
-El distrito ofrece mucho más que oficinas. De camino al pabellón se encuentra el Gran Arco, un cubo hueco de mármol que enmarca el eje histórico en dirección al Arco de Triunfo. En la explanada hay también esculturas al aire libre, entre ellas obras de Calder y Miró.
+El distrito ofrece mucho más que oficinas. De camino al estadio aparece el Grande Arche, el cubo hueco de mármol que enmarca el eje histórico en dirección al Arco de Triunfo. La explanada alberga también escultura al aire libre, con obras de Calder y Miró, entre otras.
 
-Antes o después de cada sesión, muchos aficionados comen en Les 4 Temps, que cuenta con una amplia zona de restauración y varios restaurantes. Para alojarse, los visitantes suelen elegir los hoteles de negocios de La Défense o el centro de París, en torno a la línea 1 del metro. Los Campos Elíseos quedan a un trayecto corto y directo.
+Antes o después de cada sesión, muchos aficionados comen en Les 4 Temps, que cuenta con una gran zona de restauración y numerosos restaurantes. Para alojarse, los visitantes suelen elegir los hoteles de negocios de La Défense o el centro de París, a lo largo de la línea 1 del metro. Los Campos Elíseos quedan a un trayecto corto y directo.
 
-Una sesión completa puede durar cinco o seis horas. Por eso la mayoría reserva toda la tarde o toda la noche en lugar de plantearla como una visita rápida.
+Una sesión completa puede prolongarse cinco o seis horas. Por eso la mayoría dedica a la entrada una tarde o una noche enteras, y no la ve como una visita rápida.

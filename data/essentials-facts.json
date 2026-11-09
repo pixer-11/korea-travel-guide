@@ -4229,6 +4229,944 @@
         }
       }
     },
+    "Egypt": {
+      "srcHash": "f76a4e5cb41d",
+      "en": {
+        "summary": [
+          {
+            "key": "entry",
+            "title": "E-visa or visa on arrival",
+            "sub": "Most nationalities need a visa; confirm on official portal"
+          },
+          {
+            "key": "money",
+            "title": "Carry Egyptian pounds",
+            "sub": "Cash rules taxis, markets, small cafés and tips"
+          },
+          {
+            "key": "season",
+            "title": "October to April best",
+            "sub": "Warm, sunny days and cool evenings"
+          },
+          {
+            "key": "transport",
+            "title": "Uber, Careem and Metro",
+            "sub": "Use apps and Cairo Metro to get around"
+          }
+        ],
+        "visa": {
+          "cards": [
+            {
+              "name": "E-visa (single-entry)",
+              "code": "",
+              "who": "Eligible nationalities incl. UK, USA, Canada, Australia, NZ, Japan, EU",
+              "cost": "US$30",
+              "stay": "",
+              "note": "Apply at least seven days before departure via visa2egypt.gov.eg"
+            },
+            {
+              "name": "E-visa (multiple-entry)",
+              "code": "",
+              "who": "Eligible nationalities incl. UK, USA, Canada, Australia, NZ, Japan, EU",
+              "cost": "US$65",
+              "stay": "",
+              "note": "Apply at least seven days before departure via visa2egypt.gov.eg"
+            },
+            {
+              "name": "Visa on arrival",
+              "code": "",
+              "who": "Eligible nationalities choosing not to pre-apply",
+              "cost": "US$30 cash only",
+              "stay": "Up to 30 days",
+              "note": "Cash only, bought at bank kiosks before passport control; fee rose from USD 25 on 1 March 2026"
+            },
+            {
+              "name": "Digital visa on arrival (Cairo Airport)",
+              "code": "",
+              "who": "Travellers arriving at Cairo International Airport",
+              "cost": "US$36 incl. US$6 service fee",
+              "stay": "",
+              "note": "Available from 1 August 2026, paid by card"
+            }
+          ],
+          "warnings": [
+            {
+              "title": "Avoid unofficial visa agents",
+              "text": "Avoid unofficial \"visa agent\" sites that charge extra for a free government service."
+            },
+            {
+              "title": "Confirm nationality requirements",
+              "text": "Fees, eligible nationalities and processing times change without much notice, so verify directly on the official portal or embassy."
+            }
+          ]
+        },
+        "transport": {
+          "rows": [],
+          "tips": [
+            {
+              "title": "Metro is fastest in Cairo",
+              "text": "The Metro is the fastest way to cross the city and dodge traffic, with fares from EGP 10 to around EGP 20 depending on distance."
+            },
+            {
+              "title": "Use ride apps for comfort",
+              "text": "Uber and Careem are the practical solution for almost all tourist journeys, typically 30 to 60 EGP within the city, 60-100 EGP cross-city, and 150-220 EGP airport to downtown/Giza."
+            },
+            {
+              "title": "Intercity rail booking",
+              "text": "Online booking is restricted to Egyptian nationals; foreign visitors generally need to book in person at the station or through a travel agent."
+            }
+          ]
+        },
+        "money": {
+          "budget": null,
+          "tips": [
+            {
+              "title": "Cash for most things",
+              "text": "Cards work in hotels, good restaurants, supermarkets and state ticket offices; cash is needed for taxis outside apps, markets, boats, small cafés and tips."
+            },
+            {
+              "title": "Choose local currency at ATMs",
+              "text": "Use bank ATMs such as CIB, HSBC, National Bank of Egypt or Banque Misr, and choose to be charged in pounds rather than the machine's conversion."
+            },
+            {
+              "title": "Keep small notes",
+              "text": "Keep a stock of small notes for tips and market stalls, since baksheesh is a normal and expected part of daily transactions."
+            },
+            {
+              "title": "Check exchange rate",
+              "text": "EGP trades at about 52 to the US dollar and 59 to the euro in late September 2026, though rates fluctuate."
+            }
+          ]
+        },
+        "season": {
+          "best": [
+            1,
+            2,
+            3,
+            4,
+            10,
+            11,
+            12
+          ],
+          "rows": [
+            {
+              "label": "General travel",
+              "sub": "Most comfortable weather window",
+              "best": [
+                10,
+                11,
+                12,
+                1,
+                2,
+                3,
+                4
+              ],
+              "busy": [],
+              "avoid": [
+                5,
+                6,
+                7,
+                8,
+                9
+              ]
+            },
+            {
+              "label": "Abu Simbel",
+              "sub": "Pleasant weather for visiting",
+              "best": [
+                10,
+                11,
+                12,
+                1,
+                2,
+                3
+              ],
+              "busy": [],
+              "avoid": []
+            }
+          ]
+        },
+        "emergency": {
+          "numbers": [
+            {
+              "number": "112",
+              "label": "Unified emergency number",
+              "note": "Connects to all emergency services, but may not reliably work in every area"
+            },
+            {
+              "number": "122",
+              "label": "Police",
+              "note": ""
+            },
+            {
+              "number": "123",
+              "label": "Ambulance",
+              "note": ""
+            },
+            {
+              "number": "126",
+              "label": "Tourist police",
+              "note": "Go here for a scam, theft or problem with a guide"
+            }
+          ],
+          "chips": [
+            "Keep direct-dial numbers saved",
+            "Tourist police at major sites",
+            "Metal detectors at hotel doors",
+            "Checkpoints on intercity roads",
+            "Check home govt's current advisory"
+          ]
+        }
+      },
+      "ko": {
+        "summary": [
+          {
+            "title": "전자비자 또는 도착비자",
+            "sub": "대부분 국적은 비자가 필요하니 공식 포털에서 확인하세요",
+            "key": "entry"
+          },
+          {
+            "title": "이집트 파운드를 소지하세요",
+            "sub": "택시, 시장, 작은 카페와 팁은 현금이 기본입니다",
+            "key": "money"
+          },
+          {
+            "title": "10월부터 4월이 최적",
+            "sub": "따뜻하고 화창한 낮, 선선한 저녁",
+            "key": "season"
+          },
+          {
+            "title": "우버, 카림, 지하철",
+            "sub": "이동 시 앱과 카이로 메트로를 이용하세요",
+            "key": "transport"
+          }
+        ],
+        "visa": {
+          "cards": [
+            {
+              "name": "전자비자 (단수입국)",
+              "code": "",
+              "who": "영국, 미국, 캐나다, 호주, 뉴질랜드, 일본, EU 등 해당 국적자",
+              "cost": "US$30",
+              "stay": "",
+              "note": "출발 최소 7일 전 visa2egypt.gov.eg에서 신청하세요"
+            },
+            {
+              "name": "전자비자 (복수입국)",
+              "code": "",
+              "who": "영국, 미국, 캐나다, 호주, 뉴질랜드, 일본, EU 등 해당 국적자",
+              "cost": "US$65",
+              "stay": "",
+              "note": "출발 최소 7일 전 visa2egypt.gov.eg에서 신청하세요"
+            },
+            {
+              "name": "도착비자",
+              "code": "",
+              "who": "사전 신청을 원하지 않는 해당 국적자",
+              "cost": "US$30 현금만 가능",
+              "stay": "최대 30일",
+              "note": "현금만 가능, 출입국 심사 전 은행 키오스크에서 구매; 2026년 3월 1일부터 수수료가 USD 25에서 인상됨"
+            },
+            {
+              "name": "디지털 도착비자 (카이로 공항)",
+              "code": "",
+              "who": "카이로 국제공항 도착 여행객",
+              "cost": "US$36 (서비스 수수료 US$6 포함)",
+              "stay": "",
+              "note": "2026년 8월 1일부터 이용 가능, 카드로 결제"
+            }
+          ],
+          "warnings": [
+            {
+              "title": "비공식 비자 대행업체 주의",
+              "text": "무료 정부 서비스에 추가 요금을 부과하는 비공식 '비자 대행' 사이트를 피하세요."
+            },
+            {
+              "title": "국적별 요건 확인",
+              "text": "수수료, 대상 국적, 처리 기간은 사전 공지 없이 변경될 수 있으니 공식 포털이나 대사관에서 직접 확인하세요."
+            }
+          ]
+        },
+        "transport": {
+          "rows": [],
+          "tips": [
+            {
+              "title": "카이로에서는 지하철이 가장 빠름",
+              "text": "지하철은 도시를 가로지르고 교통 체증을 피하는 가장 빠른 방법이며, 요금은 거리에 따라 EGP 10에서 약 EGP 20입니다."
+            },
+            {
+              "title": "편리함을 위해 차량호출 앱 이용",
+              "text": "우버와 카림은 거의 모든 관광객 이동에 실용적인 해결책이며, 보통 시내에서 30~60 EGP, 도시 간 이동 60~100 EGP, 공항에서 시내/기자까지 150~220 EGP 정도입니다."
+            },
+            {
+              "title": "도시 간 기차 예매",
+              "text": "온라인 예매는 이집트 국적자만 가능하며, 외국인 방문객은 보통 역에서 직접 예매하거나 여행사를 통해 예매해야 합니다."
+            }
+          ]
+        },
+        "money": {
+          "budget": null,
+          "tips": [
+            {
+              "title": "대부분은 현금으로",
+              "text": "호텔, 고급 레스토랑, 슈퍼마켓, 국영 매표소에서는 카드가 통용되지만, 앱 밖의 택시, 시장, 보트, 작은 카페와 팁에는 현금이 필요합니다."
+            },
+            {
+              "title": "ATM에서는 현지 통화 선택",
+              "text": "CIB, HSBC, 이집트 국립은행, 방크 미스르 같은 은행 ATM을 이용하고, 기기의 환전 대신 파운드로 청구되도록 선택하세요."
+            },
+            {
+              "title": "소액권을 챙기세요",
+              "text": "팁과 시장 노점을 위해 소액권을 챙겨두세요. 박시시(팁)는 일상적인 거래에서 정상적이고 당연한 관행입니다."
+            },
+            {
+              "title": "환율 확인",
+              "text": "2026년 9월 말 기준 이집트 파운드는 미화 1달러당 약 52, 유로 1유로당 약 59이지만 환율은 변동합니다."
+            }
+          ]
+        },
+        "season": {
+          "rows": [
+            {
+              "label": "일반 여행",
+              "sub": "가장 쾌적한 날씨 시기",
+              "best": [
+                10,
+                11,
+                12,
+                1,
+                2,
+                3,
+                4
+              ],
+              "busy": [],
+              "avoid": [
+                5,
+                6,
+                7,
+                8,
+                9
+              ]
+            },
+            {
+              "label": "아부심벨",
+              "sub": "방문하기 좋은 쾌적한 날씨",
+              "best": [
+                10,
+                11,
+                12,
+                1,
+                2,
+                3
+              ],
+              "busy": [],
+              "avoid": []
+            }
+          ],
+          "best": [
+            1,
+            2,
+            3,
+            4,
+            10,
+            11,
+            12
+          ]
+        },
+        "emergency": {
+          "numbers": [
+            {
+              "number": "112",
+              "label": "통합 긴급 번호",
+              "note": "모든 긴급 서비스로 연결되지만, 모든 지역에서 안정적으로 작동하지 않을 수 있습니다"
+            },
+            {
+              "number": "122",
+              "label": "경찰",
+              "note": ""
+            },
+            {
+              "number": "123",
+              "label": "구급차",
+              "note": ""
+            },
+            {
+              "number": "126",
+              "label": "관광 경찰",
+              "note": "사기, 절도, 가이드 관련 문제는 이곳으로 연락하세요"
+            }
+          ],
+          "chips": [
+            "직통 번호를 저장해 두세요",
+            "주요 관광지에는 관광 경찰이 있습니다",
+            "호텔 입구에는 금속 탐지기가 있습니다",
+            "도시 간 도로에는 검문소가 있습니다",
+            "자국 정부의 최신 여행 권고를 확인하세요"
+          ]
+        }
+      },
+      "ja": {
+        "summary": [
+          {
+            "title": "電子ビザまたは到着ビザ",
+            "sub": "多くの国籍でビザが必要です。公式ポータルで確認を",
+            "key": "entry"
+          },
+          {
+            "title": "エジプトポンドを携帯",
+            "sub": "タクシー、市場、小さなカフェ、チップは現金が基本",
+            "key": "money"
+          },
+          {
+            "title": "10月から4月がベスト",
+            "sub": "暖かく晴れた日中と涼しい夜",
+            "key": "season"
+          },
+          {
+            "title": "Uber、Careem、地下鉄",
+            "sub": "移動にはアプリとカイロメトロを利用",
+            "key": "transport"
+          }
+        ],
+        "visa": {
+          "cards": [
+            {
+              "name": "電子ビザ（シングルエントリー）",
+              "code": "",
+              "who": "英国、米国、カナダ、オーストラリア、NZ、日本、EUなど対象国籍",
+              "cost": "US$30",
+              "stay": "",
+              "note": "出発の少なくとも7日前にvisa2egypt.gov.egで申請"
+            },
+            {
+              "name": "電子ビザ（マルチプルエントリー）",
+              "code": "",
+              "who": "英国、米国、カナダ、オーストラリア、NZ、日本、EUなど対象国籍",
+              "cost": "US$65",
+              "stay": "",
+              "note": "出発の少なくとも7日前にvisa2egypt.gov.egで申請"
+            },
+            {
+              "name": "到着ビザ",
+              "code": "",
+              "who": "事前申請をしない対象国籍の渡航者",
+              "cost": "US$30（現金のみ）",
+              "stay": "最大30日間",
+              "note": "現金のみ、入国審査前に銀行の窓口で購入。手数料は2026年3月1日からUSD 25より値上げ"
+            },
+            {
+              "name": "デジタル到着ビザ（カイロ空港）",
+              "code": "",
+              "who": "カイロ国際空港に到着する旅行者",
+              "cost": "US$36（サービス料US$6込み）",
+              "stay": "",
+              "note": "2026年8月1日から利用可能、カード払い"
+            }
+          ],
+          "warnings": [
+            {
+              "title": "非公式ビザ代行業者に注意",
+              "text": "無料の政府サービスに追加料金を課す非公式の「ビザ代行」サイトは避けましょう。"
+            },
+            {
+              "title": "国籍ごとの要件を確認",
+              "text": "料金、対象国籍、処理期間は予告なく変更されるため、公式ポータルまたは大使館で直接確認してください。"
+            }
+          ]
+        },
+        "transport": {
+          "rows": [],
+          "tips": [
+            {
+              "title": "カイロではメトロが最速",
+              "text": "メトロは街を横断し渋滞を避ける最速の方法で、運賃は距離によりEGP 10からおよそEGP 20です。"
+            },
+            {
+              "title": "快適さにはライドアプリを",
+              "text": "UberとCareemはほぼすべての観光客の移動に実用的な方法で、市内で通常30〜60EGP、都市間移動で60〜100EGP、空港からダウンタウン・ギザまでは150〜220EGPです。"
+            },
+            {
+              "title": "都市間鉄道の予約",
+              "text": "オンライン予約はエジプト国民限定のため、外国人旅行者は通常、駅で直接または旅行代理店経由で予約する必要があります。"
+            }
+          ]
+        },
+        "money": {
+          "budget": null,
+          "tips": [
+            {
+              "title": "ほとんどは現金で",
+              "text": "ホテル、高級レストラン、スーパー、国営チケット窓口ではカードが使えますが、アプリ外のタクシー、市場、ボート、小さなカフェ、チップには現金が必要です。"
+            },
+            {
+              "title": "ATMでは現地通貨を選択",
+              "text": "CIB、HSBC、エジプト国立銀行、バンク・ミスルなどの銀行ATMを利用し、機械の為替換算ではなくポンドでの請求を選びましょう。"
+            },
+            {
+              "title": "小額紙幣を用意",
+              "text": "バクシーシ（チップ）は日常的な取引の一部として普通に期待されるため、チップや市場の屋台用に小額紙幣を用意しておきましょう。"
+            },
+            {
+              "title": "為替レートを確認",
+              "text": "2026年9月下旬時点でEGPは米ドルに対して約52、ユーロに対して約59ですが、レートは変動します。"
+            }
+          ]
+        },
+        "season": {
+          "rows": [
+            {
+              "label": "一般的な旅行",
+              "sub": "最も快適な気候の時期",
+              "best": [
+                10,
+                11,
+                12,
+                1,
+                2,
+                3,
+                4
+              ],
+              "busy": [],
+              "avoid": [
+                5,
+                6,
+                7,
+                8,
+                9
+              ]
+            },
+            {
+              "label": "アブ・シンベル",
+              "sub": "訪問に適した快適な気候",
+              "best": [
+                10,
+                11,
+                12,
+                1,
+                2,
+                3
+              ],
+              "busy": [],
+              "avoid": []
+            }
+          ],
+          "best": [
+            1,
+            2,
+            3,
+            4,
+            10,
+            11,
+            12
+          ]
+        },
+        "emergency": {
+          "numbers": [
+            {
+              "number": "112",
+              "label": "統一緊急番号",
+              "note": "すべての緊急サービスにつながりますが、地域によっては確実に機能しない場合があります"
+            },
+            {
+              "number": "122",
+              "label": "警察",
+              "note": ""
+            },
+            {
+              "number": "123",
+              "label": "救急車",
+              "note": ""
+            },
+            {
+              "number": "126",
+              "label": "観光警察",
+              "note": "詐欺、窃盗、ガイドに関する問題はこちらへ"
+            }
+          ],
+          "chips": [
+            "直通番号を保存しておく",
+            "主要観光地には観光警察が配置",
+            "ホテル入口には金属探知機",
+            "都市間道路には検問所",
+            "自国政府の最新の渡航情報を確認"
+          ]
+        }
+      },
+      "es": {
+        "summary": [
+          {
+            "title": "Visa electrónica o visa a la llegada",
+            "sub": "La mayoría de nacionalidades necesitan visa; confírmalo en el portal oficial",
+            "key": "entry"
+          },
+          {
+            "title": "Lleva libras egipcias",
+            "sub": "El efectivo manda en taxis, mercados, cafés pequeños y propinas",
+            "key": "money"
+          },
+          {
+            "title": "De octubre a abril, lo mejor",
+            "sub": "Días cálidos y soleados, noches frescas",
+            "key": "season"
+          },
+          {
+            "title": "Uber, Careem y el Metro",
+            "sub": "Usa apps y el Metro de El Cairo para moverte",
+            "key": "transport"
+          }
+        ],
+        "visa": {
+          "cards": [
+            {
+              "name": "Visa electrónica (entrada única)",
+              "code": "",
+              "who": "Nacionalidades elegibles incl. Reino Unido, EE. UU., Canadá, Australia, NZ, Japón, UE",
+              "cost": "US$30",
+              "stay": "",
+              "note": "Solicítala al menos siete días antes de salir en visa2egypt.gov.eg"
+            },
+            {
+              "name": "Visa electrónica (entradas múltiples)",
+              "code": "",
+              "who": "Nacionalidades elegibles incl. Reino Unido, EE. UU., Canadá, Australia, NZ, Japón, UE",
+              "cost": "US$65",
+              "stay": "",
+              "note": "Solicítala al menos siete días antes de salir en visa2egypt.gov.eg"
+            },
+            {
+              "name": "Visa a la llegada",
+              "code": "",
+              "who": "Nacionalidades elegibles que prefieren no solicitarla con antelación",
+              "cost": "US$30, solo en efectivo",
+              "stay": "Hasta 30 días",
+              "note": "Solo efectivo, se compra en quioscos bancarios antes del control de pasaportes; la tarifa subió desde USD 25 el 1 de marzo de 2026"
+            },
+            {
+              "name": "Visa digital a la llegada (Aeropuerto de El Cairo)",
+              "code": "",
+              "who": "Viajeros que llegan al Aeropuerto Internacional de El Cairo",
+              "cost": "US$36, incl. tasa de servicio de US$6",
+              "stay": "",
+              "note": "Disponible desde el 1 de agosto de 2026, pago con tarjeta"
+            }
+          ],
+          "warnings": [
+            {
+              "title": "Evita agentes de visa no oficiales",
+              "text": "Evita sitios de \"agentes de visa\" no oficiales que cobran de más por un servicio gubernamental gratuito."
+            },
+            {
+              "title": "Confirma los requisitos según tu nacionalidad",
+              "text": "Las tarifas, nacionalidades elegibles y tiempos de trámite cambian sin mucho aviso, así que verifica directamente en el portal oficial o la embajada."
+            }
+          ]
+        },
+        "transport": {
+          "rows": [],
+          "tips": [
+            {
+              "title": "El Metro es lo más rápido en El Cairo",
+              "text": "El Metro es la forma más rápida de cruzar la ciudad y evitar el tráfico, con tarifas desde EGP 10 hasta unos EGP 20 según la distancia."
+            },
+            {
+              "title": "Usa apps de transporte por comodidad",
+              "text": "Uber y Careem son la solución práctica para casi todos los trayectos turísticos, normalmente entre 30 y 60 EGP dentro de la ciudad, 60-100 EGP entre zonas y 150-220 EGP del aeropuerto al centro/Giza."
+            },
+            {
+              "title": "Reserva de trenes interurbanos",
+              "text": "La reserva en línea está restringida a ciudadanos egipcios; los visitantes extranjeros generalmente deben reservar en persona en la estación o a través de una agencia de viajes."
+            }
+          ]
+        },
+        "money": {
+          "budget": null,
+          "tips": [
+            {
+              "title": "Efectivo para la mayoría de las cosas",
+              "text": "Las tarjetas funcionan en hoteles, buenos restaurantes, supermercados y taquillas estatales; se necesita efectivo para taxis fuera de apps, mercados, barcos, cafés pequeños y propinas."
+            },
+            {
+              "title": "Elige la moneda local en los cajeros",
+              "text": "Usa cajeros de bancos como CIB, HSBC, National Bank of Egypt o Banque Misr, y elige que te cobren en libras en lugar de la conversión del cajero."
+            },
+            {
+              "title": "Guarda billetes pequeños",
+              "text": "Guarda billetes pequeños para propinas y puestos de mercado, ya que el baksheesh es una parte normal y esperada de las transacciones diarias."
+            },
+            {
+              "title": "Revisa el tipo de cambio",
+              "text": "La libra egipcia cotiza a unos 52 por dólar estadounidense y 59 por euro a finales de septiembre de 2026, aunque las tasas fluctúan."
+            }
+          ]
+        },
+        "season": {
+          "rows": [
+            {
+              "label": "Viaje en general",
+              "sub": "La ventana climática más cómoda",
+              "best": [
+                10,
+                11,
+                12,
+                1,
+                2,
+                3,
+                4
+              ],
+              "busy": [],
+              "avoid": [
+                5,
+                6,
+                7,
+                8,
+                9
+              ]
+            },
+            {
+              "label": "Abu Simbel",
+              "sub": "Clima agradable para visitar",
+              "best": [
+                10,
+                11,
+                12,
+                1,
+                2,
+                3
+              ],
+              "busy": [],
+              "avoid": []
+            }
+          ],
+          "best": [
+            1,
+            2,
+            3,
+            4,
+            10,
+            11,
+            12
+          ]
+        },
+        "emergency": {
+          "numbers": [
+            {
+              "number": "112",
+              "label": "Número de emergencia unificado",
+              "note": "Conecta con todos los servicios de emergencia, pero puede no funcionar de forma fiable en todas las zonas"
+            },
+            {
+              "number": "122",
+              "label": "Policía",
+              "note": ""
+            },
+            {
+              "number": "123",
+              "label": "Ambulancia",
+              "note": ""
+            },
+            {
+              "number": "126",
+              "label": "Policía turística",
+              "note": "Acude aquí por estafas, robos o problemas con un guía"
+            }
+          ],
+          "chips": [
+            "Guarda los números de marcación directa",
+            "Policía turística en los sitios principales",
+            "Detectores de metales en las puertas de los hoteles",
+            "Puestos de control en carreteras interurbanas",
+            "Revisa el aviso actual de tu gobierno"
+          ]
+        }
+      },
+      "zh": {
+        "summary": [
+          {
+            "title": "电子签证或落地签",
+            "sub": "大多数国籍需要签证；请在官方门户网站确认",
+            "key": "entry"
+          },
+          {
+            "title": "随身携带埃及镑",
+            "sub": "出租车、市场、小咖啡馆和小费通常只收现金",
+            "key": "money"
+          },
+          {
+            "title": "10月至4月最佳",
+            "sub": "白天温暖晴朗，夜晚凉爽",
+            "key": "season"
+          },
+          {
+            "title": "Uber、Careem和地铁",
+            "sub": "出行可使用打车软件和开罗地铁",
+            "key": "transport"
+          }
+        ],
+        "visa": {
+          "cards": [
+            {
+              "name": "电子签证（单次入境）",
+              "code": "",
+              "who": "符合条件的国籍，包括英国、美国、加拿大、澳大利亚、新西兰、日本、欧盟",
+              "cost": "US$30",
+              "stay": "",
+              "note": "请至少提前七天通过visa2egypt.gov.eg申请"
+            },
+            {
+              "name": "电子签证（多次入境）",
+              "code": "",
+              "who": "符合条件的国籍，包括英国、美国、加拿大、澳大利亚、新西兰、日本、欧盟",
+              "cost": "US$65",
+              "stay": "",
+              "note": "请至少提前七天通过visa2egypt.gov.eg申请"
+            },
+            {
+              "name": "落地签证",
+              "code": "",
+              "who": "符合条件但选择不预先申请的国籍",
+              "cost": "US$30，仅收现金",
+              "stay": "最多30天",
+              "note": "仅收现金，在护照检查前在银行柜台购买；费用已于2026年3月1日从USD 25上涨"
+            },
+            {
+              "name": "电子落地签（开罗机场）",
+              "code": "",
+              "who": "抵达开罗国际机场的旅客",
+              "cost": "US$36，含US$6服务费",
+              "stay": "",
+              "note": "自2026年8月1日起提供，使用信用卡支付"
+            }
+          ],
+          "warnings": [
+            {
+              "title": "避免非官方签证代办",
+              "text": "请避免使用非官方的\"签证代办\"网站，它们会为本应免费的政府服务额外收费。"
+            },
+            {
+              "title": "确认各国国籍要求",
+              "text": "费用、符合条件的国籍和办理时间可能会在没有太多提前通知的情况下更改，请直接在官方门户网站或大使馆核实。"
+            }
+          ]
+        },
+        "transport": {
+          "rows": [],
+          "tips": [
+            {
+              "title": "地铁在开罗最快",
+              "text": "地铁是穿越城市、避开交通拥堵最快的方式，票价根据距离从EGP 10到约EGP 20不等。"
+            },
+            {
+              "title": "使用打车软件更舒适",
+              "text": "Uber和Careem几乎适用于所有游客出行，市内通常为30至60埃及镑，跨城区为60至100埃及镑，机场往返市中心/吉萨为150至220埃及镑。"
+            },
+            {
+              "title": "城际铁路预订",
+              "text": "在线预订仅限埃及公民；外国游客通常需要在车站现场或通过旅行社预订。"
+            }
+          ]
+        },
+        "money": {
+          "budget": null,
+          "tips": [
+            {
+              "title": "大多数情况下用现金",
+              "text": "酒店、高档餐厅、超市和国营售票处可以刷卡；而打车软件以外的出租车、市场、船只、小咖啡馆和小费则需要现金。"
+            },
+            {
+              "title": "在ATM机选择本地货币",
+              "text": "请使用CIB、汇丰、埃及国家银行或米斯尔银行等银行的ATM机，并选择以埃及镑计费，而非机器自带的换算汇率。"
+            },
+            {
+              "title": "备好小面额纸币",
+              "text": "请备足小面额纸币用于小费和市场摊位，因为巴克西什（小费）是日常交易中正常且被预期的一部分。"
+            },
+            {
+              "title": "留意汇率",
+              "text": "截至2026年9月底，埃及镑对美元约为52，对欧元约为59，但汇率会有波动。"
+            }
+          ]
+        },
+        "season": {
+          "rows": [
+            {
+              "label": "一般旅行",
+              "sub": "天气最舒适的时段",
+              "best": [
+                10,
+                11,
+                12,
+                1,
+                2,
+                3,
+                4
+              ],
+              "busy": [],
+              "avoid": [
+                5,
+                6,
+                7,
+                8,
+                9
+              ]
+            },
+            {
+              "label": "阿布辛贝",
+              "sub": "适合游览的宜人天气",
+              "best": [
+                10,
+                11,
+                12,
+                1,
+                2,
+                3
+              ],
+              "busy": [],
+              "avoid": []
+            }
+          ],
+          "best": [
+            1,
+            2,
+            3,
+            4,
+            10,
+            11,
+            12
+          ]
+        },
+        "emergency": {
+          "numbers": [
+            {
+              "number": "112",
+              "label": "统一报警电话",
+              "note": "可接通所有紧急服务，但并非在所有地区都能可靠接通"
+            },
+            {
+              "number": "122",
+              "label": "警察",
+              "note": ""
+            },
+            {
+              "number": "123",
+              "label": "救护车",
+              "note": ""
+            },
+            {
+              "number": "126",
+              "label": "旅游警察",
+              "note": "遇到诈骗、盗窃或导游相关问题请联系这里"
+            }
+          ],
+          "chips": [
+            "保存好直拨电话号码",
+            "主要景点设有旅游警察",
+            "酒店门口设有金属探测器",
+            "城际公路设有检查站",
+            "请查看本国政府的最新旅行提示"
+          ]
+        }
+      }
+    },
     "France": {
       "srcHash": "be44c3635802",
       "en": {

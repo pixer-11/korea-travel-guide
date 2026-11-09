@@ -1,88 +1,86 @@
 ---
 lang: es
 slug: bocaue-lany-soft-world-tour
-srcHash: '7c3b0f6caa39'
-title: 'LANY: Soft World Tour en Bocaue: fechas, entradas y recinto'
-description: El 7 y 8 de noviembre de 2026, LANY llevará su Soft World Tour al Philippine Arena de Bocaue (Bulacan) durante dos noches.
-quickAnswer: El 7 y 8 de noviembre de 2026, LANY llevará su Soft World Tour al Philippine Arena de Bocaue (Bulacan) durante dos noches. Ambos conciertos forman parte de una gira filipina que pasa también por Cebú y Dávao. Consulte los horarios, las categorías de entradas y las normas de acceso en los canales oficiales de la gira y del recinto. Y antes de organizar cualquier otra cosa, piense en cómo volverá por la NLEX.
+srcHash: '14118a6e86ee'
+title: 'LANY en Bocaue: fechas, entradas y recinto de la Soft World Tour'
+description: La Soft World Tour de LANY tenía previstas dos noches en el Philippine Arena de Bocaue (Bulacan), el 7 y el 8 de noviembre de 2026. La gira por Filipinas incluía también Cebú y Dávao.
+quickAnswer: Las fechas anunciadas de la Soft World Tour de LANY en el Philippine Arena de Bocaue (Bulacan) eran el 7 y el 8 de noviembre de 2026. Esas dos noches formaban parte de una gira por Filipinas que pasaba también por Cebú y Dávao. El recinto se encuentra a unos 30 km al norte del centro de Manila, junto a la autopista North Luzon Expressway (NLEX). Tras un gran concierto, el regreso por la NLEX suele ser lo más lento de toda la noche.
 faq:
-  - q: ¿Cuándo y dónde actúa LANY en Filipinas con el Soft World Tour?
-    a: El grupo ofrecerá dos conciertos en el Philippine Arena, situado en Ciudad de Victoria (Bocaue, Bulacan), el 7 y 8 de noviembre de 2026. La gira por Filipinas incluye además fechas en Cebú y Dávao. Los horarios exactos deben confirmarse en los canales oficiales de la gira.
+  - q: ¿Cuándo y dónde eran los conciertos de la Soft World Tour de LANY en Filipinas?
+    a: LANY tenía programadas dos noches en el Philippine Arena, en Ciudad de Victoria (Bocaue, Bulacan), el 7 y el 8 de noviembre de 2026. La gira por el país incluía además fechas en Cebú y Dávao.
   - q: ¿Cómo se llega al Philippine Arena desde Manila?
-    a: Hay que tomar hacia el norte la autopista North Luzon Expressway (NLEX) y recorrer unos 30 km desde el centro de Manila hasta el enlace de Ciudad de Victoria. La mayoría de los asistentes acude en coche particular, con aplicaciones de transporte, en furgonetas alquiladas entre varios o en los autobuses que se organizan para los conciertos desde centros comerciales del Gran Manila. Las páginas oficiales del evento indican qué servicios de autobús funcionarán en estas fechas.
+    a: Desde el centro de Manila se recorren unos 30 km hacia el norte por la North Luzon Expressway (NLEX) hasta el enlace de Ciudad de Victoria. La mayoría del público va en coche particular o con aplicaciones de transporte. También son habituales las furgonetas alquiladas en grupo y los autobuses lanzadera que salen de centros comerciales de Metro Manila para los conciertos.
   - q: ¿Cuánto se tarda en salir después del concierto?
-    a: Cuente con una larga espera. Decenas de miles de personas se marchan a la vez, y tanto los aparcamientos como las vías de acceso y la entrada a la NLEX acaban colapsados. Es habitual esperar bastante más de una hora. Conviene dejar concertada la recogida, llevar el móvil cargado y fijar un punto de encuentro antes del concierto.
+    a: Salir suele llevar mucho tiempo. Decenas de miles de personas se marchan a la vez, de modo que se colapsan los aparcamientos, las vías de acceso y la incorporación a la NLEX. Después de los grandes eventos en este recinto es frecuente esperar bastante más de una hora. La espera resulta más llevadera con una recogida acordada de antemano, el móvil cargado y un punto de encuentro pactado.
   - q: ¿Qué se puede llevar al Philippine Arena?
-    a: El recinto y el promotor fijan para cada evento las normas sobre el tamaño de los bolsos, las baterías externas, las cámaras y la comida del exterior. Lea las indicaciones oficiales de acceso para estos conciertos de LANY antes de salir de casa y deje en el coche cualquier objeto prohibido.
+    a: El recinto y el promotor fijan en cada evento las normas sobre el tamaño de los bolsos, las baterías externas, las cámaras y la comida traída de fuera. Lo prohibido suele quedarse en el control de seguridad. Por eso muchos de los que llegan en coche lo dejan dentro del vehículo.
   - q: ¿Hay algo que ver cerca de Bocaue?
-    a: Bocaue es la localidad filipina con mayor tradición en la fabricación de fuegos artificiales. A pocos minutos en coche hacia el norte se encuentra Malolos, donde se alza la iglesia de Barasoain, escenario de la proclamación de la Primera República Filipina en 1899. Reserve tiempo de sobra, porque el día del concierto el tráfico es muy denso.
+    a: Bocaue es la localidad pirotécnica tradicional de Filipinas. Hacia el norte, a poca distancia en coche, está Malolos, donde se encuentra la iglesia de Barasoain. Allí se inauguró en 1899 la Primera República Filipina. Los días de concierto el tráfico en Bulacan es muy denso, y hasta los trayectos cortos pueden durar mucho más de lo habitual.
 ---
 
 ## Dos noches bajo el mayor techo de Bulacan
 
-LANY regresa a Filipinas. La banda pop de Los Ángeles, liderada por Paul Klein, presentará el Soft World Tour en el Philippine Arena de Bocaue durante dos noches: el 7 y 8 de noviembre de 2026. Como la gira sigue después hacia Cebú y Dávao, estas fechas corresponden a su paso por Luzón.
+La Soft World Tour de LANY tenía reservadas dos noches en el Philippine Arena de Bocaue: el 7 y el 8 de noviembre de 2026. La gira filipina de esta banda pop de Los Ángeles, liderada por Paul Klein, incluía además Cebú y Dávao. Así, estas dos fechas constituían el tramo de Luzón.
 
-El público filipino lleva años siguiendo a LANY. Con canciones como «ILYSB», «Malibu Nights» o «Thru These Tears», el pabellón entero acaba cantando al unísono. Que el grupo haya reservado el mayor recinto cubierto del país para dos noches seguidas da una idea de lo numerosos que son sus seguidores.
-
-Las fechas, los horarios y las entradas deben confirmarse en los canales oficiales de LANY y del recinto. Esta guía no sustituye en ningún caso esa información.
+El público filipino lleva años siguiendo a LANY. Con canciones como "ILYSB", "Malibu Nights" o "Thru These Tears", un pabellón entero se convierte en un único coro que no deja de cantar. Que la banda ocupara durante dos noches seguidas el mayor recinto cubierto del país demostraba el tamaño de esa afición.
 
 ## Qué es realmente el Philippine Arena
 
-Este recinto existe precisamente por su tamaño. Se inauguró en 2014 dentro de Ciudad de Victoria, una amplia zona turística y de eventos que la Iglesia ni Cristo ha desarrollado en Bocaue. Concebido como espacio de culto y de asambleas, se ha llegado a considerar el mayor pabellón cubierto del mundo, con capacidad para unas 55,000 personas sentadas.
+Este edificio existe por su tamaño. El Philippine Arena abrió sus puertas en 2014 en Ciudad de Victoria, una extensa zona turística y de eventos que la Iglesia ni Cristo desarrolló en Bocaue. Se concibió como sala de culto y de asambleas, y se ha dicho de él que es el mayor pabellón cubierto del mundo, con capacidad para unas 55.000 personas sentadas.
 
-Visto desde fuera, es una enorme cúpula de tono claro que se levanta aislada en un terreno abierto junto a la autopista. En el interior, las gradas ascienden en pisos de pronunciada pendiente. El ambiente gana mucho con ello, aunque la visibilidad desde los niveles altos se resiente.
+Visto desde fuera, es una enorme cúpula de tono claro que se levanta aislada en un terreno abierto junto a la autopista. Dentro, las gradas suben en pisos de fuerte pendiente. El ambiente gana mucho con ello, pero la visibilidad desde los niveles superiores sale perdiendo.
 
-Al lado se encuentra el Philippine Sports Stadium, el estadio de fútbol del mismo complejo. Las noches de concierto, toda la zona funciona como un gran dispositivo de control de multitudes, con aparcamientos, puntos de bajada de autobuses y largos paseos peatonales hasta las puertas.
+Al lado se encuentra el Philippine Sports Stadium, el estadio de fútbol del mismo complejo. Las noches de concierto, toda la zona funciona como un gran dispositivo de gestión de multitudes, con aparcamientos, paradas de lanzaderas y largos pasillos peatonales hasta las puertas.
 
-## Cómo elegir asiento en un pabellón de 55,000 plazas
+## Elegir asiento en un recinto de 55.000 plazas
 
-Lo que se ve depende mucho de dónde se sienta uno. En un espacio de estas dimensiones, los pisos superiores quedan muy lejos del escenario, y en una gira de pabellones la mayoría de los detalles se siguen en las pantallas.
+Lo que se ve depende mucho de dónde se esté sentado. En una sala de estas dimensiones, las gradas altas quedan muy lejos del escenario, y en una gira por pabellones casi todos los detalles llegan a través de las pantallas.
 
-- **Pista o palcos inferiores:** la zona más próxima al grupo. Lo normal es estar de pie o esperar más tanto a la entrada como a la salida.
-- **Palcos superiores:** para la mayoría del público, un buen equilibrio entre visibilidad y precio.
-- **Gradas generales más altas:** desde aquí se abarca todo el público y su mar de luces, aunque el escenario se ve pequeño allá abajo.
+- **Pista o palcos inferiores:** lo más cerca de la banda. Aquí el público suele estar de pie, y tanto la entrada como la salida son más lentas.
+- **Palcos superiores:** para la mayoría de los asistentes, el mejor equilibrio entre visibilidad y precio.
+- **Secciones generales más altas:** una panorámica completa del público y de sus luces, con el escenario muy pequeño allá abajo.
 
-Consulte el plano de asientos de cada noche en la página oficial de venta de entradas, ya que la distribución puede variar según la producción de la gira. Al haber dos conciertos, a veces resulta más fácil conseguir entrada para la segunda noche, pero no lo dé nunca por hecho.
+La distribución del recinto puede variar según la producción de cada gira. Cuando hay dos conciertos en el calendario de un recinto como este, a veces resulta más fácil conseguir entrada para la segunda noche, aunque no siempre ocurre.
 
 ## Cómo llegar a Bocaue desde Manila
 
-Bocaue pertenece a la provincia de Bulacan y está a unos 30 kilómetros al norte del centro de Manila. La mayoría de los visitantes llega por la autopista North Luzon Expressway (NLEX). Ciudad de Victoria cuenta con un enlace propio, y una vez en la autopista las indicaciones hacia el Philippine Arena son claras.
+Bocaue pertenece a la provincia de Bulacan y está a unos 30 kilómetros al norte del centro de Manila. La mayoría de los visitantes llega por la North Luzon Expressway (NLEX). Ciudad de Victoria cuenta con su propio enlace en la autopista, y una vez en ella las señales hacia el Philippine Arena son claras.
 
-Estas son las opciones realistas:
+Estas son las alternativas reales:
 
-- **Coche particular o aplicaciones de transporte:** la alternativa más flexible. Deje acordada de antemano la recogida para la vuelta, porque al terminar el concierto escasean tanto la cobertura como los vehículos disponibles.
-- **Autobuses organizados para el concierto:** en los grandes eventos del recinto suele haber servicios directos desde centros comerciales del Gran Manila. Las páginas oficiales del evento indican cuáles funcionarán en estas fechas.
-- **Alquiler de furgoneta en grupo:** una solución muy extendida entre los seguidores. El coste se reparte entre amigos y el conductor les espera a la salida.
+- **Coche particular o aplicaciones de transporte:** la opción más flexible. Lo que mejor funciona es dejar organizada la recogida de vuelta, porque al terminar el concierto tanto la cobertura como los coches disponibles escasean.
+- **Lanzaderas organizadas para el concierto:** en los grandes eventos del recinto suele haber autobuses directos desde centros comerciales de Metro Manila.
+- **Furgoneta alquilada en grupo:** una solución muy extendida entre los fans, que se reparten el coste mientras el conductor los espera.
 
-Al caer en fin de semana, los conciertos coinciden con el tráfico de viernes a sábado y de sábado a domingo en la NLEX. Salga con mucha más antelación de la que sugiera cualquier aplicación de mapas, sobre todo si viene desde Makati, BGC o el sur del área metropolitana.
+Al caer en fin de semana, las fechas coincidían con el tráfico de viernes a sábado y de sábado a domingo en la NLEX. Esos fines de semana con evento, el trayecto desde Makati, BGC o el sur de la zona metropolitana suele durar bastante más de lo que indica cualquier aplicación de mapas.
 
-## El éxodo por la NLEX tras el último bis
+## El éxodo por la NLEX tras el bis
 
-Salir lleva más tiempo que llegar. Es la peculiaridad horaria sobre la que advierte cualquier asiduo del Philippine Arena. Cuando decenas de miles de personas abandonan a la vez una misma cúpula, los aparcamientos, las vías de acceso y la entrada a la autopista se llenan al mismo tiempo.
+Salir lleva más tiempo que llegar. Es la peculiaridad horaria de la que avisa cualquier asiduo del Philippine Arena. Cuando decenas de miles de personas abandonan una misma cúpula a la vez, se llenan al mismo tiempo los aparcamientos, las vías de acceso y la incorporación a la autopista.
 
-Tras los grandes eventos de este recinto, es frecuente oír quejas por esperas de bastante más de una hora para salir. Algunas costumbres ayudan a sobrellevarlo:
+Tras los grandes eventos de este recinto es habitual quejarse de colas de salida que superan con creces la hora. Algunas costumbres ayudan a sobrellevarlo:
 
-- Antes del concierto, fije con su grupo un punto de encuentro alejado de la puerta principal.
-- Lleve el móvil con la batería completa y una batería externa.
-- Coma antes de entrar, para que a la espera no se sume el hambre.
-- Si va en coche, puede hacer como algunos asistentes y quedarse en el aparcamiento hasta que pase la primera oleada.
+- Acordar antes del concierto un punto de encuentro alejado de la puerta principal ahorra mucho tiempo buscándose.
+- Con el móvil bien cargado y una batería externa, las recogidas salen según lo previsto.
+- Haber comido antes evita que la espera fuera sea además con hambre.
+- Algunos de los que van en coche dejan pasar la primera avalancha sin moverse del aparcamiento.
 
-Si viene desde lejos, plantéese alojarse en Bulacan o en el norte del Gran Manila. Conducir un rato corto a altas horas de la noche resulta mucho más llevadero que hacer un trayecto largo.
+A quienes vienen de lejos, alojarse en Bulacan o en el norte de Metro Manila les convierte un largo viaje de madrugada en un trayecto corto.
 
-## Costumbres de las noches de concierto en Ciudad de Victoria
+## Costumbres de noche de concierto en Ciudad de Victoria
 
-El público filipino tiene su propio ritmo. Muchos llegan horas antes para hacer cola en los puestos de productos oficiales, recoger los obsequios que reparten los propios seguidores y hacerse fotos frente a la cúpula. Si le interesan los productos oficiales, llegue pronto: las colas crecen a medida que se acerca la hora de apertura de puertas.
+El público filipino tiene su propio ritmo en los conciertos. Muchos llegan con horas de antelación para hacer cola en la tienda oficial, recoger los obsequios de los proyectos de fans y hacerse fotos frente a la cúpula. Las colas del merchandising suelen crecer a medida que se acerca la apertura de puertas.
 
-En cuanto a los pagos, en Filipinas lo habitual es no usar efectivo. Los monederos electrónicos GCash y Maya están muy extendidos y en los puestos oficiales de productos suelen aceptarse tarjetas, aunque conviene llevar algo de dinero suelto para los vendedores ambulantes y el aparcamiento. No confíe en los datos móviles cerca de las puertas, pues una multitud de este tamaño puede ralentizarlos hasta casi bloquearlos.
+En cuanto al pago, en Filipinas lo normal es no usar efectivo. Los monederos electrónicos GCash y Maya están muy extendidos y en los puestos oficiales de merchandising se acepta tarjeta con frecuencia. Aun así, conviene llevar algo de dinero suelto para los vendedores de carretera y el aparcamiento. Con una multitud de este tamaño, los datos móviles cerca de las puertas suelen ir lentísimos.
 
-Las normas sobre bolsos y objetos permitidos las establecen el recinto y el promotor, así que léalas para estos conciertos en concreto. Suelen referirse al tamaño de los bolsos, las baterías externas, las cámaras y la comida del exterior. Los controles de seguridad avanzan más deprisa si los objetos prohibidos ya se han quedado en el coche.
+Las normas sobre bolsos y objetos las fijan el recinto y el promotor para cada concierto. Por lo general afectan al tamaño de los bolsos, las baterías externas, las cámaras y la comida traída de fuera. Las colas de seguridad avanzan más rápido cuando lo prohibido se queda en el coche.
 
-Dentro, lo esencial es cantar. Los seguidores suelen coordinar momentos especiales, como alzar luces durante una balada o desplegar pancartas con su canción favorita. Súmese a ellos en lugar de grabar cada segundo y mantenga el móvil por debajo de la altura de las cabezas de quienes están detrás.
+Dentro, lo esencial es cantar. Los fans suelen coordinar momentos especiales, como alzar las luces durante una balada o desplegar pancartas en su canción favorita. Si el móvil se sostiene por debajo de la cabeza de quien está detrás, nadie se queda sin ver.
 
-## Qué hacer en los alrededores de Bocaue antes del concierto
+## Bocaue antes del concierto
 
-En Filipinas, Bocaue es conocida sobre todo por sus fuegos artificiales. Es el centro tradicional de su fabricación en el país, y en las semanas previas a Año Nuevo los puestos se multiplican a lo largo de sus carreteras. A principios de noviembre, este comercio apenas empieza a animarse y aún está lejos de su apogeo.
+En Filipinas, Bocaue es famosa sobre todo por los fuegos artificiales. La localidad es el centro pirotécnico tradicional del país, y en las semanas previas a Año Nuevo sus carreteras se llenan de puestos. A principios de noviembre, ese comercio está despegando, todavía lejos de su apogeo.
 
-Si dispone de una tarde libre cualquiera de los dos días, Malolos, capital de la provincia de Bulacan, queda a pocos minutos en coche hacia el norte. En su iglesia de Barasoain se proclamó en 1899 la Primera República Filipina, y el templo figura en la antigua moneda y el antiguo billete de diez pesos. Eso sí, no apure los tiempos: el día del concierto, el tráfico de Bulacan puede convertir un trayecto corto en uno muy largo.
+A poca distancia en coche hacia el norte se encuentra Malolos, capital de la provincia de Bulacan. En su iglesia de Barasoain se inauguró en 1899 la Primera República Filipina, y el templo aparece en la antigua moneda y en el antiguo billete de diez pesos. En un día de concierto, el tráfico de Bulacan puede convertir un trayecto corto en uno largo.
 
-Para la mayoría de los seguidores, la jornada es sencilla: subir temprano, hacer cola para los productos oficiales, encontrar su sección y cantar todo el repertorio mientras la cúpula se ilumina alrededor. Confirme horarios y entradas en la web oficial y estará listo.
+Para la mayoría de los fans, un día de concierto aquí sigue una rutina sencilla. Suben temprano, hacen cola para el merchandising y buscan su sección. Después, mientras la cúpula se ilumina a su alrededor, cantan el repertorio de principio a fin.

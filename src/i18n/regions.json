@@ -15709,5 +15709,221 @@
       "getting": "西瓦本地没有机场,铁路也无法抵达;最近的机场是马特鲁港机场(MUH),在其以北约300公里处。大多数旅行者选择从开罗乘坐直达的夜间长途巴士前往西瓦,车程约9到11小时;如果是从沿海地区出发,也可以经马特鲁港转乘巴士或出租车。",
       "days": "建议安排约3到4天时间,这样既能应付漫长的路途,又有一整天可以游览古老的城堡区和神谕庙,还能留出时间在盐湖和温泉边放松休息,再踏上归途。"
     }
+  },
+  "Abu Simbel": {
+    "en": {
+      "blurb": "Abu Simbel is home to two colossal rock temples carved for Ramesses II and his queen Nefertari, their facades dominated by four seated statues of the pharaoh standing around 20 metres tall. In one of the 20th century's most dramatic feats of engineering, the entire complex was cut into blocks and reassembled on higher ground in the 1960s to save it from the rising waters of Lake Nasser.",
+      "getting": "Most travellers fly into Abu Simbel Airport (ABS) on a short hop from Aswan International Airport (ASW), with the flight taking well under an hour; the temples themselves are only a few kilometres from the runway. The alternative is the overland route, a long desert drive of several hours from Aswan by private car, taxi or tour bus, often departing in the very early hours.",
+      "days": "A half-day to full day covers Abu Simbel comfortably, enough time to explore both temples and the visitor centre before heading back to Aswan."
+    },
+    "ko": {
+      "blurb": "아부심벨에는 람세스 2세와 그의 왕비 네페르타리를 위해 조각된 두 개의 거대한 암굴 신전이 자리하고 있다. 신전 정면은 높이 약 20미터에 달하는 파라오의 좌상 네 개가 압도적인 존재감을 뽐내는 것이 특징이다. 20세기 토목공학사에서 가장 극적인 사례로 꼽히는 이 작업에서는, 나세르 호수의 수위 상승으로부터 유적을 지키기 위해 1960년대에 신전 전체를 블록 단위로 절단해 더 높은 지대로 옮겨 재조립했다.",
+      "getting": "대부분의 여행자는 아스완 국제공항(ASW)에서 아부심벨 공항(ABS)까지 1시간이 채 걸리지 않는 짧은 비행편을 이용해 이동한다. 신전은 공항 활주로에서 불과 몇 킬로미터밖에 떨어져 있지 않다. 다른 방법으로는 육로 이동이 있는데, 아스완에서 자가용, 택시, 또는 투어 버스를 이용해 사막을 가로질러 몇 시간을 달려야 하며, 보통 이른 새벽 시간에 출발한다.",
+      "days": "아부심벨은 반나절에서 하루 정도면 여유롭게 둘러볼 수 있으며, 두 신전과 방문자 센터를 모두 관람한 뒤 아스완으로 돌아가기에 충분한 시간이다."
+    },
+    "ja": {
+      "blurb": "アブシンベルには、ラムセス2世とその王妃ネフェルタリのために彫られた2つの巨大な岩窟神殿がある。正面には高さ約20メートルにも及ぶファラオの座像4体がそびえ立ち、圧倒的な存在感を放つ。20世紀最大級の土木工事ともいわれるプロジェクトにより、1960年代、ナセル湖の水位上昇から遺跡を守るため、神殿全体がブロック状に切り出され、より高い場所へとそっくり移築された。",
+      "getting": "多くの旅行者は、アスワン国際空港(ASW)からアブシンベル空港(ABS)まで、1時間足らずの短いフライトで向かう。神殿自体も滑走路からわずか数キロの距離にある。もう一つの選択肢は陸路で、アスワンから自家用車やタクシー、ツアーバスなどで数時間かけて砂漠を横断する。早朝、まだ暗いうちに出発することも多い。",
+      "days": "半日から1日あれば、アブシンベルは十分に楽しめる。2つの神殿とビジターセンターをじっくり見学し、アスワンへ戻るにも余裕のある行程だ。"
+    },
+    "es": {
+      "blurb": "Abu Simbel alberga dos colosales templos excavados en la roca, construidos en honor a Ramsés II y su reina Nefertari, cuyas fachadas están dominadas por cuatro estatuas sedentes del faraón de unos 20 metros de altura. En una de las hazañas de ingeniería más espectaculares del siglo XX, todo el complejo fue cortado en bloques y reconstruido en terreno más elevado durante la década de 1960 para salvarlo de las aguas crecientes del lago Nasser.",
+      "getting": "La mayoría de los viajeros llega en avión al Aeropuerto de Abu Simbel (ABS) tras un breve vuelo desde el Aeropuerto Internacional de Asuán (ASW), que dura bien menos de una hora; los propios templos se encuentran a solo unos kilómetros de la pista. La alternativa es la ruta terrestre, un largo trayecto de varias horas a través del desierto desde Asuán en coche particular, taxi o autobús turístico, que suele partir de madrugada.",
+      "days": "Entre medio día y un día completo basta para visitar Abu Simbel con calma, tiempo suficiente para recorrer ambos templos y el centro de visitantes antes de regresar a Asuán."
+    },
+    "zh": {
+      "blurb": "阿布辛贝拥有两座为拉美西斯二世及其王后奈费尔塔利凿刻的巨型岩庙，正面矗立着四尊约20米高的法老坐像，气势恢宏。20世纪最惊人的工程壮举之一，就是在上世纪60年代，为了让整座建筑群免于被阿斯旺高坝蓄起的纳赛尔湖水淹没，人们将其整体切割成石块，在更高处原样重建。",
+      "getting": "大多数游客会选择从阿斯旺国际机场（ASW）搭乘短途航班飞往阿布辛贝机场（ABS），飞行时间不到一小时，而神庙距离机场跑道也只有几公里。另一种方式是走陆路，从阿斯旺出发，乘坐私家车、出租车或旅游巴士穿越沙漠，车程长达数小时，为了避开白天的酷热，通常会选在凌晨出发。",
+      "days": "游览阿布辛贝半天到一天时间就很充裕，足以从容参观两座神庙和游客中心，然后再返回阿斯旺。"
+    }
+  },
+  "Dahab": {
+    "en": {
+      "blurb": "Dahab is a laid back Red Sea town on the Gulf of Aqaba, known for its lagoon windsurfing, the Blue Hole dive site and a Bedouin influenced, backpacker friendly pace that feels far removed from Egypt's bigger resort hubs. Low rise guesthouses, beachfront cafes and a slower rhythm have made it a long time favourite for divers, climbers and travellers staying longer than planned.",
+      "getting": "Dahab has no airport of its own: the nearest is Sharm El Sheikh International (SSH), about 90 km south, roughly ~1.5 hours away by road. Most travellers fly into Sharm El Sheikh and continue by private transfer, taxi or long distance bus from the regional hub there.",
+      "days": "Plan on ~3 to 5 days to settle into the town's rhythm, dive a few sites and take a day trip inland to the Coloured Canyon or St Catherine."
+    },
+    "ko": {
+      "blurb": "다합(Dahab)은 아카바만(Gulf of Aqaba)에 자리한 느긋한 분위기의 홍해 마을로, 라군에서 즐기는 윈드서핑과 블루홀(Blue Hole) 다이빙 명소, 그리고 베두인 문화의 정취가 묻어나는 배낭여행자 친화적인 분위기로 잘 알려져 있다. 이집트의 대형 리조트 지역들과는 전혀 다른 느낌을 준다. 저층 게스트하우스와 해변가의 아늑한 카페들, 그리고 느릿한 생활 리듬 덕분에 다이버와 클라이머, 그리고 애초 계획보다 오래 머물게 되는 여행자들에게 오랫동안 사랑받는 곳이다.",
+      "getting": "다합에는 자체 공항이 없다. 가장 가까운 공항은 남쪽으로 약 90km 떨어진 샤름 엘 셰이크 국제공항(Sharm El Sheikh International, SSH)으로, 차로 약 1시간 30분 정도 걸린다. 대부분의 여행자는 샤름 엘 셰이크로 입국한 뒤, 그곳 지역 거점에서 전용 차량 транс퍼, 택시, 또는 장거리 버스를 이용해 다합까지 이동한다.",
+      "days": "마을의 느긋한 리듬에 적응하고, 몇몇 다이빙 포인트를 즐기며, 컬러드 캐니언(Coloured Canyon)이나 세인트 캐서린(St Catherine)으로 당일치기 여행을 다녀오려면 약 3~5일 정도 일정을 잡는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "ダハブは、アカバ湾に面した紅海沿いののどかな町。ラグーンでのウィンドサーフィンや、ダイビングスポットとして有名なブルーホールで知られ、ベドウィンの文化が色濃く残るバックパッカー向けの雰囲気は、エジプトの大型リゾート地とはまったく違う空気を漂わせている。低層のゲストハウスやビーチ沿いのカフェが並び、時間がゆっくり流れるこの町は、ダイバーやクライマー、そして「気づけば長居していた」旅行者たちに昔から愛され続けている。",
+      "getting": "ダハブには空港がなく、最寄りの空港はシャルム・エル・シェイク国際空港（SSH）。町から約90km南に位置し、車で1時間半ほどの距離だ。多くの旅行者はシャルム・エル・シェイクまで飛行機で入り、そこから専用送迎車やタクシー、長距離バスを使ってダハブへ向かう。",
+      "days": "町のペースに馴染み、いくつかのダイビングスポットを楽しみ、カラード・キャニオンや聖カトリーナへの日帰り旅行も取り入れるなら、3～5日程度は見ておきたい。"
+    },
+    "es": {
+      "blurb": "Dahab es una ciudad tranquila del Mar Rojo, situada a orillas del golfo de Aqaba, conocida por el windsurf en su laguna, el famoso punto de buceo del Blue Hole y un ambiente con influencia beduina, acogedor para mochileros, que se siente muy alejado de los grandes centros turísticos de Egipto. Sus casas de huéspedes de baja altura, cafés frente al mar y un ritmo de vida pausado la han convertido, desde hace años, en una favorita de buceadores, escaladores y viajeros que terminan quedándose más tiempo del planeado.",
+      "getting": "Dahab no tiene aeropuerto propio: el más cercano es el Aeropuerto Internacional de Sharm El Sheikh (SSH), unos 90 km al sur, a aproximadamente 1,5 horas en coche. La mayoría de los viajeros llega en avión a Sharm El Sheikh y continúa en traslado privado, taxi o autobús de larga distancia desde ese centro regional.",
+      "days": "Conviene reservar entre 3 y 5 días para adaptarse al ritmo de la ciudad, bucear en algunos puntos destacados y hacer una excursión de un día al interior, hacia el Cañón de Colores o Santa Catalina."
+    },
+    "zh": {
+      "blurb": "达哈布（Dahab）是位于亚喀巴湾畔的一座红海小镇，气氛悠闲随性。这里以泻湖风帆冲浪、蓝洞（Blue Hole）潜水点，以及一种深受贝都因文化影响、对背包客格外友好的慢节奏生活而闻名，与埃及其他大型度假胜地的喧嚣截然不同。低矮的民宿旅馆、临海的小咖啡馆，加上这里悠然的生活步调，让达哈布长久以来都是潜水爱好者、攀岩客，以及那些原本只打算短住、结果却待得比计划更久的旅行者们的心头好。",
+      "getting": "达哈布本身没有机场，最近的机场是沙姆沙伊赫国际机场（SSH），位于其以南约90公里处，车程大约1.5小时。大多数旅行者会先飞抵沙姆沙伊赫，再从这个区域枢纽转乘私人接送车、出租车或长途巴士前往达哈布。",
+      "days": "建议安排约3到5天的时间，让自己慢慢融入小镇的生活节奏，体验几个潜水地点，并可安排一日游前往内陆的彩色峡谷（Coloured Canyon）或圣凯瑟琳（St Catherine）。"
+    }
+  },
+  "Dendera": {
+    "en": {
+      "blurb": "Dendera's Temple of Hathor is one of Egypt's best-preserved Ptolemaic and Roman-era sanctuaries, famed for its vividly decorated ceilings, hidden crypts and the celebrated Dendera Zodiac. Set on the Nile's west bank near Qena, it draws far fewer crowds than Luxor's major sites while offering an equally rich glimpse into ancient religious life.",
+      "getting": "Most travellers fly into Luxor International Airport (LXR), the nearest airport, then reach Dendera by private car, taxi or organised tour on the road north to Qena, a trip of roughly 1 to 1.5 hours each way. Budget travellers can instead take the train from Luxor to Qena and continue by taxi or microbus for the final short stretch to the temple.",
+      "days": "Dendera is typically visited as a half-day trip from Luxor, allowing ~2-3 hours to explore the temple's halls, crypts and rooftop chapels before returning the same day."
+    },
+    "ko": {
+      "blurb": "덴데라의 하토르 신전은 이집트에서 가장 보존 상태가 뛰어난 프톨레마이오스·로마 시대 신전 중 하나로, 화려한 색채로 장식된 천장과 숨겨진 지하실, 그리고 유명한 '덴데라 조디악(황도대)'으로 잘 알려져 있습니다. 케나 인근 나일강 서안에 자리한 이곳은 룩소르의 주요 유적지에 비해 관광객이 훨씬 적으면서도, 고대 종교 생활을 생생하게 들여다볼 수 있는 못지않게 풍부한 경험을 선사합니다.",
+      "getting": "대부분의 여행자는 가장 가까운 공항인 룩소르 국제공항(LXR)으로 입국한 뒤, 자가용이나 택시, 또는 단체 투어를 이용해 북쪽 케나 방면 도로를 따라 덴데라로 이동합니다. 편도로 약 1시간에서 1시간 30분 정도 소요됩니다. 예산을 아끼려는 여행자라면 룩소르에서 케나까지 기차를 타고, 신전까지 남은 짧은 구간은 택시나 미니버스(마이크로버스)로 이동하는 방법도 있습니다.",
+      "days": "덴데라는 보통 룩소르에서 당일로 다녀오는 반나절 일정으로 방문하며, 신전의 홀과 지하실, 옥상 예배당 등을 둘러보는 데 약 2~3시간 정도를 할애한 뒤 같은 날 돌아오는 것이 일반적입니다."
+    },
+    "ja": {
+      "blurb": "デンデラのハトホル神殿は、プトレマイオス朝からローマ時代にかけての神殿の中でもひときわ保存状態が良いことで知られ、色鮮やかな天井画や隠し地下室、そして有名な「デンデラの黄道十二宮」で名を馳せています。ケナ近郊、ナイル川西岸に位置するこの神殿は、ルクソールの主要観光地に比べて訪れる人が少なく、それでいて古代の信仰世界を存分に味わえる穴場スポットです。",
+      "getting": "多くの旅行者は、最寄りのルクソール国際空港(LXR)まで飛行機で向かい、そこから自家用車やタクシー、または現地ツアーを利用して北のケナ方面へ向かう道をたどり、片道1~1.5時間ほどでデンデラに到着します。予算を抑えたい旅行者には、ルクソールからケナまで列車で移動し、残りの短い区間をタクシーやマイクロバスでつなぐという方法もおすすめです。",
+      "days": "デンデラは通常、ルクソールからの半日旅行として訪れられます。神殿の広間や地下室、屋上の礼拝堂などをじっくり見て回るのに2~3時間ほどを見込んでおけば、その日のうちにルクソールへ戻ることができます。"
+    },
+    "es": {
+      "blurb": "El Templo de Hathor en Dendera es uno de los santuarios mejor conservados de la época ptolemaica y romana en Egipto, célebre por sus techos decorados con vivos colores, sus criptas ocultas y el famoso Zodiaco de Dendera. Ubicado en la orilla occidental del Nilo, cerca de Qena, recibe muchos menos visitantes que los grandes sitios de Luxor, aunque ofrece una visión igual de rica sobre la vida religiosa del Egipto antiguo.",
+      "getting": "La mayoría de los viajeros llega al Aeropuerto Internacional de Luxor (LXR), el más cercano, y desde allí se dirige a Dendera en coche privado, taxi o excursión organizada por la carretera que va hacia el norte, en dirección a Qena, un trayecto de aproximadamente 1 a 1,5 horas en cada sentido. Quienes viajan con un presupuesto más ajustado pueden tomar el tren de Luxor a Qena y continuar en taxi o microbús el breve tramo final hasta el templo.",
+      "days": "Dendera suele visitarse como excursión de medio día desde Luxor, dedicando entre 2 y 3 horas a recorrer las salas del templo, sus criptas y las capillas de la azotea, antes de regresar el mismo día."
+    },
+    "zh": {
+      "blurb": "丹德拉的哈托尔神庙是埃及保存最完好的托勒密与罗马时期神庙之一，以色彩绚丽的天花板壁画、隐秘的地下墓室以及闻名遐迩的丹德拉黄道十二宫图而著称。神庙坐落于尼罗河西岸、凯纳附近，与卢克索的热门景点相比游客稀少得多，却能让人同样深入领略古埃及的宗教生活风貌。",
+      "getting": "大多数游客会先飞抵最近的卢克索国际机场（LXR），再乘坐私家车、出租车或参加旅行团，沿公路北上前往凯纳附近的丹德拉，单程车程约1至1.5小时。预算有限的游客则可以选择从卢克索乘火车到凯纳，再换乘出租车或小巴走完通往神庙的最后一小段路程。",
+      "days": "丹德拉通常作为从卢克索出发的半日游景点，游客一般会花约2至3小时参观神庙的大厅、地下墓室和屋顶小礼拜堂，然后当天返回。"
+    }
+  },
+  "Edfu": {
+    "en": {
+      "blurb": "Edfu is home to the Temple of Horus, the most completely preserved temple in Egypt, with towering pylons and intact roofed sanctuaries that give a rare, full sense of how an ancient Egyptian temple actually functioned. Set on the Nile's west bank roughly midway between Luxor and Aswan, the town itself is a modest agricultural centre, but its temple draws a steady stream of river traffic and day visitors.",
+      "getting": "Edfu has no airport of its own: travellers fly into Luxor (LXR) or Aswan (ASW) and continue by road or rail, since the town sits directly on Egypt's Nile Valley railway line linking Cairo, Luxor and Aswan. Most visitors, however, arrive by Nile cruise boat, which docks near the temple as a standard stop on Luxor-Aswan itineraries.",
+      "days": "A few hours is enough to see the Temple of Horus itself, but allow a half to full day if combining Edfu with the nearby temples at Kom Ombo and Esna as an overland excursion."
+    },
+    "ko": {
+      "blurb": "에드푸는 이집트에서 가장 완벽하게 보존된 신전인 호루스 신전으로 유명한 곳이다. 웅장한 탑문과 지붕이 그대로 남아 있는 성소를 갖추고 있어, 고대 이집트 신전이 실제로 어떻게 기능했는지를 온전히 느낄 수 있는 몇 안 되는 장소다. 나일강 서안, 룩소르와 아스완의 중간쯤에 자리한 에드푸 자체는 소박한 농업 중심지에 불과하지만, 이곳의 신전은 끊임없이 이어지는 선박 교통편과 당일 방문객들을 끌어모은다.",
+      "getting": "에드푸에는 자체 공항이 없다. 여행자들은 룩소르(LXR)나 아스완(ASW)으로 비행기를 타고 도착한 뒤 육로나 철도로 이동하게 되는데, 에드푸가 카이로, 룩소르, 아스완을 잇는 이집트 나일 밸리 철도선 상에 바로 위치해 있기 때문이다. 하지만 대부분의 방문객은 나일강 크루즈선을 타고 도착하며, 이는 룩소르-아스완 일정의 표준 기항지로 신전 인근에 정박한다.",
+      "days": "호루스 신전만 둘러보는 데는 몇 시간이면 충분하지만, 인근 콤 옴보와 에스나 신전을 묶어 육로 당일 여행으로 다녀올 계획이라면 반나절에서 하루 정도를 잡는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "エドフは、エジプトで最も保存状態の良い神殿であるホルス神殿がある町として知られています。そびえ立つ塔門や屋根まで残る内部聖域など、古代エジプトの神殿が実際にどのように機能していたのかを今に伝える、非常に貴重な遺構です。ナイル川西岸、ルクソールとアスワンのほぼ中間に位置するこの町自体は、こぢんまりとした農業の中心地にすぎませんが、神殿を目当てに多くの船旅の立ち寄り客や日帰り観光客が訪れます。",
+      "getting": "エドフには空港がないため、旅行者はルクソール(LXR)かアスワン(ASW)まで飛行機で行き、そこから陸路または鉄道で向かうことになります。エドフは、カイロ、ルクソール、アスワンを結ぶエジプトのナイル渓谷鉄道の沿線上にあるため、鉄道でもアクセス可能です。ただし、ほとんどの観光客はナイルクルーズ船で訪れます。神殿近くの船着き場は、ルクソール~アスワン間の定番の寄港地となっています。",
+      "days": "ホルス神殿だけを見るなら数時間で十分ですが、近くのコム・オンボやエスナの神殿も合わせて陸路で巡る日帰り旅行にする場合は、半日から丸一日を見ておくとよいでしょう。"
+    },
+    "es": {
+      "blurb": "Edfu alberga el Templo de Horus, el templo mejor conservado de todo Egipto, con sus imponentes pilonos y santuarios techados que se mantienen intactos, lo que permite hacerse una idea poco común y completa de cómo funcionaba realmente un templo del antiguo Egipto. Situada en la orilla occidental del Nilo, a medio camino entre Luxor y Asuán, la propia localidad es un modesto centro agrícola, pero su templo atrae un flujo constante de tráfico fluvial y visitantes de un día.",
+      "getting": "Edfu no cuenta con aeropuerto propio: los viajeros llegan en avión a Luxor (LXR) o Asuán (ASW) y continúan por carretera o ferrocarril, ya que la localidad se encuentra justo sobre la línea férrea del Valle del Nilo que une El Cairo, Luxor y Asuán. Sin embargo, la mayoría de los visitantes llega en crucero por el Nilo, que atraca cerca del templo como parada habitual en los itinerarios entre Luxor y Asuán.",
+      "days": "Con unas pocas horas basta para visitar el Templo de Horus, pero conviene reservar entre medio día y un día completo si se combina Edfu con los cercanos templos de Kom Ombo y Esna en una excursión terrestre."
+    },
+    "zh": {
+      "blurb": "埃德富是荷鲁斯神庙的所在地，这是埃及保存最完整的神庙，高耸的塔门和完好无损的有顶圣所，让人得以难得一窥古埃及神庙的真实运作方式。小镇坐落在尼罗河西岸，大致位于卢克索与阿斯旺之间，本身只是一个不起眼的农业小镇，但神庙每天都吸引着络绎不绝的游船和观光客。",
+      "getting": "埃德富本身没有机场：游客通常先飞往卢克索（LXR）或阿斯旺（ASW），再转乘陆路或铁路前往，因为该镇正好位于连接开罗、卢克索与阿斯旺的尼罗河谷铁路线上。不过，大多数游客是乘尼罗河游轮抵达的，游轮会停靠在神庙附近，这是卢克索—阿斯旺航线上的常规停靠站。",
+      "days": "参观荷鲁斯神庙本身几个小时就足够了，但如果想把埃德富与附近的孔翁波神庙和埃斯纳神庙一起列入陆路游览行程，建议留出半天到一整天的时间。"
+    }
+  },
+  "El Gouna": {
+    "en": {
+      "blurb": "El Gouna is a purpose built resort town on Egypt's Red Sea coast, laid out across a network of islands and saltwater lagoons connected by bridges and canals. Unlike the denser sprawl of nearby Hurghada, it is a planned, self contained destination known for its marinas, golf course, kitesurfing and relaxed, walkable streets.",
+      "getting": "Almost all visitors arrive via Hurghada International Airport (HRG), the nearest airport, with the onward journey to El Gouna taking roughly ~30 to 40 minutes by taxi or pre-booked transfer. Many hotels also offer their own airport shuttle services for an extra fee.",
+      "days": "Plan on ~2 to 4 days to settle into the lagoon life, cover the marina, beaches and a boat trip through the canals, with extra time if you want to add diving, kitesurfing or a round of golf."
+    },
+    "ko": {
+      "blurb": "엘 구나는 이집트 홍해 연안에 조성된 계획도시형 리조트 타운으로, 다리와 수로로 이어진 섬과 염수 라군들이 그물망처럼 펼쳐져 있습니다. 인접한 후르가다가 번잡하게 뻗어나간 느낌이라면, 엘 구나는 처음부터 치밀하게 설계된 독립적인 휴양지로, 마리나와 골프 코스, 카이트서핑, 그리고 여유롭게 걸어다닐 수 있는 거리로 유명합니다.",
+      "getting": "대부분의 여행객은 가장 가까운 공항인 후르가다 국제공항(HRG)을 통해 입국하며, 엘 구나까지는 택시나 사전 예약한 транс퍼로 약 30~40분 정도 더 이동해야 합니다. 많은 호텔에서 추가 요금을 받고 자체 공항 셔틀 서비스를 운영하기도 합니다.",
+      "days": "라군 특유의 여유로운 분위기에 적응하고 마리나와 해변을 둘러보며 운하를 따라 보트 투어를 즐기려면 약 2~4일 정도를 계획하세요. 다이빙이나 카이트서핑, 골프 한 라운드까지 즐기고 싶다면 시간을 좀 더 넉넉히 잡는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "エル・グーナは、エジプトの紅海沿岸に造られたリゾートタウンで、橋と運河で結ばれた島々と塩水ラグーンのネットワークの上に広がっています。近隣のハルガダのような密集した市街地とは異なり、ここは計画的に作られた独立型のリゾート地で、マリーナやゴルフコース、カイトサーフィン、そしてのんびり歩ける街並みで知られています。",
+      "getting": "ほとんどの旅行者は、最寄りの空港であるハルガダ国際空港(HRG)を利用して訪れます。そこからエル・グーナまではタクシーまたは事前予約の送迎で約30〜40分ほどです。多くのホテルでは追加料金で独自の空港シャトルサービスも提供しています。",
+      "days": "ラグーンでの暮らしに馴染み、マリーナやビーチを巡り、運河をボートで巡るツアーを楽しむには、2〜4日ほど見ておくとよいでしょう。ダイビングやカイトサーフィン、ゴルフも楽しみたい場合は、さらに日数を追加してください。"
+    },
+    "es": {
+      "blurb": "El Gouna es una ciudad turística construida desde cero en la costa egipcia del Mar Rojo, distribuida a lo largo de una red de islas y lagunas de agua salada conectadas por puentes y canales. A diferencia del trazado más denso de la cercana Hurghada, se trata de un destino planificado y autosuficiente, conocido por sus marinas, su campo de golf, el kitesurf y unas calles tranquilas y perfectas para recorrer a pie.",
+      "getting": "Casi todos los visitantes llegan a través del Aeropuerto Internacional de Hurghada (HRG), el más cercano a la zona, desde donde el trayecto hasta El Gouna dura aproximadamente entre 30 y 40 minutos en taxi o traslado reservado con antelación. Muchos hoteles también ofrecen su propio servicio de traslado desde el aeropuerto por un costo adicional.",
+      "days": "Calcula entre 2 y 4 días para adaptarte al ritmo de vida junto a la laguna, recorrer la marina, disfrutar de las playas y hacer un paseo en barco por los canales, sumando tiempo extra si quieres practicar buceo, kitesurf o jugar una ronda de golf."
+    },
+    "zh": {
+      "blurb": "古纳是埃及红海海岸一座精心规划的度假小镇,由一系列岛屿和咸水泻湖组成,岛屿之间由桥梁和水道相连。与邻近、更显拥挤杂乱的赫尔格达不同,古纳是一个经过统一规划、自成一体的目的地,以其游艇码头、高尔夫球场、风筝冲浪以及悠闲宜人、适合步行的街道而闻名。",
+      "getting": "绝大多数游客经由最近的赫尔格达国际机场(HRG)抵达,再转乘出租车或预订好的接送车前往古纳,车程大约30到40分钟。许多酒店也提供额外付费的机场接送服务。",
+      "days": "建议安排约2到4天时间,慢慢融入泻湖风情,游览游艇码头、海滩,并乘船穿梭于水道之间;若还想体验潜水、风筝冲浪或打一场高尔夫,记得预留更多时间。"
+    }
+  },
+  "Hurghada": {
+    "en": {
+      "blurb": "Hurghada is Egypt's largest Red Sea resort town, a stretch of coastline lined with all-inclusive hotels, dive centres and coral reefs facing the Giftun Islands. Once a small fishing village, it has grown into the country's main beach gateway, prized for warm water, reliable sun and easy add-on trips to the Nile Valley.",
+      "getting": "Most travellers fly directly into Hurghada International Airport (HRG), which sits a few kilometres inland from the city and handles both international charters and regular scheduled flights. From the airport, taxis and minibuses run into central Hurghada in roughly 20 minutes; there is no passenger rail link, so onward travel to other towns is by road.",
+      "days": "Plan on 3 to 7 days: three covers the beaches, marina and a snorkelling or diving trip, while a full week allows for island excursions, desert safaris and a side trip to Luxor."
+    },
+    "ko": {
+      "blurb": "후르가다는 이집트 최대의 홍해 휴양 도시로, 해안을 따라 올인클루시브 호텔과 다이빙 센터가 늘어서 있고 기프툰 제도를 마주한 산호초가 펼쳐져 있다. 한때는 작은 어촌 마을에 불과했지만, 지금은 이집트를 대표하는 해변 관문 도시로 성장했다. 따뜻한 바닷물과 변함없는 햇살, 그리고 나일 밸리로 쉽게 떠날 수 있는 당일치기 여행지로서의 매력 덕분에 많은 여행자들이 이곳을 찾는다.",
+      "getting": "대부분의 여행자는 후르가다 국제공항(HRG)으로 직항편을 이용해 들어온다. 공항은 시내에서 내륙 쪽으로 몇 킬로미터 떨어진 곳에 있으며, 국제 전세기와 정기 운항편을 모두 취급한다. 공항에서 택시나 미니버스를 이용하면 후르가다 시내 중심부까지 약 20분이면 도착할 수 있다. 여객 열차 노선은 따로 없기 때문에 다른 도시로 이동할 때는 육로를 이용해야 한다.",
+      "days": "일정은 3일에서 7일 정도가 적당하다. 3일이면 해변과 마리나를 둘러보고 스노클링이나 다이빙 투어를 즐기기에 충분하며, 일주일 정도 머문다면 섬 탐방, 사막 사파리, 그리고 룩소르로의 당일 여행까지 여유 있게 즐길 수 있다."
+    },
+    "ja": {
+      "blurb": "フルガダはエジプト最大の紅海リゾートタウンで、オールインクルーシブのホテルやダイビングセンターが立ち並び、ギフトゥン諸島を望むサンゴ礁が広がる海岸沿いの町です。かつては小さな漁村でしたが、今ではエジプトを代表するビーチ観光の玄関口として発展し、温かい海水と安定した晴天、そしてナイル渓谷への手軽な小旅行ができる点が魅力となっています。",
+      "getting": "多くの旅行者はフルガダ国際空港（HRG）に直接到着します。空港は市街地から内陸へ数キロの場所にあり、国際チャーター便と定期便の両方が発着しています。空港からタクシーやミニバスを利用すれば、フルガダ中心部まで約20分で到着します。旅客鉄道はないため、他の町への移動は陸路に限られます。",
+      "days": "滞在日数の目安は3日から7日です。3日あればビーチやマリーナを巡り、シュノーケリングやダイビングを楽しむことができます。1週間あれば、島への小旅行や砂漠サファリ、さらにルクソールへの小旅行も組み込めます。"
+    },
+    "es": {
+      "blurb": "Hurghada es la mayor ciudad turística del Mar Rojo en Egipto, un tramo de costa repleto de hoteles todo incluido, centros de buceo y arrecifes de coral frente a las islas Giftun. Lo que antes fue un pequeño pueblo de pescadores se ha convertido en la principal puerta de entrada del país a la playa, apreciada por sus aguas cálidas, su sol garantizado y la facilidad para combinar la visita con excursiones al Valle del Nilo.",
+      "getting": "La mayoría de los viajeros llega directamente al Aeropuerto Internacional de Hurghada (HRG), situado a pocos kilómetros tierra adentro de la ciudad, que recibe tanto vuelos chárter internacionales como vuelos regulares. Desde el aeropuerto, taxis y minibuses llegan al centro de Hurghada en unos 20 minutos; no existe conexión ferroviaria para pasajeros, así que para continuar hacia otras localidades hay que hacerlo por carretera.",
+      "days": "Lo ideal es dedicarle entre 3 y 7 días: con tres días alcanza para disfrutar de las playas, el puerto deportivo y una salida de esnórquel o buceo, mientras que una semana completa permite sumar excursiones a las islas, safaris por el desierto y una escapada a Luxor."
+    },
+    "zh": {
+      "blurb": "赫尔格达是埃及最大的红海度假城市，沿岸遍布全包式酒店和潜水中心，面朝吉夫顿群岛的珊瑚礁一字排开。这里曾只是个小渔村，如今已发展成埃及首屈一指的海滨度假胜地，以温暖的海水、稳定的日照，以及便捷的尼罗河谷延伸游而备受青睐。",
+      "getting": "大多数游客会直接飞抵赫尔格达国际机场（HRG），该机场位于市区以内陆方向几公里处，既承接国际包机航班，也有定期航班起降。从机场乘坐出租车或小巴前往市中心约需20分钟；由于没有客运铁路连接，前往其他城镇需走陆路。",
+      "days": "建议停留3到7天：三天足以游览海滩、码头，并安排一次浮潜或潜水活动；若时间充裕，整整一周则可以加上海岛游、沙漠探险，以及前往卢克索的短途旅行。"
+    }
+  },
+  "Kom Ombo": {
+    "en": {
+      "blurb": "Kom Ombo is famous for its unique double temple, dedicated side by side to the crocodile god Sobek and the falcon god Haroeris, perched on a bend of the Nile between Edfu and Aswan. Most travellers see it as a graceful riverside stop rather than a destination in itself, pairing the temple's Ptolemaic reliefs with its small Crocodile Museum.",
+      "getting": "Kom Ombo has its own station on the Aswan-Luxor railway line, and sits around 45 to 50 km north of Aswan International Airport (ASW), the nearest air gateway. Most visitors arrive by Nile cruise boat, as a day trip by road or train from Aswan, or as a stop on the longer road route between Luxor and Aswan.",
+      "days": "Half a day is enough to cover the temple grounds and the Crocodile Museum, which is why most travellers treat Kom Ombo as a stopover rather than an overnight stay."
+    },
+    "ko": {
+      "blurb": "콤 옴보는 나일강이 에드푸와 아스완 사이에서 굽이치는 지점에 자리한 독특한 이중 신전으로 유명합니다. 이 신전은 악어 신 소베크와 매의 신 하로에리스를 나란히 모시고 있습니다. 대부분의 여행자들은 이곳을 하나의 독립된 목적지라기보다는 강변의 우아한 경유지로 여기며, 프톨레마이오스 시대 부조가 새겨진 신전과 자그마한 악어 박물관을 함께 둘러봅니다.",
+      "getting": "콤 옴보에는 아스완-룩소르 철도 노선 상의 자체 역이 있으며, 가장 가까운 공항인 아스완 국제공항(ASW)에서 북쪽으로 약 45~50km 떨어져 있습니다. 대부분의 방문객은 나일강 크루즈선을 타고 도착하거나, 아스완에서 도로나 기차로 당일치기 여행을 하거나, 룩소르와 아스완을 잇는 더 긴 육로 여정 중 한 경유지로 이곳을 들릅니다.",
+      "days": "신전 경내와 악어 박물관을 둘러보는 데는 반나절이면 충분합니다. 그래서 대부분의 여행자들은 콤 옴보에서 숙박하기보다는 잠시 들르는 경유지로 여깁니다."
+    },
+    "ja": {
+      "blurb": "コム・オンボは、ナイル川がエドフとアスワンの間で大きく湾曲する地点に建つ、ワニの神ソベクと鷹の神ハロエリスを左右対称に祀るユニークな二重神殿で知られています。神殿単独の見どころというよりも、ナイル川沿いの優雅な中継地として訪れる旅行者がほとんどで、プトレマイオス朝時代のレリーフと、隣接する小さなワニ博物館をあわせて見学するのが定番です。",
+      "getting": "コム・オンボにはアスワン〜ルクソール鉄道線の独自の駅があり、最寄りの空の玄関口であるアスワン国際空港(ASW)からは北へ約45〜50kmの距離に位置しています。多くの旅行者は、ナイル川クルーズ船で訪れるか、アスワンから車や鉄道での日帰り旅行として立ち寄るか、あるいはルクソールとアスワンを結ぶ長距離の陸路移動の途中で立ち寄る形で訪れます。",
+      "days": "神殿の境内とワニ博物館を見て回るには半日もあれば十分で、そのためほとんどの旅行者はコム・オンボを宿泊地としてではなく、通過点として訪れています。"
+    },
+    "es": {
+      "blurb": "Kom Ombo es famosa por su singular templo doble, dedicado a la vez al dios cocodrilo Sobek y al dios halcón Haroeris, asentado en una curva del Nilo entre Edfu y Asuán. La mayoría de los viajeros lo ven más como una elegante parada junto al río que como un destino en sí mismo, combinando los relieves ptolemaicos del templo con su pequeño Museo del Cocodrilo.",
+      "getting": "Kom Ombo cuenta con su propia estación en la línea ferroviaria Asuán-Luxor, y se encuentra a unos 45-50 km al norte del Aeropuerto Internacional de Asuán (ASW), la puerta de entrada aérea más cercana. La mayoría de los visitantes llega en crucero por el Nilo, en una excursión de un día por carretera o en tren desde Asuán, o como parada en el trayecto más largo por carretera entre Luxor y Asuán.",
+      "days": "Con medio día es suficiente para recorrer el recinto del templo y el Museo del Cocodrilo, por lo que la mayoría de los viajeros consideran Kom Ombo una parada de paso más que un lugar para pasar la noche."
+    },
+    "zh": {
+      "blurb": "科姆翁布以其独特的\"双神庙\"闻名——两座神庙并肩而立，分别供奉鳄鱼神索贝克和鹰神哈罗埃里斯，坐落在埃德富与阿斯旺之间尼罗河的一处河湾上。大多数游客并不会专程为它而来，而是把它当作尼罗河沿岸一处优雅的中途停靠点，顺道参观神庙上的托勒密时期浮雕，以及旁边小巧的鳄鱼博物馆。",
+      "getting": "科姆翁布在阿斯旺—卢克索铁路线上设有自己的车站，距离最近的空中门户——阿斯旺国际机场（ASW）约45至50公里。大多数游客选择乘坐尼罗河游轮抵达，或从阿斯旺出发以陆路、铁路进行一日往返，也有人将其作为卢克索与阿斯旺之间陆路长途行程中的一处停靠站。",
+      "days": "半天时间足以游览神庙建筑群和鳄鱼博物馆，因此大多数游客都把科姆翁布当作中途一站，而不会在此过夜。"
+    }
+  },
+  "Sharm El Sheikh": {
+    "en": {
+      "blurb": "Sharm El Sheikh sits on a desert promontory where the Sinai Peninsula meets the Red Sea, its clear waters and coral reefs drawing divers and sun-seekers to a strip of resorts around Naama Bay. Once a small fishing outpost, it has grown into one of Egypt's most visited destinations, built almost entirely around tourism rather than an old town centre.",
+      "getting": "Most travellers fly directly into Sharm El Sheikh International Airport (SSH), which handles both international and domestic routes; from there, taxis and hotel shuttles reach the main resort areas like Naama Bay in roughly 15 to 25 minutes depending on location. There is no rail line to Sharm El Sheikh, so onward travel to other Sinai or Red Sea towns is by road, typically via bus or private transfer from the regional hub.",
+      "days": "Plan on ~3 to 5 days to settle into resort life, dive or snorkel the reefs, and take a day trip inland, though many visitors extend this into a full week-long beach stay."
+    },
+    "ko": {
+      "blurb": "샤름 엘 셰이크는 시나이 반도가 홍해와 만나는 사막의 곶에 자리하고 있으며, 투명한 바닷물과 산호초 덕분에 다이버와 휴양객들이 나마 베이 주변 리조트 지대로 몰려드는 곳이다. 원래는 작은 어촌에 불과했지만, 지금은 옛 시가지를 중심으로 발전한 것이 아니라 관광업 자체를 기반으로 성장하여 이집트에서 가장 많은 사람들이 찾는 관광지 중 하나가 되었다.",
+      "getting": "대부분의 여행객은 국제선과 국내선을 모두 운항하는 샤름 엘 셰이크 국제공항(SSH)으로 직접 입국한다. 공항에서 택시나 호텔 셔틀을 이용하면 위치에 따라 약 15~25분 만에 나마 베이 같은 주요 리조트 지역에 도착할 수 있다. 샤름 엘 셰이크에는 철도가 없기 때문에, 시나이나 홍해 연안의 다른 도시로 이동하려면 지역 거점에서 버스나 프라이빗 차량을 이용해 육로로 이동해야 한다.",
+      "days": "리조트 생활에 적응하고 산호초에서 다이빙이나 스노클링을 즐기며 내륙으로 당일치기 여행을 다녀오려면 보통 3~5일 정도를 계획하면 되지만, 많은 여행객들이 이를 일주일 정도의 해변 휴양으로 늘려 즐기기도 한다."
+    },
+    "ja": {
+      "blurb": "シャルム・エル・シェイクは、シナイ半島が紅海と出会う砂漠の岬に位置するリゾートタウンです。透き通った海とサンゴ礁が、ダイバーやビーチ好きの旅行者をナーマ・ベイ周辺のリゾート街へと引き寄せています。かつては小さな漁村に過ぎなかったこの町も、今やエジプト屈指の観光地へと発展しました。歴史ある旧市街のようなものはなく、街そのものがほぼ観光のために築かれています。",
+      "getting": "ほとんどの旅行者は、国際線・国内線の両方に対応するシャルム・エル・シェイク国際空港(SSH)に直接飛行機で到着します。空港からはタクシーやホテルのシャトルバスを利用でき、ナーマ・ベイなどの主要リゾートエリアまでは、場所にもよりますがおよそ15〜25分ほどで着きます。シャルム・エル・シェイクには鉄道が通っていないため、シナイ半島や紅海沿岸の他の町へ向かう際は、バスまたは専用の送迎車を利用して陸路で移動するのが一般的です。",
+      "days": "リゾートライフを満喫し、サンゴ礁でのダイビングやシュノーケリングを楽しみ、内陸への日帰り旅行も含めるなら、目安として3〜5日ほど見ておくとよいでしょう。ただ、多くの旅行者はこの滞在をさらに延ばし、1週間ほどのビーチ滞在にする傾向があります。"
+    },
+    "es": {
+      "blurb": "Sharm El Sheikh se asienta sobre un promontorio desértico donde la península del Sinaí se encuentra con el mar Rojo. Sus aguas cristalinas y arrecifes de coral atraen a buceadores y amantes del sol hacia una franja de resorts alrededor de Naama Bay. Lo que antes fue un pequeño puesto de pescadores se ha convertido en uno de los destinos más visitados de Egipto, construido casi por completo en torno al turismo y no a un casco urbano tradicional.",
+      "getting": "La mayoría de los viajeros llega directamente al Aeropuerto Internacional de Sharm El Sheikh (SSH), que opera tanto vuelos internacionales como domésticos; desde allí, los taxis y traslados de los hoteles llegan a las principales zonas turísticas, como Naama Bay, en aproximadamente 15 a 25 minutos, según la ubicación. Sharm El Sheikh no cuenta con conexión ferroviaria, por lo que para continuar hacia otras localidades del Sinaí o del mar Rojo hay que viajar por carretera, normalmente en autobús o traslado privado desde este punto de conexión regional.",
+      "days": "Conviene reservar entre 3 y 5 días para disfrutar de la vida en el resort, bucear o hacer esnórquel en los arrecifes y realizar alguna excursión de un día hacia el interior, aunque muchos visitantes prolongan su estancia hasta una semana completa de playa."
+    },
+    "zh": {
+      "blurb": "沙姆沙伊赫坐落在西奈半岛与红海交汇处的一片沙漠海角上，清澈的海水和绚丽的珊瑚礁吸引着潜水爱好者和阳光度假客，沿着纳玛湾周边分布着一连串度假村。这里曾只是一个小渔村，如今已发展成埃及最受欢迎的旅游目的地之一，几乎完全围绕旅游业而建，并没有传统意义上的老城区。",
+      "getting": "大多数游客会直接飞抵沙姆沙伊赫国际机场（SSH），该机场同时运营国际和国内航线；从机场乘坐出租车或酒店班车，大约15到25分钟即可到达纳玛湾等主要度假区，具体时间视目的地而定。沙姆沙伊赫没有铁路连接，因此前往西奈半岛或红海沿岸其他城镇，通常需要经由公路，乘坐巴士或私人接驳车从这一区域枢纽出发。",
+      "days": "建议安排约3到5天时间，惬意享受度假村生活、潜水或浮潜探索珊瑚礁，并安排一次内陆一日游；不过许多游客会将行程延长至一整周的海滩度假。"
+    }
   }
 }

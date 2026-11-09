@@ -573,6 +573,18 @@
   "reason": "release check: Sheikh Zayed Mosque, unrelated to a venue named Yana",
   "at": "2026-08-11T04:11:14.091Z"
  },
+ "abu-simbel-abu-simbel-temples\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Kleiner_Tempel_%28Abu_Simbel%29_02.jpg/3840px-Kleiner_Tempel_%28Abu_Simbel%29_02.jpg": {
+  "slug": "abu-simbel-abu-simbel-temples",
+  "verdict": "MATCH",
+  "reason": "publish gate: Representative facade view of Abu Simbel temple statues",
+  "at": "2026-11-09T07:45:45.588Z"
+ },
+ "abu-simbel-temple-of-nefertari\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Temple_of_Hathor_and_Nefertari%2C_Abu_Simbel%2C_AG%2C_EGY_%2848016997062%29.jpg/3840px-Temple_of_Hathor_and_Nefertari%2C_Abu_Simbel%2C_AG%2C_EGY_%2848016997062%29.jpg": {
+  "slug": "abu-simbel-temple-of-nefertari",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Temple of Nefertari facade at Abu Simbel accurately",
+  "at": "2026-11-09T07:45:45.389Z"
+ },
  "adelaide-adelaide-botanic-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Palm_House%2C_Adelaide_Botanic_Gardens.jpg/1920px-Palm_House%2C_Adelaide_Botanic_Gardens.jpg": {
   "slug": "adelaide-adelaide-botanic-garden",
   "verdict": "MATCH",
@@ -8444,6 +8456,12 @@
   "reasonKo": "현대적 카페 인테리어, 이탈리안 브랜드",
   "at": "2026-08-04T12:22:37.166Z"
  },
+ "dahab-islands-dive-site\u0001https://upload.wikimedia.org/wikipedia/commons/a/a8/Entry_Point_to_The_Islands_Dive_Site.jpg": {
+  "slug": "dahab-islands-dive-site",
+  "verdict": "MATCH",
+  "reason": "publish gate: Clear water over reef, plausible dive site view",
+  "at": "2026-11-09T07:45:45.689Z"
+ },
  "dalanzadgad-ongi-monastery\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Ongii_Monastery_19.jpg/1920px-Ongii_Monastery_19.jpg": {
   "slug": "dalanzadgad-ongi-monastery",
   "verdict": "MATCH",
@@ -8623,6 +8641,12 @@
   "reason": "Tropical garden with palm trees, water feature, Singapore se",
   "reasonKo": "열대 정원, 야자수, 물 경관, 싱가포르",
   "at": "2026-08-12T14:03:01.069Z"
+ },
+ "dendera-dendera-temple-of-hathor\u0001https://upload.wikimedia.org/wikipedia/commons/e/ee/Dendera_Temple_complex%2C_Temple_of_Hathor_-_panoramio_%2812%29.jpg": {
+  "slug": "dendera-dendera-temple-of-hathor",
+  "verdict": "MATCH",
+  "reason": "publish gate: Egyptian temple ruins with reliefs, representative of Dendera site",
+  "at": "2026-11-09T07:45:45.503Z"
  },
  "denpasar-sanur-village-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Balinese_Jukung_Boat.JPG/3840px-Balinese_Jukung_Boat.JPG": {
   "slug": "denpasar-sanur-village-festival",
@@ -9206,6 +9230,12 @@
   "reason": "patrol replace: Bruno Mars performance at concert venue",
   "at": "2026-08-09T04:12:23.094Z"
  },
+ "edfu-edfu-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Edfu_Temple_R04.jpg/3840px-Edfu_Temple_R04.jpg": {
+  "slug": "edfu-edfu-temple",
+  "verdict": "MATCH",
+  "reason": "publish gate: Pylon and ruins of Edfu Temple, representative view",
+  "at": "2026-11-09T07:45:45.433Z"
+ },
  "edinburgh-2026-scottish-open-snooker\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/2022_Scottish_Open_-_Renaissance_Club_%2852963612666%29.jpg/3840px-2022_Scottish_Open_-_Renaissance_Club_%2852963612666%29.jpg": {
   "slug": "edinburgh-2026-scottish-open-snooker",
   "verdict": "MISMATCH",
@@ -9289,6 +9319,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Aerial view of El Chaltén town and mountains, representative",
   "at": "2026-10-25T13:00:55.618Z"
+ },
+ "el-gouna-orange-bay\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Orange_bay.jpg/3840px-Orange_bay.jpg": {
+  "slug": "el-gouna-orange-bay",
+  "verdict": "MATCH",
+  "reason": "publish gate: Beach resort view matches Orange Bay El Gouna setting",
+  "at": "2026-11-09T07:45:45.535Z"
  },
  "el-nido-cadlao-lagoon\u0001https://fastly.4sqi.net/img/general/original/125542906_Mo31fgMNRtyAUxSCI4bHSS2J0uwf98yz7zrJ0vhJiQ0.jpg": {
   "slug": "el-nido-cadlao-lagoon",
@@ -13360,6 +13396,18 @@
   "reason": "publish gate: Striped multicolored mountain matches Serranía de Hornocal landscape",
   "at": "2026-10-26T15:36:48.649Z"
  },
+ "hurghada-hurghada-grand-aquarium\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Hurghada_Grand_Aquarium_by_Hatem_Moushir_1.JPG/1920px-Hurghada_Grand_Aquarium_by_Hatem_Moushir_1.JPG": {
+  "slug": "hurghada-hurghada-grand-aquarium",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior building with venue name clearly visible, representative shot",
+  "at": "2026-11-09T07:45:45.619Z"
+ },
+ "hurghada-marina-el-gouna\u0001https://upload.wikimedia.org/wikipedia/commons/b/b4/New_Marina_El_Gouna_Bridge_2026.09.15.jpg": {
+  "slug": "hurghada-marina-el-gouna",
+  "verdict": "MATCH",
+  "reason": "publish gate: Representative bridge and marina view in El Gouna",
+  "at": "2026-11-09T07:45:45.339Z"
+ },
  "hyderabad-baan-phadthai\u0001https://fastly.4sqi.net/img/general/original/11209416_N9YlOQCSVjRtIFsUHYQ1pTVGzIr6KVTW-pF5nFhtj_s.jpg": {
   "slug": "hyderabad-baan-phadthai",
   "verdict": "MATCH",
@@ -16736,6 +16784,12 @@
   "reason": "Iconic Victoria Memorial building, Kolkata exterior",
   "reasonKo": "콜카타 빅토리아 메모리얼 건물 외관",
   "at": "2026-08-12T14:03:20.629Z"
+ },
+ "kom-ombo-kom-ombo-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kom_Ombo_Temple%2C_Kom_Ombo%2C_AG%2C_EGY_%2848005076093%29.jpg/3840px-Kom_Ombo_Temple%2C_Kom_Ombo%2C_AG%2C_EGY_%2848005076093%29.jpg": {
+  "slug": "kom-ombo-kom-ombo-temple",
+  "verdict": "MATCH",
+  "reason": "publish gate: Carved columns and reliefs representative of Kom Ombo Temple",
+  "at": "2026-11-09T07:45:45.469Z"
  },
  "komodo-komodo-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/3/3a/Komodo_dragon_at_Komodo_National_Park.jpg": {
   "slug": "komodo-komodo-national-park",
@@ -30542,6 +30596,12 @@
   "verdict": "MISMATCH",
   "reason": "Image shows Sharjah waterfront, not a restaurant/venue",
   "at": "2026-07-25T02:49:34.862Z"
+ },
+ "sharm-el-sheikh-soho-square-sharm-el-sheikh\u0001https://upload.wikimedia.org/wikipedia/commons/3/36/Sharm_Soho_Square_R01.jpg": {
+  "slug": "sharm-el-sheikh-soho-square-sharm-el-sheikh",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior shows SOHO Square shops, architecture, matches venue",
+  "at": "2026-11-09T07:45:45.654Z"
  },
  "shenzhen-billie-jean-king-cup-finals\u0001https://upload.wikimedia.org/wikipedia/commons/c/cf/Billie_Jean_King_in_2024.jpg": {
   "slug": "shenzhen-billie-jean-king-cup-finals",

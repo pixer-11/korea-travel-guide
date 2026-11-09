@@ -1,68 +1,68 @@
 ---
 lang: es
 slug: belek-ironman-70-3-turkey
-srcHash: '1d8bf8dfffac'
+srcHash: '1ba76fe617da'
 title: 'Ironman 70.3 Turquía: fechas, inscripciones y sede (Belek)'
-description: La edición de 2026 del Ironman 70.3 Turquía es a principios de noviembre en Belek, la localidad de golf y complejos turísticos situada al este de Antalya.
-quickAnswer: La edición de 2026 del Ironman 70.3 Turquía es a principios de noviembre en Belek, la localidad de golf y complejos turísticos situada al este de Antalya. Se trata de un triatlón de media distancia que combina 1,9 km de natación, 90 km de ciclismo y 21,1 km de carrera a pie. The IRONMAN Group publica en ironman.com las fechas de la prueba, la inscripción de atletas y la información sobre la sede. El público que sigue la carrera a lo largo del recorrido no necesita entrada.
+description: El Ironman 70.3 Turquía estaba previsto para principios de noviembre de 2026 en Belek, al este de Antalya, con 1.9 km de natación, 90 km de ciclismo y 21.1 km de carrera a pie.
+quickAnswer: 'El Ironman 70.3 Turquía estaba previsto para principios de noviembre de 2026 en Belek, la localidad de campos de golf y grandes hoteles situada al este de Antalya. Se anunció en formato de triatlón de media distancia: 1.9 km de natación, 90 km de ciclismo y 21.1 km de carrera a pie. Los deportistas se inscribían a través de la página de registro de ironman.com. Los recorridos Ironman discurren por vías públicas y playas, así que el público no necesitaba entrada.'
 faq:
-  - q: ¿Cuándo es el Ironman 70.3 Turquía 2026?
-    a: La edición de 2026 es a principios de noviembre, en Belek. The IRONMAN Group publica en ironman.com el día exacto de la prueba y el programa completo de la semana de carrera.
-  - q: ¿Necesita entrada el público?
-    a: No. Como la prueba transcurre por carreteras y playas públicas, los acompañantes la siguen desde el recorrido sin pagar nada. Las únicas «entradas» son las inscripciones de los atletas, que se venden en la página de inscripción de ironman.com.
-  - q: ¿Cómo se llega a Belek desde el aeropuerto de Antalya?
-    a: Belek queda a poca distancia en coche al este del aeropuerto de Antalya (AYT) y a unos 35 km de la ciudad. La mayoría de los visitantes recurre a los autobuses de los hoteles o a traslados concertados de antemano. Los atletas suelen elegir un vehículo con espacio para la maleta de la bicicleta.
-  - q: ¿Cuáles son las distancias de la prueba?
-    a: Son 1,9 km de natación en el Mediterráneo, 90 km de ciclismo y una media maratón de 21,1 km. En total suman 70,3 millas, cifra de la que procede el nombre.
-  - q: ¿Qué se puede visitar cerca de Belek después de la carrera?
-    a: Muy cerca se encuentran el teatro romano de Aspendos y las ruinas de Perge. También son excelentes excursiones de un día el casco antiguo de Antalya, Kaleiçi, las ruinas y el paseo marítimo de Side y el Parque Nacional del Cañón de Köprülü.
+  - q: ¿Cuándo era el Ironman 70.3 Turquía 2026?
+    a: Las fechas anunciadas lo situaban a principios de noviembre de 2026, en Belek. El calendario de The IRONMAN Group abarcaba tanto el día de la carrera como toda una semana de actividades en torno a ella.
+  - q: ¿Necesitaba entrada el público?
+    a: No. Las pruebas Ironman se disputan en vías públicas y playas, de modo que los acompañantes siguen la carrera desde el recorrido sin pagar nada. Las únicas «entradas» eran las inscripciones de los deportistas, que se vendían en la página de registro de ironman.com.
+  - q: ¿Cómo se llegaba a Belek desde el aeropuerto de Antalya?
+    a: Belek queda a un corto trayecto en coche al este del aeropuerto de Antalya (AYT) y a unos 35 km de la ciudad. La mayoría de los visitantes recurre a los autobuses lanzadera de los hoteles o a traslados concertados de antemano. Los deportistas suelen optar por un vehículo con espacio para la caja de la bicicleta.
+  - q: ¿Cuáles eran las distancias de la carrera?
+    a: Se anunciaron 1.9 km de natación en el Mediterráneo, 90 km de ciclismo y 21.1 km de carrera a pie, es decir, una media maratón. En conjunto suman 70.3 millas, cifra de la que procede el nombre de la prueba.
+  - q: ¿Qué se podía visitar cerca de Belek después de la carrera?
+    a: Muy cerca se encuentran el teatro romano de Aspendos y las ruinas de Perge. El casco antiguo de Antalya, Kaleiçi, las ruinas y el paseo marítimo de Side y el Parque Nacional del Cañón de Köprülü son excelentes excursiones de un día.
 ---
 
-## Un triatlón en plena costa vacacional
+## Un triatlón en la costa de los grandes hoteles
 
-Belek está pensada para las vacaciones largas. Frente al mar se alinean grandes complejos hoteleros con acceso directo a la arena y, tras ellos, se extienden campos de golf y pinares. A principios de noviembre de 2026, la localidad acoge el Ironman 70.3 Turquía, una de las pruebas del circuito mundial Ironman 70.3. La mayoría de los participantes son deportistas de resistencia llegados del extranjero.
+Belek está pensada para las vacaciones largas. A lo largo del litoral se suceden grandes complejos hoteleros que dan directamente a la arena. Tras ellos se extienden campos de golf y pinares. Esta localidad fue la elegida como sede del Ironman 70.3 Turquía (Ironman 70.3 Turkey), una prueba del circuito mundial Ironman 70.3, con fecha a principios de noviembre de 2026. Este tipo de competiciones atrae sobre todo a deportistas de resistencia que llegan en avión desde el extranjero.
 
-El nombre alude a la distancia total, 70,3 millas, que se reparte en tres segmentos:
+El nombre alude a la distancia total, que suma 70.3 millas. Se reparte en tres segmentos:
 
-- **Natación:** 1,9 km en el Mediterráneo
-- **Ciclismo:** 90 km por la llanura costera que se abre tierra adentro
-- **Carrera a pie:** 21,1 km, es decir, una media maratón como cierre
+- **Natación:** 1.9 km en el Mediterráneo
+- **Ciclismo:** 90 km por la llanura costera, tierra adentro desde la playa
+- **Carrera a pie:** 21.1 km, una media maratón como cierre
 
-La época del año acompaña. En noviembre el calor del verano ya ha remitido, pero en este tramo de costa el clima suele seguir siendo templado. Por eso muchos atletas de países más fríos la eligen como objetivo de final de temporada.
+La época del año era propicia para una competición. En noviembre ya ha remitido el calor del verano, aunque en este tramo de costa el clima suele seguir siendo templado. Por eso muchos deportistas de países más fríos la eligen como gran objetivo de final de temporada.
 
 ## Fechas, inscripción y qué significa «entradas»
 
-La prueba está prevista para principios de noviembre de 2026. En ironman.com, The IRONMAN Group publica el día exacto de la carrera, la página de inscripción de atletas y la información sobre la sede. Allí se encuentra también la guía oficial del atleta.
+Las fechas anunciadas situaban la carrera a principios de noviembre de 2026. The IRONMAN Group gestionaba la inscripción de los deportistas en ironman.com. Además, Ironman publica para cada prueba una guía del deportista con los datos de la sede y el programa de la semana de carrera.
 
-En este caso, las «entradas» son las inscripciones de los atletas y no el acceso del público. Las pruebas Ironman se disputan en carreteras y playas públicas, de modo que familiares y amigos las siguen desde el borde del recorrido sin pagar nada. El precio de la inscripción y lo que incluye figuran en la página de inscripción. Esta guía no lo recoge porque son cifras que cambian.
+En este caso, la palabra «entradas» se refiere a la inscripción de los participantes y no al acceso del público. Las pruebas Ironman se disputan en vías públicas y playas, de modo que familiares y amigos las siguen desde el borde del recorrido sin pagar nada. La cuota de inscripción y lo que incluía se detallaban al formalizar el registro.
 
 ## Cómo llegar a Belek
 
-Belek está a unos 35 km al este de la ciudad de Antalya, y aún más cerca del aeropuerto de Antalya (AYT). Como el trayecto desde la terminal es breve, resulta sencillo encajar el fin de semana de la carrera con los vuelos. El AYT tiene conexiones directas con buena parte de Europa, y muchos atletas hacen escala en Estambul.
+Belek se encuentra a unos 35 km al este de la ciudad de Antalya. Su aeropuerto (AYT) queda todavía más cerca, a un corto trayecto en coche desde la terminal. El AYT tiene vuelos directos desde buena parte de Europa, y muchos deportistas hacen escala en Estambul.
 
-La mayoría de los visitantes se aloja en los propios complejos, muchos de ellos con régimen de todo incluido. Lo habitual es llegar en el autobús del hotel o en un traslado desde el aeropuerto. Quienes viajan con bicicleta suelen preferir un traslado concertado con espacio para la maleta de la bicicleta antes que un taxi convencional.
+La mayoría de los visitantes se aloja en los propios complejos, muchos de ellos en régimen de todo incluido. Lo habitual es llegar en los autobuses lanzadera de los hoteles o en traslados desde el aeropuerto. Quienes viajan con bicicleta suelen preferir a un taxi convencional un traslado concertado de antemano en un vehículo con espacio para la caja de la bici.
 
 ## El ritmo de la semana de carrera
 
-Un triatlón empieza mucho antes del día de la prueba. Lo normal es que los atletas lleguen con unos días de margen para montar de nuevo la bicicleta, recoger la bolsa del corredor en el punto de inscripción y dejar la bicicleta en la zona de transición la víspera. Muchos aprovechan además para darse un breve baño en el mar y comprobar cómo está el agua.
+Para un triatleta, la competición empieza mucho antes del día de la prueba. Lo normal es llegar con unos días de antelación. Así queda tiempo para volver a montar la bicicleta, recoger la bolsa del corredor en la acreditación y dejar la bici en el área de transición la víspera. Muchos aprovechan también para darse un breve baño en el mar y hacerse una idea de cómo está el agua.
 
-El Mediterráneo conserva una temperatura bastante agradable hasta bien entrado el otoño. Según el reglamento habitual de Ironman, el uso del neopreno depende de la temperatura del agua medida cerca de la salida. La mañana de la carrera, la zona de transición abre todavía de noche y la natación comienza poco después del amanecer. A medida que avanza la jornada, el público se va concentrando en la línea de meta.
+El Mediterráneo mantiene una temperatura bastante agradable hasta bien entrado el otoño. Según el reglamento estándar de Ironman, el uso del neopreno depende de la temperatura del agua medida poco antes de la salida. La mañana de la carrera, la zona de transición suele abrir todavía de noche y la natación arranca poco después del amanecer. A medida que avanza la jornada, el público se va concentrando en la línea de meta.
 
-## Cómo seguir la carrera en Belek
+## Ver la carrera en el recorrido de Belek
 
-Para disfrutar de un Ironman hay que saber elegir los puntos desde donde verlo.
+En un Ironman, disfrutar como espectador depende sobre todo de dónde se sitúe uno.
 
-- **Salida de la natación:** es el momento más espectacular, con oleadas de atletas que entran corriendo en el mar. Las familias suelen reunirse junto a las vallas de la playa mucho antes del pistoletazo.
-- **Transición:** su atleta solo pasará por delante unos segundos, pero se llega fácilmente desde la zona de natación.
-- **Recorrido a pie:** es el que más compensa. Al tratarse de un circuito de varias vueltas, los participantes pasan varias veces por el mismo lugar, así que los acompañantes se instalan en un punto fijo y no se mueven de allí.
-- **Recta de meta:** ruidosa y abarrotada, es el sitio donde reencontrarse al terminar.
+- **Salida de la natación:** es el momento más espectacular, con oleadas de triatletas que se lanzan corriendo al mar. Las familias suelen agolparse junto a las vallas de la playa mucho antes del pistoletazo.
+- **Transición:** solo se ve pasar al deportista durante unos segundos, pero se llega con facilidad desde la zona de natación.
+- **Recorrido a pie:** es el punto que más compensa. Los circuitos de varias vueltas pasan varias veces por el mismo lugar, así que los acompañantes se instalan en un sitio y ya no se mueven.
+- **Recta de meta:** ruidosa y abarrotada, suele ser el punto de encuentro una vez terminada la prueba.
 
-La aplicación de Ironman permite seguir en directo a cada atleta mediante su número de dorsal, y los acompañantes la usan para calcular cuándo desplazarse a cada punto de observación. Abundan las pancartas hechas a mano y las banderas nacionales, así como las camisetas de colores vivos y llamativos que permiten distinguir a alguien desde una bicicleta en marcha.
+Con la aplicación de Ironman se puede seguir en directo a cada deportista mediante su número de dorsal, y los acompañantes la usan para calcular cuándo desplazarse a cada punto. Abundan los carteles hechos a mano y las banderas nacionales. También son frecuentes las camisetas de colores vivos y llamativos, fáciles de distinguir desde una bicicleta en marcha.
 
-Fuera de la carrera, la moneda local es la lira turca, y las tarjetas se aceptan sin problema en los complejos y en los restaurantes de mayor tamaño. En los restaurantes con servicio de mesa ajenos al hotel se acostumbra a dejar una propina de alrededor del 10 por ciento. Unas pocas palabras en turco se agradecen mucho: *teşekkürler* (gracias) y *kolay gelsin*, una fórmula amable que equivale a «que te resulte fácil» y que se dirige a quien está trabajando, incluidos los voluntarios que reparten agua.
+Fuera de la competición, la moneda local es la lira turca. Las tarjetas se aceptan en casi todos los complejos y en los restaurantes más grandes. En los restaurantes con servicio de mesa situados fuera de los hoteles se acostumbra a dejar una propina de alrededor del 10 por ciento. Unas pocas palabras en turco se agradecen mucho: *teşekkürler* (gracias) y *kolay gelsin*, una fórmula amable que significa «que te resulte fácil» y que se dirige a quien está trabajando, incluidos los voluntarios que reparten agua.
 
-## Qué ver en los alrededores de Belek tras la meta
+## Belek más allá de la meta
 
-Muchos atletas añaden algunos días de descanso, y la zona se presta a ello. A poca distancia en coche tierra adentro, cerca de Serik, se alza **Aspendos**, uno de los teatros romanos mejor conservados del mundo. Entre Belek y Antalya se encuentra la antigua ciudad de **Perge**.
+Muchos deportistas añaden algunos días de descanso, y la zona se presta a ello. A un corto trayecto tierra adentro, cerca de Serik, se alza **Aspendos**, uno de los teatros romanos mejor conservados del mundo. Entre Belek y Antalya se encuentra la antigua ciudad de **Perge**.
 
-Para una jornada más tranquila, el barrio antiguo de Antalya, **Kaleiçi**, conserva un puerto de época romana y la Puerta de Adriano. Hacia el este, la localidad de **Side** reúne ruinas y un paseo marítimo. Más hacia el interior, el **Parque Nacional del Cañón de Köprülü** es ideal para quien todavía tenga piernas para un paseo suave. Además, los campos de golf de Belek mantienen su temporada de otoño en torno al fin de semana de la carrera.
+Para una jornada más tranquila, el casco antiguo de Antalya, **Kaleiçi**, conserva un puerto de época romana y la Puerta de Adriano. Hacia el este, la localidad de **Side** reúne ruinas antiguas y un paseo marítimo. Más hacia el interior, el **Parque Nacional del Cañón de Köprülü** es ideal para quien todavía tenga piernas para un paseo suave. Los campos de golf de Belek, por su parte, siguen en temporada durante todo el otoño.
