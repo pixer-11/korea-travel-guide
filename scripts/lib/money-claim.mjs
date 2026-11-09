@@ -24,6 +24,10 @@ export const CURRENCY_WORDS = [
   'yen', 'won', 'baht', 'yuan', 'ringgit', 'rupiah', 'dong', 'euros?', 'dollars?', 'pesos?', 'rupees?',
   'dirhams?', 'riyals?', 'pounds?', 'liras?', 'riels?', 'soles', 'lari', 'tugriks?', 'tögrög', 'patacas?', "so'm",
 ];
+// "Keep your bag below 50 pounds" 는 무게다. 이집트 글의 "700 pounds" 는 금액이므로
+// 낱말을 빼지 않고, 앞에 짐·무게 문맥이 있을 때만 건너뛴다(코덱스, 11-09).
+const POUNDS_NOT_WEIGHT = String.raw`(?<!\b(?:bags?|baggage|luggage|suitcases?|backpacks?|carry-ons?|weigh\w*)\b[^.!?]{0,40})pounds?`;
+export const CURRENCY_WORDS_ALONE = CURRENCY_WORDS.map((w) => (w === 'pounds?' ? POUNDS_NOT_WEIGHT : w));
 // "700 Egyptian pounds": 숫자와 단위 사이에 끼는 나라 형용사. 아무 낱말이나 허용하면
 // "2 people won" 이 금액이 된다.
 export const CURRENCY_ADJECTIVES = [

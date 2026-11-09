@@ -16,7 +16,7 @@
 //  burning an API call or a live fetch — see section-guards.test.mjs.
 // ─────────────────────────────────────────────────────────────
 
-import { CURRENCY_CODES, CURRENCY_WORDS, CURRENCY_ADJECTIVES } from './money-claim.mjs';
+import { CURRENCY_CODES, CURRENCY_WORDS, CURRENCY_WORDS_ALONE, CURRENCY_ADJECTIVES } from './money-claim.mjs';
 
 // Phrases seen leaking into published sections, plus the ones the review
 // asked to guard against pre-emptively. Checked over the WHOLE text, not
@@ -118,7 +118,7 @@ const CURRENCY_BARE_SYMBOLS = ['¥', '\\$', '€', '£', '₩', '฿', '₹', '�
 // The codes and words come from money-claim.mjs, so a new country's currency
 // reaches this check and the other two from one list (2026-11-09).
 const CURRENCY_LETTER_MARKERS = [
-  ...CURRENCY_CODES, 'TL', 'Rs\\.?', ...CURRENCY_WORDS,
+  ...CURRENCY_CODES, 'TL', 'Rs\\.?', ...CURRENCY_WORDS_ALONE,
   // One marker, or the adjective would sit between "700" and "pounds".
   `(?:${CURRENCY_ADJECTIVES.join('|')})\\s+(?:${CURRENCY_WORDS.join('|')})`,
 ];
@@ -130,7 +130,11 @@ const CURRENCY_LETTER_MARKERS = [
 // a currency marker only when a digit sits on one side, at most one space
 // away, which a stray word in prose essentially never has.
 const CURRENCY_AMBIGUOUS_WORDS = ['Rp', 'RM', "so'm", 'som', 'sum', 'TRY', 'PEN', 'GEL', 'MOP', 'CAD', 'ARS', 'LE', 'L\\.E\\.', 'S/\\.?'];
+// Every regex built from this is case-insensitive, and "1 pen", "try 5 times"
+// and "5 gel" are English: a capitals-only code has to be written in capitals.
+const caseExact = (w) => (/^[A-Z]{2,3}$/.test(w) ? `(?-i:${w})` : w);
 const CURRENCY_AMBIGUOUS_MARKER = CURRENCY_AMBIGUOUS_WORDS
+  .map(caseExact)
   .map((w) => `(?:(?<=\\d\\s{0,1})${w}(?![A-Za-z])|(?<![A-Za-z])${w}(?=\\s{0,1}\\d))`)
   .join('|');
 

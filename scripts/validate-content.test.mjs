@@ -190,6 +190,8 @@ clean('a number that is not money', { pubDate: '2024-01-01', body: 'The hall sea
 // 통화가 빠져 있으면 그 나라 글은 낡음 검사 자체가 걸리지 않는다 — 검사기가
 // 조용한 것과 콘텐츠가 깨끗한 것을 구별할 수 없게 된다.
 flags('an aged dirham price', 'STALE-PRICE-CLAIM', { pubDate: '2025-01-01', body: 'Entry runs AED 50 per adult.' });
+flags('an aged Egyptian pound price', 'STALE-PRICE-CLAIM', { pubDate: '2025-01-01', body: 'Entry runs 700 Egyptian pounds.' });
+clean('a suitcase weight is not a price', { pubDate: '2025-01-01', body: 'Keep your bag below 50 pounds.' });
 flags('an aged rupee price', 'STALE-PRICE-CLAIM', { pubDate: '2025-01-01', body: 'Tickets are ₹200 at the gate.' });
 flags('an aged yuan price', 'STALE-PRICE-CLAIM', { pubDate: '2025-01-01', body: 'A bowl costs 元35 near the station.' });
 flags('an aged lira price', 'STALE-PRICE-CLAIM', { pubDate: '2025-01-01', body: 'Admission is ₺150.' });

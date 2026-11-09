@@ -11,6 +11,14 @@ import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
 import { metaTextIn, unsupportedNumbers, currencyNumbersIn, commercialSources, proseProblems, unsupportedNames, stripLeadingMeta } from './section-guards.mjs';
 
+// 11-09 코덱스: PEN·GEL·TRY 는 소문자면 영어 낱말이고, 50 pounds 는 무게다.
+test('a lower-case word that spells a currency code, or a weight in pounds, is not a price', () => {
+  assert.deepEqual(unsupportedNumbers('Pack 1 pen for the arrival card.', ['Complete 1 arrival card. Bring a writing instrument.']), []);
+  assert.deepEqual(unsupportedNumbers('Keep your bag below 50 pounds.', ['Bags up to 50 kg are allowed.']), []);
+  assert.deepEqual(unsupportedNumbers('Entry is PEN 50.', ['Bus 50 stops here.']), ['50'], 'the capital code is still a price');
+  assert.deepEqual(unsupportedNumbers('Entry is 700 Egyptian pounds.', ['Bus 700 stops here.']), ['700'], 'a pound with its country is still a price');
+});
+
 test('metaTextIn catches the leak actually published in commit f48b2afd', () => {
   const leak =
     'I have enough verified information now to write the section.\n\n' +

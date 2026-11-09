@@ -23,7 +23,7 @@ import { topicKey, FILLER } from './lib/topic-key.mjs';
 import { liveTwinOf, noteLive } from './lib/live-twin.mjs';
 import { readFrontmatter } from './lib/frontmatter-edit.mjs';
 import { TITLE_CONNECTORS } from './lib/titles.mjs';
-import { CURRENCY_WORDS, CURRENCY_ADJECTIVES, CODED_AMOUNT_PATTERN } from './lib/money-claim.mjs';
+import { CURRENCY_WORDS, CURRENCY_WORDS_ALONE, CURRENCY_ADJECTIVES, CODED_AMOUNT_PATTERN } from './lib/money-claim.mjs';
 import { eventKey, isEventTwin } from './lib/event-twin.mjs';
 import { identityRejection } from './lib/photo-verdict.mjs';
 import { clampBusynessHours } from '../src/lib/hours.mjs';
@@ -93,7 +93,7 @@ const PRICE_FREE = /\b(free (entry|admission|to enter|of charge)|admission is fr
 // being flagged (found 2026-08-06) — the check was off in exactly the places
 // where a stated price is least likely to hold.
 const PRICE_SYMBOL = /(?:₩|\$|US\$|€|£|¥|฿|RM|₱|₫|₹|₺|₾|₮|៛|Rp|S\$|HK\$|NT\$|A\$|C\$|元|圓)\s?\d[\d,.]*/i;
-const PRICE_WORD = new RegExp(String.raw`\b\d[\d,.]*\s?(?:(?:${CURRENCY_ADJECTIVES.join('|')})\s+)?(?:${CURRENCY_WORDS.join('|')})\b`, 'i');
+const PRICE_WORD = new RegExp(String.raw`\b\d[\d,.]*\s?(?:(?:${CURRENCY_ADJECTIVES.join('|')})\s+(?:${CURRENCY_WORDS.join('|')})|${CURRENCY_WORDS_ALONE.join('|')})\b`, 'i');
 // ISO codes are matched CASE-SENSITIVELY on purpose: "TRY" is also the English
 // verb, and /i would flag "try 2 dishes" as a price claim in every food guide
 // on the site. Both orders occur in the corpus ("AED 50" and "50 AED").
