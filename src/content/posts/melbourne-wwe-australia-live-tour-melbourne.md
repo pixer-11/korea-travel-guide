@@ -13,16 +13,6 @@ eventOrganizer:
   name: WWE
   url: https://www.wwe.com/
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/a/a6/WWE_Champion_John_Cena_2013.jpg
-  credit: 'Photo: Krystal from Adelaide, Australia / Wikimedia Commons (CC BY 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:WWE_Champion_John_Cena_2013.jpg
-  focus:
-    x: 44
-    'y': 23
-    top: 18
-    bottom: 27
 gallery: []
 tags:
   - melbourne

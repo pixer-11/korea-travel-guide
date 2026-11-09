@@ -10,16 +10,6 @@ eventEndDate: '2026-11-28'
 eventRecurring: false
 eventVenue: SPICE Arena, Penang
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/I_am_what_I_am_%283816886529%29.jpg/3840px-I_am_what_I_am_%283816886529%29.jpg
-  credit: 'Photo: Helgi Halldórsson from Reykjavík, Iceland / Wikimedia Commons (CC BY-SA 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:I_am_what_I_am_(3816886529).jpg
-  focus:
-    x: 49
-    'y': 47
-    top: 44
-    bottom: 50
 gallery: []
 tags:
   - penang

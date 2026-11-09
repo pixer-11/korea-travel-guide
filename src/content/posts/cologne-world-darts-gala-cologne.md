@@ -10,16 +10,6 @@ eventEndDate: '2026-12-02'
 eventRecurring: true
 eventVenue: LANXESS arena
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/c/c2/Darts_host_%284236270709%29.jpg
-  credit: 'Photo: sachab / Wikimedia Commons (CC BY 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Darts_host_(4236270709).jpg
-  focus:
-    x: 56
-    'y': 26
-    top: 20
-    bottom: 32
 gallery: []
 tags:
   - cologne

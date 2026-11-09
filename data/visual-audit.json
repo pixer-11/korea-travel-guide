@@ -19,9 +19,9 @@
  },
  "abu-dhabi-2026-world-triathlon-multisport-championships-abu-dhabi\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Gregor_Buchholz_finishs_at_2014_ITU_World_Triathlon_Hamburg.jpg/3840px-Gregor_Buchholz_finishs_at_2014_ITU_World_Triathlon_Hamburg.jpg": {
   "slug": "abu-dhabi-2026-world-triathlon-multisport-championships-abu-dhabi",
-  "verdict": "MATCH",
-  "reason": "event publish gate: Triathlon athletes racing, valid event action photo",
-  "at": "2026-11-09T00:37:19.245Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"triathlon\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-09T08:33:26.223Z"
  },
  "abu-dhabi-3fils-abu-dhabi\u0001https://fastly.4sqi.net/img/general/original/86635185_ybvBa4MYNQEdSr0xXdsl8B4_Sx_6wjdkQTgw-v0bTdg.jpg": {
   "slug": "abu-dhabi-3fils-abu-dhabi",
@@ -5336,9 +5336,9 @@
  },
  "buenos-aires-argentina-comic-con-december-2026\u0001https://upload.wikimedia.org/wikipedia/commons/f/f9/Bumblebee%2C_Comic_Con_2024.jpg": {
   "slug": "buenos-aires-argentina-comic-con-december-2026",
-  "verdict": "MATCH",
-  "reason": "event publish gate: Cosplay performer at comic con event, representative hero",
-  "at": "2026-11-09T01:07:01.803Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"comic\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-09T08:33:26.452Z"
  },
  "buenos-aires-babymetal-buenos-aires\u0001https://upload.wikimedia.org/wikipedia/commons/d/d6/Babymetal_-_US_Tour_2019_06.jpg": {
   "slug": "buenos-aires-babymetal-buenos-aires",
@@ -8040,9 +8040,9 @@
  },
  "cologne-world-darts-gala-cologne\u0001https://upload.wikimedia.org/wikipedia/commons/c/c2/Darts_host_%284236270709%29.jpg": {
   "slug": "cologne-world-darts-gala-cologne",
-  "verdict": "MATCH",
-  "reason": "event publish gate: Darts event with dartboard, man speaking at venue",
-  "at": "2026-11-09T00:58:22.862Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"darts\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-09T08:33:26.610Z"
  },
  "cordoba-alcazar-de-los-reyes-cristianos\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Cordoba-6_%2848026780817%29.jpg/1920px-Cordoba-6_%2848026780817%29.jpg": {
   "slug": "cordoba-alcazar-de-los-reyes-cristianos",
@@ -21198,9 +21198,9 @@
  },
  "melbourne-wwe-australia-live-tour-melbourne\u0001https://upload.wikimedia.org/wikipedia/commons/a/a6/WWE_Champion_John_Cena_2013.jpg": {
   "slug": "melbourne-wwe-australia-live-tour-melbourne",
-  "verdict": "MATCH",
-  "reason": "event publish gate: WWE performer holding title belt at live event",
-  "at": "2026-11-09T00:55:05.907Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"wwe\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-09T08:33:26.766Z"
  },
  "mendoza-camilo-mendoza-concert\u0001https://upload.wikimedia.org/wikipedia/commons/1/18/Camilo_Echeverry_in_2018_3.jpg": {
   "slug": "mendoza-camilo-mendoza-concert",
@@ -26272,9 +26272,9 @@
  },
  "penang-i-am-what-i-am-world-tour-penang\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/I_am_what_I_am_%283816886529%29.jpg/3840px-I_am_what_I_am_%283816886529%29.jpg": {
   "slug": "penang-i-am-what-i-am-world-tour-penang",
-  "verdict": "MATCH",
-  "reason": "event publish gate: Concert stage performer, matches event type generically",
-  "at": "2026-11-09T00:43:17.546Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares no word with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-09T08:33:26.927Z"
  },
  "penang-kek-lok-si-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Kek_Lok_Si_at_dusk.jpg/1920px-Kek_Lok_Si_at_dusk.jpg": {
   "slug": "penang-kek-lok-si-temple",
@@ -27759,9 +27759,9 @@
  },
  "rennes-k-pop-forever-rennes\u0001https://upload.wikimedia.org/wikipedia/commons/1/1b/Taemin_at_K-POP_Concert_in_October_2015_02.jpg": {
   "slug": "rennes-k-pop-forever-rennes",
-  "verdict": "MATCH",
-  "reason": "event publish gate: Performer at K-pop event, representative photo of subject",
-  "at": "2026-11-09T00:29:36.873Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares no word with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-09T08:33:27.089Z"
  },
  "rishikesh-lakshman-jhula\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Rishikesh-Lakshman_Jhula_by_Kaustubh_Nayyar.jpg/1920px-Rishikesh-Lakshman_Jhula_by_Kaustubh_Nayyar.jpg": {
   "slug": "rishikesh-lakshman-jhula",

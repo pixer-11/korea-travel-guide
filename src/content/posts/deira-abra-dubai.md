@@ -1,6 +1,6 @@
 ---
 title: 'Abra Dubai: Deira Travel Guide (4.7★)'
-description: The Deira abra crossing over Dubai Creek runs 24 hours and costs a token AED 1 fare, taking about five to ten minutes to reach Al Seef or Al Fahidi on the Bur Dubai side. 4.7★ (573 reviews) — what visitors say, hours, and tips.
+description: The Deira abra crossing over Dubai Creek runs 24 hours and costs a budget-friendly fare, taking about five to ten minutes to reach Al Seef or Al Fahidi on the Bur Dubai side. 4.7★ (573 reviews) — what visitors say, hours, and tips.
 country: United Arab Emirates
 region: Deira
 category: attraction
@@ -48,10 +48,10 @@ place:
 tags:
   - deira
   - top attraction
-quickAnswer: The Deira abra crossing over Dubai Creek runs 24 hours and costs a token AED 1 fare, taking about five to ten minutes to reach Al Seef or Al Fahidi on the Bur Dubai side. Go between 8am and 10am on weekends for a near-empty boat and soft morning light; avoid the 6pm–11pm crush when everyone else has the same idea.
+quickAnswer: The Deira abra crossing over Dubai Creek runs 24 hours and costs a budget-friendly fare, taking about five to ten minutes to reach Al Seef or Al Fahidi on the Bur Dubai side. Go between 8am and 10am on weekends for a near-empty boat and soft morning light; avoid the 6pm–11pm crush when everyone else has the same idea.
 faq:
   - q: How much does the abra ride cost?
-    a: It's a flat, token fare — around AED 1 — paid in cash directly to the boatman or at a small booth on the dock.
+    a: It's a flat, budget-friendly fare, paid in cash directly to the boatman or at a small booth on the dock.
   - q: How long does the crossing take?
     a: About five to ten minutes one way, depending on which dock you land at on the Bur Dubai side.
   - q: When is the quietest time to ride?

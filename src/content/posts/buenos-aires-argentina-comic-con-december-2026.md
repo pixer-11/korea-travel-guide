@@ -10,16 +10,6 @@ eventEndDate: '2026-12-06'
 eventRecurring: true
 eventVenue: Centro Costa Salguero
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/f/f9/Bumblebee%2C_Comic_Con_2024.jpg
-  credit: 'Photo: Rjcastillo / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Bumblebee,_Comic_Con_2024.jpg
-  focus:
-    x: 48
-    'y': 18
-    top: 10
-    bottom: 25
 gallery: []
 tags:
   - buenos aires

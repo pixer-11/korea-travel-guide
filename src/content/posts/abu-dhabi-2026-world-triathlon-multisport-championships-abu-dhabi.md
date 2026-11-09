@@ -13,16 +13,6 @@ eventOrganizer:
   name: World Triathlon
   url: https://triathlon.org
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Gregor_Buchholz_finishs_at_2014_ITU_World_Triathlon_Hamburg.jpg/3840px-Gregor_Buchholz_finishs_at_2014_ITU_World_Triathlon_Hamburg.jpg
-  credit: 'Photo: Upsolut/HOCH ZWEI / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Gregor_Buchholz_finishs_at_2014_ITU_World_Triathlon_Hamburg.jpg
-  focus:
-    x: 58
-    'y': 17
-    top: 11
-    bottom: 23
 gallery: []
 tags:
   - abu dhabi
