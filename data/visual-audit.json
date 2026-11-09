@@ -17,6 +17,12 @@
   "reason": "publish gate: Exterior view of Tin Hau Temple entrance in Aberdeen",
   "at": "2026-09-16T07:49:17.894Z"
  },
+ "abu-dhabi-2026-world-triathlon-multisport-championships-abu-dhabi\u0001https://upload.wikimedia.org/wikipedia/commons/4/40/ITU_World_Triathlon_Grand_Final_Edmonton.jpg": {
+  "slug": "abu-dhabi-2026-world-triathlon-multisport-championships-abu-dhabi",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Triathlon competition podium, plausible event archive photo",
+  "at": "2026-11-09T19:36:24.783Z"
+ },
  "abu-dhabi-2026-world-triathlon-multisport-championships-abu-dhabi\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Gregor_Buchholz_finishs_at_2014_ITU_World_Triathlon_Hamburg.jpg/3840px-Gregor_Buchholz_finishs_at_2014_ITU_World_Triathlon_Hamburg.jpg": {
   "slug": "abu-dhabi-2026-world-triathlon-multisport-championships-abu-dhabi",
   "verdict": "MISMATCH",
@@ -5382,11 +5388,23 @@
   "reason": "publish gate: Exterior of the historic museum building with gate and signage",
   "at": "2026-10-01T07:49:54.974Z"
  },
+ "buenos-aires-argentina-comic-con-december-2026\u0001https://upload.wikimedia.org/wikipedia/commons/8/86/Concert_Heroes_at_Los_Angeles_Comic_Con_2026.jpg": {
+  "slug": "buenos-aires-argentina-comic-con-december-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shows L.A. Comic Con panel, not Argentina event",
+  "at": "2026-11-09T19:36:58.406Z"
+ },
  "buenos-aires-argentina-comic-con-december-2026\u0001https://upload.wikimedia.org/wikipedia/commons/f/f9/Bumblebee%2C_Comic_Con_2024.jpg": {
   "slug": "buenos-aires-argentina-comic-con-december-2026",
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: filename shares only \"comic\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-11-09T08:33:26.452Z"
+ },
+ "buenos-aires-argentina-comic-con-december-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Stuttgart_-Comic_Con_Germany_2019-_d90_by-RaBoe_112.jpg/3840px-Stuttgart_-Comic_Con_Germany_2019-_d90_by-RaBoe_112.jpg": {
+  "slug": "buenos-aires-argentina-comic-con-december-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: identity: Commons places this in Germany, post says Argentina",
+  "at": "2026-11-09T19:37:04.489Z"
  },
  "buenos-aires-babymetal-buenos-aires\u0001https://upload.wikimedia.org/wikipedia/commons/d/d6/Babymetal_-_US_Tour_2019_06.jpg": {
   "slug": "buenos-aires-babymetal-buenos-aires",
@@ -5682,6 +5700,12 @@
   "reason": "event publish gate: Performers on stage at event, represents the group/tour",
   "at": "2026-11-05T01:18:56.299Z"
  },
+ "buenos-aires-yves-2026-tour-buenos-aires\u0001https://upload.wikimedia.org/wikipedia/commons/3/38/Yves_Gendreau%2C_The_Tower_Of_Babel_On_The_Ladder%2C_2015_%2820800951133%29_.jpg": {
+  "slug": "buenos-aires-yves-2026-tour-buenos-aires",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Scaffolding/construction installation, not representative venue image",
+  "at": "2026-11-09T19:37:19.856Z"
+ },
  "buenos-aires-yves-2026-tour-buenos-aires\u0001https://upload.wikimedia.org/wikipedia/commons/5/52/Yves_Lampaert_-_Tour_de_France_2023.jpg": {
   "slug": "buenos-aires-yves-2026-tour-buenos-aires",
   "verdict": "MISMATCH",
@@ -5699,6 +5723,18 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Cyclist unrelated to specific event venue or type",
   "at": "2026-11-09T03:21:59.028Z"
+ },
+ "buenos-aires-yves-2026-tour-buenos-aires\u0001https://upload.wikimedia.org/wikipedia/commons/b/b5/Yves_%2855265139729%29.jpg": {
+  "slug": "buenos-aires-yves-2026-tour-buenos-aires",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Concert performer on stage, plausible for tour event",
+  "at": "2026-11-09T19:37:24.836Z"
+ },
+ "buenos-aires-yves-2026-tour-buenos-aires\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Paris_Eiffel_Jumping_2018_-_Roger-Yves_Bost.jpg/3840px-Paris_Eiffel_Jumping_2018_-_Roger-Yves_Bost.jpg": {
+  "slug": "buenos-aires-yves-2026-tour-buenos-aires",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated portrait, not venue or event subject",
+  "at": "2026-11-09T19:37:21.453Z"
  },
  "buenos-aires-yves-2026-tour-buenos-aires\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Yves_Gendreau%2C_La_Tour_de_Babel_aux_%C3%A9chelles%2C_2015_%2820799337954%29.jpg/3840px-Yves_Gendreau%2C_La_Tour_de_Babel_aux_%C3%A9chelles%2C_2015_%2820799337954%29.jpg": {
   "slug": "buenos-aires-yves-2026-tour-buenos-aires",
@@ -8115,6 +8151,12 @@
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: filename shares only \"darts\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-11-09T08:33:26.610Z"
+ },
+ "cologne-world-darts-gala-cologne\u0001https://upload.wikimedia.org/wikipedia/commons/d/d2/Team_Germany_Darts_WC_2025.png": {
+  "slug": "cologne-world-darts-gala-cologne",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Darts players at professional event press conference",
+  "at": "2026-11-09T19:37:56.802Z"
  },
  "cordoba-alcazar-de-los-reyes-cristianos\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Cordoba-6_%2848026780817%29.jpg/1920px-Cordoba-6_%2848026780817%29.jpg": {
   "slug": "cordoba-alcazar-de-los-reyes-cristianos",
@@ -18473,11 +18515,29 @@
   "reason": "event publish gate: Concert stage event photo, plausible tour performance scene",
   "at": "2026-11-05T01:18:35.710Z"
  },
+ "lima-la-ruta-del-pejerrey-21k\u0001https://upload.wikimedia.org/wikipedia/commons/5/5d/Ruta_Interbalnearia03.jpg": {
+  "slug": "lima-la-ruta-del-pejerrey-21k",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Highway scene, unrelated to running race event",
+  "at": "2026-11-09T19:41:43.610Z"
+ },
+ "lima-la-ruta-del-pejerrey-21k\u0001https://upload.wikimedia.org/wikipedia/commons/8/86/Ruta_Interbalnearia02.jpg": {
+  "slug": "lima-la-ruta-del-pejerrey-21k",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Highway scene, not a race or event depiction",
+  "at": "2026-11-09T19:41:45.412Z"
+ },
  "lima-la-ruta-del-pejerrey-21k\u0001https://upload.wikimedia.org/wikipedia/commons/8/87/Ruta_de_los_Volcanes%2C_La_Deseada_I.jpg": {
   "slug": "lima-la-ruta-del-pejerrey-21k",
   "verdict": "MISMATCH",
   "reason": "patrol reject: Volcanic landscape unrelated to Lima running event",
   "at": "2026-11-09T03:25:08.491Z"
+ },
+ "lima-la-ruta-del-pejerrey-21k\u0001https://upload.wikimedia.org/wikipedia/commons/d/d5/GR-131_Ruta_de_los_Volcanes_La_Palma_20080606d.jpg": {
+  "slug": "lima-la-ruta-del-pejerrey-21k",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Volcanic landscape, not a race event photo",
+  "at": "2026-11-09T19:41:47.187Z"
  },
  "lima-la-ruta-del-pejerrey-21k\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Fundacion_La_Ruta_Maya_Figure_of_Ixchel.jpg/3840px-Fundacion_La_Ruta_Maya_Figure_of_Ixchel.jpg": {
   "slug": "lima-la-ruta-del-pejerrey-21k",
@@ -18981,6 +19041,12 @@
   "reason": "patrol reject: Kites in sky, unrelated to event or venue",
   "at": "2026-11-06T23:49:21.968Z"
  },
+ "london-catch-the-young-ignite-evolve-europe-tour\u0001https://upload.wikimedia.org/wikipedia/commons/1/1a/Catch_The_Wind_18.jpg": {
+  "slug": "london-catch-the-young-ignite-evolve-europe-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Kite flying image, unrelated to event/venue",
+  "at": "2026-11-09T19:42:35.063Z"
+ },
  "london-catch-the-young-ignite-evolve-europe-tour\u0001https://upload.wikimedia.org/wikipedia/commons/3/31/Catch_The_Wind_02.jpg": {
   "slug": "london-catch-the-young-ignite-evolve-europe-tour",
   "verdict": "MISMATCH",
@@ -19016,6 +19082,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Kite festival sky, unrelated to music tour event",
   "at": "2026-11-06T23:49:25.328Z"
+ },
+ "london-catch-the-young-ignite-evolve-europe-tour\u0001https://upload.wikimedia.org/wikipedia/commons/f/f6/Catch_The_Wind_15.jpg": {
+  "slug": "london-catch-the-young-ignite-evolve-europe-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated sticks/ball on sand, not event or venue",
+  "at": "2026-11-09T19:42:36.659Z"
  },
  "london-catch-the-young-ignite-evolve-europe-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2015-01-31_21-22-59_catch-belfort.jpg/3840px-2015-01-31_21-22-59_catch-belfort.jpg": {
   "slug": "london-catch-the-young-ignite-evolve-europe-tour",
@@ -19752,6 +19824,12 @@
   "verdict": "MATCH",
   "reason": "hand-picked: the festival crowd, 2021 — Crowd with costumes at Lucca walls, matches event",
   "at": "2026-10-09T12:43:09.233Z"
+ },
+ "luxor-karnak\u0001https://fastly.4sqi.net/img/general/original/2573088_c2HsAkK-QqlQxDBX3YXuPoY9lIA6pAkoMc2M5_t5Y6o.jpg": {
+  "slug": "luxor-karnak",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Karnak temple courtyard with authentic brick pylon architect",
+  "at": "2026-11-09T19:43:30.097Z"
  },
  "luxor-karnak\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Temple_de_Louxor_68.jpg/1920px-Temple_de_Louxor_68.jpg": {
   "slug": "luxor-karnak",
@@ -21357,6 +21435,12 @@
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: filename shares only \"wwe\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-11-09T08:33:26.766Z"
+ },
+ "melbourne-wwe-australia-live-tour-melbourne\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/WWE_Super_Show-down_2018.jpg/3840px-WWE_Super_Show-down_2018.jpg": {
+  "slug": "melbourne-wwe-australia-live-tour-melbourne",
+  "verdict": "MATCH",
+  "reason": "patrol replace: WWE wrestling event, packed arena, professional lighting set",
+  "at": "2026-11-09T19:43:52.964Z"
  },
  "mendoza-camilo-mendoza-concert\u0001https://upload.wikimedia.org/wikipedia/commons/1/18/Camilo_Echeverry_in_2018_3.jpg": {
   "slug": "mendoza-camilo-mendoza-concert",
@@ -23716,6 +23800,12 @@
   "reason": "patrol reject: Boar statue by water, unrelated to lantern festival",
   "at": "2026-11-09T03:26:37.525Z"
  },
+ "new-taipei-city-taiwan-lantern-festival-new-taipei-pingxi-sky-lantern-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/2015_Taiwan_Lantern_Festival_10.jpg/3840px-2015_Taiwan_Lantern_Festival_10.jpg": {
+  "slug": "new-taipei-city-taiwan-lantern-festival-new-taipei-pingxi-sky-lantern-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shows generic string lights, not lantern festival venue",
+  "at": "2026-11-09T19:44:16.065Z"
+ },
  "new-taipei-city-taiwan-lantern-festival-new-taipei-pingxi-sky-lantern-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/%E5%90%89%E7%BE%8A%E5%BA%B7%E6%B3%B0%E5%89%8D%E5%81%B4.jpg/3840px-%E5%90%89%E7%BE%8A%E5%BA%B7%E6%B3%B0%E5%89%8D%E5%81%B4.jpg": {
   "slug": "new-taipei-city-taiwan-lantern-festival-new-taipei-pingxi-sky-lantern-festival",
   "verdict": "MISMATCH",
@@ -23727,6 +23817,18 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Goat statue unrelated to Sky Lantern Festival",
   "at": "2026-11-09T03:26:40.104Z"
+ },
+ "new-taipei-city-taiwan-lantern-festival-new-taipei-pingxi-sky-lantern-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/2015_Taiwan_Lantern_Festival_13.jpg/3840px-2015_Taiwan_Lantern_Festival_13.jpg": {
+  "slug": "new-taipei-city-taiwan-lantern-festival-new-taipei-pingxi-sky-lantern-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Decorative lights scene unrelated to Pingxi sky lantern festival",
+  "at": "2026-11-09T19:44:14.852Z"
+ },
+ "new-taipei-city-taiwan-lantern-festival-new-taipei-pingxi-sky-lantern-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/2015_Taiwan_Lantern_Festival_12.jpg/3840px-2015_Taiwan_Lantern_Festival_12.jpg": {
+  "slug": "new-taipei-city-taiwan-lantern-festival-new-taipei-pingxi-sky-lantern-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Generic lit trees, not Pingxi sky lantern festival venue",
+  "at": "2026-11-09T19:44:11.895Z"
  },
  "new-taipei-city-taiwan-lantern-festival-new-taipei-pingxi-sky-lantern-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Kaohsiung_Music_Center_and_Great_Tiger_Bridge_during_2022_Taiwan_Lantern_Festival.jpg/3840px-Kaohsiung_Music_Center_and_Great_Tiger_Bridge_during_2022_Taiwan_Lantern_Festival.jpg": {
   "slug": "new-taipei-city-taiwan-lantern-festival-new-taipei-pingxi-sky-lantern-festival",
@@ -23751,6 +23853,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Generic lit bridge/park, not Pingxi lantern festival venue",
   "at": "2026-11-09T03:26:44.060Z"
+ },
+ "new-taipei-city-taiwan-lantern-festival-new-taipei-pingxi-sky-lantern-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/2015_Taiwan_Lantern_Festival_07.jpg/3840px-2015_Taiwan_Lantern_Festival_07.jpg": {
+  "slug": "new-taipei-city-taiwan-lantern-festival-new-taipei-pingxi-sky-lantern-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Different venue; not Pingxi lantern festival setting",
+  "at": "2026-11-09T19:44:13.406Z"
  },
  "new-taipei-dalongdong-baoan-temple\u0001https://fastly.4sqi.net/img/general/original/60840918_5eZLhP2RsZH3vrizwJWdLcZvH1ZYyNvP1tJhmY4xrMI.jpg": {
   "slug": "new-taipei-dalongdong-baoan-temple",
@@ -27918,6 +28026,12 @@
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: filename shares no word with the event title (audit-event-hero-identity --reject)",
   "at": "2026-11-09T08:33:27.089Z"
+ },
+ "rennes-k-pop-forever-rennes\u0001https://upload.wikimedia.org/wikipedia/commons/f/fc/Le_Liberte-Rennes-2010.jpg": {
+  "slug": "rennes-k-pop-forever-rennes",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Le Liberté venue exterior, Rennes",
+  "at": "2026-11-09T19:44:59.765Z"
  },
  "rishikesh-lakshman-jhula\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Rishikesh-Lakshman_Jhula_by_Kaustubh_Nayyar.jpg/1920px-Rishikesh-Lakshman_Jhula_by_Kaustubh_Nayyar.jpg": {
   "slug": "rishikesh-lakshman-jhula",
@@ -34379,6 +34493,12 @@
   "reason": "patrol reject: This is a map diagram, not an event photo",
   "at": "2026-11-09T03:28:11.099Z"
  },
+ "tashkent-silk-road-international-film-festival\u0001https://upload.wikimedia.org/wikipedia/commons/d/d4/Silk_route-sr.jpg": {
+  "slug": "tashkent-silk-road-international-film-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: This is a map/diagram, not a photo of the event",
+  "at": "2026-11-09T19:46:05.049Z"
+ },
  "tashkent-silk-road-international-film-festival\u0001https://upload.wikimedia.org/wikipedia/commons/e/e9/Silk_route_chinese.jpg": {
   "slug": "tashkent-silk-road-international-film-festival",
   "verdict": "MISMATCH",
@@ -34396,6 +34516,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Photo of a sign, not the festival event",
   "at": "2026-11-09T03:28:13.680Z"
+ },
+ "tashkent-silk-road-international-film-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/The_Silk_Roadies...._%2821229070250%29.jpg/3840px-The_Silk_Roadies...._%2821229070250%29.jpg": {
+  "slug": "tashkent-silk-road-international-film-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated truck and landscape, not a film festival",
+  "at": "2026-11-09T19:46:06.610Z"
  },
  "tashkent-socials\u0001https://fastly.4sqi.net/img/general/original/18892600_pekzcUlCRUCctzB96xxb9qcQehJltz0a491C9_bed9c.jpg": {
   "slug": "tashkent-socials",

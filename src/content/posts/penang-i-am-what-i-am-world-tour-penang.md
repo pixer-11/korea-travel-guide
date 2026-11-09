@@ -10,6 +10,14 @@ eventEndDate: '2026-11-28'
 eventRecurring: false
 eventVenue: SPICE Arena, Penang
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Penang_Malaysia-_Cheong-Fatt-Tze-Mansion-06.jpg/3840px-Penang_Malaysia-_Cheong-Fatt-Tze-Mansion-06.jpg'
+  credit: 'Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Penang_Malaysia-_Cheong-Fatt-Tze-Mansion-06.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - penang

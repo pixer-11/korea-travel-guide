@@ -13,7 +13,6 @@ eventPerformer:
   name: Yves
   kind: person
 eventFactsAsked: true
-gallery: []
 tags:
   - buenos aires
   - event
@@ -31,6 +30,16 @@ faq:
     a: The Cementerio de la Chacarita is up Avenida Corrientes, and the cafés and bars of Villa Crespo and Palermo Hollywood are close by. Pizzerias and parrillas around Federico Lacroze stay open late.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/b/b5/Yves_%2855265139729%29.jpg
+  credit: 'Photo: David Lee from Redmond, WA, USA / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Yves_(55265139729).jpg
+  focus:
+    x: 61
+    'y': 15
+    top: 3
+    bottom: 27
 ---
 
 ## Yves on Avenida Corrientes

@@ -10,7 +10,6 @@ eventEndDate: '2026-12-02'
 eventRecurring: true
 eventVenue: LANXESS arena
 eventFactsAsked: true
-gallery: []
 tags:
   - cologne
   - event
@@ -28,6 +27,16 @@ faq:
     a: Cologne's Christmas markets are on, including the one beside Cologne Cathedral and others at Heumarkt and Alter Markt. The old town's Kölsch brewhouses are a short walk back over the Rhine.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/d/d2/Team_Germany_Darts_WC_2025.png
+  credit: 'Photo: DARTS NOW / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Team_Germany_Darts_WC_2025.png
+  focus:
+    x: 27
+    'y': 21
+    top: 5
+    bottom: 37
 ---
 
 ## A midweek night of darts in Deutz

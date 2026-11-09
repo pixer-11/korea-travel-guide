@@ -13,7 +13,6 @@ eventOrganizer:
   name: World Triathlon
   url: https://triathlon.org
 eventFactsAsked: true
-gallery: []
 tags:
   - abu dhabi
   - event
@@ -31,6 +30,16 @@ faq:
     a: Daytime highs are typically around 30°C and the sea is warm. Races usually start in the morning, and spectators tend to bring hats and water because the course has little shade.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/4/40/ITU_World_Triathlon_Grand_Final_Edmonton.jpg
+  credit: 'Photo: IQRemix from Canada / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:ITU_World_Triathlon_Grand_Final_Edmonton.jpg
+  focus:
+    x: 22
+    'y': 36
+    top: 28
+    bottom: 44
 ---
 
 ## Ten days of racing on one island

@@ -13,7 +13,6 @@ eventOrganizer:
   name: Indigo Productions
   url: https://indigo-productions.fr/en/
 eventFactsAsked: true
-gallery: []
 tags:
   - rennes
   - event
@@ -31,6 +30,14 @@ faq:
     a: 12 December 2026 is a Saturday, so the Marché des Lices food market runs that morning. Les Champs Libres and its Musée de Bretagne sit directly across the esplanade from Le Liberté, and the old town and Parlement de Bretagne are a short walk north.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/f/fc/Le_Liberte-Rennes-2010.jpg
+  credit: 'Photo: JeanRuche[1] / Wikimedia Commons (CC BY-SA 2.5)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Le_Liberte-Rennes-2010.jpg
+  focus:
+    x: 30
+    'y': 25
 ---
 
 ## Borrowed choreography, real lightsticks

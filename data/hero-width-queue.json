@@ -3483,7 +3483,13 @@
   "luxor-mortuary-temple-of-hatshepsut\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Templo_funerario_de_Hatshepsut%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_13.jpg/1920px-Templo_funerario_de_Hatshepsut%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_13.jpg": 1920,
   "luxor-mortuary-temple-of-ramesses-iii\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/27391-_Mortuary_temple_of_Ramesses_III%2C_Medinet_Habu.jpg/3840px-27391-_Mortuary_temple_of_Ramesses_III%2C_Medinet_Habu.jpg": 3840,
   "luxor-ramesseum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/SFEC_AEH_-ThebesNecropolis-2010-RamsesII-021.jpg/1920px-SFEC_AEH_-ThebesNecropolis-2010-RamsesII-021.jpg": 1920,
-  "luxor-valley-of-the-kings\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Luxor_Valley_of_the_Kings_R01.jpg/3840px-Luxor_Valley_of_the_Kings_R01.jpg": 3840
+  "luxor-valley-of-the-kings\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Luxor_Valley_of_the_Kings_R01.jpg/3840px-Luxor_Valley_of_the_Kings_R01.jpg": 3840,
+  "cologne-world-darts-gala-cologne\u0001https://upload.wikimedia.org/wikipedia/commons/d/d2/Team_Germany_Darts_WC_2025.png": 1645,
+  "abu-dhabi-2026-world-triathlon-multisport-championships-abu-dhabi\u0001https://upload.wikimedia.org/wikipedia/commons/4/40/ITU_World_Triathlon_Grand_Final_Edmonton.jpg": 1976,
+  "buenos-aires-yves-2026-tour-buenos-aires\u0001https://upload.wikimedia.org/wikipedia/commons/b/b5/Yves_%2855265139729%29.jpg": 3497,
+  "melbourne-wwe-australia-live-tour-melbourne\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/WWE_Super_Show-down_2018.jpg/3840px-WWE_Super_Show-down_2018.jpg": 3840,
+  "rennes-k-pop-forever-rennes\u0001https://upload.wikimedia.org/wikipedia/commons/f/fc/Le_Liberte-Rennes-2010.jpg": 1200,
+  "luxor-karnak\u0001https://fastly.4sqi.net/img/general/original/2573088_c2HsAkK-QqlQxDBX3YXuPoY9lIA6pAkoMc2M5_t5Y6o.jpg": 1920
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -3808,15 +3814,15 @@
   },
   "istanbul-araf": {
    "width": 1080,
-   "attempts": 3,
-   "nextTry": "2026-11-09",
+   "attempts": 4,
+   "nextTry": "2026-11-16",
    "flaggedAt": "2026-10-01",
    "lastResult": "no-wider"
   },
   "istanbul-istanbul-marathon": {
    "width": 1024,
-   "attempts": 3,
-   "nextTry": "2026-11-09",
+   "attempts": 4,
+   "nextTry": "2026-11-16",
    "flaggedAt": "2026-10-01",
    "lastResult": "no-wider"
   },
@@ -4014,5 +4020,5 @@
    "flaggedAt": "2026-11-06"
   }
  },
- "updated": "2026-11-09T18:33:26.544Z"
+ "updated": "2026-11-09T19:47:48.691Z"
 }
