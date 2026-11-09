@@ -1,5 +1,5 @@
 ---
-title: 'MandoWave Festival (曼波祭): Dates, Tickets & Venue (Kuala Lumpur)'
+title: 'MandoWave Festival: Dates, Tickets & Venue (Kuala Lumpur)'
 description: MandoWave Festival (曼波祭) is a one-day Mandarin music festival in Kuala Lumpur on November 28, 2026, with eight Mandopop and indie artists on the bill.
 country: Malaysia
 region: Kuala Lumpur

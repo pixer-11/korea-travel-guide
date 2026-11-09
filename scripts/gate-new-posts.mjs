@@ -162,6 +162,11 @@ const CHECKS = [
       // EDITOR-NOTE (a repair's own note left in an FAQ answer),
       // EVENT-VENUE-GUESSED (directions to a station for a venue the text
       // admits is unconfirmed), SAME-PHOTO-TWICE, and UNPARSEABLE FRONTMATTER.
+      // This message quotes the title, and almost every title has a colon, so
+      // the shared pattern below stopped there and never held one: "MandoWave
+      // Festival (曼波祭): Dates…" went live on 2026-11-09.
+      const nonLatin = l.match(/NON-LATIN script in title .*:\s*(\S+\.md)\s*$/)?.[1];
+      if (nonLatin) return nonLatin;
       const broken = l.match(/UNPARSEABLE FRONTMATTER:\s*(\S+\.md)/)?.[1];
       if (broken) UNPARSEABLE.add(broken);
       return l.match(/(?:MISSING-COUNTRY|PHOTO-WRONG-VENUE|TOOL-SPILL|PLACEHOLDER\/no image|NON-LATIN script in title|BROKEN TITLE|GARBLED place\.name|EVENT missing eventStartDate|EVENT-DATES-REVERSED|DUPLICATE event coverage|CONTRADICTORY event dates|STUB-BODY|PROMPT-LEAK|EDITOR-NOTE in \w+|EVENT-VENUE-GUESSED|SAME-PHOTO-TWICE|UNPARSEABLE FRONTMATTER|ENDED-EVENT-FUTURE-TENSE|ENDED-EVENT-FABRICATED-AVAILABILITY|ENDED-EVENT-ADVICE)[^:]*:\s*(\S+\.md)/)?.[1]

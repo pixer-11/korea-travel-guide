@@ -83,6 +83,12 @@ t('중복 이벤트 줄에서 두 파일을 모두 지목한다', () => {
   return null;
 });
 
+t('제목에 콜론이 있어도 비라틴 제목 글을 지목한다', () => {
+  const fake = `node -e "console.log('  • NON-LATIN script in title \\"MandoWave Festival (X): Dates, Tickets…\\": mando-post.md'); process.exit(1)"`;
+  const r = runWith([['node scripts/validate-content.mjs', fake]]);
+  return /mando-post\.md/.test(r.out) ? null : `글을 지목하지 않음 — 그대로 발행된다: ${r.out.slice(-300)}`;
+});
+
 t('날짜가 어긋난 쌍도 두 파일 모두 지목한다', () => {
   const fake = `node -e "console.log('  • CONTRADICTORY event dates (motogp, 2026-09-01~2026-09-02 vs 2026-09-05~2026-09-06): aa.md, bb.md'); process.exit(1)"`;
   const r = runWith([['node scripts/validate-content.mjs', fake]]);
