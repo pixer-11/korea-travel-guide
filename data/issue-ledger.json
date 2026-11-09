@@ -1,5 +1,32 @@
 {
-  "validate-content": {},
-  "audit-translations": {},
+  "validate-content": {
+    "NON-LATIN Dates": {
+      "since": "2026-11-09",
+      "last": "2026-11-09",
+      "seen": 1
+    }
+  },
+  "audit-translations": {
+    "broken-bold posts/es/melbourne-a-ap-rocky-don-t-be-dumb-world-tour.md": {
+      "since": "2026-11-09",
+      "last": "2026-11-09",
+      "seen": 1
+    },
+    "broken-bold posts/ja/melbourne-a-ap-rocky-don-t-be-dumb-world-tour.md": {
+      "since": "2026-11-09",
+      "last": "2026-11-09",
+      "seen": 1
+    },
+    "broken-bold posts/ko/melbourne-a-ap-rocky-don-t-be-dumb-world-tour.md": {
+      "since": "2026-11-09",
+      "last": "2026-11-09",
+      "seen": 1
+    },
+    "broken-bold posts/zh/melbourne-a-ap-rocky-don-t-be-dumb-world-tour.md": {
+      "since": "2026-11-09",
+      "last": "2026-11-09",
+      "seen": 1
+    }
+  },
   "audit-hours-claims": {}
 }
